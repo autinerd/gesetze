@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 409
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -26,7 +24,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S.
 3197) verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -44,11 +41,9 @@ Groß- und Außenhandel wird staatlich anerkannt.
 
 gewählt werden.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -59,7 +54,6 @@ Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die
 in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den
 §§ 8 bis 10 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -164,10 +158,6 @@ mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 2.2 Fremdsprachige Kommunikation.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -178,13 +168,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -193,7 +181,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -218,10 +205,6 @@ Fälle aus den folgenden Gebieten bearbeiten:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 9 Abschlussprüfung in der Fachrichtung Großhandel
 
@@ -364,7 +347,6 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## § 10 Abschlussprüfung in der Fachrichtung Außenhandel
 
 (1) Die Abschlussprüfung in der Fachrichtung Außenhandel erstreckt
@@ -502,7 +484,6 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -510,11 +491,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel - Sachliche Gliederung -
 
@@ -1250,13 +1229,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
         d)  fremdsprachiges Informationsmaterial auswerten
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel - Zeitliche Gliederung -
 

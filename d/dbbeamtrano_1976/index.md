@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Abschn. II Satz 2 AnO v. 28.6.1982 I 1012
 
-
 ## I.
 
 Wir übertragen folgende Befugnisse den nachstehenden Stellen oder
@@ -165,10 +164,6 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
     eines durch Dienstunfall verletzten Beamten, Versorgungsempfängers
     oder früheren Beamten anzuordnen.
 
-
-
-
-
 ## II.
 
 Wir ermächtigen - je für ihren Geschäftsbereich -
@@ -257,13 +252,6 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
         genehmigen, in denen die Umzugskostenvergütung nicht zugesagt worden
         ist.
 
-
-
-
-
-
-
-
 ## III.
 
 Wir bestimmen, daß
@@ -343,13 +331,6 @@ Wir bestimmen, daß
         Kinderreisebeihilfen an Bundesbahnbedienstete im Ausland zuständig
         ist.
 
-
-
-
-
-
-
-
 ## IV.
 
 Wir ordnen nach § 29 Abs. 4 BDO an, daß - je für ihren
@@ -377,7 +358,6 @@ Geschäftsbereich - Geldbußen verhängen können:
 
 Die hier nicht genannten übrigen Dienstvorgesetzten im Sinne des § 29
 Abs. 3 Nr. 3 BDO sind nicht befugt, Geldbußen zu verhängen.
-
 
 ## V.
 
@@ -453,28 +433,18 @@ Abs. 3 Nr. 3 BDO sind nicht befugt, Geldbußen zu verhängen.
         Aufenthalt außerhalb des Geltungsbereichs des BBG, so bleibt die
         Bundesbahndirektion zuständig, die ihn bis dahin zu betreuen hatte.
 
-
-
-
-
-
-
-
 ## VI.
 
 -
-
 
 ## VII.
 
 Wir behalten uns im Einzelfall Entscheidungen nach den Abschnitten I
 bis VI dieser Anordnung vor.
 
-
 ## VIII.
 
 Diese Anordnung tritt mit Wirkung vom 1. Februar 1976 in Kraft.
-
 
 ## Schlußformel
 

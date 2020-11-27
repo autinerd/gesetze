@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1672
 
-
-
 ## (XXXX)
 
 Gemäß § 76 Satz 2 des Bundesbeamtengesetzes übertrage ich die Ausübung

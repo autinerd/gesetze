@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 20.3.2009 I 607
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 3 des Pfandbriefgesetzes vom 22. Mai 2005
@@ -33,10 +31,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
 dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände der
 Kreditwirtschaft:
 
-
 ## Teil 1 - Anwendungsbereich; allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich; Begriffsbestimmungen
 
@@ -50,7 +45,6 @@ Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt).
 (2) Eintragungen im Sinne dieser Verordnung sind auch
 Löschungsvermerke.
 
-
 ### § 2 Form der Deckungsregister; Eintragungen
 
 (1) Deckungsregister können nach Maßgabe des Teils 3 in Papierform
@@ -62,13 +56,11 @@ Veränderungen sind zu dokumentieren. Die Dokumentation ist für jede
 Person mindestens fünf Jahre nach Widerruf der Ermächtigung
 aufzubewahren.
 
-
 ### § 3 Schutz der Deckungsregister
 
 Deckungsregister sind vor unberechtigtem Zugriff sowie vor
 Beschädigung oder Zerstörung durch äußere Einwirkungen wie Feuer oder
 Wasser besonders zu schützen.
-
 
 ### § 4 Haupt- und Unterregister
 
@@ -103,7 +95,6 @@ Informationen nach den §§ 9 bis 14 enthalten und sollen die in den
 Anlagen 1 bis 3 vorgesehenen Inhalte der Formulare DR 1, DR 2 und DR 3
 in übersichtlicher Form wiedergeben.
 
-
 ### § 5 Vollständigkeit des Deckungsregisters
 
 (1) Eintragungen dürfen, sofern es sich nicht um Schreibfehler,
@@ -115,10 +106,7 @@ vorgenommene spätere Änderungen jederzeit erkennbar sind. Durch
 technische und organisatorische Maßnahmen ist sicherzustellen, dass
 der ursprüngliche Inhalt weiterhin feststellbar bleibt.
 
-
 ## Teil 2 - Zusätzliche Anforderungen bei elektronischer Registerführung
-
-
 
 ### § 6 Allgemeine Anforderungen
 
@@ -131,7 +119,6 @@ Bildschirm und in Ausdrucken in einer Weise sichtbar gemacht werden
 können, die die Eintragungen nach Form und Inhalt vollständig
 abbildet. Das elektronische Deckungsregister muss jederzeit
 vollständig ausgedruckt werden können.
-
 
 ### § 7 Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
 
@@ -178,10 +165,7 @@ zu speichern als das Deckungsregister und mindestens am Ende eines
 jeden Arbeitstages auf den Stand zu bringen, den das Deckungsregister
 zu diesem Zeitpunkt hat.
 
-
 ## Teil 3 - Inhalt der Eintragungen
-
-
 
 ### § 8 Allgemeine Anforderungen
 
@@ -197,7 +181,6 @@ Deckungswerts nicht erneut vergeben werden.
 Bemerkungen vorzusehen, die zur eindeutigen rechtlichen Zuordnung des
 Deckungswerts neben den übrigen Angaben erforderlich sind oder die
 Zuordnung erheblich erleichtern können.
-
 
 ### § 9 Eintragung im Inland belegener Hypotheken und Grundschulden
 
@@ -266,10 +249,6 @@ Weise vorzunehmen:
     Übertragungsanspruchs in Spalte 6 zu vermerken; bei teilweiser
     treuhänderischer Verwaltung gilt Nummer 7 entsprechend.
 
-
-
-
-
 ### § 10 Eintragung ausländischer Sicherungsrechte
 
 (1) Eintragungen ausländischer Sicherungsrechte sind entsprechend den
@@ -293,7 +272,6 @@ Registern erfasst sind, sind die Anschrift, die Größe sowie
 diejenigen, innerhalb der jeweiligen Rechtsordnung gebräuchlichen
 Angaben einzutragen, die eine eindeutige Identifizierung des
 Grundstücks ermöglichen.
-
 
 ### § 11 Eintragung von Deckungswerten nach § 20 Abs. 1 des Pfandbriefgesetzes
 
@@ -323,10 +301,6 @@ Formulars DR 2 in folgender Weise vorzunehmen:
     zumindest auch die Angaben des zu löschenden Werts in den Spalten 1
     und 2 zu wiederholen. § 9 Nr. 5 Satz 4 und 5 gilt entsprechend.
 
-
-
-
-
 ### § 12 Eintragung von Deckungswerten nach § 21 und § 26 Abs. 1 Nr. 1 des Pfandbriefgesetzes
 
 (1) Eintragungen von Deckungswerten nach § 21 und § 26 Abs. 1 Nr. 1
@@ -343,7 +317,6 @@ abstrakten Schuldversprechen oder Schuldanerkenntnissen, die durch
 Schiffshypotheken gesichert sind, sind die zugrunde liegenden
 Darlehensforderungen in Spalte 4 einzutragen. § 9 Nr. 4 Satz 2 gilt
 entsprechend.
-
 
 ### § 12a Eintragung von Deckungswerten nach den §§ 26a und 26f Abs. 1 Nr. 1 des Pfandbriefgesetzes
 
@@ -362,7 +335,6 @@ Gesetzes über Rechte an Luftfahrzeugen oder durch ausländische
 Flugzeughypotheken gesichert sind, sind die zugrunde liegenden
 Darlehensforderungen in Spalte 4 einzutragen. § 9 Nr. 4 Satz 2 gilt
 entsprechend.
-
 
 ### § 13 Eintragung von Ansprüchen aus Derivategeschäften
 
@@ -414,10 +386,6 @@ vorzunehmen:
     zumindest auch die Angaben des zu löschenden Werts in den Spalten 1
     bis 3 und 6 zu wiederholen. § 9 Nr. 5 Satz 4 und 5 gilt entsprechend.
 
-
-
-
-
 ### § 14 Eintragung von Deckungswerten nach § 4 Abs. 1 Satz 2, § 19 Abs. 1 Nr. 1 und 2, § 20 Abs. 2 Nr. 2 sowie § 26f Abs. 1 Nr. 2 und 3 des Pfandbriefgesetzes
 
 Eintragungen von Deckungswerten nach § 4 Abs. 1 Satz 2, § 19 Abs. 1
@@ -430,10 +398,7 @@ zusätzlich die besondere Schuldform kenntlich zu machen. Im Fall des §
 4 Abs. 1 Satz 2 Nr. 3 des Pfandbriefgesetzes sind anstelle des
 Schuldners die kontoführende Bank und die Kontonummer zu nennen.
 
-
 ## Teil 4 - Aufzeichnungen und Bestätigungen nach § 5 Abs. 2 des Pfandbriefgesetzes
-
-
 
 ### § 15 Form der Aufzeichnung und Übermittlung
 
@@ -454,7 +419,6 @@ einmal beschreibbarer Datenträger übermittelt werden. Werden in diesem
 Fall die Deckungsregister vollständig übermittelt, sind die
 Eintragungen des letzten Kalenderhalbjahres besonders kenntlich zu
 machen.
-
 
 ### § 16 Treuhänderbestätigung
 
@@ -482,7 +446,6 @@ Datenträger dauerhaft verbunden sein muss, dass er sich nicht ohne
 erkennbare Beschädigungen wieder entfernen lässt, seine
 Namensunterschrift beizufügen.
 
-
 ### § 17 Aufbewahrung durch die Bundesanstalt
 
 Die Bundesanstalt hat die Aufzeichnungen 50 Jahre aufzubewahren. Die
@@ -491,10 +454,7 @@ oder Zerstörung durch äußere Einwirkungen besonders zu schützen. Die
 Befugnisse zum Zugriff auf die Aufzeichnungen sind auf bestimmte
 Mitarbeiter der Bundesanstalt zu beschränken.
 
-
 ## Teil 5 - Schlussbestimmungen
-
-
 
 ### § 18 Übergangsbestimmungen
 
@@ -512,23 +472,19 @@ dem elektronisch geführten Teil des Deckungsregisters anzugeben. Die
 Einheitlichkeit des Deckungsregisters ist durch deutliche Verweise auf
 die in Papierform fortgeführten Bestandteile herzustellen.
 
-
 ### § 19 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach Verkündung in Kraft.
-
 
 ### Anlage 1 (zu § 9)
 
 ... (nicht darstellbares Formular DR 1 Deckungsregister (Hypotheken)
 Fundstelle: BGBl. I 2006, 2078
 
-
 ### Anlage 2 (zu § 11)
 
 ... (nicht darstellbares Formular DR 2 Deckungsregister (Kommunal)
 Fundstelle: BGBl. I 2006, 2078
-
 
 ### Anlage 3 (zu § 13)
 

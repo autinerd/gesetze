@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 16.2.1995 I 217
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 7, des § 15 Satz 1, des § 16 und des § 31
@@ -29,7 +28,6 @@ Bundesministerium für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit den Bundesministerien der Finanzen und für
 Wirtschaft:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -37,13 +35,11 @@ Rechtsakte des Rates und der Kommission der Europäischen
 Gemeinschaften im Rahmen der gemeinsamen Marktorganisation für Saatgut
 hinsichtlich der Gewährung einer Beihilfe.
 
-
 ## § 2 Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung.
-
 
 ## § 3 Voraussetzung für die Beihilfegewährung
 
@@ -83,7 +79,6 @@ der Aussaat oder nach Vertragsabschluß zugelassen, so ist die Meldung
 nach Absatz 1 innerhalb von sechs Wochen nach Festsetzung der Beihilfe
 oder der Sortenzulassung nachzuholen.
 
-
 ## § 4 Registrierung
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung erstellt auf
@@ -92,7 +87,6 @@ Saatgutfirmen.
 
 (2) Die Einsicht in das Verzeichnis steht jedem zu, der ein
 berechtigtes Interesse glaubhaft macht.
-
 
 ## § 5 Beihilfeantrag
 
@@ -119,7 +113,6 @@ nach Eingang an den Vermehrer weiterzuleiten, falls diesem nicht
 bereits Abschlagszahlungen mindestens in Höhe der Beihilfe geleistet
 wurden.
 
-
 ## § 6 Ergänzende Melde- und Vorlagepflichten
 
 Der Züchter, die Saatgutfirma oder der Vermehrer hat Änderungen des
@@ -128,7 +121,6 @@ Bundesanstalt für Landwirtschaft und Ernährung mitzuteilen. Sie sind
 verpflichtet, der Bundesanstalt für Landwirtschaft und Ernährung auf
 Verlangen die Mitteilung über die Ergebnisse der Prüfung des
 Feldbestandes vorzulegen.
-
 
 ## § 7 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -146,7 +138,6 @@ die für die Beihilfegewährung von Bedeutung sind, sind vom
 Beihilfeberechtigten bis zum Ablauf des sechsten auf das Jahr der
 Saatguternte folgenden Kalenderjahres aufzubewahren.
 
-
 ## § 8 Muster und Vordrucke
 
 Sofern die Bundesanstalt für Landwirtschaft und Ernährung für die
@@ -154,7 +145,6 @@ Vermehrungserklärung oder die Mitteilung des Vertragsabschlusses nach
 § 3 Abs. 1, den Beihilfeantrag nach § 5 Abs. 1 oder für die
 Änderungsmitteilung nach § 6 Satz 1 Muster im Bundesanzeiger
 bekanntgegeben hat oder Vordrucke bereithält, sind diese zu verwenden.
-
 
 ## § 9 Inkrafttreten
 
@@ -164,7 +154,6 @@ Saatgut vom 23. Februar 1973 (BGBl. I S. 118), zuletzt geändert durch
 die Verordnung vom 17. April 1975 (BGBl. I S. 965), außer Kraft;
 ihre Vorschriften sind jedoch hinsichtlich der Gewährung von Beihilfen
 für Saatgut im Wirtschaftsjahr 1993/94 weiter anzuwenden.
-
 
 ## Schlußformel
 

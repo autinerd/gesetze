@@ -48,7 +48,6 @@ Stand: Die zugehörige V v. 21.12.2011 BAnz. Nr. 196, 4621 (GebäudeArbbV 3) tri
     Maßgeblich ist die am 1. Januar 2012 geltende Fassung.
 [^BJNR519610011BJNE000100000_01]: 
 
-
 ## § 2 Mindestlöhne
 
 
@@ -166,10 +165,6 @@ Stand: Die zugehörige V v. 21.12.2011 BAnz. Nr. 196, 4621 (GebäudeArbbV 3) tri
     zahlen ist, so ist die Arbeitszeit getrennt nach diesen Arbeitsstellen
     monatsbezogen aufzuzeichnen.
 
-
-
-
-
 ## § 3 Geringfügig Beschäftigte der Lohngruppe 1 – Monatslohn
 
 
@@ -194,10 +189,6 @@ Stand: Die zugehörige V v. 21.12.2011 BAnz. Nr. 196, 4621 (GebäudeArbbV 3) tri
     denen die individuelle Arbeitszeit nach Nummer 1 ausnahmsweise
     überschritten wird.
 
-
-
-
-
 ## § 4 Lohn der Arbeitsstelle – Lohn bei auswärtiger Beschäftigung
 
 Es gilt der Mindestlohn der Arbeitsstelle. Werden Beschäftigte an
@@ -207,7 +198,6 @@ Einstellung gearbeitet haben, wenn der Mindestlohn der auswärtigen
 Arbeitsstelle niedriger ist. Ist der Mindestlohn der auswärtigen
 Arbeitsstelle höher, so haben sie Anspruch auf diesen Mindestlohn,
 solange sie auf dieser Arbeitsstelle arbeiten.
-
 
 ## Anhang Auszug aus dem Rahmentarifvertrag für die gewerblichen Beschäftigten in der Gebäudereinigung vom 28. Juni 2011 (RTV Gebäudereinigung) in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Januar 2012 geltenden Fassung:
 

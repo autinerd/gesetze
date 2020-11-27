@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 29.7.2009 I 2350
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Organisation, Aufgaben und Befugnisse
 
@@ -65,7 +63,6 @@ Stellen. Die Befugnisse der Helferinnen und Helfer richten sich in
 diesen Fällen nach den Weisungen und den rechtlichen Zuständigkeiten
 der Einsatzleitung.
 
-
 ## § 2 Helferinnen und Helfer
 
 (1) Helferinnen und Helfer im Sinne dieses Gesetzes sind Personen, die
@@ -87,7 +84,6 @@ ihrer Aufgaben nicht mehr geeignet sind. Das Bundesministerium des
 Innern wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates Zustandekommen, Inhalt und Beendigung des
 Helferdienstverhältnisses im Einzelnen zu regeln.
-
 
 ## § 3 Soziale Sicherung
 
@@ -165,7 +161,6 @@ bedarf nicht der Zustimmung des Bundesrates.
 sind Angestellte, Arbeiterinnen und Arbeiter sowie die zu ihrer
 Berufsbildung Beschäftigten.
 
-
 ## § 4 Mitwirkung
 
 Die Helferinnen und Helfer wirken auf allen Ebenen des Technischen
@@ -176,7 +171,6 @@ sowie der Bundesausschuss beraten die jeweiligen Gliederungen des
 Technischen Hilfswerks. Das Nähere regelt das Bundesministerium des
 Innern durch Rechtsverordnung ohne Zustimmung des Bundesrates.
 
-
 ## § 5 Beirat
 
 Beim Bundesministerium des Innern wird ein Beirat aus Vertretern des
@@ -185,7 +179,6 @@ der THW-Bundesvereinigung gebildet, der das Bundesministerium des
 Innern in grundsätzlichen Angelegenheiten des Technischen Hilfswerks
 berät. Das Bundesministerium des Innern erläßt eine Geschäftsordnung,
 die Näheres regelt.
-
 
 ## § 6 Kosten
 
@@ -210,7 +203,6 @@ Bundesanstalt Technisches Hilfswerk näher zu bestimmen und dabei feste
 Sätze vorzusehen. In der Rechtsverordnung kann der Verzicht auf
 Kostenerstattung aus Gründen der Billigkeit oder des öffentlichen
 Interesses ganz oder teilweise zugelassen werden.
-
 
 ## § 7 (weggefallen)
 

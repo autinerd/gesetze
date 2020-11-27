@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2027
 
-
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz gilt für Beamtinnen, Beamte, Soldatinnen, Soldaten,
@@ -26,12 +24,10 @@ Beibehaltung ihres Dienst- oder Arbeitsverhältnisses zum Bund eine
 Tätigkeit in einem Wirtschaftsunternehmen zugewiesen wurde, mit dem
 die Bundeswehr eine Kooperation eingegangen ist.
 
-
 ## § 2 Aktives Wahlrecht zum Personalrat
 
 Beamtinnen, Beamte, Angestellte, Arbeiterinnen und Arbeiter bleiben
 zum Personalrat ihrer Dienststelle wahlberechtigt.
-
 
 ## § 3 Passives Wahlrecht zum Personalrat
 
@@ -39,7 +35,6 @@ Für die Wählbarkeit zum Personalrat der Dienststelle gilt § 14 des
 Bundespersonalvertretungsgesetzes. Als Beschäftigung im Sinne des § 14
 Abs. 1 Satz 1 Nr. 2 des Bundespersonalvertretungsgesetzes gilt auch
 die Beschäftigung in einem Kooperationsbetrieb.
-
 
 ## § 4 Sondervorschriften für Soldatinnen und Soldaten
 
@@ -54,7 +49,6 @@ Zugehörigkeit zu einem Kooperationsbetrieb bei der Wahl einer
 Vertrauensperson für ihren Wahlbereich wahlberechtigt, sind jedoch als
 Vertrauensperson nicht wählbar.
 
-
 ## § 5 Schwerbehinderte Menschen
 
 (1) Die Tätigkeit in einem Kooperationsbetrieb lässt die
@@ -65,7 +59,6 @@ Bundesministeriums der Verteidigung unberührt.
 (2) Schwerbehinderte Menschen gelten für die Anwendung der
 Vorschriften über die Schwerbehindertenvertretung im
 Kooperationsbetrieb als Beschäftigte.
-
 
 ## § 6 Geltung arbeitsrechtlicher Vorschriften
 
@@ -87,7 +80,6 @@ dem Sprecherausschussgesetz sowie den Vorschriften über die
 Schwerbehindertenvertretung obliegen, deshalb nicht erfüllen kann,
 weil er nicht Dienstherr und Arbeitgeber der in § 1 genannten Personen
 ist, treffen diese Verpflichtungen deren jeweilige Dienststelle.
-
 
 ## § 7 Übergangsmandat
 
@@ -117,14 +109,12 @@ Jugend- und Auszubildendenvertretung zu bestellen hat.
 (5) Die Absätze 1 bis 3 gelten entsprechend für die
 Schwerbehindertenvertretungen.
 
-
 ## § 8 Weitergeltung von Dienstvereinbarungen
 
 Die in den Dienststellen im Zeitpunkt der Zuweisung geltenden
 Dienstvereinbarungen gelten im Kooperationsbetrieb für längstens zwölf
 Monate als Betriebsvereinbarungen weiter, soweit sie nicht durch
 andere Regelungen ersetzt werden.
-
 
 ## § 9 Anhängige Verfahren
 

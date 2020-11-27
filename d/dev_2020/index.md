@@ -26,7 +26,6 @@ Zuletzt geändert durch
     L 275 vom 25.10.2003, S. 32), die zuletzt durch die Richtlinie
     2009/29/EG (ABl. L 140 vom 5.6.2009, S. 63) geändert worden ist.
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 Absatz 2, 3 und 6 Satz 2 des Treibhausgas-
@@ -34,9 +33,7 @@ Emissionshandelsgesetzes, der durch Artikel 1 Nummer 4 des Gesetzes
 vom 16. Juli 2009 (BGBl. I S. 1954) eingefügt worden ist, verordnet
 die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -89,7 +86,6 @@ Luftfahrzeugbetreiber durch eine neue Fassung der Verordnung (EG) Nr.
 die vorliegende Verordnung auf ihn anwendbar, bis er seine Pflichten
 nach § 4 hinsichtlich der Emissionen des Jahres 2010 und seine
 Pflichten nach § 5 erfüllt hat.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -159,7 +155,6 @@ Pflichten nach § 5 erfüllt hat.
 (2) Im Übrigen gelten die Begriffsbestimmungen aus Anhang I Abschnitt
 2 Nummer 1 bis 5 der Monitoring-Leitlinien.
 
-
 ### § 3 Allgemeine Anforderungen an die Ermittlung von Daten und deren Berichterstattung
 
 (1) Luftfahrzeugbetreiber sowie Verantwortliche für eine weitere
@@ -177,9 +172,7 @@ der Angaben nachvollziehbar darzustellen. Die zugrunde liegenden
 Einzelnachweise sind auf Verlangen der zuständigen Behörde
 unverzüglich vorzulegen.
 
-
 ## Abschnitt 2 - Berichtspflichten für Luftfahrzeugbetreiber
-
 
 ### § 4 Ermittlung von Emissionsdaten, Berichterstattung sowie Erstellung des Überwachungsplans
 
@@ -251,7 +244,6 @@ Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt
 die für den Luftfahrzeugbetreiber maßgeblichen Änderungen nach Satz 1
 und 2 im Bundesanzeiger bekannt.
 
-
 ### § 5 Ermittlung von Flugstrecke und Nutzlast, Berichterstattung sowie Erstellung des Überwachungsplans
 
 (1) Der Luftfahrzeugbetreiber hat die durch seine
@@ -290,7 +282,6 @@ Anspruch auf kostenlose Zuteilung von Berechtigungen für die
 Zuteilungsperiode 2012 und für die Zuteilungsperiode 2013 bis 2020
 verzichtet.
 
-
 ### § 6 Befreiung für gelistete Luftfahrzeugbetreiber mit privilegierten Flügen
 
 (1) Auf Antrag eines Luftfahrzeugbetreibers, der durch die Liste der
@@ -323,9 +314,7 @@ beziehen sich die Ermittlungs- und Berichtspflichten nach § 4 Absatz 5
 und § 5 Absatz 1 Satz 1 jeweils auf das gesamte Kalenderjahr, in dem
 die Befreiung nach Satz 1 erloschen ist.
 
-
 ## Abschnitt 3 - Mitteilungspflichten für die Verantwortlichen weiterer Tätigkeiten
-
 
 ### § 7 Ermittlung und Mitteilung von Daten
 
@@ -417,10 +406,6 @@ folgende Daten anzugeben:
     weitergeleiteter Kuppelgase, Synthesegase oder Treibhausgase die
     Angaben über Menge und Herkunft der Gase.
 
-
-
-
-
 ### § 8 Besondere Anforderungen an die Ermittlung und Mitteilung von perfluorierten Kohlenwasserstoffen (PFC)
 
 (1) Unter den perfluorierten Kohlenwasserstoffen sind Tetrafluormethan
@@ -468,10 +453,6 @@ zusätzlich zu den Daten nach § 7 folgende Daten mitzuteilen:
 8.  die bei der Ermittlung der Emissionsmenge von Hexafluorethan nach
     Formel 5 verwendeten Gewichtungsfaktoren.
 
-
-
-
-
 ### § 9 Besondere Anforderungen an die Ermittlung und Mitteilung von Distickstoffoxid (N2O)
 
 (1) Bei der Ermittlung und Mitteilung von Distickstoffoxid gilt
@@ -491,9 +472,7 @@ mitgeteilt, so hat der Verantwortliche für die weitere Tätigkeit
 darzulegen, auf welcher Grundlage die Ermittlung beruht und welcher
 Grad an Genauigkeit erzielt worden ist.
 
-
 ## Abschnitt 4 - Verfahren
-
 
 ### § 10 Elektronische Kommunikation
 
@@ -504,7 +483,6 @@ elektronischen Formularvorlagen zu benutzen haben und die ausgefüllten
 Formularvorlagen in elektronischer Form zu übermitteln sind. Sie gibt
 Anordnungen nach Satz 1 mindestens einen Monat vor Ablauf der
 festgelegten Übermittlungsfrist im Bundesanzeiger bekannt.
-
 
 ### § 11 Prüfung
 
@@ -526,9 +504,7 @@ Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, bekannt.
 
-
 ## Abschnitt 5 - Sanktionen und Inkrafttreten
-
 
 ### § 12 Ordnungswidrigkeiten
 
@@ -558,19 +534,13 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
     Absatz 2 oder § 9 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht.
 
-
-
-
-
 ### § 13 Zuständige Behörde
 
 Zuständige Behörde im Sinne dieser Verordnung ist das Umweltbundesamt.
 
-
 ### § 14 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1 (zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1 und § 6) Privilegierte Flüge
 
@@ -657,10 +627,6 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     gehörenden Ministerinnen und Ministern eines Mitgliedstaats der
     Europäischen Union in Ausübung ihres Amtes durchgeführt werden.
 
-
-
-
-
 ### Anlage 2 (zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8) Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
 
 (Fundstelle BGBl. I 2009, 2124 - 2125)
@@ -706,9 +672,6 @@ Bestimmung der Emissionen von Tetrafluormethan (CF
 3.  Für die in Formel 3 anzusetzenden Überspannungskoeffizienten gelten
     die Anforderungen nach Nummer 2 entsprechend.
 
-
-
-
 ## Teil 2
 
 Bestimmung der Emissionen von Hexafluorethan (C
@@ -725,9 +688,6 @@ Bestimmung der Emissionen von Hexafluorethan (C
 2.  Für den Gewichtungsfaktor können die Standardfaktoren aus Spalte 4 der
     Tabelle in Teil 3 verwendet werden. Im Fall einer Messung gelten die
     Anforderungen unter Teil 1 Nummer 2 entsprechend.
-
-
-
 
 ## Teil 3
 
@@ -942,8 +902,6 @@ C2F6/CF4, i
         2                     F
         6                      / kg CF
         4                      für Zelltyp i angibt
-
-
 
 ## Tabelle
 

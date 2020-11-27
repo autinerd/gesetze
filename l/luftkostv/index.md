@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 8.5.2012 I 1032
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 13 des Luftverkehrsgesetzes in
@@ -27,7 +26,6 @@ Verbindung mit dem zweiten Abschnitt des Verwaltungskostengesetzes vom
 23\. Juni 1970 (BGBl. I S. 821) wird im Einvernehmen mit den
 Bundesministern der Finanzen und für Wirtschaft und mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1 Grundsatz
 
@@ -39,7 +37,6 @@ Verordnung.
 
 (2) Im übrigen gilt das Verwaltungskostengesetz, soweit nachfolgend
 nichts anderes bestimmt ist.
-
 
 ## § 2 Gebühren
 
@@ -74,7 +71,6 @@ Gebühr kann bei einem geringen jährlichen Fluggastaufkommen auf einem
 Flughafen innerhalb des vorgesehenen Gebührenrahmens um bis zu 50
 Prozent ermäßigt werden.
 
-
 ## § 3 Auslagen
 
 (1) Auslagen sind nach § 10 Abs. 1 Nr. 1 bis 8 des
@@ -107,7 +103,6 @@ externe Verwaltungshelfer bei Genehmigungs-, Plangenehmigungs- und
 Planfeststellungsverfahren für Flugplätze eingesetzt, sind die dadurch
 verursachten Kosten gesondert zu erheben.
 
-
 ## § 4 Kosten der für die Flugsicherung und für die Luftsportgeräteverwaltung zuständigen Stellen
 
 (1) Gebühren und Auslagen, die der beauftragten
@@ -125,7 +120,6 @@ erheben die Stellen unmittelbar von dem Kostenschuldner.
 erhebenden Auslagen ist die auf die Kosten nach den §§ 2 und 3
 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
 
-
 ## § 5 Kostenermäßigung und Kostenbefreiung
 
 Soweit wegen der besonderen Lage eines Einzelfalls die für eine
@@ -133,7 +127,6 @@ Amtshandlung nach dem Gebührenverzeichnis festzusetzende Gebühr
 unbillig wäre oder dem öffentlichen Interesse widerspräche, kann unter
 Anlegung eines strengen Maßstabes die Gebühr ermäßigt oder es kann
 Gebührenbefreiung gewährt werden. Dies gilt auch für Auslagen.
-
 
 ## § 6 Kosten in besonderen Fällen
 
@@ -144,7 +137,6 @@ Luftfahrtpersonal (LuftPersV) in der jeweils geltenden Fassung ganz
 oder teilweise von den theoretischen Prüfungen oder Überprüfungen
 befreit wird.
 
-
 ## § 7 Zurückbehaltung von Urkunden
 
 Urkunden (zum Beispiel Zulassungsscheine, Genehmigungen, Erlaubnisse,
@@ -153,13 +145,11 @@ erteilt werden, können bis zur Zahlung der Kosten zurückbehalten oder
 an den Kostenschuldner auf dessen Kosten unter Postnachnahme übersandt
 werden.
 
-
 ## § 8 Stundung und Erlaß
 
 Die Forderungen auf Zahlung von Gebühren können auch gestundet oder
 ganz oder teilweise erlassen werden, wenn das öffentliche Interesse es
 verlangt.
-
 
 ## § 8a Zuschläge für Amtshandlungen
 
@@ -167,7 +157,6 @@ Für Amtshandlungen, deren Bearbeitungszeitraum die Dauer eines Jahres
 überschreitet, sind die Zuschläge je angefangene Arbeitsstunde
 jährlich zu erheben. Maßgeblich ist die jeweils gültige Fassung des
 Gebührenverzeichnisses.
-
 
 ## § 9 Übergangsregelung
 
@@ -178,11 +167,9 @@ Gebühr jedoch den Betrag, der sich bei Anwendung des bei Beginn der
 Amtshandlung geltenden Gebührenverzeichnisses ergeben würde, um nicht
 mehr als ein Zehntel überschreiten.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage Gebührenverzeichnis (zu § 2 Absatz 1)
 

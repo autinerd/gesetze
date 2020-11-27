@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 66 G v. 19.9.2006 I 2146
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 3 und 4 des Gesetzes über die Aufgaben
@@ -30,13 +29,11 @@ Gesetz- und Verordnungsblatt 1869 S. 183, Bayerisches Regierungsblatt
 Rheinschiffahrt vom 4. Mai 1956 wird - hinsichtlich des Artikels 5 im
 Einvernehmen mit dem Bundesminister der Finanzen - verordnet:
 
-
 ## Art 1 Inkraftsetzung
 
 Die Lotsenordnung für den Rhein zwischen Basel und
 Mannheim/Ludwigshafen wird in der Fassung der Anlage 1 in Kraft
 gesetzt.
-
 
 ## Art 2 Zuständige Behörden
 
@@ -77,13 +74,11 @@ Oktober 1968 als vom Wasser- und Schiffahrtsamt Mannheim ausgefertigt.
 (4) Zuständige Behörde für den Erlaß der Prüfungsordnung nach § 10 Nr.
 3 ist die Wasser- und Schiffahrtsdirektion Südwest.
 
-
 ## Art 3 Prüfungsausschüsse
 
 Prüfungsausschüsse zur Abnahme der Lotsenprüfung (§ 9 Nr. 1) werden
 bei den in Artikel 2 Abs. 1 genannten Wasser- und Schiffahrtsämtern
 gebildet.
-
 
 ## Art 4 Körperliche Eignung
 
@@ -91,7 +86,6 @@ Die nach § 4 Nr. 1 Buchstabe d erforderliche körperliche Eignung zur
 Führung eines Fahrzeugs, insbesondere der Besitz eines ausreichenden
 Hör-, Seh- und Farbenunterscheidungsvermögens, ist durch Vorlage eines
 amtsärztlichen Zeugnisses nach dem Muster der Anlage 2 nachzuweisen.
-
 
 ## Art 5 Gebühren und Entschädigungen
 
@@ -117,17 +111,14 @@ Antrag des Bewerbers an einem anderen als dem vorgesehenen
 Prüfungstermin oder nicht am Sitz des Prüfungsausschusses statt, so
 hat er die hierdurch entstehenden Mehrkosten zu tragen.
 
-
 ## Art 6 Strafbestimmung
 
 Zuwiderhandlungen gegen diese Verordnung werden nach
 § 366 Nr. 10 des Strafgesetzbuchs              bestraft.
 
-
 ## Art 7 (weggefallen)
 
 -
-
 
 ## Art 8 Außerkrafttreten von Vorschriften
 
@@ -143,21 +134,17 @@ für den Rhein innerhalb des Großherzoglich Badischen Gebietes, vom 19.
 Dezember 1885 (Badisches Gesetz- und Verordnungsblatt S. 401)
 mit allen dazu ergangenen Änderungen und Ergänzungen.
 
-
 ## Art 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1956 in Kraft.
-
 
 ## Schlußformel
 
 Der Bundesminister für Verkehr
 
-
 ## Anlage 1 Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen
 
 Text siehe: RheinLotsO; Gliederungsnummer 9503-7
-
 
 ## Anlage 2 Amtsärztliches Zeugnis
 

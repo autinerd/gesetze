@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 528
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 29 Abs. 1 Satz 2 und Abs. 4 und des § 30 Abs. 1 Satz 1
@@ -27,14 +25,12 @@ in der Fassung der Bekanntmachung vom 18. Januar 2001 (BGBl. I S.
 Gesetzes vom 21. August 2002 (BGBl. I S. 3322), verordnet die
 Bundesregierung:
 
-
 ## § 1 Zu Beglaubigungen befugte Behörden
 
 Die Behörden des Bundes und der bundesunmittelbaren Körperschaften,
 Anstalten und Stiftungen des öffentlichen Rechts sind befugt,
 Beglaubigungen nach den §§ 29 und 30 des Zehnten Buches
 Sozialgesetzbuch vorzunehmen.
-
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 

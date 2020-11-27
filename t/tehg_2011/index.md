@@ -28,9 +28,7 @@ Zuletzt geändert durch
     vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376
     vom 27.12.2006, S. 36).
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -40,7 +38,6 @@ werden, die Grundlagen für den Handel mit Berechtigungen zur Emission
 von Treibhausgasen in einem gemeinschaftsweiten Emissionshandelssystem
 zu schaffen, um damit durch eine kosteneffiziente Verringerung von
 Treibhausgasen zum weltweiten Klimaschutz beizutragen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -161,7 +158,6 @@ des Kalenderjahres durchführt, in dem die Voraussetzungen nach Satz 3
 erstmals erfüllt sind, fallen in den Anwendungsbereich dieses
 Gesetzes.
 
-
 ### § 3 Begriffsbestimmungen
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
@@ -280,12 +276,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     eine Einheit im Sinne des § 2 Nummer 21 des Projekt-Mechanismen-
     Gesetzes.
 
-
-
-
-
 ## Abschnitt 2 - Genehmigung und Überwachung von Emissionen
-
 
 ### § 4 Emissionsgenehmigung
 
@@ -362,7 +353,6 @@ Emissionsgenehmigung nach den Absätzen 1 und 5 ist der nach § 19
 Absatz 1 Nummer 3 zuständigen Behörde Gelegenheit zur Stellungnahme in
 angemessener Frist zu geben.
 
-
 ### § 5 Ermittlung von Emissionen und Emissionsbericht
 
 (1) Der Betreiber hat die durch seine Tätigkeit in einem Kalenderjahr
@@ -373,7 +363,6 @@ Emissionen zu berichten.
 (2) Die Angaben im Emissionsbericht nach Absatz 1 müssen von einer
 sachverständigen Stelle, die nach § 21 durch die zuständige Behörde
 bekannt gegeben worden ist, nach Anhang 3 verifiziert worden sein.
-
 
 ### § 6 Überwachungsplan
 
@@ -416,9 +405,7 @@ Erfüllung der Pflicht nach Satz 1 sicherzustellen. Für den angepassten
 Überwachungsplan nach Satz 1 gelten Absatz 1 Satz 1 und Absatz 2
 entsprechend.
 
-
 ## Abschnitt 3 - Berechtigungen und Zuteilung
-
 
 ### § 7 Berechtigungen
 
@@ -472,7 +459,6 @@ Berechtigungen, wenn ihm die Unrichtigkeit bei Ausgabe bekannt ist.
 (5) Berechtigungen sind keine Finanzinstrumente im Sinne des § 1
 Absatz 11 des Kreditwesengesetzes oder des § 2 Absatz 2b des
 Wertpapierhandelsgesetzes.
-
 
 ### § 8 Versteigerung von Berechtigungen
 
@@ -532,7 +518,6 @@ Verwaltungsverfahrensgesetzes aufheben, wenn ihr Tatsachen bekannt
 werden, welche eine Erteilung der Erlaubnis nach Satz 3 ausschließen
 würden.
 
-
 ### § 9 Zuteilung von kostenlosen Berechtigungen an Anlagenbetreiber
 
 (1) Anlagenbetreiber erhalten eine Zuteilung von kostenlosen
@@ -590,7 +575,6 @@ diese Zuteilung nicht nach Artikel 11 Absatz 3 der Richtlinie
 eines Rechtsakts der Europäischen Union nachträglich geändert werden
 muss. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben im
 Übrigen unberührt.
-
 
 ### § 10 Rechtsverordnung über Zuteilungsregeln
 
@@ -675,7 +659,6 @@ Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung
 nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten
 Rechtsverordnung als erteilt.
 
-
 ### § 11 Regelzuteilung von kostenlosen Berechtigungen an Luftfahrzeugbetreiber
 
 (1) Luftfahrzeugbetreiber erhalten für eine Handelsperiode eine Anzahl
@@ -731,7 +714,6 @@ gegeben hat. Die zuständige Behörde veröffentlicht eine Liste mit den
 Namen der Luftfahrzeugbetreiber und der Höhe der Zuteilungen im
 Bundesanzeiger.
 
-
 ### § 12 Zuteilung von kostenlosen Berechtigungen aus der Sonderreserve
 
 (1) Luftfahrzeugbetreiber erhalten für eine Handelsperiode eine
@@ -781,7 +763,6 @@ Handelsperiode aus. Die zuständige Behörde veröffentlicht eine Liste
 mit den Namen der Luftfahrzeugbetreiber und der Höhe der Zuteilungen
 im Bundesanzeiger.
 
-
 ### § 13 Antrag auf Zuteilung aus der Sonderreserve
 
 (1) Die Zuteilung aus der Sonderreserve setzt einen Antrag bei der
@@ -830,7 +811,6 @@ Teil 1 Nummer 2 genannten Frist zur Genehmigung einzureichen.
 Überwachungsplan den Vorgaben der Monitoring-Verordnung entspricht. §
 6 Absatz 2 Satz 3 und 5 gilt entsprechend.
 
-
 ### § 14 Ausgabe von Berechtigungen
 
 (1) Die zuständige Behörde gibt die nach § 9 Absatz 4 zugeteilten
@@ -854,7 +834,6 @@ zugeteilte Menge an Luftverkehrsberechtigungen in den auf die
 Zuteilungsentscheidung folgenden Kalenderjahren der Handelsperiode in
 jährlich gleichen Teilmengen aus.
 
-
 ### § 15 Durchsetzung von Rückgabeverpflichtungen
 
 Soweit der Betreiber im Fall der Aufhebung der Zuteilungsentscheidung
@@ -862,7 +841,6 @@ zur Rückgabe zu viel ausgegebener Berechtigungen verpflichtet ist,
 kann die zuständige Behörde diese Verpflichtung nach den Vorschriften
 des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Die Höhe des
 Zwangsgeldes beträgt bis zu 500 000 Euro.
-
 
 ### § 16 Anerkennung von Berechtigungen und Emissionsgutschriften
 
@@ -884,13 +862,11 @@ werden von der zuständigen Behörde nach Maßgabe der auf Grundlage von
 Artikel 25 Absatz 2 der Richtlinie 2003/87/EG erlassenen Vorschriften
 in Berechtigungen überführt.
 
-
 ### § 17 Emissionshandelsregister
 
 Berechtigungen werden in einem Emissionshandelsregister nach der
 Verordnung gemäß Artikel 19 Absatz 3 der Richtlinie 2003/87/EG
 gehalten und übertragen.
-
 
 ### § 18 Umtausch von Emissionsgutschriften in Berechtigungen
 
@@ -947,9 +923,7 @@ Satz 1 gilt nur für Emissionsreduktionseinheiten und zertifizierte
 Emissionsreduktionen, die aus Projekttypen stammen, deren Gutschriften
 auch in der Handelsperiode 2008 bis 2012 genutzt werden durften.
 
-
 ## Abschnitt 4 - Gemeinsame Vorschriften
-
 
 ### § 19 Zuständigkeiten
 
@@ -975,7 +949,6 @@ Umweltbundesamtes das Gericht örtlich zuständig, in dessen Bezirk der
 Verwaltungsakt erlassen wurde. Satz 1 gilt entsprechend für
 Verpflichtungsklagen sowie für Klagen auf Feststellung der Nichtigkeit
 von Verwaltungsakten.
-
 
 ### § 20 Überwachung
 
@@ -1006,7 +979,6 @@ sowie Hilfsmittel bereitzustellen.
 
 (3) Für die zur Auskunft verpflichtete Person gilt § 55 der
 Strafprozessordnung entsprechend.
-
 
 ### § 21 Sachverständige Stellen
 
@@ -1048,7 +1020,6 @@ fremden Sprache eine beglaubigte deutsche Übersetzung vorgelegt wird.
 entscheiden. § 42a Absatz 2 Satz 2 bis 4 des
 Verwaltungsverfahrensgesetzes ist anzuwenden.
 
-
 ### § 22 Gebühren für Amtshandlungen von Bundesbehörden
 
 (1) Für die Verwaltung eines Personen- oder Händlerkontos in dem
@@ -1068,7 +1039,6 @@ Prozent.
 
 (3) Die Befugnis der Länder zur Erhebung von Gebühren und Auslagen für
 Amtshandlungen nach § 4 bleibt unberührt.
-
 
 ### § 23 Elektronische Kommunikation
 
@@ -1094,7 +1064,6 @@ werden Anordnungen nach den Sätzen 1 bis 3 im Bundesanzeiger bekannt
 gemacht; im Übrigen werden sie im amtlichen Veröffentlichungsblatt der
 zuständigen Behörde bekannt gemacht.
 
-
 ### § 24 Einheitliche Anlage
 
 Auf Antrag stellt die zuständige Behörde fest, dass das Betreiben
@@ -1103,7 +1072,6 @@ bis 11, die von demselben Betreiber an demselben Standort in einem
 technischen Verbund betrieben werden, zur Anwendung der §§ 5 bis 7 und
 9 als Betrieb einer einheitlichen Anlage gilt, wenn die erforderliche
 Genauigkeit bei der Ermittlung der Emissionen gewährleistet ist.
-
 
 ### § 25 Änderung der Identität oder Rechtsform des Betreibers
 
@@ -1120,13 +1088,11 @@ Zuteilungsentscheidung unberührt. Noch nicht ausgegebene
 Berechtigungen werden ab dem Nachweis des Betreiberwechsels an den
 neuen Betreiber ausgegeben, soweit er die Tätigkeit übernommen hat.
 
-
 ### § 26 Ausschluss der aufschiebenden Wirkung
 
 Widerspruch und Anfechtungsklage gegen Zuteilungsentscheidungen oder
 Entscheidungen nach § 29 Satz 1 oder § 31 Absatz 2 Satz 1 haben keine
 aufschiebende Wirkung.
-
 
 ### § 27 Befreiung für Kleinemittenten
 
@@ -1222,7 +1188,6 @@ Handelsperiode 2013 bis 2020 25 000 Tonnen Kohlendioxidäquivalent oder
 mehr emittiert. In diesem Fall unterliegt der Betreiber ab dem Jahr
 der Überschreitung der Emissionsgrenze bis zum Jahr 2020 der Pflicht
 nach § 7 Absatz 1 und erhält eine Zuteilung gemäß § 9.
-
 
 ### § 28 Verordnungsermächtigungen
 
@@ -1379,9 +1344,7 @@ juristische Person bietet Gewähr im Sinne des Satzes 1, wenn
 
 Die Beliehene untersteht der Aufsicht des Umweltbundesamtes.
 
-
 ## Abschnitt 5 - Sanktionen
-
 
 ### § 29 Durchsetzung der Berichtspflicht
 
@@ -1391,7 +1354,6 @@ Die Sperrung ist unverzüglich aufzuheben, sobald der Betreiber der
 zuständigen Behörde einen den Anforderungen nach § 5 entsprechenden
 Bericht vorlegt oder eine Schätzung der Emissionen nach § 30 Absatz 2
 Satz 1 erfolgt.
-
 
 ### § 30 Durchsetzung der Abgabepflicht
 
@@ -1430,7 +1392,6 @@ Absatz 1 verstoßen, werden im Bundesanzeiger veröffentlicht. Die
 Veröffentlichung setzt einen bestandskräftigen Zahlungsbescheid
 voraus.
 
-
 ### § 31 Betriebsuntersagung gegen Luftfahrzeugbetreiber
 
 (1) Erfüllt ein Luftfahrzeugbetreiber seine Pflichten aus diesem
@@ -1461,10 +1422,6 @@ Maßnahmen. Dazu können sie insbesondere
 3.  die Erlaubnis nach § 2 Absatz 7 des Luftverkehrsgesetzes oder die
     Betriebsgenehmigung nach § 20 Absatz 4 oder § 21a des
     Luftverkehrsgesetzes, soweit vorhanden, widerrufen.
-
-
-
-
 
 ### § 32 Bußgeldvorschriften
 
@@ -1538,9 +1495,7 @@ richtigen Berichts gegen die Abgabepflicht nach § 7 Absatz 1 Satz 1
 verstößt und wegen dieser Handlung eine Zahlungspflicht nach § 30
 Absatz 1 Satz 1 festgesetzt wird.
 
-
 ## Abschnitt 6 - Übergangsregelungen
-
 
 ### § 33 Allgemeine Übergangsregelung
 
@@ -1558,7 +1513,6 @@ Verwaltung von Konten ab der Handelsperiode 2013 bis 2020. § 22 Absatz
 S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, gilt für Gebührentatbestände,
 die bis Ende des Jahres 2012 erfüllt sind.
-
 
 ### § 34 Übergangsregelung für Anlagenbetreiber
 
@@ -1588,7 +1542,6 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 2020 widerrufen, sofern diese Feststellungen nach § 24 oder der
 Rechtsverordnung nach § 28 Absatz 1 Nummer 4 nicht getroffen werden
 durften.
-
 
 ### § 35 Übergangsregelung für Luftfahrzeugbetreiber
 
@@ -1632,7 +1585,6 @@ Verordnung einem anderen Verwaltungsmitgliedstaat zugewiesen, so
 bleibt dieses Gesetz auf ihn hinsichtlich des Zuteilungsverfahrens
 nach § 11 mit Ausnahme der Zuteilungsentscheidung nach § 11 Absatz 6
 anwendbar.
-
 
 ### Anhang 1 (zu § 1, § 2 Absatz 1 bis 3 Satz 1, Absatz 4 Satz 1, Absatz 5 Nummer 3, § 3 Absatz 1 Nummer 2, 5, 9 und 12, § 4 Absatz 1 Satz 1, § 7 Absatz 2 Satz 1 Nummer 1, § 24, § 27 Absatz 1 Satz 2 und § 28 Absatz 1 Nummer 4) Einbezogene Tätigkeiten und Treibhausgase
 
@@ -2197,9 +2149,6 @@ Teil 2
         Abkommens über den Europäischen Wirtschaftsraum in Ausübung ihres
         Amtes durchgeführt werden.
 
-
-
-
 ### Anhang 2 (zu § 5 Absatz 1, § 6 Absatz 1 Satz 2, Absatz 2 Satz 2, § 13 Absatz 4, § 30 Absatz 2 Satz 1 und § 32 Absatz 1 Nummer 1) Anforderungen an die Vorlage und Genehmigung von Überwachungsplänen nach den §§ 6 und 13 sowie an die Ermittlung von Emissionen und die Berichterstattung nach § 5
 
 (Fundstelle: BGBl. I 2011, 1492)
@@ -2290,7 +2239,6 @@ treffen, sind die folgenden Regelungen zu beachten:
 Abweichend von Satz 2 haben Luftfahrzeugbetreiber die Emissionen des
 Jahres 2012 nach der Entscheidung
 2007/589/EG              der Kommission zu ermitteln.
-
 
 ### Anhang 3 (zu § 5 Absatz 2) Anforderungen an die Verifizierung
 
@@ -2490,10 +2438,6 @@ Teil 2
     die vom Betreiber mitgeteilte Nutzlast den Nutzlastdaten entspricht,
     die der Betreiber aus Sicherheitsgründen verwahrt.
 
-
-
-
-
 ### Anhang 4 (zu § 21 Absatz 1) Anforderungen an sachverständige Stellen
 
 (Fundstelle: BGBl. I 2011, 1495)
@@ -2519,13 +2463,6 @@ Die sachverständige Stelle muss
         in der Anlage oder den Luftfahrzeugen, insbesondere im Hinblick auf
         Sammlung, messtechnische Erhebung, Berechnung und Übermittlung von
         Daten.
-
-
-
-
-
-
-
 
 ### Anhang 5 (zu § 27 Absatz 4 und § 28 Absatz 1 Nummer 5 Buchstabe e) Berechnung der spezifischen Emissionsminderung sowie des Ausgleichsbetrages bei Nichterfüllung der Selbstverpflichtung nach § 27 Absatz 4
 

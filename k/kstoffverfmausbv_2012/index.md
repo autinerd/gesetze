@@ -23,7 +23,6 @@ Fundstelle
     Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -33,9 +32,7 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -44,11 +41,9 @@ Kautschuktechnik und Verfahrensmechanikerin für Kunststoff- und
 Kautschuktechnik wird nach § 4 Absatz 1 des Berufsbildungsgesetzes
 staatlich anerkannt.
 
-
 ### § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ### § 3 Struktur der Berufsausbildung
 
@@ -74,10 +69,6 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 7.  Kunststofffenster.
-
-
-
-
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -344,10 +335,6 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse.
 
-
-
-
-
 ### § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -368,12 +355,9 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## Teil 2 - Fachrichtungsspezifische Vorschriften
 
-
 ### Teil 2.1 - Fachrichtung Formteile
-
 
 #### § 6 Abschlussprüfung in der Fachrichtung Formteile
 
@@ -394,7 +378,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 7 Teil 1 der Abschlussprüfung in der Fachrichtung Formteile
 
@@ -453,10 +436,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden; davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 8 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile
 
@@ -652,10 +631,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 9 Gewichtungs- und Bestehensregelungen in der Fachrichtung Formteile
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -743,9 +718,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### Teil 2.2 - Fachrichtung Halbzeuge
-
 
 #### § 10 Abschlussprüfung in der Fachrichtung Halbzeuge
 
@@ -766,7 +739,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 11 Teil 1 der Abschlussprüfung in der Fachrichtung Halbzeuge
 
@@ -825,10 +797,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden; davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 12 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge
 
@@ -1027,10 +995,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Halbzeuge
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1118,9 +1082,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### Teil 2.3 - Fachrichtung Mehrschichtkautschukteile
-
 
 #### § 14 Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
@@ -1141,7 +1103,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 15 Teil 1 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
@@ -1200,10 +1161,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden; davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 16 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
@@ -1411,10 +1368,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 17 Gewichtungs- und Bestehensregelungen in der Fachrichtung Mehrschichtkautschukteile
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1503,9 +1456,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### Teil 2.4 - Fachrichtung Compound- und Masterbatchherstellung
-
 
 #### § 18 Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
@@ -1526,7 +1477,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 19 Teil 1 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
@@ -1585,10 +1535,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden; davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 20 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
@@ -1781,10 +1727,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 21 Gewichtungs- und Bestehensregelungen in der Fachrichtung Compound- und Masterbatchherstellung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1872,9 +1814,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### Teil 2.5 - Fachrichtung Bauteile
-
 
 #### § 22 Abschlussprüfung in der Fachrichtung Bauteile
 
@@ -1895,7 +1835,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 23 Teil 1 der Abschlussprüfung in der Fachrichtung Bauteile
 
@@ -1954,10 +1893,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden; davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 24 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile
 
@@ -2156,10 +2091,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 25 Gewichtungs- und Bestehensregelungen in der Fachrichtung Bauteile
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -2246,9 +2177,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### Teil 2.6 - Fachrichtung Faserverbundtechnologie
-
 
 #### § 26 Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
@@ -2269,7 +2198,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 27 Teil 1 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
@@ -2328,10 +2256,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden; davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 28 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
@@ -2544,10 +2468,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 29 Gewichtungs- und Bestehensregelungen in der Fachrichtung Faserverbundtechnologie
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -2635,9 +2555,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### Teil 2.7 - Fachrichtung Kunststofffenster
-
 
 #### § 30 Abschlussprüfung in der Fachrichtung Kunststofffenster
 
@@ -2658,7 +2576,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 #### § 31 Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofffenster
 
@@ -2717,10 +2634,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt acht Stunden, davon für die
     Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 #### § 32 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster
 
@@ -2901,10 +2814,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 #### § 33 Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofffenster
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -2992,9 +2901,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## Teil 3 - Schlussvorschriften
-
 
 ### § 34 Inkrafttreten, Außerkrafttreten
 
@@ -3003,7 +2910,6 @@ die Verordnung über die Berufsausbildung zum Verfahrensmechaniker für
 Kunststoff- und Kautschuktechnik/zur Verfahrensmechanikerin für
 Kunststoff- und Kautschuktechnik vom 7. April 2006 (BGBl. I S. 905,
 1293) außer Kraft.
-
 
 ### Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
 

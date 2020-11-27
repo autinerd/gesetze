@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Milchtechnologe/Milchtechnologin wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -99,10 +95,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 4.  Umweltschutz.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -122,7 +114,6 @@ Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den
 schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu
 führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis
 regelmäßig durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -207,10 +198,6 @@ Vorgaben:
 4.  die Prüfungszeit beträgt insgesamt 180 Minuten; innerhalb dieser Zeit
     sollen die Fachgespräche insgesamt in höchstens 20 Minuten
     durchgeführt werden.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -411,7 +398,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -419,14 +405,12 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Molkereifachmann-Ausbildungsverordnung vom 28. Februar 1991 (BGBl.
 I S. 513), die durch Artikel 74 des Gesetzes vom 13. April 2006 (BGBl.
 I S. 855) geändert worden ist, außer Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin
 
@@ -740,9 +724,6 @@ Fähigkeiten
 
     *
     *   2
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

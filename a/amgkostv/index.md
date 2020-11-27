@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.4.2008 I 749
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 2 des Arzneimittelgesetzes in der Fassung der
@@ -32,7 +31,6 @@ Januar 2001 (BGBl. I S. 127) und vom 22. Oktober 2002 (BGBl. I S.
 4206), verordnet das Bundesministerium für Gesundheit und Soziale
 Sicherung im Einvernehmen mit dem Bundesministerium für Wirtschaft und
 Arbeit:
-
 
 ## § 1 Grundsatz
 
@@ -49,7 +47,6 @@ der AMG-Kostenverordnung sowie für andere Amtshandlungen.
 (2) Für die Bekanntmachung im Bundesanzeiger werden in den Fällen des
 Erlöschens oder Ruhens einer Zulassung Auslagen nicht erhoben.
 
-
 ## § 2 Gebühren bei Ablehnung oder Rücknahme eines Antrags
 
 Im Fall der Ablehnung eines Antrags auf Vornahme einer
@@ -59,7 +56,6 @@ Prozent der für die Amtshandlung festzusetzenden Gebühr erhoben. Sie
 kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es
 kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit
 entspricht.
-
 
 ## § 3 Erhöhungen und Ermäßigungen
 
@@ -88,10 +84,6 @@ Nutzen nicht erwarten kann und
 2.  die Anwendungsfälle selten oder die Zielgruppe, für die das
     Arzneimittel bestimmt ist, klein ist.
 
-
-
-
-
 ## § 4 Anrechnung von Kosten für Sachverständige
 
 Wird eine der in den Nummern 1 bis 12 sowie 14 bis 18 des
@@ -100,7 +92,6 @@ vorgesehenen Fällen unter Zugrundelegung der Beurteilung von
 Unterlagen durch unabhängige Sachverständige vorgenommen, so sind die
 hierfür zu erstattenden Kosten auf die festzusetzende Gebühr
 anzurechnen.
-
 
 ## § 5 Übergangsvorschrift
 
@@ -117,14 +108,11 @@ Verordnung erhoben werden, soweit bei den Amtshandlungen unter Hinweis
 auf den bevorstehenden Erlass dieser Verordnung eine
 Kostenentscheidung ausdrücklich vorbehalten worden ist.
 
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-
 ## Anlage (zu § 1) Begriffserläuterungen
-
 
 ## Begriffserläuterungen
 

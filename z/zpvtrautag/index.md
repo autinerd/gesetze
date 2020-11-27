@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 G v. 27.7.2001 I 1887
 
-
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
-
-
 
 ### § 1
 
@@ -39,7 +36,6 @@ Anspruchs zuständig sein würde.
 allgemeinen Gerichtsstand hat, und beim Fehlen eines solchen das
 Gericht, in dessen Bezirk sich Vermögen des Schuldners befindet oder
 die Zwangsvollstreckung durchgeführt werden soll.
-
 
 ### § 2
 
@@ -60,7 +56,6 @@ Zivilprozeßordnung enthalten.
 der Zivilprozessordnung. Die §§ 707, 717, 1065 gelten entsprechend.
 
 (5) (weggefallen)
-
 
 ### § 3
 
@@ -85,7 +80,6 @@ vor der Entscheidung ist der Gegner zu hören. Für das Verfahren gelten
 im übrigen § 1064 Abs. 2 der Zivilprozeßordnung und § 2 Abs. 2 und 4
 entsprechend.
 
-
 ### § 4
 
 Hängt die Vollstreckung nach dem Inhalt der gerichtlichen
@@ -104,7 +98,6 @@ entscheiden. Ein solcher Nachweis ist durch öffentliche oder
 nachzuweisenden Tatsachen bei dem Gericht offenkundig sind. Kann er in
 dieser Form nicht erbracht werden, so ist mündliche Verhandlung
 anzuordnen.
-
 
 ### § 5
 
@@ -135,7 +128,6 @@ auf denen sie beruhen, erst
 
 entstanden sind.
 
-
 ### § 6
 
 (1) Aus den für vollstreckbar erklärten Schuldtiteln findet die
@@ -155,10 +147,7 @@ Pfandrechts oder des Registerpfandrechts, das in das Schiffsregister,
 in das Schiffsbauregister oder in das Register für Pfandrechte an
 Luftfahrzeugen eingetragen werden soll.
 
-
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
-
-
 
 ### § 7
 
@@ -183,7 +172,6 @@ bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
 Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 ### § 8
 
 Wird die Vollstreckbarerklärung einer noch nicht rechtskräftigen
@@ -194,10 +182,7 @@ Schadens verpflichtet, der dem Schuldner durch die Vollstreckung der
 für vollstreckbar erklärten gerichtlichen Entscheidung oder durch eine
 zur Abwendung der Vollstreckung gemachte Leistung entstanden ist.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
-
 
 ### § 9
 
@@ -208,22 +193,17 @@ Vollstreckungsklausel zu versehen, wenn dies für eine
 Zwangsvollstreckung im Inland nach § 796 Abs. 1, §§ 936, 929 Abs. 1
 der Zivilprozeßordnung nicht erforderlich wäre.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 10
 
 -
-
 
 ### § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 12
 

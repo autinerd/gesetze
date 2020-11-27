@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 940
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 des Gesetzes zur Förderung der Stabilität
 und des Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I
 S. 582) verordnet die Bundesregierung nach Anhörung des
 Konjunkturrates mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -40,7 +37,6 @@ Konjunkturausgleichsrücklagen.
 ausdrücklicher haushaltsgesetzlicher Vorschrift zur Verminderung der
 Zuführung von Mitteln des außerordentlichen Haushalts an den
 ordentlichen Haushalt zu verwenden sind.
-
 
 ## § 2
 
@@ -60,14 +56,12 @@ Steuereinnahmen je Land im Haushaltsjahr 1968 nach § 15 Abs. 3 des
 Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 aufzubringen.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 32 des
 Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 auch im Land Berlin.
-
 
 ## § 4
 

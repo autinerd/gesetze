@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 287 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zulassung des Vorhabens
 
@@ -45,7 +43,6 @@ und Planfeststellungen sind nicht erforderlich. Mit diesem Gesetz
 werden alle öffentlich-rechtlichen Beziehungen zwischen dem Träger der
 Straßenbaulast und den durch den Plan Betroffenen rechtsgestaltend
 geregelt.
-
 
 ## § 2 Änderungen und Ergänzungen des Planes
 
@@ -85,7 +82,6 @@ entscheidet auf Antrag das Bundesverwaltungsgericht. Auf das Verfahren
 finden die Vorschriften des § 47 der Verwaltungsgerichtsordnung
 entsprechende Anwendung.
 
-
 ## § 3 Enteignungsverfahren, Enteignungsentschädigung, gerichtliches Verfahren
 
 (1) Die Enteignung zugunsten des Trägers der Straßenbaulast ist
@@ -102,7 +98,6 @@ Baugesetzbuchs.
 (4) Für das gerichtliche Verfahren zur Überprüfung der Entscheidungen
 der Enteignungsbehörde gelten die §§ 217 bis 232 des Baugesetzbuchs
 entsprechend.
-
 
 ## § 4 Vorzeitige Besitzeinweisung
 
@@ -151,7 +146,6 @@ oder eines anderen Rechtes ausgeglichen werden. Art und Höhe der
 Entschädigung sind von der Enteignungsbehörde in einem Beschluß
 festzusetzen.
 
-
 ## § 5 Vertreter des Eigentümers
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat
@@ -161,11 +155,9 @@ Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung einen
 Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des
 Verwaltungsverfahrensgesetzes findet Anwendung.
 
-
 ## § 6 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 Erläuterungsbericht
 
@@ -174,20 +166,17 @@ Graphiken und Übersichtskarten,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S. 11
 - 158)
 
-
 ## Anlage 2 Übersichtskarte
 
 (Inhalt: nicht darstellbare Übersichtskarten,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 159 - 164)
 
-
 ## Anlage 3 Übersichtsplan
 
 (Inhalt: nicht darstellbarer Übersichtsplan,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 165 - 166)
-
 
 ## Anlage 4 Übersichtslageplan und Übersichtshöhenplan
 
@@ -196,13 +185,11 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 167 - 168)
 
-
 ## Anlage 5 Verzeichnis der Bauwerke, Versorgungsleitungen und sonstigen Anlagen (Bauwerksverzeichnis)
 
 (Inhalt: nicht erfaßtes Bauwerksverzeichnis,
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 169 - 214)
-
 
 ## Anlage 6 Querschnitte
 
@@ -210,13 +197,11 @@ Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 Fundstelle: Anlageband I zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 215 - 219)
 
-
 ## Anlage 7 Lageplan und Höhenplan
 
 (Inhalt: nicht darstellbare Lage- und Höhenpläne,
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 221 - 228)
-
 
 ## Anlage 8 Versorgungsleitungsplan
 
@@ -226,13 +211,11 @@ enthalten -,
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 229)
 
-
 ## Anlage 9 Grunderwerbsverzeichnis
 
 (Inhalt: nicht erfaßtes Grunderwerbsverzeichnis,
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 231 - 280)
-
 
 ## Anlage 10 Grunderwerbspläne
 
@@ -240,14 +223,12 @@ Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 Fundstelle: Anlageband II zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 281 - 282)
 
-
 ## Anlage 11 Ergebnisse der landschaftspflegerischen Begleitplanung
 
 (Inhalt: nicht erfaßter Erläuterungsbericht mit nicht darstellbaren
 Graphiken und Plänen,
 Fundstelle: Anlageband III zum BGBl. I Nr. 22 vom 19.4.1994 I 734, S.
 283 - 378)
-
 
 ## Anlage 12 Schalltechnische Untersuchung
 

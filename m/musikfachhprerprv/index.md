@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 668
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBI.
@@ -26,7 +25,6 @@ Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Struktur und Gegenstand der Erprobung
 
@@ -46,7 +44,6 @@ Musikfachhändler/zur Musikfachhändlerin gilt mit der Maßgabe, dass die
 Zusatzqualifikationen im Zusammenhang mit Teil 2 der Abschlussprüfung
 geprüft werden.
 
-
 ## § 2 Gestreckte Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
@@ -65,7 +62,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
 Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60
 Prozent gewichtet.
-
 
 ## § 3 Teil 1 der Abschlussprüfung
 
@@ -149,10 +145,6 @@ bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 4 Teil 2 der Abschlussprüfung
 
@@ -267,10 +259,6 @@ folgende Vorgaben:
     30 Minuten, die Vorbereitungszeit für den Prüfling höchstens 15
     Minuten.
 
-
-
-
-
 ## § 5 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -331,7 +319,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 6 Bestehende Berufsausbildungsverhältnisse
 
 (1) Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -343,7 +330,6 @@ Zwischenprüfung abgelegt worden ist.
 (2) Auf Berufsausbildungsverhältnisse, die bis zum Ablauf des 31. Juli
 2015 begonnen werden, sind die Vorschriften dieser Verordnung weiter
 anzuwenden.
-
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 

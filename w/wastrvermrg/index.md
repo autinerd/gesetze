@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 102 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -47,12 +45,10 @@ weiter.
 
 (3) (weggefallen)
 
-
 ## § 2
 
 Treuhandschaften der Länder an dem Eigentum und den Vermögensrechten,
 die unter § 1 fallen, erlöschen mit dem Inkrafttreten dieses Gesetzes.
-
 
 ## § 3
 
@@ -60,18 +56,15 @@ Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
 Eigentum und Vermögensrechte der in § 1 bezeichneten Art vor dem
 Inkrafttreten dieses Gesetzes getroffen worden sind, bleibt unberührt.
 
-
 ## § 4
 
 § 1 gilt nicht für Eigentum und Vermögensrechte, die nach dem 30.
 Januar 1933 einer Gewerkschaft, Genossenschaft, politischen Partei
 oder sonstigen demokratischen Organisation weggenommen worden sind.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6
 
@@ -81,12 +74,10 @@ Vermögensrechte der in § 1 bezeichneten Art gemacht worden sind, wird
 nicht geleistet. Den Ländern verbleiben bis zu diesem Zeitpunkt von
 ihnen erzielte Erträge.
 
-
 ## § 7
 
 Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten, die
 unter § 1 fallen, bleiben bestehen.
-
 
 ## § 8
 
@@ -110,18 +101,15 @@ Eigentum ist einzutragen für die "Bundesrepublik Deutschland
 (2) Dies gilt für sonstige im Grundbuch eingetragene Rechte
 entsprechend.
 
-
 ## § 9
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
 außer Ansatz.
 
-
 ## § 10
 
 -
-
 
 ## § 11
 

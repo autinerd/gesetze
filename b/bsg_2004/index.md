@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 3013, 3016
 
-
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz beträgt für das Jahr 2004 in der Rentenversicherung
 der Arbeiter und der Angestellten 19,5 Prozent und in der
 knappschaftlichen Rentenversicherung 25,9 Prozent.
-
 
 ## § 2 Zahlungen für Kindererziehungszeiten
 

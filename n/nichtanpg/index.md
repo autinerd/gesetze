@@ -19,11 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 14.11.2011 I 2219
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1 Amtsverhältnisrechtliche Ausnahmeregelung
 
@@ -57,7 +55,6 @@ Anpassungen auf Grund des Bundesbesoldungs- und
 -versorgungsanpassungsgesetzes 2010/2011 vom 19. November 2010 (BGBl.
 I S. 1552) nicht teil.
 
-
 ## § 1a Fortgeltung bisherigen Rechts
 
 Artikel 3 des Gesetzes zur Reform des öffentlichen Dienstrechts vom
@@ -77,7 +74,6 @@ Bundesbeamten der Besoldungsgruppe B 11 nehmen auch die der Regelung
 des § 1 nicht unterfallenden Versorgungsbezüge teil; im übrigen bleibt
 § 1 unberührt.
 
-
 ## § 1b Bezugsgröße B 11
 
 Die Mitglieder der Bundesregierung und die Parlamentarischen
@@ -88,7 +84,6 @@ Ortszuschlages nur in Höhe der Beträge, die am 30. Juni 2009 zugrunde
 zu legen waren. Diese Amtsbezüge nehmen an den nach dem 1. August 2011
 erfolgenden allgemeinen prozentualen Anpassungen der Besoldung der
 Bundesbeamten der Besoldungsgruppe B 11 teil.
-
 
 ## § 2 Inkrafttreten
 

@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 22 Abs. 9 G v. 12.12.2007 I 2861
 
-
 ## Eingangsformel
 
 Auf Grund des § 178 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
@@ -32,7 +31,6 @@ Sozialordnung im Einvernehmen mit dem Bundesministerium der
 Verteidigung, dem Bundesministerium für Familie, Senioren, Frauen und
 Jugend und dem Bundesministerium der Finanzen:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung findet Anwendung auf Personen, die auf Grund
@@ -41,7 +39,6 @@ gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten
 Art nach § 6 des Einsatz-Weiterverwendungsgesetzes befinden und nach §
 3 Satz 1 Nr. 2 oder 2a des Sechsten Buches Sozialgesetzbuch
 versicherungspflichtig in der Rentenversicherung sind.
-
 
 ## § 2 Beitragsberechnung
 
@@ -72,7 +69,6 @@ grundlage
 -----------------------------------------------
 365 (in Schaltjahren: 366).
 
-
 ## § 3 Berechnungsgrundlagen
 
 (1) Summe der Arbeitsentgelte (§ 2 Abs. 2 Nr. 1) sind im Fall einer
@@ -100,7 +96,6 @@ Vomhundertsatz.
 (4) Diensttage (§ 2 Abs. 2 Nr. 2) sind die Tage des Wehr- oder
 Zivildienstes, für die Beiträge zu zahlen sind.
 
-
 ## § 4 Zuständigkeit
 
 Die Berechnung und die Zahlung der Beiträge wird für
@@ -113,7 +108,6 @@ Die Berechnung und die Zahlung der Beiträge wird für
 
 
 vorgenommen.
-
 
 ## § 5 Berechnungsverfahren
 
@@ -132,7 +126,6 @@ der auf die jeweilige Bereichsnummer entfallenden Diensttage. Ist der
 für die Berechnung und Zahlung der Beiträge zuständigen Stelle eine
 Aufteilung der Beiträge nach der jeweiligen Bezugsgröße für einzelne
 Träger der Rentenversicherung möglich, findet Satz 3 keine Anwendung.
-
 
 ## § 6 Beitragszahlung
 
@@ -166,16 +159,13 @@ Anzahl der Diensttage oder der Summe der Arbeitsentgelte werden mit
 den Berechnungsgrößen des dazugehörigen Abrechnungsjahres bei der
 nächsten Abrechnung berücksichtigt.
 
-
 ## § 7
 
 (weggefallen)
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
-
 
 ## Schlußformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 26
 
-
-
 ## (XXXX)
 
 (1) Auf Grund eines Beschlusses der Bundesregierung gebe ich hiermit
@@ -32,7 +30,6 @@ verwenden, doch sind die Spitzen des Gefieders nach außen gerichtet.
 (3) Die im Bundesministerium des Innern verwahrten Muster sind für die
 heraldische Gestaltung des Bundeswappens maßgebend. Die künstlerische
 Ausgestaltung bleibt für jeden besonderen Zweck vorbehalten.
-
 
 ## Schlußformel
 

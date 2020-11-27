@@ -19,17 +19,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 98 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 § 3 Abs. 2 des Postneuordnungsgesetzes vom
 14\. September 1994 (BGBl. I S. 2325) verordnet das Bundesministerium
 für Post und Telekommunikation:
 
-
 ## Erster Abschnitt - Rechtsübergang
-
-
 
 ### § 1 Haushaltsplan für das erste Haushaltsjahr
 
@@ -37,9 +33,7 @@ Der Haushaltsplan für das Haushaltsjahr 1995 wird vom
 Bundesministerium für Post und Telekommunikation aufgestellt und
 festgestellt.
 
-
 ### § 2 (weggefallen)
-
 
 ### § 3 Anteil am Konkursausfallgeld
 
@@ -51,7 +45,6 @@ Mitgliedsbetriebe vorläufig umgelegt. Bei der Bildung der Lohnsumme
 bleiben die Arbeitsentgelte der bei den Mitgliedsbetrieben
 beschäftigten beurlaubten Beamten außer Ansatz. Auf dieser Grundlage
 wird ein Abschlag auf die zu entrichtende Umlage gesondert erhoben.
-
 
 ### § 4 Weitergeltung von Vorschriften der Deutschen Bundespost
 
@@ -67,7 +60,6 @@ sind ab 1. Januar 1995 ermächtigt, die gesetzlichen Aufgaben eines
 technischen Aufsichtsbeamten mit den damit verbundenen Rechten und
 Pflichten wahrzunehmen.
 
-
 ### § 5 Vorläufige Aufgabenerledigung durch Dritte
 
 Die von der Unfallkasse Post und Telekom wahrzunehmenden mittelbaren
@@ -77,7 +69,6 @@ den für die Unfallkasse geltenden Bestimmungen für diese vorläufig
 weitergeführt, bis sie von der Unfallkasse Post und Telekom übernommen
 werden.
 
-
 ### § 6 Wahl der Selbstverwaltungsorgane
 
 Die Vertreterversammlung der Unfallkasse Post und Telekom hat
@@ -85,10 +76,7 @@ achtzehn, der Vorstand hat acht Mitglieder. Es werden Neuwahlen
 entsprechend § 45 Abs. 1 Satz 3 des Vierten Buches Sozialgesetzbuch
 und § 128 der Wahlordnung für die Sozialversicherung durchgeführt.
 
-
 ## Zweiter Abschnitt - Durchführung der übertragenen Aufgaben
-
-
 
 ### § 7 Wahrnehmung der übertragenen Aufgaben
 
@@ -101,7 +89,6 @@ Unfallkasse hinsichtlich der in § 2 Abs. 1 Nr. 1, 2 und 4 des
 Postsozialversicherungsorganisationsgesetzes genannten Aufgaben der
 Rechts- und Fachaufsicht, im übrigen der Rechtsaufsicht des
 Bundesministeriums der Finanzen.
-
 
 ### § 8 Rechnungslegung
 
@@ -155,7 +142,6 @@ verteilen; dabei sind die bei den Mitgliedsbetrieben beschäftigten
 beurlaubten Beamten den Versicherten zuzurechnen. Geschäftsjahr ist
 das Kalenderjahr.
 
-
 ### § 9 Kostenerstattung für die übertragenen Aufgaben
 
 (1) Die Personal- und Sachkosten, die durch die Wahrnehmung der in § 2
@@ -177,7 +163,6 @@ Geschäftsjahr bei den Mitgliedsbetrieben durchschnittlich
 beschäftigten Versicherten auf die Unternehmen jährlich nachträglich
 umgelegt. Bezüglich der Zurechnung und Abrechnung der insoweit
 anfallenden Regreßeinnahmen gilt Absatz 1 Satz 2 und 3 entsprechend.
-
 
 ### § 10 Laufende Finanzierung der übertragenen Aufgaben
 
@@ -241,7 +226,6 @@ Rechtsvorgängerin vorläufig aufgebracht, sofern die Unfallkasse Post
 und Telekom mangels Zahlungen der Mitgliedsbetriebe darauf
 zurückgreifen muß. Die Auslagen werden so bald wie möglich erstattet.
 
-
 ### § 11 Säumniszuschläge
 
 (1) Für Kostenforderungen und Vorschüsse, die ein Mitgliedsbetrieb
@@ -258,7 +242,6 @@ Kenntnis von der Zahlungspflicht hatte.
 
 (3) Für die Berechnung des Säumniszuschlags werden die Rückstände auf
 zehn Deutsche Mark nach unten abgerundet.
-
 
 ### § 12 Zuarbeit durch die Mitgliedsbetriebe
 
@@ -298,10 +281,6 @@ sind die Mitgliedsbetriebe insbesondere verpflichtet,
 7.  alle Tatsachen anzugeben, die für die Berechnung der zu erstattenden
     Kosten und zu erbringenden Vorschüsse notwendig sind.
 
-
-
-
-
 ### § 13 Anzeige von Unfällen
 
 (1) Die Mitgliedsbetriebe haben
@@ -330,14 +309,12 @@ technischen Aufsichtsbeamten der Unfallkasse Post und Telekom
 unverzüglich telefonisch vorab mitzuteilen. Bei der Untersuchung
 tödlicher Unfälle ist die Ortspolizeibehörde hinzuzuziehen.
 
-
 ### § 14 Vertretung der Unfallkasse
 
 Hinsichtlich der nach § 2 Abs. 1 des
 Postsozialversicherungsorganisationsgesetzes übertragenen Aufgaben
 vertritt der Geschäftsführer die Unfallkasse gerichtlich und
 außergerichtlich.
-
 
 ### § 15 Fachausschuß für Arbeitsschutz
 
@@ -387,16 +364,12 @@ Unfallkasse nach den Bestimmungen des Bundesreisekostengesetzes.
 (5) Zur Unterstützung des Fachausschusses Arbeitsschutz richtet die
 Unfallkasse Fachgruppen ein.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 16 Geschäftsbericht
 
 Nach Abschluß eines jeden Kalenderjahres erstellt die Unfallkasse Post
 und Telekom einen Geschäftsbericht.
-
 
 ### § 17 Inkrafttreten
 

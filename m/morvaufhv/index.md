@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2295, 2298
 
-
 ## § 1 Aufhebung von Vorschriften
 
 Es werden aufgehoben:
@@ -28,10 +27,6 @@ Es werden aufgehoben:
 2.  die Subventionsverordnung Zucker vom 31. Januar 1975 (BGBl. I S. 446),
     die zuletzt durch Artikel 40 des Gesetzes vom 13. April 2006 (BGBl. I
     S. 855) geändert worden ist.
-
-
-
-
 
 ## § 2 Weiteranwendung von Vorschriften
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 24. 6.1986 I 933
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 2 und 3 des Preisgesetzes in der im Bundesgesetzblatt
@@ -28,7 +27,6 @@ Bundesminister für Ernährung, Landwirtschaft und Forsten, dem
 Bundesminister für Verkehr, dem Bundesminister für das Post- und
 Fernmeldewesen und dem Bundesminister für Raumordnung, Bauwesen und
 Städtebau verordnet:
-
 
 ## § 1
 
@@ -55,10 +53,6 @@ Vorschriften aufgehoben:
 
 4.  Vorschriften, die auf Grund des Preisgesetzes oder einer auf dieses
     Gesetz gestützten Rechtsverordnung erlassen worden sind.
-
-
-
-
 
 ## § 2
 
@@ -123,11 +117,9 @@ Folgende Vorschriften sind weiterhin anzuwenden:
 12\.
 13\.
 
-
 ## § 3
 
 Diese Verordnung tritt am 1. Juni 1982 in Kraft.
-
 
 ## Schlußformel
 

@@ -48,10 +48,6 @@ der Europäischen Gemeinschaften:
     Erstellung einer ersten Liste von Höchstgehalten (ABl. EG Nr. L 211 S.
     6).
 
-
-
-
-
 ## § 1 Höchstmengen für Lebensmittel
 
 (1) Als Höchstmengen, die in oder auf Lebensmitteln beim
@@ -145,11 +141,9 @@ ist. Satz 1 gilt nicht, soweit in der Kontaminanten-Verordnung für
 diese Stoffe Höchstmengen festgesetzt sind, sowie für Rückstände von
 Arsen, Blei, Cadmium, Quecksilber und Selen sowie deren Verbindungen.
 
-
 ## § 1a (weggefallen)
 
 -
-
 
 ## § 2 Zusammengesetzte und weiterverarbeitete Lebensmittel
 
@@ -175,7 +169,6 @@ für das zur Herstellung verwendete Lebensmittel festgesetzte Wert
 zuzüglich der durch die Weiterverarbeitung eingetretenen Erhöhung oder
 abzüglich der durch die Weiterverarbeitung eingetretenen Erniedrigung.
 Satz 2 gilt nicht in Fällen des § 1 Abs. 4.
-
 
 ## § 3 Lebensmittel mit überhöhten Rückständen
 
@@ -207,7 +200,6 @@ anderen Lebensmitteln ausschließender Weise anzubringen. Bei der
 Abgabe müssen die Angaben deutlich sichtbar auf der Außenfläche der
 Behältnisse angebracht werden und zusätzlich in den Begleitpapieren
 vermerkt werden.
-
 
 ## § 3a Ausnahmen
 
@@ -248,7 +240,6 @@ der Wirkstoffe durch folgende Angaben gekennzeichnet ist:
 (Einsetzen: Bezeichnung des jeweiligen Wirkstoffs oder der jeweiligen
 Wirkstoffe). Nicht an Verbraucher abgeben.“
 
-
 ## § 3b Kenntlichmachung
 
 (1) Die Behandlung von Zitrusfrüchten mit Thiabendazol nach der Ernte
@@ -273,7 +264,6 @@ Verbraucher erfolgt Kenntlichmachung der Behandlung durch die
 vorgeschriebene Angabe auf einer Außenfläche der Packungen oder
 Behältnisse.
 
-
 ## § 4 Probenahme und Analysemethoden
 
 (1) Bei der amtlichen Kontrolle der Rückstände von
@@ -295,7 +285,6 @@ gleichwertig sind.
 -----
 \*) Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
@@ -316,7 +305,6 @@ Futtermittelgesetzbuches ordnungswidrig.
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 3 Abs. 4 Lebensmittel nicht oder nicht in
 der vorgeschriebenen Weise kenntlich macht.
-
 
 ## § 6 Inkrafttreten, Übergangsvorschriften
 
@@ -384,13 +372,11 @@ gebracht werden.
 
 (16) (weggefallen)
 
-
 ## Anlage 1 (zu § 1 Abs. 1 Nr. 1)
 
 ( Inhalt: Nicht darstellbare Liste A und B,
 Fundstelle des Originaltextes: BGBl. I 1999, 2086 - 2093;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
-
 
 ## Anlage 2 (zu § 1 Abs. 1 Nr. 2)
 
@@ -398,18 +384,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 Fundstelle des Originaltextes: BGBl. I 1999, 2094 - 2130;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-
 ## Anlage 3
 
 (gestrichen)
-
 
 ## Anlage 4 (zu § 1 Abs. 2 bis 4)
 
 (Inhalt: Nicht darstellbare Liste A und B
 Fundstelle des Originaltextes: BGBl. I 1999, 2131 - 2137;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 5 (zu § 1 Abs. 4 Nr. 1)
 
@@ -1015,10 +998,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
     *   112-38-9
 
-
-
-
-
 ## Anlage 6 (zu § 3 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2139)
@@ -1061,10 +1040,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
     *   Phosphorwasserstoff
 
     *   7803-51-2
-
-
-
-
 
 ## Anlage 7
 

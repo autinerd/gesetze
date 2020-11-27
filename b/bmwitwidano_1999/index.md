@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 726
 
-
-
 ## I.
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -32,7 +30,6 @@ Behörde zum Erlaß oder zur Ablehnung des Verwaltungsakts oder des
 Anspruchs zuständig war. Entscheidungen über Widersprüche der
 Behördenleiter behalte ich mir vor.
 
-
 ## II.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -44,14 +41,12 @@ zuständig ist. In besonderen Fällen, insbesondere bei Angelegenheiten
 der Behördenleiter, behalte ich mir die Vertretung des Dienstherrn
 vor.
 
-
 ## III.
 
 Diese Anordnung tritt mit Wirkung vom 15. März 1999 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
 eingelegt, oder auf Klagen, die vor ihrem Inkrafttreten erhoben worden
 sind.
-
 
 ## Schlußformel
 

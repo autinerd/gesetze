@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 551
 
-
-
 ## (XXXX)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
@@ -42,7 +40,6 @@ August 1996 (BGBl. I S. 1358).
 
 Bundesministerium der Justiz
 
-
 ## Anlage 1 Name, Abkürzung und Emblem der Internationalen Organisation für Auswanderung
 
 (Fundstelle: BGBl. I 1997, 552)
@@ -53,7 +50,6 @@ Organisation Internationale pour les Migrations (OIM) - französisch -
 Organizacion Internacional para las Migraciones (OIM) - spanisch -
 Emblem:
 (... nicht darstellbare Abbildung)
-
 
 ## Anlage 2 Flagge, Name und Abkürzung der Internationalen Fernmeldeunion sowie Namen und Abkürzungen ihrer drei Bereiche
 
@@ -89,7 +85,6 @@ Sector de Radiocomunicaciones (UIT-R)
 Sector de Normalizacion de las Telecomunicaciones (UIT-T)
 Sector de Desarrollo de las Telecomunicaciones (UIT-D)
 - spanisch -
-
 
 ## Anlage 3 Emblem und Siegel der Multilateralen Investitions-Garantie-Agentur
 

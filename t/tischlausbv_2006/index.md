@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 245
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung
@@ -29,18 +27,15 @@ I S. 3197) verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Tischler/Tischlerin wird nach § 25 der
 Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27,
 Tischler der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -53,7 +48,6 @@ selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -112,10 +106,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 17. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -126,13 +116,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -141,7 +129,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -171,7 +158,6 @@ er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen
 nutzen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der
 Arbeit, zum Umweltschutz und zur Qualitätssicherung anwenden sowie
 seine Vorgehensweise begründen kann.
-
 
 ## § 9 Gesellenprüfung
 
@@ -366,7 +352,6 @@ keiner der Arbeitsaufgaben des praktischen Teils sowie in dem weiteren
 Prüfungsbereich des schriftlichen Teils dürfen ungenügende Leistungen
 erbracht worden sein.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -374,11 +359,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Tischler/zur Tischlerin
 

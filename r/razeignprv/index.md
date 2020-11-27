@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Nr. 2 des Gesetzes über die Eignungsprüfung für die
 Zulassung zur Rechtsanwaltschaft vom 6. Juli 1990 (BGBl. I S. 1349)
 verordnet der Bundesminister der Justiz:
-
 
 ## § 1 Prüfungsamt
 
@@ -33,7 +31,6 @@ Vorschriften über das für die zweite juristische Staatsprüfung
 zuständige Prüfungsamt des Landes, in dem das Prüfungsamt oder ein
 gemeinsames Prüfungsamt eingerichtet ist, entsprechend, soweit diese
 Verordnung nichts anderes bestimmt.
-
 
 ## § 2 Prüfer
 
@@ -49,7 +46,6 @@ zweiten juristischen Staatsprüfung des Landes entsprechend, in dem das
 Prüfungsamt oder ein gemeinsames Prüfungsamt eingerichtet ist. Bei
 Errichtung eines gemeinsamen Prüfungsamts können Prüfer der
 beteiligten Länder berufen werden.
-
 
 ## § 3 Zulassung zur Eignungsprüfung
 
@@ -98,13 +94,11 @@ Antragsteller stammen, sind in deutscher Sprache einzureichen;
 sonstige Unterlagen sind mit einer beglaubigten Übersetzung
 vorzulegen.
 
-
 ## § 4 Rücktritt von der Prüfung
 
 Der Antragsteller kann nach der Zulassung nur aus wichtigem Grund von
 der Prüfung zurücktreten. Liegt kein wichtiger Grund vor, so gilt die
 Prüfung als nicht bestanden.
-
 
 ## § 5 Erlass von Prüfungsleistungen
 
@@ -117,7 +111,6 @@ verfahrensrechtlichen Kenntnisse im deutschen Recht erworben hat.
 Ausbildungsinhalte sind durch ein Prüfungszeugnis, Berufserfahrung ist
 entsprechend § 12 des Gesetzes über die Tätigkeit europäischer
 Rechtsanwälte in Deutschland nachzuweisen.
-
 
 ## § 6 Prüfungsgebiete
 
@@ -210,13 +203,6 @@ Rechtsanwälte in Deutschland nachzuweisen.
     b)  das dazugehörende Prozeßrecht einschließlich der Grundlagen im
         Gerichtsverfassungsrecht.
 
-
-
-
-
-
-
-
 ## § 7 Prüfungsleistungen
 
 (1) Die Aufsichtsarbeiten haben Aufgaben aus der beruflichen Praxis
@@ -228,7 +214,6 @@ der beruflichen Praxis eines Rechtsanwalts zu entnehmen. Die
 Vorbereitungszeit für den Kurzvortrag beträgt zwei Stunden. Für jeden
 Prüfungsteilnehmer beträgt die Dauer des Prüfungsgesprächs etwa
 fünfundvierzig, die Dauer des Kurzvortrags etwa fünfzehn Minuten.
-
 
 ## § 8 Prüfungskommission
 
@@ -245,7 +230,6 @@ mit der Aufsichtsarbeit den anderen Prüfern zugeleitet.
 (3) Die Mitglieder der Prüfungskommission müssen während der
 mündlichen Prüfung ständig anwesend sein.
 
-
 ## § 9 Versäumnis von Prüfungsterminen und Nichtabgabe von Aufsichtsarbeiten
 
 (1) Folgt der Antragsteller ohne ausreichende Entschuldigung einer
@@ -257,7 +241,6 @@ mißlungen zu bewerten.
 oder nicht rechtzeitig zu dem Termin für die mündliche Prüfung oder
 nimmt er den Termin nicht bis zum Ende wahr, gilt die Prüfung als
 nicht bestanden.
-
 
 ## § 10 Ordnungswidriges Verhalten
 
@@ -278,7 +261,6 @@ erklärt.
 (4) Die Prüfung kann nur innerhalb einer Frist von fünf Jahren seit
 dem Tag der mündlichen Prüfung für nicht bestanden erklärt werden.
 
-
 ## § 11 Entscheidung über das Ergebnis der Eignungsprüfung
 
 (1) Im Anschluß an die mündliche Prüfung berät die Prüfungskommission
@@ -292,7 +274,6 @@ erforderlichen Kenntnisse hat.
 Prüfungskommission über das Ergebnis der Prüfung bekanntzugeben. Das
 Prüfungsamt erteilt hierüber eine schriftliche Bestätigung.
 
-
 ## § 12 Wiederholung der Eignungsprüfung
 
 (1) Hat der Antragsteller die Eignungsprüfung nicht bestanden, so darf
@@ -301,7 +282,6 @@ er sie zweimal wiederholen.
 (2) Die Prüfungskommission kann bestimmen, daß die Eignungsprüfung
 nicht vor Ablauf einer Frist, die nicht mehr als ein Jahr betragen
 darf, wiederholt werden kann.
-
 
 ## § 13 Entsprechende Anwendung landesrechtlicher Vorschriften
 
@@ -318,7 +298,6 @@ Vorschriften für die zweite juristische Staatsprüfung des Landes
 entsprechend, in dem das Prüfungsamt oder ein gemeinsames Prüfungsamt
 eingerichtet ist.
 
-
 ## § 13a Übertragung auf die Rechtsanwaltskammern
 
 Wird die Durchführung der Eignungsprüfung durch Rechtsverordnung auf
@@ -326,11 +305,9 @@ die Rechtsanwaltskammern übertragen, ist diese Verordnung mit der
 Maßgabe anzuwenden, dass an die Stelle des Prüfungsamtes und dessen
 Präsidenten die Rechtsanwaltskammer und deren Präsident tritt.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1991 in Kraft.
-
 
 ## Schlußformel
 

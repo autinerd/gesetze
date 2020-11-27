@@ -24,10 +24,7 @@ Zuletzt geändert durch
 Evo neu erlassen aufgrund d. § 458 abs. 1 hgb 4100-1 durch
 :   die am 1.10.1938 in Kraft getretene V über die Einführung einer neuen Eisenbahn-Verkehrsordnung v. 8.9.1938 II 663
 
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -50,22 +47,18 @@ Schienenpersonennahverkehrs anzuwenden, die hauptsächlich aus Gründen
 historischen Interesses oder zu touristischen Zwecken betrieben
 werden.
 
-
 ### § 2
 
 (weggefallen)
-
 
 ### § 3 Züge
 
 Zur Beförderung dienen die regelmäßig nach Fahrplan oder die nach
 Bedarf verkehrenden Züge.
 
-
 ### § 4
 
 (weggefallen)
-
 
 ### § 5 Beförderungsbedingungen
 
@@ -77,11 +70,9 @@ Abs. 1 Nr. 1 abweichen, wenn nach dem vorgesehenen Tarif für den
 Fahrausweis ein erheblich ermäßigtes Beförderungsentgelt zu zahlen
 ist.
 
-
 ### § 6
 
 (weggefallen)
-
 
 ### § 7 Sonderabmachungen
 
@@ -124,10 +115,7 @@ des Beförderungsvertrages nicht. Die Entgelte und
 Beförderungsbedingungen richten sich auch in solchen Fällen nach dem
 Tarif.
 
-
 ## II. - Beförderung von Personen
-
-
 
 ### § 8 Ausschluß von der Beförderung. Bedingte Zulassung
 
@@ -149,7 +137,6 @@ ist.
 (4) Personen mit ansteckenden Krankheiten, die die Gesundheit der
 Mitreisenden gefährden können, werden nur dann befördert, wenn die
 Gefährdung anderer ausgeschlossen ist.
-
 
 ### § 9 Fahrausweise
 
@@ -191,12 +178,10 @@ Verpflichtungen nach Absatz 3 nicht nachkommt, kann von der
 Weiterfahrt ausgeschlossen werden. Die Pflicht zur Zahlung eines
 erhöhten Fahrpreises nach § 12 bleibt unberührt.
 
-
 ### § 10 Betreten der Bahnsteige
 
 Der Tarif kann bestimmen, daß Bahnsteige nur mit gültigem Fahrausweis
 oder Bahnsteigkarte betreten werden dürfen.
-
 
 ### § 11 Fahrpreise
 
@@ -208,7 +193,6 @@ Unterschiedsbetrag nachzuzahlen oder zu erstatten. Der Anspruch auf
 Nachzahlung oder Erstattung erlischt, wenn er nicht binnen eines
 Jahres nach Ablauf der Geltungsdauer des Fahrausweises geltend gemacht
 wird.
-
 
 ### § 12 Erhöhter Fahrpreis
 
@@ -248,7 +232,6 @@ hat 7 Euro zu zahlen.
 den Absätzen 2 bis 4 zu entrichtenden Betrages ganz oder teilweise
 abgesehen werden kann.
 
-
 ### § 13 Unterbringung der Reisenden
 
 (1) Der Reisende hat Anspruch auf Beförderung in der Klasse, auf die
@@ -261,7 +244,6 @@ zu sorgen.
 
 (2) Der Reisende hat keinen Anspruch auf Entschädigung, wenn er keinen
 Sitzplatz findet und ihm keiner angewiesen werden kann.
-
 
 ### § 14 Informationen
 
@@ -280,13 +262,11 @@ das Eisenbahnverkehrsunternehmen den Reisenden über den nächsten
 Haltebahnhof, über Verspätungen, über Sicherheit und über
 Dienstleistungen im Zug informieren.
 
-
 ### § 15 Verhalten bei außerplanmäßigem Halt
 
 Bei einem außerplanmäßigen Halt dürfen die Reisenden nur mit
 Zustimmung des Zugbegleitpersonals aussteigen. Sie müssen sich sofort
 von den Gleisen entfernen.
-
 
 ### § 16 Mitnahme von Handgepäck und Tieren
 
@@ -314,7 +294,6 @@ c)  unter welchen Bedingungen lebende Tiere in Personenwagen mitgenommen
 
 
 (3)
-
 
 ### § 17 Verspätung im Schienenpersonennahverkehr
 
@@ -380,7 +359,6 @@ offensichtlich war. Der Betreiber der Eisenbahninfrastruktur, auf der
 die Beförderung erfolgt, ist im Verhältnis zum
 Eisenbahnverkehrsunternehmen nicht als Dritter anzusehen.
 
-
 ### § 18 Fahrpreiserstattung
 
 (1) Hat ein Reisender den Fahrausweis nicht zur Fahrt benutzt, so kann
@@ -410,21 +388,15 @@ erlöschen, wenn sie nicht binnen sechs Monaten nach Ablauf der
 Geltungsdauer des Fahrausweises bei der Eisenbahn geltend gemacht
 werden.
 
-
 ### § 19 Meinungsverschiedenheiten
 
 Meinungsverschiedenheiten unter Reisenden oder zwischen Reisenden und
 dem Eisenbahnpersonal entscheidet vorläufig auf Bahnhöfen der
 aufsichtführende Bedienstete, in den Zügen der Zugführer.
 
-
 ### (XXXX) §§ 20 bis 24 (weggefallen)
 
-
-
 ## III. - Beförderung von Reisegepäck
-
-
 
 ### § 25 Aufgabe von Reisegepäck
 
@@ -450,7 +422,6 @@ als Reisegepäck aufgeben kann, bestimmt der Tarif.
 Beförderung als Reisegepäck zugelassenen Gegenstände beschränken,
 erforderlichenfalls weitere Einschränkungen vorsehen.
 
-
 ### § 26 Verpackung. Kennzeichnung
 
 Gepäckstücke, deren Verpackung ungenügend oder deren Beschaffenheit
@@ -460,7 +431,6 @@ Eisenbahn zurückweisen. Werden sie gleichwohl zur Beförderung
 angenommen, so kann die Eisenbahn im Gepäckschein den Zustand des
 Gepäcks vermerken. Nimmt der Reisende den Gepäckschein mit dem Vermerk
 an, so erkennt er diesen Zustand an.
-
 
 ### § 27 Aufgabe. Abfertigung. Gepäckschein
 
@@ -495,11 +465,9 @@ d)  die Gepäckfracht und etwaige andere Entgelte.
 (4) Der Tarif bestimmt, ob bei Aufgabe des Gepäcks der Fahrausweis
 vorzulegen ist.
 
-
 ### § 28
 
 (weggefallen)
-
 
 ### § 29 Auslieferung
 
@@ -514,24 +482,17 @@ Gepäckschein dabei nicht zurückgegeben oder vorgelegt wird.
 das Gepäck nur demjenigen auszuliefern, der seine Berechtigung
 glaubhaft macht; sie kann Sicherheitsleistung verlangen.
 
-
 ### § 30
 
 (weggefallen)
 
-
 ### (XXXX) §§ 31 bis 33 (weggefallen)
-
-
 
 ### § 34
 
 (weggefallen)
 
-
 ## IV. - Gepäckträger, Gepäckaufbewahrung
-
-
 
 ### § 35 Gepäckträger
 
@@ -551,7 +512,6 @@ zur Gepäckaufbewahrung dienenden Räumen aushängen.
 
 (4) Für das den Gepäckträgern übergebene Reise- oder Handgepäck haftet
 die Eisenbahn wie für das ihr zur Beförderung übergebene Gepäck.
-
 
 ### § 36 Aufbewahrung des Gepäcks
 
@@ -598,15 +558,11 @@ ist der Reisende zur Nachzahlung des ungedeckten Betrags verpflichtet.
 Die Eisenbahn hat den Reisenden, wenn sich sein Aufenthalt ermitteln
 läßt, vom bevorstehenden Verkauf des Gepäcks zu benachrichtigen.
 
-
 ## V. bis VIII. mit den §§ 37 bis 96
 
 (weggefallen)
 
-
 ## V. - Schlichtung
-
-
 
 ### § 37 Schlichtungsstelle
 
@@ -650,11 +606,9 @@ verkehrsträgerübergreifende Schlichtungsstelle sein.
 Beschwerde auf die Möglichkeit der Schlichtung hinweisen und die
 Adressen geeigneter Schlichtungsstellen mitteilen.
 
-
 ### Anlage
 
 (weggefallen)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

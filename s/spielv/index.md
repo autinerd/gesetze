@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 27.1.2006 I 280
 
-
 ## I. - Aufstellung von Geldspielgeräten
-
-
 
 ### § 1
 
@@ -57,10 +54,6 @@ Neugefasst durch
     Art nach oder tatsächlich vorwiegend von Kindern oder Jugendlichen
     besucht werden.
 
-
-
-
-
 ### § 2
 
 Ein Spielgerät, bei dem der Gewinn in Waren besteht (Warenspielgerät),
@@ -80,10 +73,6 @@ darf nur aufgestellt werden
 
 4.  auf Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen,
     Jahrmärkten oder Spezialmärkten.
-
-
-
-
 
 ### § 3
 
@@ -113,7 +102,6 @@ außer Ansatz.
 Getränke zum Verzehr an Ort und Stelle verabreicht werden, dürfen
 höchstens drei Geld- oder Warenspielgeräte aufgestellt werden.
 
-
 ### § 3a
 
 Der Gewerbetreibende, in dessen Betrieb das Spielgerät aufgestellt
@@ -121,14 +109,9 @@ werden soll, darf die Aufstellung nur zulassen, wenn die
 Voraussetzungen des § 33c Abs. 3 Satz 1 der Gewerbeordnung und des § 3
 im Hinblick auf diesen Betrieb erfüllt sind.
 
-
 ## II. - Veranstaltung anderer Spiele
 
-
-
 ### 1. - Erlaubnispflichtige Spiele
-
-
 
 #### § 4
 
@@ -138,7 +121,6 @@ Gewinn in Geld besteht, darf nur erteilt werden, wenn das Spiel in
 Spielhallen oder ähnlichen Unternehmen veranstaltet werden soll. In
 einer Spielhalle oder einem ähnlichen Unternehmen dürfen höchstens
 drei andere Spiele veranstaltet werden.
-
 
 #### § 5
 
@@ -150,10 +132,7 @@ Speisewirtschaften oder Beherbergungsbetrieben mit Ausnahme der in § 1
 Abs. 2 Nr. 2 und 3 genannten Betriebe veranstaltet werden soll. Im
 Übrigen gilt § 3 Abs. 1 entsprechend.
 
-
 ### 2. - Erlaubnisfreie Spiele
-
-
 
 #### § 5a
 
@@ -164,10 +143,7 @@ der Gewinn in Waren besteht. In Zweifelsfällen stellt das
 Bundeskriminalamt oder das zuständige Landeskriminalamt fest, ob diese
 Voraussetzungen vorliegen.
 
-
 ## III. - Verpflichtungen bei der Ausübung des Gewerbes
-
-
 
 ### § 6
 
@@ -194,7 +170,6 @@ pathologischem Spielverhalten anzubringen. Der Aufsteller hat in einer
 Spielhalle Informationsmaterial über Risiken des übermäßigen Spielens
 sichtbar auszulegen.
 
-
 ### § 6a
 
 Die Aufstellung und der Betrieb von Spielgeräten, die keine
@@ -215,7 +190,6 @@ Die Rückgewähr getätigter Einsätze ist unzulässig. Die Gewährung von
 Freispielen ist nur zulässig, wenn sie ausschließlich in unmittelbarem
 zeitlichen Anschluss an das entgeltliche Spiel abgespielt werden und
 nicht mehr als sechs Freispiele gewonnen werden können.
-
 
 ### § 7
 
@@ -244,7 +218,6 @@ nicht leicht zugänglich ist, dessen Frist gemäß Absatz 3 oder dessen
 im Zulassungszeichen angegebene Aufstelldauer abgelaufen ist,
 unverzüglich aus dem Verkehr zu ziehen.
 
-
 ### § 8
 
 (1) Der Aufsteller eines Spielgerätes oder der Veranstalter eines
@@ -258,7 +231,6 @@ Unbedenklichkeitsbescheinigung Ausnahmen zugelassen sind.
 keinen Kredit gewähren oder durch Beauftragte gewähren lassen und
 nicht zulassen, dass in seinem Unternehmen Beschäftigte solche Kredite
 gewähren.
-
 
 ### § 9
 
@@ -278,7 +250,6 @@ oder andere Spiele keine sonstigen Gewinnchancen in Aussicht stellen
 und keine Zahlungen oder sonstige finanziellen Vergünstigungen
 gewähren.
 
-
 ### § 10
 
 Der Veranstalter eines anderen Spieles, bei dem der Gewinn in Geld
@@ -286,10 +257,7 @@ besteht, darf Kindern und Jugendlichen, ausgenommen verheirateten
 Jugendlichen, den Zutritt zu den Räumen, in denen das Spiel
 veranstaltet wird, nicht gestatten.
 
-
 ## IV. - Zulassung von Spielgeräten
-
-
 
 ### § 11
 
@@ -297,7 +265,6 @@ veranstaltet wird, nicht gestatten.
 des § 33c Abs. 1 Satz 1 der Gewerbeordnung entscheidet die
 Physikalisch-Technische Bundesanstalt im Benehmen mit dem
 Bundeskriminalamt.
-
 
 ### § 12
 
@@ -341,7 +308,6 @@ aufgeführten Angaben durchzuführen.
 Technischen Bundesanstalt durchgeführt, sie kann in Ausnahmefällen am
 Herstellungs-, Lieferungs- und Aufstellungsort des Spielgerätes
 erfolgen.
-
 
 ### § 13
 
@@ -414,7 +380,6 @@ kann die Physikalisch-Technische Bundesanstalt technische Richtlinien
 zum Vollzug der in Absatz 1 angeführten Kriterien herausgeben und
 anwenden.
 
-
 ### § 14
 
 (1) Die Physikalisch-Technische Bundesanstalt darf die Bauart eines
@@ -445,7 +410,6 @@ kann die Physikalisch-Technische Bundesanstalt technische Richtlinien
 zum Vollzug der in Absatz 1 genannten Kriterien herausgeben und
 anwenden.
 
-
 ### § 15
 
 (1) Wird die Bauart eines Spielgerätes zugelassen, so erhält der
@@ -457,7 +421,6 @@ Zulassungszeichen. Auf Antrag werden diese Unterlagen umgetauscht.
 Physikalisch-Technische Bundesanstalt bekannt gemacht. Das Gleiche
 gilt, wenn eine Bauartzulassung geändert, zurückgenommen oder
 widerrufen wurde.
-
 
 ### § 16
 
@@ -508,7 +471,6 @@ das Ende der Aufstelldauer ersichtlich sein.
 
 (6) Der Zulassungsbeleg und das Zulassungszeichen erhalten jeweils für
 ein Nachbaugerät dieselbe fortlaufende Nummer.
-
 
 ### § 17
 
@@ -566,10 +528,7 @@ Unterlagen beträgt 15 Euro.
 sind vom Antragsteller die Aufwendungen zu erstatten, die durch
 beantragte Ergänzungsarbeiten notwendig werden.
 
-
 ## V. - Erteilung von Unbedenklichkeitsbescheinigungen für gewerbsmäßig betriebene Ausspielungen
-
-
 
 ### § 18
 
@@ -580,10 +539,7 @@ durch § 5a begünstigt sind, nur erteilen, wenn die in Nummer 4 der
 Anlage zu § 5a genannte Höhe der Gestehungskosten eines Gewinns nicht
 überschritten wird.
 
-
 ## VI. - Ordnungswidrigkeiten
-
-
 
 ### § 19
 
@@ -673,13 +629,7 @@ Reisegewerbes
 
 2.  eine in Absatz 1 Nr. 4 bis 8 bezeichnete Handlung begeht.
 
-
-
-
-
 ## VII. - Schlussvorschriften
-
-
 
 ### § 20
 
@@ -699,7 +649,6 @@ entsprechend.
 
 (3) Für den Betrieb von Geldspielgeräten, deren Zulassung sich nach
 den Absätzen 1 und 2 bestimmt, gilt § 7 Abs. 1 bis 3 nicht.
-
 
 ### Anlage (zu § 5a)
 

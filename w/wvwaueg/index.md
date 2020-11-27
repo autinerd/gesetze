@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1583, 1590
 
-
 ## § 1 Bundesamt für das Personalmanagement der Bundeswehr
 
 Dem Bundesamt für das Personalmanagement der Bundeswehr werden die
@@ -49,10 +48,6 @@ Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 
 
 9.  der Personalaktenverordnung Soldaten.
-
-
-
-
 
 ## § 2 Karrierecenter der Bundeswehr
 

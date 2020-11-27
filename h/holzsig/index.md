@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1345
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
-
 
 ## § 1 Anwendungsbereich und Aufgabenübertragung
 
@@ -34,7 +32,6 @@ Durchführungsbestimmungen.
 (2) Die Durchführung der in Absatz 1 bezeichneten Rechtsakte sowie
 dieses Gesetzes obliegt der Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt).
-
 
 ## § 2 Eingriffsbefugnisse
 
@@ -99,7 +96,6 @@ Maßnahmen.
 Verfügungsverbotes überlassen, beschlagnahmt oder vernichtet, hat der
 Einführer die damit verbundenen Kosten zu tragen.
 
-
 ## § 3 Mitwirkung der Zollbehörden
 
 (1) Die Zollbehörden wirken bei der Überwachung der Einfuhr von
@@ -121,10 +117,6 @@ Bundesanstalt mit.
     der Bundesanstalt oder einer von ihr benannten Stelle vorgelegt
     werden.
 
-
-
-
-
 ## § 4 Datenaustausch
 
 (1) Die Bundesanstalt unterrichtet die Zollbehörden unverzüglich über
@@ -137,7 +129,6 @@ Drittstaaten alle gemeinschaftsrechtlich notwendigen Informationen zu
 (2) Für den Datenaustausch und die Erfassung der in den FLEGT-
 Genehmigungen enthaltenen Daten können die Bundesanstalt und die
 Zollbehörden elektronische Systeme einsetzen.
-
 
 ## § 5 Verordnungsermächtigungen
 
@@ -165,10 +156,6 @@ Zustimmung des Bundesrates
     verbleibenden Anwendungsbereich anzupassen, soweit sie durch den
     Erlass entsprechender Vorschriften in Verordnungen der Europäischen
     Gemeinschaft unanwendbar geworden sind.
-
-
-
-
 
 ## § 6 Auskunfts- und Duldungspflichten
 
@@ -214,7 +201,6 @@ Produkte aus den Transportmitteln zu entladen, die geschäftlichen
 Unterlagen vorzulegen und Ablichtungen oder Ausdrucke der Unterlagen
 kostenlos zur Verfügung zu stellen.
 
-
 ## § 7 Strafvorschriften
 
 Wer entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2173/2005 des
@@ -223,7 +209,6 @@ Genehmigungssystems für Holzeinfuhren in die Europäische Gemeinschaft
 (ABl. L 347 vom 30.12.2005, S. 1) ein Holzprodukt aus einem dort
 genannten Partnerland in die Gemeinschaft einführt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -262,12 +247,10 @@ werden.
 Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt, soweit das
 Gesetz durch diese ausgeführt wird.
 
-
 ## § 9 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 7 oder eine
 Ordnungswidrigkeit nach § 8 bezieht, können eingezogen werden.
-
 
 ## § 10 Inkrafttreten
 

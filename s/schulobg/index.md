@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 107 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung der Vorschriften über die
@@ -33,7 +32,6 @@ Dezember 2008 (ABl. L 5 vom 9.1.2009, S. 1) geändert worden ist, sowie
 der hierzu nach Artikel 103h der Verordnung (EG) Nr. 1234/2007
 erlassenen Rechtsakte der Europäischen Kommission (Schulobstprogramm)
 durch die Länder nach Maßgabe der folgenden Bestimmungen.
-
 
 ## § 2 Anwendbare Rechtsvorschriften
 
@@ -66,7 +64,6 @@ Direktzahlungen mit folgenden Maßgaben:
 Die Landesregierungen können ihre Ermächtigungen nach Satz 1 Nummer 2
 durch Rechtsverordnungen auf oberste Landesbehörden übertragen.
 
-
 ## § 3 Teilnahme am Schulobstprogramm, Fristen
 
 (1) Ein Land kann auf der Grundlage der nach § 1 erlassenen Rechtsakte
@@ -95,7 +92,6 @@ Verfügung stehen. Die Frist nach Satz 1 ist eine Ausschlussfrist.
 2009/2010 die bis zum 31. Mai 2009 beim Bundesministerium
 eingereichten regionalen Strategien Grundlage für die Durchführung des
 Schulobstprogramms.
-
 
 ## § 4 Verteilung der Gemeinschaftsmittel auf die Länder
 
@@ -128,7 +124,6 @@ wollen. Das Bundesministerium gibt den Ländern das Ergebnis bis zum
 14\. April des jeweiligen Kalenderjahres, in dem das Schulobstprogramm
 durchgeführt wird, bekannt.
 
-
 ## § 5 Mitteilungspflichten
 
 Die Länder teilen der Bundesanstalt für Landwirtschaft und Ernährung
@@ -138,7 +133,6 @@ zur Erfüllung der Meldepflichten erforderlich sind, die der
 Bundesrepublik Deutschland gegenüber den Organe der Europäische Union
 nach den in § 1 genannten Rechtsakten obliegen.
 
-
 ## § 6 Verordnungsermächtigung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -146,13 +140,11 @@ Zustimmung des Bundesrates die Annahme der Meldungen nach § 3 und die
 Verteilung der Gemeinschaftsbeihilfen nach § 4 auf die Bundesanstalt
 für Landwirtschaft und Ernährung zu übertragen.
 
-
 ## § 7 Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen des Bundes nach diesem Gesetz können abweichend von
 § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im
 Bundesanzeiger verkündet werden.
-
 
 ## § 8 Inkrafttreten
 

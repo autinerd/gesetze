@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 983
 
-
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende

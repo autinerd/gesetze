@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 65 G v. 19.4.2006 I 866
 
-
 ## § 1
 
 In den Verfahren über Ansprüche nach dem Bundesrückerstattungsgesetz
@@ -39,14 +38,12 @@ Bundesrückerstattungsgesetzes im Saarland genannten Rechtsvorschriften
 gegen Endurteile der Oberlandesgerichte die Revision an den
 Bundesgerichtshof (Zivilsenat) statt.
 
-
 ## § 2
 
 Für das Verfahren über die Revision und die weitere Beschwerde gelten
 die Vorschriften des Zweiten Abschnitts des Dritten Buches der
 Zivilprozeßordnung entsprechend, soweit dieses Gesetz nichts anderes
 bestimmt.
-
 
 ## § 3
 
@@ -55,7 +52,6 @@ den Wert des Beschwerdegegenstandes statt.
 
 (2) Das Oberlandesgericht ist zu einer Änderung seiner der weiteren
 Beschwerde unterliegenden Entscheidung nicht befugt.
-
 
 ## § 4
 
@@ -75,17 +71,14 @@ mündliche Verhandlung beantragt.
 Versäumnisverfahren und die Ablehnung der Annahme der Revision sind
 nicht anzuwenden.
 
-
 ## § 5
 
 Für das Verfahren vor dem Bundesgerichtshof werden Gerichtskosten
 nicht erhoben.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 

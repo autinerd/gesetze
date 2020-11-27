@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1389
 
-
-
 ## § 1
 
 Ist für ein Guthaben einer natürlichen Person ein Umstellungsantrag
@@ -32,7 +30,6 @@ Republik beträgt. Der Antrag ist bis zum 30. Juni 1993 beim
 kontoführenden Geldinstitut zu stellen. Die Umstellung erfolgt zu den
 in Artikel 6 der Anlage I des Vertrages vom 18. Mai 1990 genannten
 Umstellungssätzen; Artikel 6 Abs. 1 findet keine Anwendung.
-
 
 ## § 2
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 1 G v. 21.7.2004 I 1763
 
-
 ## Art 1 - Zustimmung zum Vertrag
 
 Dem in Brüssel am 27. September 1996 von der Bundesrepublik
@@ -28,10 +27,7 @@ Vertrags über die Europäische Union zum Übereinkommen über den Schutz
 der finanziellen Interessen der Europäischen Gemeinschaften wird
 zugestimmt. Das Protokoll wird nachstehend veröffentlicht.
 
-
 ## Art 2 - Durchführungsbestimmungen
-
-
 
 ## § 1 Gleichstellung von ausländischen mit inländischen Amtsträgern bei Bestechungshandlungen
 
@@ -87,7 +83,6 @@ steht einem Amtsträger ein in Absatz 1 Nr. 2 Buchstabe b bezeichneter
 Gemeinschaftsbeamter und ein Mitglied der Kommission der Europäischen
 Gemeinschaften gleich.
 
-
 ## § 2 Auslandstaten
 
 Die §§ 332, 334 bis 336 des Strafgesetzbuches, auch in Verbindung mit
@@ -122,20 +117,14 @@ die im Ausland begangen wird, wenn
     nach § 1 Abs. 1 gleichgestellten Person, soweit sie Deutsche sind,
     begangen wird.
 
-
-
-
-
 ## § 3
 
 -
-
 
 ## Art 3 - Anwendung des § 261 des Strafgesetzbuches
 
 § 261 Abs. 1 Satz 2 Nr. 1 und 2 Buchstabe a des Strafgesetzbuches ist
 auch in Verbindung mit Artikel 2 § 1 Abs. 1 anzuwenden.
-
 
 ## Art 4 - Inkrafttreten
 

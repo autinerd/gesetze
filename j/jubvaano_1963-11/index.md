@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Abschn. I AnO v. 13.3.1992 BAnz. 1992, Nr. 62, 2705
 
-
 ## I.
 
 Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
@@ -41,7 +40,6 @@ Bundesgrenzschutzes mit Ausnahme der Leiter der Mittelbehörden
 
 für die Beamten in ihrem Dienstbereich.
 
-
 ## II.
 
 Die Jubiläumsurkunden werden in folgender Form vollzogen:
@@ -52,21 +50,10 @@ Die Jubiläumsurkunden werden in folgender Form vollzogen:
 
         *   (Name)
 
-
-
-
-
-
-
-
-
-
-
 ## III.
 
 Die Anordnung tritt mit Wirkung vom Tage nach der Verkündung in Kraft.
 ...
-
 
 ## Schlußformel
 

@@ -26,10 +26,7 @@ Rates vom 17. Dezember 1992 mit allgemeinen Gemeinschaftsmaßnahmen zur
 Bekämpfung bestimmter Tierseuchen sowie besonderen Maßnahmen bezüglich
 der vesikulären Schweinekrankheit (ABl. EG 1993 Nr. L 62 S. 69).
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -59,10 +56,6 @@ Im Sinne dieser Verordnung liegen vor:
     Untersuchung nach dem Anhang der Entscheidung 2000/428/EG den Ausbruch
     der Vesikulären Schweinekrankheit befürchten lässt.
 
-
-
-
-
 ### § 2 Impfverbot
 
 (1) Impfungen gegen die Vesikuläre Schweinekrankheit sowie
@@ -70,7 +63,6 @@ Heilversuche an seuchenkranken oder verdächtigen Tieren sind verboten.
 
 (2) Die zuständige Behörde kann im Einzelfall Ausnahmen von Absatz 1
 für wissenschaftliche Versuche genehmigen.
-
 
 ### § 3 Untersuchungen, Maßregeln beim Einstellen
 
@@ -92,16 +84,7 @@ erforderlich ist, anordnen,
 
     c)  eine behördliche Beobachtung.
 
-
-
-
-
-
-
-
 ## Abschnitt 2 - Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche
-
-
 
 ### § 4 Schutzmaßregeln vor amtlicher Feststellung
 
@@ -154,12 +137,10 @@ benachbarte Betriebe oder sonstige Standorte mit Schweinehaltung
 anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich
 ist.
 
-
 ### § 5 Öffentliche Bekanntmachung
 
 Die zuständige Behörde macht den Ausbruch der Vesikulären
 Schweinekrankheit öffentlich bekannt.
-
 
 ### § 6 Sperre des Betriebes oder sonstigen Standortes
 
@@ -243,7 +224,6 @@ benachbarte Betriebe oder sonstige Standorte mit Schweinehaltung
 anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich
 ist.
 
-
 ### § 7 Tötung und unschädliche Beseitigung
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem
@@ -256,7 +236,6 @@ in einem Betrieb oder an einem sonstigen Standort amtlich
 festgestellt, so kann die zuständige Behörde die sofortige Tötung und
 unschädliche Beseitigung sämtlicher Schweine anordnen.
 
-
 ### § 8 Ausnahmen
 
 Bei Betrieben mit gesonderten Betriebseinheiten kann die zuständige
@@ -267,7 +246,6 @@ Betriebseinheiten auf Grund ihrer Struktur, ihres Umfangs und ihrer
 Funktion in Bezug auf die Haltung einschließlich der Fütterung so
 vollständig gesondert sind, dass eine Ausbreitung des Seuchenerregers
 auf sie nicht anzunehmen ist.
-
 
 ### § 9 Sperrbezirk
 
@@ -390,7 +368,6 @@ hat der Besitzer seinen Schweinebestand nach näherer Anweisung der
 zuständigen Behörde auf Vesikuläre Schweinekrankheit untersuchen zu
 lassen.
 
-
 ### § 10 Beobachtungsgebiet
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem
@@ -448,7 +425,6 @@ Vorschriften der Sperre:
 
 (3) § 9 Abs. 4 Satz 1 gilt entsprechend.
 
-
 ### § 11 Schutzmaßregeln bei Ansteckungsverdacht
 
 (1) Ist in einem Betrieb oder an einem sonstigen Standort der Verdacht
@@ -488,7 +464,6 @@ ihrer Funktion in Bezug auf die Haltung einschließlich der Fütterung
 so vollständig gesondert sind, dass eine Ausbreitung des
 Seuchenerregers auf sie nicht anzunehmen ist.
 
-
 ### § 12 Desinfektion
 
 (1) Nach Tötung und unschädlicher Beseitigung der seuchenkranken oder
@@ -505,7 +480,6 @@ unzugänglichen Ort packen, mit einem geeigneten Desinfektionsmittel
 muss er nach näherer Anweisung des beamteten Tierarztes desinfizieren.
 Futter und Einstreu, die Träger des Seuchenerregers sein können, muss
 er verbrennen oder zusammen mit dem Dung behandeln.
-
 
 ### § 13 Schutzmaßregeln auf Tierausstellungen, auf dem Transport und in Schlachtstätten
 
@@ -542,10 +516,6 @@ Vesikuläre Schweinekrankheit festgestellt,
 3.  dürfen Schweine innerhalb von 24 Stunden nach Abschluss der
     Desinfektion nach Nummer 1 Buchstabe b nicht in die Schlachtstätte
     verbracht werden.
-
-
-
-
 
 ### § 14 Aufhebung von Schutzmaßregeln
 
@@ -595,10 +565,7 @@ repräsentative serologische Stichprobenuntersuchung auf Vesikuläre
 Schweinekrankheit nach dem Anhang der Entscheidung 2000/428/EG keine
 Anzeichen ergeben hat, die auf Vesikuläre Schweinekrankheit hinweisen.
 
-
 ## Abschnitt 3 - Schlussbestimmungen
-
-
 
 ### § 15 Ordnungswidrigkeiten
 

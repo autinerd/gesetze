@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 7 G v. 11.8.2009 I 2713
 
-
 ## Eingangsformel
 
 Auf Grund des § 125 Abs. 3 des Gesetzes über die Angelegenheiten der
 freiwilligen Gerichtsbarkeit in der Fassung der Verordnung vom 10.
 August 1937 (Reichsgesetzbl. I S. 900) bestimme ich folgendes:
 
-
 ## I. - Einrichtung des Handelsregisters, Örtliche und sachliche Zuständigkeit
-
-
 
 ### § 1 Zuständigkeit des Amtsgerichts
 
@@ -38,11 +34,9 @@ Gerichtsbarkeit etwas Abweichendes geregelt ist, führt jedes
 Amtsgericht, in dessen Bezirk ein Landgericht seinen Sitz hat, für den
 Bezirk dieses Landgerichts ein Handelsregister.
 
-
 ### § 2
 
 (weggefallen)
-
 
 ### § 3
 
@@ -57,7 +51,6 @@ und die Europäischen wirtschaftlichen Interessenvereinigungen.
 die SE, die Kommanditgesellschaften auf Aktien, die Gesellschaften mit
 beschränkter Haftung und die Versicherungsvereine auf Gegenseitigkeit.
 
-
 ### § 4
 
 Für die Erledigung der Geschäfte des Registergerichts ist der Richter
@@ -66,16 +59,12 @@ dem Urkundsbeamten der Geschäftsstelle übertragen ist, gelten die §§ 5
 bis 8 des Rechtspflegergesetzes in Bezug auf den Urkundsbeamten der
 Geschäftsstelle entsprechend.
 
-
 ### (XXXX) §§ 5 und 6 (weggefallen)
-
-
 
 ### § 7 Elektronische Führung des Handelsregisters
 
 Die Register einschließlich der Registerordner werden elektronisch
 geführt. § 8a Abs. 2 des Handelsgesetzbuchs bleibt unberührt.
-
 
 ### § 8 Registerakten
 
@@ -113,7 +102,6 @@ Beschwerdeverfahrens notwendig ist; § 298 Abs. 2 der
 Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens
 bis zum rechtskräftigen Abschluss des Beschwerdeverfahrens
 aufzubewahren.
-
 
 ### § 9 Registerordner
 
@@ -185,7 +173,6 @@ Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens
 bis zum rechtskräftigen Abschluss des Beschwerdeverfahrens
 aufzubewahren.
 
-
 ### § 10 Einsichtnahme
 
 (1) Die Einsicht in das Register und in die zum Register eingereichten
@@ -205,15 +192,11 @@ Handelsregisters nicht vorgenommen werden können.
 einschließlich der nach § 9 Abs. 4 oder Abs. 5 Satz 2 aufgenommenen
 Angaben und der eingereichten Übersetzungen zugänglich zu machen.
 
-
 ### § 11
 
 (weggefallen)
 
-
 ## II. - Führung des Handelsregisters
-
-
 
 ### § 12 Form der Eintragungen
 
@@ -221,7 +204,6 @@ Die Eintragungen sind deutlich, klar verständlich sowie in der Regel
 ohne Verweis auf gesetzliche Vorschriften und ohne Abkürzung
 herzustellen. Aus dem Register darf nichts durch technische Eingriffe
 oder sonstige Maßnahmen entfernt werden.
-
 
 ### § 13
 
@@ -247,7 +229,6 @@ Registerblatt einzutragen.
 Handelsgesetzbuchs) sind dem Registerblatt und der jeweiligen
 Eintragung zuzuordnen.
 
-
 ### § 14
 
 (1) Jede Eintragung ist mit einer laufenden Nummer zu versehen und
@@ -257,7 +238,6 @@ von der folgenden Eintragung zu trennen.
 (2) Werden mehrere Eintragungen gleichzeitig vorgenommen, so erhalten
 sie nur eine laufende Nummer.
 
-
 ### § 15 Übersetzungen
 
 War eine frühere Eintragung in einer Amtssprache der Europäischen
@@ -266,7 +246,6 @@ mit der Eintragung kenntlich zu machen, dass die Übersetzung nicht
 mehr dem aktuellen Stand der Registereintragung entspricht. Die
 Kenntlichmachung ist zu entfernen, sobald eine aktualisierte
 Übersetzung eingereicht wird.
-
 
 ### § 16
 
@@ -287,7 +266,6 @@ beeinträchtigt wird. Andernfalls ist die betroffene Eintragung
 insgesamt zu röten und ihr noch gültiger Teil in verständlicher Form
 zu wiederholen.
 
-
 ### § 16a Kennzeichnung bestimmter Eintragungen
 
 Diejenigen Eintragungen, die lediglich andere Eintragungen
@@ -295,7 +273,6 @@ wiederholen, erläutern oder begründen und daher nach § 30a Abs. 4 Satz
 4 nicht in den aktuellen Ausdruck einfließen, sind grau zu hinterlegen
 oder es ist auf andere Weise sicherzustellen, dass diese Eintragungen
 nicht in den aktuellen Ausdruck übernommen werden.
-
 
 ### § 17
 
@@ -314,7 +291,6 @@ betrifft.
 § 16 oder § 16a ist zu löschen oder auf andere eindeutige Weise zu
 beseitigen. Die Löschung oder sonstige Beseitigung ist zu vermerken.
 
-
 ### § 18
 
 Erfolgt eine Eintragung auf Grund einer rechtskräftigen oder
@@ -322,7 +298,6 @@ vollstreckbaren Entscheidung des Prozeßgerichts, so ist dies bei der
 Eintragung im Register unter Angabe des Prozessgerichts, des Datums
 und des Aktenzeichens der Entscheidung zu vermerken. Eine Aufhebung
 der Entscheidung ist in dieselbe Spalte des Registers einzutragen.
-
 
 ### § 19
 
@@ -341,11 +316,9 @@ Zustimmungsbedürftigkeit bestimmter Rechtsgeschäfte des Schuldners
 nach § 277 der Insolvenzordnung sowie die sonstigen in § 32 des
 Handelsgesetzbuchs vorgesehenen Vermerke.
 
-
 ### § 19a
 
 (weggefallen)
-
 
 ### § 20
 
@@ -360,7 +333,6 @@ Registerblatt in der Spalte 2 und in der Spalte "Rechtsverhältnisse"
 zu vermerken; § 22 ist entsprechend anzuwenden. Auf dem bisherigen
 Registerblatt ist bei der jeweiligen Eintragung auf das Registerblatt
 des neuen Registergerichts zu verweisen und umgekehrt.
-
 
 ### § 21 Umschreibung eines Registerblatts
 
@@ -379,7 +351,6 @@ neuen Nummer bekannt zu machen.
 (3) Bestehen Zweifel über die Art oder den Umfang der Übertragung, so
 sind die Beteiligten vorher zu hören.
 
-
 ### § 22 Gegenstandslosigkeit aller Eintragungen
 
 (1) Sämtliche Seiten des Registerblatts sind zu röten oder rot zu
@@ -394,10 +365,7 @@ Archivierung von Handelsregisterblättern zuständigen Stelle verfügbar
 gehalten werden, soweit landesrechtliche Vorschriften nicht
 entgegenstehen.
 
-
 ## III. - Verfahren bei Anmeldung, Eintragung und Bekanntmachung
-
-
 
 ### § 23
 
@@ -407,7 +375,6 @@ Stellungnahme der Organe des Handelsstandes gemäß § 380 Abs. 2 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit soll elektronisch
 eingeholt und übermittelt werden.
-
 
 ### § 24
 
@@ -431,7 +398,6 @@ unverzüglich mitzuteilen; Satz 2 gilt entsprechend.
 Unternehmensgegenstand, soweit er sich nicht aus der Firma ergibt,
 angegeben werden.
 
-
 ### § 25
 
 (1) Auf die Anmeldung zur Eintragung, auf Gesuche und Anträge
@@ -449,11 +415,9 @@ vom Beschwerdegericht oder nach § 395 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit verfügt ist.
 
-
 ### § 26
 
 (weggefallen)
-
 
 ### § 27 Vornahme der Eintragung, Wortlaut der Bekanntmachung
 
@@ -478,14 +442,12 @@ prüfen.
 
 (4) Bei jeder Eintragung ist der Tag der Eintragung anzugeben.
 
-
 ### § 28 Elektronische Signatur
 
 Der Richter oder im Fall des § 27 Abs. 2 der Urkundsbeamte der
 Geschäftsstelle setzt der Eintragung seinen Nachnamen hinzu und
 signiert beides elektronisch. Im Übrigen gilt § 75 der
 Grundbuchverfügung entsprechend.
-
 
 ### § 29
 
@@ -516,7 +478,6 @@ Grundbuchverfügung entsprechend.
 Geschäftsstelle verlangt, so entscheidet, wenn dieser dem Verlangen
 nicht entspricht, der Richter. Die Beschwerde ist erst gegen seine
 Entscheidung gegeben.
-
 
 ### § 30
 
@@ -566,7 +527,6 @@ Abschrift durch Ablichtung einen unverhältnismäßigen Arbeitsaufwand,
 insbesondere erhebliche oder zeitraubende Schreibarbeiten erfordern
 würde; andere Versagungsgründe bleiben unberührt.
 
-
 ### § 30a Ausdrucke
 
 (1) Ausdrucke aus dem Registerblatt (§ 9 Abs. 4 des
@@ -611,7 +571,6 @@ Signaturgesetz.
 
 (6) § 30 Abs. 3 gilt entsprechend.
 
-
 ### § 31
 
 Ausfertigungen der Bescheinigungen und Zeugnisse sind von dem
@@ -620,11 +579,9 @@ unterschreiben und mit dem Gerichtssiegel oder Stempel zu versehen.
 Bescheinigungen und Zeugnisse können auch in elektronischer Form (§
 126a des Bürgerlichen Gesetzbuchs) übermittelt werden.
 
-
 ### § 32
 
 Die Veröffentlichung der Eintragung ist unverzüglich zu veranlassen.
-
 
 ### § 33
 
@@ -638,7 +595,6 @@ zu bezeichnen, einer Unterschrift bedarf es nicht.
 abzufassen. Der Tag der Bekanntmachung ist durch die bekannt machende
 Stelle beizufügen.
 
-
 ### § 34
 
 In den Bekanntmachungen sind, falls entsprechende Mitteilungen
@@ -648,7 +604,6 @@ inländische Geschäftsanschrift eingetragen, so ist diese anstelle der
 Lage der Geschäftsräume anzugeben. Es ist in den Bekanntmachungen
 darauf hinzuweisen, daß die in Satz 1 genannten Angaben ohne Gewähr
 für die Richtigkeit erfolgen.
-
 
 ### § 34a Veröffentlichungen im Amtsblatt der Europäischen Union
 
@@ -661,7 +616,6 @@ Nr. L 199 S. 1) sowie der Verordnung (EG) Nr. 2157/2001 des Rates vom
 8\. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE)
 (ABl. EG Nr. L 294 S. 1) bleiben unberührt.
 
-
 ### § 35
 
 Wird eine Firma im Handelsregister gelöscht, weil das Unternehmen nach
@@ -672,7 +626,6 @@ sich um einen Handwerker, der bereits in die Handwerksrolle
 eingetragen ist, so kann neben der Angabe des Grundes der Löschung in
 der Bekanntmachung auch auf diese Eintragung hingewiesen werden.
 
-
 ### § 36
 
 Der Urkundsbeamte der Geschäftsstelle unterschreibt die Mitteilungen.
@@ -680,7 +633,6 @@ In geeigneten Fällen ist darauf hinzuweisen, daß auf die Bekanntgabe
 verzichtet werden kann (§ 383 Abs. 1 Satz 1 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit).
-
 
 ### § 37 Mitteilungen an andere Stellen
 
@@ -708,7 +660,6 @@ gemachten Angaben sind ebenfalls mitzuteilen.
 Anordnung der Landesjustizverwaltung eine Benachrichtigung weiterer
 Stellen vorgesehen ist, bleiben diese Vorschriften unberührt.
 
-
 ### § 38
 
 Gehört ein Ort oder eine Gemeinde zu den Bezirken verschiedener
@@ -717,7 +668,6 @@ einer neuen Firma oder vor der Eintragung von Änderungen einer Firma
 bei den anderen beteiligten Registergerichten anzufragen, ob gegen die
 Eintragung im Hinblick auf § 30 des Handelsgesetzbuchs Bedenken
 bestehen.
-
 
 ### § 38a
 
@@ -739,20 +689,14 @@ freiwilligen Gerichtsbarkeit bleibt unberührt.
 sowie für Mitteilungen nach § 37 und Anfragen nach § 38 gelten die
 Absätze 1 und 2 entsprechend.
 
-
 ## IV. - Sondervorschriften für die Abteilungen A und B
-
-
 
 ### § 39
 
 Die Abteilungen A und B werden in getrennten Registern nach den
 beigegebenen Mustern geführt.
 
-
 ### Abteilung A -
-
-
 
 #### § 40 Inhalt der Eintragungen in Abteilung A
 
@@ -906,10 +850,6 @@ einzutragen:
     eingetragenen Rechtsträgers, so sind Art und Ort des Registers sowie
     die Registernummer dieses Rechtsträgers mit zu vermerken.
 
-
-
-
-
 #### § 41
 
 (1) Wird bei dem Eintritt eines persönlich haftenden Gesellschafters
@@ -924,7 +864,6 @@ Handelsgesetzbuchs abweichenden Vereinbarung.
 (2) Auf jedem Registerblatt ist auf das andere in Spalte "Bemerkungen"
 zu verweisen.
 
-
 #### § 42
 
 Wird zum Handelsregister angemeldet, daß das Handelsgeschäft eines
@@ -937,10 +876,7 @@ rot zu unterstreichen. Wird von dem Erwerber die Fortführung der Firma
 angemeldet, so ist bei der Eintragung in Abteilung B auf das bisherige
 Registerblatt in der Spalte "Bemerkungen" zu verweisen und umgekehrt.
 
-
 ### Abteilung B -
-
-
 
 #### § 43 Inhalt der Eintragungen in Abteilung B
 
@@ -1118,10 +1054,6 @@ einzutragen:
 
 8.  § 40 Nr. 7 gilt entsprechend.
 
-
-
-
-
 #### § 44
 
 Urteile, durch die ein in das Register eingetragener Beschluß der
@@ -1133,7 +1065,6 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit verfügte Löschung
 eines Beschlusses sind in einem Vermerk, der den Beschluß als nichtig
 bezeichnet, in diejenigen Spalten des Registerblatts einzutragen, in
 die der Beschluß eingetragen war.
-
 
 #### § 45
 
@@ -1149,7 +1080,6 @@ ausdrücklich hinzuweisen.
 Gesellschaft als nichtig bezeichnet. Gleiches gilt, wenn die
 Gesellschaft durch rechtskräftiges Urteil für nichtig erklärt ist.
 
-
 #### § 46
 
 Wird bei einer in Abteilung B eingetragenen Handelsgesellschaft die
@@ -1160,14 +1090,9 @@ ist, und wird von dem Erwerber die Fortführung der Firma angemeldet,
 so ist bei der Eintragung in der Spalte "Bemerkungen" auf das
 bisherige Registerblatt zu verweisen und umgekehrt.
 
-
 ## IVa. - Vorschriften für das elektronisch geführte Handelsregister
 
-
-
 ### 1. - Einrichtung des elektronisch geführten Handelsregisters
-
-
 
 #### § 47 Grundsatz
 
@@ -1208,7 +1133,6 @@ nur zulässig, wenn gewährleistet ist, dass die Daten dem
 uneingeschränkten Zugriff des zuständigen Gerichts unterliegen und der
 Eigentümer der Anlage keinen Zugang zu den Daten hat.
 
-
 #### § 48 Begriff des elektronisch geführten Handelsregisters
 
 Bei dem elektronisch geführten Handelsregister ist der in den dafür
@@ -1220,7 +1144,6 @@ werden, wenn dies dazu dient, die Erhaltung und die Abrufbarkeit der
 Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht
 verändert werden.
 
-
 #### § 49 Anforderungen an Anlagen und Programme, Sicherung der Anlagen, Programme und Daten
 
 (1) Hinsichtlich der Anforderungen an die für das elektronisch
@@ -1231,7 +1154,6 @@ Grundbuchverfügung entsprechend.
 (2) Das eingesetzte Datenverarbeitungssystem soll innerhalb eines
 jeden Landes einheitlich sein und mit den in den anderen Ländern
 eingesetzten Systemen verbunden werden können.
-
 
 #### § 50 Gestaltung des elektronisch geführten Handelsregisters
 
@@ -1252,10 +1174,7 @@ Genossenschaftsregister sowie das Unternehmensregister am 1. Januar
 Ausdrucken sichtbar gemacht werden können, wenn nicht die letzte
 Eintragung in das Registerblatt vor dem 1. Januar 1997 erfolgte.
 
-
 ### 2. - Anlegung des elektronisch geführten Registerblatts
-
-
 
 #### § 51 Anlegung des elektronisch geführten Registerblatts durch Umschreibung
 
@@ -1265,10 +1184,7 @@ Inkrafttreten des Gesetzes über elektronische Handelsregister und
 Genossenschaftsregister sowie das Unternehmensregister am 1. Januar
 2007 geltenden Fassung dieser Verordnung umgeschrieben werden.
 
-
 ### 3. - Automatisierter Abruf von Daten
-
-
 
 #### § 52 Umfang des automatisierten Datenabrufs
 
@@ -1276,7 +1192,6 @@ Umfang und Voraussetzungen des Abrufs im automatisierten Verfahren
 einschließlich des Rechts, von den abgerufenen Daten Abdrucke zu
 fertigen, bestimmen sich nach § 9 Abs. 1 des Handelsgesetzbuchs.
 Abdrucke stehen den Ausdrucken (§ 30a) nicht gleich.
-
 
 #### § 53 Protokollierung der Abrufe
 
@@ -1300,10 +1215,7 @@ Rückerstattung verlängert sich die Aufbewahrungsfrist jeweils um den
 Zeitraum von der Einlegung bis zur abschließenden Entscheidung über
 den Rechtsbehelf.
 
-
 ### 4. - Ersatzregister und Ersatzmaßnahmen
-
-
 
 #### § 54 Ersatzregister und Ersatzmaßnahmen
 
@@ -1334,21 +1246,17 @@ Handelsregister eingereicht werden können. Die aufgrund einer
 Anordnung nach Satz 1 eingereichten Schriftstücke sind unverzüglich in
 elektronische Dokumente zu übertragen.
 
-
 #### Schlußformel
 
 Der Reichsminister der Justiz
-
 
 #### Anlage 1 (weggefallen)
 
 -
 
-
 #### Anlage 2 (weggefallen)
 
 -
-
 
 #### Anlage 3 (zu § 33 Abs. 3) Muster für Bekanntmachungen
 
@@ -1375,7 +1283,6 @@ Rechtsgeschäfte abzuschließen. Gesellschaftsvertrag vom 13. 01. 2009
 mit Änderung vom 17.01.2009.
 
 Bekannt gemacht am: 30.06.2009.
-
 
 #### Anlage 4 (zu § 50 Abs. 1)
 
@@ -1433,7 +1340,6 @@ I              I                I         I                I
 
 Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim
 Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
-
 
 #### Anlage 5 (zu § 50 Abs. 1)
 
@@ -1494,7 +1400,6 @@ I              I       I               I      I                I
 -----
 Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim
 Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
-
 
 #### Anlage 6 (zu § 50 Abs. 1)
 
@@ -1593,7 +1498,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten
 auf dem Bildschirm stets sichtbar sein.
 
-
 #### Anlage 7 (zu § 50 Abs. 1)
 
 (Fundstelle: BGBl. I 2001, 3694;
@@ -1680,7 +1584,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 -----
 Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten
 auf dem Bildschirm stets sichtbar sein.
-
 
 #### Anlage 8 (weggefallen)
 

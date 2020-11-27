@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Nr. 1 Bek. v. 15.7.2002 I 3012
 
-
 ## 1.
 
 Der Deutsche Bundestag genehmigt bis zum Ablauf dieser Wahlperiode die
@@ -41,7 +40,6 @@ allgemeine Feiertage und Sonnabende nicht mitgerechnet. Der Präsident
 des Deutschen Bundestages kann im Einvernehmen mit dem Vorsitzenden
 des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung die
 Frist angemessen verlängern.
-
 
 ## 2.
 
@@ -64,10 +62,6 @@ d)  die Fortsetzung eines Ermittlungsverfahrens, zu dem der Bundestag in
     der vorausgegangenen Wahlperiode die Aussetzung der Ermittlungen gemäß
     Artikel 46 Abs. 4 des Grundgesetzes verlangt hat.
 
-
-
-
-
 ## 3.
 
 Zur Vereinfachung des Geschäftsganges wird der Ausschuß für
@@ -87,7 +81,6 @@ vorhergehende Bundestag die Durchführung dieses Strafverfahrens
 bereits genehmigt hat, kann im Wege der Vorentscheidung verfahren
 werden.
 
-
 ## 4.
 
 Die Vollstreckung einer Freiheitsstrafe oder einer Erzwingungshaft (§§
@@ -98,7 +91,6 @@ die Genehmigung der Vollstreckung zu treffen, bei Freiheitsstrafen
 nur, soweit nicht auf eine höhere Freiheitsstrafe als drei Monate
 erkannt ist oder bei einer Gesamtstrafenbildung (§§ 53 bis 55 StGB, §
 460 StPO) keine der erkannten Einzelstrafen drei Monate übersteigt.
-
 
 ## 5.
 
@@ -112,14 +104,12 @@ sind; das Mitglied des Bundestages benennt der Präsident im Benehmen
 mit dem Vorsitzenden der Fraktion des Mitgliedes des Bundestages,
 gegen das der Vollzug von Zwangsmaßnahmen genehmigt ist.
 
-
 ## 6.
 
 Der Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung kann im
 Wege der Vorentscheidung das Verlangen des Bundestages auf Aussetzung
 eines Verfahrens gemäß Artikel 46 Abs. 4 des Grundgesetzes
 herbeiführen.
-
 
 ## 7.
 

@@ -16,21 +16,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 319
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 24a Abs. 4 und des § 53c Nr. 1 des Gesetzes über das
 Kreditwesen in der Fassung der Bekanntmachung vom 22. Januar 1996
 (BGBl. I S. 64) verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1
 
 § 24a Abs. 1 bis 3 des Gesetzes über das Kreditwesen gilt entsprechend
 für die Errichtung einer Zweigstelle in der Republik Island oder im
 Königreich Norwegen.
-
 
 ## § 2
 
@@ -39,7 +35,6 @@ mit Sitz in einem anderen Mitgliedstaat der Europäischen Gemeinschaft
 sind auf Unternehmen mit Sitz in der Republik Island oder im
 Königreich Norwegen nach Maßgabe des § 53b des Gesetzes über das
 Kreditwesen anzuwenden.
-
 
 ## § 3
 

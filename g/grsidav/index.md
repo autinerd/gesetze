@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.2.2012 I 309
 
-
 ## § 1 Verfahren bei der Bundesagentur für Arbeit
 
 (1) Die Bundesagentur für Arbeit bezieht in den Datenabgleich alle
@@ -48,14 +47,12 @@ abweichen.
 
 (4) (weggefallen)
 
-
 ## § 1a Verfahren bei den zugelassenen kommunalen Trägern
 
 Die zugelassenen kommunalen Träger beziehen in den Datenabgleich alle
 Personen ein, die im Abgleichszeitraum von ihnen Leistungen der
 Grundsicherung für Arbeitsuchende erhalten haben. § 1 Abs. 1 Satz 2
 und Abs. 2 gelten entsprechend.
-
 
 ## § 1b Verfahren bei der Kopfstelle
 
@@ -85,7 +82,6 @@ möglich ist.
 zugelassenen kommunalen Trägern zu von ihnen übermittelten
 Anfragedatensätzen die Antwortdatensätze bis zum Ende des zweiten
 Monats, der auf den Abgleichszeitraum folgt.
-
 
 ## § 2 Verfahren bei den Auskunftsstellen und der Datenstelle der Träger der Rentenversicherung
 
@@ -143,7 +139,6 @@ Feststellung der Dauer des Bezugs und der monatlichen Höhe von
 laufenden Leistungen und von Einmalzahlungen der Bundesagentur für
 Arbeit als Träger der Arbeitsförderung im Abgleichszeitraum.
 
-
 ## § 3 Anforderungen an die Datenübermittlung
 
 (1) Das für die Datenübermittlung verwendete Übermittlungsmedium und
@@ -181,7 +176,6 @@ unverzüglich mitzuteilen. Satz 1 gilt entsprechend
 Rentenversicherung und die Kopfstelle haben die ihnen übermittelten
 Daten unverzüglich nach Abschluss des Abgleichs zu löschen.
 
-
 ## § 4 Einzelheiten des Datenabgleichverfahrens
 
 Die Einzelheiten des Datenabgleichverfahrens, insbesondere des Aufbaus
@@ -191,7 +185,6 @@ Kopfstelle hat die Bundesagentur für Arbeit, die zugelassenen
 kommunalen Träger und die Auskunftsstellen an der Erarbeitung der
 Verfahrensgrundsätze mit dem Ziel zu beteiligen, einvernehmliche
 Festlegungen zu erreichen.
-
 
 ## § 5 Kosten der Kopfstelle
 

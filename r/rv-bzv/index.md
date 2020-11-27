@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 23.7.1996 I 1078
 
-
 ## Eingangsformel
 
 Auf Grund des § 178 Abs. 2 des Sechsten Buches Sozialgesetzbuch
@@ -26,7 +25,6 @@ Auf Grund des § 178 Abs. 2 des Sechsten Buches Sozialgesetzbuch
 durch Artikel 1 Nr. 31 Buchstabe b des Renten-Überleitungsgesetzes vom
 25\. Juli 1991 (BGBl. I S. 1606) geändert worden ist, verordnet der
 Bundesminister für Arbeit und Sozialordnung:
-
 
 ## § 1 Geltungsbereich
 
@@ -52,10 +50,6 @@ gilt nicht für die Zahlung von Beiträgen
 
 4.  für Künstler und Publizisten.
 
-
-
-
-
 ## § 2 Zahlungsweise, Zahlungsmittel
 
 Beitragszahlungen sind unmittelbar an den zuständigen Träger der
@@ -76,7 +70,6 @@ Rentenversicherung zu leisten. Die Betragszahlungen können durch
 
 erfolgen.
 
-
 ## § 3 Abbuchungsverfahren
 
 Die Träger der Rentenversicherung sollen die Beiträge vom Konto der
@@ -92,7 +85,6 @@ Abbuchungsverfahrens unverzüglich unter Angabe der letzten wirksamen
 Beitragszahlung mitzuteilen. Die Versicherten können ihre Zustimmung
 zum Abbuchungsverfahren jederzeit widerrufen.
 
-
 ## § 4 Überweisung oder Einzahlung
 
 Versicherte, die nicht am Abbuchungsverfahren teilnehmen, können die
@@ -106,7 +98,6 @@ Rentenversicherung, Felder für die Angabe des Namens des Versicherten,
 seine Versicherungsnummer, den Verwendungszeitraum und die Beitragsart
 (Pflichtbeitrag, freiwilliger Beitrag oder Höherversicherungsbeitrag)
 zu enthalten.
-
 
 ## § 5 Verfahren
 
@@ -144,7 +135,6 @@ zuständigen Rentenversicherungsträger erklärt, die jeweilige
 Beitragszahlung sei immer für einen gleichbleibenden Zeitabschnitt zu
 verwenden, ist die Angabe des Verwendungszeitraums nicht erforderlich.
 
-
 ## § 6 Tag der Zahlung
 
 Als Tag der Beitragszahlung gilt:
@@ -174,7 +164,6 @@ Wertstellung nicht erfolgt ist. Werden Beiträge im voraus gezahlt,
 gilt als Tag der Zahlung frühestens der erste Tag des Monats, für den
 der einzelne Beitrag verwendet werden soll.
 
-
 ## § 7 Reihenfolge der Tilgung
 
 Schuldet der Versicherte Auslagen des Trägers der Rentenversicherung,
@@ -184,7 +173,6 @@ Trifft der Versicherte keine Bestimmung, wird die Schuld in der in
 Satz 1 genannten Reihenfolge getilgt. Innerhalb der gleichen
 Schuldenart wird die einzelne Schuld nach ihrer Fälligkeit, bei
 gleichzeitiger Fälligkeit anteilmäßig getilgt.
-
 
 ## § 8 Verwendungszeitraum
 
@@ -197,7 +185,6 @@ freiwilliger Beitrag gezahlt werden.
 buchen oder zurückzuzahlen. Auf Verlangen des Versicherten sind nicht
 verwendbare Beträge zurückzuzahlen. Gutschriften sind den Versicherten
 unverzüglich schriftlich mitzuteilen.
-
 
 ## § 9 Beitragsbescheinigung
 
@@ -236,7 +223,6 @@ werden, ist frühestens eine Beitragsbescheinigung auszustellen, wenn
 für ihren Verwendungszeitraum die beitragspflichtigen Einnahmen
 bescheinigt worden sind.
 
-
 ## § 10 Übergangs- und Schlußvorschriften
 
 Für ausgegebene Beitragsmarken der Träger der Rentenversicherung gilt
@@ -244,13 +230,11 @@ Für ausgegebene Beitragsmarken der Träger der Rentenversicherung gilt
 1976 (BGBl. I S. 1667, 3616), die zuletzt durch die Verordnung vom 16.
 Juli 1986 (BGBl. I S. 1060) geändert worden ist, weiter.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 Gleichzeitig tritt vorbehaltlich des § 10 die RV-
 Beitragsentrichtungsverordnung außer Kraft.
-
 
 ## Schlußformel
 

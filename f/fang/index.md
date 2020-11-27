@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 20.4.2007 I 554
 
-
 ## Inhaltsverzeichnis
 
 
@@ -130,22 +129,13 @@ Zuletzt geändert durch
 
     *   127
 
-
-
-
-
 ## Art 1 bis 5
 
 -
 
-
 ## Art 6 - Übergangsvorschriften
 
-
-
 ### I. - Gesetzliche Unfallversicherung
-
-
 
 ### § 1
 
@@ -159,7 +149,6 @@ bezweckte, werden ebenfalls keine Leistungen gewährt.
 Nationalsozialistischen Deutschen Arbeiterpartei für die Entschädigung
 von Arbeitsunfällen zuständig war, werden die Leistungen von der
 Bundesausführungsbehörde für Unfallversicherung gewährt.
-
 
 ### § 2
 
@@ -263,7 +252,6 @@ festzusetzen und auf diese der Absatz 3 entsprechend anzuwenden.
 Mai 1996 geltenden Fassung finden weiter Anwendung auf solche
 Berechtigte, deren Rente vor dem 7. Mai 1996 beginnt.
 
-
 ### § 3
 
 §§ 1 bis 13 des Fremdrentengesetzes finden auf Arbeitsunfälle und
@@ -271,10 +259,7 @@ Berufskrankheiten der in § 5 des Fremdrentengesetzes genannten Art
 auch dann Anwendung, wenn auf diese Fälle das Fremdrenten- und
 Auslandsrentengesetz nicht angewendet worden ist.
 
-
 ### II. - Gesetzliche Rentenversicherungen
-
-
 
 ### § 4
 
@@ -380,18 +365,15 @@ nach dem Fremdrentengesetz bei den ermittelten Entgeltpunkten (Ost).
 
 (7) (weggefallen)
 
-
 ### § 4a
 
 § 22a des Fremdrentengesetzes gilt nicht für Personen nach § 4 Abs. 5.
-
 
 ### § 4b
 
 § 22b des Fremdrentengesetzes ist nicht für Berechtigte anzuwenden,
 die vor dem 7. Mai 1996 ihren gewöhnlichen Aufenthalt in der
 Bundesrepublik Deutschland genommen haben.
-
 
 ### § 4c
 
@@ -433,7 +415,6 @@ gezahlt. Für die Zeit des Rentenbezuges ab 1. Juli 2000 wird der
 Zuschlag nicht gezahlt. § 88 des Sechsten Buches Sozialgesetzbuch
 findet keine Anwendung. § 44 Abs. 4 des Zehnten Buches
 Sozialgesetzbuch findet Anwendung.
-
 
 ### § 5
 
@@ -490,7 +471,6 @@ eines Kalenderjahres angerechnet, werden bei Anwendung der Tabellen
 der Anlagen 5, 7, 9, 11, 13 und 15 des Fremdrentengesetzes die
 Bruttojahresarbeitsentgelte nur anteilmäßig berücksichtigt.
 
-
 ### § 6
 
 Personen, die am 1. Juli 1990 eine Rente aus der deutschen
@@ -501,23 +481,15 @@ auf Antrag; im Einzelfall kann sie auch von Amts wegen erfolgen.
 Ergibt die Neufeststellung einen niedrigeren Zahlbetrag, ist als Rente
 mindestens der bisherige Zahlbetrag zu leisten.
 
-
 ### § 7
 
 (weggefallen)
 
-
 ### (XXXX) §§ 8 bis 17 (weggefallen)
-
-
 
 ### III. - Anpassung der Berliner Rentenversicherung
 
-
-
 ### IV. - Nachversicherung
-
-
 
 ### § 18
 
@@ -589,7 +561,6 @@ Personen, die einen Anspruch auf eine nach den Vorschriften des
 Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder
 aufgrund der Nachversicherung erwerben würden.
 
-
 ### § 19
 
 Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes und
@@ -613,11 +584,9 @@ Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der
 Nachversicherung erwerben würden. § 18 Abs. 2 und 4 bis 6 gilt
 entsprechend.
 
-
 ### § 20
 
 -
-
 
 ### § 21
 
@@ -641,7 +610,6 @@ Sätze 1 und 2 gelten vom 1. Januar 1992 an nur noch für Personen, die
 einen Anspruch auf eine nach den Vorschriften des Sechsten Buches
 Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der
 Nachversicherung erwerben würden.
-
 
 ### § 22
 
@@ -715,7 +683,6 @@ Personen, die einen Anspruch auf eine nach den Vorschriften des
 Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder
 aufgrund der Nachversicherung erwerben würden.
 
-
 ### § 23
 
 (1) Die in § 1 Buchstabe d des Fremdrentengesetzes genannten Personen,
@@ -775,19 +742,13 @@ Personen, die einen Anspruch auf eine nach den Vorschriften des
 Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder
 aufgrund der Nachversicherung erwerben würden.
 
-
 ### V. - Wirksamwerden der Verbesserungen
-
-
 
 ### § 24
 
 -
 
-
 ## Art 7 - Schlußvorschriften
-
-
 
 ## § 1
 
@@ -796,11 +757,9 @@ vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
 ## § 2
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ## § 3
 

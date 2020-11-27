@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2000, 790
 
-
-
 ## Art 1
 
 Dem in London am 25. April 1997 von der Bundesrepublik Deutschland
@@ -25,7 +23,6 @@ unterzeichneten Protokoll von 1996 zur Änderung des Übereinkommens von
 1976 über die Beschränkung der Haftung für Seeforderungen (BGBl. 1986
 II S. 786) wird zugestimmt. Das Protokoll wird nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -35,7 +32,6 @@ Rechtsverordnung die gemäß Artikel 8 des Protokolls von 1996 zur
 für Seeforderungen beschlossenen Änderungen der Haftungshöchstbeträge
 in Kraft zu setzen.
 
-
 ## Art 3
 
 Das Bundesministerium der Justiz kann den Wortlaut des Übereinkommens
@@ -43,7 +39,6 @@ von 1976 über die Beschränkung der Haftung für Seeforderungen in der
 durch das Protokoll von 1996 zur Änderung dieses Übereinkommens
 geänderten Fassung mit einer amtlichen deutschen Übersetzung im
 Bundesgesetzblatt bekannt machen.
-
 
 ## Art 4
 

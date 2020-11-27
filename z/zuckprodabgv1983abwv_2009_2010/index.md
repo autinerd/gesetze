@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 266
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Absatz 2 Satz 1 des Marktorganisationsgesetzes in
@@ -27,14 +26,12 @@ Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
 dem Bundesministerium der Finanzen und dem Bundesministerium für
 Wirtschaft und Technologie:
 
-
 ## § 1
 
 Abweichend von § 6 Absatz 1 Satz 1 der Zucker-Produktionsabgaben-
 Verordnung in der Fassung der Bekanntmachung vom 9. November 2006
 (BGBl. I S. 2596) ist die dort genannte Übertragung für das
 Wirtschaftsjahr 2009/2010 bis zum 15. April 2010 anzuzeigen.
-
 
 ## § 2
 

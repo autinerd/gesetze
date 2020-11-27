@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.8.1994 I 2133
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 bis 3 des Tierzuchtgesetzes vom 22.
 Dezember 1989 (BGBl. I S. 2493) verordnet der Bundesminister für
 Ernährung, Landwirtschaft und Forsten:
-
 
 ## § 1
 
@@ -46,7 +44,6 @@ zusammengefaßt, so werden sie nach ihrer sich aus dem Zuchtprogramm
 ergebenden Bedeutung gewichtet; dabei wird der Index auf einen
 Mittelwert von 100 und eine Standardabweichung von 20 standardisiert.
 
-
 ## § 2
 
 (1) Abweichend von § 1 werden für Zuchtschweine, die in einem
@@ -62,16 +59,13 @@ Jahren wiederholt werden. Die zuständige Behörde kann diese Frist
 verlängern, soweit der Zweck des Tierzuchtgesetzes dadurch nicht
 beeinträchtigt wird.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Grundsätze für die Durchführung von Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
 
@@ -146,13 +140,6 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1131
     5   Das Prüfungsverfahren und die in der Prüfung erhobenen
         Leistungsmerkmale richten sich nach allgemein anerkannten und
         wissenschaftlich gesicherten Methoden.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 1) Grundsätze für die Durchführung und Auswertung von Stichprobentests bei Kreuzungsherkünften
 

@@ -20,24 +20,20 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 21.6.2002 I 2167
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 1a
 
 Einen gewöhnlichen Aufenthalt im Sinne des Artikels 1 Nr. 2 des
 Abkommens hat im Geltungsbereich des Gesetzes nur, wer sich dort
 unbefristet rechtmäßig aufhält.
-
 
 ## Art 2
 
@@ -65,7 +61,6 @@ Kindererziehung sind beide Zeiten zu berücksichtigen. Überschneiden
 sich zwei Zeiten der Kindererziehung, ist nur die Zeit nach Absatz 1
 anzurechnen.
 
-
 ## Art 3
 
 (1) Das Fremdrenten- und Auslandsrenten-Neuregelungsgesetz findet auf
@@ -86,7 +81,6 @@ Einigungsvertrages genannten Gebiet wohnte.
 Träger der gesetzlichen Unfallversicherung versichert war, gelten als
 Arbeitsunfälle, wenn sie bei Eintritt im Geltungsbereich dieses
 Gesetzes als Arbeitsunfälle zu entschädigen gewesen wären.
-
 
 ## Art 4
 
@@ -119,7 +113,6 @@ Berufskrankheiten, deren Entschädigung ein polnischer
 Versicherungsträger übernommen hat oder bei Erreichung eines
 entschädigungspflichtigen Grades der Erwerbsminderung zu übernehmen
 hätte.
-
 
 ## Art 5
 
@@ -157,7 +150,6 @@ und dritten Rate an das Bundesversicherungsamt.
 erfolgt durch das Bundesversicherungsamt im Einvernehmen mit dem
 Bundesminister für Arbeit und Sozialordnung.
 
-
 ## Art 6
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -172,7 +164,6 @@ beim Zusammentreffen von deutschen und polnischen Leistungen zur
 Vermeidung doppelter Leistungen zu verfahren ist. Darüber hinaus
 können Zahlstellen, Zahlwege und Zahlungsart vorgeschrieben werden.
 
-
 ## Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -180,7 +171,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 8
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 980
 
-
-
 ## § 1 Anwendungsbereich
 
 (1) Mauer- und Grenzgrundstücke sind Grundstücke, die in den in § 8
@@ -41,7 +39,6 @@ Gesetz ausgesetzt.
 
 (4) § 349 des Lastenausgleichsgesetzes findet keine Anwendung.
 
-
 ## § 2 Erwerb
 
 (1) Ehemalige Eigentümer oder deren Rechtsnachfolger (Berechtigte)
@@ -62,7 +59,6 @@ abgesetzt werden.
 (3) Der Erwerb nach Absatz 1 ist von der Grunderwerbsteuer befreit. Er
 ist nicht als Anschaffung im Sinne des § 23 des
 Einkommensteuergesetzes zu behandeln.
-
 
 ## § 3 Verwendung im öffentlichen Interesse
 
@@ -95,13 +91,11 @@ Berechtigten aus § 2 Abs. 1 auf dieses Grundstück.
 (3) Die Ausgaben nach den Absätzen 1 und 2 sind aus den Einnahmen aus
 der Veräußerung von Mauer- und Grenzgrundstücken zu leisten.
 
-
 ## § 4 Antragsfrist
 
 Anträge auf Rückerwerb müssen bis zum Ablauf des 31. Januar 1997 bei
 der Oberfinanzdirektion gestellt werden, in deren Bezirk der
 Vermögenswert belegen ist.
-
 
 ## § 5 Fonds
 
@@ -117,14 +111,12 @@ bedarf der Einwilligung des Haushaltsausschusses des Deutschen
 Bundestages. Dabei ist zu gewährleisten, daß die Mittel des Fonds
 nicht zur Erfüllung von rechtlichen Verpflichtungen eingesetzt werden.
 
-
 ## § 6 Rechtsverordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des
 Fonds, seiner Verwaltung sowie der Zahlungsmodalitäten nach § 3 zu
 regeln.
-
 
 ## § 7 Rechtsweg
 

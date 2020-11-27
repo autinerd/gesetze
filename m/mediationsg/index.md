@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1577
 
-
 ## § 1 Begriffsbestimmungen
 
 (1) Mediation ist ein vertrauliches und strukturiertes Verfahren, bei
@@ -25,7 +24,6 @@ anstreben.
 
 (2) Ein Mediator ist eine unabhängige und neutrale Person ohne
 Entscheidungsbefugnis, die die Parteien durch die Mediation führt.
-
 
 ## § 2 Verfahren; Aufgaben des Mediators
 
@@ -57,7 +55,6 @@ Vereinbarung bei Bedarf durch externe Berater überprüfen zu lassen.
 Mit Zustimmung der Parteien kann die erzielte Einigung in einer
 Abschlussvereinbarung dokumentiert werden.
 
-
 ## § 3 Offenbarungspflichten; Tätigkeitsbeschränkungen
 
 (1) Der Mediator hat den Parteien alle Umstände offenzulegen, die
@@ -86,7 +83,6 @@ entgegenstehen.
 über seinen fachlichen Hintergrund, seine Ausbildung und seine
 Erfahrung auf dem Gebiet der Mediation zu informieren.
 
-
 ## § 4 Verschwiegenheitspflicht
 
 Der Mediator und die in die Durchführung des Mediationsverfahrens
@@ -114,7 +110,6 @@ Verschwiegenheitspflicht gilt sie nicht, soweit
 
 Der Mediator hat die Parteien über den Umfang seiner
 Verschwiegenheitspflicht zu informieren.
-
 
 ## § 5 Aus- und Fortbildung des Mediators; zertifizierter Mediator
 
@@ -149,7 +144,6 @@ Rechtsverordnung nach § 6 entspricht.
 
 (3) Der zertifizierte Mediator hat sich entsprechend den Anforderungen
 der Rechtsverordnung nach § 6 fortzubilden.
-
 
 ## § 6 Verordnungsermächtigung
 
@@ -190,10 +184,6 @@ nach Satz 1 können insbesondere festgelegt werden:
 8.  Übergangsbestimmungen für Personen, die bereits vor Inkrafttreten
     dieses Gesetzes als Mediatoren tätig sind.
 
-
-
-
-
 ## § 7 Wissenschaftliche Forschungsvorhaben; finanzielle Förderung der Mediation
 
 (1) Bund und Länder können wissenschaftliche Forschungsvorhaben
@@ -215,7 +205,6 @@ Bund und Ländern.
 Abschluss der wissenschaftlichen Forschungsvorhaben über die
 gesammelten Erfahrungen und die gewonnenen Erkenntnisse.
 
-
 ## § 8 Evaluierung
 
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 26.
@@ -229,7 +218,6 @@ Gebiet der Aus- und Fortbildung von Mediatoren notwendig sind.
 
 (2) Sofern sich aus dem Bericht die Notwendigkeit gesetzgeberischer
 Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
-
 
 ## § 9 Übergangsbestimmung
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 479
 
-
-
 ## § 1 Gegenstand des Gesetzes
 
 (1) Gegenstand dieses Gesetzes ist der Schutz des olympischen Emblems
@@ -31,14 +29,12 @@ Ringen nach dem Muster der Anlage 1 (Olympische Ringe).
 Zusammensetzung sowie die entsprechenden Wörter oder Wortgruppen in
 einer anderen Sprache.
 
-
 ## § 2 Inhaber des Schutzrechts
 
 Das ausschließliche Recht auf die Verwendung und Verwertung des
 olympischen Emblems und der olympischen Bezeichnungen steht dem
 Nationalen Olympischen Komitee für Deutschland und dem Internationalen
 Olympischen Komitee zu.
-
 
 ## § 3 Rechtsverletzungen
 
@@ -96,7 +92,6 @@ genannten ähnlich sind.
 hierfür, wenn das Werk sich mit den Olympischen Spielen oder der
 Olympischen Bewegung im weitesten Sinne befasst.
 
-
 ## § 4 Benutzung von Namen und beschreibenden Angaben
 
 Die Inhaber des Schutzrechts haben nicht das Recht, einem Dritten zu
@@ -113,7 +108,6 @@ untersagen, im geschäftlichen Verkehr
 
 sofern die Benutzung nicht unlauter ist.
 
-
 ## § 5 Unterlassungsanspruch; Schadensersatzanspruch
 
 (1) Wer das olympische Emblem oder die olympischen Bezeichnungen
@@ -126,7 +120,6 @@ ist dem Nationalen Olympischen Komitee für Deutschland und dem
 Internationalen Olympischen Komitee zum Ersatz des diesen durch die
 Verletzungshandlung entstandenen Schadens verpflichtet.
 
-
 ## § 6 Vernichtungsanspruch
 
 Das Nationale Olympische Komitee für Deutschland und das
@@ -138,13 +131,11 @@ Gegenstände auf andere Weise beseitigt werden kann und die Vernichtung
 für den Verletzer oder den Eigentümer im Einzelfall unverhältnismäßig
 ist. Weitergehende Ansprüche auf Beseitigung bleiben unberührt.
 
-
 ## § 7 Verjährung
 
 Auf die Verjährung der in den §§ 5 und 6 genannten Ansprüche finden
 die Vorschriften des Abschnitts 5 des Ersten Buches Bürgerliches
 Gesetzbuch entsprechende Anwendung.
-
 
 ## § 8 Fortgeltung bestehender Rechte
 
@@ -153,7 +144,6 @@ vertraglicher Vereinbarungen auf dem Gebiet des Vereins-, Marken-,
 Geschmacksmuster- und Handelsrechts oder auf Grund sonstiger
 vertraglicher Vereinbarungen mit den Rechtsinhabern am 13. August 2003
 bereits bestehen, bleiben unberührt.
-
 
 ## § 9 Sachliche Zuständigkeit
 
@@ -167,13 +157,11 @@ dies der sachlichen Förderung oder der schnelleren Erledigung der
 Verfahren dient. Die Landesregierungen können diese Ermächtigung auf
 die Landesjustizverwaltungen übertragen.
 
-
 ## § 10 Inkrafttreten
 
 § 9 Abs. 2 tritt am Tag nach der Verkündung in Kraft; im Übrigen tritt
 dieses Gesetz am ersten Tag des dritten auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Anlage 1
 

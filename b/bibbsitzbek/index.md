@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1952
 
-
-
 ## (XXXX)
 
 Das Bundesministerium für Bildung und Forschung gibt gemäß § 9 Nr. 3

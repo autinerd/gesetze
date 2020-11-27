@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1363
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
@@ -27,7 +26,6 @@ Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
@@ -39,11 +37,9 @@ Zeugnissen über das Bestehen der Prüfung zur
 Sozialversicherungsfachwirtin oder zum Sozialversicherungsfachwirt –
 Fachrichtung knappschaftliche Sozialversicherung gleichgestellt.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

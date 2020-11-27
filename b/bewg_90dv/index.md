@@ -18,20 +18,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 Nr. 3 G v. 19.12.2000 I 1790
 
-
 ## Eingangsformel
 
 Auf Grund des § 90 Abs. 2 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 In den Fällen, in denen die Einheitswerte der bebauten Grundstücke im
 Sachwertverfahren zu ermitteln und die Wertverhältnisse vom 1. Januar
 1964 zugrunde zu legen sind, ist nach den §§ 2 bis 4 zu verfahren.
-
 
 ## § 2
 
@@ -432,7 +429,6 @@ oder Teile des Gebäudewerts auszugehen. Die errechnete Zahl ist auf
 die durch die Zahl 5 teilbare Zahl abzurunden, die ihr am nächsten
 kommt. Dies gilt nicht für Teile eines Fabrikgrundstücks.
 
-
 ## § 3
 
 Für Fabrikgrundstücke, bei denen der gesamte Betrieb stilliegt, gilt
@@ -449,10 +445,6 @@ folgendes:
 
 3.  Steht fest, daß ein Fabrikbetrieb spätestens nach zwei Jahren wieder
     aufgenommen wird, so bestimmt sich die Wertzahl nach § 2.
-
-
-
-
 
 ## § 4
 
@@ -526,12 +518,10 @@ anzusehen
 (2) Durch die Ermäßigung nach Absatz 1 darf sich keine geringere
 Wertzahl als 50 vom Hundert ergeben.
 
-
 ## § 5
 
 Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten
 nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
-
 
 ## § 6
 

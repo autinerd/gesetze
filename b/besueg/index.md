@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4, 5 u. 6 G v. 15.8.2012 I 1670
 
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz gilt für die
@@ -37,7 +36,6 @@ Dieses Gesetz gilt für die
 soweit sie am 1. Juli 2009 und am Vortag den Besoldungsgruppen der
 Bundesbesoldungsordnung A oder den Besoldungsgruppen R 1 oder R 2
 angehören.
-
 
 ## § 2 Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A
 
@@ -168,7 +166,6 @@ Bundesbesoldungsgesetzes werden die Betroffenen so gestellt, als ob
 ein Fall des § 27 Absatz 5 Satz 1 des Bundesbesoldungsgesetzes in der
 bis zum 30. Juni 2009 geltenden Fassung nicht vorgelegen hätte.
 
-
 ## § 3 Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen der Bundesbesoldungsordnung A
 
 (1) Mit der Zuordnung zu einer Stufe des Grundgehaltes der Anlage 1 in
@@ -243,7 +240,6 @@ zu dem das Endgrundgehalt nach § 27 Absatz 2 des
 Bundesbesoldungsgesetzes in der am 30. Juni 2009 geltenden Fassung
 erreicht worden wäre.
 
-
 ## § 4 Zuordnung zu den Stufen und Überleitungsstufen des Grundgehaltes in den Besoldungsgruppen R 1 und R 2
 
 Empfängerinnen und Empfänger von Dienstbezügen nach der
@@ -256,7 +252,6 @@ Zuordnung zu einer Überleitungsstufe bleibt auch in den Fällen der
 Verleihung eines Amtes der Besoldungsgruppe R 2 bestehen. Mit dem
 Wirksamwerden der Ernennung ist die der Stufe zugewiesene
 Überleitungsstufe der Besoldungsgruppe R 2 maßgebend.
-
 
 ## § 5 Aufstieg in eine Stufe des Grundgehaltes in den Besoldungsgruppen R 1 und R 2
 
@@ -298,7 +293,6 @@ die Zeiten des Verweilens in der Überleitungsstufe verkürzt.
 sich der Aufstieg um Zeiten ohne Anspruch auf Dienstbezüge. § 3 Abs. 4
 Satz 2 gilt entsprechend.
 
-
 ## § 6 Regelungen für Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte in den Besoldungsgruppen der
@@ -316,7 +310,6 @@ gezahlt.
 
 (3) Das Bundesministerium des Innern macht die sich nach Absatz 2
 jeweils ergebenden Beträge im Bundesgesetzblatt bekannt.
-
 
 ## Anlage 1
 
@@ -862,7 +855,6 @@ Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für
 Beamte des mittleren Dienstes sowie für Unteroffiziere um 19,44 Euro;
 es erhöht sich in den Besoldungsgruppen A 9 und A 10 für Beamte des
 gehobenen Dienstes sowie für Offiziere um 8,48 Euro.
-
 
 ## Anlage 2
 

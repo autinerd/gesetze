@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 9. 2.2006 I 324
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der
 Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880) verordnet
 die Bundesregierung nach Anhörung der beteiligten Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -41,7 +39,6 @@ bestimmt sind.
 in einem engen räumlichen und betrieblichen Zusammenhang stehen. Zur
 Nutzungsdauer der Sportanlage gehören auch die Zeiten des An- und
 Abfahrverkehrs sowie des Zu- und Abgangs.
-
 
 ## § 2 Immissionsrichtwerte
 
@@ -274,7 +271,6 @@ vorgesehenen baulichen Entwicklung des Gebietes auszugehen.
 Geräuschimmissionen sind nach dem Anhang zu dieser Verordnung zu
 ermitteln und zu beurteilen.
 
-
 ## § 3 Maßnahmen
 
 Zur Erfüllung der Pflichten nach § 2 Abs. 1 hat der Betreiber
@@ -300,16 +296,11 @@ insbesondere
     Umwelteinwirkungen durch Geräusche auf ein Mindestmaß beschränkt
     werden.
 
-
-
-
-
 ## § 4 Weitergehende Vorschriften
 
 Weitergehende Vorschriften, vor allem zum Schutz der Sonn- und
 Feiertags-, Mittags- und Nachtruhe oder zum Schutz besonders
 empfindlicher Gebiete, bleiben unberührt.
-
 
 ## § 5 Nebenbestimmungen und Anordnungen im Einzelfall
 
@@ -398,7 +389,6 @@ baurechtlich genehmigt oder - soweit eine Baugenehmigung nicht
 erforderlich war - errichtet waren, für die Durchführung angeordneter
 Maßnahmen nach § 3 Nr. 1 und 2 eine angemessene Frist gewähren.
 
-
 ## § 6 Zulassung von Ausnahmen
 
 Die zuständige Behörde kann für internationale oder nationale
@@ -411,7 +401,6 @@ Sportanlage durch das der Anlage zuzurechnende Verkehrsaufkommen nach
 Nummer 1.1 Satz 2 des Anhangs einschließlich der durch den Zu- und
 Abgang der Zuschauer verursachten Geräusche.
 
-
 ## § 7 Zugänglichkeit der Norm- und Richtlinienblätter
 
 Die in den Nummern 2.1, 2.3, 3.1 und 3.2 des Anhangs genannten DIN-
@@ -419,16 +408,13 @@ Normblätter und VDI-Richtlinien sind bei der Beuth Verlag GmbH,
 Berlin, zu beziehen. Die genannten Normen und Richtlinien sind bei dem
 Deutschen Patentamt archivmäßig gesichert niedergelegt.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
-
 
 ## Anhang
 
@@ -967,12 +953,6 @@ Ermittlungs- und Beurteilungsverfahren
         C(tief)2 = 20 zu setzen. Der Korrekturfaktor für Witterungseinflüsse
         ist für alle Anlagen nach Abschnitt 3.4.3, Gleichung (7a), zu
         berechnen.
-
-
-
-
-
-
 
 ## Tabelle 1: Bedeutung der Glieder in Gleichung (6)
 

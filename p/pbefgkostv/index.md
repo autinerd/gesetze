@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.5.2012 I 1042
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 Abs. 1 Nr. 10 des Personenbeförderungsgesetzes in
@@ -35,12 +34,10 @@ Organisationserlass des Bundeskanzlers vom 27. Oktober 1998 (BGBl. I
 S. 3288) verordnet das Bundesministerium für Verkehr, Bau- und
 Wohnungswesen:
 
-
 ## § 1
 
 Kosten (Gebühren und Auslagen) werden für die im anliegenden
 Gebührenverzeichnis aufgeführten Amtshandlungen erhoben.
-
 
 ## § 2
 
@@ -59,17 +56,12 @@ Gebührenfrei sind:
     geändert durch Artikel 3 Abs. 14 des Gesetzes vom 17. Dezember 1993
     (BGBl. I S. 2118).
 
-
-
-
-
 ## § 3
 
 Im grenzüberschreitenden Verkehr sowie im Transitverkehr sind
 Unternehmen, die ihren Betriebssitz außerhalb des Geltungsbereichs des
 Personenbeförderungsgesetzes haben, von der Kostenpflicht befreit,
 soweit die Gegenseitigkeit verbürgt ist.
-
 
 ## § 4 Widerspruch
 
@@ -86,7 +78,6 @@ Widerspruch nach Beginn seiner Bearbeitung, jedoch vor deren
 Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 vom Hundert
 der Widerspruchsgebühr.
 
-
 ## § 5 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
@@ -94,17 +85,14 @@ eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 6
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

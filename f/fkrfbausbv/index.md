@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2612
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -27,17 +25,14 @@ für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft im Fahrbetrieb wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -173,10 +168,6 @@ folgender Fertigkeiten und Kenntnisse:
 
 17. Fitness im Fahrdienst, Stressbewältigung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der
@@ -194,12 +185,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -207,7 +196,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -241,10 +229,6 @@ Aufgaben kommen insbesondere in Betracht:
 
 
 3.  Bearbeiten von Geschäftsprozessen.
-
-
-
-
 
 ## § 8 Abschlussprüfung
 
@@ -444,11 +428,9 @@ praktischen Aufgaben II insgesamt oder in einem der schriftlichen
 Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ## Anlage (zu § 4 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
 

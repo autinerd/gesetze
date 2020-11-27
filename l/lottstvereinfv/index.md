@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 25 G v. 20.12.2001 I 3794
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 1 Nr. 1 der Reichsabgabenordnung in der
@@ -26,7 +25,6 @@ Fassung des Gesetzes zur Änderung von einzelnen Vorschriften der
 Reichsabgabenordnung und anderer Gesetze vom 11. Juli 1953
 (Bundesgesetzbl. I S. 511) wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1
 
@@ -36,7 +34,6 @@ zur Zeit geltenden Fassung ist abzusehen, wenn die für die einzelne
 Lotterie oder Ausspielung festzusetzende Steuer den Betrag von 5 Euro
 nicht übersteigt.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -45,11 +42,9 @@ des Gesetzes zur Änderung von einzelnen Vorschriften der
 Reichsabgabenordnung und anderer Gesetze vom 11. Juli 1953 auch im
 Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

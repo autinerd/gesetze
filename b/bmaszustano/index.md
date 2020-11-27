@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1162
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -33,7 +31,6 @@ einschließlich der hierzu ergangenen Verordnungen und nach den
 Beihilfevorschriften des Bundes zu entscheiden. Entsprechendes gilt in
 Angelegenheiten von Amtsbezügen.
 
-
 ## II.
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes wird dem
@@ -43,11 +40,9 @@ nach Nummer I dieser Anordnung übertragen. Das Bundesministerium für
 Arbeit und Soziales behält sich vor, im Einzelfall die
 Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 22. November 2005 anzuwenden.
-
 
 ## Schlussformel
 

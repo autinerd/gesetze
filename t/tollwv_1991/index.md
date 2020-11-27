@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.10.2010 I 1313
 
-
 ## Abschnitt 1 - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -63,17 +60,9 @@ Im Sinne dieser Verordnung liegen vor:
     Tier, das in der Lage ist, die Tollwut zu verbreiten, insbesondere
     Füchse, Waschbären, Marderhunde und Fledermäuse.
 
-
-
-
-
 ## Abschnitt 2 - Schutzmaßregeln
 
-
-
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
-
-
 
 #### § 2 Impfungen und Heilversuche
 
@@ -97,7 +86,6 @@ erforderlich ist.
 
 (3) Heilversuche an verdächtigen Tieren sind verboten.
 
-
 #### § 3 Ausnahmen
 
 Die zuständige Behörde kann Ausnahmen zulassen, sofern Belange der
@@ -114,10 +102,6 @@ Tierseuchenbekämpfung nicht entgegenstehen,
     zu dem Zeitpunkt, an dem sie tatsächlich oder vermutlich mit
     seuchenkranken oder seuchenverdächtigen Tieren in Berührung gekommen
     sind, unter wirksamem Impfschutz gestanden haben.
-
-
-
-
 
 #### § 3a Untersuchungen
 
@@ -140,7 +124,6 @@ Tieres Angaben zur Abschuss- oder Fundstelle, zum Datum des Abschusses
 oder Fundes, zur Tierart und zum Verhalten des Tieres vor dem Erlegen
 mitgeteilt werden.
 
-
 #### § 4 Anzeige von Ausstellungen
 
 (1) Hunde- und Katzenausstellungen sowie Veranstaltungen ähnlicher Art
@@ -156,7 +139,6 @@ der zuständigen Behörde mindestens vier Wochen vor Beginn anzuzeigen.
 Ausstellung oder Veranstaltung beschränken oder verbieten, soweit es
 aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
 #### § 5 Kennzeichnung
 
 In einem gefährdeten Bezirk ist es verboten, Hunde außerhalb
@@ -167,14 +149,9 @@ angegeben sind oder an dem eine Steuermarke befestigt ist. Dies gilt
 nicht für Hunde auf umfriedeten Grundstücken, von denen sie nicht
 entweichen können, und für Jagdhunde bei jagdlicher Verwendung.
 
-
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln bei Haustieren
 
-
-
 #### A. - Vor amtlicher Feststellung
-
-
 
 ##### § 6
 
@@ -202,13 +179,7 @@ Feststellung für seuchenverdächtige Haustiere Folgendes:
     aufgehoben, wenn sich der Verdacht auf Grund amtstierärztlicher
     Untersuchung als unbegründet erwiesen hat.
 
-
-
-
-
 #### B. - Nach amtlicher Feststellung
-
-
 
 ##### § 7 Tötung und unschädliche Beseitigung
 
@@ -235,7 +206,6 @@ Bestätigung oder Beseitigung des Verdachts anordnen, wenn diese Tiere
 (3) Das Schlachten und Abhäuten seuchenverdächtiger Tiere sowie der
 Verkauf oder Verbrauch einzelner Teile, der Milch oder sonstiger
 Erzeugnisse solcher Tiere sind verboten.
-
 
 ##### § 8 Schutzmaßregeln für den gefährdeten Bezirk
 
@@ -268,7 +238,6 @@ Behörde das betreffende Gebiet nach Maßgabe des Absatzes 1 Satz 1 zum
 gefährdeten Bezirk erklären. Die Erklärung ist öffentlich bekannt zu
 geben. Die Absätze 2 und 3 gelten entsprechend.
 
-
 ##### § 9 Schutzmaßregeln bei Ansteckungsverdacht
 
 (1) Für Hunde und Katzen ordnet die zuständige Behörde die sofortige
@@ -297,7 +266,6 @@ Satz 1 oder nachträglich die Dauer der dort genannten Maßnahme
 verkürzen, soweit Belange der Tierseuchenbekämpfung nicht
 entgegenstehen.
 
-
 ##### § 10 Behördliche Beobachtung
 
 (1) Die Dauer der behördlichen Beobachtung nach § 9 Absatz 2 und 3
@@ -320,10 +288,7 @@ ansteckungsverdächtige Einhufer, Rinder, Schweine, Schafe und Ziegen
 die Tötung und unschädliche Beseitigung anordnen, sofern dies aus
 Gründen der Seuchenbekämpfung erforderlich ist.
 
-
 ### Unterabschnitt 3 - Besondere Schutzmaßregeln bei wild lebenden Tieren
-
-
 
 #### § 11 Schutzmaßregeln im Verdachtsfall
 
@@ -336,7 +301,6 @@ kleineren Tieren ist das der ganze Tierkörper, bei größeren Tieren nur
 der Kopf. Wird das Untersuchungsmaterial nicht der zuständigen Behörde
 oder einem staatlichen Veterinäruntersuchungsamt abgeliefert, so ist
 der zuständigen Behörde mitzuteilen, wo es sich befindet.
-
 
 #### § 12 Schutzmaßregeln nach Feststellung des Ausbruchs und in sonstigen Fällen
 
@@ -373,7 +337,6 @@ der Zeitraum für die orale Immunisierung nach Absatz 1 Satz 1 Nummer 2
 mindestens zwei Jahre nach dem letzten Tollwutfall im gefährdeten
 Bezirk andauern.
 
-
 #### § 12a
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder
@@ -383,10 +346,7 @@ Kilometern von der deutschen Grenze amtlich festgestellt und der für
 das angrenzende Gebiet im Inland zuständigen Behörde amtlich zur
 Kenntnis gebracht, so kann diese Maßnahmen nach § 12 anordnen.
 
-
 ### Unterabschnitt 4 - Desinfektion
-
-
 
 #### § 13
 
@@ -396,10 +356,7 @@ Gegenstände, die Träger des Seuchenerregers sein können, unverzüglich
 nach näherer Anweisung der zuständigen Behörde reinigen und
 desinfizieren.
 
-
 ### Unterabschnitt 5 - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 14
 
@@ -438,13 +395,7 @@ als tollwutfrei bestimmen, soweit
     Ausbruchs der Tollwut weniger als zwei Jahre zurückliegt, bestehen
     bleibt.
 
-
-
-
-
 ## Abschnitt 3 - Schlussbestimmungen
-
-
 
 ### § 15
 
@@ -518,10 +469,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 10. einer Vorschrift des § 13 über die Reinigung und Desinfektion
     zuwiderhandelt.
 
-
-
-
-
 ### § 15a Weitergehende Maßnahmen
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Tollwut bei
@@ -532,10 +479,7 @@ zur Tierseuchenbekämpfung erforderlich sind und Rechtsakte der
 Europäischen Gemeinschaften oder der Europäischen Union nicht
 entgegenstehen, bleibt unberührt.
 
-
 ## Abschnitt 4 - (Inkrafttreten, Außerkrafttreten)
-
-
 
 ### Anlage (zu § 12 Absatz 1) Untersuchung wild lebender Tiere, ausgenommen Fledermäuse, zur Kontrolle des Impferfolges
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2705
 
-
 ## § 1 Konsolidierungshilfen
 
 (1) Als Hilfe zur Einhaltung der Vorgaben des Artikels 109 Absatz 3
@@ -71,7 +70,6 @@ zurückzuzahlen.
 Sanierungshilfen aufgrund einer extremen Haushaltsnotlage ist
 ausgeschlossen.
 
-
 ## § 2 Konsolidierungsverpflichtungen
 
 (1) Die in § 1 Absatz 1 genannten Länder, die 2010 ein
@@ -107,7 +105,6 @@ Absatz 2 nicht festgestellt, verwarnt der Stabilitätsrat das
 betroffene Land. Der Anspruch des betroffenen Landes auf
 Konsolidierungshilfe für dieses Jahr entfällt.
 
-
 ## § 3 Finanzierung
 
 Die sich aus der Gewährung der Konsolidierungshilfen ergebende
@@ -116,7 +113,6 @@ Anteil des Bundes an den Zahlungen nach § 1 Absatz 2 beträgt jährlich
 400 Millionen Euro. Entfällt nach § 2 Absatz 3 der Anspruch eines oder
 mehrerer Länder auf Konsolidierungshilfen, verringern sich die Anteile
 von Bund und Ländern entsprechend.
-
 
 ## § 4 Verwaltungsvereinbarung
 

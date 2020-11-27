@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.1.2012 I 112
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 4a, Abs. 2 Satz 1 Nr. 1 in
@@ -28,7 +27,6 @@ der Bekanntmachung vom 27. September 1994 (BGBl. I S. 2802), von denen
 § 9 Abs. 1 Satz 1 Nr. 4a und § 1 Nr. 10a durch Artikel 1 des Gesetzes
 vom 6. Juni 1995 (BGBl. I S. 778) eingefügt worden sind, verordnet das
 Bundesministerium für Verkehr:
-
 
 ## § 1 Geltungsbereich
 
@@ -90,7 +88,6 @@ bergrechtlichen Vorschriften zugelassen werden, überwachungsbedürftige
 Anlagen im Sinne produktsicherheitsrechtlicher Vorschriften sowie
 passives Fanggerät der Fischerei.
 
-
 ## § 2 Planfeststellung
 
 (1) Die Errichtung und der Betrieb von Anlagen im Sinne des § 1 Absatz
@@ -104,7 +101,6 @@ Plangenehmigungsbehörde.
 (3) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des
 Verwaltungsverfahrensgesetzes nach Maßgabe dieser Verordnung. § 36
 Absatz 2 und 3 des Verwaltungsverfahrensgesetzes findet Anwendung.
-
 
 ## § 3 Konkurrenzregelung
 
@@ -158,7 +154,6 @@ Vorhabens nach Anhörung der Beteiligten vorziehen; das ursprüngliche
 Verfahren ruht dann, bis in dem vorgezogenen Verfahren eine
 abschließende Entscheidung getroffen worden ist.
 
-
 ## § 3a Besondere Eignungsgebiete für Windkraftanlagen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung legt
@@ -189,7 +184,6 @@ im Genehmigungsverfahren im Hinblick auf die Wahl des Standortes von
 Anlagen die Wirkung eines Sachverständigengutachtens. Die
 Anforderungen über die Umweltverträglichkeitsprüfung von Vorhaben
 gemäß § 9 bleiben unberührt.
-
 
 ## § 4 Planfeststellungsverfahren
 
@@ -234,7 +228,6 @@ angeschlossen werden können. Für die Kriterien maßgeblich ist insoweit
 insbesondere die Nähe zur Küste und zu Stromnetzen. Die Kriterien sind
 durch Veröffentlichung im Verkehrsblatt und in zwei überregionalen
 Tageszeitungen bekannt zu machen.
-
 
 ## § 5 Planfeststellungsbeschluss, Plangenehmigung
 
@@ -300,10 +293,6 @@ Seeschifffahrt und Hydrographie) und durch Veröffentlichung in zwei
 3.  andere Anforderungen nach dieser Verordnung oder sonstigen öffentlich-
     rechtlichen Vorschriften erfüllt werden.
 
-
-
-
-
 ## § 6 Genehmigung
 
 (1) Die Errichtung, der Betrieb oder die wesentliche Änderung von
@@ -355,7 +344,6 @@ Bundesamt für Seeschifffahrt und Hydrographie vor Beginn ihrer
 Errichtung anzuzeigen. In der Anzeige sind die Art, der Zweck und der
 genaue Standort der Anlage anzugeben.
 
-
 ## § 7 Versagen der Genehmigung
 
 (1) Die Genehmigung darf nur versagt werden, wenn
@@ -383,10 +371,6 @@ genaue Standort der Anlage anzugeben.
 
 3.  Ziele der Raumordnung entgegenstehen.
 
-
-
-
-
 ## § 8 Einvernehmensregelung
 
 Die Feststellung des Plans, die Plangenehmigung oder die Genehmigung
@@ -397,14 +381,12 @@ wenn eine Beeinträchtigung der Sicherheit und Leichtigkeit des
 Verkehrs zu besorgen ist, die nicht durch Bedingungen oder Auflagen
 verhütet oder ausgeglichen werden kann.
 
-
 ## § 9 Umweltverträglichkeitsprüfung
 
 Für Anlagen, die als Vorhaben nach den §§ 3 bis 3f des Gesetzes über
 die Umweltverträglichkeitsprüfung einer Umweltverträglichkeitsprüfung
 bedürfen, ist eine Umweltverträglichkeitsprüfung nach diesem Gesetz
 durchzuführen.
-
 
 ## § 10 Veränderungssperre
 
@@ -428,7 +410,6 @@ Seefahrer (Amtliche Veröffentlichung für die Seeschifffahrt des
 Bundesamtes für Seeschifffahrt und Hydrographie) und in zwei
 überregionalen Tageszeitungen zu veröffentlichen.
 
-
 ## § 11 Sicherheitszonen
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der
@@ -447,7 +428,6 @@ Anlagen erstrecken. Die Breite einer Sicherheitszone darf 500 Meter
 gestatten oder die zuständige internationale Organisation dies
 empfiehlt.
 
-
 ## § 12 Bekanntmachung der Anlagen und ihrer Sicherheitszonen
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die Anlagen
@@ -455,7 +435,6 @@ sowie die von ihm nach § 11 eingerichteten Sicherheitszonen in den
 Nachrichten für Seefahrer (Amtliche Veröffentlichung für die
 Seeschifffahrt des Bundesamtes für Seeschifffahrt und Hydrographie)
 bekannt und trägt sie in die amtlichen Seekarten ein.
-
 
 ## § 13 Beseitigung der Anlagen, Sicherheitsleistung
 
@@ -474,7 +453,6 @@ Absatz 1 genannten Rückbaupflicht sicherzustellen.
 
 (4) Die Absätze 1 bis 3 gelten auch für Anlagen, die nach § 5 Absatz 1
 keiner Planfeststellung bedürfen.
-
 
 ## § 14 Pflichten der verantwortlichen Personen
 
@@ -502,7 +480,6 @@ Betriebseinstellung
 
 
 ausgehen.
-
 
 ## § 15 Verantwortliche Personen
 
@@ -556,7 +533,6 @@ Seeschifffahrt und Hydrographie unverzüglich anzuzeigen, wenn der
 Planfeststellungsbeschluss, die Plangenehmigung oder die Genehmigung
 auf einen anderen übertragen wird. Das Gleiche gilt für den Betreiber,
 wenn der Betrieb der Anlage auf eine andere Person übertragen wird.
-
 
 ## § 16 Überwachung der Anlagen
 
@@ -614,7 +590,6 @@ Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet.
 (6) Die Vorschriften über Rücknahme oder Widerruf eines
 Verwaltungsaktes bleiben unberührt.
 
-
 ## § 17 Übergangsregelungen
 
 (1) Für Genehmigungen, die vor dem 26. Juli 2008 beantragt worden sind
@@ -660,11 +635,9 @@ Anlagen, bei denen die öffentliche Bekanntmachung nach § 2a in der bis
 zum Ablauf des 30. Januar 2012 geltenden Fassung vor dem 31. Januar
 2012 erfolgt ist.
 
-
 ## § 18 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anhang (zu § 13 Absatz 3) Anforderungen an Sicherheitsleistungen
 

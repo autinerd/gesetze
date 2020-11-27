@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1035
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -26,7 +25,6 @@ Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -85,7 +83,6 @@ wahrgenommen werden:
 Fortbildungsabschluss „Geprüfter Personaldienstleistungsfachwirt“ oder
 „Geprüfte Personaldienstleistungsfachwirtin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -114,7 +111,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -178,7 +174,6 @@ auch nachgewiesen werden, dass angemessen und sachgerecht mit
 Gesprächspartnern kommuniziert werden kann und dabei argumentations-
 und präsentationstechnische Instrumente sachgerecht eingesetzt werden
 können. Das Fachgespräch soll nicht länger als 20 Minuten dauern.
-
 
 ## § 4 Inhalt der Prüfung
 
@@ -388,10 +383,6 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 6.  intern kommunizieren und das Unternehmen öffentlich darstellen.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -401,7 +392,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde, und
 die Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach
 der Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -418,7 +408,6 @@ Anlage 1 und 2 auszustellen. Im Falle der Freistellung gemäß § 5 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -432,7 +421,6 @@ Prüfung erbrachten Leistungen mindestens ausreichend sind. Der Antrag
 kann sich auch darauf richten, bestandene Prüfungsleistungen einmal zu
 wiederholen. Werden bestandene Prüfungsleistungen erneut geprüft, gilt
 in diesem Fall das Ergebnis der letzten Prüfung.
-
 
 ## § 8 Ausbildereignung
 
@@ -460,11 +448,9 @@ Prüfungsteilnehmerin ist ein Zeugnis auszustellen aus dem hervorgeht,
 dass die berufs- und arbeitspädagogische Qualifikation nach § 30 des
 Berufsbildungsgesetzes nachgewiesen wurde.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2011 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Absatz 3) Muster
 
@@ -475,8 +461,6 @@ Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -520,9 +504,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2010, 1040)
@@ -532,8 +513,6 @@ bestanden.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

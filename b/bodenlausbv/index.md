@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1861
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,16 +24,13 @@ zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bodenleger/Bodenlegerin wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -95,10 +90,6 @@ Fertigkeiten und Kenntnisse:
 
 17. Qualitätssichernde Maßnahmen, Kundenorientierung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -115,12 +106,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -128,7 +117,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -153,7 +141,6 @@ Vorbereitens des Untergrundes in Betracht. Dabei soll der Prüfling
 zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen,
 technische Unterlagen nutzen sowie den Umweltschutz, die Sicherheit
 und den Gesundheitsschutz bei der Arbeit beachten kann.
-
 
 ## § 8 Abschlussprüfung
 
@@ -313,11 +300,9 @@ erbracht sind. Wird die Prüfungsleistung in einer der Arbeitsaufgaben
 oder in einem der Prüfungsbereiche Untergründe und Bodenbeläge mit
 ungenügend bewertet, ist die Prüfung nicht bestanden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bodenleger/zur Bodenlegerin
 

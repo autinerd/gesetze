@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 Abs. 8 G v. 12.12.2007 I 2840
 
-
 ## Eingangsformel
 
 Getragen von der Absicht,
@@ -36,7 +35,6 @@ Getragen von der Absicht,
 
 
 wird folgendes Gesetz erlassen:
-
 
 ## § 1 Vermögensübertragung
 
@@ -91,7 +89,6 @@ zu gestalten, daß den ökonomischen, ökologischen, strukturellen und
 eigentumsrechtlichen Besonderheiten dieses Bereiches Rechnung getragen
 wird.
 
-
 ## § 2 Stellung und Aufgaben der Treuhandanstalt
 
 (1) Die Treuhandanstalt ist eine rechtsfähige bundesunmittelbare
@@ -137,7 +134,6 @@ einer Verwaltungsvereinbarung geregelt ist.
 
 (8) Der Sitz der Treuhandanstalt ist Berlin.
 
-
 ## § 2a Wirtschaftsplan
 
 (1) Der oder die Abwickler der Anstalt stellen vor Beginn eines jeden
@@ -157,7 +153,6 @@ Finanzen und dem Bundesministerium für Wirtschaft und Technologie und
 nur im Rahmen des im Wirtschaftsplan festgelegten Gesamtbetrages
 übernehmen.
 
-
 ## § 3 Abwickler der Anstalt
 
 Das verbliebene Vermögen der Anstalt wird durch das Bundesministerium
@@ -165,21 +160,17 @@ der Finanzen oder einen oder mehrere vom Bundesministerium der
 Finanzen zu bestellende andere Abwickler abgewickelt. Der oder die
 Abwickler vertreten die Anstalt im Rechtsverkehr.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5
 
 -
 
-
 ## § 6
 
 -
-
 
 ## § 7 Treuhand-Aktiengesellschaften
 
@@ -196,7 +187,6 @@ durch den Verwaltungsrat der Treuhandanstalt zu bestätigen.
 (3) Der Verwaltungsrat der Treuhandanstalt ordnet dabei nach
 Zweckmäßigkeitsgesichtspunkten den einzelnen Treuhand-
 Aktiengesellschaften die von ihnen zu haltenden Beteiligungen zu.
-
 
 ## § 8 Aufgaben der Treuhand-Aktiengesellschaften
 
@@ -222,7 +212,6 @@ werden:
 (2) Die Treuhand-Aktiengesellschaften haben der Treuhandanstalt über
 den Fortgang der Privatisierung zu berichten.
 
-
 ## § 9
 
 (1) Zur Sicherung der Effizienz und Wettbewerbsfähigkeit haben die
@@ -242,7 +231,6 @@ heranzuziehen.
 Unternehmen ihres Bereiches insbesondere im Zusammenhang mit
 Sanierungsmaßnahmen alle marktmäßigen Möglichkeiten nutzen, z.B.
 Kredite aufnehmen oder Bürgschaften gewähren.
-
 
 ## § 10 Organe der Treuhand-Aktiengesellschaften
 
@@ -266,10 +254,7 @@ durch Bevollmächtigte vertreten lassen.
 Erfahrungen bei der Leitung von Unternehmen, insbesondere bei der
 Sanierung und der Veräußerung von Geschäftsanteilen verfügen.
 
-
 ## - - Umwandlung der Wirtschaftseinheiten in Kapitalgesellschaften
-
-
 
 ### § 11
 
@@ -314,10 +299,6 @@ und Bodens in das Eigentum der Kapitalgesellschaft.
 
 -   volkseigene Güter und staatliche Forstwirtschaftsbetriebe.
 
-
-
-
-
 ### § 12
 
 (1) Die aus den Kombinaten entstandenen Aktiengesellschaften werden
@@ -329,20 +310,17 @@ an einer Gesellschaft mit beschränkter Haftung der Treuhandanstalt
 gegen angemessenes Entgelt anzubieten, wenn die Geschäftsleitung der
 Gesellschaft mit beschränkter Haftung dies verlangt.
 
-
 ### § 13
 
 Die Umwandlung einer Wirtschaftseinheit in eine Kapitalgesellschaft
 ist von Amts wegen unter Bezugnahme auf dieses Gesetz in das Register
 einzutragen, in dem diese Wirtschaftseinheit bisher eingetragen war.
 
-
 ### § 14
 
 Die Firma der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaft muß
 die Bezeichnung "Aktiengesellschaft im Aufbau" oder "Gesellschaft mit
 beschränkter Haftung im Aufbau" enthalten.
-
 
 ### § 15
 
@@ -382,7 +360,6 @@ Gesellschaftsvertrag oder in der Satzung beträgt das Stammkapital
 einer Gesellschaft mit beschränkter Haftung 50.000 Deutsche Mark, das
 Grundkapital einer Aktiengesellschaft 100.000 Deutsche Mark.
 
-
 ### § 16
 
 (1) Bis zum 31. Juli 1990 werden von der Treuhandanstalt Personen als
@@ -399,7 +376,6 @@ Die Treuhandanstalt haftet für Schäden aus Pflichtverletzungen dieser
 Personen an deren Stelle. Regreßansprüche der Treuhandanstalt gegen
 diese Personen aufgrund anderer Rechtsvorschriften bleiben unberührt.
 
-
 ### § 17
 
 (1) Bis zur endgültigen Feststellung der Satzung einer gemäß § 11 Abs.
@@ -410,12 +386,10 @@ Der Nennbetrag der Aktien beträgt fünfzig Deutsche Mark.
 gemäß § 11 Abs. 2 entstandenen Gesellschaft mit beschränkter Haftung
 beträgt die Stammeinlage eintausend Deutsche Mark.
 
-
 ### § 18
 
 Geschäftsjahr der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaften
 ist das Kalenderjahr.
-
 
 ### § 19
 
@@ -425,7 +399,6 @@ Handelsregister hat deren vorläufiges Leitungsorgan die für die
 Gründung einer Aktiengesellschaft oder einer Gesellschaft mit
 beschränkter Haftung gesetzlich erforderlichen Maßnahmen für die
 Gründung einzuleiten.
-
 
 ### § 20
 
@@ -470,7 +443,6 @@ oder Wirtschaftsprüfungsgesellschaften beauftragen, auf Kosten der
 Kapitalgesellschaft den Gründungsbericht und den Lagebericht sowie die
 Eröffnungsbilanz zu erstellen.
 
-
 ### § 21
 
 (1) Das vorläufige Leitungsorgan hat die Durchführung der Maßnahmen
@@ -498,14 +470,12 @@ Anmeldung.
 Kapitalgesellschaften vor, so löscht das Registergericht den Zusatz
 "im Aufbau" in der bisherigen Firma der Kapitalgesellschaft.
 
-
 ### § 22
 
 Kapitalgesellschaften, die nach § 11 Abs. 2 entstanden sind, sind mit
 Ablauf des 30. Juni 1991 aufgelöst, wenn die nach den §§ 19 und 21
 erforderlichen Maßnahmen bis zu diesem Tage nicht durchgeführt worden
 sind.
-
 
 ### § 23
 
@@ -515,7 +485,6 @@ Kombinaten, Betrieben und Einrichtungen in Kapitalgesellschaften (GBl.
 I Nr. 14 S. 107) vorgenommen worden sind; § 12 Abs. 2 gilt auch für
 Gesellschaften mit beschränkter Haftung, die durch eine Umwandlung im
 Sinne dieser Verordnung entstanden sind.
-
 
 ### § 23a Übertragung von Vermögenswerten, Auflösung
 
@@ -539,11 +508,9 @@ Gesamtschuldner.
 vollständiger Abwicklung oder Übertragung ihres Vermögens auf. Die
 Auflösung ist im Bundesanzeiger bekannt zu machen.
 
-
 ### § 23c (weggefallen)
 
 -
-
 
 ### § 24 Übergangs- und Schlußbestimmungen
 
@@ -562,13 +529,11 @@ aufzuheben, soweit es zur weiteren Erfüllung der in diesen
 Durchführungsverordnungen der Treuhandanstalt zugewiesenen Aufgaben
 erforderlich ist.
 
-
 ### Schlußformel
 
 Das vorstehende, von der Volkskammer der Deutschen Demokratischen
 Republik am siebzehnten Juni neunzehnhundertneunzig beschlossene
 Gesetz wird hiermit verkündet.
-
 
 ### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

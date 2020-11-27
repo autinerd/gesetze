@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4255
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 143a Abs. 2 des Seemannsgesetzes in der im
@@ -30,23 +28,19 @@ Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Arbeit
 und Sozialordnung im Einvernehmen mit dem Bundesministerium der
 Finanzen:
 
-
 ## § 1
 
 Die Seemannsämter erheben für Amtshandlungen auf dem Gebiet des
 Seemannsrechts Gebühren nach der Anlage zu dieser Verordnung. Neben
 den Gebühren werden Auslagen erhoben.
 
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 

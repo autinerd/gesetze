@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 7.7.2007 I 1387
 
-
 ## Eingangsformel
 
 Auf Grund des § 39 Abs. 3 des Arzneimittelgesetzes vom 24. August 1976
 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister
 für Ernährung, Landwirtschaft und Forsten mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -42,10 +40,6 @@ Einzelregistrierung nach § 38 Abs. 1 Satz 1 freigestellt, wenn
 
 3.  für sie keine Zulassung erteilt ist (Standardregistrierung).
 
-
-
-
-
 ## § 2
 
 Arzneimittel, die sich am 19. Juli 2007 im Verkehr befinden und den
@@ -55,16 +49,13 @@ Unternehmer entsprechend den §§ 10 und 11 des Arzneimittelgesetzes in
 der jeweils geltenden Fassung gekennzeichnet und mit einer
 Packungsbeilage versehen werden.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
-
 
 ## Anlage Standardregistrierungen - Anlage zur Verordnung über Standardregistrierungen -
 

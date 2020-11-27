@@ -23,7 +23,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -39,7 +38,6 @@ worden sind, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mechatroniker für Kältetechnik/Mechatronikerin
@@ -52,14 +50,9 @@ für Kältetechnik wird
     18, Kälteanlagenbauer, der Anlage A der Handwerksordnung staatlich
     anerkannt.
 
-
-
-
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -134,10 +127,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 8.  Umweltschutz.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -157,7 +146,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Abschlussprüfung/Gesellenprüfung
 
@@ -179,7 +167,6 @@ ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 30 Prozent, Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 70 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
@@ -231,10 +218,6 @@ Prüfungsbereich Arbeitsauftrag. Hierfür bestehen folgende Vorgaben:
     Zeit soll das situative Fachgespräch in höchstens 15 Minuten und die
     Bearbeitung der schriftlichen Aufgabenstellungen in höchstens 60
     Minuten durchgeführt werden.
-
-
-
-
 
 ## § 7 Teil 2 der Abschlussprüfung/Gesellenprüfung
 
@@ -422,7 +405,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -431,11 +413,9 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt worden ist.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 82 G v. 17.12.2008 I 2586
 
-
 ## (XXXX) Gliederung
 
 
@@ -660,13 +659,7 @@ Zuletzt geändert durch
 
     *   § 79
 
-
-
-
-
 ## Abschnitt I - Allgemeine Grundzüge des Bereinigungsverfahrens
-
-
 
 ### § 1 Auslandsbonds, Begebungsland
 
@@ -677,13 +670,11 @@ in dem Verzeichnis angegebene Staat.
 
 (2) ...
 
-
 ### § 2 Bereinigung der Auslandsbonds
 
 Auslandsbonds bleiben nur gültig, wenn sie nach diesem Gesetz
 anerkannt werden. Für Auslandsbonds, die nicht anerkannt worden sind,
 gelten die §§ 50, 52 bis 54.
-
 
 ### § 3 Voraussetzungen der Anerkennung
 
@@ -719,7 +710,6 @@ einer im Ausland begangenen Entziehung ergangen ist und der Inhaber
 seinen Wohnsitz, gewöhnlichen Aufenthalt, Sitz oder seine
 Hauptniederlassung zur Zeit der Anmeldung im Ausland hat.
 
-
 ### § 4 Feststellungsbescheide
 
 Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen
@@ -730,7 +720,6 @@ angemeldet und wenn festgestellt wird, daß der Anmelder als
 rechtmäßiger Erwerber im Sinne des § 38 Abs. 3 gilt. Der
 Feststellungsbescheid gewährt die in § 53 bezeichneten
 Entschädigungsansprüche.
-
 
 ### § 5 Nebenurkunden
 
@@ -761,7 +750,6 @@ Stammurkunde nicht oder nur unter gewissen Voraussetzungen auf die
 Nebenurkunden erstreckt. In einer Entscheidung, die auf Grund einer
 solchen Verordnung ergeht, ist anzugeben, auf welche Nebenurkunden sie
 sich nicht erstreckt.
-
 
 ### § 6 Tilgungsstücke
 
@@ -800,7 +788,6 @@ sie die freie Verfügungsgewalt über die in Absatz 2 genannten
 Auslandsbonds zurück, so sind sie verpflichtet, diese Bonds alsbald
 zur Tilgung zu verwenden.
 
-
 ### § 7 Anmeldung beim Auslandsbevollmächtigten
 
 (1) Auslandsbonds, deren Anerkennung nach § 3 Abs. 1 Nr. 1
@@ -810,7 +797,6 @@ Auslandsbevollmächtigten für die Bereinigung deutscher Auslandsbonds
 
 (2) Für die Anmeldung und das Prüfungsverfahren gelten die §§ 21 bis
 36\.
-
 
 ### § 8 Auslandsbevollmächtigte
 
@@ -858,7 +844,6 @@ Auslandsbevollmächtigten bestimmt. Im übrigen gelten für die ständigen
 Vertreter die für die Auslandsbevollmächtigten geltenden Vorschriften
 sinngemäß.
 
-
 ### § 9 Auslandsspruchstellen
 
 (1) Die Bundesregierung kann durch Rechtsverordnung die Aufgaben des
@@ -895,7 +880,6 @@ Auslandsbevollmächtigten ganz oder teilweise auch einer anderen Stelle
 worden ist und deren Zusammensetzung der der Auslandsspruchstelle
 entspricht.
 
-
 ### § 10 Anmeldung bei der Prüfstelle
 
 (1) Auslandsbonds, deren Anerkennung nach § 3 Abs. 1 Nr. 2 (rechtmäßig
@@ -906,7 +890,6 @@ beansprucht wird.
 
 (2) Für die Anmeldung und das Prüfungsverfahren gelten die §§ 37 bis
 48\.
-
 
 ### § 11 Prüfstellen
 
@@ -929,7 +912,6 @@ Bestätigung im Bundesanzeiger bekanntzumachen.
 Wertpapierbereinigungsgesetzes vom 19. August 1949 (WiGBl. S. 295)
 sinngemäß.
 
-
 ### § 12 Amtliche Liste der anerkannten Auslandsbonds
 
 (1) Auslandsbonds, die nach diesem Gesetz anerkannt worden sind,
@@ -950,7 +932,6 @@ oder daß zum Geschäftsverkehr oder Börsenhandel nur solche Urkunden
 zugelassen werden, die in die amtliche Liste aufgenommen sind oder
 deren Anerkennung sonst kenntlich gemacht worden ist.
 
-
 ### § 13 Sammelanerkennung
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
@@ -960,13 +941,11 @@ alle oder bestimmte Auslandsbonds einer Art anerkennen
 die Anerkennung durch die sonst nach diesem Gesetz zuständigen
 Stellen.
 
-
 ### § 14 Leistungsverbot
 
 Aussteller, Treuhänder und Zahlungsagenten dürfen auf Grund nicht
 anerkannter Auslandsbonds nur die Leistungen gewähren, zu denen sie
 nach diesem Gesetz verpflichtet sind.
-
 
 ### § 15 Ersatzurkunden
 
@@ -990,7 +969,6 @@ Gesetz anerkannt worden waren, bedürfen keiner erneuten Anerkennung.
 Sie werden auf Antrag des Inhabers vom Amt für Wertpapierbereinigung
 in die amtliche Liste (§ 12) aufgenommen; bei der Aufnahme in die
 Liste ist auf die schon erfolgte Anerkennung zu verweisen.
-
 
 ### § 16 Entzogene Auslandsbonds
 
@@ -1017,7 +995,6 @@ Rückgewähr eines entzogenen Auslandsbonds oder die Übertragung der in
 Absatz 2 genannten Befugnis angeordnet wird, sind für das
 Prüfungsverfahren bindend.
 
-
 ### § 17 Amts- und Rechtshilfe
 
 (1) Die nach diesem Gesetz zuständigen Behörden und anderen Stellen
@@ -1040,7 +1017,6 @@ sonst dem ersuchenden Gericht vorbehalten ist.
 um Rechtshilfe auch an die Kammer für Wertpapierbereinigung richten,
 in deren Bezirk der Aussteller seinen Sitz hat oder die Amtshandlung
 vorgenommen werden soll.
-
 
 ### § 18 Entgegennahme von Anmeldungen und Erklärungen
 
@@ -1079,7 +1055,6 @@ Stelle eingegangen ist.
 anderen Rechtsbehelfen und für erneute Anmeldungen nach § 21 Abs. 3,
 4, § 37 Abs. 3.
 
-
 ### § 19 Stichtag
 
 (1) Als Stichtag im Sinne dieses Gesetzes gilt für die im Verzeichnis
@@ -1088,7 +1063,6 @@ erste Tag nach dem Ablauf von sechs Monaten seit Inkrafttreten des
 Gesetzes.
 
 (2) und (3) ...
-
 
 ### § 20 Unterrichtung der Öffentlichkeit
 
@@ -1099,10 +1073,7 @@ aus ihm für die Inhaber von Auslandsbonds ergebenden Rechte und
 Pflichten sowie die Folgen einer Nichtbeachtung der Vorschriften des
 Gesetzes hinzuweisen.
 
-
 ## Abschnitt II - Anmeldung bei dem Auslandsbevollmächtigten
-
-
 
 ### § 21 Anmeldung, Anmeldefristen
 
@@ -1136,7 +1107,6 @@ bei dem die erneute Anmeldung vorgenommen wird, hat den
 Auslandsbevollmächtigten, der die Anerkennung abgelehnt hatte, von der
 erneuten Anmeldung unverzüglich zu benachrichtigen.
 
-
 ### § 22 Inhalt der Anmeldung
 
 (1) In der Anmeldung sind der Name und Vorname (die Firma) sowie die
@@ -1158,7 +1128,6 @@ unter Angabe seiner Merkmale, insbesondere der Stücknummer,
 unverzüglich der Prüfstelle, dem Aussteller sowie den Treuhändern und
 Zahlungsagenten an. Der Anmelder soll seiner Anmeldung die
 erforderlichen Abschriften beifügen.
-
 
 ### § 23 Vorlage des angemeldeten Auslandsbonds
 
@@ -1191,7 +1160,6 @@ durch Rechtsverordnung nähere Vorschriften zur Durchführung der
 Absätze 1 bis 4 treffen und dabei insbesondere anordnen, daß eine
 Hinterlegung nach Absatz 2 nur bei bestimmten Stellen zulässig ist.
 
-
 ### § 24 Beweisführung
 
 (1) Der Anmelder hat zu beweisen, daß die Voraussetzungen für die
@@ -1221,7 +1189,6 @@ Anerkennung wesentlich sind, durch Urkunden oder Belege bestimmter Art
 bewiesen werden oder nur durch Urkunden oder Belege bestimmter Art
 bewiesen werden können.
 
-
 ### § 25 Unzuständigkeit des Auslandsbevollmächtigten
 
 (1) Ist der Auslandsbevollmächtigte für eine bei ihm vorgenommene
@@ -1241,7 +1208,6 @@ unanfechtbar. Die Anmeldefrist gilt als gewahrt, wenn sie unter
 Berücksichtigung des § 18 gegenüber dem Auslandsbevollmächtigten
 gewahrt war, der sich für unzuständig erklärt hat.
 
-
 ### § 26 Zurücknahme der Anmeldung
 
 (1) Der Anmelder kann die Anmeldung nur zurücknehmen, solange der
@@ -1251,7 +1217,6 @@ Auslandsbevollmächtigte noch nicht über sie entschieden hat.
 Aussteller sowie die Treuhänder und Zahlungsagenten von der
 Zurücknahme der Anmeldung und gibt den Auslandsbond zurück oder
 veranlaßt seine Freigabe.
-
 
 ### § 27 Anerkennung des Auslandsbonds
 
@@ -1267,7 +1232,6 @@ ist. Der Auslandsbevollmächtigte benachrichtigt die Prüfstelle, den
 Aussteller sowie die Treuhänder und Zahlungsagenten von der
 Anerkennung, veranlaßt die Aufnahme des Auslandsbonds in die amtliche
 Liste (§ 12) und gibt den Bond zurück oder veranlaßt seine Freigabe.
-
 
 ### § 28 Ablehnung der Anerkennung
 
@@ -1287,7 +1251,6 @@ Rechtsbehelfe belehrt werden. Die Prüfstelle, der Aussteller sowie die
 Treuhänder und Zahlungsagenten sind von der Ablehnung zu
 benachrichtigen.
 
-
 ### § 29 Rechtsbehelfe
 
 (1) Die Entscheidung, durch die der Auslandsbevollmächtigte einen
@@ -1299,7 +1262,6 @@ Anmelder Rechtsbehelfe nur nach den Vorschriften dieses Gesetzes (§§
 der Anmelder die Wahl. Die ablehnende Entscheidung wird verbindlich,
 sobald sie unanfechtbar geworden ist. § 21 Abs. 4 und § 37 Abs. 3
 bleiben unberührt.
-
 
 ### § 30 Antrag auf Überprüfung der Ablehnung
 
@@ -1314,7 +1276,6 @@ Gegen eine Entscheidung, mit welcher der Auslandsbevollmächtigte die
 Ablehnung der Anerkennung aufrechterhält, stehen dem Anmelder
 dieselben Rechtsbehelfe wie gegen die ursprüngliche Ablehnung zu; der
 Antrag auf Überprüfung kann jedoch nicht wiederholt werden.
-
 
 ### § 31 Antrag auf gerichtliche Entscheidung
 
@@ -1381,7 +1342,6 @@ werden. Im übrigen gelten für das Beschwerdeverfahren die Vorschriften
 über das Verfahren vor der Kammer für Wertpapierbereinigung sinngemäß.
 Eine weitere Beschwerde findet nicht statt.
 
-
 ### § 32 Wirkung und Durchführung der gerichtlichen Entscheidung
 
 (1) Wird in der Entscheidung über einen nach § 31 Abs. 1 gestellten
@@ -1396,7 +1356,6 @@ nicht getroffen, so wird die ablehnende Entscheidung des
 Auslandsbevollmächtigten mit der Rechtskraft der gerichtlichen
 Entscheidung verbindlich. § 21 Abs. 4 und § 37 Abs. 3 bleiben
 unberührt.
-
 
 ### § 33 Anrufung eines Gerichts des Begebungslands
 
@@ -1435,12 +1394,10 @@ bestellt hat.
 Falle des Absatzes 1 der Ausübung der Gerichtsbarkeit des
 Begebungslands widersprechen.
 
-
 ### § 34 Vereinbarte Schiedsgerichte
 
 Für ein schiedsrichterliches Verfahren, dem der Anmelder und der
 Aussteller sich unterworfen haben, gilt § 33 sinngemäß.
-
 
 ### § 35 Gesetzliche Schiedsgerichte
 
@@ -1460,7 +1417,6 @@ sinngemäßer Anwendung des § 31 nach freiem Ermessen, soweit nicht in
 einer nach Absatz 2 erlassenen Verordnung etwas anderes bestimmt ist.
 § 33 Abs. 2 gilt sinngemäß. Die Entscheidungen der Schiedsgerichte
 sind unanfechtbar; § 32 ist auf sie anzuwenden.
-
 
 ### § 36 Maßnahmen bei endgültiger Ablehnung
 
@@ -1523,10 +1479,7 @@ Prüfstelle erneut angemeldet worden ist. In diesem Fall ist
 ausschließlich die Stelle, bei der die erneute Anmeldung vorgenommen
 worden ist, für die Maßnahmen nach Absatz 1 zuständig.
 
-
 ## Abschnitt III - Anmeldung bei der Prüfstelle
-
-
 
 ### § 37 Anmeldung, Anmeldefristen
 
@@ -1558,7 +1511,6 @@ Ablehnung verbindlich geworden ist. Der Ablauf der in Absatz 2
 bezeichneten Fristen schließt die erneute Anmeldung nur aus, wenn die
 Anerkennung in dem früheren Verfahren bereits wegen verspäteter
 Anmeldung abgelehnt worden war.
-
 
 ### § 38 Rechtmäßiger Erwerb
 
@@ -1606,7 +1558,6 @@ rechtmäßig erworben hat. Stand der Auslandsbond mehreren als
 gemeinschaftliches Eigentum zu, so kann jeder Miteigentümer auch für
 die übrigen Miteigentümer die Anmeldung vornehmen.
 
-
 ### § 39 Inhalt der Anmeldung
 
 (1) In der Anmeldung sind der Name und Vorname (die Firma), die
@@ -1634,7 +1585,6 @@ möglichst genauer Angabe seiner Merkmale, insbesondere der
 Stücknummer, unverzüglich dem Auslandsbevollmächtigten, dem Aussteller
 sowie den Treuhändern und Zahlungsagenten an. Der Anmelder soll seiner
 Anmeldung die erforderlichen Abschriften beifügen.
-
 
 ### § 40 Vorlage des angemeldeten Auslandsbonds
 
@@ -1667,7 +1617,6 @@ Auflagen abhängig machen.
 
 (5) § 23 Abs. 5 ist anwendbar.
 
-
 ### § 41 Beweisführung
 
 Der Anmelder hat zu beweisen, daß die Voraussetzungen für die
@@ -1678,7 +1627,6 @@ unter welchen Umständen der angemeldete Auslandsbond vernichtet ist
 oder aus welchen sonstigen Gründen der Bond weder von ihm noch von
 einem anderen Anmeldeberechtigten im Prüfungsverfahren vorgelegt
 werden kann. Im übrigen gilt § 24 sinngemäß.
-
 
 ### § 42 Unzuständigkeit der Prüfstelle
 
@@ -1700,7 +1648,6 @@ Die Anmeldefrist gilt als gewahrt, wenn sie unter Berücksichtigung des
 § 18 gegenüber der Prüfstelle gewahrt war, die sich für unzuständig
 erklärt hat.
 
-
 ### § 43 Zurücknahme der Anmeldung
 
 (1) Der Anmelder kann die Anmeldung nur zurücknehmen, solange weder
@@ -1714,7 +1661,6 @@ Zurücknahme der Anmeldung und gibt den Auslandsbond, wenn er vorgelegt
 worden ist, zurück oder veranlaßt seine Freigabe. War die Anmeldung
 bereits der Kammer für Wertpapierbereinigung vorgelegt worden, so ist
 ihr die Zurücknahme der Anmeldung unverzüglich zuzuleiten.
-
 
 ### § 44 Anerkennung durch die Prüfstelle
 
@@ -1743,7 +1689,6 @@ Brief gegen Rückschein mitzuteilen. Der Auslandsbevollmächtigte sowie
 die Treuhänder und Zahlungsagenten sind von der Anerkennung zu
 benachrichtigen.
 
-
 ### § 45 Vorlage an die Kammer für Wertpapierbereinigung
 
 Die Prüfstelle legt die Anmeldung nach Vornahme der erforderlichen
@@ -1771,10 +1716,6 @@ zuständigen Kammer für Wertpapierbereinigung vor,
 6.  wenn die Anmeldung eigene Bestände des als Prüfstelle tätigen
     Kreditinstituts betrifft.
 
-
-
-
-
 ### § 46 Einspruch des Ausstellers
 
 (1) Hat die Prüfstelle einen Auslandsbond anerkannt, so steht dem
@@ -1793,7 +1734,6 @@ Abschriften beifügen.
 (3) Der Aussteller kann den Einspruch zurücknehmen, solange über ihn
 noch nicht entschieden worden ist; Absatz 2 Satz 2 und § 43 Abs. 2
 Satz 2 gelten sinngemäß.
-
 
 ### § 47 Verfahren und Entscheidung der Kammer für Wertpapierbereinigung
 
@@ -1847,7 +1787,6 @@ Entscheidung mitzuteilen.
 (9) Für die Anfechtung der Entscheidung der Kammer für
 Wertpapierbereinigung gilt § 31 Abs. 6 sinngemäß.
 
-
 ### § 48 Durchführung der Entscheidung
 
 (1) Ist ein Auslandsbond durch eine nicht mehr anfechtbare
@@ -1865,10 +1804,7 @@ Vorschrift angemeldet werden kann.
 Zurücknahme der Anmeldung rechtskräftig eingestellt worden, so gibt
 die Prüfstelle den Auslandsbond zurück oder veranlaßt seine Freigabe.
 
-
 ## Abschnitt IV - Doppelanmeldungen
-
-
 
 ### § 49
 
@@ -1921,13 +1857,7 @@ werden.
     zuständigen Gerichts festgestellt ist, welchem der Anmelder im
     Verhältnis zueinander der in Anspruch genommene Auslandsbond zusteht.
 
-
-
-
-
 ## Abschnitt V - Nicht anerkannte Auslandsbonds, Entschädigungsansprüche
-
-
 
 ### § 50 Kraftlosigkeit nicht anerkannter Auslandsbonds
 
@@ -1948,7 +1878,6 @@ bezeichneten Vorschriften zur Entwertung befugt wäre, jedoch nicht vor
 Ablauf der für sie geltenden Anmeldefristen (Absatz 1).
 
 (3) § 6 Abs. 1 bleibt unberührt.
-
 
 ### § 51 Nachträgliche Anerkennung
 
@@ -1977,7 +1906,6 @@ dieses Gesetzes sinngemäß.
 (3) Ist ein nachträglich angemeldeter Auslandsbond rechtskräftig
 anerkannt worden, so gelten die in § 50 Abs. 1, 2 Satz 2 bezeichneten
 Rechtsfolgen für diesen Auslandsbond als nicht eingetreten.
-
 
 ### § 52 Entschädigungsansprüche für kraftlos gewordene Auslandsbonds
 
@@ -2011,7 +1939,6 @@ beteiligen und zur Einlegung von Rechtsmitteln befugt.
 (3) Die Aussteller und die in Absatz 1 bezeichneten Dritten sind zu
 angemessenen Rückstellungen für den Fall einer Inanspruchnahme nach
 Absatz 1 verpflichtet.
-
 
 ### § 53 Entschädigungsansprüche aus Feststellungsbescheiden
 
@@ -2048,7 +1975,6 @@ Bevor dieses Gesetz erlassen ist, sind der Aussteller und die in
 Absatz 1 Satz 1 bezeichneten Dritten zu Leistungen auf
 Feststellungsbescheide nicht verpflichtet.
 
-
 ### § 54 Entschädigungsansprüche für Tilgungsstücke
 
 (1) Den in § 6 Abs. 1 Nr. 2, 3 bezeichneten Personen, deren
@@ -2074,10 +2000,7 @@ Entschädigungsansprüche nicht geleistet werden.
 Entschädigungsansprüche bleibt dem in § 53 Abs. 4 bezeichneten Gesetz
 vorbehalten. § 53 Abs. 4 Satz 2 gilt sinngemäß.
 
-
 ## Abschnitt VI - Sammelanerkennung
-
-
 
 ### § 55 Antrag auf Sammelanerkennung
 
@@ -2101,7 +2024,6 @@ ist, dürfen Anmeldungen, mit denen die Anerkennung dieser
 Auslandsbonds beansprucht wird, nicht abgelehnt und
 Feststellungsbescheide für sie nicht erteilt werden.
 
-
 ### § 56 Ermittlungen
 
 (1) Das Bundesministerium der Finanzen kann zur Vorbereitung der
@@ -2123,7 +2045,6 @@ beanspruchen und sich der Hilfe der Prüfstelle bedienen. Es kann
 nachgeordnete Bundesbehörden mit der selbständigen Vorbereitung der
 Entscheidung beauftragen.
 
-
 ### § 57 Entscheidung über die Sammelanerkennung
 
 (1) Das Bundesministerium der Finanzen entscheidet im Einvernehmen mit
@@ -2144,16 +2065,12 @@ anerkannt worden sind, sind in die amtliche Liste (§ 12) aufzunehmen.
 Das Bundesministerium der Finanzen oder die von ihm bestimmte Stelle
 veranlaßt die Veröffentlichung.
 
-
 ### § 58 Durchführungsvorschriften
 
 Die Bundesregierung kann das in den Fällen der §§ 55 bis 57 zu
 beobachtende Verfahren durch Rechtsverordnung näher regeln.
 
-
 ## Abschnitt VII - Freigabe von Sicherheiten
-
-
 
 ### § 59 Voraussetzungen der Freigabe
 
@@ -2191,7 +2108,6 @@ oder ein Dritter Fristen oder Termine nicht eingehalten hat, wenn dies
 ausschließlich eine Folge gesetzlicher Vorschriften, des Krieges oder
 anderer von dem Aussteller oder dem Dritten nicht zu vertretender
 Umstände war.
-
 
 ### § 60 Gerichtliche Geltendmachung des Freigabeverlangens
 
@@ -2239,7 +2155,6 @@ Die Beschwerde kann auf neue Tatsachen und Beweismittel gestützt
 werden. Im übrigen gelten für das Beschwerdeverfahren die Absätze 2
 und 3 sinngemäß. Eine weitere Beschwerde findet nicht statt.
 
-
 ### § 61 Wirkung der Freigabeentscheidung
 
 Wenn einem Antrag nach § 60 ganz oder teilweise stattgegeben worden
@@ -2248,10 +2163,7 @@ Gläubiger, Treuhänder, Zahlungsagenten und anderen Stellen, die sonst
 für die Freigabe oder Aufhebung der in § 59 bezeichneten Rechte und
 Verpflichtungen erforderlich ist.
 
-
 ## Abschnitt VIII - Kosten
-
-
 
 ### § 62 Verfahrenskosten
 
@@ -2311,7 +2223,6 @@ Antrags.
 (10) Die Vorschriften über die Pflicht zur Leistung von
 Kostenvorschüssen und zur Sicherheitsleistung von Kosten sind nur im
 Verfahren nach § 60 anzuwenden.
-
 
 ### § 63 Erstattung von Aufwendungen
 
@@ -2376,7 +2287,6 @@ entstanden sind. Absatz 5 gilt sinngemäß.
 (7) Die Aufwendungen sind in der Währung zu erstatten, in der sie
 entstanden sind.
 
-
 ### § 64 Verwaltungsabgabe
 
 (1) Die Aussteller haben als Beitrag zu den Kosten, die durch die
@@ -2396,7 +2306,6 @@ seinen Sitz hat.
 (3) Die Verwaltungsabgabe wird nach den Vorschriften der
 Abgabenordnung und ihrer Durchführungsbestimmungen beigetrieben.
 
-
 ### § 65 Durchführungsvorschriften
 
 Die Bundesregierung kann durch Rechtsverordnung Vorschriften zur
@@ -2405,10 +2314,7 @@ vom Aussteller zu erstattenden Aufwendungen festsetzen und die
 Durchführung der vom Aussteller zu leistenden Zahlungen sowie die
 Erhebung der Verwaltungsabgabe im einzelnen regeln.
 
-
 ## Abschnitt IX - Ergänzende Vorschriften
-
-
 
 ### § 66 Bindende Wirkung der Entscheidungen
 
@@ -2418,11 +2324,9 @@ und die Feststellung des rechtmäßigen Erwerbs an einem Auslandsbond
 binden Gerichte und Verwaltungsbehörden, soweit sich aus diesem Gesetz
 nicht etwas anderes ergibt.
 
-
 ### § 67 Ausschließliche Zuständigkeit
 
 Die in diesem Gesetz begründeten Zuständigkeiten sind ausschließlich.
-
 
 ### § 68 Pfandrechte und andere Rechte Dritter an Auslandsbonds
 
@@ -2433,7 +2337,6 @@ Rechtsmittel einlegen.
 
 (2) Pfandrechte und andere Rechte Dritter an Auslandsbonds setzen sich
 an den Entschädigungsansprüchen nach §§ 52 bis 54 fort.
-
 
 ### § 69 Sinngemäß anzuwendende Vorschriften
 
@@ -2467,10 +2370,6 @@ Wertpapierbereinigungsgesetzes vom 19. August 1949 (WiGBl. S. 295):
     sich die Bankaufsichtsbehörde nicht schon vor Erlaß der Entscheidung
     an dem Verfahren beteiligt hatte.
 
-
-
-
-
 ### § 70 Zustellungen
 
 (1) Zustellungen, die nach diesem Gesetz oder den auf Grund dieses
@@ -2485,7 +2384,6 @@ Rückschein.
 Rückschein bewirkt werden, falls der Staat, in dem die Zustellung
 auszuführen ist, damit einverstanden ist.
 
-
 ### § 71 Kammern für Wertpapierbereinigung
 
 (1) Unter Kammern für Wertpapierbereinigung im Sinne dieses Gesetzes
@@ -2496,7 +2394,6 @@ verstehen.
 (2) Die Landesjustizverwaltung kann für die Bezirke mehrerer Kammern
 für Wertpapierbereinigung einer von ihnen die Aufgaben und
 Entscheidungsbefugnisse auf Grund dieses Gesetzes übertragen.
-
 
 ### § 72 Entscheidungsbefugnis des Vorsitzenden der Kammer für Wertpapierbereinigung
 
@@ -2518,7 +2415,6 @@ Zuziehung von Beisitzern
 (2) Ob nach Absatz 1 von der Zuziehung der Beisitzer abgesehen werden
 soll, entscheidet der Vorsitzende nach pflichtmäßigem Ermessen.
 
-
 ### § 73 Mehrheit von Ausstellern
 
 (1) Sind Auslandsbonds von mehreren Ausstellern ausgestellt worden, so
@@ -2531,7 +2427,6 @@ Bankaufsichtsbehörden bestimmt.
 (3) In den Fällen der Absätze 1, 2 richten sich die Zuständigkeiten,
 die nach diesem Gesetz vom Sitz des Ausstellers abhängen, nach dem
 Sitz der Prüfstelle.
-
 
 ### § 74 Auslandsbonds des Deutschen Reichs und des ehemaligen Landes Preußen
 
@@ -2547,14 +2442,12 @@ wahrgenommen. Die Zuständigkeit der Kammer für Wertpapierbereinigung
 bestimmt sich nach dem Sitz des Bundesamts für zentrale Dienste und
 offene Vermögensfragen.
 
-
 ### § 75 Ein- und Ausfuhrvorschriften
 
 In- und ausländische Vorschriften, nach denen Zahlungen oder die
 Einfuhr, Ausfuhr, Übertragung und Einlösung von Wertpapieren untersagt
 oder nur mit Genehmigung oder unter besonderen Bedingungen zulässig
 sind, bleiben unberührt.
-
 
 ### § 76 Durchführungsvorschriften
 
@@ -2578,7 +2471,6 @@ Abs. 1, 4 und 5,
 § 21 Abs. 2,              § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 58,
 § 76 Abs. 1 bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ### § 77 Mitwirkung des Begebungslands
 
 (1) Verordnungen nach § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, § 9 Abs. 1, 4
@@ -2599,10 +2491,7 @@ geltenden Staates zustimmt. Die Zustimmung kann als erteilt angesehen
 werden, wenn die Regierung innerhalb dreier Monate nach Mitteilung der
 beabsichtigten Maßnahmen nicht widerspricht.
 
-
 ## Abschnitt X - Schlußvorschriften
-
-
 
 ### § 78 Land Berlin
 
@@ -2621,12 +2510,10 @@ für Groß-Berlin I S. 346) und das Berliner Gesetz zur Änderung und
 Ergänzung des Wertpapierbereinigungsgesetzes vom 12. Juli 1951
 (Gesetz- und Verordnungsbl. für Berlin S. 530).
 
-
 ### § 79 Inkrafttreten
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ### Anlage 1 (§ 1 Abs. 1) Verzeichnis der Auslandsbonds
 

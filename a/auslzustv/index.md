@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1204
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 5 des Gesetzes über das Verwaltungsverfahren
 der Kriegsopferversorgung in der Fassung der Bekanntmachung vom 6. Mai
 1976 (BGBl. I S. 1169) verordnet der Bundesminister für Arbeit und
 Sozialordnung:
-
 
 ## § 1
 
@@ -97,7 +94,6 @@ Kriegsopferversorgung (Gesetz vom 31. März 1965 - BGBl. 1965 II S.
 Antragsteller oder Versorgungsberechtigte seinen Wohnsitz oder
 gewöhnlichen Aufenthalt nicht in Spanien hat.
 
-
 ## § 2
 
 Für die Versorgung mit Hilfsmitteln und die Erbringung von
@@ -106,7 +102,6 @@ in deren Zuständigkeitsbereich sich die in § 1 genannten
 Versorgungsämter befinden, für Versorgungsberechtigte im
 Zuständigkeitsbereich des Versorgungsamtes Ravensburg jedoch die
 Orthopädische Versorgungsstelle beim Versorgungsamt Stuttgart.
-
 
 ## § 3
 
@@ -117,7 +112,6 @@ den §§ 64 bis 64f des Bundesversorgungsgesetzes erbracht hat. Ist das
 Verfahren noch nicht abgeschlossen, bleibt von den in § 1 aufgeführten
 Versorgungsämtern das Versorgungsamt zuständig, bei dem der Antrag auf
 Versorgung eingegangen ist.
-
 
 ## § 4
 
@@ -135,7 +129,6 @@ ihrem Vater hat, vorübergehend zur Schul- oder Berufsausbildung im
 Inland, so ist während dieser Zeit das Versorgungsamt zuständig, in
 dessen Bezirk sich die Waise aufhält.
 
-
 ## § 5
 
 Hat eine Hinterbliebene ihren Wohnsitz zum Zwecke der Eheschließung im
@@ -144,17 +137,14 @@ des Bundesversorgungsgesetzes eine Zuständigkeit nach § 1 nur
 begründet, wenn zugleich der Wohnsitz versorgungsberechtigter Waisen
 in den gleichen Staat verlegt worden ist.
 
-
 ## § 6
 
 Für Personen, deren Aufenthalt im Ausland nur als vorübergehend
 anzusehen ist, bleibt das bisherige Versorgungsamt zuständig.
 
-
 ## § 7
 
 Diese Verordnung tritt am 1. Mai 1991 in Kraft.
-
 
 ## Schlußformel
 

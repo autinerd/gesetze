@@ -19,10 +19,7 @@ Fundstelle
 Geändert durch
 :   § 17 Satz 2 G v. 18. 3.1971 I 239
 
-
 ## Art 1 bis 4
-
-
 
 ## Art 5
 
@@ -62,10 +59,7 @@ g)  § 14 der Verordnung zur beschleunigten Förderung des Baues von
 
 enthaltenen Umsatzsteuerbefreiungen werden aufgehoben.
 
-
 ## Art 6
-
-
 
 ## Art 7
 
@@ -88,22 +82,17 @@ Dezember 1966 gegolten hat.
 Artikels 6 Nr. 1 sind anzuwenden auf Lieferungen und sonstige
 Leistungen, die nach dem 31. Dezember 1966 ausgeführt werden.
 
-
 ## Art 8 - Mineralölsteuergesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
 Bedingte Steuerschulden für Mineralöle erhöhen sich mit dem
 Inkrafttreten dieses Gesetzes auf den Betrag, der sich bei Anwendung
 der Steuersätze nach § 1 ergibt.
-
 
 ## § 3
 
@@ -153,15 +142,11 @@ zuständigen Zollstelle anzumelden. Die Steuer ist ohne Anforderung
 zwei Wochen nach der Anmeldung, für nicht ordnungsgemäß angemeldetes
 Mineralöl mit dem Ablauf der Anmeldefrist fällig.
 
-
 ## § 4
 
 -
 
-
 ## Art 9
-
-
 
 ## Art 10 - Berlin-Klausel
 
@@ -170,7 +155,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund des
 Einkommensteuergesetzes oder dieses Gesetzes erlassen werden, gelten
 im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
-
 
 ## Art 11 - Inkrafttreten
 

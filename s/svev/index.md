@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.12.2012 I 2714
 
-
 ## § 1 Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
 
 (1) Dem Arbeitsentgelt sind nicht zuzurechnen:
@@ -134,7 +133,6 @@ Nachtarbeit dem Arbeitsentgelt zuzurechnen; dies gilt in der
 Unfallversicherung nicht für Erwerbseinkommen, das bei einer
 Hinterbliebenenrente zu berücksichtigen ist.
 
-
 ## § 2 Verpflegung, Unterkunft und Wohnung als Sachbezug
 
 (1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung
@@ -240,7 +238,6 @@ auf 2 Dezimalstellen durchgeführt; die zweite Dezimalstelle wird um 1
 erhöht, wenn sich in der dritten Dezimalstelle eine der Zahlen 5 bis 9
 ergibt.
 
-
 ## § 3 Sonstige Sachbezüge
 
 (1) Werden Sachbezüge, die nicht von § 2 erfasst werden, unentgeltlich
@@ -277,7 +274,6 @@ in der Unfallverhütung und im Arbeitsschutz erhält. Die mit einem
 Durchschnittswert angesetzten Sachbezüge, die in einem Kalenderjahr
 gewährt werden, sind insgesamt dem letzten Entgeltabrechnungszeitraum
 in diesem Kalenderjahr zuzuordnen.
-
 
 ## § 4 (weggefallen)
 

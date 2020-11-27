@@ -17,7 +17,6 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Art 1
 
 Dem in New York am 18. Februar 1994 von der Bundesrepublik Deutschland
@@ -25,14 +24,12 @@ unterzeichneten Internationalen Kakao-Übereinkommen von 1993 wird
 zugestimmt. Das Übereinkommen wird nachstehend mit einer amtlichen
 deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, Verlängerungen der Geltungsdauer
 des Übereinkommens auf Grund eines Beschlusses des Internationalen
 Kakaorates nach Artikel 61 Abs. 3 des Übereinkommens durch
 Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 3
 

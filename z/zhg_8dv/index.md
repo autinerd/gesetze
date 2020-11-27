@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1952, Nr 246
 
-
 ## Eingangsformel
 
 Auf Grund des § 17 des Gesetzes über die Ausübung der Zahnheilkunde
 vom 31. März 1952 (Bundesgesetzbl. I S. 221) wird im Einvernehmen mit
 dem Bundesminister für Arbeit und mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1
 
@@ -53,10 +51,6 @@ abzuhaltenden Fortbildungskurse werden durchgeführt:
 
 *    *   im Land Berlin durch das Lehrinstitut in Berlin.
 
-
-
-
-
 ## § 2
 
 Für die Fortbildungskurse sind in jedem Land ein oder mehrere
@@ -65,7 +59,6 @@ Mitglieder der Lehrkörper werden von den für das Gesundheitswesen
 zuständigen obersten Landesbehörden berufen. Je ein Mitglied des
 Lehrkörpers ist zum Vorsitzenden und zu dessen Stellvertreter zu
 bestellen.
-
 
 ## § 3
 
@@ -76,7 +69,6 @@ Einvernehmen mit den Lehrinstituten bestimmt.
 (2) An einem Fortbildungskursus sollen höchstens 100 Dentisten
 teilnehmen.
 
-
 ## § 4
 
 (1) Die Anmeldung zur Teilnahme an dem Fortbildungskursus ist an das
@@ -86,7 +78,6 @@ Entscheidung der für das Gesundheitswesen zuständigen obersten Behörde
 des Landes herbeizuführen, in dem der Dentist seinen Wohnsitz hat.
 
 (2) Das Lehrinstitut teilt dem Dentisten Ort und Zeit des Kursus mit.
-
 
 ## § 5
 
@@ -105,7 +96,6 @@ Die Fortbildungskurse erstrecken sich auf folgende Stoffgebiete:
 
 Sie sollen nach dem Themenplan der Anlage 1 durchgeführt werden.
 
-
 ## § 6
 
 (1) Wenn der Dentist die in dem Themenplan enthaltenen Vorlesungen
@@ -123,7 +113,6 @@ an den bereits vollständig gehörten Vorlesungen über Mund- und
 Kieferkrankheiten, zahnärztliche Chirurgie oder Arzneimittellehre
 nochmals teilzunehmen.
 
-
 ## § 7
 
 (1) Für die Teilnahme an einem Fortbildungskursus wird von dem Verband
@@ -135,7 +124,6 @@ Deutscher Dentisten festgesetzt.
 
 (3) Bei wiederholter Teilnahme an einem vollen Fortbildungskursus ist
 die Gebühr nochmals zu entrichten.
-
 
 ## § 8
 
@@ -180,16 +168,13 @@ in dem er seinen Wohnsitz hat.
 Sie gilt mit Wirkung von dem Tag, an dem der Fortbildungskursus
 erfolgreich beendet wurde.
 
-
 ## § 9
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1
 
@@ -788,9 +773,6 @@ Fundstelle des Originaltextes: BAnz 1952, Nr. 246, Seite 1 - 2
 
     *
 
-
-
-
 ## Anlage 2 Muster 1
 
    (Fundstelle des Originaltextes: BAnz. 1952, Nr. 246, S 2)
@@ -831,7 +813,6 @@ Der Vorsitzende des Lehrkörpers
 Diese Bescheinigung berechtigt nicht zur Ausübung der Zahnheilkunde
 unter
 der Bezeichnung "Zahnarzt" oder "Zahnärztin".
-
 
 ## Anlage 3 Muster 2
 

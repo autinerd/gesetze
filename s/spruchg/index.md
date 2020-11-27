@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 31 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die
@@ -51,10 +50,6 @@ Bestimmung
 
 6.  der Zuzahlung an Mitglieder bei der Gründung einer Europäischen
     Genossenschaft (§ 7 des SCE-Ausführungsgesetzes).
-
-
-
-
 
 ## § 2 Zuständigkeit
 
@@ -103,7 +98,6 @@ an Stelle der Kammer entscheiden.
 
 (4) (weggefallen)
 
-
 ## § 3 Antragsberechtigung
 
 Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
@@ -131,7 +125,6 @@ In den Fällen der Nummern 1, 3, 4 und 5 ist die Antragsberechtigung
 nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung
 Anteilsinhaber ist. Die Stellung als Aktionär ist dem Gericht
 ausschließlich durch Urkunden nachzuweisen.
-
 
 ## § 4 Antragsfrist und Antragsbegründung
 
@@ -203,7 +196,6 @@ Gericht gewahrt.
 Aus der Antragsbegründung soll sich außerdem die Zahl der von dem
 Antragsteller gehaltenen Anteile ergeben.
 
-
 ## § 5 Antragsgegner
 
 Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1
@@ -231,7 +223,6 @@ ist in den Fällen
 
 
 zu richten.
-
 
 ## § 6 Gemeinsamer Vertreter
 
@@ -270,7 +261,6 @@ Zwangsvollstreckung nach der Zivilprozessordnung statt.
 eines Antrags fortführen. Er steht in diesem Falle einem Antragsteller
 gleich.
 
-
 ## § 6a Gemeinsamer Vertreter bei Gründung einer SE
 
 Wird bei der Gründung einer SE durch Verschmelzung oder bei der
@@ -285,7 +275,6 @@ antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen
 Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und
 Abs. 2 gilt entsprechend.
 
-
 ## § 6b Gemeinsamer Vertreter bei Gründung einer Europäischen Genossenschaft
 
 Wird bei der Gründung einer Europäischen Genossenschaft durch
@@ -299,7 +288,6 @@ selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen
 einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6
 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
-
 ## § 6c Gemeinsamer Vertreter bei grenzüberschreitender Verschmelzung
 
 Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des
@@ -310,7 +298,6 @@ einer beteiligten Gesellschaft, die selbst nicht antragsberechtigt
 sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am
 Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt
 entsprechend.
-
 
 ## § 7 Vorbereitung der mündlichen Verhandlung
 
@@ -375,7 +362,6 @@ Absatz 3 und 7 ist § 35 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit entsprechend anzuwenden.
 
-
 ## § 8 Mündliche Verhandlung
 
 (1) Das Gericht soll aufgrund mündlicher Verhandlung entscheiden. Sie
@@ -396,7 +382,6 @@ anordnen.
 Verhandlung § 279 Abs. 2 und 3 und § 283 der Zivilprozessordnung
 gelten entsprechend.
 
-
 ## § 9 Verfahrensförderungspflicht
 
 (1) Jeder Beteiligte hat in der mündlichen Verhandlung und bei deren
@@ -415,7 +400,6 @@ die erforderliche Erkundigung noch einziehen können.
 (3) Rügen, welche die Zulässigkeit der Anträge betreffen, hat der
 Antragsgegner innerhalb der ihm nach § 7 Abs. 2 gesetzten Frist
 geltend zu machen.
-
 
 ## § 10 Verletzung der Verfahrensförderungspflicht
 
@@ -437,7 +421,6 @@ anzuwenden.
 (4) Verspätete Rügen, die die Zulässigkeit der Anträge betreffen und
 nicht von Amts wegen zu berücksichtigen sind, sind nur zuzulassen,
 wenn der Beteiligte die Verspätung genügend entschuldigt.
-
 
 ## § 11 Gerichtliche Entscheidung; Gütliche Einigung
 
@@ -463,7 +446,6 @@ geschlossenen Vergleichs durch Beschluss fest. § 164 der
 Zivilprozessordnung gilt entsprechend. Der Beschluss ist den
 Beteiligten zuzustellen.
 
-
 ## § 12 Beschwerde
 
 (1) Gegen die Entscheidung nach § 11 findet die Beschwerde statt. Die
@@ -477,14 +459,12 @@ einem der Oberlandesgerichte oder dem Obersten Landesgericht
 dient. Die Landesregierung kann die Ermächtigung auf die
 Landesjustizverwaltung übertragen.
 
-
 ## § 13 Wirkung der Entscheidung
 
 Die Entscheidung wird erst mit der Rechtskraft wirksam. Sie wirkt für
 und gegen alle, einschließlich derjenigen Anteilsinhaber, die bereits
 gegen die ursprünglich angebotene Barabfindung oder sonstige Abfindung
 aus dem betroffenen Rechtsträger ausgeschieden sind.
-
 
 ## § 14 Bekanntmachung der Entscheidung
 
@@ -516,7 +496,6 @@ Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
 
 
 bekannt zu machen.
-
 
 ## § 15 Kosten
 
@@ -550,7 +529,6 @@ oder zum Teil vom Antragsgegner zu erstatten sind, wenn dies unter
 Berücksichtigung des Ausgangs des Verfahrens der Billigkeit
 entspricht.
 
-
 ## § 16 Zuständigkeit bei Leistungsklage
 
 Für Klagen auf Leistung des Ausgleichs, der Zuzahlung oder der
@@ -558,7 +536,6 @@ Abfindung, die im Spruchverfahren bestimmt worden sind, ist das
 Gericht des ersten Rechtszuges und der gleiche Spruchkörper
 ausschließlich zuständig, der gemäß § 2 mit dem Verfahren zuletzt
 inhaltlich befasst war.
-
 
 ## § 17 Allgemeine Bestimmungen; Übergangsvorschrift
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 13 Abs. 25 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des § 172c Absatz 3 Satz 1 des Siebten Buches
@@ -27,7 +26,6 @@ Sozialgesetzbuch – Gesetzliche Unfallversicherung –, der durch Artikel
 ist, verordnet das Bundesministerium für Arbeit und Soziales im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz:
-
 
 ## § 1 Bildung der Altersrückstellungen
 
@@ -85,7 +83,6 @@ Rechtsverordnung festgelegt.
 (5) Die Zuführungen erfolgen jährlich auf Grundlage der
 Barwertberechnung nach den Absätzen 1, 3 und 4.
 
-
 ## § 2 Überprüfung
 
 Die Unfallversicherungsträger überprüfen regelmäßig, spätestens nach
@@ -95,7 +92,6 @@ und der jährlichen Zuführungen für die folgenden fünf Jahre. Eine
 ist der zuständigen Aufsichtsbehörde mitzuteilen; das zugrundeliegende
 Gutachten ist – außer in den Fällen des § 1 Absatz 2 – beizufügen.
 
-
 ## § 3 Altersrückstellungen für die ehemaligen Beschäftigten des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
 Für die ehemaligen Beschäftigten des Spitzenverbandes der
@@ -103,7 +99,6 @@ landwirtschaftlichen Sozialversicherung, für die Altersrückstellungen
 nach § 7 Absatz 5 des Gesetzes zur Errichtung der Sozialversicherung
 für Landwirtschaft, Forsten und Gartenbau zu bilden sind, sind die
 Vorschriften dieser Verordnung anzuwenden.
-
 
 ## § 4 Übergangsvorschriften zur Bildung der Altersrückstellungen
 
@@ -171,11 +166,9 @@ Dezember 2009 bereits bestanden hat, sind abweichend von § 1 Absatz 1
 und 5 in den Jahren 2010 und 2011 Zuführungen nach Absatz 3 Satz 2 und
 3 vorzunehmen.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.
-
 
 ## Schlussformel
 

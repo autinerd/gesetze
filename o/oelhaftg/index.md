@@ -20,16 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Zustimmung zu den Übereinkommen
-
-
 
 ### Art 1
 
@@ -49,10 +45,7 @@ Den folgenden Übereinkommen wird zugestimmt:
 
 Die Übereinkommen werden nachstehend veröffentlicht.
 
-
 ## Zweiter Teil - Vorschriften zur Ausführung des Internationalen Übereinkommens vom 29. November 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden
-
-
 
 ### Art 2
 
@@ -82,7 +75,6 @@ daß der Person Vorsatz oder grobe Fahrlässigkeit zur Last fällt.
 
 (6)
 
-
 ### Art 3
 
 (1) Der Eigentümer eines nicht in dem Schiffsregister eines
@@ -94,7 +86,6 @@ aufrechtzuerhalten, während der sich das Schiff im Geltungsbereich
 dieses Gesetzes befindet.
 
 (2) (weggefallen)
-
 
 ### Art 4
 
@@ -131,10 +122,6 @@ nähere Bestimmungen über
     mindestens 50 Deutsche Mark; sie darf im Einzelfall 4.000 Deutsche
     Mark nicht überschreiten.
 
-
-
-
-
 ### Art 5
 
 (1) Der Kapitän eines Seeschiffs ist verpflichtet, auf Fahrten, bei
@@ -158,7 +145,6 @@ Artikel VII Abs. 1 des Haftungsübereinkommens vorgeschriebene
 Versicherung oder sonstige finanzielle Sicherheit besteht, so ist das
 Schiffssicherheitszeugnis einzuziehen.
 
-
 ### Art 6
 
 (1) Dem Bund obliegen die Aufgaben nach Artikel 4 Abs. 2 und Artikel
@@ -175,10 +161,7 @@ Mai 1965 (Bundesgesetzbl. II S. 833),
 zuletzt geändert durch das Bundes-Immissionsschutzgesetz vom 15. März
 1974 (Bundesgesetzbl. I S. 721, 1193),              gilt entsprechend.
 
-
 ## Dritter Teil - Vorschriften zur Ausführung des Internationalen Übereinkommens vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden
-
-
 
 ### Art 7
 
@@ -226,7 +209,6 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 nähere Bestimmungen über die in Absatz 2 vorgesehenen Angaben, deren
 Form und die zu wahrenden Fristen.
 
-
 ### Art 8
 
 (1) "Assoziierte Personen" im Sinne von Artikel 10 Abs. 2 Buchstabe b
@@ -239,7 +221,6 @@ in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte
 Unternehmen sind, bestimmt sich nach dem sinngemäß anzuwendenden § 16
 des Aktiengesetzes.
 
-
 ### Art 9
 
 Beschlüsse der Versammlung des Fonds nach Artikel 4 Abs. 6 Satz 1,
@@ -250,10 +231,7 @@ einer Bekanntmachung nach Artikel 5 Abs. 4 Satz 1 sind auch
 Erklärungen der Vertragsstaaten nach Artikel 5 Abs. 4 Satz 2
 bekanntzugeben.
 
-
 ## Vierter Teil - Gemeinsame Vorschriften, Straf-, Bußgeld- und Schlußvorschriften
-
-
 
 ### Art 10
 
@@ -270,7 +248,6 @@ Für Streitigkeiten wegen der Ansprüche
 
 
 ist der Rechtsweg zu den ordentlichen Gerichten gegeben.
-
 
 ### Art 11
 
@@ -293,7 +270,6 @@ Ereignis zugetragen hat oder der Verschmutzungsschaden eingetreten ist
 oder Schutzmaßnahmen im Sinne von Artikel I Nr. 7 des
 Haftungsübereinkommens ergriffen oder angeordnet worden sind.
 
-
 ### Art 12
 
 (1) Wer als Eigentümer oder Kapitän eines Seeschiffs, für das der in
@@ -305,7 +281,6 @@ bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu einem Jahr oder Geldstrafe.
-
 
 ### Art 13
 
@@ -337,7 +312,6 @@ einer Geldbuße bis zu fünfzigtausend, in den Fällen des Absatzes 1 Nr.
 2 bis 4 mit einer Geldbuße bis zu zehntausend Deutsche Mark geahndet
 werden.
 
-
 ### Art 14
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -345,7 +319,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ### Art 15
 

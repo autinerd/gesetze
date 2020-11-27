@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 21.11.2011 I 2228
 
-
 ## § 1 Mißbräuchliche Anwendung von Fortpflanzungstechniken
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -88,7 +87,6 @@ Eizelle stammt.
 (4) In den Fällen des Absatzes 1 Nr. 6 und des Absatzes 2 ist der
 Versuch strafbar.
 
-
 ## § 2 Mißbräuchliche Verwendung menschlicher Embryonen
 
 (1) Wer einen extrakorporal erzeugten oder einer Frau vor Abschluß
@@ -103,7 +101,6 @@ Embryo extrakorporal weiterentwickelt.
 
 (3) Der Versuch ist strafbar.
 
-
 ## § 3 Verbotene Geschlechtswahl
 
 Wer es unternimmt, eine menschliche Eizelle mit einer Samenzelle
@@ -116,7 +113,6 @@ der Erkrankung an einer Muskeldystrophie vom Typ Duchenne oder einer
 bewahren, und die dem Kind drohende Erkrankung von der nach
 Landesrecht zuständigen Stelle als entsprechend schwerwiegend
 anerkannt worden ist.
-
 
 ## § 3a Präimplantationsdiagnostik; Verordnungsermächtigung
 
@@ -202,7 +198,6 @@ enthält auf der Grundlage der zentralen Dokumentation und
 anonymisierter Daten die Zahl der jährlich durchgeführten Maßnahmen
 sowie eine wissenschaftliche Auswertung.
 
-
 ## § 4 Eigenmächtige Befruchtung, eigenmächtige Embryoübertragung und künstliche Befruchtung nach dem Tode
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -225,7 +220,6 @@ bestraft, wer
 
 (2) Nicht bestraft wird im Fall des Absatzes 1 Nr. 3 die Frau, bei der
 die künstliche Befruchtung vorgenommen wird.
-
 
 ## § 5 Künstliche Veränderung menschlicher Keimbahnzellen
 
@@ -265,10 +259,6 @@ veränderter Erbinformation zur Befruchtung verwendet.
     mit denen eine Veränderung der Erbinformation von Keimbahnzellen nicht
     beabsichtigt ist.
 
-
-
-
-
 ## § 6 Klonen
 
 (1) Wer künstlich bewirkt, daß ein menschlicher Embryo mit der
@@ -280,7 +270,6 @@ Jahren oder mit Geldstrafe bestraft.
 auf eine Frau überträgt.
 
 (3) Der Versuch ist strafbar.
-
 
 ## § 7 Chimären- und Hybridbildung
 
@@ -322,10 +311,6 @@ bestraft.
 
 2.  einen menschlichen Embryo auf ein Tier zu übertragen.
 
-
-
-
-
 ## § 8 Begriffsbestimmung
 
 (1) Als Embryo im Sinne dieses Gesetzes gilt bereits die befruchtete,
@@ -346,7 +331,6 @@ Samenzellen des aus ihr hervorgegangenen Menschen führen, ferner die
 Eizelle vom Einbringen oder Eindringen der Samenzelle an bis zu der
 mit der Kernverschmelzung abgeschlossenen Befruchtung.
 
-
 ## § 9 Arztvorbehalt
 
 Nur ein Arzt darf vornehmen:
@@ -364,15 +348,10 @@ Nur ein Arzt darf vornehmen:
     Eizelle, in die bereits eine menschliche Samenzelle eingedrungen oder
     künstlich eingebracht worden ist.
 
-
-
-
-
 ## § 10 Freiwillige Mitwirkung
 
 Niemand ist verpflichtet, Maßnahmen der in § 9 bezeichneten Art
 vorzunehmen oder an ihnen mitzuwirken.
-
 
 ## § 11 Verstoß gegen den Arztvorbehalt
 
@@ -396,7 +375,6 @@ bestraft.
 künstliche Insemination bei sich vornimmt, und der Mann, dessen Samen
 zu einer künstlichen Insemination verwendet wird.
 
-
 ## § 12 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer, ohne Arzt zu sein, entgegen § 9
@@ -405,7 +383,6 @@ menschliche Eizelle konserviert.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
-
 
 ## § 13 Inkrafttreten
 

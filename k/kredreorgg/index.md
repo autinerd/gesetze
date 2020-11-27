@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 75 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Grundsätze von Sanierungs- und Reorganisationsverfahren
 
@@ -51,9 +49,7 @@ Finanzdienstleistungsaufsichtsgesetzes bleibt unberührt.
 (5) Die Befugnisse der Bundesanstalt nach anderen Gesetzen bleiben
 unberührt.
 
-
 ## Abschnitt 2 - Sanierungsverfahren
-
 
 ### § 2 Einleitung und Beantragung des Sanierungsverfahrens; Inhalt des Sanierungsplans
 
@@ -107,7 +103,6 @@ wurden. Die Bundesanstalt ist berechtigt, der Bundesanstalt für
 Finanzmarktstabilisierung die für die Entscheidung erforderlichen
 Informationen zur Verfügung zu stellen.
 
-
 ### § 3 Anordnung des Sanierungsverfahrens; Bestellung des Sanierungsberaters
 
 (1) Wenn der Antrag zulässig und der Sanierungsplan nicht
@@ -142,7 +137,6 @@ sich keine Abweichungen aus den Vorschriften dieses Gesetzes ergeben,
 die im ersten Rechtszug für das Verfahren vor den Landgerichten
 geltenden Vorschriften der Zivilprozessordnung mit Ausnahme der §§ 348
 bis 350 entsprechend anzuwenden.
-
 
 ### § 4 Rechtsstellung des Sanierungsberaters; Verordnungsermächtigung
 
@@ -201,7 +195,6 @@ Bundesministerium der Justiz wird ermächtigt, die Vergütung und die
 Erstattung der Auslagen des Sanierungsberaters durch Rechtsverordnung
 ohne Zustimmung des Bundesrates näher zu regeln.
 
-
 ### § 5 Gerichtliche Maßnahmen
 
 (1) Das Oberlandesgericht kann auf Vorschlag der Bundesanstalt, der zu
@@ -245,7 +238,6 @@ nachträglich Gelegenheit zur Stellungnahme. Das Oberlandesgericht
 Berücksichtigung der eingegangenen Stellungnahmen; besteht danach kein
 Grund für eine Abänderung, teilt es dies den Beteiligten formlos mit.
 
-
 ### § 6 Umsetzung des Sanierungsplans; Aufhebung des Sanierungsverfahrens
 
 (1) Der Sanierungsberater setzt den Sanierungsplan um. Er kann im
@@ -267,9 +259,7 @@ werden soll, verbindet es die Aufhebung des Sanierungsverfahrens mit
 der Entscheidung über den Antrag auf Durchführung des
 Reorganisationsverfahrens.
 
-
 ## Abschnitt 3 - Reorganisationsverfahren
-
 
 ### § 7 Einleitung, Beantragung und Anordnung des Reorganisationsverfahrens
 
@@ -308,7 +298,6 @@ entsprechend. Für Kreditinstitute, die in anderer Rechtsform als einer
 Aktiengesellschaft verfasst sind, gelten die folgenden Vorschriften
 sinngemäß.
 
-
 ### § 8 Inhalt des Reorganisationsplans
 
 (1) Der Reorganisationsplan besteht aus einem darstellenden und einem
@@ -336,7 +325,6 @@ diesem Gesetz vorgesehen ist.
 (3) Der Reorganisationsplan kann in die Rechte der Gläubiger und in
 die Stellung der Anteilsinhaber nach Maßgabe der §§ 9 bis 12
 eingreifen.
-
 
 ### § 9 Umwandlung von Forderungen in Eigenkapital
 
@@ -375,10 +363,6 @@ Lasten
     Personen oder sonstigen von ihnen mittelbar oder unmittelbar
     abhängigen Unternehmen.
 
-
-
-
-
 ### § 10 Sonstige gesellschaftsrechtliche Regelungen
 
 In dem gestaltenden Teil des Reorganisationsplans können alle nach dem
@@ -387,7 +371,6 @@ geeignet sind, die Reorganisation des Kreditinstituts zu fördern. Dies
 gilt insbesondere für Satzungsänderungen und die Übertragung von
 Anteils- und Mitgliedschaftsrechten des Kreditinstituts an anderen
 Gesellschaften. § 9 Absatz 1 Satz 4, Absatz 2 und 3 gilt entsprechend.
-
 
 ### § 11 Ausgliederung
 
@@ -435,7 +418,6 @@ vom Reorganisationsplan erfasst werden, bestimmen sich ausschließlich
 nach den Festlegungen dieses Plans. § 48h Absatz 2 des
 Kreditwesengesetzes gilt entsprechend.
 
-
 ### § 12 Eingriffe in Gläubigerrechte
 
 (1) Im gestaltenden Teil des Reorganisationsplans ist anzugeben, um
@@ -453,7 +435,6 @@ freiwillige Einlagensicherung abgedeckt sind.
 und von Versorgungsberechtigten auf betriebliche Altersversorgung ist
 ausgeschlossen.
 
-
 ### § 13 Beendigung von Schuldverhältnissen
 
 Schuldverhältnisse mit dem Kreditinstitut können ab dem Tag der
@@ -465,7 +446,6 @@ eintretender Beendigungstatbestände ist bis zu seinem Ablauf
 aufgeschoben. Abweichende Vereinbarungen sind unwirksam. Dies gilt
 nicht für Gläubiger von Forderungen aus Schuldverhältnissen nach § 12
 Absatz 2.
-
 
 ### § 14 Anmeldung von Forderungen
 
@@ -484,7 +464,6 @@ tritt.
 angemeldete Forderung mit den dort genannten Angaben in eine Tabelle
 einzutragen.
 
-
 ### § 15 Prüfung und Feststellung der Forderungen
 
 (1) Zur Feststellung des Stimmrechts werden im Abstimmungstermin die
@@ -500,7 +479,6 @@ Gläubiger nach Abschluss dieses Verfahrens nach, dass die Abstimmung
 zu seiner Besserstellung im Reorganisationsplan geführt hätte, so
 steht ihm gegen das Kreditinstitut ein Ausgleichsanspruch zu.
 
-
 ### § 16 Vorbereitung der Abstimmung über den Reorganisationsplan
 
 Ordnet das Oberlandesgericht die Durchführung des
@@ -515,7 +493,6 @@ Oberlandesgericht einen Termin für die Hauptversammlung der
 Anteilsinhaber zur Abstimmung nach § 18; dieser Termin soll vor dem
 Erörterungs- und Abstimmungstermin der Gläubiger nach Satz 1
 stattfinden.
-
 
 ### § 17 Abstimmung der Gläubiger
 
@@ -560,7 +537,6 @@ hierfür Dritter, insbesondere auch eigenen Personals, bedienen. Die
 von ihm nach § 184 Absatz 2 Satz 4 der Zivilprozessordnung gefertigten
 Vermerke hat er unverzüglich zu den Gerichtsakten zu reichen.
 
-
 ### § 18 Abstimmung der Anteilsinhaber
 
 (1) Die Anteilsinhaber stimmen gesondert im Rahmen einer
@@ -594,7 +570,6 @@ Landgericht, das für Klagen gegen die Bundesanstalt zuständig ist. §
 246a des Aktiengesetzes ist entsprechend anzuwenden mit der Maßgabe,
 dass der Antrag bei dem nach § 2 Absatz 3 Satz 2 zuständigen
 Oberlandesgericht durch den Reorganisationsberater zu stellen ist.
-
 
 ### § 19 Annahme des Reorganisationsplans
 
@@ -680,7 +655,6 @@ als erteilt, wenn
 ihre Zustimmung nach Absatz 4 ersetzt werden soll, über die
 Internetseite des Kreditinstituts.
 
-
 ### § 20 Gerichtliche Bestätigung des Reorganisationsplans
 
 (1) Nach der Annahme des Reorganisationsplans durch die Beteiligten
@@ -734,7 +708,6 @@ werden, so ist den Anteilsinhabern Gelegenheit zur Stellungnahme zu
 geben, die ihre ablehnende Stimmabgabe zur Niederschrift der
 Hauptversammlung haben festhalten lassen.
 
-
 ### § 21 Allgemeine Wirkungen des Reorganisationsplans; Eintragung ins Handelsregister
 
 (1) Mit der gerichtlichen Bestätigung des Reorganisationsplans treten
@@ -763,7 +736,6 @@ Amts wegen ein. Die im Reorganisationsplan enthaltenen
 eintragungspflichtigen gesellschaftsrechtlichen Maßnahmen sind, falls
 sie nicht offensichtlich nichtig sind, unverzüglich in das
 Handelsregister einzutragen.
-
 
 ### § 22 Aufhebung des Reorganisationsverfahrens; Überwachung der Planerfüllung
 
@@ -794,7 +766,6 @@ Reorganisationsplans auch nach Aufhebung des Reorganisationsverfahrens
 
 (3) Die Beschlüsse nach den Absätzen 1 und 2 sind im Bundesanzeiger
 und auf der Internetseite des Kreditinstituts bekannt zu machen.
-
 
 ### § 23 Schutz von Finanzsicherheiten sowie von Zahlungs- und Wertpapiersystemen
 

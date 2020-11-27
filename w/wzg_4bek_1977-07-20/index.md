@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 23.5.1991 I 1230
 
-
 ## (XXXX)
 
 
@@ -43,25 +42,18 @@ Zuletzt geändert durch
 3.  Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 21.
     November 1975 (BGBl. I S. 2911).
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
 -
 
-
 ## Anlage 2 Bezeichnungen und Kennzeichen der Europäischen Weltraumbehörde
 
 (Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
 Fundstelle: BGBl. I 1977, 1346)
-
 
 ## Anlage 3
 

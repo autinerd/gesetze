@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Nr. 5 G v. 22.12.2005 I 3686
 
-
 ## § 1 Grundsatz
 
 (1) Die Bundesanstalt für Arbeit (Bundesanstalt) gewährt Arbeitgebern
@@ -32,7 +31,6 @@ im Jahr 1985 für Arbeitnehmer, die vor dem Jahr 1928 geboren sind,
 im Jahr 1986 für Arbeitnehmer, die vor dem Jahr 1929 geboren sind,
 im Jahr 1987 für Arbeitnehmer, die vor dem Jahr 1930 geboren sind,
 im Jahr 1988 für Arbeitnehmer, die vor dem Jahr 1931 geboren sind.
-
 
 ## § 2 Anspruchsvoraussetzungen
 
@@ -125,7 +123,6 @@ werden.
 ausgeschiedene Arbeitnehmer Anpassungsgeld für entlassene Arbeitnehmer
 des Bergbaus erhält.
 
-
 ## § 3 Höhe des Zuschusses zu den Vorruhestandsleistungen
 
 (1) Der Zuschuß beträgt 35 vom Hundert der Aufwendungen für
@@ -189,7 +186,6 @@ der Anspruch auf Vorruhestandsleistungen für den Fall der
 Zahlungseinstellung durch den Arbeitgeber nicht auf Grund
 tarifvertraglicher Vereinbarung gesichert ist.
 
-
 ## § 4 Dynamisierung des Zuschusses
 
 Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils
@@ -200,7 +196,6 @@ Feststellung des aktuellen Rentenwerts nach dem Sechsten Buch
 Sozialgesetzbuch zugrunde liegt. Der Zuschuß wird höchstens um den
 Vomhundertsatz angehoben, um den der Arbeitgeber das Vorruhestandsgeld
 erhöht hat.
-
 
 ## § 5 Erlöschen und Unterbrechung des Anspruchs
 
@@ -229,7 +224,6 @@ drei Monaten wiederbesetzt oder der Arbeitgeber insgesamt für zwei
 Jahre die Voraussetzungen für den Anspruch auf einen Zuschuß zu den
 Aufwendungen für Vorruhestandsleistungen an den Arbeitnehmer erfüllt
 hat.
-
 
 ## § 6 Nebentätigkeit
 
@@ -263,7 +257,6 @@ Anwendung.
 entfällt der Anspruch auf Vorruhestandsgeld in Höhe des wegfallenden
 Zuschusses.
 
-
 ## § 7 Schutzvorschriften
 
 (1) Die Tatsache, daß ein Arbeitnehmer nach Vollendung des 58.
@@ -289,7 +282,6 @@ Mitwirkungspflichten des Arbeitnehmers ursächlich war.
 (3) Der Anspruch auf Vorruhestandsgeld kann wie der Anspruch auf
 Arbeitseinkommen gepfändet, verpfändet oder übertragen werden.
 
-
 ## § 8 Ausgleichskassen, gemeinsame Einrichtungen
 
 (1) Werden die Vorruhestandsleistungen auf Grund eines Tarifvertrags
@@ -301,7 +293,6 @@ Ausgleichskasse.
 
 (2) Für gemeinsame Einrichtungen der Tarifvertragsparteien gilt Absatz
 1 entsprechend.
-
 
 ## § 9 Insolvenzsicherung
 
@@ -344,7 +335,6 @@ Rentenversicherung zu erstatten, die sie nach Absatz 1 getragen hat.
 (4) Die §§ 141k und 141l des Arbeitsförderungsgesetzes gelten
 entsprechend.
 
-
 ## § 10 Mitwirkungspflichten des Arbeitnehmers, Erstattungspflicht des Arbeitnehmers
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse,
@@ -360,10 +350,6 @@ grobfahrlässig
 
 
 2.  der Mitteilungspflicht nach Absatz 1 nicht nachgekommen ist.
-
-
-
-
 
 ## § 11 Verfahren
 
@@ -383,7 +369,6 @@ für Arbeit und Sozialordnung anstelle der in Satz 1 vorgesehenen
 Anordnung der Bundesanstalt durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, das Nähere über das Verfahren
 bestimmen.
-
 
 ## § 12 Steuerliche Regelungen
 
@@ -412,7 +397,6 @@ Leistungsempfänger als Arbeitnehmer.
 Vorschrift bezeichneten Aufgaben erfüllen, von der Körperschaftsteuer,
 Gewerbesteuer und Vermögensteuer befreit.
 
-
 ## § 13 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -436,13 +420,11 @@ Gesetzes über Ordnungswidrigkeiten die zuständige Verwaltungsbehörde;
 diese ist auch ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes
 über Ordnungswidrigkeiten.
 
-
 ## § 14 Befristung der Regelung
 
 Für die Zeit ab 1. Januar 1989 ist dieses Gesetz nur noch anzuwenden,
 wenn die Voraussetzungen für den Anspruch erstmals vor diesem
 Zeitpunkt vorgelegen haben.
-
 
 ## § 15 Berlin-Klausel
 

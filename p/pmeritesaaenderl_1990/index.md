@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2259
 
-
-
 ## (XXXX)
 
 Das Ordenskapitel des Ordens Pour le merite für Wissenschaften und

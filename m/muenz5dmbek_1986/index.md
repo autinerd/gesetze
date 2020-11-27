@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 774
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -71,7 +69,6 @@ eingeprägt.
 
 (8) Der Entwurf der Münze stammt von Heinrich Körner, Esslingen.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

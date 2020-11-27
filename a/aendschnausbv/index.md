@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1292
 
-
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Änderungsschneider/Änderungsschneiderin wird
@@ -31,11 +29,9 @@ Der Ausbildungsberuf Änderungsschneider/Änderungsschneiderin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -48,7 +44,6 @@ die insbesondere selbstständiges Planen, Durchführen und Kontrollieren
 sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die
 in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den
 §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -93,10 +88,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 13. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen
@@ -107,12 +98,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -121,7 +110,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -153,7 +141,6 @@ der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel
 festlegen, Grundsätze der Kundenorientierung sowie Aspekte der
 Sicherheit und des Gesundheitsschutzes bei der Arbeit, des
 Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
-
 
 ## § 9 Gesellenprüfung/Abschlussprüfung
 
@@ -308,7 +295,6 @@ der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen
 mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich
 des schriftlichen Teils der Prüfung dürfen keine ungenügenden
 Leistungen erbracht worden sein.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin
 

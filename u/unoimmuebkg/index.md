@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1980, 941
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ von der Generalversammlung der Vereinten Nationen angenommenen
 Nationen wird zugestimmt. Das Übereinkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Die in Abschnitt 19 des Übereinkommens vorgesehenen Vorrechte und
@@ -40,7 +36,6 @@ Immunitäten gelten auch für den Vertreter des Hohen
 Flüchtlingskommissars der Vereinten Nationen in Deutschland, dessen
 Ständigen Vertreter sowie für deren Ehegatten und minderjährige
 Kinder.
-
 
 ## Art 3
 
@@ -78,11 +73,9 @@ einem Teilnehmer gesteuert wurde. Die Sätze 1 und 2 gelten auch für
 solche Teilnehmer, die im Geltungsbereich dieses Gesetzes ständig
 ansässig sind.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
@@ -90,7 +83,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 6
 

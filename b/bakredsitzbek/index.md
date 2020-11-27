@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1697
 
-
-
 ## (XXXX)
 
 Das Bundesministerium der Finanzen gibt gemäß § 9 Nr. 3 des Berlin

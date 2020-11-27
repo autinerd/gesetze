@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 414
 
-
 ## I.
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten
@@ -37,16 +36,11 @@ Geschäftsbereich widerruflich übertragen auf:
 
 3.  die Präsidentin oder den Präsidenten des Bundesfinanzhofs.
 
-
-
-
-
 ## II.
 
 Diese Anordnung tritt am ersten Tag des ersten auf die
 Veröffentlichung im Bundesgesetzblatt folgenden Kalendermonats in
 Kraft.
-
 
 ## Schlussformel
 

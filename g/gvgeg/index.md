@@ -18,21 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 5.12.2012 I 2418
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1
 
 (weggefallen)
 
-
 ### § 2
 
 Die Vorschriften des Gerichtsverfassungsgesetzes finden auf die
 ordentliche Gerichtsbarkeit und deren Ausübung Anwendung.
-
 
 ### § 3
 
@@ -51,11 +46,9 @@ ist, kann die Zuständigkeit der ordentlichen Landesgerichte durch die
 Landesgesetzgebung nach anderen als den durch das
 Gerichtsverfassungsgesetz vorgeschriebenen Normen bestimmt werden.
 
-
 ### § 4
 
 (weggefallen)
-
 
 ### § 4a
 
@@ -70,11 +63,9 @@ nach den Grenzen der Verwaltungsbezirke bestimmt.
 
 (2) (weggefallen)
 
-
 ### § 5
 
 -
-
 
 ### § 6
 
@@ -91,11 +82,9 @@ Inkrafttreten folgenden zwölften Kalendermonats beginnt.
 in der ordentlichen Gerichtsbarkeit sind erstmals auf die erste nach
 ihrem Inkrafttreten beginnende Amtsperiode anzuwenden.
 
-
 ### § 7
 
 -
-
 
 ### § 8
 
@@ -111,7 +100,6 @@ Betracht kommt, keine Anwendung, es sei denn, daß es sich im
 wesentlichen um Rechtsnormen handelt, die in den Landesgesetzen
 enthalten sind.
 
-
 ### § 9
 
 Durch die Gesetzgebung eines Landes, in dem mehrere Oberlandesgerichte
@@ -124,7 +112,6 @@ zugewiesen werden. Dem Obersten Landesgericht können auch die zur
 Zuständigkeit eines Oberlandesgerichts nach § 120 des
 Gerichtsverfassungsgesetzes gehörenden Entscheidungen zugewiesen
 werden.
-
 
 ### § 10
 
@@ -145,15 +132,11 @@ Grundbuchsachen und in Angelegenheiten der freiwilligen
 Gerichtsbarkeit nach den Vorschriften über die Oberlandesgerichte, im
 übrigen nach den Vorschriften über den Bundesgerichtshof.
 
-
 ### § 11
 
 (weggefallen)
 
-
 ## Zweiter Abschnitt - Verfahrensübergreifende Mitteilungen von Amts wegen
-
-
 
 ### § 12
 
@@ -183,7 +166,6 @@ Bundesrates allgemeine Verwaltungsvorschriften zu den nach diesem
 Abschnitt zulässigen Mitteilungen erlassen. Ermächtigungen zum Erlaß
 von Verwaltungsvorschriften über Mitteilungen in besonderen
 Rechtsvorschriften bleiben unberührt.
-
 
 ### § 13
 
@@ -242,7 +224,6 @@ Interessen des Betroffenen an dem Ausschluß der Übermittlung
 überwiegen. Übermittelte Daten dürfen auch für die Wahrnehmung der
 Aufgaben nach dem Sicherheitsüberprüfungsgesetz oder einem
 entsprechenden Landesgesetz verwendet werden.
-
 
 ### § 14
 
@@ -374,7 +355,6 @@ verursacht worden ist, und bei gefährlicher Körperverletzung. Im Falle
 der Einstellung des Verfahrens ist zu berücksichtigen, wie gesichert
 die zu übermittelnden Erkenntnisse sind.
 
-
 ### § 15
 
 In Zivilsachen einschließlich der Angelegenheiten der freiwilligen
@@ -393,10 +373,6 @@ erforderlich ist
     Urteils, eines Vergleichs oder eines dem Gericht mitgeteilten
     außergerichtlichen Vergleichs sind.
 
-
-
-
-
 ### § 16
 
 Werden personenbezogene Daten an ausländische öffentliche Stellen oder
@@ -410,10 +386,6 @@ auch zulässig
 2.  in Strafsachen gegen Mitglieder einer ausländischen konsularischen
     Vertretung zusätzlich an die Staats- oder Senatskanzlei des Landes, in
     dem die konsularische Vertretung ihren Sitz hat.
-
-
-
-
 
 ### § 16a
 
@@ -431,7 +403,6 @@ Kontaktstellen sicher.
 die Aufgaben der Kontaktstelle einer Landesbehörde zuzuweisen. Sie
 können die Befugnis zum Erlass einer Rechtsverordnung nach Absatz 1
 einer obersten Landesbehörde übertragen.
-
 
 ### § 17
 
@@ -458,7 +429,6 @@ Kenntnis der Daten aus der Sicht der übermittelnden Stelle
 
 erforderlich ist.
 
-
 ### § 18
 
 (1) Sind mit personenbezogenen Daten, die nach diesem Abschnitt
@@ -478,7 +448,6 @@ trifft sie angemessene Vorkehrungen, um sicherzustellen, daß die Daten
 unmittelbar den beim Empfänger funktionell zuständigen Bediensteten
 erreichen.
 
-
 ### § 19
 
 (1) Die übermittelten Daten dürfen nur zu dem Zweck verwendet werden,
@@ -493,7 +462,6 @@ zurück. Ist der Empfänger nicht zuständig und ist ihm die für die
 Verwendung der Daten zuständige Stelle bekannt, so leitet er die
 übermittelten Unterlagen dorthin weiter und benachrichtigt hiervon die
 übermittelnde Stelle.
-
 
 ### § 20
 
@@ -517,7 +485,6 @@ die Daten oder vermerkt ihre Unrichtigkeit in den Akten.
 wenn sie erkennbar weder zur Wahrung der schutzwürdigen Interessen des
 Betroffenen noch zur Erfüllung der Aufgaben des Empfängers
 erforderlich ist.
-
 
 ### § 21
 
@@ -575,7 +542,6 @@ soweit durch die Mitteilung der tatsächlichen und rechtlichen Gründe,
 auf die die Entscheidung gestützt wird, der mit der
 Auskunftsverweigerung verfolgte Zweck gefährdet würde.
 
-
 ### § 22
 
 (1) Ist die Rechtsgrundlage für die Übermittlung personenbezogener
@@ -600,10 +566,7 @@ bekanntzumachen. Die Verwendung der übermittelten Daten ist
 unzulässig, wenn die Rechtswidrigkeit der Übermittlung festgestellt
 worden ist.
 
-
 ## Dritter Abschnitt - Anfechtung von Justizverwaltungsakten
-
-
 
 ### § 23
 
@@ -625,7 +588,6 @@ abgelehnten oder unterlassenen Verwaltungsaktes begehrt werden.
 (3) Soweit die ordentlichen Gerichte bereits auf Grund anderer
 Vorschriften angerufen werden können, behält es hierbei sein Bewenden.
 
-
 ### § 24
 
 (1) Der Antrag auf gerichtliche Entscheidung ist nur zulässig, wenn
@@ -636,7 +598,6 @@ Ablehnung oder Unterlassung in seinen Rechten verletzt zu sein.
 oder einem anderen förmlichen Rechtsbehelf im Verwaltungsverfahren
 unterliegen, kann der Antrag auf gerichtliche Entscheidung erst nach
 vorausgegangenem Beschwerdeverfahren gestellt werden.
-
 
 ### § 25
 
@@ -651,7 +612,6 @@ dessen Bezirk die Beschwerdebehörde ihren Sitz hat.
 durch Gesetz die nach Absatz 1 zur Zuständigkeit des Zivilsenats oder
 des Strafsenats gehörenden Entscheidungen ausschließlich einem der
 Oberlandesgerichte oder dem Obersten Landesgericht zuweisen.
-
 
 ### § 26
 
@@ -677,7 +637,6 @@ Wiedereinsetzung auch ohne Antrag gewährt werden.
 auf Wiedereinsetzung unzulässig, außer wenn der Antrag vor Ablauf der
 Jahresfrist infolge höherer Gewalt unmöglich war.
 
-
 ### § 27
 
 (1) Ein Antrag auf gerichtliche Entscheidung kann auch gestellt
@@ -700,7 +659,6 @@ der Einlegung der Beschwerde oder seit der Stellung des Antrags auf
 Vornahme der Maßnahme zulässig, außer wenn die Antragstellung vor
 Ablauf der Jahresfrist infolge höherer Gewalt unmöglich war oder unter
 den besonderen Verhältnissen des Einzelfalles unterblieben ist.
-
 
 ### § 28
 
@@ -730,7 +688,6 @@ Grenzen des Ermessens überschritten sind oder von dem Ermessen in
 einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch
 gemacht ist.
 
-
 ### § 29
 
 (1) Gegen einen Beschluss des Oberlandesgerichts ist die
@@ -757,7 +714,6 @@ freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 (4) Auf die Bewilligung der Prozesskostenhilfe sind die Vorschriften
 der Zivilprozessordnung entsprechend anzuwenden.
 
-
 ### § 30
 
 (1) Für die Kosten des Verfahrens vor dem Oberlandesgericht gelten die
@@ -777,7 +733,6 @@ Die Entscheidung des Oberlandesgerichts kann nicht angefochten werden.
 (3) Der Geschäftswert bestimmt sich nach § 30 der Kostenordnung. Er
 wird von dem Oberlandesgericht durch unanfechtbaren Beschluß
 festgesetzt.
-
 
 ### § 30a
 
@@ -821,10 +776,7 @@ am 1. Juli 2004 geltenden Vorschriften weiter Anwendung, wenn die
 anzufechtende Entscheidung vor dem 1. Juli 2004 der Geschäftsstelle
 übermittelt worden ist.
 
-
 ## Vierter Abschnitt - Kontaktsperre
-
-
 
 ### § 31
 
@@ -849,7 +801,6 @@ Gefangene oder Gruppen von Gefangenen zu beschränken, wenn dies zur
 Abwehr der Gefahr ausreicht. Die Feststellung ist nach pflichtgemäßem
 Ermessen zu treffen.
 
-
 ### § 32
 
 Die Feststellung nach § 31 trifft die Landesregierung oder die von ihr
@@ -857,13 +808,11 @@ bestimmte oberste Landesbehörde. Ist es zur Abwendung der Gefahr
 geboten, die Verbindung in mehreren Ländern zu unterbrechen, so kann
 die Feststellung der Bundesminister der Justiz treffen.
 
-
 ### § 33
 
 Ist eine Feststellung nach § 31 erfolgt, so treffen die zuständigen
 Behörden der Länder die Maßnahmen, die zur Unterbrechung der
 Verbindung erforderlich sind.
-
 
 ### § 34
 
@@ -939,7 +888,6 @@ ergänzend folgendes:
 in dem der Gefangene Partei oder Beteiligter ist, wird unterbrochen;
 das Gericht kann einstweilige Maßnahmen treffen.
 
-
 ### § 34a
 
 (1) Dem Gefangenen ist auf seinen Antrag ein Rechtsanwalt als
@@ -987,7 +935,6 @@ gestattet. Für das Gespräch sind Vorrichtungen vorzusehen, die die
 sein Recht, die Beiordnung einer Kontaktperson zu beantragen, und über
 die übrigen Regelungen der Absätze 1 bis 5 zu belehren.
 
-
 ### § 35
 
 Die Feststellung nach § 31 verliert ihre Wirkung, wenn sie nicht
@@ -997,7 +944,6 @@ hat, ist ein Strafsenat des Oberlandesgerichts zuständig, in dessen
 Bezirk die Landesregierung ihren Sitz hat, für die Bestätigung einer
 Feststellung des Bundesministers der Justiz ein Strafsenat des
 Bundesgerichtshofes; § 25 Abs. 2 gilt entsprechend.
-
 
 ### § 36
 
@@ -1011,7 +957,6 @@ gilt § 35. War eine Feststellung nicht bestätigt, so kann eine erneute
 Feststellung nur getroffen werden, wenn neue Tatsachen es erfordern. §
 34 Abs. 3 Nr. 6 Satz 2 ist bei erneuten Feststellungen nicht mehr
 anwendbar.
-
 
 ### § 37
 
@@ -1030,13 +975,11 @@ gefährden würde. § 33a der Strafprozeßordnung gilt entsprechend.
 (4) Die Vorschriften des § 23 Abs. 2, des § 24 Abs. 1, des § 25 Abs. 2
 und der §§ 26 bis 30 gelten entsprechend.
 
-
 ### § 38
 
 Die Vorschriften der §§ 31 bis 37 gelten entsprechend, wenn eine
 Maßregel der Besserung und Sicherung vollzogen wird oder wenn ein
 Unterbringungsbefehl nach § 126a der Strafprozeßordnung besteht.
-
 
 ### § 38a
 
@@ -1068,18 +1011,11 @@ bezieht, die die Voraussetzungen des Satzes 1 Nr. 1 bis 3 erfüllt.
 (2) Das Gleiche gilt, wenn der Gefangene wegen einer solchen Straftat
 rechtskräftig verurteilt worden ist.
 
-
 ## Fünfter Abschnitt - Insolvenzstatistik
-
-
 
 ### § 39 (weggefallen)
 
-
-
 ## Sechster Abschnitt - Übergangsvorschriften
-
-
 
 ### § 40
 
@@ -1092,7 +1028,6 @@ Recht angewendet und dies in den Entscheidungsgründen ausdrücklich
 festgestellt hat, in der bis zum 31. August 2009 geltenden Fassung auf
 Berufungs- und Beschwerdeverfahren Anwendung, wenn die anzufechtende
 Entscheidung vor dem 1. September 2009 erlassen wurde.
-
 
 ### § 41
 

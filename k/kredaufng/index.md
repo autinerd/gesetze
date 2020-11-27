@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1952, 301
 
-
-
 ## § 1
 
 Der Bundesminister der Finanzen wird ermächtigt, einen Betrag bis zur
 Höhe von sechzehn Millionen neunhunderttausend US-Dollar im Wege des
 Kredits zu beschaffen.
-
 
 ## § 2
 

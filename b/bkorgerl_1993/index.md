@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 303
 
-
-
 ## (XXXX)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 524
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -28,7 +26,6 @@ Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember
 1981 (BGBl. I S. 1692):
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
 
@@ -64,14 +61,12 @@ Auszubildenden eingehalten werden können.
 Vermögen des Inhabers ein Konkurs- oder Vergleichsverfahren eröffnet
 ist.
 
-
 ## § 2 Mindestanforderungen an Gebäude und bauliche Anlagen
 
 In der Ausbildungsstätte sollen Räume vorhanden sein, deren Zahl,
 Größe und Einrichtung die Voraussetzungen bieten, um die für die
 Ausbildung notwendigen chemischen, physikalischen und
 mikrobiologischen Untersuchungen durchführen zu können.
-
 
 ## § 3 Ausnahmeregelung
 
@@ -80,7 +75,6 @@ in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden,
 wenn sichergestellt ist, daß eine erforderliche Ausbildungsmaßnahme
 außerhalb der Ausbildungsstätte oder in einer anderen anerkannten
 Ausbildungsstätte durchgeführt werden kann.
-
 
 ## § 4 Inkrafttreten
 

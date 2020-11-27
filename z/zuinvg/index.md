@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3b G v. 27.5.2010 I 671
 
-
 ## § 1 Förderziel und Fördervolumen
 
 (1) Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts
@@ -37,7 +36,6 @@ bis zum 31. Dezember 2009 abgerufen werden.
 eingesetzt werden. Die Länder sind aufgefordert, dafür Sorge zu
 tragen, dass auch finanzschwache Kommunen Zugang zu den Finanzhilfen
 erhalten.
-
 
 ## § 2 Verteilung
 
@@ -123,10 +121,6 @@ Prozentsätzen auf die Länder verteilt:
 
     *   3,1811.
 
-
-
-
-
 ## § 3 Förderbereiche
 
 (1) Die Finanzhilfen werden trägerneutral nach Maßgabe des Artikels
@@ -190,10 +184,7 @@ Verbindung mit § 2 ergebenden Betrages einsetzen.
 Investitionen gewährt. Die Zusätzlichkeit der geförderten Maßnahmen
 muss vorhabenbezogen gegeben sein.
 
-
 ## § 3a (weggefallen)
-
-
 
 ## § 4 Doppelförderung
 
@@ -213,7 +204,6 @@ sie in Zusammenhang mit den Maßnahmen nach § 3 Absatz 1 stehen.
 längerfristige Nutzung auch unter Berücksichtigung der absehbaren
 demografischen Veränderungen vorgesehen ist.
 
-
 ## § 5 Förderzeitraum
 
 Investitionen können gefördert werden, wenn sie am 27. Januar 2009
@@ -227,7 +217,6 @@ Finanzierung dieser Abschnitte bislang nicht gesichert ist. Im Jahr
 werden, die vor dem 31. Dezember 2010 begonnen wurden und bei denen im
 Jahr 2011 ein selbständiger Abschnitt des Investitionsvorhabens
 abgeschlossen wird.
-
 
 ## § 6 Förderquote und Bewirtschaftung
 
@@ -247,7 +236,6 @@ anteiligen Begleichung erforderlicher Zahlungen benötigt werden. Die
 Länder leiten die Finanzhilfen des Bundes unverzüglich an die
 Letztempfänger weiter.
 
-
 ## § 6a Prüfung durch den Bundesrechnungshof
 
 Der Bund kann in Einzelfällen weitergehende Nachweise verlangen und
@@ -258,7 +246,6 @@ Bundesrechnungshof prüft gemeinsam mit dem jeweiligen
 Landesrechnungshof im Sinne von § 93 der Bundeshaushaltsordnung, ob
 die Finanzhilfen zweckentsprechend verwendet wurden.Dazu kann er auch
 Erhebungen bei Ländern und Kommunen durchführen.
-
 
 ## § 7 Rückforderung
 
@@ -285,7 +272,6 @@ Entsprechendes gilt, wenn die Mittel abweichend von § 6 Absatz 2 Satz
 (2) Nach dem 31. Dezember 2011 dürfen Bundesmittel nicht mehr zur
 Auszahlung angeordnet werden. Der Rückforderungsanspruch nach Absatz 1
 bleibt unberührt.
-
 
 ## § 8 Verwaltungsvereinbarung
 

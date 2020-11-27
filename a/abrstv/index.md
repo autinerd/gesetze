@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2926
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 31 Abs. 2 des Scheckgesetzes in der im
@@ -25,12 +23,10 @@ bereinigten Fassung in Verbindung mit Artikel 129 Abs. 1 des
 Grundgesetzes für die Bundesrepublik Deutschland verordnet das
 Bundesministerium der Justiz:
 
-
 ## § 1
 
 Die Deutsche Bundesbank ist Abrechnungsstelle im Sinne des Artikels 31
 Abs. 1 des Scheckgesetzes.
-
 
 ## § 2
 
@@ -44,7 +40,6 @@ werden.
 Datenfernübertragung setzt voraus, dass der Abrechnungsstelle nach
 ihren Vorgaben ein elektronisches Bild des Schecks, das die Urkunde
 vollständig abbildet, übermittelt wird.
-
 
 ## § 3
 

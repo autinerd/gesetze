@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 28.8.2008 I 1830
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 14 des Projekt-Mechanismen-Gesetzes vom 22. September
 2005 (BGBl. I S. 2826) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -42,14 +39,12 @@ Projekttätigkeiten sind der Projektkategorie 2 zuzuordnen.
 (2) Für Amtshandlungen nach Absatz 1 Satz 1 werden Auslagen nach § 10
 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 2 Widerspruch
 
 Im Falle des Widerspruchs gegen eine Sachentscheidung der Behörde oder
 gegen deren Kostenentscheidung wird eine Gebühr nach Nummer 8 des
 Gebührenverzeichnisses erhoben, soweit der Widerspruch zurückgewiesen
 oder nach Beginn der sachlichen Bearbeitung zurückgenommen wird.
-
 
 ## § 3 Widerruf und Rücknahme einer Amtshandlung, Ablehnung und Zurücknahme von Anträgen
 
@@ -60,13 +55,11 @@ Antrags auf Vornahme einer Amtshandlung nach Beginn der sachlichen
 Bearbeitung werden Gebühren nach Maßgabe des § 15 des
 Verwaltungskostengesetzes erhoben.
 
-
 ## § 4 Inkrafttreten
 
 Für die bis zum 10. August 2007 entstandenen Gebühren für
 Amtshandlungen nach dem Projekt-Mechanismen-Gesetz gilt diese
 Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
-
 
 ## Anhang (zu § 1 Abs. 1) Gebührenverzeichnis
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 21.7.2012 I 1583
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Ziel des Gesetzes
 
@@ -41,7 +38,6 @@ Ausdruck bringen. Dies gilt auch für den dienstlichen Schriftverkehr.
 (3) Für Soldatinnen können Dienstgradbezeichnungen in weiblicher Form
 festgesetzt werden.
 
-
 ### § 2 Grundsätze
 
 (1) Alle Soldatinnen und Soldaten, insbesondere solche mit
@@ -55,7 +51,6 @@ Soldaten unterstehen.
 (2) Die Gleichstellung von Frauen und Männern ist als durchgängiges
 Leitprinzip in allen Aufgabenbereichen der Dienststellen und bei deren
 Zusammenarbeit zu berücksichtigen.
-
 
 ### § 3 Geltungsbereich
 
@@ -81,7 +76,6 @@ Einzelfall zur Gewährleistung der Sicherheit oder Einsatzbereitschaft
 der eingesetzten Truppen für nicht oder nur eingeschränkt anwendbar;
 in diesem Fall hat das Bundesministerium der Verteidigung den
 Deutschen Bundestag hierüber unverzüglich zu unterrichten.
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -138,10 +132,7 @@ Erreichung dieses Ziels angemessen und erforderlich.
 
 (7) (weggefallen)
 
-
 ## Abschnitt 2 - Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten
-
-
 
 ### § 5 Grundsatz, entsprechende Anwendung von Vorschriften
 
@@ -153,7 +144,6 @@ ist.
 bei Begründung eines Dienstverhältnisses und beim beruflichen Aufstieg
 findet § 12 des Soldatinnen- und Soldaten-Gleichbehandlungsgesetzes
 Anwendung.
-
 
 ### § 6 Personalwerbung, Dienstpostenbekanntgabe
 
@@ -172,7 +162,6 @@ Verwendungsbereiche, mindestens jedoch einen Hinweis auf den Zugang zu
 entsprechenden Informationen, enthalten. Dienstpostenbekanntgaben
 müssen mit den Anforderungen der zu besetzenden Dienstposten
 übereinstimmen.
-
 
 ### § 7 Annahmeverfahren
 
@@ -197,7 +186,6 @@ einer Schwangerschaft erstrecken.
 (3) Prüfkommissionen sollen zu gleichen Teilen mit Frauen und Männern
 besetzt sein.
 
-
 ### § 8 Auswahlentscheidungen beim beruflichen Aufstieg
 
 Sind Frauen in einzelnen Bereichen unterrepräsentiert, sind sie beim
@@ -208,7 +196,6 @@ Laufbahnwechsel und für förderliche Verwendungsentscheidungen. Etwas
 anderes gilt ausnahmsweise nur dann, wenn in der Person eines
 Mitbewerbers liegende Gründe überwiegen. § 7 Abs. 2 und 3 gilt
 entsprechend.
-
 
 ### § 9 Qualifikation, Benachteiligungsverbote
 
@@ -238,10 +225,6 @@ berücksichtigen:
     Lebenspartners oder der Lebenspartnerin, des Lebensgefährten oder der
     Lebensgefährtin.
 
-
-
-
-
 ### § 10 Aus-, Fort- und Weiterbildung
 
 (1) Die Dienststellen haben durch geeignete Maßnahmen die Aus-, Fort-
@@ -269,7 +252,6 @@ Fortbildungsangebote der Dienststelle sollen wahrgenommen werden.
 
 (4) Soldatinnen sind verstärkt als Leiterinnen und Referentinnen von
 Fortbildungsveranstaltungen einzusetzen.
-
 
 ### § 11 Gleichstellungsplan
 
@@ -310,10 +292,7 @@ worden sind, sind die Gründe im nächsten Gleichstellungsplan
 darzulegen und zusätzlich der vorgesetzten Dienststelle und der
 Fachaufsicht führenden Dienststelle mitzuteilen.
 
-
 ## Abschnitt 3 - Vereinbarkeit von Familie und Dienst für Soldatinnen und Soldaten
-
-
 
 ### § 12 Familiengerechte Arbeitszeiten und Rahmenbedingungen
 
@@ -321,7 +300,6 @@ Die Dienststelle hat Arbeitszeiten und sonstige Rahmenbedingungen
 anzubieten, die Soldatinnen und Soldaten die Vereinbarkeit von Familie
 und Dienst erleichtern, soweit wichtige dienstliche Gründe nicht
 entgegenstehen.
-
 
 ### § 13 Teilzeitbeschäftigung und familienbedingte Beurlaubung
 
@@ -340,7 +318,6 @@ Soldaten in Teilzeitbeschäftigung eine ihrer ermäßigten Arbeitszeit
 entsprechende Entlastung von ihren dienstlichen Aufgaben erhalten und
 sich daraus für die anderen Soldatinnen und Soldaten der Dienststelle
 keine unzumutbaren dienstlichen Mehrbelastungen ergeben.
-
 
 ### § 14 Wechsel zur Vollzeitbeschäftigung, beruflicher Wiedereinstieg
 
@@ -366,7 +343,6 @@ Beurlaubung aus familiären Gründen Personalgespräche zu führen, in
 denen sie über die Möglichkeiten ihrer Verwendung nach der Beurlaubung
 informiert werden.
 
-
 ### § 15 Benachteiligungsverbot bei Teilzeitbeschäftigung und familienbedingter Beurlaubung
 
 (1) Teilzeitbeschäftigung darf sich nicht nachteilig auf das
@@ -388,10 +364,7 @@ Absatz 2 befördert werden, wenn die Eignung für den höheren Dienstgrad
 vor der Beurlaubung nachgewiesen wurde und die übrigen
 laufbahnrechtlichen Voraussetzungen erfüllt sind.
 
-
 ## Abschnitt 4 - Gleichstellungsbeauftragte
-
-
 
 ### § 16 Wahl der Gleichstellungsbeauftragten und der Stellvertreterin
 
@@ -497,7 +470,6 @@ angefochten werden. Absatz 10 gilt entsprechend.
 die Durchführung der Wahl nach den Grundsätzen der Absätze 1 bis 5 und
 7 bis 11 durch Rechtsverordnung.
 
-
 ### § 17 Koordination, Stufenbeteiligung
 
 (1) Die Gleichstellungsbeauftragte für Soldatinnen und Soldaten im
@@ -516,7 +488,6 @@ Gleichstellungsbeauftragter vorzulegen.
 einschließlich des Bundesministeriums der Verteidigung
 Personalentscheidungen getroffen, ist an diesen Entscheidungen nur die
 Gleichstellungsbeauftragte dieser Dienststelle zu beteiligen.
-
 
 ### § 18 Rechtsstellung
 
@@ -567,7 +538,6 @@ Soldatinnen und Soldaten und anderer vertraulicher Angelegenheiten in
 der Dienststelle, auch über die Zeit ihrer Bestellung oder
 Beschäftigung hinaus, der Verschwiegenheitspflicht.
 
-
 ### § 19 Aufgaben
 
 (1) Die Gleichstellungsbeauftragte hat den Vollzug dieses Gesetzes in
@@ -607,7 +577,6 @@ zur Besetzung von Gremien nach Maßgabe des
 Bundesgremienbesetzungsgesetzes zu beteiligen, sofern in der
 Dienststelle keine besondere Organisationseinheit zur Gleichstellung
 von Soldatinnen und Soldaten eingerichtet ist.
-
 
 ### § 20 Information und Mitwirkung
 
@@ -650,7 +619,6 @@ Bundesdatenschutzgesetzes. Soweit eine Angelegenheit behandelt werden
 soll, die als Verschlusssache eingestuft ist, bedarf die
 Gleichstellungsbeauftragte des Einvernehmens der Dienststelle.
 
-
 ### § 21 Einspruchsrecht
 
 (1) Bei Verstößen der Dienststelle gegen dieses Gesetz oder gegen
@@ -678,7 +646,6 @@ Absatz 2 gilt entsprechend.
 Bundesministerium der Verteidigung einen Einspruch eingelegt, der
 nicht zur Abhilfe geführt hat, kann sie unmittelbar das gerichtliche
 Verfahren einleiten.
-
 
 ### § 22 Gerichtliches Verfahren
 
@@ -717,10 +684,7 @@ entsprechend.
 (3) Die Dienststelle trägt die der Gleichstellungsbeauftragten
 entstehenden Kosten.
 
-
 ## Abschnitt 5 - Statistische Angaben, Bericht
-
-
 
 ### § 23 Statistische Angaben
 
@@ -744,10 +708,6 @@ einzelnen Bereiche
 4.  nach den jeweiligen Beurteilungsterminen eine Auswertung der
     dienstlichen Beurteilung der Soldatinnen und Soldaten, bezogen auf
     Vollzeit- und Teilzeitbeschäftigung.
-
-
-
-
 
 ### § 24 Bericht
 

@@ -24,14 +24,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 17 G v. 3.4.2009 I 700
 
-
 ## I. Teil - Allgemeine Vorschriften
 
-
-
 ### (XXXX) §§ 1 und 2 (weggefallen)
-
-
 
 ### § 3 Bezirksschornsteinfegermeister
 
@@ -44,19 +39,13 @@ dem Handwerk an. Bei der Feuerstättenschau, bei der Bauabnahme und bei
 Tätigkeiten auf dem Gebiet des Immissionsschutzes sowie der
 rationellen Energieverwendung nimmt er öffentliche Aufgaben wahr.
 
-
 ## II. Teil - Voraussetzungen für die Berufsausübung
 
-
-
 ### Erster Abschnitt - Bewerbung und Bestellung
-
-
 
 #### § 4 (weggefallen)
 
 -
-
 
 #### § 5 Bestellung
 
@@ -72,21 +61,16 @@ Schornsteinfeger-Handwerksgesetzes entsprechend.
 Anzahl der zum Zeitpunkt des Inkrafttretens des Gesetzes bestehenden
 Bezirke.
 
-
 #### § 6 Reihenfolge der Bestellung
 
 Die Reihenfolge der Bestellung des Bezirksschornsteinfegermeisters
 richtet sich nach dem Rang der Eintragung in die Bewerberliste.
 
-
 #### § 7 (weggefallen)
 
 -
 
-
 ### Zweiter Abschnitt - Erlöschen der Bestellung
-
-
 
 #### § 8 Erlöschensgründe
 
@@ -106,16 +90,11 @@ Die Bestellung als Bezirksschornsteinfegermeister erlischt durch
 
 5.  Tod.
 
-
-
-
-
 #### § 9 Altersgrenze
 
 Bezirksschornsteinfegermeister erreichen mit Ablauf des
 Kalendervierteljahres, in dem sie das 65. Lebensjahr vollenden, die
 Altersgrenze für die Ausübung ihres Berufes.
-
 
 #### § 10 Versetzung in den Ruhestand
 
@@ -129,7 +108,6 @@ zuständige Verwaltungsbehörde verpflichtet, ein amtsärztliches
 Gutachten über seinen Gesundheitszustand vorzulegen, wenn Grund zu der
 Annahme besteht, daß die Voraussetzungen für die Versetzung in den
 Ruhestand gegeben sind.
-
 
 #### § 11 Rücknahme, Widerruf, Aufhebung
 
@@ -163,14 +141,9 @@ oder 2 haben keine aufschiebende Wirkung.
 (5) Auf Antrag des Bezirksschornsteinfegermeisters ist seine
 Bestellung aufzuheben.
 
-
 ## III. Teil - Ausübung des Berufes
 
-
-
 ### Erster Abschnitt - Pflichten und Aufgaben des Bezirksschornsteinfegermeisters
-
-
 
 #### § 12 Allgemeine Berufspflicht
 
@@ -194,7 +167,6 @@ Bezirksschornsteinfegermeister sind sie unbeschadet der Vorschrift des
 § 20 auf ihren Bezirk beschränkt. In Notfällen oder auf besondere
 Anordnung der zuständigen Behörde sind sie verpflichtet, auch
 außerhalb ihres Bezirks tätig zu werden.
-
 
 #### § 13 Aufgaben
 
@@ -326,11 +298,9 @@ durchgeführt werden, wenn sie die in den §§ 7 bis 9 der EU/EWR-
 Handwerk-Verordnung vom 20. Dezember 2007 (BGBl. I S. 3075) bestimmten
 Voraussetzungen erfüllen.
 
-
 #### § 14 (weggefallen)
 
 -
-
 
 #### § 15 Gesellen
 
@@ -345,7 +315,6 @@ Bezirksschornsteinfegermeister übertragenen Aufgaben gefährdet sind.
 
 (3) Geselle ist, wer die Gesellenprüfung im Schornsteinfegerhandwerk
 bestanden hat.
-
 
 #### § 16 Lehrlinge
 
@@ -371,10 +340,7 @@ Verwaltungsbehörde nach den für sie geltenden Vorschriften der
 Verwaltungsvollstreckung beigetrieben; der Schuldner ist vorher zu
 hören.
 
-
 #### (XXXX) §§ 17 bis 19 (weggefallen)
-
-
 
 #### § 20 Vertretung
 
@@ -390,23 +356,15 @@ Bezirksschornsteinfegermeister obliegenden Aufgaben unter eigener
 Verantwortung auf dessen Rechnung aus. Die Kosten der Vertretung oder
 Stellvertretung trägt der Bezirksschornsteinfegermeister.
 
-
 #### § 21 (weggefallen)
 
 -
 
-
 ### Zweiter Abschnitt - Kehrbezirk
-
-
 
 #### (XXXX) §§ 22 und 23 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Kehr- und Überprüfungsgebühren
-
-
 
 #### § 24 Gebührenordnung
 
@@ -424,7 +382,6 @@ berücksichtigen.
 und Überprüfungsgebührenordnungen der Länder fort, die auf der
 Grundlage des § 24 in seiner vor dem Tag des Inkrafttretens dieses
 Gesetzes geltenden Fassung erlassen wurden.
-
 
 #### § 25 Einziehung der Gebühren
 
@@ -466,10 +423,7 @@ Zwangsvollstreckung erfolgt.
 der Rechtsverordnung nach § 24 Abs. 1 oder der Kehr- und
 Überprüfungsgebührenordnung und für die Auslagen als Gesamtschuldner.
 
-
 ### Vierter Abschnitt - Aufsicht
-
-
 
 #### § 26 Aufsichtsbehörde
 
@@ -489,7 +443,6 @@ Kehrbuchs erforderlichen Unterlagen verlangen. Sie kann verlangen,
 dass ihr ein Ausdruck des Kehrbuchs vorgelegt oder der Datenträger
 zugänglich gemacht wird oder die Daten elektronisch übermittelt
 werden.
-
 
 #### § 27 Aufsichtsmaßnahmen
 
@@ -526,7 +479,6 @@ Ist vor Ablauf dieser Frist wegen desselben Sachverhalts ein
 Strafverfahren eingeleitet worden, ist die Frist für die Dauer dieses
 Strafverfahrens gehemmt.
 
-
 #### § 28 Einstweilige Untersagung der Berufsausübung
 
 Schwebt gegen einen Bezirksschornsteinfegermeister ein
@@ -541,14 +493,9 @@ Stellvertreter zu bestellen. § 20 gilt entsprechend. Widerspruch und
 Anfechtungsklage gegen die einstweilige Berufsuntersagung haben keine
 aufschiebende Wirkung.
 
-
 ## IV. Teil - Zusatzversorgung im Schornsteinfegerhandwerk
 
-
-
 ### Erster Abschnitt - Versorgungsansprüche
-
-
 
 #### § 29 Ruhegeld
 
@@ -639,7 +586,6 @@ berücksichtigen, in dem sie wirksam werden; Veränderungen des
 Jahreshöchstbetrages, die nach dem 1. Januar 1977 bis zum 30. Juni
 1977 eingetreten sind, werden zum 1. Juli 1977 berücksichtigt.
 
-
 #### § 30 Jahreshöchstbetrag des Ruhegeldes
 
 (1) Der Jahreshöchstbetrag des Ruhegeldes beträgt 81 vom Hundert des
@@ -652,7 +598,6 @@ Bezahlungskomponenten, Jahressonderzahlungen und Einmalzahlungen.
 wenn der Jahreshöchstbetrag nach Absatz 1 mit dem Verhältnis aus dem
 jeweiligen aktuellen Rentenwert (Ost) und dem jeweiligen aktuellen
 Rentenwert der gesetzlichen Rentenversicherung vervielfältigt wird.
-
 
 #### § 31 Witwengeld und Witwergeld
 
@@ -717,7 +662,6 @@ Beamtenversorgungsgesetzes gelten entsprechend.
 Lebenspartnerschaften der in Absatz 1 Satz 1 genannten Personen
 erhalten entsprechend den Absätzen 1 bis 4 Witwergeld.
 
-
 #### § 32 Waisengeld
 
 (1) Die Kinder eines verstorbenen Bezirksschornsteinfegermeisters,
@@ -762,7 +706,6 @@ Rentenversicherung Waisenrente nicht gewährt wird.
 
 (4) § 29 Abs. 7 gilt für das Waisengeld entsprechend.
 
-
 #### § 33 Ruhen der Versorgungsleistungen, Vorleistung der Versorgungsanstalt
 
 (1) Der Anspruch auf Ruhe-, Witwen-, Witwer- und Waisengeld wird
@@ -784,7 +727,6 @@ erfolgen, wenn die Versorgungsanstalt an der Überzahlung kein
 Verschulden trifft. Der Rechtsübergang beschränkt sich auf den
 Anspruch, der dem Berechtigten für die Zeit zusteht, für die die
 Überzahlung erfolgte.
-
 
 #### § 33a Interne Teilung beim Versorgungsausgleich
 
@@ -828,10 +770,7 @@ Anspruchsregelungen, die dazugehörigen Satzungsbestimmungen und die §§
 des Monats, in dem sie verstorben ist. Für Hinterbliebene gelten die
 §§ 31 und 32 entsprechend.
 
-
 ### Zweiter Abschnitt - Versorgungsanstalt der deutschen Bezirksschornsteinfegermeister
-
-
 
 #### § 34 Träger der Zusatzversorgung
 
@@ -842,13 +781,11 @@ Versorgungsanstalt der deutschen Bezirksschornsteinfegermeister
 (2) Die Versorgungsanstalt ist eine bundesunmittelbare rechtsfähige
 Anstalt des öffentlichen Rechts.
 
-
 #### § 35 Mitgliedschaft
 
 Mitglied der Versorgungsanstalt ist jeder
 Bezirksschornsteinfegermeister und jeder Anspruchsberechtigte nach §
 29 Abs. 1.
-
 
 #### § 36 Organe
 
@@ -861,10 +798,6 @@ Die Organe der Versorgungsanstalt sind:
 
 
 3.  die Geschäftsführung.
-
-
-
-
 
 #### § 37 Vertreterversammlung
 
@@ -922,7 +855,6 @@ beschlossen werden.
 (6) Beschlüsse nach Absatz 3 Nr. 4 sind mit dem Genehmigungsvermerk
 der Aufsichtsbehörde bekanntzumachen.
 
-
 #### § 38 Vorstand und Geschäftsführung
 
 (1) Der Vorstand besteht aus zehn Mitgliedern einschließlich des
@@ -930,7 +862,6 @@ Vorsitzenden und des stellvertretenden Vorsitzenden. Für jedes
 Mitglied ist ein Stellvertreter zu wählen.
 
 (2) Die Geschäftsführung obliegt der Bayerischen Versorgungskammer.
-
 
 #### § 39 Satzung
 
@@ -999,7 +930,6 @@ Wirkung für bestehende Anwartschaften und laufende Versorgungsbezüge.
 Die Satzung und ihre Änderungen treten, wenn nichts anderes bestimmt
 wird, mit dem auf die Veröffentlichung folgenden Tag in Kraft.
 
-
 #### § 40 Geschäftsjahr, Rechnungs- und Kassenbücher
 
 (1) Das Geschäftsjahr ist das Kalenderjahr.
@@ -1007,7 +937,6 @@ wird, mit dem auf die Veröffentlichung folgenden Tag in Kraft.
 (2) Die Rechnungsbücher und die Kassenbücher sind jährlich
 abzuschließen. Die Jahresrechnung ist vom Vorstand zu prüfen und von
 der Vertreterversammlung abzunehmen.
-
 
 #### § 41 Härtefonds
 
@@ -1018,7 +947,6 @@ zugeführt werden.
 (2) Der Vorstand beschließt, in welchen Fällen zur Vermeidung von
 unbilligen Härten einem ehemaligen Bezirksschornsteinfegermeister oder
 seinen Hinterbliebenen Unterstützung gewährt wird.
-
 
 #### § 42 Aufsicht
 
@@ -1064,10 +992,7 @@ teilzunehmen; sie sind jederzeit zu hören.
 (5) Für die Anlage des Vermögens der Versorgungsanstalt gilt § 54 des
 Versicherungsaufsichtsgesetzes entsprechend.
 
-
 ### Dritter Abschnitt - Aufbringung der Mittel
-
-
 
 #### § 43 Beiträge
 
@@ -1084,10 +1009,7 @@ Zeitpunkt der Bestellung.
 Satzung kann bestimmt werden, daß die Beiträge bis zu drei Monaten im
 voraus zu zahlen sind.
 
-
 ### Vierter Abschnitt - Sonstige Vorschriften
-
-
 
 #### § 44 Wegfall der Voraussetzungen für die Versetzung in den Ruhestand
 
@@ -1104,7 +1026,6 @@ weggefallen sind.
 
 (3) Kommt ein Anspruchsberechtigter den Verpflichtungen nach Absatz 1
 oder 2 nicht fristgerecht nach, so ruht der Anspruch auf Ruhegeld.
-
 
 #### § 45 Mitteilungspflicht und Datenübermittlung
 
@@ -1125,7 +1046,6 @@ Bezirksschornsteinfegermeisters sowie Beginn und Ende der Bestellung.
 Gleiches gilt für den Namen und die Anschrift von Nutzungsberechtigten
 sowie den Beginn und das Ende der Nutzungszeit.
 
-
 #### § 46 Übertragung, Verpfändung und Aufrechnung von Versorgungsansprüchen
 
 Ansprüche auf Zusatzversorgung können weder an Dritte übertragen noch
@@ -1133,7 +1053,6 @@ verpfändet werden. Die Satzung kann Ausnahmen von dem Übertragungs-
 und Verpfändungsverbot vorsehen und die Aufrechnung von Beiträgen und
 sonstigen Ansprüchen aus dem Mitgliedschafts- und
 Versorgungsverhältnis gegen Versorgungsansprüche regeln.
-
 
 #### § 47 Übergang von Schadenersatzansprüchen
 
@@ -1149,7 +1068,6 @@ anderen gesetzlichen Bestimmungen auf Träger der Sozialversicherung
 übergeht. Der Übergang des Anspruchs kann nicht zum Nachteil des
 Verletzten oder seiner Hinterbliebenen geltend gemacht werden.
 
-
 #### § 48 Verjährung
 
 Ansprüche gegen die Versorgungsanstalt nach diesem Gesetz sowie die
@@ -1157,35 +1075,25 @@ Ansprüche der Versorgungsanstalt auf Beiträge, Zinsen und sonstige
 Nebenkosten verjähren in vier Jahren. Die Verjährung beginnt mit dem
 Schluß des Kalenderjahres, in dem die Zahlung verlangt werden kann.
 
-
 #### § 49 Rechtsweg
 
 Für alle Streitigkeiten, die Angelegenheiten der Zusatzversorgung im
 Schornsteinfegerhandwerk durch die Versorgungsanstalt betreffen, ist
 der Verwaltungsrechtsweg gegeben.
 
-
 ## V. Teil - Bußgeld-, Übergangs-, Schluß- und sonstige Vorschriften
 
-
-
 ### Erster Abschnitt - Bußgeldvorschriften
-
-
 
 #### § 50 (weggefallen)
 
 -
 
-
 #### § 51
 
 (aufgehoben)
 
-
 ### Zweiter Abschnitt - Zuständige Behörde
-
-
 
 #### § 52 Zuständige Behörde
 
@@ -1193,25 +1101,19 @@ Die Landesregierung oder die von ihr ermächtigte Stelle bestimmt durch
 Rechtsverordnung, welche Behörden für die nach diesem Gesetz zu
 treffenden Maßnahmen zuständig sind.
 
-
 #### § 53
 
 (aufgehoben)
 
-
 ### Dritter Abschnitt - Übergangsvorschriften
-
-
 
 #### § 54 (weggefallen)
 
 -
 
-
 #### § 55
 
 (gestrichen)
-
 
 #### § 56 Versorgungsanstalt
 
@@ -1299,7 +1201,6 @@ sie diesem Gesetz nicht widerspricht. Bis zum Inkrafttreten der neuen
 Satzung gelten der bisherige Verwaltungsrat als Vertreterversammlung
 und der bisherige Arbeitsausschuß als Vorstand der Versorgungsanstalt.
 
-
 #### § 56a Ruhegeld für Bezirksschornsteinfegermeister in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 (1) Für das Ruhegeld eines ehemaligen Bezirksschornsteinfegermeisters,
@@ -1356,7 +1257,6 @@ wenn der Jahreshöchstbetrag nach § 30 mit dem Verhältnis aus dem
 jeweiligen aktuellen Rentenwert (Ost) und dem jeweiligen aktuellen
 Rentenwert der gesetzlichen Rentenversicherung vervielfältigt wird.
 
-
 #### § 56b Beiträge
 
 Bei der Festsetzung der Höhe der Beiträge ist bis zur Herstellung
@@ -1369,7 +1269,6 @@ die auf das in Artikel 3 des Einigungsvertrages genannte Gebiet
 entfallen, nur die Einnahmen aus der Durchführung der Zusatzversorgung
 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet verwendet
 werden.
-
 
 #### § 56c Zusammensetzung der Selbstverwaltungsorgane
 
@@ -1403,7 +1302,6 @@ Vertreterversammlung gewählt.
 (4) Das Ergänzungsverfahren für die Vertreterversammlung ist bis zum
 31\. Oktober 1994 abzuschließen.
 
-
 #### § 56d Anwendungsbereich früherer Übergangsregelungen, Übergangsregelungen
 
 (1) § 56 ist in dem in Artikel 3 des Einigungsvertrages genannten
@@ -1426,7 +1324,6 @@ Waisengeld hatten, gilt § 32 Abs. 3 Satz 3 in der bis zum 31. Juli
 1\. Januar 2002 geschlossen wurde und mindestens ein Ehegatte vor dem
 2\. Januar 1962 geboren ist.
 
-
 #### § 57 Verfahrensrechtliche Übergangsbestimmungen
 
 (1) Für die vor dem Inkrafttreten dieses Gesetzes ergangenen
@@ -1439,15 +1336,11 @@ erhoben, so gelten für dieses Verfahren die bisherigen Vorschriften.
 Der Erhebung der Klage steht die Zustellung eines Zahlungsbefehls im
 Mahnverfahren gleich.
 
-
 ### Vierter Abschnitt - Schlußvorschriften
-
-
 
 #### § 58
 
 (gestrichen)
-
 
 #### § 59 Anwendung der Anlage I des Einigungsvertrages
 
@@ -1510,20 +1403,9 @@ des 31. Juli 1994 nicht mehr anzuwenden.
         bb) Überprüfung der Funktionsfähigkeit gewerblicher und privater Be- und
             Entlüftungsanlagen."
 
-
-
-
-
-
-
-
-
-
-
 #### § 60 (Inkrafttreten)
 
 -
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1000) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

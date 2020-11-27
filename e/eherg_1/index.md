@@ -18,67 +18,54 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 3.4.2009 I 700
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 -
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 -
 
-
 ## Art 5
 
 -
-
 
 ## Art 6
 
 -
 
-
 ## Art 7
 
 -
-
 
 ## Art 8
 
 -
 
-
 ## Art 9
 
 -
-
 
 ## Art 10
 
 -
 
-
 ## Art 11
 
 -
-
 
 ## Art 12 Übergangs- und Schlußvorschriften
 
@@ -166,16 +153,6 @@ beschlossen:
         9.  Artikel 12 Nr. 10, soweit die Vorschrift Verfahren nach § 44b des
             Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit
             betrifft.
-
-
-
-
-
-
-
-
-
-
 
 ## Schlußformel
 

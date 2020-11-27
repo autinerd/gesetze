@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1025
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
@@ -24,16 +23,13 @@ Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
 ## Teil 1 - Allgemeines
-
 
 ### § 1 Diplomstudium
 
 Das Diplomstudium „Wetterdienst“ an der Fachhochschule des Bundes für
 öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst
 für den gehobenen Wetterdienst des Bundes.
-
 
 ### § 2 Studienziele
 
@@ -47,7 +43,6 @@ Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und
 internationalen Raum. Die Studierenden sollen ihre Kompetenzen
 weiterentwickeln, um den sich ständig wandelnden Herausforderungen der
 Bundesverwaltung gerecht werden zu können.
-
 
 ### § 3 Dienstbehörden, Dienstaufsicht
 
@@ -80,7 +75,6 @@ unterstehen sie der Dienstaufsicht der Leitungen dieser Behörden.
 
 (4) Der Deutsche Wetterdienst leitet die Ausbildung.
 
-
 ### § 4 Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer neben den
@@ -102,13 +96,6 @@ allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
 
     b)  für eine militärische Laufbahn ein Eignungsfeststellungsverfahren
         erfolgreich absolviert hat.
-
-
-
-
-
-
-
 
 ### § 5 Auswahlverfahren
 
@@ -166,7 +153,6 @@ von vier Jahren. Wiederbestellung ist zulässig.
 diesem Fall ist sicherzustellen, dass in den Auswahlverfahren die
 gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
-
 ### § 6 Schwerbehinderte und diesen gleichgestellte Menschen
 
 (1) Schwerbehinderten und diesen gleichgestellten Menschen werden in
@@ -181,11 +167,9 @@ herabgesetzt werden.
 (2) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
 
-
 ### § 7 Urlaub
 
 Die Fachhochschule bestimmt die Zeiten des Erholungsurlaubs.
-
 
 ### § 8 Dauer des Vorbereitungsdienstes
 
@@ -199,7 +183,6 @@ Ausbildungsziels nicht gefährdet erscheint. Dabei können Abweichungen
 vom Studienplan oder vom Ausbildungsplan zugelassen werden, wenn sie
 der zielgerichteten Gestaltung des Vorbereitungsdienstes entsprechen.
 
-
 ### § 9 Ausbildungsakten
 
 Für die Studierenden werden beim Deutschen Wetterdienst
@@ -207,9 +190,7 @@ Ausbildungsakten geführt, in die der Ausbildungsplan, alle
 Leistungsnachweise, Aufsichtsarbeiten und Beurteilungen aufzunehmen
 sind.
 
-
 ## Teil 2 - Studium
-
 
 ### § 10 Aufbau des Studiums
 
@@ -285,7 +266,6 @@ sich nach dem Studienplan für das Diplomstudium „Wetterdienst“. Der
 Studienplan bestimmt auch die Stundenzahlen der Studieninhalte sowie
 die Art der Leistungsnachweise.
 
-
 ### § 11 Fachhochschule
 
 Die Dienstbehörden weisen die Aufstiegsbeamtinnen und Aufstiegsbeamten
@@ -293,7 +273,6 @@ dem Zentralbereich der Fachhochschule zum Grundstudium und dem
 Fachbereich Wetterdienst der Fachhochschule zum Hauptstudium zu. Für
 die übrigen Studierenden übernehmen die Einstellungsbehörden diese
 Aufgabe.
-
 
 ### § 12 Studieninhalte
 
@@ -361,10 +340,6 @@ die folgenden Studieninhalte ergänzt, erweitert und vertieft:
 
 6.  fachbezogenes Englisch.
 
-
-
-
-
 ### § 13 Praktika
 
 (1) Während der Praktika, die auch praxisbezogene Lehrveranstaltungen
@@ -393,7 +368,6 @@ zu Fähigkeiten, zum Entwicklungspotenzial und zur erbrachten Leistung
 der Studierenden enthalten. § 24 Absatz 1 und 3 gilt entsprechend. Die
 Beurteilungen sind mit den Studierenden zu besprechen.
 
-
 ### § 14 Ausbildungsstelle, Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
 (1) Jede Behörde oder Dienststelle, der Studierende zur Ausbildung
@@ -413,14 +387,12 @@ als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie
 von anderen Dienstgeschäften entlastet. Die Ausbildenden informieren
 die Ausbildungsleitung regelmäßig über den Ausbildungsstand.
 
-
 ### § 15 Leistungsnachweise während des Grundstudiums
 
 Während des Grundstudiums sind vier schriftliche Aufsichtsarbeiten
 anzufertigen, deren Aufgabenschwerpunkte jeweils einem der
 Studiengebiete nach § 12 Absatz 1 Nummer 1 bis 4 zugeordnet sind;
 Inhalte nach § 12 Absatz 1 Nummer 6 können berücksichtigt werden.
-
 
 ### § 16 Leistungsnachweise während des Hauptstudiums und der Praktika
 
@@ -481,9 +453,7 @@ Absatz 4 enthält. Das Zeugnis schließt mit der Angabe der
 Durchschnittsrangpunktzahl. Diese ist das arithmetische Mittel der
 Einzelbewertungen.
 
-
 ## Teil 3 - Prüfungen
-
 
 ### § 17 Zwischenprüfung
 
@@ -519,7 +489,6 @@ Bescheinigung über die erbrachten Studienleistungen, aus der
 hervorgeht, welche Studiengebiete belegt worden sind, wie sie bewertet
 worden sind und wie viele Rangpunkte erzielt worden sind.
 
-
 ### § 18 Laufbahnprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der
@@ -529,7 +498,6 @@ schriftlichen und einer mündlichen Diplomprüfung. Sie dient dazu, die
 Eignung und Befähigung der Studierenden für die Laufbahn des gehobenen
 naturwissenschaftlichen Dienstes des Bundes festzustellen.
 
-
 ### § 19 Prüfungsamt
 
 Für die Organisation und Durchführung der Diplomarbeit und der
@@ -537,7 +505,6 @@ schriftlichen und mündlichen Diplomprüfung richtet der Deutsche
 Wetterdienst ein Prüfungsamt ein. Das Bundesministerium für Verkehr,
 Bau und Stadtentwicklung kann die Aufgaben des Prüfungsamtes auch ganz
 oder teilweise auf andere Behörden übertragen.
-
 
 ### § 20 Prüfende, Prüfungskommissionen
 
@@ -596,7 +563,6 @@ Zweitprüfende oder Zweitprüfender ist.
 Diplomprüfung unabhängig voneinander. Die Zweitprüfenden dürfen
 Kenntnis von der Bewertung durch die Erstprüfenden haben.
 
-
 ### § 21 Diplomarbeit
 
 (1) In der Diplomarbeit sollen die Studierenden nachweisen, dass sie
@@ -632,7 +598,6 @@ und nur die angegebenen Quellen und Hilfsmittel benutzt haben.
 Rangpunkten bewertet worden ist. Über die in der Diplomarbeit
 abschließend erzielte Rangpunktzahl stellt das Prüfungsamt den
 Studierenden ein Zeugnis aus.
-
 
 ### § 22 Schriftliche Diplomprüfung
 
@@ -690,7 +655,6 @@ Zeit als Bearbeitungszeit.
 schriftliche Aufsichtsarbeiten mindestens mit fünf Rangpunkten
 bewertet worden sind.
 
-
 ### § 23 Mündliche Diplomprüfung
 
 (1) Wer die schriftliche Diplomprüfung bestanden hat, wird vom
@@ -740,7 +704,6 @@ Vorbereitungsdienstes abgeschlossen sein.
 
 (6) Die mündliche Diplomprüfung ist bestanden, wenn insgesamt die
 Durchschnittsrangpunktzahl 5 erreicht worden ist.
-
 
 ### § 24 Bewertung von Prüfungsleistungen und Leistungsnachweisen
 
@@ -887,7 +850,6 @@ die Bewertung vor. Das Ergebnis der mündlichen Prüfung ist in einer
 Durchschnittsrangpunktzahl auszudrücken. Diese ist das arithmetische
 Mittel der Rangpunkte, die in den Einzelprüfungen erzielt wurden.
 
-
 ### § 25 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der Diplomarbeit, der
@@ -911,7 +873,6 @@ während der Diplomarbeit mindestens die Hälfte der Bearbeitungszeit
 zur Verfügung steht, verlängert das Prüfungsamt die Bearbeitungszeit
 auf schriftlichen Antrag der oder des Studierenden entsprechend,
 ansonsten gilt die Diplomarbeit als nicht begonnen.
-
 
 ### § 26 Täuschung, Ordnungsverstoß
 
@@ -947,7 +908,6 @@ erklären.
 
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis
 4 anzuhören.
-
 
 ### § 27 Wiederholung von Prüfungen
 
@@ -989,7 +949,6 @@ Bewertung der Diplomarbeit verlängert. Absatz 1 Satz 3 gilt
 entsprechend.
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 28 Bestehen der Laufbahnprüfung
 
@@ -1033,7 +992,6 @@ arithmetische Mittel der Einzelbewertungen.
 Vorsitzende den Studierenden das Ergebnis mit und erläutert es auf
 Wunsch kurz.
 
-
 ### § 29 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
@@ -1063,7 +1021,6 @@ Studienleistungen, aus der hervorgeht, wie lange die Ausbildung
 dauerte, welche Inhalte sie umfasste und wie viele Rangpunkte erzielt
 wurden.
 
-
 ### § 30 Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen nach § 17 Absatz 2 Satz 1 und
@@ -1079,9 +1036,7 @@ aufbewahrt.
 (2) Die Studierenden können nach Abschluss der Laufbahnprüfung
 Einsicht in ihre Prüfungsakten nehmen.
 
-
 ## Teil 4 - Sonstige Vorschriften
-
 
 ### § 31 Übergangsvorschriften
 
@@ -1093,7 +1048,6 @@ Beratungsdienst der Bundeswehr vom 19. Februar 2002 (BGBl. I S. 983),
 die zuletzt durch Artikel 3 Absatz 17 der Verordnung vom 12. Februar
 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 
-
 ### § 32 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -1103,7 +1057,6 @@ Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der
 Bundeswehr vom 19. Februar 2002 (BGBl. I S. 983), die zuletzt durch
 Artikel 3 Absatz 17 der Verordnung vom 12. Februar 2009 (BGBl. I S.
 320) geändert worden ist, außer Kraft.
-
 
 ### Anlage (zu § 29 Absatz 1 Satz 2)
 

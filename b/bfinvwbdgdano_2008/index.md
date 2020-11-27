@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 482
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2, des § 42 Abs. 1 sowie des
 § 84 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510)
 wird angeordnet:
-
 
 ## I.
 
@@ -65,17 +63,12 @@ dem Bundesminister der Finanzen
 11. die Leiterin/der Leiter des Beschaffungsamtes der
     Bundeszollverwaltung.
 
-
-
-
-
 ## II.
 
 Die Befugnis zur Festsetzung der Kürzung von Dienstbezügen nach § 33
 Abs. 3 Nr. 1 des Bundesdisziplinargesetzes wird gemäß § 33 Abs. 5 des
 Bundesdisziplinargesetzes auf die in Abschnitt I Nr. 1 bis 8 genannten
 Dienstvorgesetzten übertragen.
-
 
 ## III.
 
@@ -88,7 +81,6 @@ die seitens der Beamtinnen/der Beamten der Besoldungsgruppen A 2 bis A
 13 g in disziplinarrechtlichen Angelegenheiten erhoben werden, für die
 gerichtliche Vertretung des Dienstherrn zuständig.
 
-
 ## IV.
 
 Hinsichtlich der Zuständigkeit zum Erlass von Widerspruchsbescheiden
@@ -98,7 +90,6 @@ Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die
 Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im
 Geschäftsbereich des Bundesministeriums der Finanzen vom 5. Februar
 2008 (BGBl. I S. 253).
-
 
 ## V.
 
@@ -113,11 +104,9 @@ Bundesfinanzdirektion, in deren Bezirk die Ruhestandsbeamtin/der
 Ruhestandsbeamte ihren/seinen letzten Wohnsitz hatte, die
 Disziplinarbefugnisse aus.
 
-
 ## VI.
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
-
 
 ## Schlussformel
 

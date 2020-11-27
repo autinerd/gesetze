@@ -24,7 +24,6 @@ Fundstelle
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Absatz 2 in Verbindung mit Absatz 3, des § 5 Absatz
@@ -32,7 +31,6 @@ Auf Grund des § 5 Absatz 2 in Verbindung mit Absatz 3, des § 5 Absatz
 Absatz 1 und 2 des Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54,
 136) verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -228,10 +226,6 @@ Im Sinne dieser Verordnung sind:
 27. gewerbsmäßig: Tätigkeit im Rahmen eines Gewerbes oder zu sonstigen
     Erwerbszwecken.
 
-
-
-
-
 ## § 2 Geltungsbereich
 
 (1) Diese Verordnung gilt für das Inverkehrbringen von Düngemitteln,
@@ -250,7 +244,6 @@ Anteilseigner oder alleinigem Gesellschafter beherrscht werden, und
 beim Abgeben dieser Stoffe zwischen einem oder mehreren Landwirten und
 einer juristischen Person, die von diesem Landwirt als alleinigem
 Anteilseigner oder alleinigem Gesellschafter beherrscht wird.
-
 
 ## § 3 Zulassung von Düngemitteltypen
 
@@ -352,10 +345,6 @@ zugelassen, dass
     Rahmen der Hinweise zur sachgerechten Anwendung auf deren
     ausschließliche Verwendbarkeit auf forstlichen Standorten hingewiesen
     wird.
-
-
-
-
 
 ## § 4 Inverkehrbringen von Wirtschaftsdüngern, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 
@@ -581,7 +570,6 @@ treffen, insbesondere die Menge des Stoffes begrenzen, sowie das
 Inverkehrbringen und die Verwendung zu Versuchs- und Forschungszwecken
 untersagen.
 
-
 ## § 5 Anforderungen an die Seuchen- und Phytohygiene
 
 (1) Die Erfüllung der Anforderungen nach § 3 Absatz 1 Nummer 1 und
@@ -678,7 +666,6 @@ für nicht für den menschlichen Verzehr bestimmte tierische
 Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002
 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009,
 S. 1) erfahren haben.
-
 
 ## § 6 Anforderungen an die Kennzeichnung
 
@@ -1019,7 +1006,6 @@ insgesamt 200 Tonnen Frischmasse im Kalenderjahr nicht überschritten
 wird. Die für den Vollzug der Düngemittelverordnung zuständige Behörde
 kann Ausnahmen zulassen.
 
-
 ## § 7 Kennzeichnung bei EG-Düngemitteln
 
 Wer ein Düngemittel mit der Bezeichnung „EG-Düngemittel“ in den
@@ -1028,7 +1014,6 @@ den Anforderungen des Artikels 7 in Verbindung mit Artikel 10 und 11
 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des
 Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom
 21\.11.2003, S. 1) gekennzeichnet ist.
-
 
 ## § 8 Toleranzen
 
@@ -1108,7 +1093,6 @@ Anlage 2 Tabelle 8.3 Nummer 8.3.2 bis 8.3.10 dürfen die tatsächlichen
 Gehalte die gekennzeichneten Gehalte in unbestimmter Höhe
 unterschreiten.
 
-
 ## § 9 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe c des
@@ -1127,10 +1111,6 @@ Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 2.  entgegen § 7 nicht dafür sorgt, dass das Düngemittel in der dort
     genannten Weise gekennzeichnet ist.
-
-
-
-
 
 ## § 10 Übergangsvorschriften
 
@@ -1188,7 +1168,6 @@ Tabelle 7 Zeile 7.4.7 als Ausgangsstoff oder Anlage 2 Tabelle 8 Zeile
 Anwendungshilfsmittel entsprechen, verwendet werden, dürfen bis zum
 31\. Dezember 2016 in den Verkehr gebracht werden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -1196,11 +1175,9 @@ Gleichzeitig tritt die Düngemittelverordnung vom 16. Dezember 2008
 (BGBl. I S. 2524), die zuletzt durch Artikel 3 der Verordnung vom 23.
 April 2012 (BGBl. I S. 611) geändert worden ist, außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Nummer 11, § 3 Absatz 1, § 6 Absatz 3, § 8 Absatz 3 und 4) Definition von Düngemitteltypen
 
@@ -1340,8 +1317,6 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         zerfallen, soweit eine Umhüllung nach Nummer 2.3 diesem nicht
         entgegensteht. Der Zerfall wird mit einer geeigneten Analysemethode
         festgestellt.
-
-
 
 ## Abschnitt 1
 
@@ -3382,9 +3357,6 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Kennzeichnung um die Worte „Bei der Bemessung der Düngung auf den
         Schwefelbedarf achten“.
 
-
-
-
 ## Abschnitt 2
 
 **Vorgaben für mineralische Mehrnährstoffdünger**
@@ -3724,12 +3696,6 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         –   Kennzeichnung gemäß Anlage 2
             Tabelle 10.1.6.
 
-
-
-
-
-
-
 ## Abschnitt 3
 
 ## Vorgaben für organische und organisch-mineralische Düngemittel
@@ -3870,11 +3836,6 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         –   3 % K
             2                           O.
-
-
-
-
-
 
 ## Abschnitt 4
 
@@ -4153,9 +4114,6 @@ Spurennährstoffe enthalten
         Spurennährstoffe enthalten.
         Die Art des Ausgangsmaterials muss angegeben sein.
 
-
-
-
 ## Abschnitt 5
 
 Vorgaben für Düngemittel zur Düngung von Rasen und Zierpflanzen
@@ -4270,10 +4228,6 @@ werden.
         Anwendung wie folgt zu ergänzen: „Düngemittel in gebrauchsfertiger
         Lösung!“
 
-
-
-
-
 ## Anlage 2 (zu § 1 Nummer 11, § 3 Absatz 1 und 2, § 4 Absatz 1 und 2, § 6 Absatz 1, 2, 5, 6 und 7, § 8 Absatz 3 und 4, § 10) Tabellen
 
 (Fundstelle: BGBl. I 2012, 2512 - 2544)
@@ -4295,9 +4249,6 @@ werden.
     menschlichen Verzehr bestimmte tierische Nebenprodukte und zur
     Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische
     Nebenprodukte) (ABI. L 300 vom 14.11.2009, S. 1).
-
-
-
 
 ## Tabelle 1
 
@@ -4948,8 +4899,6 @@ werden.
         Ackerfutterflächen mit nichtwendender Bodenbearbeitung nach der
         Aufbringung, ausgenommen Maisanbauflächen.“
 
-
-
 ## Tabelle 2
 
 ## Nitrifikations- und Ureasehemmstoffe
@@ -5109,8 +5058,6 @@ werden.
 
     *   Acetylendiharnstoffstickstoff
 
-
-
 ## Tabelle 4
 
 ## Zulässige Phosphorverbindungen und Phosphatlöslichkeiten
@@ -5198,8 +5145,6 @@ Phosphatlöslichkeiten.
 *    *   4.2.11
 
     *   Gesamtphosphat (Methode: mineralsäurelösliches Phosphat)
-
-
 
 ## Tabelle 5
 
@@ -5388,8 +5333,6 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *
     *   andere Phosphatarten
-
-
 
 ## Tabelle 6
 
@@ -5942,8 +5885,6 @@ Anlage 1             .
 
     *   Ohne Zusatz von Ölen und Additiven.
         Mindestens 65 % Kalksteinanteil.
-
-
 
 ## Tabelle 7
 
@@ -6976,8 +6917,6 @@ Anlage 1             .
     *   Verwendung als Pflanzenhilfsmittel zur
         Färbung der Blütenblätter bei Hortensien.
 
-
-
 ## Tabelle 8
 
 ## Nebenbestandteile
@@ -7540,8 +7479,6 @@ Anlage 1             .
     *   Nur unvermeidbare Anteile im Rahmen der Herstellung von Stoffen nach §
         2 des Düngegesetzes.
         Für Schadstoffe siehe auch Maßgaben nach Tabelle 1.4.
-
-
 
 ## Tabelle 9
 

@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 18.6.1997 I 1430
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +33,6 @@ Deutschland unterzeichneten Wiener Fakultativ-Protokoll über
 Staatsangehörigkeitsfragen vom 18. April 1961 wird zugestimmt. Das
 Übereinkommen und die beiden Fakultativ-Protokolle werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -79,7 +76,6 @@ Entsprechendes gilt bei Anhaltspunkten für sonstige Verfehlungen, die
 im Widerspruch zu den einem Mitglied des Personals einer Mission
 obliegenden Pflichten stehen.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -87,7 +83,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

@@ -23,14 +23,12 @@ Gemeinschaften
 im Rahmen der Gemeinsamen Marktorganisationen und Handelsregelungen,
 insbesondere der EWGV 2823/87 und EWGV 2454/93.
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen
 Marktorganisationen in der Fassung der Bekanntmachung vom 27. August
 1986 (BGBl. I S. 1397) wird im Einvernehmen mit dem Bundesminister der
 Finanzen und dem Bundesminister für Wirtschaft verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -51,16 +49,13 @@ Handelsregelungen hinsichtlich der
 
 (Lizenzen) erlassen worden sind.
 
-
 ## § 2
 
 (weggefallen)
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4 Abschreibungen auf der Lizenz
 
@@ -70,7 +65,6 @@ Angaben kann der Beteiligte auch selbst auf der Lizenz eintragen. Bei
 einer nachträglich erteilten Lizenz nach den in § 1 genannten
 Rechtsakten nimmt das Hauptzollamt Hamburg-Jonas die Abschreibung und
 die Bestätigung auf der Lizenz vor.
-
 
 ## § 5 Freigabe der Sicherheit
 
@@ -105,11 +99,9 @@ Kürzung der Ausfuhrerstattung nach Artikel 50 Abs. 1 der Verordnung
 1 oder Artikel 40 Abs. 1 der Verordnung (EG) Nr. 800/1999 vorgenommen
 wurde, vollständig freigegeben.
 
-
 ## § 6 Inkrafttreten, Übergangsregelung
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

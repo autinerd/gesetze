@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 33 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
@@ -29,7 +28,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -80,7 +78,6 @@ können insbesondere folgende Aufgaben wahrgenommen werden:
 Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin
 für Versicherungen und Finanzen.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -109,7 +106,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -271,7 +267,6 @@ werden kann. Ausgangspunkt für das Fachgespräch ist das Thema der
 Präsentation nach Absatz 10. Das Fachgespräch soll nicht länger als
 zehn Minuten dauern.
 
-
 ## § 4 Prüfungsteil A nach § 3 Abs. 2
 
 (1) Im Handlungsbereich „Steuerung und Führung im Unternehmen“ soll
@@ -334,10 +329,6 @@ Befähigungen geprüft werden:
 
 4.  Verkaufskonzepte für Privatkunden zielgruppenorientiert entwickeln und
     umsetzen sowie Produktauswahl begründen.
-
-
-
-
 
 ## § 5 Prüfungsteil B nach § 3 Abs. 3
 
@@ -478,10 +469,6 @@ Qualifikationsschwerpunkt können folgende Befähigungen geprüft werden:
 
 4.  Empfehlungen zur Schadenverhütung und Schadenminderung entwickeln.
 
-
-
-
-
 ## § 6 Zusatzqualifikation
 
 (1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann nach
@@ -502,7 +489,6 @@ Abschluss Geprüfter Versicherungsfachwirt/Geprüfte
 Versicherungsfachwirtin erworben hat, kann ebenfalls von der
 Möglichkeit nach Absatz 1 Gebrauch machen.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -512,7 +498,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 8 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -562,7 +547,6 @@ und 3 auszustellen. Im Falle der Freistellung nach § 7 sind Ort und
 Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung des
 Prüfungsgremiums anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Ein Prüfungsteil, der nicht bestanden ist, kann zweimal wiederholt
@@ -576,7 +560,6 @@ Leistungen mindestens ausreichend sind. Der Antrag kann sich auch
 darauf richten, bestandene Prüfungsleistungen einmal zu wiederholen.
 Werden bestandene Prüfungsleistungen erneut geprüft, gilt in diesem
 Fall das Ergebnis der letzten Prüfung.
-
 
 ## § 10 Ausbildereignung
 
@@ -607,7 +590,6 @@ auszustellen, aus dem hervorgeht, dass die berufs- und
 arbeitspädagogischen Qualifikationen nach § 30 des
 Berufsbildungsgesetzes nachgewiesen wurden.
 
-
 ## § 11 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 31. August 2012 nach
@@ -620,11 +602,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 1. Februar 2010 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 5 Abs. 2, 4 und 5) Liste der produktbezogenen Qualifikationsschwerpunkte nach § 5 Abs. 2, 4 und 5
 
@@ -774,12 +754,6 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
         –   Zahlungsverkehr
 
-
-
-
-
-
-
 ## Anlage 2 (zu § 8 Abs. 6) Muster
 
 (Fundstelle: BGBl. I 2008, 1764;
@@ -788,8 +762,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -830,9 +802,6 @@ die durch Artikel 33 der Verordnung vom 25. August 2009 (BGBl. I S.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 3 (zu § 8 Abs. 6) Muster
 
 (Fundstelle: BGBl. I 2008, 1765 - 1766;
@@ -841,8 +810,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

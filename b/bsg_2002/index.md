@@ -17,14 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4010
 
-
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 2002 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,1 Prozent und in der
 knappschaftlichen Rentenversicherung 25,4 Prozent.
-
 
 ## § 2 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -122,7 +119,6 @@ Umrechnung kann auch durch eine Division der Barwerte,
 Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
 des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
 Beiträge maßgebend wäre.
-
 
 ## § 3 Zahlungen für Kindererziehungszeiten
 

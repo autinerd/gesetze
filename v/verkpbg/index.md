@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 9.12.2006 I 2833 (2007, 691)
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Geltungsdauer, Anwendungsbereich
 
@@ -64,7 +62,6 @@ Fernverkehrswege zwischen den in Absatz 1 Satz 1 genannten Ländern und
 den nächsten Knotenpunkten des Hauptfernverkehrsnetzes des übrigen
 Bundesgebietes im einzelnen.
 
-
 ## § 2 Linienbestimmung
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
@@ -83,7 +80,6 @@ Monaten verlängert werden.
 Umweltverträglichkeitsprüfung finden mit der Maßgabe Anwendung, daß
 die Einbeziehung der Öffentlichkeit im nachfolgenden
 Planfeststellungsverfahren stattfindet.
-
 
 ## § 3 Planfeststellungsverfahren
 
@@ -116,11 +112,9 @@ landesrechtlich durch ein Verwaltungsverfahrensgesetz geregelt ist.
 
 (7) (weggefallen)
 
-
 ## § 4
 
 -
-
 
 ## § 5 Verwaltungsgerichtsverfahren
 
@@ -147,16 +141,13 @@ Tatsachen, durch deren Berücksichtigung oder Nichtberücksichtigung im
 Verwaltungsverfahren er sich beschwert fühlt, anzugeben. § 87b Abs. 3
 der Verwaltungsgerichtsordnung gilt entsprechend.
 
-
 ## § 6
 
 (weggefallen)
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Vertreter des Eigentümers
 
@@ -169,7 +160,6 @@ Besitzeinweisung angeordnet werden soll, auf Antrag der
 Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung einen
 Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des
 Verwaltungsverfahrensgesetzes findet Anwendung.
-
 
 ## § 9 Enteignungsentschädigung, Enteignungsverfahren, gerichtliches Verfahren
 
@@ -188,7 +178,6 @@ der Enteignungsbehörde gelten die §§ 217 bis 231 in Verbindung mit §
 246a Abs. 1 Satz 1 Nr. 17 des Baugesetzbuchs entsprechend, soweit
 keine landesrechtlichen Regelungen bestehen.
 
-
 ## § 10
 
 (1) Die Anlegung und der Betrieb neuer Verkehrsflughäfen bedürfen
@@ -200,7 +189,6 @@ Planfeststellungsverfahrens ist eine Genehmigung nach § 6 Abs. 1 des
 Luftverkehrsgesetzes zu erteilen.
 
 (2) (weggefallen)
-
 
 ## § 11 Übergangsregelungen
 
@@ -223,10 +211,6 @@ begonnen
 
 
 3.  bei der Plangenehmigung mit dem Antrag auf Plangenehmigung.
-
-
-
-
 
 ## § 12 Inkrafttreten
 

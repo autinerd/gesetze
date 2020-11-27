@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1678
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Absatz 2 des Grundstoffüberwachungsgesetzes vom 11.
@@ -25,13 +24,11 @@ das Bundesministerium für Gesundheit im Einvernehmen mit dem
 Bundesministerium des Innern, dem Bundesministerium der Finanzen und
 dem Bundesministerium für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für
 seine Amtshandlungen auf dem Gebiet des Grundstoffverkehrs Kosten
 (Gebühren und Auslagen) nach dieser Verordnung.
-
 
 ## § 2 Erteilung einer Erlaubnis
 
@@ -46,7 +43,6 @@ Gemeinschaft und Drittländern (ABl. L 22 vom 26.1.2005, S. 1, L 61 vom
 2\.3.2006, S. 23) in ihrer jeweils geltenden Fassung wird je Grundstoff
 und je Betriebsstätte eine Gebühr in Höhe von 90 Euro erhoben.
 
-
 ## § 3 Neuerteilung einer Erlaubnis
 
 Für die Erteilung einer neuen Erlaubnis in den Fällen des Artikels 10
@@ -60,7 +56,6 @@ L 202 vom 3.8.2005, S. 7) in ihrer jeweils geltenden Fassung wird je
 Grundstoff und je Betriebsstätte eine Gebühr in Höhe von 85 Euro
 erhoben.
 
-
 ## § 4 Registrierung
 
 Für die Registrierung der Anschrift der Geschäftsräume sowie für die
@@ -68,7 +63,6 @@ Registrierung der Änderung der Anschrift nach Artikel 3 Absatz 6 Satz
 1 der Verordnung (EG) Nr. 273/2004 oder nach Artikel 7 Absatz 1 Satz 1
 der Verordnung (EG) Nr. 111/2005 wird je Betriebsstätte eine Gebühr in
 Höhe von 90 Euro erhoben.
-
 
 ## § 5 Erteilung einer Genehmigung
 
@@ -89,7 +83,6 @@ Für die Erteilung einer
 
 erhoben.
 
-
 ## § 6 Gebühren in Widerspruchsverfahren
 
 Für die vollständige oder teilweise Zurückweisung eines Widerspruchs
@@ -105,7 +98,6 @@ Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 Prozent der
 Gebühr nach Satz 1 oder Satz 3. Die Gebühr beträgt im Fall von Satz 1,
 3 oder Satz 4 mindestens 25 Euro.
 
-
 ## § 7 Gebührenermäßigung, Gebührenbefreiung
 
 Von der Erhebung einer Gebühr oder Auslage kann in den Fällen der §§ 2
@@ -115,7 +107,6 @@ Interesse liegenden Zwecken von besonderer Bedeutung dient oder wenn
 die Erhebung in einem offensichtlichen Missverhältnis zum
 wirtschaftlichen Nutzen für den Kostenschuldner steht.
 
-
 ## § 8 Übergangsvorschrift
 
 Für Amtshandlungen, die vor dem 4. Juli 2009 vorgenommen worden sind,
@@ -123,7 +114,6 @@ können Kosten nach Maßgabe dieser Verordnung erhoben werden, soweit
 bei den Amtshandlungen unter Hinweis auf den bevorstehenden Erlass
 dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten
 worden ist.
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 885
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 78 Abs. 1 des Gesetzes Nr. 59 der britischen
@@ -26,7 +24,6 @@ Britisches Kontrollgebiet S. 1169) in Verbindung mit Artikel 3 Abs. 2
 und 6 des Dritten Teils des Vertrages zur Regelung aus Krieg und
 Besatzung entstandener Fragen (Bundesgesetzbl. 1955 II S. 301, 405)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -40,10 +37,6 @@ ergänzt:
     einem Landgericht für den Bezirk mehrerer Landgerichte zugewiesen
     werden, soweit dies mit der vollen und beschleunigten Durchführung der
     Rückerstattungsmaßnahmen vereinbar ist.
-
-
-
-
 
 ## § 2
 

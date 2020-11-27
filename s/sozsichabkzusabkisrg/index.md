@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 298
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,13 +30,11 @@ II S. 245), das durch das Änderungsabkommen vom 7. Januar 1986 (BGBl.
 1986 II S. 862) geändert wurde, wird zugestimmt. Das Zusatzabkommen
 wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz
 beruhenden Leistungen sind Ausgaben der Rentenversicherung für das
 Beitrittsgebiet.
-
 
 ## Art 3
 

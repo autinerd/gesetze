@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1967, 2040
 
-
-
 ## Art 1
 
 Dem in Freiburg im Breisgau am 23. November 1964 unterzeichneten
@@ -28,7 +26,6 @@ Abschnitt Konstanz-Neuhausen am Rheinfall und dem Schlußprotokoll wird
 zugestimmt. Der Vertrag sowie das Schlußprotokoll werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach Artikel 1 Abs. 1 des Vertrages auf die
@@ -36,7 +33,6 @@ Bundesrepublik Deutschland übergehen, treten mit dem Zeitpunkt des
 Inkrafttretens des Vertrages die im Regierungsbezirk Süd-Baden
 geltenden Vorschriften des Bundesrechts in Kraft. Gleichzeitig tritt
 das schweizerische Recht in diesen Gebietsteilen außer Kraft.
-
 
 ## Art 3
 
@@ -67,12 +63,10 @@ Rechtsverordnung
 (2) Die Landesregierung kann die Ermächtigung auf die
 Landesjustizverwaltung übertragen.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

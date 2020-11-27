@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 354 V v. 31.10.2006 I 2407
 
-
 ## § 1 Aufgaben
 
 (1) Die Zentrale Kommission für die Biologische Sicherheit
@@ -66,10 +65,6 @@ Bundesanzeiger bekannt.
     wissenschaftlichen Erkenntnissen, die im Rahmen der
     arbeitsmedizinischen Vorsorgeuntersuchungen zu beachten sind.
 
-
-
-
-
 ## § 2 Berufung der Mitglieder
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -84,7 +79,6 @@ Vorschläge aus den dort genannten Bereichen einzuholen.
 Verbraucherschutz macht die Namen der Mitglieder und der
 stellvertretenden Mitglieder im Bundesanzeiger bekannt.
 
-
 ## § 3 Mitglieder und stellvertretende Mitglieder
 
 (1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt. Die
@@ -96,7 +90,6 @@ Sitzungsentschädigung.
 schriftliche Erklärung gegenüber dem Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz ihre Mitgliedschaft jederzeit
 beenden.
-
 
 ## § 4 Beteiligung anderer Personen und Stellen
 
@@ -110,14 +103,12 @@ Anmelder in dem Verfahren nach dem Gentechnikgesetz und von ihm
 beauftragte Sachverständige zum mündlichen Vortrag vor der Kommission
 zugelassen.
 
-
 ## § 5 Vorsitzender und Stellvertreter
 
 Die Mitglieder oder bei deren Abwesenheit ihre Stellvertreter wählen
 aus dem Kreis der Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des
 Gentechnikgesetzes einen Vorsitzenden und zwei Stellvertreter für die
 Dauer von drei Jahren. Wiederwahl ist möglich.
-
 
 ## § 6 Berichterstatter
 
@@ -131,14 +122,12 @@ erarbeiten sonstige Stellungnahmen. Sie berichten der Kommission.
 (2) Die Berichterstatter können der Kommission Vorschläge für die
 Hinzuziehung von Sachverständigen nach § 7 machen.
 
-
 ## § 7 Sachverständige
 
 Zur Erfüllung ihrer Aufgaben kann die Kommission Sachverständige
 hören, Gutachten beiziehen, Untersuchungen durch Dritte vornehmen
 lassen oder einzelne Mitglieder oder stellvertretende Mitglieder mit
 der Wahrnehmung bestimmter Aufgaben betrauen.
-
 
 ## § 8 Geschäftsstelle
 
@@ -154,7 +143,6 @@ und die Berichterstatter bei der Wahrnehmung ihrer Aufgaben.
 Anträge entgegen, unterrichtet die zuständige Behörde bei
 Unvollständigkeit der Anträge unverzüglich und sorgt für die
 fristgerechte Beurteilung der Anträge durch die Kommission.
-
 
 ## § 9 Sitzungen der Kommission
 
@@ -181,7 +169,6 @@ unverzüglich seinen Stellvertreter und die Geschäftsstelle.
 (5) Auf Antrag der Mehrheit der Mitglieder der Kommission ist zu einer
 außerordentlichen Sitzung einzuladen.
 
-
 ## § 10 Durchführung von Sitzungen
 
 (1) Die Sitzungen sind nicht öffentlich. Die stellvertretenden
@@ -199,7 +186,6 @@ die stellvertretenden Mitglieder.
 
 (5) Die Sitzungsteilnehmer haben über den Inhalt der Sitzung
 Verschwiegenheit zu wahren.
-
 
 ## § 11 Beschlußfassung
 
@@ -240,7 +226,6 @@ Beratung eingeführt worden ist. Das Minderheitsvotum ist zu begründen.
 Aus der Begründung muß sich ergeben, auf welchen Einzelerwägungen die
 Ablehnung der Stellungnahme beruht.
 
-
 ## § 12 Sitzungsprotokoll
 
 (1) Die Geschäftsstelle fertigt für jede Sitzung ein
@@ -265,7 +250,6 @@ sowie von diesen beauftragte Sachverständige nach § 4 Abs. 2 gehört
 werden, erhält die zuständige Behörde den entsprechenden Auszug aus
 dem Sitzungsprotokoll.
 
-
 ## § 13 Arbeitskreise
 
 (1) Die Kommission kann nach Bedarf unter Hinzuziehung von
@@ -284,7 +268,6 @@ die Geschäftsstelle zur Beratung und Beschlußfassung zu unterbreiten.
 § 4 Abs. 1, §§ 7 und 10 Abs. 1 und § 12 finden entsprechende
 Anwendung.
 
-
 ## § 14 Zusammenarbeit mit den zuständigen Behörden
 
 (1) Die Kommission gibt spätestens sechs Wochen, bei Anmeldung
@@ -300,7 +283,6 @@ enthalten.
 
 (2) (weggefallen)
 
-
 ## § 15 Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
 
 (1) Die Kommission erstellt einen jährlichen Tätigkeitsbericht, der
@@ -311,7 +293,6 @@ Verbraucherschutz veröffentlicht wird.
 Stellungnahmen von allgemeiner Bedeutung berichten, jedoch nicht vor
 Abschluß des jeweiligen Verfahrens nach dem Gentechnikgesetz.
 
-
 ## § 16 Geschäftsordnung
 
 Die Kommission gibt sich eine Geschäftsordnung. Die Geschäftsordnung
@@ -320,11 +301,9 @@ Landwirtschaft und Verbraucherschutz, das seine Entscheidung im
 Einvernehmen mit den in § 4 Abs. 2 des Gentechnikgesetzes genannten
 Bundesministerien trifft.
 
-
 ## § 17
 
 (weggefallen)
-
 
 ## § 18
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 21.7.2012 I 1566
 
-
 ## Abschnitt 1 - Zweck
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -86,10 +83,7 @@ gerichtete Dienst- oder Werkleistungen, die
 erbracht werden. Als nicht nachhaltig auf Gewinn gerichtet gilt
 insbesondere eine Tätigkeit, die gegen geringes Entgelt erbracht wird.
 
-
 ## Abschnitt 2 - Prüfungen
-
-
 
 ### § 2 Prüfungsaufgaben
 
@@ -211,7 +205,6 @@ Absatz genannten Stellen verbunden werden; die Vorschriften über die
 Unterrichtung und Zusammenarbeit bleiben hiervon unberührt.
 Verwaltungskosten der unterstützenden Stellen werden nicht erstattet.
 
-
 ### § 2a Mitführungs- und Vorlagepflicht von Ausweispapieren
 
 (1) Bei der Erbringung von Dienst- oder Werkleistungen sind die in
@@ -255,7 +248,6 @@ Arbeitnehmerinnen nachweislich und schriftlich auf die Pflicht nach
 Absatz 1 hinzuweisen, diesen Hinweis für die Dauer der Erbringung der
 Dienst- oder Werkleistungen aufzubewahren und auf Verlangen bei den
 Prüfungen nach § 2 Abs. 1 vorzulegen.
-
 
 ### § 3 Befugnisse bei der Prüfung von Personen
 
@@ -302,7 +294,6 @@ und den Zollbediensteten zu ermöglichen, in das Beförderungsmittel zu
 gelangen und es wieder zu verlassen. Die Zollverwaltung unterrichtet
 die Polizeivollzugsbehörden über groß angelegte Kontrollen.
 
-
 ### § 4 Befugnisse bei der Prüfung von Geschäftsunterlagen
 
 (1) Zur Durchführung der Prüfungen nach § 2 Abs. 1 sind die Behörden
@@ -330,7 +321,6 @@ Unternehmer im Sinne des § 2 des Umsatzsteuergesetzes 1999 ist,
 Einsicht in die Rechnungen, einen Zahlungsbeleg oder eine andere
 beweiskräftige Unterlage über ausgeführte Werklieferungen oder
 sonstige Leistungen im Zusammenhang mit einem Grundstück zu nehmen.
-
 
 ### § 5 Duldungs- und Mitwirkungspflichten
 
@@ -386,7 +376,6 @@ Festsetzung von Sozialversicherungsbeiträgen oder Sozialleistungen
 nicht benötigt werden, sind die Datenträger oder Listen nach Abschluss
 der Prüfungen nach § 2 Abs. 1 auf Verlangen des Arbeitgebers oder des
 Auftraggebers zurückzugeben oder die Daten unverzüglich zu löschen.
-
 
 ### § 6 Unterrichtung und Zusammenarbeit von Behörden
 
@@ -466,7 +455,6 @@ Ausländerbehörde unverzüglich zu übermitteln.
 (4) Bestehen Anhaltspunkte dafür, dass eine nach § 5 Abs. 1 Satz 4 in
 Verwahrung genommene Urkunde unecht oder verfälscht ist, ist sie an
 die zuständige Polizeivollzugsbehörde zu übermitteln.
-
 
 ### § 6a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
@@ -587,7 +575,6 @@ Straftaten zuständige Behörden eines Schengen-assoziierten Staates im
 Sinne von § 91 Absatz 3 des Gesetzes über die internationale
 Rechtshilfe in Strafsachen.
 
-
 ### § 7 Auskunftsansprüche bei anonymen Werbemaßnahmen
 
 Erfolgen Werbemaßnahmen ohne Angabe von Name und Anschrift unter einer
@@ -597,10 +584,7 @@ veröffentlicht hat, verpflichtet, den Behörden der Zollverwaltung
 Namen und Anschrift des Auftraggebers der Chiffreanzeige unentgeltlich
 mitzuteilen.
 
-
 ## Abschnitt 3 - Bußgeld- und Strafvorschriften
-
-
 
 ### § 8 Bußgeldvorschriften
 
@@ -723,7 +707,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über
 Regelsätze für Geldbußen wegen einer Ordnungswidrigkeit nach Absatz 1
 oder 2 zu erlassen.
 
-
 ### § 9 Erschleichen von Sozialleistungen im Zusammenhang mit der Erbringung von Dienst- oder Werkleistungen
 
 Wer eine in § 8 Abs. 1 Nr. 1 Buchstabe a, b oder c bezeichnete
@@ -731,7 +714,6 @@ Handlung begeht und dadurch bewirkt, dass ihm eine Leistung nach einem
 dort genannten Gesetz zu Unrecht gewährt wird, wird mit
 Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wenn
 die Tat nicht in § 263 des Strafgesetzbuches mit Strafe bedroht ist.
-
 
 ### § 10 Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und zu ungünstigen Arbeitsbedingungen
 
@@ -748,7 +730,6 @@ Freiheitsstrafe von sechs Monaten bis zu fünf Jahren. Ein besonders
 schwerer Fall liegt in der Regel vor, wenn der Täter gewerbsmäßig oder
 aus grobem Eigennutz handelt.
 
-
 ### § 10a Beschäftigung von Ausländern ohne Aufenthaltstitel, die Opfer von Menschenhandel sind
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -756,7 +737,6 @@ bestraft, wer entgegen § 4 Absatz 3 Satz 2 des Aufenthaltsgesetzes
 einen Ausländer beschäftigt und hierbei eine Lage ausnutzt, in der
 sich der Ausländer durch eine gegen ihn gerichtete Tat eines Dritten
 nach § 232 oder 233 des Strafgesetzbuchs befindet.
-
 
 ### § 11 Erwerbstätigkeit von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel in größerem Umfang oder von minderjährigen Ausländern
 
@@ -799,10 +779,7 @@ bestraft.
 Buchstabe a oder Buchstabe c oder Nummer 3 aus grobem Eigennutz, ist
 die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
 ## Abschnitt 4 - Ermittlungen
-
-
 
 ### § 12 Allgemeines zu den Ordnungswidrigkeiten
 
@@ -838,7 +815,6 @@ Gewerbezentralregister über rechtskräftige Bußgeldbescheide nach § 8
 Abs. 2 Nr. 3 Buchstabe a und Nr. 5, sofern die Geldbuße mehr als
 zweihundert Euro beträgt.
 
-
 ### § 13 Zusammenarbeit in Bußgeldverfahren
 
 (1) Die Behörden der Zollverwaltung arbeiten insbesondere mit den in §
@@ -859,7 +835,6 @@ schutzwürdige Interessen des Betroffenen oder anderer
 Verfahrensbeteiligter an dem Ausschluss der Übermittlung überwiegen.
 Dabei ist zu berücksichtigen, wie gesichert die zu übermittelnden
 Erkenntnisse sind.
-
 
 ### § 14 Ermittlungsbefugnisse
 
@@ -891,10 +866,7 @@ können die Behörden der Zollverwaltung, die Polizeibehörden und die
 Landesfinanzbehörden in Abstimmung mit der Staatsanwaltschaft
 gemeinsame Ermittlungsgruppen bilden.
 
-
 ## Abschnitt 5 - Datenschutz
-
-
 
 ### § 15 Allgemeines
 
@@ -905,7 +877,6 @@ Diese Aufgaben gelten in datenschutzrechtlicher Hinsicht auch als
 Aufgaben nach dem Sozialgesetzbuch. Die Vorschriften des Vierten
 Abschnitts des Ersten Teils der Abgabenordnung zum Steuergeheimnis
 bleiben unberührt.
-
 
 ### § 16 Zentrale Datenbank
 
@@ -954,7 +925,6 @@ Erbringung von Dienst- oder Werkleistungen steht, verwendet werden.
 genannten Daten dem Arbeitsbereich Finanzkontrolle Schwarzarbeit der
 Zollverwaltung zu dem in Absatz 3 genannten Zweck.
 
-
 ### § 17 Auskunft an Behörden der Zollverwaltung, an die Polizeivollzugsbehörden des Bundes und der Länder, an die Finanzbehörden und an die Staatsanwaltschaften
 
 (1) Auskunft aus der zentralen Datenbank wird auf Ersuchen erteilt
@@ -1002,14 +972,12 @@ dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren anzuwenden. Es gilt § 79 Abs. 2 bis 4 des
 Zehnten Buches Sozialgesetzbuch.
 
-
 ### § 18 Auskunft an die betroffene Person
 
 Für die Auskunft an die betroffene Person gilt § 83 des Zehnten Buches
 Sozialgesetzbuch. Die Auskunft bedarf des Einvernehmens der
 zuständigen Staatsanwaltschaft, wenn sie Daten aus einem Verfahren
 betrifft, das zu einem Strafverfahren geführt hat.
-
 
 ### § 19 Löschung
 
@@ -1039,10 +1007,7 @@ Strafverfahrens zu löschen.
 
 (3) § 84 Abs. 3 des Zehnten Buches Sozialgesetzbuch bleibt unberührt.
 
-
 ## Abschnitt 6 - Verwaltungsverfahren, Rechtsweg
-
-
 
 ### § 20 Entschädigung der Zeugen und Sachverständigen
 
@@ -1050,7 +1015,6 @@ Werden Zeugen und Sachverständige von den Behörden der Zollverwaltung
 herangezogen, so erhalten sie auf Antrag in entsprechender Anwendung
 des Justizvergütungs- und -entschädigungsgesetzes eine Entschädigung
 oder Vergütung.
-
 
 ### § 21 Ausschluss von öffentlichen Aufträgen
 
@@ -1098,13 +1062,11 @@ den Ausschluss zu hören.
 (2) Eine Verfehlung nach Absatz 1 steht einer Verletzung von Pflichten
 nach § 241 Abs. 2 des Bürgerlichen Gesetzbuchs gleich.
 
-
 ### § 22 Verwaltungsverfahren
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten die Vorschriften
 der Abgabenordnung sinngemäß für das Verwaltungsverfahren der Behörden
 der Zollverwaltung nach diesem Gesetz.
-
 
 ### § 23 Rechtsweg
 

@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 2 G v. 9.1.1978 II 838
 
-
 ## Art 1
 
 Dem Abkommen über die Internationale Finanz-Corporation (International
@@ -28,7 +27,6 @@ Finance Corporation), das am 11. April 1955 von dem Direktorium der
 Internationalen Bank für Wiederaufbau und Entwicklung zum Zwecke der
 Vorlage bei den Regierungen ihrer Mitgliedstaaten gebilligt worden
 ist, wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -42,14 +40,12 @@ Geschäftsverkehr der Bundesrepublik Deutschland mit der
 Internationalen Finanz-Corporation gemäß Artikel IV Abschnitt 10 des
 Abkommens.
 
-
 ## Art 3
 
 Für eine Änderung des Abkommens gemäß seinem Artikel VII darf der
 Gouverneur für die Bundesrepublik Deutschland in der Internationalen
 Finanz-Corporation nur stimmen, wenn und soweit er zu dieser
 Stimmenabgabe durch ein Bundesgesetz ermächtigt worden ist.
-
 
 ## Art 4
 
@@ -79,7 +75,6 @@ entsprechend.
 
 (3)
 
-
 ## Art 5
 
 Der Gouverneur für die Bundesrepublik Deutschland in der
@@ -91,12 +86,10 @@ bleibt unberührt. Der Direktor, sein Stellvertreter und sein
 Zeitweiliger Stellvertreter sind an die Weisungen des Bundesministers
 für wirtschaftliche Zusammenarbeit gebunden.
 
-
 ## Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 7
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14.
@@ -31,7 +30,6 @@ S. 2525) geändert worden ist, wird nach Anhörung des Hauptausschusses
 des Bundesinstituts für Berufsbildung gemäß § 19 Nr. 1 des
 Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S.
 1692) im Einvernehmen mit dem Bundesminister für Wirtschaft verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -86,7 +84,6 @@ Aufgabenbereich wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Baumaschinenmeister.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -114,7 +111,6 @@ beruflichen Fortbildung zum Baumaschinenmeister dienlich sind.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Inhalt der Prüfung
 
@@ -144,7 +140,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn
 der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 4 Wirtschafts-, rechts- und sozialkundlicher Teil
 
@@ -339,7 +334,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Baumaschinentechnischer Teil
 
@@ -621,7 +615,6 @@ mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer ist auf Antrag von der Ablegung einzelner
@@ -631,7 +624,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss erfolgreich abgelegt wurde und die Anmeldung zur
 Fortbildungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des
 Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -656,7 +648,6 @@ Im Fall der Freistellung nach § 6 sind - anstelle der Noten - Ort,
 Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
 abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -672,22 +663,18 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall wird das letzte Ergebnis
 berücksichtigt.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1985 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage
 
@@ -755,7 +742,6 @@ Der Prüfungsteilnehmer hat nach § 3 Absatz 3 den Nachweis
 Eignung durch die Prüfung am ...... in ...... vor .......... erbracht.
 -----
 \*) Nichtzutreffendes streichen
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

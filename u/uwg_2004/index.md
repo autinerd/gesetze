@@ -44,10 +44,7 @@ Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die
 zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 81) geändert worden ist, sind beachtet worden.
 
-
 ## Kapitel 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -55,7 +52,6 @@ Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucherinnen
 und Verbraucher sowie der sonstigen Marktteilnehmer vor unlauteren
 geschäftlichen Handlungen. Es schützt zugleich das Interesse der
 Allgemeinheit an einem unverfälschten Wettbewerb.
-
 
 ### § 2 Definitionen
 
@@ -114,7 +110,6 @@ Allgemeinheit an einem unverfälschten Wettbewerb.
 (2) Für den Verbraucherbegriff gilt § 13 des Bürgerlichen Gesetzbuchs
 entsprechend.
 
-
 ### § 3 Verbot unlauterer geschäftlicher Handlungen
 
 (1) Unlautere geschäftliche Handlungen sind unzulässig, wenn sie
@@ -138,7 +133,6 @@ ist, dass seine geschäftliche Handlung nur diese Gruppe betrifft.
 
 (3) Die im Anhang dieses Gesetzes aufgeführten geschäftlichen
 Handlungen gegenüber Verbrauchern sind stets unzulässig.
-
 
 ### § 4 Beispiele unlauterer geschäftlicher Handlungen
 
@@ -215,10 +209,6 @@ Unlauter handelt insbesondere, wer
 11. einer gesetzlichen Vorschrift zuwiderhandelt, die auch dazu bestimmt
     ist, im Interesse der Marktteilnehmer das Marktverhalten zu regeln.
 
-
-
-
-
 ### § 5 Irreführende geschäftliche Handlungen
 
 (1) Unlauter handelt, wer eine irreführende geschäftliche Handlung
@@ -285,7 +275,6 @@ kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem
 Zeitraum der Preis gefordert worden ist, so trifft die Beweislast
 denjenigen, der mit der Preisherabsetzung geworben hat.
 
-
 ### § 5a Irreführung durch Unterlassen
 
 (1) Bei der Beurteilung, ob das Verschweigen einer Tatsache
@@ -339,7 +328,6 @@ oder nach Rechtsvorschriften zur Umsetzung gemeinschaftsrechtlicher
 Richtlinien für kommerzielle Kommunikation einschließlich Werbung und
 Marketing nicht vorenthalten werden dürfen.
 
-
 ### § 6 Vergleichende Werbung
 
 (1) Vergleichende Werbung ist jede Werbung, die unmittelbar oder
@@ -375,10 +363,6 @@ Waren oder Dienstleistungen erkennbar macht.
 6.  eine Ware oder Dienstleistung als Imitation oder Nachahmung einer
     unter einem geschützten Kennzeichen vertriebenen Ware oder
     Dienstleistung darstellt.
-
-
-
-
 
 ### § 7 Unzumutbare Belästigungen
 
@@ -437,13 +421,7 @@ anzunehmen, wenn
     widersprechen kann, ohne dass hierfür andere als die
     Übermittlungskosten nach den Basistarifen entstehen.
 
-
-
-
-
 ## Kapitel 2 - Rechtsfolgen
-
-
 
 ### § 8 Beseitigung und Unterlassung
 
@@ -501,7 +479,6 @@ Vorschrift. Im Übrigen findet das Unterlassungsklagengesetz keine
 Anwendung, es sei denn, es liegt ein Fall des § 4a des
 Unterlassungsklagengesetzes vor.
 
-
 ### § 9 Schadensersatz
 
 Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige
@@ -510,7 +487,6 @@ daraus entstehenden Schadens verpflichtet. Gegen verantwortliche
 Personen von periodischen Druckschriften kann der Anspruch auf
 Schadensersatz nur bei einer vorsätzlichen Zuwiderhandlung geltend
 gemacht werden.
-
 
 ### § 10 Gewinnabschöpfung
 
@@ -542,7 +518,6 @@ abgeführten Gewinns beschränkt.
 (5) Zuständige Stelle im Sinn der Absätze 2 und 4 ist das Bundesamt
 für Justiz.
 
-
 ### § 11 Verjährung
 
 (1) Die Ansprüche aus den §§ 8, 9 und 12 Absatz 1 Satz 2 verjähren in
@@ -567,10 +542,7 @@ spätestens in 30 Jahren von der den Schaden auslösenden Handlung an.
 (4) Andere Ansprüche verjähren ohne Rücksicht auf die Kenntnis oder
 grob fahrlässige Unkenntnis in drei Jahren von der Entstehung an.
 
-
 ## Kapitel 3 - Verfahrensvorschriften
-
-
 
 ### § 12 Anspruchsdurchsetzung, Veröffentlichungsbefugnis, Streitwertminderung
 
@@ -601,7 +573,6 @@ Umfang einfach gelagert ist oder wenn die Belastung einer der Parteien
 mit den Prozesskosten nach dem vollen Streitwert angesichts ihrer
 Vermögens- und Einkommensverhältnisse nicht tragbar erscheint.
 
-
 ### § 13 Sachliche Zuständigkeit
 
 (1) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch
@@ -615,7 +586,6 @@ Wettbewerbsstreitsachen zu bestimmen, wenn dies der Rechtspflege in
 Wettbewerbsstreitsachen, insbesondere der Sicherung einer
 einheitlichen Rechtsprechung, dienlich ist. Die Landesregierungen
 können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
-
 
 ### § 14 Örtliche Zuständigkeit
 
@@ -631,7 +601,6 @@ Klagen, die von den nach § 8 Absatz 3 Nummer 2 bis 4 zur
 Geltendmachung eines Unterlassungsanspruchs Berechtigten erhoben
 werden, nur dann, wenn der Beklagte im Inland weder eine gewerbliche
 oder selbständige berufliche Niederlassung noch einen Wohnsitz hat.
-
 
 ### § 15 Einigungsstellen
 
@@ -735,10 +704,7 @@ Einigungsstelle auch mit einem Rechtskundigen als Vorsitzendem besetzt
 werden, der die Befähigung zum Berufsrichter nach dem Recht der
 Deutschen Demokratischen Republik erworben hat.
 
-
 ## Kapitel 4 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 16 Strafbare Werbung
 
@@ -756,7 +722,6 @@ Abschluss gleichartiger Geschäfte veranlassen, die ihrerseits nach der
 Art dieser Werbung derartige Vorteile für eine entsprechende Werbung
 weiterer Abnehmer erlangen sollen, wird mit Freiheitsstrafe bis zu
 zwei Jahren oder mit Geldstrafe bestraft.
-
 
 ### § 17 Verrat von Geschäfts- und Betriebsgeheimnissen
 
@@ -821,7 +786,6 @@ hält.
 
 (6) § 5 Nummer 7 des Strafgesetzbuches gilt entsprechend.
 
-
 ### § 18 Verwertung von Vorlagen
 
 (1) Wer die ihm im geschäftlichen Verkehr anvertrauten Vorlagen oder
@@ -838,7 +802,6 @@ an der Strafverfolgung ein Einschreiten von Amts wegen für geboten
 hält.
 
 (4) § 5 Nummer 7 des Strafgesetzbuches gilt entsprechend.
-
 
 ### § 19 Verleiten und Erbieten zum Verrat
 
@@ -861,7 +824,6 @@ hält.
 
 (5) § 5 Nummer 7 des Strafgesetzbuches gilt entsprechend.
 
-
 ### § 20 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -875,7 +837,6 @@ fünfzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
-
 
 ### Anhang (zu § 3 Absatz 3)
 

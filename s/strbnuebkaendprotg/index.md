@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2000, 1530
 
-
-
 ## Art 1
 
 (1) Dem in Brüssel am 27. März 2000 von der Bundesrepublik Deutschland
@@ -35,11 +33,9 @@ Verkehrswege durch schwere Nutzfahrzeuge \*) (Übereinkommen, BGBl.
 (2) Das Protokoll wird nachstehend veröffentlicht.
 ----- \*) ABl. EG Nr. L 187 S. 42
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -54,7 +50,6 @@ bestimmter Straßen mit schweren Nutzfahrzeugen sowie zu dem
 Zusatzübereinkommen vom 18. September 1997 zu dem vorgenannten
 Übereinkommen bleibt unberührt (BGBl. 1998 II S. 1615).
 
-
 ## Art 4
 
 Für Fahrzeuge im Sinne des Artikels 2 der Richtlinie 1999/62/EG des
@@ -65,7 +60,6 @@ zugelassen sind, beträgt die Gebühr nach Artikel 8 Abs. 1 bis 4 des
 Übereinkommens vom 9. Februar 1994 über die Erhebung von Gebühren für
 die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen bis zum
 31\. Dezember 2000 die Hälfte der dort genannten Sätze.
-
 
 ## Art 5
 

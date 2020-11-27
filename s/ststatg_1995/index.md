@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 7.12.2011 I 2592
 
-
 ## § 1 Anordnung als Bundesstatistik
 
 (1) Zur Beurteilung von Struktur und Wirkungsweise der Steuern und
@@ -80,7 +79,6 @@ der Länder festgelegten alternativen Sockelbeträge Berechnungen durch.
 führen zur Verteilung des nach § 1 Satz 3 des Finanzausgleichsgesetzes
 festgesetzten Anteils am Aufkommen der Umsatzsteuer auf die Gemeinden
 Berechnungen nach § 5c des Gemeindefinanzreformgesetzes durch.
-
 
 ## § 2 Erhebungsmerkmale und Periodizität
 
@@ -300,13 +298,6 @@ Erhebungsmerkmale erfasst:
 
     b)  Erwerbsart, Jahr der Entstehung der Steuer, Art der Steuerpflicht.
 
-
-
-
-
-
-
-
 ## § 2a Statistische Aufbereitung von Daten aus der Einkommensbesteuerung
 
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
@@ -338,7 +329,6 @@ Finanzbehörden von Bund und Ländern die Daten mittels sicheren
 Datentransfers auch direkt an von diesen beauftragte
 Forschungseinrichtungen weitergeben.
 
-
 ## § 2b Statistische Aufbereitung von Daten aus der Körperschaft- und Gewerbesteuer
 
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
@@ -348,7 +338,6 @@ Finanzen. Die statistische Aufbereitung dieser Daten wird, erstmals
 für das Veranlagungsjahr 2004, dem Statistischen Bundesamt übertragen.
 
 (2) § 2a Absatz 3 und 4 ist entsprechend anzuwenden.
-
 
 ## § 2c Zusammenführung von Einzelangaben
 
@@ -366,10 +355,7 @@ Steuerpflichtigen zusammenführen.
 
 (3) § 7a Absatz 3 und 4 ist entsprechend anzuwenden.
 
-
 ## § 3 (weggefallen)
-
-
 
 ## § 4 Kindergeldstatistik
 
@@ -431,7 +417,6 @@ dessen Namen, Anschrift, Steuernummer, Identifikationsmerkmale nach §
 139a der Abgabenordnung und die Höhe der bei den Lohnsteueranmeldungen
 abgesetzten Kindergeldbeträge.
 
-
 ## § 5 Hilfsmerkmale
 
 Als Hilfsmerkmale werden erfasst:
@@ -471,7 +456,6 @@ Die Finanzamt- und Steuernummern sowie die Identifikationsmerkmale
 nach § 139a Absatz 1 der Abgabenordnung dürfen vom Statistischen
 Bundesamt und den statistischen Ämtern der Länder gespeichert werden.
 
-
 ## § 6 Auskunftspflicht
 
 (1) Für die Statistiken nach diesem Gesetz einschließlich für die
@@ -486,7 +470,6 @@ wird nach dem Wohnsitz im Sinn des § 7 Absatz 2 des Zerlegungsgesetzes
 ermittelt. Die elektronischen Lohnsteuerbescheinigungen sind zu
 löschen, sobald sie für die in Satz 1 genannten Zwecke nicht mehr
 benötigt werden.
-
 
 ## § 7 Einzelangaben
 
@@ -619,7 +602,6 @@ Steuerschuldner mit Kirchenlohnsteuer die Einzelangaben
 Kirchenlohnsteuer und Religionszugehörigkeit mit dem amtlichen
 Gemeindeschlüssel der Wohnsitzgemeinde übermittelt werden.
 
-
 ## § 7a Zusammenführung von Einzelangaben
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -656,7 +638,6 @@ Finanzbehörden von Bund und Ländern die Daten mittels sicheren
 Datentransfers auch direkt an von diesen beauftragte
 Forschungseinrichtungen weitergeben.
 
-
 ## § 8 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -670,7 +651,6 @@ Gesetz vorgesehenen Zeitabstand zwischen zwei aufeinanderfolgenden
 Erhebungen mit einmaliger Wirkung zu verlängern oder zu verkürzen,
 wenn der Erkenntniswert der Statistiken hierdurch wesentlich
 verbessert wird.
-
 
 ## § 9 Statistische Aufbereitung von Daten aus dem Vollzug der Steuergesetze
 
@@ -707,7 +687,6 @@ obersten Finanzbehörden der Länder auf Ersuchen zur Verfügung.
 (4) Nach Abschluss der Aufbereitungen nach den Absätzen 1 bis 3 sind
 die Angaben beim Statistischen Bundesamt und den statistischen Ämtern
 der Länder zu löschen.
-
 
 ## § 10 Fortgeltung des Steuergeheimnisses
 

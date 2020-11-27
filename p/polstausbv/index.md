@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 9. 5.2005 I 1285
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -30,11 +29,9 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Polsterer/Polsterin wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -46,7 +43,6 @@ einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -54,7 +50,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -114,10 +109,6 @@ Fertigkeiten und Kenntnisse:
 
 18. Qualitätssicherung.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -138,12 +129,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -151,7 +140,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -211,7 +199,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung
 
@@ -379,7 +366,6 @@ der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 werden.
 
-
 ## § 9a Anrechnungsregelung
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem
@@ -389,13 +375,11 @@ Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort
 zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2
 des Berufsbildungsgesetzes bleibt unberührt.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Polsterer/Polsterin
 sind nicht mehr anzuwenden.
-
 
 ## § 11 Übergangsregelung
 
@@ -404,11 +388,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie
 

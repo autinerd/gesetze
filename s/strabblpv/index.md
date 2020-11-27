@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.12.2009 I 3854; 2010 I 940
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes in
@@ -27,10 +26,7 @@ veröffentlichten bereinigten Fassung, der zuletzt durch § 70 Abs. 2
 des Gesetzes vom 15. März 1974 (BGBl. I S. 721) geändert worden ist,
 wird verordnet:
 
-
 ## Erster Abschnitt - Prüfungsausschüsse
-
-
 
 ### § 1 Errichtung
 
@@ -41,7 +37,6 @@ Prüfungsausschuß errichtet.
 
 (2) Für den Bereich mehrerer Länder kann durch Vereinbarung ein
 gemeinsamer Prüfungsausschuß errichtet werden.
-
 
 ### § 2 Zusammensetzung und Berufung
 
@@ -80,7 +75,6 @@ Befugnisse der berufenden Behörde wahr.
 §§ 3 und 4, welche Mitglieder als Prüfer jeweils an einer Prüfung
 mitwirken.
 
-
 ### § 3 Ausschluß und Befangenheit
 
 (1) Bei der Prüfung darf nicht mitwirken, wer Vorgesetzter eines
@@ -91,7 +85,6 @@ ist.
 eine ordnungsgemäße Besetzung des Prüfungsausschusses nicht möglich
 ist, ist die Prüfung abzubrechen. Über die Fortsetzung oder
 Wiederholung der Prüfung entscheidet der Prüfungsausschuß.
-
 
 ### § 4 Beschlußfähigkeit und Abstimmung
 
@@ -116,13 +109,11 @@ Vorsitzenden oder seines Stellvertreters mindestens mitwirken
 Stimmen. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den
 Ausschlag.
 
-
 ### § 5 Geschäftsführung
 
 Die berufende Behörde regelt im Einvernehmen mit dem Prüfungsausschuß
 dessen Geschäftsführung, insbesondere Einladungen, Protokollführung
 und Einzelheiten über die Durchführung der Prüfungen.
-
 
 ### § 6 Verschwiegenheit
 
@@ -130,10 +121,7 @@ Die Mitglieder des Prüfungsausschusses haben über alle
 Prüfungsvorgänge gegenüber Dritten Verschwiegenheit zu wahren.
 Ausnahmen bedürfen der Einwilligung der berufenden Behörde.
 
-
 ## Zweiter Abschnitt - Zulassung zur Prüfung
-
-
 
 ### § 7 Zulassungsvoraussetzungen
 
@@ -163,10 +151,6 @@ Zur Prüfung wird auf Antrag einmalig zugelassen, wer
     Planung, dem Bau, dem Betrieb oder der Überwachung spurgebundener
     Bahnen können bis zu einem Jahr angerechnet werden.
 
-
-
-
-
 ### § 8 Anmeldung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist vom Bewerber an die
@@ -186,10 +170,6 @@ maßgebend.
 
 3.  Nachweise über Tätigkeiten nach § 7 Nr. 2.
 
-
-
-
-
 ### § 9 Entscheidung über die Zulassung
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet die
@@ -200,10 +180,7 @@ Ausnahmen von den Voraussetzungen nach § 7 zulassen.
 mitgeteilt. Ein ablehnender Bescheid ist mit einer
 Rechtsbehelfsbelehrung zu versehen.
 
-
 ## Dritter Abschnitt - Durchführung der Prüfung
-
-
 
 ### § 10 Prüfungstermine
 
@@ -217,12 +194,10 @@ schriftlich bekannt. Dabei unterrichtet er die Kandidaten auch über
 den Prüfungsablauf, über die jeweils zur Verfügung stehende Zeit sowie
 über die während der Prüfung zugelassenen Arbeits- und Hilfsmittel.
 
-
 ### § 11 Prüfungsgegenstand
 
 In der Prüfung hat der Kandidat seine fachliche Befähigung zum
 Betriebsleiter nachzuweisen.
-
 
 ### § 12 Gliederung der Prüfung
 
@@ -369,10 +344,6 @@ tätigkeitsbezogene Fragen über
 
 6.  strafrechtliche Vorschriften und Ordnungswidrigkeiten.
 
-
-
-
-
 ### § 13 Schriftlicher Teil der Prüfung
 
 (1) Im schriftlichen Teil der Prüfung hat der Kandidat nachzuweisen,
@@ -393,7 +364,6 @@ und etwaige Unregelmäßigkeiten des schriftlichen Teils der Prüfung.
 (4) Jede Arbeit ist von zwei Prüfern zu bewerten. Bei abweichender
 Bewertung entscheidet der Vorsitzende des Prüfungsausschusses.
 
-
 ### § 14 Mündlicher Teil der Prüfung
 
 (1) Im mündlichen Teil der Prüfung hat der Kandidat den Nachweis eines
@@ -406,7 +376,6 @@ Fach etwa 15 Minuten dauern.
 (3) Die Leistung des Kandidaten ist in jedem Fach vom Prüfungsausschuß
 zu bewerten.
 
-
 ### § 15 Nichtöffentlichkeit
 
 Die Prüfung ist nicht öffentlich. Vertreter der berufenden Behörde und
@@ -414,7 +383,6 @@ der für die Zulassung des Kandidaten zuständigen Technischen
 Aufsichtsbehörde können anwesend sein. An der Beratung über das
 Prüfungsergebnis dürfen nur die Mitglieder des Prüfungsausschusses
 teilnehmen.
-
 
 ### § 16 Ausweispflicht und Belehrung
 
@@ -424,7 +392,6 @@ auszuweisen. Sie sind vor Beginn eines jeden Teils der Prüfung über
 die jeweils zur Verfügung stehende Zeit, über die während der Prüfung
 zugelassenen Arbeits- und Hilfsmittel sowie über die Folgen von
 Täuschungshandlungen und Ordnungsverstößen zu belehren.
-
 
 ### § 17 Täuschungshandlungen und Ordnungsverstöße
 
@@ -438,7 +405,6 @@ Kandidaten vorläufig ausschließen.
 nach Anhören des Kandidaten. In schwerwiegenden Fällen, insbesondere
 bei vorbereiteten Täuschungshandlungen, kann die Prüfung für nicht
 bestanden erklärt werden.
-
 
 ### § 18 Rücktritt und Nichtteilnahme
 
@@ -458,10 +424,7 @@ ist die Prüfung zum nächstmöglichen Termin fortzusetzen.
 (4) Über das Vorliegen eines wichtigen Grundes entscheidet der
 Prüfungsausschuß.
 
-
 ## Vierter Abschnitt - Bewertung und Feststellung der Prüfungsergebnisse sowie Prüfungszeugnisse
-
-
 
 ### § 19 Bewertung der Prüfungsleistungen
 
@@ -512,7 +475,6 @@ Fach des mündlichen Teils der Prüfung sind wie folgt zu bewerten:
 (2) Bei der Bewertung der Prüfungsleistungen sind neben Kenntnissen
 auch Form und Ausdrucksweise zu berücksichtigen.
 
-
 ### § 20 Feststellung und Bekanntgabe des Prüfungsergebnisses
 
 (1) Der Prüfungsausschuß stellt aufgrund der Bewertung der einzelnen
@@ -534,7 +496,6 @@ Prüfungsergebnisses ist eine Niederschrift zu fertigen. Sie ist vom
 Vorsitzenden des Prüfungsausschusses und von den Prüfern zu
 unterzeichnen.
 
-
 ### § 21 Prüfungszeugnis
 
 Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das vom
@@ -542,7 +503,6 @@ Vorsitzenden des Prüfungsausschusses zu unterschreiben ist. In dem
 Zeugnis sind Vorname und Familienname, gegebenenfalls auch der
 Geburtsname des Kandidaten, der Tag seiner Geburt sowie der Tag des
 Bestehens der Prüfung anzugeben.
-
 
 ### § 22 Nichtbestandene Prüfung
 
@@ -555,10 +515,7 @@ Bedingungen der Wiederholungsprüfung nach § 23 ist hinzuweisen.
 (2) Der Bescheid nach Absatz 1 ist mit einer Rechtsbehelfsbelehrung zu
 versehen.
 
-
 ## Fünfter Abschnitt - Wiederholungsprüfung
-
-
 
 ### § 23 Wiederholungsprüfung
 
@@ -576,10 +533,7 @@ nichtbestandenen Prüfung zur Wiederholungsprüfung anmeldet.
 
 (4) Im übrigen gelten die Vorschriften dieser Verordnung entsprechend.
 
-
 ## Sechster Abschnitt - Schluß- und Übergangsvorschriften
-
-
 
 ### § 24 Prüfungsunterlagen
 
@@ -589,11 +543,9 @@ in seine Prüfungsunterlagen zu gewähren.
 (2) Die Prüfungsunterlagen sind 10 Jahre nach Bekanntgabe des
 Prüfungsergebnisses aufzubewahren.
 
-
 ### § 25 (weggefallen)
 
 -
-
 
 ### § 26 Inkrafttreten und Übergangsvorschriften
 
@@ -614,7 +566,6 @@ nach den bisherigen Vorschriften abzulegen.
 Wiederholungsprüfung nach Inkrafttreten dieser Verordnung nicht
 bestanden, ist eine zweite Wiederholung der Prüfung nur nach § 23
 dieser Verordnung zulässig.
-
 
 ### Schlußformel
 

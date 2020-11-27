@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 26.10.2007 I 2513
 
-
 ## Erster Abschnitt - Erlaubnis zum Geschäftsbetrieb
-
-
 
 ### § 1 Erlaubnispflicht
 
@@ -47,7 +44,6 @@ Absatz 1 bezeichnete Tätigkeit aus, so sind auf sie die in diesem
 Gesetz für Verwertungsgesellschaften getroffenen Bestimmungen
 sinngemäß anzuwenden.
 
-
 ### § 2 Erteilung der Erlaubnis
 
 Die Erlaubnis wird auf schriftlichen Antrag von der Aufsichtsbehörde
@@ -67,10 +63,6 @@ Die Erlaubnis wird auf schriftlichen Antrag von der Aufsichtsbehörde
     über Zahl und wirtschaftliche Bedeutung der der
     Verwertungsgesellschaft zur Wahrnehmung anvertrauten Rechte und
     Ansprüche.
-
-
-
-
 
 ### § 3 Versagung der Erlaubnis
 
@@ -96,7 +88,6 @@ Die Erlaubnis wird auf schriftlichen Antrag von der Aufsichtsbehörde
 (2) Die Versagung der Erlaubnis ist zu begründen und der
 Verwertungsgesellschaft zuzustellen.
 
-
 ### § 4 Widerruf der Erlaubnis
 
 (1) Die Erlaubnis ist zu widerrufen, wenn
@@ -119,16 +110,12 @@ Verwertungsgesellschaft zuzustellen. Der Widerruf wird drei Monate,
 nachdem er unanfechtbar geworden ist, wirksam, wenn darin kein
 späterer Zeitpunkt festgesetzt ist.
 
-
 ### § 5 Bekanntmachung
 
 Die Erteilung der Erlaubnis und ein nach § 4 Abs. 2 wirksam gewordener
 Widerruf sind im Bundesanzeiger bekanntzumachen.
 
-
 ## Zweiter Abschnitt - Rechte und Pflichten der Verwertungsgesellschaft
-
-
 
 ### § 6 Wahrnehmungszwang
 
@@ -152,7 +139,6 @@ Verwertungsgesellschaft muß Bestimmungen über die Wahl der Vertretung
 durch die Berechtigten sowie über die Befugnisse der Vertretung
 enthalten.
 
-
 ### § 7 Verteilung der Einnahmen
 
 Die Verwertungsgesellschaft hat die Einnahmen aus ihrer Tätigkeit nach
@@ -162,13 +148,11 @@ Grundsatz entsprechen, daß kulturell bedeutende Werke und Leistungen
 zu fördern sind. Die Grundsätze des Verteilungsplans sind in die
 Satzung der Verwertungsgesellschaft aufzunehmen.
 
-
 ### § 8 Vorsorge- und Unterstützungseinrichtungen
 
 Die Verwertungsgesellschaft soll Vorsorge- und
 Unterstützungseinrichtungen für die Inhaber der von ihr wahrgenommenen
 Rechte oder Ansprüche einrichten.
-
 
 ### § 9 Rechnungslegung und Prüfung
 
@@ -215,7 +199,6 @@ Jahresabschluß hinzuweisen.
 (7) Weitergehende gesetzliche Vorschriften über die Rechnungslegung
 und Prüfung bleiben unberührt.
 
-
 ### § 10 Auskunftspflicht
 
 Die Verwertungsgesellschaft ist verpflichtet, jedermann auf
@@ -223,7 +206,6 @@ schriftliches Verlangen Auskunft darüber zu geben, ob sie
 Nutzungsrechte an einem bestimmten Werk oder bestimmte
 Einwilligungsrechte oder Vergütungsansprüche für einen Urheber oder
 Inhaber eines verwandten Schutzrechts wahrnimmt.
-
 
 ### § 11 Abschlußzwang
 
@@ -239,7 +221,6 @@ darüber hinausgehenden Forderung der Verwertungsgesellschaft unter
 Vorbehalt an die Verwertungsgesellschaft gezahlt oder zu ihren Gunsten
 hinterlegt worden ist.
 
-
 ### § 12 Gesamtverträge
 
 Die Verwertungsgesellschaft ist verpflichtet, mit Vereinigungen, deren
@@ -250,7 +231,6 @@ Rechte und Ansprüche Gesamtverträge zu angemessenen Bedingungen
 abzuschließen, es sei denn, daß der Verwertungsgesellschaft der
 Abschluß eines Gesamtvertrages nicht zuzumuten ist, insbesondere weil
 die Vereinigung eine zu geringe Mitgliederzahl hat.
-
 
 ### § 13 Tarife
 
@@ -277,7 +257,6 @@ angemessene Rücksicht nehmen.
 
 (4) (weggefallen)
 
-
 ### § 13a Tarife für Geräte und Speichermedien; Transparenz
 
 (1) Die Höhe der Vergütung für Geräte und Speichermedien bestimmt sich
@@ -293,7 +272,6 @@ empirischen Untersuchungen gemäß § 14 Abs. 5a aufstellen.
 (2) Die Verwertungsgesellschaft unterrichtet ihre Partner aus
 Gesamtverträgen über ihre Einnahmen aus der Pauschalvergütung und
 deren Verwendung nach Empfängergruppen.
-
 
 ### § 13b Pflichten des Veranstalters
 
@@ -316,7 +294,6 @@ Sendeunternehmen erforderlich sind, die die Funksendungen veranstaltet
 haben, sind diese Sendeunternehmen verpflichtet, der
 Verwertungsgesellschaft die Auskünfte gegen Erstattung der Unkosten zu
 erteilen.
-
 
 ### § 13c Vermutung der Sachbefugnis, Außenseiter bei Kabelweitersendung
 
@@ -356,7 +333,6 @@ von dem Zeitpunkt an, in dem die Verwertungsgesellschaft satzungsgemäß
 die Abrechnung der Kabelweitersendung vorzunehmen hat; die
 Verwertungsgesellschaft kann ihm eine Verkürzung durch Meldefristen
 oder auf ähnliche Weise nicht entgegenhalten.
-
 
 ### § 14 Schiedsstelle
 
@@ -428,7 +404,6 @@ verlangen.
 (8) Durch die Anrufung der Schiedsstelle wird die Verjährung in
 gleicher Weise wie durch Klageerhebung gehemmt.
 
-
 ### § 14a Einigungsvorschlag der Schiedsstelle
 
 (1) Die Schiedsstelle faßt ihre Beschlüsse mit Stimmenmehrheit. § 196
@@ -456,7 +431,6 @@ Kabelweitersendung, beträgt die Frist drei Monate.
 Zwangsvollstreckung statt; § 797a der Zivilprozeßordnung gilt
 entsprechend.
 
-
 ### § 14b Beschränkung des Einigungsvorschlags, Absehen vom Einigungsvorschlag
 
 (1) Ist bei Streitfällen nach § 14 Abs. 1 Nr. 1 Buchstabe a die
@@ -468,7 +442,6 @@ Anwendbarkeit oder Angemessenheit des Tarifs beschränken.
 (2) Sind bei Streitfällen nach § 14 Abs. 1 Nr. 1 Buchstabe a die
 Anwendbarkeit und die Angemessenheit eines Tarifs nicht im Streit, so
 kann die Schiedsstelle von einem Einigungsvorschlag absehen.
-
 
 ### § 14c Streitfälle über Gesamtverträge
 
@@ -490,11 +463,9 @@ entsprechend anzuwenden, daß der Präsident des Bundeskartellamts
 keinen Angehörigen der Aufsichtsbehörde (§ 18 Abs. 1) zum Vertreter
 bestellen kann.
 
-
 ### § 14d Streitfälle über Rechte der Kabelweitersendung
 
 Bei Streitfällen nach § 14 Abs. 1 Nr. 2 gilt § 14c entsprechend.
-
 
 ### § 14e Aussetzung
 
@@ -503,7 +474,6 @@ oder b aussetzen, bis sie in einem anhängigen Verfahren nach § 14 Abs.
 1 Nr. 1 Buchstabe c einen Einigungsvorschlag gemacht hat. Während der
 Aussetzung ist die Frist zur Unterbreitung eines Einigungsvorschlages
 nach § 14a Abs. 2 Satz 1 und § 16 Abs. 1 gehemmt.
-
 
 ### § 15 Verfahren vor der Schiedsstelle
 
@@ -527,10 +497,6 @@ Rechtsverordnung
     Verjährung von Kosten, die Kostenvorschußpflicht, Kostenbefreiungen,
     das Kostenfestsetzungsverfahren und die Rechtsbehelfe gegen die
     Kostenfestsetzung zu treffen.
-
-
-
-
 
 ### § 16 Gerichtliche Geltendmachung
 
@@ -574,7 +540,6 @@ dem der Antrag gestellt wird. Gegen die von dem Oberlandesgericht
 erlassenen Endurteile findet die Revision nach Maßgabe der
 Zivilprozeßordnung statt.
 
-
 ### § 17 Ausschließlicher Gerichtsstand
 
 (1) Für Rechtsstreitigkeiten über Ansprüche einer
@@ -588,7 +553,6 @@ Urheberrechtsgesetzes bleibt unberührt.
 denselben Verletzer verschiedene Gerichte zuständig, so kann die
 Verwertungsgesellschaft alle Ansprüche bei einem dieser Gerichte
 geltend machen.
-
 
 ### § 17a Freiwillige Schlichtung
 
@@ -622,10 +586,7 @@ Vereinbarung. Aus der vor dem Schlichter abgeschlossenen Vereinbarung
 findet die Zwangsvollstreckung statt; § 797a der Zivilprozessordnung
 gilt entsprechend.
 
-
 ## Dritter Abschnitt - Aufsicht über die Verwertungsgesellschaft
-
-
 
 ### § 18 Aufsichtsbehörde
 
@@ -642,7 +603,6 @@ Einvernehmen herzustellen, so legt das Patentamt die Sache dem
 Bundesministerium der Justiz vor; dessen Weisungen, die im Benehmen
 mit dem Bundesministerium für Wirtschaft und Technologie erteilt
 werden, ersetzen das Einvernehmen.
-
 
 ### § 19 Inhalt der Aufsicht
 
@@ -675,7 +635,6 @@ Frist zu seiner Abberufung. Die Aufsichtsbehörde kann ihm bis zum
 Ablauf dieser Frist die weitere Ausübung seiner Tätigkeit untersagen,
 wenn dies zur Abwendung schwerer Nachteile erforderlich ist.
 
-
 ### § 20 Unterrichtungspflicht
 
 Die Verwertungsgesellschaft hat der Aufsichtsbehörde jeden Wechsel der
@@ -705,13 +664,7 @@ anzuzeigen. Sie hat der Aufsichtsbehörde unverzüglich abschriftlich zu
 7.  die Entscheidungen in gerichtlichen oder behördlichen Verfahren, in
     denen sie Partei ist, soweit die Aufsichtsbehörde dies verlangt.
 
-
-
-
-
 ## Vierter Abschnitt - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 21 Zwangsgeld
 
@@ -721,11 +674,9 @@ vom 27. April 1953 (Bundesgesetzbl. I S. 157) mit der Maßgabe
 Anwendung, daß die Höhe des Zwangsgeldes bis hunderttausend Euro
 betragen kann.
 
-
 ### § 22
 
 -
-
 
 ### § 23 Bestehende Verwertungsgesellschaften
 
@@ -744,10 +695,7 @@ Antrag die in den Absätzen 1 und 2 genannten Fristen einmal oder
 mehrmals angemessen verlängern, längstens jedoch bis zum 31. Dezember
 1969\.
 
-
 ### (XXXX) §§ 24 bis 26
-
-
 
 ### § 26a Anhängige Verfahren
 
@@ -756,7 +704,6 @@ Gesetzes vor der Schiedsstelle anhängig sind, nicht anzuwenden; für
 diese Verfahren gelten die §§ 14 und 15 des Gesetzes über die
 Wahrnehmung von Urheberrechten und verwandten Schutzrechten in der
 Fassung vom 9. September 1965 (BGBl. I S. 1294).
-
 
 ### § 27 Übergangsregelung zum Zweiten Gesetz zur Regelung des Urheberrechts in der Informationsgesellschaft
 
@@ -780,7 +727,6 @@ Gesetzes beginnt.
 
 (3) § 16 Abs. 4 Satz 1 ist auf Verfahren, die am 1. Januar 2008
 bereits beim Landgericht anhängig sind, nicht anzuwenden.
-
 
 ### § 28 Inkrafttreten
 

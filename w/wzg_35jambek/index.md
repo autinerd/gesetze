@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1966, 327
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
@@ -24,7 +22,6 @@ Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
 des jamaikanischen Außenministeriums bekanntgemacht:
 Deutsche Warenbezeichnungen werden in Jamaika in demselben Umfang wie
 inländische zum gesetzlichen Schutz zugelassen.
-
 
 ## Schlussformel
 

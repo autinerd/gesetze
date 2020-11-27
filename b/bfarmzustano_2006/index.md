@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1110
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -30,7 +28,6 @@ Anspruchs in Angelegenheiten nach dem Bundesreisekostengesetz und dem
 Bundesumzugskostengesetz einschließlich der hierzu ergangenen
 Trennungsgeldverordnung zu entscheiden, soweit es für den Erlass des
 Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
-
 
 ## II.
 
@@ -43,13 +40,11 @@ Trennungsgeldverordnung übertragen. Das Bundesministerium für
 Gesundheit behält sich vor, im Einzelfall die Prozessvertretung selbst
 wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung tritt mit Wirkung vom 1. Mai 2006 in Kraft. Sie findet
 keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten erhoben
 worden sind.
-
 
 ## Schlussformel
 

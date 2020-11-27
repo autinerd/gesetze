@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1741
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsausbildungsgesetzes vom 14. August 1969
@@ -28,10 +26,7 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -64,14 +59,9 @@ in folgenden Fachrichtungen ausgebildet werden:
 
 2.  Systemintegration.
 
-
-
-
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -94,10 +84,7 @@ betrieblichen Gesamtzusammenhang einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9,
 14 und 15, 20 und 21, 26 und 27 nachzuweisen.
 
-
 ## Zweiter Teil - Vorschriften für den Ausbildungsberuf Informations- und Telekommunikationssystem-Elektroniker/Informations- und Telekommunikationssystem-Elektronikerin
-
-
 
 ### § 4 Ausbildungsberufsbild
 
@@ -257,7 +244,6 @@ auch andere Einsatzgebiete zugrundegelegt werden, wenn die zu
 vermittelnden Fertigkeiten und Kenntnisse in Breite und Tiefe
 gleichwertig sind.
 
-
 ### § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach den in
@@ -268,12 +254,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ### § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 7 Berichtsheft
 
@@ -281,7 +265,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 8 Zwischenprüfung
 
@@ -317,7 +300,6 @@ folgende Gebiete in Betracht:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ### § 9 Abschlußprüfung
 
@@ -468,10 +450,7 @@ in der Projektpräsentation einschließlich Fachgespräch oder in einem
 der drei Prüfungsbereiche mit "ungenügend" bewertet, so ist die
 Prüfung nicht bestanden.
 
-
 ## Dritter Teil - Vorschriften für den Ausbildungsberuf Fachinformatiker/Fachinformatikerin
-
-
 
 ### § 10 Ausbildungsberufsbild
 
@@ -727,7 +706,6 @@ auch andere Einsatzgebiete zugrundegelegt werden, wenn die zu
 vermittelnden Fertigkeiten und Kenntnisse in Breite und Tiefe
 gleichwertig sind.
 
-
 ### § 11 Ausbildungsrahmenplan
 
 Die in § 10 genannten Fertigkeiten und Kenntnisse sollen nach den in
@@ -738,12 +716,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ### § 12 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 13 Berichtsheft
 
@@ -751,7 +727,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 14 Zwischenprüfung
 
@@ -787,7 +762,6 @@ folgende Gebiete in Betracht:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ### § 15 Abschlußprüfung
 
@@ -968,10 +942,7 @@ in der Projektpräsentation einschließlich Fachgespräch oder in einem
 der drei Prüfungsbereiche mit "ungenügend" bewertet, so ist die
 Prüfung nicht bestanden.
 
-
 ## Vierter Teil - Vorschriften für den Ausbildungsberuf Informations- und Telekommunikationssystem-Kaufmann/Informations- und Telekommunikationssystem-Kauffrau (IT-System-Kaufmann/IT-System-Kauffrau)
-
-
 
 ### § 16 Ausbildungsberufsbild
 
@@ -1143,7 +1114,6 @@ auch andere Einsatzgebiete zugrundegelegt werden, wenn die zu
 vermittelnden Fertigkeiten und Kenntnisse in Breite und Tiefe
 gleichwertig sind.
 
-
 ### § 17 Ausbildungsrahmenplan
 
 Die in § 16 genannten Fertigkeiten und Kenntnisse sollen nach den in
@@ -1154,12 +1124,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ### § 18 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 19 Berichtsheft
 
@@ -1167,7 +1135,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 20 Zwischenprüfung
 
@@ -1203,7 +1170,6 @@ folgende Gebiete in Betracht:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ### § 21 Abschlußprüfung
 
@@ -1338,10 +1304,7 @@ in der Projektpräsentation einschließlich Fachgespräch oder in einem
 der drei Prüfungsbereiche mit "ungenügend" bewertet, so ist die
 Prüfung nicht bestanden.
 
-
 ## Fünfter Teil - Vorschriften für den Ausbildungsberuf Informatikkaufmann/Informatikkauffrau
-
-
 
 ### § 22 Ausbildungsberufsbild
 
@@ -1527,7 +1490,6 @@ Kundenbeziehungen in anderen Branchen den Fertigkeiten und Kenntnissen
 nach Absatz 1 Nr. 6 gleichwertig sind, können auch andere Branchen
 zugrundegelegt werden.
 
-
 ### § 23 Ausbildungsrahmenplan
 
 Die in § 22 genannten Fertigkeiten und Kenntnisse sollen nach den in
@@ -1538,12 +1500,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ### § 24 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 25 Berichtsheft
 
@@ -1551,7 +1511,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ### § 26 Zwischenprüfung
 
@@ -1584,7 +1543,6 @@ folgende Gebiete in Betracht:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ### § 27 Abschlußprüfung
 
@@ -1730,10 +1688,7 @@ in der Projektpräsentation einschließlich Fachgespräch oder in einem
 der drei Prüfungsbereiche mit "ungenügend" bewertet, so ist die
 Prüfung nicht bestanden.
 
-
 ## Sechster Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 28 Aufhebung von Vorschriften
 
@@ -1742,7 +1697,6 @@ Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
 vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
 geregelt sind, insbesondere für den Ausbildungsberuf
 Datenverarbeitungskaufmann sind nicht mehr anzuwenden.
-
 
 ### § 29 Übergangsregelung
 
@@ -1755,11 +1709,9 @@ Anwendung der Vorschriften dieser Verordnung.
 beginnen, können die Vertragsparteien die Anwendung der bisherigen
 Vorschriften vereinbaren.
 
-
 ### § 30 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ### Anlage 1 Teil A (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Elektroniker/zur Informations- und Telekommunikationssystem-Elektronikerin - Sachliche Gliederung -
 
@@ -2910,10 +2862,6 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
     *   Leistungen abrechnen, Nachkalkulation durchführen,
         abrechnungsrelevante Daten dokumentieren
 
-
-
-
-
 ### Anlage 1 Teil B (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Elektroniker/zur Informations- und Telekommunikationssystem-Elektronikerin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1759 - 1760)
@@ -3222,7 +3170,6 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 
 fortzuführen.
-
 
 ### Anlage 2 Teil A (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin - Sachliche Gliederung -
 
@@ -4875,10 +4822,6 @@ fortzuführen.
     *   Leistungen abrechnen, Nachkalkulation durchführen,
         abrechnungsrelevante Daten dokumentieren
 
-
-
-
-
 ### Anlage 2 Teil B (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1771 - 1774)
@@ -5586,7 +5529,6 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 
 fortzuführen.
-
 
 ### Anlage 3 Teil A (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau - Sachliche Gliederung -
 
@@ -6750,10 +6692,6 @@ fortzuführen.
 
     *   Nachkalkulationen durchführen
 
-
-
-
-
 ### Anlage 3 Teil B (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 1783 - 1784)
@@ -7077,7 +7015,6 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 
 fortzuführen.
-
 
 ### Anlage 4 Teil A (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Informatikkaufmann/zur Informatikkauffrau - Sachliche Gliederung -
 
@@ -8907,10 +8844,6 @@ fortzuführen.
 
     *   Störungen im Verwaltungsablauf analysieren und mit den
         Organisationseinheiten Gegenmaßnahmen entwickeln
-
-
-
-
 
 ### Anlage 4 Teil B (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Informatikkaufmann/zur Informatikkauffrau - Zeitliche Gliederung -
 

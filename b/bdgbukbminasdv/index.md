@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1584
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 83 Abs. 1 Satz 2 des Bundesdisziplinargesetzes vom 9.
@@ -27,7 +25,6 @@ Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Arbeit und Soziales im
 Einvernehmen mit dem Bundesministerium des Innern:
-
 
 ## § 1 Zuständigkeitsübertragung
 
@@ -84,10 +81,6 @@ Bundesdisziplinargesetzes für die Beamtinnen und Beamten
 5.  Nummer 5 für die Vertretung der Geschäftsführerin oder des
     Geschäftsführers der Unfallkasse des Bundes in Angelegenheiten der
     Künstlersozialversicherung.
-
-
-
-
 
 ## § 2 Dienstvorgesetzte
 
@@ -167,13 +160,6 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
         einschließlich der Beamtinnen und Beamten der Künstlersozialkasse die
         Geschäftsführerin oder der Geschäftsführer der Unfallkasse des Bundes.
 
-
-
-
-
-
-
-
 ## § 3 Höhere Dienstvorgesetzte
 
 Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
@@ -245,13 +231,6 @@ Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
     c)  für die Beamtinnen und Beamten der Künstlersozialkasse die
         Geschäftsführerin oder der Geschäftsführer der Unfallkasse des Bundes.
-
-
-
-
-
-
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

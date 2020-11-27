@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 5.12.2012 I 2415
 
-
 ## Titel I - Allgemeine Bestimmungen
-
-
 
 ### § 1 Grundsatz der Gewerbefreiheit
 
@@ -36,11 +33,9 @@ zugelassen sind.
 von demselben nicht deshalb ausgeschlossen werden, weil er den
 Erfordernissen dieses Gesetzes nicht genügt.
 
-
 ### § 2
 
 (weggefallen)
-
 
 ### § 3 Betrieb verschiedener Gewerbe
 
@@ -48,7 +43,6 @@ Der gleichzeitige Betrieb verschiedener Gewerbe sowie desselben
 Gewerbes in mehreren Betriebs- oder Verkaufsstätten ist gestattet.
 Eine Beschränkung der Handwerker auf den Verkauf der
 selbstverfertigten Waren findet nicht statt.
-
 
 ### § 4 Grenzüberschreitende Dienstleistungserbringung, Niederlassung
 
@@ -81,13 +75,11 @@ vorwiegend im Geltungsbereich dieses Gesetzes tätig wird.
 Tätigkeit auf unbestimmte Zeit und mittels einer festen Einrichtung
 von dieser aus tatsächlich ausgeübt wird.
 
-
 ### § 5 Zulassungsbeschränkungen
 
 In den Beschränkungen des Betriebs einzelner Gewerbe, welche auf den
 Zoll-, Steuer- und Postgesetzen beruhen, wird durch das gegenwärtige
 Gesetz nichts geändert.
-
 
 ### § 6 Anwendungsbereich
 
@@ -116,7 +108,6 @@ Anwendungsbereich der Richtlinie fallen.
 (2) Die Bestimmungen des Abschnitts I des Titels VII finden auf alle
 Arbeitnehmer Anwendung.
 
-
 ### § 6a Entscheidungsfrist, Genehmigungsfiktion
 
 (1) Hat die Behörde über einen Antrag auf Erlaubnis zur Ausübung eines
@@ -127,7 +118,6 @@ entschieden, gilt die Erlaubnis als erteilt.
 (2) Absatz 1 gilt auch für Verfahren nach § 33a Absatz 1 und § 69
 Absatz 1 und für Verfahren nach dem Gaststättengesetz, solange keine
 landesrechtlichen Regelungen bestehen.
-
 
 ### § 6b Verfahren über eine einheitliche Stelle
 
@@ -140,7 +130,6 @@ Einklang mit Artikel 2 Absatz 2 der Richtlinie 2006/123/EG bestimmte
 Verfahren von der Abwicklung über eine einheitliche Stelle
 auszuschließen.
 
-
 ### § 6c Informationspflichten für Dienstleistungserbringer
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -151,7 +140,6 @@ Dienstleistungsempfängern zur Verfügung zu stellen hat oder zur
 Verfügung stellt. Die Rechtsverordnung kann auch Regelungen enthalten
 über die Art und Weise, in der die Informationen zur Verfügung zu
 stellen sind.
-
 
 ### § 7 Aufhebung von Rechten und Abgaben
 
@@ -212,7 +200,6 @@ aufgehobenen ausschließlichen Gewerbeberechtigungen, Zwangs- und
 Bannrechte usw. Entschädigung zu leisten ist, bestimmen die
 Landesgesetze.
 
-
 ### § 8 Ablösung von Rechten
 
 (1) Von dem gleichen Zeitpunkt (§ 7) ab unterliegen, soweit solches
@@ -235,7 +222,6 @@ Ablösung:
 (2) Das Nähere über die Ablösung dieser Rechte bestimmen die
 Landesgesetze.
 
-
 ### § 9 Streitigkeiten über Aufhebung oder Ablösung von Rechten
 
 (1) Streitigkeiten darüber, ob eine Berechtigung zu den durch die §§ 7
@@ -248,7 +234,6 @@ ist, ob oder wie weit eine auf einem Grundstück haftende Abgabe eine
 Grundabgabe ist oder für den Betrieb eines Gewerbes entrichtet werden
 muß.
 
-
 ### § 10 Kein Neuerwerb von Rechten
 
 (1) Ausschließliche Gewerbeberechtigungen oder Zwangs- und Bannrechte,
@@ -257,7 +242,6 @@ können fortan nicht mehr erworben werden.
 
 (2) Realgewerbeberechtigungen dürfen fortan nicht mehr begründet
 werden.
-
 
 ### § 11 Erhebung, Verarbeitung und Nutzung personenbezogener Daten
 
@@ -334,7 +318,6 @@ gelten die Übermittlungsregelungen der Sätze 1 bis 4 entsprechend.
 und 3 erhobenen Daten sowie die Übermittlung der Daten nach Absatz 1
 für andere als die in Absatz 5 genannten Zwecke gelten die
 Datenschutzgesetze der Länder.
-
 
 ### § 11a Vermittlerregister
 
@@ -475,7 +458,6 @@ oder Erteilung von Informationen verpflichtet sind, unterliegen dem
 Berufsgeheimnis. § 84 des Versicherungsaufsichtsgesetzes gilt
 entsprechend.
 
-
 ### § 11b Übermittlung personenbezogener Daten innerhalb der Europäischen Union und des Europäischen Wirtschaftsraumes bei reglementierten Berufen
 
 (1) Begibt sich ein im Inland tätiger Gewerbetreibender in einen
@@ -531,7 +513,6 @@ erforderlich sind, und er die Daten anderenfalls zu löschen hat.
 
 (4) Die Absätze 1 bis 3 gelten auch für den Bereich der Viehzucht.
 
-
 ### § 12 Insolvenzverfahren
 
 Vorschriften, welche die Untersagung eines Gewerbes oder die Rücknahme
@@ -548,7 +529,6 @@ selbstständige Tätigkeit des Gewerbetreibenden, wenn dessen
 Unzuverlässigkeit mit Tatsachen begründet wird, die nach der Freigabe
 eingetreten sind.
 
-
 ### § 13 Erprobungsklausel
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zur
@@ -559,7 +539,6 @@ Gesetz und den darauf beruhenden Rechtsverordnungen zuzulassen, soweit
 diese Berufsausübungsregelungen nicht auf bindenden Vorgaben des
 Europäischen Gemeinschaftsrechts beruhen und sich die Auswirkungen der
 Ausnahmen auf das Gebiet des jeweiligen Landes beschränken.
-
 
 ### § 13a Anzeige der grenzüberschreitenden Erbringung von Dienstleistungen in reglementierten Berufen
 
@@ -659,7 +638,6 @@ Dienstleistungen beabsichtigt ist.
 Gewerbebetriebs nach Absatz 1, soweit Sachkunde- oder
 Unterrichtungsnachweise auch für diese vorgeschrieben sind.
 
-
 ### § 13b Anerkennung ausländischer Unterlagen und Bescheinigungen
 
 (1) Soweit nach diesem Gesetz oder einer auf Grund dieses Gesetzes
@@ -700,7 +678,6 @@ Risiken absichert.
 (3) Absatz 2 gilt nicht, soweit Tätigkeiten nach den §§ 30, 33c, 33d,
 34, 34a, 34c Absatz 1 Satz 1 Nummer 2, den §§ 34d, 34e, 34f oder nach
 § 60a ausgeübt werden.
-
 
 ### § 13c Anerkennung von ausländischen Befähigungsnachweisen
 
@@ -817,14 +794,9 @@ des Ausbildungsstaats wenden. Der Fristablauf ist solange gehemmt.
 (6) Das Berufsqualifikationsfeststellungsgesetz ist mit Ausnahme des §
 17 nicht anzuwenden.
 
-
 ## Titel II - Stehendes Gewerbe
 
-
-
 ### I. - Allgemeine Erfordernisse
-
-
 
 #### § 14 Anzeigepflicht; Verordnungsermächtigung
 
@@ -1092,10 +1064,6 @@ Statistik nach Absatz 13 nähere Vorschriften. Die Rechtsverordnung
     Statistik nach Absatz 13 Satz 1 an die statistischen Ämter der Länder
     zu übermitteln sind.
 
-
-
-
-
 #### § 15 Empfangsbescheinigung, Betrieb ohne Zulassung
 
 (1) Die Behörde bescheinigt innerhalb dreier Tage den Empfang der
@@ -1108,22 +1076,13 @@ zuständigen Behörde verhindert werden. Das gleiche gilt, wenn ein
 Gewerbe von einer ausländischen juristischen Person begonnen wird,
 deren Rechtsfähigkeit im Inland nicht anerkannt wird.
 
-
 ### II. - Erfordernis besonderer Überwachung oder Genehmigung
-
-
 
 #### A. - Anlagen, die einer besonderen Überwachung bedürfen
 
-
-
 ##### (XXXX) §§ 16 bis 28 (weggefallen)
 
-
-
 #### B. - Gewerbetreibende, die einer besonderen Genehmigung bedürfen
-
-
 
 ##### § 29 Auskunft und Nachschau
 
@@ -1176,7 +1135,6 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 Annahme rechtfertigen, daß ein erlaubnispflichtiges,
 überwachungsbedürftiges oder untersagtes Gewerbe ausgeübt wird.
 
-
 ##### § 30 Privatkrankenanstalten
 
 (1) Unternehmer von Privatkranken- und Privatentbindungsanstalten
@@ -1216,19 +1174,15 @@ zuständigen Behörde. Die Konzession ist nur dann zu versagen, wenn
 (2) Vor Erteilung der Konzession sind über die Fragen zu Absatz 1 Nr.
 3 und 4 die Ortspolizei- und die Gemeindebehörden zu hören.
 
-
 ##### § 30a
 
 (weggefallen)
-
 
 ##### § 30b
 
 (weggefallen)
 
-
 ##### (XXXX) §§ 30c bis 33 (weggefallen)
-
 
 ##### § 33a Schaustellungen von Personen
 
@@ -1260,15 +1214,10 @@ nachträgliche Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
     Immissionsschutzgesetzes oder sonst erhebliche Nachteile, Gefahren
     oder Belästigungen für die Allgemeinheit befürchten läßt.
 
-
-
-
-
 ##### § 33b Tanzlustbarkeiten
 
 Die Abhaltung von Tanzlustbarkeiten richtet sich nach den
 landesrechtlichen Bestimmungen.
-
 
 ##### § 33c Spielgeräte mit Gewinnmöglichkeit
 
@@ -1306,7 +1255,6 @@ Gewerbetreibenden und demjenigen, in dessen Betrieb ein Spielgerät
 aufgestellt worden ist, können von der zuständigen Behörde, in deren
 Bezirk das Spielgerät aufgestellt worden ist, Anordnungen nach Maßgabe
 des Absatzes 1 Satz 3 erlassen werden.
-
 
 ##### § 33d Andere Spiele mit Gewinnmöglichkeit
 
@@ -1352,7 +1300,6 @@ Die Erlaubnis ist zu widerrufen, wenn
 des Spieles eine der in der Erlaubnis enthaltenen Auflagen nicht
 beachtet oder gegen § 6 des Jugendschutzgesetzes verstoßen worden ist.
 
-
 ##### § 33e Bauartzulassung und Unbedenklichkeitsbescheinigung
 
 (1) Die Zulassung der Bauart eines Spielgerätes oder ihrer
@@ -1392,8 +1339,6 @@ einer Befristung erteilt und mit Auflagen verbunden werden.
 die Unbedenklichkeitsbescheinigung für das eingereichte Spiel und für
 Nachbauten ein Abdruck der Unbedenklichkeitsbescheinigung erteilt
 wird.
-
-
 
 ##### § 33f Ermächtigung zum Erlaß von Durchführungsvorschriften
 
@@ -1501,13 +1446,6 @@ Spieler sowie im Interesse des Jugendschutzes
     b)  Vorschriften über die Gebühren und Auslagen für Amtshandlungen des
         Bundeskriminalamtes erlassen.
 
-
-
-
-
-
-
-
 ##### § 33g Einschränkung und Ausdehnung der Erlaubnispflicht
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
@@ -1527,10 +1465,6 @@ Rechtsverordnung bestimmen, daß
     Gesellschaften gelten, in denen gewohnheitsmäßig gespielt wird, wenn
     für eine solche Regelung ein öffentliches Interesse besteht.
 
-
-
-
-
 ##### § 33h Spielbanken, Lotterien, Glücksspiele
 
 Die §§ 33c bis 33g finden keine Anwendung auf
@@ -1546,10 +1480,6 @@ Die §§ 33c bis 33g finden keine Anwendung auf
 
 3.  die Veranstaltung anderer Spiele im Sinne des § 33d Abs. 1 Satz 1, die
     Glücksspiele im Sinne des § 284 des Strafgesetzbuches sind.
-
-
-
-
 
 ##### § 33i Spielhallen und ähnliche Unternehmen
 
@@ -1581,10 +1511,6 @@ Aufnahme, Änderung und Ergänzung von Auflagen zulässig.
     Bundes-Immissionsschutzgesetzes oder sonst eine nicht zumutbare
     Belästigung der Allgemeinheit, der Nachbarn oder einer im öffentlichen
     Interesse bestehenden Einrichtung befürchten läßt.
-
-
-
-
 
 ##### § 34 Pfandleihgewerbe
 
@@ -1641,7 +1567,6 @@ finden.
 
 (4) Der gewerbsmäßige Ankauf beweglicher Sachen mit Gewährung des
 Rückkaufsrechts ist verboten.
-
 
 ##### § 34a Bewachungsgewerbe
 
@@ -1764,7 +1689,6 @@ Inanspruchnahme dieser Rechte und Befugnisse ist der Grundsatz der
 Erforderlichkeit zu beachten.
 
 (6) (weggefallen)
-
 
 ##### § 34b Versteigerergewerbe
 
@@ -1910,10 +1834,6 @@ Vorschriften erlassen über
     die Waren der angebotenen Art für ihren Geschäftsbetrieb ersteigern
     wollen.
 
-
-
-
-
 ##### § 34c Makler, Bauträger, Baubetreuer
 
 (1) Wer gewerbsmäßig
@@ -2045,10 +1965,6 @@ dem Prüfer und dem Gewerbetreibenden, geregelt werden.
 4.  Verträge, soweit Teilzeitnutzung von Wohngebäuden im Sinne des § 481
     des Bürgerlichen Gesetzesbuchs gemäß Absatz 1 Satz 1 Nr. 1
     nachgewiesen oder vermittelt wird.
-
-
-
-
 
 ##### § 34d Versicherungsvermittler
 
@@ -2318,10 +2234,6 @@ b)  als juristische Person ihren satzungsmäßigen Sitz oder, wenn sie gemäß
     der Europäischen Union oder einem anderen Vertragsstaat des Abkommens
     über den Europäischen Wirtschaftsraum haben.
 
-
-
-
-
 ##### § 34e Versicherungsberater
 
 (1) Wer gewerbsmäßig Dritte über Versicherungen beraten will, ohne von
@@ -2364,7 +2276,6 @@ dem Prüfer und dem Versicherungsberater, geregelt werden. Zur
 Überwachung des Provisionsannahmeverbotes kann in der Rechtsverordnung
 bestimmt werden, dass der Versicherungsberater über die Einnahmen aus
 seiner Tätigkeit Aufzeichnungen zu führen hat.
-
 
 ##### § 34f Finanzanlagenvermittler
 
@@ -2481,7 +2392,6 @@ melden und eintragen zu lassen. Änderungen der im Register
 gespeicherten Angaben sind der Registerbehörde unverzüglich
 mitzuteilen.
 
-
 ##### § 34g Verordnungsermächtigung
 
 (1) Das Bundesministerium für Wirtschaft und Technologie hat im
@@ -2563,7 +2473,6 @@ und Verantwortlichkeit, der Inhalt des Prüfungsberichts, die
 Verpflichtungen der Gewerbetreibenden gegenüber dem Prüfer sowie das
 Verfahren bei Meinungsverschiedenheiten zwischen dem Prüfer und dem
 Gewerbetreibenden geregelt werden.
-
 
 ##### § 35 Gewerbeuntersagung wegen Unzuverlässigkeit
 
@@ -2667,9 +2576,7 @@ Arzneimitteln, mit Losen von Lotterien und Ausspielungen sowie mit
 Bezugs- und Anteilscheinen auf solche Lose und auf den Betrieb von
 Wettannahmestellen aller Art.
 
-
 ##### (XXXX) §§ 35a und 35b (weggefallen)
-
 
 ##### § 36 Öffentliche Bestellung von Sachverständigen
 
@@ -2765,7 +2672,6 @@ Gebieten der Hochsee- und Küstenfischerei, der Land- und
 Forstwirtschaft einschließlich des Garten- und Weinbaues sowie der
 Landesvermessung bestehen oder erlassen werden.
 
-
 ##### § 36a Öffentliche Bestellung von Sachverständigen mit Qualifikationen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Bei der Bewertung der nach § 36 Absatz 1 geforderten besonderen
@@ -2820,11 +2726,9 @@ zuständige Behörde weitere Informationen, kann sie durch Nachfrage bei
 der zuständigen Stelle des Herkunftsstaats die Echtheit überprüfen und
 entsprechende Auskünfte einholen. Der Fristablauf ist solange gehemmt.
 
-
 ##### § 37
 
 (weggefallen)
-
 
 ##### § 38 Überwachungsbedürftige Gewerbe
 
@@ -2904,25 +2808,19 @@ oder Abs. 7 des Kreditwesengesetzes im Inland tätig sind, wenn die
 Erbringung von Handelsauskünften durch die Zulassung der zuständigen
 Behörden des Herkunftsmitgliedstaats abgedeckt ist.
 
-
 ##### § 39
 
 (weggefallen)
-
 
 ##### § 39a
 
 (weggefallen)
 
-
 ##### § 40
 
 (weggefallen)
 
-
 ### III. - Umfang, Ausübung und Verlust der Gewerbebefugnisse
-
-
 
 #### § 41 Beschäftigung von Arbeitnehmern
 
@@ -2936,17 +2834,13 @@ als die durch das gegenwärtige Gesetz festgestellten.
 (2) In betreff der Berechtigung der Apotheker, Gehilfen und Lehrlinge
 anzunehmen, bewendet es bei den Bestimmungen der Landesgesetze.
 
-
 #### (XXXX) §§ 41a und 41b (weggefallen)
-
 
 #### § 42 (weggefallen)
 
 -
 
-
 #### (XXXX) §§ 42a bis 44a (weggefallen)
-
 
 #### § 45 Stellvertreter
 
@@ -2954,7 +2848,6 @@ Die Befugnisse zum stehenden Gewerbebetrieb können durch
 Stellvertreter ausgeübt werden; diese müssen jedoch den für das in
 Rede stehende Gewerbe insbesondere vorgeschriebenen Erfordernissen
 genügen.
-
 
 #### § 46 Fortführung des Gewerbes
 
@@ -2973,7 +2866,6 @@ gestatten, daß das Gewerbe bis zur Dauer eines Jahres nach dem Tode
 des Gewerbetreibenden auch ohne den nach § 45 befähigten
 Stellvertreter betrieben wird.
 
-
 #### § 47 Stellvertretung in besonderen Fällen
 
 Inwiefern für die nach den §§ 33i, 34, 34a, 34b, 34c, 34d, 34e, 34f
@@ -2981,14 +2873,12 @@ und 36 konzessionierten oder angestellten Personen eine
 Stellvertretung zulässig ist, hat in jedem einzelnen Falle die Behörde
 zu bestimmen, welcher die Konzessionierung oder Anstellung zusteht.
 
-
 #### § 48 Übertragung von Realgewerbeberechtigungen
 
 Realgewerbeberechtigungen können auf jede nach den Vorschriften dieses
 Gesetzes zum Betriebe des Gewerbes befähigten Person in der Art
 übertragen werden, daß der Erwerber die Gewerbeberechtigung für eigene
 Rechnung ausüben darf.
-
 
 #### § 49 Erlöschen von Erlaubnissen
 
@@ -3001,11 +2891,9 @@ einem Jahr nicht mehr ausgeübt hat.
 
 (3) Die Fristen können aus wichtigem Grund verlängert werden.
 
-
 #### § 50
 
 (weggefallen)
-
 
 #### § 51 Untersagung wegen überwiegender Nachteile und Gefahren
 
@@ -3016,7 +2904,6 @@ für den erweislichen Schaden Ersatz geleistet werden. Die Sätze 1 und
 2 gelten nicht für Anlagen, soweit sie den Vorschriften des Bundes-
 Immissionsschutzgesetzes unterliegen.
 
-
 #### § 52 Übergangsregelung
 
 Die Bestimmung des § 51 findet auch auf die zur Zeit der Verkündung
@@ -3026,14 +2913,9 @@ kein Anspruch auf Entschädigung, wenn bei der früher erteilten
 Genehmigung ausdrücklich vorbehalten worden ist, dieselbe ohne
 Entschädigung zu widerrufen.
 
-
 #### (XXXX) §§ 53 bis 54 (weggefallen)
 
-
-
 ## Titel III - Reisegewerbe
-
-
 
 ### § 55 Reisegewerbekarte
 
@@ -3059,7 +2941,6 @@ Befristung erteilt und mit Auflagen verbunden werden, soweit dies zum
 Schutze der Allgemeinheit oder der Verbraucher erforderlich ist; unter
 denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 Änderung und Ergänzung von Auflagen zulässig.
-
 
 ### § 55a Reisegewerbekartenfreie Tätigkeiten
 
@@ -3120,7 +3001,6 @@ denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 (2) Die zuständige Behörde kann für besondere Verkaufsveranstaltungen
 Ausnahmen von dem Erfordernis der Reisegewerbekarte zulassen.
 
-
 ### § 55b Weitere reisegewerbekartenfreie Tätigkeiten, Gewerbelegitimationskarte
 
 (1) Eine Reisegewerbekarte ist nicht erforderlich, soweit der
@@ -3137,7 +3017,6 @@ und die Versagung der Gewerbelegitimationskarte gelten § 55 Abs. 3 und
 durch Rechtsetzung dazu befugter überstaatlicher Gemeinschaften etwas
 anderes bestimmt ist.
 
-
 ### § 55c Anzeigepflicht
 
 Wer als Gewerbetreibender auf Grund des § 55a Abs. 1 Nr. 3, 9 oder 10
@@ -3147,11 +3026,9 @@ nach § 14 Abs. 1 bis 3 anzumelden hat. § 14 Absatz 1 Satz 2 und 3,
 Absatz 4 bis 12, § 15 Absatz 1 und die Rechtsverordnung nach § 14
 Absatz 14 gelten entsprechend.
 
-
 ### § 55d
 
 -
-
 
 ### § 55e Sonn- und Feiertagsruhe
 
@@ -3164,7 +3041,6 @@ Gewerbetreibenden ausgeübt wird.
 
 (2) Ausnahmen können von der zuständigen Behörde zugelassen werden.
 
-
 ### § 55f Haftpflichtversicherung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -3174,7 +3050,6 @@ Allgemeinheit und der Veranstaltungsteilnehmer für Tätigkeiten nach §
 Vorschriften über die Verpflichtung des Gewerbetreibenden zum Abschluß
 und zum Nachweis des Bestehens einer Haftpflichtversicherung zu
 erlassen.
-
 
 ### § 56 Im Reisegewerbe verbotene Tätigkeiten
 
@@ -3306,7 +3181,6 @@ diesem Geschäftsraum ausschließlich bankübliche Geschäfte betrieben
 werden, zu denen diese Unternehmen nach dem Kreditwesengesetz befugt
 sind.
 
-
 ### § 56a Ankündigung des Gewerbebetriebs, Wanderlager
 
 (1) Die Veranstaltung eines Wanderlagers zum Vertrieb von Waren oder
@@ -3345,7 +3219,6 @@ rechtzeitig oder nicht wahrheitsgemäß oder nicht vollständig erstattet
 ist oder wenn die öffentliche Ankündigung nicht den Vorschriften des
 Absatzes 1 Satz 1 zweiter Halbsatz und Satz 2 entspricht.
 
-
 ### § 57 Versagung der Reisegewerbekarte
 
 (1) Die Reisegewerbekarte ist zu versagen, wenn Tatsachen die Annahme
@@ -3363,9 +3236,7 @@ oder 34f entsprechend.
 zulässig, wenn der Gewerbetreibende die nach § 34b Abs. 1
 erforderliche Erlaubnis besitzt.
 
-
 ### (XXXX) §§ 57a und 58 (weggefallen)
-
 
 ### § 59 Untersagung reisegewerbekartenfreier Tätigkeiten
 
@@ -3374,14 +3245,12 @@ ist, kann die reisegewerbliche Tätigkeit unter der Voraussetzung des §
 57 untersagt werden. § 35 Abs. 1 Satz 2 und 3, Abs. 3, 4, 6, 7a und 8
 gilt entsprechend.
 
-
 ### § 60 Beschäftigte Personen
 
 Die Beschäftigung einer Person im Reisegewerbe kann dem
 Gewerbetreibenden untersagt werden, wenn Tatsachen die Annahme
 rechtfertigen, dass die Person die für ihre Tätigkeit erforderliche
 Zuverlässigkeit nicht besitzt.
-
 
 ### § 60a Veranstaltung von Spielen
 
@@ -3407,7 +3276,6 @@ Gewerbeausübung zuständigen Behörde. § 33i gilt entsprechend.
 (4) Die Landesregierungen können durch Rechtsverordnung das Verfahren
 bei den Landeskriminalämtern (Absatz 2 Satz 3) regeln.
 
-
 ### § 60b Volksfest
 
 (1) Ein Volksfest ist eine im allgemeinen regelmäßig wiederkehrende,
@@ -3421,7 +3289,6 @@ die §§ 69a bis 71a finden entsprechende Anwendung; jedoch bleiben die
 §§ 55 bis 60a und 60c bis 61a sowie 71b unberührt.
 
 (3) (weggefallen)
-
 
 ### § 60c Mitführen und Vorzeigen der Reisegewerbekarte
 
@@ -3446,7 +3313,6 @@ beglaubigte Kopie oder eine sonstige Unterlage, auf Grund derer die
 Erteilung der Erlaubnis glaubhaft gemacht werden kann, mit sich zu
 führen. Im Übrigen gelten die Absätze 1 und 2 entsprechend.
 
-
 ### § 60d Verhinderung der Gewerbeausübung
 
 Die Ausübung des Reisegewerbes entgegen § 55 Abs. 2 und 3, § 56 Abs. 1
@@ -3454,7 +3320,6 @@ oder 3 Satz 2, § 60a Abs. 2 Satz 1 oder 2 oder Abs. 3 Satz 1, § 60c
 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2 Satz 2, § 61a Abs. 2 oder
 entgegen einer auf Grund des § 55f erlassenen Rechtsverordnung kann
 von der zuständigen Behörde verhindert werden.
-
 
 ### § 61 Örtliche Zuständigkeit
 
@@ -3466,7 +3331,6 @@ Bezirk der Betroffene seinen gewöhnlichen Aufenthalt hat. Ändert sich
 während des Verfahrens der gewöhnliche Aufenthalt, so kann die bisher
 zuständige Behörde das Verfahren fortsetzen, wenn die nunmehr
 zuständige Behörde zustimmt.
-
 
 ### § 61a Anwendbarkeit von Vorschriften des stehenden Gewerbes für die Ausübung als Reisegewerbe
 
@@ -3484,14 +3348,9 @@ Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die
 Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen
 zulassen.
 
-
 ### (XXXX) §§ 62 und 63 (weggefallen)
 
-
-
 ## Titel IV - Messen, Ausstellungen, Märkte
-
-
 
 ### § 64 Messe
 
@@ -3504,7 +3363,6 @@ gewerbliche Verbraucher oder Großabnehmer vertreibt.
 (2) Der Veranstalter kann in beschränktem Umfang an einzelnen Tagen
 während bestimmter Öffnungszeiten Letztverbraucher zum Kauf zulassen.
 
-
 ### § 65 Ausstellung
 
 Eine Ausstellung ist eine zeitlich begrenzte Veranstaltung, auf der
@@ -3513,14 +3371,12 @@ mehrerer Wirtschaftszweige oder Wirtschaftsgebiete ausstellt und
 vertreibt oder über dieses Angebot zum Zweck der Absatzförderung
 informiert.
 
-
 ### § 66 Großmarkt
 
 Ein Großmarkt ist eine Veranstaltung, auf der eine Vielzahl von
 Anbietern bestimmte Waren oder Waren aller Art im wesentlichen an
 gewerbliche Wiederverkäufer, gewerbliche Verbraucher oder Großabnehmer
 vertreibt.
-
 
 ### § 67 Wochenmarkt
 
@@ -3554,7 +3410,6 @@ Verbraucher durch Rechtsverordnung bestimmen, daß über Absatz 1 hinaus
 bestimmte Waren des täglichen Bedarfs auf allen oder bestimmten
 Wochenmärkten feilgeboten werden dürfen.
 
-
 ### § 68 Spezialmarkt und Jahrmarkt
 
 (1) Ein Spezialmarkt ist eine im allgemeinen regelmäßig in größeren
@@ -3569,7 +3424,6 @@ der eine Vielzahl von Anbietern Waren aller Art feilbietet.
 Sinne des § 60b Abs. 1 ausgeübt werden; die §§ 55 bis 60a und 60c bis
 61a bleiben unberührt.
 
-
 ### § 68a Verabreichen von Getränken und Speisen
 
 Auf Märkten dürfen alkoholfreie Getränke und zubereitete Speisen, auf
@@ -3577,7 +3431,6 @@ anderen Veranstaltungen im Sinne der §§ 64 bis 68 Kostproben zum
 Verzehr an Ort und Stelle verabreicht werden. Im übrigen gelten für
 das Verabreichen von Getränken und zubereiteten Speisen zum Verzehr an
 Ort und Stelle die allgemeinen Vorschriften.
-
 
 ### § 69 Festsetzung
 
@@ -3599,7 +3452,6 @@ Veranstaltung.
 festgesetzter Großmarkt nicht oder nicht mehr durchgeführt, so hat der
 Veranstalter dies der zuständigen Behörde unverzüglich schriftlich
 anzuzeigen.
-
 
 ### § 69a Ablehnung der Festsetzung, Auflagen
 
@@ -3637,7 +3489,6 @@ erforderlich ist, die Festsetzung mit Auflagen verbinden; unter
 denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
 Änderung und Ergänzung von Auflagen zulässig.
 
-
 ### § 69b Änderung und Aufhebung der Festsetzung
 
 (1) Die zuständige Behörde kann in dringenden Fällen vorübergehend die
@@ -3661,7 +3512,6 @@ die Festsetzung eines Wochenmarktes, Jahrmarktes oder Volksfestes
 jedoch nur, wenn die Durchführung der Veranstaltung dem Veranstalter
 nicht zugemutet werden kann.
 
-
 ### § 70 Recht zur Teilnahme an einer Veranstaltung
 
 (1) Jedermann, der dem Teilnehmerkreis der festgesetzten Veranstaltung
@@ -3679,7 +3529,6 @@ behandelt werden.
 insbesondere wenn der zur Verfügung stehende Platz nicht ausreicht,
 einzelne Aussteller, Anbieter oder Besucher von der Teilnahme
 ausschließen.
-
 
 ### § 70a Untersagung der Teilnahme an einer Veranstaltung
 
@@ -3702,11 +3551,9 @@ Veranstaltung im Sinne der §§ 64 bis 68 ist nur zulässig, wenn der
 Gewerbetreibende die nach § 34b Abs. 1 erforderliche Erlaubnis
 besitzt.
 
-
 ### § 70b (weggefallen)
 
 -
-
 
 ### § 71 Vergütung
 
@@ -3719,13 +3566,11 @@ Beteiligung an den Kosten für die Werbung verlangen. Landesrechtliche
 Bestimmungen über die Erhebung von Benutzungsgebühren durch Gemeinden
 und Gemeindeverbände bleiben unberührt.
 
-
 ### § 71a Öffentliche Sicherheit oder Ordnung
 
 Den Ländern bleibt es vorbehalten, Vorschriften zur Aufrechterhaltung
 der öffentlichen Sicherheit oder Ordnung auf Veranstaltungen im Sinne
 der §§ 64 bis 68 zu erlassen.
-
 
 ### § 71b Anwendbarkeit von Vorschriften des stehenden Gewerbes für die Ausübung im Messe-, Ausstellungs- und Marktgewerbe
 
@@ -3744,36 +3589,21 @@ Rechtsvorschriften entsprechend. Die zuständige Behörde kann für die
 Versteigerung leicht verderblicher Waren für ihren Bezirk Ausnahmen
 zulassen.
 
-
 ## Titel V - Taxen
-
-
 
 ### (XXXX) §§ 72 bis 80 (weggefallen)
 
-
-
 ## Titel VI - Innungen, Innungsausschüsse, Handwerkskammern, Innungsverbände
-
-
 
 ### (XXXX) §§ 81 bis 104n (weggefallen)
 
-
 ## Titel VIa - Handwerksrolle
-
-
 
 ### (XXXX) §§ 104o bis 104u (weggefallen)
 
-
 ## Titel VII - Arbeitnehmer
 
-
-
 ### I. - Allgemeine arbeitsrechtliche Grundsätze
-
-
 
 #### § 105 Freie Gestaltung des Arbeitsvertrages
 
@@ -3783,7 +3613,6 @@ Vorschriften, Bestimmungen eines anwendbaren Tarifvertrages oder einer
 Betriebsvereinbarung entgegenstehen. Soweit die Vertragsbedingungen
 wesentlich sind, richtet sich ihr Nachweis nach den Bestimmungen des
 Nachweisgesetzes.
-
 
 #### § 106 Weisungsrecht des Arbeitgebers
 
@@ -3795,7 +3624,6 @@ gesetzliche Vorschriften festgelegt sind. Dies gilt auch hinsichtlich
 der Ordnung und des Verhaltens der Arbeitnehmer im Betrieb. Bei der
 Ausübung des Ermessens hat der Arbeitgeber auch auf Behinderungen des
 Arbeitnehmers Rücksicht zu nehmen.
-
 
 #### § 107 Berechnung und Zahlung des Arbeitsentgelts
 
@@ -3820,7 +3648,6 @@ Geldbetrag, den ein Dritter ohne rechtliche Verpflichtung dem
 Arbeitnehmer zusätzlich zu einer dem Arbeitgeber geschuldeten Leistung
 zahlt.
 
-
 #### § 108 Abrechnung des Arbeitsentgelts
 
 (1) Dem Arbeitnehmer ist bei Zahlung des Arbeitsentgelts eine
@@ -3841,7 +3668,6 @@ Rechtsverordnung zu bestimmen. Der Arbeitnehmer kann vom Arbeitgeber
 zu anderen Zwecken eine weitere Entgeltbescheinigung verlangen, die
 sich auf die Angaben nach Absatz 1 beschränkt.
 
-
 #### § 109 Zeugnis
 
 (1) Der Arbeitnehmer hat bei Beendigung eines Arbeitsverhältnisses
@@ -3859,7 +3685,6 @@ ersichtliche Aussage über den Arbeitnehmer zu treffen.
 (3) Die Erteilung des Zeugnisses in elektronischer Form ist
 ausgeschlossen.
 
-
 #### § 110 Wettbewerbsverbot
 
 Arbeitgeber und Arbeitnehmer können die berufliche Tätigkeit des
@@ -3867,17 +3692,11 @@ Arbeitnehmers für die Zeit nach Beendigung des Arbeitsverhältnisses
 durch Vereinbarung beschränken (Wettbewerbsverbot). Die §§ 74 bis 75f
 des Handelsgesetzbuches sind entsprechend anzuwenden.
 
-
 #### (XXXX) §§ 111 und 112 (weggefallen)
-
-
 
 #### (XXXX) §§ 113 bis 132a (weggefallen)
 
-
 ### II. - Meistertitel
-
-
 
 #### § 133 Befugnis zur Führung des Baumeistertitels
 
@@ -3890,20 +3709,11 @@ geregelt.
 
 \*) Zuständige Stelle gemäß Artikel 129 Abs. 1 Satz 1 des Grundgesetzes.
 
-
-
-
-
 #### (XXXX) §§ 133a bis 133d (weggefallen)
-
 
 #### (XXXX) §§ 133e bis 139aa (weggefallen)
 
-
-
 ### III. - Aufsicht
-
-
 
 #### § 139b Gewerbeaufsichtsbehörde
 
@@ -4037,50 +3847,33 @@ zusammen:
 \*) Kl Zuständige Stelle gemäß Artikel 129 Abs. 1 Satz 1 des
     Grundgesetzes.
 
-
-
-
-
 #### (XXXX) §§ 139c bis 139h (weggefallen)
-
 
 #### § 139i
 
 (weggefallen)
 
-
 #### (XXXX) §§ 139k und 139m (weggefallen)
 
-
 ## Titel VIII - Gewerbliche Hilfskassen
-
-
 
 ### § 140
 
 (weggefallen)
 
-
 ### (XXXX) §§ 141 bis 141f (weggefallen)
 
-
 ## Titel IX - Statutarische Bestimmungen
-
-
 
 ### § 142
 
 (weggefallen)
 
-
 ## Titel X - Straf- und Bußgeldvorschriften
-
-
 
 ### § 143
 
 (weggefallen)
-
 
 ### § 144 Verletzung von Vorschriften über erlaubnisbedürftige stehende Gewerbe
 
@@ -4215,7 +4008,6 @@ Fällen des Absatzes 1 Nr. 1 Buchstabe a bis k, Nr. 2 und des Absatzes
 den Fällen des Absatzes 2 Nummer 1a und 2 bis 4 mit einer Geldbuße bis
 zu zweitausendfünfhundert Euro, in den Fällen des Absatzes 3 mit einer
 Geldbuße bis zu eintausend Euro geahndet werden.
-
 
 ### § 145 Verletzung von Vorschriften über das Reisegewerbe
 
@@ -4381,7 +4173,6 @@ bis 8 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, in den
 Fällen des Absatzes 3 mit einer Geldbuße bis zu eintausend Euro
 geahndet werden.
 
-
 ### § 146 Verletzung sonstiger Vorschriften über die Ausübung eines Gewerbes
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -4508,7 +4299,6 @@ fünftausend Euro, in den Fällen des Absatzes 2 Nr. 4 und 7 mit einer
 Geldbuße bis zu zweitausendfünfhundert Euro, in den übrigen Fällen des
 Absatzes 2 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 
-
 ### § 147 Verletzung von Arbeitsschutzvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -4524,7 +4314,6 @@ Absatzes 2 mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
-
 
 ### § 147a Verbotener Erwerb von Edelmetallen und Edelsteinen
 
@@ -4546,7 +4335,6 @@ Gegenstände der in Absatz 1 bezeichneten Art von Minderjährigen
 gewerbsmäßig erwirbt. Die Ordnungswidrigkeit kann mit einer Geldbuße
 bis zu fünftausend Euro geahndet werden.
 
-
 ### § 147b Verbotene Annahme von Entgelten für Pauschalreisen
 
 (1) Ordnungswidrig handelt, wer entgegen § 651k Abs. 4 Satz 1, auch in
@@ -4557,7 +4345,6 @@ fordert oder annimmt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 5.000 Euro
 geahndet werden.
-
 
 ### § 148 Strafbare Verletzung gewerberechtlicher Vorschriften
 
@@ -4573,10 +4360,6 @@ bestraft, wer
     oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
     gefährdet.
 
-
-
-
-
 ### § 148a Strafbare Verletzung von Prüferpflichten
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -4588,7 +4371,6 @@ Bericht verschweigt.
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist
 die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
-
 
 ### § 148b Fahrlässige Hehlerei von Edelmetallen und Edelsteinen
 
@@ -4605,10 +4387,7 @@ Dritten verschafft, ihn absetzt oder absetzen hilft, um sich oder
 einen anderen zu bereichern, wird mit Freiheitsstrafe bis zu einem
 Jahr oder mit Geldstrafe bestraft.
 
-
 ## Titel XI - Gewerbezentralregister
-
-
 
 ### § 149 Einrichtung eines Gewerbezentralregisters
 
@@ -4688,7 +4467,6 @@ Von der Eintragung sind Entscheidungen und Verzichte ausgenommen, die
 nach § 28 des Straßenverkehrsgesetzes in das Verkehrszentralregister
 einzutragen sind.
 
-
 ### § 150 Auskunft auf Antrag des Betroffenen
 
 (1) Auf Antrag erteilt die Registerbehörde einer Person Auskunft über
@@ -4718,7 +4496,6 @@ Abs. 1 kann die Auskunft auch zur Vorlage bei einer Behörde beantragt
 werden. Wird die Auskunft zur Vorlage bei einer Behörde beantragt, ist
 sie der Behörde unmittelbar zu übersenden. Die Behörde hat dem
 Betroffenen auf Verlangen Einsicht in die Auskunft zu gewähren.
-
 
 ### § 150a Auskunft an Behörden oder öffentliche Auftraggeber
 
@@ -4825,7 +4602,6 @@ gewähren.
 Entgegennahme oder Bearbeitung betrauten Bediensteten zur Kenntnis
 gebracht werden.
 
-
 ### § 150b Auskunft für die wissenschaftliche Forschung
 
 (1) Die Registerbehörde kann Hochschulen, anderen Einrichtungen, die
@@ -4879,7 +4655,6 @@ die Ausführung der Vorschriften über den Datenschutz auch dann
 dieser Vorschriften vorliegen oder wenn der Empfänger die
 personenbezogenen Informationen nicht in Dateien verarbeitet.
 
-
 ### § 150c Auskunft an ausländische sowie über- und zwischenstaatliche Stellen
 
 (1) Ersuchen von Stellen eines anderen Staates sowie von über- und
@@ -4915,7 +4690,6 @@ Verwaltungsverfahrensgesetzes gelten entsprechend.
 (4) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
 übermittelnde Stelle.
 
-
 ### § 150d Protokollierungen
 
 (1) Die Registerbehörde fertigt zu den von ihr erteilten Auskünften
@@ -4949,7 +4723,6 @@ Datenschutzkontrolle verwendet werden. Sie sind durch geeignete
 Vorkehrungen gegen Missbrauch zu schützen. Die Protokolldaten sind
 nach einem Jahr zu löschen, es sei denn, sie werden weiterhin für
 Zwecke nach Satz 1 benötigt. Danach sind sie unverzüglich zu löschen.
-
 
 ### § 151 Eintragungen in besonderen Fällen
 
@@ -4988,7 +4761,6 @@ ist dies in das Register einzutragen. Andernfalls wird die Eintragung
 nach Absatz 4 aus dem Register entfernt. Enthält die neue Entscheidung
 einen einzutragenden Inhalt, so ist dies mitzuteilen.
 
-
 ### § 152 Entfernung von Eintragungen
 
 (1) Wird eine nach § 149 Abs. 2 Nr. 1 eingetragene Entscheidung
@@ -5024,7 +4796,6 @@ seit dem Tag der Eintragung aus dem Register entfernt. Enthält das
 Register mehrere Eintragungen, so ist die Entfernung einer Eintragung
 erst zulässig, wenn für alle Eintragungen die Voraussetzungen der
 Entfernung vorliegen.
-
 
 ### § 153 Tilgung von Eintragungen
 
@@ -5078,7 +4849,6 @@ Abs. 2 Nr. 3, bei denen die Geldbuße nicht mehr als 200 Euro beträgt,
 sofern seit dem Eintritt der Rechtskraft der Entscheidung mindestens
 drei Jahre vergangen sind.
 
-
 ### § 153a Mitteilungen zum Gewerbezentralregister
 
 (1) Die Behörden und die Gerichte teilen dem Gewerbezentralregister
@@ -5090,7 +4860,6 @@ Sinne des § 149 Abs. 2 Nr. 3 nicht entgegen.
 Namens einer Person, über die das Register eine Eintragung enthält, so
 ist der neue Name bei der Eintragung zu vermerken.
 
-
 ### § 153b Verwaltungsvorschriften
 
 Die näheren Bestimmungen über den Aufbau des Registers trifft das
@@ -5100,20 +4869,15 @@ und Aufbereitung der Daten sowie die Auskunftserteilung betreffen,
 werden sie von der Bundesregierung mit Zustimmung des Bundesrates
 getroffen.
 
-
 ### - - Schlußbestimmungen
-
-
 
 #### § 154
 
 (weggefallen)
 
-
 #### § 154a
 
 (weggefallen)
-
 
 #### § 155 Landesrecht, Zuständigkeiten
 
@@ -5139,12 +4903,10 @@ ermächtigt, zuständige öffentliche Stellen oder zuständige Behörden
 von mehreren Verwaltungseinheiten für Zwecke der Datenverarbeitung als
 einheitliche Stelle oder Behörde zu bestimmen.
 
-
 #### § 155a Versagung der Auskunft zu Zwecken des Zeugenschutzes
 
 Für die Versagung der Auskunft zu Zwecken des Zeugenschutzes gilt §
 44a des Bundeszentralregistergesetzes entsprechend.
-
 
 #### § 156 Übergangsregelungen
 
@@ -5175,7 +4937,6 @@ Vermögensverhältnisse nach § 34d Abs. 2 Nr. 1, 2 und 4. Die Erlaubnis
 nach dem Rechtsberatungsgesetz erlischt mit der bestandskräftigen
 Entscheidung über den Erlaubnisantrag nach § 34e Abs. 1. Bis zu diesem
 Zeitpunkt gilt sie als Erlaubnis nach § 34e Abs. 1.
-
 
 #### § 157 Übergangsregelungen zu den §§ 34c und 34f
 
@@ -5226,7 +4987,6 @@ Vorlage der Prüfungsberichte nach § 16 Absatz 1 Satz 1 der Makler- und
 Bauträgerverordnung in der am 31. Dezember 2012 geltenden Fassung
 nachzuweisen.
 
-
 #### § 158 Übergangsregelung zu § 14
 
 Bis zum Inkrafttreten der in § 14 Absatz 14 genannten Rechtsverordnung
@@ -5234,10 +4994,7 @@ sind die §§ 14, 55c Satz 2, § 146 Absatz 2 Nummer 2 sowie die Anlagen
 1 bis 3 (zu § 14 Absatz 4) in der bis zum 14. Juli 2011 gültigen
 Fassung anzuwenden.
 
-
 #### (XXXX) Anlage 1 bis 3 (weggefallen)
-
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiete A, B und C, jeweils Abschnitt III (BGBl. II 1990, 889, 1020, 1026, 1028, 1030) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

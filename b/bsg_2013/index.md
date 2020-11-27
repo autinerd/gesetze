@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2446
 
-
 ## § 1
 
 Der Beitragssatz beträgt für das Jahr 2013 in der allgemeinen
 Rentenversicherung 18,9 Prozent und in der knappschaftlichen
 Rentenversicherung 25,1 Prozent.
-
 
 ## § 2
 

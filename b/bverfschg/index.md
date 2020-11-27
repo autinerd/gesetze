@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 20.8.2012 I 1798
 
-
 ## Erster Abschnitt - Zusammenarbeit, Aufgaben der Verfassungsschutzbehörden
-
-
 
 ### § 1 Zusammenarbeitspflicht
 
@@ -36,7 +33,6 @@ Verfassungsschutzes zusammenzuarbeiten.
 (3) Die Zusammenarbeit besteht auch in gegenseitiger Unterstützung und
 Hilfeleistung.
 
-
 ### § 2 Verfassungsschutzbehörden
 
 (1) Für die Zusammenarbeit des Bundes mit den Ländern unterhält der
@@ -48,7 +44,6 @@ angegliedert werden.
 (2) Für die Zusammenarbeit der Länder mit dem Bund und der Länder
 untereinander unterhält jedes Land eine Behörde zur Bearbeitung von
 Angelegenheiten des Verfassungsschutzes.
-
 
 ### § 3 Aufgaben der Verfassungsschutzbehörden
 
@@ -112,7 +107,6 @@ geregelt.
 
 (3) Die Verfassungsschutzbehörden sind an die allgemeinen
 Rechtsvorschriften gebunden (Artikel 20 des Grundgesetzes).
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -180,10 +174,6 @@ f)  der Ausschluß jeder Gewalt- und Willkürherrschaft und
 
 g)  die im Grundgesetz konkretisierten Menschenrechte.
 
-
-
-
-
 ### § 5 Abgrenzung der Zuständigkeiten der Verfassungsschutzbehörden
 
 (1) Die Landesbehörden für Verfassungsschutz sammeln Informationen,
@@ -220,7 +210,6 @@ Landesbehörden für Verfassungsschutz über alle Unterlagen, deren
 Kenntnis für das Land zum Zwecke des Verfassungsschutzes erforderlich
 ist.
 
-
 ### § 6 Gegenseitige Unterrichtung der Verfassungsschutzbehörden
 
 Die Verfassungsschutzbehörden sind verpflichtet, beim Bundesamt für
@@ -249,7 +238,6 @@ unmittelbar mit Arbeiten in diesem Anwendungsgebiet betraut sind; in
 der Dateianordnung (§ 14) ist die Erforderlichkeit der Aufnahme von
 Textzusätzen in der Datei zu begründen.
 
-
 ### § 7 Weisungsrechte des Bundes
 
 Die Bundesregierung kann, wenn ein Angriff auf die verfassungsmäßige
@@ -257,10 +245,7 @@ Ordnung des Bundes erfolgt, den obersten Landesbehörden die für die
 Zusammenarbeit der Länder mit dem Bund auf dem Gebiete des
 Verfassungsschutzes erforderlichen Weisungen erteilen.
 
-
 ## Zweiter Abschnitt - Bundesamt für Verfassungsschutz
-
-
 
 ### § 8 Befugnisse des Bundesamtes für Verfassungsschutz
 
@@ -297,7 +282,6 @@ Verfassungsschutz diejenige zu wählen, die den Betroffenen
 voraussichtlich am wenigsten beeinträchtigt. Eine Maßnahme darf keinen
 Nachteil herbeiführen, der erkennbar außer Verhältnis zu dem
 beabsichtigten Erfolg steht.
-
 
 ### § 8a Besondere Auskunftsverlangen
 
@@ -409,7 +393,6 @@ Personen richten, bei denen
 
 
 (4) bis (9) (weggefallen)
-
 
 ### § 8b Verfahrensregelungen zu besonderen Auskunftsverlangen
 
@@ -554,14 +537,12 @@ Absatz 5 entsprechen, und die auf Grund von Absatz 8 Satz 1 bis 3
 erlassene Rechtsverordnung sowie die Vorgaben nach Absatz 8 Satz 4 und
 5 für solche Auskünfte für anwendbar erklären.
 
-
 ### § 8c Einschränkungen eines Grundrechts
 
 Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des
 Grundgesetzes) wird nach Maßgabe des § 8a Absatz 2 Satz 1 Nummer 4 und
 5 und Absatz 3 sowie des § 8b Absatz 1, 2, 4 bis 8 und 10
 eingeschränkt.
-
 
 ### § 9 Besondere Formen der Datenerhebung
 
@@ -646,7 +627,6 @@ unterliegen einem absoluten Verwendungsverbot und sind nach Beendigung
 der Maßnahme unverzüglich zu löschen. § 8b Absatz 1 bis 3 und 7 Satz 1
 gilt entsprechend.
 
-
 ### § 10 Speicherung, Veränderung und Nutzung personenbezogener Daten
 
 (1) Das Bundesamt für Verfassungsschutz darf zur Erfüllung seiner
@@ -671,7 +651,6 @@ nutzen, wenn
 (3) Das Bundesamt für Verfassungsschutz hat die Speicherungsdauer auf
 das für seine Aufgabenerfüllung erforderliche Maß zu beschränken.
 
-
 ### § 11 Speicherung, Veränderung und Nutzung personenbezogener Daten von Minderjährigen
 
 (1) Das Bundesamt für Verfassungsschutz darf unter den Voraussetzungen
@@ -692,7 +671,6 @@ einer Person erforderlich ist.
 Speicherung zu überprüfen und spätestens nach fünf Jahren zu löschen,
 es sei denn, daß nach Eintritt der Volljährigkeit weitere Erkenntnisse
 nach § 3 Abs. 1 angefallen sind.
-
 
 ### § 12 Berichtigung, Löschung und Sperrung personenbezogener Daten in Dateien
 
@@ -723,7 +701,6 @@ Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines
 ordnungsgemäßen Betriebes einer Datenverarbeitungsanlage gespeichert
 werden, dürfen nur für diese Zwecke verwendet werden.
 
-
 ### § 13 Berichtigung und Sperrung personenbezogener Daten in Akten
 
 (1) Stellt das Bundesamt für Verfassungsschutz fest, daß in Akten
@@ -739,7 +716,6 @@ sind. Gesperrte Daten sind mit einem entsprechenden Vermerk zu
 versehen; sie dürfen nicht mehr genutzt oder übermittelt werden. Eine
 Aufhebung der Sperrung ist möglich, wenn ihre Voraussetzungen
 nachträglich entfallen.
-
 
 ### § 14 Dateianordnungen
 
@@ -782,7 +758,6 @@ Textdateien ist die Zugriffsberechtigung auf Personen zu beschränken,
 die unmittelbar mit Arbeiten in dem Gebiet betraut sind, dem die
 Textdateien zugeordnet sind; Auszüge aus Textdateien dürfen nicht ohne
 die dazugehörenden erläuternden Unterlagen übermittelt werden.
-
 
 ### § 15 Auskunft an den Betroffenen
 
@@ -833,7 +808,6 @@ den Betroffenen dürfen keine Rückschlüsse auf den Erkenntnisstand des
 Bundesamtes für Verfassungsschutz zulassen, sofern es nicht einer
 weitergehenden Auskunft zustimmt.
 
-
 ### § 16 Berichtspflicht des Bundesamtes für Verfassungsschutz
 
 (1) Das Bundesamt für Verfassungsschutz unterrichtet das
@@ -852,10 +826,7 @@ Bundeshaushaltes an das Bundesamt für Verfassungsschutz und den
 Militärischen Abschirmdienst sowie die jeweilige Gesamtzahl ihrer
 Bediensteten anzugeben.
 
-
 ## Dritter Abschnitt - Übermittlungsvorschriften
-
-
 
 ### § 17 Zulässigkeit von Ersuchen
 
@@ -898,7 +869,6 @@ Satz 4 zuständigen Bundesministeriums für Ausschreibungen durch den
 Militärischen Abschirmdienst das Bundesministerium der Verteidigung
 und für Ausschreibungen durch den Bundesnachrichtendienst das
 Bundeskanzleramt tritt.
-
 
 ### § 18 Übermittlung von Informationen an die Verfassungsschutzbehörden
 
@@ -1003,7 +973,6 @@ begangen hat. Auf die einer Verfassungsschutzbehörde nach Satz 1
 übermittelten Kenntnisse und Unterlagen findet § 4 Abs. 1 und 4 des
 Artikel 10-Gesetzes entsprechende Anwendung.
 
-
 ### § 19 Übermittlung personenbezogener Daten durch das Bundesamt für Verfassungsschutz
 
 (1) Das Bundesamt für Verfassungsschutz darf personenbezogene Daten an
@@ -1064,7 +1033,6 @@ mitwirken. Hiervon abweichend findet Absatz 4 Satz 5 und 6 in Fällen
 Anwendung, in denen die Datenerhebung nicht mit den in § 8 Absatz 2
 bezeichneten Mitteln erfolgt.
 
-
 ### § 20 Übermittlung von Informationen durch das Bundesamt für Verfassungsschutz an Strafverfolgungs- und Sicherheitsbehörden in Angelegenheiten des Staats- und Verfassungsschutzes
 
 (1) Das Bundesamt für Verfassungsschutz übermittelt den
@@ -1094,7 +1062,6 @@ Erfüllung seiner Aufgaben das Bundesamt für Verfassungsschutz um die
 Übermittlung der erforderlichen Informationen einschließlich
 personenbezogener Daten ersuchen.
 
-
 ### § 21 Übermittlung von Informationen durch die Verfassungsschutzbehörden der Länder an Strafverfolgungs- und Sicherheitsbehörden in Angelegenheiten des Staats- und Verfassungsschutzes
 
 (1) Die Verfassungsschutzbehörden der Länder übermitteln den
@@ -1110,7 +1077,6 @@ Bundesnachrichtendienst und dem Militärischen Abschirmdienst
 Informationen einschließlich personenbezogener Daten unter den
 Voraussetzungen des § 20 Abs. 1 Satz 3 sowie Abs. 2 Satz 2.
 
-
 ### § 22 Übermittlung von Informationen durch die Staatsanwaltschaften und Polizeien an den Militärischen Abschirmdienst
 
 Für die Übermittlung von Informationen einschließlich
@@ -1120,7 +1086,6 @@ Polizeien, die Behörden des Zollfahndungsdienstes sowie andere
 Zolldienststellen, soweit diese Aufgaben nach dem Bundespolizeigesetz
 wahrnehmen, an den Militärischen Abschirmdienst findet § 18
 entsprechende Anwendung.
-
 
 ### § 22a Projektbezogene gemeinsame Dateien
 
@@ -1229,7 +1194,6 @@ Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist
 vor Erlass einer Dateianordnung anzuhören. § 14 Abs. 3 Halbsatz 1 gilt
 entsprechend.
 
-
 ### § 23 Übermittlungsverbote
 
 Die Übermittlung nach den Vorschriften dieses Abschnitts unterbleibt,
@@ -1248,10 +1212,6 @@ wenn
     Verpflichtung zur Wahrung gesetzlicher Geheimhaltungspflichten oder
     von Berufs- oder besonderen Amtsgeheimnissen, die nicht auf
     gesetzlichen Vorschriften beruhen, bleibt unberührt.
-
-
-
-
 
 ### § 24 Minderjährigenschutz
 
@@ -1276,7 +1236,6 @@ ist oder tatsächliche Anhaltspunkte dafür vorliegen, dass die
 Übermittlung zur Verfolgung einer der in § 3 Abs. 1 des Artikel
 10-Gesetzes genannten Straftaten erforderlich ist.
 
-
 ### § 25 Pflichten des Empfängers
 
 Der Empfänger prüft, ob die nach den Vorschriften dieses Gesetzes
@@ -1288,7 +1247,6 @@ Informationen, die zur Erfüllung der Aufgaben erforderlich sind, nicht
 oder nur mit unvertretbarem Aufwand möglich ist; in diesem Fall sind
 die Daten zu sperren.
 
-
 ### § 26 Nachberichtspflicht
 
 Erweisen sich personenbezogene Daten nach ihrer Übermittlung nach den
@@ -1296,10 +1254,7 @@ Vorschriften dieses Gesetzes als unvollständig oder unrichtig, so sind
 sie unverzüglich gegenüber dem Empfänger zu berichtigen, es sei denn,
 daß dies für die Beurteilung eines Sachverhalts ohne Bedeutung ist.
 
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 27 Geltung des Bundesdatenschutzgesetzes
 

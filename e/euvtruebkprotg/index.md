@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1995, 914
 
-
-
 ## Art 1
 
 Den folgenden in Brüssel am 19. Dezember 1988 von der Bundesrepublik
@@ -43,7 +41,6 @@ Deutschland unterzeichneten Protokollen wird zugestimmt:
 
 Die Protokolle werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 (1) In dem Vorlagebeschluß an den Gerichtshof zur Vorabentscheidung
@@ -65,12 +62,10 @@ ist die zu klärende Auslegungsfrage darzulegen und
 (2) Soweit dies zur Beurteilung der Auslegungsfrage erforderlich ist,
 ist der Sach- und Streitstand in gedrängter Form darzustellen.
 
-
 ## Art 3
 
 Das Bundesministerium der Justiz bestimmt die zuständige Stelle im
 Sinne des Artikels 3 des Ersten Protokolls.
-
 
 ## Art 4
 

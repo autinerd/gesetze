@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1709
 
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
@@ -27,7 +26,6 @@ Bundesministerium für Wirtschaft und Technologie nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
 Die vom 1. August 2007 bis zum 31. Juli 2012 von dem Theodor-Reuter-
@@ -36,7 +34,6 @@ Fertigungstechnik und Elektrotechnik erteilten Prüfungszeugnisse über
 erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen
 über das Bestehen der Abschlussprüfung in Ausbildungsberufen nach
 Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
-
 
 ## § 2 Fortgeltung von Gleichstellungen
 
@@ -66,18 +63,15 @@ Die Gleichstellungen für die auf Grund
 
 bis zum Ablauf des 31. Juli 2007 erteilten Zeugnisse gelten fort.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. August 2007 in Kraft.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 

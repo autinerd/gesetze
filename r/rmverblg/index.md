@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 365
 
-
-
 ## § 1
 
 (1) Reichsmarkverbindlichkeiten zwischen Ländern, Gemeinden und
@@ -26,7 +24,6 @@ dem 21. Juni 1948 fällig geworden sind.
 (2) Reichsmarkverbindlichkeiten aus Abgaben zwischen
 Gebietskörperschaften erlöschen ohne Rücksicht auf den Zeitpunkt der
 Fälligkeit.
-
 
 ## § 2
 
@@ -63,7 +60,6 @@ e)  Verbindlichkeiten zwischen Ländern, die sich aus der Auflösung des
 andere regelmäßig wiederkehrende Leistungen, die vor dem 21. Juni 1948
 fällig geworden sind.
 
-
 ## § 3
 
 (1) Bei Meinungsverschiedenheiten darüber, ob eine
@@ -85,12 +81,10 @@ des Schiedsverfahrens über die zuständige Aufsichtsbehörde zu leiten.
 
 (5) Die Entscheidung der Schiedsstelle ist endgültig.
 
-
 ## § 4
 
 Dieses Gesetz findet auf bereits erfüllte Verbindlichkeiten keine
 Anwendung.
-
 
 ## § 5
 

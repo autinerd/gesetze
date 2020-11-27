@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 9.5.2011 I 810
 
-
 ## Abschnitt 1 - Prüfungsausschuss, Prüfungskommission
-
-
 
 ### § 1 Errichtung
 
@@ -30,7 +27,6 @@ errichtet die zuständige Aufsichtsbehörde einen Prüfungsausschuss.
 
 (2) Für den Bereich mehrerer Länder kann durch Vereinbarung ein
 gemeinsamer Prüfungsausschuss errichtet werden.
-
 
 ### § 2 Zusammensetzung und Berufung des Prüfungsausschusses
 
@@ -78,7 +74,6 @@ Stelle die Befugnisse der zuständigen Aufsichtsbehörde wahr.
 (6) Der Vorsitzende kann Aufgaben auf den Prüfungsleiter nach § 14
 Absatz 2 übertragen.
 
-
 ### § 3 Ausschluss und Befangenheit
 
 (1) Bei der Prüfung darf nicht mitwirken, wer Vorgesetzter eines
@@ -92,10 +87,7 @@ abzubrechen. Über die Fortsetzung oder erneute Anberaumung der Prüfung
 beschließt die Prüfungskommission mit den Stimmen der nicht befangenen
 Mitglieder.
 
-
 ### § 4 (weggefallen)
-
-
 
 ### § 5 Geschäftsführung
 
@@ -105,17 +97,13 @@ Prüfungsausschuss nach § 1 Abs. 2 für den Bereich mehrerer Länder
 errichtet worden, so nimmt die von den Ländern bestimmte Stelle die
 Geschäftsführung wahr.
 
-
 ### § 6 Verschwiegenheit
 
 Die Mitglieder des Prüfungsausschusses haben über die Prüfungsvorgänge
 gegenüber Dritten Stillschweigen zu wahren. Ausnahmen bedürfen der
 Einwilligung der zuständigen Aufsichtsbehörde.
 
-
 ## Abschnitt 2 - Zulassung zur Prüfung
-
-
 
 ### § 7 Zulassungsvoraussetzungen
 
@@ -154,10 +142,6 @@ Zur Prüfung wird auf eigenen Antrag zugelassen, wer
     mindestens drei Jahre als bestätigter Straßenbahn-Betriebsleiter tätig
     gewesen ist.
 
-
-
-
-
 ### § 8 Anmeldung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist vom Bewerber an die für
@@ -183,10 +167,6 @@ Unterlagen beizufügen:
 
 3.  Nachweise über seine Tätigkeiten nach § 7 Nr. 2 oder 3.
 
-
-
-
-
 ### § 9 Entscheidung über die Zulassung
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet die
@@ -200,10 +180,7 @@ Prüfungsausschuss die Prüfung abzulegen ist. Eine nach Absatz 1 Satz 2
 zugelassene Ausnahme ist gesondert zu begründen. Ein ablehnender
 Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
 ## Abschnitt 3 - Durchführung der Prüfung
-
-
 
 ### § 10 Zweck der Prüfung
 
@@ -220,7 +197,6 @@ Betriebsleitertätigkeit soll er rasch und sicher erfassen, mit den
 zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und
 übersichtlich darstellen.
 
-
 ### § 11 Prüfungstermine
 
 (1) Prüfungen sollen mindestens einmal im Jahr durchgeführt werden.
@@ -233,7 +209,6 @@ auch über den Prüfungsablauf, über die jeweils zur Verfügung stehende
 Zeit sowie über die während der Prüfung zugelassenen Arbeits- und
 Hilfsmittel. Diese Arbeits- und Hilfsmittel sind von den Prüflingen
 zur Prüfung mitzubringen.
-
 
 ### § 12 Gliederung der Prüfung
 
@@ -393,7 +368,6 @@ Fahrzeuge sowie des Faches Bahnbetrieb sind die fachübergreifenden
 Gesichtspunkte der Risikoabwägung und Sicherheitsplanung
 einzubeziehen.
 
-
 ### § 13 Schriftliche Prüfung
 
 (1) Der Vorsitzende des Prüfungsausschusses bestimmt die
@@ -423,7 +397,6 @@ bewertet worden, so ist die Prüfung durch den Vorsitzenden des
 Prüfungsausschusses als nicht bestanden zu erklären. Die Entscheidung
 ist dem Prüfling durch die zuständige Aufsichtsbehörde mit einer
 Rechtsbehelfsbelehrung zuzustellen.
-
 
 ### § 14 Mündliche Prüfung
 
@@ -466,7 +439,6 @@ geprüft werden.
 Fachgebiet mit einer Zwischennote (mündliche Fachzwischennote). Bei
 Stimmengleichheit entscheidet der jeweilige Fachprüfer.
 
-
 ### § 15 Nichtöffentlichkeit
 
 Die mündliche Prüfung ist nicht öffentlich. Es können aber beauftragte
@@ -478,7 +450,6 @@ Prüfungsfächern dürfen nur die Mitglieder der Prüfungskommission sowie
 der Protokollant teilnehmen. Das Prüfungsergebnis wird den Prüflingen
 unter Ausschluss der Öffentlichkeit bekannt gegeben.
 
-
 ### § 16 Ausweispflicht und Belehrung
 
 Die Prüflinge haben sich auf Verlangen des Aufsichtführenden bei der
@@ -487,7 +458,6 @@ Prüfung auszuweisen. Sie sind vor Beginn eines jeden Teils der Prüfung
 über die jeweils zur Verfügung stehende Zeit, über die während der
 Prüfung zugelassenen Arbeits- und Hilfsmittel sowie über die Folgen
 von Täuschungshandlungen und Ordnungsverstößen zu belehren.
-
 
 ### § 17 Täuschungshandlungen und Ordnungsverstöße
 
@@ -499,7 +469,6 @@ Prüfung kann der Aufsichtführende den Prüfling vorläufig ausschließen.
 nach Anhörung des Prüflings. In schwerwiegenden Fällen, insbesondere
 bei vorbereiteten Täuschungshandlungen, kann die Prüfung insgesamt für
 nicht bestanden erklärt werden.
-
 
 ### § 18 Rücktritt und Nichtteilnahme
 
@@ -516,10 +485,7 @@ Prüfungsleistungen anerkannt werden; in diesem Fall ist die Prüfung
 zum nächstmöglichen Termin fortzusetzen. Über das Vorliegen eines
 wichtigen Grundes entscheidet der Vorsitzende des Prüfungsausschusses.
 
-
 ## Abschnitt 4 - Bewerten und Feststellen der Prüfungsergebnisse, Erteilen der Prüfungszeugnisse
-
-
 
 ### § 19 Bewerten der einzelnen Prüfungsleistungen
 
@@ -529,7 +495,6 @@ Fach der mündlichen Prüfung sind nach der Anlage zu bewerten.
 (2) Bei der Bewertung der einzelnen Prüfungsleistungen sind neben
 Kenntnissen auch Form und Ausdrucksweise zu berücksichtigen. § 19: IdF
 d. Art. 5 Nr. 2 V v. 5.7.2007 I 1305 mWv 14.7.2007
-
 
 ### § 20 Feststellen und Bekanntgeben des Prüfungsergebnisses
 
@@ -588,7 +553,6 @@ mit.
 Prüfungsergebnisses ist eine Niederschrift zu fertigen. Sie ist von
 den Mitgliedern der Prüfungskommission zu unterzeichnen.
 
-
 ### § 21 Prüfungszeugnis
 
 Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das von
@@ -597,7 +561,6 @@ zu unterschreiben ist. In dem Zeugnis sind Vorname und Familienname,
 gegebenenfalls auch der Geburtsname des Prüflings, der Tag seiner
 Geburt, der Geburtsort sowie der Tag des Bestehens der Prüfung
 anzugeben.
-
 
 ### § 22 Nicht bestandene Prüfung
 
@@ -608,10 +571,7 @@ erreicht wurden. Auf die besonderen Bedingungen der
 Wiederholungsprüfung (§ 23) ist hinzuweisen. Der Bescheid ist mit
 einer Rechtsbehelfsbelehrung zu versehen.
 
-
 ## Abschnitt 5 - Wiederholungsprüfung, Einsicht in die Prüfungsunterlagen, Aufbewahrung
-
-
 
 ### § 23 Wiederholungsprüfung
 
@@ -629,7 +589,6 @@ bestandenen Prüfung zur Wiederholungsprüfung anmeldet.
 nach § 12 Abs. 2 bis 4. Eine Anrechnung von früheren
 Prüfungsleistungen ist ausgeschlossen.
 
-
 ### § 24 Prüfungsunterlagen
 
 (1) Auf Antrag ist dem Prüfling nach Beendigung der Prüfung Einsicht
@@ -640,14 +599,9 @@ Widerspruchs- oder verwaltungsgerichtliche Verfahren erteilt werden.
 (2) Die Prüfungsunterlagen sind zehn Jahre nach Bekanntgabe des
 Prüfungsergebnisses aufzubewahren.
 
-
 ## Abschnitt 6 - Übergangsvorschriften
 
-
-
 ### § 25 (weggefallen)
-
-
 
 ### Anlage (zu § 19 Absatz 1)
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 321 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -48,16 +47,11 @@ Bundesberggesetzes durch Rechtsverordnung
 3.  das nähere Verfahren, insbesondere hinsichtlich Mitteilungspflichten
     und einzureichender Anträge und Unterlagen, näher zu regeln.
 
-
-
-
-
 ## § 2
 
 Für Amtshandlungen auf Grund der nach § 1 erlassenen
 Rechtsverordnungen ist das Bundesamt für Seeschiffahrt und
 Hydrographie zuständig.
-
 
 ## § 3
 
@@ -68,7 +62,6 @@ für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch
 Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu
 bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-
 ## § 4
 
 Die Bestimmungen der §§ 3d, 4 und 8, auch in Verbindung mit § 21, des
@@ -76,7 +69,6 @@ Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 27.
 September 1994 (BGBl. I S. 2802), das durch Artikel 1 des Gesetzes vom
 6\. Juni 1995 (BGBl. I S. 778) geändert worden ist, gelten
 entsprechend.
-
 
 ## § 5
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 10 G v. 10.11.2001 I 2992
 
-
 ## § 1
 
 Über den Antrag auf Erteilung einer Unbedenklichkeitsbescheinigung für
@@ -36,7 +35,6 @@ Jahren. Das Bundeskriminalamt kann in den Fällen des § 3 Abs. 1 Nr. 1
 mit der Durchführung von Teilen der Prüfung ein Fachinstitut
 beauftragen.
 
-
 ## § 2
 
 Der Antragsteller hat dem Antrag eine Spielbeschreibung, die
@@ -47,7 +45,6 @@ es sich um eine Spieleinrichtung handelt, eine betriebsfertige
 Einrichtung einzureichen. Der Antragsteller ist verpflichtet, dem
 Bundeskriminalamt auf Verlangen ein Muster der Spieleinrichtung oder
 einzelner Teile zu überlassen.
-
 
 ## § 3
 
@@ -66,7 +63,6 @@ einzelner Teile zu überlassen.
 (2) Für jeden Nachbau einer Spieleinrichtung nach Absatz 1 Nr. 1
 erhält der Hersteller einen Abdruck der
 Unbedenklichkeitsbescheinigung.
-
 
 ## § 4
 
@@ -101,10 +97,6 @@ Die Unbedenklichkeitsbescheinigung enthält
 
 7.  etwaige Nebenbestimmungen.
 
-
-
-
-
 ## § 5
 
 Spiele, für die das Bundeskriminalamt eine
@@ -112,7 +104,6 @@ Unbedenklichkeitsbescheinigung erteilt hat, werden im Gemeinsamen
 Ministerialblatt bekanntgemacht. Das gleiche gilt, wenn eine
 Unbedenklichkeitsbescheinigung zurückgenommen oder widerrufen worden
 oder abgelaufen ist und nicht mehr erteilt wird.
-
 
 ## § 6
 
@@ -190,11 +181,9 @@ Verwaltungskostengesetzes genannten Auslagen, insbesondere die
 Aufwendungen zu erstatten, die im Falle des § 1 Satz 3 durch die
 Beauftragung eines Fachinstituts entstehen.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8
 

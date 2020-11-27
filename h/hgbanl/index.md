@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 1120, 1123
 
-
-
 ## Art 1 Begriffsbestimmungen
 
 In den Bestimmungen dieser Anlage sind die folgenden Ausdrücke in dem
@@ -116,13 +114,6 @@ nachstehend angegebenen Sinn verwendet:
         Beauftragten an Land oder an Bord bis zur Wiederaushändigung durch den
         Beförderer oder seine Bediensteten oder Beauftragten.
 
-
-
-
-
-
-
-
 ## Art 2 Haftung des Beförderers
 
 (1) Der Beförderer haftet für den Schaden, der durch den Tod oder die
@@ -148,7 +139,6 @@ ungeachtet der Art des den Verlust oder die Beschädigung
 verursachenden Ereignisses vermutet. In allen anderen Fällen obliegt
 dem Kläger der Beweis, daß dieser Verlust oder diese Beschädigung auf
 Verschulden beruht.
-
 
 ## Art 3 Ausführender Beförderer
 
@@ -178,7 +168,6 @@ haftbar sind, haften sie gesamtschuldnerisch.
 (5) Dieser Artikel berührt das Rückgriffsrecht zwischen Beförderer und
 ausführendem Beförderer nicht.
 
-
 ## Art 4 Wertsachen
 
 Der Beförderer haftet nicht für den Verlust oder die Beschädigung von
@@ -189,14 +178,12 @@ worden sind; in diesem Fall haftet der Beförderer bis zu dem in
 Artikel 6 Abs. 3 festgelegten Höchstbetrag, sofern nicht nach Artikel
 7 Abs. 1 ein höherer Betrag vereinbart worden ist.
 
-
 ## Art 5 Haftungsbeschränkung bei Körperverletzung
 
 Die Haftung des Beförderers bei Tod oder Körperverletzung eines
 Reisenden ist in jedem Fall auf einen Betrag von 320.000 Deutsche Mark
 je Beförderung beschränkt. Dies gilt auch für den Kapitalwert einer
 als Entschädigung festgesetzten Rente.
-
 
 ## Art 6 Haftungsbeschränkung für Verlust oder Beschädigung von Gepäck
 
@@ -220,7 +207,6 @@ eines Fahrzeugs 600 Deutsche Mark und bei Verlust oder Beschädigung
 anderen Gepäcks 60 Deutsche Mark je Reisenden nicht übersteigen darf.
 Dieser Betrag wird von der Schadenssumme abgezogen.
 
-
 ## Art 7 Ergänzungsbestimmungen über Haftungshöchstbeträge
 
 (1) Der Beförderer und der Reisende können ausdrücklich und
@@ -229,7 +215,6 @@ schriftlich höhere Haftungshöchstbeträge als die in den Artikeln 5 und
 
 (2) Zinsen und Verfahrenskosten fallen nicht unter die in den Artikeln
 5 und 6 vorgeschriebenen Haftungshöchstbeträge.
-
 
 ## Art 8 Einreden und Beschränkungen für die Bediensteten des Beförderers
 
@@ -240,7 +225,6 @@ sich, sofern er beweist, daß er in Ausübung seiner Verrichtungen
 gehandelt hat, auf die Einreden und Haftungsbeschränkungen berufen,
 die nach den Bestimmungen dieser Anlage für den Beförderer oder den
 ausführenden Beförderer gelten.
-
 
 ## Art 9 Mehrere Ansprüche
 
@@ -267,7 +251,6 @@ ausführenden Beförderer sowie von diesen Bediensteten oder
 Beauftragten erlangt werden kann, diese Höchstbeträge nicht
 übersteigen.
 
-
 ## Art 10 Verlust des Rechts auf Haftungsbeschränkung
 
 (1) Der Beförderer verliert das Recht auf Haftungsbeschränkung nach
@@ -279,14 +262,12 @@ vorsätzlich oder grob fahrlässig herbeigeführt worden ist.
 ausführenden Beförderers verliert das Recht auf Haftungsbeschränkung,
 wenn ihm Vorsatz oder grobe Fahrlässigkeit zur Last fällt.
 
-
 ## Art 11 Grundlage für Ansprüche
 
 Eine Schadensersatzklage wegen Tod oder Körperverletzung eines
 Reisenden oder wegen Verlust oder Beschädigung von Gepäck kann gegen
 einen Beförderer oder ausführenden Beförderer nur auf der Grundlage
 der Bestimmungen dieser Anlage erhoben werden.
-
 
 ## Art 12 Anzeige des Verlusts oder der Beschädigung von Gepäck
 
@@ -322,7 +303,6 @@ unbeschädigt erhalten hat.
 Gepäcks im Zeitpunkt seines Empfangs von den Parteien gemeinsam
 festgestellt oder geprüft worden ist.
 
-
 ## Art 13 Verjährung von Schadensersatzansprüchen
 
 (1) Ansprüche auf Schadensersatz wegen Tod oder Körperverletzung eines
@@ -354,14 +334,12 @@ Erklärung des Beförderers oder durch Vereinbarung der Parteien nach
 der Entstehung des Anspruchsgrunds verlängert werden. Erklärung und
 Vereinbarung bedürfen der Schriftform.
 
-
 ## Art 14 Zuständiges Gericht
 
 Für Klagen, die auf Grund der Bestimmungen dieser Anlage erhoben
 werden, ist auch das Gericht zuständig, in dessen Bezirk sich der in
 dem Beförderungsvertrag bestimmte Abgangs- oder Bestimmungsort
 befindet.
-
 
 ## Art 15 Nichtige Vereinbarungen
 
@@ -378,7 +356,6 @@ in Artikel 14 bezeichneten Gerichts auszuschließen, ist nichtig; die
 Nichtigkeit dieser Vereinbarung hat jedoch nicht die Nichtigkeit des
 Beförderungsvertrags zur Folge; dieser bleibt den Bestimmungen dieser
 Anlage unterworfen.
-
 
 ## Art 16 Gewerbsmäßige Beförderung durch öffentlich-rechtliche Körperschaften
 

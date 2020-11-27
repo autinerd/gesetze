@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.1.2009 I 68
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 4 des Stammzellgesetzes vom 28. Juni 2002
 (BGBl. I S. 2277) verordnet die Bundesregierung und auf Grund des § 7
 Abs. 1 Satz 1 des Stammzellgesetzes verordnet das Bundesministerium
 für Gesundheit:
-
 
 ## § 1 Zuständige Behörde
 
@@ -36,7 +34,6 @@ ist das Robert Koch-Institut.
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 14 Absatz 1 des Stammzellgesetzes wird auf
 das Robert Koch-Institut übertragen.
-
 
 ## § 2 Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung
 
@@ -48,7 +45,6 @@ Forschungsvorhaben, die Gegenstand eines Antrags auf Genehmigung nach
 Stammzellgesetzes erfüllen und in diesem Sinne ethisch vertretbar
 sind, und gibt dazu gegenüber der zuständigen Behörde schriftliche
 Stellungnahmen nach den Vorschriften dieser Verordnung ab.
-
 
 ## § 3 Berufung der Mitglieder und stellvertretenden Mitglieder
 
@@ -67,7 +63,6 @@ derselben Fachrichtung für den Rest des Berufungszeitraums berufen.
 Mitglieder und der stellvertretenden Mitglieder im Bundesanzeiger
 bekannt.
 
-
 ## § 4 Mitglieder und stellvertretende Mitglieder
 
 (1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt.
@@ -80,7 +75,6 @@ Sitzungsentschädigung.
 schriftliche Erklärung gegenüber dem Bundesministerium für Gesundheit
 ihre Mitgliedschaft jederzeit beenden.
 
-
 ## § 5 Vorsitz und Stellvertretung
 
 Die Mitglieder oder die stimmberechtigten stellvertretenden Mitglieder
@@ -89,7 +83,6 @@ Vorsitz (vorsitzendes Mitglied) und zwei Personen für die
 Stellvertretung. Die Wahl erfolgt für die Dauer von drei Jahren,
 längstens jedoch für die Dauer der Mitgliedschaft. Die Wiederwahl ist
 zulässig.
-
 
 ## § 6 Berichterstatter
 
@@ -110,7 +103,6 @@ Stellungnahmen der Kommission ab. Sie berichten der Kommission.
 (3) Die Berichterstatter können der Kommission Vorschläge für
 Maßnahmen nach § 7 machen.
 
-
 ## § 7 Sachverständige und andere Beteiligte
 
 (1) Zur Erfüllung ihrer Aufgaben kann die Kommission auf Antrag von
@@ -125,7 +117,6 @@ antragstellende Person nach § 6 Abs. 2 des Stammzellgesetzes oder die
 für das Forschungsvorhaben verantwortliche Person (§ 6 Abs. 2 Satz 2
 Nr. 1 des Stammzellgesetzes) anzuhören und zu ihren Sitzungen zu
 laden.
-
 
 ## § 8 Geschäftsstelle
 
@@ -144,7 +135,6 @@ entgegen, unterrichtet die zuständige Behörde bei Unvollständigkeit
 oder sonstigen offensichtlichen Mängeln der Antragsunterlagen nach § 6
 Abs. 2 des Stammzellgesetzes unverzüglich und sorgt für die
 fristgerechte Abgabe der Stellungnahmen durch die Kommission.
-
 
 ## § 9 Sitzungen der Kommission
 
@@ -171,7 +161,6 @@ Geschäftsstelle.
 (5) Auf Antrag der Mehrheit der Mitglieder der Kommission ist zu einer
 außerordentlichen Sitzung einzuladen.
 
-
 ## § 10 Durchführung von Sitzungen
 
 (1) Die Sitzungen der Kommission sind nicht öffentlich. Die
@@ -189,7 +178,6 @@ die sie vertretenden stellvertretenden Mitglieder.
 
 (5) Die Sitzungsteilnehmer haben über den Inhalt der Sitzung
 Verschwiegenheit zu wahren.
-
 
 ## § 11 Beschlussfassung
 
@@ -210,7 +198,6 @@ Einzelerwägungen die Ablehnung der Stellungnahme beruht.
 (4) Die Kommission kann im schriftlichen Verfahren entscheiden, wenn
 die Berichterstatter übereinstimmende Voten abgeben. Das Nähere regelt
 die Kommission in ihrer Geschäftsordnung.
-
 
 ## § 12 Sitzungsprotokoll
 
@@ -233,7 +220,6 @@ unterzeichnen.
 Mitglieder, die stellvertretenden Mitglieder und die zuständige
 Behörde. Das Sitzungsprotokoll ist vertraulich zu behandeln.
 
-
 ## § 13 Zusammenarbeit mit der zuständigen Behörde
 
 (1) Die Kommission soll spätestens sechs Wochen, nachdem ihr die
@@ -248,12 +234,10 @@ Bewertung der Hochrangigkeit der geplanten Forschungsarbeiten und das
 Abstimmungsergebnis enthalten. Sie muss im Fall des § 11 Abs. 3 auch
 die Minderheitsvoten enthalten.
 
-
 ## § 14 Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
 
 Die Kommission erstellt einen jährlichen Tätigkeitsbericht, der vom
 Bundesministerium für Gesundheit veröffentlicht wird.
-
 
 ## § 15 Geschäftsordnung
 
@@ -261,7 +245,6 @@ Die Kommission gibt sich eine Geschäftsordnung. Die Geschäftsordnung
 bedarf der Zustimmung des Bundesministeriums für Gesundheit, das seine
 Entscheidung im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung trifft.
-
 
 ## § 16 Inkrafttreten
 

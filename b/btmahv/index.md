@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 19.6.2001 I 1180
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 2 des Betäubungsmittelgesetzes vom 28. Juli
 1981 (BGBl. I S. 681) verordnet die Bundesregierung:
 
-
 ## I. - Einfuhr
-
-
 
 ### § 1 Einfuhrantrag
 
@@ -111,7 +107,6 @@ begleitet hat, beizufügen. Das Bundesinstitut für Arzneimittel und
 Medizinprodukte gibt diese der für die Betäubungsmittelkontrolle
 zuständigen Behörde des Ausfuhrlandes zurück.
 
-
 ### § 2 Versagungsgründe
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die
@@ -134,7 +129,6 @@ für eine Krankenbehandlung unerläßlich ist.
 Einfuhrgenehmigung versagen, wenn die Sicherheit oder Kontrolle des
 Betäubungsmittelverkehrs nicht gewährleistet sind.
 
-
 ### § 3 Einfuhrgenehmigung
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erteilt
@@ -149,7 +143,6 @@ sollen, auf höchstens sechs Monate zu befristen. Die Fristen können
 auf Antrag verlängert werden, wenn der Einführer nachweist, daß sich
 die Betäubungsmittel bereits auf dem Transport befinden.
 
-
 ### § 4 Einfuhrabfertigung
 
 Betäubungsmittel dürfen nur über eine vom Bundesminister der Finanzen
@@ -157,7 +150,6 @@ bestimmte Zollstelle eingeführt werden. Sie sind dieser Zollstelle
 unter Vorlage einer Ausfertigung der Einfuhrgenehmigung anzumelden und
 auf Verlangen vorzuführen. Diese Vorschrift gilt nicht bei der Einfuhr
 aus einem Mitgliedstaat der Europäischen Union.
-
 
 ### § 5 Lagerung unter zollamtlicher Überwachung
 
@@ -172,7 +164,6 @@ Betäubungsmittel im Geltungsbereich des Betäubungsmittelgesetzes
 verbleiben, ist für die Entnahme aus der Zollniederlage, dem
 Zollverschlußlager oder dem Freihafen die schriftliche Zustimmung des
 Bundesinstitutes für Arzneimittel und Medizinprodukte erforderlich.
-
 
 ### § 6 Einfuhranzeige
 
@@ -207,10 +198,7 @@ Einfuhrgenehmigung angegebenen Frist eingeführt, ist dies dem
 Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich
 anzuzeigen. Der Anzeige ist die Einfuhrgenehmigung beizufügen.
 
-
 ## II. - Ausfuhr
-
-
 
 ### § 7 Ausfuhrantrag
 
@@ -309,7 +297,6 @@ Bundesinstitut für Arzneimittel und Medizinprodukte gibt diese der für
 die Betäubungsmittelkontrolle zuständigen Behörde des Ausfuhrlandes
 zurück.
 
-
 ### § 8 Versagungsgründe
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte hat die
@@ -359,7 +346,6 @@ wissenschaftlichen oder anderen erlaubten Zwecken verwendet werden
 soll, oder wenn Sicherheit oder Kontrolle des Betäubungsmittelverkehrs
 nicht gewährleistet sind.
 
-
 ### § 9 Ausfuhrgenehmigung
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erteilt
@@ -371,7 +357,6 @@ zuständigen Behörde des Einfuhrlandes.
 (2) Die Ausfuhrgenehmigung ist nicht übertragbar. Sie ist bis zum
 Ablauf der Einfuhrgenehmigung des Einfuhrlandes, höchstens jedoch auf
 drei Monate zu befristen.
-
 
 ### § 10 Kennzeichnung
 
@@ -385,7 +370,6 @@ Einfuhrgenehmigung anzugeben. Das Bundesinstitut für Arzneimittel und
 Medizinprodukte kann im Einzelfall Ausnahmen zulassen, wenn dies nach
 den Vorschriften des Einfuhrlandes erforderlich ist.
 
-
 ### § 11 Ausfuhrabfertigung
 
 (1) Betäubungsmittel dürfen nur über eine vom Bundesminister der
@@ -398,7 +382,6 @@ bei der Ausfuhr in einen Mitgliedstaat der Europäischen Union.
 Versandpapieren beizufügen. Sie begleitet die Betäubungsmittel in das
 Einfuhrland. Betäubungsmittelsendungen ohne beigefügte
 Ausfuhrgenehmigungen dürfen nicht abgefertigt oder versandt werden.
-
 
 ### § 12 Ausfuhranzeige
 
@@ -434,10 +417,7 @@ Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich
 anzuzeigen. Der Anzeige sind beide Ausfertigungen der
 Ausfuhrgenehmigung beizufügen.
 
-
 ## III. - Durchfuhr
-
-
 
 ### § 13
 
@@ -487,10 +467,7 @@ Betäubungsmitteln bei Zwischenlandung im Luftverkehr oder bei
 Anlandung im Seeschiffsverkehr, wenn die Betäubungsmittel nicht aus
 dem Flugzeug oder dem Seeschiff entladen werden.
 
-
 ## IV. - Ausnahmeregelungen
-
-
 
 ### § 14 Einfuhr und Ausfuhr im Rahmen internationaler Zusammenarbeit
 
@@ -545,7 +522,6 @@ Ausführer dem gebietsfremden Einführer. Die fünfte Ausfertigung hat
 der Ausführer mit dem Absendedatum zu versehen und drei Jahre, vom
 Ausstellungsdatum an gerechnet, aufzubewahren.
 
-
 ### § 15 Vereinfachter grenzüberschreitender Verkehr
 
 (1) Die Vorschriften der §§ 1 bis 12 finden keine Anwendung auf
@@ -580,10 +556,7 @@ Controlled Medicines for Emergency Medical Care der
 Weltgesundheitsorganisation (Dokument WHO/PSA/96.17;
 Weltgesundheitsorganisation, 1211 Genf 27, Schweiz) ausgeführt werden.
 
-
 ## V. - Ordnungswidrigkeiten
-
-
 
 ### § 16
 
@@ -599,20 +572,13 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
     Ausfuhrgenehmigung nicht, nicht richtig oder nicht vollständig mit den
     dort bezeichneten Angaben versieht.
 
-
-
-
-
 ## VI. - Schlußvorschriften
-
-
 
 ### § 17 Zuständige Zollstellen
 
 Der Bundesminister der Finanzen gibt im Bundesanzeiger die Zollstellen
 bekannt, bei denen Betäubungsmittel zur Einfuhr, Ausfuhr und Durchfuhr
 abgefertigt werden.
-
 
 ### § 18 Sonstige Vorschriften
 
@@ -626,13 +592,11 @@ Ausfuhrländer nach § 1 Abs. 2 Nr. 2 und § 7 Abs. 2 Nr. 2 und die
 Pharmazentralnummern nach § 1 Abs. 2 Nr. 3 Buchstabe a und § 7 Abs. 2
 Nr. 4 Buchstabe a der Betäubungsmittel im Bundesanzeiger bekannt.
 
-
 ### § 19 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 41 Satz 2 des Betäubungsmittelgesetzes auch im Land
 Berlin.
-
 
 ### § 20 Inkrafttreten
 

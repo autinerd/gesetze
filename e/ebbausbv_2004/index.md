@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1626
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,7 +24,6 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -40,14 +37,9 @@ im Betriebsdienst wird staatlich anerkannt.
 
 2.  Lokführer und Transport.
 
-
-
-
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -59,7 +51,6 @@ Planen, Durchführen und Kontrollieren sowie das Handeln im
 betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 bis 10
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -155,10 +146,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
     d) Durchführen von Fahrten beim Abweichen vom Regelbetrieb und bei
     Störungen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -173,12 +160,10 @@ Ausbildungsinhalte aus den Arbeits- und Geschäftsprozessen der
 gewählten Fachrichtung zu erweitern, um zur Durchführung komplexer
 ganzheitlicher Arbeitsaufgaben zu befähigen.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -186,7 +171,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -226,7 +210,6 @@ die Arbeitsaufgaben kommen insbesondere in Betracht:
 In den schriftlichen Aufgabenstellungen soll der Prüfling in insgesamt
 höchstens 120 Minuten zeigen, dass er den Regelbetrieb sicherstellen
 kann.
-
 
 ## § 9 Abschlussprüfung Fachrichtung Fahrweg
 
@@ -382,7 +365,6 @@ jeweils mindestens ausreichende Leistungen erbracht wurden. In keinem
 der Prüfungsbereiche dürfen ungenügende Leistungen erbracht worden
 sein.
 
-
 ## § 10 Abschlussprüfung Fachrichtung Lokführer und Transport
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
@@ -531,7 +513,6 @@ jeweils mindestens ausreichende Leistungen erzielt wurden. In keinem
 der Prüfungsbereiche dürfen ungenügende Leistungen erbracht worden
 sein.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -539,11 +520,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
 

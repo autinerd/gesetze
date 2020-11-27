@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 121 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 Dem in Paris am 15. Dezember 1958 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen über den Austausch
 therapeutischer Substanzen menschlichen Ursprungs wird zugestimmt. Das
 Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -41,12 +39,10 @@ beteiligt ist, den Bestimmungen des Übereinkommens zu unterwerfen und
 von Eingangsabgaben freizustellen. Die Rechtsverordnungen bedürfen
 nicht der Zustimmung des Bundesrates.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

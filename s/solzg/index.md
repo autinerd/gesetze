@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 19 G v. 25.2.1992 I 297
 
-
 ## § 1 Erhebung eines Solidaritätszuschlags
 
 Zur Einkommensteuer und zur Körperschaftsteuer wird ein
 Solidaritätszuschlag als Ergänzungsabgabe erhoben.
-
 
 ## § 2 Abgabepflicht
 
@@ -41,7 +39,6 @@ Abgabepflichtig sind
 
 es sei denn, die jeweilige Steuerpflicht hat vor dem 14. Mai 1991
 geendet.
-
 
 ## § 3 Bemessungsgrundlage
 
@@ -107,7 +104,6 @@ geendet.
 Steuerermäßigungen nach den §§ 21 und 26 des Berlinförderungsgesetzes
 mindern die Bemessungsgrundlage nicht.
 
-
 ## § 4 Tarifvorschriften
 
 Der Solidaritätszuschlag beträgt in den Fällen
@@ -129,7 +125,6 @@ Der Solidaritätszuschlag beträgt in den Fällen
 
 der Bemessungsgrundlage. Bruchteile eines Pfennigs bleiben außer
 Ansatz.
-
 
 ## § 5 Doppelbesteuerungsabkommen
 

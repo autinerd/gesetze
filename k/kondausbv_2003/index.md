@@ -22,7 +22,6 @@ derLänder in der Bundesrepublik Deutschland beschlossene
 Rahmenlehrplanfür die Berufsschule werden als Beilage zum
 Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -35,13 +34,11 @@ vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom
 Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Konditor/Konditorin wird gemäß § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 58, Konditoren,
 der Anlage A der Handwerksordnung staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -53,7 +50,6 @@ einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -61,7 +57,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule
 nach den landesrechtlichen Vorschriften über das
 Berufsgrundbildungsjahr erfolgen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -139,10 +134,6 @@ Kenntnisse und Fertigkeiten:
 
 24. Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan und Zielsetzung der Berufsbildung
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -159,12 +150,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -172,7 +161,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -214,7 +202,6 @@ der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel
 festlegen, Rohstoffe beurteilen, Mengen bestimmen, Dekorationselemente
 entwerfen sowie lebensmittelrechtliche Vorschriften berücksichtigen
 kann.
-
 
 ## § 9 Gesellenprüfung
 
@@ -365,7 +352,6 @@ Arbeitsaufgabe A mindestens ausreichende Leistungen erbracht sind.
 Werden die Prüfungsleistungen in einem fachbezogenen Prüfungsbereich
 mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -373,11 +359,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Konditor/zur Konditorin
 
@@ -891,9 +875,6 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 *    *   b)
 
     *   Verkaufshandlungen durchführen
-
-
-
 
 ## Abschnitt II: Berufliche Fachbildung
 

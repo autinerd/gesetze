@@ -15,17 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 864
 
-
-
 ## I.
 
 
 *   Es wird ein Bundesministerium für Umwelt, Naturschutz und
     Reaktorsicherheit gebildet.
-
-
-
-
 
 ## II.
 
@@ -54,13 +48,6 @@ Fundstelle
         Umweltschutzes, Strahlenhygiene, Rückstände von Schadstoffen in
         Lebensmitteln, Chemikalien.
 
-
-
-
-
-
-
-
 ## III.
 
 
@@ -71,10 +58,6 @@ Fundstelle
     Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung die
     Zuständigkeit für Frau und Beruf auf den Bundesminister für Jugend,
     Familie, Frauen und Gesundheit übertragen.
-
-
-
-
 
 ## (XXXX)
 

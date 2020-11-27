@@ -82,17 +82,9 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     Saatgut von Öl- und Faserpflanzen (ABl. EG Nr. L 193 S. 74), zuletzt
     geändert durch die Richtlinie 2003/61/EG (ABl. EU Nr. L 165 S. 23).
 
-
-
-
-
 ## Abschnitt 1 - Saatgutordnung
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -110,7 +102,6 @@ Verbrauchers erforderlich ist. Eine Art darf im Artenverzeichnis
 gestrichen werden, wenn der Schutz des Verbrauchers eine Regelung nach
 diesem Gesetz nicht mehr erfordert und Rechtsakte der Europäischen
 Gemeinschaft nicht entgegenstehen.
-
 
 #### § 2 Begriffsbestimmungen
 
@@ -283,7 +274,6 @@ Verbrauchers erforderlich ist, durch Rechtsverordnung mit Zustimmung
 des Bundesrates Kategorien für Vermehrungsmaterial einschließlich der
 Anforderungen festzusetzen, denen Vermehrungsmaterial der jeweiligen
 Kategorie entsprechen muss.
-
 
 #### § 3 Inverkehrbringen von Saatgut
 
@@ -489,7 +479,6 @@ Saatgutverkehrs erforderlich ist, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Höchstmengen für das Inverkehrbringen von
 Saatgut nach Absatz 1 Satz 1 Nr. 8 festzusetzen.
 
-
 #### § 3a Inverkehrbringen von Vermehrungsmaterial
 
 (1) Vermehrungsmaterial darf zu gewerblichen Zwecken nur in den
@@ -593,7 +582,6 @@ nach Satz 1 nicht der Zustimmung des Bundesrates, wenn das
 Inverkehrbringen für einen bestimmten Zeitraum von höchstens einem
 Jahr gestattet wird.
 
-
 #### § 3b Abgabe von Saatgut in besonderen Fällen
 
 (1) Wer im Rahmen eines Vertrages Saatgut nach § 2 Nr. 12 Buchstabe b
@@ -618,10 +606,7 @@ Bundesrates
 
 festzusetzen.
 
-
 ### Unterabschnitt 2 - Anerkanntes Saatgut
-
-
 
 #### § 4 Voraussetzungen für die Anerkennung
 
@@ -691,7 +676,6 @@ Inverkehrbringen von Standardpflanzgut zu gewerblichen Zwecken zu
 gestatten. Die Rechtsverordnung bedarf nicht der Zustimmung des
 Bundesrates, wenn das Inverkehrbringen für einen bestimmten Zeitraum
 von höchstens einem Jahr gestattet wird.
-
 
 #### § 5 Ausführungsvorschriften für die Anerkennung
 
@@ -796,10 +780,6 @@ einen bestimmten Zeitraum von höchstens einem Jahr
 
 2.  Arten nach Absatz 1 Nr. 3 bezeichnen.
 
-
-
-
-
 #### § 6 Inverkehrbringen vor Abschluss der Prüfung auf Keimfähigkeit
 
 Die Anerkennungsstelle kann bereits vor Abschluss der Prüfung auf
@@ -807,7 +787,6 @@ Keimfähigkeit das Inverkehrbringen von Saatgut zu gewerblichen Zwecken
 an bestimmte Händler genehmigen, wenn der Antragsteller die
 Keimfähigkeit durch das Ergebnis einer vorläufigen Analyse
 nachgewiesen hat.
-
 
 #### § 7 Prüfung des Feldbestandes und der Beschaffenheit des Saatgutes einer nicht zugelassenen Sorte
 
@@ -828,7 +807,6 @@ sowie die Beschaffenheit des Saatgutes prüfen. Ergibt die Prüfung,
 dass die Anforderungen an den Feldbestand oder an die Beschaffenheit
 des Saatgutes nicht erfüllt sind, so kann die Anerkennungsstelle die
 Verwendung des Saatgutes zur Vermehrung untersagen.
-
 
 #### § 8 Verpflichtungen des Saatguterzeugers
 
@@ -854,7 +832,6 @@ machen über
 
 Er hat die Aufzeichnungen und die dazu gehörigen Belege drei Jahre
 aufzubewahren.
-
 
 #### § 9 Nachprüfung
 
@@ -883,7 +860,6 @@ Anforderungen an seinen Gesundheitszustand nicht entspricht, so
 besteht kein Anspruch auf Ausgleich eines Vermögensnachteils nach § 48
 Abs. 3 des Verwaltungsverfahrensgesetzes sowie nach den entsprechenden
 Vorschriften der Verwaltungsverfahrensgesetze der Länder.
-
 
 #### § 10 Im Ausland erzeugtes Saatgut
 
@@ -922,10 +898,7 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die für die Anerkennung von Rebenpflanzgut
 nach Absatz 1 zuständige Behörde zu bestimmen.
 
-
 ### Unterabschnitt 3 - Standardsaatgut, Handelssaatgut und Behelfssaatgut
-
-
 
 #### § 11 Ermächtigungen
 
@@ -978,10 +951,6 @@ dabei
 
 
 4.  die Führung und Aufbewahrung von Aufzeichnungen vorzuschreiben.
-
-
-
-
 
 #### § 12 Standardsaatgut
 
@@ -1055,7 +1024,6 @@ ordnungsgemäß erfüllt sind, und sich hieraus die Unzuverlässigkeit des
 Betriebsinhabers oder einer mit der Leitung des Betriebes beauftragten
 Person ergibt.
 
-
 #### § 13 Handelssaatgut
 
 (1) Saatgut wird als Handelssaatgut zugelassen, wenn es den
@@ -1075,7 +1043,6 @@ Aufzeichnungen über das Gewicht oder die Stückzahl sowie die Empfänger
 des abgegebenen Saatgutes zu machen. Er hat die Aufzeichnungen und die
 dazu gehörigen Belege drei Jahre aufzubewahren.
 
-
 #### § 14 Behelfssaatgut
 
 Behelfssaatgut muss bei Arten mit einer Sommerform und einer
@@ -1083,10 +1050,7 @@ Winterform sowie bei Arten, bei denen die Gestattung des
 Inverkehrbringens von Saatgut auf bestimmte andere Formen beschränkt
 ist, formecht sein.
 
-
 ### Unterabschnitt 3a - Vermehrungsmaterial
-
-
 
 #### § 14a Ausführungsvorschriften für Vermehrungsmaterial
 
@@ -1169,13 +1133,6 @@ des Bundesrates
         Beschränkungen der Untersuchungstätigkeit sowie der Verarbeitung und
         Nutzung der in dem Verfahren erhobenen Daten.
 
-
-
-
-
-
-
-
 #### § 14b Anerkennung von Vermehrungsmaterial von Obst
 
 (1) Vermehrungsmaterial von Obst wird anerkannt, wenn
@@ -1247,10 +1204,7 @@ Ausnahmen von den Voraussetzungen nach Absatz 1 Nr. 1 vorzusehen.
 (4) § 9 Abs. 2 gilt für anerkanntes Vermehrungsmaterial von Obst
 entsprechend.
 
-
 ### Unterabschnitt 4 - Einfuhr und Ausfuhr
-
-
 
 #### § 15 Einfuhr von Saatgut
 
@@ -1332,7 +1286,6 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Einfuhr von Saatgut in Mischungen aus
 anderen Vertragsstaaten zu verbieten, in denen die Herstellung oder
 das Inverkehrbringen von Saatgutmischungen untersagt ist.
-
 
 #### § 15a Einfuhr von Vermehrungsmaterial
 
@@ -1437,7 +1390,6 @@ gesichert, so bedarf eine Rechtsverordnung nach Satz 1 Nr. 3 nicht der
 Zustimmung des Bundesrates, wenn das Inverkehrbringen für einen
 bestimmten Zeitraum von höchstens einem Jahr gestattet wird.
 
-
 #### § 16 Gleichstellungen
 
 (1) Den im Inland erteilten Anerkennungen oder Zulassungen von Saatgut
@@ -1468,7 +1420,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erzeugtes
 Vermehrungsmaterial im Inland erzeugtem Vermehrungsmaterial
 gleichzustellen.
 
-
 #### § 17 Einfuhrverbot für Pflanzgut von Kartoffel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -1484,10 +1435,6 @@ Verbraucherschutz wird ermächtigt,
 2.  bei Gefahr im Verzug für einen bestimmten Zeitraum von höchstens sechs
     Monaten Rechtsverordnungen nach Nummer 1 zu erlassen, die nicht der
     Zustimmung des Bundesrates bedürfen.
-
-
-
-
 
 #### § 18 Ausnahmen
 
@@ -1557,7 +1504,6 @@ Verbindung mit § 3a Abs. 1 Satz 3 gilt entsprechend für
 Vermehrungsmaterial, das die Voraussetzungen für die Einfuhr nach §
 15a nicht erfüllt.
 
-
 #### § 19 Überwachung der Einfuhr
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung überwacht die
@@ -1624,7 +1570,6 @@ Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen Saatgut
 oder Vermehrungsmaterial zur Einfuhr abgefertigt wird, wenn die
 Einfuhr nach Absatz 3 Nr. 1 beschränkt wird.
 
-
 #### § 19a Ausfuhr von Vermehrungsmaterial
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -1637,10 +1582,7 @@ anderem Vermehrungsmaterial getrennt zu halten und entsprechend zu
 kennzeichnen ist; es kann dabei Vorschriften über die erforderlichen
 Angaben und die Art der Kennzeichnung erlassen.
 
-
 ### Unterabschnitt 5 - Kennzeichnung, Verpackung
-
-
 
 #### § 20 Angabe der Sortenbezeichnung
 
@@ -1655,7 +1597,6 @@ Buchstabe a und Nr. 3.
 übereinstimmenden Bezeichnung kann die Verwendung der
 Sortenbezeichnung für die Sorte nicht untersagt werden. Ältere Rechte
 Dritter bleiben unberührt.
-
 
 #### § 21 Verpackung und Kennzeichnung von Saatgut
 
@@ -1683,10 +1624,6 @@ gekennzeichnet sind. Bei Rebe stehen Bündel den Packungen gleich.
 5.  im Falle von Sorten, deren Pflanzen gentechnisch veränderte Organismen
     im Sinne des § 3 Nr. 3 des Gentechnikgesetzes sind, ein deutlicher
     Hinweis auf den Umstand der gentechnischen Veränderung.
-
-
-
-
 
 #### § 22 Ausführungsvorschriften für die Verpackung und Kennzeichnung von Saatgut
 
@@ -1743,7 +1680,6 @@ Abs. 2 kann das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz Rechtsverordnungen nach den Absätzen 1 und 2
 erlassen, die nicht der Zustimmung des Bundesrates bedürfen.
 
-
 #### § 22a Verpackung und Kennzeichnung von Vermehrungsmaterial
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -1774,13 +1710,7 @@ dabei insbesondere
     und mit einer Verschlusssicherung zu versehen sind, sowie das
     Verfahren hierfür regeln.
 
-
-
-
-
 ### Unterabschnitt 6 - Verbot der Irreführung, Gewährleistung
-
-
 
 #### § 23 Verbot der Irreführung
 
@@ -1795,15 +1725,11 @@ darf nicht unter einer Bezeichnung, Angabe oder Aufmachung zu
 gewerblichen Zwecken in den Verkehr gebracht werden, die es als
 Saatgut oder Vermehrungsmaterial verwendbar erscheinen lässt.
 
-
 #### § 24
 
 (weggefallen)
 
-
 ### Unterabschnitt 7 - Sonstige Vorschriften der Saatgutordnung
-
-
 
 #### § 25 Zusätzliche Anforderungen für das Inverkehrbringen
 
@@ -1816,7 +1742,6 @@ gewerblichen Zwecken nur in den Verkehr gebracht werden darf, wenn es
 zusätzlich bestimmten Anforderungen an die Sortierung, die
 physikalische oder chemische Behandlung oder bei polyploiden Sorten an
 das Ploidiestufenverhältnis entspricht.
-
 
 #### § 26 Saatgutmischungen
 
@@ -1849,10 +1774,6 @@ Rechtsverordnung können insbesondere
 4.  die Voraussetzungen für das Inverkehrbringen von Mischungen, die zur
     Erhaltung und nachhaltigen Nutzung pflanzengenetischer Ressourcen
     bestimmt sind, festgesetzt werden.
-
-
-
-
 
 #### § 27 Anzeige- und Aufzeichnungspflicht
 
@@ -1892,7 +1813,6 @@ Aufzeichnungen nach Absatz 1 Nr. 2 und Absatz 2 zu erlassen sowie die
 Aufbewahrung der Aufzeichnungen zu regeln; dabei kann es Ausnahmen von
 den Aufzeichnungspflichten nach Absatz 2 vorsehen.
 
-
 #### § 28 Durchführung in den Ländern
 
 Die Durchführung dieses Gesetzes einschließlich der Überwachung der
@@ -1901,20 +1821,14 @@ Rechtsverordnungen und erteilten Auflagen obliegt den nach Landesrecht
 zuständigen Behörden, soweit dieses Gesetz keine andere Regelung
 trifft.
 
-
 #### § 29 Geschlossene Anbaugebiete
 
 Die Länder können geschlossene Anbaugebiete für die Erzeugung von
 Saatgut errichten.
 
-
 ## Abschnitt 2 - Sortenordnung
 
-
-
 ### Unterabschnitt 1 - Sortenzulassung
-
-
 
 #### § 30 Voraussetzungen für die Sortenzulassung
 
@@ -2050,7 +1964,6 @@ für die Zulassung von Sorten, die zur Erhaltung und nachhaltigen
 Nutzung pflanzengenetischer Ressourcen bestimmt sind
 (Erhaltungssorten), zu regeln und das Verfahren hierfür festzusetzen.
 
-
 #### § 31 Unterscheidbarkeit
 
 Eine Sorte ist unterscheidbar, wenn sie sich in der Ausprägung
@@ -2074,13 +1987,11 @@ die es für die Unterscheidbarkeit der Sorten dieser Art als maßgebend
 ansieht; die Merkmale müssen genau erkannt und beschrieben werden
 können.
 
-
 #### § 32 Homogenität
 
 Eine Sorte ist homogen, wenn sie, abgesehen von Abweichungen auf Grund
 der Besonderheiten ihrer Vermehrung, in der Ausprägung der für die
 Unterscheidbarkeit maßgebenden Merkmale hinreichend einheitlich ist.
-
 
 #### § 33 Beständigkeit
 
@@ -2088,7 +1999,6 @@ Eine Sorte ist beständig, wenn sie in der Ausprägung der für die
 Unterscheidbarkeit maßgebenden Merkmale nach jeder Vermehrung oder, im
 Falle eines Vermehrungszyklus, nach jedem Vermehrungszyklus
 unverändert bleibt.
-
 
 #### § 34 Landeskultureller Wert
 
@@ -2100,7 +2010,6 @@ Pflanzenbau, die Verwertung des Erntegutes oder die Verwertung aus dem
 Erntegut gewonnener Erzeugnisse erwarten lässt. Einzelne ungünstige
 Eigenschaften können durch andere günstige Eigenschaften ausgeglichen
 werden.
-
 
 #### § 35 Sortenbezeichnung
 
@@ -2176,7 +2085,6 @@ Eignung von Sortenbezeichnungen näher zu bestimmen, soweit dies zur
 Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der
 Europäischen Union erforderlich ist.
 
-
 #### § 36 Dauer der Sortenzulassung
 
 (1) Die Sortenzulassung gilt bis zum Ende des zehnten, bei Rebe und
@@ -2221,17 +2129,13 @@ erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die Dauer der Sortenzulassung bei Rebe und Obst abweichend
 von den Absätzen 1 und 2 festzusetzen.
 
-
 ### Unterabschnitt 2 - Bundessortenamt
-
-
 
 #### § 37 Aufgaben
 
 Das Bundessortenamt ist zuständig für die Sortenzulassung und die
 hiermit zusammenhängenden Angelegenheiten. Es führt die Sortenliste
 und überwacht die Erhaltung der zugelassenen Sorten.
-
 
 #### § 38 Sortenausschüsse und Widerspruchsausschüsse
 
@@ -2274,13 +2178,11 @@ die Geschäftsverteilung.
 (3) Die Widerspruchsausschüsse sind zuständig für die Entscheidung
 über Widersprüche gegen Entscheidungen der Sortenausschüsse.
 
-
 #### § 39 Zusammensetzung der Sortenausschüsse
 
 Die Sortenausschüsse bestehen jeweils aus dem Vorsitzenden und zwei
 Beisitzern. Der Vorsitzende und die Beisitzer sind vom Präsidenten
 bestimmte Mitglieder des Bundessortenamtes.
-
 
 #### § 40 Zusammensetzung der Widerspruchsausschüsse
 
@@ -2305,10 +2207,7 @@ ein Stellvertreter berufen; die Sätze 1 bis 4 gelten entsprechend.
 und eines Beisitzers, von denen einer rechtskundig sein muss, sowie
 dreier ehrenamtlicher Beisitzer beschlussfähig.
 
-
 ### Unterabschnitt 3 - Verfahren vor dem Bundessortenamt
-
-
 
 #### § 41 Förmliches Verwaltungsverfahren
 
@@ -2316,7 +2215,6 @@ Auf das Verfahren vor den Sortenausschüssen und den
 Widerspruchsausschüssen sind die Vorschriften der §§ 63 bis 69 und 71
 des Verwaltungsverfahrensgesetzes über das förmliche
 Verwaltungsverfahren anzuwenden.
-
 
 #### § 42 Antrag auf Sortenzulassung
 
@@ -2394,7 +2292,6 @@ bestellt hat. Dieser ist im Verfahren vor dem Bundessortenamt und in
 Rechtsstreitigkeiten, die die Sortenzulassung betreffen, zur
 Vertretung befugt.
 
-
 #### § 43 Bekanntmachung des Antrags auf Sortenzulassung
 
 (1) Das Bundessortenamt macht den Antrag auf Sortenzulassung unter
@@ -2406,7 +2303,6 @@ Antragstellers, des Züchters und eines Verfahrensvertreters bekannt.
 gilt er nach § 45 Abs. 2 wegen Säumnis als nicht gestellt oder ist die
 Sortenzulassung abgelehnt worden, so macht das Bundessortenamt dies
 ebenfalls bekannt.
-
 
 #### § 44 Prüfung
 
@@ -2459,7 +2355,6 @@ bestimmten Frist schriftlich
 
 § 43 gilt entsprechend.
 
-
 #### § 45 Säumnis
 
 (1) Kommt der Antragsteller einer Aufforderung des Bundessortenamtes,
@@ -2487,7 +2382,6 @@ innerhalb eines Monats entrichtet wird, nachdem das Bundessortenamt
 die Gebührenentscheidung bekannt gegeben und dabei auf diese Folge der
 Säumnis hingewiesen hat.
 
-
 #### § 46 Antrag auf Eintragung als weiterer Züchter
 
 Wird im Falle des § 42 Abs. 2 Nr. 3 die Sorte von weiteren Züchtern
@@ -2495,7 +2389,6 @@ oder unter deren Verantwortung unter den dort genannten
 Voraussetzungen bearbeitet, so kann jeder dieser Züchter seine
 Eintragung in die Sortenliste als weiterer Züchter beantragen. § 42
 Abs. 3 und 6, §§ 43, 44 Abs. 1 bis 3 und § 45 gelten entsprechend.
-
 
 #### § 47 Sortenliste
 
@@ -2565,13 +2458,11 @@ Züchter oder Verfahrensvertreter bleibt bis zur Eintragung der
 
 (5) Das Bundessortenamt macht die Eintragungen bekannt.
 
-
 #### § 48 Übernahme der Erhaltungszüchtung
 
 Hat jemand die Erhaltungszüchtung einer Sorte von einem in der
 Sortenliste eingetragenen Züchter übernommen, so wird er ohne erneute
 Prüfung der Sorte als Züchter eingetragen.
-
 
 #### § 49 Einsichtnahme
 
@@ -2615,7 +2506,6 @@ Sortenzulassung gestellt hat, von der Einsichtnahme auszuschließen.
 Der Antrag kann nur bis zur Entscheidung über die Sortenzulassung
 gestellt werden.
 
-
 #### § 50 Sortenerhaltung
 
 (1) Jeder eingetragene Züchter hat die Sorte in einem Vertragsstaat
@@ -2629,13 +2519,11 @@ Aufzeichnungen über das für die einzelnen Zuchtgenerationen oder
 Zuchtstufen verwendete Material und über die angewandte Methode zu
 machen. Er hat die Aufzeichnungen sechs Jahre aufzubewahren.
 
-
 #### § 50a Sortenerhaltung bei Rebsorten
 
 Bei Sorten von Rebe hat jeder eingetragene Züchter jeden für ihn
 eingetragenen Klon der Sorte, der in der Beschreibenden Sortenliste
 aufgeführt ist, nach den Bestimmungen des § 50 zu erhalten.
-
 
 #### § 51 Änderung der Sortenbezeichnung
 
@@ -2681,7 +2569,6 @@ Bundessortenamt eine Sortenbezeichnung fest, wenn der Antragsteller
 ein berechtigtes Interesse glaubhaft macht. Für die Festsetzung der
 anderen Sortenbezeichnung und ihre Bekanntmachung gelten die §§ 43 und
 47 Abs. 1 Nr. 1 und Abs. 5 entsprechend.
-
 
 #### § 52 Beendigung der Sortenzulassung
 
@@ -2751,7 +2638,6 @@ das Inverkehrbringen von Saatgut oder Vermehrungsmaterial der Sorte zu
 gewerblichen Zwecken bis längstens zum 30. Juni des dritten Jahres
 nach der Beendigung der Sortenzulassung festsetzen.
 
-
 #### § 53 Ermächtigung zum Erlass von Verfahrensvorschriften
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -2770,10 +2656,6 @@ der Zustimmung des Bundesrates bedarf,
 
 
 3.  das Blatt für Bekanntmachungen des Bundessortenamtes zu bestimmen.
-
-
-
-
 
 #### § 54 Kosten
 
@@ -2813,10 +2695,7 @@ Auslagen im Widerspruchsverfahren gelten die Sätze 1 bis 3
 entsprechend. Ein Anspruch auf Erstattung von Kosten nach § 80 des
 Verwaltungsverfahrensgesetzes besteht nicht.
 
-
 ### Unterabschnitt 4 - In anderen Vertragsstaaten eingetragene Sorten
-
-
 
 #### § 55
 
@@ -2877,10 +2756,7 @@ Satz 1 Nr. 1 beziehen, der in dem betreffenden Vertragsstaat zur
 Anerkennung zugelassen ist. Die Sätze 1 und 3 gelten für
 Vermehrungsmaterial von Obstsorten entsprechend.
 
-
 ## Abschnitt 3 - Andere Aufgaben des Bundessortenamtes
-
-
 
 ### § 56 Beschreibende Sortenliste
 
@@ -2925,7 +2801,6 @@ Sinne des § 3 Nr. 3 des Gentechnikgesetzes sind, ist in der
 Beschreibenden Sortenliste ein Hinweis auf den Umstand der
 gentechnischen Veränderung aufzuführen.
 
-
 ### § 57 Prüfung der Sortenechtheit in besonderen Fällen
 
 Soweit auf Grund von Rechtsvorschriften bei anderen als den im
@@ -2934,16 +2809,12 @@ Sortenechtheit Voraussetzung für das Inverkehrbringen von Pflanzen
 oder Pflanzenteilen ist, kann das Bundessortenamt auf Ersuchen einer
 für die Überwachung zuständigen Stelle die Sortenechtheit prüfen.
 
-
 ## Abschnitt 4 - Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften
-
-
 
 ### § 58 Ausschluss der Berufung
 
 Hat im Vorverfahren der Widerspruchsausschuss entschieden, so ist die
 Berufung gegen das Urteil des Verwaltungsgerichtes ausgeschlossen.
-
 
 ### § 59 Auskunftspflicht
 
@@ -2981,7 +2852,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 59a Übermittlung von Daten
 
 (1) Die zuständigen Behörden können, soweit es zum Schutz des
@@ -3001,7 +2871,6 @@ Ferner kann es diese Befugnis durch Rechtsverordnung mit Zustimmung
 des Bundesrates auf die zuständigen obersten Landesbehörden
 übertragen. Die obersten Landesbehörden können die Befugnis nach Satz
 3 auf andere Behörden übertragen.
-
 
 ### § 60 Ordnungswidrigkeiten
 
@@ -3186,16 +3055,7 @@ bezieht, kann eingezogen werden.
     e)  des Absatzes 1 Nr. 12, soweit die Ordnungswidrigkeit ihr gegenüber
         begangen worden ist.
 
-
-
-
-
-
-
-
 ## Abschnitt 5 - Schlussvorschriften
-
-
 
 ### § 61 Durchführung von Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union
 
@@ -3203,7 +3063,6 @@ Rechtsverordnungen nach den Abschnitten 1 und 2 können auch zur
 Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der
 Europäischen Union über den Verkehr mit Saatgut oder
 Vermehrungsmaterial erlassen werden.
-
 
 ### § 61a Sonderregelung für Rebenpflanzgut
 
@@ -3218,7 +3077,6 @@ Regelungen nach Satz 1 auf die genannten Vertragsstaaten auszudehnen,
 wenn die Rechtsvorschriften der Europäischen Gemeinschaft oder der
 Europäischen Union über den Verkehr mit vegetativem Vermehrungsgut von
 Reben für die genannten Vertragsstaaten anwendbar werden.
-
 
 ### § 62 Übergangsvorschrift
 
@@ -3238,16 +3096,13 @@ vorliegt. Zulassungen nach Satz 1 enden für Sorten von Gemüse
 spätestens am 30. Juni 1998, für Sorten von Obst spätestens am 30.
 Juni 2000. Die Zulassungen können nach § 36 Abs. 2 verlängert werden.
 
-
 ### § 62a
 
 (weggefallen)
 
-
 ### § 63
 
 (Inkrafttreten)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1010)
 

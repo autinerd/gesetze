@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 754
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -51,7 +48,6 @@ mitzuteilen.
 (2) Die in Absatz 1 genannten Beschlüsse und Bestimmungen werden
 nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
@@ -63,7 +59,6 @@ Zielsetzung und Inhalt dem Abkommen zwischen der Bundesrepublik
 Deutschland und den Europäischen Gemeinschaften für die Durchführung
 des Artikels 11 des Anhangs VIII des Statuts der Beamten der
 Europäischen Gemeinschaften (BGBl. 1994 II S. 622) entsprechen.
-
 
 ## Art 3
 

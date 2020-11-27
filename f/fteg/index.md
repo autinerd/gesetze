@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 20.4.2012 I 606
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
 
@@ -131,10 +127,6 @@ diese nicht für Zwecke der Verteidigung dienen.
     Zulassung und Überwachung von Geräten zur Gewährleistung eines
     sicheren Flugbetriebs.
 
-
-
-
-
 ### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
@@ -222,10 +214,6 @@ Im Sinne dieses Gesetzes
     bewirkt, der im Einklang mit den geltenden gemeinschaftlichen oder
     einzelstaatlichen Regelungen betrieben wird.
 
-
-
-
-
 ### § 3 Grundlegende Anforderungen
 
 (1) Die folgenden grundlegenden Anforderungen gelten für alle Geräte:
@@ -260,7 +248,6 @@ diese von der Kommission nach Artikel 3 Abs. 3 der Richtlinie
 des Eisenbahnwesens erfolgt dies im Einvernehmen mit dem
 Bundesministerium für Verkehr, Bau und Stadtentwicklung.
 
-
 ### § 4 Bereitstellung von Schnittstellenbeschreibungen durch die Regulierungsbehörde für Telekommunikation und Post
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
@@ -292,7 +279,6 @@ die vergebenen Geräteklassen-Kennungen verbindlich zu bestimmen. Für
 den Bereich der Schifffahrt und des Eisenbahnwesens erfolgt dies im
 Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung.
-
 
 ### § 5 Schnittstellenbeschreibungen der Netzbetreiber
 
@@ -355,7 +341,6 @@ Schnittstellenbeschreibung im Amtsblatt der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 veröffentlicht worden ist.
 
-
 ### § 6 Harmonisierte Normen
 
 (1) Entspricht ein Gerät den einschlägigen harmonisierten Normen oder
@@ -377,10 +362,7 @@ nach Artikel 14 der Richtlinie 1999/5/EG mit der Angelegenheit.
 der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen in ihrem Amtsblatt veröffentlicht.
 
-
 ## Zweiter Teil - Konformitätsbewertung und CE-Kennzeichnung
-
-
 
 ### § 7 Konformitätsbewertungsverfahren
 
@@ -459,7 +441,6 @@ Bundesrepublik Deutschland durchgeführt werden. Die in der
 Konformitätsbewertung des Geräts tätige benannte Stelle kann auch die
 Verwendung einer anderen Sprache gestatten.
 
-
 ### § 8 Benannte Stellen
 
 (1) Die Aufgaben einer benannten Stelle darf nur ausüben, wer die
@@ -498,7 +479,6 @@ Bewertung.
 Konformitätsbewertungen für Funkanlagen und
 Telekommunikationsendeinrichtungen nach Drittstaatenabkommen gilt
 Absatz 1 entsprechend.
-
 
 ### § 9 CE-Kennzeichnung
 
@@ -543,10 +523,7 @@ Europäischen Gemeinschaften veröffentlicht sind, in den von der
 Richtlinie vorgeschriebenen und den Geräten beiliegenden Unterlagen,
 Hinweisen oder Anleitungen angegeben werden.
 
-
 ## Dritter Teil - Inverkehrbringen und Inbetriebnahme
-
-
 
 ### § 10 Inverkehrbringen
 
@@ -600,7 +577,6 @@ genannten Funkanlagen in der Bundesrepublik Deutschland in Verkehr
 gebracht werden, ist die Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen zu unterrichten.
 
-
 ### § 11 Inbetriebnahme und Anschlussrecht
 
 (1) Geräte dürfen nur dann zu ihrem bestimmungsgemäßen Zweck in
@@ -642,7 +618,6 @@ werden kann. Der Betreiber unterrichtet unverzüglich die
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen über eine derartige Maßnahme.
 
-
 ### § 12 Schutz von Personen in elektromagnetischen Feldern
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -650,7 +625,6 @@ Zustimmung des Bundesrates nähere Regelungen zur Gewährleistung des
 Schutzes von Personen in den durch den Betrieb von Funkanlagen und
 Radaranlagen entstehenden elektromagnetischen Feldern zu treffen.
 Arbeitsschutzrechtliche Regelungen bleiben hiervon unberührt.
-
 
 ### § 13 Messen und Ausstellungen
 
@@ -660,10 +634,7 @@ sichtbares Schild deutlich darauf hinweist, dass sie erst in Verkehr
 gebracht oder in Betrieb genommen werden dürfen, wenn sie diesem
 Gesetz entsprechen.
 
-
 ## Vierter Teil - Aufgaben und Befugnisse der Regulierungsbehörde für Telekommunikation und Post
-
-
 
 ### § 14 Aufgaben und Zuständigkeiten
 
@@ -677,7 +648,6 @@ Verordnungen.
 Post und Eisenbahnen prüft stichprobenweise die in Verkehr zu
 bringenden oder in Verkehr gebrachten Geräte auf Einhaltung der
 Anforderungen dieses Gesetzes.
-
 
 ### § 15 Befugnisse der Regulierungsbehörde für Telekommunikation und Post
 
@@ -713,7 +683,6 @@ Telekommunikationsendeinrichtungen an ihre Netze verweigern oder die
 angeschaltete Endgeräte vom Netz genommen haben, ohne dass die
 Voraussetzungen des § 11 Abs. 5 oder 6 vorliegen, die erforderlichen
 Maßnahmen, um den Anschluss dieser Endeinrichtungen zu gewährleisten.
-
 
 ### § 16 Kostenregelung
 
@@ -780,7 +749,6 @@ Rechtsverordnung der Bundesnetzagentur, ihre Änderung und ihre
 Aufhebung bedarf des Einvernehmens mit dem Bundesministerium für
 Wirtschaft und Technologie und dem Bundesministerium der Finanzen.
 
-
 ### § 16a Vorverfahren
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur
@@ -789,10 +757,7 @@ nach diesem Gesetz haben keine aufschiebende Wirkung.
 (2) Für die Kosten des Vorverfahrens gilt § 146 des
 Telekommunikationsgesetzes entsprechend.
 
-
 ## Fünfter Teil - Bußgeldvorschriften
-
-
 
 ### § 17 Bußgeldvorschriften
 
@@ -835,10 +800,7 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 über Ordnungswidrigkeiten ist die Bundesnetzagentur für Elektrizität,
 Gas, Telekommunikation, Post und Eisenbahnen.
 
-
 ## Sechster Teil - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 18 Übergangsbestimmungen
 
@@ -872,11 +834,9 @@ Telekommunikationszulassungsverordnung erteilten Zulassungen werden
 zum 7. April 2001 für die bis zu diesem Zeitpunkt noch nicht in
 Verkehr gebrachten Geräte aufgehoben.
 
-
 ### § 19
 
 -
-
 
 ### § 20 Inkrafttreten, Außerkrafttreten
 

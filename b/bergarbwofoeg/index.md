@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 8.12.2007 I 2812
 
-
 ## Erster Teil - Aufbringung und Verwendung der Kohlenabgabe
-
-
 
 ### § 1 Einstellung der Förderung des Bergarbeiterwohnungsbaues
 
@@ -56,11 +53,9 @@ nachgewiesen werden. Aus dem Verpflichtungsrahmen von 250 Millionen
 Deutsche Mark für das Haushaltsjahr 1998 erhalten die kohlefördernden
 Länder einen Vorabanteil von 20 vom Hundert.
 
-
 ### (XXXX) §§ 2 bis 3 (weggefallen)
 
 -
-
 
 ### § 4 Wohnungsberechtigte
 
@@ -110,7 +105,6 @@ dürfen nur solche Gebiete bezeichnet werden, in denen in zumutbarer
 Entfernung von den Bergarbeiterwohnungen nicht mehr als ein
 Kohlenbergbauunternehmen tätig ist.
 
-
 ### § 5 Zweckbindung der Bergarbeiterwohnungen
 
 (1) Bei Mietwohnungen, für die die Mittel des Treuhandvermögens bis
@@ -127,7 +121,6 @@ ist.
 nicht von dem Bestehen eines Arbeitsverhältnisses bei einem bestimmten
 Arbeitgeber im Kohlenbergbau abhängig gemacht werden; eine
 entgegenstehende Vereinbarung ist nichtig.
-
 
 ### § 6 Überlassung von Bergarbeiterwohnungen
 
@@ -180,31 +173,24 @@ der Wohnungsinhaber einen Teil seiner Wohnung an einen
 Wohnungsberechtigten im Sinne des § 4 Abs. 1 Buchstabe d oder einen
 Nichtwohnungsberechtigten untervermietet oder überläßt.
 
-
 ### (XXXX) §§ 7 bis 8 (weggefallen)
 
 -
-
 
 ### § 9 Einzelne Wohnräume
 
 Die in den §§ 4 bis 6 für Wohnungen getroffenen Vorschriften gelten
 für einzelne Wohnräume entsprechend.
 
-
 ### § 9a
 
 (weggefallen)
 
-
 ## Zweiter Teil - Verfahrensvorschriften
-
-
 
 ### (XXXX) §§ 10 und 11 (weggefallen)
 
 -
-
 
 ### § 12 Treuhandstellen
 
@@ -216,11 +202,9 @@ den für das Wohnungs- und Siedlungswesen zuständigen obersten
 Landesbehörden der Länder, in denen Kohlenbergbau betrieben wird,
 vorgeschlagen.
 
-
 ### (XXXX) §§ 13 bis 15 (weggefallen)
 
 -
-
 
 ### § 16 Aufgaben der Treuhandstelle
 
@@ -234,7 +218,6 @@ dieser Aufgaben entstehenden notwendigen Verwaltungskosten der
 Treuhandstelle können, soweit sie nicht vom Darlehensnehmer zu tragen
 sind, mit Zustimmung des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung aus Mitteln des Treuhandvermögens gedeckt werden.
-
 
 ### § 17 Treuhandvermögen
 
@@ -257,7 +240,6 @@ bezieht.
 erhält, gehören nur dann zu dem Treuhandvermögen, wenn das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung der
 Darlehnsaufnahme zugestimmt hat.
-
 
 ### § 18 Haftung des Treuhandvermögens
 
@@ -289,7 +271,6 @@ mit der Eröffnung des Insolvenzverfahrens verbundenen Rechtsfolgen
 treten hinsichtlich dieser Verbindlichkeiten nicht ein. § 418 des
 Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
-
 ### § 19 Aufsicht über die Treuhandstellen
 
 (1) Die Treuhandstellen unterstehen hinsichtlich des Treuhandvermögens
@@ -301,15 +282,11 @@ Stadtentwicklung ausgeübt.
 (3) Die Treuhandstellen unterliegen hinsichtlich des Treuhandvermögens
 der Prüfung durch den Bundesrechnungshof.
 
-
 ### § 20
 
 (weggefallen)
 
-
 ## Dritter Teil - Ergänzungs- und Schlußvorschriften
-
-
 
 ### § 21 Anwendung des Ersten und des Zweiten Wohnungsbaugesetzes
 
@@ -322,11 +299,9 @@ Wohnungsbaugesetzes sowie die Vorschriften der §§ 19, 20, 23, 25 bis
 26, 52, 53, 63, 75 bis 77, 80, des § 81 Satz 2 und des § 90 Abs. 3 bis
 5 des Zweiten Wohnungsbaugesetzes sind nicht anzuwenden.
 
-
 ### (XXXX) §§ 22 und 23 (weggefallen)
 
 -
-
 
 ### § 24 Bergmannswohnungen
 
@@ -339,11 +314,9 @@ Buchstabe d und der §§ 5 und 6 dieses Gesetzes entsprechend
 anzuwenden, soweit sich aus dem Gesetz über Bergmannssiedlungen nichts
 anderes ergibt.
 
-
 ### (XXXX) §§ 24a und 25 (weggefallen)
 
 -
-
 
 ### § 26 (Inkrafttreten)
 

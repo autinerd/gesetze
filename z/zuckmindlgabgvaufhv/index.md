@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2889
 
-
-
 ## § 1
 
 Die Zucker-Mindestlagerabgaben-Verordnung vom 7. Juli 1977 (BGBl. I S.
 1320), geändert durch Artikel 1 der Verordnung vom 22. Dezember 1992
 (BGBl. I S. 2434), wird aufgehoben.
-
 
 ## § 2
 

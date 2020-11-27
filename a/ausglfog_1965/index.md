@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 28. 6.1990 I 1221
 
-
 ## § 1 Sachliche Geltung des Gesetzes
 
 (1) Ausgleichsforderungen, Rentenausgleichsforderungen und
@@ -33,7 +32,6 @@ und für Ausgleichsforderungen, die der Deutschen Bundesbank, der
 Deutschen Bundespost und der Senatsverwaltung für das Post- und
 Fernmeldewesen Berlin gewährt worden sind.
 
-
 ## § 2 Tilgung
 
 Vom 1. Januar 1956 an werden verzinsliche Ausgleichsforderungen
@@ -43,7 +41,6 @@ Ausgleichsforderungen halbjährlich mit 2 vom Hundert des gewährten
 Betrages getilgt. Leistungen, die ein Schuldner vor Inkrafttreten
 dieses Gesetzes entsprechend dem Satz 1 zum Zwecke der Tilgung bewirkt
 hat, gelten als Tilgung im Sinne dieses Gesetzes.
-
 
 ## § 3 Tilgungsleistungen
 
@@ -57,7 +54,6 @@ Tilgungsleistung bei Ablauf des auf die Gewährung folgenden
 Kalenderhalbjahres fällig. Sie ist so zu berechnen, als ob die
 Ausgleichsforderung bereits mit Zinsenlauf vom 1. Januar 1956 an
 gewährt worden wäre.
-
 
 ## § 4 Änderung von Ausgleichsforderungen
 
@@ -78,7 +74,6 @@ spätestens mit der Nachzahlung oder Erstattung von Zinsen auf die
 Ausgleichsforderung, bei einer unverzinslichen Ausgleichsforderung
 unverzüglich zu bewirken.
 
-
 ## § 5 Abschlagszahlungen
 
 Solange eine Ausgleichsforderung noch nicht gewährt ist, aber
@@ -86,13 +81,11 @@ Abschlagszahlungen auf die Zinsen geleistet werden, sind
 Abschlagszahlungen auf die Tilgung zu leisten. §§ 2 bis 4 gelten
 entsprechend.
 
-
 ## § 6 Kündigung durch den Schuldner
 
 Der Schuldner kann Ausgleichsforderungen ganz oder teilweise unter
 Einhaltung einer Frist von sechs Monaten kündigen; die Kündigung kann
 auch durch Bekanntgabe im Bundesanzeiger erfolgen.
-
 
 ## § 7 Erstattung von Zins- und Tilgungsleistungen
 
@@ -127,7 +120,6 @@ Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den
 Bund vom 16. Dezember 1954 (Bundesgesetzbl. I S. 439) bleibt
 unberührt.
 
-
 ## § 8 Ankaufsfonds
 
 (1) Der bei der Deutschen Bundesbank bestehende Fonds zum Ankauf von
@@ -139,7 +131,6 @@ anderen Mittel bleiben im Bestand des Fonds.
 
 (3) Die Deutsche Bundesbank veröffentlicht gleichzeitig mit dem
 Jahresabschluß einen Bericht über den Stand des Ankaufsfonds.
-
 
 ## § 9 Verwendung der Mittel des Ankaufsfonds
 
@@ -179,7 +170,6 @@ Absatz 2 bezeichneten Zwecke erst verwenden, nachdem der
 Bundesminister der Finanzen den Grundsätzen der beabsichtigten
 Verwendung zugestimmt hat.
 
-
 ## § 10 Auflösung des Ankaufsfonds
 
 (1) Hat der Schuldner eine Ausgleichsforderung zu einem höheren Betrag
@@ -198,7 +188,6 @@ des Ankaufsfonds sind an den Bund abzuführen. Im Zeitpunkt der
 Auflösung noch nicht fällige Zinsen auf angekaufte
 Ausgleichsforderungen sind nicht zu entrichten.
 
-
 ## § 11 Sonderregelung für Berlin
 
 (1)
@@ -210,7 +199,6 @@ Umstellungsergänzungsgesetzes vom 23. März 1957 (Bundesgesetzbl. I S.
 Bundesbank vom 26. Juli 1957 (Bundesgesetzbl. I S. 745) zustehen,
 gehen mit Wirkung vom 1. Januar 1965 auf den Bund über.
 
-
 ## § 12 Gesetz über die Deutsche Bundesbank
 
 Wo im Gesetz über die Deutsche Bundesbank auf Vorschriften des
@@ -218,13 +206,11 @@ Gesetzes über die Tilgung von Ausgleichsforderungen verwiesen wird,
 treten an deren Stelle die entsprechenden Vorschriften dieses
 Gesetzes.
 
-
 ## § 13 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 14 Inkrafttreten
 

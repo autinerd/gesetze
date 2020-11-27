@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 60 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Amtliche Anerkennung als Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr
 
@@ -54,7 +52,6 @@ Gutachten zu erstellen
 Die Anerkennung als Prüfer mit Teilbefugnissen berechtigt nur,
 Untersuchungen im Rahmen der amtlich vorgeschriebenen technischen
 Überwachung der Kraftfahrzeuge und ihrer Anhänger durchzuführen.
-
 
 ## § 2 Voraussetzung für die Anerkennung
 
@@ -132,7 +129,6 @@ zuständigen Behörden der Länder. Die §§ 9 bis 17 des
 Berufsqualifikationsfeststellungsgesetzes sind entsprechend
 anzuwenden.
 
-
 ## § 3 Antragsverfahren
 
 (1) In dem Antrag auf Anerkennung hat der Bewerber anzugeben, ob er
@@ -176,7 +172,6 @@ Beizufügen sind
 (2) Die Anerkennungsbehörde kann eine Beurteilung des Bewerbers von
 der Technischen Prüfstelle für den Kraftfahrzeugverkehr anfordern, bei
 der der Bewerber beschäftigt ist oder war.
-
 
 ## § 4 Prüfung für die Anerkennung
 
@@ -225,10 +220,6 @@ erlassen
     Prüfungsbescheinigungen, die Ergänzungs- und die
     Wiederholungsprüfungen.
 
-
-
-
-
 ## § 5 Anerkennung
 
 Die Anerkennung als Sachverständiger oder Prüfer wird durch
@@ -236,7 +227,6 @@ Aushändigung oder Zustellung eines Ausweises erteilt. Der Ausweis ist
 an die Anerkennungsbehörde unverzüglich zurückzugeben, wenn die
 Anerkennung ruht oder wenn sie erloschen, zurückgenommen oder
 widerrufen ist.
-
 
 ## § 6 Tätigkeit der Sachverständigen und Prüfer
 
@@ -256,7 +246,6 @@ Zustimmung der zuständigen Aufsichtsbehörden.
 (2) Der Sachverständige und der Prüfer darf personenbezogene Daten,
 die ihm bei seiner Tätigkeit bekanntgeworden sind, nur für diese
 Tätigkeit verwenden.
-
 
 ## § 7 Ruhen und Erlöschen der Anerkennung
 
@@ -304,7 +293,6 @@ Fahreignung verlangen.
 (3) Die Anerkennung erlischt auch, wenn der Sachverständige oder der
 Prüfer auf die Anerkennung verzichtet.
 
-
 ## § 8 Rücknahme und Widerruf der Anerkennung
 
 (1) Die Anerkennung als Sachverständiger oder als Prüfer ist
@@ -322,7 +310,6 @@ Anerkennungsbehörde von dem Betroffenen die Vorlage eines amts- oder
 fachärztlichen Zeugnisses oder eines Gutachtens einer amtlich
 anerkannten Begutachtungsstelle für Fahreignung verlangen.
 
-
 ## § 9 Erteilung einer neuen Anerkennung
 
 Wird nach Erlöschen (§ 7 Abs. 2 und 3), Rücknahme oder Widerruf (§ 8)
@@ -332,7 +319,6 @@ vorliegen, die Zweifel an der fachlichen Eignung des Antragstellers
 begründen. Bei der Berechnung der Zweijahresfrist ist der Zeitraum
 eines vorangegangenen Ruhens der Anerkennung (§ 7 Abs. 1) zu
 berücksichtigen.
-
 
 ## § 10 Technische Prüfstelle für den Kraftfahrzeugverkehr
 
@@ -367,7 +353,6 @@ durch Sachverständige, Prüfer oder Hilfskräfte in Ausübung der ihnen
 (5) Der Auftrag, eine Technische Prüfstelle zu unterhalten, kann
 widerrufen werden, wenn die beauftragte Stelle nicht sicherstellt, daß
 die Technische Prüfstelle ihre Pflichten ordnungsgemäß wahrnimmt.
-
 
 ## § 11 Einrichtung und Aufgaben der Technischen Prüfstelle
 
@@ -414,7 +399,6 @@ mitzuteilen.
 Technischen Prüfstelle dürfen nur der Leiter oder sein Stellvertreter
 geben.
 
-
 ## § 12 Organisation der Technischen Prüfstelle
 
 (1) Der Leiter der Technischen Prüfstelle und sein Stellvertreter
@@ -427,7 +411,6 @@ der Aufsichtsbehörde.
 Stelle hat für die Durchführung der Aufgaben der Technischen
 Prüfstelle eine Geschäftsordnung zu erlassen, die der Genehmigung der
 Aufsichtsbehörde bedarf.
-
 
 ## § 13 Aufsicht über die Technische Prüfstelle
 
@@ -457,14 +440,12 @@ Prüfingenieure nachteilige Tatsachen bekannt werden, die für die
 Betrauung mit der Durchführung von Untersuchungen oder Abnahmen von
 Bedeutung sein können.
 
-
 ## § 14 Staatliche Technische Prüfstellen
 
 Für die Länder, die staatliche Technische Prüfstellen eingerichtet
 haben oder künftig einrichten werden, gelten § 10 Abs. 1, Abs. 2 -
 ausgenommen Satz 2 und 3 -, Abs. 3 und Abs. 5, § 11 sowie die §§ 12
 und 13 sinngemäß.
-
 
 ## § 15 Zuständigkeiten
 
@@ -479,10 +460,6 @@ Die Landesregierungen bestimmen durch Rechtsverordnung
 
 
 3.  die für die Ausnahmeregelung zuständigen Behörden nach § 17.
-
-
-
-
 
 ## § 16 Sachverständige und Prüfer bei Behörden
 
@@ -530,7 +507,6 @@ Ruhens der erteilten Anerkennung gestellt, so entfällt die Prüfung,
 wenn nicht Tatsachen vorliegen, die Zweifel an der fachlichen Eignung
 des Bewerbers rechtfertigen.
 
-
 ## § 17 Ausnahmeregelung
 
 (1) Die nach § 15 zuständigen Behörden und die nach § 16 Abs. 1
@@ -553,7 +529,6 @@ Landesbehörden können die nach § 16 Abs. 1 zuständigen Dienststellen
 ihres Geschäftsbereichs ermächtigen, Ausnahmen von § 2 Abs. 1 Nr. 1,
 Nr. 4, Nr. 5, Absatz 2 und § 3 zuzulassen, soweit dies aus
 dienstlichen Gründen geboten ist.
-
 
 ## § 18 Kosten
 
@@ -586,14 +561,12 @@ Termin nicht stattfinden konnte. Soweit Untersuchungen von amtlich
 anerkannten Begutachtungsstellen für Fahreignung durchgeführt werden,
 gilt § 6a Abs. 3 Satz 2 des Straßenverkehrsgesetzes entsprechend.
 
-
 ## § 19 Allgemeine Verwaltungsvorschriften
 
 Zur Durchführung dieses Gesetzes und der auf ihm beruhenden
 Rechtsverordnungen kann das Bundesministerium für Verkehr mit
 Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften
 erlassen.
-
 
 ## § 20 Ordnungswidrigkeiten
 
@@ -631,11 +604,9 @@ erlassen.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Anerkennungsbehörde (§ 15 Nr. 1).
 
-
 ## § 21
 
 -
-
 
 ## § 22 Örtliche Kraftfahrsachverständigenregister
 
@@ -738,10 +709,6 @@ werden:
     zuständigen Behörden oder den zuständigen Aufsichtsbehörden nach § 28
     Abs. 2 übermittelten Daten.
 
-
-
-
-
 ## § 23 Registrierung im Kraftfahrt-Bundesamt
 
 (1) Im Zentralen Fahrerlaubnisregister (§ 48 des
@@ -784,7 +751,6 @@ werden
 erfaßt. Unberührt bleiben die Eintragungen nach § 28 Abs. 3 des
 Straßenverkehrsgesetzes.
 
-
 ## § 24 Zweck der Registrierung
 
 Die Registrierung wird vorgenommen:
@@ -799,10 +765,6 @@ Die Registrierung wird vorgenommen:
     hinsichtlich der Anerkennungen oder Betrauungen nach Nummer 1 durch
     die zuständigen Behörden.
 
-
-
-
-
 ## § 25 Erhebung der Daten
 
 Die in den Registern nach den §§ 22 und 23 zu erfassenden Personen
@@ -815,7 +777,6 @@ die Daten von den zuständigen Behörden bereits im Rahmen von § 3
 erfaßt werden. Außerdem sind alle Änderungen, die sich auf die
 erhobenen Daten beziehen, mit dem jeweiligen Zeitpunkt der Änderung
 unverzüglich mitzuteilen und nachzuweisen.
-
 
 ## § 26 Übermittlung der Daten zur Registrierung
 
@@ -836,7 +797,6 @@ Prüfingenieur im Bereich mehrerer Anerkennungsbehörden tätig, so teilt
 das Kraftfahrt-Bundesamt dies und die nach § 22 zu speichernden Daten
 den jeweiligen Anerkennungsbehörden oder den Behörden, die der
 Betrauung zugestimmt haben, mit.
-
 
 ## § 27 Übermittlung der Daten aus den Registern
 
@@ -864,7 +824,6 @@ jeweils erforderlich ist.
 (2) Für die Verarbeitung und Nutzung der Daten durch den Empfänger
 gilt § 43 des Straßenverkehrsgesetzes.
 
-
 ## § 28 Abgleich mit dem Verkehrszentralregister
 
 (1) Das Kraftfahrt-Bundesamt prüft, ob die im Verkehrszentralregister
@@ -879,7 +838,6 @@ Aufsichtsbehörden mit. Hierbei werden die Personendaten des
 Betreffenden, Art und Umfang der Eintragung, Datum der betreffenden
 Maßnahme, Entscheidung oder Erklärung sowie Aktenzeichen der Behörde
 oder des Gerichts mitgeteilt.
-
 
 ## § 29 Datenvergleich zur Beseitigung von Fehlern
 
@@ -899,7 +857,6 @@ Register zu vervollständigen.
 (3) Die Übermittlungen nach Absatz 1 oder Absatz 2 sind nur zulässig,
 wenn Anlaß zu der Annahme besteht, daß die Datenbestände unrichtig
 oder unvollständig sind.
-
 
 ## § 30 Löschung der Daten
 
@@ -933,7 +890,6 @@ zu löschen. Die Daten über die nicht bestandenen Prüfungen (§ 22 Abs.
 Betroffenen gelöscht. Für die Löschung der nach § 28 übermittelten
 Daten gilt § 29 des Straßenverkehrsgesetzes entsprechend.
 
-
 ## § 31 Register über die Sachverständigen der Bundeswehr
 
 (1) Die Zentrale Militärkraftfahrtstelle führt ein Register über die
@@ -949,7 +905,6 @@ Betroffenen (§ 3 Abs. 3 und 4 des Wehrpflichtgesetzes) zu löschen.
 
 (3) Im übrigen finden die Vorschriften der §§ 24 bis 28 und 30
 sinngemäß Anwendung.
-
 
 ## § 32 Übergangsregelung
 
@@ -978,13 +933,11 @@ Fahrerlaubnis zur Fahrgastbeförderung in Kraftomnibussen abgenommen
 haben, benötigen abweichend von § 2 Abs. 1 Satz 2 keine Fahrerlaubnis
 der Klasse D, wenn sie Fahrerlaubnisprüfungen abnehmen.
 
-
 ## § 33 Inkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Januar 1972 in Kraft.
 
 (2)
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1103) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

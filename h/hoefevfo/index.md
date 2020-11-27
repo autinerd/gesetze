@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 99 G v. 17.12.2008 I 2586
 
-
 ## § 1 Verhältnis zum allgemeinen Verfahrensrecht
 
 (1) Auf das Verfahren in Höfesachen sind die Vorschriften des Gesetzes
@@ -34,7 +33,6 @@ ursprünglichen Hof zuständige Landwirtschaftsgericht auch dann örtlich
 zuständig, wenn Ansprüche wegen der Veräußerung oder Verwertung eines
 Ersatzbetriebes oder von Ersatzgrundstücken geltend gemacht werden.
 
-
 ## § 2 Eintragungsgrundsatz
 
 (1) Eine Besitzung, die nach den höferechtlichen Vorschriften Hof ist
@@ -44,7 +42,6 @@ eingetragen.
 
 (2) Absatz 1 gilt für die Eintragung einer Besitzung als Ehegattenhof
 entsprechend.
-
 
 ## § 3 Ersuchensgrundsatz
 
@@ -74,7 +71,6 @@ ersuchen.
 (3) Über ein von ihm zu stellendes Ersuchen befindet das
 Landwirtschaftsgericht ohne Zuziehung ehrenamtlicher Richter.
 
-
 ## § 3a
 
 Das Finanzamt teilt dem Landwirtschaftsgericht den Wirtschaftswert
@@ -96,7 +92,6 @@ vorgenommenen Ermittlung
 
 Die Mitteilungen erfolgen mindestens einmal jährlich.
 
-
 ## § 4 Erklärungen nach den höferechtlichen Vorschriften
 
 (1) Die in den höferechtlichen Vorschriften vorgesehenen Erklärungen,
@@ -109,12 +104,10 @@ soll, sind gegenüber dem Landwirtschaftsgericht abzugeben.
 Löschung nicht bewirkt ist, bis zum Tode des Erklärenden widerrufen
 werden; § 1 Abs. 6 Satz 1 der Höfeordnung gilt entsprechend.
 
-
 ## § 5 Vermutung
 
 Die Eintragung des Hofvermerks begründet die Vermutung, daß die
 Besitzung die durch den Vermerk ausgewiesene Eigenschaft hat.
-
 
 ## § 6 Hofvermerk
 
@@ -163,7 +156,6 @@ und im Grundbuch des Miteigentumsanteils folgender Vermerk:
 
 einzutragen.
 
-
 ## § 7 Besonderes Grundbuchblatt
 
 (1) Die zum Hof gehörenden Grundstücke desselben Eigentümers sind auf
@@ -176,7 +168,6 @@ Grundbuchblatt des Hofes einzutragen.
 
 (3) Werden einzelne Grundstücke vom Hof abgetrennt, so ist der
 Hofvermerk nicht mit zu übertragen.
-
 
 ## § 8 Löschungsersuchen von Amts wegen
 
@@ -193,7 +184,6 @@ Antrag auf Feststellung nicht gestellt oder zurückgenommen hat oder
 wenn rechtskräftig festgestellt worden ist, daß ein Hof im Sinne der
 höferechtlichen Vorschriften nicht vorliegt.
 
-
 ## § 9 Benachrichtigung
 
 Von der Eintragung und Löschung eines Hofvermerks sowie von der
@@ -201,14 +191,12 @@ Abtrennung eines einzelnen Grundstücks (§ 7 Abs. 3) benachrichtigt das
 Grundbuchamt den Eigentümer, das Gericht und die Genehmigungsbehörde
 nach dem Grundstücksverkehrsgesetz.
 
-
 ## § 10 Höfeakten
 
 Das Ersuchen des Landwirtschaftsgerichts um Eintragung oder Löschung
 des Hofvermerks und sonstige höferechtlich erhebliche Vorgänge sind zu
 einer besonderen Höfeakte zu nehmen, die bei den Grundakten der
 Hofstelle aufzubewahren ist.
-
 
 ## § 11 Feststellungsverfahren
 
@@ -255,7 +243,6 @@ diesen Personen zuzustellen.
 Verfahren in jeder Instanz anschließen. Die Anschließung kann mit der
 Einlegung der Beschwerde verbunden werden.
 
-
 ## § 12 Abänderung der Entscheidung
 
 (1) Ist im Feststellungsverfahren rechtskräftig entschieden worden, so
@@ -277,7 +264,6 @@ Entscheidung an gerechnet, ist ein neuer Antrag auf Feststellung nur
 noch statthaft, wenn die bei der Entscheidung vorhanden gewesenen
 Voraussetzungen nachträglich weggefallen sind.
 
-
 ## § 13 Zustimmungsverfahren
 
 (1) Den Antrag auf Zustimmung zu einer Verfügung von Todes wegen kann
@@ -290,7 +276,6 @@ im Namen eines Antragsberechtigten die Genehmigung zu beantragen.
 (3) Nach dem Tode des Erblassers kann den Antrag jeder stellen, der
 ein berechtigtes Interesse an der Entscheidung glaubhaft macht.
 
-
 ## § 14 Beschwerdeberechtigung
 
 Genehmigt das Landwirtschaftsgericht eine Verfügung von Todes wegen,
@@ -301,7 +286,6 @@ hoferbenberechtigte Abkömmling beschwerdeberechtigt. Diesem steht
 derjenige Abkömmling gleich, der zulässigerweise durch Erbvertrag oder
 gemeinschaftliches Testament als Hoferbe bestimmt ist.
 
-
 ## § 15 Entscheidung im Zustimmungsverfahren
 
 (1) Entscheidet das Landwirtschaftsgericht rechtskräftig, daß eine
@@ -311,12 +295,10 @@ Zustimmung gleich.
 (2) Die Zustimmung kann unter einer Auflage oder Bedingung erteilt
 werden. Sie wird erst mit der Rechtskraft der Entscheidung wirksam.
 
-
 ## § 16 Übergabeverträge
 
 Für die Genehmigung eines Übergabevertrages gelten die Vorschriften
 der §§ 13 bis 15 sinngemäß.
-
 
 ## § 17 Stundungsverfahren
 
@@ -326,13 +308,11 @@ Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend
 anzuwenden.
 
-
 ## § 18 Kostenfreie Geschäfte
 
 Für die Vereinigung der zu einem Hof gehörenden Grundstücke zu einem
 Grundstück sowie für die Eintragung und Löschung eines Hofvermerks
 werden Gebühren und Auslagen nicht erhoben.
-
 
 ## § 19 Geschäftswert nach freiem Ermessen
 
@@ -369,10 +349,6 @@ g)  Regelung und Entscheidung der mit dem Hofübergang zusammenhängenden
 h)  sonstige Anträge und Streitigkeiten nach § 18 Abs. 1 der Höfeordnung
     und nach § 25.
 
-
-
-
-
 ## § 20 Geschäftswert in anderen Verfahren
 
 Der Geschäftswert bestimmt sich bei
@@ -401,7 +377,6 @@ e)  Ausschlagung des Anfalls des Hofes (§ 11 der Höfeordnung) nach dem
 
 Der Wert des Hofes bestimmt sich nach § 19 Abs. 2 bis 5 der
 Kostenordnung.
-
 
 ## § 21 Volle Gebühr
 
@@ -434,10 +409,6 @@ f)  die Aufhebung, Beschränkung oder Verlängerung der Verwaltung und
 
 g)  die Ausstellung eines Erbscheins.
 
-
-
-
-
 ## § 22 Doppelte Gebühr
 
 Das Doppelte der vollen Gebühr wird erhoben für
@@ -451,10 +422,6 @@ b)  Verfahren zur Regelung und Entscheidung der mit dem Hofübergang
 
 c)  Verfahren über sonstige Anträge und Streitigkeiten nach § 18 Abs. 1
     der Höfeordnung und nach § 25.
-
-
-
-
 
 ## § 23 Viertel Gebühr
 
@@ -474,16 +441,11 @@ c)  die Entgegennahme der Erklärung im Fall des § 9 Abs. 2 Satz 1 und des
 
 d)  das Fristsetzungsverfahren nach § 9 Abs. 2 Satz 2 der Höfeordnung.
 
-
-
-
-
 ## § 24 Beschwerdeverfahren
 
 Im Beschwerdeverfahren erhöhen sich die in den §§ 21 bis 23 bestimmten
 Gebührensätze auf das Eineinhalbfache, im Rechtsbeschwerdeverfahren
 auf das Doppelte.
-
 
 ## § 25 Anpassungsverfahren
 
@@ -500,7 +462,6 @@ Hofeigentümer verlangen, daß Versorgungsrechte, die auf Grund früherer
 anerbenrechtlicher Vorschriften entstanden oder durch Übergabevertrag
 oder durch sonstige Vereinbarungen begründet worden sind, in das
 Grundbuch eingetragen werden.
-
 
 ## § 26
 

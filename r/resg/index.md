@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1583, 1588
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Begriffsbestimmung
 
@@ -30,10 +28,6 @@ Reservistinnen und Reservisten der Bundeswehr sind
 2.  sonstige Personen, die auf Grund einer vom Bund angenommenen
     Verpflichtung zu einer Wehrdienstleistung nach dem Vierten Abschnitt
     des Soldatengesetzes herangezogen werden können.
-
-
-
-
 
 ### § 2 Dienstgrad
 
@@ -55,7 +49,6 @@ weiterführen, wenn
 (2) Werden Reservistinnen oder Reservisten in ein Wehrdienstverhältnis
 berufen, führen sie ihren Dienstgrad während des
 Wehrdienstverhältnisses ohne einen Zusatz nach Absatz 1.
-
 
 ### § 3 Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
 
@@ -85,12 +78,7 @@ Rechtsverordnung sind insbesondere zu regeln
 
 3.  die Kennzeichnung nach Absatz 1 Nummer 2.
 
-
-
-
-
 ## Abschnitt 2 - Reservewehrdienstverhältnis
-
 
 ### § 4 Reservewehrdienstverhältnis
 
@@ -104,7 +92,6 @@ Begründung anderer Wehrdienstverhältnisse bleiben im Übrigen
 unberührt, soweit sich aus den nachfolgenden Vorschriften nichts
 anderes ergibt.
 
-
 ### § 5 Begründung und Beginn des Reservewehrdienstverhältnisses
 
 (1) Für die Berufung in ein Reservewehrdienstverhältnis gelten die
@@ -117,12 +104,10 @@ Angabe der Berufungsdauer.
 
 (2) Das Reservewehrdienstverhältnis beginnt mit der Ernennung.
 
-
 ### § 6 Diensteid
 
 Bei der Berufung in ein Reservewehrdienstverhältnis ist ein Diensteid
 nach § 9 Absatz 1 des Soldatengesetzes zu leisten.
-
 
 ### § 7 Sachmittel und Entschädigungen
 
@@ -151,7 +136,6 @@ gewährt werden
 Entschädigungen nach Absatz 2 Nummer 2 legt das Bundesministerium der
 Verteidigung im Einvernehmen mit dem Bundesministerium des Innern
 fest.
-
 
 ### § 8 Aktivierung für eine Dienstleistung nach § 60 des Soldatengesetzes
 
@@ -201,13 +185,11 @@ Sinne des Vierten Abschnitts des Soldatengesetzes.
 gewährt. Soweit solche Leistungen im Voraus gewährt worden sind, gilt
 § 12 des Bundesbesoldungsgesetzes entsprechend.
 
-
 ### § 9 Zuziehung zu dienstlichen Veranstaltungen
 
 Soldatinnen und Soldaten im Reservewehrdienstverhältnis können
 entsprechend § 81 des Soldatengesetzes zu dienstlichen Veranstaltungen
 zugezogen werden. § 1 Absatz 6 des Wehrsoldgesetzes gilt entsprechend.
-
 
 ### § 10 Benachteiligungsverbot
 
@@ -218,13 +200,11 @@ und jede sonstige berufliche Benachteiligung auf Grund der Berufung in
 ein Reservewehrdienstverhältnis und der damit verbundenen Tätigkeit
 sind unzulässig.
 
-
 ### § 11 Versorgung
 
 Erleidet eine Soldatin oder ein Soldat im Reservewehrdienstverhältnis
 bei der Verrichtung des Wehrdienstes eine Schädigung, richtet sich die
 Versorgung nach dem Soldatenversorgungsgesetz.
-
 
 ### § 12 Beendigungsgründe
 
@@ -249,10 +229,6 @@ Ein Reservewehrdienstverhältnis endet
 
 
 5.  durch Entlassung nach § 13.
-
-
-
-
 
 ### § 13 Entlassung
 

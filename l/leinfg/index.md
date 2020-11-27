@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 955
 
-
-
 ## - - Territoriale Gliederung
-
-
 
 ### § 1
 
@@ -92,7 +88,6 @@ gebildet:
 
 (2)
 
-
 ### § 2
 
 (1)
@@ -109,10 +104,7 @@ Bürgerbefragungen bekundeten und durch die Volksvertretungen
 bestätigten Willen stattzugeben, sofern dadurch keine Ex- bzw.
 Enklaven entstehen.
 
-
 ### (XXXX) §§ 3 bis 21 (weggefallen)
-
-
 
 ### § 22 Übergang von Einrichtungen und Personal
 
@@ -122,10 +114,7 @@ Einrichtungen der Republik, soweit sie nach diesem Gesetz Aufgaben der
 Länder wahrnehmen, auf die Länder über. Soweit Aufgaben auf die Länder
 übergehen, geht das Personal anteilmäßig auf die Länder über.
 
-
 ## - - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 23
 
@@ -139,11 +128,9 @@ Zusammentritt hat er eine vorläufige Landesregierung zu bilden.
 (3) Nach Inkrafttreten der Landesverfassung wird die Landesregierung
 nach den Bestimmungen dieser Verfassung gebildet.
 
-
 ### § 24
 
 -
-
 
 ### § 25 Inkrafttreten
 
@@ -152,7 +139,6 @@ nach den Bestimmungen dieser Verfassung gebildet.
 (2)
 
 (3)
-
 
 ### Schlußformel
 

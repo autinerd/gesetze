@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 27.5.2010 I 671
 
-
 ## § 1 Anordnung als Bundesstatistik
 
 Im Geltungsbereich dieses Gesetzes werden folgende Statistiken der
@@ -50,10 +49,6 @@ als Bundesstatistiken durchgeführt:
     Rentenversicherung überführten Leistungen aus
     Sonderversorgungssystemen im Beitrittsgebiet
     (Sonderversorgungsempfängerstatistik).
-
-
-
-
 
 ## § 2 Erhebungseinheiten
 
@@ -132,7 +127,6 @@ Einheiten erfasst: Name, Anschrift, Zeitpunkt der Ausgliederung oder
 Eingliederung, Finanzvolumen sowie die Angaben, die für die Zurechnung
 zum Sektor Staat nach den Definitionen im Anhang A der Verordnung (EG)
 Nr. 2223/96 benötigt werden.
-
 
 ## § 3 Statistik der Ausgaben und Einnahmen
 
@@ -364,7 +358,6 @@ Erhebungsmerkmale:
 
 Bei den Hochschulen kann von einer Erhebung abgesehen werden.
 
-
 ## § 4 Statistik des Steueraufkommens, der Hebesätze und der Umlagen
 
 Die Statistik nach § 1 Nr. 2 erfasst
@@ -400,13 +393,6 @@ Die Statistik nach § 1 Nr. 2 erfasst
     b)  vierteljährlich
 
         das Aufkommen aus Steuern nach Steuerarten.
-
-
-
-
-
-
-
 
 ## § 5 Statistik über die Schulden, Bürgschaften und Finanzaktiva
 
@@ -458,10 +444,6 @@ Die Statistik nach § 1 Nr. 3 erfasst
     dem Sektor Staat zugerechnet werden, jährlich zum 31. Dezember den
     Stand der Finanzaktiva und die finanziellen Transaktionen, wie sie im
     Anhang A der Verordnung (EG) Nr. 2223/96 definiert sind, nach Arten.
-
-
-
-
 
 ## § 6 Personalstandstatistik
 
@@ -525,7 +507,6 @@ Art, Umfang und Dauer des Dienst- oder Arbeitsvertragsverhältnisses,
 Laufbahngruppe, Dienst- oder Arbeitsort, Bildungsabschluss und
 Staatsangehörigkeit erfasst.
 
-
 ## § 7 Versorgungsempfängerstatistik
 
 (1) Die Statistik nach § 1 Nr. 5 erfasst bei den Erhebungseinheiten
@@ -585,7 +566,6 @@ Erhebungseinheiten und den in Nummer 10 genannten Erhebungseinheiten
 in privater Rechtsform nur die Art des früheren Dienstverhältnisses,
 die Art der Versorgung und die Besoldungsgruppe erfasst.
 
-
 ## § 8 Sonderversorgungsempfängerstatistik
 
 Die Statistik nach § 1 Nr. 6 erfasst bei den Erhebungseinheiten nach §
@@ -610,10 +590,6 @@ Erhebungsmerkmalen:
 
 
 5.  Einzelplan, Kapitel und Titel.
-
-
-
-
 
 ## § 9 Zusätzliche Erhebungsmerkmale
 
@@ -648,10 +624,6 @@ Zusätzliche Erhebungsmerkmale sind
 5.  bei den Erhebungseinheiten nach § 2 Abs. 1 für die Erhebungen nach den
     §§ 6, 7 und 8 der Beschäftigungsbereich.
 
-
-
-
-
 ## § 10 Hilfsmerkmale
 
 Hilfsmerkmale sind
@@ -667,10 +639,6 @@ Hilfsmerkmale sind
 3.  bei den Erhebungseinheiten nach § 2 Abs. 1 Nr. 7 und 10 auch die für
     den entsprechenden Haushalt zuständige oberste Bundes- oder
     Landesbehörde.
-
-
-
-
 
 ## § 11 Auskunftspflicht
 
@@ -757,10 +725,6 @@ Daten sollen nach Vorgaben der statistischen Ämter elektronisch
 3.  bei den Erhebungseinheiten nach § 2 Abs. 1 Nr. 5 die Leiter dieser
     Erhebungseinheiten.
 
-
-
-
-
 ## § 12 Zentrale Erhebungen
 
 (1) Die Statistiken nach den §§ 3 bis 5 werden bei den
@@ -779,7 +743,6 @@ Aufsicht des Bundes unterstehen, und bei den Erhebungseinheiten nach §
 als 50 vom Hundert des Nennkapitals oder des Stimmrechts beteiligt
 ist, vom Statistischen Bundesamt erhoben und aufbereitet.
 
-
 ## § 13 Zusammenführung
 
 Zur Gewinnung statistischer Ergebnisse auf der Ebene der Hochschulen
@@ -791,7 +754,6 @@ Hochschulen selbst bewirtschaftet werden, sowie die Namen der
 Hochschulen mit den Erhebungsmerkmalen nach § 3 Abs. 1 Nr. 6 des
 Hochschulstatistikgesetzes vom 2. November 1990 (BGBl. I S. 2414) in
 der jeweils geltenden Fassung zusammengeführt werden.
-
 
 ## § 14 Übermittlung
 
@@ -812,13 +774,11 @@ Statistikregisters nach § 1 Abs. 1 des Statistikregistergesetzes vom
 16\. Juni 1998 (BGBl. I S. 1300, 2903) in der jeweils geltenden Fassung
 verwendet werden.
 
-
 ## § 15 Veröffentlichung
 
 Die statistischen Ergebnisse dürfen auf der Ebene der Erhebungseinheit
 veröffentlicht werden, soweit nicht Erhebungseinheiten nach § 2 Abs. 1
 Nr. 7 betroffen sind.
-
 
 ## § 16 (Inkrafttreten, Außerkrafttreten)
 

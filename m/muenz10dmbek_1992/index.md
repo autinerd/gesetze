@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1028
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -114,7 +112,6 @@ fünfzackige Sterne.
 (10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg-
 Ottmaring.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

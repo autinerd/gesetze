@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 23.5.2011 I 920
 
-
 ## Abschnitt I - Allgemeine Bestimmungen
-
-
 
 ### § 1 Geltungsbereich
 
@@ -121,10 +118,6 @@ d)  Ansprüche von Gebietskörperschaften des beitretenden Gebiets gemäß
     Kommunalvermögensgesetz vom 6. Juli 1990 (GBl. I Nr. 42 S. 660)
     erfasst sind.
 
-
-
-
-
 ### § 2 Begriffsbestimmung
 
 (1) Berechtigte im Sinne dieses Gesetzes sind natürliche und
@@ -202,7 +195,6 @@ Pflichten des in Satz 4 genannten Verfügungsberechtigten.
 (4) Unter Schädigung im Sinne dieses Gesetzes ist jede Maßnahme gemäß
 § 1 zu verstehen.
 
-
 ### § 2a Erbengemeinschaft
 
 (1) Ist Rechtsnachfolger des von Maßnahmen nach § 1 Betroffenen eine
@@ -241,10 +233,7 @@ beträgt die Frist sechs Monate.
 (4) Diese Vorschriften gelten entsprechend, wenn eine
 Erbengemeinschaft als solche von Maßnahmen nach § 1 betroffen ist.
 
-
 ## Abschnitt II - Rückübertragung von Vermögenswerten
-
-
 
 ### § 3 Grundsatz
 
@@ -421,11 +410,9 @@ hinsichtlich des Vermögenswertes vorliegt; diese Pflicht besteht in
 beiden Fallgruppen auch gegenüber dem Bundesamt für zentrale Dienste
 und offene Vermögensfragen.
 
-
 ### § 3a
 
 (weggefallen)
-
 
 ### § 3b Gesamtvollstreckungsverfahren, Zwangsversteigerungsverfahren
 
@@ -463,7 +450,6 @@ aus einer Veräußerung des Grundstücks gleich. Dies gilt auch in
 Ansehung von Ansprüchen des Entschädigungsfonds nach § 7a Abs. 2 Satz
 4\.
 
-
 ### § 3c Erlaubte Veräußerungen
 
 (1) § 3 Abs. 3 gilt für die Veräußerung von Vermögenswerten der
@@ -483,7 +469,6 @@ Wirksamwerden der Veräußerung erfolgen. Bis zur Bestandskraft der
 Entscheidung über die Rückübertragung unterliegt der Erwerber
 vorbehaltlich der Bestimmungen des Investitionsvorranggesetzes den
 Beschränkungen des § 3 Abs. 3.
-
 
 ### § 4 Ausschluss der Rückübertragung
 
@@ -562,10 +547,6 @@ c)  davon beeinflusst war, dass sich der Erwerber eine von ihm selbst oder
     von dritter Seite herbeigeführte Zwangslage oder Täuschung des
     ehemaligen Eigentümers zu Nutze gemacht hat.
 
-
-
-
-
 ### § 5 Ausschluss der Rückübertragung von Eigentumsrechten an Grundstücken und Gebäuden
 
 (1) Eine Rückübertragung von Eigentumsrechten an Grundstücken und
@@ -600,7 +581,6 @@ nach Absatz 1 Buchstabe a bis d begründen, können von den Berechtigten
 nach bestandskräftigem Abschluss des Verfahrens nicht mehr geltend
 gemacht werden. Die Vorschriften über die Rücknahme und den Widerruf
 von Verwaltungsakten bleiben unberührt.
-
 
 ### § 6 Rückübertragung von Unternehmen
 
@@ -898,7 +878,6 @@ Personen beschließen, dass der Berechtigte nicht fortgesetzt und dass
 in Erfüllung des Rückgabeanspruchs unmittelbar an die Gesellschafter
 des Berechtigten oder deren Rechtsnachfolger geleistet wird.
 
-
 ### § 6a Vorläufige Einweisung
 
 (1) Die Behörde hat Berechtigte nach § 6 auf Antrag vorläufig in den
@@ -948,7 +927,6 @@ Bürgschaft, gewährleisten.
 Berechtigte und der Verfügungsberechtigte eine vorläufige Nutzung des
 zurückzugebenden Unternehmens vereinbaren. Die Vereinbarung ist der
 Behörde mitzuteilen.
-
 
 ### § 6b Entflechtung
 
@@ -1078,7 +1056,6 @@ Vorschriften über die Beteiligungsrechte des Betriebsrats nicht
 anzuwenden, soweit sie Angelegenheiten betreffen, die den Wettbewerb
 zwischen diesen Unternehmen beeinflussen können.
 
-
 ### § 7 Wertausgleich
 
 (1) Der Berechtigte hat, außer in den Fällen des Absatzes 2, die
@@ -1195,7 +1172,6 @@ gemacht worden sind, jedoch nicht vor dem 1. August 1999. Für
 Streitigkeiten sind die ordentlichen Gerichte zuständig, in deren
 Bezirk sich der Vermögenswert ganz oder überwiegend befindet.
 
-
 ### § 7a Gegenleistung
 
 (1) Ein vom Verfügungsberechtigten im Zusammenhang mit dem Erwerb des
@@ -1294,7 +1270,6 @@ nur dann anzuwenden, wenn nicht bereits nach § 8 der
 Unternehmensrückgabeverordnung oder § 6 Abs. 6a Satz 1 Halbsatz 2
 Rückzahlungen festzusetzen sind.
 
-
 ### § 8 Wahlrecht
 
 (1) Soweit inländischen Berechtigten ein Anspruch auf Rückübertragung
@@ -1309,11 +1284,9 @@ Eigentumsverzicht, Schenkung oder Erbausschlagung in Volkseigentum
 (2) Liegt die Berechtigung bei einer Personenmehrheit, kann das
 Wahlrecht nur gemeinschaftlich ausgeübt werden.
 
-
 ### § 9
 
 (weggefallen)
-
 
 ### § 10 Bewegliche Sachen
 
@@ -1323,10 +1296,7 @@ Anspruch in Höhe des erzielten Erlöses gegen den Entschädigungsfonds
 zu, sofern ihm der Erlös nicht bereits auf einem Konto gutgeschrieben
 oder ausgezahlt wurde.
 
-
 ## Abschnitt III - Aufhebung der staatlichen Verwaltung
-
-
 
 ### § 11 Grundsatz
 
@@ -1382,7 +1352,6 @@ besondere Aufforderung mit (Kontrollmitteilung); die übermittelten
 Daten dürfen nur für die gesetzlichen Aufgaben der
 Ausgleichsverwaltung verwendet werden.
 
-
 ### § 11a Beendigung der staatlichen Verwaltung
 
 (1) Die staatliche Verwaltung über Vermögenswerte endet auch ohne
@@ -1415,7 +1384,6 @@ Erfüllung aus organisatorischen Gründen nicht möglich ist.
 Nutzungsverhältnisse an einem Grundstück oder Gebäude auf den
 Eigentümer über.
 
-
 ### § 11b Vertreter des Eigentümers
 
 (1) Ist der Eigentümer eines ehemals staatlich verwalteten
@@ -1441,7 +1409,6 @@ gesetzlicher Vertreter.
 abberufen. Sind mehrere Personen Eigentümer, so erfolgt die Abberufung
 nur, wenn die Vertretung gesichert ist.
 
-
 ### § 11c Genehmigungsvorbehalt
 
 Über Vermögenswerte, die Gegenstand der in § 1 Abs. 8 Buchstabe b
@@ -1465,13 +1432,11 @@ entsprechend mit der Maßgabe, dass an die Stelle des Bundesamtes für
 zentrale Dienste und offene Vermögensfragen die für die Verwaltung des
 betreffenden Vermögensgegenstandes zuständige Bundesbehörde tritt.
 
-
 ### § 12 Staatlich verwaltete Unternehmen und Unternehmensbeteiligungen
 
 Die Modalitäten der Rückführung staatlich verwalteter Unternehmen und
 Unternehmensbeteiligungen richten sich nach § 6. Anstelle des
 Zeitpunktes der Enteignung gilt der Zeitpunkt der Inverwaltungnahme.
-
 
 ### § 13 Haftung des staatlichen Verwalters
 
@@ -1491,7 +1456,6 @@ Entschädigungsfonds zu zahlen.
 oder der ihm übergeordneten Kommunalverwaltung ein Ausgleichsanspruch
 zu.
 
-
 ### § 14
 
 (1) Dem Berechtigten stehen keine Schadensersatzansprüche zu, wenn
@@ -1506,12 +1470,10 @@ Berechtigten bekannt war, dass die staatliche Verwaltung über den
 Vermögenswert nicht ausgeübt wird oder er diese Kenntnis in zumutbarer
 Weise hätte erlangen können.
 
-
 ### § 14a Werterhöhungen durch den staatlichen Verwalter
 
 Für Werterhöhungen, die der staatliche Verwalter aus volkseigenen
 Mitteln finanziert hat, gilt § 7 entsprechend.
-
 
 ### § 15 Befugnisse des staatlichen Verwalters
 
@@ -1533,10 +1495,7 @@ angemeldet hat.
 (4) Der staatliche Verwalter hat sich vor einer Verfügung zu
 vergewissern, dass keine Anmeldung im Sinne des Absatzes 3 vorliegt.
 
-
 ## Abschnitt IV - Rechtsverhältnisse zwischen Berechtigten und Dritten
-
-
 
 ### § 16 Übernahme von Rechten und Pflichten
 
@@ -1650,7 +1609,6 @@ insoweit verpflichtet, die Löschung des Grundpfandrechts gegen
 Ablösung der gesicherten Forderung und gegen Ersatz eines aus der
 vorzeitigen Ablösung entstehenden Schadens zu bewilligen.
 
-
 ### § 17 Miet- und Nutzungsrechte
 
 Durch die Rückübertragung von Grundstücken und Gebäuden oder die
@@ -1664,7 +1622,6 @@ Nutzungsverhältnis durch Eigentumserwerb erloschen, so lebt es mit
 Bestandskraft des Rückübertragungsbescheides mit dem Inhalt, den es
 ohne die Eigentumsübertragung seit dem 3. Oktober 1990 gehabt hätte,
 unbefristet wieder auf.
-
 
 ### § 18 Grundstücksbelastungen
 
@@ -1839,7 +1796,6 @@ aussprechen. Der Begünstigte informiert die zuständige Behörde
 umgehend über den Eingang der ihm vom Berechtigten geleisteten
 Zahlung.
 
-
 ### § 18a Rückübertragung des Grundstücks
 
 Das Eigentum an dem Grundstück geht auf den Berechtigten über, wenn
@@ -1864,10 +1820,6 @@ und
     Rechte zum Zeitpunkt der Schädigung richtet; daran können sich
     Sicherungshypotheken für Ansprüche nach § 7 Abs. 1 und § 7a Abs. 2
     anschließen.
-
-
-
-
 
 ### § 18b Herausgabe des Ablösebetrages
 
@@ -1918,11 +1870,9 @@ Entschädigungsfonds von Amts wegen abzuführen.
 (5) Soweit der Begünstigte vom Staat bereits befriedigt worden ist,
 geht die zugrundeliegende Forderung auf den Entschädigungsfonds über.
 
-
 ### § 19
 
 (weggefallen)
-
 
 ### § 20 Vorkaufsrecht von Mietern und Nutzern
 
@@ -1993,7 +1943,6 @@ das Vorkaufsrecht an der erworbenen Fläche.
 Abs. 2 sowie die §§ 1099 bis 1102, 1103 Abs. 2 und § 1104 des
 Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
-
 ### § 20a Vorkaufsrecht des Berechtigten
 
 Bei Grundstücken, die nicht zurückübertragen werden können, weil
@@ -2007,7 +1956,6 @@ des Eigentums zu entscheiden hat. Als Vorkaufsfall gilt nicht der
 Erwerb des Grundstücks durch den Inhaber eines dinglichen
 Nutzungsrechts. Im Übrigen ist § 20 Abs. 2, 4, 5 Satz 1, Abs. 6, 7
 Satz 1 und Abs. 8 sinngemäß anzuwenden.
-
 
 ### § 21 Ersatzgrundstück
 
@@ -2037,10 +1985,7 @@ Entzuges des Eigentumsrechts sind auszugleichen.
 Ersatzgrundstück übertragen, ist der staatliche Verwalter berechtigt,
 das Grundstück an den Mieter oder Nutzer zu verkaufen.
 
-
 ## Abschnitt V - Organisation
-
-
 
 ### § 22 Durchführung der Regelung offener Vermögensfragen
 
@@ -2083,7 +2028,6 @@ Zusammenhang erbrachte Entschädigungsleistungen. Das Bundesamt
 entscheidet insoweit auch über einen etwaigen Widerspruch innerhalb
 des Verwaltungsverfahrens abschließend.
 
-
 ### § 23 Landesbehörden
 
 (1) Die Länder errichten Ämter und Landesämter zur Regelung offener
@@ -2097,7 +2041,6 @@ zuvor zuständige Amt geschlossen werden. Die Landesregierungen können
 die Ermächtigung nach Satz 1 durch Rechtsverordnung auf eine von ihnen
 bestimmte Stelle übertragen.
 
-
 ### § 24 Untere Landesbehörden
 
 Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt
@@ -2106,7 +2049,6 @@ eingerichtet. Ein solches Amt kann auch für mehrere Kreise, kreisfreie
 Städte oder mit landesweiter Zuständigkeit gebildet werden. Die gilt
 auch dann, wenn die Aufgaben der unteren Landesbehörden nach § 28 Abs.
 2 auf die Landkreise oder kreisfreien Städte übertragen wurden.
-
 
 ### § 25 Landesamt zur Regelung offener Vermögensfragen
 
@@ -2131,7 +2073,6 @@ Geschäftsbetrieb nicht erforderte oder den Betrieb eines
 handwerklichen oder sonstigen gewerblichen Unternehmens oder den der
 Land- und Forstwirtschaft zum Gegenstand hatte.
 
-
 ### § 26 Widerspruchsausschüsse
 
 (1) Bei jedem Landesamt zur Regelung offener Vermögensfragen wird ein
@@ -2151,7 +2092,6 @@ zur Regelung offener Vermögensfragen.
 eine oberste Landesbehörde übertragen worden, ist gegen deren
 Entscheidungen ein Widerspruch wie gegen eine entsprechende
 Entscheidung eines Landesamtes zulässig.
-
 
 ### § 27 Amts- und Rechtshilfe
 
@@ -2195,7 +2135,6 @@ in die Akten zu gewähren, soweit es zur Durchführung dieses Gesetzes
 sowie des Entschädigungs- und Ausgleichsleistungsgesetzes erforderlich
 ist.
 
-
 ### § 28 Übergangsregelungen
 
 (1) Bis zur Errichtung der unteren Landesbehörden werden die Aufgaben
@@ -2209,7 +2148,6 @@ weiteren Bearbeitung zu übernehmen.
 (2) Die Länder können die Aufgaben der unteren Landesbehörden auch auf
 Dauer durch die Landratsämter oder die Stadtverwaltungen der
 kreisfreien Städte wahrnehmen lassen.
-
 
 ### § 29 Bundesamt für zentrale Dienste und offene Vermögensfragen
 
@@ -2242,15 +2180,11 @@ Verfahren Beteiligten mitgeteilt werden kann.
 veranlasst die im Rahmen des Aufgebotsverfahrens nach § 33 Abs. 7
 erforderliche Veröffentlichung des Aufgebots im Bundesanzeiger.
 
-
 ### § 29a
 
 -
 
-
 ## Abschnitt VI - Verfahrensregelungen
-
-
 
 ### § 30 Antrag
 
@@ -2278,7 +2212,6 @@ anderen Vorschriften erfolgt, so ist der Antrag nach Absatz 1 nur
 zulässig, wenn der Antragsteller eine Bescheinigung der für die
 Rehabilitierung zuständigen Stelle über die Antragstellung im
 Rehabilitierungsverfahren vorlegt.
-
 
 ### § 30a Ausschlussfrist
 
@@ -2331,7 +2264,6 @@ des Eigentums eine Entscheidung über die Aufhebung eines
 Rechtsverhältnisses der in § 16 Abs. 3 oder § 17 bezeichneten Art oder
 über den Umfang eines zu übernehmenden Grundpfandrechtes ganz oder
 teilweise unterblieben, gilt Absatz 3 Satz 2 entsprechend.
-
 
 ### § 31 Pflichten der Behörde
 
@@ -2420,7 +2352,6 @@ Erlass entsprechender landesrechtlicher Bestimmungen die Vorschriften
 des Verwaltungsverfahrensgesetzes, des Verwaltungszustellungsgesetzes
 und des Verwaltungsvollstreckungsgesetzes anzuwenden.
 
-
 ### § 32 Beabsichtigte Entscheidung, Auskunft
 
 (1) Die Behörde hat dem Antragsteller die beabsichtigte Entscheidung
@@ -2455,7 +2386,6 @@ Regelung offener Vermögensfragen weist jeden Antragsteller mit einer
 Widerspruchsfrist von zwei Wochen auf diese Möglichkeit hin, sobald
 erstmals nach Inkrafttreten dieser Vorschrift ein Dritter eine
 Mitteilung nach Satz 1 beantragt.
-
 
 ### § 33 Entscheidung
 
@@ -2510,7 +2440,6 @@ bis 5 des Lastenausgleichsgesetzes durch. Mit Ablauf der von der
 Behörde bezeichneten Aufgebotsfrist erlöschen die Rechte aus dem
 Antrag.
 
-
 ### § 33a Fälligkeit, Verzinsung
 
 (1) Durch die Behörde festgesetzte Zahlungsansprüche sind einen Monat
@@ -2526,7 +2455,6 @@ Wirkung.
 (3) Wird ein Zahlungsanspruch des Entschädigungsfonds nicht bis zum
 Ablauf des Fälligkeitstages erfüllt, ist er mit vier Prozent für das
 Jahr zu verzinsen.
-
 
 ### § 34 Eigentumsübergang, Grundbuchberichtigung und Löschung von Vermerken über die staatliche Verwaltung
 
@@ -2590,7 +2518,6 @@ Betriebsstätte geht im Wege der Gesamtrechtsnachfolge über.
 (5) Absatz 2 gilt entsprechend für im Schiffsregister eingetragene
 Schiffe und im Schiffsbauregister eingetragene Schiffsbauwerke.
 
-
 ### § 35 Örtliche Zuständigkeit
 
 (1) Für die Entscheidung über Vermögenswerte in staatlicher Verwaltung
@@ -2612,7 +2539,6 @@ Absatz 1 begründet war, gibt sein Verfahren dorthin ab.
 andere unzuständige Stelle gerichtet worden, haben diese den Antrag
 unverzüglich an das zuständige Amt zur Regelung offener
 Vermögensfragen abzugeben und den Antragsteller zu benachrichtigen.
-
 
 ### § 36 Widerspruchsverfahren
 
@@ -2641,7 +2567,6 @@ ein Widerspruchsverfahren nicht statt. Dies gilt nicht für
 Entscheidungen des Landesamtes, die in gemäß § 23 Abs. 2 auf das
 Landesamt übertragenen Verfahren ergangen sind.
 
-
 ### § 37 Gerichtliches Verfahren
 
 (1) Für das gerichtliche Verfahren gilt § 36 Abs. 1 Satz 1
@@ -2657,7 +2582,6 @@ Gerichtsverfassungsgesetzes und die Beschwerde gegen Beschlüsse nach §
 Beschwerde gegen die Beschlüsse über den Rechtsweg findet § 17a Abs. 4
 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
-
 ### § 38 Kosten
 
 (1) Das Verwaltungsverfahren einschließlich des Widerspruchsverfahrens
@@ -2669,7 +2593,6 @@ erstatten, soweit die Zuziehung eines Bevollmächtigten zur
 zweckentsprechenden Rechtsverfolgung notwendig und der Widerspruch
 begründet war. Über die Tragung der Kosten wird bei der Entscheidung
 zur Sache mitentschieden.
-
 
 ### § 38a Schiedsgericht, Schiedsverfahren
 
@@ -2699,11 +2622,9 @@ Bescheid nach § 33 Abs. 4 Satz 1 in Verbindung mit einem
 Schiedsspruchs festgestellt wird; dieser Bescheid ist sofort
 bestandskräftig und hat die Wirkungen des § 34.
 
-
 ### § 39
 
 (Außerkrafttreten anderer Vorschriften)
-
 
 ### § 40 Verordnungsermächtigung
 
@@ -2715,7 +2636,6 @@ den §§ 7, 7a, 16 Abs. 5 bis 9, §§ 18 bis 18b, 20 und 20a und Abschnitt
 VI, der Sicherheitsleistung oder der Entschädigung zu regeln oder von
 den Bestimmungen der Hypothekenablöseanordnung vom 14. Juli 1992
 (BGBl. I S. 1257) abweichende Regelungen zu treffen.
-
 
 ### § 41 Überleitungsvorschrift
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 4.6.2010 I 716
 
-
 ## § 1 Personendaten von Beschuldigten und andere zur Identifizierung geeignete Merkmale
 
 (1) Personendaten von Beschuldigten im Sinne des § 8 Absatz 1 Nummer 1
@@ -137,10 +136,6 @@ Absatz 1 Nummer 1 des Bundeskriminalamtgesetzes sind
 8.  Angaben zu Identitätsdokumenten wie Personalausweis, Reisepass und
     andere die Identitätsfeststellung fördernde Urkunden (Geburts-,
     Heirats- oder Sterbeurkunde).
-
-
-
-
 
 ## § 2 Weitere personenbezogene Daten von Beschuldigten und personenbezogene Daten von Personen, die einer Straftat verdächtig sind
 
@@ -333,10 +328,6 @@ sind, im Sinne des § 8 Absatz 2 des Bundeskriminalamtgesetzes sind
 
 2.  die in Absatz 1 genannten Daten.
 
-
-
-
-
 ## § 3 Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des Bundeskriminalamtgesetzes
 
 Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des
@@ -344,13 +335,11 @@ Bundeskriminalamtgesetzes sind die in § 1 Absatz 1 Nummer 1 bis 3, 7,
 9, 10, 13, 14, 18, 19 und 20 genannten, der Kontaktaufnahme dienenden
 Daten sowie die Telefon- und Telefaxnummer.
 
-
 ## § 4 Personenbezogene Daten sonstiger Personen
 
 Personenbezogene Daten sonstiger Personen im Sinne des § 8 Absatz 5
 des Bundeskriminalamtgesetzes sind die in den §§ 1 und 2 genannten
 Daten.
-
 
 ## § 5 Personenbezogene Daten, die bei der Durchführung erkennungsdienstlicher Maßnahmen erhoben worden sind
 
@@ -549,7 +538,6 @@ Identifizierungsmuster dem Bundeskriminalamt durch ausländische
 Behörden für die in § 8 Absatz 6 Satz 1 zweite Alternative des
 Bundeskriminalamtgesetzes genannten Zwecke übermittelt worden ist.
 
-
 ## § 6 Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung
 
 (1) Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung
@@ -678,10 +666,6 @@ ausgeschriebenen Sachen auch beziehen auf
 4.  andere Personen, die in einer Beziehung zur ausgeschriebenen Sache
     stehen, wie Leasingnehmer.
 
-
-
-
-
 ## § 7 Personenbezogene Daten zum Zwecke des Nachweises von Personen, die einer richterlich angeordneten Freiheitsentziehung unterliegen
 
 Personenbezogene Daten zum Zwecke des Nachweises von Personen, die
@@ -702,10 +686,6 @@ Sinne des § 9 Absatz 2 des Bundeskriminalamtgesetzes sind
 
 4.  Angaben zur Haftnotierung wie Art und Anlass der Freiheitsentziehung,
     Einweisungsbehörde, Haftanstalt, Beginn und Ende der Haft.
-
-
-
-
 
 ## § 8 Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbekannten Toten
 
@@ -741,7 +721,6 @@ Zu den Daten gemäß § 5 Absatz 1 Satz 1 dürfen Personalien und Angaben
 zur Erreichbarkeit von Angehörigen, Kontaktpersonen sowie
 Betreuerinnen und Betreuern der vermissten Person, die im Fall des
 Auffindens benachrichtigt werden müssen, gespeichert werden.
-
 
 ## § 9 Dateien des Bundeskriminalamts nach den §§ 8 und 9 des Bundeskriminalamtgesetzes
 
@@ -826,7 +805,6 @@ Dateien der Zentralstelle, die
 
 dienen.
 
-
 ## § 10 Speicherung der Daten in den Dateien der Zentralstelle
 
 (1) Das Bundeskriminalamt kann in der nach § 34 des
@@ -895,10 +873,6 @@ gespeichert werden dürfen:
 
 
 2.  in der DNA-Analyse-Datei Daten gemäß § 5 Absatz 5.
-
-
-
-
 
 ## § 11 Speicherung der Daten in sonstigen Dateien der Zentralstelle
 

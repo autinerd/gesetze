@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3091
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 86a Abs. 2 Satz 1 in Verbindung mit Abs. 1 der
@@ -30,13 +28,11 @@ der Fassung der Bekanntmachung vom 28. März 2001 (BGBl. I S. 443,
 Juli 2001 (BGBl. I S. 1542) eingefügt worden ist, verordnet die
 Bundesregierung:
 
-
 ## § 1 Zulassung der elektronischen Kommunikation
 
 Beim Bundesverwaltungsgericht und beim Bundesfinanzhof können ab dem
 1\. Dezember 2004 in allen Verfahrensarten elektronische Dokumente
 eingereicht werden.
-
 
 ## § 2 Form der Einreichung
 
@@ -110,7 +106,6 @@ entsprechen, können auch in komprimierter Form als ZIP-Datei
 eingereicht werden. Beim Einsatz von Dokumentensignaturen muss sich
 die Signatur auf das Dokument und nicht auf die ZIP-Datei beziehen.
 
-
 ## § 3 Bekanntgabe der Bearbeitungsvoraussetzungen
 
 Das Bundesverwaltungsgericht gibt auf der Internetseite
@@ -152,10 +147,6 @@ bekannt:
     Bezeichnung des einzureichenden elektronischen Dokuments gemacht
     werden sollen, um die Zuordnung innerhalb des Gerichts und die
     Weiterverarbeitung durch das Gericht zu gewährleisten.
-
-
-
-
 
 ## § 4 Inkrafttreten
 

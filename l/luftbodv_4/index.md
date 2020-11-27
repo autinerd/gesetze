@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 16.7.2004 BAnz. Nr. 149, 17873
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1 und Abs. 3 des
@@ -29,17 +28,13 @@ vom 17. Dezember 1993 (BGBl. I S. 2123) geändert worden ist, in
 Verbindung mit § 56 der Betriebsordnung für Luftfahrtgerät vom 4. März
 1970 (BGBl. I S. 262) verordnet das Luftfahrt-Bundesamt:
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
 Diese Verordnung gilt für die Ausrüstung und den Betrieb der nach den
 Vorschriften der Luftverkehrs-Zulassungs-Ordnung zum Verkehr
 zugelassenen Heißluftballone und Heißluft-Luftschiffe.
-
 
 ### § 1a Begriffsbestimmungen
 
@@ -53,10 +48,7 @@ erforderliche Mittel.
 (3) Als unmittelbare Nähe zum Start- und Landeplatz wird ein
 horizontaler Abstand von 500 Meter angesehen.
 
-
 ## 2. Abschnitt - Allgemeine Betriebsvorschriften
-
-
 
 ### § 2 Herbeiführen simulierter Gefahrenzustände (zu § 3 LuftBO)
 
@@ -65,7 +57,6 @@ vom Normalbetrieb eines Ballons oder Luftschiffs, dürfen nur dann
 herbeigeführt werden, wenn sich außer den erforderlichen
 Besatzungsmitgliedern oder Betriebsangehörigen keine Fluggäste an Bord
 befinden.
-
 
 ### § 3 Betriebsstoffreserve (zu § 3 LuftBO)
 
@@ -79,7 +70,6 @@ mitzuführen.
 (2) Für Luftschiffe ist eine Betriebsstoffreserve für eine Fahrtzeit
 von mindestens 15 Minuten ausreichend, wenn die Fahrt in unmittelbarer
 Nähe zum Start- und Landeplatz durchgeführt wird.
-
 
 ### § 4 Ergänzungsausrüstung (zu § 19 LuftBO)
 
@@ -133,10 +123,6 @@ Insassen ist
 
 -   ein weiteres Paar feuerhemmende Handschuhe mitzuführen.
 
-
-
-
-
 ### § 5 Körbe und Luftschiffgondeln (zu § 19 LuftBO)
 
 (1) Bei Ballonen für mehr als 6 Insassen müssen die Körbe mit
@@ -155,7 +141,6 @@ Seite mit der größten Abmessung ausrichtet.
 (3) Die Insassen von Luftschiffgondeln müssen einzeln und je Sitz mit
 Vierpunkt-Anschnallgurten gesichert werden sein.
 
-
 ### § 6 Sauerstoffausrüstung (zu § 21 Abs. 2 LuftBO)
 
 Neben der gemäß § 21 Abs. 2 der Betriebsordnung für Luftfahrtgerät
@@ -163,7 +148,6 @@ erforderlichen Sauerstoffanlage und den Atemgeräten für die Fluggäste
 muß für den Luftfahrzeugführer eine Atemmaske vorhanden sein, die die
 Durchführung des Sprechfunkverkehrs und die Verständigung mit den
 Insassen gewährleistet.
-
 
 ### § 6a Wägung (zu § 10 LuftBO)
 
@@ -186,20 +170,13 @@ entfallen.
 
 2.  nach einer großen Änderung oder großen Reparatur.
 
-
-
-
-
 ## 3. Abschnitt - Betrieb in Luftfahrtunternehmen
-
-
 
 ### § 7 Verwendungszweck (zu § 23 LuftBO)
 
 Ballone und Luftschiffe, die für die gewerbliche Beförderung von
 Personen eingesetzt werden, müssen in der Kategorie
 "Personenbeförderung 3" zugelassen sein.
-
 
 ### § 8 Betriebsbeschränkungen (zu § 3 LuftBO)
 
@@ -214,11 +191,9 @@ Minuten nach Sonnenaufgang ausreicht.
 Sichtwetterbedingungen auch bei Nacht eingesetzt werden, wenn sie für
 den Nachtflug zugelassen sind.
 
-
 ### § 9
 
 (weggefallen)
-
 
 ### § 10 Ballonkörbe und Luftschiffgondeln (zu § 19 LuftBO)
 
@@ -243,18 +218,15 @@ gesamten Brenner-, Triebwerk- und Betriebsstoffversorgungsanlage
 müssen so beschaffen sein, dass sie vor unkontrollierter Betätigung
 durch die Passagiere geschützt sind.
 
-
 ### § 11
 
 (weggefallen)
-
 
 ### § 12 Ausrüstung am Startplatz (zu § 24 LuftBO)
 
 Am Startplatz müssen ein Windmeßgerät und ein Thermometer vorhanden
 sein. Für jeden Start sind die aktuellen Werte für Wind und Temperatur
 zu berücksichtigen.
-
 
 ### § 13 Handbücher (zu den §§ 24, 27, 37 LuftBO)
 
@@ -268,7 +240,6 @@ Betriebshandbuches müssen im Verfolgerfahrzeug mitgeführt werden.
 (3) Die Anforderungen an das für den gewerblichen Luftschiffbetrieb
 erforderliche Bodenpersonal sowie die entsprechenden flugbetrieblichen
 Regelungen müssen in den Unterlagen nach Absatz 2 enthalten sein.
-
 
 ### § 14 Zusammensetzung der Besatzung (zu § 41 LuftBO)
 
@@ -290,10 +261,6 @@ für die Aufsicht über die Fluggäste, erforderlich ist.
     Unterweisung in den praktischen Gebrauch des Handfeuerlöschers
     nachweisen.
 
-
-
-
-
 ### § 15 Anforderungen an die Besatzungsmitglieder (zu § 42 LuftBO)
 
 (1) Der Unternehmer darf einen Luftfahrzeugführer nur einsetzen, wenn
@@ -309,17 +276,13 @@ dieser alle 24 Monate den Nachweis der Teilnahme an einem Kurs in
 Erster Hilfe und der Unterweisung in den praktischen Gebrauch des
 Handfeuerlöschers erbracht hat.
 
-
 ### § 16 Unterweisung der Fluggäste (zu § 52 LuftBO)
 
 Der verantwortliche Luftfahrzeugführer muß sicherstellen, daß die
 Fluggäste mit der Unterbringung und dem Gebrauch der Sicherheits- und
 Rettungsausrüstung vertraut gemacht werden.
 
-
 ## 4. Abschnitt - Bußgeld- und Schlußvorschriften
-
-
 
 ### § 17 Ordnungswidrigkeiten
 
@@ -348,10 +311,6 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 5.  als verantwortlicher Luftfahrzeugführer entgegen § 16 nicht
     sicherstellt, daß die Fluggäste mit der Unterbringung und dem Gebrauch
     der Sicherheits- und Rettungsausrüstung vertraut gemacht werden.
-
-
-
-
 
 ### § 18 Inkrafttreten
 

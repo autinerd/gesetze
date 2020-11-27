@@ -19,17 +19,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 12.6.2007 I 1034
 
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 2 des Künstlersozialversicherungsgesetzes vom
 27\. Juli 1981 (BGBl. I S. 705) verordnet das Bundesministerium für
 Arbeit und Sozialordnung:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Grundsätze
 
@@ -44,7 +40,6 @@ Sozialgesetzbuch und der Beitragsverfahrensverordnung überwacht.
 
 (2) Die Überwachung kann in Form einer schriftlichen Prüfung oder in
 Form einer Außenprüfung erfolgen.
-
 
 ### § 2 Gegenstand
 
@@ -62,7 +57,6 @@ Verhältnisse, die maßgebend sind für die Feststellung
 
 
 (2) Die Prüfung kann sich auf Stichproben beschränken.
-
 
 ### § 3 Zeitpunkt
 
@@ -100,16 +94,12 @@ betragen. Dieser Zeitraum kann unterschritten werden, wenn besondere
 Gründe bei den zu Prüfenden eine vorzeitige Prüfung gerechtfertigt
 erscheinen lassen.
 
-
 ### § 4 Mitwirkung
 
 Die zu Prüfenden haben bei der Ermittlung der Beitrags- und der
 Abgabegrundlagen mitzuwirken.
 
-
 ## Zweiter Abschnitt - Pflichten der Versicherten
-
-
 
 ### § 5 Vorlage von Unterlagen
 
@@ -136,7 +126,6 @@ sie auf Verlangen außerdem alle vorhandenen Unterlagen über
 vorzulegen, soweit die Vorlage für die Feststellung der
 Versicherungspflicht, der Höhe der Beiträge oder Beitragszuschüsse
 oder für die Erhebung der Künstlersozialabgabe erforderlich ist.
-
 
 ### § 6 Auskunft
 
@@ -186,10 +175,7 @@ soweit dies für die Feststellung der Versicherungspflicht, der Höhe
 der Beiträge oder Beitragszuschüsse oder für die Erhebung der
 Künstlersozialabgabe erforderlich ist.
 
-
 ## Dritter Abschnitt - Pflichten der zur Abgabe Verpflichteten
-
-
 
 ### § 7 Vorlage von Unterlagen
 
@@ -230,7 +216,6 @@ vorzulegen, soweit die Vorlage für die Feststellung der Abgabepflicht,
 der Höhe der Künstlersozialabgabe, der Versicherungspflicht oder der
 Höhe der Beiträge oder Beitragszuschüsse erforderlich ist.
 
-
 ### § 8 Auskunft
 
 Die zur Abgabe Verpflichteten haben über die Abgabe- und die
@@ -261,10 +246,7 @@ soweit dies für die Feststellung der Abgabepflicht, der Höhe der
 Künstlersozialabgabe, der Versicherungspflicht oder der Höhe der
 Beiträge oder Beitragszuschüsse erforderlich ist.
 
-
 ## Vierter Abschnitt - Außenprüfungen
-
-
 
 ### § 9 Ankündigung
 
@@ -286,11 +268,9 @@ den angekündigten Zeitpunkt verlegt werden, wenn dafür wichtige Gründe
 glaubhaft gemacht werden und durch die Verlegung eine Verjährung von
 Forderungen nicht eintritt.
 
-
 ### § 10 Ausweispflicht
 
 Die Prüfer der Künstlersozialkasse haben sich auszuweisen.
-
 
 ### § 11 Durchführung
 
@@ -322,10 +302,7 @@ Unterlagen unverzüglich auszudrucken, oder es sind lesbare
 Reproduktionen herzustellen, soweit ihnen die Nutzung der bei den zu
 Prüfenden installierten Technik nicht zuzumuten ist.
 
-
 ## Fünfter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 12 Prüfbericht
 
@@ -340,7 +317,6 @@ darzustellen. Führt die Prüfung zu keiner Änderung der Beitrags- und
 Abgabegrundlagen, so genügt es, wenn dies den Geprüften schriftlich
 mitgeteilt wird.
 
-
 ### § 13 Mängelbeseitigung
 
 Die Geprüften haben die bei der Prüfung festgestellten Mängel
@@ -351,16 +327,12 @@ Künstlersozialkasse kann hierzu Auflagen erteilen. Außerdem kann sie
 den Geprüften auferlegen, die ordnungsgemäße Mängelbeseitigung und die
 getroffenen Vorkehrungen mitzuteilen.
 
-
 ### § 14 Kosten
 
 Kosten oder Verdienstausfall, die den Geprüften durch die Prüfung
 entstehen, werden nicht erstattet.
 
-
 ## Sechster Abschnitt - Schlußvorschrift
-
-
 
 ### § 15 Inkrafttreten
 

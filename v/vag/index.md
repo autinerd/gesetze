@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 16 G v. 5.12.2012 I 2418
 
-
 ## I. - Einleitende Vorschriften
-
-
 
 ### § 1 Aufsichtspflichtige Unternehmen
 
@@ -130,7 +127,6 @@ des verwalteten Kapitals und das Erreichen einer Mindestverzinsung
 abgeben. Sterbekassen dürfen die in den Sätzen 1 bis 4, Pensionskassen
 die in den Sätzen 1, 2 und 4 genannten Geschäfte nicht betreiben.
 
-
 ### § 1a Öffentlich-rechtliche Versorgungseinrichtungen
 
 (1) Für öffentlich-rechtliche Versicherungsunternehmen des
@@ -166,7 +162,6 @@ Wahrung der Belange der Versicherten nicht erforderlich erscheint.
 unterliegenden Versicherungsunternehmen und öffentlich-rechtlichen
 Einrichtungen im Sinne der Absätze 1 und 2 kann das Landesrecht
 Abweichendes bestimmen.
-
 
 ### § 1b Versicherungs-Holdinggesellschaften
 
@@ -230,7 +225,6 @@ fortsetzen, kann die Aufsichtsbehörde die Abberufung von Mitgliedern
 des Aufsichtsrats verlangen und diesen Mitgliedern die Ausübung ihrer
 Tätigkeit untersagen.
 
-
 ### § 2 Feststellung der Aufsichtspflicht
 
 Ob ein Unternehmen nach § 1 der Aufsicht unterliegt, entscheidet die
@@ -238,7 +232,6 @@ Aufsichtsbehörde; die Entscheidung bindet die Verwaltungsbehörden.
 Eine vor dem 1. April 1931 ergangene Entscheidung eines Gerichts oder
 einer Verwaltungsbehörde steht einer Entscheidung der Aufsichtsbehörde
 nicht entgegen.
-
 
 ### § 3 Organe öffentlich-rechtlicher Versicherungsunternehmen
 
@@ -248,7 +241,6 @@ Versicherungsunternehmen Organe mit dieser Bezeichnung nicht besitzen,
 tritt an die Stelle des Vorstands das entsprechende
 Geschäftsführungsorgan und an die Stelle des Aufsichtsrats das
 entsprechende Überwachungsorgan.
-
 
 ### § 4 Führen von Bezeichnungen
 
@@ -281,10 +273,7 @@ anzuhalten; § 392 des Gesetzes über das Verfahren in Familiensachen
 und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gilt
 entsprechend.
 
-
 ## II. - Erlaubnis zum Geschäftsbetrieb
-
-
 
 ### § 5 Erlaubnis; Antrag; einzureichende Unterlagen
 
@@ -429,7 +418,6 @@ erläßt die Vorschriften im Benehmen mit den
 Versicherungsaufsichtsbehörden der Länder. Rechtsverordnungen nach den
 Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ### § 5a Anhörung der zuständigen Stellen eines anderen Mitglied- oder Vertragsstaates
 
 (1) Soll eine Erlaubnis für das Betreiben von Versicherungsgeschäften
@@ -471,7 +459,6 @@ zu den Eigenmitteln.
 (3) Diese Vorschriften sind nicht anzuwenden bei der Erteilung der
 Erlaubnis an Sterbekassen und die in § 159 Abs. 1 genannten
 Einrichtungen.
-
 
 ### § 6 Umfang der Erlaubnis; Erlöschen
 
@@ -534,7 +521,6 @@ oder einem elektronischen Informationsmedium bekannt zu machen. Ist
 ein gemäß § 124 sicherungspflichtiges Versicherungsunternehmen
 betroffen, informiert sie zusätzlich den Sicherungsfonds.
 
-
 ### § 7 Zulässige Rechtsformen; versicherungsfremde Geschäfte
 
 (1) Die Erlaubnis darf nur Aktiengesellschaften einschließlich der
@@ -564,7 +550,6 @@ Richtlinie 2002/92/EG des Europäischen Parlaments und des Rates vom 9.
 Dezember 2002 über Versicherungsvermittlung nicht als Versicherungs-
 und Rückversicherungsvermittlung gelten, gehören zum Geschäftsbetrieb
 eines Erst- oder Rückversicherungsunternehmens.
-
 
 ### § 7a Qualifikation der Geschäftsleiter, Inhaber bedeutender Beteiligungen und Mitglieder des Aufsichtsrats
 
@@ -657,7 +642,6 @@ fünf Kontrollmandate bei unter der Aufsicht der Bundesanstalt
 stehenden Unternehmen ausübt; Mandate bei Unternehmen derselben
 Versicherungs- oder Unternehmensgruppe bleiben dabei außer Betracht.
 
-
 ### § 7b Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
 
 (1) Für die Erlaubnis zur Deckung der in Anlage Teil A Nr. 10
@@ -705,7 +689,6 @@ ausländisches Versicherungsunternehmen in der Bundesrepublik
 Deutschland stellt für sich allein keine Errichtung einer
 Zweigniederlassung dar; der Schadenregulierungsbeauftragte gilt nicht
 als Niederlassung.
-
 
 ### § 8 Versagung, Aussetzung und Beschränkung der Erlaubnis
 
@@ -833,10 +816,7 @@ der Europäischen Gemeinschaften die Verlängerung der Frist nach Satz
 (4) Aus anderen als den in den Absätzen 1 und 1a genannten Gründen
 darf die Erlaubnis nicht versagt werden.
 
-
 ## IIa. - Ausübung der Geschäftstätigkeit
-
-
 
 ### § 8a Schadensabwicklungsunternehmen für die Rechtsschutzversicherung
 
@@ -874,7 +854,6 @@ wenn sich diese auf Streitigkeiten oder Ansprüche bezieht, die aus dem
 Einsatz von Schiffen auf See entstehen oder mit diesem Einsatz
 verbunden sind.
 
-
 ### § 9 Satzungsinhalt
 
 Die Satzung eines Versicherungsunternehmens soll die einzelnen
@@ -882,7 +861,6 @@ Versicherungszweige, auf die sich der Geschäftsbetrieb erstreckt, und
 die Grundsätze für die Vermögensanlage festsetzen; sie soll auch
 bestimmen, ob das Versicherungsgeschäft nur unmittelbar oder zugleich
 auch mittelbar (durch Rückversicherung) betrieben werden soll.
-
 
 ### § 10 Allgemeine Versicherungsbedingungen
 
@@ -928,7 +906,6 @@ Satzung enthalten sein.
 die in § 210 Absatz 2 des Versicherungsvertragsgesetzes genannten
 Großrisiken.
 
-
 ### § 10a Mehrere Anträge; Information bei betrieblicher Altersversorgung, bei Krankenversicherung und bei geschlechtsspezifischer Tarifierung
 
 (1) Antragsvordrucke dürfen nur so viele Anträge auf Abschluss
@@ -959,10 +936,7 @@ dem Interessenten der Empfang eines amtlichen Informationsblattes der
 Bundesanstalt zu bestätigen, welches über die verschiedenen Prinzipien
 der gesetzlichen sowie der privaten Krankenversicherung aufklärt.
 
-
 ### 1. - Lebensversicherung
-
-
 
 #### § 11 Prämienkalkulation in der Lebensversicherung; Gleichbehandlung
 
@@ -977,7 +951,6 @@ nicht aus Prämienzahlungen stammen.
 
 (2) Bei gleichen Voraussetzungen dürfen Prämien und Leistungen nur
 nach gleichen Grundsätzen bemessen werden.
-
 
 #### § 11a Verantwortlicher Aktuar in der Lebensversicherung
 
@@ -1105,7 +1078,6 @@ erläßt die Vorschriften im Benehmen mit den Aufsichtsbehörden der
 Länder. Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der
 Zustimmung des Bundesrates.
 
-
 #### § 11b Treuhänder in der Lebensversicherung
 
 Soweit bei den nach dem 28. Juli 1994 geschlossenen
@@ -1116,7 +1088,6 @@ unabhängiger Treuhänder zugestimmt hat. Für den Treuhänder gilt § 12b
 Abs. 3 und 4 entsprechend. Die Mitwirkung des Treuhänders entfällt,
 wenn Änderungen nach Satz 1 der Genehmigung der Aufsichtsbehörde
 bedürfen.
-
 
 #### § 11c Weiterleitung genehmigter Geschäftspläne in der Lebensversicherung
 
@@ -1129,12 +1100,10 @@ Bestimmungen in § 11a gelten die Absätze 1, 2 und 4 entsprechend sowie
 Absatz 3 mit der Maßgabe, daß die Deckungsrückstellung nach dem
 geltenden Geschäftsplan zu berechnen ist.
 
-
 #### § 11d Unfallversicherung mit Prämienrückgewähr
 
 Soweit Unfallversicherungsunternehmen Versicherungen mit Rückgewähr
 der Prämie übernehmen, gelten die §§ 11 bis 11c entsprechend.
-
 
 #### § 11e Deckungsrückstellung für Haftpflicht- und Unfall-Renten
 
@@ -1144,10 +1113,7 @@ Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der
 Allgemeinen Unfallversicherung ohne Rückgewähr der Prämie gilt § 11a
 Abs. 1 bis 2a und 3 bis 6 entsprechend.
 
-
 ### 2. - Krankenversicherung
-
-
 
 #### § 12 Substitutive Krankenversicherung
 
@@ -1407,7 +1373,6 @@ Aufwendungen geführt haben.
 entgegenstehende Vereinbarung zwischen dem Versicherungsunternehmen
 und dem Versicherungsvermittler ist unwirksam.
 
-
 #### § 12a Alterungsrückstellung; Direktgutschrift
 
 (1) Das Versicherungsunternehmen hat den Versicherten in der nach Art
@@ -1457,7 +1422,6 @@ haben. Die Prämienermäßigung gemäß Satz 1 kann insoweit beschränkt
 werden, dass die Prämie des Versicherten nicht unter die des
 ursprünglichen Eintrittsalters sinkt; der nicht verbrauchte Teil der
 Gutschrift ist dann zusätzlich gemäß Absatz 2 gutzuschreiben.
-
 
 #### § 12b Prämienänderung in der Krankenversicherung; Treuhänder
 
@@ -1565,7 +1529,6 @@ gelten Absatz 3 Satz 1, 3 und 4 und Absatz 4 entsprechend. Die
 fachliche Eignung setzt ausreichende Rechtskenntnisse, insbesondere
 auf dem Gebiet der Krankenversicherung, voraus.
 
-
 #### § 12c Ermächtigungsgrundlage
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -1632,7 +1595,6 @@ Aufsichtsbehörden der Länder.
 mit dem Bundesministerium der Justiz zu erlassen; sie bedürfen nicht
 der Zustimmung des Bundesrates.
 
-
 #### § 12d Übergangsregelung für Treuhänder in der Krankenversicherung
 
 (1) Soweit bei der nach Art der Lebensversicherung betriebenen
@@ -1643,7 +1605,6 @@ die Stelle der Genehmigung der Aufsichtsbehörde die Zustimmung des
 Treuhänders (§ 12b Abs. 1 und 2).
 
 (2) (weggefallen)
-
 
 #### § 12e Zuschlag
 
@@ -1670,10 +1631,6 @@ Ist der Versicherungsvertrag vor dem 1. Januar 2000 geschlossen, gilt
     innerhalb von drei Monaten nach dem Zugang der Mitteilung nach Nummer
     3 schriftlich widerspricht.
 
-
-
-
-
 #### § 12f Pflegeversicherung
 
 Vorbehaltlich der Regelungen des Elften Buches des Sozialgesetzbuches
@@ -1683,7 +1640,6 @@ geförderte Pflegevorsorge entsprechend. In Versicherungsverträgen zur
 privaten Pflege-Pflichtversicherung ist die Mitgabe des
 Übertragungswertes bei Wechsel des Versicherungsnehmers zu einem
 anderen privaten Krankenversicherungsunternehmen vorzusehen.
-
 
 #### § 12g Risikoausgleich
 
@@ -1703,7 +1659,6 @@ Belastung dieser Unternehmen bewirkt wird.
 (2) Die Errichtung, die Ausgestaltung, die Änderung und die
 Durchführung des Ausgleichs unterliegen der Aufsicht der Bundesanstalt
 für Finanzdienstleistungsaufsicht.
-
 
 #### § 13 Geschäftsplanänderungen
 
@@ -1746,7 +1701,6 @@ einer Niederlassung in einem Gebiet außerhalb der Mitglied- und
 Vertragsstaaten eine dort erforderliche Erlaubnis zum Geschäftsbetrieb
 erhalten hat; ferner ist anzugeben, welche Versicherungszweige und
 -arten es zu betreiben beabsichtigt.
-
 
 #### § 13a Versicherungsgeschäfte über Niederlassungen oder im Dienstleistungsverkehr
 
@@ -1804,13 +1758,6 @@ belegen ist, ist
         Mitglied- oder Vertragsstaat, in dem sich das Unternehmen, die
         Betriebsstätte oder die entsprechende Einrichtung befindet, auf die
         sich der Vertrag bezieht.
-
-
-
-
-
-
-
 
 #### § 13b Errichtung einer Niederlassung
 
@@ -1887,7 +1834,6 @@ Vertragsstaats dem Unternehmen einen früheren Zeitpunkt mitteilt.
 hat das Versicherungsunternehmen der Aufsichtsbehörde spätestens einen
 Monat vor deren beabsichtigter Durchführung anzuzeigen. Im übrigen
 gilt Absatz 2 entsprechend.
-
 
 #### § 13c Aufnahme des Dienstleistungsverkehrs
 
@@ -1969,7 +1915,6 @@ Tätigkeit ab Zugang der genannten Benachrichtigung aufnehmen.
 (4) Die Absätze 1 bis 3 gelten auch, wenn das Unternehmen weitere
 Versicherungssparten betreiben oder Risiken decken oder einen anderen
 Vertreter für die Schadenregulierung ernennen will.
-
 
 #### § 13d Anzeigepflichten
 
@@ -2059,10 +2004,6 @@ anzuzeigen
     Tatsachen, die für die Beurteilung der Qualifikation (§ 7a Absatz 4)
     wesentlich sind.
 
-
-
-
-
 #### § 13e Anzeigepflichten von Versicherungs-Holdinggesellschaften und gemischten Finanzholding-Gesellschaften
 
 (1) Eine Versicherungs-Holdinggesellschaft im Sinne des § 104a Abs. 2
@@ -2110,7 +2051,6 @@ Bundesbank einmal jährlich eine Sammelanzeige der
 konglomeratsangehörigen Unternehmen einzureichen. Veränderungen im
 Bestand konglomeratsangehöriger Unternehmen sind der Aufsichtsbehörde
 unverzüglich anzuzeigen.
-
 
 #### § 14 Bestandsübertragung
 
@@ -2190,7 +2130,6 @@ hat das übernehmende Versicherungsunternehmen die Versicherungsnehmer
 über Anlass, Ausgestaltung und Folgen der Bestandsübertragung zu
 informieren.
 
-
 #### § 14a Umwandlung
 
 Jede Umwandlung eines Versicherungsunternehmens nach den §§ 1, 122a
@@ -2199,10 +2138,7 @@ des Umwandlungsgesetzes bedarf der Genehmigung der Aufsichtsbehörde. §
 kann auch versagt werden, wenn die Vorschriften über die Umwandlung
 nicht beachtet worden sind.
 
-
 ## III. - Versicherungsvereine auf Gegenseitigkeit
-
-
 
 ### § 15 Rechtsfähigkeit
 
@@ -2210,7 +2146,6 @@ Ein Verein, der die Versicherung seiner Mitglieder nach dem Grundsatz
 der Gegenseitigkeit betreiben will, wird dadurch rechtsfähig, daß ihm
 die Aufsichtsbehörde erlaubt, als "Versicherungsverein auf
 Gegenseitigkeit" Geschäfte zu betreiben.
-
 
 ### § 16 Anwendung handelrechtlicher Vorschriften
 
@@ -2222,7 +2157,6 @@ des Zweiten Unterabschnitts des Vierten Abschnitts in Verbindung mit
 den Vorschriften des Ersten und Zweiten Abschnitts des Dritten Buchs
 des Handelsgesetzbuchs entsprechend.
 
-
 ### § 17 Satzung
 
 (1) Die Verfassung eines Versicherungsvereins auf Gegenseitigkeit wird
@@ -2230,7 +2164,6 @@ durch die Satzung bestimmt, soweit sie nicht auf den folgenden
 Vorschriften beruht.
 
 (2) Die Satzung muß notariell beurkundet sein.
-
 
 ### § 18 Firma
 
@@ -2241,13 +2174,11 @@ bestimmen.
 der Firma oder in einem Zusatz auszudrücken, daß Versicherung auf
 Gegenseitigkeit betrieben wird.
 
-
 ### § 19 Haftung für Verbindlichkeiten
 
 Für alle Verbindlichkeiten des Vereins haftet den Vereinsgläubigern
 nur das Vereinsvermögen. Die Mitglieder haften den Vereinsgläubigern
 nicht.
-
 
 ### § 20 Mitgliedschaft
 
@@ -2256,7 +2187,6 @@ enthalten. Mitglied kann nur werden, wer ein Versicherungsverhältnis
 mit dem Verein begründet. Die Mitgliedschaft endigt, soweit die
 Satzung nichts anderes bestimmt, wenn das Versicherungsverhältnis
 aufhört.
-
 
 ### § 21 Gleichbehandlung
 
@@ -2267,7 +2197,6 @@ sein.
 (2) Versicherungsgeschäfte gegen feste Entgelte, ohne daß die
 Versicherungsnehmer Mitglieder werden, darf der Verein nur betreiben,
 soweit es die Satzung ausdrücklich gestattet.
-
 
 ### § 22 Gründungsstock
 
@@ -2301,7 +2230,6 @@ und nur so weit, wie die Verlustrücklage des § 37 angewachsen ist; die
 Tilgung muß beginnen, sobald die aktivierten Aufwendungen für die
 Ingangsetzung des Geschäftsbetriebs vollständig abgeschrieben sind.
 
-
 ### § 24 Beiträge
 
 (1) Die Satzung hat zu bestimmen, ob die Ausgaben gedeckt werden
@@ -2319,7 +2247,6 @@ festsetzen. Eine Beschränkung, daß Nachschüsse oder Umlagen nur
 ausgeschrieben werden dürfen, um Versicherungsansprüche der Mitglieder
 zu decken, ist unzulässig.
 
-
 ### § 25 Beitragspflicht ausgeschiedener Mitglieder
 
 (1) Zu den Nachschüssen oder Umlagen haben auch die im Laufe des
@@ -2336,12 +2263,10 @@ Betrag bei der Berechnung zugrunde zu legen.
 (3) Die Absätze 1 und 2 gelten nur, soweit die Satzung nichts anderes
 bestimmt.
 
-
 ### § 26 Aufrechnungsverbot
 
 Gegen eine Forderung des Vereins aus der Beitragspflicht kann das
 Mitglied nicht aufrechnen.
-
 
 ### § 27 Ausschreibung von Umlagen und Nachschüssen
 
@@ -2353,7 +2278,6 @@ verwendet werden müssen.
 (2) Die Satzung soll ferner bestimmen, wie die Nachschüsse oder
 Umlagen ausgeschrieben und eingezogen werden.
 
-
 ### § 28 Bekanntmachungen
 
 (1) Die Satzung hat zu bestimmen, wie die Vereinsbekanntmachungen
@@ -2361,13 +2285,11 @@ erlassen werden.
 
 (2) Bekanntmachungen sind in den Bundesanzeiger einzurücken.
 
-
 ### § 29 Organe
 
 Die Satzung hat zu bestimmen, wie ein Vorstand, ein Aufsichtsrat und
 eine oberste Vertretung (oberstes Organ; Versammlung von Mitgliedern
 oder von Vertretern der Mitglieder) zu bilden sind.
-
 
 ### § 30 Anmeldung zum Handelsregister
 
@@ -2378,7 +2300,6 @@ Vertretungsbefugnis die Vorstandsmitglieder haben.
 
 (2) Die Aufsichtsbehörde hat jede Erlaubnis zum Geschäftsbetrieb (§
 15) dem Registergericht mitzuteilen.
-
 
 ### § 31 Unterlagen zur Anmeldung
 
@@ -2418,7 +2339,6 @@ Abs. 2 des Handelsgesetzbuchs entsprechend.
 
 (3) (weggefallen)
 
-
 ### § 32 Eintragung
 
 (1) Bei der Eintragung ins Handelsregister sind anzugeben die Firma
@@ -2431,11 +2351,9 @@ Vorstandsmitglieder haben.
 (2) Bestimmt die Satzung etwas über die Dauer des Vereins, so ist auch
 das einzutragen.
 
-
 ### § 33 (weggefallen)
 
 -
-
 
 ### § 34 Vorstand
 
@@ -2463,13 +2381,6 @@ folgende Vorschrift:
 
 
     4.  Kredit gewährt wird.
-
-
-
-
-
-
-
 
 ### § 35 Aufsichtsrat
 
@@ -2506,14 +2417,9 @@ und neben § 116 des Aktiengesetzes treten folgende Vorschriften:
     wenn mit ihrem Wissen und ohne ihr Einschreiten die Handlungen des §
     34 Satz 4 vorgenommen werden.
 
-
-
-
-
 ### § 35a Schadenersatzpflicht
 
 § 117 des Aktiengesetzes gilt entsprechend.
-
 
 ### § 36 Oberste Vertretung
 
@@ -2531,7 +2437,6 @@ gewährt werden. Der Beschluß bedarf einer Mehrheit von drei Vierteln
 der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und
 weitere Erfordernisse bestimmen.
 
-
 ### § 36b Rechte von Minderheiten
 
 Soweit die Vorschriften des Aktiengesetzes, die nach den §§ 34, 35a
@@ -2541,14 +2446,12 @@ Abs. 2 und 4, §§ 147, 258 Abs. 2 Satz 3, § 260 Abs. 1 Satz 1 und Abs.
 3 Satz 4 des Aktiengesetzes), hat die Satzung die erforderliche
 Minderheit der Mitglieder der obersten Vertretung zu bestimmen.
 
-
 ### § 37 Verlustrücklage
 
 Die Satzung hat zu bestimmen, daß zur Deckung eines außergewöhnlichen
 Verlustes aus dem Geschäftsbetrieb eine Rücklage (Verlustrücklage,
 Reservefonds) zu bilden ist, welche Beträge jährlich zurückzulegen
 sind und welchen Mindestbetrag die Rücklage erreichen muß.
-
 
 ### § 38 Überschussverwendung
 
@@ -2562,7 +2465,6 @@ bestimmten Mitglieder verteilt. § 53c Abs. 3a bleibt unberührt.
 zugrunde zu legen ist und ob der Überschuß nur an die am Schluß des
 Geschäftsjahrs vorhandenen oder auch an ausgeschiedene Mitglieder
 verteilt werden soll.
-
 
 ### § 39 Änderung der Satzung
 
@@ -2582,7 +2484,6 @@ Satzung kann noch anderes fordern. Zu anderen Beschlüssen nach den
 Absätzen 1 bis 3 bedarf es einer solchen Mehrheit nur, wenn die
 Satzung nichts anderes vorschreibt.
 
-
 ### § 40 Eintragung der Satzungsänderung
 
 (1) Die Satzungsänderung ist zur Eintragung ins Handelsregister
@@ -2600,7 +2501,6 @@ die Änderung verwiesen werden.
 (3) Die Änderung wirkt nicht, bevor sie bei dem Gericht, in dessen
 Bezirk der Verein seinen Sitz hat, ins Handelsregister eingetragen
 worden ist.
-
 
 ### § 41 Änderung der AVB
 
@@ -2625,7 +2525,6 @@ ausdrücklich zustimmt. Dies gilt nicht für solche Bestimmungen, wofür
 die Satzung ausdrücklich vorsieht, daß sie auch mit Wirkung für die
 bestehenden Versicherungsverhältnisse geändert werden können.
 
-
 ### § 42 Auflösung
 
 Der Verein wird aufgelöst:
@@ -2642,10 +2541,6 @@ Der Verein wird aufgelöst:
 
 4.  mit der Rechtskraft des Beschlusses, durch den die Eröffnung des
     Insolvenzverfahrens mangels Masse abgelehnt wird.
-
-
-
-
 
 ### § 43 Auflösungsbeschluss
 
@@ -2669,7 +2564,6 @@ der aufgewandten Kosten zurückgefordert werden. Diese Vorschriften
 gelten nicht für Lebensversicherungsverhältnisse; diese bleiben
 unberührt, wenn die Satzung nichts anderes bestimmt.
 
-
 ### § 44 Bestandsübertragung
 
 Verträge, durch die der Versicherungsbestand des Vereins ganz oder
@@ -2680,7 +2574,6 @@ Stimmen, wenn die Satzung nichts anderes bestimmt. Mit der Zustimmung
 ist zugleich über die Höhe einer Abfindung nach § 44a zu beschließen.
 In dem Beschluss sind die Maßstäbe festzusetzen, nach denen die
 Abfindung auf die Mitglieder zu verteilen ist.
-
 
 ### § 44a Verlust der Mitgliedschaft
 
@@ -2718,12 +2611,7 @@ Maßstäbe festgesetzt werden:
 
 6.  die Dauer der Mitgliedschaft.
 
-
-
-
-
 ### (XXXX) §§ 44b und 44c (weggefallen)
-
 
 ### § 45 Anmeldung der Auflösung
 
@@ -2737,7 +2625,6 @@ des Eröffnungsbeschlußes oder eine mit der Bescheinigung der
 Rechtskraft versehene beglaubigte Abschrift des den Eröffnungsantrag
 ablehnenden Beschlusses zu übersenden.
 
-
 ### § 46 Abwicklung
 
 (1) Nach der Auflösung des Vereins findet die Abwicklung statt, wenn
@@ -2749,7 +2636,6 @@ dem Zweck der Abwicklung nichts anderes ergibt. Namentlich können
 Nachschüsse oder Umlagen (§§ 24 bis 27) ausgeschrieben und eingezogen
 werden. Neue Versicherungen dürfen nicht mehr übernommen, die
 bestehenden nicht erhöht oder verlängert werden.
-
 
 ### § 47 Abwicklungsverfahren
 
@@ -2777,7 +2663,6 @@ Lageberichts des Vereins anzuwendenden Vorschriften sowie die §§ 175,
 176 des Aktiengesetzes und §§ 325, 328 des Handelsgesetzbuchs
 sinngemäß.
 
-
 ### § 48 Tilgung des Gründungsstocks; Vermögensverteilung
 
 (1) Der Gründungsstock darf erst getilgt werden, wenn die Ansprüche
@@ -2794,7 +2679,6 @@ nach dem der Überschuß verteilt worden ist.
 (3) Über die Verteilung des Vermögens kann die Satzung etwas anderes
 bestimmen; die Bestimmung anderer Anfallberechtigter kann sie der
 obersten Vertretung übertragen.
-
 
 ### § 49 Fortsetzung des Vereins
 
@@ -2820,7 +2704,6 @@ Vereins unter die Anfallberechtigten begonnen worden ist.
 (4) Der Fortsetzungsbeschluß hat keine Wirkung, bevor er in das
 Handelsregister des Sitzes des Vereins eingetragen worden ist.
 
-
 ### § 50 Beitragspflicht im Insolvenzverfahren
 
 (1) Soweit Mitglieder oder ausgeschiedene Mitglieder nach dem Gesetz
@@ -2831,7 +2714,6 @@ seine Schulden.
 (2) Mitglieder, die im letzten Jahr vor dem Antrag auf Eröffnung des
 Insolvenzverfahrens oder nach diesem Antrag ausgeschieden sind, haften
 für die Schulden des Vereins, wie wenn sie ihm noch angehörten.
-
 
 ### § 51 Rang der Insolvenzforderungen
 
@@ -2844,7 +2726,6 @@ nach den Ansprüchen der anderen Insolvenzgläubiger befriedigt.
 
 (2) Zur Tilgung des Gründungsstocks dürfen keine Nachschüsse oder
 Umlagen erhoben werden.
-
 
 ### § 52 Nachschüsse und Umlagen im Insolvenzverfahren
 
@@ -2863,7 +2744,6 @@ Insolvenzordnung) hat der Insolvenzverwalter zu berechnen, welche
 Beiträge die Mitglieder endgültig zu leisten haben. Dafür und für das
 weitere Verfahren gelten entsprechend § 114 Abs. 2 und die §§ 115 bis
 118 des Genossenschaftsgesetzes.
-
 
 ### § 53 Kleinere Vereine
 
@@ -2889,7 +2769,6 @@ und 3 sowie die §§ 37 bis 40 des Genossenschaftsgesetzes.
 (4) Ob ein Verein ein kleinerer Verein ist, entscheidet die
 Aufsichtsbehörde.
 
-
 ### § 53b Verzicht auf Gründungsstock bei kleineren Vereinen; Verlustrücklage
 
 Die Aufsichtsbehörde kann kleineren Vereinen bis zum Ablauf des 31.
@@ -2899,14 +2778,9 @@ Eigenart der Geschäfte oder durch besondere Einrichtungen eine andere
 Sicherheit gegeben ist. Aus den gleichen Gründen kann sie bis zu
 diesem Zeitpunkt gestatten, daß keine Verlustrücklage gebildet wird.
 
-
 ## IV. - Geschäftsführung der Versicherungsunternehmen
 
-
-
 ### 1. - Kapitalausstattung, Vermögensanlage
-
-
 
 #### § 53c Kapitalausstattung
 
@@ -3211,7 +3085,6 @@ Aufsichtsbehörde jährlich in den von ihr festzulegenden Formen eine
 Berechnung der Solvabilitätsspanne vorzulegen und die Eigenmittel
 nachzuweisen.
 
-
 #### § 53d Entgeltbegrenzung bei Verträgen mit verbundenen Nicht-Versicherungsunternehmen
 
 (1) Nimmt ein Versicherungsunternehmen Leistungen eines verbundenen
@@ -3231,7 +3104,6 @@ mitzuteilen.
 nicht verbundenen Unternehmen, wenn beide Vertragsparteien unmittelbar
 oder mittelbar im Mehrheitsbesitz (§ 16 des Aktiengesetzes) derselben
 Person oder Personen stehen.
-
 
 #### § 54 Anlagegrundsätze für das gebundene Vermögen; Anzeigepflichten
 
@@ -3343,11 +3215,9 @@ Mindestumfangs des sonstigen gebundenen Vermögens außer Betracht,
 soweit ihnen aus demselben Rückversicherungsverhältnis Forderungen
 gegenüberstehen.
 
-
 #### § 54a
 
 (weggefallen)
-
 
 #### § 54b Anlagestock
 
@@ -3387,7 +3257,6 @@ Rückstellungen dienen, § 54 anzuwenden.
 (4) Auf die in den Absätzen 1 bis 3 genannten Vermögenswerte finden
 die Vorschriften der Anlage Teil C keine Anwendung.
 
-
 #### § 54c Ausländischer Versicherungsbestand
 
 Gehören Versicherungsverhältnisse zu einem selbständigen Bestand eines
@@ -3397,7 +3266,6 @@ sind für das aus diesen Versicherungsverhältnissen entstandene
 gebundene Vermögen, soweit das ausländische Recht nichts Abweichendes
 vorschreibt, die §§ 54 und 54b entsprechend anzuwenden.
 
-
 #### § 54d Berichterstattung an die Aufsichtsbehörde
 
 Die Versicherungsunternehmen haben über ihre gesamten
@@ -3405,10 +3273,7 @@ Vermögensanlagen, aufgegliedert in Neuanlagen und Bestände, in den von
 der Aufsichtsbehörde festzulegenden Formen und Fristen zu berichten.
 Die Pflichten nach § 66 Abs. 6 Satz 6 bleiben unberührt.
 
-
 ### 1a. - Rechnungslegung, Prüfung
-
-
 
 #### § 55 Rechnungslegung öffentlich-rechtlicher Versicherungsunternehmen; Einreichungs- und Übersendungspflicht
 
@@ -3432,7 +3297,6 @@ Jahresabschluß und den Lagebericht zu übersenden.
 
 (4) Die Bestimmungen der Absätze 2 und 3 gelten auch für einen
 Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs.
-
 
 #### § 55a Interne Rechnungslegung
 
@@ -3497,7 +3361,6 @@ im Benehmen mit der Bundesanstalt durch Rechtsverordnung Vorschriften
 nach Absatz 1 erlassen. Sie können diese Befugnis durch
 Rechtsverordnung der Aufsichtsbehörde des Landes übertragen.
 
-
 #### § 55b Prognoserechnungen
 
 Die Aufsichtsbehörde kann die Vorlage von Prognoserechnungen
@@ -3529,7 +3392,6 @@ Berechnungsmethoden, soweit dies die Beurteilung des Unternehmens oder
 des Versicherungsmarktes insgesamt nicht erschwert. Sie kann
 verlangen, dass dabei bestimmte Rechnungsannahmen zu Grunde gelegt
 werden.
-
 
 #### § 55c Vorlage des Risikoberichts und des Revisionsberichts
 
@@ -3575,11 +3437,9 @@ ist spätestens mit dem aufgestellten Jahresabschluss vorzulegen.
 (6) Absatz 1 gilt nicht für die in § 64a Abs. 5 genannten
 Versicherungsunternehmen.
 
-
 #### § 56
 
 (weggefallen)
-
 
 #### § 56a Rückstellung für Beitragsrückerstattung
 
@@ -3621,14 +3481,9 @@ heranzuziehen,
     auf Grund einer unvorhersehbaren und nicht nur vorübergehenden
     Änderung der Verhältnisse angepasst werden müssen.
 
-
-
-
-
 #### § 56b
 
 (weggefallen)
-
 
 #### § 57 Umfang der Prüfung
 
@@ -3672,7 +3527,6 @@ Benehmen mit den Versicherungsaufsichtsbehörden der Länder; vor dem
 Erlass ist der Versicherungsbeirat zu hören. Rechtsverordnungen nach
 den Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
-
 #### § 58 Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Erteilung des Prüfungsauftrags
 
 (1)
@@ -3691,7 +3545,6 @@ Prüfer zu erteilen haben.
 
 (3)
 
-
 #### § 59 Vorlage des Prüfungsberichtes bei der Aufsichtsbehörde
 
 Der Vorstand hat eine Ausfertigung des Berichts des Abschlußprüfers
@@ -3701,7 +3554,6 @@ mit dem Abschlußprüfer erörtern und, wenn nötig, Ergänzungen der
 Prüfung und des Berichts auf Kosten des Versicherungsunternehmens
 veranlassen.
 
-
 #### § 60 Prüfung öffentlich-rechtlicher Versicherungsunternehmen
 
 Die §§ 58 und 59 gelten nicht für nach Landesrecht errichtete und der
@@ -3710,10 +3562,7 @@ Versicherungsunternehmen, für die zur Prüfung ihrer Jahresabschlüsse
 nach § 341k des Handelsgesetzbuchs zusätzliche landesrechtliche
 Vorschriften bestehen.
 
-
 #### (XXXX) §§ 61 bis 63 (weggefallen)
-
-
 
 #### § 64 Abschlussprüfung bei kleineren Vereinen
 
@@ -3723,10 +3572,7 @@ erlassenen Rechtsverordnung von der Verpflichtung befreit sind, den
 Jahresabschluß prüfen zu lassen, sind die §§ 58 und 59 dieses Gesetzes
 nicht anzuwenden.
 
-
 ### 1b. - Besondere Pflichten von Unternehmen
-
-
 
 #### § 64a Geschäftsorganisation
 
@@ -3833,7 +3679,6 @@ Dezember 2009 erfüllen. Die übrigen Unternehmen müssen die für sie
 geltenden Anforderungen spätestens in dem Geschäftsjahr, das nach dem
 31\. Dezember 2007 endet, erfüllen.
 
-
 #### § 64b Vergütungssysteme
 
 (1) Die Vergütungssysteme für Geschäftsleiter, Mitarbeiter und
@@ -3890,10 +3735,7 @@ Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen
 Regelungen oder aufgrund eines Tarifvertrags in einer Betriebs- oder
 Dienstvereinbarung vereinbart ist.
 
-
 ### 2. - Besondere Vorschriften über die Deckungsrückstellung und das Sicherungsvermögen
-
-
 
 #### § 65 Deckungsrückstellung
 
@@ -3948,7 +3790,6 @@ Staates zu hören.
 (4) Für Unfallversicherungen der in § 11d genannten Art sowie für
 Rentenleistungen aus den in § 11e genannten Versicherungen gelten die
 Absätze 1 bis 3 entsprechend.
-
 
 #### § 66 Sicherungsvermögen
 
@@ -4093,7 +3934,6 @@ Abteilungen des Sicherungsvermögens gebildet werden. Was für das
 Sicherungsvermögen und die Ansprüche daran vorgeschrieben ist, gilt
 dann entsprechend für jede selbständige Abteilung.
 
-
 #### § 67 Sicherungsvermögen bei Rückversicherung
 
 In den in § 66 Abs. 6a Satz 3 genannten Versicherungszweigen hat das
@@ -4103,17 +3943,13 @@ abgewickelte Versicherungsfälle nach § 341g des Handelsgesetzbuchs die
 anteiligen Werte des Sicherungsvermögens nach § 66 auch für den in
 Rückdeckung gegebenen Anteil selbst aufzubewahren und zu verwalten.
 
-
 #### (XXXX) §§ 68 und 69 (weggefallen)
-
-
 
 #### § 70 Treuhänder für das Sicherungsvermögen
 
 Zur Überwachung des Sicherungsvermögens sind ein Treuhänder und ein
 Stellvertreter für ihn zu bestellen. Für einen kleineren Verein (§ 53)
 gilt dies nur, wenn es die Aufsichtsbehörde anordnet.
-
 
 #### § 71 Bestellung und Qualifikation des Treuhänders
 
@@ -4129,7 +3965,6 @@ sie den Treuhänder selbst bestellen.
 
 (3) Absatz 2 Satz 2 und 3 gilt auch, wenn die Aufsichtsbehörde
 Bedenken hat, daß ein bestellter Treuhänder sein Amt weiterverwaltet.
-
 
 #### § 72 Sicherstellung des Sicherungsvermögens
 
@@ -4156,7 +3991,6 @@ soll ein Gegenstand im Vermögensverzeichnis gelöscht werden, so
 genügt, dass der Treuhänder neben oder unter den Löschungsvermerk
 seinen Namen schreibt.
 
-
 #### § 73 Treuhänder-Bestätigung
 
 Der Treuhänder hat, ohne daß diese Pflicht die Verantwortlichkeit der
@@ -4164,13 +3998,11 @@ zur Vertretung des Unternehmens berufenen Stellen berührt, unter der
 Bilanz zu bestätigen, daß das Sicherungsvermögen vorschriftsmäßig
 angelegt und aufbewahrt ist.
 
-
 #### § 74 Einsichtsrecht des Treuhänders
 
 Der Treuhänder kann jederzeit die Bücher und Schriften des
 Versicherungsunternehmens einsehen, soweit sie sich auf das
 Sicherungsvermögen beziehen.
-
 
 #### § 75 Entscheidung über Streitigkeiten
 
@@ -4178,11 +4010,9 @@ Streitigkeiten zwischen dem Treuhänder und dem
 Versicherungsunternehmen über seine Obliegenheiten entscheidet die
 Aufsichtsbehörde.
 
-
 #### § 76 Stellvertreter des Treuhänders
 
 Die §§ 71 bis 75 gelten auch für den Stellvertreter des Treuhänders.
-
 
 #### § 77 Entnahme aus dem Sicherungsvermögen
 
@@ -4200,7 +4030,6 @@ Sicherungsvermögen vorgeschrieben (§ 66 Abs. 1 bis 4, 6a) und
 tatsächlich erfolgt ist. Satz 1 gilt für die Aufrechnung gegen
 Ansprüche entsprechend, die zu den Beständen des Sicherungsvermögens
 gehören.
-
 
 #### § 77a Behandlung von Versicherungsforderungen
 
@@ -4227,7 +4056,6 @@ Abs. 1 bis 4, 6a).
 (2) Untereinander haben die gemäß Absatz 1 bevorrechtigten Forderungen
 denselben Rang.
 
-
 #### § 77b Erlöschen bestimmter Versicherungsverträge
 
 Die Lebensversicherungen, Krankenversicherungen der in § 12 genannten
@@ -4237,7 +4065,6 @@ des Insolvenzverfahrens. Die Anspruchsberechtigten können den auf sie
 zum Zeitpunkt der Eröffnung des Insolvenzverfahrens entfallenden
 Anteil an dem Mindestumfang des Sicherungsvermögens nach § 66 Abs. 1a
 fordern. § 77a Abs. 1 Satz 2 und Abs. 2 gilt entsprechend.
-
 
 #### § 78 Pfleger im Insolvenzfall
 
@@ -4269,23 +4096,18 @@ Vergütung fallen dem Sicherungsvermögen zur Last.
 (6) Vor Bestellung des Pflegers und vor Festsetzung der Vergütung ist
 die Aufsichtsbehörde zu hören.
 
-
 #### § 79 Anwendungsbereich der §§ 70 bis 76
 
 Die §§ 70 bis 76 gelten nur für Lebensversicherungen, für
 Krankenversicherungen der in § 12 genannten Art und die private
 Pflegepflichtversicherung nach § 12f.
 
-
 #### § 79a Öffentlich-rechtliche Versicherungsunternehmen
 
 Die §§ 70 bis 76 gelten nicht für öffentlich-rechtliche
 Versicherungsunternehmen.
 
-
 ### 3. - Zusammenarbeit mit Versicherungsvermittlern
-
-
 
 #### § 80 Anforderungen an die mit dem Vertrieb von Versicherungen befassten Personen
 
@@ -4363,7 +4185,6 @@ gelegt werden. Eine entgegenstehende vertragliche Vereinbarung
 zwischen dem Versicherungsunternehmen und dem Versicherungsvermittler
 ist unwirksam.
 
-
 #### § 80a Beschwerden über Versicherungsvermittler
 
 Versicherungsunternehmen müssen Beschwerden über
@@ -4372,7 +4193,6 @@ beantworten. Bei wiederholten Beschwerden, die für die Beurteilung der
 Zuverlässigkeit erheblich sein können, müssen sie die für die
 Erlaubniserteilung nach § 34d Abs. 1 der Gewerbeordnung zuständige
 Behörde davon in Kenntnis setzen.
-
 
 #### § 80b Übergangsregelung
 
@@ -4385,10 +4205,7 @@ Gewerbeordnung das oder die Versicherungsunternehmen, für das oder die
 er ausschließlich tätig wird, die uneingeschränkte Haftung übernommen
 hat. Dies hat das Versicherungsunternehmen zu überprüfen.
 
-
 ### 4. - Vorkehrungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung
-
-
 
 #### § 80c Verpflichtete Unternehmen; Begriff der Terrorismusfinanzierung
 
@@ -4420,10 +4237,6 @@ Unfallversicherungsverträge mit Prämienrückgewähr anbieten.
 
 2.  die Begehung einer Tat nach § 89a Abs. 1 in den Fällen des Abs. 2 Nr.
     4 des Strafgesetzbuchs oder die Teilnahme an einer solchen Tat.
-
-
-
-
 
 #### § 80d Interne Sicherungsmaßnahmen
 
@@ -4538,7 +4351,6 @@ im Sinne von § 80c Absatz 1 im Einzelfall Anordnungen treffen, die
 geeignet und erforderlich sind, die in den Absätzen 1 bis 4 genannten
 Vorkehrungen zu treffen.
 
-
 #### § 80e Vereinfachte Sorgfaltspflichten
 
 (1) Soweit die Voraussetzungen des § 6 des Geldwäschegesetzes nicht
@@ -4634,7 +4446,6 @@ aufzuzeichnen und aufzubewahren, die für die Darlegung gegenüber der
 Aufsichtsbehörde erforderlich sind, dass die Voraussetzungen für die
 Anwendung vereinfachter Sorgfaltspflichten vorliegen.
 
-
 #### § 80f Vereinfachungen bei der Durchführung der Identifizierung
 
 (1) Die Pflicht zur Identifizierung des Versicherungsnehmers gemäß § 3
@@ -4676,7 +4487,6 @@ sind von dem Versicherungsunternehmen nach Maßgabe des § 8 des
 Geldwäschegesetzes aufzuzeichnen und aufzubewahren. § 11 Absatz 1
 Nummer 1 des Geldwäschegesetzes gilt entsprechend.
 
-
 #### § 80g Verstärkte Sorgfaltspflichten
 
 (1) Über § 6 Absatz 2 Nummer 1 des Geldwäschegesetzes hinaus hat ein
@@ -4714,10 +4524,7 @@ Maßnahmen haben die Versicherungsunternehmen angemessene Informationen
 nach Maßgabe des § 8 des Geldwäschegesetzes aufzuzeichnen und
 aufzubewahren.
 
-
 ## V. - Beaufsichtigung der Versicherungsunternehmen
-
-
 
 ### § 81 Rechts- und Finanzaufsicht
 
@@ -4789,7 +4596,6 @@ Die gleiche Befugnis steht der Aufsichtsbehörde gegenüber Verlagen zu,
 die Bezieher von ihnen verlegter Zeitungen oder Zeitschriften bei
 einem Versicherungsunternehmen versichert haben.
 
-
 ### § 81a Änderungen des Geschäftsplans
 
 Die Aufsichtsbehörde kann verlangen, daß ein Geschäftsplan vor
@@ -4798,7 +4604,6 @@ Wahrung der Belange der Versicherten notwendig erscheint, kann die
 Aufsichtsbehörde einen Geschäftsplan mit Wirkung für bestehende oder
 noch nicht abgewickelte Versicherungsverhältnisse ändern oder
 aufheben.
-
 
 ### § 81b Solvabilitätsplan; Finanzierungsplan
 
@@ -4916,7 +4721,6 @@ oder beschränken, falls diese Geschäfte für das
 Versicherungsunternehmen nachteilig sind. Sie kann ferner bestimmen,
 dass Zahlungen nur unter bestimmten Voraussetzungen zulässig sind.
 
-
 ### § 81c Missstand in der Lebensversicherung
 
 (1) In der Lebensversicherung liegt ein die Belange der Versicherten
@@ -4954,7 +4758,6 @@ im Benehmen mit den Aufsichtsbehörden der Länder. Rechtsverordnungen
 nach den Sätzen 1 bis 5 bedürfen nicht der Zustimmung des Bundesrates.
 
 (4) Die Absätze 1 und 3 gelten nicht für Sterbekassen.
-
 
 ### § 81d Missstand in der Krankenversicherung
 
@@ -4994,14 +4797,12 @@ die Vorschriften im Benehmen mit den Aufsichtsbehörden der Länder.
 Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der
 Zustimmung des Bundesrates.
 
-
 ### § 81e Diskriminierung
 
 Als Mißstand im Sinne des § 81 Abs. 2 sind auch Tarifbestimmungen und
 Prämienkalkulationen anzusehen, die auf die Staatsangehörigkeit des
 Versicherungsnehmers oder Versicherten oder auf deren Zugehörigkeit zu
 einer ethnischen Gruppe abstellen.
-
 
 ### § 81f Einschreiten gegen unerlaubte Versicherungsgeschäfte
 
@@ -5054,7 +4855,6 @@ anweisen, den von der Bundesanstalt festgesetzten Betrag im Namen der
 Bundesanstalt unmittelbar an den Abwickler zu leisten, wenn dadurch
 keine Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
 
-
 ### § 82 Untersagung einer Beteiligung
 
 (1) Ist ein Versicherungsunternehmen an einem anderen Unternehmen, das
@@ -5073,7 +4873,6 @@ Versicherungsunternehmen die Fortsetzung zu untersagen.
 Vorstands- oder Aufsichtsratsmitglied des Versicherungsunternehmens
 auf die Geschäftsführung eines anderen Unternehmens maßgebenden
 Einfluß ausübt oder auszuüben in der Lage ist.
-
 
 ### § 83 Befugnisse der Aufsichtsbehörde
 
@@ -5247,7 +5046,6 @@ deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis
 strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über
 Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 83a Sonderbeauftragter
 
 (1) Die Aufsichtsbehörde kann Befugnisse, die Organen eines
@@ -5291,7 +5089,6 @@ Millionen Euro. Die Beschränkungen nach den Sätzen 1 und 2 gelten
 auch, wenn dem Sonderbeauftragten die Befugnisse mehrerer Organe
 übertragen worden sind oder er mehrere zum Ersatz verpflichtende
 Handlungen begangen hat.
-
 
 ### § 83b Verfolgung unerlaubter Versicherungsgeschäfte
 
@@ -5383,7 +5180,6 @@ insbesondere im Hinblick auf unerlaubt betriebene
 Versicherungsgeschäfte, erforderlich ist und besondere
 Eilbedürftigkeit im Einzelfall vorliegt. § 24c Abs. 4 des
 Kreditwesengesetzes gilt entsprechend.
-
 
 ### § 84 Schweigepflicht
 
@@ -5512,7 +5308,6 @@ erforderlich.
 
 (6) Die Bestimmungen des Bundesdatenschutzgesetzes bleiben unberührt.
 
-
 ### § 85 Aufsicht über Geschäftstätigkeit im Ausland
 
 Die Aufsicht erstreckt sich über das Inland hinaus auf die in anderen
@@ -5523,7 +5318,6 @@ Finanzaufsicht in alleiniger Zuständigkeit, die Aufsicht im übrigen im
 Zusammenwirken mit der Aufsichtsbehörde des anderen Mitglied- oder
 Vertragsstaates wahrgenommen.
 
-
 ### § 85a Information über Geschäftstätigkeit im Ausland
 
 Für das Versicherungsgeschäft in den Mitgliedstaaten der Europäischen
@@ -5531,14 +5325,12 @@ Gemeinschaft und den anderen Vertragsstaaten des Abkommens über den
 Europäischen Wirtschaftsraum finden die §§ 10 und 10a Anwendung, wenn
 den Versicherungsverträgen deutsches Recht zugrunde liegt.
 
-
 ### § 86 Aufsicht über Liquidation und Abwicklung
 
 Die Aufsicht hat sich auch auf die Liquidation eines Unternehmens und
 auf die Abwicklung der bestehenden Versicherungen zu erstrecken, wenn
 der Geschäftsbetrieb untersagt oder freiwillig eingestellt oder die
 Erlaubnis zum Geschäftsbetrieb widerrufen wird.
-
 
 ### § 87 Widerruf der Erlaubnis, Abberufung von Geschäftsleitern und Mitgliedern des Aufsichtsrats
 
@@ -5637,7 +5429,6 @@ nach Satz 1 oder 2 auch von der Aufsichtsbehörde gestellt werden, wenn
 der Aufsichtsrat dem Abberufungsverlangen der Aufsichtsbehörde nicht
 nachgekommen ist.
 
-
 ### § 87a Missbrauch bei Mitversicherung
 
 Mißbraucht ein Versicherungsunternehmen die Möglichkeit nach § 111
@@ -5655,7 +5446,6 @@ Versicherungsunternehmen die einem führenden Versicherer üblicherweise
 zukommenden Aufgaben nicht wahrnimmt oder an dem Vertrag
 Versicherungsunternehmen beteiligt, die nach § 111 Abs. 2 nicht zu
 einer solchen Beteiligung befugt sind.
-
 
 ### § 88 Antrag auf Eröffnung des Insolvenzverfahrens; Anzeigen des Vorstands
 
@@ -5722,7 +5512,6 @@ Mitglied- oder Vertragsstaaten, in denen das Versicherungsunternehmen
 auch eine Niederlassung hat. Die beteiligten Personen und Stellen
 bemühen sich um ein abgestimmtes Vorgehen.
 
-
 ### § 88a Unterrichtung der Gläubiger
 
 (1) Mit dem Eröffnungsbeschluss ist den Gläubigern ein Formblatt zu
@@ -5781,7 +5570,6 @@ Erläuterung einer Forderung" überschrieben sein.
 (4) Der Insolvenzverwalter hat die Gläubiger regelmäßig in geeigneter
 Form über den Fortgang des Insolvenzverfahrens zu unterrichten.
 
-
 ### § 89 Zahlungsverbot; Herabsetzung von Leistungen
 
 (1) Ergibt sich bei der Prüfung der Geschäftsführung und der
@@ -5819,7 +5607,6 @@ durch die Herabsetzung nicht berührt.
 selbständige Abteilung des Sicherungsvermögens (§ 66 Abs. 7)
 beschränkt werden.
 
-
 ### § 89a Keine aufschiebende Wirkung
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 1b Abs. 2
@@ -5834,7 +5621,6 @@ Verbindung mit den §§ 58, 81b Abs. 1 Satz 2, Abs. 2 Satz 2, Abs. 2a
 Satz 5, Abs. 2b, 2c und 4, den §§ 81f, 83, 83a, 83b, 88 Abs. 1 und 2
 bis 5 oder § 104 Abs. 1b und 2, § 121a Abs. 5, § 121c Abs. 2 Nr. 2 und
 3, Abs. 4 und 5 sowie Abs. 6 haben keine aufschiebende Wirkung.
-
 
 ### § 89b Unterrichtung der Aufsichtsbehörden über Sanierungsmaßnahmen, Bekanntmachung von Verfügungen der Aufsichtsbehörde
 
@@ -5879,11 +5665,9 @@ und 2 sind entbehrlich bei kleineren Vereinen (§ 53) und Unternehmen,
 die nicht grenzüberschreitend tätig sind; dies gilt nicht, wenn die
 Kraftfahrzeug-Haftpflichtversicherung betrieben wird.
 
-
 ### § 90
 
 (weggefallen)
-
 
 ### § 92 Versicherungsbeirat
 
@@ -5909,25 +5693,19 @@ Reisekosten.
 
 (5) (weggefallen)
 
-
 ### § 93
 
 (weggefallen)
 
-
 ### (XXXX) §§ 94 bis 100 (weggefallen)
-
-
 
 ### § 101 (weggefallen)
 
 -
 
-
 ### § 102
 
 (weggefallen)
-
 
 ### § 103 Veröffentlichungen
 
@@ -5940,7 +5718,6 @@ Verwaltungsgrundsätze.
 
 (3) Die Veröffentlichungen nach den Absätzen 1 und 2 können in einem
 elektronischen Informationsmedium erfolgen.
-
 
 ### § 103a Statistische Daten für die Krankenversicherung
 
@@ -5956,10 +5733,7 @@ Versicherungsbestände der Bundesanstalt jährlich mitzuteilen. In der
 in § 12c genannten Rechtsverordnung ist festzulegen, welche
 Versicherungsbestände und Daten hierbei zu berücksichtigen sind.
 
-
 ## Va. - Beaufsichtigung der Inhaber bedeutender Beteiligungen an Versicherungsunternehmen
-
-
 
 ### § 104 Umfang der Aufsicht über Inhaber bedeutender Beteiligungen
 
@@ -6222,10 +5996,7 @@ Benehmen mit den Versicherungsaufsichtsbehörden der Länder.
 Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der
 Zustimmung des Bundesrates.
 
-
 ## Vb. - Zusätzliche Beaufsichtigung von Erst- und Rückversicherungsunternehmen in einer Erst- oder Rückversicherungsgruppe
-
-
 
 ### § 104a Begriffsbestimmungen
 
@@ -6319,10 +6090,6 @@ sind.
 7.  Rückversicherungsunternehmen eines Drittstaates:
     Rückversicherungsunternehmen nach § 121i Abs. 1.
 
-
-
-
-
 ### § 104b Einbezogene Unternehmen
 
 (1) Für Erst- und Rückversicherungsunternehmen, die einer zusätzlichen
@@ -6373,7 +6140,6 @@ Abs. 1 Satz 2 und 3 auch zulässig, wenn nach Auffassung der
 Aufsichtsbehörde der Übermittlung der notwendigen Informationen
 rechtliche Hindernisse im Wege stehen.
 
-
 ### § 104c Instrumente der zusätzlichen Beaufsichtigung
 
 (1) Die zusätzliche Beaufsichtigung umfasst eine oder mehrere der
@@ -6415,7 +6181,6 @@ folgenden Maßnahmen:
 bestehen die in § 104i Abs. 1 in Verbindung mit Abs. 3 genannten
 Anzeigepflichten.
 
-
 ### § 104d Kontrollverfahren
 
 Versicherungsunternehmen nach § 104a Abs. 1 Nr. 1 müssen über
@@ -6423,7 +6188,6 @@ angemessene interne Kontrollverfahren für die Vorlage von
 Informationen und Auskünften, die für die Durchführung der
 zusätzlichen Beaufsichtigung des beteiligten Versicherungsunternehmens
 zweckdienlich sind, verfügen.
-
 
 ### § 104e Geschäfte unter Versicherungsaufsicht
 
@@ -6477,7 +6241,6 @@ Berichtswesens und ordnungsgemäßer Rechnungslegungsvorschriften
 verfügen, um die Geschäfte nach Absatz 2 angemessen ermitteln,
 quantifizieren, überwachen und kontrollieren zu können.
 
-
 ### § 104f Übermittlung von Daten
 
 Rechtsvorschriften, die einer Übermittlung von Daten entgegenstehen,
@@ -6490,7 +6253,6 @@ der Richtlinie 98/78/EG über das Unternehmen mit Sitz im Ausland zu
 erfüllen. Die Aufsichtsbehörde kann einem Versicherungsunternehmen die
 Übermittlung von Daten in einen Drittstaat im Sinne des § 105 Abs. 1
 Satz 2 und 3 untersagen.
-
 
 ### § 104g Ermächtigungsgrundlage
 
@@ -6513,7 +6275,6 @@ erlässt die Verordnung nach Anhörung des Versicherungsbeirates im
 Benehmen mit den Aufsichtsbehörden der Länder. Rechtsverordnungen nach
 den Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ### § 104h Maßnahmen bei unzureichender bereinigter Solvabilität
 
 Ergibt sich als Ergebnis der Berechnung nach § 104g oder aus der
@@ -6522,7 +6283,6 @@ Solvabilität eines Versicherungsunternehmens unzureichend ist oder zu
 werden droht, ergreift die Aufsichtsbehörde geeignete Maßnahmen gemäß
 § 81 Abs. 2 und § 81b Abs. 1 und 2 auf der Ebene des betreffenden
 Versicherungsunternehmens.
-
 
 ### § 104i Risikokonzentrationen auf Versicherungsgruppenebene
 
@@ -6575,10 +6335,7 @@ Prozent der geforderten Solvabilitätsspanne auf Gruppenebene
 Adresse im Sinne dieser Vorschrift gelten alle Unternehmen, die
 demselben Konzern angehören.
 
-
 ## Vc - Zusätzliche Beaufsichtigung von Versicherungsunternehmen, die einem Finanzkonglomerat angehören
-
-
 
 ### § 104k Begriffsbestimmungen
 
@@ -6729,10 +6486,6 @@ Im Sinne dieses Abschnitts sind:
     einem sonstigen Risiko, einer Kombination dieser Risiken oder auf
     Wechselwirkungen zwischen diesen Risiken beruht oder beruhen kann.
 
-
-
-
-
 ### § 104l Zusammenarbeit bei der Beaufsichtigung von Finanzkonglomeraten
 
 (1) Die Aufsichtsbehörde und, soweit sie im Rahmen des
@@ -6874,7 +6627,6 @@ Nr. 1094/2010 auf Verlangen unverzüglich alle für die Erfüllung seiner
 Aufgaben aufgrund der Richtlinie 2002/87/EG und der Verordnung (EU)
 Nr. 1094/2010 erforderlichen Informationen zur Verfügung.
 
-
 ### § 104m Zuständigkeit für die zusätzliche Beaufsichtigung auf Konglomeratsebene
 
 (1) Die Aufsichtsbehörde kann von der Beaufsichtigung eines
@@ -6906,7 +6658,6 @@ Finanzkonglomerat und ein Erstversicherungsunternehmen als
 übergeordnetes Finanzkonglomeratsunternehmen bestimmen. Die
 Vorschriften dieses Gesetzes über die zusätzliche Beaufsichtigung von
 Finanzkonglomeraten sind in diesem Fall entsprechend anzuwenden.
-
 
 ### § 104n Ermittlung eines Finanzkonglomerats
 
@@ -7020,7 +6771,6 @@ die Solvabilitätsanforderungen des jeweiligen Sitzstaates anzuwenden;
 dies gilt entsprechend für Unternehmen mit Sitz in einem Drittstaat,
 wenn dort gleichwertige Solvabilitätsanforderungen bestehen.
 
-
 ### § 104o Feststellung eines Finanzkonglomerats
 
 (1) Die Aufsichtsbehörde stellt fest, dass eine branchenübergreifend
@@ -7064,7 +6814,6 @@ Finanzkonglomerat und die Bestimmung des übergeordneten
 Finanzkonglomeratsunternehmens aufheben; Absatz 1 Satz 2 gilt
 entsprechend.
 
-
 ### § 104p Befreiungen
 
 (1) Die Aufsichtsbehörde kann widerruflich von der Feststellung einer
@@ -7097,10 +6846,6 @@ nach den §§ 104r und 104s ganz oder teilweise freistellen, wenn
     erhebliche Änderung der Struktur der Gruppe zurückzuführen ist; die
     Freistellung ist auf einen Zeitraum von höchstens drei Jahren zu
     befristen, beginnend mit dem nächstfolgenden Geschäftsjahr.
-
-
-
-
 
 ### § 104q Eigenmittelausstattung von Finanzkonglomeraten
 
@@ -7362,7 +7107,6 @@ oder irreführend wäre. Freistellungen nach Satz 1 oder Satz 3 können
 auf Antrag des übergeordneten Finanzkonglomeratsunternehmens oder von
 Amts wegen erfolgen.
 
-
 ### § 104r Risikokonzentrationen und gruppeninterne Transaktionen von Finanzkonglomeraten
 
 (1) Das übergeordnete Finanzkonglomeratsunternehmen im Sinne des §
@@ -7443,10 +7187,6 @@ Aufsichtsbehörde kann
     bestimmten Beschränkungen hinsichtlich der Art gruppeninterner
     Transaktionen durch geeignete und erforderliche Maßnahmen unterbinden.
 
-
-
-
-
 ### § 104s Besondere organisatorische Pflichten von Finanzkonglomeraten
 
 Ein Finanzkonglomerat muss über eine ordnungsgemäße
@@ -7464,7 +7204,6 @@ oder Abs. 4 und einem nachgeordneten beaufsichtigten
 Finanzkonglomeratsunternehmen im Einzelfall Anordnungen treffen, die
 geeignet und erforderlich sind, um Vorkehrungen im Sinne von Satz 1
 und 2 zu schaffen; § 81 Abs. 2 gilt entsprechend.
-
 
 ### § 104t Maßnahmen bei unzureichenden Eigenmitteln auf Konglomeratsebene
 
@@ -7490,7 +7229,6 @@ Finanzholding-Gesellschaft den Mangel nicht innerhalb einer von der
 Aufsichtsbehörde zu bestimmenden Frist behoben hat. Beschlüsse über
 die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung
 nach Absatz 1 Nr. 2 widersprechen.
-
 
 ### § 104u Maßnahmen gegenüber gemischten Finanzholding-Gesellschaften
 
@@ -7552,7 +7290,6 @@ Gesellschaft tatsächlich führen, nicht zur Verfügung stehen oder
 solche zwar vorhanden sind, aber ihre Ausschöpfung erfolglos geblieben
 ist.
 
-
 ### § 104v Mutterunternehmen mit Sitz in einem Drittstaat
 
 (1) Unterliegen Erstversicherungsunternehmen mit Sitz im Inland, die
@@ -7575,7 +7312,6 @@ anderen Mitglied- oder Vertragsstaat gegründet wird, auf die die
 Vorschriften dieses Gesetzes über die zusätzliche Beaufsichtigung auf
 Konglomeratsebene entsprechend anzuwenden sind.
 
-
 ### § 104w Grenzüberschreitende Auskünfte und Prüfungen
 
 Rechtsvorschriften, die einer Übermittlung von Daten entgegenstehen,
@@ -7590,14 +7326,9 @@ und einer gemischten Finanzholding-Gesellschaft die Übermittlung von
 Daten in einen Drittstaat im Sinne des § 105 Abs. 1 Satz 2 und 3
 untersagen.
 
-
 ## VI. - Versicherungsunternehmen mit Sitz im Ausland
 
-
-
 ### 1. - Unternehmen mit Sitz außerhalb der Mitgliedstaaten der Europäischen Gemeinschaft oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-
-
 
 #### § 105 Erlaubnisvorbehalt
 
@@ -7635,7 +7366,6 @@ Versicherungsunternehmen eines Drittstaates, wenn sie
 (3) Für diese Unternehmen gelten die besonderen Vorschriften der §§
 106 bis 110 sowie ergänzend die übrigen Vorschriften dieses Gesetzes
 entsprechend.
-
 
 #### § 106 Niederlassung; Hauptbevollmächtigter
 
@@ -7678,11 +7408,9 @@ werden müssen, kann sich die Bundesanstalt in den Bedingungen für die
 Rückgabe vorbehalten, über die Sicherheiten im Interesse der
 Versicherten zu verfügen.
 
-
 #### § 106a
 
 (weggefallen)
-
 
 #### § 106b Antrag; Verfahren
 
@@ -7810,7 +7538,6 @@ Bundesanstalt auf Verlangen dieser Behörde entsprechende Maßnahmen für
 die im Geltungsbereich dieses Gesetzes belegenen Vermögensgegenstände.
 § 81b Abs. 4 und Abs. 5 bleibt unberührt.
 
-
 #### § 106c Spartentrennung
 
 Versicherungsunternehmen, welche die Lebensversicherung zugleich mit
@@ -7821,7 +7548,6 @@ zugleich mit anderen Versicherungssparten betreiben, können keine
 Erlaubnis zum Betrieb der Krankenversicherung nach § 12 Abs. 1 im
 Geltungsbereich dieses Gesetzes erhalten.
 
-
 #### § 107 Kumul von Vertriebswegen
 
 Versicherungsunternehmen eines Drittstaates im Sinne des § 105 Abs. 1
@@ -7831,7 +7557,6 @@ gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes haben,
 sowie Versicherungsverträge über dort belegene Grundstücke nur durch
 Bevollmächtigte abschließen, die im Geltungsbereich dieses Gesetzes
 wohnen.
-
 
 #### § 108 Bestandübertragung
 
@@ -7857,11 +7582,9 @@ des Versicherungsbestandes belegen sind, zustimmen.
 (3) Für Verträge nach den Absätzen 1 und 2 gilt § 14 Abs. 1 Satz 2,
 Abs. 4 bis 7 entsprechend.
 
-
 #### § 109
 
 (weggefallen)
-
 
 #### § 110 Beschränkt anwendbare Vorschriften
 
@@ -7871,10 +7594,7 @@ abgeschlossene Versicherungsgeschäft.
 
 (2) (weggefallen)
 
-
 ### 2. - Unternehmen mit Sitz in einem Mitgliedstaat der Europäischen Gemeinschaft oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-
-
 
 #### § 110a Geschäftstätigkeit durch eine Niederlassung oder im Dienstleistungsverkehr
 
@@ -7978,10 +7698,6 @@ Absätzen 1 und 2 entsprechend
 
 5.  § 17 des Finanzdienstleistungsaufsichtsgesetzes.
 
-
-
-
-
 #### § 110b Bei Lloyd's vereinigte Einzelversicherer
 
 (1) Die bei Lloyd's vereinigten Einzelversicherer dürfen eine
@@ -8004,11 +7720,9 @@ verwalteten, im Inland belegenen Vermögenswerte aller in der
 Vereinigung zusammengeschlossenen Einzelversicherer vollstreckt
 werden.
 
-
 #### § 110c
 
 (weggefallen)
-
 
 #### § 110d Niederlassung
 
@@ -8054,9 +7768,7 @@ Dienstleistungsverkehr durch Mittelpersonen erfolgen soll; die in
 Absatz 2 genannten Vorschriften gelten jedoch insoweit nicht, als sie
 eine Niederlassung voraussetzen.
 
-
 #### (XXXX) §§ 110e bis 110i (weggefallen)
-
 
 #### § 111 Dienstleistungsverkehr
 
@@ -8098,10 +7810,7 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 Bundesministerium der Finanzen entsprechende Freistellungen auch im
 Einzelfall durch Verwaltungsakt gewähren.
 
-
 ## VIa. - Zusammenarbeit der Bundesanstalt mit den zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Gemeinschaft oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum auf dem Gebiet der Direktversicherung
-
-
 
 ### § 111a Unterrichtung über Rechtsvorschriften und Daten zur Krankenversicherung
 
@@ -8119,7 +7828,6 @@ Aufsichtsbehörde des Herkunftsmitgliedstaats mit.
 (2) Die Bundesanstalt übermittelt die gemäß § 103a Abs. 1
 veröffentlichten Daten zur Krankenversicherung den Aufsichtsbehörden
 der Herkunftsmitgliedstaaten.
-
 
 ### § 111b Maßnahmen der Rechtsaufsicht
 
@@ -8162,7 +7870,6 @@ durch die Aufsichtsbehörde des Herkunftsmitgliedstaates die zur
 Unterbindung der weiteren inländischen Geschäftstätigkeit geeigneten
 und erforderlichen Maßnahmen.
 
-
 ### § 111c Maßnahmen der Finanzaufsicht
 
 (1) Die Aufsichtsbehörde kann die Aufsichtsbehörden derjenigen
@@ -8203,7 +7910,6 @@ Ferner setzt sie sich mit den Aufsichtsbehörden derjenigen Mitglied-
 oder Vertragsstaaten, in denen eine Geschäftstätigkeit ausgeübt wird,
 wegen der nach § 87 Abs. 4 erforderlichen Maßnahmen ins Benehmen.
 
-
 ### § 111d Bestandsübertragung
 
 Ein Vertrag, durch den ein Versicherungsunternehmen mit Sitz in einem
@@ -8226,7 +7932,6 @@ gemäß Satz 1 für die Genehmigung zuständige Aufsichtsbehörde von der
 Bundesanstalt die in § 14 Abs. 2 Satz 2 Nr. 1 genannte Bescheinigung
 an, gelten § 13b Abs. 2 Satz 4 und § 13c Abs. 2 Satz 5 entsprechend.
 
-
 ### § 111e Zusammenarbeit bei Versicherungsunternehmen mit Sitz in Drittstaaten
 
 (1) Soll einem Antrag gemäß § 106b Abs. 5 stattgegeben werden, so
@@ -8244,7 +7949,6 @@ unterrichtet sie die zuständigen Behörden der beteiligten
 Mitgliedstaaten und Vertragsstaaten von den nach § 81b Abs. 2 Satz 2
 getroffenen Maßnahmen. Sie kann diese Behörden ersuchen, die gleichen
 Maßnahmen zu treffen.
-
 
 ### § 111f Informationspflicht und Zusammenarbeit der Aufsicht bei verbundenen Unternehmen und Finanzkonglomeraten und bei der Beaufsichtigung der Inhaber bedeutender Beteiligungen an einem Versicherungsunternehmen
 
@@ -8330,10 +8034,7 @@ an dem der Erwerb beabsichtigt wird, sind alle Bemerkungen oder
 Vorbehalte seitens der für den interessierten Erwerber zuständigen
 Behörde zu vermerken.
 
-
 ## VIb. - Meldungen an die Kommission der Europäischen Gemeinschaften und die zuständigen Behörden der anderen Mitgliedstaaten
-
-
 
 ### § 111g Umfang der Meldepflicht
 
@@ -8432,14 +8133,9 @@ Staat nicht mehr nach § 8 Abs. 3 ausgesetzt werden müssen.
 (3) Die Meldepflichten nach Absatz 1 Nr. 1, 2 und 10 bestehen auch
 gegenüber den zuständigen Behörden der anderen Mitgliedstaaten.
 
-
 ## VII. - Einrichtungen der betrieblichen Altersversorgung
 
-
-
 ### 1. - Pensionsfonds
-
-
 
 #### § 112 Definition
 
@@ -8483,7 +8179,6 @@ Aufsichtsbehörde.
 (3) Als Arbeitnehmer im Sinne dieser Vorschrift gelten auch ehemalige
 Arbeitnehmer sowie die unter § 17 Abs. 1 Satz 2 des Gesetzes zur
 Verbesserung der betrieblichen Altersversorgung fallenden Personen.
-
 
 #### § 113 Anzuwendende Vorschriften
 
@@ -8584,7 +8279,6 @@ Versicherungswesen und die betriebliche Altersversorgung über jede
 Untersagung der Geschäftstätigkeit eines Pensionsfonds zu
 unterrichten.
 
-
 #### § 114 Kapitalausstattung
 
 (1) Pensionsfonds sind verpflichtet, zur Sicherstellung der dauernden
@@ -8614,10 +8308,6 @@ Vorschriften zu erlassen
 4.  darüber, dass der Aufsichtsbehörde über die Solvabilitätsspanne und
     die Eigenmittel zu berichten ist, sowie über Form und Inhalt dieses
     Berichts.
-
-
-
-
 
 #### § 115 Vermögensanlage
 
@@ -8694,7 +8384,6 @@ schriftlich bei Vertragsschluss sowie jährlich schriftlich darüber
 informieren, ob und wie er ethische, soziale und ökologische Belange
 bei der Verwendung der eingezahlten Beiträge berücksichtigt.
 
-
 #### § 116 Deckungsrückstellung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -8720,7 +8409,6 @@ Länder.
 (2) Die Rechtsverordnungen nach Absatz 1 sind im Einvernehmen mit dem
 Bundesministerium der Justiz zu erlassen; sie bedürfen nicht der
 Zustimmung des Bundesrates.
-
 
 #### § 117 Grenzüberschreitende Tätigkeit von Pensionsfonds
 
@@ -8786,7 +8474,6 @@ Durchführung des Notifikationsverfahrens und von Maßnahmen nach Absatz
 (7) Für die Erweiterung des Geschäftsbetriebs auf ein Gebiet außerhalb
 der Mitglied- und Vertragsstaaten gilt § 13 Abs. 3 entsprechend.
 
-
 #### § 117a Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung im Bereich der betrieblichen Altersversorgung
 
 (1) Die Aufsichtsbehörde arbeitet gemäß der Verordnung (EU) Nr.
@@ -8810,7 +8497,6 @@ unverzüglich alle für die Erfüllung ihrer Aufgaben aufgrund der
 Richtlinie 2003/41/EG und der Verordnung (EU) Nr. 1094/2010
 erforderlichen Informationen zur Verfügung.
 
-
 #### § 118 Gesonderte Verordnungen
 
 § 5 Abs. 6, § 11a Abs. 6, § 55a, § 57 Abs. 2, § 81c Abs. 3, § 104 Abs.
@@ -8819,10 +8505,7 @@ Bundesministerium der Finanzen ermächtigt wird, auf ihrer Grundlage
 gesonderte Rechtsverordnungen für Pensionsfonds zu erlassen. Die
 Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ### 2. - Pensionskassen
-
-
 
 #### § 118a Definition
 
@@ -8849,10 +8532,6 @@ und das
 4.  der versicherten Person einen eigenen Anspruch auf Leistung gegen die
     Pensionskasse einräumt oder Leistungen als Rückdeckungsversicherung
     erbringt.
-
-
-
-
 
 #### § 118b Anzuwendende Vorschriften
 
@@ -8930,14 +8609,12 @@ gelten Absatz 5 Satz 2 und Satz 3 entsprechend.
 (7) Absatz 1 und 2 sowie Absatz 5 und 6 treten am 1. Januar 2006 in
 Kraft.
 
-
 #### § 118c Grenzüberschreitende Tätigkeit von Pensionskassen
 
 Für die grenzüberschreitende Tätigkeit von Pensionskassen gilt § 117
 mit Ausnahme des Absatzes 1 Satz 2 entsprechend; die §§ 13a bis 13c
 sind nicht anzuwenden. Auf die Geschäfte im Ausland ist § 118a Nr. 2
 und 3 nicht anzuwenden.
-
 
 #### § 118d Rechtsverordnungsermächtigungen
 
@@ -8973,10 +8650,7 @@ Aufsichtsbehörden der Länder. Rechtsverordnungen nach den Sätzen 1 bis
 (2) Die Rechtsverordnungen nach Absatz 1 Nr. 1 sind im Einvernehmen
 mit dem Bundesministerium der Justiz zu erlassen.
 
-
 ### 3. - Einrichtungen der betrieblichen Altersversorgung mit Sitz im Ausland
-
-
 
 #### § 118e Einrichtungen mit Sitz in einem anderen Mitglied- oder Vertragsstaat
 
@@ -9055,7 +8729,6 @@ Bundesanstalt die erforderlichen Maßnahmen, um die freie Verfügung
 über Vermögenswerte untersagen zu können, die sich im Besitz eines
 Treuhänders oder einer Verwahrstelle mit Standort im Inland befinden.
 
-
 #### § 118f Einrichtungen mit Sitz in Drittstaaten
 
 Für Unternehmen mit Sitz außerhalb der Mitgliedstaaten der
@@ -9063,10 +8736,7 @@ Europäischen Gemeinschaft oder eines anderen Vertragsstaats des
 Abkommens über den Europäischen Wirtschaftsraum gelten die §§ 105 bis
 110\.
 
-
 ## VIIa. - Rückversicherungsaufsicht
-
-
 
 ### § 119 Erlaubnis; Antrag; einzureichende Unterlagen
 
@@ -9179,7 +8849,6 @@ Kapitalausstattung zu erfüllen.
 Erlaubnis im amtlichen Veröffentlichungsblatt der Behörde oder in
 einem elektronischen Informationsmedium bekannt zu machen.
 
-
 ### § 120 Zulässige Rechtsformen; Umfang der Erlaubnis
 
 (1) Die Erlaubnis darf nur Aktiengesellschaften einschließlich der
@@ -9204,7 +8873,6 @@ Lebensrückversicherung ist (Nichtlebensrückversicherung), oder die
 Lebensrückversicherung.
 
 (4) Die Erlaubnis kann unter Auflagen und Bedingungen erteilt werden.
-
 
 ### § 121 Versagung der Erlaubnis
 
@@ -9290,7 +8958,6 @@ ein anderes Unternehmen verbunden sind
 
 (4) Aus anderen als den in den Absätzen 1 und 2 genannten Gründen darf
 die Erlaubnis nicht versagt werden.
-
 
 ### § 121a Laufende Rechts- und Finanzaufsicht
 
@@ -9394,7 +9061,6 @@ Sie ersucht erforderlichenfalls die Behörden der anderen
 Mitgliedstaaten, in Bezug auf bestimmte genau zu bezeichnende
 Vermögenswerte die gleichen Maßnahmen zu ergreifen.
 
-
 ### § 121b Anlagegrundsätze
 
 (1) Für die Vermögensbestände, die der dauernden Erfüllbarkeit der
@@ -9429,7 +9095,6 @@ eines Rückversicherungsunternehmens in einem Drittstaat, so gelten die
 Absätze 1 und 2 auch für die aus diesen Rückversicherungsverhältnissen
 entstandenen Vermögensbestände, soweit das ausländische Recht nichts
 Abweichendes vorschreibt.
-
 
 ### § 121c Widerruf der Erlaubnis
 
@@ -9517,7 +9182,6 @@ Antrag bei Vorliegen der Voraussetzungen nach Satz 1 oder 2 auch von
 der Aufsichtsbehörde gestellt werden, wenn der Aufsichtsrat dem
 Abberufungsverlangen der Aufsichtsbehörde nicht nachgekommen ist.
 
-
 ### § 121d Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -9530,10 +9194,6 @@ Rückversicherungsunternehmen zu erlassen über
 
 2.  den für die Lebensrückversicherung und die Nichtlebensrückversicherung
     maßgebenden Mindestbetrag des Garantiefonds.
-
-
-
-
 
 ### § 121e Finanzrückversicherung
 
@@ -9590,10 +9250,6 @@ hinreichenden Risikotransfer Vorschriften zu erlassen darüber,
 5.  welchen Inhalt und Umfang die Berichtspflichten nach Absatz 1 Satz 3
     haben.
 
-
-
-
-
 ### § 121f Bestandsübertragung
 
 (1) Jeder Vertrag, durch den ein Versicherungsbestand eines
@@ -9637,7 +9293,6 @@ den von der Umwandlung erfassten Vermögensgegenständen gehören, bedarf
 der Genehmigung der Aufsichtsbehörde. Absatz 1 Satz 3 und 4 gilt
 entsprechend. Die Genehmigung kann auch versagt werden, wenn die
 Vorschriften über die Umwandlung nicht beachtet worden sind.
-
 
 ### § 121g Versicherungs-Zweckgesellschaften
 
@@ -9696,10 +9351,6 @@ Vorschriften zu erlassen über
     Rechnungslegungsverfahren, welche die beabsichtigte Wirkungsweise der
     Verträge, ihre zuverlässige Dokumentation sowie Transparenz
     sicherstellen.
-
-
-
-
 
 ### § 121h Geschäftstätigkeit durch eine Niederlassung oder im Dienstleistungsverkehr
 
@@ -9777,10 +9428,6 @@ Stelle der Versicherungsnehmer die Vorversicherer treten. § 111b Abs.
 
 3.  In Absatz 5 tritt an die Stelle der Bezugnahme auf § 110a Abs. 1 die
     Bezugnahme auf Absatz 1 Satz 1.
-
-
-
-
 
 ### § 121i Unternehmen mit Sitz in einem Drittstaat
 
@@ -9876,7 +9523,6 @@ veröffentlichen. Sobald die Bestandsübertragung wirksam geworden ist,
 hat die übernehmende Niederlassung die Vorversicherer unverzüglich
 über die Bestandsübertragung schriftlich zu informieren.
 
-
 ### § 121j Bestandsschutz
 
 (1) Für Unternehmen, die ausschließlich die Rückversicherung
@@ -9889,10 +9535,7 @@ Einschränkung der laufenden Aufsicht.
 (2) Für Unternehmen im Sinne des § 111g Abs. 1 Nr. 13 gelten die §§
 120, 121a, 121b, 121c, 121d und 121f.
 
-
 ## VIII. - Übergangsvorschriften
-
-
 
 ### § 122 Fortsetzung des Geschäftsbetriebs
 
@@ -9904,11 +9547,9 @@ Geschäftsbetrieb in den Grenzen fortsetzen, die sie bis zum 1. Januar
 Geschäftsbetrieb auf besonderer Erlaubnis beruht hat, durch die
 Erlaubnis gezogen waren.
 
-
 ### § 123 (weggefallen)
 
 -
-
 
 ### § 123a Bestehende öffentlich-rechtliche Versorgungseinrichtungen
 
@@ -9916,7 +9557,6 @@ Einrichtungen, die am 21. Dezember 2004 die in § 1a Abs. 2 genannten
 Geschäfte betreiben, haben die Anforderungen dieses Gesetzes und
 seiner Durchführungsverordnungen spätestens bis zum 23. September 2010
 zu erfüllen.
-
 
 ### § 123b Rückversicherungsunternehmen
 
@@ -9939,7 +9579,6 @@ die Eigenmittel eines Rückversicherungsunternehmens zum Stichtag 31.
 Dezember 2004 geringer sind als die fiktive Solvabilitätsspanne, darf
 das Verhältnis der Eigenmittel zur fiktiven Solvabilitätsspanne nicht
 weiter unterschritten werden.
-
 
 ### § 123c Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz
 
@@ -10032,7 +9671,6 @@ Geschäftsjahr oder das während des Jahres 2005 beendete Geschäftsjahr
 anzuwenden. Anzeigen nach Absatz 1 Nr. 1 und 4 sind erstmals zum 16.
 Januar 2006 einzureichen.
 
-
 ### § 123d Übergangsregelung für bestimmte Rückversicherungs-Niederlassungen
 
 Unternehmen im Sinne des § 105 Abs. 1 Satz 1, die im Inland eine vor
@@ -10044,13 +9682,11 @@ nach § 105 Abs. 2 zu beantragen. Stellen sie den Antrag bis dahin
 nicht oder lehnt das Bundesministerium der Finanzen den Antrag ab,
 endet die Erlaubnisfreiheit.
 
-
 ### § 123e Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie
 
 Auf Verfahren nach § 104, bei denen bis zum 17. März 2009 eine Anzeige
 eingegangen ist, sind die Vorschriften dieses Gesetzes in der bis zum
 17\. März 2009 geltenden Fassung anzuwenden.
-
 
 ### § 123f Übergangsfristen bei Geschäftsleitern
 
@@ -10058,10 +9694,7 @@ Unternehmen, bei denen die nach § 7a Abs. 1 Satz 5 und 6 höchstens
 zulässigen Mandatszahlen am 1. August 2009 überschritten werden, haben
 diese bis zum 31. Dezember 2010 entsprechend zu verkleinern.
 
-
 ## VIIIa. - Sicherungsfonds
-
-
 
 ### § 124 Pflichtmitgliedschaft
 
@@ -10078,7 +9711,6 @@ sonstiger aus dem Versicherungsvertrag begünstigter Personen dient.
 Zur Gewährleistung vergleichbarer Finanzverhältnisse aller Mitglieder
 kann der Sicherungsfonds die Aufnahme von der Erfüllung bestimmter
 Bedingungen abhängig machen.
-
 
 ### § 125 Aufrechterhaltung der Versicherungsverträge
 
@@ -10143,7 +9775,6 @@ Versicherungsunternehmens.
 (8) Widerspruch und Anfechtungsklage gegen die Anordnung der
 Aufsichtsbehörde haben keine aufschiebende Wirkung.
 
-
 ### § 126 Sicherungsfonds
 
 (1) Bei der Kreditanstalt für Wiederaufbau werden ein Sicherungsfonds
@@ -10164,7 +9795,6 @@ Sondervermögen.
 
 (4) Über den Widerspruch gegen Verwaltungsakte eines Sicherungsfonds
 entscheidet die Bundesanstalt.
-
 
 ### § 127 Beleihung Privater
 
@@ -10206,7 +9836,6 @@ des Privatrechts in die Rechte und Pflichten der jeweiligen
 Sicherungsfonds ein. § 126 Abs. 4 gilt entsprechend. Eine Übertragung
 der Vermögensmasse erfolgt nicht.
 
-
 ### § 128 Aufsicht
 
 Die Aufsichtsbehörde hat Missständen entgegenzuwirken, welche die
@@ -10218,7 +9847,6 @@ die Auskunfts- und Prüfungsrechte nach § 83 Abs. 1 und 3 zu. Im
 Übrigen gelten für die Sicherungsfonds nur die Vorschriften dieses
 Kapitels sowie § 144c, sofern es sich nicht um ein nach § 5
 zugelassenes Unternehmen handelt.
-
 
 ### § 129 Finanzierung
 
@@ -10285,7 +9913,6 @@ Vollstreckung nach den Bestimmungen des Verwaltungs-
 Vollstreckungsgesetzes statt. Die vollstreckbare Ausfertigung erteilt
 der Sicherungsfonds.
 
-
 ### § 130 Rechnungslegung des Sicherungsfonds
 
 (1) Die Sicherungsfonds haben nach Ablauf eines Kalenderjahres einen
@@ -10309,7 +9936,6 @@ Bericht über die Prüfung des Geschäftsberichts der Bundesanstalt
 unverzüglich nach Beendigung der Prüfung einzureichen. Die
 Bundesanstalt ist auch auf Anforderung über die Angaben nach Absatz 1
 Satz 4 zu unterrichten.
-
 
 ### § 131 Mitwirkungspflichten
 
@@ -10348,7 +9974,6 @@ zur Ausübung seines Wahlrechts auf, so hat der Sicherungsfonds
 unverzüglich zu erklären, ob er in den Vertrag eintreten will.
 Unterlässt er dies, kann er auf Erfüllung nicht bestehen.
 
-
 ### § 132 Ausschluss
 
 (1) Erfüllt ein Versicherungsunternehmen die Beitrags- oder
@@ -10372,7 +9997,6 @@ wurden.
 entstanden sind, nachdem seine Erlaubnis zum Geschäftsbetrieb
 erloschen ist, haftet der Sicherungsfonds nicht.
 
-
 ### § 133 Verschwiegenheitspflicht
 
 Personen, die bei dem Sicherungsfonds beschäftigt oder für sie tätig
@@ -10384,7 +10008,6 @@ auf eine gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten.
 Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt
 nicht vor, wenn Tatsachen an die Bundesanstalt weitergegeben werden.
 
-
 ### § 133a Zwangsmittel
 
 (1) Der Sicherungsfonds kann seine Anordnungen nach den Bestimmungen
@@ -10393,23 +10016,17 @@ des Verwaltungs-Vollstreckungsgesetzes durchsetzen.
 (2) Die Höhe des Zwangsgeldes beträgt bei Maßnahmen gemäß § 129 Abs.
 1, 5 Satz 1 und § 131 Abs. 1 bis zu fünfzigtausend Euro.
 
-
 ### (XXXX) §§ 133b bis 133e (weggefallen)
-
 
 ### § 133f
 
 (weggefallen)
 
-
 ### § 133g
 
 (weggefallen)
 
-
 ## IX. - Straf- und Bußgeldvorschriften
-
-
 
 ### § 134 Falsche Angaben
 
@@ -10424,10 +10041,7 @@ Versicherungsbestandes (§ 14 Abs. 1 Satz 1, Abs. 1a Satz 1 oder 3, §
 Satz 1) zu erlangen, wird mit Freiheitsstrafe bis zu drei Jahren oder
 mit Geldstrafe bestraft.
 
-
 ### (XXXX) §§ 135 und 136 (weggefallen)
-
-
 
 ### § 137 Straftaten eines Prüfers
 
@@ -10439,7 +10053,6 @@ Geldstrafe bestraft.
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist
 die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
-
 
 ### § 138 Verletzung der Geheimhaltungspflicht
 
@@ -10475,7 +10088,6 @@ Vorstands oder ein Liquidator die Tat begangen, so ist der
 Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen, so
 sind der Vorstand oder die Liquidatoren antragsberechtigt.
 
-
 ### § 139 Falsche Erklärungen über Deckungsrückstellung und Sicherungsvermögen
 
 (1) Wer als Verantwortlicher Aktuar eine versicherungsmathematische
@@ -10489,7 +10101,6 @@ drei Jahren oder mit Geldstrafe bestraft.
 eines Sicherungsvermögens bestellt ist, oder als Stellvertreter eines
 solchen Treuhänders (§ 70) eine Bestätigung nach § 73, auch in
 Verbindung mit § 110d Abs. 2 oder 3, falsch abgibt.
-
 
 ### § 140 Unbefugte Geschäftstätigkeit
 
@@ -10524,7 +10135,6 @@ Absatzes 1 Nummer 3 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe
 und in den Fällen des Absatzes 1 Nummer 1, 2 und 4 Freiheitsstrafe bis
 zu drei Jahren oder Geldstrafe.
 
-
 ### § 141 Unterlassene Anzeige der Zahlungsunfähigkeit
 
 (1) Wer als Mitglied des Vorstands, als Hauptbevollmächtigter (§ 106
@@ -10537,11 +10147,9 @@ mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu einem Jahr oder Geldstrafe.
 
-
 ### § 142
 
 (weggefallen)
-
 
 ### § 143 Unrichtige Darstellung
 
@@ -10565,7 +10173,6 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft, jedoch nur, wenn die Tat im Falle der Nummer 1 nicht in §
 331 Nr. 1 oder Nr. 1a, im Falle der Nummer 2 nicht in § 331 Nr. 4 des
 Handelsgesetzbuchs mit Strafe bedroht ist.
-
 
 ### § 144 Ordnungswidrigkeiten im Rahmen des Versicherungsbetriebs
 
@@ -10725,7 +10332,6 @@ und 2.
 Euro, in den Fällen des Absatzes 1 Nr. 5 mit einer Geldbuße bis zu
 hunderttausend Euro geahndet werden.
 
-
 ### § 144a Unbefugte Versicherungsvermittlung
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -10756,7 +10362,6 @@ hunderttausend Euro geahndet werden.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 hunderttausend Euro geahndet werden.
 
-
 ### § 144b Ordnungswidrigkeiten beim Betrieb der Rechtsschutzversicherung
 
 (1) Ordnungswidrig handelt, wer
@@ -10782,7 +10387,6 @@ hunderttausend Euro geahndet werden.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
 
-
 ### § 144c Ordnungswidrigkeiten beim Betrieb des Sicherungsfonds
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
@@ -10792,18 +10396,15 @@ vollständig oder nicht rechtzeitig einreicht.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
 
-
 ### § 145
 
 (weggefallen)
-
 
 ### § 145a Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt, soweit die Aufsicht über
 Versicherungsunternehmen der Bundesanstalt zusteht.
-
 
 ### § 145b Beteiligung und Unterrichtung der Aufsichtsbehörde
 
@@ -10865,10 +10466,7 @@ Aufsicht nach diesem Gesetz durch eine Landesbehörde ausgeübt wird,
 leitet die Bundesanstalt die Mitteilung unverzüglich an diese Behörde
 weiter.
 
-
 ## X. - Zuständigkeit
-
-
 
 ### § 146 Bundesaufsicht
 
@@ -10913,7 +10511,6 @@ der in § 140 Abs. 1 des Siebten Buches Sozialgesetzbuch genannten Art,
 wenn diese Einrichtungen über das Gebiet eines Landes hinaus tätig
 sind.
 
-
 ### § 147 Übertragung der Aufsicht auf eine Landesaufsichtsbehörde
 
 (1) Das Bundesministerium der Finanzen kann auf Antrag der
@@ -10928,7 +10525,6 @@ Finanzen die Aufsicht über solche Unternehmen wieder der Bundesanstalt
 übertragen, namentlich, wenn die Unternehmen größere wirtschaftliche
 Bedeutung erlangt haben.
 
-
 ### § 148 Übertragung der Aufsicht auf die Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (1) Die Fachaufsicht über ein öffentlich-rechtliches Wettbewerbs-
@@ -10940,7 +10536,6 @@ der Bundesanstalt übernommen werden.
 nicht Wettbewerbs-Versicherungsunternehmen sind, kann die
 Bundesanstalt die Aufsicht übernehmen, wenn die beteiligten
 Landesregierungen es beantragen.
-
 
 ### § 149 Verfahren
 
@@ -10957,7 +10552,6 @@ hat die Bundesanstalt den Zeitpunkt der Übernahme oder der Übertragung
 der Aufsicht im Bundesanzeiger mindestens zwei Wochen vorher bekannt
 zu geben.
 
-
 ### § 150 Zusammenarbeit der Aufsichtsbehörden
 
 Die Bundesanstalt und die aufsichtsführenden Landesbehörden sind
@@ -10966,10 +10560,7 @@ mitzuteilen. Dies gilt auch für die Grundsätze, welche die
 Landesbehörden bei der Beaufsichtigung der öffentlich-rechtlichen
 Versicherungsunternehmen aufstellen.
 
-
 ## XI. - Schlussvorschriften
-
-
 
 ### § 151 Statistische Nachweisungen
 
@@ -10978,7 +10569,6 @@ haben der Bundesanstalt die von ihr erforderten Zählnachweise über
 ihren Geschäftsbetrieb einzureichen. Über die Art der Nachweise ist
 der Versicherungsbeirat zu hören.
 
-
 ### § 152 Statistische Angaben öffentlich-rechtlicher Versicherungsunternehmen
 
 Öffentlich-rechtliche Versicherungsunternehmen, die nicht der Aufsicht
@@ -10986,7 +10576,6 @@ nach diesem Gesetz unterliegen, haben der Bundesanstalt auf
 Anforderung die gleichen statistischen Angaben über ihren
 Geschäftsbetrieb einzureichen wie Versicherungsunternehmen, die der
 Aufsicht nach diesem Gesetz unterliegen.
-
 
 ### § 153 Ermächtigungsgrundlage
 
@@ -11001,7 +10590,6 @@ oder teilweise nicht den Vorschriften dieses Gesetzes unterliegt,
 soweit hierdurch im Geltungsbereich dieses Gesetzes die Belange
 anderer Versicherter und die dauernde Erfüllbarkeit der sonstigen
 Versicherungsverträge nicht gefährdet werden.
-
 
 ### § 154 Landesrechtliche Vorschriften
 
@@ -11020,14 +10608,12 @@ nach diesem Gesetz der Geschäftsbetrieb erlaubt worden ist. Die
 Erfüllung der Verpflichtungen überwacht die Aufsichtsbehörde nach
 diesem Gesetz.
 
-
 ### § 155 Nachträgliche Benennung eines Schadenregulierungsbeauftragten
 
 Soweit die Erlaubnis zum Geschäftsbetrieb schon erteilt ist, sind
 Schadenregulierungsbeauftragte nach § 7b bis zum 15. Januar 2003 zu
 benennen. § 13d Nr. 9 und § 144 Abs. 1a Nr. 2 und Abs. 2 gelten
 entsprechend.
-
 
 ### § 156 Entsprechende Anwendung gesellschaftsrechtlicher Vorschriften
 
@@ -11039,7 +10625,6 @@ Versicherungsunternehmen gelten die §§ 80 und 91 Abs. 2 des
 Aktiengesetzes entsprechend. Für das Überwachungsorgan öffentlich-
 rechtlicher Versicherungsunternehmen gilt § 80 des Aktiengesetzes
 entsprechend.
-
 
 ### § 156a Nichtanwendung auf bestimmte Versicherungsunternehmen
 
@@ -11070,7 +10655,6 @@ festzusetzen.
 
 (3) bis (6) (weggefallen)
 
-
 ### § 157 Aufsichtsbehördliche Gestattung von Abweichungen
 
 (1) Die Aufsichtsbehörde kann für die Erlaubnis zum Geschäftsbetrieb
@@ -11085,7 +10669,6 @@ können sie besonders davon abhängig gemacht werden, daß im Abstand von
 mehreren Jahren auf Kosten des Vereins der Geschäftsbetrieb und die
 Vermögenslage durch einen Sachverständigen geprüft werden und der
 Prüfungsbericht der Aufsichtsbehörde eingereicht wird.
-
 
 ### § 157a Freistellung von der Aufsicht
 
@@ -11110,11 +10693,9 @@ Vorschriften des § 83 Abs. 1 Nr. 1 und 2, Abs. 3, 5 und 6 sowie des §
 Aufsichtsbehörde nach § 83 durchgesetzt werden sollen; eine Umwandlung
 nach dem Umwandlungsgesetz ist nicht zulässig.
 
-
 ### § 158
 
 (weggefallen)
-
 
 ### § 159 Entsprechende Anwendung auf Versicherungseinrichtungen der Berufsgenossenschaften und nicht aufsichtspflichtige Unternehmen
 
@@ -11132,7 +10713,6 @@ die § 14, § 55 Abs. 1 und 2, § 55a sowie die §§ 81, 81a, 82 bis 84,
 dieses Gesetzes auf Unternehmen, die nicht unter § 1 fallen,
 entsprechend anzuwenden sind, bleiben diese Vorschriften unberührt.
 
-
 ### § 160 Teilbestandsvorschriften in der Unfallversicherung
 
 (1) bis (4) (weggefallen)
@@ -11143,11 +10723,9 @@ Versicherungssparten zuzuordnen sind, dürfen den
 Unfallversicherungsteil dieser Verträge auf ein anderes Unternehmen
 übertragen. § 14 gilt entsprechend.
 
-
 ### § 161
 
 (weggefallen)
-
 
 ### Anlage
 

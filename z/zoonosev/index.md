@@ -19,15 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 11.5.2010 I 612
 
-
-
 ## § 1 Zweck der Verordnung
 
 Die Verordnung regelt die von Lebensmittelunternehmern zu ergreifenden
 lebensmittelrechtlichen Maßnahmen zur frühzeitigen Erfassung von
 Zoonosen und Zoonoseerregern als Grundlage für die Bewertung ihrer
 Herkunft und der Entwicklungstendenzen ihres Vorkommens.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -43,10 +40,6 @@ Im Sinne dieser Verordnung sind:
 
     Viren, Bakterien, Pilze, Parasiten oder sonstige biologische Agenzien,
     die Zoonosen verursachen können.
-
-
-
-
 
 ## § 3 Betriebseigene Kontrollen
 
@@ -93,7 +86,6 @@ ist, hat hierüber zeitlich geordnet Nachweise zu führen. Die Nachweise
 sind zwei Jahre lang aufzubewahren und der zuständigen Behörde auf
 Verlangen vorzulegen.
 
-
 ## § 3a Rückstellproben im Fall des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 178/2002
 
 Lebensmittelunternehmer, die der zuständigen Behörde eine Mitteilung
@@ -108,7 +100,6 @@ gebracht worden sind, eine Rückstellprobe von mindestens 150 Gramm
 anfertigen und für die Dauer von mindestens sieben Tagen vom Zeitpunkt
 der Mitteilung an aufbewahren. Rückstellproben nach Satz 1 sind der
 zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen.
-
 
 ## § 4 Ordnungswidrigkeiten
 

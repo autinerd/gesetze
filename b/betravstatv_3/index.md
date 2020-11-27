@@ -16,19 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1990, Nr 168, 4613
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 2 des Bundesstatistikgesetzes vom 22. Januar
 1987 (BGBl. I S. 462, 565) verordnet die Bundesregierung:
 
-
 ## § 1 Anordnung als Bundesstatistik
 
 Über Art und Umfang der betrieblichen Altersversorgung werden in den
 Jahren 1990 und 1991 zwei Erhebungen als Bundesstatistik durchgeführt.
-
 
 ## § 2 Erhebungseinheiten
 
@@ -63,7 +59,6 @@ Versorgungssysteme des öffentlichen Dienstes erfaßt werden.
 (2) In die Erhebung im Jahr 1991 werden höchstens 25.000 repräsentativ
 ausgewählte Unternehmen aus der Erhebung nach Absatz 1 mit einer
 bestehenden betrieblichen Altersversorgung einbezogen.
-
 
 ## § 3 Erhebungsmerkmale
 
@@ -207,10 +202,6 @@ bestehenden betrieblichen Altersversorgung einbezogen.
     Kapitalleistung nach Durchführungsform der betrieblichen
     Altersversorgung.
 
-
-
-
-
 ## § 4 Hilfsmerkmale
 
 Hilfsmerkmale sind
@@ -220,10 +211,6 @@ Hilfsmerkmale sind
 
 2.  Name und Telefonnummer der für eventuelle Rückfragen zur Verfügung
     stehenden Personen.
-
-
-
-
 
 ## § 5 Auskunftserteilung
 
@@ -237,7 +224,6 @@ erteilen.
 
 (3) Die Angaben zu § 3 Abs. 1 Nr. 9 und § 4 Nr. 2 sind freiwillig.
 
-
 ## § 6 Berichtszeitraum/Berichtszeitpunkt
 
 (1) Die Erhebungen werden, soweit nichts Abweichendes geregelt ist,
@@ -247,7 +233,6 @@ nach dem Stand vom 31. Dezember 1990 durchgeführt.
 Kalenderjahr 1990 Berichtszeitraum. Decken sich Kalenderjahr und
 Geschäftsjahr nicht, so gilt das im Kalenderjahr 1990 endende
 Geschäftsjahr als Berichtszeitraum.
-
 
 ## § 7 Übermittlung
 
@@ -260,17 +245,14 @@ statistischen Ergebnissen übermittelt werden, auch soweit
 Tabellenfelder nur einen einzigen Fall bezogen auf ein Unternehmen
 aufweisen.
 
-
 ## § 8 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 27 des Bundesstatistikgesetzes auch im Land Berlin.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

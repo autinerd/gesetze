@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 51 G v. 5.2.2009 I 160
 
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz regelt Art und Umfang der Reisekostenvergütung der
@@ -48,10 +47,6 @@ Beamtinnen, Beamten, Richterinnen und Richter.
 
 7.  die Erstattung sonstiger Kosten (§ 10).
 
-
-
-
-
 ## § 2 Dienstreisen
 
 (1) Dienstreisen sind Reisen zur Erledigung von Dienstgeschäften
@@ -67,7 +62,6 @@ oder Kommandierung.
 (2) Die Dauer der Dienstreise bestimmt sich nach der Abreise und
 Ankunft an der Wohnung, es sei denn, die Dienstreise beginnt oder
 endet an der Dienststätte.
-
 
 ## § 3 Anspruch auf Reisekostenvergütung
 
@@ -90,7 +84,6 @@ ausgeübte Nebentätigkeit haben Dienstreisende nur Anspruch auf
 Reisekostenvergütung, die nicht von anderer Stelle zu übernehmen ist.
 Das gilt auch dann, wenn Dienstreisende auf ihren Anspruch gegen diese
 Stelle verzichtet haben.
-
 
 ## § 4 Fahrt- und Flugkostenerstattung
 
@@ -115,7 +108,6 @@ erstattet.
 
 (4) Wurde aus triftigem Grund ein Mietwagen oder ein Taxi benutzt,
 werden die entstandenen notwendigen Kosten erstattet.
-
 
 ## § 5 Wegstreckenentschädigung
 
@@ -147,10 +139,6 @@ wenn sie
 2.  von anderen Dienstreisenden des Bundes oder eines anderen Dienstherrn
     in einem Kraftwagen mitgenommen wurden.
 
-
-
-
-
 ## § 6 Tagegeld
 
 (1) Als Ersatz von Mehraufwendungen für Verpflegung erhalten
@@ -170,7 +158,6 @@ auch dann anzuwenden, wenn Dienstreisende ihres Amtes wegen
 unentgeltlich bereitgestellte Verpflegung ohne triftigen Grund nicht
 in Anspruch nehmen. Die oberste Dienstbehörde kann in besonderen
 Fällen niedrigere Einbehaltungssätze zulassen.
-
 
 ## § 7 Übernachtungsgeld
 
@@ -198,10 +185,6 @@ notwendig sind.
     Geschäftsort oder einer zu späten Abfahrt von diesem zusätzlich
     erforderlich wird.
 
-
-
-
-
 ## § 8 Auslagenerstattung bei längerem Aufenthalt am Geschäftsort
 
 Dauert der dienstlich veranlasste Aufenthalt an demselben auswärtigen
@@ -216,7 +199,6 @@ Fahrt- oder Flugkosten bis zur Höhe des in § 4 Abs. 1 Satz 1 oder 3
 oder in § 5 Abs. 1 genannten Betrages gewährt. Wird der Geschäftsort
 aufgrund von Heimfahrten verlassen, wird für die Zeit des Aufenthalts
 in der Wohnung Tagegeld nicht gewährt.
-
 
 ## § 9 Aufwands- und Pauschvergütung
 
@@ -234,7 +216,6 @@ Pauschvergütung gewähren, die nach dem Durchschnitt der in einem
 bestimmten Zeitraum sonst anfallenden Reisekostenvergütungen zu
 bemessen ist.
 
-
 ## § 10 Erstattung sonstiger Kosten
 
 (1) Zur Erledigung des Dienstgeschäfts notwendige Auslagen, die nicht
@@ -244,7 +225,6 @@ erstattet.
 (2) Entfällt eine Dienstreise aus einem von der oder dem Bediensteten
 nicht zu vertretenden Grund, werden durch die Vorbereitung
 entstandene, nach diesem Gesetz abzugeltende Auslagen erstattet.
-
 
 ## § 11 Bemessung der Reisekostenvergütung in besonderen Fällen
 
@@ -297,7 +277,6 @@ gelegenen Wohnung, wird für jede Hin- und Rückfahrt aus Anlass einer
 Übernachtung als Ersatz der Fahrtauslagen ein Betrag in Höhe der
 Übernachtungspauschale nach § 7 gewährt.
 
-
 ## § 12 Erkrankung während einer Dienstreise
 
 Erkranken Dienstreisende und werden sie in ein Krankenhaus
@@ -308,7 +287,6 @@ Angehörigen aus Anlass einer durch ärztliche Bescheinigung
 nachgewiesenen lebensgefährlichen Erkrankung der oder des
 Dienstreisenden werden Fahrtauslagen gemäß § 4 Abs. 1 Satz 1 und 3
 oder § 5 Abs. 1 erstattet.
-
 
 ## § 13 Verbindung von Dienstreisen mit privaten Reisen
 
@@ -347,7 +325,6 @@ nicht ausgenutzt werden konnten; hinsichtlich der Erstattung von
 Aufwendungen für die Hin- und Rückfahrt ist Absatz 3 Satz 2 sinngemäß
 anzuwenden.
 
-
 ## § 14 Auslandsdienstreisen
 
 (1) Auslandsdienstreisen sind Dienstreisen im oder ins Ausland sowie
@@ -365,7 +342,6 @@ bezüglich der Anordnung und Genehmigung von Dienstreisen, der Fahrt-
 und Flugkosten, des Auslandstage- und Auslandsübernachtungsgeldes, der
 Reisebeihilfen, der Kriterien der Erstattung klimabedingter Bekleidung
 und anderer Nebenkosten zu erlassen.
-
 
 ## § 15 Trennungsgeld
 
@@ -397,7 +373,6 @@ zum Zwecke ihrer Ausbildung einer Ausbildungsstelle an einem anderen
 Ort als dem bisherigen Dienst- und Wohnort zugewiesen, können ihnen
 die dadurch entstehenden notwendigen Mehrauslagen ganz oder teilweise
 erstattet werden.
-
 
 ## § 16 Verwaltungsvorschriften
 

@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 8.11.2011 I 2178
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -200,7 +197,6 @@ zwingende Gründe der Verteidigung oder die Erfüllung
 zwischenstaatlicher Verpflichtungen der Bundesrepublik Deutschland
 dies erfordern und die Sicherheit auf andere Weise gewährleistet ist.
 
-
 ### § 2 Begriffsbestimmungen
 
 (1) Arbeitsmittel im Sinne dieser Verordnung sind Werkzeuge, Geräte,
@@ -321,10 +317,7 @@ Aufwickeltrommel, die über ein vom Lastaufnahmemittel zu betätigendes
 Steuerseil für die Aufwärtsfahrt an eine laufende Friktionsscheibe
 gedrückt und für die Abwärtsfahrt von einem Bremsklotz abgehoben wird.
 
-
 ## Abschnitt 2 - Gemeinsame Vorschriften für Arbeitsmittel
-
-
 
 ### § 3 Gefährdungsbeurteilung
 
@@ -363,7 +356,6 @@ notwendigen Voraussetzungen zu ermitteln und festzulegen, welche die
 Personen erfüllen müssen, die von ihm mit der Prüfung oder Erprobung
 von Arbeitsmitteln zu beauftragen sind.
 
-
 ### § 4 Anforderungen an die Bereitstellung und Benutzung der Arbeitsmittel
 
 (1) Der Arbeitgeber hat die nach den allgemeinen Grundsätzen des § 4
@@ -396,7 +388,6 @@ Arbeitsorganisation, Arbeitsablauf und Arbeitsaufgabe zu
 berücksichtigen; dies gilt insbesondere für die Körperhaltung, die
 Beschäftigte bei der Benutzung der Arbeitsmittel einnehmen müssen.
 
-
 ### § 5 Explosionsgefährdete Bereiche
 
 (1) Der Arbeitgeber hat explosionsgefährdete Bereiche im Sinne von § 2
@@ -405,7 +396,6 @@ der Gefährdungsbeurteilung gemäß § 3 in Zonen einzuteilen.
 
 (2) Der Arbeitgeber hat sicherzustellen, dass die Mindestvorschriften
 des Anhangs 4 angewendet werden.
-
 
 ### § 6 Explosionsschutzdokument
 
@@ -450,7 +440,6 @@ Durchführung dieser Koordinierung.
 vorhandene Gefährdungsbeurteilungen, Dokumente oder andere
 gleichwertige Berichte verwendet werden, die auf Grund von
 Verpflichtungen nach anderen Rechtsvorschriften erstellt worden sind.
-
 
 ### § 7 Anforderungen an die Beschaffenheit der Arbeitsmittel
 
@@ -512,7 +501,6 @@ bereitgestellt worden sind und
 die Arbeitsmittel während der gesamten Benutzungsdauer den
 Anforderungen der Absätze 1 bis 4 entsprechen.
 
-
 ### § 8 Sonstige Schutzmaßnahmen
 
 Ist die Benutzung eines Arbeitsmittels mit einer besonderen Gefährdung
@@ -520,7 +508,6 @@ für die Sicherheit oder Gesundheit der Beschäftigten verbunden, hat
 der Arbeitgeber die erforderlichen Maßnahmen zu treffen, damit die
 Benutzung des Arbeitsmittels den hierzu beauftragten Beschäftigten
 vorbehalten bleibt.
-
 
 ### § 9 Unterrichtung und Unterweisung
 
@@ -558,10 +545,6 @@ Arbeitgeber die erforderlichen Vorkehrungen zu treffen, damit
     Umbauarbeiten beauftragten Beschäftigten eine angemessene spezielle
     Unterweisung erhalten.
 
-
-
-
-
 ### § 10 Prüfung der Arbeitsmittel
 
 (1) Der Arbeitgeber hat sicherzustellen, dass die Arbeitsmittel, deren
@@ -595,7 +578,6 @@ ihren sicheren Betrieb geprüft werden.
 (4) Der Arbeitgeber hat sicherzustellen, dass die Prüfungen auch den
 Ergebnissen der Gefährdungsbeurteilung nach § 3 genügen.
 
-
 ### § 11 Aufzeichnungen
 
 Der Arbeitgeber hat die Ergebnisse der Prüfungen nach § 10
@@ -607,10 +589,7 @@ Abs. 1 und 2 unterliegen, außerhalb des Unternehmens verwendet, ist
 ihnen ein Nachweis über die Durchführung der letzten Prüfung
 beizufügen.
 
-
 ## Abschnitt 3 - Besondere Vorschriften für überwachungsbedürftige Anlagen
-
-
 
 ### § 12 Betrieb
 
@@ -651,7 +630,6 @@ Befreiungsmaßnahmen sachgerecht durchgeführt werden.
 (5) Eine überwachungsbedürftige Anlage darf nicht betrieben werden,
 wenn sie Mängel aufweist, durch die Beschäftigte oder Dritte gefährdet
 werden können.
-
 
 ### § 13 Erlaubnisvorbehalt
 
@@ -724,7 +702,6 @@ Aufnahme, Änderung oder Ergänzung von Auflagen ist zulässig.
 (6) Absatz 1 findet keine Anwendung auf überwachungsbedürftige Anlagen
 der Wasser- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und
 der Bundespolizei.
-
 
 ### § 14 Prüfung vor Inbetriebnahme
 
@@ -931,7 +908,6 @@ Sinne des § 1 Abs. 2 Satz 1 Nr. 4 Buchstabe d.
 
 (8) Absatz 3 findet keine Anwendung auf Füllanlagen im Sinne des § 2
 Abs. 12 Nr. 2 und 3.
-
 
 ### § 15 Wiederkehrende Prüfungen
 
@@ -1302,10 +1278,6 @@ Personen durchgeführt werden. Für die innere Prüfung gilt § 15 Abs.
 
 2.  Entleerstellen im Sinne des § 1 Abs. 2 Satz 1 Nr. 4 Buchstabe d.
 
-
-
-
-
 ### § 16 Angeordnete außerordentliche Prüfung
 
 (1) Die zuständige Behörde kann im Einzelfall eine außerordentliche
@@ -1321,14 +1293,12 @@ Mängel aufweist.
 (3) Der Betreiber hat eine angeordnete Prüfung unverzüglich zu
 veranlassen.
 
-
 ### § 17 Prüfung besonderer Druckgeräte
 
 Für die in Anhang 5 genannten überwachungsbedürftigen Anlagen, die
 Druckgeräte sind oder beinhalten, sind die nach den §§ 14 und 15
 vorgesehenen Prüfungen mit den sich aus den Vorschriften des Anhangs 5
 ergebenden Maßgaben durchzuführen.
-
 
 ### § 18 Unfall- und Schadensanzeige
 
@@ -1362,10 +1332,6 @@ insbesondere auf die Feststellung zu erstrecken,
 3.  ob neue Erkenntnisse gewonnen worden sind, die andere oder zusätzliche
     Schutzvorkehrungen erfordern.
 
-
-
-
-
 ### § 19 Prüfbescheinigungen
 
 (1) Über das Ergebnis der nach diesem Abschnitt vorgeschriebenen oder
@@ -1377,13 +1343,11 @@ Ergebnis aufzuzeichnen.
 Betriebsort der überwachungsbedürftigen Anlage aufzubewahren und der
 zuständigen Behörde auf Verlangen vorzuzeigen.
 
-
 ### § 20 Mängelanzeige
 
 Hat die zugelassene Überwachungsstelle bei einer Prüfung Mängel
 festgestellt, durch die Beschäftigte oder Dritte gefährdet werden, so
 hat sie dies der zuständigen Behörde unverzüglich mitzuteilen.
-
 
 ### § 21 Zugelassene Überwachungsstellen
 
@@ -1469,7 +1433,6 @@ Die Benennung nach Satz 1 ist zu beschränken auf Prüfungen an
 3 und 4 einschließlich der Einrichtungen im Sinne des § 1 Abs. 2 Satz
 2\.
 
-
 ### § 22 Aufsichtsbehörden für überwachungsbedürftige Anlagen des Bundes
 
 Aufsichtsbehörde für überwachungsbedürftige Anlagen der Wasser- und
@@ -1478,7 +1441,6 @@ Bundespolizei ist das zuständige Bundesministerium oder die von ihm
 bestimmte Behörde. Für andere überwachungsbedürftige Anlagen, die der
 Aufsicht durch die Bundesverwaltung unterliegen, gilt § 38 Absatz 1
 des Produktsicherheitsgesetzes.
-
 
 ### § 23 Innerbetrieblicher Einsatz ortsbeweglicher Druckgeräte
 
@@ -1513,10 +1475,7 @@ Prüfung festgelegten Frist ist unter Beachtung der Verpflichtungen des
 § 12 Abs. 3 und 5 gestattet. Das Bereitstellen für die Entleerung darf
 zehn Jahre nicht überschreiten.
 
-
 ## Abschnitt 4 - Gemeinsame Vorschriften, Schlussvorschriften
-
-
 
 ### § 24 Ausschuss für Betriebssicherheit
 
@@ -1593,7 +1552,6 @@ erteilen.
 (8) Die Geschäfte des Ausschusses führt die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin.
 
-
 ### § 25 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
@@ -1651,10 +1609,6 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 16 Abs. 3 eine vollziehbar angeordnete Prüfung nicht oder
     nicht rechtzeitig veranlasst.
 
-
-
-
-
 ### § 26 Straftaten
 
 (1) Wer durch eine in § 25 Abs. 1 bezeichnete vorsätzliche Handlung
@@ -1665,7 +1619,6 @@ Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr.
 oder durch eine solche Handlung Leben oder Gesundheit eines Anderen
 oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 40 des
 Produktsicherheitsgesetzes strafbar.
-
 
 ### § 27 Übergangsvorschriften
 
@@ -1697,7 +1650,6 @@ bezüglich ihrer betrieblichen Anforderungen bis zur Überarbeitung
 durch den Ausschuss für Betriebssicherheit und ihrer Bekanntgabe durch
 das Bundesministerium für Arbeit und Soziales, längstens jedoch bis
 zum 31. Dezember 2012, fort.
-
 
 ### Anhang 1 Mindestvorschriften für Arbeitsmittel gemäß § 7 Abs. 1 Nr. 2
 
@@ -2224,13 +2176,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Buchstabe a genannten Gefährdungen durch keinerlei
         Sicherheitsvorrichtungen vermieden werden, muss das Arbeitsmittel
         einen erhöhten Sicherheitskoeffizienten aufweisen.
-
-
-
-
-
-
-
 
 ### Anhang 2 Mindestvorschriften zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Benutzung von Arbeitsmitteln
 
@@ -2779,13 +2724,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3793 - 3798
         ergriffen werden, um die Sicherheit der Beschäftigten zu
         gewährleisten.
 
-
-
-
-
-
-
-
 ### Anhang 3 Zoneneinteilung explosionsgefährdeter Bereiche
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3798
@@ -2855,10 +2793,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3798
     explosionsfähige Atmosphäre in Form einer Wolke aus in der Luft
     enthaltenem brennbaren Staub normalerweise nicht oder aber nur
     kurzzeitig auftritt.
-
-
-
-
 
 ### Anhang 4
 
@@ -3056,13 +2990,6 @@ B.  Kriterien für die Auswahl von Geräten und Schutzsystemen
 
     -   in Zone 2 oder Zone 22: Geräte der Kategorie 1, der Kategorie 2 oder
         der Kategorie 3.
-
-
-
-
-
-
-
 
 ### Anhang 5 Prüfung besonderer Druckgeräte nach § 17
 

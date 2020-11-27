@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.5.2012 I 1204
 
-
 ## § 1
 
 Arzneimittel,
@@ -44,7 +43,6 @@ dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder
 tierärztlichen Verschreibung abgegeben werden
 (verschreibungspflichtige Arzneimittel), soweit in den nachfolgenden
 Vorschriften nichts anderes bestimmt ist.
-
 
 ## § 2
 
@@ -154,7 +152,6 @@ Form, ein geeignetes elektronisches Identifikationsverfahren.
 (8) Ist die Verschreibung für ein Krankenhaus bestimmt, kann sie auch
 ausschließlich mit Hilfe eines Telefaxgerätes übermittelt werden.
 
-
 ## § 3
 
 Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in
@@ -175,7 +172,6 @@ die Durchschriften zeitlich geordnet fünf Jahre aufzubewahren und der
 zuständigen Behörde auf Verlangen zur Einsichtnahme vorzulegen. Für
 Verschreibungen in elektronischer Form gelten die Sätze 1 bis 7
 entsprechend.
-
 
 ## § 3a
 
@@ -235,7 +231,6 @@ Muster des Vordrucks nach Absatz 1 Satz 1 öffentlich bekannt.
 Medizinprodukte vierteljährlich die Durchschriften der Vordrucke nach
 Absatz 1 Satz 1.
 
-
 ## § 4
 
 (1) Erlaubt die Anwendung eines verschreibungspflichtigen
@@ -255,7 +250,6 @@ Verschreibung nicht der schriftlichen oder elektronischen Form. Absatz
 Arzneimittels auf dieselbe Verschreibung über die verschriebene Menge
 hinaus ist unzulässig.
 
-
 ## § 5
 
 Von der Verschreibungspflicht sind Arzneimittel ausgenommen, die aus
@@ -269,7 +263,6 @@ dieser Arzneimittel im Fertigprodukt die vierte Dezimalpotenz nicht
 verschreibungspflichtigen Stoffen und Zubereitungen aus Stoffen
 gemischt werden.
 
-
 ## § 6
 
 Von der Verschreibungspflicht nach § 48 Abs. 1 Satz 1 Nr. 2 des
@@ -278,16 +271,13 @@ Anlage 2 aufgeführter Stoff, dessen Zubereitung oder Salz sind, noch
 einen solchen Stoff, eine solche Zubereitung oder ein solches Salz
 enthalten.
 
-
 ## § 7
 
 (weggefallen)
 
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## § 9
 
@@ -297,7 +287,6 @@ Tierarzneimittel, das ausschließlich zur Anwendung bei den in § 60
 Absatz 1 des Arzneimittelgesetzes genannten Tierarten bestimmt und vor
 dem 1. Januar 2010 in Verkehr gebracht worden ist, noch bis zum 1.
 Januar 2012 ohne Verschreibung abgegeben werden.
-
 
 ## Anlage 1 (zu § 1 Nr. 1 und § 5) Stoffe und Zubereitungen nach § 1 Nr. 1
 
@@ -3140,7 +3129,6 @@ und
 in die Gebärmutter und im Rahmen der Veterinärmedizin zusätzlich in
 Scheide und Euter der Tiere**
 **Zuclopenthixol**              und seine Ester
-
 
 ## Anlage 2 (zu § 6) Stoffe nach § 6
 

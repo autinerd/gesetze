@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 58
 
-
 ## Eingangsformel
 
 Auf Grund des § 44a Absatz 3 in Verbindung mit § 75 Absatz 4 Satz 2
@@ -25,7 +24,6 @@ Bekanntmachung vom 22. August 2011 (BGBl. I S. 1770) verordnet das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
-
 
 ## § 1 Mitteilungspflicht
 
@@ -68,7 +66,6 @@ Lebensmittel- und Futtermittelgesetzbuches nur für Dibenzo-p-dioxine,
 Dibenzofurane und dioxinähnliche polychlorierte Biphenyle als
 Stoffgruppe.
 
-
 ## § 2 Mitteilungen der Lebensmittel- und Futtermittelunternehmer
 
 (1) Die Mitteilung nach § 44a Absatz 1 Satz 1 des Lebensmittel- und
@@ -104,7 +101,6 @@ erlassenen Rechtsverordnung oder in einem unmittelbar geltenden
 Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union
 festgesetzter Höchstgehalt überschritten worden ist.
 
-
 ## § 3 Übermittlungen der zuständigen Behörden
 
 (1) Die Übermittlung in anonymisierter Form nach § 44a Absatz 2 Satz 1
@@ -123,22 +119,18 @@ elektronisch vorzunehmen.
 (2) Die Übermittlung ist bis zum 15. Tag eines Monats für den Vormonat
 vorzunehmen.
 
-
 ## § 4 Nicht mehr anzuwendende Vorschriften
 
 § 75 Absatz 4 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches
 ist nicht mehr anzuwenden.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2012 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a) Kongenere von Dibenzo-p-dioxinen und Dibenzofuranen
 
@@ -245,7 +237,6 @@ O = Octa
 CDD = Chlordibenzodioxin
 CDF = Chlordibenzofuran
 
-
 ## Anlage 2 (zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b) Kongenere von dioxinähnlichen polychlorierten Biphenylen
 
 (Fundstelle: BGBl. I 2012, 61)
@@ -315,9 +306,6 @@ CDF = Chlordibenzofuran
 
     *   2,3,3',4,4',5,5'-Heptachlorbiphenyl (PCB 189)
 
-
-
-
 ## Anlage 3 (zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c) Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen
 
 (Fundstelle: BGBl. I 2012, 62)
@@ -356,9 +344,6 @@ CDF = Chlordibenzofuran
 *    *   6
 
     *   2,2',3,4,4',5,5'-Heptachlorbiphenyl (PCB 180)
-
-
-
 
 ## Anlage 4 (zu § 2 Absatz 1 Satz 1)
 
@@ -774,10 +759,6 @@ c)                                                   Im Fall des § 1
 Satz 2 sind die Konzentrationen in Biologischen Toxizitätsäquivalenten
 (BEQ) anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung
 ermittelt worden sind.
-
-
-
-
 
 ## Anlage 5 (zu § 3 Absatz 1 Nummer 1)
 

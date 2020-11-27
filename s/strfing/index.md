@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 285 V v. 31.10.2006 I 2407
 
-
 ## Abschnitt I - Finanzierung des Ausbaus der Bundesfernstraßen
-
-
 
 ### Art 1 Zweckbindung des Aufkommens der Mineralölsteuer
 
@@ -37,7 +34,6 @@ Verbrauchsteueränderungsgesetzes 1988 vom 20. Dezember 1988 (BGBl. I
 S. 2270) und der Änderung von §§ 2, 8 Abs. 2 und § 15b des
 Mineralölsteuergesetzes durch Artikel 3 Nr. 1, 2 und 5 des Gesetzes
 vom 24. Juni 1991 (BGBl. I S. 1318) ergibt.
-
 
 ### Art 2 Vorfinanzierung
 
@@ -64,7 +60,6 @@ Gewährung von Darlehen, für die der Bund nach Absatz 2 Sicherheit
 leistet, sowie der erste Erwerb verzinslicher Forderungsrechte gegen
 die Gesellschaft sind von der Besteuerung nach dem
 Kapitalverkehrsteuergesetz ausgenommen.
-
 
 ### Art 3 Verwendung der Straßenbaumittel
 
@@ -111,14 +106,9 @@ Rechnungsjahr veranschlagten Vorhaben ausführen lassen.
 (4) Die Vorschriften über die Aufstellung und Feststellung des
 Bundeshaushaltsplans gelten sinngemäß für den Straßenbauplan.
 
-
 ## Abschnitt II - Änderung mineralölsteuerrechtlicher Vorschriften
 
-
-
 ### (XXXX) Art 4 bis 8
-
-
 
 ### Art 9 Betriebsbeihilfe für den Werkfernverkehr im Zonenrandgebiet und in den Frachthilfegebieten
 
@@ -174,24 +164,17 @@ Verbrauches 8,30 DM angesetzt.
 werden, daß diese einen Betrag von 200 Deutsche Mark für den
 Abrechnungszeitraum übersteigen.
 
-
 ## Abschnitt III
-
-
 
 ### Art 10
 
 -
 
-
 ### Art 11
 
 -
 
-
 ## Abschnitt IV - Geltung im Land Berlin
-
-
 
 ### Art 12
 
@@ -205,10 +188,7 @@ Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Kraftfahrzeugsteuergesetzes vom 3. August 1950 (Verordnungsblatt für
 Groß-Berlin I S. 379) bleibt unberührt.
 
-
 ## Abschnitt V
-
-
 
 ### Art 13 Abwicklung von Ausgaberesten
 
@@ -222,15 +202,11 @@ außerplanmäßig bereitgestellte Mittel zur Durchführung von
 Straßenbaumaßnahmen sind aus den nach Artikel 1 und 2 dieses Gesetzes
 zweckgebundenen Mitteln zu decken.
 
-
 ## Abschnitt VI - Schlußvorschriften
-
-
 
 ### Art 14
 
 -
-
 
 ### Art 15 Inkrafttreten
 

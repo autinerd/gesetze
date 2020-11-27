@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1970, Nr 76
 
-
-
 ## (XXXX)
 
 Soweit durch Rechtsvorschriften des Bundes nichts anderes bestimmt

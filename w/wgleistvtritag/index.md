@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1963, 791
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -34,7 +31,6 @@ nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind,
 sowie dem dazugehörigen Briefwechsel vom gleichen Tage wird
 zugestimmt. Der Vertrag und der Briefwechsel werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -66,7 +62,6 @@ gestellt werden.
 (4) Das Verfahren in den Fällen der Absätze 1 bis 3 bestimmt sich im
 einzelnen nach den Bestimmungen des Bundesentschädigungsgesetzes.
 
-
 ## Art 3
 
 (1) Die Bestimmung des Artikels 77 Abs. 4 des Friedensvertrags mit
@@ -86,12 +81,10 @@ der hiernach zuständigen Kammer zu beantragen. Auf das Verfahren
 findet § 42 Abs. 5 des Bundesrückerstattungsgesetzes entsprechende
 Anwendung.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

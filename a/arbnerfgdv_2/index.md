@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 31.7.2009 I 2521
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 des Gesetzes über Arbeitnehmererfindungen vom 25.
 Juli 1957 (Bundesgesetzbl. I S. 756) wird im Einvernehmen mit dem
 Bundesminister für Arbeit verordnet:
-
 
 ## § 1 Voraussetzungen für die Bestellung als Beisitzer
 
@@ -58,7 +56,6 @@ bestellt werden.
 
 (4) Niemand darf zugleich Beisitzer der Arbeitgeberseite und der
 Arbeitnehmerseite sein.
-
 
 ## § 2 Beisitzer aus Kreisen der Arbeitgeber
 
@@ -96,10 +93,6 @@ werden
     Vereinigungen, wenn diese Personen kraft Satzung oder Vollmacht zur
     Vertretung befugt sind.
 
-
-
-
-
 ## § 3 Beisitzer aus Kreisen der Arbeitnehmer
 
 (1) Beisitzer aus Kreisen der Arbeitnehmer kann auch sein, wer
@@ -111,7 +104,6 @@ Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer
 Zwecksetzung sowie Vorstandsmitglieder und Angestellte von
 Zusammenschlüssen von Gewerkschaften gleich, wenn diese Personen kraft
 Satzung oder Vollmacht zur Vertretung befugt sind.
-
 
 ## § 4 Vorschlagslisten
 
@@ -147,7 +139,6 @@ des Patentamts von der Organisation, die den Beisitzer vorgeschlagen
 hat, unverzüglich mitzuteilen. Sie werden vom Präsidenten des
 Patentamts in der Vorschlagsliste vermerkt.
 
-
 ## § 5 Ehrenamt
 
 (1) Das Amt des Beisitzers ist ein Ehrenamt.
@@ -158,7 +149,6 @@ zu verpflichten. Er soll die Beisitzer auf § 24 des Gesetzes über
 Arbeitnehmererfindungen hinweisen. Über die Verpflichtung soll eine
 Niederschrift aufgenommen werden, die der Verpflichtete mit zu
 unterzeichnen hat.
-
 
 ## § 6 Zurückziehung eines Beisitzers
 
@@ -176,7 +166,6 @@ Schiedsverfahrens wirksam.
 (3) Der Präsident des Patentamts hat die Zurückziehung dem
 vorgeschlagenen Beisitzer unverzüglich schriftlich mitzuteilen.
 
-
 ## § 7 Abberufung eines Beisitzers
 
 (1) Der Präsident des Patentamts darf einen vorgeschlagenen Beisitzer
@@ -192,7 +181,6 @@ verletzt.
 
 (3) Vor der Abberufung ist der Beisitzer zu hören.
 
-
 ## § 8 Entschädigung der Beisitzer
 
 Die Beisitzer erhalten eine Entschädigung nach Maßgabe der §§ 2, 3, 5
@@ -203,11 +191,9 @@ Festsetzung ist das Verwaltungsgericht zuständig, in dessen Bezirk die
 Schiedsstelle ihren Sitz hat. Die Festsetzung kann von dem
 Vorsitzenden der Schiedsstelle auf das Patentamt übertragen werden.
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Beisitzer aus Kreisen der Beamten und Soldaten
 
@@ -215,21 +201,17 @@ Für den öffentlichen Dienst sind, soweit es sich um Beamte und
 Soldaten handelt, die Vorschriften dieser Verordnung entsprechend
 anzuwenden.
 
-
 ## § 11 (weggefallen)
 
 -
-
 
 ## § 12 (weggefallen)
 
 -
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1960, Nr 53
 
-
-
 ## I.
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des
@@ -47,15 +45,10 @@ sind:
 
     Britische Botschaft in Peking.
 
-
-
-
-
 ## II.
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
-
 
 ## Schlußformel
 

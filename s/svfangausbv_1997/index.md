@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 57 G v. 24.3.1997 I 594
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -30,7 +29,6 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 (BGBl. I S. 3667) verordnet das Bundesministerium für Arbeit und
 Sozialordnung im Einvernehmen mit dem Bundesministerium für Bildung,
 Wissenschaft, Forschung und Technologie:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -58,11 +56,9 @@ wird staatlich anerkannt.
 
 gewählt werden.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -276,10 +272,6 @@ E.  in der Fachrichtung landwirtschaftliche Sozialversicherung:
 4.3 Leistungen in der Krankenversicherung der Landwirte und in der
     landwirtschaftlichen Pflegeversicherung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -300,7 +292,6 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 bis 13 nachzuweisen.
 
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Während der Berufsausbildung beim Versicherungsträger soll der
@@ -319,12 +310,10 @@ Einrichtungen systematisch zu vermitteln und zu vertiefen. Diese
 Ausbildungsmaßnahmen sind zeitlich unter Beachtung der Pflicht des
 Auszubildenden zum Besuch der Berufsschule zu organisieren.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -332,7 +321,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -364,7 +352,6 @@ Prüfungsfächern durchzuführen:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die Prüfung in programmierter Form
 durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung allgemeine Krankenversicherung
 
@@ -459,7 +446,6 @@ schriftlichen Prüfungsfächer das doppelte Gewicht. Werden die
 Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen
 Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
 ## § 10 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Unfallversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung gesetzliche
@@ -553,7 +539,6 @@ Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
 Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## § 11 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Rentenversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung gesetzliche
@@ -646,7 +631,6 @@ des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche
 Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
 Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
-
 
 ## § 12 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung knappschaftliche Sozialversicherung
 
@@ -744,7 +728,6 @@ Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
 Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## § 13 Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung landwirtschaftliche Sozialversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung landwirtschaftliche
@@ -841,7 +824,6 @@ Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem
 Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet,
 ist die Prüfung nicht bestanden.
 
-
 ## § 14 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -849,11 +831,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 15 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung allgemeine Krankenversicherung
 
@@ -2063,7 +2043,6 @@ fortzuführen.
 \*1) Abschnitt II.
 \*2) Abschnitt I.
 
-
 ## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1989 - 1995)
@@ -3171,7 +3150,6 @@ fortzuführen.
 ----------
 1)                Abschnitt I.
 2)                Abschnitt II.
-
 
 ## Anlage 3 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Rentenversicherung
 
@@ -4779,7 +4757,6 @@ fortzuführen.
 ----------
 \*1) Abschnitt I.
 \*2) Abschnitt II.
-
 
 ## Anlage 4 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung knappschaftliche Sozialversicherung
 
@@ -6405,7 +6382,6 @@ fortzuführen.
 ----------
 \*1) Abschnitt I.
 \*2) Abschnitt II.
-
 
 ## Anlage 5 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung landwirtschaftliche Sozialversicherung
 

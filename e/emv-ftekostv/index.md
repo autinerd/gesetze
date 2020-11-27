@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 22 Abs. 5 G v. 26.2.2008 I 220
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 3 des Gesetzes über die elektromagnetische
@@ -32,7 +31,6 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Wirtschaft und Technologie im Einvernehmen
 mit dem Bundesministerium der Finanzen:
 
-
 ## § 1 Gebühren und Auslagen
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
@@ -41,7 +39,6 @@ elektromagnetische Verträglichkeit von Betriebsmitteln und § 16 Abs. 1
 des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen
 genannten Amtshandlungen für die Marktaufsicht und Störungsbearbeitung
 Gebühren nach dem anliegenden Gebührenverzeichnis.
-
 
 ## § 2 Gebühren bei Widerspruch
 
@@ -57,7 +54,6 @@ Gebühr höchstens 10 Prozent des streitigen Betrages, mindestens jedoch
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
 Gebühr höchstens 75 Prozent der Widerspruchsgebühr.
 
-
 ## § 3 Gebühren bei Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
@@ -65,11 +61,9 @@ eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

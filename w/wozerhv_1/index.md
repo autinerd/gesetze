@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 1009
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in
@@ -30,7 +28,6 @@ Bekanntmachung vom 10. Juni 1980 (Amtsblatt des Saarlandes S. 802),
 der durch Artikel 3 des Gesetzes vom 21. Juli 1982 (BGBl. I S. 969)
 eingefügt worden ist, verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
-
 
 ## § 1 Anwendungsbereich
 
@@ -51,7 +48,6 @@ worden sind.
 
 (2) Diese Verordnung gilt nicht für Wohnheime (§ 15 des Zweiten
 Wohnungsbaugesetzes).
-
 
 ## § 2 Zinserhöhung
 
@@ -102,10 +98,6 @@ bei einem Wegfall
 
 2.  innerhalb von sechs Monaten ab dem maßgebenden Zeitpunkt auf den
     Beginn des übernächsten Zahlungsabschnittes.
-
-
-
-
 
 ## § 3 Begrenzung der Zinserhöhung insbesondere bei Mietwohnungen
 
@@ -161,13 +153,11 @@ des § 2 Abs. 3 Nr. 2, ist sie wie folgt begrenzt:
 (2) Die Begrenzung der Zinserhöhung nach Absatz 1 Nr. 3 setzt voraus,
 daß der Darlehnsschuldner sie nach Maßgabe des § 6 geltend macht.
 
-
 ## § 4 Begrenzung der Zinserhöhung bei Familienheimen und Eigentumswohnungen
 
 Betrifft die Zinserhöhung nach § 2 Abs. 1 und 2 Wohnungen im Sinne des
 § 2 Abs. 3 Nr. 1, ist sie so begrenzt, daß die monatliche
 Mehrbelastung 100 Deutsche Mark je Wohnung nicht übersteigt.
-
 
 ## § 5 Sonderregelung für gemischt geförderten Wohnraum
 
@@ -208,7 +198,6 @@ Darlehen aus Wohnungsfürsorgemitteln nach den §§ 18c und 18d Abs. 3
 des Wohnungsbindungsgesetzes von der darlehnsverwaltenden Stelle
 festgesetzt.
 
-
 ## § 6 Ausschlußfrist
 
 Einwendungen gegen die Auswirkungen der Zinserhöhung nach dieser
@@ -218,13 +207,11 @@ gemacht werden. Die darlehnsverwaltende Stelle hat den
 Darlehnsschuldner in der Mitteilung über die Höherverzinsung auf die
 Ausschlußfrist hinzuweisen.
 
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 125 des Zweiten Wohnungsbaugesetzes auch im Land
 Berlin.
-
 
 ## § 8 Inkrafttreten
 

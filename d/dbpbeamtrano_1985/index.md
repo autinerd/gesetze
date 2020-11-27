@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 778
 
-
-
 ## 1.
 
 
@@ -58,17 +56,12 @@ Fundstelle
     Januar 1980 (BGBl. I S. 88),                    Beamten
     Jubiläumszuwendungen zu gewähren oder zu versagen.
 
-
-
-
-
 ## 2.
 
 Bei Belohnungen oder Geschenken, die einem Beamten nach Beendigung des
 Beamtenverhältnisses gewährt werden, ist für Entscheidungen nach
 Abschnitt 1 Nr. 1.1 dieser Anordnung diejenige Behörde zuständig,
 deren Geschäftsbereich der Beamte zuletzt angehört hat.
-
 
 ## 3.
 
@@ -112,10 +105,6 @@ deren Geschäftsbereich der Beamte zuletzt angehört hat.
     Beamten mit Versorgungsbezügen die Aufnahme einer Beschäftigung oder
     Erwerbstätigkeit zu untersagen.
 
-
-
-
-
 ## 4.
 
 Soweit Ruhestandsbeamten und früheren Beamten mit Versorgungsbezügen
@@ -124,7 +113,6 @@ ist für Entscheidungen nach Abschnitt 3 Nr. 3.3 dieser Anordnung
 diejenige Behörde zuständig, deren Geschäftsbereich der
 Ruhestandsbeamte und frühere Beamte mit Versorgungsbezügen vor
 Beendigung des Beamtenverhältnisses zuletzt angehört hat.
-
 
 ## 5.
 
@@ -145,18 +133,15 @@ nach § 60 des Bundesbeamtengesetzes einem Beamten aus zwingenden
 dienstlichen Gründen die Führung seiner Dienstgeschäfte verbieten
 dürfen.
 
-
 ## 6.
 
 Für besondere Fälle behalte ich mir Entscheidungen nach den
 Abschnitten 1 bis 5 dieser Anordnung vor.
 
-
 ## 7.
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im
 Bundesgesetzblatt in Kraft.
-
 
 ## Schlußformel
 

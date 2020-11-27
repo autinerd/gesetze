@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 17.7.2009 I 1990
 
-
-
 ## Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
@@ -36,10 +34,6 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
     (BGBl. I S. 3288) im Einvernehmen mit dem Bundesministerium für
     Wirtschaft und Technologie und dem Bundesministerium für Ernährung,
     Landwirtschaft und Forsten:
-
-
-
-
 
 ## § 1
 
@@ -63,7 +57,6 @@ Fütterungsarzneimittel gelten die Bestimmungen des Futtermittelrechts.
 zu Grunde zu legen, die eine gegebenenfalls vorhandene heterogene
 Verteilung der Aflatoxine berücksichtigen.
 
-
 ## § 2
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird
@@ -78,12 +71,10 @@ verwendet.
 (3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
-
 ## § 3
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 siebten Kalendermonats in Kraft.
-
 
 ## Schlussformel
 

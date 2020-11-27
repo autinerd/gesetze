@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1967, 2098
 
-
-
 ## § 1
 
 Das staatliche Schleppmonopol auf dem Rhein-Herne-Kanal mit den
@@ -26,13 +24,11 @@ Kanal, dem Datteln-Hamm-Kanal, dem Mittellandkanal mit seinen
 Zweigkanälen und den Abstiegen zur Weser und zur Leine, auf dem
 Dortmund-Ems-Kanal und der kanalisierten Ems wird aufgehoben.
 
-
 ## § 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 3
 

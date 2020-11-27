@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 1205
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Grundsatz
 
@@ -31,7 +28,6 @@ Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
 Rentenversicherung einschließlich Knappschaftsausgleichsleistungen
 sowie die Altersgelder der Altershilfe für Landwirte zum 1. Januar
 1982 nach den §§ 2 bis 5 dieses Gesetzes angepaßt.
-
 
 ## § 2 Formelrenten
 
@@ -59,7 +55,6 @@ nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
 wird nach Absatz 1 angepaßt.
 
-
 ## § 3 Sonstige Renten und Altersgelder
 
 Renten, die nicht nach § 2 Abs. 1 anzupassen sind, und die
@@ -75,7 +70,6 @@ Arbeiter und der Angestellten ein Betrag in Höhe von 23.146 Deutsche
 Mark und in der knappschaftlichen Rentenversicherung in Höhe von
 23\.393 Deutsche Mark zugrunde zu legen.
 
-
 ## § 4 Allgemeines
 
 (1) Auf die angepaßten Renten sind die allgemeinen Vorschriften über
@@ -89,7 +83,6 @@ bisherigen Betrag, ist dieser weiterzuleisten.
 (3) Bei Anwendung der Vorschriften dieses Gesetzes sind Abrundungen
 zulässig.
 
-
 ## § 5 Berichtigung fehlerhafter Anpassungen
 
 Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist, ist
@@ -97,7 +90,6 @@ sie zu berichtigen. Die Berichtigung ist nur bis zur nächsten
 Anpassung zulässig. Die Leistung ist in ihrer bisherigen Höhe bis zum
 Ablauf des Monats zu erbringen, in dem die Berichtigung erfolgt. Eine
 Rückforderung überzahlter Beträge findet nicht statt.
-
 
 ## § 6 Berlin-Klausel
 

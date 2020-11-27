@@ -24,7 +24,6 @@ Fundstelle
     (EG) Nr. 1430/2007 (ABl. L 320 vom 6.12.2007, S. 3) geändert worden
     ist.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -40,10 +39,6 @@ Verbraucherschutz verordnet
     (BGBl. I S. 900) im Einvernehmen mit dem Bundesministerium für
     Wirtschaft und Technologie:
 
-
-
-
-
 ## § 1 Zweck der Verordnung
 
 (1) Diese Verordnung regelt die Gleichstellung von außerhalb des
@@ -57,7 +52,6 @@ Abschnitten 2 und 3 der Hufbeschlagverordnung vom 15. Dezember 2006
 Anerkennung für Personen mit gleichgestellten Prüfungszeugnissen durch
 die nach Landesrecht zuständigen Behörden nach den §§ 4 und 5 des
 Hufbeschlaggesetzes vom 19. April 2006 (BGBl. I S. 900).
-
 
 ## § 2 Gleichstellung von Prüfungszeugnissen
 
@@ -128,7 +122,6 @@ zum Hufbeschlagschmied/zur Hufbeschlagschmiedin nach der
 Hufbeschlagverordnung nachgewiesenen Fähigkeiten, Kenntnisse und
 Fertigkeiten auszugehen.
 
-
 ## § 3 Staatliche Anerkennung als Hufbeschlagschmied/als Hufbeschlagschmiedin
 
 (1) Der Antrag auf die staatliche Anerkennung als
@@ -153,7 +146,6 @@ hat.
 
 (3) Über die Anerkennung ist eine Urkunde nach § 1 Absatz 1 der
 Hufbeschlagverordnung auszustellen.
-
 
 ## § 4 Staatliche Anerkennung als Hufbeschlaglehrschmied/als Hufbeschlaglehrschmiedin
 
@@ -180,7 +172,6 @@ Tierschutz schuldig gemacht hat.
 (3) Über die Anerkennung ist eine Urkunde nach § 2 Absatz 1 der
 Hufbeschlagverordnung auszustellen.
 
-
 ## § 5 Fristen
 
 (1) Die zuständige Behörde bestätigt der Antrag stellenden Person
@@ -204,7 +195,6 @@ Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom
 1430/2007 (ABl. L 320 vom 6.12.2007, S. 3) geändert worden ist,
 anzuwenden.
 
-
 ## § 6 Übergangsvorschriften
 
 Deutschen Staatsangehörigen, die vor dem 18. März 2009 eine Prüfung im
@@ -215,16 +205,13 @@ Hufbeschlagschmiedin nach der Hufbeschlagverordnung anzuerkennen, wenn
 sie bis zum Ablauf des 17. März 2010 eine Gleichstellung beantragen.
 Im Übrigen gilt § 2 Absatz 1.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Absatz 2) Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
 
@@ -438,10 +425,6 @@ Der Bundesrat hat zugestimmt.
 
 
         **Berufsbezeichnung**                        Patkolókovács
-
-
-
-
 
 ## Anlage 2 (zu § 2 Absatz 3) Der Prüfung gemäß Abschnitt 3 der Hufbeschlagverordnung (Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
 

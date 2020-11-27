@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3415
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 4 des Gesetzes über das Kreditwesen, der durch
@@ -28,7 +26,6 @@ Bundesaufsichtsamt für das Kreditwesen vom 19. Dezember 1997 (BGBl. I
 S. 3156) verordnet das Bundesaufsichtsamt für das Kreditwesen im
 Einvernehmen mit der Deutschen Bundesbank nach Anhörung der
 Spitzenverbände der Institute:
-
 
 ## § 1 Allgemeine Angaben
 
@@ -77,10 +74,6 @@ Ausfertigung einzureichen. Sie müssen folgende Angaben enthalten:
     Wirtschaftsraums erbracht werden, ist die Zulässigkeit dieser
     Tätigkeiten nachzuweisen.
 
-
-
-
-
 ## § 2 Allgemeine Unterlagen
 
 Der Ergänzungsanzeige nach § 1 sind in der ihr entsprechenden Zahl der
@@ -128,7 +121,6 @@ Ausfertigungen folgende Unterlagen beizufügen:
 Für die Ergänzungsanzeige gelten § 1 Abs. 1 Satz 2, 3 und 6 und § 8
 Satz 2 Nr. 1 und 2 der Anzeigenverordnung entsprechend.
 
-
 ## § 3 Finanzkommissionsgeschäft
 
 Anzeigepflichtige, die das Finanzkommissionsgeschäft (§ 1 Abs. 1 Satz
@@ -149,10 +141,6 @@ nach den §§ 1 und 2 einzureichen:
     Gelder (bar oder unbar) oder Wertpapiere des Kunden entgegengenommen
     werden.
 
-
-
-
-
 ## § 4 Emissionsgeschäft
 
 Anzeigepflichtige, die das Emissionsgeschäft (§ 1 Abs. 1 Satz 2 Nr. 10
@@ -172,10 +160,6 @@ den §§ 1 und 2 einzureichen:
     Finanzinstrumenten auf den Geschäftspartner/Kunden übergeht und ob
     Gelder (bar oder unbar) oder Wertpapiere des Kunden entgegengenommen
     werden.
-
-
-
-
 
 ## § 5 Anlage- oder Abschlußvermittlung
 
@@ -206,7 +190,6 @@ und Unterlagen nach den §§ 1 und 2 einzureichen:
 Anlage- oder Abschlußvermittler, die auf eigene Rechnung handeln,
 haben außerdem die in § 7 Nr. 1 geforderten Angaben zu machen.
 
-
 ## § 6 Finanzportfolioverwaltung
 
 Anzeigepflichtige, welche die Finanzportfolioverwaltung (§ 1 Abs. 1a
@@ -233,7 +216,6 @@ Unterlagen nach den §§ 1 und 2 einzureichen:
 Finanzportfolioverwalter, die auf eigene Rechnung handeln, haben
 außerdem die in § 7 Nr. 1 geforderten Angaben zu machen.
 
-
 ## § 7 Eigenhandel
 
 Anzeigepflichtige, die den Eigenhandel (§ 1 Abs. 1a Satz 2 Nr. 4 KWG)
@@ -252,10 +234,6 @@ betreiben, haben zusätzlich zu den Angaben und Unterlagen nach den §§
     Finanzinstrumenten auf den Geschäftspartner/Kunden übergeht und ob
     Gelder (bar oder unbar) oder Wertpapiere des Kunden entgegengenommen
     werden.
-
-
-
-
 
 ## § 8 Drittstaateneinlagenvermittlung
 
@@ -276,10 +254,6 @@ nach den §§ 1 und 2 einzureichen:
 
 
 3.  die Angabe der Währung, in der die Einlage erbracht wird.
-
-
-
-
 
 ## § 9 Finanztransfergeschäft
 
@@ -309,10 +283,6 @@ nach den §§ 1 und 2 einzureichen:
 4.  eine Aufstellung sonstiger Geschäftstätigkeiten außerhalb des
     Finanztransfergeschäftes mit Angabe ihres jeweiligen Umfangs.
 
-
-
-
-
 ## § 10 Sortenhandel
 
 Anzeigepflichtige, die den Sortenhandel (§ 1 Abs. 1a Satz 2 Nr. 7 KWG)
@@ -329,10 +299,6 @@ betreiben, haben zusätzlich zu den Angaben und Unterlagen nach den §§
 
 3.  eine Aufstellung sonstiger Geschäftstätigkeiten außerhalb des
     Sortenhandels mit Angabe ihres jeweiligen Umfangs.
-
-
-
-
 
 ## § 11 Inkrafttreten
 

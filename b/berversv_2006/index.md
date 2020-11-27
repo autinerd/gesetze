@@ -21,7 +21,6 @@ Zuletzt geändert durch
 
 Stand: Ersetzt V 7631-1-20 v. 14.6.1995 I 858 (BerVersV)
 
-
 ## Eingangsformel
 
 Auf Grund des § 55a Abs. 1 und 2 und des § 106 Abs. 2 Satz 4 des
@@ -39,10 +38,7 @@ Aufsichtsbehörden der Länder und nach Anhörung des
 Versicherungsbeirates gemäß § 55a Abs. 2 des
 Versicherungsaufsichtsgesetzes:
 
-
 ## Erster Abschnitt - Interner jährlicher Bericht für die Aufsichtsbehörde
-
-
 
 ### § 1 Interner jährlicher Bericht
 
@@ -74,10 +70,7 @@ zusammensetzt:
 die gemäß § 157a des Versicherungsaufsichtsgesetzes von der laufenden
 Aufsicht freigestellt sind, nicht anzuwenden.
 
-
 ### Erster Unterabschnitt - Bilanz und Gewinn- und Verlustrechnungen
-
-
 
 #### § 2 Formblätter für Bilanz und Gewinn- und Verlustrechnung
 
@@ -91,10 +84,6 @@ Formblättern aufzustellen, und zwar
 
 2.  die Gewinn- und Verlustrechnungen für das gesamte
     Versicherungsgeschäft nach Formblatt 200.
-
-
-
-
 
 #### § 3 Gewinn- und Verlustrechnung der Lebens- und Krankenversicherungsunternehmen
 
@@ -143,7 +132,6 @@ Mitglied- oder Vertragsstaat selbst abgeschlossene
 Versicherungsgeschäft gemäß Absatz 1 Satz 1 Nr. 2 Buchstabe c können
 entfallen, sofern die gebuchten Brutto-Beiträge der einzelnen
 Niederlassung nicht mehr als 500.000 Euro betragen.
-
 
 #### § 4 Gewinn- und Verlustrechnung der Schaden- und Unfallversicherungsunternehmen
 
@@ -281,7 +269,6 @@ Versicherungsgeschäft einen oder mehrere der Versicherungszweige
 betreiben, die in der Anlage 1 Abschnitt C unter den Kennzahlen 03 bis
 25 und 29 aufgeführt sind.
 
-
 #### § 5 Gewinn- und Verlustrechnung in besonderen Fällen
 
 (1) Lebensversicherungsunternehmen, die auch die selbst abgeschlossene
@@ -294,7 +281,6 @@ Seite 5 Zeile 26 aufzustellen.
 abgeschlossene Krankenversicherungsgeschäft betreiben, haben für
 diesen Versicherungszweig eine gesonderte Gewinn- und Verlustrechnung
 nach Formblatt 200 bis einschließlich Seite 5 Zeile 26 aufzustellen.
-
 
 #### § 6 Gewinn- und Verlustrechnung der Rückversicherungsunternehmen
 
@@ -365,7 +351,6 @@ versicherungstechnischen Gewinn- und Verlustrechnungen gemäß Satz 1
 entfallen, soweit ihre Aufstellung nach dem betriebenen
 Versicherungsgeschäft ausscheidet. § 4 Abs. 2 gilt entsprechend.
 
-
 #### § 7 Gewinn- und Verlustrechnung der Pensionskassen
 
 (1) Pensionskassen haben zusätzlich jeweils gesonderte
@@ -385,7 +370,6 @@ versicherungstechnische Gewinn- und Verlustrechnungen nach Formblatt
 
 
 (2) § 3 Abs. 2 gilt entsprechend.
-
 
 #### § 8 Einzelheiten der Formblatteinreichung einschließlich einzuhaltender Fristen
 
@@ -414,10 +398,7 @@ Jahresabschlusses Abweichungen, sind der Aufsichtsbehörde unverzüglich
 nach der Feststellung zusätzlich die insoweit berichtigten Formblätter
 100 und 200 in jeweils doppelter Ausfertigung nachzureichen.
 
-
 ### Zweiter Unterabschnitt - Formgebundene Erläuterungen
-
-
 
 #### § 9 Formgebundene Erläuterungen aller Versicherungsunternehmen
 
@@ -458,7 +439,6 @@ Berechnung gebildet wird.
 (3) Für Rückversicherungsunternehmen entfallen die formgebundenen
 Erläuterungen gemäß Absatz 1 Nr. 2 und 3.
 
-
 #### § 10 Zusätzliche formgebundene Erläuterungen der Lebensversicherungsunternehmen
 
 Lebensversicherungsunternehmen haben zusätzlich folgende formgebundene
@@ -485,10 +465,6 @@ Erläuterungen zu erstellen:
 
 6.  Angaben zum selbst abgeschlossenen Dienstleistungsgeschäft gesondert
     für jeden Mitglied- und Vertragsstaat gemäß Nachweisung 261.
-
-
-
-
 
 #### § 11 Zusätzliche formgebundene Erläuterungen der Pensions- und Sterbekassen
 
@@ -521,10 +497,6 @@ Erläuterungen zu erstellen:
 6.  Angaben zum Auslandsgeschäft gesondert für jeden Mitglied- und
     Vertragsstaat gemäß Nachweisung 265.
 
-
-
-
-
 #### § 12 Zusätzliche formgebundene Erläuterungen der Krankenversicherungsunternehmen
 
 (1) Krankenversicherungsunternehmen haben zusätzlich folgende
@@ -553,7 +525,6 @@ des § 53 Abs. 1 Satz 1 des Versicherungsaufsichtsgesetzes sind und
 deren gebuchte Brutto-Beiträge im vorausgegangenen Geschäftsjahr drei
 Millionen Euro nicht überstiegen haben, entfallen die formgebundenen
 Erläuterungen gemäß Absatz 1 Nr. 3.
-
 
 #### § 13 Zusätzliche formgebundene Erläuterungen der Schaden- und Unfallversicherungsunternehmen
 
@@ -608,7 +579,6 @@ gemäß § 12 vorzulegen. Wird das Krankenversicherungsgeschäft
 ausschließlich nach Art der Schadenversicherung betrieben, entfallen
 die formgebundenen Erläuterungen gemäß § 12 Abs. 1 Nr. 1 und 3.
 
-
 #### § 14 Zusätzliche formgebundene Erläuterungen der Rückversicherungsunternehmen
 
 Rückversicherungsunternehmen haben zusätzlich folgende formgebundene
@@ -621,10 +591,6 @@ Erläuterungen zu erstellen:
 2.  Angaben zu den Beiträgen sowie der Zusammensetzung der Rückstellung
     für noch nicht abgewickelte Versicherungsfälle des in Rückdeckung
     übernommenen Versicherungsgeschäfts gemäß Nachweisung 252.
-
-
-
-
 
 #### § 15 Fristen für die Einreichung
 
@@ -691,10 +657,7 @@ Handelsgesetzbuchs einzuhaltenden Frist aufstellen; ansonsten
 verlängern sich die in Absatz 1 genannten Fristen um jeweils sechs
 Monate, sofern der Abschlussstichtag der 31. Dezember ist.
 
-
 ### Dritter Unterabschnitt - Sonstige Rechnungslegungsunterlagen
-
-
 
 #### § 16 Rechnungslegungsunterlagen aller Versicherungsunternehmen
 
@@ -776,7 +739,6 @@ unterzeichnen. In dieser Ausfertigung ist ferner der Bericht des
 Aufsichtsrats oder des entsprechenden Organs handschriftlich zu
 unterzeichnen.
 
-
 #### § 17 Versicherungsmathematische Gutachten der Pensions- und Sterbekassen
 
 Pensions- und Sterbekassen haben spätestens sieben Monate nach Schluss
@@ -790,10 +752,7 @@ Vereine in Sinne des § 53 Abs. 1 Satz 1 des
 Versicherungsaufsichtsgesetzes sind, ist das Gutachten mindestens zum
 Abschlussstichtag eines jeden dritten Geschäftsjahres vorzulegen.
 
-
 ### Vierter Unterabschnitt - Ergänzende Vorschrift für den internen jährlichen Bericht der ausländischen Versicherungsunternehmen
-
-
 
 #### § 18 Jährlicher Bericht ausländischer Versicherungsunternehmen
 
@@ -855,13 +814,7 @@ genannten, für das gesamte Versicherungsgeschäft einzureichen:
 2.  den der Aufsichtsbehörde im Sitzland vorgelegten Bericht in einfacher
     Ausfertigung spätestens neun Monate nach Schluss des Geschäftsjahres.
 
-
-
-
-
 ## Zweiter Abschnitt - Interner vierteljährlicher Zwischenbericht für die Aufsichtsbehörde
-
-
 
 ### § 19 Vierteljährliche Zwischenberichte durch besondere Versicherungsunternehmen
 
@@ -878,7 +831,6 @@ Angaben gemäß Nachweisung 603 vorzulegen.
 Rückversicherungsunternehmen haben die vierteljährlichen Angaben gemäß
 Nachweisung 604 vorzulegen.
 
-
 ### § 20 Einzelheiten der Einreichung
 
 Die vierteljährlichen Zwischenberichte gemäß § 19 sind der
@@ -886,10 +838,7 @@ Aufsichtsbehörde in jeweils doppelter Ausfertigung spätestens bis zum
 Ende des auf das jeweilige Berichtsvierteljahr folgenden Monats
 einzureichen.
 
-
 ## Dritter Abschnitt - Erleichterungen für kleinere Vereine
-
-
 
 ### § 21 Abgrenzungsmerkmale bestimmter kleinerer Vereine
 
@@ -921,10 +870,6 @@ erleichternde Maßgaben, und zwar für
     vorausgegangenen Geschäftsjahr eine Million Euro nicht überstiegen
     haben.
 
-
-
-
-
 ### § 22 Erleichternde Maßgaben für bestimmte kleinere Vereine
 
 Für die in § 21 genannten Versicherungsunternehmen gelten lediglich
@@ -954,13 +899,7 @@ a und Abs. 2, § 17 sowie §§ 23 bis 25, und zwar mit folgender Maßgabe:
     Versicherungsgeschäfts sind gemäß Nachweisung 342 anstelle von
     Nachweisung 242 zu machen.
 
-
-
-
-
 ## Vierter Abschnitt - Definition des Versicherungszweiges und technische Fragen
-
-
 
 ### § 23 Kennzahlen und Definition des Versicherungszweiges
 
@@ -981,7 +920,6 @@ unter der Kennzahl 28 zusammengefasst. Die Zusammenfassung aller von
 den Schaden- und Unfallversicherungsunternehmen betriebenen
 Versicherungszweige hat die Kennzahl 30.
 
-
 ### § 24 Technik der Erstellung und Anwendung von Formblättern und Nachweisungen
 
 (1) Bei der Anwendung der Formblätter und Nachweisungen sind die sich
@@ -991,10 +929,7 @@ zu beachten.
 (2) Bei der Erstellung der Formblätter und Nachweisungen ist Anlage 2
 Abschnitt C zu beachten.
 
-
 ## Fünfter Abschnitt - Ordnungswidrigkeiten
-
-
 
 ### § 25 Ordnungswidrigkeiten
 
@@ -1011,13 +946,7 @@ Versicherungsunternehmens
 2.  entgegen § 19 eine vierteljährige Angabe nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## Sechster Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 26 Übergangsvorschriften
 
@@ -1046,11 +975,9 @@ Versicherungsberichterstattungs-Verordnung vom 23. Dezember 2011
 (BGBl. I S. 3135) erfolgt sind, ist erstmals für das nach dem 31.
 Dezember 2010 beginnende Geschäftsjahr anzuwenden.
 
-
 ### § 27 Inkrafttreten, Aufhebung geltenden Rechts
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1
 
@@ -4097,7 +4024,6 @@ Geschäftsjahren vorzunehmen, wenn der entsprechend objektiv
 umschriebene Teilbestand mindestens 30 000 Risiken umfasst oder der
 rechnungsmäßige Ertrag mindestens 5 Prozent vom Gesamtertrag der
 jeweiligen Risikoart beträgt.
-
 
 ### Anlage 2
 

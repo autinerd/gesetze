@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1309
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 387 Abs. 2 Satz 1 bis 3 und des § 409 Satz 2 in
 Verbindung mit § 387 Abs. 2 Satz 1 bis 3 der Abgabenordnung in der
 Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003
 I S. 61) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Bußgeld- und Strafsachenstellen
 
@@ -170,7 +167,6 @@ Festsetzung von Kindergeld ist zuständig:
 
 (2) Die Befugnisse der Familienkassen nach § 399 Abs. 2 und § 410 Abs.
 1 Nr. 7 der Abgabenordnung bleiben unberührt.
-
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 

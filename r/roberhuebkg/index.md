@@ -19,18 +19,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 206 V v. 29.10.2001 I 2785
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## Art 1
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 London vom 1. Juni 1972 zur Erhaltung der antarktischen Robben wird
 zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -55,10 +52,6 @@ Bundesministerium für Bildung und Forschung
     der Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des
     Grundgesetzes) kann zum Zwecke der Überwachung eingeschränkt werden.
 
-
-
-
-
 ## Art 3
 
 (1) In den Meeren südlich des sechzigsten Grades südlicher Breite sind
@@ -71,7 +64,6 @@ Tötung und zum Fang erteilen, soweit dies nach Artikel 3 des
 Übereinkommens sind bei Vorliegen der dort genannten Voraussetzungen
 zu erteilen.
 
-
 ## Art 4
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 3 Abs. 1 Robben tötet
@@ -83,13 +75,11 @@ fünfzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt.
 
-
 ## Art 5
 
 Das Bundesamt soll vor Entscheidungen nach Artikel 3 Abs. 2 und
 Artikel 4 Abs. 2 das Alfred-Wegener-Institut für Polarforschung
 anhören.
-
 
 ## Art 6
 

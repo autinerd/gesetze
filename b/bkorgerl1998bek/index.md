@@ -18,7 +18,6 @@ Fundstelle
 Organisationserlass teilweise aufgeh. durch
 :   Ziff. II Nr. 1 Eingangssatz d. Organisationserlasses v. 22.11.2005 I 3197
 
-
 ## Eingangsformel
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
@@ -27,14 +26,12 @@ Kraft tritt:
 "Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
 
-
 ## I.
 
 Das bisherige Bundesministerium für Verkehr und das bisherige
 Bundesministerium für Raumordnung, Bauwesen und Städtebau werden zu
 einem neuen Bundesministerium für Verkehr, Bau- und Wohnungswesen
 zusammengelegt.
-
 
 ## II.
 
@@ -48,10 +45,6 @@ Es erhalten
     Technologie die Bezeichnung Bundesministerium für Bildung und
     Forschung.
 
-
-
-
-
 ## III.
 
 Es wird ein Beauftragter der Bundesregierung für Angelegenheiten der
@@ -61,7 +54,6 @@ Dazu wird dem Geschäftsbereich des Bundeskanzlers aus dem
 Geschäftsbereich des Bundesministeriums für Wirtschaft und Technologie
 die Zuständigkeit des Beauftragten der Bundesregierung für die neuen
 Bundesländer übertragen.
-
 
 ## IV.
 
@@ -114,7 +106,6 @@ Der Beauftragte führt seine inneren Verwaltungsangelegenheiten
 selbständig. In seinem Geschäftsbereich vertritt er die Bundesrepublik
 Deutschland gerichtlich und außergerichtlich.
 
-
 ## V.
 
 Dem Bundesministerium für Finanzen werden übertragen aus dem
@@ -154,7 +145,6 @@ dem Geschäftsbereich des Bundesministeriums für Wirtschaft und
 Technologie die Zuständigkeiten für Beratung/Technische Hilfe
 zugunsten Osteuropas und GUS.
 
-
 ## VI.
 
 Dem Bundesminister für Wirtschaft und Technologie werden aus dem
@@ -163,13 +153,11 @@ Geschäftsbereich des Bundesministeriums für Bildung und Forschung
 für die Förderung technologieorientierter Unternehmensgründungen und
 für die angewandte Energieforschung.
 
-
 ## VII.
 
 Dem Bundesministerium für Gesundheit wird aus dem Geschäftsbereich des
 Bundesministeriums für Arbeit und Sozialordnung übertragen die
 Zuständigkeit für Pflegeversicherung.
-
 
 ## VIII.
 
@@ -177,13 +165,11 @@ Dem Bundesministerium für Arbeit und Sozialordnung wird aus dem
 Geschäftsbereich des Bundesministeriums für Gesundheit übertragen die
 Zuständigkeit für Sozialrecht/Sozialhilfe.
 
-
 ## IX.
 
 Die Einzelheiten des Überganges werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
 Bundeskanzleramtes mitgeteilt."
-
 
 ## Schlußformel
 

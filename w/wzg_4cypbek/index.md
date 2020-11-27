@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 1158
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -27,11 +25,9 @@ landwirtschaftliche Erzeugnisse eingeführt ist.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 20.
 November 1986 (BGBl. I S. 2095).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage Prüf- und Gewährzeichen der Republik Zypern für frische, zum Export bestimmte landwirtschaftliche Erzeugnisse
 

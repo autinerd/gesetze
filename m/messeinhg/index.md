@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 3.7.2008 I 1185
 
-
 ## § 1 Anwendungsbereich
 
 (1) Im amtlichen und geschäftlichen Verkehr sind Größen in
@@ -55,7 +54,6 @@ Schiffs-, Luft- und Eisenbahnverkehr bleibt unberührt. Dasselbe gilt
 für Zeitregelungen, die sich aus der Anwendung anderer Vorschriften
 und internationaler Übereinkommen ergeben.
 
-
 ## § 2 Gesetzliche Einheiten im Meßwesen
 
 Gesetzliche Einheiten im Meßwesen sind
@@ -65,10 +63,6 @@ Gesetzliche Einheiten im Meßwesen sind
 
 2.  dezimale Teile und Vielfache dieser Einheiten, die mit den nach § 3
     Abs. 1 Nr. 3 festgesetzten Vorsätzen bezeichnet sind.
-
-
-
-
 
 ## § 3 Ermächtigung
 
@@ -105,7 +99,6 @@ sachverständiger Stellen verwiesen werden. Hierbei sind in der
 Rechtsverordnung das Datum der Veröffentlichung und die Bezugsquelle
 anzugeben.
 
-
 ## § 4 Gesetzliche Zeit
 
 (1) Die gesetzliche Zeit ist die mitteleuropäische Zeit. Diese ist
@@ -116,7 +109,6 @@ Stunde.
 Sommerzeit die gesetzliche Zeit. Die mitteleuropäische Sommerzeit ist
 bestimmt durch die koordinierte Weltzeit unter Hinzufügung zweier
 Stunden.
-
 
 ## § 5 Ermächtigung zur Einführung der mitteleuropäischen Sommerzeit
 
@@ -133,7 +125,6 @@ Technologie bestimmt in der Rechtsverordnung nach Absatz 1 den Tag und
 die Uhrzeit, zu der die mitteleuropäische Sommerzeit beginnt und
 endet, sowie die Bezeichnung der am Ende der mitteleuropäischen
 Sommerzeit doppelt erscheinenden Stunde.
-
 
 ## § 6 Physikalisch-Technische Bundesanstalt
 
@@ -186,10 +177,6 @@ Einheitlichkeit des Messwesens zu sichern.
 
 4.  zur Einheitlichkeit des internationalen Messwesens beizutragen.
 
-
-
-
-
 ## § 7 Kosten für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 (1) Für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
@@ -207,13 +194,11 @@ veranlasst hat. Der mit der Nutzleistung verbundene Personal- und
 Sachaufwand und ihr wirtschaftlicher Wert für die antragstellende
 Person sind zu berücksichtigen.
 
-
 ## § 8 Zuständige Behörden
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen
 die für die Durchführung dieses Gesetzes zuständigen Behörden, soweit
 nicht die Physikalisch-Technische Bundesanstalt zuständig ist.
-
 
 ## § 9 Auskünfte
 
@@ -226,7 +211,6 @@ Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der
 Zivilprozeßordnung bezeichneten Angehörigen der Gefahr
 strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 über die Ordnungswidrigkeiten aussetzen würde.
-
 
 ## § 10 Bußgeldvorschrift
 

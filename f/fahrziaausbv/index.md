@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1512
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,17 +26,14 @@ und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fahrzeuginnenausstatter/Fahrzeuginnenausstatterin
 wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -52,12 +47,10 @@ Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
 einschließt. Die im Satz 2 beschriebene Befähigung ist auch in den
 Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 4 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 5 Berichtsheft
 
@@ -65,7 +58,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 6 Ausbildungsberufsbild
 
@@ -131,10 +123,6 @@ Qualifikationen:
 
 18. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 7 Ausbildungsrahmenplan
 
 Die in § 6 genannten Qualifikationen sollen nach der in der Anlage
@@ -143,7 +131,6 @@ Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von
 dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
-
 
 ## § 8 Zwischenprüfung
 
@@ -173,7 +160,6 @@ Aufgabenstellungen beinhaltet. Die Prüfung soll in insgesamt höchstens
 neun Stunden durchgeführt werden, wobei die Gesprächsphasen insgesamt
 höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen
 einen zeitlichen Umfang von höchstens 120 Minuten haben.
-
 
 ## § 9 Abschlussprüfung
 
@@ -292,13 +278,11 @@ für die mündlich geprüften Prüfungsbereiche sind das bisherige
 Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im
 Verhältnis 2:1 zu gewichten.
 
-
 ## § 10 Aufheben von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Bildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Fahrzeugpolsterer sind
 nicht mehr anzuwenden.
-
 
 ## § 11 Übergangsregelung
 
@@ -307,11 +291,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
 

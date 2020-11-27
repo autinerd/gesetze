@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,18 +31,15 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Packmitteltechnologen und der
 Packmitteltechnologin wird nach § 4 Absatz 1 des
 Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -58,10 +54,6 @@ Die Berufsausbildung gliedert sich in
 
 3.  zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4
     Absatz 2 Abschnitt B Nummer 2.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -160,10 +152,6 @@ Pflichtqualifikationen nach § 3 Nummer 1:
 
 6.  Betriebliche Managementsysteme.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -183,7 +171,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -261,10 +248,6 @@ folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt drei Stunden.
-
-
-
-
 
 ## § 7 Abschlussprüfung
 
@@ -405,10 +388,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -464,7 +443,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## § 9 Anrechnungsregelung
 
 Nach erfolgreichem Abschluss der Berufsausbildung zum Maschinen- und
@@ -473,14 +451,12 @@ Druckweiter- und Papierverarbeitung kann die Ausbildungsdauer einer
 Berufsausbildung zum Packmitteltechnologen oder zur
 Packmitteltechnologin um zwei Jahre verkürzt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum
 Verpackungsmittelmechaniker/zur Verpackungsmittelmechanikerin vom 5.
 April 2001 (BGBl. I S. 494) außer Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
 

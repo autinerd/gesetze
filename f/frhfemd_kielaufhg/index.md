@@ -15,11 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1713
 
-
 ## § 1
 
 Die Freihäfen Emden und Kiel werden aufgehoben.
-
 
 ## § 2
 

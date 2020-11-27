@@ -17,7 +17,6 @@ Fundstelle
 
 Textnachweis ab: 1.11.2010
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Absatz 2 in Verbindung mit Absatz 3 Satz 1 des
@@ -26,7 +25,6 @@ Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli
 Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 nach Anhörung der Küstenländer:
-
 
 ## § 1 Entgelte und Entgeltberechnung
 
@@ -122,17 +120,12 @@ Bruttoraumzahl zugrunde gelegt:
 6.  bei Schlepp- und Schubverbänden die Summe der nach den Nummern 1 bis 5
     ermittelten Bruttoraumzahl oder Tonnen aller Fahrzeuge des Verbandes.
 
-
-
-
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig
 tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom
 31\. März 1977), die zuletzt durch die Verordnung vom 25. August 2004
 (BAnz. S. 19493) geändert worden ist, außer Kraft.
-
 
 ## Anlage (zu § 1 Absatz 1)
 

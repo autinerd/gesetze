@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 26 G v. 24.2.2012 I 212
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für
@@ -61,7 +60,6 @@ von Altholz.
 Altholz, die von Absatz 1 in Verbindung mit § 2 Nr. 7 nicht erfasst
 wird. Diese Verordnung gilt auch nicht für Anlagen nach § 5 der
 Verordnung über kleine und mittlere Feuerungsanlagen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -172,10 +170,6 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     Kunststoffe oder Folien, die dem Altholz anhaften, beigemengt oder mit
     diesem verbunden sind, soweit diese die Verwertung behindern.
 
-
-
-
-
 ## § 3 Anforderungen an die Verwertung
 
 (1) Zur Gewährleistung einer schadlosen stofflichen Verwertung von
@@ -202,13 +196,11 @@ von Holzwerkstoffen dürfen unterschiedliche Altholzkontingente nur
 miteinander vermischt werden, wenn für jedes der Kontingente die
 Anforderungen des Anhangs II erfüllt sind.
 
-
 ## § 4 Hochwertigkeit der Verwertung
 
 Die Verfahren zur stofflichen Verwertung von Altholz sind hochwertig.
 Satz 1 gilt entsprechend für die Verfahren zur energetischen
 Verwertung von Altholz.
-
 
 ## § 5 Zuordnung zu Altholzkategorien
 
@@ -247,7 +239,6 @@ durchzuführen:
 (2) Aussortiertes Altholz und Störstoffe, für deren weitere Entsorgung
 die Anlage nicht zugelassen ist, sind unverzüglich gesondert
 bereitzustellen und einer zulässigen Entsorgung zuzuführen.
-
 
 ## § 6 Kontrolle von Altholz zur Holzwerkstoffherstellung
 
@@ -341,7 +332,6 @@ Behörde vor Aufnahme der Tätigkeit im Original oder in Kopie
 vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte
 deutsche Übersetzung können verlangt werden.
 
-
 ## § 7 Kontrolle von Altholz zur energetischen Verwertung
 
 (1) Soweit die Zulässigkeit des Einsatzes von Altholz in einer nach
@@ -376,7 +366,6 @@ Altholzkategorie A I beschränkt.
 (5) Weitergehende Anforderungen nach dem Bundes-Immissionsschutzgesetz
 und der darauf beruhenden Regelungen bleiben unberührt.
 
-
 ## § 8 Inverkehrbringen von Altholz
 
 Altholz darf zum Zwecke der stofflichen und energetischen Verwertung
@@ -384,13 +373,11 @@ nur in den Verkehr gebracht werden, um es einer
 Altholzbehandlungsanlage zuzuführen, in der die Anforderungen nach den
 §§ 3, 5 bis 7 und 12 eingehalten werden.
 
-
 ## § 9 Beseitigung von Altholz
 
 Die nach § 1 Abs. 2 Verpflichteten haben Altholz, das nicht verwertet
 wird, zum Zwecke der Beseitigung einer dafür zugelassenen thermischen
 Behandlungsanlage zuzuführen.
-
 
 ## § 10 Pflichten der Erzeuger und Besitzer zur Getrennthaltung von Altholz
 
@@ -402,7 +389,6 @@ gemäß Anhang III oder nach Altholzkategorien getrennt zu erfassen
 sowie getrennt zu sammeln, bereitzustellen, zu überlassen,
 einzusammeln, zu befördern und zu lagern, soweit dies zur Erfüllung
 der Anforderungen nach den §§ 3, 8 und 9 erforderlich ist.
-
 
 ## § 11 Hinweis- und Kennzeichnungspflichten
 
@@ -428,7 +414,6 @@ Deklaration des Altholzes auch im Feld "Frei für Vermerke" des
 Begleit- oder Übernahmescheines erfolgen. Absatz 4 gilt entsprechend.
 Die Bestimmungen zur elektronischen Nachweisführung nach der
 Nachweisverordnung finden entsprechende Anwendung.
-
 
 ## § 12 Betriebstagebuch
 
@@ -500,7 +485,6 @@ zusammengefasst werden.
 Abfallverordnung sowie § 5 der Entsorgungsfachbetriebeverordnung
 bleiben unberührt.
 
-
 ## § 13 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
@@ -561,10 +545,6 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Jahre speichert und ein Einzelblatt nicht oder nicht mindestens fünf
     Jahre aufbewahrt oder eine Angabe oder ein Einzelblatt nicht oder
     nicht rechtzeitig vorlegt.
-
-
-
-
 
 ## Anhang I (zu § 3 Abs. 1) Verfahren für die stoffliche Verwertung von Altholz
 
@@ -644,10 +624,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
     *   Eine Verwertung ist nur in hierfür nach § 4 des
         Bundesimmissionsschutzgesetzes genehmigten Anlagen zulässig.
 
-
-
-
-
 ## Anhang II (zu § 3 Abs. 1) Grenzwerte für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
@@ -710,10 +686,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 *    *   Polychlorierte Biphenyle
 
     *   5
-
-
-
-
 
 ## Anhang III (zu § 5 Abs. 1) Zuordnung gängiger Altholzsortimente im Regelfall
 
@@ -1008,10 +980,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
     *   19 12 06 \*
 
-
-
-
-
 ## Anhang IV (zu § 6) Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
 (Fundstelle: BGBl. I 2002, 3309 - 3313)
@@ -1287,15 +1255,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
             250 myl der TBP-Standardlösung auf 5 g Seesand gegeben und wie
             nachfolgend für die Durchführung der Analyse beschrieben aufgearbeitet
             (das heißt, statt Holz wird Seesand verwendet).
-
-
-
-
-
-
-
-
-
 
 ## Beispiel einer Kalibrierung:
 
@@ -1732,16 +1691,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
             und beim Deutschen Patentamt in München archivmäßig gesichert
             niedergelegt.
 
-
-
-
-
-
-
-
-
-
-
 ## Anhang V (zu § 7) Untersuchung von Altholz zur energetischen Verwertung
 
 Die Probenahme nach § 7 ist von Personen durchzuführen, die über die
@@ -1753,7 +1702,6 @@ Altholz über eine Abwurfeinrichtung zu entnehmen. Aus der so
 entnommenen Altholzprobe sind Altholzanteile nicht zugelassener
 Altholzkategorien entsprechend den Vorgaben nach § 5 auszusortieren
 und deren Masse festzustellen.
-
 
 ## Anhang VI (zu § 11) Anlieferungsschein für Altholz
 

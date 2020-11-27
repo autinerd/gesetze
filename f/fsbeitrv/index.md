@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 28.8.2012 I 1815
 
-
 ## Eingangsformel
 
 Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli
@@ -29,7 +28,6 @@ Gesetzes über die elektromagnetische Verträglichkeit von Geräten vom
 Gesetzes vom 7. Mai 2002 (BGBl. I S. 1529), verordnet das
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Beitragspflicht
 
@@ -67,7 +65,6 @@ Zuteilung im Sinne des Absatzes 1 ist ausgeschlossen.
 
 (4) Nach dieser Verordnung werden Beiträge nur für die Zeit ab dem 1.
 Januar 2003 erhoben.
-
 
 ## § 2 Beitragsbefreiungen
 
@@ -122,7 +119,6 @@ dass für die Nutzung von Frequenzen ein besonderes öffentliches
 Interesse der Bundesrepublik Deutschland besteht, kann
 Beitragsbefreiung gewährt werden.
 
-
 ## § 3 Ermittlung der Kosten und Festlegung von Jahresbeiträgen
 
 (1) Die durch Beiträge nach § 143 Abs. 1 des
@@ -152,20 +148,17 @@ Nutzergruppe geteilt wird.
 (4) Für die für jede Nutzergruppe vorhandenen Bezugseinheiten sind die
 statistischen Unterlagen der Bundesnetzagentur maßgeblich.
 
-
 ## § 4 Fälligkeit
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheids,
 wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 17 des
 Verwaltungskostengesetzes gilt entsprechend.
 
-
 ## § 5 Säumniszuschlag
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
 werden Säumniszuschläge entsprechend § 18 des
 Verwaltungskostengesetzes erhoben.
-
 
 ## § 6 Verjährung
 
@@ -202,7 +195,6 @@ Zahlungspflichtigen.
 (5) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet,
 beginnt eine neue vierjährige Verjährung.
 
-
 ## § 7 Erstattung von Beitragsanteilen
 
 (1) Für Zeiten innerhalb eines Kalenderjahres, für die keine
@@ -216,7 +208,6 @@ der Erstattungsanspruch. Die Erstattungsverjährungsfrist beginnt mit
 Ablauf des Kalenderjahres, in dem der Erstattungsbescheid bekannt
 gegeben wurde.
 
-
 ## § 8 Anwendungsbestimmung
 
 Soweit Beitragsbescheide bestandskräftig geworden sind, verbleibt es
@@ -229,11 +220,9 @@ Einzelfall aus der Anwendung der für die Jahre 2003, 2004 und 2005
 geltenden Anlage der Frequenzschutzbeitragsverordnung in der Fassung
 vom 27. Mai 2005 (BGBl. I S. 1538) ergibt.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
-
 
 ## Anlage
 
@@ -1499,8 +1488,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3,80
 
-
-
 ## **Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2005**
 
 
@@ -2201,8 +2188,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   63,58
 
     *   0,62
-
-
 
 ## **Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2006**
 
@@ -3136,8 +3121,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   35,97
 
     *   1,23
-
-
 
 ## **Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2007**
 
@@ -4084,8 +4067,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   31,53
 
     *   4,27
-
-
 
 ## **Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2008**
 

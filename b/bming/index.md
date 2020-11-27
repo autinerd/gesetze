@@ -21,12 +21,10 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 23.10.2008 I 2018
 
-
 ## § 1
 
 Die Mitglieder der Bundesregierung stehen nach Maßgabe dieses Gesetzes
 zum Bund in einem öffentlich-rechtlichen Amtsverhältnis.
-
 
 ## § 2
 
@@ -42,19 +40,16 @@ falls der Eid vorher geleistet worden ist (§ 3), mit der Vereidigung.
 (3) In der Urkunde für die Bundesminister soll der übertragene
 Geschäftszweig angegeben sein.
 
-
 ## § 3
 
 Die Mitglieder der Bundesregierung leisten bei der Übernahme ihres
 Amtes vor dem Bundestag den in Artikel 56 des Grundgesetzes
 vorgesehenen Eid.
 
-
 ## § 4
 
 Ein Mitglied der Bundesregierung kann nicht zugleich Mitglied einer
 Landesregierung sein.
-
 
 ## § 5
 
@@ -76,7 +71,6 @@ dieser über Geschenke Mitteilung zu machen, die sie in bezug auf ihr
 Amt erhalten. Die Bundesregierung entscheidet über die Verwendung der
 Geschenke.
 
-
 ## § 6
 
 (1) Die Mitglieder der Bundesregierung sind, auch nach Beendigung
@@ -95,7 +89,6 @@ Erklärungen abgeben.
 anzuzeigen und bei Gefährdung der freiheitlichen demokratischen
 Grundordnung für deren Erhaltung einzutreten.
 
-
 ## § 7
 
 (1) Die Genehmigung, als Zeuge auszusagen, soll nur versagt werden,
@@ -111,12 +104,10 @@ würde.
 der Bekanntmachung vom 3. Februar 1971 (Bundesgesetzbl. I S. 105)
 bleibt unberührt.
 
-
 ## § 8
 
 Ein Disziplinarverfahren gegen Mitglieder der Bundesregierung findet
 nicht statt.
-
 
 ## § 9
 
@@ -138,7 +129,6 @@ nicht statt.
 ihrer Entlassung. Die Bundesminister können jederzeit entlassen werden
 und ihre Entlassung jederzeit verlangen.
 
-
 ## § 10
 
 Im Falle der Beendigung des Amtsverhältnisses der Mitglieder der
@@ -146,7 +136,6 @@ Bundesregierung finden die Vorschriften des § 2 Abs. 1 entsprechende
 Anwendung. Eine Entlassung wird mit der Aushändigung der Urkunde
 wirksam; die Aushändigung kann durch amtliche Veröffentlichung ersetzt
 werden.
-
 
 ## § 11
 
@@ -216,7 +205,6 @@ Geschäftsführung endet.
 ergangenen Übergangsvorschriften und § 87a des Bundesbeamtengesetzes
 sind sinngemäß anzuwenden.
 
-
 ## § 12
 
 (1) Der Bundeskanzler hat Anspruch auf eine Amtswohnung mit
@@ -248,7 +236,6 @@ diesem Gesetz erhalten, soweit kein Anspruch nach § 27 des
 Abgeordnetengesetzes besteht, Beihilfe in sinngemäßer Anwendung der
 für Bundesbeamte geltenden Vorschriften.
 
-
 ## § 13
 
 (1) Die Mitglieder der Bundesregierung und ihre Hinterbliebenen
@@ -257,7 +244,6 @@ Vorschriften der §§ 14 bis 17.
 
 (2) Soweit nichts anderes bestimmt ist, sind die für die Bundesbeamten
 geltenden versorgungsrechtlichen Vorschriften sinngemäß anzuwenden.
-
 
 ## § 14
 
@@ -308,7 +294,6 @@ Dezember 1972 wird nicht berücksichtigt.
 Ruhensvorschriften verbleibende Übergangsgeld werden ab dem zweiten
 Monat alle Erwerbseinkünfte aus einer privaten Berufstätigkeit
 angerechnet.
-
 
 ## § 15
 
@@ -375,7 +360,6 @@ lebenslänglich Ruhegehalt in Höhe von mindestens neunundzwanzig vom
 Hundert des Amtsgehalts und des Ortszuschlags. Die Bundesregierung
 stellt fest, ob die Voraussetzungen vorliegen.
 
-
 ## § 16
 
 (1) Die Hinterbliebenen eines Mitgliedes der Bundesregierung erhalten
@@ -388,7 +372,6 @@ Hinterbliebenen eines ehemaligen Mitgliedes der Bundesregierung, das
 zur Zeit seines Todes einen Anspruch auf Ruhegehalt hatte.
 
 (2)
-
 
 ## § 16a
 
@@ -416,7 +399,6 @@ Nr. 2 berechnet.
 entfallen Leistungen nach den für die Bundesbeamten geltenden
 versorgungsrechtlichen Vorschriften aus Anlaß des Todes.
 
-
 ## § 17
 
 (1) Wird ein Mitglied der Bundesregierung durch einen Dienstunfall
@@ -437,10 +419,6 @@ Teilnahme an Veranstaltungen gelten im Zweifel als Dienstunfälle.
 
 3.  in einer Hinterbliebenenversorgung, wenn das Mitglied der
     Bundesregierung infolge des Unfalls verstorben ist.
-
-
-
-
 
 ## § 18
 
@@ -472,14 +450,12 @@ des Amtes als Mitglied der Bundesregierung (§ 4) aus und steht ihm aus
 seinem Amtsverhältnis als Mitglied einer Landesregierung ein Anspruch
 auf Versorgung zu, so wird diese vom Bund übernommen.
 
-
 ## § 19
 
 Bezieht ein Mitglied der Bundesregierung für einen Zeitraum, für den
 Amtsbezüge (§ 11) zu zahlen sind, ein Einkommen aus einer Verwendung
 im öffentlichen Dienst, so ruht der Anspruch auf dieses Einkommen bis
 zur Höhe des Betrages der Amtsbezüge.
-
 
 ## § 20
 
@@ -533,7 +509,6 @@ ergangenen Übergangsvorschriften sinngemäß.
 
 (5) (weggefallen)
 
-
 ## § 21
 
 (1) Die Vorschriften dieses Gesetzes finden auf die ehemaligen
@@ -578,7 +553,6 @@ Stellung zum eigenen Vorteil oder Nachteil anderer missbraucht hat.
 (4) Für ehemalige Mitglieder der Bundesregierung, die die
 Voraussetzungen des Absatzes 3 erfüllen, gilt die Zeit der
 Zugehörigkeit zum Ministerrat als volles Amtsjahr.
-
 
 ## § 21a
 
@@ -646,19 +620,16 @@ Amtszeiten und Amtsverhältnisse nach dem 22. November 2005 nicht
 berücksichtigt. Satz 4 gilt nicht, wenn am 22. November 2005 ein
 Anspruch auf Ruhegehalt nach diesem Gesetz nicht gegeben war.
 
-
 ## § 22
 
 Der Bundesminister des Innern wird ermächtigt, die zur Durchführung
 dieses Gesetzes erforderlichen Verwaltungsvorschriften zu erlassen.
-
 
 ## § 23
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 24
 

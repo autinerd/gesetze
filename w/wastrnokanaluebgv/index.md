@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 449
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 1 Satz 2 in Verbindung mit Abs. 2 des
@@ -24,7 +23,6 @@ Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
 Mai 2007 (BGBl. I S. 962) verordnet das Bundesministerium für Verkehr,
 Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der
 Finanzen:
-
 
 ## § 1
 
@@ -34,11 +32,9 @@ und geht hinsichtlich der Flurstücke auf der Gemarkung Rendsburg und
 Schacht-Audorf auf die Stadt Rendsburg und hinsichtlich der Flurstücke
 auf der Gemarkung Büdelsdorf auf die Stadt Büdelsdorf über.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 

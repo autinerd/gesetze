@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 23.10.2008 I 2026
 
-
 ## § 1 Voraussetzungen der Partnerschaft
 
 (1) Die Partnerschaft ist eine Gesellschaft, in der sich Angehörige
@@ -50,7 +49,6 @@ abhängig gemacht werden.
 anderes bestimmt ist, die Vorschriften des Bürgerlichen Gesetzbuchs
 über die Gesellschaft Anwendung.
 
-
 ## § 2 Name der Partnerschaft
 
 (1) Der Name der Partnerschaft muß den Namen mindestens eines
@@ -64,7 +62,6 @@ Partnerschaft aufgenommen werden.
 37 des Handelsgesetzbuchs sind entsprechend anzuwenden; § 24 Abs. 2
 des Handelsgesetzbuchs gilt auch bei Umwandlung einer Gesellschaft
 bürgerlichen Rechts in eine Partnerschaft.
-
 
 ## § 3 Partnerschaftsvertrag
 
@@ -81,10 +78,6 @@ bürgerlichen Rechts in eine Partnerschaft.
 
 3.  den Gegenstand der Partnerschaft.
 
-
-
-
-
 ## § 4 Anmeldung der Partnerschaft
 
 (1) Auf die Anmeldung der Partnerschaft in das Partnerschaftsregister
@@ -99,7 +92,6 @@ Freien Beruf, den er in der Partnerschaft ausübt, anzugeben. Das
 Registergericht legt bei der Eintragung die Angaben der Partner
 zugrunde, es sei denn, ihm ist deren Unrichtigkeit bekannt.
 
-
 ## § 5 Inhalt der Eintragung, anzuwendende Vorschriften
 
 (1) Die Eintragung hat die in § 3 Abs. 2 genannten Angaben, das
@@ -111,7 +103,6 @@ Behandlung von Zweigniederlassungen sind die §§ 8, 8a, 9, 10 bis 12,
 13, 13d, 13h und 14 bis 16 des Handelsgesetzbuchs über das
 Handelsregister entsprechend anzuwenden; eine Pflicht zur Anmeldung
 einer inländischen Geschäftsanschrift besteht nicht.
-
 
 ## § 6 Rechtsverhältnis der Partner untereinander
 
@@ -126,7 +117,6 @@ untereinander nach dem Partnerschaftsvertrag. Soweit der
 Partnerschaftsvertrag keine Bestimmungen enthält, sind die §§ 110 bis
 116 Abs. 2, §§ 117 bis 119 des Handelsgesetzbuchs entsprechend
 anzuwenden.
-
 
 ## § 7 Wirksamkeit im Verhältnis zu Dritten, rechtliche Selbständigkeit, Vertretung
 
@@ -150,7 +140,6 @@ für die Partnerschaft handelnde Person.
 (5) Für die Angaben auf Geschäftsbriefen der Partnerschaft ist § 125a
 Abs. 1 Satz 1, Abs. 2 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-
 ## § 8 Haftung für Verbindlichkeiten der Partnerschaft
 
 (1) Für Verbindlichkeiten der Partnerschaft haften den Gläubigern
@@ -168,7 +157,6 @@ Haftung für Ansprüche aus Schäden wegen fehlerhafter Berufsausübung
 auf einen bestimmten Höchstbetrag zugelassen werden, wenn zugleich
 eine Pflicht zum Abschluß einer Berufshaftpflichtversicherung der
 Partner oder der Partnerschaft begründet wird.
-
 
 ## § 9 Ausscheiden eines Partners, Auflösung der Partnerschaft
 
@@ -189,7 +177,6 @@ vererblich ist, die Partner im Sinne des § 1 Abs. 1 und 2 sein können.
 der Beteiligung befugt ist, seinen Austritt aus der Partnerschaft zu
 erklären.
 
-
 ## § 10 Liquidation der Partnerschaft, Nachhaftung
 
 (1) Für die Liquidation der Partnerschaft sind die Vorschriften über
@@ -199,7 +186,6 @@ anwendbar.
 (2) Nach der Auflösung der Partnerschaft oder nach dem Ausscheiden des
 Partners bestimmt sich die Haftung der Partner aus Verbindlichkeiten
 der Partnerschaft nach den §§ 159, 160 des Handelsgesetzbuchs.
-
 
 ## § 11 Übergangsvorschriften
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2852
 
-
 ## § 1 Grundsatz
 
 Zur Untersuchung von in § 43 Absatz 1 Satz 2 des Lebensmittel- und
@@ -25,7 +24,6 @@ ausgenommen Futtermittel, sind nur solche private Sachverständige
 befugt, die für diese Tätigkeit durch die zuständigen Behörden des
 Landes, in dem sie ihren Hauptsitz haben, durch eine Entscheidung nach
 § 3 Absatz 6 zugelassen sind.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -104,10 +102,6 @@ werden,
     behandelt oder in Verkehr bringt, die in das beantragte
     Untersuchungsgebiet fallen.
 
-
-
-
-
 ## § 3 Zulassungsverfahren
 
 (1) Der Antrag auf Zulassung ist schriftlich bei der zuständigen
@@ -176,7 +170,6 @@ vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
 (ABl. L 255 vom 30.9.2005, S. 22) in der jeweils geltenden Fassung
 anzuwenden.
 
-
 ## § 4 Anzeigeverfahren
 
 (1) Personen nach § 2 Absatz 2 Satz 2 müssen der zuständigen Behörde
@@ -237,7 +230,6 @@ Gegenprobensachverständiger aufgenommen werden.
 die seine Anzeige betreffen, unverzüglich mitzuteilen. § 3 Absatz 5
 und 7 Satz 2 gilt entsprechend.
 
-
 ## § 5 Bewertung und Anerkennung von Prüflaboratorien als Voraussetzung für die Zulassung von Gegenprobensachverständigen
 
 (1) Prüflaboratorien, in denen Gegen- oder Zweitproben untersucht
@@ -284,7 +276,6 @@ Private Sachverständige, die vor dem 20. August 2009 über eine
 Zulassung für die Untersuchung von Gegen- oder Zweitproben verfügen,
 dürfen Untersuchungen bis zum Ablauf des 30. September 2010 auf
 Grundlage der bestehenden Zulassung weiter durchführen.
-
 
 ## § 7 Unterrichtung des Herstellers über die Zurücklassung von amtlich entnommenen Proben
 
@@ -335,7 +326,6 @@ nicht der Hersteller, gelten Satz 1 und 2 entsprechend.
 (3) Die zuständige Behörde hat dem Hersteller auf Nachfrage Auskunft
 über die Zielrichtung der Untersuchung zu erteilen.
 
-
 ## § 8 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des
@@ -355,10 +345,6 @@ oder fahrlässig
 3.  entgegen § 7 Absatz 2 Satz 2, auch in Verbindung mit Satz 3, einen
     Nachweis nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig vorlegt oder aufbewahrt.
-
-
-
-
 
 ## Anlage 1 (zu § 2 Absatz 1) Anforderungen an die fachgerechte Untersuchung und Beurteilung von Gegen- oder Zweitproben
 
@@ -434,10 +420,6 @@ oder fahrlässig
     Teilnahmenachweise sind fünf Jahre lang aufzubewahren und der
     zuständigen Behörde auf Verlangen vorzulegen.
 
-
-
-
-
 ## Anlage 2 (zu § 3 Absatz 2 und § 5)
 
 (Fundstelle: BGBl. I 2009, 2856)
@@ -458,9 +440,6 @@ oder fahrlässig
         und Landesentwicklung
         Calenberger Straße 2
         30169 Hannover
-
-
-
 
 ## Anlage 3 (zu § 3 Absatz 5) Verpflichtungserklärung
 

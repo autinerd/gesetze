@@ -26,12 +26,10 @@ Geändert durch
     durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl.
     EU Nr. L 363 S. 81), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -65,10 +63,6 @@ Im Sinne dieses Gesetzes sind
 7.  Klassifizierer: ein Mitarbeiter eines Klassifizierungsunternehmens,
     der die Klassifizierung durchführt.
 
-
-
-
-
 ## § 2 Klassifizierung
 
 Soweit nach den Vorschriften des Handelsklassenrechts eine
@@ -84,7 +78,6 @@ darf die Klassifizierung nur von
 
 
 vorgenommen werden.
-
 
 ## § 3 Zulassung von Klassifizierungsunternehmen
 
@@ -257,7 +250,6 @@ Inhalt der Sachkundeprüfung nach Absatz 2 erstreckt. Die näheren
 Einzelheiten für die Prüfung nach Satz 3 einschließlich des Verfahrens
 können in der Rechtsverordnung nach Absatz 5 geregelt werden.
 
-
 ## § 5 Erlöschen der Zulassung eines Klassifizierers, Rückgabe übergebener Gegenstände
 
 (1) Die Zulassung eines Klassifizierers erlischt, wenn der
@@ -278,7 +270,6 @@ Behörde festgestellt.
 Widerruf, Rücknahme oder Erlöschen seiner Zulassung verpflichtet, der
 zuständigen Behörde die Zulassungsurkunde, den Klassifiziererausweis
 und den personenbezogenen Stempel zurückzugeben.
-
 
 ## § 6 Widerruf und Rücknahme der Zulassung von Klassifizierungsunternehmen und Klassifizierern
 
@@ -376,7 +367,6 @@ Klassifizierers von Bedeutung sein können und ist sie nicht selbst die
 für die Entscheidung zuständige Behörde, so teilt sie diese Tatsachen
 der für die Entscheidung zuständigen Behörde unverzüglich mit.
 
-
 ## § 8 Mitteilungspflichten
 
 (1) Das Klassifizierungsunternehmen ist verpflichtet, zum Zweck der
@@ -413,7 +403,6 @@ als zwei Jahren nicht mehr ausgeübt hat.
 Zustimmung des Bundesrates die näheren Anforderungen an die
 Mitteilungspflichten nach den Absätzen 1 bis 3 und das Verfahren zu
 regeln.
-
 
 ## § 9 Preis- und Gewichtsfeststellung, Kennzeichnung von Schlachtkörpern
 
@@ -496,13 +485,6 @@ und ihre Bekanntgabe festgelegt werden, insbesondere
         Bundesministerium oder die von ihm bestimmte Stelle weiterzuleitenden
         Aufstellungen.
 
-
-
-
-
-
-
-
 ## § 10 Auskunftspflichten
 
 (1) Ein Klassifizierungsunternehmen ist verpflichtet, dem Lieferanten
@@ -531,7 +513,6 @@ auf den Muskelfleischanteil.
 Zustimmung des Bundesrates die näheren Anforderungen an die
 Informationen nach Absatz 1 oder 2 einschließlich der Art und Weise
 ihrer Erteilung zu regeln.
-
 
 ## § 11 Befugnisse der zuständigen Behörde
 
@@ -608,7 +589,6 @@ bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder
 eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen
 würde.
 
-
 ## § 12 Registerführung, Datenübermittlung
 
 (1) Soweit dies zur Erfüllung von Rechtsakten der Europäischen
@@ -680,7 +660,6 @@ Beendigung der Tätigkeit erfolgt ist. Nach Ablauf der
 Aufbewahrungsfrist sind die Daten zu löschen. Vorschriften, die eine
 längere Aufbewahrung vorschreiben, bleiben unberührt.
 
-
 ## § 13 Rechtsverordnungen in bestimmten Fällen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -704,7 +683,6 @@ Landesregierungen übertragen. Die Landesregierungen können die
 Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 übertragen.
 
-
 ## § 14 Gebühren und Auslagen
 
 (1) Für Amtshandlungen, die nach diesem Gesetz und den auf Grund
@@ -721,7 +699,6 @@ des Bundesrates für Amtshandlungen der Bundesanstalt nach den §§ 3 und
 Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze
 vorzusehen.
 
-
 ## § 15 Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -729,7 +706,6 @@ dritter Staaten sowie den Organen der Europäischen Union obliegt dem
 Bundesministerium. Es kann die damit verbundenen Aufgaben auf die
 Bundesanstalt oder durch Rechtsverordnung mit Zustimmung des
 Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
-
 
 ## § 16 Bußgeldvorschriften
 
@@ -763,7 +739,6 @@ Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
 5 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen
 mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
 ## § 17 Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 16 Abs. 1 begangen worden, so
@@ -771,7 +746,6 @@ können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
 Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden
 oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über
 Ordnungswidrigkeiten ist anzuwenden.
-
 
 ## § 18 Übergangsbestimmungen
 
@@ -805,16 +779,13 @@ vom 21. März 1977 (BGBl. I S. 477), zuletzt geändert durch Art. 200
 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), erlassen worden
 sind.
 
-
 ## § 19 Aufhebung des Vieh- und Fleischgesetzes
 
 -
 
-
 ## § 20 Änderung von Rechtsvorschriften
 
 -
-
 
 ## § 21 Inkrafttreten
 

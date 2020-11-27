@@ -28,7 +28,6 @@ bei der manuellen Handhabung von Lasten, die für die Arbeitnehmer
 insbesondere eine Gefährdung der Lendenwirbelsäule mit sich bringt
 (ABl. EG Nr. L 156 S. 9).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die manuelle Handhabung von Lasten, die
@@ -60,7 +59,6 @@ Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die
 Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser
 Verordnung auf andere Weise gewährleistet werden.
 
-
 ## § 2 Maßnahmen
 
 (1) Der Arbeitgeber hat unter Zugrundelegung des Anhangs geeignete
@@ -78,14 +76,12 @@ Beurteilung hat der Arbeitgeber geeignete Maßnahmen zu treffen, damit
 eine Gefährdung von Sicherheit und Gesundheit der Beschäftigten
 möglichst gering gehalten wird.
 
-
 ## § 3 Übertragung von Aufgaben
 
 Bei der Übertragung von Aufgaben der manuellen Handhabung von Lasten,
 die für die Beschäftigten zu einer Gefährdung für Sicherheit und
 Gesundheit führen, hat der Arbeitgeber die körperliche Eignung der
 Beschäftigten zur Ausführung der Aufgaben zu berücksichtigen.
-
 
 ## § 4 Unterweisung
 
@@ -96,7 +92,6 @@ dies möglich ist, genaue Angaben zu machen über die sachgemäße
 manuelle Handhabung von Lasten und über die Gefahren, denen die
 Beschäftigten insbesondere bei unsachgemäßer Ausführung der Tätigkeit
 ausgesetzt sind.
-
 
 ## Anhang
 

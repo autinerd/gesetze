@@ -22,7 +22,6 @@ Geändert durch
 Die v tritt gem. § 9 satz 2 mit ablauf des 2.3.2007 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 9 satz 2 mit zustimmung des bundesrates aufgeh. durch
 :   Art. 1 V v. 22.2.2007 I 193; dadurch ist die Geltung der V über den 2.3.2007 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe s, des § 8 Abs. 1 in
@@ -38,7 +37,6 @@ November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
 den Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich, Zuständigkeit
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -52,7 +50,6 @@ Nr. L 228 S. 9).
 Verordnung (EG) Nr. 1010/2006 ist die Bundesanstalt für Landwirtschaft
 und Ernährung (Bundesanstalt).
 
-
 ## § 2 Gewährung einer Beihilfe für die Vernichtung von Gänsebruteiern
 
 Einem Halter von Gänsen oder einem Betreiber einer Brüterei für
@@ -63,7 +60,6 @@ schriftlichen Antrag — vorbehaltlich des § 7 — eine Beihilfe in Höhe
 von
 1,20 Euro für jedes vernichtete Gänsebrutei gewährt.
 
-
 ## § 3 Gewährung einer Beihilfe für die vorzeitige Schlachtung von Gänseelterntieren
 
 Einem Halter von Gänseelterntieren, der in der Zeit vom 1. Januar 2006
@@ -72,7 +68,6 @@ schlachten lassen hat, wird entsprechend Artikel 4 der Verordnung (EG)
 Nr. 1010/2006 auf schriftlichen Antrag — vorbehaltlich des § 7 — eine
 Beihilfe in Höhe von
 30 Euro für jedes vorzeitig geschlachtete Elterntier gewährt.
-
 
 ## § 4 Gewährung einer Beihilfe zur vorgezogenen Schlachtung von legereifen Junghennen
 
@@ -83,7 +78,6 @@ Nr. 1010/2006 auf schriftlichen Antrag — vorbehaltlich des § 7 — eine
 Beihilfe in Höhe von
 3,20 Euro für jedes geschlachtete Tier gewährt.
 
-
 ## § 5 Beihilfe für getötete Gänseelterntiere und getötete legereife Junghennen
 
 Die nach den §§ 3 und 4 vorgesehene Beihilfe wird in dem jeweils dort
@@ -91,7 +85,6 @@ vorgesehenen Umfang auch für getötete Gänseelterntiere und getötete
 legereife Junghennen gewährt, sobald und soweit Artikel 4 Abs. 1 und 2
 und Artikel 7 Abs. 1 und 2 der Verordnung (EG) Nr. 1010/2006
 entsprechend geändert worden sind.
-
 
 ## § 6 Antrag
 
@@ -154,17 +147,12 @@ entsprechend anzuwenden, dass
 2.  ein Nachweis über die Tötung der im Antrag angegebenen Anzahl von
     Gänseelterntieren oder legereifen Junghennen beizufügen ist.
 
-
-
-
-
 ## § 7 Gewährung der Beihilfen
 
 Übersteigt die Summe der Eier oder Tiere, für die die jeweilige
 Beihilfe beantragt wird, die in der Verordnung (EG) Nr. 1010/2006
 jeweils festgelegte Höchstmenge, werden die beantragten Stückzahlen
 anteilmäßig gekürzt.
-
 
 ## § 8 Duldungs- und Mitwirkungspflichten
 
@@ -204,7 +192,6 @@ erteilen sowie die erforderliche Unterstützung zu gewähren.
 vollständigen oder teilweisen Überganges des Betriebes auch für den
 Rechtsnachfolger, soweit diese Verpflichtungen von dem Rechtsvorgänger
 nicht mehr erfüllt werden können.
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 

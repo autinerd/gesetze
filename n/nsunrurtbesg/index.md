@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 966
 
-
-
 ## § 1
 
 (1) Zwischen dem 30. Januar 1933 und dem 8. Mai 1945 ergangene Urteile
@@ -39,7 +37,6 @@ Entscheidung aufgehoben werden soll, seinen Sitz hatte.
 Angehöriger oder die Staatsanwaltschaft bei dem nach Absatz 3
 zuständigen Oberlandesgericht.
 
-
 ## § 2
 
 (1) § 1 findet lediglich in den Ländern Hamburg, Niedersachsen,
@@ -51,12 +48,10 @@ wegen einer Tat, die nach dem 30. Januar 1933 begangen war, gemäß den
 Juni 1947 (Verordnungsblatt für die Britische Zone S. 68) bereits
 ergangen ist.
 
-
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 4
 

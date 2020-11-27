@@ -19,17 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 20 G v. 22.12.2011 I 3044
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 4 des Treibhausgas-Emissionshandelsgesetzes vom
 8\. Juli 2004 (BGBl. I S. 1578) verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich und Zweck
 
@@ -45,7 +40,6 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, soweit die Anlagen zum Brennen keramischer
 Erzeugnisse eine Produktionskapazität von weniger als 75 Tonnen pro
 Tag haben.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -65,13 +59,7 @@ Zuteilungsgesetzes 2007 sowie der Zuteilungsverordnung 2007.
 3.  Gesamtbrennstoffenergie: Summe der zugeführten Brennstoffmengen
     multipliziert mit ihren jeweiligen unteren Heizwerten.
 
-
-
-
-
 ## Abschnitt 2 - Berichtspflichten
-
-
 
 ### § 3 Angabe von Emissionsdaten
 
@@ -97,7 +85,6 @@ der Gesamtemissionen nach Maßgabe von Anhang 8 der
 Zuteilungsverordnung 2007 anzugeben. Die Sätze 2 und 3 gelten bei
 Kapazitätserweiterungen und Kapazitätsverringerungen entsprechend.
 
-
 ### § 4 Zusätzliche Angaben bei Weiterleitungen von Kuppelgasen
 
 Für Anlagen, die Kuppelgase an andere Anlagen weiterleiten, sind die
@@ -106,7 +93,6 @@ die aufnehmenden Anlagen anzugeben. Soweit eine Zuteilung für die
 Zuteilungsperiode 2005 bis 2007 auf der Grundlage von § 7 Abs. 12 des
 Zuteilungsgesetzes 2007 erfolgte, gilt die Verpflichtung aus Satz 1
 zusätzlich für die Kalenderjahre 2000 bis 2002.
-
 
 ### § 5 Zusätzliche Angaben für Anlagen mit Kraft-Wärme-Kopplung
 
@@ -150,7 +136,6 @@ zu verwenden. Sofern bei der Ermittlung der Angabe zu Nummer 1 das
 Nutzungsgradpotenzial des Kraft-Wärme-Kopplungs-Prozesses in Ansatz
 gebracht wurde, ist dieses an Stelle der Angabe zu Nummer 7 anzugeben.
 
-
 ### § 6 Zusätzliche Angaben bei Kondensationskraftwerken auf Steinkohle- oder Braunkohlebasis
 
 (1) Für Kondensationskraftwerke auf Steinkohle- oder Braunkohlebasis,
@@ -166,7 +151,6 @@ Gesamtbrennstoffenergie betragen hat. § 5 Satz 2 gilt entsprechend.
 (3) Sofern das Kraftwerk als gemeinsame Anlage aus mehreren, ansonsten
 selbständig genehmigungsbedürftigen Teilanlagen besteht, gelten die
 Absätze 1 und 2 für jede Teilanlage gesondert.
-
 
 ### § 7 Allgemeine Anforderungen an die Ermittlung und Angabe von Daten
 
@@ -230,7 +214,6 @@ sicheres Registrierungssystem gemäß der Richtlinie 2003/87/EG sowie
 der Entscheidung 280/2004/EG des Europäischen Parlaments und des Rates
 (ABl. EU Nr. L 386 S. 1) maßgeblich.
 
-
 ### § 8 Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
 
 Hinsichtlich der allgemeinen Regeln zur Bestimmung der Kohlendioxid-
@@ -241,10 +224,7 @@ der Maßgabe, dass nicht auf den Zuteilungsantrag, sondern auf die
 Datenmitteilung Bezug genommen wird. § 7 Abs. 2 und § 9 Abs. 3 der
 Zuteilungsverordnung 2007 gelten nicht.
 
-
 ## Abschnitt 3 - Verfahren der Datenerhebung
-
-
 
 ### § 9 Elektronische Formularvorlagen
 
@@ -253,7 +233,6 @@ ihrer Internetseite zur Verfügung gestellten elektronischen
 Formularvorlagen zu benutzen hat und die vom Betreiber ausgefüllten
 Formularvorlagen in elektronischer Form zu übermitteln sind. Sie gibt
 Anordnungen nach Satz 1 rechtzeitig im Bundesanzeiger bekannt.
-
 
 ### § 10 Verifizierung der Datenmitteilung
 
@@ -283,13 +262,11 @@ Kohlendioxid-Emissionen von weniger als 25 000 Tonnen im Kalenderjahr
 vor Ort verzichten. Für die Bestimmung der Emissionsmenge gilt § 7
 Abs. 3 Satz 2 entsprechend.
 
-
 ### § 11 Übermittlungsfrist
 
 Der Betreiber ist verpflichtet, die den Anforderungen dieser
 Verordnung entsprechende Datenmitteilung bis zum 6. Oktober 2006 an
 die zuständige Behörde zu übermitteln.
-
 
 ### § 12 Inkrafttreten
 

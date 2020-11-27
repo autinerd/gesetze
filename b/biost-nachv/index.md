@@ -31,7 +31,6 @@ Zuletzt geändert durch
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Es verordnen auf Grund
@@ -45,12 +44,7 @@ Es verordnen auf Grund
     Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
     und Verbraucherschutz mit Zustimmung des Bundestages:
 
-
-
-
-
 ## Teil 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich
 
@@ -58,7 +52,6 @@ Diese Verordnung gilt für flüssige Biomasse, die nach dem Erneuerbare-
 Energien-Gesetz zur Erzeugung von Strom eingesetzt wird, mit Ausnahme
 von flüssiger Biomasse, die nur zur Anfahr-, Zünd- oder Stützfeuerung
 eingesetzt wird.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -143,9 +136,7 @@ und insbesondere Standards zur näheren Bestimmung der Anforderungen
 nach dieser Verordnung, zum Nachweis ihrer Erfüllung sowie zur
 Kontrolle dieses Nachweises enthalten.
 
-
 ## Teil 2 - Nachhaltigkeitsanforderungen
-
 
 ### § 3 Anforderungen für die Vergütung
 
@@ -193,7 +184,6 @@ aus den folgenden Bestimmungen nichts anderes ergibt.
 oder aus Reststoffen hergestellt worden ist, es sei denn, die
 Reststoffe stammen aus der Land-, Forst- oder Fischwirtschaft oder aus
 Aquakulturen.
-
 
 ### § 4 Schutz von Flächen mit hohem Naturschutzwert
 
@@ -286,7 +276,6 @@ Artikels 17 Absatz 3 Unterabsatz 2 der Richtlinie 2009/28/EG
 festgelegten Kriterien sind bei der Auslegung des Satzes 1 zu
 berücksichtigen.
 
-
 ### § 5 Schutz von Flächen mit hohem Kohlenstoffbestand
 
 (1) Biomasse, die zur Herstellung von flüssiger Biomasse verwendet
@@ -329,10 +318,6 @@ Hektar mit über 5 Meter hohen Bäumen und
     Minderungspotenzial nach § 8 Absatz 1 auch bei einer Berechnung nach §
     8 Absatz 3 aufweist.
 
-
-
-
-
 ### § 6 Schutz von Torfmoor
 
 (1) Biomasse, die zur Herstellung von flüssiger Biomasse verwendet
@@ -341,7 +326,6 @@ später Torfmoor waren.
 
 (2) Absatz 1 gilt nicht, wenn Anbau und Ernte der Biomasse keine
 Entwässerung von Flächen erfordert haben.
-
 
 ### § 7 Nachhaltige landwirtschaftliche Bewirtschaftung
 
@@ -364,7 +348,6 @@ Mitgliedstaat der Europäischen Union
 
 
 erfolgen.
-
 
 ### § 8 Treibhausgas-Minderungspotenzial
 
@@ -447,11 +430,9 @@ Fortschritt anpasst, sind die Änderungen auch bei der Berechnung des
 Treibhausgas-Minderungspotenzials nach den Absätzen 3 und 4
 anzuwenden.
 
-
 ### § 9
 
 (weggefallen)
-
 
 ### § 10 Bonus für nachwachsende Rohstoffe
 
@@ -461,12 +442,9 @@ Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011 geltenden
 Fassung nur, wenn die Anforderungen nach den §§ 3 bis 8 erfüllt
 werden, wobei § 8 Absatz 2 nicht anzuwenden ist.
 
-
 ## Teil 3 - Nachweis
 
-
 ### Abschnitt 1 - Allgemeine Bestimmungen
-
 
 #### § 11 Nachweis über die Erfüllung der Anforderungen für die Vergütung
 
@@ -481,17 +459,12 @@ nach § 3 Absatz 1 erfüllt sind. Die Nachweisführung erfolgt
 2.  für § 3 Absatz 1 Nummer 3 in Verbindung mit den §§ 61 bis 63 durch die
     Vorlage der Bescheinigung der zuständigen Behörde nach § 64 Absatz 4.
 
-
-
-
-
 #### § 12 Weitere Nachweise
 
 Weitere Nachweise darüber, dass die Anforderungen nach § 3 Absatz 1
 erfüllt sind, können für die Vergütung nach § 27 Absatz 1 des
 Erneuerbare-Energien-Gesetzes nicht verlangt werden. § 58 bleibt
 unberührt.
-
 
 #### § 13 Übermittlung der Nachweise an die zuständige Behörde
 
@@ -502,9 +475,7 @@ schriftlich übermitteln. Den Kopien ist im Fall des § 27 Absatz 3
 Nummer 2 des Erneuerbare-Energien-Gesetzes in der am 31. Dezember 2011
 geltenden Fassung eine Kopie des Einsatzstoff-Tagebuches beizufügen.
 
-
 ### Abschnitt 2 - Nachhaltigkeitsnachweise
-
 
 #### § 14 Anerkannte Nachweise
 
@@ -523,10 +494,6 @@ Anerkannte Nachweise über die Erfüllung der Anforderungen nach den §§
 
 4.  Bescheinigungen von Umweltgutachterinnen und Umweltgutachtern nach §
     59 Absatz 1.
-
-
-
-
 
 #### § 15 Ausstellung von Nachhaltigkeitsnachweisen
 
@@ -579,7 +546,6 @@ nach dieser Verordnung anerkannt ist.
 (3) Zur Ausstellung von Nachhaltigkeitsnachweisen sind nur
 Schnittstellen berechtigt, denen keine weitere Schnittstelle
 nachgelagert ist.
-
 
 #### § 16 Ausstellung auf Grund von Massenbilanzsystemen
 
@@ -648,7 +614,6 @@ Europäischen Union veröffentlicht hat.
 (4) Weiter gehende Anforderungen in Zertifizierungssystemen, die die
 Vermischung der flüssigen Biomasse mit anderer Biomasse ganz oder
 teilweise ausschließen, bleiben unberührt.
-
 
 #### § 17 Lieferung auf Grund von Massenbilanzsystemen
 
@@ -721,7 +686,6 @@ den Nachhaltigkeitsnachweis ausgestellt hat, nachzuweisen, muss
 Lieferanten, der die flüssige Biomasse an die Anlagenbetreiberin oder
 den Anlagenbetreiber liefert, in dem Nachhaltigkeitsnachweis zu
 bestätigen.
-
 
 #### § 18 Inhalt und Form der Nachhaltigkeitsnachweise
 
@@ -800,7 +764,6 @@ Muster der Anlage 3 ausgestellt werden.
 (3) Nachhaltigkeitsnachweise müssen dem Netzbetreiber in deutscher
 Sprache vorgelegt werden.
 
-
 #### § 19 Nachtrag fehlender Angaben
 
 Angaben, die entgegen § 18 Absatz 1 nicht in einem
@@ -812,10 +775,6 @@ Nachhaltigkeitsnachweis enthalten sind, können nur nachgetragen werden
 
 2.  durch eine Zertifizierungsstelle, die nach dieser Verordnung anerkannt
     ist.
-
-
-
-
 
 #### § 20 Unwirksamkeit von Nachhaltigkeitsnachweisen
 
@@ -869,10 +828,6 @@ Fassung entfällt darüber hinaus endgültig, wenn
     ausgestellt hat, zum Zeitpunkt der Ausstellung des
     Nachhaltigkeitsnachweises ungültig war.
 
-
-
-
-
 #### § 21 Weitere Folgen fehlender oder nicht ausreichender Angaben
 
 (1) Enthält ein Nachhaltigkeitsnachweis bei den Angaben zum
@@ -894,7 +849,6 @@ Netzbetreiber nachweisen, dass die flüssige Biomasse das Treibhausgas-
 Minderungspotenzial auch bei einem Betrieb in diesem Land oder Staat
 aufweist.
 
-
 #### § 22 Anerkannte Nachhaltigkeitsnachweise auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 (1) Nachhaltigkeitsnachweise gelten auch als anerkannt, solange und
@@ -915,7 +869,6 @@ gleichzeitige Förderung nach dem Erneuerbare-Energien-Gesetz und dem
 Energiesteuergesetz möglich ist.
 
 (3) Die §§ 20 und 21 sind entsprechend anzuwenden.
-
 
 #### § 23 Weitere anerkannte Nachhaltigkeitsnachweise
 
@@ -971,7 +924,6 @@ sind.
 
 (4) § 21 ist entsprechend anzuwenden.
 
-
 #### § 24 Nachhaltigkeits-Teilnachweise
 
 (1) Die zuständige Behörde stellt für Teilmengen von flüssiger
@@ -1024,9 +976,7 @@ Nachhaltigkeits-Teilnachweise sind die Bestimmungen dieses Abschnitts
 entsprechend anzuwenden, soweit sich aus den Absätzen 1 bis 3 oder 5
 nichts anderes ergibt.
 
-
 ### Abschnitt 3 - Zertifikate für Schnittstellen
-
 
 #### § 25 Anerkannte Zertifikate
 
@@ -1039,10 +989,6 @@ Anerkannte Zertifikate im Sinne dieser Verordnung sind:
 
 
 3.  Zertifikate nach § 31.
-
-
-
-
 
 #### § 26 Ausstellung von Zertifikaten
 
@@ -1152,7 +1098,6 @@ anerkannt sind und die von dem Zertifizierungssystem nach Absatz 1
 Nummer 1 benannt worden sind; die Zertifikate müssen in diesem
 Zertifizierungssystem ausgestellt werden.
 
-
 #### § 27 Inhalt der Zertifikate
 
 Zertifikate müssen folgende Angaben enthalten:
@@ -1169,21 +1114,15 @@ Zertifikate müssen folgende Angaben enthalten:
 3.  den Namen des Zertifizierungssystems, in dem das Zertifikat
     ausgestellt worden ist.
 
-
-
-
-
 #### § 28 Folgen fehlender Angaben
 
 Zertifikate sind unwirksam, wenn sie eine oder mehrere Angaben nach §
 27 nicht enthalten.
 
-
 #### § 29 Gültigkeit der Zertifikate
 
 Zertifikate sind für einen Zeitraum von zwölf Monaten ab dem Datum der
 Ausstellung des Zertifikates gültig.
-
 
 #### § 30 Anerkannte Zertifikate auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
@@ -1196,7 +1135,6 @@ Nummer 11a Buchstabe a und b des Energiesteuergesetzes in ihrer
 jeweils geltenden Fassung erlassen worden ist.
 
 (2) § 28 ist entsprechend anzuwenden.
-
 
 #### § 31 Weitere anerkannte Zertifikate
 
@@ -1227,9 +1165,7 @@ sind
 
 (2) § 23 Absatz 2 und 3 ist entsprechend anzuwenden.
 
-
 ### Abschnitt 4 - Zertifizierungssysteme
-
 
 #### § 32 Anerkannte Zertifizierungssysteme
 
@@ -1243,10 +1179,6 @@ Anerkannte Zertifizierungssysteme im Sinne dieser Verordnung sind:
 
 
 3.  Zertifizierungssysteme nach § 41.
-
-
-
-
 
 #### § 33 Anerkennung von Zertifizierungssystemen
 
@@ -1347,7 +1279,6 @@ zuständige Behörde bestimmen, dass das Zertifizierungssystem nur in
 Kombination mit einem anderen Zertifizierungssystem als anerkannt
 gilt.
 
-
 #### § 34 Verfahren zur Anerkennung
 
 (1) Bei der Anerkennung von Zertifizierungssystemen ist die
@@ -1376,7 +1307,6 @@ Anerkennungsverfahrens und über die Gründe und Erwägungen zu
 unterrichten, auf denen die Anerkennung beruht. Die berechtigten
 Interessen des Antragstellers sind zu wahren.
 
-
 #### § 35 Inhalt der Anerkennung
 
 Die Anerkennung eines Zertifizierungssystems muss die folgenden
@@ -1395,17 +1325,12 @@ Angaben enthalten:
 
 4.  Beschränkungen nach § 33 Absatz 6.
 
-
-
-
-
 #### § 36 Nachträgliche Änderungen der Anerkennung
 
 Änderungen eines anerkannten Zertifizierungssystems sind der
 zuständigen Behörde anzuzeigen. Wesentliche Änderungen eines
 anerkannten Zertifizierungssystems bedürfen der Anerkennung; die §§ 33
 und 34 sind entsprechend anzuwenden.
-
 
 #### § 37 Erlöschen der Anerkennung
 
@@ -1416,7 +1341,6 @@ Zeitablauf oder auf andere Weise erledigt ist.
 (2) Das Erlöschen der Anerkennung und der Grund für das Erlöschen nach
 Absatz 1 sind von der zuständigen Behörde im Bundesanzeiger bekannt zu
 machen.
-
 
 #### § 38 Widerruf der Anerkennung
 
@@ -1441,7 +1365,6 @@ Schnittstellen mit dem Zertifizierungssystem und die Berichte nach §
 52 und § 53 Absatz 2 Nummer 3 berücksichtigt werden. Die Vorschriften
 des Verwaltungsverfahrensgesetzes über die Rücknahme und den Widerruf
 von Verwaltungsakten bleiben im Übrigen unberührt.
-
 
 #### § 39 Berichte und Mitteilungen
 
@@ -1469,7 +1392,6 @@ Kalenderjahr bis zum 28. Februar des folgenden Kalenderjahres und im
 (3) Zertifizierungssysteme müssen alle Zertifikate von Schnittstellen,
 die ihre Vorgaben verwenden, auf ihren Internetseiten veröffentlichen.
 
-
 #### § 40 Anerkannte Zertifizierungssysteme auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
 Zertifizierungssysteme gelten auch als anerkannt, solange und soweit
@@ -1479,7 +1401,6 @@ sind, die auf Grund des § 37d Absatz 2 Nummer 3 und 4 sowie Absatz 3
 Nummer 2 des Bundes-Immissionsschutzgesetzes und des § 66 Absatz 1
 Nummer 11a Buchstabe a und b des Energiesteuergesetzes in ihrer
 jeweils geltenden Fassung erlassen worden ist.
-
 
 #### § 41 Weitere anerkannte Zertifizierungssysteme
 
@@ -1500,12 +1421,9 @@ als Zertifizierungssystem zur näheren Bestimmung der Anforderungen
 nach Artikel 17 Absatz 2 bis 6 der Richtlinie 2009/28/EG anerkannt
 sind.
 
-
 ### Abschnitt 5 - Zertifizierungsstellen
 
-
 #### Unterabschnitt 1 - Anerkennung von Zertifizierungsstellen
-
 
 ##### § 42 Anerkannte Zertifizierungsstellen
 
@@ -1519,10 +1437,6 @@ Anerkannte Zertifizierungsstellen im Sinne dieser Verordnung sind:
 
 
 3.  Zertifizierungsstellen nach § 57.
-
-
-
-
 
 ##### § 43 Anerkennung von Zertifizierungsstellen
 
@@ -1624,7 +1538,6 @@ Auf das Anerkennungsverfahren ist § 34 Absatz 2 und 3 entsprechend
 anzuwenden. Die Anerkennung ist von der zuständigen Behörde im
 Bundesanzeiger bekannt zu machen.
 
-
 ##### § 45 Inhalt der Anerkennung
 
 Die Anerkennung einer Zertifizierungsstelle muss die folgenden Angaben
@@ -1638,10 +1551,6 @@ enthalten:
 
 3.  Beschränkungen nach § 43 Absatz 5.
 
-
-
-
-
 ##### § 46 Erlöschen der Anerkennung
 
 (1) Die Anerkennung einer Zertifizierungsstelle erlischt, wenn sie
@@ -1654,7 +1563,6 @@ der Tätigkeit mehr als ein Jahr nicht mehr ausgeübt hat.
 (2) Das Erlöschen der Anerkennung und der Grund für das Erlöschen nach
 Absatz 1 sind von der zuständigen Behörde im Bundesanzeiger bekannt zu
 machen.
-
 
 ##### § 47 Widerruf der Anerkennung
 
@@ -1677,9 +1585,7 @@ Ort nicht sichergestellt ist. Die Vorschriften des
 Verwaltungsverfahrensgesetzes über die Rücknahme und den Widerruf von
 Verwaltungsakten bleiben im Übrigen unberührt.
 
-
 #### Unterabschnitt 2 - Aufgaben von Zertifizierungsstellen
-
 
 ##### § 48 Führen von Schnittstellenverzeichnissen
 
@@ -1688,7 +1594,6 @@ Schnittstellen, denen sie Zertifikate ausgestellt haben, führen. Das
 Verzeichnis muss mindestens den Namen, die Anschrift und die
 Registriernummer der Schnittstellen enthalten. Die
 Zertifizierungsstellen müssen das Verzeichnis laufend aktualisieren.
-
 
 ##### § 49 Kontrolle der Schnittstellen
 
@@ -1714,7 +1619,6 @@ Tätigkeiten ausübt.
 (3) Die Schnittstellen im Geltungsbereich dieser Verordnung sind
 verpflichtet, die Kontrollen nach Absatz 1 und 2 zu dulden.
 
-
 ##### § 50 Kontrolle des Anbaus
 
 Die Zertifizierungsstellen, die Schnittstellen nach § 2 Absatz 3
@@ -1728,7 +1632,6 @@ Erfüllung dieser Anforderungen Unregelmäßigkeiten und Verstöße
 auftreten, bestimmen. Es sind mindestens 5 Prozent der Betriebe
 jährlich zu kontrollieren. § 49 Absatz 2 und 3 ist entsprechend
 anzuwenden.
-
 
 ##### § 51 Kontrolle des Anbaus bei nachhaltiger landwirtschaftlicher Bewirtschaftung
 
@@ -1760,7 +1663,6 @@ Von diesen Betrieben müssen nur 3 Prozent jährlich nach § 50
 kontrolliert werden; die Kontrolle beschränkt sich darauf, ob diese
 Betriebe die Anforderungen nach den §§ 4 bis 6 erfüllen.
 
-
 ##### § 52 Berichte über Kontrollen
 
 Zertifizierungsstellen müssen nach Abschluss jeder Kontrolle einen
@@ -1769,7 +1671,6 @@ Sofern die Kontrolle ergeben hat, dass die Schnittstelle, der Betrieb
 oder der Lieferant die Anforderungen nach dieser Verordnung nicht
 erfüllt hat, ist der Bericht der zuständigen Behörde unverzüglich nach
 Abschluss der Kontrolle und elektronisch zu übermitteln.
-
 
 ##### § 53 Weitere Berichte und Mitteilungen
 
@@ -1816,10 +1717,6 @@ Kalenderjahr bis zum 28. Februar des folgenden Kalenderjahres und im
     Zertifizierungssysteme die Voraussetzungen für die Anerkennung nach §
     33 weiterhin erfüllen.
 
-
-
-
-
 ##### § 54 Aufbewahrung, Umgang mit Informationen
 
 (1) Zertifizierungsstellen müssen die Kontrollergebnisse und Kopien
@@ -1831,9 +1728,7 @@ wahrnehmen, gelten sie als informationspflichtige Stellen nach § 2
 Absatz 1 Nummer 2 des Umweltinformationsgesetzes vom 22. Dezember 2004
 (BGBl. I S. 3704) im Geltungsbereich des Umweltinformationsgesetzes.
 
-
 #### Unterabschnitt 3 - Überwachung von Zertifizierungsstellen
-
 
 ##### § 55 Kontrollen und Maßnahmen
 
@@ -1861,9 +1756,7 @@ Zertifizierungsstellen nach dieser Verordnung anerkannt sind, bleiben
 Befugnisse der Zulassungsstelle nach § 28 des Umweltauditgesetzes von
 den Absätzen 1 und 2 unberührt.
 
-
 #### Unterabschnitt 4 - Weitere anerkannte Zertifizierungsstellen
-
 
 ##### § 56 Anerkannte Zertifizierungsstellen auf Grund der Biokraftstoff-Nachhaltigkeitsverordnung
 
@@ -1878,7 +1771,6 @@ ihrer jeweils geltenden Fassung erlassen worden ist.
 (2) Die Unterabschnitte 2 und 3 dieses Abschnitts sind entsprechend
 anzuwenden, soweit sich aus der in Absatz 1 genannten Verordnung
 nichts anderes ergibt.
-
 
 ##### § 57 Weitere anerkannte Zertifizierungsstellen
 
@@ -1907,9 +1799,7 @@ entsprechend anzuwenden, soweit dies mit den Bestimmungen der
 Kommission der Europäischen Gemeinschaften oder des jeweiligen
 bilateralen oder multilateralen Vertrages vereinbar ist.
 
-
 ### Abschnitt 6 - Besondere und Übergangsbestimmungen zum Nachweis
-
 
 #### § 58 Nachweis über die Erfüllung der Anforderungen für den Bonus für nachwachsende Rohstoffe
 
@@ -1940,10 +1830,6 @@ sind:
 
 2.  Bescheinigungen von Umweltgutachterinnen und Umweltgutachtern nach §
     59 Absatz 1.
-
-
-
-
 
 #### § 59 Nachweis durch Umweltgutachterinnen und Umweltgutachter
 
@@ -2000,7 +1886,6 @@ Durchführung von Kontrollen auch außerhalb der Mitgliedstaaten der
 Europäischen Union nach Maßgabe des Umweltauditgesetzes zu dulden. §
 33 Absatz 3 Satz 3 ist entsprechend anzuwenden.
 
-
 #### § 60 Nachweis durch vorläufige Anerkennungen
 
 (1) Die zuständige Behörde kann Zertifizierungssysteme und
@@ -2021,9 +1906,7 @@ Absatz 1 Nummer 1, 4 und 5 unberührt.
 (4) Zertifizierungssysteme und Zertifizierungsstellen können aus einer
 vorläufigen Anerkennung keine Rechtsansprüche ableiten.
 
-
 ## Teil 4 - Zentrales Anlagen- und Informationsregister
-
 
 ### § 61 Anlagenregister
 
@@ -2031,13 +1914,11 @@ Die zuständige Behörde führt ein zentrales Register über alle Anlagen,
 in denen flüssige Biomasse zur Stromerzeugung eingesetzt wird
 (Anlagenregister).
 
-
 ### § 62 Registrierungspflicht
 
 Anlagenbetreiberinnen und Anlagenbetreiber, die flüssige Biomasse zur
 Stromerzeugung einsetzen, müssen ihre Anlage im Anlagenregister
 registrieren lassen.
-
 
 ### § 63 Inhalt der Registrierung
 
@@ -2064,10 +1945,6 @@ enthalten:
 6.  den Namen und die Anschrift des Netzbetreibers, an dessen Netz die
     Anlage zur Stromerzeugung angeschlossen worden ist oder wird.
 
-
-
-
-
 ### § 64 Zeitpunkt der Registrierung
 
 (1) Die Registrierung im Anlagenregister muss vor der Inbetriebnahme
@@ -2084,7 +1961,6 @@ dem der vollständige Antrag bei der zuständigen Behörde eingeht.
 Anlagenbetreiber den Zeitpunkt nach Absatz 3 unverzüglich nach Eingang
 des vollständigen Antrages.
 
-
 ### § 65 Verspätete Registrierung
 
 Für Strom aus Anlagen, deren Registrierung erst nach dem in § 64
@@ -2098,14 +1974,12 @@ nachwachsende Rohstoffe nach Nummer VII.1 der Anlage 2 zum
 Erneuerbare-Energien-Gesetz in der am 31. Dezember 2011 geltenden
 Fassung endgültig entfällt.
 
-
 ### § 66 Informationsregister
 
 Die zuständige Behörde führt ein zentrales Register über alle
 Zertifizierungssysteme, Zertifizierungsstellen, Zertifikate,
 Nachweise, Bescheinigungen und Berichte im Zusammenhang mit der
 Nachweisführung nach dieser Verordnung (Informationsregister).
-
 
 ### § 67 Datenabgleich
 
@@ -2117,7 +1991,6 @@ Bundes-Immissionsschutzgesetzes vorliegen.
 (2) Bei Nachhaltigkeitsnachweisen nach § 23 kann die zuständige
 Behörde Daten mit der Behörde oder Stelle, die diese Nachweise
 ausgestellt hat, abgleichen. § 77 Satz 2 bleibt davon unberührt.
-
 
 ### § 68 Maßnahmen der zuständigen Behörde
 
@@ -2141,13 +2014,6 @@ bezieht:
 
     b)  der Richtigkeit der darin nachgewiesenen Tatsachen.
 
-
-
-
-
-
-
-
 ### § 69 Clearingstelle
 
 (1) Wenden sich die Anlagenbetreiberin oder der Anlagenbetreiber und
@@ -2161,9 +2027,7 @@ Stellungnahme der zuständigen Behörde einholen.
 Verfahren nach Absatz 1. Die berechtigten Interessen der
 Verfahrensbeteiligten sind zu wahren.
 
-
 ## Teil 5 - Datenerhebung und -verarbeitung, Berichtspflichten, behördliches Verfahren
-
 
 ### § 70 Auskunftsrecht der zuständigen Behörde
 
@@ -2184,16 +2048,11 @@ erforderlich ist, um
 3.  die Berichtspflichten der Bundesrepublik Deutschland gegenüber den
     Organen der Europäischen Union zu erfüllen.
 
-
-
-
-
 ### § 71 Berichtspflicht der zuständigen Behörde
 
 Die zuständige Behörde evaluiert diese Verordnung regelmäßig und legt
 der Bundesregierung erstmals zum 31. Dezember 2010 und sodann jedes
 Jahr einen Erfahrungsbericht vor.
-
 
 ### § 72 Berichtspflicht des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
 
@@ -2213,7 +2072,6 @@ Artikel 22 der Richtlinie 2009/28/EG über
 
 Im Bericht muss bewertet werden, ob der Einsatz flüssiger Biomasse für
 die Stromerzeugung sozial zu vertreten ist.
-
 
 ### § 73 Datenübermittlung
 
@@ -2262,7 +2120,6 @@ Absatz 1 Nummer 1 ist nur zulässig unter den Voraussetzungen des § 15
 des Bundesdatenschutzgesetzes. Die Übermittlung dieser Daten an die
 Stellen nach Absatz 1 Nummer 2 und 3 ist nur unter den Voraussetzungen
 der §§ 4b und 4c des Bundesdatenschutzgesetzes zulässig.
-
 
 ### § 74 Zuständigkeit
 
@@ -2329,7 +2186,6 @@ grundsätzlicher Bedeutung sind mit dem Bundesministerium der Finanzen
 abzustimmen und es ist das Einvernehmen mit dem Bundesministerium für
 Umwelt, Naturschutz und Reaktorsicherheit herzustellen.
 
-
 ### § 75 Verfahren vor der zuständigen Behörde
 
 Die Amtssprache ist deutsch. Alle Anträge, die bei der zuständigen
@@ -2338,7 +2194,6 @@ und sonstigen Unterlagen, die der zuständigen Behörde übermittelt
 werden, müssen in deutscher Sprache verfasst oder mit einer
 Übersetzung in die deutsche Sprache versehen sein. § 23 Absatz 2 Satz
 2 bis 4 des Verwaltungsverfahrensgesetzes ist entsprechend anzuwenden.
-
 
 ### § 76 Muster und Vordrucke
 
@@ -2364,7 +2219,6 @@ dem Muster der Anlage 3 oder 4 in englischer oder einer anderen
 Sprache ausgestellt worden sind, eine Übersetzung im Bundesanzeiger
 sowie auf ihrer Internetseite veröffentlichen.
 
-
 ### § 77 Außenverkehr
 
 Der Verkehr mit den Behörden anderer Mitgliedstaaten der Europäischen
@@ -2377,22 +2231,18 @@ mit dem Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und
 Ernährung übertragen.
 
-
 ## Teil 6 - Übergangs- und Schlussbestimmungen
-
 
 ### § 78 Übergangsbestimmung
 
 Diese Verordnung ist nicht auf flüssige Biomasse anzuwenden, die vor
 dem 1. Januar 2011 zur Stromerzeugung eingesetzt wird.
 
-
 ### § 79 Inkrafttreten
 
 (1) Die §§ 24 und 34 Absatz 2 treten am 1. Januar 2010 in Kraft.
 
 (2) Im Übrigen tritt diese Verordnung am 24. August 2009 in Kraft.
-
 
 ### Anlage 1 (zu § 8 Absatz 3) Methode zur Berechnung des Treibhausgas-Minderungspotenzials anhand tatsächlicher Werte
 
@@ -2888,10 +2738,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     E
     F                    85 g CO
     2eq                   /MJ.
-
-
-
-
 
 ### Anlage 2 (zu § 8 Absatz 4) Standardwerte zur Berechnung des Treibhausgas-Minderungspotenzials
 
@@ -3765,19 +3611,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **3.** (weggefallen)
 
-
-
-
-
 ### Anlage 3 (zu § 18 Absatz 2) Muster eines Nachhaltigkeitsnachweises
 
 (Fundstelle: BGBl. I 2009, 2199)
 
-
 ### Anlage 4 (zu § 24 Absatz 1) Muster eines Nachhaltigkeits-Teilnachweises
 
 (Fundstelle: BGBl. I 2009, 2201)
-
 
 ### Anlage 5 (zu § 33 Absatz 1, § 43 Absatz 1) Inhaltliche Anforderungen an Zertifizierungssysteme
 

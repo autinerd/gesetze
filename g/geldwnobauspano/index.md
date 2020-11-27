@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1950, Nr 3
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 der 33. Durchführungsverordnung zum
 Umstellungsgesetz (Bausparkassenverordnung) wird im Einvernehmen mit
 den übrigen Aufsichtsbehörden und der Bank deutscher Länder folgendes
 angeordnet:
-
 
 ## § 1 Fristen und Termine
 
@@ -37,7 +34,6 @@ Wartezeit gilt als entsprechend hinausgeschoben.
 Zuteilungsanwartschaft die Wartezeit auf die Mindestwartezeit voll
 angerechnet.
 
-
 ## § 2 Bewertung der Bausparguthaben
 
 (1) Die Bewertungsziffer der bis zum 20. Juni 1948 geleisteten
@@ -46,7 +42,6 @@ wird der Zuwachs der Bewertungsziffern nach den vertraglichen
 Bausparbedingungen errechnet.
 
 (2) Die Reihenfolge nach dem Listensystem bleibt unberührt.
-
 
 ## § 3 Festsetzung der Bausparsumme und der Bewertungsziffer bei Widerspruch
 
@@ -66,7 +61,6 @@ unverändert bleibt.
 (3) Der Bausparer kann den Widerspruch bis zum 20. Juni 1950
 zurücknehmen.
 
-
 ## § 4 Umstellung der Tilgungsbeiträge
 
 Die vereinbarten tariflichen Reichsmark-Tilgungsbeiträge zuzüglich
@@ -76,7 +70,6 @@ Tilgungsbeiträge). Zahlungsverpflichtungen auf Grund des Gesetzes zur
 Sicherung von Forderungen für den Lastenausgleich werden hiervon nicht
 berührt.
 
-
 ## § 5 Erleichterte Herabsetzung der Bausparsumme
 
 Wird eine Herabsetzung der Bausparsumme bis zum 30. Juni 1950
@@ -84,7 +77,6 @@ beantragt, so wird das vertragliche Teilkündigungsverfahren nicht
 angewandt. Das zum wegfallenden Teil der Bausparsumme gehörende
 Bausparguthaben wird als Sonderleistung des Bausparers im Zeitpunkt
 der Herabsetzung behandelt.
-
 
 ## § 6 Schlußbestimmungen
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 88
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 13 des Ersten Gesetzes zur Überleitung von Lasten und
@@ -25,10 +23,7 @@ Fassung vom 21. August 1951 (Bundesgesetzbl. I S. 779) verordnet die
 Bundesregierung zur Durchführung des § 7 Abs. 2 und der §§ 8 bis 12
 des Gesetzes mit Zustimmung des Bundesrates:
 
-
 ## Abschnitt I - Personenkreis der Kriegsfolgenhilfe-Empfänger
-
-
 
 ### § 1 Heimatvertriebene
 
@@ -37,7 +32,6 @@ Heimatvertriebene (§ 7 Abs. 2 Ziff. 1 des Gesetzes) sind die nach den
 (Bundesgesetzbl. I S. 201) als Vertriebene (Heimatvertriebene)
 anerkannten Personen, soweit sie nach den Vorschriften dieses Gesetzes
 zur Inanspruchnahme von Rechten und Vergünstigungen berechtigt sind.
-
 
 ### § 2 Evakuierte
 
@@ -86,7 +80,6 @@ Die in Satz 1 Ziff. 1 und 2 bestimmten Fristen beginnen frühestens am
 (3) Absatz 2 gilt nicht für die Kosten der Rückführung oder Rückkehr
 von Evakuierten (§ 8 Abs. 2 des Bundesevakuiertengesetzes).
 
-
 ### § 3 Zugewanderte
 
 (1) Zugewanderte aus der sowjetischen Besatzungszone und der Stadt
@@ -114,7 +107,6 @@ nicht zurückgekehrt sind.
 
 (3) § 2 Abs. 2 Satz 1 Ziff. 1 und Satz 2 gilt entsprechend.
 
-
 ### § 4 Ausländer und Staatenlose
 
 (1) Ausländer und Staatenlose sind Kriegsfolgenhilfe-Empfänger im
@@ -133,7 +125,6 @@ solange ihre Rückkehr in das Herkunftsland oder Heimatland nicht
 möglich oder nicht zumutbar oder ihre Ausweisung nicht möglich ist.
 
 (2) § 2 Abs. 2 Satz 1 Ziff. 1 und Satz 2 gilt entsprechend.
-
 
 ### § 5 Angehörige von Kriegsgefangenen und Vermißten, Heimkehrer
 
@@ -159,7 +150,6 @@ Bundesversorgungsgesetzes vom 19. Januar 1955 (Bundesgesetzbl. I S.
 
 (3)
 
-
 ### § 6 Kriegsbeschädigte, Kriegshinterbliebene und ihnen gleichgestellte Personen
 
 Kriegsbeschädigte, Kriegshinterbliebene und ihnen gleichgestellte
@@ -169,10 +159,7 @@ Kriegsbeschädigte und ihnen gleichgestellte Personen jedoch nur
 insoweit, als die Voraussetzungen für die Gewährung der
 Fürsorgeleistungen auf der anerkannten Schädigung beruhen.
 
-
 ## Abschnitt II - Verrechnungsfähigkeit der Fürsorgekosten
-
-
 
 ### § 7 Verrechnungsfähige Kosten
 
@@ -218,10 +205,6 @@ nach den für die einzelnen Anstalten festgesetzten Pflegesätzen.
     (Reichsgesetzbl. I S. 109) und 28. August 1953 (Bundesgesetzbl. I S.
     1035).
 
-
-
-
-
 ### § 8 Besondere Voraussetzungen der Verrechnungsfähigkeit
 
 (1) ...
@@ -249,13 +232,11 @@ Jugendliche (§ 10 Ziff. 2 des Gesetzes) sind nur verrechnungsfähig,
 wenn die Erholungsfürsorge in Heimen durchgeführt wird, welche die
 Landesregierung oder die von ihr ermächtigte Stelle anerkannt hat.
 
-
 ### § 9 Nichtverrechnungsfähige Kosten
 
 Nicht verrechnungsfähig sind Kosten der Wohnungs- und
 Siedlungsfürsorge nach den Verwaltungsvorschriften zur Durchführung
 der §§ 25 bis 27 des Bundesversorgungsgesetzes vom 10. Dezember 1951.
-
 
 ### § 10 Durchgangs- und Wohnlager
 
@@ -318,10 +299,7 @@ Entgelte, welche die im Lager untergebrachten Personen und das
 Lagerpersonal für Unterbringung, Verpflegung und sonstige Leistungen
 zahlen, und die von Dritten erstatteten Beträge.
 
-
 ## Abschnitt III - Übergangsvorschriften, Inkrafttreten
-
-
 
 ### § 11 Übergangsvorschrift
 
@@ -331,12 +309,10 @@ Abs. 2 Ziff. 3 des Gesetzes auch dann, wenn sie nicht im Besitz einer
 nach bundes-, landes- oder besatzungsrechtlichen Vorschriften
 erforderlichen Zuzugs- oder Aufenthaltsgenehmigung sind.
 
-
 ### § 12 Geltung in Berlin
 
 Diese Verordnung gilt gemäß § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
-
 
 ### § 13 Inkrafttreten
 

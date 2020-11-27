@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 18 Nr. 1 G v. 19.12.2000 I 1790
 
-
 ## Eingangsformel
 
 Auf Grund des § 55 Abs. 3 und 4 und des § 123 Abs. 1 des
 Bewertungsgesetzes in der Fassung vom 10. Dezember 1965
 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -41,7 +39,6 @@ aufgeführt sind, werden die Normalwerte auf Null DM festgesetzt.
 
 (3) Die Zusammensetzung der Bewertungsgebiete nach Finanzamtsbezirken
 und Gemeinden ergibt sich aus der Anlage 2.
-
 
 ## § 2
 
@@ -253,24 +250,20 @@ sie geringer sind als 50,-- DM.
 Gesamtfläche 2 ha nicht übersteigt, werden die Normalwerte auf Null DM
 festgesetzt.
 
-
 ## § 3
 
 Die Hundertsätze für die Anteile der einzelnen Alters- oder
 Vorratsklassen an den Normalwerten werden einheitlich für alle
 Bewertungsgebiete in der aus Anlage 3 zu ersehenden Höhe festgesetzt.
 
-
 ## § 4
 
 Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten
 nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Normalwerte
 
@@ -7301,10 +7294,6 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *
     *   274
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 3) Bewertungsgebiete Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
 
 (Fundstelle: BGBl. I 1967, 815 - 835)
@@ -12702,10 +12691,6 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 *    *
     *   Bewertungsgebiet 11101                        besteht aus allen
         Finanzamtsbezirken des Landes Berlin
-
-
-
-
 
 ## Anlage 3 (zu § 3)
 

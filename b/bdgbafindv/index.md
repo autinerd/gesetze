@@ -17,14 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 303
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 83 Abs. 1 Satz 2 des Bundesdisziplinargesetzes vom 9.
 Juli 2001 (BGBl. I S. 1510) verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium des Innern:
-
 
 ## § 1 Zuständigkeitsübertragung
 
@@ -34,7 +31,6 @@ Beamtinnen und Beamten der Besoldungsgruppen A 1 bis A 16 und B 1 bis
 B 3 der Bundesbesoldungsordnungen A und B (Anlage I des
 Bundesbesoldungsgesetzes) der Präsidentin oder dem Präsidenten der
 Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
-
 
 ## § 2 Inkrafttreten
 

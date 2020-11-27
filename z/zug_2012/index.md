@@ -27,7 +27,6 @@ EU Nr. L 275 S. 32). Das G wurde als Artikel 1 d. G v. 7.8.2007 I 1788
 vom Bundestag beschlossen. Es ist gem. Art. 4 dieses G am 11.8.2007 in
 Kraft getreten.
 
-
 ## Inhaltsverzeichnis
 
 
@@ -199,13 +198,7 @@ Kraft getreten.
 
 *    *   Anhang 1 bis 5
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -213,7 +206,6 @@ Zweck dieses Gesetzes ist es, im Hinblick auf die Zuteilungsperiode
 2008 bis 2012 nationale Ziele für die Emission von Treibhausgasen in
 Deutschland sowie Regeln für die Zuteilung, die Ausgabe und die
 Veräußerung von Emissionsberechtigungen festzulegen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -226,7 +218,6 @@ ist, gilt es für die Zuteilungsperiode 2008 bis 2012. Soweit sich
 Regelungen des Zuteilungsgesetzes 2007 über die Zuteilungsperiode 2005
 bis 2007 hinaus erstrecken, werden sie durch die Regelungen dieses
 Gesetzes ersetzt.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -274,13 +265,7 @@ Begriffsbestimmungen des Treibhausgas-Emissionshandelsgesetzes.
     entstehendes Gicht-, Kokerei- oder Konvertergas oder eine Mischung aus
     diesen Gasen.
 
-
-
-
-
 ## Abschnitt 2 - Mengenplanung
-
-
 
 ### § 4 Nationale Emissionsziele
 
@@ -327,7 +312,6 @@ zwölf auf den Abschluss der Modernisierungsmaßnahme folgenden
 Kalenderjahren in die Zuteilungsperiode 2008 bis 2012 hineinreicht
 oder der Nachweis nach § 12 Abs. 1 Satz 5 des Zuteilungsgesetzes 2007
 erbracht wurde.
-
 
 ### § 5 Reserve
 
@@ -385,10 +369,7 @@ Behörde kostenlos zur Verfügung zu stellen. Zum Ausgleich erhält die
 beauftragte Stelle die Beschaffungskosten sowie den mit der
 Beschaffung verbundenen Aufwand erstattet.
 
-
 ## Abschnitt 3 - Zuteilungsregeln
-
-
 
 ### § 6 Zuteilung für bestehende Industrieanlagen mit Inbetriebnahme bis zum 31. Dezember 2002
 
@@ -503,7 +484,6 @@ der Datenmitteilung nach § 2 Abs. 2 Nr. 2 der Datenerhebungsverordnung
 2012 waren. § 12 Abs. 1 bis 4 des Zuteilungsgesetzes 2007 findet für
 diese Anlagen entsprechende Anwendung.
 
-
 ### § 7 Zuteilung für bestehende Anlagen der Energiewirtschaft mit Inbetriebnahme bis zum 31. Dezember 2002
 
 (1) Für Anlagen nach Anhang 1 Ziffern I bis V des Treibhausgas-
@@ -547,7 +527,6 @@ abweichend von Absatz 1 eine Zuteilung nach § 6 ohne Anwendung eines
 Erfüllungsfaktors.
 
 (5) § 6 Abs. 6 und 7 gilt entsprechend.
-
 
 ### § 8 Zuteilung für bestehende Anlagen mit Inbetriebnahme in den Jahren 2003 bis 2007
 
@@ -615,7 +594,6 @@ Zuteilungsentscheidung für die Ersatzanlage aus der Zuteilungsperiode
 2005 bis 2007 ergibt, soweit dieser Zeitraum in die Zuteilungsperiode
 2008 bis 2012 hineinreicht.
 
-
 ### § 9 Zuteilung für Neuanlagen
 
 (1) Für Neuanlagen werden auf Antrag Berechtigungen für die Jahre 2008
@@ -666,7 +644,6 @@ des Anhangs 1.
 bestehenden Anlage nach dem 31. Dezember 2007 finden die Absätze 1 bis
 4 für die neuen Kapazitäten entsprechende Anwendung. Die Zuteilung für
 die Anlage im Übrigen bleibt unberührt.
-
 
 ### § 10 Einstellung des Betriebes von Anlagen
 
@@ -723,7 +700,6 @@ Kalenderjahre in der Zuteilungsperiode entspricht. Für die Bestimmung
 des Emissionswertes je erzeugter Produkteinheit gilt § 9 Abs. 2 bis 4
 entsprechend. Für den Nachweis der Mehrproduktion sind die näheren
 Festlegungen in einer Rechtsverordnung nach § 13 maßgeblich.
-
 
 ### § 11 Kuppelgas
 
@@ -795,7 +771,6 @@ Anzahl von Berechtigungen kostenlos zu übertragen, die dem
 Kohlendioxid-Äquivalent der im vorangegangenen Kalenderjahr
 verwerteten Kuppelgasmenge entspricht.
 
-
 ### § 12 Besondere Härtefallregelung
 
 (1) Wurde durch die Gesamtheit der von demselben Unternehmen
@@ -834,7 +809,6 @@ gilt jedes von ihnen als herrschendes. Steht einer Person oder
 Personenvereinigung, die nicht Unternehmen ist, die
 Mehrheitsbeteiligung an einem Unternehmen zu, gilt sie als
 Unternehmen.
-
 
 ### § 13 Nähere Bestimmung der Berechnung der Zuteilung
 
@@ -885,10 +859,6 @@ Zustimmung des Bundesrates Vorschriften zu erlassen für
 9.  den Nachweis der Mehrproduktion im Falle der Produktionsübernahme nach
     § 10 Abs. 6.
 
-
-
-
-
 ### § 14 Antragsfristen
 
 (1)  Anträge auf Zuteilungen nach den §§ 6 bis 8 oder § 12 sind
@@ -897,7 +867,6 @@ zu stellen.
 
 (2) Anträge auf Zuteilungen nach § 9 sind spätestens bis zur
 Inbetriebnahme der Neuanlage zu stellen.
-
 
 ### § 15 Überprüfung von Angaben
 
@@ -911,7 +880,6 @@ Sachverständigen beauftragen. Die zuständige Behörde teilt
 Berechtigungen nur zu, soweit die Richtigkeit der Angaben ausreichend
 gesichert ist.
 
-
 ### § 16 Kosten der Zuteilung
 
 Von der zuständigen Behörde nach den §§ 6 bis 9 zugeteilte
@@ -920,10 +888,7 @@ Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, bleibt hiervon unberührt.
 
-
 ## Abschnitt 4 - Ausgabe und Abgabe von Berechtigungen
-
-
 
 ### § 17 Ausgabe
 
@@ -941,7 +906,6 @@ Zuteilungsentscheidung vor dem 28. Februar eines Kalenderjahres, so
 werden Berechtigungen nach Satz 1 erstmals zum 28. Februar desselben
 Jahres ausgegeben.
 
-
 ### § 18 Erfüllung der Abgabepflicht
 
 Bei der Erfüllung der Abgabepflicht nach § 6 Abs. 1 des Treibhausgas-
@@ -957,10 +921,7 @@ insgesamt nicht höher sein als 22 Prozent der für die
 Zuteilungsperiode 2008 bis 2012 dem Betreiber zugeteilten Menge an
 Berechtigungen.
 
-
 ## Abschnitt 5 - Veräußerung von Berechtigungen
-
-
 
 ### § 19 Umfang und Verwendung
 
@@ -969,7 +930,6 @@ In der Zuteilungsperiode 2008 bis 2012 werden unbeschadet des § 5 Abs.
 veräußert. Die Erlöse aus der Veräußerung stehen dem Bund zu. Über die
 Verwendung der Erlöse wird im Rahmen des jährlichen Haushaltsgesetzes
 entschieden.
-
 
 ### § 20 Aufkommen
 
@@ -983,7 +943,6 @@ Zuteilungsmenge um einen Faktor verringert, der dem Verhältnis von 38
 Millionen Berechtigungen pro Jahr zur gesamten jährlichen Zuteilung
 für die Stromproduktion an bestehende Anlagen nach den §§ 7, 8 und 12
 entspricht.
-
 
 ### § 21 Verfahren
 
@@ -1017,10 +976,7 @@ Versteigerungstermine sollen Überschneidungen mit
 Versteigerungsterminen in anderen Mitgliedstaaten der Europäischen
 Union vermieden werden.
 
-
 ## Abschnitt 6 - Gemeinsame Vorschriften
-
-
 
 ### § 22 Bußgeldvorschriften
 
@@ -1042,14 +998,12 @@ Union vermieden werden.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 23 Zuständige Behörde
 
 Zuständige Behörde im Sinne dieses Gesetzes ist die Behörde nach § 20
 Abs. 1 Satz 2 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli
 2004 (BGBl. I S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom
 11\. August 2010 (BGBl. I S. 1163) geändert worden ist.
-
 
 ### Anhang 1 Berechnungsformeln
 
@@ -1353,9 +1307,6 @@ dem 1. Januar 2008
     *   Brennstoffenergie der eingesetzten sonstigen Brennstoffe in den Jahren
         2005 und 2006 (in MWh pro Jahr)
 
-
-
-
 ### Anhang 2 (zu § 9 Abs. 3 und § 12 Abs. 1) Vergleichbarkeit von Anlagen
 
 (Fundstelle: BGBl. I 2007, 1798;
@@ -1490,10 +1441,6 @@ Kategorie 17: Anlagen zum Abfackeln von gasförmigen Stoffen in See/Land-
     durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S. 1163)
     geändert worden ist, nach dessen Anhang 1, Nummer XVIII unterliegen.
 
-
-
-
-
 ### Anhang 3 (zu § 7 Abs. 1 und 2, § 8 Abs. 1 und § 9 Abs. 2 Satz 1)
 
 ( Fundstelle: BGBl. I 2007, 1799 )
@@ -1618,10 +1565,6 @@ I)  Die genehmigungsrechtlich zulässige Möglichkeit, gasförmige
 II) Sofern die Anlage als gemeinsame Anlage aus mehreren, ansonsten
     selbständig genehmigungsbedürftigen Teilanlagen besteht, gilt die
     Zuordnung nach Teil A für jede Teilanlage gesondert.
-
-
-
-
 
 ### Anhang 4 (zu § 3 Abs. 2 Nr. 8 in Verbindung mit § 8 und § 9) Vollbenutzungsstunden
 
@@ -1821,13 +1764,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         erzeugten Produkte einer Neuanlage maßgeblich, so ist im Fall mehrerer
         möglicher Abnehmer für die Zuordnung von Vollbenutzungsstunden der
         Hauptabnehmer maßgeblich.
-
-
-
-
-
-
-
 
 ### Anhang 5 (zu § 4 Abs. 3) Anteilige Kürzung der Zuteilungsmenge entsprechend dem Effizienzstandard der Anlage
 

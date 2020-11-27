@@ -25,7 +25,6 @@ Gemeinschaft
 am Straßenverkehr teilnehmen (ABl. EG Nr. L 203 S. 1), in deutsches
 Recht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 20 des Straßenverkehrsgesetzes in der
@@ -46,7 +45,6 @@ von denen
 
 verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung gelten für die technische
@@ -56,7 +54,6 @@ aus einem Drittland in Deutschland einfahren.
 (2) Auf Grund anderer Rechtsvorschriften durchzuführende Kontrollen
 von Nutzfahrzeugen, die nicht unter Absatz 1 fallen, bleiben
 unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -93,10 +90,6 @@ Im Sinne dieser Verordnung bezeichnet der Begriff:
     oder Vertragsstaaten des Abkommens über den Europäischen
     Wirtschaftsraum sind.
 
-
-
-
-
 ## § 3 Zuständigkeiten
 
 (1) Die Kontrollen führen die nach Bundes- und Landesrecht zuständigen
@@ -115,7 +108,6 @@ Verordnung die Informationen und die Amtshilfe unter den
 Mitgliedstaaten und deren Behörden und das Berichtswesen mit der
 Kommission der Europäischen Gemeinschaften entsprechend der §§ 8 bis
 10 durchführt.
-
 
 ## § 4 Häufigkeit der Kontrollen
 
@@ -140,7 +132,6 @@ durch das Bundesamt für Güterverkehr in Abstimmung mit dem Kraftfahrt-
 Bundesamt zur Verfügung gestellt. Die Zahlen über die durch die
 zuständigen Bundesbehörden durchgeführten Kontrollen werden ebenfalls
 bekannt gegeben. Die erste Übersicht erfolgt zum 30. Juni 2005.
-
 
 ## § 5 Kontrollen auf der Straße
 
@@ -204,7 +195,6 @@ aufgeführten Prüfpunkte. Dabei erfolgt die Überprüfung der Bremsanlage
 und der Abgasemissionen nach den Bestimmungen des Anhangs II der
 Richtlinie 2010/47/EU.
 
-
 ## § 6 Kontrollbericht
 
 Über die Prüfung auf Wartungsmängel gemäß § 5 Abs. 2 Nr. 3 haben die
@@ -212,7 +202,6 @@ zuständigen Behörden oder die Beauftragten, wenn Wartungsmängel
 festgestellt werden, einen Kontrollbericht nach dem Muster des Anhangs
 I der Richtlinie 2010/47/EU zu fertigen. Eine Ausfertigung des
 Kontrollberichts erhält der Fahrer des geprüften Nutzfahrzeugs.
-
 
 ## § 7 Festgestellte Mängel
 
@@ -234,10 +223,6 @@ von der zuständigen Behörde veranlasst werden:
 3.  die Verweigerung der Einfahrt des Nutzfahrzeugs, das in einem
     Drittland zugelassen ist, nach Deutschland.
 
-
-
-
-
 ## § 8 Informationen unter den Mitgliedstaaten
 
 Die obersten Landesbehörden oder die von ihnen beauftragten Stellen
@@ -246,7 +231,6 @@ Durchführung der Informationen unter den Mitgliedstaaten mit, welche
 Behörde in ihrem Land für die Durchführung der Kontrollen zuständig
 und wer Ansprechpartner ist. Die erste Mitteilung erfolgt einen Monat
 nach Verkündung dieser Verordnung.
-
 
 ## § 9 Amtshilfe unter den Behörden der Mitgliedstaaten
 
@@ -287,7 +271,6 @@ des Mitgliedstaats mit.
 richten die zuständigen Behörden unmittelbar an das Bundesamt für
 Güterverkehr, das die grenzüberschreitende Amtshilfe koordiniert.
 
-
 ## § 10 Berichtswesen
 
 (1) Die nach Bundes- und Landesrecht zuständigen Behörden übermitteln
@@ -318,7 +301,6 @@ Gemeinschaften.
 (3) Die erste Übermittlung von Daten erstreckt sich auf den
 Zweijahreszeitraum vom 1. Januar 2003 bis 31. Dezember 2004.
 
-
 ## § 11 Kontrollen des Bundesamtes für Güterverkehr, der Bundespolizei und der Zollverwaltung
 
 Diese Verordnung wird entsprechend angewendet durch:
@@ -334,28 +316,18 @@ Diese Verordnung wird entsprechend angewendet durch:
 3.  den Grenzzolldienst bei Kontrollen an den Grenzübergängen und im
     grenznahen Raum.
 
-
-
-
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des dritten auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
 ## Anlage 1 (weggefallen)
 
-
-
 ## Anlage 2 (weggefallen)
-
-
 
 ## Anlage 3 (zu § 10 Abs. 1) Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Wartungsmängeln
 

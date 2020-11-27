@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Servicekraft für Schutz und Sicherheit wird nach
 § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -110,10 +106,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 4.  Umweltschutz.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -133,7 +125,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -174,10 +165,6 @@ Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -423,7 +410,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 7 Fortsetzung der Berufsausbildung
 
 Die erfolgreich abgeschlossene Berufsausbildung im Ausbildungsberuf
@@ -431,11 +417,9 @@ Die erfolgreich abgeschlossene Berufsausbildung im Ausbildungsberuf
 „Fachkraft für Schutz und Sicherheit“ nach den Vorschriften für das
 dritte Ausbildungsjahr fortgesetzt werden.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Servicekraft für Schutz und Sicherheit
 
@@ -828,9 +812,6 @@ Fähigkeiten
 
     *
     *   12
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

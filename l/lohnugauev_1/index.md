@@ -18,7 +18,6 @@ Fundstelle
 V aufgeh. durch
 :   § 3 mWv 1.11.2013
 
-
 ## Eingangsformel
 
 Auf Grund des § 3a Absatz 2 in Verbindung mit Absatz 1, 3 und 5 des
@@ -32,7 +31,6 @@ sind, Gelegenheit zur schriftlichen Stellungnahme gegeben hat und der
 in § 5 Absatz 1 Satz 1 des Tarifvertragsgesetzes genannte Ausschuss
 befasst wurde:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung findet Anwendung auf alle Arbeitgeber, die als
@@ -42,7 +40,6 @@ wirtschaftlichen Tätigkeit überlassen. Diese Verordnung findet auch
 auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Verleiher
 und seinen im Inland beschäftigten Arbeitnehmerinnen und Arbeitnehmern
 Anwendung.
-
 
 ## § 2 Lohnuntergrenze
 
@@ -123,7 +120,6 @@ gegen Insolvenz zu sichern und die Insolvenzsicherung der
 Leiharbeitnehmerin bzw. dem Leiharbeitnehmer nachzuweisen. Ohne diesen
 Nachweis darf das Arbeitszeitguthaben höchstens 150 Plusstunden
 umfassen.
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

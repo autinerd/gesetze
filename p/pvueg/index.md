@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1973, 1069
 
-
-
 ## Art 1
 
 Den folgenden von der Bundesrepublik Deutschland am 21. Juli 1971 in
@@ -37,18 +35,15 @@ Paris unterzeichneten Übereinkünften wird zugestimmt:
 
 Die Übereinkünfte werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, die in Artikel VI Abs. 1 Ziffer
 ii des Anhangs zur Pariser Fassung der Berner Übereinkunft zum Schutz
 von Werken der Literatur und Kunst vorgesehene Erklärung abzugeben.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
@@ -58,12 +53,10 @@ Welturheberrechtsabkommen im Geltungsbereich dieses Gesetzes genießen,
 sind die Bestimmungen in Artikel IV Abs. 4 bis 6 des revidierten
 Welturheberrechtsabkommens anzuwenden.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

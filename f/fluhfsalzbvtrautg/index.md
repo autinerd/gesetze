@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1974, 13
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und der Republik Österreich über
 Auswirkungen der Anlage und des Betriebes des Flughafens Salzburg auf
 das Hoheitsgebiet der Bundesrepublik Deutschland wird zugestimmt. Der
 Vertrag wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -44,7 +40,6 @@ bereits angelegten und in Betrieb genommenen Verkehrsflughafen
 beziehen. Der Bauschutzbereich nach Artikel 1 und Artikel 3 Abs. 1 des
 Vertrages ist in der Anlage zu diesem Gesetz festgelegt.
 
-
 ## Art 3
 
 Zuständige deutsche Luftfahrtbehörde ist in den Fällen des Artikels 2
@@ -54,12 +49,10 @@ bestimmte Stelle; im übrigen richtet sich die Zuständigkeit nach dem
 Luftverkehrsgesetz und seinen Durchführungsvorschriften oder sonstigen
 anwendbaren deutschen Rechtsvorschriften.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 
@@ -67,7 +60,6 @@ Anwendung dieses Gesetzes feststellt.
 
 (2) Der Tag, an dem der Vertrag nach seinem Artikel 14 Abs. 2 in Kraft
 tritt, ist im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Anlage zum Vertragsgesetz (Artikel 2 Satz 3)
 

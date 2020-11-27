@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 7.12.2011 I 2630
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 über Vermarktungsnormen für Obst und Gemüse.
-
 
 ## § 2 Befreiungen
 
@@ -37,7 +35,6 @@ Verarbeitungserzeugnisse aus Obst und Gemüse (ABl. L 157 vom
 Verpflichtung zur Einhaltung der speziellen Vermarktungsnormen
 befreit, sofern die Bedingungen der allgemeinen Vermarktungsnorm
 eingehalten werden.
-
 
 ## § 3 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
 
@@ -101,7 +98,6 @@ umfassen:
 verpflichtet, die Erzeugnisse für eine Stichprobenkontrolle zu
 bestimmen und zu kontrollieren.
 
-
 ## § 4 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 113a Absatz 3 erster
@@ -130,7 +126,6 @@ Nr. 543/2011 verstößt, indem er
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ## § 5 Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
@@ -145,7 +140,6 @@ Ordnungswidrigkeiten wird in den Fällen
 
 auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen,
 soweit sie nach § 3 für die Überwachung zuständig ist.
-
 
 ## Schlussformel
 

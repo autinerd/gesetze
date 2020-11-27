@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2044
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,13 +29,11 @@ Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie
 nach Anhörung des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung:
 
-
 ## § 1
 
 Für die Eignung der Ausbildungsstätte gelten neben den in § 22 Abs. 1
 Nr. 2 des Berufsbildungsgesetzes genannten Anforderungen die in den
 nachfolgenden §§ 2 und 3 näher festgelegten weiteren Anforderungen.
-
 
 ## § 2 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
@@ -87,7 +83,6 @@ nicht älter als ein Jahr ist.
 (7) Wenn über das Vermögen des Inhabers ein Konkurs- oder
 Vergleichsverfahren eröffnet worden ist, ist zu vermuten, daß der
 Betrieb als Ausbildungsstätte ungeeignet ist.
-
 
 ## § 3 Fachrichtungsspezifische Mindestanforderungen an die Ausbildungsstätte
 
@@ -140,7 +135,6 @@ Zierpflanzen für verschiedene Verwendungszwecke umfassen. Geeignete
 Einrichtungen für die Aufbereitung und die Vermarktung der
 Zierpflanzen müssen vorhanden sein.
 
-
 ## § 4 Ausnahmeregelungen
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
@@ -150,7 +144,6 @@ vermittelbaren erforderlichen Fertigkeiten und Kenntnisse durch
 Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in Form
 überbetrieblicher Ausbildung oder in einer anderen anerkannten
 Ausbildungsstätte vermittelt werden können.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

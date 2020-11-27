@@ -49,13 +49,7 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
     Handelsverkehr mit Rindern und Schweinen (ABl. L 105 vom 3.5.2000, S.
     34).
 
-
-
-
-
 ## Abschnitt 1 - Viehtransportfahrzeuge, Viehladestellen
-
-
 
 ### § 1 Viehtransportfahrzeuge
 
@@ -90,10 +84,6 @@ haben zu sorgen:
 
 3.  bei Beförderungsmitteln nach Absatz 1 Satz 3 der
     Verfügungsberechtigte.
-
-
-
-
 
 ### § 2 Viehladestellen
 
@@ -183,10 +173,7 @@ großem Viehverkehr anordnen, dass
 
 geschaffen werden.
 
-
 ## Abschnitt 2 - Viehausstellungen, Viehmärkte, Schlachtstätten
-
-
 
 ### § 3 Viehausstellungen, Viehmärkte
 
@@ -256,10 +243,6 @@ soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 3.  Gefälle zu einem Abfluss erhalten, der an die Kanalisation oder eine
     sonstige Einrichtung zur Beseitigung von Abwasser angeschlossen ist.
 
-
-
-
-
 ### § 4 Anzeige, Beschränkung und Verbot
 
 (1) Viehausstellungen, Viehmärkte und Veranstaltungen ähnlicher Art
@@ -270,7 +253,6 @@ schriftlich anzuzeigen.
 (2) Die zuständige Behörde kann Veranstaltungen nach Absatz 1
 beschränken oder verbieten, soweit dies aus Gründen der
 Tierseuchenbekämpfung erforderlich ist.
-
 
 ### § 5 Auftrieb
 
@@ -285,7 +267,6 @@ festgesetzt sein, dass der Auftrieb nicht vor Sonnenaufgang beginnt
 und nicht nach Sonnenuntergang endet. Die zuständige Behörde kann den
 Auftrieb auf bestimmte Stunden beschränken.
 
-
 ### § 6 Amtstierärztliche Untersuchung
 
 (1) Die Tiere sind beim Auftrieb auf Viehmärkte amtstierärztlich zu
@@ -299,7 +280,6 @@ Viehausstellungen eine amtstierärztliche Untersuchung anordnen, soweit
 dies aus Gründen der Tierseuchenbekämpfung erforderlich ist. In Zeiten
 erhöhter Seuchengefahr kann sie ferner eine amtstierärztliche
 Untersuchung der Tiere beim Auftrieb auf Schlachtstätten anordnen.
-
 
 ### § 7 Abtrieb von Schlachtviehmärkten und Schlachtstätten
 
@@ -322,10 +302,7 @@ und Belange der Tierseuchenbekämpfung nicht entgegenstehen. Satz 1
 gilt nicht für Tiere, die unmittelbar auf einen anderen
 Schlachtviehmarkt oder in eine Schlachtstätte verbracht werden.
 
-
 ## Abschnitt 3 - Gastställe
-
-
 
 ### § 8 Gastställe
 
@@ -342,13 +319,7 @@ Gastställe müssen folgende Anforderungen erfüllen:
     Vorratsbehälter, muss aus leicht zu reinigendem und zu
     desinfizierendem Material sein.
 
-
-
-
-
 ## Abschnitt 4 - Viehkastrierer
-
-
 
 ### § 9 Viehkastrierer
 
@@ -357,10 +328,7 @@ dürfen Tiere nicht kastrieren, die an einer anzeigepflichtigen
 Tierseuche leiden oder bei denen der Verdacht auf eine solche
 Tierseuche vorliegt.
 
-
 ## Abschnitt 5 - Wanderschafherden
-
-
 
 ### § 10 Wanderschafherden
 
@@ -396,10 +364,7 @@ Aufzeichnungen und die Genehmigung nach Absatz 1 Satz 1 während der
 Wanderung mitzuführen und der zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ## Abschnitt 6 - Viehhandelsunternehmen, Transportunternehmen, Sammelstellen
-
-
 
 ### § 11 Anzeige
 
@@ -409,7 +374,6 @@ Sammelstelle betreiben will, hat dies der zuständigen Behörde vor
 Beginn der Tätigkeit unter Angabe seines Namens und seiner Anschrift
 sowie, im Falle des Betreibens einer Sammelstelle, den Ort der
 Sammelstelle, anzuzeigen. Änderungen sind unverzüglich anzuzeigen.
-
 
 ### § 12 Viehhandelsunternehmen
 
@@ -437,7 +401,6 @@ Die Zulassung ist auf die im Antrag genannte Betriebsstätte zu
 begrenzen. Sie kann auf den Handel mit Tieren derselben Art oder
 bestimmter Arten beschränkt werden.
 
-
 ### § 13 Transportunternehmen
 
 (1) Ein Betrieb, der darauf gerichtet ist, Rinder, Schweine, Schafe,
@@ -461,7 +424,6 @@ zuständigen Behörde zugelassen, soweit
 
 Die Zulassung kann auf den Transport von Tieren derselben Art oder
 bestimmter Arten beschränkt werden.
-
 
 ### § 14 Sammelstellen
 
@@ -489,7 +451,6 @@ zuständigen Behörde zugelassen, soweit
 
 Die Zulassung kann auf die Zusammenführung von Tieren derselben Art
 oder bestimmter Arten beschränkt werden.
-
 
 ### § 15 Registrierung und Bekanntmachung der Zulassung, Anerkennung von Zulassungen
 
@@ -522,7 +483,6 @@ Transportunternehmen und Sammelstellen unter Angabe der jeweils
 erteilten Registriernummer sowie die Rücknahme, den Widerruf oder das
 Ruhen der Zulassung im Bundesanzeiger bekannt.
 
-
 ### § 16 Ruhen der Zulassung
 
 Stellt die zuständige Behörde bei einem zugelassenen
@@ -533,10 +493,7 @@ Mängel für einen bestimmten Zeitraum das Ruhen der Zulassung an. Im
 Falle eines Betriebes oder einer Schlachtstätte bestimmt sich das
 Ruhen der Zulassung nach den in § 15 Absatz 2 genannten Vorschriften.
 
-
 ## Abschnitt 7 - Reinigung und Desinfektion
-
-
 
 ### § 17 Transportmittel
 
@@ -593,10 +550,6 @@ anordnen, dass
 3.  bei Beförderungsmitteln nach Absatz 1 Satz 3 der
     Verfügungsberechtigte.
 
-
-
-
-
 ### § 18 Flächen, Räume und Gerätschaften
 
 (1) Viehladestellen, Laderampen, Räume für die vorübergehende
@@ -634,7 +587,6 @@ den Voraussetzungen des § 2 Absatz 4 genehmigen.
 
 soweit dies zur Tierseuchenbekämpfung erforderlich ist.
 
-
 ### § 19 Dung, Streumaterial und Futterreste
 
 Der für die Reinigung und Desinfektion nach den §§ 17 und 18 jeweils
@@ -643,10 +595,7 @@ anfallende Futterreste unschädlich zu beseitigen oder beseitigen zu
 lassen oder so zu behandeln oder so behandeln zu lassen, dass
 Tierseuchenerreger abgetötet werden.
 
-
 ## Abschnitt 8 - Zeugnisse, Kontrollbücher
-
-
 
 ### § 20 Ursprungszeugnisse, Gesundheitszeugnisse
 
@@ -656,7 +605,6 @@ Anordnung keine kürzere Frist bestimmt ist, zehn Tage jeweils vom Tag
 ihrer Ausstellung an. Die Gesundheitszeugnisse müssen von der
 zuständigen Behörde oder einem von ihr beauftragten Tierarzt
 ausgestellt sein.
-
 
 ### § 21 Viehhandels- und Transportkontrollbücher
 
@@ -738,7 +686,6 @@ Absatz 2 vor Beginn des Transportes vorzunehmen. Satz 1 gilt nicht für
 Transporte, auf denen Vieh aus dem eigenen Bestand mit bestandseigenen
 Viehtransportfahrzeugen zu einer Schlachtstätte transportiert wird.
 
-
 ### § 22 Desinfektionskontrollbuch
 
 (1) Der Fahrer eines Viehtransportfahrzeuges, für das nach § 17 Absatz
@@ -765,7 +712,6 @@ Betreiber einer Sammelstelle oder einer Schlachtstätte haben über Art
 und Verbrauch des verwendeten Desinfektionsmittels schriftliche
 Aufzeichnungen zu machen.
 
-
 ### § 23 Kastrations- und Klauenpflegekontrollbuch
 
 Personen, die gewerbsmäßig Vieh kastrieren, ohne Tierarzt zu sein,
@@ -774,7 +720,6 @@ und an welchen Orten und in welchen Betrieben sie Kastrationen
 vorgenommen haben. Für Personen, die gewerbsmäßig Klauenpflege
 betreiben, ohne Tierarzt zu sein, gilt Satz 1 mit der Maßgabe
 entsprechend, dass sie ein Klauenpflegekontrollbuch zu führen haben.
-
 
 ### § 24 Deckregister
 
@@ -797,10 +742,6 @@ das folgende Angaben enthalten muss:
 
 
 5.  Tag des Deckaktes.
-
-
-
-
 
 ### § 25 Form, Aufbewahrung und Vorlage der Kontrollbücher und des Deckregisters
 
@@ -833,10 +774,7 @@ geführten Kontrollbuches oder Deckregisters der
 Aufzeichnungspflichtige der zuständigen Behörde einen Ausdruck auf
 seine Kosten vorzulegen.
 
-
 ## Abschnitt 9 - Tierhaltung
-
-
 
 ### § 26 Anzeige und Registrierung
 
@@ -893,10 +831,7 @@ Stichtag, mitgeteilt hat und die zuständige Behörde berechtigt ist,
 diese Angaben zum Zwecke der Erfüllung der Anzeigepflicht zu
 verwenden.
 
-
 ## Abschnitt 10 - Kennzeichnung und Registrierung von Rindern nach der Verordnung (EG) Nr. 1760/2000
-
-
 
 ### § 27 Kennzeichnung
 
@@ -1010,7 +945,6 @@ Betriebes sowie der verwendeten Ohrmarkennummer und,
 der zuständigen Behörde oder einer von dieser beauftragten Stelle
 anzuzeigen.
 
-
 ### § 29 Anzeige von Bestandsveränderungen
 
 (1) Der Tierhalter hat der zuständigen Behörde oder einer von dieser
@@ -1075,7 +1009,6 @@ tierärztlichen Behandlung. In diesem Fall trägt der Tierhalter das
 Datum des Verbringens sowie der Wiedereinstellung des Rindes in seinen
 Betrieb unverzüglich in das von ihm geführte Bestandsregister ein.
 
-
 ### § 30 Rinderpass
 
 (1) Rinder dürfen in einen Mitgliedstaat nur verbracht oder in ein
@@ -1101,7 +1034,6 @@ dem Rinderpass im Sinne des Absatzes 1 gleich, soweit die
 Begleitpapiere für Rinder ausgestellt worden sind, die im Zeitraum vom
 28\. Oktober 1995 bis zum 30. Juni 1998 geboren worden sind.
 
-
 ### § 31 Stammdatenblatt
 
 Die zuständige Behörde oder eine von dieser beauftragte Stelle stellt
@@ -1112,7 +1044,6 @@ zusätzlich mit einem nach Anlage 5 gebildeten Strichcode zu vermerken.
 Das Stammdatenblatt kann als Rinderpass im Sinne des § 30 verwendet
 werden, soweit es die in Anlage 7 Nummer 3 und 4 vorgesehenen Angaben
 enthält.
-
 
 ### § 32 Bestandsregister
 
@@ -1153,7 +1084,6 @@ entsprechend.
 Verpflichtung zu dessen Vorlage nach Artikel 7 Absatz 4 der Verordnung
 (EG) Nr. 1760/2000 gilt § 25 Absatz 3 Satz 2 und 3 entsprechend.
 
-
 ### § 33 Verbot der Übernahme, Inverkehrbringen von Ohrmarken
 
 (1) Ein Tierhalter darf ein Rind in seinen Bestand nur übernehmen,
@@ -1166,10 +1096,7 @@ durch Transportunternehmen.
 (2) Es ist verboten, Ohrmarken nach § 27 Absatz 3 oder 4 ohne
 Genehmigung der zuständigen Behörde in den Verkehr zu bringen.
 
-
 ## Abschnitt 11 - Kennzeichnung und Registrierung von Schafen und Ziegen nach der Verordnung (EG) Nr. 21/2004
-
-
 
 ### § 34 Kennzeichnung
 
@@ -1376,7 +1303,6 @@ ein Kennzeichen nicht ohne Genehmigung der zuständigen Behörde vom
 Tierkörper entfernen oder entfernen lassen. Satz 1 gilt nicht im Falle
 der Schlachtung eines Schafes oder einer Ziege.
 
-
 ### § 35 Anzeige von Bestandsveränderungen
 
 Wer Schafe oder Ziegen in seinen Bestand übernimmt, hat dies der
@@ -1398,10 +1324,6 @@ unter Angabe
 
 5.  des Datums des Zugangs, soweit es vom Datum des Verbringens abweicht.
 
-
-
-
-
 ### § 36 Begleitpapier
 
 (1) Das Begleitpapier für Schafe oder das Begleitpapier für Ziegen
@@ -1414,7 +1336,6 @@ Angabe des Kennzeichens, entsprechen.
 oder Ziegen auszuhändigen. Der Empfänger hat das Begleitpapier für
 Schafe oder das Begleitpapier für Ziegen vom Tage der Aushändigung an
 für einen Zeitraum von mindestens drei Jahren aufzubewahren.
-
 
 ### § 37 Bestandsregister
 
@@ -1429,7 +1350,6 @@ Anlage 11 entsprechen.
 
 (2) § 25 Absatz 1 Satz 1 und 2 und Absatz 2 und 3 gilt entsprechend.
 
-
 ### § 38 Verbot der Übernahme, Inverkehrbringen von Ohrmarken
 
 (1) Ein Tierhalter darf ein nach dem 31. Dezember 2009 geborenes Schaf
@@ -1442,10 +1362,7 @@ Schafes oder einer Ziege durch Transportunternehmen.
 (2) Es ist verboten, Kennzeichen nach § 34 Absatz 3 oder 4 ohne
 Genehmigung der zuständigen Behörde in den Verkehr zu bringen.
 
-
 ## Abschnitt 12 - Kennzeichnung und Registrierung von Schweinen
-
-
 
 ### § 39 Kennzeichnung
 
@@ -1521,7 +1438,6 @@ nicht ohne Genehmigung der zuständigen Behörde vom Tierkörper
 entfernen oder entfernen lassen. Satz 1 gilt nicht im Falle der
 Schlachtung eines Schweines.
 
-
 ### § 40 Anzeige der Übernahme
 
 Wer Schweine in seinen Betrieb übernimmt, hat dies der zuständigen
@@ -1557,7 +1473,6 @@ Anstelle der Angaben nach Satz 1 Nummer 2 ist im Falle der Übernahme
 unmittelbar aus einem anderen Mitgliedstaat oder einem Drittland der
 betreffende Mitgliedstaat oder das betreffende Drittland anzuzeigen.
 
-
 ### § 41 Begleitpapier
 
 (1) Schweine dürfen auf einen Viehmarkt oder zu einer Sammelstelle
@@ -1586,7 +1501,6 @@ Dokuments nach Absatz 1 Satz 3 ist dem Empfänger bei der Übergabe der
 Schweine auszuhändigen. Der Empfänger hat das Begleitpapier vom Tage
 der Aushändigung an für einen Zeitraum von mindestens drei Jahren
 aufzubewahren.
-
 
 ### § 42 Bestandsregister
 
@@ -1625,7 +1539,6 @@ dass
 
 (2) § 25 Absatz 1 Satz 1 und 2 und Absatz 2 und 3 gilt entsprechend.
 
-
 ### § 43 Verbot der Übernahme, Inverkehrbringen von Ohrmarken
 
 (1) Ein Tierhalter darf ein Schwein in seinen Bestand nur übernehmen,
@@ -1636,10 +1549,7 @@ Transportunternehmen.
 (2) Es ist verboten, Ohrmarken nach § 39 Absatz 3 ohne Genehmigung der
 zuständigen Behörde in den Verkehr zu bringen.
 
-
 ## Abschnitt 13 - Kennzeichnung von Einhufern nach der Verordnung (EG) Nr. 504/2008
-
-
 
 ### § 44 Kennzeichnung
 
@@ -1751,7 +1661,6 @@ Verlustdatums unverzüglich an die Stelle, die das Dokument nach Absatz
 Bescheinigung nach Artikel 19 Absatz 1 Buchstabe c der Verordnung (EG)
 Nr. 504/2008.
 
-
 ### § 44b Verbot der Übernahme
 
 Ein Tierhalter darf einen Einhufer in seinen Bestand nur übernehmen,
@@ -1765,7 +1674,6 @@ nach dem 1. Juli 2009 geboren wurde, mittels Transponder
 gekennzeichnet ist. Dies gilt auch für die Übernahme eines Einhufers
 durch Transportunternehmen.
 
-
 ### § 44c Anzeige der Kennzeichnung
 
 Der Tierhalter hat die Kennzeichnung eines Einhufers unverzüglich
@@ -1773,10 +1681,7 @@ unter Angabe der in Artikel 21 Absatz 1 der Verordnung (EG) Nr.
 504/2008 genannten Angaben der zuständigen Behörde oder einer von ihr
 beauftragten Stelle anzuzeigen.
 
-
 ## Abschnitt 14 - Sonstige Tierhaltungen
-
-
 
 ### § 45 Tierhaltung in besonderen Fällen
 
@@ -1804,10 +1709,7 @@ Zoos, Wildparks, Zirkussen oder ähnlichen Einrichtungen gehalten wird,
 kann die zuständige Behörde andere Kennzeichnungen genehmigen, soweit
 deren jederzeitige Ablesbarkeit gewährleistet ist.
 
-
 ## Abschnitt 15 - Schlussvorschriften
-
-
 
 ### § 46 Ordnungswidrigkeiten
 
@@ -2016,10 +1918,6 @@ indem er vorsätzlich oder fahrlässig
     Verbindung mit Absatz 1 das dort genannte Begleitdokument nicht oder
     nicht vollständig übermittelt.
 
-
-
-
-
 ### § 47 Übergangsvorschriften
 
 (1) Wer am 13. Juli 2007 eine Viehladestelle betreibt, hat dies der
@@ -2072,10 +1970,7 @@ die nach den Vorschriften dieser Verordnung in der bis zum 8. März
 Verordnung vom 17. Juni 2009 (BGBl. I S. 1337) geändert worden ist,
 anzuwenden.
 
-
 ### § 48 (Inkrafttreten, Außerkrafttreten)
-
-
 
 ### Anlage 1 (zu § 12 Absatz 2, § 13 Absatz 2, § 14 Absatz 2 und § 17 Absatz 3) Voraussetzungen für die Zulassung eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
@@ -2150,10 +2045,6 @@ anzuwenden.
     eingefriedet sein, dass Tiere nur durch überwachbare Ein- und Ausgänge
     in den oder aus dem Betrieb verbracht werden können.
 
-
-
-
-
 ### Anlage 2 (zu § 12 Absatz 2, § 13 Absatz 2 und § 14 Absatz 2) Anforderungen an den Betrieb eines Viehhandelsunternehmens, eines Transportunternehmens oder einer Sammelstelle
 
 (Fundstelle: BGBl. I 2010, 221)
@@ -2186,10 +2077,6 @@ anzuwenden.
     Sammelstelle auf dem Transport bis zur Ankunft am Bestimmungsort nicht
     mit Tieren in Berührung kommen, die keinen gleichwertigen
     Gesundheitsstatus haben.
-
-
-
-
 
 ### Anlage 3 (zu § 25 Absatz 1) Muster für Kontrollbücher
 
@@ -2409,9 +2296,6 @@ anzuwenden.
     *
     *
     *
-
-
-
 
 ### Anlage 4 (zu § 27 Absatz 3 und 4) Ohrmarken zur Rinderkennzeichnung
 
@@ -2958,13 +2842,6 @@ aufzubauen:
 
         *   Feld 15, Prüfziffer.
 
-
-
-
-
-
-
-
 ### Anlage 6 (zu § 28 und § 32 Absatz 1) Rasseschlüssel
 
 (Fundstelle: BGBl. I 2010, 227)
@@ -3397,9 +3274,6 @@ aufzubauen:
     *
     *
 
-
-
-
 ### Anlage 7 (zu § 30 Absatz 1 und § 31)
 
    (Fundstelle: BGBl. I 2010, 228)
@@ -3483,10 +3357,6 @@ aufzubauen:
 
 
 *    *   **4. Ort, Datum, Unterschrift des letzten Tierhalters**
-
-
-
-
 
 ### Anlage 8 (zu § 32 Absatz 1) Bestandsregister für Rinderhaltungen
 
@@ -3829,7 +3699,6 @@ Breite 9 mm (Corpus) und 11 mm (Loch- und Dornteil)
     13 = Mecklenburg-Vorpommern               14 = Sachsen
     15 = Sachsen-Anhalt               16 = Thüringen
 
-
 ### Anlage 10 (zu § 36 Absatz 1) Begleitpapier
 
 (Fundstelle: BGBl. I 2010, 232)
@@ -3953,8 +3822,6 @@ Seite: ...
 
     *
     *   für Ziegen □*
-
-
 
 ## A. Angaben zum Betrieb
 

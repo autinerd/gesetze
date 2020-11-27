@@ -18,21 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 22.12.1999 I 2626
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 Gesetz über die Alterssicherung der Landwirte (ALG)
 
 -
 
-
 ## (XXXX) Art 2 bis 43
-
-
 
 ## Art 44 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -40,7 +35,6 @@ Die auf den Artikeln 17, 18, 20, 21, 30, 33, 34, 35, 36, 37, 38, 39
 und 42 beruhenden Teile der dort geänderten Verordnungen können
 aufgrund der jeweils einschlägigen Ermächtigung in Verbindung mit
 diesem Artikel durch Rechtsverordnung geändert oder aufgehoben werden.
-
 
 ## Art 45 Bekanntmachung im Bundesgesetzblatt
 
@@ -51,7 +45,6 @@ Fassung im Bundesgesetzblatt bekanntmachen. Das Bundesministerium für
 Gesundheit kann den Wortlaut des Zweiten Gesetzes über die
 Krankenversicherung der Landwirte in der vom Inkrafttreten dieses
 Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
-
 
 ## Art 46 Geltung von Vorschriften im Beitrittsgebiet
 
@@ -68,14 +61,9 @@ Gebiet in Kraft
 
 2.  die Stillegungsverordnung vom 14. Juni 1989 (BGBl. I S. 1095).
 
-
-
-
-
 ## Art 47 Aufhebung von Vorschriften
 
 -
-
 
 ## Art 48 Inkrafttreten
 

@@ -31,7 +31,6 @@ Zuletzt geändert durch
     vom 28.11.2001, S. 1), die zuletzt durch die Richtlinie 2009/53/EG
     (ABl. L 168 vom 30.6.2009, S. 33) geändert worden ist.
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -54,10 +53,6 @@ Es verordnen
     Satz 2 des Arzneimittelgesetzes, der zuletzt durch Artikel 1 des
     Gesetzes vom 17. Juli 2009 (BGBl. I S. 1990) geändert worden ist, im
     Einvernehmen mit dem Bundesministerium für Gesundheit:
-
-
-
-
 
 ## § 1 Art und Inhalt des Informationssystems
 
@@ -198,7 +193,6 @@ mit Angabe der jeweiligen Internetportale sowie über die Risiken, die
 mit dem illegalen Versandhandel von Arzneimitteln über das Internet
 verbunden sind.
 
-
 ## § 2 Datenübermittlung an das Deutsche Institut für Medizinische Dokumentation und Information
 
 (1) Unbeschadet der Anforderungen anderer gesetzlicher Bestimmungen
@@ -249,7 +243,6 @@ Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.
 Im Fall der Nutzung allgemein zugänglicher Netze sind
 Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der
 Technik entsprechen.
-
 
 ## § 3 Bereitstellung von Daten und Nutzung des Informationssystems
 
@@ -308,7 +301,6 @@ dem nicht entgegenstehen. Die Vorschriften zum Schutz
 personenbezogener Daten, zum Schutz des geistigen Eigentums und zum
 Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
-
 ## § 4 Speicherungsfrist
 
 Daten nach § 1 Absatz 1 Nummer 1 und 2 und Absatz 2 mit Ausnahme
@@ -325,17 +317,14 @@ Arzneimittels in Zusammenhang stehen, sind spätestens 15 Jahre nach
 dem Ende der Verkehrsfähigkeit des betreffenden Arzneimittels zu
 löschen.
 
-
 ## § 5 Auskunftsrecht
 
 § 19 des Bundesdatenschutzgesetzes ist auf juristische Personen
 entsprechend anzuwenden.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 10
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -30,11 +28,9 @@ vom 12. März 1971 (Bundesgesetzbl. I S. 185) bestimme ich
 zur zuständigen Stelle für alle zum Geschäftsbereich der Bundesanstalt
 für Arbeit gehörenden Dienststellen.
 
-
 ## II.
 
 Diese Anordnung tritt am Tag nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

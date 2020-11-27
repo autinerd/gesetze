@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 21.7.2012 I 1577
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Gerichte für Arbeitssachen
 
@@ -32,7 +29,6 @@ Die Gerichtsbarkeit in Arbeitssachen - §§ 2 bis 3 - wird ausgeübt
 durch die Arbeitsgerichte - §§ 14 bis 31 -, die Landesarbeitsgerichte
 - §§ 33 bis 39 - und das Bundesarbeitsgericht - §§ 40 bis 45 -
 (Gerichte für Arbeitssachen).
-
 
 ### § 2 Zuständigkeit im Urteilsverfahren
 
@@ -165,7 +161,6 @@ sind, vor die Gerichte für Arbeitssachen gebracht werden.
 (5) In Rechtsstreitigkeiten nach diesen Vorschriften findet das
 Urteilsverfahren statt.
 
-
 ### § 2a Zuständigkeit im Beschlußverfahren
 
 (1) Die Gerichte für Arbeitssachen sind ferner ausschließlich
@@ -236,7 +231,6 @@ zuständig für
 (2) In Streitigkeiten nach diesen Vorschriften findet das
 Beschlußverfahren statt.
 
-
 ### § 3 Zuständigkeit in sonstigen Fällen
 
 Die in den §§ 2 und 2a begründete Zuständigkeit besteht auch in den
@@ -244,12 +238,10 @@ Fällen, in denen der Rechtsstreit durch einen Rechtsnachfolger oder
 durch eine Person geführt wird, die kraft Gesetzes an Stelle des
 sachlich Berechtigten oder Verpflichteten hierzu befugt ist.
 
-
 ### § 4 Ausschluß der Arbeitsgerichtsbarkeit
 
 In den Fällen des § 2 Abs. 1 und 2 kann die Arbeitsgerichtsbarkeit
 nach Maßgabe der §§ 101 bis 110 ausgeschlossen werden.
-
 
 ### § 5 Begriff des Arbeitnehmers
 
@@ -282,7 +274,6 @@ Wirtschaft und Technologie die in Satz 1 bestimmte Vergütungsgrenze
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, den jeweiligen Lohn- und Preisverhältnissen anpassen.
 
-
 ### § 6 Besetzung der Gerichte für Arbeitssachen
 
 (1) Die Gerichte für Arbeitssachen sind mit Berufsrichtern und mit
@@ -290,7 +281,6 @@ ehrenamtlichen Richtern aus den Kreisen der Arbeitnehmer und
 Arbeitgeber besetzt.
 
 (2) (weggefallen)
-
 
 ### § 6a Allgemeine Vorschriften über das Präsidium und die Geschäftsverteilung
 
@@ -322,10 +312,6 @@ Vorschriften entsprechend:
 5.  Den Vorsitz in den Kammern der Arbeitsgerichte führen die
     Berufsrichter.
 
-
-
-
-
 ### § 7 Geschäftsstelle, Aufbringung der Mittel
 
 (1) Bei jedem Gericht für Arbeitssachen wird eine Geschäftsstelle
@@ -339,7 +325,6 @@ Landesarbeitsgerichten die zuständige oberste Landesbehörde.
 (2) Die Kosten der Arbeitsgerichte und der Landesarbeitsgerichte trägt
 das Land, das sie errichtet. Die Kosten des Bundesarbeitsgerichts
 trägt der Bund.
-
 
 ### § 8 Gang des Verfahrens
 
@@ -358,7 +343,6 @@ nach Maßgabe des § 87 statt.
 (5) Gegen die Beschlüsse der Landesarbeitsgerichte im
 Beschlußverfahren findet die Rechtsbeschwerde an das
 Bundesarbeitsgericht nach Maßgabe des § 92 statt.
-
 
 ### § 9 Allgemeine Verfahrensvorschriften und Rechtsschutz bei überlangen Gerichtsverfahren
 
@@ -399,7 +383,6 @@ dahin erfolgt ist, daß ein Rechtsmittel nicht gegeben sei; § 234 Abs.
 1, 2 und § 236 Abs. 2 der Zivilprozeßordnung gelten für den Fall
 höherer Gewalt entsprechend.
 
-
 ### § 10 Parteifähigkeit
 
 Parteifähig im arbeitsgerichtlichen Verfahren sind auch Gewerkschaften
@@ -418,7 +401,6 @@ Verfahren sind in den Fällen des § 2a  Abs. 1 Nr. 4 auch die
 beteiligten Vereinigungen von Arbeitnehmern und  Arbeitgebern sowie
 die oberste Arbeitsbehörde des Bundes oder derjenigen Länder, auf
 deren Bereich sich die Tätigkeit der Vereinigung erstreckt.
-
 
 ### § 11 Prozessvertretung
 
@@ -508,7 +490,6 @@ und Absatz 5 gelten entsprechend. Das von dem Beistand Vorgetragene
 gilt als von der Partei vorgebracht, soweit es nicht von dieser sofort
 widerrufen oder berichtigt wird.
 
-
 ### § 11a Beiordnung eines Rechtsanwalts, Prozeßkostenhilfe
 
 (1) Einer Partei, die außerstande ist, ohne Beeinträchtigung des für
@@ -544,7 +525,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates Formulare für die
 Erklärung der Partei über ihre persönlichen und wirtschaftlichen
 Verhältnisse (§ 117 Abs. 2 der Zivilprozeßordnung) einzuführen.
 
-
 ### § 12 Kosten
 
 Die Justizverwaltungskostenordnung und die Justizbeitreibungsordnung
@@ -556,7 +536,6 @@ Amtshilfe, soweit sie diese Aufgaben nicht als eigene wahrnehmen.
 Vollstreckungsbehörde ist für die Ansprüche, die beim
 Bundesarbeitsgericht entstehen, die Justizbeitreibungsstelle des
 Bundesarbeitsgerichts.
-
 
 ### § 12a Kostentragungspflicht
 
@@ -580,7 +559,6 @@ stellen, als wenn sie durch einen Rechtsanwalt vertreten worden wäre.
 Ansprüche auf Erstattung stehen ihr jedoch nur insoweit zu, als ihr
 Kosten im Einzelfall tatsächlich erwachsen sind.
 
-
 ### § 13 Rechtshilfe
 
 (1) Die Arbeitsgerichte leisten den Gerichten für Arbeitssachen
@@ -592,7 +570,6 @@ und des Einführungsgesetzes zum Gerichtsverfassungsgesetz über
 verfahrensübergreifende Mitteilungen von Amts wegen finden
 entsprechende Anwendung.
 
-
 ### § 13a Internationale Verfahren
 
 Die Vorschriften des Buches 11 der Zivilprozessordnung über die
@@ -600,14 +577,9 @@ justizielle Zusammenarbeit in der Europäischen Union finden in
 Verfahren vor den Gerichten für Arbeitssachen Anwendung, soweit dieses
 Gesetz nichts anderes bestimmt.
 
-
 ## Zweiter Teil - Aufbau der Gerichte für Arbeitssachen
 
-
-
 ### Erster Abschnitt - Arbeitsgerichte
-
-
 
 #### § 14 Errichtung und Organisation
 
@@ -655,7 +627,6 @@ bis 5 und Absatz 3 sind die Gewerkschaften und Vereinigungen von
 Arbeitgebern, die für das Arbeitsleben im Landesgebiet wesentliche
 Bedeutung haben, zu hören.
 
-
 #### § 15 Verwaltung und Dienstaufsicht
 
 (1) Die Geschäfte der Verwaltung und Dienstaufsicht führt die
@@ -671,7 +642,6 @@ wenn mehrere Vorsitzende vorhanden sind, einem von ihnen übertragen.
 Die Landesregierung kann die Ermächtigung nach Satz 1 durch
 Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen.
 
-
 #### § 16 Zusammensetzung
 
 (1) Das Arbeitsgericht besteht aus der erforderlichen Zahl von
@@ -682,7 +652,6 @@ Arbeitgeber entnommen.
 (2) Jede Kammer des Arbeitsgerichts wird in der Besetzung mit einem
 Vorsitzenden und je einem ehrenamtlichen Richter aus Kreisen der
 Arbeitnehmer und der Arbeitgeber tätig.
-
 
 #### § 17 Bildung von Kammern
 
@@ -705,7 +674,6 @@ Vorschriften richten soll. § 14 Abs. 5 ist entsprechend anzuwenden.
 (3) Die Landesregierung kann die Ermächtigung nach Absatz 2 durch
 Rechtsverordnung auf die zuständige oberste Landesbehörde übertragen.
 
-
 #### § 18 Ernennung der Vorsitzenden
 
 (1) Die Vorsitzenden werden auf Vorschlag der zuständigen obersten
@@ -725,7 +693,6 @@ anderen Arbeitsgericht übertragen werden.
 (7) Bei den Arbeitsgerichten können Richter auf Probe und Richter
 kraft Auftrags verwendet werden.
 
-
 #### § 19 Ständige Vertretung
 
 (1) Ist ein Arbeitsgericht nur mit einem Vorsitzenden besetzt, so
@@ -739,7 +706,6 @@ längstens für zwei Monate mit der Vertretung. In Eilfällen kann an
 Stelle des Präsidiums der Präsident des Landesarbeitsgerichts einen
 zeitweiligen Vertreter bestellen. Die Gründe für die getroffene
 Anordnung sind schriftlich niederzulegen.
-
 
 #### § 20 Berufung der ehrenamtlichen Richter
 
@@ -756,7 +722,6 @@ Gewerkschaften, selbständigen Vereinigungen von Arbeitnehmern mit
 sozial- oder berufspolitischer Zwecksetzung und Vereinigungen von
 Arbeitgebern sowie von den in § 22 Abs. 2 Nr. 3 bezeichneten
 Körperschaften oder deren Arbeitgebervereinigungen eingereicht werden.
-
 
 #### § 21 Voraussetzungen für die Berufung als ehrenamtlicher Richter
 
@@ -808,7 +773,6 @@ Arbeitnehmer oder Arbeitgeber wegen Erreichens der Altersgrenze,
 findet Absatz 5 mit der Maßgabe Anwendung, daß die Entbindung vom Amt
 nur auf Antrag des ehrenamtlichen Richters zulässig ist.
 
-
 #### § 22 Ehrenamtlicher Richter aus Kreisen der Arbeitgeber
 
 (1) Ehrenamtlicher Richter aus Kreisen der Arbeitgeber kann auch sein,
@@ -840,10 +804,6 @@ berufen werden
     Vereinigungen, wenn diese Personen kraft Satzung oder Vollmacht zur
     Vertretung befugt sind.
 
-
-
-
-
 #### § 23 Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer
 
 (1) Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer kann auch
@@ -861,7 +821,6 @@ Eigentum einer der in Satz 1 genannten Organisationen stehen, handeln
 und wenn die juristische Person ausschließlich die Rechtsberatung und
 Prozeßvertretung der Mitglieder der Organisation entsprechend deren
 Satzung durchführt.
-
 
 #### § 24 Ablehnung und Niederlegung des ehrenamtlichen Richteramts
 
@@ -895,11 +854,9 @@ niederlegen,
 (2) Über die Berechtigung zur Ablehnung oder Niederlegung entscheidet
 die zuständige Stelle (§ 20). Die Entscheidung ist endgültig.
 
-
 #### § 25
 
 (weggefallen)
-
 
 #### § 26 Schutz der ehrenamtlichen Richter
 
@@ -912,13 +869,11 @@ ehrenamtlicher Richter beschränkt oder wegen der Übernahme oder
 Ausübung des Amtes benachteiligt, wird mit Freiheitsstrafe bis zu
 einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 27 Amtsenthebung der ehrenamtlichen Richter
 
 Ein ehrenamtlicher Richter ist auf Antrag der zuständigen Stelle (§
 20) seines Amtes zu entheben, wenn er seine Amtspflicht grob verletzt.
 § 21 Abs. 5 Satz 2 bis 5 ist entsprechend anzuwenden.
-
 
 #### § 28 Ordnungsgeld gegen ehrenamtliche Richter
 
@@ -930,7 +885,6 @@ Entschuldigung nicht oder nicht rechtzeitig zu den Sitzungen
 erscheint, ein Ordnungsgeld festsetzen. Vor dem Antrag hat der
 Vorsitzende des Arbeitsgerichts den ehrenamtlichen Richter zu hören.
 Die Entscheidung ist endgültig.
-
 
 #### § 29 Ausschuß der ehrenamtlichen Richter
 
@@ -952,7 +906,6 @@ zu hören. Er kann den Vorsitzenden des Arbeitsgerichts und den die
 Verwaltung und Dienstaufsicht führenden Stellen (§ 15) Wünsche der
 ehrenamtlichen Richter übermitteln.
 
-
 #### § 30 Besetzung der Fachkammern
 
 Die ehrenamtlichen Richter einer Fachkammer sollen aus den Kreisen der
@@ -964,7 +917,6 @@ Arbeitgeber angehören. Wird die Zuständigkeit einer Fachkammer gemäß §
 17 Abs. 2 erstreckt, so sollen die ehrenamtlichen Richter dieser
 Kammer aus den Bezirken derjenigen Arbeitsgerichte berufen werden, für
 deren Bezirke die Fachkammer zuständig ist.
-
 
 #### § 31 Heranziehung der ehrenamtlichen Richter
 
@@ -978,21 +930,16 @@ Verhinderung kann eine Hilfsliste von ehrenamtlichen Richtern
 aufgestellt werden, die am Gerichtssitz oder in der Nähe wohnen oder
 ihren Dienstsitz haben.
 
-
 #### § 32
 
 (weggefallen)
 
-
 ### Zweiter Abschnitt - Landesarbeitsgerichte
-
-
 
 #### § 33 Errichtung und Organisation
 
 In den Ländern werden Landesarbeitsgerichte errichtet. § 14 Abs. 2 bis
 5 ist entsprechend anzuwenden.
-
 
 #### § 34 Verwaltung und Dienstaufsicht
 
@@ -1005,7 +952,6 @@ Verwaltung und Dienstaufsicht dem Präsidenten des
 Landesarbeitsgerichts übertragen. Die Landesregierung kann die
 Ermächtigung nach Satz 1 durch Rechtsverordnung auf die zuständige
 oberste Landesbehörde übertragen.
-
 
 #### § 35 Zusammensetzung, Bildung von Kammern
 
@@ -1021,7 +967,6 @@ der Arbeitnehmer und der Arbeitgeber tätig.
 (3) Die zuständige oberste Landesbehörde bestimmt die Zahl der
 Kammern. § 17 gilt entsprechend.
 
-
 #### § 36 Vorsitzende
 
 Der Präsident und die weiteren Vorsitzenden werden auf Vorschlag der
@@ -1029,7 +974,6 @@ zuständigen obersten Landesbehörde nach Anhörung der in § 14 Abs. 5
 genannten Gewerkschaften und Vereinigungen von Arbeitgebern als
 Richter auf Lebenszeit entsprechend den landesrechtlichen Vorschriften
 bestellt.
-
 
 #### § 37 Ehrenamtliche Richter
 
@@ -1041,13 +985,11 @@ eines Gerichts für Arbeitssachen gewesen sein.
 Richter sowie für die Amtsenthebung und die Amtsentbindung die §§ 20
 bis 28 entsprechend.
 
-
 #### § 38 Ausschuß der ehrenamtlichen Richter
 
 Bei jedem Landesarbeitsgericht wird ein Ausschuß der ehrenamtlichen
 Richter gebildet. Die Vorschriften des § 29 Abs. 1 Satz 2 und 3 und
 Abs. 2 gelten entsprechend.
-
 
 #### § 39 Heranziehung der ehrenamtlichen Richter
 
@@ -1057,10 +999,7 @@ Beginn des Geschäftsjahrs oder vor Beginn der Amtszeit neu berufener
 ehrenamtlicher Richter gemäß § 38 Satz 2 aufstellt. § 31 Abs. 2 ist
 entsprechend anzuwenden.
 
-
 ### Dritter Abschnitt - Bundesarbeitsgericht
-
-
 
 #### § 40 Errichtung
 
@@ -1074,7 +1013,6 @@ Bundesministerium der Justiz. Das Bundesministerium für Arbeit und
 Soziales kann im Einvernehmen mit dem Bundesministerium der Justiz
 Geschäfte der Verwaltung und Dienstaufsicht auf den Präsidenten des
 Bundesarbeitsgerichts übertragen.
-
 
 #### § 41 Zusammensetzung, Senate
 
@@ -1091,7 +1029,6 @@ den Kreisen der Arbeitnehmer und der Arbeitgeber tätig.
 (3) Die Zahl der Senate bestimmt das Bundesministerium für Arbeit und
 Soziales im Einvernehmen mit dem Bundesministerium der Justiz.
 
-
 #### § 42 Bundesrichter
 
 (1) Für die Berufung der Bundesrichter (Präsident, Vorsitzende Richter
@@ -1103,7 +1040,6 @@ Bundesministerium der Justiz.
 
 (2) Die zu berufenden Personen müssen das fünfunddreißigste Lebensjahr
 vollendet haben.
-
 
 #### § 43 Ehrenamtliche Richter
 
@@ -1132,7 +1068,6 @@ anzuwenden mit der Maßgabe, daß die in § 21 Abs. 5, § 27 Satz 2 und §
 jedes Geschäftsjahr im voraus bestimmten Senat des
 Bundesarbeitsgerichts getroffen werden.
 
-
 #### § 44 Anhörung der ehrenamtlichen Richter, Geschäftsordnung
 
 (1) Bevor zu Beginn des Geschäftsjahrs die Geschäfte verteilt sowie
@@ -1143,7 +1078,6 @@ Arbeitnehmer und der Arbeitgeber zu hören.
 
 (2) Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die
 das Präsidium beschließt. Absatz 1 gilt entsprechend.
-
 
 #### § 45 Großer Senat
 
@@ -1184,18 +1118,11 @@ Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 mündliche Verhandlung entscheiden. Seine Entscheidung ist in der
 vorliegenden Sache für den erkennenden Senat bindend.
 
-
 ## Dritter Teil - Verfahren vor den Gerichten für Arbeitssachen
-
-
 
 ### Erster Abschnitt - Urteilsverfahren
 
-
-
 #### Erster Unterabschnitt - Erster Rechtszug
-
-
 
 ##### § 46 Grundsatz
 
@@ -1216,7 +1143,6 @@ Abs. 3 Satz 1 der Zivilprozeßordnung) finden keine Anwendung. § 127
 Abs. 2 der Zivilprozessordnung findet mit der Maßgabe Anwendung, dass
 die sofortige Beschwerde bei Bestandsschutzstreitigkeiten unabhängig
 von dem Streitwert zulässig ist.
-
 
 ##### § 46a Mahnverfahren
 
@@ -1268,7 +1194,6 @@ Mahnverfahren bei Gerichten, die die Verfahren maschinell bearbeiten,
 und für Mahnverfahren bei Gerichten, die die Verfahren nicht
 maschinell bearbeiten, unterschiedliche Formulare eingeführt werden.
 
-
 ##### § 46b Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006
 
 (1) Für das Europäische Mahnverfahren nach der Verordnung (EG) Nr.
@@ -1287,7 +1212,6 @@ für die im Urteilsverfahren erhobene Klage zuständig sein würde.
 ist § 46a Abs. 4 und 5 entsprechend anzuwenden. Der Antrag auf
 Durchführung der mündlichen Verhandlung gilt als vom Antragsteller
 gestellt.
-
 
 ##### § 46c Einreichung elektronischer Dokumente
 
@@ -1314,7 +1238,6 @@ beschränkt werden.
 (3) Ein elektronisches Dokument ist eingereicht, sobald die für den
 Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
 
-
 ##### § 46d Gerichtliches elektronisches Dokument
 
 Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem
@@ -1323,7 +1246,6 @@ handschriftliche Unterzeichnung vorschreibt, genügt dieser Form die
 Aufzeichnung als elektronisches Dokument, wenn die verantwortenden
 Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument
 mit einer qualifizierten elektronischen Signatur versehen.
-
 
 ##### § 46e Elektronische Akte
 
@@ -1347,7 +1269,6 @@ des Verfahrens aufzubewahren.
 durch wen die Unterlagen in ein elektronisches Dokument übertragen
 worden sind.
 
-
 ##### § 47 Sondervorschriften über Ladung und Einlassung
 
 (1) Die Klageschrift muß mindestens eine Woche vor dem Termin
@@ -1355,7 +1276,6 @@ zugestellt sein.
 
 (2) Eine Aufforderung an den Beklagten, sich auf die Klage schriftlich
 zu äußern, erfolgt in der Regel nicht.
-
 
 ##### § 48 Rechtsweg und Zuständigkeit
 
@@ -1405,11 +1325,9 @@ Arbeitnehmern, wenn die Anwendung des gesamten Tarifvertrags zwischen
 ihnen vereinbart ist. Die in § 38 Abs. 2 und 3 der Zivilprozeßordnung
 vorgesehenen Beschränkungen finden keine Anwendung.
 
-
 ##### § 48a
 
 -
-
 
 ##### § 49 Ablehnung von Gerichtspersonen
 
@@ -1420,7 +1338,6 @@ Arbeitsgerichts.
 beschlußunfähig, so entscheidet das Landesarbeitsgericht.
 
 (3) Gegen den Beschluß findet kein Rechtsmittel statt.
-
 
 ##### § 50 Zustellung
 
@@ -1434,7 +1351,6 @@ anzuwenden.
 
 (3) (weggefallen)
 
-
 ##### § 51 Persönliches Erscheinen der Parteien
 
 (1) Der Vorsitzende kann das persönliche Erscheinen der Parteien in
@@ -1447,7 +1363,6 @@ ablehnen, wenn die Partei trotz Anordnung ihres persönlichen
 Erscheinens unbegründet ausgeblieben ist und hierdurch der Zweck der
 Anordnung vereitelt wird. § 141 Abs. 3 Satz 2 und 3 der
 Zivilprozeßordnung findet entsprechende Anwendung.
-
 
 ##### § 52 Öffentlichkeit
 
@@ -1465,7 +1380,6 @@ Güteverfahren kann es die Öffentlichkeit auch aus
 Zweckmäßigkeitsgründen ausschließen. § 169 Satz 2 sowie die §§ 173 bis
 175 des Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
 
-
 ##### § 53 Befugnisse des Vorsitzenden und der ehrenamtlichen Richter
 
 (1) Die nicht auf Grund einer mündlichen Verhandlung ergehenden
@@ -1476,7 +1390,6 @@ Grund eines Rechtshilfeersuchens.
 (2) Im übrigen gelten für die Befugnisse des Vorsitzenden und der
 ehrenamtlichen Richter die Vorschriften der Zivilprozeßordnung über
 das landgerichtliche Verfahren entsprechend.
-
 
 ##### § 54 Güteverfahren
 
@@ -1519,7 +1432,6 @@ entscheidungsbefugten Richter (Güterichter) verweisen. Der Güterichter
 kann alle Methoden der Konfliktbeilegung einschließlich der Mediation
 einsetzen.
 
-
 ##### § 54a Mediation, außergerichtliche Konfliktbeilegung
 
 (1) Das Gericht kann den Parteien eine Mediation oder ein anderes
@@ -1533,7 +1445,6 @@ bestimmen. Im Übrigen nimmt das Gericht das Verfahren nach drei
 Monaten wieder auf, es sei denn, die Parteien legen übereinstimmend
 dar, dass eine Mediation oder eine außergerichtliche Konfliktbeilegung
 noch betrieben wird.
-
 
 ##### § 55 Alleinentscheidung durch den Vorsitzenden
 
@@ -1614,7 +1525,6 @@ Beweisbeschluß erlassen, soweit er anordnet
 Anordnungen nach Nummer 1 bis 3 und 5 können vor der streitigen
 Verhandlung ausgeführt werden.
 
-
 ##### § 56 Vorbereitung der streitigen Verhandlung
 
 (1) Der Vorsitzende hat die streitige Verhandlung so vorzubereiten,
@@ -1651,7 +1561,6 @@ wenn die Partei die Verspätung genügend entschuldigt. Die Parteien
 sind über die Folgen der Versäumung der nach Absatz 1 Satz 2 Nr. 1
 gesetzten Frist zu belehren.
 
-
 ##### § 57 Verhandlung vor der Kammer
 
 (1) Die Verhandlung ist möglichst in einem Termin zu Ende zu führen.
@@ -1661,7 +1570,6 @@ Verhandlung, die sich alsbald anschließen soll, sofort zu verkünden.
 
 (2) Die gütliche Erledigung des Rechtsstreits soll während des ganzen
 Verfahrens angestrebt werden.
-
 
 ##### § 58 Beweisaufnahme
 
@@ -1677,7 +1585,6 @@ der Zivilprozeßordnung ist die eidesstattliche Versicherung nur
 erforderlich, wenn die Kammer sie aus dem gleichen Grund für notwendig
 hält.
 
-
 ##### § 59 Versäumnisverfahren
 
 Gegen ein Versäumnisurteil kann eine Partei, gegen die das Urteil
@@ -1687,7 +1594,6 @@ schriftlich oder durch Abgabe einer Erklärung zur Niederschrift der
 Geschäftsstelle eingelegt. Hierauf ist die Partei zugleich mit der
 Zustellung des Urteils schriftlich hinzuweisen. § 345 der
 Zivilprozeßordnung bleibt unberührt.
-
 
 ##### § 60 Verkündung des Urteils
 
@@ -1725,7 +1631,6 @@ sind Tatbestand und Entscheidungsgründe alsbald nachträglich
 anzufertigen, von dem Vorsitzenden besonders zu unterschreiben und der
 Geschäftsstelle zu übermitteln.
 
-
 ##### § 61 Inhalt des Urteils
 
 (1) Den Wert des Streitgegenstands setzt das Arbeitsgericht im Urteil
@@ -1742,7 +1647,6 @@ ausgeschlossen.
 (3) Ein über den Grund des Anspruchs vorab entscheidendes
 Zwischenurteil ist wegen der Rechtsmittel nicht als Endurteil
 anzusehen.
-
 
 ##### § 61a Besondere Prozeßförderung in Kündigungsverfahren
 
@@ -1774,7 +1678,6 @@ die Partei die Verspätung genügend entschuldigt.
 (6) Die Parteien sind über die Folgen der Versäumung der nach Absatz 3
 oder 4 gesetzten Fristen zu belehren.
 
-
 ##### § 61b Klage wegen Benachteiligung
 
 (1) Eine Klage auf Entschädigung nach § 15 des Allgemeinen
@@ -1792,7 +1695,6 @@ sind zur gleichzeitigen Verhandlung und Entscheidung zu verbinden.
 
 (3) Auf Antrag des Arbeitgebers findet die mündliche Verhandlung nicht
 vor Ablauf von sechs Monaten seit Erhebung der ersten Klage statt.
-
 
 ##### § 62 Zwangsvollstreckung
 
@@ -1814,7 +1716,6 @@ Antrag auf Erlaß einer einstweiligen Verfügung kann in dringenden
 Fällen, auch dann, wenn der Antrag zurückzuweisen ist, ohne mündliche
 Verhandlung ergehen.
 
-
 ##### § 63 Übermittlung von Urteilen in Tarifvertragssachen
 
 Rechtskräftige Urteile, die in bürgerlichen Rechtsstreitigkeiten
@@ -1827,10 +1728,7 @@ zuständige oberste Landesbehörde die Landesjustizverwaltung, so sind
 die Urteilsabschriften oder das Urteil in elektronischer Form auch der
 obersten Arbeitsbehörde des Landes zu übermitteln.
 
-
 #### Zweiter Unterabschnitt - Berufungsverfahren
-
-
 
 ##### § 64 Grundsatz
 
@@ -1924,7 +1822,6 @@ in Tarifvertragssachen gelten entsprechend.
 Nichtbestehen oder die Kündigung eines Arbeitsverhältnisses sind
 vorrangig zu erledigen.
 
-
 ##### § 65 Beschränkung der Berufung
 
 Das Berufungsgericht prüft nicht, ob der beschrittene Rechtsweg und
@@ -1932,7 +1829,6 @@ die Verfahrensart zulässig sind und ob bei der Berufung der
 ehrenamtlichen Richter Verfahrensmängel unterlaufen sind oder Umstände
 vorgelegen haben, die die Berufung eines ehrenamtlichen Richters zu
 seinem Amte ausschließen.
-
 
 ##### § 66 Einlegung der Berufung, Terminbestimmung
 
@@ -1954,7 +1850,6 @@ unverzüglich erfolgen. § 522 Abs. 1 der Zivilprozessordnung bleibt
 unberührt; die Verwerfung der Berufung ohne mündliche Verhandlung
 ergeht durch Beschluss des Vorsitzenden. § 522 Abs. 2 und 3 der
 Zivilprozessordnung findet keine Anwendung.
-
 
 ##### § 67 Zulassung neuer Angriffs- und Verteidigungsmittel
 
@@ -1989,17 +1884,14 @@ Vorbringen nach der freien Überzeugung des Landesarbeitsgerichts die
 Erledigung des Rechtsstreits nicht verzögern würde oder nicht auf
 Verschulden der Partei beruht.
 
-
 ##### § 67a
 
 -
-
 
 ##### § 68 Zurückverweisung
 
 Wegen eines Mangels im Verfahren des Arbeitsgerichts ist die
 Zurückverweisung unzulässig.
-
 
 ##### § 69 Urteil
 
@@ -2029,20 +1921,15 @@ entsprechende Anwendung, dass es keiner Entscheidungsgründe bedarf,
 wenn die Parteien auf sie verzichtet haben; im Übrigen sind die §§
 313a und 313b der Zivilprozessordnung entsprechend anwendbar.
 
-
 ##### § 70
 
 (aufgehoben)
-
 
 ##### § 71
 
 (weggefallen)
 
-
 #### Dritter Unterabschnitt - Revisionsverfahren
-
-
 
 ##### § 72 Grundsatz
 
@@ -2092,7 +1979,6 @@ Gerichtspersonen, Zustellung, Öffentlichkeit, Befugnisse des
 Vorsitzenden und der ehrenamtlichen Richter, gütliche Erledigung des
 Rechtsstreits sowie Inhalt des Urteils und Übersendung von Urteilen in
 Tarifvertragssachen gelten entsprechend.
-
 
 ##### § 72a Nichtzulassungsbeschwerde
 
@@ -2154,7 +2040,6 @@ Beschwerde stattgebenden Beschluss das angefochtene Urteil aufheben
 und den Rechtsstreit zur neuen Verhandlung und Entscheidung an das
 Landesarbeitsgericht zurückverweisen.
 
-
 ##### § 72b Sofortige Beschwerde wegen verspäteter Absetzung des Berufungsurteils
 
 (1) Das Endurteil eines Landesarbeitsgerichts kann durch sofortige
@@ -2189,7 +2074,6 @@ Verhandlung und Entscheidung an das Landesarbeitsgericht
 zurückzuverweisen. Die Zurückverweisung kann an eine andere Kammer des
 Landesarbeitsgerichts erfolgen.
 
-
 ##### § 73 Revisionsgründe
 
 (1) Die Revision kann nur darauf gestützt werden, daß das Urteil des
@@ -2197,7 +2081,6 @@ Landesarbeitsgerichts auf der Verletzung einer Rechtsnorm beruht. Sie
 kann nicht auf die Gründe des § 72b gestützt werden.
 
 (2) § 65 findet entsprechende Anwendung.
-
 
 ##### § 74 Einlegung der Revision, Terminbestimmung
 
@@ -2214,7 +2097,6 @@ unberührt. Die Verwerfung der Revision ohne mündliche Verhandlung
 ergeht durch Beschluß des Senats und ohne Zuziehung der ehrenamtlichen
 Richter.
 
-
 ##### § 75 Urteil
 
 (1) Die Wirksamkeit der Verkündung des Urteils ist von der Anwesenheit
@@ -2225,7 +2107,6 @@ zu unterschreiben.
 
 (2) Das Urteil nebst Tatbestand und Entscheidungsgründen ist von
 sämtlichen Mitgliedern des erkennenden Senats zu unterschreiben.
-
 
 ##### § 76 Sprungrevision
 
@@ -2287,7 +2168,6 @@ legen. Von der Einlegung der Revision nach Absatz 1 hat die
 Geschäftsstelle des Bundesarbeitsgerichts der Geschäftsstelle des
 Arbeitsgerichts unverzüglich Nachricht zu geben.
 
-
 ##### § 77 Revisionsbeschwerde
 
 Gegen den Beschluss des Landesarbeitsgerichts, der die Berufung als
@@ -2298,10 +2178,7 @@ Rechtsbeschwerde entscheidet das Bundesarbeitsgericht ohne Zuziehung
 der ehrenamtlichen Richter. Die Vorschriften der Zivilprozessordnung
 über die Rechtsbeschwerde gelten entsprechend.
 
-
 #### Vierter Unterabschnitt - Beschwerdeverfahren, Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
-
-
 
 ##### § 78 Beschwerdeverfahren
 
@@ -2313,7 +2190,6 @@ Rechtsbeschwerde gilt § 72 Abs. 2 entsprechend. Über die sofortige
 Beschwerde entscheidet das Landesarbeitsgericht ohne Hinzuziehung der
 ehrenamtlichen Richter, über die Rechtsbeschwerde das
 Bundesarbeitsgericht.
-
 
 ##### § 78a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -2374,10 +2250,7 @@ Vollstreckung ihm einen nicht zu ersetzenden Nachteil bringen würde.
 (8) Auf das Beschlussverfahren finden die Absätze 1 bis 7
 entsprechende Anwendung.
 
-
 #### Fünfter Unterabschnitt - Wiederaufnahme des Verfahrens
-
-
 
 ##### § 79
 
@@ -2388,14 +2261,9 @@ Verfahrens bei der Berufung der ehrenamtlichen Richter oder auf
 Umstände, die die Berufung eines ehrenamtlichen Richters zu seinem Amt
 ausschließen, gestützt werden.
 
-
 ### Zweiter Abschnitt - Beschlußverfahren
 
-
-
 #### Erster Unterabschnitt - Erster Rechtszug
-
-
 
 ##### § 80 Grundsatz
 
@@ -2418,7 +2286,6 @@ maßgebenden Vorschriften über das Güteverfahren gelten entsprechend.
 
 (3) § 48 Abs. 1 findet entsprechende Anwendung.
 
-
 ##### § 81 Antrag
 
 (1) Das Verfahren wird nur auf Antrag eingeleitet; der Antrag ist bei
@@ -2439,7 +2306,6 @@ einem Schriftsatz oder in der mündlichen Verhandlung auf den
 geänderten Antrag eingelassen haben. Die Entscheidung, daß eine
 Änderung des Antrags nicht vorliegt oder zugelassen wird, ist
 unanfechtbar.
-
 
 ##### § 82 Örtliche Zuständigkeit
 
@@ -2482,7 +2348,6 @@ Sitz hat; vor ihrer Eintragung ist das Arbeitsgericht zuständig, in
 dessen Bezirk die aus der grenzüberschreitenden Verschmelzung
 hervorgehende Gesellschaft ihren Sitz haben soll.
 
-
 ##### § 83 Verfahren
 
 (1) Das Gericht erforscht den Sachverhalt im Rahmen der gestellten
@@ -2521,7 +2386,6 @@ Verhandlung entscheiden.
 (5) Gegen Beschlüsse und Verfügungen des Arbeitsgerichts oder seines
 Vorsitzenden findet die Beschwerde nach Maßgabe des § 78 statt.
 
-
 ##### § 83a Vergleich, Erledigung des Verfahrens
 
 (1) Die Beteiligten können, um das Verfahren ganz oder zum Teil zu
@@ -2541,13 +2405,11 @@ mitzuteilen, ob sie der Erledigung zustimmen. Die Zustimmung gilt als
 erteilt, wenn sich der Beteiligte innerhalb der vom Vorsitzenden
 bestimmten Frist nicht äußert.
 
-
 ##### § 84 Beschluß
 
 Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des
 Verfahrens gewonnenen Überzeugung. Der Beschluß ist schriftlich
 abzufassen. § 60 ist entsprechend anzuwenden.
-
 
 ##### § 85 Zwangsvollstreckung
 
@@ -2573,15 +2435,11 @@ erforderliche Zustellungen von Amts wegen erfolgen und ein Anspruch
 auf Schadensersatz nach § 945 der Zivilprozeßordnung in
 Angelegenheiten des Betriebsverfassungsgesetzes nicht besteht.
 
-
 ##### § 86
 
 (weggefallen)
 
-
 #### Zweiter Unterabschnitt - Zweiter Rechtszug
-
-
 
 ##### § 87 Grundsatz
 
@@ -2623,11 +2481,9 @@ und auf dem Verschulden des Beteiligten beruht.
 (4) Die Einlegung der Beschwerde hat aufschiebende Wirkung; § 85 Abs.
 1 Satz 2 bleibt unberührt.
 
-
 ##### § 88 Beschränkung der Beschwerde
 
 § 65 findet entsprechende Anwendung.
-
 
 ##### § 89 Einlegung
 
@@ -2654,7 +2510,6 @@ stellt der Vorsitzende das Verfahren ein. Er gibt hiervon den
 Beteiligten Kenntnis, soweit ihnen die Beschwerde zugestellt worden
 ist.
 
-
 ##### § 90 Verfahren
 
 (1) Die Beschwerdeschrift und die Beschwerdebegründung werden den
@@ -2668,7 +2523,6 @@ das den angefochtenen Beschluß erlassen hat.
 (3) Gegen Beschlüsse und Verfügungen des Landesarbeitsgerichts oder
 seines Vorsitzenden findet kein Rechtsmittel statt.
 
-
 ##### § 91 Entscheidung
 
 (1) Über die Beschwerde entscheidet das Landesarbeitsgericht durch
@@ -2679,10 +2533,7 @@ entsprechend.
 unterschreiben und den Beteiligten zuzustellen. § 69 Abs. 1 Satz 2
 gilt entsprechend.
 
-
 #### Dritter Unterabschnitt - Dritter Rechtszug
-
-
 
 ##### § 92 Rechtsbeschwerdeverfahren, Grundsatz
 
@@ -2711,13 +2562,11 @@ Satz 2 und 3 ist entsprechend anzuwenden.
 (3) Die Einlegung der Rechtsbeschwerde hat aufschiebende Wirkung. § 85
 Abs. 1 Satz 2 bleibt unberührt.
 
-
 ##### § 92a Nichtzulassungsbeschwerde
 
 Die Nichtzulassung der Rechtsbeschwerde durch das Landesarbeitsgericht
 kann selbständig durch Beschwerde angefochten werden. § 72a Abs. 2 bis
 7 ist entsprechend anzuwenden.
-
 
 ##### § 92b Sofortige Beschwerde wegen verspäteter Absetzung der Beschwerdeentscheidung
 
@@ -2728,7 +2577,6 @@ Unterschriften sämtlicher Mitglieder der Kammer versehen der
 Geschäftsstelle übergeben worden ist. § 72b Abs. 2 bis 5 gilt
 entsprechend. § 92a findet keine Anwendung.
 
-
 ##### § 93 Rechtsbeschwerdegründe
 
 (1) Die Rechtsbeschwerde kann nur darauf gestützt werden, daß der
@@ -2737,7 +2585,6 @@ unrichtigen Anwendung einer Rechtsnorm beruht. Sie kann nicht auf die
 Gründe des § 92b gestützt werden.
 
 (2) § 65 findet entsprechende Anwendung.
-
 
 ##### § 94 Einlegung
 
@@ -2758,7 +2605,6 @@ stellt der Vorsitzende das Verfahren ein. Er gibt hiervon den
 Beteiligten Kenntnis, soweit ihnen die Rechtsbeschwerde zugestellt
 worden ist.
 
-
 ##### § 95 Verfahren
 
 Die Rechtsbeschwerdeschrift und die Rechtsbeschwerdebegründung werden
@@ -2770,7 +2616,6 @@ Geht von einem Beteiligten die Äußerung nicht rechtzeitig ein, so
 steht dies dem Fortgang des Verfahrens nicht entgegen. § 83a ist
 entsprechend anzuwenden.
 
-
 ##### § 96 Entscheidung
 
 (1) Über die Rechtsbeschwerde entscheidet das Bundesarbeitsgericht
@@ -2779,7 +2624,6 @@ entsprechend.
 
 (2) Der Beschluß nebst Gründen ist von sämtlichen Mitgliedern des
 Senats zu unterschreiben und den Beteiligten zuzustellen.
-
 
 ##### § 96a Sprungrechtsbeschwerde
 
@@ -2798,10 +2642,7 @@ Rechtsbeschwerdeschrift, andernfalls dem Antrag beizufügen.
 
 (2) § 76 Abs. 2 Satz 2, 3, Abs. 3 bis 6 ist entsprechend anzuwenden.
 
-
 #### Vierter Unterabschnitt - Beschlußverfahren in besonderen Fällen
-
-
 
 ##### § 97 Entscheidung über die Tariffähigkeit und Tarifzuständigkeit einer Vereinigung
 
@@ -2831,7 +2672,6 @@ Beschlußverfahrens nach § 2a Abs. 1 Nr. 4 auszusetzen. Im Falle des
 Satzes 1 sind die Parteien des Rechtsstreits auch im Beschlußverfahren
 nach § 2a Abs. 1 Nr. 4 antragsberechtigt.
 
-
 ##### § 98 Entscheidung über die Besetzung der Einigungsstelle
 
 (1) In den Fällen des § 76 Abs. 2 Satz 2 und 3 des
@@ -2857,20 +2697,15 @@ Abs. 1 und 2 entsprechend mit der Maßgabe, dass an die Stelle der
 Kammer des Landesarbeitsgericht der Vorsitzende tritt. Gegen dessen
 Entscheidungen findet kein Rechtsmittel statt.
 
-
 ##### § 99
 
 (weggefallen)
-
 
 ##### § 100
 
 (weggefallen)
 
-
 ## Vierter Teil - Schiedsvertrag in Arbeitsstreitigkeiten
-
-
 
 ### § 101 Grundsatz
 
@@ -2897,7 +2732,6 @@ Hauptsache geheilt.
 
 (3) Die Vorschriften der Zivilprozeßordnung über das
 schiedsrichterliche Verfahren finden in Arbeitssachen keine Anwendung.
-
 
 ### § 102 Prozeßhindernde Einrede
 
@@ -2944,7 +2778,6 @@ wäre.
 berufen, so ist eine schiedsrichterliche Entscheidung des
 Rechtsstreits auf Grund des Schiedsvertrags ausgeschlossen.
 
-
 ### § 103 Zusammensetzung des Schiedsgerichts
 
 (1) Das Schiedsgericht muß aus einer gleichen Zahl von Arbeitnehmern
@@ -2965,13 +2798,11 @@ entscheidet, ob sie mündlich oder schriftlich zu hören sind. Die
 mündliche Anhörung erfolgt vor der Kammer. Gegen den Beschluß findet
 kein Rechtsmittel statt.
 
-
 ### § 104 Verfahren vor dem Schiedsgericht
 
 Das Verfahren vor dem Schiedsgericht regelt sich nach den §§ 105 bis
 110 und dem Schiedsvertrag, im übrigen nach dem freien Ermessen des
 Schiedsgerichts.
-
 
 ### § 105 Anhörung der Parteien
 
@@ -2988,7 +2819,6 @@ anderes bestimmt.
 (3) Bleibt eine Partei in der Verhandlung unentschuldigt aus oder
 äußert sie sich trotz Aufforderung nicht, so ist der Pflicht zur
 Anhörung genügt.
-
 
 ### § 106 Beweisaufnahme
 
@@ -3009,13 +2839,11 @@ Rechtshilfe entstehenden baren Auslagen sind dem Gericht zu ersetzen;
 § 22 Abs. 1 und § 29 des Gerichtskostengesetzes finden entsprechende
 Anwendung.
 
-
 ### § 107 Vergleich
 
 Ein vor dem Schiedsgericht geschlossener Vergleich ist unter Angabe
 des Tages seines Zustandekommens von den Streitparteien und den
 Mitgliedern des Schiedsgerichts zu unterschreiben.
-
 
 ### § 108 Schiedsspruch
 
@@ -3040,7 +2868,6 @@ niedergelegt werden.
 (4) Der Schiedsspruch hat unter den Parteien dieselben Wirkungen wie
 ein rechtskräftiges Urteil des Arbeitsgerichts.
 
-
 ### § 109 Zwangsvollstreckung
 
 (1) Die Zwangsvollstreckung findet aus dem Schiedsspruch oder aus
@@ -3054,7 +2881,6 @@ zur Erledigung dieses Rechtsstreits auszusetzen.
 
 (2) Die Entscheidung des Vorsitzenden ist endgültig. Sie ist den
 Parteien zuzustellen.
-
 
 ### § 110 Aufhebungsklage
 
@@ -3089,10 +2915,7 @@ des Schiedsspruchs an gerechnet, ist die Klage unstatthaft.
 Klage stattgebenden Urteil auch die Aufhebung der
 Vollstreckbarkeitserklärung auszusprechen.
 
-
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 111 Änderung von Vorschriften
 
@@ -3117,72 +2940,58 @@ geschlossen sind, und aus Sprüchen des Ausschusses, die von beiden
 Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§
 107 und 109 gelten entsprechend.
 
-
 ### § 112
 
 (weggefallen)
-
 
 ### § 113
 
 (weggefallen)
 
-
 ### § 114
 
 (weggefallen)
-
 
 ### § 115
 
 (weggefallen)
 
-
 ### § 116
 
 (weggefallen)
-
 
 ### § 117 Verfahren bei Meinungsverschiedenheiten der beteiligten Verwaltungen
 
 Soweit in den Fällen der §§ 40 und 41 das Einvernehmen nicht erzielt
 wird, entscheidet die Bundesregierung.
 
-
 ### § 118
 
 (weggefallen)
-
 
 ### § 119
 
 (weggefallen)
 
-
 ### § 120
 
 (weggefallen)
-
 
 ### § 121
 
 (weggefallen)
 
-
 ### § 121a
 
 (weggefallen)
-
 
 ### § 122
 
 (weggefallen)
 
-
 ### Anlage 1
 
 (weggefallen)
-
 
 ### Anlage 2
 

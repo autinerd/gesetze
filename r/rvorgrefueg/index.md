@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 9b G v. 15.7.2009 I 1939
 
-
 ## Abschnitt 1 - Dienstrechtliche Übergangsregelungen
-
-
 
 ### § 1 Deutsche Rentenversicherung Bund
 
@@ -61,7 +58,6 @@ aufgestellten Sozialplan ein.
 (5) Die vom Verband Deutscher Rentenversicherungsträger gebildete
 Versorgungsrücklage wird mit dessen Auflösung der Versorgungsrücklage
 des Bundes zu Gunsten der Deutschen Rentenversicherung Bund zugeführt.
-
 
 ### § 2 Deutsche Rentenversicherung Knappschaft-Bahn-See
 
@@ -116,7 +112,6 @@ versorgungsrechtlicher Vorschriften, personalvertretungsrechtlicher
 Vorschriften und tarifvertraglicher Regelungen bei der Deutschen
 Rentenversicherung Knappschaft-Bahn-See als bei ihr verbrachte Zeiten.
 
-
 ### § 3 Beschäftigte der Auskunfts- und Beratungsstellen
 
 (1) Beamtinnen und Beamte der Bundesversicherungsanstalt für
@@ -148,7 +143,6 @@ dem Übergang des Auskunfts- und Beratungsdienstes verbunden sind, mit
 der Maßgabe, dass der Übergang bis zum Ablauf der ersten Wahlperiode
 der Selbstverwaltung der Deutschen Rentenversicherung Bund
 abgeschlossen ist.
-
 
 ### § 4 Sonstige dienstrechtliche Übergangsregelungen
 
@@ -263,10 +257,7 @@ Inkrafttreten landesrechtlicher Regelungen ist die Vorschrift des §
 140 Abs. 2 Satz 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch für die
 landesunmittelbaren Träger entsprechend anzuwenden.
 
-
 ## Abschnitt 2 - Übergangsregelungen zum Selbstverwaltungsrecht
-
-
 
 ### § 5 Übergangsregelungen zu den Selbstverwaltungsorganen und der Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
@@ -276,7 +267,6 @@ sowie die Beschlussfassung in den Selbstverwaltungsorganen der
 Deutschen Rentenversicherung Knappschaft-Bahn-See abweichend von den
 Vorschriften des Vierten Abschnitts des Vierten Buches
 Sozialgesetzbuch nach den §§ 6 bis 10.
-
 
 ### § 6 Zusammensetzung der Vertreterversammlung der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
@@ -326,7 +316,6 @@ Sozialversicherung entsprechend mit der Maßgabe, dass die oder der
 Vorsitzende des Vorstandes der Bundesknappschaft die Aufgaben der oder
 des Vorsitzenden des Wahlausschusses wahrnimmt.
 
-
 ### § 7 Zusammensetzung des Vorstandes der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
 (1) Der Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See
@@ -339,7 +328,6 @@ Wahlordnung für die Sozialversicherung gilt entsprechend.
 Bundesknappschaft nimmt die Aufgaben und Befugnisse des Vorstandes der
 Deutschen Rentenversicherung Knappschaft-Bahn-See wahr, bis dieser zu
 seiner ersten Sitzung zusammentritt.
-
 
 ### § 8 Selbstverwaltungsorgane der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
@@ -400,7 +388,6 @@ Bahnversicherungsanstalt Abteilung B Regelungen zur Beschlussfassung.
 § 64 Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch findet
 Anwendung.
 
-
 ### § 9 Amtsdauer
 
 (1) Die Amtsdauer der Mitglieder der Selbstverwaltungsorgane der
@@ -414,7 +401,6 @@ Bahn-See. Die Satzung kann bestimmen, dass die Vertreterversammlung
 weitere Versichertenälteste für die bisherigen Bereiche der
 Bahnversicherungsanstalt und der Seekasse wählt.
 
-
 ### § 10 Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
 Die am 30. September 2005 amtierenden Mitglieder der Geschäftsführung
@@ -423,7 +409,6 @@ Geschäftsführung der Deutschen Rentenversicherung Knappschaft-Bahn-See
 bis zu deren Ernennung nach § 143 Abs. 6 des Sechsten Buches
 Sozialgesetzbuch in der ab 1. Oktober 2005 geltenden Fassung wahr.
 
-
 ### § 11 Übergangsregelungen zu den Selbstverwaltungsorganen und der Geschäftsführung der Deutschen Rentenversicherung Bund
 
 Bis zum Ablauf der am 1. Oktober 2005 laufenden Wahlperiode richtet
@@ -431,7 +416,6 @@ sich die Bildung der Selbstverwaltungsorgane und der Geschäftsführung
 der Deutschen Rentenversicherung Bund abweichend von den Vorschriften
 des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch nach den §§
 12 bis 14.
-
 
 ### § 12 Bundesvertreterversammlung der Deutschen Rentenversicherung Bund
 
@@ -456,10 +440,7 @@ Bundesversicherungsanstalt für Angestellte endet mit dem erstmaligen
 Zusammentritt der Bundesvertreterversammlung der Deutschen
 Rentenversicherung Bund.
 
-
 ### § 13 (weggefallen)
-
-
 
 ### § 14 Geschäftsführung der Deutschen Rentenversicherung Bund
 
@@ -474,7 +455,6 @@ Direktoriums der Deutschen Rentenversicherung Bund nach § 143 Abs. 2
 des Sechsten Buches Sozialgesetzbuch in der ab 1. Oktober 2005
 geltenden Fassung wahr.
 
-
 ### § 15 Erweitertes Direktorium
 
 Die Geschäftsführerin oder der Geschäftsführer und die
@@ -484,10 +464,7 @@ am 30. September 2005 amtieren, nehmen bis zur Errichtung des
 Erweiterten Direktoriums bei der Deutschen Rentenversicherung Bund
 dessen Aufgaben wahr.
 
-
 ## Abschnitt 3 - Überleitung des Satzungsrechts der Bahnversicherungsanstalt und sonstige Übergangsregelungen
-
-
 
 ### § 16 Überleitung des Satzungsrechts der Bahnversicherungsanstalt
 
@@ -508,7 +485,6 @@ Bahn-See zu führen, die nicht des Verfahrens nach § 71 des Vierten
 Buches Sozialgesetzbuch, sondern der Genehmigung des
 Bundesministeriums für Verkehr, Bau und Stadtentwicklung bedarf.
 
-
 ### § 17 Vorlagefrist für die Haushaltspläne 2006
 
 In Abänderung der Fristen nach § 70 Abs. 4 und § 71 Abs. 3 des Vierten
@@ -518,7 +494,6 @@ Knappschaft-Bahn-See für das Jahr 2006 dem Bundesministerium für
 Arbeit und Soziales spätestens zum 30. November 2005 vorzulegen. Der
 Haushaltsplan der Deutschen Rentenversicherung Bund kann bis zum 28.
 Februar 2006 beanstandet werden.
-
 
 ### § 18 Finanzierung der Träger der Rentenversicherung im Kalenderjahr 2005
 
@@ -552,7 +527,6 @@ allgemeine Rentenversicherung, soweit sie von der
 Bundesversicherungsanstalt für Angestellte oder deren Rechtsnachfolger
 wahrgenommen wird.
 
-
 ### § 19 Weiterleitung von Beiträgen im Jahr 2005
 
 Für das Kalenderjahr 2005 teilt der Verband Deutscher
@@ -560,7 +534,6 @@ Rentenversicherungsträger den Einzugsstellen die nach § 28k Abs. 1 des
 Vierten Buches Sozialgesetzbuch in der ab dem 1. Januar 2005 geltenden
 Fassung zuständigen Träger der Rentenversicherung und deren
 Beitragsanteil unverzüglich nach Inkrafttreten dieses Gesetzes mit.
-
 
 ### § 20 Zuständigkeit der Träger der Rentenversicherung bis zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
@@ -574,7 +547,6 @@ Angestellte.
 Gesetz zur Organisationsreform in der gesetzlichen Rentenversicherung
 zum 1. Januar 2005 geändert worden sind, an die Stelle der Deutschen
 Rentenversicherung Knappschaft-Bahn-See die Bundesknappschaft.
-
 
 ### § 21 Information über die Organisationsreform
 

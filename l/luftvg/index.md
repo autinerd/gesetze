@@ -18,14 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.5.2007 I 698; zuletzt geändert durch Art. 3 G v. 5.12.2012 I 2454
 
-
 ## Erster Abschnitt - Luftverkehr
 
-
-
 ### 1. Unterabschnitt - Luftfahrzeuge und Luftfahrtpersonal
-
-
 
 #### § 1
 
@@ -79,7 +74,6 @@ Luftfahrzeuge gelten unbemannte Fluggeräte einschließlich ihrer
 Kontrollstation, die nicht zu Zwecken des Sports oder der
 Freizeitgestaltung betrieben werden (unbemannte Luftfahrtsysteme).
 
-
 #### § 1a
 
 (1) Die Vorschriften dieses Gesetzes und die zur Durchführung dieses
@@ -111,7 +105,6 @@ Abs. 1 geregelt sind oder in einer sonstigen Beziehung zur Luftfahrt
 stehen, findet es im Hoheitsgebiet der Bundesrepublik Deutschland nur
 insoweit Anwendung, als es deutschem Recht nicht entgegensteht.
 
-
 #### § 1b
 
 (1) Wird ein Luftfahrzeug im Sinne des § 1a Abs. 1 außerhalb des
@@ -126,7 +119,6 @@ von den zuständigen Behörden in der Bundesrepublik Deutschland
 verfolgt und geahndet, als ob sie im Inland begangen worden wären. Die
 Ahndung erfolgt entsprechend der Umsetzung der in Absatz 1 genannten
 Regeln und Vorschriften durch deutsches Recht.
-
 
 #### § 1c
 
@@ -159,10 +151,6 @@ Deutschland haben nach Maßgabe des § 1 Abs. 1
 
 6.  Luftfahrzeuge, denen durch ausdrückliche Einflugerlaubnis nach § 2
     Abs. 7 die Benutzung des deutschen Luftraums gestattet ist.
-
-
-
-
 
 #### § 2
 
@@ -234,7 +222,6 @@ der Europäischen Union veröffentlichten gemeinschaftlichen Liste
 aufgeführte Betriebsuntersagung dem entgegensteht, ist die Erlaubnis
 nach Absatz 7 Satz 1 unwirksam und gilt Absatz 7 Satz 2 nicht.
 
-
 #### § 3
 
 (1) Luftfahrzeuge werden vorbehaltlich abweichender Verordnungen des
@@ -267,7 +254,6 @@ Union Anwendung findet.
 (2) Die für die Verkehrszulassung zuständige Stelle kann im Einzelfall
 Ausnahmen zulassen, wenn besondere Umstände vorliegen.
 
-
 #### § 3a
 
 (1) Mit der Eintragung in die Luftfahrzeugrolle wird die Pflicht nach
@@ -288,7 +274,6 @@ Verwaltungsabkommen nach Absatz 2 die Zuständigkeit für ein in einem
 ausländischen Register eingetragenes Luftfahrzeug übernehmen. Ein
 derartiges Luftfahrzeug unterliegt den Anforderungen dieses Gesetzes
 und den auf seiner Grundlage erlassenen Rechtsvorschriften.
-
 
 #### § 4
 
@@ -355,7 +340,6 @@ anzuwenden. Voraussetzung ist ferner der Nachweis der Befähigung und
 Eignung gemäß einer Rechtsverordnung nach § 32 Absatz 4 Nummer 4 und
 4a.
 
-
 #### § 5
 
 (1) Wer es unternimmt, Luftfahrer oder Personal für die Flugsicherung
@@ -374,10 +358,7 @@ werden, wenn sie länger als ein Jahr nicht ausgenutzt worden ist.
 vorgenommen werden, die eine Lehrberechtigung nach der Verordnung über
 Luftfahrtpersonal besitzen (Fluglehrer).
 
-
 ### 2. Unterabschnitt - Flugplätze
-
-
 
 #### § 6
 
@@ -427,7 +408,6 @@ Genehmigungsverfahren eine Umweltverträglichkeitsprüfung
 durchzuführen, so bedarf es keiner förmlichen Erörterung im Sinne des
 § 9 Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung.
 
-
 #### § 7
 
 (1) Die Genehmigungsbehörde kann dem Antragsteller die zur
@@ -458,7 +438,6 @@ Antragsteller unverzüglich nach Eintritt des jeweiligen Schadens volle
 Entschädigung in Geld zu leisten oder auf Verlangen des Geschädigten
 den früheren Zustand wiederherzustellen. Über Art und Höhe der
 Entschädigung entscheiden im Streitfalle die ordentlichen Gerichte.
-
 
 #### § 8
 
@@ -554,7 +533,6 @@ Vorarbeiten zur Baudurchführung sind darüber hinaus auch vor Eintritt
 der Bestandskraft eines Planfeststellungsbeschlusses oder einer
 Plangenehmigung zu dulden.
 
-
 #### § 8a
 
 (1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den
@@ -577,7 +555,6 @@ Entschädigung verlangen.
 
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Unternehmer an den
 betroffenen Flächen ein Vorkaufsrecht zu.
-
 
 #### § 9
 
@@ -614,7 +591,6 @@ verlängert. Als Beginn der Durchführung des Plans gilt jede erstmals
 nach außen erkennbare Tätigkeit zur planmäßigen Verwirklichung des
 Vorhabens. Eine spätere Unterbrechung der Verwirklichung des Vorhabens
 berührt den Beginn der Durchführung nicht.
-
 
 #### § 10
 
@@ -751,12 +727,10 @@ durch Planergänzung oder durch ein ergänzendes Verfahren behoben
 werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes und
 die entsprechenden landesrechtlichen Bestimmungen bleiben unberührt.
 
-
 #### § 11
 
 Die Vorschrift des § 14 des Bundes-Immissionsschutzgesetzes gilt für
 Flugplätze entsprechend.
-
 
 #### § 12
 
@@ -855,7 +829,6 @@ Allgemeinheit können die Luftfahrtbehörden ihre Zustimmung nach den
 Absätzen 2 und 3 davon abhängig machen, dass die Baugenehmigung unter
 Auflagen erteilt wird.
 
-
 #### § 13
 
 Sofern Baubeschränkungen im Bauschutzbereich infolge besonderer
@@ -864,7 +837,6 @@ bestimmten Geländeteilen für die Sicherheit der Luftfahrt nicht in dem
 nach § 12 festgelegten Umfang notwendig sind, können die
 Luftfahrtbehörden für diese Geländeteile Bauhöhen festlegen, bis zu
 welchen Bauwerke ohne ihre Zustimmung genehmigt werden können.
-
 
 #### § 14
 
@@ -882,7 +854,6 @@ Bodenerhebung überragt. Im Umkreis von 10 Kilometer Halbmesser um
 einen Flughafenbezugspunkt gilt als Höhe der höchsten Bodenerhebung
 die Höhe des Flughafenbezugspunktes.
 
-
 #### § 15
 
 (1) Die §§ 12 bis 14 gelten sinngemäß für Bäume, Freileitungen,
@@ -895,7 +866,6 @@ bedarf der Genehmigung. Falls die Genehmigung von einer anderen als
 der Baugenehmigungsbehörde erteilt wird, bedarf diese der Zustimmung
 der Luftfahrtbehörde. Ist eine andere Genehmigungsbehörde nicht
 vorgesehen, so ist die Genehmigung der Luftfahrtbehörde erforderlich.
-
 
 #### § 16
 
@@ -913,7 +883,6 @@ dulden.
 nach anderen Vorschriften bestehende Verpflichtung, diese Maßnahmen
 auf eigene Kosten selbst durchzuführen, bleiben unberührt.
 
-
 #### § 16a
 
 (1) Die Eigentümer und anderen Berechtigten von Bauwerken und von
@@ -930,7 +899,6 @@ folgen und dabei die Höhe von 20 m über der Erdoberfläche
 Eigentümern und anderen Berechtigten unverzüglich anzuzeigen.
 
 (2) § 16 Abs. 2 gilt entsprechend.
-
 
 #### § 17
 
@@ -952,7 +920,6 @@ Luftfahrtbehörde genehmigen darf (beschränkter Bauschutzbereich)
 Auf den beschränkten Bauschutzbereich sind § 12 Abs. 2 Satz 2 und 3
 und Abs. 4 sowie die §§ 13, 15 und 16 sinngemäß anzuwenden.
 
-
 #### § 18
 
 Der Umfang des Bauschutzbereichs ist den Eigentümern von Grundstücken
@@ -961,7 +928,6 @@ dieser Grundstücke Berechtigten sowie den dinglich Berechtigten,
 soweit sie der zuständigen Behörde bekannt oder aus dem Grundbuch
 ersichtlich sind, bekannt zu geben oder in ortsüblicher Weise
 öffentlich bekannt zu machen.
-
 
 #### § 18a
 
@@ -994,7 +960,6 @@ der beabsichtigten Veränderung liegt.
 (3) Die Absätze 1 und 2 gelten sinngemäß für die nach § 15 Abs. 1 Satz
 1 genannten Gegenstände. § 30 Abs. 2 Satz 1, 2 und 4 bleibt unberührt.
 
-
 #### § 18b
 
 (1) Bauwerke dürfen in den Bereichen, die für die Einrichtung und
@@ -1013,7 +978,6 @@ Bereich errichtet werden sollen.
 
 (3) Die Absätze 1 und 2 gelten sinngemäß für die nach § 15 Abs. 1 Satz
 1 genannten Gegenstände. § 30 Abs. 2 Satz 1, 2 und 4 bleibt unberührt.
-
 
 #### § 19
 
@@ -1062,7 +1026,6 @@ Kennzeichnung geltend macht.
 (6) Im Übrigen sind die Vorschriften des § 13 Abs. 2, der §§ 14, 15,
 17 bis 25, 31 und 32 des Schutzbereichgesetzes sinngemäß anzuwenden.
 
-
 #### § 19a
 
 Der Unternehmer eines Flughafens oder eines Landeplatzes im Sinne von
@@ -1076,7 +1039,6 @@ der Kommission nach § 32b sowie auf Verlangen der Genehmigungsbehörde
 anderen Behörden mitzuteilen und regelmäßig zu veröffentlichen. Sofern
 ein Bedürfnis für die Beschaffung und den Betrieb von Anlagen nach
 Satz 1 nicht besteht, kann die Genehmigungsbehörde Ausnahmen zulassen.
-
 
 #### § 19b
 
@@ -1295,7 +1257,6 @@ Genehmigungsbehörde die nach Satz 1 erforderlichen Auskünfte zu
 erteilen und Unterlagen vorzulegen, soweit dem keine anderweitigen
 Vorschriften oder Betriebs- und Geschäftsgeheimnisse entgegenstehen.
 
-
 #### § 19c
 
 (1) Die Unternehmer von Flugplätzen mit gewerblichem Luftverkehr haben
@@ -1332,7 +1293,6 @@ berechtigt sind, die übrigen der in Absatz 1 genannten
 Bodenabfertigungsdienste zu erbringen, im Einzelfall auf nicht weniger
 als jeweils zwei festgelegt werden.
 
-
 #### § 19d
 
 Die Unternehmer von Flughäfen haben für eine gefahrlose und leicht
@@ -1344,10 +1304,7 @@ Barrierefreiheit zu erreichen. Die Einzelheiten der Barrierefreiheit
 können durch Zielvereinbarungen im Sinne des § 5 des
 Behindertengleichstellungsgesetzes festgelegt werden.
 
-
 ### 3. Unterabschnitt - Luftfahrtunternehmen und -veranstaltungen
-
-
 
 #### § 20
 
@@ -1403,7 +1360,6 @@ Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3). Die Absätze 2 und 3
 gelten entsprechend, soweit dem nicht die in Satz 1 genannte
 Verordnung der Europäischen Union entgegensteht.
 
-
 #### § 20a
 
 Luftfahrtunternehmen, die der Öffentlichkeit zugängliche Flugpreise
@@ -1426,10 +1382,6 @@ Mitgliedstaat der Europäischen Union anbieten, sind verpflichtet,
     Luftfahrtunternehmens Zugang zu diesen Flugpreisen und Luftfrachtraten
     zu gewähren.
 
-
-
-
-
 #### § 20b
 
 Die Luftfahrtunternehmen, die Luftfahrzeuge mit mehr als 5,7 Tonnen
@@ -1441,7 +1393,6 @@ Barrierefreiheit zu erreichen. § 9 Abs. 2 des Luftsicherheitsgesetzes
 gilt entsprechend. Die Einzelheiten der Barrierefreiheit können durch
 Zielvereinbarungen im Sinne des § 5 des
 Behindertengleichstellungsgesetzes festgelegt werden.
-
 
 #### § 21
 
@@ -1480,7 +1431,6 @@ Vorschriften bleiben unberührt.
 
 (4) (weggefallen)
 
-
 #### § 21a
 
 Luftfahrtunternehmen, die ihren Hauptsitz nicht im Geltungsbereich des
@@ -1488,7 +1438,6 @@ Luftverkehrsrechts der Europäischen Union haben, bedürfen einer
 Betriebsgenehmigung zur Durchführung von Fluglinienverkehr von und
 nach der Bundesrepublik Deutschland. § 2 Abs. 9 und § 21 Abs. 1 Satz 2
 bis 4 und Abs. 2 und 3 finden entsprechende Anwendung.
-
 
 #### § 22
 
@@ -1506,14 +1455,12 @@ versehen werden, sofern dies zum Schutze vor nachteiligen Auswirkungen
 für Luftfahrtunternehmen mit Sitz im Geltungsbereich dieses Gesetzes
 erforderlich ist.
 
-
 #### § 23
 
 Vorbehaltlich des Luftverkehrsrechts der Europäischen Union kann die
 gewerbsmäßige Beförderung von Personen und Sachen durch Luftfahrzeuge
 zwischen Orten des Inlands deutschen Luftfahrtunternehmen vorbehalten
 werden.
-
 
 #### § 23a
 
@@ -1529,7 +1476,6 @@ Gemeinschaft für Luftfahrtunternehmen, die ihren Hauptsitz innerhalb
 des Geltungsbereichs des Gemeinschaftsrechts haben, soweit sie
 Luftverkehr zwischen der Bundesrepublik Deutschland und Staaten
 außerhalb des Geltungsbereichs des Gemeinschaftsrechts durchführen.
-
 
 #### § 23b
 
@@ -1579,7 +1525,6 @@ verpflichtet, die verlangten Auskünfte zu erteilen, die geschäftlichen
 Unterlagen vorzulegen und die Prüfung dieser geschäftlichen Unterlagen
 sowie das Betreten von Geschäftsräumen und -grundstücken zu dulden.
 
-
 #### § 23c
 
 Zur Umsetzung von
@@ -1605,7 +1550,6 @@ Flugliniengenehmigung und der Einflugerlaubnis nach § 2 Absatz 7 sowie
 die Untersagung der Anwendung von Flugplänen, Beförderungsentgelten
 und Beförderungsbedingungen nach § 21 Absatz 2 Satz 2.
 
-
 #### § 24
 
 (1) Öffentliche Veranstaltungen von Wettbewerben oder
@@ -1617,10 +1561,7 @@ kann mit Auflagen verbunden und befristet werden.
 rechtfertigen, dass die öffentliche Sicherheit oder Ordnung durch die
 Veranstaltung gefährdet werden kann.
 
-
 ### 4. Unterabschnitt - Verkehrsvorschriften
-
-
 
 #### § 25
 
@@ -1675,7 +1616,6 @@ verhindern.
 Landung entstandenen Schadens nach den sinngemäß anzuwendenden §§ 33
 bis 43 beanspruchen.
 
-
 #### § 26
 
 (1) Bestimmte Lufträume können vorübergehend oder dauernd für den
@@ -1684,7 +1624,6 @@ Luftverkehr gesperrt werden (Luftsperrgebiete).
 (2) In bestimmten Lufträumen kann der Durchflug von Luftfahrzeugen
 besonderen Beschränkungen unterworfen werden (Gebiete mit
 Flugbeschränkungen).
-
 
 #### § 27
 
@@ -1715,10 +1654,7 @@ zulassen kann.
 
 (4) § 11 Abs. 1 und 2 des Luftsicherheitsgesetzes bleibt unberührt.
 
-
 ### 5. Unterabschnitt - Flughafenkoordinierung, Flugsicherung und Flugwetterdienst
-
-
 
 #### § 27a
 
@@ -1735,14 +1671,12 @@ betreffenden Flugplatzunternehmers und der Luftfahrtunternehmen, die
 den Flugplatz regelmäßig benutzen, die Anzahl der im Voraus planbaren
 Zeitnischen (Koordinierungseckwert).
 
-
 #### § 27b
 
 Von den Verfahren der Zeitnischenzuweisung kann aus Gründen der
 öffentlichen Interessen, insbesondere der hoheitlichen Interessen, der
 öffentlichen Verkehrsinteressen oder der Verpflichtungen aus
 völkerrechtlichen Verträgen abgewichen werden.
-
 
 #### § 27c
 
@@ -1824,7 +1758,6 @@ Nr. 550/2004 des Europäischen Parlaments und des Rates vom 10. März
 europäischen Luftraum („Flugsicherungsdienste-Verordnung“) (ABl. L 96
 vom 31.3.2004, S. 10).
 
-
 #### § 27d
 
 (1) Flugsicherungsdienste und die dazu erforderlichen
@@ -1874,7 +1807,6 @@ die örtlichen Voraussetzungen erfüllt und andere Belange der
 Flugsicherung nicht beeinträchtigt werden. Über den Antrag entscheidet
 das Bundesministerium für Verkehr, Bau und Stadtentwicklung. Absatz 2
 ist anzuwenden.
-
 
 #### § 27e
 
@@ -1942,7 +1874,6 @@ Wetterdienst oder anderen damit ausdrücklich beauftragten Stellen (§
 Gebühren, der den Aufwand für den Flugwetterdienst abdeckt, im Namen
 und für Rechnung des Deutschen Wetterdienstes.
 
-
 #### § 27f
 
 (1) Flugwetterbetriebsdienste und die dazu erforderlichen
@@ -2000,10 +1931,7 @@ bestimmter Aufgaben nach § 27e Abs. 2 Nr. 1 und 2 beauftragt; diese
 Beauftragten unterstehen der Fachaufsicht des Deutschen
 Wetterdienstes.
 
-
 ### 6. Unterabschnitt - Vorzeitige Besitzeinweisung und Enteignung
-
-
 
 #### § 27g
 
@@ -2064,7 +1992,6 @@ Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann
 nur innerhalb eines Monats nach der Zustellung des
 Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
-
 #### § 28
 
 (1) Für Zwecke der Zivilluftfahrt ist die Enteignung zulässig. Die
@@ -2078,7 +2005,6 @@ zugrunde zu legen und für die Enteignungsbehörde bindend.
 
 (3) Im Übrigen gelten die Enteignungsgesetze der Länder.
 
-
 #### § 28a Entschädigungsverfahren
 
 Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses
@@ -2089,10 +2015,7 @@ entscheidet auf Antrag eines der Beteiligten die nach Landesrecht
 zuständige Behörde; für das Verfahren und den Rechtsweg gelten die
 Enteignungsgesetze der Länder entsprechend.
 
-
 ### 7. Unterabschnitt - Gemeinsame Vorschriften
-
-
 
 #### § 29
 
@@ -2262,7 +2185,6 @@ Luftfahrzeuge mit einer Höchstabflugmasse unter 5 700 Kilogramm, die
 nicht zu gewerblichen Zwecken betrieben werden. Für die Aufzeichnung
 des Flugfunkverkehrs gilt § 27c Abs. 3 entsprechend.
 
-
 #### § 29a
 
 Die für die Durchführung der Luftaufsicht auf Flugplätzen
@@ -2270,7 +2192,6 @@ erforderlichen Räume hat der Unternehmer des Flugplatzes kostenfrei
 bereitzustellen und zu unterhalten. Auf Flugplätzen, die nicht dem
 allgemeinen Verkehr dienen, hat der Unternehmer des Flugplatzes die
 Kosten der Luftaufsicht zu tragen. § 27d bleibt unberührt.
-
 
 #### § 29b
 
@@ -2286,16 +2207,13 @@ nehmen.
 (2) Die Luftfahrtbehörden und die Flugsicherungsorganisation haben auf
 den Schutz der Bevölkerung vor unzumutbarem Fluglärm hinzuwirken.
 
-
 #### § 29c
 
 (weggefallen)
 
-
 #### § 29d
 
 (weggefallen)
-
 
 #### § 29e
 
@@ -2303,7 +2221,6 @@ Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel
 10 des Grundgesetzes) sowie der Unverletzlichkeit der Wohnung (Artikel
 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes
 eingeschränkt.
-
 
 #### § 30
 
@@ -2352,7 +2269,6 @@ Landbeschaffungsgesetzes beschafft, findet allein das
 Anhörungsverfahren nach § 1 Abs. 2 des Landbeschaffungsgesetzes statt;
 hierbei sind insbesondere die Erfordernisse des zivilen Luftverkehrs
 angemessen zu berücksichtigen.
-
 
 #### § 31
 
@@ -2524,7 +2440,6 @@ des Unternehmens durch das Luftfahrt-Bundesamt erteilt, wenn die
 Genehmigungsbehörde dies im besonders gelagerten Einzelfall für
 erforderlich hält.
 
-
 #### § 31a
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -2532,7 +2447,6 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 natürliche oder juristische Personen des privaten Rechts mit der
 Wahrnehmung der Flughafenkoordinierung nach Maßgabe des Rechts der
 Europäischen Union zu beauftragen (Flughafenkoordinator).
-
 
 #### § 31b
 
@@ -2635,7 +2549,6 @@ verfassungsmäßigen Aufgabenerfüllung der Luftstreitkräfte der
 Bundeswehr gegenüber der anderen Flugsicherungsorganisation geregelt
 sind.
 
-
 #### § 31c
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -2669,7 +2582,6 @@ Freiballone, Luftsportgeräte und Flugmodelle zu beauftragen:
 
 Satz 1 findet Anwendung auf Segelflugzeuge, sofern das betreffende
 Land für seinen Aufgabenbereich (§ 31 Abs. 2) zustimmt.
-
 
 #### § 31d
 
@@ -2729,7 +2641,6 @@ richten.
 (5) Widerspruch und Anfechtungsklage gegen Entscheidungen der
 Beauftragten haben keine aufschiebende Wirkung.
 
-
 #### § 31e
 
 Im Falle der Staatshaftung wegen Ansprüchen Dritter können die
@@ -2740,7 +2651,6 @@ Bundesministerium der Finanzen festgelegten Höchstbetrag in Rückgriff
 genommen werden. Gegenüber Organen und Personal der Beauftragten nach
 den §§ 31a bis 31c und 31f richtet sich der Rückgriff des Beauftragten
 nach den allgemeinen Vorschriften.
-
 
 #### § 31f
 
@@ -2824,7 +2734,6 @@ beauftragte anerkannte Organisationen.
 (7) Die Beauftragung kann auch auf Antrag der
 Flugsicherungsorganisation widerrufen werden. § 49 Absatz 6 des
 Verwaltungsverfahrensgesetzes gilt nicht.
-
 
 #### § 32
 
@@ -3208,7 +3117,6 @@ beizufügen ist, ist die elektronische Form ausgeschlossen, sofern
 nicht in den zur Durchführung dieses Gesetzes erlassenen
 Rechtsverordnungen eine abweichende Regelung getroffen ist.
 
-
 #### § 32a
 
 (1) Bei dem Bundesministerium für Umwelt, Naturschutz und
@@ -3242,7 +3150,6 @@ das Bundesministerium für Verkehr, Bau und Stadtentwicklung die
 Empfehlungen des Ausschusses für nicht geeignet oder nicht
 durchführbar, so ist dies dem Ausschuss unter Angabe der Gründe
 schriftlich mitzuteilen.
-
 
 #### § 32b
 
@@ -3301,7 +3208,6 @@ aus Gründen des Lärmschutzes oder zur Verringerung der
 Luftverunreinigung durch Luftfahrzeuge ein Bedürfnis besteht. Die
 Absätze 1 bis 6 gelten sinngemäß.
 
-
 #### § 32c
 
 Eine Erlaubnis, Genehmigung, Zulassung oder Berechtigung auf Grund
@@ -3320,14 +3226,9 @@ Zeit angeordnet werden, solange der Zahlungsrückstand währt. Eine
 beantragte Erteilung kann aus den Gründen nach Satz 1 versagt werden,
 bis die ausstehende Zahlung eingegangen ist.
 
-
 ## Zweiter Abschnitt - Haftpflicht
 
-
-
 ### 1. Unterabschnitt - Haftung für Personen und Sachen, die nicht im Luftfahrzeug befördert werden
-
-
 
 #### § 33
 
@@ -3350,7 +3251,6 @@ Luftfahrzeug vom Halter überlassen worden, so ist der Halter zum
 Ersatz des Schadens verpflichtet; die Haftung des Benutzers nach den
 allgemeinen gesetzlichen Vorschriften bleibt unberührt.
 
-
 #### § 34
 
 Hat bei der Entstehung des Schadens ein Verschulden des Verletzten
@@ -3358,7 +3258,6 @@ mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; bei
 Beschädigung einer Sache steht das Verschulden desjenigen, der die
 tatsächliche Gewalt darüber ausübt, dem Verschulden des Verletzten
 gleich.
-
 
 #### § 35
 
@@ -3379,7 +3278,6 @@ des Unterhalts verpflichtet gewesen sein würde. Die Ersatzpflicht
 tritt auch dann ein, wenn der Dritte zur Zeit des Unfalls gezeugt,
 aber noch nicht geboren war.
 
-
 #### § 36
 
 Bei Verletzung des Körpers oder der Gesundheit umfasst der
@@ -3389,7 +3287,6 @@ dauernd seine Erwerbsfähigkeit aufgehoben oder gemindert oder sein
 Fortkommen erschwert ist oder seine Bedürfnisse vermehrt sind. Wegen
 des Schadens, der nicht Vermögensschaden ist, kann auch eine billige
 Entschädigung in Geld gefordert werden.
-
 
 #### § 37
 
@@ -3458,7 +3355,6 @@ auf die Ansprüche zu verteilen. Der übrige Teil des nach Absatz 1 Satz
 und für die noch ungedeckten Ansprüche aus Personenschäden zu
 verwenden.
 
-
 #### § 38
 
 (1) Der Schadensersatz für Aufhebung oder Minderung der
@@ -3476,13 +3372,11 @@ verlangen, wenn sich die Vermögensverhältnisse des Verpflichteten
 erheblich verschlechtert haben. Diese Bestimmung gilt bei Schuldtiteln
 des § 794 Abs. 1 Nr. 1 und 5 der Zivilprozessordnung entsprechend.
 
-
 #### § 39
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
-
 
 #### § 40
 
@@ -3494,7 +3388,6 @@ Anzeige infolge eines Umstandes unterblieben ist, den der
 Ersatzberechtigte nicht zu vertreten hat, oder wenn der
 Ersatzpflichtige innerhalb der Frist auf andere Weise von dem Unfall
 Kenntnis erhalten hat.
-
 
 #### § 41
 
@@ -3510,14 +3403,12 @@ trifft.
 (2) Absatz 1 gilt entsprechend, wenn neben dem Halter ein anderer für
 den Schaden verantwortlich ist.
 
-
 #### § 42
 
 Unberührt bleiben die bundesrechtlichen Vorschriften, wonach für den
 beim Betrieb eines Luftfahrzeugs entstehenden Schaden der Halter oder
 Benutzer (§ 33 Abs. 2) in weiterem Umfang oder der Führer oder ein
 anderer haftet.
-
 
 #### § 43
 
@@ -3539,10 +3430,7 @@ oder ein Land Halter des Luftfahrzeugs ist.
 Pflichtversicherung des Versicherungsvertragsgesetzes. § 114 des
 Versicherungsvertragsgesetzes gilt nicht.
 
-
 ### 2. Unterabschnitt - Haftung für Personen und Gepäck, die im Luftfahrzeug befördert werden; Haftung für verspätete Beförderung
-
-
 
 #### § 44 Anwendungsbereich
 
@@ -3597,7 +3485,6 @@ dieser Haftung gelten die Vorschriften dieses Unterabschnitts, soweit
 
 nicht anwendbar sind oder keine Regelung enthalten.
 
-
 #### § 45 Haftung für Personenschäden
 
 (1) Wird ein Fluggast durch einen Unfall an Bord eines Luftfahrzeugs
@@ -3629,7 +3516,6 @@ eine weitergehende Haftung des Luftfrachtführers nach Absatz 2
 ausgeschlossen, so verringern sich die einzelnen Entschädigungen in
 dem Verhältnis, in welchem ihr Gesamtbetrag zu diesem Betrag steht.
 
-
 #### § 46 Haftung bei verspäteter Personenbeförderung
 
 (1) Wird ein Fluggast verspätet befördert, ist der Luftfrachtführer
@@ -3643,7 +3529,6 @@ jeden Fluggast nur bis zu einem Betrag von 4 694 Rechnungseinheiten.
 Dies gilt nicht, wenn der Schaden vom Luftfrachtführer oder seinen
 Leuten in Ausführung ihrer Verrichtungen vorsätzlich oder grob
 fahrlässig verursacht wurde.
-
 
 #### § 47 Haftung für Gepäckschäden
 
@@ -3701,7 +3586,6 @@ nach Absatz 1 nur geltend gemacht werden, wenn der Luftfrachtführer
 den Verlust anerkannt hat oder 21 Tage seit dem Tag vergangen sind, an
 dem das Reisegepäck hätte eintreffen sollen.
 
-
 #### § 48 Haftung auf Grund sonstigen Rechts
 
 (1) Ein Anspruch auf Schadensersatz, auf welchem Rechtsgrund er auch
@@ -3719,7 +3603,6 @@ Unterabschnitts berufen.
 des Luftfrachtführers und seiner Leute begrenzen, darf der
 Gesamtbetrag, der von ihnen als Schadensersatz zu leisten ist, diese
 Beträge nicht überschreiten.
-
 
 #### § 48a Luftbeförderung durch mehrere Luftfrachtführer
 
@@ -3739,7 +3622,6 @@ Schadensersatz verpflichtet, der die Luftbeförderung ausgeführt hat,
 in deren Verlauf die Zerstörung, die Beschädigung, der Verlust erfolgt
 oder die Verspätung eingetreten ist. Diese Luftfrachtführer haften als
 Gesamtschuldner.
-
 
 #### § 48b Haftung des vertraglichen und des ausführenden Luftfrachtführers
 
@@ -3787,12 +3669,10 @@ den höchsten Betrag nicht überschreiten, den einer von ihnen zu
 leisten verpflichtet ist. Jeder von ihnen haftet jedoch nur bis zu dem
 für ihn geltenden Höchstbetrag.
 
-
 #### § 49 Anzuwendende Vorschriften
 
 Für die Haftung nach diesem Unterabschnitt sind im Übrigen die
 Vorschriften der §§ 34 bis 36 und 38 anzuwenden.
-
 
 #### § 49a Ausschlussfrist
 
@@ -3801,7 +3681,6 @@ zwei Jahren erhoben werden. Die Frist beginnt mit dem Tag, an dem das
 Luftfahrzeug am Bestimmungsort angekommen ist, an dem es hätte
 ankommen sollen oder an dem die Luftbeförderung abgebrochen worden
 ist.
-
 
 #### § 49b Umrechnung von Rechnungseinheiten
 
@@ -3815,7 +3694,6 @@ dem Sonderziehungsrecht wird nach der Berechnungsmethode ermittelt,
 die der Internationale Währungsfonds an dem betreffenden Tag für seine
 Operationen und Transaktionen anwendet.
 
-
 #### § 49c Unabdingbarkeit
 
 (1) Im Falle einer entgeltlichen oder geschäftsmäßigen Luftbeförderung
@@ -3826,7 +3704,6 @@ beschränkt werden.
 (2) Eine Vereinbarung, die der Vorschrift des Absatzes 1 zuwider
 getroffen wird, ist nichtig. Ihre Nichtigkeit hat nicht die
 Nichtigkeit des gesamten Vertrages zur Folge.
-
 
 #### § 50 Obligatorische Haftpflichtversicherung
 
@@ -3843,7 +3720,6 @@ Montrealer Übereinkommen anwendbar ist.
 (2) Für die Haftpflichtversicherung gelten die Vorschriften für die
 Pflichtversicherung des Versicherungsvertragsgesetzes. § 114 des
 Versicherungsvertragsgesetzes gilt nicht.
-
 
 #### § 51 Subsidiarität der Versicherung des vertraglichen Luftfrachtführers
 
@@ -3862,18 +3738,11 @@ Luftfrachtführer nur, soweit
 2.  seine Haftung über die Haftung des ausführenden Luftfrachtführers
     hinausgeht.
 
-
-
-
-
 #### § 52
 
 (weggefallen)
 
-
 ### 3. Unterabschnitt - Haftung für militärische Luftfahrzeuge
-
-
 
 #### § 53 Haftung für Schäden außerhalb eines militärischen Luftfahrzeugs
 
@@ -3889,7 +3758,6 @@ die entgehenden Dienste durch Entrichtung einer Geldrente Ersatz zu
 leisten.
 
 (3) (weggefallen)
-
 
 #### § 54 Haftung für Schäden bei Beförderung in einem militärischen Luftfahrzeug
 
@@ -3925,10 +3793,7 @@ anzuwenden.
 (4) Die Haftung darf im Voraus durch Vereinbarung weder ausgeschlossen
 noch beschränkt werden.
 
-
 ### 4. Unterabschnitt - Gemeinsame Vorschriften für die Haftpflicht
-
-
 
 #### § 55 Verhältnis zu sozial- und versorgungsrechtlichen Vorschriften
 
@@ -3938,7 +3803,6 @@ Luftfahrzeughalters beschäftigt sind. Das Gleiche gilt für die
 sonstigen Vorschriften über Unfallschäden nach den beamtenrechtlichen
 Vorschriften des Bundes und der Länder und den versorgungsrechtlichen
 Vorschriften für die Bundeswehr.
-
 
 #### § 56 Gerichtsstand
 
@@ -3961,15 +3825,11 @@ Schadens, der durch Tod oder Körperverletzung eines Reisenden
 entstanden ist, das Gericht örtlich zuständig, in dessen Bezirk der
 Reisende zum Zeitpunkt des Unfalls seinen Wohnsitz hatte.
 
-
 #### § 57
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 58
 
@@ -4100,7 +3960,6 @@ bis zu fünfundzwanzigtausend Euro, die Ordnungswidrigkeit nach Absatz
 1 Nr. 1, 4, 8, 10, 11, 14 und 15 mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 59
 
 (1) Wer als Führer eines Luftfahrzeugs oder als sonst für die
@@ -4112,7 +3971,6 @@ Jahren oder mit Geldstrafe bestraft.
 
 (2) Wer die Tat fahrlässig begeht, wird mit Freiheitsstrafe bis zu
 zwei Jahren oder mit Geldstrafe bestraft.
-
 
 ### § 60
 
@@ -4158,11 +4016,9 @@ bestraft.
 sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen
 bestraft.
 
-
 ### § 61
 
 (weggefallen)
-
 
 ### § 62
 
@@ -4175,7 +4031,6 @@ Strafe bedroht ist.
 (2) Wer die Tat fahrlässig begeht, wird mit Freiheitsstrafe bis zu
 sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen
 bestraft.
-
 
 ### § 63
 
@@ -4208,13 +4063,7 @@ Landesbehörden ausgeführt wird,
     Ordnungswidrigkeiten, die von militärischen Luftfahrzeugführern mit
     militärischen Luftfahrzeugen begangen werden.
 
-
-
-
-
 ## Vierter Abschnitt - Luftfahrtdateien
-
-
 
 ### § 64
 
@@ -4409,7 +4258,6 @@ Absatz 7 und 8 genannten Zwecke bis zum Ablauf des fünften Jahres nach
 Erlöschen der Verkehrszulassung genutzt oder übermittelt werden; nach
 Ablauf dieser Frist sind sie zu löschen.
 
-
 ### § 65
 
 (1) Das Luftfahrt-Bundesamt führt eine Datei über die von ihm, den
@@ -4526,7 +4374,6 @@ jeweiligen Datensatzes sind aktenkundig zu machen.
 Rahmen seiner Zuständigkeiten erteilten Erlaubnisse und
 Berechtigungen. Die Absätze 2 bis 5 und 7 sind entsprechend
 anzuwenden.
-
 
 ### § 66
 
@@ -4664,7 +4511,6 @@ Entscheidung. Eine Entscheidung, mit der die Erteilung einer Erlaubnis
 oder die Anerkennung einer ausländischen Erlaubnis für immer untersagt
 worden ist, wird gelöscht, wenn der Betroffene gestorben ist.
 
-
 ### § 67
 
 Über die vom Bundesaufsichtsamt für Flugsicherung erteilten
@@ -4690,7 +4536,6 @@ Straftaten und für die Abwehr von Gefahren für die Sicherheit des
 Luftverkehrs zuständig sind, übermittelt werden, wenn dies zur
 Feststellung, welche Erlaubnisse und Berechtigungen ein Angehöriger
 des Flugsicherungspersonals besitzt, erforderlich ist.
-
 
 ### § 68
 
@@ -4723,11 +4568,9 @@ Erfüllung der genannten Aufgaben erforderlich ist.
 (5) Der Empfänger darf die übermittelten Daten nur zu dem Zweck
 verwenden, zu dessen Erfüllung sie ihm übermittelt worden sind.
 
-
 ### § 69
 
 (weggefallen)
-
 
 ### § 70
 
@@ -4800,10 +4643,7 @@ nicht, soweit die nach Absatz 1 erhobenen Daten durch Löschung der
 letzten drei Buchstaben des Eintragungszeichens anonymisiert worden
 sind.
 
-
 ## Fünfter Abschnitt - Übergangsregelungen
-
-
 
 ### § 71
 
@@ -4829,7 +4669,6 @@ den Vorschriften dieses Gesetzes in der ab dem 17. Dezember 2006
 geltenden Fassung weitergeführt. § 11 Abs. 2 des
 Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
 
-
 ### § 72
 
 (1) Die durch das Gesetz zur Harmonisierung des Haftungsrechts im
@@ -4846,7 +4685,6 @@ sich der Unfall vor seinem Inkrafttreten ereignet hat.
 im Luftverkehr vom 5. August 2010 (BGBl. I S. 1126) geänderten §§ 45
 bis 47 gelten nicht, wenn der Vertrag, aus dem die Luftbeförderung
 geschuldet wurde, vor dem 11. August 2010 geschlossen wurde.
-
 
 ### § 73
 
@@ -4887,10 +4725,6 @@ a)  im deutschen Luftraum in grenznahen Bereichen ausgeübten Tätigkeiten
 b)  an Flugplätzen nach § 27d Absatz 4 durch ausländische
     Flugsicherungsorganisationen nach § 31f Absatz 1 ausgeübten
     Tätigkeiten bei Vorliegen aller anderen Voraussetzungen als gestattet.
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 

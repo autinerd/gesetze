@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 23.10.2001 I 2702
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
@@ -40,7 +38,6 @@ ausüben will, erhält die Erlaubnis nach Maßgabe der
 Durchführungsbestimmungen; er führt die Berufsbezeichnung
 "Heilpraktiker".
 
-
 ## § 2
 
 (1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, bisher
@@ -55,24 +52,20 @@ unter erleichterten Bedingungen zum Studium der Medizin zugelassen,
 sofern er seine Eignung für die Durchführung des Medizinstudiums
 nachweist.
 
-
 ## § 3
 
 Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde im
 Umherziehen.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
 Wer, ohne zur Ausübung des ärztlichen Berufs berechtigt zu sein und
 ohne eine Erlaubnis nach § 1 zu besitzen, die Heilkunde ausübt, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 5a
 
@@ -82,7 +75,6 @@ die Heilkunde im Umherziehen ausübt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## § 6
 
 (1) Die Ausübung der Zahnheilkunde fällt nicht unter die Bestimmungen
@@ -90,14 +82,12 @@ dieses Gesetzes.
 
 (2)
 
-
 ## § 7
 
 Der
 Reichsminister des Innern              erläßt ... die zur Durchführung
 ... dieses Gesetzes erforderlichen Rechts- und
 Verwaltungsvorschriften.
-
 
 ## § 8
 

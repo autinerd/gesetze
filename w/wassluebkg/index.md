@@ -18,12 +18,10 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +31,6 @@ Nutzung grenzüberschreitender Wasserläufe und internationaler Seen
 wird zugestimmt. Das Übereinkommen wird nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, Änderungen der Anlagen I bis III
@@ -41,7 +38,6 @@ zu dem Übereinkommen zum Schutz grenzüberschreitender Wasserläufe, die
 sich ausschließlich auf wissenschaftliche, technische oder
 verwaltungsmäßige Angelegenheiten beziehen, durch Rechtsverordnung mit
 Zustimmung des Bundesrates in Kraft zu setzen.
-
 
 ## Art 3
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1390
 
-
 ## (XXXX)
 
 Das Ordenskapitel des Ordens Pour le mérite für Wissenschaften und
@@ -30,7 +29,6 @@ genehmige ich die Satzungsänderungen.
 
 Die Neufassung der Satzung wird vom Bundesministerium des Innern im
 Bundesanzeiger veröffentlicht.
-
 
 ## Schlussformel
 

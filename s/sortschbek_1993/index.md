@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 908
 
-
-
 ## (XXXX)
 
 Auf Grund des § 15 Abs. 1 Nr. 4 des Sortenschutzgesetzes vom 11.

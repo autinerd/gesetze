@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 321
 
-
-
 ## (XXXX)
 
 Der Bundesminister der Verteidigung hat am 29. Januar 1996 den Erlaß

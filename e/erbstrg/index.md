@@ -18,20 +18,15 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 20.12.1996 I 2049
 
-
 ## Art 1 - Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG)
-
-
 
 ## Art 2 -
 
 (weggefallen)
 
-
 ## Art 3 u. 4 -
 
 -
-
 
 ## Art 5 - Sonderregelung bei der Vereinbarung der Gütergemeinschaft
 
@@ -41,7 +36,6 @@ Nr. 3 Abs. 2 des Gesetzes über die Gleichberechtigung von Mann und
 Frau auf dem Gebiete des bürgerlichen Rechts vom 18. Juni 1957 (BGBl.
 I S. 609) im Güterstand der Gütertrennung leben, bis zum 31. Dezember
 1974 nicht anzuwenden.
-
 
 ## Art 6 - Übergangsregelung für vor dem 3. Oktober 1973 abgeschlossene Erbschaftsteuer- und Lastenausgleichsversicherungen
 
@@ -56,7 +50,6 @@ Feststellung des steuerpflichtigen Erwerbs unberücksichtigt zu lassen
 ist, für jedes dem Kalenderjahr 1973 bis zum Eintritt des
 Versicherungsfalles folgende Kalenderjahr um jeweils 5 vom Hundert.
 
-
 ## Art 7 - Sonderregelung bei Auflösung von bestehenden Familienstiftungen und Vereinen
 
 Bei Auflösung einer Stiftung oder eines Vereins im Sinne des § 1 Abs.
@@ -67,15 +60,11 @@ Besteuerung nach § 10 Abs. 2 des Erbschaftsteuergesetzes in der
 Fassung der Bekanntmachung vom 1. April 1959 (BGBl. I S. 187)
 durchzuführen.
 
-
 ## Art 8 -
-
-
 
 ## Art 9 -
 
 (weggefallen)
-
 
 ## Art 10 -
 

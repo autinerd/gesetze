@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2353
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 4 Nr. 2 und des § 27 Abs. 1 Satz 1 des Gesetzes
@@ -30,7 +28,6 @@ und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 im Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## § 1 Geltungsbereich
 
 Für die Beamtinnen und Beamten, die nach § 12 Abs. 2 und 3 des
@@ -42,7 +39,6 @@ Deutsche Bahn Aktiengesellschaft oder einer Gesellschaft im Sinne von
 Vorschriften der Arbeitszeitverordnung vom 23. Februar 2006 (BGBl. I
 S. 427) in ihrer jeweils geltenden Fassung, soweit in den §§ 2 bis 4
 nichts anderes bestimmt ist.
-
 
 ## § 2 Jahresarbeitszeit
 
@@ -68,7 +64,6 @@ nächsten Abrechnungszeitraum übertragen.
 nicht erreicht, werden bis zu 40 Stunden in den nächsten
 Abrechnungszeitraum übertragen.
 
-
 ## § 3 Ruhepausen
 
 (1) Ruhepausen werden nicht auf die Arbeitszeit angerechnet.
@@ -78,7 +73,6 @@ betrieblich erforderlich ist.
 (2) Die Ruhepausen dürfen auf Kurzpausen von fünf bis 14 Minuten
 aufgeteilt werden, soweit dies betrieblich erforderlich und für die zu
 leistende Tätigkeit eine ausreichende Erholung gewährleistet ist.
-
 
 ## § 4 Nachtdienst
 
@@ -94,7 +88,6 @@ erheblichem Umfang Arbeitsbereitschaft oder Bereitschaftsdienst fällt.
 vollkontinuierlichen Schichtbetrieben eine Verlängerung auf bis zu
 zwölf Stunden möglich, wenn dadurch zusätzliche freie Schichten an
 Sonn- und gesetzlichen Feiertagen erreicht werden.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

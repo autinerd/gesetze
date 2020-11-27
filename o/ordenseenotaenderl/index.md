@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 472
 
-
-
 ## (XXXX)
 
 Der Vorstand der Deutschen Gesellschaft zur Rettung Schiffbrüchiger

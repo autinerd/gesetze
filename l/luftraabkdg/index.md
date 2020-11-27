@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1933, 1079
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat zur Durchführung des Ersten Abkommens zur
 Vereinheitlichung des Luftprivatrechts (Reichsgesetzbl. II S. 1039)
 das folgende Gesetz beschlossen, das hiermit verkündet wird:
-
 
 ## § 1
 
@@ -40,7 +37,6 @@ Körperverletzung oder Gesundheitsbeschädigung eines Reisenden zu
 leisten sind, insgesamt den in Artikel 22 des Abkommens festgesetzten
 Höchstbetrag, so verringern sich die einzelnen Entschädigungen in dem
 Verhältnis, wie ihr Gesamtbetrag zum Höchstbetrag steht.
-
 
 ## § 2
 

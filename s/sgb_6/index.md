@@ -26,11 +26,7 @@ Stand: Ergänzung auf Grund der Sozialversicherungs-Rechengrößenverordnung v. 
 
 ## Erstes Kapitel - Versicherter Personenkreis
 
-
-
 ### Erster Abschnitt - Versicherung kraft Gesetzes
-
-
 
 #### § 1 Beschäftigte
 
@@ -89,7 +85,6 @@ Nr. 2 bis 4 genannten Personen gelten als Beschäftigte im Sinne des
 Rechts der Rentenversicherung. Teilnehmer an dualen Studiengängen
 stehen den Beschäftigten zur Berufsausbildung im Sinne des Satzes 1
 Nummer 1 gleich.
-
 
 #### § 2 Selbständig Tätige
 
@@ -159,10 +154,6 @@ Als Arbeitnehmer im Sinne des Satzes 1 Nr. 1, 2, 7 und 9 gelten
 
 
 3.  für Gesellschafter auch die Arbeitnehmer der Gesellschaft.
-
-
-
-
 
 #### § 3 Sonstige Versicherte
 
@@ -236,7 +227,6 @@ Teilhabe am Arbeitsleben mit einer Versicherungspflicht nach § 1 Satz
 die höheren Beiträge zu zahlen sind. Die Versicherungspflicht nach
 Satz 1 Nr. 3 und 4 erstreckt sich auch auf Personen, die ihren
 gewöhnlichen Aufenthalt im Ausland haben.
-
 
 #### § 4 Versicherungspflicht auf Antrag
 
@@ -332,7 +322,6 @@ werden kann.
 
 Sie endet mit Ablauf des Tages, an dem die Voraussetzungen weggefallen
 sind.
-
 
 #### § 5 Versicherungsfreiheit
 
@@ -438,10 +427,6 @@ Prüfungsordnung vorgeschrieben ist.
 3.  bis zum Erreichen der Regelaltersgrenze nicht versichert waren oder
     nach Erreichen der Regelaltersgrenze eine Beitragserstattung aus ihrer
     Versicherung erhalten haben.
-
-
-
-
 
 #### § 6 Befreiung von der Versicherungspflicht
 
@@ -604,10 +589,7 @@ oder vertraglich im Voraus zeitlich begrenzt ist und der
 Versorgungsträger für die Zeit der Tätigkeit den Erwerb
 einkommensbezogener Versorgungsanwartschaften gewährleistet.
 
-
 ### Zweiter Abschnitt - Freiwillige Versicherung
-
-
 
 #### § 7 Freiwillige Versicherung
 
@@ -620,10 +602,7 @@ Aufenthalt im Ausland haben.
 Zeiten des Bezugs einer solchen Rente ist eine freiwillige
 Versicherung nicht zulässig.
 
-
 ### Dritter Abschnitt - Nachversicherung, Versorgungsausgleich und Rentensplitting
-
-
 
 #### § 8 Nachversicherung, Versorgungsausgleich und Rentensplitting
 
@@ -671,18 +650,11 @@ vorgelegen hat (Nachversicherungszeitraum). Bei einem Ausscheiden
 durch Tod erfolgt eine Nachversicherung nur, wenn ein Anspruch auf
 Hinterbliebenenrente geltend gemacht werden kann.
 
-
 ## Zweites Kapitel - Leistungen
-
-
 
 ### Erster Abschnitt - Leistungen zur Teilhabe
 
-
-
 #### Erster Unterabschnitt - Voraussetzungen für die Leistungen
-
-
 
 ##### § 9 Aufgabe der Leistungen zur Teilhabe
 
@@ -708,7 +680,6 @@ erst zu einem späteren Zeitpunkt zu erbringen sind.
 (2) Die Leistungen nach Absatz 1 können erbracht werden, wenn die
 persönlichen und versicherungsrechtlichen Voraussetzungen dafür
 erfüllt sind.
-
 
 ##### § 10 Persönliche Voraussetzungen
 
@@ -753,10 +724,6 @@ persönlichen Voraussetzungen erfüllt,
 2.  bei denen der Eintritt von im Bergbau verminderter Berufsfähigkeit
     droht und bei denen voraussichtlich durch die Leistungen der Eintritt
     der im Bergbau verminderten Berufsfähigkeit abgewendet werden kann.
-
-
-
-
 
 ##### § 11 Versicherungsrechtliche Voraussetzungen
 
@@ -816,7 +783,6 @@ auch erbracht,
 große Witwerrente wegen verminderter Erwerbsfähigkeit haben. Sie
 gelten für die Vorschriften dieses Abschnitts als Versicherte.
 
-
 ##### § 12 Ausschluss von Leistungen
 
 (1) Leistungen zur Teilhabe werden nicht für Versicherte erbracht, die
@@ -862,14 +828,9 @@ Leistungen zur Rehabilitation erbracht, deren Kosten aufgrund
 sind. Dies gilt nicht, wenn vorzeitige Leistungen aus gesundheitlichen
 Gründen dringend erforderlich sind.
 
-
 #### Zweiter Unterabschnitt - Umfang der Leistungen
 
-
-
 ##### Erster Titel - Allgemeines
-
-
 
 ###### § 13 Leistungsumfang
 
@@ -912,15 +873,11 @@ Spitzenverbänden der Krankenkassen gemeinsam und einheitlich im
 Benehmen mit dem Bundesministerium für Arbeit und Soziales Näheres zur
 Durchführung von Absatz 2 Nr. 1 und 2.
 
-
 ###### § 14
 
 (weggefallen)
 
-
 ##### Zweiter Titel - Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben
-
-
 
 ###### § 15 Leistungen zur medizinischen Rehabilitation
 
@@ -951,7 +908,6 @@ für längstens drei Wochen erbracht werden. Sie können für einen
 längeren Zeitraum erbracht werden, wenn dies erforderlich ist, um das
 Rehabilitationsziel zu erreichen.
 
-
 ###### § 16 Leistungen zur Teilhabe am Arbeitsleben
 
 Die Träger der Rentenversicherung erbringen die Leistungen zur
@@ -959,14 +915,9 @@ Teilhabe am Arbeitsleben nach den §§ 33 bis 38 des Neunten Buches
 sowie im Eingangsverfahren und im Berufsbildungsbereich der
 Werkstätten für behinderte Menschen nach § 40 des Neunten Buches.
 
-
 ###### (XXXX) §§ 17 bis 19 (weggefallen)
 
-
-
 ##### Dritter Titel - Übergangsgeld
-
-
 
 ###### § 20 Anspruch
 
@@ -995,13 +946,6 @@ Anspruch auf Übergangsgeld haben Versicherte, die
         zugrunde liegenden Arbeitsentgelt oder Arbeitseinkommen oder im Falle
         des Bezugs von Arbeitslosengeld II zuvor aus Arbeitsentgelt oder
         Arbeitseinkommen Beiträge zur Rentenversicherung gezahlt worden sind.
-
-
-
-
-
-
-
 
 ###### § 21 Höhe und Berechnung
 
@@ -1054,14 +998,9 @@ d)  deren Bedarf sich nach § 12 Absatz 1 Nummer 1 des
 bezogen haben, wird die Berechnungsgrundlage um einen Betrag in Höhe
 der gezahlten Bergmannsprämie erhöht.
 
-
 ###### (XXXX) §§ 22 bis 27 (weggefallen)
 
-
-
 ##### Vierter Titel - Ergänzende Leistungen
-
-
 
 ###### § 28 Ergänzende Leistungen
 
@@ -1069,20 +1008,15 @@ Die Leistungen zur Teilhabe werden außer durch das Übergangsgeld
 ergänzt durch die Leistungen nach § 44 Abs. 1 Nr. 2 bis 6 und Abs. 2
 sowie nach den §§ 53 und 54 des Neunten Buches.
 
-
 ###### § 29
 
 (weggefallen)
-
 
 ###### § 30
 
 (weggefallen)
 
-
 ##### Fünfter Titel - Sonstige Leistungen
-
-
 
 ###### § 31 Sonstige Leistungen
 
@@ -1136,10 +1070,7 @@ die Leistungen zur medizinischen Rehabilitation, die Leistungen zur
 Teilhabe am Arbeitsleben und die ergänzenden Leistungen nicht
 übersteigen.
 
-
 ##### Sechster Titel - Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen
-
-
 
 ###### § 32 Zuzahlung bei Leistungen zur medizinischen Rehabilitation und bei sonstigen Leistungen
 
@@ -1174,14 +1105,9 @@ belasten würde.
 Aufwendungen für die Leistungen zur Teilhabe im Sinne
 arbeitsrechtlicher Vorschriften nicht entgegen.
 
-
 ### Zweiter Abschnitt - Renten
 
-
-
 #### Erster Unterabschnitt - Rentenarten und Voraussetzungen für einen Rentenanspruch
-
-
 
 ##### § 33 Rentenarten
 
@@ -1259,7 +1185,6 @@ Knappschaftsausgleichsleistung, Rente wegen teilweiser
 Erwerbsminderung bei Berufsunfähigkeit und Witwenrente und Witwerrente
 an vor dem 1. Juli 1977 geschiedene Ehegatten.
 
-
 ##### § 34 Voraussetzungen für einen Rentenanspruch und Hinzuverdienstgrenze
 
 (1) Versicherte und ihre Hinterbliebenen haben Anspruch auf Rente,
@@ -1330,14 +1255,9 @@ Zeiten des Bezugs einer solchen Rente ist der Wechsel in eine
 
 ausgeschlossen.
 
-
 #### Zweiter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
 
-
-
 ##### Erster Titel - Renten wegen Alters
-
-
 
 ###### § 35 Regelaltersrente
 
@@ -1353,7 +1273,6 @@ Versicherte haben Anspruch auf Regelaltersrente, wenn sie
 haben. Die Regelaltersgrenze wird mit Vollendung des 67. Lebensjahres
 erreicht.
 
-
 ###### § 36 Altersrente für langjährig Versicherte
 
 Versicherte haben Anspruch auf Altersrente für langjährig Versicherte,
@@ -1368,7 +1287,6 @@ wenn sie
 
 haben. Die vorzeitige Inanspruchnahme dieser Altersrente ist nach
 Vollendung des 63. Lebensjahres möglich.
-
 
 ###### § 37 Altersrente für schwerbehinderte Menschen
 
@@ -1389,7 +1307,6 @@ Menschen, wenn sie
 Die vorzeitige Inanspruchnahme dieser Altersrente ist nach Vollendung
 des 62. Lebensjahres möglich.
 
-
 ###### § 38 Altersrente für besonders langjährig Versicherte
 
 Versicherte haben Anspruch auf Altersrente für besonders langjährig
@@ -1404,11 +1321,9 @@ Versicherte, wenn sie
 
 haben.
 
-
 ###### § 39 (weggefallen)
 
 -
-
 
 ###### § 40 Altersrente für langjährig unter Tage beschäftigte Bergleute
 
@@ -1424,7 +1339,6 @@ beschäftigte Bergleute, wenn sie
 
 haben.
 
-
 ###### § 41 Altersrente und Kündigungsschutz
 
 Der Anspruch des Versicherten auf eine Rente wegen Alters ist nicht
@@ -1438,7 +1352,6 @@ Erreichen der Regelaltersgrenze abgeschlossen, es sei denn, dass die
 Vereinbarung innerhalb der letzten drei Jahre vor diesem Zeitpunkt
 abgeschlossen oder von dem Arbeitnehmer innerhalb der letzten drei
 Jahre vor diesem Zeitpunkt bestätigt worden ist.
-
 
 ###### § 42 Vollrente und Teilrente
 
@@ -1455,10 +1368,7 @@ solchen Einschränkung erörtert. Macht der Versicherte hierzu für
 seinen Arbeitsbereich Vorschläge, hat der Arbeitgeber zu diesen
 Vorschlägen Stellung zu nehmen.
 
-
 ##### Zweiter Titel - Renten wegen verminderter Erwerbsfähigkeit
-
-
 
 ###### § 43 Rente wegen Erwerbsminderung
 
@@ -1557,11 +1467,9 @@ voll erwerbsgemindert waren und seitdem ununterbrochen voll
 erwerbsgemindert sind, haben Anspruch auf Rente wegen voller
 Erwerbsminderung, wenn sie die Wartezeit von 20 Jahren erfüllt haben.
 
-
 ###### § 44
 
 (weggefallen)
-
 
 ###### § 45 Rente für Bergleute
 
@@ -1620,10 +1528,7 @@ Anspruch auf Rente für Bergleute, wenn sie
 
 (4) § 43 Abs. 4 und 5 ist anzuwenden.
 
-
 ##### Dritter Titel - Renten wegen Todes
-
-
 
 ###### § 46 Witwenrente und Witwerrente
 
@@ -1693,7 +1598,6 @@ Lebenspartner und als Ehegatte auch ein Lebenspartner. Der Auflösung
 oder Nichtigkeit einer erneuten Ehe entspricht die Aufhebung oder
 Auflösung einer erneuten Lebenspartnerschaft.
 
-
 ###### § 47 Erziehungsrente
 
 (1) Versicherte haben bis zum Erreichen der Regelaltersgrenze Anspruch
@@ -1741,7 +1645,6 @@ Ehegatte auch der frühere Lebenspartner, als Heirat auch die
 Begründung einer Lebenspartnerschaft, als verwitweter Ehegatte auch
 ein überlebender Lebenspartner und als Ehegatte auch der
 Lebenspartner.
-
 
 ###### § 48 Waisenrente
 
@@ -1833,7 +1736,6 @@ gleichgestellter Dienst im Sinne von Satz 1.
 (6) Der Anspruch auf Waisenrente endet nicht dadurch, dass die Waise
 als Kind angenommen wird.
 
-
 ###### § 49 Renten wegen Todes bei Verschollenheit
 
 Sind Ehegatten, geschiedene Ehegatten oder Elternteile verschollen,
@@ -1846,10 +1748,7 @@ bekannt sind. Der Träger der Rentenversicherung ist berechtigt, für
 die Rentenleistung den nach den Umständen mutmaßlichen Todestag
 festzustellen.
 
-
 ##### Vierter Titel - Wartezeiterfüllung
-
-
 
 ###### § 50 Wartezeiten
 
@@ -1909,7 +1808,6 @@ einen Anspruch auf
 (5) Die Erfüllung der Wartezeit von 45 Jahren ist Voraussetzung für
 einen Anspruch auf Altersrente für besonders langjährig Versicherte.
 
-
 ###### § 51 Anrechenbare Zeiten
 
 (1) Auf die allgemeine Wartezeit und auf die Wartezeiten von 15 und 20
@@ -1940,7 +1838,6 @@ ermittelt werden, werden nicht angerechnet.
 
 (4) Auf die Wartezeiten werden auch Kalendermonate mit Ersatzzeiten
 (Fünftes Kapitel) angerechnet.
-
 
 ###### § 52 Wartezeiterfüllung durch Versorgungsausgleich, Rentensplitting und Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung
 
@@ -1981,7 +1878,6 @@ Wartezeitmonate für in die Ehezeit, Lebenspartnerschaftszeit oder
 Splittingzeit fallende Kalendermonate einer geringfügigen
 Beschäftigung sind vor Anwendung von Absatz 1 oder 1a gesondert zu
 ermitteln.
-
 
 ###### § 53 Vorzeitige Wartezeiterfüllung
 
@@ -2035,13 +1931,7 @@ im Sinne der Absätze 1 und 2 liegen auch vor, wenn
 3.  für Anrechnungszeiten Beiträge gezahlt worden sind, die ein
     Leistungsträger mitgetragen hat.
 
-
-
-
-
 ##### Fünfter Titel - Rentenrechtliche Zeiten
-
-
 
 ###### § 54 Begriffsbestimmungen
 
@@ -2079,7 +1969,6 @@ Berufsausbildung (Zeiten einer beruflichen Ausbildung).
 Anrechnungszeiten, mit einer Zurechnungszeit oder mit Ersatzzeiten
 belegt sind, wenn für sie nicht auch Beiträge gezahlt worden sind.
 
-
 ###### § 55 Beitragszeiten
 
 (1) Beitragszeiten sind Zeiten, für die nach Bundesrecht
@@ -2104,10 +1993,6 @@ voraussetzt, zählen hierzu auch
 
 3.  Beiträge für Anrechnungszeiten, die ein Leistungsträger mitgetragen
     hat.
-
-
-
-
 
 ###### § 56 Kindererziehungszeiten
 
@@ -2201,7 +2086,6 @@ Kindererziehungszeit anzurechnen ist, wird die Kindererziehungszeit
 für dieses und jedes weitere Kind um die Anzahl an Kalendermonaten der
 gleichzeitigen Erziehung verlängert.
 
-
 ###### § 57 Berücksichtigungszeiten
 
 Die Zeit der Erziehung eines Kindes bis zu dessen vollendetem zehnten
@@ -2210,7 +2094,6 @@ die Voraussetzungen für die Anrechnung einer Kindererziehungszeit auch
 in dieser Zeit vorliegen. Dies gilt für Zeiten einer mehr als
 geringfügig ausgeübten selbständigen Tätigkeit nur, soweit diese
 Zeiten auch Pflichtbeitragszeiten sind.
-
 
 ###### § 58 Anrechnungszeiten
 
@@ -2319,7 +2202,6 @@ Beschäftigung oder Tätigkeit überwiegt.
 (5) Anrechnungszeiten sind nicht für die Zeit der Leistung einer Rente
 wegen Alters zu berücksichtigen.
 
-
 ###### § 59 Zurechnungszeit
 
 (1) Zurechnungszeit ist die Zeit, die bei einer Rente wegen
@@ -2347,7 +2229,6 @@ wenn der Versicherte das 60. Lebensjahr noch nicht vollendet hat.
 
 Die Zurechnungszeit endet mit Vollendung des 60. Lebensjahres.
 
-
 ###### § 60 Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung
 
 (1) Anrechnungszeiten und eine Zurechnungszeit werden der
@@ -2360,7 +2241,6 @@ knappschaftlichen Rentenversicherung auch dann zugeordnet, wenn
 während oder nach dieser Zeit die Versicherung beginnt und der erste
 Pflichtbeitrag zur knappschaftlichen Rentenversicherung gezahlt worden
 ist.
-
 
 ###### § 61 Ständige Arbeiten unter Tage
 
@@ -2411,21 +2291,15 @@ worden sind und die Versicherten in den drei voraufgegangenen
 Kalendermonaten mindestens einen Kalendermonat ständige Arbeiten unter
 Tage oder gleichgestellte Arbeiten ausgeübt haben.
 
-
 ###### § 62 Schadenersatz bei rentenrechtlichen Zeiten
 
 Durch die Berücksichtigung rentenrechtlicher Zeiten wird ein Anspruch
 auf Schadenersatz wegen verminderter Erwerbsfähigkeit nicht
 ausgeschlossen oder gemindert.
 
-
 #### Dritter Unterabschnitt - Rentenhöhe und Rentenanpassung
 
-
-
 ##### Erster Titel - Grundsätze
-
-
 
 ###### § 63 Grundsätze
 
@@ -2458,10 +2332,7 @@ vervielfältigt werden.
 Durchschnittsentgelts unter Berücksichtigung der Veränderung des
 Beitragssatzes zur allgemeinen Rentenversicherung jährlich angepasst.
 
-
 ##### Zweiter Titel - Berechnung und Anpassung der Renten
-
-
 
 ###### § 64 Rentenformel für Monatsbetrag der Rente
 
@@ -2480,13 +2351,11 @@ Der Monatsbetrag der Rente ergibt sich, wenn
 
 mit ihrem Wert bei Rentenbeginn miteinander vervielfältigt werden.
 
-
 ###### § 65 Anpassung der Renten
 
 Zum 1. Juli eines jeden Jahres werden die Renten angepasst, indem der
 bisherige aktuelle Rentenwert durch den neuen aktuellen Rentenwert
 ersetzt wird.
-
 
 ###### § 66 Persönliche Entgeltpunkte
 
@@ -2560,7 +2429,6 @@ Entgeltpunkte erst nach dem Ende der Teilrente zugrunde gelegt.
 verminderter Erwerbsfähigkeit wird aus dem Teil der Summe aller
 Entgeltpunkte ermittelt, der dem Anteil der teilweise zu leistenden
 Rente an der jeweiligen Rente in voller Höhe entspricht.
-
 
 ###### § 67 Rentenartfaktor
 
@@ -2636,10 +2504,6 @@ Der Rentenartfaktor beträgt für persönliche Entgeltpunkte bei
     *   Vollwaisenrenten
 
     *   0,2.
-
-
-
-
 
 ###### § 68 Aktueller Rentenwert
 
@@ -2889,7 +2753,6 @@ Kalenderjahres vorliegenden Daten und für das vorvergangene
 Kalenderjahr die bei der Bestimmung des bisherigen aktuellen
 Rentenwerts verwendeten Daten zugrunde zu legen.
 
-
 ###### § 68a Schutzklausel
 
 (1) Abweichend von § 68 vermindert sich der bisherige aktuelle
@@ -2926,7 +2789,6 @@ Wert des Ausgleichsbedarfs beträgt dann 1,0000.
 (4) Sind weder Absatz 1 noch Absatz 3 anzuwenden, bleibt der Wert des
 Ausgleichsbedarfs unverändert.
 
-
 ###### § 69 Verordnungsermächtigung
 
 (1) Die Bundesregierung hat durch Rechtsverordnung mit Zustimmung des
@@ -2954,10 +2816,7 @@ Bundesrates zum Ende eines jeden Jahres
 zu bestimmen. Die Bestimmung soll bis zum 31. Dezember des jeweiligen
 Jahres erfolgen.
 
-
 ##### Dritter Titel - Ermittlung der persönlichen Entgeltpunkte
-
-
 
 ###### § 70 Entgeltpunkte für Beitragszeiten
 
@@ -3024,7 +2883,6 @@ Entgeltpunkte ermittelt, indem die Beitragsbemessungsgrundlage durch
 das Durchschnittsentgelt des Jahres geteilt wird, in dem die Beiträge
 gezahlt worden sind.
 
-
 ###### § 71 Entgeltpunkte für beitragsfreie und beitragsgeminderte Zeiten (Gesamtleistungsbewertung)
 
 (1) Beitragsfreie Zeiten erhalten den Durchschnittswert an
@@ -3082,7 +2940,6 @@ ruhegehaltfähig sind oder bei Eintritt des Versorgungsfalls als
 ruhegehaltfähig anerkannt werden, bleiben sie bei der
 Gesamtleistungsbewertung unberücksichtigt.
 
-
 ###### § 72 Grundbewertung
 
 (1) Bei der Grundbewertung werden für jeden Kalendermonat
@@ -3119,10 +2976,6 @@ mit rentenrechtlichen Zeiten vor Vollendung des 17. Lebensjahres.
 2.  Zeiten, in denen eine Rente aus eigener Versicherung bezogen worden
     ist, die nicht auch Beitragszeiten oder Berücksichtigungszeiten sind.
 
-
-
-
-
 ###### § 73 Vergleichsbewertung
 
 Bei der Vergleichsbewertung werden für jeden Kalendermonat
@@ -3144,7 +2997,6 @@ durch die Anzahl der belegungsfähigen Monate geteilt wird. Dabei sind
 von den belegungsfähigen Monaten aus der Grundbewertung die bei der
 Vergleichsbewertung außer Betracht gebliebenen Kalendermonate mit
 Entgeltpunkten abzusetzen.
-
 
 ###### § 74 Begrenzte Gesamtleistungsbewertung
 
@@ -3179,7 +3031,6 @@ Anrechnungszeiten sind, weil
 
 
 werden nicht bewertet.
-
 
 ###### § 75 Entgeltpunkte für Zeiten nach Rentenbeginn
 
@@ -3222,7 +3073,6 @@ Entgeltpunkten auch für Pflichtbeiträge nach § 119 des Zehnten Buches,
 wenn diese nach dem Beginn der Rente aufgrund eines
 Schadensereignisses vor Rentenbeginn gezahlt worden sind; § 34 Abs. 4
 Nr. 3 gilt nicht.
-
 
 ###### § 76 Zuschläge oder Abschläge beim Versorgungsausgleich
 
@@ -3288,7 +3138,6 @@ und beitragsfreien Zeiten.
 durchgeführten Versorgungsausgleich zu verändern, ist von der Summe
 der bisher der Rente zugrunde liegenden Entgeltpunkte auszugehen.
 
-
 ###### § 76a Zuschläge an Entgeltpunkten aus Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters oder bei Abfindungen einer Anwartschaft auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
 
 (1) Entgeltpunkte aus der Zahlung von Beiträgen bei vorzeitiger
@@ -3307,7 +3156,6 @@ Rahmen des Versorgungsausgleichs vervielfältigt werden.
 (3) Ein Zuschlag aus der Zahlung solcher Beiträge erfolgt nur, wenn
 sie bis zu einem Zeitpunkt gezahlt worden sind, bis zu dem
 Entgeltpunkte für freiwillig gezahlte Beiträge zu ermitteln sind.
-
 
 ###### § 76b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger Beschäftigung
 
@@ -3347,7 +3195,6 @@ entsprechend.
 
 versicherungsfrei sind.
 
-
 ###### § 76c Zuschläge oder Abschläge beim Rentensplitting
 
 (1) Ein durchgeführtes Rentensplitting wird beim Versicherten durch
@@ -3363,14 +3210,12 @@ Beitragszeiten und beitragsfreien Zeiten.
 durchgeführten Rentensplitting zu verändern, ist von der Summe der
 bisher der Rente zugrunde liegenden Entgeltpunkte auszugehen.
 
-
 ###### § 76d Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer Rente wegen Alters
 
 Für die Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen nach
 Beginn einer Rente wegen Alters gelten die Regelungen zur Ermittlung
 von Entgeltpunkten für Beitragszeiten oder von Zuschlägen für
 Arbeitsentgelt aus geringfügiger Beschäftigung entsprechend.
-
 
 ###### § 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung
 
@@ -3387,7 +3232,6 @@ Tage gedauert haben.
 der besonderen Auslandsverwendung 0,18 Entgeltpunkte, wenn diese
 Zeiten jeweils ununterbrochen mindestens 30 Tage gedauert haben; für
 jeden Teilzeitraum wird der entsprechende Anteil zugrunde gelegt.
-
 
 ###### § 77 Zugangsfaktor
 
@@ -3485,7 +3329,6 @@ Stelle der Vollendung des 65. Lebensjahres die Vollendung des 63.
 Lebensjahres und an die Stelle der Vollendung des 62. Lebensjahres die
 Vollendung des 60. Lebensjahres tritt.
 
-
 ###### § 78 Zuschlag bei Waisenrenten
 
 (1) Der Zuschlag an persönlichen Entgeltpunkten bei Waisenrenten
@@ -3506,7 +3349,6 @@ jeden Kalendermonat des verstorbenen Versicherten mit der höchsten
 Rente 0,075 Entgeltpunkte zugrunde zu legen. Auf den Zuschlag werden
 die persönlichen Entgeltpunkte des verstorbenen Versicherten mit der
 zweithöchsten Rente angerechnet.
-
 
 ###### § 78a Zuschlag bei Witwenrenten und Witwerrenten
 
@@ -3550,10 +3392,7 @@ gleichwertig ist, nach beamtenrechtlichen Vorschriften oder
 Grundsätzen oder nach entsprechenden kirchenrechtlichen Regelungen
 erbracht wird.
 
-
 ##### Vierter Titel - Knappschaftliche Besonderheiten
-
-
 
 ###### § 79 Grundsatz
 
@@ -3561,7 +3400,6 @@ Für die Berechnung von Renten mit Zeiten in der knappschaftlichen
 Rentenversicherung sind die vorangehenden Vorschriften über die
 Rentenhöhe und die Rentenanpassung anzuwenden, soweit nicht im
 Folgenden etwas anderes bestimmt ist.
-
 
 ###### § 80 Monatsbetrag der Rente
 
@@ -3572,7 +3410,6 @@ der knappschaftlichen Rentenversicherung und denen der allgemeinen
 Rentenversicherung Monatsteilbeträge zu ermitteln, deren Summe den
 Monatsbetrag der Rente ergibt.
 
-
 ###### § 81 Persönliche Entgeltpunkte
 
 (1) Zur Summe aller Entgeltpunkte der knappschaftlichen
@@ -3582,7 +3419,6 @@ Leistungszuschlag.
 (2) Grundlage für die Ermittlung des Monatsbetrags einer Rente für
 Bergleute sind nur die persönlichen Entgeltpunkte, die auf die
 knappschaftliche Rentenversicherung entfallen.
-
 
 ###### § 82 Rentenartfaktor
 
@@ -3717,10 +3553,6 @@ unter Tage bei:
 
     *   0,7333.
 
-
-
-
-
 ###### § 83 Entgeltpunkte für Beitragszeiten
 
 (1) Kindererziehungszeiten erhalten für jeden Kalendermonat 0,0625
@@ -3746,7 +3578,6 @@ Beitragsbemessungsgrenze um einen Betrag in Höhe der gezahlten
 Bergmannsprämie erhöht. Dies gilt nicht für die Berechnung einer Rente
 für Bergleute.
 
-
 ###### § 84 Entgeltpunkte für beitragsfreie und beitragsgeminderte Zeiten (Gesamtleistungsbewertung)
 
 (1) Für die Gesamtleistungsbewertung werden jedem Kalendermonat mit
@@ -3768,7 +3599,6 @@ allgemeinen Rentenversicherung zugeordnet sind, werden für die
 Ermittlung des Wertes für beitragsgeminderte Zeiten die ohne Anwendung
 des Absatzes 1 ermittelten Entgeltpunkte für diese Beitragszeiten
 zuvor mit 1,3333 vervielfältigt.
-
 
 ###### § 85 Entgeltpunkte für ständige Arbeiten unter Tage (Leistungszuschlag)
 
@@ -3797,11 +3627,9 @@ Rente wegen Erwerbsminderung bezogen worden ist.
 (2) Die zusätzlichen Entgeltpunkte werden den Kalendermonaten mit
 ständigen Arbeiten unter Tage zu gleichen Teilen zugeordnet.
 
-
 ###### § 86 (weggefallen)
 
 -
-
 
 ###### § 86a Zugangsfaktor
 
@@ -3813,7 +3641,6 @@ der Entgeltpunkte drei Fünftel der Entgeltpunkte treten. § 77 Abs. 4
 ist bei Renten für Bergleute mit der Maßgabe anzuwenden, dass als
 niedrigstes Lebensalter für die Bestimmung des Zugangsfaktors die
 Vollendung des 62. Lebensjahres zugrunde zu legen ist.
-
 
 ###### § 87 Zuschlag bei Waisenrenten
 
@@ -3848,10 +3675,7 @@ Rentenversicherung auf den Zuschlag für eine Vollwaisenrente mit
 Entgeltpunkten der allgemeinen Rentenversicherung anzurechnen, sind
 sie zuvor mit 1,3333 zu vervielfältigen.
 
-
 ##### Fünfter Titel - Ermittlung des Monatsbetrags der Rente in Sonderfällen
-
-
 
 ###### § 88 Persönliche Entgeltpunkte bei Folgerenten
 
@@ -3882,7 +3706,6 @@ zusätzlich zu den bisherigen persönlichen Entgeltpunkten auch
 persönliche Entgeltpunkte aus Zuschlägen an Entgeltpunkten aus
 Beiträgen nach Beginn der Rente wegen Alters zugrunde gelegt.
 
-
 ###### § 88a Höchstbetrag bei Witwenrenten und Witwerrenten
 
 Der Monatsbetrag einer Witwenrente oder Witwerrente darf den
@@ -3891,10 +3714,7 @@ Vollrente wegen Alters des Verstorbenen nicht überschreiten.
 Anderenfalls ist der Zuschlag an persönlichen Entgeltpunkten bei
 Witwenrenten und Witwerrenten entsprechend zu verringern.
 
-
 #### Vierter Unterabschnitt - Zusammentreffen von Renten und Einkommen
-
-
 
 ##### § 89 Mehrere Rentenansprüche
 
@@ -3952,7 +3772,6 @@ kleine Witwerrente nicht geleistet.
 wird nur die höchste Waisenrente geleistet. Bei gleich hohen
 Waisenrenten wird nur die zuerst beantragte Rente geleistet.
 
-
 ##### § 90 Witwenrente und Witwerrente nach dem vorletzten Ehegatten und Ansprüche infolge Auflösung der letzten Ehe
 
 (1) Auf eine Witwenrente oder Witwerrente nach dem vorletzten
@@ -3987,7 +3806,6 @@ Wiederheirat auch die erstmalige oder erneute Begründung einer
 Lebenspartnerschaft und als erneute Ehe auch die erstmalige oder
 erneute Lebenspartnerschaft.
 
-
 ##### § 91 Aufteilung von Witwenrenten und Witwerrenten auf mehrere Berechtigte
 
 Besteht für denselben Zeitraum aus den Rentenanwartschaften eines
@@ -4001,7 +3819,6 @@ mindestens 1,0 beträgt. Ergibt sich aus der Anwendung des Rechts eines
 anderen Staates, dass mehrere Berechtigte vorhanden sind, erfolgt die
 Aufteilung nach § 34 Abs. 2 des Ersten Buches.
 
-
 ##### § 92 Waisenrente und andere Leistungen an Waisen
 
 Besteht für denselben Zeitraum Anspruch auf Waisenrente aus der
@@ -4014,7 +3831,6 @@ gezahlt, als er diese Leistung übersteigt. Änderungen der Höhe der
 anrechenbaren Leistung an Waisen aufgrund einer regelmäßigen Anpassung
 sind erst zum Zeitpunkt der Anpassung der Waisenrente zu
 berücksichtigen.
-
 
 ##### § 93 Rente und Leistungen aus der Unfallversicherung
 
@@ -4128,22 +3944,17 @@ letzte Tag, an dem der Versicherte versicherte Tätigkeiten verrichtet
 hat, die ihrer Art nach geeignet waren, die Berufskrankheit zu
 verursachen. Satz 1 Nr. 1 gilt nicht für Hinterbliebenenrenten.
 
-
 ##### § 94 (weggefallen)
 
 -
 
-
 ##### § 95 (weggefallen)
-
-
 
 ##### § 96 Nachversicherte Versorgungsbezieher
 
 Nachversicherten, die ihren Anspruch auf Versorgung ganz und auf Dauer
 verloren haben, wird die Rente oder die höhere Rente für den Zeitraum
 nicht geleistet, für den Versorgungsbezüge zu leisten sind.
-
 
 ##### § 96a Rente wegen verminderter Erwerbsfähigkeit und Hinzuverdienst
 
@@ -4316,7 +4127,6 @@ Sozialleistung angerechnet wird.
 (4) Absatz 3 wird auch für vergleichbare Leistungen einer Stelle mit
 Sitz im Ausland angewendet.
 
-
 ##### § 97 Einkommensanrechnung auf Renten wegen Todes
 
 (1) Einkommen (§§ 18a bis 18e Viertes Buch) von Berechtigten, das mit
@@ -4385,7 +4195,6 @@ zusammen, ist der Einkommensanrechnung auf die Hinterbliebenenrente
 das Einkommen zugrunde zu legen, das sich nach Durchführung der
 Einkommensanrechnung auf die Erziehungsrente ergibt.
 
-
 ##### § 98 Reihenfolge bei der Anwendung von Berechnungsvorschriften
 
 Für die Berechnung einer Rente, deren Leistung sich aufgrund eines
@@ -4432,10 +4241,7 @@ Einkommen, das bei der Berechnung einer Rente aufgrund einer Regelung
 berücksichtigt wurde, wird bei der Berechnung dieser Rente aufgrund
 einer weiteren solchen Regelung nicht nochmals berücksichtigt.
 
-
 #### Fünfter Unterabschnitt - Beginn, Änderung und Ende von Renten
-
-
 
 ##### § 99 Beginn
 
@@ -4453,7 +4259,6 @@ sind. Sie wird bereits vom Todestag an geleistet, wenn an den
 Versicherten eine Rente im Sterbemonat nicht zu leisten ist. Eine
 Hinterbliebenenrente wird nicht für mehr als zwölf Kalendermonate vor
 dem Monat, in dem die Rente beantragt wird, geleistet.
-
 
 ##### § 100 Änderung und Ende
 
@@ -4494,7 +4299,6 @@ geworden ist, nur mit Wirkung für die Zeit ab dem Beginn des
 Kalendermonats nach Wirksamwerden der Entscheidung des
 Bundesverfassungsgerichts oder dem Bestehen der ständigen
 Rechtsprechung zurückzunehmen.
-
 
 ##### § 101 Beginn und Änderung in Sonderfällen
 
@@ -4582,7 +4386,6 @@ Der Rentenbescheid der Waise ist mit Wirkung von diesem Zeitpunkt an
 aufzuheben; die §§ 24 und 48 des Zehnten Buches sind nicht anzuwenden.
 Entsprechendes gilt bei einer Abänderung des Rentensplittings.
 
-
 ##### § 102 Befristung und Tod
 
 (1) Sind Renten befristet, enden sie mit Ablauf der Frist. Dies
@@ -4627,10 +4430,7 @@ ursprünglichen Rentenbeginn.
 (5) Renten werden bis zum Ende des Kalendermonats geleistet, in dem
 die Berechtigten gestorben sind.
 
-
 #### Sechster Unterabschnitt - Ausschluss und Minderung von Renten
-
-
 
 ##### § 103 Absichtliche Minderung der Erwerbsfähigkeit
 
@@ -4639,7 +4439,6 @@ für schwerbehinderte Menschen oder große Witwenrente oder große
 Witwerrente besteht nicht für Personen, die die für die Rentenleistung
 erforderliche gesundheitliche Beeinträchtigung absichtlich
 herbeigeführt haben.
-
 
 ##### § 104 Minderung der Erwerbsfähigkeit bei einer Straftat
 
@@ -4659,13 +4458,11 @@ Ehegatten, Lebenspartner und Kinder geleistet werden. Die Vorschriften
 der §§ 48 und 49 des Ersten Buches über die Auszahlung der Rente an
 Dritte werden entsprechend angewendet.
 
-
 ##### § 105 Tötung eines Angehörigen
 
 Anspruch auf Rente wegen Todes und auf Versichertenrente, soweit der
 Anspruch auf dem Rentensplitting beruht, besteht nicht für die
 Personen, die den Tod vorsätzlich herbeigeführt haben.
-
 
 ##### § 105a Witwenrente und Witwerrente in Sonderfällen
 
@@ -4679,13 +4476,7 @@ Lebenspartner besteht nicht, wenn
 
 2.  ein Rentensplitting durchgeführt wurde.
 
-
-
-
-
 ### Dritter Abschnitt - Zusatzleistungen
-
-
 
 #### § 106 Zuschuss zur Krankenversicherung
 
@@ -4720,7 +4511,6 @@ Krankenversicherung und bei einem Krankenversicherungsunternehmen
 versichert sind, das der deutschen Aufsicht unterliegt, erhalten zu
 ihrer Rente ausschließlich einen Zuschuss nach Absatz 2.
 
-
 #### § 107 Rentenabfindung
 
 (1) Witwenrenten oder Witwerrenten werden bei der ersten Wiederheirat
@@ -4750,16 +4540,12 @@ erste Wiederbegründung einer Lebenspartnerschaft, die erste Heirat
 nach einer Lebenspartnerschaft sowie die erste Begründung einer
 Lebenspartnerschaft nach einer Ehe.
 
-
 #### § 108 Beginn, Änderung und Ende von Zusatzleistungen
 
 Für laufende Zusatzleistungen sind die Vorschriften über Beginn,
 Änderung und Ende von Renten entsprechend anzuwenden.
 
-
 ### Vierter Abschnitt - Serviceleistungen
-
-
 
 #### § 109 Renteninformation und Rentenauskunft
 
@@ -4864,7 +4650,6 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit ergeben sich die nach
 aus der Berechnung einer Vollrente wegen Erreichens der
 Regelaltersgrenze.
 
-
 #### § 109a Hilfen in Angelegenheiten der Grundsicherung
 
 (1) Die Träger der Rentenversicherung informieren und beraten
@@ -4938,10 +4723,7 @@ Erstellung der gutachterlichen Stellungnahme nach Absatz 3 ist
 die Deutsche Rentenversicherung Bund können Vereinbarungen über das
 Verfahren nach den Absätzen 2 und 3 schließen.
 
-
 ### Fünfter Abschnitt - Leistungen an Berechtigte im Ausland
-
-
 
 #### § 110 Grundsatz
 
@@ -4957,7 +4739,6 @@ erhalten diese Leistungen, soweit nicht die folgenden Vorschriften
 nicht nach über- oder zwischenstaatlichem Recht etwas anderes bestimmt
 ist.
 
-
 #### § 111 Rehabilitationsleistungen und Krankenversicherungszuschuss
 
 (1) Berechtigte erhalten die Leistungen zur medizinischen
@@ -4970,7 +4751,6 @@ Tätigkeit arbeitsunfähig waren.
 (2) Berechtigte erhalten keinen Zuschuss zu den Aufwendungen für die
 Krankenversicherung.
 
-
 #### § 112 Renten bei verminderter Erwerbsfähigkeit
 
 Berechtigte erhalten wegen verminderter Erwerbsfähigkeit eine Rente
@@ -4979,7 +4759,6 @@ besteht. Für eine Rente für Bergleute ist zusätzlich erforderlich,
 dass die Berechtigten auf diese Rente bereits für die Zeit, in der sie
 ihren gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen
 Anspruch hatten.
-
 
 #### § 113 Höhe der Rente
 
@@ -5059,7 +4838,6 @@ oder Staatsangehöriger der Schweiz war.
 
 sind oder waren, und deren Hinterbliebene.
 
-
 #### § 114 Besonderheiten
 
 (1) Die persönlichen Entgeltpunkte von Berechtigten, die Angehörige
@@ -5121,14 +4899,9 @@ oder Staatsangehöriger der Schweiz war.
 
 sind oder waren, und deren Hinterbliebene.
 
-
 ### Sechster Abschnitt - Durchführung
 
-
-
 #### Erster Unterabschnitt - Beginn und Abschluss des Verfahrens
-
-
 
 ##### § 115 Beginn
 
@@ -5164,7 +4937,6 @@ können, wenn sie diese beantragen. In Richtlinien der Deutschen
 Rentenversicherung Bund kann bestimmt werden, unter welchen
 Voraussetzungen solche Hinweise erfolgen sollen.
 
-
 ##### § 116 Besonderheiten bei Leistungen zur Teilhabe
 
 (1) (weggefallen)
@@ -5191,16 +4963,12 @@ gezahlten Übergangsgeldes als erfüllt. Übersteigt das Übergangsgeld
 den Betrag der Rente, kann der übersteigende Betrag nicht
 zurückgefordert werden.
 
-
 ##### § 117 Abschluss
 
 Die Entscheidung über einen Anspruch auf Leistung bedarf der
 Schriftform.
 
-
 #### Zweiter Unterabschnitt - Auszahlung und Anpassung
-
-
 
 ##### § 118 Fälligkeit und Auszahlung
 
@@ -5276,12 +5044,10 @@ auf das bisherige Empfängerkonto bei einem Geldinstitut überwiesen
 worden, ist der Anspruch der Erben gegenüber dem Träger der
 Rentenversicherung erfüllt.
 
-
 ##### § 118a Anpassungsmitteilung
 
 Rentenbezieher erhalten eine Anpassungsmitteilung, wenn sich die Höhe
 des aktuellen Rentenwerts verändert.
-
 
 ##### § 119 Wahrnehmung von Aufgaben durch die Deutsche Post AG
 
@@ -5334,7 +5100,6 @@ Rentenversicherung die Vorschüsse fest.
 
 (7) (weggefallen)
 
-
 ##### § 120 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
@@ -5355,13 +5120,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates
     Deutsche Post AG von den Trägern der Rentenversicherung nach § 119
     Abs. 6 erhält, näher zu bestimmen.
 
-
-
-
-
 #### Dritter Unterabschnitt - Rentensplitting
-
-
 
 ##### § 120a Grundsätze für das Rentensplitting unter Ehegatten
 
@@ -5467,7 +5226,6 @@ Entscheidung des Rentenversicherungsträgers über das Rentensplitting
 
 unanfechtbar geworden ist.
 
-
 ##### § 120b Tod eines Ehegatten vor Empfang angemessener Leistungen
 
 (1) Ist ein Ehegatte verstorben und sind ihm aus dem Rentensplitting
@@ -5480,7 +5238,6 @@ ein Rentensplitting nach § 120a Absatz 3 Nummer 3 herbeigeführt wurde.
 
 (3) Die Anpassung wirkt ab dem ersten Tag des Monats, der auf den
 Monat der Antragstellung folgt.
-
 
 ##### § 120c Abänderung des Rentensplittings unter Ehegatten
 
@@ -5534,7 +5291,6 @@ durchgeführt, wenn die Entscheidung des Rentenversicherungsträgers
 über die Abänderung für die Ehegatten und ihre Hinterbliebenen
 unanfechtbar geworden ist.
 
-
 ##### § 120d Verfahren und Zuständigkeit
 
 (1) Die Erklärung der Ehegatten zum Rentensplitting kann frühestens
@@ -5568,7 +5324,6 @@ zuständig.
 beteiligte, nicht zuständige Rentenversicherungsträger ist an die
 Entscheidung des zuständigen Rentenversicherungsträgers gebunden.
 
-
 ##### § 120e Rentensplitting unter Lebenspartnern
 
 (1) Lebenspartner können gemeinsam bestimmen, dass die von ihnen in
@@ -5585,10 +5340,7 @@ Lebenspartnerschaft und als Ehegatte ein Lebenspartner.
 (2) Ein Rentensplitting unter Lebenspartnern ist ausgeschlossen, wenn
 während der Lebenspartnerschaft eine Ehe geschlossen wurde.
 
-
 #### Vierter Unterabschnitt - Besonderheiten beim Versorgungsausgleich
-
-
 
 ##### § 120f Interne Teilung und Verrechnung von Anrechten
 
@@ -5607,10 +5359,6 @@ Versorgungsausgleichsgesetzes gelten nicht
 2.  die in der allgemeinen Rentenversicherung und in der knappschaftlichen
     Rentenversicherung erworbenen Anrechte.
 
-
-
-
-
 ##### § 120g Externe Teilung
 
 Wählt die ausgleichsberechtigte Person bei der externen Teilung von
@@ -5621,7 +5369,6 @@ werden Anrechte mit Zahlungseingang des Betrags erworben, der vom
 Familiengericht nach § 222 Abs. 3 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit festgesetzt wurde.
-
 
 ##### § 120h Abzuschmelzende Anrechte
 
@@ -5645,13 +5392,7 @@ unterliegen, sind
     Beitrittsgebiets, soweit dieser den Monatsbetrag der Renten nach §
     307b Abs. 1 Satz 3 übersteigt (§ 307b Abs. 6).
 
-
-
-
-
 #### Fünfter Unterabschnitt - Berechnungsgrundsätze
-
-
 
 ##### § 121 Allgemeine Berechnungsgrundsätze
 
@@ -5669,7 +5410,6 @@ ersten vier Dezimalstellen eine der Zahlen 1 bis 9 ergeben würde.
 (4) Bei einer Berechnung werden vor einer Division zunächst die
 anderen Rechengänge durchgeführt.
 
-
 ##### § 122 Berechnung von Zeiten
 
 (1) Ein Kalendermonat, der nur zum Teil mit rentenrechtlichen Zeiten
@@ -5683,7 +5423,6 @@ Kalendermonat, in den das Ereignis fällt, berücksichtigt.
 (3) Sind Zeiten bis zu einer Höchstdauer zu berücksichtigen, werden
 die am weitesten zurückliegenden Kalendermonate zunächst
 berücksichtigt.
-
 
 ##### § 123 Berechnung von Geldbeträgen
 
@@ -5702,7 +5441,6 @@ Tagen, der Kalendermonat außer bei der anteiligen Ermittlung einer
 Monatsrente mit 30 Tagen und die Kalenderwoche mit sieben Tagen
 gerechnet.
 
-
 ##### § 124 Berechnung von Durchschnittswerten und Rententeilen
 
 (1) Durchschnittswerte werden aus der Summe der Einzelwerte und der
@@ -5716,18 +5454,11 @@ alle rentenrechtlichen Zeiten die Rente oder Rentenanwartschaft aus
 den Entgeltpunkten berechnet wird, die auf diesen Zeitabschnitt
 entfallen.
 
-
 ## Drittes Kapitel - Organisation, Datenschutz und Datensicherheit
-
-
 
 ### Erster Abschnitt - Organisation
 
-
-
 #### Erster Unterabschnitt - Deutsche Rentenversicherung
-
-
 
 ##### § 125 Träger der gesetzlichen Rentenversicherung
 
@@ -5744,10 +5475,7 @@ Rentenversicherung Bund nimmt auch die Grundsatz- und
 Querschnittsaufgaben und die gemeinsamen Angelegenheiten der Träger
 der Rentenversicherung wahr.
 
-
 #### Zweiter Unterabschnitt - Zuständigkeit in der allgemeinen Rentenversicherung
-
-
 
 ##### § 126 Zuständigkeit der Träger der Rentenversicherung
 
@@ -5756,7 +5484,6 @@ allgemeinen Rentenversicherung die Regionalträger, die Deutsche
 Rentenversicherung Bund und die Deutsche Rentenversicherung
 Knappschaft-Bahn-See zuständig. Dies gilt auch für die Anwendung des
 über- und zwischenstaatlichen Rechts.
-
 
 ##### § 127 Zuständigkeit für Versicherte und Hinterbliebene
 
@@ -5817,10 +5544,6 @@ Reihenfolge:
 
 3.  Regionalträger.
 
-
-
-
-
 ##### § 127a Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene sowie für Vorruhestandsleistungen
 
 (1) Die Zuständigkeit der Träger der gesetzlichen Rentenversicherung
@@ -5875,10 +5598,6 @@ gehören insbesondere
 
 
 2.  das Überbrückungsgeld der Seemannskasse.
-
-
-
-
 
 ##### § 128 Örtliche Zuständigkeit der Regionalträger
 
@@ -6091,7 +5810,6 @@ nach der folgenden Tabelle:
 (4) Ist kein Rentenversicherungsträger nach den Absätzen 1 bis 3
 zuständig, so ist die Deutsche Rentenversicherung Rheinland zuständig.
 
-
 ##### § 128a Sonderzuständigkeit der Deutschen Rentenversicherung Saarland
 
 (1) Die Deutsche Rentenversicherung Saarland ist örtlich zuständig,
@@ -6143,7 +5861,6 @@ Rentenversicherungsträger entrichtet worden ist.
 Verbindungsstelle für die hüttenknappschaftliche Zusatzversicherung
 auf der Grundlage des über- und zwischenstaatlichen Rechts wahr.
 
-
 ##### § 129 Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für Versicherte
 
 (1) Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist
@@ -6181,7 +5898,6 @@ beschäftigt sind.
 zuständig für selbständig Tätige, die als Seelotse, Küstenschiffer
 oder Küstenfischer versicherungspflichtig sind.
 
-
 ##### § 130 Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist für
@@ -6190,22 +5906,17 @@ oder selbständigen Tätigkeit nach § 129 Abs. 1 oder Abs. 2 gezahlt
 worden ist. In diesen Fällen führt die Deutsche Rentenversicherung
 Knappschaft-Bahn-See auch die Versicherung durch.
 
-
 ##### § 131 Auskunfts- und Beratungsstellen
 
 Die Regionalträger unterhalten für den Bereich der Auskunft und
 Beratung ein Dienststellennetz für die Deutsche Rentenversicherung.
 
-
 #### Dritter Unterabschnitt - Zuständigkeit in der knappschaftlichen Rentenversicherung
-
-
 
 ##### § 132 Versicherungsträger
 
 Träger der knappschaftlichen Rentenversicherung ist die Deutsche
 Rentenversicherung Knappschaft-Bahn-See.
-
 
 ##### § 133 Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für Beschäftigte
 
@@ -6225,10 +5936,6 @@ wenn die Versicherten
     Forschungsstellen oder Rettungsstellen beschäftigt sind und für sie
     vor Aufnahme dieser Beschäftigung fünf Jahre Beiträge zur
     knappschaftlichen Rentenversicherung gezahlt worden sind.
-
-
-
-
 
 ##### § 134 Knappschaftliche Betriebe und Arbeiten
 
@@ -6299,7 +6006,6 @@ Versicherung einem knappschaftlichen Betrieb gleich.
 (6) Montagearbeiten unter Tage sind knappschaftliche Arbeiten im Sinne
 von Absatz 4 Nr. 1, wenn sie die Dauer von drei Monaten überschreiten.
 
-
 ##### § 135 Nachversicherung
 
 Für die Nachversicherung ist die Deutsche Rentenversicherung
@@ -6312,7 +6018,6 @@ bergmännischen Prüfstelle, wenn vor Aufgabe dieser Beschäftigung für
 fünf Jahre Beiträge zur knappschaftlichen Rentenversicherung gezahlt
 worden sind.
 
-
 ##### § 136 Sonderzuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See ist für
@@ -6322,14 +6027,12 @@ Fällen führt die Deutsche Rentenversicherung Knappschaft-Bahn-See auch
 die Versicherung durch. Dies gilt auch bei Anwendung des über- und
 zwischenstaatlichen Rechts.
 
-
 ##### § 136a Verbindungsstelle für Leistungen bei Invalidität, bei Alter und an Hinterbliebene der knappschaftlichen Rentenversicherung
 
 Die Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-
 See erstreckt sich auch auf die Wahrnehmung der durch über- und
 zwischenstaatliches Recht festgelegten Aufgaben einer
 Verbindungsstelle. § 127a Absatz 1 Satz 2 gilt entsprechend.
-
 
 ##### § 137 Besonderheit bei der Durchführung der Versicherung und bei den Leistungen
 
@@ -6351,10 +6054,7 @@ durch, wenn diese im letzten Jahr vor Beginn dieser Zeiten zuletzt
 wegen einer Beschäftigung in der knappschaftlichen Rentenversicherung
 versichert waren.
 
-
 #### Unterabschnitt 3a - Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
-
-
 
 ##### § 137a Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See für die Seemannskasse
 
@@ -6366,7 +6066,6 @@ durchgeführt wird, wird mit Wirkung vom 1. Januar 2009 unter ihrem
 Namen durch die Deutsche Rentenversicherung Knappschaft-Bahn-See als
 Träger der allgemeinen Rentenversicherung nach den §§ 137b bis 137e
 weitergeführt.
-
 
 ##### § 137b Besonderheiten bei den Leistungen und bei der Durchführung der Versicherung
 
@@ -6397,7 +6096,6 @@ vorsehen.
 
 (3) Die Meldungen zur Seemannskasse sind mit den Meldungen zur
 Sozialversicherung (§ 28a des Vierten Buches) zu verbinden.
-
 
 ##### § 137c Vermögen, Haftung
 
@@ -6431,7 +6129,6 @@ Knappschaft-Bahn-See.
 die Erfüllbarkeit der satzungsmäßigen Leistungspflichten nicht mehr
 auf Dauer gewährleistet ist.
 
-
 ##### § 137d Organe
 
 Die Selbstverwaltungsorgane und die Geschäftsführung der Deutschen
@@ -6439,7 +6136,6 @@ Rentenversicherung Knappschaft-Bahn-See vertreten und verwalten die
 Seemannskasse nach dem für die Deutsche Rentenversicherung
 Knappschaft-Bahn-See als Rentenversicherungsträger geltenden Recht und
 nach Maßgabe der Satzung der Seemannskasse.
-
 
 ##### § 137e Beirat
 
@@ -6469,10 +6165,7 @@ entscheiden dürfen. Gelingt es in derartigen Fällen nicht, eine
 beteiligten Gremien herzustellen, entscheidet die Aufsichtsbehörde.
 Das Nähere regelt die Satzung der Seemannskasse.
 
-
 #### Vierter Unterabschnitt - Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung, Erweitertes Direktorium
-
-
 
 ##### § 138 Grundsatz- und Querschnittsaufgaben der Deutschen Rentenversicherung
 
@@ -6608,7 +6301,6 @@ weiterzuleiten. Das Nähere regelt die Satzung.
 Grundsatz- und Querschnittsaufgaben werden im Amtlichen
 Mitteilungsblatt der Deutschen Rentenversicherung Bund veröffentlicht.
 
-
 ##### § 139 Erweitertes Direktorium
 
 (1) Das Erweiterte Direktorium der Deutschen Rentenversicherung Bund
@@ -6632,7 +6324,6 @@ der Bundesträger mit insgesamt 45 vom Hundert gewichtet. Dabei werden
 die Stimmen der Bundesträger untereinander nach der Anzahl der
 Versicherten gewichtet. Das Nähere zur Stimmengewichtung nach Satz 2
 regelt die Satzung.
-
 
 ##### § 140 Arbeitsgruppe Personalvertretung der Deutschen Rentenversicherung
 
@@ -6691,10 +6382,7 @@ Bundespersonalvertretungsgesetzes Anwendung. Kostentragende
 Dienststelle im Sinne des § 44 des Bundespersonalvertretungsgesetzes
 ist die Deutsche Rentenversicherung Bund.
 
-
 #### Fünfter Unterabschnitt - Vereinigung von Regionalträgern
-
-
 
 ##### § 141 Vereinigung von Regionalträgern auf Beschluss ihrer Vertreterversammlungen
 
@@ -6733,7 +6421,6 @@ bedürfen der Genehmigung der für die Sozialversicherung zuständigen
 obersten Landesbehörden der Länder, auf die sich der neue
 Regionalträger erstreckt.
 
-
 ##### § 142 Vereinigung von Regionalträgern durch Rechtsverordnung
 
 (1) Haben in einem Land mehrere Regionalträger ihren Sitz, kann die
@@ -6748,10 +6435,7 @@ Absatz 1 genannten Zwecken durch gleichlautende Rechtsverordnungen
 sich auf ihre Gebiete erstreckende Regionalträger vereinigen. Absatz 1
 Satz 2 gilt entsprechend.
 
-
 #### Sechster Unterabschnitt - Beschäftigte der Versicherungsträger
-
-
 
 ##### § 143 Bundesunmittelbare Versicherungsträger
 
@@ -6817,7 +6501,6 @@ Bundesdisziplinargesetzes bleiben unberührt.
 
 (9) (weggefallen)
 
-
 ##### § 144 Landesunmittelbare Versicherungsträger
 
 (1) Die landesunmittelbaren Regionalträger besitzen im Rahmen des
@@ -6831,10 +6514,7 @@ bestimmt.
 (3) Die landesunmittelbaren Regionalträger tragen die Bezüge der
 Beamten und ihrer Hinterbliebenen.
 
-
 #### Siebter Unterabschnitt - Datenstelle der Träger der Rentenversicherung
-
-
 
 ##### § 145 Datenstelle der Träger der Rentenversicherung
 
@@ -6865,15 +6545,11 @@ Bundesversicherungsamt übertragen.
 
 (5) (weggefallen)
 
-
 ##### § 146
 
 (weggefallen)
 
-
 ### Zweiter Abschnitt - Datenschutz und Datensicherheit
-
-
 
 #### § 147 Versicherungsnummer
 
@@ -6911,7 +6587,6 @@ enthalten.
 der für sie zuständige Träger der Rentenversicherung sind unverzüglich
 über die vergebene Versicherungsnummer sowie über die Zuordnung nach §
 127 zu unterrichten.
-
 
 #### § 148 Datenerhebung, Datenverarbeitung und Datennutzung beim Rentenversicherungsträger
 
@@ -6984,7 +6659,6 @@ einer anderen gesetzlich vorgeschriebenen oder zugelassenen Aufgabe
 erforderlich ist. Die Einschränkungen des Satzes 1 gelten nicht, wenn
 die Sozialdaten in einer anonymisierten Form übermittelt werden.
 
-
 #### § 149 Versicherungskonto
 
 (1) Der Träger der Rentenversicherung führt für jeden Versicherten ein
@@ -7040,7 +6714,6 @@ Vergangenheit aufzuheben; die §§ 24 und 48 des Zehnten Buches sind
 nicht anzuwenden. Über die Anrechnung und Bewertung der im
 Versicherungsverlauf enthaltenen Daten wird erst bei Feststellung
 einer Leistung entschieden.
-
 
 #### § 150 Dateien bei der Datenstelle
 
@@ -7218,7 +6891,6 @@ ferner gegenüber dem Bundesamt für Güterverkehr, soweit dieses
 Aufgaben nach § 11 Absatz 2 Nummer 3 Buchstabe a des
 Güterkraftverkehrsgesetzes wahrnimmt, zulässig.
 
-
 #### § 151 Auskünfte der Deutschen Post AG
 
 (1) Die Deutsche Post AG darf den für Sozialleistungen zuständigen
@@ -7282,7 +6954,6 @@ Rentenversicherung nicht selbst durchführt, diese Daten aber für
 Auskünfte nach Absatz 1 oder 2 von anderen Sozialleistungsträgern oder
 diesen Gleichgestellten benötigt werden.
 
-
 #### § 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt
 
 (1) Für die Aufnahme von Leistungsanträgen bei dem Versicherungsamt
@@ -7327,7 +6998,6 @@ und der Aufsichtsbehörde vorzulegen. Die Aufsichtsbehörde kann die
 Fortführung des Verfahrens untersagen, wenn das Sicherheitskonzept
 nicht mehr dem Stand der Technik entspricht.
 
-
 #### § 152 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch
@@ -7368,18 +7038,11 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 zu bestimmen.
 
-
 ## Viertes Kapitel - Finanzierung
-
-
 
 ### Erster Abschnitt - Finanzierungsgrundsatz und Rentenversicherungsbericht
 
-
-
 #### Erster Unterabschnitt - Umlageverfahren
-
-
 
 ##### § 153 Umlageverfahren
 
@@ -7398,10 +7061,7 @@ die aus der Übertragung und Verwendung von Wertguthaben fließenden und
 zu verwaltenden Mittel keine Einnahmen, Ausgaben oder
 Zahlungsverpflichtungen der allgemeinen Rentenversicherung.
 
-
 #### Zweiter Unterabschnitt - Rentenversicherungsbericht und Sozialbeirat
-
-
 
 ##### § 154 Rentenversicherungsbericht, Stabilisierung des Beitragssatzes und Sicherung des Rentenniveaus
 
@@ -7516,7 +7176,6 @@ Sicherungsniveauziels vor Steuern von 46 vom Hundert über das Jahr
 2020 hinaus von der Bundesregierung entsprechende Maßnahmen unter
 Wahrung der Beitragssatzstabilität vorzuschlagen.
 
-
 ##### § 155 Aufgabe des Sozialbeirats
 
 (1) Der Sozialbeirat hat insbesondere die Aufgabe, in einem Gutachten
@@ -7525,7 +7184,6 @@ zum Rentenversicherungsbericht der Bundesregierung Stellung zu nehmen.
 (2) Das Gutachten des Sozialbeirats ist zusammen mit dem
 Rentenversicherungsbericht den gesetzgebenden Körperschaften
 zuzuleiten.
-
 
 ##### § 156 Zusammensetzung des Sozialbeirats
 
@@ -7568,25 +7226,17 @@ Mitgliedschaft in einem Organ der Selbstverwaltung (§ 51 Viertes Buch)
 erfüllen. Vor der Berufung der Vertreter der Wirtschafts- und
 Sozialwissenschaften. ist die Hochschulrektorenkonferenz anzuhören.
 
-
 ### Zweiter Abschnitt - Beiträge und Verfahren
-
-
 
 #### Erster Unterabschnitt - Beiträge
 
-
-
 ##### Erster Titel - Allgemeines
-
-
 
 ###### § 157 Grundsatz
 
 Die Beiträge werden nach einem Vomhundertsatz (Beitragssatz) von der
 Beitragsbemessungsgrundlage erhoben, die nur bis zur jeweiligen
 Beitragsbemessungsgrenze berücksichtigt wird.
-
 
 ###### § 158 Beitragssätze
 
@@ -7641,7 +7291,6 @@ Januar des Jahres an nicht verändert, macht das Bundesministerium für
 Arbeit und Soziales im Bundesgesetzblatt das Weitergelten der
 Beitragssätze bekannt.
 
-
 ###### § 159 Beitragsbemessungsgrenzen
 
 Die Beitragsbemessungsgrenzen in der allgemeinen Rentenversicherung
@@ -7652,7 +7301,6 @@ den entsprechenden Bruttolöhnen und -gehältern im vorvergangenen
 Kalenderjahr stehen. Die veränderten Beträge werden nur für das
 Kalenderjahr, für das die Beitragsbemessungsgrenze bestimmt wird, auf
 das nächsthöhere Vielfache von 600 aufgerundet.
-
 
 ###### § 160 Verordnungsermächtigung
 
@@ -7668,10 +7316,7 @@ Bundesrates
 
 festzusetzen.
 
-
 ##### Zweiter Titel - Beitragsbemessungsgrundlagen
-
-
 
 ###### § 161 Grundsatz
 
@@ -7681,7 +7326,6 @@ beitragspflichtigen Einnahmen.
 (2) Beitragsbemessungsgrundlage für freiwillig Versicherte ist jeder
 Betrag zwischen der Mindestbeitragsbemessungsgrundlage (§ 167) und der
 Beitragsbemessungsgrenze.
-
 
 ###### § 162 Beitragspflichtige Einnahmen Beschäftigter
 
@@ -7729,10 +7373,6 @@ Beitragspflichtige Einnahmen sind
     Bezugsgröße, bei Nachweis eines niedrigeren oder höheren Einkommens
     jedoch dieses Einkommen, mindestens jedoch monatlich 450 Euro. § 165
     Abs. 1 Satz 2 bis 10 gilt entsprechend.
-
-
-
-
 
 ###### § 163 Sonderregelung für beitragspflichtige Einnahmen Beschäftigter
 
@@ -7851,11 +7491,9 @@ mit Wirkung für die Zukunft und bei mehreren Beschäftigungen nach Satz
 Beschäftigungen bindend. Satz 1 gilt nicht für Personen, die zu ihrer
 Berufsausbildung beschäftigt sind.
 
-
 ###### § 164
 
 (weggefallen)
-
 
 ###### § 165 Beitragspflichtige Einnahmen selbständig Tätiger
 
@@ -7946,7 +7584,6 @@ entsprechend.
 gelten als Arbeitseinkommen im Sinne von § 15 des Vierten Buches auch
 die Einnahmen, die steuerrechtlich als Einkommen aus abhängiger
 Beschäftigung behandelt werden.
-
 
 ###### § 166 Beitragspflichtige Einnahmen sonstiger Versicherter
 
@@ -8082,16 +7719,12 @@ beitragspflichtigen Einnahmen berechnet sich nach dem Umfang der
 jeweiligen Pflegetätigkeit im Verhältnis zum Umfang der
 Pflegetätigkeit der Pflegeperson insgesamt.
 
-
 ###### § 167 Freiwillig Versicherte
 
 Die Mindestbeitragsbemessungsgrundlage beträgt für freiwillig
 Versicherte monatlich 450 Euro.
 
-
 ##### Dritter Titel - Verteilung der Beitragslast
-
-
 
 ###### § 168 Beitragstragung bei Beschäftigten
 
@@ -8218,7 +7851,6 @@ versichert sind, tragen die Beiträge in Höhe des Vomhundertsatzes, den
 sie zu tragen hätten, wenn sie in der allgemeinen Rentenversicherung
 versichert wären; im Übrigen tragen die Arbeitgeber die Beiträge.
 
-
 ###### § 169 Beitragstragung bei selbständig Tätigen
 
 Die Beiträge werden getragen
@@ -8235,10 +7867,6 @@ Die Beiträge werden getragen
 
 4.  bei Hausgewerbetreibenden, die ehrenamtlich tätig sind, für den
     Unterschiedsbetrag von ihnen selbst.
-
-
-
-
 
 ###### § 170 Beitragstragung bei sonstigen Versicherten
 
@@ -8328,11 +7956,9 @@ tragen die Beiträge die Leistungsträger. Satz 1 gilt entsprechend für
 Bezieher von Vorruhestandsgeld, die in der knappschaftlichen
 Rentenversicherung versichert sind.
 
-
 ###### § 171 Freiwillig Versicherte
 
 Freiwillig Versicherte tragen ihre Beiträge selbst.
-
 
 ###### § 172 Arbeitgeberanteil bei Versicherungsfreiheit und Befreiung von der Versicherungspflicht
 
@@ -8385,7 +8011,6 @@ des Dritten Abschnitts des Vierten Buches sowie die
 Bußgeldvorschriften des § 111 Abs. 1 Nr. 2 bis 4, 8 und Abs. 2 und 4
 des Vierten Buches entsprechend.
 
-
 ###### § 172a Beitragszuschüsse des Arbeitgebers für Mitglieder berufsständischer Versorgungseinrichtungen
 
 Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer 1 von der
@@ -8395,17 +8020,13 @@ Versorgungseinrichtung, höchstens aber die Hälfte des Beitrags, der zu
 zahlen wäre, wenn die Beschäftigten nicht von der Versicherungspflicht
 in der gesetzlichen Rentenversicherung befreit worden wären.
 
-
 ##### Vierter Titel - Zahlung der Beiträge
-
-
 
 ###### § 173 Grundsatz
 
 Die Beiträge sind, soweit nicht etwas anderes bestimmt ist, von
 denjenigen, die sie zu tragen haben (Beitragsschuldner), unmittelbar
 an die Träger der Rentenversicherung zu zahlen.
-
 
 ###### § 174 Beitragszahlung aus dem Arbeitsentgelt und Arbeitseinkommen
 
@@ -8439,10 +8060,6 @@ gilt Absatz 1 entsprechend.
 
 3.  die antragstellenden Stellen.
 
-
-
-
-
 ###### § 175 Beitragszahlung bei Künstlern und Publizisten
 
 (1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des Bezugs
@@ -8455,7 +8072,6 @@ Künstler und Publizisten nur insoweit verpflichtet, als diese ihren
 Beitragsanteil zur Rentenversicherung nach dem
 Künstlersozialversicherungsgesetz an die Künstlersozialkasse gezahlt
 haben.
-
 
 ###### § 176 Beitragszahlung und Abrechnung bei Bezug von Sozialleistungen, bei Leistungen im Eingangsverfahren und im Berufsbildungsbereich anerkannter Werkstätten für behinderte Menschen
 
@@ -8473,7 +8089,6 @@ gelten die Beiträge als gezahlt. Satz 1 gilt entsprechend bei
 Leistungen im Eingangsverfahren und im Berufsbildungsbereich
 anerkannter Werkstätten für behinderte Menschen.
 
-
 ###### § 176a Beitragszahlung und Abrechnung bei Pflegepersonen
 
 Das Nähere über Zahlung und Abrechnung der Beiträge für nicht
@@ -8481,7 +8096,6 @@ erwerbsmäßig tätige Pflegepersonen können die Spitzenverbände der
 Pflegekassen, der Verband der privaten Krankenversicherung e.V., die
 Festsetzungsstellen für die Beihilfe und die Deutsche
 Rentenversicherung Bund durch Vereinbarung regeln.
-
 
 ###### § 177 Beitragszahlung für Kindererziehungszeiten
 
@@ -8524,7 +8138,6 @@ Monatsraten. Die Festsetzung und Auszahlung der Monatsraten sowie die
 Abrechnung führt das Bundesversicherungsamt entsprechend den
 haushaltsrechtlichen Vorschriften durch.
 
-
 ###### § 178 Verordnungsermächtigung
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
@@ -8562,10 +8175,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen den Betrag, der
 vom Bund für Kindererziehungszeiten an die allgemeine
 Rentenversicherung pauschal zu zahlen ist, im Bundesanzeiger bekannt.
 
-
 ##### Fünfter Titel - Erstattungen
-
-
 
 ###### § 179 Erstattung von Aufwendungen
 
@@ -8631,7 +8241,6 @@ zulässig, soweit die Entwicklungshelfer von einer Stelle im Sinne des
 zur Abdeckung von Risiken bestimmt sind, die von der
 Rentenversicherung abgesichert werden.
 
-
 ###### § 180 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
@@ -8642,10 +8251,7 @@ Vorschüssen sowie die Prüfung der Voraussetzungen der Erstattungen bei
 den Einrichtungen, Integrationsprojekten und bei deren Trägern
 einschließlich deren Mitwirkung gemäß § 179 Abs. 1 zu regeln.
 
-
 ##### Sechster Titel - Nachversicherung
-
-
 
 ###### § 181 Berechnung und Tragung der Beiträge
 
@@ -8688,7 +8294,6 @@ worden, werden die Beiträge für diesen Zeitraum von den Arbeitgebern,
 Genossenschaften oder Gemeinschaften getragen, die die Gewährleistung
 erstreckt haben; Erstattungsvereinbarungen sind zulässig.
 
-
 ###### § 182 Zusammentreffen mit vorhandenen Beiträgen
 
 (1) Sind für den Nachversicherungszeitraum bereits Pflichtbeiträge
@@ -8707,7 +8312,6 @@ vorläufige Durchschnittsentgelt für das Kalenderjahr, in dem die
 Beiträge für die Nachversicherung gezahlt werden, das
 Durchschnittsentgelt für das Kalenderjahr, für das die freiwilligen
 Beiträge gezahlt wurden, übersteigt.
-
 
 ###### § 183 Erhöhung und Minderung der Beiträge bei Versorgungsausgleich
 
@@ -8746,10 +8350,6 @@ Minderungsbetrag ist
     Nachversicherung gezahlt werden, das Durchschnittsentgelt übersteigt,
     das für die Berechnung der Beiträge zur Ablösung der
     Erstattungspflicht maßgebend war.
-
-
-
-
 
 ###### § 184 Fälligkeit der Beiträge und Aufschub
 
@@ -8802,7 +8402,6 @@ Beschäftigten und der Träger der Rentenversicherung können verlangen,
 dass sich die Aufschubbescheinigung auch auf die beitragspflichtigen
 Einnahmen erstreckt, die einer Nachversicherung in den einzelnen
 Kalenderjahren zugrunde zu legen wären.
-
 
 ###### § 185 Zahlung der Beiträge und Wirkung der Beitragszahlung
 
@@ -8884,7 +8483,6 @@ Einnahmen (Nachversicherungsbescheinigung).
 aufgrund der Nachversicherung in ihrem Versicherungskonto
 gespeicherten Daten mit.
 
-
 ###### § 186 Zahlung an eine berufsständische Versorgungseinrichtung
 
 (1) Nachzuversichernde können beantragen, dass die Arbeitgeber,
@@ -8920,7 +8518,6 @@ nacheinander zu
 (3) Der Antrag kann nur innerhalb eines Jahres nach dem Eintritt der
 Voraussetzungen für die Nachversicherung gestellt werden.
 
-
 ###### § 186a Zeiten einer besonderen Auslandsverwendung im Nachversicherungszeitraum
 
 (1) Liegen Zeiten einer besonderen Auslandsverwendung nach § 76e in
@@ -8941,10 +8538,7 @@ Zeiten nach Satz 1.
 Versorgungseinrichtung nach § 186 gezahlt, sind auch Beiträge nach §
 188 Absatz 3 an die berufsständische Versorgungseinrichtung zu zahlen.
 
-
 ##### Siebter Titel - Zahlung von Beiträgen in besonderen Fällen
-
-
 
 ###### § 187 Zahlung von Beiträgen und Ermittlung von Entgeltpunkten aus Beiträgen beim Versorgungsausgleich
 
@@ -9079,7 +8673,6 @@ sind im Umfang der Abänderung zuviel gezahlte Beiträge unter
 Anrechnung der an die ausgleichsberechtigte Person gewährten
 Leistungen zurückzuzahlen.
 
-
 ###### § 187a Zahlung von Beiträgen bei vorzeitiger Inanspruchnahme einer Rente wegen Alters
 
 (1) Bis zum Erreichen der Regelaltersgrenze können Rentenminderungen
@@ -9115,7 +8708,6 @@ einen Entgeltpunkt zu zahlende Betrag durch den jeweiligen
 Zugangsfaktor geteilt wird. Teilzahlungen sind zulässig. Eine
 Erstattung gezahlter Beiträge erfolgt nicht.
 
-
 ###### § 187b Zahlung von Beiträgen bei Abfindungen von Anwartschaften auf betriebliche Altersversorgung oder von Anrechten bei der Versorgungsausgleichskasse
 
 (1) Versicherte, die bei Beendigung eines Arbeitsverhältnisses nach
@@ -9130,7 +8722,6 @@ bei der Versorgungsausgleichskasse begründet wurden.
 
 (2) Nach bindender Bewilligung einer Vollrente wegen Alters ist eine
 Beitragszahlung nicht mehr zulässig.
-
 
 ###### § 188 Beitragszahlung für Zeiten einer besonderen Auslandsverwendung
 
@@ -9156,24 +8747,16 @@ zahlt der Bund für Zeiten einer besonderen Auslandsverwendung an die
 berufsständische Versorgungseinrichtung Beiträge in der Höhe, die für
 Zuschläge an Entgeltpunkten nach Absatz 1 zu entrichten gewesen wären.
 
-
 ##### Achter Titel - Berechnungsgrundsätze
-
-
 
 ###### § 189 Berechnungsgrundsätze
 
 Die Berechnungsgrundsätze des Zweiten Kapitels (§§ 121 bis 124) gelten
 entsprechend, soweit nicht etwas anderes bestimmt ist.
 
-
 #### Zweiter Unterabschnitt - Verfahren
 
-
-
 ##### Erster Titel - Meldungen
-
-
 
 ###### § 190 Meldepflichten bei Beschäftigten und Hausgewerbetreibenden
 
@@ -9181,7 +8764,6 @@ Versicherungspflichtig Beschäftigte und Hausgewerbetreibende sind nach
 den Vorschriften über die Meldepflichten der Arbeitgeber nach dem
 Dritten Abschnitt des Vierten Buches zu melden, soweit nicht etwas
 anderes bestimmt ist.
-
 
 ###### § 190a Meldepflicht von versicherungspflichtigen selbständig Tätigen
 
@@ -9195,7 +8777,6 @@ verwenden.
 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur
 Erfassung der nach § 2 Satz 1 Nr. 1 bis 3 und 9 versicherten
 Selbständigen zu erlassen.
-
 
 ###### § 191 Meldepflichten bei sonstigen versicherungspflichtigen Personen
 
@@ -9221,7 +8802,6 @@ erstatten
 § 28a Abs. 5 sowie die §§ 28b und 28c des Vierten Buches gelten
 entsprechend.
 
-
 ###### § 192 Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
 
 (1) Bei Einberufung zu einem Wehrdienst hat das Bundesministerium der
@@ -9233,7 +8813,6 @@ Zivildienst Beginn und Ende des Zivildienstes zu melden.
 
 (3) § 28a Abs. 5 und § 28c des Vierten Buches gelten entsprechend.
 
-
 ###### § 192a Meldepflicht für Zeiten einer besonderen Auslandsverwendung
 
 (1) Zeiten einer besonderen Auslandsverwendung, für die Zuschläge an
@@ -9242,7 +8821,6 @@ der Verteidigung oder die von ihm bestimmte Stelle zu melden.
 
 (2) § 28a Absatz 5 und § 28c des Vierten Buches gelten entsprechend.
 
-
 ###### § 193 Meldung von sonstigen rechtserheblichen Zeiten
 
 Anrechnungszeiten sowie Zeiten, die für die Anerkennung von
@@ -9250,7 +8828,6 @@ Anrechnungszeiten erheblich sein können, sind für Versicherte durch
 die zuständige Krankenkasse, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See, den zugelassenen kommunalen Träger nach § 6a des
 Zweiten Buches oder durch die Bundesagentur für Arbeit zu melden.
-
 
 ###### § 194 Gesonderte Meldung und Hochrechnung
 
@@ -9277,7 +8854,6 @@ Abs. 3 des Elften Buches bleibt unberührt.
 (3) Die Beitragsberechnung erfolgt nach der tatsächlichen
 beitragspflichtigen Einnahme.
 
-
 ###### § 195 Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, für
@@ -9294,13 +8870,7 @@ Bundesrates zu bestimmen
 3.  das Nähere über die Bearbeitung, Sicherung und Weiterleitung der in
     den Meldungen enthaltenen Angaben.
 
-
-
-
-
 ##### Zweiter Titel - Auskunfts- und Mitteilungspflichten
-
-
 
 ###### § 196 Auskunfts- und Mitteilungspflichten
 
@@ -9379,10 +8949,7 @@ der Mitteilungen der Handwerkskammern zu bestimmen.
 
 (4) (weggefallen)
 
-
 ##### Dritter Titel - Wirksamkeit der Beitragszahlung
-
-
 
 ###### § 197 Wirksamkeit von Beiträgen
 
@@ -9405,7 +8972,6 @@ Frist zu erfolgen.
 (4) Die Wiedereinsetzung in den vorigen Stand nach § 27 des Zehnten
 Buches ist ausgeschlossen.
 
-
 ###### § 198 Neubeginn und Hemmung von Fristen
 
 Die Frist des § 197 Abs. 2 wird durch ein Beitragsverfahren oder ein
@@ -9415,7 +8981,6 @@ Verjährung des Anspruchs auf Zahlung von Beiträgen (§ 25 Abs. 1
 Viertes Buch) und des Anspruchs auf Erstattung von zu Unrecht
 gezahlten Beiträgen (§ 27 Abs. 2 Viertes Buch); die Hemmung endet
 sechs Monate nach Abschluss eines der in Satz 1 genannten Verfahren.
-
 
 ###### § 199 Vermutung der Beitragszahlung
 
@@ -9429,7 +8994,6 @@ ordnungsgemäß gemeldeten Beschäftigungszeit ein gültiges
 Versicherungsverhältnis bestanden hat. Die Sätze 1 und 2 sind für
 Zeiten einer nicht erwerbsmäßigen häuslichen Pflege entsprechend
 anzuwenden.
-
 
 ###### § 200 Änderung der Beitragsberechnungsgrundlagen
 
@@ -9448,7 +9012,6 @@ Zeitraum sind
 maßgebend. Bei Senkung des Beitragssatzes gilt abweichend von Satz 1
 der Beitragssatz, der in dem Monat maßgebend war, für den der Beitrag
 gezahlt wird.
-
 
 ###### § 201 Beiträge an nicht zuständige Träger der Rentenversicherung
 
@@ -9472,7 +9035,6 @@ Rentenversicherung und den Beiträgen zur allgemeinen
 Rentenversicherung sind vom Arbeitgeber nachzuzahlen oder ihm zu
 erstatten.
 
-
 ###### § 202 Irrtümliche Pflichtbeitragszahlung
 
 Beiträge, die in der irrtümlichen Annahme der Versicherungspflicht
@@ -9487,7 +9049,6 @@ gezahlt werden sollen. Fordern Arbeitgeber die von ihnen getragenen
 Beitragsanteile zurück, sind die Versicherten berechtigt, den an die
 Arbeitgeber zu erstattenden Betrag zu zahlen.
 
-
 ###### § 203 Glaubhaftmachung der Beitragszahlung
 
 (1) Machen Versicherte glaubhaft, dass sie eine
@@ -9499,10 +9060,7 @@ worden sind, ist die Beschäftigungszeit als Beitragszeit anzuerkennen.
 Beitragsanteil vom Arbeitsentgelt abgezogen worden ist, so gilt der
 Beitrag als gezahlt.
 
-
 ##### Vierter Titel - Nachzahlung
-
-
 
 ###### § 204 Nachzahlung von Beiträgen bei Ausscheiden aus einer internationalen Organisation
 
@@ -9540,7 +9098,6 @@ steht der Nachzahlung nicht entgegen. Die Beiträge sind spätestens
 sechs Monate nach Eintritt der Bindungswirkung des
 Nachzahlungsbescheides nachzuzahlen.
 
-
 ###### § 205 Nachzahlung bei Strafverfolgungsmaßnahmen
 
 (1) Versicherte, für die ein Anspruch auf Entschädigung für Zeiten von
@@ -9561,7 +9118,6 @@ Kalendermonats des Eintritts der Rechtskraft der die
 Entschädigungspflicht der Staatskasse feststellenden Entscheidung
 gestellt werden. Die Beiträge sind innerhalb einer von dem Träger der
 Rentenversicherung zu bestimmenden angemessenen Frist zu zahlen.
-
 
 ###### § 206 Nachzahlung für Geistliche und Ordensleute
 
@@ -9596,7 +9152,6 @@ ruhegehaltfähig anerkannt werden.
 erfüllt ist oder wenn nach Wohnsitznahme im Inland für mindestens 24
 Kalendermonate Pflichtbeiträge gezahlt sind.
 
-
 ###### § 207 Nachzahlung für Ausbildungszeiten
 
 (1) Für Zeiten einer schulischen Ausbildung nach dem vollendeten 16.
@@ -9620,10 +9175,7 @@ nachgezahlt worden sind, als Anrechnungszeiten zu bewerten, kann sich
 der Versicherte die Beiträge erstatten lassen. § 210 Abs. 5 gilt
 entsprechend.
 
-
 ###### § 208 (weggefallen)
-
-
 
 ###### § 209 Berechtigung und Beitragsberechnung zur Nachzahlung
 
@@ -9654,10 +9206,7 @@ Vollendung des 16. Lebensjahres an zulässig.
 
 maßgebend, die zum Zeitpunkt der Nachzahlung gelten.
 
-
 ##### Fünfter Titel - Beitragserstattung und Beitragsüberwachung
-
-
 
 ###### § 210 Beitragserstattung
 
@@ -9741,7 +9290,6 @@ bisherige Versicherungsverhältnis aufgelöst. Ansprüche aus den bis zur
 Erstattung nach Absatz 1 zurückgelegten rentenrechtlichen Zeiten
 bestehen nicht mehr.
 
-
 ###### § 211 Sonderregelung bei der Zuständigkeit zu Unrecht gezahlter Beiträge
 
 Die Erstattung zu Unrecht gezahlter Beiträge (§ 26 Abs. 2 und 3
@@ -9764,14 +9312,12 @@ Berechnung des Erstattungsbetrags ist die dem Beitrag zugrundeliegende
 bescheinigte Beitragsbemessungsgrundlage. Der zuständige Träger der
 Rentenversicherung ist über die Erstattung zu benachrichtigen.
 
-
 ###### § 212 Beitragsüberwachung
 
 Die Träger der Rentenversicherung überwachen die rechtzeitige und
 vollständige Zahlung der Pflichtbeiträge, soweit sie unmittelbar an
 sie zu zahlen sind. Die Träger der Rentenversicherung sind zur Prüfung
 der Beitragszahlung berechtigt.
-
 
 ###### § 212a Prüfung der Beitragszahlungen und Meldungen für sonstige Versicherte, Nachversicherte und für Zeiten einer besonderen Auslandsverwendung
 
@@ -9902,7 +9448,6 @@ Bundesrates das Nähere über
 
 bestimmen.
 
-
 ###### § 212b Prüfung der Beitragszahlung bei versicherungspflichtigen Selbständigen
 
 Die Träger der Rentenversicherung sind berechtigt, Prüfungen bei den
@@ -9914,14 +9459,9 @@ steuerberatenden Stellen durchgeführt werden darf. § 98 Abs. 1 Satz 2
 bis 4, Abs. 2, 4 und 5 Satz 1 Nr. 2 und Satz 2 des Zehnten Buches gilt
 entsprechend.
 
-
 ### Dritter Abschnitt - Beteiligung des Bundes, Finanzbeziehungen und Erstattungen
 
-
-
 #### Erster Unterabschnitt - Beteiligung des Bundes
-
-
 
 ##### § 213 Zuschüsse des Bundes
 
@@ -9999,7 +9539,6 @@ nicht zu berücksichtigen.
 (6) Die Festsetzung und Auszahlung der Monatsraten sowie die
 Abrechnung führt das Bundesversicherungsamt durch.
 
-
 ##### § 214 Liquiditätssicherung
 
 (1) Reichen in der allgemeinen Rentenversicherung die liquiden Mittel
@@ -10013,7 +9552,6 @@ sind zurückzuzahlen, sobald und soweit sie im laufenden Kalenderjahr
 zur Erfüllung der Zahlungsverpflichtungen nicht mehr benötigt werden,
 spätestens bis zum 31. Dezember des auf die Vergabe folgenden Jahres;
 Zinsen sind nicht zu zahlen.
-
 
 ##### § 214a Liquiditätserfassung
 
@@ -10032,7 +9570,6 @@ Meldeverfahrens wird durch eine Vereinbarung zwischen dem
 Bundesversicherungsamt und der Deutschen Rentenversicherung Bund
 geregelt.
 
-
 ##### § 215 Beteiligung des Bundes in der knappschaftlichen Rentenversicherung
 
 In der knappschaftlichen Rentenversicherung trägt der Bund den
@@ -10040,10 +9577,7 @@ Unterschiedsbetrag zwischen den Einnahmen und den Ausgaben eines
 Kalenderjahres; er stellt hiermit zugleich deren dauernde
 Leistungsfähigkeit sicher.
 
-
 #### Zweiter Unterabschnitt - Nachhaltigkeitsrücklage und Finanzausgleich
-
-
 
 ##### § 216 Nachhaltigkeitsrücklage
 
@@ -10061,7 +9595,6 @@ dauerhaft von der Deutschen Rentenversicherung Bund verwaltet.
 längeren Zeitraum diesen Umfang, ist sie insoweit von den Trägern der
 allgemeinen Rentenversicherung zu verwalten. Das Nähere hierzu regelt
 das Erweiterte Direktorium bei der Deutschen Rentenversicherung Bund.
-
 
 ##### § 217 Anlage der Nachhaltigkeitsrücklage
 
@@ -10095,11 +9628,9 @@ allgemeinen Rentenversicherung die liquiden Mittel der
 Nachhaltigkeitsrücklage nicht ausreichen, die Zahlungsverpflichtungen
 zu erfüllen.
 
-
 ##### § 218
 
 (weggefallen)
-
 
 ##### § 219 Finanzverbund in der allgemeinen Rentenversicherung
 
@@ -10144,7 +9675,6 @@ verfügbaren Mittel aller Träger der allgemeinen Rentenversicherung
 nicht aus, die jeweiligen Zahlungsverpflichtungen zu erfüllen,
 beantragt sie zusätzliche finanzielle Hilfen des Bundes.
 
-
 ##### § 220 Aufwendungen für Leistungen zur Teilhabe, Verwaltung und Verfahren
 
 (1) Die jährlichen Ausgaben im Bereich der allgemeinen
@@ -10183,7 +9713,6 @@ umgesetzten und geplanten Maßnahmen zur Optimierung dieser Kosten zu
 berichten. Dabei ist gesondert auf die Schlussfolgerungen einzugehen,
 welche sich aus dem Benchmarking der Versicherungsträger ergeben.
 
-
 ##### § 221 Ausgaben für das Anlagevermögen
 
 Für die Schaffung oder Erhaltung nicht liquider Teile des
@@ -10199,7 +9728,6 @@ stellen gemeinsam in der Deutschen Rentenversicherung Bund sicher,
 dass die Notwendigkeit von Bauvorhaben nach Satz 2 nach einheitlichen
 Grundsätzen beurteilt wird.
 
-
 ##### § 222 Ermächtigung
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
@@ -10213,10 +9741,7 @@ zeitlich begrenzt werden.
 durch allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates
 den Umfang des Verwaltungsvermögens abzugrenzen.
 
-
 #### Dritter Unterabschnitt - Erstattungen
-
-
 
 ##### § 223 Wanderversicherungsausgleich und Wanderungsausgleich
 
@@ -10278,7 +9803,6 @@ mit einem Faktor zu bereinigen, der die längerfristigen Veränderungen
 der Rentnerzahl und des Rentenvolumens in der knappschaftlichen
 Rentenversicherung berücksichtigt.
 
-
 ##### § 224 Erstattung durch die Bundesagentur für Arbeit
 
 (1) Zum Ausgleich der Aufwendungen, die der Rentenversicherung für
@@ -10319,7 +9843,6 @@ Wanderversicherungsausgleich zu zahlenden und zu erstattenden Beträge
 zu den entsprechenden Aufwendungen der Träger der allgemeinen
 Rentenversicherung zusammenstehen.
 
-
 ##### § 224a Tragung pauschalierter Beiträge für Renten wegen voller Erwerbsminderung
 
 (1) Das Bundesversicherungsamt führt für den Gesamtbeitrag nach § 345a
@@ -10336,7 +9859,6 @@ dieses Trägers für Renten wegen voller Erwerbsminderung unter
 Einbeziehung der im Wanderversicherungsausgleich zu zahlenden und zu
 erstattenden Beträge zu den entsprechenden Aufwendungen der Träger der
 allgemeinen Rentenversicherung zusammen stehen.
-
 
 ##### § 224b Erstattung für Begutachtung in Angelegenheiten der Grundsicherung
 
@@ -10360,7 +9882,6 @@ Aufteilung des Erstattungsbetrages auf die Träger der
 Rentenversicherung erfolgt durch die Deutsche Rentenversicherung Bund.
 Für die Träger der allgemeinen Rentenversicherung erfolgt sie
 buchhalterisch.
-
 
 ##### § 225 Erstattung durch den Träger der Versorgungslast
 
@@ -10386,7 +9907,6 @@ Bezugsgröße nicht übersteigt, hat der Träger der Versorgungslast
 Beiträge zu zahlen. Absatz 1 ist nicht anzuwenden. Im Fall einer
 Abänderung einer Entscheidung des Familiengerichts gilt § 187 Abs. 7
 entsprechend.
-
 
 ##### § 226 Verordnungsermächtigung
 
@@ -10415,10 +9935,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
 die Verteilung der pauschalierten Beiträge für Renten wegen voller
 Erwerbsminderung gemäß § 224a zu bestimmen.
 
-
 #### Vierter Unterabschnitt - Abrechnung der Aufwendungen
-
-
 
 ##### § 227 Abrechnung der Aufwendungen
 
@@ -10453,18 +9970,11 @@ Steuerung der Finanzausstattung und der Finanzverwaltung im Rahmen des
 geltenden Rechts für das gesamte System der Deutschen
 Rentenversicherung.
 
-
 ## Fünftes Kapitel - Sonderregelungen
-
-
 
 ### Erster Abschnitt - Ergänzungen für Sonderfälle
 
-
-
 #### Erster Unterabschnitt - Grundsatz
-
-
 
 ##### § 228 Grundsatz
 
@@ -10472,7 +9982,6 @@ Die Vorschriften dieses Abschnitts ergänzen die Vorschriften der
 vorangehenden Kapitel für Sachverhalte, die von dem Zeitpunkt des
 Inkrafttretens der Vorschriften der vorangehenden Kapitel an nicht
 mehr oder nur noch übergangsweise eintreten können.
-
 
 ##### § 228a Besonderheiten für das Beitrittsgebiet
 
@@ -10507,7 +10016,6 @@ Renten wegen Todes an den aktuellen Rentenwert anknüpfen, ist der
 aktuelle Rentenwert (Ost) maßgebend, wenn der Berechtigte seinen
 gewöhnlichen Aufenthalt im Beitrittsgebiet hat.
 
-
 ##### § 228b Maßgebende Werte in der Anpassungsphase
 
 Bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der
@@ -10518,10 +10026,7 @@ das Bundesgebiet ohne das Beitrittsgebiet ermittelten Werte maßgebend,
 sofern nicht in den nachstehenden Vorschriften etwas anderes bestimmt
 ist.
 
-
 #### Zweiter Unterabschnitt - Versicherter Personenkreis
-
-
 
 ##### § 229 Versicherungspflicht
 
@@ -10621,7 +10126,6 @@ Dezember 2014 versicherungspflichtig.
 
 (8) (weggefallen)
 
-
 ##### § 229a Versicherungspflicht im Beitrittsgebiet
 
 (1) Personen, die am 31. Dezember 1991 im Beitrittsgebiet
@@ -10637,7 +10141,6 @@ Krankenversicherung der Landwirte erfüllt haben, in der
 Krankenversicherung der Landwirte als Unternehmer versichert waren und
 am 1. Januar 1995 in dieser Tätigkeit versicherungspflichtig waren,
 bleiben in dieser Tätigkeit versicherungspflichtig.
-
 
 ##### § 230 Versicherungsfreiheit
 
@@ -10721,7 +10224,6 @@ Erklärung gegenüber dem Arbeitgeber auf die Versicherungsfreiheit
 verzichten; der Verzicht kann nur mit Wirkung für die Zukunft und bei
 mehreren Beschäftigungen nur einheitlich erklärt werden und ist für
 die Dauer der Beschäftigungen bindend.
-
 
 ##### § 231 Befreiung von der Versicherungspflicht
 
@@ -10910,7 +10412,6 @@ Merkmale einer geringfügigen Beschäftigung nach diesen Vorschriften in
 der ab dem 1. Januar 2013 geltenden Fassung erfüllt, solange das
 Arbeitsentgelt aus dieser Beschäftigung 400 Euro monatlich übersteigt.
 
-
 ##### § 231a Befreiung von der Versicherungspflicht im Beitrittsgebiet
 
 Selbständig Tätige, die am 31. Dezember 1991 im Beitrittsgebiet
@@ -10919,7 +10420,6 @@ befreit waren und nicht bis zum 31. Dezember 1994 erklärt haben, dass
 die Befreiung von der Versicherungspflicht enden soll, bleiben in
 jeder Beschäftigung oder selbständigen Tätigkeit und bei
 Wehrdienstleistungen von der Versicherungspflicht befreit.
-
 
 ##### § 232 Freiwillige Versicherung
 
@@ -10934,7 +10434,6 @@ Aufenthalt im Ausland haben.
 (2) Nach bindender Bewilligung einer Vollrente wegen Alters oder für
 Zeiten des Bezugs einer solchen Rente ist eine freiwillige
 Versicherung nicht zulässig.
-
 
 ##### § 233 Nachversicherung
 
@@ -10970,7 +10469,6 @@ die nachzuversichernden Personen mangels einer dem § 4 Abs. 1 Satz 2
 entsprechenden Vorschrift oder in den Fällen des Absatzes 2 wegen
 Überschreitens der jeweiligen Jahresarbeitsverdienstgrenze nicht
 versicherungspflichtig oder versicherungsfrei waren.
-
 
 ##### § 233a Nachversicherung im Beitrittsgebiet
 
@@ -11060,10 +10558,7 @@ oder Anwartschaften aus einem Sonderversorgungssystem des
 Beitrittsgebiets im Sinne des Artikels 3 § 1 Abs. 3 des Renten-
 Überleitungsgesetzes erworben worden sind.
 
-
 #### Dritter Unterabschnitt - Teilhabe
-
-
 
 ##### § 234 Übergangsgeldanspruch und -berechnung bei Arbeitslosenhilfe
 
@@ -11079,7 +10574,6 @@ gezahlt worden sind.
 (2) Für Anspruchsberechtigte nach Absatz 1 ist für die Berechnung des
 Übergangsgeldes § 21 Abs. 4 in Verbindung mit § 47b des Fünften Buches
 jeweils in der am 31. Dezember 2004 geltenden Fassung anzuwenden.
-
 
 ##### § 234a Übergangsgeldanspruch und -berechnung bei Unterhaltsgeldbezug
 
@@ -11097,10 +10591,7 @@ gezahlt worden sind, auch nach dem 31. Dezember 2004 Anspruch auf
 Fünften Buches jeweils in der am 30. Juni 2004 geltenden Fassung
 anzuwenden.
 
-
 #### Vierter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
-
-
 
 ##### § 235 Regelaltersrente
 
@@ -11303,12 +10794,9 @@ Für Versicherte, die
 
 wird die Regelaltersgrenze nicht angehoben.
 
-
 ##### (XXXX) §§ 235a und 235b (weggefallen)
 
-
 ##### (XXXX) §§ 235a und 235b (weggefallen)
-
 
 ##### § 236 Altersrente für langjährig Versicherte
 
@@ -11659,10 +11147,6 @@ folgt:
 
     *   0.
 
-
-
-
-
 ##### § 236a Altersrente für schwerbehinderte Menschen
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
@@ -11991,10 +11475,6 @@ waren, haben Anspruch auf diese Altersrente, wenn sie
 
 
 3.  die Wartezeit von 35 Jahren erfüllt haben.
-
-
-
-
 
 ##### § 237 Altersrente wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit
 
@@ -12362,7 +11842,6 @@ Ein bestehender Vertrauensschutz wird insbesondere durch die spätere
 Aufnahme eines Arbeitsverhältnisses oder den Eintritt in eine neue
 arbeitsmarktpolitische Maßnahme nicht berührt.
 
-
 ##### § 237a Altersrente für Frauen
 
 (1) Versicherte Frauen haben Anspruch auf Altersrente, wenn sie
@@ -12640,7 +12119,6 @@ Vertrauensschutz wird insbesondere durch die spätere Aufnahme eines
 Arbeitsverhältnisses oder den Eintritt in eine neue
 arbeitsmarktpolitische Maßnahme nicht berührt.
 
-
 ##### § 238 Altersrente für langjährig unter Tage beschäftigte Bergleute
 
 (1) Versicherte, die vor dem 1. Januar 1964 geboren sind, haben
@@ -12885,13 +12363,6 @@ beschäftigte Bergleute ist auch erfüllt, wenn die Versicherten
 
         angerechnet werden.
 
-
-
-
-
-
-
-
 ##### § 239 Knappschaftsausgleichsleistung
 
 (1) Versicherte haben Anspruch auf Knappschaftsausgleichsleistung,
@@ -12989,7 +12460,6 @@ Knappschaftsausgleichsleistung wird eine Rente aus eigener
 Versicherung nicht geleistet. Für den Hinzuverdienst gilt § 34 Abs. 3
 Nr. 1 entsprechend.
 
-
 ##### § 240 Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit
 
 (1) Anspruch auf Rente wegen teilweiser Erwerbsminderung haben bei
@@ -13020,7 +12490,6 @@ am Arbeitsleben mit Erfolg ausgebildet oder umgeschult worden sind.
 Berufsunfähig ist nicht, wer eine zumutbare Tätigkeit mindestens sechs
 Stunden täglich ausüben kann; dabei ist die jeweilige Arbeitsmarktlage
 nicht zu berücksichtigen.
-
 
 ##### § 241 Rente wegen Erwerbsminderung
 
@@ -13067,7 +12536,6 @@ Erwerbsminderung oder Berufsunfähigkeit (§ 240) vor dem 1. Januar 1984
 eingetreten ist. Für Kalendermonate, für die eine Beitragszahlung noch
 zulässig ist, ist eine Belegung mit Anwartschaftserhaltungszeiten
 nicht erforderlich.
-
 
 ##### § 242 Rente für Bergleute
 
@@ -13129,13 +12597,6 @@ Lebensjahres ist auch erfüllt, wenn die Versicherten
 
 
         angerechnet werden.
-
-
-
-
-
-
-
 
 ##### § 242a Witwenrente und Witwerrente
 
@@ -13346,10 +12807,6 @@ große Witwerrente wird, wenn der Versicherte nach dem 31. Dezember
     *   47
 
     *   0.
-
-
-
-
 
 ##### § 243 Witwenrente und Witwerrente an vor dem 1. Juli 1977 geschiedene Ehegatten
 
@@ -13656,7 +13113,6 @@ wieder aufgehoben oder aufgelöst ist.
 (5) Geschiedenen Ehegatten stehen Ehegatten gleich, deren Ehe für
 nichtig erklärt oder aufgehoben ist.
 
-
 ##### § 243a Rente wegen Todes an vor dem 1. Juli 1977 geschiedene Ehegatten im Beitrittsgebiet
 
 Bestimmt sich der Unterhaltsanspruch des geschiedenen Ehegatten nach
@@ -13664,7 +13120,6 @@ dem Recht, das im Beitrittsgebiet gegolten hat, ist § 243 nicht
 anzuwenden. In diesen Fällen besteht Anspruch auf Erziehungsrente bei
 Erfüllung der sonstigen Voraussetzungen auch, wenn die Ehe vor dem 1.
 Juli 1977 geschieden ist.
-
 
 ##### § 243b Wartezeit
 
@@ -13675,10 +13130,6 @@ Anspruch auf
 
 
 2.  Altersrente für Frauen.
-
-
-
-
 
 ##### § 244 Anrechenbare Zeiten
 
@@ -13697,7 +13148,6 @@ angerechnet, in denen Versicherte wegen des Bezugs von
 Arbeitslosenhilfe oder Arbeitslosengeld II versicherungspflichtig
 waren.
 
-
 ##### § 244a Wartezeiterfüllung durch Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
 
 Sind Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger
@@ -13711,7 +13161,6 @@ unberücksichtigt. Wartezeitmonate für in die Ehezeit,
 Lebenspartnerschaftszeit oder Splittingzeit fallende Kalendermonate
 einer geringfügigen versicherungsfreien Beschäftigung sind vor
 Anwendung von § 52 Absatz 1 oder 1a gesondert zu ermitteln.
-
 
 ##### § 245 Vorzeitige Wartezeiterfüllung
 
@@ -13776,17 +13225,12 @@ Wartezeit auch vorzeitig erfüllt, wenn sie
     mindestens sechs Kalendermonate mit Pflichtbeiträgen für eine
     versicherte Beschäftigung oder Tätigkeit haben.
 
-
-
-
-
 ##### § 245a Wartezeiterfüllung bei früherem Anspruch auf Hinterbliebenenrente im Beitrittsgebiet
 
 Die allgemeine Wartezeit gilt für einen Anspruch auf
 Hinterbliebenenrente als erfüllt, wenn der Berechtigte bereits vor dem
 1\. Januar 1992 einen Anspruch auf Hinterbliebenenrente nach den
 Vorschriften des Beitrittsgebiets gehabt hat.
-
 
 ##### § 246 Beitragsgeminderte Zeiten
 
@@ -13799,7 +13243,6 @@ Beschäftigung oder selbständigen Tätigkeit bis zur Vollendung des 25.
 Lebensjahres stets als Zeiten einer beruflichen Ausbildung. Auf die
 ersten 36 Kalendermonate werden Anrechnungszeiten wegen einer Lehre
 angerechnet.
-
 
 ##### § 247 Beitragszeiten
 
@@ -13837,10 +13280,6 @@ Januar 1924 sind jedoch nur Beitragszeiten, wenn
 
 
 3.  mindestens die Wartezeit von 15 Jahren erfüllt ist.
-
-
-
-
 
 ##### § 248 Beitragszeiten im Beitrittsgebiet und im Saarland
 
@@ -13884,7 +13323,6 @@ Beitragssatz für bergbaulich Versicherte gezahlt worden sind. Zeiten
 der Versicherungspflicht von selbständig Tätigen im Beitrittsgebiet
 werden der allgemeinen Rentenversicherung zugeordnet.
 
-
 ##### § 249 Beitragszeiten wegen Kindererziehung
 
 (1) Die Kindererziehungszeit für ein vor dem 1. Januar 1992 geborenes
@@ -13911,7 +13349,6 @@ Kindererziehungszeit insgesamt dem Vater zugeordnet.
 
 (7) (weggefallen)
 
-
 ##### § 249a Beitragszeiten wegen Kindererziehung im Beitrittsgebiet
 
 (1) Elternteile, die am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im
@@ -13923,7 +13360,6 @@ geboren sind.
 Kindererziehungszeit im Beitrittsgebiet vor dem 1. Januar 1992
 insgesamt der Mutter zugeordnet, es sei denn, es wurde eine wirksame
 Erklärung zugunsten des Vaters abgegeben.
-
 
 ##### § 249b Berücksichtigungszeiten wegen Pflege
 
@@ -13945,7 +13381,6 @@ Die Zeit der Pflegetätigkeit wird von der Aufnahme der Pflegetätigkeit
 an als Berücksichtigungszeit angerechnet, wenn der Antrag bis zum
 Ablauf von drei Kalendermonaten nach Aufnahme der Pflegetätigkeit
 gestellt wird.
-
 
 ##### § 250 Ersatzzeiten
 
@@ -14047,10 +13482,6 @@ vollendetem 14. Lebensjahr
     selbständige Tätigkeit auch aus anderen als den dort genannten Gründen
     nicht ausgeübt haben.
 
-
-
-
-
 ##### § 251 Ersatzzeiten bei Handwerkern
 
 (1) Ersatzzeiten werden bei versicherungspflichtigen Handwerkern, die
@@ -14071,7 +13502,6 @@ Beschäftigung versicherungspflichtig waren.
 Arbeitslosigkeit vor dem 1. Juli 1969 ist bei Handwerkern nur dann
 eine Ersatzzeit, wenn und solange sie in der Handwerksrolle gelöscht
 waren.
-
 
 ##### § 252 Anrechnungszeiten
 
@@ -14235,7 +13665,6 @@ versicherungspflichtig selbständig tätig gewesen sind oder eine
 Leistung bezogen haben, wegen der sie nach § 3 Satz 1 Nummer 3
 versicherungspflichtig gewesen sind.
 
-
 ##### § 252a Anrechnungszeiten im Beitrittsgebiet
 
 (1) Anrechnungszeiten im Beitrittsgebiet sind auch Zeiten nach dem 8.
@@ -14300,7 +13729,6 @@ Kalendermonat belegt ist. Insoweit ersetzen sie die für diese Zeit
 bescheinigten Pflichtbeitragszeiten; dies gilt nicht für die
 Feststellung von Pflichtbeitragszeiten für einen Anspruch auf Rente.
 
-
 ##### § 253 Pauschale Anrechnungszeit
 
 (1) Anrechnungszeit für die Zeit vor dem 1. Januar 1957 ist mindestens
@@ -14336,7 +13764,6 @@ ergibt, wenn die pauschale Anrechnungszeit mit der für ihre Ermittlung
 maßgebenden verbleibenden Zeit in diesem Zeitabschnitt (Teillücke)
 vervielfältigt und durch die Gesamtlücke geteilt wird.
 
-
 ##### § 253a Zurechnungszeit
 
 Bei Beginn einer Rente vor dem 1. Januar 2004 endet die
@@ -14344,7 +13771,6 @@ Zurechnungszeit mit dem vollendeten 55. Lebensjahr. Die darüber
 hinausgehende Zeit bis zum vollendeten 60. Lebensjahr wird in
 Abhängigkeit vom Beginn der Rente in dem in Anlage 23 geregelten
 Umfang zusätzlich als Zurechnungszeit berücksichtigt.
-
 
 ##### § 254 Zuordnung beitragsfreier Zeiten zur knappschaftlichen Rentenversicherung
 
@@ -14368,16 +13794,12 @@ Rentenversicherung zugeordneten Ersatzzeiten bis zur letzten
 Pflichtbeitragszeit vor dem 1. Januar 1957 zu allen diesen
 Beitragszeiten und Ersatzzeiten stehen.
 
-
 ##### § 254a Ständige Arbeiten unter Tage im Beitrittsgebiet
 
 Im Beitrittsgebiet vor dem 1. Januar 1992 überwiegend unter Tage
 ausgeübte Tätigkeiten sind ständige Arbeiten unter Tage.
 
-
 #### Fünfter Unterabschnitt - Rentenhöhe und Rentenanpassung
-
-
 
 ##### § 254b Rentenformel für den Monatsbetrag der Rente
 
@@ -14393,7 +13815,6 @@ dem aktuellen Rentenwert zu vervielfältigen sind, sind
 Monatsteilbeträge zu ermitteln, deren Summe den Monatsbetrag der Rente
 ergibt.
 
-
 ##### § 254c Anpassung der Renten
 
 Renten, denen ein aktueller Rentenwert (Ost) zugrunde liegt, werden
@@ -14401,7 +13822,6 @@ angepasst, indem der bisherige aktuelle Rentenwert (Ost) durch den
 neuen aktuellen Rentenwert (Ost) ersetzt wird. Rentenbezieher erhalten
 eine Anpassungsmitteilung, wenn sich die Höhe des aktuellen
 Rentenwerts (Ost) verändert.
-
 
 ##### § 254d Entgeltpunkte (Ost)
 
@@ -14485,7 +13905,6 @@ Tätigkeit und für Zeiten der Erziehung eines Kindes vor dem 1. Februar
 1949 in Berlin gelten ermittelte Entgeltpunkte nicht als Entgeltpunkte
 (Ost).
 
-
 ##### § 255 Rentenartfaktor
 
 (1) Der Rentenartfaktor beträgt für persönliche Entgeltpunkte bei
@@ -14500,7 +13919,6 @@ dem 1. Juli 1977 geschiedenen Ehegatten werden von Beginn an mit dem
 Rentenartfaktor ermittelt, der für Witwenrenten und Witwerrenten nach
 dem Ende des dritten Kalendermonats nach Ablauf des Monats, in dem der
 Ehegatte verstorben ist, maßgebend ist.
-
 
 ##### § 255a Aktueller Rentenwert (Ost)
 
@@ -14558,7 +13976,6 @@ errechnete aktuelle Rentenwert (Ost) durch den nach Satz 1 in
 Verbindung mit Absatz 2 errechneten aktuellen Rentenwert (Ost) geteilt
 wird.
 
-
 ##### § 255b Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -14578,7 +13995,6 @@ Zustimmung des Bundesrates zum Ende eines jeden Kalenderjahres
 
 als das Vielfache des Durchschnittsentgelts der Anlage 1 zum
 Durchschnittsentgelt im Beitrittsgebiet zu bestimmen.
-
 
 ##### § 255c Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Rente
 
@@ -14605,13 +14021,11 @@ Krankenversicherungsunternehmen versichert sind, aufgrund einer
 Veränderung des durchschnittlichen allgemeinen Beitragssatzes der
 Krankenkassen haben ebenfalls keine aufschiebende Wirkung.
 
-
 ##### § 255d Ausgleichsbedarf zum 30. Juni 2007
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2007 0,9825.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt zum 30. Juni 2007 0,9870.
-
 
 ##### § 255e Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2005 bis zum 1. Juli 2013
 
@@ -14872,11 +14286,9 @@ aktuelle Rentenwert auch dann nicht, wenn sich durch die Veränderung
 des Altersvorsorgeanteils eine Minderung des bisherigen aktuellen
 Rentenwerts ergeben würde.
 
-
 ##### § 255f (weggefallen)
 
 -
-
 
 ##### § 255g Bestimmung des aktuellen Rentenwerts für die Zeit vom 1. Juli 2007 bis zum 1. Juli 2010
 
@@ -14887,7 +14299,6 @@ wird.
 
 (2) Bei der Bestimmung des aktuellen Rentenwerts für die Zeit vom 1.
 Juli 2007 bis zum 1. Juli 2010 ist § 68a Abs. 3 nicht anzuwenden.
-
 
 ##### § 256 Entgeltpunkte für Beitragszeiten
 
@@ -14942,7 +14353,6 @@ gezahlt worden sind.
 für Angestellte in der Zeit vom 1. August 1921 bis zum 31. Dezember
 1923 gezahlt worden sind, werden für jeden Kalendermonat 0,0625
 Entgeltpunkte zugrunde gelegt.
-
 
 ##### § 256a Entgeltpunkte für Beitragszeiten im Beitrittsgebiet
 
@@ -15036,7 +14446,6 @@ zugrunde gelegt.
 Entgeltpunkte, für jeden Teilzeitraum der entsprechende Anteil
 zugrunde gelegt.
 
-
 ##### § 256b Entgeltpunkte für glaubhaft gemachte Beitragszeiten
 
 (1) Für glaubhaft gemachte Pflichtbeitragszeiten nach dem 31. Dezember
@@ -15103,7 +14512,6 @@ Verdienst nach Anlage 16 zu berücksichtigen.
 (5) Die Absätze 1 bis 4 sind für selbständig Tätige entsprechend
 anzuwenden.
 
-
 ##### § 256c Entgeltpunkte für nachgewiesene Beitragszeiten ohne Beitragsbemessungsgrundlage
 
 (1) Für Zeiten vor dem 1. Januar 1991, für die eine
@@ -15154,10 +14562,7 @@ Zusatzrentenversicherung nicht gezahlt werden konnten.
 (5) Die Absätze 1 bis 4 sind für selbständig Tätige entsprechend
 anzuwenden.
 
-
 ##### § 256d (weggefallen)
-
-
 
 ##### § 257 Entgeltpunkte für Berliner Beitragszeiten
 
@@ -15196,7 +14601,6 @@ beträgt
 (2) Für Zeiten, für die freiwillige Beiträge oder Beiträge nach
 Beitragsklassen gezahlt worden sind, werden die Entgeltpunkte der
 Anlage 5 zugrunde gelegt.
-
 
 ##### § 258 Entgeltpunkte für saarländische Beitragszeiten
 
@@ -15243,7 +14647,6 @@ höher war als der Betrag, nach dem Beiträge gezahlt worden sind, wird
 als Beitragsbemessungsgrundlage das um 10 vom Hundert erhöhte
 nachgewiesene Arbeitsentgelt zugrunde gelegt.
 
-
 ##### § 259 Entgeltpunkte für Beitragszeiten mit Sachbezug
 
 Wird glaubhaft gemacht, dass Versicherte vor dem 1. Januar 1957
@@ -15259,7 +14662,6 @@ Lehrling oder Anlernling. Als Mittel der Glaubhaftmachung können auch
 Versicherungen an Eides statt zugelassen werden. Der Träger der
 Rentenversicherung ist für die Abnahme eidesstattlicher Versicherungen
 zuständig.
-
 
 ##### § 259a Besonderheiten für Versicherte der Geburtsjahrgänge vor 1937
 
@@ -15303,7 +14705,6 @@ werden fünf Sechstel der Entgeltpunkte zugrunde gelegt.
 (2) Absatz 1 gilt nicht für Zeiten, die von der Wirkung einer
 Beitragserstattung nach § 286d Abs. 2 nicht erfasst werden.
 
-
 ##### § 259b Besonderheiten bei Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem
 
 (1) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder
@@ -15319,11 +14720,9 @@ Zusatzrentenversicherung zurückgelegt worden sind, wenn diese Zeiten,
 hätte das Versorgungssystem bereits bestanden, im Versorgungssystem
 zurückgelegt worden wären.
 
-
 ##### § 259c
 
 (weggefallen)
-
 
 ##### § 260 Beitragsbemessungsgrenzen
 
@@ -15337,7 +14736,6 @@ dem 1. Januar 1984 liegende Arbeitsausfalltage nicht als
 Anrechnungszeiten zu berücksichtigen, werden diese Arbeitsausfalltage
 bei der Bestimmung der Beitragsbemessungsgrenze als Beitragszeiten
 berücksichtigt.
-
 
 ##### § 261 Beitragszeiten ohne Entgeltpunkte
 
@@ -15354,10 +14752,6 @@ Entgeltpunkte werden nicht ermittelt für
     soweit für dieselbe Zeit und Beschäftigung auch Pflichtbeiträge zur
     knappschaftlichen Pensionsversicherung der Arbeiter oder der
     Angestellten gezahlt worden sind.
-
-
-
-
 
 ##### § 262 Mindestentgeltpunkte bei geringem Arbeitsentgelt
 
@@ -15379,7 +14773,6 @@ Teilen zugeordnet; dabei werden Kalendermonaten mit Entgeltpunkten
 (3) Bei Anwendung der Absätze 1 und 2 gelten Pflichtbeiträge für
 Zeiten, in denen eine Rente aus eigener Versicherung bezogen worden
 ist, nicht als vollwertige Pflichtbeiträge.
-
 
 ##### § 263 Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten
 
@@ -15858,7 +15251,6 @@ höchstens fünf Sechstel der im Rahmen der Gesamtleistungsbewertung
 ermittelten Entgeltpunkte zu berücksichtigen. Dies gilt auch für die
 in den Absätzen 5 und 6 genannten Zeiten.
 
-
 ##### § 263a Gesamtleistungsbewertung für beitragsfreie und beitragsgeminderte Zeiten mit Entgeltpunkten (Ost)
 
 Nach der Gesamtleistungsbewertung ermittelte Entgeltpunkte für
@@ -15869,7 +15261,6 @@ Gesamtleistungswerts zugrunde gelegten Entgeltpunkte (Ost) zu allen
 zugrunde gelegten Entgeltpunkten stehen. Dabei ist für Entgeltpunkte
 für Berücksichtigungszeiten § 254d entsprechend anzuwenden.
 
-
 ##### § 264 Zuschläge oder Abschläge beim Versorgungsausgleich
 
 Sind für Rentenanwartschaften Werteinheiten ermittelt worden, ergeben
@@ -15879,7 +15270,6 @@ Bemessungsgrundlage der knappschaftlichen Rentenversicherung für das
 Jahr 1991 zu vervielfältigen und durch die allgemeine
 Bemessungsgrundlage der Rentenversicherung der Arbeiter und der
 Angestellten für dasselbe Jahr zu teilen.
-
 
 ##### § 264a Zuschläge oder Abschläge beim Versorgungsausgleich im Beitrittsgebiet
 
@@ -15899,7 +15289,6 @@ Lebenspartnerschaftszeit geteilt wird.
 (3) Die Entgeltpunkte (Ost) treten bei der Anwendung der Vorschriften
 über den Versorgungsausgleich an die Stelle von Entgeltpunkten.
 
-
 ##### § 264b Zuschläge an Entgeltpunkten für Arbeitsentgelt aus geringfügiger versicherungsfreier Beschäftigung
 
 Für Arbeitsentgelt aus geringfügiger Beschäftigung, in der
@@ -15911,7 +15300,6 @@ Arbeitsentgelt aus einer vor dem 1. Januar 2013 ausgeübten
 geringfügigen versicherungsfreien Beschäftigung getragen hat. Für die
 Ermittlung der Zuschläge an Entgeltpunkten nach Satz 1 und 2 gilt §
 76b Absatz 2 bis 4 entsprechend.
-
 
 ##### § 264c Zuschlag bei Hinterbliebenenrenten
 
@@ -15927,7 +15315,6 @@ Zuschlag an persönlichen Entgeltpunkten, wenn der Ehegatte vor dem 1.
 Januar 2002 verstorben ist oder die Ehe vor diesem Zeitpunkt
 geschlossen wurde und mindestens ein Ehegatte vor dem 2. Januar 1962
 geboren ist.
-
 
 ##### § 264d Zugangsfaktor
 
@@ -16187,7 +15574,6 @@ Lebensalter maßgebend:
 § 77 Abs. 4 ist mit der Maßgabe anzuwenden, dass an die Stelle von 40
 Jahren 35 Jahre treten.
 
-
 ##### § 265 Knappschaftliche Besonderheiten
 
 (1) Für Beiträge zur knappschaftlichen Rentenversicherung, die für
@@ -16400,7 +15786,6 @@ angegebenen Lebensalters maßgebend:
 § 86a ist mit der Maßgabe anzuwenden, dass an die Stelle von 40 Jahren
 35 Jahre treten.
 
-
 ##### § 265a Knappschaftliche Besonderheiten bei rentenrechtlichen Zeiten im Beitrittsgebiet
 
 Entgeltpunkte aus dem Leistungszuschlag werden in dem Verhältnis als
@@ -16409,15 +15794,11 @@ ständigen Arbeiten unter Tage, die gleichzeitig Beitragszeiten mit
 Entgeltpunkten (Ost) sind, zu allen Kalendermonaten mit ständigen
 Arbeiten unter Tage stehen.
 
-
 ##### § 265b
 
 (weggefallen)
 
-
 #### Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen
-
-
 
 ##### § 266 Erhöhung des Grenzbetrags
 
@@ -16429,24 +15810,19 @@ mindestens der sich nach den §§ 311 und 312 ergebende, um die Beträge
 nach § 93 Abs. 2 Nr. 1 Buchstabe b und Nr. 2 Buchstabe a geminderte
 Betrag.
 
-
 ##### § 267 Rente und Leistungen aus der Unfallversicherung
 
 Bei der Ermittlung der Summe der zusammentreffenden Rentenbeträge
 bleibt bei der Rente aus der Unfallversicherung auch die Kinderzulage
 unberücksichtigt.
 
-
 #### Siebter Unterabschnitt - Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten und Änderung von Renten beim Versorgungsausgleich
-
-
 
 ##### § 268 Beginn von Witwenrenten und Witwerrenten an vor dem 1. Juli 1977 geschiedene Ehegatten
 
 Witwenrenten und Witwerrenten aus der Rentenanwartschaft eines vor dem
 1\. Juli 1977 geschiedenen Ehegatten werden vom Ablauf des
 Kalendermonats an geleistet, in dem die Rente beantragt wird.
-
 
 ##### § 268a Änderung von Renten beim Versorgungsausgleich
 
@@ -16461,10 +15837,7 @@ weiterhin anzuwenden, wenn vor dem 1. September 2009 das Verfahren
 über den Versorgungsausgleich eingeleitet worden ist und die auf Grund
 des Versorgungsausgleichs zu kürzende Rente begonnen hat.
 
-
 #### Achter Unterabschnitt - Zusatzleistungen
-
-
 
 ##### § 269 Steigerungsbeträge
 
@@ -16537,7 +15910,6 @@ Steigerungsbeträge aus Beiträgen der Höherversicherung aufgeteilt.
 Berechtigten abgefunden, werden auch die hierzu gezahlten
 Steigerungsbeträge aus Beiträgen der Höherversicherung abgefunden.
 
-
 ##### § 269a Zuschuss zur Krankenversicherung
 
 (1) § 106 Abs. 2 und 3 ist für das Jahr 2004 mit der Maßgabe
@@ -16561,7 +15933,6 @@ Maßgabe anzuwenden, dass der zum 1. März 2005 festgestellte
 durchschnittliche allgemeine Beitragssatz der Krankenkassen um 0,9
 Beitragssatzpunkte zu vermindern ist.
 
-
 ##### § 269b Rentenabfindung bei Wiederheirat von Witwen und Witwern
 
 Die Rentenabfindung bei Wiederheirat von Witwen und Witwern erfolgt
@@ -16570,7 +15941,6 @@ kleinen Witwerrente, wenn der vorletzte Ehegatte vor dem 1. Januar
 2002 verstorben ist. Dies gilt auch, wenn mindestens ein Ehegatte in
 der vorletzten Ehe vor dem 2. Januar 1962 geboren ist und diese Ehe
 vor dem 1. Januar 2002 geschlossen wurde.
-
 
 ##### § 270 Kinderzuschuss
 
@@ -16625,15 +15995,11 @@ Höchstbetrag nicht übersteigen.
 (3) Bei mehreren Berechtigten wird der Kinderzuschuss für ein Kind nur
 dem geleistet, der das Kind überwiegend unterhält.
 
-
 ##### § 270a
 
 (weggefallen)
 
-
 #### Neunter Unterabschnitt - Leistungen an Berechtigte im Ausland und Auszahlung
-
-
 
 ##### § 270b Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit
 
@@ -16641,7 +16007,6 @@ Berechtigte erhalten eine Rente wegen teilweiser Erwerbsminderung bei
 Berufsunfähigkeit (§ 240) nur, wenn sie auf diese Rente bereits für
 die Zeit, in der sie ihren gewöhnlichen Aufenthalt noch im Inland
 gehabt haben, einen Anspruch hatten.
-
 
 ##### § 271 Höhe der Rente
 
@@ -16661,7 +16026,6 @@ dem 9. Mai 1945 geltenden Reichsversicherungsgesetzen
 gezahlt worden sind. Kindererziehungszeiten sind Bundesgebiets-
 Beitragszeiten, wenn die Erziehung des Kindes im Gebiet der
 Bundesrepublik Deutschland erfolgt ist.
-
 
 ##### § 272 Besonderheiten
 
@@ -16712,7 +16076,6 @@ Versorgungsausgleich oder Rentensplitting und für den Zuschlag bei
 einer Waisenrente sind Reichsgebiets-Beitragszeiten wie Beitragszeiten
 nach dem Fremdrentengesetz zu berücksichtigen.
 
-
 ##### § 272a Fälligkeit und Auszahlung laufender Geldleistungen bei Beginn vor dem 1. April 2004
 
 (1) Bei Beginn laufender Geldleistungen mit Ausnahme des
@@ -16730,14 +16093,9 @@ Versicherten zu zahlen sind, wenn aus einem Versicherungskonto bei
 ununterbrochen anerkannten Rentenansprüchen der erstmalige
 Rentenbeginn vor dem 1. April 2004 liegt.
 
-
 #### Zehnter Unterabschnitt - Organisation, Datenverarbeitung und Datenschutz
 
-
-
 ##### Erster Titel - Organisation
-
-
 
 ###### § 273 Zuständigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
@@ -16796,7 +16154,6 @@ gehören, für den die Deutsche Rentenversicherung Knappschaft-Bahn-See
 nach § 129 Abs. 1 zuständig ist, bleibt die Deutsche
 Rentenversicherung Knappschaft-Bahn-See zuständig.
 
-
 ###### § 273a Zuständigkeit in Zweifelsfällen
 
 Ob im Beitrittsgebiet ein Betrieb knappschaftlich ist, einem
@@ -16807,15 +16164,11 @@ knappschaftlichen Betrieben, die denen in knappschaftlichen Betrieben
 gleichgestellt sind, gegeben ist, entscheidet in Zweifelsfällen das
 Bundesversicherungsamt.
 
-
 ###### § 273b
 
 (weggefallen)
 
-
 ##### Zweiter Titel - Datenverarbeitung und Datenschutz
-
-
 
 ###### § 274 Dateien bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971
 
@@ -16859,23 +16212,15 @@ Träger der Rentenversicherung folgende Daten gespeichert:
 
 6.  das Ergebnis der Überprüfung einer Bescheinigung E 101.
 
-
-
-
-
 ###### § 274a
 
 (weggefallen)
-
 
 ###### § 274b
 
 (weggefallen)
 
-
 ##### Dritter Titel - Übergangsvorschriften zur Zuständigkeit der Rentenversicherungsträger
-
-
 
 ###### § 274c Ausgleichsverfahren
 
@@ -16953,7 +16298,6 @@ zur Stabilisierung der Arbeitsmengen zwischen den Trägern der
 Rentenversicherung besteht und beschließt die erforderlichen
 Maßnahmen.
 
-
 ###### § 274d Zuständigkeit der Träger der Rentenversicherung bis zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See
 
 (1) Bis zum 30. September 2005 tritt an die Stelle der Deutschen
@@ -16986,26 +16330,15 @@ Rentenversicherung Knappschaft-Bahn-See
 
 4.  die Seekasse in § 129 Abs. 1 Nr. 5 und 6, Abs. 2 sowie in § 130.
 
-
-
-
-
 #### Elfter Unterabschnitt - Finanzierung
 
-
-
 ##### Erster Titel - (weggefallen)
-
-
 
 ###### § 275
 
 (weggefallen)
 
-
 ##### Zweiter Titel - Beiträge
-
-
 
 ###### § 275a Beitragsbemessungsgrenzen im Beitrittsgebiet
 
@@ -17020,17 +16353,13 @@ Beitragsbemessungsgrenzen errechnet wurden. Die
 Beitragsbemessungsgrenzen (Ost) sind für das Jahr, für das sie
 bestimmt werden, auf das nächsthöhere Vielfache von 600 aufzurunden.
 
-
 ###### § 275b Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die Beitragsbemessungsgrenzen in Ergänzung
 der Anlage 2a festzusetzen.
 
-
 ###### § 275c (weggefallen)
-
-
 
 ###### § 276 Beitragspflichtige Einnahmen sonstiger Versicherter
 
@@ -17044,7 +16373,6 @@ Krankengeld sind in der Zeit vom 1. Januar 1992 bis zum 31. Dezember
 1994 70 vom Hundert des zuletzt für einen vollen Kalendermonat
 versicherten Arbeitsentgelts oder Arbeitseinkommens als
 beitragspflichtige Einnahmen zugrunde zu legen.
-
 
 ###### § 276a Arbeitgeberanteil bei Versicherungsfreiheit
 
@@ -17063,7 +16391,6 @@ Beschäftigten versicherungspflichtig wären.
 des Dritten Abschnitts des Vierten Buches sowie die
 Bußgeldvorschriften des § 111 Absatz 1 Nummer 2 bis 4, 8 und Absatz 2
 und 4 des Vierten Buches entsprechend.
-
 
 ###### § 276b Gleitzone
 
@@ -17090,11 +16417,9 @@ Arbeitnehmer die Anwendung der Gleitzonenregelung schriftlich
 gegenüber dem Arbeitgeber erklärt. Eine Erklärung nach Satz 1 ist nur
 bis zum 31. Dezember 2014 und mit Wirkung für die Zukunft möglich.
 
-
 ###### § 276c (weggefallen)
 
 -
-
 
 ###### § 277 Beitragsrecht bei Nachversicherung
 
@@ -17109,7 +16434,6 @@ Aufwendungen aus der Nachversicherung vorgesehen ist. Eine erteilte
 Aufschubbescheinigung bleibt wirksam, es sei denn, dass nach den vom
 1\. Januar 1992 an geltenden Vorschriften Gründe für einen Aufschub der
 Beitragszahlung nicht mehr gegeben sind.
-
 
 ###### § 277a Durchführung der Nachversicherung im Beitrittsgebiet
 
@@ -17168,7 +16492,6 @@ mit den entsprechenden Werten der Anlage 10 und mit dem Verhältniswert
 zu vervielfältigen, in dem im Zeitpunkt der Zahlung die Bezugsgröße
 (Ost) zur Bezugsgröße steht. § 181 Abs. 4 bleibt unberührt.
 
-
 ###### § 278 Mindestbeitragsbemessungsgrundlage für die Nachversicherung
 
 (1) Mindestbeitragsbemessungsgrundlage ist für Zeiten
@@ -17203,7 +16526,6 @@ zu vervielfältigen, in dem im Zeitpunkt der Zahlung die Bezugsgröße
 Teilzeitbeschäftigung ist der Teil des sich aus Absatz 1 ergebenden
 Betrages, der dem Verhältnis der ermäßigten zur regelmäßigen
 Arbeitszeit entspricht.
-
 
 ###### § 278a Mindestbeitragsbemessungsgrundlage für die Nachversicherung im Beitrittsgebiet
 
@@ -17252,7 +16574,6 @@ Teilzeitbeschäftigung ist der Teil des sich aus Absatz 1 ergebenden
 Betrages, der dem Verhältnis der ermäßigten zur regelmäßigen
 Arbeitszeit entspricht.
 
-
 ###### § 279 Beitragspflichtige Einnahmen bei Hebammen und Handwerkern
 
 (1) Beitragspflichtige Einnahmen bei selbständig tätigen Hebammen mit
@@ -17279,12 +16600,10 @@ Einnahmen für Alleinhandwerker, die auch die Voraussetzungen von Satz
 in den Sätzen 1 bis 3 sind nur anzuwenden, wenn dies bis zum 30. Juni
 1992 beantragt wird.
 
-
 ###### § 279a Beitragspflichtige Einnahmen mitarbeitender Ehegatten im Beitrittsgebiet
 
 Beitragspflichtige Einnahmen bei im Beitrittsgebiet mitarbeitenden
 Ehegatten sind die Einnahmen aus der Tätigkeit.
-
 
 ###### § 279b Beitragsbemessungsgrundlage für freiwillig Versicherte
 
@@ -17292,7 +16611,6 @@ Für freiwillig Versicherte, die ihren gewöhnlichen Aufenthalt im
 Beitrittsgebiet haben, ist Beitragsbemessungsgrundlage ein Betrag von
 der Mindestbemessungsgrundlage (§ 167) bis zur
 Beitragsbemessungsgrenze. § 228a gilt nicht.
-
 
 ###### § 279c Beitragstragung im Beitrittsgebiet
 
@@ -17303,21 +16621,15 @@ getragen.
 (2) Die Beiträge werden bei mitarbeitenden Ehegatten von diesen und
 den selbständig Tätigen je zur Hälfte getragen.
 
-
 ###### § 279d Beitragszahlung im Beitrittsgebiet
 
 Für die Zahlung der Beiträge von mitarbeitenden Ehegatten gelten die
 Vorschriften über den Gesamtsozialversicherungsbeitrag. Für die
 Beitragszahlung gelten die selbständig Tätigen als Arbeitgeber.
 
-
 ###### § 279e (weggefallen)
 
-
-
 ###### § 279f (weggefallen)
-
-
 
 ###### § 279g Sonderregelungen bei Altersteilzeitbeschäftigten
 
@@ -17327,12 +16639,10 @@ mit der Altersteilzeitarbeit vor dem 1. Juli 2004 begonnen wurde (§
 15g des Altersteilzeitgesetzes), sind § 163 Abs. 5 und § 168 Abs. 1
 Nr. 6 und 7 in der bis zum 30. Juni 2004 geltenden Fassung anzuwenden.
 
-
 ###### § 280 Höherversicherung für Zeiten vor 1998
 
 Beiträge für Zeiten vor 1998 sind zur Höherversicherung gezahlt, wenn
 sie als solche bezeichnet sind.
-
 
 ###### § 281 Nachversicherung
 
@@ -17344,7 +16654,6 @@ nicht erstattet. Sie gelten als Beiträge zur Höherversicherung.
 Rahmen der Nachversicherung nachzuentrichten waren und noch nicht
 nachentrichtet sind, gelten sie erst mit der Zahlung im Sinne des §
 181 Abs. 1 Satz 2 als rechtzeitig entrichtete Pflichtbeiträge.
-
 
 ###### § 281a Zahlung von Beiträgen im Rahmen des Versorgungsausgleichs im Beitrittsgebiet
 
@@ -17387,7 +16696,6 @@ zu erzielen.
 (4) § 187 Abs. 4, 5 und 7 gilt auch für die Zahlung von Beiträgen im
 Rahmen des Versorgungsausgleichs im Beitrittsgebiet.
 
-
 ###### § 281b Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -17397,10 +16705,7 @@ Nachversicherung eine Erstattung der Aufwendungen aus der
 Nachversicherung vorgesehen ist (§ 277), das Nähere über die
 Berechnung und Durchführung der Erstattung zu regeln.
 
-
 ##### Dritter Titel - Verfahren
-
-
 
 ###### § 281c Meldepflichten im Beitrittsgebiet
 
@@ -17408,7 +16713,6 @@ Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches haben für im
 Beitrittsgebiet mitarbeitende Ehegatten die selbständig Tätigen zu
 erstatten. § 28a Abs. 5 sowie die §§ 28b und 28c des Vierten Buches
 gelten entsprechend.
-
 
 ###### § 282 Nachzahlung nach Erreichen der Regelaltersgrenze
 
@@ -17449,10 +16753,7 @@ Erfüllung der allgemeinen Wartezeit noch erforderlich sind. Beiträge
 können nur für Zeiten nachgezahlt werden, die noch nicht mit Beiträgen
 belegt sind.
 
-
 ###### § 283 (weggefallen)
-
-
 
 ###### § 284 Nachzahlung für Vertriebene, Flüchtlinge und Evakuierte
 
@@ -17476,11 +16777,9 @@ aber bis zum 1. Januar 1924 zurück, nachzahlen, sofern diese Zeiten
 nicht bereits mit Beiträgen belegt sind. Nach bindender Bewilligung
 einer Vollrente wegen Alters ist eine Nachzahlung nicht zulässig.
 
-
 ###### § 284a
 
 (weggefallen)
-
 
 ###### § 285 Nachzahlung bei Nachversicherung
 
@@ -17494,7 +16793,6 @@ der Voraussetzungen für den Bezug einer Rente innerhalb der
 Antragsfrist steht der Nachzahlung nicht entgegen. Die Beiträge sind
 spätestens sechs Monate nach Eintritt der Bindungswirkung des
 Nachzahlungsbescheides nachzuzahlen.
-
 
 ###### § 286 Versicherungskarten
 
@@ -17559,7 +16857,6 @@ bedarf.
 (7) Die Absätze 1 bis 3 gelten entsprechend für den Nachweis der
 Seefahrtzeiten und Durchschnittsheuern der Seeleute.
 
-
 ###### § 286a Glaubhaftmachung der Beitragszahlung und Aufteilung von Beiträgen
 
 (1) Fehlen für Zeiten vor dem 1. Januar 1950 die
@@ -17618,7 +16915,6 @@ geendet hat. Für die knappschaftliche Rentenversicherung wird als
 Beginn der Versicherung die satzungsmäßige Mindestaltersgrenze
 vermutet.
 
-
 ###### § 286b Glaubhaftmachung der Beitragszahlung im Beitrittsgebiet
 
 Machen Versicherte glaubhaft, dass sie im Beitrittsgebiet in der Zeit
@@ -17633,7 +16929,6 @@ Versicherungen an Eides statt zugelassen werden. Der Träger der
 Rentenversicherung ist für die Abnahme eidesstattlicher Versicherungen
 zuständig.
 
-
 ###### § 286c Vermutung der Beitragszahlung im Beitrittsgebiet
 
 Sind in den Versicherungsunterlagen des Beitrittsgebiets für Zeiten
@@ -17645,7 +16940,6 @@ worden sind. Satz 1 gilt nicht für Zeiten, in denen eine Rente aus der
 Rentenversicherung oder eine Versorgung bezogen wurde, die nach den
 bis zum 31. Dezember 1991 im Beitrittsgebiet geltenden Vorschriften
 zur Versicherungs- oder Beitragsfreiheit führte.
-
 
 ###### § 286d Beitragserstattung
 
@@ -17672,7 +16966,6 @@ nicht, wenn am 10. August 2010 aufgrund des § 232 Absatz 1 Satz 2
 Nummer 2 in der bis zum 10. August 2010 geltenden Fassung das Recht
 zur freiwilligen Versicherung bestand.
 
-
 ###### § 286e Ausweis für Arbeit und Sozialversicherung
 
 Versicherte, die für die Durchführung der Versicherung sowie für die
@@ -17693,19 +16986,13 @@ Arbeit und Sozialversicherung nachweisen können, sind berechtigt,
 Satz 1 gilt entsprechend für Beweismittel im Sinne des § 29 Abs. 4 des
 Zehnten Buches.
 
-
 ##### Vierter Titel - Berechnungsgrundlagen
 
-
-
 ###### § 287 (weggefallen)
-
-
 
 ###### § 287a
 
 (weggefallen)
-
 
 ###### § 287b Ausgaben für Leistungen zur Teilhabe
 
@@ -17729,11 +17016,9 @@ abgesetzt. Bei der Festsetzung der Ausgaben für Leistungen zur
 Teilhabe (§ 220 Abs. 1) für das Jahr 2000 ist der nach den Sätzen 1
 bis 3 für das Jahr 1999 maßgebende Betrag zugrunde zu legen.
 
-
 ###### § 287c
 
 (weggefallen)
-
 
 ###### § 287d Erstattungen in besonderen Fällen
 
@@ -17754,10 +17039,6 @@ anzuwenden.
 
 
 2.  das Schadensereignis nach dem 30. Juni 1983 eingetreten ist.
-
-
-
-
 
 ###### § 287e Veränderung des Bundeszuschusses im Beitrittsgebiet
 
@@ -17780,7 +17061,6 @@ Beitrittsgebiet ist auf die Träger der allgemeinen Rentenversicherung
 im Beitrittsgebiet entsprechend ihrem jeweiligen Verhältnis an den
 Beitragseinnahmen buchhalterisch aufzuteilen.
 
-
 ###### § 287f Getrennte Abrechnung
 
 Bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der
@@ -17788,15 +17068,11 @@ Bundesrepublik Deutschland erfolgt die Abrechnung und die Verteilung
 nach § 227 Abs. 1 und 1a für die Bundesrepublik Deutschland ohne das
 Beitrittsgebiet und für das Beitrittsgebiet getrennt.
 
-
 ###### § 288
 
 (weggefallen)
 
-
 ##### Fünfter Titel - Erstattungen
-
-
 
 ###### § 289 Wanderversicherungsausgleich
 
@@ -17821,7 +17097,6 @@ Krankenversicherung sowie für die Zuschüsse zur Krankenversicherung.
 (4) Bei der Anwendung der Anrechnungsvorschriften gilt § 223 Abs. 5
 entsprechend.
 
-
 ###### § 289a Besonderheiten beim Wanderversicherungsausgleich
 
 Wurde der letzte Beitrag bis zum 31. Dezember 1991 im Beitrittsgebiet
@@ -17832,7 +17107,6 @@ nicht auf Zeiten in der knappschaftlichen Rentenversicherung entfällt.
 Dabei kann auch eine pauschale Erstattung vorgesehen werden. Die
 jährliche Abrechnung führt die Deutsche Rentenversicherung Bund
 entsprechend § 227 durch.
-
 
 ###### § 290 Erstattung durch den Träger der Versorgungslast
 
@@ -17851,10 +17125,6 @@ Versorgungslast
     Begründung von Rentenanwartschaften durch eine Übertragung von
     Rentenanwartschaften ersetzt worden ist.
 
-
-
-
-
 ###### § 290a Erstattung durch den Träger der Versorgungslast im Beitrittsgebiet
 
 Bei Renten, die nach den Vorschriften des Beitrittsgebiets berechnet
@@ -17864,7 +17134,6 @@ Vorschriften dieses Buches berechnet werden, eine Nachversicherung als
 durchgeführt gilt, pauschal vom Bund und sonstigen Trägern der
 Versorgungslast erstattet.
 
-
 ###### § 291 Erstattung für Kinderzuschüsse
 
 Die Träger der Rentenversicherung erhalten aus dem Bundeshaushalt des
@@ -17872,7 +17141,6 @@ Jahres 2007 eine abschließende Einmalzahlung in Höhe von 1,1 Millionen
 Euro, mit der die Aufwendungen pauschal abgefunden werden, die ihnen
 ab dem 1. Januar 2007 für Kinderzuschüsse zu Renten nach § 270
 entstehen.
-
 
 ###### § 291a Erstattung von Invalidenrenten und Aufwendungen für Pflichtbeitragszeiten bei Erwerbsunfähigkeit
 
@@ -17885,17 +17153,14 @@ Zeit vom 1. Juli 1975 bis zum 31. Dezember 1991.
 Aufwendungen für die Zahlung von Invalidenrenten für behinderte
 Menschen.
 
-
 ###### § 291b Erstattung nicht beitragsgedeckter Leistungen
 
 Der Bund erstattet den Trägern der allgemeinen Rentenversicherung die
 Aufwendungen für Leistungen nach dem Fremdrentenrecht.
 
-
 ###### § 291c (weggefallen)
 
 -
-
 
 ###### § 292 Verordnungsermächtigung
 
@@ -17917,7 +17182,6 @@ vorgesehen werden kann.
 
 (4) (weggefallen)
 
-
 ###### § 292a Verordnungsermächtigung für das Beitrittsgebiet
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im
@@ -17928,10 +17192,7 @@ unter Berücksichtigung der besonderen Verhältnisse im Beitrittsgebiet
 zu bestimmen. Das Bundesversicherungsamt führt die Abrechnung mit den
 Trägern der gesetzlichen Rentenversicherung durch.
 
-
 ##### Sechster Titel - Vermögensanlagen
-
-
 
 ###### § 293 Vermögensanlagen
 
@@ -17999,10 +17260,7 @@ Träger der knappschaftlichen Rentenversicherung vorgenommen werden,
 bedürfen der Einwilligung des Bundesministeriums für Arbeit und
 Soziales.
 
-
 #### Zwölfter Unterabschnitt - Leistungen für Kindererziehung an Mütter der Geburtsjahrgänge vor 1921
-
-
 
 ##### § 294 Anspruchsvoraussetzungen
 
@@ -18066,7 +17324,6 @@ erhält eine Leistung für Kindererziehung nur, wenn sie zu den in den
 nationalsozialistischen Unrechts in der Sozialversicherung genannten
 Personen gehört.
 
-
 ##### § 294a Besonderheiten für das Beitrittsgebiet
 
 Hatte eine Mutter am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im
@@ -18078,12 +17335,10 @@ Leistung für Kindererziehung bei Erfüllung der sonstigen
 Voraussetzungen auch, wenn die Mutter vor dem 1. Januar 1927 geboren
 ist.
 
-
 ##### § 295 Höhe der Leistung
 
 Monatliche Höhe der Leistung für Kindererziehung ist der jeweils für
 die Berechnung von Renten maßgebende aktuelle Rentenwert.
-
 
 ##### § 295a Höhe der Leistung im Beitrittsgebiet
 
@@ -18099,10 +17354,6 @@ ihren gewöhnlichen Aufenthalt am 18. Mai 1990 entweder
     ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland
     ohne das Beitrittsgebiet hatten.
 
-
-
-
-
 ##### § 296 Beginn und Ende
 
 (1) Eine Leistung für Kindererziehung wird von dem Kalendermonat an
@@ -18117,11 +17368,9 @@ Kalendermonat, zu dessen Beginn der Wegfall wirksam ist.
 (4) Die Leistung wird bis zum Ende des Kalendermonats gezahlt, in dem
 die Berechtigte gestorben ist.
 
-
 ##### § 296a
 
 (weggefallen)
-
 
 ##### § 297 Zuständigkeit
 
@@ -18144,7 +17393,6 @@ Zuständigkeit nach Absatz 1 maßgebend ist.
 (3) In den Fällen des § 104 Abs. 1 Satz 4 des Zehnten Buches ist der
 Zahlungsempfänger verpflichtet, die Leistung für Kindererziehung an
 die Mutter weiterzuleiten.
-
 
 ##### § 298 Durchführung
 
@@ -18182,7 +17430,6 @@ führen. Eine Glaubhaftmachung dieser Tatsachen genügt, wenn die Mutter
 Als Mittel der Glaubhaftmachung können auch Versicherungen an Eides
 statt zugelassen werden.
 
-
 ##### § 299 Anrechnungsfreiheit
 
 Die Leistung für Kindererziehung bleibt als Einkommen
@@ -18194,14 +17441,9 @@ Rechtsvorschriften beruhende Leistungen anderer, auf die ein Anspruch
 nicht besteht, dürfen nicht deshalb versagt werden, weil die Leistung
 für Kindererziehung bezogen wird.
 
-
 ### Zweiter Abschnitt - Ausnahmen von der Anwendung neuen Rechts
 
-
-
 #### Erster Unterabschnitt - Grundsatz
-
-
 
 ##### § 300 Grundsatz
 
@@ -18238,10 +17480,7 @@ Begriffe.
 (5) Die Absätze 1 bis 4 gelten nicht, soweit in den folgenden
 Vorschriften etwas anderes bestimmt ist.
 
-
 #### Zweiter Unterabschnitt - Leistungen zur Teilhabe
-
-
 
 ##### § 301 Leistungen zur Teilhabe
 
@@ -18267,7 +17506,6 @@ berufsunfähig sind und bei denen voraussichtlich durch die Leistungen
 die Erwerbsfähigkeit wesentlich gebessert oder wiederhergestellt
 werden kann.
 
-
 ##### § 301a Einmalzahlungs-Neuregelungsgesetz
 
 (1) Für die Ermittlung der Berechnungsgrundlage für Ansprüche auf
@@ -18286,10 +17524,7 @@ die Ansprüche auf Übergangsgeld, die vor dem 22. Juni 2000
 unanfechtbar geworden sind, sind nicht nach § 44 Abs. 1 des Zehnten
 Buches zurückzunehmen.
 
-
 #### Dritter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten
-
-
 
 ##### § 302 Anspruch auf Altersrente in Sonderfällen
 
@@ -18328,7 +17563,6 @@ der Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum
 30\. September 2015 weiterhin nicht als Hinzuverdienst, soweit kein
 konkreter Verdienstausfall ersetzt wird.
 
-
 ##### § 302a Renten wegen verminderter Erwerbsfähigkeit und Bergmannsvollrenten
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine nach den
@@ -18366,7 +17600,6 @@ Versorgungsträger, der die Leistung vor der Überführung gezahlt hat.
 eine Bergmannsvollrente aus dem Beitrittsgebiet, wird diese Rente vom
 1\. Januar 1992 an als Rente für Bergleute geleistet.
 
-
 ##### § 302b Renten wegen verminderter Erwerbsfähigkeit
 
 (1) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen
@@ -18386,7 +17619,6 @@ Angestelltenversicherungs-Neuregelungsgesetzes ohne Neuberechnung nach
 diesen Gesetzen umgestellt ist (Umstellungsrente), gilt bis zum
 Erreichen der Regelaltersgrenze als Rente wegen Erwerbsunfähigkeit.
 
-
 ##### § 303 Witwerrente
 
 Ist eine Versicherte vor dem 1. Januar 1986 gestorben oder haben die
@@ -18400,7 +17632,6 @@ auch auf vor dem 1. Juli 1977 geschiedene Ehegatten Anwendung, wenn
 die Verstorbene den Unterhalt des geschiedenen Ehemannes im letzten
 wirtschaftlichen Dauerzustand vor dem Tod überwiegend bestritten hat.
 
-
 ##### § 303a Große Witwenrente und große Witwerrente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit
 
 Bestand am 31. Dezember 2000 Anspruch auf große Witwenrente oder große
@@ -18409,14 +17640,12 @@ der Anspruch weiter, solange die Voraussetzungen vorliegen, die für
 die Bewilligung der Leistung maßgebend waren. Bei befristeten Renten
 gilt dies auch für einen Anspruch nach Ablauf der Frist.
 
-
 ##### § 304 Waisenrente
 
 Bestand am 31. Dezember 1991 Anspruch auf Waisenrente für eine Person
 über deren 25. Lebensjahr hinaus, weil sie infolge körperlicher oder
 geistiger Gebrechen außerstande ist, sich selbst zu unterhalten,
 besteht der Anspruch weiter, solange dieser Zustand andauert.
-
 
 ##### § 305 Wartezeit und sonstige zeitliche Voraussetzungen
 
@@ -18427,10 +17656,7 @@ sonstige zeitliche Voraussetzung in Kraft sind, gilt die Wartezeit
 oder die sonstige zeitliche Voraussetzung auch dann als erfüllt, wenn
 dies nach der Rechtsänderung nicht mehr der Fall ist.
 
-
 #### Vierter Unterabschnitt - Rentenhöhe
-
-
 
 ##### § 306 Grundsatz
 
@@ -18452,7 +17678,6 @@ auf die Höhe der Versichertenrente gekürzt war, ist die Kürzung
 aufzuheben, wenn der Anspruch eines Hinterbliebenen wegfällt.
 
 (4) (weggefallen)
-
 
 ##### § 307 Umwertung in persönliche Entgeltpunkte
 
@@ -18498,7 +17723,6 @@ bei einer Umwertung des bisherigen Rentenbetrags ergeben würden.
 an als Regelaltersrente geleistet werden, sind auf Antrag neu zu
 berechnen, wenn nach Eintritt der Minderung der Erwerbsfähigkeit
 Beitragszeiten zurückgelegt sind.
-
 
 ##### § 307a Persönliche Entgeltpunkte aus Bestandsrenten des Beitrittsgebiets
 
@@ -18683,7 +17907,6 @@ des Beitrittsgebiets und findet auf den neuen Rentenbescheid dieses
 Buch Anwendung, gilt das neue Recht vom Zeitpunkt des Inkrafttretens
 an ohne Rücksicht auf die Bestandskraft des alten Bescheides.
 
-
 ##### § 307b Bestandsrenten aus überführten Renten des Beitrittsgebiets
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine nach dem Anspruchs-
@@ -18801,7 +18024,6 @@ festgestellt wird, dass in einer nach den Vorschriften des
 Beitrittsgebiets berechneten Bestandsrente Zeiten der Zugehörigkeit zu
 einem Zusatz- oder Sonderversorgungssystem berücksichtigt worden sind.
 
-
 ##### § 307c Durchführung der Neuberechnung von Bestandsrenten nach § 307b
 
 (1) Für die Neuberechnung von Bestandsrenten nach § 307b sind die
@@ -18845,11 +18067,9 @@ Rente den Monatsbetrag der zuletzt vor der Neuberechnung gezahlten
 Rente, wird dieser solange weitergezahlt, bis die neu berechnete Rente
 den weiterzuzahlenden Betrag erreicht.
 
-
 ##### § 307d
 
 (weggefallen)
-
 
 ##### § 308 Umstellungsrenten
 
@@ -18868,7 +18088,6 @@ Umstellungsrenten.
 werden zu gleichen Teilen lückenlos auf die Zeit vom Kalendermonat der
 Vollendung des 15. Lebensjahres bis zum Kalendermonat vor der
 Vollendung des 55. Lebensjahres der Versicherten verteilt.
-
 
 ##### § 309 Neufeststellung auf Antrag
 
@@ -18913,7 +18132,6 @@ ist.
 Januar 2001 nach den Vorschriften dieses Buches bereits neu
 festgestellt worden war.
 
-
 ##### § 310 Erneute Neufeststellung von Renten
 
 Ist eine Rente, die vor dem 1. Januar 2001 nach den Vorschriften
@@ -18925,7 +18143,6 @@ nicht, soweit die bisherigen persönlichen Entgeltpunkte auf einer
 rechtswidrigen Begünstigung beruhen oder eine wesentliche Änderung der
 tatsächlichen Verhältnisse zu Ungunsten des Rentenbeziehers
 eingetreten ist.
-
 
 ##### § 310a Neufeststellung von Renten mit Zeiten der Beschäftigung bei der Deutschen Reichsbahn oder bei der Deutschen Post
 
@@ -18939,7 +18156,6 @@ Abs. 2 in der am 1. Dezember 1998 geltenden Fassung anzuwenden.
 
 (2) Die Neufeststellung erfolgt für die Zeit ab Rentenbeginn,
 frühestens für die Zeit ab 1. Dezember 1998.
-
 
 ##### § 310b Neufeststellung von Renten mit überführten Zeiten nach dem Anspruchs- und Anwartschaftsüberführungsgesetz
 
@@ -18957,7 +18173,6 @@ Fremdrentengesetzes und § 307b in der am 1. Mai 1999 geltenden Fassung
 anzuwenden. Die Sätze 1 und 2 gelten auf Antrag entsprechend in den
 Fällen des § 4 Abs. 4 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes.
-
 
 ##### § 310c Neufeststellung von Renten wegen Beschäftigungszeiten während des Bezugs einer Invalidenrente
 
@@ -18978,10 +18193,7 @@ Entgeltpunkte auf einer rechtswidrigen Begünstigung beruhen oder eine
 wesentliche Änderung der tatsächlichen Verhältnisse zu Ungunsten des
 Rentenbeziehers eingetreten ist.
 
-
 #### Fünfter Unterabschnitt - Zusammentreffen von Renten und von Einkommen
-
-
 
 ##### § 311 Rente und Leistungen aus der Unfallversicherung
 
@@ -19115,7 +18327,6 @@ Unfallversicherung Anspruch auf eine Rente und auf eine Rente aus der
 Unfallversicherung, die für die Leistung der Rente nicht zu
 berücksichtigen war, verbleibt es für die Leistung dieser Rente dabei.
 
-
 ##### § 312 Mindestgrenzbetrag bei Versicherungsfällen vor dem 1. Januar 1979
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf eine Rente, die auf
@@ -19169,7 +18380,6 @@ zugrundeliegende persönliche Vomhundertsatz mit zwei Dritteln des
 aktuellen Rentenwerts vervielfältigt wird.
 
 (3) § 311 Abs. 5 Satz 2 und 3, Abs. 7 ist anzuwenden.
-
 
 ##### § 313 Hinzuverdienst bei Renten wegen verminderter Erwerbsfähigkeit
 
@@ -19279,7 +18489,6 @@ Sozialversicherungsträger, gilt die Aufwandsentschädigung bis zum 30.
 September 2015 weiterhin nicht als Hinzuverdienst, soweit kein
 konkreter Verdienstausfall ersetzt wird.
 
-
 ##### § 313a Renten wegen verminderter Erwerbsfähigkeit und Arbeitslosengeld
 
 Bestand am 31. Dezember 1998 Anspruch auf eine Rente wegen
@@ -19300,7 +18509,6 @@ erfolgt nicht, wenn das Arbeitslosengeld
 
 Die Sätze 1 und 2 sind nicht auf Arbeitslosengeld anzuwenden, auf das
 erst nach dem 31. Dezember 2000 ein Anspruch entsteht.
-
 
 ##### § 314 Einkommensanrechnung auf Renten wegen Todes
 
@@ -19323,7 +18531,6 @@ Einkommensanrechnung auf Renten wegen Todes ergibt.
 
 (3) bis (5) (weggefallen)
 
-
 ##### § 314a Einkommensanrechnung auf Renten wegen Todes aus dem Beitrittsgebiet
 
 (1) Bestand am 31. Dezember 1991 Anspruch auf Witwenrente oder
@@ -19345,7 +18552,6 @@ Voraussetzungen nicht erfüllt waren, werden vom 1. Januar 1992 an auf
 die Waisenrente die Vorschriften über die Einkommensanrechnung auf
 Renten wegen Todes angewendet.
 
-
 ##### § 314b Befristung der Rente wegen Berufsunfähigkeit oder Erwerbsunfähigkeit
 
 Bestand am 31. Dezember 2000 Anspruch auf eine befristete Rente wegen
@@ -19355,10 +18561,7 @@ abhängig, ist die Befristung zu wiederholen, es sei denn, die
 Versicherten vollenden innerhalb von zwei Jahren nach Beginn der sich
 anschließenden Frist das 60. Lebensjahr.
 
-
 #### Sechster Unterabschnitt - Zusatzleistungen
-
-
 
 ##### § 315 Zuschuss zur Krankenversicherung
 
@@ -19396,7 +18599,6 @@ Krankenversicherung pflichtversichert, wird dieser Zuschuss zu der
 Rente und einer sich unmittelbar daran anschließenden Rente desselben
 Berechtigten weitergeleistet.
 
-
 ##### § 315a Auffüllbetrag
 
 Ist der für den Berechtigten nach Anwendung des § 307a ermittelte
@@ -19424,7 +18626,6 @@ bisherige Zahlbetrag der Rente nicht unterschritten werden. Ein danach
 noch verbleibender Auffüllbetrag wird bei den folgenden
 Rentenanpassungen im Umfang dieser Rentenanpassungen abgeschmolzen.
 
-
 ##### § 315b Renten aus freiwilligen Beiträgen des Beitrittsgebiets
 
 Bestand am 31. Dezember 1991 Anspruch auf eine
@@ -19446,15 +18647,11 @@ Bestand am 31. Dezember 1991 Anspruch auf eine
 wird diese in Höhe des um 6,84 vom Hundert erhöhten bisherigen
 Betrages weitergeleistet.
 
-
 ##### § 316
 
 (weggefallen)
 
-
 #### Siebter Unterabschnitt - Leistungen an Berechtigte im Ausland
-
-
 
 ##### § 317 Grundsatz
 
@@ -19501,7 +18698,6 @@ sie auf diese Rente bereits für die Zeit, in der sie ihren
 gewöhnlichen Aufenthalt noch im Inland gehabt haben, einen Anspruch
 hatten.
 
-
 ##### § 318 Ermessensleistungen an besondere Personengruppen
 
 (1) Versicherte, die nicht Deutsche sind und sich gewöhnlich im
@@ -19544,7 +18740,6 @@ insoweit als Berechtigte.
 (4) Die Leistungen nach dieser Vorschrift gelten nicht als Leistungen
 der sozialen Sicherheit.
 
-
 ##### § 319 Zusatzleistungen
 
 (1) Bestand am 31. Dezember 1991 bei gewöhnlichem Aufenthalt im
@@ -19557,10 +18752,7 @@ desselben Berechtigten weitergeleistet.
 Rente nur, wenn sie bei gewöhnlichem Aufenthalt im Ausland hierauf am
 31\. Dezember 1991 einen Anspruch hatten.
 
-
 #### Achter Unterabschnitt - Zusatzleistungen bei gleichzeitigem Anspruch auf Renten nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets
-
-
 
 ##### § 319a Rentenzuschlag bei Rentenbeginn in den Jahren 1992 und 1993
 
@@ -19579,10 +18771,7 @@ unterschritten werden. Ein danach noch verbleibender Rentenzuschlag
 wird bei den folgenden Rentenanpassungen im Umfang dieser
 Rentenanpassungen abgeschmolzen.
 
-
 #### Neunter Unterabschnitt - Leistungen bei gleichzeitigem Anspruch auf Renten nach dem Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets
-
-
 
 ##### § 319b Übergangszuschlag
 
@@ -19606,10 +18795,7 @@ Gesamtleistung nach dem Übergangsrecht für Renten nach den
 Vorschriften des Beitrittsgebiets und der Gesamtleistung nach den
 Vorschriften dieses Buches gezahlt.
 
-
 #### Zehnter Unterabschnitt - Siebtes Gesetz zur Änderung des Dritten Buches Sozialgesetzbuch und anderer Gesetze
-
-
 
 ##### § 319c Rente wegen Alters und Arbeitslosengeld
 
@@ -19628,10 +18814,7 @@ Rentenbeginn erfüllt waren; bei der Rentenberechnung werden mindestens
 die der weggefallenen Rente zugrunde liegenden persönlichen
 Entgeltpunkte berücksichtigt.
 
-
 ## Sechstes Kapitel - Bußgeldvorschriften
-
-
 
 ### § 320 Bußgeldvorschriften
 
@@ -19654,7 +18837,6 @@ Entgeltpunkte berücksichtigt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
-
 
 ### § 321 Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
 
@@ -19709,7 +18891,6 @@ nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben
 über die Tatsachen enthalten, die für die Abgabe der Meldungen des
 Arbeitgebers und die Einziehung der Beiträge zur Sozialversicherung
 erforderlich sind.
-
 
 ### Anlage 1 Durchschnittsentgelt in Euro/DM/RM
 
@@ -20484,10 +19665,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 \*) vorläufiges Durchschnittsentgelt i. S. des § 69 Abs. 2 Nr. 2.
 
-
-
-
-
 ### Anlage 2 Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM
 
 (Fundstelle: BGBl. I 2002, 871,
@@ -21102,10 +20279,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   85 200
 
-
-
-
-
 ### Anlage 2a Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM
 
 (Fundstelle: BGBl. I 2002, 872,
@@ -21293,10 +20466,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   58 800
 
     *   72 600
-
-
-
-
 
 ### Anlage 2b
 
@@ -21910,10 +21079,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
     *   2,3354
-
-
-
-
 
 ### Anlage 3 Entgeltpunkte für Beiträge nach Lohn-, Beitrags- oder Gehaltsklassen
 
@@ -22892,13 +22057,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
             knappschaftlichen Pensionsversicherung der Angestellten Beiträge zur
             Rentenversicherung der Angestellten gezahlt sind.
 
-
-
-
-
-
-
-
 ### Anlage 4 Beitragsbemessungsgrundlage für Beitragsklassen
 
 < Fundstelle des Originaltextes: BGBl. I 2002, 877 >
@@ -23244,10 +22402,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   3.100
 
-
-
-
-
 ### Anlage 5 Entgeltpunkte für Berliner Beiträge
 
 Fundstelle des Originaltextes: BGBl. I 2002, 878
@@ -23277,9 +22431,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 878
     *   0,0170
 
     *   0,0340
-
-
-
 
 ## 2. Beiträge nach Beitragsklassen
 
@@ -23339,9 +22490,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 878
 
     *   0,0228
 
-
-
-
 ## 2. Beiträge nach Beitragsklassen
 
 *    *   Zeitraum
@@ -23379,10 +22527,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 878
     *   0,0424
 
     *   0,0534
-
-
-
-
 
 ### Anlage 6 Werte zur Umrechnung der Beitragsbemessungsgrundlagen von Franken in Deutsche Mark
 
@@ -23459,10 +22603,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 878
 *    *   1959
 
     *   0,0091
-
-
-
-
 
 ### Anlage 7 Entgeltpunkte für saarländische Beiträge
 
@@ -24678,10 +23818,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 879 - 880
 
     *   0,1218
 
-
-
-
-
 ### Anlage 8 Lohn-, Beitrags- oder Gehaltsklassen und Beitragsbemessungsgrundlagen in RM/DM für Sachbezugszeiten, in denen der Versicherte nicht Lehrling oder Anlernling war
 
 (Fundstelle: BGBl. I 2002, 881 - 882)
@@ -25272,10 +24408,6 @@ Hierzu gehören u.a.:
 
     ungelernte Waldarbeiterin
 
-
-
-
-
 ### Anlage 9
 
 Fundstelle des Originaltextes: BGBl. I 2002, 883 - 885
@@ -25724,10 +24856,6 @@ Hauerarbeiten sind auch Zeiten, in denen ein Versicherter
     ausübte, wenn er aus betrieblichen Gründen aus einer unter I. oder
     Nummer 1 genannten Beschäftigung herausgenommen wurde.
 
-
-
-
-
 ### Anlage 10 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittgebiets
 
 (Fundstelle: BGBl. I 2002, 886,
@@ -26159,10 +25287,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   1,1767
 
-
-
-
-
 ### Anlage 11 Verdienst für freiwillige Beiträge im Beitrittsgebiet
 
 Fundstelle des Originaltextes: BGBl. I 2002, 887
@@ -26274,10 +25398,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 887
     *   300
 
     *   300
-
-
-
-
 
 ### Anlage 12 Gesamtdurchschnittseinkommen zur Umwertung der anpassungsfähigen Bestandsrenten des Beitrittsgebiets
 
@@ -26577,10 +25697,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 888
     *
     *   35.560
 
-
-
-
-
 ### Anlage 13 Definition der Qualifikationsgruppen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 889
@@ -26732,10 +25848,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 889
 
     *   Personen ohne Ausbildung oder spezielle Schulung für die ausgeübte
         Tätigkeit.
-
-
-
-
 
 ### Anlage 14
 
@@ -47345,10 +46457,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   32.878
 
-
-
-
-
 ### Anlage 15 Entgeltpunkte für glaubhaft gemachte Beitragszeiten mit freiwilligen Beiträgen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 914
@@ -47608,10 +46716,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 914
 
     *   0,0165
 
-
-
-
-
 ### Anlage 16 Höchstverdienste bei glaubhaft gemachten Beitragszeiten ohne freiwillige Zusatzrentenversicherung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 915
@@ -47720,19 +46824,13 @@ Fundstelle des Originaltextes: BGBl. I 2002, 915
 
     *   9.212,10
 
-
-
-
-
 ### Anlage 17
 
 (weggefallen)
 
-
 ### Anlage 18
 
 (weggefallen)
-
 
 ### Anlage 19
 
@@ -49067,10 +48165,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   0
 
-
-
-
-
 ### Anlage 20
 
 Fundstelle des Originaltextes: BGBl. I 2002, 918
@@ -49932,24 +49026,17 @@ Fundstelle des Originaltextes: BGBl. I 2002, 918
 
     *   0
 
-
-
-
-
 ### Anlage 21 (weggefallen)
 
 -
-
 
 ### Anlage 22 (weggefallen)
 
 -
 
-
 ### Anlage 23 (weggefallen)
 
 -
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1060) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

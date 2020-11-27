@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 27.7.2011 I 1608
 
-
 ## § 1 Weitere Anwendung von Vorschriften
 
 (1) Solange noch nicht auf Grund der Ermächtigungen des Lebensmittel-
@@ -127,10 +126,6 @@ Zustimmung des Bundesrates
     deren Umsetzung die in Absatz 1 genannten Vorschriften dienen,
     aufgehoben worden sind.
 
-
-
-
-
 ## § 2 Geltung von Vorschriften
 
 (1) § 6 Abs. 1 Nr. 2, § 8 Abs. 1 Nr. 2, § 9 Abs. 1, § 10 Abs. 1 Nr. 3,
@@ -196,11 +191,9 @@ der jeweils entsprechenden Ermächtigung des
 
 erlassen worden sind.
 
-
 ## § 3 Anpassung von Vorschriften
 
 -
-
 
 ## § 4 Verweisungen
 
@@ -433,7 +426,6 @@ verwiesen wird oder solche Begriffsbestimmungen verwendet werden, sind
 diese bis zum Erlass anderweitiger Begriffsbestimmungen in diesen
 Rechtsverordnungen auf Grund der Ermächtigungen des Lebensmittel- und
 Futtermittelgesetzbuches weiter anzuwenden.
-
 
 ## § 5 Ermächtigung
 

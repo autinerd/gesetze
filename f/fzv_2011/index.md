@@ -23,7 +23,6 @@ Zuletzt geändert durch
     L 138 vom 1.6.1999, S. 57 ), die durch die Richtlinie 2003/127/EG
     (ABl. L 10 vom 16.1.2004, S. 29) geändert worden ist.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
@@ -59,19 +58,13 @@ auf Grund des
     mit dem Bundesministerium der Justiz und dem Bundesministerium für
     Wirtschaft und Technologie:
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Regelungen
-
 
 ### § 1 Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf die Zulassung von Kraftfahrzeugen
 mit einer bauartbedingten Höchstgeschwindigkeit von mehr als 6 km/h
 und die Zulassung ihrer Anhänger.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -278,10 +271,6 @@ Im Sinne dieser Verordnung ist oder sind
 25. Überführungsfahrt: die Fahrt zur Überführung des Fahrzeugs an einen
     anderen Ort.
 
-
-
-
-
 ### § 3 Notwendigkeit einer Zulassung
 
 (1) Fahrzeuge dürfen auf öffentlichen Straßen nur in Betrieb gesetzt
@@ -382,7 +371,6 @@ Zulassungsverfahren ausgenommenen Fahrzeuge zugelassen werden.
 zulassungspflichtigen Fahrzeugs nicht anordnen oder zulassen, wenn das
 Fahrzeug nicht zugelassen ist.
 
-
 ### § 4 Voraussetzungen für eine Inbetriebsetzung zulassungsfreier Fahrzeuge
 
 (1) Die von den Vorschriften über das Zulassungsverfahren
@@ -461,10 +449,6 @@ zuständigen Personen auf Verlangen zur Prüfung ausgehändigt wird.
 2.  ein Kennzeichen nach Absatz 2 Satz 1, Absatz 3 Satz 2 oder ein
     Versicherungskennzeichen nach Absatz 3 Satz 1 nicht führt.
 
-
-
-
-
 ### § 5 Beschränkung und Untersagung des Betriebs von Fahrzeugen
 
 (1) Erweist sich ein Fahrzeug als nicht vorschriftsmäßig nach dieser
@@ -500,9 +484,7 @@ Zulassungs-Ordnung ist, so kann die Zulassungsbehörde anordnen, dass
 wird. Wenn nötig, kann die Zulassungsbehörde mehrere solcher
 Anordnungen treffen.
 
-
 ## Abschnitt 2 - Zulassungsverfahren
-
 
 ### § 6 Antrag auf Zulassung
 
@@ -717,7 +699,6 @@ nicht in den mit dem Antrag vorzulegenden Dokumenten enthalten sind:
 (8) Das Fahrzeug ist vor Erstellung der Zulassungsbescheinigung Teil
 II und vor der Zulassung von der Zulassungsbehörde zu identifizieren.
 
-
 ### § 7 Zulassung im Inland nach vorheriger Zulassung in einem anderen Staat
 
 (1) Bei Fahrzeugen, für die eine EG-Typgenehmigung vorliegt und die
@@ -763,7 +744,6 @@ einem Staat außerhalb der Europäischen Union oder des Europäischen
 Wirtschaftsraums in Betrieb waren, ist vor der Zulassung in jedem Fall
 eine Untersuchung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung
 durchzuführen.
-
 
 ### § 8 Zuteilung von Kennzeichen
 
@@ -832,7 +812,6 @@ werden.
 (3) Die Zulassungsbehörde kann das zugeteilte Kennzeichen von Amts
 wegen oder auf Antrag ändern und hierzu die Vorführung des Fahrzeugs
 anordnen.
-
 
 ### § 9 Besondere Kennzeichen
 
@@ -904,7 +883,6 @@ werden. § 16 Absatz 1 bleibt unberührt. Saisonkennzeichen gelten
 außerhalb des Betriebszeitraums bei Fahrten zur Abmeldung und bei
 Rückfahrten nach Abstempelung des Kennzeichens als ungestempelte
 Kennzeichen im Sinne des § 10 Absatz 4.
-
 
 ### § 10 Ausgestaltung und Anbringung der Kennzeichen
 
@@ -1085,7 +1063,6 @@ Fahrzeugteile bei der Bauartprüfung nach § 22a StVZO vom 5. Juli 1973
 bauartgenehmigte Beleuchtungseinrichtung muss mit dem amtlich
 zugeteilten Prüfzeichen gekennzeichnet sein.
 
-
 ### § 11 Zulassungsbescheinigung Teil I
 
 (1) Die Zulassungsbescheinigung Teil I wird nach dem Muster in Anlage
@@ -1127,7 +1104,6 @@ Prüfung auszuhändigen.
 für eine in Verlust geratene Bescheinigung diese wieder aufgefunden,
 hat der Halter oder Eigentümer sie unverzüglich der zuständigen
 Zulassungsbehörde abzuliefern.
-
 
 ### § 12 Zulassungsbescheinigung Teil II
 
@@ -1193,7 +1169,6 @@ Zulassungsbehörde jeder verpflichtet, in dessen Gewahrsam sich die
 Bescheinigung befindet. Die Zulassungsbehörde hat demjenigen, der ihr
 die Zulassungsbescheinigung Teil II vorgelegt hat oder der von ihm
 bestimmten Stelle oder Person, diese wieder auszuhändigen.
-
 
 ### § 13 Mitteilungspflichten bei Änderungen
 
@@ -1330,7 +1305,6 @@ außer Betrieb zu setzen. Die Mitteilung erfolgt in elektronischer Form
 nach den vom Kraftfahrt-Bundesamt herausgegebenen und im Verkehrsblatt
 veröffentlichten Standards.
 
-
 ### § 14 Außerbetriebsetzung, Wiederzulassung
 
 (1) Soll ein zugelassenes Fahrzeug oder ein nicht
@@ -1371,7 +1345,6 @@ Bescheinigung über die Einzelgenehmigung des unveränderten Fahrzeugs
 nicht anderweitig erbracht werden, ist § 21 der Straßenverkehrs-
 Zulassungs-Ordnung entsprechend anzuwenden.
 
-
 ### § 15 Verwertungsnachweis
 
 (1) Ist ein Fahrzeug der Klasse M
@@ -1399,9 +1372,7 @@ Zulassungsbehörde bei einem Antrag auf Außerbetriebsetzung des
 Fahrzeugs zu erklären, dass das Fahrzeug nicht als Abfall zu entsorgen
 ist.
 
-
 ## Abschnitt 3 - Zeitweilige Teilnahme am Straßenverkehr
-
 
 ### § 16 Prüfungsfahrten, Probefahrten, Überführungsfahrten
 
@@ -1501,7 +1472,6 @@ nicht vorliegen.
 (6) Die §§ 29 und 57b der Straßenverkehrs-Zulassungs-Ordnung finden
 keine Anwendung.
 
-
 ### § 17 Fahrten zur Teilnahme an Veranstaltungen für Oldtimer
 
 (1) Oldtimer, die an Veranstaltungen teilnehmen, die der Darstellung
@@ -1532,14 +1502,12 @@ nach Satz 4 nicht vorliegen.
 sich aus anderen Vorschriften, insbesondere aus § 29 Absatz 2 der
 Straßenverkehrs-Ordnung, ergeben.
 
-
 ### § 18 Fahrten im internationalen Verkehr
 
 Für Fahrzeuge, für die ein Kennzeichen zugeteilt ist, wird auf Antrag
 ein Internationaler Zulassungsschein nach Artikel 4 und Anlage B des
 Internationalen Abkommens vom 24. April 1926 über Kraftfahrzeugverkehr
 (RGBl. 1930 II S. 1233) ausgestellt.
-
 
 ### § 19 Fahrten zur dauerhaften Verbringung eines Fahrzeugs in das Ausland
 
@@ -1615,9 +1583,7 @@ Zulassungsbescheinigung Teil II ist fortzuschreiben. § 12 Absatz 4 ist
 entsprechend anzuwenden. Die Absätze 1 bis 3 sind entsprechend
 anzuwenden.
 
-
 ## Abschnitt 4 - Teilnahme ausländischer Fahrzeuge am Straßenverkehr
-
 
 ### § 20 Vorübergehende Teilnahme am Straßenverkehr im Inland
 
@@ -1674,10 +1640,6 @@ bis zu einem Jahr. Die Frist beginnt
     Abkommen vom 24. April 1926 über Kraftfahrzeugverkehr mit dem
     Ausstellungstag.
 
-
-
-
-
 ### § 21 Kennzeichen und Unterscheidungszeichen
 
 (1) In einem anderen Staat zugelassene Kraftfahrzeuge müssen an der
@@ -1708,7 +1670,6 @@ Kennzeichens das Unterscheidungszeichen des Zulassungsstaates führen,
 ist die Anbringung eines Unterscheidungszeichens nach Satz 1 nicht
 erforderlich.
 
-
 ### § 22 Beschränkung und Untersagung des Betriebs ausländischer Fahrzeuge
 
 Erweist sich ein ausländisches Fahrzeug als nicht vorschriftsmäßig,
@@ -1719,9 +1680,7 @@ zurückgesandt. Hat der Eigentümer oder Halter des Fahrzeugs keinen
 Wohn- oder Aufenthaltsort im Inland, ist für Maßnahmen nach Satz 1
 jede Verwaltungsbehörde nach § 46 Absatz 1 zuständig.
 
-
 ## Abschnitt 5 - Überwachung des Versicherungsschutzes der Fahrzeuge
-
 
 ### § 23 Versicherungsnachweis
 
@@ -1827,10 +1786,6 @@ veröffentlicht. Die Bescheinigung muss folgende Daten enthalten:
 6.  das Kennzeichen des Fahrzeugs, soweit dieses der für den
     Haftpflichtschadenausgleich zuständigen Einrichtung bekannt ist.
 
-
-
-
-
 ### § 24 Mitteilungspflichten der Zulassungsbehörde
 
 (1) Die Zulassungsbehörde hat den Versicherer zum Zwecke der
@@ -1867,7 +1822,6 @@ erforderlich, zu übermitteln.
 35 Absatz 3 und den vom Kraftfahrt-Bundesamt herausgegebenen und im
 Bundesanzeiger sowie zusätzlich im Verkehrsblatt veröffentlichten
 Standards zu übermitteln.
-
 
 ### § 25 Maßnahmen und Pflichten bei fehlendem Versicherungsschutz
 
@@ -1948,7 +1902,6 @@ wurde, löst keine Maßnahmen der Zulassungsbehörde nach Satz 1 aus.
 (5) Die Absätze 3 und 4 gelten nicht für Kurzzeitkennzeichen, bei
 denen das Ablaufdatum überschritten ist.
 
-
 ### § 26 Versicherungskennzeichen
 
 (1) Durch das Versicherungskennzeichen wird für die Kraftfahrzeuge im
@@ -1994,7 +1947,6 @@ Mitteilung kann auch über eine Gemeinschaftseinrichtung der
 Versicherer erfolgen. Ausführungsregeln zur Datenübermittlung gibt das
 Kraftfahrt-Bundesamt in entsprechenden Standards im Bundesanzeiger
 sowie zusätzlich im Verkehrsblatt bekannt.
-
 
 ### § 27 Ausgestaltung und Anbringung des Versicherungskennzeichens
 
@@ -2051,7 +2003,6 @@ ausgestaltet und angebracht ist und verwechslungsfähige oder
 beeinträchtigende Zeichen und Einrichtungen nach Absatz 6 am Fahrzeug
 nicht angebracht sind.
 
-
 ### § 28 Rote Versicherungskennzeichen
 
 Fahrten im Sinne des § 16 Absatz 1 dürfen mit Kraftfahrzeugen im Sinne
@@ -2068,7 +2019,6 @@ Kraftfahrt-Bundesamt die Halterdaten nach § 33 Absatz 1 Satz 1 Nummer
 2 des Straßenverkehrsgesetzes und die in § 30 Absatz 5 genannten
 Fahrzeugdaten unverzüglich mitzuteilen.
 
-
 ### § 29 Maßnahmen bei vorzeitiger Beendigung des Versicherungsverhältnisses
 
 Endet das Versicherungsverhältnis vor dem Ablauf des Verkehrsjahrs,
@@ -2080,9 +2030,7 @@ Versicherer hiervon die nach § 46 zuständige Behörde in Kenntnis zu
 setzen. Die Behörde zieht das Versicherungskennzeichen und die
 Bescheinigung ein.
 
-
 ## Abschnitt 6 - Fahrzeugregister
-
 
 ### § 30 Speicherung der Fahrzeugdaten im Zentralen Fahrzeugregister
 
@@ -2456,7 +2404,6 @@ die Zulassungsbescheinigung Teil II bereits durch den Hersteller eine
 Fahrzeug-Identifizierungsnummer eingetragen, ist auch diese zu
 speichern.
 
-
 ### § 31 Speicherung der Fahrzeugdaten im örtlichen Fahrzeugregister
 
 (1) Bei Fahrzeugen, denen ein Kennzeichen zugeteilt ist, sind im
@@ -2767,7 +2714,6 @@ Absatz 1 Nummer 4, 5, 13, 15 bis 17, 20 und 21 bis 27 und Absatz 2 bis
 7 noch nicht im örtlichen Fahrzeugregister gespeichert sind, brauchen
 sie auch weiterhin nicht gespeichert werden.
 
-
 ### § 32 Speicherung der Halterdaten in den Fahrzeugregistern
 
 (1) Die der Zulassungsbehörde nach § 6 Absatz 1 Satz 2 mitzuteilenden
@@ -2823,7 +2769,6 @@ die Daten über Beruf oder Gewerbe zu speichern.
 früheren Halter und die Anzahl der früheren Halter eines Fahrzeugs zu
 speichern.
 
-
 ### § 33 Übermittlung von Daten an das Kraftfahrt-Bundesamt
 
 (1) Die Zulassungsbehörde hat dem Kraftfahrt-Bundesamt zur Speicherung
@@ -2867,7 +2812,6 @@ arbeitstäglich im Wege der Dateienübertragung. Ausführungsregeln zur
 Datenübermittlung werden vom Kraftfahrt-Bundesamt im Bundesanzeiger
 und zusätzlich im Verkehrsblatt veröffentlicht.
 
-
 ### § 34 Übermittlung von Daten an andere Zulassungsbehörden
 
 (1) Wird einem Fahrzeug von einer Zulassungsbehörde ein neues
@@ -2906,7 +2850,6 @@ Zulassungsbehörde, für die die Daten bestimmt sind, die nach § 33
 vorgeschriebene Datenübermittlung durch unmittelbaren Zugriff
 betreiben und die Daten zur Aktualisierung des örtlichen Registers
 durch das Zentrale Fahrzeugregister übermittelt werden.
-
 
 ### § 35 Übermittlung von Daten an die Versicherer
 
@@ -3047,7 +2990,6 @@ Gemeinschaftseinrichtung. Eine gesetzliche Verpflichtung des
 Kraftfahrt-Bundesamtes zur Übermittlung der Daten wird dadurch nicht
 begründet.
 
-
 ### § 36 Mitteilungen an die Finanzbehörden
 
 (1) Die Zulassungsbehörde teilt dem zur Durchführung des
@@ -3075,7 +3017,6 @@ die in § 6 Absatz 5 bezeichneten Daten mit.
 Kraftfahrzeugsteuer-Durchführungsverordnung und der Steuerdaten-
 Übermittlungsverordnung vom 28. Januar 2003 (BGBl. I S. 139)
 elektronisch übermittelt werden.
-
 
 ### § 37 Übermittlung von Daten an Stellen zur Durchführung des Bundesleistungsgesetzes, des Verkehrssicherstellungsgesetzes, des Verkehrsleistungsgesetzes und von Maßnahmen des Katastrophenschutzes
 
@@ -3129,7 +3070,6 @@ Kennzeichen zugeteilt ist,
 auf entsprechende Anforderung die nach § 30 Absatz 1 gespeicherten
 Fahrzeugdaten sowie die nach § 32 Absatz 1 Satz 1 Nummer 1 und Satz 2
 gespeicherten Halterdaten übermitteln.
-
 
 ### § 38 Übermittlungen des Kraftfahrt-Bundesamtes an die Zulassungsbehörden
 
@@ -3185,7 +3125,6 @@ Prüfung des Sachverhaltes mit.
 entbehrlich, wenn die Zulassungsbehörde, für die die Daten bestimmt
 sind, die in § 33 vorgeschriebene Datenübermittlung im Wege der
 Datenfernübertragung durch Direkteinstellung vornimmt.
-
 
 ### § 39 Abruf im automatisierten Verfahren
 
@@ -3372,10 +3311,6 @@ Straßenverkehrsgesetzes dürfen folgende Daten bereitgehalten werden:
     Namens oder der Bezeichnung des Halters oder unter Verwendung der
     Anschrift des Halters die in Nummer 1 bezeichneten Daten.
 
-
-
-
-
 ### § 40 Sicherung des Abrufverfahrens gegen Missbrauch
 
 (1) Die übermittelnde Stelle darf einen Abruf nach § 36 des
@@ -3437,7 +3372,6 @@ ordnungsgemäßen Verfahrens notwendig sind. Die übermittelnde Stelle
 hat sicherzustellen, dass die Aufzeichnungen nach § 36a Satz 2 des
 Straßenverkehrsgesetzes selbsttätig erfolgen und die Übermittlung bei
 nicht ordnungsgemäßer Aufzeichnung unterbrochen wird.
-
 
 ### § 41 Aufzeichnung der Abrufe im automatisierten Verfahren
 
@@ -3514,7 +3448,6 @@ insbesondere
 vorgeschriebenen weiteren Aufzeichnungen gilt § 36 Absatz 6 Satz 2 bis
 4 des Straßenverkehrsgesetzes entsprechend.
 
-
 ### § 42 Abruf im automatisierten Verfahren durch ausländische Stellen
 
 Zur Übermittlung durch Abruf im automatisierten Verfahren aus dem
@@ -3536,7 +3469,6 @@ Identifizierungsnummer dürfen:
 
 
 bereitgehalten werden. Die §§ 40 und 41 gelten entsprechend.
-
 
 ### § 43 Übermittlungssperren
 
@@ -3564,7 +3496,6 @@ weiterzuleiten, die die Sperre angeordnet hat. Die Zulassungsbehörde
 erteilt die Auskunft, wenn die für die Anordnung der Sperre zuständige
 Behörde ihr mitteilt, dass die Sperre für dieses Übermittlungsersuchen
 aufgehoben wird.
-
 
 ### § 44 Löschung der Daten im Zentralen Fahrzeugregister
 
@@ -3596,7 +3527,6 @@ zu löschen.
 Fahrzeugregister spätestens ein Jahr nach Rückgabe oder Entziehung des
 jeweiligen Kennzeichens zu löschen. Bei Diebstahl oder sonstigem
 Abhandenkommen des Kennzeichens gilt Absatz 5 entsprechend.
-
 
 ### § 45 Löschung der Daten im örtlichen Fahrzeugregister
 
@@ -3651,9 +3581,7 @@ sonstigem Abhandenkommen des Kennzeichens gilt Absatz 4 Nummer 1.
 Fahrzeugregisters dem Zentralen Fahrzeugregister übertragen hat, ist §
 44 anzuwenden.
 
-
 ## Abschnitt 7 - Durchführungs- und Schlussvorschriften
-
 
 ### § 46 Zuständigkeiten
 
@@ -3698,7 +3626,6 @@ Länder kann die Zulassung von Kraftfahrzeugen und ihrer Anhänger nach
 Bestimmung der Fachminister durch die nach Absatz 1 zuständigen
 Behörden vorgenommen werden.
 
-
 ### § 47 Ausnahmen
 
 (1) Ausnahmen können genehmigen
@@ -3741,7 +3668,6 @@ Katastrophenschutzes sowie der Zolldienst sind von den Vorschriften
 dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher
 Aufgaben unter gebührender Berücksichtigung der öffentlichen
 Sicherheit und Ordnung dringend geboten ist.
-
 
 ### § 48 Ordnungswidrigkeiten
 
@@ -3860,10 +3786,6 @@ wer vorsätzlich oder fahrlässig
     oder ein Unterscheidungszeichen nicht oder nicht wie dort
     vorgeschrieben führt.
 
-
-
-
-
 ### § 49 Verweis auf technische Regelwerke
 
 (1) DIN-Normen, EN-Normen oder ISO-Normen, auf die in dieser
@@ -3876,7 +3798,6 @@ dem Farbregister RAL 840-HR entnommen. Das Farbregister wird vom RAL
 Deutsches Institut für Gütesicherung und Kennzeichnung e. V.,
 Siegburger Straße 39, 53757 St. Augustin, herausgegeben und ist dort
 erhältlich.
-
 
 ### § 50 Übergangsbestimmungen
 
@@ -4000,7 +3921,6 @@ April 2006 (BGBl. I S. 846, 1202), das zuletzt durch Artikel 17 des
 Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) geändert worden ist,
 im Einvernehmen mit dem Bundesministerium der Finanzen anzuwenden.
 
-
 ### § 51 Inkrafttreten, Außerkrafttreten
 
 Im Übrigen tritt diese Verordnung am Tag nach der Verkündung in Kraft.
@@ -4009,16 +3929,11 @@ Gleichzeitig tritt die Fahrzeug-Zulassungsverordnung vom 25. April
 Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258) geändert worden ist,
 außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-
 ### Anlage 1 (aufgehoben)
-
-
 
 ### Anlage 2 (zu § 8 Absatz 1 Satz 4) Ausgestaltung, Einteilung und Zuteilung der Buchstaben- und Zahlengruppen für die Erkennungsnummern der Kennzeichen
 
@@ -4048,13 +3963,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     e)  AA 1000 – AA 9999 bis ZZ 1000 – ZZ 9999.
-
-
-
-
-
-
-
 
 ### Anlage 3 (zu § 8 Absatz 1 Satz 5) Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der Bundesfinanzverwaltung, der Bundespolizei, der Wasser- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
 
@@ -4255,13 +4163,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Dienstkraftwagen des Präsidenten des Deutschen Bundestages
             (Zulassungsbehörde Berlin)
-
-
-
-
-
-
-
 
 ### Anlage 4 (zu § 10 Absatz 2, § 16 Absatz 5, § 17 Absatz 2, § 19 Absatz 1 Nummer 3) Ausgestaltung der Kennzeichen
 
@@ -4477,9 +4378,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Satz 1 Buchstabe b in der Mitte links, auch unter dem Euro-Feld, und
     nach Satz 1 Buchstabe c in der Mitte rechts anzubringen.
 
-
-
-
 ## Abschnitt 2
 
 ## Allgemeine Kennzeichen
@@ -4510,9 +4408,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     \* Mindestmaß 8 mm
     \*\* 8 mm bis 10 mm
     \*\*\* 5 mm bis 20 mm
-
-
-
 
 ## Abschnitt 2a
 
@@ -4568,9 +4463,6 @@ selbstzerstörenden Sicherheitsfolie aufzuführen.
     fahrzeugbezogenen Teil des hinteren Kennzeichens unten anzubringen;
     sie muss einen Durchmesser von 45 mm haben.
 
-
-
-
 ## Abschnitt 3
 
 ## Kennzeichen der Bundeswehr
@@ -4611,9 +4503,6 @@ selbstzerstörenden Sicherheitsfolie aufzuführen.
     nach Nummer 3 werden die letzten drei Ziffern von den vorhergehenden
     Ziffern durch einen Gruppenabstand in dreifacher Größe des normalen
     Abstandes getrennt.
-
-
-
 
 ## Abschnitt 4
 
@@ -4671,12 +4560,6 @@ selbstzerstörenden Sicherheitsfolie aufzuführen.
 
     b)  Plakette nach Buchstabe c auf dem hinteren Kennzeichen oben links.
 
-
-
-
-
-
-
 ## Abschnitt 5
 
 ## Saisonkennzeichen
@@ -4720,9 +4603,6 @@ selbstzerstörenden Sicherheitsfolie aufzuführen.
     einem Kennzeichen nach den Nummern 1 und 2 sind unzulässig. Auf einem
     Kennzeichen nach Nummer 3 dürfen die Plaketten entsprechend Abschnitt
     4 Nummer 4 Satz 5 angebracht werden.
-
-
-
 
 ## Abschnitt 6
 
@@ -4806,9 +4686,6 @@ selbstzerstörenden Sicherheitsfolie aufzuführen.
     Erzeugnisse von der Gesellschaft für Konformitätsbewertung mbH (DIN
     CERTCO) erhalten hat, muss verwendet werden.
 
-
-
-
 ## Abschnitt 7
 
 ## Rote Kennzeichen zur wiederkehrenden Verwendung und rote
@@ -4853,10 +4730,6 @@ Abschnitt 1 Nummer 6 Satz 1 Buchstabe b ist nicht anzuwenden.
     Zur Abstempelung des Kennzeichens sind Stempelplaketten nach § 10
     Absatz 3, jedoch mit dem Dienstsiegel der Zulassungsbehörde mit einem
     Durchmesser von 35 mm mit rotem Untergrund (RAL 2002) zu verwenden.
-
-
-
-
 
 ### Anlage 5 (zu § 11 Absatz 1) Zulassungsbescheinigung Teil I
 
@@ -5204,9 +5077,6 @@ Es gelten die Nummern 1 und 2 der Vorbemerkungen der Anlage 5
     3) sind auf einem Papier mit 53 g/m² zu drucken. Die jeweiligen
     Unterblätter (Blatt 4) sind auf Papier mit 80 g/m² zu drucken.
 
-
-
-
 ## Abschnitt 2
 
 ## Muster
@@ -5237,8 +5107,6 @@ werden.
 *    *
     *
 
-
-
 ### Anlage 10 (zu § 16 Absatz 3 Satz 1) Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen
 
    (Fundstelle: BGBl. I 2011, 215)
@@ -5267,8 +5135,6 @@ werden.
 
 *    *
     *
-
-
 
 ### Anlage 10a (zu § 17 Absatz 2 Satz 1) Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen
 
@@ -5406,10 +5272,6 @@ Seiten 2 ff.
         kraftfahrzeugtechnischen Kulturgutes dienen
         d) Fahrten zum Zwecke der Wartung und der Reparatur des Fahrzeugs
 
-
-
-
-
 ### Anlage 11 (zu § 23 Absatz 3)
 
 (Fundstelle: BGBl. I 2012, 2242)
@@ -5422,7 +5284,6 @@ Die Bestätigung enthält die Daten zur Kraftfahrzeug-
 Haftpflichtversicherung, zum Kennzeichen, zur Fahrzeugbeschreibung und
 zum Versicherungsnehmer sowie zusätzlich das Datum des Endes des
 Versicherungsschutzes.
-
 
 ### Anlage 12 (zu § 27 Absatz 1 Satz 4) Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
 

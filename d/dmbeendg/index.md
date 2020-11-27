@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 14. 9.2005 I 2746
 
-
 ## § 1
 
 Mit Ablauf des 31. Dezember 2001 verlieren die von der Deutschen
@@ -36,7 +35,6 @@ Mitgliedstaaten, die den Euro einführen (ABl. EG Nr. L 359 S. 1),
 unwiderruflich festgelegten Umrechnungskurs in Euro-Banknoten und
 Euro-Münzen um.
 
-
 ## § 2
 
 Die Deutsche Bundesbank ist nicht verpflichtet, für auf Deutsche Mark
@@ -47,7 +45,6 @@ Note vorlegt, die insgesamt größer sind als die Hälfte der Note, oder
 den Nachweis führt, dass der Rest der Note, von der er nur die Hälfte
 oder einen geringeren Teil vorlegt, vernichtet ist.
 
-
 ## § 3
 
 Die Deutsche Bundesbank ist nicht verpflichtet, auf Deutsche Mark oder
@@ -55,11 +52,9 @@ Deutsche Pfennig lautende Bundesmünzen in gesetzliche Zahlungsmittel
 umzutauschen, wenn diese verfälscht, durchlöchert oder anders als
 durch den gewöhnlichen Umlauf verändert sind.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -71,7 +66,6 @@ einer Geldfälschung nach § 146 des Strafgesetzbuches geltenden
 Vorschriften der Strafprozessordnung gelten entsprechend für die
 Verfolgung einer Straftat nach § 4 in Verbindung mit § 146 des
 Strafgesetzbuches.
-
 
 ## § 6
 

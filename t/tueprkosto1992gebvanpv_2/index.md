@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 26 G v. 6. 1.2004 I 2
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 6 Satz 4 des Gerätesicherheitsgesetzes in der
@@ -27,7 +26,6 @@ Fassung der Bekanntmachung vom 11. Mai 2001 (BGBl. I S. 866) in
 Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für
 Wirtschaft und Arbeit nach Anhörung der beteiligten Kreise:
-
 
 ## § 1
 
@@ -42,16 +40,13 @@ Geräte- und Produktsicherheitsgesetzes vom 6. Januar 2004 (BGBl. I S.
 2) bestimmen sich die zu erhebenden Gebühren nach den Anhängen I bis V
 dieser Verordnung.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang I Gebühren für die Prüfung von Dampfkesselanlagen
 
@@ -630,13 +625,6 @@ wobei t die Teilung der Rohre in der Rohrwand bedeutet.
         werden, so ist die Reisezeit anteilig nach den Nummern 5.2 und 5.3 zu
         berechnen.
 
-
-
-
-
-
-
-
 ## Anhang II Gebühren für die Prüfung von Druckbehälteranlagen, Füllanlagen und Rohrleitungen
 
 (Fundstelle: BGBl. I 2003, 2111 - 2113)
@@ -1091,13 +1079,6 @@ Rohrleitungen werden folgende Gebühren erhoben:
         werden, so ist die Reisezeit anteilig nach den Nummern 6.2 und 6.3 zu
         berechnen.
 
-
-
-
-
-
-
-
 ## Anhang III Gebühren für die Prüfung von Aufzugsanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2114 - 2116
@@ -1467,13 +1448,6 @@ Für die Prüfung von Aufzugsanlagen werden folgende Gebühren erhoben:
         Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben
         werden, so ist die Reisezeit anteilig nach den Nummern 4.2 und 4.3 zu
         berechnen.
-
-
-
-
-
-
-
 
 ## Anhang IV Gebühren für die Prüfung von Lageranlagen, Füllstellen, Tankstellen, Flugfeldbetankungsanlagen und Entleerstellen
 
@@ -2190,13 +2164,6 @@ durchgeführt wird                                            0,20.
         Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben
         werden, so ist die Reisezeit anteilig nach den Nummern 8.2 und 8.3 zu
         berechnen.
-
-
-
-
-
-
-
 
 ## Anhang V Gebühren für die Prüfung von Anlagen in explosionsgefährdeten Bereichen
 

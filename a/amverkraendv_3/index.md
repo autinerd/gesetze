@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 2103
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 45 und 46 des Arzneimittelgesetzes vom 24. August
@@ -29,11 +27,9 @@ dem Bundesminister für Ernährung, Landwirtschaft und Forsten nach
 Anhörung des Sachverständigen-Ausschusses für Apothekenpflicht
 verordnet:
 
-
 ## (XXXX) Art 1 und Art 2 (weggefallen)
 
 -
-
 
 ## Art 3 Gemeinsame Neufassung
 
@@ -66,12 +62,10 @@ Er kann dabei die Bezeichnungen der Stoffe und Zubereitungen sowie der
 meßtechnischen Einheiten dem neuen Stand der Wissenschaft und Technik
 anpassen.
 
-
 ## Art 4 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
-
 
 ## Art 5 Inkrafttreten
 
@@ -80,7 +74,6 @@ Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
 (2) Arzneimittel, die durch diese Verordnung apothekenpflichtig
 werden, bleiben noch bis zum zweiten Jahrestag des Inkrafttretens für
 den Verkehr außerhalb der Apotheken freigegeben.
-
 
 ## Schlußformel
 

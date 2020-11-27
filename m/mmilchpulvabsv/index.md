@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 23 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Satz 1 des Gesetzes zur Durchführung der
@@ -34,7 +33,6 @@ sind, sowie auf Grund des § 10 Abs. 1 und der §§ 12 und 26 Abs. 2 Nr.
 1 des Gesetzes zur Durchführung der gemeinsamen Marktorganisationen
 wird im Einvernehmen mit den Bundesministern der Finanzen und für
 Wirtschaft verordnet:
-
 
 ## § 1 Begriffsbestimmung, Anwendungsbereich
 
@@ -81,7 +79,6 @@ Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
 
 worden ist.
 
-
 ## § 2 Zuständige Stellen
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1 Abs. 2
@@ -109,10 +106,6 @@ jedoch
 
 2.  die Bundesanstalt für die Verarbeitung von Magermilchpulver und seine
     Lagerung zu diesem Zweck.
-
-
-
-
 
 ## § 3 Zulassung der Herstellungs- und der Verarbeitungsbetriebe
 
@@ -181,7 +174,6 @@ Beträge, für die Kautionen für verfallen erklärt worden sind (§ 4 Abs.
 2 Satz 2). Die Bundesanstalt setzt den zu zahlenden Betrag durch
 Bescheid fest.
 
-
 ## § 4 Kautionen
 
 (1) (weggefallen)
@@ -205,11 +197,9 @@ an die Bundesanstalt einen Betrag zu zahlen, der
 
 Die Bundesanstalt setzt den zu zahlenden Betrag durch Bescheid fest.
 
-
 ## § 5
 
 -
-
 
 ## § 6 Verarbeitung des von der Bundesanstalt verkauften Magermilchpulvers
 
@@ -230,7 +220,6 @@ oder den mitgeteilten Lagerraum zu verbringen.
 mindestens 3 Werktage vor Beginn der Verarbeitung der Bundesanstalt
 nach dem von der Bundesanstalt bekanntgegebenen Muster schriftlich
 anzuzeigen.
-
 
 ## § 7 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -305,11 +294,9 @@ mit dem Ende des Kalenderjahres, in dem die Aufzeichnung, die
 Unterlage oder der Beleg entstanden ist. Längere Aufbewahrungsfristen
 nach anderen Vorschriften bleiben unberührt.
 
-
 ## § 8
 
 -
-
 
 ## § 9 Duldungs- und Mitwirkungspflichten
 
@@ -325,7 +312,6 @@ Buchführung hat der Beteiligte auf seine Kosten Listen mit den
 erforderlichen Angaben auszudrucken, soweit es die zuständigen Stellen
 verlangen.
 
-
 ## § 10 Verpflichtete Personen
 
 Der Beteiligte hat die Verpflichtungen, die ihm gegenüber der
@@ -334,7 +320,6 @@ oder mehrere geeignete Beauftragte zu bestellen. Die Bestellung ist
 der zuständigen Stelle schriftlich in doppelter Ausfertigung
 anzuzeigen. Die bestellten Personen haben die Anzeige ebenfalls zu
 unterzeichnen.
-
 
 ## § 11 Verarbeitung von Magermilchpulver aus anderen Mitgliedstaaten
 
@@ -355,7 +340,6 @@ entsprochen, so überläßt die Zollstelle das Magermilchpulver dem
 Beteiligten zur zweck- und fristgerechten Verwendung. Im übrigen
 finden die §§ 6 bis 10 und 13 dieser Verordnung sinngemäß Anwendung.
 
-
 ## § 12 Verarbeitung in einem anderen Mitgliedstaat
 
 Soll Magermilchpulver aus Beständen der Bundesanstalt in einem anderen
@@ -371,7 +355,6 @@ der jeweils geltenden Fassung) in zwei Stücken unter Angabe der
 übernommenen Mengen Magermilchpulver, der Nummern der Verkaufsrechnung
 der Bundesanstalt und des Abholscheins sowie mit den nach den in § 1
 Abs. 2 genannten Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
-
 
 ## § 13 Ausfuhrabfertigung
 
@@ -405,21 +388,15 @@ vorgeschriebenen Eintragungen vorzulegen, in dem anzugeben ist
     denaturiertes oder gefärbtes Magermilchpulver oder Mischfutter
     ausgeführt wird.
 
-
-
-
-
 ## § 14 (weggefallen)
 
 -
-
 
 ## § 15 Inkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

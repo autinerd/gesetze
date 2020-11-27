@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 165
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +29,6 @@ Bundesinstituts für Berufsbildung im Einvernehmen mit den
 Bundesministerien für Wirtschaft und Technologie und für Verkehr, Bau-
 und Wohnungswesen:
 
-
 ## § 1 Anwendungsbereich
 
 (1) Zur Vorbereitung auf die Taucherprüfung kann die zuständige Stelle
@@ -41,7 +38,6 @@ Fortbildungsgänge nach § 4 durchführen oder durchführen lassen.
 durch die berufliche Fortbildung zum Taucher erworben worden sind,
 kann die zuständige Stelle Prüfungen nach den §§ 3, 5 bis 11
 durchführen.
-
 
 ## § 2 Ziel der beruflichen Fortbildung und Bezeichnung des Abschlusses
 
@@ -73,7 +69,6 @@ Aufgaben eines Tauchers wahrzunehmen:
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Taucher/Geprüfte Taucherin".
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -115,7 +110,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 4 Dauer und Inhalt des Fortbildungsganges
 
 (1) Der Fortbildungsgang gliedert sich in einen Fortbildungslehrgang
@@ -136,7 +130,6 @@ der Anlage 4 beschriebenen Kenntnisse und Fertigkeiten zu vermittlen.
 (4) Über die regelmäßige Teilnahme am Fortbildungsgang ist eine
 Bescheinigung auszustellen.
 
-
 ## § 5 Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in
@@ -153,7 +146,6 @@ Bescheinigung auszustellen.
 werden. Dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr
 nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu
 beginnen.
-
 
 ## § 6 Fachtheoretischer Teil
 
@@ -263,7 +255,6 @@ sachgerechte Lösungen vorzuschlagen.
 mündlichen Prüfung befreien, wenn der Prüfungsteilnehmer in allen
 Prüfungsbereichen gute schriftliche Leistungen erbracht hat.
 
-
 ## § 7 Fachpraktischer Teil
 
 (1) Im fachpraktischen Teil ist in folgenden Handlungsbereichen zu
@@ -328,7 +319,6 @@ der Prüfung soll in der Regel drei Zeitstunden je Prüfungsteilnehmer
 nicht überschreiten und mindestens eine Zeitstunde je Handlungsbereich
 betragen.
 
-
 ## § 8 Anrechnung anderer Leistungen
 
 (1) Von der Ablegung einzelner Prüfungsleistungen kann der
@@ -345,7 +335,6 @@ innerhalb der letzten fünf Jahre absolvierte Bildungsmaßnahmen
 angerechnet, die den Anforderungen der Anlagen 3 und 4 dieser
 Verordnung entsprechen.
 
-
 ## § 9 Bestehen der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in allen in
@@ -361,7 +350,6 @@ Freistellung gemäß § 8 sind anstatt der Note Ort, Datum und
 Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
 anzugeben.
 
-
 ## § 10 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -375,7 +363,6 @@ Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung
 anmeldet. Der Prüfungsteilnehmer kann beantragen, auch bestandene
 Prüfungsleistungen zu wiederholen. Es wird dann das Ergebnis der
 Wiederholungsprüfung gewertet.
-
 
 ## § 11 Übergangsvorschriften
 
@@ -391,14 +378,12 @@ Vorschriften ablegen. Die zuständige Stelle kann auf Antrag des
 Prüfungsteilnehmers die Wiederholungsprüfung gemäß dieser Verordnung
 durchführen. § 10 Abs. 2 findet in diesem Fall keine Anwendung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Ausnahme von § 4 Abs. 3 Satz 2 am 1.
 Juni 2000 in Kraft.
 
 (2) § 4 Abs. 3 Satz 2 tritt am 1. Januar 2003 in Kraft.
-
 
 ## Anlage 1 (zu § 9 Abs 2)
 
@@ -425,7 +410,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 9 Abs. 2)
 
@@ -464,7 +448,6 @@ Prüfungs-/Handlungsbereich ............... freigestellt.")
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 3 (zu § 4 Abs. 2)
 
@@ -670,10 +653,6 @@ Unterschrift(en) ...............................
     *   4.8
 
     *   Fachrechnen/Fachzeichnen
-
-
-
-
 
 ## Anlage 4 (zu § 4 Abs. 3)
 

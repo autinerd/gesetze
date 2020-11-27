@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 23.11.2011 I 2298
 
-
 ## § 1 Anordnung, Zweck
 
 Zur Beurteilung der Struktur und der Entwicklung im Handel und
 Gastgewerbe und ihrer wirtschaftlichen Bedeutung werden statistische
 Erhebungen als Bundesstatistik durchgeführt.
-
 
 ## § 2 Erhebungsbereiche
 
@@ -53,10 +51,6 @@ Statistik (ABl. EU Nr. L 393 S. 1) in der jeweils geltenden Fassung:
 
 2.  Abschnitt I − Gastgewerbe, Beherbergung und Gastronomie.
 
-
-
-
-
 ## § 3 Periodizität, Berichtszeitraum
 
 (1) In den in § 2 genannten Bereichen werden durchgeführt:
@@ -83,11 +77,9 @@ Berichtsjahr für die Erhebungen nach Absatz 1 Nr. 2 ist das Jahr, in
 dem das Gesetz in Kraft tritt. Die fünfjährlichen Erhebungen nach
 Absatz 1 Nr. 3 werden erstmals für das Jahr 2002 durchgeführt.
 
-
 ## § 4 Erhebungseinheiten
 
 Erhebungseinheiten der Erhebungen nach § 3 Abs. 1 sind Unternehmen.
-
 
 ## § 5 Art und Umfang der Erhebungen
 
@@ -139,7 +131,6 @@ erstrecken sich auf alle Unternehmen
 (5) Maßgebend für die Auswahl der einzubeziehenden Unternehmen sind
 die Daten, die im Statistikregister nach § 1 Absatz 1 Satz 1 des
 Statistikregistergesetzes zum Zeitpunkt der Auswahl gespeichert sind.
-
 
 ## § 6 Erhebungsmerkmale
 
@@ -346,10 +337,6 @@ Statistikregistergesetzes zum Zeitpunkt der Auswahl gespeichert sind.
     Doppelbuchstabe bb) und zu den Bruttoinvestitionen in Sachanlagen
     (Buchstabe d) auch in der Unterteilung nach Ländern erfasst.
 
-
-
-
-
 ## § 7 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -365,10 +352,6 @@ Hilfsmerkmale sind:
     Steuernummer und Umsatzsteuer-Identifikationsnummer des Unternehmens
     und des Organträgers, bei Änderungen auch die bisherige Steuernummer
     und/oder Umsatzsteuer-Identifikationsnummer.
-
-
-
-
 
 ## § 8 Auskunftspflicht
 
@@ -396,7 +379,6 @@ Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
 Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
 von weniger als 500.000 Euro erwirtschaftet hat.
 
-
 ## § 9 Übermittlungsregelung
 
 An die obersten Bundes- und Landesbehörden dürfen für die Verwendung
@@ -406,13 +388,11 @@ Statistischen Bundesamt und den statistischen Ämtern der Länder
 Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit
 Tabellenfelder nur einen einzigen Fall ausweisen.
 
-
 ## § 10 Durchführung
 
 Die Angaben zu den monatlichen und jährlichen Erhebungen nach § 3 Abs.
 1 in Abteilung 46 werden vom Statistischen Bundesamt erhoben und
 aufbereitet.
-
 
 ## § 11 Verordnungsermächtigung
 
@@ -434,10 +414,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
     erforderlich ist den Auswahlsatz nach § 5 Absatz 2 für ein Jahr zu
     erhöhen oder den Katalog der Erhebungsmerkmale, soweit es sich nicht
     um personenbezogene Merkmale handelt, anzupassen.
-
-
-
-
 
 ## § 12 Übergangsregelung
 

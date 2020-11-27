@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 98 G v. 17.12.2008 I 2586
 
-
 ## § 1 Begriff des Hofes
 
 (1) Hof im Sinne dieses Gesetzes ist eine im Gebiet der Länder
@@ -81,7 +80,6 @@ von Ehegatten eingetragen oder gelöscht, so tritt die dadurch bewirkte
 Rechtsfolge rückwirkend mit dem Eingang der Erklärung beim
 Landwirtschaftsgericht ein.
 
-
 ## § 2 Bestandteile
 
 Zum Hof gehören:
@@ -101,10 +99,6 @@ b)  Mitgliedschaftsrechte, Nutzungsrechte und ähnliche Rechte, die dem Hof
     Verhältnis zu dem sonstigen, den Hof bildenden Grundbesitz von
     untergeordneter Bedeutung sind.
 
-
-
-
-
 ## § 3 Hofeszubehör
 
 Zum Hof gehört auch das Hofeszubehör. Es umfaßt insbesondere das auf
@@ -113,13 +107,11 @@ Hausgerät, den vorhandenen Dünger und die für die Bewirtschaftung bis
 zur nächsten Ernte dienenden Vorräte an landwirtschaftlichen
 Erzeugnissen und Betriebsmittel.
 
-
 ## § 4 Erbfolge in einen Hof
 
 Der Hof fällt als Teil der Erbschaft kraft Gesetzes nur einem der
 Erben (dem Hoferben) zu. An seine Stelle tritt im Verhältnis der
 Miterben untereinander der Hofeswert.
-
 
 ## § 5 Gesetzliche Hoferbenordnung
 
@@ -137,10 +129,6 @@ kraft Gesetzes in folgender Ordnung berufen:
 
 
 4.  die Geschwister des Erblassers und deren Abkömmlinge.
-
-
-
-
 
 ## § 6 Einzelheiten zur Hoferbenordnung
 
@@ -211,7 +199,6 @@ Fähigkeiten, nach seinen Kenntnissen und seiner Persönlichkeit in der
 Lage ist, den von ihm zu übernehmenden Hof selbständig ordnungsmäßig
 zu bewirtschaften.
 
-
 ## § 7 Bestimmung des Hoferben durch den Eigentümer
 
 (1) Der Eigentümer kann den Hoferben durch Verfügung von Todes wegen
@@ -236,7 +223,6 @@ soll. Das Recht des Eigentümers, über sein der Hoferbfolge
 unterliegendes Vermögen durch Rechtsgeschäft unter Lebenden zu
 verfügen, wird durch Satz 1 und 2 nicht beschränkt.
 
-
 ## § 8 Der Hoferbe beim Ehegattenhof
 
 (1) Bei einem Ehegattenhof fällt der Anteil des Erblassers dem
@@ -257,7 +243,6 @@ der Abkömmlinge an. Im übrigen steht die Beendigung der fortgesetzten
 Gütergemeinschaft dem Erbfall gleich. Die Fortsetzung der
 Gütergemeinschaft läßt eine nach Absatz 2 getroffene Bestimmung sowie
 das Recht, eine solche Bestimmung zu treffen, unberührt.
-
 
 ## § 9 Vererbung mehrerer Höfe
 
@@ -284,13 +269,11 @@ fruchtlosem Ablauf der Frist tritt der Wahlberechtigte hinter die
 (3) Jeder Hoferbenberechtigte erwirbt das Eigentum an dem ihm
 zufallenden Hof rückwirkend vom Tode des Erblassers an.
 
-
 ## § 10 Vererbung nach allgemeinem Recht
 
 Der Hof vererbt sich nach den Vorschriften des allgemeinen Rechts,
 wenn nach den Vorschriften dieses Gesetzes kein Hoferbe vorhanden oder
 wirksam bestimmt ist.
-
 
 ## § 11 Ausschlagung
 
@@ -299,7 +282,6 @@ Gericht ausschlagen, ohne die Erbschaft in das übrige Vermögen
 auszuschlagen. Auf diese Ausschlagung finden die Vorschriften des
 Bürgerlichen Gesetzbuchs über die Ausschlagung der Erbschaft
 entsprechende Anwendung.
-
 
 ## § 12 Abfindung der Miterben nach dem Erbfall
 
@@ -375,7 +357,6 @@ Mehrbetrages verpflichtet.
 Ansprüche von Pflichtteilsberechtigten, Vermächtnisnehmern sowie des
 überlebenden Ehegatten, der den Ausgleich des Zugewinns (§ 1371 Abs. 2
 und 3 des Bürgerlichen Gesetzbuchs) verlangt.
-
 
 ## § 13 Ergänzung der Abfindung wegen Wegfalls des höferechtlichen Zwecks
 
@@ -476,7 +457,6 @@ Verwertung unverzüglich Mitteilung zu machen sowie über alle für die
 Berechnung des Anspruchs erheblichen Umstände auf Verlangen Auskunft
 zu erteilen.
 
-
 ## § 14 Stellung des überlebenden Ehegatten
 
 (1) Dem überlebenden Ehegatten des Erblassers steht, wenn der Hoferbe
@@ -519,7 +499,6 @@ bisherigen gesetzlichen Hoferben ein. Auf Antrag eines Beteiligten
 regelt das Gericht, und zwar auch mit Wirkung gegenüber Dritten, die
 mit dem Übergang des Hofes zusammenhängenden Fragen.
 
-
 ## § 15 Nachlaßverbindlichkeiten
 
 (1) Der Hoferbe haftet, auch wenn er an dem übrigen Nachlaß nicht als
@@ -548,7 +527,6 @@ Satz 2 ebenso wie die Nachlaßverbindlichkeiten von allen Hoferben
 gemeinschaftlich, und zwar im Verhältnis zueinander entsprechend den
 Hofeswerten getragen.
 
-
 ## § 16 Verfügung von Todes wegen
 
 (1) Der Eigentümer kann die Erbfolge kraft Höferechts (§ 4) durch
@@ -566,7 +544,6 @@ Erben der nach diesem Gesetz zu ermittelnde gesetzliche Erbteil
 maßgebend. Dabei ist der Hof in jedem Falle nach dem in § 12 Abs. 2
 bestimmten Wert anzusetzen.
 
-
 ## § 17 Übergabevertrag
 
 (1) Bei der Übergabe des Hofes an den Hoferben im Wege der
@@ -580,7 +557,6 @@ eingetreten.
 
 (3) Soweit nach den Vorschriften des Grundstücksverkehrsgesetzes eine
 Genehmigung erforderlich ist, wird sie durch das Gericht erteilt.
-
 
 ## § 18 Zuständigkeit der Gerichte
 

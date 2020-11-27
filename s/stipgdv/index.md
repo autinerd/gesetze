@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 29.11.2011 I 2450
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Nummer 1, 2, 7 und 8 des Stipendienprogramm-
 Gesetzes vom 21. Juli 2010 (BGBl. I S. 957) verordnet die
 Bundesregierung:
-
 
 ## § 1 Bewerbungs- und Auswahlverfahren
 
@@ -51,7 +49,6 @@ Hochschulen in allgemein zugänglicher Form bekannt
 
 Vorschriften der Hochschulen zur weiteren Ausgestaltung der
 Bewerbungs- und Auswahlverfahren bleiben unberührt.
-
 
 ## § 2 Auswahlkriterien
 
@@ -100,10 +97,6 @@ Bewerbers sollen außerdem insbesondere berücksichtigt werden
     Angehöriger, die Mitarbeit im familiären Betrieb, studienbegleitende
     Erwerbstätigkeiten, familiäre Herkunft oder ein Migrationshintergrund.
 
-
-
-
-
 ## § 3 Regelmäßige Begabungs- und Leistungsüberprüfung
 
 Die Hochschulen prüfen mindestens einmal jährlich, ob die Begabung und
@@ -114,11 +107,9 @@ der Stipendiat erbringen muss, um diese Prüfung zu ermöglichen.
 Besondere persönliche oder familiäre Umstände, unter denen die
 Leistung erbracht wurde, werden berücksichtigt.
 
-
 ## § 4 (weggefallen)
 
 -
-
 
 ## § 5 Beirat
 
@@ -162,11 +153,9 @@ und Forschung oder eine von diesem beauftragte Stelle. Der Beirat gibt
 sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums
 für Bildung und Forschung bedarf.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

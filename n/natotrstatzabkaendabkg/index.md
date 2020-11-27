@@ -26,7 +26,6 @@ Stand: Art. 1 dieses G ist am 13.10.1994 in Kraft getreten; im übrigen tritt di
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 (1) Folgenden, in Bonn am 18. März 1993 von der Bundesrepublik
@@ -64,9 +63,7 @@ Deutschland unterzeichneten Übereinkünften wird zugestimmt:
 (2) Die aufgeführten Abkommen und das Übereinkommen werden nachstehend
 veröffentlicht.
 
-
 ## (XXXX) Art 2 und 3 (weggefallen)
-
 
 ## Art 3a
 
@@ -84,7 +81,6 @@ beauftragten Stellen können von dem nach Satz 1 Verpflichteten
 entgeltfrei Auskünfte im Hinblick auf die Erfüllung der genannten
 Verpflichtungen verlangen.
 
-
 ## Art 4
 
 Das Auswärtige Amt wird ermächtigt, den Wortlaut des Zusatzabkommens
@@ -92,7 +88,6 @@ zum NATO-Truppenstatut in der durch das Änderungsabkommen geänderten
 Fassung sowie das Gesetz zum NATO-Truppenstatut und zu den
 Zusatzvereinbarungen in der geänderten Fassung im Bundesgesetzblatt
 bekanntzumachen.
-
 
 ## Art 5
 

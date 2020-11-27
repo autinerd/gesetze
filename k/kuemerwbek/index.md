@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1366
 
-
-
 ## (XXXX)
 
 Der Beschluß der Bundesregierung über die "Erweiterung des

@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2092
 
-
 ## I.
 
 Nach § 126 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
@@ -30,7 +29,6 @@ Verwaltungsakte sowie die Ablehnung eines Anspruchs in Angelegenheiten
 nach den besoldungsrechtlichen Bestimmungen des Bundes sowie in
 Kindergeldangelegenheiten zu entscheiden, soweit sie zum Erlass des
 Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
-
 
 ## II.
 
@@ -45,7 +43,6 @@ Kindergeldangelegenheiten. Das Bundesministerium für Wirtschaft und
 Technologie behält sich vor, im Einzelfall die Prozessvertretung
 selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist hinsichtlich der besoldungsrechtlichen
@@ -57,7 +54,6 @@ Bundes bei Klagen von Beschäftigten der Bundesanstalt für
 Geowissenschaften und Rohstoffe in Angelegenheiten nach den
 besoldungsrechtlichen Bestimmungen des Bundes vom 24. Februar 2010
 (BGBl. I S. 194) außer Kraft.
-
 
 ## Schlussformel
 

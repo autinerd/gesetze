@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 14 G v. 22.12.2011 I 2983
 
-
 ## Eingangsformel
 
 Auf Grund des § 171d Absatz 2 des Fünften Buches Sozialgesetzbuch –
 Gesetzliche Krankenversicherung –, der durch Artikel 1 Nummer 8 des
 Gesetzes vom 15. Dezember 2008 (BGBl. I S. 2426) eingefügt worden ist,
 verordnet das Bundesministerium für Gesundheit:
-
 
 ## § 1 Sachlicher Anwendungsbereich
 
@@ -60,7 +58,6 @@ werden können.
 Krankenkasse, für die der Spitzenverband Bund der Krankenkassen nach §
 171d des Fünften Buches Sozialgesetzbuch haftet und die nicht aus dem
 Vermögen oder der Insolvenzmasse befriedigt werden können.
-
 
 ## § 2 Aufteilung auf die Krankenkassen der Kassenart im Schließungsfall
 
@@ -132,10 +129,6 @@ ermitteln:
     Zahl ihrer Mitglieder vervielfacht und auf zwei Stellen nach dem Komma
     kaufmännisch gerundet.
 
-
-
-
-
 ## § 3 Aufteilung auf die Krankenkassen der übrigen Kassenarten bei Schließung einer Krankenkasse
 
 (1) Übersteigt der auf die Krankenkassen der betroffenen Kassenart (§
@@ -167,7 +160,6 @@ genannten Krankenkassen ist dabei der Mitgliederanteil zu Grunde zu
 legen, der bei der Anwendung des § 2 Absatz 2 Satz 2 nicht
 berücksichtigt worden ist.
 
-
 ## § 4 Aufteilung im Insolvenzfall
 
 (1) Für die Aufteilung der Verpflichtungen nach § 1 Absatz 3 durch den
@@ -188,7 +180,6 @@ entsprechend, wenn diese 1,5 Prozent des Gesamtbetrags der jährlichen
 Zuweisungen übersteigen, die die Krankenkassen der betroffenen
 Kassenart (§ 2 Absatz 1) aus dem Gesundheitsfonds erhalten.
 
-
 ## § 5 Verfahrensregelungen
 
 (1) Der Spitzenverband Bund der Krankenkassen macht die auf die
@@ -207,11 +198,9 @@ nach Satz 1 tritt ohne Mahnung Verzug ein. Im Fall des Verzugs sind
 Verzugszinsen in Höhe von acht Prozentpunkten über dem Basiszinssatz
 zu zahlen.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

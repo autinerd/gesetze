@@ -15,35 +15,25 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1963, 360 (704)
 
-
-
 ## Art I - Änderung von Gesetzen
-
-
 
 ### § 1 Änderung des Lastenausgleichsgesetzes
 
 -
 
-
 ### § 2 Änderung des Währungsausgleichsgesetzes
 
 -
-
 
 ### § 3 Änderung des Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
 
 -
 
-
 ### § 4 Änderung des Vierzehnten Gesetzes zur Änderung des Lastenausgleichsgesetzes
 
 -
 
-
 ## Art II - Überleitungs- und Schlußvorschriften
-
-
 
 ### § 5 Überleitungsvorschrift zu § 230 des Lastenausgleichsgesetzes
 
@@ -65,10 +55,6 @@ folgendes:
 3.  Aus dem Härtefonds gewährte Aufbaudarlehen gelten für die Anwendung
     der §§ 255, 258 des Lastenausgleichsgesetzes als Aufbaudarlehen nach §
     254 des Lastenausgleichsgesetzes.
-
-
-
-
 
 ### § 6 Anwendungszeitpunkt
 
@@ -110,13 +96,11 @@ Lastenausgleichsgesetzes in der Fassung des § 1 Nr. 8 dieses Gesetzes
 Vertreibungsschäden oder Ostschäden geltend machen können, wird
 Kriegsschadenrente frühestens vom 1. Juni 1963 ab gewährt.
 
-
 ### § 7 Anwendung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
 auch im Land Berlin.
-
 
 ### § 8 Inkrafttreten
 

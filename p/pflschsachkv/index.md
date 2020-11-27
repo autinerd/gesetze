@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 3 Satz 2 und des § 22 Abs. 3 Satz 2 des
 Pflanzenschutzgesetzes vom 15. September 1986 (BGBl. I S. 1505)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Sachkundenachweis für die Anwendung von Pflanzenschutzmitteln
 
@@ -88,7 +86,6 @@ der Aus-, Fort- oder Weiterbildung gewesen ist.
 (3) Die zuständige Behörde stellt demjenigen, der die erforderlichen
 fachlichen Kenntnisse und Fertigkeiten besitzt, auf Antrag hierüber
 eine Bescheinigung nach dem Muster der Anlage 2 aus.
-
 
 ## § 1a Anerkennung der Befähigungsnachweise aus anderen Mitgliedstaaten bei dauerhafter Tätigkeit
 
@@ -168,7 +165,6 @@ Voraussetzungen nach Absatz 1, auch in Verbindung mit Absatz 3,
 erfüllt, auf Antrag hierüber eine Bescheinigung nach dem Muster der
 Anlage 2 aus.
 
-
 ## § 1b Anerkennung der Befähigungsnachweise aus anderen Mitgliedstaaten bei vorübergehender oder gelegentlicher Tätigkeit
 
 (1) Übt ein Staatsangehöriger aus einem anderen Mitgliedstaat
@@ -198,7 +194,6 @@ die Tätigkeit unter folgenden Voraussetzungen als erbracht:
 
 (2) § 1a Absatz 2 und 4 gilt entsprechend.
 
-
 ## § 1c Verfahren
 
 Wird ein Antrag nach § 1a Absatz 4 oder § 1b Absatz 2 gestellt,
@@ -208,7 +203,6 @@ gegebenenfalls mit, welche Unterlagen noch nachzureichen sind. Das
 Verfahren für die Prüfung des Antrags muss innerhalb von drei Monaten
 nach Einreichen der vollständigen Unterlagen abgeschlossen sein. Diese
 Frist kann in begründeten Fällen um einen Monat verlängert werden.
-
 
 ## § 1d Anerkennung von Befähigungsnachweisen aus anderen Staaten
 
@@ -228,7 +222,6 @@ Antragsteller die für die Ausübung der Tätigkeit erforderlichen
 deutschen Sprachkenntnisse hat. Über den Nachweis stellt die
 zuständige Behörde dem Antragsteller eine Bescheinigung nach dem
 Muster der Anlage 2 aus.
-
 
 ## § 2 Prüfung
 
@@ -308,7 +301,6 @@ bestandene oder einen Bescheid über die nicht bestandene Prüfung.
 zuständige Behörde oder die nach Landesrecht beauftragten Stellen
 weisen in ihrem Bescheid darauf hin.
 
-
 ## § 3 Sachkundenachweis für die Abgabe von Pflanzenschutzmitteln und für die Beratung über deren Anwendung
 
 (1) Für den Nachweis der erforderlichen fachlichen Kenntnisse für die
@@ -352,7 +344,6 @@ erbracht durch die Vorlage
 
 (3) (weggefallen)
 
-
 ## § 4 Nachprüfung
 
 Untersagt die zuständige Behörde eine Tätigkeit nach § 10 Abs. 2, §
@@ -365,11 +356,9 @@ Prüfung nach § 2, in den Fällen einer Untersagung nach § 22 Abs. 3 des
 Pflanzenschutzgesetzes von der erfolgreichen Teilnahme an einer
 Prüfung nach § 3 Abs. 1 abhängig machen.
 
-
 ## § 4a Unberührtheitsklausel
 
 Die Vorschriften der Chemikalien-Verbotsverordnung bleiben unberührt.
-
 
 ## § 5 Länderbefugnis
 
@@ -377,11 +366,9 @@ Die Befugnis der Länder, nach § 10 Abs. 3 Satz 3, auch in Verbindung
 mit § 22 Abs. 4 Satz 2, des Pflanzenschutzgesetzes nähere Vorschriften
 über das Verfahren der Prüfung nach § 2 zu erlassen, bleibt unberührt.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1988 in Kraft.
-
 
 ## Anlage 1 Abschlusszeugnisse (zu § 1 Abs. 2 und § 3 Abs. 1 und 2)
 
@@ -426,7 +413,6 @@ kaufmännische Angestellte nach der Verordnung über die
 Berufsausbildung zum pharmazeutisch-kaufmännischen Angestellten/zur
 pharmazeutisch-kaufmännischen Angestellten vom 3. März 1993 (BGBl. I
 S. 292).
-
 
 ## Anlage 2 (zu § 1 Absatz 3, § 1a Absatz 4, § 1b Absatz 2 und § 3 Absatz 1) Sachkundenachweis
 

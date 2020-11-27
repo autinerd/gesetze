@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 4.11.2010 I 1483
 
-
 ## Eingangsformel
 
 Auf Grund des § 27 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
 3317) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Gegenstand der Verordnung
 
@@ -56,7 +54,6 @@ abschließend geregelt sind oder nach Absatz 3 von den §§ 2 bis 34
 abweichen, einschließlich der dazugehörenden Preisregelungen und
 Preislisten in geeigneter Weise öffentlich bekanntzugeben.
 
-
 ## § 2 Vertragsabschluß
 
 (1) Der Vertrag soll schriftlich abgeschlossen werden. Ist er auf
@@ -79,7 +76,6 @@ die dem Vertrag zugrunde liegenden allgemeinen Versorgungsbedingungen
 einschließlich der dazugehörenden Preisregelungen und Preislisten
 unentgeltlich auszuhändigen.
 
-
 ## § 3 Bedarfsdeckung
 
 Das Fernwärmeversorgungsunternehmen hat dem Kunden im Rahmen des
@@ -91,7 +87,6 @@ Fernwärmeversorgungsunternehmens zu decken. Er ist berechtigt,
 Vertragsanpassung zu verlangen, soweit er den Wärmebedarf unter
 Nutzung regenerativer Energiequellen decken will; Holz ist eine
 regenerative Energiequelle im Sinne dieser Bestimmung.
-
 
 ## § 4 Art der Versorgung
 
@@ -119,7 +114,6 @@ dies gesetzlich oder behördlich vorgeschrieben wird.
 Beschaffenheit des Wärmeträgers, die über die vorgenannten
 Verpflichtungen hinausgehen, so obliegt es ihm selbst, entsprechende
 Vorkehrungen zu treffen.
-
 
 ## § 5 Umfang der Versorgung, Benachrichtigung bei Versorgungsunterbrechungen
 
@@ -154,10 +148,6 @@ Benachrichtigung entfällt, wenn die Unterrichtung
 
 2.  die Beseitigung von bereits eingetretenen Unterbrechungen verzögern
     würde.
-
-
-
-
 
 ## § 6 Haftung bei Versorgungsstörungen
 
@@ -218,11 +208,9 @@ ersatzpflichtigen Unternehmen mitzuteilen. Leitet der Kunde die
 gelieferte Wärme an einen Dritten weiter, so hat er diese
 Verpflichtung auch dem Dritten aufzuerlegen.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Grundstücksbenutzung
 
@@ -272,7 +260,6 @@ Verkehrsflächen sowie für Grundstücke, die durch Planfeststellung für
 den Bau von öffentlichen Verkehrswegen und Verkehrsflächen bestimmt
 sind.
 
-
 ## § 9 Baukostenzuschüsse
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, von den
@@ -307,7 +294,6 @@ verwendeten Berechnungsmaßstäbe verlangen.
 (5) Der Baukostenzuschuß und die in § 10 Abs. 5 geregelten
 Hausanschlußkosten sind getrennt zu errechnen und dem Anschlußnehmer
 aufgegliedert auszuweisen.
-
 
 ## § 10 Hausanschluß
 
@@ -369,7 +355,6 @@ schriftliche Zustimmung des Grundstückseigentümers zur Herstellung des
 Hausanschlusses unter Anerkennung der damit verbundenen
 Verpflichtungen beizubringen.
 
-
 ## § 11 Übergabestation
 
 (1) Das Fernwärmeversorgungsunternehmen kann verlangen, daß der
@@ -381,7 +366,6 @@ Einrichtungen auch für andere Zwecke benutzen, soweit dies für den
 Anschlußnehmer zumutbar ist.
 
 (2) § 8 Abs. 3 und 4 sowie § 10 Abs. 8 gelten entsprechend.
-
 
 ## § 12 Kundenanlage
 
@@ -410,7 +394,6 @@ entsprechend den anerkannten Regeln der Technik beschaffen sind. Das
 Zeichen einer amtlich anerkannten Prüfstelle bekundet, daß diese
 Voraussetzungen erfüllt sind.
 
-
 ## § 13 Inbetriebsetzung der Kundenanlage
 
 (1) Das Fernwärmeversorgungsunternehmen oder dessen Beauftragte
@@ -424,7 +407,6 @@ Anmeldeverfahren des Unternehmens einzuhalten.
 (3) Das Fernwärmeversorgungsunternehmen kann für die Inbetriebsetzung
 vom Kunden Kostenerstattung verlangen; die Kosten können pauschal
 berechnet werden.
-
 
 ## § 14 Überprüfung der Kundenanlage
 
@@ -445,7 +427,6 @@ Fernwärmeversorgungsunternehmen keine Haftung für die Mängelfreiheit
 der Anlage. Dies gilt nicht, wenn es bei einer Überprüfung Mängel
 festgestellt hat, die eine Gefahr für Leib oder Leben darstellen.
 
-
 ## § 15 Betrieb, Erweiterung und Änderung von Kundenanlage und Verbrauchseinrichtungen, Mitteilungspflichten
 
 (1) Anlage und Verbrauchseinrichtungen sind so zu betreiben, daß
@@ -459,7 +440,6 @@ preisliche Bemessungsgrößen ändern oder sich die vorzuhaltende
 Leistung erhöht. Nähere Einzelheiten über den Inhalt der Mitteilung
 kann das Unternehmen regeln.
 
-
 ## § 16 Zutrittsrecht
 
 Der Kunde hat dem mit einem Ausweis versehenen Beauftragten des
@@ -468,7 +448,6 @@ gestatten, soweit dies für die Prüfung der technischen Einrichtungen,
 zur Wahrnehmung sonstiger Rechte und Pflichten nach dieser Verordnung,
 insbesondere zur Ablesung, oder zur Ermittlung preislicher
 Bemessungsgrundlagen erforderlich und vereinbart ist.
-
 
 ## § 17 Technische Anschlußbedingungen
 
@@ -488,7 +467,6 @@ störungsfreie Versorgung gefährden würde.
 Anforderungen der zuständigen Behörde anzuzeigen. Die Behörde kann sie
 beanstanden, wenn sie mit Inhalt und Zweck dieser Verordnung nicht zu
 vereinbaren sind.
-
 
 ## § 18 Messung
 
@@ -553,7 +531,6 @@ Fassung der Bekanntmachung vom 5. April 1984 (BGBl. I S. 592),
 geändert durch Artikel 1 der Verordnung vom 19. Januar 1989 (BGBl. I
 S. 109), zu beachten.
 
-
 ## § 19 Nachprüfung von Meßeinrichtungen
 
 (1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
@@ -570,7 +547,6 @@ Bei Meßeinrichtungen, die den eichrechtlichen Vorschriften entsprechen
 müssen, ist die Ungenauigkeit dann nicht unerheblich, wenn sie die
 gesetzlichen Verkehrsfehlergrenzen überschreitet.
 
-
 ## § 20 Ablesung
 
 (1) Die Meßeinrichtungen werden vom Beauftragten des
@@ -583,7 +559,6 @@ zugänglich sind.
 nicht zum Zwecke der Ablesung betreten kann, darf das Unternehmen den
 Verbrauch auf der Grundlage der letzten Ablesung schätzen; die
 tatsächlichen Verhältnisse sind angemessen zu berücksichtigen.
-
 
 ## § 21 Berechnungsfehler
 
@@ -605,7 +580,6 @@ vorhergehenden Ablesezeitraum beschränkt, es sei denn, die Auswirkung
 des Fehlers kann über einen größeren Zeitraum festgestellt werden; in
 diesem Fall ist der Anspruch auf längstens zwei Jahre beschränkt.
 
-
 ## § 22 Verwendung der Wärme
 
 (1) Die Wärme wird nur für die eigenen Zwecke des Kunden und seiner
@@ -618,7 +592,6 @@ versorgungswirtschaftliche Gründe entgegenstehen.
 (2) Dampf, Kondensat oder Heizwasser dürfen den Anlagen, soweit nichts
 anderes vereinbart ist, nicht entnommen werden. Sie dürfen weder
 verändert noch verunreinigt werden.
-
 
 ## § 23 Vertragsstrafe
 
@@ -633,7 +606,6 @@ höchstmöglichem Wärmeverbrauch zu zahlenden Entgelts nicht
 (2) Ist die Dauer der unbefugten Entnahme nicht festzustellen, so kann
 die Vertragsstrafe über einen festgestellten Zeitraum hinaus für
 längstens ein Jahr erhoben werden.
-
 
 ## § 24 Abrechnung, Preisänderungsklauseln
 
@@ -669,7 +641,6 @@ Preisänderungsklauseln ist der prozentuale Anteil des die
 Brennstoffkosten abdeckenden Preisfaktors an der jeweiligen
 Preisänderung gesondert auszuweisen.
 
-
 ## § 25 Abschlagszahlungen
 
 (1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann das
@@ -693,13 +664,11 @@ erstatten, spätestens aber mit der nächsten Abschlagsforderung zu
 verrechnen. Nach Beendigung des Versorgungsverhältnisses sind zuviel
 gezahlte Abschläge unverzüglich zu erstatten.
 
-
 ## § 26 Vordrucke für Rechnungen und Abschläge
 
 Vordrucke für Rechnungen und Abschläge müssen verständlich sein. Die
 für die Forderung maßgeblichen Berechnungsfaktoren sind vollständig
 und in allgemein verständlicher Form auszuweisen.
-
 
 ## § 27 Zahlung, Verzug
 
@@ -711,7 +680,6 @@ jedoch zwei Wochen nach Zugang der Zahlungsaufforderung fällig.
 Fernwärmeversorgungsunternehmen, wenn es erneut zur Zahlung auffordert
 oder den Betrag durch einen Beauftragten einziehen läßt, die dadurch
 entstandenen Kosten auch pauschal berechnen.
-
 
 ## § 28 Vorauszahlungen
 
@@ -735,7 +703,6 @@ Rechnungserteilung zu verrechnen.
 Fernwärmeversorgungsunternehmen auch für die Erstellung oder
 Veränderung des Hausanschlusses Vorauszahlung verlangen.
 
-
 ## § 29 Sicherheitsleistung
 
 (1) Ist der Kunde oder Anschlußnehmer zur Vorauszahlung nicht in der
@@ -756,7 +723,6 @@ oder Anschlußnehmers.
 (4) Die Sicherheit ist zurückzugeben, wenn ihre Voraussetzungen
 weggefallen sind.
 
-
 ## § 30 Zahlungsverweigerung
 
 Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen zum
@@ -770,16 +736,11 @@ Zahlungsaufschub oder zur Zahlungsverweigerung nur,
     zwei Jahren nach Zugang der fehlerhaften Rechnung oder
     Abschlagsberechnung geltend gemacht wird.
 
-
-
-
-
 ## § 31 Aufrechnung
 
 Gegen Ansprüche des Fernwärmeversorgungsunternehmens kann nur mit
 unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen
 aufgerechnet werden.
-
 
 ## § 32 Laufzeit des Versorgungsvertrages, Kündigung
 
@@ -819,7 +780,6 @@ Vertragsverhältnis aus wichtigem Grund mit zweiwöchiger Frist auf das
 Ende des der Bekanntgabe folgenden Monats zu kündigen.
 
 (6) Die Kündigung bedarf der Schriftform.
-
 
 ## § 33 Einstellung der Versorgung, fristlose Kündigung
 
@@ -867,7 +827,6 @@ Zuwiderhandlungen nach Absatz 2 ist das Unternehmen zur fristlosen
 Kündigung berechtigt, wenn sie zwei Wochen vorher angedroht wurde;
 Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
 ## § 34 Gerichtsstand
 
 (1) Der Gerichtsstand für Kaufleute, die nicht zu den in § 4 des
@@ -886,10 +845,6 @@ Betriebsstelle des Fernwärmeversorgungsunternehmens.
     sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der
     Klageerhebung nicht bekannt ist.
 
-
-
-
-
 ## § 35 Öffentlich-rechtliche Versorgung mit Fernwärme
 
 (1) Rechtsvorschriften, die das Versorgungsverhältnis öffentlich-
@@ -902,13 +857,11 @@ Regelung des Abgabenrechts.
 die das Versorgungsverhältnis öffentlich-rechtlich regeln, sind bis
 zum 1. Januar 1982 anzupassen.
 
-
 ## § 36 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 29 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen auch im Land Berlin.
-
 
 ## § 37 Inkrafttreten
 
@@ -930,11 +883,9 @@ von neun Monaten gekündigt werden, solange sich der Vertrag nicht nach
 
 (4) (weggefallen)
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1008) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

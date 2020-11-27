@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 32 G v. 19.6.2001 I 1149
 
-
 ## Erster Abschnitt - Anwendbarkeit des Gesetzes
-
-
 
 ### § 1
 
@@ -32,7 +29,6 @@ der Inanspruchnahme auf Veranlassung einer Besatzungsmacht oder der im
 Bundesgebiet stationierten ausländischen Streitkräfte eine Sache
 verbunden worden, so bestimmen sich die Rechtsverhältnisse an dem
 Grundstück und an der Sache nach den Vorschriften dieses Gesetzes.
-
 
 ### § 2
 
@@ -48,10 +44,7 @@ diese Grundstücke und Grundstücksteile nach deren Freigabe insoweit
 anzuwenden, als sie für die wirtschaftliche Nutzung der Sache
 erforderlich sind.
 
-
 ## Zweiter Abschnitt - Regelung der Rechtsverhältnisse, Wertausgleich
-
-
 
 ### § 3
 
@@ -66,7 +59,6 @@ Eigentumsübergang wird die Sache Bestandteil des Grundstücks.
 (2) Ist vor dem Inkrafttreten dieses Gesetzes eine Vereinbarung über
 die Rechtsverhältnisse an dem Grundstück und an der Sache getroffen
 worden, so behält es dabei sein Bewenden.
-
 
 ### § 4
 
@@ -84,7 +76,6 @@ dieses Gesetzes.
 dem Grundstückseigentümer unter Berücksichtigung der besonderen
 Umstände des Einzelfalles ein Ausgleich billigerweise nicht zuzumuten
 ist.
-
 
 ### § 5
 
@@ -105,7 +96,6 @@ und hat sich der Wert des Grundstücks nach der Freigabe infolge von
 Aufwendungen aus öffentlichen Mitteln erhöht, so ist das beim
 Ausgleich zu berücksichtigen.
 
-
 ### § 6
 
 Hat die Verbindung der Sache mit dem Grundstück nicht zu einer
@@ -113,7 +103,6 @@ baulichen Veränderung des Grundstücks geführt, so ist der
 Grundstückseigentümer in sinngemäßer Anwendung der § 536a Abs. 2 Nr.
 2, § 539 Abs. 1 des Bürgerlichen Gesetzbuchs zum Ausgleich
 verpflichtet. § 4 Abs. 2 gilt entsprechend.
-
 
 ### § 7
 
@@ -131,10 +120,6 @@ b)  der Ausgleich auf andere Weise, insbesondere durch Verrechnung mit
     eingetretene Schäden oder durch Abzug von der Entschädigung für die
     Überlassung der Nutzung oder des Gebrauchs des Grundstücks erfolgt
     ist.
-
-
-
-
 
 ### § 8
 
@@ -156,7 +141,6 @@ Vereinbarung oder dem Bescheid bestimmt, daß der Ausgleichsanspruch
 erst zu einem späteren Zeitpunkt fällig werden soll, so ist dieser
 maßgebend.
 
-
 ### § 9
 
 Die Ausgleichsverpflichtung soll tunlichst durch Vereinbarung zwischen
@@ -169,10 +153,7 @@ Ausgleichsverpflichtung, die Höhe des Ausgleichsbetrages und seine
 Fälligkeit. In dem Bescheid sind erforderlichenfalls die
 Sicherheitsleistung nach Art und Höhe und die Tilgung zu regeln.
 
-
 ## Dritter Abschnitt - Erwerbspflicht der Bundesrepublik
-
-
 
 ### § 10
 
@@ -196,7 +177,6 @@ nicht mehr entsprechend seiner bisherigen Bestimmung verwendet oder
 genutzt werden, so kann der Grundstückseigentümer verlangen, daß die
 Bundesrepublik auch das Eigentum an dem Restbesitz gegen Zahlung einer
 Entschädigung erwirbt. Absatz 1 Satz 2 findet Anwendung.
-
 
 ### § 11
 
@@ -229,7 +209,6 @@ Grundbuch. Wird Eigentum nur an einem Teil eines Grundstücks
 übertragen, so sind dem Ersuchen ein Auszug aus dem
 Veränderungsnachweis und eine Abzeichnung der Flurkarte beizufügen.
 
-
 ### § 12
 
 (1) Die von der Bundesrepublik zu zahlende Entschädigung bemißt sich
@@ -253,7 +232,6 @@ Grundstück verbundenen Sache beruht.
 (3) Ansprüche auf Entschädigung für Schäden, die während der Dauer der
 Inanspruchnahme an dem Grundstück entstanden sind, bleiben unberührt.
 
-
 ### § 13
 
 (1) Hat sich nach der Freigabe der Wert der Sache infolge von
@@ -267,7 +245,6 @@ Nutzung der Sache. Die §§ 8 und 9 sind sinngemäß anzuwenden.
 Aufwendungen des Grundstückseigentümers erhöht, so ist die
 Werterhöhung bei der Bemessung der Entschädigung für das Eigentum an
 dem Grundstück zu berücksichtigen.
-
 
 ### § 14
 
@@ -300,7 +277,6 @@ dem Restbesitz bestehenden dinglichen Rechte und der Rechte, die zum
 Besitz oder zur Nutzung des Restbesitzes berechtigen, Anspruch auf
 Ersatz einer Wertminderung ihres Rechts aus dieser Entschädigung.
 
-
 ### § 15
 
 Für andere durch den Eigentumserwerb der Bundesrepublik verursachte
@@ -308,13 +284,11 @@ Vermögensnachteile ist den Entschädigungsberechtigten unter gerechter
 Abwägung der Interessen der Allgemeinheit und der Beteiligten eine
 Entschädigung in Geld zu gewähren.
 
-
 ### § 16
 
 Auf das Verfahren nach den §§ 11 bis 15 sind die §§ 29 bis 34, 35 Abs.
 1, §§ 37, 44 bis 49 und 52 bis 54 des Landbeschaffungsgesetzes
 sinngemäß anzuwenden.
-
 
 ### § 17
 
@@ -323,7 +297,6 @@ nach § 14 Abs. 3 und 4 zu befriedigen sind, in Anwendung des § 53 Abs.
 1 des Landbeschaffungsgesetzes unter Verzicht auf das Recht der
 Rücknahme zu hinterlegen, so ist in den Festsetzungsbescheid eine
 entsprechende Anordnung aufzunehmen.
-
 
 ### § 18
 
@@ -334,10 +307,7 @@ auf dem Kapitalmarkt üblichen Nominalzinsfuß zu verzinsen. Eine
 Entschädigung nach § 20 ist, soweit sie für den gleichen Zeitraum
 gewährt wird, auf die Zinsen anzurechnen.
 
-
 ## Vierter Abschnitt - Verfahrens- und Schlußvorschriften
-
-
 
 ### § 19
 
@@ -357,7 +327,6 @@ Sicherheit auf Antrag des Grundstückseigentümers oder der
 Bundesrepublik von der in § 9 genannten Behörde durch Bescheid
 festgesetzt.
 
-
 ### § 20
 
 Gelangt der Grundstückseigentümer nicht alsbald nach Freigabe in den
@@ -369,7 +338,6 @@ anzurechnen. Kommt über die Höhe der Entschädigung eine Vereinbarung
 nicht zustande, so wird sie auf Antrag des Grundstückseigentümers oder
 der Bundesrepublik von der in § 9 genannten Behörde durch Bescheid
 festgesetzt.
-
 
 ### § 21
 
@@ -387,17 +355,14 @@ werden, wenn die Entschädigungsverfahren endgültig abgeschlossen sind.
 Ansprüche wegen Schäden der in Absatz 2 genannten Art nicht mehr
 geltend gemacht werden.
 
-
 ### § 22
 
 Verwaltungsakte nach diesem Gesetz sind den Beteiligten zuzustellen.
-
 
 ### § 23
 
 Für Streitigkeiten aus diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben, sofern sich nicht aus § 24 etwas anderes ergibt.
-
 
 ### § 24
 
@@ -435,7 +400,6 @@ Entschädigung Berechtigten ist darauf zu richten, daß der Ausgleich
 oder die Entschädigung unter Aufhebung oder Abänderung der erfolgten
 Festsetzung anderweit festgesetzt wird.
 
-
 ### § 25
 
 (1) Der Festsetzungsbescheid nach § 9 oder § 11 ist den Beteiligten
@@ -459,13 +423,11 @@ Geschäftsstelle dieses Gerichts. In den Fällen der §§ 731, 767 bis
 dessen Bezirk die mit dem Festsetzungsverfahren befaßte Behörde ihren
 Sitz hat, an die Stelle des Prozeßgerichts.
 
-
 ### § 26
 
 Die Vorschriften dieses Gesetzes sind auf Grundstücke, die Gegenstand
 eines Enteignungsverfahrens nach dem Landbeschaffungsgesetz sind,
 nicht anzuwenden.
-
 
 ### § 27
 
@@ -480,7 +442,6 @@ Begründung des Nutzungsverhältnisses mit einem Grundstück verbunden
 worden ist und die Rechtsverhältnisse an ihr nicht bereits durch
 Vereinbarung geregelt worden sind.
 
-
 ### § 28
 
 (1) Das Verfahren vor der in § 9 genannten Behörde ist kostenfrei. Dem
@@ -493,7 +454,6 @@ Entschädigungsberechtigten durch das Verfahren entstanden sind, werden
 ihm auf Antrag erstattet, wenn sie zur zweckentsprechenden Wahrnehmung
 seiner Rechte notwendig waren und sich die Rechtsverfolgung als nach
 den Bestimmungen dieses Gesetzes begründet erweist.
-
 
 ### § 29
 
@@ -522,7 +482,6 @@ den Bestimmungen dieses Gesetzes begründet erweist.
 
 
 (3) Die §§ 26 und 27 sind im Land Berlin nicht anwendbar.
-
 
 ### § 30
 
@@ -597,7 +556,6 @@ genannte Gebiet wie folgt ergänzt:
 
 (3) Die §§ 26, 27 und 29 finden für das in Artikel 3 des
 Einigungsvertrages genannte Gebiet keine Anwendung.
-
 
 ### § 31
 

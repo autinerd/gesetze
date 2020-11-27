@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 24 G v. 19.9.2006 I 2146
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 des Straßenverkehrsgesetzes in der Fassung
@@ -27,16 +26,13 @@ zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom
 2\. März 1974 (Bundesgesetzbl. I S. 469), wird nach Anhören der
 zuständigen obersten Landesbehörden verordnet:
 
-
 ## § 1
 
 (weggefallen)
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
@@ -46,7 +42,6 @@ zusätzliche Rückstrahler nicht erforderlich, wenn eine höhere
 Anbringung der vorgeschriebenen Rückstrahler bei der Erteilung der
 Betriebserlaubnis genehmigt und eine Auflage über die Anbringung eines
 zweiten Paares Rückstrahler nicht gemacht worden ist.
-
 
 ## § 4
 
@@ -59,16 +54,13 @@ Blinkleuchten für rotes Licht abgestrahlt werden.
 anstatt durch die Blinkleuchten für rotes Licht durch zwei zusätzlich
 angebrachte Leuchten für gelbes Licht abgestrahlt werden.
 
-
 ## § 5
 
 (weggefallen)
 
-
 ## § 6
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2975
 
-
 ## § 1 Kinderschutz und staatliche Mitverantwortung
 
 (1) Ziel des Gesetzes ist es, das Wohl von Kindern und Jugendlichen zu
@@ -54,7 +53,6 @@ Hinblick auf die Entwicklung von Kindern vor allem in den ersten
 Lebensjahren für Mütter und Väter sowie schwangere Frauen und werdende
 Väter (Frühe Hilfen).
 
-
 ## § 2 Information der Eltern über Unterstützungsangebote in Fragen der Kindesentwicklung
 
 (1) Eltern sowie werdende Mütter und Väter sollen über
@@ -68,7 +66,6 @@ persönliches Gespräch anzubieten. Dieses kann auf Wunsch der Eltern in
 ihrer Wohnung stattfinden. Sofern Landesrecht keine andere Regelung
 trifft, bezieht sich die in Satz 1 geregelte Befugnis auf die
 örtlichen Träger der Jugendhilfe.
-
 
 ## § 3 Rahmenbedingungen für verbindliche Netzwerkstrukturen im Kinderschutz
 
@@ -115,7 +112,6 @@ Bundesinitiative und des Fonds wird in Verwaltungsvereinbarungen
 geregelt, die das Bundesministerium für Familie, Senioren, Frauen und
 Jugend im Einvernehmen mit dem Bundesministerium der Finanzen mit den
 Ländern schließt.
-
 
 ## § 4 Beratung und Übermittlung von Informationen durch Geheimnisträger bei Kindeswohlgefährdung
 

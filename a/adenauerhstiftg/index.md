@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 74 V v. 29.10.2001 I 2785
 
-
 ## § 1 Rechtsform der Stiftung
 
 Unter dem Namen "Stiftung Bundeskanzler-Adenauer-Haus" wird mit Sitz
 in Bad Honnef-Rhöndorf eine rechtsfähige Stiftung des öffentlichen
 Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
-
 
 ## § 2 Stiftungszweck
 
@@ -63,10 +61,6 @@ Maßnahmen:
 
 4.  Veranstaltungen im Sinne des Stiftungszwecks.
 
-
-
-
-
 ## § 3 Stiftungsvermögen
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen auf die Stiftung über:
@@ -93,7 +87,6 @@ Bundeshaushalts.
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur
 im Sinne des Stiftungszwecks zu verwenden.
 
-
 ## § 4 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
@@ -101,7 +94,6 @@ Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
 Genehmigung des Beauftragten der Bundesregierung für Angelegenheiten
 der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen der
 Satzung.
-
 
 ## § 5 Organe der Stiftung
 
@@ -111,10 +103,6 @@ Organe der Stiftung sind
 
 
 2.  der Vorstand.
-
-
-
-
 
 ## § 6 Kuratorium
 
@@ -139,7 +127,6 @@ Danach fällt das Vorschlagsrecht an die Bundesregierung.
 zum Aufgabenbereich der Stiftung gehören. Es überwacht die Tätigkeit
 des Vorstandes. Das Nähere regelt die Satzung.
 
-
 ## § 7 Vorstand
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom
@@ -156,12 +143,10 @@ außergerichtlich.
 
 (3) Das Nähere regelt die Satzung.
 
-
 ## § 8 Neben- und ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie
 nicht nebenamtlich tätig sind, ehrenamtlich tätig.
-
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung
 
@@ -176,7 +161,6 @@ Kuratorium.
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung
 geltenden Bestimmungen entsprechende Anwendung.
 
-
 ## § 10 Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
@@ -189,18 +173,15 @@ anzuwenden.
 (3) Der Stiftung kann durch Satzungsregelung das Recht, Beamte zu
 haben, verliehen werden.
 
-
 ## § 11 Gebühren
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwands nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
-
 ## § 12 Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
-
 
 ## § 13 Übernahme von Rechten und Pflichten
 
@@ -212,12 +193,10 @@ gleiche gilt für Rechte und Pflichten aus Verträgen, die die
 Bundesrepublik Deutschland für die unselbständige Stiftung
 Bundeskanzler-Adenauer-Haus abgeschlossen hat.
 
-
 ## § 14 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 15 Inkrafttreten
 

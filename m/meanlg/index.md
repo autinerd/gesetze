@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 17.12.1999 I 2450
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -40,17 +37,13 @@ Anlagenteile über oder in öffentlichen Verkehrswegen und
 Verkehrsflächen, einschließlich der zu den Wasserstraßen gehörenden
 Ufergrundstücke, verlegt sind.
 
-
 ### § 2 Begriffsbestimmung
 
 Meliorationsanlagen sind mit dem Erdboden verbundene Beregnungs- und
 andere Bewässerungs- sowie Entwässerungsanlagen, die der Verbesserung
 der land- oder forstwirtschaftlichen Bodennutzung dienen.
 
-
 ## Abschnitt 2 - Anlagen zur Bewässerung
-
-
 
 ### § 3 Bestellung einer Dienstbarkeit
 
@@ -67,14 +60,12 @@ keine Anwendung.
 (2) Der Anspruch des Eigentümers der Anlage auf Bestellung einer
 Dienstbarkeit verjährt mit dem Ablauf des 31. Dezember 2000.
 
-
 ### § 4 Haftung des Erwerbers
 
 Der Erwerber der Anlage ist dem Grundstückseigentümer gegenüber nicht
 zur Beseitigung derjenigen Beeinträchtigungen des Grundstücks aus
 einem nicht ordnungsgemäßen Zustand der Anlage verpflichtet, die vor
 dem Übergang der Gefahr auf den Erwerber eingetreten sind.
-
 
 ### § 5 Einreden des Grundstückseigentümers
 
@@ -98,7 +89,6 @@ Der Grundstückseigentümer kann die Bestellung einer Dienstbarkeit nach
 Wird die Anlage seit mindestens zwei Jahren nicht genutzt, so ist zu
 vermuten, daß eine Nutzung auch in Zukunft nicht stattfinden wird.
 
-
 ### § 6 Bestehenbleiben in der Zwangsvollstreckung
 
 Eine nach § 3 Abs. 1 bestellte Dienstbarkeit bleibt im Falle einer
@@ -106,7 +96,6 @@ Zwangsversteigerung in das Grundstück auch dann bestehen, wenn sie bei
 der Feststellung des geringsten Gebots nicht berücksichtigt ist. Satz
 1 ist auf Zwangsversteigerungsverfahren, die nach Ablauf des 31.
 Dezember 2005 beantragt werden, nicht anzuwenden.
-
 
 ### § 7 Anspruch auf Verzicht
 
@@ -116,7 +105,6 @@ verzichtet, wenn mit einem bestimmungsgemäßen Gebrauch der Anlage
 nicht mehr zu rechnen ist. Ist die Anlage seit mindestens zwei Jahren
 nicht mehr genutzt worden, so ist zu vermuten, daß auch in Zukunft ein
 bestimmungsgemäßer Gebrauch nicht stattfinden wird.
-
 
 ### § 8 Wegnahmerecht
 
@@ -131,7 +119,6 @@ Wegnahme für den Eigentümer der Anlage keinen Nutzen hat und diesem
 vom Grundstückseigentümer der Wert ersetzt wird, den die Anlage zum
 Zeitpunkt der Wegnahme hat.
 
-
 ### § 9 Entgelt
 
 (1) Der Grundstückseigentümer kann von dem Eigentümer der Anlage für
@@ -144,7 +131,6 @@ Grundstückseigentümer der Belastung seines Grundstücks zugestimmt hat.
 Der Eigentümer der Anlage kann im Falle einer nach Absatz 1
 geforderten einmaligen Zahlung eine zinslose Stundung der Hälfte des
 zu zahlenden Betrages auf zwei Jahre verlangen.
-
 
 ### § 10 Eigentumsübergang
 
@@ -162,7 +148,6 @@ verlangt werden. Satz 1 ist nicht anzuwenden, wenn der Eigentümer des
 Grundstücks die Anlage für eigene Zwecke nutzt. Im Falle des Satzes 2
 hat der Grundstückseigentümer dem Eigentümer der Anlage deren Wert im
 Zeitpunkt des Eigentumsübergangs zu ersetzen.
-
 
 ### § 11 Ersatz der Kosten des Abbruchs der Anlage
 
@@ -196,10 +181,7 @@ des 31. Dezember 2000. Die Verjährung wird unterbrochen, wenn ein
 Rechtsstreit über den Anspruch auf Bestellung der Dienstbarkeit
 rechtshängig wird.
 
-
 ## Abschnitt 3 - Anlagen zur Entwässerung
-
-
 
 ### § 12 Eigentumsübergang
 
@@ -208,7 +190,6 @@ Entwässerungsanlagen geht mit dem 1. Januar 1995 auf den
 Grundstückseigentümer über. Die Anlage wird wesentlicher Bestandteil
 des Grundstücks.
 
-
 ### § 13 Entschädigung für den Rechtsverlust
 
 Wer durch den in § 12 bestimmten Eigentumsübergang einen Rechtsverlust
@@ -216,7 +197,6 @@ erleidet, kann vom Grundstückseigentümer eine Entschädigung nach § 951
 Abs. 1 des Bürgerlichen Gesetzbuchs verlangen. Der
 Grundstückseigentümer hat nach Satz 1 den Wert zu ersetzen, den die
 Anlage im Zeitpunkt des Eigentumsübergangs hat.
-
 
 ### § 14 Durchleitungsrecht
 
@@ -254,10 +234,7 @@ ist und dadurch eine unbillige Härte entsteht, die auch unter Abwägung
 mit den berechtigten Belangen des Grundstückseigentümers nicht zu
 rechtfertigen ist.
 
-
 ## Abschnitt 4 - Bauliche Anlagen
-
-
 
 ### § 15 Ansprüche der Beteiligten
 
@@ -307,10 +284,7 @@ Republik auf ehemals nicht volkseigenen Grundstücken errichtet worden
 sind und ein Nutzungsvertrag nicht abgeschlossen worden ist. In diesen
 Fällen gilt selbständiges Anlageneigentum als entstanden.
 
-
 ## Abschnitt 5 - Offene Gewässer
-
-
 
 ### § 16 Eigentumsbestimmung nach den Wassergesetzen
 
@@ -318,10 +292,7 @@ Die Bestimmungen der §§ 3 bis 15 sind auf offene Gewässer nicht
 anzuwenden. Die landesgesetzlichen Regelungen über das Eigentum an
 oberirdischen Gewässern bleiben unberührt.
 
-
 ## Abschnitt 6 - Schlußbestimmung
-
-
 
 ### § 17 Verhältnis zu anderen Bestimmungen
 
@@ -333,7 +304,6 @@ nach Abschnitt 8 des Landwirtschaftsanpassungsgesetzes angeordnet ist.
 (2) Die Regelungen über die Begründung von Mitgliedschaften in Wasser-
 und Bodenverbänden und die sich daraus ergebenden Rechtsfolgen bleiben
 unberührt.
-
 
 ### § 18 Überleitungsvorschrift
 

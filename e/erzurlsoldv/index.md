@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 12.2.2009 I 320
 
-
 ## § 1 Beginn und Ende des Anspruchs
 
 (1) Soldatinnen und Soldaten haben nach Maßgabe des § 15 Absatz 1 oder
@@ -65,7 +64,6 @@ drei Wochen nach dem Tod des Kindes.
 (6) Die von der Bundeswehr erteilte Elternzeit endet ferner mit der
 Beendigung des Wehrdienstverhältnisses.
 
-
 ## § 2 Antrag
 
 (1) Die Elternzeit soll, wenn sie unmittelbar nach der Geburt des
@@ -94,7 +92,6 @@ Wegfall des Grundes nachholen.
 Anspruchsberechtigung der oder dem nächsten Disziplinarvorgesetzten
 unverzüglich mitzuteilen.
 
-
 ## § 3 Verfahren
 
 (1) Die Elternzeit erteilt das Bundesministerium der Verteidigung oder
@@ -108,7 +105,6 @@ oder bereits gewährte Elternzeit widerrufen.
 von ihm beauftragten Stelle kann auf bereits bewilligte Elternzeit
 verzichtet werden.
 
-
 ## § 4 Nicht volle Erwerbstätigkeit
 
 Während der Elternzeit darf die Soldatin oder der Soldat mit
@@ -117,22 +113,18 @@ beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des
 Soldatenverhältnisses ausüben, wenn die Teilzeitbeschäftigung den
 Umfang von 30 Stunden in der Woche nicht überschreitet.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 (weggefallen)
 
 -
 
-
 ## § 7
 
 Die Vorschriften dieser Verordnung sind nur in den Fällen anzuwenden,
 in denen das Kind nach Inkrafttreten dieser Verordnung geboren wird.
-
 
 ## § 7a
 
@@ -141,11 +133,9 @@ diesem Zeitpunkt mit dem Ziel der Adoption aufgenommenen Kinder sind
 die Vorschriften dieser Verordnung in der bis zum 31. Dezember 2003
 geltenden Fassung weiter anzuwenden.
 
-
 ## § 8
 
 (Aufhebung anderer Vorschriften)
-
 
 ## § 9 (Inkrafttreten)
 

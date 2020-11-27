@@ -34,7 +34,6 @@ Streckengebühren (BGBl. 1984 II S. 69), wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft und mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## § 1
 
 Für die Inanspruchnahme von Streckennavigations-Diensten und
@@ -70,10 +69,6 @@ Hundert gewährt, wenn
 
 3.  im Flugplan Angaben zum Zweck des Übungsfluges eingetragen werden.
 
-
-
-
-
 ## § 2
 
 (1) Für die Festlegung der Gebühren und die Einziehung der Kosten
@@ -90,7 +85,6 @@ Kommission der Organisation EUROCONTROL festgelegt.
 erhebenden Auslagen ist die auf die Kosten nach § 1 Satz 1
 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
 
-
 ## § 3
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die
@@ -103,11 +97,9 @@ Vereinbarung außer Kraft tritt.
 (3) Der Tag des Inkrafttretens und des Außerkrafttretens sind im
 Bundesgesetzblatt bekanntzugeben.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 

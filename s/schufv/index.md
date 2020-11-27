@@ -15,16 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1654
 
-
 ## Eingangsformel
 
 Auf Grund des § 882h Absatz 3 der Zivilprozessordnung, der durch
 Artikel 1 Nummer 17 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258)
 eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
 ## Abschnitt 1 - Das Schuldnerverzeichnis
-
 
 ### § 1 Inhalt des Schuldnerverzeichnisses
 
@@ -40,9 +37,7 @@ Inhalt der Eintragung von Amts wegen und benachrichtigt den Einsender
 von der Berichtigung. Im Übrigen nimmt das zentrale
 Vollstreckungsgericht die Eintragung ohne inhaltliche Überprüfung vor.
 
-
 ## Abschnitt 2 - Form und Übermittlung von Eintragungsanordnungen und Entscheidungen
-
 
 ### § 2 Übermittlung von Eintragungsanordnungen und Entscheidungen
 
@@ -96,7 +91,6 @@ durch geeignete technische Maßnahmen zu gewährleisten, dass
 entsprechend für die elektronische Übermittlung von Entscheidungen im
 Sinne des § 882h Absatz 3 Satz 1 der Zivilprozessordnung.
 
-
 ### § 3 Vollziehung von Eintragungsanordnungen
 
 (1) Das zentrale Vollstreckungsgericht prüft elektronisch übermittelte
@@ -124,7 +118,6 @@ Absatz 2 und 3 entspricht.
 Übermittlung von Entscheidungen im Sinne des § 882h Absatz 3 Satz 1
 der Zivilprozessordnung.
 
-
 ### § 4 Löschung von Eintragungen
 
 (1) Das zentrale Vollstreckungsgericht löscht eine Eintragung im
@@ -147,12 +140,7 @@ Schuldnerverzeichnis außerdem, wenn
     aus der sich ergibt, dass die Eintragungsanordnung aufgehoben oder
     einstweilen ausgesetzt ist.
 
-
-
-
-
 ## Abschnitt 3 - Einsicht in das Schuldnerverzeichnis
-
 
 ### § 5 Einsichtsberechtigung
 
@@ -178,10 +166,6 @@ Zivilprozessordnung zu benötigen
 
 
 6.  zur Auskunft über ihn selbst betreffende Eintragungen.
-
-
-
-
 
 ### § 6 Einsichtnahme
 
@@ -221,7 +205,6 @@ gespeicherte Daten, die in einem eingeleiteten Verfahren zur
 Datenschutzkontrolle, einem gerichtlichen Verfahren oder
 Strafverfahren benötigt werden. Diese Daten sind nach dem endgültigen
 Abschluss dieser Verfahren zu löschen.
-
 
 ### § 7 Registrierung
 
@@ -265,7 +248,6 @@ Registrierungsverfahren nach Absatz 4 zu nutzen, kann die
 Registrierung durch ein geeignetes nichtelektronisches
 Registrierungsverfahren bei dem zuständigen zentralen
 Vollstreckungsgericht erfolgen.
-
 
 ### § 8 Abfragedatenübermittlung
 
@@ -312,7 +294,6 @@ Firma und Sitz des Schuldners angegeben werden.
 das Schuldnerverzeichnis durch Gerichte und Behörden aus den
 Mitgliedstaaten der Europäischen Union.
 
-
 ### § 9 Informationsverwendung
 
 (1) Die Daten aus der Einsichtnahme in das Schuldnerverzeichnis dürfen
@@ -323,7 +304,6 @@ Satz 2.
 (2) Die Daten aus der Einsichtnahme in das Schuldnerverzeichnis sind
 zu löschen, sobald der Zweck erreicht wurde. Nichtöffentliche Stellen
 sind darauf bei der Übermittlung hinzuweisen.
-
 
 ### § 10 Ausschluss von der Einsichtnahme
 
@@ -358,7 +338,6 @@ gespeichert und an andere zentrale Vollstreckungsgerichte übermittelt
 werden. Die gespeicherten Daten sind mit dem Ablauf der Sperrfrist zu
 löschen.
 
-
 ### § 11 Zugang zur Einsicht in das Schuldnerverzeichnis
 
 (1) Die Landesregierungen stellen sicher, dass nach § 5
@@ -371,9 +350,7 @@ Amtsgericht Einsicht in das elektronische Schuldnerverzeichnis nehmen
 können. Die Einsichtsberechtigten können verlangen, dass ihnen ein
 Ausdruck ihrer Datenabfrage überlassen wird.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 12 Rechtsweg
 
@@ -381,7 +358,6 @@ Auf Entscheidungen des zentralen Vollstreckungsgerichts sind, soweit
 es sich um Angelegenheiten der Justizverwaltungen im Sinne des § 882h
 Absatz 2 Satz 3 der Zivilprozessordnung handelt, die §§ 23 bis 30 des
 Einführungsgesetzes zum Gerichtsverfassungsgesetz anzuwenden.
-
 
 ### § 13 Inkrafttreten, Außerkrafttreten
 
@@ -391,7 +367,6 @@ Einführungsgesetzes zum Gerichtsverfassungsgesetz anzuwenden.
 S. 3822), die zuletzt durch Artikel 3 des Gesetzes vom 13. Dezember
 2001 (BGBl. I S. 3638) geändert worden ist, tritt am 31. Dezember 2017
 außer Kraft.
-
 
 ### Schlussformel
 

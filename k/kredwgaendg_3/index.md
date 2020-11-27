@@ -15,15 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 1693
 
-
-
 ## Art 1
 
-
-
 ## Art 2 - Übergangsvorschriften
-
-
 
 ### § 1
 
@@ -31,7 +25,6 @@ Bis zum 31. Dezember 1989 kann ein Geschäftsführer einer
 Kreditgenossenschaft auch dann Geschäftsleiter bleiben, wenn er nicht
 dem Vorstand angehört, es sei denn, dem Vorstand gehören nicht nur
 ehrenamtliche Mitglieder an.
-
 
 ### § 2
 
@@ -49,10 +42,6 @@ solange sie dem Kreditinstitut zur Verfügung stehen,
     des § 10 Abs. 4 Satz 1 Nr. 1, 2 oder 4 des Gesetzes über das
     Kreditwesen nicht erfüllen.
 
-
-
-
-
 ### § 3
 
 (1) Haben gruppenangehörige Kreditinstitute insgesamt am 1. Juli 1985
@@ -67,7 +56,6 @@ kann in begründeten Fällen auf Antrag die Fristen nach Absatz 1
 verlängern, wenn sich die Eigenkapitalausstattung der
 gruppenangehörigen Kreditinstitute innerhalb dieser Fristen verbessert
 hat.
-
 
 ### § 4
 
@@ -87,7 +75,6 @@ Ein Kreditinstitut hat am 1. Januar 1985 bestehende
 
 bis zum 1. Juli 1985 dem Bundesaufsichtsamt anzuzeigen.
 
-
 ### § 5
 
 (1) Hält ein Kreditinstitut am 1. Januar 1985 wegen der Änderung von §
@@ -100,7 +87,6 @@ Vorschrift zu erfüllen.
 Frist nach Absatz 1 verlängern, wenn sich das Verhältnis von Anlagen
 nach § 12 des Gesetzes über das Kreditwesen zum haftenden Eigenkapital
 innerhalb der Frist nach Absatz 1 verringert hat.
-
 
 ### § 6
 
@@ -128,14 +114,12 @@ Im Falle einer Überschreitung der Grenze
 (2) Das Bundesaufsichtsamt kann in begründeten Fällen auf Antrag die
 Frist nach Absatz 1 Satz 2 Nr. 2 verlängern.
 
-
 ### § 7
 
 Halten am 1. Januar 1985 gruppenangehörige Kreditinstitute insgesamt
 die durch § 13a in Verbindung mit § 13 Abs. 3 oder 4 des Gesetzes über
 das Kreditwesen vorgeschriebenen Grenzen für Großkredite nicht ein, so
 gilt § 6 entsprechend.
-
 
 ### § 8
 
@@ -150,10 +134,7 @@ hunderttausend Deutsche Mark geahndet werden.
 (3) Die §§ 59 und 60 des Gesetzes über das Kreditwesen sind
 anzuwenden.
 
-
 ## Art 3 bis 6
-
-
 
 ## Art 7 - Neufassung des Gesetzes über das Kreditwesen
 
@@ -161,12 +142,10 @@ Der Bundesminister der Finanzen kann den Wortlaut des Gesetzes über
 das Kreditwesen in der vom 1. Juli 1985 an geltenden Fassung im
 Bundesgesetzblatt bekanntmachen.
 
-
 ## Art 8 - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 9 - Inkrafttreten
 

@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 5.12.2012 I 2418
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Sachliche Zuständigkeit und Einrichtung der Gerichte
-
-
 
 ### § 1
 
@@ -77,7 +73,6 @@ soweit die beim Inkrafttreten dieses Gesetzes für diese geltenden oder
 die künftig erlassenen Vorschriften die Zuständigkeit von Gerichten
 mit ehrenamtlichen Richtern vorsehen.
 
-
 ### § 2
 
 (1) In den in § 1 bezeichneten Verfahren sind im ersten Rechtszug die
@@ -103,7 +98,6 @@ dritten Rechtszug der Bundesgerichtshof zuständig.
 
 tätig.
 
-
 ### § 3
 
 (1) Die ehrenamtlichen Richter werden auf die Dauer von fünf Jahren
@@ -115,7 +109,6 @@ jedoch entscheidet über das Gesuch der Präsident des
 Oberlandesgerichts, bei Gesuchen ehrenamtlicher Richter des
 Bundesgerichtshofes der Präsident des Bundesgerichtshofes; der
 Anhörung der Staatsanwaltschaft bedarf es nicht.
-
 
 ### § 4
 
@@ -167,13 +160,11 @@ Präsidenten des Bundesgerichtshofes auf Grund einer Vorschlagsliste
 berufen werden, die von dem Zentralausschuß der Deutschen
 Landwirtschaft aufgestellt wird.
 
-
 ### § 5
 
 Die ehrenamtlichen Richter üben das Richteramt in vollem Umfang und
 mit gleichem Stimmrecht wie die Berufsrichter aus. Sie sind zur
 Amtsverschwiegenheit verpflichtet.
-
 
 ### § 6
 
@@ -201,7 +192,6 @@ erscheinen läßt.
 Dienstleistung an bestimmten Sitzungstagen gilt § 54 des
 Gerichtsverfassungsgesetzes sinngemäß.
 
-
 ### § 7
 
 (1) Ein ehrenamtlicher Richter ist seines Amtes zu entheben, wenn das
@@ -217,7 +207,6 @@ ehrenamtlichen Richters des Bundesgerichtshofes der Erste Zivilsenat
 des Bundesgerichtshofes. Vor der Entscheidung ist der ehrenamtliche
 Richter zu hören.
 
-
 ### § 8
 
 Die Landesregierung kann durch Rechtsverordnung Geschäfte aus den
@@ -226,10 +215,7 @@ eine solche Bestimmung auch für die Oberlandesgerichte treffen. Die
 Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung
 übertragen.
 
-
 ## Zweiter Abschnitt - Landwirtschaftssachen der freiwilligen Gerichtsbarkeit
-
-
 
 ### § 9
 
@@ -238,7 +224,6 @@ des § 1 Nr. 1 und Nr. 2 bis 6 die Vorschriften des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit sinngemäß anzuwenden.
 
-
 ### § 10
 
 Örtlich zuständig ist das Amtsgericht, in dessen Bezirk die Hofstelle
@@ -246,11 +231,9 @@ liegt. Ist eine Hofstelle nicht vorhanden, so ist das Amtsgericht
 örtlich zuständig, in dessen Bezirk die Grundstücke ganz oder zum
 größten Teil liegen oder die Rechte im wesentlichen ausgeübt werden.
 
-
 ### § 11
 
 (weggefallen)
-
 
 ### § 12
 
@@ -273,7 +256,6 @@ abzugeben. Absatz 1 Satz 2, 3 ist anzuwenden.
 abgebenden Gericht als Teil des Verfahrens vor dem übernehmenden
 Gericht zu behandeln.
 
-
 ### § 13
 
 (1) Als Bevollmächtigte sind, soweit eine Vertretung durch
@@ -291,7 +273,6 @@ Mitteilungen an diesen Bevollmächtigten sind bis zu seiner
 Zurückweisung wirksam. Die Sätze 1 und 2 gelten für Beistände
 entsprechend.
 
-
 ### § 14
 
 (1) Das Verfahren wird, soweit nicht etwas anderes bestimmt ist, nur
@@ -301,7 +282,6 @@ auf Antrag eingeleitet.
 Gelegenheit zu geben, sich zur Sache zu äußern. Für die Vorbereitung
 der Entscheidung gelten die Vorschriften des § 139 und des § 273 Abs
 1, 2, 3 Satz 1 und Abs. 4 der Zivilprozeßordnung sinngemäß.
-
 
 ### § 15
 
@@ -322,7 +302,6 @@ Verhandlung verzichten.
 (5) Die Vorschriften der §§ 159 bis 165 der Zivilprozeßordnung über
 die Niederschrift gelten sinngemäß.
 
-
 ### § 16
 
 Das Gericht kann eines seiner Mitglieder mit der Beweisaufnahme oder
@@ -333,7 +312,6 @@ förmlichen Vernehmung von Beteiligten, Zeugen und Sachverständigen,
 zur Abnahme von Eiden sowie zur Protokollierung eines Vergleichs sind
 nur Richter befugt.
 
-
 ### § 17
 
 Alle Behörden sind auf Ersuchen des Gerichts zur Amtshilfe
@@ -341,14 +319,12 @@ verpflichtet. Die Finanzämter haben auf Ersuchen des Gerichts
 Auskünfte über den Einheitswert oder den Wirtschaftswert land- oder
 forstwirtschaftlicher Grundstücke zu erteilen.
 
-
 ### § 18
 
 Bei einstweiligen Anordnungen kann von der Zuziehung der
 ehrenamtlichen Richter und von der Anwendung des § 14 Abs. 2 abgesehen
 werden, wenn durch Verzögerung der einstweiligen Anordnung ein
 Nachteil zu entstehen droht.
-
 
 ### § 19
 
@@ -358,7 +334,6 @@ Antrag anstelle der sonst zuständigen Behörde darüber entscheiden, ob
 diese Bestimmungen nach den Vorschriften über den Verkehr mit land-
 oder forstwirtschaftlichen Grundstücken genehmigt oder nach den
 Vorschriften des Landpachtverkehrsgesetzes beanstandet werden.
-
 
 ### § 20
 
@@ -415,51 +390,41 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit keine Anwendung
 finden; das gleiche gilt für die Einziehung und die Kraftloserklärung
 eines Erbscheins.
 
-
 ### § 21
 
 (weggefallen)
-
 
 ### § 22
 
 (weggefallen)
 
-
 ### § 23
 
 (weggefallen)
-
 
 ### § 24
 
 (weggefallen)
 
-
 ### § 25
 
 (weggefallen)
-
 
 ### § 26
 
 (weggefallen)
 
-
 ### § 27
 
 (weggefallen)
-
 
 ### § 28
 
 (weggefallen)
 
-
 ### § 29
 
 (weggefallen)
-
 
 ### § 30
 
@@ -471,11 +436,9 @@ ihn gegen oder ohne Sicherheitsleistung für vorläufig vollstreckbar
 erklären, dem Schuldner auf Antrag auch nachlassen, die Vollstreckung
 durch Sicherheitsleistung abzuwenden.
 
-
 ### § 31
 
 (weggefallen)
-
 
 ### § 32
 
@@ -498,7 +461,6 @@ Beteiligte.
 Organisationen als land- und forstwirtschaftliche Berufsvertretungen
 gelten.
 
-
 ### § 32a
 
 In den Verfahren auf Grund der Vorschriften über die gerichtliche
@@ -509,13 +471,11 @@ bezeichnet werden. Der Vorsitzende des Gerichts des ersten Rechtszuges
 ersucht nach Eintritt der Rechtskraft der Entscheidung das
 Grundbuchamt um Eintragung des Erwerbers.
 
-
 ### § 33
 
 Für die in diesem Abschnitt geregelten gerichtlichen Verfahren gilt
 die Kostenordnung, soweit sich aus den folgenden Vorschriften nichts
 anderes ergibt.
-
 
 ### § 34
 
@@ -523,7 +483,6 @@ anderes ergibt.
 Hauptsache zu entscheiden.
 
 (2) Den Geschäftswert setzt das Gericht von Amts wegen fest.
-
 
 ### § 35
 
@@ -591,7 +550,6 @@ nicht zu beanstanden ist, so wird eine Gebühr nicht erhoben.
 
 (5)
 
-
 ### § 36
 
 (1) In gerichtlichen Verfahren auf Grund der Vorschriften über die
@@ -606,7 +564,6 @@ Bescheinigung oder auf Änderung oder Aufhebung einer Auflage (§ 22
 Abs. 1, 4 des Grundstückverkehrsgesetzes) bestimmt sich der
 Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr
 erhoben.
-
 
 ### § 36a
 
@@ -624,13 +581,11 @@ Abs. 3 Satz 4 des Grundstückverkehrsgesetzes bestimmt sich der
 Geschäftswert nach § 30 der Kostenordnung. Es wird die volle Gebühr
 erhoben.
 
-
 ### § 37
 
 In gerichtlichen Verfahren auf Grund der Vorschriften über
 Einwendungen gegen das siedlungsrechtliche Vorkaufsrecht (§ 1 Nr. 3)
 gilt § 36 Abs. 1 sinngemäß.
-
 
 ### § 38
 
@@ -640,7 +595,6 @@ Land und die Festsetzung des Ersatzanspruchs oder der Entschädigung (§
 1 Nr. 4) bestimmt sich der Geschäftswert nach § 30 der Kostenordnung.
 Es wird die volle Gebühr erhoben.
 
-
 ### § 38a
 
 In gerichtlichen Verfahren auf Grund der Vorschriften über
@@ -648,13 +602,11 @@ Angelegenheiten, die mit der Aufhebung der früheren Vorschriften über
 Erbhöfe zusammenhängen (§ 1 Nr. 6), bestimmt sich der Geschäftswert
 nach § 30 der Kostenordnung. Es wird die volle Gebühr erhoben.
 
-
 ### § 39
 
 Für die Entscheidung über den Erlaß einer vorläufigen Anordnung
 während eines schwebenden Verfahrens wird die Hälfte der vollen Gebühr
 erhoben.
-
 
 ### § 40
 
@@ -668,7 +620,6 @@ Bürgerlichen Gesetzbuchs sowie nach § 8 Abs. 2 Satz 3 des
 Landpachtverkehrsgesetzes werden für das Verfahren über die Beschwerde
 Gebühren auch dann erhoben, wenn die Beschwerde Erfolg hat.
 
-
 ### § 41
 
 Wird ein Antrag oder eine Beschwerde zurückgenommen, bevor der Gegner
@@ -678,7 +629,6 @@ zurückgewiesen, so wird die Gebühr nur zur Hälfte erhoben. Die nach
 Landesrecht zuständige Behörde und die Genehmigungsbehörde sowie die
 übergeordnete Behörde (§ 32 Abs. 2) und die Siedlungsbehörde sind
 nicht Gegner im Sinne dieser Vorschrift.
-
 
 ### § 42
 
@@ -690,14 +640,12 @@ Hauptsache ergehen.
 (2) Die in § 41 Satz 2 bezeichneten Behörden sind von der Zahlung von
 Gerichtskosten befreit.
 
-
 ### § 43
 
 (1) Die Gerichtskosten werden erst fällig, wenn das Verfahren in dem
 Rechtszug beendet ist.
 
 (2) Gebührenvorschüsse werden nicht erhoben.
-
 
 ### § 44
 
@@ -711,7 +659,6 @@ beruht, ist nach billigem Ermessen darüber zu entscheiden, ob und
 inwieweit anderen am Verfahren Beteiligten die Kosten aufzuerlegen
 sind.
 
-
 ### § 45
 
 (1) Bei der Entscheidung in der Hauptsache kann das Gericht anordnen,
@@ -723,11 +670,9 @@ Rechtsmittel oder durch grobes Verschulden veranlaßt hat.
 (2) Die Vorschriften der §§ 103 bis 107 der Zivilprozeßordnung gelten
 entsprechend.
 
-
 ### § 46
 
 (weggefallen)
-
 
 ### § 47
 
@@ -743,10 +688,7 @@ aussichtslos erscheint.
 auferlegt oder von einem solchen Beteiligten übernommen werden, sind
 Gerichtsgebühren nicht zu erheben und erhobene zurückzuzahlen.
 
-
 ## Dritter Abschnitt - Streitige Landwirtschaftssachen
-
-
 
 ### § 48
 
@@ -764,15 +706,11 @@ Frist hinzuweisen. Ein fehlendes Verschulden im Sinne des § 233 der
 Zivilprozessordnung wird vermutet, wenn eine Rechtsmittelbelehrung
 unterblieben oder fehlerhaft ist.
 
-
 ### § 49
 
 -
 
-
 ## Vierter Abschnitt - Zusatz-, Übergangs- und Schlußbestimmungen
-
-
 
 ### § 50
 
@@ -788,7 +726,6 @@ Verfahren Bestimmungen gelten, die durch § 60 außer Kraft gesetzt
 werden, treten an deren Stelle die entsprechenden Vorschriften dieses
 Gesetzes.
 
-
 ### § 51
 
 (1)
@@ -799,16 +736,13 @@ Grund des § 11 des Landpachtverkehrsgesetzes geregelten Verfahren ganz
 oder teilweise anzuwenden sind; sie können zusätzliche Vorschriften
 erlassen, die den Besonderheiten dieser Verfahren entsprechen.
 
-
 ### § 52
 
 (weggefallen)
 
-
 ### (XXXX) §§ 53 bis 59
 
 -
-
 
 ### § 60
 
@@ -855,10 +789,6 @@ a)  in den unter § 1 Nr. 5 fallenden Verfahren,
 
 b)  in den nicht unter § 1 fallenden Verfahren, die auf in Kraft
     bleibenden oder unberührt bleibenden Vorschriften beruhen (§ 50).
-
-
-
-
 
 ### § 61
 

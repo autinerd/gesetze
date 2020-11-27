@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 8.10.1986 I 1634
 
-
 ## Eingangsformel
 
 Auf Grund des § 37 Abs. 2 des Jugendarbeitsschutzgesetzes vom 9.
 August 1960 (Bundesgesetzbl. I S. 665), zuletzt geändert durch das
 Bundesurlaubsgesetz vom 8. Januar 1963 (Bundesgesetzbl. I S. 2), wird
 mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Beschäftigungsverbote
 
@@ -43,11 +41,9 @@ oder Bardamen nicht beschäftigt werden.
 
 (4)
 
-
 ## § 2
 
 -
-
 
 ## § 3 Hinweis auf Bußgeld- und Strafvorschriften des Jugendarbeitsschutzgesetzes
 
@@ -56,19 +52,16 @@ Jugendarbeitsschutzgesetzes in Verbindung mit einem
 Beschäftigungsverbot nach § 1 dieser Verordnung werden nach § 58 Abs.
 1 Nr. 18, Abs. 3 bis 6 des Jugendarbeitsschutzgesetzes geahndet.
 
-
 ## § 4 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 74 des
 Jugendarbeitsschutzgesetzes auch im Land Berlin.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tag des zweiten auf die Verkündung
 folgenden Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

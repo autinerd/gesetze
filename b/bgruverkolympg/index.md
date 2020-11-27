@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 1537
 
-
-
 ## § 1
 
 (1) Die Bundesregierung wird ermächtigt, eine Teilfläche des
@@ -33,7 +31,6 @@ Veränderungen in der Größe des Grundstücks ergeben.
 (3) Die Käufer sind vertraglich zu verpflichten, eine entsprechende
 Nachzahlung zu leisten, wenn die Geschoßflächenzahl von 0,64, die der
 baulichen Nutzbarkeit zugrunde gelegt ist, erhöht wird.
-
 
 ## § 2
 

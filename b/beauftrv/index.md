@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 18.1.2010 I 11
 
-
 ## Eingangsformel
 
 Auf Grund des § 31c und des § 31d Abs. 2 Satz 3 des
@@ -26,7 +25,6 @@ Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
 1981 (BGBl. I S. 61), die durch Artikel 1 Nr. 15 des Gesetzes vom 23.
 Juli 1992 (BGBl. I S. 1370) eingefügt worden sind, verordnet das
 Bundesministerium für Verkehr:
-
 
 ## § 1
 
@@ -61,10 +59,6 @@ Luftraums durch Luftsportgeräte wahrzunehmen:
     Luftfahrzeug verbundenen Motor und mit einer höchstzulässigen
     Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät.
 
-
-
-
-
 ## § 2
 
 Der im Vereinsregister des Amtsgerichts München unter der Nummer 10635
@@ -98,10 +92,6 @@ Luftraums durch Luftsportgeräte wahrzunehmen:
     Luftfahrzeug verbundenen Motor und mit einer höchstzulässigen
     Leermasse von 120 Kilogramm einschließlich Gurtzeug und Rettungsgerät.
 
-
-
-
-
 ## § 3
 
 Der im Vereinsregister des Amtsgerichts München unter der Nummer 9767
@@ -132,10 +122,6 @@ Zulassungs-Ordnung) wahrzunehmen:
 5.  Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung
     in der jeweils gültigen Fassung.
 
-
-
-
-
 ## § 3a
 
 Die in den §§ 1 und 3 genannten Vereine werden beauftragt, die
@@ -164,10 +150,6 @@ Ordnung) wahrzunehmen:
 
 5.  Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung
     in der jeweils gültigen Fassung.
-
-
-
-
 
 ## § 4
 
@@ -199,10 +181,6 @@ wahrzunehmen:
 5.  Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung
     in der jeweils gültigen Fassung.
 
-
-
-
-
 ## § 4a
 
 Der in § 1 genannte Verein und der im Vereinsregister des Amtsgerichts
@@ -225,10 +203,6 @@ Abs. 1 Nr. 8 Luftverkehrs-Zulassungs-Ordnung) wahrzunehmen:
 
 4.  Erhebung von Kosten nach der Kostenverordnung der Luftfahrtverwaltung
     in der jeweils gültigen Fassung.
-
-
-
-
 
 ## § 5
 
@@ -253,7 +227,6 @@ und -grundsätze aufeinander abzustimmen und in einer Vereinbarung
 festzulegen. Sie treffen sich mindestens zweimal im Jahr zu
 Koordinierungssitzungen.
 
-
 ## § 6
 
 Die Rechts- und Fachaufsicht über die in den §§ 1 bis 4a beauftragten
@@ -262,7 +235,6 @@ Einzelfragen der Luftsportgeräteverwaltung durch einen Beauftragten
 grundsätzlicher Klärung bedürfen, werden diese vom Luftfahrt-Bundesamt
 dem Bundesministerium für Verkehr, Bau und Stadtentwicklung zur
 Entscheidung vorgelegt.
-
 
 ## § 7
 

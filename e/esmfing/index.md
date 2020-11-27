@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1918
 
-
 ## § 1 Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität
 
 (1) Zur Erfüllung der Verpflichtungen aus dem Beitritt zum
@@ -71,7 +70,6 @@ Euro bei der Berechnung des konsolidierten Darlehensvolumens im Sinne
 des Artikels 39 des Vertrags zur Einrichtung des Europäischen
 Stabilitätsmechanismus nicht in Abzug gebracht werden.
 
-
 ## § 2 Gewährung von Stabilitätshilfen durch den Europäischen Stabilitätsmechanismus
 
 Der Europäische Stabilitätsmechanismus ist berechtigt, unter den im
@@ -91,7 +89,6 @@ mit ein, wenn die sektorspezifische Konditionalität gewährleistet ist,
 keine direkten Bankrisiken übernommen werden und die Rückzahlung durch
 eine Garantie der Vertragspartei gesichert ist.
 
-
 ## § 3 Haushalts- und Stabilitätsverantwortung
 
 (1) Der Deutsche Bundestag nimmt in Angelegenheiten des Europäischen
@@ -104,7 +101,6 @@ wahr.
 diesem Gesetz in angemessener Frist. Dabei berücksichtigt er die für
 die Beschlussfassung auf der Ebene des Euro-Währungsgebietes
 maßgeblichen Fristvorgaben.
-
 
 ## § 4 Parlamentsvorbehalt für Entscheidungen im Europäischen Stabilitätsmechanismus
 
@@ -152,7 +148,6 @@ Bundesregierung hat an der Beschlussfassung teilzunehmen.
 Einrichtung des Europäischen Stabilitätsmechanismus Aufgaben des
 Gouverneursrates auf das Direktorium übertragen, gelten die §§ 3 bis 6
 entsprechend.
-
 
 ## § 5 Beteiligung des Haushaltsausschusses des Deutschen Bundestages
 
@@ -243,7 +238,6 @@ Bundestages. § 70 der Geschäftsordnung gilt entsprechend, wobei das
 Verlangen eines Viertels der Mitglieder des Haushaltsausschusses von
 mindestens zwei Fraktionen im Ausschuss unterstützt werden muss.
 
-
 ## § 6 Beteiligung durch ein Sondergremium
 
 (1) Soweit ein Aufkauf von Staatsanleihen auf dem Sekundärmarkt nach
@@ -278,7 +272,6 @@ Beteiligungsrechte wahr.
 (4) Das Sondergremium berichtet dem Deutschen Bundestag über Inhalt
 und Ergebnis seiner Beratungen, sobald die Gründe für die besondere
 Vertraulichkeit entfallen sind.
-
 
 ## § 7 Unterrichtung durch die Bundesregierung
 
@@ -353,7 +346,6 @@ Zusammenarbeit von Bundesregierung und Deutschem Bundestag in
 Angelegenheiten der Europäischen Union und die Rechte des Bundesrates
 aus dem Gesetz über die Zusammenarbeit von Bund und Ländern in
 Angelegenheiten der Europäischen Union bleiben unberührt.
-
 
 ## § 8 Inkrafttreten
 

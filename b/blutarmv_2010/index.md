@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1326
 
-
 ## Eingangsformel
 
 Auf Grund des § 73a Satz 1 in Verbindung mit Satz 2 Nummer 1 und 4,
@@ -28,9 +27,7 @@ der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260,
 3588) verordnet das Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -58,12 +55,7 @@ Im Sinne dieser Verordnung liegen vor:
     Nachforschungen eine Ansteckung mit der Einhufer-Blutarmut nicht
     ausgeschlossen werden kann.
 
-
-
-
-
 ## Abschnitt 2 - Allgemeine Schutzmaßregeln
-
 
 ### § 2 Impfungen und Heilversuche
 
@@ -71,7 +63,6 @@ Impfungen und Heilversuche seuchenkranker oder -verdächtiger Einhufer
 sind verboten. Die zuständige Behörde kann Ausnahmen von Satz 1 zur
 Durchführung wissenschaftlicher Versuche genehmigen, soweit
 Belange der              Tierseuchenbekämpfung nicht entgegenstehen.
-
 
 ### § 3 Untersuchungen
 
@@ -91,12 +82,9 @@ Die zuständige Behörde kann anordnen, dass
 
 soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
 ## Abschnitt 3 - Besondere Schutzmaßregeln
 
-
 ### Unterabschnitt 1 - Schutzmaßnahmen vor amtlicher Feststellung der Einhufer-Blutarmut
-
 
 #### § 4 Blutprobenentnahme, epidemiologische Nachforschungen
 
@@ -123,10 +111,6 @@ Die epidemiologischen Nachforschungen erstrecken sich mindestens auf
 
 3.  die Ermittlung aller Kontakte der Einhufer des betroffenen Betriebes
     zu anderen Einhufern.
-
-
-
-
 
 #### § 5 Schutzmaßnahmen in dem betroffenen Betrieb
 
@@ -157,7 +141,6 @@ der Tierhalter des Betriebes unverzüglich
 und aus dem Bestand nur mit Genehmigung der zuständigen Behörde
 verbracht werden.
 
-
 #### § 6 Reinigung und Desinfektion
 
 Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut haben
@@ -182,18 +165,12 @@ oder Pflege seuchenverdächtiger Einhufer betraut sind,
     nach näherer Anweisung der zuständigen Behörde unverzüglich nach den
     Eingriffen zu reinigen und zu desinfizieren.
 
-
-
-
-
 ### Unterabschnitt 2 - Schutzmaßnahmen nach amtlicher Feststellung der Einhufer-Blutarmut
-
 
 #### § 7 Öffentliche Bekanntmachung
 
 Die zuständige Behörde macht den Ausbruch und das Erlöschen der
 Einhufer-Blutarmut öffentlich bekannt.
-
 
 #### § 8 Schutzmaßnahmen in dem betroffenen Betrieb
 
@@ -230,7 +207,6 @@ Absatz 3 absehen, soweit der Einhufer in eine tierärztliche
 wissenschaftliche Einrichtung verbracht wird und Belange der
 Tierseuchenbekämpfung nicht entgegenstehen.
 
-
 #### § 9 Ansteckungsverdacht
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt und
@@ -253,7 +229,6 @@ sofern Belange der Tierseuchenbekämpfung nicht entgegenstehen. Hierbei
 berücksichtigt sie die Ergebnisse epidemiologischer Untersuchungen,
 das Vorkommen von Einhufern, Vektoren, natürlichen Grenzen und
 Überwachungsmöglichkeiten.
-
 
 #### § 10 Sperrbezirk
 
@@ -331,7 +306,6 @@ Sperrbezirk gehalten werden, verwendet worden sind, müssen vor
 weiterem Gebrauch nach Anweisung der zuständigen Behörde gereinigt und
 desinfiziert werden.
 
-
 #### § 11 Desinfektion
 
 (1) Der Tierhalter des betroffenen Betriebes hat nach näherer
@@ -364,7 +338,6 @@ Anweisung der zuständigen Behörde
 (2) Die zuständige Behörde kann genehmigen, dass die Desinfektion nach
 Absatz 1 Nummer 4 auf die Betriebsteile beschränkt wird, in denen die
 seuchenkranken und -verdächtigen Einhufer gestanden haben.
-
 
 #### § 12 Aufhebung der Schutzmaßnahmen
 
@@ -400,7 +373,6 @@ Ausbruchs der Einhufer-Blutarmut sich als unbegründet erwiesen hat.
 (3) Der Seuchenverdacht auf die Einhufer-Blutarmut hat sich als
 unbegründet erwiesen, wenn nach Anzeige des Verdachts eine
 serologische Untersuchung mit negativem Ergebnis durchgeführt wurde.
-
 
 #### § 13 Ordnungswidrigkeiten
 
@@ -448,17 +420,12 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
     Veranstaltung ähnlicher Art mit Einhufern innerhalb des Sperrbezirks
     durchführt.
 
-
-
-
-
 #### § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 Gleichzeitig tritt die Einhufer-Blutarmut-Verordnung vom 2. Juli 1975
 (BGBl. I S. 1845), die zuletzt durch Artikel 5 der Verordnung vom 18.
 April 2000 (BGBl. I S. 531) geändert worden ist, außer Kraft.
-
 
 #### Schlussformel
 

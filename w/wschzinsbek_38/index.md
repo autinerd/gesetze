@@ -17,7 +17,6 @@ Fundstelle
 
 Zeitlich überholt
 
-
 ## (XXXX)
 
 Auf Grund des § 1 des Gesetzes über die Wechsel- und Scheckzinsen in

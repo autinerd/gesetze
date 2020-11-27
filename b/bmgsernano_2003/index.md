@@ -59,7 +59,6 @@ widerruflich auf
 
 jeweils für ihren oder seinen Geschäftsbereich übertragen.
 
-
 ## II.
 
 Abschnitt I dieser Anordnung ist ab dem Tag nach der Verkündung
@@ -73,7 +72,6 @@ Bundesministeriums für Arbeit und Sozialordnung vom 5. Juni 1979
 2003 (BGBl. I S. 177), ist von diesem Zeitpunkt an nicht mehr
 anzuwenden, soweit er Regelungen für die Beamtinnen und Beamten des
 Bundessozialgerichts und des Bundesversicherungsamtes enthält.
-
 
 ## Schlussformel
 

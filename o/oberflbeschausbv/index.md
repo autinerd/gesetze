@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1149
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -27,7 +25,6 @@ Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu
 gefasst worden sind, verordnet das Bundesministerium für Wirtschaft
 und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -44,11 +41,9 @@ wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -156,10 +151,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 21. Verfahren der Umwelttechnik.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 sollen nach
@@ -178,13 +169,11 @@ selbstständiges Planen, Durchführen und Kontrollieren an seinem
 Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen
 nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 6 Schriftlicher Ausbildungsnachweis
 
@@ -193,7 +182,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -222,7 +210,6 @@ Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme
 und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten
 fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der
 Ausführung der Arbeitsaufgabe begründen kann.
-
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
 
@@ -361,7 +348,6 @@ Dokumentationen insgesamt, in dem Fachgespräch oder in einem der drei
 Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -369,11 +355,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Oberflächenbeschichter/ zur Oberflächenbeschichterin
 

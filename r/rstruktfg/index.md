@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 26.6.2012 I 1375
 
-
 ## § 1 Errichtung des Fonds
 
 Bei der Bundesanstalt für Finanzmarktstabilisierung (Anstalt) wird ein
 Restrukturierungsfonds für Kreditinstitute (Restrukturierungsfonds)
 errichtet.
-
 
 ## § 2 Beitragspflichtige Unternehmen
 
@@ -35,7 +33,6 @@ Rechnungslegungsverordnung einhalten müssen. Kreditinstitute, die
 gemäß § 5 Absatz 1 Nummer 2 des Körperschaftsteuergesetzes von der
 Körperschaftssteuer befreit sind, und Brückeninstitute nach § 5 Absatz
 1 sind nicht beitragspflichtig.
-
 
 ## § 3 Aufgabe und Verwendungszwecke des Restrukturierungsfonds
 
@@ -68,7 +65,6 @@ folgende Maßnahmen verwenden:
 
 (3) Der Restrukturierungsfonds ist ein Sondervermögen des Bundes im
 Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
-
 
 ## § 4 Entscheidung über Restrukturierungsmaßnahmen
 
@@ -133,7 +129,6 @@ aus Anlass einer Veränderung der Höhe dieser Beteiligung oder aus
 Anlass der Wahrnehmung von Rechten aus dieser Beteiligung gewähren
 würde.
 
-
 ## § 5 Gründung eines Brückeninstituts und Anteilserwerb
 
 (1) Der Restrukturierungsfonds kann, auch ohne konkreten Anlass,
@@ -158,7 +153,6 @@ Absatz 4 Satz 4, Absatz 5 oder aufgrund des § 48r Absatz 2 des
 Kreditwesengesetzes zur Gewährung von Anteilen an das Kreditinstitut
 verpflichtet, muss der Restrukturierungsfonds darauf hinwirken, dass
 die dafür erforderlichen Hauptversammlungsbeschlüsse zustande kommen.
-
 
 ## § 6 Garantie
 
@@ -217,7 +211,6 @@ am 31. Dezember 2010 nicht in Anspruch genommen worden ist.
 
 (5) Für die Übernahme von Garantien ist ein Entgelt zu erheben.
 
-
 ## § 7 Rekapitalisierung
 
 Der Restrukturierungsfonds kann sich an der Rekapitalisierung des
@@ -232,14 +225,12 @@ angestrebte Zweck sich nicht besser und wirtschaftlicher auf andere
 Weise erreichen lässt. Die §§ 65 bis 69 der Bundeshaushaltsordnung
 sind insoweit nicht anzuwenden.
 
-
 ## § 8 Sonstige Maßnahmen
 
 Der Restrukturierungsfonds kann seine Mittel zur Erfüllung sonstiger
 Ansprüche, die im Zusammenhang mit einer Maßnahme nach § 3 Absatz 2
 Nummer 1 bis 4 entstehen, einsetzen. Die §§ 65 bis 69 der
 Bundeshaushaltsordnung sind insoweit nicht anzuwenden.
-
 
 ## § 9 Stellung im Rechtsverkehr
 
@@ -251,14 +242,12 @@ Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden. Ausschließlicher
 Gerichtsstand des Restrukturierungsfonds ist der Sitz der
 Bundesanstalt für Finanzmarktstabilisierung.
 
-
 ## § 10 Vermögenstrennung
 
 Der Restrukturierungsfonds ist von dem übrigen Vermögen des Bundes,
 seinen Rechten und Verbindlichkeiten zu trennen. Der Bund haftet
 unmittelbar für die Verbindlichkeiten des Restrukturierungsfonds; der
 Fonds haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
-
 
 ## § 11 Verwaltung des Restrukturierungsfonds
 
@@ -267,7 +256,6 @@ der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen
 (Aufsichtsbehörde). Die für die Errichtung und Verwaltung des
 Restrukturierungsfonds anfallenden Personal- und Sachkosten werden der
 Anstalt aus Mitteln des Restrukturierungsfonds erstattet.
-
 
 ## § 12 Mittel des Restrukturierungsfonds
 
@@ -438,7 +426,6 @@ zugeleitet. Soweit die Rechtsverordnung aufgrund des Beschlusses des
 Bundesrates geändert wird, bedarf es einer erneuten Zuleitung an den
 Bundestag nicht.
 
-
 ## § 13 Wirtschaftsführung und Rechnungslegung
 
 (1) Das Bundesministerium der Finanzen stellt für den
@@ -470,7 +457,6 @@ nicht der Zustimmung des Bundesrates bedarf, in der nach § 3a Absatz 6
 des Finanzmarktstabilisierungsfondsgesetzes erlassenen Satzung zu
 bestimmen.
 
-
 ## § 14 Informationspflichten und Verschwiegenheitspflicht
 
 (1) Die Bundesanstalt für Finanzdienstleistungsaufsicht hat der
@@ -481,7 +467,6 @@ unverzüglich mitzuteilen.
 (2) § 3b des Finanzmarktstabilisierungsfondsgesetzes gilt für
 Betriebs- und Geschäftsgeheimnisse, die der Anstalt aufgrund des
 Absatzes 1 übermittelt werden, entsprechend.
-
 
 ## § 15 Steuern
 
@@ -494,7 +479,6 @@ worden, obwohl eine Verpflichtung hierzu nicht bestand, hat der zum
 Steuerabzug Verpflichtete die Steueranmeldung insoweit zu ändern.
 Zahlungen des Restrukturierungsfonds unterliegen keinem
 Kapitalertragsteuerabzug.
-
 
 ## § 16 Parlamentarische Kontrolle
 

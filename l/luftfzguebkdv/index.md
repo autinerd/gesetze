@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1962, 23
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Nr. 2 des Luftverkehrsgesetzes in der
@@ -26,7 +24,6 @@ das Gesetz über Zuständigkeiten in der Luftverkehrsverwaltung vom 8.
 Februar 1961 (Bundesgesetzbl. I S. 69), wird mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## § 1
 
 Für die Anerkennung der Lufttüchtigkeitszeugnisse eingeführter
@@ -34,13 +31,11 @@ Luftfahrzeuge gelten die Bestimmungen des Mehrseitigen Übereinkommens
 vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter
 Luftfahrzeuge. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
 ## § 2
 
 Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge werden nach
 Artikel 2 Abs. 1 Buchstabe b des Übereinkommens durch Erteilung eines
 Lufttüchtigkeitszeugnisses der Bundesrepublik Deutschland anerkannt.
-
 
 ## § 3
 
@@ -53,7 +48,6 @@ Deutschland in Kraft tritt.
 
 (3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im
 Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

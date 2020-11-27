@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1426
 
-
-
 ## § 1 Anwendbarkeit des Beschlusses
 
 Der Beschluss des Rates (2003/725/JI) vom 2. Oktober 2003 zur Änderung
@@ -31,7 +29,6 @@ Fortsetzung der Observation, die gegen eine andere Person als den
 Beschuldigten gerichtet ist, im Bundesgebiet zulässig ist, wenn die in
 dem Beschluss genannten Voraussetzungen und die Voraussetzungen der
 Strafprozessordnung für eine Observation vorliegen.
-
 
 ## § 2 Inkrafttreten
 

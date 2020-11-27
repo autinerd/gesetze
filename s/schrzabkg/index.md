@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 16 G v. 12.3.2004 I 390
 
-
 ## Art 1 Zustimmung zum Wiener Abkommen
 
 (1) Dem in Wien am 12. Juni 1973 von der Bundesrepublik Deutschland
@@ -33,11 +32,9 @@ nachstehend veröffentlicht.
 (2) Änderungen der Ausführungsordnung nach Artikel 29 Abs. 3 des
 Abkommens sind im Bundesgesetzblatt bekanntzumachen.
 
-
 ## Art 2
 
 ...
-
 
 ## Art 3 Schlußvorschriften
 

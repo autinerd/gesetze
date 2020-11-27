@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 21.7.2012 I 1566
 
-
 ## Abschnitt 1 - Aufgaben und Verwendungen
-
-
 
 ### § 1 Allgemeines
 
@@ -59,7 +56,6 @@ unterrichten.
 (7) Die Zuständigkeit der Polizei des Landes bleibt auch in den in
 Absatz 3 sowie in den in den §§ 2 bis 5 bezeichneten räumlichen
 Zuständigkeitsbereichen der Bundespolizei unberührt.
-
 
 ### § 2 Grenzschutz
 
@@ -115,7 +111,6 @@ Einvernehmen mit dem Bund mit eigenen Kräften wahr, richtet sich die
 Durchführung der Aufgaben nach dem für die Polizei des Landes
 geltenden Recht.
 
-
 ### § 3 Bahnpolizei
 
 (1) Die Bundespolizei hat die Aufgabe, auf dem Gebiet der Bahnanlagen
@@ -147,14 +142,12 @@ dieser Prozentsätze darf 50 Prozent des Gesamtaufwandes nicht
 Rechtsverordnung nach § 58 Abs. 1 bestimmte Bundespolizeibehörde
 erhoben.
 
-
 ### § 4 Luftsicherheit
 
 Der Bundespolizei obliegt der Schutz vor Angriffen auf die Sicherheit
 des Luftverkehrs gemäß § 5 des Luftsicherheitsgesetzes, soweit diese
 Aufgaben nach § 16 Abs. 3 Satz 2 und 3 des Luftsicherheitsgesetzes in
 bundeseigener Verwaltung ausgeführt werden.
-
 
 ### § 4a Sicherheitsmaßnahmen an Bord von Luftfahrzeugen
 
@@ -165,7 +158,6 @@ unberührt. Maßnahmen nach Satz 1 müssen stets im Einklang mit den
 Anforderungen an die Sicherheit des Luftfahrzeugs und der Passagiere
 stehen und sind daher grundsätzlich in enger Abstimmung mit dem
 Luftfahrzeugführer zu treffen.
-
 
 ### § 5 Schutz von Bundesorganen
 
@@ -182,7 +174,6 @@ Bundesanzeiger bekanntzugeben.
 Grundstücke, auf denen die Verfassungsorgane oder die
 Bundesministerien ihren Amtssitz haben.
 
-
 ### § 6 Aufgaben auf See
 
 Unbeschadet der Zuständigkeit anderer Behörden oder der Streitkräfte
@@ -191,7 +182,6 @@ Maßnahmen zu treffen, zu denen die Bundesrepublik Deutschland nach dem
 Völkerrecht befugt ist. Dies gilt nicht für Maßnahmen, die durch
 Rechtsvorschriften des Bundes anderen Behörden oder Dienststellen
 zugewiesen oder die ausschließlich Kriegsschiffen vorbehalten sind.
-
 
 ### § 7 Aufgaben im Notstands- und Verteidigungsfall
 
@@ -204,7 +194,6 @@ von der Allgemeinheit oder dem einzelnen abzuwehren.
 (2) Absatz 1 gilt entsprechend, wenn die Bundespolizei nach Artikel
 115f Abs. 1 Nr. 1 oder nach Artikel 115i Abs. 1 des Grundgesetzes
 eingesetzt wird.
-
 
 ### § 8 Verwendung im Ausland
 
@@ -247,7 +236,6 @@ durch die Bundespolizei richtet sich nach den dafür geltenden
 völkerrechtlichen Vereinbarungen oder den auf Grund solcher
 Vereinbarungen getroffenen Regelungen.
 
-
 ### § 9 Verwendung zur Unterstützung anderer Bundesbehörden
 
 (1) Die Bundespolizei unterstützt
@@ -278,7 +266,6 @@ seine fachlichen Weisungen an die von der Bundespolizei hierfür
 benannte Stelle.
 
 (3) Die Verpflichtung zur Amtshilfe bleibt unberührt.
-
 
 ### § 10 Verwendung zur Unterstützung des Bundesamtes für Verfassungsschutz auf dem Gebiet der Funktechnik
 
@@ -323,7 +310,6 @@ Aufgaben sowie die erforderliche technische und organisatorische
 Abgrenzung zu den sonstigen Aufgabenbereichen der Bundespolizei, in
 einer Dienstanweisung und unterrichtet hierüber sowie über
 erforderliche Änderungen das Parlamentarische Kontrollgremium.
-
 
 ### § 11 Verwendung zur Unterstützung eines Landes
 
@@ -370,7 +356,6 @@ Mehrkosten trägt das Land, sofern nicht im Einzelfall aus besonderen
 Gründen in einer Verwaltungsvereinbarung etwas anderes bestimmt wird.
 
 (5) Die Verpflichtung zur Amtshilfe bleibt unberührt.
-
 
 ### § 12 Verfolgung von Straftaten
 
@@ -460,7 +445,6 @@ Straftaten zur Erfüllung völkerrechtlicher Verpflichtungen oder zur
 Wahrnehmung völkerrechtlicher Befugnisse die Vorschriften der
 Strafprozeßordnung entsprechend.
 
-
 ### § 13 Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 (1) Die Bundespolizei nimmt im Rahmen der ihr obliegenden Aufgaben die
@@ -483,14 +467,9 @@ mindestens vier Jahre dem Polizeivollzugsdienst angehören, sind im
 Rahmen ihrer Aufgaben ermächtigt, Verwarnungen zu erteilen und
 Verwarnungsgelder zu erheben.
 
-
 ## Abschnitt 2 - Befugnisse
 
-
-
 ### Unterabschnitt 1 - Allgemeine Befugnisse und allgemeine Vorschriften
-
-
 
 #### § 14 Allgemeine Befugnisse
 
@@ -517,7 +496,6 @@ die Befugnisse der Bundespolizei im Rahmen der Aufgaben zum Schutz vor
 Angriffen auf die Sicherheit des Luftverkehrs nach § 4, soweit § 5 des
 Luftsicherheitsgesetzes keine Regelungen enthält.
 
-
 #### § 15 Grundsatz der Verhältnismäßigkeit
 
 (1) Von mehreren möglichen und geeigneten Maßnahmen ist diejenige zu
@@ -530,7 +508,6 @@ erstrebten Erfolg erkennbar außer Verhältnis steht.
 (3) Eine Maßnahme ist nur solange zulässig, bis ihr Zweck erreicht ist
 oder sich zeigt, daß er nicht erreicht werden kann.
 
-
 #### § 16 Ermessen, Wahl der Mittel
 
 (1) Die Bundespolizei trifft ihre Maßnahmen nach pflichtgemäßem
@@ -540,7 +517,6 @@ Ermessen.
 genügt es, wenn eines davon bestimmt wird. Dem Betroffenen ist auf
 Antrag zu gestatten, ein anderes ebenso wirksames Mittel anzuwenden,
 sofern die Allgemeinheit dadurch nicht stärker beeinträchtigt wird.
-
 
 #### § 17 Verantwortlichkeit für das Verhalten von Personen
 
@@ -558,7 +534,6 @@ Gefahr in Ausführung der Verrichtung, so können Maßnahmen auch gegen
 die Person gerichtet werden, die andere zu der Verrichtung bestellt
 hat.
 
-
 #### § 18 Verantwortlichkeit für das Verhalten von Tieren oder den Zustand von Sachen
 
 (1) Geht von einem Tier oder einer Sache eine Gefahr aus, so sind die
@@ -575,7 +550,6 @@ Berechtigten ausübt.
 Maßnahmen gegen denjenigen gerichtet werden, der das Eigentum an der
 Sache aufgegeben hat.
 
-
 #### § 19 Unmittelbare Ausführung einer Maßnahme
 
 (1) Die Bundespolizei kann eine Maßnahme selbst oder durch einen
@@ -589,7 +563,6 @@ einer Maßnahme Kosten, so sind die nach § 17 oder § 18
 Verantwortlichen zum Ersatz verpflichtet. Mehrere Verantwortliche
 haften als Gesamtschuldner. Die Kosten können im
 Verwaltungsvollstreckungsverfahren beigetrieben werden.
-
 
 #### § 20 Inanspruchnahme nicht verantwortlicher Personen
 
@@ -619,14 +592,9 @@ der Gefahr nicht auf andere Weise möglich ist.
 die nach § 17 oder § 18 Verantwortlichen richten, soweit sich dies aus
 den nachfolgenden Vorschriften dieses Abschnitts ergibt.
 
-
 ### Unterabschnitt 2 - Besondere Befugnisse
 
-
-
 #### Teil 1 - Datenerhebung
-
-
 
 ##### § 21 Erhebung personenbezogener Daten
 
@@ -670,7 +638,6 @@ Erfüllung der Aufgaben der Bundespolizei gefährdet oder erheblich
 erschwert würde. Sofern eine Auskunftspflicht nicht besteht, ist auf
 die Freiwilligkeit der Auskunft hinzuweisen.
 
-
 ##### § 22 Befragung und Auskunftspflicht
 
 (1) Die Bundespolizei kann eine Person befragen, wenn Tatsachen die
@@ -710,7 +677,6 @@ für den dort bezeichneten Zweck verwendet werden.
 
 (4) § 136a der Strafprozeßordnung gilt entsprechend. § 12 des
 Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
-
 
 ##### § 23 Identitätsfeststellung und Prüfung von Berechtigungsscheinen
 
@@ -820,7 +786,6 @@ Personen mitgeführte Sachen können bei der Einlaßkontrolle durchsucht
 werden, wenn dies auf Grund der Gefährdungslage oder auf die Person
 bezogener Anhaltspunkte erforderlich ist.
 
-
 ##### § 24 Erkennungsdienstliche Maßnahmen
 
 (1) Die Bundespolizei kann erkennungsdienstliche Maßnahmen vornehmen,
@@ -862,10 +827,6 @@ Sind die Unterlagen an andere Stellen übermittelt worden, sind diese
 
 5.  mit Wissen des Betroffenen erfolgte Stimmaufzeichnungen.
 
-
-
-
-
 ##### § 25 Vorladung
 
 (1) Die Bundespolizei kann eine Person schriftlich oder mündlich
@@ -903,7 +864,6 @@ keine Folge, kann sie zwangsweise durchgesetzt werden, wenn
 Vorladung als Zeugen erscheinen oder die als Sachverständige
 herangezogen werden, gilt das Justizvergütungs- und
 -entschädigungsgesetz entsprechend.
-
 
 ##### § 26 Datenerhebung bei öffentlichen Veranstaltungen oder Ansammlungen
 
@@ -955,7 +915,6 @@ verwendet werden, nach spätestens zwei Monaten zu vernichten.
 
 (4) Die §§ 12a und 19a des Versammlungsgesetzes bleiben unberührt.
 
-
 ##### § 27 Selbsttätige Bildaufnahme- und Bildaufzeichnungsgeräte
 
 Die Bundespolizei kann selbsttätige Bildaufnahme- und
@@ -977,7 +936,6 @@ Fällen des Satzes 1 Nr. 1 spätestens nach zwei Tagen und in den Fällen
 des Satzes 1 Nr. 2 spätestens nach 30 Tagen zu vernichten, soweit sie
 nicht zur Abwehr einer gegenwärtigen Gefahr oder zur Verfolgung einer
 Straftat oder Ordnungswidrigkeit benötigt werden.
-
 
 ##### § 28 Besondere Mittel der Datenerhebung
 
@@ -1062,10 +1020,7 @@ gegen den Betroffenen durchgeführt wird und durch die Unterrichtung
 der Untersuchungszweck gefährdet würde; die Entscheidung trifft die
 Staatsanwaltschaft.
 
-
 #### Teil 2 - Datenverarbeitung und Datennutzung
-
-
 
 ##### § 29 Speicherung, Veränderung und Nutzung personenbezogener Daten
 
@@ -1161,7 +1116,6 @@ anonymisierten Daten nicht erreicht werden kann und jeweils die
 berechtigten Interessen des Betroffenen an der Geheimhaltung der Daten
 nicht offensichtlich überwiegen.
 
-
 ##### § 30 Ausschreibung zur Fahndung
 
 (1) Die Bundespolizei kann personenbezogene Daten, insbesondere die
@@ -1231,7 +1185,6 @@ die mit der Ausschreibung bezweckte Maßnahme selbst vorzunehmen oder
 durch eine zum Abruf der Daten im automatisierten Verfahren
 berechtigte Stelle vornehmen zu lassen.
 
-
 ##### § 31 Ausschreibung zur grenzpolizeilichen Beobachtung
 
 (1) Die Bundespolizei kann personenbezogene Daten der in § 30 Abs. 1
@@ -1294,7 +1247,6 @@ Grenzfahndung geführten Datei gespeichert werden; § 30 Abs. 4 Satz 2
 findet Anwendung. Die Ausschreibungen sind auf höchstens sechs Monate
 zu befristen. Die Verlängerung der Laufzeit bedarf eines erneuten
 Ersuchens.
-
 
 ##### § 31a Übermittlung von Fluggastdaten
 
@@ -1369,7 +1321,6 @@ Satz 1 Nr. 2 und § 12 Abs. 1 Satz 1 Nr. 1 bis 3 benötigt werden.
 
 (6) Die §§ 63 und 64 des Aufenthaltsgesetzes bleiben unberührt.
 
-
 ##### § 32 Übermittlung personenbezogener Daten
 
 (1) Die Bundespolizei kann Behörden des Polizeivollzugsdienstes und,
@@ -1429,7 +1380,6 @@ Stellen übermitteln, soweit dies unerläßlich ist zur
 
 (5) Besondere Rechtsvorschriften über die Übermittlung
 personenbezogener Daten bleiben unberührt.
-
 
 ##### § 32a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
@@ -1509,7 +1459,6 @@ personenbezogenen Daten an Polizeibehörden oder sonstige für die
 Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen
 eines Schengen-assoziierten Staates im Sinne von § 91 Absatz 3 des
 Gesetzes über die internationale Rechtshilfe in Strafsachen.
-
 
 ##### § 33 Ergänzende Regelungen für die Übermittlung
 
@@ -1644,7 +1593,6 @@ Protokolldaten sind nach sechs Monaten zu löschen. Die Bundespolizei
 trifft die technischen und organisatorischen Maßnahmen nach § 9 des
 Bundesdatenschutzgesetzes.
 
-
 ##### § 33a Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
 
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die
@@ -1659,7 +1607,6 @@ der Daten gestellte Bedingungen sind zu beachten.
 (2) Die Bundespolizei erteilt dem übermittelnden Staat auf dessen
 Ersuchen zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 übermittelten Daten verwendet wurden.
-
 
 ##### § 34 Abgleich personenbezogener Daten
 
@@ -1681,7 +1628,6 @@ Der Betroffene kann für die Dauer des Abgleichs angehalten werden.
 
 (2) Rechtsvorschriften über den Datenabgleich in anderen Fällen
 bleiben unberührt.
-
 
 ##### § 35 Berichtigung, Löschung und Sperrung personenbezogener Daten
 
@@ -1766,7 +1712,6 @@ Absatz 5 Satz 2 sind die Datenträger an das zuständige Archiv
 abzugeben, sofern diesen Unterlagen bleibender Wert im Sinne des § 3
 des Bundesarchivgesetzes zukommt.
 
-
 ##### § 36 Errichtungsanordnung
 
 (1) Die Bundespolizei hat für jede zur Erfüllung der Aufgaben nach den
@@ -1813,7 +1758,6 @@ vorherige Anhörung nicht möglich ist.
 (3) In angemessenen Abständen ist die Notwendigkeit der Weiterführung
 oder Änderung der Dateien zu überprüfen.
 
-
 ##### § 37 Geltung des Bundesdatenschutzgesetzes
 
 Bei der Erfüllung der der Bundespolizei nach den §§ 1 bis 7
@@ -1822,17 +1766,13 @@ obliegenden Aufgaben finden § 3 Abs. 2 und 8 Satz 1, § 4 Abs. 2 und 3,
 Satz 2 und 3 sowie §§ 19a und 20 des Bundesdatenschutzgesetzes keine
 Anwendung.
 
-
 #### Teil 3 - Platzverweisung, Gewahrsam, Durchsuchung
-
-
 
 ##### § 38 Platzverweisung
 
 Die Bundespolizei kann zur Abwehr einer Gefahr eine Person
 vorübergehend von einem Ort verweisen oder ihr vorübergehend das
 Betreten eines Ortes verbieten.
-
 
 ##### § 39 Gewahrsam
 
@@ -1870,7 +1810,6 @@ werden kann.
 (4) Die Bundespolizei kann eine Person in Gewahrsam nehmen, um einem
 Ersuchen, das eine Freiheitsentziehung zum Inhalt hat, nachzukommen.
 
-
 ##### § 40 Richterliche Entscheidung
 
 (1) Wird eine Person auf Grund des § 23 Abs. 3 Satz 4, § 25 Abs. 3, §
@@ -1893,7 +1832,6 @@ vorherige richterliche Entscheidung nicht ergangen, hat die
 Bundespolizei die festgehaltene Person zu entlassen, wenn die
 ersuchende Behörde diese nicht übernimmt oder die richterliche
 Entscheidung nicht unverzüglich nachträglich beantragt.
-
 
 ##### § 41 Behandlung festgehaltener Personen
 
@@ -1920,7 +1858,6 @@ Untersuchungsgefangenen untergebracht werden. Männer und Frauen sollen
 getrennt untergebracht werden. Der festgehaltenen Person dürfen nur
 solche Beschränkungen auferlegt werden, die der Zweck der
 Freiheitsentziehung oder die Ordnung im Gewahrsam erfordert.
-
 
 ##### § 42 Dauer der Freiheitsentziehung
 
@@ -1953,7 +1890,6 @@ betragen.
 
 (2) Eine Freiheitsentziehung zum Zwecke der Feststellung der Identität
 darf die Dauer von insgesamt zwölf Stunden nicht überschreiten.
-
 
 ##### § 43 Durchsuchung von Personen
 
@@ -2015,7 +1951,6 @@ erforderlich ist.
 (5) Die Person kann festgehalten und zur Dienststelle mitgenommen
 werden, wenn die Durchsuchung auf andere Weise nicht oder nur unter
 erheblichen Schwierigkeiten durchgeführt werden kann.
-
 
 ##### § 44 Durchsuchung von Sachen
 
@@ -2094,7 +2029,6 @@ Vertreter oder ein anderer Zeuge hinzugezogen werden. Dem Inhaber der
 tatsächlichen Gewalt ist auf Verlangen eine Bescheinigung über die
 Durchsuchung und ihren Grund zu erteilen.
 
-
 ##### § 45 Betreten und Durchsuchung von Wohnungen
 
 (1) Die Bundespolizei kann eine Wohnung ohne Einwilligung des Inhabers
@@ -2156,7 +2090,6 @@ der Gefahrenabwehr im Rahmen der der Bundespolizei zugewiesenen
 Aufgaben während der Arbeits-, Geschäfts- oder Aufenthaltszeit
 betreten werden.
 
-
 ##### § 46 Verfahren bei der Durchsuchung von Wohnungen
 
 (1) Durchsuchungen dürfen, außer bei Gefahr im Verzug, nur durch den
@@ -2189,10 +2122,7 @@ Wohnungsinhaber oder der hinzugezogenen Person lediglich die
 Durchsuchung unter Angabe der verantwortlichen Dienststelle sowie Zeit
 und Ort der Durchsuchung schriftlich zu bestätigen.
 
-
 #### Teil 4 - Ergänzende Vorschriften
-
-
 
 ##### § 47 Sicherstellung
 
@@ -2220,13 +2150,6 @@ Die Bundespolizei kann eine Sache sicherstellen,
 
     d)  sich oder einem anderen die Flucht zu ermöglichen oder zu erleichtern.
 
-
-
-
-
-
-
-
 ##### § 48 Verwahrung
 
 (1) Sichergestellte Sachen sind in Verwahrung zu nehmen. Läßt die
@@ -2251,7 +2174,6 @@ wird.
 
 (4) Die verwahrten Sachen sind zu verzeichnen und so zu kennzeichnen,
 daß Verwechslungen vermieden werden.
-
 
 ##### § 49 Verwertung, Vernichtung
 
@@ -2311,7 +2233,6 @@ werden, wenn
 
 Absatz 2 gilt entsprechend.
 
-
 ##### § 50 Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
 
 (1) Sobald die Voraussetzungen für die Sicherstellung weggefallen
@@ -2337,10 +2258,7 @@ Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 (4) § 983 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-
 ## Abschnitt 3 - Schadensausgleich
-
-
 
 ### § 51 Zum Ausgleich verpflichtende Tatbestände
 
@@ -2383,7 +2301,6 @@ und dadurch einen Schaden erlitten haben.
 (4) Weitergehende Ersatzansprüche, insbesondere aus
 Amtspflichtverletzung, bleiben unberührt.
 
-
 ### § 52 Inhalt, Art und Umfang des Ausgleichs
 
 (1) Der Ausgleich nach § 51 wird grundsätzlich nur für
@@ -2421,7 +2338,6 @@ eingewirkt, so hängt die Verpflichtung zum Ausgleich sowie der Umfang
 des Ausgleichs insbesondere davon ab, inwieweit der Schaden vorwiegend
 von dem Geschädigten oder durch die Behörde verursacht worden ist.
 
-
 ### § 53 Ausgleich im Todesfall
 
 (1) Im Falle der Tötung sind im Rahmen des § 52 Abs. 5 die Kosten der
@@ -2439,7 +2355,6 @@ verpflichtet gewesen wäre. § 52 Abs. 3 Satz 3 bis 5 ist entsprechend
 anzuwenden. Der Ausgleich kann auch dann verlangt werden, wenn der
 Dritte zur Zeit der Verletzung gezeugt, aber noch nicht geboren war.
 
-
 ### § 54 Verjährung des Ausgleichsanspruchs
 
 Der Anspruch auf den Ausgleich verjährt in drei Jahren von dem
@@ -2447,7 +2362,6 @@ Zeitpunkt an, in welchem der Geschädigte, im Falle des § 53 der
 Anspruchsberechtigte, von dem Schaden und dem zum Ausgleich
 Verpflichteten Kenntnis erlangt, ohne Rücksicht auf diese Kenntnis in
 dreißig Jahren von dem Eintritt des schädigenden Ereignisses an.
-
 
 ### § 55 Ausgleichspflichtiger, Ersatzansprüche
 
@@ -2468,17 +2382,13 @@ Deutschland von dem Land, in dessen Dienst der Beamte steht, Ersatz
 ihrer Aufwendungen verlangen, es sei denn, daß sie selbst die
 Verantwortung für die Art und Weise der Durchführung trägt.
 
-
 ### § 56 Rechtsweg
 
 Für Ansprüche auf Schadensausgleich ist der ordentliche Rechtsweg, für
 Ansprüche auf Aufwendungsersatz nach § 55 Abs. 2 und 3 der
 Verwaltungsrechtsweg gegeben.
 
-
 ## Abschnitt 4 - Organisation und Zuständigkeiten
-
-
 
 ### § 57 Bundespolizeibehörden
 
@@ -2502,7 +2412,6 @@ Landes.
 (6) Die zahlenmäßige Stärke der Bundespolizei ergibt sich aus dem
 Haushaltsplan.
 
-
 ### § 58 Sachliche und örtliche Zuständigkeit
 
 (1) Das Bundesministerium des Innern regelt durch Rechtsverordnung die
@@ -2518,7 +2427,6 @@ auch über die in § 1 Abs. 7 und § 6 bezeichneten räumlichen
 Zuständigkeitsbereiche der Bundespolizei hinaus fortsetzen und den
 Flüchtigen ergreifen.
 
-
 ### § 59 Verbandspolizeiliche Aufgabenwahrnehmung
 
 (1) Die Bundespolizei setzt Kräfte der Verbände und Einheiten der
@@ -2529,7 +2437,6 @@ geschlossener Verbände oder Einheiten erfordern.
 Bundespolizei den Einsatz geschlossener Verbände oder Einheiten, sind
 die erforderlichen Maßnahmen im Benehmen mit der Polizei des Landes zu
 treffen.
-
 
 ### § 60 Einsatz von Hubschraubern
 
@@ -2542,7 +2449,6 @@ Voraussetzungen und Verfahren für die Beförderung von Personen durch
 Hubschrauber der Bundespolizei, soweit es sich nicht um die Verwendung
 von Hubschraubern als polizeiliches Einsatz- und Transportmittel
 handelt.
-
 
 ### § 61 Grenzübergangsstellen, Grenzerlaubnis
 
@@ -2575,7 +2481,6 @@ nach den Absätzen 2 und 3 tätig werden.
 nach § 68 Satz 1 zur Ausübung übertragen sind, kann in der
 Rechtsverordnung bestimmt werden, daß Behörden der Zollverwaltung
 anstelle der Bundespolizei nach Absatz 3 tätig werden.
-
 
 ### § 62 Unterstützungspflichten
 
@@ -2641,7 +2546,6 @@ Pauschale vereinbart werden.
 (6) Verkehrsverwaltungen des Bundes gelten als Unternehmen im Sinne
 der vorstehenden Absätze.
 
-
 ### § 63 Vollzugsdienst, Hilfspolizeibeamte
 
 (1) Tätigkeiten des Vollzugsdienstes in der Bundespolizei sind in der
@@ -2680,7 +2584,6 @@ Vollzugsbeamte des Bundes anzuwenden.
 (4) Das Bundesministerium des Innern bestimmt die für die Aufsicht
 über die Hilfspolizeibeamten und ihre Bestellung zuständigen
 Bundespolizeibehörden.
-
 
 ### § 64 Amtshandlungen von Polizeivollzugsbeamten der Länder sowie von Vollzugsbeamten anderer Bundesbehörden oder anderer Staaten im Zuständigkeitsbereich der Bundespolizei
 
@@ -2728,7 +2631,6 @@ Maßgabe der für die Bestellung von Hilfspolizeibeamten geltenden
 Vorschriften des § 63 Abs. 2 bis 4 mit Aufgaben des Vollzugsdienstes
 in der Bundespolizei betraut werden.
 
-
 ### § 65 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich eines Landes oder Tätigkeiten in anderen Staaten
 
 (1) Polizeivollzugsbeamte der Bundespolizei dürfen im
@@ -2742,7 +2644,6 @@ Vereinbarungen oder der Beschluss des Rates 2008/615/JI vom 23. Juni
 Bundesministerium des Innern im Einvernehmen mit den zuständigen
 Stellen des anderen Staates einer Tätigkeit von Beamten der
 Bundespolizei im Ausland allgemein oder im Einzelfall zustimmt.
-
 
 ### § 66 Amtshandlungen von Beamten der Zollverwaltung im Zuständigkeitsbereich der Bundespolizei
 
@@ -2760,7 +2661,6 @@ Bundesministerium des Innern und die nachgeordneten
 Bundespolizeibehörden üben ihnen gegenüber insoweit die Fachaufsicht
 aus.
 
-
 ### § 67 Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
 
 (1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
@@ -2774,7 +2674,6 @@ haben sie dieselben Befugnisse wie Beamte der Zollverwaltung. Ihre
 Maßnahmen gelten als Maßnahmen der Zollverwaltung. Das
 Bundesministerium der Finanzen und die nachgeordneten
 Zolldienststellen üben ihnen gegenüber insoweit die Fachaufsicht aus.
-
 
 ### § 68 Wahrnehmung von Aufgaben durch die Zollverwaltung
 
@@ -2793,17 +2692,13 @@ Zollverwaltung zur Ausübung übertragen
 Nimmt die Zollverwaltung Aufgaben nach Satz 1 wahr, gilt § 66 Abs. 2
 entsprechend.
 
-
 ## Abschnitt 5 - Schlußbestimmungen
-
-
 
 ### § 69 Verwaltungsvorschriften
 
 Das Bundesministerium des Innern erläßt die zur Durchführung dieses
 Gesetzes im Bereich der Bundesverwaltung erforderlichen allgemeinen
 Verwaltungsvorschriften.
-
 
 ### § 69a Bußgeldvorschriften
 
@@ -2817,7 +2712,6 @@ fünfzigtausend Euro geahndet werden.
 über Ordnungswidrigkeiten ist die in der Rechtsverordnung nach § 58
 Abs. 1 bestimmte Bundespolizeibehörde. Sie teilt dem Luftfahrt-
 Bundesamt die Verhängung eines Bußgeldes nach Absatz 1 mit.
-
 
 ### § 70 Einschränkung von Grundrechten
 

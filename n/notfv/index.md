@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 576
 
-
 ## Eingangsformel
 
 Auf Grund des § 7a Absatz 4 Satz 2, § 7g Absatz 2 Satz 2 und des § 7i
@@ -23,9 +22,7 @@ der Bundesnotarordnung, die durch Artikel 1 Nummer 2 des Gesetzes vom
 2\. April 2009 (BGBl. I S. 696) eingefügt worden sind, verordnet das
 Bundesministerium der Justiz:
 
-
 ## Teil 1 - Prüfungsamt für die notarielle Fachprüfung bei der Bundesnotarkammer
-
 
 ### § 1 Leitung des Prüfungsamtes
 
@@ -44,7 +41,6 @@ Jahr schriftlich Bericht über die Tätigkeit des Prüfungsamtes. Sie ist
 verpflichtet, dem Verwaltungsrat auf Anforderung jederzeit Auskunft
 über Angelegenheiten des Prüfungsamtes zu erteilen und Akteneinsicht
 zu gewähren.
-
 
 ### § 2 Verwaltungsrat
 
@@ -81,7 +77,6 @@ Bundesnotarkammer bestimmt Voraussetzungen und Höhe der Zahlungen nach
 Satz 2 durch Satzung, die der Genehmigung des Bundesministeriums der
 Justiz bedarf.
 
-
 ### § 3 Aufgabenkommission
 
 (1) Die Aufgabenkommission besteht aus mindestens acht und höchstens
@@ -116,7 +111,6 @@ Obliegenheiten zu verpflichten.
 Verwaltungsrat auf Anforderung Auskunft zu erteilen und Akteneinsicht
 zu gewähren.
 
-
 ### § 4 Prüferinnen und Prüfer
 
 (1) Das Prüfungsamt bestellt die erforderliche Anzahl von Prüferinnen
@@ -129,9 +123,7 @@ Sie sind bei ihrer erstmaligen Berufung von der Leitung des
 Prüfungsamtes zur gewissenhaften Erfüllung ihrer Obliegenheiten zu
 verpflichten.
 
-
 ## Teil 2 - Notarielle Fachprüfung
-
 
 ### § 5 Prüfungsgebiete
 
@@ -174,7 +166,6 @@ Praxis typischerweise in diesem Zusammenhang auftreten oder soweit
 lediglich Verständnis und Arbeitsmethode festgestellt werden sollen
 und Einzelwissen nicht vorausgesetzt wird.
 
-
 ### § 6 Prüfungstermine
 
 (1) Es sollen mindestens zwei Prüfungstermine im Kalenderjahr
@@ -186,7 +177,6 @@ schriftlichen Prüfung in der Deutschen Notar-Zeitschrift bekannt zu
 geben. Daneben soll eine Bekanntgabe auf der Internetseite des
 Prüfungsamtes erfolgen.
 
-
 ### § 7 Prüfungsorte
 
 (1) Prüfungen sollen an verschiedenen Orten im Gebiet des
@@ -197,7 +187,6 @@ einbeziehen.
 
 (2) Ein Anspruch, die Prüfung an einem bestimmten Ort abzulegen,
 besteht nicht.
-
 
 ### § 8 Zulassung zur Prüfung
 
@@ -248,7 +237,6 @@ Bescheid über eine Ablehnung der Zulassung ist mit einer
 Rechtsbehelfsbelehrung zu versehen und der Antragstellerin oder dem
 Antragsteller zuzustellen.
 
-
 ### § 9 Rücktritt und Versäumnis
 
 (1) Über das Vorliegen von Rücktritt und Versäumnis und deren
@@ -266,7 +254,6 @@ die Vorlage eines Zeugnisses verzichtet werden.
 erneut angefertigt oder nachgeholt werden dürfen, sind in dem
 Prüfungstermin zu erbringen, der auf die ganz oder teilweise versäumte
 Prüfung folgt.
-
 
 ### § 10 Vorbereitung der schriftlichen Prüfung
 
@@ -292,7 +279,6 @@ erforderlichen Aufsichtspersonen auszuwählen und bereitzustellen.
 Prüferinnen und Prüfer die Aufsichtsarbeiten bewerten. Gleichzeitig
 sind für den Fall der Verhinderung der eingeteilten Personen
 Ersatzprüferinnen und Ersatzprüfer zu bestimmen.
-
 
 ### § 11 Anfertigung der Aufsichtsarbeiten
 
@@ -329,7 +315,6 @@ Aufsichtsarbeiten, etwaige Ordnungsverstöße sowie alle sonstigen
 wesentlichen Vorkommnisse aufzunehmen sind. Die Niederschrift ist von
 der örtlichen Prüfungsleitung zu unterschreiben.
 
-
 ### § 12 Bewertung der Aufsichtsarbeiten
 
 Das Prüfungsamt leitet die Aufsichtsarbeiten unverzüglich den für die
@@ -339,14 +324,12 @@ Absatz 2 Satz 4 der Bundesnotarordnung und führt die Einigung sowie
 bei Bedarf den Stichentscheid gemäß § 7b Absatz 2 Satz 5 der
 Bundesnotarordnung herbei.
 
-
 ### § 13 Ladung zur mündlichen Prüfung
 
 Die Prüflinge sind spätestens vier Wochen vor dem Termin der
 mündlichen Prüfung schriftlich zu laden. § 10 Absatz 1 Satz 2 und 3
 gilt entsprechend. Die Ladung muss Zeit und Ort der mündlichen Prüfung
 enthalten und die zugelassenen Hilfsmittel benennen.
-
 
 ### § 14 Mündliche Prüfung
 
@@ -392,13 +375,11 @@ Verkündung der Entscheidungen des Prüfungsausschusses aufzunehmen
 sind. Die Niederschrift ist von der Vorsitzenden oder dem Vorsitzenden
 des Prüfungsausschusses zu unterschreiben.
 
-
 ### § 15 Bewertung der mündlichen Prüfung
 
 Der Prüfungsausschuss stellt die Gesamtnote der mündlichen Prüfung
 fest. Bei der Ermittlung der Gesamtnote werden der Vortrag mit 20
 Prozent und das Gruppenprüfungsgespräch mit 80 Prozent berücksichtigt.
-
 
 ### § 16 Nachteilsausgleich
 
@@ -419,7 +400,6 @@ Satz 2 auch hervorgeht, inwieweit die Behinderung die Fähigkeit des
 Prüflings einschränkt, die vorgeschriebene Bearbeitungszeit oder
 Vorbereitungszeit einzuhalten.
 
-
 ### § 17 Einsicht in Prüfungsunterlagen
 
 Dem Prüfling ist auf Antrag die Einsicht in seine schriftlichen
@@ -427,7 +407,6 @@ Prüfungsarbeiten einschließlich der Gutachten der Prüferinnen und
 Prüfer zu gestatten. Der Antrag ist binnen eines Monats nach
 Bekanntgabe der Prüfungsgesamtnote bei dem Prüfungsamt zu stellen. Die
 Einsicht erfolgt in den Räumen des Prüfungsamtes.
-
 
 ### § 18 Mängel im Prüfungsverfahren
 
@@ -441,7 +420,6 @@ Prüflingen zu wiederholen sind, die durch den Mangel beschwert sind.
 Antragstellerin oder der Antragsteller Kenntnis von dem Mangel erlangt
 hat, schriftlich beim Prüfungsamt zu stellen. Er darf keine
 Bedingungen enthalten und kann nicht zurückgenommen werden.
-
 
 ### § 19 Wiederholungsprüfung
 
@@ -458,7 +436,6 @@ nicht nochmals erbracht zu werden.
 die mündliche Prüfung muss bei der Wiederholungsprüfung eine andere
 Person sein als im Termin der ersten Prüfung.
 
-
 ### § 20 Widerspruchsverfahren
 
 Die Leiterin oder der Leiter des Prüfungsamtes holt Stellungnahmen der
@@ -468,9 +445,7 @@ Prüfungsleistungen zugrunde liegt. Eine Stellungnahme der
 Aufgabenkommission kann eingeholt werden, wenn dies für die
 Entscheidung über den Widerspruch erforderlich ist.
 
-
 ## Teil 3 - Schlussvorschriften
-
 
 ### § 21 Aufbewahrungsfristen
 
@@ -487,11 +462,9 @@ Prüfungsgutachten sind fünf Jahre, die übrigen Prüfungsunterlagen sind
 in dem die Bekanntgabe des Prüfungsergebnisses an den Prüfling
 erfolgt.
 
-
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

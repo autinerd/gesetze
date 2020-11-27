@@ -21,13 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 31 G v. 6.12.2011 I 2515
 
-
 ## § 1
 
 Der Apotheker ist berufen, die Bevölkerung ordnungsgemäß mit
 Arzneimitteln zu versorgen. Er dient damit der Gesundheit des
 einzelnen Menschen und des gesamten Volkes.
-
 
 ## § 2
 
@@ -54,13 +52,11 @@ pharmazeutischen Tätigkeit, insbesondere die Entwicklung, Herstellung,
 Prüfung oder Abgabe von Arzneimitteln unter der Berufsbezeichnung
 "Apotheker" oder "Apothekerin".
 
-
 ## § 3
 
 Die Berufsbezeichnung "Apotheker" oder "Apothekerin" darf nur führen,
 wer als Apotheker approbiert oder nach § 2 Abs. 2 oder Abs. 2a zur
 Ausübung des Apothekerberufs befugt ist.
-
 
 ## § 4
 
@@ -402,7 +398,6 @@ des § 17 keine Anwendung.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ## § 5
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
@@ -438,7 +433,6 @@ Berufserlaubnis nach § 11 vorzusehen.
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## § 6
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung
@@ -468,7 +462,6 @@ tatsächlich nicht nachgewiesen worden sind.
 (2) Die Approbation ist zu widerrufen, wenn nachträglich eine der
 Voraussetzungen nach § 4 Abs. 1 Satz 1 Nr. 2 weggefallen ist.
 
-
 ## § 7
 
 (1) (weggefallen)
@@ -479,7 +472,6 @@ Voraussetzungen nach § 4 Abs. 1 Satz 1 Nr. 3 weggefallen ist.
 (3) Eine nach § 4 Abs. 2 oder 3 erteilte Approbation kann auch
 zurückgenommen werden, wenn eine der nicht auf § 4 Abs. 1 Satz 1
 bezogenen Voraussetzungen nicht vorgelegen hat.
-
 
 ## § 8
 
@@ -515,18 +507,15 @@ den Widerruf der Approbation ersetzt wird.
 (3) Der Apotheker, dessen Approbation ruht, darf den Apothekerberuf
 nicht ausüben.
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 10
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
 Bedingung erklärt wird, ist unwirksam.
-
 
 ## § 11
 
@@ -572,7 +561,6 @@ den Europäischen Wirtschaftsraum und der Schweiz, die über einen
 Ausbildungsnachweis nach Absatz 1 verfügen, sowie auf
 Drittstaatsangehörige, soweit sich nach dem Recht der Europäischen
 Gemeinschaft eine Gleichstellung ergibt, keine Anwendung.
-
 
 ## § 11a
 
@@ -699,10 +687,6 @@ Bescheinigungen darüber auszustellen, dass
 
 3.  er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-
-
-
 ## § 12
 
 (1) Die Approbation erteilt in den Fällen des § 4 Abs. 1 Satz 1 die
@@ -756,13 +740,11 @@ Richtlinie 2005/36/EG an die zuständigen Behörden des
 Aufnahmemitgliedstaats zu übermitteln haben, hat dies binnen zwei
 Monaten zu erfolgen.
 
-
 ## § 13
 
 Wer den Apothekerberuf ausübt, solange durch vollziehbare Verfügung
 das Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis
 zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 14
 
@@ -799,21 +781,17 @@ nach § 3 Abs. 1 der Reichsapothekerordnung vom 18. April 1937 (RGBl. I
 S. 457) gilt mit ihrem bisherigen Inhalt als Erlaubnis im Sinne des §
 2 Abs. 2.
 
-
 ## (XXXX) §§ 15 und 16 (weggefallen)
 
 (Änderung anderer Vorschriften)
-
 
 ## § 17
 
 (weggefallen)
 
-
 ## § 18
 
 (Inkrafttreten)
-
 
 ## Anlage (zu § 4 Abs. 1a Satz 1)
 

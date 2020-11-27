@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 85 V v. 31.10.2006 I 2407
 
-
 ## § 1 Aufbewahrung von Schriftgut
 
 (1) Schriftgut der Gerichte des Bundes und des Generalbundesanwalts,
@@ -39,7 +38,6 @@ Satz 1 gilt für elektronisch geführte Akten und Dateien entsprechend.
 Strafprozessordnung, auch in Verbindung mit § 49c des Gesetzes über
 Ordnungswidrigkeiten, sowie die Anbietungs- und Übergabepflichten nach
 den Vorschriften des Bundesarchivgesetzes bleiben unberührt.
-
 
 ## § 2 Verordnungsermächtigung
 

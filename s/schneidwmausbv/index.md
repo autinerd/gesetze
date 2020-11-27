@@ -22,7 +22,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 der Handwerksordnung in der Fassung der
@@ -31,13 +30,11 @@ durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525)
 geändert worden ist, wird im Einvernehmen mit dem Bundesminister für
 Bildung und Wissenschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Schneidwerkzeugmechaniker/Schneidwerkzeugmechanikerin nach der
 Handwerksordnung.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -48,7 +45,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -65,7 +61,6 @@ Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere
 selbständiges Planen, Durchführen und Kontrollieren an seinem
 Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -158,10 +153,6 @@ Fertigkeiten und Kenntnisse:
 26. Prüfen und Einstellen der Funktion und Inbetriebnehmen von
     Schneidwerkzeugen, Schneidemaschinen oder Schneidgeräten.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen unter Berücksichtigung
@@ -175,12 +166,10 @@ innerhalb der beruflichen Fachbildung abweichende sachliche und
 zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig,
 soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -188,7 +177,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -250,7 +238,6 @@ schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Gesellenprüfung
 
@@ -507,7 +494,6 @@ schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
@@ -517,7 +503,6 @@ geregelt sind, insbesondere für den Ausbildungsberuf
 Messerschmied/Messerschmiedin, sind vorbehaltlich des § 11 nicht mehr
 anzuwenden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -525,22 +510,18 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1989 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schneidwerkzeugmechaniker/zur Schneidwerkzeugmechanikerin
 
@@ -2448,10 +2429,6 @@ Der Bundesminister für Wirtschaft
 
     *   Inbetriebnehmen, Probelauf durchführen und gegebenenfalls unter dem
         Aspekt des Umweltschutzes Kenngrößen verändern
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 20.12.2012 I 2751
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9a Abs. 2 und 3 des Handelsgesetzbuchs in der im
@@ -31,7 +29,6 @@ Abs. 2 Satz 2 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S.
 November 2006 (BGBl. I S. 2553) geändert worden ist, verordnet das
 Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium
 der Finanzen:
-
 
 ## § 1 Allgemeines
 
@@ -62,7 +59,6 @@ www.unternehmensregister.de erreichbar. Zugangsstörungen, insbesondere
 aufgrund von Wartungs- oder Verbesserungsarbeiten, sind soweit möglich
 rechtzeitig anzukündigen.
 
-
 ## § 2 Sicherheit
 
 (1) Kommt es während einer Datenübermittlung zu Störungen oder
@@ -83,7 +79,6 @@ noch erforderlich.
 Einvernehmen mit dem Bundesamt für Sicherheit in der
 Informationstechnik ein Sicherheitskonzept für das
 Unternehmensregister.
-
 
 ## § 3 Registrierung der Nutzer
 
@@ -115,7 +110,6 @@ werden; es können andere Authentifizierungsverfahren verwendet werden,
 soweit diese nach dem Stand der Technik einen vergleichbaren
 Sicherheitsstandard gewährleisten.
 
-
 ## § 4 Art der Datenübermittlung
 
 Daten werden dem Unternehmensregister im Wege der Datenfernübertragung
@@ -123,7 +117,6 @@ Daten werden dem Unternehmensregister im Wege der Datenfernübertragung
 in Absprache mit dem Betreiber durch Telefax erfolgen. Die
 Landesjustizverwaltungen können mit dem Betreiber eine andere Art der
 Datenbereitstellung vereinbaren.
-
 
 ## § 5 Datenübermittlung durch die Landesjustizverwaltungen
 
@@ -148,7 +141,6 @@ Landesjustizverwaltungen können in Absprache mit dem Betreiber eine
 häufigere Aktualisierung oder eine vollständige Neuübermittlung
 vornehmen, wenn dadurch der Betrieb des Unternehmensregisters nicht
 beeinträchtigt wird.
-
 
 ## § 6 Übermittlung von Indexdaten zu Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister
 
@@ -188,7 +180,6 @@ Abs. 1 Satz 4 des Handelsgesetzbuchs) weitere Indexdaten, insbesondere
 die Gerichtskennung, bereitgestellt werden, sind dem
 Unternehmensregister auch diese zu übermitteln.
 
-
 ## § 7 Übermittlung von Indexdaten zu Bekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister
 
 Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
@@ -223,7 +214,6 @@ Genossenschafts- und Partnerschaftsregister:
 
 § 6 Satz 2 gilt entsprechend.
 
-
 ## § 8 Übermittlung von Indexdaten zu Insolvenzbekanntmachungen
 
 Die Landesjustizverwaltungen übermitteln dem Unternehmensregister
@@ -256,7 +246,6 @@ des § 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs:
 
 § 6 Satz 2 gilt entsprechend.
 
-
 ## § 9 Übermittlung von Unterlagen der Rechnungslegung
 
 Wird ein Antrag auf elektronische Übermittlung nach § 9 Abs. 2 des
@@ -273,7 +262,6 @@ Handelsregisterverordnung gilt entsprechend. Das Unternehmensregister
 der Technik gesicherte, zwischen dem Betreiber und den
 Landesjustizverwaltungen vereinbarte Verbindung an eine von den
 Landesjustizverwaltungen festgelegte Stelle.
-
 
 ## § 10 Datenübermittlung durch den Betreiber des Bundesanzeigers
 
@@ -301,7 +289,6 @@ beim Betreiber des Bundesanzeigers in einem anderen, zur Archivierung
 der Daten nicht geeigneten Dateiformat ein, wandelt der Betreiber des
 Bundesanzeigers die Daten im Auftrag des Unternehmens um.
 
-
 ## § 11 Datenübermittlung durch Veröffentlichungspflichtige oder mit der Veranlassung der Veröffentlichung beauftragte Dritte
 
 Daten im Sinn des § 8b Abs. 2 Nr. 9 des Handelsgesetzbuchs sind dem
@@ -315,7 +302,6 @@ Für die Übermittlung ist eine Registrierung des
 Veröffentlichungspflichtigen oder des mit der Veranlassung der
 Veröffentlichung beauftragten Dritten nach § 3 erforderlich. Der
 Erfolg der Übermittlung wird elektronisch angezeigt.
-
 
 ## § 12 Zugänglichkeit, Berichtigung und Löschung von Daten
 
@@ -332,7 +318,6 @@ die Originaldaten nicht mehr im Bundesanzeiger zugänglich sind. Nach §
 11 an das Unternehmensregister übermittelte Daten sind für zehn Jahre
 zugänglich zu halten und anschließend zu löschen. Gesetzliche
 Löschungsregelungen bleiben unberührt.
-
 
 ## § 13 Einsichtnahme in das Unternehmensregister
 
@@ -366,12 +351,10 @@ elektronischer Form. Die Kopie ist mit dem Herkunftsvermerk „Auszug
 aus dem Unternehmensregister“ und dem Datum, zu dem die Bilanz im
 Unternehmensregister hinterlegt worden ist, zu versehen.
 
-
 ## § 14 Suche im Register
 
 Das Unternehmensregister erlaubt die Suche nach allen eingestellten
 Daten sowie über sämtliche Indexdaten.
-
 
 ## § 15 Auskunftsdienstleistungen; Zahlungen und Rechnungsstellung
 
@@ -390,7 +373,6 @@ Zahlungsweg erfolgen. Der Zahlungsweg kann von einer Registrierung
 nach § 3 abhängig gemacht werden. Rechnungen oder Quittungen werden in
 Textform (§ 126b des Bürgerlichen Gesetzbuchs) übermittelt oder
 elektronisch angezeigt.
-
 
 ## § 16 Befugnisse der Bundesanstalt für Finanzdienstleistungsaufsicht
 
@@ -417,19 +399,16 @@ Aufsichtsbehörde über das Unternehmensregister auf die Erfüllung der
 bestehenden Pflichten durch den Betreiber und die Beseitigung von
 Missständen hinwirken.
 
-
 ## § 17 Erstmalige Übermittlung der Indexdaten
 
 Die Landesjustizverwaltungen übermitteln die Indexdaten (§§ 6 bis 8)
 erstmalig zum 1. Januar 2007.
-
 
 ## § 18 Inkrafttreten
 
 § 16 tritt am Tag nach der Verkündung dieser Verordnung in Kraft. Im
 Übrigen tritt diese Verordnung mit Wirkung vom 1. Januar 2007 in
 Kraft.
-
 
 ## Schlussformel
 

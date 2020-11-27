@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 26.6.2003 I 1006
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 4 Satz 1 des Wertpapiererwerbs- und
 Übernahmegesetzes vom 20. Dezember 2001 (BGBl. I S. 3822) verordnet
 das Bundesministerium der Finanzen:
-
 
 ## § 1 Bestellung und Abberufung der Mitglieder des Widerspruchsausschusses
 
@@ -37,14 +35,12 @@ ehrenamtliche Beisitzer des Widerspruchsausschusses.
 (2) Die ehrenamtlichen Beisitzer müssen nach § 15 des
 Bundeswahlgesetzes wählbar sein.
 
-
 ## § 2 Vorzeitige Beendigung der Bestellung
 
 Der Präsident der Bundesanstalt kann einen Beisitzer nach § 86 des
 Verwaltungsverfahrensgesetzes abberufen. In diesem Fall wird ein neuer
 Beisitzer nach § 1 Abs. 1 bis zum Ablauf der ursprünglichen Bestellung
 des abberufenen Beisitzers bestellt.
-
 
 ## § 3 Reihenfolge der Mitwirkung
 
@@ -69,7 +65,6 @@ noch nicht herangezogene Beisitzer zur Mitwirkung berufen. Ein bei
 seiner Heranziehung verhinderter Beisitzer wird erst wieder im
 nächsten Turnus herangezogen.
 
-
 ## § 4 Von der Mitwirkung ausgeschlossene Personen
 
 (1) Unbeschadet der §§ 20 und 21 des Verwaltungsverfahrensgesetzes
@@ -92,7 +87,6 @@ sind beamtete Beisitzer von der Mitwirkung an Entscheidungen des
 Widerspruchsausschusses ausgeschlossen, wenn sie an dem Erlass der
 angegriffenen Entscheidung beteiligt waren.
 
-
 ## § 5 Einladung zur Sitzung des Widerspruchsausschusses
 
 Der Vorsitzende des Widerspruchsausschusses beruft den
@@ -103,7 +97,6 @@ Widerspruchsausschusses enthalten. Der Vorsitzende kann die Sitzung
 nach Bedarf auch an einem anderen Ort als dem Sitz der Bundesanstalt
 anberaumen. In dringenden Fällen kann die Einladung auch telefonisch
 erfolgen.
-
 
 ## § 6 Entscheidungen des Widerspruchsausschusses
 
@@ -117,7 +110,6 @@ mündliche Verhandlung anordnen.
 (3) Der Widerspruchsausschuss ist bei Anwesenheit des Vorsitzenden und
 zweier Beisitzer beschlussfähig.
 
-
 ## § 7 Entschädigung ehrenamtlicher Beisitzer
 
 Die ehrenamtlichen Beisitzer des Widerspruchsausschusses verwalten ihr
@@ -128,7 +120,6 @@ Beiräten, Ausschüssen, Kommissionen und ähnlichen Einrichtungen im
 Bereich des Bundes vom 9. November 1981 (GMBl S. 515), zuletzt
 geändert durch das Rundschreiben des Bundesministeriums der Finanzen
 vom 19. März 1997 (GMBl S. 172).
-
 
 ## § 8 Inkrafttreten
 

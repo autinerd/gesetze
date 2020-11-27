@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 7.9.2007 I 2246
 
-
 ## § 1
 
 Im Geltungsbereich dieses Gesetzes wird eine Preisstatistik als
 Bundesstatistik durchgeführt.
-
 
 ## § 2
 
@@ -47,10 +45,6 @@ Die Statistik erstreckt sich auf
 
 5.  Preise für Grundstücke.
 
-
-
-
-
 ## § 3
 
 (1) Die Statistik nach § 2 Nr. 1 erfaßt die Preise für nach Art,
@@ -68,10 +62,6 @@ Auskunftspflichtigen durchgeführt.
     "Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab
     1\. Januar 1995 bei höchstens 34.000 Auskunftspflichtigen
     durchgeführt."
-
-
-
-
 
 ## § 4
 
@@ -91,10 +81,6 @@ Auskunftspflichtigen durchgeführt.
     1\. Januar 1995 bei höchstens 14.000 Auskunftspflichtigen
     durchgeführt."
 
-
-
-
-
 ## § 5
 
 (1) Die Statistik nach § 2 Nr. 3 erfaßt die Preise und Entgelte für
@@ -107,7 +93,6 @@ Personen, die Verkehrsleistungen erbringen oder vermitteln oder - in
 Fällen der Einfuhr von Gütern - in Anspruch nehmen, Schiffsmieten
 bezahlen oder erhalten sowie Behörden und Einrichtungen des
 Verkehrswesens.
-
 
 ## § 6
 
@@ -134,10 +119,6 @@ werden bei höchstens 25.000\*) Auskunftspflichtigen durchgeführt.
     1\. Januar 1995 bei höchstens 38.000 Auskunftspflichtigen
     durchgeführt."
 
-
-
-
-
 ## § 7
 
 (1) Die Statistik nach § 2 Nr. 5 erfaßt die Preise für nach Arten und
@@ -145,7 +126,6 @@ Merkmalen bezeichnete Grundstücke.
 
 (2) Auskunftspflichtig sind die Finanzämter oder die Geschäftsstellen
 der Gutachterausschüsse für Grundstückswerte.
-
 
 ## § 7a
 
@@ -158,7 +138,6 @@ Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
 keine Auskunftspflicht, wenn das Unternehmen im letzten
 abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 500.000
 Euro erwirtschaftet hat.
-
 
 ## § 8
 
@@ -176,7 +155,6 @@ in größeren Zeitabständen durchgeführt werden.
 der Zustimmung des Bundesrates bedarf, die Durchführung der Erhebungen
 nach den Absätzen 2 und 3.
 
-
 ## § 9
 
 (1) Die Statistik wird hinsichtlich der Preise für Leistungen des
@@ -192,7 +170,6 @@ anderes bestimmt.
 (2) Absatz 1 gilt hinsichtlich der Preise für Verkehrsleistungen der
 Eisenbahn nicht im Land Berlin.
 
-
 ## § 10
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -201,13 +178,11 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## § 11
 
 Dieses Gesetz gilt im Saarland von dem Zeitpunkt an, zu dem das Gesetz
 über die Statistik für Bundeszwecke vom 3. September 1953
 (Bundesgesetzbl. I S. 1314) im Saarland in Kraft tritt.
-
 
 ## § 12
 

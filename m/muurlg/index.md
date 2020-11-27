@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 797
 
-
-
 ## (XXXX) Art 1 bis 6
-
-
 
 ## Art 7 Übergangsvorschriften
 
@@ -75,12 +71,10 @@ selbst Beiträge zur Versicherungs- oder Versorgungseinrichtung zu
 entrichten. Die Zahlung der Erstattungsbeträge an die Versicherungs-
 oder Versorgungseinrichtung erfolgt durch das Bundesversicherungsamt.
 
-
 ## Art 8 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 9 Inkrafttreten
 

@@ -23,7 +23,6 @@ Stand: Vertrag in Kraft gem. Bek. v. 30.8.1996 II 1486 mWv 1.1.1995
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 Dem auf der Insel Korfu am 24. Juni 1994 von der Bundesrepublik
@@ -32,7 +31,6 @@ Norwegen, der Republik Österreich, der Republik Finnland und des
 Königreichs Schweden zur Europäischen Union einschließlich der in der
 Schlußakte vom selben Tage aufgeführten Erklärungen wird zugestimmt.
 Der Vertrag und die Schlußakte werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -43,7 +41,6 @@ betreffend den Ausschluß der mehrfachen Wahlteilnahme und der
 mehrfachen Wahlbewerbung in einem Beitrittsstaat und in der
 Bundesrepublik Deutschland bei den Wahlen zum Europäischen Parlament
 zu erlassen.
-
 
 ## Art 3
 

@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   § 22 Abs. 4 G v. 26.2.2008 I 220
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -51,13 +48,6 @@ Diese Verordnung regelt die Anforderungen und das Verfahren
     b)  die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten im
         Rahmen der in Anlage 2 zu dieser Verordnung aufgeführten Abkommen
         zwischen der Europäischen Gemeinschaft und den genannten Drittstaaten.
-
-
-
-
-
-
-
 
 ### § 2 Allgemeine Anforderungen
 
@@ -103,13 +93,7 @@ werden, wenn
     Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
     Eisenbahnen jederzeit Auskünfte über seine Tätigkeit zu erteilen.
 
-
-
-
-
 ## Abschnitt 2 - Funkanlagen und Telekommunikationsendeinrichtungen
-
-
 
 ### § 3 Anerkennung als benannte Stelle
 
@@ -153,7 +137,6 @@ mitgeteilt. Der benannten Stelle wird eine Kennnummer zugeteilt.
 Post und Eisenbahnen überprüft regelmäßig, ob die benannten Stellen
 die Anforderungen weiterhin erfüllen.
 
-
 ### § 4 Anerkennung als Konformitätsbewertungsstelle für Drittstaaten
 
 (1) Mit der Anerkennung als Konformitätsbewertungsstelle für
@@ -173,10 +156,7 @@ Anwendung. Die Erfüllung der in § 2 aufgelisteten und in den
 jeweiligen Abkommen enthaltenen Anforderungen in Bezug auf den
 sektoralen Anhang zur Telekommunikation ist darzulegen.
 
-
 ## Abschnitt 3 - Elektromagnetische Verträglichkeit
-
-
 
 ### § 5 Anerkennung als benannte Stelle
 
@@ -206,11 +186,9 @@ Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die
 zuletzt durch Artikel 9 des Gesetzes vom 21. Dezember 2007 (BGBl. I S.
 3089) geändert worden ist, beantragt wurde.
 
-
 ### § 6
 
 (weggefallen)
-
 
 ### § 7 Anerkennung als Konformitätsbewertungsstelle für Drittstaaten
 
@@ -232,10 +210,7 @@ den jeweiligen Abkommen enthaltenen Anforderungen in Bezug auf den
 sektoralen Anhang zur elektromagnetischen Verträglichkeit ist
 darzulegen.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 8 Mitteilungspflicht bei Änderungen
 
@@ -244,7 +219,6 @@ technischer, organisatorischer oder personeller Art, die die
 Voraussetzungen für die Anerkennung berühren könnten, so haben sie
 diese unverzüglich schriftlich der Bundesnetzagentur für Elektrizität,
 Gas, Telekommunikation, Post und Eisenbahnen mitzuteilen.
-
 
 ### § 9 Erlöschen und Widerruf
 
@@ -262,10 +236,6 @@ Einstellung unverzüglich schriftlich anzuzeigen.
 
 2.  die Stelle dies beantragt.
 
-
-
-
-
 ### § 10 Kosten
 
 Für Amtshandlungen aufgrund der vorgenannten Regelungen werden
@@ -274,7 +244,6 @@ Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
 eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
-
 
 ### Anlage 1 (zu § 4) Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
 
@@ -299,7 +268,6 @@ Beschluss des Rates vom 27. September 2001 über den Abschluss des
 Abkommens zwischen der Europäischen Gemeinschaft und Japan über die
 gegenseitige Anerkennung (2001/747/EG) (ABl. EG Nr. L 284 S. 1)
 
-
 ### Anlage 2 (zu § 7) Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor elektromagnetische Verträglichkeit
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1795
@@ -322,7 +290,6 @@ Amerika über die gegenseitige Anerkennung (1999/78/EG) (ABl. EG Nr. L
 Beschluss des Rates vom 27. September 2001 über den Abschluss des
 Abkommens zwischen der Europäischen Gemeinschaft und Japan über die
 gegenseitige Anerkennung (2001/747/EG) (ABl. EG Nr. L 284 S. 1)
-
 
 ### Anlage 3 (zu § 10) Gebühren und Auslagen für die Anerkennung von benannten Stellen und Konformitätsbewertungsstellen für Drittstaaten
 
@@ -394,9 +361,6 @@ nach § 3
     *   Anlassbezogene Überprüfung der Anforderungen
 
     *   von 1.000 bis 2.000
-
-
-
 
 ## 2. Gebühren für die Anerkennung von Konformitätsbewertungsstellen
 für Drittstaaten nach § 4
@@ -478,9 +442,6 @@ für Drittstaaten nach § 4
         und Tag
 
     *   810
-
-
-
 
 ## 3. Gebühren für die Anerkennung von benannten Stellen nach § 5
 

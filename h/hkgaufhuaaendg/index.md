@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 2317
 
-
-
 ## Art 1 - Aufhebung des Heimkehrergesetzes (84-1)
-
-
 
 ## § 1
 
@@ -37,10 +33,6 @@ Es treten außer Kraft:
     84-1-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch
     die Verordnung vom 13. Februar 1975 (BGBl. I S. 498).
 
-
-
-
-
 ## § 2
 
 § 7 Abs. 3 des Heimkehrergesetzes ist in der bis zum 28. Dezember 1991
@@ -48,7 +40,6 @@ geltenden Fassung weiter anzuwenden auf Arbeitsverhältnisse, in denen
 vor dem 29. Dezember 1991 nach diesen Vorschriften Zeiten der
 Kriegsgefangenschaft und Internierung als Zeiten der Berufs- oder
 Betriebszugehörigkeit angerechnet worden sind.
-
 
 ## § 3
 
@@ -59,17 +50,13 @@ förderungsfähigen Bildungsmaßnahme weiter anzuwenden, wenn ein
 Berechtigter vor dem 29. Dezember 1991 in die Bildungsmaßnahme
 eingetreten ist und erstmals Leistungen beantragt hat.
 
-
 ## Art 2
-
-
 
 ## Art 3 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 2 Nr. 1, 4 und 17 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnungen geändert werden.
-
 
 ## Art 4 - Inkrafttreten
 

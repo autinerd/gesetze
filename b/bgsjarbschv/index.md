@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 59 G v. 21.6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 80a Abs. 2 des Bundesbeamtengesetzes in der Fassung
 der Bekanntmachung vom 3. Januar 1977 (BGBl. I S. 1) verordnet die
 Bundesregierung:
-
 
 ## § 1
 
@@ -118,10 +116,6 @@ sicherzustellen:
     jedoch im ersten Ausbildungsjahr nur für die Ausbildung im
     Sicherungswachdienst.
 
-
-
-
-
 ## § 2
 
 Müssen aus zwingenden dienstlichen Gründen jugendliche
@@ -141,7 +135,6 @@ voraussichtlich mit besonderen Gefährdungen sowie mit
 außergewöhnlichen physischen oder psychischen Belastungen verbunden
 sind, ist nicht zulässig.
 
-
 ## § 3
 
 Ausnahmen von den Vorschriften des Jugendarbeitsschutzgesetzes in dem
@@ -158,14 +151,12 @@ Dienstleistungen, die voraussichtlich mit besonderen Gefährdungen
 sowie mit außergewöhnlichen physischen oder psychischen Belastungen
 verbunden sind, ist nicht zulässig.
 
-
 ## § 4
 
 Mehrarbeit, die jugendliche Polizeivollzugsbeamte in der Bundespolizei
 in den Fällen der §§ 1 bis 3 über die Arbeitszeit nach § 8 Abs. 1 des
 Jugendarbeitsschutzgesetzes hinaus leisten, ist innerhalb von vier
 Wochen durch Dienstbefreiung auszugleichen.
-
 
 ## § 5
 

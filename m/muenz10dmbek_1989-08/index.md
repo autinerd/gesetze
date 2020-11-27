@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1592
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -80,7 +78,6 @@ Zwischen Ende und Anfang der Randschrift ist eine liegende Raute
 eingeprägt.
 Der Entwurf der Münze stammt von Paul Effert, Kaarst.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 3169
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 27 und 50 Abs. 1 Nr. 7 des Wehrpflichtgesetzes in der
 Fassung der Bekanntmachung vom 15. Dezember 1995 (BGBl. I S. 1756)
 verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -30,7 +27,6 @@ Die Verordnung regelt Einzelheiten zum Personalaktenrecht der
 ungedienten Wehrpflichtigen nach § 25 des Wehrpflichtgesetzes. Als
 Wehrpflichtiger im Sinne dieser Verordnung gelten auch die vor Beginn
 der Wehrpflicht Erfaßten.
-
 
 ## § 2
 
@@ -46,7 +42,6 @@ Grundakte oder in den Teilakten enthalten sind.
 
 (3) In die Grundakte ist ein vollständiges Verzeichnis aller Teil- und
 Nebenakten aufzunehmen.
-
 
 ## § 3
 
@@ -77,7 +72,6 @@ Kreiswehrersatzamtes und die Fachkräfte im Psychologischen Dienst
 sowie für deren Fachvorgesetzte gelten die Absätze 1 bis 3
 hinsichtlich des Umgangs mit psychologischen Unterlagen der
 Eignungsuntersuchung und Eignungsfeststellung entsprechend.
-
 
 ## § 4
 
@@ -115,7 +109,6 @@ Lebensjahr vollendet.
 (5) Auskünfte aus dem Bundeszentralregister sind zu vernichten, wenn
 der mit der Einholung beabsichtigte Zweck erfüllt ist.
 
-
 ## § 5
 
 (1) Die Personalaktendaten dürfen auch in automatisierten Dateien nur
@@ -139,7 +132,6 @@ Aktenteile.
 ist er in derselben Weise zu benachrichtigen, wenn er nicht auf andere
 Weise Kenntnis von der Speicherung erlangt hat.
 
-
 ## § 6
 
 (1) Einsicht in die Personalakte wird grundsätzlich beim
@@ -158,7 +150,6 @@ erteilt werden. Einsichtnahme in oder Auskunft aus
 Gesundheitsunterlagen darf Bevollmächtigten nur auf Grund
 ausdrücklicher Vollmacht des Wehrpflichtigen gewährt werden.
 
-
 ## § 7
 
 Personenbezogene medizinische Daten, die im Rahmen der Untersuchungen
@@ -167,11 +158,9 @@ von zivilen Ärzten erhoben werden, dürfen den Zahlung leistenden
 Stellen offenbart werden, soweit dies zur Kostenabrechnung
 erforderlich ist.
 
-
 ## § 8
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

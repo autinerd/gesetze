@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 21.7.2011 I 1475
 
-
-
 ## Inhaltsverzeichnis
 
 
@@ -135,10 +133,6 @@ Geändert durch
 
 *    *   Anhänge 1 bis 9
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 2, § 8 Abs. 1 Satz 5, § 11 Abs. 1 Satz 4
@@ -148,10 +142,7 @@ Satz 2 jeweils in Verbindung mit § 16 des Zuteilungsgesetzes 2007 vom
 Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
 1578) verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich und Zweck
 
@@ -165,7 +156,6 @@ Emission von Treibhausgasen, der im Zuteilungsverfahren nach § 10 Abs.
 S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, zu fordernden Angaben und der
 Art der beizubringenden Nachweise sowie deren Überprüfung.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -244,10 +234,6 @@ Im Sinne dieser Verordnung ist
 12. Kuppelgas: als Nebenprodukt bei der Erzeugung von Grundstoffen
     entstehendes, brennbares Prozessgas, z. B. Gichtgas und Konvertergas.
 
-
-
-
-
 ### § 3 Allgemeine Anforderungen an die Zuteilungsanträge
 
 (1) Soweit die Vorschriften der Abschnitte 2 und 3 keine abweichenden
@@ -279,10 +265,7 @@ verpflichtet, die den Angaben zugrunde liegenden Einzelnachweise auf
 Verlangen der zuständigen Behörde bis zum Ablauf der übernächsten auf
 die Zuteilungsentscheidung folgende Zuteilungsperiode vorzuweisen.
 
-
 ## Abschnitt 2 - Allgemeine Regeln zur Bestimmung der Kohlendioxid-Emissionen
-
-
 
 ### § 4 Bestimmung der Emissionsfaktoren
 
@@ -329,7 +312,6 @@ stöchiometrischen Analyse der entsprechenden chemischen Reaktionen und
 der anschließenden Umrechnung des hierdurch bestimmten Kohlenstoffs in
 Kohlendioxid durch Multiplikation mit dem Quotienten aus 44 und 12.
 
-
 ### § 5 Bestimmung der energiebedingten Kohlendioxid-Emissionen
 
 (1) Die energiebedingten Kohlendioxid-Emissionen einer Anlage pro Jahr
@@ -352,10 +334,6 @@ muss der Zuteilungsantrag die Angaben enthalten über
 
 
 4.  die unteren Heizwerte der Brennstoffe.
-
-
-
-
 
 ### § 6 Bestimmung der prozessbedingten Kohlendioxid-Emissionen
 
@@ -502,10 +480,6 @@ erforderlichen Angaben enthalten über
 4.  die Einzelfaktoren der jeweils einschlägigen Berechnungsformeln in den
     Anhängen 2 bis 7 zu dieser Verordnung.
 
-
-
-
-
 ### § 7 Emissionsberechnung auf der Grundlage einer Bilanzierung des Kohlenstoffgehalts
 
 (1) Abweichend von den Vorschriften der §§ 5 und 6 kann die Ermittlung
@@ -539,10 +513,6 @@ der Zuteilungsantrag Angaben enthalten über
 3.  im Fall des Absatzes 2 zusätzlich die nach § 6 ermittelten
     prozessbedingten Emissionen.
 
-
-
-
-
 ### § 8 Ermittlung der Emissionen auf Grundlage des Eigenverbrauchs
 
 Die Emissionen einer einheitlichen Anlage im Sinne des § 25 des
@@ -560,7 +530,6 @@ verwendeten und von dem zuständigen Hauptzollamt anerkannten
 steuerfreien Mineralöls erfolgen. Dies gilt nur für Emissionen, die
 von dem durch die Zollsteuerbehörden anerkannten Eigenverbrauch
 erfasst werden.
-
 
 ### § 9 Messung der Kohlendioxid-Emissionen
 
@@ -611,13 +580,7 @@ Zuteilungsantrag die nach Absatz 1 erforderlichen Angaben enthalten
 5.  im Fall des Absatzes 1 Satz 2 die technische Unmöglichkeit oder den
     unverhältnismäßigen Mehraufwand einer Bestimmung nach den §§ 5 bis 7.
 
-
-
-
-
 ## Abschnitt 3 - Besondere Regeln der Berechnung der Kohlendioxid-Emissionen
-
-
 
 ### § 10 Zuteilung für bestehende Anlagen auf Basis historischer Emissionen
 
@@ -695,10 +658,6 @@ Angaben nach Abschnitt 2 Angaben enthalten über
 
 4.  im Fall des § 7 Abs. 4 oder 5 des Zuteilungsgesetzes 2007 die nach den
     Absätzen 2 bis 5 erforderlichen Angaben.
-
-
-
-
 
 ### § 11 Zuteilung für Anlagen auf Basis angemeldeter Emissionen
 
@@ -788,10 +747,6 @@ enthalten über
 
 6.  im Fall des Absatzes 4 die durchschnittlichen jährlichen Kohlendioxid-
     Emissionen der Anlage.
-
-
-
-
 
 ### § 12 Zuteilung für zusätzliche Neuanlagen
 
@@ -996,10 +951,6 @@ enthalten über
     Produktgruppen oder Stoffeinheiten zur gesamten Produktionsmenge der
     Anlage.
 
-
-
-
-
 ### § 13 Frühzeitige Emissionsminderungen
 
 (1) Für die Berechnung frühzeitiger Emissionsminderungen werden die
@@ -1083,13 +1034,7 @@ Angaben nach Abschnitt 2 Angaben enthalten
 2.  für die Berechnung der Emissionsminderung die Faktoren der
     Berechnungsformeln in Anhang 9 zu dieser Verordnung.
 
-
-
-
-
 ## Abschnitt 4 - Gemeinsame Vorschriften
-
-
 
 ### § 14 Anforderungen an die Verifizierung der Zuteilungsanträge
 
@@ -1145,16 +1090,13 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, bekannt gegebene Sachverständige gilt Satz
 1 entsprechend.
 
-
 ### § 15 (weggefallen)
 
 -
 
-
 ### § 16 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Anhang 1 (zu § 4 Abs. 3) Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
 
@@ -1166,7 +1108,6 @@ H(tief)u              12
 EF        heizwertbezogener CO(tief)2-Emissionsfaktor in t
 CO(tief)2/GJ
 H(tief)u  unterer Heizwert des Brennstoffs in GJ/t
-
 
 ### Anhang 2 (zu § 6 Abs. 3) Berechnung der prozessbedingten Kohlendioxid-Emissionen für den Hochofenprozess
 
@@ -1194,7 +1135,6 @@ E(tief)RS        prozessbedingte CO(tief)2-Emissionen aus dem anderen
 Rohstoffeinsatz (Kalkstein, Dolomit) in t
 G(tief)ges       gesamter Gichtgasanfall
 G(tief)abg       Abgabe von Gichtgas an Anlagen Dritter
-
 
 ### Anhang 3 (zu § 6 Abs. 4) Berechnung der prozessbedingten Kohlendioxid-Emissionen für Oxygenstahlwerke
 
@@ -1231,7 +1171,6 @@ Rohstoffeinsatz in t
 G(tief)ges       gesamter Konvertergasanfall
 G(tief)abg       Abgabe von Konvertergas an Anlagen Dritter
 
-
 ### Anhang 4 (zu § 6 Abs. 5) Berechnung der prozessbedingten Kohlendioxid-Emissionen für Anlagen, die Kuppelgase aus Hochofenanlagen und Oxygenstahlwerken nutzen
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2266
@@ -1267,7 +1206,6 @@ G(tief)KonvG;ges   gesamter Konvertergasanfall im Stahlwerk
 G(tief)KonvG;abg  Abgabe von Konvertergas an die jeweilige Drittanlage
 G(tief)GichtG;ges  gesamter Gichtgasanfall im Hochofen
 G(tief)GichtG;abg  Abgabe von Gichtgas an die jeweilige Drittanlage
-
 
 ### Anhang 5 (zu § 6 Abs. 6) Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren in Erdölraffinerien
 
@@ -1327,7 +1265,6 @@ in Vol-%
 c(tief)O2       gemessener Sauerstoffgehalt des trockenen Abgases in
 Vol-%
 
-
 ### Anhang 6 (zu § 6 Abs. 7) Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Kalzinierung von Petrolkoks in Erdölraffinerien
 
 (Fundstelle: BGBl. I 2004, 2268)
@@ -1382,10 +1319,6 @@ Vol-%
 
     *   Kohlenstoff-Output des Kalzinierungsprozesses im Koks in t
 
-
-
-
-
 ### Anhang 7 (zu § 6 Abs. 8) Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Wasserstoffherstellung in Erdölraffinerien
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2268
@@ -1409,7 +1342,6 @@ H(tief)out;H2    Output an Wasserstoff in kmol
 H(tief)in;H2O    Input an Wasserstoff im Wasserdampf in kmol
 k(tief)C/H       Kohlenstoff-Wasserstoff-Verhältnis der eingesetzten
 Kohlenwasserstoffe insgesamt in mol/mol
-
 
 ### Anhang 8 (zu § 10) Emissionshochrechnung ohne zusätzliche Einflüsse
 
@@ -1601,10 +1533,6 @@ Behörde auf ihrer Internetseite zur Verfügung gestellt wird.
 
     *   Emissionen der Anlage im Betriebszeitraum im Kalenderjahr der
         Inbetriebnahme
-
-
-
-
 
 ### Anhang 9 (zu § 13 Abs. 6) Berechnung der relativen Emissionsminderung bei Kraft-Wärme-Kopplungsanlagen
 

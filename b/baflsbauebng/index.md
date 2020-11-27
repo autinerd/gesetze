@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 29.7.2009 I 2424
 
-
 ## § 1
 
 (1) Beamte und Arbeitnehmer bei der Bundesanstalt für Flugsicherung,
@@ -55,7 +54,6 @@ einer Verwendung im Bundesaufsichtsamt für Flugsicherung weiter
 gewährt, soweit die Voraussetzungen des Absatzes 2 weiter vorliegen.
 Die Überleitung der vorgenannten Beamten und Arbeitnehmer in das
 Bundesaufsichtsamt für Flugsicherung erfolgt durch Versetzung.
-
 
 ## § 2
 
@@ -140,7 +138,6 @@ vollendet haben, findet § 2 dieses Gesetzes in der Fassung vom 23.
 Juli 1992 (BGBl. I S. 1370, 1376) weiterhin entsprechende Anwendung. §
 69c Abs. 4 Satz 1 des Beamtenversorgungsgesetzes gilt entsprechend.
 
-
 ## § 2a
 
 (1) Ein in § 1 Abs. 1 bezeichneter Beamter des mittleren oder des
@@ -168,7 +165,6 @@ gehobenen Dienstes des Luftfahrt-Bundesamtes kann bis zum 31. Dezember
 
 (4) § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-
 ## § 3
 
 Personen, die die DFS Deutsche Flugsicherung GmbH von der
@@ -179,7 +175,6 @@ Fassung des Luftverkehrsgesetzes vom 23. Juli 1992 (BGBl. I S. 1370).
 Dasselbe gilt für andere Personen, die bereits bis zum Inkrafttreten
 dieses Gesetzes mit der Wahrnehmung bestimmter Aufgaben aus dem
 Bereich der Flugsicherung betraut waren.
-
 
 ## § 4
 
@@ -196,7 +191,6 @@ Flugsicherung GmbH und sind als solche aktiv und passiv
 wahlberechtigt. Als leitende Angestellte im Sinne des § 5 Abs. 3 des
 Betriebsverfassungsgesetzes gelten auch die funktional vergleichbaren
 Beamten.
-
 
 ## § 5
 

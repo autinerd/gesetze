@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 1.6.1995 I 788
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 1 des Zollverwaltungsgesetzes vom 21. Dezember
@@ -28,7 +27,6 @@ Auf Grund des § 19 Abs. 1 des Zollverwaltungsgesetzes vom 21. Dezember
 mit § 1 Abs. 2 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember
 1993 (BGBl. I S. 2378, 2386) verordnet das Bundesministerium der
 Finanzen:
-
 
 ## § 1 Aufgabenübertragung auf die Deutsche Bahn Aktiengesellschaft
 
@@ -125,7 +123,6 @@ zu lassen:
 
 
 6\.
-
 
 ## § 2 Inkrafttreten
 

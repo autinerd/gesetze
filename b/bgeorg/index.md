@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1081
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die geodätischen Referenzsysteme,
@@ -34,7 +33,6 @@ erhobenen oder erstellten geotopographischen Referenzdaten und die
 dazugehörigen Metadaten sowie für geodätische Referenzsysteme und
 -netze eingehalten werden, so dass ein einfacher Austausch und eine
 breite Nutzung nach Absatz 1 Satz 2 gewährleistet sind.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -60,10 +58,6 @@ breite Nutzung nach Absatz 1 Satz 2 gewährleistet sind.
     veranschaulicht werden. Sie werden durch Kartenwerke in digitaler und
     analoger Form umgesetzt. Darstellungen der Geotopographie werden auch
     durch Methoden der Fernerkundung erzeugt.
-
-
-
-
 
 ## § 3 Bundesamt für Kartographie und Geodäsie
 
@@ -118,10 +112,6 @@ Mitgliedstaaten der Europäischen Union sicherzustellen.
     der methodischen und technischen Vorbereitung und Harmonisierung von
     kartographischen und geodätischen Produkten.
 
-
-
-
-
 ## § 4 Weitere geotopographische Referenzdaten führende Stellen des Bundes
 
 Geotopographische Referenzdaten führende Stellen des Bundes sind
@@ -135,7 +125,6 @@ Bundesbehörden und zur Erfüllung der unionsrechtlichen und
 internationalen Verpflichtungen Deutschlands erhoben, verarbeitet und
 genutzt.
 
-
 ## § 5 Austausch unter Behörden
 
 (1) Die geodatenhaltenden Stellen des Bundes gewähren sich
@@ -147,7 +136,6 @@ fordern untereinander keine Gegenleistung für die Zurverfügungstellung
 von geotopographischen Referenzdaten des Bundes, soweit deren Nutzung
 zur Wahrnehmung öffentlicher Aufgaben nicht wirtschaftlicher Art
 erfolgt.
-
 
 ## § 6 Technische Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen
 

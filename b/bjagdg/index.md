@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 6.12.2011 I 2557
 
-
 ## I. Abschnitt - Das Jagdrecht
-
-
 
 ### § 1 Inhalt des Jagdrechts
 
@@ -54,7 +51,6 @@ sowie die Eier von Federwild sich anzueignen.
 
 (6) Das Jagdrecht unterliegt den Beschränkungen dieses Gesetzes und
 der in seinem Rahmen ergangenen landesrechtlichen Vorschriften.
-
 
 ### § 2 Tierarten
 
@@ -173,7 +169,6 @@ Gams-, Stein-, Muffel- und Schwarzwild.
 (4) Zum Hochwild gehören Schalenwild außer Rehwild, ferner Auerwild,
 Steinadler und Seeadler. Alles übrige Wild gehört zum Niederwild.
 
-
 ### § 3 Inhaber des Jagdrechts, Ausübung des Jagdrechts
 
 (1) Das Jagdrecht steht dem Eigentümer auf seinem Grund und Boden zu.
@@ -186,20 +181,14 @@ Jagdrecht den Ländern zu.
 (3) Das Jagdrecht darf nur in Jagdbezirken nach Maßgabe der §§ 4ff.
 ausgeübt werden.
 
-
 ## II. Abschnitt - Jagdbezirke und Hegegemeinschaften
 
-
-
 ### 1. - Allgemeines
-
-
 
 #### § 4 Jagdbezirke
 
 Jagdbezirke, in denen die Jagd ausgeübt werden darf, sind entweder
 Eigenjagdbezirke (§ 7) oder gemeinschaftliche Jagdbezirke (§ 8).
-
 
 #### § 5 Gestaltung der Jagdbezirke
 
@@ -215,7 +204,6 @@ Zusammenhang eines Jagdbezirkes und stellen auch den Zusammenhang zur
 Bildung eines Jagdbezirkes zwischen getrennt liegenden Flächen nicht
 her.
 
-
 #### § 6 Befriedete Bezirke, Ruhen der Jagd
 
 Auf Grundflächen, die zu keinem Jagdbezirk gehören, und in befriedeten
@@ -223,10 +211,7 @@ Bezirken ruht die Jagd. Eine beschränkte Ausübung der Jagd kann
 gestattet werden. Tiergärten fallen nicht unter die Vorschriften
 dieses Gesetzes.
 
-
 ### 2. - Eigenjagdbezirke
-
-
 
 #### § 7
 
@@ -266,10 +251,7 @@ Bezirken nur unter Beschränkungen ausgeübt werden darf.
 Eigentümer. An Stelle des Eigentümers tritt der Nutznießer, wenn ihm
 die Nutzung des ganzen Eigenjagdbezirkes zusteht.
 
-
 ### 3. - Gemeinschaftliche Jagdbezirke
-
-
 
 #### § 8 Zusammensetzung
 
@@ -293,7 +275,6 @@ Gebiete höher festsetzen.
 (5) In gemeinschaftlichen Jagdbezirken steht die Ausübung des
 Jagdrechts der Jagdgenossenschaft zu.
 
-
 #### § 9 Jagdgenossenschaft
 
 (1) Die Eigentümer der Grundflächen, die zu einem gemeinschaftlichen
@@ -310,7 +291,6 @@ Gemeindevorstand wahrgenommen.
 (3) Beschlüsse der Jagdgenossenschaft bedürfen sowohl der Mehrheit der
 anwesenden und vertretenen Jagdgenossen, als auch der Mehrheit der bei
 der Beschlußfassung vertretenen Grundfläche.
-
 
 #### § 10 Jagdnutzung
 
@@ -332,10 +312,7 @@ nicht binnen einem Monat nach der Bekanntmachung der Beschlußfassung
 schriftlich oder mündlich zu Protokoll des Jagdvorstandes geltend
 gemacht wird.
 
-
 ### 4. - Hegegemeinschaften
-
-
 
 #### § 10a Bildung von Hegegemeinschaften
 
@@ -353,10 +330,7 @@ Hegegemeinschaft zu gründen, ohne Erfolg geblieben ist.
 
 (3) Das Nähere regeln die Länder.
 
-
 ## III. Abschnitt - Beteiligung Dritter an der Ausübung des Jagdrechts
-
-
 
 ### § 11 Jagdpacht
 
@@ -420,7 +394,6 @@ einer entgeltlichen Jagderlaubnis nach Absatz 3 die Ausübung des
 Jagdrechts zusteht, ist von der zuständigen Behörde in den Jagdschein
 einzutragen; das Nähere regeln die Länder.
 
-
 ### § 12 Anzeige von Jagdpachtverträgen
 
 (1) Der Jagdpachtvertrag ist der zuständigen Behörde anzuzeigen. Die
@@ -452,7 +425,6 @@ Beanstandungen behoben sind oder wenn durch rechtskräftige
 gerichtliche Entscheidung festgestellt ist, daß der Vertrag nicht zu
 beanstanden ist.
 
-
 ### § 13 Erlöschen des Jagdpachtvertrages
 
 Der Jagdpachtvertrag erlischt, wenn dem Pächter der Jagdschein
@@ -463,7 +435,6 @@ abgelehnt hat oder der Pächter die Voraussetzungen für die Erteilung
 eines neuen Jagdscheines nicht fristgemäß erfüllt. Der Pächter hat dem
 Verpächter den aus der Beendigung des Pachtvertrages entstehenden
 Schaden zu ersetzen, wenn ihn ein Verschulden trifft.
-
 
 ### § 13a Rechtsstellung der Mitpächter
 
@@ -478,7 +449,6 @@ infolge des Ausscheidens eines Pächters nicht zuzumuten, so kann er
 den Vertrag mit sofortiger Wirkung kündigen. Die Kündigung muß
 unverzüglich nach Erlangung der Kenntnis von dem Kündigungsgrund
 erfolgen.
-
 
 ### § 14 Wechsel des Grundeigentümers
 
@@ -499,10 +469,7 @@ veräußerte Grundstück an sich mit anderen Grundstücken des Erwerbers
 zusammen einen Eigenjagdbezirk bilden könnte. Das gleiche gilt für den
 Fall der Zwangsversteigerung eines Grundstücks.
 
-
 ## IV. Abschnitt - Jagdschein
-
-
 
 ### § 15 Allgemeines
 
@@ -568,7 +535,6 @@ Länder. Eine vor dem Tag des Wirksamwerdens des Beitritts in der
 Deutschen Demokratischen Republik abgelegte Jagdprüfung für Falkner
 steht der Falknerprüfung im Sinne des Satzes 1 gleich.
 
-
 ### § 16 Jugendjagdschein
 
 (1) Personen, die das sechzehnte Lebensjahr vollendet haben, aber noch
@@ -584,7 +550,6 @@ Begleitperson muß jagdlich erfahren sein.
 Gesellschaftsjagden.
 
 (4) Im übrigen gilt § 15 entsprechend.
-
 
 ### § 17 Versagung des Jagdscheines
 
@@ -711,7 +676,6 @@ begründen, so kann die zuständige Behörde dem Beteiligten die Vorlage
 eines amts- oder fachärztlichen Zeugnisses über die geistige und
 körperliche Eignung aufgeben.
 
-
 ### § 18 Einziehung des Jagdscheines
 
 Wenn Tatsachen, welche die Versagung des Jagdscheines begründen, erst
@@ -725,7 +689,6 @@ Ein Anspruch auf Rückerstattung der Jagdscheingebühren besteht nicht.
 Die Behörde kann eine Sperrfrist für die Wiedererteilung des
 Jagdscheines festsetzen.
 
-
 ### § 18a Mitteilungspflichten
 
 Die erstmalige Erteilung einer Erlaubnis nach den §§ 15 und 16, das
@@ -733,10 +696,7 @@ Ergebnis von Überprüfungen nach § 17 sowie Maßnahmen nach den §§ 18,
 40, 41 und 41a sind der für den Vollzug des Waffengesetzes nach dessen
 § 48 Abs. 1 und 2 zuständigen Behörde mitzuteilen.
 
-
 ## V. Abschnitt - Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild
-
-
 
 ### § 19 Sachliche Verbote
 
@@ -866,7 +826,6 @@ Munition für bestimmte jagdliche Zwecke bestätigt wird. Auf der
 kleinsten Verpackungseinheit der Munition ist das Fachinstitut, das
 die Prüfung vorgenommen hat, sowie der Verwendungszweck anzugeben.
 
-
 ### § 19a Beunruhigen von Wild
 
 Verboten ist, Wild, insbesondere soweit es in seinem Bestand gefährdet
@@ -874,7 +833,6 @@ oder bedroht ist, unbefugt an seinen Zuflucht-, Nist-, Brut- oder
 Wohnstätten durch Aufsuchen, Fotografieren, Filmen oder ähnliche
 Handlungen zu stören. Die Länder können für bestimmtes Wild Ausnahmen
 zulassen.
-
 
 ### § 20 Örtliche Verbote
 
@@ -884,7 +842,6 @@ Leben von Menschen gefährden würde, darf nicht gejagt werden.
 
 (2) Die Ausübung der Jagd in Naturschutz- und Wildschutzgebieten sowie
 in National- und Wildparken wird durch die Länder geregelt.
-
 
 ### § 21 Abschußregelung
 
@@ -921,7 +878,6 @@ bestimmten Bezirken oder in bestimmten Revieren dauernd oder zeitweise
 gänzlich verboten werden.
 
 (4) Den Abschuß in den Staatsforsten regeln die Länder.
-
 
 ### § 22 Jagd- und Schonzeiten
 
@@ -967,7 +923,6 @@ sowie von Silber- und Lachmöwen aus den in Artikel 9 Absatz 1 der
 Richtlinie 2009/147/EG genannten Gründen und nach den in Artikel 9
 Absatz 2 der Richtlinie 2009/147/EG genannten Maßgaben erlauben.
 
-
 ### § 22a Verhinderung von vermeidbaren Schmerzen oder Leiden des Wildes
 
 (1) Um krankgeschossenes Wild vor vermeidbaren Schmerzen oder Leiden
@@ -984,10 +939,7 @@ Jagdausübungsberechtigten benachbarter Jagdbezirke, Vereinbarungen
 über die Wildfolge zu treffen; sie können darüber hinaus die
 Vorschriften über die Wildfolge ergänzen oder erweitern.
 
-
 ## VI. Abschnitt - Jagdschutz
-
-
 
 ### § 23 Inhalt des Jagdschutzes
 
@@ -996,14 +948,12 @@ Schutz des Wildes insbesondere vor Wilderern, Futternot, Wildseuchen,
 vor wildernden Hunden und Katzen sowie die Sorge für die Einhaltung
 der zum Schutz des Wildes und der Jagd erlassenen Vorschriften.
 
-
 ### § 24 Wildseuchen
 
 Tritt eine Wildseuche auf, so hat der Jagdausübungsberechtigte dies
 unverzüglich der zuständigen Behörde anzuzeigen; sie erläßt im
 Einvernehmen mit dem beamteten Tierarzt die zur Bekämpfung der Seuche
 erforderlichen Anweisungen.
-
 
 ### § 25 Jagdschutzberechtigte
 
@@ -1022,14 +972,9 @@ eingeräumten Befugnisse.
 
 (3) (weggefallen)
 
-
 ## VII. Abschnitt - Wild- und Jagdschaden
 
-
-
 ### 1. - Wildschadensverhütung
-
-
 
 #### § 26 Fernhalten des Wildes
 
@@ -1039,7 +984,6 @@ von Wildschäden das Wild von den Grundstücken abzuhalten oder zu
 verscheuchen. Der Jagdausübungsberechtigte darf dabei das Grundstück
 nicht beschädigen, der Eigentümer oder Nutzungsberechtigte darf das
 Wild weder gefährden noch verletzen.
-
 
 #### § 27 Verhinderung übermäßigen Wildschadens
 
@@ -1055,7 +999,6 @@ Landschaftspflege, notwendig ist.
 kann die zuständige Behörde für dessen Rechnung den Wildbestand
 vermindern lassen. Das erlegte Wild ist gegen angemessenes Schußgeld
 dem Jagdausübungsberechtigten zu überlassen.
-
 
 #### § 28 Sonstige Beschränkungen in der Hege
 
@@ -1074,10 +1017,7 @@ beschränkt oder verboten werden.
 (5) Die Länder können die Fütterung von Wild untersagen oder von einer
 Genehmigung abhängig machen.
 
-
 ### 2. - Wildschadensersatz
-
-
 
 #### § 29 Schadensersatzpflicht
 
@@ -1115,14 +1055,12 @@ für bestimmtes Wild durch Schaffung eines Wildschadensausgleichs auf
 eine Mehrheit von Beteiligten zu verteilen ist
 (Wildschadensausgleichskasse).
 
-
 #### § 30 Wildschaden durch Wild aus Gehege
 
 Wird durch ein aus einem Gehege ausgetretenes und dort gehegtes Stück
 Schalenwild Wildschaden angerichtet, so ist ausschließlich derjenige
 zum Ersatz verpflichtet, dem als Jagdausübungsberechtigten, Eigentümer
 oder Nutznießer die Aufsicht über das Gehege obliegt.
-
 
 #### § 31 Umfang der Ersatzpflicht
 
@@ -1137,7 +1075,6 @@ der Ernte darstellt. Bei der Feststellung der Schadenshöhe ist jedoch
 zu berücksichtigen, ob der Schaden nach den Grundsätzen einer
 ordentlichen Wirtschaft durch Wiederanbau im gleichen Wirtschaftsjahr
 ausgeglichen werden kann.
-
 
 #### § 32 Schutzvorrichtungen
 
@@ -1156,10 +1093,7 @@ gewöhnlichen Umständen zur Abwendung des Schadens ausreichen. Die
 Länder können bestimmen, welche Schutzvorrichtungen als üblich
 anzusehen sind.
 
-
 ### 3. - Jagdschaden
-
-
 
 #### § 33 Schadensersatzpflicht
 
@@ -1177,10 +1111,7 @@ entstehenden Schaden; er haftet auch für den Jagdschaden, der durch
 einen von ihm bestellten Jagdaufseher oder durch einen Jagdgast
 angerichtet wird.
 
-
 ### 4. - Gemeinsame Vorschriften
-
-
 
 #### § 34 Geltendmachung des Schadens
 
@@ -1194,7 +1125,6 @@ bis zum 1. Mai oder 1. Oktober, bei der zuständigen Behörde angemeldet
 wird. Die Anmeldung soll die als ersatzpflichtig in Anspruch genommene
 Person bezeichnen.
 
-
 #### § 35 Verfahren in Wild- und Jagdschadenssachen
 
 Die Länder können in Wild- und Jagdschadenssachen das Beschreiten des
@@ -1206,10 +1136,7 @@ eine nach Eintritt der Rechtskraft vollstreckbare Entscheidung
 (Vorbescheid) zu erlassen ist. Die Länder treffen die näheren
 Bestimmungen hierüber.
 
-
 ## VIII. Abschnitt - Inverkehrbringen und Schutz von Wild
-
-
 
 ### § 36 Ermächtigungen
 
@@ -1313,15 +1240,11 @@ zum sonstigen Verbringen abgefertigt wird, wenn die Ein-, Durch- und
 Ausfuhr sowie das sonstige Verbringen durch Rechtsverordnung nach
 Absatz 1 Nr. 3 geregelt ist.
 
-
 ### § 36a
 
 -
 
-
 ## IX. Abschnitt - Jagdbeirat und Vereinigungen der Jäger
-
-
 
 ### § 37
 
@@ -1333,10 +1256,7 @@ Jäger und des Naturschutzes angehören müssen.
 die Fälle vorsehen, in denen Jagdscheininhaber gegen die Grundsätze
 der Weidgerechtigkeit verstoßen (§ 1 Abs. 3).
 
-
 ## X. Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 38 Strafvorschriften
 
@@ -1356,7 +1276,6 @@ bestraft, wer
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu einem Jahr oder Geldstrafe.
-
 
 ### § 38a Strafvorschriften
 
@@ -1385,7 +1304,6 @@ bis zu einem Jahr oder Geldstrafe.
 (5) Die Tat ist nicht strafbar, wenn die Handlung eine unerhebliche
 Menge der Exemplare betrifft und unerhebliche Auswirkungen auf den
 Erhaltungszustand der Art hat.
-
 
 ### § 39 Ordnungswidrigkeiten
 
@@ -1469,7 +1387,6 @@ Erhaltungszustand der Art hat.
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 ### § 40 Einziehung
 
 (1) Ist eine Straftat nach § 38 oder eine Ordnungswidrigkeit nach § 39
@@ -1489,7 +1406,6 @@ eingezogen werden.
 
 (2) § 74a des Strafgesetzbuches und § 23 des Gesetzes über
 Ordnungswidrigkeiten sind anzuwenden.
-
 
 ### § 41 Anordnung der Entziehung des Jagdscheines
 
@@ -1528,7 +1444,6 @@ Gefahr, der Täter werde erhebliche rechtswidrige Taten der in Absatz 1
 bezeichneten Art begehen, nicht mehr besteht, so kann das Gericht die
 Sperre vorzeitig aufheben.
 
-
 ### § 41a Verbot der Jagdausübung
 
 (1) Wird gegen jemanden
@@ -1561,21 +1476,15 @@ auf behördliche Anordnung in einer Anstalt verwahrt wird.
 Täter im Anschluß an die Verkündung der Entscheidung oder bei deren
 Zustellung zu belehren.
 
-
 ### § 42 Landesrechtliche Straf- und Bußgeldvorschriften
 
 Die Länder können Straf- und Bußgeldbestimmungen für Verstöße gegen
 die von ihnen erlassenen Vorschriften treffen, soweit solche nicht
 schon in diesem Gesetz enthalten sind.
 
-
 ## XI. Abschnitt - Schlußvorschriften
 
-
-
 ### § 43 (weggefallen)
-
-
 
 ### § 44 Sonderregelungen
 
@@ -1585,17 +1494,14 @@ des Jagdrechts auf der Insel Helgoland und die Jagd auf Wasservögel
 auf dem Untersee und dem Rhein bei Konstanz abweichend von den
 Vorschriften dieses Gesetzes zu regeln.
 
-
 ### § 44a Unberührtheitsklausel
 
 Vorschriften des Lebensmittelrechts, Seuchenrechts,
 Fleischhygienerechts und Tierschutzrechts bleiben unberührt.
 
-
 ### § 45
 
 (weggefallen)
-
 
 ### § 46 Inkrafttreten des Gesetzes
 

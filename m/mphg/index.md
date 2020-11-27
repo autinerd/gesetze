@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 45 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Erlaubnis
-
-
 
 ### § 1
 
@@ -55,7 +51,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -251,7 +246,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Masseurs
@@ -289,10 +283,7 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## Abschnitt 2 - Ausbildung als Masseur und medizinischer Bademeister
-
-
 
 ### § 3
 
@@ -303,7 +294,6 @@ Rehabilitation und im Kurwesen Hilfen zur Heilung und Linderung, zur
 Wiederherstellung oder Verbesserung der Arbeits- und Erwerbsfähigkeit,
 zu gesundheitsförderndem Verhalten und zum Kurerfolg zu geben
 (Ausbildungsziel).
-
 
 ### § 4
 
@@ -317,7 +307,6 @@ Er dauert zwei Jahre und schließt mit der staatlichen Prüfung ab.
 (3) Die praktische Tätigkeit dauert sechs Monate und richtet sich nach
 § 7.
 
-
 ### § 5
 
 Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
@@ -327,10 +316,6 @@ Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
 2.  der Hauptschulabschluß oder eine gleichwertige Schulbildung oder eine
     abgeschlossene Berufsausbildung von mindestens einjähriger Dauer.
-
-
-
-
 
 ### § 6
 
@@ -354,7 +339,6 @@ durch die Anrechnung nicht gefährdet wird.
 Gleichwertigkeit auf die Dauer des Lehrgangs angerechnet werden, wenn
 die Durchführung des Lehrgangs und die Erreichung des Ausbildungsziels
 dadurch nicht gefährdet werden.
-
 
 ### § 7
 
@@ -395,10 +379,7 @@ Gesetzes abgeleistete praktische Tätigkeit in der Massage im Umfang
 ihrer Gleichwertigkeit ganz oder teilweise auf die praktische
 Tätigkeit nach Absatz 1 angerechnet werden.
 
-
 ## Abschnitt 3 - Ausbildung als Physiotherapeut
-
-
 
 ### § 8
 
@@ -409,7 +390,6 @@ Kurwesen Hilfen zur Entwicklung, zum Erhalt oder zur Wiederherstellung
 aller Funktionen im somatischen und psychischen Bereich zu geben und
 bei nicht rückbildungsfähigen Körperbehinderungen Ersatzfunktionen zu
 schulen (Ausbildungsziel).
-
 
 ### § 9
 
@@ -450,7 +430,6 @@ entsprechend. Die Länder übermitteln dem Bundesministerium für
 Gesundheit die für die Erstellung dieses Berichts erforderlichen
 Ergebnisse der Auswertung.
 
-
 ### § 10
 
 Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
@@ -463,10 +442,6 @@ Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
     Hauptschulabschluß erweitert, oder eine nach Hauptschulabschluß oder
     einem gleichwertigen Abschluß abgeschlossene Berufsausbildung von
     mindestens zweijähriger Dauer.
-
-
-
-
 
 ### § 11
 
@@ -483,7 +458,6 @@ Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
 
 § 6 Abs. 1 Satz 2 gilt entsprechend.
-
 
 ### § 12
 
@@ -526,10 +500,7 @@ Gleichwertigkeit auf die Dauer einer Ausbildung nach § 9 angerechnet
 werden, wenn die Durchführung der Ausbildung und die Erreichung des
 Ausbildungsziels dadurch nicht gefährdet werden.
 
-
 ## Abschnitt 4 - Ausbildungs- und Prüfungsverordnungen
-
-
 
 ### § 13
 
@@ -584,9 +555,7 @@ Verbindung mit § 2 Abs. 3, 4 oder 5 beantragen, zu regeln:
 Grundlage erlassenen Rechtsverordnungen enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## Abschnitt 4a - Erbringen von Dienstleistungen
-
 
 ### § 13a
 
@@ -688,7 +657,6 @@ Bescheinigungen darüber auszustellen, dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 13b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -704,7 +672,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 13c
 
 Masseurinnen und medizinische Bademeisterinnen oder Masseure und
@@ -716,10 +683,7 @@ diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich
 die zuständige Behörde des Niederlassungsmitgliedstaats dieses
 Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## Abschnitt 5 - Zuständigkeiten
-
-
 
 ### § 14
 
@@ -746,10 +710,7 @@ zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf
 des Masseurs und medizinischen Bademeisters oder des Physiotherapeuten
 ausübt.
 
-
 ## Abschnitt 6 - Bußgeldvorschriften
-
-
 
 ### § 15
 
@@ -778,10 +739,7 @@ führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## Abschnitt 7 - Übergangs- und Schlußvorschriften
-
-
 
 ### § 16
 
@@ -831,7 +789,6 @@ führen. Außer im Falle des Satzes 1 darf die Berufsbezeichnung
 
 (6)
 
-
 ### § 17
 
 (1) Findet die Ausbildung als Physiotherapeut (§ 9) an einer Schule
@@ -861,7 +818,6 @@ für den Abschluß der Ausbildung genannte Zeitpunkt entsprechend
 erhalten haben, gelten weiterhin als staatlich anerkannt nach § 4 Abs.
 2 oder § 9, sofern die Anerkennung nicht zurückgenommen wird.
 
-
 ### § 18
 
 Für Umschüler mit einer abgeschlossenen Ausbildung in einem
@@ -878,7 +834,6 @@ Durchführung der Ausbildung und die Erreichung des Ausbildungsziels
 dadurch nicht gefährdet werden. Die Sätze 1 und 2 gelten nur für
 Umschulungen, die bis zum 31. Dezember 2000 begonnen werden. § 6 Abs.
 2 und § 12 Abs. 3 bleiben unberührt.
-
 
 ### § 19
 

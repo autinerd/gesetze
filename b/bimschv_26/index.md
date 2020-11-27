@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1966
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der
@@ -24,7 +22,6 @@ Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880), der
 zuletzt durch Artikel 1 Nr. 13 des Gesetzes vom 9. Oktober 1996 (BGBl.
 I S. 1498) geändert worden ist, verordnet die Bundesregierung nach
 Anhörung der beteiligten Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -65,13 +62,6 @@ elektrisch oder elektronisch betriebene Implantate.
     c)  Elektroumspannanlagen einschließlich der Schaltfelder mit einer
         Frequenz von 50 Hertz und einer Oberspannung von 1.000 Volt oder mehr.
 
-
-
-
-
-
-
-
 ## § 2 Hochfrequenzanlagen
 
 Zum Schutz vor schädlichen Umwelteinwirkungen sind Hochfrequenzanlagen
@@ -89,10 +79,6 @@ andere ortsfeste Sendefunkanlagen
 2.  bei gepulsten elektromagnetischen Feldern zusätzlich der Spitzenwert
     für die elektrische und die magnetische Feldstärke das 32fache der
     Werte des Anhangs 1 nicht überschreitet.
-
-
-
-
 
 ## § 3 Niederfrequenzanlagen
 
@@ -120,7 +106,6 @@ soweit nicht im Einzelfall hinreichende Anhaltspunkte für insbesondere
 durch Berührungsspannungen hervorgerufene Belästigungen bestehen, die
 nach Art, Ausmaß oder Dauer für die Nachbarschaft unzumutbar sind.
 
-
 ## § 4 Anforderungen zur Vorsorge
 
 Zum Zwecke der Vorsorge haben bei der Errichtung oder wesentlichen
@@ -130,7 +115,6 @@ Krankenhäusern, Schulen, Kindergärten, Kinderhorten, Spielplätzen oder
 Grundstücken abweichend von § 3 Satz 2 Nr. 1 und 2 auch die maximalen
 Effektivwerte der elektrischen Feldstärke und magnetischen Flußdichte
 den Anforderungen nach § 3 Satz 1 zu entsprechen.
-
 
 ## § 5 Ermittlung der Feldstärke- und Flußdichtewerte
 
@@ -148,13 +132,11 @@ vorübergehenden Aufenthalt von Menschen gerechnet werden muß. Sie sind
 nicht erforderlich, wenn die Einhaltung der Grenzwerte durch
 Berechnungsverfahren festgestellt werden kann.
 
-
 ## § 6 Weitergehende Anforderungen
 
 Weitergehende Anforderungen aufgrund anderer Rechtsvorschriften,
 insbesondere von Rechtsvorschriften zur elektromagnetischen
 Verträglichkeit und des Telekommunikationsrechts, bleiben unberührt.
-
 
 ## § 7 Anzeige
 
@@ -188,7 +170,6 @@ die die Voraussetzungen nach Satz 1 vorliegen.
 Anlage maßgebenden Daten angeben und der Anzeige einen Lageplan
 beifügen.
 
-
 ## § 8 Zulassung von Ausnahmen
 
 (1) Die zuständige Behörde kann auf Antrag Ausnahmen von den
@@ -201,7 +182,6 @@ zu erwarten sind.
 (2) Die zuständige Behörde kann Ausnahmen von den Anforderungen des §
 4 zulassen, soweit die Anforderungen des § 4 im Einzelfall
 unverhältnismäßig sind.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -218,10 +198,6 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 3.  entgegen § 7 Abs. 1 oder 2 Satz 1 eine Anzeige nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig erstattet.
-
-
-
-
 
 ## § 10 Übergangsvorschriften
 
@@ -242,17 +218,14 @@ nicht zu vertreten hat, vor Ablauf der in Absatz 2 Satz 1 genannten
 Frist nicht abgeschlossen werden, so kann die zuständige Behörde eine
 Ausnahme zulassen; die Ausnahme ist zu befristen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang 1 (zu § 2) Hochfrequenzanlagen
 
@@ -299,10 +272,6 @@ Der Bundesrat hat zugestimmt.
     *   61
 
     *   0,16
-
-
-
-
 
 ## Anhang 2 (zu § 3) Niederfrequenzanlagen
 

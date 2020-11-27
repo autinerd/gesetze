@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 518
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +32,6 @@ Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen
 Beziehungen sowie dem dazugehörigen Protokoll vom selben Tag wird
 zugestimmt. Das Abkommen und das Protokoll werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -53,13 +49,11 @@ insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
 
-
 ## Art 3
 
 Die Bundesregierung wird ermächtigt, Verlängerungen der Geltungsdauer
 dieses Abkommens nach seinem Artikel 30 Abs. 1 Sätze 2 und 3 mit
 Zustimmung des Bundesrates durch Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 4
 

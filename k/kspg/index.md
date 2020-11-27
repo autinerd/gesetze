@@ -23,9 +23,7 @@ Fundstelle
     Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr.
     1013/2006 (ABl. L 140 vom 5.6.2009, S. 114).
 
-
 ## Kapitel 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -35,7 +33,6 @@ Menschen und der Umwelt, auch in Verantwortung für künftige
 Generationen. Es regelt zunächst die Erforschung, Erprobung und
 Demonstration von Technologien zur dauerhaften Speicherung von
 Kohlendioxid in unterirdischen Gesteinsschichten.
-
 
 ### § 2 Geltungsbereich, landesrechtliche Gebietsbestimmung
 
@@ -80,7 +77,6 @@ oder in bestimmten Gebieten unzulässig ist. Bei der Festlegung nach
 Satz 1 sind sonstige Optionen zur Nutzung einer potenziellen
 Speicherstätte, die geologischen Besonderheiten der Gebiete und andere
 öffentliche Interessen abzuwägen.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -211,12 +207,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     Veränderung ihres Betriebs, die sich auf Mensch oder Umwelt auswirken
     kann.
 
-
-
-
-
 ## Kapitel 2 - Transport
-
 
 ### § 4 Planfeststellung für Kohlendioxidleitungen; Verordnungsermächtigung
 
@@ -293,15 +284,9 @@ Zustimmung des Bundesrates festzulegen:
 
 2.  Anforderungen an die Sicherheit von Kohlendioxidleitungen.
 
-
-
-
-
 ## Kapitel 3 - Dauerhafte Speicherung
 
-
 ### Abschnitt 1 - Bundesweite Bewertung und Register
-
 
 #### § 5 Analyse und Bewertung der Potenziale für die dauerhafte Speicherung
 
@@ -366,7 +351,6 @@ eine Verwaltungsvereinbarung.
 veröffentlicht die Bewertung der Potenziale für die dauerhafte
 Speicherung und jeweilige Änderungen. Vor der Veröffentlichung sind
 die Länder anzuhören.
-
 
 #### § 6 Register; Verordnungsermächtigung; Bericht an die Kommission
 
@@ -451,12 +435,9 @@ Kommission über die zuständigen Stellen in der Bundesregierung bis zum
 Anwendung der Richtlinie 2009/31/EG und über Informationen nach Absatz
 1 Nummer 3 in Verbindung mit Absatz 2 Nummer 1 und 4 vor.
 
-
 ### Abschnitt 2 - Genehmigung und Betrieb
 
-
 #### Unterabschnitt 1 - Untersuchung
-
 
 ##### § 7 Untersuchungsgenehmigung
 
@@ -584,7 +565,6 @@ Untersuchungsgenehmigung dürfen anderweitige, die Eignung als
 Kohlendioxidspeicher beeinträchtigende Nutzungen dieser
 Gesteinsschichten nicht zugelassen werden.
 
-
 ##### § 8 Verfahrens- und Formvorschriften
 
 (1) Der Antrag auf Untersuchungsgenehmigung bedarf der Schriftform. Es
@@ -670,7 +650,6 @@ den Betroffenen, die keine Einwendungen erhoben haben, sowie im Fall
 von Satz 4 auch gegenüber denjenigen, die Einwendungen erhoben haben,
 als zugestellt; in der Bekanntmachung ist hierauf hinzuweisen.
 
-
 ##### § 9 Nebenbestimmungen und Widerruf der Genehmigung
 
 (1) Die nachträgliche Aufnahme, Änderung oder Ergänzung von Auflagen
@@ -691,10 +670,6 @@ Dezember 2015 hinaus befristet oder verlängert werden.
 
 2.  eine ihrer Erteilungsvoraussetzungen später weggefallen ist und nicht
     in angemessener Zeit Abhilfe geschaffen werden kann.
-
-
-
-
 
 ##### § 10 Benutzung fremder Grundstücke
 
@@ -753,9 +728,7 @@ Kosten des Verfahrens trägt der Untersuchungsberechtigte. Erst wenn
 der Ersatz oder die Sicherheit geleistet ist, darf die Untersuchung
 begonnen oder fortgesetzt werden.
 
-
 #### Unterabschnitt 2 - Errichtung und Betrieb
-
 
 ##### § 11 Planfeststellung für Errichtung und Betrieb eines Kohlendioxidspeichers
 
@@ -796,7 +769,6 @@ erteilt werden, wenn
 
 (3) Die Speicherung von Kohlendioxid außerhalb eines zugelassenen
 Kohlendioxidspeichers und in der Wassersäule ist unzulässig.
-
 
 ##### § 12 Antrag auf Planfeststellung
 
@@ -874,7 +846,6 @@ sind.
 genießt Vorrang gegenüber allen weiteren Anträgen auf Planfeststellung
 für die Errichtung und den Betrieb eines Kohlendioxidspeichers in
 denselben Gesteinsschichten.
-
 
 ##### § 13 Planfeststellung
 
@@ -984,7 +955,6 @@ Vorhaben, dessen Auswirkungen über das Gebiet eines Landes
 hinausgehen, ist zwischen den zuständigen Behörden der beteiligten
 Länder abzustimmen.
 
-
 ##### § 14 Duldungspflicht
 
 Der Grundstückseigentümer und sonstige Nutzungsberechtigte haben nach
@@ -995,7 +965,6 @@ Grundstücks betreffen. § 905 Satz 2 des Bürgerlichen Gesetzbuchs
 bleibt unberührt. Der Grundstückseigentümer und sonstige
 Nutzungsberechtigte haften nicht für nachteilige Wirkungen, die durch
 eine von ihnen nach Satz 1 zu duldende Speicherung verursacht werden.
-
 
 ##### § 15 Enteignungsrechtliche Vorwirkung
 
@@ -1027,7 +996,6 @@ Planfeststellungsbeschluss ist dem Enteignungsverfahren zugrunde zu
 legen; er ist für die Enteignungsbehörde bindend. Im Übrigen gelten
 die Enteignungsgesetze der Länder.
 
-
 ##### § 16 Widerruf der Planfeststellung
 
 (1) Planfeststellung und Plangenehmigung können widerrufen werden,
@@ -1056,9 +1024,7 @@ Planfeststellungsbeschluss betreibt die zuständige Behörde den
 Kohlendioxidspeicher selbst oder durch Beauftragung eines anderen; die
 Kosten werden vom früheren Betreiber getragen.
 
-
 #### Unterabschnitt 3 - Stilllegung und Nachsorge
-
 
 ##### § 17 Stilllegung
 
@@ -1112,7 +1078,6 @@ Beseitigung von Einrichtungen, die für die Nachsorge erforderlich
 sind. Die zuständige Behörde stellt den ordnungsgemäßen Abschluss der
 Stilllegung auf Antrag fest.
 
-
 ##### § 18 Nachsorge
 
 Nach Abschluss der Stilllegung des Kohlendioxidspeichers ist der
@@ -1121,9 +1086,7 @@ Nachsorgekonzepts verpflichtet, auf seine Kosten Vorsorge gegen
 Leckagen und Beeinträchtigungen von Mensch und Umwelt zu treffen. Die
 Pflichten nach den §§ 22 und 23 gelten entsprechend.
 
-
 #### Unterabschnitt 4 - Nachweise und Programme
-
 
 ##### § 19 Sicherheitsnachweis
 
@@ -1137,7 +1100,6 @@ Beseitigung von Leckagen und erheblichen Unregelmäßigkeiten zu
 beschreiben. Dem Sicherheitsnachweis ist eine Stellungnahme der
 Bundesanstalt für Geowissenschaften und Rohstoffe und des
 Umweltbundesamtes beizufügen.
-
 
 ##### § 20 Überwachungskonzept
 
@@ -1158,9 +1120,7 @@ Satz 1 Nummer 5 Voraussetzung für den Planfeststellungsbeschluss war,
 bedarf der Genehmigung durch die zuständige Behörde, soweit die
 Änderung nicht Teil des Anpassungsprozesses nach § 21 Absatz 2 ist.
 
-
 #### Unterabschnitt 5 - Betreiberpflichten
-
 
 ##### § 21 Anpassung
 
@@ -1179,7 +1139,6 @@ Abständen an den Vorsorgestandard nach § 13 Absatz 1 Satz 1 Nummer 4
 anzupassen. Die Anpassung ist mit der zuständigen Behörde abzustimmen
 und ab Inbetriebnahme des Kohlendioxidspeichers bis zur Übertragung
 der Verantwortung nach § 31 zu gewährleisten.
-
 
 ##### § 22 Eigenüberwachung
 
@@ -1230,10 +1189,6 @@ Behörde, mindestens jedoch einmal im Jahr, folgende Angaben zu
     Verhalten des Kohlendioxids in einem Kohlendioxidspeicher zu
     erweitern.
 
-
-
-
-
 ##### § 23 Maßnahmen bei Leckagen oder erheblichen Unregelmäßigkeiten
 
 (1) Bei Leckagen oder erheblichen Unregelmäßigkeiten hat der Betreiber
@@ -1264,7 +1219,6 @@ entsprechend. Soweit die Maßnahmen ungeeignet sind oder den
 Grundstückseigentümer oder den sonstigen Nutzungsberechtigten
 unzumutbar beeinträchtigen, werden sie von der zuständigen Behörde
 untersagt.
-
 
 ##### § 24 Anforderungen an Kohlendioxidströme
 
@@ -1314,9 +1268,7 @@ sowie über den Transport des Kohlendioxids, einschließlich der zum
 Transport genutzten Kohlendioxidleitungen und deren Betreiber,
 enthält.
 
-
 #### Unterabschnitt 6 - Verordnungsermächtigungen
-
 
 ##### § 25 Regelung von Anforderungen an Kohlendioxidspeicher
 
@@ -1403,7 +1355,6 @@ regelmäßig daraufhin zu überprüfen, inwieweit die einschlägigen
 Vorschriften dem Vorsorgestandard nach § 13 Absatz 1 Satz 1 Nummer 4
 entsprechen; die Rechtsverordnungen sind gegebenenfalls anzupassen.
 
-
 ##### § 26 Regelung von Anforderungen an das Verfahren
 
 (1) Das Bundesministerium für Wirtschaft und Technologie wird
@@ -1427,9 +1378,7 @@ Sicherheitsnachweises nach § 19, des Überwachungskonzepts nach § 20
 und des Stilllegungs- und Nachsorgekonzepts nach § 17 Absatz 2 Satz 2
 näher zu bestimmen.
 
-
 ### Abschnitt 3 - Überprüfung durch die zuständige Behörde; Aufsicht
-
 
 #### § 27 Überprüfung durch die zuständige Behörde
 
@@ -1454,7 +1403,6 @@ Ergänzung von Auflagen oder ein Widerruf erforderlich ist,
 
 Unabhängig von Satz 1 hat eine solche Überprüfung mindestens im
 Abstand von fünf Jahren zu erfolgen.
-
 
 #### § 28 Aufsicht
 
@@ -1581,9 +1529,7 @@ Umweltinformationen zugänglich gemacht.
 (7) Weitergehende Befugnisse nach anderen Rechtsvorschriften bleiben
 unberührt.
 
-
 ## Kapitel 4 - Haftung und Vorsorge
-
 
 ### § 29 Haftung
 
@@ -1626,7 +1572,6 @@ oder anderen Teil verursacht worden ist.
 
 (4) Die §§ 8 bis 16 und 18 Absatz 1 des Umwelthaftungsgesetzes gelten
 entsprechend.
-
 
 ### § 30 Deckungsvorsorge
 
@@ -1698,7 +1643,6 @@ Betrag nach Satz 1 Teil der Sicherheit. Das Geld steht für die
 Erfüllung der anderen in Absatz 1 genannten Pflichten und Ansprüche
 nachrangig zur Verfügung und ist vom Betreiber unverzüglich zu
 ersetzen, soweit es in Anspruch genommen wird.
-
 
 ### § 31 Übertragung der Verantwortung
 
@@ -1785,7 +1729,6 @@ Anordnungen auf Grund dieses Gesetzes verstoßen hat, können
 Aufwendungen, die sich aus der Übertragung der Pflichten ergeben, von
 ihm zurückgefordert werden.
 
-
 ### § 32 Verordnungsermächtigung für die Deckungsvorsorge und die Übertragung der Verantwortung
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und
@@ -1828,9 +1771,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften
 insbesondere das Verfahren sowie die Anforderungen an den
 Langzeitsicherheitsnachweis nach § 31 Absatz 3 näher zu bestimmen.
 
-
 ## Kapitel 5 - Anschluss und Zugang Dritter
-
 
 ### § 33 Anschluss und Zugang; Verordnungsermächtigung
 
@@ -1895,10 +1836,6 @@ ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
     des Kohlendioxidleitungsnetzes oder des Kohlendioxidspeichers
     genehmigen kann.
 
-
-
-
-
 ### § 34 Befugnisse der Bundesnetzagentur; Verordnungsermächtigung
 
 (1) Die Bundesnetzagentur kann Betreiber von
@@ -1959,7 +1896,6 @@ Bundesnetzagentur
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das
 Verfahren zur Festlegung oder Genehmigung nach Absatz 2 sowie das
 Verfahren zur Änderung der Bedingungen nach Absatz 3 näher zu regeln.
-
 
 ### § 35 Behördliches und gerichtliches Verfahren für den Anschluss und den Zugang Dritter; Verordnungsermächtigung
 
@@ -2023,9 +1959,7 @@ Gebührensätze zu regeln.
 (8) Die Aufgaben und Zuständigkeiten der Kartellbehörden bleiben
 unberührt.
 
-
 ## Kapitel 6 - Forschungsspeicher
-
 
 ### § 36 Geltung von Vorschriften
 
@@ -2033,7 +1967,6 @@ Für Forschungsspeicher und die Untersuchung des Untergrundes auf seine
 Eignung zur Errichtung von Forschungsspeichern gelten die Vorschriften
 der Kapitel 1, 3, 4 und 7 mit Ausnahme des § 43 entsprechend, soweit
 in den §§ 37 und 38 nichts anderes bestimmt ist.
-
 
 ### § 37 Genehmigung von Forschungsspeichern
 
@@ -2063,7 +1996,6 @@ ist und soweit dieser Zweck anders nicht erreicht werden kann. Eine
 Befreiung ist nur zulässig, wenn Gefahren für Mensch und Umwelt nicht
 hervorgerufen werden können.
 
-
 ### § 38 Anwendung von Vorschriften
 
 (1) § 9 Absatz 1 Satz 4, § 11 Absatz 1 und 2, die §§ 14, 15, 19 Satz
@@ -2080,9 +2012,7 @@ stillzulegen, wenn die Arbeiten zum genehmigten Zweck der Forschung
 abgeschlossen sind; die Forschungsergebnisse sind der Bundesanstalt
 für Geowissenschaften und Rohstoffe zur Verfügung zu stellen.
 
-
 ## Kapitel 7 - Schlussbestimmungen
-
 
 ### § 39 Zuständige Behörden
 
@@ -2106,7 +2036,6 @@ nach Absatz 1 entsprechend Absatz 2 zu beteiligen. Besteht ein
 besonderer Bedarf, kann die zuständige Behörde nach Absatz 1
 Stellungnahmen der Bundesanstalt für Geowissenschaften und Rohstoffe
 sowie des Umweltbundesamts einholen.
-
 
 ### § 40 Wissensaustausch; Verordnungsermächtigung
 
@@ -2156,7 +2085,6 @@ Sie kann bestimmen, welche wissenschaftlichen Einrichtungen in den
 Wissensaustausch einzubeziehen sind, und anordnen, dass die nach
 Absatz 1 erforderlichen Daten zur Verfügung gestellt werden.
 
-
 ### § 41 Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für Amtshandlungen nach diesem Gesetz können Gebühren und Auslagen
@@ -2172,12 +2100,10 @@ Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die
 nach Absatz 1 Satz 2 an den Bund abzuführende Quote der
 Gebühreneinnahmen der Länder festzulegen.
 
-
 ### § 42 Landesrechtliche Speicherabgaben
 
 Die Entscheidung über die Einführung landesrechtlicher Abgaben im
 Zusammenhang mit der dauerhaften Speicherung liegt bei den Ländern.
-
 
 ### § 43 Bußgeldvorschriften
 
@@ -2334,7 +2260,6 @@ mit einer Geldbuße bis zu hunderttausend Euro geahndet werden. In den
 übrigen Fällen kann die Ordnungswidrigkeit mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
 
-
 ### § 44 Evaluierungsbericht
 
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31.
@@ -2388,7 +2313,6 @@ Erprobung und Demonstration von Kohlendioxidspeichern nach § 2 Absatz
 2 erreichten Standes der Technik einen Vorschlag zur Ausgestaltung des
 Vorsorgestandards unterbreiten.
 
-
 ### § 45 Übergangsvorschrift
 
 (1) Bereits begonnene Verfahren auf Erteilung einer Erlaubnis nach § 7
@@ -2437,14 +2361,12 @@ Monitoring-Leitlinien maßgeblich.
 August 2012 bereits nach anderen Rechtsvorschriften zugelassen worden
 sind.
 
-
 ### § 46 Ausschluss abweichenden Landesrechts
 
 Soweit in § 4 Absatz 1 Satz 5 und § 11 Absatz 1 Satz 5 nichts anderes
 bestimmt ist, kann von den in diesem Gesetz und auf Grund dieses
 Gesetzes getroffenen Regelungen des Verwaltungsverfahrens durch
 Landesrecht nicht abgewichen werden.
-
 
 ### Anlage 1 (zu § 7 Absatz 1 Satz 2 Nummer 2, Absatz 3 Satz 1, § 22 Absatz 2 Nummer 1) Kriterien für die Charakterisierung und Bewertung der potenziellen Kohlendioxidspeicher und der potenziellen Speicherkomplexe sowie ihrer Umgebung
 
@@ -2781,10 +2703,6 @@ Auswahlentscheidungen nach § 7 Absatz 3 nicht beeinträchtigt wird.
     Charakterisierung und Bewertung des Kohlendioxidspeichers ermittelt
     wurden, sowie, im Rahmen des Möglichen, eine Darstellung der
     Möglichkeiten zur Verringerung der Unsicherheit.
-
-
-
-
 
 ### Anlage 2 (zu § 17 Absatz 2 Satz 2 und § 20 Absatz 1 Satz 1 und Absatz 2 Satz 1) Kriterien für die Aufstellung und Aktualisierung des Überwachungskonzepts und für die Nachsorge
 

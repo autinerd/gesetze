@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3107
 
-
 ## Eingangsformel
 
 Auf Grund des § 18a Absatz 1 des Raumordnungsgesetzes vom 18. August
@@ -25,7 +24,6 @@ Gesetzes vom 9. Dezember 2006 (BGBl. I S. 2833) geändert worden ist,
 in Verbindung mit § 29 Absatz 1 des Raumordnungsgesetzes vom 22.
 Dezember 2008 (BGBl. I S. 2986) verordnet das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung:
-
 
 ## § 1 Raumplanung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee
 
@@ -65,7 +63,6 @@ und einem Kartenteil, festgelegt.
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1) Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Nordsee (Textteil und Kartenteil)
 

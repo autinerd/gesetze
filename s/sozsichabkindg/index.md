@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2012, 586
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -40,7 +38,6 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -65,10 +62,6 @@ folgende Gegenstände Regelungen getroffen werden:
 
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
-
-
-
-
 
 ## Art 3
 

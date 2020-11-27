@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1649
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch
 Artikel 5 Nr. 7 Buchstabe c des Gesetzes vom 19. August 2007 (BGBl. I
 S. 1970) eingefügt worden ist, verordnet das Bundesministerium des
 Innern:
-
 
 ## § 1 Einbürgerungstest und Einbürgerungskurs
 
@@ -46,7 +44,6 @@ dann zuständigen Behörde fort.
 (5) Grundstruktur und Lerninhalte des Einbürgerungskurses ergeben sich
 aus dem Rahmencurriculum in Anlage 2, das für die Durchführung von
 Einbürgerungskursen verbindlich ist.
-
 
 ## § 2 Verfahren des Einbürgerungstests unter Mitnutzung von Prüfstellen des Bundesamtes
 
@@ -73,7 +70,6 @@ Prüfungsteilnehmer desselben Prüfungstermins identisch ist. Die
 Identität des Prüfungsteilnehmers ist anhand eines amtlichen
 Identitätspapiers zu prüfen.
 
-
 ## § 3 Verfahren des Einbürgerungstests über Landesstellen
 
 In dem Fall, dass ein Land die gesamte technische Durchführung des
@@ -84,7 +80,6 @@ Fragebögen und sorgt für den ordnungsgemäßen Prüfungsablauf
 entsprechend § 2 Abs. 3 sowie für die Testauswertung und die
 Ausstellung einer Bescheinigung nach einheitlichem Vordruck.
 
-
 ## § 4 Datenerhebung und -verarbeitung
 
 Im Verfahren nach § 2 Abs. 1 darf das Bundesamt über die Prüfstelle
@@ -94,11 +89,9 @@ Geburtsdatum, Geburtsort und Anschrift der Prüfungsteilnehmer erheben
 und verwenden. Die Daten sind spätestens zwei Jahre nach Ausstellung
 der Bescheinigung zu löschen.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
-
 
 ## Anlage 1 Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen
 
@@ -8081,12 +8074,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Türkei
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Baden-Württemberg
@@ -8349,12 +8336,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Außenminister / Außenministerin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Bayern
@@ -8613,12 +8594,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
 
 ### Teil II
 
@@ -8881,12 +8856,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Justizsenator / Justizsenatorin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Brandenburg
@@ -9146,12 +9115,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
 
 ### Teil II
 
@@ -9414,12 +9377,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innensenator / Innensenatorin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Hamburg
@@ -9681,12 +9638,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innensenator / Innensenatorin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Hessen
@@ -9945,12 +9896,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
 
 ### Teil II
 
@@ -10215,12 +10160,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innenminister / Innenministerin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Niedersachsen
@@ -10481,12 +10420,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
 
 ### Teil II
 
@@ -10750,12 +10683,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innenminister / Innenministerin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Rheinland-Pfalz
@@ -11018,12 +10945,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innenminister / Innenministerin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Saarland
@@ -11284,12 +11205,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innenminister / Innenministerin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Sachsen
@@ -11548,12 +11463,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
 
 ### Teil II
 
@@ -11815,12 +11724,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
 
 ### Teil II
 
@@ -12084,12 +11987,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
     *   Innenminister / Innenministerin
 
-
-
-
-
-
-
 ### Teil II
 
 ### Fragen für das Bundesland Thüringen
@@ -12348,13 +12245,6 @@ die nur für das jeweilige Bundesland zu beantworten sind.
 
 
     *   Innenminister / Innenministerin
-
-
-
-
-
-
-
 
 ## Anlage 2 Rahmencurriculum für den Einbürgerungskurs
 

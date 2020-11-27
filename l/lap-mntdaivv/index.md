@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 7 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -30,10 +29,7 @@ Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I
 S. 706) neu gefasst worden ist, verordnet das Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -100,7 +96,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -125,7 +120,6 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist das Bundesverwaltungsamt. Ihm obliegen die
@@ -135,7 +129,6 @@ und Anwärter; es trifft die Entscheidungen über die Verkürzung und
 Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung.
 Das Bundesverwaltungsamt ist die für die beamtenrechtlichen
 Entscheidungen zuständige Dienstbehörde.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -153,13 +146,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     b)  den erfolgreichen Besuch einer Hauptschule und eine förderliche
         abgeschlossene Berufsausbildung oder einen im allgemeinen
         Bildungsbereich als gleichwertig anerkannten Bildungsstand nachweist.
-
-
-
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -191,13 +177,6 @@ Bewerbung sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -252,7 +231,6 @@ entsprechend.
 Ersatzmitglieder der Auswahlkommission für die Dauer von drei Jahren;
 die Wiederbestellung ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Das Bundesverwaltungsamt entscheidet nach dem Ergebnis des
@@ -299,7 +277,6 @@ Die Kosten des Gesundheitszeugnisses trägt das Bundesverwaltungsamt.
 Anstelle der Kostenübernahme kann das Bundesverwaltungsamt die
 Einstellungsuntersuchung selbst vornehmen.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -311,7 +288,6 @@ Regierungssekretäranwärtern ernannt.
 Bundesverwaltungsamtes. Während der Ausbildung bei anderen Bundes-
 oder bei Landes- und Kommunalbehörden unterstehen sie auch deren
 Dienstaufsicht.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -364,18 +340,15 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 42 Abs. 2.
 
-
 ### § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan sowie alle Leistungsnachweise
 und Bewertungen aufzunehmen sind.
-
 
 ### § 12 Schwerbehinderte Menschen
 
@@ -397,7 +370,6 @@ eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -458,7 +430,6 @@ Voraussetzung für die Fortsetzung des Vorbereitungsdienstes ist.
 
 (4) Der Vorbereitungsdienst schließt mit der Laufbahnprüfung.
 
-
 ### § 14 Grundsätze der fachtheoretischen Ausbildung
 
 (1) Die fachtheoretische Ausbildung (Einführungs- und
@@ -479,13 +450,11 @@ Lehrstunden.
 Lehrfächer, die Stundenzahl und die Art der Leistungsnachweise
 festlegen. Die Lerninhalte sind nach Intensitätsstufen zu beschreiben.
 
-
 ### § 15 Ausbildungsbehörde
 
 Ausbildungsbehörde ist das Bundesverwaltungsamt. Es trägt die
 Verantwortung für die ordnungsgemäße Ausbildung nach Maßgabe dieser
 Verordnung.
-
 
 ### § 16 Einführungslehrgang
 
@@ -544,7 +513,6 @@ Grundkenntnisse in folgenden Bereichen:
 den Praktika das Verständnis für Verwaltungszusammenhänge und
 Verwaltungshandeln ermöglichen.
 
-
 ### § 17 Abschlusslehrgang
 
 (1) Der Abschlusslehrgang baut auf den Lerninhalten des
@@ -586,7 +554,6 @@ anzuwenden.
 
 (4) Das Fachgebiet Bürgerliches Recht wird vertiefend behandelt.
 
-
 ### § 18 Ziel der Praktika
 
 (1) In den Praktika sollen die Anwärterinnen und Anwärter berufliche
@@ -611,7 +578,6 @@ sind, teilnehmen. § 14 Abs. 1 Satz 3 gilt entsprechend.
 (3) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
 ### § 19 Zuständigkeit für die Praktika
 
 (1) Das Bundesverwaltungsamt ist verantwortlich für die Gestaltung,
@@ -619,7 +585,6 @@ Durchführung und Überwachung der Praktika.
 
 (2) Es trifft Regelungen mit den Bundes- und Kommunalbehörden über die
 Bereitstellung der für die Praktika notwendigen Ausbildungsplätze.
-
 
 ### § 20 Durchführung und Inhalt der Praktika
 
@@ -672,7 +637,6 @@ vermittelt.
 der Bundesverwaltung vorgesehen sind, können während des Praktikums II
 fachbezogen ausgebildet werden.
 
-
 ### § 21 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
 (1) Jede Behörde, der Anwärterinnen und Anwärter zur Ausbildung
@@ -701,7 +665,6 @@ Anwärterin und jeden Anwärter einen Ausbildungsplan, aus dem sich die
 Sachgebiete ergeben, in denen sie oder er ausgebildet wird. Dieser
 Plan wird dem Bundesverwaltungsamt vorgelegt; die Anwärterinnen und
 Anwärter erhalten eine Ausfertigung.
-
 
 ### § 22 Praxisbezogene Lehrveranstaltungen
 
@@ -775,7 +738,6 @@ Lehrfächer und die Stundenzahlen.
 (3) Die praxisbezogenen Lehrveranstaltungen werden während des
 Praktikums I beim Bundesverwaltungsamt durchgeführt.
 
-
 ### § 23 Leistungsnachweise
 
 (1) Während der fachtheoretischen Ausbildung haben die Anwärterinnen
@@ -832,7 +794,6 @@ erhalten eine Ausfertigung des Zeugnisses.
 entscheidet die Stelle, die die Aufgabe des Leistungsnachweises
 bestimmt hat.
 
-
 ### § 24 Bewertungen während der Praktika
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -857,10 +818,7 @@ bewerteten Ausbildungsabschnitte und der Leistungsnachweise geteilt
 wird. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des
 Zeugnisses.
 
-
 ## Kapitel 2 - Aufstieg
-
-
 
 ### § 25 Ausbildungsaufstieg
 
@@ -896,11 +854,9 @@ ist, ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht
 gefährdet erscheint. § 9 Abs. 2 Satz 2 und 3 ist entsprechend
 anzuwenden.
 
-
 ### § 26
 
 (weggefallen)
-
 
 ### § 27 Praxisaufstieg
 
@@ -919,10 +875,7 @@ Auswahlverfahrens. Das Bundesministerium des Innern kann die
 Befugnisse nach den Sätzen 1 und 3 auf das Bundesverwaltungsamt
 übertragen.
 
-
 ## Kapitel 3 - Prüfungen
-
-
 
 ### § 28 Zwischenprüfung
 
@@ -980,14 +933,12 @@ Prüfung nicht ausgesetzt.
 1, § 33 Abs. 2 Satz 2 und Abs. 4 und die §§ 36 bis 38, 40 und 41
 entsprechend.
 
-
 ### § 29 Prüfungsamt
 
 Dem beim Bundesverwaltungsamt eingerichteten Prüfungsamt obliegt die
 Durchführung der Laufbahnprüfung; es trägt Sorge für die Entwicklung
 und gleichmäßige Anwendung der Bewertungsmaßstäbe und vollzieht die
 Entscheidungen der Prüfungskommission.
-
 
 ### § 30 Prüfungskommission
 
@@ -1017,7 +968,6 @@ bestellt. Die Wiederbestellung ist zulässig.
 (3) Die Mitglieder der Prüfungskommission sind bei ihrer
 Prüfungstätigkeit unabhängig und an Weisungen nicht gebunden.
 Stimmenthaltung ist nicht zulässig.
-
 
 ### § 31 Laufbahnprüfung
 
@@ -1051,7 +1001,6 @@ zuzuhören; sie dürfen während der Prüfung keinerlei Aufzeichnungen
 machen. Bei den Beratungen der Prüfungskommission dürfen nur deren
 Mitglieder anwesend sein.
 
-
 ### § 32 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen und der
@@ -1063,7 +1012,6 @@ Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein.
 
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern Ort und Zeit
 der schriftlichen und der mündlichen Prüfung rechtzeitig mit.
-
 
 ### § 33 Schriftliche Prüfung
 
@@ -1120,7 +1068,6 @@ Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 36 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 34 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1134,7 +1081,6 @@ mit. Dabei teilt es den zugelassenen Anwärterinnen und Anwärtern die
 von ihnen in den einzelnen schriftlichen Aufsichtsarbeiten erzielten
 Rangpunkte mit, wenn sie dies beantragen. Die Nichtzulassung bedarf
 der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
-
 
 ### § 35 Mündliche Prüfung
 
@@ -1201,7 +1147,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 (7) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
 
-
 ### § 36 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -1225,7 +1170,6 @@ Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte
 Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt
 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
 Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 37 Täuschung, Ordnungsverstoß
 
@@ -1259,7 +1203,6 @@ versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 38 Bewertung von Prüfungsleistungen
 
@@ -1455,7 +1398,6 @@ die Erteilung des der Leistung entsprechenden Rangpunktes begründet.
 Für die Bewertung mündlicher Leistungen gelten diese Grundsätze
 sinngemäß.
 
-
 ### § 39 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1494,7 +1436,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-
 ### § 40 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1517,7 +1458,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 37 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 41 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -1531,7 +1471,6 @@ werden beim Bundesverwaltungsamt mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 42 Wiederholung
 
@@ -1550,17 +1489,13 @@ erreichten Rangpunkte und Noten ersetzen die bisherigen. Der
 Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 43 Zeitlicher Geltungsbereich
 
 Diese Verordnung gilt für Anwärterinnen und Anwärter sowie
 Aufstiegsbeamtinnen und -beamte, die nach dem Zeitpunkt des
 Inkrafttretens dieser Verordnung ihre Ausbildung beginnen.
-
 
 ### § 44 Inkrafttreten
 

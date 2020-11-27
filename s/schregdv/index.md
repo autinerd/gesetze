@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 6.7.2010 I 880
 
-
 ## Erster Abschnitt - Einrichtung der Register im Allgemeinen
-
-
 
 ### § 1
 
@@ -32,7 +29,6 @@ Die Register werden in festen Bänden oder in Bänden oder Einzelheften
 mit herausnehmbaren Einlegebogen geführt. Soweit die Register in
 Einzelheften mit herausnehmbaren Einlegebogen geführt werden, sind die
 Vorschriften, die Bände voraussetzen, nicht anzuwenden.
-
 
 ### § 2
 
@@ -47,11 +43,9 @@ Register aus mehreren Bänden, so schließen sich die Blattnummern jedes
 weiteren Bandes an die des vorhergehenden an. Als weiterer Band gilt
 auch ein nach Absatz 1 Satz 3 angelegter Band.
 
-
 ### § 3
 
 Jedes Registerblatt besteht aus der Aufschrift und drei Abteilungen.
-
 
 ### § 4
 
@@ -61,7 +55,6 @@ Schiff auf dem ersten freien Registerblatt dieses Bandes einzutragen,
 wenn anzunehmen ist, daß der Raum der Registerblätter des sonst
 verwendeten Bandes für die bei diesem Schiff zu erwartenden
 Eintragungen nicht ausreicht.
-
 
 ### § 5
 
@@ -77,23 +70,18 @@ Registergerichts, so ist es zu den Registerakten eines der beteiligten
 Blätter zu nehmen; in den Registerakten der anderen Blätter ist auf
 diese Registerakten zu verweisen.
 
-
 ### § 6
 
 Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so
 können in den Abschriften Teile der Urkunde, die für die Führung des
 Schiffsregisters ohne Bedeutung sind, weggelassen werden.
 
-
 ## Zweiter Abschnitt - Führung des Schiffsregisters
-
-
 
 ### § 7
 
 Eintragungen sind deutlich und ohne Abkürzung herzustellen. In dem
 Register darf nicht radiert und nichts unleserlich gemacht werden.
-
 
 ### § 8
 
@@ -101,12 +89,10 @@ Die Eintragungen in der zweiten und dritten Abteilung sind in
 unmittelbarem Anschluß an die vorhergehende Eintragung derselben
 Spalte vorzunehmen.
 
-
 ### § 9
 
 Jede Eintragung ist zu unterschreiben. Der Tag der Eintragung ist in
 den Registerakten bei der gerichtlichen Verfügung zu vermerken.
-
 
 ### § 10
 
@@ -118,7 +104,6 @@ beide Striche durch einen von oben links nach unten rechts
 verlaufenden roten Schrägstrich verbunden werden; erstreckt sich eine
 Eintragung auf mehr als eine Seite, so ist auf jeder Seite
 entsprechend zu verfahren.
-
 
 ### § 11
 
@@ -140,7 +125,6 @@ Eintragung zu überprüfen.
 
 (3) Eine versehentlich erfolgte Rötung ist dadurch zu beseitigen, daß
 jeder rote Strich durch kleine schwarze Striche durchkreuzt wird.
-
 
 ### § 12
 
@@ -184,7 +168,6 @@ Registergericht über, so werden für die hierdurch erforderlichen
 Registereintragungen und für die Ausstellung neuer Schiffsurkunden
 keine Kosten erhoben.
 
-
 ### § 12a
 
 (1) Geht die Führung eines oder mehrerer Registerblätter auf ein
@@ -201,7 +184,6 @@ bisherige Band- und Blattnummer anzugeben.
 (3) Mit dem Registerblatt und -band sind auch die Registerakten und
 die sonstigen Schriftstücke abzugeben, die sich auf die
 Registerblätter beziehen und bei den Akten aufbewahrt werden.
-
 
 ### § 13
 
@@ -236,7 +218,6 @@ Registergericht einzureichen.
 (4) Die Umschreibung ist dem eingetragenen Eigentümer und den aus dem
 Registerblatt ersichtlichen dinglich Berechtigten bekanntzugeben.
 
-
 ### § 13a
 
 Ist die Aufschrift eines Blattes auf dem Deckel eines Einzelhefts
@@ -248,7 +229,6 @@ den Einlegebogen zu verweisen. Die bisherige Aufschrift sowie
 besondere Vermerke in der bisherigen Aufschrift sind rot zu
 unterstreichen.
 
-
 ### § 14
 
 (1) Wird die Eintragung des Schiffs gelöscht, so ist das Registerblatt
@@ -258,7 +238,6 @@ zu schließen.
 ist dem Registergericht mitzuteilen, bei dem das Schiff zuerst
 eingetragen war.
 
-
 ### § 15
 
 Ist das Registerblatt zu schließen (§ 12 Abs. 1, § 13 Abs. 1, § 14
@@ -267,7 +246,6 @@ des Grundes der Schließung einzutragen. In den Fällen der §§ 12 und 13
 ist das neue Registerblatt anzugeben. Ferner sind sämtliche Seiten des
 Registerblatts, soweit sie Eintragungen enthalten, rot zu
 durchkreuzen.
-
 
 ### § 16
 
@@ -281,13 +259,7 @@ Zur Bezeichnung des Berechtigten sind im Schiffregister einzutragen:
 2.  bei Handelsgesellschaften, eingetragenen Genossenschaften und anderen
     juristischen Personen die Firma oder der Name und der Sitz.
 
-
-
-
-
 ## Dritter Abschnitt - Allgemeine Verfahrensvorschriften
-
-
 
 ### § 17
 
@@ -295,12 +267,10 @@ Anmeldungen und Eintragungsanträge, die nicht der Form der §§ 37ff.
 der Schiffsregisterordnung bedürfen und nicht schriftlich eingereicht
 werden, sind von jedem Amtsgericht zur Niederschrift entgegenzunehmen.
 
-
 ### § 18
 
 Eintragungen in das Register sollen regelmäßig im Wortlaut verfügt
 werden.
-
 
 ### § 19
 
@@ -310,7 +280,6 @@ wiederzugeben und zu unterschreiben. In geeigneten Fällen sind die
 Beteiligten darauf hinzuweisen, daß auf die Bekanntmachung verzichtet
 werden kann.
 
-
 ### § 20
 
 Die Eintragungen in die erste Abteilung des Schiffsregisters sind
@@ -318,13 +287,11 @@ allen aus dem Registerblatt ersichtlichen dinglich Berechtigten
 bekanntzumachen. Auf die Bekanntmachung kann verzichtet werden. § 19
 gilt entsprechend.
 
-
 ### § 21
 
 Der Beschluß, durch den eine Eintragung abgelehnt wird, ist, auch
 soweit § 28 der Schiffsregisterordnung nicht Platz greift, mit Gründen
 zu versehen.
-
 
 ### § 22
 
@@ -360,13 +327,11 @@ Eintragungen nur dann aufzunehmen, wenn dies beantragt oder den
 Umständen nach angemessen ist oder soweit die Abschrift durch
 Ablichtung hergestellt wird.
 
-
 ### § 23
 
 Auf Verlangen ist eine Bescheinigung darüber zu erteilen, daß zu dem
 Gegenstand einer Eintragung weitere Eintragungen nicht vorhanden sind
 oder daß eine bestimmte Eintragung nicht erfolgt ist.
-
 
 ### § 24
 
@@ -374,10 +339,7 @@ Bescheinigungen und Zeugnisse sind unter Angabe des Ortes und Tages zu
 unterschreiben und mit dem Siegel oder Stempel des Registergerichts zu
 versehen.
 
-
 ## Vierter Abschnitt - Das Seeschiffsregister
-
-
 
 ### § 25
 
@@ -389,12 +351,10 @@ Einlegebogen geführt, kann von der Druckanordnung des Musters insoweit
 abgewichen werden, als die Abweichung zur Erleichterung des
 Eintragungsverfahrens zweckmäßig ist.
 
-
 ### § 26
 
 In der Aufschrift sind das Amtsgericht und die Nummer des
 Registerblatts anzugeben.
-
 
 ### § 27
 
@@ -477,7 +437,6 @@ Für die Eintragungen in Spalte 6 gilt zusätzlich folgendes:
 Veränderungen in Spalte 9, die das Flaggenrecht betreffenden
 Eintragungen in Spalte 10 zu unterschreiben.
 
-
 ### § 28
 
 (1) In der zweiten Abteilung sind einzutragen:
@@ -550,7 +509,6 @@ Eintragungen in Spalte 10 zu unterschreiben.
 
 
 (2) Die Eintragungen sind in Spalte 5 zu unterschreiben.
-
 
 ### § 29
 
@@ -631,11 +589,9 @@ gilt Absatz 3 entsprechend.
 in den Spalten 4 bis 6 in Spalte 6 und Eintragungen in den Spalten 7
 und 8 in Spalte 8 zu unterschreiben.
 
-
 ### § 30
 
 (weggefallen)
-
 
 ### § 31
 
@@ -677,10 +633,7 @@ zugeteilt werden, nachdem sämtliche dem Registergericht zugewiesenen
 Unterscheidungssignale zugeteilt worden sind; Absatz 1 Satz 2 gilt
 sinngemäß.
 
-
 ## Fünfter Abschnitt - Das Binnenschiffsregister
-
-
 
 ### § 32
 
@@ -688,12 +641,10 @@ Für die Einrichtung des Binnenschiffsregisters ist das Muster
 maßgebend, das dieser Verordnung als Anlage 2 beigefügt ist. § 25 Abs.
 2 gilt entsprechend.
 
-
 ### § 33
 
 In der Aufschrift sind das Amtsgericht und die Nummer des
 Registerblatts anzugeben.
-
 
 ### § 34
 
@@ -750,7 +701,6 @@ Registerblatts anzugeben.
 
 (2) Die erste Eintragung ist in Spalte 6, Veränderungen sind in Spalte
 8, Eintragungen nach Absatz 1 Nr. 9 in Spalte 9 zu unterschreiben.
-
 
 ### § 35
 
@@ -814,17 +764,13 @@ Registerblatts anzugeben.
 
 (2) Die Eintragungen sind in Spalte 5 zu unterschreiben.
 
-
 ### § 36
 
 Für Eintragungen in der dritten Abteilung gelten die Vorschriften des
 § 29 entsprechend, soweit sie die Schiffshypothek, das
 Arrestpfandrecht und den Nießbrauch betreffen.
 
-
 ## Sechster Abschnitt - Das Schiff betreffende Urkunden
-
-
 
 ### § 37
 
@@ -845,7 +791,6 @@ Empfangsbescheinigung auszuhändigen.
 (4) Werden mehrere Bogen zu einem Schiffszertifikat verwendet, so sind
 sie durch Schnur und Siegel miteinander zu verbinden.
 
-
 ### § 38
 
 (1) Ist das Schiff noch nicht im Inland vermessen (§ 27 Abs. 1 Nr. 6),
@@ -863,7 +808,6 @@ Schiffszertifikats zu vermerken, die der Seite 4 des Musters in der
 Anlage 4 zu dieser Verordnung entspricht. Die Vermerke sind zu
 unterschreiben und mit dem Stempel des Registergerichts zu versehen.
 
-
 ### § 39
 
 Eintragungen in das Schiffsregister, die nach der Ausstellung des
@@ -877,7 +821,6 @@ Musters in der Anlage 4 zu dieser Verordnung entspricht. Ein späterer
 Vermerk ist unmittelbar hinter dem vorhergehenden einzutragen. Die
 Vermerke sind zu unterschreiben und mit dem Stempel des
 Registergerichts zu versehen.
-
 
 ### § 39a
 
@@ -895,7 +838,6 @@ abweichend von § 39 ein neues Schiffszertifikat ausgestellt werden, in
 das nur der zur Zeit seiner Ausstellung gültige Inhalt des
 Schiffsregisters aufzunehmen ist.
 
-
 ### § 40
 
 (1) Ein neues Schiffszertifikat ist auszustellen, wenn das Schiff auf
@@ -908,7 +850,6 @@ Ausstellung gültige Inhalt des Schiffsregisters aufzunehmen.
 (3) Wird das neue Schiffszertifikat an Stelle eines abhandengekommenen
 ausgestellt, so ist dies im Ausfertigungsvermerk anzugeben.
 
-
 ### § 41
 
 (1) Abgesehen vom Fall des § 62 Abs. 3 der Schiffsregisterordnung ist
@@ -918,7 +859,6 @@ Schiffszertifikat ausgestellt ist.
 (2) Das Schiffszertifikat wird dadurch unbrauchbar gemacht, daß es mit
 Einschnitten versehen und seine Vorderseite rot durchkreuzt wird; es
 ist bei den Registerakten zu verwahren.
-
 
 ### § 42
 
@@ -937,7 +877,6 @@ Schiffsregister entsprechenden Auszug zu erteilen.
 (3) Im übrigen gelten für den Auszug § 37 Abs. 2 Satz 2, § 40 Abs. 3
 und § 41 entsprechend.
 
-
 ### § 43
 
 Ist außer dem Schiffszertifikat auch der beglaubigte Auszug aus dem
@@ -945,13 +884,11 @@ Schiffszertifikat dem Registergericht einzureichen, so soll der Auszug
 erst eingefordert werden, wenn das Schiffszertifikat wieder
 ausgehändigt ist.
 
-
 ### § 44
 
 Für den Schiffsbrief sind die Muster maßgebend, die dieser Verordnung
 als Anlagen 6 und 6a beigefügt sind. Im übrigen gelten die §§ 37 bis
 41 entsprechend.
-
 
 ### § 45
 
@@ -964,16 +901,12 @@ Stempel des Registergerichts zu versehen.
 (2) Die Urkunde ist dem Eigentümer auszuhändigen, wenn der Vermerk
 nach Absatz 1 erteilt worden ist.
 
-
 ## Siebenter Abschnitt - Das Schiffsbauregister
-
-
 
 ### § 46
 
 Für die Einrichtung und Führung des Schiffsbauregisters gelten die §§
 1 bis 24 entsprechend.
-
 
 ### § 47
 
@@ -981,25 +914,21 @@ Das Registerblatt ist auch zu schließen, wenn dem Registergericht von
 der Eintragung des Schiffs in das Schiffsregister nach § 16 Abs. 3 der
 Schiffsregisterordnung Mitteilung gemacht wird.
 
-
 ### § 48
 
 Nach der Schließung des Registerblatts hat das Registergericht die
 Registerakten dem für die Eintragung des Schiffs in das
 Schiffsregister zuständigen Amtsgericht zu übersenden.
 
-
 ### § 49
 
 Für das Schiffsbauregister ist das Muster maßgebend, das dieser
 Verordnung als Anlage 3 beigefügt ist. § 25 Abs. 2 gilt entsprechend.
 
-
 ### § 50
 
 In der Aufschrift sind das Amtsgericht und die Nummer des
 Registerblatts anzugeben.
-
 
 ### § 51
 
@@ -1032,7 +961,6 @@ Registerblatts anzugeben.
 
 (2) Die erste Eintragung und die Veränderungen sind in Spalte 4, die
 Löschung ist in Spalte 5 zu unterschreiben.
-
 
 ### § 52
 
@@ -1090,7 +1018,6 @@ Löschung ist in Spalte 5 zu unterschreiben.
 
 
 (2) Die Eintragungen sind in Spalte 3 zu unterschreiben.
-
 
 ### § 53
 
@@ -1156,7 +1083,6 @@ gilt Absatz 3 entsprechend.
 Eintragungen in den Spalten 4 und 5 in Spalte 5 und die Eintragungen
 in den Spalten 6 und 7 in Spalte 7 zu unterschreiben.
 
-
 ### § 54
 
 Auf im Bau befindliche oder fertiggestellte Schwimmdocks sind die
@@ -1181,17 +1107,9 @@ entsprechend anzuwenden:
     genannte Urkunde in der zweiten Abteilung in Spalte 3 der Rechtsgrund
     für den Erwerb des Eigentums einzutragen.
 
-
-
-
-
 ## Achter Abschnitt - Maschinell geführte Register
 
-
-
 ### Unterabschnitt 1 - Maschinell geführte Register und ihre Anlegung
-
-
 
 #### § 55
 
@@ -1200,7 +1118,6 @@ Abschnitt, soweit im folgenden nichts Abweichendes bestimmt wird. Die
 maschinelle Führung von Registern umfaßt auch die maschinelle Führung
 des Verzeichnisses nach § 31 und anderer für die Führung der Register
 erforderlicher Verzeichnisse.
-
 
 #### § 56
 
@@ -1214,7 +1131,6 @@ verbessern, und die Daten dabei nicht verändert werden. Die Verfügung
 kann auch in allgemeiner Form und vor Eintritt eines Änderungsfalls
 getroffen werden.
 
-
 #### § 57
 
 Der Inhalt eines maschinell geführten Registers muß auf dem Bildschirm
@@ -1222,13 +1138,11 @@ und in Ausdrucken so sichtbar gemacht werden können, wie es den durch
 diese Verordnung vorgeschriebenen Vordrucken entspricht. Die
 Vorschriften, die Registerbände voraussetzen, sind nicht anzuwenden.
 
-
 #### § 58
 
 Für die Anforderungen an Anlagen, Programme und ihre Sicherung gelten
 die Anlage zu § 126 Abs. 1 Satz 2 Nr. 3 der Grundbuchordnung und die
 §§ 64 bis 66 der Grundbuchverfügung sinngemäß.
-
 
 #### § 59
 
@@ -1264,7 +1178,6 @@ Landesjustizverwaltungen bestimmen durch allgemeine
 Verwaltungsanordnung Zeitpunkt und Umfang dieser Art der Aufbewahrung
 und die Einzelheiten der Durchführung.
 
-
 #### § 60
 
 (1) Kann ein maschinell geführtes Registerblatt ganz oder teilweise
@@ -1295,10 +1208,7 @@ werden, so kann eine auf Grund jener Vorschriften erlassene
 Rechtsverordnung durch Rechtsverordnung aufgehoben und die Führung des
 Registers in Papierform bestimmt werden.
 
-
 ### Unterabschnitt 2 - Eintragungen in maschinell geführte Register
-
-
 
 #### § 61
 
@@ -1318,7 +1228,6 @@ des Registers zuständigen Person veranlaßt wird.
 und Vollständigkeit prüfen; die Aufnahme in den Datenspeicher (§ 56)
 ist zu verifizieren.
 
-
 #### § 62
 
 Bei dem maschinell geführten Register soll eine Eintragung nur möglich
@@ -1333,7 +1242,6 @@ elektronische Unterschrift werden Bestandteil des maschinell geführten
 Registers. Die elektronische Unterschrift soll durch die zuständige
 Stelle überprüft werden können.
 
-
 #### § 63
 
 Die äußere Form der Wiedergabe einer Eintragung bestimmt sich im
@@ -1342,10 +1250,7 @@ dieser Verordnung Unterstreichungen, Kreuzungen oder ähnliche
 Kennzeichnungen in rot vorzunehmen sind, können sie in dem maschinell
 geführten Register schwarz dargestellt werden.
 
-
 ### Unterabschnitt 3 - Einsicht in maschinell geführte Register und Abschriften hieraus
-
-
 
 #### § 64
 
@@ -1353,7 +1258,6 @@ Für die Einsicht in maschinell geführte Register und die Erteilung von
 Abschriften hieraus gelten § 8 der Schiffsregisterordnung und die
 Vorschriften des Dritten Abschnitts entsprechend, soweit im folgenden
 nichts Abweichendes bestimmt ist.
-
 
 #### § 65
 
@@ -1375,7 +1279,6 @@ oder werden. Absatz 1 Satz 2 gilt nicht.
 
 (3) Auf dem Ausdruck oder dem amtlichen Ausdruck kann angegeben
 werden, welchen Eintragungsstand er wiedergibt.
-
 
 #### § 66
 
@@ -1405,7 +1308,6 @@ machen. An ihrer Stelle wird eine vollständige neue Urkunde erteilt.
 Dies gilt auch, wenn die erteilte Urkunde nicht aus dem maschinell
 geführten Register erteilt worden ist.
 
-
 #### § 67
 
 (1) Die Einsicht erfolgt durch Wiedergabe des betreffenden
@@ -1430,10 +1332,7 @@ Registergerichts zugeteilt wird. Diese Form der Einsichtnahme ist auch
 Landesjustizverwaltungen dies vereinbaren. Die Gewährung von Einsicht
 schließt die Erteilung von Abschriften mit ein.
 
-
 ### Unterabschnitt 4 - Automatisierter Abruf von Daten
-
-
 
 #### § 68
 
@@ -1448,7 +1347,6 @@ Vertrag (§ 133 der Grundbuchordnung) darauf hinzuweisen, daß sie die
 abgerufenen Daten nach § 93 Satz 1 der Schiffsregisterordnung in
 Verbindung mit § 133 Abs. 6 der Grundbuchordnung nur zu dem Zweck
 verwenden darf, für den sie ihr übermittelt worden sind.
-
 
 #### § 69
 
@@ -1484,15 +1382,11 @@ Registergerichte auch durch die für diese jeweils zuständige Stelle
 ausgesetzt werden. Der Widerruf und die Aussetzung einer Genehmigung
 sind den übrigen Landesjustizverwaltungen unverzüglich mitzuteilen.
 
-
 #### § 70
 
 Im Übrigen gelten die §§ 82 bis 84 der Grundbuchverfügung sinngemäß.
 
-
 ### Unterabschnitt 5 - Zusammenarbeit mit Behörden der Seeschiffahrt
-
-
 
 #### § 71
 
@@ -1513,10 +1407,7 @@ Genehmigung oder Vereinbarung. Auf Ersuchen der berechtigten Stellen
 Register. Die Daten können auch im automatisierten Verfahren
 übermittelt werden.
 
-
 ### Unterabschnitt 6 - Datenverarbeitung im Auftrag, ergänzende Vorschriften des Landesrechts
-
-
 
 #### § 72
 
@@ -1527,7 +1418,6 @@ maschinell geführte Register und die Auskunft hieraus nur erfolgt,
 wenn sie von dem zuständigen Registergericht verfügt wurde oder nach §
 93 Satz 1 der Schiffsregisterordnung in Verbindung mit § 133 der
 Grundbuchordnung und nach den Unterabschnitten 4 und 5 zulässig ist.
-
 
 #### § 73 Ausführungsvorschriften
 
@@ -1542,10 +1432,7 @@ Schiffsregisterordnung in Verbindung mit § 134 Satz 2 der
 Grundbuchordnung geschieht. Sie können diese Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 74
 
@@ -1572,7 +1459,6 @@ Vordrucke, die nicht der von dem 1. November 1994 an geltenden Fassung
 der Anlagen 4 und 5 entsprechen, können weiterverwendet werden, wenn
 sie der bis dahin geltenden Fassung dieser Anlagen entsprechen und der
 Antragsteller auf die englische Übersetzung verzichtet.
-
 
 ### § 75
 
@@ -1616,11 +1502,9 @@ dieser Verordnung ergibt.
 Registerblätter mit Rücksicht auf die seit dem 18. Juli 1982 geltende
 Fassung der Anlagen 1 bis 3 zu dieser Verordnung nicht geboten.
 
-
 ### § 76 (weggefallen)
 
 -
-
 
 ### § 77
 
@@ -1629,11 +1513,9 @@ Schiffsregister nachgetragen, ist ein neues Schiffszertifikat oder ein
 neuer Schiffsbrief auszustellen. Darin ist nur der zur Zeit seiner
 Ausstellung gültige Inhalt des Schiffsregisters aufzunehmen.
 
-
 ### § 78 (weggefallen)
 
 -
-
 
 ### § 79
 
@@ -1642,7 +1524,6 @@ Erneuerung in die Klassifikationsurkunde eingetragen worden, so sind
 auf Antrag diese Eintragungen neben der Eintragung des Jahres des
 Stapellaufs im Schiffsregister und im Schiffszertifikat oder im
 Schiffsbrief zu vermerken.
-
 
 ### § 80
 
@@ -1663,7 +1544,6 @@ es erforderlich ist, um den Inhalt eines noch fortgeführten
 Registerblattes aus der Zeit vor dem 3. Oktober 1990 zutreffend
 wiederzugeben.
 
-
 ### § 81
 
 § 29 Abs. 1 und § 53 Abs. 1 in der seit dem 24. Februar 1999 geltenden
@@ -1671,30 +1551,25 @@ Fassung sind auch auf Eintragungen anzuwenden, die vor diesem
 Zeitpunkt beantragt, aber zu diesem Zeitpunkt noch nicht vorgenommen
 worden sind.
 
-
 ### Anlage 1 (zu § 25)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3644 - 3645)
-
 
 ### Anlage 2 (zu § 32)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3646)
 
-
 ### Anlage 3 (zu § 49)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3647)
 
-
 ### Anlage 4 (zu § 37)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3648 - 3649)
-
 
 ### Anlage 4a (zu § 39a)
 
@@ -1968,20 +1843,15 @@ provisions):*
 *    *
     *
 
-
-
-
 ### Anlage 5 (zu § 42)
 
    (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3650 - 3651)
 
-
 ### Anlage 6 (zu § 44)
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1994, 3652)
-
 
 ### Anlage 6a (zu § 44)
 

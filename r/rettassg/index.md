@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 2.12.2007 I 2686
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. Abschnitt - Erlaubnis
-
-
 
 ### § 1
 
@@ -45,7 +41,6 @@ Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und
 Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von
 Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften
 eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -185,7 +180,6 @@ Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von
 Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften
 eine Gleichstellung ergibt.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -221,10 +215,7 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## II. Abschnitt - Ausbildung
-
-
 
 ### § 3
 
@@ -238,7 +229,6 @@ sowie kranke, verletzte und sonstige hilfsbedürftige Personen, auch
 soweit sie nicht Notfallpatienten sind, unter sachgerechter Betreuung
 zu befördern (Ausbildungsziel).
 
-
 ### § 4
 
 Der Lehrgang besteht aus mindestens 1.200 Stunden theoretischer und
@@ -246,7 +236,6 @@ praktischer Ausbildung und dauert, sofern er in Vollzeitform
 durchgeführt wird, zwölf Monate. Er wird von staatlich anerkannten
 Schulen für Rettungsassistenten durchgeführt und schließt mit der
 staatlichen Prüfung ab.
-
 
 ### § 5
 
@@ -258,10 +247,6 @@ Voraussetzung für den Zugang zum Lehrgang nach § 4 ist
 
 2.  der Hauptschulabschluß oder eine gleichwertige Schulbildung oder eine
     abgeschlossene Berufsausbildung.
-
-
-
-
 
 ### § 6
 
@@ -283,7 +268,6 @@ Auf die Dauer des Lehrgangs nach § 4 werden angerechnet
 Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt
 werden, soweit eine besondere Härte vorliegt und das Ausbildungsziel
 durch die Anrechnung nicht gefährdet wird.
-
 
 ### § 7
 
@@ -311,7 +295,6 @@ hinausgehende Zeit nachzuholen. Dies gilt entsprechend, wenn eine nach
 § 8 Abs. 1 Satz 2 oder Abs. 5 verkürzte praktische Tätigkeit um mehr
 als 80 Stunden oder mehr als zwei Wochen unterbrochen wird. § 6
 letzter Satz gilt entsprechend.
-
 
 ### § 8
 
@@ -368,7 +351,6 @@ Tätigkeit in der Intensivpflege, in der Anaesthesie oder im
 Operationsdienst bis zu drei Monaten auf die praktische Tätigkeit nach
 § 7 Abs. 1 angerechnet werden.
 
-
 ### § 9
 
 Die zuständige Behörde hat auf Antrag eine Ausbildung in den in § 3
@@ -377,7 +359,6 @@ worden ist, im Umfang ihrer Gleichwertigkeit auf den Lehrgang nach § 4
 und auf die praktische Tätigkeit nach § 7 Abs. 1 entsprechend
 anzurechnen. Die staatliche Prüfung ist auch in diesen Fällen
 Voraussetzung für die Erteilung der Erlaubnis nach § 1.
-
 
 ### § 10
 
@@ -423,9 +404,7 @@ Nr. 1 in Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## III.1 Abschnitt - Erbringen von Dienstleistungen
-
 
 ### § 10a
 
@@ -521,7 +500,6 @@ Bescheinigungen darüber auszustellen, dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 10b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -537,7 +515,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 10c
 
 Rettungsassistentinnen und Rettungsassistenten im Sinne des § 10a
@@ -548,10 +525,7 @@ zuständige Behörde unverzüglich die zuständige Behörde des
 Niederlassungsmitgliedstaats dieses Dienstleistungserbringers hierüber
 zu unterrichten.
 
-
 ## III. Abschnitt - Zuständigkeiten
-
-
 
 ### § 11
 
@@ -582,10 +556,7 @@ erbracht wird oder erbracht worden ist. Die Bescheinigungen nach § 10a
 Abs. 4 stellt die zuständige Behörde des Landes aus, in dem der
 Antragsteller den Beruf des Rettungsassistenten ausübt.
 
-
 ## IV. Abschnitt - Bußgeldvorschrift
-
-
 
 ### § 12
 
@@ -594,10 +565,7 @@ Berufsbezeichnung "Rettungsassistentin" oder "Rettungsassistent"
 führt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## V. Abschnitt - Übergangsvorschriften
-
-
 
 ### § 13
 
@@ -618,15 +586,11 @@ Inkrafttreten dieses Gesetzes nach landesrechtlichen Vorschriften den
 Absolventen einer Ausbildung nach dem 520-Stunden-Programm
 gleichgestellt worden sind.
 
-
 ## VI. Abschnitt - Schlußvorschriften
-
-
 
 ### § 14 (weggefallen)
 
 -
-
 
 ### § 15
 

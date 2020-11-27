@@ -18,17 +18,13 @@ Fundstelle
 Geändert durch
 :   Art. 17 G v. 24.7.1995 I 962
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 4 des Soldatenbeteiligungsgesetzes (SBG) vom
 16\. Januar 1991 (BGBl. I S. 47) verordnet der Bundesminister der
 Verteidigung:
 
-
 ## Abschnitt 1 - Wahlbereiche, Wählergruppen
-
-
 
 ### § 1 Wahlbereiche, Wählergruppen
 
@@ -179,10 +175,7 @@ der verkehrsüblichen Straßenwegstrecke von Ortsmitte zu Ortsmitte.
 Wahlberechtigte an, wählen diese die Vertrauensperson und ihre beiden
 Stellvertreter bei dem unmittelbar übergeordneten Stab mit.
 
-
 ## Abschnitt 2 - Wahlverfahren
-
-
 
 ### § 2 Bestellung des Wahlvorstandes
 
@@ -213,19 +206,16 @@ Wahlberechtigten zur Wahl des Wahlvorstandes nach den Vorschriften des
 Absatzes 2 Satz 3 bis 7 ein, die spätestens zwei Wochen nach der
 erfolglosen Wahl stattfindet.
 
-
 ### § 3 Bereitstellen der Mittel
 
 Der Disziplinarvorgesetzte stellt die sächlichen Mittel für die
 Durchführung der Wahl zur Verfügung.
-
 
 ### § 4 Festsetzung des Wahltermins
 
 Ort und Zeit der Wahl setzt der Disziplinarvorgesetzte nach Anhörung
 des Wahlvorstandes unverzüglich fest. Sie soll vier bis sechs Wochen
 nach Bestellung des Wahlvorstandes stattfinden.
-
 
 ### § 5 Bekanntgabe zur Wahl
 
@@ -282,10 +272,6 @@ bekannt
 8.  ein Soldat, der verhindert ist, seine Stimme persönlich abzugeben, die
     Möglichkeit der Briefwahl hat.
 
-
-
-
-
 ### § 6 Wählerverzeichnis
 
 (1) Der Wahlvorstand stellt das Verzeichnis der Wahlberechtigten
@@ -296,7 +282,6 @@ laufenden zu halten und zu berichtigen.
 
 (2) Das Wählerverzeichnis oder eine Abschrift ist unverzüglich bis zum
 Abschluß der Wahl an geeigneter Stelle zur Einsicht auszulegen.
-
 
 ### § 7 Einspruch gegen das Wählerverzeichnis
 
@@ -309,7 +294,6 @@ Entscheidung ist dem Wahlberechtigten, der den Einspruch eingelegt
 hat, unverzüglich schriftlich mitzuteilen, spätestens jedoch einen Tag
 vor Beginn der Wahl. Ist der Einspruch begründet, so hat der
 Wahlvorstand das Wählerverzeichnis zu berichtigen.
-
 
 ### § 8 Wahlvorschläge
 
@@ -339,7 +323,6 @@ von zwei Wochen Wahlvorschläge einzureichen.
 
 (4) Verspätete Wahlvorschläge sind zurückzuweisen.
 
-
 ### § 9 Aufstellung der Bewerberliste
 
 (1) Nach Ablauf der Einreichungsfrist für Wahlvorschläge stellt der
@@ -359,14 +342,12 @@ alphabetischer Reihenfolge (Bewerberliste) zusammen und gibt sie durch
 Aushang spätestens fünf Tage vor Beginn der Wahl bis zu deren Abschluß
 bekannt.
 
-
 ### § 10 Einziger Wahlvorschlag
 
 Wird nur ein Bewerber vorgeschlagen, gilt er als gewählt. Ist nur ein
 gültiger Wahlvorschlag, der nicht mehr als drei Bewerber enthält,
 eingereicht worden, so gelten die darin aufgeführten Bewerber in der
 angegebenen Reihenfolge als gewählt.
-
 
 ### § 11 Stimmabgabe
 
@@ -385,7 +366,6 @@ Wahlgeheimnis gewahrt bleibt.
 (4) Zwei Mitglieder des Wahlvorstandes müssen während der Zeit
 anwesend sein, in der die Stimmen abgegeben werden können. Die
 Stimmabgabe ist im Wählerverzeichnis zu vermerken.
-
 
 ### § 12 Briefwahl
 
@@ -410,7 +390,6 @@ den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen zu nehmen;
 die Briefumschläge sind einen Monat nach Bekanntgabe des
 Wahlergebnisses, frühestens jedoch nach der Entscheidung über eine
 etwaige Anfechtung der Wahl, ungeöffnet zu vernichten.
-
 
 ### § 13 Vereinfachtes Wahlverfahren
 
@@ -453,7 +432,6 @@ gleiche Aussehen.
 Soldatenbeteiligungsgesetzes wird im vereinfachten Wahlverfahren nach
 den Absätzen 1 bis 3 durchgeführt.
 
-
 ### § 14 Verbot der Wahlbehinderung
 
 (1) Niemand darf die Wahl behindern, insbesondere darf kein
@@ -462,7 +440,6 @@ beschränkt werden.
 
 (2) Die Wahl darf nicht durch Versprechen von Vorteilen oder durch
 Androhung von Nachteilen beeinflußt werden.
-
 
 ### § 15 Feststellung des Wahlergebnisses
 
@@ -479,7 +456,6 @@ hat. Zu Stellvertretern sind in der Reihenfolge der erreichten
 Stimmenzahlen die beiden Soldaten gewählt, die die nächstniedrigeren
 Stimmenzahlen erhalten haben. Bei Stimmengleichheit entscheidet das
 höhere Lebensalter.
-
 
 ### § 16 Wahlniederschrift
 
@@ -501,7 +477,6 @@ die von seinen Mitgliedern zu unterzeichnen ist. Sie muß enthalten
 (2) Besondere Vorkommnisse bei der Wahl oder der Feststellung des
 Wahlergebnisses sind zu vermerken.
 
-
 ### § 17 Bekanntgabe der Gewählten, Aufbewahren der Wahlunterlagen
 
 (1) Der Wahlvorstand gibt die Namen der Vertrauensperson und der
@@ -513,7 +488,6 @@ mitgeteilt.
 Stimmzettel und Niederschrift) werden bis zum Ende der Amtszeit der
 Vertrauensperson aufbewahrt.
 
-
 ### § 18 Zuständiger Disziplinarvorgesetzter
 
 Zuständig für die Wahrnehmung der dem Disziplinarvorgesetzten in
@@ -522,10 +496,7 @@ unterste gemeinsame Disziplinarvorgesetzte der
 Wählergruppenangehörigen des Bereichs, für den die Vertrauensperson zu
 wählen ist.
 
-
 ## Abschnitt 3 - Schlußvorschriften
-
-
 
 ### § 19 Inkrafttreten
 

@@ -19,22 +19,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 325 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -47,23 +43,19 @@ Bundesministerium für Arbeit und Soziales werden ermächtigt, durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, das
 Verfahren zu regeln.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
 Rechtsverordnungen, die auf Grund der in Artikel 2 Nr. 4 enthaltenen
 Ermächtigungen ergehen, bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ## Art 6
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ## Art 7
 
@@ -71,7 +63,6 @@ Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 8
 

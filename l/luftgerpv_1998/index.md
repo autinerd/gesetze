@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 18.1.2010 I 11
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -55,7 +52,6 @@ Luftfahrtgerät bestimmte für das Muster geltende Bauvorschriften
 erfüllen müssen, kann in gesonderten, hierfür genehmigten
 Entwicklungsbetrieben erfolgen. Die Prüfung der Lufttüchtigkeit des
 Musters bleibt hiervon unberührt.
-
 
 ### § 2 Zuständige Stellen
 
@@ -90,7 +86,6 @@ genehmigen. Der genehmigte Betrieb hat die ihm mit der Genehmigung
 übertragenen Prüfaufgaben dem genehmigten Umfang und Verfahren
 entsprechend durchzuführen.
 
-
 ### § 3 Einzelstückprüfung
 
 (1) Der Nachweis der Lufttüchtigkeit eines Luftfahrtgeräts nach § 1
@@ -114,7 +109,6 @@ Kategorie "Beschränkte Sonderklasse" erteilt.
 (3) Der Absatz 2 gilt nicht für Luftsportgerät. Die Verkehrszulassung
 von Einzelstücken von Luftsportgerät wird in der Kategorie
 "Luftsportgerät" erteilt.
-
 
 ### § 4 Anerkennung der Musterprüfung anderer Stellen
 
@@ -147,7 +141,6 @@ Lufttüchtigkeitszeugnissen bleiben unberührt.
 (4) Die Absätze 1 bis 3 gelten entsprechend für bereits im Ausland
 geprüfte und zugelassene Änderungen des Musters.
 
-
 ### § 5 Anerkennung der Herstellungsnachweise anderer Stellen
 
 (1) Ist Luftfahrtgerät, dessen Muster nach der Luftverkehrs-
@@ -177,7 +170,6 @@ Verwaltungsverfahren eingehalten sind.
 (4) Die Bestimmungen internationaler Abkommen über die Anerkennung von
 Lufttüchtigkeitszeugnissen bleiben unberührt.
 
-
 ### § 6 Anerkennung der Instandhaltungsnachweise anderer Stellen
 
 (1) Ist die Instandhaltung von Luftfahrtgerät mit deutscher
@@ -206,7 +198,6 @@ Lufttüchtigkeitszeugnissen bleiben unberührt.
 (5) Auf Luftfahrtgerät, das von den zuständigen Stellen der Bundeswehr
 geprüft ist, sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-
 ### § 7 Genehmigung von Kleinbetrieben
 
 (1) Die nach § 2 Abs. 1 zuständige Stelle kann Kleinbetriebe, die
@@ -223,7 +214,6 @@ für ihre Erteilung nicht nur vorübergehend weggefallen sind, die
 erteilten Auflagen nicht eingehalten oder die Prüfungen nicht
 ordnungsgemäß durchgeführt werden.
 
-
 ### § 8 Behebung von Mängeln des Musters
 
 (1) Werden beim Betrieb des zugelassenen Luftfahrtgeräts Mängel des
@@ -237,10 +227,7 @@ der Musterprüfung genehmigte Betrieb technische Unterlagen zu
 erstellen und den Haltern und den für die Instandhaltung des
 Luftfahrtgeräts genehmigten Betrieben auf Verlangen zu übersenden.
 
-
 ## Zweiter Abschnitt - Entwicklung und Herstellung
-
-
 
 ### § 9 Musterprüfung, Stückprüfung oder Prüfungen in einem Qualitätsmanagement-System
 
@@ -290,7 +277,6 @@ Bescheinigungen von Personen vorzunehmen, die von dem genehmigten
 Herstellungsbetrieb ausgewählt und entsprechend ihrem Aufgabenbereich
 nach einem von dem Herstellungsbetrieb erstellten und vom Luftfahrt-
 Bundesamt akzeptierten Ausbildungsprogramm qualifiziert sind.
-
 
 ### § 10 Luftsportgerät
 
@@ -343,7 +329,6 @@ erforderlichen technischen, personellen und organisatorischen
 Voraussetzungen verfügt. § 18 Abs. 2 bis 4 und § 19 Abs. 5 gelten
 entsprechend.
 
-
 ### § 10a Nicht musterzulassungspflichtiges Luftfahrtgerät
 
 (1) Bei Luftfahrtgerät nach § 1 Abs. 4 der Luftverkehrs-Zulassungs-
@@ -364,14 +349,9 @@ Halter zur Verfügung zu stellen.
 (3) Als Hersteller gilt auch, wer Luftfahrtgerät nach Absatz 1 in die
 Bundesrepublik Deutschland einführt.
 
-
 ## Dritter Abschnitt - Instandhaltung
 
-
-
 ### 1. Unterabschnitt - Gewerblich verwendete Flugzeuge, Drehflügler und Luftschiffe
-
-
 
 #### § 11 Instandhaltungsprüfungen
 
@@ -404,7 +384,6 @@ des Luftfahrzeugs zu nehmen. Eine Ausfertigung der Bescheinigungen ist
 dem Luftfahrt-Bundesamt vorzulegen. Eine Ausfertigung der jeweils
 letzten Bescheinigung ist im Luftfahrzeug mitzuführen.
 
-
 #### § 12 Angeordnete Instandhaltung
 
 Das Luftfahrt-Bundesamt kann jederzeit eine Instandhaltung für ein
@@ -413,7 +392,6 @@ die seine Lufttüchtigkeit beeinträchtigen, oder begründete Zweifel an
 seiner Lufttüchtigkeit bestehen. Das gilt auch für die demselben
 Muster nachgebauten Luftfahrtgeräte, wenn zu vermuten ist, daß Mängel
 auch bei diesen bestehen.
-
 
 #### § 13 Instandhaltungsbetrieb
 
@@ -430,10 +408,7 @@ organisatorischen Voraussetzungen weitgehend vorhanden sind. Die
 Befugnis kann zurückgenommen werden, wenn die Voraussetzungen für ihre
 Erteilung nicht nur vorübergehend weggefallen sind.
 
-
 ### 2. Unterabschnitt - Übriges Luftfahrtgerät
-
-
 
 #### § 14 Nachprüfungen
 
@@ -470,7 +445,6 @@ verantwortlich. Er hat Mängel an dem Luftfahrtgerät oder an den
 Prüfanweisungen unverzüglich dem Hersteller zu melden. Die §§ 15 und
 18 bis 20 finden keine Anwendung.
 
-
 #### § 15 Nachprüfung in Zeitabständen
 
 (1) Bei dem zum Verkehr zugelassenen Luftfahrtgerät wird in
@@ -486,7 +460,6 @@ Luftverkehrsgesetzes einzelne Bauteile sowie Rettungs- und
 Schleppgeräte für Luftsportgeräte im Einzelfall oder allgemein von der
 Nachprüfpflicht befreien.
 
-
 #### § 16 Nachprüfung bei der Instandhaltung und Änderung des Luftsportgeräts
 
 (1) Bei der Wartung des Luftfahrtgeräts und kleinen Änderungen nach
@@ -499,7 +472,6 @@ Betriebsordnung für Luftfahrtgerät wird die Lufttüchtigkeit des
 Luftfahrtgeräts und die Übereinstimmung mit den im zugehörigen
 Gerätekennblatt enthaltenen Angaben nachgeprüft.
 
-
 #### § 17 Angeordnete Nachprüfung
 
 Die nach § 2 Abs. 1 zuständige Stelle kann jederzeit eine Nachprüfung
@@ -509,7 +481,6 @@ beeinträchtigen können, oder begründete Zweifel an der Lufttüchtigkeit
 des Luftfahrtgeräts bestehen. Das gleiche gilt für die demselben
 Muster nachgebauten Luftfahrtgeräte, wenn zu vermuten ist, daß Mängel
 auch bei diesen bestehen.
-
 
 #### § 18 Luftfahrttechnischer Betrieb
 
@@ -535,7 +506,6 @@ ordnungsgemäß durchgeführt werden.
 Widerruf in den Nachrichten für Luftfahrer, der Beauftragte nach § 31c
 des Luftverkehrsgesetzes in seiner jeweiligen Informationsschrift
 bekannt.
-
 
 #### § 19 Durchführung und Überwachung der Nachprüfungen
 
@@ -570,7 +540,6 @@ zuständigen Stelle zu gestatten, an der Nachprüfung teilzunehmen und
 jederzeit nachzuprüfen, ob die Voraussetzungen für die Genehmigung
 fortbestehen.
 
-
 #### § 20 Bescheinigung der Nachprüfungen
 
 (1) Die umfassende Nachprüfung nach § 15 Abs. 1, die Nachprüfung bei
@@ -585,10 +554,7 @@ zuständigen Stelle vorzulegen. Eine weitere Ausfertigung ist zu den
 Betriebsaufzeichnungen des Luftfahrzeugs zu nehmen. Eine Ausfertigung
 des jeweils letzten Nachprüfscheins ist im Luftfahrzeug mitzuführen.
 
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 21 Durchführungsvorschriften
 
@@ -598,7 +564,6 @@ Lufttüchtigkeit des Luftfahrtgeräts notwendig sind, durch
 Rechtsverordnung zu regeln. Soweit dabei die Flugsicherungsausrüstung
 betroffen wird, ist das Einvernehmen des Flugsicherungsunternehmens
 herbeizuführen.
-
 
 ### § 22 Ordnungswidrigkeiten
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 30 G v. 20.12.2011 I 2854
 
-
 ## § 1 Fördervoraussetzungen
 
 (1) Jugendfreiwilligendienste fördern die Bildungsfähigkeit der
@@ -33,7 +32,6 @@ im Sinne dieses Gesetzes verbunden sind.
 (2) Jugendfreiwilligendienste im Sinne des Gesetzes sind das
 freiwillige soziale Jahr (FSJ) und das freiwillige ökologische Jahr
 (FÖJ).
-
 
 ## § 2 Freiwillige
 
@@ -71,7 +69,6 @@ erhalten, die dieses Gesetz vorsieht, und neben dem
 Vorbereitungsdienst keine Tätigkeit gegen Entgelt ausüben sowie die
 Voraussetzungen des Absatzes 1 Nr. 2 und 4 erfüllen.
 
-
 ## § 3 Freiwilliges soziales Jahr
 
 (1) Das freiwillige soziale Jahr wird ganztägig als überwiegend
@@ -90,7 +87,6 @@ mit dem Ziel, soziale, kulturelle und interkulturelle Kompetenzen zu
 vermitteln und das Verantwortungsbewusstsein für das Gemeinwohl zu
 stärken.
 
-
 ## § 4 Freiwilliges ökologisches Jahr
 
 (1) Das freiwillige ökologische Jahr wird ganztägig als überwiegend
@@ -108,7 +104,6 @@ stärken. Im freiwilligen ökologischen Jahr sollen insbesondere der
 nachhaltige Umgang mit Natur und Umwelt gestärkt und Umweltbewusstsein
 entwickelt werden, um ein kompetentes Handeln für Natur und Umwelt zu
 fördern.
-
 
 ## § 5 Jugendfreiwilligendienste im Inland
 
@@ -147,7 +142,6 @@ Vereinbarung. Die Vereinbarung legt fest, in welcher Weise Träger und
 Einsatzstellen die Ziele des Dienstes, insbesondere soziale Kompetenz,
 Persönlichkeitsbildung sowie die Förderung der Bildungs- und
 Beschäftigungsfähigkeit der Freiwilligen gemeinsam verfolgen.
-
 
 ## § 6 Jugendfreiwilligendienst im Ausland
 
@@ -195,7 +189,6 @@ vereinbart und gestaltet werden. § 11 Abs. 2 findet keine Anwendung.
 Die Höchstdauer der Entsendung ist auf insgesamt zwölf Monate
 beschränkt.
 
-
 ## § 7 Kombinierter Jugendfreiwilligendienst
 
 Ein kombinierter Jugendfreiwilligendienst im In- und Ausland kann vom
@@ -209,14 +202,12 @@ Begleitung soll nach Maßgabe des § 6 erfolgen; Zwischenseminare können
 auch im Inland stattfinden. § 5 Abs. 2 gilt für kürzer oder länger als
 zwölf Monate dauernde Dienste entsprechend.
 
-
 ## § 8 Zeitliche Ausnahmen
 
 Der Jugendfreiwilligendienst nach den §§ 5 und 7 kann ausnahmsweise
 bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im
 Rahmen eines besonderen pädagogischen Konzepts begründet ist. Für den
 Auslandsdienst nach § 6 gilt dies nach Maßgabe des § 14.
-
 
 ## § 9 Förderung
 
@@ -288,10 +279,6 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen
 16. § 14c des Gesetzes über den Zivildienst der Kriegsdienstverweigerer
     (Anerkannte Kriegsdienstverweigerer).
 
-
-
-
-
 ## § 10 Träger
 
 (1) Als Träger des freiwilligen sozialen Jahres im Inland im Sinne
@@ -354,7 +341,6 @@ Gesetz nicht berührt.
 (5) Bestehende Zulassungen von Trägern nach dem Gesetz zur Förderung
 eines freiwilligen sozialen Jahres oder nach dem Gesetz zur Förderung
 eines freiwilligen ökologischen Jahres bleiben unberührt.
-
 
 ## § 11 Vereinbarung, Bescheinigung, Zeugnis
 
@@ -419,7 +405,6 @@ Leistungen und die Führung während der Dienstzeit zu erstrecken. Dabei
 sind in das Zeugnis berufsqualifizierende Merkmale des
 Jugendfreiwilligendienstes aufzunehmen.
 
-
 ## § 12 Datenschutz
 
 Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten
@@ -428,7 +413,6 @@ Förderung nach § 9 in Verbindung mit den dort genannten Vorschriften
 erforderlich ist. Die Daten sind nach Abwicklung des
 Jugendfreiwilligendienstes zu löschen.
 
-
 ## § 13 Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen
 
 Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne
@@ -436,7 +420,6 @@ dieses Gesetzes sind die Arbeitsschutzbestimmungen und das
 Bundesurlaubsgesetz entsprechend anzuwenden. Für Schäden bei der
 Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen
 und Arbeitnehmer.
-
 
 ## § 14 Entfallen der Höchstdauer für Auslandsentsendungen
 
@@ -448,7 +431,6 @@ erste Tag der Geltung der Verordnung (EG) Nr. 883/2004 maßgeblich. Für
 die Höchstdauer des Dienstes, für die Anzahl zusätzlicher Seminartage
 und die Verlängerungsmöglichkeit auf 24 Monate gelten ab dann die
 Regelungen für den Inlandsdienst entsprechend.
-
 
 ## § 15 Übergangsregelung
 

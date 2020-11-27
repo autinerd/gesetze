@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 25.4.1978 I 583
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Nr. 3 des Wassersicherstellungsgesetzes vom 24.
@@ -26,7 +25,6 @@ August 1965 (Bundesgesetzblatt I S. 1225), geändert durch das
 Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1 Anwendungsbereich
 
@@ -47,13 +45,11 @@ nach dem Wassersicherstellungsgesetz gebaut oder umgebaut werden. Sie
 gelten nicht für Brunnen und Quellfassungen der zentralen
 Wasserversorgung.
 
-
 ## § 2 Allgemeine Anforderungen
 
 Brunnen und Quellfassungen sind nach den allgemein anerkannten Regeln
 der Technik zu bauen oder umzubauen, soweit diese Verordnung nichts
 anderes bestimmt.
-
 
 ## § 3 Bauweise, Baustoffe und Bestandteile von Brunnen
 
@@ -85,7 +81,6 @@ eingesetzt, muß der Standplatz so gewählt oder hergerichtet werden,
 daß Mineralöl weder versickern noch in das abzugebende Wasser gelangen
 kann.
 
-
 ## § 4 Besondere Anforderungen für Trinkwasser-Notbrunnen
 
 (1) Neu zu bauende Brunnen, die zur Versorgung mit Trinkwasser
@@ -104,7 +99,6 @@ werden. Es sind Förderanlagen nach § 3 Abs. 3 vorzusehen.
 (2) Umzubauende Brunnen, die zur Versorgung mit Trinkwasser bestimmt
 sind, müssen mindestens eine tagwasserdichte Abdeckung sowie eine
 Förderanlage nach § 3 Abs. 3 haben.
-
 
 ## § 5 Festigkeitsnachweis
 
@@ -208,13 +202,6 @@ P = 1,7 x p(tief)o x --------------------- (kN/m)
         "p" (kN/qm) muß eine Verformung von 1% des Durchmessers ohne
         Überschreitung der zulässigen Spannungen aufgenommen werden können.
 
-
-
-
-
-
-
-
 ## § 6 Bauweise, Baustoffe und Bestandteile von Quellfassungen
 
 (1) Quellfassungen dürfen nur dann gebaut oder umgebaut werden, wenn
@@ -246,7 +233,6 @@ Netzanschluß der Anschluß für ein Notstromaggregat vorzusehen.
 befestigen, daß sie begehbar ist. Bei Pumpen mit Verbrennungsmotor muß
 der Standplatz so hergerichtet werden, daß Mineralöl weder versickern
 noch in das abzugebende Wasser gelangen kann.
-
 
 ## § 7 Inkrafttreten
 

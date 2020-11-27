@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 9.12.2010 I 1934
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -33,7 +31,6 @@ Zertifizierung, das Bescheinigungsverfahren, die Kontrolle nicht der
 Zertifizierung unterliegender Erzeugnisse, die Verarbeitung, das
 Vermischen, die Behandlung und das Inverkehrbringen der der
 gemeinsamen Marktorganisation für Hopfen unterliegenden Erzeugnisse.
-
 
 ## § 2 Ermächtigungen
 
@@ -116,7 +113,6 @@ Zustimmung des Bundesrates zur Durchführung der in § 1 genannten
 Rechtsakte Bestimmungen über den Endtermin der Zertifizierung von
 Hopfen zu erlassen.
 
-
 ## § 3 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -146,7 +142,6 @@ Ordnungswidrigkeit nach Absatz 1 Nr. 2 geahndet werden können.
 Ordnungswidrigkeit nach Absatz 1 bezieht, können eingezogen werden. §
 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
 ## § 4 Übertragung von Ermächtigungen
 
 Soweit dieses Gesetz die Landesregierungen zum Erlaß von
@@ -154,11 +149,9 @@ Rechtsverordnungen ermächtigt, sind diese befugt, die Ermächtigung
 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu
 übertragen.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Inkrafttreten, Außerkrafttreten
 

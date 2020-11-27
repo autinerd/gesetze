@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 21.12.2010 I 2204
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Fördergrundsatz
 
@@ -45,7 +43,6 @@ der Bundesregierung finanzierte Förderung begabter Studierender durch
 die Begabtenförderungswerke, durch den Deutschen Akademischen
 Austauschdienst und durch die Stiftung Begabtenförderung berufliche
 Bildung bleibt unberührt.
-
 
 ## § 2 Bewerbung, Auswahl und regelmäßige Eignungs- und Leistungsprüfung
 
@@ -92,7 +89,6 @@ beliehen. Die Beliehene untersteht der Aufsicht der zuständigen
 obersten Landesbehörde. Die Beleihung endet mit dem Verlust der
 staatlichen Anerkennung.
 
-
 ## § 3 Auswahlkriterien
 
 Die Stipendien werden nach Begabung und Leistung vergeben. Neben den
@@ -101,7 +97,6 @@ sollen auch gesellschaftliches Engagement, die Bereitschaft,
 Verantwortung zu übernehmen oder besondere soziale, familiäre oder
 persönliche Umstände berücksichtigt werden, die sich beispielsweise
 aus der familiären Herkunft oder einem Migrationshintergrund ergeben.
-
 
 ## § 4 Ausschluss von Doppelförderung
 
@@ -124,7 +119,6 @@ Hochschulen sind zur Übermittlung der Daten verpflichtet. Die
 erhobenen Daten sind nach der Durchführung der Stichprobe zu
 vernichten.
 
-
 ## § 5 Umfang der Förderung
 
 (1) Die Höhe des Stipendiums beträgt monatlich 300 Euro. Ein höheres
@@ -140,7 +134,6 @@ abhängig gemacht werden.
 300 Euro als Einkommen bei Sozialleistungen unberücksichtigt. § 14 des
 Wohngeldgesetzes und § 21 des Wohnraumförderungsgesetzes sowie
 entsprechende landesrechtliche Vorschriften bleiben unberührt.
-
 
 ## § 6 Bewilligung und Förderungsdauer
 
@@ -170,7 +163,6 @@ ist möglich.
 abweichend von Absatz 3, während eines fachrichtungsbezogenen
 Auslandsaufenthalts gezahlt.
 
-
 ## § 7 Verlängerung der Förderungshöchstdauer; Beurlaubung
 
 (1) Verlängert sich die Studiendauer aus schwerwiegenden Gründen, wie
@@ -183,7 +175,6 @@ verlängert werden.
 nicht gezahlt. Bei Wiederaufnahme des Studiums im Anschluss an die
 Beurlaubung wird der Bewilligungszeitraum des Stipendiums auf Anzeige
 des Stipendiaten oder der Stipendiatin angepasst.
-
 
 ## § 8 Beendigung
 
@@ -208,7 +199,6 @@ Bewilligungszeitraums die Hochschule, endet das Stipendium mit Ablauf
 des Semesters, für welches das Stipendium nach § 6 Absatz 3 oder 4
 fortgezahlt wird.
 
-
 ## § 9 Widerruf
 
 Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger
@@ -219,7 +209,6 @@ Förderung erhält oder die Hochschule bei der Prüfung feststellt, dass
 die Eignungs- und Leistungsvoraussetzungen für das Stipendium nicht
 mehr fortbestehen. Ein rückwirkender Widerruf der Bewilligung ist
 insbesondere im Fall der Doppelförderung möglich.
-
 
 ## § 10 Mitwirkungspflichten
 
@@ -235,7 +224,6 @@ unverzüglich mitzuteilen.
 (3) Die Stipendiatinnen und Stipendiaten haben während des
 Förderzeitraums die von der Hochschule festzulegenden Eignungs- und
 Leistungsnachweise vorzulegen.
-
 
 ## § 11 Aufbringung der Mittel
 
@@ -262,7 +250,6 @@ haben.
 Studierenden einer Hochschule erhalten. Die Erreichung dieser
 Höchstgrenze erfolgt schrittweise.
 
-
 ## § 12 Beirat
 
 (1) Das Bundesministerium für Bildung und Forschung richtet einen
@@ -275,7 +262,6 @@ der an der Ausführung des Gesetzes beteiligten Landesbehörden, des
 deutschen Studentenwerkes e. V., der Hochschulen, der Studierenden,
 der privaten Mittelgeber und der Wissenschaft, der Arbeitgeber sowie
 der Arbeitnehmer für jeweils vier Jahre in den Beirat.
-
 
 ## § 13 Statistik
 
@@ -305,7 +291,6 @@ vergebenden Stelle.
 
 (4) Für die Durchführung der Statistik besteht Auskunftspflicht.
 Auskunftspflichtig sind die Hochschulen.
-
 
 ## § 14 Verordnungsermächtigung
 
@@ -353,7 +338,6 @@ im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung
 des Bundesrates die Einzelheiten zur Erreichung der Höchstgrenze nach
 § 11 Absatz 4 in einer Rechtsverordnung festzulegen.
 
-
 ## § 15 Evaluation
 
 Auf der Grundlage der Statistik nach § 13 prüft die Bundesregierung
@@ -361,7 +345,6 @@ nach Ablauf von vier Jahren, ob an allen Hochschulstandorten
 ausreichend private Mittel eingeworben werden können oder ob
 Ausgleichsmaßnahmen zu ergreifen sind. Über das Ergebnis ist dem
 Deutschen Bundestag und dem Bundesrat zu berichten.
-
 
 ## § 16 Inkrafttreten
 

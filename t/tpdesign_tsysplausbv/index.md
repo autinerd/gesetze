@@ -24,7 +24,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -34,9 +33,7 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## Teil 1 - Gemeinsame Vorschriften
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -52,11 +49,9 @@ Die Ausbildungsberufe
 werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
 anerkannt.
 
-
 ### § 2 Dauer der Berufsausbildung
 
 Die Ausbildungen dauern jeweils dreieinhalb Jahre.
-
 
 ### § 3 Struktur der Berufsausbildung
 
@@ -102,9 +97,7 @@ Die Ausbildungen dauern jeweils dreieinhalb Jahre.
 und fachrichtungsspezifischen Qualifikationen werden verteilt über die
 gesamte Ausbildungszeit vermittelt.
 
-
 ## Teil 2 - Vorschriften für den Ausbildungsberuf zum Technischen Produktdesigner und zur Technischen Produktdesignerin
-
 
 ### § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -233,10 +226,6 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach §
 
 8.  Kundenorientierung.
 
-
-
-
-
 ### § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -257,7 +246,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ### § 6 Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -277,7 +265,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ### § 7 Teil 1 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
@@ -328,10 +315,6 @@ Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die
     Erstellung des Prüfungsproduktes fünfeinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 ### § 8 Teil 2 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
@@ -492,10 +475,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 9 Gewichtungs- und Bestehensregelungen in der Fachrichtung Produktgestaltung und -konstruktion
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -566,7 +545,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### § 10 Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -586,7 +564,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ### § 11 Teil 1 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
@@ -637,10 +614,6 @@ Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die
     Erstellung des Prüfungsproduktes fünfeinhalb Stunden und für die
     schriftlich zu lösenden Aufgaben 90 Minuten.
-
-
-
-
 
 ### § 12 Teil 2 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
@@ -802,10 +775,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 13 Gewichtungs- und Bestehensregelungen in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -877,9 +846,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## Teil 3 - Vorschriften für den Ausbildungsberuf zum Technischen Systemplaner und zur Technischen Systemplanerin
-
 
 ### § 14 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -1029,10 +996,6 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach §
 
 8.  Kundenorientierung.
 
-
-
-
-
 ### § 15 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -1053,7 +1016,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ### § 16 Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -1073,7 +1035,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ### § 17 Teil 1 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
@@ -1124,10 +1085,6 @@ folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die
     Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich
     zu lösenden Aufgaben 120 Minuten.
-
-
-
-
 
 ### § 18 Teil 2 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
@@ -1294,10 +1251,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 19 Gewichtungs- und Bestehensregelungen in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1368,7 +1321,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### § 20 Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -1388,7 +1340,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 25 Prozent, Teil 2 der Abschlussprüfung mit 75
 Prozent gewichtet.
-
 
 ### § 21 Teil 1 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
@@ -1442,10 +1393,6 @@ folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die
     Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich
     zu lösenden Aufgaben 120 Minuten.
-
-
-
-
 
 ### § 22 Teil 2 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
@@ -1548,10 +1495,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 23 Gewichtungs- und Bestehensregelungen in der Fachrichtung Stahl- und Metallbautechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1622,7 +1565,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ### § 24 Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -1642,7 +1584,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent, Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ### § 25 Teil 1 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
@@ -1696,10 +1637,6 @@ folgende Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die
     Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich
     zu lösenden Aufgaben 120 Minuten.
-
-
-
-
 
 ### § 26 Teil 2 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
@@ -1847,10 +1784,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ### § 27 Gewichtungs- und Bestehensregelungen in der Fachrichtung Elektrotechnische Systeme
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -1921,9 +1854,7 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
-
 ## Teil 4 - Schlussvorschriften
-
 
 ### § 28 Bestehende Berufsausbildungsverhältnisse
 
@@ -1934,7 +1865,6 @@ können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach
 den Vorschriften dieser Verordnung fortgesetzt werden, wenn die
 Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung
 abgelegt wurde.
-
 
 ### § 29 Inkrafttreten, Außerkrafttreten
 
@@ -1949,7 +1879,6 @@ Produktdesigner/zur Technischen Produktdesignerin vom 24. Juni 2005
 (2) Diese Verordnung tritt am 31. Juli 2016 außer Kraft; die zu diesem
 Zeitpunkt bestehenden Berufsausbildungsverhältnisse werden nach den
 Vorschriften dieser Verordnung zu Ende geführt.
-
 
 ### Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
@@ -2865,13 +2794,6 @@ Fähigkeiten**
 
 
         d)  kulturelle Identitäten berücksichtigen
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
@@ -4644,13 +4566,6 @@ ausarbeiten
 
         c)  mit Kunden in englischer Sprache kommunizieren
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 14 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1244 - 1250)
@@ -5716,13 +5631,6 @@ Fähigkeiten**
 
 
         d)  kulturelle Identitäten berücksichtigen
-
-
-
-
-
-
-
 
 ### Anlage 4 (zu § 14 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 

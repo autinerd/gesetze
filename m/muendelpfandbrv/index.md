@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 35 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 1807 Abs. 1 Nr. 4 des Bürgerlichen Gesetzbuchs wird
 verordnet:
-
 
 ## § 1
 
@@ -68,14 +66,12 @@ verordnet:
 (2) Absatz 1 gilt nicht für Schuldverschreibungen, die auf
 ausländische Zahlungsmittel lauten.
 
-
 ## § 2
 
 Das Bundesministerium der Justiz kann im Einvernehmen mit dem
 Bundesministerium der Finanzen Ausnahmen bestimmen. Die Bestimmung ist
 im Bundesgesetzblatt bekanntzumachen. Sie wird mit der Bekanntmachung
 wirksam.
-
 
 ## Schlußformel
 

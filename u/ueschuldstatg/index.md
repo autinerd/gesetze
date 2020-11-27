@@ -15,17 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3083
 
-
 ## § 1 Art und Zweck
 
 Zur Darstellung und Bewertung der Situation überschuldeter privater
 Personen wird eine Bundesstatistik durchgeführt.
 
-
 ## § 2 Durchführung
 
 Die Daten werden vom Statistischen Bundesamt erhoben und aufbereitet.
-
 
 ## § 3 Erhebungseinheiten
 
@@ -50,15 +47,10 @@ Erhebungseinheiten sind
 4.  Personen, für die von den Schuldner- oder Insolvenzberatungsstellen
     nach den Nummern 1 bis 3 eine Beratung dokumentiert ist.
 
-
-
-
-
 ## § 4 Periodizität
 
 Die Erhebungen werden jährlich für das vorangegangene Kalenderjahr
 (Berichtsjahr) durchgeführt, erstmals für das Berichtsjahr 2011.
-
 
 ## § 5 Erhebungsmerkmale, Berichtszeitpunkte und -zeiträume
 
@@ -188,7 +180,6 @@ Angaben zu den Nummern 4, 22 und 23 werden für das Berichtsjahr und
 die Angaben zu den Nummern 7 bis 21 und 24 werden zu Beginn der
 Beratung erfasst.
 
-
 ## § 6 Hilfsmerkmale
 
 Hilfsmerkmale der Erhebung sind
@@ -216,7 +207,6 @@ Schuldner- oder Insolvenzberatungsstellen beendet ist und die
 entsprechenden Angaben für die Überschuldungsstatistik vom
 Statistischen Bundesamt abschließend aufbereitet und geprüft sind.
 
-
 ## § 7 Auskunftserteilung
 
 (1) Die Erteilung der Auskunft nach den §§ 5 und 6 durch die
@@ -231,7 +221,6 @@ in die Übermittlung ihrer Daten eingewilligt hat.
 (3) Die Auskunft soll dem Statistischen Bundesamt spätestens bis zum
 15\. Februar des auf das Berichtsjahr folgenden Kalenderjahres
 elektronisch erteilt werden.
-
 
 ## § 8 Übermittlung von Tabellen und Einzelangaben an oberste Bundes- oder Landesbehörden oder an Statistikstellen der Gemeinden oder Gemeindeverbände
 
@@ -253,7 +242,6 @@ personellen Trennung der Statistikstellen von den für
 nichtstatistische Aufgaben zuständigen Stellen der Gemeinden oder
 Gemeindeverbände, gewährleistet ist.
 
-
 ## § 9 Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember
@@ -270,7 +258,6 @@ Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember
 
 
 Der Bericht darf keine personenbezogenen Daten enthalten.
-
 
 ## § 10 Inkrafttreten
 

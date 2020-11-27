@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 311
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Absatz 3 des Bodenschätzungsgesetzes vom 20.
 Dezember 2007 (BGBl. I S. 3150, 3176) verordnet das Bundesministerium
 der Finanzen:
-
 
 ## § 1 Musterstücke
 
@@ -30,11 +28,9 @@ Bodenflächen sind die Musterstücke der Bodenschätzung (§ 6 Absatz 1
 des Bodenschätzungsgesetzes), die die Grundlage für die Bewertung der
 Vergleichsstücke auf dem Gebiet der Bundesrepublik Deutschland bilden.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1) Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 30. Juni 2011
 

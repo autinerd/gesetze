@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 108 G v. 21.6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes vom 2. April
@@ -26,7 +25,6 @@ Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes vom 2. April
 Dezember 1976 (BGBl. I S. 3574) eingefügt worden ist, wird im
 Einvernehmen mit dem Bundesminister für Ernährung, Landwirtschaft und
 Forsten verordnet:
-
 
 ## § 1
 
@@ -36,7 +34,6 @@ Pflanzen und wildlebender Tiere einschließlich ihrer
 Lebensgemeinschaften und Lebensstätten wird das Befahren des
 Naturschutzgebiets "Helgoländer Felssockel" mit Wasserfahrzeugen nach
 Maßgabe dieser Verordnung eingeschränkt.
-
 
 ## § 2
 
@@ -110,7 +107,6 @@ Dauer Befreiungen gewähren, wenn
 Eine Befreiung darf nach den Nummern 1 und 2 nur erteilt werden, wenn
 dies mit dem Schutzzweck der Verordnung vereinbar ist.
 
-
 ## § 3
 
 Die Verbote nach § 2 gelten nicht für
@@ -147,10 +143,6 @@ Die Verbote nach § 2 gelten nicht für
 
 6.  Fahrzeuge von Forschungsinstituten zu Forschungszwecken.
 
-
-
-
-
 ## § 4
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
@@ -162,16 +154,11 @@ entgegen
 
 2.  § 2 Abs. 1 Satz 2 in einem dort bezeichneten Gebiet ankert.
 
-
-
-
-
 ## § 5
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 58 des Bundeswasserstraßengesetzes auch im Land
 Berlin.
-
 
 ## § 6
 
@@ -180,11 +167,9 @@ Abschnitt A, Teil I, Nr. 11 der Bekanntmachung der Wasser- und
 Schiffahrtsdirektion Nord zur Seeschiffahrtstraßen-Ordnung vom 16.
 Januar 1984 (BAnz. S. 909) außer Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 506 (941)
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Unternehmen, die im Rahmen ihres
@@ -58,13 +57,6 @@ mit Postdienstleistungen und Telekommunikationsdiensten
 
 
     c)  von Bündnisverpflichtungen.
-
-
-
-
-
-
-
 
 ## § 2 Postsicherstellungspflicht; Postbevorrechtigte
 
@@ -119,7 +111,6 @@ Die Bescheinigung nach Satz 1 Nummer 6 verliert ihre Gültigkeit zehn
 Jahre nach Ausstellungsdatum, sofern auf der Bescheinigung nicht eine
 kürzere Geltungsdauer vermerkt ist.
 
-
 ## § 3 Umsetzung der Postbevorrechtigung
 
 Postbevorrechtigte haben Sendungen, die vorrangig befördert werden
@@ -128,7 +119,6 @@ genommenen Unternehmens zu kennzeichnen. Die Postbevorrechtigung ist
 bei der Einlieferung der Sendungen nachzuweisen; dazu haben
 Postbevorrechtigte nach § 2 Absatz 2 Satz 1 Nummer 6 die ihnen
 ausgestellte Bescheinigung vorzulegen.
-
 
 ## § 4 Unterstützung der Feldpost
 
@@ -142,7 +132,6 @@ Feldpostleitstelle der Bundeswehr auszutauschen. Die Bundeswehr kann
 mit Postunternehmen vereinbaren, dass und in welchem Umfang diese die
 Feldpost durch Fachpersonal sowie postspezifisches Ge- und
 Verbrauchsmaterial unterstützen.
-
 
 ## § 5 Telekommunikationssicherstellungspflicht
 
@@ -170,7 +159,6 @@ dass ihre Netze in der Lage sind, die von den
 Telekommunikationsunternehmen nach § 1 Absatz 1 Satz 1 Nummer 2 für
 ihre Aufgabenerfüllung nach diesem Gesetz geforderten
 Datenübertragungsraten aufrechtzuerhalten.
-
 
 ## § 6 Telekommunikationsbevorrechtigung
 
@@ -231,7 +219,6 @@ Die Bescheinigung nach Satz 1 Nummer 9 verliert ihre Gültigkeit zehn
 Jahre nach Ausstellungsdatum, sofern auf der Bescheinigung nicht eine
 kürzere Geltungsdauer vermerkt ist.
 
-
 ## § 7 Umsetzung der Telekommunikationsbevorrechtigung
 
 (1) Telekommunikationsbevorrechtigte haben ihrem
@@ -265,7 +252,6 @@ Notrufnummern 110 und 112; § 4 der Verordnung über Notrufverbindungen
 vom 6. März 2009 (BGBl. I S. 481) in der jeweils geltenden Fassung
 bleibt unberührt.
 
-
 ## § 8 Auskunfts- und Mitwirkungspflichten
 
 (1) Post- und Telekommunikationsunternehmen haben der
@@ -278,7 +264,6 @@ Bundesministeriums für Wirtschaft und Technologie in den Fällen des §
 1 Absatz 2 sowie im Rahmen von Vorsorgeplanungen und Übungen in
 Arbeitsstäben im Inland mitzuwirken sowie das hierfür erforderliche
 Fachpersonal abzustellen.
-
 
 ## § 9 Entgelte; Entschädigung
 
@@ -306,7 +291,6 @@ I S. 2449) geändert worden ist, in der jeweils geltenden Fassung. Die
 Entschädigung nach Satz 1 darf je Person und Tag den Betrag, der für
 einen achtstündigen Einsatz zu leisten ist, nicht überschreiten.
 
-
 ## § 10 Kontrolle und Durchsetzung von Verpflichtungen
 
 (1) Die Bundesnetzagentur kontrolliert die Erfüllung der
@@ -327,10 +311,6 @@ Verwaltungsvollstreckungsgesetzes Zwangsgelder wie folgt festsetzen:
 
 2.  bis zu 50 000 Euro zur Durchsetzung der Verpflichtungen nach Absatz 1
     Satz 3, den §§ 4 und 8 Absatz 1.
-
-
-
-
 
 ## § 11 Bußgeldvorschriften
 
@@ -392,7 +372,6 @@ geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
-
 
 ## § 12 Übergangsvorschriften
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 19.9.2005 I 2787
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet
@@ -57,7 +56,6 @@ Bundesberggesetzes zuletzt durch Artikel 149 der Verordnung vom 29.
 Oktober 2001 (BGBl. I S. 2785) geändert worden sind, jeweils in
 Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821):
-
 
 ## § 1 Kosten
 
@@ -119,18 +117,15 @@ Amtshandlung gehindert werden.
 Bruttoraumzahl erhoben, so sind die Angaben im amtlichen
 Schiffsmessbrief maßgebend.
 
-
 ## § 2 Auslagen
 
 Auslagen werden gesondert erhoben.
-
 
 ## § 3 Stundung, Niederschlagung und Erlass
 
 Für die Stundung, die Niederschlagung und den Erlass von Forderungen
 auf Zahlung von Gebühren, Auslagen und sonstigen Nebenleistungen
 gelten die Vorschriften der Bundeshaushaltsordnung.
-
 
 ## § 4 Gebührenermäßigung, Gebührenbefreiung
 
@@ -142,7 +137,6 @@ des Bundesberggesetzes und für die nachträgliche Änderung dieser
 Genehmigung kann aus Gründen der Billigkeit oder des öffentlichen
 Interesses Gebührenermäßigung und Auslagenermäßigung sowie
 Gebührenbefreiung und Auslagenbefreiung gewährt werden.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

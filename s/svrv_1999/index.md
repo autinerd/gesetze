@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 19 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des § 78 Satz 1 des Vierten Buches Sozialgesetzbuch -
@@ -39,10 +38,7 @@ Sozialgesetzbuch, und des § 54 Abs. 2 Satz 1 des Gesetzes über die
 Alterssicherung der Landwirte (Artikel 1 des Gesetzes vom 29. Juli
 1994, BGBl. I S. 1890), verordnet die Bundesregierung:
 
-
 ## Erster Abschnitt - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -63,10 +59,7 @@ Gebietskörperschaft abgestellt ist, und für Feuerwehr-Unfallkassen
 kann die Aufsichtsbehörde Ausnahmen von den Vorschriften der §§ 2 bis
 17, 19 und 20 zulassen.
 
-
 ## Zweiter Abschnitt - Zahlungsverkehr
-
-
 
 ### § 2 Abwicklung des Zahlungsverkehrs
 
@@ -93,7 +86,6 @@ der Zahlungsauftrag an das Geldinstitut durch einen Bediensteten
 erfolgt, der weder mit der Anordnung noch mit der Feststellung noch
 mit der Buchführung befaßt ist.
 
-
 ### § 3 Kassenordnung
 
 Der Vorstand des Versicherungsträgers hat zur Sicherheit des
@@ -105,7 +97,6 @@ zuständige Bundes- oder Landesverband oder die zuständige
 Bundesvereinigung in Abstimmung mit den für die Sozialversicherung
 zuständigen obersten Verwaltungsbehörden oder den von diesen
 bestimmten Stellen aufgestellt hat.
-
 
 ### § 4 Prüfungen der Kasse und der Buchführung
 
@@ -127,10 +118,7 @@ oder ein solcher vermutet wird, ist unverzüglich zu prüfen.
 Schäden von erheblichem finanziellem Umfang festgestellt, so ist die
 Aufsichtsbehörde zu unterrichten.
 
-
 ## Dritter Abschnitt - Belege
-
-
 
 ### § 5 Belegpflicht
 
@@ -138,7 +126,6 @@ Alle Buchungen müssen belegt sein; bei Eröffnungs- und
 Abschlußbuchungen kann von diesem Grundsatz abgewichen werden. Es ist
 sicherzustellen, daß eine nochmalige Verwendung von Belegen
 ausgeschlossen ist.
-
 
 ### § 6 Belege für Einzahlungen, Auszahlungen und Buchungen ohne Zahlungsvorgang
 
@@ -168,7 +155,6 @@ bestehen aus
 
 (3) Belege im Sinne der Absätze 1 und 2 können auch elektronisch
 erzeugte Dateien oder Datensätze sein.
-
 
 ### § 7 Zahlungsanordnung
 
@@ -203,7 +189,6 @@ Buchungsanordnung entsprechend.
 (6) Nähere Einzelheiten sind in allgemeinen Verwaltungsvorschriften zu
 regeln.
 
-
 ### § 8 Quittung
 
 (1) Über jede Einzahlung, die durch Übergabe von Zahlungsmitteln
@@ -218,7 +203,6 @@ Voraussetzungen zugelassen werden.
 (2) Über jede Auszahlung, die durch Übergabe von Zahlungsmitteln
 geleistet wird, ist eine Quittung zu verlangen.
 
-
 ### § 9 Feststellung der Belege
 
 (1) Belege bedürfen der sachlichen und rechnerischen Feststellung.
@@ -231,10 +215,7 @@ werden, soweit die Zahlungen auf Rechtsvorschriften beruhen.
 (3) Die Feststellung durch automatisierte Verfahren kann nach Maßgabe
 allgemeiner Verwaltungsvorschriften vorgenommen werden.
 
-
 ## Vierter Abschnitt - Buchführung und Rechnungslegung
-
-
 
 ### § 10 Grundsätze der Buchführung
 
@@ -249,7 +230,6 @@ Ordnung (Zeitbuch/Journal und Sachbuch/Konten) nachweisbar sein.
 Erstattungen mit Ausnahme von Rabatten und Skonti, soweit die
 Bestimmungen zu einzelnen Positionen des den Buchungen zugrunde zu
 legenden Kontenrahmens nichts anderes vorschreiben.
-
 
 ### § 11 Aktivierung und Bewertung
 
@@ -294,7 +274,6 @@ Bauwerks.
 Verkauf als außerordentlicher Aufwand oder Ertrag in Ansatz zu
 bringen.
 
-
 ### § 12 Rückstellungen
 
 (1) Für eine Verpflichtung aus einer Altersvorsorgezusage für
@@ -331,7 +310,6 @@ und deren Bundesvereinigungen können Rückstellungen, die zur
 periodengerechten Zuordnung von Aufwendungen erforderlich sind,
 gebildet werden.
 
-
 ### § 13 Führung der Bücher
 
 (1) Die gleichzeitige Eintragung in verschiedene Bücher ist zulässig,
@@ -342,7 +320,6 @@ technische Hilfsmittel verwendet werden.
 geführt, muß insbesondere sichergestellt werden, daß die Daten
 verfügbar sind und jederzeit innerhalb angemessener Frist lesbar
 gemacht und ausgedruckt werden können.
-
 
 ### § 14 Aufbewahrung
 
@@ -360,7 +337,6 @@ sichergestellt werden, daß die Daten während der Aufbewahrungsfrist
 verfügbar sind und jederzeit innerhalb angemessener Frist lesbar
 gemacht und ausgedruckt werden können.
 
-
 ### § 15 Tages- und Monatsabstimmung
 
 (1) Für jeden Tag, an dem Zahlungen angenommen oder geleistet worden
@@ -371,7 +347,6 @@ Zahlungsmittel handelt.
 
 (2) Das Sachbuch ist für jeden Monat mit den anderen Büchern
 abzustimmen.
-
 
 ### § 16 Bestandsverzeichnisse
 
@@ -389,14 +364,12 @@ Euro nicht überschreiten, kann nach Maßgabe allgemeiner
 Verwaltungsvorschriften von der Aufnahme in das Verzeichnis abgesehen
 werden.
 
-
 ### § 17 Einsatz der automatisierten Datenverarbeitung
 
 Der hauptamtliche Vertreter des Versicherungsträgers hat bei Einsatz
 der automatisierten Datenverarbeitung zur Sicherheit des Verfahrens
 eine Dienstanweisung zu erlassen. Die Grundsätze ordnungsmäßiger
 Datenverarbeitung sind zu beachten.
-
 
 ### § 18 Rechnungslegung
 
@@ -412,10 +385,7 @@ der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau haben
 ihrer Jahresrechnung einen Anhang nach § 29a der Verordnung über das
 Haushaltswesen in der Sozialversicherung beizufügen.
 
-
 ## Fünfter Abschnitt - Durchführung von Aufgaben durch Verbände und Dritte
-
-
 
 ### § 19 Durchführung von Aufgaben durch Dritte
 
@@ -431,14 +401,9 @@ Einhaltung dieser Verordnung durch den Dritten. Die Wahrnehmung der in
 Satz 1 genannten Aufgaben durch einen Dritten ist der Aufsichtsbehörde
 anzuzeigen.
 
-
 ### § 19a (weggefallen)
 
-
-
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 20 Ausnahmeregelungen zur Aktivierung und Bewertung
 
@@ -465,7 +430,6 @@ Abs. 6 als außerordentlicher Verlust in Ansatz zu bringen. Gleiches
 gilt, wenn am Jahresende der Kurswert der Wertpapiere unter den
 Anschaffungskosten liegt.
 
-
 ### § 20a Übergangsvorschriften zur Ersten Verordnung zur Änderung der Sozialversicherungs-Rechnungsverordnung
 
 § 16 Absatz 2 kann bis zum 31. Dezember 2010 mit der Maßgabe
@@ -474,13 +438,11 @@ die ohne Umsatzsteuer den Wert von 410 Euro nicht übersteigen, nach
 Maßgabe allgemeiner Verwaltungsvorschriften von der Aufnahme in das
 Verzeichnis abgesehen werden kann.
 
-
 ### § 20b Anwendungsbestimmung
 
 § 12 Absatz 1 Satz 5 und 6, § 12 Absatz 1a in der ab dem 14. Dezember
 2010 geltenden Fassung und § 18 Absatz 3 sind erstmals auf die
 Jahresrechnung für das Geschäftsjahr 2010 anzuwenden.
-
 
 ### § 21 Inkrafttreten, Außerkrafttreten
 
@@ -488,7 +450,6 @@ Jahresrechnung für das Geschäftsjahr 2010 anzuwenden.
 Abs. 1 Satz 2 tritt am 1. Januar 2002 in Kraft.
 
 (2)
-
 
 ### Schlußformel
 

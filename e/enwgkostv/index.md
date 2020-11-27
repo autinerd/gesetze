@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 10.10.2011 I 2084
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 91 Abs. 8 in Verbindung mit Abs. 3 Satz 1 und 2 des
@@ -32,19 +30,16 @@ und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
 ## § 1 Anwendungsbereich
 
 Die Bundesnetzagentur erhebt für kostenpflichtige Amtshandlungen nach
 dem Energiewirtschaftsgesetz Gebühren und Auslagen nach dieser
 Verordnung.
 
-
 ## § 2 Gebührenhöhe
 
 Die Höhe einer zu erhebenden Gebühr richtet sich nach dem
 Gebührenverzeichnis in der Anlage.
-
 
 ## § 3 Übergangsregelung
 
@@ -56,16 +51,13 @@ Gasnetzzugangsverordnung vom 25. Juli 2005 (BGBl. I S. 2210) findet
 die Anlage in der bis zum 27. Oktober 2011 geltenden Fassung
 Anwendung.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2) Gebührenverzeichnis
 

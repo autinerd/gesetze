@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 376 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 2 Buchstabe a, Nr. 4, 5 und 7, des
@@ -34,12 +33,10 @@ Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975
 Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## § 1
 
 Zur Sicherstellung der Elektrizitätsversorgung wird eine
 Lastverteilung für die elektrische Energie eingerichtet.
-
 
 ## § 2
 
@@ -53,10 +50,6 @@ Die Lastverteilung obliegt
 
 2.  dem Bundesministerium für Wirtschaft und Technologie als
     Bundeslastverteiler.
-
-
-
-
 
 ## § 3
 
@@ -82,10 +75,6 @@ besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
     Bereichslastverteilerstelle für elektrische Energie.
 
-
-
-
-
 ## § 4
 
 (1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage
@@ -95,7 +84,6 @@ Wirtschaft und Technologie übertragen.
 
 (2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung
 bestimmen sich nach Landesrecht.
-
 
 ## § 5
 
@@ -167,7 +155,6 @@ Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine
 Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem
 ursprünglichen Inhalt wieder auf.
 
-
 ## § 6
 
 Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
@@ -181,10 +168,6 @@ ursprünglichen Inhalt wieder auf.
 
 2.  die Elektrizitätsübergabestelle der von einer Verfügung nach § 5 Abs.
     1 Nr. 2 betroffenen Betriebsstätte eines Verbrauchers liegt.
-
-
-
-
 
 ## § 6a
 
@@ -212,7 +195,6 @@ Ehrenbeamtenverhältnisses regelt das Landesrecht.
 (4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der
 Lastverteilerstelle.
 
-
 ## § 7
 
 Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer
@@ -221,7 +203,6 @@ nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch
 eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet
 worden ist.
 
-
 ## § 8
 
 Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5
@@ -229,20 +210,17 @@ Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18
 des Wirtschaftssicherstellungsgesetzes, die nach dem
 Wirtschaftsstrafgesetz 1954 geahndet wird.
 
-
 ## § 9
 
 Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des
 Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die
 Verfügung nach § 5 erlassen hat.
 
-
 ## § 10
 
 Die Senate der Länder Bremen und Hamburg werden ermächtigt, die
 Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem
 besonderen Verwaltungsaufbau ihrer Länder anzupassen.
-
 
 ## § 11
 
@@ -254,7 +232,6 @@ angewandt werden, wenn es das Bundesministerium für Wirtschaft und
 Technologie durch Rechtsverordnung bestimmt.
 
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
-
 
 ## Anlage zu § 4 Abs. 1 Satz 1 der Elektrizitätslastverteilungs-Verordnung
 

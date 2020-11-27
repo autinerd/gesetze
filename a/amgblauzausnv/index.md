@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 721
 
-
 ## Eingangsformel
 
 Auf Grund des § 56b des Arzneimittelgesetzes in der Fassung der
 Bekanntmachung vom 12. Dezember 2005 (BGBl. I S. 3394) verordnet das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 im Einvernehmen mit dem Bundesministerium für Gesundheit:
-
 
 ## § 1
 
@@ -36,11 +34,9 @@ Tierarzt oder einer Tierärztin verschrieben, abgegeben oder angewendet
 werden, wenn in Deutschland ein für die zu behandelnde Tierart
 zugelassenes Arzneimittel nicht zur Verfügung steht.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

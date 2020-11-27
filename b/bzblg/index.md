@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates folgendes Gesetz
 beschlossen:
-
 
 ## § 1 Zweck und Anwendungsbereich des Gesetzes
 
@@ -37,7 +35,6 @@ hinsichtlich der Verwendbarkeit der Ottokraftstoffe vermieden werden.
 
 (2) Dieses Gesetz ist anzuwenden auf Ottokraftstoffe, die für
 Kraftfahrzeugmotore bestimmt sind.
-
 
 ## § 2 Begrenzung und Verbot von Zusätzen mit Metallverbindungen
 
@@ -73,7 +70,6 @@ dem Bundesministerium für Wirtschaft und Technologie
 Verwaltungsvorschriften über die Grundsätze der Zulassung der Zusätze
 nach Satz 1.
 
-
 ## § 2a Verbraucherschutz
 
 (1) Wer im geschäftlichen Verkehr Ottokraftstoffe an den Verbraucher
@@ -95,7 +91,6 @@ Inhalt der Auszeichnung nach Absatz 1 Satz 1, der Unterrichtung nach
 Absatz 1 Satz 2 und der Bekanntgabe nach Absatz 2 zu bestimmen und
 festzulegen, auf welche noch im Betrieb befindlichen Kraftfahrzeuge
 sich die Verpflichtung nach Absatz 2 erstreckt.
-
 
 ## § 3 Ausnahmen
 
@@ -138,7 +133,6 @@ Finanzen und dem Bundesministerium für Wirtschaft und Technologie
 Verwaltungsvorschriften über die Grundsätze, die bei der Bewilligung
 der Ausnahmen zu beachten sind.
 
-
 ## § 3a Abgabe zum Ausgleich von Wettbewerbsvorteilen bei Ausnahmebewilligung
 
 (1) Für eine Ausnahmebewilligung, die für einen Zeitraum zwischen dem
@@ -177,7 +171,6 @@ dem Bundesministerium für Wirtschaft und Technologie
 Verwaltungsvorschriften über das bei der Festsetzung, Erhebung und
 Beitreibung der Abgabe anzuwendende Verfahren.
 
-
 ## § 4 Erklärung über die Beschaffenheit einzuführender Ottokraftstoffe
 
 (1) Bei der Einfuhr oder dem sonstigen Verbringen von Ottokraftstoffen
@@ -192,7 +185,6 @@ aufzubewahren.
 Zustimmung des Bundesrates vorzuschreiben, welche Angaben über die
 Beschaffenheit des Ottokraftstoffs die schriftliche Erklärung nach
 Absatz 1 enthalten muß.
-
 
 ## § 5 Überwachung
 
@@ -232,11 +224,9 @@ Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
 es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
 der für ihn tätigen Personen handelt.
 
-
 ## § 6
 
 -
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -297,7 +287,6 @@ fünfundzwanzigtausend Euro geahndet werden.
 1 Nr. 1 bezieht, können eingezogen werden. § 23 des Gesetzes über
 Ordnungswidrigkeiten ist anzuwenden.
 
-
 ## § 8 Einfuhr von Ottokraftstoffen zu Verteidigungszwecken
 
 Dieses Gesetz findet keine Anwendung auf die Einfuhr von
@@ -306,7 +295,6 @@ Gehalt an Bleiverbindungen, wenn die Einfuhr auf Grund entsprechender
 internationaler Vereinbarungen der Bundesrepublik Deutschland zu
 Verteidigungszwecken erforderlich ist.
 
-
 ## § 9 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -314,7 +302,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 10 Inkrafttreten
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 117
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
@@ -26,7 +25,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149) geändert worden
 ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -69,7 +67,6 @@ Aufgaben wahrgenommen werden:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -104,7 +101,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -183,7 +179,6 @@ gewichtet.
 (11) Die mündliche Prüfung nach Absatz 6 ist nur durchzuführen, wenn
 in den Prüfungsleistungen nach Absatz 4 mindestens ausreichende
 Leistungen erbracht wurden.
-
 
 ## § 4 Handlungsbereiche
 
@@ -389,10 +384,6 @@ können folgende Qualifikationsinhalte geprüft werden:
 
 5.  rechtliche Besonderheiten der Maklertätigkeit.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -403,7 +394,6 @@ vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
 von der mündlichen Prüfung nach § 3 Abs. 7 bis 11 ist nicht zulässig.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -419,7 +409,6 @@ sowie ein Zeugnis nach der Anlage 2 auszustellen. Im Falle der
 Freistellung nach § 5 sind Ort und Datum der anderweitig abgelegten
 Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -434,14 +423,12 @@ kann sich auch darauf richten, bestandene Prüfungsleistungen einmal zu
 wiederholen. Werden bestandene Prüfungsleistungen erneut geprüft, gilt
 in diesem Fall das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Ausbildereignung
 
 Wer die Prüfung zum Geprüften Immobilienfachwirt/zur Geprüften
 Immobilienfachwirtin nach dieser Verordnung bestanden hat, ist vom
 schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz
 erlassenen Ausbilder-Eignungsverordnung befreit.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -455,11 +442,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 30. Juni 2010 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3) Muster
 
@@ -468,8 +453,6 @@ Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -488,8 +471,6 @@ Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 *    *   hat am
 
     *   die Prüfung zum anerkannten Abschluss
-
-
 
 ## Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin
 
@@ -508,9 +489,6 @@ bestanden.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 6 Abs. 3) Muster
 
 ( Fundstelle: BGBl. I 2008, 122 )
@@ -518,8 +496,6 @@ bestanden.
 *    *
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -538,8 +514,6 @@ bestanden.
 *    *   hat am
 
     *   die Prüfung zum anerkannten Abschluss
-
-
 
 ## Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin
 

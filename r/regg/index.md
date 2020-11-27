@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 12.12.2007 I 2871
 
-
 ## § 1 Öffentliche Aufgabe, Zuständigkeit
 
 (1) Die Sicherstellung einer ausreichenden Bedienung der Bevölkerung
@@ -27,7 +26,6 @@ Aufgabe der Daseinsvorsorge.
 
 (2) Die Stellen, die diese Aufgabe wahrnehmen, werden durch
 Landesrecht bestimmt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -39,14 +37,12 @@ befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der
 Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50
 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt.
 
-
 ## § 3 Regionalisierung
 
 Zur Stärkung der Wirtschaftlichkeit der Verkehrsbedienung im
 öffentlichen Personennahverkehr ist anzustreben, die Zuständigkeiten
 für Planung, Organisation und Finanzierung des öffentlichen
 Personennahverkehrs zusammenzuführen. Das Nähere regeln die Länder.
-
 
 ## § 4 Gemeinwirtschaftliche Verkehrsleistungen
 
@@ -62,7 +58,6 @@ Verkehrsunternehmen vertraglich vereinbart oder einem
 Verkehrsunternehmen auferlegt werden. Zuständig für den Abschluß von
 Verträgen oder die Erteilung von Auflagen sind die nach Landesrecht
 bestimmten Stellen.
-
 
 ## § 5 Finanzierung und Verteilung
 
@@ -165,7 +160,6 @@ Monats überwiesen.
 (5) Die Festsetzung der Höhe des den Ländern ab dem Jahr 2015
 zustehenden Betrages erfolgt nach dem Verfahren des Artikels 106a Satz
 2 des Grundgesetzes.
-
 
 ## § 6 Verwendung
 

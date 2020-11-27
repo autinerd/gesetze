@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 17.6.2009 I 1337
 
-
 ## I. - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -58,17 +55,9 @@ Im Sinne dieser Verordnung liegen vor:
 
     den Ausbruch der Tuberkulose befürchten läßt.
 
-
-
-
-
 ## II. - Schutzmaßregeln
 
-
-
 ### 1. - Allgemeine Schutzmaßregeln
-
-
 
 #### § 2
 
@@ -76,7 +65,6 @@ Impfungen gegen die Tuberkulose des Rindes und Heilversuche sind
 verboten. Die zuständige Behörde kann Ausnahmen zur Durchführung
 wissenschaftlicher Versuche zulassen, wenn Belange der
 Seuchenbekämpfung nicht entgegenstehen.
-
 
 #### § 3
 
@@ -134,7 +122,6 @@ dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 Besitzer oder sein Vertreter verpflichtet, zur Durchführung dieser
 Untersuchungen die erforderliche Hilfe zu leisten.
 
-
 #### § 4
 
 Ist das Ergebnis der Tuberkulinprobe bei Rindern zweifelhaft (Nummer
@@ -146,7 +133,6 @@ mit Genehmigung der zuständigen Behörde entfernt werden; dies gilt
 nicht, wenn die Tiere unter amtlicher Kontrolle zur Schlachtung
 verbracht werden.
 
-
 #### § 5
 
 Werden in einem Rinderbestand Tuberkulinproben durchgeführt, so hat
@@ -154,10 +140,7 @@ der Besitzer, sofern nicht eine Untersuchung nach dieser Verordnung
 vorliegt, das Ergebnis dem zuständigen beamteten Tierarzt unverzüglich
 mitzuteilen.
 
-
 ### 2. - Schutzmaßregeln nach amtlicher Feststellung der Tuberkulose oder des Verdachts auf Tuberkulose
-
-
 
 #### § 6
 
@@ -200,7 +183,6 @@ folgender Vorschriften der Sperre:
 Nr. 1; die Maßregeln nach Absatz 1 Nr. 2 bis 4 können von der
 zuständigen Behörde angeordnet werden.
 
-
 #### § 7
 
 Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen
@@ -208,10 +190,7 @@ Tuberkulose festgestellt worden ist. Sie kann die Tötung verdächtiger
 Rinder anordnen, soweit dies zur Verhütung der Verbreitung der
 Tuberkulose erforderlich ist.
 
-
 ### 2a. - Schutzmaßregeln bei Ansteckungsverdacht
-
-
 
 #### § 7a
 
@@ -273,10 +252,7 @@ Beseitigung genehmigen.
 (3) Die zuständige Behörde kann bei den der behördlichen Beobachtung
 unterliegenden ansteckungsverdächtigen Rindern die Tötung anordnen.
 
-
 ### 3. - Desinfektion
-
-
 
 #### § 8
 
@@ -311,10 +287,7 @@ Absatz 2 Nr. 1 auf die Standplätze der Tiere und die diesen
 benachbarten sowie gegenüberliegenden Standplätze oder auf die
 Stallabteilungen beschränkt wird, in denen die Tiere gestanden haben.
 
-
 ### 4. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 9
 
@@ -357,25 +330,13 @@ erwiesen hat.
     amtlicher Überwachung durchgeführt und vom beamteten Tierarzt
     abgenommen worden ist.
 
-
-
-
-
 ## III. - (weggefallen)
-
-
 
 ### (XXXX) §§ 10 und 11 (weggefallen)
 
-
-
 ## IV. - Anerkannte Bestände
 
-
-
 ### (XXXX) §§ 12 und 13 (weggefallen)
-
-
 
 ### § 14
 
@@ -398,7 +359,6 @@ Verdacht auf Tuberkulose festgestellt worden, hat der Besitzer
 an, wenn zu befürchten ist, daß die Tuberkulose auf Rinder übertragen
 worden ist.
 
-
 ### § 15
 
 Der Besitzer eines Rinderbestandes hat dafür zu sorgen, daß die Rinder
@@ -414,14 +374,9 @@ seines Bestandes
 
 in Berührung kommen.
 
-
 ### § 16 (weggefallen)
 
-
-
 ## V. - Ordnungswidrigkeiten
-
-
 
 ### § 17
 
@@ -471,13 +426,7 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 8.  entgegen § 7a Abs. 2 Satz 1 ein Rind verbringt.
 
-
-
-
-
 ## VI. - Schlußvorschriften
-
-
 
 ### § 18
 
@@ -485,11 +434,9 @@ Ein Rinderbestand, der vor Inkrafttreten dieser Verordnung von der
 zuständigen Behörde amtlich als tuberkulosefrei anerkannt worden ist,
 gilt als anerkannter Bestand im Sinne dieser Verordnung.
 
-
 ### § 19
 
 (Inkrafttreten)
-
 
 ### Anlage (weggefallen)
 

@@ -123,12 +123,7 @@ Fundstelle
     Vermarktung von Produkten und zur Aufhebung des Beschlusses 93/465/EWG
     des Rates (ABl. L 218 vom 13.8.2008, S. 82).
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -201,7 +196,6 @@ dieses Gesetzes.
 Rechtsvorschriften entsprechende oder weitergehende Vorschriften
 vorgesehen sind. Satz 1 gilt nicht für die Vorschriften in Abschnitt 9
 dieses Gesetzes.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -462,12 +456,7 @@ Im Sinne dieses Gesetzes
 31. sind die für die Kontrolle der Außengrenzen zuständigen Behörden die
     Zollbehörden.
 
-
-
-
-
 ## Abschnitt 2 - Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten
-
 
 ### § 3 Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt
 
@@ -536,7 +525,6 @@ hergestellt ist. Bei einer Vorführung sind die erforderlichen
 Vorkehrungen zum Schutz der Sicherheit und Gesundheit von Personen zu
 treffen.
 
-
 ### § 4 Harmonisierte Normen
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3
@@ -559,7 +547,6 @@ Vollständigkeit und Schlüssigkeit; sie beteiligt den Ausschuss für
 Produktsicherheit. Sie leitet die Meldungen dem zuständigen
 Bundesressort zu.
 
-
 ### § 5 Normen und andere technische Spezifikationen
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3
@@ -581,7 +568,6 @@ Anforderungen nach § 3 Absatz 2 nicht vollständig entspricht, so
 unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin. Diese informiert den Ausschuss für
 Produktsicherheit.
-
 
 ### § 6 Zusätzliche Anforderungen an die Bereitstellung von Verbraucherprodukten auf dem Markt
 
@@ -666,7 +652,6 @@ dem er weiß oder auf Grund der ihm vorliegenden Informationen oder
 seiner Erfahrung wissen muss, dass es nicht den Anforderungen nach § 3
 entspricht. Absatz 4 gilt für den Händler entsprechend.
 
-
 ### § 7 CE-Kennzeichnung
 
 (1) Für die CE-Kennzeichnung gelten die allgemeinen Grundsätze nach
@@ -710,7 +695,6 @@ den Verkehr gebracht wird. Nach der CE-Kennzeichnung und
 gegebenenfalls nach der Kennnummer kann ein Piktogramm oder ein
 anderes Zeichen stehen, das auf ein besonderes Risiko oder eine
 besondere Verwendung hinweist.
-
 
 ### § 8 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -786,9 +770,7 @@ spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre
 Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert
 werden.
 
-
 ## Abschnitt 3 - Bestimmungen über die Befugnis erteilende Behörde
-
 
 ### § 9 Aufgaben der Befugnis erteilenden Behörde
 
@@ -815,7 +797,6 @@ festgestellter Mängel oder zur Verhütung künftiger Verstöße.
 Marktüberwachungsbehörde auf Anforderung die Informationen, die für
 deren Aufgabenerfüllung erforderlich sind.
 
-
 ### § 10 Anforderungen an die Befugnis erteilende Behörde
 
 (1) Die Länder haben die Befugnis erteilende Behörde so einzurichten,
@@ -834,7 +815,6 @@ Konformitätsbewertungsstelle tätig werden zu dürfen, betraut werden.
 (3) Der Befugnis erteilenden Behörde müssen kompetente Mitarbeiter in
 ausreichender Zahl zur Verfügung stehen, so dass sie ihre Aufgaben
 ordnungsgemäß wahrnehmen kann.
-
 
 ### § 11 Befugnisse der Befugnis erteilenden Behörde
 
@@ -859,9 +839,7 @@ strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über
 Ordnungswidrigkeiten aussetzen würde. Sie sind über ihr Recht zur
 Auskunftsverweigerung zu belehren.
 
-
 ## Abschnitt 4 - Notifizierung von Konformitätsbewertungsstellen
-
 
 ### § 12 Anträge auf Notifizierung
 
@@ -882,7 +860,6 @@ vorweisen, legt sie der Befugnis erteilenden Behörde als Nachweis alle
 Unterlagen vor, die erforderlich sind, um überprüfen, feststellen und
 regelmäßig überwachen zu können, ob sie die Anforderungen des § 13
 erfüllt.
-
 
 ### § 13 Anforderungen an die Konformitätsbewertungsstelle für ihre Notifizierung
 
@@ -1020,7 +997,6 @@ wenn ihre Tätigkeit beendet ist. Die von der
 Konformitätsbewertungsstelle zu beachtenden Bestimmungen zum Schutz
 personenbezogener Daten bleiben unberührt.
 
-
 ### § 14 Konformitätsvermutung
 
 (1) Weist eine Konformitätsbewertungsstelle durch eine Akkreditierung
@@ -1038,7 +1014,6 @@ Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die
 eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit; sie
 beteiligt den Ausschuss für Produktsicherheit. Sie leitet die
 Meldungen dem Bundesministerium für Arbeit und Soziales zu.
-
 
 ### § 15 Notifizierungsverfahren, Erteilung der Befugnis
 
@@ -1086,7 +1061,6 @@ Kommission auf Verlangen sämtliche Auskünfte über die Grundlage für
 die Notifizierung oder die Erhaltung der Kompetenz der betreffenden
 Stelle.
 
-
 ### § 16 Verpflichtungen der notifizierten Stelle
 
 (1) Die notifizierte Stelle führt die Konformitätsbewertung im
@@ -1120,7 +1094,6 @@ Konformitätsbewertungspersonal darüber informiert wird. Sie hat die
 von dieser Gruppe erarbeiteten Verwaltungsentscheidungen und Dokumente
 als allgemeine Leitlinie anzuwenden.
 
-
 ### § 17 Meldepflichten der notifizierten Stelle
 
 (1) Die notifizierte Stelle meldet der Befugnis erteilenden Behörde
@@ -1153,7 +1126,6 @@ abdecken, einschlägige Informationen über die negativen und auf
 Verlangen auch über die positiven Ergebnisse von
 Konformitätsbewertungen.
 
-
 ### § 18 Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
 
 (1) Vergibt die notifizierte Stelle bestimmte mit der
@@ -1177,7 +1149,6 @@ Zweigunternehmens und über die von ihm gemäß den Rechtsverordnungen
 nach § 8 Absatz 1 ausgeführten Arbeiten für die Befugnis erteilende
 Behörde bereit.
 
-
 ### § 19 Widerruf der erteilten Befugnis
 
 (1) Falls die Befugnis erteilende Behörde feststellt oder darüber
@@ -1194,9 +1165,7 @@ dieser Stelle von einer anderen notifizierten Stelle weiterbearbeitet
 und für die Befugnis erteilende Behörde und die
 Marktüberwachungsbehörden auf deren Verlangen bereitgehalten werden.
 
-
 ## Abschnitt 5 - GS-Zeichen
-
 
 ### § 20 Zuerkennung des GS-Zeichens
 
@@ -1209,7 +1178,6 @@ ist.
 Kennzeichnung versehen ist und die Anforderungen an diese CE-
 Kennzeichnung mit denen nach § 21 Absatz 1 mindestens gleichwertig
 sind.
-
 
 ### § 21 Pflichten der GS-Stelle
 
@@ -1264,7 +1232,6 @@ die Befugnis erteilende Behörde vom Entzug der Zuerkennung. Die GS-
 Stelle kann die Zuerkennung aussetzen, sofern begründete Zweifel an
 der rechtmäßigen Zuerkennung des GS-Zeichens bestehen.
 
-
 ### § 22 Pflichten des Herstellers und des Einführers
 
 (1) Der Hersteller hat dafür Sorge zu tragen, dass die von ihm
@@ -1294,7 +1261,6 @@ bringt; die Dokumentation muss mindestens das Datum der Prüfung nach
 Satz 1, den Namen der GS-Stelle, die die Bescheinigung nach § 21
 Absatz 2 ausgestellt hat, sowie die Nummer der Bescheinigung über die
 Zuerkennung des GS-Zeichens enthalten.
-
 
 ### § 23 GS-Stellen
 
@@ -1354,12 +1320,7 @@ In dem Verwaltungsabkommen nach Satz 2 müssen geregelt sein:
 
 3.  eine den Grundsätzen des § 9 entsprechende Überwachung der GS-Stelle.
 
-
-
-
-
 ## Abschnitt 6 - Marktüberwachung
-
 
 ### § 24 Zuständigkeiten und Zusammenarbeit
 
@@ -1388,7 +1349,6 @@ erforderlich sind, übermitteln.
 (3) Die für die Kontrolle der Außengrenzen zuständigen Behörden und
 die Marktüberwachungsbehörden schützen im Rahmen des geltenden Rechts
 Betriebsgeheimnisse und personenbezogene Daten.
-
 
 ### § 25 Aufgaben der Marktüberwachungsbehörden
 
@@ -1432,7 +1392,6 @@ hierfür erforderliche Informationen und Unterlagen bereit, führen
 geeignete Untersuchungen oder andere angemessene Maßnahmen durch und
 beteiligen sich an Untersuchungen, die in anderen Mitgliedstaaten
 eingeleitet wurden.
-
 
 ### § 26 Marktüberwachungsmaßnahmen
 
@@ -1523,7 +1482,6 @@ Wirtschaftsraum hergestellt wurde, setzt sie den betroffenen
 Wirtschaftsakteur nach Maßgabe des Artikels 19 Absatz 3 der Verordnung
 (EG) Nr. 765/2008 davon in Kenntnis.
 
-
 ### § 27 Adressaten der Marktüberwachungsmaßnahmen
 
 (1) Die Maßnahmen der Marktüberwachungsbehörde sind gegen den jeweils
@@ -1540,7 +1498,6 @@ dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde
 eine Maßnahme getroffen, ohne dass die betroffene Person angehört
 wurde, wird ihr so schnell wie möglich Gelegenheit gegeben, sich zu
 äußern. Die Maßnahme wird daraufhin umgehend überprüft.
-
 
 ### § 28 Betretensrechte und Befugnisse
 
@@ -1600,9 +1557,7 @@ strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über
 Ordnungswidrigkeiten aussetzen würde. Sie sind über ihr Recht zur
 Auskunftsverweigerung zu belehren.
 
-
 ## Abschnitt 7 - Informations- und Meldepflichten
-
 
 ### § 29 Unterstützungsverpflichtung, Meldeverfahren
 
@@ -1639,7 +1594,6 @@ Gesetzes hinausreichen.
 unterrichtet die Marktüberwachungsbehörden sowie die zuständigen
 Bundesressorts über Meldungen der Europäischen Kommission oder eines
 anderen Mitgliedstaates der Europäischen Union.
-
 
 ### § 30 Schnellinformationssystem RAPEX
 
@@ -1679,7 +1633,6 @@ Richtlinie 2001/95/EG angewendet. Die Bundesanstalt für Arbeitsschutz
 und Arbeitsmedizin unterrichtet die Marktüberwachungsbehörden sowie
 die zuständigen Bundesressorts über Meldungen, die ihr über das System
 zugehen.
-
 
 ### § 31 Veröffentlichung von Informationen
 
@@ -1761,12 +1714,7 @@ zuvor bekannt gegeben haben, sofern
 
 2.  der Betroffene dies beantragt.
 
-
-
-
-
 ## Abschnitt 8 - Besondere Vorschriften
-
 
 ### § 32 Aufgaben der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 
@@ -1801,7 +1749,6 @@ gewonnenen Erkenntnisse regelmäßig in dem von ihr betriebenen
 zentralen Produktsicherheitsportal. Die Vorschriften über die
 Erhebung, Verarbeitung und Nutzung personenbezogener Daten für Zwecke
 der wissenschaftlichen Forschung bleiben unberührt.
-
 
 ### § 33 Ausschuss für Produktsicherheit
 
@@ -1854,9 +1801,7 @@ gehört zu werden.
 (6) Die Geschäfte des Ausschusses führt die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin.
 
-
 ## Abschnitt 9 - Überwachungsbedürftige Anlagen
-
 
 ### § 34 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -1920,7 +1865,6 @@ Bauausführung zwei Jahre unterbrochen oder die Anlage während eines
 Zeitraumes von drei Jahren nicht betrieben hat. Die Fristen können aus
 wichtigem Grund von der Erlaubnisbehörde auf Antrag verlängert werden.
 
-
 ### § 35 Befugnisse der zuständigen Behörde
 
 (1) Die zuständige Behörde kann im Einzelfall die erforderlichen
@@ -1943,7 +1887,6 @@ wenn eine Anordnung nach anderen, die Einrichtung oder die
 Arbeitsstätte, in der die Anlage betrieben wird, betreffenden
 Vorschriften getroffen wird.
 
-
 ### § 36 Zutrittsrecht des Beauftragten der zugelassenen Überwachungsstelle
 
 Eigentümer von überwachungsbedürftigen Anlagen und Personen, die
@@ -1955,7 +1898,6 @@ hierfür benötigten Arbeitskräfte und Hilfsmittel bereitzustellen sowie
 die Angaben zu machen und die Unterlagen vorzulegen, die zur Erfüllung
 ihrer Aufgaben erforderlich sind. Das Grundrecht des Artikels 13 des
 Grundgesetzes wird insoweit eingeschränkt.
-
 
 ### § 37 Durchführung der Prüfung und Überwachung, Verordnungsermächtigung
 
@@ -2122,7 +2064,6 @@ Geschäftsräume zu betreten und zu besichtigen sowie die Vorlage und
 verlangen. Wenn sie nach den Sätzen 1 und 2 tätig werden, haben sie
 die Befugnis erteilende Behörde zu unterrichten.
 
-
 ### § 38 Aufsichtsbehörden
 
 (1) Die Aufsicht über die Ausführung der nach § 34 Absatz 1 erlassenen
@@ -2138,9 +2079,7 @@ Bundesministerium für mehrere Geschäftsbereiche der Bundesverwaltung
 ihm bestimmten Stelle übertragen. § 48 des Bundeswasserstraßengesetzes
 und § 4 des Bundesfernstraßengesetzes bleiben unberührt.
 
-
 ## Abschnitt 10 - Straf- und Bußgeldvorschriften
-
 
 ### § 39 Bußgeldvorschriften
 
@@ -2283,7 +2222,6 @@ Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit
 nach Absatz 1 Nummer 16 und 17 geahndet werden können.
 
-
 ### § 40 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -2292,7 +2230,6 @@ Buchstabe b, Nummer 9, 16 Buchstabe a oder Nummer 17 Buchstabe a
 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch
 eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen
 oder fremde Sachen von bedeutendem Wert gefährdet.
-
 
 ### Anlage Gestaltung des GS-Zeichens
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 15.3.2012 I 462
 
-
 ## Abschnitt I - Gemeinsame Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -36,13 +33,11 @@ bestimmt der Bundesminister des Innern durch Rechtsverordnung.
 (2) Dieses Gesetz gilt auch für die Polizeivollzugsbeamten beim
 Deutschen Bundestag.
 
-
 ### § 2 Anwendung beamtenrechtlicher Vorschriften
 
 Auf die Polizeivollzugsbeamten finden die für Bundesbeamte allgemein
 geltenden Vorschriften Anwendung, soweit in diesem Gesetz nichts
 anderes bestimmt ist.
-
 
 ### § 3 Laufbahnen
 
@@ -98,7 +93,6 @@ besonderen Vorschriften für die in Absatz 1 Nr. 1 und 2 genannten
 Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) zu
 erlassen.
 
-
 ### § 4 Polizeidienstunfähigkeit
 
 (1) Der Polizeivollzugsbeamte ist dienstunfähig, wenn er den
@@ -120,7 +114,6 @@ geschaffene Planstellen für Beamte des mittleren, des gehobenen und
 des höheren Dienstes beim Bund und bei den bundesunmittelbaren
 Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 vorbehalten werden.
-
 
 ### § 5
 
@@ -310,15 +303,11 @@ angehoben:
 
 (3) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
 
-
 ### § 6
 
 -
 
-
 ## Abschnitt II - Polizeivollzugsbeamte in der Bundespolizei
-
-
 
 ### § 7 Ausbildung
 
@@ -326,7 +315,6 @@ Die Polizeivollzugsbeamten erhalten eine Ausbildung, die sie für eine
 Verwendung im Polizeivollzugsdienst in der Bundespolizei und in den
 entsprechenden Laufbahnen des Polizeivollzugsdienstes der Länder
 befähigen soll.
-
 
 ### § 8 Versetzung
 
@@ -356,7 +344,6 @@ für die Feststellung ihres erfolgreichen Abschlusses. § 28 Abs. 3 Satz
 
 (3) Der Beamte ist vor einer Versetzung nach Absatz 1 oder 2 zu hören.
 
-
 ### § 9 Stellenvorbehalt
 
 Die Bundesregierung kann jährlich bestimmen, in welchem Umfange
@@ -365,7 +352,6 @@ Regel bis zur Besoldungsgruppe A 7 der Bundesbesoldungsordnung freie,
 frei werdende und neu geschaffene Planstellen für Beamte des mittleren
 Dienstes beim Bund und bei den bundesunmittelbaren Körperschaften,
 Anstalten und Stiftungen des öffentlichen Rechts vorbehalten werden.
-
 
 ### § 10 Wohnen in Gemeinschaftsunterkunft und Teilnahme an der Gemeinschaftsverpflegung
 
@@ -381,7 +367,6 @@ und Übungen zum Wohnen in einer Gemeinschaftsunterkunft und zur
 Teilnahme an einer Gemeinschaftsverpflegung vorübergehend verpflichtet
 werden.
 
-
 ### § 11 Freizeitausgleich bei Einsätzen und Übungen
 
 Bei Einsätzen und bei Übungen von Verbänden, Einheiten oder
@@ -395,7 +380,6 @@ bestimmte Dienststelle. Der Freizeitausgleich soll gewährt werden,
 sobald die dienstlichen Verhältnisse es zulassen, möglichst innerhalb
 von drei Monaten.
 
-
 ### § 12 Erstattung der Kosten eines Studiums
 
 Hat ein Polizeivollzugsbeamter, der sich zum Eintritt in die
@@ -408,7 +392,6 @@ er wegen Polizeidienstunfähigkeit entlassen wird, die nicht auf
 eigenes grobes Verschulden zurückzuführen ist. Auf die Erstattung kann
 ganz oder teilweise verzichtet werden, wenn sie für den Beamten eine
 besondere Härte bedeuten würde.
-
 
 ### § 12a Erstattung der Kosten einer Fortbildung
 
@@ -439,15 +422,11 @@ eigenes grobes Verschulden zurückzuführen ist.
 (4) Die Entscheidung trifft die oberste Dienstbehörde der ehemaligen
 Beamtin oder des ehemaligen Beamten.
 
-
 ## Abschnitt III - Übergangs- und Schlußvorschriften
-
-
 
 ### § 13 (weggefallen)
 
 -
-
 
 ### § 14 Verweisungen und Bezeichnungen in anderen Vorschriften
 
@@ -455,7 +434,6 @@ Wird in anderen Vorschriften auf Vorschriften und Bezeichnungen
 verwiesen, die durch dieses Gesetz geändert worden oder weggefallen
 sind, treten an ihre Stelle die Vorschriften und Bezeichnungen nach
 den geänderten Vorschriften.
-
 
 ### § 15 Verwaltungsvorschriften
 

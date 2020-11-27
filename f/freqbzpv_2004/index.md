@@ -26,19 +26,16 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 des Telekommunikationsgesetzes vom 22. Juni
 2004 (BGBl. I S. 1190) verordnet die Bundesregierung:
-
 
 ## § 1 Geltungsbereich
 
 Diese Verordnung regelt die Zuweisung von Frequenzbereichen an
 einzelne Funkdienste und an andere Anwendungen elektromagnetischer
 Wellen für die Bundesrepublik Deutschland.
-
 
 ## § 2 Inhalt des Frequenzbereichszuweisungsplans
 
@@ -69,7 +66,6 @@ Anwendungen elektromagnetischer Wellen.
 
 
 enthalten.
-
 
 ## § 3 Aufbau des Frequenzbereichszuweisungsplans
 
@@ -126,7 +122,6 @@ wann die Frequenzzuteilung an Funkstellen des primären Funkdienstes
 erfolgt. Sie können jedoch Schutz gegen Störungen durch Funkstellen
 des gleichen oder eines anderen sekundären Funkdienstes verlangen,
 deren Frequenzzuteilung später erfolgt.
-
 
 ## § 4 Begriffsbestimmungen im Frequenzbereichszuweisungsplan
 
@@ -399,19 +394,13 @@ Im Sinne dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 40. Wetterfunkdienst über Satelliten: Erderkundungsfunkdienst über
     Satelliten für Zwecke des Wetterdienstes.
 
-
-
-
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage Frequenzbereichszuweisungsplan mit Nutzungsbestimmungen
 

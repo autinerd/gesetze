@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 85
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Satz 2 des Fernsehsignalübertragungs-Gesetzes
@@ -25,7 +23,6 @@ des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S.
 705), dem Organisationserlaß vom 17. Dezember 1997 (BGBl. 1998 I S.
 68) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288)
 verordnet das Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Normen
 
@@ -60,7 +57,6 @@ c)  Kabel-Übertragungssysteme:
 aktuelle Fassung unter der Voraussetzung, daß die
 Abwärtskompatibilität gewährleistet ist. Dies schließt das Überführen
 der Normen von DIN ETS nach DIN EN ein.
-
 
 ## § 2 Inkrafttreten
 

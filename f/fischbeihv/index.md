@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 43 G v. 2.8.1994 I 2018
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 11, der §§ 9 und 10 Abs. 1 und der §§ 12
@@ -30,7 +29,6 @@ Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705) wird im
 Einvernehmen mit dem Bundesminister der Finanzen und dem
 Bundesminister für Wirtschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -38,13 +36,11 @@ Rechtsakte des Rates und der Kommission der Europäischen
 Gemeinschaften über die Gewährung von Beihilfen für die private
 Lagerhaltung bestimmter Fischereierzeugnisse.
 
-
 ## § 2 Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt).
-
 
 ## § 3 Abschluß von Verträgen
 
@@ -54,18 +50,15 @@ verpflichtet, muß von diesem auf Grund eines bei der Bundesanstalt
 gestellten Antrages mit vorgeschriebenem Inhalt abgeschlossen worden
 sein.
 
-
 ## § 4 Gewährung der Lagerbeihilfe
 
 Die Beihilfe ist vom Einlagerer bei der Bundesanstalt schriftlich zu
 beantragen. Der Beihilfebetrag wird durch Bescheid festgesetzt,
 Beihilfeforderungen sind unverzinslich.
 
-
 ## § 5 Sicherheitsleistung
 
 -
-
 
 ## § 6 Mitwirkungspflichten
 
@@ -87,11 +80,9 @@ Beihilfegewährung beziehen, sieben Jahre nach Gewährung der Beihilfe
 aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen
 Vorschriften bestehen.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
-
 
 ## Schlußformel
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2346
 
-
 ## § 1 Kontrollrahmen
 
 (1) Die Bundesregierung unterliegt hinsichtlich der Tätigkeit des
@@ -26,7 +25,6 @@ Parlamentarische Kontrollgremium.
 
 (2) Die Rechte des Deutschen Bundestages, seiner Ausschüsse und der
 Kommission nach dem Artikel 10-Gesetz bleiben unberührt.
-
 
 ## § 2 Mitgliedschaft
 
@@ -47,7 +45,6 @@ Für dieses Mitglied ist unverzüglich ein neues Mitglied zu wählen; das
 Gleiche gilt, wenn ein Mitglied aus dem Parlamentarischen
 Kontrollgremium ausscheidet.
 
-
 ## § 3 Zusammentritt
 
 (1) Das Parlamentarische Kontrollgremium tritt mindestens einmal im
@@ -61,7 +58,6 @@ das Ende einer Wahlperiode des Deutschen Bundestages hinaus so lange
 aus, bis der nachfolgende Deutsche Bundestag gemäß § 2 entschieden
 hat.
 
-
 ## § 4 Pflicht der Bundesregierung zur Unterrichtung
 
 (1) Die Bundesregierung unterrichtet das Parlamentarische
@@ -72,7 +68,6 @@ die Bundesregierung auch über sonstige Vorgänge zu berichten.
 
 (2) Die politische Verantwortung der Bundesregierung für die in § 1
 genannten Behörden bleibt unberührt.
-
 
 ## § 5 Befugnisse des Kontrollgremiums, Amtshilfe
 
@@ -99,7 +94,6 @@ Soweit personenbezogene Daten betroffen sind, dürfen diese nur für
 Zwecke des Parlamentarischen Kontrollgremiums übermittelt und genutzt
 werden.
 
-
 ## § 6 Umfang der Unterrichtungspflicht, Verweigerung der Unterrichtung
 
 (1) Die Verpflichtung der Bundesregierung nach den §§ 4 und 5
@@ -118,7 +112,6 @@ Bundesregierung (§ 2 Absatz 1 Satz 2 des
 Bundesverfassungsschutzgesetzes, § 1 Absatz 1 Satz 1 des MAD-Gesetzes,
 § 1 Absatz 1 Satz 1 des BND-Gesetzes) dies dem Parlamentarischen
 Kontrollgremium zu begründen.
-
 
 ## § 7 Beauftragung eines Sachverständigen
 
@@ -142,7 +135,6 @@ Ergebnisses erforderlich ist und die Betroffenen entweder in die
 Veröffentlichung eingewilligt haben oder das öffentliche Interesse an
 der Bekanntgabe gegenüber den Belangen der Betroffenen überwiegt.
 
-
 ## § 8 Eingaben
 
 (1) Angehörigen der Nachrichtendienste ist es gestattet, sich in
@@ -157,7 +149,6 @@ der Bundesregierung zur Stellungnahme.
 ein sie betreffendes Verhalten der in § 1 Absatz 1 genannten Behörden
 können dem Parlamentarischen Kontrollgremium zur Kenntnis gegeben
 werden.
-
 
 ## § 9 Mitberatung
 
@@ -176,7 +167,6 @@ den Vollzug der Wirtschaftspläne im Haushaltsjahr. Bei den Beratungen
 der Wirtschaftspläne der Dienste und deren Vollzug können die
 Mitglieder wechselseitig mitberatend an den Sitzungen beider Gremien
 teilnehmen.
-
 
 ## § 10 Geheime Beratungen, Bewertungen, Sondervoten
 
@@ -202,7 +192,6 @@ erlaubt, eine abweichende Bewertung (Sondervotum) zu veröffentlichen.
 Sondervoten eine Sachverhaltsdarstellung erforderlich ist, sind die
 Belange des Geheimschutzes zu beachten.
 
-
 ## § 11 Unterstützung der Mitglieder durch eigene Mitarbeiter
 
 (1) Die Mitglieder des Parlamentarischen Kontrollgremiums haben das
@@ -220,7 +209,6 @@ Zutritt zu den Sitzungen des Kontrollgremiums. Das Gremium kann im
 Einzelfall mit Mehrheit von zwei Dritteln seiner Mitglieder
 beschließen, dass Mitarbeiter der Fraktionen an bestimmten Sitzungen
 teilnehmen können. § 10 Absatz 1 gilt entsprechend.
-
 
 ## § 12 Personal- und Sachausstattung des Kontrollgremiums
 
@@ -240,7 +228,6 @@ Informationsrechte des Gremiums nach § 5 Auskunft zu ihren Fragen zu
 erteilen sowie Einsicht in die erforderlichen Akten und Dateien zu
 gewähren. § 6 Absatz 2 gilt entsprechend.
 
-
 ## § 13 Berichterstattung
 
 Das Parlamentarische Kontrollgremium erstattet dem Deutschen Bundestag
@@ -249,7 +236,6 @@ Mitte und am Ende jeder Wahlperiode. Dabei nimmt es auch dazu
 Stellung, ob die Bundesregierung gegenüber dem Gremium ihren
 Pflichten, insbesondere ihrer Unterrichtungspflicht zu Vorgängen von
 besonderer Bedeutung, nachgekommen ist.
-
 
 ## § 14 Gerichtliche Zuständigkeit
 

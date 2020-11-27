@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1953, Nr 134
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des §
 76 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August
 1952 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung:
-
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
 
@@ -40,13 +37,11 @@ Auslandsbevollmächtigte" den für das Vereinigte Königreich nach § 8
 Abs. 1 des Gesetzes bestellten Auslandsbevollmächtigten sowie einen
 für ihn nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter.
 
-
 ## § 2 Hinterlegung der Bonds
 
 Eine Hinterlegung von Sterlingbonds nach § 23 Abs. 2 des Gesetzes ist
 im Vereinigten Königreich von Großbritannien und Nordirland nur bei
 den für die Anleihe zuständigen Zahlungsagenten zulässig.
-
 
 ## § 3 Beweisführung
 
@@ -63,7 +58,6 @@ Gesetzes ist, und einen Anspruch auf Anerkennung des Bonds begründet.
 (2) Autorisierte Depotstellen im Sinne des Absatzes 1 sind die
 Personen, die nach dem Exchange Control Act, 1947, als solche zu
 handeln berechtigt sind.
-
 
 ## § 4 Gesetzliche Schiedsgerichte
 
@@ -116,7 +110,6 @@ sowie die Treuhänder und Zahlungsagenten von der Entscheidung.
 (9) Im übrigen bestimmt das Schiedsgericht sein Verfahren nach freiem
 Ermessen.
 
-
 ## § 5 Zustellungen
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können im
@@ -124,14 +117,12 @@ Vereinigten Königreich von Großbritannien und Nordirland gemäß § 70
 Abs. 2 des Gesetzes durch eingeschriebenen Brief gegen Rückschein
 bewirkt werden.
 
-
 ## § 6 Land Berlin
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt
 diese Rechtsverordnung auch im Land Berlin.
-
 
 ## § 7 Inkrafttreten
 

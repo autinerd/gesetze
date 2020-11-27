@@ -17,11 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 662
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## Art 1
 
@@ -38,7 +36,6 @@ Sachsen-Anhalt, dem Land Schleswig-Holstein und dem Freistaat
 Thüringen wird zugestimmt.
 
 (2) Der IT-Staatsvertrag wird nachstehend veröffentlicht.
-
 
 ## Art 2
 

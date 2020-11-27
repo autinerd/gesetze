@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 66 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 178 des Gesetzes über das Branntweinmonopol in der im
@@ -30,13 +29,11 @@ Branntweinmonopol, der durch Artikel 3 Abs. 1 Nr. 1 des Gesetzes vom
 Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
 ## § 1 Betriebsjahr
 
 Das Betriebsjahr umfaßt den Zeitraum vom 1. Oktober bis zum 30.
 September des folgenden Jahres. Das Gleiche gilt für das Geschäftsjahr
 der Bundesmonopolverwaltung.
-
 
 ## § 2 Branntweinübernahmegeld
 
@@ -54,23 +51,19 @@ aus dem gemeinsamen Einsatz von Personal oder der gemeinsamen
 Benutzung von Betriebsteilen oder -einrichtungen offenkundig nicht
 eingetreten sind.
 
-
 ## § 2a (weggefallen)
 
 -
 
-
 ## § 3 (weggefallen)
 
 -
-
 
 ## § 4 Bundesmonopolverwaltung
 
 Die Bundesmonopolverwaltung ist befugt, im Rahmen ihrer Zuständigkeit
 Verwaltungsvorschriften zur Auslegung und Anwendung des Gesetzes zu
 erlassen.
-
 
 ## § 5 Amtliche Aufsicht, Abfertigungen
 
@@ -101,7 +94,6 @@ er die Verlegung so zeitig zu beantragen, daß die Abfertigungsbeamten
 und gegebenenfalls die Bundesmonopolverwaltung rechtzeitig
 benachrichtigt werden können.
 
-
 ## § 6 Pflichten des Betriebsinhabers
 
 (1) Der Betriebsinhaber ist verpflichtet, Amtshandlungen im Betrieb
@@ -121,7 +113,6 @@ der Brennerei befindlich.
 amtlichen Bücher und Schriftstücke sorgfältig aufzubewahren und den
 mit der Steueraufsicht betrauten Amtsträgern stets zugänglich zu
 halten.
-
 
 ## § 7 Amtliche Verschlüsse
 
@@ -157,7 +148,6 @@ Verschlüsse selbständig lösen. Er hat hierzu aber, soweit möglich,
 einen Zeugen zuzuziehen und außerdem die Zollstelle sofort zu
 benachrichtigen.
 
-
 ## § 8 Brennrechtsgeltung
 
 Ab dem Betriebsjahr 2006/07 werden die Brennrechtsgeltungen wie folgt
@@ -171,14 +161,9 @@ angepasst:
     anderem Getreide als ausschließlich Korn werden Brennrechte für die
     Herstellung von Branntwein aus Kartoffeln und Getreide.
 
-
-
-
-
 ## § 8a (weggefallen)
 
 -
-
 
 ## § 9 Monopolpflichtiger
 
@@ -197,7 +182,6 @@ sind. Dazu zählen nicht
 
 bei Wahrnehmung dieser Pflichten.
 
-
 ## § 10 Vergünstigungen
 
 (1) Die gesetzlich zulässigen Vergünstigungen werden nur auf Antrag,
@@ -215,7 +199,6 @@ unterliegenden Betriebes hinsichtlich der Einrichtung oder der
 Betriebsführung bewilligt sind, gehen bei einem Wechsel des Inhabers
 auf den Rechtsnachfolger über.
 
-
 ## § 11 Brennereiordnung
 
 Die Brennereiordnung (Anlage 1 zu den Grundbestimmungen zum Gesetz
@@ -226,11 +209,9 @@ Februar 1997 (BGBl. I S. 427), gilt mit der Überschrift
 „Brennereiordnung (Anlage zur Branntweinmonopolverordnung)” als Anlage
 zu dieser Verordnung fort.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage Brennereiordnung (Anlage zur Branntweinmonopolverordnung)
 

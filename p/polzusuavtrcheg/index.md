@@ -19,13 +19,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2001, 946
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -67,7 +64,6 @@ völkerrechtlichen Verträgen wird zugestimmt:
 
 (3) Die Verträge werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Es werden ermächtigt, durch Rechtsverordnung mit Zustimmung des
@@ -85,10 +81,6 @@ polizeiliche und justitielle Zusammenarbeit in Kraft zu setzen:
     Bundesministerium des Innern und dem Bundesministerium der Justiz zu
     Artikel 44 Abs. 3.
 
-
-
-
-
 ## Art 3
 
 Die Aufgaben nach Artikel 37 Abs. 3 und Artikel 39 Abs. 1 des
@@ -99,14 +91,12 @@ obersten Landesbehörden oder die von ihnen bestimmten Stellen wahr,
 sofern nicht besondere landesrechtliche Zuständigkeitsregelungen
 bestehen.
 
-
 ## Art 4
 
 In den Fällen des Artikels 38 Abs. 1 des Vertrages vom 27. April 1999
 zwischen der Bundesrepublik Deutschland und der Schweizerischen
 Eidgenossenschaft über die grenzüberschreitende polizeiliche und
 justitielle Zusammenarbeit ist die Vollstreckung unzulässig.
-
 
 ## Art 5
 
@@ -117,7 +107,6 @@ polizeiliche und justitielle Zusammenarbeit finden die Vorschriften
 des Vierten Teils des Gesetzes über die Internationale Rechtshilfe in
 Strafsachen Anwendung, soweit der Vertrag oder dieses Gesetz nichts
 anderes bestimmen.
-
 
 ## Art 6
 

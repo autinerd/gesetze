@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1513
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Mecklenburg-Vorpommern und dem Land Niedersachsen

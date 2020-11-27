@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1727
 
-
-
 ## I.
 
 Auf Grund des § 1 Abs. 5 Satz 2 des Postpersonalrechtsgesetzes vom 14.
@@ -34,11 +32,9 @@ unterstellten Beamten der Besoldungsgruppen A 1 bis A 13 (gehobener
 Dienst) übertragen. Wir behalten uns vor, diese Befugnisse im
 Einzelfall wieder an uns zu ziehen.
 
-
 ## II.
 
 Diese Anordnung tritt am 1. Juli 1999 in Kraft.
-
 
 ## Schlußformel
 

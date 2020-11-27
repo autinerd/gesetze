@@ -22,7 +22,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -34,12 +33,10 @@ mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bauwerksabdichter/Bauwerksabdichterin wird
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -50,7 +47,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -67,7 +63,6 @@ Berufsbildungsgesetzes befähigt wird, die  insbesondere selbständiges
 Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
 einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9
 und 10 nachzuweisen.
-
 
 ## § 4 Gliederung der Berufsausbildung
 
@@ -95,7 +90,6 @@ geeigneten betrieblichen Ausbildungsstätten zu vermitteln:
 
 (2) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -159,10 +153,6 @@ Fertigkeiten und Kenntnisse:
 
 17. Anfertigen von Bauberichten und Aufmaßskizzen, Qualitätskontrolle.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach der in der Anlage
@@ -175,12 +165,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -188,7 +176,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -247,7 +234,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung
 
@@ -412,13 +398,11 @@ der schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 worden sind.
 
-
 ## § 11 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Klebeabdichter sind
 nicht mehr anzuwenden.
-
 
 ## § 12 Übergangsregelung
 
@@ -427,11 +411,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
 

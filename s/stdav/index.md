@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3021
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 6 Satz 2 und 3 der Abgabenordnung in der
 Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003
 I S. 61) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -45,10 +42,6 @@ Ausfuhrabgaben im Sinne des Artikels 4 Nr. 10 und 11 des Zollkodexes
     und die Anpassungen der die Europäischen Union betreffenden Verträge
     vom 23. September 2003 (ABl. EU Nr. L 236 S. 762), in der jeweils
     geltenden Fassung.
-
-
-
-
 
 ## § 2 Maßnahmen zur Wahrung des Steuergeheimnisses
 
@@ -83,7 +76,6 @@ der für die Speicherung verantwortlichen Stelle sollen nur
 eingerichtet werden, wenn es wegen der Vielzahl der Übermittlungen
 oder wegen ihrer besonderen Eilbedürftigkeit unter Berücksichtigung
 der schutzwürdigen Interessen der Betroffenen angemessen ist.
-
 
 ## § 3 Erteilung der Abrufbefugnis
 
@@ -126,10 +118,6 @@ Die Erteilung einer Abrufbefugnis kommt in Betracht bei
     Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden
     zustehenden Rechte tätig sind.
 
-
-
-
-
 ## § 4 Umfang der Abrufbefugnis
 
 (1) Die Abrufbefugnis ist auf die Daten oder die Arten von Daten zu
@@ -142,7 +130,6 @@ Verhältnis zu dem angestrebten Zweck steht.
 (2) Die Abrufbefugnis ist zu befristen, wenn der Verwendungszweck
 zeitlich begrenzt ist. Sie ist unverzüglich zu widerrufen, wenn der
 Anlass für ihre Erteilung weggefallen ist.
-
 
 ## § 5 Prüfung der Abrufbefugnis
 
@@ -173,7 +160,6 @@ sperren. Der Inhaber darf die Ausweiskarte nicht weitergeben. Er hat
 sie unter Verschluss aufzubewahren, wenn er sie nicht zum Datenabruf
 verwendet.
 
-
 ## § 6 Aufzeichnung der Abrufe
 
 (1) Abrufe und Abrufversuche sind zur Prüfung der Zulässigkeit der
@@ -194,14 +180,12 @@ Abrufe verwendet werden.
 (4) Die Aufzeichnungen sind zwei Jahre aufzubewahren und danach
 unverzüglich zu löschen.
 
-
 ## § 7 Prüfung der Zulässigkeit der Abrufe
 
 Anhand der Aufzeichnungen ist zeitnah und in angemessenem Umfang zu
 prüfen, ob der Abruf nach § 30 Abs. 6 Satz 1 der Abgabenordnung und
 nach dieser Verordnung zulässig war. Unbeschadet des Satzes 1 können
 aufgezeichnete Abrufe anlassbezogen geprüft werden.
-
 
 ## § 8 Ergänzende Regelungen und Verfahrensdokumentation
 
@@ -266,7 +250,6 @@ Die Verfahrensdokumentation ist fortlaufend zu aktualisieren. Sie ist
 mindestens zwei Jahre über das Ende des Verfahrenseinsatzes hinaus
 aufzubewahren.
 
-
 ## § 9 Abrufe durch den Steuerpflichtigen
 
 Für Verfahren, die dem Steuerpflichtigen (§ 33 der Abgabenordnung) den
@@ -276,17 +259,14 @@ Steuerpflichtigen seinem gesetzlichen Vertreter, Vermögensverwalter,
 Verfügungsberechtigten, Bevollmächtigten oder Beistand eine
 Abrufberechtigung erteilt wird.
 
-
 ## § 10 Übergangsvorschrift
 
 Bestehende Abrufverfahren sind spätestens bis zum 31. Oktober 2008 so
 zu gestalten, dass sie den vorstehenden Regelungen entsprechen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 Abs. 3 G v. 26.3.2007 I 358
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften und Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -47,10 +44,6 @@ rückerstattungsrechtliche Ansprüche gegen
 4.  die Reichsvereinigung der Juden in Deutschland und den
     Auswanderungsfonds Böhmen und Mähren.
 
-
-
-
-
 ### § 2
 
 Rückerstattungsrechtliche Ansprüche im Sinne dieses Gesetzes sind
@@ -59,7 +52,6 @@ feststellbarer Vermögensgegenstände (§ 11 Nr. 1) oder nach den
 Vorschriften dieses Gesetzes Rückerstattungsberechtigten oder deren
 Rechtsnachfolgern zustehen und auf einen Geldbetrag oder auf
 Schadensersatz gerichtet sind.
-
 
 ### § 2a
 
@@ -98,7 +90,6 @@ Rechtsträger entzogen worden und nachweislich in den Geltungsbereich
 der in § 11 Nr. 1 Buchstaben b und c genannten Rechtsvorschriften
 gelangt sind.
 
-
 ### § 3
 
 Den rückerstattungsrechtlichen Ansprüchen gegen die in § 1 genannten
@@ -106,7 +97,6 @@ Rechtsträger werden rückerstattungsrechtliche Ansprüche
 gleichgestellt, die sich nur auf Grund von Vermögens- oder
 Aufgabennachfolge nach den in § 1 genannten Rechtsträgern gegen den
 Bund oder einen anderen öffentlichen Rechtsträger richten könnten.
-
 
 ### § 4
 
@@ -118,7 +108,6 @@ Vermögensgegenstände (§ 11 Nr. 1) gegebene Schadensersatzpflicht im
 Verhältnis zu dem Dritten nur diesen Rechtsträger. Ansprüche nach den
 Rechtsvorschriften zur Rückerstattung feststellbarer
 Vermögensgegenstände (§ 11 Nr. 1) bleiben unberührt.
-
 
 ### § 5
 
@@ -143,7 +132,6 @@ Gegenstände als in den Geltungsbereich der in § 11 Nr. 1 Buchstabe d
 genannten Rechtsvorschriften zur Rückerstattung feststellbarer
 Vermögensgegenstände gelangt.
 
-
 ### § 5a
 
 Sind feststellbare Vermögensgegenstände, die verlorengegangen sind,
@@ -161,7 +149,6 @@ Gebieten hatten, mit deren Regierungen die Bundesrepublik Deutschland
 am 8. Oktober 1964 diplomatische Beziehungen unterhält. § 45 Abs. 2
 findet entsprechende Anwendung.
 
-
 ### § 6
 
 Ist vor Inkrafttreten dieses Gesetzes über einen
@@ -169,7 +156,6 @@ rückerstattungsrechtlichen Anspruch (§§ 1, 3) ganz oder teilweise
 rechtskräftig entschieden worden oder eine gütliche Einigung zustande
 gekommen, so hat die Entscheidung oder die gütliche Einigung nur die
 in diesem Gesetz vorgesehene Wirkung.
-
 
 ### § 6a
 
@@ -180,12 +166,10 @@ oder vorsätzlich oder grob fahrlässig unrichtige oder irreführende
 Angaben über Grund oder Höhe des Anspruchs gemacht, veranlaßt oder
 zugelassen hat.
 
-
 ### § 7
 
 Auf Grund rückerstattungsrechtlicher Ansprüche (§§ 1, 3) können
 Leistungen nur nach Maßgabe dieses Gesetzes gefordert werden.
-
 
 ### § 7a
 
@@ -206,12 +190,10 @@ solchen Erbscheins maßgebend.
 einschließlich des vorausgegangenen Verfahrens ist gebühren- und
 auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
 
-
 ### § 8
 
 Rückerstattungsrechtliche Ansprüche (§§ 1, 3) können abgetreten,
 verpfändet oder gepfändet werden.
-
 
 ### § 9
 
@@ -220,7 +202,6 @@ die in § 1 genannten Rechtsträger durch den Bundesminister der
 Finanzen oder von ihm zu bestimmende nachgeordnete Behörden der
 Bundesfinanzverwaltung vertreten.
 
-
 ### § 10
 
 Soweit in einem Verfahren über rückerstattungsrechtliche Ansprüche (§§
@@ -228,7 +209,6 @@ Soweit in einem Verfahren über rückerstattungsrechtliche Ansprüche (§§
 oder verpflichtet wird, dem Berechtigten die Kosten des Verfahrens zu
 erstatten, richtet sich der Anspruch auf Kostenerstattung gegen den
 Bund.
-
 
 ### § 11
 
@@ -356,13 +336,7 @@ In diesem Gesetz werden bezeichnet
     Kalenderjahre 1949 bis 1951 (Hauptveranlagung 1949) vom 16. Januar
     1952 (Bundesgesetzbl. I S. 22).
 
-
-
-
-
 ## Zweiter Abschnitt - Neubegründete rückerstattungsrechtliche Ansprüche
-
-
 
 ### § 12
 
@@ -394,7 +368,6 @@ gütlichen Einigung im Rückerstattungsverfahren gleich.
 
 (4) Eine Schadensersatzpflicht der in § 1 genannten Rechtsträger nach
 Absatz 1 besteht gegenüber Nachfolgeorganisationen nicht.
-
 
 ### § 13
 
@@ -433,10 +406,7 @@ erhalten hat. Soweit diese Entschädigung in fremder Währung geleistet
 wurde, ist sie zu dem am 1. April 1956 gültigen Kurs auf den
 Schadensersatzbetrag anzurechnen.
 
-
 ## Dritter Abschnitt - Behandlung der nach diesem Gesetz zu erfüllenden rückerstattungsrechtlichen Ansprüche
-
-
 
 ### § 14
 
@@ -460,7 +430,6 @@ Deutschland und den Nachfolgeorganisationen oder ihren
 Rechtsnachfolgern geschlossenen Globalvereinbarungen fallen, finden
 die §§ 15 bis 26 keine Anwendung.
 
-
 ### § 15
 
 (1) Rückerstattungsrechtliche Ansprüche auf Zahlung eines
@@ -474,7 +443,6 @@ abgegolten.
 (3) Absatz 2 findet keine Anwendung auf rückerstattungsrechtliche
 Ansprüche, die sich auf Herausgabe des Reinertrags der Nutzungen
 richten.
-
 
 ### § 16
 
@@ -498,7 +466,6 @@ ermäßigt sich auf 10 vom Hundert, wenn Nutzungen oder sonstige
 geldwerte Vorteile entzogener Aktien oder sonstiger Beteiligungen
 entgangen sind.
 
-
 ### § 17
 
 (1) Läßt sich der Wiederbeschaffungswert des entzogenen
@@ -512,7 +479,6 @@ Schadensersatzbetrag.
 (2) § 16 Abs. 2 findet entsprechende Anwendung. Dies gilt nicht,
 soweit der Schadensersatzbetrag nach Absatz 1 sich aus den entgangenen
 Nutzungen oder Zinsen oder sonstigen geldwerten Vorteilen errechnet.
-
 
 ### § 18
 
@@ -529,7 +495,6 @@ Deutscher Mark festgesetzt worden, so erhöht sich der
 Schadensersatzbetrag um den in § 16 Abs. 2 Satz 2 oder in § 17 Abs. 2
 genannten Betrag.
 
-
 ### § 19
 
 Bei rückerstattungsrechtlichen Schadensersatzansprüchen auf Zahlung
@@ -539,7 +504,6 @@ Verhältnis 10:1 in Deutsche Mark umgerechnet werden. Die ab 1. April
 1956 zu zahlende Rente ist zu kapitalisieren. Der Kapitalwert der
 Rente ist nach den Vorschriften des Reichsbewertungsgesetzes zu
 errechnen.
-
 
 ### § 20
 
@@ -567,7 +531,6 @@ worden wäre.
 
 (3) § 16 Abs. 2 findet Anwendung.
 
-
 ### § 21
 
 (1) Bei der Bemessung des Schadensersatzbetrags nach § 20 ist diesem
@@ -591,7 +554,6 @@ nach dem Altsparergesetz nicht gewährt wird.
 (3) Absatz 1 und 2 finden auf die Entziehung eines Guthabens (§ 20
 Abs. 2) entsprechende Anwendung.
 
-
 ### § 22
 
 Hat der Berechtigte aus demselben Entziehungstatbestand gegen einen
@@ -604,7 +566,6 @@ sich jedoch den Betrag, den er auf Grund des einen Anspruchs erlangt,
 auf den Betrag, der ihm auf Grund des anderen Anspruchs zusteht,
 anrechnen lassen.
 
-
 ### § 23
 
 Steht dem rückerstattungsrechtlichen Anspruch (§§ 1, 3) ein
@@ -613,7 +574,6 @@ vermindert sich der rückerstattungsrechtliche Anspruch um den Wert des
 Gegenanspruchs am 1. April 1956; § 20 Abs. 1 zweiter Halbsatz findet
 sinngemäß Anwendung.
 
-
 ### § 24
 
 Steht ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) im Zeitpunkt
@@ -621,7 +581,6 @@ des Inkrafttretens dieses Gesetzes mehreren Personen zur gesamten Hand
 oder gemeinschaftlich nach Bruchteilen zu, so ist eine
 Auseinandersetzung der Gemeinschaft in Ansehung dieses Anspruchs
 ausgeschlossen. Eine entgegenstehende Vereinbarung ist nichtig.
-
 
 ### § 25
 
@@ -641,7 +600,6 @@ Gesetz nicht geltend gemacht werden, soweit eine Sonderabgabe im Sinne
 des Bundesentschädigungsgesetzes durch Barzahlung oder auf Grund einer
 Anweisung zur Zahlung entrichtet worden ist.
 
-
 ### § 26
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf
@@ -652,14 +610,9 @@ Beteiligung zu bewirken sind. Der Anspruch gilt auch dann als im
 ganzen geltend gemacht, wenn ein Berechtigter lediglich den auf ihn
 entfallenden Teil geltend macht.
 
-
 ## Vierter Abschnitt - Anmeldung von rückerstattungsrechtlichen Ansprüchen und weiteres Verfahren
 
-
-
 ### Erster Titel - Neubegründete Ansprüche
-
-
 
 #### § 27
 
@@ -679,7 +632,6 @@ hat.
 (4) Auf das Verfahren bei der Anmeldung und das weitere Verfahren
 finden die Rechtsvorschriften zur Rückerstattung feststellbarer
 Vermögensgegenstände (§ 11 Nr. 1 Buchstaben a, b und d) Anwendung.
-
 
 #### § 28
 
@@ -705,10 +657,7 @@ Berechtigten und der nach § 9 zuständigen Behörde dem Vorsitzenden der
 Restitutionskammer gemäß den in § 11 Nr. 1 Buchstabe c genannten
 Rechtsvorschriften zur Bestätigung vorgelegt wird.
 
-
 ### Zweiter Titel - Neueröffnung der Anmeldefristen
-
-
 
 #### § 29
 
@@ -744,7 +693,6 @@ gerichtlichen Entscheidung dem angemeldeten Anspruch nicht entgegen.
 
 (5) § 27 Abs. 2 bis 4 finden Anwendung.
 
-
 #### § 29a
 
 (1) Die Fristen des § 27 Abs. 2, § 28 Abs. 2 und § 29 Abs. 5 gelten
@@ -760,7 +708,6 @@ verlangt wird.
 nicht bis zum 8. Oktober 1965 im Rückerstattungsverfahren geltend
 gemacht wird. § 27 Abs. 4 und § 28 Abs. 4 finden entsprechende
 Anwendung.
-
 
 #### § 29b
 
@@ -795,10 +742,7 @@ gelangt sind.
 (5) Rechtsverordnungen nach den Absätzen 2 und 4 können nur bis zum
 31\. Dezember 1965 erlassen werden.
 
-
 ### Dritter Titel - Gemeinsame Vorschriften
-
-
 
 #### § 30
 
@@ -869,7 +813,6 @@ erkennbar sind, für die Ersatz verlangt wird; die Anmeldung gilt auch
 als fristgemäße Anmeldung nach den §§ 27, 29. Die Frist des Absatzes 4
 Satz 2 endet in diesem Falle nicht vor dem 31. März 1968.
 
-
 #### § 30a
 
 (1) Ist ein Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1,
@@ -885,7 +828,6 @@ Berechtigten über das zuständige Zentralanmeldeamt an die zuständige
 Wiedergutmachungsbehörde oder an das zuständige
 Wiedergutmachungsgericht 1. Instanz zu verweisen.
 
-
 #### § 30b
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) rechtswirksam
@@ -896,14 +838,9 @@ sind, für die Ersatz verlangt wird, so wird die Anmeldung unwirksam,
 soweit nicht bis 5. September 1970 die Beschreibung der einzelnen
 Gegenstände, für die Ersatz verlangt wird, nachgeholt worden ist.
 
-
 ## Fünfter Abschnitt - Zahlungspflicht der Bundesrepublik Deutschland
 
-
-
 ### Erster Titel - Lastentragung und Rangfolge der Ansprüche
-
-
 
 #### § 31
 
@@ -913,7 +850,6 @@ folgenden Vorschriften zu erfüllen.
 
 (2) Die sich aus der Verpflichtung nach Absatz 1 ergebenden Lasten
 trägt der Bund.
-
 
 #### § 32
 
@@ -944,17 +880,9 @@ nach den folgenden Vorschriften befriedigt.
     c)  ab 1. Januar 1967, wenn der Anspruch anderen als den in Buchstaben a
         und b genannten Personen zusteht.
 
-
-
-
-
-
-
-
 #### § 33
 
 -
-
 
 #### § 34
 
@@ -966,14 +894,12 @@ Hundert für jedes angefangene Vierteljahr.
 (2) Die Geltendmachung eines weiteren Verzugsschadens ist
 ausgeschlossen.
 
-
 #### § 35
 
 Die Vorschriften der §§ 32, 34 finden keine Anwendung auf die
 Befriedigung der in § 14 Abs. 3 genannten rückerstattungsrechtlichen
 Ansprüche (§§ 1, 3) der Nachfolgeorganisationen oder ihrer
 Rechtsnachfolger.
-
 
 #### § 36
 
@@ -985,7 +911,6 @@ gewährt worden sind. Die Anrechnung wird am 1. April 1956 wirksam; hat
 der Berechtigte Vorleistungen oder Darlehen nach dem 1. April 1956
 erhalten, so wird die Anrechnung am Tag der Zahlung wirksam.
 
-
 #### § 37
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) nach § 25
@@ -993,10 +918,7 @@ teilweise auf ein Land übergegangen, so werden die nach §§ 32, 34 zu
 leistenden Zahlungen bis zur Befriedigung des übergegangenen Anspruchs
 an das Land bewirkt.
 
-
 ### Zweiter Titel - Verfahren
-
-
 
 #### § 38
 
@@ -1009,7 +931,6 @@ gütliche Einigung als nach Maßgabe der §§ 15 bis 26 ergänzt oder
 abgeändert gilt.
 
 (2) (weggefallen)
-
 
 #### § 39
 
@@ -1062,7 +983,6 @@ abgeändert gilt.
 (2) Im Falle des § 38 Abs. 1 Satz 2 soll der Bescheid ferner enthalten
 die Gründe für die Abänderung oder Ergänzung gemäß § 14 Abs. 1.
 
-
 #### § 40
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen hat
@@ -1093,12 +1013,10 @@ Auszügen und Abschriften versagt werden.
 
 (6) Ein Recht auf Aushändigung der Akten haben nur Rechtsanwälte.
 
-
 #### § 41
 
 Der Bescheid ist dem Berechtigten zuzustellen. Zustellungen erfolgen
 nach den Vorschriften des Verwaltungszustellungsgesetzes.
-
 
 #### § 42
 
@@ -1134,12 +1052,10 @@ so tritt an seine Stelle das Landgericht, auf das seine Zuständigkeit
 feststellbarer Vermögensgegenstände (§ 11 Nr. 1) Anwendung. Ein
 Anwaltszwang besteht nicht.
 
-
 #### § 43
 
 Die Zahlung erfolgt unverzüglich nach Zustellung des Bescheids in Höhe
 der nach diesem Bescheid fälligen Beträge.
-
 
 #### § 43a
 
@@ -1170,10 +1086,7 @@ dem 8. Oktober 1964.
 
 (4) § 42 Abs. 3 bis 5 findet Anwendung.
 
-
 ## Sechster Abschnitt - Härteausgleich
-
-
 
 ### § 44
 
@@ -1194,7 +1107,6 @@ einen Betrag von 10 Millionen Deutsche Mark nicht übersteigen.
 (4) Anträge nach Absatz 1 sind bis zum 1. April 1959, Anträge nach
 Absatz 2 sind bis zum 8. Oktober 1965 bei dem Bundesamt für zentrale
 Dienste und offene Vermögensfragen zu stellen.
-
 
 ### § 44a
 
@@ -1288,10 +1200,7 @@ entsprechende Anwendung.
 (11) Die Durchführung der Bestimmungen der Absätze 1 bis 10 erfolgt im
 Rahmen der im jeweiligen Haushaltsplan ausgebrachten Mittel.
 
-
 ## Siebenter Abschnitt - Schlußvorschriften
-
-
 
 ### § 45
 
@@ -1305,7 +1214,6 @@ Regierungen die Bundesrepublik Deutschland keine diplomatischen
 Beziehungen unterhält, behandelt werden, als ob mit ihnen
 diplomatische Beziehungen unterhalten würden.
 
-
 ### § 46
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -1317,11 +1225,9 @@ Neuordnung des Geldwesens Bezug genommen ist, treten an die Stelle
 dieser Vorschriften in Berlin die dort geltenden entsprechenden
 Vorschriften.
 
-
 ### § 47
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ### § 48
 

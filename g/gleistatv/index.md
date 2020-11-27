@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   durch Art. 1 V v. 26.6.2006 I 1346
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 2 des Bundesgleichstellungsgesetzes vom 30.
 November 2001 (BGBl. I S. 3234) und des Artikels 35 des Gesetzes zur
 Änderung des Begriffs "Erziehungsurlaub" vom 30. November 2000 (BGBl.
 I S. 1638) verordnet die Bundesregierung:
-
 
 ## § 1 Erfassung der Daten
 
@@ -104,17 +102,12 @@ folgenden Erhebungsmerkmalen:
 4.  Einstellungen, Ernennungen, Übertragungen leitender Funktionen nach
     Absatz 1 Nr. 4 im Berichtszeitraum.
 
-
-
-
-
 ## § 2 Berichtszeitpunkt, Berichtszeitraum
 
 Die Erhebungsmerkmale nach § 1 Abs. 1 Nr. 1 bis 4 sind jährlich zum
 30\. Juni des Berichtsjahres, die Erhebungsmerkmale nach § 1 Abs. 1 Nr.
 5 bis 8 und Abs. 2 für den Zeitraum vom 1. Juli des Vorjahres bis zum
 30\. Juni des Berichtsjahres zu erfassen.
-
 
 ## § 3 Meldung und Aufbereitung der Daten
 
@@ -159,7 +152,6 @@ Bundesverwaltung an das Statistische Bundesamt.
 (4) Die Angaben nach Absatz 3 Nr. 2 sind freiwillig; im Übrigen
 besteht Auskunftspflicht.
 
-
 ## § 4 Elektronische Datenverarbeitung und Erhebungsvordrucke
 
 (1) Die Daten sollen auf automatisiert verarbeitbaren Datenträgern
@@ -174,11 +166,9 @@ den Anlagen zu dieser Verordnung entsprechen. Meldungen auf
 automatisiert verarbeitbaren Datenträgern müssen inhaltlich den
 Mustern in den Anlagen zu dieser Verordnung entsprechen.
 
-
 ## § 5 Sonderregelung
 
 Der Bundesnachrichtendienst ist von der Meldung der Daten ausgenommen.
-
 
 ## § 6 Übergangsregelung
 
@@ -187,11 +177,9 @@ abweichend von § 2 für das Berichtsjahr 2006 für den Zeitraum vom 1.
 Oktober 2005 bis 30. Juni 2006 erhoben. Dies gilt nicht für
 Betriebskrankenkassen.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 4 Abs. 2)
 

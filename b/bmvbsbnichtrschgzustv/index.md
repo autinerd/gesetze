@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2347
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 3 Halbsatz 2 des
@@ -26,7 +25,6 @@ in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S.
 602), der durch Artikel 1 Nr. 5 Buchstabe b des Gesetzes vom 26.
 Januar 1998 (BGBl. I S. 156, 340, 1999 I S. 1237) geändert worden ist,
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
-
 
 ## § 1
 
@@ -95,10 +93,6 @@ Bundesnichtraucherschutzgesetzes wird auf
     Ordnungswidrigkeiten übertragen, die in den Räumlichkeiten der
     Bundesstelle für Seeunfalluntersuchung begangen werden.
 
-
-
-
-
 ## § 2
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
@@ -113,10 +107,6 @@ Bundesnichtraucherschutzgesetzes, die in
 2.  Verkehrsmitteln nach § 2 Nr. 2 Buchstabe c des
     Bundesnichtraucherschutzgesetzes begangen werden, wird auf das
     Luftfahrt-Bundesamt übertragen.
-
-
-
-
 
 ## § 3
 

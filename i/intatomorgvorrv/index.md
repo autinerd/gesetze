@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1960, 1993 (2108)
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -28,7 +26,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 (Bundesgesetzbl. 1954 II S. 639) in der Fassung des Änderungsgesetzes
 vom 3. Juni 1957 (Bundesgesetzbl. II S. 469) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -46,7 +43,6 @@ Artikel VI § 18 Buchstabe a (ii) der Vereinbarung über die Vorrechte
 und Befreiungen der Internationalen Atomenergie-Organisation keine
 Anwendung.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -57,7 +53,6 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen in der Fassung des Änderungsgesetzes
 vom 3. Juni 1957 auch im Land Berlin.
-
 
 ## § 3
 

@@ -23,7 +23,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -33,18 +32,15 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf
 Personaldienstleistungskaufmann/Personaldienstleistungskauffrau wird
 nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -179,10 +175,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 3.  Anwenden einer Fremdsprache bei Fachaufgaben.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -202,7 +194,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -240,10 +231,6 @@ Personalsachbearbeitung bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -488,11 +475,9 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
 
@@ -1178,12 +1163,6 @@ Fähigkeiten**
 
 
         c)  einfache Auskünfte in einer Fremdsprache erteilen und einholen
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
 

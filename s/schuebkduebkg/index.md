@@ -29,7 +29,6 @@ Stand: Art. 1 ist gem. Art. 8 Abs. 1 Satz 1 am 24.7.1993 in Kraft getreten; Art.
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 Dem in Schengen am 19. Juni 1990 von der Bundesrepublik Deutschland
@@ -48,11 +47,9 @@ schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen wird
 zugestimmt. Das Übereinkommen, die Schlußakte, das Protokoll und die
 Erklärung werden nachstehend veröffentlicht.
 
-
 ## (XXXX) Art 2 bis 4
 
 -
-
 
 ## Art 5 Benachrichtigungspflicht und Nachholung der Auskunftserteilung bei Ausschreibungen zur verdeckten Registrierung
 
@@ -85,7 +82,6 @@ Zusammenwirken mit der Stelle, die die Ausschreibung veranlaßt hat,
 spätestens zum vorgesehenen Zeitpunkt der Löschung im nationalen Teil
 des Schengener Informationssystems zu prüfen.
 
-
 ## Art 6
 
 Zuständige Behörden im Rahmen des Schengener
@@ -97,21 +93,15 @@ Durchführungsübereinkommens sind
 2.  das Bundesverwaltungsamt als zentrale Behörde für die Behandlung der
     Sichtvermerksanträge gemäß Artikel 101.
 
-
-
-
-
 ## Art 6a
 
 (weggefallen)
-
 
 ## Art 7 Anpassung der Landesgesetzgebung
 
 Die Länder haben ihr Melderecht der in Artikel 2 getroffenen Regelung
 innerhalb von sechs Monaten nach Inkrafttreten dieses Gesetzes
 anzupassen.
-
 
 ## Art 8 Inkrafttreten
 

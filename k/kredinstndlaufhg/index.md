@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 1073
 
-
-
 ## § 1
 
 (1)
@@ -28,7 +26,6 @@ von Kreditinstituten ergebende Beschränkung, wenn sich das
 ausgründende Kreditinstitut mit seinen Nachfolgeinstituten oder mit
 einem durch Vereinigung seiner Nachfolgeinstitute gebildeten
 Kreditinstitut vereinigt.
-
 
 ## § 2
 
@@ -61,10 +58,6 @@ gilt § 3 dieses Gesetzes.
     Niederlassungen in den drei in § 1 Abs. 1 des Gesetzes über den
     Niederlassungsbereich von Kreditinstituten genannten Bezirken
     unterhalten hat.
-
-
-
-
 
 ## § 3
 
@@ -100,7 +93,6 @@ Nachfolgeinstitute desselben ausgründenden Kreditinstituts, die ihren
 Sitz im Bundesgebiet haben, innerhalb von zwei Jahren seit dem
 Inkrafttreten dieses Gesetzes durchgeführt wird.
 
-
 ## § 4
 
 Vereinigung im Sinne dieses Gesetzes ist die Verschmelzung durch
@@ -113,13 +105,11 @@ Gewerkschaften. Eine Vereinigung von Nachfolgeinstituten liegt auch
 vor, wenn ein Nachfolgeinstitut die Mehrheit der Gesellschaftsanteile
 anderer Nachfolgeinstitute erwirbt.
 
-
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 6
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 20.5.2008 I 922
 
-
 ## § 1 Gebühren
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin erhebt für
@@ -72,11 +71,9 @@ Mitteilungsunterlagen elektronisch oder auf einem magnetischen
 Datenträger übermittelt werden, so kann die Gebühr um bis zu 500 Euro
 ermäßigt werden.
 
-
 ## § 2 (weggefallen)
 
 -
-
 
 ## § 3 Gebührenermäßigung
 
@@ -87,7 +84,6 @@ Interesse besteht und der Antragsteller einen den Gebühren und dem
 Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht
 erwarten kann.
 
-
 ## § 4 Widerruf und Rücknahme
 
 In den Fällen des Widerrufs oder der Rücknahme einer Amtshandlung
@@ -95,18 +91,15 @@ sowie der Ablehnung oder der Zurücknahme eines Antrags auf Vornahme
 einer Amtshandlung werden Kosten nach Maßgabe des § 15 des
 Verwaltungskostengesetzes erhoben.
 
-
 ## § 5 Widerspruchsverfahren
 
 Für das Widerspruchsverfahren gegen einen von der zuständigen
 Bundesbehörde auf Grund dieses Gesetzes erlassenen Verwaltungsakt
 werden Kosten nicht erhoben.
 
-
 ## § 6 (Inkrafttreten, Außerkrafttreten)
 
 -
-
 
 ## Anlage Anlage (zu § 1 Abs. 1) Gebührenverzeichnis
 

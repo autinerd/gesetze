@@ -23,10 +23,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 Abs. 18 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmung
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ Diese Verordnung gilt für die Einfuhr und die Durchfuhr von
 Lebensmitteln und, soweit dies ausdrücklich bestimmt ist, lebenden
 Tieren im Sinne des § 4 Absatz 1 Nummer 1 des Lebensmittel- und
 Futtermittelgesetzbuches.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -99,10 +95,7 @@ Im Sinne dieser Verordnung sind:
 Im Übrigen gelten die Begriffsbestimmungen der Lebensmittelhygiene-
 Verordnung sowie der Tierische Lebensmittel-Hygieneverordnung.
 
-
 ## Abschnitt 2 - Vorschriften für Lebensmittel tierischen Ursprungs und lebende Tiere
-
-
 
 ### § 3 Verfahren bei der Anzeige
 
@@ -114,7 +107,6 @@ Behörde eine spätere Anzeige noch als fristgerecht anerkennen, soweit
 dadurch die ordnungsgemäße Durchführung der Einfuhruntersuchung nach §
 7 nicht behindert wird.
 
-
 ### § 3a Vorlage von Schiffs- und Flugzeugmanifesten
 
 Wer als Verantwortlicher für ein Schiff oder Flugzeug mit diesem
@@ -125,7 +117,6 @@ Einhaltung des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 136/2004
 vorzulegen. Das Schiffs- oder Flugzeugmanifest ist in elektronischer
 Form vorzulegen, soweit die für die Grenzkontrollstelle zuständige
 Behörde dies verlangt.
-
 
 ### § 4 Lebende Tiere
 
@@ -154,7 +145,6 @@ Futtermittelgesetzbuches, die
 dürfen nicht eingeführt werden. Satz 1 Nummer 1 gilt entsprechend,
 wenn das Vorhandensein der Stoffe zu einem früheren Zeitpunkt im
 lebenden Tier festgestellt worden ist.
-
 
 ### § 5 Einfuhr
 
@@ -202,7 +192,6 @@ Drittländern nur eingeführt werden, wenn sie
 zuständigen Behörden im Benehmen mit den zuständigen
 Oberfinanzdirektionen zu bestimmen. Sie sind von einem amtlichen
 Tierarzt zu leiten.
-
 
 ### § 6 Zugelassene Drittländer und Betriebe, Bescheinigungen
 
@@ -376,10 +365,6 @@ eingeführt werden, wenn sie
     3 bis 6 der Verordnung (EG) Nr. 854/2004 genügt und nach Form und
     Inhalt dem Muster der Anlage 2a entspricht.
 
-
-
-
-
 ### § 7 Einfuhruntersuchung
 
 (1) Die für die Grenzkontrollstelle zuständige Behörde führt bei
@@ -427,7 +412,6 @@ das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz (Bundesministerium) den Rechtsakt im Bundesanzeiger
 bekannt gemacht hat. Das Bundesministerium macht auch Änderungen und
 die Aufhebung dieses Rechtsaktes im Bundesanzeiger bekannt.
-
 
 ### § 8 Verfahren nach Abschluss der Einfuhruntersuchung
 
@@ -511,10 +495,6 @@ werden:
     Nr. 2377/90 des Rates und zur Änderung der Richtlinie 2001/82/EG des
     Europäischen Parlaments und des Rates (ABl. L 152 vom 16.6.2009, S.
     11) in der jeweils geltenden Fassung gestützt werden.
-
-
-
-
 
 ### § 9 Durchfuhr
 
@@ -640,7 +620,6 @@ Beteiligte hat das Eintreffen der Sendung der für das Lager
 zuständigen Behörde anhand des Gemeinsamen Veterinärdokumentes für die
 Einfuhr anzuzeigen. Absatz 4 Satz 4 gilt entsprechend.
 
-
 ### § 10 Lagerung zur Durchfuhr bestimmter Sendungen
 
 (1) Der Betreiber eines Zolllagers, Freilagers oder Lagers in einer
@@ -713,7 +692,6 @@ ein Lager im Sinne des § 12 Absatz 1 untersagen und die dort
 gelagerten Lebensmittel einer Warenuntersuchung nach Anlage 4
 unterziehen.
 
-
 ### § 11 Schiffsausrüster
 
 (1) Wer Seeschiffe mit Lebensmitteln nach § 9 Absatz 1 ausrüstet
@@ -780,7 +758,6 @@ spätestens zum Zeitpunkt des Versandes über das Informationsverfahren
 nach Artikel 2 der Entscheidung 91/398/EWG oder nach Artikel 3 der
 Entscheidung 2004/292/EG anzukündigen.
 
-
 ### § 12 Anerkennung von Lagern und Registrierung von Schiffsausrüstern
 
 (1) Zolllager, Freilager und Lager in Freizonen, in denen
@@ -818,7 +795,6 @@ den Absätzen 1 und 2 zu überwachen.
 (4) Das Bundesamt führt ein Verzeichnis der nach Absatz 1 anerkannten
 Lager und der nach Absatz 2 registrierten Schiffsausrüster.
 
-
 ### § 13 Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft oder der Europäischen Union
 
 (1) Lebensmittel tierischen Ursprungs, die in Drittländern hergestellt
@@ -855,12 +831,10 @@ worden sind. Bekanntmachungen nach Absatz 1 werden mit Beginn des
 Tages, der auf ihre Veröffentlichung folgt, wirksam, soweit nicht in
 der Bekanntmachung ein späterer Zeitpunkt bestimmt ist.
 
-
 ### § 13a Verbot der Einfuhr bestimmter Lebensmittel
 
 Es ist verboten, Fleisch von Hunden, Katzen, anderen hundeartigen oder
 katzenartigen Tieren (Caniden und Feliden) oder Affen einzuführen.
-
 
 ### § 14 Verfahren bei der Wiedereinfuhr
 
@@ -925,10 +899,7 @@ die für den Bestimmungsort zuständige Behörde von dem Eintreffen der
 Sendung über das Informationsverfahren nach Artikel 2 der Entscheidung
 91/398/EWG oder nach Artikel 3 der Entscheidung 2004/292/EG.
 
-
 ## Abschnitt 3 - Vorschriften für Lebensmittel nicht tierischen Ursprungs
-
-
 
 ### § 15 Benennung von Eingangsorten und Einfuhrorten
 
@@ -956,7 +927,6 @@ Verordnung (EG) Nr. 1152/2009 eingeführt werden. Die Veröffentlichung
 der Liste der benannten Orte nach Artikel 6 Absatz 2 der Verordnung
 (EG) Nr. 1152/2009 erfolgt durch das Bundesamt.
 
-
 ### § 16 Verbote auf Grund von Schutzmaßnahmen der Europäischen Gemeinschaft oder der Europäischen Union
 
 (1) Lebensmittel nicht tierischen Ursprungs, die in Drittländern
@@ -980,7 +950,6 @@ worden sind. Bekanntmachungen nach Absatz 1 werden mit Beginn des
 Tages, der auf ihre Veröffentlichung folgt, wirksam, soweit nicht in
 der Bekanntmachung ein späterer Zeitpunkt bestimmt ist.
 
-
 ### § 17 Amtliche Kontrollen
 
 Unbeschadet der auf Grund unmittelbar geltender Rechtsakte der
@@ -995,10 +964,7 @@ im Bundesanzeiger bekannt gemacht hat. Das Bundesministerium macht
 auch Änderungen sowie die Aufhebung dieses Rechtsaktes im
 Bundesanzeiger bekannt.
 
-
 ## Abschnitt 4 - Vorschriften für bestimmte Lebensmittel
-
-
 
 ### § 17a Vorschriften für Lebensmittel aus China bezüglich Melamin
 
@@ -1041,7 +1007,6 @@ Satz 1 zu übermitteln. Abweichend von Satz 1 kann die für die
 Kontrollstelle zuständige Behörde eine spätere Mitteilung noch als
 fristgerecht anerkennen, soweit dadurch die ordnungsgemäße
 Durchführung der Einfuhrkontrolle nicht behindert wird.
-
 
 ### § 17b Vorschriften für Lebensmittel aus Indien bezüglich Guarkernmehl
 
@@ -1105,10 +1070,7 @@ Kontrollstelle zuständige Behörde eine spätere Mitteilung noch als
 fristgerecht anerkennen, soweit dadurch die ordnungsgemäße
 Durchführung der Einfuhrkontrolle nicht behindert wird.
 
-
 ## Abschnitt 5 - Ausnahmeregelungen
-
-
 
 ### § 18 Ausnahmeregelungen
 
@@ -1211,10 +1173,7 @@ Behörde kann stichprobenweise eine Prüfung der Dokumente durchführen,
 die Rückschlüsse auf Art, Umfang und Beschaffenheit der Lebensmittel
 zulassen.
 
-
 ## Abschnitt 6 - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 19 Straftaten
 
@@ -1242,10 +1201,6 @@ Futtermittelgesetzbuches wird bestraft, wer
 
 6.  entgegen § 17b Absatz 1 einen dort genannten Stoff als Lebensmittel
     oder ein dort genanntes Lebensmittel einführt.
-
-
-
-
 
 ### § 20 Ordnungswidrigkeiten
 
@@ -1328,10 +1283,6 @@ vorsätzlich oder fahrlässig
 14. entgegen § 18 Absatz 4 Satz 3 ein Lebensmittel tierischen Ursprungs
     nicht oder nicht rechtzeitig der Beseitigung zuführt.
 
-
-
-
-
 ### Anlage 1 (zu § 5 Absatz 2 Nummer 3) Lebensmittel, die nicht einer Einfuhruntersuchung nach § 7 zu unterziehen sind
 
 (Fundstelle: BGBl. I 2011, S. 1871;
@@ -1408,13 +1359,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Beschaffenheit und Menge der Lebensmittel, die Anzahl der Packstücke,
         das Herkunftsland, die Anschrift des Herstellers und die Zutaten der
         Lebensmittel hervorgehen.
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 6 Absatz 1) Rechtsgrundlagen zur Auflistung von Drittländern und Betrieben in Drittländern sowie zur Festlegung von Bescheinigungen oder Mustern von Bescheinigungen durch die Europäische Kommission
 
@@ -1844,7 +1788,6 @@ der Unterzeichnung. Der Untersuchungstierarzt darf durch einen
 amtlichen Inspektor ersetzt werden, falls die einschlägigen
 Rechtsvorschriften dies vorsehen.
 
-
 ### Anlage 3 (zu § 7 Absatz 1, § 9 Absatz 1 Satz 1, § 10 Absatz 2 und § 11 Absatz 3 Satz 1) Durchführung der Nämlichkeitskontrolle
 
 (Fundstelle: BGBl. I 2011, S. 1878)
@@ -1878,10 +1821,6 @@ Rechtsvorschriften dies vorsehen.
     unbeschädigt sind und die darauf angebrachten Angaben mit den Angaben
     der Genusstauglichkeitsbescheinigung, Gesundheitsbescheinigung oder
     sonstiger vergleichbarer Urkunden übereinstimmen.
-
-
-
-
 
 ### Anlage 4 (zu § 7 Absatz 1, § 8 Absatz 3 und 4, § 9 Absatz 5 Satz 2 und § 10 Absatz 5) Durchführung der Warenuntersuchung
 
@@ -3173,9 +3112,6 @@ der nach Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EG) Nr.
 *    *   Sachsen
 
     *   GKS Leipzig/Halle (Flughafen)
-
-
-
 
 ### Anlage 6 (zu § 17b Absatz 2 Satz 1 und Absatz 3 Satz 1 Nummer 1)
 

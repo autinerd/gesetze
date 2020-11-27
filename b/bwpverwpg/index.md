@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 84 G v. 5.2.2009 I 160
 
-
-
 ## § 1 Zuordnung des Personals
 
 Die Beamtinnen, Beamten, Arbeitnehmerinnen und Arbeitnehmer bei der
@@ -27,7 +25,6 @@ Bundeswertpapierverwaltung sind ab dem 1. August 2006 solche bei dem
 Bundesamt für zentrale Dienste und offene Vermögensfragen. Für die
 Auszubildenden bei der Bundeswertpapierverwaltung gilt Satz 1
 entsprechend.
-
 
 ## § 2 Zuweisung von Tätigkeiten
 
@@ -47,7 +44,6 @@ Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium des Innern ergänzend außer- und übertarifliche
 Regelungen treffen.
 
-
 ## § 3 Entscheidungs- und Weisungsbefugnisse
 
 Gegenüber den in § 2 Abs. 1 bezeichneten Beschäftigten hat die
@@ -64,14 +60,12 @@ und Weisungsbefugnisse sind vertraglich zwischen dem Bundesamt für
 zentrale Dienste und offene Vermögensfragen und der Bundesrepublik
 Deutschland - Finanzagentur GmbH zu regeln.
 
-
 ## § 4 Anwendbarkeit des Bundespersonalvertretungsgesetzes
 
 Die in § 2 Abs. 1 benannten Beschäftigten gelten im Sinne des
 Bundespersonalvertretungsgesetzes als Beschäftigte des Bundesamtes für
 zentrale Dienste und offene Vermögensfragen. § 13 Abs. 2 Satz 4 des
 Bundespersonalvertretungsgesetzes findet keine Anwendung.
-
 
 ## § 5 Geltung arbeitsrechtlicher Vorschriften
 
@@ -97,7 +91,6 @@ in § 2 Abs. 1 genannten Beschäftigten ist, treffen diese
 Verpflichtungen das Bundesamt für zentrale Dienste und offene
 Vermögensfragen.
 
-
 ## § 6 Personalvertretungs- und betriebsverfassungsrechtliche Zuständigkeiten
 
 (1) Der Personalrat des Bundesamtes für zentrale Dienste und offene
@@ -111,7 +104,6 @@ Finanzagentur GmbH entscheidet, werden die Beteiligungsrechte nach dem
 Betriebsverfassungsgesetz vom Betriebsrat der Bundesrepublik
 Deutschland - Finanzagentur GmbH wahrgenommen.
 
-
 ## § 7 Schwerbehinderte Menschen
 
 (1) Für die schwerbehinderten Menschen, die nach § 2 Abs. 1 bei der
@@ -123,7 +115,6 @@ im Sinne des Teils 2 des Neunten Buches Sozialgesetzbuch.
 Arbeitsverhältnisses mit dem Bund für die Anwendung der Vorschriften
 über die Schwerbehindertenvertretung in der Bundesrepublik Deutschland
 - Finanzagentur GmbH als Beschäftigte. § 6 gilt entsprechend.
-
 
 ## § 8 Übergangsregelung
 
@@ -156,7 +147,6 @@ Sozialgesetzbuch bei der Bundesrepublik Deutschland - Finanzagentur
 GmbH eine Schwerbehindertenvertretung einzurichten ist, gelten die
 vorstehenden Bestimmungen entsprechend.
 
-
 ## § 9 Fortgeltung von Dienstvereinbarungen
 
 Die in der Bundeswertpapierverwaltung am 31. Juli 2006 bestehenden
@@ -164,7 +154,6 @@ Dienstvereinbarungen gelten für die Beschäftigten nach § 2 Abs. 1 in
 der Bundesrepublik Deutschland - Finanzagentur GmbH für längstens
 zwölf Monate als Betriebsvereinbarungen fort, soweit sie nicht durch
 andere Regelungen ersetzt werden.
-
 
 ## § 10 Anhängige Beteiligungsverfahren
 

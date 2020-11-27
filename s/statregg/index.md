@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 10.11.2006 I 2553
 
-
 ## § 1
 
 (1) Die in den §§ 2 bis 6 genannten Stellen übermitteln den
@@ -41,7 +40,6 @@ Absatz 1 auch Angaben aus allgemein zugänglichen Quellen verwenden.
 (3) Für die Geheimhaltung der Einzelangaben über persönliche und
 sachliche Verhältnisse, die nach Absatz 1 übermittelt worden sind,
 gilt § 16 des Bundesstatistikgesetzes.
-
 
 ## § 2
 
@@ -127,7 +125,6 @@ und Eigenverbrauch nach § 4 des Umsatzsteuergesetzes:
 von § 1 Abs. 1 Satz 1 in dem durch das Gesetz über Steuerstatistiken
 in seiner jeweils gültigen Fassung vorgegebenen Zeitrahmen.
 
-
 ## § 2a
 
 Das Bundeszentralamt für Steuern übermittelt an das Statistische
@@ -158,7 +155,6 @@ Bundesamt für Organgesellschaften und Organträger nach § 2 Abs. 2 Nr.
 
 Das Statistische Bundesamt übermittelt die Angaben an die
 statistischen Ämter der Länder für deren Zuständigkeitsbereich.
-
 
 ## § 3
 
@@ -193,7 +189,6 @@ einschließlich Gemeindeschlüssel im Statistikregister von den von der
 Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nr. 1
 abweichen, wird ein Kennzeichen, das auf eine Abweichung hinweist,
 zusammen mit der Angabe zu Absatz 1 Nr. 4 mitgeteilt.
-
 
 ## § 4
 
@@ -234,10 +229,6 @@ Angaben:
     und 6, zur Rechtsform (Nummer 7) sowie über die Zugehörigkeit zu einem
     anderen Kammerbezirk.
 
-
-
-
-
 ## § 4a
 
 (1) Die Landesjustizverwaltungen übermitteln von den elektronischen
@@ -247,7 +238,6 @@ Handelsgesetzbuchs an das Unternehmensregister übermitteln.
 
 (2) Auf Anforderung erfolgt die Übermittlung nach Absatz 1 abweichend
 von § 1 Abs. 1 Satz 1 mehrmals jährlich.
-
 
 ## § 5
 
@@ -291,10 +281,6 @@ Bezirks folgende Angaben:
 8.  Kennzeichen zur Identifikation (Kammer- und Identnummer), bei Änderung
     auch das zuletzt übermittelte Kennzeichen.
 
-
-
-
-
 ## § 6
 
 Soweit es für den Aufbau und die Führung des Statistikregisters
@@ -310,10 +296,6 @@ mehrjährigen Abständen folgende Angaben:
 
 
 3.  Art der Tätigkeit.
-
-
-
-
 
 ## § 7
 
@@ -332,7 +314,6 @@ Auskunftspflicht bei den in das Statistikregister aufzunehmenden
 Einheiten. Auskunftspflichtig sind die Inhaber oder Leiter der
 Einheiten.
 
-
 ## § 8
 
 (1) Soweit Rechtsvorschriften des Bundes, die eine Wirtschafts- oder
@@ -344,7 +325,6 @@ Erhebung absehen.
 
 (2) Daten aus dem Statistikregister dürfen mit anderen Daten nach den
 Vorgaben des § 13a des Bundesstatistikgesetzes zusammengeführt werden.
-
 
 ## § 9
 

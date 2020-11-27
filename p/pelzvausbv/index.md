@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 781
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -25,17 +23,14 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Pelzveredler/Pelzveredlerin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -91,10 +86,6 @@ Fertigkeiten und Kenntnisse:
 
 16. Fertigmachen der Pelzfelle zur Auslieferung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
@@ -104,12 +95,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhalts ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -117,7 +106,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -193,7 +181,6 @@ berücksichtigen.
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 8 Abschlußprüfung
 
@@ -317,27 +304,22 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10
 
 -
-
 
 ## § 11 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1982 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
 
@@ -846,10 +828,6 @@ Der Bundesminister für Wirtschaft
 
     *   Pelzfelle nach ihrer Qualität bewerten, Veredlungsfehler und ihre
         Ursachen nennen, Beseitigung der Fehler erläutern
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

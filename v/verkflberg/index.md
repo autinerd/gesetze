@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 31.7.2009 I 2585
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für in dem in Artikel 3 des Einigungsvertrages
@@ -72,7 +71,6 @@ wenn nach dem Inhalt des Vertrages oder den Umständen seines
 Abschlusses die vertragliche Nutzung nur bis zu einer dem öffentlichen
 Zweck entsprechenden Regelung der Eigentumsverhältnisse an dem
 Grundstück fortdauern sollte.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -130,7 +128,6 @@ eine Verwaltungsaufgabe nach Absatz 1 Satz 1 wahrnehmen, kommt es auf
 die Beteiligungsverhältnisse oder die Verteilung der Stimmrechte nicht
 an.
 
-
 ## § 3 Rechte bei öffentlicher Nutzung
 
 (1) Der öffentliche Nutzer kann vom Grundstückseigentümer den Verkauf
@@ -178,7 +175,6 @@ zusammen mit der Unterhaltungspflicht oder mit der Verwaltungsaufgabe
 (6) Mehrere öffentliche Nutzer sind als Gesamtgläubiger berechtigt und
 als Gesamtschuldner verpflichtet.
 
-
 ## § 4 Erfasste Flächen
 
 (1) Ansprüche nach diesem Gesetz erstrecken sich
@@ -197,7 +193,6 @@ als Gesamtschuldner verpflichtet.
 (2) Grundstücksteile, auf die sich der Anspruch des Nutzers nicht
 erstreckt, sind mitzuerwerben, wenn sie nicht in angemessenem Umfang
 baulich oder wirtschaftlich nutzbar sind (Restflächen).
-
 
 ## § 5 Ankaufspreis und Bodenwertermittlung bei Verkehrsflächen; Entgelt für Dienstbarkeit
 
@@ -234,7 +229,6 @@ solcher Belastungen üblich ist, verlangen. Dabei ist als Wert der
 belasteten Fläche der sich aus den Absätzen 1 und 2 ergebende
 Kaufpreis zugrunde zu legen.
 
-
 ## § 6 Ankaufspreis und Bodenwertermittlung anderer Flächen
 
 (1) Der Kaufpreis für nach § 1 Abs. 1 Satz 1 Nr. 2 und Satz 6 genutzte
@@ -258,7 +252,6 @@ Wertermittlung ist derjenige Zustand des Grundstücks (§ 3 Abs. 2 der
 Wertermittlungsverordnung) zugrunde zu legen, den dieses vor der
 tatsächlichen Inanspruchnahme zum Zwecke der Nutzung nach § 1 Abs. 1
 Satz 6 hatte; § 5 Abs. 2 ist anzuwenden.
-
 
 ## § 7 Weiterer Inhalt des Kaufvertrages; dingliche Rechte
 
@@ -306,7 +299,6 @@ entsprechend.
 (5) Wegen Verzuges kann weder der Rücktritt vom Vertrag erklärt noch
 Schadenersatz wegen Nichterfüllung verlangt werden.
 
-
 ## § 8 Abschlussfrist
 
 (1) Die Rechte des öffentlichen Nutzers nach § 3 Abs. 1 und 3
@@ -320,7 +312,6 @@ Gesetzes ankauft oder dass unter den Voraussetzungen des § 3 Abs. 3
 Satz 1 eine entgeltliche Dienstbarkeit nach diesem Gesetz bestellt
 wird. § 3 Abs. 1 Satz 2 und 3, Abs. 2 und Abs. 3 Satz 2 und 3 gilt
 entsprechend.
-
 
 ## § 9 Vorläufiges Nutzungsentgelt, vorläufiges Besitzrecht; Aufgabe der öffentlichen Nutzung
 
@@ -363,7 +354,6 @@ angemessenen Frist zu beseitigen. Die Ansprüche nach den Sätzen 1 und
 Grundstückseigentümers wegen Verschlechterung des Grundstücks bleiben
 unberührt.
 
-
 ## § 10 Sicherung der Zweckbindung
 
 (1) Dem Grundstückseigentümer steht das Recht des Wiederkaufs für den
@@ -378,7 +368,6 @@ Grundbuch eingetragen worden ist.
 (2) Das Rechtsverhältnis zwischen dem Eigentümer und dem Inhaber des
 Erwerbsrechts bestimmt sich nach den Vorschriften des Bürgerlichen
 Gesetzbuchs über den Wiederkauf.
-
 
 ## § 11 Anwendung des Bodensonderungsgesetzes und des Flurbereinigungsgesetzes
 
@@ -406,12 +395,10 @@ Flurbereinigungsgesetzes und des Landwirtschaftsanpassungsgesetzes
 bestimmen sich in diesem Fall die dinglichen Rechtsverhältnisse und
 der festzusetzende Ausgleich nach den Regelungen dieses Gesetzes.
 
-
 ## § 12 Kosten
 
 Die Kosten des Vertrages und seiner Durchführung trägt der öffentliche
 Nutzer. Gerichtskosten nach der Kostenordnung werden nicht erhoben.
-
 
 ## § 13 Abweichende Vereinbarungen; Verhältnis zu anderen Vorschriften
 
@@ -423,7 +410,6 @@ Sachenrechtsbereinigungsgesetz, das Bodensonderungsgesetz, das
 Landwirtschaftsanpassungsgesetz, das Meliorationsanlagengesetz und § 9
 des Grundbuchbereinigungsgesetzes sowie die Sachenrechts-
 Durchführungsverordnung vor.
-
 
 ## § 14 Rechtsweg; Gerichtliches Verfahren; Notarielles Vermittlungsverfahren
 

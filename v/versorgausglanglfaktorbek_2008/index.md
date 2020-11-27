@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1101 (1218)
 
-
 ## (XXXX)
 
 Auf Grund des § 3 Abs. 2 Nr. 1 Buchstabe a Satz 4 des
@@ -133,10 +132,6 @@ nachstehenden Tabelle zu entnehmen:
 *    *   1,0000000
 
     *   vom 1. Juli 2003 bis 30. Juni 2008.
-
-
-
-
 
 ## Schlussformel
 

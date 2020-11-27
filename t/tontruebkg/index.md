@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1973, 1669
 
-
-
 ## Art 1
 
 Dem in Genf am 29. Oktober 1971 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zum Schutz der Hersteller von Tonträgern
 gegen die unerlaubte Vervielfältigung ihrer Tonträger wird zugestimmt.
 Das Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -42,12 +39,10 @@ auch § 108 Nr. 5 des Urheberrechtsgesetzes anzuwenden.
 
 (2) § 136 des Urheberrechtsgesetzes ist entsprechend anzuwenden.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

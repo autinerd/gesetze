@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Produktionstechnologe/Produktionstechnologin wird
 nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -213,7 +209,6 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
 Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten,
 Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -234,7 +229,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
@@ -253,7 +247,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
 Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung
 
@@ -307,10 +300,6 @@ Produktionsauftrag. Hierfür bestehen folgende Vorgaben:
 3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags
     beträgt neun Stunden; für das auftragsbezogene Fachgespräch höchstens
     30 Minuten.
-
-
-
-
 
 ## § 7 Teil 2 der Abschlussprüfung
 
@@ -429,10 +418,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -499,11 +484,9 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Sachliche Gliederung –
 
@@ -962,12 +945,6 @@ Fähigkeiten
         c)  Logistik der Entsorgung der Reststoffe und für das Recycling
             sicherstellen
 
-
-
-
-
-
-
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 *    *   Lfd. Nr.
@@ -1411,12 +1388,6 @@ Fähigkeiten
         f)  Methoden und Verfahren der Programmplanung, Produktionsplanung,
             Materialsteuerung und Fertigungssteuerung anwenden
 
-
-
-
-
-
-
 ## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 1044 - 1051 (2009, 3850))
@@ -1567,7 +1538,6 @@ Fähigkeiten
    ## Abschnitt 2
 
 ## Erstes bis drittes Ausbildungshalbjahr
-
 
 ## (Zeitrahmen 1: Betreiben von Produktionsanlagen)
 
@@ -2078,7 +2048,6 @@ Fähigkeiten
 
 
    ## Viertes bis sechstes Ausbildungshalbjahr
-
 
 ## (Zeitrahmen 4: Anfahren von Produktionsanlagen)
 

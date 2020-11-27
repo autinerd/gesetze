@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1968, Nr 134
 
-
-
 ## I.
 
 Das Bundesverwaltungsamt wird hiermit zur zuständigen Behörde
@@ -29,7 +27,6 @@ Fachausbildung von Polizeivollzugsbeamten oder früheren
 Polizeivollzugsbeamten, die nach dem 31. Mai 1967 aus dem
 Vollzugsdienst des Bundesgrenzschutzes ausgeschieden sind oder
 ausscheiden, entscheidet.
-
 
 ## II.
 
@@ -47,11 +44,9 @@ Entscheidungen beziehen, die das Bundesverwaltungsamt in
 Angelegenheiten der Berufsförderung nach dem
 Bundespolizeibeamtengesetz erlassen hat.
 
-
 ## III.
 
 Die Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

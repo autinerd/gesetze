@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 6.12.2011 I 2515
 
-
 ## § 1 Eignungsprüfung
 
 (1) Eine natürliche Person, die ein Diplom erlangt hat, aus dem
@@ -41,7 +40,6 @@ Beruf tatsächlich und rechtmäßig mindestens drei Jahre ausgeübt hat
 und dies von dem Mitgliedstaat oder Vertragsstaat bescheinigt wird,
 der das Diplom ausgestellt oder anerkannt hat.
 
-
 ## § 2 Zweck der Eignungsprüfung
 
 Die Eignungsprüfung ist eine ausschließlich die beruflichen Kenntnisse
@@ -56,13 +54,11 @@ verfügt. Sie entfällt ganz oder teilweise, wenn der Antragsteller
 während seiner Berufserfahrung Kenntnisse erworben hat, die für die
 Berufsausübung in Deutschland erforderlich sind.
 
-
 ## § 3 Zuständige Stelle für die Prüfung
 
 Die Eignungsprüfung wird vor der für die Patentanwaltsprüfung
 zuständigen Kommission bei dem Deutschen Patent- und Markenamt
 abgelegt.
-
 
 ## § 4 Zulassung zur Prüfung
 
@@ -76,7 +72,6 @@ nicht vorlegt oder nicht abgibt.
 
 (3) Der Bescheid, durch den die Zulassung zur Prüfung versagt wird,
 ist mit Gründen zu versehen. Er ist dem Antragsteller zuzustellen.
-
 
 ## § 5 Prüfungsfächer
 
@@ -108,10 +103,6 @@ berufliche Verhalten der Patentanwälte.
 
 
 2.  Recht der Arbeitnehmererfindungen.
-
-
-
-
 
 ## § 6 Prüfungsleistungen
 
@@ -147,7 +138,6 @@ Aufsichtsarbeit geschrieben hat, das Wahlfach; genügt eine
 Aufsichtsarbeit den Anforderungen nicht, so erstreckt sich die
 mündliche Prüfung auch auf das Fach dieser Arbeit.
 
-
 ## § 7 Prüfungsentscheidung
 
 Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks der
@@ -155,18 +145,15 @@ in der schriftlichen und mündlichen Prüfung erbrachten Leistungen mit
 Stimmenmehrheit, ob der Antragsteller über die nach § 2 erforderlichen
 Kenntnisse verfügt.
 
-
 ## § 8 Wiederholung der Prüfung
 
 Die Prüfung kann wiederholt werden.
-
 
 ## § 9 Prüfungsgebühr
 
 Der Antragsteller, der zur Eignungsprüfung zugelassen wird, hat an den
 Präsidenten des Deutschen Patent- und Markenamts eine Prüfungsgebühr
 von 250 Euro zu entrichten.
-
 
 ## § 10 Ermächtigung
 
@@ -210,10 +197,6 @@ die nicht der Zustimmung des Bundesrates bedarf,
 3.  die Zulassung von Antragstellern, die die Voraussetzung des Artikels 3
     Buchstabe b der Richtlinie erfüllen, zur Eignungsprüfung zu regeln.
 
-
-
-
-
 ## § 11 Bescheinigungen des Heimat- oder Herkunftsmitgliedstaats
 
 Soweit es für die Entscheidung über die Zulassung zur
@@ -240,13 +223,11 @@ des Heimat- oder Herkunftsmitgliedstaats bedarf, genügt eine
 Bescheinigung oder Urkunde im Sinne des Artikels 6 der Richtlinie des
 Rates vom 21. Dezember 1988 (§ 1 Abs. 2 Satz 1).
 
-
 ## § 12 Statistik
 
 Über Verfahren nach diesem Gesetz wird eine Bundesstatistik
 durchgeführt. § 17 des Berufsqualifikationsfeststellungsgesetzes mit
 Ausnahme von Absatz 2 Nummer 4 ist anzuwenden.
-
 
 ## Anlage (zu § 1)
 

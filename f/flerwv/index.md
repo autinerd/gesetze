@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 128 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 3 des Ausgleichsleistungsgesetzes vom 27.
 September 1994 (BGBl. I S. 2624, 2628) verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Inhalt und Umfang der Berechtigung
-
-
 
 ### § 1 Allgemeines
 
@@ -101,7 +97,6 @@ Ausgleichsleistungsgesetzes.
 Ausgleichsleistungsgesetzes gilt auch eine Kommanditgesellschaft, bei
 der kein persönlich haftender Gesellschafter eine natürliche Person
 ist.
-
 
 ### § 2 Erwerbsmöglichkeit des Pächters landwirtschaftlicher Flächen
 
@@ -188,7 +183,6 @@ als ihm vor der Umwandlung zustand. Die bewirtschaftete
 landwirtschaftlich genutzte Fläche wird nach den Verhältnissen vor der
 Umwandlung ermittelt.
 
-
 ### § 3 Erwerb landwirtschaftlicher Flächen durch den nicht selbstbewirtschaftenden früheren Eigentümer
 
 Ein Berechtigter nach § 3 Abs. 5 Satz 1 des
@@ -199,7 +193,6 @@ forstwirtschaftlichen Vermögens erhalten hat. Soweit der Berechtigte
 ausschließlich für den Verlust forstwirtschaftlichen Vermögens
 Ausgleichsleistungen erhalten hat, ist der Erwerb landwirtschaftlicher
 Flächen ausgeschlossen.
-
 
 ### § 4 Erwerbsmöglichkeit von Waldflächen
 
@@ -246,7 +239,6 @@ und in der genannten Rang- und Reihenfolge:
 Zerteilung forstbetrieblich sinnvoll zusammengehörender Waldflächen
 verlangt werden.
 
-
 ### § 5 Kaufpreis für landwirtschaftliche Flächen
 
 (1) Der Verkehrswert für landwirtschaftliche Flächen nach § 3 Abs. 7
@@ -273,7 +265,6 @@ sowie Wohn- und Wirtschaftsgebäude miterworben werden, die aufgrund
 des räumlichen Zusammenhangs mit den nach § 3 des
 Ausgleichsleistungsgesetzes zu erwerbenden Flächen nicht anderweitig
 verwertet werden können.
-
 
 ### § 6 Kaufpreis für Waldflächen
 
@@ -313,10 +304,7 @@ Jahre, für Laubhölzer mit niedrigem Umtrieb 80 Jahre.
 
 (3) § 5 Abs. 2 gilt entsprechend.
 
-
 ## Abschnitt 2 - Verfahren
-
-
 
 ### § 7 Inhalt des Kaufantrages
 
@@ -330,7 +318,6 @@ Strafgesetzbuches. Vor Abschluss des notariell beurkundeten
 Kaufvertrages ist der Privatisierungsstelle ein den Anlagen
 entsprechender aktueller Finanzierungsnachweis vorzulegen.
 
-
 ### § 8 Antragsfrist
 
 Kaufanträge nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes sind
@@ -341,7 +328,6 @@ langfristigen Pachtvertrag nach § 2 Abs. 1 Satz 1 über nach § 3 Abs. 1
 des Ausgleichsleistungsgesetzes zu privatisierende landwirtschaftliche
 Flächen abschließen, können den Kaufantrag innerhalb eines Jahres nach
 Beschluss des langfristigen Pachtvertrages stellen.
-
 
 ### § 9 Vorbereitung des Flächenerwerbs
 
@@ -364,7 +350,6 @@ Fristablauf den Kauf ihm zustehender Flächen beantragt.
 (3) Die Privatisierungsstelle leitet ihr begründetes Prüfungsergebnis
 der zuständigen Landesbehörde zu. Diese kann sich innerhalb von zwei
 Monaten hierzu äußern.
-
 
 ### § 10 Verkaufsangebot
 
@@ -396,10 +381,7 @@ Termin für den Vertragsabschluß.
 
 (4) (weggefallen)
 
-
 ## Abschnitt 3 - Kaufvertragliche Regelungen
-
-
 
 ### § 11 Abschluß des Kaufvertrages
 
@@ -408,7 +390,6 @@ Bürgerlichen Rechts. Der Erwerber soll zur Übernahme der
 Erwerbskosten, insbesondere auch der Grunderwerbsteuer, verpflichtet
 werden. Dies gilt auch für die Kosten der notariellen Beurkundung der
 Zusage nach § 3 Abs. 1 Satz 3 des Ausgleichsleistungsgesetzes.
-
 
 ### § 12 Sicherung der Zweckbindung
 
@@ -571,7 +552,6 @@ müssen, als im Übermaß Früchte gezogen sind. Der Erwerber soll
 Anspruch auf Verwendungsersatz gemäß § 996 des Bürgerlichen
 Gesetzbuchs haben.
 
-
 ### § 13 Grundbuchvollzug
 
 (1) Im Kaufvertrag soll auch festgestellt werden, daß die erworbenen
@@ -635,7 +615,6 @@ Sonderaufgaben wahrnehmen.
 Ausgleichsleistungsgesetzes trägt die Privatisierungsstelle die Notar-
 und Grundbuchkosten.
 
-
 ### § 14 Privatisierungsstelle
 
 Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder im
@@ -643,10 +622,7 @@ Falle ihrer Auflösung ihr Rechtsnachfolger bestimmt die
 Privatisierungsstelle. Sie kann Maßnahmen der Privatisierungsstelle
 von ihrer Zustimmung abhängig machen.
 
-
 ## Abschnitt 4 - Schlußvorschriften
-
-
 
 ### § 15 Verkauf an Nichtberechtigte
 
@@ -675,16 +651,13 @@ verkauft werden. Verkäufe von Waldflächen an Träger von
 Naturschutzprojekten im Sinne des Absatzes 1 Satz 2 erster Halbsatz
 werden auf den in Satz 1 genannten Höchstbetrag nicht angerechnet.
 
-
 ### § 16 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 7)
 
@@ -752,13 +725,6 @@ des Ausgleichsleistungsgesetzes durch natürliche Personen**
         vom 3. Juli 1991 (BGBl. I S. 1418), zuletzt geändert durch Artikel 19
         des Gesetzes vom 28. Oktober 1994 (BGBl. I S. 3210)
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 7)
 
 **Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4
@@ -810,10 +776,6 @@ Privatrechts**
 9.  Verpflichtungserklärung des Kaufbewerbers, jede Veränderung der
     Zusammensetzung der Gesellschaft im Sinne der Nummer 7 auf die Dauer
     von 15 Jahren unverzüglich der Privatisierungsstelle mitzuteilen
-
-
-
-
 
 ### Anlage 3 (zu § 7)
 
@@ -878,10 +840,6 @@ des Privatrechts**
 11. Verpflichtungserklärung, 15 Jahre für Verbindlichkeiten der
     Gesellschaft mit den erworbenen Flächen zu haften
 
-
-
-
-
 ### Anlage 4 (zu § 7)
 
 **Erwerb land- und forstwirtschaftlicher Flächen durch frühere
@@ -942,10 +900,6 @@ Eigentümer (§ 3 Abs. 5 des Ausgleichsleistungsgesetzes)**
 7.  Verpflichtungserklärung, bestehende Pachtverträge über die zu
     erwerbenden Flächen bis zu einer Gesamtlaufzeit von 18 Jahren zu
     verlängern
-
-
-
-
 
 ### Anlage 5 (zu § 7)
 

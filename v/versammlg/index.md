@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 8.12.2008 I 2366
 
-
 ## Abschnitt I - Allgemeines
-
-
 
 ### § 1
 
@@ -51,10 +48,6 @@ veranstalten und an solchen Veranstaltungen teilzunehmen.
 4.  eine Vereinigung, die nach Artikel 9 Abs. 2 des Grundgesetzes verboten
     ist.
 
-
-
-
-
 ### § 2
 
 (1) Wer zu einer öffentlichen Versammlung oder zu einem Aufzug
@@ -75,7 +68,6 @@ Aufzügen mit sich zu führen, zu derartigen Veranstaltungen
 hinzuschaffen oder sie zur Verwendung bei derartigen Veranstaltungen
 bereitzuhalten oder zu verteilen.
 
-
 ### § 3
 
 (1) Es ist verboten, öffentlich oder in einer Versammlung Uniformen,
@@ -92,15 +84,11 @@ ist im Bundesanzeiger und im Gemeinsamen Ministerialblatt, die der
 obersten Landesbehörden in ihren amtlichen Mitteilungsblättern
 bekanntzumachen.
 
-
 ### § 4
 
 (weggefallen)
 
-
 ## Abschnitt II - Öffentliche Versammlungen in geschlossenen Räumen
-
-
 
 ### § 5
 
@@ -127,10 +115,6 @@ verboten werden, wenn
     dulden werden, die ein Verbrechen oder ein von Amts wegen zu
     verfolgendes Vergehen zum Gegenstand haben.
 
-
-
-
-
 ### § 6
 
 (1) Bestimmte Personen oder Personenkreise können in der Einladung von
@@ -139,7 +123,6 @@ der Teilnahme an einer Versammlung ausgeschlossen werden.
 (2) Pressevertreter können nicht ausgeschlossen werden; sie haben sich
 dem Leiter der Versammlung gegenüber durch ihren Presseausweis
 ordnungsgemäß auszuweisen.
-
 
 ### § 7
 
@@ -153,14 +136,12 @@ Leiter.
 
 (4) Der Leiter übt das Hausrecht aus.
 
-
 ### § 8
 
 Der Leiter bestimmt den Ablauf der Versammlung. Er hat während der
 Versammlung für Ordnung zu sorgen. Er kann die Versammlung jederzeit
 unterbrechen oder schließen. Er bestimmt, wann eine unterbrochene
 Versammlung fortgesetzt wird.
-
 
 ### § 9
 
@@ -175,13 +156,11 @@ kenntlich sein.
 Ordner der Polizei auf Anfordern mitzuteilen. Die Polizei kann die
 Zahl der Ordner angemessen beschränken.
 
-
 ### § 10
 
 Alle Versammlungsteilnehmer sind verpflichtet, die zur
 Aufrechterhaltung der Ordnung getroffenen Anweisungen des Leiters oder
 der von ihm bestellten Ordner zu befolgen.
-
 
 ### § 11
 
@@ -191,13 +170,11 @@ von der Versammlung ausschließen.
 (2) Wer aus der Versammlung ausgeschlossen wird, hat sie sofort zu
 verlassen.
 
-
 ### § 12
 
 Werden Polizeibeamte in eine öffentliche Versammlung entsandt, so
 haben sie sich dem Leiter zu erkennen zu geben. Es muß ihnen ein
 angemessener Platz eingeräumt werden.
-
 
 ### § 12a
 
@@ -232,7 +209,6 @@ inzwischen zu dem in Satz 1 Nr. 1 aufgeführten Zweck benötigt.
 (3) Die Befugnisse zur Erhebung personenbezogener Informationen nach
 Maßgabe der Strafprozeßordnung und des Gesetzes über
 Ordnungswidrigkeiten bleiben unberührt.
-
 
 ### § 13
 
@@ -269,10 +245,7 @@ ausreichen.
 (2) Sobald eine Versammlung für aufgelöst erklärt ist, haben alle
 Teilnehmer sich sofort zu entfernen.
 
-
 ## Abschnitt III - Öffentliche Versammlungen unter freiem Himmel und Aufzüge
-
-
 
 ### § 14
 
@@ -283,7 +256,6 @@ Gegenstandes der Versammlung oder des Aufzuges anzumelden.
 
 (2) In der Anmeldung ist anzugeben, welche Person für die Leitung der
 Versammlung oder des Aufzuges verantwortlich sein soll.
-
 
 ### § 15
 
@@ -320,7 +292,6 @@ zu einem Verbot nach Absatz 1 oder 2 gegeben sind.
 
 (4) Eine verbotene Veranstaltung ist aufzulösen.
 
-
 ### § 16
 
 (1) Öffentliche Versammlungen unter freiem Himmel und Aufzüge sind
@@ -333,14 +304,12 @@ werden durch Landesgesetze bestimmt.
 
 (3) Das Weitere regeln die Bannmeilengesetze der Länder.
 
-
 ### § 17
 
 Die §§ 14 bis 16 gelten nicht für Gottesdienste unter freiem Himmel,
 kirchliche Prozessionen, Bittgänge und Wallfahrten, gewöhnliche
 Leichenbegängnisse, Züge von Hochzeitsgesellschaften und hergebrachte
 Volksfeste.
-
 
 ### § 17a
 
@@ -376,7 +345,6 @@ Absätze 1 und 2 Anordnungen treffen. Sie kann insbesondere Personen,
 die diesen Verboten zuwiderhandeln, von der Veranstaltung
 ausschließen.
 
-
 ### § 18
 
 (1) Für Versammlungen unter freiem Himmel sind § 7 Abs. 1, §§ 8, 9
@@ -387,7 +355,6 @@ ist bei der Anmeldung zu beantragen.
 
 (3) Die Polizei kann Teilnehmer, welche die Ordnung gröblich stören,
 von der Versammlung ausschließen.
-
 
 ### § 19
 
@@ -405,22 +372,17 @@ verpflichtet, den Aufzug für beendet zu erklären.
 (4) Die Polizei kann Teilnehmer, welche die Ordnung gröblich stören,
 von dem Aufzug ausschließen.
 
-
 ### § 19a
 
 Für Bild- und Tonaufnahmen durch die Polizei bei Versammlungen unter
 freiem Himmel und Aufzügen gilt § 12a.
-
 
 ### § 20
 
 Das Grundrecht des Artikels 8 des Grundgesetzes wird durch die
 Bestimmungen dieses Abschnitts eingeschränkt.
 
-
 ## Abschnitt IV - Straf- und Bußgeldvorschriften
-
-
 
 ### § 21
 
@@ -430,7 +392,6 @@ Gewalttätigkeiten vornimmt oder androht oder grobe Störungen
 verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
 Geldstrafe bestraft.
 
-
 ### § 22
 
 Wer bei einer öffentlichen Versammlung oder einem Aufzug dem Leiter
@@ -439,7 +400,6 @@ Ordnungsbefugnisse mit Gewalt oder Drohung mit Gewalt Widerstand
 leistet oder ihn während der rechtmäßigen Ausübung seiner
 Ordnungsbefugnisse tätlich angreift, wird mit Freiheitsstrafe bis zu
 einem Jahr oder mit Geldstrafe bestraft.
-
 
 ### § 23
 
@@ -451,7 +411,6 @@ vollziehbares Verbot untersagt oder die Auflösung angeordnet worden
 ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-
 ### § 24
 
 Wer als Leiter einer öffentlichen Versammlung oder eines Aufzuges
@@ -459,7 +418,6 @@ Ordner verwendet, die Waffen oder sonstige Gegenstände, die ihrer Art
 nach zur Verletzung von Personen oder Beschädigung von Sachen geeignet
 und bestimmt sind, mit sich führen, wird mit Freiheitsstrafe bis zu
 einem Jahr oder mit Geldstrafe bestraft.
-
 
 ### § 25
 
@@ -477,7 +435,6 @@ eines Aufzuges
 wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis
 zu einhundertachtzig Tagessätzen bestraft.
 
-
 ### § 26
 
 Wer als Veranstalter oder Leiter
@@ -490,10 +447,6 @@ Wer als Veranstalter oder Leiter
 2.  eine öffentliche Versammlung unter freiem Himmel oder einen Aufzug
     ohne Anmeldung (§ 14) durchführt, wird mit Freiheitsstrafe bis zu
     einem Jahr oder mit Geldstrafe bestraft.
-
-
-
-
 
 ### § 27
 
@@ -547,12 +500,10 @@ Veranstaltungen bereithält oder verteilt.
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-
 ### § 28
 
 Wer der Vorschrift des § 3 zuwiderhandelt, wird mit Freiheitsstrafe
 bis zu zwei Jahren oder mit Geldstrafe bestraft.
-
 
 ### § 29
 
@@ -611,7 +562,6 @@ bis zu zwei Jahren oder mit Geldstrafe bestraft.
 Absatzes 1 Nr. 6 bis 8 mit einer Geldbuße bis zu fünftausend Deutsche
 Mark geahndet werden.
 
-
 ### § 29a
 
 (1) Ordnungswidrig handelt, wer entgegen § 16 Abs. 1 an einer
@@ -622,7 +572,6 @@ oder zu einem Aufzug auffordert.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 dreißigtausend Deutsche Mark geahndet werden.
 
-
 ### § 30
 
 Gegenstände, auf die sich eine Straftat nach § 27 oder § 28 oder eine
@@ -630,15 +579,11 @@ Ordnungswidrigkeit nach § 29 Abs. 1 Nr. 1a oder 3 bezieht, können
 eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 über Ordnungswidrigkeiten sind anzuwenden.
 
-
 ## Abschnitt V - Schlußbestimmungen
-
-
 
 ### § 31
 
 (Aufhebungsvorschriften)
-
 
 ### § 32
 
@@ -647,11 +592,9 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Grund der in diesem Gesetz enthaltenen Ermächtigung erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
 ### § 33
 
 (Inkrafttreten)
-
 
 ### Anlage (zu § 15 Abs. 2)
 

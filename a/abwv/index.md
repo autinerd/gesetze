@@ -88,10 +88,6 @@ des Rates
     2000 über die Verbrennung von Abfällen (ABl. EG Nr. L 332 S. 91, 2001
     Nr. L 145 S. 52).
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung bestimmt die Anforderungen, die bei der Erteilung
@@ -104,7 +100,6 @@ diejenigen Parameter aufzunehmen, die im Abwasser zu erwarten sind.
 
 (3) Weitergehende Anforderungen nach anderen Rechtsvorschriften
 bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -147,10 +142,6 @@ Im Sinne dieser Verordnung ist:
     Konzentration, die sich aus den die einzelnen Abwasserströme
     betreffenden Anforderungen dieser Verordnung ergibt.
 
-
-
-
-
 ## § 3 Allgemeine Anforderungen
 
 (1) Soweit in den Anhängen nichts anderes bestimmt ist, darf eine
@@ -185,7 +176,6 @@ den anzuwendenden Anhängen Anforderungen an den Ort des Anfalls des
 Abwassers oder vor der Vermischung gestellt, bleiben Absätze 4 und 5
 unberührt.
 
-
 ## § 4 Analysen- und Messverfahren
 
 (1) Die Anforderungen in den Anhängen beziehen sich auf die Analysen-
@@ -201,7 +191,6 @@ Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 (2) In der Erlaubnis können andere, gleichwertige Verfahren
 festgesetzt werden.
 
-
 ## § 5 Bezugspunkt der Anforderungen
 
 Die Anforderungen beziehen sich auf die Stelle, an der das Abwasser in
@@ -211,7 +200,6 @@ den Ort vor seiner Vermischung. Der Einleitungsstelle steht der Ablauf
 der Abwasseranlage, in der das Abwasser letztmalig behandelt wird,
 gleich. Ort vor der Vermischung ist auch die Einleitungsstelle in eine
 öffentliche Abwasseranlage.
-
 
 ## § 6 Einhaltung der Anforderungen
 
@@ -255,7 +243,6 @@ Wert 0,7 und bei Leuchtbakterien der Wert 15 einzusetzen.
 Überwachung Ergebnisse gleichgestellt werden, die der Einleiter
 aufgrund eines behördlich anerkannten Überwachungsverfahrens
 ermittelt.
-
 
 ## Anlage (zu § 4) Analysen- und Messverfahren
 
@@ -1372,10 +1359,6 @@ bis zum 2. Äquivalenzpunkt
     des pH-Wertes in der Probe so gering wie möglich gehalten werden
     (schnelles Rühren, langsame Zugabe).
 
-
-
-
-
 ## Anhang 1 Häusliches und kommunales Abwasser
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1118 - 1119)
@@ -1580,7 +1563,6 @@ Einbau, den Betrieb und die Wartung der Anlage festgelegt sein.
 Anforderungen festlegen, wenn ein Anschluss an eine öffentliche
 Abwasseranlage in naher Zukunft zu erwarten ist.
 
-
 ## Anhang 2 Braunkohle-Brikettfabrikation
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1119
@@ -1650,7 +1632,6 @@ Die Schadstofffracht wird aus den Konzentrationswerten der 2-Stunden-
 Mischprobe oder der qualifizierten Stichprobe und dem
 Abwasservolumenstrom bei Trockenwetter (Trockenwetterabfluss) in 2
 Stunden bestimmt.
-
 
 ## Anhang 3 Milchverarbeitung
 
@@ -1773,7 +1754,6 @@ Zeitpunkt rechtmäßig begonnen worden ist, gilt abweichend von Teil C
 für Phosphor, gesamt, ein Wert von 5 mg/l, wenn die der
 wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor,
 gesamt, mehr als 20 kg und weniger als 100 kg je Tag beträgt.
-
 
 ## Anhang 4 Ölsaatenaufbereitung, Speisefett- und Speiseölraffination
 
@@ -1986,7 +1966,6 @@ nicht innerbetrieblich weiter verwendet werden kann, nur getrennt vom
 ein Wert von 75 mg/l in der qualifizierten Stichprobe oder der 2
 -Stunden-Mischprobe unterschritten wird.
 
-
 ## Anhang 5 Herstellung von Obst- und Gemüseprodukten
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1122
@@ -2080,7 +2059,6 @@ verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l
 und beim
 BSB(tief)5 um 5 mg/l.
 
-
 ## Anhang 6 Herstellung von Erfrischungsgetränken und Getränkeabfüllung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1122 - 1123
@@ -2152,7 +2130,6 @@ BSB(tief)5 von der algenfreien Probe zu bestimmen. In diesem Fall
 verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l
 und beim
 BSB(tief)5 um 5 mg/l.
-
 
 ## Anhang 7 Fischverarbeitung
 
@@ -2243,7 +2220,6 @@ Tag übersteigt. Für Abwasser, dessen
 BSB(tief)5 (roh)-Fracht 6.000 kg je Tag oder mehr beträgt, gilt für
 Phosphor, gesamt, ein Wert von 1 mg/l.
 
-
 ## Anhang 8 Kartoffelverarbeitung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1124
@@ -2333,7 +2309,6 @@ BSB(tief)5 von der algenfreien Probe zu bestimmen. In diesem Fall
 verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l
 und beim
 BSB(tief)5 um 5 mg/l.
-
 
 ## Anhang 9 Herstellung von Beschichtungsstoffen und Lackharzen
 
@@ -2516,7 +2491,6 @@ auch als eingehalten, wenn nachgewiesen ist, dass leichtflüchtige
 halogenierte Kohlenwasserstoffe in der Produktion und für
 Reinigungszwecke nicht eingesetzt werden.
 
-
 ## Anhang 10 Fleischwirtschaft
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1125 - 1126
@@ -2608,7 +2582,6 @@ verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l
 und beim
 BSB(tief)5 um 5 mg/l.
 
-
 ## Anhang 11 Brauereien
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1126 - 1127
@@ -2696,7 +2669,6 @@ BSB(tief)5 von der algenfreien Probe zu bestimmen. In diesem Fall
 verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l
 und beim
 BSB(tief)5 um 5 mg/l.
-
 
 ## Anhang 12 Herstellung von Alkohol und alkoholischen Getränken
 
@@ -2792,7 +2764,6 @@ BSB(tief)5 um 5 mg/l.
 Stichprobe. Sie gelten als nicht eingehalten, wenn der Stapelteich vor
 Erreichen der festgelegten Werte abgelassen wird.
 
-
 ## Anhang 13 Holzfaserplatten
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1128
@@ -2880,7 +2851,6 @@ Schadstofffracht wird aus den Konzentrationswerten der Stichprobe und
 aus dem mit der Probenahme korrespondierenden Abwasservolumenstrom
 bestimmt.
 
-
 ## Anhang 14 Trocknung pflanzlicher Produkte für die Futtermittelherstellung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1128 - 1129
@@ -2948,7 +2918,6 @@ BSB(tief)5 um 5 mg/l.
 (4) Die Anforderungen beziehen sich bei Stapelteichen auf die
 Stichprobe. Sie gelten als nicht eingehalten, wenn der Stapelteich vor
 Erreichen der festgelegten Werte abgelassen wird.
-
 
 ## Anhang 15 Herstellung von Hautleim, Gelatine und Knochenleim
 
@@ -3029,7 +2998,6 @@ soll. Für die Frachten ist der gesamte gebundene Stickstoff
 wasserrechtlichen Zulassung zugrunde liegende Rohfracht an Phosphor,
 gesamt, mehr als 20 kg je Tag beträgt.
 
-
 ## Anhang 16 Steinkohlenaufbereitung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1130
@@ -3069,10 +3037,6 @@ Gewässer folgende Anforderungen gestellt:
     *   80 mg/l
 
     *   Stichprobe
-
-
-
-
 
 ## Anhang 17 Herstellung keramischer Erzeugnisse
 
@@ -3250,7 +3214,6 @@ die in Teil C und D vorgegebenen Konzentrationen zugelassen werden,
 wenn die sich aus den Absätzen 1, 2 und 3 jeweils ergebende Fracht
 eingehalten wird.
 
-
 ## Anhang 18 Zuckerherstellung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1131 - 1132
@@ -3344,7 +3307,6 @@ wiederverwendet werden kann, zum Zwecke der gemeinsamen Behandlung mit
 Abwasser anderer Herkunftsbereiche nur vermischt werden, wenn die
 Konzentrationen an den in Teil C Abs. 1 festgelegten Parametern die
 dort festgelegten Werte im Rohabwasser überschreiten.
-
 
 ## Anhang 19 Zellstofferzeugung
 
@@ -3510,7 +3472,6 @@ Zeitpunkt rechtmäßig begonnen worden ist, gilt abweichend von Teil C
 für den CSB ein Wert von 40 kg/t und abweichend von Teil D Abs. 1 Satz
 2 für den AOX ein Wert von 0,35 kg/t.
 
-
 ## Anhang 20 Verarbeitung tierischer Nebenprodukte
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1133 - 1134;
@@ -3611,7 +3572,6 @@ einem Betriebstagebuch aufgeführt sind und nach Angaben des
 Herstellers keine der in Satz 1 genannten Stoffe oder Stoffgruppen
 enthalten.
 
-
 ## Anhang 21 Mälzereien
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1134
@@ -3667,7 +3627,6 @@ BSB(tief)5 von der algenfreien Probe zu bestimmen. In diesem Fall
 verringern sich die in Absatz 1 festgelegten Werte beim CSB um 15 mg/l
 und beim
 BSB(tief)5 um 5 mg/l.
-
 
 ## Anhang 22 Chemische Industrie
 
@@ -4141,7 +4100,6 @@ gestellt:
 (5) Die Anforderungen für das erbgutverändernde Potential (umu-Test)
 nach Teil C Abs. 1 und den TOC nach Teil D Abs. 5 gelten nicht.
 
-
 ## Anhang 23 Anlagen zur biologischen Behandlung von Abfällen
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1137 - 1138
@@ -4389,7 +4347,6 @@ Testphase darf kein Verdünnungswasser zugegeben werden.
 Bei wesentlichen Änderungen, mindestens jedoch alle 2 Jahre, ist der
 Nachweis der Einhaltung dieser Voraussetzungen zu führen.
 
-
 ## Anhang 24 Eisen-, Stahl- und Tempergießerei
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1138 - 1140
@@ -4572,7 +4529,6 @@ aus den Konzentrationswerten der qualifizierten Stichprobe oder der 2
 -Stunden-Mischprobe, für AOX aus der Stichprobe, und aus dem mit der
 Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
 
-
 ## Anhang 25 Lederherstellung, Pelzveredlung, Lederfaserstoffherstellung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1140 - 1141
@@ -4735,7 +4691,6 @@ Stichprobe einzuhalten.
 einen Wert von 0,05 mg/l Chrom VI in der Stichprobe nicht
 überschreiten. § 6 Abs. 1 findet keine Anwendung.
 
-
 ## Anhang 26 Steine und Erden
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1141 - 1142
@@ -4884,10 +4839,6 @@ Abwasser folgende Anforderungen gestellt:
     *   -
 
     *   0,1
-
-
-
-
 
 ## Anhang 27 Behandlung von Abfällen durch chemische und physikalische Verfahren (CP-Anlagen) sowie Altölaufarbeitung
 
@@ -5241,7 +5192,6 @@ Zeitpunkt rechtmäßig begonnen worden ist, gelten die Anforderungen für
 den CSB nicht für das Abwasser aus der Behandlung von Bilgen-, Slop-
 und Ballastwasser auf Bilgenölannahme- und -behandlungsschiffen.
 
-
 ## Anhang 28 Herstellung von Papier und Pappe
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1144 - 1145)
@@ -5436,7 +5386,6 @@ die der wasserrechtlichen Zulassung zugrunde liegende
 Maschinenkapazität für das Endprodukt. Die Schadstofffracht wird aus
 den Konzentrationswerten der Stichprobe und aus dem mit der Probenahme
 korrespondierenden Abwasservolumenstrom bestimmt.
-
 
 ## Anhang 29 Eisen- und Stahlerzeugung
 
@@ -5978,10 +5927,6 @@ anfallen. In diesem Fall gelten folgende Anforderungen:
 
     *   2
 
-
-
-
-
 ## Anhang 31 Wasseraufbereitung, Kühlsysteme, Dampferzeugung
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1147 - 1150)
@@ -6420,7 +6365,6 @@ August 2002 rechtmäßig in Betrieb waren oder mit deren Bau zu diesem
 Zeitpunkt rechtmäßig begonnen worden ist, gelten nur die Anforderungen
 nach Teil B und C.
 
-
 ## Anhang 32 Verarbeitung von Kautschuk und Latizes, Herstellung und Verarbeitung von Gummi
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1150 - 1151
@@ -6601,7 +6545,6 @@ Giftigkeit gegenüber Leuchtbakterien
 G(tief)L ein Verdünnungsfaktor von
 G(tief)L = 12 in der qualifizierten Stichprobe oder der 2-Stunden-
 Mischprobe.
-
 
 ## Anhang 33 Wäsche von Abgasen aus der Verbrennung von Abfällen
 
@@ -6866,7 +6809,6 @@ Hausmüllverbrennungsanlage.
 oder der 2-Stunden-Mischprobe und aus dem mit der Probenahme
 korrespondierenden Abwasservolumenstrom ermittelt.
 
-
 ## Anhang 36 Herstellung von Kohlenwasserstoffen
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1153 - 1154
@@ -7022,7 +6964,6 @@ E   Anforderungen an das Abwasser für den Ort des Anfalls
 Im Abwasser aus der Ethylbenzol- und Cumolherstellung ist für
 adsorbierbare organisch gebundene Halogene (AOX) ein Wert von 1 mg/l
 in der Stichprobe einzuhalten.
-
 
 ## Anhang 37 Herstellung anorganischer Pigmente
 
@@ -7479,7 +7420,6 @@ von Cadmiumpigmenten beziehen sich auf die eingesetzte Cadmiummenge.
 qualifizierten Stichprobe oder der 2-Stunden-Mischprobe und aus dem
 mit der Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
 
-
 ## Anhang 38 Textilherstellung, Textilveredlung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1155 - 1157
@@ -7877,10 +7817,6 @@ Anforderungen:
 3.  Für Kupfer gilt abweichend von Teil D Abs. 1 und 2 ein Wert von 1
     mg/l.
 
-
-
-
-
 ## Anhang 39 Nichteisenmetallherstellung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1157 - 1159
@@ -8229,7 +8165,6 @@ einzuhalten:
 
 Für Hexachlorbenzol ist ein produktionsspezifischer Frachtwert von 0,3
 mg je Tonne chlorierend behandeltes Aluminium (Legierung) einzuhalten.
-
 
 ## Anhang 40 Metallbearbeitung, Metallverarbeitung
 
@@ -9841,7 +9776,6 @@ oder der 2-Stunden-Mischprobe einzuhalten.
 (5) Ort des Anfalls des Abwassers ist der Ablauf der
 Vorbehandlungsanlage für den jeweiligen Parameter.
 
-
 ## Anhang 41 Herstellung und Verarbeitung von Glas und künstlichen Mineralfasern
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1162 - 1163)
@@ -10113,7 +10047,6 @@ E   Anforderungen an das Abwasser für den Ort des Anfalls
 Bleiglas, Spezialglas, optisches Glas darf aus der Abgaswäsche kein
 Abwasser anfallen.
 
-
 ## Anhang 42 Alkalichloridelektrolyse
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1164 - 1165
@@ -10321,13 +10254,6 @@ II. Vorhandene Einleitungen aus Anlagen nach dem Diaphragmaverfahren
 
 
     (3) Teil E findet keine Anwendung.
-
-
-
-
-
-
-
 
 ## Anhang 43 Herstellung von Chemiefasern, Folien und Schwammtuch nach dem Viskoseverfahren sowie von Celluloseacetatfasern
 
@@ -10621,7 +10547,6 @@ Herstellungsverfahren mit integrierter Fadenwäsche in der
 Spinnmaschine ein produktionsspezifischer Frachtwert von 12 kg/t Zink
 in der qualifizierten Stichprobe oder der 2-Stunden-Mischprobe.
 
-
 ## Anhang 45 Erdölverarbeitung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1166 - 1167
@@ -10763,7 +10688,6 @@ E   Anforderungen an das Abwasser für den Ort des Anfalls
 Für Abwasser aus der Endparaffinierung ist für die adsorbierbaren
 organisch gebundenen Halogene (AOX) ein Wert von 0,5 mg/l in der
 Stichprobe einzuhalten.
-
 
 ## Anhang 46 Steinkohleverkokung
 
@@ -10921,7 +10845,6 @@ Verkokungskapazität auf diesen Wassergehalt umzurechnen. Die
 Schadstofffracht wird aus den Konzentrationswerten der qualifizierten
 Stichprobe oder der 2-Stunden-Mischprobe und aus dem mit der
 Probenahme korrespondierenden Abwasservolumenstrom bestimmt.
-
 
 ## Anhang 47 Wäsche von Rauchgasen aus Feuerungsanlagen
 
@@ -11118,7 +11041,6 @@ Steinkohle. Übersteigt die durch das Einsatzwasser verursachte
 Chloridkonzentration des Abwassers den Wert von 2 g/l, so ist der
 übersteigende Chloridgehalt als Fracht der berechneten Chloridfracht
 aus der verfeuerten Steinkohle hinzuzurechnen.
-
 
 ## Anhang 48 Verwendung bestimmter gefährlicher Stoffe
 
@@ -11863,7 +11785,6 @@ den Konzentrationswerten der qualifizierten Stichprobe oder der 2
 -Stunden-Mischprobe und aus dem mit der Probenahme korrespondierenden
 Abwasservolumenstrom ermittelt.
 
-
 ## Anhang 49 Mineralölhaltiges Abwasser
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1173 - 1174
@@ -12033,10 +11954,6 @@ Anforderungen:
 3.  Bei der Berechnung des Abwasseranfalls nach Teil E Abs. 1 Satz 2
     bleibt Abwasser aus der maschinellen Fahrzeugreinigung außer Betracht.
 
-
-
-
-
 ## Anhang 50 Zahnbehandlung
 
 (Fundstelle: BGBl. I 2004, 1175; bzgl. einzelner Änderungen vgl.
@@ -12133,7 +12050,6 @@ aufzufangen und über die Anforderungen des Teils E hinaus gemäß den
 geltenden Hygienebestimmungen und, soweit es sich bei dem Abscheidegut
 um Abfälle im Sinne des Kreislaufwirtschaftsgesetzes handelt, nach den
 abfallrechtlichen Vorschriften einer Verwertung zuzuführen.
-
 
 ## Anhang 51 Oberirdische Ablagerung von Abfällen
 
@@ -12380,10 +12296,6 @@ erfüllt wird:
     anderem Abwasser bereits eine CSB-Konzentration von weniger als 400
     mg/l auf.
 
-
-
-
-
 ## Anhang 52 Chemischreinigung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1177
@@ -12477,7 +12389,6 @@ Immissionsschutzgesetzes vom 10. Dezember 1990 (BGBl. I S. 2694) in
 Chemischreinigungen eingesetzt werden dürfen. Diese Anforderung gilt
 als eingehalten, wenn der Nachweis erbracht wird, dass nur zugelassene
 Halogenkohlenwasserstoffe eingesetzt werden.
-
 
 ## Anhang 53 Fotografische Prozesse (Silberhalogenid-Fotografie)
 
@@ -12690,7 +12601,6 @@ Inbetriebnahme und in regelmäßigen Abständen von nicht länger als 5
 Jahren nach Landesrecht auf ihren ordnungsgemäßen Zustand überprüft
 wird.
 
-
 ## Anhang 54 Herstellung von Halbleiterbauelementen
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1179 - 1180)
@@ -12872,7 +12782,6 @@ Halbleiterbauelementen ist ein Wert von 0,3 mg/l Arsen in der
 Stichprobe einzuhalten.
 (4) Für cadmium- und selenhaltiges Abwasser ist ein Wert von 0,2 mg/l
 Cadmium und 1 mg/l Selen in der Stichprobe einzuhalten.
-
 
 ## Anhang 55 Wäschereien
 
@@ -13123,10 +13032,6 @@ wird.
 
 \*) Aus den Bereichen Metallbearbeitung, Maschinenbau, Kraftfahrzeug-
     Betriebe und chemische Betriebe.
-
-
-
-
 
 ## Anhang 56 Herstellung von Druckformen, Druckerzeugnissen und grafischen Erzeugnissen
 
@@ -13525,7 +13430,6 @@ in der Stichprobe einzuhalten.
 (3) Im cyanidhaltigen Abwasser aus dem Tiefdruck ist für Cyanid,
 leicht freisetzbar, ein Wert von 0,2 mg/l in der Stichprobe
 einzuhalten.
-
 
 ## Anhang 57 Wollwäschereien
 

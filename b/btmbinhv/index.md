@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.8.2011 I 1754
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 4 des Betäubungsmittelgesetzes vom 28. Juli
 1981 (BGBl. I S. 681) wird verordnet:
-
 
 ## § 1
 
@@ -31,7 +29,6 @@ Wer Betäubungsmittel nach § 12 Abs. 1 des Betäubungsmittelgesetzes
 abgibt, hat für jede einzelne Abgabe einen Abgabebeleg schriftlich
 unter Verwendung des amtlichen Formblatts gemäß § 6 Absatz 1 Satz 1
 oder elektronisch gemäß § 6 Absatz 1 Satz 2 zu erstellen.
-
 
 ## § 2
 
@@ -98,7 +95,6 @@ für Arzneimittel und Medizinprodukte nicht bekannt gemacht wurde.
 
 (3) (weggefallen)
 
-
 ## § 3
 
 (1) Die Empfangsbestätigung und der Lieferschein sind dem Erwerber
@@ -112,7 +108,6 @@ zu übersenden.
 
 (3) Das Lieferscheindoppel ist vorbehaltlich der Vorschrift des § 4
 Abs. 2 bis zum Eingang der Empfangsbestätigung aufzubewahren.
-
 
 ## § 4
 
@@ -158,10 +153,6 @@ Abs. 2 bis zum Eingang der Empfangsbestätigung aufzubewahren.
     Medizinprodukte binnen einer Woche nach dem Empfang der
     Empfangsbestätigung zu übersenden.
 
-
-
-
-
 ## § 5
 
 Die Empfangsbestätigungen oder bis zu deren Eingang die
@@ -173,7 +164,6 @@ dieser Behörde vorzulegen oder ihnen im Falle einer elektronischen
 Aufbewahrung zugänglich zu machen. Die Frist beginnt für den
 Abgebenden mit dem Abgabedatum, für den Erwerber mit dem Datum des
 Empfangs der Betäubungsmittel.
-
 
 ## § 6
 
@@ -201,7 +191,6 @@ und Personenvereinigungen zu und macht die vom Bundesinstitut für
 Arzneimittel und Medizinprodukte zugewiesenen Pharmazentralnummern für
 Betäubungsmittel (§ 2 Abs. 1 Satz 1 Nr. 3 Buchstabe a) auf seiner
 Internetseite www.bfarm.de bekannt.
-
 
 ## § 7
 
@@ -242,14 +231,9 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 7.  entgegen § 5 die dort bezeichneten Teile des Abgabebelegs nicht oder
     nicht vorschriftsmäßig aufbewahrt.
 
-
-
-
-
 ## § 8 (weggefallen)
 
 -
-
 
 ## § 9
 
@@ -258,7 +242,6 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 (2)
 
 (3)
-
 
 ## Schlußformel
 

@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1702
 
-
 ## § 1 Errichtung des Sondervermögens
 
 Es wird ein Sondervermögen des Bundes unter der Bezeichnung „Vorsorge
 für Schlusszahlungen für inflationsindexierte Bundeswertpapiere“
 errichtet.
-
 
 ## § 2 Zweck des Sondervermögens
 
@@ -34,12 +32,10 @@ Bundeswertpapiers soll aus dem Sondervermögen der Betrag gezahlt
 werden, um den der Rückzahlungsbetrag den Gesamtnennbetrag übersteigt.
 Dieser Betrag wird nachfolgend als Schlusszahlung bezeichnet.
 
-
 ## § 3 Stellung im Rechtsverkehr
 
 Das Sondervermögen ist nicht rechtsfähig. Das Bundesministerium der
 Finanzen verwaltet das Sondervermögen.
-
 
 ## § 4 Zuführung der Mittel
 
@@ -63,7 +59,6 @@ umlaufende inflationsindexierte Bundeswertpapier ist dem
 Sondervermögen die bis zum Kupontermin im Jahr 2009 aufgelaufene
 Schlusszahlung im Jahr 2009 zuzuführen.
 
-
 ## § 5 Haushalt
 
 Die geplanten Einnahmen und Ausgaben des Sondervermögens werden in
@@ -77,14 +72,12 @@ Bundeshaushaltsordnung) in Höhe der dem Sondervermögen in den
 Vorjahren zugeführten und noch nicht ausgezahlten Beträge in das
 abzuschließende Haushaltsjahr umgebucht werden.
 
-
 ## § 6 Rechnungslegung
 
 Das Bundesministerium der Finanzen legt jährlich zum Stichtag 31.
 Dezember Rechnung über die Einnahmen und Ausgaben des Sondervermögens.
 Die Rechnung ist als Übersicht der Haushaltsrechnung des Bundes
 beizufügen.
-
 
 ## § 7 Inkrafttreten
 

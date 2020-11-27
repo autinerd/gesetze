@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 13.3.1980 I 317
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Nr. 1 des Textilkennzeichnungsgesetzes in der
 Fassung der Bekanntmachung vom 25. August 1972 (Bundesgesetzbl. I S.
 1545) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -63,7 +61,6 @@ Europäischen Gemeinschaften veröffentlichten Fassung. Dabei sind
 Änderungsrichtlinien vom ersten Tage des vierten Monats an zu
 berücksichtigen, der auf die Veröffentlichung folgt.
 
-
 ## § 2
 
 Bei binären Textilfasergemischen, für die in Anhang II der Richtlinie
@@ -72,7 +69,6 @@ oder die vorgeschriebenen im Einzelfall nicht anwendbar sind, hat die
 Prüfstelle eine geeignete Methode anzuwenden. Die Prüfstelle gibt in
 ihrem Bericht über die Analyse die bei der gewählten Methode gegebene
 Genauigkeit an.
-
 
 ## § 3
 
@@ -86,21 +82,15 @@ Im Sinne dieser Verordnung ist
 2.  eine Analysenprobe der Teil der Vorprobe, der zur Erzielung eines
     Analysenergebnisses im Einzelfall erforderlich ist.
 
-
-
-
-
 ## § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 16 des
 Textilkennzeichnungsgesetzes auch im Land Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

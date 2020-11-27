@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 15.1.2003 I 238
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 2 Nr. 2 und des § 10 Abs. 3 des Gesetzes über
 forstliches Saat- und Pflanzgut in der Fassung der Bekanntmachung vom
 26\. Juli 1979 (BGBl. I S. 1242) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Forsten:
-
 
 ## § 1 Bestimmung und Bezeichnung von Herkunftsgebieten
 
@@ -47,11 +45,9 @@ Herkunftsgebietes der Gattung Populus (Pappel) in den als Anlage 4
 dieser Verordnung beigefügten "Karten über forstliche
 Herkunftsgebiete" dargestellt.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3 Übergangsvorschriften
 
@@ -83,23 +79,19 @@ Anträge können nur bis zum 31. Dezember 1995 gestellt werden.
 
 (3) (weggefallen)
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
 (Inhalt: nicht darstellbare Übersicht über ökologische Grundeinheiten
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
 9\.12.1994 I 3578)
-
 
 ## Anlage 2 (zu § 1 Abs. 1 Forstsaat-Herkunftsgebietsverordnung)
 
@@ -108,7 +100,6 @@ Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher
 Herkunftsgebiete
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
 9\.12.1994 I 3578)
-
 
 ## Anlage 3 (zu § 1 Abs. 2) Übersicht über forstliche Herkunftsgebiete
 
@@ -1815,10 +1806,6 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v.
 
     *   7, 8, 12, 20-24, 29-35, 38-46
 
-
-
-
-
 ## Anlage 4 (zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung) Karte über forstliche Herkunftsgebiete
 
 (Inhalt: nicht darstellbare Karten,
@@ -1842,7 +1829,6 @@ Karte über forstliche Herkunftsgebiete - Stieleiche,
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v.
 9\.12.1994 I 3578;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 5
 

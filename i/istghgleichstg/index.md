@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2144, 2162
 
-
-
 ## § 1 Ruhen der Verfolgungsverjährung
 
 Die Verfolgungsverjährung für der deutschen Gerichtsbarkeit
@@ -29,7 +27,6 @@ Internationalen Strafgerichtshofes vom 17. Juli 1998 (BGBl. 2000 II S.
 Vollstreckungsstaat bis zur ihrer Rückgabe an die deutschen Behörden
 oder ihre Freilassung durch den Gerichtshof oder den
 Vollstreckungsstaat.
-
 
 ## § 2 Gleichstellung der Richter und Bediensteten
 

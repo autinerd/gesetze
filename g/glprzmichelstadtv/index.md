@@ -23,8 +23,6 @@ Zuletzt geändert durch
 V aufgeh. durch
 :   § 3 Abs. 1 idF Art. 1 Nr. 2 V v. 20.6.2012 I 1385 mWv 1.10.2016
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 1 des Berufsbildungsgesetzes vom 23. März 2005
@@ -37,7 +35,6 @@ durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
@@ -88,10 +85,6 @@ nachstehenden Aufstellung gleichgestellt:
         Abschnitt 1 der Handwerksordnung
         "Holzbildhauer"
 
-
-
-
-
 ## § 2 Fortgeltung von Gleichstellungen
 
 Die Gleichstellungen auf Grund der Verordnung zur Gleichstellung von
@@ -103,14 +96,12 @@ geändert durch die Verordnung vom 10. April 1996 (BGBl. I S. 603),
 gelten fort. Dies gilt auch für Zeugnisse, die vom 1. Oktober 2001 bis
 zum 25. Juli 2007 erteilt worden sind.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am
 1\. Oktober 2016 außer Kraft .
 
 (2)
-
 
 ## Schlussformel
 

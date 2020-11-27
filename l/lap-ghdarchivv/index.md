@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 33 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -31,10 +30,7 @@ S. 706) neu gefasst worden ist, verordnet der Beauftragte der
 Bundesregierung für Angelegenheiten der Kultur und der Medien im
 Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -105,7 +101,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -127,7 +122,6 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet;
 das Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörden
 
 Einstellungsbehörden sind das Bundesarchiv und die Stiftung
@@ -137,7 +131,6 @@ der Anwärterinnen und Anwärter; sie treffen die Entscheidungen über
 Verkürzung und Verlängerung des Vorbereitungsdienstes. Die
 Einstellungsbehörden sind die für die beamtenrechtlichen
 Entscheidungen zuständigen Dienstbehörden.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -154,10 +147,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 3.  hinreichende Kenntnisse in Englisch und Latein oder Englisch und
     Französisch nachweist.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -191,13 +180,6 @@ Bewerbung sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -250,7 +232,6 @@ von der Präsidentin oder dem Präsidenten der jeweiligen
 Einstellungsbehörde für die Dauer von fünf Jahren bestellt. Eine
 Wiederbestellung ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörde entscheidet nach dem Ergebnis des
@@ -295,7 +276,6 @@ weitere Unterlagen beizubringen:
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -308,7 +288,6 @@ jeweiligen Einstellungsbehörde. Während der Ausbildung an einer
 Fachhochschule für öffentliche Verwaltung und der Archivschule Marburg
 - Fachhochschule für Archivwesen - unterstehen sie auch deren
 Dienstaufsicht.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -363,11 +342,9 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 37 Abs. 2.
 
-
 ### § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Schwerbehinderte Menschen
 
@@ -387,7 +364,6 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft die
 Einstellungsbehörde.
-
 
 ### § 12 Gliederung des Vorbereitungsdienstes
 
@@ -458,7 +434,6 @@ Lehrveranstaltungen umfassen zusammen mindestens 2.200 Lehrstunden.
 Während der Praktika werden praxisbezogene Lehrveranstaltungen
 durchgeführt.
 
-
 ### § 13 Fachhochschule für öffentliche Verwaltung, Archivschule Marburg - Fachhochschule für Archivwesen
 
 Die Fachstudien werden an einer Fachhochschule für öffentliche
@@ -466,7 +441,6 @@ Verwaltung und an der Archivschule Marburg - Fachhochschule für
 Archivwesen - durchgeführt. Die Einstellungsbehörde weist die
 Anwärterinnen und Anwärter der jeweiligen Fachhochschule zum Studium
 zu.
-
 
 ### § 14 Grundsätze der Fachstudien
 
@@ -478,7 +452,6 @@ jeweiligen Fachhochschule für öffentliche Verwaltung und der
 Studienordnung der Archivschule Marburg - Fachhochschule für
 Archivwesen. Das Hauptstudium vollzieht sich nach der Studienordnung
 der Archivschule Marburg - Fachhochschule für Archivwesen.
-
 
 ### § 15 Grundstudium
 
@@ -535,16 +508,11 @@ für Archivwesen - umfasst die Studienfächer
 
 7.  lateinischer und französischer Sprachunterricht.
 
-
-
-
-
 ### § 16 Hauptstudium
 
 Das Hauptstudium vermittelt den Anwärterinnen und Anwärtern gründliche
 Fachkenntnisse und die Fähigkeit, methodisch und selbständig auf
 wissenschaftlicher Grundlage zu arbeiten.
-
 
 ### § 17 Ziele der berufspraktischen Studienzeiten
 
@@ -553,7 +521,6 @@ und Anwärter berufliche Kenntnisse und Erfahrungen als Grundlage für
 die Fachstudien, vertiefen die in den Fachstudien erworbenen
 wissenschaftlichen Kenntnisse und lernen, sie in der Praxis
 anzuwenden.
-
 
 ### § 18 Inhalt der Praktika
 
@@ -576,7 +543,6 @@ im Vortrag und in der Verhandlungsführung zu üben.
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
 ### § 19 Durchführung der Praktika
 
 (1) Die jeweilige Einstellungsbehörde ist verantwortlich für die
@@ -585,7 +551,6 @@ Gestaltung, Durchführung und Überwachung der Praktika.
 (2) Die Praktika finden bei der Einstellungsbehörde statt. Drei Monate
 des Praktikums II finden als praxisbezogene Lehrveranstaltungen an der
 Archivschule Marburg - Fachhochschule für Archivwesen - statt.
-
 
 ### § 20 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
@@ -609,7 +574,6 @@ werden am Arbeitsplatz unterwiesen und angeleitet. Die Ausbilderinnen
 und Ausbilder unterrichten die Ausbildungsleitung regelmäßig über den
 erreichten Ausbildungsstand.
 
-
 ### § 21 Praxisbezogene Lehrveranstaltungen
 
 Die praxisbezogenen Lehrveranstaltungen haben zum Ziel, auf die
@@ -617,7 +581,6 @@ Fachstudien vorzubereiten und die in den Fachstudien und in den
 Praktika gewonnenen Kenntnisse in enger Beziehung zur Praxis zu
 vertiefen. Die Lehrveranstaltungen und der praktische Einsatz am
 Arbeitsplatz werden aufeinander abgestimmt.
-
 
 ### § 22 Leistungsnachweise während der Fachstudien
 
@@ -674,7 +637,6 @@ oder Anwärter Fächer belegt haben, in denen keine Leistungsnachweise
 gefordert sind, wird die Teilnahme bescheinigt. Die Anwärterinnen und
 Anwärter erhalten eine Ausfertigung der Bescheinigung.
 
-
 ### § 23 Bewertungen während der berufspraktischen Studienzeiten
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -696,10 +658,7 @@ indem die Summe der Rangpunkte durch die Anzahl der bewerteten
 Ausbildungsabschnitte geteilt wird. Die Anwärterinnen und Anwärter
 erhalten eine Ausfertigung des Zeugnisses.
 
-
 ## Kapitel 2 - Laufbahnprüfung
-
-
 
 ### § 24 Prüfungsamt
 
@@ -715,7 +674,6 @@ Laufbahnprüfung werden nach Maßgabe dieser Verordnung von der
 jeweiligen Einstellungsbehörde wahrgenommen. Das Prüfungsamt kann in
 Einzelfällen weitere Aufgaben auf die jeweilige Einstellungsbehörde
 übertragen.
-
 
 ### § 25 Prüfungskommission
 
@@ -753,7 +711,6 @@ entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
-
 ### § 26 Ziel und Inhalt der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung wird festgestellt, ob die Anwärterinnen und
@@ -783,7 +740,6 @@ zuzuhören; sie dürfen während der Prüfung keinerlei Aufzeichnungen
 machen. Bei den Beratungen der Prüfungskommission dürfen nur deren
 Mitglieder anwesend sein.
 
-
 ### § 27 Prüfungsort, Prüfungstermin
 
 (1) Die Einstellungsbehörde setzt Ort und Zeit der schriftlichen und
@@ -799,7 +755,6 @@ sein.
 
 (3) Die Einstellungsbehörde teilt den Anwärterinnen und Anwärtern Ort
 und Zeit der schriftlichen und der mündlichen Prüfung rechtzeitig mit.
-
 
 ### § 28 Schriftliche Prüfung
 
@@ -866,7 +821,6 @@ der sie versichern, dass bei der Fertigung der Arbeit keine fremde
 Hilfe in Anspruch genommen wurde. Für die Bewertung der Ordnungs- und
 Verzeichnungsarbeit gelten die Regelungen des Absatzes 7 entsprechend.
 
-
 ### § 29 Zulassung zur mündlichen Prüfung
 
 (1) Anwärterinnen und Anwärter sind zur mündlichen Prüfung gemäß § 30
@@ -883,7 +837,6 @@ die von ihnen in den einzelnen schriftlichen Aufsichtsarbeiten
 erzielten Rangpunkte mit, wenn sie dies beantragen. Die Nichtzulassung
 bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung
 versehen.
-
 
 ### § 30 Mündliche Prüfung
 
@@ -953,7 +906,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 (6) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
 
-
 ### § 31 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -978,7 +930,6 @@ erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend"
 (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden
 erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu
 versehen.
-
 
 ### § 32 Täuschung, Ordnungsverstoß
 
@@ -1015,7 +966,6 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Die oder der Betroffene wird vor der Entscheidung nach den
 Absätzen 2 und 3 gehört.
-
 
 ### § 33 Bewertung von Prüfungsleistungen
 
@@ -1211,7 +1161,6 @@ aus wird die Erteilung des der Leistung entsprechenden Rangpunktes
 begründet. Für die Bewertung mündlicher Leistungen gelten diese
 Grundsätze sinngemäß.
 
-
 ### § 34 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1259,7 +1208,6 @@ erreicht ist.
 der Vorsitzende den Prüfungsteilnehmerinnen und -teilnehmern die
 erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-
 ### § 35 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1283,7 +1231,6 @@ das Prüfungsamt, im Falle des Absatzes 2 durch die Einstellungsbehörde
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 32 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 36 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse und Bescheinigungen über
@@ -1300,7 +1247,6 @@ Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 37 Wiederholung
 
@@ -1321,10 +1267,7 @@ bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die
 bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der
 Wiederholungsfrist verlängert.
 
-
 ## Kapitel 3 - Sonstige Vorschriften
-
-
 
 ### § 38 Übergangsregelung
 
@@ -1334,7 +1277,6 @@ Recht zu Ende. Für Anwärterinnen und Anwärter, die den
 Vorbereitungsdienst ab dem 1. September 2001 begonnen haben, gilt
 diese Verordnung mit der Maßgabe, dass ihre Ausbildung zum
 nächstfolgenden neuen Studienabschnitt umgestellt wird.
-
 
 ### § 39 Inkrafttreten
 

@@ -20,14 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 55 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 2 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes vom 25. Juli 1991 (BGBl. I S. 1606,
 1677) verordnet der Bundesminister für Arbeit und Sozialordnung im
 Einvernehmen mit dem Bundesminister der Finanzen:
-
 
 ## § 1 Erstattungsfähige Aufwendungen
 
@@ -75,7 +73,6 @@ Anwartschaftsüberführungsgesetzes sind
 (2) Aufwendungen im Sinne des § 15 Abs. 3 Satz 1 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes sind die Zahlbeträge von Leistungen
 nach den §§ 9 und 11 dieses Gesetzes.
-
 
 ## § 2 Berechnung der Erstattungsbeträge bei Renten und sonstigen Leistungen
 
@@ -166,7 +163,6 @@ Anspruchs- und Anwartschaftsüberführungsgesetzes die durch die
 Deutsche Rentenversicherung Bund ausgezahlte Leistung in der vom
 Versorgungsträger mitgeteilten Höhe.
 
-
 ## § 3 Erstattung der Verwaltungskosten
 
 Der Deutschen Rentenversicherung Bund werden die Verwaltungskosten,
@@ -178,7 +174,6 @@ Jahres, für das die Erstattung geltend gemacht wird, die für die
 Durchführung erforderlichen Verwaltungskosten nach. Für die Ermittlung
 der Personalkosten gelten die Personalkostensätze des Bundes
 entsprechend.
-
 
 ## § 4 Erfassung der Aufwendungen
 
@@ -219,14 +214,12 @@ und den Erstattungsbetrag bei Leistungen zur Teilhabe in dem
 Verhältnis auf, in dem die jeweilige Anzahl der Zahlfälle aus
 überführten Versorgungen nach Satz 1 zur Summe dieser Zahlfälle steht.
 
-
 ## § 5 Vorschüsse
 
 Auf die jährlichen Erstattungsbeträge nach den §§ 2 und 3 leistet der
 Bund jeweils am Auszahlungstag der Rentenleistung in das Inland
 monatliche Vorschüsse. Das Bundesversicherungsamt setzt die Vorschüsse
 fest.
-
 
 ## § 6 Durchführung des Erstattungsverfahrens und der Abrechnung
 
@@ -238,11 +231,9 @@ Kalenderjahr zuzuordnen sind.
 geleisteten monatlichen Vorschüsse den endgültigen Erstattungsbeträgen
 gegenüber und führt die Schlußabrechnung durch.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
-
 
 ## Schlußformel
 

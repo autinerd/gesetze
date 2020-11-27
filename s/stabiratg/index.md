@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2702
 
-
 ## § 1 Stabilitätsrat
 
 (1) Bund und Länder bilden einen Stabilitätsrat mit dem Ziel der
@@ -61,14 +60,12 @@ Vertreter aus dem Bundesministerium der Finanzen sowie aus einer oder
 einem von der Finanzministerkonferenz der Länder benannten Vertreterin
 oder Vertreter besteht.
 
-
 ## § 2 Aufgaben des Stabilitätsrates
 
 Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der
 Haushalte des Bundes und der Länder sowie die Durchführung von
 Sanierungsverfahren nach § 5. Dem Stabilitätsrat können durch Gesetz
 weitere Aufgaben übertragen werden.
-
 
 ## § 3 Regelmäßige Haushaltsüberwachung
 
@@ -87,7 +84,6 @@ fest.
 
 (3) Die vorgelegten Haushaltskennziffern und die Schlussfolgerungen
 des Stabilitätsrates werden veröffentlicht.
-
 
 ## § 4 Drohende Haushaltsnotlage
 
@@ -124,7 +120,6 @@ droht und gibt eine entsprechende Beschlussempfehlung.
 (5) Der Stabilitätsrat beschließt aufgrund des Prüfberichts nach
 Absatz 4, ob im Bund oder in dem betreffenden Land eine
 Haushaltsnotlage droht.
-
 
 ## § 5 Sanierungsverfahren
 

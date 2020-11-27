@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 30.4.2012 I 1002
 
-
 ## Eingangsformel
 
 Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24
@@ -27,10 +26,7 @@ Satz 1 Nr. 1 und 2 in Verbindung mit Satz 2 Nr. 1, 2 und 3 sowie Satz
 des § 29 Abs. 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005
 (BGBl. I S. 1970) verordnet die Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -41,7 +37,6 @@ Entnahme von elektrischer Energie an räumlich davon entfernt liegenden
 Entnahmestellen der Elektrizitätsversorgungsnetze. Die Regelungen der
 Verordnung sind abschließend im Sinne des § 111 Abs. 2 Nr. 2 des
 Energiewirtschaftsgesetzes.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -129,10 +124,6 @@ Im Sinne dieser Verordnung bedeutet
 
     der Netzpunkt, an dem der Energiefluss zähltechnisch erfasst wird.
 
-
-
-
-
 ### § 3 Grundlagen des Netzzugangs
 
 (1) Netznutzungsvertrag oder Lieferantenrahmenvertrag vermitteln den
@@ -148,14 +139,9 @@ unberührt.
 voraus, dass der Bilanzkreis in ein nach § 26 vertraglich begründetes
 Bilanzkreissystem einbezogen ist.
 
-
 ## Teil 2 - Zugang zu Übertragungsnetzen
 
-
-
 ### Abschnitt 1 - Bilanzkreissystem
-
-
 
 #### § 4 Bilanzkreise
 
@@ -195,7 +181,6 @@ Hinblick auf die Verwendung für die Bilanzkreisabrechnung, und
 Einwände gegen die Vollständigkeit oder Richtigkeit unverzüglich dem
 zuständigen Betreiber von Elektrizitätsversorgungsnetzen in
 elektronischer Form mitzuteilen.
-
 
 #### § 5 Grundsätze der Fahrplanabwicklung und untertäglicher Handel
 
@@ -247,10 +232,7 @@ Viertelstunde ändern. Der Betreiber von Übertragungsnetzen kann nach
 der Fahrplanänderung vom Bilanzkreisverantwortlichen einen Nachweis
 darüber verlangen, dass ein ungeplanter Kraftwerksausfall vorliegt.
 
-
 ### Abschnitt 2 - Ausgleichsleistungen
-
-
 
 #### § 6 Grundsätze der Beschaffung von Regelenergie
 
@@ -293,7 +275,6 @@ Bedingungen.
 des Energiewirtschaftsgesetzes getroffene Festlegungen der
 Bundesnetzagentur zu beachten.
 
-
 #### § 7 Erbringung von Regelenergie
 
 Die Regelenergiearten Primärregelung, Sekundärregelung und
@@ -304,7 +285,6 @@ Angebot von den jeweiligen Betreibern von Übertragungsnetzen
 einzusetzen. Bei Netzeinschränkungen kann von den Angebotskurven
 abgewichen werden, wenn die Netzeinschränkungen begründet dargelegt
 werden können.
-
 
 #### § 8 Abrechnung von Regelenergie
 
@@ -333,7 +313,6 @@ jeweiligen Abrechnungsmonat zu erfolgen. Diese Frist kann auf Antrag
 des Betreibers von Übertragungsnetzen von der Regulierungsbehörde
 verlängert werden.
 
-
 #### § 9 Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie
 
 (1) Betreiber von Übertragungsnetzen sind verpflichtet, die
@@ -348,7 +327,6 @@ ist insbesondere der Preis des Grenzanbieters zu veröffentlichen.
 (2) Die Betreiber von Übertragungsnetzen haben auf ihrer gemeinsamen
 Internetplattform für jede Ausschreibung eine gemeinsame Angebotskurve
 zu veröffentlichen.
-
 
 #### § 10 Verlustenergie
 
@@ -369,7 +347,6 @@ Ausgleich von Verlustenergie umfasst. Von der Verpflichtung nach Satz
 1 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als
 100\.000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
-
 #### § 11 Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz
 
 Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
@@ -382,10 +359,7 @@ Energien nach dem Erneuerbare-Energien-Gesetz der Betreiber von
 Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100 000
 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
-
 ## Teil 3 - Zugang zu Elektrizitätsverteilernetzen
-
-
 
 ### § 12 Standardisierte Lastprofile
 
@@ -441,7 +415,6 @@ Internetseite zu veröffentlichen. Von der Verpflichtung nach Satz 1
 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100
 000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
-
 ### § 13 Jahresmehr- und Jahresmindermengen
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet,
@@ -481,10 +454,7 @@ Jahresmindermengen auf Grundlage der monatlichen Marktpreise einen
 einheitlichen Preis. Dieser Preis ist auf der jeweiligen Internetseite
 des Betreibers von Elektrizitätsverteilernetzen zu veröffentlichen.
 
-
 ## Teil 4 - Sonstige Pflichten der Betreiber von Elektrizitätsversorgungsnetzen
-
-
 
 ### § 14 Lieferantenwechsel
 
@@ -545,7 +515,6 @@ Lieferantenwechsel nicht von anderen Bedingungen als den in den
 Absätzen 1 bis 3 genannten abhängig machen. § 27 Abs. 1 Nr. 17 bleibt
 unberührt.
 
-
 ### § 15 Engpassmanagement
 
 (1) Betreiber von Übertragungsnetzen haben im Rahmen des
@@ -589,7 +558,6 @@ mitzuteilen. Die Veröffentlichung und Mitteilung müssen enthalten:
 (5) Die Absätze 1 bis 4 gelten auch für Betreiber von
 Elektrizitätsverteilernetzen.
 
-
 ### § 16 Allgemeine Zusammenarbeitspflichten
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
@@ -601,7 +569,6 @@ gesamten Elektrizitätsversorgungsnetz so gering wie möglich zu halten.
 untereinander die zur effizienten Organisation des Netzzugangs
 erforderlichen Verträge abzuschließen und die notwendigen Daten
 unverzüglich auszutauschen.
-
 
 ### § 17 Veröffentlichungspflichten der Betreiber von Elektrizitätsversorgungsnetzen
 
@@ -676,10 +643,6 @@ zumindest im Internet, zu veröffentlichen:
 
 7.  die Mengen und Preise der Verlustenergie.
 
-
-
-
-
 ### § 18 Messung
 
 (1) Die Messung erfolgt nach § 10 der Messzugangsverordnung. Handelt
@@ -691,7 +654,6 @@ Messung außer Verhältnis zur Höhe des Verbrauchs stehen.
 
 (2) Sofern der Netzbetreiber der Messstellenbetreiber ist, stehen die
 Messeinrichtungen in seinem Eigentum.
-
 
 ### § 18a Messung der von Haushaltskunden entnommenen Elektrizität
 
@@ -710,13 +672,11 @@ jahreszeitliche Verbrauchsschwankungen sind auf der Grundlage der für
 Haushaltskunden maßgeblichen Erfahrungswerte angemessen zu
 berücksichtigen.
 
-
 ### § 18b Messung auf Vorgabe des Netznutzers
 
 Liegt eine Vereinbarung nach § 40 Absatz 3 Satz 2 des
 Energiewirtschaftsgesetzes vor, sind die hieraus folgenden Vorgaben
 des Netznutzers zu den Zeitabständen der Messung zu beachten.
-
 
 ### § 19 Betrieb von Mess- und Steuereinrichtungen
 
@@ -727,7 +687,6 @@ des Netznutzers zu den Zeitabständen der Messung zu beachten.
 Mess- und Steuereinrichtungen, soweit ihn daran ein Verschulden
 trifft. Er hat den Verlust, Beschädigungen und Störungen dieser
 Einrichtungen dem Messstellenbetreiber unverzüglich mitzuteilen.
-
 
 ### § 20 Nachprüfung von Messeinrichtungen
 
@@ -742,7 +701,6 @@ Antragstellung zu benachrichtigen.
 Last, falls die Nachprüfung ergibt, dass die Messeinrichtung nicht
 verwendet werden darf, sonst dem Netznutzer.
 
-
 ### § 21 Vorgehen bei Messfehlern
 
 Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der
@@ -755,7 +713,6 @@ Ablesezeitraumes oder auf Grund des Vorjahreswertes durch Schätzung,
 soweit aus Parallelmessungen vorhandene Messwerte keine ausreichende
 Verlässlichkeit bieten.
 
-
 ### § 22 Datenaustausch
 
 Der Datenaustausch zur Anbahnung und zur Abwicklung der Netznutzung
@@ -767,10 +724,7 @@ erfolgen. Die Betreiber von Elektrizitätsversorgungsnetzen stellen
 sicher, dass der Datenaustausch in einheitlichen Prozessen erfolgt,
 die eine größtmögliche Automatisierung ermöglichen.
 
-
 ## Teil 5 - Vertragsbeziehungen
-
-
 
 ### § 23 Vertragliche Ausgestaltung des Netzzugangs
 
@@ -786,7 +740,6 @@ vollständiges und bindendes Angebot abzugeben.
 die von ihnen geschlossenen Verträge aus wichtigem Grund fristlos zu
 kündigen. Sie können in begründeten Fällen vom Netznutzer eine
 Sicherheitsleistung verlangen.
-
 
 ### § 24 Netznutzungsvertrag
 
@@ -827,10 +780,6 @@ zu folgenden Gegenständen enthalten:
 
 
 9.  Kündigungsrechte.
-
-
-
-
 
 ### § 25 Lieferantenrahmenvertrag
 
@@ -876,14 +825,9 @@ zu folgenden Gegenständen enthalten:
 
 11. Kündigungsrechte.
 
-
-
-
-
 ### § 25a Haftung bei Störungen der Netznutzung
 
 § 18 der Niederspannungsanschlussverordnung gilt entsprechend.
-
 
 ### § 26 Bilanzkreisvertrag
 
@@ -927,10 +871,7 @@ Bilanzkreis für Fahrplangeschäfte öffnen, die der Bereitstellung von
 Minutenreserve dienen, die ein Bereitsteller des eigenen Bilanzkreises
 über einen anderen Bilanzkreis abwickeln will.
 
-
 ## Teil 6 - Befugnisse der Regulierungsbehörde
-
-
 
 ### § 27 Festlegungen der Regulierungsbehörde
 
@@ -1058,7 +999,6 @@ gewährleisten ist.
 (4) Die Regulierungsbehörde kann Entscheidungen nach den Absätzen 1
 bis 3 in ihrem Amtsblatt öffentlich bekannt machen.
 
-
 ### § 28 Standardangebote
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1
@@ -1093,10 +1033,7 @@ Energiewirtschaftsgesetzes.
 (5) Für Änderungen des Standardangebotes nach § 29 Abs. 2 des
 Energiewirtschaftsgesetzes gelten die Absätze 1 bis 4 entsprechend.
 
-
 ## Teil 7 - Sonstige Bestimmungen
-
-
 
 ### § 29 Ordnungswidrigkeiten
 
@@ -1111,7 +1048,6 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16,
 17 oder 18 oder § 28 Abs. 1 Satz 2 zuwiderhandelt.
 
-
 ### § 30 Übergangsregelungen
 
 (1) § 11 ist erst ab dem 1. Oktober 2005 anzuwenden.
@@ -1120,11 +1056,9 @@ einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16,
 für die Primär- und Sekundärregelenergie erst ab dem 1. Juli 2006
 anzuwenden.
 
-
 ### § 31 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

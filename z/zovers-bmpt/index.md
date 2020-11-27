@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 282
 
-
-
 ## I. Übertragung von beamtenversorgungsrechtlichen Zuständigkeiten
 
 (1) Auf Grund des § 49 Abs. 1 Satz 2 des Gesetzes über die Versorgung
@@ -48,7 +46,6 @@ Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung vom
 5\. September 1991 (BGBl. I S. 1983), geändert durch Anordnung vom 28.
 November 1994 (BGBl. I S. 3854).
 
-
 ## II. Erlaß von Widerspruchsbescheiden und Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis in Angelegenheiten der Beamtenversorgung
 
 (1) Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -75,14 +72,12 @@ Widerspruchsbescheiden zuständig sind.
 Für besondere Fälle behalte ich mir die Vertretung des Dienstherrn
 vor.
 
-
 ## III. Inkrafttreten
 
 (1) Diese Anordnung tritt am Tage nach ihrer Veröffentlichung im
 Bundesgesetzblatt in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

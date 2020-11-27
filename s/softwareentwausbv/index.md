@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 326
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -27,18 +25,15 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie und das Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mathematisch-technischer Softwareentwickler
 /Mathematisch-technische Softwareentwicklerin wird nach § 4 Abs. 1 des
 Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -166,13 +161,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
     3.3 Teamarbeit, Projektmanagement.
 
-
-
-
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -192,7 +180,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -245,10 +232,6 @@ bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt höchstens 60 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -504,14 +487,12 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 7 Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Mathematisch-
 technischer Assistent/Mathematisch-technische Assistentin sind
 vorbehaltlich des § 8 nicht mehr anzuwenden.
-
 
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
@@ -520,11 +501,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 3 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
 

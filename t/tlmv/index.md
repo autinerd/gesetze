@@ -24,7 +24,6 @@ Zuletzt geändert durch
 Mit dieser Verordnung wird die Richtlinie 89/108/EWG des Rates vom 21.
 Dezember 1988 (ABl. EG Nr. L 40 S. 34) in deutsches Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 1 Nr. 1 und 2 Buchstabe a, b und d sowie Nr. 4
@@ -36,7 +35,6 @@ vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 23.
 Januar 1991 (BGBl. I S. 530) verordnet der Bundesminister für
 Gesundheit im Einvernehmen mit den Bundesministern für Ernährung,
 Landwirtschaft und Forsten und für Wirtschaft:
-
 
 ## § 1 Begriffsbestimmung, Anwendungsbereich
 
@@ -60,7 +58,6 @@ Lebensmittel, die
 (2) Speiseeis unterliegt nicht den Vorschriften dieser Verordnung.
 
 (3) (weggefallen)
-
 
 ## § 2 Anforderungen an das Herstellen und Behandeln
 
@@ -102,7 +99,6 @@ Hotels, Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung, wie
 Kantinen oder Krankenhäuser, sowie die Direktlieferung an
 Privathaushalte.
 
-
 ## § 2a Lufttemperaturmessung
 
 (1) Der für die Beförderung sowie für die Einlagerungs- und
@@ -126,7 +122,6 @@ bei offenen Tiefkühlmöbeln die Lufttemperatur auf der Seite der
 Luftrückführung in Höhe der maximalen Füllhöhe anzeigen. Die Füllhöhe
 ist deutlich zu kennzeichnen.
 
-
 ## § 2b Amtliche Lebensmittelüberwachung
 
 (1) Die amtliche Überwachung der Temperaturen tiefgefrorener
@@ -145,14 +140,12 @@ vergleichbare Temperaturmessverfahren angewandt werden. Bei
 voneinander abweichenden Ergebnissen sind die mit den
 gemeinschaftlichen Verfahren erhaltenen Ergebnisse ausschlaggebend.
 
-
 ## § 3 Bezeichnungsschutz
 
 Lebensmittel dürfen mit den Angaben "tiefgefroren", "tiefgekühlt",
 "Tiefkühlkost" oder "gefrostet" gewerbsmäßig nur in den Verkehr
 gebracht werden, wenn sie den Anforderungen des § 1 Abs. 1 Nr. 1 und
 des § 2 entsprechen.
-
 
 ## § 4 Verpackung
 
@@ -161,7 +154,6 @@ sind, dürfen gewerbsmäßig nur in Fertigpackungen in den Verkehr
 gebracht werden, die das Lebensmittel vor Austrocknung sowie vor
 Befall durch Mikroorganismen und anderen nachteiligen Beeinflussungen
 von außen schützen.
-
 
 ## § 5 Kennzeichnung von Erzeugnissen für Verbraucher
 
@@ -192,7 +184,6 @@ Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
 Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen,
 gleich.
 
-
 ## § 6 Kennzeichnung von Erzeugnissen, die nicht für Verbraucher bestimmt sind
 
 (1) Tiefgefrorene Lebensmittel, die nicht zur Abgabe an Verbraucher
@@ -220,7 +211,6 @@ gleich.
 
 (2) Die Angaben nach Absatz 1 müssen auf der Packung, dem Behältnis,
 der Umhüllung oder einem damit verbundenen Etikett angebracht werden.
-
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
@@ -263,21 +253,17 @@ sowie Einlagerungs- und Lagereinrichtungen (ABl. EU Nr. L 10 S. 18,
 Nr. L 153 S. 43) eine Aufzeichnung nicht oder nicht mindestens ein
 Jahr aufbewahrt.
 
-
 ## § 7a (weggefallen)
 
 -
-
 
 ## § 8 (Inkrafttreten)
 
 -
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (weggefallen)
 

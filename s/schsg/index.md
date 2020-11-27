@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 8.3.2012 I 483
 
-
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
 
 (1) Dieses Gesetz bestimmt, welche Maßnahmen bei der Durchführung der
@@ -67,10 +66,6 @@ nicht für
 
 6.  den Warenverkehr einschließlich der Sicherheit nach dem
     Produktsicherheitsgesetz.
-
-
-
-
 
 ## § 2 Weitere Begriffsbestimmungen und Ausnahmen vom Anwendungsbereich
 
@@ -161,7 +156,6 @@ die im Dienst ausländischer Staaten ausschließlich für andere als
 Handelszwecke genutzt werden, sind die Vorschriften dieses Gesetzes
 nicht anwendbar.
 
-
 ## § 3 Grundsatz
 
 Wer ein Schiff zur Seefahrt einsetzt, ist verpflichtet, für dessen
@@ -173,7 +167,6 @@ dem Betrieb getroffen werden. Dies umfaßt auch, daß Personen, die in
 dem Schiffahrtsunternehmen und auf dem Schiff hierfür beauftragt
 werden, wirksam ausgewählt, angeleitet, unterrichtet, beobachtet und
 unterstützt werden.
-
 
 ## § 4 Einheitliche Durchführung völkerrechtlicher Regeln und Normen
 
@@ -188,7 +181,6 @@ sind, gelten für die Verantwortlichkeit hinsichtlich der Erfüllung
 dieser Anforderungen die in den §§ 7 bis 9 enthaltenen einheitlichen
 Grundsätze. Bei der Erfüllung der Pflichten sind die in Abschnitt C
 der Anlage genannten Bestimmungen zugrunde zu legen.
-
 
 ## § 5 Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften
 
@@ -211,10 +203,6 @@ hinsichtlich der Erfüllung der sich daraus ergebenden Pflichten die §§
 
 \*) Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage
     genannten gemeinschaftsrechtlichen Vorschriften.
-
-
-
-
 
 ## § 6 Ergänzende Pflichten
 
@@ -246,7 +234,6 @@ Regeln der Technik bleibt unberührt. Das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung macht den Abschnitt E betreffende
 Änderungen und Ergänzungen im Verkehrsblatt bekannt.
 
-
 ## § 7 Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
 
 Für die Erfüllung von Anforderungen, die
@@ -273,7 +260,6 @@ Für die Erfüllung von Anforderungen, die
 
 
 betreffen, ist der Schiffseigentümer verantwortlich.
-
 
 ## § 8 Verhalten beim Schiffsbetrieb
 
@@ -317,7 +303,6 @@ zählen insbesondere die Verpflichtungen nach dem Internationalen
 dem Internationalen Code für die Gefahrenabwehr auf Schiffen und in
 Hafenanlagen, soweit sie die Gefahrenabwehr durch den Kapitän
 betreffen.
-
 
 ## § 9 Verantwortliche Personen
 
@@ -368,7 +353,6 @@ entsprechenden Verantwortlichkeit des Schiffseigentümers.
 (3) Die Verantwortlichkeit nach anderen Rechtsvorschriften bleibt
 unberührt.
 
-
 ## § 10 Überwachung
 
 (1) Der Schiffseigentümer und der Schiffsführer haben auf Anforderung
@@ -399,7 +383,6 @@ Flaggenstaats.
 (5) Die Verantwortlichkeit der in diesem Gesetz oder in sonstigen
 Rechtsvorschriften Genannten bleibt unberührt.
 
-
 ## § 11 Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften
 
 (1) Die im Sinne des § 10 Abs. 2 zuständigen Behörden des Bundes haben
@@ -427,10 +410,6 @@ eingezogen oder verwahrt.
 \*) Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage
     genannten gemeinschaftsrechtlichen Vorschriften.
 
-
-
-
-
 ## § 12 Ermessensbindung
 
 Wird in den internationalen Regelungen die Ausfüllung eines
@@ -441,7 +420,6 @@ Seeschiffahrts-Organisation oder einer anderen für diesen Bereich
 zuständigen zwischenstaatlichen Organisation beschlossenen
 Empfehlungen, nachdem sie sie an geeigneter Stelle in deutscher
 Sprache bekanntgemacht hat.
-
 
 ## § 13 Maßnahmen bei Verstößen
 
@@ -461,7 +439,6 @@ Ablauf einer von dieser Stelle gesetzten Nachfrist die periodische
 Nachprüfung nicht rechtzeitig beantragt hat oder wenn in erheblichem
 Umfang gegen internationale Schiffssicherheitsregelungen hinsichtlich
 der Sicherheitsorganisation verstoßen wird.
-
 
 ## § 14 Überprüfung von Schiffen unter ausländischer Flagge
 
@@ -491,10 +468,6 @@ Schiffssicherheitsverordnung entspricht.
     Richtlinie 94/58/EG des Rates vom 22. November 1994 über
     Mindestanforderungen für die Ausbildung von Seeleuten.
 
-
-
-
-
 ## § 15 Rechtsetzungsermächtigung
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -503,7 +476,6 @@ durch Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand
 der völkerrechtlich als verbindlich angenommenen und aufgrund
 innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich in
 Kraft getretenen schiffsbezogenen Regelungen zu ändern.
-
 
 ## Anlage zum Schiffssicherheitsgesetz Internationaler schiffsbezogener Sicherheitsstandard
 

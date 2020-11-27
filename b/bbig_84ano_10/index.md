@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1328
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -37,11 +35,9 @@ ich im Einvernehmen mit dem Bundesminister des Innern
 zur zuständigen Stelle im Sinne des § 84 des Berufsbildungsgesetzes
 für meinen Geschäftsbereich.
 
-
 ## II.
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

@@ -15,39 +15,21 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 998
 
-
-
 ## Art 1 -
-
-
 
 ## Art 2 -
 
-
-
 ## Art 3 -
-
-
 
 ## Art 4 -
 
-
-
 ## Art 5 -
-
-
 
 ## Art 6 -
 
-
-
 ## Art 7 -
 
-
-
 ## Art 8 - Übergangs- und Schlußbestimmungen
-
-
 
 ## § 1
 
@@ -77,7 +59,6 @@ gilt das gleiche, wenn dem Berechtigten wegen Absatz 1 oder 2 ein
 Löschungsanspruch nach den §§ 1179a und 1179b des Bürgerlichen
 Gesetzbuchs nicht zusteht.
 
-
 ## § 2
 
 Auf die Ergänzung des über eine Hypothek, Grundschuld oder
@@ -87,12 +68,10 @@ soll eine nach Inkrafttreten dieses Gesetzes bei dem Recht
 eingetragene Löschungsvormerkung nach § 1179 des Bürgerlichen
 Gesetzbuchs auch auf Antrag nicht auf dem Brief vermerkt werden.
 
-
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 4
 

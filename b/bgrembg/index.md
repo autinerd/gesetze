@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1406, 1413
 
-
-
 ## Abschnitt 1 - Gesetzesziel, Geltungsbereich
-
-
 
 ### § 1 Gesetzesziel
 
@@ -28,7 +24,6 @@ Der Bund und andere am Besetzungsverfahren von Gremien Beteiligte
 haben nach Maßgabe dieses Gesetzes darauf hinzuwirken, daß eine
 gleichberechtigte Teilhabe von Frauen und Männern in Gremien
 geschaffen oder erhalten wird.
-
 
 ### § 2 Geltungsbereich
 
@@ -44,10 +39,7 @@ Es ist nicht auf die Begründung der Mitgliedschaft in einem Gremium
 anzuwenden, soweit hierfür durch Rechtsnormen oder Vereinssatzungen
 ein Wahlverfahren vorgeschrieben ist.
 
-
 ## Abschnitt 2 - Gremien im Bereich des Bundes
-
-
 
 ### § 3 Berufende Stelle, vorschlagsberechtigte Stellen
 
@@ -82,7 +74,6 @@ begründender Berufungsakt im Sinne des Satzes 1.
 
 die berechtigt sind, Personen als Mitglieder für Gremien im Bereich
 des Bundes zu benennen oder vorzuschlagen.
-
 
 ### § 4 Vorschlagsverfahren bei der Berufung
 
@@ -123,7 +114,6 @@ in den Absätzen 1 bis 3 genannte Verfahren innerhalb der zuständigen
 Bundesministerien oder des zuständigen Bundeskanzleramtes auf den
 Vorschlag an das Bundeskabinett entsprechend anzuwenden.
 
-
 ### § 5 Berufung
 
 Bei der Berufung von Mitgliedern in Gremien im Bereich des Bundes hat
@@ -133,10 +123,7 @@ Bundesregierung berufende Stelle, so ist das in Satz 1 genannte
 Verfahren innerhalb der zuständigen Bundesministerien auf den
 Vorschlag an das Bundeskabinett entsprechend anzuwenden.
 
-
 ## Abschnitt 3 - Gremien außerhalb des Bereichs des Bundes
-
-
 
 ### § 6 Entsendende Stelle
 
@@ -146,7 +133,6 @@ Bundesoberbehörde oder eine bundesunmittelbare juristische Person des
 öffentlichen Rechts, wenn diese berechtigt ist, mindestens eine Person
 als Mitglied für ein Gremium außerhalb des Bereichs des Bundes zu
 benennen oder vorzuschlagen.
-
 
 ### § 7 Entsendung
 
@@ -170,17 +156,13 @@ Nr. 1 und 2 gilt entsprechend.
 Gremien außerhalb des Bereichs des Bundes Frauen und Männer angemessen
 zu berücksichtigen.
 
-
 ## Abschnitt 4 - Durchführungsbestimmungen, Gremienbericht
-
-
 
 ### § 8 Durchführungsbestimmungen
 
 Die Bundesregierung kann ohne Zustimmung des Bundesrates durch
 Rechtsverordnung Bestimmungen über das Berufungs-, Vorschlags- und
 Entsendungsverfahren erlassen.
-
 
 ### § 9 Gremienbericht
 

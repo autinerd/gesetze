@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 V v. 25.4.2006 I 988
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 und Nr. 3 in Verbindung mit Abs. 3 des
@@ -30,7 +29,6 @@ I S. 700), Nummer 3 zuletzt geändert durch Gesetz vom 6. April 1980
 Gesetzes vom 15. März 1974 (BGBl. I S. 721) und geändert durch Artikel
 22 Nr. 3 der Verordnung vom 26. November 1986 (BGBl. I S. 2089), wird
 nach Anhörung der zuständigen obersten Landesbehörden verordnet:
-
 
 ## § 1
 
@@ -115,34 +113,25 @@ gestaltet und am Anhänger fest angebracht sind.
     mehr als 25 km/h nach § 58 der Straßenverkehrs-Zulassungs-Ordnung
     gekennzeichnet sind.
 
-
-
-
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
 -
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5
 
 (weggefallen)
 
-
 ## § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1584
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -46,13 +44,11 @@ verordnet die Bundesregierung und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 1996 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,2 vom Hundert und in der
 knappschaftlichen Rentenversicherung 25,5 vom Hundert.
-
 
 ## § 2 Beitrag in der Alterssicherung der Landwirte
 
@@ -61,7 +57,6 @@ Kalenderjahr 1996 monatlich 311 Deutsche Mark.
 
 (2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Beitrittsgebiet für das Kalenderjahr 1996 monatlich 265 Deutsche Mark.
-
 
 ## § 3 Beitragszuschuß in der Alterssicherung der Landwirte
 
@@ -334,10 +329,6 @@ Kalenderjahr 1996 wie folgt festgesetzt:
 
     *   8 DM
 
-
-
-
-
 ## § 4 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
 (1) Die auf Grund des vorläufigen Durchschnittsentgelts und des
@@ -431,11 +422,9 @@ Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
 des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
 Beiträge maßgebend wäre.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
-
 
 ## Schlußformel
 

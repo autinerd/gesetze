@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 11 G v. 22. 9.2005 I 2809
 
-
 ## Eingangsformel
 
 Auf Grund des § 29b Abs. 2 und des § 44a Abs. 1 Satz 2, Abs. 5 des
@@ -29,10 +28,7 @@ Rechtsträger (Bundesrückerstattungsgesetz - BRüG) vom 19. Juli 1957
 Oktober 1964 (Bundesgesetzbl. I S. 809), verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
 
-
 ## I. - Entziehung von Hausrat in den ehemals besetzten Westgebieten
-
-
 
 ### § 1
 
@@ -56,10 +52,6 @@ BRüG gelten der damalige Bereich
 
 6.  des Chefs der Zivilverwaltung in Lothringen.
 
-
-
-
-
 ### § 2
 
 (1) Allgemeine Maßnahmen im Sinne des § 29b Abs. 1 und des § 44a Abs.
@@ -78,7 +70,6 @@ gelangt ist auch der Hausrat, der in den in § 1 Nr. 5 und 6 genannten
 Bereichen durch den Chef der Zivilverwaltung entzogen und nachweislich
 an reichsdeutsche Erwerber (Privatpersonen oder Dienststellen)
 abgegeben wurde.
-
 
 ### § 3
 
@@ -114,10 +105,7 @@ des § 44a Abs. 1 BRüG kommt in Betracht
 dem der Entziehungsort von der deutschen Besatzungsmacht geräumt
 wurde.
 
-
 ## II. - Entziehung von Schmuck- und Edelmetallgegenständen in den ehemals besetzten oder eingegliederten Gebieten
-
-
 
 ### § 4
 
@@ -145,10 +133,6 @@ des § 44a Abs. 1 BRüG gelten
 
 
 7.  das Königreich Griechenland.
-
-
-
-
 
 ### § 5
 
@@ -187,7 +171,6 @@ sind.
 Edelmetallgegenständen im Lager Theresienstadt findet Absatz 1 Nr. 1
 keine Anwendung.
 
-
 ### § 6
 
 Als Entziehungszeiträume im Sinne des § 29b Abs. 2 und des § 44a Abs.
@@ -202,20 +185,13 @@ Als Entziehungszeiträume im Sinne des § 29b Abs. 2 und des § 44a Abs.
 2.  bei den in § 5 Abs. 1 Nr. 3 genannten Maßnahmen die Zeit vom 1. Juli
     1941 bis zum 17. August 1944.
 
-
-
-
-
 ## III. - Verfahren
-
-
 
 ### § 7
 
 Zuständig für die Entgegennahme von Anträgen auf Gewährung eines
 Härteausgleichs gemäß § 44a Abs. 5 BRüG und zur Entscheidung darüber
 ist das Bundesamt für zentrale Dienste und offene Vermögensfragen.
-
 
 ### § 8
 
@@ -225,10 +201,7 @@ sein. Soweit sich die Anträge auf Entziehungen in dem in § 4 Nr. 7
 genannten Bereich beziehen, endet die Antragsfrist jedoch erst am 1.
 Januar 1967.
 
-
 ## IV. - Schlußvorschriften
-
-
 
 ### § 9
 
@@ -239,7 +212,6 @@ Bundesrückerstattungsgesetzes vom 2. Oktober 1964 (Bundesgesetzbl. I
 S. 809) auch im Land Berlin.
 
 (2) Diese Verordnung gilt nicht im Saarland.
-
 
 ### § 10
 

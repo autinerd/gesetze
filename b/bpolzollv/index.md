@@ -18,14 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 12 Abs. 2 G v. 22.11.2011 I 2258
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 68 Abs. 1 Satz 1 des Bundespolizeigesetzes vom 19.
 Oktober 1994 (BGBl. I S. 2978, 2979) verordnet das Bundesministerium
 des Innern im Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -50,7 +47,6 @@ die Aufgaben
 
 zur Ausübung übertragen.
 
-
 ## § 2
 
 Unbeschadet der Aufgaben der Bundespolizei werden der Zollverwaltung
@@ -74,14 +70,12 @@ die Aufgaben
 zur Ausübung übertragen, soweit sie im Zusammenhang mit der
 Wahrnehmung der Aufgaben nach § 1 anfallen.
 
-
 ## § 3
 
 Die Zollverwaltung führt nach Maßgabe des § 12 des
 Bundespolizeigesetzes die erforderlichen unaufschiebbaren Maßnahmen
 zur Verfolgung von Straftaten und Ordnungswidrigkeiten, die sie bei
 der Wahrnehmung der Aufgaben nach den §§ 1 und 2 feststellt, durch.
-
 
 ## § 4
 
@@ -90,7 +84,6 @@ alle nichtpersonenbezogenen Informationen, die für die Wahrnehmung
 ihrer Aufgaben von Bedeutung sind und erteilen einander die hierfür
 erforderlichen Auskünfte. Die §§ 32 und 33 des Bundespolizeigesetzes
 bleiben unberührt.
-
 
 ## § 5
 
@@ -110,7 +103,6 @@ jeweils geltenden Fassung ergeben.
 Rahmen der Fachaufsicht (§ 68 Satz 2 in Verbindung mit § 66 Abs. 2
 Satz 3 des Bundespolizeigesetzes) erteilten Weisungen.
 
-
 ## § 6
 
 Das Bundesministerium des Innern benennt dem Bundesministerium der
@@ -119,11 +111,9 @@ Fachaufsicht beauftragt hat. Das Bundesministerium des Innern und das
 Bundesministerium der Finanzen regeln einvernehmlich die Fachaufsicht
 durch die Bundespolizeibehörden.
 
-
 ## § 7
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
-
 
 ## Anlage (zu § 1)
 

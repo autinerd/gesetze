@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.12.2010 I 1821
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 2 und 3 des Gesetzes über
 explosionsgefährliche Stoffe (Sprengstoffgesetz) vom 25. August 1969
 (Bundesgesetzbl. I S. 1358) wird verordnet.
-
 
 ## § 1 Anwendungsbereich
 
@@ -33,13 +31,11 @@ Die Bundesanstalt für Materialprüfung (Bundesanstalt) erhebt für ihre
 Nutzleistungen Kosten (Gebühren und Auslagen) nach dieser
 Kostenverordnung.
 
-
 ## § 1a Gebühr in besonderen Fällen
 
 Gebühren werden auch für Nutzleistungen erhoben, die begonnen, aber
 nicht zu Ende geführt worden sind, wenn die Gründe von demjenigen zu
 vertreten sind, der die Nutzleistung veranlaßt hat.
-
 
 ## § 2 Berechnung der Gebühren
 
@@ -53,7 +49,6 @@ alle in der jeweiligen Organisationseinheit anfallenden Kosten.
 
 (3) Die Gebühr kann im Einzelfall erhöht (§ 6) oder ermäßigt werden (§
 7).
-
 
 ## § 3 Gebühr nach Zeitaufwand, Reise- und Wartezeiten
 
@@ -94,7 +89,6 @@ verursachten Reisezeiten, die in der üblichen Arbeitszeit liegen,
 sowie die Wartezeiten, sofern sie vom Antragsteller verursacht worden
 sind.
 
-
 ## § 4 Sonderaufwendungen
 
 Erfordert die Nutzleistung außergewöhnliche Aufwendungen für Material,
@@ -103,12 +97,10 @@ andere Vorkehrungen oder Hilfsmittel oder verursacht die Nutzleistung
 sonstige überdurchschnittliche Kosten, so sind diese
 Sonderaufwendungen entsprechend den Selbstkosten zu berechnen.
 
-
 ## § 5 Überlassung von Anlagen und Geräten auf Zeit
 
 Die Überlassung von Anlagen und Geräten auf Zeit ist entsprechend den
 Selbstkosten zu berechnen.
-
 
 ## § 6 Beschleunigt erbrachte Nutzleistungen
 
@@ -117,7 +109,6 @@ der Reihe der laufenden Arbeiten erbracht, so kann ein Zuschlag von
 höchstens 100 vom Hundert der nach den §§ 3 bis 5 errechneten Gebühr
 erhoben werden.
 
-
 ## § 7 Ermäßigung der Gebühr
 
 Ergibt die Berücksichtigung des wirtschaftlichen Wertes der
@@ -125,11 +116,9 @@ Nutzleistung für den Antragsteller im Einzelfall, daß die nach den §§
 3 bis 5 errechnete Gebühr unverhältnismäßig hoch ist, so kann sie um
 einen angemessenen Betrag ermäßigt werden.
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Auslagen
 
@@ -148,10 +137,6 @@ Als Auslagen sind zu erstatten:
 
 4.  Aufwendungen für Lieferungen und Leistungen Dritter.
 
-
-
-
-
 ## § 10 Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
@@ -169,7 +154,6 @@ Als Auslagen sind zu erstatten:
 
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
-
 
 ## § 11 Festsetzung der Kosten, Fälligkeit und Vorschuß
 
@@ -207,7 +191,6 @@ Kosten abhängig gemacht werden.
 Prüfungsergebnisse kann zurückgestellt werden, bis die durch die
 Nutzleistung erwachsenen Kosten bezahlt sind.
 
-
 ## § 12 Stundung, Niederschlagung und Erlaß
 
 Auf die Stundung, die Niederschlagung und den Erlaß von Forderungen
@@ -215,14 +198,12 @@ der Bundesanstalt auf Zahlung von Kosten nach dieser Kostenordnung
 sind die Vorschriften der Bundeshaushaltsordnung entsprechend
 anzuwenden.
 
-
 ## § 13 Verzugszinsen
 
 Die Kosten sind während des Zahlungsverzugs des Kostenschuldners mit 3
 vom Hundert über dem jeweiligen Basiszinssatz nach § 247 des
 Bürgerlichen Gesetzbuchs, mindestens jedoch mit 6 vom Hundert für das
 Jahr zu verzinsen.
-
 
 ## § 14 Verjährung
 
@@ -254,7 +235,6 @@ aus ihr nicht vor Ablauf von sechs Monaten, nachdem die
 Kostenentscheidung unanfechtbar geworden ist oder das Verfahren sich
 auf andere Weise erledigt hat.
 
-
 ## § 15 Erstattung
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
@@ -268,11 +248,9 @@ bis zum Ablauf des dritten Kalenderjahrs geltend gemacht wird, das auf
 die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch
 nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
-
 ## § 16
 
 (aufgehoben)
-
 
 ## § 17 Inkrafttreten
 
@@ -286,11 +264,9 @@ Gebühren für die amtliche Materialprüfung (GaM) vom 1. Juni 1968,
 genehmigt am 19. Juli 1968 (Bundesanzeiger Nr. 140 vom 31. Juli 1968),
 außer Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 2)
 

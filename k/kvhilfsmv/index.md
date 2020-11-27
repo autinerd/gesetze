@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.1.1995 I 44
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 Abs. 4 des Fünften Buches Sozialgesetzbuch (Artikel
 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477) wird verordnet:
-
 
 ## § 1 Sächliche Mittel mit geringem oder umstrittenem therapeutischen Nutzen
 
@@ -58,10 +56,6 @@ Von der Versorgung sind ausgeschlossen:
 
 
 9.  Hysterophore (Ausnahme: bei inoperabelem Gebärmuttervorfall).
-
-
-
-
 
 ## § 2 Sächliche Mittel mit geringem Abgabepreis
 
@@ -129,10 +123,6 @@ Von der Versorgung sind ausgeschlossen:
 
 20. Zehen- und Ballenpolster, Zehenspreizer.
 
-
-
-
-
 ## § 3 Instandsetzungen
 
 Von der Versorgung sind ausgeschlossen:
@@ -140,11 +130,9 @@ Instandsetzungen von Brillengestellen für Versicherte, die das 18.
 Lebensjahr vollendet haben, einschließlich Aufarbeitung einer
 vorhandenen Fassung.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1990 in Kraft.
-
 
 ## Schlußformel
 

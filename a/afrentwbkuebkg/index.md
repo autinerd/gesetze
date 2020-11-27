@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1981, 253
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Gouverneursrat der Bank am 17. Mai 1979 beschlossenen Allgemeinen
 Vorschriften für die Aufnahme nichtregionaler Staaten als Mitglieder
 der Bank wird zugestimmt. Das Übereinkommen sowie die Allgemeinen
 Vorschriften werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -47,18 +43,15 @@ vierhundertvierundzwanzig Millionen
 dreihundertvierundneunzigtausendneunhundertdreiundsechzig Deutsche
 Mark) zu festgelegten Kursen zu zeichnen.
 
-
 ## Art 3
 
 Die Deutsche Bundesbank ist Hinterlegungsstelle für die Afrikanische
 Entwicklungsbank nach Artikel 40 Abs. 2 des Übereinkommens.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

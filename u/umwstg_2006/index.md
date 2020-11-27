@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.12.2009 I 3950
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich und Begriffsbestimmungen
 
@@ -187,10 +184,6 @@ nicht anzuwenden.
     Gewinnermittlung in einer für den steuerlichen Übertragungsstichtag
     aufzustellenden Steuerbilanz ergibt oder ergäbe.
 
-
-
-
-
 ### § 2 Steuerliche Rückwirkung
 
 (1) Das Einkommen und das Vermögen der übertragenden Körperschaft
@@ -220,10 +213,7 @@ Absätze 1 und 2 möglich gewesen wäre. Satz 1 gilt für negative
 Einkünfte des übertragenden Rechtsträgers im Rückwirkungszeitraum
 entsprechend.
 
-
 ## Zweiter Teil - Vermögensübergang bei Verschmelzung auf eine Personengesellschaft oder auf eine natürliche Person und Formwechsel einer Kapitalgesellschaft in eine Personengesellschaft
-
-
 
 ### § 3 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
@@ -273,7 +263,6 @@ Körperschaft in einem anderen Mitgliedstaat der Europäischen Union
 zuzurechnen sind und die Bundesrepublik Deutschland die
 Doppelbesteuerung bei der übertragenden Körperschaft nicht durch
 Freistellung vermeidet.
-
 
 ### § 4 Auswirkungen auf den Gewinn des übernehmenden Rechtsträgers
 
@@ -374,7 +363,6 @@ Personengesellschaft entfällt, ist § 8b des Körperschaftsteuergesetzes
 anzuwenden. In den übrigen Fällen ist § 3 Nr. 40 sowie § 3c des
 Einkommensteuergesetzes anzuwenden.
 
-
 ### § 5 Besteuerung der Anteilseigner der übertragenden Körperschaft
 
 (1) Hat der übernehmende Rechtsträger Anteile an der übertragenden
@@ -398,7 +386,6 @@ Stichtag zum Buchwert, erhöht um Abschreibungen sowie um Abzüge nach §
 Jahren steuerwirksam vorgenommen worden sind, höchstens mit dem
 gemeinen Wert, in das Betriebsvermögen des übernehmenden Rechtsträgers
 überführt worden. § 4 Abs. 1 Satz 3 gilt entsprechend.
-
 
 ### § 6 Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
 
@@ -428,7 +415,6 @@ aufgibt. Bereits erteilte Steuerbescheide, Steuermessbescheide,
 Freistellungsbescheide oder Feststellungsbescheide sind zu ändern,
 soweit sie auf der Anwendung der Absätze 1 und 2 beruhen.
 
-
 ### § 7 Besteuerung offener Rücklagen
 
 Dem Anteilseigner ist der Teil des in der Steuerbilanz ausgewiesenen
@@ -441,7 +427,6 @@ Einkommensteuergesetzes zuzurechnen. Dies gilt unabhängig davon, ob
 für den Anteilseigner ein Übernahmegewinn oder Übernahmeverlust nach §
 4 oder § 5 ermittelt wird.
 
-
 ### § 8 Vermögensübergang auf einen Rechtsträger ohne Betriebsvermögen
 
 (1) Wird das übertragene Vermögen nicht Betriebsvermögen des
@@ -452,7 +437,6 @@ entsprechend.
 
 (2) In den Fällen des Absatzes 1 sind § 17 Abs. 3 und § 22 Nr. 2 des
 Einkommensteuergesetzes nicht anzuwenden.
-
 
 ### § 9 Formwechsel in eine Personengesellschaft
 
@@ -466,15 +450,11 @@ aufgestellt werden, der höchstens acht Monate vor der Anmeldung des
 Formwechsels zur Eintragung in ein öffentliches Register liegt
 (Übertragungsstichtag); § 2 Absatz 3 und 4 gilt entsprechend.
 
-
 ### § 10 (weggefallen)
 
 -
 
-
 ## Dritter Teil - Verschmelzung oder Vermögensübertragung (Vollübertragung) auf eine andere Körperschaft
-
-
 
 ### § 11 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
@@ -514,7 +494,6 @@ Abs. 2 Satz 4 und 5 des Körperschaftsteuergesetzes Anwendung.
 
 (3) § 3 Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
 
-
 ### § 12 Auswirkungen auf den Gewinn der übernehmenden Körperschaft
 
 (1) Die übernehmende Körperschaft hat die auf sie übergegangenen
@@ -549,7 +528,6 @@ Körperschaftsteuergesetzes, der sich nach Anwendung des § 29 Abs. 1
 des Körperschaftsteuergesetzes ergibt, als Einnahme im Sinne des § 20
 Abs. 1 Nr. 1 des Einkommensteuergesetzes.
 
-
 ### § 13 Besteuerung der Anteilseigner der übertragenden Körperschaft
 
 (1) Die Anteile an der übertragenden Körperschaft gelten als zum
@@ -582,15 +560,11 @@ Anteile an der übertragenden Körperschaft nicht zu einem
 Betriebsvermögen, treten an die Stelle des Buchwerts die
 Anschaffungskosten.
 
-
 ### § 14 (weggefallen)
 
 -
 
-
 ## Vierter Teil - Aufspaltung, Abspaltung und Vermögensübertragung (Teilübertragung)
-
-
 
 ### § 15 Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
 
@@ -630,7 +604,6 @@ Einkommensteuergesetzes der übertragenden Körperschaft in dem
 Verhältnis, in dem bei Zugrundelegung des gemeinen Werts das Vermögen
 auf eine andere Körperschaft übergeht.
 
-
 ### § 16 Aufspaltung oder Abspaltung auf eine Personengesellschaft
 
 Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung
@@ -639,15 +612,11 @@ auf eine Personengesellschaft übergeht, gelten die §§ 3 bis 8, 10 und
 Körperschaftsteuergesetzes bezeichneten Teil des Betrags im Sinne des
 § 38 des Körperschaftsteuergesetzes anzuwenden.
 
-
 ## Fünfter Teil - Gewerbesteuer
-
-
 
 ### § 17 (weggefallen)
 
 -
-
 
 ### § 18 Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
 
@@ -676,7 +645,6 @@ beruhende Teil des Gewerbesteuer-Messbetrags ist bei der Ermäßigung
 der Einkommensteuer nach § 35 des Einkommensteuergesetzes nicht zu
 berücksichtigen.
 
-
 ### § 19 Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
 
 (1) Geht das Vermögen der übertragenden Körperschaft auf eine andere
@@ -687,10 +655,7 @@ Gewerbeertrags.
 im Sinne des § 10a des Gewerbesteuergesetzes gelten § 12 Abs. 3 und §
 15 Abs. 3 entsprechend.
 
-
 ## Sechster Teil - Einbringung von Unternehmensteilen in eine Kapitalgesellschaft oder Genossenschaft und Anteilstausch
-
-
 
 ### § 20 Einbringung von Unternehmensteilen in eine Kapitalgesellschaft oder Genossenschaft
 
@@ -811,7 +776,6 @@ Einkommensteuergesetzes und ein EBITDA-Vortrag nach § 4h Absatz 1 Satz
 3 des Einkommensteuergesetzes des eingebrachten Betriebs gehen nicht
 auf die übernehmende Gesellschaft über.
 
-
 ### § 21 Bewertung der Anteile beim Anteilstausch
 
 (1) Werden Anteile an einer Kapitalgesellschaft oder einer
@@ -883,7 +847,6 @@ Betriebsvermögen gehaltene Beteiligung an einer Kapitalgesellschaft
 eingebracht wird, die das gesamte Nennkapital der Kapitalgesellschaft
 umfasst. § 34 Abs. 1 des Einkommensteuergesetzes findet keine
 Anwendung.
-
 
 ### § 22 Besteuerung des Anteilseigners
 
@@ -1044,7 +1007,6 @@ insoweit auch als erhaltene oder eingebrachte Anteile oder als auf
 diesen Anteilen beruhende Anteile im Sinne des Absatzes 1 oder 2
 (Mitverstrickung von Anteilen).
 
-
 ### § 23 Auswirkungen bei der übernehmenden Gesellschaft
 
 (1) Setzt die übernehmende Gesellschaft das eingebrachte
@@ -1111,10 +1073,7 @@ des § 10a des Gewerbesteuergesetzes gekürzt werden.
 
 (6) § 6 Abs. 1 und 3 gilt entsprechend.
 
-
 ## Siebter Teil - Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils in eine Personengesellschaft
-
-
 
 ### § 24 Einbringung von Betriebsvermögen in eine Personengesellschaft
 
@@ -1165,10 +1124,7 @@ begünstigten Mitunternehmer entfällt.
 
 (6) § 20 Abs. 9 gilt entsprechend.
 
-
 ## Achter Teil - Formwechsel einer Personengesellschaft in eine Kapitalgesellschaft oder Genossenschaft
-
-
 
 ### § 25 Entsprechende Anwendung des Sechsten Teils
 
@@ -1180,19 +1136,13 @@ Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210, 1995 I S.
 Fassung oder auf Grund vergleichbarer ausländischer Vorgänge gelten §§
 20 bis 23 entsprechend. § 9 Satz 2 und 3 ist entsprechend anzuwenden.
 
-
 ## Neunter Teil - Verhinderung von Missbräuchen
-
-
 
 ### § 26 (weggefallen)
 
 -
 
-
 ## Zehnter Teil - Anwendungsvorschriften und Ermächtigung
-
-
 
 ### § 27 Anwendungsvorschriften
 
@@ -1306,7 +1256,6 @@ einem Wirtschaftsjahr liegt, für das § 4h Absatz 1, 4 Satz 1 und
 Absatz 5 Satz 1 und 2 des Einkommensteuergesetzes in der Fassung des
 Artikels 1 des Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950)
 erstmals anzuwenden ist.
-
 
 ### § 28 Bekanntmachungserlaubnis
 

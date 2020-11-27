@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 15 G v. 19.12.2007 I 3024
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 2 des Behindertengleichstellungsgesetzes vom
 27\. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des
 Innern im Einvernehmen mit dem Bundesministerium für Arbeit und
 Sozialordnung:
-
 
 ## § 1 Anwendungsbereich und Anlass
 
@@ -42,7 +40,6 @@ anderer geeigneter Kommunikationshilfen haben (Berechtigte).
 (2) Die Berechtigten können ihren Anspruch nach § 9 Abs. 1 des
 Behindertengleichstellungsgesetzes gegenüber jeder Behörde der
 Bundesverwaltung geltend machen.
-
 
 ## § 2 Umfang des Anspruchs
 
@@ -78,7 +75,6 @@ Rechtsgüter, wie etwa Leben, Gesundheit, Freiheit oder nicht
 unwesentliche Vermögenswerte, kann im Einzelfall von dem Einsatz von
 Gebärdensprachdolmetschern oder anderer Kommunikationshilfen abgesehen
 werden.
-
 
 ## § 3 Kommunikationshilfen
 
@@ -127,13 +123,6 @@ Kommunikationsmittel in Betracht:
 
     b)  grafische Symbol-Systeme.
 
-
-
-
-
-
-
-
 ## § 4 Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen
 
 (1) Gebärdensprachdolmetscher und andere geeignete
@@ -143,7 +132,6 @@ denn, die Berechtigten machen von ihrem Wahlrecht nach § 2 Abs. 2 Satz
 
 (2) Das Bundesverwaltungsamt berät und unterstützt die Behörde bei
 ihrer Aufgabe nach Absatz 1.
-
 
 ## § 5 Grundsätze für eine angemessene Vergütung oder Erstattung
 
@@ -161,12 +149,10 @@ die Berechtigten nicht auf eine Erstattung verwiesen werden, es sei
 denn, sie wünschen dies oder es liegt ein sonstiger besonderer Grund
 vor.
 
-
 ## § 6 Folgenabschätzung
 
 Diese Verordnung wird spätestens nach Ablauf von drei Jahren nach
 ihrem Inkrafttreten auf ihre Wirkung überprüft.
-
 
 ## § 7 Inkrafttreten
 

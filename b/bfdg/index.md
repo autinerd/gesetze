@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 687
 
-
 ## § 1 Aufgaben des Bundesfreiwilligendienstes
 
 Im Bundesfreiwilligendienst engagieren sich Frauen und Männer für das
@@ -23,7 +22,6 @@ Allgemeinwohl, insbesondere im sozialen, ökologischen und kulturellen
 Bereich sowie im Bereich des Sports, der Integration und des Zivil-
 und Katastrophenschutzes. Der Bundesfreiwilligendienst fördert das
 lebenslange Lernen.
-
 
 ## § 2 Freiwillige
 
@@ -69,13 +67,6 @@ Freiwillige im Sinne dieses Gesetzes sind Personen, die
         für die kein Anspruch auf einen Freibetrag nach § 32 Absatz 6 des
         Einkommensteuergesetzes oder Kindergeld besteht, erhöht ist.
 
-
-
-
-
-
-
-
 ## § 3 Einsatzbereiche, Dauer
 
 (1) Der Bundesfreiwilligendienst wird in der Regel ganztägig als
@@ -104,7 +95,6 @@ danach müssen zwischen jedem Ableisten der nach den Sätzen 2 und 3
 zulässigen Gesamtdauer fünf Jahre liegen; auf das Ableisten der
 Gesamtdauer ist ein Jugendfreiwilligendienst nach dem
 Jugendfreiwilligendienstegesetz anzurechnen.
-
 
 ## § 4 Pädagogische Begleitung
 
@@ -141,14 +131,12 @@ können gemeinsam für Freiwillige und Personen, die
 Jugendfreiwilligendienste oder freiwilligen Wehrdienst leisten,
 durchgeführt werden.
 
-
 ## § 5 Anderer Dienst im Ausland
 
 Die bestehenden Anerkennungen sowie die Möglichkeit neuer
 Anerkennungen von Trägern, Vorhaben und Einsatzplänen des Anderen
 Dienstes im Ausland nach § 14b Absatz 3 des Zivildienstgesetzes
 bleiben unberührt.
-
 
 ## § 6 Einsatzstellen
 
@@ -195,7 +183,6 @@ sich aus der Vereinbarung ergebenden Aufgaben mit deren Einverständnis
 einen Träger oder eine Zentralstelle beauftragen. Dies ist im
 Vorschlag nach § 8 Absatz 1 festzuhalten.
 
-
 ## § 7 Zentralstellen
 
 (1) Träger und Einsatzstellen können Zentralstellen bilden. Die
@@ -228,7 +215,6 @@ Die Zentralstellen nehmen die regional angemessene Verteilung dieser
 Plätze auf die ihnen zugeordneten Träger und Einsatzstellen in eigener
 Verantwortung vor. Sie können die Zuteilung von Plätzen mit Auflagen
 verbinden.
-
 
 ## § 8 Vereinbarung
 
@@ -284,7 +270,6 @@ die Zentralstelle, über den Abschluss der Vereinbarung oder teilt
 ihnen die Gründe mit, die dem Abschluss einer Vereinbarung
 entgegenstehen.
 
-
 ## § 9 Haftung
 
 (1) Für Schäden, die die oder der Freiwillige vorsätzlich oder
@@ -296,7 +281,6 @@ Schadensersatzansprüchen der oder des Geschädigten freistellt.
 (2) Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige
 nur wie Arbeitnehmerinnen und Arbeitnehmer.
 
-
 ## § 10 Beteiligung der Freiwilligen
 
 Die Freiwilligen wählen Sprecherinnen und Sprecher, die ihre
@@ -305,7 +289,6 @@ der zuständigen Bundesbehörde vertreten. Das Bundesministerium für
 Familie, Senioren, Frauen und Jugend regelt die Einzelheiten zum
 Wahlverfahren durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf.
-
 
 ## § 11 Bescheinigung, Zeugnis
 
@@ -321,14 +304,12 @@ Leistungen und die Führung während der Dienstzeit zu erstrecken. Dabei
 sind in das Zeugnis berufsqualifizierende Merkmale des
 Bundesfreiwilligendienstes aufzunehmen.
 
-
 ## § 12 Datenschutz
 
 Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene
 Daten nach § 8 Absatz 1 Satz 2 erheben, verarbeiten und nutzen, soweit
 dies für die Durchführung dieses Gesetzes erforderlich ist. Die Daten
 sind nach Abwicklung des Bundesfreiwilligendienstes zu löschen.
-
 
 ## § 13 Anwendung arbeitsrechtlicher, arbeitsschutzrechtlicher und sonstiger Bestimmungen
 
@@ -357,10 +338,6 @@ Vorschriften entsprechend anzuwenden:
 4.  § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich
     gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr.
 
-
-
-
-
 ## § 14 Zuständige Bundesbehörde
 
 (1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in
@@ -371,7 +348,6 @@ zivilgesellschaftliche Aufgaben“ (Bundesamt) erhält und dem
 Bundesministerium für Familie, Senioren, Frauen und Jugend untersteht.
 
 (2) Dem Bundesamt können weitere Aufgaben übertragen werden.
-
 
 ## § 15 Beirat für den Bundesfreiwilligendienst
 
@@ -417,14 +393,12 @@ Bundesministerin oder dem Bundesminister für Familie, Senioren, Frauen
 und Jugend dafür benannten Vertreterin oder Vertreter einberufen und
 geleitet.
 
-
 ## § 16 Übertragung von Aufgaben
 
 Die Einsatzstellen, Zentralstellen und Träger können mit ihrem
 Einverständnis mit der Wahrnehmung von Aufgaben beauftragt werden. Die
 hierdurch entstehenden Kosten können in angemessenem Umfang erstattet
 werden.
-
 
 ## § 17 Kosten
 

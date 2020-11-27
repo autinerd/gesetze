@@ -19,7 +19,6 @@ Diese Verordnung ist gemäß der Richtlinie 83/189/EWG über ein
 Informationsverfahren auf dem Gebiet der Normen und technischen
 Vorschriften notifiziert worden.
 
-
 ## Inhaltsverzeichnis
 
 
@@ -270,19 +269,12 @@ Vorschriften notifiziert worden.
     *
     *   **Lichtraum**
 
-
-
-
-
 ## Erster Abschnitt - Allgemeines
-
-
 
 ### § 1 Geltungsbereich
 
 Diese Verordnung gilt für den Bau und den Betrieb von
 Magnetschwebebahnen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -321,7 +313,6 @@ werden, sowie
 vom Fahrzeug ausgehenden Einwirkungen, insbesondere aus Tragen,
 Führen, Antreiben und Bremsen, aufzunehmen.
 
-
 ### § 3 Allgemeine Anforderungen
 
 (1) Betriebsanlagen und Fahrzeuge müssen so beschaffen sein, daß sie
@@ -344,7 +335,6 @@ sichere und leichte Zugänglichkeit auch für Personen mit
 Nutzungsschwierigkeiten, insbesondere Behinderte, alte Menschen und
 Kinder, gewährleistet ist.
 
-
 ### § 4 Betriebserlaubnis
 
 (1) Der Unternehmer darf den Fahrbetrieb auf einer Strecke erst
@@ -356,7 +346,6 @@ sowie die Grundsätze und Verfahren für die Aufstellung des
 Instandhaltungsprogramms genehmigt hat, der Unternehmer das
 Betriebshandbuch erstellt hat sowie die Systemsicherheit nachgewiesen
 ist.
-
 
 ### § 5 Ausnahmen
 
@@ -377,7 +366,6 @@ ist.
 Fahrweg kann von Vorschriften dieser Verordnung abgewichen werden,
 soweit diese Abweichungen für die Zweckbestimmung der Fahrzeuge
 erforderlich sind.
-
 
 ### § 6 Abnahmen
 
@@ -408,7 +396,6 @@ gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau
 gleichermaßen dauerhaft erreicht wird. Darüber entscheidet das
 Eisenbahn-Bundesamt.
 
-
 ### § 7 Aufsicht
 
 (1) Das Eisenbahn-Bundesamt kann zur Abwehr von Gefahren für die
@@ -429,7 +416,6 @@ unberührt.
 
 (3) Das Eisenbahn-Bundesamt kann sich zur Vorbereitung seiner
 Entscheidungen Sachverständiger und sachverständiger Stellen bedienen.
-
 
 ### § 8 Instandhaltung
 
@@ -455,10 +441,7 @@ Instandhaltungsintervalle, aufzubewahren.
 (4) Das Instandhaltungsprogramm und die Nachweise über die
 Instandhaltung sind dem Eisenbahn-Bundesamt auf Verlangen vorzulegen.
 
-
 ## Zweiter Abschnitt - Bauordnung
-
-
 
 ### § 9 Bauaufsichtliche Genehmigung
 
@@ -487,7 +470,6 @@ Abschnitts entgegenstehen.
 fünf Jahren nach Erteilung mit der Ausführung der Baumaßnahme nicht
 begonnen oder wenn die Bauausführung ein Jahr unterbrochen worden ist.
 
-
 ### § 10 Baubeginn
 
 Mit der Ausführung genehmigter Baumaßnahmen darf erst begonnen werden,
@@ -498,10 +480,6 @@ wenn
 
 2.  der Unternehmer den Beginn der Bauarbeiten dem Eisenbahn-Bundesamt
     mindestens eine Woche vorher schriftlich angezeigt hat.
-
-
-
-
 
 ### § 11 Bauaufsicht
 
@@ -531,10 +509,7 @@ hergestellt werden kann.
 Genehmigung errichtet, kann das Eisenbahn-Bundesamt die Stillegung der
 Baustelle anordnen.
 
-
 ## Dritter Abschnitt - Betriebsanlagen
-
-
 
 ### § 12 Fahrweg
 
@@ -554,7 +529,6 @@ mit Einrichtungen versehen sein, die sicher melden,
 
 
 (3) Der Fahrweg kann ein-, doppel- oder mehrspurig sein.
-
 
 ### § 13 Linienführung
 
@@ -591,7 +565,6 @@ Längsrichtung dürfen
 zulässig; dies gilt nicht innerhalb von Instandhaltungs- und
 Abstellanlagen.
 
-
 ### § 14 Lichtraum
 
 Der in der Anlage dargestellte Lichtraum ist freizuhalten. Dies gilt
@@ -602,7 +575,6 @@ Linienführung beanspruchen kann. In diesen Teil des Lichtraums dürfen
 Gegenstände nur während des Fahrgastwechsels sowie während des
 Reinigens und der Instandhaltung von Fahrzeugen oder des Fahrwegs
 hineinragen.
-
 
 ### § 15 Bahnsteige
 
@@ -632,7 +604,6 @@ der Betriebszeit ein Betriebsbediensteter ständig erreichbar sein.
 (6) Bei der Gestaltung der Informationssysteme und Zugangswege ist auf
 die Belange Behinderter angemessen Rücksicht zu nehmen.
 
-
 ### § 16 Überwachen der Betriebsanlagen
 
 Der Unternehmer hat die Betriebsanlagen und deren Umfeld so zu
@@ -640,10 +611,7 @@ Der Unternehmer hat die Betriebsanlagen und deren Umfeld so zu
 können, rechtzeitig erkannt und Gegenmaßnahmen getroffen werden
 können.
 
-
 ## Vierter Abschnitt - Fahrzeuge
-
-
 
 ### § 17 Grundsätze
 
@@ -691,7 +659,6 @@ müssen
 
 (6) Die Vorschrift des § 15 Abs. 6 gilt entsprechend.
 
-
 ### § 18 Ausrüstung
 
 (1) Scheiben für Fenster, Türen, Wände und Spiegel müssen den
@@ -718,12 +685,10 @@ Personenbeförderung müssen
 (3) Die Fahrzeuge müssen entsprechend dem Sicherheitskonzept
 ausreichend Flucht- und Zugangsmöglichkeiten bieten.
 
-
 ### § 19 Trag- und Führsystem
 
 Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so
 ausgelegt sein, daß eine sichere Spurführung gewährleistet wird.
-
 
 ### § 20 Bremsen, Kupplung
 
@@ -733,7 +698,6 @@ Fahrzeug sicher zum Halten bringen und im Stand festhalten können.
 (2) Bei Fahrzeugen oder Fahrzeugsektionen, die miteinander verbunden
 sind, müssen die Kupplungen so beschaffen sein, daß eine
 unbeabsichtigte Trennung nicht möglich ist.
-
 
 ### § 21 Überwachungsbedürftige Anlagen der Fahrzeuge
 
@@ -752,10 +716,7 @@ aufgestellten Verordnungen festgelegt sind.
 Nachweise sind mindestens für die Dauer der Nutzung aufzubewahren und
 dem Eisenbahn-Bundesamt auf Verlangen vorzulegen.
 
-
 ## Fünfter Abschnitt - Fahrbetrieb
-
-
 
 ### § 22 Fahrtvoraussetzungen
 
@@ -801,7 +762,6 @@ sein, der Betriebs- und Rettungsmaßnahmen einleiten kann. Zwischen
 einer Betriebszentrale und den Fahrzeugen muß eine ständige
 Kommunikationsverbindung bestehen.
 
-
 ### § 23 Sicherheitskonzept
 
 (1) Der Unternehmer hat ein Sicherheitskonzept aufzustellen und dem
@@ -811,7 +771,6 @@ Eisenbahn-Bundesamt zur Genehmigung vorzulegen.
 erkennbaren Sicherheitsrisiken nach Art, Häufigkeit und Auswirkungen
 beschreiben und die daraus abgeleiteten baulichen, technischen,
 betrieblichen und organisatorischen Sicherheitsmaßnahmen festlegen.
-
 
 ### § 24 Betriebshandbuch
 
@@ -823,7 +782,6 @@ berücksichtigt.
 (2) Das Betriebshandbuch ist vor Betriebsaufnahme zu erstellen. Es ist
 dem Eisenbahn-Bundesamt auf Verlangen vorzulegen. Das Eisenbahn-
 Bundesamt kann Änderungen und Ergänzungen verlangen.
-
 
 ### § 25 Störungen im Magnetschwebebahnbetrieb
 
@@ -841,10 +799,7 @@ Meldungen zur Fahrtsicherung.
 Arbeitstage nach Meldung an das Eisenbahn-Bundesamt aufzubewahren und
 diesem auf Verlangen vorzulegen.
 
-
 ## Sechster Abschnitt - Personal
-
-
 
 ### § 26 Betriebsbedienstete
 
@@ -874,7 +829,6 @@ Beschäftigungsdauer des Betriebsbediensteten aufzubewahren.
 
 tätig ist.
 
-
 ### § 27 Bestellung des Betriebsleiters
 
 (1) Der Unternehmer hat zur Wahrnehmung der ihm nach dieser Verordnung
@@ -901,16 +855,12 @@ Magnetschwebebahn wesentlichen Fachbereich durch Prüfung erfolgreich
 abgeschlossen hat oder wer einen gleichwertigen Prüfungsabschluß an
 einer anderen Hochschule nachweisen kann.
 
-
 ### § 28 Stellung des Betriebsleiters
 
 Der Betriebsleiter ist neben dem Unternehmer für die sichere
 Durchführung des Betriebs verantwortlich.
 
-
 ## Siebter Abschnitt - Öffentliche Sicherheit
-
-
 
 ### § 29 Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
 
@@ -918,13 +868,11 @@ Betriebsanlagen und Fahrzeuge dürfen nur zum allgemeinen
 Verkehrsgebrauch betreten und benutzt werden. Dies gilt nicht für
 Personen, denen der Unternehmer ein Betretungsrecht eingeräumt hat.
 
-
 ### § 30 Betriebsgefährdende Handlungen
 
 Es ist verboten, Sicherheitseinrichtungen mißbräuchlich zu betätigen,
 ein Fahrthindernis zu bereiten oder andere betriebsstörende oder
 betriebsgefährdende Handlungen vorzunehmen.
-
 
 ### § 31 Tauglichkeit
 
@@ -933,7 +881,6 @@ Getränke oder anderer berauschender Mittel oder infolge geistiger oder
 körperlicher Mängel in der Wahrnehmung ihrer Aufgaben behindert sind,
 ist es verboten, im sicherheitsrelevanten Betriebsbereich tätig zu
 werden.
-
 
 ### § 32 Ordnungswidrigkeiten
 
@@ -980,10 +927,6 @@ Magnetschwebebahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 11. entgegen § 31 im sicherheitsrelevanten Betriebsbereich tätig wird.
-
-
-
-
 
 ### Anlage (zu § 14)
 

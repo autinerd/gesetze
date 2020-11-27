@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 843
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +32,6 @@ Landesstraße 274 sowie über den Bau einer Grenzbrücke im Raum Guben
 und Gubinek und dem dazugehörigen Protokoll vom selben Tage wird
 zugestimmt. Das Abkommen und das Protokoll werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +45,6 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 (3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 21. März 1995 anzuwenden.
-
 
 ## Art 3
 

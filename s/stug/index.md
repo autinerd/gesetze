@@ -22,12 +22,10 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 22.12.2011 I 3106, 2012 I 442
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Inhaltsverzeichnis
 
@@ -468,12 +466,7 @@ beschlossen:
 
     *
 
-
-
-
 ## Erster Abschnitt - Allgemeine und grundsätzliche Vorschriften
-
-
 
 ### § 1 Zweck und Anwendungsbereich des Gesetzes
 
@@ -509,7 +502,6 @@ Republik, um
 die sich bei öffentlichen Stellen des Bundes oder der Länder, bei
 natürlichen Personen oder sonstigen nicht öffentlichen Stellen
 befinden.
-
 
 ### § 2 Erfassung, Verwahrung und Verwaltung der Unterlagen des Staatssicherheitsdienstes
 
@@ -547,7 +539,6 @@ Diese Informationen sind auf Ersuchen den Gerichten und
 Strafverfolgungsbehörden zur Erfüllung ihrer gesetzlichen Aufgaben zu
 übermitteln.
 
-
 ### § 3 Rechte des Einzelnen
 
 (1) Jeder Einzelne hat das Recht, vom Bundesbeauftragten Auskunft
@@ -563,7 +554,6 @@ Gesetze zu verwenden.
 (3) Durch die Auskunftserteilung, Gewährung von Einsicht in Unterlagen
 oder Herausgabe von Unterlagen dürfen überwiegende schutzwürdige
 Interessen anderer Personen nicht beeinträchtigt werden.
-
 
 ### § 4 Zulässigkeit der Verwendung der Unterlagen des Staatssicherheitsdienstes durch öffentliche und nicht öffentliche Stellen
 
@@ -591,7 +581,6 @@ Bedeutung ist.
 (4) Durch die Verwendung der Unterlagen dürfen überwiegende
 schutzwürdige Interessen anderer Personen nicht beeinträchtigt werden.
 
-
 ### § 5 Besondere Verwendungsverbote
 
 (1) Die Verwendung personenbezogener Informationen über Betroffene
@@ -610,7 +599,6 @@ beeinträchtigen würde. Dies gilt nicht, wenn dadurch Personen in der
 Wahrnehmung ihrer Rechte in unzumutbarer Weise beschränkt würden. In
 diesem Fall erfolgt die Verwendung im Einvernehmen mit der
 Staatsanwaltschaft oder dem Gericht.
-
 
 ### § 6 Begriffsbestimmungen
 
@@ -751,10 +739,7 @@ Begriffsbestimmungen der §§ 2 und 3 des Bundesdatenschutzgesetzes mit
 der Maßgabe, dass zu den nicht öffentlichen Stellen auch die
 Religionsgesellschaften gehören.
 
-
 ## Zweiter Abschnitt - Erfassung der Unterlagen des Staatssicherheitsdienstes
-
-
 
 ### § 7 Auffinden von Unterlagen des Staatssicherheitsdienstes, Anzeigepflichten
 
@@ -778,7 +763,6 @@ sich bei ihnen Unterlagen des Staatssicherheitsdienstes oder Kopien,
 Abschriften oder sonstige Duplikate solcher Unterlagen befinden,
 sobald ihnen dies bekannt wird.
 
-
 ### § 8 Herausgabepflicht öffentlicher Stellen
 
 (1) Jede öffentliche Stelle hat dem Bundesbeauftragten auf dessen
@@ -796,7 +780,6 @@ Bundesbeauftragten auf Verlangen Duplikate herauszugeben.
 (3) Unterlagen über Betroffene sind von den Nachrichtendiensten des
 Bundes und der Länder ersatzlos und vollständig an den
 Bundesbeauftragten herauszugeben.
-
 
 ### § 9 Herausgabepflicht nicht-öffentlicher Stellen
 
@@ -817,7 +800,6 @@ sind ihm auch Kopien und sonstige Duplikate herauszugeben.
 hat dem Bundesbeauftragten auf dessen Verlangen Unterlagen des
 Staatssicherheitsdienstes, die ihr Eigentum sind, zur Anfertigung von
 Kopien, Abschriften oder sonstigen Duplikaten zu überlassen.
-
 
 ### § 10 Unterlagen der Sozialistischen Einheitspartei Deutschlands, anderer mit ihr verbundener Parteien und Massenorganisationen sowie sonstige Unterlagen im Zusammenhang mit dem Staatssicherheitsdienst
 
@@ -841,7 +823,6 @@ erkennbar im Zusammenwirken anderer öffentlicher oder nicht
 öffentlicher Stellen der ehemaligen Deutschen Demokratischen Republik
 mit dem Staatssicherheitsdienst, auf seine Veranlassung oder zur
 Umsetzung seiner Anordnungen oder Hinweise entstanden sind.
-
 
 ### § 11 Rückgabe und Herausgabe von Unterlagen anderer Behörden durch den Bundesbeauftragten
 
@@ -898,14 +879,9 @@ Personalunterlagen im erforderlichen Umfang an den Versorgungsträger
 herauszugeben. Der Bundesbeauftragte kann Duplikate zu seinen
 Unterlagen nehmen.
 
-
 ## Dritter Abschnitt - Verwendung der Unterlagen des Staatssicherheitsdienstes
 
-
-
 ### Erster Unterabschnitt - Rechte von Betroffenen, Dritten, Mitarbeitern des Staatssicherheitsdienstes und Begünstigten
-
-
 
 #### § 12 Verfahrensvorschriften für Betroffene, Dritte, Mitarbeiter und Begünstigte des Staatssicherheitsdienstes
 
@@ -973,7 +949,6 @@ Duplikate von Karteikarten, die der Auswertung der Unterlagen dienen
 und in denen personenbezogene Informationen über den Antragsteller
 enthalten sind.
 
-
 #### § 13 Recht von Betroffenen und Dritten auf Auskunft, Einsicht und Herausgabe
 
 (1) Betroffenen ist auf Antrag Auskunft über die zu ihrer Person
@@ -1021,11 +996,9 @@ erteilt, wenn der dafür erforderliche Aufwand nicht außer Verhältnis
 zu dem vom Antragsteller geltend gemachten Informationsinteresse
 steht.
 
-
 #### § 14 (weggefallen)
 
 -
-
 
 #### § 15 Recht von nahen Angehörigen Vermißter oder Verstorbener auf Auskunft, Einsicht und Herausgabe
 
@@ -1068,7 +1041,6 @@ Absatz 3 vorhanden sind.
 andere Verfügung hinterlassen hat oder sein entgegenstehender Wille
 sich aus anderen Umständen eindeutig ergibt.
 
-
 #### § 16 Recht von Mitarbeitern des Staatssicherheitsdienstes auf Auskunft, Einsicht und Herausgabe
 
 (1) Mitarbeitern des Staatssicherheitsdienstes ist auf Antrag Auskunft
@@ -1093,7 +1065,6 @@ geführten Unterlagen herauszugeben. In den Duplikaten sind die
 personenbezogenen Informationen über Betroffene oder Dritte zu
 anonymisieren.
 
-
 #### § 17 Recht von Begünstigten auf Auskunft, Einsicht und Herausgabe
 
 (1) Für das Recht von Begünstigten auf Auskunft, Einsicht in
@@ -1109,7 +1080,6 @@ erklärt, dass eine Auskunft, Gewährung von Einsicht in Unterlagen oder
 Herausgabe von Unterlagen wegen eines überwiegenden öffentlichen
 Interesses unterbleiben muss.
 
-
 #### § 18 Recht auf Auskunft, Einsicht und Herausgabe bei dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
 
 Bei den vom Bundesbeauftragten verwahrten Akten von Gerichten und
@@ -1118,10 +1088,7 @@ Akten und Herausgabe von Akten anstelle des § 12 Abs. 4 bis 6 und der
 §§ 13, 15 bis 17 und 43 die jeweiligen gesetzlichen
 Verfahrensordnungen.
 
-
 ### Zweiter Unterabschnitt - Verwendung der Unterlagen des Staatssicherheitsdienstes durch öffentliche und nicht öffentliche Stellen
-
-
 
 #### § 19 Zugang zu den Unterlagen durch öffentliche und nicht öffentliche Stellen, Verfahrensvorschriften
 
@@ -1218,7 +1185,6 @@ Einsichtgewährung und Herausgabe, wenn
 
 
 Absatz 3 Satz 1 bleibt unberührt.
-
 
 #### § 20 Verwendung von Unterlagen, die keine personenbezogenen Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nicht öffentliche Stellen
 
@@ -1396,7 +1362,6 @@ zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern
 des Deutschen Bundestages, dem Archiv des Deutschen Bundestages
 anzubieten.
 
-
 #### § 21 Verwendung von Unterlagen, die personenbezogene Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nicht öffentliche Stellen
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über
@@ -1561,7 +1526,6 @@ zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern
 des Deutschen Bundestages, dem Archiv des Deutschen Bundestages
 anzubieten.
 
-
 #### § 22 Verwendung von Unterlagen für Zwecke parlamentarischer Untersuchungsausschüsse
 
 (1) Das Recht auf Beweiserhebung durch parlamentarische
@@ -1570,7 +1534,6 @@ erstreckt sich auch auf Unterlagen des Staatssicherheitsdienstes.
 
 (2) Absatz 1 gilt entsprechend für parlamentarische
 Untersuchungsausschüsse der Länder.
-
 
 #### § 23 Verwendung von Unterlagen für Zwecke der Strafverfolgung und Gefahrenabwehr
 
@@ -1636,7 +1599,6 @@ Strafsachen sowie der Abwehr einer erheblichen Gefahr für die
 öffentliche Sicherheit, insbesondere zur Verhütung von Straftaten,
 erforderlich ist.
 
-
 #### § 24 Verwendung der dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
 
 (1) Für die Verwendung der vom Bundesbeauftragten verwahrten Akten von
@@ -1650,7 +1612,6 @@ genannten Unterlagen an Gerichte, Staatsanwaltschaften und
 Polizeibehörden, soweit sie als Hilfsorgane der Staatsanwaltschaft
 handeln, heraus. Die Unterlagen sind unverzüglich zurückzugeben,
 sobald sie für den Verwendungszweck nicht mehr benötigt werden.
-
 
 #### § 25 Verwendung von Unterlagen für Zwecke der Nachrichtendienste
 
@@ -1699,7 +1660,6 @@ nachrichtendienstlicher Tätigkeit des Bundes.
 gesetzlichen Aufgaben die in § 26 genannten Unterlagen verwendet
 werden.
 
-
 #### § 26 Verwendung von Dienstanweisungen, Organisationsplänen und weiteren Unterlagen
 
 (1) Richtlinien, Dienstanweisungen, Organisationspläne und
@@ -1714,7 +1674,6 @@ Versorgungsleitungen und Telefonleitungen.
 worden sind, dürfen auch für andere Zwecke verwendet werden, soweit
 sie keine überwiegend schutzwürdigen personenbezogenen Informationen
 enthalten.
-
 
 #### § 27 Mitteilungen ohne Ersuchen an öffentliche Stellen
 
@@ -1769,11 +1728,9 @@ hat er dies von sich aus dem Bundesminister des Innern mitzuteilen.
 (4) Mitteilungen nach den Absätzen 1 bis 3 sind nur zulässig, soweit
 sie auch auf Ersuchen erfolgen dürfen.
 
-
 #### § 28 (weggefallen)
 
 -
-
 
 #### § 29 Zweckbindung
 
@@ -1791,7 +1748,6 @@ werden, ist die Zustimmung des Bundesbeauftragten erforderlich.
 Informationen in den Unterlagen, die nach § 8 Abs. 2 bei öffentlichen
 Stellen verbleiben.
 
-
 #### § 30 Benachrichtigung von der Übermittlung
 
 (1) Werden vom Bundesbeauftragten personenbezogene Informationen über
@@ -1808,7 +1764,6 @@ die zuständige oberste Bundes- oder Landesbehörde gegenüber dem
 Bundesbeauftragten festgestellt hat, dass das Bekanntwerden der
 Übermittlung die öffentliche Sicherheit gefährden oder sonst dem Wohle
 des Bundes oder eines Landes Nachteile bereiten würde.
-
 
 #### § 31 Gerichtliche Überprüfung von Entscheidungen des Bundesbeauftragten auf Antrag von Behörden
 
@@ -1829,10 +1784,7 @@ Verwaltungsgerichtsordnung sind nicht anfechtbar. Im Übrigen sind die
 Beteiligten zur Geheimhaltung von Tatsachen verpflichtet, die ihnen
 durch Akteneinsicht zur Kenntnis gelangt sind.
 
-
 ### Dritter Unterabschnitt - Verwendung der Unterlagen des Staatssicherheitsdienstes für die politische und historische Aufarbeitung sowie durch Presse und Rundfunk
-
-
 
 #### § 32 Verwendung von Unterlagen für die politische und historische Aufarbeitung
 
@@ -1971,7 +1923,6 @@ beeinträchtigt werden.
 politischen und historischen Aufarbeitung der nationalsozialistischen
 Vergangenheit.
 
-
 #### § 32a Benachrichtigung
 
 (1) Sollen Unterlagen nach § 32 Abs. 1 Satz 1 Nr. 4 zur Verfügung
@@ -1988,7 +1939,6 @@ Abwägung zugänglich gemacht werden.
 schutzwürdiger Interessen der betreffenden Person nicht zu befürchten
 ist, die Benachrichtigung nicht möglich ist oder diese nur mit
 unverhältnismäßigem Aufwand möglich wäre.
-
 
 #### § 33 Verfahren
 
@@ -2011,7 +1961,6 @@ weitergegeben werden.
 (5) Die Einsichtnahme in noch nicht erschlossene Unterlagen ist nicht
 zulässig.
 
-
 #### § 34 Verwendung von Unterlagen durch Presse, Rundfunk und Film
 
 (1) Für die Verwendung von Unterlagen durch Presse, Rundfunk, Film,
@@ -2025,10 +1974,7 @@ Gegendarstellungen den personenbezogenen Informationen beizufügen und
 mit ihnen aufzubewahren. Die Informationen dürfen nur zusammen mit den
 Gegendarstellungen erneut veröffentlicht werden.
 
-
 ## Vierter Abschnitt - Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes
-
-
 
 ### § 35 Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
 
@@ -2067,7 +2013,6 @@ in einem öffentlich-rechtlichen Amtsverhältnis. Er ist in Ausübung
 seines Amtes unabhängig und nur dem Gesetz unterworfen. Er untersteht
 der Rechtsaufsicht der Bundesregierung. Die Dienstaufsicht führt die
 für Kultur und Medien zuständige oberste Bundesbehörde.
-
 
 ### § 36 Rechtsstellung des Bundesbeauftragten
 
@@ -2146,7 +2091,6 @@ Bundesbeauftragte sich unmittelbar vor seiner Wahl zum
 Bundesbeauftragten als Beamter oder Richter mindestens in dem letzten
 gewöhnlich vor Erreichen der Besoldungsgruppe B 9 zu durchlaufenden
 Amt befunden hat.
-
 
 ### § 37 Aufgaben und Befugnisse des Bundesbeauftragten
 
@@ -2246,7 +2190,6 @@ jederzeit an den Deutschen Bundestag wenden. In Angelegenheiten einer
 gesetzgebenden Körperschaft berichtet er dieser Körperschaft
 unmittelbar.
 
-
 ### § 37a Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes
 
 Eine Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes beim
@@ -2264,7 +2207,6 @@ Staatssicherheitsdienst verschwiegen haben. Bei der Beurteilung der
 Zumutbarkeit sind insbesondere das Interesse des Beschäftigten an
 einer gleichwertigen Arbeitssituation sowie seine persönlichen und
 familiären Umstände zu berücksichtigen.
-
 
 ### § 38 Landesbeauftragte, Verhältnis zum Bundesbeauftragten
 
@@ -2284,7 +2226,6 @@ nach dem Dritten Abschnitt dieses Gesetzes Stellung zu nehmen.
 Beteiligten bei der Wahrnehmung ihrer Rechte nach den §§ 13 bis 17
 beraten. Diese Tätigkeit kann sich auch auf die psycho-soziale
 Beratung nach Abschluss der Verfahren nach § 12 erstrecken.
-
 
 ### § 39 Beirat
 
@@ -2356,7 +2297,6 @@ auch nach Beendigung ihrer Mitgliedschaft im Beirat fort.
 (5) Der Beirat kann sich jederzeit in wichtigen Angelegenheiten an den
 Deutschen Bundestag wenden.
 
-
 ### § 39a Wissenschaftliches Beratungsgremium
 
 (1) Zur Beratung des Bundesbeauftragten bei der wissenschaftlichen
@@ -2384,7 +2324,6 @@ bekannt gewordenen personenbezogenen Informationen, soweit sie nicht
 offenkundig sind, zu verpflichten. Die Verschwiegenheitspflicht
 besteht auch nach Beendigung ihrer Mitgliedschaft im
 wissenschaftlichen Beratungsgremium fort.
-
 
 ### § 40 Maßnahmen zur Sicherung der Unterlagen
 
@@ -2437,10 +2376,6 @@ die Unterlagen gegen unbefugten Zugriff zu sichern.
 9.  die innerbehördliche Organisation insgesamt so gestaltet ist, dass sie
     den besonderen Anforderungen des Datenschutzes gerecht wird.
 
-
-
-
-
 ### § 41 Automatisierte Verfahren, Informationsverarbeitung im Auftrag
 
 (1) Personenbezogene Informationen aus Unterlagen des
@@ -2460,10 +2395,7 @@ der Eignung gerade für den Umgang mit diesen Informationen ausgewählt
 worden ist. Der Auftragnehmer darf die Informationen ausschließlich
 entsprechend den Weisungen des Bundesbeauftragten verarbeiten.
 
-
 ## Fünfter Abschnitt - Schlussvorschriften
-
-
 
 ### § 42 Kosten
 
@@ -2487,7 +2419,6 @@ vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen
 abweichend von den Regelungen des Verwaltungskostengesetzes bestimmt
 werden.
 
-
 ### § 43 Vorrang dieses Gesetzes
 
 Die Regelungen dieses Gesetzes gehen Vorschriften über die
@@ -2497,7 +2428,6 @@ der Vorschriften über die Datenschutzkontrolle keine Anwendung, soweit
 nicht in § 6 Abs. 9 und § 41 Abs. 1 Satz 2 dieses Gesetzes etwas
 anderes bestimmt ist.
 
-
 ### § 44 Strafvorschriften
 
 Wer von diesem Gesetz geschützte Originalunterlagen oder Duplikate von
@@ -2506,7 +2436,6 @@ oder Dritte ganz oder in wesentlichen Teilen im Wortlaut öffentlich
 mitteilt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
 Geldstrafe bestraft. Dies gilt nicht, wenn der Betroffene oder Dritte
 eingewilligt hat.
-
 
 ### § 45 Bußgeldvorschriften
 
@@ -2532,7 +2461,6 @@ zweihundertfünfzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist der Bundesbeauftragte.
 
-
 ### § 46 Straffreiheit
 
 Wer Unterlagen des Staatssicherheitsdienstes durch strafbare Vergehen
@@ -2540,12 +2468,10 @@ erlangt hat, wird nicht bestraft, wenn er der Anzeigepflicht nach § 7
 Abs. 3 innerhalb einer Frist von drei Monaten nach Inkrafttreten
 dieses Gesetzes nachkommt.
 
-
 ### § 46a Einschränkung von Grundrechten
 
 Das Brief-, Post- und Fernmeldegeheimnis (Artikel 10 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ### § 47 Aufhebung von Vorschriften, Überleitung des Amtsinhabers
 
@@ -2558,7 +2484,6 @@ Regelungen berufenen und bei Inkrafttreten dieses Gesetzes vorhandenen
 Amtsinhabers richtet sich nach diesem Gesetz. Die aufgrund des
 Einigungsvertrages ergangenen besoldungs- und versorgungsrechtlichen
 Übergangsvorschriften gelten sinngemäß.
-
 
 ### § 48 (Inkrafttreten)
 

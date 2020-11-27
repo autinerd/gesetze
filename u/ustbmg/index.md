@@ -19,16 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 6 § 22 G v. 21.12.1992 I 2150, 2199
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 8
-
-
 
 ## Art 9 Übergangsregelung
 
@@ -37,16 +33,13 @@ Artikeln 5 bis 8 bezeichneten Gesetzen und Verordnungen bis zum 31.
 Dezember 1992 entstanden sind, finden noch die Vorschriften dieser
 Gesetze und Verordnungen Anwendung.
 
-
 ## Art 10
 
 -
 
-
 ## Art 11
 
 -
-
 
 ## Art 12 Inkrafttreten
 

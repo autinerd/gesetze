@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 224
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -38,11 +36,9 @@ Kraft.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 22.
 August 1991 (BGBl. I S. 1926).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
@@ -166,7 +162,6 @@ Eichzeichen, das durch die vom Bundesamt für Normen und Maße
 zugelassenen Unternehmen an einem Prüfgerät angebracht wird. Das
 Eichzeichen besteht aus dem Buchstaben C mit der das Unternehmen
 kennzeichnenden Nummer.
-
 
 ## Anlage 2 Nordisches Umweltzeichen als amtliches Prüf- und Gewährzeichen für Finnland
 

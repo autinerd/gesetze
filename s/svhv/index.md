@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 18 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des § 78 des Vierten Buches Sozialgesetzbuch (Artikel I des
@@ -46,10 +45,7 @@ Verbindung mit dem eingangs genannten § 78, auf Grund
 
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Erster Abschnitt - Aufstellung des Haushaltsplans
-
-
 
 ### § 1 Veranschlagung und Gliederung
 
@@ -76,7 +72,6 @@ Rahmen der Umlagerechnung endgültig durch den Vorstand bestimmt wird,
 abweichend vom Kontenrahmen in einer Haushaltsstelle
 "Haushaltsausgleich" zusammengefaßt werden.
 
-
 ### § 2 Abgrenzung nach Haushaltsjahren
 
 Die Einnahmen und Ausgaben sind für das Haushaltsjahr zu
@@ -84,14 +79,12 @@ veranschlagen, für das sie nach den für die einzelnen
 Versicherungsträger jeweils geltenden Verordnungen oder allgemeinen
 Verwaltungsvorschriften über das Rechnungswesen zu buchen sind.
 
-
 ### § 3 Grundsatz der Gesamtdeckung
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die
 Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden,
 soweit dies durch Gesetz vorgeschrieben oder im Haushaltsplan
 zugelassen ist.
-
 
 ### § 4 Vorbemerkung, Übersichten zum Haushaltsplan
 
@@ -115,10 +108,6 @@ Haushaltsplan insbesondere folgende Anlagen beizufügen:
 
 3.  eine Übersicht über die den Haushalt in Einnahmen und Ausgaben
     durchlaufenden Posten.
-
-
-
-
 
 ### § 5 Bruttoveranschlagung, Vollständigkeit
 
@@ -159,7 +148,6 @@ Veränderungen enthalten.
 
 (3) (weggefallen)
 
-
 ### § 6 Verpflichtungsermächtigungen
 
 (1) Verpflichtungsermächtigungen sind zu veranschlagen, wenn die
@@ -187,10 +175,6 @@ insbesondere nicht
 3.  für die Übernahme von Hypotheken, Grund- und Rentenschulden unter
     Anrechnung auf den Kaufpreis von Grundstücken.
 
-
-
-
-
 ### § 7 Erläuterungen
 
 (1) Einnahmen, Ausgaben und Verpflichtungsermächtigungen sind, soweit
@@ -214,14 +198,12 @@ Vierten Buches Sozialgesetzbuch nicht möglich (außertariflich
 Beschäftigte), so soll eine Bezugnahme auf vergleichbare
 Besoldungsgruppen oder eine betragsmäßige Ausweisung erfolgen.
 
-
 ### § 8 Übertragbarkeit
 
 Ausgaben für Investitionen und Ausgaben aus zweckgebundenen Einnahmen
 sind übertragbar. Andere Ausgaben können im Haushaltsplan für
 übertragbar erklärt werden, wenn dies ihre wirtschaftliche und
 sparsame Verwendung fördert.
-
 
 ### § 9 Deckungsfähigkeit
 
@@ -248,7 +230,6 @@ Verwendung gefördert wird.
 
 (3) (weggefallen)
 
-
 ### § 10 Sperrvermerk
 
 (1) Ausgaben, die aus besonderen Gründen zunächst noch nicht geleistet
@@ -263,7 +244,6 @@ oder eines Ausschusses der Vertreterversammlung im Sinne des § 66 Abs.
 1 des Vierten Buches Sozialgesetzbuch bedarf. Soweit im Bereich der
 gesetzlichen Krankenversicherung ein Verwaltungsrat besteht, tritt
 dieser an die Stelle der Vertreterversammlung.
-
 
 ### § 11 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
@@ -289,7 +269,6 @@ einer Ausnahme ist in den Erläuterungen zu begründen. Die Ausgaben und
 Verpflichtungsermächtigungen für Maßnahmen, für welche die Unterlagen
 noch nicht vorliegen, sind gesperrt.
 
-
 ### § 12 Wirtschaftspläne der Eigenbetriebe
 
 Eigenbetriebe des Versicherungsträgers haben einen Wirtschaftsplan
@@ -308,10 +287,7 @@ Darstellung der Stellen der übrigen Beschäftigten nach Vergütungs- und
 Lohngruppen nicht möglich, soll eine Bezugnahme auf vergleichbare
 Besoldungsgruppen oder eine betragsmäßige Ausweisung erfolgen.
 
-
 ## Zweiter Abschnitt - Ausführung des Haushaltsplans
-
-
 
 ### § 13 Bruttonachweis, Einzelnachweis
 
@@ -323,7 +299,6 @@ Abs. 1 Satz 2 nichts anderes ergibt.
 Haushaltsstellen nur geleistet werden, soweit der Haushaltsplan dies
 zuläßt. Entsprechendes gilt für die Inanspruchnahme von
 Verpflichtungsermächtigungen.
-
 
 ### § 14 Aufhebung der Sperre
 
@@ -337,7 +312,6 @@ Verpflichtungsermächtigungen, die als gesperrt bezeichnet sind. Soweit
 im Bereich der gesetzlichen Krankenversicherung ein Verwaltungsrat
 besteht, tritt dieser an die Stelle der Vertreterversammlung.
 
-
 ### § 15 Überplanmäßige und außerplanmäßige Ausgaben
 
 (1) Überplanmäßige Ausgaben bei gesetzlich oder satzungsmäßig
@@ -350,14 +324,12 @@ Voraussetzungen des § 73 des Vierten Buches Sozialgesetzbuch auf die
 nächste Bewilligung für den gleichen Zweck anzurechnen. Der Vorstand
 kann Ausnahmen zulassen.
 
-
 ### § 16 Verpflichtungsermächtigungen
 
 Die Inanspruchnahme von Verpflichtungsermächtigungen bedarf der
 Einwilligung des Vorstands. Er kann auf seine Befugnis insbesondere
 für den Fall verzichten, daß das Eingehen einer Verpflichtung nicht zu
 einer Überschreitung der Jahresbeträge (§ 6 Abs. 2 Satz 2) führt.
-
 
 ### § 17 Zuwendungen
 
@@ -368,7 +340,6 @@ Buches Sozialgesetzbuch) gewährt werden. Bei der Gewährung ist zu
 bestimmen, wie die zweckentsprechende Verwendung nachzuweisen ist.
 Außerdem ist ein Prüfungsrecht des Versicherungsträgers oder seines
 Beauftragten festzulegen.
-
 
 ### § 18 Sachliche und zeitliche Bindung
 
@@ -394,19 +365,16 @@ im Einzelfall Ausnahmen zulassen.
 Übertragbarkeit von Ausgaben zulassen, soweit Ausgaben für bereits
 bewilligte Maßnahmen noch im nächsten Haushaltsjahr zu leisten sind.
 
-
 ### § 19 Deckungsfähigkeit
 
 Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach
 Maßgabe des § 9 Abs. 1 oder des Deckungsvermerks zugunsten einer
 anderen Ausgabe verwendet werden.
 
-
 ### § 20 Einweisung in eine Stelle für Beamte
 
 Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Stelle
 für Beamte verliehen werden.
-
 
 ### § 21 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
@@ -422,7 +390,6 @@ bleibt unberührt.
 (2) Größeren Beschaffungen und größeren Entwicklungsvorhaben sind
 ausreichende Unterlagen zugrunde zu legen.
 
-
 ### § 22 Öffentliche Ausschreibung
 
 (1) Dem Abschluß von Verträgen über Lieferungen und Leistungen mit
@@ -435,12 +402,10 @@ Natur des Geschäfts oder besondere Umstände dies rechtfertigen.
 verfahren, wie sie insbesondere in den jeweils geltenden
 Verdingungsordnungen enthalten sind.
 
-
 ### § 23 Vorleistungen
 
 Vorleistungen dürfen nur vereinbart oder bewirkt werden, wenn dies
 allgemein üblich oder durch besondere Umstände gerechtfertigt ist.
-
 
 ### § 24 Veräußerung von Vermögensgegenständen
 
@@ -457,7 +422,6 @@ Ausnahmen zulassen.
 
 (4) Für die Überlassung der Nutzung eines Vermögensgegenstands gelten
 die Absätze 1 bis 3 entsprechend.
-
 
 ### § 25 Beteiligung an privatrechtlichen Unternehmen
 
@@ -514,10 +478,7 @@ Veranlassung gewählten oder entsandten Mitglieder der Aufsichtsorgane
 der Unternehmen bei ihrer Tätigkeit auch die besonderen Interessen des
 Versicherungsträgers berücksichtigen.
 
-
 ## Dritter Abschnitt - Zahlungen, Buchführung, Rechnungslegung, interne Rechnungsprüfung und Entlastung
-
-
 
 ### § 26 Weitergelten von Vorschriften
 
@@ -528,12 +489,10 @@ einzelnen Versicherungsträger jeweils geltenden Verordnungen oder
 allgemeinen Verwaltungsvorschriften über das Rechnungswesen
 anzuwenden.
 
-
 ### § 26a Buchführung der Eigenbetriebe
 
 Eigenbetriebe, die nach § 12 einen Wirtschaftsplan aufstellen, haben
 nach den Regeln der kaufmännischen doppelten Buchführung zu buchen.
-
 
 ### § 27 Jahresrechnung
 
@@ -544,7 +503,6 @@ Vermögensrechnung (§ 29).
 doppelten Buchführung buchen, stellen einen Jahresabschluss sowie
 einen Lagebericht in entsprechender Anwendung der Vorschriften des §
 264 Abs. 1 Satz 1 Handelsgesetzbuch auf.
-
 
 ### § 28 Gliederung der Haushaltsrechnung
 
@@ -557,7 +515,6 @@ und 2 gilt entsprechend.
 (2) Mehr- und Minderausgaben sowie Mindereinnahmen sind, soweit
 erforderlich, zu erläutern.
 
-
 ### § 29 Vermögensrechnung
 
 (1) In der Vermögensrechnung sind der Bestand des Vermögens und der
@@ -569,7 +526,6 @@ nachzuweisen.
 Stelle der Vermögensrechnung. Die wesentlichen Veränderungen während
 des Haushaltsjahrs sind nicht nachzuweisen, solange dies einen
 erheblichen verwaltungsmäßigen Mehraufwand erfordert.
-
 
 ### § 29a Anhang zur Jahresrechnung der Krankenversicherung
 
@@ -682,12 +638,10 @@ Sozialversicherung geregelt.
 (4) Die Absätze 1 bis 3 gelten nicht für die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau.
 
-
 ### § 30 Übersichten zur Jahresrechnung
 
 Der Jahresrechnung sind Übersichten über die überplanmäßigen und
 außerplanmäßigen Ausgaben einschließlich der Vorgriffe beizufügen.
-
 
 ### § 31 Interne Rechnungsprüfung
 
@@ -699,7 +653,6 @@ aufzustellen. Bei den in § 35a Abs. 1 des Vierten Buches
 Sozialgesetzbuch genannten Krankenkassen erfolgt die Bestellung des
 Prüfers nach Satz 1 durch den Verwaltungsrat.
 
-
 ### § 32 Entlastung
 
 Der Vorstand hat die geprüfte Jahresrechnung zusammen mit dem
@@ -709,10 +662,7 @@ Soweit im Bereich der gesetzlichen Krankenversicherung ein
 Verwaltungsrat besteht, tritt dieser an die Stelle der
 Vertreterversammlung.
 
-
 ## Vierter Abschnitt - Organisation
-
-
 
 ### § 33 Beauftragter für den Haushalt
 
@@ -727,17 +677,13 @@ Entwurf des Haushaltsplans sowie die Ausführung des Haushaltsplans. Im
 Bedeutung zu beteiligen. Er kann Aufgaben bei der Ausführung des
 Haushaltsplans übertragen.
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 34 Verbände, Vereinigungen
 
 Für die Verbände und die sonstigen Vereinigungen auf dem Gebiet der
 Sozialversicherung, die Körperschaften des öffentlichen Rechts sind,
 gelten die Vorschriften dieser Verordnung entsprechend.
-
 
 ### § 35 Ausnahmen vom Anwendungsbereich
 
@@ -746,18 +692,15 @@ Bewirtschaftung der Personalausgaben gelten nicht für die
 Betriebskrankenkassen, bei denen der Arbeitgeber auf seine Kosten
 Personal bestellt.
 
-
 ### § 36 Anwendungsbestimmung
 
 § 29a ist erstmals auf die Jahresrechnung für das Geschäftsjahr 2010
 anzuwenden.
 
-
 ### § 37 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie ist
 erstmals für die Aufstellung des Haushaltsplans 1979 anzuwenden.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1047) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

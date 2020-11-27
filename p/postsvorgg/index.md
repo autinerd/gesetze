@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 97 G v. 8.12.2010 I 1864
 
-
 ## Erster Abschnitt - Unfallversicherung
-
-
 
 ### § 1 Errichtung der Unfallkasse Post und Telekom
 
@@ -32,7 +29,6 @@ Telekommunikation errichtet die Bundesrepublik Deutschland eine
 rechtlich selbständige Unfallkasse Post und Telekom, die als Träger
 der Versicherung alle Aufgaben der gesetzlichen Unfallversicherung
 weiterführt.
-
 
 ### § 2 Weitere Aufgaben, dienstrechtliche Zuständigkeiten
 
@@ -83,12 +79,9 @@ Insoweit finden die Vorschriften des Vierten Buches Sozialgesetzbuch
 und die sonstigen Vorschriften über die Selbstverwaltung der
 Sozialversicherung auf die Unfallkasse keine Anwendung.
 
-
 ### § 3 (weggefallen)
 
-
 ### § 4 (weggefallen)
-
 
 ### § 5 Überleitung des Personals
 
@@ -120,17 +113,13 @@ Telekom übergeleiteten Beamten. Artikel 9 § 2 Abs. 3 Satz 3 des
 Eisenbahnneuordnungsgesetzes gilt mit der Maßgabe, daß die
 Verpflichtungen die Unfallkasse Post und Telekom treffen.
 
-
 ### § 6 Steuer-, Gebühren- und Abgabenbefreiung
 
 Die Unfallkasse Post und Telekom wird von Steuerpflichten sowie von
 Gerichtsgebühren und Abgaben, die aus Anlaß ihrer Errichtung
 entstehen, befreit. Auslagen sind von ihr zu erstatten.
 
-
 ## Zweiter Abschnitt - Krankenversicherung
-
-
 
 ### § 7 Betriebskrankenkasse
 
@@ -161,7 +150,6 @@ Eisenbahnen gilt Absatz 2 entsprechend.
 
 (4) Die Vorschriften des Sechsten Kapitels des Fünften Buches
 Sozialgesetzbuch bleiben unberührt.
-
 
 ### § 8 Überleitung der Beschäftigten, Übergangsregelung zur Kostenabgeltung
 

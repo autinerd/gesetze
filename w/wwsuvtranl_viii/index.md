@@ -17,14 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 537, 565
 
-
-
 ## § 1
 
 Der Sitz des Schiedsgerichts wird innerhalb des gemeinsamen
 Währungsgebietes vom Schiedsgericht binnen eines Monats nach den
 Ernennungen gemäß Artikel 7 Abs. 3 des Vertrags bestimmt.
-
 
 ## § 2
 
@@ -44,12 +41,10 @@ widerspricht, so beträgt die Frist für die Anrufung des
 Schiedsgerichts zwei Monate gerechnet vom Tag der Bekanntmachung
 dieser Rechtsvorschrift.
 
-
 ## § 3
 
 Der Präsident beruft das Schiedsgericht innerhalb von zwei Wochen nach
 der Vorlage der Streitigkeit ein.
-
 
 ## § 4
 
@@ -63,7 +58,6 @@ Eingang dieses Antrags eine vorläufige Entscheidung.
 (2) Der Antrag nach Absatz 1 ist nur zulässig in Verbindung mit der
 Anrufung des Schiedsgerichts nach § 2.
 
-
 ## § 5
 
 (1) Das Schiedsgericht ist beschlußfähig, wenn der Präsident und alle
@@ -72,7 +66,6 @@ sind.
 
 (2) Die Entscheidungen des Schiedsgerichts werden mit Stimmenmehrheit
 getroffen.
-
 
 ## § 6
 
@@ -84,7 +77,6 @@ Amts wegen beschließen, jede Person, deren Aussagen oder Erklärungen
 ihm für die Entscheidung der Streitsache erheblich erscheinen, als
 Zeugen, Sachverständigen oder in anderer Eigenschaft zu hören.
 
-
 ## § 7
 
 (1) Der Schiedsspruch ist schriftlich zu erlassen und von allen
@@ -92,12 +84,10 @@ Mitgliedern des Schiedsgerichts zu unterzeichnen.
 
 (2) Der Schiedsspruch ist zu begründen.
 
-
 ## § 8
 
 Der Präsident übermittelt den Vertragsparteien beglaubigte Abschriften
 des Schiedsspruchs.
-
 
 ## § 9
 
@@ -108,18 +98,15 @@ haben ihn unverzüglich zu befolgen.
 Schiedsspruchs, so hat das Schiedsgericht den Schiedsspruch auf Antrag
 einer Vertragspartei auszulegen.
 
-
 ## § 10
 
 Der Präsident und die Mitglieder des Schiedsgerichts sind in dem
 gesamten Währungsgebiet von der gerichtlichen Verfolgung wegen solcher
 Handlungen befreit, die sie in Ausübung ihres Amtes vorgenommen haben.
 
-
 ## § 11
 
 Das Verfahren ist gebührenfrei.
-
 
 ## § 12
 
@@ -132,7 +119,6 @@ Schiedsgerichtsmitglieder, die von ihr ernannt sind. Die
 Sitzungsentschädigung des Präsidenten und die sonstigen Kosten tragen
 die Vertragsparteien je zur Hälfte.
 
-
 ## § 13
 
 Für die Erledigung seiner laufenden Geschäfte, insbesondere auch zur
@@ -142,7 +128,6 @@ in § 1 dieser Anlage genannten Frist eine Geschäftsstelle ein. Dabei
 soll auf vorhandene Einrichtungen zurückgegriffen werden. Für die
 laufenden Kosten dieser Geschäftsstelle gilt § 12 Abs. 2 Satz 2 dieser
 Anlage.
-
 
 ## § 14
 

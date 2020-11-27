@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 G v. 17.12.2008 I 2586
 
-
 ## § 1
 
 (1) Das Gesetz über die Zwangsversteigerung und die Zwangsverwaltung
@@ -29,7 +28,6 @@ ist.
 
 (2) Die Artikel 1 Abs. 2, Artikel 2, 50, 55 des Einführungsgesetzes
 zum Bürgerlichen Gesetzbuch finden entsprechende Anwendung.
-
 
 ## § 2
 
@@ -45,7 +43,6 @@ wiederkehrender Leistungen ein Vorrecht vor den im § 10 Nr. 1 bis 6
 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung
 bezeichneten Ansprüchen beigelegt ist.
 
-
 ## § 3
 
 Die im Artikel 113 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch
@@ -56,7 +53,6 @@ Grundstück gewähren und den Rang dieses Rechts bestimmen. Jedoch kann
 dem Anspruch auf Rückstände wiederkehrender Leistungen ein Vorrecht
 nur mit der im § 2 Abs. 2 bezeichneten Einschränkung beigelegt werden.
 
-
 ## § 4
 
 (1) Durch Landesgesetz kann bestimmt werden, daß gewisse öffentliche
@@ -64,13 +60,11 @@ Lasten anderen im Range vorgehen.
 
 (2)
 
-
 ## § 5
 
 Durch Landesgesetz kann bestimmt werden, daß dem Antrag auf
 Zwangsversteigerung ein Auszug aus einem Steuerbuch beigefügt werden
 soll.
-
 
 ## § 6
 
@@ -79,14 +73,12 @@ Bestimmung des Versteigerungstermins noch andere als die im § 38 des
 Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung
 vorgeschriebenen Angaben über das Grundstück enthalten soll.
 
-
 ## § 7
 
 Unberührt bleiben die bestehenden landesgesetzlichen Vorschriften,
 nach welchen noch andere als die in den §§ 39, 40 des Gesetzes über
 die Zwangsversteigerung und die Zwangsverwaltung bezeichneten
 Veröffentlichungen der Terminsbestimmung zu erfolgen haben.
-
 
 ## § 8
 
@@ -100,7 +92,6 @@ Anmeldung zu berücksichtigen sind.
 Zwangsversteigerung und die Zwangsverwaltung vorgeschriebene
 Aufforderung auf die Anmeldung der Ansprüche aus den bezeichneten
 Hypotheken ausgedehnt werden.
-
 
 ## § 9
 
@@ -117,7 +108,6 @@ Beteiligten als Versteigerungsbedingung zu bestimmen, wenn durch das
 Fortbestehen ein dem Recht vorgehendes oder gleichstehendes Recht des
 Beteiligten beeinträchtigt werden würde; die Zustimmung eines anderen
 Beteiligten ist nicht erforderlich.
-
 
 ## § 9a
 
@@ -150,7 +140,6 @@ Einführungsgesetzes zum Bürgerlichen Gesetzbuche ein Vertreter zu
 bestellen. Ein Zwangsversteigerungsvermerk ist auch in ein bestehendes
 Gebäudegrundbuch für Gebäudeeigentum auf dem Grundstück einzutragen.
 
-
 ## § 10
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
@@ -158,14 +147,12 @@ bei der Zwangsversteigerung für Gebote kommunaler Körperschaften sowie
 bestimmter Kreditanstalten und Sparkassen Sicherheitsleistung nicht
 verlangt werden kann.
 
-
 ## § 11
 
 Durch Landesgesetz kann für die Zwangsversteigerung, unbeschadet des §
 112 Abs. 2 Satz 4 des Gesetzes über die Zwangsversteigerung und die
 Zwangsverwaltung, bestimmt werden, daß und nach welchen Grundsätzen
 der Wert des Grundstücks festgestellt werden soll.
-
 
 ## § 12
 
@@ -176,16 +163,13 @@ Aufgebotsfristen abweichend von den Vorschriften der §§ 435, 437 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit bestimmen.
 
-
 ## § 13
 
 -
 
-
 ## § 14
 
 -
-
 
 ## § 15
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 2071
 
-
-
 ## (XXXX)
 
 Auf Grund des § 126 Abs. 3 Satz 2 in Verbindung mit § 121 Abs. 4 Satz

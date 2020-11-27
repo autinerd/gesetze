@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 25 G v. 3. 5.2000 I 632
 
-
 ## § 1
 
 Die Versorgung der Kriegsopfer wird von Versorgungsämtern und
 Landesversorgungsämtern durchgeführt. Mehrere Länder können ein
 gemeinsames Landesversorgungsamt errichten.
-
 
 ## § 2
 
@@ -45,22 +43,16 @@ Ländern im Rahmen der Versorgungsverwaltung zu errichten:
 
 4.  Krankenbuchlager bei einzelnen Versorgungsämtern.
 
-
-
-
-
 ## § 3
 
 Die Versorgungsämter und die nach § 2 zu errichtenden Stellen
 unterstehen den Landesversorgungsämtern; diese unterstehen den für die
 Kriegsopferversorgung zuständigen Obersten Landesbehörden.
 
-
 ## § 4
 
 Die Beamten und Angestellten der Versorgungsverwaltung sollen für ihre
 Aufgabe besonders geeignet sein.
-
 
 ## § 5
 
@@ -70,18 +62,15 @@ Aufgabe besonders geeignet sein.
 Verwaltungsvorschriften über die Errichtung und Einrichtung der
 Verwaltungsbehörden und der nach § 2 zu errichtenden Stellen.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 
 Dem Land Berlin bleibt es vorbehalten, um seine Rechte nach § 91 des
 Bundesversorgungsgesetzes zu wahren, die unveränderte Anwendung dieses
 Gesetzes in Berlin durch Gesetz zu beschließen.
-
 
 ## § 7a
 
@@ -100,7 +89,6 @@ dabei kann sie auch die für die Kriegsopferversorgung zuständige
 oberste Landesbehörde mit diesen Aufgaben betrauen.
 
 (3)
-
 
 ## § 8
 

@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 596
 
-
-
 ## Art 1
 
 Auf Grund des § 76 in Verbindung mit § 189 Abs. 1 des
 Bundesbeamtengesetzes ordne ich an:
-
 
 ## I.
 
@@ -31,13 +28,11 @@ Amtsrobe tragen die Richter eine breite weiße Halsbinde mit
 herabhängenden Enden, die Urkundsbeamten eine einfache weiße
 Halsbinde.
 
-
 ## II.
 
 Die Farbe der Amtstracht ist schwarz. Der Besatz an der Amtsrobe und
 am Barett besteht für die Richter aus stahlblauem Samt, für die
 Urkundsbeamten aus stahlblauem Wollstoff.
-
 
 ## III.
 
@@ -48,15 +43,10 @@ a)  der Präsident des Bundespatentgerichts zwei Schnüre in Gold,
 
 b)  der Vizepräsident und die Senatspräsidenten eine Schnur in Gold.
 
-
-
-
-
 ## IV.
 
 Abgeordnete Richter tragen die für die Richter des
 Bundespatentgerichts vorgeschriebene Amtstracht.
-
 
 ## Art 2
 
@@ -68,16 +58,12 @@ stahlblauem Besatz aus stumpfer Seide besteht.
 Patentanwälte oder die für sie bei den anderen ordentlichen Gerichten
 vorgeschriebene Amtstracht tragen.
 
-
 ## Art 3
 
 Der Bundesminister der Justiz wird ermächtigt, Ausführungsbestimmungen
 zu dieser Anordnung zu erlassen.
 
-
 ## Art 4 -
-
-
 
 ## Art 5
 

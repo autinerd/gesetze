@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 11 G v. 12.8.2005 I 2354
 
-
 ## Erster Abschnitt - Schutzbereiche
-
-
 
 ### § 1
 
@@ -50,7 +47,6 @@ Landesregierung vor seiner Entscheidung.
 dem Schutzbereich erstrebte Erfolg auf andere Weise nicht oder nicht
 rechtzeitig oder nur mit unverhältnismäßigen Mitteln erreicht werden
 kann.
-
 
 ### § 2
 
@@ -84,7 +80,6 @@ Beteiligten bekanntzugeben.
 Zwecke des § 1 nicht mehr benötigt wird. Die Aufhebung ist den
 Beteiligten bekanntzugeben.
 
-
 ### § 3
 
 (1) Wer innerhalb der Schutzbereiche
@@ -107,7 +102,6 @@ erforderlich ist.
 
 (2) Befreiungen von der Genehmigungspflicht können zugelassen werden.
 
-
 ### § 4
 
 (1) Soweit es zur Erreichung der Zwecke des Schutzbereichs
@@ -116,7 +110,6 @@ innerhalb des Schutzbereichs gelegenen Grundstücke beschränkt werden.
 
 (2) Wird die landwirtschaftliche Nutzung beschränkt, soll auf die
 landwirtschaftliche Erzeugung Rücksicht genommen werden.
-
 
 ### § 5
 
@@ -129,7 +122,6 @@ eingeschränkt werden.
 oder seine Anlagen ganz oder teilweise ohne Genehmigung zu
 fotografieren oder Zeichnungen, Skizzen oder andere bildliche
 Darstellungen davon anzufertigen.
-
 
 ### § 6
 
@@ -151,7 +143,6 @@ zuständigen Behörde zu dulden, daß
 angemessene Räumungsfrist zu gewähren. Die ausreichende anderweitige
 Unterbringung muß gesichert sein.
 
-
 ### § 7
 
 Bei den Maßnahmen, die nach diesem Gesetz zulässig sind, muß die
@@ -162,16 +153,12 @@ Einrichtungen und Anstalten, die mildtätigen, gemeinnützigen oder
 kirchlichen Zwecken dienen, ist bei der Anwendung dieses Gesetzes
 Rücksicht zu nehmen.
 
-
 ### § 8
 
 Wer ohne die Genehmigung nach § 3 handelt, muß auf Verlangen der
 zuständigen Behörde den ursprünglichen Zustand wiederherstellen.
 
-
 ## Zweiter Abschnitt - Schutzbereichbehörden
-
-
 
 ### § 9
 
@@ -187,7 +174,6 @@ Bundesminister der Verteidigung kann Aufgaben der
 Schutzbereichbehörden auf die unteren Behörden der
 Bundeswehrverwaltung übertragen.
 
-
 ### § 10
 
 Die Beauftragten der Schutzbereichbehörden sind befugt, Grundstücke zu
@@ -196,17 +182,13 @@ Schutzbereich in Betracht kommen. Wohnungen dürfen nur in dringenden
 Fällen betreten werden, wenn der erstrebte Erfolg auf andere Weise
 nicht erreicht werden kann.
 
-
 ### § 11
 
 Den Schutzbereichbehörden sind auf Verlangen vorhandene Unterlagen und
 Pläne zur Einsicht zu überlassen, die zur Vorbereitung der nach diesem
 Gesetz zulässigen Maßnahmen nötig sind.
 
-
 ## Dritter Abschnitt - Entschädigung
-
-
 
 ### § 12
 
@@ -228,7 +210,6 @@ bereits nach Absatz 1 entschädigt werden, nach Maßgabe der Artikel 52
 und 53 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch auf die
 Entschädigung des Eigentümers angewiesen.
 
-
 ### § 13
 
 (1) Eine Entschädigung nach § 12 wird nicht gezahlt, soweit einem
@@ -240,7 +221,6 @@ hätte ziehen können.
 Entschädigungsberechtigten mitgewirkt, so gilt § 254 des Bürgerlichen
 Gesetzbuchs sinngemäß.
 
-
 ### § 14
 
 (1) Wenn die Entschädigung für den Entzug oder die Beschränkung der
@@ -248,7 +228,6 @@ Nutzung in einer wiederkehrenden Leistung besteht, ist sie in der
 Regel vierteljährlich nachträglich zu zahlen.
 
 (2) Vereinbarungen über eine einmalige Abfindung sind zulässig.
-
 
 ### § 15
 
@@ -265,7 +244,6 @@ hätte.
 vorübergehend unzumutbar erschwert wird, können die Entziehung des
 Rechtes beantragen.
 
-
 ### § 16
 
 (1) Zahlungspflichtig ist der Bund.
@@ -276,17 +254,13 @@ Rechtsstellung von Streitkräften auswärtiger Staaten im Bundesgebiet
 errichtet, so richtet sich die Zahlungspflicht nach diesen Verträgen
 unbeschadet § 25 Abs. 4.
 
-
 ## Vierter Abschnitt - Festsetzung der Entschädigung
-
-
 
 ### § 17
 
 Die Landesregierungen bestimmen die Behörden, die die Entschädigung
 auf Grund dieses Gesetzes festzusetzen haben (Festsetzungsbehörden),
 und regeln ihre Zuständigkeiten.
-
 
 ### § 18
 
@@ -302,7 +276,6 @@ auf die Beteiligung verzichtet.
 (3) Eine Einigung ist nur rechtswirksam, wenn sie notariell beurkundet
 ist.
 
-
 ### § 19
 
 (1) Kommt eine Einigung nicht zustande, so setzt die
@@ -313,7 +286,6 @@ Beteiligten Gelegenheit zur Äußerung gegeben hat.
 Festsetzungsbehörde, der Zahlungspflichtige und der Zahlungsempfänger
 anzugeben sind und der eine Rechtsmittelbelehrung zu enthalten hat. Er
 ist den Beteiligten zuzustellen.
-
 
 ### § 20
 
@@ -334,7 +306,6 @@ Fällen der §§ 731, 767 bis 770, 785, 786, 791 der Zivilprozeßordnung
 tritt das Amtsgericht, in dessen Bezirk das zum Schutzbereich erklärte
 Grundstück liegt, an die Stelle des Prozeßgerichts.
 
-
 ### § 21
 
 (1) Wird die Entschädigung auf Grund dieses Gesetzes nicht innerhalb
@@ -353,7 +324,6 @@ Monate nach Bekanntgabe der Anordnung (§ 2) oder der nach diesem
 Gesetz zulässigen Maßnahmen (§ 9 Abs. 2), so sind die in Absatz 1
 genannten Zinsen von diesem Zeitpunkt an zu zahlen.
 
-
 ### § 22
 
 (1) Das Verfahren vor den Verwaltungsbehörden ist kostenfrei. Dem
@@ -365,7 +335,6 @@ verursacht hat.
 das Verfahren entstanden sind, werden ihm erstattet, wenn sie zur
 zweckentsprechenden Wahrnehmung seiner Rechte notwendig waren und sich
 sein Antrag als begründet erweist.
-
 
 ### § 23
 
@@ -379,10 +348,7 @@ steht die Stellung des Antrags bei der Festsetzungsbehörde gleich.
 nach Artikel 8 Abs. 6 des Finanzvertrags              bleiben
 unberührt.
 
-
 ## Fünfter Abschnitt - Rechtsmittel
-
-
 
 ### § 24
 
@@ -393,7 +359,6 @@ zweier Wochen nach Zustellung das Rechtsmittel der Beschwerde zu.
 
 (3) Die Entscheidung über die Beschwerde ist den am
 Festsetzungsverfahren Beteiligten zuzustellen.
-
 
 ### § 25
 
@@ -432,16 +397,12 @@ anzuwenden.
 Zivilprozeßordnung. Bei Versäumnis der Frist des § 24 gilt für die
 Wiedereinsetzung in den vorigen Stand Satz 1 entsprechend.
 
-
 ### § 26
 
 Für die Anfechtung der von den Schutzbereichbehörden erlassenen
 Verwaltungsakte gilt die Verwaltungsgerichtsordnung.
 
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 27
 
@@ -471,7 +432,6 @@ eine solche Ordnungswidrigkeit bezieht, können eingezogen werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Schutzbereichbehörde.
 
-
 ### § 28
 
 (1) Sind Grundstücke von den Streitkräften des Vereinigten Königreichs
@@ -488,7 +448,6 @@ Gesetzes als Schutzbereiche im Sinne dieses Gesetzes.
 (2) Die Vorschriften dieses Gesetzes über die Entschädigung finden auf
 die in Absatz 1 genannten Grundstücke mit Wirkung vom 5. Mai 1955 12
 Uhr Anwendung.
-
 
 ### § 29
 
@@ -508,12 +467,10 @@ jedoch bis zu dem in § 28 Abs. 1 genannten Zeitpunkt.
 1 nicht vor dem 1. Januar 1957, sofern bis zum Inkrafttreten dieses
 Gesetzes eine angemessene Abschlagszahlung geleistet ist.
 
-
 ### § 30
 
 Zustellungen durch die Verwaltungsbehörden werden nach dem
 Verwaltungszustellungsgesetz bewirkt.
-
 
 ### § 31
 
@@ -521,11 +478,9 @@ Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, durch
 Rechtsverordnung eine von § 24 Abs. 1 und 2 abweichende Regelung zu
 treffen.
 
-
 ### § 32
 
 -
-
 
 ### § 33
 
@@ -533,11 +488,9 @@ Soweit durch die Vorschriften dieses Gesetzes das Grundrecht nach
 Artikel 13 des Grundgesetzes berührt wird, wird dieses Grundrecht
 eingeschränkt.
 
-
 ### § 34
 
 -
-
 
 ### § 35
 

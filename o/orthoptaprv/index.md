@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 55 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 des Orthoptistengesetzes vom 28. November 1989
@@ -26,14 +25,12 @@ Auf Grund des § 8 des Orthoptistengesetzes vom 28. November 1989
 Frauen und Gesundheit im Benehmen mit dem Bundesminister für Bildung
 und Wissenschaft:
 
-
 ## § 1 Ausbildung
 
 Die dreijährige Ausbildung für Orthoptistinnen und Orthoptisten umfaßt
 mindestens den in der Anlage 1 aufgeführten theoretischen und
 praktischen Unterricht und die in Anlage 2 aufgeführte praktische
 Ausbildung.
-
 
 ## § 2 Staatliche Prüfung
 
@@ -48,7 +45,6 @@ Prüfungsausschüsse sind vorher zu hören. Bei Personen, die beantragen,
 die Prüfung auf Grund des § 11 Abs. 4 des Orthoptistengesetzes
 abzulegen, bestimmt die zuständige Behörde den zuständigen
 Prüfungsausschuß.
-
 
 ## § 3 Prüfungsausschuß
 
@@ -96,7 +92,6 @@ Stellvertreter jeweils zuständig sind.
 (3) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ## § 4 Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
@@ -136,7 +131,6 @@ werden.
 (5) Die besonderen Belange behinderter Prüflinge sind zur Wahrung
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
-
 
 ## § 5 Schriftlicher Teil der Prüfung
 
@@ -195,10 +189,6 @@ halbiert. Dabei lautet die Gesamtnote
 
     *   bei Werten von über 5,0.
 
-
-
-
-
 ## § 6 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
@@ -243,7 +233,6 @@ Prüfung.
 Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung
 gestatten.
 
-
 ## § 7 Praktischer Teil der Prüfung
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling unter Aufsicht
@@ -261,13 +250,11 @@ höchstens drei Stunden abgeschlossen sein.
 
 (3) § 6 Abs. 2 und 3 gilt entsprechend.
 
-
 ## § 8 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 9 Benotung
 
@@ -287,7 +274,6 @@ können,
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
 und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
 absehbarer Zeit nicht behoben werden können.
-
 
 ## § 10 Bestehen und Wiederholung der Prüfung
 
@@ -313,7 +299,6 @@ Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
 ## § 11 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -329,7 +314,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. §
 10 Abs. 3 gilt entsprechend.
 
-
 ## § 12 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
@@ -342,7 +326,6 @@ wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ## § 13 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -354,14 +337,12 @@ Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im
 Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach
 Abschluß der Prüfung zulässig.
 
-
 ## § 14 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
 Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
-
 
 ## § 15 Erlaubnisurkunde
 
@@ -370,12 +351,10 @@ der Erlaubnis zur Führung der Berufsbezeichnung "Orthoptistin" oder
 "Orthoptist" vor, so stellt die zuständige Behörde die
 Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
-
 ## § 15a Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
 
 Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet ab dem 1. September 1991 Anwendung.
-
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -445,7 +424,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 16a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -460,16 +438,13 @@ der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
 Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
 zugrunde liegt, am 1. Dezember 2012 in Kraft.
 
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1)
 
@@ -1131,10 +1106,6 @@ Fundstelle des Originaltextes: BGBl. I 1990, 566 - 568
 
     *   1.700
 
-
-
-
-
 ## Anlage 2 (zu § 1)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 569
@@ -1191,10 +1162,6 @@ Fundstelle des Originaltextes: BGBl. I 1990, 569
 
     *   2.800
 
-
-
-
-
 ## Anlage 3 (zu § 4 Abs. 2 Nr. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 569)
@@ -1225,7 +1192,6 @@ Ort, Datum
 --------------
 \*) Nichtzutreffendes streichen.
 
-
 ## Anlage 4 (zu § 10 Abs. 2 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 570)
@@ -1255,7 +1221,6 @@ Ort, Datum
 (Siegel)
 .............................................
 (Unterschrift)
-
 
 ## Anlage 5 (zu § 15)
 

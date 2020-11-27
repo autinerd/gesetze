@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1859
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Niedersachsen und dem Land Nordrhein-Westfalen wurde
@@ -46,7 +44,6 @@ Gemäß § 2 Abs. 3 des Gesetzes über das Verfahren bei sonstigen
 Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des
 Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der
 Staatsvertrag nachstehend bekannt gemacht.
-
 
 ## Schlussformel
 

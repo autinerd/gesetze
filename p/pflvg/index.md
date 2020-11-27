@@ -24,16 +24,12 @@ Mittelbare änderung durch
 Neufassung durch
 :   Art. 1 G v. 5.4.1965 I 213 udB "Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (Pflichtversicherungsgesetz)"
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Pflichtversicherung
-
-
 
 ### § 1
 
@@ -44,7 +40,6 @@ des Fahrzeugs verursachten Personenschäden, Sachschäden und sonstigen
 Vermögensschäden nach den folgenden Vorschriften abzuschließen und
 aufrechtzuerhalten, wenn das Fahrzeug auf öffentlichen Wegen oder
 Plätzen (§ 1 des Straßenverkehrsgesetzes) verwendet wird.
-
 
 ### § 2
 
@@ -114,7 +109,6 @@ gegenüber dem Fahrer oder der sonstigen mitversicherten Person
 leistungsfrei gewesen wäre; im übrigen ist der Rückgriff des Halters
 gegenüber diesen Personen ausgeschlossen.
 
-
 ### § 3
 
 Ist der Versicherer gegenüber dem Versicherungsnehmer nicht zur
@@ -129,7 +123,6 @@ einem Sozialversicherungsträger zu erlangen. Soweit der Dritte jedoch
 von einem nach § 2 Abs. 1 Nr. 1 bis 5 von der Versicherungspflicht
 befreiten Fahrzeughalter Ersatz seines Schadens erlangen kann,
 entfällt die Leistungspflicht des Versicherers.
-
 
 ### § 3a
 
@@ -161,14 +154,12 @@ der Grünen Internationalen Versicherungskarte oder den
 Entschädigungsfonds nach § 12 erfolgt, ist Absatz 1 entsprechend
 anzuwenden.
 
-
 ### § 3b
 
 Schließt der Erwerber eines veräußerten Fahrzeugs eine neue
 Kraftfahrzeug-Haftpflichtversicherung, ohne das auf ihn übergegangene
 Versicherungsverhältnis zu kündigen, gilt dieses mit Beginn des neuen
 Versicherungsverhältnisses als gekündigt.
-
 
 ### § 4
 
@@ -213,7 +204,6 @@ haftet der Versicherer in den Fällen des § 117 Abs. 1 und 2 des
 Versicherungsvertragsgesetzes für den einer einzelnen Person
 zugefügten Schaden nur im Rahmen der nicht erhöhten
 Mindestversicherungssummen.
-
 
 ### § 5
 
@@ -307,7 +297,6 @@ Versicherungsschein und die Versicherungsbestätigung auch Angaben über
 den Namen und die Anschrift des gemäß § 8 Abs. 2 Satz 1 bestellten
 Vertreters zu enthalten.
 
-
 ### § 6
 
 (1) Wer ein Fahrzeug auf öffentlichen Wegen oder Plätzen gebraucht
@@ -323,7 +312,6 @@ Tagessätzen.
 (3) Ist die Tat vorsätzlich begangen worden, so kann das Fahrzeug
 eingezogen werden, wenn es dem Täter oder Teilnehmer zur Zeit der
 Entscheidung gehört.
-
 
 ### § 7
 
@@ -349,13 +337,7 @@ erlassen über
     nicht ausreichend versicherter Fahrzeuge im Straßenverkehr verhindert
     werden soll.
 
-
-
-
-
 ## Zweiter Abschnitt - Pflichten der Kraftfahrzeug-Haftpflichtversicherer, Auskunftsstelle und Statistik
-
-
 
 ### § 8
 
@@ -388,7 +370,6 @@ bestellte Vertreter ist auch verpflichtet, Auskunft über das Bestehen
 oder die Gültigkeit von diesem Gesetz unterliegenden
 Haftpflichtversicherungsverträgen bei dem Versicherungsunternehmen zu
 erteilen.
-
 
 ### § 8a
 
@@ -475,7 +456,6 @@ Anschriften der nach § 7b des Versicherungsaufsichtsgesetzes
 bestellten Schadenregulierungsbeauftragten sowie jede Änderung dieser
 Angaben mitzuteilen.
 
-
 ### § 9
 
 (1) Es wird eine jährliche Gemeinschaftsstatistik über den
@@ -493,7 +473,6 @@ Bundesaufsichtsamt für das Versicherungswesen geführt.
 (3) Die Ergebnisse der Statistik sind vom Bundesaufsichtsamt für das
 Versicherungswesen jährlich zu veröffentlichen.
 
-
 ### § 10
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die
@@ -509,7 +488,6 @@ Haftpflichtversicherung betreiben, sind der Aufsichtsbehörde die in §
 9 Abs. 1 Satz 2 genannten Angaben für jeden Mitgliedstaat gesondert
 mitzuteilen.
 
-
 ### § 11
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
@@ -520,10 +498,7 @@ führenden Kraftfahrzeug-Haftpflichtversicherungsstatistik sowie über
 die Fristen, den Inhalt, die Form und die Stückzahl der von den
 Versicherungsunternehmen einzureichenden Mitteilungen.
 
-
 ## Dritter Abschnitt - Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen und Entschädigungsstelle für Auslandsunfälle
-
-
 
 ### § 12
 
@@ -662,7 +637,6 @@ verpflichtet, dem Entschädigungsfonds die für die Erfüllung seiner
 Aufgaben erforderlichen Auskünfte zu erteilen, die benötigten
 Unterlagen zu überlassen und ihn bei der Abwicklung zu unterstützen.
 
-
 ### § 12a
 
 (1) Wird durch den Gebrauch eines Kraftfahrzeugs oder eines Anhängers
@@ -770,7 +744,6 @@ gewöhnlichen Standort hat und wenn das nationale Versicherungsbüro
 (Artikel 1 Abs. 3 der Richtlinie 72/166/EWG) des Staates, in dem sich
 der Unfall ereignet hat, dem System der Grünen Karte beigetreten ist.
 
-
 ### § 12b
 
 Soweit die Entschädigungsstelle nach § 12a dem Ersatzberechtigten den
@@ -785,7 +758,6 @@ genannte Entschädigungsstelle übergegangenen Ansprüche des
 Geschädigten gegen den Halter, den Eigentümer, den Fahrer und einen
 sonstigen Ersatzpflichtigen auf die zuerst genannte
 Entschädigungsstelle über.
-
 
 ### § 12c
 
@@ -803,7 +775,6 @@ Mitgliedstaats der Europäischen Union übergegangenen Ansprüche des
 Geschädigten gegen den Halter, den Eigentümer, den Fahrer und einen
 sonstigen Ersatzpflichtigen auf den Entschädigungsfonds nach § 12
 über.
-
 
 ### § 13
 
@@ -865,7 +836,6 @@ sind auf 0,5 vom Hundert des Gesamtprämienaufkommens der
 Kraftfahrzeug-Haftpflichtversicherung des vorangegangenen
 Kalenderjahres begrenzt.
 
-
 ### § 13a
 
 (1) Die Aufgaben und Befugnisse der Entschädigungsstelle nach § 12a
@@ -886,7 +856,6 @@ Wahrnehmung der Aufgaben bereit ist.
 
 (2) Die Entschädigungsstelle ist von der Körperschaftsteuer, der
 Gewerbesteuer und der Vermögensteuer befreit.
-
 
 ### § 14
 
@@ -932,16 +901,7 @@ des Bundesrates
         Schiedsstelle vorausgegangen ist, sofern nicht seit der Anrufung der
         Schiedsstelle mehr als drei Monate verstrichen sind.
 
-
-
-
-
-
-
-
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 15
 
@@ -956,11 +916,9 @@ Kenntlichmachung der Unterschiede des alten und neuen Tarifs
 spätestens einen Monat vor Inkrafttreten der Änderung mitteilt und ihn
 schriftlich über sein Kündigungsrecht belehrt.
 
-
 ### § 16
 
 -
-
 
 ### Anlage zu § 4 Abs. 2
 

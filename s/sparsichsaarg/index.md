@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   § 12 Nr. 7 G v. 17.12.1975 I 3123
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Sparanlagen
 
@@ -74,7 +71,6 @@ spätestens am 31. Dezember 1958 erteilt worden sind und auf einem
 Überweisungsauftrag beruhen, der vor Ablauf des 19. Dezember 1958 bei
 dem beauftragten Institut eingegangen ist.
 
-
 ### § 2 Berechtigter
 
 (1) Ein Anspruch auf Leistung gegen den Bund steht nur natürlichen
@@ -112,7 +108,6 @@ oder auf Deutsche Mark umgestellt worden ist, die am 19. Dezember 1958
 für den Zweck der Versorgung oder Unterstützung natürlicher Personen
 gebunden war.
 
-
 ### § 3 Rechtsnachfolge
 
 Ein Wechsel in der Person des Gläubigers zwischen dem 19. Dezember
@@ -143,10 +138,6 @@ diesem Gesetz aus, es sei denn, daß der Wechsel beruht auf Erwerb
 7.  aus Einräumung einer Bezugsberechtigung aus einem
     Lebensversicherungsvertrag.
 
-
-
-
-
 ### § 4 Umwandlung einer Sparanlage
 
 Eine nach dem 19. Dezember 1958 begründete Sparanlage wird bei
@@ -158,7 +149,6 @@ worden ist; ist die frühere Sparanlage in der Zeit vom 19. November
 bis zum 18. Dezember 1958 beendet worden, so läuft die Frist von zwei
 Monaten vom 19. Dezember 1958 an.
 
-
 ### § 5 Anspruch auf Leistung gegen den Bund
 
 (1) Der Berechtigte hat einen Anspruch auf Leistung gegen den Bund in
@@ -169,7 +159,6 @@ Umwandlung oder bei der Umstellung dieser Sparanlage ergeben hat.
 
 (2) Der Anspruch auf Leistung gegen den Bund ist übertragbar und
 vererblich.
-
 
 ### § 6 Ansprüche aus Lebensversicherungsverträgen
 
@@ -196,10 +185,7 @@ Arbeitnehmers geschlossen worden ist, wenn dem Arbeitnehmer oder
 seinen Angehörigen ein Bezugsrecht auf die Versicherungsleistung
 eingeräumt worden ist und wenn die Prämien der Lohnsteuer unterlagen.
 
-
 ## Zweiter Abschnitt - Verfahren
-
-
 
 ### § 7 Amtsverfahren
 
@@ -227,7 +213,6 @@ Institut ist
 Voraussetzungen für die Feststellung des Anspruchs auf Leistung gegen
 den Bund nach Grund und Höhe für gegeben, so stellt es den Anspruch
 fest.
-
 
 ### § 8 Antragsverfahren
 
@@ -284,13 +269,11 @@ des Anspruchs gegen den Bund nach Grund und Höhe für gegeben, so
 stellt sie den Anspruch fest. Sie gibt diese Entscheidung dem
 Berechtigten und dem Institut bekannt.
 
-
 ### § 9 Antragsverfahren in besonderen Fällen
 
 Ist ein Institut nach § 7 Abs. 1 nicht bestimmt worden, so findet § 8
 mit der Maßgabe entsprechende Anwendung, daß der Antrag bei der
 Oberfinanzdirektion Saarbrücken zu stellen ist.
-
 
 ### § 10 Beweis im Antragsverfahren
 
@@ -306,7 +289,6 @@ Verschwiegenheit für den Sachverständigen nicht bereits aus anderen
 Vorschriften ergibt, hat die Oberfinanzdirektion den Sachverständigen
 zur Verschwiegenheit zu verpflichten.
 
-
 ### § 11 Ablehnende Entscheidung der Oberfinanzdirektion
 
 (1) Eine ablehnende Entscheidung der Oberfinanzdirektion Saarbrücken
@@ -319,7 +301,6 @@ Prüfung bei der Oberfinanzdirektion einlegen. Hilft die
 Oberfinanzdirektion Saarbrücken dem Einspruch nicht ab, so kann der
 Berechtigte binnen eines Monats nach Bekanntgabe dieser Entscheidung
 die Anfechtungsklage beim Verwaltungsgericht erheben.
-
 
 ### § 12 Gutschrift
 
@@ -341,12 +322,10 @@ wird.
 (3) Der Berechtigte kann die Auszahlung des gutgeschriebenen Betrages
 nebst Zinsen nicht vor Fälligkeit der Sparanlage verlangen.
 
-
 ### § 13 Form der Gutschrift bei Spareinlagen
 
 Beruht der Anspruch auf Leistung gegen den Bund auf einer Spareinlage,
 so wird die Gutschrift auf dem Sparkonto erteilt.
-
 
 ### § 14 Form der Gutschrift bei Bausparguthaben
 
@@ -354,7 +333,6 @@ Beruht der Anspruch auf Leistung gegen den Bund auf einem
 Bausparguthaben, so wird die Gutschrift auf dem Bausparkonto erteilt.
 Satz 1 gilt entsprechend für Guthaben bei der Stiftung für Wohnungsbau
 der Bergarbeiter.
-
 
 ### § 15 Erfüllung bei Ansprüchen aus Lebensversicherungsverträgen
 
@@ -367,7 +345,6 @@ wesentliche Inhalt des Geschäftsplanes bekanntzugeben. Mit der
 Bekanntgabe an den Berechtigten erlischt der Anspruch gegen den Bund.
 
 (2) § 12 Abs. 3 gilt sinngemäß.
-
 
 ### § 16 Erfüllung bei Ansprüchen aus Wertpapieren
 
@@ -382,7 +359,6 @@ gegen den Bund durch die Oberfinanzdirektion Saarbrücken nach § 9
 festgestellt worden, so erfüllt ihn die Oberfinanzdirektion
 Saarbrücken durch Barzahlung.
 
-
 ### § 17 Erfüllung bei Ansprüchen aus Guthaben bei gemeinnützigen Wohnungsunternehmen
 
 In den Fällen des § 1 Abs. 1 Nr. 6 wird der durch die
@@ -391,7 +367,6 @@ gegen den Bund in der Weise erfüllt, daß die Oberfinanzdirektion
 Saarbrücken den festgestellten Betrag für Rechnung des Berechtigten an
 das gemeinnützige Wohnungsunternehmen zahlt. § 12 Abs. 3 gilt
 sinngemäß.
-
 
 ### § 18 Deckung der Verbindlichkeiten
 
@@ -417,7 +392,6 @@ Betrag, so hat das Institut den Vorschuß insoweit zurückzuzahlen; der
 zurückzuzahlende Betrag ist, soweit er zehn vom Hundert des
 festgestellten Anspruches auf Deckung übersteigt, vom Ende der
 Übergangszeit an mit drei vom Hundert zu verzinsen.
-
 
 ### § 19 Zuteilung des Anspruchs auf Deckung
 
@@ -453,19 +427,16 @@ Institut gewährte Vorschuß, so veranlaßt die Oberfinanzdirektion
 Saarbrücken die Rückzahlung des Unterschiedsbetrages nebst Zinsen
 gemäß § 18 Abs. 3 Satz 2 durch das Institut.
 
-
 ### § 20 Zuteilung des Anspruchs auf Deckung in Antragsfällen
 
 In den Fällen des § 8 Abs. 7 sind Anträge auf Zuteilung der Deckung an
 die Oberfinanzdirektion Saarbrücken zu richten. § 19 Abs. 2 bis 4 gilt
 entsprechend.
 
-
 ### § 21 Gebühren und Auslagen
 
 Gebühren und Auslagen für das Verfahren bei den Instituten und bei der
 Oberfinanzdirektion Saarbrücken werden nicht erhoben.
-
 
 ### § 22 Vergütung
 
@@ -483,14 +454,12 @@ Zuteilung der Deckung an die nach § 19 Abs. 1 zuständige Stelle zu
 richten. § 19 Abs. 2 Satz 1 bis 4, Abs. 3 und Abs. 4 Satz 1 gilt
 sinngemäß.
 
-
 ### § 23 Geltung im Land Berlin
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
-
 
 ### § 24 Inkrafttreten
 

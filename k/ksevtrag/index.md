@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 181
 
-
-
 ## § 1
 
 Der Inhaber von Grundstücken oder Räumen, in oder auf denen sich
@@ -30,7 +28,6 @@ befinden können, oder der von ihm bestellte Vertreter muß nach den §§
 KSE-Vertrags unentgeltlich dulden und deren Durchführung nach Maßgabe
 der §§ 3 und 4 unterstützen (Verpflichteter).
 
-
 ## § 2
 
 (1) Inspektionen nach Abschnitt VIII des Inspektionsprotokolls des
@@ -42,7 +39,6 @@ Der Leiter der Begleitgruppe hat sich auszuweisen.
 Begleitgruppe dem Verpflichteten gegenüber die zur Durchführung der
 Inspektion erforderlichen Anordnungen. Widerspruch und Klage gegen die
 Anordnungen haben keine aufschiebende Wirkung.
-
 
 ## § 3
 
@@ -74,10 +70,6 @@ Inspektionsgruppen befugt,
 
 5.  die Inspektionsstätte mit Hubschraubern zu überfliegen.
 
-
-
-
-
 ## § 4
 
 (1) Der Verpflichtete hat auf Verlangen Räume oder Behältnisse, in
@@ -95,7 +87,6 @@ befinden. Falls dies zutrifft, hat er deren Anzahl und Typ, Modell
 oder Version zu nennen sowie diese nach Aufforderung durch die
 Begleitgruppe vorzuführen.
 
-
 ## § 5
 
 (1) Die Begleitgruppe hat die schutzwürdigen Belange des
@@ -109,7 +100,6 @@ ergriffen werden, durch die in den Betrieb der Inspektionsstätte
 unmittelbar störend eingegriffen, der Betrieb in der Inspektionsstätte
 unnötig behindert oder verzögert oder der sichere Betrieb
 beeinträchtigt wird.
-
 
 ## § 6
 
@@ -138,7 +128,6 @@ September eines jeden Jahres zu erstatten.
 Erfüllung ihrer im Rahmen des Protokolls über Notifikation und
 Informationsaustausch übernommenen Verpflichtungen weiterzugeben.
 
-
 ## § 7
 
 (1) Wird jemand durch ein Mitglied der Inspektionsgruppe geschädigt,
@@ -154,7 +143,6 @@ Inspektionstätigkeit verursacht werden, sinngemäß anzuwenden.
 Wehrbereichsverwaltungen im Geschäftsbereich des Bundesministers der
 Verteidigung geltend zu machen. Zur Durchsetzung der Ansprüche ist der
 ordentliche Rechtsweg gegeben.
-
 
 ## § 8
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1960, Nr 33
 
-
-
 ## I.
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des
@@ -29,7 +27,6 @@ Ministerialblatt S. 365) erforderlichen Maßnahmen der
 Erfassungsbehörden bei der Aufenthaltsermittlung Wehrpflichtiger zu
 fördern.
 
-
 ## II.
 
 Das im Einvernehmen mit dem Bundesminister für Verteidigung und den
@@ -40,12 +37,10 @@ bleibt unberührt. In dem Erlaß vom 18. Dezember 1957 tritt das
 Bundesverwaltungsamt an die Stelle der früheren Bundesstelle für
 Verwaltungsangelegenheiten des Bundesministers des Innern.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
-
 
 ## Schlußformel
 

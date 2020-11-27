@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 64 G v. 23.12.2003 I 2848
 
-
 ## § 1 Stellenbesetzungssperre
 
 (1) Bei der Bundesagentur für Arbeit, der Bundesversicherungsanstalt
@@ -61,7 +60,6 @@ Bundespost und die Deutsche Bundesbahn.
 (6) Die Stellenbesetzungssperre gilt nur für den Zeitraum, in dem für
 die Bundesverwaltung auf Grund des Haushaltsgesetzes eine
 Stellenbesetzungssperre besteht.
-
 
 ## § 2 Wegfall des Essenszuschusses
 

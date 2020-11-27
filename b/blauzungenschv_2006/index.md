@@ -25,7 +25,6 @@ Zuletzt geändert durch
 Die v tritt gem. § 7 abs. 1 satz 2 mit ablauf des 22.2.2007 außer kraft, soweit nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 7 (jetzt § 6) abs. 1 satz 2 aufgeh. durch
 :   Art. 1 Nr. 6 Buchst a DBuchst. bb V v. 20.12.2006 I 3383; dadurch ist die Geltung dieser V über den 22.2.2007 hinaus verlängert worden.
 
-
 ## § 1 Verbringungsverbot zum Schutz gegen die Blauzungenkrankheit des Serotyps 8
 
 (1) Das Verbringen empfänglicher Tiere aus dem Inland ist verboten.
@@ -85,10 +84,7 @@ ist verboten. Das Verbot des Satzes 1 gilt nicht, soweit die
 Voraussetzungen des Artikels 8 Abs. 1 oder 4, jeweils auch in
 Verbindung mit Abs. 6, der Verordnung (EG) Nr. 1266/2007 vorliegen.
 
-
 ## § 1a (weggefallen)
-
-
 
 ## § 2 Überwachungsprogramm, Beobachtungsprogramm
 
@@ -111,7 +107,6 @@ unter Beachtung der in Artikel 5 Abs. 1 der Verordnung (EG) Nr.
 1266/2007 vorgeschriebenen Fristen und des Anhangs II der Verordnung
 (EG) Nr. 1266/2007 über die Ergebnisse der in Absatz 1 genannten
 Programme.
-
 
 ## § 3 Wildtieruntersuchung
 
@@ -136,10 +131,6 @@ Blauzungenkrankheit des Serotyps 8 nicht entgegenstehen.
 2.  der zuständigen Behörde das vermehrte Auftreten kranker oder
     verendeter empfänglicher Wildtiere unter Angabe des Fundortes
     mitzuteilen.
-
-
-
-
 
 ## § 4 Impfungen
 
@@ -166,7 +157,6 @@ Impfung unter Angabe
 mitzuteilen. Auf Anordnung der zuständigen Behörde hat er zusätzlich
 die Ohrmarkennummern der nach Satz 1 geimpften Tiere mitzuteilen.
 
-
 ## § 4a Weitergehende Maßnahmen
 
 Die Befugnis der zuständigen Behörde, zur Bekämpfung der
@@ -174,7 +164,6 @@ Blauzungenkrankheit des Serotyps 8 weitergehende Maßnahmen nach § 79
 Absatz 4 in Verbindung mit § 17 Absatz 1 Nummer 17 und § 18 in
 Verbindung mit § 23 des Tierseuchengesetzes anzuordnen, soweit diese
 zur Tierseuchenbekämpfung erforderlich sind, bleibt unberührt.
-
 
 ## § 5 Ordnungswidrigkeiten
 
@@ -198,13 +187,7 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 4 Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig macht.
 
-
-
-
-
 ## § 6 (Inkrafttreten, Außerkrafttreten)
-
-
 
 ## Anlage (weggefallen)
 

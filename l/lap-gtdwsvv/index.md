@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 35 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,10 +28,7 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Bundesministerium für Verkehr, Bau- und Wohnungswesen im
 Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -168,7 +164,6 @@ Amtsbezeichnungen:
 
 (4) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel und Inhalt der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -201,7 +196,6 @@ sowie soziale Kompetenz sind zu fördern.
 (3) Die Beamtinnen und Beamten sind zum Selbststudium verpflichtet;
 das Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörden
 
 Einstellungsbehörden sind die Wasser- und Schifffahrtsdirektionen.
@@ -212,7 +206,6 @@ Ausbildung; sie treffen die Entscheidungen über Verkürzung und
 Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung.
 Die Einstellungsbehörden sind die für die beamtenrechtlichen
 Entscheidungen zuständigen Dienstbehörden.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -226,10 +219,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     Fachrichtungen Bauingenieurwesen, Maschinenwesen, Vermessungswesen
     oder in einem anderen geeigneten technischen Studiengang oder einen
     als gleichwertig anerkannten Bildungsabschluss besitzt.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -263,13 +252,6 @@ Bewerbung sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -333,7 +315,6 @@ entsprechend.
 Ersatzmitglieder der Auswahlkommission für die Dauer von drei Jahren;
 Wiederbestellung ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörde entscheidet nach dem Ergebnis des
@@ -386,7 +367,6 @@ weitere Unterlagen beizubringen:
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -402,7 +382,6 @@ Einstellungsbehörde. Während der Ausbildung in anderen Dienststellen
 der Wasser- und Schifffahrtsverwaltung des Bundes oder außerhalb der
 Wasser- und Schifffahrtsverwaltung des Bundes unterstehen sie der
 Dienst- und Fachaufsicht der jeweiligen Ausbildungsdienststellen.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -462,18 +441,15 @@ kann.
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 36 Abs. 2.
 
-
 ### § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan sowie alle Leistungsnachweise
 und Bewertungen aufzunehmen sind.
-
 
 ### § 12 Schwerbehinderte Menschen
 
@@ -493,7 +469,6 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -967,7 +942,6 @@ gegliedert:
 (2) Die Einstellungsbehörde weist die Anwärterinnen und Anwärter für
 die Ausbildungsabschnitte den einzelnen Ausbildungsdienststellen zu.
 
-
 ### § 14 Gestaltung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst soll die Anwärterinnen und Anwärter mit
@@ -985,7 +959,6 @@ Laufbahn sind, selbständig bearbeiten, an dienstlichen
 Veranstaltungen, die ihrer Ausbildung förderlich sind, teilnehmen und
 Gelegenheit erhalten, sich im Vortrag und in der Verhandlungsführung
 zu üben.
-
 
 ### § 15 Ausbildungsrahmenplan, Ausbildungszeitplan und Ausbildungsplan
 
@@ -1011,7 +984,6 @@ Ausbildungsinhalte gemäß Ausbildungsrahmenplan aufgeführt werden.
 (5) Die Anwärterinnen und Anwärter erhalten je eine Ausfertigung des
 Ausbildungszeitplans und des Ausbildungsplans.
 
-
 ### § 16 Lehrveranstaltungen
 
 (1) Die Ausbildung wird durch Lehrveranstaltungen ergänzt. Diese
@@ -1022,7 +994,6 @@ anzupassen.
 
 (2) Das Prüfungsamt konkretisiert die Lehrinhalte der
 Lehrveranstaltungen in einem Kompendium.
-
 
 ### § 17 Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
@@ -1048,7 +1019,6 @@ unterwiesen und im Sinne des Ausbildungsziels angeleitet. Die
 Ausbilderinnen und Ausbilder unterrichten die Ausbildungsleitung
 regelmäßig über den erreichten Ausbildungsstand.
 
-
 ### § 18 Ausbildungsnachweis
 
 Die Anwärterinnen und Anwärter führen über den Vorbereitungsdienst
@@ -1059,7 +1029,6 @@ sich die Unterweisung erstreckt hat. Die Eintragungen sind von der
 Ausbilderin oder vom Ausbilder zu bestätigen. Nach Beendigung des
 jeweiligen Ausbildungsabschnitts sind die Eintragungen von der
 Ausbildungsleitung abzuzeichnen.
-
 
 ### § 19 Leistungsnachweise während des Vorbereitungsdienstes
 
@@ -1088,7 +1057,6 @@ Ordnungsverstößen sind die §§ 30 und 31 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 20 Bewertungen während des Vorbereitungsdienstes
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -1113,10 +1081,7 @@ geteilt wird. Die Bewertung wird mit den Anwärterinnen und Anwärtern
 besprochen. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung
 des Zeugnisses.
 
-
 ## Kapitel 2 - Aufstieg
-
-
 
 ### § 21 Ausbildungsaufstieg
 
@@ -1183,7 +1148,6 @@ des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist,
 können auch Arbeitnehmerinnen und Arbeitnehmer des Bundes an der
 Aufstiegsausbildung teilnehmen.
 
-
 ### § 22 Praxisaufstieg
 
 (1) Beamtinnen und Beamte des mittleren technischen
@@ -1204,10 +1168,7 @@ Bewerberinnen und Bewerber eines früheren Auswahlverfahrens, das nicht
 länger als vier Jahre zurückliegt, berücksichtigt werden, wenn deren
 Bewertungen für die Rangfolge vergleichbar gestaltet sind.
 
-
 ## Kapitel 3 - Prüfungen
-
-
 
 ### § 23 Prüfungsamt
 
@@ -1217,7 +1178,6 @@ Laufbahnprüfung; es trägt Sorge für die Entwicklung und gleichmäßige
 Anwendung der Bewertungsmaßstäbe und vollzieht die Entscheidungen der
 Prüfungskommission. Die Aufgaben des Prüfungsamtes können ganz oder
 teilweise auf andere Behörden übertragen werden.
-
 
 ### § 24 Prüfungskommission
 
@@ -1277,7 +1237,6 @@ entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
-
 ### § 25 Ziel und Inhalt der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -1319,7 +1278,6 @@ Protokollführerin oder der Protokollführer darf sich nicht an der
 Beratung beteiligen, es sei denn, die Protokollführung wird von einer
 oder einem Beisitzenden wahrgenommen.
 
-
 ### § 26 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen und der
@@ -1331,7 +1289,6 @@ bis zum Ende des Vorbereitungsdienstes abgeschlossen sein.
 
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern Ort und Zeit
 der schriftlichen und der mündlichen Prüfung rechtzeitig mit.
-
 
 ### § 27 Schriftliche Prüfung
 
@@ -1428,7 +1385,6 @@ Prüfungskommission mit Stimmenmehrheit. Hat eine Anwärterin oder ein
 Anwärter die geforderte Prüfungsarbeit nicht oder nicht rechtzeitig
 abgeliefert, gilt sie als mit "ungenügend" (Rangpunkt 0) bewertet.
 
-
 ### § 28 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1442,7 +1398,6 @@ mit. Dabei teilt es den zugelassenen Anwärterinnen und Anwärtern die
 von ihnen in den einzelnen schriftlichen Aufsichtsarbeiten erzielten
 Rangpunkte mit, wenn sie dies beantragen. Die Nichtzulassung bedarf
 der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
-
 
 ### § 29 Mündliche Prüfung
 
@@ -1476,7 +1431,6 @@ Einzelbewertungen, ergibt.
 (6) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
 
-
 ### § 30 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -1500,7 +1454,6 @@ Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte
 Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt
 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
 Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 31 Täuschung, Ordnungsverstoß
 
@@ -1536,7 +1489,6 @@ einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 32 Bewertung von Prüfungsleistungen
 
@@ -1733,7 +1685,6 @@ die Erteilung des der Leistung entsprechenden Rangpunktes begründet.
 Für die Bewertung mündlicher Leistungen gelten diese Grundsätze
 sinngemäß.
 
-
 ### § 33 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1764,7 +1715,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz
 mündlich.
 
-
 ### § 34 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1787,7 +1737,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 31 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 35 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Niederschriften über die
@@ -1802,7 +1751,6 @@ Bestandskraft des Bescheides.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 36 Wiederholung
 
@@ -1822,10 +1770,7 @@ verlängert. Die Wiederholungsprüfung soll zusammen mit den
 Anwärterinnen und Anwärtern der nächsten Laufbahnprüfung abgelegt
 werden.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 37 Übergangsregelung
 
@@ -1839,7 +1784,6 @@ Juni 1992 (VkBl. S. 335), weiter. Das Gleiche gilt für Beamtinnen und
 Beamte, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits
 zum Aufstieg nach § 28 oder § 33a der Bundeslaufbahnverordnung in der
 bis zum 8. Juli 2002 geltenden Fassung zugelassen worden waren.
-
 
 ### § 38 Inkrafttreten
 

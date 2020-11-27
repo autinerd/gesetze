@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 2.12.1986 I 2111
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 des § 28 des Gesetzes vom 7. September 1976 (BGBl. I S. 2658), wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
@@ -59,25 +57,18 @@ gleichgestellt:
 
     *   Teilezurichter
 
-
-
-
-
 ## § 2 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

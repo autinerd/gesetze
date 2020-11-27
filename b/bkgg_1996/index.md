@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 7.12.2011 I 2592
 
-
 ## Erster Abschnitt - Leistungen
-
-
 
 ### § 1 Anspruchsberechtigte
 
@@ -115,13 +112,6 @@ nur, wenn er
     b)  im Bundesgebiet berechtigt erwerbstätig ist, laufende Geldleistungen
         nach dem Dritten Buch Sozialgesetzbuch bezieht oder Elternzeit in
         Anspruch nimmt.
-
-
-
-
-
-
-
 
 ### § 2 Kinder
 
@@ -253,7 +243,6 @@ soweit dies mit Rücksicht auf die durchschnittlichen
 Lebenshaltungskosten für Kinder in deren Wohnland und auf die dort
 gewährten dem Kindergeld vergleichbaren Leistungen geboten ist.
 
-
 ### § 3 Zusammentreffen mehrerer Ansprüche
 
 (1) Für jedes Kind werden nur einer Person Kindergeld, Kinderzuschlag
@@ -285,7 +274,6 @@ Unterhaltsrenten gezahlt oder zahlt keiner der Berechtigten dem Kind
 Unterhalt, so bestimmen die Berechtigten untereinander, wer das
 Kindergeld erhalten soll. Wird eine Bestimmung nicht getroffen, so
 gilt Absatz 2 Satz 3 und 4 entsprechend.
-
 
 ### § 4 Andere Leistungen für Kinder
 
@@ -322,7 +310,6 @@ der anderen Leistung niedriger als das Kindergeld nach § 6, wird
 Kindergeld in Höhe des Unterschiedsbetrages gezahlt. Ein
 Unterschiedsbetrag unter 5 Euro wird nicht geleistet.
 
-
 ### § 5 Beginn und Ende des Anspruchs
 
 (1) Das Kindergeld, der Kinderzuschlag und die Leistungen für Bildung
@@ -336,7 +323,6 @@ Antragstellung folgt, gewährt, wenn Leistungen nach dem Zweiten Buch
 Sozialgesetzbuch für den Monat, in dem der Antrag auf Kinderzuschlag
 gestellt worden ist, bereits erbracht worden sind.
 
-
 ### § 6 Höhe des Kindergeldes
 
 (1) Das Kindergeld beträgt monatlich für erste und zweite Kinder
@@ -349,7 +335,6 @@ monatlich.
 (3) Für jedes Kind, für das im Kalenderjahr 2009 mindestens für einen
 Kalendermonat ein Anspruch auf Kindergeld besteht, wird für das
 Kalenderjahr 2009 ein Einmalbetrag in Höhe von 100 Euro gezahlt.
-
 
 ### § 6a Kinderzuschlag
 
@@ -452,7 +437,6 @@ für den Wohnort des Berechtigten zuständigen Träger der Grundsicherung
 für Arbeitsuchende über die Erklärung. Die Erklärung nach Satz 1 kann
 mit Wirkung für die Zukunft widerrufen werden.
 
-
 ### § 6b Leistungen für Bildung und Teilhabe
 
 (1) Personen erhalten Leistungen für Bildung und Teilhabe für ein
@@ -498,10 +482,7 @@ Buches Sozialgesetzbuch findet keine Anwendung.
 die §§ 29 und 40 Absatz 3 des Zweiten Buches Sozialgesetzbuch
 entsprechend.
 
-
 ## Zweiter Abschnitt - Organisation und Verfahren
-
-
 
 ### § 7 Zuständigkeit
 
@@ -515,14 +496,12 @@ Bezeichnung "Familienkasse".
 (3) Abweichend von Absatz 1 führen die Länder § 6b als eigene
 Angelegenheit aus.
 
-
 ### § 7a Datenübermittlung
 
 Die Träger der Leistungen nach § 6b und die Träger der Grundsicherung
 für Arbeitsuchende teilen sich alle Tatsachen mit, die für die
 Erbringung und Abrechnung der Leistungen nach § 6b dieses Gesetzes und
 § 28 des Zweiten Buches Sozialgesetzbuch erforderlich sind.
-
 
 ### § 8 Aufbringung der Mittel
 
@@ -540,7 +519,6 @@ wird.
 (4) Abweichend von den Absätzen 1 bis 3 tragen die Länder die Ausgaben
 für die Leistungen nach § 6b und ihre Durchführung.
 
-
 ### § 9 Antrag
 
 (1) Das Kindergeld und der Kinderzuschlag sind schriftlich zu
@@ -556,7 +534,6 @@ vorliegen. Absatz 1 gilt entsprechend.
 
 (3) Die Leistungen für Bildung und Teilhabe sind bei der zuständigen
 Stelle schriftlich zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
-
 
 ### § 10 Auskunftspflicht
 
@@ -575,7 +552,6 @@ auszustellen.
 (3) Die Familienkassen können den nach Absatz 2 Verpflichteten eine
 angemessene Frist zur Erfüllung der Pflicht setzen.
 
-
 ### § 11 Gewährung des Kindergeldes und des Kinderzuschlags
 
 (1) Das Kindergeld und der Kinderzuschlag werden monatlich gewährt.
@@ -591,7 +567,6 @@ abweichend von § 44 Absatz 1 des Zehnten Buches Sozialgesetzbuch für
 die Zukunft zurückzunehmen; er kann ganz oder teilweise auch für die
 Vergangenheit zurückgenommen werden.
 
-
 ### § 12 Aufrechnung
 
 § 51 des Ersten Buches Sozialgesetzbuch gilt für die Aufrechnung eines
@@ -601,7 +576,6 @@ mit dem Erstattungspflichtigen in Haushaltsgemeinschaft lebenden
 Berechtigten entsprechend, soweit es sich um laufendes Kindergeld oder
 laufenden Kinderzuschlag für ein Kind handelt, das bei beiden
 berücksichtigt werden konnte.
-
 
 ### § 13 Zuständige Stelle
 
@@ -626,7 +600,6 @@ Kindergeld einer anderen Familienkasse übertragen.
 1 und 2 die Landesregierungen oder die von ihnen beauftragten Stellen
 die für die Durchführung zuständigen Behörden.
 
-
 ### § 14 Bescheid
 
 Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
@@ -634,16 +607,12 @@ Bildung und Teilhabe abgelehnt, ist ein schriftlicher Bescheid zu
 erteilen. Das Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder
 Leistungen für Bildung und Teilhabe entzogen werden.
 
-
 ### § 15 Rechtsweg
 
 Für Streitigkeiten nach diesem Gesetz sind die Gerichte der
 Sozialgerichtsbarkeit zuständig.
 
-
 ## Dritter Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 16 Ordnungswidrigkeiten
 
@@ -678,10 +647,7 @@ Abgabenordnung bei Steuerordnungswidrigkeiten wegen des Kindergeldes
 nach dem X. Abschnitt des Einkommensteuergesetzes zuständigen
 Verwaltungsbehörden.
 
-
 ## Vierter Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 17 Recht der Europäischen Gemeinschaft
 
@@ -692,12 +658,10 @@ der Europäischen Gemeinschaft und der auf seiner Grundlage erlassenen
 Verordnungen die gleichen Rechte. Auch im Übrigen bleiben die
 Bestimmungen der genannten Verordnungen unberührt.
 
-
 ### § 18 Anwendung des Sozialgesetzbuches
 
 Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der
 Ausführung das Sozialgesetzbuch anzuwenden.
-
 
 ### § 19 Übergangsvorschriften
 
@@ -711,7 +675,6 @@ Vorschriften des Sozialgesetzbuches und des Bundeskindergeldgesetzes
 in der bis zum 31. Dezember 1995 geltenden Fassung zu Ende geführt,
 soweit in § 78 des Einkommensteuergesetzes nichts anderes bestimmt
 ist.
-
 
 ### § 20 Anwendungsvorschrift
 
@@ -825,7 +788,6 @@ Klassenfahrten nach § 6b Absatz 2 Satz 1 in Verbindung mit § 28 Absatz
 Zeitraum vom 1. Januar bis zum 31. Mai 2011 durch Geldleistung
 erbracht.
 
-
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld
 
 In Fällen, in denen die Entscheidung über die Höhe des
@@ -845,7 +807,6 @@ die nach § 53 Satz 6 des Einkommensteuergesetzes festzusetzen gewesen
 wäre, wenn die Voraussetzungen nach § 53 Satz 1 und 2 des
 Einkommensteuergesetzes vorgelegen hätten, als zusätzliches Kindergeld
 zu zahlen.
-
 
 ### § 22 Bericht der Bundesregierung
 

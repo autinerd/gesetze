@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Landwirtschaftliche Unternehmer
-
-
 
 ### § 1 Berechtigter Personenkreis
 
@@ -88,7 +84,6 @@ der Verordnungen (EWG) Nr. 797/85 und Nr. 1760/87 hinsichtlich der
 Stillegung von Ackerflächen und der Extensivierung und Umstellung der
 Erzeugung (ABl. EG Nr. L 106 S. 28) erhält.
 
-
 ### § 2 Flächenstillegung
 
 (1) Eine Fläche gilt als stillgelegt, wenn
@@ -131,7 +126,6 @@ Fläche als stillgelegt gilt, insbesondere auch über zulässige
 Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates
 bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der
 Landschaftspflege und der Raumordnung zu beachten.
-
 
 ### § 3 Abgabe von Flächen
 
@@ -229,7 +223,6 @@ Eigentümer gilt nur dann als Abgabe, wenn der Eigentümer einer
 Stillegung oder Abgabe im Sinne dieses Gesetzes an andere Landwirte
 schriftlich widerspricht.
 
-
 ### § 4 Rückbehalt
 
 Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der
@@ -242,7 +235,6 @@ forstwirtschaftlichen Produkte ein Siebtel der Bezugsgröße (§ 18 des
 Vierten Buches Sozialgesetzbuch) übersteigt. Forstwirtschaftliche
 Erzeugnisse, die durch notwendige Pflegemaßnahmen anfallen, bleiben
 unberücksichtigt.
-
 
 ### § 5 Leistungen an Hinterbliebene
 
@@ -278,7 +270,6 @@ Produktionsaufgaberente, wenn
 
 § 14 Abs. 2 und § 14a des Gesetzes über die Alterssicherung der
 Landwirte gelten entsprechend.
-
 
 ### § 6 Höhe der Leistung
 
@@ -333,10 +324,6 @@ Flächen gewährt,
     von Rebflächen in den Weinwirtschaftsjahren 1988/89 bis 1995/96 (ABl.
     EG Nr. L 132 S. 3) eine jährliche Prämie für die endgültige Aufgabe
     von Rebflächen gezahlt wird.
-
-
-
-
 
 ### § 7 Beginn und Ende der Leistung, Verfahren
 
@@ -425,7 +412,6 @@ und während der laufenden Zahlung einer Produktionsaufgaberente oder
 eines Ausgleichsgeldes zu überprüfen, ob die jeweiligen
 Voraussetzungen vorliegen.
 
-
 ### § 8 Zusammentreffen mit Einkommen
 
 (1) Trifft eine Produktionsaufgaberente mit Arbeitsentgelt,
@@ -493,13 +479,7 @@ entsprechend, wenn
     denselben Zeitraum für die Stillegung oder die Abgabe von
     landwirtschaftlich genutzten Flächen bezogen werden.
 
-
-
-
-
 ## Zweiter Abschnitt - Landwirtschaftliche Arbeitnehmer und mitarbeitende Familienangehörige
-
-
 
 ### § 9 Berechtigter Personenkreis
 
@@ -559,7 +539,6 @@ Ausgleichsgeld, wenn
 § 14 Abs. 2 und § 14a des Gesetzes über die Alterssicherung der
 Landwirte gelten entsprechend.
 
-
 ### § 10 Höhe der Leistung
 
 (1) Das Ausgleichsgeld beträgt 65 vom Hundert des
@@ -588,7 +567,6 @@ erhalten 60 vom Hundert des in Satz 1 genannten Betrages.
 (3) Das Ausgleichsgeld erhöht sich jeweils zum 1. Juli eines jeden
 Jahres um den Vomhundertsatz, um den die Renten der gesetzlichen
 Rentenversicherung zu diesem Zeitpunkt angepaßt werden.
-
 
 ### § 11 Beginn und Ende der Leistung, Verfahren
 
@@ -623,10 +601,6 @@ Berechnungsgrundsätze gelten entsprechend.
     Landwirt nach § 1 Abs. 2 des Gesetzes über die Alterssicherung der
     Landwirte oder als mitarbeitender Familienangehöriger nach § 1 Abs. 8
     des Gesetzes über die Alterssicherung der Landwirte wird.
-
-
-
-
 
 ### § 12 Zusammentreffen mit Einkommen
 
@@ -683,7 +657,6 @@ und die Vorschrift über die Anrechnung von Entlassungsentschädigungen
 auf das Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch gelten
 entsprechend.
 
-
 ### § 13 Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
 
 (1) Die §§ 9 bis 12 gelten entsprechend für Arbeitnehmer und
@@ -733,10 +706,7 @@ auch nicht bei der sozialen Auswahl nach § 1 Abs. 3 Satz 1 des
 Kündigungsschutzgesetzes zum Nachteil des Arbeitnehmers berücksichtigt
 werden.
 
-
 ## Dritter Abschnitt - Ergänzende Sicherung der Bezieher von Produktionsaufgaberente oder Ausgleichsgeld
-
-
 
 ### § 14 Alterssicherung der Landwirte, landwirtschaftliche Unfallversicherung, Krankenversicherung der Landwirte, soziale Pflegeversicherung
 
@@ -789,7 +759,6 @@ Alterssicherung der Landwirte entsprechend anzuwenden.
 
 (5) Für Landwirte gilt § 1 Abs. 2 entsprechend.
 
-
 ### § 15 Gesetzliche Rentenversicherung und Krankenversicherung, soziale Pflegeversicherung, Zusatzversorgung für landwirtschaftliche Arbeitnehmer
 
 (1) Die Zeit des Bezuges von Ausgleichsgeld für landwirtschaftliche
@@ -841,7 +810,6 @@ landwirtschaftlicher Arbeitnehmer nach § 12 Abs. 1 des Gesetzes über
 die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der
 Land- und Forstwirtschaft gleich.
 
-
 ### § 15a Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Produktionsaufgaberente und des Ausgleichsgeldes zum 1. April 2004
 
 Widerspruch und Klage gegen
@@ -864,7 +832,6 @@ Beitragssätze der Krankenkassen, einer Veränderung des
 durchschnittlichen allgemeinen Beitragssatzes der Krankenkassen oder
 der Neuregelung der Tragung der Beiträge zur Pflegeversicherung haben
 keine aufschiebende Wirkung.
-
 
 ### § 16 Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
 
@@ -907,10 +874,7 @@ Unternehmen der Landwirtschaft auf Grund einer Maßnahme nach Maßgabe
 
 endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
-
 ## Vierter Abschnitt - Durchführung, Anwendung sonstiger Vorschriften, Kostentragung
-
-
 
 ### § 17 Durchführende Stelle
 
@@ -919,7 +883,6 @@ durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den
 Weisungen des Bundesministeriums für Arbeit und Soziales, die im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz erteilt werden.
-
 
 ### § 18 Anwendung sonstiger Vorschriften
 
@@ -962,7 +925,6 @@ unmittelbar den zuständigen Behörden der Länder übertragen werden.
 
 (4) Streitigkeiten in Angelegenheiten dieses Gesetzes sind
 Streitigkeiten in Angelegenheiten der Sozialversicherung.
-
 
 ### § 18a Landwirte im Beitrittsgebiet
 
@@ -1017,7 +979,6 @@ Bezieher einer Produktionsaufgaberente nach Absatz 1 entsprechend,
 wenn Anspruch auf eine Regelaltersrente oder eine Witwen- oder
 Witwerrente aus der gesetzlichen Rentenversicherung besteht.
 
-
 ### § 18b Abgabe an Unternehmen im Beitrittsgebiet
 
 Geht die Nutzung an ein Unternehmen mit Sitz im Beitrittsgebiet über,
@@ -1028,7 +989,6 @@ werden Zeiten vom 1. Januar 1991 bis zum 31. Dezember 1994 nur
 insoweit berücksichtigt, als das Unternehmen die Voraussetzungen des §
 2 Abs. 1 Nr. 1 des Zweiten Gesetzes über die Krankenversicherung der
 Landwirte erfüllt hat.
-
 
 ### § 18c Arbeitnehmer und mitarbeitende Familienangehörige im Beitrittsgebiet
 
@@ -1069,12 +1029,10 @@ Juli 1996 zuerkannt, ruhen die Leistungen nach § 12 Satz 1 Nr. 2 mit
 Wirkung von dem Zeitpunkt an, zu dem der Anspruch auf Ausgleichsgeld
 zuerkannt ist.
 
-
 ### § 18d Besonderheiten für das Beitrittsgebiet
 
 § 228a des Sechsten Buches Sozialgesetzbuch und § 83 Abs. 3 des
 Gesetzes über die Alterssicherung der Landwirte gelten entsprechend.
-
 
 ### § 18e Besonderheiten für das Ausland
 
@@ -1082,16 +1040,12 @@ Für Leistungsberechtigte nach diesem Gesetz steht eine Beschäftigung
 oder selbständige Tätigkeit sowie die Erzielung von Einkommen im
 Ausland einer solchen im Geltungsbereich dieses Gesetzes gleich.
 
-
 ### § 19 Kostentragung
 
 Die Leistungsaufwendungen und die bei der Durchführung dieses Gesetzes
 entstehenden Verwaltungskosten werden vom Bund getragen.
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 20 Befristung der Regelung
 
@@ -1099,11 +1053,9 @@ Vom 1. Januar 1997 an ist dieses Gesetz nur noch anzuwenden, wenn die
 Voraussetzungen für den Anspruch erstmals vor diesem Zeitpunkt
 vorgelegen haben.
 
-
 ### § 21
 
 -
-
 
 ### § 22 Übergangsvorschriften
 
@@ -1121,7 +1073,6 @@ bestanden hat.
 
 (4) § 18e gilt nur für die Fälle, in denen am 18. Juni 1994 die
 Leistung noch nicht endgültig festgesetzt war.
-
 
 ### § 23 Inkrafttreten
 

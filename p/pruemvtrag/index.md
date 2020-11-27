@@ -20,7 +20,6 @@ Geändert durch
 
 Stand: G in Kraft gem. Bek. v. 21.6.2007 II 857 mWv 23.11.2006
 
-
 ## § 1 Unmittelbare Anwendbarkeit
 
 Die Bestimmungen des Beschlusses des Rates 2008/615/JI vom 23. Juni
@@ -30,7 +29,6 @@ grenzüberschreitenden Kriminalität (Ratsbeschluss Prüm, ABl. L 210 vom
 6\.8.2008, S. 1) sind bei der polizeilichen und justiziellen
 Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen
 Union anwendbar.
-
 
 ## § 2 Nationale Kontaktstelle und Verantwortung für die Zulässigkeit des Abrufs oder Abgleichs
 
@@ -64,14 +62,12 @@ Abrufs oder Abgleichs trägt innerstaatlich die Stelle, die das
 Bundeskriminalamt um die Durchführung des Abrufs oder Abgleichs
 ersucht hat.
 
-
 ## § 3 Automatisierter Abruf oder Abgleich von DNA-Identifizierungsmustern
 
 DNA-Identifizierungsmuster dürfen über die Vorschriften des
 Bundeskriminalamtgesetzes hinaus auch für einen automatisierten Abruf
 oder Abgleich nach den Artikeln 3 und 4 des Prümer Vertrags oder nach
 den Artikeln 3 und 4 des Ratsbeschlusses Prüm verwendet werden.
-
 
 ## § 4 Zustimmung zur Zweckänderung
 
@@ -91,7 +87,6 @@ Bundeskriminalamt von einer anderen innerstaatlichen Stelle
 übermittelt worden sind, entscheidet das Bundeskriminalamt im
 Einvernehmen mit dieser Stelle.
 
-
 ## § 5 Kennzeichnung von personenbezogenen Daten in Datenbanken
 
 Bestreitet der Betroffene nach Artikel 37 Abs. 2 des Prümer Vertrags
@@ -99,7 +94,6 @@ oder Artikel 28 Abs. 2 des Ratsbeschlusses Prüm die Richtigkeit von in
 Datenbanken gespeicherten Daten und lässt sich weder die Richtigkeit
 noch die Unrichtigkeit feststellen, sind die Daten entsprechend zu
 kennzeichnen.
-
 
 ## § 6 Kennung
 
@@ -121,7 +115,6 @@ Identifizierungssystem nach Artikel 8 des Prümer Vertrags oder Artikel
 Die Einzelheiten sind in der Errichtungsanordnung nach § 34 des
 Bundeskriminalamtgesetzes zu regeln.
 
-
 ## § 7 Bundesbeauftragter für den Datenschutz und die Informationsfreiheit
 
 Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
@@ -129,7 +122,6 @@ nimmt die Aufgaben der für die Datenschutzkontrolle zuständigen
 unabhängigen Stelle nach Artikel 39 Abs. 5 des Prümer Vertrags oder
 Artikel 30 Abs. 5 des Ratsbeschlusses Prüm wahr. Die Zuständigkeiten
 für die Datenschutzkontrolle in den Ländern bleiben unberührt.
-
 
 ## § 8 Schadenersatz
 

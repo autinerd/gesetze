@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2004
 
-
 ## Eingangsformel
 
 Auf Grund des § 82 des Bundesdisziplinargesetzes vom 9. Juli 2001
 (BGBl. I S. 1510) verordnet das Bundesministerium des Innern:
-
 
 ## § 1
 
@@ -63,7 +61,6 @@ im Sinne des § 33 Abs. 3 Nr. 2 und Abs. 5 des
 Bundesdisziplinargesetzes sind die in Absatz 1 Nr. 2 und 3 genannten
 Vorgesetzten.
 
-
 ## § 2
 
 Dienstvorgesetzte oder Dienstvorgesetzter der
@@ -72,7 +69,6 @@ Bundesministerium des Innern im Sinne des § 33 Abs. 2 des
 Bundesdisziplinargesetzes ist die Bundesministerin oder der
 Bundesminister des Innern.
 
-
 ## § 3
 
 Dienstvorgesetzte der Polizeivollzugsbeamtinnen und
@@ -80,7 +76,6 @@ Polizeivollzugsbeamten im Bundeskriminalamt im Sinne des § 33 Abs. 2
 des Bundesdisziplinargesetzes sind die Bundesministerin oder der
 Bundesminister des Innern und die Präsidentin oder der Präsident des
 Bundeskriminalamtes.
-
 
 ## § 4
 

@@ -26,7 +26,6 @@ Geändert durch
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz regelt den Schutz und die Vorsorge im Hinblick auf
@@ -64,7 +63,6 @@ können. Es gilt für
 Medizinproduktegesetzes und die auf diese Gesetze gestützten
 Rechtsverordnungen bleiben unberührt.
 
-
 ## § 2 Schutz in der Medizin
 
 (1) In Ausübung der Heil- oder Zahnheilkunde am Menschen dürfen beim
@@ -99,7 +97,6 @@ nichtionisierender Strahlung am Menschen größer ist als ihr Risiko.
 (4) Bei Anwendungen nach Absatz 1 sind die in einer Rechtsverordnung
 nach § 5 festgelegten weiteren Anforderungen einzuhalten.
 
-
 ## § 3 Schutz bei kosmetischen oder sonstigen Anwendungen
 
 Anlagen, die nichtionisierende Strahlung aussenden können, dürfen zu
@@ -108,14 +105,12 @@ der Heil- oder Zahnheilkunde nur betrieben werden, wenn bei ihrem
 Betrieb die in einer Rechtsverordnung nach § 5 festgelegten
 Anforderungen eingehalten werden.
 
-
 ## § 4 Nutzungsverbot für Minderjährige
 
 Die Benutzung von Anlagen nach § 3 zur Bestrahlung der Haut mit
 künstlicher ultravioletter Strahlung in Sonnenstudios, ähnlichen
 Einrichtungen oder sonst öffentlich zugänglichen Räumen darf
 Minderjährigen nicht gestattet werden.
-
 
 ## § 5 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -194,13 +189,6 @@ Anlagen nach § 3 bestimmten Anforderungen genügen muss, insbesondere
 
     b)  welche Nachweise gegenüber der zuständigen Behörde zu erbringen sind.
 
-
-
-
-
-
-
-
 ## § 6 Befugnisse der zuständigen Behörden
 
 (1) Die zuständige Behörde kann zur Überwachung der Einhaltung der
@@ -229,7 +217,6 @@ gestützten Rechtsverordnung durchzuführen, insbesondere
 vollziehbaren behördlichen Anordnung nach Absatz 2 Nummer 1 nicht
 nach, so kann die zuständige Behörde den Betrieb der Anlage ganz oder
 teilweise untersagen, bis die Anordnung erfüllt ist.
-
 
 ## § 6a Bekanntgabe von Prüfstellen
 
@@ -272,7 +259,6 @@ Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum stehen Bekanntgaben nach Absatz 1
 gleich.
 
-
 ## § 7 Kosten
 
 Die Person, die eine Anlage nach den Vorschriften dieses Gesetzes
@@ -282,7 +268,6 @@ zuständige Behörde oder einen von dieser beauftragten Dritten ergibt,
 dass die Grenzwerte oder sonstigen Anforderungen die in diesem Gesetz
 oder in einer auf § 5 gestützten Rechtsverordnung festgelegt wurden,
 nicht eingehalten werden.
-
 
 ## § 8 Bußgeldvorschriften
 

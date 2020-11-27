@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 28.11.2012 I 2369
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -35,7 +32,6 @@ Anwärterbezüge nicht berücksichtigter Erschwernisse
 Anwärterbezügen des Bundes. Durch eine Erschwerniszulage wird ein mit
 der Erschwernis verbundener Aufwand mit abgegolten.
 
-
 ### § 2 Ausschluss einer Erschwerniszulage neben einer Ausgleichszulage
 
 Ist die Gewährung einer Erschwerniszulage neben einer anderen Zulage
@@ -43,14 +39,9 @@ ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach
 Wegfall der anderen Zulage gewährte Ausgleichszulage, solange diese
 noch nicht bis zur Hälfte aufgezehrt ist.
 
-
 ## Abschnitt 2 - Einzeln abzugeltende Erschwernisse
 
-
-
 ### Titel 1 - Zulage für Dienst zu ungünstigen Zeiten
-
-
 
 #### § 3 Allgemeine Voraussetzungen
 
@@ -93,7 +84,6 @@ genehmigten Ort seiner Wahl (Wahlrufbereitschaft), um bei Bedarf zu
 Dienstleistungen sofort abgerufen werden zu können. Beim Wohnen in
 einer Gemeinschaftsunterkunft gilt als Häuslichkeit die
 Gemeinschaftsunterkunft.
-
 
 #### § 4 Höhe und Berechnung der Zulage
 
@@ -152,7 +142,6 @@ Widerruf im Vorbereitungsdienst.
 (3) Für Dienst über volle Stunden hinaus wird die Zulage anteilig
 gewährt.
 
-
 #### § 4a Fortzahlung bei vorübergehender Dienstunfähigkeit
 
 (1) Bei einer vorübergehenden Dienstunfähigkeit infolge eines Unfalls
@@ -171,7 +160,6 @@ in dem die vorübergehende Dienstunfähigkeit eingetreten ist.
 (2) Absatz 1 gilt entsprechend bei einer vorübergehenden
 Dienstunfähigkeit von Soldaten infolge eines Unfalls im Sinne des § 27
 des Soldatenversorgungsgesetzes.
-
 
 #### § 5 Ausschluß der Zulage durch andere Zulagen
 
@@ -221,22 +209,17 @@ des Soldatenversorgungsgesetzes.
 (2) Für Zeiträume, für die eine Bordzulage nach § 23b zusteht, wird
 die Zulage um die Hälfte gekürzt.
 
-
 #### § 6 Sonstiger Ausschluß der Zulage
 
 Die Zulage entfällt oder sie verringert sich, soweit der Dienst zu
 ungünstigen Zeiten auf andere Weise als mit abgegolten oder
 ausgeglichen gilt.
 
-
 #### § 6a
 
 (weggefallen)
 
-
 ### Titel 2 - Zulage für Tauchertätigkeit
-
-
 
 #### § 7 Allgemeine Voraussetzungen
 
@@ -259,7 +242,6 @@ Pressluft (Druckkammern).
 
 (3) Die Zulage wird nicht gewährt neben der Kampfschwimmer- oder
 Minentaucherzulage nach § 23e.
-
 
 #### § 8 Höhe der Zulage
 
@@ -334,7 +316,6 @@ je fünf Meter weiterer Tauchtiefe um 4,97 Euro je Stunde.
 (4) Die Zulage für Tauchertätigkeit nach § 7 Abs. 2 Satz 2 beträgt je
 Stunde ein Drittel der Sätze nach Absatz 2.
 
-
 #### § 9 Berechnung der Zulage
 
 (1) Die Zulage wird nach Stunden berechnet. Die Zeiten sind für jeden
@@ -354,13 +335,7 @@ als dreißig Minuten auf eine volle Stunde aufgerundet.
 3.  bei Arbeiten in Druckkammern die Zeit von Beginn des Einschleusens bis
     zum Ende des Ausschleusens.
 
-
-
-
-
 ### Titel 3 - Zulagen für den Umgang mit Munition und Explosivstoffen
-
-
 
 #### § 10 Zulage für das Räumen und Vernichten von Munition und für besonders gefährliche Munitionserprobungen
 
@@ -383,7 +358,6 @@ belasteter Munition, eine Zulage nach Maßgabe des Absatzes 1.
 
 (3) Die Zulage wird nicht neben der Minentaucherzulage nach § 23e
 Absatz 2 gewährt.
-
 
 #### § 11 Zulage für Tätigkeiten der Sprengstoffentschärfer und Sprengstoffermittler
 
@@ -432,10 +406,7 @@ Die Zulage darf den Betrag von 230,10 Euro im Monat nicht übersteigen.
 (5) Die Zulagen nach den Absätzen 1 und 2 werden nicht neben der
 Minentaucherzulage nach § 23e Absatz 2 gewährt.
 
-
 ### Titel 4 - Zulage für Tätigkeiten an Antennen und Antennenträgern, an Geräten und Geräteträgern des Wetterdienstes, des Vermessungsdienstes sowie an Windmasten des lufthygienischen Überwachungsdienstes
-
-
 
 #### § 12 Allgemeine Voraussetzungen
 
@@ -453,10 +424,6 @@ regelmäßigen Aufgaben gehören.
     Antennenträgern oder an Antennen, die sich auf Dächern und Plattformen
     ohne Randsicherung (oder ohne seitliche Abdeckung) oder an wegen ihrer
     schweren Zugänglichkeit ähnlich gefährlichen Stellen befinden.
-
-
-
-
 
 #### § 13 Höhe der Zulage
 
@@ -554,13 +521,11 @@ jeden Tag bei
 Die Sätze erhöhen sich, wenn die Tätigkeiten in den Monaten November
 bis März durchgeführt werden, um jeweils 25 vom Hundert.
 
-
 #### § 14 Berechnung der Zulage
 
 Die Zulagen nach § 12 Abs. 2 Nr. 1 und 2 werden nebeneinander gewährt;
 jede Zulage wird für jeden Tag nur einmal, und zwar nach dem höchsten
 zustehenden Satz gewährt.
-
 
 #### § 15 Zulage für Tätigkeiten an Geräten und Geräteträgern des Wetterdienstes, des Vermessungsdienstes sowie an Windmasten des lufthygienischen Überwachungsdienstes
 
@@ -569,10 +534,7 @@ Geräteträgern des Wetterdienstes und an trigonometrischen
 Beobachtungseinrichtungen des Vermessungsdienstes sowie an Windmasten
 des lufthygienischen Überwachungsdienstes.
 
-
 ### Titel 5 - Zulagen für Klimaerprobung und Unterdruckkammerdienst
-
-
 
 #### § 16 Zulage für Klimaerprobung
 
@@ -586,7 +548,6 @@ Faktor von mehr als 1.600 oder bei einem Wet-Bulb-Globe-Temperature-
 Index von mehr als 30
 Grad C um 0,51 Euro täglich.
 
-
 #### § 16a Zulage für Soldaten im Unterdruckkammerdienst
 
 (1) Soldaten im Unterdruckkammerdienst beim Flugmedizinischen Institut
@@ -599,10 +560,7 @@ Einschleusen und endet mit dem Ausschleusen.
 
 (3) Die Zulage wird nicht gewährt neben der Fliegerzulage nach § 23f.
 
-
 ### Titel 6 - Zulage für die Pflege Schwerbrandverletzter
-
-
 
 #### § 17 Allgemeine Voraussetzungen und Höhe der Zulage
 
@@ -615,10 +573,7 @@ Behörde für Arbeit, Gesundheit und Soziales der Freien und Hansestadt
 Hamburg vermittelt werden, ausüben, erhalten für jede volle
 Pflegestunde 1,48 Euro.
 
-
 ## Abschnitt 3 - Zulagen in festen Monatsbeträgen
-
-
 
 ### § 18 Entstehung des Anspruchs
 
@@ -630,7 +585,6 @@ Beendigung, soweit in den §§ 19 bis 26 nichts anderes bestimmt ist.
 Kalendermonat und sieht die Zulageregelung eine tageweise Abgeltung
 nicht vor, wird nur der Teil der Zulage gezahlt, der auf den
 Anspruchszeitraum entfällt.
-
 
 ### § 19 Unterbrechung der zulageberechtigenden Tätigkeit
 
@@ -672,7 +626,6 @@ Soldatenversorgungsgesetzes in Verbindung mit § 37 des
 Beamtenversorgungsgesetzes erfüllt sind. Es ist nicht erforderlich,
 dass sich der Beamte oder Soldat des Lebenseinsatzes bei Ausübung der
 Diensthandlung bewusst war.
-
 
 ### § 20 Zulagen für Wechselschichtdienst und für Schichtdienst
 
@@ -857,7 +810,6 @@ b)  eine Schichtzulage von 20,45 Euro monatlich, wenn der Schichtdienst
 
 (6) (weggefallen)
 
-
 ### § 21 Zulagen für den Krankenpflegedienst
 
 (1) Beamte des mittleren Dienstes und entsprechende Soldaten im
@@ -946,7 +898,6 @@ Nummer 12 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B
 des Bundesbesoldungsgesetzes ist mit dem Betrag von 46,02 Euro
 anzurechnen.
 
-
 ### § 22 Zulage für besondere Einsätze
 
 (1) Beamte und Soldaten mit Anspruch auf die Stellenzulage nach den
@@ -1007,7 +958,6 @@ besondere Einsätze verwendet werden.
 nach § 22a nur gewährt, soweit sie diese übersteigt. Satz 1 gilt nicht
 für die Stellenzulage nach den Nummern 8 oder 9 der Vorbemerkungen zu
 den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes.
-
 
 ### § 22a Zulage für Polizeivollzugsbeamte als fliegendes Personal
 
@@ -1079,7 +1029,6 @@ mit Bildverstärkerbrille oder Wärmebildkamera.
 der Betrag nach Absatz 3 Satz 1 Nummer 1 um 60 Euro und der Betrag
 nach Absatz 3 Satz 1 Nummer 2 um 50 Euro.
 
-
 ### § 23 Zulage für die Beseitigung von Munition aus den Weltkriegen
 
 (1) Beamte und Soldaten erhalten, wenn sie als Räumgruppenleiter bei
@@ -1110,13 +1059,11 @@ Gefahrenmoment oder für den Transport nicht entschärfter Bomben mit
 Langzeitzündern und Ausbausperre kann die Zulage nach Absatz 2 um
 einen Betrag bis zu 255,65 Euro erhöht werden.
 
-
 ### § 23a Zulage im Seuchenbetrieb des Friedrich-Loeffler-Instituts
 
 Beamte des Friedrich-Loeffler-Instituts, Bundesforschungsinstitut für
 Tiergesundheit, die ständig im Seuchenbetrieb tätig sind, erhalten
 eine Zulage von monatlich 51,13 Euro.
-
 
 ### § 23b Zulage für Tätigkeiten an Bord in Dienst gestellter seegehender Schiffe
 
@@ -1208,10 +1155,6 @@ volle Kalendertage gewährt.
 
 2.  der U-Boot-Zulage nach § 23c nicht gewährt.
 
-
-
-
-
 ### § 23c Zulage für Tätigkeiten an Bord in Dienst gestellter U-Boote
 
 (1) Beamte und Soldaten, die als Besatzungsangehörige eines in Dienst
@@ -1264,7 +1207,6 @@ Kalendertag.
 
 Die Zulage erhöht sich um 0,38 Euro täglich, wenn die Voraussetzungen
 des § 23b Abs. 4 erfüllt sind.
-
 
 ### § 23d Zulage für Tätigkeiten im Maschinenraum seegehender Schiffe
 
@@ -1341,7 +1283,6 @@ Voraussetzungen des § 23b Abs. 4 erfüllt sind.
 (5) Die Maschinenzulage wird nicht gewährt neben der U-Boot-Zulage
 nach § 23c.
 
-
 ### § 23e Zulage für Kampfschwimmer und Minentaucher
 
 (1) Soldaten, die als Kampfschwimmer verwendet werden oder sich in der
@@ -1360,7 +1301,6 @@ von 46,02 Euro monatlich.
 (4) Die Kampfschwimmer- oder Minentaucherzulage wird nicht gewährt
 neben der U-Boot-Zulage nach § 23c, der Fliegerzulage nach § 23f und
 der Zulage für Spezialkräfte der Bundeswehr nach § 23m.
-
 
 ### § 23f Zulage für fliegendes Personal der Bundeswehr und anderer Einrichtungen des Bundes
 
@@ -1493,7 +1433,6 @@ des Absatzes 1 Satz 2 für
 
 (6) § 22a bleibt unberührt.
 
-
 ### § 23g Zulage für technische Luftfahrzeugführer im Erprobungs- und Güteprüfdienst
 
 (1) Beamte und Soldaten als Luftfahrzeugführer im Erprobungs- oder
@@ -1546,7 +1485,6 @@ anerkannten Testpilotenschule.
 Liegen die Voraussetzungen nach Absatz 1 Nr. 1 und 2 vor, so ist nur
 die höhere Zulage zu gewähren.
 
-
 ### § 23h Zulage für Fallschirmspringer
 
 (1) Beamte und Soldaten, die nach erfolgreich abgeschlossener
@@ -1589,7 +1527,6 @@ Sinne des Absatzes 2 beträgt sie 34,51 Euro monatlich.
 
 gewährt. Sie wird nicht neben der Minentaucherzulage nach § 23e Absatz
 2 gewährt.
-
 
 ### § 23i Zulage im militärischen Flugsicherungsbetriebsdienst und im Einsatzführungsdienst
 
@@ -1700,7 +1637,6 @@ allgemein bekannt. Die Zuordnung ist jährlich zu überprüfen.
 Fallschirmspringerzulage nach § 23h nur gewährt, soweit sie diese
 übersteigt.
 
-
 ### § 23j Zulage für Führer oder Ausbilder im Außendienst
 
 (1) Soldaten, die überwiegend als Führer oder Ausbilder im Außendienst
@@ -1719,7 +1655,6 @@ Nummer 9 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B
 des Bundesbesoldungsgesetzes und den Zulagen nach den §§ 23b bis 23g,
 23i und 23m.
 
-
 ### § 23k Zulage für Ausbilder bei Einzelkämpferlehrgängen
 
 (1) Soldaten, die überwiegend als Ausbilder bei
@@ -1732,7 +1667,6 @@ Bundesbesoldungsgesetzes, einer Zulage nach § 23j oder einer
 Fallschirmspringerzulage nach § 23h Abs. 4 in Höhe von 34,51 Euro nur
 in Höhe von 51,13 Euro monatlich gewährt; sie entfällt neben einer
 Fallschirmspringerzulage in Höhe von 115,04 Euro.
-
 
 ### § 23l Zulage für Bergführer
 
@@ -1763,7 +1697,6 @@ die Bergführerzulage nach Absatz 1 nur in Höhe von 38,35 Euro
 monatlich, die Bergführerzulage nach Absatz 3 nur in Höhe von 15,34
 Euro monatlich gewährt.
 
-
 ### § 23m Zulage für Spezialkräfte der Bundeswehr
 
 (1) Wer als Kommandosoldat oder als Kampfschwimmer für Einsatzaufgaben
@@ -1777,7 +1710,6 @@ Absatzes 1 ausgebildet wird.
 (3) Die Zulage wird neben einer Stellenzulage oder neben einer Zulage
 nach § 23f nur gewährt, soweit sie diese übersteigt. Satz 1 gilt nicht
 für eine als das Grundgehalt ergänzend ausgewiesene Stellenzulage.
-
 
 ### § 23n Zulage für besondere Erprobungs- und Versuchsarbeiten im Geschäftsbereich des Bundesministeriums der Verteidigung
 

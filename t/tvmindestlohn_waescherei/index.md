@@ -36,7 +36,6 @@ kirchlichen Einrichtungen größer als 80% ist.
 Persönlich:
 Für alle Arbeitnehmerinnen und Arbeitnehmer.
 
-
 ## § 2 Mindestlohn
 
 
@@ -102,13 +101,6 @@ Für alle Arbeitnehmerinnen und Arbeitnehmer.
     *        *   ab 1. April 2012
 
         *   8,00 €
-
-
-
-
-
-
-
 
 ## § 3 Weitere Bestimmungen
 

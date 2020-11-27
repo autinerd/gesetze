@@ -15,21 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1954, 19
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Gesetzes über die Ausübung der
 Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S. 221) wird mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## § 1
 
 Für die Prüfung, die Anwärter des Dentistenberufes nach § 10 des
 Gesetzes über die Ausübung der Zahnheilkunde ablegen, ist nachstehende
 Prüfungsordnung maßgebend.
-
 
 ## § 2
 
@@ -39,10 +35,7 @@ Prüfungsordnung maßgebend.
 Hauptprüfung statt, und zwar im allgemeinen in den Monaten März und
 September.
 
-
 ## I. - Prüfungsausschuß
-
-
 
 ### § 3
 
@@ -74,7 +67,6 @@ Lehrinstituts zu entnehmen.
 (4) Für den Vorsitzenden und die Mitglieder sind Stellvertreter zu
 bestellen.
 
-
 ### § 4
 
 (1) Der Vorsitzende leitet die Prüfung und setzt die Prüfungstermine
@@ -91,13 +83,11 @@ Vorsitzenden von der weiteren Prüfung ausgeschlossen werden. Die
 Prüfung gilt als nicht bestanden. Die §§ 21 und 36 finden
 entsprechende Anwendung.
 
-
 ### § 5
 
 Von einem Prüfer dürfen in der Regel nicht mehr als vier Prüflinge
 gleichzeitig geprüft werden mit Ausnahme der Prüfung in der
 Zahnersatzkunde.
-
 
 ### § 6
 
@@ -111,10 +101,7 @@ dessen Bereich die Prüfung fortgesetzt oder wiederholt werden soll,
 zugelassen werden. Die beteiligten Prüfungsausschüsse sind vorher zu
 hören.
 
-
 ## II. - Zulassung zur Prüfung
-
-
 
 ### § 7
 
@@ -124,7 +111,6 @@ Prüfungsausschusses zu richten.
 (2) Über die Zulassung zur Prüfung entscheidet der
 Prüfungsvorsitzende, soweit die Prüfungsordnung nichts anderes
 bestimmt.
-
 
 ### § 8
 
@@ -160,7 +146,6 @@ bestimmt.
 
 (2) Für Ausländer gelten die Bestimmungen des Absatzes 1 Nr. 2 bis 6.
 
-
 ### § 9
 
 (1) Die Zulassung zur Prüfung ist zu versagen,
@@ -191,13 +176,11 @@ zuständige Landesbehörde.
 Prüfungsausschusses die Entscheidung der zuständigen Landesbehörde
 herbeizuführen.
 
-
 ### § 10
 
 Die für die Zulassung zur Prüfung geforderten Nachweise sind in
 Urschrift vorzulegen. Der Vorsitzende des Prüfungsausschusses kann
 Ausnahmen zulassen.
-
 
 ### § 11
 
@@ -209,10 +192,7 @@ schriftlich geladen.
 (2) Der vom Vorsitzenden festgesetzte erste Prüfungstag gilt als
 Beginn der Prüfung.
 
-
 ## III. - Feststellung des Prüfungsergebnisses
-
-
 
 ### § 12
 
@@ -220,7 +200,6 @@ Für jedes Prüfungsfach wird von den beteiligten Prüfern auf einem
 Einzelzeugnis ein Urteil abgegeben unter ausschließlicher Verwendung
 der Bezeichnungen "sehr gut" (1), "gut" (2), "genügend" (3) und "nicht
 genügend" (4).
-
 
 ### § 13
 
@@ -233,7 +212,6 @@ zusammen und ermittelt das Gesamtergebnis der Prüfung.
 (2) Lautet das Urteil eines Prüfers "nicht genügend", so hat er es in
 dem Einzelzeugnis kurz zu begründen.
 
-
 ### § 14
 
 (1) Die Entscheidungen eines Prüfungsausschusses über das Ergebnis der
@@ -243,7 +221,6 @@ dieser Verordnung bindend.
 (2) Ist eine Prüfung endgültig nicht bestanden, so hat der Vorsitzende
 des Prüfungsausschusses die zuständige Landesbehörde davon in Kenntnis
 zu setzen, die ihrerseits die übrigen Landesbehörden benachrichtigt.
-
 
 ### § 15
 
@@ -267,10 +244,7 @@ zugelassen.
 
 (4)
 
-
 ## IV. - Prüfungsgebühren
-
-
 
 ### § 16
 
@@ -306,7 +280,6 @@ Verwaltungskosten, zurück.
 (5) Wer in einem späteren Zeitpunkt von der Prüfung zurücktritt,
 erhält die Gebühren zurück, die auf die Prüfer der nicht erledigten
 Prüfungsfächer entfallen.
-
 
 ### § 17
 
@@ -358,10 +331,7 @@ Mark.
 (3) Sind an einem Prüfungsfach mehrer Prüfer beteiligt, so erhalten
 diese aus der Gebühr für dieses Prüfungsfach gleiche Anteile.
 
-
 ## V. - Die Vorprüfung
-
-
 
 ### § 18
 
@@ -389,7 +359,6 @@ beizufügen,
 dem der regelmäßige Besuch der Vorlesungen und Übungen durch den
 jeweiligen Dozenten bestätigt ist.
 
-
 ### § 19
 
 Die Vorprüfung umfaßt folgende Fächer:
@@ -410,10 +379,6 @@ V.  Propädeutik der Zahnerhaltungs- und Zahnersatzkunde,
 
 
 VI. Hygiene und Bakteriologie.
-
-
-
-
 
 ### § 20
 
@@ -454,7 +419,6 @@ gebräuchlichen Werkstoffe nachzuweisen.
 ausreichende Kenntnisse der für den Zahnarzt wichtigen Gebiete der
 Hygiene, der Bakteriologie und der Gesundheitsfürsorge nachzuweisen.
 
-
 ### § 21
 
 (1) Ist ein Prüfungsfach mit "nicht genügend" beurteilt worden, so
@@ -485,12 +449,10 @@ verlängern.
 weiteren Prüfung auch nach erneutem Besuch eines Lehrinstituts nicht
 zugelassen.
 
-
 ### § 22
 
 Die Wiederholungsprüfung findet in Anwesenheit des Vorsitzenden des
 Prüfungsausschusses oder seines Stellvertreters statt.
-
 
 ### § 23
 
@@ -504,7 +466,6 @@ Gesamturteil, das bei Summen bis 10 "sehr gut", von 11 bis 17 "gut",
 von 18 ab "genügend" lautet. Mußte der Prüfling in einem Fach eine
 Wiederholungsprüfung ablegen, so kann das Gesamturteil höchstens "gut"
 lauten.
-
 
 ### § 24
 
@@ -524,10 +485,7 @@ Wechsel des Prüfungsausschusses sind sie dem Vorsitzenden des
 Ausschusses zuzuleiten, vor dem die Prüfung wiederholt oder
 fortgesetzt oder die Hauptprüfung abgelegt werden soll.
 
-
 ## VI. - Die Hauptprüfung
-
-
 
 ### § 25
 
@@ -535,7 +493,6 @@ Das Gesuch um Zulassung zur Hauptprüfung ist bei dem Vorsitzenden des
 Prüfungsausschusses bis spätestens 15. Januar oder 15. Juli
 einzureichen. Verspätet eingereichte Gesuche werden nur bei
 ausreichender Begründung berücksichtigt.
-
 
 ### § 26
 
@@ -570,7 +527,6 @@ jeweiligen Dozenten bestätigt ist.
 
 (3) Ferner ist dem Gesuch ein eigenhändig geschriebener Lebenslauf
 beizufügen, in dem der Gang der Ausbildung darzulegen ist.
-
 
 ### § 27
 
@@ -608,7 +564,6 @@ Monaten abgeschlossen sein.
 ist, bestimmt der Vorsitzende des Prüfungsausschusses im Benehmen mit
 den Prüfern.
 
-
 ### § 28
 
 (1) Die Prüfung in den Zahn-, Mund- und Kieferkrankheiten (I) ist von
@@ -629,7 +584,6 @@ auf dem Gebiet der inneren Krankheiten, der Haut- und
 Geschlechtskrankheiten und der Hals-, Nasen- und Ohrenkrankheiten
 nachzuweisen.
 
-
 ### § 29
 
 (1) Die Prüfung in der zahnärztlichen Chirurgie und Röntgendiagnostik
@@ -646,7 +600,6 @@ chirurgischer Eingriffe im Bereich der Zähne nachzuweisen.
 Beurteilung von Röntgenbildern im Bereich der Zähne und des Kiefers
 darzutun.
 
-
 ### § 30
 
 (1) Die Prüfung in der Zahnerhaltungskunde (III) wird von einem Prüfer
@@ -659,7 +612,6 @@ verschiedene Füllungen zu legen und eine Pulpa- und Wurzelbehandlung
 sowie eine Zahnsteinentfernung bei einem Krankheitsfall aus dem Gebiet
 der Paradentopathien durchzuführen. Zur Kontrolle der Wurzelfüllungen
 hat er Prüfling Röntgenbilder anzufertigen und auszuwerten.
-
 
 ### § 31
 
@@ -687,7 +639,6 @@ Außerdem hat der Prüfling in einer mündlichen Prüfung ausreichende
 Kenntnisse der Indikationsstellung und der Herstellungsmethoden des
 Zahnersatzes nachzuweisen.
 
-
 ### § 32
 
 Die Prüfung in der Pathologie (V) ist mündlich und wird an einem Tag
@@ -695,7 +646,6 @@ von einem Prüfer abgehalten. Der Prüfling hat darzutun, daß er die für
 einen Zahnarzt erforderlichen Kenntnisse in der allgemeinen Pathologie
 sowie in der Pathologie der Zahn-, Mund- und Kieferkrankheiten
 besitzt.
-
 
 ### § 33
 
@@ -709,7 +659,6 @@ sowie der Herstellung und Wirkungsweise kieferorthopädischer
 Apparaturen hat. Außerdem hat er eine einfache kieferorthopädische
 Apparatur selbst anzufertigen.
 
-
 ### § 34
 
 Die Prüfung in der Arzneimittellehre (VII) wird an einem Tag von einem
@@ -717,7 +666,6 @@ Prüfer abgehalten. Der Prüfling hat in Gegenwart des Prüfers einige
 Aufgaben zur Arzneiverordnung schriftlich zu lösen und mündlich
 darzutun, daß er in der Pharmakologie und Toxikologie die für einen
 Zahnarzt erforderlichen Kenntnisse hat.
-
 
 ### § 35
 
@@ -728,7 +676,6 @@ feststellt. Sind an einem Fach zwei Prüfer beteiligt, so wird die
 Summe der Zahlenwerte der beiden Einzelurteile durch zwei geteilt; der
 Quotient ergibt das Urteil für das Prüfungsfach. Ein bei der Teilung
 verbleibender Bruch wird als ein Ganzes gerechnet.
-
 
 ### § 36
 
@@ -759,12 +706,10 @@ verlängern.
 weiteren Prüfung auch nach erneutem Besuch eines Lehrinstituts nicht
 zugelassen.
 
-
 ### § 37
 
 Die Wiederholungsprüfungen müssen in Gegenwart des Vorsitzenden des
 Prüfungsausschusses oder seines Stellvertreters stattfinden.
-
 
 ### § 38
 
@@ -780,7 +725,6 @@ bisherigen Prüfung einzutragen.
 
 (2) Ist die Prüfung endgültig nicht bestanden, so kann die Rückgabe
 der Zeugnisse von Amts wegen gemäß Absatz 1 erfolgen.
-
 
 ### § 39
 
@@ -808,10 +752,7 @@ hat.
 (3) Über das Bestehen der Prüfung stellt der Vorsitzende des
 Prüfungsausschusses dem Prüfling ein Zeugnis nach Muster 3 aus.
 
-
 ## VII. - Schlußbestimmungen
-
-
 
 ### § 40
 
@@ -825,7 +766,6 @@ Muster 4 aus. Die Bestallung ist mit Geltung vom Tag der Beendigung
 der Hauptprüfung, frühestens jedoch vom Tag der Vollendung des 25.
 Lebensjahres, auszustellen.
 
-
 ### § 41
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
@@ -833,16 +773,13 @@ Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 Ausübung der Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S.
 221) gilt diese Verordnung auch im Land Berlin.
 
-
 ### § 42
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesminister des Innern
-
 
 ### Anlage 1 (zu § 24 Abs. 1 erster Satz) (Muster 1)
 
@@ -888,7 +825,6 @@ des Prüfungsausschusses)
 -----
 \*) Falls der/die Dentistenassistent(in) eine Wiederholungsprüfung
 abzulegen hat, unter Fortfall der Worte: "somit das Gesamturteil ...".
-
 
 ### Anlage 2 (zu § 24 Abs. 1 letzter Satz) (Muster 2)
 
@@ -940,7 +876,6 @@ des Prüfungsausschusses)
 bestanden
 hat, unter Fortfall der Worte: "somit das Gesamturteil ...".
 
-
 ### Anlage 3 (zu § 39 Abs. 3) (Muster 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1954, 27)
@@ -965,7 +900,6 @@ Der Vorsitzende des Prüfungsausschusses
 des Prüfungsausschusses)
 ........................................
 (Unterschrift)
-
 
 ### Anlage 4 (zu § 40 Abs. 2) (Muster 4)
 

@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 28.4.2008 I 766
 
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 2 Nr. 16 des Gentechnikgesetzes in der Fassung
 der Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066), der durch
 Artikel 5 § 1 des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1416)
 geändert worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -35,7 +33,6 @@ gentechnische Arbeiten der Sicherheitsstufe 2, 3 oder 4 im Sinne des §
 7 Abs. 1 des Gentechnikgesetzes durchgeführt werden. Die §§ 3 und 4
 gelten nicht für gentechnische Anlagen, in denen gentechnische
 Arbeiten der Sicherheitsstufe 2 durchgeführt werden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -51,7 +48,6 @@ fest, um im Falle eines Unfalls die in § 1 Nr. 1 des
 Gentechnikgesetzes bezeichneten Rechtsgüter außerhalb des Betriebs-
 oder Institutsgeländes, auf dem die gentechnische Anlage betrieben
 wird, zu schützen.
-
 
 ## § 3 Erstellung von außerbetrieblichen Notfallplänen
 
@@ -92,7 +88,6 @@ benannten Behörden unverzüglich über die Erstellung des
 außerbetrieblichen Notfallplans und spricht seine Durchführung mit
 ihnen ab.
 
-
 ## § 4 Informationen über außerbetriebliche Notfallpläne
 
 Die zuständige Behörde hat anderen Behörden, deren Zuständigkeit im
@@ -105,7 +100,6 @@ wenn sicherheitsrelevante Änderungen des außerbetrieblichen
 Notfallplans vorliegen. Die zuständige Behörde hat die Informationen
 über den außerbetrieblichen Notfallplan in geeigneter Weise auch der
 Öffentlichkeit zugänglich zu machen.
-
 
 ## § 5 Meldepflichten
 
@@ -134,13 +128,11 @@ dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und den
 anderen Behörden zu übermitteln, deren Zuständigkeit ebenfalls
 betroffen sein kann.
 
-
 ## § 6 Erforderliche Maßnahmen
 
 Die zuständige Behörde hat im Zusammenwirken mit dem Betreiber und mit
 anderen Behörden, deren Zuständigkeit betroffen ist, sicherzustellen,
 daß bei einem Unfall alle erforderlichen Maßnahmen getroffen werden.
-
 
 ## § 7 Analyse des Unfalls
 
@@ -150,7 +142,6 @@ der Zukunft und zur Begrenzung ihrer Auswirkungen abzugeben.
 
 (2) Die zuständige Behörde übermittelt die Analyse den in § 5 Abs. 2
 genannten Behörden.
-
 
 ## § 8 Unterrichtungspflichten
 
@@ -169,7 +160,6 @@ anzugeben. Eine Analyse des Unfalls ist zusammen mit Empfehlungen zur
 Begrenzung seiner Auswirkungen und Vermeidung ähnlicher Unfälle in der
 Zukunft zu übermitteln.
 
-
 ## § 9 Übergangsregelung
 
 Die zuständige Behörde hat in den Fällen des § 3 Abs. 1 Satz 1 für die
@@ -180,11 +170,9 @@ dieser Verordnung einen außerbetrieblichen Notfallplan zu erstellen,
 sofern nicht die angemeldete oder genehmigte gentechnische Arbeit
 beendet ist.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -36,7 +36,6 @@ Gesellschaft oder die Gemeinschaft als Anspruchsberechtigte.
 Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem
 Gebietsstand vom 3. Oktober 1990.
 
-
 ## § 2 Betriebliche Investitionen
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung
@@ -236,7 +235,6 @@ auf
 
 Absatz 6 Satz 2 gilt entsprechend.
 
-
 ## § 3 Antrag auf Investitionszulage
 
 (1) Der Antrag ist bei dem für die Besteuerung des
@@ -252,7 +250,6 @@ sind die Investitionen, für die eine Investitionszulage beansprucht
 wird, so genau zu bezeichnen, dass ihre Feststellung bei einer
 Nachprüfung möglich ist.
 
-
 ## § 4 Gesonderte Feststellung
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach
@@ -262,7 +259,6 @@ Investitionszulage für Wirtschaftsgüter, die zum Anlagevermögen dieses
 Betriebs gehören, von dem für die gesonderte Feststellung zuständigen
 Finanzamt gesondert festzustellen. Die für die Feststellung
 erforderlichen Angaben sind in den Antrag nach § 3 Abs. 2 aufzunehmen.
-
 
 ## § 5 Anwendung der Abgabenordnung, Festsetzung und Auszahlung
 
@@ -352,7 +348,6 @@ und
 des Bescheids aus den Einnahmen an Einkommensteuer oder
 Körperschaftsteuer auszuzahlen.
 
-
 ## § 6 Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
@@ -364,7 +359,6 @@ Ereignisses an, zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf
 des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden
 ist.
 
-
 ## § 7 Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des
@@ -373,7 +367,6 @@ der Begünstigung einer Person, die eine solche Straftat begangen hat,
 gelten die Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
 
-
 ## § 8 Ertragsteuerliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
@@ -381,18 +374,15 @@ Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
 Anschaffungs- und Herstellungskosten und nicht die
 Erhaltungsaufwendungen.
 
-
 ## § 9 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
 bekannt zu machen.
 
-
 ## § 10 (Inkrafttreten)
 
 -
-
 
 ## Anlage 1 (zu § 2 Abs. 1 Satz 9)
 
@@ -440,10 +430,6 @@ Sensible Sektoren sind:
     Abkommens auf staatliche Beihilfen im Luftverkehr, ABl. EG Nr. C 350
     S. 5 vom 10. Dezember 1994).
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 6 Satz 1 Nr. 2 und Abs. 7 Satz 1 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2965
@@ -472,7 +458,6 @@ kreisfreie Stadt Chemnitz, Landkreis Mittweida, Landkreis Meißen,
 kreisfreie Stadt Dresden,
 im Freistaat Thüringen:
 Landkreis Saale-Orla-Kreis, Landkreis Greiz.
-
 
 ## Anlage 3 (zu § 2 Abs. 7 Satz 1 Nr. 3)
 

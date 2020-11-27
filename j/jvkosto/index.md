@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 20.12.2012 I 2751
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 5 des Ersten Rechtspflegeüberleitungsgesetzes
 vom 16. Februar 1934 (Reichsgesetzbl. I S. 91) wird folgendes
 verordnet:
 
-
 ## Art I - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -57,7 +53,6 @@ Justizbehörden der Länder.
 anzuwenden, wenn von Justizbehörden der Länder Kosten in den in Absatz
 1 Satz 1 Nr. 1 bis 3 genannten Angelegenheiten erhoben werden.
 
-
 ### § 2
 
 (1) Die Gebühren bestimmen sich nach dem anliegenden
@@ -69,7 +64,6 @@ insbesondere die Bedeutung der Angelegenheit für die Beteiligten, die
 mit der Vornahme der Amtshandlung verbundene Mühewaltung und die
 wirtschaftlichen Verhältnisse des Kostenschuldners zu berücksichtigen.
 
-
 ### § 3
 
 Bei der Ablehnung oder Zurücknahme eines Antrags auf Vornahme einer
@@ -78,7 +72,6 @@ eine Gebühr bis zur Hälfte der für die Vornahme der Amtshandlung
 bestimmten Gebühr - bei Rahmengebühren jedoch nicht weniger als den
 Mindestbetrag - auferlegen. Das gleiche gilt, wenn die Ablehnung von
 der übergeordneten Behörde bestätigt wird.
-
 
 ### § 4
 
@@ -129,7 +122,6 @@ gewerblichen Nutzung bereitgestellt werden.
 Angelegenheiten und in der Zusammenarbeit mit dem Internationalen
 Strafgerichtshof wird eine Dokumentenpauschale nicht erhoben.
 
-
 ### § 5
 
 (1) Für die Erhebung sonstiger Auslagen gilt § 137 Abs. 1 Nr. 1 bis 6,
@@ -167,7 +159,6 @@ Angelegenheiten werden Kosten nicht erhoben,
 
 Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale
 Rechtshilfe in Strafsachen bleiben unberührt.
-
 
 ### § 6
 
@@ -208,7 +199,6 @@ Strafgerichtshof haftet der Verfolgte oder Verurteilte nicht nach
 Absatz 1 Satz 1 Nummer 1. Die §§ 57a und 87n Absatz 6 des Gesetzes
 über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
 
-
 ### § 7
 
 (1) Die Gebühren werden, soweit nichts anderes bestimmt ist, mit der
@@ -225,7 +215,6 @@ Sicherstellung des Vorschusses abhängig machen.
 zurückzugebende Urkunden, die aus Anlaß der Amtshandlung eingereicht
 sind, können zurückbehalten werden, bis die in der Angelegenheit
 erwachsenen Kosten bezahlt sind.
-
 
 ### § 7a
 
@@ -247,7 +236,6 @@ anfallenden Aufwendungen ausreicht.
 niedrigere Gegenleistung vereinbart oder auf eine Gegenleistung
 verzichtet werden.
 
-
 ### § 7b
 
 (1) Zur Zahlung der in Abschnitt 4 des Gebührenverzeichnisses
@@ -261,7 +249,6 @@ Gebührenverzeichnisses ist derjenige verpflichtet, unter dessen
 Kennung, die auf Grund der Anmeldung zum Abrufverfahren vergeben
 worden ist, der Abruf erfolgt ist.
 
-
 ### § 7c
 
 Erfordert die Erteilung einer Auskunft für wissenschaftliche
@@ -269,7 +256,6 @@ Forschungsvorhaben aus den vom Bundesamt für Justiz geführten
 Registern einen erheblichen Aufwand, ist eine Gegenleistung zu
 vereinbaren, welche die notwendigen Aufwendungen deckt. § 12 ist
 entsprechend anzuwenden.
-
 
 ### § 8
 
@@ -292,7 +278,6 @@ persönliche Kostenfreiheit gewährt wird, bleiben unberührt.
 
 (4) Die Gebührenfreiheit entbindet, soweit nichts anderes bestimmt
 ist, nicht von der Verpflichtung zur Zahlung der Auslagen.
-
 
 ### § 9
 
@@ -327,20 +312,14 @@ werden erhoben
 
 6.  für die Tätigkeit der Staatsanwaltschaft im Aufgebotsverfahren.
 
-
-
-
-
 ### § 10
 
 (aufgehoben)
-
 
 ### § 11
 
 Gebühren und Auslagen, die bei richtiger Behandlung der Sache nicht
 entstanden wären, werden nicht erhoben.
-
 
 ### § 12
 
@@ -349,7 +328,6 @@ wirtschaftlichen Verhältnisse des Zahlungspflichtigen oder sonst aus
 Billigkeitsgründen geboten erscheint, die Gebühren unter die Sätze des
 Gebührenverzeichnisses ermäßigen oder von der Erhebung der Kosten
 absehen.
-
 
 ### § 13
 
@@ -361,7 +339,6 @@ bis 10 der Kostenordnung gelten entsprechend.
 (2) Auf gerichtliche Entscheidungen ist § 157a der Kostenordnung
 entsprechend anzuwenden.
 
-
 ### § 14
 
 (1) Für die Verjährung der Kostenforderungen und der Ansprüche auf
@@ -371,15 +348,11 @@ entsprechend.
 (2) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht
 verzinst.
 
-
 ### § 15
 
 -
 
-
 ## Art II - Schlußbestimmungen Außerkrafttreten landesrechtlicher Vorschriften
-
-
 
 ### § 16
 
@@ -394,13 +367,11 @@ des Schiffsbauregisters und des Registers für Pfandrechte an
 Luftfahrzeugen vor dem 1. Oktober 2009 nach den bis zu diesem
 Zeitpunkt geltenden Vorschriften erhoben.
 
-
 ### § 17
 
 Für die Beschwerde finden die vor dem 1. Juli 2004 geltenden
 Vorschriften weiter Anwendung, wenn die anzufechtende Entscheidung vor
 dem 1. Juli 2004 der Geschäftsstelle übermittelt worden ist.
-
 
 ### § 18
 
@@ -409,18 +380,15 @@ Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, ist § 5
 Absatz 3 Satz 2 in der bis zum 27. Dezember 2010 geltenden Fassung
 anzuwenden.
 
-
 ### § 19
 
 In Kraft bleiben die landesrechtlichen Vorschriften über die Gebühren
 für Schiedsmänner, Friedensrichter, Ortsgerichte, Schätzungsämter und
 ähnliche Stellen im Bereich der Justizverwaltung.
 
-
 ### § 20
 
 -
-
 
 ### § 21
 
@@ -430,11 +398,9 @@ für Schiedsmänner, Friedensrichter, Ortsgerichte, Schätzungsämter und
 Aushändigung von Wertgegenständen zuständig sind, bleiben die
 landesrechtlichen Gebührenvorschriften in Kraft.
 
-
 ### Schlußformel
 
 Der Reichsminister der Justiz
-
 
 ### Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 

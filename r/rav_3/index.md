@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 2344
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -53,13 +51,11 @@ Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Bezugsgröße der Sozialversicherung
 
 Die Bezugsgröße (Ost) im Sinne des § 18 Abs. 2 des Vierten Buches
 Sozialgesetzbuch beträgt ab 1. Januar 1992 25.200 DM jährlich und
 2\.100 DM monatlich.
-
 
 ## § 2 Beitragsbemessungsgrenzen in der Rentenversicherung im Beitrittsgebiet
 
@@ -77,7 +73,6 @@ Die Beitragsbemessungsgrenzen (Ost) betragen ab 1. Januar 1992
 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird um die
 Jahresbeträge ergänzt.
 
-
 ## § 3 Werte für Jahreshöchstverdienste in den Anlagen 3 bis 6 zu dem Anspruchs- und Anwartschaftsüberführungsgesetz
 
 (1) In Anlage 3 wird die Spalte "Rentenversicherung der Arbeiter und
@@ -93,7 +88,6 @@ die Zeit "1.1. - 30.6.1990" um den Wert "30.481,48" ergänzt.
 
 (4) In Anlage 6 wird die Spalte "Betrag in DM" für die Zeit "1.1. -
 30\.6.1990" um den Wert "9.562,00" ergänzt.
-
 
 ## § 4 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -126,14 +120,9 @@ Januar 1992 bis zum 30. Juni 1992
 
     *   1,1165324.
 
-
-
-
-
 ## § 5 Anpassung des aktuellen Rentenwerts (Ost)
 
 Der aktuelle Rentenwert (Ost) beträgt ab 1. Januar 1992 23,57 DM.
-
 
 ## § 6 Anpassungsfaktor in der Unfallversicherung
 
@@ -141,18 +130,15 @@ Der Anpassungsfaktor für die vom 1. Januar 1992 an anzupassenden
 Geldleistungen der gesetzlichen Unfallversicherung für Arbeitsunfälle
 im Sinne des § 1153 Reichsversicherungsordnung beträgt 1,1165.
 
-
 ## § 7 Pflegegeld
 
 Das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 1151
 Reichsversicherungsordnung beträgt vom 1. Januar 1992 an zwischen 266
 Deutsche Mark und 1.064 Deutsche Mark monatlich.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
-
 
 ## Schlußformel
 

@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 1.7.2011 I 1308
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -90,12 +88,7 @@ Im Sinn dieser Verordnung ist oder sind
     59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG)
     Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist.
 
-
-
-
-
 ## Abschnitt 2 - Zu § 1 Absatz 4 Nummer 2 des Gesetzes
-
 
 ### § 2 Alkoholgehalt, steuerbare Menge
 
@@ -108,9 +101,7 @@ Alkoholgehalt ab.
 Fertigpackungen nach deren Nennfüllmenge, im Übrigen nach dem
 Raumgehalt der Umschließung.
 
-
 ## Abschnitt 3 - Zu den §§ 4, 5 und 14 Absatz 3 des Gesetzes
-
 
 ### § 3 Steuerlager, Anforderungen an die Einrichtung
 
@@ -153,10 +144,6 @@ Belangen der Steueraufsicht bestimmen, dass
     Umkreis von bis zu 50 Kilometer als vorübergehend zum Steuerlager
     gehörend behandelt werden.
 
-
-
-
-
 ### § 4 Antrag auf Erlaubnis als Steuerlagerinhaber
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 5 des
@@ -197,7 +184,6 @@ Steuerbelange dadurch nicht beeinträchtigt werden.
 (4) Beabsichtigt der Steuerlagerinhaber weitere Steuerlager zu
 betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und
 3 eine Erweiterung der Erlaubnis.
-
 
 ### § 5 Erteilung der Erlaubnis
 
@@ -249,7 +235,6 @@ wenn
 (4) In den Fällen des § 4 Absatz 4 wird die Erlaubnis erweitert. Die
 Absätze 1 bis 3 bleiben unberührt.
 
-
 ### § 6 Sicherheitsleistung
 
 (1) Die Höhe der Sicherheitsleistung wird durch das zuständige
@@ -266,7 +251,6 @@ zuständige Hauptzollamt das Steuerlager, soweit die baulichen
 Voraussetzungen dafür vorliegen, unter amtlichen Mitverschluss nehmen
 und die Sicherheitsleistung auf die entstandene, aber noch nicht
 entrichtete Schaumweinsteuer beschränken.
-
 
 ### § 7 Änderung von Verhältnissen
 
@@ -290,7 +274,6 @@ Hauptzollamt kann im Einzelfall hierzu Anordnungen treffen oder
 Ausnahmen zulassen. Wird der Betrieb eines Steuerlagers eingestellt,
 widerruft das zuständige Hauptzollamt die Erlaubnis nach § 5. Sofern
 die Erlaubnis mehrere Steuerlager umfasst, wird diese geändert.
-
 
 ### § 8 Erlöschen und Fortbestand der Erlaubnis
 
@@ -417,7 +400,6 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 Entsprechendes gilt in den Fällen des Absatzes 1 Nummer 9 und 10 für
 den Steuerlagerinhaber.
 
-
 ### § 9 Belegheft, Buchführung
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das zuständige
@@ -436,7 +418,6 @@ insbesondere die Entnahmen in den freien Verkehr in der
 Lagerbuchführung für längstens einen Kalendermonat zusammengefasst
 aufgezeichnet werden.
 
-
 ### § 10 Vollständige Zerstörung, unwiederbringlicher Verlust und Vernichtung
 
 (1) Ist Schaumwein unbeabsichtigt vollständig zerstört worden oder
@@ -453,7 +434,6 @@ zuständige Hauptzollamt kann Vereinfachungen zulassen und Anordnungen
 zur Nachweisführung treffen. Die Vernichtung ist amtlich zu
 überwachen, soweit das zuständige Hauptzollamt nicht darauf
 verzichtet. Außersteuerliche Vorschriften bleiben unberührt.
-
 
 ### § 11 Bestandsaufnahme im Steuerlager
 
@@ -488,9 +468,7 @@ sichergestellt ist, dass dort Schaumwein ausschließlich zu Versuchs-
 oder Unterrichtszwecken hergestellt und im Rahmen dieser Zwecke
 verbraucht oder vernichtet wird.
 
-
 ## Abschnitt 4 - Zu § 6 des Gesetzes
-
 
 ### § 12 Registrierter Empfänger
 
@@ -564,9 +542,7 @@ zu beschränken ist. Vor der Erteilung der Erlaubnis ist Sicherheit
 nach § 6 Absatz 2 Satz 4 des Gesetzes zu leisten. Absatz 4 gilt
 entsprechend.
 
-
 ## Abschnitt 5 - Zu § 7 des Gesetzes
-
 
 ### § 13 Registrierter Versender
 
@@ -623,9 +599,7 @@ Schaumwein ist vom registrierten Versender unverzüglich aufzuzeichnen.
 (6) Bei Änderungen der dargestellten Verhältnisse gilt § 7 und für das
 Erlöschen und den Fortbestand der Erlaubnis § 8 entsprechend.
 
-
 ## Abschnitt 6 - Zu den §§ 8 und 28 Nummer 1 des Gesetzes
-
 
 ### § 14 Begünstigte, Ausstellen der Freistellungsbescheinigung
 
@@ -682,9 +656,7 @@ durch Diplomaten und konsularische Missionen empfangen wird, gilt § 17
 der Zollverordnung in Verbindung mit den dazu ergangenen
 Verwaltungsvorschriften sinngemäß.
 
-
 ## Abschnitt 7 - Zu den §§ 9 bis 12 des Gesetzes
-
 
 ### § 15 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
@@ -701,7 +673,6 @@ wird vom Bundesministerium der Finanzen im Internet unter www.zoll.de
 veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister
 sind verpflichtet, die in der Verfahrensanweisung festgelegten
 Voraussetzungen und Bedingungen einzuhalten.
-
 
 ### § 16 Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
 
@@ -756,7 +727,6 @@ eines anderen Mitgliedstaats übermittelt wurde, wird vom zuständigen
 Hauptzollamt an den Empfänger im Steuergebiet weitergeleitet, wenn
 dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
-
 ### § 17 Mitführen der Freistellungsbescheinigung
 
 Wird Schaumwein unter Steueraussetzung zu Begünstigten befördert, hat
@@ -765,7 +735,6 @@ Absatz 1 Satz 2 ausgehändigte Ausfertigung oder eine von den
 zuständigen Behörden eines anderen Mitgliedstaats bestätigte zweite
 Ausfertigung der Freistellungsbescheinigung mitzuführen. Die jeweils
 erste Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
-
 
 ### § 18 Art und Höhe der Sicherheitsleistung
 
@@ -786,7 +755,6 @@ Steuer, die bei der Überführung des Schaumweins in den steuerrechtlich
 freien Verkehr im Steuergebiet entstehen würde. Die Angemessenheit der
 Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 überprüfen.
-
 
 ### § 19 Annullierung des elektronischen Verwaltungsdokuments
 
@@ -812,7 +780,6 @@ Empfänger im Steuergebiet bestimmt war, der entweder ein
 Steuerlagerinhaber oder ein registrierter Empfänger ist, leitet das
 für den Empfänger zuständige Hauptzollamt die eingehende
 Annullierungsmeldung an diesen weiter.
-
 
 ### § 20 Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments
 
@@ -853,7 +820,6 @@ entsprechende Meldung unterrichtet.
 Verwaltungsdokuments das darin angegebene Steuerlager des Empfängers
 geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 Änderungsmeldung an diesen weiter.
-
 
 ### § 21 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
 
@@ -919,7 +885,6 @@ gilt, sobald der Empfänger im Steuergebiet an dem Schaumwein Besitz
 erlangt hat. Die Vorschriften zu den Beförderungen unter
 Steueraussetzung bleiben unberührt.
 
-
 ### § 22 Beförderungen im Steuergebiet in Sonderfällen
 
 (1) Bei Beförderungen von Schaumwein unter Steueraussetzung zwischen
@@ -980,7 +945,6 @@ der dritten Ausfertigung (Rückschein). Der bestätigte Rückschein ist
 von dem Hauptzollamt an den Versender zurückzuschicken, der diesen als
 Beleg zu seinen Aufzeichnungen zu nehmen hat. Die zweite und vierte
 Ausfertigung verbleibt beim Hauptzollamt.
-
 
 ### § 23 Beförderungen im Steuergebiet in Betriebe von Verwendern
 
@@ -1064,7 +1028,6 @@ Hauptzollamts den Schaumwein unverändert vorzuführen. Dabei kann das
 zuständige Hauptzollamt bei zu versendendem Schaumwein
 Verschlussmaßnahmen anordnen.
 
-
 ### § 24 Beginn einer Beförderung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
@@ -1119,7 +1082,6 @@ versehene dritte Ausfertigung des Ausfalldokuments gilt als Papier im
 Sinn des § 16 Absatz 3 Satz 1. Für die Eingangs- und Ausfuhrmeldung
 ist § 21 anzuwenden.
 
-
 ### § 25 Annullierung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
@@ -1141,7 +1103,6 @@ unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und
 Kontrollsystems den Entwurf der elektronischen Annullierungsmeldung
 nach § 19 Absatz 2 zu übermitteln. § 19 Absatz 3 und 4 gilt
 entsprechend.
-
 
 ### § 26 Änderung des Bestimmungsorts im Ausfallverfahren
 
@@ -1174,7 +1135,6 @@ Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder
 Änderung des Bestimmungsorts sowie die Übermittlung der zweiten
 Ausfertigung des Änderungsdokuments gelten § 24 Absatz 2 und § 24
 Absatz 4 Satz 1 und 2 entsprechend.
-
 
 ### § 27 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
@@ -1231,7 +1191,6 @@ zur Verfügung und liegt das elektronische Verwaltungsdokument vor,
 erstellt das zuständige Hauptzollamt eine Ausfuhrmeldung nach § 21
 Absatz 5 Satz 1. § 21 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
-
 ### § 28 Ersatznachweise für die Beendigung der Beförderung
 
 Liegt kein Nachweis nach § 21 Absatz 6 vor, bestätigt das für den
@@ -1246,9 +1205,7 @@ insbesondere ein vom Empfänger vorgelegtes Dokument, das dieselben
 Angaben enthält wie eine Eingangsmeldung und in dem dieser den Empfang
 des Schaumweins bestätigt.
 
-
 ## Abschnitt 8 - Zu den §§ 13 und 14 Absatz 3 des Gesetzes
-
 
 ### § 29 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
@@ -1269,18 +1226,14 @@ unwiederbringlich verloren gegangen, hat der Beförderer dies dem
 Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen
 nachzuweisen.
 
-
 ## Abschnitt 9 - Zu den §§ 14 und 15 des Gesetzes
-
 
 ### § 30 Steueranmeldung
 
 Die Steueranmeldung nach § 15 Absatz 1 und 2 des Gesetzes ist nach
 amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 10 - Zu § 156 Absatz 1 der Abgabenordnung
-
 
 ### § 31 Kleinbetragsregelung
 
@@ -1289,9 +1242,7 @@ Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
 wenn die Abweichung von der angemeldeten oder festgesetzten Steuer
 mindestens 10 Euro beträgt.
 
-
 ## Abschnitt 11 - Zu den §§ 16 bis 18 des Gesetzes
-
 
 ### § 32 Anmeldung des Schaumweins
 
@@ -1301,9 +1252,7 @@ Besteuerung wesentlichen Merkmalen und nach dem Steuertarif
 anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach
 amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 12 - Zu § 19 des Gesetzes
-
 
 ### § 33 Beförderungen zu privaten Zwecken
 
@@ -1312,9 +1261,7 @@ Zwecken in das Steuergebiet befördert, wird widerleglich vermutet,
 dass der Schaumwein zu gewerblichen Zwecken in das Steuergebiet
 befördert wird (§ 20 des Gesetzes).
 
-
 ## Abschnitt 13 - Zu § 20 des Gesetzes
-
 
 ### § 34 Beförderungen zu gewerblichen Zwecken
 
@@ -1356,15 +1303,12 @@ vereinfachten Begleitdokuments, versehen mit seiner
 Empfangsbestätigung, vorzulegen. Auf Antrag bestätigt das zuständige
 Hauptzollamt die Anmeldung oder Entrichtung der Steuer.
 
-
 ### § 35 Durchfuhr von Schaumwein des steuerrechtlich freien Verkehrs eines anderen Mitgliedstaats
 
 Wird Schaumwein nach § 20 Absatz 2 Satz 2 Nummer 1 des Gesetzes durch
 das Steuergebiet befördert, gilt § 34 Absatz 3 entsprechend.
 
-
 ## Abschnitt 14 - Zu § 21 des Gesetzes
-
 
 ### § 36 Versandhandel, Beauftragter
 
@@ -1402,9 +1346,7 @@ unverzüglich anzuzeigen.
 (5) Die Steueranmeldung nach § 21 Absatz 5 Satz 2 und 6 des Gesetzes
 ist nach § 30 abzugeben.
 
-
 ## Abschnitt 15 - Zu § 22 des Gesetzes
-
 
 ### § 37 Unregelmäßigkeiten während der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
@@ -1422,9 +1364,7 @@ nachzuweisen.
 (3) Die Steueranmeldung nach § 22 Absatz 3 Satz 2 des Gesetzes ist
 nach § 30 abzugeben.
 
-
 ## Abschnitt 16 - Zu den §§ 23 und 23a des Gesetzes
-
 
 ### § 38 Antrag auf Erlaubnis zur steuerfreien Verwendung
 
@@ -1456,7 +1396,6 @@ oder für die Steueraufsicht erforderlich erscheinen. Das zuständige
 Hauptzollamt kann auf Anforderungen nach Absatz 1 verzichten, wenn
 Steuerbelange dadurch nicht beeinträchtigt werden.
 
-
 ### § 38a Erteilung der Erlaubnis, Erlaubnisschein
 
 (1) Das zuständige Hauptzollamt erteilt dem Verwender schriftlich
@@ -1480,7 +1419,6 @@ vorzulegen.
 gilt § 7 und für das Erlöschen und den Fortbestand der Erlaubnis § 8
 entsprechend.
 
-
 ### § 38b Belegheft, Buchführung
 
 (1) Der Verwender hat ein Belegheft zu führen. Das zuständige
@@ -1496,7 +1434,6 @@ Aufzeichnungspflicht gilt § 9 Absatz 3 entsprechend. Das zuständige
 Hauptzollamt kann in Ausnahmefällen, soweit steuerliche Belange dem
 nicht entgegenstehen, auf das Führen eines Verwendungsbuchs
 verzichten.
-
 
 ### § 38c Lagerung, Bestandsaufnahme
 
@@ -1524,7 +1461,6 @@ andere Aufzeichnungen an seiner Stelle zugelassen sind, hat der
 Verwender einmal jährlich den Bestand aufzunehmen. § 11 gilt
 entsprechend.
 
-
 ### § 38d Abgabe von Schaumwein, zweckwidrige Verwendung
 
 (1) Das zuständige Hauptzollamt kann dem Verwender auf Antrag
@@ -1540,9 +1476,7 @@ versehen sind.
 (2) Die Steueranmeldung nach § 23a Absatz 3 Satz 5 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 17 - Zu § 24 des Gesetzes
-
 
 ### § 39 Steuerentlastung im Steuergebiet
 
@@ -1572,9 +1506,7 @@ Mitgliedstaaten zu befördern, ohne den Schaumwein in sein Steuerlager
 aufzunehmen. Der Schaumwein ist auf Verlangen des Hauptzollamts vorher
 vorzuführen. Die Absätze 2 und 3 gelten entsprechend.
 
-
 ## Abschnitt 18 - Zu § 25 des Gesetzes
-
 
 ### § 40 Steuerentlastung bei der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
@@ -1637,9 +1569,7 @@ bei dem Hauptzollamt zu stellen, das die Steuer nach § 22 Absatz 3 des
 Gesetzes erhoben hat. Dem Antrag ist der Versteuerungsnachweis in dem
 anderen Mitgliedstaat beizufügen.
 
-
 ## Abschnitt 19 - Zu § 26 des Gesetzes und § 212 Absatz 1 Nummer 8 der Abgabenordnung
-
 
 ### § 41 Probenentnahme im Rahmen der Steueraufsicht
 
@@ -1652,9 +1582,7 @@ auszustellen. Auf Anforderung des zuständigen Hauptzollamts haben
 Erlaubnisinhaber zu Untersuchungszwecken unentgeltlich Proben zur
 Verfügung zu stellen.
 
-
 ## Abschnitt 20 - Zu § 28 Nummer 3 Buchstabe a des Gesetzes
-
 
 ### § 42 Beförderung von Schaumwein des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
 
@@ -1699,9 +1627,7 @@ erteilt unter Widerrufsvorbehalt eine Erlaubnis. Eine Ausfertigung
 dieser Erlaubnis ist der zuständigen Steuerbehörde des
 Transitmitgliedstaats zuzuleiten.
 
-
 ## Abschnitt 20a - Zu § 28 Nummer 4 des Gesetzes
-
 
 ### § 42a Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
 
@@ -1726,14 +1652,12 @@ Verschlüsselungsverfahren anzuwenden.
 (4) Die Pflichten der Programmhersteller nach den §§ 42c und 42d sind
 ausschließlich öffentlich-rechtlicher Art.
 
-
 ### § 42b Schnittstellen
 
 Bei der elektronischen Datenübermittlung sind die hierfür vom
 Bundesministerium der Finanzen bestimmten Schnittstellen ordnungsgemäß
 zu bedienen. Die für die Übermittlung benötigten Schnittstellen werden
 über das Internet zur Verfügung gestellt.
-
 
 ### § 42c Anforderungen an die Programme
 
@@ -1747,7 +1671,6 @@ Besteuerungsverfahren erforderlichen Daten gewährleisten.
 richtige und vollständige Erhebung, Verarbeitung und Übermittlung
 ausnahmsweise nicht möglich ist (Ausschlussfälle), ist in der
 Programmbeschreibung an hervorgehobener Stelle hinzuweisen.
-
 
 ### § 42d Prüfung der Programme
 
@@ -1780,7 +1703,6 @@ Prüfungsstelle ist nicht verpflichtet, die Programme zu prüfen.
 hat der Hersteller der Prüfungsstelle auf Verlangen Muster zum Zweck
 der Prüfung kostenfrei zur Verfügung zu stellen.
 
-
 ### § 42e Haftung
 
 (1) Der Hersteller von Programmen, die für die Verarbeitung von für
@@ -1797,7 +1719,6 @@ unrichtiger oder unvollständiger Übermittlung Steuern vorsätzlich oder
 grob fahrlässig verkürzt oder zu Unrecht steuerliche Vorteile erlangt
 werden.
 
-
 ### § 42f Authentifizierung, Datenübermittlung im Auftrag
 
 (1) Bei der elektronischen Datenübermittlung ist grundsätzlich eine
@@ -1813,15 +1734,12 @@ der Dritte die Daten dem Auftraggeber unverzüglich in leicht
 nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
 Auftraggeber hat die Daten unverzüglich zu überprüfen.
 
-
 ## Abschnitt 21 - Zu den §§ 29 und 31 des Gesetzes
-
 
 ### § 43 Zwischenerzeugnisse
 
 Die §§ 1 bis 32 und 34 bis 42f sind auf Zwischenerzeugnisse nach § 29
 des Gesetzes anzuwenden.
-
 
 ### § 44 Beförderungen zu privaten Zwecken
 
@@ -1830,7 +1748,6 @@ mit § 29 Absatz 3 des Gesetzes zu privaten Zwecken in das Steuergebiet
 befördert, wird widerleglich vermutet, dass die Zwischenerzeugnisse zu
 gewerblichen Zwecken in das Steuergebiet befördert werden (§ 20 des
 Gesetzes).
-
 
 ### § 45 Herstellung von Zwischenerzeugnissen außerhalb eines Steuerlagers
 
@@ -1872,9 +1789,7 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen. Änderungen der
 angemeldeten Betriebsverhältnisse hat der Anmeldepflichtige dem
 Hauptzollamt ebenfalls unverzüglich schriftlich anzuzeigen.
 
-
 ## Abschnitt 22 - Zu § 33 des Gesetzes
-
 
 ### § 46 Steuerlagerinhaber
 
@@ -1902,7 +1817,6 @@ Weinwirtschaftsjahr der Anzeige vorausgegangenen drei
 Weinwirtschaftsjahre heranzuziehen. Mit dem Eingang der
 ordnungsgemäßen Anzeige gilt die Erlaubnis als erteilt.
 
-
 ### § 47 Belegheft, Buchführung
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das zuständige
@@ -1914,7 +1828,6 @@ befördert wird, Aufzeichnungen zu führen. Bei Wein aus Weintrauben
 gelten die nach Weinrecht zu führenden Ein- und Ausgangsbücher als
 ausreichende Aufzeichnungen, es sei denn, das zuständige Hauptzollamt
 ordnet etwas anderes an.
-
 
 ### § 48 Registrierter Empfänger
 
@@ -1937,7 +1850,6 @@ kann befristet werden.
 (4) Für den Empfang im Einzelfall gelten Absatz 1 und Absatz 2 Satz 1
 und 2 entsprechend.
 
-
 ### § 49 Registrierter Versender
 
 (1) Wer als registrierter Versender (§ 32 Absatz 2 Nummer 2 in
@@ -1956,7 +1868,6 @@ Die Erlaubnis kann befristet werden.
 
 (3) Für das Führen eines Beleghefts sowie für die Aufzeichnungen gilt
 § 47 entsprechend.
-
 
 ### § 50 Verfahren für die Beförderung von Wein in andere, aus anderen und über andere Mitgliedstaaten
 
@@ -2001,9 +1912,7 @@ Gemeinschaft ausgeführt, gelten die §§ 21, 27 und 28 entsprechend.
 Mitgliedstaaten an einen Begünstigten im Steuergebiet gilt § 14 Absatz
 1 bis 3 und 5 entsprechend.
 
-
 ## Abschnitt 23 - Zu § 34 des Gesetzes
-
 
 ### § 51 Beförderung von Wein des steuerrechtlich freien Verkehrs in andere und aus anderen Mitgliedstaaten
 
@@ -2038,7 +1947,6 @@ doppelter Ausfertigung anmelden. Dazu sind die entsprechenden Liefer-
 und Frachtpapiere mit einzureichen. Der Versandhändler kann bei einem
 für einen Empfänger zuständigen Hauptzollamt beantragen, dass dieses
 für ihn zentral die Bestätigungen abgibt.
-
 
 ### § 52 Beförderung von Wein des steuerrechtlich freien Verkehrs durch andere Mitgliedstaaten
 
@@ -2078,9 +1986,7 @@ Widerrufsvorbehalt eine Erlaubnis. Eine Ausfertigung dieser Erlaubnis
 ist der zuständigen Steuerbehörde des Transitmitgliedstaats
 zuzuleiten. Die Erlaubnis kann befristet werden.
 
-
 ## Abschnitt 24 - Zu § 381 Absatz 1 der Abgabenordnung
-
 
 ### § 53 Ordnungswidrigkeiten
 
@@ -2242,9 +2148,7 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 (3) Die Vorschriften des Absatzes 1 Nummer 1 bis 11 und des Absatzes 2
 Nummer 1 und 2 gelten auch für Zwischenerzeugnisse im Sinn des § 43.
 
-
 ## Abschnitt 25 - Schlussbestimmungen
-
 
 ### § 54 Übergangsregelungen
 

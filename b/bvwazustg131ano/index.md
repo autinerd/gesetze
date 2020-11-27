@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1960, Nr 31
 
-
-
 ## I.
 
 Auf Grund des § 60 Abs. 1 Satz 4 des Gesetzes zur Regelung der
@@ -32,7 +30,6 @@ Bescheide, die der Bundesminister des Innern auf Grund der bisherigen
 Zuständigkeitsregelung als oberste Dienstbehörde erteilt hat, behalte
 ich mir vor.
 
-
 ## II.
 
 Für im Bundesgebiet befindliche, dem Land Nordrhein-Westfalen im
@@ -43,24 +40,20 @@ begründet haben, verbleibt es abweichend von Abschnitt I dieser
 Anordnung bei der durch Bekanntmachung vom 14. November 1955
 (Gemeinsames Ministerialblatt S. 468) getroffenen Regelung.
 
-
 ## III.
 
 Die Bekanntmachung vom 31. Juli 1954 (Gemeinsames Ministerialblatt S.
 378) betr. Bestimmung der Oberfinanzdirektion Düsseldorf als
 Pensionsfestsetzungs- und Regelungsbehörde bleibt unberührt.
 
-
 ## IV.
 
 -
-
 
 ## V.
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
-
 
 ## Schlußformel
 

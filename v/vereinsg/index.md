@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 21.12.2007 I 3198
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Vereinsfreiheit
 
@@ -36,7 +32,6 @@ beschlossen:
 (2) Gegen Vereine, die die Vereinsfreiheit mißbrauchen, kann zur
 Wahrung der öffentlichen Sicherheit oder Ordnung nur nach Maßgabe
 dieses Gesetzes eingeschritten werden.
-
 
 ### § 2 Begriff des Vereins
 
@@ -56,13 +51,7 @@ unterworfen hat.
 
 3.  (weggefallen)
 
-
-
-
-
 ## Zweiter Abschnitt - Verbot von Vereinen
-
-
 
 ### § 3 Verbot
 
@@ -144,11 +133,6 @@ Mitgliedern des Vereins stützen, wenn
 
 3.  nach den Umständen anzunehmen ist, daß sie vom Verein geduldet werden.
 
-
-
-
-
-
 ### § 4 Ermittlungen
 
 (1) Die Verbotsbehörde kann für ihre Ermittlungen die Hilfe der für
@@ -185,7 +169,6 @@ Beschlagnahme nach § 99 der Strafprozeßordnung, oder eine Durchsuchung
 anordnen. Die Vorschriften des Absatzes 4 sowie § 98 Abs. 2 Satz 1 und
 2 der Strafprozeßordnung gelten entsprechend.
 
-
 ### § 5 Vollzug des Verbots
 
 (1) Soweit das Verbot nach diesem Gesetz nicht von der Verbotsbehörde
@@ -198,7 +181,6 @@ ist, ein den Teilverein einschließendes Verbot des Gesamtvereins, so
 ist von diesem Zeitpunkt an nur noch das Verbot des Gesamtvereins zu
 vollziehen.
 
-
 ### § 6 Anfechtung des Verbotsvollzugs
 
 (1) Wird eine Maßnahme zum Vollzug des Verbots angefochten und kommt
@@ -210,7 +192,6 @@ zugrunde zu legen.
 
 (2) Widerspruch und Anfechtungsklage gegen Maßnahmen zum Vollzug des
 Verbots haben keine aufschiebende Wirkung.
-
 
 ### § 7 Unanfechtbarkeit des Verbots, Eintragung in öffentliche Register
 
@@ -227,7 +208,6 @@ die Bestellung und Abberufung von Verwaltern (§ 10 Abs. 3),
 die Auflösung des Vereins, nachdem das Verbot unanfechtbar geworden
 ist, und
 das Erlöschen des Vereins.
-
 
 ### § 8 Verbot der Bildung von Ersatzorganisationen
 
@@ -248,7 +228,6 @@ Verfügung haben keine aufschiebende Wirkung. Die für die Wahrung der
 Dienststellen sind bei Gefahr im Verzug zu vorläufigen Maßnahmen
 berechtigt, die außer Kraft treten, wenn die Verbotsbehörde nicht
 binnen zweier Wochen die in Satz 1 bestimmte Verfügung trifft.
-
 
 ### § 9 Kennzeichenverbot
 
@@ -281,10 +260,7 @@ des verbotenen Vereins teilenden Vereinen verwendet werden.
 einer Ersatzorganisation für die Dauer der Vollziehbarkeit einer
 Verfügung nach § 8 Abs. 2 Satz 1.
 
-
 ## Dritter Abschnitt - Beschlagnahme und Einziehung des Vermögens verbotener Vereine
-
-
 
 ### § 10 Vermögensbeschlagnahme
 
@@ -330,7 +306,6 @@ leisten.
 Wiederherstellung ihrer Vollziehbarkeit haben keine rückwirkende
 Kraft.
 
-
 ### § 11 Vermögenseinziehung
 
 (1) Die Einziehung (§ 3 Abs. 1 Satz 2) wird im Fall des § 3 Abs. 2 Nr.
@@ -364,7 +339,6 @@ organisatorischen Zusammenhalt des Vereins aufrechtzuerhalten, ferner,
 soweit es sich um Gegenstände von unerheblichem Wert handelt. Die
 Verbotsbehörde kann die Liquidatoren bestellen. § 12 Abs. 1 Satz 1
 gilt sinngemäß für den Anspruch auf den Liquidationserlös.
-
 
 ### § 12 Einziehung von Gegenständen Dritter
 
@@ -409,7 +383,6 @@ des § 138 Abs. 1 der Insolvenzordnung nahesteht, verfügt worden, so
 wird vermutet, daß diesen die in Satz 1 bezeichnete Absicht bekannt
 war.
 
-
 ### § 13 Abwicklung
 
 (1) Die Gläubiger, die ihre Forderungen innerhalb der von der
@@ -445,10 +418,7 @@ gerichteten Ansprüche verbleibende Vermögen und die nach § 12
 eingezogenen Gegenstände sind vom Einziehungsbegünstigten für
 gemeinnützige Zwecke zu verwenden.
 
-
 ## Vierter Abschnitt - Sondervorschriften
-
-
 
 ### § 14 Ausländervereine
 
@@ -501,7 +471,6 @@ bestimmte Handlungen oder bestimmte Personen beschränken kann. Im
 Vorschriften zur Wahrung der öffentlichen Sicherheit oder Ordnung
 unberührt.
 
-
 ### § 15 Ausländische Vereine
 
 (1) Für Vereine mit Sitz im Ausland (ausländische Vereine), deren
@@ -514,7 +483,6 @@ eingegliederten Teilvereine, deren Mitglieder und Leiter sämtlich oder
 überwiegend Deutsche oder ausländische Unionsbürger sind, können nur
 aus den in Artikel 9 Abs. 2 des Grundgesetzes genannten Gründen
 verboten oder in ein Verbot einbezogen werden.
-
 
 ### § 16 Arbeitnehmer- und Arbeitgebervereinigungen
 
@@ -547,7 +515,6 @@ Vereinsvermögens verfügen. Betätigungsverbote und
 Beschlagnahmeanordnungen hat das Gericht entsprechend § 3 Abs. 4 Satz
 2 bekanntzumachen.
 
-
 ### § 17 Wirtschaftsvereinigungen
 
 Die Vorschriften dieses Gesetzes sind auf Aktiengesellschaften,
@@ -574,10 +541,6 @@ Gegenseitigkeit nur anzuwenden,
 4.  wenn sie Ersatzorganisation eines Vereins sind, der aus einem der in
     Nummer 1 oder 2 genannten Gründe verboten wurde.
 
-
-
-
-
 ### § 18 Räumlicher Geltungsbereich von Vereinsverboten
 
 Verbote von Vereinen, die ihren Sitz außerhalb des räumlichen
@@ -587,10 +550,7 @@ innerhalb dieses Bereichs. Hat der Verein im räumlichen
 Geltungsbereich dieses Gesetzes keine Organisation, so richtet sich
 das Verbot (§ 3 Abs. 1) gegen seine Tätigkeit in diesem Bereich.
 
-
 ## Fünfter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 19 Rechtsverordnungen
 
@@ -619,10 +579,6 @@ Bundesrates
     Auskunftspflicht unterwerfen, Vorschriften über Inhalt, Form und
     Verfahren der Anmeldung erlassen und die Auskunftspflicht näher
     regeln.
-
-
-
-
 
 ### § 20 Zuwiderhandlungen gegen Verbote
 
@@ -679,7 +635,6 @@ gilt § 9 Abs. 1 Satz 2, Abs. 2 entsprechend.
 (3) Kennzeichen, auf die sich eine Straftat nach Absatz 1 Nr. 5
 bezieht, können eingezogen werden.
 
-
 ### § 21 Zuwiderhandlungen gegen Rechtsverordnungen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -690,11 +645,9 @@ Tatbestand auf diese Bußgeldvorschrift verweist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausend
 Deutsche Mark geahndet werden.
 
-
 ### (XXXX) §§ 22 bis 29 (weggefallen)
 
 -
-
 
 ### § 30 Aufhebung und Fortgeltung von Rechtsvorschriften
 
@@ -722,10 +675,6 @@ Deutsche Mark geahndet werden.
 5.  die in zwischenstaatlichen Vereinbarungen getroffenen Sonderregelungen
     über Ausländervereine und ausländische Vereine.
 
-
-
-
-
 ### § 31 Übergangsregelungen
 
 (1) Auf vereinsrechtliche Entscheidungen, die vor Inkrafttreten dieses
@@ -749,13 +698,11 @@ in der Fassung des Strafrechtsänderungsgesetzes vom 30. August 1951
 beendet. Gerichtskosten werden nicht erhoben; jede Partei trägt ihre
 außergerichtlichen Kosten.
 
-
 ### § 32 Einschränkung von Grundrechten
 
 Die Grundrechte des Brief- und Postgeheimnisses (Artikel 10 des
 Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ### § 33 Inkrafttreten
 

@@ -15,16 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 74
 
-
 ## § 1 Bevorratung
 
 Zur Sicherung der Energieversorgung werden nach Maßgabe dieses
 Gesetzes Vorräte an Erdöl und Erdölerzeugnissen durch den
 Erdölbevorratungsverband als zentrale Bevorratungsstelle gehalten.
 
-
 ## Erster Abschnitt - Aufgaben des Erdölbevorratungsverbandes
-
 
 ### § 2 Allgemeines
 
@@ -47,7 +44,6 @@ Einzahlungsverpflichtung des Erdölbevorratungsverbandes auf einen
 bestimmten Betrag begrenzt ist. Der Erwerb setzt die Einwilligung des
 Bundesministeriums für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium der Finanzen voraus.
-
 
 ### § 3 Bevorratungspflicht
 
@@ -104,7 +100,6 @@ sind. Übersteigt bei einem Erzeugnis der Masseanteil der Biokraft-
 oder Bioheizstoffe den Masseanteil der mineralölstämmigen
 Erdölerzeugnisse, so ist für die Berechnung der Vorratshöhe nur der
 mineralölstämmige Anteil des Erzeugnisses heranzuziehen.
-
 
 ### § 4 Erfüllung der Bevorratungspflicht
 
@@ -245,7 +240,6 @@ die für ein vorratspflichtiges Unternehmen oder eine sonstige
 vorratspflichtige Stelle eines anderen Staates zur Verfügung gehalten
 werden.
 
-
 ### § 5 Spezifische Vorräte
 
 (1) Das Bundesministerium für Wirtschaft und Technologie kann den
@@ -318,7 +312,6 @@ Spezifikationen oder Verbrauchsstrukturen geschieht.
 gehalten oder transportiert werden, unterliegen weder der Pfändung
 noch sonstigen Maßnahmen der Zwangsvollstreckung.
 
-
 ### § 6 Vorratshaltung
 
 (1) Der Erdölbevorratungsverband erwirbt die zur Erfüllung der
@@ -377,7 +370,6 @@ Zivilprozessordnung ist auf das Vermögen des
 Erdölbevorratungsverbandes mit Ausnahme der spezifischen Vorräte im
 Sinne von § 5 nicht anzuwenden.
 
-
 ### § 7 Delegationen
 
 (1) Der Erdölbevorratungsverband kann zur Erfüllung seiner
@@ -407,7 +399,6 @@ ist § 8 Absatz 2 entsprechend anzuwenden.
 
 (5) Für den Abschluss von Delegationen legt der Beirat auf Vorschlag
 des Vorstandes Richtlinien fest.
-
 
 ### § 8 Übertragung von Aufgaben
 
@@ -444,10 +435,6 @@ folgende Angaben zu enthalten:
 5.  die Angabe, ob es sich um spezifische Vorräte im Sinne des § 5
     handelt.
 
-
-
-
-
 ### § 9 Vorratshaltung für sonstige Vorratspflichtige
 
 (1) Der Erdölbevorratungsverband veröffentlicht fortlaufend
@@ -465,7 +452,6 @@ Zeitplanung, können auch in einem wettbewerblichen Verfahren mit dem
 Ziel der Ermittlung des besten Angebots festgelegt werden. Der
 Erdölbevorratungsverband bietet diese Vorratshaltung unter objektiven,
 transparenten und nicht diskriminierenden Bedingungen an.
-
 
 ### § 10 Vorratshaltung durch Unternehmen für sonstige Vorratspflichtige
 
@@ -491,7 +477,6 @@ weiterübertragen werden.
 (4) Für Vorräte in Freizonen und Zolllagern gilt Absatz 1 erst nach
 Einfuhrabfertigung.
 
-
 ### § 11 Anpassung an die Bevorratungspflicht
 
 (1) Ist für den folgenden Bevorratungszeitraum eine Erhöhung der
@@ -511,9 +496,7 @@ laufenden Kalenderjahr zu berücksichtigen.
 (3) Unbeschadet des § 26 Absatz 1 sind bei Erwerb und Veräußerung von
 Vorräten die Grundsätze eines wettbewerblichen Verfahrens zu beachten.
 
-
 ## Zweiter Abschnitt - Freigabe von Vorräten
-
 
 ### § 12 Freigabe von Vorräten, Verordnungsermächtigungen
 
@@ -609,9 +592,7 @@ Interventionspläne und organisatorische Maßnahmen zur Durchführung
 dieser Pläne verfügbar und unterrichtet über beide die Kommission der
 Europäischen Union auf deren Anfrage.
 
-
 ## Dritter Abschnitt - Mitglieder, Organe und Satzung des Erdölbevorratungsverbandes
-
 
 ### § 13 Mitgliedschaft
 
@@ -671,7 +652,6 @@ Tatbestände des Absatzes 1. Dies gilt auch im Fall des Absatzes 5. Die
 Mitgliedschaft endet mit Ablauf des Kalenderjahres, in dem ein die
 Mitgliedschaft begründender Tatbestand nicht mehr erfüllt wurde.
 
-
 ### § 14 Organe
 
 Organe des Erdölbevorratungsverbandes sind
@@ -683,10 +663,6 @@ Organe des Erdölbevorratungsverbandes sind
 
 
 3.  der Vorstand.
-
-
-
-
 
 ### § 15 Satzung
 
@@ -700,7 +676,6 @@ Rechnungen der Mitglieder getrennt auszuweisen sind.
 
 (3) Die Satzung und ihre Änderungen sind im elektronischen
 Bundesanzeiger bekannt zu machen.
-
 
 ### § 16 Mitgliederversammlung
 
@@ -745,7 +720,6 @@ Prozent der Stimmen der anwesenden oder vertretenen Mitglieder. Der
 Vorstand teilt dem Bundesministerium für Wirtschaft und Technologie
 die Beschlüsse der Mitgliederversammlung mit.
 
-
 ### § 17 Stimmrecht, Verordnungsermächtigung
 
 (1) Jedes Mitglied erhält grundsätzlich eine Stimme. Mitgliedern, die
@@ -765,7 +739,6 @@ arbeitsfähige Mehrheiten zu bilden, Rechnung zu tragen.
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 Einzelheiten des Stimmrechts der Mitglieder nach Maßgabe der Absätze 1
 und 2 festzulegen.
-
 
 ### § 18 Beirat
 
@@ -817,7 +790,6 @@ unparteiisch wahrzunehmen. Sie haben Verschwiegenheit zu wahren,
 soweit ihnen im Rahmen ihrer Aufgaben die Betriebs- und
 Geschäftsgeheimnisse des Erdölbevorratungsverbandes oder seiner
 Mitglieder bekannt werden.
-
 
 ### § 19 Aufgaben des Beirats
 
@@ -875,7 +847,6 @@ des Bundes im Beirat.
 gegenüber den Mitgliedern des Vorstandes gerichtlich und
 außergerichtlich.
 
-
 ### § 20 Ausschüsse des Beirats
 
 (1) Der Beirat kann einen Wirtschaftsausschuss und einen
@@ -896,7 +867,6 @@ ihrer Wirtschaftlichkeit, der Mengenplanung und Lagerung sowie des
 Bestandsauf- und -abbaus.
 
 (4) Der Beirat gibt den Ausschüssen eine Geschäftsordnung.
-
 
 ### § 21 Vorstand
 
@@ -922,7 +892,6 @@ Durchführung eines dem Vorstand obliegenden Geschäftes einigen, so
 kann ein Vorstandsmitglied den Beirat anrufen, der dann die
 Entscheidung trifft.
 
-
 ### § 22 Aufgaben des Vorstandes
 
 (1) Der Vorstand
@@ -943,9 +912,7 @@ Entscheidung trifft.
 (2) Der Vorstand vertritt den Erdölbevorratungsverband gerichtlich und
 außergerichtlich, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
-
 ## Vierter Abschnitt - Beiträge, Wirtschaftsführung
-
 
 ### § 23 Beiträge
 
@@ -1032,7 +999,6 @@ Ausgaben auf die im Geschäftsjahr zu erwartenden Mengen nach Absatz 2.
 (6) Der Beitragssatz wird im elektronischen Bundesanzeiger bekannt
 gemacht.
 
-
 ### § 24 Fälligkeit, Verzinsung und Beitreibung der Beiträge
 
 (1) Die Beitragshöhe ist vom Beitragspflichtigen für jeden Monat zu
@@ -1059,7 +1025,6 @@ Zinssatz ist für jeden Zinstag dieses Monats zugrunde zu legen.
 Vollstreckungsgesetzes beigetrieben. Auf die Verjährung der
 Beitragsforderungen und Erstattungsansprüche ist § 194 ff. des
 Bürgerlichen Gesetzbuchs anzuwenden.
-
 
 ### § 25 Grundsätze der Wirtschaftsführung
 
@@ -1090,7 +1055,6 @@ Finanzierung der Anschaffung von Anlagevermögen kann der
 Erdölbevorratungsverband nach Maßgabe des Wirtschaftsplans Kredite in
 dem Umfang aufnehmen, in dem dies zur Erfüllung seiner nach diesem
 Gesetz übertragenen Aufgaben erforderlich ist.
-
 
 ### § 26 Abschluss von Verträgen, Veränderung von Ansprüchen
 
@@ -1149,7 +1113,6 @@ Schwellenwerte der Einwilligung durch den Beirat. Näheres regelt das
 Finanzstatut. Andere Regelungen in Rechtsvorschriften bleiben
 unberührt.
 
-
 ### § 27 Aufstellung des Wirtschaftsplans
 
 (1) Der Wirtschaftsplan des Erdölbevorratungsverbandes dient der
@@ -1201,7 +1164,6 @@ entsprechend.
 
 (6) Das Nähere regelt das Finanzstatut des Erdölbevorratungsverbandes.
 
-
 ### § 28 Ausführung des Wirtschaftsplans
 
 (1) Der Wirtschaftsplan wird nach den Grundsätzen der
@@ -1229,7 +1191,6 @@ Gesamtausgaben des Finanzplans den jeweiligen Gesamtansatz um mehr als
 27 Absatz 1 bis 5 entsprechend.
 
 (5) Das Nähere regelt das Finanzstatut des Erdölbevorratungsverbandes.
-
 
 ### § 29 Jahresabschluss
 
@@ -1265,7 +1226,6 @@ vorzulegen.
 (4) Der Beirat prüft den Jahresabschluss. Der Beirat berichtet der
 Mitgliederversammlung über das Ergebnis der Prüfung und legt ihr einen
 Vorschlag zur Feststellung des Jahresabschlusses vor.
-
 
 ### § 30 Verwendung von Veräußerungserlösen
 
@@ -1312,9 +1272,7 @@ eine gesonderte Rücklage einzustellen.
 (6) Auf die Veräußerung von Lagereinrichtungen sind die Absätze 1 und
 2 entsprechend anzuwenden.
 
-
 ## Fünfter Abschnitt - Aufsicht
-
 
 ### § 31 Aufsicht
 
@@ -1356,9 +1314,7 @@ von Mitgliedern auch nach Ablauf der Frist nicht erreicht, kann die
 Aufsichtsbehörde Beauftragte bestellen, die die Rechte der fehlenden
 Mitglieder der Organe wahrnehmen.
 
-
 ## Sechster Abschnitt - Auflösung
-
 
 ### § 32 Auflösung
 
@@ -1370,9 +1326,7 @@ bestehenden Verbindlichkeiten des Erdölbevorratungsverbandes.
 (2) Über das Vermögen des Erdölbevorratungsverbandes findet kein
 Insolvenzverfahren statt.
 
-
 ## Siebter Abschnitt - Melde- und Auskunftspflichten; Ordnungswidrigkeiten
-
 
 ### § 33 Meldepflichten der Mitglieder des Erdölbevorratungsverbandes und von Lagerhaltern
 
@@ -1388,7 +1342,6 @@ verpflichtet, dem Erdölbevorratungsverband für jeden Kalendermonat bis
 zum Ende des folgenden Monats schriftlich Angaben über den
 Gebietsfremden, die Abnehmer sowie Art und Menge der Erdölerzeugnisse
 zu machen.
-
 
 ### § 34 Verzeichnis der Vorräte, Meldepflichten
 
@@ -1422,7 +1375,6 @@ erforderlichen Daten.
 
 (4) Der Erdölbevorratungsverband bewahrt das vollständige Verzeichnis
 für jeweils fünf Jahre auf.
-
 
 ### § 35 Monatliche Meldungen der Vorräte
 
@@ -1460,7 +1412,6 @@ aufzuschlüsseln.
 
 (4) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle bewahrt die
 Statistiken und die diesen zugrunde liegenden Daten fünf Jahre auf.
-
 
 ### § 36 Meldungen der spezifischen Vorräte
 
@@ -1515,10 +1466,6 @@ bezieht. Dieser Bericht enthält
     Verwendung dieser Vorräte im Fall von Unterbrechungen der
     Erdölversorgung sichergestellt werden kann.
 
-
-
-
-
 ### § 37 Übrige Meldepflichten
 
 (1) Der Erdölbevorratungsverband übermittelt dem Bundesamt für
@@ -1533,7 +1480,6 @@ Höhe der im Geltungsbereich dieses Gesetzes von Unternehmen gehaltenen
 Bestände, deren Bevorratung mit diesem Gesetz nicht vorgeschrieben
 ist. Es gewährleistet dabei den Schutz sensibler Daten und gibt keine
 Namen von Eigentümern an.
-
 
 ### § 38 Auskunftspflichten, Prüfungsrechte
 
@@ -1649,7 +1595,6 @@ den Beteiligungsgesellschaften des Erdölbevorratungsverbandes während
 der üblichen Betriebs- und Geschäftszeiten über den Betrieb, die
 Bücher und die Schriften der Beteiligungsgesellschaften unterrichten.
 
-
 ### § 39 Mitwirkung der Finanzverwaltung
 
 Die Bundesfinanzbehörden sind berechtigt, die nach § 30 der
@@ -1657,7 +1602,6 @@ Abgabenordnung geschützten Verhältnisse der Betroffenen dem Bundesamt
 für Wirtschaft und Ausfuhrkontrolle und dem Erdölbevorratungsverband
 mitzuteilen, soweit dies erforderlich ist, um die Erfüllung der
 Meldepflichten nach diesem Gesetz zu überwachen.
-
 
 ### § 40 Bußgeldvorschriften
 
@@ -1698,7 +1642,6 @@ zwanzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft
 und Ausfuhrkontrolle.
-
 
 ### § 41 Übergangsvorschrift
 

@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2947
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 und 2 des Truppenzollgesetzes vom 19. Mai
 2009 (BGBl. I S. 1090) verordnet das Bundesministerium der Finanzen:
 
-
 ## Kapitel 1 - Bewilligung der Truppenverwendung nichtberechtigter Personen
-
 
 ### § 1 Bewilligung der Truppenverwendung nach § 3 Absatz 2 des Gesetzes
 
@@ -207,14 +204,12 @@ jeweils geltenden Fassung.
 (11) Taric-Code im Sinne dieser Verordnung ist die Warennomenklatur
 nach Artikel 2 der Verordnung (EWG) Nr. 2658/87.
 
-
 ### § 2 Fristverlängerung
 
 Die in der Bewilligung festgesetzte Frist, innerhalb derer die Waren
 an die ausländischen Streitkräfte oder die Hauptquartiere übergeben
 werden müssen, kann in begründeten Einzelfällen auf Antrag verlängert
 werden.
-
 
 ### § 3 Rückwirkende Bewilligung
 
@@ -258,9 +253,7 @@ In den Fällen, in denen eine rückwirkende Bewilligung erteilt wurde,
 kann eine Zollanmeldung für ungültig erklärt werden, nachdem die Waren
 überlassen worden sind.
 
-
 ## Kapitel 2 - Anmeldung zur Truppenverwendung
-
 
 ### § 4 Verwendung des Einheitspapiers
 
@@ -287,7 +280,6 @@ Titel VII und IX). Für die Codierung der Truppenverwendung als
 vorangegangenes Zollverfahren in
 Feld 37,              erstes Unterfeld, des Einheitspapiers ist als
 Grundelement der Verfahrenscode 99 zu verwenden.
-
 
 ### § 5 Der Zollanmeldung beizufügende Unterlagen
 
@@ -325,7 +317,6 @@ gestellt, kann die Zollstelle ferner die Vorlage einer Liste der
 Packstücke oder eines gleichwertigen Papiers mit Angabe des Inhalts
 jedes Packstücks verlangen.
 
-
 ### § 6 Verzicht auf die Einfuhr-/Erwerbsgenehmigung
 
 (1) Die nach § 4 Absatz 1 Nummer 5 des Gesetzes erforderliche
@@ -347,15 +338,11 @@ endete, ist keine Einfuhr-/Erwerbsgenehmigung erforderlich, wenn die
 von den Behörden der ausländischen Streitkräfte in Deutschland
 ausgestellte Registrierbescheinigung mitgeführt wird.
 
-
 ## Kapitel 3 - Abgabe von Waren in der Truppenverwendung
-
 
 ### Abschnitt 1 - Abgabe durch die ausländischen Streitkräfte und Hauptquartiere
 
-
 #### Unterabschnitt 1 - Abgabe aus dienstlichen Gründen, Abgabenbefreiung
-
 
 ##### § 7 Abgabe von Waren in Verpflegungseinrichtungen
 
@@ -381,7 +368,6 @@ zollrechtlich freien Verkehr angemeldet. Die Zollanmeldung gilt als
 angenommen und die Waren gelten als zum zollrechtlich freien Verkehr
 überlassen. Einfuhrabgaben für diese Waren werden nicht erhoben und
 damit auch nicht buchmäßig erfasst.
-
 
 ##### § 8 Abgabe von Waren an deutsche Mitglieder der Hauptquartiere
 
@@ -459,7 +445,6 @@ gleichgestellt ist die Abgabe an Mitglieder im Sinne des Absatzes 1
 bis zu der in Absatz 1 Nummer 5 bezeichneten Menge gegen besondere
 Gutscheine oder im Rahmen eines Tankkartenverfahrens.
 
-
 ##### § 9 Abgabe von Waren aus anderen dienstlichen Gründen
 
 (1) Die Abgabe von rationierten Waren im Sinne des § 18 des Gesetzes
@@ -486,9 +471,7 @@ besondere Gutscheine oder im Rahmen eines Tankkartenverfahrens ist der
 Lieferung an die ausländischen Streitkräfte oder die Hauptquartiere
 gleichgestellt.
 
-
 #### Unterabschnitt 2 - Abgabe auf Veranstaltungen, Abgabenbefreiung
-
 
 ##### § 10 Öffentliche Veranstaltungen der ausländischen Streitkräfte oder der Hauptquartiere
 
@@ -510,7 +493,6 @@ ausländischen Streitkräften oder Hauptquartieren zur Nutzung
 überlassen sind. Sie werden von den ausländischen Streitkräften oder
 den Hauptquartieren selbst veranstaltet und die deutsche Bevölkerung
 ist eingeladen, ohne dass Eintrittsgelder erhoben werden.
-
 
 ##### § 11 Genehmigungspflicht
 
@@ -569,7 +551,6 @@ angenommen und die Waren gelten als zum zollrechtlich freien Verkehr
 überlassen. Einfuhrabgaben für diese Waren werden nicht erhoben und
 damit auch nicht buchmäßig erfasst.
 
-
 ##### § 12 Sonstige öffentliche Veranstaltungen
 
 (1) Bei öffentlichen Veranstaltungen, zu denen die ausländischen
@@ -604,7 +585,6 @@ angenommen und die Waren gelten als zum zollrechtlich freien Verkehr
 überlassen. Einfuhrabgaben für diese Waren werden nicht erhoben und
 damit auch nicht buchmäßig erfasst.
 
-
 ##### § 13 Nichtöffentliche Veranstaltungen
 
 (1) Bei nichtöffentlichen Veranstaltungen der ausländischen
@@ -622,9 +602,7 @@ angenommen und die Waren gelten als zum zollrechtlich freien Verkehr
 überlassen. Einfuhrabgaben für diese Waren werden nicht erhoben und
 damit auch nicht buchmäßig erfasst.
 
-
 #### Unterabschnitt 3 - Abgabe an nichtberechtigte Personen, die Kinder von Mitgliedern der ausländischen Streitkräfte oder der Hauptquartiere zeitweise betreuen
-
 
 ##### § 14 Erwerb von Einfuhrwaren
 
@@ -672,9 +650,7 @@ gleichgestellt.
 (5) Ein Abdruck der Erlaubnis ist der zuständigen Zollstelle
 zuzusenden.
 
-
 #### Unterabschnitt 4 - Abgabe an versorgungsberechtigte Personen
-
 
 ##### § 15 Versorgungsberechtigte Personen
 
@@ -721,7 +697,6 @@ gleichstellen.
 gleichgestellte Person ist durch eine Bescheinigung der Truppe
 nachzuweisen.
 
-
 ##### § 16 Rechte und Pflichten der versorgungsberechtigten Personen
 
 (1) Personen nach § 15 sind berechtigt, nach Zulassung durch die
@@ -745,7 +720,6 @@ Die zuständige Zollstelle kann die Frist im Einzelfall verlängern.
 Satz zu erheben, der nach § 29 Absatz 2 Nummer 6 der Zollverordnung
 für andere als präferenzberechtigte Waren gilt.
 
-
 ##### § 17 Zulassung als versorgungsberechtigte Person
 
 (1) Die zuständige Zollstelle kann den in § 15 genannten Personen die
@@ -763,9 +737,7 @@ kann die Zulassung bei einem Verstoß gegen § 16 Absatz 3 widerrufen
 werden. Wird die Zulassung zurückgenommen oder widerrufen, ist die
 Bescheinigung nach Absatz 2 zurückzugeben.
 
-
 ### Abschnitt 2 - Abgabe durch die Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere
-
 
 #### § 18 Veräußerungsgenehmigung
 
@@ -783,7 +755,6 @@ Hauptquartiere bei den zuständigen Behörden der ausländischen
 Streitkräfte oder der Hauptquartiere zu beantragen. Der Antrag ist auf
 dem von diesen Behörden dafür vorgesehenen Formblatt zu stellen. § 23
 des Gesetzes gilt sinngemäß.
-
 
 #### § 19 Abgabe von Geschenken, Abgabenbefreiung
 
@@ -848,7 +819,6 @@ angenommen und die Waren gelten als zum zollrechtlich freien Verkehr
 überlassen. Einfuhrabgaben für diese Waren werden nicht erhoben und
 damit auch nicht buchmäßig erfasst.
 
-
 #### § 20 Abgabe auf Flohmärkten, Abgabenbefreiung
 
 (1) Flohmärkte sind öffentliche Veranstaltungen der ausländischen
@@ -874,9 +844,7 @@ angenommen und die Waren gelten als zum zollrechtlich freien Verkehr
 überlassen. Einfuhrabgaben für diese Waren werden nicht erhoben und
 damit auch nicht buchmäßig erfasst.
 
-
 ## Kapitel 4 - Handlungen, die keine zweckwidrige Verwendung darstellen
-
 
 ### § 21 Beförderung von Waren in der Truppenverwendung
 
@@ -893,7 +861,6 @@ Gesetzes).
 Tabakwaren, Alkohol und alkoholhaltige Getränke nur durch gewerbliche
 Unternehmen befördert werden.
 
-
 ### § 22 Lagerung von Waren in der Truppenverwendung
 
 Abweichend von § 17 des Gesetzes dürfen Waren in der Truppenverwendung
@@ -901,7 +868,6 @@ der Mitglieder der ausländischen Streitkräfte oder der Mitglieder der
 Hauptquartiere durch nichtberechtigte Personen im Geltungsbereich des
 Gesetzes verwahrt oder gelagert werden, wenn sich diese Waren im
 mittelbaren Besitz dieser Mitglieder befinden.
-
 
 ### § 23 Unentgeltliches Überlassen von Waren in der Truppenverwendung
 
@@ -923,7 +889,6 @@ Aufenthalt nicht in der Bundesrepublik Deutschland haben.
 (3) Die in den Absätzen 1 und 2 bezeichneten Einfuhrwaren dürfen
 ausschließlich zu privaten Zwecken verwendet werden.
 
-
 ### § 24 Kommissionsgeschäfte über Kraftfahrzeuge
 
 Abweichend von § 17 des Gesetzes dürfen Kraftfahrzeuge in der
@@ -933,9 +898,7 @@ Kommissionsgeschäftes bis zu drei Monate überlassen werden. In diesem
 Rahmen können der Kraftfahrzeughändler und die am Kauf Interessierten
 das Kraftfahrzeug für Probefahrten nutzen.
 
-
 ## Kapitel 5 - Ausnahmen von der Abgabenentstehung, Übersiedlungsgut
-
 
 ### § 25 Geringfügige Pflichtverletzungen
 
@@ -997,7 +960,6 @@ ordnungsgemäße Inanspruchnahme der Truppenverwendung auswirken:
 vorliegt oder nicht alle notwendigen Förmlichkeiten nachträglich
 erfüllt werden, um die Situation der Ware zu bereinigen.
 
-
 ### § 26 Übersiedlungsgut
 
 Einfuhrwaren, die nach § 21 des Gesetzes als Übersiedlungsgut
@@ -1009,9 +971,7 @@ angenommen und die Waren gelten als überlassen. Dies gilt nicht für
 Kraftfahrzeuge, Kraftfahrzeuganhänger, Wasserfahrzeuge und
 Luftfahrzeuge.
 
-
 ## Kapitel 6 - Sonstige Bestimmungen
-
 
 ### § 27 Zuständige Zollstelle
 
@@ -1062,7 +1022,6 @@ Zollstelle zuständig.
 (9) Zuständige Zollstelle für die Anzeige eines Flohmarkts nach § 20
 ist die Zollstelle, in deren Bezirk der Flohmarkt stattfindet.
 
-
 ### § 28 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 382 Absatz 1 Nummer 2 der Abgabenordnung
@@ -1080,10 +1039,6 @@ handelt, wer vorsätzlich oder fahrlässig:
 
 
 4.  entgegen § 20 Absatz 3 eine Einfuhrware abgibt.
-
-
-
-
 
 ### § 29 Inkrafttreten, Außerkrafttreten
 

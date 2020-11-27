@@ -16,16 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1569
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 18 (weggefallen)
-
 
 ## Art 19 Neufassung der betroffenen Gesetze und der Rechtsverordnung, Rückkehr zum einheitlichen Verordnungsrang
 
@@ -37,7 +33,6 @@ bekanntmachen.
 (2) Die auf Artikel 8 beruhenden Teile der Einkommensteuer-
 Durchführungsverordnung 1990 können auf Grund der einschlägigen
 Ermächtigungsgrundlagen durch Rechtsverordnung geändert werden.
-
 
 ## Art 20 Inkrafttreten
 

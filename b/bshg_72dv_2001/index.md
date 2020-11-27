@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 14 G v. 27.12.2003 I 3022
 
-
 ## Eingangsformel
 
 Auf Grund des § 72 Abs. 5 des Bundessozialhilfegesetzes in der Fassung
@@ -27,7 +26,6 @@ zuletzt geändert wurde durch Artikel 1 Nr. 4 des Gesetzes vom 25. Juni
 1999 (BGBl. I S. 1442), in Verbindung mit Artikel 6 Abs. 1 des
 Gesetzes vom 16. Februar 1993 (BGBl. I S. 239), verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Persönliche Voraussetzungen
 
@@ -53,7 +51,6 @@ eines Dritten wesentlich eingeschränkt ist, insbesondere im
 Zusammenhang mit der Erhaltung oder Beschaffung einer Wohnung, mit der
 Erlangung oder Sicherung eines Arbeitsplatzes, mit familiären oder
 anderen sozialen Beziehungen oder mit Straffälligkeit.
-
 
 ## § 2 Art und Umfang der Maßnahmen
 
@@ -117,7 +114,6 @@ Einrichtungen im Sinne von Satz 1; ambulante Maßnahmen nach den §§ 3
 bis 6 werden durch den Aufenthalt in einem Frauenhaus nicht
 ausgeschlossen.
 
-
 ## § 3 Beratung und persönliche Unterstützung
 
 (1) Zur Beratung und persönlichen Unterstützung gehört es vor allem,
@@ -157,7 +153,6 @@ Hilfesuchenden
 gewährt werden, wenn diese Art der Hilfegewährung geeignet ist, den
 Erfolg der Maßnahmen herbeizuführen.
 
-
 ## § 4 Erhaltung und Beschaffung einer Wohnung
 
 (1) Maßnahmen zur Erhaltung und Beschaffung einer Wohnung sind vor
@@ -171,7 +166,6 @@ insbesondere nach § 34.
 (3) Maßnahmen der Gefahrenabwehr lassen den Anspruch auf Hilfe zur
 Überwindung besonderer sozialer Schwierigkeiten bei der Erhaltung und
 Beschaffung einer Wohnung unberührt.
-
 
 ## § 5 Ausbildung, Erlangung und Sicherung eines Arbeitsplatzes
 
@@ -207,10 +201,6 @@ bestreiten.
     Beschäftigungsverhältnisse ermöglichen oder den Aufbau einer
     Lebensgrundlage durch selbständige Tätigkeit fördern.
 
-
-
-
-
 ## § 6 Hilfe zum Aufbau und zur Aufrechterhaltung sozialer Beziehungen und zur Gestaltung des Alltags
 
 Zu den Maßnahmen im Sinne des § 68 Abs. 1 des Zwölften Buches
@@ -237,7 +227,6 @@ Sie umfasst vor allem Maßnahmen der persönlichen Hilfe, die
 
 fördern oder ermöglichen.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden
@@ -245,7 +234,6 @@ sechsten Kalendermonats in Kraft. Gleichzeitig tritt die Verordnung
 zur Durchführung des § 72 des Bundessozialhilfegesetzes vom 9. Juni
 1976 (BGBl. I S. 1469), geändert durch Artikel 4 Abs. 5 des Gesetzes
 vom 16. Februar 1993 (BGBl I S. 239), außer Kraft.
-
 
 ## Schlussformel
 

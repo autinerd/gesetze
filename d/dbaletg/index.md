@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 330
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom
 Vermögen sowie dem dazugehörigen Protokoll vom selben Tag wird
 zugestimmt. Das Abkommen und das Protokoll werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +45,6 @@ Besteuerung in der Bundesrepublik Deutschland und in der Republik
 Lettland insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
-
 
 ## Art 3
 

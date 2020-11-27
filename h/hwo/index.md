@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 5.12.2012 I 2415
 
-
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
 
-
-
 ### Erster Abschnitt - Berechtigung zum selbständigen Betrieb eines zulassungspflichtigen Handwerks
-
-
 
 #### § 1
 
@@ -70,7 +65,6 @@ Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt oder
 Bezeichnungen für sie festsetzt, soweit es die technische und
 wirtschaftliche Entwicklung erfordert.
 
-
 #### § 2
 
 Die Vorschriften dieses Gesetzes für den selbständigen Betrieb eines
@@ -91,10 +85,6 @@ zulassungspflichtigen Handwerks gelten auch
     zulassungspflichtigen Handwerks, der Industrie, des Handels, der
     Landwirtschaft oder sonstiger Wirtschafts- und Berufszweige verbunden
     sind.
-
-
-
-
 
 #### § 3
 
@@ -132,13 +122,6 @@ eines zulassungspflichtigen Handwerks, wenn sie
         Hauptbetrieb selbst hergestellt worden sind oder für die der
         Hauptbetrieb als Hersteller im Sinne des Produkthaftungsgesetzes gilt.
 
-
-
-
-
-
-
-
 #### § 4
 
 (1) Nach dem Tod des Inhabers eines Betriebs dürfen der Ehegatte, der
@@ -156,14 +139,12 @@ zulassungspflichtigen Handwerks oder sein Rechtsnachfolger oder
 sonstige verfügungsberechtigte Nachfolger unverzüglich für die
 Einsetzung eines anderen Betriebsleiters zu sorgen.
 
-
 #### § 5
 
 Wer ein Handwerk nach § 1 Abs. 1 betreibt, kann hierbei auch Arbeiten
 in anderen Handwerken nach § 1 Abs. 1 ausführen, wenn sie mit dem
 Leistungsangebot seines Gewerbes technisch oder fachlich
 zusammenhängen oder es wirtschaftlich ergänzen.
-
 
 #### § 5a
 
@@ -183,17 +164,13 @@ wahrnimmt. Das Bundesministerium für Wirtschaft und Technologie wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 Einzelheiten eines Abrufs im automatisierten Verfahren zu regeln.
 
-
 #### § 5b Verfahren über eine einheitliche Stelle
 
 Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung können über eine
 einheitliche Stelle abgewickelt werden.
 
-
 ### Zweiter Abschnitt - Handwerksrolle
-
-
 
 #### § 6
 
@@ -234,7 +211,6 @@ werden.
 
 (5) Für das Verändern und Sperren der Daten in der Handwerksrolle
 gelten die Datenschutzgesetze der Länder.
-
 
 #### § 7
 
@@ -314,7 +290,6 @@ Satz 1 ist auf Vertriebene, die am 2. Oktober 1990 ihren ständigen
 Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 hatten, anzuwenden.
 
-
 #### § 7a
 
 (1) Wer ein Handwerk nach § 1 betreibt, erhält eine
@@ -325,7 +300,6 @@ sind auch seine bisherigen beruflichen Erfahrungen und Tätigkeiten zu
 berücksichtigen.
 
 (2) § 8 Abs. 2 bis 4 gilt entsprechend.
-
 
 #### § 7b
 
@@ -372,7 +346,6 @@ von der höheren Verwaltungsbehörde nach Anhörung der Handwerkskammer
 zu den Voraussetzungen des Absatzes 1 erteilt. Im Übrigen gilt § 8
 Abs. 3 Satz 2 bis 5 und Abs. 4 entsprechend.
 
-
 #### § 8
 
 (1) In Ausnahmefällen ist eine Bewilligung zur Eintragung in die
@@ -409,7 +382,6 @@ ist. Sie können diese Ermächtigung auf oberste Landesbehörden
 (4) Gegen die Entscheidung steht neben dem Antragsteller auch der
 Handwerkskammer der Verwaltungsrechtsweg offen; die Handwerkskammer
 ist beizuladen.
-
 
 #### § 9
 
@@ -449,7 +421,6 @@ Fällen ist § 1 Abs. 1 nicht anzuwenden.
 keine Anwendung, wenn der selbständige Betrieb im Inland keine
 Niederlassung unterhält.
 
-
 #### § 10
 
 (1) Die Eintragung in die Handwerksrolle erfolgt auf Antrag oder von
@@ -475,7 +446,6 @@ Höhe der für die Ausstellung der Handwerkskarte zu entrichtenden
 Gebühr wird durch die Handwerkskammer mit Genehmigung der obersten
 Landesbehörde bestimmt.
 
-
 #### § 11
 
 Die Handwerkskammer hat dem Gewerbetreibenden die beabsichtigte
@@ -484,14 +454,12 @@ mitzuteilen; gleichzeitig und in gleicher Weise hat sie dies der
 Industrie- und Handelskammer mitzuteilen, wenn der Gewerbetreibende
 dieser angehört.
 
-
 #### § 12
 
 Gegen die Entscheidung über die Eintragung eines der Industrie- und
 Handelskammer angehörigen Gewerbetreibenden in die Handwerksrolle
 steht neben dem Gewerbetreibenden auch der Industrie- und
 Handelskammer der Verwaltungsrechtsweg offen.
-
 
 #### § 13
 
@@ -517,7 +485,6 @@ ist jedem zu erteilen, der ein berechtigtes Interesse glaubhaft
 darlegt, soweit der Betroffene kein schutzwürdiges Interesse an dem
 Ausschluß der Übermittlung hat. § 6 Abs. 4 bis 6 gilt entsprechend.
 
-
 #### § 14
 
 Ein in die Handwerksrolle eingetragener Gewerbetreibender kann die
@@ -528,7 +495,6 @@ Eintragung und nur dann beantragen, wenn sich die Voraussetzungen für
 die Eintragung wesentlich geändert haben. Satz 1 gilt für den Antrag
 der Industrie- und Handelskammer nach § 13 Abs. 2 entsprechend.
 
-
 #### § 15
 
 Ist einem Gewerbetreibenden die Eintragung in die Handwerksrolle
@@ -537,7 +503,6 @@ der Gewerbebetrieb nunmehr Handwerksbetrieb ist, erst nach Ablauf
 eines Jahres seit Eintritt der Unanfechtbarkeit der Ablehnung und nur
 dann beantragen, wenn sich die Voraussetzungen für die Ablehnung
 wesentlich geändert haben.
-
 
 #### § 16
 
@@ -616,7 +581,6 @@ Gewerbetreibende die Entscheidung der Schlichtungskommission für
 rechtswidrig, so entscheidet die oberste Landesbehörde. § 12 gilt
 entsprechend.
 
-
 #### § 17
 
 (1) Die in der Handwerksrolle eingetragenen oder in diese
@@ -656,10 +620,7 @@ Gesetzes ausübt, ist der Anbieter der Telekommunikationsdienstleistung
 verpflichtet, den Handwerkskammern auf Verlangen Namen und Anschrift
 des Anschlußinhabers unentgeltlich mitzuteilen.
 
-
 ### Dritter Abschnitt - Zulassungsfreie Handwerke und handwerksähnliche Gewerbe
-
-
 
 #### § 18
 
@@ -685,7 +646,6 @@ Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt,
 Bezeichnungen für sie festsetzt oder die Gewerbegruppen aufteilt,
 soweit es die technische und wirtschaftliche Entwicklung erfordert.
 
-
 #### § 19
 
 Die Handwerkskammer hat ein Verzeichnis zu führen, in welches die
@@ -694,7 +654,6 @@ handwerksähnlichen Gewerbes nach Maßgabe der Anlage D Abschnitt II zu
 diesem Gesetz mit dem von ihnen betriebenen Gewerbe oder bei Ausübung
 mehrerer Gewerbe mit diesen Gewerben einzutragen sind. § 6 Abs. 2 bis
 5 gilt entsprechend.
-
 
 #### § 20
 
@@ -706,14 +665,9 @@ Voraussetzungen für die Eintragung in das Verzeichnis der Inhaber
 eines Betriebs eines zulassungsfreien oder eines handwerksähnlichen
 Gewerbes vorliegen.
 
-
 ## Zweiter Teil - Berufsbildung im Handwerk
 
-
-
 ### Erster Abschnitt - Berechtigung zum Einstellen und Ausbilden
-
-
 
 #### § 21
 
@@ -738,7 +692,6 @@ vermittelt werden können, gilt als geeignet, wenn diese durch
 Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte vermittelt
 werden.
 
-
 #### § 22
 
 (1) Lehrlinge (Auszubildende) darf nur einstellen, wer persönlich
@@ -757,7 +710,6 @@ Vermittlung von Ausbildungsinhalten erforderlichen beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten besitzt und persönlich
 geeignet ist.
 
-
 #### § 22a
 
 Persönlich nicht geeignet ist insbesondere, wer
@@ -767,10 +719,6 @@ Persönlich nicht geeignet ist insbesondere, wer
 
 2.  wiederholt oder schwer gegen dieses Gesetz oder die auf Grund dieses
     Gesetzes erlassenen Vorschriften und Bestimmungen verstoßen hat.
-
-
-
-
 
 #### § 22b
 
@@ -859,7 +807,6 @@ gilt als Nachweis.
 Voraussetzungen der Absätze 2, 3 und 4 nicht erfüllen, die fachliche
 Eignung nach Anhören der Handwerkskammer widerruflich zuerkennen.
 
-
 #### § 22c
 
 (1) In den Fällen des § 22b Abs. 3 besitzt die für die fachliche
@@ -880,7 +827,6 @@ oder eine Eignungsprüfung ablegt.
 Sie kann die Durchführung von Anpassungslehrgängen und
 Eignungsprüfungen regeln.
 
-
 #### § 23
 
 (1) Die Handwerkskammer hat darüber zu wachen, dass die Eignung der
@@ -897,7 +843,6 @@ Mangel nicht innerhalb der gesetzten Frist beseitigt, so hat die
 Handwerkskammer der nach Landesrecht zuständigen Behörde dies
 mitzuteilen.
 
-
 #### § 24
 
 (1) Die nach Landesrecht zuständige Behörde kann für eine bestimmte
@@ -911,10 +856,7 @@ nicht oder nicht mehr vorliegt.
 (3) Vor der Untersagung sind die Beteiligten und die Handwerkskammer
 zu hören. Dies gilt nicht in den Fällen des § 22a Nr. 1.
 
-
 ### Zweiter Abschnitt - Ausbildungsordnung, Änderung der Ausbildungszeit
-
-
 
 #### § 25
 
@@ -944,7 +886,6 @@ bestehende Berufsausbildungsverhältnisse die bisherigen Vorschriften.
 (5) Das Bundesministerium für Wirtschaft und Technologie informiert
 die Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die
 Abstimmung ein.
-
 
 #### § 26
 
@@ -1019,7 +960,6 @@ Abstimmung ein.
 Im Rahmen der Ordnungsverfahren soll stets geprüft werden, ob
 Regelungen nach Nummer 1, 2 und 4 sinnvoll und möglich sind.
 
-
 #### § 27
 
 Zur Entwicklung und Erprobung neuer Ausbildungsberufe sowie
@@ -1030,7 +970,6 @@ Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf, Ausnahmen von § 25 Abs. 2 und 3
 sowie den §§ 26, 31 und 39 zulassen, die auch auf eine bestimmte Art
 und Zahl von Ausbildungsstätten beschränkt werden können.
-
 
 #### § 27a
 
@@ -1045,7 +984,6 @@ Rechtsverordnung auf oberste Landesbehörden weiter übertragen werden.
 Lehrlinge (Auszubildenden) und Ausbildenden. Der Antrag ist an die
 Handwerkskammer zu richten. Er kann sich auf Teile des
 höchstzulässigen Anrechnungszeitraums beschränken.
-
 
 #### § 27b
 
@@ -1065,7 +1003,6 @@ Vor der Entscheidung nach Satz 1 ist der Ausbildende zu hören.
 Ausbildungszeit kann der Hauptausschuss des Bundesinstituts für
 Berufsbildung Richtlinien erlassen.
 
-
 #### § 27c
 
 Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in
@@ -1076,10 +1013,7 @@ Bildung und Forschung durch Rechtsverordnung für welche verwandte
 Handwerke eine Gesamtausbildungszeit vereinbart werden kann und die
 Dauer der Gesamtausbildungszeit.
 
-
 ### Dritter Abschnitt - Verzeichnis der Berufsausbildungsverhältnisse
-
-
 
 #### § 28
 
@@ -1145,7 +1079,6 @@ Berufsausbildungsvertrag, die nicht nach Absatz 1 oder Absatz 6
 gespeichert sind, nur für die in Absatz 1 genannten Zwecke sowie in
 den Fällen des § 88 Abs. 2 des Berufsbildungsgesetzes übermitteln.
 
-
 #### § 29
 
 (1) Ein Berufsausbildungsvertrag und Änderungen seines wesentlichen
@@ -1175,7 +1108,6 @@ Anmeldung des Auszubildenden zur Zwischenprüfung oder zum ersten Teil
 der Gesellenprüfung zur Einsicht vorgelegt und der Mangel nicht nach §
 23 Abs. 2 behoben wird.
 
-
 #### § 30
 
 (1) Der Ausbildende hat unverzüglich nach Abschluß des
@@ -1192,13 +1124,7 @@ Vertragsinhalts.
 
 2.  die Bestellung von Ausbildern.
 
-
-
-
-
 ### Vierter Abschnitt - Prüfungswesen
-
-
 
 #### § 31
 
@@ -1224,7 +1150,6 @@ ausgewiesen werden.
 
 (4) Die Prüfung ist für den Lehrling (Auszubildenden) gebührenfrei.
 
-
 #### § 32
 
 Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die
@@ -1235,7 +1160,6 @@ beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten
 besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die
 Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
 Ausbildungsordnung ist zugrunde zu legen.
-
 
 #### § 33
 
@@ -1259,7 +1183,6 @@ Dritter, insbesondere berufsbildender Schulen, einholen.
 (4) Im Rahmen der Begutachtung nach Absatz 3 sind die wesentlichen
 Abläufe zu dokumentieren und die für die Bewertung erheblichen
 Tatsachen festzuhalten.
-
 
 #### § 34
 
@@ -1329,7 +1252,6 @@ obersten Landesbehörde festgesetzt wird.
 erforderliche Zahl von Mitgliedern des Prüfungsausschusses nicht
 berufen werden kann.
 
-
 #### § 35
 
 Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und
@@ -1338,7 +1260,6 @@ nicht derselben Mitgliedergruppe angehören. Der Prüfungsausschuß ist
 beschlußfähig, wenn zwei Drittel der Mitglieder, mindestens drei,
 mitwirken. Er beschließt mit der Mehrheit der abgegebenen Stimmen. Bei
 Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
-
 
 #### § 35a
 
@@ -1355,7 +1276,6 @@ Beauftragten sollen nicht derselben Mitgliedergruppe angehören.
 (3) Die nach Absatz 2 beauftragten Mitglieder dokumentieren die
 wesentlichen Abläufe und halten die für die Bewertung erheblichen
 Tatsachen fest.
-
 
 #### § 36
 
@@ -1394,10 +1314,6 @@ in einem anerkannten Ausbildungsberuf, wenn er
 3.  durch Lernortkooperation einen angemessenen Anteil an fachpraktischer
     Ausbildung gewährleistet.
 
-
-
-
-
 #### § 36a
 
 (1) Sofern die Gesellenprüfung in zwei zeitlich auseinander fallenden
@@ -1416,7 +1332,6 @@ Gesellenprüfung teilgenommen hat. Dies gilt nicht, wenn der Lehrling
 Teil der Gesellenprüfung nicht teilgenommen hat. In diesem Fall ist
 der erste Teil der Gesellenprüfung zusammen mit dem zweiten Teil
 abzulegen.
-
 
 #### § 37
 
@@ -1443,7 +1358,6 @@ Verteidigung oder die von ihm bestimmte Stelle bescheinigt, dass der
 Bewerber berufliche Fertigkeiten, Kenntnisse und Fähigkeiten erworben
 hat, welche die Zulassung zur Prüfung rechtfertigen.
 
-
 #### § 37a
 
 (1) Über die Zulassung zur Gesellenprüfung entscheidet der Vorsitzende
@@ -1453,7 +1367,6 @@ für gegeben, so entscheidet der Prüfungsausschuss.
 (2) Auszubildenden, die Elternzeit in Anspruch genommen haben, darf
 bei der Entscheidung über die Zulassung hieraus kein Nachteil
 erwachsen.
-
 
 #### § 38
 
@@ -1473,7 +1386,6 @@ entsprechend § 34 Abs. 2 zusammengesetzt sind.
 (3) Der Hauptausschuss des Bundesinstituts für Berufsbildung erlässt
 für die Prüfungsordnung Richtlinien.
 
-
 #### § 39
 
 (1) Während der Berufsausbildung ist zur Ermittlung des
@@ -1485,7 +1397,6 @@ entsprechend.
 in zwei zeitlich auseinander fallenden Teilen durchgeführt wird,
 findet Absatz 1 keine Anwendung.
 
-
 #### § 39a
 
 (1) Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -1494,7 +1405,6 @@ Ergebnis der Prüfung nach § 31 bleibt unberührt.
 
 (2) § 31 Abs. 3 und 4 sowie die §§ 33 bis 35a und 38 gelten
 entsprechend.
-
 
 #### § 40
 
@@ -1515,7 +1425,6 @@ entsprechenden Zeugnissen über das Bestehen der Gesellenprüfung
 gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-
 #### § 40a
 
 Ausländische Ausbildungsnachweise stehen der Gesellenprüfung im Sinne
@@ -1525,17 +1434,13 @@ entsprechend. Die Vorschriften des
 Berufsqualifikationsfeststellungsgesetzes für nicht reglementierte
 Berufe sowie § 17 sind anzuwenden.
 
-
 ### Fünfter Abschnitt - Regelung und Überwachung der Berufsausbildung
-
-
 
 #### § 41
 
 Soweit Vorschriften nicht bestehen, regelt die Handwerkskammer die
 Durchführung der Berufsausbildung im Rahmen der gesetzlichen
 Vorschriften.
-
 
 #### § 41a
 
@@ -1570,10 +1475,7 @@ abgestimmter Plan erforderlich.
 Jugendarbeitsschutzgesetz Wahrnehmungen mit, die für die Durchführung
 des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
 
-
 ### Sechster Abschnitt - Berufliche Fortbildung, berufliche Umschulung
-
-
 
 #### § 42
 
@@ -1598,10 +1500,6 @@ erlassen (Fortbildungsordnung).
 
 4.  das Prüfungsverfahren.
 
-
-
-
-
 #### § 42a
 
 Soweit Rechtsverordnungen nach § 42 nicht erlassen sind, kann die
@@ -1611,14 +1509,12 @@ Handwerkskammer regelt die Bezeichnung des Fortbildungsabschlusses,
 Ziel, Inhalt und Anforderungen der Prüfungen, ihre
 Zulassungsvoraussetzungen sowie das Prüfungsverfahren.
 
-
 #### § 42b
 
 Sofern die Fortbildungsordnung (§ 42) oder eine Regelung der
 Handwerkskammer (§ 42a) Zulassungsvoraussetzungen vorsieht, sind
 ausländische Bildungsabschlüsse und Zeiten der Berufstätigkeit im
 Ausland zu berücksichtigen.
-
 
 #### § 42c
 
@@ -1634,7 +1530,6 @@ Prüfungsausschuss erfolgreich abgelegt hat und die Anmeldung zur
 Fortbildungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des
 Bestehens der anderen Prüfung erfolgt.
 
-
 #### § 42d
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
@@ -1646,7 +1541,6 @@ entsprechenden Zeugnissen über das Bestehen einer Fortbildungsprüfung
 auf der Grundlage der §§ 42 und 42a gleichstellen, wenn die in der
 Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und
 Fähigkeiten gleichwertig sind.
-
 
 #### § 42e
 
@@ -1674,7 +1568,6 @@ Bundesrates bedarf,
 unter Berücksichtigung der besonderen Erfordernisse der beruflichen
 Erwachsenenbildung bestimmen (Umschulungsordnung).
 
-
 #### § 42f
 
 Soweit Rechtsverordnungen nach § 42e nicht erlassen sind, kann die
@@ -1684,7 +1577,6 @@ Ziel, Inhalt und Anforderungen der Prüfungen, ihre
 Zulassungsvoraussetzungen sowie das Prüfungsverfahren unter
 Berücksichtigung der besonderen Erfordernisse beruflicher
 Erwachsenenbildung.
-
 
 #### § 42g
 
@@ -1696,14 +1588,12 @@ Ausbildungsrahmenplan (§ 26 Abs. 1 Nr. 4) und die
 Prüfungsanforderungen (§ 26 Abs. 1 Nr. 5) zugrunde zu legen. Die §§ 21
 bis 24 gelten entsprechend.
 
-
 #### § 42h
 
 Sofern die Umschulungsordnung (§ 42e) oder eine Regelung der
 Handwerkskammer (§ 42f) Zulassungsvoraussetzungen vorsieht, sind
 ausländische Bildungsabschlüsse und Zeiten der Berufstätigkeit im
 Ausland zu berücksichtigen.
-
 
 #### § 42i
 
@@ -1730,7 +1620,6 @@ Prüfungsausschuss erfolgreich abgelegt hat und die Anmeldung zur
 Umschulungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des
 Bestehens der anderen Prüfung erfolgt.
 
-
 #### § 42j
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
@@ -1743,17 +1632,13 @@ auf der Grundlage der §§ 42e und 42f gleichstellen, wenn die in der
 Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und
 Fähigkeiten gleichwertig sind.
 
-
 ### Siebenter Abschnitt - Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
-
-
 
 #### § 42k
 
 Behinderte Menschen (§ 2 Abs. 1 Satz 1 des Neunten Buches
 Sozialgesetzbuch) sollen in anerkannten Ausbildungsberufen ausgebildet
 werden.
-
 
 #### § 42l
 
@@ -1768,7 +1653,6 @@ Gebärdendolmetscher für hörbehinderte Menschen.
 die Lehrlingsrolle (§ 28) einzutragen. Der behinderte Mensch ist zur
 Gesellenprüfung auch zuzulassen, wenn die Voraussetzungen des § 36
 Abs. 1 Nr. 2 und 3 nicht vorliegen.
-
 
 #### § 42m
 
@@ -1786,13 +1670,11 @@ nachzuweisen.
 
 (2) § 42l Abs. 2 Satz 1 gilt entsprechend.
 
-
 #### § 42n
 
 Für die berufliche Fortbildung und die berufliche Umschulung
 behinderter Menschen gelten die §§ 42k bis 42m entsprechend, soweit
 Art und Schwere der Behinderung dies erfordern.
-
 
 #### § 42o
 
@@ -1810,7 +1692,6 @@ Dritten Buches Sozialgesetzbuch oder anderer vergleichbarer,
 öffentlich geförderter Maßnahmen durchgeführt wird, gelten die §§ 21
 bis 24 entsprechend.
 
-
 #### § 42p
 
 (1) Die Vermittlung von Grundlagen für den Erwerb beruflicher
@@ -1827,7 +1708,6 @@ regelt das Bundesministerium für Bildung und Forschung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie nach Anhörung
 des Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
-
 
 #### § 42q
 
@@ -1847,10 +1727,7 @@ Berufsausbildungsvorbereitung im Rahmen des Dritten Buches
 Sozialgesetzbuch oder anderer vergleichbarer, öffentlich geförderter
 Maßnahmen durchgeführt wird.
 
-
 ### Achter Abschnitt - Berufsbildungsausschuß
-
-
 
 #### § 43
 
@@ -1878,7 +1755,6 @@ Stellvertreter entsprechend.
 (6) Der Berufsbildungsausschuß wählt aus seiner Mitte einen
 Vorsitzenden und dessen Stellvertreter. Der Vorsitzende und sein
 Stellvertreter sollen nicht derselben Mitgliedergruppe angehören.
-
 
 #### § 44
 
@@ -1974,7 +1850,6 @@ Berufsausbildung, soweit sich die Beschlüsse unmittelbar auf die
 Organisation der schulischen Berufsbildung (§ 2 Abs. 1 Nr. 2 des
 Berufsbildungsgesetzes) auswirken.
 
-
 #### § 44a
 
 (1) Der Berufsbildungsausschuß ist beschlußfähig, wenn mehr als die
@@ -1986,7 +1861,6 @@ Gegenstand bei der Einberufung des Ausschusses bezeichnet ist, es sei
 denn, daß er mit Zustimmung von zwei Dritteln der stimmberechtigten
 Mitglieder nachträglich auf die Tagesordnung gesetzt wird.
 
-
 #### § 44b
 
 Der Berufsbildungsausschuß gibt sich eine Geschäftsordnung. Sie kann
@@ -1994,14 +1868,9 @@ die Bildung von Unterausschüssen vorsehen und bestimmen, daß ihnen
 nicht nur Mitglieder des Ausschusses angehören. Für die
 Unterausschüsse gelten § 43 Abs. 2 bis 6 und § 44a entsprechend.
 
-
 ## Dritter Teil - Meisterprüfung, Meistertitel
 
-
-
 ### Erster Abschnitt - Meisterprüfung in einem zulassungspflichtigen Handwerk
-
-
 
 #### § 45
 
@@ -2046,7 +1915,6 @@ schwerpunktübergreifenden Bereich sind die Grundfertigkeiten und
 Grundkenntnisse nachzuweisen, die die fachgerechte Ausübung auch
 dieser Tätigkeiten ermöglichen.
 
-
 #### § 46
 
 (1) Der Prüfling ist von der Ablegung einzelner Teile der
@@ -2081,7 +1949,6 @@ Prüfungsausschuss erfolgreich abgelegt hat.
 (4) Der Meisterprüfungsausschuss entscheidet auf Antrag des Prüflings
 auch über Befreiungen auf Grund ausländischer Bildungsabschlüsse.
 
-
 #### § 47
 
 (1) Die Meisterprüfung wird durch Meisterprüfungsausschüsse
@@ -2104,7 +1971,6 @@ Meisterprüfungsausschüsse nach Anhörung der Handwerkskammer und
 ernennt auf Grund ihrer Vorschläge die Mitglieder und die
 Stellvertreter für längstens fünf Jahre. Die Geschäftsführung der
 Meisterprüfungsausschüsse liegt bei der Handwerkskammer.
-
 
 #### § 48
 
@@ -2139,7 +2005,6 @@ der in diesen Prüfungsgebieten besonders sachkundig ist und dem
 Handwerk nicht anzugehören braucht.
 
 (6) § 34 Abs. 6 Satz 1 und Abs. 7 gelten entsprechend.
-
 
 #### § 49
 
@@ -2194,7 +2059,6 @@ Meisterprüfungsausschusses einholen.
 ausgesprochen. Hält der Vorsitzende die Zulassungsvoraussetzungen
 nicht für gegeben, so entscheidet der Prüfungsausschuß.
 
-
 #### § 50
 
 (1) Die durch die Abnahme der Meisterprüfung entstehenden Kosten trägt
@@ -2212,7 +2076,6 @@ Bewertungssystem, die Erteilung der Prüfungszeugnisse, die Folgen von
 Verstößen gegen die Prüfungsvorschriften und die Wiederholungsprüfung
 regeln.
 
-
 #### § 50a
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
@@ -2223,7 +2086,6 @@ einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken
 gleichstellen, wenn an den Bildungsgang und in den Prüfungen
 gleichwertige Anforderungen gestellt werden. Die Vorschriften des
 Bundesvertriebenengesetzes bleiben unberührt.
-
 
 #### § 50b
 
@@ -2311,7 +2173,6 @@ Ablegen einer Eignungsprüfung verlangen.
 die Vorschriften des Berufsqualifikationsfeststellungsgesetzes über
 reglementierte Berufe sowie § 17 anzuwenden.
 
-
 #### § 51
 
 Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit einem
@@ -2321,10 +2182,7 @@ zulassungspflichtigen Handwerken hinweist, darf nur führen, wer für
 dieses zulassungspflichtige Handwerk oder für diese
 zulassungspflichtigen Handwerke die Meisterprüfung bestanden hat.
 
-
 ### Zweiter Abschnitt - Meisterprüfung in einem zulassungsfreien Handwerk oder in einem handwerksähnlichen Gewerbe
-
-
 
 #### § 51a
 
@@ -2387,7 +2245,6 @@ Bewertungssystem, die Erteilung der Prüfungszeugnisse, die Folgen von
 Verstößen gegen die Prüfungsvorschriften und die Wiederholungsprüfung
 regeln.
 
-
 #### § 51b
 
 (1) Die Handwerkskammer errichtet an ihrem Sitz für ihren Bezirk
@@ -2426,7 +2283,6 @@ anzugehören braucht.
 
 (7) § 34 Abs. 6 Satz 1 und Abs. 7 gilt entsprechend.
 
-
 #### § 51c
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
@@ -2438,7 +2294,6 @@ handwerksähnlichen Gewerbe gleichstellen, wenn an den Bildungsgang und
 in den Prüfungen gleichwertige Anforderungen gestellt werden. Die
 Vorschriften des Bundesvertriebenengesetzes bleiben unberührt.
 
-
 #### § 51d
 
 Die Ausbildungsbezeichnung Meister/Meisterin in Verbindung mit einem
@@ -2446,21 +2301,15 @@ zulassungsfreien Handwerk oder handwerksähnlichen Gewerbe darf nur
 führen, wer die Prüfung nach § 51a Abs. 3 in diesem Handwerk oder
 Gewerbe bestanden hat.
 
-
 #### § 51e
 
 Im Fall der Gleichwertigkeit eines im Ausland erworbenen
 Ausbildungsnachweises mit der Meisterprüfung ist die Gleichwertigkeit
 festzustellen. § 50b gilt entsprechend.
 
-
 ## Vierter Teil - Organisation des Handwerks
 
-
-
 ### Erster Abschnitt - Handwerksinnungen
-
-
 
 #### § 52
 
@@ -2493,12 +2342,10 @@ Soll sich der Innungsbezirk auch auf ein anderes Land erstrecken, so
 kann die Genehmigung nur im Einvernehmen mit den beteiligten obersten
 Landesbehörden erteilt werden.
 
-
 #### § 53
 
 Die Handwerksinnung ist eine Körperschaft des öffentlichen Rechts. Sie
 wird mit Genehmigung der Satzung rechtsfähig.
-
 
 #### § 54
 
@@ -2590,7 +2437,6 @@ gemeinsamen gewerblichen Interessen der Innungsmitglieder durchführen.
 richten sich nach den hierfür geltenden bundesrechtlichen
 Bestimmungen.
 
-
 #### § 55
 
 (1) Die Aufgaben der Handwerksinnung, ihre Verwaltung und die
@@ -2639,10 +2485,6 @@ darüber bestimmt ist, durch die Satzung zu regeln.
 11. die Verwendung des bei der Auflösung der Handwerksinnung verbleibenden
     Vermögens.
 
-
-
-
-
 #### § 56
 
 (1) Die Satzung der Handwerksinnung bedarf der Genehmigung durch die
@@ -2657,10 +2499,6 @@ nimmt.
 2.  die durch die Satzung vorgesehene Begrenzung des Innungsbezirks die
     nach § 52 Abs. 3 Satz 2 erforderliche Genehmigung nicht erhalten hat.
 
-
-
-
-
 #### § 57
 
 (1) Soll in der Handwerksinnung eine Einrichtung der im § 54 Abs. 3
@@ -2674,7 +2512,6 @@ Rechnung zu führen und das hierfür bestimmte Vermögen gesondert von
 dem Innungsvermögen zu verwalten. Das getrennt verwaltete Vermögen
 darf für andere Zwecke nicht verwandt werden. Die Gläubiger haben das
 Recht auf gesonderte Befriedigung aus diesem Vermögen.
-
 
 #### § 58
 
@@ -2700,14 +2537,12 @@ nicht versagt werden.
 (4) Von der Erfüllung der gesetzlichen und satzungsmäßigen Bedingungen
 kann zugunsten einzelner nicht abgesehen werden.
 
-
 #### § 59
 
 Die Handwerksinnung kann Gastmitglieder aufnehmen, die dem Handwerk,
 für das die Innung gebildet ist, beruflich oder wirtschaftlich
 nahestehen. Ihre Rechte und Pflichten sind in der Satzung zu regeln.
 An der Innungsversammlung nehmen sie mit beratender Stimme teil.
-
 
 #### § 60
 
@@ -2720,10 +2555,6 @@ Die Organe der Handwerksinnung sind
 
 
 3.  die Ausschüsse.
-
-
-
-
 
 #### § 61
 
@@ -2801,7 +2632,6 @@ werden.
 (3) Die nach Absatz 2 Nr. 6, 7 und 8 gefaßten Beschlüsse bedürfen der
 Genehmigung durch die Handwerkskammer.
 
-
 #### § 62
 
 (1) Zur Gültigkeit eines Beschlusses der Innungsversammlung ist
@@ -2834,7 +2664,6 @@ der Gründe verlangt; wird dem Verlangen nicht entsprochen oder
 erfordert es das Interesse der Handwerksinnung, so kann die
 Handwerkskammer die Innungsversammlung einberufen und leiten.
 
-
 #### § 63
 
 Stimmberechtigt in der Innungsversammlung sind die Mitglieder der
@@ -2842,13 +2671,11 @@ Handwerksinnung im Sinne des § 58 Abs. 1. Für eine juristische Person
 oder eine Personengesellschaft kann nur eine Stimme abgegeben werden,
 auch wenn mehrere vertretungsberechtigte Personen vorhanden sind.
 
-
 #### § 64
 
 Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlußfassung die
 Vornahme eines Rechtsgeschäfts oder die Einleitung oder Erledigung
 eines Rechtsstreits zwischen ihm und der Handwerksinnung betrifft.
-
 
 #### § 65
 
@@ -2864,7 +2691,6 @@ Ausnahmefällen zulassen.
 
 (3) Die Übertragung und die Übernahme der Rechte bedarf der
 schriftlichen Erklärung gegenüber der Handwerksinnung.
-
 
 #### § 66
 
@@ -2892,7 +2718,6 @@ unentgeltlich; es kann ihnen nach näherer Bestimmung der Satzung
 Ersatz barer Auslagen und eine Entschädigung für Zeitversäumnis
 gewährt werden.
 
-
 #### § 67
 
 (1) Die Handwerksinnung kann zur Wahrnehmung einzelner Angelegenheiten
@@ -2908,7 +2733,6 @@ Streitigkeiten zwischen Ausbildenden und Lehrlingen (Auszubildenden)
 errichten, der für alle Berufsausbildungsverhältnisse der in der
 Handwerksinnung vertretenen Handwerke ihres Bezirks zuständig ist. Die
 Handwerkskammer erläßt die hierfür erforderliche Verfahrensordnung.
-
 
 #### § 68
 
@@ -2984,7 +2808,6 @@ Angelegenheiten, die Gegenstand eines von der Handwerksinnung oder von
 dem Innungsverband abgeschlossenen oder abzuschließenden Tarifvertrags
 sind.
 
-
 #### § 69
 
 (1) Der Gesellenausschuß besteht aus dem Vorsitzenden (Altgesellen)
@@ -3022,12 +2845,10 @@ freizustellen.
 in den für die Bekanntmachung der zuständigen Handwerkskammer
 bestimmten Organen zu veröffentlichen.
 
-
 #### § 70
 
 Berechtigt zur Wahl des Gesellenausschusses sind die bei einem
 Innungsmitglied beschäftigten Gesellen.
-
 
 #### § 71
 
@@ -3048,13 +2869,11 @@ Innungsmitglied beschäftigten Gesellen.
 
 (2) Über die Wahlhandlung ist eine Niederschrift anzufertigen.
 
-
 #### § 71a
 
 Eine kurzzeitige Arbeitslosigkeit läßt das Wahlrecht nach den §§ 70
 und 71 unberührt, wenn diese zum Zeitpunkt der Wahl nicht länger als
 drei Monate besteht.
-
 
 #### § 72
 
@@ -3064,7 +2883,6 @@ Handwerksinnung im Betrieb eines selbständigen Handwerkers verbleiben,
 die Mitgliedschaft noch bis zum Ende der Wahlzeit, jedoch höchstens
 für ein Jahr. Im Falle eintretender Arbeitslosigkeit behalten sie ihr
 Amt bis zum Ende der Wahlzeit.
-
 
 #### § 73
 
@@ -3089,7 +2907,6 @@ und 8 bis 11.
 nach den für die Beitreibung von Gemeindeabgaben geltenden
 landesrechtlichen Vorschriften beigetrieben.
 
-
 #### § 74
 
 Die Handwerksinnung ist für den Schaden verantwortlich, den der
@@ -3098,14 +2915,12 @@ berufener Vertreter durch eine in Ausführung der ihm zustehenden
 Verrichtungen begangene, zum Schadensersatz verpflichtende Handlung
 einem Dritten zufügt.
 
-
 #### § 75
 
 Die Aufsicht über die Handwerksinnung führt die Handwerkskammer, in
 deren Bezirk die Handwerksinnung ihren Sitz hat. Die Aufsicht
 erstreckt sich darauf, daß Gesetz und Satzung beachtet, insbesondere
 daß die der Handwerksinnung übertragenen Aufgaben erfüllt werden.
-
 
 #### § 76
 
@@ -3124,10 +2939,6 @@ Landesinnungsverbands aufgelöst werden,
 3.  wenn die Zahl ihrer Mitglieder so weit zurückgeht, daß die Erfüllung
     der gesetzlichen und satzungsmäßigen Aufgaben gefährdet erscheint.
 
-
-
-
-
 #### § 77
 
 (1) Die Eröffnung des Insolvenzverfahrens über das Vermögen der
@@ -3139,7 +2950,6 @@ gerichtlichen Vergleichsverfahrens zu beantragen. Wird die Stellung
 des Antrags verzögert, so sind die Vorstandsmitglieder, denen ein
 Verschulden zur Last fällt, den Gläubigern für den daraus entstehenden
 Schaden verantwortlich; sie haften als Gesamtschuldner.
-
 
 #### § 78
 
@@ -3157,10 +2967,7 @@ Handwerkskammer. Erstreckt sich der Innungsbezirk auf mehrere
 Handwerkskammerbezirke, so kann die Genehmigung oder Entscheidung nur
 im Einvernehmen mit den beteiligten Handwerkskammern ergehen.
 
-
 ### Zweiter Abschnitt - Innungsverbände
-
-
 
 #### § 79
 
@@ -3179,7 +2986,6 @@ können von der obersten Landesbehörde zugelassen werden.
 Handwerker dem Landesinnungsverband ihres Handwerks als
 Einzelmitglieder beitreten können.
 
-
 #### § 80
 
 Der Landesinnungsverband ist eine juristische Person des privaten
@@ -3190,7 +2996,6 @@ Landesbehörde. Im Falle eines gemeinsamen Landesinnungsverbandes nach
 Landesinnungsverbandes zuständige oberste Landesbehörde im
 Einvernehmen mit den beteiligten obersten Landesbehörden zu erteilen.
 Die Satzung muß den Bestimmungen des § 55 Abs. 2 entsprechen.
-
 
 #### § 81
 
@@ -3212,7 +3017,6 @@ Die Satzung muß den Bestimmungen des § 55 Abs. 2 entsprechen.
 (2) Er ist befugt, Fachschulen und Fachkurse einzurichten oder zu
 fördern.
 
-
 #### § 82
 
 Der Landesinnungsverband kann ferner die wirtschaftlichen und sozialen
@@ -3231,10 +3035,6 @@ Zu diesem Zweck kann er insbesondere
 
 
 3.  Tarifverträge abschließen.
-
-
-
-
 
 #### § 83
 
@@ -3271,7 +3071,6 @@ Gruppe der Einzelmitglieder uneinheitlich abgegeben werden können.
 Mitglieder des Vorstands Personen sein, die nicht von der
 Mitgliederversammlung gewählt sind.
 
-
 #### § 84
 
 Durch die Satzung kann bestimmt werden, daß sich Vereinigungen von
@@ -3281,7 +3080,6 @@ obliegt dem Landesinnungsverband nach Maßgabe der §§ 81 und 82 auch
 die Wahrnehmung der Interessen des handwerksähnlichen Gewerbes. § 83
 Abs. 2 gilt entsprechend für die Vertretung des handwerksähnlichen
 Gewerbes in der Mitgliederversammlung.
-
 
 #### § 85
 
@@ -3294,17 +3092,13 @@ Abschnitts sinngemäß Anwendung. Die nach § 80 erforderliche
 Genehmigung der Satzung und ihrer Änderung erfolgt durch das
 Bundesministerium für Wirtschaft und Technologie.
 
-
 ### Dritter Abschnitt - Kreishandwerkerschaften
-
-
 
 #### § 86
 
 Die Handwerksinnungen, die in einem Stadt- oder Landkreis ihren Sitz
 haben, bilden die Kreishandwerkerschaft. Die Handwerkskammer kann eine
 andere Abgrenzung zulassen.
-
 
 #### § 87
 
@@ -3337,10 +3131,6 @@ Die Kreishandwerkerschaft hat die Aufgabe,
     Vorschriften und Anordnungen durchzuführen; die Handwerkskammer hat
     sich an den hierdurch entstehenden Kosten angemessen zu beteiligen.
 
-
-
-
-
 #### § 88
 
 Die Mitgliederversammlung der Kreishandwerkerschaft besteht aus
@@ -3351,7 +3141,6 @@ Satzung kann bestimmen, daß den Handwerksinnungen entsprechend der
 Zahl ihrer Mitglieder bis höchstens zwei Zusatzstimmen zuerkannt und
 die Stimmen einer Handwerksinnung uneinheitlich abgegeben werden
 können.
-
 
 #### § 89
 
@@ -3384,10 +3173,7 @@ aufgelöst, so wird das Vermögen der Kreishandwerkerschaft in
 entsprechender Anwendung der §§ 47 bis 53 des Bürgerlichen Gesetzbuchs
 liquidiert. § 78 Abs. 2 gilt entsprechend.
 
-
 ### Vierter Abschnitt - Handwerkskammern
-
-
 
 #### § 90
 
@@ -3442,7 +3228,6 @@ Satz 1 geändert, muss eine Vermögensauseinandersetzung erfolgen,
 welche der Genehmigung durch die oberste Landesbehörde bedarf. Können
 sich die beteiligten Handwerkskammern hierüber nicht einigen, so
 entscheidet die oberste Landesbehörde.
-
 
 #### § 91
 
@@ -3542,7 +3327,6 @@ handwerksähnliche Gewerbe berührenden Angelegenheiten gehört werden.
 (4) Absatz 1 Nr. 1, 2 und 7 bis 13 findet auf handwerksähnliche
 Gewerbe entsprechende Anwendung.
 
-
 #### § 92
 
 Die Organe der Handwerkskammer sind
@@ -3554,10 +3338,6 @@ Die Organe der Handwerkskammer sind
 
 
 3.  die Ausschüsse.
-
-
-
-
 
 #### § 93
 
@@ -3588,14 +3368,12 @@ sachverständigen Personen, die auf das Drittel der Gesellen und
 anderer Arbeitnehmer mit einer abgeschlossenen Berufsausbildung
 anzurechnen sind, erfolgt auf Vorschlag der Mehrheit dieser Gruppe.
 
-
 #### § 94
 
 Die Mitglieder der Vollversammlung sind Vertreter des gesamten
 Handwerks und des handwerksähnlichen Gewerbes und als solche an
 Aufträge und Weisungen nicht gebunden. § 66 Abs. 4, § 69 Abs. 4 und §
 73 Abs. 1 gelten entsprechend.
-
 
 #### § 95
 
@@ -3606,7 +3384,6 @@ durchgeführt.
 
 (2) Das Wahlverfahren regelt sich nach der diesem Gesetz als Anlage C
 beigefügten Wahlordnung.
-
 
 #### § 96
 
@@ -3636,10 +3413,6 @@ zu stimmen, nicht besitzen.
 
 3.  wer infolge gerichtlicher oder polizeilicher Anordnung in Verwahrung
     gehalten wird.
-
-
-
-
 
 #### § 97
 
@@ -3695,7 +3468,6 @@ Personengesellschaft gegenseitig anzurechnen.
 handwerksähnlichen Gewerbe und der Personen nach § 90 Abs. 3 und 4
 gelten die Absätze 1 und 2 entsprechend.
 
-
 #### § 98
 
 (1) Berechtigt zur Wahl der Vertreter der Arbeitnehmer in der
@@ -3708,7 +3480,6 @@ Anwendung.
 (2) Kurzzeitig bestehende Arbeitslosigkeit läßt das Wahlrecht
 unberührt, wenn diese zum Zeitpunkt der Wahl nicht länger als drei
 Monate besteht.
-
 
 #### § 99
 
@@ -3724,17 +3495,12 @@ wahlberechtigten Arbeitnehmer im Sinne des § 90 Abs. 2, sofern sie
     die gewöhnlich nur von einem Gesellen oder einem Arbeitnehmer
     ausgeführt werden, der einen Berufsabschluß hat.
 
-
-
-
-
 #### § 100
 
 (1) Die Handwerkskammer prüft die Gültigkeit der Wahl ihrer Mitglieder
 von Amts wegen.
 
 (2) Das Ergebnis der Wahl ist öffentlich bekanntzumachen.
-
 
 #### § 101
 
@@ -3760,10 +3526,6 @@ Handwerkskammer einzulegen. Er kann nur darauf gestützt werden, daß
 
 2.  der Verstoß geeignet war, das Ergebnis der Wahl zu beeinflussen.
 
-
-
-
-
 #### § 102
 
 (1) Der Gewählte kann die Annahme der Wahl nur ablehnen, wenn er
@@ -3784,7 +3546,6 @@ Handwerkskammer geltend gemacht worden sind.
 (3) Mitglieder der Handwerkskammer können nach Vollendung des
 sechzigsten Lebensjahrs ihr Amt niederlegen.
 
-
 #### § 103
 
 (1) Die Wahl zur Handwerkskammer erfolgt auf fünf Jahre. Eine
@@ -3799,7 +3560,6 @@ beschäftigt sind, solange sie im Bezirk der Handwerkskammer
 verbleiben, das Amt noch bis zum Ende der Wahlzeit, jedoch höchstens
 für ein Jahr. Im Falle der Arbeitslosigkeit behalten sie das Amt bis
 zum Ende der Wahlzeit.
-
 
 #### § 104
 
@@ -3824,7 +3584,6 @@ ferner aus dem Amt auszuscheiden, wenn
 (3) Weigert sich das Mitglied auszuscheiden, so ist es von der
 obersten Landesbehörde nach Anhörung der Handwerkskammer seines Amtes
 zu entheben.
-
 
 #### § 105
 
@@ -3888,7 +3647,6 @@ steht oder gesetzlichen Vorschriften zuwiderläuft.
 (4) Die Satzung nach Absatz 1 Satz 1 ist in dem amtlichen Organ der
 für den Sitz der Handwerkskammer zuständigen höheren
 Verwaltungsbehörde bekanntzumachen.
-
 
 #### § 106
 
@@ -3959,12 +3717,10 @@ Die Beschlüsse nach Absatz 1 Nr. 5, 10 bis 12 und 14 sind in den für
 die Bekanntmachungen der Handwerkskammern bestimmten Organen (§ 105
 Abs. 2 Nr. 12) zu veröffentlichen.
 
-
 #### § 107
 
 Die Handwerkskammer kann zu ihren Verhandlungen Sachverständige mit
 beratender Stimme zuziehen.
-
 
 #### § 108
 
@@ -3996,7 +3752,6 @@ obersten Landesbehörde binnen einer Woche anzuzeigen.
 Landesbehörde, daß die darin bezeichneten Personen zur Zeit den
 Vorstand bilden.
 
-
 #### § 109
 
 Dem Vorstand obliegt die Verwaltung der Handwerkskammer; Präsident und
@@ -4004,7 +3759,6 @@ Hauptgeschäftsführer vertreten die Handwerkskammer gerichtlich und
 außergerichtlich. Das Nähere regelt die Satzung, die auch bestimmen
 kann, daß die Handwerkskammer durch zwei Vorstandsmitglieder vertreten
 wird.
-
 
 #### § 110
 
@@ -4014,7 +3768,6 @@ mit besonderen regelmäßigen oder vorübergehenden Aufgaben betrauen. §
 107 findet entsprechende Anwendung.
 
 (2)
-
 
 #### § 111
 
@@ -4042,7 +3795,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 #### § 112
 
 (1) Die Handwerkskammer kann bei Zuwiderhandlungen gegen die von ihr
@@ -4059,7 +3811,6 @@ dem Betroffenen der Verwaltungsrechtsweg offen.
 (4) Das Ordnungsgeld fließt der Handwerkskammer zu. Es wird auf Antrag
 des Vorstands der Handwerkskammer nach Maßgabe des § 113 Abs. 2 Satz 1
 beigetrieben.
-
 
 #### § 113
 
@@ -4145,11 +3896,9 @@ Inanspruchnahme besonderer Einrichtungen oder Tätigkeiten mit
 Genehmigung der obersten Landesbehörde Gebühren erheben. Für ihre
 Beitreibung gilt Absatz 3.
 
-
 #### § 114
 
 (aufgehoben)
-
 
 #### § 115
 
@@ -4168,7 +3917,6 @@ vorzunehmen. Der bisherige Vorstand führt seine Geschäfte bis zum
 Amtsantritt des neuen Vorstands weiter und bereitet die Neuwahl der
 Vollversammlung vor.
 
-
 #### § 116
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
@@ -4176,14 +3924,9 @@ zuständigen Behörden abweichend von § 104 Abs. 3 und § 108 Abs. 6 zu
 bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 übertragen.
 
-
 ## Fünfter Teil - Bußgeld-, Übergangs- und Schlußvorschriften
 
-
-
 ### Erster Abschnitt - Bußgeldvorschriften
-
-
 
 #### § 117
 
@@ -4202,7 +3945,6 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 (2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 1 kann mit einer Geldbuße
 bis zu zehntausend Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 2
 kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
-
 
 #### § 118
 
@@ -4249,7 +3991,6 @@ mit einer Geldbuße bis zu eintausend Euro, die Ordnungswidrigkeiten
 nach Absatz 1 Nr. 3 bis 5 können mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 #### § 118a
 
 Die zuständige Behörde unterrichtet die zuständige Handwerkskammer
@@ -4263,10 +4004,7 @@ Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885,
 1038), in seiner jeweils geltenden Fassung, soweit Gegenstand des
 Verfahrens eine handwerkliche Tätigkeit ist.
 
-
 ### Zweiter Abschnitt - Übergangsvorschriften
-
-
 
 #### § 119
 
@@ -4332,7 +4070,6 @@ abzuschließen.
 für das zu betreibende Handwerk eine Rechtsverordnung nach § 45 noch
 nicht in Kraft getreten ist.
 
-
 #### § 120
 
 (1) Die am 31. Dezember 2003 vorhandene Befugnis zur Einstellung oder
@@ -4344,13 +4081,11 @@ Lehrlingen (Auszubildenden) in einem Gewerbe erworben hat, das in die
 Anlage A zu diesem Gesetz aufgenommen wird, gilt im Sinne des § 22b
 Abs. 1 als fachlich geeignet.
 
-
 #### § 121
 
 Der Meisterprüfung im Sinne des § 45 bleiben die in § 133 Abs. 10 der
 Gewerbeordnung bezeichneten Prüfungen gleichgestellt, sofern sie vor
 Inkrafttreten dieses Gesetzes abgelegt worden sind.
-
 
 #### § 122
 
@@ -4385,7 +4120,6 @@ geltenden fachlichen Vorschriften sind bis zum Inkrafttreten von
 Rechtsverordnungen nach § 25 Abs. 1, § 45 Abs. 1 und § 51a Abs. 1 in
 Verbindung mit Abs. 2 anzuwenden.
 
-
 #### § 123
 
 (1) Beantragt ein Gewerbetreibender, der bis zum 31. Dezember 2003
@@ -4396,7 +4130,6 @@ Prüfung die Bestimmungen der §§ 49 und 50 entsprechend.
 
 (2) Absatz 1 gilt entsprechend für ein Gewerbe, das in die Anlage A
 aufgenommen wird.
-
 
 #### § 124
 
@@ -4423,7 +4156,6 @@ Vermögensauseinandersetzung nach den für sie bisher geltenden
 gesetzlichen Bestimmungen statt. Bei Meinungsverschiedenheiten
 entscheidet die nach dem geltenden Recht zuständige Aufsichtsbehörde.
 
-
 #### § 124a
 
 Verfahren zur Wahl der Vollversammlung von Handwerkskammern, die nach
@@ -4438,7 +4170,6 @@ Jahr verlängert werden, um die Wahl zur Handwerkskammer nach den neuen
 Vorschriften durchzuführen. Die Verlängerung oder Verkürzung der
 Wahlzeiten sind der obersten Landesbehörde anzuzeigen.
 
-
 #### § 124b
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
@@ -4451,15 +4182,11 @@ Handwerkskammern ist jedoch ausgeschlossen. Die Staatsaufsicht nach §
 115 Abs. 1 umfasst im Falle einer Übertragung von Zuständigkeiten nach
 den §§ 7a, 7b, 8 und 9 auch die Fachaufsicht.
 
-
 ### Dritter Abschnitt - Schlußvorschriften
-
-
 
 #### § 125
 
 (Inkrafttreten)
-
 
 #### Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Abs. 2)
 
@@ -4589,10 +4316,6 @@ Nr.
 
 
 41  Mechaniker für Reifen- und Vulkanisationstechnik
-
-
-
-
 
 #### Anlage B Verzeichnis der Gewerbe, die als zulassungsfreie Handwerke oder handwerksähnliche Gewerbe betrieben werden können (§ 18 Abs. 2)
 
@@ -4940,14 +4663,9 @@ Nr.
 
 57  Schlagzeugmacher
 
-
-
-
-
 #### Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)
 
 Text siehe: HwWahlO
-
 
 #### Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung) Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
 
@@ -5168,10 +4886,6 @@ IV. In das Verzeichnis der Unternehmer nach § 90 Abs. 3 und 4 der
     Handwerksordnung mit den nach Abschnitt I Nr. 1 Buchstabe a und c
     geforderten Angaben für natürliche Personen sowie der Zeitpunkt der
     Gewerbeanmeldung eingetragen.
-
-
-
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998)
 

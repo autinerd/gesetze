@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1763, 1774
 
-
-
 ## § 1
 
 -
-
 
 ## § 2
 

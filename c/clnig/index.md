@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 1643
 
-
-
 ## Art 1
 
 (1) Dem in Straßburg am 4. November 1988 von der Bundesrepublik
@@ -29,14 +27,12 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 Übereinkommen enthaltenen Vorschriften innerstaatlich nicht
 unmittelbar anzuwenden sind.
 
-
 ## Art 2
 
 Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung die nach Maßgabe des Artikels 20 des Übereinkommens
 beschlossenen Änderungen der Haftungshöchstbeträge und der
 Rechnungseinheit in Kraft zu setzen.
-
 
 ## Art 3
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1927, 16
 
-
-
 ## (XXXX)
 
 Unter Bezugnahme auf § 23 des Gesetzes zum Schutz der

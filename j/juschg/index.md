@@ -25,10 +25,7 @@ Stand: Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staa
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -78,7 +75,6 @@ und Jugendliche erfolgt, vollzogen wird.
 (5) Die Vorschriften der §§ 2 bis 14 dieses Gesetzes gelten nicht für
 verheiratete Jugendliche.
 
-
 ### § 2 Prüfungs- und Nachweispflicht
 
 (1) Soweit es nach diesem Gesetz auf die Begleitung durch eine
@@ -91,7 +87,6 @@ Berechtigung zu überprüfen.
 sind, haben ihr Lebensalter auf Verlangen in geeigneter Weise
 nachzuweisen. Veranstalter und Gewerbetreibende haben in
 Zweifelsfällen das Lebensalter zu überprüfen.
-
 
 ### § 3 Bekanntmachung der Vorschriften
 
@@ -115,10 +110,7 @@ bei der Ankündigung oder Werbung weder auf jugendbeeinträchtigende
 Inhalte hingewiesen werden noch darf die Ankündigung oder Werbung in
 jugendbeeinträchtigender Weise erfolgen.
 
-
 ## Abschnitt 2 - Jugendschutz in der Öffentlichkeit
-
-
 
 ### § 4 Gaststätten
 
@@ -141,7 +133,6 @@ Kindern und Jugendlichen nicht gestattet werden.
 
 (4) Die zuständige Behörde kann Ausnahmen von Absatz 1 genehmigen.
 
-
 ### § 5 Tanzveranstaltungen
 
 (1) Die Anwesenheit bei öffentlichen Tanzveranstaltungen ohne
@@ -157,7 +148,6 @@ Brauchtumspflege dient.
 
 (3) Die zuständige Behörde kann Ausnahmen genehmigen.
 
-
 ### § 6 Spielhallen, Glücksspiele
 
 (1) Die Anwesenheit in öffentlichen Spielhallen oder ähnlichen
@@ -170,7 +160,6 @@ Schützenfesten, Jahrmärkten, Spezialmärkten oder ähnlichen
 Veranstaltungen und nur unter der Voraussetzung gestattet werden, dass
 der Gewinn in Waren von geringem Wert besteht.
 
-
 ### § 7 Jugendgefährdende Veranstaltungen und Betriebe
 
 Geht von einer öffentlichen Veranstaltung oder einem Gewerbebetrieb
@@ -181,7 +170,6 @@ Jugendlichen die Anwesenheit nicht gestatten darf. Die Anordnung kann
 Altersbegrenzungen, Zeitbegrenzungen oder andere Auflagen enthalten,
 wenn dadurch die Gefährdung ausgeschlossen oder wesentlich gemindert
 wird.
-
 
 ### § 8 Jugendgefährdende Orte
 
@@ -203,7 +191,6 @@ treffen. Wenn nötig, hat sie das Kind oder die jugendliche Person
 
 In schwierigen Fällen hat die zuständige Behörde oder Stelle das
 Jugendamt über den jugendgefährdenden Ort zu unterrichten.
-
 
 ### § 9 Alkoholische Getränke
 
@@ -248,7 +235,6 @@ Marken- oder Phantasienamen oder, soweit nicht vorhanden, wie die
 Verkehrsbezeichnung zu halten und bei Flaschen auf dem Frontetikett
 anzubringen.
 
-
 ### § 10 Rauchen in der Öffentlichkeit, Tabakwaren
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
@@ -266,17 +252,9 @@ angeboten werden. Dies gilt nicht, wenn ein Automat
     sichergestellt ist, dass Kinder und Jugendliche Tabakwaren nicht
     entnehmen können.
 
-
-
-
-
 ## Abschnitt 3 - Jugendschutz im Bereich der Medien
 
-
-
 ### Unterabschnitt 1 - Trägermedien
-
-
 
 #### § 11 Filmveranstaltungen
 
@@ -324,7 +302,6 @@ die Filme nicht gewerblich genutzt werden.
 (5) Werbefilme oder Werbeprogramme, die für Tabakwaren oder
 alkoholische Getränke werben, dürfen unbeschadet der Voraussetzungen
 der Absätze 1 bis 4 nur nach 18 Uhr vorgeführt werden.
-
 
 #### § 12 Bildträger mit Filmen oder Spielen
 
@@ -406,7 +383,6 @@ Vertrieb mit einem deutlich sichtbaren Zeichen anzubringen. Absatz 2
 Satz 1 bis 3 gilt entsprechend. Die Berechtigung nach Satz 1 kann die
 oberste Landesbehörde für einzelne Anbieter ausschließen.
 
-
 #### § 13 Bildschirmspielgeräte
 
 (1) Das Spielen an elektronischen Bildschirmspielgeräten ohne
@@ -440,7 +416,6 @@ freigegeben und gekennzeichnet oder nach § 14 Abs. 7 mit
 
 (3) Auf das Anbringen der Kennzeichnungen auf Bildschirmspielgeräten
 findet § 12 Abs. 2 Satz 1 bis 3 entsprechende Anwendung.
-
 
 #### § 14 Kennzeichnung von Filmen und Film- und Spielprogrammen
 
@@ -522,7 +497,6 @@ weitere Darstellungen in Texten, Bildern oder Tönen, bei denen in
 Betracht kommt, dass sie die Entwicklung oder Erziehung von Kindern
 oder Jugendlichen beeinträchtigen, so sind diese bei der Entscheidung
 über die Kennzeichnung mit zu berücksichtigen.
-
 
 #### § 15 Jugendgefährdende Trägermedien
 
@@ -617,20 +591,14 @@ ist.
 Abgabe an den Handel die Händler auf die Vertriebsbeschränkungen des
 Absatzes 1 Nr. 1 bis 6 hinzuweisen.
 
-
 ### Unterabschnitt 2 - Telemedien
-
-
 
 #### § 16 Sonderregelung für Telemedien
 
 Regelungen zu Telemedien, die in die Liste jugendgefährdender Medien
 nach § 18 aufgenommen sind, bleiben Landesrecht vorbehalten.
 
-
 ## Abschnitt 4 - Bundesprüfstelle für jugendgefährdende Medien
-
-
 
 ### § 17 Name und Zuständigkeit
 
@@ -640,7 +608,6 @@ nach § 18 aufgenommen sind, bleiben Landesrecht vorbehalten.
 (2) Über eine Aufnahme in die Liste jugendgefährdender Medien und über
 Streichungen aus dieser Liste entscheidet die Bundesprüfstelle für
 jugendgefährdende Medien.
-
 
 ### § 18 Liste jugendgefährdender Medien
 
@@ -741,7 +708,6 @@ wenn die zentrale Aufsichtsstelle der Länder für den
 Jugendmedienschutz die Voraussetzungen für die Aufnahme in die Liste
 jugendgefährdender Medien nach Absatz 1 für gegeben hält.
 
-
 ### § 19 Personelle Besetzung
 
 (1) Die Bundesprüfstelle für jugendgefährdende Medien besteht aus
@@ -817,7 +783,6 @@ von zwei Dritteln der an der Entscheidung mitwirkenden Mitglieder der
 Bundesprüfstelle für jugendgefährdende Medien. In der Besetzung des
 Absatzes 5 Satz 2 ist für die Listenaufnahme eine Mindestzahl von
 sieben Stimmen erforderlich.
-
 
 ### § 20 Vorschlagsberechtigte Verbände
 
@@ -959,7 +924,6 @@ kann das Bundesministerium für Familie, Senioren, Frauen und Jugend
 auch mehrere Beisitzerinnen oder Beisitzer und stellvertretende
 Beisitzerinnen oder Beisitzer ernennen; Satz 5 gilt entsprechend.
 
-
 ### § 21 Verfahren
 
 (1) Die Bundesprüfstelle für jugendgefährdende Medien wird in der
@@ -1065,7 +1029,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates die
 gebührenpflichtigen Tatbestände und die Gebührensätze näher zu
 bestimmen. Das Verwaltungskostengesetz findet Anwendung.
 
-
 ### § 22 Aufnahme von periodischen Trägermedien und Telemedien
 
 (1) Periodisch erscheinende Trägermedien können auf die Dauer von drei
@@ -1078,7 +1041,6 @@ und politische Zeitschriften.
 Liste jugendgefährdender Medien aufgenommen werden, wenn innerhalb von
 zwölf Monaten mehr als zwei ihrer Angebote in die Liste aufgenommen
 worden sind. Absatz 1 Satz 2 gilt entsprechend.
-
 
 ### § 23 Vereinfachtes Verfahren
 
@@ -1120,7 +1082,6 @@ werden. Absatz 1 gilt entsprechend. Soweit die vorläufige Anordnung im
 Bundesanzeiger bekannt zu machen ist, gilt dies auch für die
 Verlängerung.
 
-
 ### § 24 Führung der Liste jugendgefährdender Medien
 
 (1) Die Liste jugendgefährdender Medien wird von der oder dem
@@ -1157,7 +1118,6 @@ Einrichtungen der Selbstkontrolle zum Zweck der Aufnahme in
 nutzerautonome Filterprogramme mitteilen. Die Mitteilung darf nur zum
 Zweck der Aufnahme in nutzerautonome Filterprogramme verwandt werden.
 
-
 ### § 25 Rechtsweg
 
 (1) Für Klagen gegen eine Entscheidung der Bundesprüfstelle für
@@ -1179,10 +1139,7 @@ Entscheidung im vereinfachten Verfahren nach § 23 ist jedoch zunächst
 eine Entscheidung der Bundesprüfstelle für jugendgefährdende Medien in
 der Besetzung nach § 19 Abs. 5 herbeizuführen.
 
-
 ## Abschnitt 5 - Verordnungsermächtigung
-
-
 
 ### § 26 Verordnungsermächtigung
 
@@ -1191,10 +1148,7 @@ Zustimmung des Bundesrates Näheres über den Sitz und das Verfahren der
 Bundesprüfstelle für jugendgefährdende Medien und die Führung der
 Liste jugendgefährdender Medien zu regeln.
 
-
 ## Abschnitt 6 - Ahndung von Verstößen
-
-
 
 ### § 27 Strafvorschriften
 
@@ -1256,7 +1210,6 @@ einer jugendlichen Person anbietet, überlässt oder zugänglich macht.
 Dies gilt nicht, wenn die personensorgeberechtigte Person durch das
 Anbieten, Überlassen oder Zugänglichmachen ihre Erziehungspflicht
 gröblich verletzt.
-
 
 ### § 28 Bußgeldvorschriften
 
@@ -1398,10 +1351,7 @@ personensorgeberechtigten Person handelt.
 (5) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 29 Übergangsvorschriften
 
@@ -1410,14 +1360,12 @@ Jahren" gekennzeichneten Filmprogramme für Bildträger findet § 18 Abs.
 8 Satz 1 mit der Maßgabe Anwendung, dass an die Stelle der Angabe "§
 14 Abs. 2 Nr. 1 bis 5" die Angabe "§ 14 Abs. 2 Nr. 1 bis 4" tritt.
 
-
 ### § 29a Weitere Übergangsregelung
 
 Bildträger mit Kennzeichnungen nach § 12 Abs. 1, deren Zeichen den
 Anforderungen des § 12 Abs. 2 Satz 1, aber nicht den Anforderungen des
 § 12 Abs. 2 Satz 2 entsprechen, dürfen bis zum 31. August 2008 in den
 Verkehr gebracht werden.
-
 
 ### § 30 Inkrafttreten, Außerkrafttreten
 

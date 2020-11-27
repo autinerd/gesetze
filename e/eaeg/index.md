@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 9.12.2010 I 1900
 
-
 ## § 1 Begriffsbestimmungen
 
 (1) Institute im Sinne dieses Gesetzes sind
@@ -85,13 +84,11 @@ zurückzuzahlen oder Verbindlichkeiten aus Wertpapiergeschäften zu
 erfüllen und keine Aussicht auf eine spätere Rückzahlung oder
 Erfüllung besteht.
 
-
 ## § 2 Sicherungspflicht der Institute
 
 Die Institute sind verpflichtet, ihre Einlagen und Verbindlichkeiten
 aus Wertpapiergeschäften nach Maßgabe dieses Gesetzes durch
 Zugehörigkeit zu einer Entschädigungseinrichtung zu sichern.
-
 
 ## § 3 Entschädigungsanspruch
 
@@ -178,7 +175,6 @@ Entschädigungseinrichtung verjährt in fünf Jahren.
 (4) Für Streitigkeiten über Grund und Höhe des Entschädigungsanspruchs
 ist der Zivilrechtsweg gegeben.
 
-
 ## § 4 Umfang des Entschädigungsanspruchs
 
 (1) Der Entschädigungsanspruch des Gläubigers des Instituts richtet
@@ -231,7 +227,6 @@ Finanzinstrumente zu gleichen Anteilen den Kontoinhabern zugerechnet.
 
 (6) Hat der Gläubiger für Rechnung eines Dritten gehandelt, ist für
 die Obergrenze nach Absatz 2 auf den Dritten abzustellen.
-
 
 ## § 5 Entschädigungsverfahren
 
@@ -292,7 +287,6 @@ auf Grund derer gegen Personen in einem Strafverfahren wegen
 Geldwäsche im Sinne des Artikels 1 der Richtlinie 2005/60/EG ermittelt
 wird, so kann die Entschädigungseinrichtung die Leistung der
 Entschädigung aussetzen, bis das Verfahren beendet ist.
-
 
 ## § 6 Entschädigungseinrichtungen
 
@@ -371,7 +365,6 @@ erlangt, welche voraussichtlich den Eintritt eines Entschädigungsfalls
 nach sich ziehen, hat sie die Entschädigungseinrichtung, der das
 Institut zugeordnet ist, hiervon zu unterrichten.
 
-
 ## § 7 Beliehene Entschädigungseinrichtungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -414,7 +407,6 @@ Anordnungen treffen, die geeignet und erforderlich sind, diese
 Mißstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen
 gegenüber den Entschädigungseinrichtungen die Auskunfts- und
 Prüfungsrechte nach § 44 Abs. 1 des Gesetzes über das Kreditwesen zu.
-
 
 ## § 8 Mittel der Entschädigungseinrichtungen
 
@@ -569,7 +561,6 @@ nach Abzug der Kosten nach Absatz 1 Satz 3 zur Verfügung stehenden
 Vermögen. Eine beliehene Entschädigungseinrichtung hat dieses Vermögen
 getrennt von ihrem übrigen Vermögen zu halten und zu verwalten.
 
-
 ## § 9 Prüfung der Institute
 
 (1) Die Entschädigungseinrichtung soll zur Einschätzung der Gefahr des
@@ -655,7 +646,6 @@ Absatz 1 oder in sonstiger Weise Kenntnis von Umständen, welche die
 Gefahr des Eintritts des Entschädigungsfalls bei einem Institut
 begründen, hat sie diese unverzüglich der Bundesanstalt mitzuteilen.
 
-
 ## § 10 Prüfung der Entschädigungseinrichtungen
 
 (1) Die Entschädigungseinrichtungen haben nach Ablauf eines
@@ -683,7 +673,6 @@ Bundesanstalt und die Deutsche Bundesbank sind auch auf Anforderung
 über die Angaben nach Absatz 1 Satz 4 zu unterrichten. § 9 des
 Kreditwesengesetzes ist entsprechend anzuwenden.
 
-
 ## § 11 Ausschluß aus der Entschädigungseinrichtung
 
 (1) Erfüllt ein Institut die Beitrags- oder Mitwirkungspflichten nach
@@ -706,7 +695,6 @@ Abs. 1 Satz 2 Nr. 1 des Gesetzes über das Kreditwesen oder zum
 Betreiben von Wertpapiergeschäften gemäß § 1 Abs. 3 weg, haftet die
 Entschädigungseinrichtung nur noch für Verbindlichkeiten des
 Instituts, die vor dem Wegfall begründet wurden.
-
 
 ## § 12 Institutssichernde Einrichtungen
 
@@ -732,7 +720,6 @@ Anforderungen nach Absatz 1 nicht erfüllt. Das Bundesministerium der
 Finanzen kann nach Anhörung der betroffenen institutssichernden
 Einrichtung die Feststellung treffen, daß die Anforderungen nach
 Absatz 1 nicht erfüllt sind.
-
 
 ## § 13 Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
@@ -779,11 +766,9 @@ Zweigniederlassung, die vor Ablauf dieser Frist begründet wurden.
 Bundesanstalt mit den Entschädigungseinrichtungen des Herkunftsstaates
 in den Fällen der Absätze 1 bis 4 zusammen.
 
-
 ## § 14
 
 (weggefallen)
-
 
 ## § 15 Verschwiegenheitspflicht
 
@@ -797,13 +782,11 @@ Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt
 insbesondere nicht vor, wenn Tatsachen an die Bundesanstalt oder die
 Deutsche Bundesbank weitergegeben werden.
 
-
 ## § 16 Nichtanwendung des Versicherungsaufsichtsgesetzes
 
 Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für
 Entschädigungseinrichtungen im Sinne der §§ 6 und 7 und
 institutssichernde Einrichtungen im Sinne des § 12.
-
 
 ## § 17 Bußgeldvorschriften
 
@@ -835,7 +818,6 @@ fünfzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
 ## § 17a Zwangsmittel
 
 (1) Die Entschädigungseinrichtung kann die Befolgung der Verfügungen,
@@ -848,7 +830,6 @@ Vollstreckungsgesetzes durchsetzen.
 fünfzigtausend Euro, bei Maßnahmen nach § 9 Abs. 1 Satz 1 bis zu
 hunderttausend Euro.
 
-
 ## § 18 Zeitlicher Anwendungsbereich
 
 (1) Ein Anspruch auf Entschädigung nach diesem Gesetz besteht für
@@ -860,7 +841,6 @@ aus Wertpapiergeschäften nur, wenn dieser Entschädigungsfall nach dem
 dem 1. November 1998 angemeldet werden. Sofern die Unterrichtung gemäß
 § 5 Abs. 2 vorher erfolgt ist, beginnt die Anmeldefrist gemäß § 5 Abs.
 3 erst ab dem 1. November 1998.
-
 
 ## § 19 Anwendungsbestimmung und Übergangsregelung
 

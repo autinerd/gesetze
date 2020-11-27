@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 8 V v. 26.11.2010 I 1643
 
-
 ## § 1 Ziel und Anwendungsbereich
 
 (1) Ziel der Verordnung ist es, durch Maßnahmen der
@@ -36,7 +35,6 @@ Präventionsmaßnahmen, insbesondere nach dem Arbeitsschutzgesetz und
 dem Gesetz über Betriebsärzte, Sicherheitsingenieure und andere
 Fachkräfte für Arbeitssicherheit (Arbeitssicherheitsgesetz),
 unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -84,10 +82,6 @@ Vorsorgeuntersuchungen, die der Arbeitgeber den Beschäftigten nach §
     nach Beendigung bestimmter Tätigkeiten, bei denen nach längeren
     Latenzzeiten Gesundheitsstörungen auftreten können.
 
-
-
-
-
 ## § 3 Allgemeine Pflichten des Arbeitgebers
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung
@@ -119,7 +113,6 @@ kollektivrechtlichen Vereinbarungen durchgeführt werden, es sei denn,
 betriebliche Gründe erfordern dies; in diesem Falle sind die
 unterschiedlichen Zwecke der Untersuchungen offenzulegen.
 
-
 ## § 4 Pflichtuntersuchungen
 
 (1) Der Arbeitgeber hat nach Maßgabe des Anhangs Pflichtuntersuchungen
@@ -145,7 +138,6 @@ Beschäftigungsverhältnisses hat der Arbeitgeber der betroffenen Person
 eine Kopie der sie betreffenden Angaben auszuhändigen; § 34 des
 Bundesdatenschutzgesetzes bleibt unberührt.
 
-
 ## § 5 Angebotsuntersuchungen
 
 (1) Der Arbeitgeber hat den Beschäftigten Angebotsuntersuchungen nach
@@ -169,7 +161,6 @@ Verpflichtung mit Einwilligung der betroffenen Person auf den
 zuständigen gesetzlichen Unfallversicherungsträger übertragen.
 Voraussetzung dafür ist, dass er dem Unfallversicherungsträger die
 erforderlichen Unterlagen in Kopie überlässt.
-
 
 ## § 6 Pflichten des Arztes oder der Ärztin
 
@@ -202,7 +193,6 @@ Anhaltspunkte für unzureichende Schutzmaßnahmen, so hat der Arzt oder
 die Ärztin dies dem Arbeitgeber mitzuteilen und Schutzmaßnahmen
 vorzuschlagen.
 
-
 ## § 7 Anforderungen an den Arzt oder die Ärztin
 
 (1) Unbeschadet anderer Bestimmungen im Anhang für einzelne
@@ -217,7 +207,6 @@ oder Ärztinnen hinzuzuziehen, die diese Anforderungen erfüllen.
 
 (2) Die zuständige Behörde kann für Ärzte oder Ärztinnen in
 begründeten Einzelfällen Ausnahmen von Absatz 1 Satz 1 zulassen.
-
 
 ## § 8 Maßnahmen bei gesundheitlichen Bedenken
 
@@ -235,7 +224,6 @@ Behörde sind die getroffenen Maßnahmen mitzuteilen.
 (2) Halten die untersuchte Person oder der Arbeitgeber das
 Untersuchungsergebnis für unzutreffend, so entscheidet auf Antrag die
 zuständige Behörde.
-
 
 ## § 9 Ausschuss für Arbeitsmedizin
 
@@ -299,7 +287,6 @@ diesen in der Sitzung das Wort zu erteilen.
 (6) Die Geschäfte des Ausschusses führt die Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin.
 
-
 ## § 10 Ordnungswidrigkeiten und Straftaten
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
@@ -325,7 +312,6 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung Leben
 oder Gesundheit eines oder einer Beschäftigten gefährdet, ist nach §
 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
-
 
 ## Anhang Arbeitsmedizinische Pflicht- und Angebotsuntersuchungen sowie weitere Maßnahmen der arbeitsmedizinischen Vorsorge
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 470
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 3 des Fremdrentengesetzes in der im
@@ -25,11 +23,9 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 824-2, veröffentlichten
 bereinigten Fassung, verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -45,18 +41,15 @@ Versicherungszeiten.
 (2) Leistungen sind frühestens für Zeiten vom Inkrafttreten der
 Verordnung an zu gewähren.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 7 § 1 des Fremdrenten- und Auslandsrenten-
 Neuregelungsgesetzes auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1978 in Kraft.
-
 
 ## Schlußformel
 

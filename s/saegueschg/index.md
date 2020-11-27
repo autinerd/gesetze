@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 336
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1
 
@@ -30,7 +27,6 @@ Dieses Gesetz dient der Durchführung von Artikel 6 der Verordnung
 Übermittlung von unter die Geheimhaltungspflicht fallenden
 Informationen an das Statistische Amt der Europäischen Gemeinschaften
 (ABl. EG Nr. L 151 S. 1).
-
 
 ## § 2
 
@@ -46,7 +42,6 @@ Dienststelle der Europäischen Gemeinschaften bekanntgeworden, wird die
 Tat nach § 353b StGB nur verfolgt, wenn ein Strafverlangen der
 Kommission der Europäischen Gemeinschaften vorliegt und die
 Bundesregierung die Ermächtigung zur Strafverfolgung erteilt.
-
 
 ## § 3
 

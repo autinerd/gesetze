@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 421
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -58,22 +55,18 @@ dem 1. Januar 1956 liegenden Zeitpunkt an gewährt werden, ist
 14\. Juni 1956 (Bundesgesetzbl. I S. 507)              entsprechend
 anzuwenden.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch in Berlin (West).
 
-
 ## Art 5
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ## Art 6
 

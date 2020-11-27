@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 537
 
-
 ## § 1 Gewährleistungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt,
@@ -47,7 +46,6 @@ nicht aus zwingenden Gründen eine Ausnahme geboten ist. Der
 Haushaltsausschuss des Deutschen Bundestages ist darüber hinaus
 vierteljährlich über die übernommenen Gewährleistungen und die
 ordnungsgemäße Verwendung zu unterrichten.
-
 
 ## § 2 Inkrafttreten
 

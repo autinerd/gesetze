@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 17.7.2012 I 1539
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der
@@ -27,10 +26,7 @@ durch Artikel 8 des Gesetzes vom 27. April 1993 (BGBl. I S. 512) in
 Verbindung mit Artikel 1 Nr. 1 des Gesetzes vom 27. September 1993
 (BGBl. I S. 1666), verordnet das Bundesministerium für Gesundheit:
 
-
 ## Erster Abschnitt - Die ärztliche Ausbildung
-
-
 
 ### § 1 Ziele und Gliederung der ärztlichen Ausbildung
 
@@ -124,7 +120,6 @@ sechs Jahre und drei Monate.
 Die in § 27 genannten Fächer und Querschnittsbereiche werden von der
 Universität zwischen dem Ersten Abschnitt der Ärztlichen Prüfung und
 dem Beginn des Praktischen Jahres geprüft.
-
 
 ### § 2 Unterrichtsveranstaltungen
 
@@ -265,7 +260,6 @@ berücksichtigt zu werden.
 (9) Lehrveranstaltungen sind regelmäßig auf ihren Erfolg zu
 evaluieren. Die Ergebnisse sind bekannt zu geben.
 
-
 ### § 3 Praktisches Jahr
 
 (1) Das Praktische Jahr nach § 1 Abs. 2 Satz 1 Nr. 1 beginnt nicht vor
@@ -347,7 +341,6 @@ Ableistung des Praktischen Jahres (Absatz 5) nicht bestätigt, so
 entscheidet die zuständige Stelle des Landes, ob der
 Ausbildungsabschnitt ganz oder teilweise zu wiederholen ist.
 
-
 ### § 4 Durchführung des Praktischen Jahres in außeruniversitären Einrichtungen
 
 (1) Sofern das Praktische Jahr nach § 3 Abs. 1 in Verbindung mit § 3
@@ -378,7 +371,6 @@ Praxen und anderen Einrichtungen der ambulanten ärztlichen
 Krankenversorgung nach § 3 Abs. 2 legen die Universitäten die
 Anforderungen im Einvernehmen mit der nach Landesrecht zuständigen
 Stelle fest.
-
 
 ### § 5 Ausbildung in erster Hilfe
 
@@ -419,7 +411,6 @@ insbesondere:
 
 (3) Die Teilnahme an einer Ausbildung in erster Hilfe ist bei der
 Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen.
-
 
 ### § 6 Krankenpflegedienst
 
@@ -472,7 +463,6 @@ Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen. In den Fällen
 des Absatzes 1 erfolgt der Nachweis durch eine Bescheinigung nach
 Anlage 5 zu dieser Verordnung.
 
-
 ### § 7 Famulatur
 
 (1) Die Famulatur hat den Zweck, die Studierenden mit der ärztlichen
@@ -507,16 +497,12 @@ Sie ist bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
 in den Fällen des Absatzes 2 durch Bescheinigungen nach dem Muster der
 Anlage 6 zu dieser Verordnung nachzuweisen.
 
-
 ## Zweiter Abschnitt - Allgemeine Prüfungsbestimmungen
-
-
 
 ### § 8 Einrichtung der für das Prüfungswesen zuständigen Stelle
 
 Die in § 1 Abs. 2 Satz 1 Nr. 5 vorgesehenen Prüfungen werden vor der
 nach Landesrecht zuständigen Stelle abgelegt.
-
 
 ### § 9 Zuständige Stelle
 
@@ -534,7 +520,6 @@ nicht bestanden worden ist. Ausnahmen können zugelassen werden. Die
 Entscheidung trifft die zuständige Stelle des Landes, bei der nunmehr
 die Zulassung beantragt wird, im Benehmen mit der nach Satz 1, 2 oder
 3 zuvor zuständigen Stelle.
-
 
 ### § 10 Meldung und Zulassung zur Prüfung
 
@@ -629,7 +614,6 @@ Arzt verlangen. Die besonderen Belange behinderter Prüflinge sind zur
 Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ### § 11 Versagung der Zulassung
 
 Die Zulassung ist zu versagen, wenn
@@ -655,10 +639,6 @@ Die Zulassung ist zu versagen, wenn
     Prüfungsteilnahme nicht erwarten lässt oder zur Versagung der
     Approbation als Arzt wegen Fehlens einer der Voraussetzungen des § 3
     Abs. 1 Satz 1 Nr. 2 und 3 der Bundesärzteordnung führen würde.
-
-
-
-
 
 ### § 12 Anrechnung von Studienzeiten und Studienleistungen
 
@@ -693,7 +673,6 @@ Universität im Inland noch nicht erlangt haben, ist die zuständige
 Stelle des Landes zuständig, in dem der Antragsteller geboren ist.
 Ergibt sich hiernach keine Zuständigkeit, so ist die zuständige Stelle
 des Landes Nordrhein-Westfalen zuständig.
-
 
 ### § 13 Art und Bewertung der Prüfung
 
@@ -749,8 +728,12 @@ als Erster Abschnitt der Ärztlichen Prüfung angerechnet worden ist.
 Die Anrechnung ist auf dem Zeugnis über die Ärztliche Prüfung nach dem
 Muster der Anlage 12 zu dieser Verordnung zu vermerken.
 
+<<<<<<< HEAD
 
 ### § 14 Schriftliche Prüfung
+=======
+### § 14 Schriftliche Prüfungen
+>>>>>>> origin/fixes
 
 (1) In der schriftlichen Prüfung hat der Prüfling unter Aufsicht
 schriftlich gestellte Aufgaben zu lösen. Er hat dabei anzugeben,
@@ -872,8 +855,12 @@ anzugeben
 mit, welche Prüflinge den Ersten Abschnitt der Ärztlichen Prüfung
 bestanden haben.
 
+<<<<<<< HEAD
 
 ### § 15 Mündlich-praktische Prüfung
+=======
+### § 15 Mündlich-praktische Prüfungen
+>>>>>>> origin/fixes
 
 (1) Der mündlich-praktische Teil des Ersten und Zweiten Abschnitts der
 Ärztlichen Prüfung wird jeweils vor einer Prüfungskommission abgelegt.
@@ -954,7 +941,6 @@ Vertreter sollen Hochschullehrer sein. Die Universitäten stellen
 sicher, dass die mündlich-praktischen Prüfungen den Anforderungen nach
 dieser Verordnung entsprechen.
 
-
 ### § 16 Prüfungstermine
 
 (1) Der schriftliche Teil der Prüfung wird für den Ersten Abschnitt
@@ -973,13 +959,11 @@ Prüfungstermine durchgeführt. Für Nach- und Wiederholungen mündlich-
 praktischer Prüfungen können Prüfungstermine auch außerhalb der in
 Absatz 1 Satz 2 genannten Prüfungszeiten vorgesehen werden.
 
-
 ### § 17 Ladung zu den Prüfungsterminen
 
 Die Ladung zur schriftlichen Prüfung wird dem Prüfling spätestens
 sieben, die Ladung zur mündlich-praktischen Prüfung spätestens fünf
 Kalendertage vor dem Prüfungstermin zugestellt.
-
 
 ### § 18 Rücktritt von der Prüfung
 
@@ -998,7 +982,6 @@ unterlässt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt der Prüfungsabschnitt oder
 Prüfungsteil als nicht bestanden.
 
-
 ### § 19 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er die
@@ -1011,7 +994,6 @@ nicht unternommen.
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft
 die nach Landesrecht zuständige Stelle. § 18 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
-
 
 ### § 20 Wiederholung von Prüfungen
 
@@ -1036,7 +1018,6 @@ Demokratischen Republik endgültig nicht bestanden worden ist und die
 Bundesrepublik Deutschland nicht vor dem 3. Oktober 1990 aufgenommen
 wurde.
 
-
 ### § 21 Nichtbestehen der Prüfung
 
 (1) Ist der Zweite Abschnitt der Ärztlichen Prüfung ganz oder
@@ -1054,14 +1035,9 @@ Mitteilung an den Prüfling hat den Hinweis zu enthalten, dass er auch
 nach einem erneuten Studium der Medizin zu der Prüfung nicht mehr
 zugelassen werden kann.
 
-
 ## Dritter Abschnitt - Die Ärztliche Prüfung
 
-
-
 ### Erster Unterabschnitt - Der Erste Abschnitt der Ärztlichen Prüfung
-
-
 
 #### § 22 Inhalt des Ersten Abschnitts der Prüfung
 
@@ -1100,7 +1076,6 @@ Grundlagen ist im schriftlichen und mündlich-praktischen Teil in
 Verbindung mit klinischen Fragestellungen auf die medizinisch
 relevanten Ausbildungsinhalte zu konzentrieren.
 
-
 #### § 23 Schriftliche Aufsichtsarbeit
 
 (1) Die Prüfung findet an zwei aufeinander folgenden Tagen statt. Die
@@ -1112,7 +1087,6 @@ Stoffgebiete III und IV.
 ihre Verteilung auf die einzelnen Stoffgebiete ergeben sich aus der
 Anlage 9 zu dieser Verordnung. Die Fragen müssen auf den in der Anlage
 10 zu dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
-
 
 #### § 24 Mündlich-praktischer Teil der Prüfung
 
@@ -1142,7 +1116,6 @@ nach § 22 Abs. 2 vertraut gemacht hat, insbesondere
 praktische Aufgaben stellen und ihm aufgeben, deren Ergebnisse bei der
 Prüfung mündlich oder mittels Vorlage eines schriftlichen Berichts
 darzulegen und zu begründen.
-
 
 #### § 25 Bewertung der Prüfungsleistungen
 
@@ -1176,17 +1149,13 @@ errechnet. Die Note lautet
 
 wenn die Prüfung nach § 13 Abs. 3 bestanden ist.
 
-
 #### § 26 Zeugnis
 
 Über das Bestehen des Ersten Abschnitts der Ärztlichen Prüfung wird
 ein Zeugnis nach dem Muster der Anlage 11 zu dieser Verordnung
 erteilt.
 
-
 ### Zweiter Unterabschnitt - Zweiter Abschnitt der Ärztlichen Prüfung
-
-
 
 #### § 27 Zulassung zum Zweiten Abschnitt der Ärztlichen Prüfung
 
@@ -1370,7 +1339,6 @@ entsprechend. Die Noten der Leistungsnachweise werden auf dem Zeugnis
 nach dem Muster der Anlage 12 zu dieser Verordnung gesondert
 ausgewiesen.
 
-
 #### § 28 Inhalt des Zweiten Abschnitts der Prüfung
 
 (1) Dem Prüfling sind praktische Aufgaben aus den klinisch-praktischen
@@ -1431,10 +1399,6 @@ nachzuweisen, dass er
     und Betreuung auch bei chronisch und unheilbar Kranken sowie
     Sterbenden fähig ist.
 
-
-
-
-
 #### § 29 Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung beinhaltet die Kenntnisse und
@@ -1465,7 +1429,6 @@ bearbeitenden Fragen beträgt 320. Die Aufgaben müssen auf die in
 Absatz 1 festgelegten Anforderungen und auf den in der Anlage 15 zu
 dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
-
 #### § 30 Mündlich-praktischer Teil der Prüfung
 
 (1) Die mündlich-praktische Prüfung findet an zwei Tagen statt. Sie
@@ -1487,19 +1450,16 @@ einem Mitglied der Prüfungskommission gegenzuzeichnen und beim
 Prüfungstermin vorzulegen. Er ist Gegenstand der Prüfung und in die
 Bewertung einzubeziehen.
 
-
 #### § 31 Bewertung der Prüfungsleistungen
 
 Für die Ermittlung der Note für den bestandenen Zweiten Abschnitt der
 Ärztlichen Prüfung gilt § 25 entsprechend.
-
 
 #### § 32 Zeugnis
 
 Über das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung wird
 ein Zeugnis nach dem Muster der Anlage 12 zu dieser Verordnung
 erteilt.
-
 
 #### § 33 Gesamtnote und Zeugnis für die Ärztliche Prüfung
 
@@ -1536,39 +1496,29 @@ errechnet. Sie lautet:
 (2) Über das Bestehen der Ärztlichen Prüfung wird ein Zeugnis nach dem
 Muster der Anlage 12 zu dieser Verordnung erteilt.
 
-
 ## Vierter Abschnitt - Tätigkeit als Arzt im Praktikum
-
-
 
 ### § 34
 
 (weggefallen)
 
-
 ### § 35
 
 (weggefallen)
-
 
 ### § 36
 
 (weggefallen)
 
-
 ### § 37
 
 (weggefallen)
-
 
 ### § 38
 
 (weggefallen)
 
-
 ## Fünfter Abschnitt - Die Approbation
-
-
 
 ### § 39 Antrag auf Approbation
 
@@ -1641,7 +1591,6 @@ Bundesärzteordnung binnen eines Monats nach Eingang des Antrags den
 Antragseingang und den Empfang der Unterlagen und teilt ihm mit,
 welche Unterlagen fehlen.
 
-
 ### § 40 Approbationsurkunde
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 14 zu dieser
@@ -1649,10 +1598,7 @@ Verordnung ausgestellt. Sie ist dem Antragsteller gegen
 Empfangsbekenntnis auszuhändigen oder mit Zustellungsurkunde
 zuzustellen.
 
-
 ## Sechster Abschnitt - Modellstudiengang
-
-
 
 ### § 41 Modellstudiengang
 
@@ -1750,10 +1696,7 @@ Note für den Zweiten Abschnitt der Ärztlichen Prüfung die
 Ersten Abschnitt der Ärztlichen Prüfung gleichwertigen Prüfungen
 getrennt aufgeführt werden.
 
-
 ## Siebenter Abschnitt - Übergangsregelungen
-
-
 
 ### § 42 Anwendung bisherigen Rechts
 
@@ -1763,7 +1706,6 @@ des Gesetzes vom 27. April 2002 (BGBl. I S. 1467), findet, soweit in
 den nachfolgenden Vorschriften nichts Abweichendes bestimmt ist,
 Anwendung für Studierende, die vor dem 1. Oktober 2003 ihr Studium der
 Medizin bereits aufgenommen haben.
-
 
 ### § 43 Abweichende Regelungen für die Prüfungen
 
@@ -1879,10 +1821,7 @@ entsprechend.
 (8) Der Zweite Abschnitt der Ärztlichen Prüfung nach § 1 Abs. 3 Satz 1
 Nr. 2 wird ab dem 1. Oktober 2006 durchgeführt.
 
-
 ## Achter Abschnitt - Schlussbestimmungen
-
-
 
 ### § 44 Inkrafttreten, Außerkrafttreten
 
@@ -1894,11 +1833,9 @@ Approbationsordnung für Ärzte in der Fassung der Bekanntmachung vom
 14\. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel 8 des
 Gesetzes vom 27. April 2002 (BGBl. I S. 1467), außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9) Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
 
@@ -1967,7 +1904,6 @@ III. Praktikum der medizinischen Terminologie
 
 mit einer Gesamtstundenzahl von insgesamt mindestens 630 Stunden.
 
-
 ### Anlage 2 (zu § 2 Abs. 7 Satz 1) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2421;
@@ -2015,9 +1951,7 @@ Ort, Datum
 
 2)  Soweit vorgesehen.
 
-
-
-
+<<<<<<< HEAD
 
 ### Anlage 2a (zu § 2 Absatz 7 Satz 1) Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
 
@@ -2201,9 +2135,6 @@ Veranstaltungen regelmäßig besucht:
 *    *
 
 *    *   (Unterschrift Studiendekan)
-
-
-
 
 ### Anlage 2b (zu § 2 Absatz 7 Satz 1) Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
 
@@ -2673,6 +2604,8 @@ Ergebnissen erbracht:
 
 
 
+=======
+>>>>>>> origin/fixes
 ### Anlage 3 (zu § 2 Abs. 8 Satz 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2422
@@ -2908,10 +2841,6 @@ angeboten werden, insbesondere in Betracht:
 
 *    *   - Visceralchirurgie
 
-
-
-
-
 ### Anlage 4 (zu § 3 Absatz 5, § 10 Absatz 5) Bescheinigung über das Praktische Jahr
 
 (Fundstelle: BGBl. I 2012, 1549)
@@ -3011,9 +2940,6 @@ Fehlzeiten:
 
 *    *   (Unterschrift der für die Ausbildung verantwortlichen Ärzte)
 
-
-
-
 ### Anlage 5 (zu § 6 Abs. 4 Satz 2) Zeugnis über den Krankenpflegedienst
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2424)
@@ -3051,7 +2977,6 @@ Name des Krankenhauses
 .........
 (Unterschrift des Leiters des Pflegedienstes)
 
-
 ### Anlage 6 (zu § 7 Abs. 4 Satz 2) Zeugnis über die Tätigkeit als Famulus
 
 (Fundstelle: BGBl. I 2002, 2425; bzgl. einzelner Änderungen vgl.
@@ -3082,7 +3007,6 @@ bis zum ...................................
 Einrichtung, bei             ausbildenden
 öffentlicher Stelle          Arztes/Ärzte
 Siegel)
-
 
 ### Anlage 7 (zu § 15 Abs. 8, § 41 Abs. 2 Nr. 9) Niederschrift über den mündlich-praktischen Teil des Ersten Abschnitts der Ärztlichen Prüfung
 
@@ -3137,7 +3061,6 @@ Sonstige Bemerkungen:
 Vorsitzenden der
 Mitglieds/der weiteren Mitglieder      Prüfungskommission)
 der Prüfungskommission)
-
 
 ### Anlage 8 (zu § 15 Abs. 8) Niederschrift über den mündlich-praktischen Teil des Zweiten Abschnitts der Ärztlichen Prüfung
 
@@ -3197,7 +3120,6 @@ Sonstige Bemerkungen:
 Vorsitzenden der
 Mitglieder der Prüfungskommission)     Prüfungskommission)
 
-
 ### Anlage 9 (zu § 23 Abs. 2 Satz 1, § 41 Abs. 2 Nr. 9) Anzahl und Verteilung der Prüfungsfragen im Ersten Abschnitt der Ärztlichen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2428
@@ -3237,10 +3159,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 2428
 
 *    *
     *   60 Fragen
-
-
-
-
 
 ### Anlage 10 (zu § 23 Abs. 2 Satz 2, § 41 Abs. 2 Nr. 9) Prüfungsstoff für den Ersten Abschnitt der Ärztlichen Prüfung
 
@@ -3325,10 +3243,6 @@ IV. Grundlagen der Medizinischen Psychologie und der Medizinischen
     Gesundheitswesens. Grundlagen psychologischer und soziologischer
     Methodik.
 
-
-
-
-
 ### Anlage 11 (zu § 2 Abs. 8, § 26, § 41 Abs. 2 Nr. 9)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2430)
@@ -3363,7 +3277,6 @@ Siegel oder Stempel
 .................., den ........................
 ................................................
 (Unterschrift)
-
 
 ### Anlage 12 (zu § 2 Abs. 8 Satz 4, § 13 Abs. 4, § 27 Abs. 5 Satz 3, § 32, § 33 Abs. 2, § 41 Abs. 3 und § 43 Abs. 2 Satz 7)
 
@@ -3452,11 +3365,9 @@ Siegel oder Stempel
 ...............................................
 (Unterschrift)
 
-
 ### Anlage 13
 
 (weggefallen)
-
 
 ### Anlage 14 (zu § 40 Satz 1) Approbationsurkunde
 
@@ -3476,7 +3387,6 @@ Siegel
 .............., den ....................
 ........................................
 (Unterschrift)
-
 
 ### Anlage 15 (zu § 29 Abs. 3 Satz 2) Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
 

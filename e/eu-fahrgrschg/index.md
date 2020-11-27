@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2454
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1177/2010
@@ -23,12 +22,10 @@ des Europäischen Parlaments und des Rates vom 24. November 2010 über
 die Fahrgastrechte im See- und Binnenschiffsverkehr und zur Änderung
 der Verordnung (EG) Nr. 2006/2004 (ABl. L 334 vom 17.12.2010, S. 1).
 
-
 ## § 2 Aufgaben des Bundes
 
 Dem Bund obliegt die Durchsetzung der Fahrgastrechte auf dem Gebiet
 des See- und Binnenschiffsverkehrs.
-
 
 ## § 3 Zuständige Behörde
 
@@ -39,7 +36,6 @@ des See- und Binnenschiffsverkehrs.
 Beschwerden über einen mutmaßlichen Verstoß gegen die Verordnung (EU)
 Nr. 1177/2010 nach Artikel 25 Absatz 3 Satz 1 der Verordnung (EU) Nr.
 1177/2010.
-
 
 ## § 4 Befugnisse
 
@@ -107,7 +103,6 @@ Vollstreckung von Verwaltungsmaßnahmen geltenden Bestimmungen
 durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu
 500 000 Euro betragen.
 
-
 ## § 5 Duldungs- und Mitwirkungspflichten
 
 Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber,
@@ -128,7 +123,6 @@ verpflichtet,
 Insbesondere sind die in Satz 1 genannten Personen verpflichtet, auf
 Verlangen der zuständigen Behörde und den von ihr beauftragten
 Personen die in Betracht kommenden Räume zu öffnen.
-
 
 ## § 6 Schlichtungsstelle
 
@@ -201,13 +195,11 @@ Stadtentwicklung und des Bundesministeriums für Ernährung,
 Landwirtschaft und Verbraucherschutz. Die Anerkennung ist im
 Bundesanzeiger bekannt zu machen.
 
-
 ## § 7 Kosten
 
 Das Eisenbahn-Bundesamt erhebt Kosten (Gebühren und Auslagen) für
 seine Amtshandlungen nach diesem Gesetz, auf Grund dieses Gesetzes
 oder nach der Verordnung (EU) Nr. 1177/2010.
-
 
 ## § 8 Verordnungsermächtigung
 
@@ -246,7 +238,6 @@ Bundesrates
 Rechtsverordnungen nach Satz 1 Nummer 5 bedürfen des Einvernehmens des
 Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
 und des Bundesministeriums der Justiz.
-
 
 ## § 9 Bußgeldvorschriften
 

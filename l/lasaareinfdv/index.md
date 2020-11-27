@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 135
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -46,10 +44,7 @@ Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im
 Saarland,
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Art I - Einführungsvorschriften
-
-
 
 ### § 1 Einführung von Rechtsverordnungen im Saarland
 
@@ -75,18 +70,11 @@ Altsparergesetzes vom 6. Mai 1957 (BGBl. I S. 428), gilt mit der
 Maßgabe, daß der Präsident des Bundesausgleichsamtes das für das
 Saarland zuständige Ausgleichsamt bestimmen kann.
 
-
 ## Art II - Anpassungsvorschriften
-
-
 
 ### (XXXX) §§ 2 bis 11
 
-
-
 ## Art III - Schlußvorschriften
-
-
 
 ### § 12 Anwendung in Berlin
 
@@ -99,7 +87,6 @@ des Lastenausgleichsgesetzes, Artikel III des Zwölften Gesetzes zur
 § 15 des Gesetzes über einen Währungsausgleich für Sparguthaben
 Vertriebener, § 32 des Altsparergesetzes und § 111 des Allgemeinen
 Kriegsfolgengesetzes auch im Land Berlin.
-
 
 ### § 13 Inkrafttreten
 

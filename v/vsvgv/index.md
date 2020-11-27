@@ -21,7 +21,6 @@ Fundstelle
 
 [^f777502_01_BJNR150900012]:     ABl. L 216 vom 20.8.2009, S. 76.
 
-
 ## Eingangsformel
 
 Auf Grund des § 97 Absatz 6, des § 127 Nummer 1, 3 und 8 des Gesetzes
@@ -33,9 +32,7 @@ zuletzt durch Artikel 1 Nummer 23 Buchstabe e des Gesetzes vom 20.
 April 2009 (BGBl. I S. 790) geändert worden ist, verordnet die
 Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich
 
@@ -61,7 +58,6 @@ gibt die geltenden Schwellenwerte unverzüglich nach der
 Veröffentlichung im Amtsblatt der Europäischen Union im Bundesanzeiger
 bekannt.
 
-
 ### § 2 Anzuwendende Vorschriften für Liefer-, Dienstleistungs- und Bauaufträge
 
 (1) Für die Vergabe von sicherheits- und verteidigungsrelevanten
@@ -74,7 +70,6 @@ Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 bis
 Vertragsordnung für Bauleistungen (VOB/A) in der Fassung der
 Bekanntmachung vom 24. Oktober 2011 (BAnz. Nr. 182a vom 2. Dezember
 2011; BAnz AT 07.05.2012 B1) anzuwenden.
-
 
 ### § 3 Schätzung des Auftragswertes
 
@@ -157,7 +152,6 @@ der Tag, an dem die Bekanntmachung der beabsichtigten Auftragsvergabe
 abgesendet oder das Vergabeverfahren auf andere Weise eingeleitet
 wird.
 
-
 ### § 4 Begriffsbestimmungen
 
 (1) Krise ist jede Situation in einem Mitgliedstaat der Europäischen
@@ -221,7 +215,6 @@ Technologische Demonstrationssysteme sind Vorrichtungen zur
 Demonstration der Leistungen eines neuen Konzepts oder einer neuen
 Technologie in einem relevanten oder repräsentativen Umfeld.
 
-
 ### § 5 Dienstleistungsaufträge
 
 (1) Aufträge über Dienstleistungen gemäß Anhang I der Richtlinie
@@ -236,7 +229,6 @@ den Vorschriften dieser Verordnung, wenn der Wert der Dienstleistungen
 nach Anhang I der Richtlinie 2009/81/EG überwiegt. Überwiegt der Wert
 der Dienstleistungen nach Anhang II der Richtlinie 2009/81/EG,
 unterliegen diese Aufträge ausschließlich den §§ 15 und 35.
-
 
 ### § 6 Wahrung der Vertraulichkeit
 
@@ -263,7 +255,6 @@ vereinbaren. Auftraggeber können an Bewerber, Bieter und Auftragnehmer
 weitere Anforderungen zur Wahrung der Vertraulichkeit stellen, die mit
 dem Auftragsgegenstand im sachlichen Zusammenhang stehen und durch ihn
 gerechtfertigt sind.
-
 
 ### § 7 Anforderungen an den Schutz von Verschlusssachen durch Unternehmen
 
@@ -467,7 +458,6 @@ Erteilung einer Ausfuhr-, Verbringungs- oder Durchfuhrgenehmigung
 unter den zum Zeitpunkt der Genehmigungsentscheidung geltenden
 Bedingungen anzuwenden.
 
-
 ### § 9 Unteraufträge
 
 (1) Auftraggeber können den Bieter auffordern, in seinem Angebot den
@@ -532,9 +522,7 @@ vorgegebenen Kriterien nicht erfüllt.
 von den Vorschriften dieser Verordnung zur Unterauftragsvergabe
 unberührt.
 
-
 ## Teil 2 - Vergabeverfahren
-
 
 ### § 10 Grundsätze des Vergabeverfahrens
 
@@ -561,7 +549,6 @@ Zwecke der Ertragsberechnung ist unzulässig.
 (5) Bei der Vergabe sind die Vorschriften über die Preise bei
 öffentlichen Aufträgen zu beachten.
 
-
 ### § 11 Arten der Vergabe von Liefer- und Dienstleistungsaufträgen
 
 (1) Die Vergabe von Liefer- und Dienstleistungsaufträgen erfolgt im
@@ -582,7 +569,6 @@ Vergabeunterlagen an. In der Schlussphase des Verfahrens müssen so
 viele Angebote vorliegen, dass ein echter Wettbewerb gewährleistet
 ist, sofern eine ausreichende Anzahl geeigneter Bewerber vorhanden
 ist.
-
 
 ### § 12 Verhandlungsverfahren ohne Teilnahmewettbewerb
 
@@ -737,7 +723,6 @@ ist.
 (2) Die Auftraggeber müssen die Anwendung des Verhandlungsverfahrens
 ohne Teilnahmewettbewerb in der Bekanntmachung gemäß § 35 begründen.
 
-
 ### § 13 Wettbewerblicher Dialog
 
 (1) Auftraggeber im Sinne des § 98 Nummer 1 bis 3 des Gesetzes gegen
@@ -825,10 +810,6 @@ Auftraggeber wie folgt vor:
     Unternehmen, die die geforderte Unterlage rechtzeitig vorgelegt haben,
     eine angemessene Kostenerstattung hierfür gewähren.
 
-
-
-
-
 ### § 14 Rahmenvereinbarungen
 
 (1) Für den Abschluss einer Rahmenvereinbarung im Sinne des § 4 Absatz
@@ -910,7 +891,6 @@ und der durch einen Wechsel des Unternehmens entstehenden technischen
 Schwierigkeiten eine längere Laufzeit gerechtfertigt ist. Die
 Auftraggeber begründen die längere Laufzeit in der Bekanntmachung
 gemäß § 35.
-
 
 ### § 15 Leistungsbeschreibung und technische Anforderungen
 
@@ -1075,7 +1055,6 @@ Absätzen 2 und 3 nicht eindeutig und vollständig beschrieben werden
 kann; solche Verweise sind mit dem Zusatz „oder gleichwertig“ zu
 versehen.
 
-
 ### § 16 Vergabeunterlagen
 
 (1) Die Vergabeunterlagen umfassen alle Angaben, die erforderlich
@@ -1105,7 +1084,6 @@ Angebotsabgabe zu ermöglichen. Sie bestehen in der Regel aus
 
 (2) Sofern die Auftraggeber Nachweise verlangen, haben sie diese in
 einer abschließenden Liste zusammenzustellen.
-
 
 ### § 17 Vorinformation
 
@@ -1155,7 +1133,6 @@ machen.
 
 (4) Die Absätze 1, 2 und 3 gelten nicht für das Verhandlungsverfahren
 ohne Teilnahmewettbewerb.
-
 
 ### § 18 Bekanntmachung von Vergabeverfahren
 
@@ -1219,7 +1196,6 @@ Bekanntmachung an das Amt für amtliche Veröffentlichungen der
 Europäischen Union oder der Veröffentlichung im Beschafferprofil ist
 in der nationalen Bekanntmachung hinzuweisen.
 
-
 ### § 19 Informationsübermittlung
 
 (1) Die Auftraggeber geben in der Bekanntmachung oder den
@@ -1272,7 +1248,6 @@ für das Vorliegen eines gesetzlich gültigen Nachweises erforderlich
 ist. In diesem Fall geben die Auftraggeber in der Bekanntmachung diese
 Anforderung zusammen mit der Frist für die Übermittlung der
 Bestätigung an.
-
 
 ### § 20 Fristen für den Eingang von Anträgen auf Teilnahme und Eingang der Angebote
 
@@ -1344,7 +1319,6 @@ maßgeblichen Formerfordernisse zu beachten.
     http://simap.europa.eu*              abrufbar, vergleiche Anhang VI
     Nummer 3 der Richtlinie 2009/81/EG.
 
-
 ### § 21 Eignung und Auswahl der Bewerber
 
 (1) Aufträge werden unter Wahrung der Eignungsanforderungen des § 97
@@ -1403,7 +1377,6 @@ Teilnahmeantrag stellen oder ein Angebot abgeben dürfen. Für den Fall
 der Auftragserteilung können die Auftraggeber verlangen, dass eine
 Bietergemeinschaft eine bestimmte Rechtsform annimmt, sofern dies für
 die ordnungsgemäße Durchführung des Auftrags notwendig ist.
-
 
 ### § 22 Allgemeine Vorgaben zum Nachweis der Eignung
 
@@ -1466,7 +1439,6 @@ Frist vorgelegt wurden, können bis zum Ablauf einer zu bestimmenden
 Nachfrist nachgefordert werden. Werden die Nachweise und sonstigen
 Unterlagen nicht innerhalb der Nachfrist vorgelegt, ist der Bewerber
 oder Bieter auszuschließen.
-
 
 ### § 23 Zwingender Ausschluss mangels Eignung
 
@@ -1564,7 +1536,6 @@ betreffenden Unternehmens vor einer zuständigen Gerichts- oder
 Verwaltungsbehörde, einem Notar oder einer dafür qualifizierten
 Berufsorganisation des Herkunftslands abgibt.
 
-
 ### § 24 Fakultativer Ausschluss mangels Eignung
 
 (1) Von der Teilnahme am Vergabeverfahren können Bewerber oder Bieter
@@ -1636,7 +1607,6 @@ kann sie durch eine Versicherung an Eides statt ersetzt werden. In den
 Mitgliedstaaten, in denen es keine Versicherung an Eides statt gibt,
 gilt § 23 Absatz 8 Satz 2 entsprechend.
 
-
 ### § 25 Nachweis der Erlaubnis zur Berufsausübung
 
 (1) Die Auftraggeber können die Bewerber oder Bieter auffordern, als
@@ -1662,7 +1632,6 @@ oder Mitglied einer bestimmten Organisation sein, um eine
 Dienstleistung in ihrem Herkunftsmitgliedstaat erbringen zu können,
 können Auftraggeber Bewerber oder Bieter auffordern, darüber den
 Nachweis zu erbringen.
-
 
 ### § 26 Nachweis der wirtschaftlichen und finanziellen Leistungsfähigkeit
 
@@ -1698,7 +1667,6 @@ Vorlage jedes anderen geeigneten Nachweises zulassen.
 die Leistungsfähigkeit anderer Unternehmen berufen, wenn sie
 nachweisen, dass ihnen dadurch die erforderlichen Mittel zur Verfügung
 stehen. Dies gilt auch für Bewerber- oder Bietergemeinschaften.
-
 
 ### § 27 Nachweis der fachlichen und technischen Leistungsfähigkeit
 
@@ -1888,7 +1856,6 @@ geforderten Nachweise ihrer fachlichen und technischen
 Leistungsfähigkeit nicht beibringen, so kann der Auftraggeber die
 Vorlage jedes anderen geeigneten Nachweises zulassen.
 
-
 ### § 28 Nachweis für die Einhaltung von Normen des Qualitäts- und Umweltmanagements
 
 (1) Verlangen Auftraggeber zum Nachweis dafür, dass Bewerber oder
@@ -1931,7 +1898,6 @@ Gleichwertige Bescheinigungen von Stellen in anderen Mitgliedstaaten
 sind anzuerkennen. Auftraggeber erkennen auch andere Nachweise für
 gleichwertige Umweltmanagementmaßnahmen an, die von Bewerbern oder
 Bietern vorgelegt werden.
-
 
 ### § 29 Aufforderung zur Abgabe eines Angebots
 
@@ -1998,7 +1964,6 @@ und die Durchführung des Vertrags zu benennen. Fehlt eine dieser
 Angaben im Angebot, so ist sie vor der Zuschlagserteilung
 beizubringen. § 22 Absatz 6 gilt entsprechend.
 
-
 ### § 30 Öffnung der Angebote
 
 (1) Auf dem Postweg und direkt übermittelte Angebote sind ungeöffnet
@@ -2027,7 +1992,6 @@ nicht zugelassen. Dabei wird mindestens festgehalten:
 (3) Die Angebote und ihre Anlagen sowie die Dokumentation über die
 Angebotsöffnung sind auch nach Abschluss des Vergabeverfahrens
 sorgfältig zu verwahren und vertraulich zu behandeln.
-
 
 ### § 31 Prüfung der Angebote
 
@@ -2070,10 +2034,6 @@ rechnerische Richtigkeit zu prüfen.
     Einzelpreise den Gesamtpreis nicht verändern oder die
     Wertungsreihenfolge und den Wettbewerb nicht beeinträchtigen.
 
-
-
-
-
 ### § 32 Nebenangebote
 
 (1) Auftraggeber können Nebenangebote in der Bekanntmachung zulassen.
@@ -2088,7 +2048,6 @@ wenn sie in der Bekanntmachung nicht ausdrücklich zugelassen sind.
 weil es im Falle des Zuschlags zu einem Dienstleistungsauftrag
 anstelle eines Lieferauftrags oder zu einem Lieferauftrag anstelle
 eines Dienstleistungsauftrags führen würde.
-
 
 ### § 33 Ungewöhnlich niedrige Angebote
 
@@ -2111,7 +2070,6 @@ Auftraggebern festzulegenden ausreichenden Frist nicht nachweisen
 kann, dass die betreffende Beihilfe rechtmäßig gewährt wurde.
 Auftraggeber, die unter diesen Umständen ein Angebot ablehnen, müssen
 dies der Europäischen Kommission mitteilen.
-
 
 ### § 34 Wertung der Angebote und Zuschlag
 
@@ -2156,10 +2114,6 @@ sein:
 
 9.  Versorgungssicherheit.
 
-
-
-
-
 ### § 35 Bekanntmachung über die Auftragserteilung
 
 (1) Die Auftraggeber sind verpflichtet, die Vergabe eines Auftrags
@@ -2181,7 +2135,6 @@ insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderlaufen,
 die berechtigten geschäftlichen Interessen öffentlicher oder privater
 Unternehmen schädigen oder den lauteren Wettbewerb zwischen ihnen
 beeinträchtigen könnte.
-
 
 ### § 36 Unterrichtung der Bewerber und Bieter
 
@@ -2218,7 +2171,6 @@ Auftragserteilung oder den Abschluss von Rahmenvereinbarungen
 mitzuteilen, wenn auch gemäß § 35 Absatz 2 auf eine Bekanntmachung
 verzichtet werden könnte.
 
-
 ### § 37 Aufhebung und Einstellung des Vergabeverfahrens
 
 (1) Die Vergabeverfahren können ganz oder bei Vergabe nach Losen auch
@@ -2245,9 +2197,7 @@ Bürgerlichen Gesetzbuchs unverzüglich die Gründe für ihre Entscheidung
 mit, auf die Vergabe eines bekannt gemachten Auftrags zu verzichten
 oder das Vergabeverfahren erneut einzuleiten.
 
-
 ## Teil 3 - Unterauftragsvergabe
-
 
 ### § 38 Allgemeine Vorgaben zur Unterauftragsvergabe
 
@@ -2274,7 +2224,6 @@ Vergabe von Hauptaufträgen ein.
 (4) Für die Schätzung des Wertes von Unteraufträgen gilt § 3
 entsprechend.
 
-
 ### § 39 Bekanntmachung
 
 (1) Der Auftragnehmer veröffentlicht seine Absicht, einen Unterauftrag
@@ -2290,7 +2239,6 @@ veröffentlicht.
 wenn in entsprechender Anwendung des § 12 eine Bekanntmachung
 verzichtbar ist, weil ein Verhandlungsverfahren ohne
 Teilnahmewettbewerb zulässig wäre.
-
 
 ### § 40 Kriterien zur Auswahl der Unterauftragsnehmer
 
@@ -2311,7 +2259,6 @@ eingereichten Angebote die in der Bekanntmachung über den Unterauftrag
 genannten Kriterien erfüllt und es daher dem erfolgreichen Bieter
 unmöglich wäre, die Anforderungen des Hauptauftrags zu erfüllen.
 
-
 ### § 41 Unteraufträge aufgrund einer Rahmenvereinbarung
 
 (1) Der Auftragnehmer kann die Anforderungen an die Vergabe von
@@ -2326,9 +2273,7 @@ Anfang an Parteien der Rahmenvereinbarung waren.
 (2) Für die durch den Auftragnehmer geschlossene Rahmenvereinbarung
 gilt § 14 Absatz 1 Satz 2 und Absatz 6 Satz 1 und 2 entsprechend.
 
-
 ## Teil 4 - Besondere Bestimmungen
-
 
 ### § 42 Ausgeschlossene Personen
 
@@ -2371,7 +2316,6 @@ gerader Linie, Geschwister, Kinder der Geschwister, Ehegatten und
 Lebenspartner der Geschwister und Geschwister der Ehegatten und
 Lebenspartner, Geschwister der Eltern sowie Pflegeeltern und
 Pflegekinder.
-
 
 ### § 43 Dokumentations- und Aufbewahrungspflichten
 
@@ -2445,7 +2389,6 @@ dokumentieren.
 den Vermerk in Kopie übermitteln oder dessen wesentlichen Inhalt
 mitteilen.
 
-
 ### § 44 Melde- und Berichtspflichten
 
 (1) Die Auftraggeber sind verpflichtet, dem Bundesministerium für
@@ -2495,9 +2438,7 @@ Allgemeinverfügung fest, in welcher Form die statistischen Angaben
 vorzunehmen sind. Die Allgemeinverfügung wird im Bundesanzeiger
 bekannt gemacht.
 
-
 ## Teil 5 - Übergangs- und Schlussbestimmungen
-
 
 ### § 45 Übergangsbestimmung
 
@@ -2506,11 +2447,9 @@ haben, werden einschließlich der sich an diese anschließenden
 Nachprüfungsverfahren nach dem Recht zu Ende geführt, das zum
 Zeitpunkt der Einleitung des Verfahrens galt.
 
-
 ### § 46 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

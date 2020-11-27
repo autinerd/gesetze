@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 205 V v. 25.11.2003 I 2304
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 11
-
-
 
 ## Art 12 - Änderung der Bundespflegesatzverordnung
 
@@ -41,10 +37,7 @@ der Kalenderjahre 1993 und 1994.
 
 (3)
 
-
 ## Art 13 - Regelung über Maßstäbe und Grundsätze für den Personalbedarf in der stationären Krankenpflege (PflPersRgl)
-
-
 
 ## Art 14 - Krankenhausinvestitionsprogramm für das in Artikel 3 des Einigungsvertrages genannte Gebiet
 
@@ -91,10 +84,7 @@ Dezember 2001 geltenden Fassung für die Jahre 1995 bis einschließlich
 und 2 zustehenden Finanzhilfen des Bundes können die Länder bis zum
 31\. Dezember 2002 abrechnen.
 
-
 ## Art 15 bis 22
-
-
 
 ## Art 23 - Budgetierung der Verwaltungsausgaben
 
@@ -142,7 +132,6 @@ nicht von einem Dritten ersetzt werden.
 eine im einzelnen bestimmte Ausnahme von der Begrenzung der
 Verwaltungsausgaben nach den Absätzen 1 bis 3 gestatten.
 
-
 ## Art 24 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 9, 10, 12, 20 und 21 beruhenden Teile der dort
@@ -156,10 +145,7 @@ Gesetzes vom 20. Dezember 1991 (BGBl. I S. 2325), sowie in Verbindung
 mit diesem Artikel durch Rechtsverordnung geändert oder aufgehoben
 werden.
 
-
 ## Art 25
-
-
 
 ## Art 26 - Unwirksamkeit gesetzeswidriger Vereinbarungen
 
@@ -170,7 +156,6 @@ worden sind. Die Vertragsparteien haben die Vereinbarungen bis zum 31.
 März 1993 den gesetzlichen Vorgaben anzupassen. § 71 Abs. 2 des
 Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
-
 ## Art 27 - Rechtsverordnungen zur Erfüllung der gesetzlichen Verpflichtungen der Selbstverwaltung
 
 Kommen Regelungen nach § 106 Abs. 3, § 115 Abs. 1 bis 4, § 135 Abs. 3
@@ -180,7 +165,6 @@ nicht zustande, kann das Bundesministerium für Gesundheit und Soziale
 Sicherung mit Zustimmung des Bundesrates unter Beachtung der für die
 Selbstverwaltung geltenden Vorgaben jeweils entsprechende Regelungen
 durch Rechtsverordnung treffen.
-
 
 ## Art 28 - Erweiterung der Versicherungspflicht
 
@@ -193,7 +177,6 @@ Sozialgesetzbuch einbezogen.
 (2) Das Nähere zur Abgrenzung des versicherungspflichtigen
 Personenkreises, über die Beitragsbemessung und die Meldepflichten
 wird in einem besonderen Gesetz geregelt.
-
 
 ## Art 29 - Arznei- und Heilmittelbudget für 1993
 
@@ -310,7 +293,6 @@ des Fünften Buches Sozialgesetzbuch, unter Berücksichtigung der in
 Absatz 1 sowie der in § 84 Abs. 1 des Fünften Buches Sozialgesetzbuch
 genannten Vorgaben zugrunde zu legen. Absatz 7 gilt entsprechend.
 
-
 ## Art 30 - Preismoratorium für Arzneimittel
 
 (1) Die Herstellerabgabepreise apothekenpflichtiger
@@ -361,10 +343,7 @@ des Bundesrates aufheben oder verringern.
 Fünften Buches Sozialgesetzbuch von der Versorgung nach § 31 des
 Fünften Buches Sozialgesetzbuch ausgeschlossen sind.
 
-
 ## Art 31 - Institut "Arzneimittel in der Krankenversicherung"
-
-
 
 ## Art 32 - Sonderkündigungsrecht für versicherungsfreie Personen
 
@@ -383,10 +362,7 @@ die zuständige Aufsichtsbehörde bestätigt hat, daß es die
 Versicherung, die Grundlage des Versicherungsvertrages ist, nach den
 in Satz 1 genannten Voraussetzungen betreibt.
 
-
 ## Art 33 Überleitungsvorschriften
-
-
 
 ## § 1 Altersgrenze für Vertragsärzte und Vertragszahnärzte
 
@@ -403,10 +379,6 @@ Zeitpunkt
     bis zum Ablauf dieser Frist. Satz 1 gilt für angestellte Ärzte und
     Zahnärzte entsprechend.
 
-
-
-
-
 ## § 2 Eintragung in das Arztregister
 
 Bis zum 31. Dezember 1993 erfolgte Eintragungen in das Arztregister
@@ -414,7 +386,6 @@ bleiben unberührt. Wird ein Antrag auf Zulassung als Vertragsarzt nach
 dem 31. Dezember 1994 gestellt, hat der Arzt unbeschadet des Satzes 1
 die Voraussetzungen des § 95a des Fünften Buches Sozialgesetzbuch zu
 erfüllen.
-
 
 ## § 3 Entscheidung über die Zulassung
 
@@ -445,7 +416,6 @@ Sozialgesetzbuch getroffen hat.
 
 (4) Die Absätze 1 bis 3 gelten für Vertragszahnärzte entsprechend.
 
-
 ## § 3a Umwandlung der Kassenärzte in Vertragsärzte
 
 (1) Die Ärzte und Zahnärzte, die am 31. Dezember 1992 sowohl als
@@ -457,7 +427,6 @@ zugelassene Vertragsärzte oder Vertragszahnärzte.
 und zahnärztlichen Versorgung teilnehmenden Vertragsärzte und
 Vertragszahnärzte der Ersatzkassen bleibt unberührt.
 
-
 ## § 4 Freiwillige Versicherung
 
 Für Personen, die bis zum 31. Dezember 1992 aus der
@@ -466,7 +435,6 @@ Buches Sozialgesetzbuch und § 6 Abs. 1 Nr. 1 des Zweiten Gesetzes über
 die Krankenversicherung der Landwirte jeweils in der bis dahin
 geltenden Fassung auch dann, wenn der Beitritt nach dem 31. Dezember
 1992 der Krankenkasse angezeigt wird.
-
 
 ## § 5 Versorgung mit kieferorthopädischen Leistungen bei Erwachsenen
 
@@ -478,7 +446,6 @@ sie das am 31. Dezember 1992 geltende Recht vorsah, wenn die
 Krankenkasse vor dem 5. November 1992 über den Anspruch bereits
 schriftlich entschieden hat.
 
-
 ## § 6 Versorgung mit Zahnersatz
 
 Versicherte, deren zahnärztliche Behandlung zur Versorgung mit
@@ -488,7 +455,6 @@ der Kosten für zahntechnische Leistungen in der Höhe, wie sie das am
 31\. Dezember 1992 geltende Recht vorsah, wenn die Krankenkasse vor dem
 5\. November 1992 über den Anspruch bereits schriftlich entschieden
 hat.
-
 
 ## § 7 Weitergeltung bestehender Verträge
 
@@ -508,16 +474,13 @@ Krankenkassen die Landesverbände der Krankenkassen oder die Verbände
 der Ersatzkassen, die insoweit die Rechte und Pflichten eines
 Landesverbandes ausüben, in die Verträge ein.
 
-
 ## § 8 Wirkung der Beanstandung von Vergütungsvereinbarungen
 
 -
 
-
 ## § 9 Wirkung der Beanstandung von Entscheidungen der Schiedsämter
 
 -
-
 
 ## § 10 Wahl der Mitglieder des Verwaltungsrates
 
@@ -538,7 +501,6 @@ dessen Stellvertreter.
 (3) Die erste Amtsdauer der Mitglieder des Verwaltungsrates endet mit
 Ablauf der achten Amtsperiode der Selbstverwaltungsorgane.
 
-
 ## § 11 Wahl des Vorstands der Krankenkasse
 
 Der Verwaltungsrat nach § 10 wählt bis zum 31. Dezember 1995 den
@@ -546,12 +508,10 @@ Vorstand sowie aus dessen Mitte den Vorstandsvorsitzenden und dessen
 Stellvertreter. Dabei ist § 35a des Vierten Buches Sozialgesetzbuch in
 der ab 1. Januar 1996 geltenden Fassung anzuwenden.
 
-
 ## § 12 Überleitungsvorschrift für die Verbände der Krankenkassen
 
 Die §§ 10 und 11 gelten für die Landes- und Bundesverbände
 entsprechend.
-
 
 ## § 13 Überleitungsvorschrift für die Vereinigung von Ersatzkassen
 
@@ -561,7 +521,6 @@ entsprechend.
 entstehende Ersatzkasse nur Personen aufnehmen, die von den an der
 Vereinigung beteiligten Ersatzkassen am 31. Dezember 1994 hätten
 aufgenommen werden dürfen.
-
 
 ## § 14 Versicherungspflicht von Rentnern
 
@@ -575,10 +534,7 @@ Versicherungspflicht nach § 5 Abs. 1 Nr. 11 des Fünften Buches
 Sozialgesetzbuch oder nach Artikel 56 Abs. 1 bis 3 des Gesundheits-
 Reformgesetzes nicht erfüllt.
 
-
 ## Art 34 - Übergangsregelungen zum Risikostrukturausgleich
-
-
 
 ## § 1
 
@@ -608,7 +564,6 @@ Fünften Buches Sozialgesetzbuch zählt auch der von jeder Krankenkasse
 zu tragende Finanzierungsanteil nach § 270 Satz 1 des Fünften Buches
 Sozialgesetzbuch.
 
-
 ## § 2
 
 Die §§ 268 bis 273 des Fünften Buches Sozialgesetzbuch treten außer
@@ -621,7 +576,6 @@ Sozialgesetzbuch. Für Geschäfts- und Rechnungsergebnisse in der
 Krankenversicherung der Rentner gilt ab 1. Januar 1995 der
 Risikostrukturausgleich nach § 266 des Fünften Buches
 Sozialgesetzbuch.
-
 
 ## § 3
 
@@ -650,7 +604,6 @@ untersuchen und Maßnahmen festzulegen, die geeignet sind, die
 Finanzlage der Krankenkasse zu verbessern. § 266 Abs. 3 Satz 4 bis 6
 des Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
-
 ## § 4
 
 Bedarfssatz nach § 145 Abs. 3 des Fünften Buches Sozialgesetzbuch ist
@@ -664,7 +617,6 @@ die Ausgaben für Mehr- und Erprobungsleistungen und für Leistungen,
 auf die kein Rechtsanspruch besteht. Zu den Ausgaben zählt auch der
 Finanzierungsanteil nach § 270 Satz 1 des Fünften Buches
 Sozialgesetzbuch.
-
 
 ## Art 35 - Inkrafttreten, Außerkrafttreten
 

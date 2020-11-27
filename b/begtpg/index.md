@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 26.7.2011 I 1554
 
-
 ## § 1 Rechtsform, Name
 
 Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes
@@ -30,7 +29,6 @@ in "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen" (Bundesnetzagentur) umbenannt. Sie ist eine
 selbständige Bundesoberbehörde im Geschäftsbereich des
 Bundesministeriums für Wirtschaft und Technologie mit Sitz in Bonn.
-
 
 ## § 2 Tätigkeiten, Aufgabendurchführung
 
@@ -56,7 +54,6 @@ tätig.
 (2) Die Bundesnetzagentur nimmt im Rahmen der ihr nach Absatz 1
 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes wahr, die
 ihr durch Gesetz oder auf Grund eines Gesetzes zugewiesen sind.
-
 
 ## § 3 Organe
 
@@ -84,7 +81,6 @@ Verfahren unberührt.
 (4) Die Ernennung des Präsidenten oder der Präsidentin und der zwei
 Vizepräsidenten oder Vizepräsidentinnen erfolgt durch den
 Bundespräsidenten oder die Bundespräsidentin.
-
 
 ## § 4 Öffentlich-rechtliche Amtsverhältnisse
 
@@ -188,7 +184,6 @@ Benennung eines Vizepräsidenten oder einer Vizepräsidentin in der
 Regel nach Ablauf der halben Amtszeit des anderen Vizepräsidenten oder
 der anderen Vizepräsidentin erfolgen sollte.
 
-
 ## § 5 Beirat
 
 (1) Die Bundesnetzagentur hat einen Beirat, der aus jeweils 16
@@ -222,7 +217,6 @@ berufene stellvertretende Mitglied die Aufgaben des Mitgliedes wahr.
 
 (5) Die Absätze 1 bis 4 gelten für die stellvertretenden Mitglieder
 entsprechend.
-
 
 ## § 6 Geschäftsordnung, Vorsitz, Sitzungen des Beirates
 
@@ -268,12 +262,10 @@ Verhinderungsfall einer stellvertretenden Person verlangen.
 von Reisekosten und ein angemessenes Sitzungsgeld, das das
 Bundesministerium für Wirtschaft und Technologie festsetzt.
 
-
 ## § 7 Aufgaben des Beirates
 
 Der Beirat hat die ihm durch Gesetz oder auf Grund eines Gesetzes
 zugewiesenen Aufgaben.
-
 
 ## § 8 Länderausschuss
 
@@ -282,7 +274,6 @@ aus Vertretern der für die Wahrnehmung der Aufgaben nach § 54 des
 Energiewirtschaftsgesetzes zuständigen Landesregulierungsbehörden
 zusammensetzt. Jede Landesregulierungsbehörde kann jeweils einen
 Vertreter in den Länderausschuss entsenden.
-
 
 ## § 9 Geschäftsordnung, Vorsitz, Sitzungen des Länderausschusses
 
@@ -321,12 +312,10 @@ jederzeit gehört werden. Der Länderausschuss kann die Anwesenheit des
 Präsidenten oder der Präsidentin der Bundesnetzagentur, im
 Verhinderungsfall einer stellvertretenden Person verlangen.
 
-
 ## § 10 Aufgaben des Länderausschusses
 
 Der Länderausschuss hat die ihm durch Gesetz oder auf Grund eines
 Gesetzes zugewiesenen Aufgaben.
-
 
 ## § 11 Übergangsvorschrift
 

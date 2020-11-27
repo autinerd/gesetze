@@ -16,28 +16,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1314
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über Ausgleichsleistungen an Kreditnehmer
 
 (Text siehe: KredAAG)
 
-
 ## (XXXX) Art 3 bis 8
 
 -
-
 
 ## Art 9 Regelung zu § 4 Abs. 1 Satz 3 des Artikels 8 der Anlage I des Staatsvertrages vom 18. Mai 1990
 
@@ -54,7 +48,6 @@ Bildschirmseite 22000 veröffentlichte Satz. Im Falle höherer Gewalt,
 die eine Eingabe und Ermittlung über Telerate ausschließt, werden die
 Quotierungen an die Deutsche Bundesbank gemeldet, die für eine
 entsprechend zeitnahe Veröffentlichung sorgt.
-
 
 ## Art 10 Inkrafttreten
 

@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 242
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2 Änderung des Wohnungsbaugesetzes für das Saarland
 
@@ -86,20 +83,14 @@ Juli 1988 (BGBl. I S. 1093), wird wie folgt geändert:
     Wohnungsfürsorgemittel können auch in entsprechender Anwendung des §
     51e vergeben werden."
 
-
-
-
-
 ## Art 3 Saar-Klausel
 
 Artikel 1 gilt nicht im Saarland.
-
 
 ## Art 4 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 5 Inkrafttreten
 

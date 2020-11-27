@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 § 4 G v. 24.6.1994 I 1416
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 Nr. 3, 4, 5, 6, 7, 8, 11, 15 und 16 und des
@@ -28,10 +27,7 @@ Gesundheitsvorschriften vom 25. Juli 1969 (Bundesgesetzbl. II 1971 S.
 865) wird im Einvernehmen mit dem Bundesminister für Verkehr mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## - - Allgemeine Bestimmungen
-
-
 
 ### § 1
 
@@ -49,10 +45,6 @@ a)  die einen Hafen, einen Liegeplatz oder eine Umschlagsanlage im
 
 b)  die den Nord-Ostsee-Kanal benutzen.
 
-
-
-
-
 ### § 2
 
 (1) Auf Schiffen der Bundeswehr, der Polizei, des Fischereischutzes
@@ -66,10 +58,7 @@ mitzuteilen.
 (2) Die Gesundheitsbehörde des Hafens kann auf Antrag des
 Schiffskommandos bei der Durchführung der Vorschriften mitwirken.
 
-
 ## - - Vorschriften für Schiffe in Häfen, an Liegeplätzen oder Umschlagsanlagen
-
-
 
 ### § 3 (Zu Artikel 37 der Internationalen Gesundheitsvorschriften)
 
@@ -89,7 +78,6 @@ dem Kapitän eine Bescheinigung auszustellen.
 vorläufige Anlauferlaubnis erhalten, wenn anzunehmen ist, daß durch
 sein Anlaufen keine quarantänepflichtige Krankheit eingeschleppt oder
 verbreitet wird.
-
 
 ### § 4 (Zu Artikel 84 Abs. 2 der Internationalen Gesundheitsvorschriften)
 
@@ -215,7 +203,6 @@ Lotse hat darauf zu achten, daß die in den Absätzen 1 bis 3
 vorgeschriebenen Signale gegeben und die Verkehrsverbote nach den
 Internationalen Gesundheitsvorschriften befolgt werden.
 
-
 ### § 5 (Zu den Artikeln 42 und 84 der Internationalen Gesundheitsvorschriften)
 
 Schiffe, die weder über die zur Signalgebung nach § 4 erforderlichen
@@ -224,7 +211,6 @@ nächstgelegenen Hafen mit eingerichtetem hafenärztlichen Dienst
 anlaufen und bei diesem gemeldet werden, wenn eine der Fragen in der
 Seegesundheitserklärung zu bejahen ist oder wenn sie innerhalb einer
 Frist von 28 Tagen aus einem Infektionsgebiet eintreffen.
-
 
 ### § 6 (Zu den Artikeln 39 und 58 der Internationalen Gesundheitsvorschriften)
 
@@ -242,10 +228,6 @@ folgende Maßnahmen anzuordnen:
     Schiffsräume und Gegenstände sind zu entratten, von Insekten zu
     befreien und zu desinfizieren. In besonderen Fällen kann die
     zuständige Behörde hiervon eine Ausnahme zulassen.
-
-
-
-
 
 ### § 7 (Zu den Artikeln 39 und 63 der Internationalen Gesundheitsvorschriften)
 
@@ -267,10 +249,6 @@ wird oder aufgetreten ist, sind folgende Maßnahmen anzuordnen:
 4.  das an Bord mitgeführte Wasser ist, wenn es der Hafenarzt für
     verseucht hält, zu desinfizieren und zu entfernen. Danach sind die
     Wasserbehälter zu desinfizieren.
-
-
-
-
 
 ### § 8 (Zu den Artikeln 39, 78 Abs. 2 und Artikel 80 Abs. 1 Buchstabe b der Internationalen Gesundheitsvorschriften)
 
@@ -316,10 +294,7 @@ bestimmt die Gesundheitsbehörde, welche der nach Artikel 78 der
 Internationalen Gesundheitsvorschriften zulässigen Maßnahmen
 durchzuführen sind.
 
-
 ## - - Vorschriften für Schiffe auf dem Nord-Ostsee-Kanal
-
-
 
 ### § 9 (Zu den Artikeln 34, 37 Abs. 1 und Artikel 30 der Internationalen Gesundheitsvorschriften)
 
@@ -351,7 +326,6 @@ Kranken infiziert werden, so hat die Verwaltung des Kanals nach
 Anhören des Hafenarztes alle Maßnahmen zu treffen, die geeignet
 erscheinen, die sich durch Entleeren von Ausscheidungen des Kranken in
 das Kanalwasser ergebenden Gefahren zu verhüten.
-
 
 ### § 10 (Zu Artikel 84 Abs. 2 der Internationalen Gesundheitsvorschriften)
 
@@ -388,14 +362,12 @@ b)  bei Nacht das Schallsignal ZU:
 werden. In Fahrt befindliche Schiffe dürfen im Bereich des Kanals kein
 Nachtsignal geben.
 
-
 ### § 11 (Zu Artikel 34 Abs. 4 der Internationalen Gesundheitsvorschriften)
 
 Verseuchte und seuchenverdächtige Schiffe, denen vorbehaltlich
 sonstiger Maßnahmen das Einlaufen in den Kanal und die Weiterfahrt
 erlaubt wird, dürfen mit dem Land keine Verbindung aufnehmen. Sie
 dürfen jedoch Lotsen und Schlepper annehmen.
-
 
 ### § 12 (Zu den Artikeln 31 und 37 der Internationalen Gesundheitsvorschriften)
 
@@ -407,7 +379,6 @@ oder eine Umschlagsanlage auf einer Wasserstraße im Geltungsbereich
 dieser Verordnung anlaufen will. Er hat dabei die Zeit, zu der das
 Schiff die Weiterfahrt antritt und die für die Weiterfahrt getroffenen
 Anordnungen gleichzeitig mitzuteilen.
-
 
 ### § 13 (Zu den Artikeln 42, 58 Abs. 1 und 63 der Internationalen Gesundheitsvorschriften)
 
@@ -423,10 +394,7 @@ Verschluß zu nehmen.
 muß, so ist es anzuweisen, sich zum nächsten der hierfür zugelassenen
 Häfen (Brunsbüttel, Rendsburg oder Kiel) zu begeben.
 
-
 ## - - Verfahrens-, Bußgeld- und Schlußvorschriften
-
-
 
 ### § 14 (Zu Artikel 37 Abs. 1 und Artikel 42 der Internationalen Gesundheitsvorschriften)
 
@@ -436,7 +404,6 @@ hat sie die oberste Landesgesundheitsbehörde und das Robert Koch-
 Institut unverzüglich zu unterrichten. Beim Einlaufen in den Nord-
 Ostsee-Kanal ist außerdem die Verwaltung des Kanals zu
 benachrichtigen.
-
 
 ### § 14a
 
@@ -466,10 +433,6 @@ oder fahrlässig
 5.  als Kapitän entgegen § 13 Abs. 1 Satz 2 Schiffsräume oder Gegenstände
     nicht unter sicherem Verschluß hält oder halten läßt.
 
-
-
-
-
 ### § 15
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -477,11 +440,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 des Gesetzes vom 1. Juli 1971 zu den Internationalen
 Gesundheitsvorschriften vom 25. Juli 1969 auch im Land Berlin.
 
-
 ### § 16
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
-
 
 ### Schlußformel
 

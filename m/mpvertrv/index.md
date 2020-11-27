@@ -25,7 +25,6 @@ durch die Richtlinie 94/10/EG des Europäischen Parlaments und des
 Rates vom 23. März 1994 (ABl. EG Nr. L 100 S. 30), sind beachtet
 worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 2 des Medizinproduktegesetzes vom 2. August
@@ -36,7 +35,6 @@ betroffen ist oder es sich um Medizinprodukte handelt, bei deren
 Herstellung ionisierende Strahlen verwendet werden, mit dem
 Bundesministerium für Arbeit und Sozialordnung und dem
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Apothekenpflicht
 
@@ -62,7 +60,6 @@ ihre Mitglieder nicht abgegeben werden. Abweichend von Satz 1 gilt
 dies nicht, wenn es sich bei den Mitgliedern um Apotheken oder um die
 in § 2 genannten Personen und Einrichtungen handelt und die Abgabe
 unter den dort bezeichneten Voraussetzungen erfolgt.
-
 
 ## § 2 Ausnahme von der Apothekenpflicht
 
@@ -101,10 +98,6 @@ Medizinprodukte außer an Apotheken nur abgeben an
     Bundesministerium für Gesundheit von der zuständigen Behörde
     anerkannte zentrale Beschaffungsstellen für Arzneimittel.
 
-
-
-
-
 ## § 3 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 42 Abs. 2 Nr. 16 des
@@ -112,16 +105,13 @@ Medizinproduktegesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 1 Abs. 2 Satz 1 oder § 2 ein apothekenpflichtiges
 Medizinprodukt abgibt.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1 Abs. 1 Nr. 2)
 

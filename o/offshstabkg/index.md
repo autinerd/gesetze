@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 19.5.2009 I 1090
 
-
 ## Art 1 -
 
 Dem am 15. Oktober 1954 in Bonn unterzeichneten Abkommen zwischen der
@@ -29,7 +28,6 @@ Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen
 für die von den Vereinigten Staaten im Interesse der gemeinsamen
 Verteidigung geleisteten Ausgaben und seinem Anhang wird zugestimmt.
-
 
 ## Art 2 -
 
@@ -39,24 +37,17 @@ veröffentlicht.
 (2) Der Tag, an dem das Abkommen gemäß seinem Artikel XIV Abs. 1 in
 Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
-
 ## Art 3 -
 
 Zur Ausführung des Abkommens wird folgendes bestimmt:
 
-
 ### A. - Umsatzsteuerrechtliche Bestimmungen
-
-
 
 ### § 1
 
 -
 
-
 ### B. - Zoll-, verbrauchssteuer- und monopolrechtliche Bestimmungen
-
-
 
 ### § 2
 
@@ -73,15 +64,11 @@ Stellen als die der Vereinigten Staaten oder der Stellen der
 ausländischen Streitkräfte das nach Artikel VI des Abkommens hierfür
 vereinbarte Dokument.
 
-
 ### (XXXX) §§ 3 bis 5 (weggefallen)
-
-
 
 ## Art 4 -
 
 (weggefallen)
-
 
 ## Art 5 -
 

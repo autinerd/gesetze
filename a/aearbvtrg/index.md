@@ -18,11 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 12.4.2007 I 506
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1 Befristung von Arbeitsverträgen
 
@@ -104,12 +102,10 @@ der Absätze 1 bis 4 nicht widersprechen.
 (6) Die Absätze 1 bis 5 gelten nicht, wenn der Arbeitsvertrag unter
 den Anwendungsbereich des Wissenschaftszeitvertragsgesetzes fällt.
 
-
 ## § 2 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 3 Inkrafttreten
 

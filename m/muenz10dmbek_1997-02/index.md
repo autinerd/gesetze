@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 175
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -74,7 +72,6 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 Der Entwurf der Münze stammt von Hubert Klinkel, Würzburg.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

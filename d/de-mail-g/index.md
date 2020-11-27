@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 3 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 De-Mail-Dienste
 
@@ -40,15 +38,12 @@ Diensteanbieter betrieben.
 Anwendungen, die der sicheren Übermittlung von Nachrichten und Daten
 dienen, bleiben unberührt.
 
-
 ### § 2 Zuständige Behörde
 
 Zuständige Behörde nach diesem Gesetz und der Rechtsverordnung nach §
 24 ist das Bundesamt für Sicherheit in der Informationstechnik.
 
-
 ## Abschnitt 2 - Pflichtangebote und optionale Angebote des Diensteanbieters
-
 
 ### § 3 Eröffnung eines De-Mail-Kontos
 
@@ -153,7 +148,6 @@ gespeicherten Identitätsdaten sicherzustellen. Er hat die
 gespeicherten Identitätsdaten in angemessenen zeitlichen Abständen auf
 ihre Richtigkeit zu prüfen und soweit erforderlich zu berichtigen.
 
-
 ### § 4 Anmeldung zu einem De-Mail-Konto
 
 (1) Der akkreditierte Diensteanbieter muss dem Nutzer den Zugang zu
@@ -181,7 +175,6 @@ genutzt werden können.
 (3) Der akkreditierte Diensteanbieter hat sicherzustellen, dass die
 Kommunikationsverbindung zwischen dem Nutzer und seinem De-Mail-Konto
 verschlüsselt erfolgt.
-
 
 ### § 5 Postfach- und Versanddienst
 
@@ -357,7 +350,6 @@ zurücknehmen. Um den Dienst der automatischen Weiterleitung nutzen zu
 können, muss der Nutzer sicher an seinem De-Mail-Konto angemeldet
 sein.
 
-
 ### § 6 Identitätsbestätigungsdienst
 
 (1) Der akkreditierte Diensteanbieter kann einen
@@ -380,7 +372,6 @@ verfälscht werden können.
 anordnen, wenn Tatsachen die Annahme rechtfertigen, dass das
 Identitätsdatum auf Grund falscher Angaben ausgestellt wurde oder
 nicht ausreichend fälschungssicher ist.
-
 
 ### § 7 Verzeichnisdienst
 
@@ -412,7 +403,6 @@ Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung.
 
 (4) § 47 des Telekommunikationsgesetzes gilt entsprechend.
 
-
 ### § 8 Dokumentenablage
 
 Der akkreditierte Diensteanbieter kann dem Nutzer eine
@@ -428,9 +418,7 @@ Protokoll über die Einstellung und Herausnahme von Dokumenten
 bereitzustellen, das mit einer qualifizierten elektronischen Signatur
 nach dem Signaturgesetz gesichert ist.
 
-
 ## Abschnitt 3 - De-Mail-Dienste-Nutzung
-
 
 ### § 9 Aufklärungs- und Informationspflichten
 
@@ -469,7 +457,6 @@ er die Informationen nach Absatz 1 erhalten und zur Kenntnis genommen
 hat.
 
 (3) Informationspflichten nach anderen Gesetzen bleiben unberührt.
-
 
 ### § 10 Sperrung und Auflösung des De-Mail-Kontos
 
@@ -541,7 +528,6 @@ der akkreditierte Diensteanbieter verpflichtet, den Nutzer darüber zu
 informieren, dass er trotz Sperrung Nachrichten empfangen und abrufen
 kann.
 
-
 ### § 11 Einstellung der Tätigkeit
 
 (1) Der akkreditierte Diensteanbieter hat die Einstellung seiner
@@ -571,7 +557,6 @@ ist.
 eines Insolvenzverfahrens der zuständigen Behörde unverzüglich
 anzuzeigen.
 
-
 ### § 12 Vertragsbeendigung
 
 Der akkreditierte Diensteanbieter ist verpflichtet, dem Nutzer für
@@ -579,7 +564,6 @@ einen Zeitraum von drei Monaten nach Vertragsende den Zugriff auf die
 im Postfach und in der Dokumentenablage abgelegten Daten zu
 ermöglichen und ihn auf ihre Löschung mindestens einen Monat vor
 dieser in Textform hinzuweisen.
-
 
 ### § 13 Dokumentation
 
@@ -601,13 +585,11 @@ Jahres aufzubewahren, in dem das Vertragsverhältnis endet.
 (3) Dem Nutzer ist auf Verlangen Einsicht in die ihn betreffenden
 Daten zu gewähren.
 
-
 ### § 14 Jugend- und Verbraucherschutz
 
 Der akkreditierte Diensteanbieter hat bei Gestaltung und Betrieb der
 De-Mail-Dienste die Belange des Jugendschutzes und des
 Verbraucherschutzes zu beachten.
-
 
 ### § 15 Datenschutz
 
@@ -617,7 +599,6 @@ soweit dies zur Bereitstellung der De-Mail-Dienste und deren
 Durchführung erforderlich ist; im Übrigen gelten die Regelungen des
 Telemediengesetzes, des Telekommunikationsgesetzes und des
 Bundesdatenschutzgesetzes.
-
 
 ### § 16 Auskunftsanspruch
 
@@ -687,9 +668,7 @@ Verbraucherrechts- und anderen Verstößen bleiben unberührt.
 (8) Die nach anderen Rechtsvorschriften bestehenden Regelungen zu
 Auskünften gegenüber öffentlichen Stellen bleiben unberührt.
 
-
 ## Abschnitt 4 - Akkreditierung
-
 
 ### § 17 Akkreditierung von Diensteanbietern
 
@@ -713,7 +692,6 @@ Verwaltungsverfahrensgesetzes findet Anwendung.
 
 (3) Die Akkreditierung ist nach wesentlichen Veränderungen, spätestens
 jedoch nach drei Jahren zu erneuern.
-
 
 ### § 18 Voraussetzungen der Akkreditierung; Nachweis
 
@@ -859,7 +837,6 @@ gegeben, sofern Fragen des Datenschutzes berührt sind.
 Umsetzung der Anforderungen des Absatzes 1, zur Erfüllung von
 Pflichten nach diesem Gesetz Dritte beauftragen.
 
-
 ### § 19 Gleichstellung ausländischer Dienste
 
 (1) Vergleichbare Dienste aus einem anderen Mitgliedstaat der
@@ -891,9 +868,7 @@ jeweiligen Diensteanbieters
 
 eine gleichwertige Sicherheit bieten.
 
-
 ## Abschnitt 5 - Aufsicht
-
 
 ### § 20 Aufsichtsmaßnahmen
 
@@ -952,7 +927,6 @@ wegen einer Straftat oder eines Verfahrens nach dem Gesetz über
 Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht
 hinzuweisen.
 
-
 ### § 21 Informationspflicht
 
 Die zuständige Behörde hat die Namen der akkreditierten
@@ -962,9 +936,7 @@ verwendeten Kennzeichnungen gemäß § 5 Absatz 1 Satz 2 Nummer 1 für
 jeden über öffentlich erreichbare Kommunikationsverbindungen abrufbar
 zu halten.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
 
 ### § 22 Ausschuss De-Mail-Standardisierung
 
@@ -986,7 +958,6 @@ Behörde. Wird der Rat der IT-Beauftragten der Bundesregierung
 aufgelöst, tritt an dessen Stelle die von der Bundesregierung
 bestimmte Nachfolgeorganisation. Der Ausschuss tagt mindestens einmal
 im Jahr.
-
 
 ### § 23 Bußgeldvorschriften
 
@@ -1064,7 +1035,6 @@ geahndet werden.
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Sicherheit in
 der Informationstechnik.
 
-
 ### § 24 Gebühren und Auslagen
 
 (1) Gebühren und Auslagen erheben zur Deckung des Verwaltungsaufwands
@@ -1087,7 +1057,6 @@ Zeitgebühren, vorzusehen. In der Rechtsverordnung kann die Erstattung
 von Auslagen abweichend von § 10 des Verwaltungskostengesetzes
 geregelt werden. Ermäßigungen und Befreiungen von Gebühren und
 Auslagen können zugelassen werden.
-
 
 ### § 25 Verfahren über eine einheitliche Stelle
 

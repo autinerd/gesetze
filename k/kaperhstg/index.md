@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 7.12.2006 I 2782
 
-
 ## § 1 Steuern vom Einkommen und Ertrag der Anteilseigner
 
 Erhöht eine Kapitalgesellschaft im Sinne des § 1 Abs. 1 Nr. 1 des
@@ -30,11 +29,9 @@ Rücklagen in Nennkapital, so gehört der Wert der neuen Anteilsrechte
 bei den Anteilseignern nicht zu den Einkünften im Sinne des § 2 Abs. 1
 des Einkommensteuergesetzes.
 
-
 ## § 2
 
 -
-
 
 ## § 3 Anschaffungskosten nach Kapitalerhöhung
 
@@ -46,7 +43,6 @@ Erhöhung des Nennkapitals erworbenen Anteilsrechte auf diese und auf
 die auf sie entfallenen neuen Anteilsrechte nach dem Verhältnis der
 Anteile am Nennkapital verteilt werden.
 
-
 ## § 4 Mitteilung der Erhöhung des Nennkapitals an das Finanzamt
 
 Die Kapitalgesellschaft hat die Erhöhung des Nennkapitals innerhalb
@@ -55,16 +51,13 @@ des Nennkapitals in das Handelsregister dem Finanzamt mitzuteilen und
 eine Abschrift des Beschlusses über die Erhöhung des Nennkapitals
 einzureichen.
 
-
 ## § 5
 
 (weggefallen)
 
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7 Anteilsrechte an ausländischen Gesellschaften
 
@@ -107,11 +100,9 @@ den Fällen des § 27 Abs. 8 des Körperschaftsteuergesetzes in der
 Fassung des Artikels 3 des Gesetzes vom 7. Dezember 2006 (BGBl. I S.
 2782) nicht anzuwenden.
 
-
 ## § 8
 
 -
-
 
 ## § 8a Schlußvorschriften
 
@@ -133,7 +124,6 @@ ist, soweit dafür eine Rücklage als verwendet gilt, die aus Gewinnen
 eines vor dem 1. Januar 1977 abgelaufenen Wirtschaftsjahrs gebildet
 worden ist.
 
-
 ## § 9 Anwendung im Land Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
@@ -142,14 +132,12 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## § 10 Anwendungszeitraum
 
 Die vorstehende Fassung dieses Gesetzes ist erstmals ab 1. Januar 1984
 anzuwenden. Auf Aktien, die vor dem 1. Januar 1984 an Arbeitnehmer
 überlassen worden sind, ist § 8 Abs. 1 dieses Gesetzes in der vor dem
 1\. Januar 1984 jeweils geltenden Fassung weiter anzuwenden.
-
 
 ## § 11 Inkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 14.9.2012 I 2017
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für alle Beamtinnen und Beamten des Bundes,
@@ -26,7 +25,6 @@ soweit nicht besondere Arbeitszeitregelungen gelten. Sie gilt nicht
 für Ehrenbeamtinnen und Ehrenbeamte. Für Beamtinnen auf Widerruf und
 Beamte auf Widerruf ist zu bestimmen, ob und inwieweit die
 Vorschriften dieser Verordnung anzuwenden sind.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -106,10 +104,6 @@ Im Sinne dieser Verordnung ist
 15. der Nachtdienst ein Dienst, der mehr als zwei Stunden in der Zeit
     zwischen 21 und 6 Uhr umfasst.
 
-
-
-
-
 ## § 3 Regelmäßige wöchentliche Arbeitszeit
 
 (1) Die regelmäßige wöchentliche Arbeitszeit beträgt 41 Stunden.
@@ -160,14 +154,12 @@ innerhalb von zwölf Monaten aufgrund zwingender dienstlicher
 Verhältnisse nicht möglich, darf die durchschnittliche Arbeitszeit
 hierbei 48 Stunden im Siebentageszeitraum nicht überschreiten.
 
-
 ## § 4 Regelmäßige tägliche Arbeitszeit
 
 Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind
 festzulegen. Hierbei dürfen 13 Stunden einschließlich der Pausen nicht
 überschritten werden. Bei Teilzeitbeschäftigung ist die regelmäßige
 tägliche Arbeitszeit innerhalb dieser Grenzen individuell festzulegen.
-
 
 ## § 5 Ruhepausen und Ruhezeit
 
@@ -194,7 +186,6 @@ Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4.
 November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung (ABl.
 EU Nr. L 299 S. 9) dies erfordern.
 
-
 ## § 6 Dienstfreie Tage
 
 (1) Sonnabend, Heiligabend und Silvester sind grundsätzlich
@@ -206,7 +197,6 @@ angeordnet werden.
 unmittelbaren Vorgesetzten kann die Beamtin oder der Beamte freiwillig
 sonnabends Dienst leisten. Die oberste Dienstbehörde kann ihre
 Befugnis zur Erteilung der Zustimmung auf andere Behörden übertragen.
-
 
 ## § 7 Gleitende Arbeitszeit
 
@@ -263,7 +253,6 @@ mitzuteilen, sofern sich positive Salden von mehr als 20 Stunden oder
 negative Salden von mehr als zehn Stunden ergeben. Daten nach Satz 2
 dürfen nicht für eine Kontrolle oder Bewertung der Leistung oder des
 Verhaltens der Beamtinnen und Beamten verwendet werden.
-
 
 ## § 7a Experimentierklausel
 
@@ -331,7 +320,6 @@ positiven Gleitzeitsaldo nicht in den nächsten Abrechnungszeitraum
 (7) Nähere Bestimmungen über das Langzeitkonto trifft die oberste
 Dienstbehörde.
 
-
 ## § 8 Schichtdienst
 
 Sind die Dienststunden so festgelegt, dass die regelmäßige tägliche
@@ -339,7 +327,6 @@ Arbeitszeit von Beamtinnen oder Beamten überschritten wird, sind sie
 durch Schichtdienst einzuhalten. Von Schichtdienst soll abgesehen
 werden, wenn die Überschreitung im Rahmen der gleitenden Arbeitszeit
 ausgeglichen werden kann.
-
 
 ## § 9 Zusammenfassung der Freistellung von der Arbeit bei Teilzeitbeschäftigung
 
@@ -354,13 +341,11 @@ des Ruhestandes erstreckt, kann im Blockmodell bewilligt werden, wenn
 die Freistellung an das Ende der bewilligten Teilzeitbeschäftigung
 gelegt wird und zwingende dienstliche Gründe nicht entgegenstehen.
 
-
 ## § 10 Arbeitsplatz
 
 Bei mobilem Arbeiten kann von der Dienstleistungspflicht am
 Arbeitsplatz abgewichen werden, soweit dienstliche Gründe nicht
 entgegenstehen.
-
 
 ## § 11 Dienstreisen
 
@@ -395,7 +380,6 @@ fester Arbeitszeit als Freizeitausgleich zu gewähren. Bei gleitender
 Arbeitszeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben. Der
 Antrag ist spätestens am Ende des folgenden Kalendermonats zu stellen.
 
-
 ## § 12 Rufbereitschaft
 
 Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Beamtin
@@ -405,7 +389,6 @@ Monaten ein Achtel der über zehn Stunden hinausgehenden Zeit bei
 feststehender Arbeitszeit als Freizeitausgleich gewährt und bei
 gleitender Arbeitszeit dem Gleitzeitkonto gutgeschrieben, soweit nicht
 zwingende dienstliche Gründe entgegenstehen.
-
 
 ## § 13 Bereitschaftsdienst
 
@@ -431,7 +414,6 @@ zuständigen Behörden zur Verfügung zu stellen. Auf Ersuchen sind die
 zuständigen Behörden über diese Beamtinnen und Beamten zu
 unterrichten.
 
-
 ## § 14 Nachtdienst
 
 (1) Die Gestaltung von Nachtdienst muss der besonderen Beanspruchung
@@ -443,7 +425,6 @@ Bezugszeitraum von zwölf Monaten im Durchschnitt acht Stunden pro 24
 körperlichen oder geistigen Anspannung verbunden, darf in einem 24
 -Stunden-Zeitraum, in dem der Nachtdienst verrichtet wird, die
 Arbeitszeit nicht mehr als acht Stunden betragen.
-
 
 ## § 15 Ausnahmen bei spezifischen Tätigkeiten
 
@@ -458,7 +439,6 @@ Durchführung von Maßnahmen zur Verbesserung der Sicherheit und des
 Gesundheitsschutzes der Arbeitnehmer bei der Arbeit (ABl. EG Nr. L 183
 S. 1) eine größtmögliche Sicherheit und ein größtmöglicher
 Gesundheitsschutz der Beamtinnen und Beamten gewährleistet ist.
-
 
 ## § 16 Zuständigkeit
 

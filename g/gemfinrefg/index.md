@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 G v. 8.5.2012 I 1030
 
-
 ## § 1 Gemeindeanteil an der Einkommensteuer
 
 Die Gemeinden erhalten 15 Prozent des Aufkommens an Lohnsteuer und an
@@ -34,7 +33,6 @@ Finanzbehörden im Gebiet des Landes unter Berücksichtigung der
 Zerlegung nach Artikel 107 Absatz 1 des Grundgesetzes vereinnahmt
 werden.
 
-
 ## § 2 Aufteilung des Gemeindeanteils an der Einkommensteuer
 
 Der Gemeindeanteil an der Einkommensteuer wird nach einem Schlüssel
@@ -42,7 +40,6 @@ auf die Gemeinden aufgeteilt, der von den Ländern auf Grund der
 Bundesstatistiken über die Lohnsteuer und die veranlagte
 Einkommensteuer nach § 1 des Gesetzes über Steuerstatistiken ermittelt
 und durch Rechtsverordnung der Landesregierung festgesetzt wird.
-
 
 ## § 3 Verteilungsschlüssel für den Gemeindeanteil
 
@@ -72,7 +69,6 @@ Rechtsverordnung ist zu bestimmen, welche Bundesstatistiken über die
 veranlagte Einkommensteuer und über die Lohnsteuer für die Ermittlung
 des Schlüssels jeweils maßgebend sind.
 
-
 ## § 4 Berichtigung von Fehlern
 
 (1) Werden innerhalb von sechs Monaten nach der Festsetzung des
@@ -87,13 +83,11 @@ zurückzuzahlende Beträge diesem Gesamtbetrag zuzuführen.
 Rechtsverordnung bestimmen, dass ein Ausgleich unterbleibt, wenn der
 Ausgleichsbetrag einen bestimmten Betrag nicht überschreitet.
 
-
 ## § 5 Überweisung des Gemeindeanteils an der Einkommensteuer
 
 Die Landesregierungen regeln durch Rechtsverordnung die Termine und
 das Verfahren für die Überweisung des Gemeindeanteils an der
 Einkommensteuer.
-
 
 ## § 5a Nichtfortschreibungsfähiger Bestandteil des Verteilungsschlüssels
 
@@ -189,7 +183,6 @@ des jeweiligen Jahres ermittelt wurde; dabei bleiben die Beschäftigten
 der Gebietskörperschaften und Sozialversicherungen sowie deren
 Einrichtungen unberücksichtigt.
 
-
 ## § 5b Fortschreibungsfähiger Bestandteil des Verteilungsschlüssels
 
 (1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Satz 3 des
@@ -235,7 +228,6 @@ erfolgt auf der Grundlage der Datenbasis, die beim Statistischen
 Bundesamt zum 1. April des dem Jahr der Aktualisierung vorangehenden
 Jahres verfügbar ist.
 
-
 ## § 5c Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
 
 (1) Der Verteilungsschlüssel für den Gemeindeanteil an der
@@ -272,7 +264,6 @@ werden. Die Länder ermitteln die Schlüsselzahlen ihrer Gemeinden auf
 der Grundlage von Schlüsselzahlen, die aus Bundessummen abgeleitet und
 durch die Länder auf Eins normiert werden.
 
-
 ## § 5d Übermittlung statistischer Ergebnisse
 
 Zur Festsetzung der Verteilungsschlüssel nach § 5c, jedoch nicht für
@@ -298,13 +289,11 @@ Klärung der Einwendungen aufbewahrt werden, soweit sie für die Klärung
 erforderlich sind. § 16 Absatz 9 des Bundesstatistikgesetzes gilt
 entsprechend.
 
-
 ## § 5e Rechtsverordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, nähere
 Bestimmungen über die Ermittlung der Schlüsselzahlen nach § 5c durch
 Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
-
 
 ## § 5f Überweisung des Gemeindeanteils an der Umsatzsteuer
 
@@ -318,7 +307,6 @@ für die Überweisung des Gemeindeanteils an der Umsatzsteuer an die
 Gemeinden.
 
 (3) Für die Berichtigung von Fehlern gilt § 4 entsprechend.
-
 
 ## § 6 Umlage nach Maßgabe des Gewerbesteueraufkommens
 
@@ -409,7 +397,6 @@ Abschlagszahlungen entsprechend.
 (8) Die Landesregierungen können nähere Bestimmungen über die
 Festsetzung und Abführung der Umlage durch Rechtsverordnung treffen.
 
-
 ## § 7 Sondervorschriften für Berlin und Hamburg
 
 In Berlin und Hamburg stehen der Gemeindeanteil an der Einkommensteuer
@@ -418,14 +405,12 @@ Berlin und Hamburg führen den Bundesanteil an der Umlage nach § 6 an
 den Bund ab. Im Übrigen finden die §§ 2 bis 5 und 6 in Berlin und
 Hamburg keine Anwendung.
 
-
 ## § 8 Subdelegation
 
 Soweit dieses Gesetz die Landesregierungen zum Erlass von
 Rechtsverordnungen ermächtigt, können die Landesregierungen die
 Ermächtigung durch Rechtsverordnung auf die oberste Finanzbehörde des
 Landes übertragen.
-
 
 ## § 9 Ermächtigung
 

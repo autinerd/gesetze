@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 1 der Bundes-Tierärzteordnung in der Fassung
@@ -29,10 +28,7 @@ Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Gesundheit:
 
-
 ## Abschnitt 1 - Die tierärztliche Ausbildung
-
-
 
 ### § 1 Ziele und Gliederung der tierärztlichen Ausbildung
 
@@ -115,7 +111,6 @@ Die Regelstudienzeit im Sinne des § 10 Abs. 2 des
 Hochschulrahmengesetzes beträgt für die gesamte Ausbildung fünf Jahre
 und sechs Monate.
 
-
 ### § 2 Unterrichtsveranstaltungen
 
 (1) Die Universität hat eine Ausbildung, die den in § 1 Abs. 1
@@ -159,7 +154,6 @@ in den Fächern der Tierärztlichen Prüfung teilzunehmen haben.
 (4) Die Studierenden haben an der Pflichtlehrveranstaltung
 "Querschnittsunterricht" teilzunehmen.
 
-
 ### § 3 Erprobungsklausel
 
 (1) Bei Beibehaltung der Gesamtstundenzahl des wissenschaftlich-
@@ -198,7 +192,6 @@ machen, teilen dieses der zuständigen Behörde mit einer Beschreibung
 des Erprobungsziels und der erwarteten qualitativen Verbesserungen für
 die tiermedizinische Ausbildung mit. Sie legen auf Anforderung der
 zuständigen Behörde einen Bericht über die gewonnenen Erfahrungen vor.
-
 
 ### § 4 Modellstudiengang
 
@@ -249,17 +242,9 @@ Ausbildungsziele gewahrt bleiben.
     Tierärztliche Vorprüfung und die Tierärztliche Prüfung im
     Modellstudiengang erfüllt werden.
 
-
-
-
-
 ## Abschnitt 2 - Prüfungsvorschriften
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 5 Prüfungsausschüsse
 
@@ -287,7 +272,6 @@ ablegen können. In dringenden Fällen kann der oder die Vorsitzende mit
 Zustimmung der zuständigen Behörde eine Lehrperson mit der vorläufigen
 Wahrnehmung der Prüfungsgeschäfte beauftragen.
 
-
 #### § 6 Zuständiger Prüfungsausschuss
 
 Die Studierenden legen die Abschnitte der Tierärztlichen Vorprüfung
@@ -297,7 +281,6 @@ Studienfach Veterinärmedizin immatrikuliert sind oder zuletzt
 immatrikuliert waren. Wiederholungsprüfungen sind bei dem
 Prüfungsausschuss abzulegen, bei dem die Prüfung nicht bestanden
 wurde.
-
 
 #### § 7 Meldung zur Prüfung
 
@@ -328,7 +311,6 @@ Prüfungsausschusses als gleichwertig anerkannt wird. Die Nachweise
 werden bis zum Abschluss des betreffenden Prüfungsabschnitts zu den
 Prüfungsakten genommen und anschließend wieder zurückgegeben.
 
-
 #### § 8 Zulassung zur Prüfung
 
 (1) Über die Zulassung zu den Prüfungen entscheidet für den
@@ -340,7 +322,6 @@ vorgeschriebenen Nachweise nicht erbringen oder nach § 17 Abs. 1 Satz
 
 (3) Nach der Zulassung zur Prüfung sind die Prüfungen innerhalb der
 von der Universität vorgegebenen Fristen abzulegen.
-
 
 #### § 9 Ablegung der Prüfung
 
@@ -363,7 +344,6 @@ oder einer Vertreterin der zuständigen Tierärztekammer zu gestatten,
 bei der Prüfung, die Beratung und Bekanntgabe des Prüfungsergebnisses
 ausgenommen, anwesend zu sein, soweit nicht eine oder einer der zu
 Prüfenden widerspricht.
-
 
 #### § 10 Form der Prüfung
 
@@ -391,7 +371,6 @@ Prüfungsfach nach Absatz 1 sowie die jeweils notwendigen Abweichungen
 von den §§ 9, 11, 12 und 14 in einer ergänzenden Prüfungsordnung (§ 16
 des Hochschulrahmengesetzes) fest.
 
-
 #### § 11 Prüfungstermin
 
 (1) Die Prüfungen sind zeitnah zu den Unterrichtsveranstaltungen
@@ -405,7 +384,6 @@ Regelstudienzeit nach § 1 Abs. 2 Satz 2 nicht überschritten wird.
 (2) Als vorlesungsfreie Zeit ist die Zeit anzusehen, in der für die
 betreffenden Studierenden keine Pflichtlehrveranstaltungen oder
 Praktika zu absolvieren sind.
-
 
 #### § 12 Ladung zur Prüfung, Versäumnis
 
@@ -434,7 +412,6 @@ Zeitpunkt nicht zu einer Prüfung gemeldet haben, sind vom Vorsitzenden
 oder von der Vorsitzenden des Prüfungsausschusses von Amts wegen zu
 einer Pflichtstudienberatung zu laden.
 
-
 #### § 13 Prüfungsziel
 
 (1) In der Prüfung ist zu ermitteln, ob die Studierenden sich die
@@ -449,7 +426,6 @@ sie die gebräuchlichen Fachausdrücke beherrschen.
 Studierenden zu prüfen sind, nicht zur Verfügung, so entscheidet der
 Prüfer oder die Prüferin, wie die Prüfung sachgemäß, gegebenenfalls am
 Phantom oder Modell, durchzuführen ist.
-
 
 #### § 14 Bewertung der Prüfungsleistungen
 
@@ -495,7 +471,6 @@ verbindlichen Bewertungsrahmen fest.
 (3) Das Prüfungsergebnis in einem Prüfungsfach ist den Studierenden
 jeweils nach Abschluss der Prüfung in diesem Fach bekannt zu geben.
 
-
 #### § 15 Unregelmäßigkeiten
 
 Stören Studierende den ordnungsgemäßen Ablauf der Prüfung oder
@@ -505,7 +480,6 @@ Vorsitzende kann im Benehmen mit den beteiligten Prüfern oder
 Prüferinnen die Leistungen dieser Studierenden in der betreffenden
 Prüfung für "nicht ausreichend" oder in besonders schwerwiegenden
 Fällen den Prüfungsabschnitt für "nicht bestanden" erklären.
-
 
 #### § 16 Prüfungsergebnis
 
@@ -555,7 +529,6 @@ des Prüfungsausschusses stellt fest, dass die im Übrigen erzielten
 Prüfungsnoten die Ermittlung eines aussagekräftigen Gesamtergebnisses
 zulassen.
 
-
 #### § 17 Wiederholung der Prüfung
 
 (1) Studierende können die Prüfung in nicht bestandenen
@@ -582,17 +555,13 @@ der Studierenden nach Maßgabe der ergänzenden Prüfungsordnung finden
 die Sätze 1 und 2 auch bei der ersten Wiederholungsprüfung
 entsprechend Anwendung.
 
-
 #### § 18 Mitteilung des Prüfungsergebnisses
 
 Der oder die Vorsitzende teilt nach Abschluss der Tierärztlichen
 Prüfung der zuständigen Stelle die Namen der Studierenden und die
 Prüfungsergebnisse mit.
 
-
 ### Unterabschnitt 2 - Naturwissenschaftlicher Abschnitt der Tierärztlichen Vorprüfung (Vorphysikum)
-
-
 
 #### § 19 Prüfungsfächer
 
@@ -614,7 +583,6 @@ Das Vorphysikum umfasst die Prüfungsfächer
 
 Die Prüfungen sollen bis zum Ende des ersten Studienjahres abgelegt
 werden.
-
 
 #### § 20 Nachweise
 
@@ -662,7 +630,6 @@ und als Nachweis im Sinne von Absatz 1. Bei Nichtbestehen der Prüfung
 in einem Fach oder in mehreren Fächern nach Satz 1 gilt die Prüfung
 als nicht abgelegt.
 
-
 #### § 21 Inhalt der Prüfung
 
 Die Prüfungen in den Prüfungsfächern Physik einschließlich der
@@ -672,10 +639,7 @@ für das Verständnis naturwissenschaftlicher Vorgänge und für die
 spätere Anwendung im veterinärmedizinischen Bereich wesentlichen
 Grundkenntnisse.
 
-
 ### Unterabschnitt 3 - Anatomisch-physiologischer Abschnitt der Tierärztlichen Vorprüfung (Physikum)
-
-
 
 #### § 22 Prüfungsfächer
 
@@ -699,7 +663,6 @@ Das Physikum umfasst die Prüfungsfächer
 
 Die Prüfungen sollen bis zum Ende des zweiten Studienjahres abgelegt
 werden.
-
 
 #### § 23 Nachweise
 
@@ -753,7 +716,6 @@ landwirtschaftliches Praktikum in einem anerkannten Lehrbetrieb oder
 eine andere vergleichbare und von der Universität anerkannte
 Ausbildung absolviert wurde.
 
-
 #### § 24 Anatomie
 
 In dem Prüfungsfach Anatomie haben die Studierenden den Inhalt einer
@@ -762,14 +724,12 @@ erforderlich auch herauszunehmen und je ein Thema über den
 Bewegungsapparat und die Organe oder Organsysteme anhand vorhandener
 oder anzufertigender Präparate zu behandeln.
 
-
 #### § 25 Histologie und Embryologie
 
 In dem Prüfungsfach Histologie und Embryologie haben die Studierenden
 ihre Kenntnisse in der Zellen-, Gewebe- und Organlehre am
 mikroskopisch-anatomischen Präparat sowie in der allgemeinen und
 speziellen Entwicklungslehre nachzuweisen.
-
 
 #### § 26 Physiologie
 
@@ -781,7 +741,6 @@ Funktionsablauf einzelner Organsysteme und ihre Regulation im
 Gesamtorganismus nachzuweisen. Die Ernährungsphysiologie ist zu
 berücksichtigen.
 
-
 #### § 27 Biochemie
 
 In dem Prüfungsfach Biochemie haben die Studierenden eine
@@ -791,7 +750,6 @@ der Lebensvorgänge und ihrer Steuerung nachzuweisen. Die
 Besonderheiten des intermediären Stoffwechsels bei den Haus- und
 Nutztieren sowie die Biochemie der Ernährung sind zu berücksichtigen.
 
-
 #### § 28 Tierzucht und Genetik einschließlich Tierbeurteilung
 
 In dem Prüfungsfach Tierzucht und Genetik einschließlich
@@ -800,10 +758,7 @@ seines Nutz- oder Zuchtwertes zu beurteilen und nachzuweisen, dass sie
 sich ausreichende Kenntnisse in der Genetik sowie in der Zucht von
 Haustieren und im Tierzuchtrecht angeeignet haben.
 
-
 ### Unterabschnitt 4 - Tierärztliche Prüfung
-
-
 
 #### § 29 Prüfungsfächer
 
@@ -869,10 +824,6 @@ Die Tierärztliche Prüfung umfasst die Prüfungen in den Fächern:
 
 20. Gerichtliche Veterinärmedizin, Berufs- und Standesrecht.
 
-
-
-
-
 #### § 30 Besondere Vorschriften für die Abschlussprüfungen
 
 Die Prüfungen in den Fächern Allgemeine Pathologie und Spezielle
@@ -881,7 +832,6 @@ Fleischhygiene, Milchhygiene, Innere Medizin, Chirurgie und
 Anästhesiologie, Reproduktionsmedizin sowie Gerichtliche
 Veterinärmedizin, Berufs- und Standesrecht dürfen nicht vor dem Ende
 des achten Semesters abgeschlossen werden.
-
 
 #### § 31 Nachweise
 
@@ -921,13 +871,7 @@ Nachweise erforderlich:
     Wahlpflichtveranstaltungen nach § 23 Abs. 1 Nr. 4 nicht berücksichtigt
     werden.
 
-
-
-
-
 ### Unterabschnitt 5 - Lehrinhalte und Studienfächer
-
-
 
 #### § 32 Tierhaltung und Tierhygiene
 
@@ -938,7 +882,6 @@ die Auswirkungen der Tierhaltung auf die Umwelt. Bei Tieren, die der
 Gewinnung von Lebensmitteln dienen, ist die Auswirkung der Haltung auf
 die Qualität der gewonnenen Lebensmittel zu berücksichtigen.
 
-
 #### § 33 Tierschutz und Ethologie
 
 In dem Prüfungsfach Tierschutz und Ethologie haben die Studierenden
@@ -948,7 +891,6 @@ im Tierhandel, bei Tiertransporten, bei der Schlachtung oder Tötung
 und bei Tierversuchen sowie ihre Kenntnisse über tierschutzrechtliche
 Bestimmungen mit ihren ethischen und wissenschaftlichen Grundlagen und
 in der Ethologie nachzuweisen.
-
 
 #### § 34 Tierernährung
 
@@ -961,13 +903,11 @@ Herkunft und den Grundlagen der Diätetik unter besonderer
 Berücksichtigung der Futtermittelkunde sowie auf die tierärztlich
 wichtigen Vorschriften des Futtermittelrechts.
 
-
 #### § 35 Klinische Propädeutik
 
 In dem Prüfungsfach Klinische Propädeutik haben die Studierenden ein
 Tier zu untersuchen und nachzuweisen, dass sie sich mit den Grundlagen
 der klinischen Untersuchungsmethoden vertraut gemacht haben.
-
 
 #### § 36 Virologie
 
@@ -978,7 +918,6 @@ hervorgerufenen Erkrankungen bei Tieren sowie ihre Bedeutung für die
 Gesundheit des Menschen nachzuweisen. Dabei sind Fragen der
 Immunologie, der Epidemiologie und der Tierseuchenlehre zu
 berücksichtigen.
-
 
 #### § 37 Bakteriologie und Mykologie
 
@@ -991,7 +930,6 @@ Bekämpfung der durch sie hervorgerufenen Erkrankungen bei Tieren sowie
 Dabei sind Fragen der Immunologie, der Epidemiologie und der
 Tierseuchenlehre zu berücksichtigen.
 
-
 #### § 38 Parasitologie
 
 In dem Prüfungsfach Parasitologie haben die Studierenden ein
@@ -1003,7 +941,6 @@ Gesundheit des Menschen nachzuweisen. Dabei sind Fragen der
 Immunologie, der Epidemiologie und der Tierseuchenlehre zu
 berücksichtigen.
 
-
 #### § 39 Tierseuchenbekämpfung und Infektionsepidemiologie
 
 In dem Prüfungsfach Tierseuchenbekämpfung und Infektionsepidemiologie
@@ -1013,7 +950,6 @@ Auswirkungen von Tierseuchen einschließlich deren Prophylaxe,
 Grundlagen der Infektionsepidemiologie, des Tierseuchenrechts sowie
 der Vorschriften zur Verarbeitung tierischer Nebenprodukte
 nachzuweisen.
-
 
 #### § 40 Pharmakologie und Toxikologie
 
@@ -1028,7 +964,6 @@ Stoffe durch den Tierkörper. Die entsprechenden Wirkungen und
 Eigenschaften von Giften und Umweltkontaminanten im gesunden oder
 kranken Organismus sowie die Therapie von akuten und chronischen
 Vergiftungen sind ebenfalls zu berücksichtigen.
-
 
 #### § 41 Arznei- und Betäubungsmittelrecht
 
@@ -1045,7 +980,6 @@ Betäubungsmitteln sowie über die Vorschriften und Maßnahmen zur
 Vermeidung von Rückständen in Lebensmitteln tierischer Herkunft
 nachzuweisen.
 
-
 #### § 42 Geflügelkrankheiten
 
 In dem Prüfungsfach Geflügelkrankheiten haben die Studierenden ihre
@@ -1054,7 +988,6 @@ Therapie der Krankheiten des Wirtschaftsgeflügels, der Wild-, Zier-
 und Zoovögel unter besonderer Berücksichtigung der Haltung und der
 Fütterung im Hinblick auf die Entstehung und Behandlung von
 Krankheiten nachzuweisen.
-
 
 #### § 43 Radiologie
 
@@ -1105,7 +1038,6 @@ Radiologie während der klinischen Ausbildung begonnen werden und
 richtet sich nach den Vorgaben der Richtlinie Strahlenschutz in der
 Tierheilkunde.
 
-
 #### § 44 Allgemeine Pathologie und Spezielle pathologische Anatomie und Histologie
 
 In dem Prüfungsfach Allgemeine Pathologie und Spezielle pathologische
@@ -1117,7 +1049,6 @@ zu erläutern, die Obduktion eines Tierkörpers auszuführen oder ein
 Organ oder mehrere Organe zu untersuchen, die Befunde zu erläutern und
 anschließend niederzuschreiben sowie ihre Kenntnisse über
 feststellbare Krankheitsprozesse und ihre Pathogenese nachzuweisen.
-
 
 #### § 45 Lebensmittelkunde einschließlich Lebensmittelhygiene
 
@@ -1143,7 +1074,6 @@ Risikoanalyse nach wissenschaftlichen Grundsätzen, diagnostizieren,
 einordnen und geeignete Kontroll- und Korrekturmaßnahmen ergreifen
 können.
 
-
 #### § 46 Fleischhygiene
 
 In dem Prüfungsfach Fleischhygiene haben die Studierenden ein
@@ -1167,7 +1097,6 @@ lebensmittelbedingter Gefährdungen der menschlichen Gesundheit sowie
 auf Methoden der Epidemiologie und Monitoring- und Überwachungssysteme
 einzugehen.
 
-
 #### § 47 Milchkunde
 
 In dem Prüfungsfach Milchkunde haben die Studierenden eine Milchprobe
@@ -1181,7 +1110,6 @@ Hygiene und Technologie der Milchgewinnung und Milchverarbeitung sowie
 Erzeugung, der Be- und Verarbeitung und der Vermarktung der Milch und
 Milcherzeugnisse einschließlich der Maßnahmen zur Qualitätssicherung
 sowie über die einschlägigen Rechtsvorschriften nachzuweisen.
-
 
 #### § 48 Reproduktionsmedizin
 
@@ -1200,7 +1128,6 @@ Störungen bei männlichen Haustieren sowie der Zuchthygiene, der
 künstlichen Besamung und anderer biotechnischer Maßnahmen
 einschließlich der Herdenbetreuung nachzuweisen.
 
-
 #### § 49 Innere Medizin
 
 In dem Prüfungsfach Innere Medizin haben die Studierenden ein an einer
@@ -1214,7 +1141,6 @@ Befundprotokoll über ein untersuchtes Tier zu erstellen. Sie haben
 ferner ihre Kenntnisse in der Lehre der Inneren Krankheiten und der
 Hautkrankheiten der Tiere unter Berücksichtigung der allgemeinen und
 speziellen Therapie sowie der Herdenbetreuung nachzuweisen.
-
 
 #### § 50 Chirurgie und Anästhesiologie
 
@@ -1233,7 +1159,6 @@ Chirurgie und der Anästhesiologie sowie insbesondere der
 Augenkrankheiten, der Zahnheilkunde, der Huf- und Klauenkrankheiten
 und der Huf- und Beschlagslehre nachzuweisen.
 
-
 #### § 51 Gerichtliche Veterinärmedizin, Berufs- und Standesrecht
 
 In dem Prüfungsfach Gerichtliche Veterinärmedizin, Berufs- und
@@ -1248,7 +1173,6 @@ tierärztlichen Berufsstandes und über das tierärztliche Berufs- und
 Standesrecht einschließlich der rechtlichen Gegebenheiten der
 Praxisführung darzulegen.
 
-
 #### § 52 Tierartkliniken
 
 (1) In den Prüfungsfächern nach den §§ 48, 49 und 50 sind Einhufer,
@@ -1258,7 +1182,6 @@ Wiederkäuer, Schweine, Klein- und Heimtiere zu berücksichtigen.
 eingerichtet haben, können die Prüfungen durch Beschluss des
 Prüfungsausschusses entsprechend den vorhandenen Kliniken verteilt
 werden.
-
 
 #### § 53 Querschnittsunterricht
 
@@ -1287,10 +1210,7 @@ möglichen Auswirkungen der Krankheiten von Tieren und die Folgen ihrer
 Therapie auf die Gesundheit des Menschen und auf die Umwelt sind zu
 berücksichtigen.
 
-
 ## Abschnitt 3 - Der praktische Studienteil
-
-
 
 ### § 54 Praktika
 
@@ -1300,10 +1220,7 @@ angemessenem Umfang an allen Wochentagen in den jeweiligen
 Einrichtungen abgeleistet. Der Zeitpunkt der Ableistung wird von der
 Universität festgelegt.
 
-
 ### Unterabschnitt 1 - Die Ausbildung in Kontrolltätigkeiten, -methoden und -techniken für den Lebensmittelbereich einschließlich der Überprüfung von Frischfleisch
-
-
 
 #### § 55 Ausbildungsstätten, Dauer
 
@@ -1331,7 +1248,6 @@ Kontrolltätigkeit verantwortlich tätig sind. Werden in einem Betrieb
 nur Rinder oder nur Schweine geschlachtet, so sind von der
 Ausbildungszeit nach Absatz 2 mindestens 30 Stunden in einem
 Schlachthof mit der jeweils anderen Tierart abzuleisten.
-
 
 #### § 56 Inhalt der Ausbildung
 
@@ -1365,10 +1281,7 @@ Behandlung der Schlachttiere zu informieren.
 (3) Die Studierenden erhalten über die Ausbildung nach § 55 Abs. 1 und
 2 Bescheinigungen nach den Anlagen 6 und 7.
 
-
 ### Unterabschnitt 2 - Die Ausbildung in der kurativen tierärztlichen Praxis oder in einer Tierklinik
-
-
 
 #### § 57 Ausbildungsstätten, Dauer
 
@@ -1390,7 +1303,6 @@ Vorgaben der Studienordnung der Universität innerhalb von mindestens
 erfolgreiche Teilnahme an den für das Prüfungsfach Radiologie
 festgelegten Unterrichtsveranstaltungen ist Voraussetzung für den
 Beginn der Ausbildung nach Absatz 2.
-
 
 #### § 58 Ausbildung in der kurativen tierärztlichen Praxis
 
@@ -1417,7 +1329,6 @@ Tätigkeitsbereichs einzubringen.
 (3) Die Studierenden erhalten über die Ausbildung eine Bescheinigung
 nach den Anlagen 8 und 9.
 
-
 #### § 59 Ausbildung in der Tierklinik
 
 (1) Die Ausbildung ist in den Kliniken einer Universität abzuleisten.
@@ -1434,10 +1345,7 @@ die durch die praktische Ausbildung berührt werden, anzuhalten.
 (3) Die Studierenden erhalten über die Ausbildung eine Bescheinigung
 nach Anlage 10.
 
-
 ### Unterabschnitt 3 - Wahlpraktikum
-
-
 
 #### § 60 Ausbildungsstätten, Dauer
 
@@ -1478,17 +1386,13 @@ Wochen kann abgeleistet werden
 Die Studierenden erhalten über die Ausbildung eine Bescheinigung nach
 Anlage 11.
 
-
 ### Unterabschnitt 4 - Die praktische Ausbildung im öffentlichen Veterinärwesen
-
-
 
 #### § 61 Ausbildungsstätten, Dauer
 
 Die praktische Ausbildung im öffentlichen Veterinärwesen dauert 75
 Stunden innerhalb von mindestens zwei Wochen, die aufeinander folgen
 sollen. Sie erfolgt in Dienststellen der Veterinärverwaltung.
-
 
 #### § 62 Inhalt der Ausbildung
 
@@ -1502,10 +1406,7 @@ sowie der Organisations- und Verwaltungskunde erlangen.
 (2) Die Studierenden erhalten über die durchgeführte Ausbildung eine
 Bescheinigung nach Anlage 12.
 
-
 ## Abschnitt 4 - Die Approbation
-
-
 
 ### § 63 Antrag auf Approbation
 
@@ -1623,16 +1524,12 @@ eines Ausbildungsnachweises nach § 4 Abs. 1a Satz 3 oder § 4 Abs. 2
 Satz 2 Nr. 3 der Bundes-Tierärzteordnung geht, stehen für Fälle nach
 Satz 1 vier statt drei Monate zur Verfügung.
 
-
 ### § 64 Approbationsurkunde
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 13 erteilt.
 Sie ist dem Antragsteller zuzustellen.
 
-
 ## Abschnitt 5 - Ergänzende Vorschriften
-
-
 
 ### § 65 Anrechnung von Studienzeiten und Prüfungen
 
@@ -1658,7 +1555,6 @@ abgelegt worden sind.
 (4) Die Anrechnung von Studienzeiten und die Anerkennung von Prüfungen
 erfolgt auf Antrag.
 
-
 ### § 66 Zuständige Stelle
 
 (1) Die Entscheidungen nach § 65 trifft die Universität des Landes, in
@@ -1682,7 +1578,6 @@ verbinden.
 (2) Der Antragsteller oder die Antragstellerin erhält über die
 getroffene Entscheidung eine Bescheinigung. Die Bescheinigung gilt
 nach Maßgabe ihres Inhalts als Nachweis im Sinne der §§ 20, 23 und 31.
-
 
 ### § 67 Ausnahmen
 
@@ -1716,7 +1611,6 @@ ist und das Ziel der Ausbildung nicht beeinträchtigt wird. Nach Satz 1
 Nr. 2 bis 5 erteilte Ausnahmen gelten nach Maßgabe ihres Inhalts als
 Nachweis auch für die Zulassung zu den nachfolgenden Prüfungen.
 
-
 ### § 68 Übergangsvorschriften
 
 (1) Studierende, die sich vor dem 1. Oktober 2006 zur Tierärztlichen
@@ -1746,16 +1640,13 @@ Prüfungsordnungen bis zum 1. Oktober 2006 nicht an diese Verordnung
 angepasst haben, gelten die Absätze 1 bis 3 mit der Maßgabe, dass an
 die Stelle des 1. Oktober 2006 der 1. Oktober 2007 tritt.
 
-
 ### § 69 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 2 Abs. 1, 2 und 3) Fachgebiete und Gesamtstundenzahlen
 
@@ -2018,10 +1909,6 @@ Der Bundesrat hat zugestimmt.
     Zusammenfassung verschiedener Fachgebiete zu gemeinsamen
     Lehrveranstaltungen werden durch diese Anlage nicht berührt.
 
-
-
-
-
 ### Anlage 2 (zu § 14 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1843 - 1844
@@ -2112,10 +1999,6 @@ soweit nicht Prüfer/in die Niederschrift gefertigt hat)
 \*) Hier ist der Prüfungsablauf stichwortartig oder dem Inhalt nach
     wiederzugeben.
 
-
-
-
-
 ### Anlage 3 (zu § 16 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1845
@@ -2169,10 +2052,6 @@ des Prüfungsausschusses
 
 
 ++) Nichtzutreffendes streichen.
-
-
-
-
 
 ### Anlage 4 (zu § 16 Abs. 1 und 4)
 
@@ -2237,7 +2116,6 @@ des Prüfungsausschusses
 -----
 \*)  Datum der letzten Prüfung (bzw. Wiederholungsprüfung).
 ++) Nichtzutreffendes streichen.
-
 
 ### Anlage 5 (zu § 16 Abs. 1)
 
@@ -2356,7 +2234,6 @@ des Prüfungsausschusses
 \*)  Datum der letzten Prüfung (bzw. Wiederholungsprüfung).
 ++) Nichtzutreffendes streichen.
 
-
 ### Anlage 6 (zu § 56 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1849;
@@ -2394,7 +2271,6 @@ geübt.
 (Unterschrift der/des ausbildenden
 Tierärztin/Tierarztes)
 
-
 ### Anlage 7 (zu § 56 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1850
@@ -2430,7 +2306,6 @@ Tierärzten.
 .........................................................
 (Unterschrift der/des ausbildenden Tierärztin/Tierarztes)
 
-
 ### Anlage 8 (zu § 58 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1851
@@ -2461,7 +2336,6 @@ Approbation von Tierärztinnen und Tierärzten erfülle.
 ..............................................
 (Unterschrift Praxisinhaber/in)
 
-
 ### Anlage 9 (zu § 58 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1852
@@ -2489,7 +2363,6 @@ Approbation von Tierärztinnen und Tierärzten erfülle.
 (Unterschrift Praxisinhaber/in)
 ****
 
-
 ### Anlage 10 (zu § 59 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1853
@@ -2513,7 +2386,6 @@ Tierärztinnen und Tierärzten abgeleistet.
 (Siegel oder Stempel)
 ...............................................
 (Unterschrift Leiter/in der Tierklinik)
-
 
 ### Anlage 11 (zu § 60 Satz 2)
 
@@ -2549,7 +2421,6 @@ erweitern und praktisch anzuwenden.
 ...............................................
 (Unterschrift ausbildende/r Tierärztin/Tierarzt)
 
-
 ### Anlage 12 (zu § 62 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1855;
@@ -2578,7 +2449,6 @@ Gebieten des
 (Siegel oder Stempel)
 .............................................
 (Unterschrift Ausbilder/in)
-
 
 ### Anlage 13 (zu § 64)
 

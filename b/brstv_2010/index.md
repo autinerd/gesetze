@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 1.7.2011 I 1308
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -90,12 +88,7 @@ Im Sinn dieser Verordnung ist
     59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG)
     Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist.
 
-
-
-
-
 ## Abschnitt 2 - Zu den §§ 130, 131 und 164 Absatz 2 und 3 des Gesetzes
-
 
 ### § 2 Brennwein
 
@@ -103,7 +96,6 @@ Brennwein mit einem Alkoholgehalt von nicht mehr als 22
 Volumenprozent, der in ein Steuerlager mit einer Weinbrennerei
 aufgenommen wird, wird bis zur bestimmungsgemäßen Verarbeitung wie
 Branntwein behandelt.
-
 
 ### § 3 Alkoholgehalt
 
@@ -197,10 +189,6 @@ vom 27.9.1976, S. 149) angegeben ist.
 
 2.  als Massengehalt in Masseprozent.
 
-
-
-
-
 ### § 4 Alkoholmenge
 
 (1) Die Alkoholmenge ist das in Litern ausgedrückte Volumen des
@@ -220,9 +208,7 @@ Nennfüllmenge und dem Alkoholgehalt berechnet, die auf den Packungen
 angegeben sind, es sei denn, diese Angaben weichen um mehr als 0,5
 Volumenprozent von dem tatsächlichen Alkoholgehalt ab.
 
-
 ## Abschnitt 3 - Zu den §§ 133, 134 und 143 Absatz 3 des Gesetzes
-
 
 ### § 5 Steuerlager, Anforderungen an die Einrichtung
 
@@ -284,7 +270,6 @@ Bundesmonopolverwaltung für Branntwein und der Zollverwaltung nach
 Maßgabe des § 5 Absatz 1 und 2 der Branntweinmonopolverordnung
 ausgeübt.
 
-
 ### § 6 Antrag auf Erlaubnis als Steuerlagerinhaber
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 134 des
@@ -342,7 +327,6 @@ Steuerbelange dadurch nicht beeinträchtigt werden.
 betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und
 3 eine Erweiterung der Erlaubnis.
 
-
 ### § 7 Erteilung der Erlaubnis
 
 (1) Das zuständige Hauptzollamt erteilt schriftlich unter
@@ -395,7 +379,6 @@ als Verschlussmaßnahmen Rechnung getragen werden kann.
 (5) In den Fällen des § 6 Absatz 4 wird die Erlaubnis erweitert. Die
 Absätze 1 bis 4 bleiben unberührt.
 
-
 ### § 8 Sicherheitsleistung
 
 (1) Die Höhe der Sicherheitsleistung wird durch das zuständige
@@ -413,7 +396,6 @@ sind, unter amtlichen Mitverschluss nehmen und die Sicherheitsleistung
 auf die entstandene, aber noch nicht entrichtete Steuer beschränken.
 Für den amtlichen Mitverschluss des Steuerlagers gilt § 83 der
 Brennereiordnung entsprechend.
-
 
 ### § 9 Aufnahme von Abfindungsbranntwein
 
@@ -455,7 +437,6 @@ zu versendende Obstbranntwein.
 (4) Das zuständige Hauptzollamt ordnet zur Durchführung der Absätze 1
 und 3 eine besondere Lagerbuchführung an.
 
-
 ### § 10 Änderung von Verhältnissen, anderweitige Nutzung des Steuerlagers
 
 (1) Der Steuerlagerinhaber hat dem zuständigen Hauptzollamt im Voraus
@@ -481,7 +462,6 @@ Erlaubnis mehrere Steuerlager umfasst, wird diese geändert.
 (3) Die vorübergehende Nutzung der Räume oder der Betriebseinrichtung
 des Steuerlagers für andere als Steuerlagerzwecke (§ 133 Absatz 1 des
 Gesetzes) bedarf der Zustimmung des zuständigen Hauptzollamts.
-
 
 ### § 11 Erlöschen und Fortbestand der Erlaubnis
 
@@ -608,7 +588,6 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 Entsprechendes gilt in den Fällen des Absatzes 1 Nummer 9 und 10 für
 den Steuerlagerinhaber.
 
-
 ### § 12 Belegheft, Buchführung
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das zuständige
@@ -631,7 +610,6 @@ insbesondere die Entnahmen in den freien Verkehr in der
 Lagerbuchführung für längstens einen Kalendermonat zusammengefasst
 aufgezeichnet werden.
 
-
 ### § 13 Vollständige Zerstörung, unwiederbringlicher Verlust und Vernichtung
 
 (1) Sind Erzeugnisse unbeabsichtigt vollständig zerstört worden oder
@@ -648,7 +626,6 @@ zuständige Hauptzollamt kann Vereinfachungen zulassen und Anordnungen
 zur Nachweisführung treffen. Die Vernichtung ist amtlich zu
 überwachen, soweit das zuständige Hauptzollamt nicht darauf
 verzichtet. Außersteuerliche Vorschriften bleiben unberührt.
-
 
 ### § 14 Bestandsaufnahme im Steuerlager
 
@@ -686,7 +663,6 @@ Lehrbetrieben von den Verpflichtungen nach Absatz 1, wenn
 sichergestellt ist, dass Erzeugnisse dort ausschließlich zu Versuchs-
 oder Unterrichtszwecken hergestellt und im Rahmen dieser Zwecke
 verbraucht oder vernichtet werden.
-
 
 ### § 15 Fehlmengen im Steuerlager
 
@@ -775,7 +751,6 @@ entgegenstehen, eine andere Art der Verlustermittlung und -bewertung
 zulassen, wenn die Ermittlung nach den Absätzen 2 bis 4 zu
 betrieblichen Schwierigkeiten führt.
 
-
 ### § 16 Vergällter Branntwein, Branntwein aus nichtlandwirtschaftlichen Rohstoffen
 
 (1) Soll Branntwein auf Antrag des Steuerlagerinhabers vergällt
@@ -795,9 +770,7 @@ mit verschiedenen Vergällungsmitteln vergällten Branntwein sowie
 Branntwein aus landwirtschaftlichen und nichtlandwirtschaftlichen
 Rohstoffen jeweils getrennt von einander zu lagern.
 
-
 ## Abschnitt 4 - Zu § 135 des Gesetzes
-
 
 ### § 17 Registrierter Empfänger
 
@@ -868,9 +841,7 @@ Beförderung und auf einen bestimmten Zeitraum zu beschränken ist. Vor
 der Erteilung der Erlaubnis ist Sicherheit nach § 135 Absatz 2 Satz 4
 des Gesetzes zu leisten. Absatz 4 gilt entsprechend.
 
-
 ## Abschnitt 5 - Zu § 136 des Gesetzes
-
 
 ### § 18 Registrierter Versender
 
@@ -928,9 +899,7 @@ aufzuzeichnen.
 (6) Bei der Änderung der dargestellten Verhältnisse gilt § 10 und für
 das Erlöschen und den Fortbestand der Erlaubnis § 11 entsprechend.
 
-
 ## Abschnitt 6 - Zu den §§ 137 und 159 Nummer 1 des Gesetzes
-
 
 ### § 19 Begünstigte, Ausstellen der Freistellungsbescheinigung
 
@@ -986,9 +955,7 @@ durch Diplomaten und konsularische Missionen empfangen werden, gilt §
 17 der Zollverordnung in Verbindung mit den dazu ergangenen
 Verwaltungsvorschriften sinngemäß.
 
-
 ## Abschnitt 7 - Zu den §§ 138 bis 141 des Gesetzes
-
 
 ### § 20 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
@@ -1005,7 +972,6 @@ wird vom Bundesministerium der Finanzen im Internet unter www.zoll.de
 veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister
 sind verpflichtet, die in der Verfahrensanweisung festgelegten
 Voraussetzungen und Bedingungen einzuhalten.
-
 
 ### § 21 Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks
 
@@ -1062,7 +1028,6 @@ eines anderen Mitgliedstaats übermittelt wurde, wird vom zuständigen
 Hauptzollamt an den Empfänger im Steuergebiet weitergeleitet, wenn
 dieser ein Steuerlagerinhaber oder ein registrierter Empfänger ist.
 
-
 ### § 22 Mitführen der Freistellungsbescheinigung
 
 Werden Erzeugnisse unter Steueraussetzung zu Begünstigten befördert,
@@ -1071,7 +1036,6 @@ Absatz 1 Satz 2 ausgehändigte Ausfertigung oder die von den
 zuständigen Behörden eines anderen Mitgliedstaats bestätigte zweite
 Ausfertigung der Freistellungsbescheinigung mitzuführen. Die jeweils
 erste Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
-
 
 ### § 23 Art und Höhe der Sicherheitsleistung
 
@@ -1092,7 +1056,6 @@ der Steuer, die bei der Überführung der Erzeugnisse in den
 steuerrechtlich freien Verkehr im Steuergebiet entstehen würde. Die
 Angemessenheit der Bürgschaftssumme ist im Fall der Gesamtbürgschaft
 regelmäßig zu überprüfen.
-
 
 ### § 24 Annullierung des elektronischen Verwaltungsdokuments
 
@@ -1118,7 +1081,6 @@ Empfänger im Steuergebiet bestimmt waren, der entweder ein
 Steuerlagerinhaber oder ein registrierter Empfänger ist, leitet das
 für den Empfänger zuständige Hauptzollamt die eingehende
 Annullierungsmeldung an diesen weiter.
-
 
 ### § 25 Änderung des Bestimmungsorts bei Verwendung des elektronischen Verwaltungsdokuments
 
@@ -1160,7 +1122,6 @@ entsprechende Meldung unterrichtet.
 Verwaltungsdokuments das darin angegebene Steuerlager des Empfängers
 geändert, so leitet das für den Empfänger zuständige Hauptzollamt die
 Änderungsmeldung an diesen weiter.
-
 
 ### § 26 Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft
 
@@ -1226,7 +1187,6 @@ gelten, sobald der Empfänger im Steuergebiet an den Erzeugnissen
 Besitz erlangt hat. Die Vorschriften zu den Beförderungen unter
 Steueraussetzung bleiben unberührt.
 
-
 ### § 27 Beförderungen im Steuergebiet in Sonderfällen
 
 (1) Bei Beförderungen von Erzeugnissen unter Steueraussetzung zwischen
@@ -1287,7 +1247,6 @@ der dritten Ausfertigung (Rückschein). Der bestätigte Rückschein ist
 von dem Hauptzollamt an den Versender zurückzuschicken, der diesen als
 Beleg zu seinen Aufzeichnungen zu nehmen hat. Die zweite und vierte
 Ausfertigung verbleibt beim Hauptzollamt.
-
 
 ### § 28 Beförderungen im Steuergebiet in Betriebe von Verwendern
 
@@ -1423,7 +1382,6 @@ Handelspapiers anzuzeigen. Das für den Steuerlagerinhaber zuständige
 Hauptzollamt kann zulassen, dass die Lieferungen eines Monats
 zusammengefasst angezeigt werden.
 
-
 ### § 29 Beginn der Beförderung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
@@ -1477,7 +1435,6 @@ versehene dritte Ausfertigung des Ausfalldokuments gilt als
 Beförderungspapier im Sinn des § 21 Absatz 3 Satz 1. Für die Eingangs-
 und Ausfuhrmeldung ist § 26 anzuwenden.
 
-
 ### § 30 Annullierung im Ausfallverfahren
 
 (1) Steht das EDV-gestützte Beförderungs- und Kontrollsystem nicht zur
@@ -1499,7 +1456,6 @@ unverzüglich unter Verwendung des EDV-gestützten Beförderungs- und
 Kontrollsystems den Entwurf einer elektronischen Annullierungsmeldung
 nach § 24 Absatz 2 zu übermitteln. § 24 Absatz 3 und 4 gilt
 entsprechend.
-
 
 ### § 31 Änderung des Bestimmungsorts im Ausfallverfahren
 
@@ -1534,7 +1490,6 @@ Beförderungs- und Kontrollsystems, die Anzeigepflicht bei jeder
 Änderung des Bestimmungsorts sowie die Übermittlung der zweiten
 Ausfertigung des Änderungsdokuments gilt § 29 Absatz 2 und Absatz 4
 Satz 1 und 2 entsprechend.
-
 
 ### § 32 Eingangs- und Ausfuhrmeldung im Ausfallverfahren
 
@@ -1592,7 +1547,6 @@ zur Verfügung und liegt das elektronische Verwaltungsdokument vor,
 erstellt das Hauptzollamt eine Ausfuhrmeldung nach § 26 Absatz 5 Satz
 1\. § 26 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
-
 ### § 33 Ersatznachweise für die Beendigung der Beförderung
 
 Liegt kein Nachweis nach § 26 Absatz 6 vor, bestätigt das für den
@@ -1607,9 +1561,7 @@ gilt insbesondere ein vom Empfänger vorgelegtes Dokument, das
 dieselben Angaben enthält wie die Eingangsmeldung und in dem dieser
 den Empfang der Erzeugnisse bestätigt.
 
-
 ## Abschnitt 8 - Zu den §§ 142 und 143 Absatz 3 des Gesetzes
-
 
 ### § 34 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
@@ -1630,18 +1582,14 @@ oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem
 Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen
 nachzuweisen.
 
-
 ## Abschnitt 9 - Zu den §§ 143 und 144 des Gesetzes
-
 
 ### § 35 Steueranmeldung
 
 Die Steueranmeldung nach § 144 Absatz 1 Satz 1 und Absatz 2 Satz 1 des
 Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 10 - Zu § 156 Absatz 1 der Abgabenordnung
-
 
 ### § 36 Kleinbetragsregelung
 
@@ -1650,9 +1598,7 @@ Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
 wenn die Abweichung von der angemeldeten oder festgesetzten Steuer
 mindestens 10 Euro beträgt.
 
-
 ## Abschnitt 11 - Zu den §§ 145 bis 147 des Gesetzes
-
 
 ### § 37 Anmeldung der Erzeugnisse
 
@@ -1662,9 +1608,7 @@ Besteuerung wesentlichen Merkmalen und nach dem Steuertarif
 anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach
 amtlichem Vordruck abzugeben.
 
-
 ## Abschnitt 12 - Zu § 148 des Gesetzes
-
 
 ### § 38 Beförderungen zu privaten Zwecken
 
@@ -1673,9 +1617,7 @@ des Gesetzes zu privaten Zwecken in das Steuergebiet befördert, wird
 widerleglich vermutet, dass dieser zu gewerblichen Zwecken in das
 Steuergebiet befördert wird (§ 149 des Gesetzes).
 
-
 ## Abschnitt 13 - Zu § 149 des Gesetzes
-
 
 ### § 39 Beförderungen zu gewerblichen Zwecken
 
@@ -1716,15 +1658,12 @@ vereinfachten Begleitdokuments, versehen mit seiner
 Empfangsbestätigung, vorzulegen. Auf Antrag bestätigt das Hauptzollamt
 die Anmeldung oder Entrichtung der Steuer.
 
-
 ### § 40 Durchfuhr von Erzeugnissen des steuerrechtlich freien Verkehrs eines anderen Mitgliedstaats
 
 Werden Erzeugnisse nach § 149 Absatz 2 Satz 2 Nummer 1 des Gesetzes
 durch das Steuergebiet befördert, gilt § 39 Absatz 3 entsprechend.
 
-
 ## Abschnitt 14 - Zu § 150 des Gesetzes
-
 
 ### § 41 Versandhandel, Beauftragter
 
@@ -1761,9 +1700,7 @@ unverzüglich anzuzeigen.
 (5) Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck
 abzugeben.
 
-
 ## Abschnitt 15 - Zu § 151 des Gesetzes
-
 
 ### § 42 Unregelmäßigkeiten während der Beförderung von Erzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
@@ -1781,9 +1718,7 @@ nachzuweisen.
 (3) Die Steuerschuldner nach § 151 Absatz 3 Satz 1 des Gesetzes haben
 die Steueranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 16 - Zu den §§ 152 und 153 des Gesetzes
-
 
 ### § 43 Vollständig vergällter Branntwein
 
@@ -1817,7 +1752,6 @@ ist, in der jeweils geltenden Fassung beschrieben sind.
 Mitgliedstaaten befördert, hat der Beförderer die zweite und dritte
 Ausfertigung des vereinfachten Begleitdokuments mitzuführen.
 
-
 ### § 44 Allgemeine Verwendungserlaubnis
 
 Unter Verzicht auf eine förmliche Erlaubnis ist die gewerbliche
@@ -1849,7 +1783,6 @@ Verwendung
 
 für die in § 152 Absatz 1 Nummer 3 und 4 des Gesetzes genannten Zwecke
 allgemein erlaubt. Die §§ 45 bis 48 gelten insoweit nicht.
-
 
 ### § 45 Antrag auf Erlaubnis zur steuerfreien Verwendung
 
@@ -1891,7 +1824,6 @@ bestimmte Trinkbranntweine mit gleicher Zweckbestimmung, die in einem
 zugelassenen Verfahren unter amtlicher Aufsicht für Trinkzwecke
 unbrauchbar gemacht worden sind.
 
-
 ### § 46 Erteilung der Erlaubnis, Erlaubnisschein
 
 (1) Das zuständige Hauptzollamt erteilt dem Verwender schriftlich
@@ -1918,7 +1850,6 @@ vorzulegen.
 (4) Für die Anzeigepflicht bei Änderung der dargestellten Verhältnisse
 gilt § 10 und für das Erlöschen und den Fortbestand § 11 entsprechend.
 
-
 ### § 47 Belegheft, Buchführung
 
 (1) Der Verwender hat ein Belegheft zu führen. Das zuständige
@@ -1933,7 +1864,6 @@ Steuerbelange dadurch nicht beeinträchtigt werden. Für die
 Aufzeichnungspflicht gilt § 12 Absatz 3 entsprechend. Das Hauptzollamt
 kann in Ausnahmefällen, soweit steuerliche Belange dem nicht
 entgegenstehen, auf das Führen eines Verwendungsbuches verzichten.
-
 
 ### § 48 Lagerung, Bestandsaufnahme
 
@@ -1960,7 +1890,6 @@ andere Aufzeichnungen an seiner Stelle zugelassen sind, hat der
 Verwender einmal jährlich den Bestand aufzunehmen. Die §§ 14 und 15
 Absatz 1 gelten entsprechend.
 
-
 ### § 49 Abgabe von Erzeugnissen, zweckwidrige Verwendung
 
 (1) Das zuständige Hauptzollamt kann dem Verwender auf Antrag
@@ -1977,7 +1906,6 @@ versehen sind.
 
 (2) Die Steueranmeldung nach § 153 Absatz 3 Satz 5 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
-
 
 ### § 50 Vergällung
 
@@ -2089,7 +2017,6 @@ enthalten und ist eine Vergällung nicht möglich, kann das zuständige
 Hauptzollamt mit Zustimmung der Bundesmonopolverwaltung auf Antrag von
 einer Vergällung absehen.
 
-
 ### § 51 Steuerfreie Erzeugnisse aus vergällten Erzeugnissen
 
 Erzeugnisse nach § 152 Absatz 2 Nummer 5 des Gesetzes aus einem
@@ -2101,18 +2028,11 @@ festgestellt wurde, dass die Erzeugnisse aus unvergällten Erzeugnissen
 hergestellt wurden oder dass sie von einer Beschaffenheit sind, die
 einen Missbrauch der Steuerfreiheit befürchten lassen.
 
-
 ### § 52 (weggefallen)
-
-
 
 ### § 53 (weggefallen)
 
-
-
 ### § 54 (weggefallen)
-
-
 
 ### § 55 Abgabe von Getränke- und Lebensmittelaromen, zweckwidrige Abgabe oder Verwendung
 
@@ -2136,9 +2056,7 @@ Absatz 3 des Gesetzes besteuert, soweit das Gesetz nicht etwas anderes
 vorsieht oder mit der Steuerentstehung eine Doppelbesteuerung
 einträte.
 
-
 ## Abschnitt 17 - Zu § 154 des Gesetzes
-
 
 ### § 56 Steuerentlastung im Steuergebiet
 
@@ -2175,9 +2093,7 @@ Steuerlager aufzunehmen. Die Erzeugnisse sind auf Verlangen des
 Hauptzollamts vorher vorzuführen. Die Absätze 2 und 3 gelten
 entsprechend.
 
-
 ## Abschnitt 18 - Zu § 155 des Gesetzes
-
 
 ### § 57 Steuerentlastung bei der Beförderung von Erzeugnissen des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
@@ -2248,9 +2164,7 @@ bei dem Hauptzollamt zu stellen, das die Steuer nach § 151 Absatz 3
 des Gesetzes erhoben hat. Dem Antrag ist der Versteuerungsnachweis des
 anderen Mitgliedstaats beizufügen.
 
-
 ## Abschnitt 19 - Zu § 156 des Gesetzes und § 212 der Abgabenordnung
-
 
 ### § 58 Anmeldungen im Rahmen der Steueraufsicht
 
@@ -2330,7 +2244,6 @@ unverzüglich schriftlich anzuzeigen. Stellt ein Anmeldepflichtiger die
 Tätigkeit ein, hat er dies dem Hauptzollamt ebenfalls unverzüglich
 schriftlich anzuzeigen.
 
-
 ### § 59 Probenentnahme im Rahmen der Steueraufsicht
 
 Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die
@@ -2343,9 +2256,7 @@ eine Entnahmebestätigung auszustellen. Auf Verlangen des zuständigen
 Hauptzollamts haben Erlaubnisinhaber zu Untersuchungszwecken
 unentgeltlich Proben zur Verfügung zu stellen.
 
-
 ## Abschnitt 20 - Zu § 159 Nummer 3 Buchstabe a des Gesetzes
-
 
 ### § 60 Beförderung von Erzeugnissen des steuerrechtlich freien Verkehrs durch einen anderen Mitgliedstaat
 
@@ -2388,9 +2299,7 @@ und erteilt unter Widerrufsvorbehalt eine Erlaubnis. Eine Ausfertigung
 dieser Erlaubnis ist der zuständigen Steuerbehörde des
 Transitmitgliedstaats zuzuleiten.
 
-
 ## Abschnitt 21 - Zu § 159 Nummer 4 des Gesetzes
-
 
 ### § 61 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
 
@@ -2415,14 +2324,12 @@ Verschlüsselungsverfahren anzuwenden.
 (4) Die Pflichten der Programmhersteller nach den §§ 63 und 64 sind
 ausschließlich öffentlich-rechtlicher Art.
 
-
 ### § 62 Schnittstellen
 
 Bei der elektronischen Datenübermittlung sind die hierfür vom
 Bundesministerium der Finanzen bestimmten Schnittstellen ordnungsgemäß
 zu bedienen. Die für die Übermittlung benötigten Schnittstellen werden
 über das Internet zur Verfügung gestellt.
-
 
 ### § 63 Anforderungen an die Programme
 
@@ -2436,7 +2343,6 @@ Besteuerungsverfahren erforderlichen Daten gewährleisten.
 richtige und vollständige Erhebung, Verarbeitung und Übermittlung
 ausnahmsweise nicht möglich ist (Ausschlussfälle), ist in der
 Programmbeschreibung an hervorgehobener Stelle hinzuweisen.
-
 
 ### § 64 Prüfung der Programme
 
@@ -2469,7 +2375,6 @@ Prüfungsstelle ist nicht verpflichtet, die Programme zu prüfen.
 hat der Hersteller der Prüfungsstelle auf Verlangen Muster zum Zweck
 der Prüfung kostenfrei zur Verfügung zu stellen.
 
-
 ### § 65 Haftung
 
 (1) Der Hersteller von Programmen, die für die Verarbeitung von für
@@ -2486,7 +2391,6 @@ unrichtiger oder unvollständiger Übermittlung Steuern vorsätzlich oder
 grob fahrlässig verkürzt oder zu Unrecht steuerliche Vorteile erlangt
 werden.
 
-
 ### § 66 Authentifizierung, Datenübermittlung im Auftrag
 
 (1) Bei der elektronischen Datenübermittlung ist grundsätzlich eine
@@ -2502,9 +2406,7 @@ der Dritte die Daten dem Auftraggeber unverzüglich in leicht
 nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
 Auftraggeber hat die Daten unverzüglich zu überprüfen.
 
-
 ## Abschnitt 22 - Zu § 381 Absatz 1 der Abgabenordnung
-
 
 ### § 67 Ordnungswidrigkeiten
 
@@ -2631,12 +2533,7 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 3.  entgegen § 60 Absatz 1 Satz 2 einen Hinweis nicht, nicht richtig oder
     nicht in der vorgeschriebenen Weise anbringt.
 
-
-
-
-
 ## Abschnitt 23 - Schlussbestimmungen
-
 
 ### § 68 Übergangsregelungen
 

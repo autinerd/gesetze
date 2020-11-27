@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.6.2010 I 825
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 10 und 11 und des § 12b Abs. 2 in
@@ -32,7 +31,6 @@ vom 15. Juli 1985 (BGBl. I S. 1565), von denen § 12 Abs. 1 Satz 1 Nr.
 Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830) eingefügt und § 54 Abs.
 1 Satz 1 zuletzt durch Artikel 1 Nr. 21 des Gesetzes vom 6. April 1998
 (BGBl. I S. 694) geändert worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich; Begriffsbestimmungen
 
@@ -109,10 +107,6 @@ bestanden.
     außen durch Zutrittshindernisse und technische Detektionseinrichtungen
     begrenzt wird.
 
-
-
-
-
 ## § 2 Kategorien der Zuverlässigkeitsüberprüfung
 
 Dem Umfang der Zugangsberechtigung oder der Verantwortung entsprechend
@@ -129,7 +123,6 @@ wird nach Maßgabe des § 5
 
 
 durchgeführt.
-
 
 ## § 3 Zuverlässigkeitsüberprüfungen
 
@@ -203,10 +196,7 @@ Zutrittsberechtigung und der Verantwortung einer Person; bei der
 Beförderung radioaktiver Stoffe sind zusätzlich Verpackung und
 Transportmittel zu berücksichtigen.
 
-
 ## § 4 (weggefallen)
-
-
 
 ## § 5 Maßnahmen bei den einzelnen Überprüfungsarten
 
@@ -333,7 +323,6 @@ vorlegen.
 Zuverlässigkeit des Betroffenen kann die zuständige Behörde zusätzlich
 Maßnahmen nach § 12b Absatz 4 des Atomgesetzes durchführen.
 
-
 ## § 6 Verfahren
 
 (1)
@@ -423,7 +412,6 @@ bestätigen.
 (5) Die zuständige Behörde gibt für die Belehrung des Betroffenen,
 insbesondere über Anfragen nach dem Bundeszentralregistergesetz, sowie
 für den Erklärungsbogen ein amtliches Formular bekannt.
-
 
 ## § 7 Abschluß der Zuverlässigkeitsüberprüfung
 
@@ -564,7 +552,6 @@ Absatz 4 festgestellt wurde, teilt er die Änderungen der zuständigen
 Behörde mit; diese unterrichtet die nach § 12b Absatz 7 Satz 1 des
 Atomgesetzes zum Nachbericht verpflichteten Behörden.
 
-
 ## § 8 Geltungsdauer; Wiederholungsüberprüfung
 
 (1)
@@ -587,7 +574,6 @@ höheren Kategorie erst gestellt werden, wenn die von der zuständigen
 Behörde im Einzelfall unter Berücksichtigung der vorliegenden
 Erkenntnisse festgelegte Frist von höchstens fünf Jahren abgelaufen
 ist.
-
 
 ## § 9 Zutrittsregelung; Tätigkeitsaufnahme
 
@@ -651,16 +637,12 @@ Zutrittsberechtigung weiter einschränken.
 entscheidet die zuständige Behörde.
 2             Absatz 3 Satz 1 bis 3 gilt entsprechend.
 
-
 ## § 10 Übergangsregelung
 
 Zuverlässigkeitsüberprüfungen, die vor dem 1. Juli 2010 beantragt
 wurden, sind nach dem bis dahin geltenden Recht zu Ende zu führen.
 
-
 ## § 11 (weggefallen)
-
-
 
 ## Schlußformel
 

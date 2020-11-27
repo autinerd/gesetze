@@ -39,10 +39,6 @@ Dieser Tarifvertrag gilt
     Bereich sind mit der Aus- und Weiterbildung, Vermittlung oder
     Betreuung von Teilnehmerinnen/Teilnehmer betraut.
 
-
-
-
-
 ## § 2 Regelungsgegenstände
 
 
@@ -54,10 +50,6 @@ Dieser Tarifvertrag gilt
 
 2.  Für die Arbeitnehmerinnen/Arbeitnehmer günstigere Regelungen bleiben
     unberührt.
-
-
-
-
 
 ## § 3 Entgelt
 
@@ -84,10 +76,6 @@ Dieser Tarifvertrag gilt
 2.  Der Anspruch auf die Mindeststundenvergütung wird spätestens zum 15.
     des Monats fällig, der dem Monat folgt, für den die
     Mindeststundenvergütung zu zahlen ist.
-
-
-
-
 
 ## § 4 Urlaub
 

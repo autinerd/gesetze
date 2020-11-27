@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 252
 
-
-
 ## I. Erlass von beamtenrechtlichen Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -31,17 +29,14 @@ Zivildienst, soweit es den mit dem Widerspruch angefochtenen
 Verwaltungsakt erlassen oder den Erlass eines Verwaltungsaktes oder
 einen Anspruch abgelehnt hat.
 
-
 ## II.
 
 Die Anordnung findet Anwendung auf alle Widersprüche, die seit dem 1.
 Dezember 2004 eingelegt worden sind.
 
-
 ## III.
 
 Die Anordnung tritt am 15. Februar 2005 in Kraft.
-
 
 ## Schlussformel
 

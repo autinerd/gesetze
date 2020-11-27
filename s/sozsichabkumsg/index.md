@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1464
 
-
-
 ## § 1 Umlageverfahren der Träger der Krankenversicherung
 
 (1) Belastungen, die sich für die Träger der Krankenversicherung aus
@@ -40,7 +38,6 @@ des Vorjahres ohne Rentner, ab dem 1. Januar 1998 auf der Grundlage
 der durchschnittlichen Mitgliederzahl des Vorjahres einschließlich
 Rentner aufgebracht.
 
-
 ## § 2 Umlageverfahren der Träger der Unfallversicherung
 
 Aufwendungen oder außergewöhnliche Belastungen, die sich für einen
@@ -50,7 +47,6 @@ von ihm ganz oder teilweise auf alle Träger der Unfallversicherung
 umgelegt werden. Der Umlagenanteil ermittelt sich nach dem Verhältnis
 der Ausgaben des vorvergangenen Kalenderjahres für Sachleistungen der
 einzelnen Träger der Unfallversicherung zu denen aller Träger.
-
 
 ## § 3 Übertragung der Zuständigkeit für Entsendevereinbarungen auf die Deutsche Verbindungsstelle Krankenversicherung - Ausland
 

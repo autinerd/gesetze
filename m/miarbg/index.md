@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 22.4.2009 I 818
 
-
 ## Erster Abschnitt - Festsetzung von Mindestarbeitsentgelten
-
-
 
 ### § 1 Festsetzung von Mindestarbeitsentgelten
 
@@ -37,7 +34,6 @@ beschäftigen.
 
 (3) Die Vorschriften des Heimarbeitsgesetzes werden durch dieses
 Gesetz nicht berührt.
-
 
 ### § 2 Hauptausschuss
 
@@ -73,7 +69,6 @@ geltenden Vorschriften. Die Entschädigung und die erstattungsfähigen
 Fahrtkosten setzt im Einzelfall der Vorsitzende des Hauptausschusses
 fest.
 
-
 ### § 3 Aufgabe des Hauptausschusses
 
 (1) Der Hauptausschuss stellt unter umfassender Berücksichtigung der
@@ -87,7 +82,6 @@ Zustimmung des Bundesministeriums für Arbeit und Soziales.
 der Arbeitnehmer sowie die Landesregierungen können dem Hauptausschuss
 unter Angabe von Gründen Vorschläge für die Festsetzung, Änderung oder
 Aufhebung von Mindestarbeitsentgelten unterbreiten.
-
 
 ### § 4 Fachausschüsse; Rechtsverordnung
 
@@ -123,10 +117,6 @@ geeignet ist,
 
 3.  sozialversicherungspflichtige Beschäftigung zu erhalten.
 
-
-
-
-
 ### § 5 Zusammensetzung der Fachausschüsse
 
 (1) Der Fachausschuss besteht aus einem Vorsitzenden und je drei
@@ -139,7 +129,6 @@ Stimmenmehrheit gefaßt. Bei der Beschlußfassung hat sich der
 Vorsitzende zunächst der Stimme zu enthalten; kommt eine
 Stimmenmehrheit nicht zustande, so übt nach weiterer Beratung der
 Vorsitzende sein Stimmrecht aus.
-
 
 ### § 6 Beisitzer der Fachausschüsse
 
@@ -170,7 +159,6 @@ Bundesministerium für Arbeit und Soziales.
 (4) Für den Vorsitzenden und die Beisitzer gilt § 2 Abs. 5
 entsprechend.
 
-
 ### § 7 Stellungnahme der Beteiligten
 
 Vor Festsetzung von Mindestarbeitsentgelten gibt das Bundesministerium
@@ -180,7 +168,6 @@ berührt würden, sowie den zuständigen Gewerkschaften und Vereinigungen
 von Arbeitgebern, soweit solche bestehen, Gelegenheit zu schriftlicher
 Stellungnahme sowie zur Äußerung in einer öffentlichen mündlichen
 Verhandlung vor dem Fachausschuß.
-
 
 ### § 8 Gewährung von Mindestarbeitsentgelten; Geltung von Tarifvertragsrecht
 
@@ -208,12 +195,10 @@ Die Verwirkung des Anspruchs des Arbeitnehmers auf das
 Mindestarbeitsentgelt ist ausgeschlossen. Ausschlussfristen für die
 Geltendmachung des Anspruchs sind unzulässig.
 
-
 ### § 9 Änderung und Aufhebung
 
 Die §§ 4 bis 7 gelten entsprechend für die Änderung und Aufhebung von
 Mindestarbeitsentgelten.
-
 
 ### § 10 Geschäftsstelle
 
@@ -225,16 +210,12 @@ Quellenmaterials, in der technischen Vor- und Nachbereitung der
 Sitzungen des Ausschusses sowie der Erledigung der sonst anfallenden
 Verwaltungsarbeiten.
 
-
 ## Zweiter Abschnitt - Kontrolle und Durchsetzung durch staatliche Behörden
-
-
 
 ### § 11 Zuständigkeit
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach §
 8 Abs. 1 Satz 1 sind die Behörden der Zollverwaltung zuständig.
-
 
 ### § 12 Befugnisse der Behörden der Zollverwaltung und anderer Behörden
 
@@ -260,7 +241,6 @@ entsprechende Anwendung. Für die Datenverarbeitung, die dem in § 11
 genannten Zweck oder der Zusammenarbeit mit den Behörden des
 Europäischen Wirtschaftsraums nach § 15 Abs. 2 dient, findet § 67 Abs.
 2 Nr. 4 des Zehnten Buches Sozialgesetzbuch keine Anwendung.
-
 
 ### § 13 Meldepflicht
 
@@ -334,7 +314,6 @@ Zustimmung des Bundesrates bestimmen,
 ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1
 Satz 1 bestimmen.
 
-
 ### § 14 Erstellen und Bereithalten von Dokumenten
 
 (1) Soweit eine Rechtsverordnung nach § 4 Abs. 3 auf das
@@ -351,7 +330,6 @@ mindestens für die Dauer der gesamten Werk- oder Dienstleistung,
 insgesamt jedoch nicht länger als zwei Jahre in deutscher Sprache
 bereitzuhalten. Auf Verlangen der Prüfbehörde sind die Unterlagen auch
 am Ort der Beschäftigung bereitzuhalten.
-
 
 ### § 15 Zusammenarbeit der in- und ausländischen Behörden
 
@@ -381,7 +359,6 @@ erforderlich sind, soweit dadurch nicht überwiegende schutzwürdige
 Interessen des Betroffenen oder anderer Verfahrensbeteiligter
 erkennbar beeinträchtigt werden. Dabei ist zu berücksichtigen, wie
 gesichert die zu übermittelnden Erkenntnisse sind.
-
 
 ### § 16 Ausschluss von der Vergabe öffentlicher Aufträge
 
@@ -422,7 +399,6 @@ Zuschlagserteilung eine Auskunft aus dem Gewerbezentralregister nach §
 (5) Vor der Entscheidung über den Ausschluss ist der Bewerber zu
 hören.
 
-
 ### § 17 Zustellung
 
 Für die Anwendung dieses Gesetzes gilt der im Inland gelegene Ort der
@@ -430,7 +406,6 @@ Werk- oder Dienstleistung sowie das vom Arbeitgeber eingesetzte
 Fahrzeug als Geschäftsraum im Sinne des § 5 Abs. 2 des
 Verwaltungszustellungsgesetzes in Verbindung mit § 178 Abs. 1 Nr. 2
 der Zivilprozessordnung.
-
 
 ### § 18 Bußgeldvorschriften
 
@@ -518,10 +493,7 @@ Ordnungswidrigkeiten die notwendigen Auslagen; sie ist auch
 ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
-
 ## Dritter Abschnitt - Schlussvorschriften
-
-
 
 ### § 19 Evaluation
 

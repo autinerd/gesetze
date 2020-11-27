@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 639
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
@@ -37,7 +35,6 @@ Vereinigten Arabischen Emiraten brauchen auch nicht den Nachweis zu
 erbringen, daß das angemeldete Zeichen für sie bereits in den
 Vereinigten Arabischen Emiraten eingetragen worden ist (§ 35 Abs. 3
 des Warenzeichengesetzes).
-
 
 ## Schlussformel
 

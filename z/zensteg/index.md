@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1882
 
-
-
 ## § 1 Anordnung von Testerhebungen und -verfahren
 
 (1) Zur Erprobung eines registergestützten Zensusverfahrens werden
@@ -43,7 +41,6 @@ methodische Untersuchungen als Bundesstatistik durchgeführt.
 
 (3) Erhebungseinheiten sind Personen, Haushalte, Gebäude mit Wohnraum
 und Wohnungen.
-
 
 ## § 2 Testerhebung zur Prüfung von Mehrfachmeldungen in Melderegistern
 
@@ -169,7 +166,6 @@ der Länder gemeindeweise die Zahl der gemeldeten Einwohner nach
 Deutschen und Ausländern sowie Status der Wohnung zum Stichtag 5.
 Dezember 2001.
 
-
 ## § 3 Mehrfachfalluntersuchung durch die statistischen Ämter
 
 (1) Die statistischen Ämter der Länder übermitteln die Angaben zu § 2
@@ -212,13 +208,6 @@ erhoben:
 
 
     d)  Anschrift der alleinigen oder Hauptwohnung am 5. Dezember 2001.
-
-
-
-
-
-
-
 
 ## § 4 Testerhebung zur Untersuchung von Über- und Untererfassungen in Melderegistern bei Meldebehörden und Personen in ausgewählten Gemeinden und Gebäuden
 
@@ -304,7 +293,6 @@ die Angaben der befragten Personen nach Absatz 4 werden mittels der
 Hilfsmerkmale verglichen, um festzustellen, ob und in welchem Umfang
 die Melderegister Unter- oder Übererfassungen aufweisen.
 
-
 ## § 5 Unterstichprobe für Verfahrenstests und methodische Untersuchungen
 
 Für Verfahrenstests, statistisch-methodische Untersuchungen sowie
@@ -315,7 +303,6 @@ Bundesanstalt für Arbeit, § 8) durchgeführt, die sich auf höchstens
 230 Gemeinden und höchstens 16.000 Gebäude erstrecken. Die Gemeinden
 und Gebäude werden aus der Stichprobe nach § 4 Abs. 1 durch
 mathematische Zufallsverfahren ausgewählt.
-
 
 ## § 6 Zusatzerhebungen bei Meldebehörden in ausgewählten Gemeinden
 
@@ -358,10 +345,6 @@ Merkmalen nach § 4 Abs. 3 folgende Hilfsmerkmale erhoben:
 
 
 11. Name und Anschrift des Wohnungsgebers.
-
-
-
-
 
 ## § 7 Postalische Gebäude- und Wohnungsstichprobe
 
@@ -448,13 +431,6 @@ Merkmale erhoben:
 
     g)  bei vermieteten Wohnungen: Beginn des Mietvertrags.
 
-
-
-
-
-
-
-
 ## § 8 Testerhebung bei der Bundesanstalt für Arbeit
 
 Bei der Bundesanstalt für Arbeit werden aus der Datei für
@@ -492,13 +468,6 @@ Personen zum Stichtag 5. Dezember 2001 folgende Merkmale erhoben:
 
 
     c)  Straße und Hausnummer.
-
-
-
-
-
-
-
 
 ## § 9 Zusatzerhebung bei Personen in ausgewählten Gemeinden
 
@@ -568,13 +537,6 @@ genannten Merkmalen folgende Merkmale erhoben:
     d)  Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung
         steht.
 
-
-
-
-
-
-
-
 ## § 10 Zusammenführung von Datensätzen aus den verschiedenen Erhebungen der Unterstichprobe durch die statistischen Ämter der Länder
 
 (1) Die aus den Melderegistern übermittelten Datensätze nach § 4 Abs.
@@ -594,7 +556,6 @@ Datensätze zur Erwerbstätigkeit werden mit den Datensätzen nach Absatz
 erstellten Datensätze werden diese mit den Angaben aus der Erhebung
 nach § 9 in Verbindung mit § 4 Abs. 4 verglichen.
 
-
 ## § 11 Anschriftenübermittlung
 
 (1) Für die Vorbereitung und Durchführung der Erhebungen nach § 4 Abs.
@@ -612,7 +573,6 @@ zuständigen statistischen Ämtern der Länder auf Anforderung Namen und
 Vornamen oder Bezeichnung und Anschrift der Eigentümer,
 Erbbauberechtigten, Verwalter oder sonstigen Verfügungsberechtigten
 der in die Erhebung einbezogenen Gebäude.
-
 
 ## § 12 Erhebungsbeauftragte
 
@@ -634,7 +594,6 @@ Wohnungsinhabers.
 (3) Die Erhebungsbeauftragten erhalten für die ehrenamtliche Tätigkeit
 eine Entschädigung, die als steuerfreie Aufwandsentschädigung im Sinne
 des § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes gilt.
-
 
 ## § 13 Auskunftspflicht
 
@@ -679,7 +638,6 @@ statistischen Ämter der Länder weiterleitet.
 Buchstabe d, § 9 Nr. 2 Buchstabe d sowie zur Telekommunikationsnummer
 nach § 4 Abs. 4 sind freiwillig.
 
-
 ## § 14 Art der Auskunftserteilung beim Einsatz von Erhebungsbeauftragten
 
 (1) Soweit Erhebungsbeauftragte eingesetzt werden, können die Angaben
@@ -698,7 +656,6 @@ innerhalb einer Woche bei dem zuständigen statistischen Landesamt
 abzugeben oder dorthin zu übersenden. Bei Abgabe in verschlossenem
 Umschlag sind Namen und Vornamen, Wohnort, Straße und Hausnummer auf
 dem Umschlag anzugeben.
-
 
 ## § 15 Löschung
 
@@ -732,7 +689,6 @@ Untersuchungen und die Fortentwicklung eines registergestützten
 Zensuskonzeptes verwendet werden. Sie sind spätestens fünf Jahre nach
 dem Stichtag 31. März 2002 zu löschen.
 
-
 ## § 16 Zuständigkeiten
 
 (1) Die Erhebungen nach § 2, § 3 Abs. 3, § 4 Abs. 3 und 4, §§ 6, 7 und
@@ -740,7 +696,6 @@ dem Stichtag 31. März 2002 zu löschen.
 
 (2) Die Erhebung nach § 8 wird vom Statistischen Bundesamt
 durchgeführt.
-
 
 ## § 17 Aufbau einer Organisationsdatei
 

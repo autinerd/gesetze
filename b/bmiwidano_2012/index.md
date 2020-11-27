@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1279
 
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes übertrage ich die
@@ -89,13 +88,11 @@ zur Ernennung und Entlassung gemäß der Anordnung über die Ernennung
 und Entlassung von Beamten im Geschäftsbereich des Bundesministeriums
 des Innern in der jeweils gültigen Fassung übertragen worden ist.
 
-
 ## II. Zuständigkeit
 
 Das Bundesministerium des Innern kann die Zuständigkeit für die
 Entscheidung über Widersprüche in Einzelfällen abweichend von
 Abschnitt I selbst übernehmen.
-
 
 ## III. Ausnahmeregelung
 
@@ -110,7 +107,6 @@ Bundespolizeidirektionen sowie der Bundespolizeiakademie für die ihnen
 mit Inkraftsetzung der Neuorganisation zugewiesenen Beamtinnen und
 Beamten.
 
-
 ## IV. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes übertrage ich die
@@ -119,7 +115,6 @@ Absatz 1 des Bundesbeamtengesetzes) den in Abschnitt I genannten
 Behörden, soweit sie nach dieser Anordnung für den Erlass von
 Widerspruchsbescheiden zuständig sind. Für Einzelfälle behalte ich mir
 die Vertretung des Dienstherrn vor.
-
 
 ## V. Inkrafttreten; Außerkrafttreten
 
@@ -136,7 +131,6 @@ aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums
 des Innern vom 13. Dezember 2004 (BGBl. I S. 3586) ist bereits durch
 die Anordnung vom 28. Februar 2008 mit der gleichlautenden Bezeichnung
 (GMBl 2008 S. 319) außer Kraft getreten.
-
 
 ## Schlussformel
 

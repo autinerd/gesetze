@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der
@@ -34,18 +33,15 @@ Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Friseur/Friseurin wird nach § 25 Abs. 1 Satz 1
 der Handwerksordnung zur Ausbildung für das Gewerbe Nr. 38, Friseure,
 der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -56,10 +52,6 @@ Die Berufsausbildung gliedert sich in
 
 2.  eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit der
     Auswahlliste gemäß § 4 Abs. 2 Abschnitt B.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -171,10 +163,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 4.  Umweltschutz.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -194,7 +182,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 6 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
@@ -212,7 +199,6 @@ Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 mit 25
 Prozent, Teil 2 mit 75 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Gesellenprüfung
 
@@ -290,10 +276,6 @@ Vorgaben:
 5.  Die Arbeitsaufgabe einschließlich des situativen Fachgespräches und
     der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das
     Prüfungsstück mit 30 Prozent zu gewichten.
-
-
-
-
 
 ## § 8 Teil 2 der Gesellenprüfung
 
@@ -465,10 +447,6 @@ folgende Vorgaben:
 
 3.  Die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -545,7 +523,6 @@ Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen
 Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der
 mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -554,11 +531,9 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt wurde.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
 
@@ -1188,9 +1163,6 @@ Kenntnisse und Fähigkeiten
     *
     *   2
 
-
-
-
 ## Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse
 und Fähigkeiten in den Wahlqualifikationseinheiten
 
@@ -1372,9 +1344,6 @@ und Fähigkeiten in den Wahlqualifikationseinheiten
 
     *
     *   8
-
-
-
 
 ## Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

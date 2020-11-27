@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1803
 
-
-
 ## (XXXX)
 
 Auf Grund des § 3 Abs. 2 Nr. 1 Buchstabe a Satz 4 des

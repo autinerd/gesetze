@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 102 G v. 17.12.2008 I 2586
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des
@@ -32,7 +31,6 @@ verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Ständigen Ausschusses des Bundesinstitutes für
 Berufsbildung und im Einvernehmen mit dem Bundesministerium der
 Justiz:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -74,7 +72,6 @@ folgende Aufgaben wahrnehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur schriftlichen Prüfung gemäß § 3 Abs. 2 ist zuzulassen, wer
@@ -103,7 +100,6 @@ erfolgreichen Abschluss des schriftlichen Prüfungsteils gemäß § 3 Abs.
 auch zugelassen werden, wer durch Vorlage von Zeugnissen und anderer
 Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und
 Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -153,7 +149,6 @@ Der Präsentation der Lösung der gestellten Aufgabe schließt sich ein
 Fachgespräch an. Die Gesamtdauer der mündlichen Prüfung beträgt 30
 Minuten. Dem Prüfungsteilnehmer sind 20 Minuten Vorbereitungszeit zu
 gewähren.
-
 
 ## § 4 Prüfungsinhalte
 
@@ -371,13 +366,6 @@ können geprüft werden:
         Grundstücken und grundstücksgleichen Rechten, des Strafrechts, des
         Straßenverkehrsrechts sowie der Verkehrsunfallregulierung.
 
-
-
-
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Von der Prüfung in den Handlungsbereichen gemäß § 3 Abs. 1 kann der
@@ -388,7 +376,6 @@ anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung in den letzten fünf Jahren vor
 Antragstellung bestanden hat, deren Inhalt den Anforderungen dieser
 Prüfungsleistungen entspricht.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -402,7 +389,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 5 sind in dem Zeugnis Ort und Datum der
 anderweitig abgelegten Prüfung sowie die Bezeichnung des
 Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -418,7 +404,6 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall ist das letzte Ergebnis für das
 Bestehen zu berücksichtigen.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden
@@ -429,7 +414,6 @@ geführt werden.
 Wiederholungsprüfung gemäß dieser Verordnung durchführen; § 7 Abs. 2
 findet insoweit keine Anwendung.
 
-
 ## § 9 Ausbildereignung
 
 Wer die Prüfung zum Geprüften Rechtsfachwirt/zur Geprüften
@@ -438,11 +422,9 @@ schriftlichen Teil der Prüfung nach der aufgrund des
 Berufsbildungsgesetzes erlassenen Ausbilder-Eignungsverordnung
 befreit.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 2)
 
@@ -468,7 +450,6 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 bestanden.
 Datum ...............................................
 Unterschrift(en)    (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 2)
 

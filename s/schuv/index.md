@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 15 G v. 12.7.2006 I 1466
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 8 des Entschädigungsgesetzes vom 27. September
 1994 (BGBl. I S. 2624) verordnet das Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Begebung
-
-
 
 ### § 1 Begebung, Nennwert, Laufzeit, Tilgung und Verzinsung der Schuldverschreibungen
 
@@ -74,7 +70,6 @@ gutgeschrieben. Bei Einzelschuldbuchforderungen erfolgt die
 Überweisung auf Veranlassung der das Bundesschuldbuch führenden
 Stelle.
 
-
 ### § 2 Marktpflege
 
 Der Entschädigungsfonds sorgt für die Marktpflege. Hierzu können in
@@ -84,10 +79,7 @@ stellt der Entschädigungsfonds zur Verfügung. Sie sind in dessen
 jährlichem Wirtschaftsplan zu berücksichtigen. Eine Kreditaufnahme ist
 nicht zulässig.
 
-
 ## Abschnitt 2 - Zuteilung und Verwaltung
-
-
 
 ### § 3 Zuteilung der Schuldverschreibungen
 
@@ -155,11 +147,9 @@ Bundesamt unterrichtet hiervon die bescheidende Stelle.
 Berechtigten erfolgt unbeschadet bereits getroffener Verfügungen über
 den Entschädigungsanspruch und hat befreiende Wirkung.
 
-
 ### § 4 Handelbarkeit
 
 Die Schuldverschreibungen sind handelbare Wertrechte.
-
 
 ### § 5 Verwaltung der Einzelschuldbuchkonten
 
@@ -183,12 +173,10 @@ die das Bundesschuldbuch führende Stelle. Diese läßt den
 Verkaufsauftrag durch die Deutsche Bundesbank nach deren Allgemeinen
 Geschäftsbedingungen einschließlich Gebührentabelle ausführen.
 
-
 ### § 6 Verwaltung durch Kreditinstitute
 
 Die Verwaltung und der Verkauf von Schuldverschreibungen durch
 Kreditinstitute richtet sich nach deren Bedingungen.
-
 
 ### § 7 Datenschutz
 
@@ -196,16 +184,13 @@ Die zur Durchführung dieser Verordnung erforderlichen Angaben der
 Berechtigten dürfen nur zu Zwecken der Erfüllung von Entschädigungs-
 und Ausgleichsleistungsansprüchen verarbeitet und genutzt werden.
 
-
 ### § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage (zu § 3 Abs. 3)
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 Abs. 40 G v. 24.2.2012 I 212
 
-
 ## § 1 Verbote
 
 (1) Das Inverkehrbringen
@@ -91,7 +90,6 @@ Verweis auf diese Normen ausreichend. Wird der Anhang um neue Stoffe
 oder Stoffgruppen erweitert, erfolgt die Bekanntmachung innerhalb von
 sechs Monaten nach dem Inkrafttreten der jeweiligen Rechtsänderung.
 
-
 ## § 2 Erlaubnis- und Anzeigepflicht
 
 (1) Wer gewerbsmäßig oder selbständig im Rahmen einer wirtschaftlichen
@@ -150,7 +148,6 @@ fort. Eine nach § 11 Abs. 7 oder § 45 Abs. 8 der Gefahrstoffverordnung
 in der bis zum 31. Oktober 1993 geltenden Fassung oder nach Anlage I
 Kapitel VIII Sachgebiet B Abschnitt III Nr. 14 Buchstabe g des
 Einigungsvertrages erstattete Anzeige gilt als Anzeige nach Absatz 6.
-
 
 ## § 3 Informations- und Aufzeichnungspflichten bei der Abgabe an Dritte
 
@@ -344,10 +341,6 @@ Absätze 1 und 2 gelten nicht für
 7.  Photochemikalien mit den Gefahrensymbolen Xn und R 40/R 68 in
     Verpackungen mit kindergesicherten Verschlüssen.
 
-
-
-
-
 ## § 4 Selbstbedienungsverbot, Versandhandel
 
 (1) Stoffe und Zubereitungen nach § 3 Abs. 1 Satz 1, 2 und 5 dürfen im
@@ -363,7 +356,6 @@ oder öffentliche Forschungs-, Untersuchungs- oder Lehranstalten
 abgegeben werden. Satz 1 findet auch Anwendung, wenn die Abgabe von
 Stoffen und Zubereitungen nach § 2 Abs. 1 nicht gewerbsmäßig oder
 selbständig im Rahmen einer wirtschaftlichen Unternehmung erfolgt.
-
 
 ## § 5 Sachkunde
 
@@ -437,15 +429,10 @@ Anwendung findet. Über die Prüfung wird ein Zeugnis ausgestellt.
     Gefahrstoffverordnung in der bis zum 31. Oktober 1993 geltenden
     Fassung benannt wurden.
 
-
-
-
-
 ## § 5a Betankungseinrichtungen
 
 Die §§ 2 bis 5 gelten nicht für die Abgabe von Ottokraftstoffen an
 Tankstellen und sonstigen Betankungseinrichtungen.
-
 
 ## § 6 Normen
 
@@ -453,7 +440,6 @@ ISO-Normen, EN-Normen oder DIN-Normen, auf die in dieser Verordnung
 verwiesen wird, sind im Beuth-Verlag, Berlin, erschienen und beim
 Deutschen Patent- und Markenamt in München und Berlin archivmäßig
 gesichert niedergelegt.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -493,7 +479,6 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 nicht vollständig führt oder das Abgabebuch oder einen Empfangsschein
 nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
-
 ## § 8 Straftaten
 
 (1) Nach § 27 Abs. 1 Nr. 1 und Abs. 2 bis 4 des Chemikaliengesetzes
@@ -524,7 +509,6 @@ soll.
 dass der Stoff oder die Zubereitung für eine rechtswidrige Tat, die
 den Tatbestand eines Strafgesetzes verwirklicht, verwendet werden
 soll, ist er nach § 27c Abs. 2 des Chemikaliengesetzes strafbar.
-
 
 ## Anhang (zu § 1)
 

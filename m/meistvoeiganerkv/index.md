@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 4 G v. 25.3.1998 I 596
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 2 der Handwerksordnung in der Fassung der
@@ -28,7 +27,6 @@ mit Anlage I Kapitel V Sachgebiet B Abschnitt III Nr. 1 Buchstabe n
 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1
 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 999)
 verordnet der Bundesminister für Wirtschaft:
-
 
 ## § 1
 
@@ -54,19 +52,13 @@ Ausbildungsabschlusses
 3.  nach dem 31. Dezember 1981 Lehrlinge in einem Beruf ausgebildet hat,
     dessen Fachgebiet dem zu betreibenden Handwerk entspricht.
 
-
-
-
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1) Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 20.12.2007 I 3150
 
-
 ## § 1 Allgemeine Bestimmungen
 
 (1) Dieses Gesetz findet Anwendung auf die Amtshilfe, die sich die
@@ -59,7 +58,6 @@ weitergehende Amtshilfe zulassen, bleiben unberührt.
 
 (4) (weggefallen)
 
-
 ## § 1a Geschäftsweg
 
 (1) Der Verkehr mit den zuständigen Finanzbehörden der Mitgliedstaaten
@@ -75,7 +73,6 @@ zuständigen obersten Landesbehörden den Auskunftsaustausch für den
 Bereich der direkten Steuern auf eine Landesbehörde übertragen.
 
 (3) (weggefallen)
-
 
 ## § 1b Hinzuziehung von Bediensteten anderer Mitgliedstaaten
 
@@ -93,7 +90,6 @@ inländischen Finanzbehörde, jedoch nur auf deren Vermittlung hin und
 zum Zweck der laufenden Ermittlungen.
 
 (2) § 1 Abs. 2 und § 3 gelten entsprechend.
-
 
 ## § 2 Arten der Auskunftserteilung
 
@@ -158,11 +154,9 @@ Auskünften über gleichartige Sachverhalte der folgenden Art eintreten:
 Eine Anhörung ist abweichend von § 117 Abs. 4 Satz 3 der
 Abgabenordnung nicht erforderlich.
 
-
 ## § 2a (weggefallen)
 
 -
-
 
 ## § 3 Grenzen der Auskunftserteilung
 
@@ -216,7 +210,6 @@ Abgabenordnung nicht erforderlich.
 
 (3) (weggefallen)
 
-
 ## § 4 Geheimhaltung
 
 (1) Auskünfte, die den Finanzbehörden von der zuständigen
@@ -261,10 +254,6 @@ werden, wenn
 
 2.  die Finanzbehörde des Mitgliedstaats, der die Daten übermittelt hat,
     zugestimmt hat.
-
-
-
-
 
 ## § 5
 

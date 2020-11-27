@@ -18,19 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 62 G v. 8.12.2010 I 1864
 
-
-
 ## Art 1 bis 10 -
-
-
 
 ## Art 11 - Übergangsvorschriften
 
-
-
 ## § 1 (weggefallen)
-
-
 
 ## § 2 Änderung der Verwaltungsgebühren
 
@@ -43,20 +35,17 @@ zum Inkrafttreten dieses Gesetzes geltenden Vorschriften. Das gleiche
 gilt für die Höhe der Prüfungsgebühren, wenn die schriftliche Prüfung
 vor dem Inkrafttreten dieses Gesetzes begonnen hat.
 
-
 ## § 3 Anwendung der Vorschriften über das Rügeverfahren
 
 Hat der Vorstand die Rüge vor dem Inkrafttreten dieses Gesetzes
 erteilt, so richtet sich das weitere Verfahren nach den bisher
 geltenden Vorschriften.
 
-
 ## § 4 Anwendung der Vorschriften über das berufsgerichtliche Verfahren
 
 Artikel 1 gilt auch für die bei Inkrafttreten dieses Gesetzes
 schwebenden berufsgerichtlichen Verfahren, soweit nichts anderes
 bestimmt ist.
-
 
 ## § 5 Anwendung der Vorschriften über die berufsgerichtliche Voruntersuchung
 
@@ -66,7 +55,6 @@ die bisherigen Vorschriften. Eine Ergänzung der Voruntersuchung findet
 nicht statt. Die Staatsanwaltschaft ist nach Schluß der
 Voruntersuchung zu ergänzenden Ermittlungen befugt.
 
-
 ## § 6 Erstattungszinsen und Aussetzungszinsen in rechtshängigen Verfahren
 
 In Verfahren, die bei Inkrafttreten dieses Gesetzes rechtshängig sind,
@@ -74,14 +62,9 @@ richtet sich die Erhebung von Erstattungszinsen und Aussetzungszinsen
 bis zum Ablauf des dritten Monats nach Inkrafttreten dieses Gesetzes
 nach den bisher geltenden Vorschriften.
 
-
 ## Art 12 - (weggefallen)
 
-
-
 ## Art 13 - (weggefallen)
-
-
 
 ## Art 14 - Inkrafttreten
 

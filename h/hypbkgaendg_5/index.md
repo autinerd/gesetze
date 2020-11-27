@@ -18,11 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 22. 5.2005 I 1373
 
-
 ## Art I
 
 -
-
 
 ## Art II
 
@@ -40,24 +38,17 @@ Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:
 2.  Die vom Land Bayern ausgeübte besondere staatliche Aufsicht bleibt
     unberührt.
 
-
-
-
-
 ## Art III
 
 -
-
 
 ## Art IV
 
 -
 
-
 ## Art V
 
 (weggefallen)
-
 
 ## Art VI
 

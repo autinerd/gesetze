@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 21 G v. 13.4.2006 I 855
 
-
 ## Eingangsformel
 
 Auf Grund des § 11a Abs. 3 in Verbindung mit § 16b Abs. 1 Satz 2 des
 Tierschutzgesetzes in der Fassung der Bekanntmachung vom 18. August
 1986 (BGBl. I S. 1319) wird nach Anhörung der Tierschutzkommission mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Art und Umfang der Aufzeichnung
 
@@ -62,7 +60,6 @@ Muster dauerhaft einzutragen:
 
 (3) Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß.
 
-
 ## § 2 Kennzeichnung von Hunden und Katzen
 
 Die Kennzeichnung von Hunden und Katzen nach § 11a Abs. 2 des
@@ -82,17 +79,14 @@ gekennzeichnete Tiere in den Geltungsbereich dieser Verordnung
 verbracht, so genügt diese Kennzeichnung. Die zuständige Behörde kann
 verlangen, daß die Tiere unter ihrer Aufsicht gekennzeichnet werden.
 
-
 ## § 3 (weggefallen)
 
 -
-
 
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

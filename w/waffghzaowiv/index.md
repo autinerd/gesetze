@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 11.10.2002 I 3970; 2003, 1957
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in
@@ -30,7 +29,6 @@ Gerichtsvollzieher, der Bundesgebührenordnung für Rechtsanwälte und
 anderer Vorschriften vom 20. August 1975 (Bundesgesetzbl. I S. 2189),
 wird verordnet:
 
-
 ## § 1
 
 Die Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
@@ -39,7 +37,6 @@ des Sprengstoffgesetzes vom 13. September 1976 (BGBl. I S. 2737) wird
 auf die Hauptzollämter übertragen, soweit § 33 Abs. 1 des
 Waffengesetzes und § 15 Abs. 3 des Sprengstoffgesetzes durch Behörden
 der Zollverwaltung ausgeführt werden.
-
 
 ## § 2
 
@@ -50,11 +47,9 @@ Sprengstoffgesetzes übertragen wird, nach § 14 des Dritten
 Verbindung mit § 134 Satz 2 des Gesetzes über Ordnungswidrigkeiten
 auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am 1. Juli 1976 in Kraft.
-
 
 ## Schlußformel
 

@@ -16,18 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 798
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10.
 August 1992 (BGBl. I S. 1495) verordnet das Bundesministerium für
 Raumordnung, Bauwesen und Städtebau:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -65,7 +60,6 @@ Sie enthält ferner Regelungen über die Rechte und Pflichten der
 anerkannten Prüf-, Überwachungs- und Zertifizierungsstellen (PÜZ-
 Stellen) und über den Widerruf und das Erlöschen von Anerkennungen.
 
-
 ### § 2 Begriffsbestimmungen
 
 (1) Prüfstelle im Sinne dieser Verordnung ist jede natürliche oder
@@ -85,7 +79,6 @@ natürliche oder juristische Person, Stelle oder
 Überwachungsgemeinschaft, zu deren Tätigkeiten die Beurteilung und
 abschließende Bewertung der Ergebnisse von Prüf- oder
 Überwachungsstellen gehören.
-
 
 ### § 3 Allgemeine Grundsätze und Voraussetzungen für die Anerkennung
 
@@ -140,7 +133,6 @@ eigenen Einrichtungen und Geräten durchzuführen. Unteraufträge sind
 nur an gleichfalls dafür anerkannte PÜZ-Stellen oder an solche PÜZ-
 Stellen zulässig, die Gegenstand der Anerkennung waren.
 
-
 ### § 4 Allgemeine Pflichten und Rechte der anerkannten PÜZ-Stelle
 
 (1) Die anerkannte PÜZ-Stelle muß im Rahmen ihrer Anerkennung und
@@ -194,10 +186,7 @@ Pflichten nach den Absätzen 5 bis 8 und der besonderen Pflichten nach
 (10) Ein Wechsel des Leiters der PÜZ-Stelle oder seines
 Stellvertreters ist der Anerkennungsbehörde unverzüglich anzuzeigen.
 
-
 ## Abschnitt 2 - Besondere Vorschriften
-
-
 
 ### § 5 Besondere Anerkennungsvoraussetzungen als Prüfstelle
 
@@ -238,10 +227,6 @@ Kommission der Europäischen Gemeinschaften.
 
 2.  ein System zur Aufzeichnung und Dokumentation der Prüfungen.
 
-
-
-
-
 ### § 6 Besondere Pflichten der anerkannten Prüfstelle
 
 (1) Die Prüfgeräte müssen nach den allgemein anerkannten Regeln der
@@ -260,7 +245,6 @@ Prüfstelle oder seinem Stellvertreter zu unterzeichnen. Die Berichte
 und die begleitenden Aufzeichnungen sind fünf Jahre aufzubewahren und
 der anerkennenden Behörde oder der von dieser bestimmten Stelle auf
 Verlangen vorzulegen.
-
 
 ### § 7 Besondere Anerkennungsvoraussetzungen als Überwachungsstelle
 
@@ -284,10 +268,6 @@ beachtenden technischen Anforderungen.
 
 2.  ein System zur Aufzeichnung und Dokumentation der Überwachungen.
 
-
-
-
-
 ### § 8 Besondere Pflichten der anerkannten Überwachungsstelle
 
 Die Überwachungsstelle hat Berichte über die Durchführung der
@@ -299,7 +279,6 @@ Die Überwachungsstelle hat Berichte über die Durchführung der
 Stellvertreter zu unterschreiben. Die Berichte und die begleitenden
 Aufzeichnungen sind fünf Jahre aufzubewahren und der anerkennenden
 Behörde oder der von ihr beauftragten Stelle auf Verlangen vorzulegen.
-
 
 ### § 9 Besondere Anerkennungsvoraussetzungen als Zertifizierungsstelle
 
@@ -324,10 +303,6 @@ technischen Anforderungen.
 
 2.  ein System zur Aufzeichnung und Dokumentation der Zertifizierungen.
 
-
-
-
-
 ### § 10 Besondere Pflichten der anerkannten Zertifizierungsstelle
 
 Die Zertifizierungsstelle hat Aufzeichnungen und Berichte über ihre
@@ -339,10 +314,7 @@ Bericht ist vom Leiter der Zertifizierungsstelle oder seinem
 Stellvertreter zu unterzeichnen. Der Bericht ist unabhängig von der
 Notwendigkeit eines Konformitätszertifikats zu erstellen.
 
-
 ## Abschnitt 3 - Antrag auf Anerkennung, Widerruf und Erlöschen
-
-
 
 ### § 11 Antrag und Antragsunterlagen
 
@@ -389,7 +361,6 @@ beantragen.
 (3) Die Anerkennungsbehörde kann Gutachten über die Erfüllung
 einzelner Anerkennungsvoraussetzungen einholen.
 
-
 ### § 12 Widerruf und Erlöschen
 
 (1) Die Anerkennung ist zu widerrufen, wenn die anerkannte PÜZ-Stelle
@@ -426,11 +397,9 @@ wenn der Anerkennungsbehörde nicht innerhalb von sechs Monaten ein
 Wechsel des Leiters oder seines Stellvertreters nach § 4 Abs. 10
 angezeigt wird.
 
-
 ### § 13 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlußformel
 

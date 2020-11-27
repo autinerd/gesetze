@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1288
 
-
 ## Art 1 Zustimmung zum Versorgungslastenteilungs-Staatsvertrag
 
 Dem am 16. Dezember 2009 und 26. Januar 2010 unterzeichneten
@@ -25,11 +24,9 @@ länderübergreifenden Dienstherrenwechseln (Versorgungslastenteilungs-
 Staatsvertrag) wird zugestimmt. Der Staatsvertrag wird nachstehend
 veröffentlicht.
 
-
 ## (XXXX) Art 2 bis Art 5 (weggefallen)
 
 -
-
 
 ## Art 6 Inkrafttreten
 

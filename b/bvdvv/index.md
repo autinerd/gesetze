@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 17.12.2010 I 2131, diese geändert durch Art. 1 V v. 31.5.2011 I 1002
 
-
 ## § 1 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
@@ -71,10 +70,6 @@ Im Sinne dieser Verordnung sind:
 
     sowie die Nachkommen eines Rindes nach den Buchstaben a bis c.
 
-
-
-
-
 ## § 2 Impfungen
 
 (1) Die zuständige Behörde kann die Impfung eines Rindes oder der
@@ -100,7 +95,6 @@ erwarten ist.
 unverzüglich Auskunft über die Anzahl der geimpften Rinder
 einschließlich deren Ohrmarkennummern, den Zeitpunkt der
 durchgeführten Impfungen sowie den verwendeten Impfstoff zu erteilen.
-
 
 ## § 3 Untersuchungen
 
@@ -189,7 +183,6 @@ lassen.
 
 
 (7) (weggefallen)
-
 
 ## § 4 Verbringen von Rindern
 
@@ -289,7 +282,6 @@ ist
 bis zur erstmaligen oder erneuten Abgabe des Rindes oder bis zum Tod
 des Rindes aufzubewahren.
 
-
 ## § 5 Schutzmaßregeln
 
 (1) Der Besitzer hat ein persistent BVDV-infiziertes Rind unverzüglich
@@ -306,7 +298,6 @@ des Bestandes, in dem sich das betroffene Tier, dessen Muttertier und
 dessen Nachkommen befinden, nach näherer Anweisung der zuständigen
 Behörde mit einer in der amtlichen Methodensammlung beschriebenen
 Methode auf BVDV untersuchen zu lassen.
-
 
 ## § 6 Ordnungswidrigkeiten
 
@@ -341,10 +332,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 6.  entgegen § 5 Absatz 1 Satz 1 ein Rind nicht oder nicht rechtzeitig
     töten lässt.
 
-
-
-
-
 ## § 7 Weitergehende Maßnahmen
 
 Die Befugnis der zuständigen Behörde, bei Feststellung einer BVDV-
@@ -352,7 +339,6 @@ Infektion weitergehende Maßnahmen nach § 79 Absatz 4 in Verbindung mit
 den §§ 17, 17b Absatz 1 Nummer 4 und den §§ 18 bis 30 des
 Tierseuchengesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung
 erforderlich sind, bleibt unberührt.
-
 
 ## Anlage 1 (zu § 1) Voraussetzungen, unter denen ein Rinderbestand als BVDV-unverdächtig gilt
 
@@ -433,10 +419,6 @@ soweit die nachfolgenden Anforderungen erfüllt sind:
 
 5.  Die Rinder des Bestandes dürfen nur mit Samen von BVDV-unverdächtigen
     Bullen besamt oder nur von BVDV-unverdächtigen Bullen gedeckt werden.
-
-
-
-
 
 ## Anlage 2 (zu § 4 Abs. 4) Amtstierärztliche Bescheinigung über die BVDV-Unverdächtigkeit eines Rinderbestandes
 

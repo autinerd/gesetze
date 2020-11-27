@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 586
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -32,7 +30,6 @@ von der Eintragung als Warenzeichen ausgeschlossen ist.
 
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
 16\. April 1980 (BGBl. I S. 448).
-
 
 ## Schlussformel
 

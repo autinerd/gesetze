@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2346
 
-
-
 ## § 1 Anwendungsbereich, Berechnung der Wohnfläche
 
 (1) Wird nach dem Wohnraumförderungsgesetz die Wohnfläche berechnet,
@@ -25,7 +23,6 @@ sind die Vorschriften dieser Verordnung anzuwenden.
 (2) Zur Berechnung der Wohnfläche sind die nach § 2 zur Wohnfläche
 gehörenden Grundflächen nach § 3 zu ermitteln und nach § 4 auf die
 Wohnfläche anzurechnen.
-
 
 ## § 2 Zur Wohnfläche gehörende Grundflächen
 
@@ -79,10 +76,6 @@ wenn sie ausschließlich zu der Wohnung oder dem Wohnheim gehören.
 
 
 3.  Geschäftsräume.
-
-
-
-
 
 ## § 3 Ermittlung der Grundfläche
 
@@ -156,7 +149,6 @@ abweichend von dieser Bauzeichnung gebaut worden, ist die Grundfläche
 durch Ausmessung im fertig gestellten Wohnraum oder auf Grund einer
 berichtigten Bauzeichnung neu zu ermitteln.
 
-
 ## § 4 Anrechnung der Grundflächen
 
 Die Grundflächen
@@ -180,7 +172,6 @@ Die Grundflächen
 
 
 anzurechnen.
-
 
 ## § 5 Überleitungsvorschrift
 

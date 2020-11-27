@@ -37,10 +37,6 @@ b)  In persönlicher Hinsicht:
     für alle gewerblichen Arbeitnehmer unter Tage, die unter Buchstabe a
     genannte Tätigkeiten ausüben.
 
-
-
-
-
 ## § 2 Mindestlöhne
 
 (1) Die Tarifstundenlöhne der Tarifgruppen 1 und 2 sind zugleich
@@ -74,7 +70,6 @@ einzelvertraglicher Vereinbarungen bleiben unberührt.
 (4) Der Anspruch auf den Mindestlohn wird spätestens am 15. des Monats
 fällig, der auf den Monat folgt, für den er zu zahlen ist.
 
-
 ## § 3 Zusätzliches Urlaubsgeld
 
 (1) Arbeitnehmer erhalten ein zusätzliches Urlaubsgeld.
@@ -96,7 +91,6 @@ erreicht wird.
 des Kalenderjahres besteht Anspruch auf ein Zwölftel des zusätzlichen
 Urlaubsgeldes für jeden vollen Monat des Bestehens des
 Beschäftigungsverhältnisses.
-
 
 ## § 4 Urlaubsanspruch
 
@@ -129,7 +123,6 @@ Urlaub bis spätestens zum 31. Dezember zu gewähren und zu nehmen.
 Danach verfällt der übertragene Urlaubsanspruch. Im Übrigen kann der
 Urlaub auf das nächste Kalenderjahr nur übertragen werden, wenn
 außergewöhnliche betriebliche oder persönliche Gründe dies erfordern.
-
 
 ## Anhang zum Tarifvertrag zur Regelung der Mindestbedingungen
 

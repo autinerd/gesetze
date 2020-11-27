@@ -18,7 +18,6 @@ Fundstelle
 Organisationserlass teilweise aufgeh. durch
 :   Organisationserlass vom 19.9.2007 I 2315
 
-
 ## (XXXX)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit

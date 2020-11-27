@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1483
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz findet Anwendung auf
@@ -34,10 +33,6 @@ Dieses Gesetz findet Anwendung auf
     Anwendung dieses Gesetzes nicht der Art und dem Hauptzweck der
     Tätigkeit der Streitkräfte entgegensteht, und mit Ausnahme von
     Material, das ausschließlich für militärische Zwecke verwendet wird.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -156,10 +151,6 @@ Im Sinne dieses Gesetzes sind
     Fähigkeit des Netzes, eine angemessene Nachfrage nach Verteilung von
     Elektrizität oder Erdgas zu befriedigen.
 
-
-
-
-
 ## § 3 Energieeinsparziele
 
 (1) Ziel der Maßnahmen nach diesem Gesetz ist es, die Effizienz der
@@ -212,7 +203,6 @@ unterrichten.
 2011 und bis zum 30. Juni 2014 jeweils einen Energieeffizienz-
 Aktionsplan vor.
 
-
 ## § 4 Information und Beratung der Endkunden; Verordnungsermächtigung
 
 (1) Energielieferanten unterrichten ihre Endkunden mindestens jährlich
@@ -252,7 +242,6 @@ durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen,
 welche Art von Informationen und Beratungsangeboten über
 Energieeffizienz den Endkunden von den Marktteilnehmern zur Verfügung
 zu stellen sind.
-
 
 ## § 5 Sorgepflicht der Energieunternehmen; Verordnungsermächtigung
 
@@ -301,7 +290,6 @@ Energieeffizienzmaßnahmen oder deren Erbringung oder Durchführung
 behindern oder die Entwicklung von Märkten für Energiedienstleistungen
 und andere Energieeffizienzmaßnahmen beeinträchtigen könnten.
 
-
 ## § 6 Information der Marktteilnehmer
 
 (1) Die Bundesstelle für Energieeffizienz sorgt dafür, dass die
@@ -319,7 +307,6 @@ Information auf ihrer Internetseite. Die Bundesstelle für
 Energieeffizienz übernimmt nur in Fällen von Vorsatz oder grober
 Fahrlässigkeit eine Haftung für die Richtigkeit und Vollständigkeit
 der Musterverträge.
-
 
 ## § 7 Anbieterliste; Verordnungsermächtigung
 
@@ -349,7 +336,6 @@ eingetragen zu werden, welche Kosten hierfür erhoben werden können und
 unter welchen Voraussetzungen eine Löschung aus der Anbieterliste
 erfolgt.
 
-
 ## § 8 Energieaudits
 
 Die Bundesstelle für Energieeffizienz wirkt zur Unterstützung der
@@ -360,7 +346,6 @@ Anforderungen des § 7 Absatz 2 Satz 1 und 3 genügen. Sofern hierfür
 keine ausreichende Zahl unabhängiger Anbieter tätig ist, ergreift die
 Bundesstelle für Energieeffizienz Maßnahmen, um das Tätigwerden
 unabhängiger Anbieter zu entwickeln und zu fördern.
-
 
 ## § 9 Bundesstelle für Energieeffizienz
 
@@ -460,7 +445,6 @@ folgende Aufgaben:
 (3) Die Bundesstelle für Energieeffizienz untersteht der Rechts- und
 Fachaufsicht des Bundesministeriums für Wirtschaft und Technologie.
 
-
 ## § 10 Beirat
 
 (1) Bei der Bundesstelle für Energieeffizienz wird ein Beirat für
@@ -481,7 +465,6 @@ Mitglieder des Beirats soll zwölf Personen nicht überschreiten.
 
 (3) Der Beirat gibt sich eine Geschäftsordnung, die der Zustimmung des
 Bundesministeriums für Wirtschaft und Technologie bedarf.
-
 
 ## § 11 Datenerhebung; Verordnungsermächtigung
 
@@ -509,10 +492,6 @@ des Bundesrates
 
 2.  die Verwendung der Daten.
 
-
-
-
-
 ## § 12 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -527,7 +506,6 @@ fünfzigtausend Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die Bundesstelle für
 Energieeffizienz.
-
 
 ## § 13 Zwischenüberprüfung
 

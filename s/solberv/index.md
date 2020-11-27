@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 27.2.2008 I 268
 
-
 ## Eingangsformel
 
 Auf Grund des § 104g Abs. 2 des Versicherungsaufsichtsgesetzes,
@@ -33,10 +32,7 @@ Versicherungsunternehmen sowie zur Umstellung von Vorschriften auf den
 Euro vom 21. Dezember 2000 (BGBl. I S. 1857) verordnet das
 Bundesministerium der Finanzen:
 
-
 ## Erster Abschnitt - Gemäß § 104a Abs. 1 Nr. 1 des Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht unterliegende Erst- und Rückversicherungsunternehmen mit Sitz im Inland
-
-
 
 ### § 1 Berechnungsmethoden
 
@@ -63,7 +59,6 @@ einzubeziehenden Unternehmen vorzunehmen.
 der Grundlage der Einzelabschlüsse der einzubeziehenden Unternehmen
 vorgenommen wird, wenn ein konsolidierter Abschluss vorliegt.
 
-
 ### § 2 Einzubeziehende Unternehmen
 
 Die bereinigte Solvabilität eines gemäß § 104a Abs. 1 Nr. 1 des
@@ -88,7 +83,6 @@ Maßgabe der §§ 3 bis 10 und unter Einbeziehung
 
 
 zu berechnen.
-
 
 ### § 3 Ausschluss der Mehrfachberücksichtigung der Eigenmittel
 
@@ -122,7 +116,6 @@ von Vermögensgegenständen
 
 
 nicht berücksichtigt.
-
 
 ### § 4 Ausschluss der gruppeninternen Kapitalschöpfung
 
@@ -162,7 +155,6 @@ hält oder einem anderen Unternehmen Darlehen gewährt, das seinerseits
 unmittelbar oder mittelbar gemäß § 53c des
 Versicherungsaufsichtsgesetzes zulässige Eigenmittel des erstgenannten
 Unternehmens hält.
-
 
 ### § 5 Sonstige grundlegende Prinzipien
 
@@ -307,7 +299,6 @@ in den Konsolidierungskreis einbezogenen Unternehmen zufriedenstellend
 sind. Die nach Satz 4 zugelassene Methode ist auf Dauer einheitlich
 anzuwenden.
 
-
 ### § 6 Ausnahmen
 
 (1) Von der Berechnung der bereinigten Solvabilität eines Erst- oder
@@ -342,7 +333,6 @@ gemäß § 53c des Versicherungsaufsichtsgesetzes zulässigen Eigenmittel
 der in die Berechnung einbezogenen Erst- oder
 Rückversicherungsunternehmen zwischen den betroffenen Unternehmen
 angemessen aufgeteilt sind.
-
 
 ### § 7 Sonderfälle
 
@@ -389,13 +379,11 @@ Versicherungsaufsichtsgesetzes abgezogen. In diesem Fall dürfen
 etwaige stille Reserven dieser Beteiligung nicht als zulässige
 Eigenmittel herangezogen werden.
 
-
 ### § 8 Berechnungsebene
 
 Die bereinigte Solvabilität wird von dem gemäß § 104a Abs. 1 Nr. 1 des
 Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht
 unterliegenden Erst- oder Rückversicherungsunternehmen berechnet.
-
 
 ### § 9 Berechnung der bereinigten Solvabilität für ein gemäß § 104a Abs. 1 Nr. 1 des Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht unterliegendes Erst- oder Rückversicherungsunternehmen auf Grundlage eines konsolidierten Abschlusses
 
@@ -457,7 +445,6 @@ dass
 
 
 (5) (weggefallen)
-
 
 ### § 10 Berechnung der bereinigten Solvabilität für ein gemäß § 104a Abs. 1 Nr. 1 des Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht unterliegendes Erst- oder Rückversicherungsunternehmen auf Grundlage der Einzelabschlüsse
 
@@ -526,10 +513,7 @@ Buchwert sowie der entsprechende Anteil an den zulässigen Eigenmitteln
 und der Solvabilitätsspanne dieser Unternehmen in die Berechnung
 einzubeziehen.
 
-
 ## Zweiter Abschnitt - Gemäß § 104a Abs. 1 Nr. 2 des Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht unterliegende Erst- und Rückversicherungsunternehmen mit Sitz im Inland
-
-
 
 ### § 11 Einzubeziehende Unternehmen
 
@@ -551,7 +535,6 @@ Maßgabe der §§ 12 bis 18 und unter Einbeziehung
 
 
 zu berechnen.
-
 
 ### § 12 Ausschluss der Mehrfachberücksichtigung der Eigenmittel
 
@@ -604,7 +587,6 @@ Vermögensgegenständen
 
 nicht berücksichtigt. § 3 Satz 1 gilt entsprechend.
 
-
 ### § 13 Ausschluss der gruppeninternen Kapitalschöpfung
 
 Bei der Berechnung werden die gemäß § 53c des
@@ -639,7 +621,6 @@ Gegenfinanzierung zwischen
 
 
 stammen, nicht berücksichtigt. § 4 Satz 2 gilt entsprechend.
-
 
 ### § 14 Sonstige grundlegende Prinzipien
 
@@ -692,10 +673,6 @@ Mutterunternehmen oder unmittelbare Tochterunternehmen sind.
     Erstversicherungsunternehmen behandelt, für das eine
     Solvabilitätsspanne gemäß § 7 Abs. 2 Satz 1 und 2 festgelegt wird.
 
-
-
-
-
 ### § 15 Ausnahmen
 
 Von der Berechnung der bereinigten Solvabilität eines Erst- oder
@@ -734,17 +711,12 @@ diesem Unternehmen um ein Tochterversicherungsunternehmen handelt, das
     darauf geeinigt hat, dieser die Ausübung der zusätzlichen
     Beaufsichtigung zu übertragen.
 
-
-
-
-
 ### § 16 Berechnungsebene
 
 Die bereinigte Solvabilität wird von dem gemäß § 104a Abs. 1 Nr. 2 des
 Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht
 unterliegenden Erst- oder Rückversicherungsunternehmen auf der Ebene
 seines Mutterunternehmens berechnet.
-
 
 ### § 17 Berechnung der bereinigten Solvabilität für ein gemäß § 104a Abs. 1 Nr. 2 des Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht unterliegendes Erst- oder Rückversicherungsunternehmen auf Grundlage eines konsolidierten Abschlusses
 
@@ -812,7 +784,6 @@ dass
 
 
 (5) (weggefallen)
-
 
 ### § 18 Berechnung der bereinigten Solvabilität für ein gemäß § 104a Abs. 1 Nr. 2 des Versicherungsaufsichtsgesetzes der zusätzlichen Aufsicht unterliegendes Erst- oder Rückversicherungsunternehmen auf Grundlage der Einzelabschlüsse
 
@@ -889,10 +860,7 @@ Buchwert sowie der entsprechende Anteil an den zulässigen Eigenmitteln
 und der Solvabilitätsspanne dieser Unternehmen in die Berechnung
 einzubeziehen.
 
-
 ## Dritter Abschnitt - Allgemeines
-
-
 
 ### § 19 Fristen
 
@@ -904,24 +872,20 @@ den Abschlussprüfer jährlich unverzüglich, spätestens aber zwölf
 Monate nach Schluss des Geschäftsjahres der Aufsichtsbehörde
 vorzulegen.
 
-
 ### § 20 Subdelegation
 
 Die Befugnis zum Erlass von Änderungen dieser Verordnung wird gemäß §
 104g Abs. 2 Satz 2 des Versicherungsaufsichtsgesetzes auf das
 Bundesaufsichtsamt für das Versicherungswesen übertragen.
 
-
 ### § 21 Zeitliche Anwendung
 
 Die Verordnung findet in der vorliegenden Fassung erstmals Anwendung
 auf die nach dem 31. Dezember 2006 beginnenden Geschäftsjahre.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### § 22 Inkrafttreten
 

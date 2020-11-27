@@ -22,7 +22,6 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 13 Abs. 17 Nr. 2 u. 3 G v. 12.4.2012 I 579 ist berücksichtigt
 
-
 ## Eingangsformel
 
 Auf Grund des § 61a Abs. 2 des Gesetzes über die Alterssicherung der
@@ -33,7 +32,6 @@ und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206)
 verordnet das Bundesministerium für Gesundheit und Soziale Sicherung
 im Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Datenabgleich durch Vermittlungsstellen, einzubeziehende Personen
 
@@ -47,10 +45,7 @@ eines Beitragszuschusses erheblich ist. Die Datenübermittlung von der
 landwirtschaftlichen Alterskasse an die Vermittlungsstellen richtet
 sich nach folgenden Vorschriften.
 
-
 ## § 2 (weggefallen)
-
-
 
 ## § 3 Datenübermittlung an die Vermittlungsstellen
 
@@ -65,7 +60,6 @@ Anfragedatensatz nicht enthalten.
 Kalendermonats. In die Datenübermittlung werden alle der
 landwirtschaftlichen Alterskasse bis zum ersten Tag des betreffenden
 Kalendermonats zugeleiteten Meldungen nach Absatz 1 einbezogen.
-
 
 ## § 4 Datenabgleich
 
@@ -86,14 +80,12 @@ Veranlagungsjahre beim Abgleich unberücksichtigt. Unberücksichtigt
 bleiben auch Veranlagungsjahre, die im Zeitpunkt des Datenabgleichs
 mehr als sechs Jahre zurückliegen.
 
-
 ## § 5 Rückübermittlung an die landwirtschaftliche Alterskasse
 
 Die Vermittlungsstellen übermitteln die von ihnen bei dem Abgleich
 nach § 4 getroffenen Feststellungen als Antwortdatensatz bis zum
 zwölften Tag des Kalendermonats der Datenübermittlung nach § 3 Abs. 2
 an die landwirtschaftliche Alterskasse.
-
 
 ## § 6 Anfragedatensatz
 
@@ -103,7 +95,6 @@ die Informationsfreiheit im Einvernehmen mit dem Bundesministerium für
 Arbeit und Soziales und dem Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz die Gestaltung des
 Anfragedatensatzes.
-
 
 ## § 7 Verfahren der Datenübermittlung
 
@@ -123,7 +114,6 @@ Beuth-Verlag GmbH, Burggrafenstraße 4-10, 10787 Berlin, beziehbar und
 beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann
 zugänglich und archivmäßig gesichert niedergelegt.
 
-
 ## § 8 Übermittlung durch Datenfernübertragung
 
 Die Daten sind durch Datenübertragung im 8-Bit-Code – DRV 8 – nach DIN
@@ -135,19 +125,13 @@ Daten sowie die Authentizität der übermittelnden und der empfangenden
 Stelle gewährleisten; bei der Nutzung allgemein zugänglicher Netze
 sind Verschlüsselungsverfahren anzuwenden.
 
-
 ## § 9 (weggefallen)
 
-
-
 ## § 10 (weggefallen)
-
-
 
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

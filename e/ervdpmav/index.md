@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 3 V v. 10.2.2010 I 83
 
-
 ## § 1 Zulassung der elektronischen Kommunikation
 
 Beim Deutschen Patent- und Markenamt können elektronische Dokumente in
@@ -55,10 +54,6 @@ folgenden Verfahren eingereicht werden:
 
 
 4.  für Anmeldungen in Geschmacksmusterverfahren.
-
-
-
-
 
 ## § 2 Form der Einreichung
 
@@ -131,7 +126,6 @@ des für deutsche Patentanmeldungen entwickelten Anmeldesystems (DE-
 Modul) der vom Europäischen Patentamt herausgegebenen Software epoline
 eingereicht werden. Die jeweils im Amtsblatt des Europäischen
 Patentamts bekannt gemachten technischen Bedingungen finden Anwendung.
-
 
 ## § 3 Bekanntgabe der Bearbeitungsvoraussetzungen
 

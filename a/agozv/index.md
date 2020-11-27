@@ -76,10 +76,7 @@ zuletzt geändert durch die Richtlinie 94/10/EG des
 Europäischen Parlaments und des Rates vom 23. März 1994
 (ABl. EG Nr. L 200 S. 30), sind beachtet worden.
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -99,7 +96,6 @@ Anbaumaterial von
 
 der in der Anlage 1 aufgeführten Arten hinsichtlich des
 Inverkehrbringens sowie der Einfuhr.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -182,17 +178,9 @@ Im Sinne dieser Verordnung sind:
 
     Staat, der nicht Mitgliedstaat der Europäischen Union ist.
 
-
-
-
-
 ## Abschnitt 2 - Inverkehrbringen
 
-
-
 ### Unterabschnitt 2 - Allgemeine Vorschriften
-
-
 
 #### § 3 Registrierung
 
@@ -253,7 +241,6 @@ wer
 
 
 in den Verkehr bringt.
-
 
 #### § 4 Pflichten der Betriebe
 
@@ -395,7 +382,6 @@ Zierpflanzenarten, das für nicht gewerbliche Endverbraucher bestimmt
 ist, erzeugen und in den Verkehr bringen. Absatz 4 Satz 2 gilt
 entsprechend.
 
-
 #### § 5 Anforderungen an Standardmaterial
 
 (1) Standardmaterial muß
@@ -511,10 +497,7 @@ mindestens folgende Anforderungen erfüllen:
 Absatz 4 Nummer 4 Buchstabe a, deren Bezeichnungen und Beschreibungen
 ihm vorgelegt worden sind, bekannt.
 
-
 ### Unterabschnitt 2 - Anerkanntes Anbaumaterial von Kern- und Steinobst
-
-
 
 #### § 6 Anerkanntes Anbaumaterial
 
@@ -727,10 +710,7 @@ zulassen, soweit geeignetes Anbaumaterial einer Kategorie nicht in
 ausreichender Anzahl zur Verfügung steht, um daraus unmittelbar die
 nachfolgende Kategorie zu erzeugen.
 
-
 ### Unterabschnitt 3 - Kennzeichnung und Kontrolle
-
-
 
 #### § 7 Kennzeichnung
 
@@ -807,7 +787,6 @@ auch der Pflanzenpaß nach § 13c der Pflanzenbeschauverordnung
 verwendet werden, sofern die Angaben nach Absatz 1 Nr. 1, 8 und 9
 deutlich von den übrigen Angaben hervorgehoben sind.
 
-
 #### § 8 Kontrolle
 
 (1) Die zuständige Behörde kontrolliert diejenigen, die nach § 3
@@ -830,10 +809,6 @@ nach den Umständen erforderlichen Maßnahmen an, insbesondere
 
 
 2.  dessen Vernichtung.
-
-
-
-
 
 #### § 8a Vergleichsprüfungen
 
@@ -879,7 +854,6 @@ und 2 wirkt das Julius Kühn-Institut, Bundesforschungsinstitut für
 Kulturpflanzen, nach § 33 Abs. 2 Nr. 10 des Pflanzenschutzgesetzes in
 Abstimmung mit der zuständigen Behörde mit.
 
-
 #### § 8b Mitteilungen
 
 Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
@@ -900,13 +874,7 @@ folgenden Fällen übertragen:
     Vergleichsprüfungen nach § 8a Abs. 1 und 2 sowie über Maßnahmen, die
     nach § 8a Abs. 3 angeordnet worden sind.
 
-
-
-
-
 ## Abschnitt 3 - Ein- und Ausfuhr
-
-
 
 ### § 9 Einfuhr
 
@@ -1019,10 +987,6 @@ mindestens folgende Angaben hervorgehen:
     Anbaumaterial zur gewerblichen Weiterkultur oder für die Abgabe an den
     Endverbraucher vorgesehen ist.
 
-
-
-
-
 ### § 10 Ausfuhr
 
 Anbaumaterial, das für die Ausfuhr in einen Staat außerhalb der
@@ -1031,10 +995,7 @@ dieser Verordnung entspricht, ist von Anbaumaterial, das die
 Anforderungen dieser Verordnung erfüllt, deutlich getrennt zu halten
 und als solches zu kennzeichnen.
 
-
 ## Abschnitt 4 - Schlußbestimmungen
-
-
 
 ### § 11 Ausnahmen
 
@@ -1054,7 +1015,6 @@ zulassen und von Kontrollen nach § 8 absehen, soweit
 5 für Anbaumaterial genehmigen, das für wissenschaftliche Zwecke, für
 Züchtungs- und Ausstellungszwecke oder zur Erhaltung der genetischen
 Vielfalt bestimmt ist.
-
 
 ### § 12 Ordnungswidrigkeiten
 
@@ -1083,11 +1043,9 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Abs. 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig erstattet.
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### Anlage 1 (zu § 2) Pflanzenarten, für die die Vorschriften dieser Verordnung gelten, wenn sie als Anbaumaterial zu gewerblichen Zwecken in den Verkehr gebracht werden sollen
 
@@ -1566,13 +1524,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         2)  Nur in Schutzgebieten paßpflichtig.
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 4 Abs. 1 und 2, § 5 Abs. 2 und 4, § 6 Abs. 3 und § 9 Abs. 3) Schadorganismen an Anbaumaterial bestimmter Pflanzenarten
 
@@ -2520,13 +2471,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Raspberry bushy dwarf virus (Himbeerzwergbuschvirus)
             Raspberry leaf curl virus
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 5 Abs. 2 Nr. 3) Besondere Anforderungen an Bestände von Anbaumaterial
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 1350 - 1351;
@@ -2676,10 +2620,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Allium sativum L. (Knoblauch)
 
     *   wie 3.1
-
-
-
-
 
 ### Anlage 4 (zu § 6 Abs. 3) Untersuchung auf Viren, virusähnliche Schadorganismen und Viruskrankheiten im Rahmen der Anerkennung von Anbaumaterial von Kern- und Steinobst
 

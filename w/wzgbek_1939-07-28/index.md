@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1939, 949
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes vom 5. Mai

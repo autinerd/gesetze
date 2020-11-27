@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 12.10.2005 I 3016
 
-
 ## Eingangsformel
 
 Auf Grund des § 12c Abs. 1 Satz 1 Nr. 3 und des § 81d Abs. 3 Satz 1
@@ -28,7 +27,6 @@ des Gesetzes vom 21. Juli 1994 (BGBl. I S. 1630) in das
 Versicherungsaufsichtsgesetz in der Fassung der Bekanntmachung vom 17.
 Dezember 1992 (BGBl. 1993 I S. 2) eingefügt worden sind, verordnet das
 Bundesministerium der Finanzen:
-
 
 ## § 1 Ermittlung des Überzinses
 
@@ -46,7 +44,6 @@ sodann dividiert durch das arithmetische Mittel des Buchwertes der
 Kapitalanlagen (Formblatt 1, Aktivseite, Posten C der Verordnung über
 die Rechnungslegung von Versicherungsunternehmen) jeweils am Ende des
 Vorjahres und des Geschäftsjahres.
-
 
 ## § 2 Verteilung des Betrages nach § 12a Abs. 2 des Versicherungsaufsichtsgesetzes auf die berechtigten Versicherten
 
@@ -71,7 +68,6 @@ Versicherungsaufsichtsgesetzes erfüllen, zum Zeitpunkt der Gutschrift
 aufzuteilen. Bestehen derartige Tarife nicht, ist der Betrag zur
 sofortigen oder auf höchstens fünf Jahre aufgeschobenen
 Prämienermäßigung zu verwenden.
-
 
 ## § 3 Verteilung des Betrages nach § 12a Abs. 3 des Versicherungsaufsichtsgesetzes auf die berechtigten Versicherten
 
@@ -110,7 +106,6 @@ der Ermittlung des Überschusses entsprechend zu berücksichtigen.
 Soweit auf sie Beträge nach § 12a Abs. 2 und 3 des
 Versicherungsaufsichtsgesetzes entfallen, sind diese nur deren
 Versicherten gutzuschreiben.
-
 
 ## § 4 Mindestzuführung zur Rückstellung für erfolgsabhängige Beitragsrückerstattung
 
@@ -251,11 +246,9 @@ zu dieser Ausnahmesituation geführt haben, vorab zu unterrichten. Die
 Verpflichtung des Unternehmens zur Aufstellung eines Zuführungsplans
 bleibt unberührt.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

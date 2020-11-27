@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 502 - 510]
 
-
 ## Inhaltsverzeichnis
 
 Teil I
@@ -138,8 +137,6 @@ Kapitel 4
     *
     *   Zweites unabhängiges Antriebssystem
 
-
-
 ## Teil III
 
 Kapitel 5
@@ -167,14 +164,9 @@ Kapitel 5
     *   Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21
         sowie nach Anhang XII Artikel 5
 
-
-
-
 ## Teil I - Wasserstraßen der Zone 3
 
-
 ### Kapitel 1 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 3
-
 
 #### § 1.01 Allgemeines
 
@@ -182,12 +174,10 @@ Auf Wasserstraßen der Zone 3, ausgenommen der Bundeswasserstraße
 Rhein, ist Anhange II oder Anhang XII mit den sich aus den
 nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
-
 #### § 1.02 Ankerausrüstung
 
 Für Anker genügen zwei Drittel des nach Anhang II § 10.01 errechneten
 Gesamtgewichts.
-
 
 #### § 1.03 Geschwindigkeit
 
@@ -200,19 +190,13 @@ Gesamtgewichts.
 2.  Bei Rückwärtsfahrt muss eine Geschwindigkeit gegen Wasser von
     mindestens 5 km/h erreicht werden.
 
-
-
-
-
 #### § 1.04 Freie Sicht
 
 Abweichend von Anhang XII Artikel 4 § 7.02 Nr. 2 darf der
 Sichtschatten vor dem Bug des leeren Schiffes mit halben Vorräten und
 ohne Ballast für den Rudergänger 250 m nicht überschreiten.
 
-
 ### Kapitel 2 - Sonderbestimmungen für Fahrgastschiffe
-
 
 #### § 2.01 Rettungsmittel
 
@@ -220,24 +204,19 @@ Einzelrettungsmittel nach Anhang II § 15.09 Nr. 4 können durch
 Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5 ersetzt
 werden.
 
-
 #### § 2.02 2-Abteilungsstatus
 
 (ohne Inhalt)
 
-
 ## Teil II - Wasserstraßen der Zone 4
 
-
 ### Kapitel 3 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 4
-
 
 #### § 3.01 Allgemeines
 
 Auf Wasserstraßen der Zone 4 ist Anhang II oder Anhang XII mit den
 sich aus den nachfolgenden Vorschriften ergebenden Maßgaben
 anzuwenden.
-
 
 #### § 3.02 Sicherheitsabstand
 
@@ -251,21 +230,15 @@ a)  soweit sie sprühwasser- und wetterdicht abgeschlossen werden können,
 b)  soweit sie nicht sprühwasser- und wetterdicht abgeschlossen werden
     können, auf 0,20 m verringert werden.
 
-
-
-
-
 #### § 3.03 Freibord
 
 Der Freibord muss mindestens 0,00 m betragen, sofern der
 Sicherheitsabstand nach § 3.02 eingehalten wird.
 
-
 #### § 3.04 Ankerausrüstung
 
 Für Anker genügen zwei Drittel des nach Anhang II § 10.01 errechneten
 Gesamtgewichts.
-
 
 #### § 3.05 Geschwindigkeit
 
@@ -278,19 +251,13 @@ Gesamtgewichts.
 2.  Bei Rückwärtsfahrt muss eine Geschwindigkeit von mindestens 5 km/h
     gegen Wasser erreicht werden.
 
-
-
-
-
 #### § 3.06 Freie Sicht
 
 Abweichend von Anhang XII Artikel 4 § 7.02 Nr. 2 darf der
 Sichtschatten vor dem Bug des leeren Schiffes mit halben Vorräten und
 ohne Ballast für den Rudergänger 250 m nicht überschreiten.
 
-
 ### Kapitel 4 - Sonderbestimmungen für Fahrgastschiffe
-
 
 #### § 4.01 Rettungsmittel
 
@@ -298,24 +265,19 @@ Einzelrettungsmittel nach Anhang II § 15.09 Nr. 4 können durch
 Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5 ersetzt
 werden.
 
-
 #### § 4.02 2-Abteilungsstatus
 
 Fahrgastschiffe müssen auf Wasserstrassen der Zone 4 den
 2-Abteilungsstatus nicht einhalten.
-
 
 #### § 4.03 Zweites unabhängiges Antriebssystem
 
 Fahrgastschiffe müssen auf Wasserstrassen der Zone 4 nicht mit einem
 zweiten unabhängigen Antriebssystem ausgerüstet sein.
 
-
 ## Teil III -
 
-
 ### Kapitel 5 - Übergangs- und Sonderbestimmungen
-
 
 #### § 5.01 Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind, und Gültigkeit der bisherigen Fahrtauglichkeitsbescheinigungen
 
@@ -334,10 +296,6 @@ zweiten unabhängigen Antriebssystem ausgerüstet sein.
 3.  Die Fahrtauglichkeitsbescheinigungen, die vor dem 30. Dezember 2008
     erteilt worden sind, bleiben bis zu dem eingetragenen Ablaufdatum
     gültig. Anhang II § 2.09 Nummer 2 bleibt unberührt.
-
-
-
-
 
 #### § 5.02 Abweichungen für Fahrzeuge, die schon in Betrieb sind
 
@@ -436,13 +394,6 @@ zweiten unabhängigen Antriebssystem ausgerüstet sein.
         *   N.E.U., spätestens bei Erteilung oder Erneuerung der
             Fahrtauglichkeitsbescheinigung nach dem 30. Dezember 2049
 
-
-
-
-
-
-
-
 #### § 5.03 Sonstige Abweichungen
 
 Falls die Anwendung der in diesem Kapitel genannten Bestimmungen nach
@@ -451,7 +402,6 @@ unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
 aufgrund von Empfehlungen des Ausschusses Abweichungen von diesen
 Vorschriften gestatten. Diese Abweichungen sind in die
 Fahrtauglichkeitsbescheinigung einzutragen.
-
 
 #### § 5.04 Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21 sowie nach Anhang XII Artikel 5
 

@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1981, 1158
 
-
-
 ## Art 1
 
 Dem in Wittem am 30. August 1979 unterzeichneten Vertrag zwischen der
@@ -28,18 +26,15 @@ Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die
 Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels VII des Vertrags
 eingeschränkt.
-
 
 ## Art 4
 
@@ -51,7 +46,6 @@ kann der Verwaltungsbehörde, die für die Verfolgung der
 Zuwiderhandlung zuständig wäre, die Vornahme der Rechtshilfehandlung
 übertragen.
 
-
 ## Art 5
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
@@ -59,12 +53,10 @@ Artikels IX Abs. 7 des Vertrags nur insoweit befugt, als sie nach
 innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen
 können.
 
-
 ## Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 7
 

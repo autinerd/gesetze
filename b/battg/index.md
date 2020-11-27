@@ -19,9 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 24.2.2012 I 212
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -63,7 +61,6 @@ oder des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und
 Abfallgesetzes erlassenen Rechtsverordnungen in der jeweils geltenden
 Fassung anzuwenden. Die §§ 27, 50 Absatz 3, § 59 Absatz 1 Satz 1 und §
 66 des Kreislaufwirtschaftsgesetzes gelten entsprechend.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -210,9 +207,7 @@ Energiespeicherung in einer Batterie maßgeblichen Stoffe.
 (22) „Typengruppe“ ist die Zusammenfassung vergleichbarer Baugrößen
 von Batterien mit dem gleichen chemischen System.
 
-
 ## Abschnitt 2 - Vertrieb und Rücknahme von Batterien
-
 
 ### § 3 Verkehrsverbote
 
@@ -254,7 +249,6 @@ untersagt.
 dieses Gesetzes in den Verkehr gebracht werden, sind durch den
 jeweiligen Hersteller wieder vom Markt zu nehmen.
 
-
 ### § 4 Anzeigepflichten der Hersteller
 
 (1) Jeder Hersteller ist verpflichtet, bevor er Batterien im
@@ -284,7 +278,6 @@ Hersteller, die aus dem Markt ausgetreten sind, ist zusätzlich das
 Datum des Marktaustritts anzugeben. Die Daten nach Absatz 1 sind drei
 Jahre nach dem angezeigten Marktaustritt des Herstellers zu löschen.
 
-
 ### § 5 Rücknahmepflichten der Hersteller
 
 (1) Die Hersteller sind verpflichtet, die von den Vertreibern nach § 9
@@ -297,7 +290,6 @@ Nicht verwertbare Altbatterien sind nach § 14 zu beseitigen.
 Altgeräten nach den Vorschriften des Elektro- und
 Elektronikgerätegesetzes und bei der Behandlung von Altfahrzeugen nach
 den Vorschriften der Altfahrzeug-Verordnung anfallen.
-
 
 ### § 6 Gemeinsames Rücknahmesystem für Geräte-Altbatterien
 
@@ -390,7 +382,6 @@ jeder Hersteller von Gerätebatterien verpflichtet, die Erfüllung
 seiner Pflichten aus § 5 durch Einrichtung eines herstellereigenen
 Rücknahmesystems im Sinne von § 7 sicherzustellen.
 
-
 ### § 7 Herstellereigene Rücknahmesysteme für Geräte-Altbatterien
 
 (1) § 6 Absatz 1 Satz 1 gilt nicht, soweit ein Hersteller ein eigenes,
@@ -437,7 +428,6 @@ herstellereigene Rücknahmesystem ordnungsgemäß entsorgt worden sind.
 Der Anspruch umfasst auch die anteiligen Gemeinkosten des
 herstellereigenen Rücknahmesystems.
 
-
 ### § 8 Rücknahme von Fahrzeug- und Industrie-Altbatterien
 
 (1) Die Hersteller von Fahrzeug- und Industriebatterien stellen die
@@ -466,7 +456,6 @@ Behandlungseinrichtungen nach § 12 Absatz 1 und 2, öffentlich-
 rechtliche Entsorgungsträger oder gewerbliche Altbatterieentsorger
 nach § 14 verwertet werden, gilt die Verpflichtung der Hersteller aus
 § 5 als erfüllt.
-
 
 ### § 9 Pflichten der Vertreiber
 
@@ -505,7 +494,6 @@ Beseitigung von Geräte-Altbatterien dürfen beim Vertrieb neuer
 Gerätebatterien gegenüber dem Endnutzer nicht getrennt ausgewiesen
 werden.
 
-
 ### § 10 Pfandpflicht für Fahrzeugbatterien
 
 (1) Vertreiber, die Fahrzeugbatterien an Endnutzer abgeben, sind
@@ -519,7 +507,6 @@ Pfandmarke abhängig machen.
 
 (2) Werden in Fahrzeuge eingebaute Fahrzeugbatterien an den Endnutzer
 ab- oder weitergegeben, so entfällt die Pfandpflicht.
-
 
 ### § 11 Pflichten des Endnutzers
 
@@ -552,7 +539,6 @@ Altbatterieentsorger erfasst, soweit nicht abweichende Vereinbarungen
 nach § 8 Absatz 2 getroffen worden sind; die Erfüllung der
 Anforderungen aus § 14 ist sicherzustellen.
 
-
 ### § 12 Überlassungs- und Verwertungspflichten Dritter
 
 (1) Die Betreiber von Behandlungseinrichtungen für Altgeräte nach dem
@@ -577,7 +563,6 @@ drei Monate vor Beginn des Zeitraums schriftlich anzuzeigen.
 Fahrzeug- und Industrie-Altbatterien ist § 9 Absatz 3 entsprechend
 anzuwenden.
 
-
 ### § 13 Mitwirkung der öffentlich-rechtlichen Entsorgungsträger
 
 (1) Soweit sich öffentlich-rechtliche Entsorgungsträger an der
@@ -595,7 +580,6 @@ Zeitraums schriftlich anzuzeigen.
 (2) Soweit sich öffentlich-rechtliche Entsorgungsträger an der
 Sammlung von Fahrzeug-Altbatterien beteiligen, sind sie verpflichtet,
 die erfassten Fahrzeug-Altbatterien gemäß § 14 zu verwerten.
-
 
 ### § 14 Verwertung und Beseitigung
 
@@ -640,7 +624,6 @@ berücksichtigen, wenn stichhaltige Beweise dafür vorliegen, dass die
 Verwertung unter Bedingungen erfolgt ist, die den Anforderungen dieses
 Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen
 entsprechen.
-
 
 ### § 15 Erfolgskontrolle
 
@@ -705,7 +688,6 @@ gemeinsame Dokumentation vorlegen.
 Format und den Aufbau der Dokumentationen nach den Absätzen 1 und 2
 veröffentlichen.
 
-
 ### § 16 Sammelziele
 
 Das Gemeinsame Rücknahmesystem und die herstellereigenen
@@ -724,12 +706,7 @@ sicherstellen:
 3.  spätestens für das Kalenderjahr 2016 eine Sammelquote von mindestens
     45 Prozent.
 
-
-
-
-
 ## Abschnitt 3 - Kennzeichnung, Hinweispflichten
-
 
 ### § 17 Kennzeichnung
 
@@ -777,7 +754,6 @@ Rechtsverordnung nach § 20 Nummer 4 festgelegten Vorgaben zu beachten.
 nicht im Widerspruch zu einer Kennzeichnung nach Absatz 1, 3 oder 6
 stehen.
 
-
 ### § 18 Hinweispflichten
 
 (1) Vertreiber haben ihre Kunden durch gut sicht- und lesbare, im
@@ -820,9 +796,7 @@ angehören, nach Absatz 3 zur Finanzierung von Informationskampagnen
 des Gemeinsamen Rücknahmesystems herangezogen, so sind diese
 Informationskampagnen wettbewerbsneutral zu gestalten.
 
-
 ## Abschnitt 4 - Beauftragung Dritter, Verordnungsermächtigung, Vollzug
-
 
 ### § 19 Beauftragung Dritter
 
@@ -830,7 +804,6 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung
 ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des
 Kreislaufwirtschaftsgesetzes gilt entsprechend. Beauftragter Dritter
 kann auch das Gemeinsame Rücknahmesystem sein.
-
 
 ### § 20 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -862,10 +835,6 @@ Bundesrates bedarf,
 
 5.  Ausnahmen von § 17 Absatz 1 bis 6 zuzulassen.
 
-
-
-
-
 ### § 21 Vollzug
 
 (1) Das Umweltbundesamt kann gegenüber dem Gemeinsamen Rücknahmesystem
@@ -878,9 +847,7 @@ Kreislaufwirtschaftsgesetzes entsprechend anzuwenden. Das Grundrecht
 auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des
 Grundgesetzes) wird insoweit eingeschränkt.
 
-
 ## Abschnitt 5 - Ordnungswidrigkeiten, Schlussbestimmungen
-
 
 ### § 22 Bußgeldvorschriften
 
@@ -978,7 +945,6 @@ Verfahren angeordneten Geldbußen und die Geldbeträge, deren Verfall
 gerichtlich angeordnet wurde, der Bundeskasse zu, die auch die der
 Staatskasse auferlegten Kosten trägt.
 
-
 ### § 23 Übergangsvorschriften
 
 (1) § 2 Absatz 15 Satz 2, § 3 Absatz 1 und 2 und § 17 Absatz 1, 3 und
@@ -1010,7 +976,6 @@ gebrachten Batterien ins Verhältnis zu setzen ist.
 (5) Die Absätze 3 und 4 sind, unabhängig vom jeweiligen Kalenderjahr,
 für die ersten beiden Jahre der Tätigkeit eines herstellereigenen
 Rücknahmesystems entsprechend anzuwenden.
-
 
 ### Anlage zu § 17
 

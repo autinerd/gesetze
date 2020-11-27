@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 598
 
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -51,7 +50,6 @@ der jeweils gültigen Fassung übertragen worden ist. Satz 1 gilt für
 die Präsidentin oder den Präsidenten des Bundesverwaltungsamtes im
 Rahmen der ihr oder ihm jeweils übertragenen Aufgaben.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Nach § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar
@@ -61,13 +59,11 @@ Behördenleiterinnen und Behördenleitern, soweit sie nach dieser
 allgemeinen Anordnung für den Erlass von Widerspruchsbescheiden
 zuständig sind.
 
-
 ## III. Vorbehaltsklausel
 
 In besonderen Fällen behalte ich mir vor, die Befugnisse und die
 Vertretung nach den Abschnitten I und II dieser allgemeinen Anordnung
 selbst auszuüben.
-
 
 ## IV. Inkrafttreten, Außerkrafttreten
 
@@ -75,7 +71,6 @@ Diese allgemeine Anordnung tritt am Tag nach der Veröffentlichung in
 Kraft. Für Widersprüche und Klagen, die vor dem Inkrafttreten dieser
 allgemeinen Anordnung erhoben worden sind, bleibt es bei den
 bisherigen Zuständigkeiten.
-
 
 ## Schlussformel
 

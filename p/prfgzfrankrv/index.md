@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.9.1991 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ des § 28 des Gesetzes vom 7. September 1976 (BGBl. I S. 2658) wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## § 1 Gleichstellung von Prüfungszeugnissen
 
 Französische Prüfungszeugnisse werden den Zeugnissen über das Bestehen
@@ -37,22 +35,18 @@ der Abschlußprüfung oder Gesellenprüfung in anerkannten
 Ausbildungsberufen nach Maßgabe der in der Anlage enthaltenen
 Aufstellung gleichgestellt.
 
-
 ## § 2 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage Aufstellung der gleichgestellten Prüfungszeugnisse
 
@@ -364,13 +358,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
         22. Versicherungskaufmann/ Versicherungskauffrau
-
-
-
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

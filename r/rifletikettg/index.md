@@ -21,12 +21,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 9.12.2010 I 1934
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -40,7 +38,6 @@ Monate alten Rindern.
 dieses Gesetzes erlassenen Rechtsverordnungen bleiben die Vorschriften
 des Lebensmittel- und Futtermittelrechts, des Handelsklassenrechts,
 des Lebensmittelspezialitätenrechts und des Markenrechts.
-
 
 ## § 2 Genehmigungsverfahren
 
@@ -82,11 +79,9 @@ regeln, soweit dies zur Durchführung von Rechtsakten der Europäischen
 Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1
 Abs. 1 erforderlich ist.
 
-
 ## § 3 (weggefallen)
 
 -
-
 
 ## § 3a Verarbeitung und Nutzung von Daten
 
@@ -161,7 +156,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates, soweit erforderlich
 das Verfahren zur Datenverarbeitung und -nutzung nach Absatz 1 oder 2
 zu regeln.
 
-
 ## § 4 Zuständigkeit für die Überwachung
 
 (1) Die Überwachung der Einhaltung der nach § 2 genehmigten
@@ -222,7 +216,6 @@ hinsichtlich der Marktbeteiligten verringert werden kann, die sich
 außerhalb eines nach § 2 genehmigten Etikettierungssystems zu einem
 freiwilligen Etikettierungs- und Kontrollsystem zusammengeschlossen
 haben.
-
 
 ## § 4a Befugnisse
 
@@ -331,7 +324,6 @@ Zubereitungen von genießbaren Schlachtnebenerzeugnissen beim
 innerstaatlichen Handel, innergemeinschaftlichen Verbringen oder bei
 der Einfuhr zu regeln.
 
-
 ## § 4b Zusammenarbeit
 
 Zur Zusammenarbeit der in § 4 Abs. 2 genannten Behörden bei der
@@ -343,7 +335,6 @@ von der Bundesanstalt für Landwirtschaft und Ernährung im Benehmen mit
 einem Ausschuss aus Vertretern der Länder vorbereitet. Die Mitglieder
 des Ausschusses werden vom Bundesministerium auf Vorschlag der Länder
 berufen.
-
 
 ## § 5 Gebühren
 
@@ -360,7 +351,6 @@ zu bestimmen.
 Durchführung dieses Gesetzes erlassenen Verordnungen von den
 zuständigen Stellen vorzunehmen sind, werden kostendeckende Gebühren
 und Auslagen erhoben.
-
 
 ## § 6 Auskunftserteilung
 
@@ -393,7 +383,6 @@ Behörden anderer Länder und anderer Mitgliedstaaten, dem
 Bundesministerium, der Bundesanstalt für Landwirtschaft und Ernährung
 und der Europäischen Kommission mitzuteilen.
 
-
 ## § 7 Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -403,7 +392,6 @@ diese Befugnis auf die Bundesanstalt für Landwirtschaft und Ernährung
 Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden
 übertragen. Die obersten Landesbehörden können diese Befugnis nach
 Satz 3 auf andere Behörden übertragen.
-
 
 ## § 8 Rechtsverordnungen
 
@@ -435,7 +423,6 @@ Abs. 1 erforderlich ist. Sie treten spätestens sechs Monate nach ihrem
 Inkrafttreten außer Kraft; ihre Geltungsdauer kann nur mit Zustimmung
 des Bundesrates verlängert werden.
 
-
 ## § 9 Unterlassungs- und Schadenersatzanspruch
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
@@ -458,7 +445,6 @@ auch gegen den Inhaber des Betriebes begründet.
 
 (4) (weggefallen)
 
-
 ## § 10 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -475,7 +461,6 @@ der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen
 Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die Tatbestände zu bezeichnen, die als Straftat nach
 Absatz 1 zu ahnden sind.
-
 
 ## § 11 Bußgeldvorschriften
 
@@ -505,7 +490,6 @@ Handlungen fahrlässig begeht.
 Geldbuße bis zu fünfundzwanzigtausend Euro, in den übrigen Fällen mit
 einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ## § 12 Einziehung
 
 Ist eine Straftat nach § 10 Abs. 1 oder 2 oder eine Ordnungswidrigkeit
@@ -515,7 +499,6 @@ Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden
 oder bestimmt worden sind, eingezogen werden. § 74a des
 Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind
 anzuwenden.
-
 
 ## § 13 Inkrafttreten
 

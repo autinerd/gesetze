@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1424
 
-
-
 ## I.
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -34,7 +32,6 @@ Angelegenheiten nach dem Bundesumzugskostengesetz in Verbindung mit §
 1183) zu entscheiden, soweit diese Behörde für den Erlass des
 Verwaltungsaktes oder die Ablehnung des Anspruches zuständig war.
 
-
 ## II.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -43,14 +40,12 @@ dem Bundesamt für Finanzen die Vertretung des Bundesministeriums für
 Bildung und Forschung bei Klagen, soweit es nach dieser Anordnung zur
 Entscheidung über Widersprüche zuständig ist.
 
-
 ## III.
 
 Diese Anordnung tritt mit Wirkung vom 1. Oktober 2000 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor ihrem Inkrafttreten
 eingelegt, oder auf Klagen, die vor ihrem Inkrafttreten erhoben worden
 sind.
-
 
 ## Schlussformel
 

@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1934, 1395
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
@@ -29,7 +26,6 @@ verkündet wird:
 werden auf fünfzig Jahre verlängert.
 
 (2) ...
-
 
 ## § 2
 

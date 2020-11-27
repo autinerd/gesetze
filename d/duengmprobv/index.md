@@ -28,7 +28,6 @@ Düngemitteln (ABl. EG Nr. L213 S. 1), zuletzt geändert durch die
 Richtlinie 95/8/EG der Kommission vom 10. April 1995 zur Änderung der
 Richtlinie 77/535/EWG (ABl. EG Nr. L86 S. 41).
 
-
 ## § 1 Sachlicher Anwendungsbereich
 
 Für die Untersuchung von Düngemitteln, die nicht als EG-Düngemittel
@@ -36,7 +35,6 @@ gekennzeichnet sind, Bodenhilfsstoffen, Kultursubstraten und
 Pflanzenhilfsmitteln im Rahmen der amtlichen Überwachung (§ 12 Abs. 1
 des Düngegesetzes) werden nach dieser Verordnung die Proben genommen
 und die Analysen durchgeführt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -62,10 +60,6 @@ Im Sinne dieser Verordnung ist
 5.  eine Endprobe: eine für die Untersuchung bestimmte Teilmenge einer
     Sammelprobe oder einer reduzierten Sammelprobe.
 
-
-
-
-
 ## § 3 Probenahmegeräte
 
 (1) Die Probenahmegeräte und die Probenbehältnisse müssen aus einem
@@ -80,14 +74,12 @@ Probenahmegeräte und Probenbehältnisse vor Gebrauch zu sterilisieren
 oder zu desinfizieren, soweit dies erforderlich ist, um eine
 ordnungsgemäße Analyse zu gewährleisten.
 
-
 ## § 4 Umfang einer Partie
 
 Ist eine Partie so groß oder so gelagert, dass ihr nicht an jeder
 Stelle Einzelproben entnommen werden können, so gilt für die
 Probenahme nur der Teil als Partie, dem die Einzelproben entnommen
 worden sind.
-
 
 ## § 5 Anzahl und Umfang der erforderlichen Einzelproben
 
@@ -224,7 +216,6 @@ Probenahme aus bewegtem Gut eine mechanische Vorrichtung benutzt, so
 braucht diese Mindestmenge für die Einzelprobe nicht eingehalten zu
 werden.
 
-
 ## § 6 Anzahl und Umfang der erforderlichen Sammelproben
 
 (1) Für jede Partie ist grundsätzlich nur eine Sammelprobe zu bilden.
@@ -272,7 +263,6 @@ Zwei Sammelproben sind zu bilden, soweit
 
 nicht unterschreiten.
 
-
 ## § 7 Anzahl und Umfang der erforderlichen Endproben
 
 (1) Aus jeder Sammelprobe sind, gegebenenfalls nach Bildung einer
@@ -299,7 +289,6 @@ den Inhalt von zwei Originalpackungen nicht unterschreiten.
 Stickstoffgehalt zur Prüfung der Anforderungen nach der
 Gefahrstoffverordnung darf die Menge ein Kilogramm, für die Prüfung
 der Detonationsfähigkeit 25 Kilogramm nicht unterschreiten.
-
 
 ## § 8 Entnahme und Bildung der Proben
 
@@ -365,7 +354,6 @@ gleich sein.
 sicherzustellen, dass diese hinsichtlich ihrer Stoffeigenschaften der
 beprobten Partie entsprechen.
 
-
 ## § 9 Behandlung der Endproben
 
 (1) Die Endproben sind in saubere, trockene, weitgehend
@@ -397,7 +385,6 @@ kennzeichnen:
 
 Die Kennzeichnung der Probe muss von der Plombe oder dem Siegel mit
 erfasst werden.
-
 
 ## § 10 Probenahmeprotokoll
 
@@ -454,7 +441,6 @@ vorzulegen, eine Ausfertigung ist ihm zu überlassen.
 (3) Jeder Endprobe ist eine Ausfertigung des Probenahmeprotokolls
 beizufügen.
 
-
 ## § 11 Verwendung der Endproben
 
 Eine Endprobe ist der mit der Untersuchung beauftragten Stelle von der
@@ -464,7 +450,6 @@ amtlichen Untersuchung zu übersenden. Eine zweite Endprobe ist von der
 Gegenuntersuchung aufzubewahren. Eine weitere Endprobe ist dem
 Betrieb, in dem die Einzelproben entnommen worden sind, auf Verlangen
 zu überlassen.
-
 
 ## § 12 Analysemethoden
 
@@ -509,16 +494,13 @@ anzuwenden.
 
 (3) Die jeweils angewendete Prüfmethode ist im Prüfbericht anzugeben.
 
-
 ## § 13 (weggefallen)
 
 -
 
-
 ## § 14 (Inkrafttreten)
 
 -
-
 
 ## Anlage (zu § 12 Abs. 2 Satz 2 Nr. 2) Analysemethoden des Deutschen Instituts für Normung
 

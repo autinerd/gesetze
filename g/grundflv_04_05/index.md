@@ -23,7 +23,6 @@ Geändert durch
 Die v tritt gem. § 4 satz 2 am 11.3.2005 außer kraft, sofern nicht mit zustimmung bundesrates etwas anderes verordnet wird. § 4 satz 2 aufgeh. mit zustimmung des bundesrates durch
 :   Art. 1 V v. 25.2.2005 I 486; dadurch ist die Geltung der V über den 11.3.2005 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 2 und der §§ 15 und 16, jeweils in
@@ -38,7 +37,6 @@ S. 1763) geändert worden sind, verordnet das Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit
 den Bundesministerien der Finanzen und für Wirtschaft und Arbeit:
 
-
 ## § 1 Anwendungsbereich
 
 Im Wirtschaftsjahr 2004/2005 kommt die in Artikel 2 Abs. 6 der
@@ -48,7 +46,6 @@ landwirtschaftlicher Kulturpflanzen (ABl. EG Nr. L 160 S. 1), die
 zuletzt durch die Verordnung (EG) Nr. 1782/2003 des Rates vom 9.
 September 2003 (ABl. EU Nr. L 170 S. 1/50) geändert worden ist,
 vorgesehene Regelung zur Anwendung.
-
 
 ## § 2 Definitionen
 
@@ -79,10 +76,6 @@ die in Anhang VI der Verordnung (EG) Nr. 2316/1999 ausgewiesenen
 
 2.  Grundflächen für Mais im Falle des Absatzes 1 Nr. 2.
 
-
-
-
-
 ## § 3 Konzentration der Sanktionen
 
 Im Falle der Überschreitung einer nationalen Grundfläche sind die in
@@ -90,11 +83,9 @@ Artikel 2 Abs. 4 der Verordnung (EG) Nr. 1251/1999 vorgesehenen
 Maßnahmen auf die Teilgrundflächen anzuwenden, deren Überschreitung
 festgestellt wurde.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

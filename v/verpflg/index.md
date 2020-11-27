@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   § 1 Nr. 4 G v. 15.8.1974 I 1942
 
-
 ## § 1
 
 (1) Auf die gewissenhafte Erfüllung seiner Obliegenheiten soll
@@ -60,10 +59,6 @@ ist.
 2.  in allen übrigen Fällen diejenige Behörde, die von der Landesregierung
     durch Rechtsverordnung bestimmt wird.
 
-
-
-
-
 ## § 2
 
 (1) Wer, ohne Amtsträger zu sein, auf Grund des § 1 der Verordnung
@@ -86,13 +81,11 @@ zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet worden
 ist, steht einem nach § 1 Verpflichteten gleich, wenn die
 Voraussetzungen des § 1 Abs. 2 erfüllt sind.
 
-
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 4
 

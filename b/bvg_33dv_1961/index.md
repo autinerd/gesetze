@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 38 G v. 20.12.2011 I 2854
 
-
 ## Erster Abschnitt - Schwerbeschädigte
-
-
 
 ### § 1 Einkommen
 
@@ -107,7 +104,6 @@ ermitteln. Abzüge sind nur insoweit zulässig, als dies in dieser
 Verordnung oder in anderen Rechtsvorschriften bestimmt ist. Ein
 Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht
 vorzunehmen.
-
 
 ### § 2 Nicht zu berücksichtigende Einkünfte
 
@@ -347,7 +343,6 @@ vorzunehmen.
 (2) Ansprüche auf die in Absatz 1 genannten Leistungen bleiben bei der
 Feststellung der Ausgleichsrente ebenfalls unberücksichtigt.
 
-
 ### § 3 Bewertung von Sachbezügen
 
 (1) Die Bewertung von Einkünften, die nicht in Geld bestehen (Wohnung,
@@ -388,7 +383,6 @@ Menge nicht zum Verbrauch durch den Berechtigten, sondern zur
 Erzielung eines Geldbetrags bestimmt ist. Als Einkommen ist die
 Geldleistung oder der erzielte Geldbetrag zu berücksichtigen.
 
-
 ### § 4 Unterhaltsansprüche
 
 (1) Als übrige Einkünfte im Sinne des § 33 Abs. 1 des
@@ -407,11 +401,9 @@ Bundesversorgungsgesetzes sind ferner die Unterhaltsleistungen des
 früheren Ehegatten oder Lebenspartners aufgrund eines bürgerlich-
 rechtlichen Unterhaltsanspruchs zu berücksichtigen.
 
-
 ### § 5
 
 (weggefallen)
-
 
 ### § 6 Werbungskosten bei Einkünften aus nichtselbständiger Arbeit
 
@@ -487,11 +479,9 @@ Finanzamt Mehraufwendungen infolge des doppelten Haushalts als
 Werbungskosten im Sinne des Einkommensteuergesetzes anerkannt hat oder
 den Umständen nach anerkennen würde.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 8 Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
 
@@ -522,7 +512,6 @@ berücksichtigen.
 der Schwerbeschädigte die Gewinne nachzuweisen. Ist er hierzu nicht in
 der Lage, so sind die Gewinne im Benehmen mit dem Finanzamt zu
 schätzen.
-
 
 ### § 9 Einkünfte von Land- und Forstwirten, deren Gewinne nach Durchschnittsätzen ermittelt werden
 
@@ -673,7 +662,6 @@ Vergleichswerte anzusetzen; ist der Einheitswert für einzelne
 zugepachtete Nutzflächen nicht bekannt, so ist vom durchschnittlichen
 Hektarwert der entsprechenden Nutzung der Eigentumsfläche auszugehen.
 
-
 ### § 10 Einkünfte aus Arbeit bei Familienangehörigen
 
 (1) Die auf Gewinn gerichtete Arbeit, die von einem
@@ -692,7 +680,6 @@ Leistungsfähigkeit des Unternehmens zu berücksichtigen.
 (2) Unternehmer im Sinne des Absatzes 1 ist derjenige, für dessen
 Rechnung das Unternehmen geht.
 
-
 ### § 11 Einkünfte aus Kapitalvermögen
 
 (1) Einkünfte aus Kapitalvermögen (§ 20 des Einkommensteuergesetzes)
@@ -702,7 +689,6 @@ Einkommensteuergesetzes können nicht abgesetzt werden.
 
 (2) Einkünfte im Sinne des Absatzes 1 bleiben unberücksichtigt, soweit
 sie insgesamt jährlich 307 Euro nicht übersteigen.
-
 
 ### § 12 Einkünfte aus Haus- und Grundbesitz sowie aus Untervermietung
 
@@ -724,15 +710,11 @@ Untervermietung leeren Wohnraums gelten die erzielten Einnahmen nur
 insoweit als Einkünfte, als sie die anteilige Kaltmiete nach Absatz 1
 Satz 2 übersteigen. Die Absätze 1 und 2 gelten nicht.
 
-
 ### § 13
 
 (weggefallen)
 
-
 ## Zweiter Abschnitt - Witwen, Witwer, hinterbliebene Lebenspartner und Waisen
-
-
 
 ### § 14 Anwendung der Vorschriften des ersten Abschnitts
 
@@ -764,7 +746,6 @@ anzurechnen sind. Dagegen bleiben Leistungen, die sich aus der neuen
 Ehe oder Lebenspartnerschaft herleiten und nach § 44 Abs. 5 des
 Bundesversorgungsgesetzes anzurechnen sind, unberücksichtigt.
 
-
 ### § 15 Sondervorschriften für Witwen, Witwer, hinterbliebene Lebenspartner und Waisen
 
 (1) Entstehen während der beruflichen Abwesenheit einer Witwe, eines
@@ -790,10 +771,7 @@ Betrag erhöht sich für jedes weitere unterhaltsberechtigte Kind um den
 Betrag, der in der Anrechnungsverordnung bei Beschädigten der
 Stufenzahl 5 als Höchstbetrag der übrigen Einkünfte zugeordnet ist.
 
-
 ## Dritter Abschnitt - Eltern
-
-
 
 ### § 16
 
@@ -803,7 +781,6 @@ Bestimmungen nichts anderes ergibt.
 
 (2) § 2 Abs. 1 Nr. 10 gilt nur insoweit, als § 55 Abs. 1 Satz 1
 Buchstabe c des Bundesversorgungsgesetzes nicht entgegensteht.
-
 
 ### Anlage zu § 3 Vorschriften zur Bestimmung des Wertes von Sachbezügen
 

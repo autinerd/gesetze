@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2200
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 4 des Warenzeichengesetzes in der Fassung der
@@ -64,7 +62,6 @@ Gegenseitigkeit bei der Gewährung der Priorität für
 Dienstleistungsmarken besteht.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 1.
 Oktober 1992 (BGBl. I S. 1749).
-
 
 ## Schlussformel
 

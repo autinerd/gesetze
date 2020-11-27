@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 8.12.2010 I 1768
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 1 Nr. 1 Buchstabe e des Erbschaftsteuer- und
 Schenkungsteuergesetzes in der Fassung der Bekanntmachung vom 27.
 Februar 1997 (BGBl. I S. 378) verordnet die Bundesregierung:
 
-
 ## Zu § 33 ErbStG
-
-
 
 ### § 1 Anzeigepflicht der Vermögensverwahrer und der Vermögensverwalter
 
@@ -63,10 +59,6 @@ ist, die Mitteilung des Versicherungswerts.
 2.  wenn der Wert der anzuzeigenden Wirtschaftsgüter 5 000 Euro nicht
     übersteigt.
 
-
-
-
-
 ### § 2 Anzeigepflicht derjenigen, die auf den Namen lautende Aktien oder Schuldverschreibungen ausgegeben haben
 
 Wer auf den Namen lautende Aktien oder Schuldverschreibungen
@@ -96,7 +88,6 @@ des Gesetzes) unter Hinweis auf § 33 Abs. 2 des Gesetzes anzuzeigen:
 
 Die Anzeige darf nur unterbleiben, wenn der Wert der anzuzeigenden
 Wertpapiere 5 000 Euro nicht übersteigt.
-
 
 ### § 3 Anzeigepflicht der Versicherungsunternehmen
 
@@ -132,10 +123,7 @@ Versicherten (Arbeitnehmers) fällig und an diesen ausgezahlt werden.
 Die Anzeige darf bei Kapitalversicherungen unterbleiben, wenn der
 auszuzahlende Betrag 5 000 Euro nicht übersteigt.
 
-
 ## Zu § 34 ErbStG
-
-
 
 ### § 4 Anzeigepflicht der Standesämter
 
@@ -198,7 +186,6 @@ Finanzamt eine Fehlanzeige nach Muster 4 zu übersenden. In der
 Fehlanzeige ist auch die Nummer der letzten Eintragung in das
 Sterberegister anzugeben.
 
-
 ### § 5 Verzeichnis der Standesämter
 
 (1) Die Landesregierungen oder die von ihnen bestimmten Stellen teilen
@@ -209,7 +196,6 @@ Finanzämtern Kenntnis.
 
 (2) Die Finanzämter geben jedem Standesamt ihres Bezirks eine
 Ordnungsnummer, die sie dem Standesamt mitteilen.
-
 
 ### § 6 Anzeigepflicht der Gerichte bei Todeserklärungen
 
@@ -225,7 +211,6 @@ Erbfällen von Kriegsgefangenen und ihnen gleichgestellten Personen
 sowie bei Erbfällen von Opfern der nationalsozialistischen Verfolgung
 unterbleiben, wenn der Zeitpunkt des Todes vor dem 1. Januar 1946
 liegt.
-
 
 ### § 7 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen in Erbfällen
 
@@ -328,7 +313,6 @@ Erstattung der dort vorgesehenen Anzeigen dürfen unterbleiben,
 (Bezirksnotare) und sonstige Urkundspersonen, soweit ihnen Geschäfte
 des Nachlaßgerichtes übertragen sind.
 
-
 ### § 8 Anzeigepflicht der Gerichte, Notare und sonstigen Urkundspersonen bei Schenkungen und Zweckzuwendungen unter Lebenden
 
 (1) Die Gerichte haben dem für die Verwaltung der Erbschaftsteuer
@@ -370,7 +354,6 @@ ist.
 (4) Die vorstehenden Vorschriften gelten entsprechend für Notare
 (Bezirksnotare) und sonstige Urkundspersonen.
 
-
 ### § 9 Anzeigepflicht der Auslandsstellen
 
 Die diplomatischen Vertreter und Konsuln des Bundes haben dem
@@ -387,7 +370,6 @@ Bundeszentralamt für Steuern anzuzeigen:
 
 
 Eine elektronische Übermittlung der Anzeige ist ausgeschlossen.
-
 
 ### § 10 Anzeigepflicht der Genehmigungsbehörden
 
@@ -436,7 +418,6 @@ Als Nachweisung kann eine beglaubigte Abschrift der der Stiftung
 zugestellten Urkunde über die Anerkennung als rechtsfähig dienen, wenn
 aus ihr die genannten Angaben zu ersehen sind.
 
-
 ### § 11 Anzeigen im automatisierten Verfahren
 
 Die oberste Finanzbehörde eines Landes kann anordnen, daß die Anzeigen
@@ -445,10 +426,7 @@ Verfahren erstattet werden können, soweit die Übermittlung der jeweils
 aufgeführten Angaben gewährleistet und die Richtigkeit der
 Datenübermittlung sichergestellt ist.
 
-
 ## Schlußvorschriften
-
-
 
 ### § 12 Anwendung der Verordnung
 
@@ -456,16 +434,13 @@ Diese Verordnung in der Fassung des Artikels 5 der Verordnung vom 17.
 November 2010 (BGBl. I S. 1544) ist auf Erwerbe anzuwenden, für die
 die Steuer nach dem 31. Dezember 2010 entsteht.
 
-
 ### § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Muster 1 (§ 1 ErbStDV)
 
@@ -557,7 +532,6 @@ Kreditinstitut): ...................................................
 ..............................          ............................
 Ort, Datum                              Unterschrift
 
-
 ### Muster 2 (§ 3 ErbStDV)
 
 (Fundstelle: BGBl. I 1998, 2663;
@@ -624,7 +598,6 @@ Beteiligten)
 ....................................................................
 ..............................          ............................
 Ort, Datum                              Unterschrift
-
 
 ### Muster 3 (§ 4 ErbStDV)
 
@@ -758,7 +731,6 @@ I                       I             I
 I                       I             I
 I                       I             I
 
-
 ### Muster 4 (§ 4 ErbStDV)
 
 (Fundstelle: BGBl. I 1998, 2666;
@@ -790,7 +762,6 @@ Bemerkungen
 ..
 ..............................          ............................
 Ort, Datum                              Unterschrift
-
 
 ### Muster 5 (§ 7 ErbStDV)
 
@@ -865,7 +836,6 @@ Gericht/Notariat folgendes bekanntgeworden: \*)
 \*) Zutreffendes ist anzukreuzen
 ..............................          ............................
 Ort, Datum                              Unterschrift
-
 
 ### Muster 6 (§ 8 ErbStDV)
 

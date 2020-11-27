@@ -24,7 +24,6 @@ Diese Verordnung dient der Umsetzung des Artikels 12 der Richtlinie
 Informationssystems für den Schiffsverkehr und zur Aufhebung der
 Richtlinie 93/75/EWG des Rates (ABl. EG Nr. L 208 S. 10).
 
-
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung regelt die Beförderung gefährlicher Güter mit
@@ -43,7 +42,6 @@ dies Gründe der Verteidigung erfordern. Satz 1 gilt auch für andere
 Schiffe, die im Auftrag der Bundeswehr oder der ausländischen
 Streitkräfte eingesetzt werden, wenn die Verladung der gefährlichen
 Güter unter Überwachung nach § 6 Absatz 3 erfolgt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -209,10 +207,6 @@ Güter unter Überwachung nach § 6 Absatz 3 erfolgt.
     andere Person, die die Beförderung gefährlicher Güter ursprünglich
     veranlasst.
 
-
-
-
-
 ## § 3 Zulassung zur Beförderung
 
 (1) Gefährliche Güter dürfen zur Beförderung auf Seeschiffen im
@@ -362,7 +356,6 @@ vorzulegenden Dokumenten vermerkt sein. Ist die Sprache der Dokumente
 nicht Deutsch oder Englisch, ist eine deutsche oder englische
 Übersetzung beizufügen.
 
-
 ## § 4 Allgemeine Sicherheitspflichten Überwachung, Ausrüstung, Schulung
 
 (1) Die an der Beförderung gefährlicher Güter mit Seeschiffen
@@ -462,7 +455,6 @@ Aufzeichnungen unverzüglich zu löschen.
 sonstige Liegeplätze über das Einbringen, die Bereitstellung und den
 Umschlag gefährlicher Güter bleiben unberührt.
 
-
 ## § 5 Ausnahmen
 
 (1) Die nach Landesrecht zuständigen Behörden können in ihrem
@@ -521,7 +513,6 @@ bundesunmittelbare Berufsgenossenschaft eine Ausnahme nach Absatz 5
 Satz 1 Buchstabe a zulassen oder eine Genehmigung nach Absatz 5 Satz 1
 Buchstabe b erteilen, wenn die zuständigen Hafenbehörden des
 Ladehafens und des Löschhafens zustimmen.
-
 
 ## § 6 Zuständigkeiten
 
@@ -666,10 +657,6 @@ ausländischen Streitkräfte zuständige Behörde für
     der Ausstellung der Bescheinigung nach Absatz 6.8.3.1.3.2.,
     6\.8.3.2.3.2 und 6.8.3.3.3.2 des IMDG-Codes.
 
-
-
-
-
 ## § 7 Verladung gefährlicher Güter
 
 (1) Vor der Verladung verpackter gefährlicher Güter sind vom
@@ -722,7 +709,6 @@ IMSBC-Codes nur übernehmen, wenn die Laderäume die jeweils anwendbaren
 Anforderungen nach Kapitel II-2 Regel 19, Tabelle 19.2 des SOLAS-
 Übereinkommens erfüllen und die auf den zutreffenden Stoffseiten des
 IMSBC-Codes aufgeführten Beförderungsbedingungen eingehalten sind.
-
 
 ## § 8 Unterlagen für die Beförderung gefährlicher Güter mit Seeschiffen
 
@@ -978,7 +964,6 @@ sind.
 Datenverarbeitungssystemen zuständigen Personen auf Verlangen zur
 Prüfung vorzulegen.
 
-
 ## § 9 Pflichten
 
 (1) Der Versender und der Beauftragte des Versenders
@@ -1223,7 +1208,6 @@ haben dafür zu sorgen, dass die Beschäftigten nach § 4 Absatz 12 Satz
 Satz 3 und 4 aufbewahrt und nach Ablauf der Aufbewahrungsfrist
 gelöscht werden.
 
-
 ## § 10 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des
@@ -1420,11 +1404,9 @@ Begrenzung des deutschen Küstenmeeres, der Bundeswasserstraßen und der
 bundeseigenen Häfen auf die Wasser- und Schifffahrtsdirektionen Nord
 und Nordwest übertragen.
 
-
 ## § 11 (Änderung anderer Vorschriften)
 
 -
-
 
 ## § 12 Übergangsbestimmungen
 
@@ -1465,7 +1447,6 @@ nach Kapitel II-2 Regel 54 des SOLAS-Übereinkommens in der am 30. Juni
 2011 geltenden Fassung anerkannten Sachverständigen dürfen die ihnen
 gemäß § 6 Absatz 9 derselben Verordnung gestatteten Aufgaben noch bis
 zum 31. Dezember 2014 wahrnehmen.
-
 
 ## § 13 (Inkrafttreten, Außerkrafttreten)
 

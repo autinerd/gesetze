@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 21.7.2011 I 1475
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Absatz 2 des Zuteilungsgesetzes 2012 vom 7. August
 2007 (BGBl. I S. 1788) verordnet die Bundesregierung mit Zustimmung
 des Bundestages:
-
 
 ## § 1 Anwendungsbereich
 
@@ -34,7 +32,6 @@ des § 3 Absatz 4 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli
 2004 (BGBl. I S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom
 11\. August 2010 (BGBl. I S. 1163) geändert worden ist, ab dem 1.
 Januar 2010.
-
 
 ## § 2 Versteigerungsmenge, Versteigerungstermine
 
@@ -96,7 +93,6 @@ Refinanzierungsbedarf nach den Sätzen 1 und 3 wird anteilig aus den
 Nettoerlösen der Versteigerungen in den Monaten Januar bis Oktober
 eines Jahres gedeckt.
 
-
 ## § 3 Versteigerungsverfahren
 
 (1) Die Durchführung der Versteigerung erfolgt jeweils getrennt
@@ -133,7 +129,6 @@ Summenbildung eingegangen sind, werden entsprechend der Höhe des
 Zuschlagspreises zugeteilt. Dem letzten erfolgreichen Gebot wird die
 verbleibende Menge an Berechtigungen zugeschlagen.
 
-
 ## § 4 Abwicklung
 
 (1) Die Abwicklung der erfolgreichen Gebote der Versteigerung im
@@ -148,7 +143,6 @@ beim jeweils entsprechenden Handel mit Berechtigungen. Dies gilt auch
 für die Abwicklung der Erfüllungsgeschäfte bei den erfolgreichen
 Geboten (Clearing) durch die durchführende Börse oder eine
 angeschlossene Institution.
-
 
 ## § 5 Berichtspflichten, Überwachung
 
@@ -185,7 +179,6 @@ nach Satz 1 jeweils börsenüblich bekannt gemacht werden.
 eines Jahres die nach § 2 Absatz 1 Nummer 2 versteigerte Menge an
 Berechtigungen.
 
-
 ## § 6 Versteigerungen im Auftrag anderer Mitgliedstaaten
 
 Die durchführende Börse kann Versteigerungen von Berechtigungen im
@@ -194,11 +187,9 @@ Mit Zustimmung der zuständigen Stelle ist bei gleichartigen
 Versteigerungsbedingungen eine Zusammenlegung der Versteigerungsmengen
 in einem Versteigerungstermin möglich.
 
-
 ## § 7 Zuständige Stelle
 
 Zuständige Stelle nach dieser Verordnung ist das Umweltbundesamt.
-
 
 ## § 8 Inkrafttreten
 

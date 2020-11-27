@@ -15,18 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 851
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Übergangsvorschrift zum Soldatenversorgungsgesetz
 
@@ -39,16 +35,13 @@ Gesetzes geltenden Fassung zustehen würden; dies gilt entsprechend für
 die Empfänger eines Ausbildungszuschusses nach § 5 Abs. 4 des
 Soldatenversorgungsgesetzes.
 
-
 ## (XXXX) Art 3 bis Art 8 (weggefallen)
 
 -
 
-
 ## Art 9
 
 -
-
 
 ## Art 10 Inkrafttreten
 

@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 Abs. 3 G v. 20.6.2011 I 1114
 
-
 ## § 1 Personenkreis
 
 (1) Leistungen nach Maßgabe der folgenden Vorschriften erhalten
@@ -70,7 +69,6 @@ ihnen als Erben auf Grund des § 9a Abs. 2 in Verbindung mit § 5 Abs. 2
 oder 3 des Kriegsgefangenenentschädigungsgesetzes zustehenden
 Ansprüche bleiben unberührt.
 
-
 ## § 2 Ausschließungsgründe
 
 (1) Leistungen nach diesem Gesetz werden nicht gewährt an Personen,
@@ -114,7 +112,6 @@ nachdem der Anspruch auf Leistungen zuerkannt ist, so ist die
 Auszahlung einmaliger Leistungen auszusetzen; wiederkehrende
 Leistungen können ausgesetzt werden.
 
-
 ## § 3 Erweiterung des Personenkreises
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -132,7 +129,6 @@ b)  ohne in Gewahrsam genommen worden zu sein, durch andere Maßnahmen eine
 
 sowie deren Angehörige und Hinterbliebene den nach diesem Gesetz zum
 Empfang von Leistungen Berechtigten gleichzustellen.
-
 
 ## § 4 Beschädigtenversorgung
 
@@ -170,7 +166,6 @@ des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung
 als Folge einer Schädigung anerkannt werden; die Zustimmung kann
 allgemein erteilt werden.
 
-
 ## § 5 Hinterbliebenenversorgung
 
 Ist der Beschädigte an den Folgen der Schädigung gestorben, so
@@ -180,7 +175,6 @@ Anspruch auf Versorgung unmittelbar auf Grund des
 Bundesversorgungsgesetzes zusteht. § 4 Abs. 3 dieses Gesetzes und die
 §§ 48 und 52 des Bundesversorgungsgesetzes sind entsprechend
 anzuwenden.
-
 
 ## § 6 Zusammentreffen von Ansprüchen
 
@@ -201,21 +195,17 @@ verschollen sind. Besteht ein Anspruch auf Elternrente unmittelbar
 nach den Vorschriften des Bundesversorgungsgesetzes, so wird sie nach
 diesem Gesetz nicht gewährt.
 
-
 ## § 7 Antragsfristen
 
 (weggefallen)
-
 
 ## § 8 (weggefallen)
 
 -
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 9a Eingliederungshilfen
 
@@ -278,7 +268,6 @@ Zustimmung des Bundesrates den Zeitpunkt und die Reihenfolge der
 Auszahlung der Leistung, auf die nach Absatz 1 ein Anspruch besteht,
 nach den Gesichtspunkten der sozialen Dringlichkeit zu bestimmen.
 
-
 ## § 9b Zusätzliche Eingliederungshilfen
 
 Ein Berechtigter nach § 9a Abs. 1, der nur wegen seines persönlichen
@@ -293,7 +282,6 @@ Deutsche Mark; die zusätzliche Eingliederungshilfe wird auf einen
 Höchstbetrag von 20.250 Deutsche Mark begrenzt. § 9a Abs. 2 gilt auch
 für diese Leistung.
 
-
 ## § 9c Weitere Eingliederungshilfen
 
 Ein Berechtigter nach § 9a Abs. 1, der keinen Anspruch auf die
@@ -305,7 +293,6 @@ die sich nach zwei, vier und sechs weiteren Gewahrsamsjahren jeweils
 um 20 Deutsche Mark erhöht; jedoch erhalten Personen, die im Gewahrsam
 geboren wurden, diese Leistungen nicht. § 9a Abs. 2 gilt auch für
 diese Leistungen.
-
 
 ## § 10 Zuständigkeit und Verfahren
 
@@ -366,11 +353,9 @@ und über die Ausstellung einer Zweitschrift einer Bescheinigung.
 (8) Wird die Bescheinigung eingezogen oder für ungültig erklärt, so
 sind die Leistungen nach diesem Gesetz einzustellen.
 
-
 ## § 11
 
 (weggefallen)
-
 
 ## § 12 Härteausgleich
 
@@ -379,7 +364,6 @@ dieses Gesetz federführenden Bundesminister zur Vermeidung unbilliger
 Härten in Einzelfällen Maßnahmen nach diesem Gesetz ganz oder
 teilweise zulassen.
 
-
 ## § 13 Kostenregelung
 
 Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz
@@ -387,11 +371,9 @@ jeweils in dem gleichen Umfange wie die Aufwendungen für Leistungen,
 die unmittelbar auf Grund der Gesetze gewährt werden, die in diesem
 Gesetz für entsprechend anwendbar erklärt sind.
 
-
 ## § 14
 
 (weggefallen)
-
 
 ## § 15 Stiftung für ehemalige politische Häftlinge
 
@@ -403,7 +385,6 @@ Stiftung des öffentlichen Rechts errichtet.
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar
 steuerbegünstigte Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
-
 
 ## § 16 Finanzierung
 
@@ -419,7 +400,6 @@ Verfügung gestellt. Einlagen in das Stiftungsvermögen sind zulässig.
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen.
 
-
 ## § 17 Personenkreis
 
 Von der Stiftung werden die in § 1 Abs. 1 genannten Personen
@@ -427,7 +407,6 @@ gefördert. Auf die Förderung nach § 18 besteht kein Rechtsanspruch. §
 12 gilt mit der Maßgabe, daß das Einvernehmen mit dem für dieses
 Gesetz federführenden Bundesminister vom Vorstand der Stiftung
 hergestellt wird.
-
 
 ## § 18 Unterstützungen
 
@@ -437,7 +416,6 @@ Notlage Unterstützungen gewährt werden. Unterstützungsleistungen nach
 Unterstützung nach Satz 1 zu berücksichtigen. Die Leistungen nach Satz
 1 bleiben als Einkommen bei Sozialleistungen, deren Gewährung von
 anderen Einkommen abhängig ist, unberücksichtigt.
-
 
 ## § 19 Stiftungsorgane
 
@@ -453,7 +431,6 @@ anderen Einkommen abhängig ist, unberücksichtigt.
 
 (2) Die Mitglieder der Organe werden ehrenamtlich tätig; sie haben
 Anspruch auf Ersatz ihrer notwendigen Auslagen.
-
 
 ## § 20 Stiftungsrat
 
@@ -490,7 +467,6 @@ gibt sich eine Geschäftsordnung.
 (5) Der Stiftungsrat ist beschlußfähig, wenn die Hälfte der Mitglieder
 anwesend ist. Er beschließt mit einfacher Mehrheit.
 
-
 ## § 21 Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus dem Vorsitzenden und drei
@@ -512,7 +488,6 @@ weiter.
 
 (4) Für die Beschlüsse des Stiftungsvorstandes gilt § 20 Abs. 5
 entsprechend.
-
 
 ## § 22 Entscheidung über Anträge
 
@@ -539,7 +514,6 @@ verpflichtet.
 
 (5) Über den Antrag entscheidet der Ausschuß durch Bescheid.
 
-
 ## § 23 Widerspruchsausschuß
 
 (1) Zur Entscheidung über den Widerspruch gegen den Bescheid des
@@ -561,18 +535,15 @@ den höheren Verwaltungsdienst besitzen. Die Beisitzer des Ausschusses
 nach § 22 können nicht zugleich Mitglieder des Widerspruchsausschusses
 sein; im übrigen gilt § 22 Abs. 3 und 4 entsprechend.
 
-
 ## § 24 Aufsicht
 
 Die Stiftung untersteht der Aufsicht des für dieses Gesetz
 federführenden Bundesministers.
 
-
 ## § 25 Aufhebung der Stiftung
 
 Bei der Aufhebung der Stiftung vorhandenes Vermögen fließt dem Bund
 zu.
-
 
 ## § 25a Übergangsvorschrift
 
@@ -622,17 +593,14 @@ eingetreten ist und erstmals Leistungen beantragt hat.
 geltenden Fassung in den in Absatz 6 und 7 genannten Fällen weiterhin
 Anwendung.
 
-
 ## § 25b Sonstige Vorschriften
 
 Die Leistungen nach den §§ 9a bis 9c und § 18 unterliegen in der
 Person des unmittelbar Berechtigten nicht der Zwangsvollstreckung.
 
-
 ## § 26 (weggefallen)
 
 -
-
 
 ## § 27
 
@@ -667,13 +635,6 @@ Person des unmittelbar Berechtigten nicht der Zwangsvollstreckung.
     d)  Erbrachte Leistungen für Berechtigte nach § 1 Abs. 1 in dem Gebiet, in
         dem das Häftlingshilfegesetz schon vor dem Beitritt gegolten hat, sind
         anzurechnen.
-
-
-
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 920)
 

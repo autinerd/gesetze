@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 3 G v. 19.7.2002 I 2674
 
-
 ## § 1 Haftung
 
 (1) Wird durch den Fehler eines Produkts jemand getötet, sein Körper
@@ -68,13 +67,11 @@ zwischen Fehler und Schaden trägt der Geschädigte die Beweislast. Ist
 streitig, ob die Ersatzpflicht gemäß Absatz 2 oder 3 ausgeschlossen
 ist, so trägt der Hersteller die Beweislast.
 
-
 ## § 2 Produkt
 
 Produkt im Sinne dieses Gesetzes ist jede bewegliche Sache, auch wenn
 sie einen Teil einer anderen beweglichen Sache oder einer
 unbeweglichen Sache bildet, sowie Elektrizität.
-
 
 ## § 3 Fehler
 
@@ -95,7 +92,6 @@ berechtigterweise erwartet werden kann.
 
 (2) Ein Produkt hat nicht allein deshalb einen Fehler, weil später ein
 verbessertes Produkt in den Verkehr gebracht wurde.
-
 
 ## § 4 Hersteller
 
@@ -120,7 +116,6 @@ eingeführtes Produkt, wenn sich bei diesem die in Absatz 2 genannte
 Person nicht feststellen läßt, selbst wenn der Name des Herstellers
 bekannt ist.
 
-
 ## § 5 Mehrere Ersatzpflichtige
 
 Sind für denselben Schaden mehrere Hersteller nebeneinander zum
@@ -131,7 +126,6 @@ des zu leistenden Ersatzes von den Umständen, insbesondere davon ab,
 inwieweit der Schaden vorwiegend von dem einen oder dem anderen Teil
 verursacht worden ist; im übrigen gelten die §§ 421 bis 425 sowie §
 426 Abs. 1 Satz 2 und Abs. 2 des Bürgerlichen Gesetzbuchs.
-
 
 ## § 6 Haftungsminderung
 
@@ -144,7 +138,6 @@ Geschädigten gleich.
 (2) Die Haftung des Herstellers wird nicht gemindert, wenn der Schaden
 durch einen Fehler des Produkts und zugleich durch die Handlung eines
 Dritten verursacht worden ist. § 5 Satz 2 gilt entsprechend.
-
 
 ## § 7 Umfang der Ersatzpflicht bei Tötung
 
@@ -165,7 +158,6 @@ zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die
 Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung
 gezeugt, aber noch nicht geboren war.
 
-
 ## § 8 Umfang der Ersatzpflicht bei Körperverletzung
 
 Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz der
@@ -176,7 +168,6 @@ seine Bedürfnisse vermehrt sind. Wegen des Schadens, der nicht
 Vermögensschaden ist, kann auch eine billige Entschädigung in Geld
 gefordert werden.
 
-
 ## § 9 Schadensersatz durch Geldrente
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
@@ -186,7 +177,6 @@ die Zukunft durch eine Geldrente zu leisten.
 
 (2) § 843 Abs. 2 bis 4 des Bürgerlichen Gesetzbuchs ist entsprechend
 anzuwenden.
-
 
 ## § 10 Haftungshöchstbetrag
 
@@ -199,12 +189,10 @@ Entschädigungen den in Absatz 1 vorgesehenen Höchstbetrag, so
 verringern sich die einzelnen Entschädigungen in dem Verhältnis, in
 dem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 
-
 ## § 11 Selbstbeteiligung bei Sachbeschädigung
 
 Im Falle der Sachbeschädigung hat der Geschädigte einen Schaden bis zu
 einer Höhe von 500 Euro selbst zu tragen.
-
 
 ## § 12 Verjährung
 
@@ -221,7 +209,6 @@ wird.
 (3) Im übrigen sind die Vorschriften des Bürgerlichen Gesetzbuchs über
 die Verjährung anzuwenden.
 
-
 ## § 13 Erlöschen von Ansprüchen
 
 (1) Der Anspruch nach § 1 erlischt zehn Jahre nach dem Zeitpunkt, in
@@ -235,13 +222,11 @@ nicht anzuwenden. Gleiches gilt für den Anspruch, der Gegenstand eines
 außergerichtlichen Vergleichs ist oder der durch rechtsgeschäftliche
 Erklärung anerkannt wurde.
 
-
 ## § 14 Unabdingbarkeit
 
 Die Ersatzpflicht des Herstellers nach diesem Gesetz darf im voraus
 weder ausgeschlossen noch beschränkt werden. Entgegenstehende
 Vereinbarungen sind nichtig.
-
 
 ## § 15 Arzneimittelhaftung, Haftung nach anderen Rechtsvorschriften
 
@@ -255,12 +240,10 @@ Produkthaftungsgesetzes nicht anzuwenden.
 
 (2) Eine Haftung aufgrund anderer Vorschriften bleibt unberührt.
 
-
 ## § 16 Übergangsvorschrift
 
 Dieses Gesetz ist nicht auf Produkte anwendbar, die vor seinem
 Inkrafttreten in den Verkehr gebracht worden sind.
-
 
 ## § 17 Erlaß von Rechtsverordnungen
 
@@ -273,14 +256,12 @@ Angleichung der Rechts- und Verwaltungsvorschriften der
 Mitgliedstaaten über die Haftung für fehlerhafte Produkte erforderlich
 ist.
 
-
 ## § 18 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die
 aufgrund dieses Gesetzes erlassen werden, gelten nach Maßgabe des § 14
 des Dritten Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 19 Inkrafttreten
 

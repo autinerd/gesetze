@@ -18,18 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.12.2011 I 3057
 
-
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
-
-
 
 ### Erstes Kapitel - Kreis der versicherten Personen
 
-
-
 #### Erster Abschnitt - Umfang der Versicherungspflicht
-
-
 
 ##### § 1
 
@@ -46,10 +39,6 @@ sozialen Pflegeversicherung versichert, wenn sie
     Beschäftigung erfolgt zur Berufsausbildung oder ist geringfügig im
     Sinne des § 8 des Vierten Buches Sozialgesetzbuch.
 
-
-
-
-
 ##### § 2
 
 Künstler im Sinne dieses Gesetzes ist, wer Musik, darstellende oder
@@ -57,14 +46,9 @@ bildende Kunst schafft, ausübt oder lehrt. Publizist im Sinne dieses
 Gesetzes ist, wer als Schriftsteller, Journalist oder in ähnlicher
 Weise publizistisch tätig ist oder Publizistik lehrt.
 
-
 #### Zweiter Abschnitt - Ausnahmen von der Versicherungspflicht
 
-
-
 ##### Erster Unterabschnitt - Versicherungsfreiheit kraft Gesetzes
-
-
 
 ###### § 3
 
@@ -86,7 +70,6 @@ solange das Arbeitseinkommen nicht mehr als zweimal innerhalb von
 sechs Kalenderjahren die dort genannte Grenze nicht übersteigt.
 
 (4) (weggefallen)
-
 
 ###### § 4
 
@@ -131,10 +114,6 @@ versicherungsfrei, wer
 
 7.  als Wehr- oder Zivildienstleistender in der gesetzlichen
     Rentenversicherung versichert ist.
-
-
-
-
 
 ###### § 5
 
@@ -194,10 +173,7 @@ versicherungsfrei, wer
 
 ist.
 
-
 ##### Zweiter Unterabschnitt - Befreiung von der Krankenversicherungspflicht auf Antrag
-
-
 
 ###### § 6
 
@@ -222,7 +198,6 @@ Befreiung von der Versicherungspflicht enden soll. Die
 Versicherungspflicht beginnt nach Ablauf der in § 3 Abs. 2 genannten
 Frist.
 
-
 ###### § 7
 
 (1) Wer als selbständiger Künstler oder Publizist in drei
@@ -237,7 +212,6 @@ kann nicht widerrufen werden.
 
 (2) Der Antrag ist bis zum 31. März des auf den Dreijahreszeitraum
 folgenden Kalenderjahres bei der Künstlersozialkasse zu stellen.
-
 
 ###### § 7a
 
@@ -254,10 +228,7 @@ Antragstellung folgt.
 (3) Der Anspruch auf Leistungen aus der gesetzlichen
 Krankenversicherung endet mit der Mitgliedschaft.
 
-
 #### Dritter Abschnitt - Beginn und Dauer der Versicherungspflicht, Verlegung des Tätigkeitsortes
-
-
 
 ##### § 8
 
@@ -285,7 +256,6 @@ Ersten des Monats an aufzuheben, der auf den Monat folgt, in dem die
 Künstlersozialkasse von der Änderung Kenntnis erhält; § 48 Abs. 1 Satz
 2 Nr. 2 des Zehnten Buches Sozialgesetzbuch bleibt unberührt.
 
-
 ##### § 8a
 
 (1) Verlegt ein Versicherter oder Zuschußberechtigter während des
@@ -297,10 +267,7 @@ Künstlersozialkasse von der Änderung Kenntnis erhält.
 (2) § 309 Abs. 1 des Fünften Buches Sozialgesetzbuch gilt
 entsprechend.
 
-
 #### Vierter Abschnitt - Kündigungsrecht
-
-
 
 ##### § 9
 
@@ -319,10 +286,7 @@ pflegeversicherungspflichtig wird, kann den Versicherungsvertrag mit
 Wirkung vom Eintritt der Versicherungspflicht an kündigen. Absatz 1
 Satz 2 gilt entsprechend.
 
-
 ### Zweites Kapitel - Beitragszuschuß der Künstlersozialkasse
-
-
 
 #### § 10
 
@@ -380,7 +344,6 @@ Bei einer Befreiung nach § 7 gilt Absatz 1 Satz 2. Absatz 1 Satz 3 und
 4 gilt. § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch gilt
 entsprechend.
 
-
 #### § 10a
 
 (1) Selbständige Künstler und Publizisten, die nach § 7 von der
@@ -410,7 +373,6 @@ jedoch die Hälfte des Betrages, den der Künstler oder Publizist für
 seine private Pflegeversicherung zu zahlen hat. § 10 Abs. 2 Satz 2
 zweiter Halbsatz und Satz 4 bis 6 gilt entsprechend.
 
-
 #### § 10b
 
 Der Bescheid über die Festsetzung des endgültigen Beitragszuschusses
@@ -418,10 +380,7 @@ soll mit Wirkung für die Vergangenheit zu Ungunsten des
 Zuschussberechtigten zurückgenommen werden, wenn die Meldung nach § 10
 Abs. 1 Satz 3 in wesentlicher Beziehung unrichtige Angaben enthält.
 
-
 ### Drittes Kapitel - Auskunfts- und Meldepflichten
-
-
 
 #### § 11
 
@@ -449,7 +408,6 @@ oder der Datenstelle der Träger der Rentenversicherung zugeteilte
 Versicherungsnummer einzutragen. Ist eine Versicherungsnummer nicht
 zugeteilt worden, ist sie von der Datenstelle der Träger der
 Rentenversicherung über die Künstlersozialkasse zu vergeben.
-
 
 #### § 12
 
@@ -482,7 +440,6 @@ berücksichtigen, der auf den Monat folgt, in dem der Antrag bei der
 Künstlersozialkasse eingeht. Satz 1 gilt entsprechend, wenn das
 Jahresarbeitseinkommen geschätzt worden ist.
 
-
 #### § 13
 
 Die Künstlersozialkasse kann von den Versicherten und den
@@ -502,10 +459,7 @@ Einkommensteuerbescheiden oder Gewinn- und Verlustrechnungen,
 verlangen. Die Erhebung dieser Angaben erfolgt durch eine wechselnde
 jährliche Stichprobe.
 
-
 #### Erster Abschnitt - Grundsatz
-
-
 
 ##### § 14
 
@@ -514,14 +468,9 @@ Beitragsanteile der Versicherten (§§ 15 bis 16a) zur einen Hälfte,
 durch die Künstlersozialabgabe (§§ 23 bis 26) und durch einen Zuschuß
 des Bundes (§ 34) zur anderen Hälfte aufgebracht.
 
-
 #### Zweiter Abschnitt - Beitragsanteile des Versicherten
 
-
-
 ##### Erster Unterabschnitt - Höhe der Beitragsanteile
-
-
 
 ###### § 15
 
@@ -531,7 +480,6 @@ sich aus den §§ 157 bis 161, 165 Abs. 1 Satz 1 Nr. 3 und § 175 Abs. 1
 des Sechsten Buches Sozialgesetzbuch ergebenden Beitrages zu zahlen.
 Der Beitragsanteil für einen Kalendermonat wird am Fünften des
 folgenden Monats fällig.
-
 
 ###### § 16
 
@@ -566,7 +514,6 @@ Ratenzahlungen das Ruhen vorzeitig für beendet erklären. Die
 zuständige Krankenkasse ist von der Mahnung sowie dem Eintritt und dem
 Ende des Ruhens zu unterrichten.
 
-
 ###### § 16a
 
 (1) Versicherte haben an die Künstlersozialkasse als Beitragsanteil
@@ -579,10 +526,7 @@ Kalendermonat wird am Fünften des Folgemonats fällig.
 
 (2) § 16 Abs. 2 gilt entsprechend.
 
-
 ##### Zweiter Unterabschnitt - Beitragsverfahren
-
-
 
 ###### § 17
 
@@ -592,7 +536,6 @@ Pflegeversicherung als auch in der gesetzlichen Rentenversicherung
 versichert ist, seine Beitragsanteile nur zum Teil, werden die
 Zahlungen vorrangig zur Erfüllung der Verpflichtung gegenüber der
 Krankenkasse und der Pflegekasse verwandt.
-
 
 ###### § 17a
 
@@ -616,10 +559,6 @@ Als Tag der Zahlung der Beitragsanteile gilt:
 
 4.  bei Barzahlung der Tag der Einzahlung.
 
-
-
-
-
 ###### § 18
 
 Für die Erhebung eines Säumniszuschlags auf rückständige
@@ -627,12 +566,10 @@ Beitragsanteile des Versicherten gilt § 24 des Vierten Buches
 Sozialgesetzbuch entsprechend. Die Säumniszuschläge gehören zum
 Vermögen der Künstlersozialkasse.
 
-
 ###### § 19
 
 Für die Verjährung der Ansprüche auf Beitragsanteile gilt § 25 des
 Vierten Buches Sozialgesetzbuch entsprechend.
-
 
 ###### § 20
 
@@ -642,10 +579,7 @@ Berechnung der von ihm und für ihn erbrachten Beitragsleistungen
 ersichtlich ist. Die Jahresabrechnung gilt als Bescheinigung im Sinne
 des § 25 der Datenerfassungs- und -übermittlungsverordnung.
 
-
 ##### Dritter Unterabschnitt - Erstattungen
-
-
 
 ###### § 21
 
@@ -660,15 +594,11 @@ Beitragsanteile verrechnen.
 (3) Für die Verzinsung und Verjährung des Anspruchs auf Erstattung
 gilt § 27 des Vierten Buches Sozialgesetzbuch entsprechend.
 
-
 ###### § 22
 
 -
 
-
 #### Dritter Abschnitt - Künstlersozialabgabe
-
-
 
 ##### § 23
 
@@ -676,10 +606,7 @@ Die Künstlersozialkasse erhebt von den zur Abgabe Verpflichteten (§
 24) eine Umlage (Künstlersozialabgabe) nach einem Vomhundertsatz (§
 26) der Bemessungsgrundlage (§ 25).
 
-
 ##### Erster Unterabschnitt - Personenkreis
-
-
 
 ###### § 24
 
@@ -741,10 +668,7 @@ Chorleiter oder Dirigenten regelmäßig tätig sind.
 
 (3) (weggefallen)
 
-
 ##### Zweiter Unterabschnitt - Bestimmungsgrößen
-
-
 
 ###### § 25
 
@@ -812,7 +736,6 @@ Werkes mehr als zwei Jahre zurückliegt. Die Sätze 1 und 2 gelten
 entsprechend, wenn eine künstlerische oder publizistische Leistung
 erbracht wird.
 
-
 ###### § 26
 
 (1) Der Vomhundertsatz der Künstlersozialabgabe ist unter
@@ -846,10 +769,7 @@ soll bis zum 30. September erfolgen.
 
 (6) (weggefallen)
 
-
 ##### Dritter Unterabschnitt - Melde- und Abgabeverfahren
-
-
 
 ###### § 27
 
@@ -912,7 +832,6 @@ ihnen anhängigen Widerspruchsverfahrens herabsetzen.
 (6) Für die Zahlung der Künstlersozialabgabe und die Vorauszahlung
 gilt § 17a entsprechend.
 
-
 ###### § 28
 
 Die zur Abgabe Verpflichteten haben fortlaufende Aufzeichnungen über
@@ -930,7 +849,6 @@ sein, dass die Anforderungen des Satzes 2 erfüllt werden können;
 insbesondere müssen Datenverarbeitungsprogramme, die zur Erstellung
 oder Verwaltung benutzt werden, ordnungsgemäß dokumentiert sein.
 
-
 ###### § 29
 
 Die zur Abgabe Verpflichteten haben der Künstlersozialkasse oder den
@@ -946,7 +864,6 @@ Geschäftsräume gleichzeitig ihre privaten Wohnungen, so sind sie nur
 verpflichtet, die Unterlagen in den Geschäftsräumen der
 Künstlersozialkasse oder der Träger der Rentenversicherung vorzulegen.
 
-
 ###### § 30
 
 Für die Erhebung eines Säumniszuschlags auf rückständige
@@ -954,12 +871,10 @@ Künstlersozialabgabe und Abgabevorauszahlungen gilt § 24 des Vierten
 Buches Sozialgesetzbuch entsprechend. Die Säumniszuschläge gehören zum
 Vermögen der Künstlersozialkasse.
 
-
 ###### § 31
 
 Für die Verjährung der Ansprüche auf Künstlersozialabgabe gilt § 25
 des Vierten Buches Sozialgesetzbuch entsprechend.
-
 
 ###### § 32
 
@@ -985,10 +900,7 @@ gegenüber der Künstlersozialkasse unberührt.
 Einwilligung des zur Abgabe Verpflichteten die Angaben zu machen, die
 die Ausgleichsvereinigung zur Erfüllung ihrer Aufgaben benötigt.
 
-
 ##### Vierter Unterabschnitt - Erstattungen
-
-
 
 ###### § 33
 
@@ -1002,10 +914,7 @@ auf Künstlersozialabgabe oder Vorauszahlungen verrechnen.
 (3) Für die Verzinsung und Verjährung des Anspruchs auf Erstattung
 gilt § 27 des Vierten Buches Sozialgesetzbuch entsprechend.
 
-
 #### Vierter Abschnitt - Zuschuß des Bundes
-
-
 
 ##### § 34
 
@@ -1020,15 +929,11 @@ Bundeszuschuß des übernächsten Jahres zu verrechnen.
 (3) Die Leistungen des Bundes nach den Absätzen 1 und 2 dürfen nur
 entsprechend dem jeweiligen Ausgabebedarf in Anspruch genommen werden.
 
-
 ##### § 34a
 
 (weggefallen)
 
-
 ### Fünftes Kapitel - Überwachung
-
-
 
 #### § 35
 
@@ -1046,10 +951,7 @@ Pflichtversäumnis verursacht hat.
 (2) Das Bundesministerium für Arbeit und Soziales erläßt durch
 Rechtsverordnung Überwachungsvorschriften.
 
-
 ### Sechstes Kapitel - Bußgeldvorschriften
-
-
 
 #### § 36
 
@@ -1103,13 +1005,7 @@ werden.
 
 2.  im Übrigen die Künstlersozialkasse.
 
-
-
-
-
 ### Siebtes Kapitel - Anwendung des Sozialgesetzbuches
-
-
 
 #### § 36a
 
@@ -1120,10 +1016,7 @@ Rechtsbeziehungen zwischen den zur Abgabe Verpflichteten und den
 Versicherten und Zuschußberechtigten findet § 32 des Ersten Buches
 Sozialgesetzbuch entsprechende Anwendung.
 
-
 ## Zweiter Teil - Durchführung der Künstlersozialversicherung
-
-
 
 ### § 37
 
@@ -1149,20 +1042,15 @@ Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für
 die übrigen Beamten der Künstlersozialkasse der Geschäftsführer der
 Unfallkasse des Bundes.
 
-
 ### § 37a
 
 (weggefallen)
-
 
 ### § 37b
 
 (weggefallen)
 
-
 ### (XXXX) §§ 37c bis 37e (weggefallen)
-
-
 
 ### § 38
 
@@ -1185,7 +1073,6 @@ Grund vor Ablauf der Amtsdauer abberufen werden.
 Ehrenämter, Entschädigung der ehrenamtlich Tätigen und Haftung gelten
 sinngemäß.
 
-
 ### § 39
 
 (1) Den Widerspruchsbescheid im Vorverfahren nach § 85 Abs. 2 des
@@ -1205,7 +1092,6 @@ unterworfen.
 (4) Für die Mitglieder des Beirats in den Ausschüssen gilt § 38 Abs.
 4\.
 
-
 ### § 40
 
 Das Bundesministerium für Arbeit und Soziales bestimmt durch
@@ -1213,11 +1099,9 @@ Rechtsverordnung das Nähere über die Aufgaben, die Zusammensetzung,
 die Rechte und Pflichten der Mitglieder, die Amtsdauer und das
 Verfahren des Beirats (§ 38) und der Ausschüsse (§ 39).
 
-
 ### § 41
 
 (weggefallen)
-
 
 ### § 42
 
@@ -1228,7 +1112,6 @@ Träger der gesetzlichen Unfallversicherung. Die Haftung der
 Unfallkasse des Bundes für Verbindlichkeiten der Künstlersozialkasse
 nach dem Ersten und Vierten Teil ist auf das abgesonderte Vermögen der
 Künstlersozialkasse beschränkt.
-
 
 ### § 43
 
@@ -1277,7 +1160,6 @@ Einnahmen und Ausgaben der Liquiditätsreserve und des sonstigen
 Vermögens. Sie ist vom Bundesversicherungsamt zu prüfen. Das
 Bundesversicherungsamt erteilt die Entlastung.
 
-
 ### § 44
 
 (1) Die Künstlersozialkasse hat kurzfristig verfügbare Mittel zur
@@ -1292,11 +1174,9 @@ Künstlersozialkasse zur Auffüllung der Betriebsmittel jährlich
 mindestens 1 vom Hundert des im Haushaltsplan vorgesehenen
 Einnahmesolls (Auffüllungssoll) den Betriebsmitteln zuzuführen.
 
-
 ### § 45
 
 § 80 des Vierten Buches Sozialgesetzbuch gilt entsprechend.
-
 
 ### § 46
 
@@ -1304,39 +1184,27 @@ Die Aufsicht über die Künstlersozialkasse führt das
 Bundesversicherungsamt, soweit dieses Gesetz nichts Abweichendes
 bestimmt.
 
-
 ### § 47
 
 Die Künstlersozialkasse hat die Versicherten und die zur
 Künstlersozialabgabe Verpflichteten über ihre Rechte und Pflichten
 aufzuklären und zu beraten.
 
-
 ### § 48
 
 -
 
-
 ## Dritter Teil
-
-
 
 ### (XXXX) §§ 49 - 51 (weggefallen)
 
-
-
 ## Vierter Teil - Übergangs- und Schlußvorschriften
 
-
-
 ### (XXXX) §§ 52 bis 54 (weggefallen)
-
-
 
 ### § 55
 
 (weggefallen)
-
 
 ### § 56
 
@@ -1344,7 +1212,6 @@ aufzuklären und zu beraten.
 
 (2) § 5 Abs. 1 Nr. 8 ist nicht auf Personen anzuwenden, die ihr
 Studium vor dem 1. Juli 2001 aufgenommen haben.
-
 
 ### § 56a
 
@@ -1370,7 +1237,6 @@ Satz 1 beginnt der Anspruch mit dem auf den Antrag folgenden
 Kalendermonat; geht der Antrag bis zum 31. März 1992 bei der
 Künstlersozialkasse ein, beginnt der Anspruch mit dem 1. Januar 1992.
 
-
 ### § 56b
 
 Endet die in § 6 Abs. 1 in der am 31. Dezember 1988 geltenden Fassung
@@ -1381,15 +1247,11 @@ gilt § 6 Abs. 2 entsprechend mit der Maßgabe, daß die Erklärung bis
 zum Ablauf von drei Monaten nach dem Ende der Fünfjahresfrist
 abgegeben werden kann.
 
-
 ### § 57
 
 (weggefallen)
 
-
 ### (XXXX) §§ 57a bis 60 (weggefallen)
-
-
 
 ### § 61
 

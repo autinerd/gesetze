@@ -35,7 +35,6 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Erhebung der Daten, die für das
@@ -43,7 +42,6 @@ datenbankgestützte Informationssystem über Medizinprodukte benötigt
 werden, ihre Übermittlung an das Deutsche Institut für Medizinische
 Dokumentation und Information sowie die Verarbeitung und Nutzung der
 in diesem Informationssystem gespeicherten Daten.
-
 
 ## § 2 Elektronische Anzeigen und Anträge
 
@@ -75,7 +73,6 @@ technischen Modalitäten der Datenerfassung und -übermittlung
 veröffentlicht das Deutsche Institut für Medizinische Dokumentation
 und Information auf seiner Internetseite.
 
-
 ## § 3 Zentrales Erfassungssystem zur Entgegennahme von Anzeigen nach dem Medizinproduktegesetz
 
 (1) Beim Deutschen Institut für Medizinische Dokumentation und
@@ -99,7 +96,6 @@ Medizinische Dokumentation und Information nach dem
 Medizinproduktegesetz als erfüllt. Die zuständige Behörde soll den
 Anzeigepflichtigen nach Absatz 1 über die Datenfreigabe informieren.
 
-
 ## § 3a Zentrales Erfassungssystem für Anzeigen und Anträge bei klinischen Prüfungen und Leistungsbewertungsprüfungen
 
 (1) § 3 Absatz 1 gilt entsprechend für Anzeigen und Anträge nach § 22
@@ -119,7 +115,6 @@ Medizinproduktegesetzes erfüllt.
 (3) In einem automatisierten Verfahren werden die Behörden, die für
 die Überwachung zuständig sind, über Entscheidungen nach Absatz 2 Satz
 1 informiert.
-
 
 ## § 4 Medizinprodukte-Datenbanken
 
@@ -174,7 +169,6 @@ Information kann national und international zugängliche Datenbanken,
 die Informationen über Medizinprodukte enthalten, zur Nutzung
 aufbereiten und bereitstellen.
 
-
 ## § 5 Nutzung der Datenbanken
 
 (1) Neben den Bundesministerien der Verteidigung und für Gesundheit
@@ -200,7 +194,6 @@ Vollzug des Medizinproduktegesetzes erforderlich ist.
 öffentlich. Benannte Stellen können die Datenbank nach § 4 Abs. 1 Nr.
 1 Buchstabe a entgeltfrei nutzen.
 
-
 ## § 6 Datenschutz und Datensicherheit
 
 Bei der Datenübermittlung sind dem jeweiligen Stand der Technik
@@ -209,23 +202,18 @@ Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und
 Unversehrtheit der Daten gewährleisten; im Falle der Nutzung allgemein
 zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden.
 
-
 ## § 7 Speicherungsfrist
 
 Daten in den Datenbanken nach § 4 Abs. 1 stehen nach der letzten
 Änderung des jeweiligen Datensatzes noch 20 Jahre in der Datenbank zur
 Verfügung. Nach Ablauf dieser Frist werden die Daten gelöscht.
 
-
 ## § 8 Auskunftsrecht
 
 § 19 des Bundesdatenschutzgesetzes ist für juristische Personen
 entsprechend anzuwenden.
 
-
 ## (XXXX) §§ 9 und 10 (weggefallen)
-
-
 
 ## Anlage 1 (zu § 4 Abs. 1 Nr. 1) Allgemeine Anzeigepflicht nach §§ 25 und 30 Abs. 2 MPG General Obligation to Notify pursuant to §§ 25 and 30 (2) Medical Devices Act, MPG
 
@@ -897,10 +885,6 @@ Rhineland-Palatinate                Armed Forces
     (http://www.rki.de/cln\_006/nn\_226620/DE/Content/Infekt/Krankenhaushy
     giene/ Kommission/kommission\_node.html\_nnn=true)
 
-
-
-
-
 ## Anlage 2 (zu § 4 Abs. 1 Nr. 1) Allgemeine Anzeigepflicht nach §§ 25 und 30 Abs. 2 MPG General Obligation to Notify pursuant to §§ 25 and 30 (2) Medical Devices Act, MPG
 
 Fundstelle des Originaltextes: BGBl. I 2007, 1074 - 1078
@@ -1481,10 +1465,6 @@ Rhineland-Palatinate                Armed Forces
 
     Each certificate number is to precede with the Notified Body
     identification number followed by a slash, e. g.: 0123/nnn ...
-
-
-
-
 
 ## Anlage 3 (zu § 4 Abs. 1 Nr. 2) Informationen über Bescheinigungen nach § 18 MPG Information relating to Certificates pursuant to § 18 Medical Devices Act, MPG
 
@@ -2127,10 +2107,6 @@ Rhineland-Palatinate                Armed Forces
     Risks which may lead to death or to a serious deterioration in the
     state of health of a patient, user or other person.
 
-
-
-
-
 ## Anlage 4 (zu § 4 Abs. 1 Nr. 3) Klinische Prüfung nach § 20 Abs. 6 MPG Leistungsbewertungsprüfung nach § 24 Abs. 2 MPG Clinical Investigation according to § 20 (6) Medical Devices Act, MPG Performance Evaluation according to § 24 (2) Medical Devices Act, MPG
 
 (Fundstelle: BGBl. I 2010, 544 - 550)
@@ -2402,10 +2378,6 @@ knowledge.
     die als Sponsor eingetragen wurde.
     Please enter here the name of the responsible person for the firm
     entered as the sponsor.
-
-
-
-
 
 ## Anlage 5 (zu § 4 Abs. 1 Nr. 4) Mitteilung zur Klassifizierung eines Medizinproduktes oder Abgrenzung zu Nicht-Medizinprodukten Notice on the Classification of a Medical Device or Demarcation from other Products
 

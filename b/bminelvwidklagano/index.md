@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3883
 
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -57,7 +56,6 @@ und Verbraucherschutz bleibt die Entscheidung über Widersprüche
 vorbehalten, wenn die Behördenleiterin oder der Behördenleiter selbst
 betroffen ist.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009
@@ -67,13 +65,11 @@ genannten Behördenleiterinnen und Behördenleitern, soweit sie nach
 dieser Anordnung für den Erlass von Widerspruchsbescheiden zuständig
 sind.
 
-
 ## III. Vorbehaltsklausel
 
 In besonderen Fällen behalte ich mir vor, die Befugnisse und die
 Vertretung nach den Abschnitten I und II dieser Anordnung selbst zu
 übernehmen.
-
 
 ## IV. Schlussvorschriften
 
@@ -99,7 +95,6 @@ Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
 
 Die Allgemeinen Anordnungen vom 27. Juli 2000 (BGBl. I S. 1346) und
 vom 8. April 2009 (BGBl. I S. 814) bleiben unberührt.
-
 
 ## Schlussformel
 

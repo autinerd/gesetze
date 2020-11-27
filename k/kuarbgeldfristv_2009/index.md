@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 44 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 182 Abs. 1 Nr. 3 Buchstabe b des Dritten Buches
@@ -27,7 +26,6 @@ März 1997, BGBl. I S. 594, 595), der zuletzt durch Artikel 1 Nr. 14
 Buchstabe a und b des Gesetzes vom 24. April 2006 (BGBl. I S. 926)
 geändert worden ist, verordnet das Bundesministerium für Arbeit und
 Soziales:
-
 
 ## § 1 Bezugsdauer
 
@@ -47,7 +45,6 @@ deren Anspruch auf Kurzarbeitergeld in der Zeit vom 1. Januar 2011 bis
 zum 31. Dezember 2011 entstanden ist, über die Bezugsfrist nach § 104
 Absatz 1 Satz 1 des Dritten Buches Sozialgesetzbuch hinaus auf zwölf
 Monate verlängert.
-
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 

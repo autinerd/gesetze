@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 15 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,10 +28,7 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Bundeskanzleramt im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -109,7 +105,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -131,7 +126,6 @@ sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet, das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist der Bundesnachrichtendienst. Ihm obliegen die
@@ -141,7 +135,6 @@ Entscheidungen über die Verkürzung und Verlängerung des
 Vorbereitungsdienstes und der Aufstiegsausbildung. Der
 Bundesnachrichtendienst ist die für die beamtenrechtlichen
 Entscheidungen zuständige Dienstbehörde.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -154,10 +147,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 2.  die Fachhochschulreife oder eine andere zu einem Hochschulstudium
     berechtigende Schulbildung oder einen hochschulrechtlich als
     gleichwertig anerkannten Bildungsstand besitzt.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -189,10 +178,6 @@ Bewerbung sind beizufügen:
 6.  gegebenenfalls eine Ablichtung des Zulassungs- oder
     Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des
     Soldatenversorgungsgesetzes.
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -273,7 +258,6 @@ Wiederbestellung ist zulässig.
 (8) Nähere Bestimmungen über die Durchführung des Auswahlverfahrens
 erlässt das Bundeskanzleramt.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Der Bundesnachrichtendienst entscheidet nach dem Ergebnis des
@@ -320,7 +304,6 @@ Die Kosten des Gesundheitszeugnisses trägt der
 Bundesnachrichtendienst. Anstelle der Kostenübernahme kann der
 Bundesnachrichtendienst die Einstellungsuntersuchung selbst vornehmen.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -332,7 +315,6 @@ Regierungsinspektoranwärtern ernannt.
 Bundesnachrichtendienstes. Während des Grundstudiums an der
 Fachhochschule des Bundes für öffentliche Verwaltung unterstehen sie
 auch deren Dienstaufsicht.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -392,18 +374,15 @@ gefährdet erscheint.
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 43 Abs. 2.
 
-
 ### § 10 Erholungsurlaub während des Vorbereitungsdienstes
 
 Erholungsurlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan, alle Leistungsnachweise,
 Lehrgangsklausuren und Bewertungen aufzunehmen sind.
-
 
 ### § 12 Schwerbehinderte Menschen
 
@@ -425,7 +404,6 @@ Mensch eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -504,7 +482,6 @@ durchgeführt.
 
 (4) Das Grundstudium schließt mit der Zwischenprüfung.
 
-
 ### § 14 Fachhochschule des Bundes für öffentliche Verwaltung
 
 Die Fachstudien werden an der Fachhochschule des Bundes für
@@ -513,7 +490,6 @@ Bundesnachrichtendienst weist die Anwärterinnen und Anwärter zum
 Grundstudium der Fachhochschule und für das Hauptstudium dem
 Fachbereich öffentliche Sicherheit, Abteilung Bundesnachrichtendienst,
 zu.
-
 
 ### § 15 Grundsätze der Fachstudien
 
@@ -532,7 +508,6 @@ Lernziele der Studienfächer, die ihnen und ihren Intensitätsstufen
 entsprechenden Lerninhalte, die Stundenzahlen und die Art der
 Leistungsnachweise. Auf der Grundlage des Studienplans werden
 Lehrveranstaltungspläne erstellt.
-
 
 ### § 16 Grundstudium
 
@@ -601,7 +576,6 @@ Aufgabenbereichen des gehobenen Dienstes:
 (4) In den Studienplan sind neben Pflichtfächern auch
 Wahlpflichtfächer aufzunehmen.
 
-
 ### § 17 Hauptstudium
 
 (1) Das Hauptstudium vermittelt den Anwärterinnen und Anwärtern
@@ -654,7 +628,6 @@ ergänzt, erweitert und im Hinblick auf die Laufbahnprüfung vertieft.
 (4) Die Lehrstunden verteilen sich auf das Hauptstudium I und II mit
 jeweils mindestens 610 Stunden.
 
-
 ### § 18 Ziel der berufspraktischen Studienzeiten
 
 Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen
@@ -663,7 +636,6 @@ die Fachstudien, vertiefen die in den Fachstudien erworbenen
 wissenschaftlichen Kenntnisse und lernen, sie in der Praxis
 anzuwenden. Für die berufspraktischen Studienzeiten ist der
 Ausbildungsrahmenplan (§ 21) zu berücksichtigen.
-
 
 ### § 19 Praktika
 
@@ -684,7 +656,6 @@ Verhandlungsführung zu üben.
 
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
-
 
 ### § 20 Durchführung der Praktika
 
@@ -729,7 +700,6 @@ Verwendung in den Abteilungen "Operative Aufklärung" und "Auswertung"
 ableisten. Nach entsprechender Aufforderung haben sie
 Praktikumsberichte zu erstellen.
 
-
 ### § 21 Ausbildungsrahmenplan
 
 Der Ausbildungsrahmenplan bestimmt die Reihenfolge und Dauer der
@@ -738,7 +708,6 @@ Intensitätsstufen entsprechenden Lerninhalte. Der
 Bundesnachrichtendienst erlässt den Ausbildungsrahmenplan unter
 Beteiligung der Fachbereichsleitung öffentliche Sicherheit und der
 Präsidentin oder des Präsidenten der Fachhochschule.
-
 
 ### § 22 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika, Ausbildungsplan
 
@@ -770,7 +739,6 @@ für die Praktika zugewiesen werden und bestimmt die Zeiträume der
 Zuweisung. Den Ausbildungsplan erstellt die Ausbildungsleitung. Eine
 Ausfertigung ist den Anwärterinnen und Anwärtern auszuhändigen.
 
-
 ### § 23 Praxisbezogene Lehrveranstaltungen
 
 (1) Die praxisbezogenen Lehrveranstaltungen betragen regelmäßig 360
@@ -785,7 +753,6 @@ dem Fach Recht insbesondere die Fächer nach § 17 Abs. 2.
 (3) Die praxisbezogenen Lehrveranstaltungen werden während der
 berufspraktischen Studienzeiten auf Anordnung der Ausbildungsleitung
 an der Schule des Bundesnachrichtendienstes durchgeführt.
-
 
 ### § 24 Leistungsnachweise während der Fachstudien
 
@@ -856,7 +823,6 @@ Ordnungsverstößen sind die §§ 37 und 38 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 25 Bewertungen während der berufspraktischen Studienzeiten
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -885,10 +851,7 @@ der Leitungsnachweise geteilt wird. Die Rangpunkte schriftlicher
 Aufsichtsarbeiten erhalten den Multiplikator 2. Die Anwärterinnen und
 Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
 ## Kapitel 2 - Aufstieg
-
-
 
 ### § 26 Ausbildungsaufstieg
 
@@ -926,7 +889,6 @@ gefährdet erscheint. Dabei können Abweichungen vom Studienplan oder
 Ausbildungsplan zugelassen werden, soweit zusammenhängende
 Teilabschnitte der Fachstudien oder berufspraktischen Studienzeiten
 nicht ohne zwingenden Grund unterbrochen werden.
-
 
 ### § 27 Praxisaufstieg
 
@@ -994,10 +956,7 @@ Dienstposten üblicherweise anfallen.
 (7) Über die Eignung, Befähigung und fachliche Leistung während der
 praktischen Einführung wird eine dienstliche Beurteilung erstellt.
 
-
 ## Kapitel 3 - Prüfungen
-
-
 
 ### § 28 Zwischenprüfung
 
@@ -1060,7 +1019,6 @@ Rechtsbehelfsbelehrung versehen.
 
 (9) § 42 Abs. 2 gilt entsprechend.
 
-
 ### § 29 Prüfungsamt
 
 (1) Dem beim Bundeskanzleramt eingerichteten Prüfungsamt obliegt die
@@ -1070,7 +1028,6 @@ Entscheidungen der Prüfungskommission.
 
 (2) Die Aufgaben des Prüfungsamtes können ganz oder teilweise auf den
 Bundesnachrichtendienst übertragen werden.
-
 
 ### § 30 Prüfungskommission
 
@@ -1131,7 +1088,6 @@ Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei
 Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den
 Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 ### § 31 Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -1179,7 +1135,6 @@ Mitglieder sowie die Protokollführerin oder der Protokollführer
 anwesend sein. Die Protokollführerin oder der Protokollführer darf
 sich nicht an der Beratung beteiligen.
 
-
 ### § 32 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt im Einvernehmen mit dem
@@ -1193,7 +1148,6 @@ Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein.
 (3) Der Bundesnachrichtendienst teilt den Zeitpunkt der Ausgabe der
 Diplomarbeit sowie Ort und Zeit der schriftlichen und der mündlichen
 Prüfung den Anwärterinnen und den Anwärtern rechtzeitig mit.
-
 
 ### § 33 Diplomarbeit
 
@@ -1244,7 +1198,6 @@ Drittprüfer. Die abschließende Rangpunktzahl setzt das Prüfungsamt
 durch Bildung der Durchschnittspunktzahl der drei Bewertungen fest.
 Die Dauer des Bewertungsverfahrens soll sechs Wochen nicht
 überschreiten.
-
 
 ### § 34 Schriftliche Prüfung
 
@@ -1312,7 +1265,6 @@ Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 37 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 35 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1327,7 +1279,6 @@ von ihnen in der Diplomarbeit und in den einzelnen schriftlichen
 Aufsichtsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen.
 Die Nichtzulassung bedarf der Schriftform; sie wird mit einer
 Rechtsbehelfsbelehrung versehen.
-
 
 ### § 36 Mündliche Prüfung
 
@@ -1354,7 +1305,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
-
 
 ### § 37 Verhinderung, Rücktritt, Säumnis
 
@@ -1390,7 +1340,6 @@ das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt
 werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte
 Prüfung für nicht bestanden erklärt wird. Die Entscheidung nach Satz 1
 ist mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 38 Täuschung, Ordnungsverstoß
 
@@ -1428,7 +1377,6 @@ versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 39 Bewertung von Prüfungsleistungen
 
@@ -1623,7 +1571,6 @@ Anforderungen festgelegt. Von diesen Anforderungen aus wird die
 Erteilung des der Leistung entsprechenden Rangpunktes begründet. Für
 die Bewertung mündlicher Leistungen gelten diese Grundsätze sinngemäß.
 
-
 ### § 40 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1664,7 +1611,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz
 mündlich.
 
-
 ### § 41 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1688,7 +1634,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 38 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 42 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -1702,7 +1647,6 @@ werden beim Bundesnachrichtendienst mindestens fünf Jahre aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 43 Wiederholung
 
@@ -1728,10 +1672,7 @@ verlängert. Die Wiederholungsprüfung soll zusammen mit den
 Anwärterinnen und Anwärtern der nächsten Laufbahnprüfung abgelegt
 werden.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 44 Laufbahnwechsel
 
@@ -1780,7 +1721,6 @@ in Betracht.
 (3) Die im Regelfall erforderliche Unterweisung erfolgt in Form eines
 Einweisungslehrgangs oder einer praktischen Einführung.
 
-
 ### § 45 Übergangsvorschrift
 
 Anwärterinnen und Anwärter sowie Aufstiegsbeamtinnen und
@@ -1789,7 +1729,6 @@ Verordnung begonnen haben, führen diese nach der Verordnung über die
 Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen
 Dienst des Bundes im Bundesnachrichtendienst vom 25. September 2001
 (BGBl. I S. 2562) zu Ende.
-
 
 ### § 46 Inkrafttreten, Außerkrafttreten
 

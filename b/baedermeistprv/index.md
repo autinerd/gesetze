@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
 Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen
 Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit
 dem Bundesministerien für Wirtschaft und des Innern:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -97,7 +95,6 @@ Bäderbetriebe auszubilden:
 Abschluß "Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für
 Bäderbetriebe".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte
@@ -110,7 +107,6 @@ Meisters für Bäderbetriebe gemäß § 1 Abs. 2 hat, nachweist.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Inhalt der Prüfung
 
@@ -144,7 +140,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn
 der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 4 Allgemeiner Teil
 
@@ -401,7 +396,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Fachtheoretischer Teil
 
@@ -768,7 +762,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Fachpraktischer Teil
 
 (1) Im fachpraktischen Teil ist in folgenden Fächern zu prüfen:
@@ -912,10 +905,6 @@ dauern. Die Mindestzeiten betragen in den Prüfungsfächern:
 
     *   1 Stunde.
 
-
-
-
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -925,7 +914,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 8 Bestehen der Prüfung
 
@@ -946,7 +934,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 8 sind Ort und Datum sowie die Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -962,17 +949,14 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall zählt das letzte Ergebnis für das
 Bestehen.
 
-
 ## § 10 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 8 Absatz 3)
 
@@ -1004,7 +988,6 @@ ist, bestanden.
 Datum .................................
 Unterschrift(en) ......................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 8 Absatz 3)
 

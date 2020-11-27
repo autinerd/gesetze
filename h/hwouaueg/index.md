@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 24.12.2003 I 2934
 
-
 ## § 1
 
 (1) Die wesentliche Tätigkeit Herstellung und Reparatur von
@@ -77,7 +76,6 @@ als wesentliche Tätigkeit zugeordnet.
 (7) Der Akustik- und Trockenbau ist keine wesentliche Tätigkeit eines
 der in der Anlage A zur Handwerksordnung aufgeführten Gewerbe.
 
-
 ## § 2
 
 Soweit durch Artikel 1 des Zweiten Gesetzes zur Änderung der
@@ -90,7 +88,6 @@ zu Gewerben zusammengefaßt werden, werden die wesentlichen Tätigkeiten
 der bisherigen Gewerbe beibehalten, soweit in § 1 nicht etwas anderes
 bestimmt ist. Satz 1 gilt entsprechend, soweit Gewerbe eine neue
 Bezeichnung erhalten.
-
 
 ## § 3
 

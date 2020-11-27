@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1959, 673
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -28,7 +26,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 (Bundesgesetzbl. 1954 II S. 639) in der Fassung des Änderungsgesetzes
 vom 3. Juni 1957 (Bundesgesetzbl. II S. 469) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -52,7 +49,6 @@ die Bestimmungen des Artikels VI des genannten Abkommens keine
 Anwendung, mit Ausnahme der Bestimmung des Artikels VI § 19 Buchstabe
 a.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -64,11 +60,9 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 zwischenstaatliche Organisationen in der Fassung des Änderungsgesetzes
 vom 3. Juni 1957 auch im Land Berlin.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 

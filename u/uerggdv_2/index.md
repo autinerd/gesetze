@@ -18,14 +18,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1954, Nr 81
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 55 Abs. 2 des Umstellungsergänzungsgesetzes vom 21.
 September 1953 (Bundesgesetzbl. I S. 1439) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -48,10 +45,6 @@ Ansprüche
 2.  aus Auslandsbonds im Sinne des Bereinigungsgesetzes für deutsche
     Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553).
 
-
-
-
-
 ## § 2
 
 (1) Vermittlungsstelle ist für Ansprüche aus Schuldverschreibungen,
@@ -69,7 +62,6 @@ Lieferbarkeitsbescheinigung nach § 48 des Berliner
 Wertpapierbereinigungsgesetzes ausgestellt worden, so ist
 Vermittlungsstelle das Kreditinstitut, das als Anmeldestelle im
 Wertpapierbereinigungsverfahren tätig gewesen ist.
-
 
 ## § 3
 
@@ -151,7 +143,6 @@ einem Ort des Bundesgebietes aus geführt haben.
 die Bestätigung nach den Absätzen 2 bis 6 für den Anmelder (§ 14 des
 Berliner Wertpapierbereinigungsgesetzes) abzugeben.
 
-
 ## § 4
 
 Ist für eine Schuldverschreibung eine Lieferbarkeitsbescheinigung
@@ -182,15 +173,10 @@ Auftrag des Berechtigten (§ 1 Abs. 1) für ihn anmelden, sofern sie
     und ferner bestätigen kann, daß sie mit dieser Person nach dem 30.
     September 1949 in unmittelbarer Verbindung gestanden hat.
 
-
-
-
-
 ## § 5
 
 Die Vermittlungsstelle hat den Berechtigten von einer Anmeldung nach §
 3 oder § 4 zu benachrichtigen.
-
 
 ## § 6
 
@@ -201,7 +187,6 @@ so soll sie eine Anmeldung nach § 3 oder § 4 nicht vornehmen, solange
 ihr nicht bekannt ist, daß die Einstellung des Anspruchs in die
 Umstellungsrechnung abgelehnt worden ist.
 
-
 ## § 7
 
 Nimmt der Berechtigte die Anmeldung selbst vor, so hat er Unterlagen
@@ -209,7 +194,6 @@ Nimmt der Berechtigte die Anmeldung selbst vor, so hat er Unterlagen
 Geschäftsleitung desjenigen beizufügen, der am 1. Oktober 1949 oder an
 einem nach § 7 Abs. 2 des Altbankengesetzes maßgebenden Zeitpunkt
 Gläubiger war.
-
 
 ## § 8
 
@@ -233,7 +217,6 @@ Wertpapierbereinigungsgesetzes) verlangen.
 (4) Die Anmeldungen sind in doppelter Ausfertigung bei dem
 Schuldnerinstitut einzureichen.
 
-
 ## § 9
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
@@ -241,11 +224,9 @@ Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 Umstellungsergänzungsgesetzes vom 21. September 1953 gilt diese
 Verordnung auch in Berlin (West).
 
-
 ## § 10
 
 Die Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage 1 Berliner Altbanken, die Schuldverschreibungen ausgegeben haben (Emissionsinstitute)
 
@@ -341,10 +322,6 @@ Fundstelle des Originaltextes: BGBl. III 7601-1-2, S 24
 
 23. Zentrale für Bodenkulturkredit,
     Berlin-Grunewald, Hohenzollerndamm 81
-
-
-
-
 
 ## Anlage 2
 
@@ -509,7 +486,6 @@ werden, so ist IV 3 auszufüllen.
 werden, so ist IV 3 auszufüllen.
 7) Kann diese Bestätigung nicht abgegeben werden, muß die Anmeldung
 von dem Berechtigten erstattet werden.
-
 
 ## Anlage 3
 

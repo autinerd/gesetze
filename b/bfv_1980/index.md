@@ -25,7 +25,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 82 G v. 21. 6.2005 I 1818
 
-
 ## Inhaltsverzeichnis
 
 
@@ -81,13 +80,7 @@ Zuletzt geändert durch
 
 *    *   Anhang I und II (weggefallen)
 
-
-
-
-
 ## (XXXX) §§ 1 bis 4 (weggefallen)
-
-
 
 ## § 5 Weitergehende Anforderungen
 
@@ -97,13 +90,11 @@ Anforderungen genügen, die von der zuständigen Behörde im Einzelfall
 zur Abwendung besonderer Gefahren für Beschäftigte oder Dritte
 gestellt werden. § 9 Abs. 4 Satz 2 und 3 bleibt unberührt.
 
-
 ## § 6 Ausnahmen
 
 Die zuständige Behörde kann für Anlagen im Einzelfall aus besonderen
 Gründen Ausnahmen von § 4 Abs. 1 Satz 1 zulassen, wenn die Sicherheit
 auf andere Weise gewährleistet ist.
-
 
 ## § 7 Anlagen des Bundes
 
@@ -115,11 +106,9 @@ Behörde zu.
 
 (2) (weggefallen)
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## § 9 Erlaubnis
 
@@ -146,19 +135,13 @@ für die Beurteilung der Anlage erforderlichen Unterlagen beizufügen.
 
 ...
 
-
 ## (XXXX) §§ 10 und 11 (weggefallen)
-
-
 
 ## § 12
 
 (weggefallen)
 
-
 ## (XXXX) §§ 13 bis 23 (weggefallen)
-
-
 
 ## § 24 Aufsicht über Anlagen des Bundes
 
@@ -167,20 +150,15 @@ Bundes, der Bundeswehr sowie der Bundespolizei ist das zuständige
 Bundesministerium oder die von ihm bestimmte Behörde.
 ...
 
-
 ## (XXXX) §§ 25 bis 28 (weggefallen)
-
-
 
 ## § 29
 
 (weggefallen)
 
-
 ## § 30
 
 (Außerkrafttreten anderer Vorschriften)
-
 
 ## (XXXX) Anhang I und II (weggefallen)
 

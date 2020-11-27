@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2135
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in
@@ -26,7 +24,6 @@ der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602),
 der durch Artikel 1 des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156,
 340) geändert worden ist, verordnet das Bundesministerium der
 Verteidigung:
-
 
 ## § 1
 
@@ -40,7 +37,6 @@ Lebensmittel- und Futtermittelgesetzbuchs die Durchführung dieses
 Gesetzes im Geschäftsbereich des Bundesministeriums der Verteidigung
 den zuständigen Stellen und Sachverständigen der Bundeswehr obliegt.
 
-
 ## § 2
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
@@ -49,7 +45,6 @@ der Bekanntmachung vom 18. Mai 2006 (BGBl. I S. 1206, 1313) wird auf
 die Wehrbereichsverwaltungen übertragen, soweit nach § 15 Abs. 3 Satz
 1 des Tierschutzgesetzes die Durchführung dieses Gesetzes den
 zuständigen Dienststellen der Bundeswehr obliegt.
-
 
 ## § 3
 

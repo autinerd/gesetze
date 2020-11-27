@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 1243
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 2 Satz 3 des Gesetzes über die Beaufsichtigung
@@ -26,7 +24,6 @@ Teil III, Gliederungsnummer 7631-1, veröffentlichten bereinigten
 Fassung in Verbindung mit Artikel 129 Abs. 1 Satz 1 des Grundgesetzes
 und § 1 der Verordnung vom 8. Dezember 1978 (BGBI. I S. 2021) wird
 verordnet:
-
 
 ## § 1
 
@@ -47,7 +44,6 @@ Versicherungsunternehmens sind, es sei denn, daß das
 Vermittlerverhältnis nur begründet worden ist, um diesen derartige
 Zuwendungen für eigene Versicherungen zukommen zu lassen.
 
-
 ## § 2
 
 (1) Den unter Bundesaufsicht stehenden Versicherungsunternehmen ist
@@ -60,13 +56,11 @@ versicherte Personen hinsichtlich der Versicherungsbedingungen
 gleichen Risiken desselben Versicherungsunternehmens ohne sachlich
 gerechtfertigten Grund bessergestellt werden.
 
-
 ## § 3
 
 Im Zeitpunkt des Inkrafttretens dieser Verordnung bestehende Verträge,
 die Begünstigungen vorsehen oder enthalten, sind spätestens zum ersten
 Ablauftermin nach dem 31. Dezember 1984 zu kündigen.
-
 
 ## § 4
 
@@ -77,7 +71,6 @@ Anordnung vom 24. Januar 1967 über Sondervergütungen und
 Begünstigungsverträge in der Rechtschutzversicherung (BAnz. Nr. 21 vom
 31\. Januar 1967) werden aufgehoben.
 
-
 ## § 5
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
@@ -85,11 +78,9 @@ Verbindung mit Artikel 7 des Gesetzes zur Änderung des Gesetzes über
 die Beaufsichtigung der privaten Versicherungsunternehmungen vom 20.
 Dezember 1974 (BGBl. I S. 3693) auch im Land Berlin.
 
-
 ## § 6
 
 Diese Verordnung tritt einen Monat nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

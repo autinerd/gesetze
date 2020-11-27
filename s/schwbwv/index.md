@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2008 I 2959
 
-
 ## Eingangsformel
 
 Auf Grund des § 55 Abs. 3 des Schwerbehindertengesetzes in der Fassung
 der Bekanntmachung vom 8. Oktober 1979 (BGBl. I S. 1649) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Erster Abschnitt - Fachliche Anforderungen an die Werkstatt für behinderte Menschen
-
-
 
 ### § 1 Grundsatz der einheitlichen Werkstatt
 
@@ -42,7 +38,6 @@ kann.
 soll innerhalb der Werkstatt durch geeignete Maßnahmen, insbesondere
 durch Bildung besonderer Gruppen im Berufsbildungs- und
 Arbeitsbereich, Rechnung getragen werden.
-
 
 ### § 2 Fachausschuß
 
@@ -75,7 +70,6 @@ Arbeitsleben Leistungen einer Werkstatt für behinderte Menschen
 benötigt oder ob andere Leistungen zur Teilhabe am Arbeitsleben in
 Betracht kommen, insbesondere Leistungen der Unterstützten
 Beschäftigung nach § 38a des Neunten Buches Sozialgesetzbuch.
-
 
 ### § 3 Eingangsverfahren
 
@@ -111,7 +105,6 @@ behinderten Menschen in Betracht kommen. Er soll sich auch dazu
 äußern, nach welcher Zeit eine Wiederholung des Eingangsverfahrens
 zweckmäßig ist und welche Maßnahmen und welche anderen Leistungen zur
 Teilhabe in der Zwischenzeit durchgeführt werden sollen.
-
 
 ### § 4 Berufsbildungsbereich
 
@@ -176,7 +169,6 @@ Stellungnahme dazu ab, ob die Leistungen für ein weiteres Jahr
 bewilligt werden sollen (§ 40 Abs. 3 Satz 3 des Neunten Buches
 Sozialgesetzbuch). Im übrigen gilt § 3 Abs. 3 entsprechend.
 
-
 ### § 5 Arbeitsbereich
 
 (1) Die Werkstatt soll über ein möglichst breites Angebot an
@@ -225,7 +217,6 @@ Arbeitsmarkt in Betracht kommen und welche übergangsfördernden
 Maßnahmen dazu erforderlich sind. Im Übrigen gilt § 3 Abs. 3
 entsprechend.
 
-
 ### § 6 Beschäftigungszeit
 
 (1) Die Werkstatt hat sicherzustellen, daß die behinderten Menschen im
@@ -238,7 +229,6 @@ Sinne des § 5 Abs. 3.
 zu ermöglichen, wenn es wegen Art oder Schwere der Behinderung oder
 zur Erfüllung des Erziehungsauftrages notwendig erscheint.
 
-
 ### § 7 Größe der Werkstatt
 
 (1) Die Werkstatt soll in der Regel über mindestens 120 Plätze
@@ -247,7 +237,6 @@ verfügen.
 (2) Die Mindestzahl nach Absatz 1 gilt als erfüllt, wenn der
 Werkstattverbund im Sinne des § 15, dem die Werkstatt angehört, über
 diese Zahl von Plätzen verfügt.
-
 
 ### § 8 Bauliche Gestaltung, Ausstattung, Standort
 
@@ -270,7 +259,6 @@ in zumutbarer Zeit erreichbar ist.
 (4) Die Werkstatt hat im Benehmen mit den zuständigen
 Rehabilitationsträgern, soweit erforderlich, einen Fahrdienst zu
 organisieren.
-
 
 ### § 9 Werkstattleiter, Fachpersonal zur Arbeits- und Berufsförderung
 
@@ -312,7 +300,6 @@ Berufsbildungsbereichs und der begleitenden Dienste eingesetzt werden,
 sofern der zuständige Rehabilitationsträger keine höheren
 Anforderungen stellt.
 
-
 ### § 10 Begleitende Dienste
 
 (1) Die Werkstatt muß zur pädagogischen, sozialen und medizinischen
@@ -333,12 +320,10 @@ Werkstatt durch einen Arzt, der möglichst auch die an einen
 Betriebsarzt zu stellenden Anforderungen erfüllen soll, müssen
 vertraglich sichergestellt sein.
 
-
 ### § 11 Fortbildung
 
 Die Werkstatt hat dem Fachpersonal nach den §§ 9 und 10 Gelegenheit
 zur Teilnahme an Fortbildungsmaßnahmen zu geben.
-
 
 ### § 12 Wirtschaftsführung
 
@@ -421,7 +406,6 @@ Sozialgesetzbuch auf deren Verlangen offen. Diese sind berechtigt, die
 Angaben durch Einsicht in die nach Absatz 1 zu führenden Unterlagen zu
 überprüfen.
 
-
 ### § 13 Abschluß von schriftlichen Verträgen
 
 (1) Die Werkstätten haben mit den im Arbeitsbereich beschäftigten
@@ -439,14 +423,12 @@ behinderten Menschen aus dem Arbeitsergebnis näher zu regeln.
 
 (3) (weggefallen)
 
-
 ### § 14 Mitwirkung
 
 Die Werkstatt hat den behinderten Menschen im Sinne des § 13 Abs. 1
 Satz 1 eine angemessene Mitwirkung in den ihre Interessen berührenden
 Angelegenheiten der Werkstatt nach § 139 des Neunten Buches
 Sozialgesetzbuch zu ermöglichen.
-
 
 ### § 15 Werkstattverbund
 
@@ -461,7 +443,6 @@ Werkstatt zusätzlich eine besondere Werkstatt im Sinne des § 137 Abs.
 1 Satz 2 Nr. 2 des Neunten Buches Sozialgesetzbuch für behinderte
 Menschen mit einer bestimmten Art der Behinderung vorhanden ist.
 
-
 ### § 16 Formen der Werkstatt
 
 Die Werkstatt kann eine teilstationäre Einrichtung oder ein
@@ -469,10 +450,7 @@ organisatorisch selbständiger Teil einer stationären Einrichtung
 (Anstalt, Heim oder gleichartige Einrichtung) oder eines Unternehmens
 sein.
 
-
 ## Zweiter Abschnitt - Verfahren zur Anerkennung als Werkstatt für behinderte Menschen
-
-
 
 ### § 17 Anerkennungsfähige Einrichtungen
 
@@ -497,7 +475,6 @@ wenigstens 60 Plätze vorhanden sind, sofern gewährleistet ist, daß die
 Werkstatt im Endausbau, spätestens nach 5 Jahren, die Voraussetzungen
 des § 7 erfüllt.
 
-
 ### § 18 Antrag
 
 (1) Die Anerkennung ist vom Träger der Werkstatt schriftlich zu
@@ -511,15 +488,11 @@ getroffen werden.
 (3) Die Anerkennung erfolgt mit der Auflage, im Geschäftsverkehr auf
 die Anerkennung als Werkstatt für behinderte Menschen hinzuweisen.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 19
 
 -
-
 
 ### § 20 Abweichende Regelungen für Werkstätten im Beitrittsgebiet
 
@@ -588,13 +561,6 @@ Gebiet gilt diese Verordnung mit folgenden Abweichungen:
         Buchstabens a nach § 17 Abs. 3 rechnet die in dem dortigen Satz 2
         bestimmte Fünfjahresfrist vom Erlaß der Entscheidung über den
         Verlängerungsantrag an.
-
-
-
-
-
-
-
 
 ### § 21 Inkrafttreten
 

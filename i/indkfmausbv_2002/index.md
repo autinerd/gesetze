@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 20.7.2007 I 1518
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,17 +27,14 @@ zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Industriekaufmann/Industriekauffrau wird
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -58,7 +54,6 @@ Berufstätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes
 befähigt wird, die insbesondere selbständiges Planen, Durchführen und
 Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen
 nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -331,7 +326,6 @@ aus den Bereichen 1 bis 6 in Betracht:
 Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten
 und Kenntnisse nach Absatz 1 Nr. 10 vermittelt werden können.
 
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -342,12 +336,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
 ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -355,7 +347,6 @@ Der Auszubildende hat ein Berichtsheft zu führen. Dabei sind
 regelmäßig Ausbildungsnachweise anzufertigen. Dem Auszubildenden ist
 Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu
 führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -380,10 +371,6 @@ Prüfungsbereichen durchzuführen:
 
 
 3.  Kosten- und Leistungsrechnung.
-
-
-
-
 
 ## § 9 Abschlussprüfung
 
@@ -464,10 +451,6 @@ Präsentation und einem Fachgespräch.
     Präsentation und Fachgespräch sollen zusammen höchstens 30 Minuten und
     die Präsentation zwischen 10 und 15 Minuten dauern.
 
-
-
-
-
 ## § 10 Bestehensregelung
 
 (1) Bei der Ermittlung des Gesamtergebnisses haben die einzelnen
@@ -520,7 +503,6 @@ jeweils mindestens ausreichende Leistungen erbracht wurden. Werden die
 Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet,
 so ist die Prüfung nicht bestanden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -531,11 +513,9 @@ die Erprobung einer neuen Ausbildungsform in der Berufsausbildung zum
 Industriekaufmann/zur Industriekauffrau vom 23. Juli 2002 (BGBl. I S.
 2775).
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau - Sachliche Gliederung -
 
@@ -1445,10 +1425,6 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
     *   qualitätssichernde und -fördernde Instrumente anwenden; Störungen und
         Fehlern systematisch vorbeugen; Probleme einsatzgebietsspezifisch
         lösen
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau - Zeitliche Gliederung -
 

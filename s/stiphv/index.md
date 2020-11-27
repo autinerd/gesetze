@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 8.8.2012 I 1709
 
-
 ## § 1 Jährliche Höchstgrenze
 
 Die Höchstgrenze gemäß § 11 Absatz 4 des Stipendienprogramm-Gesetzes
@@ -29,10 +28,6 @@ beträgt
 
 
 2.  ab dem 1. August 2013 1,5 Prozent der Studierenden einer Hochschule.
-
-
-
-
 
 ## § 2 Verfahren
 

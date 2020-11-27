@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1076
 
-
-
 ## Eingangsformel
 
 Auf der Grundlage des § 7 Abs. 3 in Verbindung mit § 24 Abs. 4 des
 Gesetzes vom 17. Juni 1990 zur Privatisierung und Reorganisation des
 volkseigenen Vermögens (Treuhandgesetz) (GBl. I Nr. 33 S. 300) wird
 folgendes verordnet:
-
 
 ## § 1
 
@@ -39,7 +36,6 @@ Unternehmen sachlich gebotene Anpassungen und Veränderungen bezüglich
 der Zuordnung von Kapitalgesellschaften und der Anzahl und Struktur
 der Treuhand-Aktiengesellschaften zu beschließen.
 
-
 ## § 2
 
 Den einzelnen Treuhand-Aktiengesellschaften werden die ihnen vom
@@ -49,7 +45,6 @@ treuhänderischem Eigentum übertragen. Die Treuhand-
 Aktiengesellschaften üben die Gesellschafterrechte an den von ihnen
 gehaltenen Anteilen im eigenen Namen im Interesse der Treuhandanstalt
 aus.
-
 
 ## § 3
 
@@ -70,11 +65,9 @@ bedürfen der Einwilligung der Treuhandanstalt. Die Treuhandanstalt ist
 ermächtigt, Wertgrenzen für das Erfordernis der Einwilligung im
 Einvernehmen mit dem Ministerium der Finanzen festzulegen.
 
-
 ## § 4
 
 Diese Verordnung tritt mit ihrer Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

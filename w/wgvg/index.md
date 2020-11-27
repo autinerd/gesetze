@@ -19,7 +19,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 26.6.1994 I 1437
 
-
 ## § 1 Grundsatz
 
 (1) Die Wohnungsgenossenschaften sind Eigentümer des von ihnen für
@@ -71,7 +70,6 @@ Person sind zur Freistellung von etwaigen Belastungen verpflichtet. §
 der vorstehenden Vorschriften nur Ansprüche nach dem Vermögensgesetz
 unberührt.
 
-
 ## § 2 Feststellung des Grund und Bodens
 
 (1) Auf die Feststellung, in welchem Umfang die
@@ -95,7 +93,6 @@ Vermögenszuordnungsgesetz bestandskräftig geworden, durch den der in §
 1 Abs. 1 bezeichnete Grund und Boden einer Gemeinde zugeordnet ist,
 ist auf Antrag der Wohnungsgenossenschaft der Bescheid nach Maßgabe
 des § 1 Abs. 1 zu ändern. § 3 ist entsprechend anzuwenden.
-
 
 ## § 3 Ausgleich
 
@@ -140,7 +137,6 @@ der Gemeinde innerhalb von einem Monat nach Fälligkeit des
 Veräußerungserlöses zu erstatten. Satz 1 ist nicht anzuwenden auf
 Veräußerungsfälle, die der Abführungspflicht nach § 5 Abs. 2 des
 Altschuldenhilfegesetzes unterliegen.
-
 
 ## § 4 Verhältnis zum Einigungsvertrag
 

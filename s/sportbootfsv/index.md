@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 V v. 2.10.2012 I 2102
 
-
 ## § 1 Fahrerlaubnis
 
 (1) Wer auf den Seeschifffahrtsstraßen ein Sportboot führen will,
@@ -86,7 +85,6 @@ auf Verlangen zur Prüfung auszuhändigen.
 Fahrerlaubnis im Sinne des Absatzes 1 gleich. Ein nach dieser
 Verordnung ausgestellter Motorbootführerschein gilt als
 Sportbootführerschein im Sinne des Absatzes 2.
-
 
 ## § 2 Eignung und Befähigung
 
@@ -168,7 +166,6 @@ verbundenen Gefahren ausgeglichen werden können. Für die Erteilung der
 Auflagen ist der Prüfungsausschuss zuständig, der die Fahrerlaubnis
 erteilt oder erteilt hat.
 
-
 ## § 3 Prüfung
 
 Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung
@@ -186,7 +183,6 @@ fähig ist. Wird die Prüfung aus wichtigem Grund nicht an einem Tag
 abgeschlossen, muss der fehlende Prüfungsteil spätestens innerhalb
 eines Jahres nachgeholt werden.
 
-
 ## § 4 Beauftragung
 
 Der Deutsche Motoryachtverband und der Deutsche Segler-Verband werden
@@ -201,7 +197,6 @@ der Durchführung der Fachaufsicht über die Prüfungsausschüsse der
 Wasser- und Schifffahrtsdirektionen Nord und Nordwest bedient. Die
 Zuständigkeit der Wasser- und Schifffahrtsdirektionen bestimmt das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung
-
 
 ## § 5 Antrag
 
@@ -262,7 +257,6 @@ Entscheidung durch ein Seeamt oder zur Aufhebung eines Fahrverbots
 nach § 8a Abs. 2 muss die in Absatz 1 Satz 2 Nr. 1 aufgeführten
 Angaben sowie die Ausstellungsnummer und die Bezeichnung der
 ausstellenden Behörde des Sportbootführerscheins enthalten.
-
 
 ## § 6 Prüfungsausschuss und Abnahme der Prüfung
 
@@ -328,7 +322,6 @@ Sportbooten auf den Binnenschifffahrtsstraßen vom 21. März 1978 (BGBl.
 I S. 420) erwerben wollen, ermöglichen, die getrennten Prüfungen in
 zeitlichem Zusammenhang abzulegen.
 
-
 ## § 7 Ersatzausfertigung
 
 Ist der Sportbootführerschein unbrauchbar geworden oder wird glaubhaft
@@ -336,7 +329,6 @@ gemacht, dass er verloren gegangen ist, stellen die beauftragten
 Verbände auf Antrag eine Ersatzausfertigung aus, die als solche zu
 bezeichnen ist. Der unbrauchbar gewordene Sportbootführerschein ist
 abzuliefern.
-
 
 ## § 8 Entziehung der Fahrerlaubnis
 
@@ -387,7 +379,6 @@ Vollzug der Entziehung angeordnet worden ist.
 Bedingungen für die Erteilung eines neuen Sportbootführerscheins
 festsetzen.
 
-
 ## § 8a Fahrverbot
 
 (1) Dem Inhaber eines Befähigungszeugnisses nach § 1 Abs. 1 Satz 3 Nr.
@@ -424,7 +415,6 @@ Nordwest abzuliefern. Es ist auch abzuliefern, wenn die Anordnung des
 Fahrverbots angefochten wurde, aber der sofortige Vollzug der
 Anordnung angeordnet worden ist.
 
-
 ## § 9 Verzeichnis
 
 (1) Die beauftragten Verbände führen gemeinsam ein Verzeichnis der
@@ -441,7 +431,6 @@ Fahrerlaubnis nicht erteilt werden darf.
 Seeämter, Staatsanwaltschaften und Polizeibehörden erteilt werden,
 soweit dies im öffentlichen Interesse liegt und gesetzliche
 Vorschriften nicht entgegenstehen.
-
 
 ## § 10 Kosten
 
@@ -549,7 +538,6 @@ Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 
 nach Maßgabe der Durchführungsrichtlinien erhoben und eingezogen.
 
-
 ## § 11 Überwachung
 
 Die Kontrolle der Führer von Sportbooten, ob sie einen gültigen
@@ -563,7 +551,6 @@ der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung
 der schifffahrtspolizeilichen Vollzugsaufgaben (§ 20 Abs. 1 Nr. 5 des
 Gesetzes über die Aufgaben des Bundes auf dem Gebiet der
 Seeschifffahrt) sowie der Bundespolizei und der Zollverwaltung.
-
 
 ## § 12 Ordnungswidrigkeiten
 
@@ -607,7 +594,6 @@ vorsätzlich oder fahrlässig
 Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
 Schifffahrtsdirektionen Nord und Nordwest übertragen.
 
-
 ## § 13 Erteilung einer Fahrerlaubnis ohne Prüfung
 
 (1) Gegen Vorlage eines nach bisheriger Übung bis zum Tage der
@@ -626,11 +612,9 @@ Motorbootführerscheins oder eines sonstigen nach § 1 Abs. 1 Satz 3 Nr.
 beauftragten Verbände gemeinsam auf Antrag eine Fahrerlaubnis
 erteilen.
 
-
 ## § 14
 
 (Inkrafttreten)
-
 
 ## Anlage (zu § 1 Abs. 2)
 
@@ -703,7 +687,6 @@ Ermächtigt durch/Authorized by
 BUNDESMINISTERIUM FÜR VERKEHR, BAU- UND WOHNUNGSWESEN
 Auflagen nach § 2 Abs. 3 Sportbootführerscheinverordnung-
 See/Conditions:
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 

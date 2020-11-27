@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 2 G v. 1.6.2012 I 1224
 
-
 ## Eingangsformel
 
 Auf Grund des § 40 Abs. 1 des AZR-Gesetzes vom 2. September 1994
 (BGBl. I S. 2265) verordnet das Bundesministerium des Innern:
 
-
 ## Abschnitt 1 - Inhalt des Registers
-
-
 
 ### § 1 Inhalt der Datensätze
 
@@ -36,7 +32,6 @@ ergeben sich aus Spalte A der Abschnitte I und II der Anlage zu dieser
 Verordnung. Bei der Speicherung des Vollzugs der Abschiebung und im
 Falle der Auslieferung wird im Register auch gespeichert, seit wann
 sich der Betroffene nicht mehr im Bundesgebiet aufhält.
-
 
 ### § 2 AZR-Nummer
 
@@ -50,7 +45,6 @@ automatisch zugeordnet.
 Geschäftszeichens für Datenübermittlungen an die Registerbehörde oder
 für Übermittlungsersuchen fehlerhafte Angaben des Geschäftszeichens
 erkannt werden und keine Verarbeitung der Daten erfolgt.
-
 
 ### § 3 Berichtigung eines Datensatzes
 
@@ -68,10 +62,7 @@ des Registers Datensätze verschiedener Personen übereinstimmende oder
 nur geringfügig voneinander abweichende Grundpersonalien enthalten,
 speichert sie einen Hinweis auf die Personenverschiedenheit.
 
-
 ## Abschnitt 2 - Datenübermittlung an die Registerbehörde
-
-
 
 ### § 4 Allgemeine Regelungen
 
@@ -118,7 +109,6 @@ Speicherung der Daten im Register durch geeignete Maßnahmen gegen
 unberechtigten Zugriff zu sichern. Nach der Speicherung der Daten sind
 die Unterlagen zu vernichten.
 
-
 ### § 5 Verfahren der Datenübermittlung
 
 (1) Die öffentlichen Stellen, die Daten direkt eingeben dürfen, haben
@@ -155,7 +145,6 @@ Visumantrag in der AZR-Visadatei angelegt wurde. Die Registerbehörde
 hat programmtechnische Vorkehrungen zu treffen, dass eine Speicherung
 dieser Daten als neuer Datensatz ausgeschlossen ist.
 
-
 ### § 6 Begründungstexte
 
 (1) Die Daten, bei deren Übermittlung Begründungstexte nach § 6 Abs. 5
@@ -170,7 +159,6 @@ nach § 3 Nr. 8 des AZR-Gesetzes, daß der Begründungstext vorliegt.
 (3) Die bei der Registerbehörde aufbewahrten Begründungstexte sind
 unverzüglich zu vernichten, sobald die Daten gelöscht werden, auf die
 sie sich beziehen.
-
 
 ### § 7 Übermittlungssperren
 
@@ -244,10 +232,7 @@ Löschung der Übermittlungssperre zu vernichten. Wird ein Antrag auf
 Übermittlungssperre abgelehnt, sind die Unterlagen ein Jahr nach der
 Entscheidung zu vernichten.
 
-
 ## Abschnitt 3 - Datenübermittlung durch die Registerbehörde
-
-
 
 ### § 8 Übermittlungsersuchen
 
@@ -443,7 +428,6 @@ Aufenthaltstitel mit den im Übermittlungsersuchen angegebenen
 Grundpersonalien, Lichtbildern oder Angaben zum Ausweispapier oder
 Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
-
 ### § 9 Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz
@@ -470,7 +454,6 @@ sicherzustellen, daß im automatisierten Verfahren andere Daten als die
 Grunddaten nur abgerufen werden können, wenn die abrufende Stelle
 einen Verwendungszweck nach § 8 Abs. 3 oder 4 angibt, zu dem die Daten
 übermittelt werden dürfen.
-
 
 ### § 10 Zulassung zum Abruf im automatisierten Verfahren
 
@@ -501,7 +484,6 @@ automatisierten Verfahren zugelassenen öffentlichen Stellen und der
 getroffenen Maßnahmen. Die Registerbehörde hat die
 Zulassungsunterlagen zusammen mit dem Verzeichnis aufzubewahren sowie
 die Unterlagen gegen den Zugriff durch Unbefugte zu sichern.
-
 
 ### § 11 Gruppenauskünfte an öffentliche Stellen
 
@@ -544,7 +526,6 @@ bezeichneten Stellen ist neben der ersuchenden Stelle nur mitzuteilen,
 aus welchem der in § 12 Abs. 1 Satz 2 des AZR-Gesetzes bezeichneten
 Gründen die Gruppenauskunft erfolgt ist.
 
-
 ### § 12 Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
 
 (1) Nichtöffentliche Stellen, die nach § 25 des AZR-Gesetzes um
@@ -562,7 +543,6 @@ Verzeichnis der Stellen, denen sie Daten übermitteln darf.
 (2) Liegen die Voraussetzungen für eine Datenübermittlung nicht vor,
 teilt die Registerbehörde der ersuchenden Stelle mit, daß eine
 Auskunft nicht möglich ist.
-
 
 ### § 13 Datenübermittlung an Behörden anderer Staaten und an zwischenstaatliche Stellen
 
@@ -593,7 +573,6 @@ und 5 gilt entsprechend.
 
 (3) § 12 Abs. 2 gilt entsprechend.
 
-
 ### § 14 Datenübermittlung an sonstige nichtöffentliche Stellen
 
 (1) Sonstige nichtöffentliche Stellen im Sinne des § 27 des AZR-
@@ -604,10 +583,7 @@ Meldebehörde zu erbringen, die nicht älter als vier Wochen sein soll.
 
 (2) § 12 Abs. 2 gilt entsprechend.
 
-
 ## Abschnitt 4 - Auskunft an den Betroffenen
-
-
 
 ### § 15 Voraussetzungen und Verfahren der Auskunftserteilung
 
@@ -631,10 +607,7 @@ schriftlich niedergelegte Begründung ist mit Fristablauf zu
 vernichten, wenn sie nicht für ein bereits eingeleitetes
 Kontrollverfahren benötigt wird.
 
-
 ## Abschnitt 5 - Aufzeichnungen bei Datenübermittlungen, Sperrung und Löschung von Daten
-
-
 
 ### § 16 Aufzeichnungen bei Datenübermittlungen
 
@@ -658,7 +631,6 @@ Gesetzes sind sechs Monate nach Eingang bei der Registerbehörde zu
 vernichten, wenn sie nicht für ein bereits eingeleitetes
 Kontrollverfahren benötigt werden.
 
-
 ### § 17 Sperrung von Daten
 
 (1) Das Bestreiten der Richtigkeit gespeicherter Daten nach § 37 Abs.
@@ -677,7 +649,6 @@ gespeicherten Daten richtig sind. Geht ein Übermittlungsersuchen über
 die Grundpersonalien und die weiteren Personalien hinaus, wird der
 ersuchenden Stelle außer in den Fällen des § 37 Abs. 2 Satz 3 des AZR-
 Gesetzes nur der Hinweis auf den Sperrvermerk übermittelt.
-
 
 ### § 18 Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand
 
@@ -758,7 +729,6 @@ sind. Bereits im Register gespeicherte Angaben zum
 aufenthaltsrechtlichen Status werden durch Speicherung weiterer
 Angaben zum aufenthaltsrechtlichen Status nicht gelöscht.
 
-
 ### § 19 Löschung von Daten, Löschungsfristen in der Visadatei
 
 In der Visadatei des Registers ist der Datensatz eines Ausländers
@@ -768,10 +738,7 @@ Abs. 2 des AZR-Gesetzes gespeichert, erfolgt eine Löschung spätestens
 nach zehn Jahren. Die Fristen beginnen mit Ablauf des Vierteljahres,
 in dem letztmals Daten übermittelt worden sind.
 
-
 ## Abschnitt 6 - Schlußvorschriften
-
-
 
 ### § 20 Übergangsregelung aus Anlass des Inkrafttretens des Zuwanderungsgesetzes
 
@@ -818,7 +785,6 @@ getroffenen aufenthaltsrechtlichen Entscheidungen.
 gespeicherte Daten zur Ausstellung eines Passersatzes nach § 14 der
 Verordnung zur Durchführung des Ausländergesetzes.
 
-
 ### § 21 Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthaltsrechtlicher
@@ -831,11 +797,9 @@ Soweit bis dahin diese Daten nicht übermittelt worden sind, ist die
 zuständige Stelle verpflichtet, ihre Übermittlung unverzüglich
 nachzuholen.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
 

@@ -19,14 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 22.12.2010 I 2255
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 12 Abs. 1 Nr. 1 des Zweiten
 Vermögensrechtsänderungsgesetzes vom 14. Juli 1992 (BGBl. I S. 1257)
 verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Amtliches Verzeichnis bei ungetrennten Hofräumen
 
@@ -53,7 +50,6 @@ Grundbuch bezeichneten übereinstimmt, eine mit Siegel und Unterschrift
 versehene Bescheinigung der Behörde, deren Bescheid als amtliches
 Verzeichnis gilt.
 
-
 ## § 2 Bezeichnung des Grundstücks
 
 (1) Im Grundbuch ist das Grundstück, das dort als Anteil an einem
@@ -67,14 +63,12 @@ bezeichnet sind, kann diese Bezeichnung von Amts wegen nachgeholt
 werden. Sie ist von Amts wegen nachzuholen, wenn in dem jeweiligen
 Grundbuch eine sonstige Eintragung vorgenommen werden soll.
 
-
 ## § 3 Aufhebung früheren Rechts
 
 (1) Diese Verordnung tritt zwei Wochen nach der Verkündung in Kraft.
 Sie gilt bis zum Ablauf des 31. Dezember 2015.
 
 (2)
-
 
 ## Schlußformel
 

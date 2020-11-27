@@ -18,7 +18,6 @@ Fundstelle
 G aufgeh. durch
 :   Art. 4 Satz 2 G v. 26.6.2007 I 1160 mWv 30.6.2007
 
-
 ## § 1
 
 Das Bundesministerium für Wirtschaft und Technologie verwaltet die in
@@ -29,7 +28,6 @@ Bundesrepublik Deutschland vom 15. Dezember 1949 vom 31. Januar 1950
 Deutschland als Sondervermögen des Bundes unter dem Namen "ERP-
 Sondervermögen".
 
-
 ## § 2
 
 Das Sondervermögen dient ausschließlich dem Wiederaufbau und der
@@ -38,14 +36,12 @@ Abkommens über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten
 Staaten von Amerika und der Bundesrepublik Deutschland vom 15.
 Dezember 1949 (Bundesgesetzbl. 1950 S. 10).
 
-
 ## § 3
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
 Der allgemeine Gerichtsstand des Sondervermögens bestimmt sich nach
 dem Sitz der obersten Verwaltungsstelle.
-
 
 ## § 4
 
@@ -54,7 +50,6 @@ Rechten und Verbindlichkeiten getrennt zu halten.
 
 (2) Der Bund haftet für die Verbindlichkeiten des ERP-Sondervermögens;
 dieses haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
-
 
 ## § 5
 
@@ -85,7 +80,6 @@ Ausgabemittel hierfür im Wirtschaftsplan bewilligt worden sind oder
 die Genehmigung zum Vertragsschluß durch das Bundesministerium der
 Finanzen erteilt worden ist.
 
-
 ## § 6
 
 Das Bundesministerium für Wirtschaft und Technologie kann im
@@ -100,7 +94,6 @@ kann die Hauptleihinstitute allgemein zur Stundung von Zins- und
 Tilgungsraten oder zur Änderung der Tilgungspläne gegenüber den
 Kreditnehmern ermächtigen.
 
-
 ## § 7
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden für jedes
@@ -112,13 +105,11 @@ Verwendungszwecken gesondert anzugeben. Der Wirtschaftsplan wird vor
 Beginn des Rechnungsjahres durch Gesetz festgestellt. Er ist in
 Einnahmen und Ausgaben auszugleichen.
 
-
 ## § 8
 
 Die in dem Wirtschaftsplan des Sondervermögens vorgesehenen
 Ausgabemittel sind insoweit übertragbar, als die tatsächlich
 aufgekommenen Einnahmen nicht verwendet sind.
-
 
 ## § 9
 
@@ -135,7 +126,6 @@ und nur im Rahmen der zur Verfügung stehenden Mittel erfolgen.
 (3) Überschreitungen bzw. außerplanmäßige Ausgaben gemäß Absatz 1 und
 2 bedürfen der vorherigen Zustimmung des Bundesministeriums der
 Finanzen.
-
 
 ## § 10
 
@@ -165,7 +155,6 @@ Gesetzliche Befugnisse, die nach den Sätzen 1 und 2 dem
 Bundesministerium der Finanzen zustehen, werden von diesem und dem
 Bundesministerium für Wirtschaft und Technologie gemeinsam ausgeübt.
 
-
 ## § 11
 
 (1) Das Bundesministerium für Wirtschaft und Technologie stellt am
@@ -189,7 +178,6 @@ Bundesrat die Bemerkungen des Bundesrechnungshofs zusammen mit den
 Bemerkungen des Bundesrechnungshofs zu der Rechnung des Bundes gemäß
 Artikel 114 des Grundgesetzes vor.
 
-
 ## § 12
 
 (1) Das Bundesministerium für Wirtschaft und Technologie kann
@@ -210,11 +198,9 @@ der Ausübung des Prüfungsrechts gegenüber den durchleitenden
 Kreditinstituten und den Endkreditnehmern der Vermittlung der
 Hauptleihinstitute bedienen.
 
-
 ## § 13
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
-
 
 ## § 14
 
@@ -223,7 +209,6 @@ zuletzt geändert durch das Gesetz vom 18. Juli 1990 (BGBl. I S. 1447),
 ist auch auf das Sondervermögen anzuwenden, soweit sich aus diesem
 Gesetz nichts Abweichendes ergibt.
 
-
 ## § 15
 
 Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund, die
@@ -231,17 +216,14 @@ Länder, die Gemeinden (Gemeindeverbände) und Körperschaften des
 öffentlichen Rechts zu entrichten, finden die allgemein für
 Bundesbehörden geltenden Vorschriften Anwendung.
 
-
 ## § 16
 
 Die Durchführung dieses Gesetzes erfolgt im Einvernehmen mit den
 beteiligten Bundesministerien.
 
-
 ## § 17
 
 -
-
 
 ## § 18
 

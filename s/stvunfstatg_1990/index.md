@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 298 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -32,7 +30,6 @@ Wegen und Plätzen Personen getötet oder verletzt oder Sachschäden
 verursacht worden sind, wird laufend eine Bundesstatistik geführt. Sie
 dient dazu, eine aktuelle, umfassende und zuverlässige Datenbasis über
 Struktur und Entwicklung der Straßenverkehrsunfälle zu erstellen.
-
 
 ## § 2
 
@@ -91,13 +88,11 @@ und mehr an beweglichen oder unbeweglichen Sachen mindestens eines
 Geschädigten, die durch Unfälle oder als Folge von Unfällen nach § 1
 eingetreten sind.
 
-
 ## § 3
 
 Als Hilfsmerkmale der Statistik werden die übermittelnde
 Polizeidienststelle und ihre Tagebuch-Nummer sowie die
 Kraftfahrzeugkennzeichen der beteiligten Verkehrsmittel erfaßt.
-
 
 ## § 4
 
@@ -124,7 +119,6 @@ Güterkraftverkehrsgesetzes gilt entsprechend. Die in Satz 3 genannten
 Angaben sind im Kraftfahrt-Bundesamt spätestens einen Monat nach der
 Übermittlung der Angaben nach § 2 Abs. 1 Nr. 6 an die statistischen
 Ämter der Länder zu löschen.
-
 
 ## § 5
 
@@ -180,18 +174,15 @@ Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher
 Forschung erfolgt unter den Voraussetzungen des § 16 Abs. 6
 Bundesstatistikgesetz.
 
-
 ## § 6
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung hat durch
 Rechtsverordnung mit Zustimmung des Bundesrates den schwerwiegenden
 Unfall mit Sachschaden im Sinne des § 2 Abs. 1 näher zu bestimmen.
 
-
 ## § 7
 
 -
-
 
 ## § 8
 

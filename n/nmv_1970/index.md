@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 V v. 25.11.2003 I 2346
 
-
 ## Teil I - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich der Verordnung
 
@@ -67,10 +64,6 @@ maßgeblichen Vorschriften
 
     anzuwenden.
 
-
-
-
-
 ### § 2 Anwendung der Zweiten Berechnungsverordnung
 
 Ist zur Ermittlung der zulässigen Miete eine
@@ -79,14 +72,9 @@ berechnen oder sind die laufenden Aufwendungen zu ermitteln, so sind
 hierfür die Vorschriften der Zweiten Berechnungsverordnung in der
 jeweils geltenden Fassung anzuwenden.
 
-
 ## Teil II - Zulässige Miete für öffentlich geförderte Wohnungen
 
-
-
 ### 1. Abschnitt - Ermittlung der Kostenmiete
-
-
 
 #### § 3 Erstmalige Ermittlung der Kostenmiete
 
@@ -122,7 +110,6 @@ Gewährung der öffentlichen Mittel unterschiedliche Durchschnittsmieten
 genehmigt, so sind die Einzelmieten nach Absatz 3 jeweils auf der
 Grundlage der für die Wohnungen maßgebenden Durchschnittsmiete zu
 berechnen.
-
 
 #### § 4 Erhöhung der Kostenmiete infolge Erhöhung der laufenden Aufwendungen
 
@@ -209,7 +196,6 @@ Grund von Zinserhöhungen nach den §§ 18a bis 18f des
 Wohnungsbindungsgesetzes ist eine Mieterhöhung für einen
 zurückliegenden Zeitraum nicht zulässig.
 
-
 #### § 5 Senkung der Kostenmiete infolge Verringerung der laufenden Aufwendungen
 
 (1) Verringert sich nach der erstmaligen Ermittlung der Kostenmiete
@@ -243,7 +229,6 @@ gelegt werden. Dieser Anteil ist nach den Vorschriften der §§ 33 bis
 Teilwirtschaftlichkeitsberechnung zu ermitteln. Absatz 1 gilt
 entsprechend.
 
-
 #### § 5a Änderung der Kostenmiete infolge Änderung der Wirtschaftseinheit
 
 (1) Wird nach der erstmaligen Ermittlung der Kostenmiete eine
@@ -274,7 +259,6 @@ senken und die Mietsenkung den Mietern unverzüglich mitzuteilen; die
 Mietsenkung ist zu berechnen und entsprechend § 4 Abs. 7 Satz 2 und 3
 zu erläutern.
 
-
 #### § 6 Erhöhung der Kostenmiete wegen baulicher Änderungen
 
 (1) Hat der Vermieter für sämtliche öffentlich geförderten Wohnungen
@@ -303,7 +287,6 @@ dem Zeitpunkt an, in dem die baulichen Änderungen für sämtliche
 Wohnungen durchgeführt worden sind, tritt an die Stelle der Zuschläge
 zur Einzelmiete eine Erhöhung der Durchschnittsmiete und der
 Einzelmieten nach den Vorschriften des Absatzes 1.
-
 
 #### § 7 Kostenmiete nach Schaffung neuer Wohnungen durch Ausbau oder Erweiterung des Gebäudes
 
@@ -354,7 +337,6 @@ Wohnraum.
 (5) Die Absätze 1 bis 4 gelten entsprechend, wenn einzelne Räume
 ausgebaut worden sind, die selbständig vermietet werden.
 
-
 #### § 8 Kostenmiete nach Wohnungsvergrößerung
 
 (1) Sind sämtliche öffentlich geförderten Wohnungen durch Ausbau oder
@@ -374,7 +356,6 @@ Nr. 4 zulässig.
 
 (3) Die Vorschriften des § 4 Abs. 8 gelten entsprechend.
 
-
 #### § 8a Kostenmiete in Fällen, in denen nur noch ein Teil der Wohnungen als öffentlich gefördert gilt
 
 Gelten nach § 15 Abs. 2 Satz 2 oder § 16 Abs. 2 oder 7 des
@@ -388,7 +369,6 @@ zulässigen Ansätzen für Gesamtkosten, Finanzierungsmittel und laufende
 Aufwendungen in der Weise maßgebend, wie sie für alle bisherigen
 öffentlich geförderten Wohnungen des Gebäudes oder der
 Wirtschaftseinheit maßgeblich gewesen wären.
-
 
 #### § 9 Zusatzberechnung, Auszug aus der Wirtschaftlichkeitsberechnung
 
@@ -404,7 +384,6 @@ Wirtschaftlichkeitsberechnung auch ein Auszug aus der
 Wirtschaftlichkeitsberechnung nach § 39 Abs. 2 der Zweiten
 Berechnungsverordnung aufgestellt werden.
 
-
 #### § 10 Mieterleistungen
 
 Einmalige Leistungen des Mieters, die mit Rücksicht auf die
@@ -412,10 +391,7 @@ Einmalige Leistungen des Mieters, die mit Rücksicht auf die
 des § 9 des Wohnungsbindungsgesetzes zulässig; das gleiche gilt für
 entsprechende Leistungen eines Dritten zugunsten des Mieters.
 
-
 ### 2. Abschnitt - Ermittlung der Vergleichsmiete
-
-
 
 #### § 11 Erstmalige Bestimmung der Vergleichsmiete
 
@@ -453,7 +429,6 @@ Absatz 2.
 Vergütungen erhoben werden, soweit diese nach § 28 in Verbindung mit
 den §§ 20 bis 27 zulässig sind. § 10 gilt entsprechend.
 
-
 #### § 12 Änderung der Vergleichsmiete infolge Änderung der laufenden Aufwendungen
 
 (1) Hat sich der Gesamtbetrag der laufenden Aufwendungen gegenüber dem
@@ -485,7 +460,6 @@ Abs. 7 und 8 sowie des § 5 Abs. 1 Satz 4 entsprechend.
 Aufwendungen nach einer Änderung gemäß Absatz 1 gelten die Absätze 1
 bis 3 sinngemäß.
 
-
 #### § 13 Erhöhung der Vergleichsmiete wegen baulicher Änderungen
 
 (1) Hat der Vermieter für sämtliche öffentlich geförderten Wohnungen
@@ -508,7 +482,6 @@ entsprechend.
 
 (3) Bei baulichen Änderungen, die nur für einen Teil der Wohnungen
 vorgenommen werden, gelten die Vorschriften des § 6 Abs. 2 sinngemäß.
-
 
 #### § 14 Vergleichsmiete nach Ausbau von Zubehörräumen und Wohnungsvergrößerung
 
@@ -542,7 +515,6 @@ dem Verhältnis, in dem die bisherige Wohnfläche vergrößert worden ist.
 
 (6) Für Änderungen der nach Absatz 1, 3 oder 5 ermittelten
 Vergleichsmiete gelten die Vorschriften der §§ 12 und 13.
-
 
 #### § 15 Übergang von der Vergleichsmiete zur Kostenmiete
 
@@ -592,10 +564,7 @@ Einzelmiete gegenüber der Durchschnittsmiete ist auch bei späteren
 die zugrundeliegenden Änderungen der laufenden Aufwendungen nicht auf
 die Wohnung beziehen, deren Einzelmiete zu errechnen ist.
 
-
 ## Teil III - Zulässige Miete für preisgebundene steuerbegünstigte und frei finanzierte Wohnungen
-
-
 
 ### § 16 Ermittlung der Kostenmiete für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert sind
 
@@ -659,7 +628,6 @@ Wohnungsfürsorgemittel zuständigen Stelle, wonach die Modernisierung,
 der Ausbau von Zubehörräumen oder Wohnungsvergrößerungen der
 Genehmigung bedürfen, bleiben unberührt.
 
-
 ### § 17 Ermittlung der Kostenmiete für Wohnungen, die mit Aufwendungszuschüssen oder Aufwendungsdarlehen gefördert sind
 
 (1) Wird für steuerbegünstigte Wohnungen, die mit
@@ -707,7 +675,6 @@ nach § 88 des Zweiten Wohnungsbaugesetzes in der bis zum 31. Dezember
 1971 geltenden Fassung gefördert worden und nach dem 31. Dezember 1966
 bezugsfertig geworden sind.
 
-
 ### § 18 Ermittlung der Vergleichsmiete für Wohnungen, die mit Aufwendungszuschüssen oder Aufwendungsdarlehen gefördert sind
 
 (1) Die Vergleichsmiete für steuerbegünstigte Wohnungen in Eigenheimen
@@ -744,15 +711,11 @@ nach § 88 des Zweiten Wohnungsbaugesetzes in der bis zum 31. Dezember
 1971 geltenden Fassung gefördert worden und nach dem 31. Dezember 1966
 bezugsfertig geworden sind.
 
-
 ### § 19
 
 (weggefallen)
 
-
 ## Teil IV - Umlagen, Zuschläge und Vergütungen
-
-
 
 ### § 20 Umlagen neben der Einzelmiete
 
@@ -791,7 +754,6 @@ Nachforderung von Betriebskosten gilt § 4 Abs. 7 und 8 entsprechend.
 Eine Erhöhung der Vorauszahlungen für einen zurückliegenden Zeitraum
 ist nicht zulässig.
 
-
 ### § 21 Umlegung der Kosten der Wasserversorgung und der Entwässerung
 
 (1) Zu den Kosten der Wasserversorgung gehören die Kosten des
@@ -820,7 +782,6 @@ Benutzung einer öffentlichen Entwässerungsanlage oder die Kosten des
 Betriebs einer entsprechenden nicht öffentlichen Anlage sowie die
 Kosten des Betriebs einer Entwässerungspumpe. Die Kosten sind mit dem
 Maßstab nach Absatz 2 umzulegen.
-
 
 ### § 22 Umlegung der Kosten der Versorgung mit Wärme und Warmwasser
 
@@ -856,7 +817,6 @@ geworden sind, bei verbundenen Anlagen die Kosten für die Versorgung
 mit Wärme und Warmwasser am 30. April 1984 unaufgeteilt umgelegt,
 bleibt dies weiterhin zulässig.
 
-
 ### § 22a Umlegung der Kosten der Müllbeseitigung
 
 (1) Zu den Kosten der Müllbeseitigung gehören namentlich die für die
@@ -870,7 +830,6 @@ und Aufteilung.
 unterschiedlichen Müllverursachung durch die Wohnparteien Rechnung
 trägt, oder nach dem Verhältnis der Wohnflächen umzulegen.
 
-
 ### § 23 Umlegung der Kosten des Betriebs der zentralen Brennstoffversorgungsanlage
 
 (1) Zu den Kosten des Betriebs der zentralen
@@ -882,16 +841,13 @@ und des Betriebsraumes.
 (2) Die Kosten dürfen nur nach dem Brennstoffverbrauch umgelegt
 werden.
 
-
 ### § 23a
 
 (weggefallen)
 
-
 ### § 23b
 
 (weggefallen)
-
 
 ### § 24 Umlegung der Kosten des Betriebs von Aufzügen
 
@@ -906,7 +862,6 @@ Reinigung der Anlage.
 werden, sofern nicht im Einvernehmen mit allen Mietern ein anderer
 Umlegungsmaßstab vereinbart ist. Wohnraum im Erdgeschoß kann von der
 Umlegung ausgenommen werden.
-
 
 ### § 24a Umlegung der Kosten des Betriebs der mit einem Breitbandkabelnetz verbundenen privaten Verteilanlage und der Gemeinschafts-Antennenanlage
 
@@ -929,7 +884,6 @@ nach Absatz 1 Satz 3 dürfen nur zu gleichen Teilen auf die Wohnungen
 umgelegt werden, die mit Zustimmung des Nutzungsberechtigten
 angeschlossen worden sind.
 
-
 ### § 25 Umlegung der Betriebs- und Instandhaltungskosten der Einrichtungen für die Wäschepflege
 
 (1) Zu den Kosten des Betriebs der Einrichtungen für die Wäschepflege
@@ -947,7 +901,6 @@ werden. Der Umlegungsmaßstab muß dem Gebrauch Rechnung tragen.
 (3) Vorauszahlungen auf den voraussichtlichen Umlegungsbetrag sind
 nicht zulässig.
 
-
 ### § 25a Umlageausfallwagnis
 
 Das Umlageausfallwagnis ist das Wagnis einer Einnahmenminderung, die
@@ -960,11 +913,9 @@ entfallenden Betriebskosten nicht übersteigen. Soweit die Deckung von
 Ausfällen anders, namentlich durch einen Anspruch gegenüber einem
 Dritten gesichert ist, darf die Umlage nicht erhöht werden.
 
-
 ### § 25b
 
 (weggefallen)
-
 
 ### § 26 Zuschläge neben der Einzelmiete
 
@@ -1062,7 +1013,6 @@ gegenüber dem Mieter gilt § 4 Abs. 7 und 8 entsprechend. Für den
 Wegfall oder die Verringerung des Zuschlags gilt § 5 Abs. 1 Satz 4
 sinngemäß.
 
-
 ### § 27 Vergütungen neben der Einzelmiete
 
 Neben der Einzelmiete kann der Vermieter für die Überlassung einer
@@ -1072,16 +1022,12 @@ Einrichtungs- und Ausstattungsgegenständen und für laufende Leistungen
 zur persönlichen Betreuung und Versorgung, wenn die zuständige Stelle
 dies genehmigt hat.
 
-
 ### § 28 Umlagen, Zuschläge und Vergütungen neben der Vergleichsmiete
 
 Neben der Vergleichsmiete sind Umlagen, Zuschläge und Vergütungen
 entsprechend den Vorschriften der §§ 20 bis 27 zulässig.
 
-
 ## Teil V - Schlußvorschriften
-
-
 
 ### § 29 Auskunftspflicht des Vermieters
 
@@ -1096,7 +1042,6 @@ Liegt der zuletzt zulässigen Miete eine Genehmigung der
 Bewilligungsstelle zugrunde, so kann er auch die Vorlage der
 Genehmigung oder einer Ablichtung davon verlangen.
 
-
 ### § 30 Entsprechende Anwendung der Mietvorschriften
 
 Die Vorschriften dieser Verordnung über die zulässige Miete für
@@ -1105,7 +1050,6 @@ vermietet werden, und für Wohnungen, die auf Grund eines dem
 Mietverhältnis ähnlichen entgeltlichen Nutzungsverhältnisses,
 insbesondere eines genossenschaftlichen Nutzungsverhältnisses,
 überlassen werden.
-
 
 ### § 31 Zulässige Miete für Untervermietung
 
@@ -1136,7 +1080,6 @@ entsprechend. Die Vorschriften des § 4 Abs. 7 und des § 5 Abs. 1 Satz
 der sonst Verfügungsberechtigte von der von ihm benutzten Wohnung mehr
 als die Hälfte der Wohnfläche vermietet.
 
-
 ### § 32 Vom Rechtsnachfolger zu vertretende Umstände
 
 Soweit nach dieser Verordnung die Höhe der zulässigen Miete davon
@@ -1145,11 +1088,9 @@ der Vermieter zu vertreten oder nicht zu vertreten hat, stehen solche
 Umstände gleich, die ein Rechtsvorgänger des Vermieters, insbesondere
 der Bauherr, zu vertreten oder nicht zu vertreten hatte.
 
-
 ### § 33
 
 (weggefallen)
-
 
 ### § 34 Überleitungsvorschrift
 
@@ -1168,7 +1109,6 @@ zum 29. August 1990 geltenden Fassung anzuwenden.
 
 (3) (weggefallen)
 
-
 ### § 35 Sondervorschrift für Berlin
 
 Im Land Berlin gilt § 1 Abs. 1 der Verordnung in folgender Fassung:
@@ -1176,18 +1116,15 @@ Im Land Berlin gilt § 1 Abs. 1 der Verordnung in folgender Fassung:
 nach dem 24. Juni 1948 bezugsfertig geworden sind oder bezugsfertig
 werden."
 
-
 ### § 36 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 33a des Wohnungsbindungsgesetzes und § 125 des
 Zweiten Wohnungsbaugesetzes auch im Land Berlin.
 
-
 ### § 37 Geltung im Saarland
 
 Diese Verordnung gilt nicht im Saarland.
-
 
 ### § 38 (Inkrafttreten)
 

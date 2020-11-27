@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 16.9.2009 I 3041
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 4 Satz 1 bis 3 des Pfandbriefgesetzes vom 22.
@@ -33,10 +31,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
 dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände der
 Kreditwirtschaft:
 
-
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -45,14 +40,12 @@ Pfandbriefgesetzes und bei der Erhebung der für die Wertermittlung
 erforderlichen Daten sind die Vorschriften dieser Verordnung
 anzuwenden.
 
-
 ### § 2 Gegenstand der Wertermittlung
 
 Gegenstand der Beleihungswertermittlung ist das Grundstück,
 grundstücksgleiche Recht oder vergleichbare Recht einer ausländischen
 Rechtsordnung, das mit dem Grundpfandrecht belastet ist oder belastet
 werden soll.
-
 
 ### § 3 Grundsatz der Beleihungswertermittlung
 
@@ -69,7 +62,6 @@ langfristigen, nachhaltigen Merkmale des Objekts, der normalen
 regionalen Marktgegebenheiten sowie der derzeitigen und möglichen
 anderweitigen Nutzungen im Rahmen einer vorsichtigen Bewertung
 zugrunde zu legen.
-
 
 ### § 4 Verfahren zur Ermittlung des Beleihungswerts
 
@@ -132,10 +124,7 @@ fertig gestellten Objekts unter dessen Sachwert liegt, darf der
 Zustandswert den anteiligen Ertragswert, der prozentual dem jeweiligen
 Bautenstand entspricht, nicht überschreiten.
 
-
 ## Teil 2 - Gutachten und Gutachter
-
-
 
 ### § 5 Gutachten
 
@@ -185,7 +174,6 @@ Duldungspflichten, Vorkaufsrechte, Baulasten und alle sonstigen
 Beschränkungen und Lasten sind zu nennen, zu beachten und
 gegebenenfalls wertmindernd zu berücksichtigen.
 
-
 ### § 6 Gutachter
 
 Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit
@@ -200,7 +188,6 @@ langjähriger Berufserfahrung in der Wertermittlung von Immobilien
 speziell über die zur Erstellung von Beleihungswertgutachten
 notwendigen Kenntnisse, insbesondere bezüglich des jeweiligen
 Immobilienmarkts und der Objektart, verfügt.
-
 
 ### § 7 Unabhängigkeit des Gutachters
 
@@ -224,14 +211,9 @@ der Pfandbriefbank zugeordnet sind, in dem Immobilienkreditgeschäfte
 entweder angebahnt oder zum Gegenstand des einzigen Votums gemacht
 werden.
 
-
 ## Teil 3 - Wertermittlungsverfahren
 
-
-
 ### Abschnitt 1 - Ertragswertverfahren
-
-
 
 #### § 8 Grundlagen der Ertragswertermittlung
 
@@ -242,7 +224,6 @@ Anlage, getrennt von dem Bodenwert, nach den §§ 9 bis 12 zu ermitteln.
 
 (3) Bodenwert und Ertragswert der baulichen Anlage ergeben
 vorbehaltlich § 13 den Ertragswert des Beleihungsobjekts.
-
 
 #### § 9 Ermittlung des Ertragswerts der baulichen Anlage
 
@@ -264,7 +245,6 @@ baurechtlicher Hinsicht nachvollziehbar darzulegen.
 
 (3) Der nach Absatz 2 verminderte Reinertrag ist nach § 12 zu
 kapitalisieren.
-
 
 #### § 10 Rohertrag
 
@@ -289,7 +269,6 @@ erzielbarer Umsätze pro Zimmer oder Bett herzuleiten.
 besonders zu prüfen, ob aufgrund der jeweiligen Marktlage eine
 Vermietung überhaupt oder zu den angesetzten Mietpreisen in absehbarer
 Zeit noch zu erwarten ist.
-
 
 #### § 11 Bewirtschaftungskosten
 
@@ -351,7 +330,6 @@ den Instandhaltungskosten zur Aufrechterhaltung der Marktgängigkeit
 und der dauerhaften Sicherung des Mietausgangsniveaus notwendig sind,
 bilden das Modernisierungsrisiko nach Absatz 1 Satz 2. Sie sind als
 prozentualer Anteil an den Neubaukosten darzustellen.
-
 
 #### § 12 Kapitalisierung der Reinerträge
 
@@ -427,7 +405,6 @@ erfüllt sind:
 Ein Unterschreiten nach Satz 3 bedarf im Gutachten der besonderen,
 nachvollziehbaren Begründung.
 
-
 #### § 13 Ermittlung des Ertragswerts in besonderen Fällen
 
 (1) Verbleibt bei der Minderung des Reinertrags um den
@@ -452,17 +429,13 @@ Bodenwerts zugrunde gelegten Annahmen zu begründen und die
 Voraussetzungen für eine Ersatzbebauung und die dafür gegebenenfalls
 notwendigen Aufwendungen besonders darzulegen.
 
-
 ### Abschnitt 2 - Sachwertverfahren
-
-
 
 #### § 14 Grundlagen der Sachwertermittlung
 
 Der Sachwert des Beleihungsobjekts setzt sich aus dem Bodenwert und
 dem nach § 16 zu ermittelnden Wert der baulichen Anlage zusammen. Zu
 der baulichen Anlage gehören auch die Außenanlagen.
-
 
 #### § 15 Bodenwert
 
@@ -495,7 +468,6 @@ der baulichen Anlage gehören auch die Außenanlagen.
 (2) Der Bodenwert ist nach Quadratmetern der Grundstücksfläche
 anzusetzen. Bei der Ermittlung des Bodenwerts darf keine höherwertige
 Nutzung als zulässig zugrunde gelegt werden.
-
 
 #### § 16 Wert der baulichen Anlage
 
@@ -542,7 +514,6 @@ Werterhöhung entspricht. Der Ansatz von Baunebenkosten ist auf bis zu
 20 Prozent des nach Absatz 2 verminderten Herstellungswerts
 beschränkt.
 
-
 #### § 17 Wertminderung wegen Alters
 
 (1) Die Wertminderung wegen Alters bestimmt sich nach dem Verhältnis
@@ -560,7 +531,6 @@ der Bestimmung der Wertminderung wegen Alters die geänderte
 Restnutzungsdauer und die für die bauliche Anlage übliche
 Nutzungsdauer zugrunde gelegt werden.
 
-
 #### § 18 Berücksichtigung sonstiger wertbeeinflussender Umstände
 
 Sonstige nach den §§ 16 und 17 noch nicht erfasste, den Wert
@@ -570,10 +540,7 @@ und ein erhebliches Abweichen der tatsächlichen von der vorgesehenen
 Nutzung, sind durch Zu- oder Abschläge oder in anderer geeigneter
 Weise zu berücksichtigen.
 
-
 ### Abschnitt 3 - Vergleichswertverfahren
-
-
 
 #### § 19 Ermittlung des Vergleichswerts
 
@@ -594,10 +561,7 @@ Stellplätzen aus der Vervielfachung des Vergleichspreises für einen
 Stellplatz mit der Anzahl der zu bewertenden Stellplätze; Absatz 1
 Satz 2 gilt entsprechend.
 
-
 ### Abschnitt 4 - Besonderheiten bei einzelnen Objekten
-
-
 
 #### § 20 Bauland
 
@@ -608,7 +572,6 @@ Altlasten ist im Gutachten Stellung zu nehmen. Nur gesichertes
 Bebauungsrecht darf berücksichtigt werden. Der Wertansatz ist unter
 Berücksichtigung der vorgefundenen Grundstücksmerkmale aus geeigneten
 Vergleichswerten abzuleiten. § 15 Abs. 2 ist entsprechend anzuwenden.
-
 
 #### § 21 Erbbaurechte und andere grundstücksgleiche Rechte
 
@@ -622,7 +585,6 @@ angemessen verwertbar erscheint. Die Regelung gilt für andere
 grundstücksgleiche Rechte und solche Rechte einer ausländischen
 Rechtsordnung, die den grundstücksgleichen Rechten deutschen Rechts
 vergleichbar sind, entsprechend.
-
 
 #### § 22 Landwirtschaftlich genutzte Grundstücke
 
@@ -647,7 +609,6 @@ beigemessen werden, wenn sie selbständig und auch außerhalb des
 jeweiligen landwirtschaftlichen Betriebs genutzt werden können. § 4
 Abs. 4 ist entsprechend anzuwenden.
 
-
 #### § 23 Maschinen und Betriebseinrichtungen
 
 Maschinen und Betriebseinrichtungen sind bei der Ermittlung des
@@ -659,7 +620,6 @@ einer normalen Abschreibung und ausreichender Abschläge für Abnutzung
 und technische Entwertung gesondert zu schätzen. Sofern bei Maschinen
 infolge der technischen Entwicklung mit einer schnellen Überalterung
 zu rechnen ist, können diese wertmäßig nicht angesetzt werden.
-
 
 #### § 24 Wohnwirtschaftlich genutzte Objekte bei Vergabe von Kleindarlehen
 
@@ -768,10 +728,7 @@ Absatz 1 Satz 3 in Verbindung mit Absatz 2 Satz 1 und 2 durchzuführen.
 Die Wertermittlungen nach Satz 1 sind in die nach Absatz 2 Satz 3
 vorzunehmende Überprüfung einzubeziehen.
 
-
 ### Abschnitt 5 - Im Ausland belegene Objekte
-
-
 
 #### § 25 Beleihungen im Ausland
 
@@ -819,10 +776,7 @@ vorgeschriebene Mindestabzug auch in Form eines ergebnisgleichen
 Äquivalents durch Ansatz eines erhöhten Kapitalisierungszinssatzes
 erfolgen.
 
-
 ### Abschnitt 6 - Überprüfung der Beleihungswertermittlung
-
-
 
 #### § 26 Überprüfung der Grundlagen der Beleihungswertermittlung
 
@@ -840,10 +794,7 @@ Beleihungswert ist bei Bedarf zu mindern.
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung
 zur Überprüfung des Beleihungswerts besteht, bleibt diese unberührt.
 
-
 ## Teil 4 - Schlussvorschriften
-
-
 
 ### § 27 Bezugsquelle der DIN-Norm
 
@@ -851,11 +802,9 @@ Die in § 6 Satz 1 genannte DIN-Norm ist im Beuth Verlag GmbH, Berlin
 erschienen und im Deutschen Patent- und Markenamt in München
 archivmäßig gesichert niedergelegt.
 
-
 ### § 28 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ### Anlage 1 (zu § 11 Abs. 2) Bandbreite der Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten
 
@@ -958,10 +907,6 @@ d)  sehr hohes Modernisierungsrisiko
     Hotels und Einzelhandelsobjekte mit besonders hohem Standard): 0,75%
     bis 3%
 
-
-
-
-
 ### Anlage 2 (zu § 12 Abs. 2) Erfahrungssätze für die Nutzungsdauer baulicher Anlagen
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1183
@@ -1024,13 +969,6 @@ B)  Gewerbliche Nutzung (in Deutschland belegene Objekte):
     j)  Tankstellen:
 
         10 bis 30 Jahre
-
-
-
-
-
-
-
 
 ### Anlage 3 (zu § 12 Abs. 4) Bandbreiten für Kapitalisierungszinssätze
 
@@ -1109,13 +1047,6 @@ B)  Gewerbliche Nutzung (in Deutschland belegene Objekte):
     m)  Produktionsgebäude:
 
         7,0% bis 9,0%
-
-
-
-
-
-
-
 
 ### Anlage 4 (zu § 12 Abs. 1) Vervielfältigertabelle
 

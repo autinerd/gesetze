@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 205
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Brandenburg und dem Land Mecklenburg-Vorpommern

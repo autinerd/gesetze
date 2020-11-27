@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2001, 733
 
-
-
 ## Art 1
 
 Dem in Prag am 2. Februar 2000 unterzeichneten Vertrag zwischen der
@@ -28,14 +26,12 @@ Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in
 Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung
 wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne von
 Artikel 23 des Vertrags nur insoweit befugt, als sie nach
 innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen
 können.
-
 
 ## Art 3
 
@@ -45,7 +41,6 @@ werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
 bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
 Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
-
 
 ## Art 4
 

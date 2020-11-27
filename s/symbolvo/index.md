@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3870
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom 31.
 Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Akkreditierungssymbol
 
@@ -40,19 +38,16 @@ möglich.
 Konformitätsbewertungsstelle unterhalb des ausgeschriebenen Namens der
 Akkreditierungsstelle anzugeben.
 
-
 ## § 2 Schutz des Akkreditierungssymbols
 
 Das Zeichen der Akkreditierungsstelle wird als Marke beim Deutschen
 Patent- und Markenamt angemeldet.
-
 
 ## § 3 Gestattung der Verwendung des Akkreditierungssymbols
 
 Die Akkreditierungsstelle gestattet einer Konformitätsbewertungsstelle
 auf Antrag, das auf ihre Akkreditierung hinweisende
 Akkreditierungssymbol zu verwenden.
-
 
 ## § 4 Verwendung des Akkreditierungssymbols
 
@@ -74,7 +69,6 @@ der gesamten Dauer der Akkreditierung.
 korrekte Verwendung des Akkreditierungssymbols. Bei Missbrauch des
 Akkreditierungssymbols kann die Akkreditierungsstelle die Gestattung
 der Verwendung des Akkreditierungssymbols widerrufen.
-
 
 ## § 5 Inkrafttreten
 

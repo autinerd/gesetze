@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 2034, 2037
 
-
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz gilt, soweit Absatz 2 nichts anderes bestimmt, für
@@ -26,7 +24,6 @@ sind.
 (2) Für Leistungen nach Landesrecht, die Subventionen im Sinne des §
 264 des Strafgesetzbuches sind, gelten die §§ 2 bis 6 nur, soweit das
 Landesrecht dies bestimmt.
-
 
 ## § 2 Bezeichnung der subventionserheblichen Tatsachen
 
@@ -64,7 +61,6 @@ Aufklärung zur Beseitigung der Zweifel notwendig erscheint,
 nachträglich als subventionserheblich im Sinne des § 264 des
 Strafgesetzbuches zu bezeichnen.
 
-
 ## § 3 Offenbarungspflicht bei der Inanspruchnahme von Subventionen
 
 (1) Der Subventionsnehmer ist verpflichtet, dem Subventionsgeber
@@ -80,7 +76,6 @@ durch Gesetz oder durch den Subventionsgeber im Hinblick auf eine
 Subvention beschränkt ist, entgegen der Verwendungsbeschränkung
 verwenden will, hat dies rechtzeitig vorher dem Subventionsgeber
 anzuzeigen.
-
 
 ## § 4 Scheingeschäfte, Mißbrauch von Gestaltungsmöglichkeiten
 
@@ -105,7 +100,6 @@ Voraussetzungen einer Subvention oder eines Subventionsvorteils in
 einer dem Subventionszweck widersprechenden Weise künstlich geschaffen
 werden.
 
-
 ## § 5 Herausgabe von Subventionsvorteilen
 
 (1) Wer einen Gegenstand oder eine Geldleistung, deren Verwendung
@@ -124,7 +118,6 @@ nicht kannte.
 (3) Besonders bestehende Verpflichtungen zur Herausgabe bleiben
 unberührt.
 
-
 ## § 6 Anzeige bei Verdacht eines Subventionsbetrugs
 
 Gerichte und Behörden von Bund, Ländern und kommunalen Trägern der
@@ -132,13 +125,11 @@ Gerichte und Behörden von Bund, Ländern und kommunalen Trägern der
 und die den Verdacht eines Subventionsbetrugs begründen, den
 Strafverfolgungsbehörden mitzuteilen.
 
-
 ## § 7 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 8 Inkrafttreten
 

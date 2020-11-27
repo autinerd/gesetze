@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 489 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und Abs. 2 Nr. 2 bis 4, der §§ 3, 5 Abs. 1,
 des § 19 Abs. 8 und des § 29 des Verkehrssicherstellungsgesetzes in
 der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -39,7 +37,6 @@ Seeschiffahrt erbracht werden können.
 
 (2) Seeschiffe im Sinne dieser Verordnung sind die Seeschiffe, die
 berechtigt sind, die Bundesflagge zu führen.
-
 
 ## § 2
 
@@ -61,17 +58,12 @@ geeignet sind,
 3.  beim Fahren in Geleitzügen auch ohne Funkverkehr bei jedem Wetter
     Verbindung zu anderen Schiffen zu halten.
 
-
-
-
-
 ## § 3
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster von
 Seeschiffen verpflichten, ihre Seeschiffe zur Sicherung bei der
 Ausführung von Seereisen entmagnetisieren zu lassen
 (Fremdentmagnetisierung).
-
 
 ## § 4
 
@@ -87,7 +79,6 @@ zuständigen Stellen an sie gestellt werden. Dies gilt auch für die
 Forderung, bestimmte Seegebiete zu meiden oder bestimmte Seewege zu
 benutzen sowie Fernmelde- und Ortungsmittel in bestimmter Weise zu
 benutzen.
-
 
 ## § 5
 
@@ -130,13 +121,11 @@ angelaufenen Hafen zu richten.
 das Seeschiff anfordern, wenn dies im Interesse der Sicherheit oder
 des weiteren Einsatzes des Seeschiffs erforderlich ist.
 
-
 ## § 6
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster verpflichten,
 bei der Beladung des Seeschiffs eine bestimmte Reihenfolge zu beachten
 und eine bestimmte Ladezeit einzuhalten.
-
 
 ## § 7
 
@@ -154,7 +143,6 @@ Verpflichtungen vornehmen, im übrigen die Seeverkehrsbehörden.
 beim Güterumschlag und bei der Abfertigung des Seeschiffs die Ablader,
 Ladungsempfänger oder deren Beauftragte verpflichtet werden.
 
-
 ## § 8
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster von
@@ -163,7 +151,6 @@ Liegeplätzen, Umschlagsstellen und sonstigen Umschlagsanlagen im
 Geltungsbereich des Verkehrssicherstellungsgesetzes so besetzt und
 bemannt zu halten, daß sie jederzeit auslaufen können. Dies gilt
 nicht, wenn die Seeschiffe aufgelegt sind.
-
 
 ## § 9
 
@@ -179,7 +166,6 @@ oder sonstige rechtsgeschäftliche Überlassung die Sicherstellung der
 für Zwecke der Verteidigung erforderlichen lebenswichtigen
 Verkehrsleistungen gefährdet wird.
 
-
 ## § 10
 
 Anstelle der Reeder oder Ausrüster können die Führer von Seeschiffen
@@ -191,7 +177,6 @@ ihren Zweck gefährdende Verzögerung möglich ist. Außer in den Fällen
 des § 8 können die Schiffsführer auch dann verpflichtet werden, wenn
 sich ihr Seeschiff außerhalb deutscher Häfen oder der
 Bundeswasserstraßen befindet.
-
 
 ## § 11
 
@@ -213,10 +198,6 @@ Wasser- und Schiffahrtsdirektionen. Zuständig sind
 3.  im übrigen das Bundesministerium für Verkehr, Bau und
     Stadtentwicklung.
 
-
-
-
-
 ## § 12
 
 Diese Verordnung gilt mit Ausnahme der §§ 2, 3 und 5 auch für
@@ -224,7 +205,6 @@ Binnenschiffe, die im Binnenschiffsregister eines deutschen Gerichts
 eingetragen sind, wenn sie auf Wasserflächen seewärts der Grenze der
 Seefahrt zur Güterbeförderung verwendet werden und mehr als 15 t
 Tragfähigkeit haben.
-
 
 ## § 13
 
@@ -235,7 +215,6 @@ zum Gebrauch in Anspruch genommen oder ohne Mannschaft gechartert
 worden sind. Auf die übrigen Schiffe des Bundes und der Länder sowie
 die Schiffe der Organisationen des Zivilschutzes findet nur § 4 dieser
 Verordnung Anwendung.
-
 
 ## § 14
 
@@ -318,10 +297,6 @@ Verkehrssicherstellungsgesetzes ist
 
 3.  in allen übrigen Fällen die Behörde, die die Verpflichtung erlassen
     hat.
-
-
-
-
 
 ## § 15
 

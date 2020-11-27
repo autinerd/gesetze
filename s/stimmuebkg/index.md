@@ -15,20 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 34
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
 Dem in Basel am 16. Mai 1972 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Übereinkommen über Staatenimmunität wird
 zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -48,12 +44,10 @@ Rechte für sich ableitet, sowie in jedem Fall von der Bundesrepublik
 Deutschland oder dem von der Entscheidung betroffenen Bundesland
 erhoben werden.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

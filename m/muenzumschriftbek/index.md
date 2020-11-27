@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1950, Nr 88
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des

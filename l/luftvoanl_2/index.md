@@ -21,17 +21,13 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 18.1.2010 I 11
 
-
 ## 1. - Not- und Dringlichkeitssignale
-
-
 
 ### § 1 Wahl der anzuwendenden Signale
 
 Der Führer eines Luftfahrzeugs darf in einer Notlage jedes verfügbare
 Mittel benutzen, um sich bemerkbar zu machen, seinen Standort
 bekanntzugeben und Hilfe herbeizurufen.
-
 
 ### § 2 Notsignale
 
@@ -52,10 +48,6 @@ Hilfe angefordert wird:
 
 
 4.  ein Leuchtfallschirm mit rotem Licht.
-
-
-
-
 
 ### § 3 Dringlichkeitssignale
 
@@ -86,13 +78,7 @@ Fahrzeugs oder über Personen an Bord oder in Sicht abzugeben hat:
 2.  ein durch Sprechfunk gegebenes Signal, das aus dem gesprochenen Wort
     "PANPAN" besteht.
 
-
-
-
-
 ## 2. - Warnsignale
-
-
 
 ### § 4
 
@@ -108,10 +94,7 @@ ist, in eines dieser Gebiete einzufliegen.
 (2) Der Luftfahrzeugführer hat die erforderlichen Vorsichtsmaßnahmen
 zu ergreifen und das Gebiet unverzüglich zu verlassen.
 
-
 ## 3. - Signale für den Flugplatzverkehr
-
-
 
 ### § 5 Lichtsignale
 
@@ -226,10 +209,6 @@ diese wie folgt zu bestätigen:
 
 2.  zwischen Sonnenuntergang und Sonnenaufgang durch zweimaliges Ein- und
     Ausschalten der Landescheinwerfer oder der Positionslichter.
-
-
-
-
 
 ### § 6 Bodensignale
 
@@ -423,10 +402,6 @@ diese wie folgt zu bestätigen:
     Bedeutung:
 
     Am Flugplatz wird Segelflugbetrieb durchgeführt.
-
-
-
-
 
 ### § 7 Zeichen des Einwinkers
 
@@ -788,10 +763,6 @@ bis 20 für Drehflügler bestimmt sind:
         Rechter Arm befindet sich an der Körperseite, der linke Arm in einem
         45 Grad Winkel über Kopfhöhe. Rechter Arm wird in einer schwingenden
         Bewegung zum oberen Teil der linken Schulter geführt.
-
-
-
-
 
 ### § 8 Zeichen des Luftfahrzeugführers
 

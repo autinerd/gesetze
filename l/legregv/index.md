@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1969
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 Nr. 2, 3 und 4 des
 Legehennenbetriebsregistergesetzes vom 12. September 2003 (BGBl. I S.
 1894) verordnet das Bundesministerium für Verbraucherschutz, Ernährung
 und Landwirtschaft:
-
 
 ## § 1 Freiwillige Registrierung
 
@@ -37,7 +34,6 @@ Vorschriften für einen nach Satz 1 registrierten Betrieb.
 Ende des auf den Antrag folgenden Kalendermonats aus dem Register zu
 löschen. Die diesen Betrieb betreffenden Daten sind für die Dauer von
 drei Jahren aufzubewahren.
-
 
 ## § 2 Betriebsnummer, Stallnummer
 
@@ -103,7 +99,6 @@ Betriebsnummer nach Absatz 1 zuzuteilen. Die zweite Betriebsnummer
 soll fortlaufend zur ersten Betriebsnummer erteilt werden. Für die
 Stallnummer gilt Absatz 2.
 
-
 ## § 3 Kennnummer
 
 Die nach § 4 des Legehennenbetriebsregistergesetzes zu vergebende
@@ -132,14 +127,9 @@ folgt zu verwenden:
 
 6.  zwölfte Stelle: Stallnummer nach § 2 Abs. 2.
 
-
-
-
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1657
 
-
-
 ## § 1 Übertragung des Vermögens der Deutschen Ausgleichsbank
 
 (1) Das Vermögen der Deutschen Ausgleichsbank einschließlich aller
@@ -30,7 +28,6 @@ nicht statt.
 Geschäfte der Deutschen Ausgleichsbank nach Maßgabe des Gesetzes über
 die Kreditanstalt für Wiederaufbau.
 
-
 ## § 2 Kapitalrücklage
 
 (1) Die Kreditanstalt für Wiederaufbau weist das von der Deutschen
@@ -39,7 +36,6 @@ aus.
 
 (2) Das Nähere regeln die Bundesrepublik Deutschland und die
 Kreditanstalt für Wiederaufbau durch Vertrag.
-
 
 ## § 3 Haftung des Bundes
 
@@ -50,7 +46,6 @@ und für andere Kredite an die Bank sowie für Kredite an Dritte,
 
 soweit sie von der Bank ausdrücklich gewährleistet werden, besteht
 fort.
-
 
 ## § 4 Neuregelung der Rechtsverhältnisse der Beschäftigten der Deutschen Ausgleichsbank
 
@@ -79,7 +74,6 @@ das private Bankgewerbe und die öffentlichen Banken und als Zeiten der
 Betriebszugehörigkeit bei der Kreditanstalt für Wiederaufbau werden
 die Zeiten angerechnet, die die Beschäftigten bei der Deutschen
 Ausgleichsbank verbracht haben.
-
 
 ## § 5 Neuregelung der betrieblichen Altersversorgung für die Beschäftigten der Deutschen Ausgleichsbank
 
@@ -149,7 +143,6 @@ der jeweils geltenden Satzung fortgeführt. Die Verpflichtung ist
 beschränkt auf das bis zur Verschmelzung mit der Kreditanstalt für
 Wiederaufbau erreichte Einkommensniveau.
 
-
 ## § 6 Rechtsverhältnis zur Versorgungsanstalt des Bundes und der Länder
 
 Sofern für ehemalige Beschäftigte der Deutschen Ausgleichsbank die
@@ -157,7 +150,6 @@ Pflichtversicherung bei der Versorgungsanstalt des Bundes und der
 Länder weitergeführt wird, begründet dies keine Verpflichtung der
 Kreditanstalt für Wiederaufbau, andere Beschäftigte bei der
 Versorgungsanstalt des Bundes und der Länder zu versichern.
-
 
 ## § 7 Übergangsmandat des örtlichen Personalrates Bonn
 
@@ -168,13 +160,11 @@ für Wiederaufbau hätte. Dieses Übergangsmandat endet spätestens mit
 Wirksamkeit der nächsten Wahlen zum Personalrat in der Kreditanstalt
 für Wiederaufbau.
 
-
 ## § 8 Kostenfreiheit
 
 Für die im Zusammenhang mit dem Vollzug dieses Gesetzes stehenden
 Amtshandlungen sind Gerichtskosten nach dem Ersten Teil der
 Kostenordnung nicht zu erheben.
-
 
 ## § 9 Rückwirkung
 

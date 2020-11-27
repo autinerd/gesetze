@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 54 (526)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 1 in Verbindung mit Abs. 2 der
@@ -30,7 +28,6 @@ November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -100,7 +97,6 @@ zu können:
 Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte
 Gestaltungsberaterin im Raumausstatter-Handwerk.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
@@ -126,7 +122,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben worden sind, die die Zulassung zur
 Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung, Struktur und integrierte Durchführung der Prüfung
 
@@ -161,7 +156,6 @@ Nummer 2 mindestens 120 und höchstens 150 Minuten und des
 situationsbezogenen Fachgesprächs höchstens 30 Minuten. Den beiden
 schriftlichen Situationsaufgaben soll derselbe Kundenauftrag zugrunde
 liegen.
-
 
 ## § 4 Prüfungsinhalte
 
@@ -340,10 +334,6 @@ werden:
 
 2.  Konzepte entwickeln, umsetzen und bewerten.
 
-
-
-
-
 ## § 5 Bewerten und Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen in den Situationsaufgaben gemäß § 3 Abs. 2
@@ -358,16 +348,13 @@ zu bilden.
 (3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
 und der Anlage 2 auszustellen.
 
-
 ## § 6 Wiederholung der Prüfung
 
 Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 5 Abs. 3) Muster
 
@@ -396,7 +383,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 5 Abs. 3) Muster
 

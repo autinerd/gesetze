@@ -21,14 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 Abs. 39 V v. 12.2.2009 I 320
 
-
 ## § 1
 
 Sobald einer Soldatin bekannt wird, dass sie schwanger ist, soll sie
 dies und den mutmaßlichen Tag der Entbindung der oder dem nächsten
 Disziplinarvorgesetzten oder der Truppenärztin oder dem Truppenarzt
 mitteilen.
-
 
 ## § 2
 
@@ -49,7 +47,6 @@ Soldatinnen des Militärmusikdienstes in den ersten vier Monaten der
 Schwangerschaft und stillende Soldatinnen des Militärmusikdienstes als
 Künstlerinnen bei Musikaufführungen bis 23 Uhr zum Dienst herangezogen
 werden.
-
 
 ## § 3
 
@@ -78,15 +75,10 @@ ausgesetzt ist.
 4.  Dienstleistungen nach § 4 Absatz 2 des Mutterschutzgesetzes in der
     jeweils geltenden Fassung.
 
-
-
-
-
 ## § 3a
 
 Die §§ 1 bis 5 der Verordnung zum Schutze der Mütter am Arbeitsplatz
 vom 15. April 1997 (BGBl. I S. 782) sind entsprechend anzuwenden.
-
 
 ## § 4
 
@@ -94,7 +86,6 @@ Eine Soldatin darf während der Schwangerschaft nicht zu
 Dienstleistungen herangezogen werden, soweit nach ärztlichem Zeugnis
 Leben oder Gesundheit von Mutter oder Kind bei Fortdauer der
 Dienstleistung gefährdet ist.
-
 
 ## § 5
 
@@ -119,7 +110,6 @@ genannten Dienstleistungen herangezogen werden. Für die zum Stillen
 erforderliche Zeit gilt § 7 Abs. 1 des Mutterschutzgesetzes
 entsprechend.
 
-
 ## § 6
 
 Durch die Verbote der §§ 3 bis 5 sowie des § 2 Abs. 1 Satz 2
@@ -132,7 +122,6 @@ Erschwerniszulagen für Dienst zu ungünstigen Zeiten und für
 Wechselschicht- oder Schichtdienst ist der Durchschnitt der Zulagen
 der letzten drei Monate vor Beginn des Monats, in dem die
 Schwangerschaft eingetreten ist.
-
 
 ## § 6a
 
@@ -147,7 +136,6 @@ ohne Auslandsdienstbezüge nach § 52 des Bundesbesoldungsgesetzes) vor
 Beginn der Elternzeit die Versicherungspflichtgrenze in der
 gesetzlichen Krankenversicherung überschreiten oder überschreiten
 würden, ist der Zuschuss auf 210 Euro begrenzt.
-
 
 ## § 6b
 
@@ -170,16 +158,13 @@ Soldatengesetzes ausgesprochen werden.
 
 (3) § 55 Abs. 1 des Soldatengesetzes bleibt unberührt.
 
-
 ## § 7 (weggefallen)
 
 -
 
-
 ## § 8
 
 (Aufhebung einer anderen Vorschrift)
-
 
 ## § 9 (Inkrafttreten)
 

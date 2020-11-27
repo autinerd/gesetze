@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 762
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 3 Satz 1 des Verbraucherinformationsgesetzes
@@ -23,14 +22,12 @@ vom 5. November 2007 (BGBl. I S. 2558) in Verbindung mit dem 2.
 Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S.
 821) verordnet die Bundesregierung:
 
-
 ## § 1 Gebühren und Auslagen
 
 Behörden des Bundes erheben Gebühren für Amtshandlungen nach dem
 Verbraucherinformationsgesetz nach dem anliegenden
 Gebührenverzeichnis. Zusätzlich zu den Gebühren erheben die Behörden
 des Bundes Auslagen nach § 10 des Verwaltungskostengesetzes.
-
 
 ## § 2 Befreiung und Ermäßigung
 
@@ -40,11 +37,9 @@ des öffentlichen Interesses die Gebühr um bis zu 50 Prozent ermäßigt
 werden. Aus den genannten Gründen kann in besonderen Fällen von der
 Erhebung der Gebühr abgesehen werden.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2008 in Kraft.
-
 
 ## Anlage (zu § 1 Satz 1) Gebührenverzeichnis
 

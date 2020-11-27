@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 2.10.2012 I 2102
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 6 und des § 3a des
@@ -27,7 +26,6 @@ vom 4. August 1986 (BGBl. I S. 1270) wird vom Bundesminister für
 Verkehr und auf Grund des § 4 Abs. 2 des
 Binnenschiffahrtsaufgabengesetzes wird vom Bundesminister für Verkehr
 im Einvernehmen mit dem Bundesminister der Finanzen verordnet:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -44,10 +42,6 @@ Im Sinne dieser Verordnung sind
     durch Muskelkraft oder nur hilfsweise mit einem Treibsegel von
     höchstens 3
     qm Fläche fortbewegt werden.
-
-
-
-
 
 ## § 2 Fahrerlaubnis
 
@@ -76,7 +70,6 @@ Beaufsichtigende.
 
 (5) Die Erlaubnis zum Führen eines Sportbootes kann auf Segelboote
 beschränkt werden.
-
 
 ## § 3 Ausnahmen
 
@@ -174,7 +167,6 @@ Sportbooten unter Segel nur auf den in der Anlage 2 aufgeführten
 Binnenschifffahrtsstraßen erforderlich. Satz 1 gilt nicht für
 Sportboote, die als Segelsurfbretter geführt werden.
 
-
 ## § 3a Fahrerlaubnispflicht auf dem Rhein
 
 (1) Zum Führen eines Sportbootes auf dem Rhein bedürfen Personen ab 16
@@ -222,7 +214,6 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt die
 Staaten nach Satz 1 Nummer 3 Buchstabe b im Verkehrsblatt oder
 Bundesanzeiger bekannt.
 
-
 ## § 4 Fortgeltung anderer Befähigungsnachweise
 
 (1) Ein amtlich vorgeschriebener Befähigungsnachweis nach der
@@ -239,7 +230,6 @@ Oktober 1968 (BGBl. II S. 1107), ersetzen die nach dieser Verordnung
 vorgeschriebene Fahrerlaubnis.
 
 (2)
-
 
 ## § 5 Allgemeine Anforderungen für die Erteilung der Fahrerlaubnis
 
@@ -300,7 +290,6 @@ Sportbootes zu beachten.
 Vorschriften erheblich verstoßen hat und deswegen rechtskräftig
 verurteilt worden ist.
 
-
 ## § 6 Prüfungsvoraussetzungen
 
 (1) Der Bewerber hat den Antrag auf Zulassung zur Prüfung und
@@ -352,7 +341,6 @@ nach § 5 Absatz 1 Nummer 1 bis 3 sowie nach den Absätzen 2 und 3
 erfüllt und die im Einzelfall anfallenden Gebühren nach § 12 Absatz 1
 Nummer 1 bis 6 bezahlt sind.
 
-
 ## § 7 Prüfung
 
 (1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung
@@ -403,7 +391,6 @@ nach der Resolution Nr. 40 ECE ordnungsgemäß ausgestellten
 Internationalen Zertifikats sind beim Erwerb einer Fahrerlaubnis vom
 praktischen Teil der Prüfung für die jeweilige Antriebsart befreit.
 
-
 ## § 8 Erteilung einer Fahrerlaubnis ohne Prüfung
 
 Gegen Vorlage eines der in § 3 Abs. 3 genannten Befähigungsnachweise
@@ -415,7 +402,6 @@ Befähigungsnachweise wird dem Inhaber auf Antrag ein
 Sportbootführerschein-Binnen für die jeweilige Antriebsart
 ausgestellt.
 
-
 ## § 9 Ersatzausfertigung
 
 Ist ein Sportbootführerschein-Binnen unbrauchbar geworden,
@@ -424,7 +410,6 @@ beauftragten Verbände auf Antrag eine Ersatzausfertigung aus, die als
 solche zu kennzeichnen ist. Ein unbrauchbar gewordener oder wieder
 aufgefundener Sportbootführerschein-Binnen ist bei der nach § 11 Abs.
 3 zuständigen Wasser- und Schiffahrtsdirektion abzuliefern.
-
 
 ## § 10 Entziehung der Fahrerlaubnis
 
@@ -458,7 +443,6 @@ mit. Die übrigen Wasser- und Schifffahrtsdirektionen und die
 Wasserschutzpolizeien der Länder teilen der zuständigen Behörde die
 ihnen bekannten Tatsachen mit, die eine Entziehung rechtfertigen
 können.
-
 
 ## § 10a Ruhen der Fahrerlaubnis
 
@@ -532,7 +516,6 @@ Abs. 5 Satz 2 gilt entsprechend.
 dem Wasser zu führen, ist auch beim Führen von Sportbooten zu
 beachten.
 
-
 ## § 10b Sicherstellung von Befähigungszeugnissen
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass eine
@@ -553,7 +536,6 @@ oder des Befähigungszeugnisses ist aufzuheben und der
 Sportbootführerschein-Binnen oder das Befähigungszeugnis dem Inhaber
 zurückzugeben, wenn ihr Grund weggefallen ist oder wenn die zuständige
 Behörde die Erlaubnis nicht entzieht oder nicht deren Ruhen anordnet.
-
 
 ## § 11 Zuständige Stellen
 
@@ -600,7 +582,6 @@ hat. Für die Bezirke der Wasser- und Schiffahrtsdirektionen Nord,
 Nordwest, West, Südwest, Süd und Ost nimmt die Wasser- und
 Schiffahrtsdirektion Mitte in Hannover die Aufgaben nach Satz 1 und §
 9 Satz 2 wahr.
-
 
 ## § 12 Kosten
 
@@ -734,7 +715,6 @@ Schiffahrtsdirektion Mitte in Hannover die Aufgaben nach Satz 1 und §
 zuständigen Wasser- und Schiffahrtsdirektion, im übrigen von den
 beauftragten Verbänden festgesetzt und eingezogen.
 
-
 ## § 13 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
@@ -762,27 +742,19 @@ fahrlässig
 6.  entgegen § 10a Abs. 1, auch in Verbindung mit Abs. 5 Satz 4, ein
     Sportboot führt.
 
-
-
-
-
 ## § 14 Übergangsregelung
 
 Bis zum 1. Oktober 2014 dürfen für das Ausstellen des
 Sportbootführerscheins-Binnen noch Vordrucke nach dem am 1. Mai 2012
 geltenden Muster weiterverwendet werden.
 
-
 ## § 15 Inkrafttreten
 
 Diese Verordnung tritt am 1. April 1989 in Kraft; ...
 
-
 ## Anlage 1 (zu § 2 Abs. 2)
 
 (Fundstelle: BGBl. I 2012, 2105)
-
-
 
 ## Anlage 2 (zu § 3 Abs. 4 Nr. 1)
 
@@ -876,10 +848,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 649
 
 
 *    *   Kleiner Wannsee
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1111)
 

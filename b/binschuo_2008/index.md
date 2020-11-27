@@ -29,7 +29,6 @@ Stand: Inkraft gem. Art. 1 V v. 19.12.2008 I 2868 mWv 1.1.2009
     22\. September 2008 (ABl. EU Nr. L 255 S. 5). Die Vorschriften der
     Richtlinie 98/34/EG sind beachtet worden.
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -56,12 +55,7 @@ Es verordnen
     Oktober 2006 (BGBl. I S. 2407), im Einvernehmen mit dem
     Bundesministerium für Arbeit und Soziales:
 
-
-
-
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
 
 ### § 1 Geltungs- und Anwendungsbereich
 
@@ -348,10 +342,6 @@ bedeuten
     Meeresverschmutzung durch Schiffe und Protokoll von 1978 zu diesem
     Übereinkommen (BGBl. 1996 II S. 399).
 
-
-
-
-
 ### § 3 Zuständige Behörden
 
 (1) Die für die technische Untersuchung von Fahrzeugen zum Verkehr auf
@@ -419,7 +409,6 @@ Zulassungszeugnisses sowie Kennzeichnung von Signalleuchten in der
 Binnenschifffahrt nach Anhang IX Teil I Kapitel 4 ist das Bundesamt
 für Seeschifffahrt und Hydrographie in Hamburg.
 
-
 ### § 4 Grundsatz
 
 (1) Bau, Ausrüstung und Einrichtung eines Fahrzeugs, einer
@@ -447,7 +436,6 @@ Fahrtgebietes eine solche für erforderlich hält.
 ist, kann der Eigentümer oder sein Bevollmächtigter diese beantragen.
 Sie wird erteilt, wenn die Anforderungen dieser Verordnung erfüllt
 sind.
-
 
 ### § 5 Technische Zulassung
 
@@ -558,13 +546,6 @@ für die Wasserstraßen der Zone 4 ein.
 
     c)  zur Beförderung von nicht mehr als zwölf Personen.
 
-
-
-
-
-
-
-
 ### § 6 Fahrtauglichkeitsbescheinigung
 
 (1) Die technische Zulassung eines Fahrzeugs, einer schwimmenden
@@ -619,7 +600,6 @@ durch ein Fährzeugnis nach dem Muster in Anhang V Teil V zu erbringen.
 (5) Eine Fahrtauglichkeitsbescheinigung, die die ausschließliche
 Inanspruchnahme der Erleichterungen des Anhangs IV §§ 3.02 und 3.03
 bestätigt, berechtigt zur Fahrt auf allen Wasserstraßen der Zone 4.
-
 
 ### § 7 Anerkennung anderer Fahrtauglichkeitsbescheinigungen
 
@@ -691,7 +671,6 @@ ausgestellten Fahrtauglichkeitsbescheinigung gleich, soweit sie nicht
 unter Gewährung von Erleichterungen oder mit örtlichen Einschränkungen
 erteilt worden ist.
 
-
 ### § 8 Rechtsverordnungen über Anordnungen vorübergehender Art
 
 (1) Den Wasser- und Schifffahrtsdirektionen wird nach Maßgabe des
@@ -727,9 +706,7 @@ Zuständigkeitsbereich mehrerer Wasser- und Schifffahrtsdirektionen,
 sind insoweit diese Wasser- und Schifffahrtsdirektionen gemeinsam
 zuständig.
 
-
 ## Kapitel 2 - Verfahren
-
 
 ### § 9 Erteilungsverfahren
 
@@ -743,7 +720,6 @@ Anhangs II §§ 2.02 bis 2.18 erteilt, soweit die Anforderungen nach den
 zeichnerischen und rechnerischen Unterlagen für den Freibord sowie den
 Schaltplan für die elektrische Anlage und gegebenenfalls den Nachweis
 ausreichender Stabilität vorzulegen.
-
 
 ### § 10 Erteilung, Befristung und Entzug einer Fahrtauglichkeitsbescheinigung
 
@@ -766,19 +742,16 @@ seinem Zeugnis entsprechenden technischen Vorschriften genügt. Absatz
 2 und die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben
 unberührt.
 
-
 ### § 11 Überprüfung eines Fahrzeugs, einer schwimmenden Anlage oder eines Schwimmkörpers
 
 Bei der Überprüfung eines Fahrzeugs, einer schwimmenden Anlage oder
 eines Schwimmkörpers sind die in Anhang VIII in Verbindung mit Anhang
 II § 2.13 vorgesehenen Regelungen anzuwenden.
 
-
 ### § 12 Untersuchung von Amts wegen
 
 Untersuchungen von Amts wegen nach Maßgabe des Anhangs II § 2.11 kann
 jede örtlich zuständige Wasser- und Schifffahrtsdirektion anordnen.
-
 
 ### § 13 Gültigkeitsdauer, Verlängerung
 
@@ -798,14 +771,12 @@ Untersuchung vorgenommen, kann die Gültigkeitsdauer um höchstens ein
 Jahr verlängert werden. Dies ist in der Fahrtauglichkeitsbescheinigung
 zu vermerken.
 
-
 ### § 14 Vorläufige Fahrtauglichkeitsbescheinigung
 
 Die Zentralstelle Schiffsuntersuchungskommission/ Schiffseichamt kann
 unter den Voraussetzungen des Anhangs II § 2.05 eine vorläufige
 Fahrtauglichkeitsbescheinigung nach den Mustern des Anhangs V Teil VII
 bis X erteilen.
-
 
 ### § 15 Gleichwertigkeit und Abweichungen
 
@@ -843,9 +814,7 @@ sechs Monate, erteilen.
 (3) Die Gleichwertigkeiten und Abweichungen sind in das Vorläufige
 Schiffsattest oder Vorläufige Gemeinschaftszeugnis einzutragen.
 
-
 ## Kapitel 3 - Durchführung
-
 
 ### § 16 Pflichten des Schiffsführers, Eigentümers oder Ausrüsters
 
@@ -1269,10 +1238,6 @@ einen Schwimmkörper nur führen, wenn
 
 3.  seine Befähigung an Bord nach Anhang XI § 3.01 Nummer 3 nachweisen.
 
-
-
-
-
 ### § 17 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 7 Abs. 1 des
@@ -1461,9 +1426,7 @@ Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig als Mitglied der Besatzung entgegen § 16 Abs. 6 Nr. 2 das
 Schifferdienstbuch nicht oder nicht rechtzeitig vorlegt.
 
-
 ## Kapitel 4 - Übergangs- und Schlussbestimmungen
-
 
 ### § 18 Weitergeltung bestehender Fahrtauglichkeitsbescheinigungen
 
@@ -1479,14 +1442,12 @@ Fahrtauglichkeitsbescheinigungen gelten die Übergangsbestimmungen des
 Anhangs II sowie gegebenenfalls der Anhänge III, IV, X und XII, die
 nach Zeugniserteilung in Kraft getreten sind.
 
-
 ### § 19 DIN-Normen
 
 DIN- und DIN EN-Normen, auf die in dieser Verordnung verwiesen wird,
 sind bei der Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim
 Deutschen Patent- und Markenamt in München archivmäßig gesichert
 hinterlegt.
-
 
 ### § 20 Inkrafttreten
 
@@ -1495,7 +1456,6 @@ Einführungsverordnung zur Binnenschiffsuntersuchungsordnung bestimmt
 wird. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 macht den Tag des Inkrafttretens im Bundesgesetzblatt und im
 Verkehrsblatt bekannt.
-
 
 ### Anhang I Liste der in die geografischen Zonen 1,2,3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland
 
@@ -1616,8 +1576,6 @@ Verkehrsblatt bekannt.
 
     *   Östlich begrenzt durch die Staatsgrenze zur Republik Polen im
         Stettiner Haff bis zur Grenze des Wolgaster Hafengebietes
-
-
 
 ## *Zone 2 – Binnen* ****
 
@@ -1830,8 +1788,6 @@ Verkehrsblatt bekannt.
     *   Von der Südwestkante der Straßenbrücke in Ueckermünde bis zur
         Verbindungslinie der Seekanten der Molenköpfe
 
-
-
 ## **Zone 3**
 
 
@@ -1874,23 +1830,19 @@ Verkehrsblatt bekannt.
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 9 - 475)
 (Text siehe: BinSchUO2008Anh II)
 
-
 ### Anhang III Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2
 
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 477 - 499)
 (Text siehe: BinSchUO2008Anh III)
-
 
 ### Anhang IV Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
 
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 501 - 510)
 (Text siehe: BinSchUO2008Anh IV)
 
-
 ### Anhang V Muster der Fahrtauglichkeitsbescheinigungen
 
 Text in Bearbeitung
-
 
 ### Anhang VI Muster der Verzeichnisse
 
@@ -1907,8 +1859,6 @@ Binnenschiffe**
 
 
 *    *   Jahr .......................
-
-
 
 ### (Linke Seite)
 
@@ -2121,8 +2071,6 @@ Binnenschiffe**
 
 
 *    *   Jahr .......................
-
-
 
 ### (Linke Seite)
 
@@ -2344,33 +2292,25 @@ Artikel 10 dieser Richtlinie anerkannt:
 
 3.  Lloyd's Register of Shipping.
 
-
-
-
-
 ### Anhang VIII Verfahrensvorschriften für die Durchführung von Untersuchungen
 
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 571 - 572)
 (Text siehe: BinSchUO2008Anh VIII)
-
 
 ### Anhang IX Vorschriften für Signallichter, Radarausrüstungen, Wendeanzeiger sowie Kompasse und Steuerkurstransmitter
 
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 573 - 682)
 (Text siehe: BinSchUO2008Anh IX)
 
-
 ### Anhang X Nationale Sonderbestimmungen
 
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 683 - 770)
 (Text siehe: BinSchUO2008Anh X)
 
-
 ### Anhang XI Besatzungsvorschriften
 
 (Fundstelle: BGBl. I 2008, Anlageband zu Nr. 59, S. 771 - 843)
 (Text siehe: BinSchUO2008Anh XI)
-
 
 ### Anhang XII Ergänzende technische Mindestvorschriften auf Binnenwasserstraßen der Zonen 1,2,3 und 4 für Fahrzeuge, die ein Gemeinschaftszeugnis beantragen
 

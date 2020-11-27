@@ -47,10 +47,6 @@ Fundstelle
     2000/60/EG des Europäischen Parlaments und des Rates (ABl. L 332 vom
     10\.12.2008, S. 20).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 Absatz 1 Nummer 1 bis 3 und 8 bis 12 des
@@ -60,12 +56,10 @@ geändert durch Artikel 12 Nummer 0a des Gesetzes vom 11. August 2010
 Wasserhaushaltsgesetzes verordnet die Bundesregierung nach Anhörung
 der beteiligten Kreise:
 
-
 ## § 1 Zweck
 
 Diese Verordnung dient dem Schutz der Oberflächengewässer und der
 wirtschaftlichen Analyse der Nutzungen ihres Wassers.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -110,10 +104,6 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
     nicht oder nur sehr gering durch menschliche Tätigkeiten beeinflusst
     ist.
 
-
-
-
-
 ## § 3 Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
 
 Nach Maßgabe der Anlage 1 werden folgende Bestimmungen, die auf Grund
@@ -142,7 +132,6 @@ worden sind, durch die zuständige Behörde zum 22. Dezember 2013
 
 Die Bestimmungen werden danach alle sechs Jahre überprüft und
 gegebenenfalls aktualisiert.
-
 
 ## § 4 Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen; Bestandsaufnahme der Emissionen, Einleitungen und Verluste
 
@@ -216,7 +205,6 @@ letzten drei Jahre vor Abschluss der Aktualisierung verwendet werden.
 aktualisierten Bewirtschaftungspläne nach § 84 Absatz 1 des
 Wasserhaushaltsgesetzes aufzunehmen.
 
-
 ## § 5 Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
 (1) Die Einstufung des ökologischen Zustands eines
@@ -257,7 +245,6 @@ die entsprechenden allgemeinen physikalisch-chemischen
 Qualitätskomponenten nach Anlage 3 Nummer 3.2 in Verbindung mit Anlage
 6 zur Einstufung unterstützend heranzuziehen.
 
-
 ## § 6 Einstufung des chemischen Zustands
 
 Die Einstufung des chemischen Zustands eines Oberflächenwasserkörpers
@@ -265,7 +252,6 @@ richtet sich nach den in Anlage 7 aufgeführten Umweltqualitätsnormen.
 Erfüllt der Oberflächenwasserkörper diese Umweltqualitätsnormen, stuft
 die zuständige Behörde den chemischen Zustand als gut ein. Andernfalls
 ist der chemische Zustand als nicht gut einzustufen.
-
 
 ## § 7 Oberflächenwasserkörper, die der Trinkwassergewinnung dienen
 
@@ -278,7 +264,6 @@ erforderlichen Umfang der Aufbereitung zu verringern.
 (2) Die zuständige Behörde kennzeichnet die Oberflächenwasserkörper,
 die der Trinkwassergewinnung dienen, auf den Karten nach den Nummern 1
 und 2 in Verbindung mit Nummer 3.1 der Anlage 10.
-
 
 ## § 8 Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
 
@@ -293,7 +278,6 @@ erforderlichen qualitätssichernden Maßnahmen zu ergreifen, um eine
 hinreichende Zuverlässigkeit und Genauigkeit der
 Überwachungsergebnisse sicherzustellen. Die Laboratorien haben
 insbesondere die Anforderungen nach Anlage 8 Nummer 2 zu erfüllen.
-
 
 ## § 9 Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz
 
@@ -319,7 +303,6 @@ Zustands nach Anlage 7.
 Zustands sowie des ökologischen Potenzials ist im Bewirtschaftungsplan
 auf Karten darzustellen.
 
-
 ## § 10 Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands
 
 (1) Die zuständige Behörde stellt den ökologischen Zustand oder das
@@ -338,7 +321,6 @@ Stoffe nach Maßgabe von Anlage 10 Nummer 2 zu kennzeichnen.
 Nummer 3.2 Oberflächenwasserkörper, bei denen die Einhaltung der
 Umweltqualitätsnormen von Schadstoffen unter Berücksichtigung der
 natürlichen Hintergrundkonzentrationen festgestellt wurde.
-
 
 ## § 11 Ermittlung langfristiger Trends
 
@@ -360,7 +342,6 @@ Konzentrationen in den betreffenden Biota, Schwebstoffen oder
 Sedimenten nicht signifikant ansteigen. Ein signifikanter Anstieg
 liegt vor, wenn die Voraussetzungen nach Anlage 11 Nummer 5 erfüllt
 sind.
-
 
 ## § 12 Wirtschaftliche Analyse der Wassernutzungen
 
@@ -401,16 +382,13 @@ einschlägigen Investitionen einschließlich der entsprechenden
 Vorausplanungen sowie Schätzungen der potenziellen Kosten der
 Maßnahmen für das Maßnahmenprogramm zugrunde gelegt werden.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 26. Juli 2011 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 3 Satz 1) Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
 
@@ -981,10 +959,6 @@ Oberflächenwasserkörper am ähnlichsten ist.
     zusätzliche Beschreibung vorzunehmen, um die Überwachungsprogramme
     nach Anlage 9 und die Maßnahmenprogramme nach § 82 des
     Wasserhaushaltsgesetzes weiterzuentwickeln.
-
-
-
-
 
 ## Anlage 3 (zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4) Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
@@ -2636,10 +2610,6 @@ Physikalisch-chemische und chemische Qualitätskomponenten
 
     *   Bedingungen, unter denen die oben für die biologischen
         Qualitätskomponenten beschriebenen Werte erreicht werden können.
-
-
-
-
 
 ## Anlage 5 (zu § 2 Nummer 6, § 5 Absatz 4 Satz 2 und 3, § 9 Absatz 2 Satz 1) Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
 
@@ -6585,7 +6555,6 @@ Nummerierung).
 200-784-6) und 1,1-Dichlor-2,2-bis-(p-chlorphenyl)ethan (CAS-Nr.
 72-54-8; EU-Nr. 200-783-0).
 
-
 ## Anlage 8 (zu § 8 Absatz 1 und 2 Satz 2) Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
 
 (Fundstelle: BGBl. I 2011, 1461 - 1462)
@@ -7308,13 +7277,6 @@ wurden.
         nach denen sie ausgewiesen worden sind, und bis sie die für sie
         geltenden Bewirtschaftungsziele erreichen.
 
-
-
-
-
-
-
-
 ## Anlage 10 (zu § 7 Absatz 2 Satz 1, § 10 ) Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Kennzeichnung von Oberflächenwasserkörpern
 
 (Fundstelle: BGBl. I 2011, 1467 - 1468)
@@ -7502,13 +7464,6 @@ wurden.
         Nummer 1 oder Nummer 2 mit einem H und der Legende „Einstufung unter
         Berücksichtigung natürlicher Hintergrundkonzentrationen“
         gekennzeichnet.
-
-
-
-
-
-
-
 
 ## Anlage 11 (zu § 11 Absatz 1 Satz 1 und Absatz 2 Satz 2) Ermittlung langfristiger Trends
 

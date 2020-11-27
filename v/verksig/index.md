@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Nr. 2 G v. 2.4.2009 I 693
 
-
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
-
-
 
 ### § 1 Gegenstand von Rechtsverordnungen
 
@@ -88,10 +85,6 @@ Vorschriften auch erlassen werden über
     Speditionsanlagen und -einrichtungen sowie Anlagen und Einrichtungen
     von Unternehmen der Lagerei, soweit sie dem Verkehr dienen.
 
-
-
-
-
 ### § 2 Voraussetzungen und Grenzen der Rechtsverordnungen
 
 (1) Rechtsverordnungen nach § 1 dürfen nur erlassen werden,
@@ -115,14 +108,12 @@ möglichst wenig beeinträchtigt wird.
 (3) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels
 80a des Grundgesetzes angewandt werden.
 
-
 ### § 3 Rechtsverordnungen über Buchführungs- und Meldepflichten
 
 Durch Rechtsverordnung können zu den in § 1 genannten Zwecken
 Meldepflichten über Verkehrsmittel, -anlagen und -einrichtungen sowie
 besondere Buchführungs- und Meldepflichten über Verkehrsleistungen und
 über die Leistungsfähigkeit von Verkehrsunternehmen begründet werden.
-
 
 ### § 4 Rechtsverordnungen über Bevorratungen
 
@@ -164,7 +155,6 @@ des gewerblichen Betriebs mit dem für die Vermögensbesteuerung
 maßgebenden Wert, vermindert um den nach Absatz 3 vorgenommenen
 Bewertungsabschlag, anzusetzen.
 
-
 ### § 5 Zuständigkeiten zum Erlaß von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die
@@ -187,7 +177,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates auf
 
 übertragen.
 
-
 ### § 6 Zustimmungsbedürftigkeit der Rechtsverordnungen
 
 (1) Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
@@ -199,7 +188,6 @@ Zustimmung des Bundesrates möglich.
 (2) Nach Eintritt der Voraussetzung des § 2 Abs. 3 bedürfen
 Rechtsverordnungen nach den §§ 1, 3 und 4 nicht der Zustimmung des
 Bundesrates.
-
 
 ### § 7 Geltungsdauer der Rechtsverordnungen
 
@@ -218,7 +206,6 @@ ermächtigten Stellen sowie von nachgeordneten Bundesbehörden, die auf
 Grund einer Rechtsverordnung nach § 5 Abs. 2 erlassen werden, treten
 spätestens mit dieser Rechtsverordnung außer Kraft.
 
-
 ### § 8 Verfügungen
 
 Die Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
@@ -231,10 +218,7 @@ Rechtsverordnungen durch eine Weisung nach Artikel 85 Abs. 3 des
 Grundgesetzes und durch Verfügungen der Landesbehörden nicht oder
 nicht rechtzeitig erreicht werden kann.
 
-
 ## Zweiter Abschnitt - Sicherstellung durch Leistungen
-
-
 
 ### § 9 Leistungspflichtige
 
@@ -248,7 +232,6 @@ nach den §§ 10 bis 14 für die in § 1 genannten Zwecke verpflichtet.
 (2) Eisenbahnen im Sinne des Allgemeinen Eisenbahngesetzes sind zu
 Leistungen nach § 10 auch für die nicht der Verteidigung dienenden
 Zwecke des § 1 Abs. 1 des Bundesleistungsgesetzes verpflichtet.
-
 
 ### § 10 Leistungspflicht der Eisenbahnen
 
@@ -338,7 +321,6 @@ seine Befugnisse nach den Absätzen 2, 5 und 6 soweit sie Zwecken der
 Verteidigung dienen, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates ganz oder teilweise auf Bundesbehörden übertragen.
 
-
 ### § 10a Besondere Leistungspflichten der Eisenbahnen des Bundes und der Deutschen Flugsicherung und besondere Maßnahmen für den Bereich der Bundesfernstraßen
 
 (1) Eisenbahnen des Bundes und die DFS Deutsche Flugsicherung GmbH
@@ -361,7 +343,6 @@ insbesondere:
 (2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung legt
 für den Bereich der Bundesfernstraßen besondere Maßnahmen nach Absatz
 1 Satz 2 fest.
-
 
 ### § 10b Vorhaltung der Eisenbahninfrastruktur
 
@@ -402,7 +383,6 @@ regeln.
 Inkrafttreten dieses Gesetzes aus übergeordneten Gründen von den
 bisherigen Bundeseisenbahnen vorgehalten worden sind.
 
-
 ### § 11 Leistungspflicht der Baulastträger
 
 (1) Die öffentlich-rechtlichen Träger von Bau- und Unterhaltungslasten
@@ -433,7 +413,6 @@ Bundesleistungsgesetzes haben die Behörden der Bundeswehrverwaltung
 mit den zur Ausführung des Absatzes 1 zuständigen Behörden
 herzustellen.
 
-
 ### § 12 Erweiterte Leistungspflicht von Verkehrsunternehmen
 
 Verkehrsunternehmen, die einer gesetzlichen Betriebs- und
@@ -443,7 +422,6 @@ Verkehrsmittel, -anlagen und -einrichtungen zu Leistungen im Sinne des
 § 10 Abs. 1 und Abs. 2 Satz 2 Nr. 1 bis 6 verpflichtet werden, wenn
 dies für Zwecke der Verteidigung unumgänglich notwendig ist und die
 Voraussetzung des § 2 Abs. 3 vorliegt.
-
 
 ### § 13 Verwahrungspflichten
 
@@ -466,7 +444,6 @@ verpflichtet werden,
 
 (2) Die Verpflichtung kann mit Auflagen über die Art der Verwahrung
 und über die Verwendung verbunden werden.
-
 
 ### § 14 Verkehrsräumung, Standort- und Wegeänderungen
 
@@ -494,7 +471,6 @@ Bau und Stadtentwicklung zulässig.
 
 (5) Die Vorschriften der Absätze 1 bis 4 dürfen nur nach Maßgabe des
 Artikels 80a des Grundgesetzes angewandt werden.
-
 
 ### § 15 Auskünfte
 
@@ -531,10 +507,7 @@ Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie §
 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
 
-
 ## Dritter Abschnitt - Verwaltungsverfahren
-
-
 
 ### § 16 Interessenausgleich
 
@@ -551,14 +524,12 @@ daß der Verkehrsablauf und die Entwicklung der Verkehrsunternehmen und
 Verkehrsanlagen nicht mehr beeinträchtigt werden, als dies im
 übergeordneten Verteidigungsinteresse notwendig ist.
 
-
 ### § 17 Vorsorge
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die
 personellen, organisatorischen und materiellen Voraussetzungen zur
 Durchführung der Maßnahmen zu schaffen, die für die in § 1 genannten
 Zwecke erforderlich sind.
-
 
 ### § 18 Zustellungen
 
@@ -580,10 +551,6 @@ des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
     Luftfahrzeugen können auch durch Funkspruch vorgenommen werden. Eine
     Ausfertigung der Verfügung ist gleichzeitig dem Eigentümer oder
     Besitzer zu übermitteln.
-
-
-
-
 
 ### § 19 Ausführung des Gesetzes für Verteidigungszwecke
 
@@ -671,13 +638,11 @@ Verordnungen besondere Stellen einzurichten sind.
 
 (9)
 
-
 ### § 20 Ausführung des Gesetzes für die Zwecke nach § 9 Abs. 2
 
 Die Ausführung dieses Gesetzes für die in § 9 Abs. 2 genannten Zwecke
 obliegt hinsichtlich der Eisenbahnen des Bundes dem Bund, im übrigen
 den Ländern als eigene Angelegenheit.
-
 
 ### § 21 Mitwirkung von Vereinigungen und Hilfsorganen
 
@@ -713,7 +678,6 @@ bedienen.
 
 (4)
 
-
 ### § 22 Rechtsmittelbeschränkung
 
 In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem
@@ -724,10 +688,7 @@ Entscheidung des Gerichts ausgeschlossen, wenn die Voraussetzung des §
 Entscheidung des Verwaltungsgerichts vor Eintritt der Voraussetzung
 des § 2 Abs. 3 verkündet oder zugestellt worden ist.
 
-
 ## Vierter Abschnitt - Entschädigungen und Kosten
-
-
 
 ### § 23 Entschädigungen
 
@@ -770,7 +731,6 @@ haben.
 (5) Absatz 4 gilt nicht, soweit sich die Entschädigung für eine
 Leistung nach Tarifen bemißt.
 
-
 ### § 24 Härteausgleich
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach
@@ -783,7 +743,6 @@ Abwendung oder zum Ausgleich unbilliger Härten geboten erscheint.
 verpflichtet.
 
 (3) § 23 Abs. 4 ist entsprechend anzuwenden.
-
 
 ### § 25 Kosten
 
@@ -814,10 +773,7 @@ ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
 über die Kassen- und Buchführung der zuständigen Landes- und
 Gemeindebehörden angewendet werden.
 
-
 ## Fünfter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 26 Zuwiderhandlungen gegen Sicherstellungsmaßnahmen
 
@@ -836,14 +792,9 @@ begeht, wer vorsätzlich oder fahrlässig
     auferlegten Verpflichtung zur Unterlassung zuwiderhandelt oder eine
     Auflage nicht erfüllt.
 
-
-
-
-
 ### § 27
 
 -
-
 
 ### § 28 Ordnungswidrigkeiten
 
@@ -878,7 +829,6 @@ begeht, wer vorsätzlich oder fahrlässig
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ### § 29 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
@@ -905,19 +855,7 @@ Ordnungswidrigkeiten ist bei Zuwiderhandlungen gegen
         *   die zuständige oberste Landesbehörde oder die in der Rechtsverordnung
             bestimmte Behörde.
 
-
-
-
-
-
-
-
-
-
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 30 Ausnahmen und Sonderregelungen
 
@@ -962,18 +900,15 @@ ist.
 
 (5)
 
-
 ### § 31
 
 -
-
 
 ### § 32 Einschränkung der Grundrechte
 
 Die Grundrechte der Freizügigkeit (Artikel 11 des Grundgesetzes) und
 der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes)
 werden nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ### § 33 Hamburg-Klausel
 
@@ -989,7 +924,6 @@ Abs. 1 Satz 4 des Gesetzes über die vermögensrechtlichen Verhältnisse
 der Bundeswasserstraßen vom 21. Mai 1951 (Bundesgesetzbl. I S. 352) -
 bleiben unberührt.
 
-
 ### § 34 Stadtstaaten-Klausel
 
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
@@ -997,11 +931,9 @@ die auf Grund dieses Gesetzes erlassenen Vorschriften über die
 Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer
 Länder anzupassen.
 
-
 ### § 35
 
 -
-
 
 ### § 36 Inkrafttreten
 

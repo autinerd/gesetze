@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1083 (1548)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -32,7 +30,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
 
 Der Ausbildungsberuf Fahrzeuglackierer/Fahrzeuglackiererin wird
@@ -47,7 +44,6 @@ Der Ausbildungsberuf Fahrzeuglackierer/Fahrzeuglackiererin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
@@ -58,7 +54,6 @@ einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung und § 29 Abs.
 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung
 anzurechnen ist, beginnen die Berufsausbildung im zweiten
 Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -74,7 +69,6 @@ einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
-
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -96,10 +90,6 @@ sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 3.  im dritten Ausbildungsjahr der Berufsausbildung in drei Wochen
     Fertigkeiten und Kenntnisse aus dem Abschnitt II, laufende Nummern 8
     bis 10 der Anlage.
-
-
-
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -153,10 +143,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -169,13 +155,11 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -183,7 +167,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -217,7 +200,6 @@ kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er
 fachbezogene Probleme und deren Lösungen darstellen, die für die
 Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die
 Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
-
 
 ## § 10 Abschlussprüfung, Gesellenprüfung
 
@@ -364,7 +346,6 @@ in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu
 erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit
 ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 11 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -385,11 +366,9 @@ weiter anzuwenden, wenn für die Ausbildung in diesen
 Ausbildungsberufen nach Landesrecht der Besuch eines schulischen
 Berufsgrundbildungsjahres vorgesehen ist.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
 

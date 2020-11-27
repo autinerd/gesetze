@@ -258,13 +258,7 @@ Diese Verordnung dient der Umsetzung folgender Rechtsakte:
     Richtlinien 89/662/EWG und 91/118/EWG des Rates und der Entscheidung
     95/408/EG des Rates (ABl. EU Nr. L 157 S. 33, 195 S. 12).
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -314,7 +308,6 @@ der Europäischen Union im Anwendungsbereich dieser Verordnung
 inhaltsgleiche oder abweichende Anforderungen an das
 innergemeinschaftliche Verbringen, die Einfuhr, Durchfuhr oder Ausfuhr
 regeln.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -496,10 +489,6 @@ Im Sinne dieser Verordnung sind
     von Tieren und Waren an der Grenze zu einem Drittland oder in einem
     Hafen oder Flughafen.
 
-
-
-
-
 ### § 3 Bescheinigungen
 
 (1) Bescheinigungen nach dieser Verordnung müssen der zuständigen
@@ -533,10 +522,6 @@ Mustern oder Vordrucken sind nur zulässig, wenn es sich handelt um
 3.  die Anwendung einer Ausnahme, die auf Grund dieser Verordnung von der
     zuständigen Behörde zugelassen worden ist.
 
-
-
-
-
 ### § 4 Anzeige und Registrierung
 
 Wer gewerbsmäßig
@@ -557,7 +542,6 @@ Betriebe, die wegen einer Tätigkeit nach Satz 1 in einem anderen
 Mitgliedstaat registriert oder zugelassen worden sind. Die zuständige
 Behörde erfasst die angezeigten Betriebe unter Erteilung einer
 Registriernummer in einem Register.
-
 
 ### § 5 Buchführung
 
@@ -608,7 +592,6 @@ drei Jahren aufzubewahren. Die Frist beginnt im Falle
 Sie sind der zuständigen Behörde auf Verlangen vorzulegen. § 24 Abs. 1
 und 2 der Viehverkehrsverordnung gilt entsprechend.
 
-
 ### § 6 Anforderungen an Transportmittel und -behältnisse
 
 (1) Tiere und Waren der in Anlage 2 Spalte 1 genannten Arten oder
@@ -622,7 +605,6 @@ eingeführt werden, die ausschließlich Tiere oder Bruteier derselben
 Art enthalten, demselben Verwendungszweck dienen und im Falle von
 Geflügel und Bruteiern aus demselben Betrieb stammen.
 
-
 ### § 7 Zuständigkeit, allgemeiner Genehmigungsgrundsatz
 
 Die Entscheidung über die Genehmigungen nach dieser Verordnung obliegt
@@ -630,14 +612,9 @@ der obersten Landesbehörde oder der von ihr bestimmten Behörde. Eine
 Genehmigung darf nicht erteilt werden, wenn eine Verbreitung von
 Tierseuchen zu befürchten ist.
 
-
 ## Abschnitt 2 - Innergemeinschaftliches Verbringen
 
-
-
 ### Unterabschnitt 1 - Anforderungen an das innergemeinschaftliche Verbringen
-
-
 
 #### § 8 Genehmigungsfreies Verbringen
 
@@ -688,7 +665,6 @@ dass diese Voraussetzungen erfüllt sind. Das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz gibt auch die
 Aufhebung der Maßnahme im Bundesanzeiger bekannt.
 
-
 #### § 9 Genehmigungspflichtiges Verbringen
 
 Das innergemeinschaftliche Verbringen von Tieren und Waren nach Anlage
@@ -699,20 +675,17 @@ einem Drittland, die von der Kopie einer Bescheinigung nach § 30 Abs.
 oder Bescheinigung entsprechenden Bescheinigung eines anderen
 Mitgliedstaates begleitet sind.
 
-
 #### § 9a Verbringungsverbot für Tiere
 
 Es ist verboten, Tiere der in Anlage 5 Spalte 1 genannten Arten
 innergemeinschaftlich zu verbringen, wenn sie die dort für sie in
 Spalte 2 festgelegten Voraussetzungen erfüllen.
 
-
 #### § 9b Verbringungsverbot für geimpfte Tiere
 
 Es ist verboten, Tiere, die auf Grund einer Anordnung nach § 16 Abs. 1
 Satz 1 der MKS-Verordnung geimpft worden sind, innergemeinschaftlich
 zu verbringen.
-
 
 #### § 10 Verbringungsverbot für bestimmte Waren
 
@@ -792,7 +765,6 @@ aus Betrieben stammen, die auf Grund eines Ausbruchs oder des
 Verdachts eines Ausbruchs einer der in Absatz 1 Nr. 1 aufgeführten
 Tierseuchen einer Sperre unterliegen.
 
-
 #### § 10a Weitere Verbringungsverbote
 
 (1) Das innergemeinschaftliche Verbringen nicht in Anlage 3 Abschnitt
@@ -822,10 +794,6 @@ Tierseuchen nicht verbreitet werden.
     Laboratorien zur Überprüfung der Wirksamkeit der Tollwutimpfung bei
     bestimmten als Haustiere gehaltenen Fleischfressern (ABl. EU Nr. L 71
     S. 30) in der jeweils geltenden Fassung aufgeführt ist, bestimmt ist.
-
-
-
-
 
 #### § 11 Besonderes Verbringungsverbot für Tiere und Waren
 
@@ -880,7 +848,6 @@ von Tieren und Waren bis zur Veröffentlichung einer Bekanntmachung
 nach Absatz 1 Satz 1 untersagen, wenn ihr der Ausbruch einer Seuche
 amtlich zur Kenntnis gebracht worden ist.
 
-
 #### § 12 Verbringen nach anderen Mitgliedstaaten
 
 (1) Klauentiere und Einhufer dürfen nach einem anderen Mitgliedstaat
@@ -919,7 +886,6 @@ inländische Sammelstelle nach anderen Mitgliedstaaten nur verbracht
 werden, wenn sie neben der Bescheinigung nach § 8 Abs. 1 Satz 1 von
 der Bescheinigung des Herkunftsmitgliedstaates im Original oder in
 beglaubigter Kopie begleitet sind.
-
 
 #### § 13 Verbringen aus anderen Mitgliedstaaten
 
@@ -998,10 +964,6 @@ anderen Mitgliedstaat nur verbracht werden, wenn sie
 
     begleitet sind.
 
-
-
-
-
 #### § 13a Besondere Bestimmungen für Affen und Halbaffen
 
 (1) Affen und Halbaffen dürfen aus einem anderen Mitgliedstaat nur
@@ -1021,7 +983,6 @@ verbracht werden, wenn
 (2) Abweichend von Absatz 1 kann das innergemeinschaftliche Verbringen
 im Einzelfall genehmigt werden, wenn sichergestellt ist, dass
 Tierseuchen nicht verbreitet werden.
-
 
 #### § 14 Besondere Bestimmungen für Fische
 
@@ -1064,19 +1025,13 @@ Mitgliedstaates bestimmt sind, dürfen nur verbracht werden, wenn sie
     in dem ausschließlich Fische dieser Arten gehalten werden und der
     nicht mit Wasserläufen oder Küstengewässern in Verbindung steht.
 
-
-
-
-
 #### § 14a
 
 (weggefallen)
 
-
 #### § 14b
 
 (weggefallen)
-
 
 #### § 15 Zulassungsbedürftige Betriebe
 
@@ -1111,10 +1066,6 @@ der zuständigen Behörde zugelassen worden sind.
 2.  sichergestellt ist, dass die Bestimmungen nach Anlage 7 Teil 2 Spalte
     3 eingehalten werden.
 
-
-
-
-
 #### § 16 Bekanntgabe der Zulassungen
 
 Die zuständigen Landesbehörden teilen dem Bundesministerium für
@@ -1137,7 +1088,6 @@ Dabei erteilt es eine Veterinärkontrollnummer. Satz 3 gilt nicht für
 Schlachtstätten, die nach lebensmittelrechtlichen Vorschriften
 zugelassen worden sind, Sammelstellen und Geflügelhaltungen.
 
-
 #### § 17 Ruhen der Zulassung
 
 Stellt die zuständige Behörde bei zugelassenen Lagern, Sammelstellen,
@@ -1147,7 +1097,6 @@ Zulassung bis zur Behebung der festgestellten Mängel an. Für das Ruhen
 der Zulassung und das Ende des Ruhens gilt § 16 Satz 1 und 2
 entsprechend.
 
-
 #### § 18 Kennzeichnung
 
 Tiere und Erzeugnisse der in Anlage 8 Spalte 1 genannten Arten oder
@@ -1155,10 +1104,7 @@ Verwendungszwecke dürfen innergemeinschaftlich nur verbracht werden,
 wenn sie oder ihre Transportbehältnisse in der dort für sie nach
 Spalte 2 vorgeschriebenen Weise gekennzeichnet sind.
 
-
 ### Unterabschnitt 2 - Überwachung des innergemeinschaftlichen Verbringens
-
-
 
 #### § 19 Anzeige der Ankunft
 
@@ -1169,7 +1115,6 @@ den Bestimmungsort zuständigen Behörde unter Angabe der Art und der
 Menge der Tiere oder Waren mindestens einen Werktag vorher anzeigt.
 Satz 1 gilt nicht für das Verbringen eingetragener Pferde zum Zwecke
 des vorübergehenden Aufenthalts.
-
 
 #### § 20 Maßnahmen bei Gefahr einer Seuchenverbreitung
 
@@ -1196,7 +1141,6 @@ ordnet sie
 an. Sie kann eine anderweitige Behandlung zulassen, wenn
 sichergestellt ist, dass hierbei eine Verbreitung von Tierseuchen
 ausgeschlossen wird.
-
 
 #### § 21 Sonstige Maßnahmen
 
@@ -1231,14 +1175,9 @@ das Inland nach einem anderen Mitgliedstaat nur verbracht werden, wenn
 der Verfügungsberechtigte die zuständige Behörde des bei der
 Rücksendung erstberührten Landes zuvor unterrichtet hat.
 
-
 ## Abschnitt 3 - Einfuhr
 
-
-
 ### Unterabschnitt 1 - Anforderungen an die Einfuhr
-
-
 
 #### § 22 Genehmigungsfreie Einfuhr
 
@@ -1303,7 +1242,6 @@ verbreitet werden und die Waren nach der Beendigung der Untersuchung,
 Ausstellung oder Beprobung ausgeführt oder unschädlich beseitigt
 werden.
 
-
 #### § 23 Sonderbestimmungen für den Handel mit bestimmten Drittländern
 
 (1) Abweichend von den §§ 22, 24 bis 27 und 30 bis 35 gelten für die
@@ -1329,7 +1267,6 @@ sind, die §§ 22 und 23a bis 32 entsprechend.
 (6) Abweichend von § 37 gelten für die Durchfuhr von Fischen, die für
 Island bestimmt sind, § 22 Abs. 1, 3 und 4 sowie die §§ 25 bis 32
 entsprechend.
-
 
 #### § 23a Sonderbestimmungen für die Einfuhr von in Drittländern zurückgewiesenen Sendungen
 
@@ -1372,14 +1309,9 @@ Abweichend von § 22 dürfen
     bescheinigt wird, dass die Sendung nicht behandelt oder entladen
     worden ist.
 
-
-
-
-
 #### § 24 Genehmigungspflichtige Einfuhr
 
 Die Einfuhr von Tieren und Waren nach Anlage 4 bedarf der Genehmigung.
-
 
 #### § 24a Einfuhrverbot für bestimmte Waren
 
@@ -1404,10 +1336,6 @@ werden.
     Antikörper in einem Laboratorium, das im Anhang I der Entscheidung
     2004/233/EG in der jeweils geltenden Fassung aufgeführt ist, bestimmt
     ist.
-
-
-
-
 
 #### § 25 Besondere Einfuhrverbote
 
@@ -1462,7 +1390,6 @@ im Bundesanzeiger bekannt gemacht hat.
 
 (5) § 22 Abs. 4 gilt entsprechend.
 
-
 #### § 26 Einfuhr über bestimmte Überwachungsstellen
 
 Die Einfuhr von Tieren, ausgenommen Hunde, Katzen und Frettchen, die
@@ -1492,7 +1419,6 @@ Lebensmittelsicherheit im Einvernehmen mit dem Bundesministerium der
 Finanzen im Bundesanzeiger bekannt gemacht hat. Das Bundesministerium
 der Finanzen kann die Erteilung des Einvernehmens nach Satz 1 auf
 Mittelbehörden seines Geschäftsbereichs übertragen.
-
 
 #### § 27 Einfuhruntersuchung
 
@@ -1594,15 +1520,11 @@ einer Maßnahme vorgeschrieben ist, die
 
 hat.
 
-
 #### § 28
 
 (weggefallen)
 
-
 ### Unterabschnitt 2 - Maßnahmen bei der Einfuhr
-
-
 
 #### § 29 Dokumentenprüfung, Nämlichkeitskontrolle, physische Untersuchung
 
@@ -1631,7 +1553,6 @@ durchgeführt.
 
 durchgeführt.
 
-
 #### § 30 Bescheinigungen
 
 (1) Hat der Verfügungsberechtigte bei der Dokumentenprüfung eine
@@ -1658,7 +1579,6 @@ mindestens drei Jahren aufzubewahren.
 
 
 dem Verfügungsberechtigten wieder ausgehändigt.
-
 
 #### § 31 Zurückweisung
 
@@ -1716,10 +1636,7 @@ beamteten Tierarztes nachbehandelt werden.
 Anforderungen nach Anhang B der Richtlinie 91/496/EWG in der jeweils
 geltenden Fassung erfüllt sind.
 
-
 ### Unterabschnitt 3 - Vorschriften über eingeführte Tiere und Waren
-
-
 
 #### § 32 Allgemeine Bestimmung
 
@@ -1739,7 +1656,6 @@ verlässt, mitzuführen.
 (3) Nach § 23a eingeführte Waren oder Gegenstände dürfen nur
 unmittelbar an ihren Ursprungsort in verplombten und lecksicheren
 Transportmitteln befördert werden.
-
 
 #### § 33 Eingeführte Schlachttiere
 
@@ -1772,7 +1688,6 @@ zu schlachten oder schlachten zu lassen.
 Geflügelschlachtbetrieb verbracht werden. Der Empfänger hat das
 Geflügel nach Satz 1 dort spätestens 72 Stunden nach seinem Eintreffen
 zu schlachten oder schlachten zu lassen.
-
 
 #### § 34 Eingeführte Nutz- und Zuchttiere, eingeführte Bruteier sowie daraus geschlüpftes Geflügel
 
@@ -1811,7 +1726,6 @@ Geflügel durch die zuständige Behörde klinisch zu untersuchen, und es
 sind erforderlichenfalls Proben zur Überprüfung des
 Gesundheitszustandes zu nehmen.
 
-
 #### § 34a Eingeführte Affen und Halbaffen
 
 (1) Bei eingeführten Affen und Halbaffen gilt § 13a entsprechend.
@@ -1819,7 +1733,6 @@ Gesundheitszustandes zu nehmen.
 (2) Abweichend von Absatz 1 kann das Verbringen im Einzelfall
 genehmigt werden, wenn sichergestellt ist, dass das Tier nicht von
 Privatpersonen gehalten wird und Tierseuchen nicht verbreitet werden.
-
 
 #### § 35 Eingeführte Vögel
 
@@ -1844,14 +1757,9 @@ werden, wenn
     und Anhang B Kapitel 2 der Entscheidung 2000/666/EG in der jeweils
     geltenden Fassung eingehalten werden.
 
-
-
-
-
 #### § 36
 
 (weggefallen)
-
 
 #### § 36a Verbringen eingeführter Waren in Lager in Freizonen, Freilager und Zolllager
 
@@ -1881,13 +1789,7 @@ Behörde zu diesem Zweck zugelassen worden ist.
     und Abs. 5 zweiter, dritter und vierter Anstrich der Richtlinie
     97/78/EG in der jeweils geltenden Fassung eingehalten werden.
 
-
-
-
-
 ## Abschnitt 4 - Durchfuhr
-
-
 
 ### § 36b Durchfuhrverbot für bestimmte Waren
 
@@ -1897,7 +1799,6 @@ sowie von behandelten Tierdärmen, die nicht die tierseuchenrechtlichen
 Einfuhranforderungen erfüllen, ist verboten. Satz 1 gilt nicht in den
 Fällen des § 37 Abs. 5 und 5a für die Durchfuhr im Luft- und
 Seeschiffsverkehr.
-
 
 ### § 37 Anforderungen an die Durchfuhr
 
@@ -2018,10 +1919,7 @@ sind, oder - sofern es sich um zum menschlichen Verzehr bestimmte Ware
 handelt - an Versorger im Seeschiffsverkehr eingesetzter
 Beförderungsmittel verbracht werden.
 
-
 ## Abschnitt 4a - Ausfuhr
-
-
 
 ### § 37a Verbote und Beschränkungen
 
@@ -2038,13 +1936,7 @@ beschränkt, wenn und soweit
     dieses macht auch die Aufhebung des Rechtsakts im Bundesanzeiger
     bekannt.
 
-
-
-
-
 ## Abschnitt 5 - Ausnahmen
-
-
 
 ### § 38 Tiere
 
@@ -2093,10 +1985,6 @@ Die §§ 8, 9, 13a, 19 Abs. 1, die §§ 20 bis 22, 24, 25 Abs. 1 und 5, §§
 5.  auf Brieftauben, die zum Zwecke des Auflassens in
     Spezialtransportmitteln innergemeinschaftlich verbracht oder
     eingeführt werden.
-
-
-
-
 
 ### § 39 Waren
 
@@ -2190,7 +2078,6 @@ anzuwenden auf
 (3) Die §§ 24 bis 27, 30, 31 und 32 sind nicht auf Waren anzuwenden,
 deren Einfuhr nach § 22 Abs. 4 genehmigt wurde.
 
-
 ### § 39a Anwendung von Unionsrecht
 
 Abweichend von § 1 Absatz 1, den §§ 8, 22 und 24 bis 27 Absatz 1 und 2
@@ -2201,10 +2088,7 @@ festgelegt sind und die das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Bundesanzeiger bekannt gemacht
 hat.
 
-
 ## Abschnitt 6 - Befugnisse der Behörde, Ordnungswidrigkeiten
-
-
 
 ### § 40 Befugnisse der Behörde
 
@@ -2235,7 +2119,6 @@ Manifeste in elektronischer Form vorgelegt werden.
 (5) Der Verfügungsberechtigte hat die Maßnahmen nach den Absätzen 1
 bis 4 zu dulden, die mit diesen Maßnahmen beauftragten Personen zu
 unterstützen und die geschäftlichen Unterlagen vorzulegen.
-
 
 ### § 41 Ordnungswidrigkeiten
 
@@ -2493,13 +2376,7 @@ entgegen
     Sorge trägt, dass die dort genannten Angaben in der dort genannten
     Weise verwahrt werden.
 
-
-
-
-
 ## Abschnitt 7 - Schlussvorschriften
-
-
 
 ### § 42 Übergangsvorschriften
 
@@ -2520,7 +2397,6 @@ gelten als vorläufig zugelassen. Die vorläufige Zulassung erlischt,
 (2) Anlage 8 Abschnitt II Nr. 1 und 2 ist bis zum Ablauf des 30. Juni
 2006 in der am 7. April 2006 geltenden Fassung weiter anzuwenden.
 
-
 ### § 43 Wirksamwerden von Bekanntmachungen
 
 Nach dieser Verordnung vorgeschriebene Bekanntmachungen werden mit
@@ -2528,15 +2404,11 @@ Beginn des Tages, der auf ihre Veröffentlichung im Bundesanzeiger
 folgt, wirksam, soweit in der Bekanntmachung kein späterer Zeitpunkt
 bestimmt ist. Satz 1 gilt nicht für Bekanntmachungen nach § 16 Satz 2.
 
-
 ### § 43a (weggefallen)
-
-
 
 ### § 44
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 4) *Fe Waren, deren gewerbsmäßiges innergemeinschaftliches Verbringen oder deren gewerbsmäßige Einfuhr vor Aufnahme der Tätigkeit anzuzeigen sind */
 
@@ -2557,10 +2429,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 5.  Fleisch
-
-
-
-
 
 ### Anlage 2 (zu § 6 Abs. 1) *Fe Anforderungen an Transportmittel und -behältnisse */
 
@@ -2708,10 +2576,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1016
     *   Transportmittel und -behältnisse müssen so beschaffen sein, dass Teile
         beschädigter Bruteier während der Beförderung nicht herausfallen
         können.
-
-
-
-
 
 ### Anlage 3 (zu § 8 Abs. 1 und 4) *Fe Innergemeinschaftliches Verbringen von Tieren und Waren und deren Einfuhr aus EWR-Staaten nach unionsrechtlich festgelegten Anforderungen */
 
@@ -3397,10 +3261,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   Artikel 4, 5 und 6 Abs. 3 der Richtlinie 2002/99/EG in der jeweils
         geltenden Fassung
 
-
-
-
-
 ### Anlage 4 (zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1) *Fe Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1026;
@@ -3473,10 +3333,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     Verordnung (EG) Nr. 1774/2002, soweit sie nicht in deren Anhängen VII
     und VIII aufgeführt sind
 
-
-
-
-
 ### Anlage 5 (zu § 9a) *Fe Tiere, deren innergemeinschaftliches Verbringen unter bestimmten Voraussetzungen verboten ist */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1027)
@@ -3539,10 +3395,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
         worden ist.
-
-
-
-
 
 ### Anlage 6 (zu § 13 Abs. 3) *Fe Voraussetzungen für die Zulassung nichtöffentlicher Schlachtstätten */
 
@@ -3608,10 +3460,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1028
 
 4.  Milch von Kühen, die in der Schlachtstätte aufgestallt sind, darf nur
     gekocht abgegeben oder auf sonstige Weise verwertet werden.
-
-
-
-
 
 ### Anlage 7 (zu § 15) *Fe Zulassungsbedürftige Betriebe */
 
@@ -3798,9 +3646,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
     *   Bestimmungen nach Anhang II Kapitel II Buchstabe A und Anhang III der
         Richtlinie 90/539/EWG in der jeweils geltenden Fassung
 
-
-
-
 ## Teil 2
 
 *    *   Art des Betriebes
@@ -3920,10 +3765,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1029 - 1031
 
     *   Bestimmungen nach Anhang C Nr. 2 bis 4 und 6 der Richtlinie 92/65/EWG
         in der jeweils geltenden Fassung
-
-
-
-
 
 ### Anlage 8 (zu § 18) Kennzeichnungsmethoden
 
@@ -4113,10 +3954,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         Juli 1977 zur Durchführung der Verordnung (EWG) 2782/75 über die
         Erzeugung von und den Verkehr mit Bruteiern und Küken von Hausgeflügel
         (ABl. EG Nr. L 209 S. 1) in der jeweils geltenden Fassung
-
-
-
-
 
 ### Anlage 9 (zu § 22 Abs. 1, 3 und 4, §§ 23a, 24a Abs. 1, §§ 26 und § 27 Abs. 1 Satz 1 und § 37 Abs. 1 Satz 1, Abs. 3 und 5 Satz 1) *Fe Einfuhr von Tieren und Waren nach unionsrechtlich festgelegten Anforderungen */
 
@@ -4398,10 +4235,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         geltenden Fassung, Artikel 9 Abs. 1 Buchstabe c der Richtlinie
         91/496/EWG in der jeweils geltenden Fassung
 
-
-
-
-
 ### Anlage 9a (zu § 22 Abs. 2, §§ 23a, 26 und 27 Abs. 4) *Fe Einfuhr von Gegenständen nach unionsrechtlich festgelegten Anforderungen */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1039
@@ -4422,10 +4255,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Heu, Stroh
 
     *   Artikel 19 der Richtlinie 97/78/EG in der jeweils geltenden Fassung
-
-
-
-
 
 ### Anlage 9b (zu § 25 Abs. 1 und 3) *Fe Verbot der Einfuhr von Tieren auf Grund des Unionsrecht */
 
@@ -4532,10 +4361,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 Monate
 
-
-
-
-
 ### Anlage 10 (zu § 25 Abs. 2 und 3) *Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht */
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 1041;
@@ -4638,10 +4463,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Artikel 22 der Richtlinie 97/78/EG in der jeweils geltenden Fassung
 
-
-
-
-
 ### Anlage 10a (zu § 29 Abs. 1) *Fe Durchführung der Dokumentenprüfung bei Tieren */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1042;
@@ -4699,13 +4520,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     k)  auf jedem Blatt ein Siegel und eine Nummerierung der Seiten (zum
         Beispiel 1 von 4) trägt, sofern es sich um eine mehrseitige
         Bescheinigung handelt
-
-
-
-
-
-
-
 
 ### Anlage 11 (zu § 29 Abs. 2 Nr. 1 und Abs. 3 Nr. 1) *Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Tieren */
 
@@ -4888,10 +4702,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1043 - 1044
         kontrollierenden Tiere oder weitergehende Untersuchungen, ggf.
         Probenahmen
 
-
-
-
-
 ### Anlage 12 (zu § 29 Abs. 2 Nr. 2 und Abs. 3 Nr. 2) *Fe Durchführung der Nämlichkeitskontrolle und physischen Untersuchung bei Waren */
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1045
@@ -4939,10 +4749,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1045
 
 4.  Im Falle eines Verdachts sind weitergehende Untersuchungen
     durchzuführen.
-
-
-
-
 
 ### Anlage 13 (zu § 37 Abs. 1 Satz 2) *Fe Waren, deren Durchfuhr bei Erfüllung bestimmter Voraussetzungen ohne Genehmigung zulässig ist */
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2052
 
-
-
 ## I. Erlaß von Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -41,7 +39,6 @@ soweit diese oder ihnen nachgeordnete Behörden den mit dem Widerspruch
 angefochtenen Verwaltungsakt erlassen oder den Erlaß eines
 Verwaltungsakts abgelehnt haben.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir
@@ -50,14 +47,12 @@ den unter I. genannten Behördenleitern, soweit sie nach dieser
 Anordnung für den Erlaß von Widerspruchsbescheiden zuständig sind. Für
 besondere Fälle behalten wir uns die Vertretung des Dienstherrn vor.
 
-
 ## III. Schlußvorschriften
 
 Diese Anordnung tritt mit Wirkung vom 11. Juni 1990 in Kraft.
 Gleichzeitig tritt die Anordnung des Bundesministers für das Post- und
 Fernmeldewesen vom 25. September 1979 (BGBl. I S. 1669) insoweit außer
 Kraft.
-
 
 ## Schlußformel
 

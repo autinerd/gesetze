@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 22.11.2011 I 2272
 
-
 ## I. - Allgemeine Vorschriften
-
-
 
 ### § 1 Sachlicher Geltungsbereich
 
@@ -46,10 +43,6 @@ erstrebt werden.
     medizinisch fachlichen Betreuung oder der besonderen Einrichtung des
     Krankenkraftwagens bedürfen oder bei denen solches auf Grund ihres
     Zustandes zu erwarten ist.
-
-
-
-
 
 ### § 2 Genehmigungspflicht
 
@@ -125,7 +118,6 @@ erlassenen Vorschriften für die Dauer von höchstens vier Jahren
 genehmigen, soweit öffentliche Verkehrsinteressen nicht
 entgegenstehen.
 
-
 ### § 3 Unternehmer
 
 (1) Die Genehmigung wird dem Unternehmer für einen bestimmten Verkehr
@@ -144,7 +136,6 @@ die Linienführung (§ 9 Abs. 1 Nr. 1) dem anderen erteilt werden; die
 für den Unternehmer geltenden Vorschriften des Gesetzes und der auf
 Grund des Gesetzes erlassenen Rechtsverordnungen sind entsprechend
 anzuwenden.
-
 
 ### § 4 Straßenbahnen, Obusse, Kraftfahrzeuge
 
@@ -200,7 +191,6 @@ Gesetzes sind Fahrzeuge, die für Krankentransport oder Notfallrettung
 besonders eingerichtet und nach dem Fahrzeugschein als
 Krankenkraftwagen anerkannt sind.
 
-
 ### § 5 Dokumente
 
 Genehmigungen, einstweilige Erlaubnisse und Bescheinigungen oder deren
@@ -214,14 +204,12 @@ einstweilige Erlaubnisse und Bescheinigungen auch in elektronischer
 Form mit einer dauerhaft überprüfbaren Signatur nach § 37 Abs. 4 des
 Verwaltungsverfahrensgesetzes erteilt werden können.
 
-
 ### § 6 Umgehungsverbot
 
 Die Verpflichtungen des Unternehmers nach diesem Gesetz werden durch
 rechtsgeschäftliche oder firmenrechtliche Gestaltungen oder
 Scheintatbestände, die zur Umgehung der Bestimmungen des Gesetzes
 geeignet sind, nicht berührt.
-
 
 ### § 7 Beförderung von Personen auf Lastkraftwagen und auf Anhängern hinter Lastkraftwagen und Zugmaschinen
 
@@ -231,7 +219,6 @@ Art hinter Lastkraftwagen oder hinter Zugmaschinen nicht verwendet
 werden.
 
 (2) Die Genehmigungsbehörde kann in Einzelfällen Ausnahmen zulassen.
-
 
 ### § 8 Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr
 
@@ -297,10 +284,7 @@ dieser Verordnung ist, richtet sich nach Landesrecht; sie soll
 grundsätzlich mit dem Aufgabenträger nach Absatz 3 identisch sein. Die
 Vorschrift des § 21 Abs. 3 Satz 1 bleibt unberührt.
 
-
 ## II. - Genehmigung
-
-
 
 ### § 9 Umfang der Genehmigung
 
@@ -336,7 +320,6 @@ mehrere Linien gebündelt erteilt werden.
 
 (4) (weggefallen)
 
-
 ### § 10 Entscheidung in Zweifelsfällen
 
 Entstehen Zweifel darüber, ob eine Personenbeförderung den
@@ -344,7 +327,6 @@ Vorschriften dieses Gesetzes unterliegt oder welcher Verkehrsart oder
 Verkehrsform ein Verkehr zugehört oder wer Unternehmer im Sinne des §
 3 Abs. 1 und 2 ist, so entscheidet die für den Sitz des Unternehmers
 zuständige, von der Landesregierung bestimmte Behörde.
-
 
 ### § 11 Genehmigungsbehörden
 
@@ -390,7 +372,6 @@ Genehmigungsantrags zwischen den Genehmigungsbehörden der beteiligten
 Länder ein Einvernehmen nicht hergestellt und auch ein Einvernehmen
 zwischen den obersten Landesverkehrsbehörden darüber nicht erzielt
 werden kann.
-
 
 ### § 12 Antragstellung
 
@@ -483,7 +464,6 @@ Bundesamt um Auskunft über den Antragsteller zu ersuchen.
 eingeleitet werden, wenn auch der Antrag auf Erteilung der Genehmigung
 für den Betrieb vorliegt. Die Verfahren sind nach Möglichkeit
 miteinander zu verbinden.
-
 
 ### § 13 Voraussetzung der Genehmigung
 
@@ -621,7 +601,6 @@ Genehmigungsvoraussetzungen nach Absatz 1 als gegeben.
 (7) Bei der Genehmigung in den Fällen des § 2 Abs. 2 Nr. 2 und 3 sind
 die Absätze 2, 4 und 5 Satz 1, 2, 4 und 5 nicht anzuwenden.
 
-
 ### § 13a Voraussetzung der Genehmigung bei gemeinwirtschaftlichen Verkehrsleistungen
 
 (1) Die Genehmigung ist zu erteilen, soweit diese für die Umsetzung
@@ -641,7 +620,6 @@ Verkehrsleistung im Sinne des Absatzes 1 nicht diejenige Lösung
 gewählt worden ist, die die geringsten Kosten für die Allgemeinheit
 mit sich bringt, oder bei der Auferlegung oder Vereinbarung der
 Grundsatz der Gleichbehandlung verletzt worden ist.
-
 
 ### § 14 Anhörverfahren
 
@@ -695,7 +673,6 @@ Kenntnis gesetzt hat, bei der Behörde eingehen.
 grenzüberschreitende Gelegenheitsverkehre oder für Transitverkehre
 sind die Absätze 1 bis 4 nicht anzuwenden.
 
-
 ### § 15 Erteilung und Versagung der Genehmigung
 
 (1) Die Entscheidung über den Antrag erfolgt schriftlich; sie ist den
@@ -725,7 +702,6 @@ Widerrufs erteilt werden.
 (5) Die Genehmigungsbehörde hat die zuständige Berufsgenossenschaft
 von der Erteilung der Genehmigung zu unterrichten.
 
-
 ### § 16 Geltungsdauer der Genehmigung
 
 (1) Die Geltungsdauer der Genehmigung für Straßenbahn- und Obusverkehr
@@ -743,7 +719,6 @@ Verkehrsinteressen zu bemessen. Sie beträgt höchstens acht Jahre. Im
 (3) Die Geltungsdauer der Genehmigungen für Gelegenheitsverkehr mit
 Kraftomnibussen beträgt höchstens zehn Jahre und für sonstigen
 Gelegenheitsverkehr mit Kraftfahrzeugen höchstens fünf Jahre.
-
 
 ### § 17 Genehmigungsurkunde
 
@@ -807,11 +782,9 @@ geworden, ist die Genehmigungsurkunde unverzüglich einzuziehen. Ist
 dies nicht möglich, ist sie auf Kosten des Unternehmers für kraftlos
 zu erklären.
 
-
 ### § 18
 
 (weggefallen)
-
 
 ### § 19 Tod des Unternehmers
 
@@ -845,7 +818,6 @@ oder der für die Führung der Geschäfte bestellten Person darf ein
 Dritter das Unternehmen bis zu einem Jahr weiterführen. In ausreichend
 begründeten Sonderfällen kann diese Frist um sechs Monate verlängert
 werden.
-
 
 ### § 20 Einstweilige Erlaubnis
 
@@ -885,11 +857,9 @@ Erteilung einer Genehmigung. § 15 Abs. 3 und 5 gilt entsprechend.
 
 (4) § 17 Abs. 3, 4 und 5 gilt entsprechend.
 
-
 ### § 20a
 
 (weggefallen)
-
 
 ### § 21 Betriebspflicht
 
@@ -920,7 +890,6 @@ werden kann. Steht das öffentliche Verkehrsinteresse einer Entbindung
 entgegen, so gilt § 8 Abs. 4 entsprechen. Bis zur Entscheidung über
 den Antrag hat der Unternehmer den Verkehr aufrechtzuerhalten.
 
-
 ### § 22 Beförderungspflicht
 
 Der Unternehmer ist zur Beförderung verpflichtet, wenn
@@ -935,10 +904,6 @@ Der Unternehmer ist zur Beförderung verpflichtet, wenn
 3.  die Beförderung nicht durch Umstände verhindert wird, die der
     Unternehmer nicht abwenden und denen er auch nicht abhelfen kann.
 
-
-
-
-
 ### § 23 Haftung für Sachschäden
 
 Der Unternehmer kann die Haftung für Sachschäden gegenüber jeder
@@ -946,11 +911,9 @@ beförderten Person nur insoweit ausschließen, als der Schaden 1.000
 Euro übersteigt und nicht auf Vorsatz oder grober Fahrlässigkeit
 beruht.
 
-
 ### § 24
 
 (weggefallen)
-
 
 ### § 25 Widerruf der Genehmigung
 
@@ -991,7 +954,6 @@ Satz 2 gilt entsprechend.
 (4) Die Absätze 1 bis 3a sind auf den Widerruf der Genehmigung für die
 Übertragung der Betriebsführung entsprechend anzuwenden.
 
-
 ### § 25a Untersagung von Personenkraftverkehrsgeschäften
 
 Rechtfertigen Tatsachen die Annahme, dass beim Verkehr mit
@@ -1009,7 +971,6 @@ im Sinne des Satzes 1 nicht mehr vorliegt. Vor Ablauf eines Jahres
 nach Bestandskraft der Untersagungsverfügung kann die Wiederaufnahme
 der Führung von Personenkraftverkehrsgeschäften nur gestattet werden,
 wenn hierfür besondere Gründe vorliegen.
-
 
 ### § 26 Erlöschen der Genehmigung
 
@@ -1032,24 +993,15 @@ Die Genehmigung erlischt
 2.  beim Taxenverkehr, wenn der Unternehmer seinen Betriebssitz in eine
     andere Gemeinde verlegt.
 
-
-
-
-
 ### § 27 Zwangsmaßnahmen
 
 Das Verwaltungszwangsverfahren richtet sich, soweit dieses Gesetz von
 Behörden der Länder ausgeführt wird, nach den landesrechtlichen
 Vorschriften.
 
-
 ## III. - Sonderbestimmungen für die einzelnen Verkehrsarten
 
-
-
 ### A. - Straßenbahnen
-
-
 
 #### § 28 Planfeststellung
 
@@ -1121,7 +1073,6 @@ nach Absatz 2 Nr. 2 gegebenen Zustimmung. Das
 Planfeststellungsverfahren kann gleichzeitig mit dem
 Genehmigungsverfahren durchgeführt werden.
 
-
 #### § 28a Veränderungssperre, Vorkaufsrecht
 
 (1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den
@@ -1141,7 +1092,6 @@ Entschädigung verlangen.
 
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Unternehmer an den
 betroffenen Flächen ein Vorkaufsrecht zu.
-
 
 #### § 29 Planfeststellungsbehörde
 
@@ -1253,7 +1203,6 @@ durch Planergänzung oder durch ein ergänzendes Verfahren behoben
 werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes und
 die entsprechenden landesrechtlichen Bestimmungen bleiben unberührt.
 
-
 #### § 29a Vorzeitige Besitzeinweisung
 
 (1) Ist der sofortige Beginn von Bauarbeiten geboten und weigert sich
@@ -1313,7 +1262,6 @@ Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann
 nur innerhalb eines Monats nach der Zustellung des
 Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
-
 #### § 30 Enteignung
 
 Die Enteignung ist zulässig, soweit sie zur Ausführung eines nach den
@@ -1321,7 +1269,6 @@ Die Enteignung ist zulässig, soweit sie zur Ausführung eines nach den
 Der festgestellte Plan oder die Plangenehmigung ist dem
 Enteignungsverfahren zugrunde zu legen und für die Enteignungsbehörde
 bindend. Im übrigen gelten die Enteignungsgesetze der Länder.
-
 
 #### § 31 Benutzung öffentlicher Straßen
 
@@ -1360,7 +1307,6 @@ zustande, entscheiden die von der Landesregierung bestimmten Behörden.
 (6) Auf Vereinbarungen des Unternehmers mit dem Träger der
 Straßenbaulast über die Benutzung öffentlicher Straßen ist im
 Planfeststellungsbeschluß oder in der Plangenehmigung hinzuweisen.
-
 
 #### § 32 Duldungspflichten Dritter
 
@@ -1402,10 +1348,7 @@ Unternehmer Entschädigung zu leisten. § 31 Abs. 5 gilt entsprechend.
 Für die Geltendmachung von Entschädigungsansprüchen ist der
 ordentliche Rechtsweg gegeben.
 
-
 #### (XXXX) §§ 33 bis 35 (weggefallen)
-
-
 
 #### § 36 Bau- und Unterhaltungspflicht
 
@@ -1417,18 +1360,15 @@ dem Stand der Technik entsprechend zu unterhalten.
 (2) Die Genehmigungsbehörde kann dem Unternehmer eine Frist setzen,
 innerhalb derer die Betriebsanlagen zu bauen sind.
 
-
 #### § 37 Aufnahme des Betriebs
 
 Die Genehmigung zur Aufnahme des Betriebs der Straßenbahnen erteilt
 die Genehmigungsbehörde im Einvernehmen mit der für die technische
 Aufsicht zuständigen Behörde.
 
-
 #### § 38
 
 (weggefallen)
-
 
 #### § 39 Beförderungsentgelte und -bedingungen
 
@@ -1476,7 +1416,6 @@ Beförderungsbedingungen sind vom Unternehmer vor ihrer Einführung
 ortsüblich bekanntzumachen; die Bekanntmachung ist in den zum
 Aufenthalt der Fahrgäste bestimmten Räumen auszuhängen.
 
-
 #### § 40 Fahrpläne
 
 (1) Der Fahrplan muß die Führung der Linie, ihren Ausgangs- und
@@ -1506,10 +1445,7 @@ bekanntzumachen. Ferner sind die gültigen Fahrpläne in den zum
 Aufenthalt der Fahrgäste bestimmten Räumen anzubringen. An den
 Haltestellen sind mindestens die Abfahrtszeiten anzuzeigen.
 
-
 ### B. - Verkehr mit Obussen
-
-
 
 #### § 41 Entsprechend anwendbare Vorschriften
 
@@ -1524,10 +1460,7 @@ Straßenbaulast; § 31 Abs. 1, 2, 4 bis 6 ist entsprechend anzuwenden.
 (3) Im übrigen sind auf den Obusverkehr die Vorschriften der §§ 39 und
 40 entsprechend anzuwenden.
 
-
 ### C. - Linienverkehr mit Kraftfahrzeugen
-
-
 
 #### § 42 Begriffsbestimmung Linienverkehr
 
@@ -1536,7 +1469,6 @@ eingerichtete regelmäßige Verkehrsverbindung, auf der Fahrgäste an
 bestimmten Haltestellen ein- und aussteigen können. Er setzt nicht
 voraus, daß ein Fahrplan mit bestimmten Abfahrts- und Ankunftszeiten
 besteht oder Zwischenhaltestellen eingerichtet sind.
-
 
 #### § 43 Sonderformen des Linienverkehrs
 
@@ -1561,11 +1493,9 @@ dient. Die Regelmäßigkeit wird nicht dadurch ausgeschlossen, daß der
 Ablauf der Fahrten wechselnden Bedürfnissen der Beteiligten angepaßt
 wird.
 
-
 #### § 44
 
 (weggefallen)
-
 
 #### § 45 Sonstige Vorschriften
 
@@ -1587,10 +1517,7 @@ so anzuwenden, daß insbesondere den Belangen von Berufstätigen und
 Arbeitgebern sowie von Schülern und Lehranstalten Rechnung getragen
 wird.
 
-
 ### D. - Ausgleichszahlungen
-
-
 
 #### § 45a Ausgleichspflicht
 
@@ -1649,10 +1576,7 @@ der Befolgung der Auflagen errechnet hätte.
 
 (5)
 
-
 ### E. - Gelegenheitsverkehr mit Kraftfahrzeugen
-
-
 
 #### § 46 Formen des Gelegenheitsverkehrs
 
@@ -1676,7 +1600,6 @@ Kraftfahrzeugen, die nicht Linienverkehr nach den §§ 42 und 43 ist.
 höheren Verwaltungsbehörde bestimmten Orten unter 50.000 Einwohnern
 darf eine Genehmigung für den Taxenverkehr und den Mietwagenverkehr
 nicht für denselben Personenkraftwagen erteilt werden.
-
 
 #### § 47 Verkehr mit Taxen
 
@@ -1725,7 +1648,6 @@ festgesetzten Beförderungsentgelte (Pflichtfahrbereich).
 
 (5) Die Vermietung von Taxen an Selbstfahrer ist verboten.
 
-
 #### § 48 Ausflugsfahrten und Ferienziel-Reisen
 
 (1) Ausflugsfahrten sind Fahrten, die der Unternehmer mit
@@ -1756,7 +1678,6 @@ Ausnahmen gestatten, wenn dadurch die öffentlichen Verkehrsinteressen
 nicht beeinträchtigt werden.
 
 (4) Die Vorschriften der §§ 21 und 22 sind nicht anzuwenden.
-
 
 #### § 49 Verkehr mit Mietomnibussen und mit Mietwagen
 
@@ -1794,11 +1715,9 @@ führen. Den Taxen vorbehaltene Zeichen und Merkmale dürfen für
 Mietwagen nicht verwendet werden. Die §§ 21 und 22 sind nicht
 anzuwenden.
 
-
 #### § 50
 
 (weggefallen)
-
 
 #### § 51 Beförderungsentgelte und -bedingungen im Taxenverkehr
 
@@ -1860,15 +1779,11 @@ einheitliche Beförderungsentgelte und -bedingungen vereinbaren.
 (5) Für die Anwendung der Beförderungsentgelte und -bedingungen gilt §
 39 Abs. 3 entsprechend.
 
-
 #### § 51a
 
 -
 
-
 ## IV. - Auslandsverkehr
-
-
 
 ### § 52 Grenzüberschreitender Verkehr
 
@@ -1921,7 +1836,6 @@ Europäischen Gemeinschaften und internationalen Übereinkommen über den
 grenzüberschreitenden Verkehr dauernd oder vorübergehend vom Verkehr
 in oder durch die Bundesrepublik Deutschland ausschließen.
 
-
 ### § 53 Transit-(Durchgangs-)Verkehr
 
 (1) Für die Beförderung von Personen im Transit-(Durchgangs-)Verkehr
@@ -1952,10 +1866,7 @@ jedoch ist bei Ferienziel-Reisen die von der Landesregierung bestimmte
 Behörde zuständig, in deren Gebiet der erste Grenzübergang bei der
 Einfahrt stattfindet. § 52 Abs. 4 gilt entsprechend.
 
-
 ## V. - Aufsicht, Prüfungsbefugnisse
-
-
 
 ### § 54 Aufsicht
 
@@ -1993,7 +1904,6 @@ Gelegenheitsverkehr mit Kraftfahrzeugen und den Betrieb so zu regeln,
 daß der Verkehr ordnungsgemäß abgewickelt und den Pflichten nach § 39
 Abs. 7 und § 40 Abs. 4 genügt werden kann.
 
-
 ### § 54a Prüfungsbefugnisse der Genehmigungsbehörde
 
 (1) Die Genehmigungsbehörde kann zur Durchführung der Aufsicht und zur
@@ -2023,7 +1933,6 @@ Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 (2) Die Regelungen des Absatzes 1 gelten entsprechend auch für die
 nach § 45a Abs. 2 zur Festlegung der Kostensätze befugte Behörde.
 
-
 ### § 54b Risikoeinstufung
 
 Die Aufsichtsbehörden führen ein Risikoeinstufungssystem im Sinne des
@@ -2033,7 +1942,6 @@ von der Anzahl und dem Ausmaß der Rechtsverstöße, wie dies in den
 Durchführungsbestimmungen zu Artikel 6 Absatz 2 Buchstabe b der
 Verordnung (EG) Nr. 1071/2009 konkretisiert wird.
 
-
 ### § 54c Verkehrsunternehmensdatei
 
 In der Verkehrsunternehmensdatei nach § 15 des
@@ -2041,10 +1949,7 @@ Güterkraftverkehrsgesetzes werden alle im Inland niedergelassenen
 Unternehmen des gewerblichen Güterverkehrs und des gewerblichen
 Personenverkehrs mit Kraftomnibussen geführt.
 
-
 ## VI. - Rechtsbehelfsverfahren und Gebühren
-
-
 
 ### § 55 Vorverfahren bei der Anfechtung von Verwaltungsakten
 
@@ -2052,7 +1957,6 @@ Eines Vorverfahrens bedarf es auch, wenn ein Verwaltungsakt
 angefochten wird, den eine oberste Landesverkehrsbehörde oder das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung erlassen hat.
 § 29 Abs. 6 Satz 1 bleibt unberührt.
-
 
 ### § 56 Gebühren
 
@@ -2066,10 +1970,7 @@ Rechtsträger, dessen Behörde die Amtshandlung vornimmt, bei Auslagen
 auch der Rechtsträger, bei dessen Behörde die Auslagen entstanden
 sind.
 
-
 ## VII. - Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften
-
-
 
 ### § 57 Rechtsverordnungen
 
@@ -2198,23 +2099,17 @@ des Bundesministeriums für Verkehr, Bau und Stadtentwicklung genannten
 Unternehmen vom Anwendungsbereich dieser Verordnung durch
 Rechtsverordnung ausnehmen kann.
 
-
 ### § 58 Allgemeine Verwaltungsvorschriften
 
 Die zur Durchführung dieses Gesetzes erforderlichen Allgemeinen
 Verwaltungsvorschriften erläßt die Bundesregierung mit Zustimmung des
 Bundesrates.
 
-
 ### (XXXX) §§ 59 und 59a (weggefallen)
-
 
 ## VIII. - Bußgeldvorschriften
 
-
-
 ### (XXXX) §§ 60 und 60a (weggefallen)
-
 
 ### § 61 Ordnungswidrigkeiten
 
@@ -2318,10 +2213,7 @@ geahndet werden, wenn sie im Bereich gemeinsamer
 Grenzabfertigungsanlagen außerhalb des räumlichen Geltungsbereiches
 dieses Gesetzes begangen wird.
 
-
 ## IX. - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 62 Übergangsbestimmungen
 
@@ -2329,11 +2221,9 @@ Genehmigungen für Gelegenheitsverkehre, die vor dem 1. September 2007
 erteilt worden sind, bleiben bis zum Ablauf der in der
 Genehmigungsurkunde enthaltenen Geltungsdauer wirksam.
 
-
 ### § 63 (weggefallen)
 
 -
-
 
 ### § 64 Andere Gesetze
 
@@ -2375,18 +2265,15 @@ Genehmigungsbehörde ihre Entscheidung im Einvernehmen mit der von der
 Landesregierung des mitbeteiligten Landes bestimmten
 Genehmigungsbehörde trifft.
 
-
 ### § 64a Ersetzung bundesrechtlicher Vorschriften durch Landesrecht
 
 Die Länder können mit Wirkung ab dem 1. Januar 2007 § 45a und § 57
 Abs. 1 Nr. 9 sowie die Vorschriften, zu deren Erlass § 57 Abs. 1 Nr. 9
 ermächtigt, durch Landesrecht ersetzen.
 
-
 ### § 65
 
 (Inkrafttreten, Aufhebung von Rechtsvorschriften)
-
 
 ### § 66 Geltung im Land Berlin
 
@@ -2395,7 +2282,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen
 werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1105) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

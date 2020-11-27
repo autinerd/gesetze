@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.12.2012 I 2546
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 2 und 6 Abs. 3 des Seefischereigesetzes vom 12. Juli
 1984 (BGBl. I S. 876) wird verordnet:
-
 
 ## § 1 Überwachung der Fischerei im Küstenmeer
 
@@ -36,7 +34,6 @@ das durch die seewärtige Grenze des Küstenmeeres im Bereich des Landes
 Mecklenburg-Vorpommern landwärts bis zu einer Linie, die drei
 Seemeilen seewärts der Basislinie im Bereich des Landes Mecklenburg-
 Vorpommern entfernt ist, bestimmt ist.
-
 
 ## § 2 Beschränkungen der Fischerei
 
@@ -102,7 +99,6 @@ die Fischerei in bestimmten Gebieten festgelegt, ist die Fischerei in
 diesen Gebieten mit Fischereifahrzeugen, die eine höhere als die nach
 dem Fischereirecht der Europäischen Union vorgesehene
 Maschinenleistung aufweisen, verboten.
-
 
 ## § 3 Kontrollmaßnahmen
 
@@ -187,7 +183,6 @@ hat der Kapitän auf Verlangen des Kontrollbeamten das Fahrzeug
 unverzüglich anzuhalten und die Netze nur nach Anweisung des
 Kontrollbeamten einzuholen.
 
-
 ## § 4 Vermarktungskontrollen
 
 Die Bundesanstalt kann, soweit dies zur Sicherstellung einer
@@ -199,7 +194,6 @@ Meldungen oder Verkaufsabrechnungen Dritter an diese Behörde
 weiterzuleiten. Die Entscheidung nach Satz 1 ergeht im Benehmen mit
 der für den Sitz der anerkannten Erzeugerorganisation zuständigen
 obersten Landesbehörde.
-
 
 ## § 5 Verbindliche Anlandeorte
 
@@ -221,7 +215,6 @@ aufgeführt sind.
 herkömmlich an anderen Orten angelandet, so ist dies im bisherigen
 Maße weiterhin zulässig. Gleiches gilt für Anlandungen im Registrier-
 oder Heimathafen des betroffenen Fischereifahrzeugs.
-
 
 ## § 6 Besondere Bestimmungen über Anlandungen und Umladungen in bezeichneten Häfen und an küstennahen Orten
 
@@ -276,10 +269,6 @@ insbesondere zu berücksichtigen:
 5.  mögliche nachteilige Auswirkungen einer Nichtbezeichnung oder
     beschränkter Anlande- oder Umladezeiten für die Wirtschaft.
 
-
-
-
-
 ## § 7 Ausnahmen
 
 (1) Die Vorschriften dieser Verordnung gelten nicht für Fänge, die
@@ -317,7 +306,6 @@ obersten Landesbehörden.
 der gemeinschaftsrechtlichen oder unionsrechtlichen Vorschriften
 verkauft oder zum Kauf angeboten werden.
 
-
 ## § 8 Zugang von Fischereifahrzeugen aus Drittländern zum Hafen
 
 (1) Hat die Bundesanstalt einem Fischereifahrzeug aus einem Drittland
@@ -349,7 +337,6 @@ der Europäischen Union ist es verboten, in einen Hafen der
 Bundesrepublik Deutschland einzulaufen, es sei denn, es handelt sich
 um den Heimathafen des jeweiligen Fischereifahrzeugs.
 
-
 ## § 9 Automatisches Schiffsidentifizierungssystem
 
 Der Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
@@ -363,7 +350,6 @@ ist, während sich das Fahrzeug fortbewegt. Satz 1 gilt ab dem 31. Mai
 über alles von 18 Meter oder mehr und weniger als 24 Meter und ab dem
 31\. Mai 2014 auch für den Kapitän eines Fischereifahrzeugs mit einer
 Länge über alles von 15 Meter oder mehr und weniger als 18 Meter.
-
 
 ## § 10 Logbuchführung
 
@@ -386,7 +372,6 @@ als der zuvor verwendeten jeweils
 
 
 im Fischereilogbuch jeweils auf einer neuen Seite einzutragen.
-
 
 ## § 11 Umladeerklärung
 
@@ -431,7 +416,6 @@ Fischereiressourcen im Rahmen der Gemeinsamen Fischereipolitik (ABl. L
 358 vom 31.12.2002, S. 59) besondere Regelungen treffen, bleiben diese
 von den Absätzen 1 und 2 unberührt.
 
-
 ## § 12 Anlandeerklärung
 
 (1) Der Kapitän eines Fischereifahrzeugs aus einem Mitgliedstaat der
@@ -459,7 +443,6 @@ Bundesanstalt elektronisch zu übermitteln.
 (3) Soweit Wiederauffüllungspläne oder Bewirtschaftungspläne im Sinne
 der Artikel 5 oder 6 der Verordnung (EG) Nr. 2371/2002 besondere
 Regelungen treffen, bleiben diese von Absatz 1 und 2 unberührt.
-
 
 ## § 13 Ausnahmen für die küstennahe Fischerei und die Tagesfischerei
 
@@ -507,7 +490,6 @@ und Verkehrswirtschaft als Einsatzgebiet Gebiete eingetragen sind, die
 ganz oder teilweise als Meeresgebiete im Sinne des § 57 des
 Bundesnaturschutzgesetzes ausgewiesen sind.
 
-
 ## § 14 Fanggerät
 
 (1) Schleppnetze, Snurrewaden oder ähnliche Fanggeräte mit
@@ -544,7 +526,6 @@ zuletzt durch die Verordnung (EU) Nr. 1237/2010 (ABl. L 348 vom
 31\.12.2010, S. 34) geändert worden ist, vorgeschriebenen
 Mindestmaschenöffnung zu verwenden.
 
-
 ## § 15 Wiegen von Seefischereierzeugnissen
 
 (1) Der für den Erstverkauf der im Hoheitsgebiet angelandeten
@@ -567,7 +548,6 @@ vereinbar ist.
 Absatz 1 und 3 und einen Kontrollplan nach Artikel 61 Absatz 1 der
 Verordnung (EG) Nr. 1224/2009 anzunehmen, soweit diese von der
 Europäischen Kommission gebilligt worden sind.
-
 
 ## § 16 Durchführung des Punktesystems für schwere Verstöße
 
@@ -608,10 +588,6 @@ abweichen.
     veröffentlicht oder auf Grund eines Rechtsakts des Fischereirechts der
     Europäischen Union eingerichtet worden ist.
 
-
-
-
-
 ## § 17 Vermarktung von Seefischereierzeugnissen
 
 (1) Der Käufer, Verkäufer, Lagerhalter und Transporteur haben nach
@@ -647,7 +623,6 @@ Nur anerkannte Erzeugerorganisationen und eingetragene Käufer dürfen
 im Rahmen eines Erstverkaufs im Inland von einem Fischereifahrzeug
 Seefischereierzeugnisse erwerben; Artikel 59 Absatz 3 der Verordnung
 (EG) 1224/2009 bleibt unberührt.
-
 
 ## § 18 Rückverfolgbarkeit
 
@@ -738,7 +713,6 @@ den Verbraucher verkauft werden, sind von den Anforderungen des
 Artikels 58 der Verordnung (EG) Nr. 1224/2009 ausgenommen, sofern
 diese einen Wert von 50 Euro pro Tag nicht überschreiten.
 
-
 ## § 19 Übernahmeerklärung und Transport
 
 (1) Die für die Erstvermarktung der im Hoheitsgebiet angelandeten
@@ -768,7 +742,6 @@ verbracht, so muss der Spediteur der Seefischereierzeugnisse den
 zuständigen Behörden der Länder Dokumente zum Nachweis, dass der
 Verkauf tatsächlich erfolgt ist, nach Aufforderung unverzüglich
 vorlegen.
-
 
 ## § 20 Einfuhr und Ausfuhr von Fischereierzeugnissen
 
@@ -801,7 +774,6 @@ Fassung, als Voraussetzung für die Bewilligung des Status eines
 anerkannten Wirtschaftsbeteiligten liegt vor, wenn der Antragsteller
 Einfuhren von 10 Tonnen Fischereierzeugnissen pro Jahr oder mehr
 nachweisen kann.
-
 
 ## § 21 Finanzielle Beteiligung der Europäischen Union an bestimmten Ausgaben der Wirtschaft
 
@@ -848,7 +820,6 @@ dieser von der anstehenden Mittelausschüttung, den Verpflichtungen,
 die bei und nach Verwendung der Mittel auf Grund des Fischereirechts
 der Europäischen Union einzuhalten sind, und den hierbei geltenden
 Verfahren in Kenntnis gesetzt wird.
-
 
 ## § 22 Ordnungswidrigkeiten
 
@@ -1016,20 +987,14 @@ Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig vorlegt.
 
-
-
-
-
 ## § 23 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anlage 1 (zu § 2 Abs. 1) Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
 
@@ -1118,10 +1083,6 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
     *   Blauleng
 
-
-
-
-
 ## Anlage 2 (zu § 3 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1487;
@@ -1147,7 +1108,6 @@ Bundesanstalt
 für Landwirtschaft und Ernährung
 Im Auftrag
 (hellgrün mit schwarzem Aufdruck, Format DIN A6) ****
-
 
 ## Anlage 3 (zu § 5 Absatz 2) Verbindliche Anlandeorte
 
@@ -1291,9 +1251,6 @@ Im Auftrag
 
 *    *   Freest
 
-
-
-
 ## Anlage 4 (zu § 14 Absatz 1)
 
 (Fundstelle: BGBl. I 2012, 2555 - 2556)
@@ -1404,12 +1361,6 @@ Technische Beschreibung des Steerts
 
     c)  Das Fluchtfenster darf nicht durch einen Flapper abgedeckt werden.
 
-
-
-
-
-
-
 ## Abschnitt 2
 
 ## **Technische Beschreibung eines T90-Schleppnetzes**
@@ -1458,13 +1409,6 @@ Technische Beschreibung des Steerts
         Die Netzblätter von Steert oder Tunnel müssen mit den Netzblättern des
         sich verjüngenden Teils des Schleppnetzes durch Einhänger verbunden
         sein.
-
-
-
-
-
-
-
 
 ## Anlage 5 (zu § 16 Absatz 1) Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
 

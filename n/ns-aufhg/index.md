@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 24.9.2009 I 3150
 
-
 ## § 1
 
 Durch dieses Gesetz werden verurteilende strafgerichtliche
@@ -28,7 +27,6 @@ Aufrechterhaltung des nationalsozialistischen Unrechtsregimes aus
 politischen, militärischen, rassischen, religiösen oder
 weltanschaulichen Gründen ergangen sind, aufgehoben. Die den
 Entscheidungen zugrunde liegenden Verfahren werden eingestellt.
-
 
 ## § 2
 
@@ -45,10 +43,6 @@ Entscheidungen im Sinne des § 1 sind insbesondere
 3.  Entscheidungen, die auf den in der Anlage genannten gesetzlichen
     Vorschriften beruhen.
 
-
-
-
-
 ## § 3
 
 (1) Ist eine Entscheidung auf die Verletzung mehrerer
@@ -63,7 +57,6 @@ Bedeutung ist.
 des Absatzes 1 vorliegen, so ist die dem Täter günstigere Auslegung
 zugrunde zu legen.
 
-
 ## § 4
 
 (1) Ist die Entscheidung in Fällen des § 3 nicht vollständig
@@ -74,13 +67,11 @@ für den die Voraussetzungen des § 1 Satz 1, auch in Verbindung mit §
 (2) Über den Antrag entscheidet das Landgericht durch unanfechtbaren
 Beschluß.
 
-
 ## § 5
 
 Weitergehende Vorschriften, die zur Wiedergutmachung oder Beseitigung
 nationalsozialistischen Unrechts in der Strafrechtspflege erlassen
 wurden, bleiben unberührt.
-
 
 ## § 6
 
@@ -109,18 +100,15 @@ der Urteilsaufhebung mit.
 (3) Absatz 1 Satz 2 und 3, Absatz 2 gelten für Entscheidungen nach § 4
 sinngemäß.
 
-
 ## § 7
 
 Die Aufhebung des Urteils umfaßt auch alle Nebenstrafen und
 Nebenfolgen.
 
-
 ## § 8
 
 Eintragungen im Bundeszentralregister über Urteile, deren Aufhebung
 gemäß § 6 festgestellt worden ist, sind zu tilgen.
-
 
 ## Anlage (zu Artikel 1 § 2 Nr. 3)
 

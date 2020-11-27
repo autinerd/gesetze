@@ -21,7 +21,6 @@ Geändert durch
 Die v tritt gem. § 6 satz 2 mit ablauf des 23.3.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 satz 2 mit zustimmung des bundesrates aufgeh. durch
 :   Art. 6 V v. 10.3.2009 I 491; dadurch ist die Geltung der V über den 23.3.2009 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe r in Verbindung mit Abs. 4
@@ -34,7 +33,6 @@ und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit den Bundesministerien der
 Finanzen und für Wirtschaft und Technologie:
-
 
 ## § 1 Anwendungsbereich
 
@@ -51,13 +49,11 @@ Marktorganisation für Wein hinsichtlich der Stützungsprogramme, des
 Handels mit Drittländern, des Produktionspotenzials und der Kontrollen
 im Weinsektor (ABl. EU Nr. L 170 S. 1).
 
-
 ## § 2 Zuständige Stellen
 
 Die nach Landesrecht zuständigen Stellen gewähren die
 gemeinschaftsrechtlich vorgesehenen Prämien für das Roden von
 Rebflächen in den Weinwirtschaftsjahren 2008/2009 bis 2010/2011.
-
 
 ## § 3 Verfahren, Ermittlungen zur Festsetzung der Höhe der Prämie
 
@@ -81,13 +77,6 @@ Rechtsverordnung
     b)  beantragt, die Prämie auf der Grundlage des Durchschnittsertrags der
         Parzelle festzusetzen.
 
-
-
-
-
-
-
-
 ## § 4 Ausschluss von Rebflächen
 
 (1) In einer Rechtsverordnung nach § 3 kann die Gewährung einer
@@ -109,7 +98,6 @@ Rebfläche des Anbaugebiets erreicht haben. Im Falle einer Regelung
 nach Satz 1 sind durch geeignete Verfahrensbestimmungen Vorkehrungen
 für eine gleichmäßige Behandlung aller Anträge zu treffen.
 
-
 ## § 5 Duldungs- und Mitwirkungspflichten
 
 (1) Die Rodung ist der zuständigen Stelle innerhalb eines Monats nach
@@ -128,7 +116,6 @@ gestatten und die für die Überprüfung der Prämiengewährung in Betracht
 kommenden Aufzeichnungen, Belege und sonstigen Schriftstücke auf
 Verlangen zur Einsicht vorzulegen, Auskunft zu erteilen und die
 erforderliche Unterstützung zu gewähren.
-
 
 ## § 6 Inkrafttreten
 

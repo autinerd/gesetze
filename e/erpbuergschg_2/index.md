@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 517
 
-
-
 ## § 1
 
 (1) Der in § 2 Satz 1 des Dritten Gesetzes über die Übernahme von
@@ -36,13 +34,11 @@ und dem
 Bundesminister für wirtschaftliche Zusammenarbeit
 gemeinsam ausgeübt.
 
-
 ## § 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 3
 

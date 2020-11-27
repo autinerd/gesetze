@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 28.3.2011 I 521
 
-
 ## I. - Besondere Anspruchsvoraussetzungen
-
-
 
 ### § 1 Bedeutung der entsprechenden Anwendung des § 15 Abs. 2 BEG
 
@@ -35,11 +32,9 @@ zurückzuführen ist. Die Vermutung erstreckt sich nicht auf den
 ursächlichen Zusammenhang zwischen dieser Schädigung und dem
 derzeitigen Gesundheitszustand des Verfolgten.
 
-
 ### § 2 Schaden im unmittelbaren Anschluß an Deportation oder Freiheitsentziehung
 
 (Entfällt)
-
 
 ### § 3 Verschlimmerung früherer Leiden
 
@@ -58,13 +53,11 @@ nationalsozialistischen Gewaltmaßnahmen den Krankheitswert des
 früheren Leidens erhöht und dessen Verlaufsrichtung geändert haben.
 Das Leiden gilt in vollem Umfange als ein Verfolgungsschaden.
 
-
 ### § 4 Anlagebedingte Leiden
 
 Ein anlagebedingtes Leiden gilt als durch nationalsozialistische
 Gewaltmaßnahmen im Sinne der Entstehung verursacht, wenn es durch
 diese Gewaltmaßnahmen wesentlich mitverursacht worden ist.
-
 
 ### § 5 Nachhaltige Beeinträchtigung der Leistungsfähigkeit
 
@@ -72,7 +65,6 @@ Nachhaltig ist die Beeinträchtigung der Leistungsfähigkeit (§ 28 Abs.
 3 BEG), wenn mit Wahrscheinlichkeit anzunehmen ist, daß sie nicht nur
 vorübergehend bestanden hat oder nicht nur vorübergehend bestehen
 bleiben wird.
-
 
 ### § 6 Ärztliche Untersuchung
 
@@ -88,7 +80,6 @@ Nachuntersuchung durchzuführen ist. Wenn der Verfolgte das 60.
 Lebensjahr vollendet hat, findet eine Nachuntersuchung nur auf seinen
 Antrag statt.
 
-
 ### § 7 Folgen der Weigerung
 
 (1) Weigert sich der Verfolgte ohne ausreichenden Grund, sich der
@@ -102,14 +93,9 @@ eingestellt werden.
 schriftlich auf die Rechtsfolgen einer Weigerung hingewiesen worden
 ist.
 
-
 ## II. - Die gesetzlichen Ansprüche
 
-
-
 ### 1. - Heilverfahren
-
-
 
 #### § 8 Anspruch auf Heilverfahren
 
@@ -121,7 +107,6 @@ Hundert beeinträchtigt ist.
 dieser durch nationalsozialistische Gewaltmaßnahmen nur abgrenzbar
 verschlimmert worden ist und der Verfolgungsschaden auf den Zustand,
 der die Heilbehandlung erfordert, nicht ohne Einfluß ist.
-
 
 #### § 9 Umfang des Heilverfahrens
 
@@ -137,10 +122,6 @@ Das Heilverfahren umfaßt
 
 
 3.  die notwendige Pflege.
-
-
-
-
 
 #### § 10 Erfüllung des Anspruchs
 
@@ -170,7 +151,6 @@ Ist dem Verfolgten eine Kur bewilligt worden, so kann der Durchführung
 einer weiteren Kur in der Regel frühestens nach Ablauf von zwei Jahren
 zugestimmt werden.
 
-
 #### § 11 Verfolgte mit Wohnsitz oder dauerndem Aufenthalt außerhalb des Geltungsbereichs des Bundesentschädigungsgesetzes
 
 (1) Der Verfolgte, der seinen Wohnsitz oder dauernden Aufenthalt
@@ -185,10 +165,7 @@ einem angemessenen Verhältnis zu den übrigen Kosten des Heilverfahrens
 stehen oder daß sich der Verfolgte verpflichtet, die Reisekosten
 außerhalb des Geltungsbereiches des Gesetzes selbst zu tragen.
 
-
 ### 2. - Rente
-
-
 
 #### § 11a Anwendung der Vermutung bei Konzentrationslagerhaft von mindestens einem Jahr
 
@@ -199,14 +176,12 @@ um 25 vom Hundert oder mehr gemindert ist.
 (2) Für die Berechnung der Dauer der Konzentrationslagerhaft findet §
 45 Satz 3 BEG entsprechende Anwendung.
 
-
 #### § 12 Grundlage der Berechnung
 
 Die Rente wird unter Zugrundelegung des Diensteinkommens (Grundgehalt
 und Wohnungsgeld) eines mit dem Verfolgten vergleichbaren
 Bundesbeamten in einer Besoldungsgruppe mit aufsteigenden Gehältern
 festgesetzt.
-
 
 #### § 13 Art der Berechnung
 
@@ -219,7 +194,6 @@ Beamtengruppen, nach Lebensaltersstufen gegliedert, ausweist.
 (2) Maßgebend ist das Diensteinkommen, das dem Verfolgten bei der
 Einreihung gemäß Absatz 1 nach seinem Alter am 1. Mai 1949 zugestanden
 hätte.
-
 
 #### § 14 Einreihung in eine vergleichbare Beamtengruppe
 
@@ -267,7 +241,6 @@ und soziale Stellung erlangt, so bestimmt sich seine Einreihung in der
 Regel nach der wirtschaftlichen oder, sofern dies günstiger ist, nach
 der sozialen Stellung des Elternteils oder Großelternteils, der den
 Unterhalt des Verfolgten überwiegend bestritten hat.
-
 
 #### § 15 Bemessung des Hundertsatzes
 
@@ -475,7 +448,6 @@ angemessen berücksichtigt werden. Dabei sind die Durchschnittswerte
 der Devisenkurse und die Kaufkraftrichtzahlen für jedes Jahr
 gegenüberzustellen.
 
-
 #### § 15a Zuschläge und Abschläge bei der Bemessung des Hundertsatzes
 
 (1) Bei der Bemessung des Hundertsatzes nach § 15 sind im Regelfall
@@ -649,13 +621,11 @@ entfallen, wenn der Ehegatte selbst Anspruch auf Rente für Schaden an
 Körper oder Gesundheit hat und die Zu- und Abschläge bereits bei der
 Berechnung seiner Rente vorgenommen worden sind.
 
-
 #### § 16 Mindestrente
 
 Der monatliche Mindestbetrag der Rente nach § 32 BEG darf nicht
 unterschritten werden, soweit sich aus dem Bundesentschädigungsgesetz
 und dieser Verordnung nichts anderes ergibt.
-
 
 #### § 17 Verteilung von anzurechnenden Leistungen
 
@@ -663,7 +633,6 @@ Bei der Anrechnung von Leistungen auf laufende Renten gemäß § 10 BEG
 soll der anzurechnende Betrag derart verteilt werden, daß dem
 Verfolgten mindestens die Hälfte des ihm gesetzlich zustehenden
 Mindestbetrages der Rente verbleibt.
-
 
 #### § 17a Zahlung der Rente
 
@@ -680,12 +649,10 @@ vollendet; bei Frauen tritt an Stelle des 65. das 60. Lebensjahr.
 jeweils auf volle Deutsche Mark, ab dem 1. Januar 2002 auf volle Euro
 aufzurunden.
 
-
 #### § 18 Erlöschen der Rente
 
 Im Falle des Todes des Verfolgten erlischt die Rente mit dem Ende des
 Monats, in dem der Verfolgte stirbt.
-
 
 #### § 19 Anzeigepflicht
 
@@ -706,7 +673,6 @@ amtlichen Melderegister erreicht werden kann.
 (3) Hat der Verfolgte einen gesetzlichen Vertreter, so obliegen diesem
 die Pflichten aus den Absätzen 1 und 2.
 
-
 #### § 20
 
 Kommt der Verfolgte oder sein gesetzlicher Vertreter den nach § 19
@@ -714,7 +680,6 @@ bestehenden Pflichten nicht nach, so kann die Zahlung der Rente ganz
 oder teilweise eingestellt werden. Dies gilt nur, wenn der Verfolgte
 oder sein gesetzlicher Vertreter auf diese Rechtsfolgen vorher
 hingewiesen worden ist.
-
 
 #### § 21 Neufestsetzung der Rente bei Änderung der Verhältnisse
 
@@ -727,7 +692,6 @@ die Zustellung des Bescheides folgenden Monats wirksam. Hat der
 Verfolgte den Erlaß des Bescheides schuldhaft verhindert oder
 verzögert, so kann die Rückzahlung der überzahlten Rente angeordnet
 werden.
-
 
 #### § 21a Erhöhung der monatlichen Mindestbeträge der Rente (§ 32 Abs. 1 des Bundesentschädigungsgesetzes)
 
@@ -1566,9 +1530,6 @@ Beeinträchtigung der Erwerbsfähigkeit
     *
     *
 
-
-
-
 #### § 21b Erhöhung der monatlichen Mindestbeträge der Rente (§ 32 Abs. 2 des Bundesentschädigungsgesetzes)
 
    (Fundstelle: BGBl. I 1983, 1318;
@@ -1872,12 +1833,7 @@ Der monatliche Mindestbetrag der Rente beträgt
     *
     *
 
-
-
-
 ### 3. - Kapitalentschädigung
-
-
 
 #### § 22 Berechnung der Kapitalentschädigung
 
@@ -1896,10 +1852,7 @@ für den Anspruch auf Rente erfüllt waren.
 Erwerbsfähigkeit 25 vom Hundert nicht erreicht hat, entfällt der
 Anspruch auf Kapitalentschädigung.
 
-
 ### 4. - Versorgung der Hinterbliebenen
-
-
 
 #### § 23 Anspruch nach § 41 BEG
 
@@ -1909,14 +1862,12 @@ Vorschriften der Ersten Verordnung zur Durchführung des
 Bundesentschädigungsgesetzes in der Fassung der Verordnung vom 13.
 April 1966 (Bundesgesetzblatt I S. 292).
 
-
 #### § 23a Anrechnung von überzahlten Rentenbeträgen auf Ansprüche nach § 41 BEG
 
 Sind auf den Rentenanspruch des Verfolgten für Schaden an Körper oder
 Gesundheit an seine Hinterbliebenen nach dem Erlöschen des Anspruchs
 (§ 18) noch Leistungen bewirkt worden, so können diese auf deren
 Ansprüche nach § 41 BEG voll angerechnet werden.
-
 
 #### § 23b Beihilfe nach § 41a BEG
 
@@ -1937,10 +1888,7 @@ oder Gesundheit gewährt wird.
 
 (4) § 23 BEG findet keine Anwendung.
 
-
 ## III. - Schlußbestimmungen
-
-
 
 ### § 23c Stichtag für Neufestsetzung der Renten
 
@@ -1948,7 +1896,6 @@ Renten, die auf Grund des Bundesentschädigungsgesetzes oder dieser
 Verordnung vom 18. September 1965 an zu gewähren oder neu festzusetzen
 sind, werden mit Wirkung vom 1. September 1965 an gewährt oder neu
 festgesetzt.
-
 
 ### § 23d Übergangsvorschriften für Änderungen dieser Verordnung
 
@@ -1977,11 +1924,9 @@ Berechtigten durch unanfechtbaren Bescheid oder durch rechtskräftige
 gerichtliche Entscheidung vorbehaltlos festgesetzt worden sind, behält
 es hierbei zugunsten der Berechtigten sein Bewenden.
 
-
 ### § 24
 
 (weggefallen)
-
 
 ### § 25 Zeitlicher Anwendungsbereich
 
@@ -2009,7 +1954,6 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 
 
 (2) § 2 tritt mit Wirkung vom 18. September 1965 außer Kraft.
-
 
 ### Anlage (zu den §§ 13 und 14 der 2. DV-BEG) Besoldungsübersicht
 

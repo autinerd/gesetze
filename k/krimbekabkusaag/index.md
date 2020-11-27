@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2998
 
-
 ## § 1 Bestimmung der nationalen Kontaktstelle
 
 Nationale Kontaktstelle nach Artikel 6 Abs. 1, Artikel 9 Abs. 1 und
@@ -28,7 +27,6 @@ von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit
 bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
 (BGBl. 2009 II S. 1010, 1011) ist das Bundeskriminalamt.
 
-
 ## § 2 Datenschutzrechtliche Verantwortung für den automatisierten Datenabruf
 
 Die Verantwortung für die Zulässigkeit eines vom Bundeskriminalamt als
@@ -36,7 +34,6 @@ nationaler Kontaktstelle durchgeführten automatisierten Abrufs nach
 Artikel 4 oder Artikel 7 des Abkommens vom 1. Oktober 2008 trägt
 innerstaatlich die Stelle, die das Bundeskriminalamt um die
 Durchführung des Abrufs ersucht hat.
-
 
 ## § 3 Zustimmung zur zweckändernden Verwendung und zur Weitergabe von Daten an Dritte
 
@@ -53,13 +50,11 @@ anderen innerstaatlichen Stelle übermittelt worden sind, entscheidet
 das Bundeskriminalamt über die Erteilung der Zustimmung im Benehmen
 mit dieser Stelle.
 
-
 ## § 4 Automatisierter Abruf von DNA-Identifizierungsmustern
 
 DNA-Identifizierungsmuster dürfen über die Vorschriften des
 Bundeskriminalamtgesetzes hinaus auch für einen automatisierten Abruf
 nach Artikel 7 des Abkommens vom 1. Oktober 2008 verwendet werden.
-
 
 ## § 5 Rechte des Betroffenen auf Geltendmachung von Auskunfts-, Berichtigungs-, Sperrungs- und Löschungsansprüchen gegenüber den Vereinigten Staaten von Amerika durch das Bundeskriminalamt
 

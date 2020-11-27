@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1317
 
-
-
 ## Erster Abschnitt - Volksentscheid
-
-
 
 ### § 1 Gegenstand des Volksentscheides
 
@@ -29,7 +25,6 @@ Grundgesetzes beschlossene Gesetz über eine Maßnahme zur
 Neugliederung. Abzustimmen ist über die Frage, ob die betroffenen
 Länder wie bisher bestehenbleiben sollen oder ob das neue oder neu
 umgrenzte Land gebildet werden soll.
-
 
 ### § 2 Abstimmungsgebiet
 
@@ -46,7 +41,6 @@ Gebietsteilen ein neues oder neu umgrenztes Land gebildet werden soll
 
 jeweils einen eigenen Abstimmungsbereich bilden.
 
-
 ### § 3 Bestimmung des Abstimmungstages
 
 (1) Der Bundesminister des Innern bestimmt den Abstimmungstag und gibt
@@ -60,7 +54,6 @@ aufgerufene Bevölkerung durch öffentliche Bekanntmachung über den
 Gegenstand des Volksentscheides, das Abstimmungsgebiet, die
 Abstimmungsbereiche und den Abstimmungstag.
 
-
 ### § 4 Stimmrecht
 
 (1) Stimmberechtigt ist, wer am Abstimmungstag zum Bundestag
@@ -69,7 +62,6 @@ Abstimmungsgebiet eine Wohnung, bei mehreren Wohnungen seine
 Hauptwohnung, innehat oder sich sonst gewöhnlich aufhält.
 
 (2) Jeder Stimmberechtigte hat eine Stimme.
-
 
 ### § 5 Ausübung des Stimmrechts
 
@@ -106,7 +98,6 @@ teilnehmen.
 
 (4) Der Stimmberechtigte kann sein Stimmrecht nur einmal und nur
 persönlich ausüben.
-
 
 ### § 6 Abstimmungsorgane
 
@@ -147,7 +138,6 @@ Abstimmungsvorstände sind die im jeweiligen Bezirk vertretenen
 Parteien und solche Vereinigungen, die ein berechtigtes Interesse
 nachweisen, nach Möglichkeit zu berücksichtigen.
 
-
 ### § 7 Anwendung von Vorschriften des Bundeswahlgesetzes
 
 Die Vorschriften des Bundeswahlgesetzes über
@@ -183,7 +173,6 @@ Die Vorschriften des Bundeswahlgesetzes über
 
 sind entsprechend anzuwenden.
 
-
 ### § 8 Abstimmungszeit
 
 Die Abstimmung dauert von 8 bis 18 Uhr. Der Kreisabstimmungsleiter
@@ -191,11 +180,9 @@ kann im Einzelfall, wenn besondere Gründe es erfordern, die
 Abstimmungszeit mit einem früheren Beginn festsetzen und bis höchstens
 21 Uhr ausdehnen.
 
-
 ### § 9 Abstimmungsgeheimnis
 
 Die Stimmabgabe ist geheim.
-
 
 ### § 10 Stimmabgabe
 
@@ -214,7 +201,6 @@ in den Umschlag zu legen, diesen dem Abstimmungsvorsteher zu übergeben
 oder selbst in die Stimmurne zu legen, kann sich der Hilfe einer
 Person seines Vertrauens bedienen.
 
-
 ### § 11 Abstimmungsergebnis
 
 (1) Nach Beendigung der Abstimmungshandlung stellt der
@@ -223,7 +209,6 @@ Abstimmungsvorstand das Abstimmungsergebnis im Stimmbezirk fest.
 (2) Der für die Briefabstimmung eingesetzte Abstimmungsvorstand stellt
 das Ergebnis der Briefabstimmung im Kreis oder in der kreisfreien
 Stadt oder dem Abstimmungsbereich fest.
-
 
 ### § 12 Ungültige Stimmen
 
@@ -299,14 +284,12 @@ teilgenommen hat, wird nicht dadurch ungültig, daß er vor dem oder am
 Abstimmungstag stirbt, aus dem Abstimmungsgebiet verzieht oder sein
 Stimmrecht verliert.
 
-
 ### § 13 Entscheidung des Abstimmungsvorstandes
 
 Der Abstimmungsvorstand entscheidet über die Gültigkeit der
 abgegebenen Stimmen und über alle bei der Abstimmungshandlung und bei
 der Ermittlung des Abstimmungsergebnisses sich ergebenden Anstände.
 Der Kreisabstimmungsausschuß hat das Recht der Nachprüfung.
-
 
 ### § 14 Feststellung des Abstimmungsergebnisses und des Ergebnisses des Volksentscheides
 
@@ -356,7 +339,6 @@ Gesamtabstimmungsleiter oder ein Landesabstimmungsleiter binnen eines
 Monats seit der Beschlußfassung des Bundestages beim
 Bundesverfassungsgericht erheben.
 
-
 ### § 15 Nachabstimmung
 
 (1) Eine Nachabstimmung findet statt, wenn die Abstimmung in einem
@@ -368,7 +350,6 @@ bestimmt der Gesamtabstimmungsleiter.
 
 (3) Die Nachabstimmung findet auf denselben Grundlagen und nach
 denselben Vorschriften wie die ausgefallene Abstimmung statt.
-
 
 ### § 16 Wiederholung der Abstimmung
 
@@ -386,17 +367,13 @@ Prüfungsverfahren Abweichungen vorschreibt.
 Rechtskraft der Entscheidung im Prüfungsverfahren stattfinden. Den Tag
 der zu wiederholenden Abstimmung bestimmt der Gesamtabstimmungsleiter.
 
-
 ### § 17 Veröffentlichung des Abstimmungsergebnisses
 
 Der Bundesminister des Innern veröffentlicht die Feststellung des
 Gesamtabstimmungsausschusses nach § 14 Abs. 2 Satz 2 im
 Bundesgesetzblatt und das Abstimmungsergebnis im Bundesanzeiger.
 
-
 ## Zweiter Abschnitt - Volksbegehren
-
-
 
 ### § 18 Gegenstand des Volksbegehrens
 
@@ -407,7 +384,6 @@ Antrag ein Volksbegehren nach Artikel 29 Abs. 4 des Grundgesetzes
 durchgeführt. Das Volksbegehren muß darauf gerichtet sein, für den
 Neugliederungsraum eine einheitliche Landeszugehörigkeit
 herbeizuführen.
-
 
 ### § 19 Zulassungsantrag
 
@@ -424,7 +400,6 @@ mindestens drei Monaten in dem Raum eine Wohnung, bei mehreren
 Wohnungen seine Hauptwohnung, innehat oder sich sonst gewöhnlich
 aufhält.
 
-
 ### § 20 Inhalt des Zulassungsantrags
 
 Im Antrag ist anzugeben
@@ -440,7 +415,6 @@ Im Antrag ist anzugeben
 Weitere Zusätze in Überschrift und Wortlaut des Zulassungsantrages
 sind nicht statthaft; sie sind bei der Veröffentlichung des Antrags
 nach § 25 wegzulassen.
-
 
 ### § 21 Unzulässige Anträge
 
@@ -470,7 +444,6 @@ Volksbegehren, wenn es für einen im wesentlichen gleichen
 Neugliederungsraum auf die Herstellung der gleichen
 Landeszugehörigkeit abzielt.
 
-
 ### § 22 Reihenfolge mehrerer Anträge
 
 (1) Werden für im wesentlichen gleiche Neugliederungsräume mehrere
@@ -483,7 +456,6 @@ vorrangigen Antrag angestrebte Volksbegehren durchgeführt oder der
 vorrangige Antrag abgelehnt oder zurückgenommen worden ist.
 
 (2) § 21 Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 23 Vertrauensmänner
 
@@ -500,7 +472,6 @@ Vertrauensmannes.
 (3) Der Vertrauensmann und der Stellvertreter können von der Mehrheit
 der Unterzeichner des Antrags durch schriftliche Erklärung an den
 Bundesminister des Innern abberufen und durch andere ersetzt werden.
-
 
 ### § 24 Entscheidung über den Zulassungsantrag
 
@@ -533,7 +504,6 @@ Länder können gegen die Zulassung des Antrags innerhalb der gleichen
 Frist Beschwerde einlegen. Über die Beschwerde entscheidet der Zweite
 Senat.
 
-
 ### § 25 Veröffentlichung des zugelassenen Antrags
 
 (1) Ist dem Antrag stattgegeben worden (§ 24 Abs. 4 und 5), so
@@ -560,7 +530,6 @@ der Entscheidung des Bundesministers des Innern oder des
 Bundesverfassungsgerichts, der Eintragungsfrist und der
 Eintragungsstunden.
 
-
 ### § 26 Änderung, Zurücknahme des Zulassungsantrags
 
 (1) Nach der Zulassung kann der Antrag nicht mehr geändert werden.
@@ -582,7 +551,6 @@ Bundesgesetzblatt bekannt.
 (5) Nach Beginn der Eintragungsfrist kann der Antrag nicht mehr
 zurückgenommen werden.
 
-
 ### § 27 Eintragungsberechtigung
 
 Eintragungsberechtigt ist, wer am letzten Tag der Eintragungsfrist zum
@@ -590,7 +558,6 @@ Bundestag wahlberechtigt ist und seit mindestens drei Monaten in dem
 Raum des zugelassenen Volksbegehrens eine Wohnung, bei mehreren
 Wohnungen seine Hauptwohnung, innehat oder sich sonst gewöhnlich
 aufhält.
-
 
 ### § 28 Ausübung des Eintragungsrechts
 
@@ -612,7 +579,6 @@ Eintragungsstelle des Raumes des zugelassenen Volksbegehrens
 eintragen.
 
 (3) § 7 Nr. 5 gilt entsprechend.
-
 
 ### § 29 Eintragungsschein
 
@@ -637,7 +603,6 @@ einen Eintragungsschein, wenn er
 vertretenden Grund in das Eintragungsberechtigtenverzeichnis nicht
 aufgenommen worden ist, erhält auf Antrag einen Eintragungsschein.
 
-
 ### § 30 Einspruch gegen die Versagung des Eintragungsscheines und Beschwerde
 
 (1) Gegen die Versagung des Eintragungsscheines kann innerhalb von
@@ -648,7 +613,6 @@ entscheiden und bei Ablehnung die Entscheidung dem Antragsteller
 zuzustellen. Gegen die Entscheidung der Gemeindebehörde kann innerhalb
 von drei Tagen nach der Zustellung Beschwerde an die
 Rechtsaufsichtsbehörde eingelegt werden.
-
 
 ### § 31 Eintragungsorgane
 
@@ -700,7 +664,6 @@ Interesse nachweisen, nach Möglichkeit zu berücksichtigen.
 Vorschriften des Bundeswahlgesetzes entsprechend anzuwenden, soweit
 nicht dieses Gesetz etwas anderes bestimmt.
 
-
 ### § 32 Tätigkeit der Eintragungsausschüsse
 
 (1) Die Eintragungsausschüsse verhandeln und entscheiden in
@@ -711,7 +674,6 @@ Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 (3) Über die Sitzung der Eintragungsausschüsse wird eine Niederschrift
 angefertigt.
-
 
 ### § 33 Auslegung der Eintragungslisten
 
@@ -729,7 +691,6 @@ Erklärt ein Eintragungsberechtigter, daß er nicht schreiben kann, so
 wird seine Unterschrift durch die Feststellung seiner Erklärung
 ersetzt.
 
-
 ### § 34 Inhalt der Eintragung
 
 Die Eintragung muß enthalten
@@ -744,10 +705,6 @@ Die Eintragung muß enthalten
 
 
 4.  die Unterschrift.
-
-
-
-
 
 ### § 35 Ungültige Eintragungen
 
@@ -769,10 +726,6 @@ Ungültig sind Eintragungen, die
 
 
 6.  mehrfach sind.
-
-
-
-
 
 ### § 36 Feststellung und Prüfung des Eintragungsergebnisses
 
@@ -817,17 +770,13 @@ beitreten, ein Landeseintragungsleiter und der Gesamteintragungsleiter
 binnen eines Monats seit der Beschlußfassung des Bundestages beim
 Bundesverfassungsgericht erheben.
 
-
 ### § 37 Veröffentlichung des Eintragungsergebnisses
 
 Der Bundesminister des Innern veröffentlicht die Feststellung über das
 Zustandekommen des Volksbegehrens im Bundesgesetzblatt und das
 Eintragungsergebnis im Bundesanzeiger.
 
-
 ## Dritter Abschnitt - Volksbefragung
-
-
 
 ### § 38 Gegenstand der Volksbefragung
 
@@ -843,17 +792,13 @@ welcher der beiden vorgeschlagenen Änderungen der Landeszugehörigkeit
 er zustimmen oder ob er den bisherigen Zustand beibehalten wissen
 möchte.
 
-
 ### § 39 Geltung von Vorschriften des Ersten Abschnitts
 
 Für Volksbefragungen gelten die Vorschriften der §§ 2 bis 17
 entsprechend. Ungültig nach § 12 Abs. 1 Nr. 5 ist eine Stimme auch
 dann, wenn mehr als einer der Fragen zugestimmt wird.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 40 Ermächtigung zum Erlaß von Rechtsverordnungen
 
@@ -903,10 +848,6 @@ Volksbefragungen Ausführungsvorschriften zu erlassen über
 12. die Aufbewahrung und Vernichtung von Stimm-, Eintragungs- und
     Befragungsunterlagen.
 
-
-
-
-
 ### § 41 Kosten des Volksentscheides, des Eintragungsverfahrens und der Volksbefragung
 
 Die Kosten des Volksentscheides, des Eintragungsverfahrens und der
@@ -918,7 +859,6 @@ vom Bundesminister des Innern mit Zustimmung des Bundesrates
 festgesetzt wird. Bei der Festsetzung werden laufende persönliche und
 sachliche Kosten und Kosten für Benutzung von Räumen und Einrichtungen
 der Länder und Gemeinden (Gemeindeverbände) nicht berücksichtigt.
-
 
 ### § 42 Inkrafttreten
 

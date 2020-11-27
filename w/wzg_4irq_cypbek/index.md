@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 232
 
-
-
 ## I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -36,7 +34,6 @@ Das in der Anlage 2 wiedergegebene Kennzeichen tritt an die Stelle des
 in der Anlage zu der Bekanntmachung vom 3. April 1987 (BGBl. I S.
 1158) wiedergegebenen Kennzeichens.
 
-
 ## II.
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
@@ -48,29 +45,24 @@ bekanntgemacht, daß das Kennzeichen
 
 von der Eintragung als Warenzeichen ausgeschlossen ist.
 
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 3.
 April 1987 (BGBl. I S. 1158).
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1 Nationales Gütezeichen der Republik Irak
 
 (Inhalt: Nicht darstellbares Zeichen,
 Fundstelle: BGBl. I 1988, 232)
 
-
 ## Anlage 2 Prüf- und Gewährzeichen der Republik Zypern für frische, zum Export bestimmte landwirtschaftliche Erzeugnisse
 
 (Inhalt: Nicht darstellbares Zeichen,
 Fundstelle: BGBl. I 1988, 233)
-
 
 ## Anlage 3 Kennzeichen der International Joint Commission
 

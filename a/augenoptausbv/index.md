@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt
@@ -31,18 +30,15 @@ durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Augenoptikers und der Augenoptikerin wird
 nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer
 33 der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -115,10 +111,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  Berufsbezogene Vorschriften und Normen anwenden.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -139,7 +131,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinander
@@ -159,7 +150,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 30 Prozent und Teil 2 der Gesellenprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Gesellenprüfung
 
@@ -219,10 +209,6 @@ Instandsetzung von Sehhilfen.
 4.  die Prüfungszeit beträgt 330 Minuten; innerhalb dieser Zeit soll die
     Bearbeitung der schriftlichen Aufgaben in 90 Minuten durchgeführt
     werden.
-
-
-
-
 
 ## § 7 Teil 2 der Gesellenprüfung
 
@@ -361,10 +347,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -443,7 +425,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu
 gewichten.
 
-
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -452,13 +433,11 @@ Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt wurde.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Augenoptiker/zur
 Augenoptikerin vom 4. März 1997 (BGBl. I S. 436) außer Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Augenoptiker und zur Augenoptikerin
 

@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 1100
 
-
-
 ## Eingangsformel
 
 Zur Ausführung des Artikels 115d des Grundgesetzes hat der Bundestag
 mit Zustimmung des Bundesrates für die Beratung dringlicher
 Gesetzesvorlagen im Verteidigungsfalle die folgende Geschäftsordnung
 beschlossen:
-
 
 ## § 1 Einberufung
 
@@ -41,7 +38,6 @@ bekanntzugeben.
 soll eine Frist von drei Tagen liegen. Die Frist ist auf Verlangen der
 Bundesregierung abzukürzen.
 
-
 ## § 2 Vorsitz
 
 (1) Bei den gemeinsamen Beratungen von Bundestag und Bundesrat führt
@@ -50,13 +46,11 @@ der Präsident des Bundestages den Vorsitz.
 (2) Finden in der gemeinsamen Beratung Abstimmungen des Bundesrates
 statt, so führt dabei der Präsident des Bundesrates den Vorsitz.
 
-
 ## § 3 Beratung
 
 Es findet nur eine Beratung statt. Diese ist auf Beschluß des
 Bundestages oder des Bundesrates für Ausschußberatungen zu
 unterbrechen.
-
 
 ## § 4 Ausschußberatung
 
@@ -75,7 +69,6 @@ Mitglieder des Bundesrates zu sein.
 Beschlüsse der Vertreter des Bundesrates gelten als Änderungsanträge
 für die Fortsetzung der gemeinsamen Beratung von Bundestag und
 Bundesrat.
-
 
 ## § 5 Schlußberatung und Schlußabstimmung
 
@@ -99,7 +92,6 @@ Dritteln der Stimmen erforderlich ist.
 Zustimmung bedarf, ab, so wird die Beratung wieder eröffnet. Der
 Bundestag kann das Gesetz mit der Mehrheit seiner Mitglieder
 bestätigen.
-
 
 ## § 6 Entsprechende Anwendung der Geschäftsordnungen des Bundestages und des Bundesrates
 

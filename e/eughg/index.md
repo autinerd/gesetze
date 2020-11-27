@@ -19,7 +19,6 @@ Fundstelle
 
 Stand: Dieses G ist gem. § 2 iVm Bek. v. 19.4.1999 I 728 am 1.5.1999 in Kraft getreten.
 
-
 ## § 1
 
 (1) Jedes Gericht kann dem Gerichtshof der Europäischen Gemeinschaften
@@ -38,7 +37,6 @@ Rechtsmitteln des innerstaatlichen Rechts angefochten werden können,
 hat dem Gerichtshof zur Vorabentscheidung Fragen nach Absatz 1
 vorzulegen, wenn es eine Entscheidung darüber zum Erlaß seines Urteils
 oder Beschlusses für erforderlich hält.
-
 
 ## § 2
 

@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3641
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Absatz 5 Satz 1 und 3 des
 Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506)
 verordnet das Bundesministerium der Finanzen im Benehmen mit der
 Deutschen Bundesbank nach Anhörung der Verbände der Zahlungsinstitute:
-
 
 ## § 1 Nachweise
 
@@ -110,7 +108,6 @@ L 187 vom 18.7.2009, S. 5), sind diese ebenfalls einzuholen.
 theoretischer und praktischer Kenntnisse des Agenten über die zu
 erbringenden Zahlungsdienste.
 
-
 ## § 2 Sicherstellung der dauerhaften Einhaltung der Pflichten
 
 (1) Um dauerhaft sicherzustellen, dass der Agent zuverlässig und
@@ -127,7 +124,6 @@ dokumentieren. Die nach § 1 Absatz 1 erforderlichen Nachweise, dass
 der Agent zuverlässig und fachlich geeignet ist, sind in angemessenen
 Abständen regelmäßig zu erneuern.
 
-
 ## § 3 Ausnahme für beaufsichtigte Agenten
 
 Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im
@@ -136,7 +132,6 @@ einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum beaufsichtigtes Kredit-,
 E-Geld-,              Finanzdienstleistungs- oder Zahlungsinstitut
 ist.
-
 
 ## § 4 Inkrafttreten
 

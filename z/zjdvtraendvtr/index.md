@@ -19,7 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2398
 
-
 ## Art 1 Leistungsanpassung
 
 Artikel 2 Abs. 1 des Vertrages zwischen der Bundesrepublik
@@ -33,7 +32,6 @@ Deutschland an den Zentralrat der Juden in Deutschland jährlich einen
 Betrag von 5 000 000 Euro, beginnend – unabhängig vom Inkrafttreten
 des Vertrages – mit dem Haushaltsjahr 2008."
 
-
 ## Art 2 Zustimmung des Deutschen Bundestages, Inkrafttreten
 
 (1) Der Vertrag bedarf der Zustimmung des Deutschen Bundestages durch
@@ -41,7 +39,6 @@ ein Bundesgesetz.
 
 (2) Er tritt am Tag des Inkrafttretens des Gesetzes, mit dem diesem
 Vertrag zugestimmt wird, in Kraft.
-
 
 ## Schlussformel
 

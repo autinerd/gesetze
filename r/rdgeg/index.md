@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2011 I 3057
 
-
 ## § 1 Erlaubnisinhaber nach dem Rechtsberatungsgesetz
 
 (1) Behördliche Erlaubnisse zur Besorgung fremder
@@ -74,7 +73,6 @@ für registrierte Erlaubnisinhaber möglich.
 dem Widerruf der Registrierung nach § 12 Abs. 1 Nr. 1 Buchstabe c und
 § 13 Abs. 1 Satz 3 Nr. 4 des Rechtsdienstleistungsgesetzes gleich.
 
-
 ## § 2 Versicherungsberater
 
 Abweichend von § 1 Abs. 1 Satz 2 können Personen mit einer Erlaubnis
@@ -82,7 +80,6 @@ zur Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der
 Versicherungsberatung (Artikel 1 § 1 Abs. 1 Satz 2 Nr. 2 des
 Rechtsberatungsgesetzes) nur eine Erlaubnis als Versicherungsberater
 nach § 34e Abs. 1 der Gewerbeordnung beantragen.
-
 
 ## § 3 Gerichtliche Vertretung
 
@@ -164,7 +161,6 @@ untersagen, wenn sie nicht in der Lage sind, das Sach- und
 Streitverhältnis sachgerecht darzustellen.§ 335 Abs. 1 Nr. 5 der
 Zivilprozessordnung gilt entsprechend.
 
-
 ## § 4 Vergütung der registrierten Personen
 
 (1) Das Rechtsanwaltsvergütungsgesetz gilt für die Vergütung der
@@ -199,7 +195,6 @@ Vertretung im Zwangsvollstreckungsverfahren richtet sich nach § 788
 der Zivilprozessordnung. Ihre Vergütung für die Vertretung im
 gerichtlichen Mahnverfahren ist bis zu einem Betrag von 25 Euro nach §
 91 Abs. 1 der Zivilprozessordnung erstattungsfähig.
-
 
 ## § 5 Diplom-Juristen aus dem Beitrittsgebiet
 
@@ -242,16 +237,11 @@ Person mit Befähigung zum Richteramt gleich:
 
 9.  § 81 Abs. 2 Satz 2 Nr. 2 des Markengesetzes.
 
-
-
-
-
 ## § 6 Schutz der Berufsbezeichnung
 
 Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln
 ähnliche Bezeichnung darf nur von Kammerrechtsbeiständen und
 registrierten Rechtsbeiständen geführt werden.
-
 
 ## § 7 Übergangsvorschrift für Anträge nach dem Rechtsberatungsgesetz
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 870
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom
@@ -52,11 +50,9 @@ ALTIUS FORTIUS und mit Ornamenten zwischen den Worten versehen.
 
 (7) Dies wird namens der Bundesregierung bekanntgegeben.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

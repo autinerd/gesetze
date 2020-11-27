@@ -16,18 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1921, 1288
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes betreffend das deutsch-belgische
 Abkommen zu Artikel 312 des Friedensvertrags vom 20. Juli 1921
 (Reichsgesetzbl. S. 1177) wird folgendes bestimmt:
 
-
 ## (XXXX) §§ 1 und 2
-
-
 
 ## § 3
 
@@ -42,13 +37,11 @@ Pensionskasse für die Arbeiter der preußisch-hessischen
 Eisenbahngemeinschaft oblag, tritt sie an die Stelle der
 Landesversicherungsanstalt Rheinprovinz.
 
-
 ## § 4
 
 Die Höhe der nach Artikel 12 weiterzuzahlenden Renten bestimmt sich
 nach den bei Beginn des auf die Wohnsitzverlegung des Berechtigten
 folgenden Monats geltenden gesetzlichen Vorschriften.
-
 
 ## § 5
 

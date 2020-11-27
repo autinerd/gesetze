@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 1.11.2011 I 2131
 
-
 ## (XXXX) §§ 1 bis 3 (weggefallen)
 
-
-
 ## - - Zu § 3 des Gesetzes
-
-
 
 ### § 4 Steuerfreie Einnahmen
 
@@ -36,14 +31,9 @@ Die Vorschriften der Lohnsteuer-Durchführungsverordnung über die
 Steuerpflicht oder die Steuerfreiheit von Einnahmen aus
 nichtselbständiger Arbeit sind bei der Veranlagung anzuwenden.
 
-
 ### § 5 (weggefallen)
 
-
-
 ## - - Zu den §§ 4 bis 7 des Gesetzes
-
-
 
 ### § 6 Eröffnung, Erwerb, Aufgabe und Veräußerung eines Betriebs
 
@@ -57,10 +47,7 @@ Ermittlung des Gewinns an die Stelle des Betriebsvermögens am Schluss
 des Wirtschaftsjahrs das Betriebsvermögen im Zeitpunkt der Aufgabe
 oder der Veräußerung des Betriebs.
 
-
 ### § 7 (weggefallen)
-
-
 
 ### § 8 Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert
 
@@ -69,10 +56,7 @@ Betriebsvermögen behandelt zu werden, wenn ihr Wert nicht mehr als ein
 Fünftel des gemeinen Werts des gesamten Grundstücks und nicht mehr als
 20\.500 Euro beträgt.
 
-
 ### § 8a (weggefallen)
-
-
 
 ### § 8b Wirtschaftsjahr
 
@@ -93,10 +77,6 @@ umfassen, wenn
     Wirtschaftsjahrs auf ein anderes vom Kalenderjahr abweichendes
     Wirtschaftsjahr gilt dies nur, wenn die Umstellung im Einvernehmen mit
     dem Finanzamt vorgenommen wird.
-
-
-
-
 
 ### § 8c Wirtschaftsjahr bei Land- und Forstwirten
 
@@ -143,16 +123,12 @@ Absatzes 1 Satz 1 Nr. 3 um, gilt Satz 2 entsprechend.
 Grund einer gesetzlichen Verpflichtung oder ohne eine solche
 Verpflichtung Bücher führen und regelmäßig Abschlüsse machen.
 
-
 ### § 9 (weggefallen)
-
-
 
 ### § 9a Anschaffung, Herstellung
 
 Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung
 ist das Jahr der Fertigstellung.
-
 
 ### § 10 Absetzung für Abnutzung im Fall des § 4 Abs. 3 des Gesetzes
 
@@ -178,13 +154,9 @@ Stelle des § 16 Abs. 1 des D-Markbilanzgesetzes der § 8 Abs. 1 und der
 Bundesgesetzblatt Teil III, Gliederungsnummer 4140-2, veröffentlichten
 bereinigten Fassung treten.
 
-
 ### § 10a (weggefallen)
 
-
-
 ### (XXXX) §§ 11 bis 11b (weggefallen)
-
 
 ### § 11c Absetzung für Abnutzung bei Gebäuden
 
@@ -235,7 +207,6 @@ Gesetzes erhöht sich die Bemessungsgrundlage für die Absetzungen für
 Abnutzung von dem folgenden Wirtschaftsjahr oder Kalenderjahr an um
 den Betrag der Zuschreibung oder Wertaufholung.
 
-
 ### § 11d Absetzung für Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern, die der Steuerpflichtige unentgeltlich erworben hat
 
 (1)
@@ -260,21 +231,13 @@ Substanzverringerung und für erhöhte Absetzungen entsprechend.
 gehörenden Grundstück entdeckt hat, sind Absetzungen für
 Substanzverringerung nicht zulässig.
 
-
 ### § 12 (weggefallen)
-
-
 
 ## - - Zu den §§ 7e und 10a des Gesetzes
 
-
 ### (XXXX) §§ 13 und 14 (weggefallen)
 
-
-
 ## - - Zu § 7b des Gesetzes
-
-
 
 ### § 15 Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
 
@@ -288,22 +251,13 @@ Januar 1984 (BGBl. I S. 113) ist § 15 der Einkommensteuer-
 Durchführungsverordnung 1979 (BGBl. 1980 I S. 1801), geändert durch
 die Verordnung vom 11. Juni 1981 (BGBl. I S. 526), weiter anzuwenden.
 
-
 ### (XXXX) §§ 16 bis 21 (weggefallen)
-
-
 
 ## - - Zu § 7e des Gesetzes
 
-
-
 ### (XXXX) §§ 22 bis 28 (weggefallen)
 
-
-
 ## - - Zu § 10 des Gesetzes
-
-
 
 ### § 29 Anzeigepflichten bei Versicherungsverträgen
 
@@ -329,7 +283,6 @@ die Darlehen den Betrag von 25.565 Euro übersteigen.
 zuständigen Finanzamt (§ 19 der Abgabenordnung) die Abtretung und die
 Beleihung unverzüglich anzuzeigen.
 
-
 ### § 30 Nachversteuerung bei Versicherungsverträgen
 
 1             Eine Nachversteuerung ist durchzuführen, wenn der
@@ -341,32 +294,21 @@ nicht geleistet hätte.
 3             Der Unterschied zwischen dieser und der festgesetzten
 Steuer ist als Nachsteuer zu erheben.
 
-
 ### (XXXX) §§ 31 bis 44 (weggefallen)
-
-
 
 ## - - Zu § 10a des Gesetzes
 
-
-
 ### (XXXX) §§ 45 bis 47 (weggefallen)
 
-
-
 ## - - Zu § 10b des Gesetzes
-
-
 
 ### § 48 (weggefallen)
 
 -
 
-
 ### § 49 (weggefallen)
 
 -
-
 
 ### § 50 Zuwendungsnachweis
 
@@ -481,10 +423,7 @@ aufzubewahren.
 von Aufwand müssen sich aus den Aufzeichnungen auch die Grundlagen für
 den vom Empfänger bestätigten Wert der Zuwendung ergeben.
 
-
 ## - - Zu § 13 des Gesetzes
-
-
 
 ### § 51 Pauschale Ermittlung der Gewinne aus Holznutzungen
 
@@ -511,18 +450,11 @@ abgegolten.
 Waldverkäufen sowie für die übrigen Einnahmen und die damit in
 unmittelbarem Zusammenhang stehenden Betriebsausgaben.
 
-
 ## - - Zu § 13a des Gesetzes
-
-
 
 ### § 52 (weggefallen)
 
-
-
 ## - - Zu § 17 des Gesetzes
-
-
 
 ### § 53 Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften
 
@@ -541,7 +473,6 @@ Juni 1948 für die in § 43 Abs. 1 Ziff 1 des Gesetzes über die
 Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und
 Finanzmonopole im Saarland vom 30. Juni 1959 (BGBl. I S. 339)
 bezeichneten Personen jeweils der 6. Juli 1959.
-
 
 ### § 54 Übersendung von Urkunden durch die Notare
 
@@ -578,10 +509,7 @@ unbeschränkten Steuerpflicht des Anteilseigners oder bei
 unentgeltlichem Erwerb dessen Rechtsvorgängers nach § 19 der
 Abgabenordnung für die Besteuerung des Anteilseigners zuständig war.
 
-
 ## - - Zu § 22 des Gesetzes
-
-
 
 ### § 55 Ermittlung des Ertrags aus Leibrenten in besonderen Fällen
 
@@ -1037,13 +965,7 @@ entnehmen.
     *   Der Ertragsanteil ist immer der Tabelle in § 22 Nr. 1 Satz 3 Buchstabe
         a Doppelbuchstabe bb des Gesetzes zu entnehmen.
 
-
-
-
-
 ## - - Zu § 25 des Gesetzes
-
-
 
 ### § 56 Steuererklärungspflicht
 
@@ -1095,10 +1017,7 @@ Einkommensteuererklärung für das abgelaufene Kalenderjahr
 Schluss des vorangegangenen Veranlagungszeitraums ein verbleibender
 Verlustabzug festgestellt worden ist.
 
-
 ### (XXXX) §§ 57 bis 59 (weggefallen)
-
-
 
 ### § 60 Unterlagen zur Steuererklärung
 
@@ -1140,10 +1059,7 @@ diesem Fall ist der Steuererklärung eine Gewinnermittlung nach amtlich
 vorgeschriebenem Vordruck beizufügen.
 3             § 150 Abs. 7 und 8 der Abgabenordnung gilt entsprechend.
 
-
 ## - - Zu den §§ 26a und 26b des Gesetzes
-
-
 
 ### § 61 Antrag auf hälftige Verteilung von Abzugsbeträgen im Fall des § 26a des Gesetzes
 
@@ -1152,9 +1068,7 @@ gemeinsam stellen, weil einer der Ehegatten dazu aus zwingenden
 Gründen nicht in der Lage ist, kann das Finanzamt den Antrag des
 anderen Ehegatten als genügend ansehen.
 
-
 ### (XXXX) §§ 62 bis 62c (weggefallen)
-
 
 ### § 62d Anwendung des § 10d des Gesetzes bei der Veranlagung von Ehegatten
 
@@ -1184,14 +1098,9 @@ stattfindet, auf die Ehegatten nach dem Verhältnis aufzuteilen, in dem
 die auf den einzelnen Ehegatten entfallenden Verluste im
 Veranlagungszeitraum der Verlustentstehung zueinander stehen.
 
-
 ### § 63 (weggefallen)
 
-
-
 ## - - Zu § 33 des Gesetzes
-
-
 
 ### § 64 Nachweis von Krankheitskosten
 
@@ -1257,10 +1166,7 @@ Krankheitsfall hat der Steuerpflichtige zu erbringen:
 Steuerpflichtigen die für steuerliche Zwecke erforderlichen
 Gesundheitszeugnisse, Gutachten oder Bescheinigungen auszustellen.
 
-
 ## - - Zu § 33b des Gesetzes
-
-
 
 ### § 65 Nachweis der Behinderung
 
@@ -1319,14 +1225,9 @@ nach § 69 Absatz 1 des Neunten Buches Sozialgesetzbuch zuständigen
 Behörde.
 2             Diese Stellungnahme hat die Finanzbehörde einzuholen.
 
-
 ### (XXXX) §§ 66 und 67 (weggefallen)
 
-
-
 ## - - Zu § 34b des Gesetzes
-
-
 
 ### § 68 Nutzungssatz, Betriebsgutachten, Betriebswerk
 
@@ -1358,10 +1259,7 @@ forstwirtschaftliche Betrieb liegt, ausgesprochen wird.
 Körperschaften des öffentlichen Rechts diese Anerkennung auszusprechen
 haben.
 
-
 ## - - Zu § 34c des Gesetzes
-
-
 
 ### § 68a Einkünfte aus mehreren ausländischen Staaten
 
@@ -1375,7 +1273,6 @@ Staaten, so sind die Höchstbeträge der anrechenbaren ausländischen
 Steuern für jeden einzelnen ausländischen Staat gesondert zu
 berechnen.
 
-
 ### § 68b Nachweis über die Höhe der ausländischen Einkünfte und Steuern
 
 1             Der Steuerpflichtige hat den Nachweis über die Höhe der
@@ -1386,14 +1283,9 @@ Steuerbescheid, Quittung über die Zahlung) zu führen.
 so kann eine beglaubigte Übersetzung in die deutsche Sprache verlangt
 werden.
 
-
 ### (XXXX) §§ 68c und 69 (weggefallen)
 
-
-
 ## - - Zu § 46 des Gesetzes
-
-
 
 ### § 70 Ausgleich von Härten in bestimmten Fällen
 
@@ -1408,22 +1300,13 @@ des Gesetzes zu berücksichtigenden Betrag, niedriger als 820 Euro sind
 2             Der Härteausgleichsbetrag darf nicht höher sein als die
 nach Satz 1 verminderten Einkünfte.
 
-
 ### (XXXX) §§ 71 und 72 (weggefallen)
-
-
 
 ## - - Zu § 50 des Gesetzes
 
-
-
 ### § 73 (weggefallen)
 
-
-
 ## - - Zu § 50a des Gesetzes
-
-
 
 ### § 73a Begriffsbestimmungen
 
@@ -1450,10 +1333,7 @@ des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S.
 156), zuletzt geändert durch Artikel 4 des Gesetzes vom 7. Juli 2008
 (BGBl. I S. 1191), in der jeweils geltenden Fassung geschützt sind.
 
-
 ### § 73b (weggefallen)
-
-
 
 ### § 73c Zeitpunkt des Zufließens im Sinne des § 50a Abs. 5 Satz 1 des Gesetzes
 
@@ -1474,10 +1354,6 @@ Gläubiger zu
 3.  im Fall der Gewährung von Vorschüssen:
 
     bei Zahlung, Verrechnung oder Gutschrift der Vorschüsse.
-
-
-
-
 
 ### § 73d Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht
 
@@ -1514,7 +1390,6 @@ Steuern nachprüfbaren Form zu dokumentieren.
 (Körperschaftsteuer) und bei Außenprüfungen, die bei dem Schuldner
 vorgenommen werden, ist auch zu prüfen, ob die Steuern ordnungsmäßig
 einbehalten und abgeführt worden sind.
-
 
 ### § 73e Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)
 
@@ -1554,7 +1429,6 @@ Steuer nach § 50a Abs. 7 des Gesetzes mit der Maßgabe, dass die Steuer
 an das Finanzamt abzuführen und bei dem Finanzamt anzumelden ist, das
 den Steuerabzug angeordnet hat.
 
-
 ### § 73f Steuerabzug in den Fällen des § 50a Abs. 6 des Gesetzes
 
 1             Der Schuldner der Vergütungen für die Nutzung oder das
@@ -1570,7 +1444,6 @@ Rechtsträger an die Stelle des Schuldners tritt.
 2             In diesem Fall hat die Gema oder der andere Rechtsträger
 den Steuerabzug vorzunehmen; § 50a Abs. 5 des Gesetzes sowie die §§
 73d und 73e gelten entsprechend.
-
 
 ### § 73g Haftungsbescheid
 
@@ -1588,14 +1461,9 @@ oder einem Prüfungsbeamten des Bundeszentralamts für Steuern oder des
 Finanzamts seine Verpflichtung zur Zahlung der Steuer schriftlich
 anerkannt hat.
 
-
 ## - - Zu § 51 des Gesetzes
 
-
-
 ### (XXXX) §§ 74 bis 80 (weggefallen)
-
-
 
 ### § 81 Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau
 
@@ -1729,10 +1597,7 @@ ausschließlich des in Artikel 3 des Einigungsvertrages genannten
 Gebiets aufgewendeten Kosten für den Vorabraum bis zu 50 Prozent als
 sofort abzugsfähige Betriebsausgaben behandelt werden.
 
-
 ### § 82 (weggefallen)
-
-
 
 ### § 82a Erhöhte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand für bestimmte Anlagen und Einrichtungen bei Gebäuden
 
@@ -1812,7 +1677,6 @@ vorhanden ist und die Wohnung seit mindestens zehn Jahren
 fertiggestellt ist.
 3             § 82b Abs. 2 und 3 gilt entsprechend.
 
-
 ### § 82b Behandlung größeren Erhaltungsaufwands bei Wohngebäuden
 
 (1)
@@ -1844,9 +1708,7 @@ genutzt wird.
 Absatz 1 bezeichnete Erhaltungsaufwand von allen Eigentümern auf den
 gleichen Zeitraum zu verteilen.
 
-
 ### (XXXX) §§ 82c bis 82e (weggefallen)
-
 
 ### § 82f Bewertungsfreiheit für Handelsschiffe, für Schiffe, die der Seefischerei dienen, und für Luftfahrzeuge
 
@@ -1903,7 +1765,6 @@ Prozent ein Höchstsatz von 30 Prozent und bei der Vorschrift des
 Absatzes 3 an die Stelle des Zeitraums von acht Jahren ein Zeitraum
 von sechs Jahren treten.
 
-
 ### § 82g Erhöhte Absetzungen von Herstellungskosten für bestimmte Baumaßnahmen
 
 1             Der Steuerpflichtige kann von den durch Zuschüsse aus
@@ -1927,10 +1788,7 @@ Baumaßnahmen im Sinne des Satzes 1 durchgeführt hat; sind ihm
 Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln gewährt
 worden, so hat die Bescheinigung auch deren Höhe zu enthalten.
 
-
 ### § 82h (weggefallen)
-
-
 
 ### § 82i Erhöhte Absetzungen von Herstellungskosten bei Baudenkmälern
 
@@ -1966,14 +1824,9 @@ Gebäude oder den Gebäudeteil und für die Erforderlichkeit der
 Herstellungskosten durch eine Bescheinigung der nach Landesrecht
 zuständigen oder von der Landesregierung bestimmten Stelle nachweist.
 
-
 ### § 83 (weggefallen)
 
-
-
 ## - - Schlussvorschriften
-
-
 
 ### § 84 Anwendungsvorschriften
 
@@ -2192,19 +2045,13 @@ geltenden Fassung anzuwenden.
 Artikels 2 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) sind
 erstmals für den Veranlagungszeitraum 2013 anzuwenden.
 
-
 ### § 85 (gegenstandslos)
-
-
 
 ### Anlage 1 (weggefallen)
 
 -
 
-
 ### (XXXX) Anlagen 2 bis 4 (weggefallen)
-
-
 
 ### Anlage 5 (zu § 81 Abs. 3 Nr. 1) Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1
 
@@ -2233,10 +2080,6 @@ dienenden Anlagen und Einrichtungen gehören:
 4.  Sieberei, Wäsche und sonstige Aufbereitungsanlagen; im Erzbergbau alle
     der Aufbereitung dienenden Anlagen sowie die Anlagen zum Rösten von
     Eisenerzen, wenn die Anlagen nicht zu einem Hüttenbetrieb gehören.
-
-
-
-
 
 ### Anlage 6 (zu § 81 Abs. 3 Nr. 2) Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
 

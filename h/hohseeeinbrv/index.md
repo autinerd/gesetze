@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 27.9.1994 I 2705
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 7 Abs. 2 Nr. 1 Buchstabe e und Nr. 2 des
@@ -33,7 +32,6 @@ Einvernehmen mit dem Bundesminister der Finanzen und im übrigen im
 Einvernehmen mit den Bundesministerien des Innern und für Wirtschaft -
 mit Zustimmung des Bundesrates sowie auf Grund des § 36 Abs. 3 des
 Gesetzes über Ordnungswidrigkeiten verordnet:
-
 
 ## § 1 Nachweispflichten
 
@@ -66,7 +64,6 @@ führen:
 Einzelfall von der Pflicht zur Führung von Nachweisen nach Absatz 1
 befreien, sofern anderweitig sichergestellt ist, daß das
 Einbringungsverfahren ordnungsgemäß durchgeführt wird.
-
 
 ## § 2 Kosten
 
@@ -139,7 +136,6 @@ werden gesondert erhoben.
 Gebühren nach Absatz 1 Nr. 1 ermäßigt oder kann von ihnen befreit
 werden.
 
-
 ## § 3 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des Artikels 10 Abs. 1 Nr. 3 des Gesetzes
@@ -156,7 +152,6 @@ Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen
 durch Schiffe und Luftfahrzeuge wird auf das Bundesamt für
 Seeschiffahrt und Hydrographie übertragen.
 
-
 ## § 4 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
@@ -166,11 +161,9 @@ Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe
 und Luftfahrzeuge und § 134 des Gesetzes über Ordnungswidrigkeiten
 auch im Land Berlin.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

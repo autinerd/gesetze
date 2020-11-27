@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1072
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -51,7 +49,6 @@ Raute.
 Der Entwurf der Münze stammt von Claus und Ursula Homfeld, Bremen.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 768
 
-
-
 ## (XXXX)
 
 Das Präsidium der Deutschen Verkehrswacht e.V. (früher

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 5.12.2012 I 2418
 
-
 ## Übersicht
 
 
@@ -1788,21 +1787,11 @@ Zuletzt geändert durch
 
     *   § 164
 
-
-
-
-
 ## Erster Teil - Gerichtskosten
-
-
 
 ### Erster Abschnitt - Allgemeine Vorschriften
 
-
-
 #### 1. - Geltungsbereich, elektronisches Dokument
-
-
 
 ##### § 1 Geltungsbereich
 
@@ -1814,7 +1803,6 @@ Zusammenhang steht.
 
 (2) Dieses Gesetz gilt nicht in Verfahren, in denen Kosten nach dem
 Gesetz über Gerichtskosten in Familiensachen zu erheben sind.
-
 
 ##### § 1a Elektronisches Dokument
 
@@ -1831,10 +1819,7 @@ mitzuteilen.
 (2) Ein elektronisches Dokument ist eingereicht, sobald die für den
 Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
 
-
 #### 2. - Kostenschuldner
-
-
 
 ##### § 2 Allgemeiner Grundsatz
 
@@ -1872,10 +1857,6 @@ Zur Zahlung der Kosten ist verpflichtet
     derjenige, dessen Interesse wahrgenommen wird; dies gilt nicht für
     Kosten, die das Gericht einem Anderen auferlegt hat.
 
-
-
-
-
 ##### § 3 Weitere Kostenschuldner
 
 Kostenschuldner ist ferner
@@ -1894,17 +1875,12 @@ Kostenschuldner ist ferner
 
 4.  der Verpflichtete für die Kosten der Vollstreckung.
 
-
-
-
-
 ##### § 4 Gebührenschuldner in besonderen Fällen
 
 Die Gebühr für die Eintragung des Erstehers als Eigentümer wird nur
 von diesem erhoben; für die Gebühren, die durch die Eintragung der
 Sicherungshypothek für Forderungen gegen den Ersteher erwachsen,
 haftet neben den Gläubigern auch der Ersteher.
-
 
 ##### § 5 Mehrere Kostenschuldner
 
@@ -1916,7 +1892,6 @@ nicht beurkundet worden wären.
 
 (2) Sind durch besondere Anträge eines Beteiligten Mehrkosten
 entstanden, so fallen diese ihm allein zur Last.
-
 
 ##### § 6 Haftung der Erben
 
@@ -1931,20 +1906,14 @@ die Entgegennahme von Erklärungen über die Annahme, Ablehnung oder
 Kündigung des Amtes als Testamentsvollstrecker sowie im Verfahren nach
 § 1964 des Bürgerlichen Gesetzbuchs entstehen.
 
-
 #### 3. - Fälligkeit
-
-
 
 ##### § 7
 
 Gebühren werden mit der Beendigung des gebührenpflichtigen Geschäfts,
 Auslagen sofort nach ihrer Entstehung fällig.
 
-
 #### 4. - Vorauszahlung und Sicherstellung
-
-
 
 ##### § 8 Vorschüsse
 
@@ -1991,13 +1960,11 @@ Schiffsregistersachen nach den §§ 75 bis 89 der Schiffsregisterordnung
 statt. Das Verfahren über die Beschwerde ist gebührenfrei. Kosten
 werden nicht erstattet.
 
-
 ##### § 9 Zurückzahlung von Vorschüssen
 
 Vorschüsse werden nur insoweit zurückgezahlt, als sie den Gesamtbetrag
 der für das Geschäft bis zu dessen Beendigung entstandenen Kosten
 übersteigen.
-
 
 ##### § 10 Zurückbehaltungsrecht
 
@@ -2026,10 +1993,7 @@ bezahlt sind.
 
 (3) § 14 Abs. 2 bis 10 gilt entsprechend.
 
-
 #### 5. - Kostenbefreiungen
-
-
 
 ##### § 11 Allgemeine Vorschriften
 
@@ -2048,7 +2012,6 @@ oder persönliche Befreiung von Kosten gewähren, bleiben unberührt.
 
 (3) (weggefallen)
 
-
 ##### § 12 Einschränkungen
 
 (1) Die persönliche Gebührenfreiheit steht der Inanspruchnahme für die
@@ -2060,7 +2023,6 @@ Kostenschuldner als Erbe nach § 6 oder als Anteilsberechtigter nach §
 (2) Die Gebührenfreiheit entbindet, soweit nicht ein anderes bestimmt
 ist, nicht von der Verpflichtung zur Zahlung der Auslagen.
 
-
 ##### § 13 Gebührenfreiheit für einzelne Gesamtschuldner
 
 Wenn einzelnen von mehreren Gesamtschuldnern Gebührenfreiheit zusteht,
@@ -2068,10 +2030,7 @@ so vermindert sich der Gesamtbetrag der Gebühren um den Betrag, den
 die befreiten Beteiligten an die Nichtbefreiten auf Grund gesetzlicher
 Vorschrift zu erstatten hätten.
 
-
 #### 6. - Der Kostenanspruch
-
-
 
 ##### § 14 Kostenansatz, Erinnerung, Beschwerde
 
@@ -2149,7 +2108,6 @@ nach der gerichtlichen Entscheidung über den Kostenansatz eine
 Entscheidung, durch die der Geschäftswert anders festgesetzt wird,
 kann der Kostenansatz ebenfalls berichtigt werden.
 
-
 ##### § 15 Nachforderung
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Kosten nur nachgefordert
@@ -2173,7 +2131,6 @@ Verfahren möglich.
 berichtigte Ansatz dem Zahlungspflichtigen drei Monate nach der
 letzten Wertfestsetzung mitgeteilt worden ist.
 
-
 ##### § 16 Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden
@@ -2185,7 +2142,6 @@ einer Verhandlung entstanden sind.
 entschieden hat, können Anordnungen nach Absatz 1 im Verwaltungsweg
 erlassen werden. Eine im Verwaltungsweg getroffene Anordnung kann nur
 im Verwaltungsweg geändert werden.
-
 
 ##### § 17 Verjährung, Verzinsung
 
@@ -2214,10 +2170,7 @@ ihr Ablauf gehemmt.
 (4) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht
 verzinst.
 
-
 #### 7. - Geschäftswert
-
-
 
 ##### § 18 Grundsatz
 
@@ -2234,7 +2187,6 @@ berücksichtigt, wenn sie Gegenstand eines besonderen Geschäfts sind.
 Ermittlung des Geschäftswerts nicht abgezogen; dies gilt auch dann,
 wenn Gegenstand des Geschäfts ein Nachlaß oder eine sonstige
 Vermögensmasse ist.
-
 
 ##### § 19 Sachen
 
@@ -2284,7 +2236,6 @@ anzuwenden.
 (5) Ist der nach Absatz 2 bis 4 festgestellte Wert höher als der
 gemeine Wert, so ist der gemeine Wert maßgebend.
 
-
 ##### § 20 Kauf, Vorkaufs- und Wiederkaufsrecht
 
 (1) Beim Kauf von Sachen ist der Kaufpreis maßgebend; der Wert der
@@ -2297,7 +2248,6 @@ Betracht.
 
 (2) Als Wert eines Vorkaufs- oder Wiederkaufsrechts ist in der Regel
 der halbe Wert der Sache anzunehmen.
-
 
 ##### § 21 Erbbaurecht, Wohnungseigentum, Wohnungserbbaurecht
 
@@ -2322,14 +2272,12 @@ Grundstücks der Einheitswert des Erbbaurechts oder, wenn ein solcher
 nicht festgestellt ist, der nach Absatz 1 zu bestimmende Wert des
 Erbbaurechts tritt.
 
-
 ##### § 22 Grunddienstbarkeiten
 
 Der Wert einer Grunddienstbarkeit bestimmt sich nach dem Wert, den sie
 für das herrschende Grundstück hat; ist der Betrag, um den sich der
 Wert des dienenden Grundstücks durch die Dienstbarkeit mindert,
 größer, so ist dieser höhere Betrag maßgebend.
-
 
 ##### § 23 Pfandrechte und sonstige Sicherheiten, Rangänderungen
 
@@ -2352,7 +2300,6 @@ steht der Vorrangseinräumung gleich. Der Ausschluß des
 Löschungsanspruchs nach § 1179a Abs. 5 des Bürgerlichen Gesetzbuchs
 ist wie ein Rangrücktritt des Rechts zu behandeln, als dessen Inhalt
 der Ausschluß vereinbart wird.
-
 
 ##### § 24 Wiederkehrende Nutzungen oder Leistungen
 
@@ -2451,7 +2398,6 @@ Steht im Zeitpunkt des Geschäfts der Beginn des Bezugsrechts noch
 nicht fest oder ist das Recht in anderer Weise bedingt, so ist der
 Geschäftswert nach den Umständen des Falles niedriger anzusetzen.
 
-
 ##### § 25 Miet- und Pachtrechte, Dienstverträge
 
 (1) Der Wert eines Miet- oder Pachtrechts bemißt sich nach dem Wert
@@ -2467,21 +2413,17 @@ Bezüge des zur Dienstleistung Verpflichteten während der ganzen
 Vertragszeit, höchstens jedoch nach dem dreifachen Jahresbetrag der
 Bezüge.
 
-
 ##### § 26
 
 (weggefallen)
-
 
 ##### § 26a
 
 (weggefallen)
 
-
 ##### § 27
 
 (weggefallen)
-
 
 ##### § 28 Anmeldungen zum Güterrechtsregister, Eintragungen in das Güterrechtsregister, Eintragungen auf Grund von Eheverträgen
 
@@ -2489,14 +2431,12 @@ Bei Anmeldungen zum Güterrechtsregister und Eintragungen in dieses
 Register bestimmt sich der Wert nach § 30 Abs. 2, bei Eintragungen auf
 Grund von Eheverträgen nach § 39 Abs. 3.
 
-
 ##### § 29 Sonstige Anmeldungen zu einem Register, Eintragungen in das Vereinsregister, Beurkundung von sonstigen Beschlüssen
 
 Für sonstige Anmeldungen zu einem Register, für Eintragungen in das
 Vereinsregister und bei der Beurkundung von Beschlüssen (§ 47)
 bestimmt sich der Geschäftswert, wenn der Gegenstand keinen bestimmten
 Geldwert hat, nach § 30 Abs. 2. Die §§ 41a und 41b bleiben unberührt.
-
 
 ##### § 30 Angelegenheiten ohne bestimmten Geschäftswert, nichtvermögensrechtliche Angelegenheiten
 
@@ -2514,7 +2454,6 @@ Euro angenommen werden.
 
 (3) In nichtvermögensrechtlichen Angelegenheiten ist der Wert nach
 Absatz 2 zu bestimmen.
-
 
 ##### § 31 Festsetzung des Geschäftswerts
 
@@ -2567,7 +2506,6 @@ Satz 1, 2 und 4 sowie Abs. 7 ist entsprechend anzuwenden.
 
 (5) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
-
 ##### § 31a Auskunftspflicht des Notars
 
 Ein Notar, der in einer Angelegenheit der freiwilligen Gerichtsbarkeit
@@ -2580,10 +2518,7 @@ beurkundet oder beglaubigt hat, die in Angelegenheiten der
 freiwilligen Gerichtsbarkeit von anderer Seite beim Gericht
 eingereicht worden sind.
 
-
 #### 8. - Volle Gebühr, Rahmengebühren, Nebengeschäfte
-
-
 
 ##### § 32 Volle Gebühr
 
@@ -2646,11 +2581,9 @@ Gesetz als Anlage beigefügt.
 (2) Gebühren werden auf den nächstliegenden Cent auf- oder abgerundet;
 0,5 Cent werden aufgerundet.
 
-
 ##### § 33 Mindestbetrag einer Gebühr
 
 Der Mindestbetrag einer Gebühr ist 10 Euro.
-
 
 ##### § 34 Rahmengebühren
 
@@ -2659,21 +2592,15 @@ ist die Gebühr im Einzelfall unter Berücksichtigung aller Umstände,
 insbesondere des Umfangs und der Bedeutung der Sache, nach billigem
 Ermessen zu bestimmen.
 
-
 ##### § 35 Nebengeschäfte
 
 Die für ein Geschäft bestimmte Gebühr umfaßt die gesamte auf das
 Geschäft verwendete Tätigkeit des Gerichts, einschließlich der
 Nebengeschäfte.
 
-
 ### Zweiter Abschnitt - Gebühren in Angelegenheiten der freiwilligen Gerichtsbarkeit
 
-
-
 #### 1. - Beurkundungen und ähnliche Geschäfte
-
-
 
 ##### § 36 Einseitige Erklärungen und Verträge
 
@@ -2684,12 +2611,10 @@ Personen abgegeben wird.
 (2) Für die Beurkundung von Verträgen wird das Doppelte der vollen
 Gebühr erhoben.
 
-
 ##### § 37 Vertragsangebot
 
 Für die Beurkundung eines Antrags zum Abschluß eines Vertrags wird das
 Eineinhalbfache der vollen Gebühr erhoben.
-
 
 ##### § 38 Besondere Fälle
 
@@ -2767,7 +2692,6 @@ Abs. 1); die Wertvorschrift des § 112 Abs. 2 gilt entsprechend.
 Beurkundung von Zustimmungserklärungen zur Anerkennung der Vaterschaft
 oder zur Annahme als Kind.
 
-
 ##### § 39 Geschäftswert
 
 (1) Der Geschäftswert bestimmt sich nach dem Wert des
@@ -2799,7 +2723,6 @@ Fällen des § 38 Abs. 2 Nr. 7, auch wenn mehrere Anmeldungen in
 derselben Verhandlung beurkundet werden, auf höchstens 500 000 Euro
 anzunehmen.
 
-
 ##### § 40 Geschäftswert bei zustimmenden Erklärungen
 
 (1) Bei einer Zustimmungserklärung ist der Wert des Geschäfts
@@ -2812,7 +2735,6 @@ Entsprechendes gilt für Zustimmungserklärungen von Anteilsinhabern (§
 2 des Umwandlungsgesetzes). Bei Gesamthandsverhältnissen ist der
 Anteil entsprechend der Beteiligung an dem Gesamthandvermögen zu
 bemessen.
-
 
 ##### § 41 Geschäftswert bei Vollmachten
 
@@ -2830,7 +2752,6 @@ anzunehmen.
 
 (5) Auf den Widerruf einer Vollmacht finden die vorstehenden
 Vorschriften entsprechende Anwendung.
-
 
 ##### § 41a Geschäftswert bei Anmeldungen zum Handelsregister
 
@@ -2939,12 +2860,10 @@ Ortsname geändert hat, oder handelt es sich um eine ähnliche
 Anmeldung, die für das Unternehmen keine wirtschaftliche Bedeutung
 hat, so beträgt der Geschäftswert 3 000 Euro.
 
-
 ##### § 41b Geschäftswert bei Anmeldungen zum Partnerschaftsregister
 
 Für Anmeldungen zum Partnerschaftsregister gilt § 41a, soweit er auf
 die offene Handelsgesellschaft Anwendung findet, entsprechend.
-
 
 ##### § 41c Beschlüsse von Organen bestimmter Gesellschaften
 
@@ -2968,7 +2887,6 @@ Entlastung der Verwaltungsträger gelten als ein Beschluss.
 auch wenn in einer Verhandlung mehrere Beschlüsse beurkundet werden,
 in keinem Fall mehr als 500.000 Euro.
 
-
 ##### § 41d Verwendung von Musterprotokollen
 
 Die in § 39 Abs. 5, § 41a Abs. 1 Nr. 1 und Abs. 4 Nr. 1, auch in
@@ -2979,13 +2897,11 @@ dem in der Anlage zu dem Gesetz betreffend die Gesellschaften mit
 beschränkter Haftung bestimmten Musterprotokoll nicht abgewichen wird,
 für Änderungen des Gesellschaftsvertrags.
 
-
 ##### § 42 Ergänzung und Änderung beurkundeter Erklärungen
 
 Für die Beurkundung von Ergänzungen und Änderungen einer beurkundeten
 Erklärung wird derselbe Gebührensatz wie für die ursprüngliche
 Beurkundung erhoben, jedoch nicht mehr als die volle Gebühr.
-
 
 ##### § 43 Anerkennung einer schriftlich abgegebenen Erklärung
 
@@ -2993,7 +2909,6 @@ Für die Anerkennung des Inhalts einer schriftlich abgegebenen
 Erklärung (§ 9 Abs. 1 Satz 2 des Beurkundungsgesetzes) einschließlich
 der Beurkundung ergänzender oder ändernder Erklärungen, wird dieselbe
 Gebühr wie für die Beurkundung der Erklärung erhoben.
-
 
 ##### § 44 Mehrere Erklärungen in einer Urkunde
 
@@ -3035,7 +2950,6 @@ Gesetzbuchs zugunsten eines nach- oder gleichstehenden Berechtigten
 steht der Rangänderung gleich. Das gleiche gilt für den Ausschluß des
 Löschungsanspruchs nach § 1179a Abs. 5 des Bürgerlichen Gesetzbuchs.
 
-
 ##### § 45 Beglaubigung von Unterschriften
 
 (1) Für die Beglaubigung von Unterschriften oder Handzeichen wird ein
@@ -3046,7 +2960,6 @@ beurkundet würde.
 
 (2) Für die nach den Staatsschuldbuchgesetzen erforderlichen
 Unterschriftsbeglaubigungen wird nur die Mindestgebühr erhoben.
-
 
 ##### § 46 Verfügungen von Todes wegen
 
@@ -3081,7 +2994,6 @@ nicht ausgeschlossen; die Verjährung des Anspruchs (§ 17) beginnt in
 diesem Fall erst mit dem Ablauf des Jahres, in dem die Verfügung
 eröffnet oder zurückgegeben ist.
 
-
 ##### § 47 Beschlüsse von Gesellschaftsorganen
 
 Für die Beurkundung von Beschlüssen von Hauptversammlungen,
@@ -3092,7 +3004,6 @@ einer Satzung oder eines Gesellschaftsvertrags auch die für die
 Anmeldung zum Handelsregister erforderliche Bescheinigung des neuen
 vollständigen Wortlauts der Satzung oder des Gesellschaftsvertrags.
 Die Gebühr beträgt in keinem Fall mehr als 5.000 Euro.
-
 
 ##### § 48 Verlosung, Auslosung und Vernichtung von Wertpapieren, Wahlversammlungen
 
@@ -3110,7 +3021,6 @@ höchstens 500.000 Euro.
 
 (4) Wird die Auslosung und Vernichtung in einer Verhandlung
 beurkundet, so wird die Gebühr nur einmal erhoben.
-
 
 ##### § 49 Eide, eidesstattliche Versicherungen, Vernehmung von Zeugen und Sachverständigen, Augenscheinseinnahmen
 
@@ -3130,7 +3040,6 @@ dem Wert ihres Anteils an dem Nachlaß.
 Erteilung eines Erbscheins oder eines Zeugnisses der in §§ 109 und 111
 bestimmten Art beurkundet, so wird dafür eine besondere Gebühr nicht
 erhoben.
-
 
 ##### § 50 Bescheinigungen, Abmarkungen, Verklarungen, Proteste, Schätzungen
 
@@ -3155,7 +3064,6 @@ erhoben.
 Fünften Buch des Handelsgesetzbuchs und nach dem
 Binnenschiffahrtsgesetz wird das Doppelte der vollen Gebühr, für die
 nachträgliche Ergänzung der Verklarung wird eine volle Gebühr erhoben.
-
 
 ##### § 51 Wechsel- und Scheckproteste
 
@@ -3182,7 +3090,6 @@ Wechselgesetzes und Artikel 59 Abs. 2 des Scheckgesetzes) werden eine
 Gebühr von 1,50 Euro und die für die Ablichtungen und Ausdrucke
 entstandene Dokumentenpauschale erhoben.
 
-
 ##### § 52 Vermögensverzeichnisse, Siegelungen
 
 (1) Für die Aufnahme von Vermögensverzeichnissen sowie für Siegelungen
@@ -3196,7 +3103,6 @@ weitere angefangene Stunde um die Mindestgebühr (§ 33).
 (2) Für die Siegelung, einschließlich der Entsiegelung und der
 Aufnahme eines Vermögensverzeichnisses, wird die Gebühr nur einmal
 nach dem Gesamtzeitaufwand erhoben.
-
 
 ##### § 53 Freiwillige Versteigerung von Grundstücken
 
@@ -3253,7 +3159,6 @@ Versteigerungsbedingungen für den Anspruch gegen den Ersteher die
 Bürgschaft übernommen oder eine sonstige Sicherheit bestellt und dies
 in dem Protokoll über die Versteigerung beurkundet wird.
 
-
 ##### § 54 Versteigerung von beweglichen Sachen und Rechten
 
 (1) Für die Versteigerung von beweglichen Sachen, von Früchten auf dem
@@ -3267,7 +3172,6 @@ vollen Gebühr.
 
 (3) Die Kosten können aus dem Erlös vorweg entnommen werden.
 
-
 ##### § 55 Beglaubigung von Ablichtungen und Erteilung von amtlichen Ausdrucken
 
 (1) Für die Beglaubigung von Ablichtungen und die Erteilung von
@@ -3278,19 +3182,16 @@ wird ein Betrag in Höhe der Mindestgebühr (§ 33) erhoben.
 (2) Werden die Ablichtungen und Ausdrucke durch das Gericht
 hergestellt, so kommt die Dokumentenpauschale hinzu.
 
-
 ##### § 55a Gebührenfreiheit in Kindschafts- und Unterhaltssachen
 
 Beurkundungen nach § 62 Abs. 1 des Beurkundungsgesetzes sind
 gebührenfrei.
-
 
 ##### § 56 Sicherstellung der Zeit
 
 Für die Sicherstellung der Zeit, zu der eine Privaturkunde ausgestellt
 ist, einschließlich der über die Vorlegung ausgestellten
 Bescheinigung, wird eine Gebühr von 13 Euro erhoben.
-
 
 ##### § 57 Erfolglose Verhandlung
 
@@ -3299,7 +3200,6 @@ oder aus ähnlichen Gründen, nachdem das Gericht mit den Beteiligten
 darüber verhandelt hat, so wird die Hälfte der vollen Gebühr, jedoch
 nicht mehr als die für die beantragte Beurkundung bestimmte Gebühr
 erhoben; die Gebühr darf 50 Euro nicht übersteigen.
-
 
 ##### § 58 Geschäfte außerhalb der Gerichtsstelle, an Sonn- und Feiertagen und zur Nachtzeit
 
@@ -3331,7 +3231,6 @@ in § 50 Nr. 2 und 4 sowie in §§ 51, 52 und 54 bezeichneten Art; im
 Fall des § 53 wird die Zusatzgebühr nur erhoben, wenn der
 Versteigerungstermin außerhalb der Gerichtsstelle abgehalten wird.
 
-
 ##### § 59 Erklärungen in fremder Sprache
 
 (1) Gibt ein Beteiligter die zu beurkundende Erklärung in einer
@@ -3343,10 +3242,7 @@ Höchstbetrag von 30 Euro erhoben.
 Dolmetschers entstandenen Auslagen ist der Beteiligte, der die
 Verhandlung in der fremden Sprache veranlaßt hat.
 
-
 #### 2. - Grundbuchsachen
-
-
 
 ##### § 60 Eintragung des Eigentümers
 
@@ -3386,7 +3282,6 @@ Amts wegen eingetragen, so wird für die Eintragung einschließlich des
 vorangegangenen Verfahrens vor dem Grundbuchamt oder Nachlaßgericht
 das Doppelte der in den Absätzen 1 und 2 bestimmten Gebühren erhoben.
 
-
 ##### § 61 Eigentumswechsel bei Gemeinschaften zur gesamten Hand
 
 (1) Geht ein Grundstück, das für mehrere zur gesamten Hand eingetragen
@@ -3409,7 +3304,6 @@ kleinsten Anteil zu berechnen.
 (3) Die Vorschriften der Absätze 1 und 2 gelten nicht für offene
 Handelsgesellschaften und Kommanditgesellschaften.
 
-
 ##### § 62 Eintragung von Belastungen
 
 (1) Für die Eintragung einer Hypothek, Grundschuld oder Rentenschuld,
@@ -3430,7 +3324,6 @@ gleichzeitig mit dem Antrag auf Eintragung des Rechts beantragt, eine
 Löschungsvormerkung gemäß § 1179 des Bürgerlichen Gesetzbuchs
 zugunsten des Berechtigten einzutragen, so wird für diese Eintragung
 eine weitere Gebühr nicht erhoben.
-
 
 ##### § 63 Eintragung mehrerer Rechte, Belastung mehrerer Grundstücke
 
@@ -3470,7 +3363,6 @@ als der Wert des Rechts. Dabei wird der Wert mehrerer Grundstücke,
 über die das Grundbuch bei demselben Grundbuchamt geführt wird,
 zusammengerechnet.
 
-
 ##### § 64 Eintragung von Veränderungen und Löschungsvormerkungen
 
 (1) Für die Eintragung von Veränderungen eines Rechts wird die Hälfte
@@ -3504,7 +3396,6 @@ unberührt.
 gemeinsam belastet sind, so gelten die Vorschriften des § 63 Abs. 2
 und 3 entsprechend.
 
-
 ##### § 65 Eintragung von Verfügungsbeschränkungen
 
 (1) Für die Eintragung von Verfügungsbeschränkungen, insbesondere
@@ -3531,7 +3422,6 @@ einmal nach dem zusammengerechneten Wert erhoben.
 Verfügungsbeschränkungen hinsichtlich desselben Rechts handelt, nicht
 überschritten werden.
 
-
 ##### § 66 Eintragung von Vormerkungen und Widersprüchen
 
 (1) Für die Eintragung einer Vormerkung wird die Hälfte der Gebühr
@@ -3547,7 +3437,6 @@ einer Löschungsvormerkung (§ 64) bleiben unberührt.
 erhoben, die für die Grundbuchberichtigung zu erheben sein würde, zu
 deren Sicherung der Widerspruch eingetragen wird; mindestens wird
 jedoch ein Viertel der vollen Gebühr erhoben.
-
 
 ##### § 67 Sonstige Eintragungen
 
@@ -3589,7 +3478,6 @@ ist mindestens ein Viertel der vollen Gebühr zu erheben.
 
 (3) Der Wert bestimmt sich nach § 30.
 
-
 ##### § 68 Löschungen und Entlassung aus der Mithaft
 
 Für jede Löschung wird die Hälfte der für die Eintragung bestimmten
@@ -3597,7 +3485,6 @@ Gebühr erhoben; für die Eintragung der Entlassung aus der Mithaft wird
 die Hälfte der Gebühr erhoben, die für die Eintragung der Einbeziehung
 in die Mithaft zu erheben sein würde. Mindestens wird ein Viertel der
 vollen Gebühr erhoben.
-
 
 ##### § 69 Gebührenfreie Eintragungen und Löschungen, Zwischenverfügungen
 
@@ -3651,7 +3538,6 @@ sie ebenfalls gebührenfrei.
 (3) Für Zwischenverfügungen des Grundbuchamts (§ 18 Abs. 1 der
 Grundbuchordnung) werden besondere Gebühren nicht erhoben.
 
-
 ##### § 70 Löschung gegenstandsloser Rechte und Klarstellung der Rangverhältnisse
 
 (1) Für die Löschung gegenstandsloser Eintragungen (§ 84 der
@@ -3666,7 +3552,6 @@ unübersichtlicher Rangverhältnisse (§ 102 Abs. 2, § 111 der
 Grundbuchordnung) werden Gebühren nicht erhoben; gebührenfrei ist auch
 das vorangegangene Verfahren vor dem Grundbuchamt, einschließlich der
 Beurkundung von Erklärungen der Beteiligten.
-
 
 ##### § 71 Erteilung von Hypotheken-, Grundschuld- oder Rentenschuldbriefen
 
@@ -3693,13 +3578,11 @@ Eintragungsgebühr eine besondere Gebühr nicht erhoben.
 Grundbuchordnung) werden die Werte der einzelnen Hypotheken
 zusammengerechnet.
 
-
 ##### § 72 Vermerke auf dem Brief
 
 Für die Ergänzung des Grundbuchauszugs auf dem Brief sowie für
 sonstige Vermerke auf dem Brief wird, sofern es sich nicht um eine
 gebührenfreie Nebentätigkeit handelt, eine Gebühr von 13 Euro erhoben.
-
 
 ##### § 73 Ablichtungen und Ausdrucke
 
@@ -3740,11 +3623,9 @@ die Zwangsverwaltung werden weder Gebühren noch Auslagen erhoben.
 Verzeichnis, das der Auffindung der Grundbuchblätter dient, wird eine
 Gebühr von 10 Euro erhoben.
 
-
 ##### § 74 Grundbucheinsicht
 
 Für die Einsicht des Grundbuchs werden Gebühren nicht erhoben.
-
 
 ##### § 75 Eintragungsanträge
 
@@ -3753,7 +3634,6 @@ Gebühren nach Maßgabe des Beurkundungsabschnitts besonders erhoben,
 soweit sie in der Form des § 29 der Grundbuchordnung gestellt werden
 müssen. Im übrigen ist die Aufnahme und Entgegennahme von Anträgen
 gebührenfrei.
-
 
 ##### § 76 Wohnungs- und Teileigentum
 
@@ -3776,7 +3656,6 @@ Wohnungseigentumsgesetzes) wird die Hälfte der vollen Gebühr erhoben.
 (4) Für das Wohnungserbbaurecht (Teilerbbaurecht) gelten die Absätze 1
 bis 3 entsprechend.
 
-
 ##### § 77 Grundstücksgleiche Rechte
 
 (1) Die für Grundstücke geltenden Vorschriften finden auf Erbbaurechte
@@ -3797,7 +3676,6 @@ erhoben wie bei entsprechenden Eintragungen und Löschungen im
 Grundbuch. Für die Erteilung beglaubigter Ablichtungen und Ausdrucke
 aus dem Gewerkenbuch und dessen Einsicht gelten die Vorschriften der
 §§ 73, 74 entsprechend.
-
 
 ##### § 78 Bahneinheiten
 
@@ -3822,10 +3700,7 @@ Bahngrundbuch aus Anlaß eines Zwangsversteigerungsverfahrens auf
 Ersuchen des Vollstreckungsgerichts angelegt ist, dem Ersteher zur
 Last.
 
-
 #### 3. - Registersachen
-
-
 
 ##### § 79 Gebühren für Eintragungen in das Handels-,Partnerschafts- oder Genossenschaftsregister
 
@@ -3842,7 +3717,6 @@ Gebühren nur auf Grund einer Rechtsverordnung nach § 79a erhoben.
 Aufbewahrung der zum Handels- oder Genossenschaftsregister
 einzureichenden Unterlagen ist das einreichende Unternehmen
 verpflichtet.
-
 
 ##### § 79a Verordnungsermächtigung
 
@@ -3864,7 +3738,6 @@ gebührenfreie Eintragungen entfallenden Personal- und Sachkosten
 können bei der Höhe der für andere Eintragungen festzusetzenden
 Gebühren berücksichtigt werden.
 
-
 ##### § 80 Eintragungen in das Vereinsregister
 
 (1) Für Eintragungen in das Vereinsregister werden erhoben
@@ -3884,22 +3757,18 @@ Gebühren berücksichtigt werden.
 Absatz 1 Nr. 2 bezeichneten Art vorgenommen, so wird die Gebühr nur
 einmal erhoben.
 
-
 ##### § 81 Eintragungen in das Güterrechtsregister
 
 Für Eintragungen in das Güterrechtsregister wird die volle Gebühr
 erhoben.
 
-
 ##### § 82
 
 (weggefallen)
 
-
 ##### § 83
 
 (weggefallen)
-
 
 ##### § 84 Eintragungen in das Schiffsregister, Schiffsurkunden
 
@@ -3945,14 +3814,12 @@ Gebühren noch die Dokumentenpauschale erhoben. Für die Erteilung eines
 Auszugs aus dem Schiffszertifikat wird nur die Dokumentenpauschale
 erhoben.
 
-
 ##### § 85 Eintragungen in das Schiffsbauregister
 
 Für Eintragungen in das Schiffsbauregister gilt § 84 Abs. 1 bis 4
 entsprechend. Für die Eintragung des Schiffsbauwerks wird eine Gebühr
 nicht erhoben. Die Übertragung der im Schiffsbauregister eingetragenen
 Hypotheken in das Schiffsregister ist gebührenfrei.
-
 
 ##### § 86 Anmeldungen und Anträge
 
@@ -3965,7 +3832,6 @@ werden müssen. Im übrigen ist die Aufnahme und Entgegennahme von
 Anträgen und Anmeldungen gebührenfrei.
 
 (2) (weggefallen)
-
 
 ##### § 87 Gebührenfreie Geschäfte des Registergerichts
 
@@ -3988,10 +3854,6 @@ Gebühren werden nicht erhoben
     des Gesetzes über das Verfahren in Familiensachen und in den
     Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-
-
-
-
 ##### § 88 Löschungsverfahren, Auflösungsverfahren
 
 (1) Für Löschungen nach den § 395 des Gesetzes über das Verfahren in
@@ -4008,7 +3870,6 @@ freiwilligen Gerichtsbarkeit wird das Doppelte der vollen Gebühr
 erhoben. Das Gleiche gilt für die Verwerfung oder Zurückweisung der
 Beschwerde gegen die Zurückweisung des Widerspruchs. Der Geschäftswert
 bestimmt sich nach § 30 Abs. 2.
-
 
 ##### § 89 Ablichtungen und Ausdrucke
 
@@ -4032,16 +3893,12 @@ Mindestgebühr (§ 33) erhoben.
 
 (3) § 73 Abs. 5 gilt entsprechend.
 
-
 ##### § 90 Registereinsicht
 
 Für die Einsicht der in diesem Abschnitt genannten Register werden
 Gebühren nicht erhoben.
 
-
 #### 4. - Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
-
-
 
 ##### § 91 Gebührenfreie Tätigkeiten
 
@@ -4049,7 +3906,6 @@ Für die in den §§ 92 bis 93a und 97 genannten Tätigkeiten werden nur
 die in diesen Vorschriften bestimmten Gebühren erhoben; im Übrigen ist
 die Tätigkeit gebührenfrei. Für einstweilige Anordnungen werden keine
 Gebühren erhoben.
-
 
 ##### § 92 Dauerbetreuung und Dauerpflegschaft
 
@@ -4082,7 +3938,6 @@ besonders erhoben.
 eine Betreuung oder Pflegschaft von einem anderen Gericht übernommen,
 so bildet das Verfahren eine Einheit.
 
-
 ##### § 93 Betreuung und Pflegschaft für einzelne Rechtshandlungen
 
 Bei Betreuungen oder Pflegschaften für einzelne Rechtshandlungen wird
@@ -4099,7 +3954,6 @@ Gebühr nach § 92 Abs. 2 nicht übersteigen. Eine Gebühr wird nicht
 erhoben, wenn für den Fürsorgebedürftigen eine Dauerbetreuung oder
 -pflegschaft besteht oder gleichzeitig anzuordnen ist.
 
-
 ##### § 93a Verfahrenspflegschaft
 
 (1) Die Bestellung eines Pflegers für das Verfahren und deren
@@ -4109,12 +3963,9 @@ worden ist. Bestellung und Aufhebung sind gebührenfrei.
 (2) Die Auslagen nach § 137 Abs. 1 Nr. 16 können von dem Betroffenen
 nach Maßgabe des § 1836c des Bürgerlichen Gesetzbuches erhoben werden.
 
-
 ##### § 94 (weggefallen)
 
-
 ##### § 95 (weggefallen)
-
 
 ##### § 96 Nichterhebung von Auslagen in besonderen Fällen
 
@@ -4144,7 +3995,6 @@ aufgehoben oder eingeschränkt, so werden Auslagen, die im Zusammenhang
 mit der Vorbereitung oder dem Erlaß der Entscheidung entstehen, von
 dem Betroffenen in keinem Fall erhoben.
 
-
 ##### § 97 Verfügungen des Betreuungsgerichts
 
 (1) Die volle Gebühr wird erhoben für Verfügungen des
@@ -4153,37 +4003,27 @@ beziehen.
 
 (2) Der Geschäftswert bestimmt sich nach § 30 Abs. 2.
 
-
 ##### § 97a (weggefallen)
-
 
 ##### § 98 (weggefallen)
 
-
 ##### § 99 (weggefallen)
-
 
 ##### § 100 (weggefallen)
 
-
 ##### § 100a (weggefallen)
 
-
 #### 5. - Nachlaß- und Teilungssachen
-
-
 
 ##### § 101 Verwahrung von Verfügungen von Todes wegen
 
 Für die amtliche Verwahrung einer Verfügung von Todes wegen wird bei
 der Annahme ein Viertel der vollen Gebühr erhoben.
 
-
 ##### § 102 Eröffnung einer Verfügung von Todes wegen
 
 Für die Eröffnung einer Verfügung von Todes wegen wird die Hälfte der
 vollen Gebühr erhoben.
-
 
 ##### § 103 Gemeinsame Vorschriften zu den §§ 101, 102
 
@@ -4204,7 +4044,6 @@ wenn die Eröffnung bei einem anderen Gericht stattgefunden hat.
 (4) Für die Nachforderung und die Verjährung der Gebühr des § 101
 gelten die Vorschriften des § 46 Abs. 5 entsprechend.
 
-
 ##### § 104 Sicherung des Nachlasses
 
 (1) Bei der Sicherung eines Nachlasses durch Siegelung oder auf andere
@@ -4216,13 +4055,11 @@ volle Gebühr erhoben. Die Gebühr wird mit der Anordnung fällig.
 Entsiegelung oder Aufnahme des Vermögensverzeichnisses (§ 52)
 besonders erhoben.
 
-
 ##### § 105 Ermittlung des Erben
 
 Für die Ermittlung von Erben wird auch dann, wenn sie nach
 landesgesetzlichen Vorschriften von Amts wegen stattfindet, keine
 Gebühr erhoben.
-
 
 ##### § 106 Nachlaßpflegschaften, Gesamtgutsverwaltung
 
@@ -4245,14 +4082,12 @@ Antragsteller erhoben; ist der Antrag von einem Gläubiger gestellt, so
 bestimmt sich der Geschäftswert nach der Forderung, jedoch nach dem
 Wert der Masse (Absatz 1 Satz 3), wenn dieser geringer ist.
 
-
 ##### § 106a Stundung des Pflichtteilsanspruchs
 
 (1) Für Entscheidungen über die Stundung eines Pflichtteilsanspruchs
 wird die volle Gebühr erhoben.
 
 (2) Der Geschäftswert ist nach § 30 zu bestimmen.
-
 
 ##### § 107 Erbschein
 
@@ -4291,7 +4126,6 @@ Verfügung über eingetragene Schiffe oder Schiffsbauwerke oder im
 Schiffsregister oder Schiffsbauregister eingetragene Rechte oder zur
 Berichtigung dieser Register gebraucht wird.
 
-
 ##### § 107a Erbscheine für bestimmte Zwecke
 
 (1) Wird ein Erbschein für einen bestimmten Zweck gebührenfrei oder zu
@@ -4314,14 +4148,12 @@ Nachlaßgericht die Stelle zu benachrichtigen, welche die nach § 2356
 des Bürgerlichen Gesetzbuches erforderliche eidesstattliche
 Versicherung beurkundet hat.
 
-
 ##### § 108 Einziehung des Erbscheins
 
 Für die Einziehung oder Kraftloserklärung eines Erbscheins wird die
 Hälfte der vollen Gebühr erhoben. § 107 Abs. 2 bis 4 gilt
 entsprechend. Die Gebühr bleibt außer Ansatz, wenn in demselben
 Verfahren ein neuer Erbschein erteilt wird.
-
 
 ##### § 109 Andere Zeugnisse
 
@@ -4343,7 +4175,6 @@ Verfahren ein neuer Erbschein erteilt wird.
 Besitzbescheinigungen und ähnliche Zeugnisse des Nachlaßgerichts
 entsprechende Anwendung.
 
-
 ##### § 110 Feststellung des Erbrechts des Fiskus
 
 (1) Für das Verfahren zur Feststellung des Erbrechts des Fiskus oder
@@ -4353,7 +4184,6 @@ Erbscheins erhoben.
 
 (2) Wird auf Grund der Feststellung ein Erbschein erteilt, so wird
 hierfür eine besondere Gebühr nicht erhoben.
-
 
 ##### § 111 Beschränkte Zeugnisse, Bescheinigungen
 
@@ -4375,7 +4205,6 @@ hierfür eine besondere Gebühr nicht erhoben.
 wird die Gebühr des § 49 besonders erhoben.
 
 (3) § 107a gilt entsprechend.
-
 
 ##### § 112 Erklärungen gegenüber dem Nachlaßgericht
 
@@ -4436,14 +4265,12 @@ nach § 38 Abs. 3 besonders erhoben, soweit sie in öffentlich
 beglaubigter Form abzugeben oder notariell zu beurkunden sind; im
 übrigen ist die Aufnahme der Anmeldungen und Erklärungen gebührenfrei.
 
-
 ##### § 113 Testamentsvollstrecker
 
 Die Hälfte der vollen Gebühr wird erhoben für die Ernennung oder
 Entlassung von Testamentsvollstreckern und für sonstige anläßlich
 einer Testamentsvollstreckung zu treffenden Anordnungen. Der Wert
 bestimmt sich nach § 30 Abs. 2.
-
 
 ##### § 114 Nachlaßinventar, Fristbestimmungen
 
@@ -4459,16 +4286,11 @@ Die Hälfte der vollen Gebühr wird erhoben
 2.  für die Fristbestimmungen nach §§ 2151, 2153 bis 2155, 2192, 2193 des
     Bürgerlichen Gesetzbuchs.
 
-
-
-
-
 ##### § 115 Gebührenfreie Erledigung in den Fällen der §§ 112 bis 114
 
 Die in §§ 112 bis 114 aufgeführten Verrichtungen bleiben gebührenfrei,
 wenn sie im Zusammenhang mit einem anderen nach den Vorschriften
 dieses Unterabschnitts gebührenpflichtigen Verfahren stehen.
-
 
 ##### § 116 Gerichtliche Vermittlung der Auseinandersetzung
 
@@ -4522,15 +4344,11 @@ erhoben.
 (6) Für die Kosten des Verfahrens (Absätze 1 und 4) haften die
 Anteilsberechtigten als Gesamtschuldner.
 
-
 ##### § 117
 
 (aufgehoben)
 
-
 #### 6. - Sonstige Angelegenheiten
-
-
 
 ##### § 118 Genehmigung und Beaufsichtigung von Stiftungen
 
@@ -4545,7 +4363,6 @@ Viertel der vollen Gebühr ermäßigt werden.
 
 (3) Die Gebühr bestimmt sich nach dem Wert des Stiftungsvermögens nach
 Abzug der Schulden.
-
 
 ##### § 119 Festsetzung von Zwangs- und Ordnungsmitteln
 
@@ -4576,7 +4393,6 @@ Ordnungsmitteln gegen Beteiligte im Falle des § 33 Abs. 3 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit sowie gegen Zeugen und Sachverständige.
 
-
 ##### § 120 Ernennung von Sachverständigen, Bestellung eines Verwahrers, Verkauf oder Hinterlegung von Pfändern
 
 Die volle Gebühr wird erhoben
@@ -4595,10 +4411,6 @@ Die volle Gebühr wird erhoben
 3.  für Anordnungen des Gerichts über den Verkauf oder die Hinterlegung
     von Pfändern und anderen Gegenständen.
 
-
-
-
-
 ##### § 121 Ernennung und Abberufung von Vorstandsmitgliedern usw.
 
 Soweit nicht in diesem Gesetz oder in sonstigen bundesrechtlichen
@@ -4612,7 +4424,6 @@ Liquidatoren, Bestellung und Abberufung von Abschlußprüfern und
 Prüfern, Ermächtigung zur Berufung einer Hauptversammlung oder
 Generalversammlung oder zur Einsicht von Büchern) sowie für
 Entscheidungen und Anordnungen ähnlicher Art.
-
 
 ##### § 122 Bestellung eines Vertreters des Grundstücks- oder Schiffseigentümers, Zustellung von Willenserklärungen, Kraftloserklärung von Vollmachten
 
@@ -4636,7 +4447,6 @@ Entscheidungen und Anordnungen ähnlicher Art.
 
 (2) Der Wert bestimmt sich nach § 30 Abs. 2.
 
-
 ##### § 123 Dispache
 
 (1) Für die Bestellung eines Dispacheurs, einschließlich der
@@ -4652,7 +4462,6 @@ die Summe der Anteile, die die an der Verhandlung Beteiligten an dem
 Schaden zu tragen haben. Wird die Dispache bestätigt, so haften die an
 dem Verfahren Beteiligten für die Kosten als Gesamtschuldner.
 
-
 ##### § 124 Eidesstattliche Versicherung
 
 (1) Für die Verhandlung in dem Termin zur Abnahme einer
@@ -4665,7 +4474,6 @@ die Abgabe der eidesstattlichen Versicherung unterbleibt.
 (2) Erledigt sich das Verfahren vor Eintritt in die Verhandlung
 infolge Zurücknahme des Antrags oder in anderer Weise, so ermäßigt
 sich die Gebühr entsprechend den Vorschriften des § 130.
-
 
 ##### § 125 Verteilungsverfahren bei Enteignungen und dgl.
 
@@ -4680,7 +4488,6 @@ sich die nach § 130 zu erhebende Gebühr nach dem zu verteilenden
 Gesamtbetrag und, wenn ein Berechtigter den Antrag gestellt hat, nach
 dem von ihm beanspruchten Betrag, falls er geringer ist als der
 Gesamtbetrag.
-
 
 ##### § 126 Kapitalkreditbeschaffung für landwirtschaftliche Pächter
 
@@ -4713,7 +4520,6 @@ ausgeschlossen wird, sowie für die Gestattung der Einsicht in die bei
 dem Amtsgericht niedergelegten Verpfändungsverträge werden Gebühren
 nicht erhoben.
 
-
 ##### § 127 Personenstandsangelegenheiten
 
 (1) Für die Familienregister sowie für die bei den Gerichten
@@ -4725,7 +4531,6 @@ Zurückweisung von Anträgen auf eine gerichtliche Anordnung sowie für
 die Verwerfung oder Zurückweisung einer Beschwerde gegen eine
 gerichtliche Entscheidung die in §§ 130 und 131 bestimmten Gebühren
 erhoben.
-
 
 ##### § 128 Todeserklärung und Feststellung der Todeszeit
 
@@ -4748,7 +4553,6 @@ Todeszeit übergeleitet, so ist es für die Gebührenberechnung als ein
 einheitliches Verfahren zu behandeln.
 
 (3) Der Geschäftswert bestimmt sich nach § 30 Abs. 2.
-
 
 ##### § 128a Änderung der Vornamen und Feststellung der Geschlechtszugehörigkeit in besonderen Fällen
 
@@ -4787,7 +4591,6 @@ die Feststellung der Geschlechtszugehörigkeit in besonderen Fällen vom
 
 (2) Der Geschäftswert bestimmt sich nach § 30 Abs. 2.
 
-
 ##### § 128b Unterbringungssachen
 
 In Unterbringungssachen (§ 312 des Gesetzes über das Verfahren in
@@ -4798,7 +4601,6 @@ sind, Auslagen nur nach § 137 Abs. 1 Nr. 16 erhoben und wenn die
 Voraussetzungen des § 93a Abs. 2 gegeben sind. Im Übrigen werden
 Auslagen nur von demjenigen erhoben, dem sie durch gerichtliche
 Entscheidung auferlegt worden sind.
-
 
 ##### § 128c Freiheitsentziehungssachen
 
@@ -4819,13 +4621,11 @@ Verwaltungsbehörde werden Gebühren nicht erhoben.
 (4) Kostenvorschüsse werden nicht erhoben. Dies gilt auch im
 Beschwerdeverfahren.
 
-
 ##### § 128d Aufgebotsverfahren
 
 Für das Aufgebotsverfahren einschließlich eines Verfahrens betreffend
 Zahlungssperre vor sofortiger Einleitung des Aufgebotsverfahrens wird
 das Doppelte der vollen Gebühr erhoben.
-
 
 ##### § 128e Anordnung über die Verwendung von Verkehrsdaten
 
@@ -4858,16 +4658,12 @@ ergangen ist, wird eine Gebühr von 50 Euro erhoben.
 
 (3) § 130 Abs. 5 gilt entsprechend.
 
-
 #### 7. - Ergänzende Gebührenvorschriften für Anträge, Beschwerden usw.
-
-
 
 ##### § 129 Gesuche, Anträge
 
 Gesuche und Anträge werden, soweit nichts anderes bestimmt ist,
 gebührenfrei aufgenommen.
-
 
 ##### § 130 Zurückweisung und Zurücknahme von Anträgen
 
@@ -4893,7 +4689,6 @@ ganzen Antrags die Gebühr für die teilweise Erledigung übersteigt.
 Erhebung von Kosten abgesehen werden, wenn der Antrag auf
 unverschuldeter Unkenntnis der tatsächlichen oder rechtlichen
 Verhältnisse beruht. § 16 Abs. 2 gilt entsprechend.
-
 
 ##### § 131 Beschwerden, Anrufung des Gerichts gegen Entscheidungen anderer Behörden oder Dienststellen
 
@@ -4952,7 +4747,6 @@ wird.
 entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren
 gemäß Absatz 3 gebührenfrei ist.
 
-
 ##### § 131a Bestimmte Beschwerden
 
 In Verfahren über Beschwerden in den in § 128e Abs. 1 genannten
@@ -4961,7 +4755,6 @@ wenn die Beschwerde verworfen oder zurückgewiesen wird. § 128e Abs. 2
 gilt entsprechend. Im Übrigen ist das Beschwerdeverfahren
 gebührenfrei. Auslagen, die durch eine für begründet befundene
 Beschwerde entstanden sind, werden nicht erhoben.
-
 
 ##### § 131b Beschwerden in Verfahrenskostenhilfesachen
 
@@ -4974,7 +4767,6 @@ nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, daß
 eine Gebühr nicht zu erheben ist. Wird die Beschwerde zurückgenommen,
 bevor eine Entscheidung über sie ergangen ist, wird keine Gebühr
 erhoben. § 131 Abs. 5 bleibt unberührt.
-
 
 ##### § 131c Beschwerden in bestimmten Registersachen
 
@@ -4999,7 +4791,6 @@ Zurücknahme dieses Teils der Anmeldung vorgesehen ist.
 2 mit der Maßgabe anzuwenden, dass das Dreifache der Gebühr erhoben
 wird.
 
-
 ##### § 131d Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
 
 Für das Verfahren über die Rüge wegen Verletzung des Anspruchs auf
@@ -5012,7 +4803,6 @@ oder zurückgewiesen wird. Wird die Rüge zurückgenommen, bevor eine
 Entscheidung über sie ergangen ist, wird keine Gebühr erhoben. § 131
 Abs. 5 gilt entsprechend.
 
-
 ##### § 132 Beglaubigte Ablichtungen oder Ausdrucke
 
 Soweit nichts anderes bestimmt ist, wird bei der Erteilung
@@ -5020,7 +4810,6 @@ beglaubigter Ablichtungen oder Ausdrucke der vom Gericht erlassenen
 Entscheidungen sowie der von ihm aufgenommenen oder in Urschrift in
 seiner dauernden Verwahrung befindlichen Urkunden eine
 Beglaubigungsgebühr nicht erhoben.
-
 
 ##### § 133 Vollstreckbare Ausfertigungen
 
@@ -5031,7 +4820,6 @@ ist (§§ 726 bis 729 der Zivilprozeßordnung) oder es sich um die
 Erteilung einer weiteren vollstreckbaren Ausfertigung handelt. Das
 gleiche gilt im Fall der Erteilung vollstreckbarer Ausfertigungen
 einer bestätigten Auseinandersetzung sowie in ähnlichen Fällen.
-
 
 ##### § 134 Vollstreckung
 
@@ -5063,17 +4851,13 @@ vollstreckbaren Ausfertigung (§ 733 der Zivilprozessordnung) wird eine
 Gebühr von 15 Euro erhoben. Die Gebühr fällt für jede weitere
 vollstreckbare Ausfertigung gesondert an.
 
-
 ##### § 135 Rechtskraftzeugnisse, Kostenfestsetzung
 
 Für die Erteilung von Rechtskraftzeugnissen und für die gerichtliche
 Festsetzung der einem Beteiligten zu erstattenden Kosten werden
 Gebühren nicht erhoben.
 
-
 ### Dritter Abschnitt - Auslagen
-
-
 
 #### § 136 Dokumentenpauschale
 
@@ -5132,7 +4916,6 @@ und Ausdrucke beträgt die Dokumentenpauschale je Datei 2,50 Euro.
 
 
 (5) (weggefallen)
-
 
 #### § 137 Sonstige Auslagen
 
@@ -5258,11 +5041,9 @@ und Ausdrucke beträgt die Dokumentenpauschale je Datei 2,50 Euro.
 (2) Sind Auslagen durch verschiedene Geschäfte veranlasst, werden sie
 auf die mehreren Geschäfte angemessen verteilt.
 
-
 #### § 138
 
 (aufgehoben)
-
 
 #### § 139 Rechnungsgebühren
 
@@ -5290,10 +5071,7 @@ Abs. 4 bis 9 gilt entsprechend. Beschwerdeberechtigt sind die
 Staatskasse und derjenige, der für die Rechnungsgebühren als
 Kostenschuldner in Anspruch genommen worden ist.
 
-
 ## Zweiter Teil - Kosten der Notare
-
-
 
 ### § 140 Verbot der Gebührenvereinbarung
 
@@ -5301,13 +5079,11 @@ Die Kosten der Notare bestimmen sich, soweit bundesrechtlich nichts
 anderes vorgeschrieben ist, ausschließlich nach diesem Gesetz.
 Vereinbarungen über die Höhe der Kosten sind unwirksam.
 
-
 ### § 141 Anwendung des Ersten Teils
 
 Für die Kosten der Notare gelten die Vorschriften des Ersten Teils
 dieses Gesetzes entsprechend, soweit in den nachstehenden Vorschriften
 nichts anderes bestimmt ist.
-
 
 ### § 142 Entscheidung durch das Amtsgericht in Baden-Württemberg
 
@@ -5316,7 +5092,6 @@ Notars der Staatskasse zufließen, entscheidet in den Fällen des § 14
 Abs. 2 und des § 31 (Erinnerung gegen den Kostenansatz, Festsetzung
 des Geschäftswerts) das Amtsgericht, in dessen Bezirk der Notar
 (Bezirksnotar) seinen Amtssitz hat.
-
 
 ### § 143 Nichtanwendung des Ersten Teils
 
@@ -5369,7 +5144,6 @@ die Gebühren für seine Tätigkeit selbst zufließen. Außer in den Fällen
 der Kostenerstattung zwischen den Trägern der Sozialhilfe gilt die in
 § 64 Abs. 2 Satz 3 Nr. 2 des Zehnten Buches Sozialgesetzbuch bestimmte
 Gebührenfreiheit auch für den Notar.
-
 
 ### § 144 Gebührenermäßigung
 
@@ -5451,7 +5225,6 @@ Begünstigten als Gesamtschuldner haften, nur insoweit, als sie von dem
 Begünstigten auf Grund gesetzlicher Vorschrift Erstattung verlangen
 können.
 
-
 ### § 144a Besondere Gebührenermäßigung
 
 Bei Geschäften, die in dem in Artikel 3 des Einigungsvertrages
@@ -5464,7 +5237,6 @@ Vomhundertsätze entsprechend § 144 Abs. 1 Satz 1. Den in Satz 1
 genannten Kostenschuldnern steht die Treuhandanstalt gleich. § 144
 Abs. 1 Satz 2 gilt sinngemäß. Die Ermäßigungsbestimmungen des
 Einigungsvertrages sind nicht anzuwenden.
-
 
 ### § 145 Entwürfe
 
@@ -5499,7 +5271,6 @@ infolge Zurücknahme des Auftrags oder aus ähnlichen Gründen
 unterbleibt. Daneben werden die im § 57 und im § 130 Abs. 2 bestimmten
 Gebühren nicht erhoben.
 
-
 ### § 146 Vollzug des Geschäfts
 
 (1) Wird der Notar bei der Veräußerung von Grundstücken und
@@ -5532,7 +5303,6 @@ gesondert zu erheben.
 
 (4) Der Geschäftswert ist in den Fällen der Absätze 1 und 2 wie bei
 der Beurkundung, im Fall des Absatzes 3 nach § 30 zu bestimmen.
-
 
 ### § 147 Sonstige Geschäfte, Nebentätigkeit, gebührenfreie Geschäfte
 
@@ -5585,10 +5355,6 @@ zustehende Gebühr abgegolten wird.
     Gleiches gilt für die Stellung von Anträgen bei dem Zentralen
     Vorsorgeregister im Namen der Beteiligten.
 
-
-
-
-
 ### § 148 Auseinandersetzungen
 
 (1) Für die Vermittlung einer Auseinandersetzung durch den Notar
@@ -5605,10 +5371,6 @@ Gebühr. Die Gebühr ermäßigt sich
 
 2.  auf die Hälfte der vollen Gebühr, wenn sich das Verfahren vor Eintritt
     in die Verhandlung durch Zurücknahme oder auf andere Weise erledigt.
-
-
-
-
 
 ### § 148a Vollstreckbarerklärungen und Bescheinigungen in besonderen Fällen
 
@@ -5632,7 +5394,6 @@ Ausstellung des Formblatts oder der Bescheinigung nach § 71 Absatz 1
 des Auslandsunterhaltsgesetzes erhält der Notar eine Gebühr in Höhe
 von 10 Euro, für die Ausstellung einer Bestätigung nach § 1079 der
 Zivilprozessordnung eine Gebühr in Höhe von 15 Euro.
-
 
 ### § 149 Erhebung, Verwahrung und Ablieferung von Geld, Wertpapieren und Kostbarkeiten
 
@@ -5670,7 +5431,6 @@ Gebühr nach dem Wert.
 (5) Die Gebühr wird im Fall des § 51 Abs. 3 auf die Protestgebühr,
 nicht jedoch auf die Wegegebühr, angerechnet.
 
-
 ### § 150 Bescheinigung
 
 Der Notar erhält für die Erteilung einer Bescheinigung nach
@@ -5679,10 +5439,6 @@ Der Notar erhält für die Erteilung einer Bescheinigung nach
 
 
 2.  § 21 Abs. 1 Nr. 2 der Bundesnotarordnung eine Gebühr von 25 Euro.
-
-
-
-
 
 ### § 151 Zuziehung eines zweiten Notars
 
@@ -5699,13 +5455,11 @@ Notars werden daneben angesetzt. Fließen die Gebühren dem mit der
 Beurkundung beauftragten Notar nicht selbst zu, werden keine Kosten
 erhoben.
 
-
 ### § 151a Umsatzsteuer
 
 Der Notar erhält Ersatz der auf seine Kosten entfallenden
 Umsatzsteuer, sofern diese nicht nach § 19 Abs. 1 des
 Umsatzsteuergesetzes unerhoben bleibt.
-
 
 ### § 152 Weitere Auslagen des Notars, dem die Gebühren selbst zufließen
 
@@ -5746,10 +5500,6 @@ Auslagen erheben
     Gesamtprämie der Betrag zu erstatten, der sich aus dem Verhältnis der
     60 Millionen Euro übersteigenden Versicherungssumme zu der
     Gesamtversicherungssumme ergibt.
-
-
-
-
 
 ### § 153 Reisekosten
 
@@ -5800,7 +5550,6 @@ Kilometer zuzüglich der durch die Benutzung des Kraftfahrzeugs aus
 Anlaß der Geschäftsreise regelmäßig anfallenden baren Auslagen,
 insbesondere der Parkgebühren, zu erstatten.
 
-
 ### § 154 Einforderung der Kosten
 
 (1) Fließen die Kosten dem Notar selbst zu, so dürfen sie nur auf
@@ -5821,7 +5570,6 @@ aufzustellen. Hat der Notar eine Urkunde entworfen und demnächst
 beglaubigt, so sind auch die Kosten des Entwurfs unter der
 Beglaubigung zu vermerken.
 
-
 ### § 154a Verzinsung des Kostenanspruchs
 
 Der Zahlungspflichtige hat die Kosten zu verzinsen, wenn ihm eine
@@ -5831,7 +5579,6 @@ Verzinsungsbeginn und den Zinssatz enthält. Die Verzinsung beginnt
 einen Monat nach der Zustellung. Der Zinssatz beträgt für das Jahr
 fünf Prozentpunkte über dem Basiszinssatz nach § 247 des Bürgerlichen
 Gesetzbuchs.
-
 
 ### § 155 Beitreibung der Kosten und Zinsen
 
@@ -5843,7 +5590,6 @@ entsprechend. Die Vollstreckungsklausel, die zum Zwecke der
 Zwangsvollstreckung gegen einen zur Duldung der Zwangsvollstreckung
 Verpflichteten erteilt wird, hat den Ausspruch der Duldungspflicht zu
 enthalten.
-
 
 ### § 156 Einwendungen gegen die Kostenberechnung
 
@@ -5894,7 +5640,6 @@ Verfahren von dem Notar nicht erhoben. Außergerichtliche Kosten
 anderer Beteiligter, die der Notar in diesen Verfahren zu tragen
 hätte, sind der Landeskasse aufzuerlegen.
 
-
 ### § 157 Zurückzahlung, Schadensersatz
 
 (1) Wird die Kostenberechnung abgeändert oder ist der endgültige
@@ -5917,10 +5662,7 @@ Kostenschuldners in dem Verfahren nach § 156 entschieden. Die
 Entscheidung ist nach den Vorschriften der Zivilprozeßordnung
 vollstreckbar.
 
-
 ## Dritter Teil - Schluß- und Übergangsvorschriften
-
-
 
 ### § 157a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
@@ -5963,7 +5705,6 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 (6) Kosten werden nicht erstattet.
 
-
 ### § 158 Landesrechtliche Vorschriften
 
 (1) Unberührt bleiben die landesrechtlichen Kostenvorschriften für
@@ -5982,7 +5723,6 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 Geschäft der freiwilligen Gerichtsbarkeit wegen der Gebühren nichts
 bestimmt, so wird die Hälfte der vollen Gebühr erhoben.
 
-
 ### § 159 Andere Behörden und Dienststellen
 
 Soweit andere Stellen als Gerichte, Notare oder Gerichtsvollzieher in
@@ -5996,14 +5736,12 @@ des § 14 Abs. 2 und des § 31 (Erinnerung gegen den Kostenansatz,
 Festsetzung des Geschäftswerts) entscheidet das Amtsgericht, in dessen
 Bezirk die Stelle ihren Sitz hat.
 
-
 ### § 160 Gerichtstage, Sprechtage
 
 Die zur Abhaltung eines Gerichtstags (auswärtigen Amtstags) bestimmten
 Räumlichkeiten gelten als Gerichtsstelle im Sinne dieses Gesetzes.
 Hält ein Notar außerhalb seiner Geschäftsstelle regelmäßige Sprechtage
 ab, so gilt dieser Ort als Amtssitz im Sinne dieses Gesetzes.
-
 
 ### § 161 Übergangsvorschrift
 
@@ -6014,7 +5752,6 @@ bisherigem Recht erhoben, wenn die Instanz vor dem Inkrafttreten einer
 Gesetzesänderung eingeleitet worden ist. Die Sätze 1 und 2 gelten
 auch, wenn Vorschriften geändert werden, auf die dieses Gesetz
 verweist.
-
 
 ### § 162 Aufhebung des Ermäßigungssatzes
 
@@ -6029,14 +5766,12 @@ Kapitel III Sachgebiet A Abschnitt III Nr. 20 Buchstabe a des
 Einigungsvertrages vom 31. August 1990 (BGBl. II S. 885, 935, 940) ab
 1\. Juli 2004 nicht mehr anzuwenden.
 
-
 ### § 163 Übergangsvorschrift zum Kostenrechtsmodernisierungsgesetz
 
 Für die Beschwerde und die Erinnerung finden die vor dem 1. Juli 2004
 geltenden Vorschriften weiter Anwendung, wenn die Kosten vor dem 1.
 Juli 2004 angesetzt oder die anzufechtende Entscheidung vor dem 1.
 Juli 2004 der Geschäftsstelle übermittelt worden ist.
-
 
 ### § 164 Zusätzliche Übergangsvorschriften aus Anlass des Inkrafttretens des Handelsregistergebühren-Neuordnungsgesetzes
 
@@ -6073,14 +5808,12 @@ vorläufigen Kostenansatzes geleistet worden sind, verjähren frühestens
 in vier Jahren nach Ablauf des Kalenderjahrs, in dem der endgültige
 Kostenansatz dem Kostenschuldner mitgeteilt worden ist.
 
-
 ### § 165 Übergangsvorschrift für die Erhebung von Haftkosten
 
 Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des
 Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, ist § 137
 Nummer 12 in der bis zum 27. Dezember 2010 geltenden Fassung
 anzuwenden.
-
 
 ### Anlage (zu § 32)
 

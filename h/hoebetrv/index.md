@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 8.11.1989 I 1957
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des
@@ -27,7 +26,6 @@ Schutzbaugesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1232),
 zuletzt geändert durch das Einführungsgesetz zum Gesetz über
 Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503),
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -51,10 +49,6 @@ festgesetzt:
 
     die sich aus der Anlage 3 zu dieser Verordnung ergebenden Beträge.
 
-
-
-
-
 ## § 2
 
 Die in den Anlagen 1 bis 3 zu dieser Verordnung genannten
@@ -64,11 +58,9 @@ Dezember 1986 fertiggestellt worden sind. Für Schutzräume, die vor dem
 nach den bisherigen Fassungen der Schutzbau-Höchstbetragsverordnung
 vom 25. Februar 1970 (BGBl. I S. 217).
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage 1
 
@@ -640,13 +632,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         3)  Bei Ausführung des Schutzraumes nicht als Tiefgarage mindert sich der
             Höchstbetrag um 25.000 DM.
 
-
-
-
-
-
-
-
 ## Anlage 2
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1958;
@@ -887,10 +872,6 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
         Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden
         (Anlage 1)
 
-
-
-
-
 ## Anlage 3
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1958 - 1959;
@@ -1130,10 +1111,6 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
     *   180 v.H. des Höchstbetrages, der für Hausschutzräume gilt, die im
         Zusammenhang mit Neubauten im Inneren von Gebäuden errichtet werden
         (Anlage 1)
-
-
-
-
 
 ## Anlage 4
 

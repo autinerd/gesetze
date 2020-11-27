@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3701
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 6 und des § 18 Abs. 1 Satz 4 des
@@ -27,7 +25,6 @@ des Einführungsgesetzes zur Insolvenzordnung vom 5. Oktober 1994
 (BGBl. I S. 2911), und des Artikels 12 Abs. 1 Nr. 2 des Zweiten
 Vermögensrechtsänderungsgesetzes vom 14. Juli 1992 (BGBl. I S. 1257)
 verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Grenze des Plangebietes
 
@@ -58,7 +55,6 @@ worden ist.
 (3) Die Bodensonderung verändert die Grenze von an das Plangebiet
 angrenzenden Flurstücken nicht.
 
-
 ## § 2 Gestaltung des Sonderungsplans
 
 Der Sonderungsplan ist nach den in §§ 3 bis 5 bestimmten Grundsätzen
@@ -66,7 +62,6 @@ zu gestalten. Hierbei sind die für die einzelnen Arten der
 Sonderungsverfahren in den Anlagen 1 bis 6 zu dieser Verordnung
 festgelegten Muster zu verwenden. Die zeichnerische Ausgestaltung
 richtet sich nach Landesrecht.
-
 
 ## § 3 Gestaltung der Grundstückskarte
 
@@ -98,7 +93,6 @@ Gegenstand des Sonderungsbescheids ist.
 (4) Ist der bisherige Grundstücksbestand in der Grundstückskarte nicht
 übersichtlich darstellbar, so kann dieser Teil der Grundstückskarte in
 einer gesonderten Bestandskarte dargestellt werden.
-
 
 ## § 4 Gestaltung der Grundstücksliste
 
@@ -144,7 +138,6 @@ Sonderungsbescheid.
 (4) Die Grundstücksliste kann für jedes Grundstück gesondert
 aufgestellt werden.
 
-
 ## § 5 Entschädigungs- und Ausgleichsliste, unübersichtliche Belastungsverhältnisse
 
 (1) In den Fällen der ergänzenden oder komplexen Bodenneuordnung
@@ -156,7 +149,6 @@ ist, eingetragene beschränkte dingliche Rechte entweder gegen
 Entschädigung oder unter Begründung entsprechender neuer Rechte an
 einem oder mehreren der neu gebildeten Grundstücke aufzuheben.
 
-
 ## § 6 Gestaltung des Sonderungsbescheids
 
 Der Sonderungsbescheid besteht aus der Angabe der Beteiligten oder
@@ -164,7 +156,6 @@ einer Kurzbezeichnung des Sonderungsgebiets, der Entscheidung und dem
 Sonderungsplan. Er ist so herzustellen, daß durch eine fortlaufende
 Paginierung oder in ähnlicher Form eindeutig festgestellt werden kann,
 welche Teile er umfaßt.
-
 
 ## § 7 Grundbuchvollzug
 
@@ -204,7 +195,6 @@ des Eigentümers eines Grundstücks oder Gebäudes oder eines
 Erbbauberechtigten ist dem Finanzamt, in dessen Bezirk das Grundstück
 oder Gebäude liegt, mitzuteilen.
 
-
 ## § 8 Sonderungsvermerk
 
 (1) Ersucht die Sonderungsbehörde gemäß § 6 Abs. 4 des
@@ -217,7 +207,6 @@ Ersuchens, Geschäftszeichen) am (Datum der Eintragung)."
 
 (2) Solange ein Sonderungsvermerk im Grundbuch eingetragen ist, erhält
 die Sonderungsbehörde von sämtlichen Eintragungen eine Mitteilung.
-
 
 ## § 9 Unterrichtung der Katasterbehörde, Verfahrensakten
 
@@ -237,7 +226,6 @@ Ersuchen abzugeben, die Ergebnisse der Bodensonderung in das
 Liegenschaftskataster zu übernehmen und, falls erforderlich, bis dahin
 die Fortschreibung des Sonderungsplans vorzunehmen.
 
-
 ## § 10 Fortschreibung des Sonderungsplans
 
 Die nach § 20 des Bodensonderungsgesetzes vorzunehmende Fortschreibung
@@ -245,7 +233,6 @@ des Sonderungsplans bei Veränderungen der in dem Plan enthaltenen
 Bestimmungen zu den dinglichen Rechtsverhältnissen soll nach den
 Vorschriften des Landesrechts erfolgen, die für die Fortschreibung des
 Liegenschaftskatasters gelten.
-
 
 ## § 11 Sonderung zur Sachenrechtsbereinigung
 
@@ -280,7 +267,6 @@ Satz 3 bezeichneten Voraussetzungen zuzuleiten. Auf Antrag des Notars
 berichtigt das Grundbuchamt die Grundbücher entsprechend dem Inhalt
 des Bescheids und den abgeschlossenen Verträgen.
 
-
 ## § 12 Zuordnungspläne
 
 § 1, § 7 Abs. 4 und 5 und § 9 Abs. 1 gelten für das
@@ -289,16 +275,13 @@ Vermögenszuordnungsgesetzes sinngemäß. Die Flurstücke sind
 entsprechend den Vorschriften des Landesrechts zur Führung des
 Liegenschaftskatasters zu bezeichnen.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 27. Dezember 1994 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlagen (Übersicht)
 
@@ -339,10 +322,6 @@ Der Bundesrat hat zugestimmt.
 *    *   Anlage 7
 
     *   Lastenverzeichnis
-
-
-
-
 
 ## Anlage 1
 
@@ -1291,8 +1270,6 @@ Nr.
     *   Hoffmann, Heinz
         Hoffmann, Heidi
 
-
-
 ## **Sonderungsplan**
 
 ### auf Grund des Bodensonderungsgesetzes – BoSoG
@@ -1754,8 +1731,6 @@ Nr.
     *   Eigentum des Volkes -
         Gebäudewirtschaft
 
-
-
 ## **Sonderungsplan**
 
 ### auf Grund des Bodensonderungsgesetzes - BoSoG
@@ -1774,8 +1749,6 @@ Nr.
         *Frankfurt/Oder*
 
     *   Flur: *9*
-
-
 
 ## **Grundstückskarte**
 
@@ -2170,8 +2143,6 @@ Nr.
 
     *   Stadt Erfurt
 
-
-
 ## **Sonderungsplan**
 
 ### auf Grund des Bodensonderungsgesetzes - BoSoG
@@ -2189,8 +2160,6 @@ Nr.
 
     *   Flur:
         *4*
-
-
 
 ## **Bestandskarte**
 
@@ -2215,8 +2184,6 @@ Nr.
 
     *   Flur:
         *4*
-
-
 
 ## **Grundstückskarte**
 
@@ -3233,7 +3200,6 @@ Nr.
 
 
 (Grafik in Bearbeitung)
-
 
 ## Anlage 7
 

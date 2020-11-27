@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1442
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -27,7 +25,6 @@ verordnet das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
@@ -92,7 +89,6 @@ ist.
 Vermögen des Inhabers ein Insolvenz- oder Vergleichsverfahren eröffnet
 worden ist.
 
-
 ## § 2 Ausnahmeregelungen
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht
@@ -102,7 +98,6 @@ erforderlichen Fertigkeiten und Kenntnisse durch Ausbildungsmaßnahmen
 außerhalb der Ausbildungsstätte in einer anderen anerkannten
 Ausbildungsstätte oder in Form überbetrieblicher Ausbildung vermittelt
 werden können.
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

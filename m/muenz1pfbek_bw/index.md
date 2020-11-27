@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAGVBl: 1949, 12
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des

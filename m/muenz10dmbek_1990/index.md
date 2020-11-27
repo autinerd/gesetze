@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 860
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -107,7 +105,6 @@ befindet sich im Feld zwischen dem linken Fang des Adlers und dem Wort
 Stauferadler eingeprägt.
 
 (10) Der Entwurf der Münze stammt von Eugen Ruhl, Pforzheim.
-
 
 ## (XXXX) Abbildung der Münze
 

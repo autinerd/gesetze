@@ -33,13 +33,11 @@ Fundstelle
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     1) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 3 und 5 Absatz 2 des Gesetzes zum Schutz vor
 nichtionisierender Strahlung bei der Anwendung am Menschen vom 29.
 Juli 2009 (BGBl. I S. 2433) verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -47,7 +45,6 @@ Diese Verordnung gilt für den Betrieb von UV-Bestrahlungsgeräten, die
 zu kosmetischen Zwecken oder für sonstige Anwendungen am Menschen
 außerhalb der Heil- oder Zahnheilkunde gewerblich oder im Rahmen
 sonstiger wirtschaftlicher Unternehmungen eingesetzt werden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -133,10 +130,6 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
     Schwellenbestrahlung des jeweiligen Hauttyps und der erythemwirksamen
     Bestrahlungsstärke des UV-Bestrahlungsgerätes.
 
-
-
-
-
 ## § 3 Anforderungen an den Betrieb von UV-Bestrahlungsgeräten
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
@@ -203,7 +196,6 @@ dass
 auf Verlangen nachzuweisen, dass die Anforderungen nach den Absätzen 1
 und 2 erfüllt sind.
 
-
 ## § 4 Einsatz, Aufgaben und Qualifikation des Fachpersonals
 
 (1)
@@ -246,7 +238,6 @@ hat, kann nicht mehr als Fachpersonal nach Satz 1 tätig werden, bis es
 an einer Fortbildung nach § 5 Absatz 2 teilgenommen hat. Als
 Fachpersonal gilt auch das Personal mit vergleichbaren Qualifikationen
 aus anderen EU- und EWR-Staaten gemäß § 6.
-
 
 ## § 5 Schulung, Fortbildung
 
@@ -296,7 +287,6 @@ Europäischen Wirtschaftsraum stehen denen nach Absatz 4 Satz 1 gleich,
 wenn die Akkreditierung die Anforderungen des Absatzes 4 Satz 2 oder
 die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren
 Anforderungen des Ausstellungsstaats erfüllen.
-
 
 ## § 6 Gleichwertigkeit vergleichbarer Qualifikationen aus anderen EU- und EWR-Staaten
 
@@ -348,7 +338,6 @@ Niederlassungsstaats die Echtheit oder die dadurch verliehenen Rechte
 (3) Für die vorübergehende und gelegentliche Dienstleistung als
 Fachpersonal im Inland gilt § 13a der Gewerbeordnung.
 
-
 ## § 7 Informationspflichten
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat die Hinweise nach
@@ -396,7 +385,6 @@ den Nutzerinnen und Nutzern eine Informationsschrift zu den Gefahren
 und Risiken einer UV-Bestrahlung zur Mitnahme angeboten wird, deren
 Inhalt sich aus Anlage 8 ergibt.
 
-
 ## § 8 Dokumentationspflichten
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat für das UV-
@@ -421,7 +409,6 @@ des Bundesdatenschutzgesetzes trifft.
 Dokumentationspflichten die nach den Absätzen 1 bis 3 dokumentierten
 Aufzeichnungen überprüfen.
 
-
 ## § 9 Hinweis auf Bußgeldvorschriften des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen
 
 Zuwiderhandlungen gegen § 3 des Gesetzes zum Schutz vor
@@ -430,7 +417,6 @@ Verbindung mit § 3 Absatz 1 oder Absatz 2, § 4 Absatz 1, § 7 oder § 8
 Absatz 1 oder Absatz 2 dieser Verordnung können nach § 8 Absatz 1
 Nummer 3 des Gesetzes zum Schutz vor nichtionisierender Strahlung bei
 der Anwendung am Menschen geahndet werden.
-
 
 ## § 10 Übergangsvorschrift
 
@@ -455,7 +441,6 @@ Jahren vor Inkrafttreten der Verordnung und nicht nach dem 15. August
 muss an einer Fortbildungsveranstaltung teilnehmen, sobald das
 Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
-
 ## § 11 Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Januar
@@ -463,11 +448,9 @@ Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
 (2) § 4 Absatz 1 tritt am 1. November 2012 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3) Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
 
@@ -977,10 +960,6 @@ Wirkungsfunktion mit Parametern festgelegt:
     *   10
         0,015 (140 – λ)
 
-
-
-
-
 ## Anlage 3 (zu § 3 Absatz 2 Nummer 1) UV-Schutzbrillen
 
 (Fundstelle: BGBl. I 2011, 1419 )
@@ -990,7 +969,6 @@ Schutzstufe 2-5 nach DIN EN 170, Ausgabe Januar 2003 (über die VDE
 Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und
 beim Deutschen Patent- und Markenamt archivmäßig gesichert
 niedergelegt), erfüllen.
-
 
 ## Anlage 4 (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2) Geräte- und Betriebsbuch
 
@@ -1854,7 +1832,6 @@ fachlich korrektes Beratungsgespräch zu führen und auf Kundenfragen
 zur UV-Bestrahlung und zu den damit verbundenen gesundheitlichen
 Risiken zu antworten.
 
-
 ## Anlage 7 (zu § 7 Absatz 1) Hinweise im Geschäftsraum und in der Kabine
 
 (Fundstelle: BGBl. I 2011, 1426)
@@ -1986,7 +1963,6 @@ Aus Gründen des Gesundheitsschutzes wird empfohlen:
 
 Bei Bedarf/Bei Interesse können Sie gerne eine persönliche Beratung
 von unserem qualifizierten Fachpersonal erhalten.
-
 
 ## Anlage 8 (zu § 7 Absatz 4) Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
 

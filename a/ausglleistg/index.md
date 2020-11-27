@@ -23,7 +23,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 21.3.2011 I 450
 
-
 ## § 1 Anspruch auf Ausgleichsleistung
 
 (1) Natürliche Personen, die Vermögenswerte im Sinne des § 2 Abs. 2
@@ -120,7 +119,6 @@ Nachteil anderer missbraucht oder dem nationalsozialistischen oder dem
 kommunistischen System in der sowjetisch besetzten Zone oder in der
 Deutschen Demokratischen Republik erheblichen Vorschub geleistet hat.
 
-
 ## § 2 Art und Höhe der Ausgleichsleistung
 
 (1) Ausgleichsleistungen sind vorbehaltlich der §§ 3 und 5 aus dem
@@ -183,7 +181,6 @@ Kapitals entspricht.
 Forderungs- oder Anteilsrechte nach den Absätzen 2 bis 6 gegen den
 ursprünglichen Schuldner oder seinen Rechtsnachfolger wieder
 durchsetzbar geworden sind.
-
 
 ## § 3 Flächenerwerb
 
@@ -468,7 +465,6 @@ gesamtstaatlich repräsentativer Bedeutung oder an andere gemeinnützige
 Naturschutzträger übertragen werden. Absatz 13 Satz 4 und 5 gilt
 entsprechend.
 
-
 ## § 3a Besondere Vorschriften für Altkaufverträge
 
 (1) Kaufverträge, die vor dem 28. Januar 1999 auf Grund von § 3
@@ -519,14 +515,12 @@ Kaufgegenstandes sind ausgeschlossen. Soweit ein Pachtvertrag nach § 3
 Abs. 1 durch Eigentumserwerb erloschen ist, lebt er mit
 Rückübertragung des Grundstücks an den Verkäufer wieder auf.
 
-
 ## § 3b Rechtsnachfolger
 
 Werden von der Treuhandanstalt zu privatisierende landwirtschaftliche
 oder forstwirtschaftliche Flächen nach § 23a des Treuhandgesetzes
 übertragen, tritt der Rechtsnachfolger in alle Rechte und Pflichten
 nach diesem Gesetz und der Flächenerwerbsverordnung ein.
-
 
 ## § 4 Verordnungsermächtigung
 
@@ -568,10 +562,6 @@ werden
 5.  dass aus agrarstrukturellen Gründen oder in Härtefällen von einer
     Rückabwicklung abgesehen werden kann.
 
-
-
-
-
 ## § 5 Rückgabe beweglicher Sachen
 
 (1) Bewegliche, nicht in einen Einheitswert einbezogene Sachen sind
@@ -596,7 +586,6 @@ Zweckbestimmung feststellt.
 (3) § 10 des Vermögensgesetzes gilt entsprechend. Die Aufwendungen für
 das überlassene Kulturgut trägt der Nießbraucher.
 
-
 ## § 6 Zuständigkeit und Verfahren
 
 (1) Ansprüche auf Ausgleichsleistungen sind bei den Ämtern zur
@@ -617,7 +606,6 @@ Entschädigungsgesetzes entsprechend.
 (3) Für Streitigkeiten im Zusammenhang mit der Durchführung der §§ 3,
 3a und der auf Grund von § 4 Abs. 3 ergangenen Verordnung sind die
 ordentlichen Gerichte zuständig.
-
 
 ## § 7 Übergangs- und Schlussbestimmungen
 

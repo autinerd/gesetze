@@ -22,7 +22,6 @@ Neufassung durch
 Geändert durch
 :   Art. 1 V v. 26.9.1995 I 1194
 
-
 ## § 1 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
@@ -44,10 +43,6 @@ Im Sinne dieser Verordnung sind
     Geschäftsbetrieb von Außenhandelsbetrieben ganz oder teilweise zum
     Zwecke der Abwicklung übernommen haben, hinsichtlich des
     abzuwickelnden Vermögens.
-
-
-
-
 
 ## § 2 Einreichung von Unterlagen
 
@@ -92,7 +87,6 @@ Konzernanhang aufzustellen, so sind diese Unterlagen sowie der Bericht
 bis zum 15. März 1991 dem Bundesaufsichtsamt und der Deutschen
 Bundesbank einzureichen.
 
-
 ## § 3 Bestätigung der Umstellungsrechnung
 
 Das Bundesaufsichtsamt prüft anhand der in § 2 genannten Unterlagen,
@@ -100,7 +94,6 @@ ob die Vermögenswerte und Verbindlichkeiten in Mark der Deutschen
 Demokratischen Republik nach dem D-Markbilanzgesetz umgestellt worden
 sind und bestätigt die Umstellungsrechnung. Es ist nicht an den
 Bestätigungsvermerk des Prüfers gebunden.
-
 
 ## § 4 Zuteilung von Ausgleichsforderungen der Geldinstitute und Außenhandelsbetriebe
 
@@ -129,7 +122,6 @@ festgestellten Eröffnungsbilanzen zum 1. Juli 1990.
 
 (4) Die Ausgleichsforderungen werden auf volle einhundert Deutsche
 Mark abgerundet zugeteilt.
-
 
 ## § 5 Zuteilung von Forderungen des Ausgleichsfonds Währungsumstellung
 
@@ -168,7 +160,6 @@ als Zuteilung.
 
 (5) § 4 Abs. 3 und 4 gilt entsprechend.
 
-
 ## § 6 Verzinsung und Tilgung
 
 (1) Die Ausgleichsforderungen nach § 4 Abs. 1 und 2 und die
@@ -204,7 +195,6 @@ weitergehenden teilweisen oder vollständigen Tilgung berechtigt,
 sofern er seine Tilgungsabsicht und die Höhe des zu tilgenden Betrages
 dem Ausgleichsfonds Währungsumstellung sechs Wochen vorher schriftlich
 angezeigt hat.
-
 
 ## § 7 Vorläufigkeit der Zuteilung
 
@@ -243,7 +233,6 @@ gezahlte Zinsen nachzuzahlen, und zwar jeweils innerhalb von sechs
 Wochen nach der endgültigen Zuteilung. Satz 1 gilt entsprechend bei
 einer Änderung vorläufiger Zuteilungen nach Absatz 1 Satz 2.
 
-
 ## § 7a Vorab-Zuteilung
 
 (1) Das Bundesaufsichtsamt kann nach Vorliegen der in § 2 genannten
@@ -271,7 +260,6 @@ aus den geprüften und festgestellten DM-Eröffnungsbilanzen zum 1. Juli
 Gesellschafter der Außenhandelsbetriebe auch bis zur Höhe von 100 vom
 Hundert zuteilen. Absatz 1 Satz 2 und § 7 Abs. 4 sind entsprechend
 anzuwenden.
-
 
 ## § 8 Abtretung, Verpfändung und Umwandlung von Ausgleichsforderungen in Inhaberschuldverschreibungen
 
@@ -302,7 +290,6 @@ entsprechendem Umfang zu übertragen. Soweit eine Übertragung nicht
 möglich ist, ist der Betrag, um den die Ausgleichsforderungen zu hoch
 bemessen waren, in Geld zu erstatten.
 
-
 ## § 9 Prüfungen und Eingriffsbefugnisse des Bundesaufsichtsamtes
 
 (1) Das Bundesaufsichtsamt kann Auskünfte über alle mit der
@@ -325,11 +312,9 @@ Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen.
 Ausgleichsforderung nach § 4 Abs. 1 und 2 sowie einer Forderung nach §
 5 Abs. 1, 2 und 4 auch ohne Antrag.
 
-
 ## § 10
 
 (Inkrafttreten)
-
 
 ## Anlage (zu § 2 Abs. 1) Berechnung der Kennziffern der Grundsätze gemäß §§ 10 und 11 des Gesetzes über das Kreditwesen - Bekanntmachung Nr. 1/69 des Bundesaufsichtsamtes für das Kreditwesen, zuletzt geändert mit Bekanntmachung vom 23. September 1988 -
 

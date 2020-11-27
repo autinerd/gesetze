@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 13.12.2012 BAnz, AT 28.12.2012 V2
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 1 und Abs. 3 Satz 3 des
@@ -27,7 +26,6 @@ Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März
 1999 (BGBl. I S. 550) in Verbindung mit § 21 der Verordnung zur
 Prüfung von Luftfahrtgerät (LuftGerPV) vom 3. August 1998 (BGBl. I S.
 2010, 2011) verordnet das Luftfahrt-Bundesamt:
-
 
 ## § 1 Lufttüchtigkeitsforderungen (Bauvorschriften)
 
@@ -242,14 +240,9 @@ Zur Prüfung der Lufttüchtigkeit nach § 1 Abs. 2 LuftGerPV sind
     Joint Aviation Authorities (JAA). Die Adresse lautet: PO Box 3000,
     Saturnusstraat 8-10, 2130KA Hoofddorp, Niederlande.
 
-
-
-
-
 ## § 2 Außerkrafttreten
 
 -
-
 
 ## § 3 Inkrafttreten
 

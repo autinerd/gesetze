@@ -15,20 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3094
 
-
-
 ## Art 1 - Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle" (Deutsche-Welle-Gesetz - DWG)
 
-
-
 ## Art 2 - Änderung personalvertretungsrechtlicher Bestimmungen
-
-
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
 
 -
-
 
 ## § 3 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -36,10 +29,7 @@ Fundstelle
 Grund der Ermächtigung des § 115 Bundespersonalvertretungsgesetz durch
 Rechtsverordnung wieder geändert werden.
 
-
 ## Art 3 -
-
-
 
 ## Art 4 - Übergangsregelungen
 
@@ -75,10 +65,7 @@ dieses Gesetzes amtierenden Gesamtpersonalrat. Diesem obliegt auch die
 Bestellung aller Wahlvorstände und ihrer Vorsitzenden für die
 erstmaligen Wahlen im Sinne der Sätze 1 und 2.
 
-
 ## Art 5 -
-
-
 
 ## Art 6 - Inkrafttreten
 

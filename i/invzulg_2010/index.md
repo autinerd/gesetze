@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 22.12.2009 I 3950
 
-
 ## § 1 Anspruchsberechtigter, Fördergebiet
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
@@ -33,7 +32,6 @@ als Anspruchsberechtigte.
 
 (2) Fördergebiet sind die Länder Berlin, Brandenburg, Mecklenburg-
 Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen.
-
 
 ## § 2 Begünstigte Investitionen
 
@@ -145,10 +143,6 @@ Anspruch nimmt. Absatz 1 Satz 3 und 4 gilt entsprechend.
     worden wäre, wenn der Betrieb nicht übernommen worden wäre und wenn
     die Übernahme durch einen unabhängigen Investor erfolgt.
 
-
-
-
-
 ## § 3 Begünstigte Betriebe
 
 (1) Begünstigte Betriebe sind:
@@ -238,7 +232,6 @@ den sensiblen Sektoren, die in der Anlage 2 zu diesem Gesetz
 aufgeführt sind, nicht eingeschränkt oder von vornherein
 ausgeschlossen ist.
 
-
 ## § 4 Investitionszeitraum
 
 (1) Investitionen sind begünstigt, wenn sie zu einem
@@ -281,7 +274,6 @@ Leistungsvertrages oder die Aufnahme von Bauarbeiten. Investitionen
 sind in dem Zeitpunkt abgeschlossen, in dem die Wirtschaftsgüter
 angeschafft oder hergestellt sind.
 
-
 ## § 5 Bemessungsgrundlage
 
 Bemessungsgrundlage der Investitionszulage ist die Summe der
@@ -306,7 +298,6 @@ Einkommensteuergesetzes gilt entsprechend. Die Beschränkungen der
 Bemessungsgrundlage nach den Sätzen 1 und 3 gelten nur, soweit ein
 Anspruch auf Investitionszulage nach dem Investitionszulagengesetz
 2007 besteht.
-
 
 ## § 6 Höhe der Investitionszulage
 
@@ -467,7 +458,6 @@ kann nur dann festgesetzt werden, wenn eine Genehmigungsentscheidung
 der Kommission vor Festsetzung der Investitionszulage erteilt worden
 ist, in der eine höhere Beihilfeintensität festgelegt worden ist.
 
-
 ## § 7 Antrag auf Investitionszulage
 
 (1) Der Antrag ist bei dem für die Besteuerung des
@@ -482,7 +472,6 @@ und vom Anspruchsberechtigten eigenhändig zu unterschreiben. In dem
 Antrag sind die Investitionen, für die eine Investitionszulage
 beansprucht wird, so genau zu bezeichnen, dass ihre Feststellung bei
 einer Nachprüfung möglich ist.
-
 
 ## § 8 Gesonderte Feststellung
 
@@ -504,7 +493,6 @@ Anspruchsberechtigten und, wenn dies für mehrere Finanzämter zutrifft,
 von dem Finanzamt im Fördergebiet, in dessen Bezirk sich der
 wertvollste Teil des Vermögens befindet. Die für die Feststellung
 erforderlichen Angaben sind in den Antrag nach § 7 Abs. 2 aufzunehmen.
-
 
 ## § 9 Einzelnotifizierungspflichten, Genehmigungsvorbehalte sowie anzuwendende Rechtsvorschriften der Kommission der Europäischen Gemeinschaften
 
@@ -566,14 +554,12 @@ wenn der Rückforderungsbetrag zurückgezahlt worden ist.
 vorzulegen und erst nach deren Genehmigung festzusetzen, wenn sie für
 ein Unternehmen in Schwierigkeiten bestimmt ist.
 
-
 ## § 10 Festsetzung und Auszahlung
 
 Die Investitionszulage ist nach Ablauf des Wirtschaftsjahres oder
 Kalenderjahres festzusetzen und innerhalb eines Monats nach
 Bekanntgabe des Bescheids aus den Einnahmen an Einkommensteuer oder
 Körperschaftsteuer auszuzahlen.
-
 
 ## § 11 Zusammentreffen mit anderen Regionalbeihilfen
 
@@ -612,7 +598,6 @@ Auflage obliegt dem jeweils anderen Beihilfegeber.
 für die Feststellung der Voraussetzungen nach Absatz 1 bis 3
 erforderlich sind.
 
-
 ## § 12 Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
@@ -624,13 +609,11 @@ Ereignisses an, zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf
 des Kalenderjahres, in dem der Bescheid aufgehoben oder geändert
 worden ist.
 
-
 ## § 13 Ertragsteuerrechtliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
 Anschaffungs- und Herstellungskosten.
-
 
 ## § 14 Anwendung der Abgabenordnung
 
@@ -640,7 +623,6 @@ rechtlichen Streitigkeiten über die auf Grund dieses Gesetzes
 ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg
 gegeben.
 
-
 ## § 15 Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des
@@ -648,7 +630,6 @@ Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie
 der Begünstigung einer Person, die eine solche Straftat begangen hat,
 gelten die Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
-
 
 ## § 16 Ermächtigungen
 
@@ -666,13 +647,11 @@ denen die Kommission die Förderfähigkeit ganz oder teilweise
 ausgeschlossen hat (Anlage 2), durch Rechtsverordnung mit Zustimmung
 des Bundesrates anzupassen.
 
-
 ## § 17 Bekanntmachungserlaubnis
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
 bekannt zu machen.
-
 
 ## Anlage 1 (zu § 1 Abs. 2)
 
@@ -742,10 +721,6 @@ Verkehrszellen:
 *    *   Bezirk Reinickendorf (12)
 
     *   089 3; 089 4; 089 5; 090 1; 091 2; 092 1; 092 2; 093 1; 093 2; 095 1
-
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 2 Satz 2)
 

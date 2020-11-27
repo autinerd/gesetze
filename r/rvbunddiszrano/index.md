@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2500
 
-
-
 ## (XXXX)
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1
@@ -52,7 +50,6 @@ Deutschen Rentenversicherung Bund die Befugnis übertragen,
 
 
 Diese Anordnung tritt rückwirkend am 1. Oktober 2005 in Kraft.
-
 
 ## Schlussformel
 

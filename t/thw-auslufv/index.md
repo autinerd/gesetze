@@ -20,15 +20,12 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 5 G v. 29.7.2009 I 2350
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 8 des THW-Helferrechtsgesetzes vom 22. Januar
 1990 (BGBl. I S. 118), der durch Artikel 5 des Gesetzes vom 28. Juli
 1993 (BGBl. I S. 1394) eingefügt worden ist, verordnet die
 Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -40,7 +37,6 @@ Ausland.
 
 (2) Die Gewährung von Unfallfürsorge auf Grund anderer Bestimmungen
 bleibt unberührt.
-
 
 ## § 2 Erkrankungen und Unfälle im Ausland
 
@@ -54,13 +50,11 @@ während einer Verwendung im Sinne des § 1 Abs. 2 Satz 2 Nr. 2 des THW-
 Helferrechtsgesetzes besonders ausgesetzt waren. Das gleiche gilt für
 einen Unfall infolge derartiger Verhältnisse.
 
-
 ## § 3 Ausschluß der Unfallfürsorge
 
 Die Unfallfürsorge ist ausgeschlossen, wenn sich der hauptamtliche
 Angehörige oder Helfer grob fahrlässig der Gefährdung ausgesetzt hat,
 es sei denn, daß der Ausschluß für ihn eine unbillige Härte wäre.
-
 
 ## § 4 Anrechnung anderer Leistungen
 
@@ -79,7 +73,6 @@ Gesetzliche Krankenversicherung - gewährt, sind in voller Höhe zu
 berücksichtigen. Geldleistungen auf Grund privater
 Versicherungsverhältnisse, die allein auf Beiträgen des Versicherten
 beruhen, werden nicht angerechnet.
-
 
 ## § 5 Inkrafttreten
 

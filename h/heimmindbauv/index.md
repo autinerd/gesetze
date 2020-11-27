@@ -22,10 +22,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 5 V v. 25.11.2003 I 2346
 
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,13 +31,11 @@ Regel mindestens sechs Personen aufnehmen, dürfen nur betrieben
 werden, wenn sie die Mindestanforderungen der §§ 2 bis 29 erfüllen,
 soweit nicht nach den §§ 30 und 31 etwas anderes bestimmt wird.
 
-
 ### § 2 Wohn- und Pflegeplätze
 
 Wohnplätze (§§ 14, 19) und Pflegeplätze (§ 23) müssen unmittelbar von
 einem Flur erreichbar sein, der den Heimbewohnern, dem Personal und
 den Besuchern allgemein zugänglich ist.
-
 
 ### § 3 Flure und Treppen
 
@@ -55,7 +50,6 @@ transportiert werden können.
 (3) Flure und Treppen sind an beiden Seiten mit festen Handläufen zu
 versehen.
 
-
 ### § 4 Aufzüge
 
 In Einrichtungen, in denen bei regelmäßiger Benutzung durch die
@@ -65,12 +59,10 @@ untergebracht sind, muß mindestens ein Aufzug vorhanden sein. Art,
 Größe und Ausstattung des Aufzugs müssen den Bedürfnissen der Bewohner
 entsprechen.
 
-
 ### § 5 Fußböden
 
 Fußbodenbeläge der von Heimbewohnern benutzten Räume und
 Verkehrsflächen müssen rutschfest sein.
-
 
 ### § 6 Beleuchtung
 
@@ -83,13 +75,11 @@ Nachtbeleuchtung in Betrieb sein.
 Betrieb von Leselampen vorhanden sein. In Schlafräumen müssen diese
 Anschlüsse den Betten zugeordnet sein.
 
-
 ### § 7 Rufanlage
 
 Räume, in denen Pflegebedürftige untergebracht sind, müssen mit einer
 Rufanlage ausgestattet sein, die von jedem Bett aus bedient werden
 kann.
-
 
 ### § 8 Fernsprecher
 
@@ -97,7 +87,6 @@ In den Einrichtungen muß in jedem Gebäude mindestens ein Fernsprecher
 vorhanden sein, über den die Bewohner erreichbar sind und der von
 nicht bettlägerigen Bewohnern ohne Mithören Dritter benutzt werden
 kann.
-
 
 ### § 9 Zugänge
 
@@ -107,7 +96,6 @@ zugänglich sein.
 (2) In Pflegeheimen und Pflegeabteilungen müssen die Türen zu den
 Pflegeplätzen so breit sein, daß durch sie bettlägerige Bewohner
 transportiert werden können.
-
 
 ### § 10 Sanitäre Anlagen
 
@@ -122,13 +110,11 @@ versehen sein.
 (4) In Einrichtungen mit Rollstuhlbenutzern müssen für diese Personen
 geeignete sanitäre Anlagen in ausreichender Zahl vorhanden sein.
 
-
 ### § 11 Wirtschaftsräume
 
 Wirtschaftsräume müssen in der erforderlichen Zahl und Größe vorhanden
 sein, soweit die Versorgung nicht durch Betriebe außerhalb des Heimes
 sichergestellt ist.
-
 
 ### § 12 Heizung
 
@@ -136,21 +122,15 @@ Durch geeignete Heizanlagen ist für alle Räume, Treppenräume, Flure
 und sanitäre Anlagen eine den Bedürfnissen der Heimbewohner angepaßte
 Temperatur sicherzustellen.
 
-
 ### § 13 Gebäudezugänge
 
 Die Eingangsebene der von den Bewohnern benutzten Gebäude einer
 Einrichtung soll von der öffentlichen Verkehrsfläche stufenlos
 erreichbar sein. Der Zugang muß beleuchtbar sein.
 
-
 ## Zweiter Teil - Besondere Vorschriften
 
-
-
 ### Erster Abschnitt - Altenheime und gleichartige Einrichtungen
-
-
 
 #### § 14 Wohnplätze
 
@@ -174,7 +154,6 @@ Balkone, Loggien, Dachgärten und Terrassen werden nicht angerechnet.
 mit Kalt- und Warmwasseranschluß verfügen. Bei Wohnplätzen für mehr
 als zwei Personen muß ein zweiter Waschtisch mit Kalt- und
 Warmwasseranschluß vorhanden sein.
-
 
 #### § 15 Funktions- und Zubehörräume
 
@@ -200,7 +179,6 @@ Warmwasseranschluß vorhanden sein.
 Anforderungen nach Absatz 1 Nr. 1 und 3 in jedem Gebäude erfüllt
 werden.
 
-
 #### § 16 Gemeinschaftsräume
 
 (1) Die Einrichtung muß mindestens einen Gemeinschaftsraum von 20 m
@@ -213,7 +191,6 @@ Ausnahmefällen auch andere geeignete Räume und Flure, insbesondere
 Wohnflure, angerechnet werden. Treppen, sonstige Verkehrsflächen,
 Loggien und Balkone werden nicht berücksichtigt.
 
-
 #### § 17 Therapieräume
 
 In jeder Einrichtung muß ein Raum für Bewegungstherapie oder Gymnastik
@@ -221,7 +198,6 @@ vorhanden sein, wenn nicht geeignete Gymnastik- und Therapieräume in
 zumutbarer Entfernung außerhalb der Einrichtung von den Heimbewohnern
 regelmäßig benutzt werden können. Gemeinschaftsräume nach § 16 können
 dafür verwendet werden.
-
 
 #### § 18 Sanitäre Anlagen
 
@@ -235,10 +211,7 @@ eine Badewanne oder eine Dusche zur Verfügung stehen.
 Badewannen an den Längsseiten und an einer Stirnseite freistehend
 aufzustellen.
 
-
 ### Zweiter Abschnitt - Altenwohnheime und gleichartige Einrichtungen
-
-
 
 #### § 19 Wohnplätze
 
@@ -257,7 +230,6 @@ und 3, Abs. 3 Satz 2 entsprechend.
 (3) Bei der Berechnung der Wohnflächen nach Absatz 1 gilt § 14 Abs. 2
 entsprechend.
 
-
 #### § 20 Gemeinschaftsräume
 
 (1) § 16 gilt entsprechend mit der Maßgabe, daß je Heimbewohner
@@ -269,7 +241,6 @@ Räume zur Gestaltung des gesellschaftlichen und kulturellen Lebens
 vorhanden, die den Bewohnern der Einrichtung regelmäßig zur Verfügung
 stehen, können sie auf die Gemeinschaftsräume angerechnet werden.
 
-
 #### § 21 Funktions- und Zubehörräume
 
 In jeder Einrichtung müssen mindestens vorhanden sein:
@@ -280,19 +251,12 @@ In jeder Einrichtung müssen mindestens vorhanden sein:
 2.  besondere Wasch- und Trockenräume zur Benutzung durch die
     Heimbewohner.
 
-
-
-
-
 #### § 22 Sanitäre Anlagen
 
 Für jeweils bis zu 20 Bewohner muß im gleichen Gebäude mindestens eine
 Badewanne oder eine Dusche zur Verfügung stehen.
 
-
 ### Dritter Abschnitt - Pflegeheime für Volljährige und gleichartige Einrichtungen
-
-
 
 #### § 23 Pflegeplätze
 
@@ -307,7 +271,6 @@ Bewohner sind nicht zulässig.
 (2) Bei der Berechnung der Wohnflächen nach Absatz 1 gilt § 14 Abs. 2
 entsprechend.
 
-
 #### § 24 Funktions- und Zubehörräume
 
 (1) Funktions- und Zubehörräume müssen in ausreichender Zahl vorhanden
@@ -317,18 +280,15 @@ und den Besonderheiten der Pflegebedürftigkeit angepaßt sein.
 gilt entsprechend. Außerdem müssen Schmutzräume und Fäkalienspülen in
 erforderlicher Zahl vorhanden sein.
 
-
 #### § 25 Gemeinschaftsräume
 
 § 20 Abs. 1 gilt entsprechend. Die Nutzflächen müssen jedoch so
 angelegt sein, daß auch Bettlägerige an Veranstaltungen und
 Zusammenkünften teilnehmen können.
 
-
 #### § 26 Therapieräume
 
 § 17 gilt entsprechend.
-
 
 #### § 27 Sanitäre Anlagen
 
@@ -346,10 +306,7 @@ jeweiligen Geschoß vorgehalten werden.
 
 (4) § 18 Abs. 3 gilt entsprechend.
 
-
 ### Vierter Abschnitt - Einrichtungen mit Mischcharakter
-
-
 
 #### § 28 Einrichtungen mit Mischcharakter
 
@@ -358,10 +315,7 @@ Sind Teile einer Einrichtung mehreren Einrichtungsarten im Sinne des §
 Anforderungen der Verordnung für die ihnen jeweils entsprechende
 Einrichtungsart anzuwenden.
 
-
 ## Dritter Teil - Einrichtungen für behinderte Volljährige
-
-
 
 ### § 29 Einrichtungen für behinderte Volljährige
 
@@ -375,10 +329,7 @@ abgewichen werden.
 Abschnitts des zweiten Teils der Verordnung gelten auch Einrichtungen
 für behinderte Volljährige.
 
-
 ## Vierter Teil - Fristen und Befreiungen
-
-
 
 ### § 30 Fristen zur Angleichung
 
@@ -397,7 +348,6 @@ dürfen fünf Jahre vom Zeitpunkt der Anzeige nach § 7 des Heimgesetzes
 an nicht überschreiten. Sie können in besonders begründeten
 Ausnahmefällen verlängert werden.
 
-
 ### § 31 Befreiungen
 
 (1) Ist dem Träger einer Einrichtung die Erfüllung der in den §§ 2 bis
@@ -410,10 +360,7 @@ mit den Interessen und Bedürfnissen der Bewohner vereinbar ist.
 bis zur Entscheidung über den Antrag für die beantragten Tatbestände
 von der Verpflichtung zur Angleichung vorläufig befreit.
 
-
 ## Fünfter Teil - Ordnungswidrigkeiten und Schlußbestimmungen
-
-
 
 ### § 32 Ordnungswidrigkeiten
 
@@ -443,10 +390,6 @@ betreibt, in der
 
 
 6.  die Therapieräume nach § 17 oder § 26 nicht vorhanden sind.
-
-
-
-
 
 ### § 33 Nichtanwendung von Vorschriften
 
@@ -521,20 +464,14 @@ nach § 1 nicht mehr anzuwenden:
     April 1969 (Gesetz- und Verordnungsblatt für Schleswig-Holstein, S.
     89).
 
-
-
-
-
 ### § 34 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
-
 ### § 35 (Inkrafttreten)
 
 -
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1096)
 

@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 57 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 des Podologengesetzes vom 4. Dezember 2001 (BGBl. I
 S. 3320) verordnet das Bundesministerium für Gesundheit im Benehmen
 mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Ausbildung
 
@@ -41,7 +39,6 @@ Ausbildung findet an Patientinnen und Patienten statt.
 (3) Die regelmäßige und erfolgreiche Teilnahme an den
 Ausbildungsveranstaltungen nach Absatz 1 ist durch eine Bescheinigung
 nach dem Muster der Anlage 2 nachzuweisen.
-
 
 ## § 2 Staatliche Prüfung, staatliche Ergänzungsprüfung
 
@@ -62,7 +59,6 @@ staatlichen Prüfung nach Absatz 1. Sie findet an einer von der
 zuständigen Behörde für die Durchführung von Ergänzungsprüfungen
 bestimmten Schule statt. Für die staatliche Prüfung nach § 10 Abs. 6
 des Gesetzes gilt Satz 2 entsprechend.
-
 
 ## § 3 Prüfungsausschuss
 
@@ -111,7 +107,6 @@ Nr. 2 den Vorsitz führt.
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ## § 4 Zulassung zur staatlichen Prüfung, Zulassung zur staatlichen Ergänzungsprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf
@@ -149,7 +144,6 @@ nachzuweisen. Absatz 2 Nr. 1 und Absatz 3 gelten entsprechend.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ## § 5 Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende
@@ -184,7 +178,6 @@ Noten der drei Aufsichtsarbeiten die Prüfungsnote für den
 schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist
 bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit
 "ausreichend" benotet wird.
-
 
 ## § 6 Mündlicher Teil der Prüfung
 
@@ -224,7 +217,6 @@ Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern
 beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes
 Interesse besteht.
 
-
 ## § 7 Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die folgenden
@@ -262,13 +254,11 @@ Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für
 den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist
 bestanden, wenn jedes Fach mit mindestens "ausreichend" benotet wird.
 
-
 ## § 8 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 9 Benotung
 
@@ -299,10 +289,6 @@ mündlichen und praktischen Prüfung werden wie folgt benotet:
 -   "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
     und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
     absehbarer Zeit nicht behoben werden können.
-
-
-
-
 
 ## § 10 Bestehen und Wiederholung der staatlichen Prüfung, Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
 
@@ -336,7 +322,6 @@ zur Wiederholungsprüfung ist ein Nachweis über die Teilnahme an der
 weiteren Ausbildung beizufügen. Die Wiederholungsprüfung soll
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 
-
 ## § 11 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
@@ -354,7 +339,6 @@ unterlässt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung oder der betreffende
 Teil der Prüfung als nicht bestanden. § 10 Abs. 4 gilt entsprechend.
 
-
 ## § 12 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
@@ -368,7 +352,6 @@ Prüfung als nicht unternommen.
 die oder der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1
 und 4 gilt entsprechend.
 
-
 ## § 13 Ordnungsverstöße und Täuschungsversuche
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei Prüflingen,
@@ -380,7 +363,6 @@ Störung der Prüfung nur bis zum Abschluss der gesamten Prüfung, im
 Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach
 Abschluss der Prüfung zulässig.
 
-
 ## § 14 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfling nach Abschluss der Prüfung Einsicht in
@@ -388,14 +370,12 @@ seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten
 sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## § 15 Erlaubnisurkunde
 
 Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes
 für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach
 § 1 des Gesetzes vor, so stellt die zuständige Behörde die
 Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
-
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -449,7 +429,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 16a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -464,16 +443,13 @@ der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
 Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
 zugrunde liegt, am 1. Dezember 2012 in Kraft.
 
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -2104,10 +2080,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 16 - 22
         gleichzeitig die Verbindung zu den in der podologischen Behandlung zu
         berücksichtigenden Aspekten hergestellt werden.
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 23)
@@ -2138,7 +2110,6 @@ Unterschrift(en) der Schulleitung
 -----
 \*) Nichtzutreffendes streichen.
 
-
 ## Anlage 3 (zu § 10 Abs. 2 S 1)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 24)
@@ -2167,7 +2138,6 @@ Ort, Datum
 .......................................
 (Unterschrift der/des Vorsitzenden
 des Prüfungsausschusses)
-
 
 ## Anlage 4 (zu § 10 Abs. 3 Satz 2)
 
@@ -2200,7 +2170,6 @@ Ort, Datum
 des Prüfungsausschusses)
 -----
 \*) Nichtzutreffendes streichen.
-
 
 ## Anlage 5 (zu § 15)
 

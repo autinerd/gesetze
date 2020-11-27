@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 12.7.2012 I 1501
 
-
 ## § 1
 
 (1) Über die Gültigkeit der Wahlen zum Bundestag und die Verletzung
@@ -33,7 +32,6 @@ Durchführung der Wahl Rechte einer einsprechenden Person oder einer
 Gruppe einsprechender Personen verletzt wurden, stellt der Bundestag
 die Rechtsverletzung fest, wenn er die Wahl nicht für ungültig
 erklärt.
-
 
 ## § 2
 
@@ -59,7 +57,6 @@ Mitgliedschaft.
 (6) Wird der Einspruch zurückgenommen, kann der Bundestag das
 Verfahren einstellen.
 
-
 ## § 3
 
 (1) Die Entscheidung des Bundestages wird durch den
@@ -78,13 +75,11 @@ Bundestag für die Dauer der Wahlperiode gewählt.
 Mitte den Vorsitzenden und seinen Stellvertreter. Bei
 Stimmengleichheit entscheidet die Stimme des ältesten Mitglieds.
 
-
 ## § 4
 
 Der Wahlprüfungsausschuß ist beschlußfähig, wenn mindestens die Hälfte
 der Mitglieder anwesend ist. Er beschließt mit Stimmenmehrheit; bei
 Stimmengleichheit ist ein Antrag abgelehnt.
-
 
 ## § 5
 
@@ -114,7 +109,6 @@ und Amtshilfe zu leisten. Bei Vernehmung von Zeugen und
 Sachverständigen sind die Beteiligten des § 6 Abs. 2 eine Woche vorher
 zu benachrichtigen; sie haben das Recht, Fragen stellen zu lassen und
 den Vernommenen Vorhalte zu machen.
-
 
 ## § 6
 
@@ -156,7 +150,6 @@ an dem Verfahren. Sie haben ein selbständiges Antragsrecht.
 (5) Alle Beteiligten haben das Recht auf Akteneinsicht im Büro des
 Bundestages.
 
-
 ## § 7
 
 (1) Zu Beginn der mündlichen Verhandlung trägt der Berichterstatter
@@ -175,7 +168,6 @@ gebührt dem Anfechtenden.
 (3) Über die Verhandlung ist eine Niederschrift aufzunehmen, in der
 die Aussagen der Zeugen und Sachverständigen wiederzugeben sind.
 
-
 ## § 8
 
 (1) Die mündliche Verhandlung findet öffentlich statt.
@@ -187,14 +179,12 @@ Mitglieder oder ihre Stellvertreter teilnehmen.
 die sich aus der sinngemäßen Anwendung der für den Zivilprozeß
 geltenden Bestimmungen ergeben.
 
-
 ## § 9
 
 Für das gesamte Verfahren sind die für den Zivilprozeß geltenden
 Bestimmungen entsprechend anzuwenden auf Fristen, Ladungen,
 Zustellungen, Vereidigungen und die Rechte und Pflichten von Zeugen
 und Sachverständigen.
-
 
 ## § 10
 
@@ -206,7 +196,6 @@ beratenden Mitglieder des Ausschusses oder ihre Stellvertreter
 teilnehmen, die der mündlichen Verhandlung beigewohnt haben.
 
 (3) Bei der Schlußentscheidung gilt Stimmenthaltung als Ablehnung.
-
 
 ## § 11
 
@@ -220,7 +209,6 @@ Beschluß hat die wesentlichen Tatsachen und Gründe, auf denen die
 Entscheidung beruht, anzugeben. Wegen der Einzelheiten ist eine
 Bezugnahme auf den Akteninhalt zulässig.
 
-
 ## § 12
 
 Der Beschluß ist als Antrag des Wahlprüfungsausschusses an den
@@ -228,7 +216,6 @@ Bundestag zu leiten und spätestens drei Tage vor der Beratung im
 Bundestag an sämtliche Abgeordnete zu verteilen. Bei der Beratung kann
 der Antrag durch mündliche Ausführungen des Berichterstatters ergänzt
 werden.
-
 
 ## § 13
 
@@ -246,7 +233,6 @@ genügt.
 (3) Der Beschluß des Bundestages ist den Beteiligten (§ 6 Abs. 2 und
 3) mit einer Rechtsmittelbelehrung zuzustellen.
 
-
 ## § 14
 
 Ergeben sich Zweifel, ob ein Abgeordneter im Zeitpunkt der Wahl
@@ -254,7 +240,6 @@ wählbar war, so kann auch nach Ablauf der Einspruchsfrist (§ 2 Abs. 4)
 der Präsident des Bundestages Einspruch gegen die Gültigkeit der Wahl
 einlegen. Er muß dies tun, wenn eine Minderheit von einhundert
 Abgeordneten es verlangt.
-
 
 ## § 15
 
@@ -265,7 +250,6 @@ Grundgesetzes). Der Antrag auf Entscheidung des Bundestages kann mit
 Ausnahme der Fälle, in denen der Ältestenrat oder der Präsident des
 Bundestages über den Verlust der Mitgliedschaft entschieden hat (§ 47
 Abs. 1 und 3 des Bundeswahlgesetzes), jederzeit gestellt werden.
-
 
 ## § 16
 
@@ -288,7 +272,6 @@ Beschluß nicht gefaßt worden ist, auf Antrag einer Minderheit des
 Bundestages, die wenigstens ein Zehntel seiner Mitglieder umfaßt, eine
 Anordnung gemäß Absatz 2 treffen.
 
-
 ## § 17
 
 (1) Von der Beratung und Beschlußfassung im Wahlprüfungsverfahren ist
@@ -297,12 +280,10 @@ der Abgeordnete ausgeschlossen, dessen Wahl zur Prüfung steht.
 (2) Dies gilt nicht, wenn in einem Verfahren die Wahl von mindestens
 zehn Abgeordneten angefochten wird.
 
-
 ## § 18
 
 Für die Beschwerde an das Bundesverfassungsgericht gelten die
 Vorschriften des Gesetzes über das Bundesverfassungsgericht.
-
 
 ## § 19
 
@@ -315,11 +296,9 @@ keinen Einfluß auf das Wahlergebnis gehabt hat.
 (2) Über die Erstattung von Auslagen nach Absatz 1 Satz 2 ist in dem
 Beschluß des Bundestages zu entscheiden.
 
-
 ## § 20
 
 -
-
 
 ## § 21
 

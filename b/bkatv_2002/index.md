@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 19.10.2012 I 2232
 
-
 ## Eingangsformel
 
 Auf Grund des § 26a des Straßenverkehrsgesetzes in der im
@@ -27,7 +26,6 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten
 bereinigten Fassung, der durch Artikel 1 Nr. 7 des Gesetzes vom 19.
 März 2001 (BGBl. I S. 386) neu gefasst worden ist, verordnet das
 Bundesministerium für Verkehr, Bau- und Wohnungswesen:
-
 
 ## § 1 Bußgeldkatalog
 
@@ -43,7 +41,6 @@ Verwarnungsgeld zu erheben.
 gehen in Abschnitt I des Bußgeldkatalogs von fahrlässiger Begehung und
 gewöhnlichen Tatumständen und in Abschnitt II des Bußgeldkatalogs von
 vorsätzlicher Begehung und gewöhnlichen Tatumständen aus.
-
 
 ## § 2 Verwarnung
 
@@ -77,7 +74,6 @@ verstoßen, so sind die einzelnen Verstöße getrennt zu verwarnen.
 
 (8) In den Fällen der Absätze 6 und 7 ist jedoch zu prüfen, ob die
 Handlung oder die Handlungen insgesamt noch geringfügig sind.
-
 
 ## § 3 Bußgeldregelsätze
 
@@ -157,7 +153,6 @@ Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 40 Euro, so
 soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit
 Verwarnungsgeld nicht erteilt werden kann.
 
-
 ## § 4 Regelfahrverbot
 
 (1) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes
@@ -204,16 +199,13 @@ der Regel mit der in den Nummern 241, 241.1, 241.2, 242, 242.1 und
 so soll das für den betreffenden Tatbestand als Regelsatz vorgesehene
 Bußgeld angemessen erhöht werden.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt
-
 
 ## Anlage (zu § 1 Abs. 1) Bußgeldkatalog
 
@@ -6978,9 +6970,6 @@ Abschnitt II
 
     *   10 €
 
-
-
-
 ## Anhang (zu Nr. 11 der Anlage) Tabelle 1 Geschwindigkeitsüberschreitungen
 
 Fundstelle: BGBl. I 2001, 3068 - 3069;
@@ -7509,10 +7498,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   3 Monate
 
-
-
-
-
 ## Anhang (zu Nr. 12 der Anlage) Tabelle 2 Nichteinhalten des Abstandes von einem vorausfahrenden Fahrzeug
 
 Fundstelle: BGBl. I 2009, 17 - 18
@@ -7673,10 +7658,6 @@ Fundstelle: BGBl. I 2009, 17 - 18
 
     *   **Fahrverbot**
         **3 Monate**
-
-
-
-
 
 ## Anhang (zu Nrn. 198 und 199 der Anlage) Tabelle 3 Überschreiten der zulässigen Achslast oder des zulässigen Gesamtgewichts von Kraftfahrzeugen, Anhängern, Fahrzeugkombinationen sowie der Anhängelast hinter Kraftfahrzeugen
 
@@ -7856,10 +7837,6 @@ Fundstelle: BGBl. I 2009, 17 - 18
     *   mehr als 30
 
     *   235
-
-
-
-
 
 ## Anhang (zu § 3 Abs. 3) Tabelle 4 Erhöhung der Regelsätze bei Hinzutreten einer Gefährdung oder Sachbeschädigung
 

@@ -15,16 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1658
 
-
 ## Eingangsformel
 
 Auf Grund des § 882g Absatz 8 der Zivilprozessordnung, der durch
 Artikel 1 Nummer 17 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258)
 eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
 ## Abschnitt 1 - Bewilligungsverfahren
-
 
 ### § 1 Bewilligung des Bezugs von Abdrucken
 
@@ -72,14 +69,12 @@ Listenbeziehern die Voraussetzungen der §§ 882f und 882g Absatz 1 und
 2 der Zivilprozessordnung nicht erfüllt sind oder Versagungsgründe
 entsprechend Absatz 3 vorliegen.
 
-
 ### § 2 Zuständigkeit
 
 Über Anträge nach § 882g Absatz 1 Satz 1 der Zivilprozessordnung
 entscheidet der Leiter oder die Leiterin des zentralen
 Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung,
 bei dem das Schuldnerverzeichnis geführt wird.
-
 
 ### § 3 Antrag
 
@@ -119,10 +114,6 @@ geforderten Voraussetzungen ergibt. Darüber hinaus muss er enthalten:
 7.  die Angabe, ob Einzelauskünfte im automatisierten Abrufverfahren
     erteilt werden sollen.
 
-
-
-
-
 ### § 4 Speicherung von Daten des Antragstellers
 
 (1) Für die Bewilligung des Bezugs von Abdrucken sowie die Einrichtung
@@ -146,7 +137,6 @@ Jahre ab dem Ende des Jahres, in dem der Antrag gestellt wurde. Nach
 Ablauf der Frist nach Satz 1 oder mit dem Fristablauf der Bewilligung
 nach § 5 Absatz 2 in Verbindung mit § 6 Absatz 1 sind die Angaben zu
 löschen.
-
 
 ### § 5 Bewilligung
 
@@ -178,7 +168,6 @@ beizufügen.
 maßgeblichen datenschutzrechtlichen Vorschriften für die Kontrolle des
 Beziehers der Abdrucke zuständig ist.
 
-
 ### § 6 Befristungen, Auflagen und Bedingungen
 
 (1) Die Bewilligung ist auf mindestens ein Jahr und höchstens sechs
@@ -196,10 +185,6 @@ mit Bestimmungen,
 2.  nach denen der Eintritt oder der Wegfall einer Vergünstigung oder
     Belastung von dem ungewissen Eintritt eines zukünftigen Ereignisses
     abhängt (Bedingung).
-
-
-
-
 
 ### § 7 Widerruf und Rücknahme von Bewilligungen
 
@@ -238,9 +223,7 @@ Betrag von 25 000 Euro nicht übersteigen. Ist die Verhängung von
 Zwangsgeld untunlich oder erfolglos, so ist die Ersatzvornahme
 anzuordnen.
 
-
 ## Abschnitt 2 - Abdrucke und Listen
-
 
 ### § 8 Inhalt von Abdrucken
 
@@ -255,7 +238,6 @@ ergeben. Der Hinweis kann den Abdrucken auch in Form eines Merkblattes
 beigefügt werden.
 
 (3) Die Abdrucke dürfen keine weiteren Mitteilungen enthalten.
-
 
 ### § 9 Erteilung und Aufbewahrung von Abdrucken
 
@@ -336,7 +318,6 @@ Satz 2 gilt auch für Vervielfältigungen und jede andere Form der
 Bearbeitung der Abdrucke, insbesondere zum Zweck ihrer
 Maschinenlesbarkeit.
 
-
 ### § 10 Einstweiliger Ausschluss vom Bezug von Abdrucken
 
 (1) Der Inhaber einer Bewilligung kann von dem Bezug von Abdrucken
@@ -360,7 +341,6 @@ eingeleitet, aber noch nicht abgeschlossen wurde. Die Gesamtdauer des
 einstweiligen Ausschlusses darf in einem Verfahren nicht mehr als drei
 Monate betragen. Für den wiederholten einstweiligen Ausschluss gelten
 im Übrigen die Absätze 1 und 2.
-
 
 ### § 11 Inhalt von Listen
 
@@ -391,12 +371,10 @@ Absatz 2 Satz 2 ist anzuwenden.
 
 (4) Die Listen dürfen keine weiteren Mitteilungen enthalten.
 
-
 ### § 12 Anfertigung, Erteilung und Verwendung von Listen
 
 Listen sind unverzüglich nach dem Eingang der Abdrucke zu erstellen
 und den Beziehern zu überlassen. § 9 gilt entsprechend.
-
 
 ### § 13 Ausschluss vom Bezug von Listen
 
@@ -411,7 +389,6 @@ die den Kammern die Bewilligung zum Bezug von Abdrucken erteilt haben.
 
 (3) Bei Verstößen gegen Absatz 1 kann die Bewilligung zum Bezug von
 Abdrucken gemäß § 7 widerrufen werden.
-
 
 ### § 14 Löschung in Abdrucken und Listen
 
@@ -444,7 +421,6 @@ sicherzustellen, dass gelöschte Datensätze nicht wiederhergestellt
 werden können. Die Sätze 1 bis 3 gelten entsprechend für die
 Mitteilungen an die Listenbezieher nach Absatz 3.
 
-
 ### § 15 Kontrolle von Löschungen in Abdrucken und Listen
 
 Werden öffentlichen Stellen Tatsachen bekannt, die die Annahme
@@ -458,9 +434,7 @@ ergreift die Maßnahmen nach dieser Verordnung und benachrichtigt die
 für die Kontrolle über die Einhaltung der Datenschutzvorschriften
 zuständigen Stellen.
 
-
 ## Abschnitt 3 - Automatisiertes Abrufverfahren
-
 
 ### § 16 Einrichtung
 
@@ -501,7 +475,6 @@ aufzunehmenden Eintragungen übermittelt werden. Die Verknüpfung zu
 verwendet werden, deren Eintragung in das Schuldnerverzeichnis nach §
 882b Absatz 2 und 3 der Zivilprozessordnung zu erfolgen hätte.
 
-
 ### § 17 Ausgestaltung elektronischer Abrufverfahren
 
 Der Bezieher von Abdrucken, der Einzelauskünfte im automatisierten
@@ -510,7 +483,6 @@ technischen und organisatorischen Maßnahmen zu treffen, die
 erforderlich sind, um die Ausführung der Vorschriften des
 Bundesdatenschutzgesetzes oder der entsprechenden landesrechtlichen
 Regelungen zu gewährleisten. § 9 Absatz 2 gilt entsprechend.
-
 
 ### § 18 Ausschluss von der Abrufberechtigung
 
@@ -553,9 +525,7 @@ von Abdrucken zugunsten der Auskunftsstelle erteilt haben.
 (3) Bei Verstößen gegen Absatz 1 kann die Bewilligung gemäß § 7
 widerrufen werden.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 19 Rechtsweg
 
@@ -564,11 +534,9 @@ Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung
 nach dieser Verordnung sind die §§ 23 bis 30 des Einführungsgesetzes
 zum Gerichtsverfassungsgesetz anzuwenden.
 
-
 ### § 20 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
-
 
 ### Schlussformel
 

@@ -23,14 +23,12 @@ Fundstelle
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Absatz 1 Nummer 5 und 6 und Absatz 2 in Verbindung
 mit § 62 Absatz 4 Nummer 3 und 4 des Wasserhaushaltsgesetzes vom 31.
 Juli 2009 (BGBl. I S. 2585) verordnet die Bundesregierung nach
 Anhörung der beteiligten Kreise:
-
 
 ## § 1 Betreiberpflichten
 
@@ -82,7 +80,6 @@ erforderlich ist für ein frühzeitiges Erkennen von Verunreinigungen,
 die von Anlagen nach § 62 Absatz 1 des Wasserhaushaltsgesetzes
 ausgehen können.
 
-
 ## § 2 Besondere Pflichten beim Befüllen und Entleeren
 
 Wer eine Anlage zum Lagern wassergefährdender Stoffe befüllt oder
@@ -91,7 +88,6 @@ Arbeiten vom ordnungsgemäßen Zustand der dafür erforderlichen
 Sicherheitseinrichtungen zu überzeugen. Die zulässigen
 Belastungsgrenzen der Anlagen und der Sicherheitseinrichtungen sind
 beim Befüllen oder Entleeren einzuhalten.
-
 
 ## § 3 Fachbetriebe
 
@@ -123,17 +119,14 @@ Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 Fachbetrieb darf seine Tätigkeit auf bestimmte Fachbereiche
 beschränken.
 
-
 ## § 4 Ausnahme
 
 Die §§ 1 bis 3 finden auf Anlagen zum Lagern und Abfüllen von Jauche,
 Gülle und Silagesickersäften keine Anwendung.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

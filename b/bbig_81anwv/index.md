@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1448
 
-
-
 ## Eingangsformel
 
 Auf Grund der Anlage I Kapitel XVI Sachgebiet C Abschnitt III Nr. 1
@@ -28,13 +26,11 @@ mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S.
 und Forsten im Einvernehmen mit dem Bundesminister für Bildung und
 Wissenschaft:
 
-
 ## § 1
 
 § 81 des Berufsbildungsgesetzes und die auf Grund dieser Bestimmung
 erlassenen Verordnungen sind auch in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet anzuwenden.
-
 
 ## § 2
 

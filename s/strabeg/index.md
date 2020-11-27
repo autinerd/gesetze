@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2928
 
-
-
 ## Erster Abschnitt - Strafbefreiende Erklärung
-
-
 
 ### § 1 Inhalt und Wirkung der strafbefreienden Erklärung
 
@@ -127,7 +123,6 @@ entrichten sind.
 2003 begangen worden ist, ist die Abgabe einer strafbefreienden
 Erklärung ausgeschlossen.
 
-
 ### § 2 Erklärungsberechtigte Person
 
 (1) Zur Abgabe der strafbefreienden Erklärung ist berechtigt, wer
@@ -154,7 +149,6 @@ Verfügungsberechtigten begangen worden sind.
 eingetreten, kann die Erklärung durch den Rechtsnachfolger abgegeben
 werden.
 
-
 ### § 3 Inhalt, Form und Adressat der strafbefreienden Erklärung
 
 (1) Der Erklärende hat den nach § 1 zu entrichtenden Betrag selbst zu
@@ -173,7 +167,6 @@ nach § 19 oder § 20 der Abgabenordnung zuständigen Finanzbehörde
 abzugeben. Bei Gesellschaften und Gemeinschaften im Sinne des § 180
 Abs. 1 Nr. 2 Buchstabe a der Abgabenordnung ist die Erklärung bei der
 nach § 18 der Abgabenordnung zuständigen Finanzbehörde abzugeben.
-
 
 ### § 4 Umfang der Strafbefreiung
 
@@ -208,7 +201,6 @@ Sinne des § 1 Abs. 2 bis 5, bleibt die Strafbarkeit von Taten, die auf
 nicht berücksichtigten Einnahmen beruhen, so bestehen, wie sie vor
 Abgabe der strafbefreienden Erklärung gegeben war.
 
-
 ### § 5 Strafausschluss in besonderen Fällen
 
 Kann eine andere Tat wegen der Strafbarkeit nach den §§ 370 und 370a
@@ -216,13 +208,11 @@ der Abgabenordnung nicht bestraft werden, so gilt dies auch dann, wenn
 eine Bestrafung nach den §§ 370 und 370a der Abgabenordnung auf Grund
 dieses Gesetzes entfällt.
 
-
 ### § 6 Steuerordnungswidrigkeiten
 
 Die §§ 1 bis 5 gelten bei Steuerordnungswidrigkeiten  nach §§ 378 bis
 380 der Abgabenordnung und § 26b des Umsatzsteuergesetzes
 entsprechend.
-
 
 ### § 7 Ausschluss der Straf- oder Bußgeldbefreiung
 
@@ -261,10 +251,7 @@ Bußgeldfreiheit eintreten, soweit sich die strafbefreiende Erklärung
 auf Einnahmen bezieht, die im Rahmen dieses Verfahrens nicht
 festgestellt worden sind.
 
-
 ## Zweiter Abschnitt - Steuerrechtliche Wirkung der strafbefreienden Erklärung
-
-
 
 ### § 8 Sachlicher Umfang der Abgeltungswirkung
 
@@ -292,12 +279,10 @@ Erklärung nicht berücksichtigt hat. Diese Vermutung kann nur widerlegt
 werden, soweit der Erklärende nachweist, dass diese Taten oder
 Handlungen Gegenstand seiner strafbefreienden Erklärung waren.
 
-
 ### § 9 Persönlicher Umfang der Abgeltungswirkung
 
 Die Abgeltungswirkung nach § 8 erstreckt sich neben dem
 Steuerschuldner auf alle Gesamtschuldner.
-
 
 ### § 10 Besondere Vorschriften
 
@@ -319,10 +304,7 @@ mehr geahndet werden können.
 (4) Die §§ 156, 163, 222, 227, 240 und 361 der Abgabenordnung und § 69
 der Finanzgerichtsordnung sind nicht anzuwenden.
 
-
 ## Dritter Abschnitt - Verjährung für Besteuerungszeiträume vor 1993
-
-
 
 ### § 11 Besondere Verfolgungsverjährung
 
@@ -341,7 +323,6 @@ gilt auch dann, wenn die Tat oder Handlung erst nach dem 31. Dezember
 Ansprüche auf Steuerabzugsbeträge beziehen, die nach dem
 Einkommensteuergesetz vor dem 1. Januar 1993 einzubehalten waren.
 
-
 ### § 12 Besondere Festsetzungsverjährung
 
 Die in § 11 genannten Ansprüche gelten als erloschen, soweit sie der
@@ -349,10 +330,7 @@ zuständigen Finanzbehörde bei Eingang einer wirksamen strafbefreienden
 Erklärung noch nicht bekannt waren. Dies gilt auch, wenn sich später
 herausstellt, dass diese Erklärung unvollständig war.
 
-
 ## Vierter Abschnitt - Verwendungsbeschränkung
-
-
 
 ### § 13 Verwendungsbeschränkung
 

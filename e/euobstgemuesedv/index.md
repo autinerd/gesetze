@@ -21,7 +21,6 @@ Geändert durch
 Die v tritt gem. § 12 satz 2 mit ablauf des 23. dezember 2011 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 12 satz 2 aufgeh. durch
 :   Art. 5 V v. 7.12.2011; dadurch ist die Geltung dieser V über den 23.12.2011 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe s und t in Verbindung
@@ -34,7 +33,6 @@ Satz 1 und § 31 Absatz 2 Satz 1 und 3 durch Artikel 1 des Gesetzes vom
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 im Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Anwendungsbereich, Zuständigkeit, Betriebssitz
 
@@ -78,13 +76,11 @@ zuständig ist. Bei Körperschaften, Personenvereinigungen und
 Vermögensmassen ist die Landesstelle zuständig, in deren Bezirk sich
 die Geschäftsleitung befindet.
 
-
 ## § 2 Marktrücknahmen von Nichtmitgliedern
 
 Nichtmitglieder haben die Marktrücknahmen im Sinne des Artikels 5
 Absatz 4 der Durchführungsverordnung (EU) Nr. 585/ 2011 bei der
 zuständigen Landesstelle zu notifizieren.
-
 
 ## § 3 Notifizierungen
 
@@ -105,7 +101,6 @@ in der Notifizierung oder der Mitteilung nach Absatz 1 Satz 2
 genannten Ort verbleiben, bis die Kontrolle durch die Landesstelle
 erfolgt ist.
 
-
 ## § 4 Bestimmungszwecke für die aus dem Markt genommenen Erzeugnisse
 
 (1) Bestimmungszweck für die aus dem Markt genommenen Erzeugnisse ist
@@ -119,7 +114,6 @@ Nichtnahrungszwecken mit Ausnahme der Verarbeitung zu Futtermitteln.
 (2) Die Empfänger aus dem Markt genommener Erzeugnisse müssen diese
 entsprechend den in Absatz 1 vorgesehenen Bestimmungszwecken
 verwenden.
-
 
 ## § 5 Beträge
 
@@ -155,10 +149,6 @@ wie folgt festgesetzt:
 
 5.  für die in Artikel 1 Absatz 1 Buchtstabe e der Durchführungsverordnung
     (EU) Nr. 585/2011 genannte Zucchini 4 628,70 €/ha.
-
-
-
-
 
 ## § 6 Anträge
 
@@ -199,14 +189,12 @@ für die die Gewährung einer Unionsunterstützung beantragt wird.
 (3) Die Landesstelle kann weitere Angaben und Nachweise verlangen,
 soweit dies zur Entscheidung über den Antrag erforderlich ist.
 
-
 ## § 7 Anerkennung gemeinnütziger Einrichtungen oder wohltätiger Stiftungen
 
 Mit dem Antrag auf Anerkennung als gemeinnützige Einrichtung oder
 wohltätige Stiftung ist die in Artikel 83 Absatz 1 der
 Durchführungsverordnung (EU) Nr. 543/2011 genannte
 Verpflichtungserklärung vorzulegen.
-
 
 ## § 8 Muster, Vordrucke und Formulare
 
@@ -217,7 +205,6 @@ in elektronischer Form, bereithalten.
 (2) Soweit die zuständigen Stellen Muster bekannt geben oder Vordrucke
 oder Formulare bereithalten, sind diese zu verwenden.
 
-
 ## § 9 Mitteilungspflichten
 
 Die Länder teilen der Bundesanstalt alle Angaben, die zur Erfüllung
@@ -226,7 +213,6 @@ Deutschland gegenüber den Organen der Europäischen Union nach dem in §
 1 genannten Rechtsakt erforderlich sind, so rechtzeitig mit, dass die
 vorstehend bezeichneten Mitteilungspflichten ordnungsgemäß erfüllt
 werden können.
-
 
 ## § 10 Aufzeichnungs-, Duldungs- und Mitwirkungspflichten
 
@@ -265,13 +251,11 @@ Satz 1 Auskunftspflichtigen verpflichtet, auf ihre Kosten die
 erforderlichen Ausdrucke zu erstellen, soweit die zuständigen Stellen
 es verlangen.
 
-
 ## § 11 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 des
 Marktorganisationsgesetzes handelt, wer entgegen § 4 Absatz 2 ein dort
 genanntes Erzeugnis verwendet.
-
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 

@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1975, 1157
 
-
-
 ## Art 1
 
 Dem in Bonn am 31. Januar 1972 unterzeichneten Vertrag zwischen der
@@ -28,25 +26,21 @@ Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die
 Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des
 Artikels III insoweit befugt, als sie nach innerstaatlichem Recht in
 eigener Zuständigkeit Anordnungen treffen können.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels IX des Vertrags
 eingeschränkt.
-
 
 ## Art 5
 
@@ -58,12 +52,10 @@ Bewilligungsbehörde kann der Verwaltungsbehörde, die für die
 Verfolgung der Zuwiderhandlung zuständig wäre, die Vornahme der
 Rechtshilfehandlung übertragen.
 
-
 ## Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 7
 

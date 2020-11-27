@@ -28,8 +28,6 @@ Stand: Die §§ 2 bis 12 treten gem. § 13 idF d. Art. 8 G v. 7.12.2011 I 2576 a
 
 ## Erster Teil - Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes
 
-
-
 ### § 1 Aufgaben mit vergleichbarer Sicherheitsempfindlichkeit
 
 Folgende Behörden des Bundes nehmen Aufgaben von vergleichbarer
@@ -62,17 +60,9 @@ wahr:
     Kriminalität tätig wird, bei deren Aufklärung eine dauerhafte
     Zusammenarbeit mit den Nachrichtendiensten des Bundes erfolgt.
 
-
-
-
-
 ## Zweiter Teil - Feststellung der lebens- oder verteidigungswichtigen Einrichtungen im Sinne des § 1 Abs. 4 des Sicherheitsüberprüfungsgesetzes
 
-
-
 ### Erster Abschnitt - Feststellung des öffentlichen Bereichs
-
-
 
 #### § 2 Deutscher Bundestag
 
@@ -81,13 +71,11 @@ Deutschen Bundestag und die technischen Arbeitseinheiten des Deutschen
 Bundestages, deren Ausfall die Tätigkeit des Deutschen Bundestages
 unmittelbar erheblich beeinträchtigen würde.
 
-
 #### § 3 Bundesrat
 
 Lebenswichtige Einrichtungen sind die technischen Arbeitseinheiten des
 Bundesrates, deren Ausfall die Tätigkeit des Bundesrates unmittelbar
 erheblich beeinträchtigen würde.
-
 
 #### § 4 Bundesverfassungsgericht
 
@@ -96,13 +84,11 @@ Informationstechnik des Bundesverfassungsgerichts, deren Ausfall die
 Tätigkeit des Bundesverfassungsgerichts unmittelbar erheblich
 beeinträchtigen würde.
 
-
 #### § 5 Deutsche Bundesbank
 
 Lebenswichtige Einrichtungen sind die Arbeitseinheiten, die der
 Informationstechnik der Deutschen Bundesbank beim unbaren
 Großbetragszahlungsverkehr und der zentralen Bargeldversorgung dienen.
-
 
 #### § 5a Oberste Bundesbehörden
 
@@ -112,7 +98,6 @@ Kommunikationstechnik sicherstellen und deren Ausfall die Tätigkeit
 der obersten Bundesbehörden unmittelbar erheblich beeinträchtigen
 würde.
 
-
 #### § 5b Geschäftsbereiche der obersten Bundesbehörden
 
 Lebenswichtige Einrichtungen in den Geschäftsbereichen der obersten
@@ -121,12 +106,10 @@ Informations- und Kommunikationstechnik sicherstellen und deren
 Ausfall die Tätigkeit der obersten Bundesbehörden sowie von deren
 Geschäftsbereichen unmittelbar erheblich beeinträchtigen würde.
 
-
 #### § 6 Bundesministerium des Innern
 
 Lebenswichtige Einrichtung ist der Leitungsbereich für den Zivil- und
 Katastrophenschutz.
-
 
 #### § 6a Geschäftsbereich des Bundesministeriums des Innern
 
@@ -140,10 +123,6 @@ Bundesministeriums des Innern
 2.  die Bundesanstalt für den Digitalfunk der Behörden und Organisationen
     mit Sicherheitsaufgaben.
 
-
-
-
-
 #### § 7 Geschäftsbereich des Bundesministeriums für Arbeit und Soziales
 
 Lebenswichtige Einrichtungen sind im Geschäftsbereich des
@@ -154,14 +133,12 @@ für Arbeit sowie von Leistungen zur Daseinsvorsorge bei
 Sozialversicherungsträgern oder für Sozialversicherungsträger
 sicherstellen.
 
-
 #### § 8 Geschäftsbereich des Bundesministeriums für Gesundheit
 
 Lebenswichtige Einrichtung ist im Geschäftsbereich des
 Bundesministeriums für Gesundheit das Institut mit der Aufgabe der
 Beobachtung des Auftretens und der Bekämpfung von Krankheiten und
 relevanten Gesundheitsgefahren in der Bevölkerung.
-
 
 #### § 9 Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
 
@@ -171,10 +148,7 @@ Arbeitseinheiten wissenschaftlicher Einrichtungen, die in erheblichem
 Umfang mit hochtoxischen Stoffen oder pathogenen Mikroorganismen
 arbeiten.
 
-
 ### Zweiter Abschnitt - Feststellung des nichtöffentlichen Bereichs
-
-
 
 #### § 9a Bundesministerium des Innern
 
@@ -184,7 +158,6 @@ Aufbau oder Betrieb des Digitalfunks der Behörden und Organisationen
 mit Sicherheitsaufgaben beauftragt sind und deren Ausfall den Aufbau
 oder Betrieb des Digitalfunks der Behörden und Organisationen mit
 Sicherheitsaufgaben unmittelbar erheblich beeinträchtigen würde.
-
 
 #### § 10 Bundesministerium für Wirtschaft und Technologie
 
@@ -233,7 +206,6 @@ sie vom Bundesministerium der Verteidigung im Einvernehmen mit dem
 Bundesministerium des Innern dem Bundesministerium für Wirtschaft und
 Technologie mitgeteilt.
 
-
 #### § 11 Bundesministerium für Verkehr, Bau und Stadtentwicklung
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
@@ -257,19 +229,12 @@ Bundesministeriums für Verkehr, Bau und Stadtentwicklung
     werden, die für deren Erstellung verantwortlich sind oder die zu den
     vollständigen Sicherungsplänen Zugang haben.
 
-
-
-
-
 ### Dritter Abschnitt - Zuständigkeits- und Schlussvorschriften
-
-
 
 #### § 12 Zuständigkeit
 
 Zuständig für die Durchführung der Sicherheitsüberprüfungen nach den
 §§ 9a bis 11 ist das Bundesministerium für Wirtschaft und Technologie.
-
 
 #### § 13 (Inkrafttreten, Außerkrafttreten)
 

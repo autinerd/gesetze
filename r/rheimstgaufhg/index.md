@@ -18,24 +18,16 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 19.9.2006 I 2146
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 -
-
-
 
 ## Art 2 bis 5 -
 
-
-
 ## Art 6 - Übergangsregelungen
-
-
 
 ## § 1
 
@@ -44,7 +36,6 @@ Grundbuch eingetragenen Hypotheken und Grundschulden findet § 17 Abs.
 2 Satz 2 des früheren Reichsheimstättengesetzes weiterhin Anwendung.
 
 (2)(weggefallen)
-
 
 ## § 2
 
@@ -78,16 +69,13 @@ eingetragene Reichsheimstättenvermerke von dem Inkrafttreten dieser
 Vorschrift an zu löschen. Absatz 1 findet im übrigen entsprechende
 Anwendung. Absatz 3 ist nicht anzuwenden.
 
-
 ## § 3
 
 (weggefallen)
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -97,7 +85,6 @@ hinzuweisen, daß auch die besonderen erbrechtlichen Vorschriften für
 Reichsheimstätten aufgehoben wurden und daß es sich deshalb empfiehlt,
 ein etwa bestehendes Testament oder einen Erbvertrag darauf zu
 überprüfen, ob eine Anpassung erforderlich oder zweckmäßig ist.
-
 
 ## Art 7 - Inkrafttreten
 

@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 85 G v. 17.12.2008 I 2586
 
-
 ## § 1 Begriffsbestimmung
 
 Kastration im Sinne dieses Gesetzes ist eine gegen die Auswirkungen
 eines abnormen Geschlechtstriebes gerichtete Behandlung, durch welche
 die Keimdrüsen eines Mannes absichtlich entfernt oder dauernd
 funktionsunfähig gemacht werden.
-
 
 ## § 2 Voraussetzungen der Kastration
 
@@ -66,7 +64,6 @@ läßt, und die Kastration nach den Erkenntnissen der medizinischen
 Wissenschaft angezeigt ist, um dieser Gefahr zu begegnen und damit dem
 Betroffenen bei seiner künftigen Lebensführung zu helfen.
 
-
 ## § 3 Einwilligung
 
 (1) Die Einwilligung ist unwirksam, wenn der Betroffene nicht vorher
@@ -103,7 +100,6 @@ vorgenommen wird, um eine lebensbedrohende Krankheit des Betroffenen
 zu verhüten, zu heilen oder zu lindern. § 2 Abs. 1 Nr. 3 ist nicht
 anzuwenden.
 
-
 ## § 4 Andere Behandlungsmethoden
 
 (1) Die §§ 2 und 3 Abs. 1 bis 3 gelten entsprechend für eine gegen die
@@ -130,7 +126,6 @@ so ist auch die Einwilligung des Sorgeberechtigten erforderlich. Die
 Einwilligung ist unwirksam, wenn der Einwilligende nicht im Sinne des
 § 3 Abs. 1 aufgeklärt worden ist.
 
-
 ## § 5 Gutachterstelle
 
 (1) Die Kastration darf erst vorgenommen werden, nachdem eine
@@ -155,7 +150,6 @@ hat.
 (3) Einrichtung und Verfahren der Gutachterstelle bestimmen sich nach
 dem Landesrecht.
 
-
 ## § 6 Genehmigung des Betreuungsgerichts
 
 In den Fällen des § 3 Abs. 3, 4 sowie des § 4 Abs. 2 bedarf die
@@ -163,7 +157,6 @@ Einwilligung der Genehmigung des Betreuungsgerichts. Das
 Betreuungsgericht hat den Betroffenen persönlich zu hören. Der
 Beschluss, durch den es die Genehmigung erteilt, wird erst mit der
 Rechtskraft wirksam.
-
 
 ## § 7 Strafvorschrift
 
@@ -180,22 +173,17 @@ kastriert oder im Sinne des § 4 behandelt, ohne daß
 erteilt hat, wird mit Freiheitsstrafe bis zu einem Jahr oder mit
 Geldstrafe bestraft.
 
-
 ## (XXXX) §§ 8 und 9
-
-
 
 ## § 10
 
 -
-
 
 ## § 11 Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 12 Inkrafttreten
 

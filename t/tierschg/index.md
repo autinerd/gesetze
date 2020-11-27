@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 20 G v. 9.12.2010 I 1934
 
-
 ## Erster Abschnitt - Grundsatz
-
-
 
 ### § 1
 
@@ -33,10 +30,7 @@ das Tier als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen.
 Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder
 Schäden zufügen.
 
-
 ## Zweiter Abschnitt - Tierhaltung
-
-
 
 ### § 2
 
@@ -54,10 +48,6 @@ Wer ein Tier hält, betreut oder zu betreuen hat,
 3.  muss über die für eine angemessene Ernährung, Pflege und
     verhaltensgerechte Unterbringung des Tieres erforderlichen Kenntnisse
     und Fähigkeiten verfügen.
-
-
-
-
 
 ### § 2a
 
@@ -167,10 +157,6 @@ hierbei insbesondere
     soweit dies zur Durchführung von Rechtsakten der Europäischen
     Gemeinschaft oder der Europäischen Union erforderlich ist.
 
-
-
-
-
 ### § 3
 
 Es ist verboten,
@@ -266,13 +252,7 @@ Es ist verboten,
     nicht unerhebliche Schmerzen, Leiden oder Schäden zufügt, soweit dies
     nicht nach bundes- oder landesrechtlichen Vorschriften zulässig ist.
 
-
-
-
-
 ## Dritter Abschnitt - Töten von Tieren
-
-
 
 ### § 4
 
@@ -302,7 +282,6 @@ Sachkundenachweis erbringt.
 gelten die §§ 8b, 9 Abs. 2 Satz 2, im Falle von Hunden, Katzen, Affen
 und Halbaffen außerdem § 9 Abs. 2 Nr. 7 entsprechend.
 
-
 ### § 4a
 
 (1) Ein warmblütiges Tier darf nur geschlachtet werden, wenn es vor
@@ -324,10 +303,6 @@ Beginn des Blutentzugs betäubt worden ist.
 
 
 3.  dies als Ausnahme durch Rechtsverordnung nach § 4b Nr. 3 bestimmt ist.
-
-
-
-
 
 ### § 4b
 
@@ -378,10 +353,7 @@ Voraussetzungen für den Erwerb eines Sachkundenachweises betreffen,
 des Einvernehmens der Bundesministerien für Wirtschaft und Technologie
 sowie für Umwelt, Naturschutz und Reaktorsicherheit.
 
-
 ## Vierter Abschnitt - Eingriffe an Tieren
-
-
 
 ### § 5
 
@@ -464,10 +436,6 @@ Zustimmung des Bundesrates
     sowie auf Grund einer Rechtsverordnung nach Nummer 1 bestimmter
     Maßnahmen vorzuschreiben, zuzulassen oder zu verbieten, soweit dies
     zum Schutz der Tiere erforderlich ist.
-
-
-
-
 
 ### § 6
 
@@ -581,7 +549,6 @@ sind, vorzuschreiben, wenn dies zum Schutz der Tiere erforderlich ist.
 auf Verlangen glaubhaft darzulegen, dass der Eingriff für die
 vorgesehene Nutzung unerlässlich ist.
 
-
 ### § 6a
 
 Die Vorschriften dieses Abschnittes gelten nicht für Tierversuche, für
@@ -589,10 +556,7 @@ Eingriffe zur Aus-, Fort- oder Weiterbildung und für Eingriffe zur
 Herstellung, Gewinnung, Aufbewahrung oder Vermehrung von Stoffen,
 Produkten oder Organismen.
 
-
 ## Fünfter Abschnitt - Tierversuche
-
-
 
 ### § 7
 
@@ -659,10 +623,6 @@ Ausnahmen zu bestimmen, soweit es erforderlich ist, um
 
 2.  Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
     durchzuführen.
-
-
-
-
 
 ### § 8
 
@@ -815,10 +775,6 @@ Versuchsvorhaben, sofern
 4.  diese Änderungen vorher der zuständigen Behörde angezeigt worden sind;
     § 8a Abs. 2 und 5 gilt entsprechend.
 
-
-
-
-
 ### § 8a
 
 (1) Wer Tierversuche an Wirbeltieren, die nicht der Genehmigung
@@ -883,7 +839,6 @@ Versuche an sonstigen wirbellosen Tieren auszudehnen, soweit dies zum
 Schutz von Tieren, die auf einer den Wirbeltieren entsprechenden
 sinnesphysiologischen Entwicklungsstufe stehen, erforderlich ist.
 
-
 ### § 8b
 
 (1) Träger von Einrichtungen, in denen Tierversuche an Wirbeltieren
@@ -936,7 +891,6 @@ Vorschläge oder Bedenken unmittelbar der in der Einrichtung
 entscheidenden Stelle vortragen kann. Werden mehrere
 Tierschutzbeauftragte bestellt, so sind ihre Aufgabenbereiche
 festzulegen.
-
 
 ### § 9
 
@@ -1072,7 +1026,6 @@ Leiter des Versuchsvorhabens oder sein Stellvertreter verantwortlich.
 Das Gleiche gilt für die Erfüllung von Auflagen, die mit einer
 Genehmigung nach § 8 verbunden sind.
 
-
 ### § 9a
 
 Über die Tierversuche sind Aufzeichnungen zu machen. Die
@@ -1092,10 +1045,7 @@ erstellt werden. Die Aufzeichnungen sind drei Jahre lang nach
 Abschluss des Versuchsvorhabens aufzubewahren und der zuständigen
 Behörde auf Verlangen zur Einsichtnahme vorzulegen.
 
-
 ## Sechster Abschnitt - Eingriffe und Behandlungen zur Aus-, Fort- oder Weiterbildung
-
-
 
 ### § 10
 
@@ -1133,10 +1083,7 @@ sachkundigen Person durchgeführt werden dürfen.
 Leiter der Aus-, Fort- oder Weiterbildung oder sein Stellvertreter
 verantwortlich.
 
-
 ## Siebenter Abschnitt - Eingriffe und Behandlungen zur Herstellung, Gewinnung, Aufbewahrung oder Vermehrung von Stoffen, Produkten oder Organismen
-
-
 
 ### § 10a
 
@@ -1150,10 +1097,7 @@ anzuzeigen. Die Behörde kann die Frist auf Antrag verkürzen. § 8a Abs.
 2 bis 5, §§ 8b, 9 Abs. 1 Satz 1, Abs. 2, 3 Satz 1 und § 9a gelten
 entsprechend.
 
-
 ## Achter Abschnitt - Zucht, Halten von Tieren, Handel mit Tieren
-
-
 
 ### § 11
 
@@ -1327,7 +1271,6 @@ Ausübung der nach Satz 3 untersagten Tätigkeit kann von der
 zuständigen Behörde auch durch Schließung der Betriebs- oder
 Geschäftsräume verhindert werden.
 
-
 ### § 11a
 
 (1) Wer Wirbeltiere
@@ -1370,7 +1313,6 @@ Wirbeltiere nach § 4 Abs. 3 zu dem dort genannten Zweck aus
 Drittländern einführen will, bedarf der Genehmigung durch die
 zuständige Behörde. Die Genehmigung ist zu erteilen, wenn nachgewiesen
 wird, dass die Voraussetzungen des § 9 Abs. 2 Nr. 7 erfüllt sind.
-
 
 ### § 11b
 
@@ -1420,20 +1362,13 @@ Zustimmung des Bundesrates
     verbieten oder zu beschränken, wenn dieses Züchten zu Verstößen gegen
     die Absätze 1 und 2 führen kann.
 
-
-
-
-
 ### § 11c
 
 Ohne Einwilligung der Erziehungsberechtigten dürfen Wirbeltiere an
 Kinder oder Jugendliche bis zum vollendeten 16. Lebensjahr nicht
 abgegeben werden.
 
-
 ## Neunter Abschnitt - Verbringungs-, Verkehrs- und Haltungsverbot
-
-
 
 ### § 12
 
@@ -1491,10 +1426,7 @@ Eine Rechtsverordnung nach Satz 1 Nr. 1 bis 5 kann nicht erlassen
 werden, soweit Unionsrecht oder völkerrechtliche Verpflichtungen
 entgegenstehen.
 
-
 ## Zehnter Abschnitt - Sonstige Bestimmungen zum Schutz der Tiere
-
-
 
 ### § 13
 
@@ -1529,7 +1461,6 @@ können ferner Anforderungen an den Nachweis der erforderlichen
 Zuverlässigkeit und der erforderlichen fachlichen Kenntnisse und
 Fähigkeiten nach Satz 2 festgelegt sowie das Verfahren des Nachweises
 geregelt werden.
-
 
 ### § 13a
 
@@ -1643,10 +1574,7 @@ näher bestimmt werden.
 Zwecke des Verbringens in einen anderen Mitgliedstaat oder der Ausfuhr
 in ein Drittland.
 
-
 ## Elfter Abschnitt - Durchführung des Gesetzes
-
-
 
 ### § 14
 
@@ -1678,7 +1606,6 @@ dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und
 zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in
 Geschäftspapiere und sonstige Unterlagen und zur Duldung von
 Besichtigungen vorsehen.
-
 
 ### § 15
 
@@ -1728,7 +1655,6 @@ Genehmigung des Versuchsvorhabens zuständige Landesbehörde ist davon
 in Kenntnis zu setzen. Die zuständige Dienststelle der Bundeswehr
 sendet auf Anforderung die Stellungnahme zu.
 
-
 ### § 15a
 
 Die nach Landesrecht zuständigen Behörden unterrichten das
@@ -1739,7 +1665,6 @@ worden ist, dass die Voraussetzungen des § 7 Abs. 3 nicht erfüllt
 waren, oder in denen die Kommission nach § 15 Abs. 1 oder der
 Tierschutzbeauftragte Bedenken hinsichtlich des Vorliegens dieser
 Voraussetzungen erhoben hat.
-
 
 ### § 16
 
@@ -1984,7 +1909,6 @@ oder Betäubungsgeräte oder Betäubungsanlagen auf Grund einer
 Rechtsverordnung nach § 13a Abs. 5 zugelassen oder bauartzugelassen
 sind.
 
-
 ### § 16a
 
 Die zuständige Behörde trifft die zur Beseitigung festgestellter
@@ -2028,10 +1952,6 @@ Anordnungen. Sie kann insbesondere
     Genehmigung oder entgegen einem tierschutzrechtlichen Verbot
     durchgeführt werden.
 
-
-
-
-
 ### § 16b
 
 (1) Das Bundesministerium beruft eine Tierschutzkommission zu seiner
@@ -2043,7 +1963,6 @@ Gesetz hat das Bundesministerium die Tierschutzkommission anzuhören.
 Zustimmung des Bundesrates das Nähere über Zusammensetzung, Berufung
 der Mitglieder, Aufgaben und Geschäftsführung der Tierschutzkommission
 zu regeln.
-
 
 ### § 16c
 
@@ -2057,7 +1976,6 @@ verwendeten Tiere und über den Zweck und die Art der Versuche oder
 sonstigen Verwendungen zu melden und das Melde- und
 Übermittlungsverfahren zu regeln.
 
-
 ### § 16d
 
 Das Bundesministerium erlässt mit Zustimmung des Bundesrates die
@@ -2065,12 +1983,10 @@ allgemeinen Verwaltungsvorschriften, die zur Durchführung dieses
 Gesetzes und der auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen erforderlich sind.
 
-
 ### § 16e
 
 Die Bundesregierung erstattet dem Deutschen Bundestag alle vier Jahre
 einen Bericht über den Stand der Entwicklung des Tierschutzes.
-
 
 ### § 16f
 
@@ -2103,7 +2019,6 @@ Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und der
 Kommission der Europäischen Gemeinschaft oder der Europäischen Union
 mitteilen.
 
-
 ### § 16g
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -2116,13 +2031,11 @@ Einzelfall im Benehmen mit der zuständigen obersten Landesbehörde
 dieser die Befugnis übertragen. Die obersten Landesbehörden können die
 Befugnis nach den Sätzen 2 und 3 auf andere Behörden übertragen.
 
-
 ### § 16h
 
 Die §§ 16f und 16g gelten entsprechend für Staaten, die - ohne
 Mitgliedstaaten zu sein - Vertragsstaaten des Abkommens über den
 Europäischen Wirtschaftsraum sind.
-
 
 ### § 16i
 
@@ -2145,10 +2058,7 @@ Oberverwaltungsgericht. Abweichend von § 1059 Abs. 3 Satz 1 der
 Zivilprozessordnung muss der Aufhebungsantrag innerhalb eines Monats
 bei Gericht eingereicht werden.
 
-
 ## Zwölfter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 17
 
@@ -2170,10 +2080,6 @@ bestraft, wer
 
 
     zufügt.
-
-
-
-
 
 ### § 18
 
@@ -2372,7 +2278,6 @@ sowie des Absatzes 3 Nr. 1 Buchstabe a und Nr. 2 Buchstabe a mit einer
 Geldbuße bis zu fünfundzwanzigtausend Euro, in den übrigen Fällen mit
 einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 ### § 18a
 
 Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung
@@ -2389,7 +2294,6 @@ nach
 
 
 geahndet werden können.
-
 
 ### § 19
 
@@ -2423,10 +2327,6 @@ Ordnungswidrigkeit
     einer Rechtsverordnung nach den §§ 2a, 5 Abs. 4, § 11b Abs. 5 Nr. 2
     oder § 12 Abs. 2 Nr. 4 oder 5 entspricht.
 
-
-
-
-
 ### § 20
 
 (1) Wird jemand wegen einer nach § 17 rechtswidrigen Tat verurteilt
@@ -2449,7 +2349,6 @@ hat.
 (3) Wer einem Verbot nach Absatz 1 zuwiderhandelt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 ### § 20a
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass ein Verbot
@@ -2465,10 +2364,7 @@ Grund weggefallen ist oder wenn das Gericht im Urteil ein Verbot nach
 (3) Wer einem Verbot nach Absatz 1 zuwiderhandelt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 ## Dreizehnter Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 21
 
@@ -2517,16 +2413,11 @@ vorläufig als erteilt. Die vorläufige Erlaubnis erlischt,
 2.  im Falle rechtzeitiger Antragstellung mit Eintritt der
     Unanfechtbarkeit der Entscheidung über den Antrag.
 
-
-
-
-
 ### § 21a
 
 Rechtsverordnungen nach diesem Gesetz können auch zur Durchführung von
 Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 auf dem Gebiet des Tierschutzes erlassen werden.
-
 
 ### § 21b
 
@@ -2537,7 +2428,6 @@ Europäischen Union erforderlich ist, ohne die Zustimmung des
 Bundesrates erlassen. Sie treten spätestens sechs Monate nach ihrem
 Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung
 des Bundesrates verlängert werden.
-
 
 ### § 21c
 
@@ -2558,7 +2448,6 @@ nach festen Sätzen nach § 4 des Verwaltungskostengesetzes auch als
 nach feststehenden Stundensätzen vorgesehene Gebühren (Zeitgebühren)
 festgelegt werden. Die zu erstattenden Auslagen können abweichend vom
 Verwaltungskostengesetz geregelt werden.
-
 
 ### § 22
 

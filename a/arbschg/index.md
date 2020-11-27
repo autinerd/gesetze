@@ -29,10 +29,7 @@ Gesundheitsschutzes von Arbeitnehmern mit befristetem
 Arbeitsverhältnis oder Leiharbeitsverhältnis (ABl. EG Nr. L 206 S.
 19).
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Zielsetzung und Anwendungsbereich
 
@@ -59,7 +56,6 @@ verpflichten.
 (4) Bei öffentlich-rechtlichen Religionsgemeinschaften treten an die
 Stelle der Betriebs- oder Personalräte die Mitarbeitervertretungen
 entsprechend dem kirchlichen Recht.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -111,10 +107,7 @@ Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die
 Gerichte des Bundes und der Länder sowie die entsprechenden
 Einrichtungen der Streitkräfte.
 
-
 ## Zweiter Abschnitt - Pflichten des Arbeitgebers
-
-
 
 ### § 3 Grundpflichten des Arbeitgebers
 
@@ -144,7 +137,6 @@ Zahl der Beschäftigten
 
 (3) Kosten für Maßnahmen nach diesem Gesetz darf der Arbeitgeber nicht
 den Beschäftigten auferlegen.
-
 
 ### § 4 Allgemeine Grundsätze
 
@@ -183,10 +175,6 @@ allgemeinen Grundsätzen auszugehen:
     sind nur zulässig, wenn dies aus biologischen Gründen zwingend geboten
     ist.
 
-
-
-
-
 ### § 5 Beurteilung der Arbeitsbedingungen
 
 (1) Der Arbeitgeber hat durch eine Beurteilung der für die
@@ -217,10 +205,6 @@ eines Arbeitsplatzes oder einer Tätigkeit ausreichend.
 
 5.  unzureichende Qualifikation und Unterweisung der Beschäftigten.
 
-
-
-
-
 ### § 6 Dokumentation
 
 (1) Der Arbeitgeber muß über die je nach Art der Tätigkeiten und der
@@ -243,7 +227,6 @@ oder so verletzt wird, daß er stirbt oder für mehr als drei Tage
 völlig oder teilweise arbeits- oder dienstunfähig wird, hat der
 Arbeitgeber zu erfassen.
 
-
 ### § 7 Übertragung von Aufgaben
 
 Bei der Übertragung von Aufgaben auf Beschäftigte hat der Arbeitgeber
@@ -251,7 +234,6 @@ je nach Art der Tätigkeiten zu berücksichtigen, ob die Beschäftigten
 befähigt sind, die für die Sicherheit und den Gesundheitsschutz bei
 der Aufgabenerfüllung zu beachtenden Bestimmungen und Maßnahmen
 einzuhalten.
-
 
 ### § 8 Zusammenarbeit mehrerer Arbeitgeber
 
@@ -270,7 +252,6 @@ daß die Beschäftigten anderer Arbeitgeber, die in seinem Betrieb tätig
 werden, hinsichtlich der Gefahren für ihre Sicherheit und Gesundheit
 während ihrer Tätigkeit in seinem Betrieb angemessene Anweisungen
 erhalten haben.
-
 
 ### § 9 Besondere Gefahren
 
@@ -301,7 +282,6 @@ ihre Tätigkeit wieder aufzunehmen. Gesetzliche Pflichten der
 Beschäftigten zur Abwehr von Gefahren für die öffentliche Sicherheit
 sowie die §§ 7 und 11 des Soldatengesetzes bleiben unberührt.
 
-
 ### § 10 Erste Hilfe und sonstige Notfallmaßnahmen
 
 (1) Der Arbeitgeber hat entsprechend der Art der Arbeitsstätte und der
@@ -324,7 +304,6 @@ unberührt. Der Arbeitgeber kann die in Satz 1 genannten Aufgaben auch
 selbst wahrnehmen, wenn er über die nach Satz 2 erforderliche
 Ausbildung und Ausrüstung verfügt.
 
-
 ### § 11 Arbeitsmedizinische Vorsorge
 
 Der Arbeitgeber hat den Beschäftigten auf ihren Wunsch unbeschadet der
@@ -333,7 +312,6 @@ den Gefahren für ihre Sicherheit und Gesundheit bei der Arbeit
 regelmäßig arbeitsmedizinisch untersuchen zu lassen, es sei denn, auf
 Grund der Beurteilung der Arbeitsbedingungen und der getroffenen
 Schutzmaßnahmen ist nicht mit einem Gesundheitsschaden zu rechnen.
-
 
 ### § 12 Unterweisung
 
@@ -353,7 +331,6 @@ Unterweisung nach Absatz 1 den Entleiher. Er hat die Unterweisung
 unter Berücksichtigung der Qualifikation und der Erfahrung der
 Personen, die ihm zur Arbeitsleistung überlassen werden, vorzunehmen.
 Die sonstigen Arbeitsschutzpflichten des Verleihers bleiben unberührt.
-
 
 ### § 13 Verantwortliche Personen
 
@@ -386,7 +363,6 @@ ergebenden Pflichten sind neben dem Arbeitgeber
 schriftlich damit beauftragen, ihm obliegende Aufgaben nach diesem
 Gesetz in eigener Verantwortung wahrzunehmen.
 
-
 ### § 14 Unterrichtung und Anhörung der Beschäftigten des öffentlichen Dienstes
 
 (1) Die Beschäftigten des öffentlichen Dienstes sind vor Beginn der
@@ -401,10 +377,7 @@ Beschäftigten besteht, hat der Arbeitgeber die Beschäftigten zu allen
 Maßnahmen zu hören, die Auswirkungen auf Sicherheit und Gesundheit der
 Beschäftigten haben können.
 
-
 ## Dritter Abschnitt - Pflichten und Rechte der Beschäftigten
-
-
 
 ### § 15 Pflichten der Beschäftigten
 
@@ -420,7 +393,6 @@ Maschinen, Geräte, Werkzeuge, Arbeitsstoffe, Transportmittel und
 sonstige Arbeitsmittel sowie Schutzvorrichtungen und die ihnen zur
 Verfügung gestellte persönliche Schutzausrüstung bestimmungsgemäß zu
 verwenden.
-
 
 ### § 16 Besondere Unterstützungspflichten
 
@@ -439,7 +411,6 @@ Sicherheit und Gesundheit und Mängel an den Schutzsystemen auch der
 Fachkraft für Arbeitssicherheit, dem Betriebsarzt oder dem
 Sicherheitsbeauftragten nach § 22 des Siebten Buches Sozialgesetzbuch
 mitteilen.
-
 
 ### § 17 Rechte der Beschäftigten
 
@@ -460,10 +431,7 @@ und 3 genannten Vorschriften sowie die Vorschriften der
 Wehrbeschwerdeordnung und des Gesetzes über den Wehrbeauftragten des
 Deutschen Bundestages bleiben unberührt.
 
-
 ## Vierter Abschnitt - Verordnungsermächtigungen
-
-
 
 ### § 18 Verordnungsermächtigungen
 
@@ -510,10 +478,6 @@ werden,
     Anforderungen erfüllt werden können. Das Bundesministerium für Arbeit
     und Soziales kann die Regeln und Erkenntnisse amtlich bekannt machen.
 
-
-
-
-
 ### § 19 Rechtsakte der Europäischen Gemeinschaften und zwischenstaatliche Vereinbarungen
 
 Rechtsverordnungen nach § 18 können auch erlassen werden, soweit dies
@@ -523,7 +487,6 @@ Organisationen oder von zwischenstaatlichen Vereinbarungen, die
 Sachbereiche dieses Gesetzes betreffen, erforderlich ist, insbesondere
 um Arbeitsschutzpflichten für andere als in § 2 Abs. 3 genannte
 Personen zu regeln.
-
 
 ### § 20 Regelungen für den öffentlichen Dienst
 
@@ -555,10 +518,7 @@ Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 können den Sätzen 1 und 3 entsprechende Regelungen durch Landesrecht
 getroffen werden.
 
-
 ## Fünfter Abschnitt - Gemeinsame deutsche Arbeitsschutzstrategie
-
-
 
 ### § 20a Gemeinsame deutsche Arbeitsschutzstrategie
 
@@ -593,10 +553,6 @@ der gemeinsamen deutschen Arbeitsschutzstrategie zu erreichen.
 
 5.  die Herstellung eines verständlichen, überschaubaren und abgestimmten
     Vorschriften- und Regelwerks.
-
-
-
-
 
 ### § 20b Nationale Arbeitsschutzkonferenz
 
@@ -643,10 +599,7 @@ Arbeitsschutzforums führt die Bundesanstalt für Arbeitsschutz und
 Arbeitsmedizin. Einzelheiten zu Arbeitsweise und Verfahren werden in
 der Geschäftsordnung der Nationalen Arbeitsschutzkonferenz festgelegt.
 
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 21 Zuständige Behörden, Zusammenwirken mit den Trägern der gesetzlichen Unfallversicherung
 
@@ -726,7 +679,6 @@ für diese Betriebe und Verwaltungen vereinbaren, daß das Gesetz von
 den Berufsgenossenschaften durchgeführt wird; Aufwendungen werden
 nicht erstattet.
 
-
 ### § 22 Befugnisse der zuständigen Behörden
 
 (1) Die zuständige Behörde kann vom Arbeitgeber oder von den
@@ -792,7 +744,6 @@ des öffentlichen Dienstes, die den Dienstbetrieb wesentlich
 beeinträchtigen, sollen im Einvernehmen mit der obersten Bundes- oder
 Landesbehörde oder dem Hauptverwaltungsbeamten der Gemeinde getroffen
 werden.
-
 
 ### § 23 Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht
 
@@ -895,7 +846,6 @@ Angaben zur Erfüllung von Unterrichtungspflichten aus internationalen
 Übereinkommen oder Rechtsakten der Europäischen Gemeinschaften, soweit
 sie den Arbeitsschutz betreffen.
 
-
 ### § 24 Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
 
 Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung des
@@ -919,7 +869,6 @@ Bundesrates allgemeine Verwaltungsvorschriften erlassen
 Verwaltungsvorschriften, die Bereiche des öffentlichen Dienstes
 einbeziehen, werden im Einvernehmen mit dem Bundesministerium des
 Innern erlassen.
-
 
 ### § 25 Bußgeldvorschriften
 
@@ -950,7 +899,6 @@ Innern erlassen.
 2 Buchstabe b mit einer Geldbuße bis zu fünftausend Euro, in den
 Fällen des Absatzes 1 Nr. 2 Buchstabe a mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
-
 
 ### § 26 Strafvorschriften
 

@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 2002
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes vom 25. Juni 1980 zu dem
 Abkommen vom 13. Mai 1975 zwischen der Bundesrepublik Deutschland und
 dem Königreich Belgien über die Befreiung öffentlicher Urkunden von
 der Legalisation (BGBl. 1980 II S. 813) verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -35,13 +32,11 @@ das Bundesverwaltungsamt für Urkunden aus dem Geschäftsbereich der
 Behörden des Bundes sowie der bundesunmittelbaren Körperschaften,
 Anstalten und Stiftungen des öffentlichen Rechts.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 6 des eingangs genannten Gesetzes auch im Land
 Berlin.
-
 
 ## § 3
 

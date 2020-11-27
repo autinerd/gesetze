@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 21.12.1995 I 2100
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 1 Nr. 1 und 4 Buchstabe a und b und Abs. 2 des
@@ -28,11 +27,9 @@ Bundesministerium für Gesundheit im Einvernehmen mit den
 Bundesministerien für Ernährung, Landwirtschaft und Forsten, für
 Umwelt, Naturschutz und Reaktorsicherheit und für Wirtschaft:
 
-
 ## (XXXX) Art 1 und Art 2 (weggefallen)
 
 -
-
 
 ## Art 3 Übergangsregelung
 
@@ -41,18 +38,15 @@ dieser Verordnung geltenden Vorschriften gekennzeichnet werden; die so
 gekennzeichneten Biere dürfen über diesen Zeitpunkt hinaus in Verkehr
 gebracht werden.
 
-
 ## Art 4 Neubekanntmachung
 
 Das Bundesministerium für Gesundheit kann den Wortlaut der
 Bierverordnung in der vom Inkrafttreten dieser Verordnung an geltenden
 Fassung im Bundesgesetzblatt bekanntmachen.
 
-
 ## Art 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

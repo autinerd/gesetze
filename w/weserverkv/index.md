@@ -29,7 +29,6 @@ durch Artikel 2 Nummer 3 der Verordnung vom 15. April 2008 (BGBl. I S.
 741) geändert worden ist, verordnet die Wasser- und
 Schifffahrtsdirektion Nordwest für ihren Zuständigkeitsbereich:
 
-
 ## § 1
 
 (1) Auf der Weser innerhalb des durch die Tonne 51 (Weser-km 74,56)
@@ -54,7 +53,6 @@ Schiffsführer eines Fahrzeuges unter Segel deutlich der Richtung des
 Fahrwasserverlaufs zu folgen. Das Kreuzen ist innerhalb des in Absatz
 1 bezeichneten Bereiches verboten.
 
-
 ## § 2
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des
@@ -69,15 +67,10 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 3.  entgegen § 1 Absatz 2 Satz 2 kreuzt.
 
-
-
-
-
 ## § 3
 
 Diese Verordnung tritt am 1. Dezember 2010 in Kraft und mit Ablauf des
 30\. November 2013 außer Kraft.
-
 
 ## Schlussformel
 

@@ -26,13 +26,11 @@ Nr. L 204 S. 37), zuletzt geändert durch die Richtlinie 98/48/EG des
 Europäischen Parlaments und des Rates vom 20. Juli 1998 (ABl. EG
 Nr. L 217 S. 18) sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 des Signaturgesetzes vom 16. Mai 2001 (BGBl. I S.
 876) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes
 vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung:
-
 
 ## § 1 Form, Inhalt und Änderung der Anzeige
 
@@ -95,7 +93,6 @@ Zertifizierungsdienstes in einem anderen als in Satz 1 genannten Staat
 ist nur im Rahmen einer freiwilligen Akkreditierung zulässig, soweit
 die Sicherstellung der Aufsicht nachgewiesen wird.
 
-
 ## § 2 Inhalt des Sicherheitskonzepts
 
 Das Sicherheitskonzept nach § 4 Abs. 2 Satz 4 des Signaturgesetzes hat
@@ -124,10 +121,6 @@ Folgendes zu enthalten:
 
 
 6.  eine Abschätzung und Bewertung verbleibender Sicherheitsrisiken.
-
-
-
-
 
 ## § 3 Identitätsprüfung und Attributsnachweise
 
@@ -174,7 +167,6 @@ zuständige Stelle ist in Textform über den Inhalt des qualifizierten
 Zertifikates zu unterrichten und auf die Möglichkeit der Sperrung
 hinzuweisen.
 
-
 ## § 4 Führung eines Zertifikatsverzeichnisses
 
 (1) Der Zertifizierungsdiensteanbieter hat die von ihm ausgestellten
@@ -196,7 +188,6 @@ Vorgaben nach § 5 Abs. 1 Satz 3 des Signaturgesetzes zu führen.
 (3) Im Falle der Übernahme von qualifizierten Zertifikaten nach § 13
 Abs. 1 Satz 2 des Signaturgesetzes gelten die Absätze 1 und 2
 entsprechend.
-
 
 ## § 5 Einzelne Sicherheitsvorkehrungen des Zertifizierungsdiensteanbieters
 
@@ -245,7 +236,6 @@ von ihm eingesetzten Produkte für qualifizierte elektronische
 Signaturen zu überzeugen und Vorkehrungen zu treffen, um diese vor
 unbefugtem Zugriff zu schützen.
 
-
 ## § 6 Ausgestaltung der Unterrichtung
 
 Die Unterrichtung des Antragstellers nach § 6 Abs. 1 des
@@ -290,7 +280,6 @@ und sich mindestens auf Folgendes zu erstrecken:
 Die Informationen sind auf Antrag auch Dritten zur Verfügung zu
 stellen.
 
-
 ## § 7 Sperrung von qualifizierten Zertifikaten
 
 (1) Der Zertifizierungsdiensteanbieter hat den nach § 8 des
@@ -303,7 +292,6 @@ geeignete Weise von der Identität des zur Sperrung Berechtigten zu
 überzeugen. Die Sperrung von qualifizierten Zertifikaten ist mit
 Angabe des Datums und der zu diesem Zeitpunkt gültigen gesetzlichen
 Zeit im Zertifikatsverzeichnis nach § 4 eindeutig kenntlich zu machen.
-
 
 ## § 8 Umfang der Dokumentation
 
@@ -359,7 +347,6 @@ des Satzes 1 die Dokumentation mindestens bis zum rechtskräftigen
 Abschluss des Verfahrens aufzubewahren. Die Dokumentation von
 Auskünften nach § 14 Abs. 2 Satz 2 des Signaturgesetzes ist zwölf
 Monate aufzubewahren.
-
 
 ## § 9 Ausgestaltung der Deckungsvorsorge
 
@@ -422,16 +409,11 @@ Nr. 1 erbracht wird, gelten die folgenden Bestimmungen:
 5.  Die Vereinbarung eines Selbstbehaltes bis zu 1 Prozent der
     Mindestversicherungssumme ist zulässig.
 
-
-
-
-
 ## § 10 Einstellen der Tätigkeit
 
 Der Zertifizierungsdiensteanbieter soll die Unterrichtung der
 zuständigen Behörde nach § 13 Abs. 1 Satz 1 des Signaturgesetzes
 spätestens zwei Monate vor Einstellung des Betriebes vornehmen.
-
 
 ## § 11 Freiwillige Akkreditierung
 
@@ -462,7 +444,6 @@ qualifizierte elektronische Signaturen nach § 15 Abs. 7 Satz 1 des
 Signaturgesetzes sind die Vorgaben des Abschnitts I der Anlage 1 zu
 dieser Verordnung zu beachten.
 
-
 ## § 12 Festsetzung und Erhebung von Kosten
 
 (1) Die gebührenpflichtigen Tatbestände für Amtshandlungen nach § 22
@@ -480,7 +461,6 @@ sind Gebühren ferner zu berechnen, die innerhalb der üblichen
 Arbeitszeit liegen oder von der zuständigen Behörde besonders
 abgegolten werden, sowie für Wartezeiten, die der Kostenschuldner
 verursacht hat.
-
 
 ## § 13 Festsetzung und Erhebung von Beiträgen
 
@@ -526,7 +506,6 @@ anteilig zu berechnen; die Sätze 1 und 2 gelten entsprechend. Die
 Beiträge werden nach den Vorschriften des
 Verwaltungsvollstreckungsgesetzes beigetrieben.
 
-
 ## § 14 Inhalt und Gültigkeitsdauer von qualifizierten Zertifikaten
 
 (1) Die Angaben nach § 7 Abs. 1 des Signaturgesetzes in einem
@@ -563,7 +542,6 @@ eingesetzten Algorithmen und zugehörigen Parameter nicht
 überschreiten. Die Gültigkeit eines qualifizierten Attribut-
 Zertifikates endet spätestens mit der Gültigkeit des qualifizierten
 Zertifikates, auf das es Bezug nimmt.
-
 
 ## § 15 Anforderungen an Produkte für qualifizierte elektronische Signaturen
 
@@ -658,7 +636,6 @@ nach § 15 Abs. 7 des Signaturgesetzes. Die zuständige Behörde
 veröffentlicht im Bundesanzeiger die aktuell gültigen Anforderungen
 auf Grund der Festlegungen nach Satz 1.
 
-
 ## § 16 Verfahren der Anerkennung sowie der Tätigkeit von Prüf- und Bestätigungsstellen
 
 (1) Ein Antrag einer Prüf- und Bestätigungsstelle nach § 18 Abs. 1 des
@@ -741,7 +718,6 @@ des Bundeszentralregistergesetzes verlangen.
 Einzelheiten zu den Anforderungen nach den Absätzen 1 bis 4 und den
 Mindestkriterien nach Artikel 3 Abs. 4 der Richtlinie 1999/93/EG.
 
-
 ## § 17 Zeitraum und Verfahren zur langfristigen Datensicherung
 
 Daten mit einer qualifizierten elektronischen Signatur sind nach § 6
@@ -757,7 +733,6 @@ einen qualifizierten Zeitstempel tragen.Anstelle einer neuen
 qualifizierten elektronischen Signatur nach Satz 2 kann ein
 qualifizierter Zeitstempel aufgebracht werden, wenn dieser selbst eine
 qualifizierte elektronische Signatur trägt.
-
 
 ## § 18 Verfahren zur Feststellung der gleichwertigen Sicherheit von ausländischen elektronischen Signaturen und Produkten
 
@@ -819,11 +794,9 @@ Signaturgesetzes als gleichwertig anerkannt sind, aufzunehmen. Sie hat
 die Anerkennung durch eine qualifizierte elektronische Signatur mit
 Anbieterakkreditierung nach § 15 des Signaturgesetzes zu bestätigen.
 
-
 ## § 19 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft; ...
-
 
 ## Anlage 1 (zu § 11 Abs. 3, § 15 Abs. 5 und § 16 Abs. 2) Vorgaben für die Prüfung von Produkten für qualifizierte elektronische Signaturen
 
@@ -989,13 +962,6 @@ II. Zu § 15 Abs. 5 dieser Verordnung und nach § 17 Abs. 1 und 3 Nr. 1 des
         nach Abschnitt I Nr. 1.1 Buchstabe c und d) zum Einsatz kommen, bei
         denen anstelle der Bestätigung eine Herstellererklärung nach § 17 Abs.
         4 des Signaturgesetzes vorliegt.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 12) Kosten
 

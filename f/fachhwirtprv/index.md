@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1865
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +29,6 @@ Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im
 Einvernehmen mit den Bundesministerien für Arbeit und Sozialordnung,
 für Ernährung, Landwirtschaft und Forsten sowie für Familie, Senioren,
 Frauen und Jugend:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -79,7 +76,6 @@ eigenverantwortlich wahrzunehmen um:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfte Fachhauswirtschafterin/ Geprüfter Fachhauswirtschafter.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Fortbildungsprüfung ist zuzulassen, wer
@@ -106,7 +102,6 @@ durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die
 Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Inhalt der Prüfung
 
 Die Prüfung umfaßt die Bereiche:
@@ -121,10 +116,6 @@ Die Prüfung umfaßt die Bereiche:
 
 
 4.  Berufliche und rechtliche Rahmenbedingungen.
-
-
-
-
 
 ## § 4 Bereich Hauswirtschaftliche Leistungen
 
@@ -172,10 +163,6 @@ betreuenden Personen. In diesem Rahmen können geprüft werden:
 6.  Analysieren der Wohnsituation, Gestalten und Pflegen einer
     bedarfsgerechten Wohnung unter Vermeidung von Unfallgefahren.
 
-
-
-
-
 ## § 5 Bereich Betreuung bei alltagsbezogenen Verrichtungen
 
 Im Bereich "Betreuung bei alltagsbezogenen Verrichtungen" soll der
@@ -210,10 +197,6 @@ hinzugezogen werden muß. In diesem Rahmen können geprüft werden:
 
 6.  Einleiten von Maßnahmen der Ersten Hilfe und Grundkenntnisse zur
     Medikamenteneinnahme, Kenntnisse über Hilfsmittel.
-
-
-
-
 
 ## § 6 Bereich Kommunikation
 
@@ -261,10 +244,6 @@ In diesem Rahmen können geprüft werden:
 
 7.  Möglichkeiten der Bewältigung berufsbedingter Belastungen.
 
-
-
-
-
 ## § 7 Bereich Berufliche und rechtliche Rahmenbedingungen
 
 Im Bereich "Berufliche und rechtliche Rahmenbedingungen" soll der
@@ -300,10 +279,6 @@ nachweisen. In diesem Rahmen können geprüft werden:
 6.  Grundkenntnisse über einschlägige Bestimmungen der Sozialgesetzgebung,
     des Familienrechts, des Erbrechts, des Strafrechts, des Datenschutzes
     sowie bestehende Möglichkeiten der Rechtsberatung.
-
-
-
-
 
 ## § 8 Gliederung der Prüfung
 
@@ -393,7 +368,6 @@ und zielorientiert zu bearbeiten. Das Fachgespräch soll nicht länger
 als 30 Minuten dauern und soll zeitnah nach Abgabe der
 situationsbezogenen praktischen Fachaufgabe durchgeführt werden.
 
-
 ## § 9 Anrechnung anderer Prüfungsleistungen
 
 Von der Prüfung in einzelnen Prüfungsbereichen der schriftlichen
@@ -405,7 +379,6 @@ Prüfung in den letzten fünf Jahren vor Antragstellung bestanden hat,
 deren Inhalt den Anforderungen nach den §§ 3 und 8 Abs. 2 entspricht.
 Eine Befreiung von der situationsbezogenen praktischen Fachaufgabe und
 dem Fachgespräch ist nicht zulässig.
-
 
 ## § 10 Bestehen der Prüfung
 
@@ -427,7 +400,6 @@ Freistellung gemäß § 9 sind Ort und Datum sowie Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfungsleistung
 anzugeben.
 
-
 ## § 11 Wiederholen der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -440,18 +412,15 @@ ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
 Tage der Beendigung der nicht bestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 12 Übergangsvorschrift
 
 Prüfungen auf der Grundlage entsprechender Rechtsvorschriften nach §
 46 Abs. 1 des Berufsbildungsgesetzes können noch bis zum 30. April
 1998 nach den bisherigen Rechtsvorschriften abgelegt werden.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1997 in Kraft.
-
 
 ## Anlage (zu § 10 Abs. 4)
 

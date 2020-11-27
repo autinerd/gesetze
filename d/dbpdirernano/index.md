@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2050
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -33,15 +31,10 @@ Geschäftsbereich -
 
     dem Präsidenten des Sozialamts der Deutschen Bundespost.
 
-
-
-
-
 ## II.
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten und Beamtinnen vor.
-
 
 ## III.
 
@@ -50,7 +43,6 @@ Gleichzeitig tritt insoweit die Anordnung über die Ernennung und
 Entlassung von Beamten im Geschäftsbereich des Bundesministers für das
 Post- und Fernmeldewesen vom 6. Juli 1982 (BGBl. I S. 959) außer
 Kraft.
-
 
 ## Schlußformel
 

@@ -50,17 +50,12 @@ Geändert durch
     innergemeinschaftlichen Handel mit Equiden (ABl. L 224 vom 18.8.1990,
     S. 55).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 Nr. 1 Buchstabe a bis d und Nr. 4 und des §
 18 Abs. 1 Nr. 3 und 5 des Tierzuchtgesetzes vom 21. Dezember 2006
 (BGBl. I S. 3294) verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Für die Zuchtarbeit verantwortliche Person
 
@@ -98,7 +93,6 @@ Berufsqualifikationsfeststellungsgesetzes ist anzuwenden.
 (2) Hat die zuständige Behörde nach bisherigem Recht einen anderen als
 in Absatz 1 Satz 2 genannten Nachweis zugelassen, so gilt dieser für
 den benannten Zuchtleiter oder die benannte Zuchtleiterin fort.
-
 
 ## § 2 Zuchtbuchordnung
 
@@ -225,7 +219,6 @@ Zuchtorganisation aufzubewahren.
 automatisierten Verfahren oder in einem Informationssystem erstellte
 Unterlagen gleich.
 
-
 ## § 3 Inhalt, Gestaltung und Führung des Zuchtbuches
 
 (1) Das Zuchtbuch muss für jedes eingetragene Zuchttier mindestens
@@ -295,7 +288,6 @@ Führt eine Züchtervereinigung mehrere Zuchtprogramme durch oder werden
 von ihr Zuchttiere mehrerer Rassen oder Zuchtrichtungen betreut, so
 hat sie für jede dieser Rassen und Zuchtrichtungen ein eigenes
 Zuchtbuch zu führen.
-
 
 ## § 4 Zuchtregisterordnung
 
@@ -387,7 +379,6 @@ Geschäftsstelle der Zuchtorganisation aufzubewahren.
 automatisierten Verfahren oder im Informationssystem erstellte
 Unterlagen gleich.
 
-
 ## § 5 Inhalt, Gestaltung und Führung des Zuchtregisters
 
 (1) Das Zuchtregister muss für jedes registrierte Zuchtschwein
@@ -453,7 +444,6 @@ werden. Führt eine Zuchtorganisation mehrere Zuchtprogramme durch, so
 hat sie für jedes Zuchtprogramm ein besonderes Zuchtregister zu
 führen.
 
-
 ## § 6 Kennzeichnung
 
 (1) Die im Zuchtbuch einzutragenden Zuchttiere sowie die im
@@ -493,7 +483,6 @@ Fohlens muss
 Im Übrigen bleiben die Vorschriften der Viehverkehrsverordnung
 unberührt.
 
-
 ## § 7 Zuchtbescheinigung und Herkunftsbescheinigung
 
 (1) Eine Zuchtbescheinigung für ein Zuchttier muss über die in Anlage
@@ -527,7 +516,6 @@ oder Herkunftsbescheinigung oder die Abschrift der neuesten Zucht-
 oder Herkunftsbescheinigung für das Spendertier oder die Spendertiere
 ausgestellt hat.
 
-
 ## § 8 Verfahren und Merkmale zur Prüfung der Identität und Abstammung
 
 Als Verfahren zur Prüfung der Identität und Abstammung sind sowohl die
@@ -536,11 +524,9 @@ zugelassen, sofern bei der Bestimmung anhand genomischer Merkmale eine
 Ausschlusswahrscheinlichkeit von mindestens 99 vom Hundert zu erwarten
 ist.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

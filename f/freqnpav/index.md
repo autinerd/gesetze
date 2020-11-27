@@ -18,18 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 464 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 3 Satz 2 des Telekommunikationsgesetzes vom
 25\. Juli 1996 (BGBl. I S. 1120) verordnet die Bundesregierung:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung regelt das Verfahren zur Aufstellung des
 Frequenznutzungsplanes.
-
 
 ## § 2 Ziele der Frequenznutzungsplanung
 
@@ -65,7 +62,6 @@ befristet erfolgt, keine im Plan eingetragene Frequenznutzung
 beeinträchtigt wird und kein Schutz vor Störungen durch andere
 Frequenznutzungen beansprucht wird.
 
-
 ## § 3 Inhalt des Frequenznutzungsplanes
 
 (1) Der Frequenznutzungsplan besteht aus Teilplänen für die einzelnen
@@ -89,7 +85,6 @@ zu geplanten Nutzungen gehören.
 können Frequenznutzungen des Bundesministeriums der Verteidigung
 bestehen, die nicht im Frequenznutzungsplan eingetragen sind.
 
-
 ## § 4 Planerarbeitung
 
 (1) Der Frequenznutzungsplan wird unter Beteiligung der Öffentlichkeit
@@ -110,7 +105,6 @@ Regulierungsbehörde abgefordert werden; darauf wird bei der
 Veröffentlichung nach Satz 3 hingewiesen. Der Entwurf soll eine kurze
 Begründung beinhalten.
 
-
 ## § 5 Beteiligung des Bundes und der Länder
 
 (1) Vor Beginn des Verfahrens nach § 6 ist für den jeweiligen Teilplan
@@ -130,7 +124,6 @@ angemessene Frist zu setzen. Äußern sie sich innerhalb der gesetzten
 Frist nicht, kann die Regulierungsbehörde davon ausgehen, dass die von
 diesen Beteiligten wahrzunehmenden öffentlichen Belange durch den
 Frequenznutzungsteilplan nicht berührt werden.
-
 
 ## § 6 Beteiligung der interessierten Kreise
 
@@ -164,7 +157,6 @@ und Bedenken gilt Absatz 1 entsprechend.
 widerstreitenden Belangen eine mündliche Anhörung durchführen. Absatz
 2 Satz 2 bis 6 gilt entsprechend.
 
-
 ## § 7 Durchsetzung von Beteiligungsrechten
 
 Jede natürliche oder juristische Person, die durch den Plan einen
@@ -176,7 +168,6 @@ Frequenznutzungsteilplanes nach § 8 Abs. 2 Satz 1, gerichtlich
 überprüfen lassen. Die gerichtliche Überprüfung nach Satz 1 hindert
 nicht die weitere Durchführung des Planungsverfahrens. § 123 der
 Verwaltungsgerichtsordnung bleibt unberührt.
-
 
 ## § 8 Entscheidung über die Frequenznutzungsteilpläne und deren Veröffentlichung
 
@@ -193,7 +184,6 @@ Frequenznutzungsteilplanes benachrichtigt werden.
 
 (3) Der Plan ist in seinen Grundzügen zu begründen.
 
-
 ## § 9 Planänderung
 
 Die §§ 4 bis 8 gelten für die Änderung von Frequenznutzungsteilplänen
@@ -206,7 +196,6 @@ Wirtschaft und Technologie Gelegenheit zur schriftlichen Stellungnahme
 innerhalb angemessener Frist zu geben. § 44 Abs. 3 des
 Telekommunikationsgesetzes bleibt unberührt.
 
-
 ## § 10 Übergangsklausel
 
 Auf Frequenznutzungsteilpläne, deren Erarbeitung oder Änderung bereits
@@ -214,11 +203,9 @@ vor dem Inkrafttreten dieser Verordnung begonnen wurde, sind die §§ 4
 und 6 nur anzuwenden, wenn eine wesentliche Änderung der bisher
 zulässigen Nutzung geplant ist. § 9 Satz 3 gilt entsprechend.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

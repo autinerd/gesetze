@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1992, Nr 85, 3869
 
-
-
 ## I.
 
 Gemäß § 1 Abs. 3 des Gesetzes über die Errichtung des
@@ -34,19 +32,16 @@ Richtlinien. Sie dient der Vermittlung zwischen Antragstellern und dem
 für die Entscheidung zuständigen VN-Entschädigungsfonds im Rahmen der
 Ausübung diplomatischen Schutzes.
 
-
 ## II.
 
 Das Bundesverwaltungsamt untersteht in dieser übertragenen
 Angelegenheit gemäß § 8 des Gesetzes über die Errichtung des
 Bundesverwaltungsamtes den fachlichen Weisungen des Auswärtigen Amtes.
 
-
 ## III.
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
 Innern und tritt am Tag der Unterzeichnung in Kraft.
-
 
 ## Schlußformel
 

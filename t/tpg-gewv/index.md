@@ -41,17 +41,12 @@ Fundstelle
     Konservierung, Lagerung und Verteilung von menschlichen Geweben und
     Zellen (ABl. EU Nr. L 294 S. 32).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 16a Satz 1 und 2 des Transplantationsgesetzes in der
 Fassung der Bekanntmachung vom 4. September 2007 (BGBl. I S. 2206)
 verordnet das Bundesministerium für Gesundheit nach Anhörung der
 Bundesärztekammer und weiterer Sachverständiger:
-
 
 ## § 1 Anwendungsbereich
 
@@ -64,7 +59,6 @@ durchführen oder durchführen lassen. Sie gilt ferner für Einrichtungen
 der medizinischen Versorgung, die Gewebe im Sinne des § 1a Nr. 4 des
 Transplantationsgesetzes übertragen.
 
-
 ## § 2 Anforderungen an die Entnahme von Geweben
 
 Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8d
@@ -73,7 +67,6 @@ Entnahmeeinrichtung insbesondere verpflichtet, sicherzustellen, dass
 die Art und Weise der Entnahme hinsichtlich der Art der gespendeten
 Gewebe geeignet ist und die für ihre Verwendung erforderlichen
 biologischen und physikalischen Eigenschaften erhalten bleiben.
-
 
 ## § 3 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders
 
@@ -91,7 +84,6 @@ Arzt hiervon abgewichen wird.
 Ausnahme von Keimzellen gilt Absatz 1 entsprechend mit der Maßgabe,
 dass die in Anlage 2 genannten Anforderungen zu beachten sind.
 
-
 ## § 4 Anforderungen an Laboruntersuchungen und Untersuchungsverfahren
 
 Bei den für Gewebespender erforderlichen Laboruntersuchungen im Sinne
@@ -101,7 +93,6 @@ Laboruntersuchungen für Gewebespender mit Ausnahme von Keimzellen in
 einem Untersuchungslabor durchzuführen oder durchführen zu lassen. Bei
 den Untersuchungen, mit Ausnahme der Spende von Keimzellen, sind die
 in Anlage 3 Nr. 2 festgelegten Anforderungen einzuhalten.
-
 
 ## § 5 Anforderungen an Spenderakte und Entnahmebericht
 
@@ -187,7 +178,6 @@ Aufbereitung, Be- oder Verarbeitung, Konservierung oder Aufbewahrung
 im Sinne des § 8d Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes
 freigegeben sind.
 
-
 ## § 6 Voraussetzungen für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung
 
 (1) Für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer
@@ -216,7 +206,6 @@ erforderlichen Laboruntersuchungen und Untersuchungsverfahren gilt § 4
 mit der Maßgabe der in Anlage 4 Nr. 2 und 3 festgelegten Anforderungen
 entsprechend.
 
-
 ## § 7 Dokumentation von übertragenen Geweben durch Einrichtungen der medizinischen Versorgung
 
 Die Einrichtungen der medizinischen Versorgung haben zur Erfüllung
@@ -240,10 +229,6 @@ dokumentiert wird:
 
 
 5.  Name der Gewebeeinrichtung, von der sie das Gewebe erhalten haben.
-
-
-
-
 
 ## § 8 Meldung schwerwiegender Zwischenfälle durch Einrichtungen der medizinischen Versorgung
 
@@ -274,10 +259,6 @@ sind mindestens:
     Konservierung, Aufbewahrung oder Abgabe des betroffenen Gewebes stehen
     kann.
 
-
-
-
-
 ## § 9 Meldung schwerwiegender unerwünschter Reaktionen durch Einrichtungen der medizinischen Versorgung
 
 (1) Die Einrichtungen der medizinischen Versorgung errichten und
@@ -306,19 +287,13 @@ sind mindestens:
 
 3.  Art der beobachteten schwerwiegenden unerwünschten Reaktion.
 
-
-
-
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des toten Spenders nach § 3 Abs. 1
 
@@ -492,16 +467,6 @@ Der Bundesrat hat zugestimmt.
             Hepatitis-C- oder HTLV-Infektion ergeben, können als Spender
             zugelassen werden.
 
-
-
-
-
-
-
-
-
-
-
 ## Anlage 2 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2
 
 ( Fundstelle: BGBl. I 2008, 517 )
@@ -588,19 +553,6 @@ Der Bundesrat hat zugestimmt.
 
 
             bb) Stillen.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Anlage 3 Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4
 
@@ -759,13 +711,6 @@ Der Bundesrat hat zugestimmt.
     h)  Handelt es sich bei dem Spender um ein Neugeborenes, kann der
         biologische Spendertest an der Mutter des Spenders vorgenommen werden,
         um unnötige Eingriffe am Neugeborenen zu vermeiden.
-
-
-
-
-
-
-
 
 ## Anlage 4 Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6
 

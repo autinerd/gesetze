@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 5 V v. 1.7.2011 I 1308
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -62,12 +60,7 @@ Im Sinn dieser Verordnung ist
     59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG)
     Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist.
 
-
-
-
-
 ## Abschnitt 2 - Zu § 2 des Gesetzes
-
 
 ### § 2 Kaffeemenge, Kaffeeart, Herstellung
 
@@ -84,9 +77,7 @@ Besteuerungsgrundlage für die gleiche Kaffeeart verändert. Dies gilt
 für Veränderungen außerhalb des Steueraussetzungsverfahrens nur, wenn
 sie zu einer Mengenvermehrung führen.
 
-
 ## Abschnitt 3 - Zu den §§ 5 und 6 des Gesetzes
-
 
 ### § 3 Steuerlager, Anforderungen an die Einrichtung
 
@@ -128,7 +119,6 @@ verfolgt werden kann.
 Berücksichtigung von Belangen der Steueraufsicht bestimmen, dass
 bestimmte Räume und Flächen nicht in das Steuerlager einbezogen
 werden.
-
 
 ### § 4 Antrag auf Erlaubnis als Steuerlagerinhaber
 
@@ -172,7 +162,6 @@ Steuerbelange dadurch nicht beeinträchtigt werden.
 betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und
 3 eine Erweiterung der Erlaubnis.
 
-
 ### § 5 Erteilung der Erlaubnis
 
 (1) Das zuständige Hauptzollamt erteilt schriftlich unter
@@ -193,7 +182,6 @@ besteht und Belange der Steueraufsicht dem nicht entgegenstehen.
 (3) In den Fällen des § 4 Absatz 4 wird die Erlaubnis erweitert. Die
 Absätze 1 und 2 bleiben unberührt.
 
-
 ### § 6 Sicherheitsleistung
 
 (1) Die Höhe der Sicherheitsleistung wird durch das zuständige
@@ -206,7 +194,6 @@ Sicherheitsleistung bis zur Höhe des Steuerwerts des tatsächlichen
 Bestands im Steuerlager sowie der entstandenen, aber noch nicht
 entrichteten Steuer verlangen; § 221 der Abgabenordnung bleibt
 unberührt.
-
 
 ### § 7 Änderung von Verhältnissen
 
@@ -231,7 +218,6 @@ kann im Einzelfall hierzu Anordnungen treffen oder Ausnahmen zulassen.
 Wird der Betrieb eines Steuerlagers eingestellt, widerruft das
 zuständige Hauptzollamt die Erlaubnis nach § 5. Sofern die Erlaubnis
 mehrere Steuerlager umfasst, wird diese geändert.
-
 
 ### § 8 Erlöschen und Fortbestand der Erlaubnis
 
@@ -358,7 +344,6 @@ Hauptzollamt unverzüglich schriftlich anzuzeigen
 Entsprechendes gilt in den Fällen des Absatzes 1 Nummer 9 und 10 für
 den Steuerlagerinhaber.
 
-
 ### § 9 Belegheft, Buchführung
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das zuständige
@@ -378,7 +363,6 @@ insbesondere die Entnahmen in den steuerrechtlich freien Verkehr in
 der Lagerbuchführung für längstens einen Kalendermonat zusammengefasst
 aufgezeichnet werden.
 
-
 ### § 10 Vollständige Zerstörung und unwiederbringlicher Verlust
 
 Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden
@@ -387,7 +371,6 @@ dies dem zuständigen Hauptzollamt unverzüglich anzuzeigen und anhand
 betrieblicher Unterlagen nachzuweisen. Das zuständige Hauptzollamt
 kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung
 treffen.
-
 
 ### § 11 Bestandsaufnahme im Steuerlager
 
@@ -416,9 +399,7 @@ vorgeschriebenem Vordruck anzumelden und an der Bestandsaufnahme
 teilzunehmen. Er hat dafür zu sorgen, dass die Bestände mit möglichst
 geringem Aufwand festgestellt werden können.
 
-
 ## Abschnitt 4 - Zu § 7 des Gesetzes
-
 
 ### § 12 Registrierter Versender
 
@@ -471,9 +452,7 @@ vom registrierten Versender unverzüglich aufzuzeichnen.
 (6) Bei der Änderung der dargestellten Verhältnisse gilt § 7 und für
 das Erlöschen und den Fortbestand der Erlaubnis § 8 entsprechend.
 
-
 ## Abschnitt 5 - Zu den §§ 8 und 23 Absatz 1 Nummer 1 des Gesetzes
-
 
 ### § 13 Begünstigte, Ausstellen der Freistellungsbescheinigung
 
@@ -530,9 +509,7 @@ Diplomaten und konsularische Missionen empfangen wird, gilt § 17 der
 Zollverordnung in Verbindung mit den dazu ergangenen
 Verwaltungsvorschriften sinngemäß.
 
-
 ## Abschnitt 6 - Zu § 9 des Gesetzes
-
 
 ### § 14 Beförderungen im Steuergebiet
 
@@ -593,7 +570,6 @@ gilt, sobald er im Steuergebiet daran Besitz erlangt hat. Der
 Steuerlagerinhaber hat den Kaffee unverzüglich als Zu- und Abgang in
 das Lagerbuch einzutragen.
 
-
 ### § 15 Mitführen der Freistellungsbescheinigung
 
 Wird Kaffee unter Steueraussetzung im Steuergebiet zu Begünstigten im
@@ -601,7 +577,6 @@ Steuergebiet befördert, hat der Beförderer während der Beförderung
 eine dem Versender nach § 13 Absatz 1 Satz 2 ausgehändigte
 Ausfertigung der Freistellungsbescheinigung mitzuführen. Die erste
 Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
-
 
 ### § 16 Beförderungen in andere Mitgliedstaaten
 
@@ -651,7 +626,6 @@ registrierte Versender zusätzlich hierüber den Beleg zu führen durch:
 
 
 (3) § 14 Absatz 7 gilt entsprechend.
-
 
 ### § 17 Ausfuhr
 
@@ -727,7 +701,6 @@ tritt in diesen Fällen:
 
 (3) § 14 Absatz 7 gilt entsprechend.
 
-
 ### § 18 Art und Höhe der Sicherheitsleistung
 
 (1) Die Sicherheit für Beförderungen von Kaffee unter Steueraussetzung
@@ -748,9 +721,7 @@ freien Verkehr im Steuergebiet entstehen würde. Die Angemessenheit der
 Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu
 überprüfen.
 
-
 ## Abschnitt 7 - Zu den §§ 10 und 11 Absatz 3 des Gesetzes
-
 
 ### § 19 Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
@@ -765,18 +736,14 @@ unwiederbringlich verloren gegangen, hat der Beförderer dies dem
 Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen
 nachzuweisen.
 
-
 ## Abschnitt 8 - Zu den § 11 und 12 des Gesetzes
-
 
 ### § 20 Steueranmeldung
 
 Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach
 amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 9 - Zu § 156 Absatz 1 der Abgabenordnung
-
 
 ### § 21 Kleinbetragsregelung
 
@@ -784,9 +751,7 @@ Eine angemeldete oder festgesetzte Steuer wird vom Hauptzollamt nur
 abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung
 mindestens 10 Euro beträgt.
 
-
 ## Abschnitt 10 - Zu § 3 und den §§ 13 bis 15 des Gesetzes
-
 
 ### § 22 Anmeldung des Kaffees und der kaffeehatligen Waren
 
@@ -797,9 +762,7 @@ Besteuerung wesentlichen Merkmalen und nach dem Steuertarif
 anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach
 amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 11 - Zu den §§ 3 und 16 des Gesetzes
-
 
 ### § 23 Beförderungen zu privaten Zwecken
 
@@ -809,9 +772,7 @@ Zwecken in das Steuergebiet befördert, wird widerleglich vermutet,
 dass der Kaffee oder die kaffeehaltigen Waren zu gewerblichen Zwecken
 in das Steuergebiet befördert werden (§ 17 des Gesetzes).
 
-
 ## Abschnitt 12 - Zu den §§ 3 und 17 des Gesetzes
-
 
 ### § 24 Beförderungen zu gewerblichen Zwecken
 
@@ -824,7 +785,6 @@ Waren zu führen und diesen oder diese unverändert vorzuführen, wenn
 dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht
 erforderlich erscheint. Die Steueranmeldung nach § 17 Absatz 5 Satz 1
 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
-
 
 ### § 25 Nicht nur gelegentlicher Bezug zu gewerblichen Zwecken
 
@@ -848,15 +808,12 @@ aufzuzeichnen.
 den Fortbestand und das Erlöschen der Erlaubnis § 8 und für die
 Steueranmeldung und die Vorführpflicht § 24 entsprechend.
 
-
 ### § 26 Durchfuhr
 
 Die Anzeige nach § 17 Absatz 4 Satz 2 des Gesetzes ist vom Beförderer
 vor der Durchfuhr beim Hauptzollamt Stuttgart abzugeben.
 
-
 ## Abschnitt 13 - Zu den §§ 3 und 18 des Gesetzes
-
 
 ### § 27 Versandhandel, Beauftragter
 
@@ -891,9 +848,7 @@ treffen.
 (5) Die Steueranmeldung nach § 18 Absatz 5 Satz 2 und 6 des Gesetzes
 ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 14 - Zu den §§ 3 und 19 des Gesetzes
-
 
 ### § 28 Unregelmäßigkeiten während der Beförderung von Kaffee oder kaffeehaltigen Waren des zollrechtlich freien Verkehrs
 
@@ -906,15 +861,12 @@ Unterlagen nachzuweisen.
 (2) Die Steueranmeldung nach § 19 Absatz 3 Satz 2 des Gesetzes ist
 nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
 ## Abschnitt 15 - Zu § 20 des Gesetzes
-
 
 ### § 29 Rohkaffeehändler
 
 Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20
 Absatz 1 Nummer 4 des Gesetzes gleichgestellt.
-
 
 ### § 30 Steuerbefreiung für den Bezug von Kaffee zur Herstellung kaffeehaltiger Waren
 
@@ -970,9 +922,7 @@ Hauptzollamts zu führen.
 (8) Dem steuerfreien Bezug steht die steuerfreie Entnahme des Kaffees
 aus der eigenen Herstellung gleich.
 
-
 ## Abschnitt 16 - Zu § 21 des Gesetzes
-
 
 ### § 31 Aufnahme von versteuertem Kaffee in ein Steuerlager
 
@@ -990,7 +940,6 @@ anderen Verkäufers nach amtlich vorgeschriebenem Vordruck vorzulegen.
 
 (3) Die Anträge auf Steuerentlastung nach § 21 Absatz 1 des Gesetzes
 werden in der Steueranmeldung (§ 20) des Steuerlagerinhabers gestellt.
-
 
 ### § 32 Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
 
@@ -1045,7 +994,6 @@ längeren Zeitraum, höchstens jedoch ein Kalenderjahr, oder einen
 kürzeren Zeitraum, mindestens jedoch einen Kalendermonat, als
 Erstattungs- oder Vergütungsabschnitt zulassen.
 
-
 ### § 33 Nachweis der Ausfuhr bei Lieferungen in Drittländer oder Drittgebiete
 
 (1) In Fällen, in denen der Inhaber der Erlaubnis (§ 30) oder des
@@ -1084,7 +1032,6 @@ muss:
 
 
 (2) § 17 Absatz 2 bis 4 gilt entsprechend.
-
 
 ### § 34 Nachweis bei Lieferung an einen Empfänger in einem anderen Mitgliedstaat
 
@@ -1145,12 +1092,7 @@ oder des Zusagescheins zusätzlich hierüber den Beleg zu führen durch:
     oder die kaffeehaltigen Waren in einen anderen Mitgliedstaat zu
     liefern.
 
-
-
-
-
 ## Abschnitt 17 - Zu § 23 Absatz 1 Nummer 1 des Gesetzes
-
 
 ### § 35 Verbrauch durch diplomatische oder konsularische Vertretungen
 
@@ -1221,9 +1163,7 @@ genannten ausländischen Vertretungen vergütet wird, wenn die
 Entsendestaaten diplomatische oder konsularische Vertretungen in der
 Bundesrepublik Deutschland nicht unterhalten.
 
-
 ## Abschnitt 18 - Zu § 20 Absatz 1 und den §§ 3 und 21 Ab-satz 2 des Gesetzes
-
 
 ### § 36 Vernichtung von Kaffee und kaffeehaltigen Waren, Steueraufsicht
 
@@ -1241,9 +1181,7 @@ erlassen oder vergütet. Das für den Betrieb zuständige Hauptzollamt (§
 Verfahren bei der Vernichtung unter Steueraufsicht gilt Absatz 1
 entsprechend.
 
-
 ## Abschnitt 19 - Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung
-
 
 ### § 37 Probenentnahme im Rahmen der Steueraufsicht
 
@@ -1257,9 +1195,7 @@ auszustellen. Auf Anforderung des zuständigen Hauptzollamts haben
 Inhaber von Erlaubnissen oder Zusagescheinen zu Untersuchungszwecken
 unentgeltlich Proben zur Verfügung zu stellen.
 
-
 ## Abschnitt 20 - Zu § 23 Absatz 1 Nummer 4 des Gesetzes
-
 
 ### § 38 Elektronische Datenübermittlung im Besteuerungsverfahren, Allgemeines
 
@@ -1284,14 +1220,12 @@ Verschlüsselungsverfahren anzuwenden.
 (4) Die Pflichten der Programmhersteller nach den §§ 40 und 41 sind
 ausschließlich öffentlich-rechtlicher Art.
 
-
 ### § 39 Schnittstellen
 
 Bei der elektronischen Datenübermittlung sind die hierfür vom
 Bundesministerium der Finanzen bestimmten Schnittstellen ordnungsgemäß
 zu bedienen. Die für die Übermittlung benötigten Schnittstellen werden
 über das Internet zur Verfügung gestellt.
-
 
 ### § 40 Anforderungen an die Programme
 
@@ -1305,7 +1239,6 @@ Besteuerungsverfahren erforderlichen Daten gewährleisten.
 richtige und vollständige Erhebung, Verarbeitung und Übermittlung
 ausnahmsweise nicht möglich ist (Ausschlussfälle), ist in der
 Programmbeschreibung an hervorgehobener Stelle hinzuweisen.
-
 
 ### § 41 Prüfung der Programme
 
@@ -1338,7 +1271,6 @@ Prüfungsstelle ist nicht verpflichtet, die Programme zu prüfen.
 hat der Hersteller der Prüfungsstelle auf Verlangen Muster zum Zweck
 der Prüfung kostenfrei zur Verfügung zu stellen.
 
-
 ### § 42 Haftung
 
 (1) Der Hersteller von Programmen, die für die Verarbeitung von für
@@ -1355,7 +1287,6 @@ unrichtiger oder unvollständiger Übermittlung Steuern vorsätzlich oder
 grob fahrlässig verkürzt oder zu Unrecht steuerliche Vorteile erlangt
 werden.
 
-
 ### § 43 Authentifizierung, Datenübermittlung im Auftrag
 
 (1) Bei der elektronischen Datenübermittlung ist grundsätzlich eine
@@ -1371,9 +1302,7 @@ der Dritte die Daten dem Auftraggeber unverzüglich in leicht
 nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
 Auftraggeber hat die Daten unverzüglich zu überprüfen.
 
-
 ## Abschnitt 21 - Zu § 381 Absatz 1 der Abgabenordnung
-
 
 ### § 44 Ordnungswidrigkeiten
 

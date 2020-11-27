@@ -26,12 +26,10 @@ für die Sicherheit und den Gesundheitsschutz (Achte
 Einzelrichtlinie im Sinne des Artikels 16 Abs. 1 der
 Richtlinie 89/391/EWG) (ABl. EG Nr. L 245 S. 6).
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl.
 I S. 1246) verordnet die Bundesregierung:
-
 
 ## § 1 Ziele, Begriffe
 
@@ -45,7 +43,6 @@ Sinne des § 2 des Bundesberggesetzes.
 Bauvorhaben ausgeführt wird. Ein Bauvorhaben ist das Vorhaben, eine
 oder mehrere bauliche Anlagen zu errichten, zu ändern oder
 abzubrechen.
-
 
 ## § 2 Planung der Ausführung des Bauvorhabens
 
@@ -83,7 +80,6 @@ erkennen lassen und besondere Maßnahmen für die besonders gefährlichen
 Arbeiten nach Anhang II enthalten. Erforderlichenfalls sind bei
 Erstellung des Planes betriebliche Tätigkeiten auf dem Gelände zu
 berücksichtigen.
-
 
 ## § 3 Koordinierung
 
@@ -133,16 +129,11 @@ Koordinator
 5.  die Überwachung der ordnungsgemäßen Anwendung der Arbeitsverfahren
     durch die Arbeitgeber zu koordinieren.
 
-
-
-
-
 ## § 4 Beauftragung
 
 Die Maßnahmen nach § 2 und § 3 Abs. 1 Satz 1 hat der Bauherr zu
 treffen, es sei denn, er beauftragt einen Dritten, diese Maßnahmen in
 eigener Verantwortung zu treffen.
-
 
 ## § 5 Pflichten der Arbeitgeber
 
@@ -181,7 +172,6 @@ Sprache über die sie betreffenden Schutzmaßnahmen zu informieren.
 Arbeitsschutzpflichten wird durch die Maßnahmen nach den §§ 2 und 3
 nicht berührt.
 
-
 ## § 6 Pflichten sonstiger Personen
 
 Zur Gewährleistung von Sicherheit und Gesundheitsschutz der
@@ -191,7 +181,6 @@ Arbeitsschutzvorschriften einzuhalten. Sie haben die Hinweise des
 Koordinators sowie den Sicherheits- und Gesundheitsschutzplan zu
 berücksichtigen. Die Sätze 1 und 2 gelten auch für Arbeitgeber, die
 selbst auf der Baustelle tätig sind.
-
 
 ## § 7 Ordnungswidrigkeiten und Strafvorschriften
 
@@ -214,7 +203,6 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des
 Arbeitsschutzgesetzes strafbar.
 
-
 ## § 8 Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
@@ -223,11 +211,9 @@ folgenden Kalendermonats in Kraft.
 (2) Für Bauvorhaben, mit deren Ausführung bereits vor dem 1. Juli 1998
 begonnen worden ist, bleiben die bisherigen Vorschriften maßgebend.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang I
 
@@ -260,10 +246,6 @@ Fundstelle des Originaltextes: BGBl. I 1998, 1285
 
 9.  Angabe der bereits ausgewählten Arbeitgeber und Unternehmer ohne
     Beschäftigte.
-
-
-
-
 
 ## Anhang II
 

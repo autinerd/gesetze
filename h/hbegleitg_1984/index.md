@@ -20,146 +20,117 @@ Fundstelle
 Geändert durch
 :   Art. 31 G v. 8.5.2008 I 810
 
-
 ## Art 1 Änderung der Reichsversicherungsordnung
 
 -
-
 
 ## Art 2 Änderung des Angestelltenversicherungsgesetzes
 
 -
 
-
 ## Art 3 Änderung des Reichsknappschaftsgesetzes
 
 -
-
 
 ## Art 4 Änderung des Arbeiterrentenversicherungs-Neuregelungsgesetzes
 
 -
 
-
 ## Art 5 Änderung des Angestelltenversicherungs-Neuregelungsgesetzes
 
 -
-
 
 ## Art 6 Änderung des Knappschaftsrentenversicherungs-Neuregelungsgesetzes
 
 -
 
-
 ## Art 7 Änderung des Gesetzes über die Sozialversicherung Behinderter
 
 -
-
 
 ## Art 8 Änderung des Ersten Buches Sozialgesetzbuch
 
 -
 
-
 ## Art 9 Änderung des Vierten Buches Sozialgesetzbuch
 
 -
-
 
 ## Art 10 Änderung des Zehnten Buches Sozialgesetzbuch
 
 -
 
-
 ## Art 11 Änderung des Fremdrentengesetzes
 
 -
-
 
 ## Art 12 Änderung des Gesetzes über eine Altershilfe für Landwirte
 
 -
 
-
 ## Art 13 Änderung des Gesetzes zur Neuregelung der Altershilfe für Landwirte
 
 -
-
 
 ## Art 14 Änderung des Gesetzes über die Krankenversicherung der Landwirte
 
 -
 
-
 ## Art 15 Änderung des Handwerkerversicherungsgesetzes
 
 -
-
 
 ## Art 16 Änderung des Bundesversorgungsgesetzes
 
 -
 
-
 ## Art 17 Änderung des Arbeitsförderungsgesetzes
 
 -
-
 
 ## Art 18 Änderung des Mutterschutzgesetzes
 
 -
 
-
 ## Art 19 Änderung des Gesetzes über die Angleichung der Leistungen zur Rehabilitation
 
 -
-
 
 ## Art 20 Änderung des Schwerbehindertengesetzes
 
 -
 
-
 ## Art 21 Änderung des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
 
 -
-
 
 ## Art 22 Aufhebung von Vorschriften
 
 -
 
-
 ## Art 23 Änderung des Krankenhausfinanzierungsgesetzes
 
 -
-
 
 ## Art 24 Änderung des Krankenversicherungs-Kostendämpfungsgesetzes
 
 -
 
-
 ## Art 25 Änderung des Arbeitsplatzschutzgesetzes
 
 -
-
 
 ## Art 26 Änderung des Bundessozialhilfegesetzes
 
 -
 
-
 ## Art 27 Änderung des Gesetzes für Jugendwohlfahrt (JWG)
 
 -
 
-
 ## Art 28 Änderung des Bundeskindergeldgesetzes
 
 -
-
 
 ## Art 29 Aufhebung des Graduiertenförderungsgesetzes
 
@@ -184,7 +155,6 @@ Bundesausbildungsförderungsgesetzes festgesetzten Beträge; dabei ist
 das Einkommen abweichend von der Regelung des § 20 Abs. 3 der
 Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
 
-
 ## Art 30 Gesetz zur Änderung besoldungsrechtlicher Vorschriften
 
 1\.
@@ -205,11 +175,9 @@ erfolgen konnte.
 (2) Absatz 1 gilt entsprechend für Beamte auf Widerruf im
 Vorbereitungsdienst hinsichtlich Nummer 3.
 
-
 ## Art 31 Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
 
 -
-
 
 ## Art 32 Änderung des Beamtenversorgungsgesetzes
 
@@ -222,7 +190,6 @@ Zeitpunkt zustehenden Betrages weitergewährt. Allgemeine Erhöhungen
 der den Versorgungsbezügen zugrunde liegenden ruhegehaltfähigen
 Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
-
 ## Art 33 Änderung des Gesetzes über das Bundesverfassungsgericht
 
 (1)
@@ -230,7 +197,6 @@ Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 (2) Artikel 32 Abs. 2 gilt entsprechend.
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
-
 
 ## Art 34 Änderung des Soldatenversorgungsgesetzes
 
@@ -245,26 +211,21 @@ Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-
 ## Art 35 Änderung des 2. Haushaltsstrukturgesetzes
 
 -
-
 
 ## Art 36 Änderung des Investitionshilfegesetzes
 
 -
 
-
 ## Art 37 Änderung des Städtebauförderungsgesetzes
 
 -
 
-
 ## Art 38 (weggefallen)
 
 -
-
 
 ## Art 39 Inkrafttreten
 

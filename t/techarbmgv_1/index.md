@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 8.11.2011 I 2178
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 Nr. 1 des Gesetzes über technische
@@ -28,7 +27,6 @@ Arbeitsmittel vom 24. Juni 1968 (BGBl. I S. 717), wird nach Anhörung
 des Ausschusses für technische Arbeitsmittel im Einvernehmen mit dem
 Bundesminister für Wirtschaft und mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1
 
@@ -66,7 +64,6 @@ Gebrauchsgegenstände oder Teile von diesen handelt. Sie gilt nicht für
 
 Sie gilt ferner nicht für die Funkentstörung elektrischer
 Betriebsmittel.
-
 
 ## § 2
 
@@ -148,13 +145,6 @@ Sicherheitsgrundsätzen entsprechend beschaffen sein:
     c)  bei den vorgesehenen Überlastungen Menschen, Nutztiere oder Sachen
         nicht gefährden.
 
-
-
-
-
-
-
-
 ## § 3
 
 (1) Elektrische Betriebsmittel dürfen nur auf dem Markt bereitgestellt
@@ -202,10 +192,6 @@ zuständigen Behörden bereitgehalten werden:
 2.  die technischen Unterlagen gemäß Anhang IV Nr. 3 der Richtlinie
     2006/95/EG.
 
-
-
-
-
 ## § 4
 
 Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
@@ -216,10 +202,6 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 2.  entgegen § 3 Absatz 4 dort genannte Unterlagen nicht bereithält.
-
-
-
-
 
 ## Schlußformel
 

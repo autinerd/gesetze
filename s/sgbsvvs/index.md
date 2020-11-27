@@ -18,45 +18,28 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 67 Nr. 2 G v. 21.12.2000 I 1983
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I - Viertes Buch (IV) Gemeinsame Vorschriften für die Sozialversicherung
-
-
 
 ## Art II - Übergangs- und Schlußvorschriften
 
-
-
 ### Erster Abschnitt
-
-
 
 ### (XXXX) §§ 1 bis 13 (weggefallen)
 
-
-
 ### Zweiter Abschnitt - Überleitungsvorschriften
-
-
 
 ### (XXXX) §§ 14 bis 19 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 20
 
 (weggefallen)
-
 
 ### § 21 Inkrafttreten
 
@@ -88,10 +71,6 @@ e)  in Artikel II § 3 Nr. 1 Buchstabe a die § 113 Satz 2 und 3 und § 155
 
 
 f)  in Artikel II § 5 Nr. 1 der § 68 Abs. 1.
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1047) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

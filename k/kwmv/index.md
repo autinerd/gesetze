@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 33 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 12a Abs. 1 Satz 1 des Gesetzes über die Kontrolle von
@@ -28,7 +27,6 @@ Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990
 und auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten
 in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S.
 602) verordnet das Bundesministerium für Wirtschaft:
-
 
 ## § 1 Allgemeine Meldepflichten
 
@@ -44,7 +42,6 @@ Verwendungszweck und das Bestimmungsland zu melden.
 (2) Die Meldungen sind spätestens bis zum Ablauf der sechsten Woche
 eines Kalenderjahres für das vorangegangene Kalenderjahr, erstmals für
 das Jahr 1994, zu erstatten.
-
 
 ## § 2 Meldepflichtige Kriegswaffen
 
@@ -91,7 +88,6 @@ Meldepflicht:
 zerlegte Kriegswaffen nach Absatz 1. Werden Kriegswaffenteile nach und
 nach ein- oder ausgeführt, unterliegt die Gesamtwaffe der
 Meldepflicht, wenn das letzte Teil ein- oder ausgeführt wird.
-
 
 ## § 3 Meldepflichten nach § 7 des Ausführungsgesetzes zum Übereinkommen über das Verbot des Einsatzes, der Lagerung, der Herstellung und der Weitergabe von Antipersonenminen und über deren Vernichtung vom 3. Dezember 1997
 
@@ -152,7 +148,6 @@ erstmals am 28. Juni 1999 abzugeben.
 
 (4) § 2 Abs. 2 Satz 1 dieser Verordnung gilt entsprechend.
 
-
 ## § 4 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 22b Abs. 1 Nr. 3a des Gesetzes über die
@@ -160,18 +155,15 @@ Kontrolle von Kriegswaffen handelt, wer vorsätzlich oder fahrlässig
 entgegen § 1 eine Meldung nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig erstattet.
 
-
 ## § 5 Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 4 wird auf das Bundesamt für Wirtschaft
 und Ausfuhrkontrolle (BAFA) übertragen.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## § 6 Inkrafttreten
 

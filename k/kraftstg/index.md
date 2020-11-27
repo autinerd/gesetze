@@ -34,10 +34,6 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     Emissionen von Kraftfahrzeugen und zur Änderung der Richtlinie
     70/220/EWG des Rates (ABl. EG Nr. L 350 S. 1).
 
-
-
-
-
 ## § 1 Steuergegenstand
 
 (1) Der Kraftfahrzeugsteuer unterliegt
@@ -71,7 +67,6 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 (2) Auf die Kraftfahrzeugsteuer sind diejenigen Vorschriften der
 Abgabenordnung anzuwenden, die für andere Steuern als Zölle und
 Verbrauchsteuern gelten.
-
 
 ## § 2 Begriffsbestimmungen, Mitwirkung der Verkehrsbehörden
 
@@ -108,7 +103,6 @@ verkehrsrechtlich vorgeschriebene Zulassung benutzt wird. Eine
 Besteuerung wegen widerrechtlicher Benutzung entfällt, wenn das Halten
 des Fahrzeugs von der Steuer befreit sein würde oder die Besteuerung
 bereits nach § 1 Abs. 1 Nr. 1 oder 2 vorgenommen worden ist.
-
 
 ## § 3 Ausnahmen von der Besteuerung
 
@@ -300,10 +294,6 @@ Von der Steuer befreit ist das Halten von
     zum vorübergehenden Aufenthalt in das Grenzgebiet gelangen.
     Voraussetzung ist, dass Gegenseitigkeit gewährt wird.
 
-
-
-
-
 ## § 3a Vergünstigungen für Schwerbehinderte
 
 (1) Von der Steuer befreit ist das Halten von Kraftfahrzeugen, solange
@@ -338,7 +328,6 @@ die gelegentliche Mitbeförderung) oder durch andere Personen zu
 Fahrten benutzt wird, die nicht im Zusammenhang mit der Fortbewegung
 oder der Haushaltsführung der behinderten Personen stehen.
 
-
 ## § 3b Steuerbefreiung für besonders schadstoffreduzierte Personenkraftwagen mit Selbstzündungsmotor
 
 (1) Das Halten von Personenkraftwagen mit Selbstzündungsmotor ist
@@ -368,7 +357,6 @@ Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
 
 (6) Die Steuerbefreiung gilt nicht für Kennzeichen im Sinne des § 1
 Absatz 1 Nummer 4 Satz 1.
-
 
 ## § 3c Steuerbefreiung für besonders partikelreduzierte Personenkraftwagen
 
@@ -419,7 +407,6 @@ Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
 (5) Die Steuerbefreiung gilt nicht für Kennzeichen im Sinne des § 1
 Abs. 1 Nr. 4 Satz 1.
 
-
 ## § 3d Steuerbefreiung für Elektrofahrzeuge
 
 (1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im
@@ -442,9 +429,7 @@ neuen Halter gewährt.
 außerhalb des auf einem Saisonkennzeichen angegebenen
 Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
 
-
 ## (XXXX) §§ 3e bis 3h (weggefallen)
-
 
 ## § 4 Erstattung der Steuer bei Beförderungen von Fahrzeugen mit der Eisenbahn
 
@@ -477,7 +462,6 @@ Steuer erfüllt sind, ist für jedes Fahrzeug durch fortlaufende
 Aufzeichnungen über Beförderungen mit der Eisenbahn zu erbringen,
 deren Richtigkeit für jede Fahrt von der Eisenbahn zu bescheinigen
 ist.
-
 
 ## § 5 Dauer der Steuerpflicht
 
@@ -551,13 +535,11 @@ Zulassungsbehörde eingeht, spätestens mit der Aushändigung des neuen
 Fahrzeugscheins an den Erwerber; gleichzeitig beginnt die
 Steuerpflicht für den Erwerber.
 
-
 ## § 6 Entstehung der Steuer
 
 Die Steuer entsteht mit Beginn der Steuerpflicht, bei fortlaufenden
 Entrichtungszeiträumen mit Beginn des jeweiligen
 Entrichtungszeitraums.
-
 
 ## § 7 Steuerschuldner
 
@@ -577,10 +559,6 @@ Steuerschuldner ist
 
 4.  bei einem Kennzeichen im Sinne des § 1 Abs. 1 Nr. 4 die Person, der
     das Kennzeichen zugeteilt ist.
-
-
-
-
 
 ## § 8 Bemessungsgrundlage
 
@@ -627,10 +605,6 @@ Die Steuer bemisst sich
     verkehrsrechtlich zulässige Gesamtgewicht ist bei Sattelanhängern um
     die Aufliegelast und bei Starrdeichselanhängern einschließlich
     Zentralachsanhängern um die Stützlast zu vermindern.
-
-
-
-
 
 ## § 9 Steuersatz
 
@@ -1395,7 +1369,6 @@ nach § 11 Abs. 3 und der Entrichtung für einen nach Tagen berechneten
 Zeitraum nach § 11 Abs. 4 Nr. 1 sowie nach § 11 Abs. 4 Nr. 2, soweit
 die Mindestbesteuerung vorgeschrieben ist.
 
-
 ## § 9a Zuschlag für Personenkraftwagen mit Selbstzündungsmotor
 
 (1) Für Personenkraftwagen mit Selbstzündungsmotor erhöht sich in der
@@ -1408,7 +1381,6 @@ entspricht.
 
 (2) Der Zuschlag gilt nicht für Kennzeichen im Sinne des § 1 Abs. 1
 Nr. 4 Satz 1.
-
 
 ## § 10 Sonderregelung für Kraftfahrzeuganhänger
 
@@ -1439,7 +1411,6 @@ die Steuer nicht erhoben wird, hinter anderen als den nach Absatz 1
 zulässigen Kraftfahrzeugen verwendet, so ist die Steuer zu entrichten,
 solange die bezeichnete Verwendung dauert, mindestens jedoch für einen
 Monat.
-
 
 ## § 10a Sonderregelungen für Personenkraftwagen
 
@@ -1486,7 +1457,6 @@ Steuervergünstigungen.
 
 (7) Die Steuervergünstigungen gelten nicht für Kennzeichen im Sinne
 des § 1 Abs. 1 Nr. 4 Satz 1.
-
 
 ## § 11 Entrichtungszeiträume
 
@@ -1561,7 +1531,6 @@ Jahressteuer; der 29. Februar wird in Schaltjahren nicht mitgerechnet.
 (5) Die zu entrichtende Steuer ist in den Fällen der Absätze 1 bis 4
 auf volle Euro nach unten abzurunden.
 
-
 ## § 12 Steuerfestsetzung
 
 (1) Die Steuer wird, wenn der Zeitpunkt der Beendigung der
@@ -1633,9 +1602,7 @@ Behörde; es darf fehlerhafte Steuerfestsetzungen der Zulassungsbehörde
 aufheben oder ändern und unterbliebene Steuerfestsetzungen selbst
 vornehmen.
 
-
 ## (XXXX) §§ 12a und 12b (weggefallen)
-
 
 ## § 13 Feststellung der Besteuerungsgrundlagen und Nachweis der Besteuerung
 
@@ -1741,7 +1708,6 @@ Kraftfahrzeugsteuer enthält, und dabei
 zu bestimmen. Für den automatisierten Abruf der Daten gilt § 30 Absatz
 6 der Abgabenordnung.
 
-
 ## § 14 Abmeldung von Amts wegen
 
 (1) Ist die Steuer nicht entrichtet worden, so hat die
@@ -1755,7 +1721,6 @@ schriftlichen Verwaltungsakt (Abmeldungsbescheid).
 (2) Die Durchführung der Abmeldung von Amts wegen richtet sich nach
 dem Verwaltungsverfahrensgesetz. Für Streitigkeiten über Abmeldungen
 von Amts wegen ist der Verwaltungsrechtsweg gegeben.
-
 
 ## § 15 Ermächtigungen
 
@@ -1832,7 +1797,6 @@ zu machen. Dabei dürfen Unstimmigkeiten des Wortlauts beseitigt und
 die in der Durchführungsverordnung vorgesehenen Vordruckmuster
 geändert werden.
 
-
 ## § 16 Aussetzung der Steuer
 
 Das Bundesministerium der Finanzen kann die Erhebung der Steuer bei
@@ -1841,7 +1805,6 @@ Staat, in dem die Fahrzeuge zugelassen sind, Verhandlungen über ein
 Abkommen zum gegenseitigen Verzicht auf die Kraftfahrzeugsteuer
 aufgenommen worden sind. Die Anordnung ist im Bundesanzeiger bekannt
 zu machen.
-
 
 ## § 17 Sonderregelung für bestimmte Behinderte
 
@@ -1854,7 +1817,6 @@ war, gelten im Sinne des § 3a Abs. 1 dieses Gesetzes ohne weiteren
 Nachweis als außergewöhnlich gehbehindert, solange nicht nur
 vorübergehend ein Grad der Behinderung von wenigstens 50 vom Hundert
 vorliegt.
-
 
 ## § 18 Übergangsregelung
 

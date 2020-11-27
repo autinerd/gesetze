@@ -30,10 +30,6 @@ Fundstelle
     18\. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom
     30\.6.2009, S. 1).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 1 des Geräte- und Produktsicherheitsgesetzes
@@ -47,7 +43,6 @@ Ernährung, Landwirtschaft und Verbraucherschutz, dem Bundesministerium
 für Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium
 der Verteidigung und dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -83,7 +78,6 @@ gelten nicht als Spielzeuge im Sinne dieser Verordnung.
 und § 105 der Strahlenschutzverordnung sowie die besonderen
 Anforderungen an die Verwendung bestimmter Stoffe in Spielzeugen nach
 § 5 des Elektro- und Elektronikgesetzes bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -249,10 +243,6 @@ Im Sinne dieser Verordnung
     können, dass es zur Verwendung durch Kinder der angegebenen
     Altersgruppe bestimmt ist.
 
-
-
-
-
 ## § 3 Allgemeine Pflichten der Hersteller
 
 (1) Die Hersteller dürfen nur solches Spielzeug in den Verkehr
@@ -298,7 +288,6 @@ Spielzeug auf dem Markt bereitgestellt haben, darüber zu unterrichten
 und dabei die erforderlichen Angaben, insbesondere über die
 Nichtkonformität und die ergriffenen Korrekturmaßnahmen, zu machen.
 
-
 ## § 4 Besondere Kennzeichnungs- und Informationspflichten der Hersteller
 
 (1) Die Hersteller sind dafür verantwortlich, dass ihre Spielzeuge zur
@@ -333,7 +322,6 @@ zur Verfügung zu stellen, die für Maßnahmen zur Abwendung von Risiken
 erforderlich sind, die mit Spielzeugen verbunden sind, die sie in den
 Verkehr gebracht haben.
 
-
 ## § 5 Pflichten des Bevollmächtigten
 
 (1) Ein Hersteller kann schriftlich einen Bevollmächtigten benennen.
@@ -363,7 +351,6 @@ einsetzt, muss diesem mindestens die folgenden Aufgaben übertragen:
 (3) Die Verpflichtungen gemäß § 3 Absatz 1 und die Erstellung der
 technischen Unterlagen gemäß § 17 können vom Hersteller nicht auf
 einen Bevollmächtigten übertragen werden.
-
 
 ## § 6 Pflichten der Einführer
 
@@ -413,7 +400,6 @@ technischen Unterlagen auf Verlangen vorlegen können.
 Einführer entsprechend. § 4 Absatz 2 Satz 1 gilt für den Einführer
 entsprechend.
 
-
 ## § 7 Pflichten der Händler
 
 (1) Händler müssen die geltenden Anforderungen an die Vermarktung von
@@ -461,7 +447,6 @@ auszuhändigen, die für den Nachweis der Konformität des Spielzeugs
 erforderlich sind. § 4 Absatz 4 Satz 3 und § 6 Absatz 3 gelten für den
 Händler entsprechend.
 
-
 ## § 8 Umstände, unter denen die Pflichten des Herstellers auch für Einführer und Händler gelten
 
 Ein Einführer oder Händler gilt für die Zwecke dieser Verordnung als
@@ -470,7 +455,6 @@ Hersteller und unterliegt den Verpflichtungen für Hersteller gemäß den
 seiner eigenen Marke in den Verkehr bringt oder ein bereits auf dem
 Markt befindliches Spielzeug so verändert, dass die Übereinstimmung
 mit den geltenden Anforderungen beeinträchtigt werden kann.
-
 
 ## § 9 Identifizierung der Wirtschaftsakteure
 
@@ -489,7 +473,6 @@ Zeitraum von zehn Jahren ab dem Inverkehrbringen bereithalten. Die
 übrigen Wirtschaftsakteure müssen die in Satz 1 genannten
 Informationen über einen Zeitraum von zehn Jahren nach dem Bezug des
 Spielzeugs bereithalten.
-
 
 ## § 10 Wesentliche Sicherheitsanforderungen
 
@@ -549,7 +532,6 @@ auf dem Markt bereitgestellt werden.
 Sicherheitsanforderungen während seiner vorhersehbaren und normalen
 Gebrauchsdauer erfüllen.
 
-
 ## § 11 Warnhinweise
 
 (1) Wenn es für den sicheren Gebrauch des Spielzeugs angemessen ist,
@@ -586,7 +568,6 @@ abgeschlossen wird.
 (5) Warn- und Sicherheitshinweise sind in deutscher Sprache
 abzufassen.
 
-
 ## § 12 EG-Konformitätserklärung
 
 (1) Die EG-Konformitätserklärung besagt, dass die Erfüllung der
@@ -615,7 +596,6 @@ Verkehr gebracht oder auf dessen Markt es bereitgestellt wird.
 (3) Mit der Ausstellung der EG-Konformitätserklärung übernimmt der
 Hersteller die Verantwortung für die Konformität des Spielzeugs.
 
-
 ## § 13 CE-Kennzeichnung
 
 (1) Auf dem Markt bereitgestelltes Spielzeug muss die CE-Kennzeichnung
@@ -639,7 +619,6 @@ in den Verkehr gebracht wird. Nach der CE-Kennzeichnung kann ein
 Piktogramm oder ein anderes Zeichen stehen, das auf ein besonderes
 Risiko oder eine besondere Verwendung hinweist.
 
-
 ## § 14 Sicherheitsbewertung
 
 Die Hersteller führen vor dem Inverkehrbringen eines Spielzeugs eine
@@ -648,7 +627,6 @@ Gefahren sowie der Entflammbarkeits-, Hygiene- und
 Radioaktivitätsgefahren durch, die von dem Spielzeug ausgehen können,
 sowie eine Bewertung, in welchem Umfang die Benutzer diesen Gefahren
 ausgesetzt sein würden.
-
 
 ## § 15 Anzuwendende Konformitätsbewertungsverfahren
 
@@ -686,10 +664,6 @@ Anhang II Modul C des Beschlusses Nr. 768/2008/EG unterzogen, wenn
 4.  der Hersteller der Ansicht ist, dass Art, Gestaltung, Konstruktion
     oder Zweckbestimmung des Spielzeugs eine Überprüfung durch Dritte
     erfordern.
-
-
-
-
 
 ## § 16 EG-Baumusterprüfung
 
@@ -730,7 +704,6 @@ Baumusterprüfverfahren werden in deutscher Sprache oder einer anderen
 von der notifizierten Konformitätsbewertungsstelle akzeptierten
 Sprache abgefasst.
 
-
 ## § 17 Technische Unterlagen
 
 (1) Die in § 3 Absatz 2 erwähnten technischen Unterlagen müssen
@@ -757,13 +730,11 @@ Prüfung durchführen lässt, um die Einhaltung der harmonisierten Normen
 und die Erfüllung der wesentlichen Sicherheitsanforderungen zu
 überprüfen.
 
-
 ## § 18 Vorsorgeprinzip
 
 Ergreifen die zuständigen Behörden in dieser Verordnung geregelten
 Maßnahmen oder allgemeine Marktüberwachungsmaßnahmen so haben sie dem
 Vorsorgeprinzip in gebührender Weise Rechnung zu tragen.
-
 
 ## § 19 Anweisungen an notifizierte Konformitätsbewertungsstellen
 
@@ -784,7 +755,6 @@ Spielzeug zurückzunehmen.
 Konformitätsbewertungsstelle erforderlichenfalls, insbesondere in den
 in § 16 Absatz 4 Satz 2 und 3 genannten Fällen an, die EG-
 Baumusterprüfbescheinigung zu überprüfen.
-
 
 ## § 20 Behandlung von Spielzeug, mit dem ein Risiko verbunden ist
 
@@ -858,10 +828,6 @@ beinhaltet insbesondere
 
 6.  die Argumente des betroffenen Wirtschaftsakteurs.
 
-
-
-
-
 ## § 21 Informationsaustausch
 
 Handelt es sich bei einer in § 20 Absatz 3 genannten Maßnahme um eine
@@ -881,10 +847,6 @@ erforderlich, wenn:
 2.  die in § 20 Absatz 4 genannten Belege der Meldung gemäß § 9 Absatz 2
     Satz 3 des Geräte- und Produktsicherheitsgesetzes beiliegen.
 
-
-
-
-
 ## § 22 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 1 Buchstabe b des
@@ -892,7 +854,6 @@ Geräte- und Produktsicherheitsgesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 4 Absatz 2 Satz 1, auch in Verbindung mit § 6
 Absatz 5 Satz 2, eine Angabe nicht, nicht richtig, nicht vollständig
 oder nicht rechtzeitig macht.
-
 
 ## § 23 Übergangvorschriften
 
@@ -907,14 +868,12 @@ Angleichung der Rechtsvorschriften der Mitgliedstaaten über die
 Sicherheit von Spielzeug (ABl. L 187 vom 16.7.1988, S. 1), in ihrer
 bis 20. Juli 2011 geltenden Fassung anzuwenden.
 
-
 ## § 24 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 20. Juli 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Sicherheit von Spielzeug vom 21. Dezember 1989
 (BGBl. I S. 2541), die zuletzt durch Artikel 6 Absatz 2 der Verordnung
 vom 6. März 2007 (BGBl. I S. 261) geändert worden ist, außer Kraft.
-
 
 ## Schlussformel
 

@@ -146,10 +146,6 @@ Stand: Die zugehörige V v. 25.5.2012 BAnz AT 31.05.2012 V2 (MalerArbV 6) tritt 
     verfügen, wird vorausgesetzt, dass sie Tätigkeiten im Sinne des Satzes
     1 ausüben.
 
-
-
-
-
 ## § 3 Lohn der Baustelle und bei auswärtiger Beschäftigung
 
 Es gilt der Mindestlohn der Arbeitsstelle (Baustelle). Auswärts
@@ -158,7 +154,6 @@ den Mindestlohn ihres Einstellungsortes (Betriebssitz). Ist der
 Mindestlohn der auswärtigen Arbeitsstelle höher, so haben die
 Arbeitnehmer Anspruch auf den höheren Mindestlohn der Arbeitsstelle,
 solange sie auf dieser Arbeitsstelle tätig sind.
-
 
 ## § 4 Fälligkeit des Mindestlohnes
 
@@ -365,10 +360,6 @@ solange sie auf dieser Arbeitsstelle tätig sind.
 
 8.  Der Arbeitgeber hat in geeigneter Weise dafür zu sorgen, dass Guthaben
     jederzeit bestimmungsgemäß ausgezahlt werden können.
-
-
-
-
 
 ## Anhang 2 Tätigkeitsbeispiele für Facharbeiten im Sinne von § 2 Nummer 3 Satz 1
 

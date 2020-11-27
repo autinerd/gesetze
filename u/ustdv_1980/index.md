@@ -21,19 +21,13 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 2.12.2011 I 2416
 
-
 ## - - Zu § 3a des Gesetzes
-
-
 
 ### § 1 (weggefallen)
 
 -
 
-
 ## - - Zu § 3b des Gesetzes
-
-
 
 ### § 2 Verbindungsstrecken im Inland
 
@@ -45,7 +39,6 @@ darstellt und der inländische Streckenanteil nicht länger als 30
 Kilometer ist. Dies gilt nicht für Personenbeförderungen im
 Linienverkehr mit Kraftfahrzeugen. § 7 bleibt unberührt.
 
-
 ### § 3 Verbindungsstrecken im Ausland
 
 Bei grenzüberschreitenden Beförderungen ist die Verbindungsstrecke
@@ -54,7 +47,6 @@ inländische Beförderungsstrecke anzusehen, wenn der ausländische
 Streckenanteil nicht länger als 10 Kilometer ist. Dies gilt nicht für
 Personenbeförderungen im Linienverkehr mit Kraftfahrzeugen. § 7 bleibt
 unberührt.
-
 
 ### § 4 Anschlussstrecken im Schienenbahnverkehr
 
@@ -71,10 +63,6 @@ sind anzusehen:
     Anschlussstrecken, die von Eisenbahnverwaltungen mit Sitz im Ausland
     betrieben werden.
 
-
-
-
-
 ### § 5 Kurze Straßenstrecken im Inland
 
 Bei grenzüberschreitenden Personenbeförderungen im Gelegenheitsverkehr
@@ -82,14 +70,12 @@ mit Kraftfahrzeugen sind inländische Streckenanteile, die in einer
 Fahrtrichtung nicht länger als 10 Kilometer sind, als ausländische
 Beförderungsstrecken anzusehen. § 6 bleibt unberührt.
 
-
 ### § 6 Straßenstrecken in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten
 
 Bei grenzüberschreitenden Personenbeförderungen mit Kraftfahrzeugen
 von und zu den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten sowie
 zwischen diesen Gebieten sind die Streckenanteile in diesen Gebieten
 als inländische Beförderungsstrecken anzusehen.
-
 
 ### § 7 Kurze Strecken im grenzüberschreitenden Verkehr mit Wasserfahrzeugen
 
@@ -141,14 +127,9 @@ Rhein, die Donau, die Elbe, die Neiße und die Oder sind die
 inländischen Streckenanteile als ausländische Beförderungsstrecken
 anzusehen.
 
-
 ## - - Zu § 4 Nr. 1 Buchstabe a und den §§ 6 und 7 des Gesetzes
 
-
-
 ### - - Ausfuhrnachweis und buchmäßiger Nachweis bei Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der Ausfuhr
-
-
 
 #### § 8 Grundsätze für den Ausfuhrnachweis bei Ausfuhrlieferungen
 
@@ -162,7 +143,6 @@ sich aus den Belegen eindeutig und leicht nachprüfbar ergeben.
 bearbeitet oder verarbeitet worden (§ 6 Abs. 1 Satz 2 des Gesetzes),
 so muss sich auch dies aus den Belegen nach Absatz 1 eindeutig und
 leicht nachprüfbar ergeben.
-
 
 #### § 9 Ausfuhrnachweis bei Ausfuhrlieferungen in Beförderungsfällen
 
@@ -234,7 +214,6 @@ des Rates zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 253
 vom 11.10.1993, S. 1), die zuletzt durch die Verordnung (EU) Nr.
 1063/2010 (ABI. L 307 vom 23.11.2010, S. 1) geändert worden ist, in
 der jeweils geltenden Fassung.
-
 
 #### § 10 Ausfuhrnachweis bei Ausfuhrlieferungen in Versendungsfällen
 
@@ -326,7 +305,6 @@ Ausfuhrnachweis nach Absatz 1 Satz 1 Nummer 2 zu führen, kann er die
 Ausfuhr wie in Beförderungsfällen nach § 9 Absatz 1 Satz 1 Nummer 2
 nachweisen.
 
-
 #### § 11 Ausfuhrnachweis bei Ausfuhrlieferungen in Bearbeitungs- und Verarbeitungsfällen
 
 (1) Hat ein Beauftragter den Gegenstand der Lieferung vor der Ausfuhr
@@ -356,13 +334,11 @@ oder verarbeitet, hat der liefernde Unternehmer die in Absatz 1
 genannten Angaben für jeden Beauftragten, der die Bearbeitung oder
 Verarbeitung vornimmt, zu machen.
 
-
 #### § 12 Ausfuhrnachweis bei Lohnveredelungen an Gegenständen der Ausfuhr
 
 Bei Lohnveredelungen an Gegenständen der Ausfuhr (§ 7 des Gesetzes)
 sind die Vorschriften über die Führung des Ausfuhrnachweises bei
 Ausfuhrlieferungen (§§ 8 bis 11) entsprechend anzuwenden.
-
 
 #### § 13 Buchmäßiger Nachweis bei Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der Ausfuhr
 
@@ -454,10 +430,7 @@ denen der Auftraggeber kein ausländischer Auftraggeber ist, ist Absatz
 Nummer 3 Buchstabe b des Gesetzes ist Absatz 4 entsprechend
 anzuwenden.
 
-
 #### (XXXX) §§ 14 bis 16 (weggefallen)
-
-
 
 #### § 17 Abnehmernachweis bei Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr
 
@@ -474,13 +447,7 @@ zusätzlich folgende Angaben zu enthalten:
     Grenzübertrittspapier desjenigen übereinstimmen, der den Gegenstand in
     das Drittlandsgebiet verbringt.
 
-
-
-
-
 ## - - Zu § 4 Nr. 1 Buchstabe b und § 6a des Gesetzes
-
-
 
 ### § 17a Nachweis bei innergemeinschaftlichen Lieferungen in Beförderungs- und Versendungsfällen
 
@@ -543,7 +510,6 @@ innergemeinschaftliche Lieferung führen, die nach Eingang des
 Beendigungsnachweises für das Versandverfahren erteilt wird, sofern
 sich daraus die Lieferung in das übrige Gemeinschaftsgebiet ergibt.
 
-
 ### § 17b Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen
 
 Ist der Gegenstand der Lieferung vor der Beförderung oder Versendung
@@ -554,7 +520,6 @@ nachzuweisen. Der Nachweis ist durch Belege nach § 17a zu führen, die
 zusätzlich die in § 11 Absatz 1 Nummer 1 bis 4 bezeichneten Angaben
 enthalten. Ist der Gegenstand durch mehrere Beauftragte bearbeitet
 oder verarbeitet worden, ist § 11 Absatz 2 entsprechend anzuwenden.
-
 
 ### § 17c Buchmäßiger Nachweis bei innergemeinschaftlichen Lieferungen
 
@@ -652,13 +617,7 @@ der Unternehmer Folgendes aufzuzeichnen:
 
 7.  den Bestimmungsort im übrigen Gemeinschaftsgebiet.
 
-
-
-
-
 ## - - Zu § 4 Nr. 2 und § 8 des Gesetzes
-
-
 
 ### § 18 Buchmäßiger Nachweis bei Umsätzen für die Seeschiffahrt und für die Luftfahrt
 
@@ -667,15 +626,11 @@ Gesetzes) ist § 13 Abs. 1 und 2 Nr. 1 bis 4 entsprechend anzuwenden.
 Zusätzlich soll der Unternehmer aufzeichnen, für welchen Zweck der
 Gegenstand der Lieferung oder die sonstige Leistung bestimmt ist.
 
-
 ## - - Zu § 4 Nr. 3 des Gesetzes
-
-
 
 ### § 19
 
 (weggefallen)
-
 
 ### § 20 Belegmäßiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenstände der Ausfuhr oder Einfuhr beziehen
 
@@ -696,7 +651,6 @@ Leistung in der Bemessungsgrundlage für die Einfuhr enthalten sind.
 
 (3) Der Unternehmer muss die Nachweise im Geltungsbereich dieser
 Verordnung führen.
-
 
 ### § 21 Buchmäßiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenstände der Ausfuhr oder Einfuhr beziehen
 
@@ -719,13 +673,7 @@ der Unternehmer aufzeichnen:
     dass die Kosten für die Leistung in der Bemessungsgrundlage für die
     Einfuhr enthalten sind.
 
-
-
-
-
 ## - - Zu § 4 Nr. 5 des Gesetzes
-
-
 
 ### § 22 Buchmäßiger Nachweis bei steuerfreien Vermittlungen
 
@@ -748,13 +696,7 @@ Abs. 1 entsprechend anzuwenden.
     nach vereinnahmten Entgelten das für die Vermittlung vereinnahmte
     Entgelt und den Tag der Vereinnahmung.
 
-
-
-
-
 ## - - Zu § 4 Nr. 18 des Gesetzes
-
-
 
 ### § 23 Amtlich anerkannte Verbände der freien Wohlfahrtspflege
 
@@ -794,13 +736,7 @@ der freien Wohlfahrtspflege:
 
 11. Sozialverband VdK Deutschland e.V.
 
-
-
-
-
 ## - - Zu § 4a des Gesetzes
-
-
 
 ### § 24 Antragsfrist für die Steuervergütung und Nachweis der Voraussetzungen
 
@@ -837,31 +773,18 @@ sollen aufgezeichnet werden:
     Steuer oder die für die Einfuhr oder den innergemeinschaftlichen
     Erwerb des Gegenstands entrichtete Steuer.
 
-
-
-
-
 ## - - Zu § 10 Abs. 6 des Gesetzes
-
-
 
 ### § 25 Durchschnittsbeförderungsentgelt
 
 Das Durchschnittsbeförderungsentgelt wird auf 4,43 Cent je
 Personenkilometer festgesetzt.
 
-
 ## - - Zu § 12 Abs. 2 Nr. 1 des Gesetzes
-
-
 
 ### (XXXX) §§ 26 bis 29 (weggefallen)
 
-
-
 ## - - Zu § 12 Abs. 2 Nr. 7 Buchstabe d des Gesetzes
-
-
 
 ### § 30 Schausteller
 
@@ -870,10 +793,7 @@ Schaustellungen, Musikaufführungen, unterhaltende Vorstellungen oder
 sonstige Lustbarkeiten auf Jahrmärkten, Volksfesten, Schützenfesten
 oder ähnlichen Veranstaltungen.
 
-
 ## - - Zu § 13b des Gesetzes
-
-
 
 ### § 30a Steuerschuldnerschaft bei unfreien Versendungen
 
@@ -900,10 +820,7 @@ Frachtsendung an Stelle des Leistungsempfängers Steuerschuldner nach §
 Dies gilt auch, wenn die Leistung für den nichtunternehmerischen
 Bereich bezogen wird.
 
-
 ## - - Zu § 14 des Gesetzes
-
-
 
 ### § 31 Angaben in der Rechnung
 
@@ -947,7 +864,6 @@ Dokument, das spezifisch und eindeutig auf die Rechnung bezogen ist,
 übermittelt werden. Es gelten die gleichen Anforderungen an Form und
 Inhalt wie in § 14 des Gesetzes.
 
-
 ### § 32 Rechnungen über Umsätze, die verschiedenen Steuersätzen unterliegen
 
 Wird in einer Rechnung über Lieferungen oder sonstige Leistungen, die
@@ -956,7 +872,6 @@ Maschinen automatisch ermittelt und durch diese in der Rechnung
 angegeben, ist der Ausweis des Steuerbetrages in einer Summe zulässig,
 wenn für die einzelnen Posten der Rechnung der Steuersatz angegeben
 wird.
-
 
 ### § 33 Rechnungen über Kleinbeträge
 
@@ -985,7 +900,6 @@ mindestens folgende Angaben enthalten:
 Die §§ 31 und 32 sind entsprechend anzuwenden. Die Sätze 1 und 2
 gelten nicht für Rechnungen über Leistungen im Sinne der §§ 3c, 6a und
 13b des Gesetzes.
-
 
 ### § 34 Fahrausweise als Rechnungen
 
@@ -1030,10 +944,7 @@ Beförderungsleistung anzuwenden ist.
 (3) Die Absätze 1 und 2 gelten für Belege im Reisegepäckverkehr
 entsprechend.
 
-
 ## - - Zu § 15 des Gesetzes
-
-
 
 ### § 35 Vorsteuerabzug bei Rechnungen über Kleinbeträge und bei Fahrausweisen
 
@@ -1058,9 +969,7 @@ Abs. 2 des Gesetzes anzuwenden. Bei Fahrausweisen im Luftverkehr kann
 der Vorsteuerabzug nur in Anspruch genommen werden, wenn der
 Steuersatz nach § 12 Abs. 1 des Gesetzes im Fahrausweis angegeben ist.
 
-
 ### (XXXX) §§ 36 bis 39a (weggefallen)
-
 
 ### § 40 Vorsteuerabzug bei unfreien Versendungen
 
@@ -1093,10 +1002,7 @@ abziehen:
 63 dieser Verordnung gelten für den Empfänger der Frachtsendung
 entsprechend.
 
-
 ### (XXXX) §§ 41 bis 42 (weggefallen)
-
-
 
 ### § 43 Erleichterungen bei der Aufteilung der Vorsteuern
 
@@ -1119,13 +1025,7 @@ sie diesen Umsätzen ausschließlich zuzurechnen sind:
     sowie Einlagen bei Kreditinstituten, wenn diese Umsätze als
     Hilfsumsätze anzusehen sind.
 
-
-
-
-
 ## - - Zu § 15a des Gesetzes
-
-
 
 ### § 44 Vereinfachungen bei der Berichtigung des Vorsteuerabzugs
 
@@ -1159,7 +1059,6 @@ nachträgliche Anschaffungs- oder Herstellungskosten und auf die in §
 15a Abs. 3 und 4 des Gesetzes bezeichneten Leistungen entfallenden
 Vorsteuerbeträge entsprechend anzuwenden.
 
-
 ### § 45 Maßgebliches Ende des Berichtigungszeitraums
 
 Endet der Zeitraum, für den eine Berichtigung des Vorsteuerabzugs nach
@@ -1168,14 +1067,9 @@ Kalendermonats, so bleibt dieser Kalendermonat für die Berichtigung
 unberücksichtigt. Endet er nach dem 15. eines Kalendermonats, so ist
 dieser Kalendermonat voll zu berücksichtigen.
 
-
 ## - - Zu den §§ 16 und 18 des Gesetzes
 
-
-
 ### - - Dauerfristverlängerung
-
-
 
 #### § 46 Fristverlängerung
 
@@ -1185,7 +1079,6 @@ Abgabe der Voranmeldungen und für die Entrichtung der Vorauszahlungen
 Finanzamt hat den Antrag abzulehnen oder eine bereits gewährte
 Fristverlängerung zu widerrufen, wenn der Steueranspruch gefährdet
 erscheint.
-
 
 #### § 47 Sondervorauszahlung
 
@@ -1205,7 +1098,6 @@ Kalendermonate zu behandeln.
 laufenden Kalenderjahr begonnen, so ist die Sondervorauszahlung auf
 der Grundlage der zu erwartenden Vorauszahlungen dieses Kalenderjahres
 zu berechnen.
-
 
 #### § 48 Verfahren
 
@@ -1238,10 +1130,7 @@ Anmeldung zu einem offensichtlich unzutreffenden Ergebnis führt.
 Vorauszahlung für den letzten Voranmeldungszeitraum des
 Besteuerungszeitraums anzurechnen, für den die Fristverlängerung gilt.
 
-
 ### - - Verzicht auf die Steuererhebung
-
-
 
 #### § 49 Verzicht auf die Steuererhebung im Börsenhandel mit Edelmetallen
 
@@ -1260,62 +1149,45 @@ Edelmetallen wird verzichtet, wenn
 
 3.  keine Rechnungen mit gesondertem Ausweis der Steuer erteilt werden.
 
-
-
-
-
 #### § 50
 
 (weggefallen)
 
-
 ### - - Besteuerung im Abzugsverfahren
-
-
 
 #### § 51
 
 (weggefallen)
 
-
 #### § 52
 
 (weggefallen)
-
 
 #### § 53
 
 (weggefallen)
 
-
 #### § 54
 
 (weggefallen)
-
 
 #### § 55
 
 (weggefallen)
 
-
 #### § 56
 
 (weggefallen)
-
 
 #### § 57
 
 (weggefallen)
 
-
 #### § 58
 
 (weggefallen)
 
-
 ### - - Vergütung der Vorsteuerbeträge in einem besonderen Verfahren
-
-
 
 #### § 59 Vergütungsberechtigte Unternehmer
 
@@ -1354,7 +1226,6 @@ Wohnsitz, seinen Sitz, seine Geschäftsleitung oder eine Betriebsstätte
 hat; maßgebend hierfür ist der jeweilige Vergütungszeitraum im Sinne
 des § 60, für den der Unternehmer eine Vergütung beantragt.
 
-
 #### § 60 Vergütungszeitraum
 
 Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von
@@ -1364,7 +1235,6 @@ um den restlichen Zeitraum des Kalenderjahres handelt. In den Antrag
 für diesen Zeitraum können auch abziehbare Vorsteuerbeträge
 aufgenommen werden, die in vorangegangene Vergütungszeiträume des
 betreffenden Kalenderjahres fallen.
-
 
 #### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
 
@@ -1425,7 +1295,6 @@ Unternehmer einer Mitwirkungspflicht nicht innerhalb einer Frist von
 einem Monat nach Zugang einer entsprechenden Aufforderung des
 Bundeszentralamtes für Steuern nachkommt.
 
-
 #### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
 
 (1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat die
@@ -1453,10 +1322,7 @@ behördliche Bescheinigung des Staates, in dem er ansässig ist,
 nachweisen, dass er als Unternehmer unter einer Steuernummer
 eingetragen ist.
 
-
 ### - - Sondervorschriften für die Besteuerung bestimmter Unternehmer
-
-
 
 #### § 62 Berücksichtigung von Vorsteuerbeträgen, Belegnachweis
 
@@ -1469,10 +1335,7 @@ worden sind.
 durch Vorlage der Rechnungen und Einfuhrbelege im Original
 nachzuweisen.
 
-
 ## - - Zu § 22 des Gesetzes
-
-
 
 ### § 63 Aufzeichnungspflichten
 
@@ -1541,14 +1404,12 @@ Voranmeldungszeitraums hat der Unternehmer die Summe der Entgelte und
 Teilentgelte und die Summe der Vorsteuerbeträge zu errechnen und
 aufzuzeichnen.
 
-
 ### § 64 Aufzeichnung im Falle der Einfuhr
 
 Der Aufzeichnungspflicht nach § 22 Abs. 2 Nr. 6 des Gesetzes ist
 genügt, wenn die entrichtete oder in den Fällen des § 16 Abs. 2 Satz 4
 des Gesetzes zu entrichtende Einfuhrumsatzsteuer mit einem Hinweis auf
 einen entsprechenden zollamtlichen Beleg aufgezeichnet wird.
-
 
 ### § 65 Aufzeichnungspflichten der Kleinunternehmer
 
@@ -1568,7 +1429,6 @@ Gesetzes vorgeschriebenen Angaben Folgendes aufzuzeichnen:
 Die Aufzeichnungspflichten nach § 22 Abs. 2 Nr. 4, 7, 8 und 9 des
 Gesetzes bleiben unberührt.
 
-
 ### § 66 Aufzeichnungspflichten bei der Anwendung allgemeiner Durchschnittssätze
 
 Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
@@ -1576,14 +1436,12 @@ Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
 Vorsteuerbeträge nach einem Durchschnittssatz (§§ 69 und 70)
 berechnet.
 
-
 ### § 66a Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
 
 Der Unternehmer ist von den Aufzeichnungspflichten nach § 22 Abs. 2
 Nr. 5 und 6 des Gesetzes befreit, soweit er die abziehbaren
 Vorsteuerbeträge nach dem in § 23a des Gesetzes festgesetzten
 Durchschnittssatz berechnet.
-
 
 ### § 67 Aufzeichnungspflichten bei der Anwendung der Durchschnittssätze für land- und forstwirtschaftliche Betriebe
 
@@ -1593,7 +1451,6 @@ Aufzeichnungspflichten nach § 22 des Gesetzes befreit. Ausgenommen
 hiervon sind die Bemessungsgrundlagen für die Umsätze im Sinne des §
 24 Abs. 1 Satz 1 Nr. 2 des Gesetzes. Die Aufzeichnungspflichten nach §
 22 Abs. 2 Nr. 4, 7 und 8 des Gesetzes bleiben unberührt.
-
 
 ### § 68 Befreiung von der Führung des Steuerheftes
 
@@ -1623,10 +1480,7 @@ Verpflichtung, ein Steuerheft zu führen, befreit,
 Unternehmer eine Bescheinigung über die Befreiung von der Führung des
 Steuerheftes aus.
 
-
 ## - - Zu § 23 des Gesetzes
-
-
 
 ### § 69 Festsetzung allgemeiner Durchschnittssätze
 
@@ -1645,7 +1499,6 @@ Gesetzes bezeichneten Umsätze.
 (3) Der Unternehmer, dessen Umsatz (Absatz 2) im vorangegangenen
 Kalenderjahr 61.356 Euro überstiegen hat, kann die Durchschnittssätze
 nicht in Anspruch nehmen.
-
 
 ### § 70 Umfang der Durchschnittssätze
 
@@ -1684,13 +1537,7 @@ den Voraussetzungen des § 15 des Gesetzes abgezogen werden:
     Betriebsanlage gehören, auch wenn sie wesentliche Bestandteile eines
     Grundstücks sind.
 
-
-
-
-
 ## - - Zu § 24 Abs. 4 des Gesetzes
-
-
 
 ### § 71 Verkürzung der zeitlichen Bindungen für land- und forstwirtschaftliche Betriebe
 
@@ -1701,10 +1548,7 @@ Wirkung vom Beginn eines jeden folgenden Kalenderjahres an übergehen.
 Auf den Widerruf der Erklärung ist § 24 Abs. 4 Satz 4 des Gesetzes
 anzuwenden.
 
-
 ## - - Zu § 25 Abs. 2 des Gesetzes
-
-
 
 ### § 72 Buchmäßiger Nachweis bei steuerfreien Reiseleistungen
 
@@ -1737,10 +1581,7 @@ Teil steuerfrei sind, ist § 13 Abs. 1 entsprechend anzuwenden.
 die Bemessungsgrundlage nach § 25 Abs. 3 Satz 3 des Gesetzes
 ermittelt.
 
-
 ## - - Zu § 26 Abs. 5 des Gesetzes
-
-
 
 ### § 73 Nachweis der Voraussetzungen der in bestimmten Abkommen enthaltenen Steuerbefreiungen
 
@@ -1777,15 +1618,11 @@ durchgeführt und von den Entsendestaaten oder den Hauptquartieren nur
 zu einem Teil finanziert werden, gelten Absatz 1 Nr. 2 und Absatz 2
 hinsichtlich der anteiligen Steuerbefreiung entsprechend.
 
-
 ### - - Übergangs- und Schlussvorschriften
-
-
 
 #### § 74
 
 (Änderungen der §§ 34, 67 und 68)
-
 
 #### § 74a Übergangsvorschriften
 
@@ -1798,16 +1635,13 @@ Vergütung von Vorsteuerbeträgen anzuwenden, die nach dem 31. Dezember
 hergestellt worden sind, ist § 44 Absatz 3 und 4 in der am 31.
 Dezember 2011 geltenden Fassung weiterhin anzuwenden.
 
-
 #### § 75 Berlin-Klausel
 
 (weggefallen)
 
-
 #### § 76
 
 (Inkrafttreten)
-
 
 #### Anlage (zu den §§ 69 und 70)
 

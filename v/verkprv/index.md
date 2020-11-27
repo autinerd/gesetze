@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 4065
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des
@@ -30,7 +28,6 @@ verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -73,7 +70,6 @@ insbesondere folgende Funktionen verantwortlich auszuüben:
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Verkehrsfachwirt/Geprüfte Verkehrsfachwirtin.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -123,10 +119,6 @@ zuzulassen, wer
 2.  in den in Absatz 1 Nr. 1 bis 3 genannten Fällen zusätzlich zu den dort
     genannten Praxiszeiten mindestens noch ein weiteres Jahr Berufspraxis
     nachweist.
-
-
-
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -198,7 +190,6 @@ zu ergänzen. Die Ergänzungsprüfungen sollen nicht länger als 15
 Minuten dauern. Das Ergebnis geht in die Bewertung der schriftlichen
 Prüfungsleistung ein.
 
-
 ## § 4 Zusatzqualifikationen
 
 (1) Aus dem Prüfungsteil "Spezifische Qualifikationen" können auch
@@ -212,7 +203,6 @@ bestanden hat.
 
 (4) Über das Bestehen der weiteren Teilprüfung ist eine Bescheinigung
 auszustellen.
-
 
 ## § 5 Grundlegende Qualifikationen
 
@@ -295,7 +285,6 @@ Controlling sowie in der zwischenbetrieblichen Kooperation und im
 Umgang mit Kunden zweckmäßig zu gestalten, zu pflegen und zu nutzen.
 Dabei sollen die erforderlichen Methoden der Präsentation,
 Kommunikation und Motivierung eingesetzt werden.
-
 
 ## § 6 Spezifische Qualifikationen
 
@@ -425,7 +414,6 @@ Dienstleistungsangebote im Bereich der Infrastruktur entwickeln
 können. Dabei sollen die Qualitäts- und Umweltaspekte dieser Angebote
 eingeschätzt und berücksichtigt werden.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer kann auf Antrag von der Ablegung einzelner
@@ -435,7 +423,6 @@ oder staatlich anerkannten Bildungseinrichtung oder vor einem
 staatlichen Prüfungsausschuß eine Prüfung mit Erfolg abgelegt hat, die
 den Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entsprach.
-
 
 ## § 8 Bestehen der Prüfung
 
@@ -458,7 +445,6 @@ und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
 Freistellung gemäß § 7 sind Ort und Datum der anderweitig abgelegten
 Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 9 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -474,14 +460,12 @@ beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
 diesem Fall ist das letzte Ergebnis für das Bestehen zu
 berücksichtigen.
 
-
 ## § 10 Ausbildereignung
 
 Wer die Prüfung zum anerkannten Abschluß Geprüfter
 Verkehrsfachwirt/Geprüfte Verkehrsfachwirtin mit Erfolg abgelegt hat,
 ist vom schriftlichen Teil der Prüfung der nach dem
 Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
-
 
 ## § 11 Übergangsvorschriften
 
@@ -493,11 +477,9 @@ Dezember 2001 zu Ende geführt werden.
 Wiederholungsprüfung gemäß dieser Verordnung durchführen; § 9 Abs. 2
 findet in diesem Fall keine Anwendung.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
-
 
 ## Anlage 1 (zu § 8 Abs. 4)
 
@@ -523,7 +505,6 @@ bestanden.
 Ort, Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 8 Abs. 4)
 

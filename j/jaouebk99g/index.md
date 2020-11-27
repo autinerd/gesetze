@@ -17,12 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1953, 294
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -32,17 +29,14 @@ durch die Vorschriften des Gesetzes über die Festsetzung von
 Mindestarbeitsbedingungen vom 11. Januar 1952 (Bundesgesetzbl. I S.
 17) durchgeführt.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sobald das Land Berlin seine
 Anwendung durch Gesetz festgestellt hat.
-
 
 ## Art 5
 

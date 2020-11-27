@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2298
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -102,20 +100,14 @@ c)  der Besoldungsgruppen A 2 bis A 13 (gehobener Dienst)
 
     jeweils für ihren/seinen Geschäftsbereich.
 
-
-
-
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I genannten Beamtinnen und Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt mit Bekanntgabe in Kraft.
-
 
 ## Schlussformel
 

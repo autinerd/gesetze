@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 253
 
-
-
 ## (XXXX)
 
 Aus Anlaß des 50. Jahrestages des Endes des Zweiten Weltkrieges findet

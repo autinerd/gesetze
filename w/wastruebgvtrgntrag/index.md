@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1922, 222
 
-
-
 ## (XXXX)
 
 Der Reichstag hat bei der Beschlußfassung über das Gesetz über den
@@ -27,7 +25,6 @@ Ländern auf das Reich, vom 29. Juli 1921 (Reichsgesetzbl. S. 961) als
 dessen Anlagen außer den bereits verkündeten auch die folgenden
 beschlossen, die mit Zustimmung des Reichsrats hiermit verkündet
 werden.
-
 
 ## Anlage Zusatzvertrag mit Preußen
 
@@ -200,7 +197,6 @@ b)  das Fahrwasser von See nach Stettin und von See nach Königsberg i.Pr.
 Die Vereinbarungen nach § 30 finden auch auf die gegenwärtigen
 Zusatzbestimmungen entsprechende Anwendung.
 
-
 ## Anlage Zusatzvertrag mit Hamburg
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 51 - 52
@@ -340,7 +336,6 @@ gebracht werden.
 Die Vereinbarungen nach § 30 finden auch auf die gegenwärtigen
 Zusatzbestimmungen entsprechende Anwendung.
 
-
 ## Anlage Zusatzvertrag mit Bremen
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 52 - 53
@@ -446,7 +441,6 @@ Zunächst soll
 
 Die Vereinbarungen nach § 30 finden auch auf die gegenwärtigen
 Zusatzbestimmungen entsprechende Anwendung.
-
 
 ## Anlage Zusatzvertrag mit Lübeck
 

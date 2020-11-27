@@ -19,22 +19,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 3.12.2001 I 3306
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 des Gesetzes über die Änderung von Familiennamen
 und Vornamen vom 5. Januar 1938 (Reichsgesetzbl. I S. 9) wird
 folgendes verordnet:
 
-
 ## Art I
-
-
 
 ### § 1
 
 -
-
 
 ### § 2
 
@@ -55,7 +50,6 @@ die zuständige Behörde abweichend von den Absätzen 1 und 2 zu
 bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 übertragen.
 
-
 ### § 3
 
 (1) Die Gebühr für die Änderung oder Feststellung eines Familiennamens
@@ -69,10 +63,7 @@ mittellos ist.
 (2) Zur Zahlung der Gebühr ist der Antragsteller verpflichtet, neben
 ihm auch derjenige, zu dessen Gunsten der Antrag gestellt ist.
 
-
 ## Art II -
-
-
 
 ### Schlußformel
 

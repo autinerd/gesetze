@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1292
 
-
-
 ## (XXXX)
 
 Auf Grund des § 3 Abs. 2 Satz 4 des Postpersonalrechtsgesetzes wird
@@ -27,7 +25,6 @@ Die Anordnung tritt am 1. Mai 2006 in Kraft. Gleichzeitig tritt die
 Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den
 Bereich der Deutschen Postbank AG vom 3. Juli 2003 (BGBl. I S. 1335)
 außer Kraft.
-
 
 ## Schlussformel
 

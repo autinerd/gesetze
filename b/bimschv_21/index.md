@@ -23,7 +23,6 @@ Europäischen Parlaments und des Rates vom 21. Oktober 2009 über Phase
 II der Benzindampf-Rückgewinnung beim Betanken von Kraftfahrzeugen an
 Tankstellen (ABl. L 285 vom 31.10.2009, S. 36).
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes in der
@@ -32,7 +31,6 @@ Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880) und des §
 1987 (BGBl. I S. 425) verordnet die Bundesregierung nach Anhörung der
 beteiligten Kreise:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
@@ -40,7 +38,6 @@ Betrieb von Tankstellen, soweit Kraftstoffbehälter von Kraftfahrzeugen
 mit Ottokraftstoffen oder Kraftstoffgemischen betankt werden und die
 Tankstellen einer Genehmigung nach § 4 des Bundes-
 Immissionsschutzgesetzes nicht bedürfen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -194,10 +191,6 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     dem Bundesministerium für Arbeit und Soziales benannt und von diesem
     im Gemeinsamen Ministerialblatt bekannt gemacht worden ist;
 
-
-
-
-
 ## § 3 Errichtung und Betrieb von Tankstellen
 
 (1) Tankstellen sind so zu errichten und zu betreiben, dass die beim
@@ -329,16 +322,11 @@ nach Absatz 1 ist zulässig.
 4.  Tankstellen, die zur Betankung von Neufahrzeugen in Automobilwerken
     dienen.
 
-
-
-
-
 ## § 4 Messöffnungen
 
 Der Betreiber einer Tankstelle hat zur Kontrolle der Anforderungen
 nach § 3 Abs. 3 Nr. 2 oder 3 oder Abs. 4 Nr. 1 vor der Inbetriebnahme
 geeignete dicht verschließbare Messöffnungen einzurichten.
-
 
 ## § 5 Überwachung
 
@@ -455,7 +443,6 @@ zuständigen Behörde auf Verlangen vorzulegen. Die Pflichten nach den
 Sätzen 1 und 2 entfallen, wenn die Anforderungen nach § 3 erfüllt
 sind.
 
-
 ## § 6 Kennzeichnungspflicht
 
 (1) Der Betreiber hat im Bereich der Zapfsäulen ein Schild, einen
@@ -466,7 +453,6 @@ Vorhandensein des Gasrückführungssystems und der automatischen
 
 (2) Absatz 1 gilt nicht für die in § 3 Absatz 7 genannten Tankstellen.
 
-
 ## § 7 Zulassung von Ausnahmen
 
 Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von
@@ -476,13 +462,11 @@ Anforderungen der Verordnung nicht oder nur mit unverhältnismäßig
 hohem Aufwand erfüllt werden können und Gefahren für Beschäftigte und
 Dritte sowie schädliche Umwelteinwirkungen nicht zu erwarten sind.
 
-
 ## § 8 Zugänglichkeit der Normen
 
 VDI-Richtlinien, auf die in dieser Verordnung verwiesen wird, sind bei
 der Beuth Verlag GmbH, Berlin, zu beziehen und bei der Deutschen
 Nationalbibliothek archivmäßig gesichert niedergelegt.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -546,10 +530,6 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 14. entgegen § 6 Absatz 1 ein Schild, einen Aufkleber oder eine Mitteilung
     nicht, nicht richtig oder nicht rechtzeitig anbringt.
 
-
-
-
-
 ## § 10 Übergangsregelung
 
 Bestehende Tankstellen haben die Anforderungen des § 3 Absatz 1
@@ -570,11 +550,9 @@ Bezugsjahr für den jährlichen Durchsatz ist das Jahr 2012. Wird die
 Tankstelle nicht während des gesamten Jahres 2012 betrieben, so ist
 der tatsächliche Durchsatz auf das Jahr hochzurechnen.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu §§ 3 und 5) Bestimmung des Wirkungsgrades und der Dichtheit von Gasrückführungssystemen gemäß der VDI-Richtlinie: VDI 4205 Blatt 4, Ausgabe August 2005
 

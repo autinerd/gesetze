@@ -17,15 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 497
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Geltungsbereich
 
@@ -35,7 +32,6 @@ Administration“ an der Fachhochschule des Bundes für öffentliche
 Verwaltung (Fachhochschule) und eine anschließende oder das Studium
 begleitende berufspraktische Einführung in die Laufbahn des höheren
 nichttechnischen Verwaltungsdienstes.
-
 
 ### § 2 Studienziele
 
@@ -49,12 +45,10 @@ Herausforderungen der Bundesverwaltung gerecht zu werden.
 (2) Das Studium ist ein berufsbegleitendes Fernstudium mit
 Präsenzzeiten.
 
-
 ### § 3 Akademischer Grad
 
 Mit dem erfolgreichen Abschluss des Studiums wird der akademische Grad
 „Master of Public Administration“ verliehen.
-
 
 ### § 4 Zulassung
 
@@ -64,9 +58,7 @@ Verwaltungsdienst des Bundes und einen Bachelor- oder gleichwertigen
 Abschluss besitzen. § 36 der Bundeslaufbahnverordnung bleibt
 unberührt.
 
-
 ## Abschnitt 2 - Studienordnung
-
 
 ### § 5 Dauer des Studiums, Freistellung
 
@@ -86,13 +78,11 @@ Dienstbefreiung im Umfang von 30 Arbeitstagen zu gewähren. Für das
 Selbststudium ist je Modul mit Ausnahme des Moduls „Masterarbeit“
 Dienstbefreiung im Umfang von acht Arbeitstagen zu gewähren.
 
-
 ### § 6 Anerkennung von Studien- und Prüfungsleistungen
 
 Studien- und Prüfungsleistungen anderer Studiengänge werden auf Antrag
 anerkannt, wenn sie den im Masterstudium „Master of Public
 Administration“ zu erbringenden Leistungen gleichwertig sind.
-
 
 ### § 7 Studieninhalte, Module
 
@@ -126,7 +116,6 @@ Leistungspunkte richten sich nach dem auf der Internetseite der
 Fachhochschule veröffentlichten Modulhandbuch für das Masterstudium
 „Master of Public Administration“.
 
-
 ### § 8 Leitung des Studiums
 
 Die wissenschaftliche und organisatorische Leitung des Studiums
@@ -153,10 +142,6 @@ zuständig für
 
 6.  die Planung der Präsenzveranstaltungen.
 
-
-
-
-
 ### § 9 Modulkoordination
 
 (1) Die Fachhochschule bestellt für jedes Modul mindestens eine
@@ -182,18 +167,12 @@ Moduls. Sie sind auch verantwortlich für
 5.  die Steuerung des Einsatzes der Lehrkräfte in den
     Präsenzveranstaltungen.
 
-
-
-
-
 ## Abschnitt 3 - Masterprüfung
-
 
 ### § 10 Prüfungsamt
 
 Für die Organisation und Durchführung der Masterprüfung richtet die
 Fachhochschule ein Prüfungsamt ein.
-
 
 ### § 11 Prüfende, Prüfungskommissionen
 
@@ -234,7 +213,6 @@ den Vorsitz. Die Mitglieder und Ersatzmitglieder der
 Prüfungskommission werden für höchstens drei Jahre bestellt.
 Wiederbestellung ist zulässig.
 
-
 ### § 12 Modulprüfungen
 
 (1) Die Masterprüfung besteht aus den Modulprüfungen. In jedem Modul
@@ -266,7 +244,6 @@ zulässigen Prüfungsformen sind im Modulhandbuch festzulegen.
 Spätestens zu Beginn eines Moduls werden den Studierenden die
 Prüfungstermine und die Prüfungsformen durch das Prüfungsamt bekannt
 gegeben.
-
 
 ### § 13 Masterarbeit
 
@@ -301,7 +278,6 @@ die angegebenen Quellen und Hilfsmittel benutzt haben.
 
 (6) Das Bewertungsverfahren soll höchstens sechs Wochen dauern.
 
-
 ### § 14 Mündliche Verteidigung der Masterarbeit
 
 (1) Zur mündlichen Verteidigung der Masterarbeit wird zugelassen, wer
@@ -323,7 +299,6 @@ fünf Zuhörerinnen und Zuhörer zugelassen werden.
 (5) Der wesentliche Verlauf und das Ergebnis der Verteidigung werden
 protokolliert. Das Protokoll ist von der oder dem Vorsitzenden der
 Prüfungskommission zu unterschreiben.
-
 
 ### § 15 Bewertung der Prüfungen
 
@@ -450,7 +425,6 @@ Prozent gewichtet.
 (6) Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf
 Rangpunkten bewertet worden ist.
 
-
 ### § 16 Fernbleiben, Rücktritt
 
 (1) Bleibt eine Studierende oder ein Studierender ohne Genehmigung
@@ -475,7 +449,6 @@ verlängern. Bei Unterbrechung um mehr als die Hälfte der
 Bearbeitungszeit gilt die Masterarbeit als nicht begonnen und kann mit
 einem anderen Thema erneut begonnen werden.
 
-
 ### § 17 Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung
@@ -499,7 +472,6 @@ Abschlussprüfung für nicht bestanden erklären.
 (4) Die Betroffenen sind vor Entscheidungen nach Absatz 1 Satz 3 sowie
 den Absätzen 2 und 3 anzuhören.
 
-
 ### § 18 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden.
@@ -515,7 +487,6 @@ Fall gilt Absatz 1 Satz 1 und 2 nicht. Wird auch die zweite
 Wiederholungsprüfung nicht bestanden, ist das Studium beendet.
 
 (3) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 19 Bestehen der Masterprüfung, Gesamtnote
 
@@ -537,7 +508,6 @@ folgender Gewichtung errechnet:
 (3) Beträgt die abschließende Rangpunktzahl 5 oder mehr, wird bei
 Nachkommawerten ab 50 aufgerundet; bei kleineren Nachkommawerten wird
 abgerundet.
-
 
 ### § 20 Abschlusszeugnis, Diploma Supplement
 
@@ -579,7 +549,6 @@ Bescheinigung über die erbrachten Studienleistungen, aus der die
 absolvierten Module, deren Bewertung und die erworbenen
 Leistungspunkte hervorgehen.
 
-
 ### § 21 Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen nach § 12, die Masterarbeit,
@@ -592,9 +561,7 @@ aufzubewahren.
 (2) Die Studierenden und die Absolventinnen und Absolventen können
 Einsicht in ihre Prüfungsakten nehmen.
 
-
 ## Abschnitt 4 - Berufspraktische Einführung
-
 
 ### § 22 Berufspraktische Einführung
 
@@ -614,9 +581,7 @@ dienstlichen Beurteilung ab, aus der hervorgeht, ob sich die Beamtin
 oder der Beamte im höheren nichttechnischen Verwaltungsdienst bewährt
 hat.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
 
 ### § 23 Gasthörerinnen und Gasthörer
 
@@ -627,7 +592,6 @@ zugelassen werden. Über die Zulassung entscheidet die Fachhochschule.
 (2) Über das Bestehen einzelner Modulprüfungen stellt die
 Fachhochschule den Gasthörerinnen und Gasthörern auf Antrag ein
 Zertifikat als Ausbildungsnachweis aus.
-
 
 ### § 24 Inkrafttreten
 

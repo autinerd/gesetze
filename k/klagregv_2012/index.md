@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2694
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 5 des Kapitalanleger-Musterverfahrensgesetzes
 vom 19. Oktober 2012 (BGBl. I S. 2182) verordnet das Bundesministerium
 der Justiz:
-
 
 ## § 1 Inhalt und Aufbau des Klageregisters
 
@@ -148,10 +146,6 @@ den folgenden Angaben ermöglicht:
 4.  Aktenzeichen des Prozessgerichts nach § 3 Absatz 2 Nummer 4 des
     Kapitalanleger-Musterverfahrensgesetzes.
 
-
-
-
-
 ## § 2 Eintragungen
 
 (1) Eintragungen in das Klageregister dürfen nur durch die Gerichte
@@ -181,7 +175,6 @@ Person sie vorgenommen wurde.
 sich nach den Allgemeinen Geschäftsbedingungen des Betreibers des
 Klageregisters.
 
-
 ## § 3 Bekanntmachungen
 
 (1) Die Gerichte müssen jederzeit die nach dem Kapitalanleger-
@@ -193,7 +186,6 @@ erscheinen.
 
 (3) Die Bekanntmachung eines Musterverfahrensantrags muss das Datum
 seines Eingangs bei Gericht enthalten.
-
 
 ## § 4 Berichtigung, Löschung, Kennzeichnung und Überprüfung
 
@@ -226,7 +218,6 @@ noch aktuell sind. Es nimmt die erforderlichen Berichtigungen und
 Löschungen unter Beachtung der Löschungsfristen nach Absatz 2
 unverzüglich vor.
 
-
 ## § 5 Einsichtnahme
 
 (1) Die Einsichtnahme in das Klageregister erfolgt ausschließlich auf
@@ -238,7 +229,6 @@ zu nehmen.
 (3) Für die Gestaltung des Registers ist die Barrierefreie-
 Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S.
 1843) in der jeweils geltenden Fassung entsprechend anzuwenden.
-
 
 ## § 6 Datensicherheit
 
@@ -252,7 +242,6 @@ technische Vorkehrungen sicherzustellen, dass er von auftretenden
 Fehlfunktionen unverzüglich Kenntnis erlangt, und hat diese
 unverzüglich zu beheben.
 
-
 ## § 7 Übergangsvorschrift
 
 Vor dem Inkrafttreten dieser Verordnung vorgenommene Eintragungen im
@@ -263,7 +252,6 @@ dieser Verordnung eine andere Eintragung verlangt. Bereits
 vorgenommene Eintragungen sind nicht allein deshalb zu berichtigen,
 weil das Kapitalanleger-Musterverfahrensgesetz und diese Verordnung
 die bisherigen Vorschriften ersetzt haben.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 

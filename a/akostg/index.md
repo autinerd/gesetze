@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 15 G v. 5. 5.2004 I 718
 
-
 ## § 1 Anwendungsbereich
 
 (1) Für Amtshandlungen nach den §§ 1 bis 17 des Konsulargesetzes vom
@@ -32,7 +31,6 @@ erhoben.
 (3) Gebührenregelungen für Amtshandlungen im Ausland in anderen
 Rechtsvorschriften bleiben unberührt.
 
-
 ## § 2 Kostenverordnung
 
 (1) Der Bundesminister des Auswärtigen wird ermächtigt, im
@@ -45,7 +43,6 @@ Tatbestände und die Gebührensätze unter Berücksichtigung der §§ 3 und
 denen Auslagen nicht erhoben werden, weil der mit der Erhebung
 verbundene Verwaltungsaufwand außer Verhältnis zur Höhe der Auslagen
 steht.
-
 
 ## § 3 Sachliche Gebührenfreiheit
 
@@ -67,10 +64,6 @@ Gebühren sind nicht vorzusehen für
     gesetzlichen Dienstpflicht oder einer Tätigkeit ergeben, die an Stelle
     der gesetzlichen Dienstpflicht geleistet werden kann.
 
-
-
-
-
 ## § 4 Gebührengrundsätze
 
 (1) Die Gebührensätze sind so zu bemessen, daß zwischen der den
@@ -80,7 +73,6 @@ Amtshandlung andererseits ein angemessenes Verhältnis besteht.
 
 (2) Die Gebühren sind durch feste Sätze, Rahmensätze oder nach dem
 Wert des Gegenstandes zu bestimmen.
-
 
 ## § 5 Gebührenbemessung
 
@@ -103,7 +95,6 @@ ist der Wert zum Zeitpunkt der Beendigung der Amtshandlung für die
 Berechnung maßgebend. Der Antragsteller ist verpflichtet, die zur
 Feststellung des Wertes erforderlichen Angaben zu machen.
 
-
 ## § 6 Zuschläge
 
 Der Bundesminister des Auswärtigen kann durch Rechtsverordnung auf
@@ -113,7 +104,6 @@ erlassenen Gebührenverordnung erhoben werden, zum Ausgleich von
 Kaufkraftunterschieden oder zur Anpassung an höhere Gebührensätze für
 vergleichbare Amtshandlungen im Gastland einen Zuschlag festsetzen,
 der bis zu 200 v.H. der Gebühren betragen kann.
-
 
 ## § 7 Auslagen
 
@@ -174,7 +164,6 @@ besteht oder von der Gebührenerhebung abgesehen wird.
 (4) Auslagen werden nicht erhoben, soweit sie bereits in die Gebühr
 einbezogen sind.
 
-
 ## § 8 Kosten der Amtshilfe
 
 (1) Im Falle der Amtshilfe hat die ersuchende Behörde keine
@@ -186,7 +175,6 @@ Auslagen nicht erstattet.
 (2) Nehmen die in § 1 Abs. 1 und 2 bezeichneten Stellen zur
 Durchführung der Amtshilfe eine kostenpflichtige Amtshandlung vor, so
 stehen ihnen die von einem Dritten hierfür geschuldeten Kosten zu.
-
 
 ## § 9 Persönliche Gebührenfreiheit
 
@@ -217,7 +205,6 @@ und Bundesbetriebe im Sinne des Artikels 110 Abs. 1 des Grundgesetzes,
 für gleichartige Einrichtungen der Länder sowie für öffentlich-
 rechtliche Unternehmen, an denen der Bund oder ein Land beteiligt ist.
 
-
 ## § 10 Kostenermäßigung und -befreiung
 
 (1) Befindet sich der Kostenschuldner in einer wirtschaftlichen
@@ -235,7 +222,6 @@ von der Erhebung der Kosten ganz oder teilweise absehen.
 (3) Anderweitige gesetzliche Vorschriften, die eine Kostenermäßigung
 oder -befreiung vorsehen, bleiben unberührt.
 
-
 ## § 11 Entstehung der Kostenschuld
 
 (1) Die Gebührenschuld entsteht, soweit ein Antrag notwendig ist, mit
@@ -247,13 +233,11 @@ Aufwendung des zu erstattenden Betrages, in den Fällen des § 7 Abs. 2
 Nr. 5 zweiter Halbsatz und Nummer 7 zweiter Halbsatz mit der
 Beendigung der kostenpflichtigen Amtshandlung.
 
-
 ## § 12 Kostengläubiger
 
 Kostengläubiger ist die Bundesrepublik Deutschland. Wird die
 Amtshandlung von einem Honorarkonsularbeamten vorgenommen, so ist
 dieser der Kostengläubiger.
-
 
 ## § 13 Kostenschuldner
 
@@ -273,7 +257,6 @@ dieser der Kostengläubiger.
 
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
-
 
 ## § 14 Kostenentscheidung
 
@@ -308,7 +291,6 @@ nicht entstanden wären, werden nicht erhoben. Das gleiche gilt für
 Auslagen, die durch eine von Amts wegen veranlaßte Verlegung eines
 Termins oder Vertagung einer Verhandlung entstanden sind.
 
-
 ## § 15 Gebühren in besonderen Fällen
 
 (1) Wird ein Antrag ausschließlich wegen Unzuständigkeit der Behörde
@@ -323,7 +305,6 @@ Gebühr um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen
 Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn
 dies der Billigkeit entspricht.
 
-
 ## § 16 Vorschußzahlung und Sicherheitsleistung
 
 Eine Amtshandlung, die auf Antrag vorzunehmen ist, kann von der
@@ -331,13 +312,11 @@ Zahlung eines angemessenen Vorschusses oder von einer angemessenen
 Sicherheitsleistung bis zur Höhe der voraussichtlich entstehenden
 Kosten abhängig gemacht werden.
 
-
 ## § 17 Fälligkeit
 
 Kosten werden mit der Bekanntgabe der Kostenentscheidung an den
 Kostenschuldner fällig, wenn nicht die Behörde einen späteren
 Zeitpunkt bestimmt.
-
 
 ## § 18 Säumniszuschlag
 
@@ -364,16 +343,11 @@ Betrag auf volle 100 Deutsche Mark nach unten abgerundet.
     oder Postanweisung der Tag, an dem der Betrag der Kasse gutgeschrieben
     wird.
 
-
-
-
-
 ## § 19 Stundung, Niederschlagung und Erlaß
 
 Für die Stundung, die Niederschlagung und den Erlaß von Forderungen
 auf Zahlung von Gebühren, Auslagen und sonstigen Nebenleistungen
 gelten die Vorschriften der Bundeshaushaltsordnung.
-
 
 ## § 20 Verjährung
 
@@ -405,7 +379,6 @@ aus ihr nicht vor Ablauf von sechs Monaten, nachdem die
 Kostenentscheidung unanfechtbar geworden ist oder das Verfahren sich
 auf andere Weise erledigt hat.
 
-
 ## § 21 Erstattung
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
@@ -419,7 +392,6 @@ bis zum Ablauf des dritten Kalenderjahres geltend gemacht wird, das
 auf die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch
 nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
-
 ## § 22 Rechtsbehelf
 
 (1) Die Kostenentscheidung kann zusammen mit der Sachentscheidung oder
@@ -430,12 +402,10 @@ Sachentscheidung erstreckt sich auf die Kostenentscheidung.
 Rechtsbehelfsverfahren kostenrechtlich als selbständiges Verfahren zu
 behandeln.
 
-
 ## § 23 Verwaltungsvorschriften
 
 Der Bundesminister des Auswärtigen wird ermächtigt, zur Durchführung
 dieses Gesetzes allgemeine Verwaltungsvorschriften zu erlassen.
-
 
 ## § 24 Berlin-Klausel
 
@@ -443,7 +413,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## § 25
 

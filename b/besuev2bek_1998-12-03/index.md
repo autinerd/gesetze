@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 3508
 
-
-
 ## (XXXX)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
@@ -30,7 +28,6 @@ in der Fassung des Artikels 5 Nr. 25 und 26 des Gesetzes vom 29. Juni
 1998 (BGBl. I S. 1666) ergebenden Dienstbezüge und Anwärterbezüge
 bekanntgemacht.
 Der Bundesminister des Innern
-
 
 ## Anlage 1 (Anlage VIII des BBesG)
 
@@ -75,10 +72,6 @@ Anwärtergrundbetrag
         Bundesbesoldungsordnungen A und B) oder R 1
 
     *   1.592
-
-
-
-
 
 ## Anlage 2 (Anlage IX des BBesG)
 

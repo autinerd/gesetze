@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 101 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes über das deutsch-türkische
 Abkommen über den Rechtsverkehr in Zivil- und Handelssachen vom 3.
 Januar 1930 (Reichsgesetzbl. II S. 6) verordnet die Reichsregierung:
-
 
 ## Art 1
 
@@ -34,7 +32,6 @@ Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk die
 Amtshandlung vorgenommen werden soll. Für die Entgegennahme der
 Zustellungsanträge und Rechtshilfeersuchen ist der Präsident des dem
 Amtsgericht übergeordneten Landgerichts zuständig.
-
 
 ## Art 2
 
@@ -47,7 +44,6 @@ seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen
 das Gericht, in dessen Bezirk sich Vermögen des Kostenschuldners
 befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
-
 ## Art 3
 
 Ist der Antrag auf Vollstreckbarerklärung auf diplomatischem Wege
@@ -58,7 +54,6 @@ wird, mit der Vollstreckungsklausel zu versehen. Ist der Antrag auf
 Vollstreckbarerklärung durch die beteiligte Partei unmittelbar
 gestellt worden, so ist der Beschluß beiden Teilen von Amts wegen
 zuzustellen.
-
 
 ## Art 4
 
@@ -72,13 +67,11 @@ die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.
 stattgegeben wird, steht dem Kostenschuldner die Beschwerde nach den
 §§ 567 bis 577 der Zivilprozessordnung zu.
 
-
 ## Art 5
 
 Aus den für vollstreckbar erklärten Kostenentscheidungen findet die
 Zwangsvollstreckung gemäß den Vorschriften der Zivilprozeßordnung
 statt; die Vorschrift des § 798 findet entsprechende Anwendung.
-
 
 ## Art 6
 
@@ -93,11 +86,9 @@ der Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung
 zu Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung
 eines Rechtsanwalts eingelegt werden.
 
-
 ## Art 7
 
 (weggefallen)
-
 
 ## Art 8
 

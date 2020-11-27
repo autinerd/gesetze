@@ -17,18 +17,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1972, 1
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -39,12 +35,10 @@ Sozialordnung als deutsche zuständige Behörde im Sinne von Artikel 1
 Nr. 3 des Abkommens einholen, wenn Zweifel über die Anwendung und
 Auslegung des Abkommens bestehen.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

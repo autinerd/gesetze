@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1583
 
-
 ## Abschnitt 1 - Dienstrecht
-
 
 ### § 1 Beurlaubung
 
@@ -90,7 +88,6 @@ allgemeinen Wartezeit nach § 50 Absatz 1 des Sechsten Buches
 Sozialgesetzbuch noch erforderlich sind. Für die
 Beitragsbemessungsgrundlage gilt Absatz 5 Satz 3 entsprechend.
 
-
 ### § 2 Versetzung in den Ruhestand vor Erreichen der Altersgrenze
 
 (1) Bis zum 31. Dezember 2017 können bis zu
@@ -143,9 +140,7 @@ beruflichen oder wirtschaftlichen Verhältnisse zumutbar ist.
 Dienst“ oder „a. D.“ geführt werden. Während eines erneuten
 Wehrdienstverhältnisses entfällt dieser Zusatz.
 
-
 ## Abschnitt 2 - Finanzieller Ausgleich
-
 
 ### § 3 Einmalzahlung
 
@@ -194,16 +189,13 @@ in Jahren und Tagen zu berechnen. Zu berücksichtigen sind nur volle
 Dienstjahre, wobei ein verbleibender Rest von mehr als 182 Tagen als
 volles Jahr gilt.
 
-
 ### § 4 Kosten der Teilnahme an Qualifizierungsmaßnahmen
 
 Die notwendigen Kosten der Teilnahme an Qualifizierungsmaßnahmen für
 den Wechsel in den öffentlichen Dienst im Sinne des § 1 werden vom
 Bund bis zum 31. Dezember 2017 übernommen.
 
-
 ## Abschnitt 3 - Versorgung
-
 
 ### § 5 Anwendung des Soldatenversorgungsgesetzes
 
@@ -233,7 +225,6 @@ Die Versorgung
 
 sowie ihrer Hinterbliebenen bestimmt sich nach dem
 Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
-
 
 ### § 6 Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 1
 
@@ -282,10 +273,6 @@ Kalendermonate jeweils ein Zwölftel von 10 000 Euro gewährt.
     dass nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst
     im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes
     berücksichtigt wird.
-
-
-
-
 
 ### § 7 Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 2
 
@@ -349,10 +336,6 @@ ruhegehaltfähige Dienstzeit berücksichtigt worden wären.
     im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes
     berücksichtigt wird.
 
-
-
-
-
 ### § 8 Einmaliger Ausgleich bei Umwandlung des Dienstverhältnisses
 
 Berufssoldatinnen und Berufssoldaten, deren Dienstverhältnis bis zum
@@ -366,7 +349,6 @@ Zeit nicht überschreiten, die ihr oder ihm nach § 5 Absatz 5 des
 Soldatenversorgungsgesetzes in der bis zum Inkrafttreten dieses
 Gesetzes geltenden Fassung für die Freistellung vom militärischen
 Dienst zusteht.
-
 
 ### § 9 Freistellung vom militärischen Dienst
 
@@ -382,7 +364,6 @@ Dienstzeitende unter Freistellung vom militärischen Dienst begonnen
 werden kann, wenn dies zur Verringerung der Zahl der Soldatinnen und
 Soldaten erforderlich ist.
 
-
 ### § 10 Berufsförderung und Dienstzeitversorgung bei Verkürzung der Dienstzeit
 
 Die aus den §§ 5, 11 und 12 des Soldatenversorgungsgesetzes sich
@@ -392,7 +373,6 @@ Soldatengesetzes bis zum 31. Dezember 2017 stattgegeben wird,
 bestimmen sich nach der in der Verpflichtungserklärung angegebenen
 Verpflichtungszeit, wenn das Dienstverhältnis vor dem Inkrafttreten
 dieses Gesetzes begonnen hat.
-
 
 ### § 11 Evaluation
 

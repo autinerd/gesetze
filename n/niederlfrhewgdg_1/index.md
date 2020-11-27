@@ -19,27 +19,22 @@ Fundstelle
 Geändert durch
 :   § 4 G v. 14.12.1970 I 1709
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I
 
 -
-
 
 ## Art II
 
 -
 
-
 ## Art III
 
 -
-
 
 ## Art IV
 
@@ -52,7 +47,6 @@ Tätigkeit im Inland. Die Bundesregierung wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die für die Erteilung
 dieser Bescheinigungen zuständigen Behörden oder Stellen zu bestimmen.
 
-
 ## Art V
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -60,7 +54,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art VI
 

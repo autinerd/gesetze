@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2008, Nr 89, 2101
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1, Abs. 3 Satz 2, Abs. 4 Nr. 1
@@ -26,7 +25,6 @@ Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit §
 262), der zuletzt durch Artikel 1 Nr. 12 der Verordnung vom 29. Juli
 1998 (BGBl. I S. 1989) geändert worden ist, verordnet das Luftfahrt-
 Bundesamt:
-
 
 ## § 1 Geltungsbereich
 
@@ -43,7 +41,6 @@ Zivilluftfahrt in der jeweils geltenden Fassung.
 (3) Für die Zwecke dieser Durchführungsverordnung gelten die
 Begriffsbestimmungen der OPS 1.1095.
 
-
 ## § 2 Notfallausrüstung *% (zu OPS 1.005 Abs. b und § 19 Abs. 2 LuftBO)
 
 (1) Der Brandschutz in den Fluggast-, Fracht- und Besatzungsräumen
@@ -58,7 +55,6 @@ und die äußere Notbeleuchtung müssen dem Stand der Technik
 entsprechen. Die Genehmigungsbehörde kann Ausnahmen zulassen, sofern
 die Sicherheit der Fluggäste, der Besatzungsmitglieder und des
 Betriebes gewährleistet ist.
-
 
 ## § 3 Unfallverhütung und Flugsicherheitsprogramm *% (zu OPS 1.035 und 1.037)
 
@@ -148,7 +144,6 @@ Insbesondere muss der Luftfahrtunternehmer Folgendes sicherstellen:
 müssen im Betriebshandbuch nach OPS 1.1045 des Luftfahrtunternehmers
 beschrieben werden.
 
-
 ## § 4 Zutritt zum Führerraum *% (zu OPS 1.100 Abs. a Nr. 3)
 
 (1) Das Betriebshandbuch hat hinsichtlich des Zutritts von Personen
@@ -170,7 +165,6 @@ Flugbetrieb oder eines hierzu ermächtigten Vertreters dieses
 Fachbereichsleiters eine Zutrittsbefugnis für einen Flug erteilt
 werden.
 
-
 ## § 5 Mindestsichten für den Flugbetrieb nach Sichtflugregeln *% (zu Anhang 1 zu OPS 1.465)
 
 In der Bundesrepublik Deutschland dürfen Flugzeuge der Kategorien A
@@ -179,14 +173,12 @@ Luftraumklasse G bei Flugsichten bis herab zu 3.000 Metern betrieben
 werden, vorausgesetzt die angezeigte Fluggeschwindigkeit (IAS) beträgt
 140 Knoten oder weniger.
 
-
 ## § 6 Rückhaltesysteme für Kleinkinder *% (zu OPS 1.730)
 
 Das Luftfahrt-Bundesamt prüft, ob Rückhaltesysteme zur Sicherung von
 Kleinkindern so gestaltet sind, dass sie die Anforderungen nach OPS
 1\.730 erfüllen und die Sicherheit des Kindes und der übrigen Fluggäste
 gewährleisten.
-
 
 ## § 7 Instandhaltungsbestimmungen für Luftfahrtunternehmen mit einer Betriebsgenehmigung für gewerbsmäßige Rundflüge *% (zu OPS 1.875)
 
@@ -199,7 +191,6 @@ Verordnung (EG) Nr. 707/2006 der Kommission vom 8. Mai 2006 zur
 Änderung der Verordnung (EG) Nr. 2042/2003 in Bezug auf befristete
 Zulassungen und die Anhänge I und III (ABl. EU Nr. L 122 vom 9. Mai
 2006, S. 171) anzuwenden.
-
 
 ## § 8 Flug- und Dienstzeit-Begrenzung *% (zu OPS 1.1100)
 
@@ -224,7 +215,6 @@ hinaus. Bei Urlaub, Krankheit oder Teilzeitbeschäftigung kann die
 Anzahl der Ortstage anteilig gekürzt werden.
 
 (5) Die Absätze 1 bis 4 gelten nicht für Selbstständige.
-
 
 ## § 9 Höchstzulässige ununterbrochene Dienstzeit *% (zu OPS 1.1105)
 
@@ -283,7 +273,6 @@ Sinne der Absätze 1 bis 6.
 (8) Die Maßgaben der Absätze 1 bis 6 gelten nicht für Dienste, die
 ausschließlich aus einer Positionierung bestehen.
 
-
 ## § 10 Höchstzulässige tägliche Flugdienstzeit für den Flugbetrieb mit nur einem Piloten und für medizinische Notfalleinsätze *% (zu OPS 1.1105)
 
 (1) Für den Flugbetrieb mit nur einem Piloten und für medizinische
@@ -293,7 +282,6 @@ Notfalleinsätze gelten die Bestimmungen gemäß OPS 1.1105 entsprechend.
 grundsätzlich höchstzulässige tägliche Flugdienstzeit auf 10 Stunden,
 eine Verlängerung gemäß den Nummern 2.1 bis 2.7 der OPS 1.1105 ist in
 diesem Fall ausgeschlossen.
-
 
 ## § 11 Unterbrochene Flugdienstzeit *% (zu OPS 1.1105)
 
@@ -323,10 +311,6 @@ folgende Maßgaben:
 4.  Flugdienste nach § 11 Abs. 2 und § 14 dürfen nicht innerhalb von
     sieben aufeinander folgenden Tagen geleistet werden.
 
-
-
-
-
 ## § 12 Ruhezeit - Berücksichtigung von Zeitzonenunterschieden *% (zu OPS 1.1110 Nr. 1.3)
 
 Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der
@@ -345,7 +329,6 @@ des Zeitzonenunterschiedes ist die Winterzeit der jeweiligen
 Einsatzorte zugrunde zu legen. Die Sätze 2 bis 5 gelten nach einer
 Rückkehr zur Heimatbasis als nicht diensttuendes Besatzungsmitglied
 entsprechend.
-
 
 ## § 13 Verkürzte Ruhezeiten in besonderen Fällen *% (zu OPS 1.1110 Nr. 1.4.1 und 2.1)
 
@@ -397,10 +380,6 @@ für die Sicherheit des Luftverkehrs ausgeschlossen ist.
 
 4.  sonstige die Belastung der Besatzung beeinflussende Umstände.
 
-
-
-
-
 ## § 14 Verlängerung der Flugdienstzeit aufgrund einer Ruhezeit während des Flugs *% (zu OPS 1.1115)
 
 (1) Die Aufsichtsbehörde kann auf schriftlichen Antrag eine zweimalige
@@ -431,10 +410,6 @@ gilt § 13 Abs. 3 und 4 entsprechend.
 
 4.  sonstige die Belastung der Besatzung beeinflussende Umstände.
 
-
-
-
-
 ## § 15 Bereitschaft *% (zu OPS 1.1125)
 
 (1) Bereitschaftszeit ist als Flugdienstzeit anzurechnen, wenn
@@ -462,7 +437,6 @@ Besatzungsmitglied in der eigenen Wohnung oder einer entsprechenden
 Unterkunft Gelegenheit zum Schlaf hat, kann vom Unternehmer als
 Ruhezeit angerechnet werden.. Gleiches gilt für eine entsprechende
 Bereitschaftszeit vor einer Ruhezeit.
-
 
 ## § 16 Schulungsprogramme *% (zu OPS 1.1240)
 
@@ -500,10 +474,6 @@ mindestens folgende Inhalte umfassen:
 8.  die Einübung von Verfahren zur planvollen Durchsuchung des Flugzeugs
     einschließlich Hinweisen auf den Platz im Flugzeug, an dem
     aufgefundene Explosivstoffe am risikoärmsten gelagert werden können.
-
-
-
-
 
 ## § 17 Inkrafttreten, Außerkrafttreten
 

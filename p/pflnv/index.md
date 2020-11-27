@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2750
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 16, 17 Abs. 2 Satz 1 und Abs. 2a Satz 1 des
@@ -26,18 +24,11 @@ August 1993 (BGBl. I S. 1402) geändert worden ist, in Verbindung mit
 Artikel 24 des Gesetzes vom 21. Dezember 1992 (BGBl. I S. 2266, 2328)
 verordnet die Bundesregierung:
 
-
 ## Art 1 - Verordnung zur Regelung der Krankenhauspflegesätze (Bundespflegesatzverordnung - BPflV)
-
-
 
 ## Art 2 bis 7 -
 
-
-
 ## Art 8 - Überleitungsvorschriften für die Gebührenminderung bei wahlärztlichen Leistungen
-
-
 
 ## § 1 Gebührenordnung für Ärzte
 
@@ -61,10 +52,6 @@ a)  bei wahlärztlichen Leistungen nach § 22 Abs. 3 der
 
 
 b)  bei Leistungen von Belegärzten oder niedergelassenen anderen Ärzten."
-
-
-
-
 
 ## § 2 Gebührenordnung für Zahnärzte
 
@@ -124,17 +111,12 @@ a)  bei wahlärztlichen Leistungen nach § 22 Abs. 3 der
 b)  bei Leistungen von Belegzahnärzten oder niedergelassenen anderen
     Zahnärzten."
 
-
-
-
-
 ## Art 9 - Überleitungsvorschrift für die Krankenhaus-Buchführungsverordnung
 
 Für Krankenhäuser, die nicht mit Wirkung zum 1. Januar 1995
 Fallpauschalen und Sonderentgelte nach Artikel 1 § 11 Abs. 1 und 2 im
 Rahmen ihres Versorgungsauftrags gemäß Artikel 1 § 4 anwenden wollen,
 ist Artikel 3 Nr. 1 und 3 bis 6 ab dem 1. Januar 1996 anzuwenden.
-
 
 ## Art 10 - Inkrafttreten, Außerkrafttreten
 
@@ -152,7 +134,6 @@ stellt, Absatz 2 Satz 2 Nr. 5, § 24 Abs. 3, Artikel 3 Nr. 2 sowie
 Artikel 6 und 7 treten am 1. Januar 1996 in Kraft.
 
 (4) Im übrigen tritt diese Verordnung am 1. Januar 1995 in Kraft.
-
 
 ## Schlußformel
 

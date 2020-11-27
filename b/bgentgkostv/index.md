@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 § 4 G v. 22.3.2004 I 454
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 2 des Gentechnikgesetzes vom 20. Juni 1990
@@ -29,7 +28,6 @@ Bundesminister für Gesundheit im Einvernehmen mit dem Bundesminister
 für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesminister
 für Ernährung, Landwirtschaft und Forsten:
 
-
 ## § 1 Kosten
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -39,7 +37,6 @@ und Auslagen) nach dieser Verordnung.
 (2) Als Auslagen werden vom Kostenschuldner die in § 10 Abs. 1 Nr. 1
 bis 4 und 6 bis 8 des Verwaltungskostengesetzes bezeichneten Auslagen
 erhoben.
-
 
 ## § 2 Höhe der Gebühren
 
@@ -74,7 +71,6 @@ rechnen ist.
 (3) Erfordert eine Amtshandlung im Einzelfall einen außergewöhnlich
 niedrigen Aufwand, so kann die Gebühr bis auf 50 Euro reduziert
 werden.
-
 
 ## § 3 Gebühren in besonderen Fällen
 
@@ -118,7 +114,6 @@ erhobenen Gebühr.
 Inverkehrbringens nach § 20 des Gesetzes angeordnet, beträgt die
 zusätzliche Gebühr bis zur Hälfte der erhobenen Gebühr.
 
-
 ## § 4 Gebührenermäßigung und Gebührenbefreiung
 
 (1) Auf Antrag des Kostenschuldners kann eine Gebührenermäßigung oder
@@ -132,7 +127,6 @@ für Auslagen entsprechend.
 den in § 8 Abs. 1 des Verwaltungskostengesetzes bezeichneten
 Rechtsträgern die als gemeinnützig anerkannten Forschungseinrichtungen
 befreit.
-
 
 ## § 5 Sonstige Gebühren
 
@@ -152,10 +146,6 @@ Gebühren zu erheben für
 
     *   12,50 bis 150 Euro.
 
-
-
-
-
 ## § 6 Übergangsregelung
 
 Für Amtshandlungen, die vor Inkrafttreten dieser Verordnung
@@ -163,7 +153,6 @@ vorgenommen worden sind, können Kosten nach Maßgabe der §§ 1 bis 5
 erhoben werden, soweit bei den Amtshandlungen unter Hinweis auf den
 bevorstehenden Erlaß dieser Verordnung eine Kostenentscheidung
 ausdrücklich vorbehalten worden ist.
-
 
 ## § 7 Inkrafttreten
 

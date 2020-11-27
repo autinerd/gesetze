@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1999, Nr 143, 12949
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 und 3 des Luftverkehrsgesetzes in der
@@ -25,13 +23,11 @@ des § 21 der Verordnung zur Prüfung von Luftfahrgerät (LuftGerPV) in
 der Fassung der Bekanntmachung vom 3. August 1998 (BGBl. I S. 2010)
 verordnet das Luftfahrt-Bundesamt:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für Stellen, die Luftfahrtgerät instandhalten,
 ändern oder prüfen. Sie gilt nicht für Stellen, die Luftsportgerät
 instandhalten, ändern oder prüfen.
-
 
 ## § 2 Umfang und Inhalt der Genehmigung
 
@@ -41,7 +37,6 @@ sowie § 19 Abs. 5 LuftGerPV anzuwenden.
 (2) Die Instandhaltung, Änderung und Prüfung von Luftfahrtgerät ist
 nur in den hierfür genehmigten Betriebsstätten zulässig. Die
 Instandhaltung gemäß JAR-145.75 (c) bleibt hiervon unberührt.
-
 
 ## § 3 Antragstellung
 
@@ -56,7 +51,6 @@ erforderlicher Anzahl beizufügen.
 verlangen, die für die Entscheidung über den Antrag erforderlich sind.
 Es ist berechtigt, Erhebungen im Betrieb des Antragstellers
 durchzuführen.
-
 
 ## § 4 Anzeigepflicht
 
@@ -144,7 +138,6 @@ Bundesamt vorgeschriebenen Weise erfolgen und alle sachdienlichen
 Informationen über den Zustand enthalten, die dem genehmigten Betrieb
 bekannt sind.
 
-
 ## § 5 Lizenziertes technisches Personal
 
 (1) Betriebe nach § 13 LuftGerPV haben ein Qualitätsmanagementsystem
@@ -164,7 +157,6 @@ für die ordnungsgemäße Durchführung der Arbeiten notwendig sind.
 Stehen diese Unterlagen nicht zur Verfügung, dürfen insoweit
 entsprechende Arbeiten nicht übernommen werden.
 
-
 ## § 6 Selbständig anerkannte Prüfer von Luftfahrtgerät
 
 Anerkennungen für selbständige Prüfer von Luftfahrtgerät werden nicht
@@ -175,7 +167,6 @@ aufrechterhalten und verlängern, sofern die notwendigen
 organisatorischen, technischen und personellen Voraussetzungen dafür
 vorliegen und dem Luftfahrt-Bundesamt nachgewiesen werden. Im übrigen
 gelten die Bestimmungen der §§ 14 bis 20 LuftGerPV sinngemäß.
-
 
 ## § 7 Prüfaufzeichnungen und Prüfbescheinigung
 
@@ -192,14 +183,12 @@ Instandhaltung sowie der Nachprüfungen wird in Form und Inhalt vom
 Luftfahrt-Bundesamt vorgegeben und in den Nachrichten für Luftfahrer
 veröffentlicht.
 
-
 ## § 8 Festlegung der Stelle bei einer angeordneten Instandhaltung und angeordneten Nachprüfung
 
 Das Luftfahrt-Bundesamt legt bei angeordneten Instandhaltungen und
 angeordneten Nachprüfungen die durchführende Stelle unter
 Berücksichtigung der benötigten Prüfeinrichtungen und des
 Schwierigkeitsgrads der Prüfung fest.
-
 
 ## § 9 Instandhaltungsbetriebshandbuch
 
@@ -265,7 +254,6 @@ mindestens enthalten:
 (3) Das Instandhaltungsbetriebshandbuch und dessen Änderungen müssen
 vor deren Umsetzung vom Luftfahrt-Bundesamt genehmigt werden.
 
-
 ## § 10 Feststellung der Lufttüchtigkeit
 
 (1) Eine Genehmigung nach § 13 LuftGerPV für die gesamte
@@ -284,7 +272,6 @@ werden.
 betrieblicher oder neuer technischer Entwicklungen vom § 11 Abs. 2
 LuftGerPV abweichende Zeiten von Instandhaltungsprüfungen festlegen.
 
-
 ## § 11 Anerkennung der Instandhaltungsnachweise anderer Stellen
 
 Die Instandhaltung und Prüfung von gewerblich verwendeten Flugzeugen,
@@ -293,12 +280,10 @@ Instandhaltungsnachweise anderer Stellen gemäß § 6 LuftGerPV beantragt
 wird, muß in gemäß JAR-145 genehmigten Instandhaltungsbetrieben
 durchgeführt werden.
 
-
 ## § 12 Anerkennung der Herstellungsnachweise anderer Stellen
 
 Die nach § 5 Abs. 1 LuftGerPV geforderte umfassende Nachprüfung kann
 auch eine Instandhaltungsprüfung nach § 11 Abs. 2 LuftGerPV sein.
-
 
 ## § 13 Ordnungswidrigkeiten
 
@@ -323,10 +308,6 @@ Luftverkehrsgesetzes handelt, wer fahrlässig oder vorsätzlich
 
 5.  entgegen § 9 Abs. 3 Änderungen und Ergänzungen nicht, nicht richtig
     oder nicht vollständig erstellt.
-
-
-
-
 
 ## § 14 Inkrafttreten
 

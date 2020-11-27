@@ -18,18 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 15 G v. 8. 6.1989 I 1026
 
-
 ## Art 1 - Reichsversicherungsordnung, Angestelltenversicherungsgesetz, Reichsknappschaftsgesetz
-
-
 
 ## Art 2 - Arbeiterrentenversicherungs-Neuregelungsgesetz, Angestelltenversicherungs-Neuregelungsgesetz, Knappschaftsrentenversicherungs-Neuregelungsgesetz, Unfallversicherungs-Neuregelungsgesetz
 
-
-
 ## Art 3 - Übergangsvorschriften zu Art 1
-
-
 
 ## § 1
 
@@ -38,7 +31,6 @@ gewährt, wenn die Schutzfrist nach § 3 Abs. 2 in Verbindung mit § 5
 Abs. 2 des Mutterschutzgesetzes vor Inkrafttreten dieses Gesetzes
 begonnen hat. Für diese Fälle richtet sich die Erstattungspflicht des
 Bundes nach bisherigem Recht.
-
 
 ## § 2
 
@@ -53,7 +45,6 @@ die in § 165 Abs. 1 Nr. 3 der Reichsversicherungsordnung bezeichneten
 Personen, über deren Rentenantrag im Zeitpunkt des Inkrafttretens
 dieses Gesetzes noch nicht endgültig entschieden ist.
 
-
 ## § 3
 
 Wer bei Inkrafttreten dieses Gesetzes einen Betrag nach § 381 Abs. 4
@@ -64,7 +55,6 @@ Reichsversicherungsordnung als befreit, es sei denn, er erklärt bis
 30\. Juni 1968, daß die Versicherungspflicht wirksam werden soll. Die
 Mitgliedschaft beginnt in diesem Fall am Ersten des auf die Erklärung
 folgenden Monats.
-
 
 ## § 4
 
@@ -83,39 +73,23 @@ beginnt mit dem Ersten des Monats, der auf die Antragstellung folgt.
 Die aufnehmende Kasse hat den Übertritt des Mitgliedes unverzüglich
 der Kasse anzuzeigen, bei der die Mitgliedschaft erlischt.
 
-
 ## (XXXX) §§ 5 bis 14
-
-
 
 ## § 15
 
 -
 
-
 ## Art 4 - Betriebsverfassungsgesetz
-
-
 
 ## Art 5 - Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung
 
-
-
 ## Art 6 - Bundessozialhilfegesetz
-
-
 
 ## Art 7 - Bundesversorgungsgesetz
 
-
-
 ## Art 8 - Gesetz über eine Altershilfe für Landwirte
 
-
-
 ## Art 9 - Leistungsförderungsgesetz
-
-
 
 ## § 1
 
@@ -125,36 +99,27 @@ berufliche Leistungsförderung in der Wirtschaft
 341), zuletzt geändert durch das Finanzplanungsgesetz vom 23. Dezember
 1966 (Bundesgesetzbl. I S. 697), wird aufgehoben.
 
-
 ## § 2
 
 Das Sondervermögen für berufliche Leistungsförderung wird aufgelöst.
-
 
 ## § 3
 
 Ausgabereste sowie Rückflüsse aus gewährten Zuwendungen fließen dem
 Bundeshaushalt zu.
 
-
 ## § 4
 
 Die Rechte und Pflichten aus dem Sondervermögen gehen auf den Bund
 über.
 
-
 ## Art 10 - Kindergeldrecht
 
-
-
 ## Art 11 - Bundesbesoldungsgesetz, Soldatenversorgungsgesetz, Unterhaltssicherungsgesetz, Wehrpflichtgesetz, Schutzbereichgesetz, Bundespolizeibeamtengesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -169,10 +134,7 @@ Abs. 2 und 5 des Soldatenversorgungsgesetzes in der Fassung der
 Bekanntmachung vom 20. Februar 1967 (Bundesgesetzbl. I S. 201)
 weiterhin anzuwenden.
 
-
 ## (XXXX) §§ 3 bis 5
-
-
 
 ## § 6
 
@@ -194,7 +156,6 @@ Fällen des § 8 Abs. 4 des Bundespolizeibeamtengesetzes nach dem
 Inkrafttreten dieses Gesetzes in die Rechtsstellung eines Beamten auf
 Widerruf nach § 8 Abs. 1 oder 3 des Bundespolizeibeamtengesetzes
 übernommen werden.
-
 
 ## Art 12 - Bundesrückerstattungsgesetz
 
@@ -226,34 +187,19 @@ folgender Maßgabe:
     wird, sind im folgenden Rechnungsjahr im Rahmen des nach Ziffer 1 zur
     Verfügung stehenden Betrages vorrangig zu befriedigen.
 
-
-
-
-
 ## Art 13 - EWG-Anpassungsgesetz
 
-
-
 ## Art 14 - Bundesvertriebenengesetz
-
-
 
 ## Art 15 - -
 
 -
 
-
 ## Art 16 - Straßenbaufinanzierungsgesetz
-
-
 
 ## Art 17 - Selbstschutzgesetz, Schutzbaugesetz, Haushaltssicherungsgesetz
 
-
-
 ## Art 18 - Zweites Wohnungsbaugesetz
-
-
 
 ## Art 19 - Wohnungsbaugesetz für das Saarland
 
@@ -312,17 +258,12 @@ folgender Maßgabe:
     für das Saarland in der nach diesem Gesetz geltenden Fassung
     bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
-
-
-
 ## Art 20
 
 Soweit in anderen Vorschriften auf Bestimmungen verwiesen wird oder
 Bezeichnungen verwendet werden, die durch dieses Gesetz geändert
 werden, treten an ihre Stelle die entsprechenden Bestimmungen und
 Bezeichnungen dieses Gesetzes.
-
 
 ## Art 21 - Berlin-Klausel
 
@@ -331,7 +272,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 22 - Inkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 V aufgeh. durch
 :   Art. 13 Abs. 12 G v. 12.4.2012 I 579 mWv 1.1.2013
 
-
 ## § 1 Errichtung, Mitglieder
 
 (1) Zum 1. Januar 2009 wird als Spitzenverband der
@@ -31,7 +30,6 @@ Sozialversicherung“.
 Berufsgenossenschaften, die landwirtschaftlichen Alterskassen, die
 landwirtschaftlichen Krankenkassen und die landwirtschaftlichen
 Pflegekassen.
-
 
 ## § 2 Eingliederung des Bundesverbandes der landwirtschaftlichen Berufsgenossenschaften e.V.
 
@@ -46,7 +44,6 @@ Die §§ 47 bis 53 des Bürgerlichen Gesetzbuchs finden keine Anwendung.
 Der Bundesverband der landwirtschaftlichen Berufsgenossenschaften e.V.
 ist aufgelöst.
 
-
 ## § 3 Eingliederung des Bundesverbandes der landwirtschaftlichen Krankenkassen und des Gesamtverbandes der landwirtschaftlichen Alterskassen
 
 (1) Der Bundesverband der landwirtschaftlichen Krankenkassen und der
@@ -60,7 +57,6 @@ landwirtschaftlichen Alterskassen gehen als Ganzes auf den
 Spitzenverband der landwirtschaftlichen Sozialversicherung über. Der
 Bundesverband der landwirtschaftlichen Krankenkassen und der
 Gesamtverband der landwirtschaftlichen Alterskassen sind aufgelöst.
-
 
 ## § 4 Kosten bei Errichtung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 

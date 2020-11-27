@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 4.11.2010 I 1480
 
-
 ## § 1 Zweck, Umfang
 
 (1) Zur Darstellung des Verlaufs und der Struktur der wirtschaftlichen
@@ -36,7 +35,6 @@ Bundesstatistik durchgeführt.
 
 (3) (weggefallen)
 
-
 ## § 2 Erhebungseinheiten
 
 Erhebungseinheiten sind selbständige Betriebe und Unternehmen
@@ -49,7 +47,6 @@ Erhebungseinheiten sind selbständige Betriebe und Unternehmen
 
 
 der Handwerksordnung.
-
 
 ## § 3 Vierteljährliche Erhebung
 
@@ -82,7 +79,6 @@ zum Ende jedes dritten Kalendervierteljahres.
 
 (4) (weggefallen)
 
-
 ## § 4 Zählungen im Handwerk
 
 Für die Zählungen nach § 1 Abs. 2 Nr. 2 werden jährlich, beginnend
@@ -90,16 +86,13 @@ Für die Zählungen nach § 1 Abs. 2 Nr. 2 werden jährlich, beginnend
 Statistikregister und Angaben, die nach § 3 Nr. 4 des
 Verwaltungsdatenverwendungsgesetzes übermittelt werden, ausgewertet.
 
-
 ## § 5 (weggefallen)
 
 -
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7 Übermittlungsregelungen
 
@@ -111,16 +104,13 @@ statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen
 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall
 aufweisen.
 
-
 ## § 8 (weggefallen)
 
 -
 
-
 ## § 9 (weggefallen)
 
 -
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

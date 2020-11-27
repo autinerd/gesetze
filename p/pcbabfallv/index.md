@@ -33,7 +33,6 @@ Verwendung gewisser geährlicher Stoffe und Zubereitungen (Zinn,
 PCP und Cadmium) an den technischen Fortschritt (ABl. EG Nr.
 L 142 S. 22).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Verordnung gilt für nachfolgend definierte "PCB", die als
@@ -93,7 +92,6 @@ Abfälle entsorgt werden oder entsorgt werden müssen.
 
 (3) (weggefallen)
 
-
 ## § 2 Pflichten zur Entsorgung
 
 (1) Der Besitzer hat PCB unverzüglich zu beseitigen. Dies gilt nicht,
@@ -145,7 +143,6 @@ im Salzgestein nur abgelagert werden, soweit die Nutzung eines
 Verfahrens D9 oder D10 technisch nicht möglich oder wirtschaftlich
 nicht zumutbar ist.
 
-
 ## § 3 Brand- und Explosionsschutz
 
 Nach Maßgabe der einschlägigen Vorschriften sind beim Bereitstellen,
@@ -153,7 +150,6 @@ Nach Maßgabe der einschlägigen Vorschriften sind beim Bereitstellen,
 1 Abs. 2 alle notwendigen Maßnahmen zu treffen, um eine Freisetzung
 der Stoffe nach § 1 Abs. 2 Nr. 1 oder Zubereitungen nach § 1 Abs. 2
 Nr. 2 durch Brände und Explosionen zu vermeiden.
-
 
 ## § 4 Nachweis- und Mitteilungspflichten
 
@@ -200,7 +196,6 @@ Regelungen der Absätze 1 bis 3 unberührt. § 30 der Nachweisverordnung
 findet entsprechende Anwendung.
 
 (5) Die Bestimmungen des Umweltinformationsgesetzes bleiben unberührt.
-
 
 ## § 5 Ordnungswidrigkeiten
 

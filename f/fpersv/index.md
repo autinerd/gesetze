@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 19.12.2011 I 2835
 
-
 ## Abschnitt 1 - Lenk- und Ruhezeiten im nationalen Bereich
-
-
 
 ### § 1 Lenk- und Ruhezeiten im Straßenverkehr
 
@@ -244,7 +241,6 @@ ausgerüstet ist, hat er die Schaublätter dieses Kontrollgerätes
 während der Fahrt ebenfalls mitzuführen und den zuständigen Personen
 auf Verlangen zur Prüfung auszuhändigen.
 
-
 ### § 2 Kontrollgerät nach Anhang I B zur Verordnung (EWG) Nr. 3821/85
 
 (1) Ein Fahrer, der ein Fahrzeug lenkt, das in den Anwendungsbereich
@@ -328,7 +324,6 @@ Unversehrtheit und Zurechenbarkeit der Daten gewährleisten; im Falle
 der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der
 Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
-
 ### § 2a Aufbewahrung von Kontrollunterlagen
 
 Der Unternehmer bewahrt die ihm oder seinen Fahrern von den
@@ -340,10 +335,7 @@ Personen auf Verlangen vorzulegen. Nach Ablauf der
 Aufbewahrungspflicht sind die Unterlagen bis zum 31. März des
 folgenden Kalenderjahres zu vernichten.
 
-
 ## Abschnitt 2 - Organisation
-
-
 
 ### § 3 Zertifizierungsinfrastruktur
 
@@ -357,10 +349,7 @@ Kraftfahrt-Bundesamt. Die für die Kontrollgerätkartenausgabe
 zuständigen Behörden oder Stellen (D-Card Issueing Authorities -
 D-CIA's) werden von den Ländern bestimmt.
 
-
 ## Abschnitt 3 - Kontrollsystem nach EG-Verordnungen
-
-
 
 ### § 4 Allgemeines
 
@@ -458,7 +447,6 @@ Karteninhaber unverzüglich die Behörde oder Stelle, welche die Karte
 erteilt hat. Die Behörde oder Stelle meldet den Verlust dem
 Kontrollgerätkartenregister beim Kraftfahrt-Bundesamt.
 
-
 ### § 5 Fahrerkarte
 
 (1) Der Antragsteller hat Angaben zu seiner Muttersprache zu machen
@@ -522,7 +510,6 @@ Ablaufs der Gültigkeit der vorherigen Fahrerkarte folgt. Wird eine
 Fahrerkarte ersetzt, entspricht die Gültigkeitsdauer der
 Gültigkeitsdauer der ersetzten Karte.
 
-
 ### § 6 Mitführen der abgelaufenen Fahrerkarte
 
 Der Fahrer hat auch nach Ablauf der Gültigkeit die Fahrerkarte noch
@@ -531,7 +518,6 @@ Fahrerkarte entsprechend Artikel 14 Abs. 4 Buchstabe d der Verordnung
 (EWG) Nr. 3821/85 hat der Fahrer die Ausdrucke seiner Tätigkeiten für
 die dem Umtausch vorausgehenden 28 Kalendertage ebenfalls 28
 Kalendertage mitzuführen.
-
 
 ### § 7 Werkstattkarte
 
@@ -589,7 +575,6 @@ der verantwortlichen Fachkraft an ihre Privatanschrift übersandt.
 beginnt mit dem Datum der Personalisierung. § 5 Abs. 5 Satz 3 bis 5
 gilt entsprechend.
 
-
 ### § 8 Wegfall von Erteilungsvoraussetzungen
 
 (1) Ist eine der Erteilungsvoraussetzungen nachträglich entfallen, so
@@ -611,7 +596,6 @@ Stelle unverzüglich zu unterrichten.
 (2) Wird die Werkstattkarte wegen missbräuchlicher Verwendung
 zurückgenommen, unterrichtet die zuständige Behörde oder Stelle das
 Zentrale Kontrollgerätkartenregister beim Kraftfahrt-Bundesamt.
-
 
 ### § 9 Unternehmenskarte
 
@@ -642,7 +626,6 @@ Unternehmen zuzuordnen.
 beginnt mit dem Datum der Personalisierung. § 5 Abs. 5 Satz 3 bis 5
 gilt entsprechend.
 
-
 ### § 10 Kontrollkarte
 
 Die Kontrollkarten werden an die für die Kontrolle der
@@ -652,10 +635,7 @@ ermöglicht das Lesen, Ausdrucken und Herunterladen der im
 Massespeicher des Kontrollgerätes oder auf Fahrerkarten gespeicherten
 Daten. Die Gültigkeitsdauer der Kontrollkarte beträgt fünf Jahre.
 
-
 ## Abschnitt 4 - Zentrales Kontrollgerätkartenregister
-
-
 
 ### § 11 Führung und Zweckbestimmung des Registers
 
@@ -675,7 +655,6 @@ Identifizierungsdaten, die erforderlich sind, um feststellen zu
 können, welche Karten eine Person, ein Unternehmen oder eine
 Kontrollbehörde besitzt oder welche Karten abhanden gekommen oder
 beschädigt sind.
-
 
 ### § 12 Inhalt des Registers
 
@@ -814,18 +793,10 @@ Im Zentralen Kontrollgerätkartenregister werden gespeichert über
     f)  bei Verlust oder Diebstahl das Datum des Abhandenkommens der
         Kontrollkarte.
 
-
-
-
-
-
-
-
 ### § 13 Löschung von Eintragungen im Zentralen Kontrollgerätkartenregister
 
 Die Daten über Kontrollgerätkarten werden ein Jahr nach Ablauf der
 Gültigkeitsdauer gelöscht.
-
 
 ### § 14 Mitteilung an das Zentrale Kontrollgerätkartenregister im automatisierten Dialogverfahren
 
@@ -843,7 +814,6 @@ Zentrale Kontrollgerätkartenregister zu übermitteln.
 Kontrollgerätkartenregister unverzüglich jeweils nach Produktion und
 Versand einer Kontrollgerätkarte eine entsprechende Information
 hierüber mit.
-
 
 ### § 15 Übermittlung von Daten an inländische Behörden und Stellen durch Abruf im automatisierten Verfahren
 
@@ -863,10 +833,6 @@ ist
 
 
 4.  für die Verfolgung von Straftaten.
-
-
-
-
 
 ### § 16 Übermittlung von Daten an ausländische Behörden und Stellen durch Abruf im automatisierten Verfahren
 
@@ -891,19 +857,12 @@ werden, soweit dies erforderlich ist
 4.  zur Verfolgung von Straftaten, die im Zusammenhang mit dem
     Straßenverkehr stehen.
 
-
-
-
-
 ### § 17 Einrichtung und Betrieb der automatisierten Abrufverfahren
 
 Die Einrichtung und der Betrieb der automatisierten Abrufverfahren
 richten sich nach den Bestimmungen des Bundesdatenschutzgesetzes.
 
-
 ## Abschnitt 5 - Ausnahmen
-
-
 
 ### § 18 Ausnahmen gemäß Verordnungen (EG) Nr. 561/2006 und (EWG) 3821/85
 
@@ -1028,10 +987,7 @@ und der Anwendung der Verordnung (EWG) Nr. 3821/85 ausgenommen:
 vom Standort des Fahrzeugs das Mindestalter der Beifahrer zum Zwecke
 der Berufsausbildung 16 Jahre.
 
-
 ## Abschnitt 6 - Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
-
-
 
 ### § 19 Kontrollgeräte nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
 
@@ -1048,10 +1004,7 @@ AETR einschließlich seines Anhangs und der Anlagen. Kontrollgeräte im
 Sinne der Verordnung (EWG) Nr. 3821/85 erfüllen die Anforderungen nach
 Satz 4.
 
-
 ## Abschnitt 7 - Sonstige Vorschriften
-
-
 
 ### § 20 Nachweis über berücksichtigungsfreie Tage
 
@@ -1098,7 +1051,6 @@ aufzubewahren und den Fahrern auf Verlangen eine Kopie auszuhändigen.
 Nach Ablauf der Aufbewahrungspflicht sind die Bescheinigungen bis zum
 31\. März des folgenden Kalenderjahres zu vernichten.
 
-
 ### § 20a Verantwortlichkeiten
 
 (1) Die Verkehrsunternehmen sind verpflichtet, ihren Betrieb nach
@@ -1121,10 +1073,7 @@ stellen sicher, dass die vertraglich vereinbarten
 Beförderungszeitpläne nicht gegen die Verordnung (EG) Nr. 561/2006
 verstoßen.
 
-
 ## Abschnitt 8 - Ordnungswidrigkeiten
-
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -1265,14 +1214,9 @@ verantwortliche Fachkraft (Installateur) vorsätzlich oder fahrlässig
     Verbindung mit Satz 3 oder 5 eine Werkstattkarte nicht oder nicht
     rechtzeitig zurückgibt.
 
-
-
-
-
 ### § 22 (weggefallen)
 
 -
-
 
 ### § 23 Zuwiderhandlungen gegen die Verordnung (EWG) Nr. 3821/85
 
@@ -1405,7 +1349,6 @@ Fahrerkarte oder die ausgedruckten Dokumente von dem Kontrollgerät
 nach Anhang I B verfälscht, unterdrückt oder vernichtet oder eine
 Einrichtung hierfür im Fahrzeug bereithält.
 
-
 ### § 24 Zuwiderhandlungen gegen die Verordnung (EG) Nr. 2135/98
 
 Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 2 Buchstabe b des
@@ -1419,7 +1362,6 @@ des Rates vom 24. September 1998 zur Änderung der Verordnung (EWG) Nr.
 207 S. 1) geändert worden ist, eine Angabe nicht oder nicht
 rechtzeitig ausdruckt oder nicht oder nicht rechtzeitig überträgt oder
 das ausgedruckte Dokument nicht oder nicht rechtzeitig unterzeichnet.
-
 
 ### § 25 Zuwiderhandlungen gegen das AETR
 
@@ -1559,10 +1501,7 @@ des Anhangs zum Europäischen Übereinkommen über die Arbeit des im
 internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) ein
 Kontrollgerät einbaut oder repariert.
 
-
 ## Abschnitt 9 - Übergangsvorschriften
-
-
 
 ### § 26
 
@@ -1572,13 +1511,11 @@ Verkehr, Bau und Stadtentwicklung geregelten Verfahren erteilt worden
 sind, gelten als wirksam erteilt im Sinne der §§ 4, 5, 7 und 9 dieser
 Verordnung.
 
-
 ### Anlage 1 (zu § 1 Abs. 6)
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++
 (Fundstelle: BGBl. I 2005, 1893
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anlage 2 (zu § 3) Digitales Tachographensystem im Straßenverkehr Policy für die Bundesrepublik Deutschland Version 1.2 in der Fassung vom 18. April 2007
 

@@ -19,12 +19,10 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 26.8.1997 I 2214
 
-
 ## Eingangsformel
 
 Zur Realisierung von bisher ruhenden Ansprüchen aus Anteilrechten an
 der Altguthaben-Ablösungs-Anleihe wird folgendes verordnet:
-
 
 ## § 1
 
@@ -38,7 +36,6 @@ aufgehoben.
 
 (2) Eine bestehende staatliche Verwaltung für Anteilrechte an der
 Altguthaben-Ablösungs-Anleihe gilt gleichzeitig als aufgehoben.
-
 
 ## § 2
 
@@ -87,7 +84,6 @@ umgewertet worden sind, sind bis spätestens 31. Dezember 1998 bei dem
 Bundesministerium der Finanzen, Außenstelle Berlin, einzureichen.
 Danach erlöschen diese Ansprüche.
 
-
 ## § 3
 
 (1) Die Anteilrechte an der Altguthaben-Ablösungs-Anleihe werden mit
@@ -100,14 +96,12 @@ Wiederaufbau, Niederlassung Berlin, in der Weise, daß für zwei Mark
 der Deutschen Demokratischen Republik eine Deutsche Mark in Anrechnung
 gebracht wird.
 
-
 ## § 4
 
 Bürger von Staaten, mit denen die Deutsche Demokratische Republik
 Ansprüche aus Anteilrechten an der Altguthaben-Ablösungs-Anleihe durch
 zwischenstaatliche Vereinbarung geregelt hat, können keine Ansprüche
 mehr geltend machen.
-
 
 ## § 5
 

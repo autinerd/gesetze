@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 447
 
-
-
 ## (XXXX)
 
 (1) Als Dienstflagge der Seestreitkräfte der Bundeswehr bestimme ich

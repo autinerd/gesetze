@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1186
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
@@ -26,7 +25,6 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -103,7 +101,6 @@ Fortbildungsabschluss Tierwirtschaftsmeister oder
 Tierwirtschaftsmeisterin mit Angabe der nach § 2 gewählten
 Fachrichtung.
 
-
 ## § 2 Fachrichtung
 
 Der Prüfling kann zwischen den Fachrichtungen
@@ -125,7 +122,6 @@ Der Prüfling kann zwischen den Fachrichtungen
 
 
 wählen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -158,7 +154,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben worden sind, die die Zulassung zur
 Prüfung rechtfertigen.
 
-
 ## § 4 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Prüfungsteile
@@ -175,7 +170,6 @@ Prüfung rechtfertigen.
 
 
 (2) Die Meisterprüfung ist nach Maßgabe der §§ 5 bis 7 durchzuführen.
-
 
 ## § 5 Anforderungen im Prüfungsteil „Tierhaltung, Tierproduktion und Verfahrenstechnik“
 
@@ -270,7 +264,6 @@ anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz
 nach § 2 gewählte Fachrichtung zu beachten. Für die schriftliche
 Prüfung stehen 180 Minuten zur Verfügung.
 
-
 ## § 6 Anforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
@@ -336,7 +329,6 @@ anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz
 2 aufgeführten Inhalten. Bei der Auswahl der Fragestellungen ist die
 nach § 2 gewählte Fachrichtung zu beachten. Für die schriftliche
 Prüfung stehen 180 Minuten zur Verfügung.
-
 
 ## § 7 Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
 
@@ -547,7 +539,6 @@ den Handlungsfeldern der Absätze 3 bis 6 sowie mindestens eine
 fallbezogene Aufgabe aus dem Handlungsfeld des Absatzes 7 bearbeiten.
 Die Prüfungszeit beträgt 180 Minuten.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
@@ -558,7 +549,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
 Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entspricht.
-
 
 ## § 9 Bestehen der Meisterprüfung
 
@@ -594,7 +584,6 @@ soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung
 des Ergebnisses sind jeweils die bisherige Note der Prüfung und die
 Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 10 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -608,12 +597,10 @@ der Note „ausreichend“ bewertet worden sind und der Prüfling sich
 innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## § 11 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
-
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 

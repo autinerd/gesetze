@@ -22,14 +22,12 @@ Die §§ 11 bis 14, 16 und 18 dienen der Umsetzung der Richtlinie
 Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen
 im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36).
 
-
 ## Eingangsformel
 
 Auf Grund des § 49 Absatz 4 des Energiewirtschaftsgesetzes, der durch
 Artikel 4 Nummer 2 Buchstabe a des Gesetzes vom 7. März 2011 (BGBl. I
 S. 338) neu gefasst worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Geltungsbereich
 
@@ -50,7 +48,6 @@ nicht für Rohrfernleitungsanlagen zum Befördern von Stoffen im Sinne
 der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S.
 3777, 3809), die zuletzt durch Artikel 10 der Verordnung vom 9.
 November 2010 (BGBl. I S. 1504) geändert worden ist.
-
 
 ## § 2 Allgemeine Anforderungen
 
@@ -83,7 +80,6 @@ Insoweit entfällt eine erneute Überprüfung der Erfüllung der dort
 vorgesehenen Beschaffenheitsanforderungen im Rahmen der Prüfungen vor
 Bau und Inbetriebnahme nach den §§ 5 und 6, auch in Verbindung mit § 8
 Absatz 1.
-
 
 ## § 3 Anforderungen bei Errichtung
 
@@ -133,7 +129,6 @@ andere Leitungen kreuzen.
 werden muss, insbesondere in Schächten, Verdichter-, Entspannungs-,
 Mess- und Regelanlagen, sind Vorkehrungen zum Schutz gegen die
 gefährlichen Eigenschaften der Gase zu treffen.
-
 
 ## § 4 Anforderungen beim Betrieb
 
@@ -213,7 +208,6 @@ ist.
     archivmäßig niedergelegt beim Deutschen Verein des Gas- und
     Wasserfaches                             e. V.
 
-
 ## § 5 Verfahren zur Prüfung von Leitungsvorhaben
 
 (1) Wer die Errichtung einer Gashochdruckleitung beabsichtigt, hat
@@ -257,7 +251,6 @@ Prüfung nach § 6 Absatz 1 Nummer 1 zu überlassen. Der Sachverständige
 hat die Unterlagen der Vorabbescheinigung nach § 6 Absatz 1 Nummer 1
 beizufügen. Die Unterlagen sind der zuständigen Behörde zusammen mit
 der Vorabbescheinigung gemäß § 6 Absatz 3 Satz 1 zu übersenden.
-
 
 ## § 6 Inbetriebnahme und Untersagung des Betriebs
 
@@ -309,7 +302,6 @@ Anforderungen der Verordnung entspricht, es sei denn, der Betreiber
 weist nach, dass die Sicherheit der Gashochdruckleitung dadurch nicht
 gefährdet ist.
 
-
 ## § 7 Druckabsenkung, Betriebseinstellung und Stilllegung
 
 (1) Ist eine Gashochdruckleitung nicht in ordnungsgemäßem Zustand und
@@ -331,7 +323,6 @@ sonstigen Gründen die Einstellung des Betriebs oder die Stilllegung
 der Gashochdruckleitung zur Abwendung von Gefahren für erforderlich,
 so hat er dies der zuständigen Behörde unverzüglich mitzuteilen.
 
-
 ## § 8 Wesentliche Änderungen und Arbeiten an in Betrieb befindlichen Gashochdruckleitungen
 
 (1) Soll eine Gashochdruckleitung oder ein Leitungsabschnitt
@@ -350,7 +341,6 @@ erforderlich, wenn durch die Arbeiten die Sicherheit der
 Gashochdruckleitung nicht beeinträchtigt werden kann oder wenn eine
 drohende Gefahr ein sofortiges Eingreifen erfordert. Die Anhörung ist
 in diesen Fällen unverzüglich nachzuholen.
-
 
 ## § 9 Auskunfts- und Anzeigepflicht
 
@@ -382,7 +372,6 @@ verlangen.
 über Maßnahmen nach § 4 Absatz 1 Satz 3 und Maßnahmen der Überwachung
 nach § 4 Absatz 1 Satz 1 und deren Ergebnis zu verlangen.
 
-
 ## § 10 Erneute und wiederkehrende Prüfungen von Gashochdruckleitungen
 
 (1) Die zuständige Behörde kann anordnen, dass Gashochdruckleitungen
@@ -400,7 +389,6 @@ lassen. Art und Umfang der Prüfungen richten sich nach dem sie
 auslösenden Anlass. Unter gleichwertigen Prüfverfahren ist dasjenige
 auszuwählen, bei dessen Anwendung die Versorgung am wenigsten
 beeinträchtigt wird.
-
 
 ## § 11 Anerkennung von Sachverständigen
 
@@ -478,7 +466,6 @@ Sachverständigen von akkreditierten Inspektionsstellen im Sinne des §
 Sachverständigen von Inspektionsstellen, die Teil eines Unternehmens
 sind, das eine Gashochdruckleitung betreibt, und die Überprüfungen im
 eigenen Unternehmen vornehmen.
-
 
 ## § 13 Nachweis der Qualifikation und Ausrüstung
 
@@ -563,7 +550,6 @@ und Weise, so endet damit auch die Vermutung nach Absatz 1 zugunsten
 des Sachverständigen, der dieser Stelle angehört oder durch sie
 zertifiziert ist.
 
-
 ## § 14 Nachweis der Zuverlässigkeit des Sachverständigen
 
 (1) Die erforderliche Zuverlässigkeit gemäß § 12 Absatz 1 Satz 2
@@ -593,7 +579,6 @@ Person
 (2) Zum Nachweis der Zuverlässigkeit ist ein Führungszeugnis, das
 nicht älter als drei Monate ist, vorzulegen.
 
-
 ## § 15 Übergangsvorschriften
 
 Die Anforderungen nach § 12 Absatz 1 Satz 2 Nummer 2 bis 5 und Absatz
@@ -603,7 +588,6 @@ innerhalb von 24 Monaten ab Inkrafttreten der Verordnung an das neue
 Recht anzupassen. Sofern hierfür zusätzliche oder neue Nachweise
 erforderlich sind, sind diese innerhalb von 22 Monaten ab
 Inkrafttreten der Verordnung bei der zuständigen Behörde vorzulegen.
-
 
 ## § 16 Anerkennung gleichwertiger Nachweise aus anderen Mitgliedstaaten
 
@@ -667,7 +651,6 @@ vorzulegenden Führungszeugnis gleichwertig sind, nicht ausgestellt, so
 können sie durch eine Versicherung an Eides statt oder eine nach dem
 Recht des Herkunftsstaats vergleichbare Handlung ersetzt werden.
 
-
 ## § 17 Meldepflichten
 
 (1) Der Sachverständige hat wesentliche Änderungen der für die
@@ -686,7 +669,6 @@ Sinne des § 13 Absatz 1 Nummer 2 mit.
 (3) Die zuständige Behörde meldet dem Bundesministerium für Wirtschaft
 und Technologie und den zuständigen Behörden der anderen Bundesländer
 einmal jährlich zum 15. Januar die anerkannten Sachverständigen.
-
 
 ## § 18 Anzeige der vorübergehenden grenzüberschreitenden Tätigkeit von Sachverständigen
 
@@ -738,7 +720,6 @@ entsprechend. Trifft die zuständige Behörde innerhalb der in § 13a
 Absatz 2 Satz 3 und 5 genannten Fristen keine Entscheidung, so darf
 der Sachverständige tätig werden.
 
-
 ## § 19 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 des
@@ -773,10 +754,6 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 7.  entgegen § 7 Absatz 3 eine Mitteilung nicht oder nicht rechtzeitig
     macht.
 
-
-
-
-
 ## § 20 Bestehende Gashochdruckleitungen
 
 Die zuständige Behörde kann verlangen, dass Gashochdruckleitungen, die
@@ -788,10 +765,6 @@ Vorschriften dieser Verordnung entsprechend angepasst werden, wenn
 
 2.  Gefahren zu befürchten sind.
 
-
-
-
-
 ## § 21 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -799,7 +772,6 @@ Gleichzeitig tritt die Verordnung über Gashochdruckleitungen vom 17.
 Dezember 1974 (BGBl. I S. 3591), die zuletzt durch Artikel 380 der
 Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
 außer Kraft.
-
 
 ## Schlussformel
 

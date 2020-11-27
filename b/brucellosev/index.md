@@ -19,10 +19,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 20.12.2005 I 3601
 
-
 ## I. - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -45,14 +42,9 @@ Neugefasst durch
 Rinderbestand, der nach § 19 amtlich als brucellosefrei anerkannt ist
 oder nach § 24 als amtlich anerkannt gilt.
 
-
 ## II. - Schutzmaßregeln
 
-
-
 ### 1. - Allgemeine Schutzmaßregeln gegen die Brucellose der Rinder, Schweine, Schafe und Ziegen
-
-
 
 #### § 2
 
@@ -60,7 +52,6 @@ Impfungen gegen die Brucellose der Rinder, Schweine, Schafe und Ziegen
 und Heilversuche sind verboten. Die zuständige Behörde kann Ausnahmen
 zur Durchführung wissenschaftlicher Versuche zulassen, wenn Belange
 der Seuchenbekämpfung nicht entgegenstehen.
-
 
 #### § 3
 
@@ -112,7 +103,6 @@ die zuständige Behörde bei Schafen und Ziegen
 
 anordnen.
 
-
 #### § 4
 
 Bei einem Ausbruch der Brucellose oder einem Verdacht auf Brucellose
@@ -125,15 +115,10 @@ amtstierärztlichen Untersuchung folgendes:
 2.  Abgestoßene Früchte oder Nachgeburten sind so aufzubewahren, dass
     Ansteckungsstoff nicht verschleppt werden kann.
 
-
-
-
-
 #### § 5
 
 Die zuständige Behörde gibt den Ausbruch der Brucellose öffentlich
 bekannt.
-
 
 #### § 6
 
@@ -148,10 +133,7 @@ kann die zuständige Behörde eine amtstierärztliche Untersuchung auf
 Brucellose aller Bestände der betreffenden Tierart des verdächtigen
 Gebietes anordnen.
 
-
 ### 2. - Besondere Schutzmaßregeln gegen die Brucellose der Rinder
-
-
 
 #### § 7
 
@@ -175,7 +157,6 @@ waren, sowie für unter 12 Monate alte Rinder anordnen. Sie kann ferner
 die Einsendung von abgestoßenen oder abgestorbenen Früchten,
 totgeborenen Tieren oder Teilen davon sowie von Nachgeburtsteilen zur
 Untersuchung auf Brucellose anordnen.
-
 
 #### § 8
 
@@ -270,17 +251,13 @@ wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 an; sie kann die Tötung der verdächtigen Rinder anordnen, soweit dies
 zur Verhütung der Verbreitung der Brucellose notwendig ist.
 
-
 #### § 9
 
 Bei Verdacht auf Brucellose gelten die Maßregeln nach § 8 Abs. 1 Nr.
 5, 9 und 10; die Maßregeln nach § 8 Abs. 1 Nr. 1 bis 4 und 6 bis 8
 können von der zuständigen Behörde angeordnet werden.
 
-
 ### 3. - Besondere Schutzmaßregeln gegen die Brucellose der Schweine
-
-
 
 #### § 10
 
@@ -311,7 +288,6 @@ Absatz 1 Satz 1
 anordnen. Sie kann ferner die Einsendung von abgestoßenen oder
 abgestorbenen Früchten, totgeborenen Tieren oder Teilen davon sowie
 von Nachgeburtsteilen zur Untersuchung auf Brucellose anordnen.
-
 
 #### § 11
 
@@ -391,7 +367,6 @@ Verbreitung der Brucellose notwendig ist.
 (3) Die zuständige Behörde kann Ausnahmen von Absatz 1 Nr. 6, 7 und 9
 zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
 #### § 12
 
 Tritt in einem Gebiet die Brucellose der Schweine in größerem Umfang
@@ -422,10 +397,7 @@ der Gefahr
 soweit dies zur Verhütung der Verbreitung der Brucellose erforderlich
 ist.
 
-
 ### 4. - Besondere Schutzmaßregeln gegen die Brucellose der Schafe und Ziegen
-
-
 
 #### § 13
 
@@ -454,7 +426,6 @@ Absatz 1
 anordnen. Sie kann ferner die Einsendung von abgestoßenen oder
 abgestorbenen Früchten, totgeborenen Lämmern oder Teilen davon sowie
 von Nachgeburtsteilen zur Untersuchung auf Brucellose anordnen.
-
 
 #### § 14
 
@@ -549,10 +520,7 @@ ansteckungsverdächtigen Schafe und Ziegen des Bestandes anordnen,
 soweit dies zur Verhütung der Verbreitung der Brucellose notwendig
 ist.
 
-
 ### 5. - Besondere Schutzmaßregeln gegen die Brucellose bei anderen Haustieren
-
-
 
 #### § 15
 
@@ -563,10 +531,7 @@ verdächtigen Tiere die gleichen Schutzmaßnahmen anordnen, die nach
 dieser Verordnung zum Schutz gegen die Brucellose der Rinder,
 Schweine, Schafe oder Ziegen vorgesehen sind.
 
-
 ### 6. - Desinfektion
-
-
 
 #### § 16
 
@@ -609,10 +574,7 @@ benachbarten Standplätze oder die Stallabteilungen, auf oder in denen
 die Geburt oder Fehlgeburt stattgefunden hat, oder auf die Plätze, an
 denen die Blutentnahmen durchgeführt worden sind, beschränkt wird.
 
-
 ### 7. - Aufhebung der Schutzmaßregeln
-
-
 
 #### § 17
 
@@ -665,22 +627,13 @@ erloschen ist oder sich der Verdacht als unbegründet erwiesen hat.
     unter amtlicher Überwachung durchgeführt und vom beamteten Tierarzt
     abgenommen worden ist.
 
-
-
-
-
 ## III. - (weggefallen)
-
-
 
 ### § 18
 
 (weggefallen)
 
-
 ## IV. - Anerkannte Bestände
-
-
 
 ### § 19
 
@@ -706,10 +659,6 @@ brucellosefrei an, wenn
     Untersuchung der Einzel-, Kannen- oder Tankmilch untersucht worden
     sind.
 
-
-
-
-
 ### § 20
 
 (1) In einen anerkannten Bestand dürfen nur Rinder verbracht werden,
@@ -728,7 +677,6 @@ die aus anerkannten Beständen stammen.
 
 
 Nummer 1 gilt nicht für Rinder, die zur Schlachtung verbracht werden.
-
 
 ### § 21
 
@@ -763,10 +711,7 @@ werden, wenn eine der Vorschriften des § 20 Abs. 2 nicht eingehalten
 worden ist. Die Anordnung ist aufzuheben, wenn die Voraussetzungen des
 § 17 Abs. 2 Nr. 3 und 4 erfüllt sind.
 
-
 ## V. - Brucellosefreier Schweinebestand
-
-
 
 ### § 22
 
@@ -781,13 +726,7 @@ Ein Schweinebestand gilt als brucellosefrei, wenn
 
 2.  der Rinderbestand in demselben Gehöft ein anerkannter Bestand ist.
 
-
-
-
-
 ## VI. - Ordnungswidrigkeiten
-
-
 
 ### § 23
 
@@ -904,20 +843,13 @@ Viehseuchengesetzes \*) handelt, wer vorsätzlich oder fahrlässig
 
 \*) Jetzt: Tierseuchengesetzes
 
-
-
-
-
 ## VII. - Schlussvorschriften
-
-
 
 ### § 24
 
 Ein Rinderbestand, der vor Inkrafttreten dieser Verordnung von der
 zuständigen Behörde amtlich als brucellosefrei anerkannt worden ist,
 gilt als anerkannter Bestand im Sinne dieser Verordnung.
-
 
 ### § 25
 

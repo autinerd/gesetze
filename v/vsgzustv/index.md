@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 493 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 8 und des § 19 Abs. 7 des
 Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom
 8\. Oktober 1968 (BGBl. I S. 1082) verordnet der Bundesminister für
 Verkehr:
-
 
 ## § 1 Übertragung von Befugnissen
 
@@ -37,7 +35,6 @@ Verkehrssicherstellungsgesetzes zu Leistungen für Zwecke der
 Verteidigung zu verpflichten und von der Einhaltung der in § 10 Abs. 6
 des Verkehrssicherstellungsgesetzes bezeichneten Vorschriften zu
 befreien, werden auf das Eisenbahn-Bundesamt übertragen.
-
 
 ## § 2 Zuständigkeiten für die Verpflichtung zu Leistungen
 
@@ -106,7 +103,6 @@ befreien, werden auf das Eisenbahn-Bundesamt übertragen.
 (2) Die Befugnisse der in Absatz 1 Nr. 2 Buchstabe a genannten
 Behörden kann die oberste Straßenbaubehörde selbst wahrnehmen, wenn
 die Verpflichtung der Sicherstellung des weiträumigen Verkehrs dient.
-
 
 ## § 3 Zuständigkeiten für die Auferlegung sonstiger Pflichten
 
@@ -209,7 +205,6 @@ erstreckt sich auch auf die Auferlegung von Verpflichtungen, soweit
 diese Umschlagsbetriebe betreffen, die zu den Flughäfen und
 Flugplätzen gehören.
 
-
 ## § 4 Ersatzzuständigkeit
 
 Sind die nach dieser Verordnung zuständigen Behörden aus tatsächlichen
@@ -222,7 +217,6 @@ werden, wenn dies zur Abwendung einer unmittelbar drohenden Gefahr
 notwendig ist und die übergeordneten Behörden nicht rechtzeitig
 handeln können. Die übergeordnete Behörde ist in diesen Fällen
 unverzüglich zu unterrichten.
-
 
 ## § 5 Örtliche Zuständigkeit
 
@@ -263,14 +257,12 @@ Verkehrsmittel befinden.
 von den Absätzen 1 und 2 die Behörde örtlich zuständig, in deren
 Bezirk die örtliche Betriebsleitung der Straßenbahn ihren Sitz hat.
 
-
 ## § 6 Inkrafttreten und Außerkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

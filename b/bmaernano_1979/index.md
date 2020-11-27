@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Abschn. II AnO v. 27.1.2003 I 177
 
-
 ## I.
 
 Auf Grund des Artikels 1 Abs. 1 Satz 2 der Anordnung des
@@ -53,22 +52,18 @@ Rechtes zur Ernennung und Entlassung der Bundesbeamten nach § 40 Abs.
 2 Satz 2 des Arbeitsgerichtsgesetzes im Einvernehmen mit dem
 Bundesminister der Justiz übertragen.
 
-
 ## II.
 
 (nicht mehr anzuwenden)
-
 
 ## III.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in den Abschnitten I und II bezeichneten Bundesbeamten vor.
 
-
 ## IV.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

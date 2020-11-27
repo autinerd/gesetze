@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S.
@@ -27,10 +26,7 @@ Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S.
 Dezember 1985 (BGBl. I S. 2436) eingefügt worden ist, verordnet die
 Bundesregierung:
 
-
 ## 1. Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Grundsätze
 
@@ -52,7 +48,6 @@ Sozialgeheimnis unterliegen (§ 35 des Ersten Buches Sozialgesetzbuch),
 und nach Landesrecht zu erbringende Sozialleistungen nicht
 mitzuteilen.
 
-
 ### § 2 Allgemeine Zahlungsmitteilungen
 
 (1) Die Behörden haben Zahlungen mitzuteilen, wenn der
@@ -69,7 +64,6 @@ ein Steuerabzug durchgeführt wird.
 zulassen, wenn die Zahlungen geringe oder keine steuerliche Bedeutung
 haben.
 
-
 ### § 3 Honorare der Rundfunkanstalten
 
 (1) Die öffentlich-rechtlichen Rundfunkanstalten haben Honorare für
@@ -85,13 +79,11 @@ Geldeswert bestehen und dem Steuerpflichtigen für eine persönliche
 Leistung oder eine Verwertung im Sinne des Urheberrechtsgesetzes
 zufließen.
 
-
 ### § 4 Wegfall oder Einschränkung einer steuerlichen Vergünstigung
 
 Die Behörden haben Verwaltungsakte mitzuteilen, die den Wegfall oder
 die Einschränkung einer steuerlichen Vergünstigung zur Folge haben
 können.
-
 
 ### § 4a Ausfuhrerstattungen
 
@@ -99,12 +91,10 @@ Die Zollbehörden haben den Landesfinanzbehörden die im Rahmen der
 gemeinsamen Marktorganisationen gewährten Ausfuhrerstattungen
 mitzuteilen.
 
-
 ### § 5 Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
 
 Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen
 nach dem Flurbereinigungsgesetz mitzuteilen.
-
 
 ### § 6 Gewerberechtliche Erlaubnisse und Gestattungen
 
@@ -161,10 +151,6 @@ Ausführung von Werkverträgen tätig werden:
 
 3.  den Ort der Durchführung des Werkvertrages.
 
-
-
-
-
 ### § 7 Ausnahmen von der Mitteilungspflicht über Zahlungen
 
 (1) Zahlungen an Behörden, juristische Personen des öffentlichen
@@ -190,10 +176,7 @@ Zahlungsweise und die voraussichtliche Dauer der Zahlungen mitgeteilt
 zu werden, wenn mitgeteilt wird, daß es sich um wiederkehrende Bezüge
 handelt.
 
-
 ## 2. Teil - Mitteilungen
-
-
 
 ### § 8 Form und Inhalt der Mitteilungen
 
@@ -225,7 +208,6 @@ Bescheids erfüllt werden. In diesem Fall dürfen jedoch nicht mehr
 personenbezogene Daten übermittelt werden, als nach Satz 1 zulässig
 ist.
 
-
 ### § 9 Empfänger der Mitteilungen
 
 (1) Die Mitteilungen sind an das Finanzamt zu richten, in dessen
@@ -250,7 +232,6 @@ Rundfunkanstalt ihren Sitz hat, eine andere Landesfinanzbehörde oder
 mit Zustimmung des Bundesministeriums der Finanzen eine Finanzbehörde
 des Bundes als Empfänger der Mitteilungen bestimmen.
 
-
 ### § 10
 
 Die Mitteilungen nach § 6 Abs. 2 sind unverzüglich, die Mitteilungen
@@ -258,10 +239,7 @@ nach den §§ 4 und 6 Abs. 1 sind mindestens vierteljährlich und die
 übrigen Mitteilungen mindestens einmal jährlich, spätestens bis zum
 30\. April des Folgejahres, zu übersenden.
 
-
 ## 3. Teil - Unterrichtung des Betroffenen
-
-
 
 ### § 11 Pflicht zur Unterrichtung
 
@@ -269,7 +247,6 @@ Die mitteilungspflichtige Behörde oder öffentlich-rechtliche
 Rundfunkanstalt hat den Betroffenen von ihrer Verpflichtung,
 Mitteilungen zu erstellen, spätestens bei Übersendung der ersten
 Mitteilung an die Finanzbehörde zu unterrichten.
-
 
 ### § 12 Inhalt der Unterrichtung
 
@@ -285,15 +262,11 @@ Aufstellung der im Kalenderjahr geleisteten Zahlungen und ihrer Summe
 zu übersenden, soweit nicht über die einzelne Zahlung bereits eine
 Unterrichtung erfolgt ist.
 
-
 ## 4. Teil - Schlußvorschriften
-
-
 
 ### § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
-
 
 ### Schlußformel
 

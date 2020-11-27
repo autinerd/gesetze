@@ -18,36 +18,28 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 49 G v. 5.2.2009 I 160
 
-
 ## - - Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 8 -
 
 -
-
 
 ## Art 9
 
 -
 
-
 ## Art 10 -
 
 -
-
 
 ## Art 11 -
 
 (weggefallen)
 
-
 ## Art 12 - Übergangsvorschriften
-
-
 
 ## § 1 Neufestsetzung des Besoldungsdienstalters
 
@@ -58,11 +50,9 @@ festgesetzt, soweit sich aufgrund des § 28 Abs. 3 Nr. 2 und des § 29
 Abs. 2 Nr. 1 des Bundesbesoldungsgesetzes in der Fassung dieses
 Gesetzes eine Verbesserung ergibt.
 
-
 ## § 2 (weggefallen)
 
 -
-
 
 ## § 3 Dienstordnungsmäßig Angestellte
 
@@ -83,20 +73,17 @@ niedriger einzustufen, erhält der bei Inkrafttreten der Regelung
 vorhandene Dienstposteninhaber für seine Person weiterhin Dienstbezüge
 aus seiner bisherigen Besoldungsgruppe.
 
-
 ## § 4 Amtsangemessene Alimentation kinderreicher Beamter
 
 Der Familienzuschlag nach Anlage V des Bundesbesoldungsgesetzes wird
 ab dem 1. Januar 2002 für das dritte und jedes weitere zu
 berücksichtigende Kind um je 106,39 Euro erhöht.
 
-
 ## Art 13 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 7, 8 und 10 beruhenden Teile der dort geänderten
 Rechtsverordnungen können aufgrund der jeweils einschlägigen
 Ermächtigungen durch Rechtsverordnung geändert werden.
-
 
 ## Art 14 - Neufassungen
 
@@ -105,7 +92,6 @@ Bundesbesoldungsgesetzes und der in den Artikeln 2 bis 6 geänderten
 Gesetze sowie der in den Artikeln 7, 8 und 10 geänderten
 Rechtsverordnungen in der ab 1. Januar 2002 geltenden Fassung im
 Bundesgesetzblatt bekannt machen.
-
 
 ## Art 15 - Inkrafttreten
 

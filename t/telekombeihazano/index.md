@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1199
 
-
-
 ## I. Erlaß von Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -29,7 +27,6 @@ Verwaltungsvorschrift über die Gewährung von Beihilfen in Krankheits-,
 Geburts- und Todesfällen (Beihilfevorschriften) Widerspruchsbescheide
 zu erlassen, auf das Unternehmen Deutsche Bundespost POSTDIENST.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertragen wir
@@ -38,11 +35,9 @@ den in Abschnitt I genannten Angelegenheiten auf das Unternehmen
 Deutsche Bundespost POSTDIENST. Für besondere Fälle behalten wir uns
 die Vertretung des Dienstherrn vor.
 
-
 ## III. Schlußvorschriften
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

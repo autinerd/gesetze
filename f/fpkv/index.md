@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 29.7.2005 I 2424
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 17 des Luftverkehrsgesetzes in
@@ -28,7 +27,6 @@ vom 23. Juli 1992 (BGBl. I S. 1370) eingefügt worden ist, und des § 63
 Nr. 2 des Luftverkehrsgesetzes in der vorgenannten Fassung, zuletzt
 geändert durch das Gesetz vom 17. Dezember 1993 (BGBl. I S. 2123),
 verordnet das Bundesministerium für Verkehr:
-
 
 ## § 1 Der Koordinierung und Flugplanvermittlung unterliegende Flugplätze und Verfahren der Flugplanvermittlung und Koordinierung
 
@@ -117,7 +115,6 @@ Landezeiten (Slots) sowie der Vorschriften über die Durchführung der
 Flughafenkoordination entscheidet das Bundesministerium für Verkehr,
 Bau und Stadtentwicklung im Rahmen seiner Rechts- und Fachaufsicht.
 
-
 ## § 2 Koordinierungsausschuss
 
 (1) Für jeden koordinierten Verkehrsflughafen wird ein
@@ -141,7 +138,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung für den
 betreffenden Verkehrsflughafen einen Koordinierungsausschuss ein, der
 für diesen Flughafen die Aufgaben des Koordinierungsausschusses nach
 Absatz 1 wahrnimmt.
-
 
 ## § 3 Umfang der Koordinierungspflicht
 
@@ -170,10 +166,6 @@ anzumelden.
     nicht mehr benötigt wird, zum jeweils festgesetzten Termin nicht
     zurückgegeben wird.
 
-
-
-
-
 ## § 4 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
@@ -198,11 +190,9 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 über Ordnungswidrigkeiten ist das Bundesaufsichtsamt für
 Flugsicherung.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

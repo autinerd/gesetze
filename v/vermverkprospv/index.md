@@ -18,20 +18,16 @@ Fundstelle
 Geändert durch
 :   Art. 15 G v. 6.12.2011 I 2481
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8g Abs. 2 und 3 des Verkaufsprospektgesetzes, der
 durch Artikel 2 Nr. 1 des Gesetzes vom 28. Oktober 2004 (BGBl. I S.
 2630) eingefügt worden ist, verordnet die Bundesregierung:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung ist auf den Verkaufsprospekt für Vermögensanlagen im
 Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes anzuwenden.
-
 
 ## § 2 Allgemeine Grundsätze
 
@@ -85,7 +81,6 @@ versehen und vom Anbieter zu unterzeichnen.
 
 (5) (weggefallen)
 
-
 ## § 3 Angaben über Personen oder Gesellschaften, die für den Inhalt des Verkaufsprospekts die Verantwortung übernehmen
 
 Der Verkaufsprospekt muss Namen, Geschäftsanschrift und Funktionen,
@@ -95,7 +90,6 @@ insgesamt oder für bestimmte Angaben die Verantwortung übernehmen; er
 muss eine Erklärung dieser Personen oder Gesellschaften enthalten,
 dass ihres Wissens die Angaben richtig und keine wesentlichen Umstände
 ausgelassen sind.
-
 
 ## § 4 Angaben über die Vermögensanlagen
 
@@ -182,7 +176,6 @@ im Sinne des § 1 Absatz 2 Nummer 2 des Vermögensanlagengesetzes ist
 der Treuhandvertrag als Teil des Prospekts beizufügen. Ebenso ist der
 Vertrag über die Mittelverwendungskontrolle beizufügen.
 
-
 ## § 5 Angaben über den Emittenten
 
 Der Verkaufsprospekt muss über den Emittenten angeben:
@@ -213,10 +206,6 @@ Der Verkaufsprospekt muss über den Emittenten angeben:
 6.  eine kurze Beschreibung des Konzerns und der Einordnung des Emittenten
     in ihn, falls der Emittent ein Konzernunternehmen ist.
 
-
-
-
-
 ## § 6 Angaben über das Kapital des Emittenten
 
 Der Verkaufsprospekt muss über das Kapital des Emittenten angeben:
@@ -239,7 +228,6 @@ zusätzlich den Nennbetrag der umlaufenden Wertpapiere, die den
 Gläubigern ein Umtausch- oder Bezugsrecht auf Aktien einräumen,
 angeben. Daneben muss er die Bedingungen und das Verfahren für den
 Umtausch oder den Bezug nennen.
-
 
 ## § 7 Angaben über Gründungsgesellschafter des Emittenten und über die Gesellschafter des Emittenten zum Zeitpunkt der Aufstellung des Verkaufsprospekts
 
@@ -357,10 +345,6 @@ Gesellschafter zum Zeitpunkt der Prospektaufstellung
 3.  Lieferungen oder Leistungen im Zusammenhang mit der Anschaffung oder
     Herstellung des Anlageobjekts erbringen.
 
-
-
-
-
 ## § 8 Angaben über die Geschäftstätigkeit des Emittenten
 
 (1) Der Verkaufsprospekt muss über die Geschäftstätigkeit des
@@ -387,7 +371,6 @@ Emittenten folgende Angaben enthalten:
 
 (2) Ist die Tätigkeit des Emittenten durch außergewöhnliche Ereignisse
 beeinflusst worden, so ist darauf hinzuweisen.
-
 
 ## § 9 Angaben über die Anlageziele und Anlagepolitik der Vermögensanlagen
 
@@ -469,10 +452,6 @@ Fonds zusätzlich über die Anlageziele und Anlagepolitik angeben:
     verbindlich zugesagt sind. Darüber hinaus ist die angestrebte
     Fremdkapitalquote anzugeben und wie sich die Hebeleffekte auswirken.
 
-
-
-
-
 ## § 10 Angaben über die Vermögens-, Finanz- und Ertragslage des Emittenten
 
 (1) Der Verkaufsprospekt muss über die Vermögens-, Finanz- und
@@ -511,7 +490,6 @@ enthalten.
 Zwischenübersicht, die nach dem Stichtag eingetreten ist, muss im
 Verkaufsprospekt erläutert werden.
 
-
 ## § 11 Angaben über die Prüfung des Jahresabschlusses des Emittenten
 
 Der Verkaufsprospekt muss den Namen, die Anschrift und die
@@ -522,7 +500,6 @@ zusätzlicher Bemerkungen aufzunehmen; wurde die Bestätigung des
 Jahresabschlusses eingeschränkt oder versagt, so müssen der volle
 Wortlaut der Einschränkungen oder der Versagung und deren Begründung
 wiedergegeben werden.
-
 
 ## § 12 Angaben über Mitglieder der Geschäftsführung oder des Vorstands, Aufsichtsgremien und Beiräte des Emittenten, den Treuhänder und sonstige Personen
 
@@ -666,7 +643,6 @@ Herausgabe oder den Inhalt des Verkaufsprospekts oder die Abgabe oder
 den Inhalt des Angebots der Vermögensanlage wesentlich beeinflusst
 haben.
 
-
 ## § 13 Angaben über den jüngsten Geschäftsgang und die Geschäftsaussichten des Emittenten
 
 Der Verkaufsprospekt muss allgemeine Ausführungen über die
@@ -675,7 +651,6 @@ Geschäftsjahres, auf das sich der letzte offen gelegte Jahresabschluss
 bezieht, sowie Angaben über die Geschäftsaussichten des Emittenten
 mindestens für das laufende Geschäftsjahr enthalten.
 
-
 ## § 14 Gewährleistete Vermögensanlagen
 
 Für das Angebot von Vermögensanlagen, für deren Verzinsung oder
@@ -683,7 +658,6 @@ Rückzahlung eine juristische Person oder Gesellschaft die
 Gewährleistung übernommen hat, sind die Angaben nach den §§ 5 bis 13
 auch über die Person oder Gesellschaft, welche die Gewährleistung
 übernommen hat, aufzunehmen.
-
 
 ## § 15 Verringerte Prospektanforderungen
 
@@ -726,10 +700,6 @@ abgesehen werden, wenn
     zufügt, sofern die Nichtveröffentlichung das Publikum nicht über die
     für die Beurteilung der Vermögensanlagen wesentlichen Tatsachen und
     Umstände täuscht.
-
-
-
-
 
 ## § 16 Inkrafttreten
 

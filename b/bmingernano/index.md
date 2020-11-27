@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1529
 
-
 ## I.
 
 Nach Artikel 1 Absatz 1 Satz 2 der Anordnung des Bundespräsidenten
@@ -46,10 +45,6 @@ widerruflich übertragen auf:
 –   die Präsidentin und Professorin oder den Präsidenten und Professor des
     Robert Koch-Instituts.
 
-
-
-
-
 ## II.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
@@ -61,7 +56,6 @@ die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche
 Aufklärung, des Deutschen Instituts für medizinische Dokumentation und
 Information, des Bundesinstituts für Arzneimittel und Medizinprodukte,
 des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.
-
 
 ## Schlussformel
 

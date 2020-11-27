@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 13.9.2001 I 2376
 
-
 ## § 1 Aufhebung des Rechts der Gemeinnützigkeit im Wohnungswesen
 
 Es werden aufgehoben:
@@ -27,10 +26,6 @@ Es werden aufgehoben:
 
 3.  die Verordnung zur Durchführung des Wohnungsgemeinnützigkeitsgesetzes
     im Saarland vom 17. Februar 1970 (Amtsblatt des Saarlandes S. 126).
-
-
-
-
 
 ## § 2 Maßnahmen bei Verstößen gegen Vorschriften des Wohnungsgemeinnützigkeitsrechts
 
@@ -41,7 +36,6 @@ Gemeinnützigkeit im Wohnungswesen verstoßen, kann die ehemals
 zuständige Anerkennungsbehörde dem Unternehmen eine geldliche Leistung
 zur Abgeltung der durch die Gesetzesverstöße erlangten Vorteile
 einschließlich der ersparten Steuern auferlegen.
-
 
 ## § 3 Sicherstellung der Pensionszusagen und der Verpflichtung aus Sozialplänen und aus betrieblichen Vereinbarungen
 
@@ -66,16 +60,13 @@ werden. Voraussetzung ist, daß das Ausscheiden auf Umständen beruht,
 die durch die Aufhebung der in § 1 bezeichneten Vorschriften des
 Wohnungsgemeinnützigkeitsrechts herbeigeführt worden sind.
 
-
 ## § 4
 
 (weggefallen)
 
-
 ## § 5
 
 -
-
 
 ## § 6 Berlin-Klausel
 

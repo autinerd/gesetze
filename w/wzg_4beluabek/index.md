@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Bek. vom 14.1.1992 I 224
 
-
 ## I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -32,7 +31,6 @@ amtliche Prüf- und Gewährzeichen bekanntgemacht, die
 - in der Portugiesischen Republik (Anlage 6)
 eingeführt sind.
 
-
 ## II.
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird
@@ -42,64 +40,53 @@ bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen
 - der Internationalen Seeschiffahrts-Organisation (Anlage 9)
 von der Eintragung als Warenzeichen ausgeschlossen sind.
 
-
 ## III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7.
 September 1981 (BGBl. I S. 940).
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 48)
 
-
 ## Anlage 2
 
 (weggefallen)
-
 
 ## Anlage 3
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 49)
 
-
 ## Anlage 4
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 50)
-
 
 ## Anlage 5
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 50)
 
-
 ## Anlage 6
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 51)
-
 
 ## Anlage 7
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 51)
 
-
 ## Anlage 8
 
 (Inhalt: Nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 52)
-
 
 ## Anlage 9
 

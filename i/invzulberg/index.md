@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 3676, 3678
 
-
-
 ## § 1 Nichtberücksichtigung der Investitionszulage
 
 Bei der Herstellung von Gebäuden und Gebäudeteilen mit preisgebundenen
@@ -27,12 +25,10 @@ vom 23. Dezember 1974 (Bundesgesetzbl. I S. 3676) gewährte
 Investitionszulage in der Wirtschaftlichkeitsberechnung zur Ermittlung
 der zulässigen Miete nicht zu berücksichtigen.
 
-
 ## § 2 Berlin-Klausel
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
-
 
 ## § 3 Inkrafttreten
 

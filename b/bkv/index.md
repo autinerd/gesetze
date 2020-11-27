@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 11.6.2009 I 1273
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 und 6 und des § 193 Abs. 8 des Siebten Buches
@@ -26,20 +25,17 @@ Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des
 Gesetzes vom 7. August 1996, BGBl. I S. 1254) verordnet die
 Bundesregierung:
 
-
 ## § 1 Berufskrankheiten
 
 Berufskrankheiten sind die in der Anlage 1 bezeichneten Krankheiten,
 die Versicherte infolge einer den Versicherungsschutz nach § 2, 3 oder
 6 des Siebten Buches Sozialgesetzbuch begründenden Tätigkeit erleiden.
 
-
 ## § 2 Erweiterter Versicherungsschutz in Unternehmen der Seefahrt
 
 Für Versicherte in Unternehmen der Seefahrt erstreckt sich die
 Versicherung gegen Tropenkrankheiten und Fleckfieber auch auf die
 Zeit, in der sie an Land beurlaubt sind.
-
 
 ## § 3 Maßnahmen gegen Berufskrankheiten, Übergangsleistung
 
@@ -68,7 +64,6 @@ Als Übergangsleistung wird
 
 gezahlt. Renten wegen Minderung der Erwerbsfähigkeit sind nicht zu
 berücksichtigen.
-
 
 ## § 4 Mitwirkung der für den medizinischen Arbeitsschutz zuständigen Stellen
 
@@ -105,7 +100,6 @@ Zusammenhangsgutachten erstellen. Zur Vorbereitung dieser Gutachten
 können sie die Versicherten untersuchen oder andere Ärzte auf Kosten
 der Unfallversicherungsträger mit Untersuchungen beauftragen.
 
-
 ## § 5 Gebühren
 
 (1) Erstellen die für den medizinischen Arbeitsschutz zuständigen
@@ -132,7 +126,6 @@ Ursachenzusammenhangs zwischen der Erkrankung und den
 tätigkeitsbezogenen Gefährdungen unter Berücksichtigung der besonderen
 für die gesetzliche Unfallversicherung geltenden Bestimmungen
 vornimmt.
-
 
 ## § 6 Rückwirkung
 
@@ -185,11 +178,9 @@ entgegen. Leistungen werden rückwirkend längstens für einen Zeitraum
 bis zu vier Jahren erbracht; der Zeitraum ist vom Beginn des Jahres an
 zu rechnen, in dem der Antrag gestellt worden ist.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
@@ -197,11 +188,9 @@ zu rechnen, in dem der Antrag gestellt worden ist.
 
 (2)
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1
 
@@ -766,10 +755,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   6101
 
     *   Augenzittern der Bergleute
-
-
-
-
 
 ## Anlage 2 Berufskrankheit Nummer 4114 Verursachungswahrscheinlichkeit in Prozent
 

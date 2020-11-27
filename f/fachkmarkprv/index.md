@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 588
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -28,7 +26,6 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -68,7 +65,6 @@ verantwortlich planen, beurteilen und umsetzen zu können. Dazu zählen:
 "Geprüfter Fachkaufmann für Marketing/Geprüfte Fachkauffrau für
 Marketing".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -96,7 +92,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -161,7 +156,6 @@ anzubieten. Die Ergänzungsprüfung soll in der Regel nicht länger als
 und der mündlichen Ergänzungsprüfung werden zu einer Note
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ## § 4 Inhalt der Prüfung
 
@@ -284,10 +278,6 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
     Marketingprojektes, im Besonderen im Konfliktmanagement zielorientiert
     anwenden.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -298,7 +288,6 @@ vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
 von der mündlichen Prüfung nach § 3 Abs. 3 bis 6 ist nicht zulässig.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -311,7 +300,6 @@ sind gesondert nach Punkten zu bewerten.
 und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholen der Prüfung
 
@@ -328,7 +316,6 @@ Wiederholungsprüfung angemeldet hat. Bestandene Prüfungsleistungen
 können auf Antrag einmal wiederholt werden. In diesem Fall gilt das
 Ergebnis der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Fachkaufmann für
@@ -342,11 +329,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum 31.
 Dezember 2008 die Anwendung der bisherigen Vorschriften beantragt
 werden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 2) Muster
 
@@ -372,7 +357,6 @@ bestanden.
 Datum .................................
 Unterschrift(en) ......................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 2) Muster
 

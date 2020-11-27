@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 56 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Gemeinsame Regelungen für inländische und ausländische Investmentanteile
-
-
 
 ### § 1 Anwendungsbereich und Begriffsbestimmungen
 
@@ -215,10 +212,6 @@ zugeflossenen oder als zugeflossen geltenden
     für Anteile an anderen Investmentvermögen, die das Investmentvermögen
     hält.
 
-
-
-
-
 ### § 2 Erträge aus Investmentanteilen
 
 (1) Die auf Investmentanteile ausgeschütteten sowie die
@@ -324,7 +317,6 @@ von während des laufenden Geschäftsjahres des Investmentvermögens
 ausgegebenen Anteilen werden nur berücksichtigt, wenn das
 Investmentvermögen einen Ertragsausgleich nach § 9 durchführt.
 
-
 ### § 3 Ermittlung der Erträge
 
 (1) Bei der Ermittlung der Erträge des Investmentvermögens ist § 2
@@ -421,7 +413,6 @@ auszugleichen.
 Personengesellschaft gehören zu den Erträgen des Geschäftsjahres, in
 dem das Wirtschaftsjahr der Personengesellschaft endet.
 
-
 ### § 4 Ausländische Einkünfte
 
 (1) Die auf Investmentanteile ausgeschütteten sowie die
@@ -484,7 +475,6 @@ anrechenbaren oder abziehbaren ausländischen Steuern bei der
 Ermittlung der Erträge (§ 3) als Werbungskosten abziehen. In diesem
 Fall hat der Anleger keinen Anspruch auf Anrechnung oder Abzug dieser
 Steuern nach Absatz 2.
-
 
 ### § 5 Besteuerungsgrundlagen
 
@@ -734,7 +724,6 @@ Investmentgesetzes und bei ausländischen Investmentvermögen, die
 hinsichtlich ihrer Anlagepolitik vergleichbaren Anforderungen
 unterliegen, keine Anwendung.
 
-
 ### § 6 Besteuerung bei fehlender Bekanntmachung
 
 Sind die Voraussetzungen des § 5 Abs. 1 nicht erfüllt, sind beim
@@ -748,7 +737,6 @@ nicht festgesetzt, so tritt an seine Stelle der Börsen- oder
 Marktpreis. Der nach Satz 1 anzusetzende Teil des Mehrbetrags gilt mit
 Ablauf des jeweiligen Kalenderjahres als ausgeschüttet und
 zugeflossen.
-
 
 ### § 7 Kapitalertragsteuer
 
@@ -1015,7 +1003,6 @@ und Verwaltung von Investmentanteilen für die Anwendung der
 Vorschriften des Einkommensteuergesetzes zum Kapitalertragsteuerabzug
 einem inländischen Kreditinstitut gleich.
 
-
 ### § 8 Veräußerung von Investmentanteilen; Vermögensminderung
 
 (1) Auf die Einnahmen aus der Rückgabe, Veräußerung oder Entnahme von
@@ -1135,7 +1122,6 @@ Rückgabe, Veräußerung oder Entnahme von Investmentanteilen sowie auf
 Verluste durch Ansatz des niedrigeren Teilwerts bei Investmentanteilen
 sinngemäß anzuwenden.
 
-
 ### § 9 Ertragsausgleich
 
 Den in den ausgeschütteten und ausschüttungsgleichen Erträgen
@@ -1146,7 +1132,6 @@ gleich. Die Einnahmen und Zwischengewinne im Sinne des § 1 Absatz 4
 sind bei Anwendung eines Ertragsausgleichsverfahrens um die hierauf
 entfallenden Teile des Ausgabepreises für ausgegebene Anteile zu
 erhöhen.
-
 
 ### § 10 Dach-Investmentvermögen
 
@@ -1161,10 +1146,7 @@ steuerpflichtigen Erträgen des Dach-Investmentvermögens zuzurechnen.
 Die vorstehenden Sätze sind auch auf Master-Feeder-Strukturen im Sinne
 des Kapitels 2 Abschnitt 1a des Investmentgesetzes anzuwenden.
 
-
 ## Abschnitt 2 - Regelungen nur für inländische Investmentanteile
-
-
 
 ### § 11 Zweckvermögen; Steuerbefreiung; Außenprüfung
 
@@ -1204,7 +1186,6 @@ steuerlichen Verhältnisse des Investmentvermögens, zum Zwecke der
 Prüfung der Berichte nach § 44 des Investmentgesetzes und der
 Besteuerungsgrundlagen nach § 5.
 
-
 ### § 12 Ausschüttungsbeschluss
 
 Die inländische Investmentgesellschaft hat über die Verwendung der zur
@@ -1213,7 +1194,6 @@ Beschluss schriftlich zu dokumentieren. Der Beschluss hat Angaben zur
 Zusammensetzung der Ausschüttung zu enthalten. Er hat außerdem Angaben
 zu den noch nicht ausgeschütteten Beträgen, die nicht unter § 19 Abs.
 1 fallen, zu enthalten.
-
 
 ### § 13 Gesonderte Feststellung der Besteuerungsgrundlagen
 
@@ -1256,7 +1236,6 @@ Fällen des § 1 Absatz 1 Nummer 1 Buchstabe b, in dessen Bezirk die
 Zweigniederlassung besteht, oder in den Fällen des § 1 Absatz 1 Nummer
 1 Buchstabe c, in dessen Bezirk sich die Geschäftsleitung der
 inländischen Depotbank befindet.
-
 
 ### § 14 Verschmelzung von Investmentvermögen und Teilen von Investmentvermögen
 
@@ -1355,7 +1334,6 @@ Investmentaktiengesellschaften auf dasselbe Sondervermögen oder
 Teilgesellschaftsvermögen oder dieselbe Investmentaktiengesellschaft
 ist zulässig.
 
-
 ### § 15 Inländische Spezial-Sondervermögen und Spezial-Investmentaktiengesellschaften
 
 (1) Bei inländischen Spezial-Sondervermögen oder Spezial-
@@ -1404,10 +1382,7 @@ Investmentgesellschaft einzubehalten; Absatz 1 Satz 8 bis 10 gilt
 entsprechend. § 50 Absatz 2 Satz 1 des Einkommensteuergesetzes findet
 keine Anwendung.
 
-
 ## Abschnitt 3 - Regelungen nur für ausländische Investmentanteile
-
-
 
 ### § 16 Ausländische Spezial-Investmentvermögen
 
@@ -1432,7 +1407,6 @@ ausländische Spezial-Investmentvermögen innerhalb von vier Monaten
 nach Ende des Geschäftsjahres einen Ausschüttungsbeschluss, beginnt
 die Frist nach Satz 6 erst mit dem Tage des Ausschüttungsbeschlusses.
 
-
 ### § 17 Repräsentant
 
 Der Repräsentant einer ausländischen Investmentgesellschaft im Sinne
@@ -1443,7 +1417,6 @@ ausländische Investmentgesellschaft gerichtlich oder außergerichtlich
 vertritt und er hierbei weder über die Anlage des eingelegten Geldes
 bestimmt noch bei dem Vertrieb der ausländischen Investmentanteile
 tätig wird.
-
 
 ### § 17a Auswirkungen der Verschmelzung von ausländischen Investmentvermögen und Teilen eines solchen Investmentvermögens auf ein anderes ausländisches Investmentvermögen oder Teile eines solchen Investmentvermögens
 
@@ -1493,10 +1466,7 @@ entsprechend; dies gilt bei § 14 Absatz 7 Satz 2 nicht für die
 Übertragung aller Vermögensgegenstände eines Sondervermögens auf ein
 anderes Sondervermögen.
 
-
 ## Abschnitt 4 - Anwendungs- und Übergangsregelungen
-
-
 
 ### § 18 Anwendungsvorschriften
 
@@ -1746,7 +1716,6 @@ stehen. Satz 1 gilt nicht bei Kapitalerträgen aus Anteilen, wenn es
 sich um den Erwerb von Anteilen an einem Ziel-Investmentvermögen
 handelt und die Anteile an das Dach-Investmentvermögen ausgegeben
 werden.
-
 
 ### § 19 Übergangsvorschriften
 

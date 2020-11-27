@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1723
 
-
-
 ## (XXXX)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994
@@ -36,13 +34,11 @@ April 1999 (BGBl. I S. 767).
 
 Bundesministerium der Justiz
 
-
 ## Anlage 1
 
 (Inhalt: Nicht darstellbare Prüf- und Gewährzeichen des Königreichs
 Marokko,
 Fundstelle: BGBl. I 1999, 1724)
-
 
 ## Anlage 2
 

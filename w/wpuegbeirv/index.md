@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 368 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 2 Satz 1 des Wertpapiererwerbs- und
 Übernahmegesetzes vom 20. Dezember 2001 (BGBl. I S. 3822) verordnet
 das Bundesministerium der Finanzen:
-
 
 ## § 1 Bestellung von Stellvertretern für Mitglieder des Beirats
 
@@ -35,7 +33,6 @@ vorzeitig aus, rückt sein Stellvertreter bis zum Ablauf der
 ursprünglichen Bestellung des ausgeschiedenen Mitglieds nach. Steht
 kein Stellvertreter zur Verfügung, erfolgt eine Nachbestellung bis zum
 Ablauf der ursprünglichen Bestellung des ausgeschiedenen Mitglieds.
-
 
 ## § 2 Vorzeitige Beendigung der Mitgliedschaft
 
@@ -47,7 +44,6 @@ wenn ein Mitglied nicht mehr der Gruppe nach § 5 Abs. 1 Satz 2 des
 Wertpapiererwerbs- und Übernahmegesetzes angehört, zu deren Vertretung
 es bestellt wurde, oder ein Mitglied den Widerruf der Bestellung aus
 persönlichen Gründen beantragt.
-
 
 ## § 3 Sitzungen des Beirats
 
@@ -66,7 +62,6 @@ kann weitere Vertreter der Bundesanstalt zu der Sitzung hinzuziehen.
 Die Mitglieder des Beirats unterliegen der Verschwiegenheitspflicht
 nach § 9 Abs. 1 des Wertpapiererwerbs- und Übernahmegesetzes.
 
-
 ## § 4 Beschlussfassung
 
 Der Beirat ist beschlussfähig, wenn mindestens acht Mitglieder
@@ -75,7 +70,6 @@ Beschlüsse des Beirats bedürfen der einfachen Mehrheit der abgegebenen
 Stimmen. Für die Unterbreitung der Vorschläge für die ehrenamtlichen
 Mitglieder des Widerspruchsausschusses und deren Vertreter ist eine
 Mehrheit von zwei Dritteln der Mitglieder erforderlich.
-
 
 ## § 5 Protokolle
 
@@ -105,7 +99,6 @@ Werktagen nach seiner Übersendung kein Mitglied schriftlich
 Einwendungen erhoben hat. Über Einwendungen entscheidet der
 Sitzungsleiter abschließend.
 
-
 ## § 6 Entschädigung der Mitglieder
 
 Die Mitglieder des Beirats verwalten ihr Amt als unentgeltliches
@@ -115,7 +108,6 @@ Finanzen über die Abfindung der Mitglieder von Beiräten, Ausschüssen,
 Kommissionen und ähnlichen Einrichtungen im Bereich des Bundes vom 9.
 November 1981 (GMBl S. 515), zuletzt geändert durch das Rundschreiben
 des Bundesministeriums der Finanzen vom 19. März 1997 (GMBl S. 172).
-
 
 ## § 7 Inkrafttreten
 

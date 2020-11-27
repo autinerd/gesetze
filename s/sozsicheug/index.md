@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1202
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Zuständigkeit der deutschen
@@ -35,15 +34,10 @@ folgender Verordnungen in ihrer jeweils geltenden Fassung:
     Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung
     der Systeme der sozialen Sicherheit (ABl. L 284 vom 30.10.2009, S. 1).
 
-
-
-
-
 ## § 2 Zuständige Behörde
 
 Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde
 nach Artikel 1 Buchstabe m der Verordnung (EG) Nr. 883/2004.
-
 
 ## § 3 Verbindungsstelle für die berufsständischen Versorgungseinrichtungen
 
@@ -87,7 +81,6 @@ Bestimmungen zum Sozialgeheimnis nach § 35 des Ersten Buches
 Sozialgesetzbuch und zum Schutz der Sozialdaten nach dem Zweiten
 Kapitel des Zehnten Buches Sozialgesetzbuch Anwendung finden.
 
-
 ## § 4 Verbindungsstelle für Familienleistungen
 
 Die Bundesagentur für Arbeit, Familienkasse Direktion, nimmt die
@@ -107,10 +100,6 @@ ihren Aufgaben gehören insbesondere
 
 2.  Aufklärung, Beratung und Information.
 
-
-
-
-
 ## § 5 Koordinierungsstelle für die Systeme der Beamtenversorgung
 
 Die Bundesfinanzdirektion West nimmt im Zusammenwirken mit der
@@ -126,7 +115,6 @@ Diese Daten gelten als Sozialdaten, auf welche die Bestimmungen zum
 Sozialgeheimnis nach § 35 des Ersten Buches Sozialgesetzbuch und zum
 Schutz der Sozialdaten nach dem Zweiten Kapitel des Zehnten Buches
 Sozialgesetzbuch Anwendung finden.
-
 
 ## § 6 Zugangsstellen
 
@@ -223,7 +211,6 @@ und Trägern im Geltungsbereich dieses Gesetzes eine Datei zur
 automatisierten Verarbeitung der Dokumente oder strukturierten
 Dokumente zur Verfügung stellen oder die Verarbeitung im Rahmen einer
 Datenverarbeitung im Auftrag übernehmen.
-
 
 ## § 7 Verordnungsermächtigungen
 

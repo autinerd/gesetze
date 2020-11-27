@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 907
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1, 2, 4 und 5 des
@@ -29,7 +27,6 @@ verordnet das Bundesministerium der Finanzen im Benehmen mit den für
 die Finanzverwaltung zuständigen obersten Landesbehörden der Länder
 Baden-Württemberg, Bayern, Brandenburg, Hamburg, Niedersachsen,
 Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen:
-
 
 ## § 1
 
@@ -46,13 +43,11 @@ Gesetzes zur Bekämpfung der Schwarzarbeit und § 16 des Arbeitnehmer-
 Überlassungsgesetzes werden auf die Oberfinanzdirektion Köln
 übertragen.
 
-
 ## § 2
 
 Die Oberfinanzdirektion Köln ist zugleich zuständige Behörde der
 Zollverwaltung im Sinne des § 3 Abs. 1 Satz 1, Abs. 2 und 4 des
 Arbeitnehmer-Entsendegesetzes.
-
 
 ## § 3
 

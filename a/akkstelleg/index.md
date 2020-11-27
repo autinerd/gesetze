@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 80 G v. 22.12.2011 I 3044
 
-
 ## § 1 Akkreditierung
 
 (1) Die Akkreditierung wird als hoheitliche Aufgabe des Bundes durch
@@ -36,7 +35,6 @@ Konformitätsbewertungsstelle tätig zu werden, bleibt unberührt.
 Insbesondere gilt dies für die Bereiche Medizinprodukte,
 Gendiagnostika, Sicherheitstechnik sowie Ernährung, Landwirtschaft und
 Verbraucherschutz einschließlich Lebensmittelsicherheit.
-
 
 ## § 2 Aufgaben der Akkreditierungsstelle
 
@@ -56,7 +54,6 @@ Satz 2 genannten Bereiche von den die Befugnis erteilenden Behörden
 ausführen. Die Akkreditierungsstelle kann sich bei der Durchführung
 der Überwachung der akkreditierten Konformitätsbewertungsstellen der
 die Befugnis erteilenden Behörden bedienen.
-
 
 ## § 3 Befugnisse der Akkreditierungsstelle
 
@@ -78,7 +75,6 @@ erforderlichen Umfang mitzuwirken. Die Befugnisse gemäß Satz 1 bis 3
 gelten auch für die zuständigen Behörden, die Tätigkeiten im Rahmen
 von § 2 Absatz 3 ausführen.
 
-
 ## § 4 Zusammenarbeit mit anderen Behörden
 
 (1) Den Behörden, die auf Grund einer Rechtsvorschrift
@@ -99,7 +95,6 @@ unterrichtet wird.
 Bereiche trifft die Akkreditierungsstelle die
 Akkreditierungsentscheidung im Einvernehmen mit den Behörden, die die
 Begutachtung nach § 2 Absatz 3 durchführen.
-
 
 ## § 5 Akkreditierungsbeirat
 
@@ -192,7 +187,6 @@ Geschäftsordnung nach Absatz 7.
 (9) Die Geschäfte des Akkreditierungsbeirates führt die Bundesanstalt
 für Materialforschung und -prüfung.
 
-
 ## § 6 Akkreditierungssymbol
 
 (1) Die Akkreditierungsstelle kann einer Konformitätsbewertungsstelle
@@ -211,10 +205,6 @@ Bundesrates bedarf, Folgendes zu regeln:
 
 3.  die Nutzungsrechte für das Akkreditierungssymbol.
 
-
-
-
-
 ## § 7 Gebühren und Auslagen
 
 (1) Für Amtshandlungen der Akkreditierungsstelle auf Grund dieses
@@ -232,7 +222,6 @@ Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder
 Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
 der mit den Amtshandlungen verbundene gesamte Personal- und
 Sachaufwand abgedeckt wird.
-
 
 ## § 8 Beleihung oder Errichtung
 
@@ -282,7 +271,6 @@ beendet wird, kann das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit den in Absatz 1 genannten Ministerien
 ein Bundesamt für Akkreditierung errichten.
 
-
 ## § 9 Aufsicht
 
 (1) Die Akkreditierungsstelle untersteht vorbehaltlich der auf Grund §
@@ -314,7 +302,6 @@ und in Verwahrung genommen werden.
 (3) Die Bundesministerien können die Aufsicht auf eine nachgeordnete
 Behörde oder das Bundesministerium für Wirtschaft und Technologie
 übertragen.
-
 
 ## § 10 Voraussetzungen und Durchführung der Beleihung
 
@@ -361,7 +348,6 @@ nachträglich entfallen, kann die Beleihung jederzeit beendet werden.
 (4) Wird die Beleihung nach Absatz 3 Satz 3 beendet, besteht kein
 Anspruch auf Ausgleich.
 
-
 ## § 11 Aufsicht über die Geschäftsleitung
 
 Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen
@@ -370,7 +356,6 @@ Bundesministerium für Wirtschaft und Technologie durch die Beliehene
 anzuzeigen. Dabei hat die Beliehene die Tatsachen anzugeben, die für
 die Beurteilung der Zuverlässigkeit und Eignung wesentlich sind.
 
-
 ## § 12 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -378,7 +363,6 @@ vollziehbaren Anordnung nach § 3 Satz 1 zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
-
 
 ## § 13 Übergangsbestimmungen
 
@@ -390,7 +374,6 @@ Gesetz über.
 (2) Die Akkreditierungsstelle darf bis zum 31. Dezember 2014 nach § 29
 des Bundesbeamtengesetzes oder § 20 des Beamtenstatusgesetzes
 zugewiesene Beamte und Beamtinnen beschäftigen.
-
 
 ## § 14 Inkrafttreten
 

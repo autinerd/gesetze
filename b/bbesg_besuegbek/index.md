@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1646 (2864)
 
-
 ## (XXXX)
 
 Auf Grund der § 77 Absatz 4 sowie § 78 Absatz 2 des
@@ -40,14 +39,9 @@ Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160,
     Grundgehaltes nach der Anlage 1 des Besoldungsüberleitungsgesetzes für
     Beamtinnen und Beamte bei den Postnachfolgeunternehmen.
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1 Besoldungsordnung C
 
@@ -224,8 +218,6 @@ Der Bundesminister des Innern
     *   6 575,06
 
     *   6 761,31
-
-
 
 ## Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
 

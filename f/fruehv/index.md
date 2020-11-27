@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 998
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Nr. 1 des Neunten Buches Sozialgesetzbuch -
@@ -26,7 +24,6 @@ Gesetzes vom 19. Juni 2001, BGBl. I S. 1046, 1047), der zuletzt durch
 Artikel 1 Nr. 3 des Gesetzes vom 3. April 2003 (BGBl. I S. 462)
 geändert worden ist, verordnet das Bundesministerium für Gesundheit
 und Soziale Sicherung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -37,7 +34,6 @@ Frühförderung noch nicht eingeschulter behinderter und von Behinderung
 bedrohter Kinder, die Übernahme und die Teilung der Kosten zwischen
 den beteiligten Rehabilitationsträgern sowie die Vereinbarung der
 Entgelte richtet sich nach den folgenden Vorschriften.
-
 
 ## § 2 Früherkennung und Frühförderung
 
@@ -57,7 +53,6 @@ der Kinder ausgeführt. Näheres zu den Anforderungen an
 interdisziplinäre Frühförderstellen und sozialpädiatrische Zentren
 kann durch Landesrahmenempfehlungen geregelt werden.
 
-
 ## § 3 Interdisziplinäre Frühförderstellen
 
 Interdisziplinäre Frühförderstellen im Sinne dieser Verordnung sind
@@ -71,7 +66,6 @@ Behandlungsmaßnahmen auszugleichen oder zu mildern. Leistungen durch
 interdisziplinäre Frühförderstellen werden in der Regel in ambulanter,
 einschließlich mobiler Form erbracht.
 
-
 ## § 4 Sozialpädiatrische Zentren
 
 Sozialpädiatrische Zentren im Sinne dieser Verordnung sind die nach §
@@ -82,7 +76,6 @@ sozialpädiatrische Zentren ist auf Kinder ausgerichtet, die wegen Art,
 Schwere oder Dauer ihrer Behinderung oder einer drohenden Behinderung
 nicht von geeigneten Ärzten oder geeigneten interdisziplinären
 Frühförderstellen (§ 3) behandelt werden können.
-
 
 ## § 5 Leistungen zur medizinischen Rehabilitation
 
@@ -145,7 +138,6 @@ Erziehungsberechtigten, insbesondere
 
 (3) Weiter gehende Vereinbarungen auf Landesebene bleiben unberührt.
 
-
 ## § 6 Heilpädagogische Leistungen
 
 Heilpädagogische Leistungen nach § 56 des Neunten Buches
@@ -155,7 +147,6 @@ Mitteln anregen, einschließlich der jeweils erforderlichen sozial- und
 sonderpädagogischen, psychologischen und psychosozialen Hilfen sowie
 die Beratung der Erziehungsberechtigten; § 5 Abs. 2 und 3 gilt
 entsprechend.
-
 
 ## § 7 Förder- und Behandlungsplan
 
@@ -179,7 +170,6 @@ des Förder- und Behandlungsplans.
 (2) Der Förder- und Behandlungsplan kann auch die Förderung und
 Behandlung in einer anderen Einrichtung, durch einen Kinderarzt oder
 die Erbringung von Heilmitteln empfehlen.
-
 
 ## § 8 Erbringung der Komplexleistung
 
@@ -216,7 +206,6 @@ Komplexleistung weitere Stellen einzubeziehen sind, sollen diese an
 Arbeitsgemeinschaften der an der Früherkennung und Frühförderung
 beteiligten Stellen beteiligt werden.
 
-
 ## § 9 Teilung der Kosten der Komplexleistung
 
 (1) Die an den Leistungen der interdisziplinären Frühförderstelle oder
@@ -239,12 +228,10 @@ Anteil der Entgelte darf für Leistungen in interdisziplinären
 Frühförderstellen 80 vom Hundert und in sozialpädiatrischen Zentren 20
 vom Hundert nicht übersteigen.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlussformel
 

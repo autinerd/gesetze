@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1346
 
-
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126
@@ -48,7 +46,6 @@ eines Verwaltungsaktes abgelehnt hat. In Fällen von grundsätzlicher
 Bedeutung ist das Bundesministerium für Ernährung, Landwirtschaft und
 Forsten vor einer Entscheidung zu beteiligen.
 
-
 ## II. Vertretung bei Klagen
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich
@@ -59,11 +56,9 @@ zuständig ist.
 Für besondere Fälle behalte ich mir die Vertretung des Dienstherrn
 vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

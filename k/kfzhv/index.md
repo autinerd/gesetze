@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 117 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 2 des Gesetzes über die Angleichung der
@@ -31,7 +30,6 @@ Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21) und auf Grund des §
 Bekanntmachung vom 26. August 1986 (BGBl. I S. 1421) verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1 Grundsatz
 
 Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben
@@ -39,7 +37,6 @@ richtet sich bei den Trägern der gesetzlichen Unfallversicherung, der
 gesetzlichen Rentenversicherung, der Kriegsopferfürsorge und der
 Bundesagentur für Arbeit sowie den Trägern der begleitenden Hilfe im
 Arbeits- und Berufsleben nach dieser Verordnung.
-
 
 ## § 2 Leistungen
 
@@ -58,7 +55,6 @@ Arbeits- und Berufsleben nach dieser Verordnung.
 
 (2) Die Leistungen werden als Zuschüsse und nach Maßgabe des § 9 als
 Darlehen erbracht.
-
 
 ## § 3 Persönliche Voraussetzungen
 
@@ -94,7 +90,6 @@ Kraftfahrzeughilfe für behinderte Menschen, die nicht Arbeitnehmer
 sind, in Betracht kommt, sind die Absätze 1 und 3 entsprechend
 anzuwenden.
 
-
 ## § 4 Hilfe zur Beschaffung eines Kraftfahrzeugs
 
 (1) Hilfe zur Beschaffung eines Kraftfahrzeugs setzt voraus, daß der
@@ -111,7 +106,6 @@ unverhältnismäßigen Mehraufwand ermöglichen.
 er die Voraussetzungen nach Absatz 2 erfüllt und sein Verkehrswert
 mindestens 50 vom Hundert des seinerzeitigen Neuwagenpreises beträgt.
 
-
 ## § 5 Bemessungsbetrag
 
 (1) Die Beschaffung eines Kraftfahrzeugs wird bis zu einem Betrag in
@@ -127,7 +121,6 @@ Kraftfahrzeug mit höherem Kaufpreis zwingend erfordert.
 die ein vorrangiger Anspruch besteht oder die vorrangig nach
 pflichtgemäßem Ermessen zu leisten sind, und der Verkehrswert eines
 Altwagens sind von dem Betrag nach Absatz 1 oder 2 abzusetzen.
-
 
 ## § 6 Art und Höhe der Förderung
 
@@ -205,7 +198,6 @@ Beschaffung eines Kraftfahrzeugs. Die Hilfe soll nicht vor Ablauf von
 fünf Jahren seit der Beschaffung des zuletzt geförderten Fahrzeugs
 geleistet werden.
 
-
 ## § 7 Behinderungsbedingte Zusatzausstattung
 
 Für eine Zusatzausstattung, die wegen der Behinderung erforderlich
@@ -217,7 +209,6 @@ erforderlich ist, der für den behinderten Menschen das Kraftfahrzeug
 führt (§ 3 Abs. 1 Nr. 2). Zuschüsse öffentlich-rechtlicher Stellen,
 auf die ein vorrangiger Anspruch besteht oder die vorrangig nach
 pflichtgemäßem Ermessen zu leisten sind, sind anzurechnen.
-
 
 ## § 8 Fahrerlaubnis
 
@@ -246,7 +237,6 @@ anzurechnen.
 (2) Kosten für behinderungsbedingte Untersuchungen,
 Ergänzungsprüfungen und Eintragungen in vorhandene Führerscheine
 werden in vollem Umfang übernommen.
-
 
 ## § 9 Leistungen in besonderen Härtefällen
 
@@ -290,7 +280,6 @@ tilgen; es können bis zu zwei tilgungsfreie Jahre eingeräumt werden.
 Auf die Rückzahlung des Darlehens kann unter den in Absatz 1 Satz 1
 genannten Voraussetzungen verzichtet werden.
 
-
 ## § 10 Antragstellung
 
 Leistungen sollen vor dem Abschluß eines Kaufvertrages über das
@@ -301,16 +290,13 @@ technischen Funktionsfähigkeit einer behinderungsbedingten
 Zusatzausstattung sind spätestens innerhalb eines Monats nach
 Rechnungstellung zu beantragen.
 
-
 ## § 11
 
 -
 
-
 ## § 12
 
 -
-
 
 ## § 13 Übergangsvorschriften
 
@@ -327,7 +313,6 @@ beantragt sind, ist nach den bisher geltenden Bestimmungen zu
 entscheiden, wenn sie für den behinderten Menschen günstiger sind.
 
 (3) (weggefallen)
-
 
 ## § 14 Inkrafttreten
 

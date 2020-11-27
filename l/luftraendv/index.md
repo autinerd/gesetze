@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 750
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 des Luftverkehrsgesetzes, der durch Artikel 1 Nr.
@@ -25,10 +23,7 @@ Auf Grund des § 32 des Luftverkehrsgesetzes, der durch Artikel 1 Nr.
 Juli 1992 (BGBl. I S. 1370) eingefügt worden ist, verordnet der
 Bundesminister für Verkehr:
 
-
 ## (XXXX) Art 1 bis 8
-
-
 
 ## Art 9
 
@@ -64,7 +59,6 @@ Landungen von Hängegleitern und Gleitsegeln auf Geländen mit
 Erlaubnisfiktion bedürfen spätestens nach Ablauf von drei Jahren nach
 Inkrafttreten dieser Verordnung einer Außenstart- und -landeerlaubnis.
 
-
 ## Art 10
 
 Der Bundesminister für Verkehr kann nach Inkrafttreten dieser
@@ -73,11 +67,9 @@ geltenden Fassung im Bundesgesetzblatt bekanntmachen. Er kann die
 Paragraphen und ihre Untergliederungen mit neuen durchlaufenden
 Ordnungszeichen versehen.
 
-
 ## Art 11
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 9.11.2012 I 2291
 
-
-
 ## § 1 Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus gewährten Darlehen des Bundes
 
 Die den Ländern zur Förderung des Wohnungsbaus als Darlehen gewährten
@@ -34,7 +32,6 @@ mindestens ein Prozent betragen. Die Verpflichtung des Landes zur
 vollständigen Tilgung der als Darlehen gewährten Bundesmittel und
 Finanzhilfen bleibt unberührt. Näheres wird durch
 Verwaltungsvereinbarung geregelt.
-
 
 ## § 2 Wohnungsfürsorge des Bundes, Bergarbeiterwohnungsbau
 

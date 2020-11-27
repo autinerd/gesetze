@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1782
 
-
-
 ## (XXXX)
 
 Gemäß § 47 Abs. 3 Satz 2 des Postverfassungsgesetzes vom 8. Juni 1989

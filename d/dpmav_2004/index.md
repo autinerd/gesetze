@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 24.3.2010 I 330
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -67,10 +66,7 @@ sowie in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998
 (BGBl. I S. 1827) und Artikel 29 des Gesetzes vom 13. Dezember 2001
 (BGBl. I S. 3656) verordnet das Bundesministerium der Justiz:
 
-
 ## Abschnitt 1 - Organisation, Befugnisse
-
-
 
 ### § 1 Leitung, Aufsicht, Übertragung von Verordnungsermächtigungen
 
@@ -87,7 +83,6 @@ Gebrauchsmustergesetzes, in § 65 Abs. 1 Nr. 2 bis 13 sowie § 138 Abs.
 1 des Markengesetzes, in § 26 Absatz 1 Nummer 2 bis 8 und Abs. 2 des
 Geschmacksmustergesetzes werden auf das Deutsche Patent- und Markenamt
 übertragen.
-
 
 ### § 2 Prüfungsstellen und Patentabteilungen
 
@@ -138,7 +133,6 @@ jeweils zuständigen Vorsitzenden sie nicht für erforderlich halten.
 (4) Die Patentabteilungen entscheiden nach Stimmenmehrheit; bei
 Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
-
 ### § 3 Gebrauchsmusterstelle und Gebrauchsmusterabteilungen
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
@@ -176,7 +170,6 @@ jeweils zuständigen Vorsitzenden sie nicht für erforderlich halten.
 bei Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den
 Ausschlag.
 
-
 ### § 4 Topografiestelle und Topografieabteilung
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
@@ -212,7 +205,6 @@ die Vorsitzende sie nicht für erforderlich hält.
 Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den
 Ausschlag.
 
-
 ### § 5 Markenstellen und Markenabteilungen
 
 (1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
@@ -242,24 +234,19 @@ Vorsitzenden sie nicht für erforderlich halten.
 (4) Die Markenabteilungen entscheiden nach Stimmenmehrheit; bei
 Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
-
 ### § 6 Geschmacksmusterstelle
 
 Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
 Geschmacksmusterstelle und regelt das Verfahren zur Klassifizierung
 der Anmeldungen.
 
-
 ## Abschnitt 2 - Verfahrensvorschriften
-
-
 
 ### § 7 DIN-Normen
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im
 Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
-
 
 ### § 8 Behandlung von Eingängen, Empfangsbescheinigung
 
@@ -269,7 +256,6 @@ Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 Markenamt dem Anmelder unverzüglich eine Empfangsbescheinigung, die
 das angemeldete Schutzrecht bezeichnet und das Aktenzeichen der
 Anmeldung sowie den Tag des Eingangs der Anmeldung angibt.
-
 
 ### § 9 Formblätter
 
@@ -290,7 +276,6 @@ Erfassung und Bearbeitung gestatten.
 vorgeschriebenen Formblätter werden im Blatt für Patent-, Muster- und
 Zeichenwesen bekannt gemacht.
 
-
 ### § 10 Originale
 
 (1) Originale von Anträgen und Eingaben sind unterschrieben
@@ -301,7 +286,6 @@ Papier im Format DIN A4 zu verwenden. Die Schrift muss leicht lesbar
 und dokumentenecht sein. Vom oberen und vom linken Seitenrand jedes
 Blattes ist ein Randabstand von mindestens 2,5 Zentimeter einzuhalten.
 Die Blätter eines Schriftstücks sollen fortlaufend nummeriert sein.
-
 
 ### § 11 Übermittlung durch Telefax
 
@@ -315,14 +299,12 @@ verlangen, wenn es begründete Zweifel an der Vollständigkeit der
 übermittelten Telefax hat oder wenn die Qualität der Wiedergabe den
 Anforderungen des Deutschen Patent- und Markenamts nicht entspricht.
 
-
 ### § 12 Einreichung elektronischer Dokumente
 
 Elektronische Dokumente sind nach Maßgabe der Verordnung über den
 elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt vom
 26\. September 2006 (BGBl. I S. 2159) in ihrer jeweils geltenden
 Fassung einzureichen.
-
 
 ### § 13 Vertretung
 
@@ -333,7 +315,6 @@ Bevollmächtigte vertreten lassen.
 wenn nicht einzelne Personen, die in dem Zusammenschluss tätig sind,
 ausdrücklich als Vertreter bezeichnet sind, als Bevollmächtigung aller
 in dem Zusammenschluss tätigen Vertreter.
-
 
 ### § 14 Mehrere Beteiligte, mehrere Vertreter
 
@@ -362,7 +343,6 @@ solcher Zusammenschluss mehrere Anschriften, so ist anzugeben, welche
 Anschrift maßgebend ist. Fehlt eine solche Angabe, so ist diejenige
 Anschrift maßgebend, die zuerst genannt ist.
 
-
 ### § 15 Vollmachten
 
 (1) Bevollmächtigte, soweit sie nicht nur zum Empfang von Zustellungen
@@ -390,7 +370,6 @@ nicht Rechtsanwälte, Patentanwälte, Erlaubnisscheininhaber oder in den
 Fällen des § 155 der Patentanwaltsordnung Patentassessoren als
 Bevollmächtigte auftreten.
 
-
 ### § 16 Kennnummern für Anmelder, Vertreter und Angestelltenvollmachten
 
 Zur Erleichterung der Bearbeitung von Anmeldungen teilt das Deutsche
@@ -398,7 +377,6 @@ Patent- und Markenamt den Anmeldern, den Vertretern und den
 eingereichten Angestelltenvollmachten Kennnummern zu, die in den vom
 Deutschen Patent- und Markenamt herausgegebenen Formularen angegeben
 werden sollen.
-
 
 ### § 17 Sonstige Erfordernisse für Anträge und Eingaben
 
@@ -415,7 +393,6 @@ des Deutschen Patent- und Markenamts, ob es die erforderliche Zahl von
 Abschriften auf Kosten dieses Beteiligten anfertigt oder dazu
 auffordert, Abschriften nachzureichen.
 
-
 ### § 18 Fristen
 
 (1) Die vom Deutschen Patent- und Markenamt bestimmten oder auf Antrag
@@ -430,7 +407,6 @@ gewährt werden.
 berechtigtes Interesse glaubhaft gemacht wird. In Verfahren mit
 mehreren Beteiligten soll außerdem das Einverständnis der anderen
 Beteiligten glaubhaft gemacht werden.
-
 
 ### § 19 Entscheidung nach Lage der Akten
 
@@ -450,7 +426,6 @@ abgibt oder eine spätere Stellungnahme ohne Antrag auf Gewährung einer
 Frist nach § 18 ankündigt. Wird der Antrag, der Widerspruch oder die
 Erinnerung zurückgewiesen, muss eine Stellungnahme der anderen
 Beteiligten nicht abgewartet werden.
-
 
 ### § 20 Form der Ausfertigungen
 
@@ -472,7 +447,6 @@ Deutschen Patent- und Markenamts gleich.
 maschinell erstellt wurde und nicht unterschrieben wird, und die
 Angabe der zuständigen Stelle.
 
-
 ### § 21 Zustellung und formlose Übersendung
 
 (1) Soweit durch Gesetz oder Rechtsverordnung eine Zustellung nicht
@@ -480,7 +454,6 @@ vorgesehen ist, werden Bescheide und sonstige Mitteilungen des
 Deutschen Patent- und Markenamts formlos übersandt.
 
 (2) Als formlose Übermittlung gilt auch die Übersendung durch Telefax.
-
 
 ### § 22 Akteneinsicht
 
@@ -512,7 +485,6 @@ Stelle des Deutschen Patent- und Markenamts eingesehen werden. Satz 1
 gilt auch für Modelle, die nach § 7 Abs. 6 des
 Geschmacksmustergesetzes in seiner bis zum 1. Juni 2004 geltenden
 Fassung eingereicht worden sind.
-
 
 ### § 23 Auskünfte
 
@@ -559,7 +531,6 @@ Die Auskunft über die nach § 7 des Geschmacksmustergesetzes in seiner
 bis zum 1. Juni 2004 geltenden Fassung eingetragenen Geschmacksmuster
 enthält anstelle der Erzeugnisse die Bezeichnung der Anmeldung.
 
-
 ### § 24 Verfahrenskostenhilfe
 
 (1) Über den Antrag auf Gewährung von Verfahrenskostenhilfe nach § 135
@@ -576,7 +547,6 @@ die Bearbeitung der Sache zuständig ist oder, sofern das Schutzrecht
 bereits eingetragen ist, zuletzt zuständig war, sofern nicht durch
 Rechtsverordnung etwas anderes bestimmt ist.
 
-
 ### § 25 Urkunden, Schmuckurkunden
 
 (1) Das Deutsche Patent- und Markenamt fertigt für die
@@ -586,7 +556,6 @@ sowie des Schutzes der Topografie in das jeweilige Register.
 
 (2) Den Patentinhabern wird auf Antrag eine kostenpflichtige
 Schmuckurkunde ausgefertigt.
-
 
 ### § 26 Berichtigung der Register und Veröffentlichungen
 
@@ -616,7 +585,6 @@ Fehlers für alle Eintragungen gemeinsam gestellt werden.
 
 (3) Die Absätze 1 und 2 sind entsprechend auf die Berichtigung von
 Veröffentlichungen anzuwenden.
-
 
 ### § 27 Änderungen von Namen oder Anschriften
 
@@ -648,7 +616,6 @@ Schutzrechte gemeinsam gestellt werden.
 (3) Die Absätze 1 und 2 sowie § 13 sind entsprechend auf Anträge zur
 Eintragung von Änderungen des Namens oder der Anschrift eines
 Vertreters oder eines Zustellungsbevollmächtigten anzuwenden.
-
 
 ### § 28 Eintragung eines Rechtsübergangs
 
@@ -726,7 +693,6 @@ Rechtsübergang ergeben.
 (8) Der Antrag auf Eintragung des Rechtsübergangs kann für mehrere
 Schutzrechte gemeinsam gestellt werden.
 
-
 ### § 29 Eintragung von dinglichen Rechten
 
 (1) Dem Antrag auf Eintragung einer Verpfändung oder eines sonstigen
@@ -737,7 +703,6 @@ beizufügen.
 (2) Beim Übergang von dinglichen Rechten ist § 28 Abs. 2 bis 8
 entsprechend anzuwenden.
 
-
 ### § 30 Maßnahmen der Zwangsvollstreckung, Insolvenzverfahren
 
 (1) Der Antrag auf Eintragung einer Maßnahme der Zwangsvollstreckung
@@ -747,7 +712,6 @@ Dem Antrag sind die erforderlichen Nachweise beizufügen.
 
 (2) Dem Antrag auf Eintragung eines Insolvenzverfahrens in das
 Register sind die erforderlichen Nachweise beizufügen.
-
 
 ### § 31 Aufbewahrung von eingereichten Gegenständen oder Unterlagen
 
@@ -779,13 +743,7 @@ verfügt der Präsident oder die Präsidentin,
 5.  wenn das Geschmacksmuster eingetragen worden ist, nach Ablauf von drei
     Jahren nach Beendigung der Schutzfrist.
 
-
-
-
-
 ## Abschnitt 3 - Schlussvorschriften
-
-
 
 ### § 32 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
@@ -795,13 +753,11 @@ Patent- und Markenamt vom 5. September 1968 (BGBl. I S. 997), zuletzt
 geändert durch Artikel 24 des Gesetzes vom 13. Dezember 2001 (BGBl. I
 S. 3656), weiter Anwendung.
 
-
 ### § 33 Übergangsregelung für künftige Änderungen
 
 Für Anträge, die vor Inkrafttreten von Änderungen dieser Verordnung
 eingereicht worden sind, gelten die Vorschriften dieser Verordnung
 jeweils in ihrer bis dahin geltenden Fassung.
-
 
 ### § 34 Inkrafttreten, Außerkrafttreten
 

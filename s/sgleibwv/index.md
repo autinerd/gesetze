@@ -16,18 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1394
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 12 des Soldatinnen- und
 Soldatengleichstellungsgesetzes vom 27. Dezember 2004 (BGBl. I S.
 3822) verordnet das Bundesministerium der Verteidigung:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Verfahrensgrundsätze
 
@@ -38,7 +33,6 @@ in einem gemeinsamen Wahlverfahren in getrennten Wahlgängen statt. Sie
 hat den Grundsätzen der allgemeinen, unmittelbaren, freien, gleichen
 und geheimen Wahl nach Maßgabe der folgenden Vorschriften zu
 entsprechen.
-
 
 ### § 2 Zuordnung der Gleichstellungsbeauftragten und ihrer Stellvertreterin
 
@@ -70,10 +64,6 @@ zuzuordnen
 3.  nach § 16 Abs. 3 Satz 1 des Soldatinnen- und
     Soldatengleichstellungsgesetzes den zentralen personalbearbeitenden
     Dienststellen einschließlich des Bundesministeriums der Verteidigung.
-
-
-
-
 
 ### § 3 Wahlberechtigung
 
@@ -118,13 +108,11 @@ Soldatinnen sind bei ihrer abgebenden Dienststelle wahlberechtigt.
 (3) Voraussetzung für die Teilnahme an der Wahl ist die Eintragung in
 die Wählerinnenliste nach § 8.
 
-
 ### § 4 Wählbarkeit
 
 Wählbar für das Amt der Gleichstellungsbeauftragten und der
 Stellvertreterin sind die nach § 3 Abs. 1 jeweils wahlberechtigten
 Soldatinnen.
-
 
 ### § 5 Fristen
 
@@ -132,10 +120,7 @@ Die Wahl muss spätestens eine Woche vor Ablauf der laufenden Amtszeit
 der Gleichstellungsbeauftragten und ihrer Stellvertreterin
 abgeschlossen sein.
 
-
 ## Abschnitt 2 - Vorbereitung der Wahl
-
-
 
 ### § 6 Bestellung des Wahlvorstandes
 
@@ -167,7 +152,6 @@ Dienststellenzugehörigkeit seiner Mitglieder und der Ersatzmitglieder
 unverzüglich nach seiner Bestellung, spätestens mit dem
 Wahlausschreiben (§ 10) durch Aushang bekannt.
 
-
 ### § 7 Aufgaben des Wahlvorstandes
 
 (1) Der Wahlvorstand bereitet die Wahl vor und führt sie durch.
@@ -190,7 +174,6 @@ Satz 6 entsprechend.
 während seiner Amtszeit die Wahlvorstände in der Behandlung
 rechtlicher und tatsächlicher Zweifelsfragen.
 
-
 ### § 8 Wählerinnenliste
 
 (1) Die Dienststelle, der nach § 16 Abs. 1 bis 3 des Soldatinnen- und
@@ -208,7 +191,6 @@ als Wählerinnenliste fest und gibt sie spätestens zum Zeitpunkt des
 Erlasses des Wahlausschreibens (§ 10) bis zum Abschluss der
 Stimmabgabe durch Aushang in allen an der Wahl teilnehmenden
 Dienststellen bekannt.
-
 
 ### § 9 Einspruch gegen die Wählerinnenliste
 
@@ -232,7 +214,6 @@ nur bei Schreibfehlern, offenbaren Unrichtigkeiten, in Erledigung
 rechtzeitig eingelegter Einsprüche oder bei Eintritt oder Ausscheiden
 einer Wahlberechtigten bis zum Ende der Stimmabgabe berichtigt oder
 ergänzt werden.
-
 
 ### § 10 Wahlausschreiben
 
@@ -305,7 +286,6 @@ Wahlvorstandes zu unterschreiben ist. Es muss enthalten:
 bis zum Abschluss der Stimmabgabe durch Aushang in allen an der Wahl
 teilnehmenden Dienststellen bekannt.
 
-
 ### § 11 Bewerbung
 
 (1) Jede Soldatin, die nach § 4 wählbar ist, kann sich für das Amt der
@@ -332,7 +312,6 @@ ist gleichzeitig mit dem Wahlvorschlag beim Wahlvorstand schriftlich
 einzureichen; es muss die in den Absätzen 2 und 3 genannten Angaben
 enthalten.
 
-
 ### § 12 Nachfrist für Bewerbungen
 
 (1) Ist nach Ablauf der Frist des § 11 Abs. 2 Satz 1 keine gültige
@@ -352,17 +331,13 @@ Bewerbung vorliegt, nicht stattfindet und eine Bestellung von Amts
 wegen durch die Dienststelle erfolgt. Das Amt des Wahlvorstandes endet
 in diesem Fall mit der Bekanntgabe.
 
-
 ### § 13 Bekanntgabe der Bewerbungen
 
 Der Wahlvorstand gibt unverzüglich nach Ablauf der Bewerbungsfrist (§
 11 Abs. 2 Satz 1, § 12 Abs. 1 Satz 1 und 3) die Namen aus den gültigen
 Bewerbungen in gleicher Weise bekannt wie das Wahlausschreiben.
 
-
 ## Abschnitt 3 - Durchführung der Wahl
-
-
 
 ### § 14 Formen der Stimmabgabe
 
@@ -385,7 +360,6 @@ entweder ausschließlich die Briefwahl oder statt der persönlichen
 Stimmabgabe im Wahlraum mittels Stimmzettel die elektronische
 Stimmabgabe anordnen. Diese Anordnung kann auf Dienststellenteile oder
 nachgeordnete oder zugehörende Dienststellen beschränkt sein.
-
 
 ### § 15 Persönliche Stimmabgabe mittels Stimmzettel
 
@@ -417,7 +391,6 @@ mehr als ein Feld (Absatz 3 Satz 2) angekreuzt ist, sind ungültig.
 Dies gilt auch für Stimmzettel, aus denen sich aus anderen Gründen der
 Wille der Wählerin nicht zweifelsfrei ergibt, die mit einem besonderen
 Merkmal versehen sind oder die einen Zusatz oder Vorbehalt enthalten.
-
 
 ### § 16 Wahlvorgang
 
@@ -459,7 +432,6 @@ zu versiegeln. Bei der Wiedereröffnung des Wahlvorganges oder bei der
 Entnahme der Stimmzettel zur Auszählung der Stimmen hat sich der
 Wahlvorstand davon zu überzeugen, dass die Versiegelung der Wahlurne
 unversehrt ist.
-
 
 ### § 17 Briefwahl
 
@@ -533,7 +505,6 @@ bekannt zu geben.
 (5) Die beim Wahlvorstand eingehenden Freiumschläge sind ungeöffnet
 und sicher vor dem Zugriff Dritter aufzubewahren.
 
-
 ### § 18 Behandlung der mittels Briefwahl abgegebenen Stimmen
 
 (1) Unmittelbar vor Abschluss der Wahl öffnet der Wahlvorstand in
@@ -553,7 +524,6 @@ Eingangs ungeöffnet zu den Wahlunterlagen. Die Freiumschläge sind
 einen Monat nach Bekanntgabe des Wahlergebnisses ungeöffnet von der
 Dienststelle zu vernichten, wenn die Wahl nicht angefochten ist.
 
-
 ### § 19 Elektronische Wahl
 
 Die Stimmabgabe kann auch in elektronischer Form erfolgen. Dabei
@@ -561,7 +531,6 @@ müssen die technischen und organisatorischen Abläufe so geregelt
 werden, dass die Einhaltung der in § 1 Satz 3 festgelegten
 Verfahrensgrundsätze gewährleistet ist. Dazu soll ein entsprechend
 geprüftes und für Wahlen zugelassenes System eingesetzt werden.
-
 
 ### § 20 Feststellung des Wahlergebnisses, Wahlniederschrift
 
@@ -607,7 +576,6 @@ in gleicher Weise wie das Wahlausschreiben bekannt und weist auf die
 Anfechtungsfrist nach § 16 Abs. 10 Satz 1 des Soldatinnen- und
 Soldatengleichstellungsgesetzes hin.
 
-
 ### § 21 Benachrichtigung der Gewählten, Annahme der Wahl; Beendigung des Amtes des Wahlvorstandes
 
 (1) Der Wahlvorstand benachrichtigt die gewählten Soldatinnen
@@ -647,7 +615,6 @@ die Wahl wird fristgerecht angefochten. In diesem Fall endet das Amt
 des Wahlvorstandes mit dem bestands- oder rechtskräftigen Abschluss
 des Anfechtungsverfahrens.
 
-
 ### § 22 Bekanntgabe der Gewählten
 
 (1) Sobald die als Gleichstellungsbeauftragte und als Stellvertreterin
@@ -663,7 +630,6 @@ die Stellvertreterin von der Dienststelle nach § 16 Abs. 5 Satz 2 oder
 Abs. 7 Satz 2 des Soldatinnen- und Soldatengleichstellungsgesetzes von
 Amts wegen zu bestellen ist, und gibt dies durch Aushang bekannt.
 
-
 ### § 23 Aufbewahrung der Wahlunterlagen
 
 Die Dienststelle bewahrt die Wahlunterlagen, insbesondere die
@@ -674,10 +640,7 @@ zum bestands- oder rechtskräftigen Abschluss des Anfechtungsverfahrens
 auf. Stimmzettel und Wählerinnenlisten sind nach Ablauf der in Satz 1
 genannten Fristen unverzüglich zu vernichten.
 
-
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 24 Übergangsregelungen für die erstmalige Wahl
 
@@ -692,7 +655,6 @@ Gleichstellungsbeauftragte zu wählen. Die Bestellung einer
 Gleichstellungsvertrauensfrau für diese Dienststellen nach § 16 Abs. 6
 des Soldatinnen- und Soldatengleichstellungsgesetzes bleibt unberührt.
 
-
 ### § 25 Sonderregelungen für den Militärischen Abschirmdienst
 
 Für den Militärischen Abschirmdienst gilt diese Wahlverordnung mit der
@@ -701,7 +663,6 @@ geltenden Sicherheitsbestimmungen zu beachten sind. Die
 Bekanntmachungen sind den Soldatinnen in der im Militärischen
 Abschirmdienst üblichen Weise während der Dienststunden zugänglich zu
 machen.
-
 
 ### § 26 Inkrafttreten
 

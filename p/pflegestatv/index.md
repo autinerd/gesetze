@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2282
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 109 Abs. 1 des Elften Buches Sozialgesetzbuch -
 Soziale Pflegeversicherung - (Artikel 1 des Gesetzes vom 26. Mai 1994,
 BGBl. I S. 1014, 1015, 2797) verordnet die Bundesregierung:
-
 
 ## § 1 Umfang der Erhebungen, Begriffsbestimmungen
 
@@ -42,7 +39,6 @@ Pflegeeinrichtungen (Pflegedienste) sowie teilstationäre und
 vollstationäre Pflegeeinrichtungen (Pflegeheime), mit denen ein
 Versorgungsvertrag nach dem Elften Buch Sozialgesetzbuch besteht
 (zugelassene Pflegeeinrichtungen).
-
 
 ## § 2 Erhebungsmerkmale
 
@@ -88,10 +84,6 @@ für die Pflegeeinrichtung
     Buches Sozialgesetzbuch nach Geschlecht, Geburtsjahr, Wohnort
     (Postleitzahl) und Grad der Pflegebedürftigkeit.
 
-
-
-
-
 ## § 3 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -110,10 +102,6 @@ Hilfsmerkmale sind:
 4.  Name, Telefon- und Telefaxnummer der für Rückfragen zur Verfügung
     stehenden Person.
 
-
-
-
-
 ## § 4 Periodizität und Berichtszeit
 
 (1) Die Erhebungen werden zweijährlich, erstmalig für das Jahr 1999,
@@ -125,7 +113,6 @@ Dezember und die Angaben nach § 2 Abs. 2 jeweils nach dem Stand vom
 
 (3) Die Angaben nach den §§ 2 und 3 sind bis zum 1. April des
 Folgejahres dem zuständigen Statistischen Landesamt zu melden.
-
 
 ## § 5 Auskunftspflicht
 
@@ -147,7 +134,6 @@ beauftragen, die Auskunftspflicht zu erfüllen.
 maschinenlesbarer Form, soweit die notwendigen technischen
 Voraussetzungen gegeben sind.
 
-
 ## § 6 Übermittlung
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden
@@ -166,7 +152,6 @@ Nr. 1 übermitteln die Träger der Pflegeversicherung den statistischen
 Ämtern der Länder auf Anforderung die Namen und Anschriften der
 Pflegeeinrichtungen.
 
-
 ## § 7 Veröffentlichung
 
 Die statistischen Ämter der Länder sind berechtigt, mit Zustimmung der
@@ -174,11 +159,9 @@ Betroffenen zweijährlich ein Verzeichnis mit Namen, Anschrift,
 Telefon- und Telefaxnummer, Träger und Art der Pflegeeinrichtung sowie
 Zahl und Art der Pflegeplätze eines Pflegeheimes zu veröffentlichen.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

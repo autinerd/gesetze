@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 11 Nr. 1 G v. 14.6.1976 I 1421
 
-
 ## § 1
 
 (1) Hat auf Grund einer bis zum 31. März 1946 ergangenen Anordnung
@@ -58,18 +57,15 @@ worden ist.
 denen der Mann für tot erklärt oder sein Tod nach den Vorschriften des
 Verschollenheitsrechts gerichtlich festgestellt worden ist.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
 Der Ausspruch des Standesbeamten hat keine Rechtswirkung, wenn er
 erschlichen ist oder wenn begründete Zweifel bestehen, ob der Mann die
 Ehe geschlossen hätte.
-
 
 ## § 4
 
@@ -94,7 +90,6 @@ dieses Gesetzes lebenden Kindes.
 (4) Auf die Klage finden die für die Ehenichtigkeitsklage geltenden
 Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
 
-
 ## § 5
 
 (1) Rechtskräftige gerichtliche Entscheidungen, die auf der
@@ -113,7 +108,6 @@ worden ist.
 diesem Gesetz entsprechenden Vorschriften der Britischen Zone oder des
 Landes Rheinland-Pfalz ergangen sind, bleiben unberührt.
 
-
 ## § 6
 
 (1) Vermögensrechtliche Erklärungen, die von den Beteiligten im
@@ -123,7 +117,6 @@ rechtsunwirksam erklärt wird.
 
 (2) Das gleiche gilt für Vergleiche und vorbehaltlose Anerkenntnisse,
 die sich auf die vermögensrechtlichen Folgen des Ausspruchs beziehen.
-
 
 ## § 7
 

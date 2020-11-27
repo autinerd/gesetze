@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 12.7.2011 I 1378
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 3 Satz 3 und Abs. 4 Satz 2, des § 5 Satz 2 und
 des § 12 Satz 1 des Autobahnmautgesetzes für schwere Nutzfahrzeuge vom
 5\. April 2002 (BGBl. I S. 1234) verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -48,14 +45,9 @@ Diese Verordnung regelt
 
 5.  das Verfahren zur Erstattung der Maut.
 
-
-
-
-
 ## § 2 Beginn der Mauterhebung
 
 Die Erhebung der Maut beginnt am 31. August 2003, 0.00 Uhr.
-
 
 ## § 3 Maßgebliche Tatsachen für die Mauterhebung
 
@@ -80,17 +72,12 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 5.  die Emissionsklasse des Fahrzeugs nach § 48 in Verbindung mit Anlage
     XIV der Straßenverkehrs-Zulassungs-Ordnung.
 
-
-
-
-
 ## § 4 Mauterhebungssysteme
 
 Der Mautschuldner kann die Maut wahlweise über eine manuelle
 Einbuchung oder eine Interneteinbuchung (manuelles
 Mauterhebungssystem) oder das automatische Mauterhebungssystem
 entrichten.
-
 
 ## § 5 Manuelles Mauterhebungssystem
 
@@ -112,7 +99,6 @@ der den Gültigkeitszeitraum ausweist, in dem die mautpflichtige
 Straßenbenutzung durchgeführt werden darf. Bei der Einbuchung über das
 Internet wird ihm eine Einbuchungsnummer und der Zeitraum mitgeteilt,
 in dem die mautpflichtige Straßenbenutzung durchgeführt werden darf.
-
 
 ## § 6 Automatisches Mauterhebungssystem
 
@@ -170,7 +156,6 @@ Straßennetz unverzüglich zu verlassen, es sei denn, die Maut kann ohne
 Verlassen des mautpflichtigen Straßennetzes über das manuelle
 Mauterhebungssystem entrichtet werden.
 
-
 ## § 7 Nachweis der ordnungsgemäßen Entrichtung der Maut
 
 Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für
@@ -181,7 +166,6 @@ Einbuchungsnummer und der Ausdruck der Interneteinbuchung, der
 Fahrzeugschein oder die Zulassungsbescheinigung Teil I sowie
 fahrzeugbezogene Nachweise im Sinne des § 7 Abs. 5 des
 Bundesfernstraßenmautgesetzes.
-
 
 ## § 8 Nachweis der Emissionsklasse für im Inland zugelassene Fahrzeuge
 
@@ -220,7 +204,6 @@ nachgewiesen ist.
 hinsichtlich der Emissionsklasse, so bestimmt das Bundesamt für
 Güterverkehr nach pflichtgemäßem Ermessen die für die Einstufung
 geltende Emissionsklasse.
-
 
 ## § 9 Nachweise der Emissionsklasse für im Ausland zugelassene Fahrzeuge
 
@@ -274,7 +257,6 @@ zu tragen.
 
 (4) § 8 Abs. 3 gilt entsprechend.
 
-
 ## § 10 Mauterstattung
 
 (1) Der Mautschuldner kann bei der manuellen Einbuchung die Erstattung
@@ -301,11 +283,9 @@ Güterverkehr kann für das Erstattungsverlangen nach Satz 1 ein Muster
 im Bundesanzeiger bekannt geben; soweit ein solches bekannt gegeben
 ist, ist dieses zu verwenden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 9.3.2010 I 264
 
-
 ## Eingangsformel
 
 Auf Grund des § 55f der Gewerbeordnung in der Fassung der
@@ -26,7 +25,6 @@ Bekanntmachung vom 1. Januar 1978 (BGBl. I S. 97), der durch Artikel 2
 Nr. 16 des Gesetzes vom 25. Juli 1984 (BGBl. I S. 1008) eingefügt
 worden ist, verordnet der Bundesminister für Wirtschaft mit Zustimmung
 des Bundesrates:
-
 
 ## § 1 Versicherungspflicht
 
@@ -69,10 +67,6 @@ und für die Dauer seiner Tätigkeit aufrechtzuerhalten.
 2.  in den übrigen Fällen für Personenschäden 500.000 Euro und für
     Sachschäden 150.000 Euro.
 
-
-
-
-
 ## § 2 Vorzeigen der Versicherungsunterlagen
 
 (1) Der Inhaber einer Reisegewerbekarte oder einer Zweitschrift (§ 60c
@@ -86,7 +80,6 @@ Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum, die der
 Versicherungspflicht nach § 1 unterliegen.
 
-
 ## § 3 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 145 Abs. 1 Nr. 2 der Gewerbeordnung
@@ -98,15 +91,10 @@ handelt, wer vorsätzlich oder fahrlässig
 
 2.  entgegen § 2 die Versicherungsunterlagen auf Verlangen nicht vorzeigt.
 
-
-
-
-
 ## § 4 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 156 der Gewerbeordnung auch im Land Berlin.
-
 
 ## § 5 Inkrafttreten
 

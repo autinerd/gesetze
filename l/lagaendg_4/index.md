@@ -15,31 +15,23 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 403
 
-
-
 ## Art I - Änderung des Lastenausgleichsgesetzes
 
 -
-
 
 ## Art II - Änderung des Feststellungsgesetzes
 
 -
 
-
 ## Art III - Änderung des Gesetzes über einen Währungsausgleich für Sparguthaben Vertriebener
 
 -
-
 
 ## Art IV - Änderung des Altsparergesetzes
 
 -
 
-
 ## Art V - Sonstige und Überleitungsvorschriften
-
-
 
 ## § 1
 
@@ -67,7 +59,6 @@ frühestens jedoch von dem Ersten des Monats ab, in dem die
 Voraussetzungen für die Gewährung von Kriegsschadenrente eingetreten
 sind.
 
-
 ## § 2
 
 Soweit Leistungen aus dem Härtefonds (§ 301 LAG) an Personen gewährt
@@ -89,10 +80,6 @@ Gesetzes Schäden geltend machen können, gilt folgendes:
     des § 258 des Lastenausgleichsgesetzes als Aufbaudarlehen nach § 254
     des Lastenausgleichsgesetzes.
 
-
-
-
-
 ## § 3
 
 (1) Das Gesetz über die Gewährung von Vorschußzahlungen an Empfänger
@@ -109,7 +96,6 @@ Abs. 3 Satz 2 des Lastenausgleichsgesetzes in der vor dem
 Inkrafttreten dieses Gesetzes geltenden Fassung (§ 6 Abs. 2 Satz 1 in
 der Fassung dieses Gesetzes).
 
-
 ## § 4
 
 Soweit bis zum Ende des Monats, in dem dieses Gesetz verkündet wird,
@@ -117,7 +103,6 @@ auf Grund der bisher geltenden Vorschriften laufende Leistungen mit
 einem höheren Betrage, als sie nach diesem Gesetz zu gewähren sein
 würden, gewährt worden sind, findet eine Rückforderung zuviel
 bezahlter Beträge nicht statt.
-
 
 ## § 5
 
@@ -127,13 +112,11 @@ die auf Grund der vorzeitigen Ablösung von Lastenausgleichsabgaben
 aufkommen, mit je 5 vom Hundert als Aufkommen des Ablösungsjahres und
 der 19 folgenden Rechnungsjahre anzusetzen.
 
-
 ## Art VI - Anwendung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1)
 auch im Land Berlin.
-
 
 ## Art VII - Inkrafttreten
 

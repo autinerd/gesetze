@@ -18,14 +18,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1955, 823
 
-
-
 ## Eingangsformel
 
 Die Bundesrepublik Deutschland und die Vereinigten Staaten von Amerika
 sind in dem Wunsche, die gemeinsamen Verteidigungsbemühungen zu
 fördern, wie folgt übereingekommen:
-
 
 ## Art I
 
@@ -36,7 +33,6 @@ Vereinigten Staaten von Amerika, im folgenden die Vereinigten Staaten
 genannt, betroffen werden. Die Art und Weise dieser
 Abgabenvergünstigungen bestimmt sich nach den nachstehenden Artikeln.
 
-
 ## Art II
 
 Verteidigungsausgaben im Sinne dieses Abkommens sind Ausgaben, die von
@@ -45,7 +41,6 @@ Staaten oder in ihrem Auftrage - für Ausrüstung, Materialien,
 Einrichtungen oder Leistungen für die gemeinsamen
 Verteidigungsbemühungen geleistet werden, einschließlich der Ausgaben
 für Auslandshilfsprogramme aller Art der Vereinigten Staaten.
-
 
 ## Art III
 
@@ -102,13 +97,6 @@ Anhangs berühren, werden folgende Vergünstigungen gewährt:
         Verbrauchsteuer- und Monopolgesetzen für den Fall der Ausfuhr
         vorgesehen sind.
 
-
-
-
-
-
-
-
 ## Art IV
 
 Zölle und Verbrauchsteuern einschließlich der Umsatzausgleichsteuer
@@ -118,7 +106,6 @@ und Stellen der Vereinigten Staaten oder Stellen anderer von den
 Vereinigten Staaten bezeichneter Regierungen übergeben oder die durch
 das deutsche Zollgebiet zur Lieferung an solche Stellen durchgeführt
 werden.
-
 
 ## Art V
 
@@ -131,7 +118,6 @@ Veredelungen anwendbar sind. Für die Ausbesserung von militärischen
 Ausrüstungsgegenständen wird ein vereinfachtes Verfahren vorgesehen
 werden.
 
-
 ## Art VI
 
 Die Vergünstigungen bei Bundessteuern und Zöllen sind davon abhängig,
@@ -141,7 +127,6 @@ den betreffenden Rechtsgeschäften die in diesem Abkommen aufgeführten
 Voraussetzungen für derartige Abgabenvergünstigungen vorliegen. Die
 Art dieses Nachweises wird durch gegenseitige Vereinbarung zwischen
 den beiden Regierungen festgelegt werden.
-
 
 ## Art VII
 
@@ -154,7 +139,6 @@ zahlbar sind.
 Beträgen in Betracht kommen, wird die Zahlung gemäß näherer
 Vereinbarungen der beiden Regierungen geleistet werden.
 
-
 ## Art VIII
 
 Waren, für die nach den vorstehenden Bestimmungen
@@ -163,7 +147,6 @@ dieses Abkommens an andere Personen als Stellen der Vereinigten
 Staaten oder Stellen anderer von den Vereinigten Staaten bezeichneter
 Regierungen nur unter den von den beiden Regierungen zu vereinbarenden
 Bedingungen veräußert werden.
-
 
 ## Art IX
 
@@ -183,10 +166,6 @@ b)  die Entgelte um den in ihnen enthaltenen Abgabenbetrag zu ermäßigen
     sind, von dem der andere Vertragsteil von der Bundesrepublik
     freigestellt wird.
 
-
-
-
-
 ## Art X
 
 Dieses Abkommen bezieht sich nicht auf Vergünstigungen bei Steuern,
@@ -194,13 +173,11 @@ deren Aufkommen den Ländern oder den Gemeinden (Gemeindeverbänden)
 ganz oder zum Teil zufließt. Es sieht keine Befreiung von
 Sozialversicherungsbeiträgen vor.
 
-
 ## Art XI
 
 Die Regierung der Bundesrepublik wird der Regierung der Vereinigten
 Staaten die zur Durchführung dieses Abkommens zu erlassenden
 Vorschriften mitteilen.
-
 
 ## Art XII
 
@@ -214,7 +191,6 @@ Absatz 1 hängt davon ab, daß die Regierung der Bundesrepublik vorher
 der Regierung der Vereinigten Staaten eine schriftliche Erklärung
 abgibt, daß alle für die Anwendung dieses Abkommens in Berlin
 erforderlichen rechtlichen Voraussetzungen erfüllt sind.
-
 
 ## Art XIII
 
@@ -232,7 +208,6 @@ Grundsätzen dieses Abkommens.
 (3) Dieses Abkommen kann jederzeit durch eine Vereinbarung zwischen
 den beiden Vertragsteilen geändert werden.
 
-
 ## Art XIV
 
 (1) Dieses Abkommen tritt in Kraft mit der Hinterlegung einer
@@ -241,7 +216,6 @@ die Bundesrepublik.
 
 (2) Der Anhang ist integrierender Bestandteil dieses Abkommens.
 
-
 ## Schlußformel
 
 ZU URKUND DESSEN haben die zu diesem Zweck ordnungsmäßig
@@ -249,7 +223,6 @@ bevollmächtigten Vertreter das vorliegende Abkommen unterzeichnet.
 GESCHEHEN zu Bonn am fünfzehnten Tage des Monats Oktober 1954 in
 doppelter Ausfertigung in deutscher und englischer Sprache, wobei
 beide Texte authentisch sind.
-
 
 ## Anhang zu dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
 

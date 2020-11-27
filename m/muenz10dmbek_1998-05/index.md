@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1237 (1288)
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -95,7 +93,6 @@ Der Entwurf der Münze stammt von Herrn Ulrich von Chrzanowski, Berlin,
 und Herrn Dr. Heinrich Schlüter, Bonn.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

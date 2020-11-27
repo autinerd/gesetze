@@ -27,7 +27,6 @@ Neugefasst durch
     Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
     Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## § 1
 
 Das Befahren der Neustädter Bucht, soweit sie Seeschifffahrtstraße
@@ -52,7 +51,6 @@ mit zwei oder mehr Antriebsmaschinen ausgerüstet ist, darf der
 höchstmögliche Schalldruckpegel um höchstens 3 dB (A) überschritten
 sein.
 
-
 ## § 2
 
 (1) Besteht der hinreichende Verdacht, dass ein Fahrzeug den Grenzwert
@@ -64,7 +62,6 @@ anerkannte Stelle anordnen.
 (2) Die für die Schifffahrtspolizei zuständige Behörde kann im Falle
 des Absatzes 1 das Befahren der Neustädter Bucht vorläufig ganz oder
 teilweise untersagen.
-
 
 ## § 3
 
@@ -104,7 +101,6 @@ Sinne des Bundes-Immissionsschutzgesetzes zu verhüten.
 [^BJNR71431009BJNE000400000_01_BJNR714310009BJNE000402305]:     amtlicher Hinweis: WSA Lübeck, Moltkeplatz 17, 23566 Lübeck; FAX:
     0451-6208190; E-mail: wsa-luebeck@wsv.bund.de
 
-
 ## § 4
 
 Zur Feststellung des Schalldruckpegels des Fahrzeugs ist Anhang 1
@@ -116,12 +112,10 @@ des Europäischen Parlaments und des Rates vom 29. September 2003 (ABl.
 EU Nr. L 284 S. 1) geändert worden ist, in der jeweils geltenden
 Fassung anzuwenden.
 
-
 ## § 5
 
 Wird das Nichteinhalten des Grenzwertes festgestellt, hat der Eigner
 des Fahrzeuges die Kosten der Messungen zu tragen.
-
 
 ## § 6
 
@@ -145,10 +139,6 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 5.  entgegen § 3 Absatz 3 Satz 2 eine Anzeige nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht.
-
-
-
-
 
 ## § 7
 

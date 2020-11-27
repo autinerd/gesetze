@@ -21,10 +21,7 @@ Zuletzt geändert durch
 Das g tritt gem. art. 9 abs. 2 g v. 16.8.2005 i 2437, 3095 idf d. art. 12 g v. 22.12.2006 i 3416 am 1.11.2010 außer kraft. die geltung des g ist durch
 :   Art. 5 G v. 24.7.2010 I 977 mWv 30.7.2010 über den 31.10.2010 hinaus bis zum 31.10.2012 verlängert worden.
 
-
 ## Abschnitt 1 - Musterfeststellungsantrag; Vorlageverfahren
-
-
 
 ### § 1 Musterfeststellungsantrag
 
@@ -117,7 +114,6 @@ wenn
 Unzulässige Musterfeststellungsanträge weist das Prozessgericht durch
 Beschluss zurück.
 
-
 ### § 2 Bekanntmachung im Klageregister
 
 (1) Einen zulässigen Musterfeststellungsantrag macht das
@@ -188,15 +184,10 @@ die sicherstellen, dass die Bekanntmachungen
 
 2.  jederzeit ihrem Ursprung nach zugeordnet werden können.
 
-
-
-
-
 ### § 3 Unterbrechung des Verfahrens
 
 Mit der Bekanntmachung des Musterfeststellungsantrags im Klageregister
 wird das Verfahren unterbrochen.
-
 
 ### § 4 Vorlage an das Oberlandesgericht
 
@@ -258,17 +249,13 @@ Landesjustizverwaltungen übertragen. Durch Staatsverträge zwischen
 Ländern kann die Zuständigkeit eines Oberlandesgerichts für einzelne
 Bezirke oder das gesamte Gebiet mehrerer Länder begründet werden.
 
-
 ### § 5 Sperrwirkung des Vorlagebeschlusses
 
 Mit Erlass des Vorlagebeschlusses ist die Einleitung eines weiteren
 Musterverfahrens für die gemäß § 7 auszusetzenden Verfahren
 unzulässig.
 
-
 ## Abschnitt 2 - Durchführung des Musterverfahrens
-
-
 
 ### § 6 Bekanntmachung des Musterverfahrens
 
@@ -296,7 +283,6 @@ Klageregister öffentlich bekannt:
 Das Oberlandesgericht trägt die datenschutzrechtliche Verantwortung
 entsprechend § 2 Abs. 3.
 
-
 ### § 7 Aussetzung
 
 (1) Nach der Bekanntmachung des Musterverfahrens im Klageregister
@@ -313,7 +299,6 @@ Aussetzungsbeschluss ist nicht anfechtbar.
 Oberlandesgericht unverzüglich über die Aussetzung unter Angabe der
 Höhe des Anspruchs, soweit er Gegenstand des Musterverfahrens ist, zu
 unterrichten.
-
 
 ### § 8 Beteiligte des Musterverfahrens
 
@@ -357,10 +342,6 @@ unterrichtet das Prozessgericht die Beigeladenen darüber,
     zwei Wochen ab Zustellung des Aussetzungsbeschlusses in der Hauptsache
     zurückgenommen wird.
 
-
-
-
-
 ### § 9 Allgemeine Verfahrensregeln
 
 (1) Auf das Musterverfahren sind die im ersten Rechtszug für das
@@ -394,7 +375,6 @@ Die Rechtsverordnung regelt die für die Bearbeitung der Dokumente
 geeignete Form. Die Landesregierungen können die Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
 ### § 10 Vorbereitung des Termins
 
 Zur Vorbereitung des Termins kann der Vorsitzende oder ein von ihm
@@ -408,7 +388,6 @@ Beigeladenen werden den übrigen Beigeladenen nicht mitgeteilt.
 Schriftsätze des Musterklägers und des Musterbeklagten werden den
 Beigeladenen nur mitgeteilt, wenn sie dies gegenüber dem Senat
 schriftlich beantragt haben.
-
 
 ### § 11 Wirkung von Rücknahmen
 
@@ -426,7 +405,6 @@ des Musterklägers die Aussetzung des Musterverfahrens beantragt. Die
 Klagerücknahme von Beigeladenen hat auf den Fortgang des
 Musterverfahrens keinen Einfluss.
 
-
 ### § 12 Rechtsstellung des Beigeladenen
 
 Der Beigeladene muss das Musterverfahren in der Lage annehmen, in der
@@ -435,7 +413,6 @@ Angriffs- oder Verteidigungsmittel geltend zu machen und alle
 Prozesshandlungen wirksam vorzunehmen, soweit nicht seine Erklärungen
 und Handlungen mit Erklärungen und Handlungen seiner Hauptpartei
 (Musterkläger oder Musterbeklagter) in Widerspruch stehen.
-
 
 ### § 13 Erweiterung des Gegenstandes des Musterverfahrens
 
@@ -450,7 +427,6 @@ ist unanfechtbar und für das Oberlandesgericht bindend.
 
 (3) Das Oberlandesgericht macht den erweiterten Vorlagebeschluss im
 Klageregister öffentlich bekannt. § 6 Satz 2 gilt entsprechend.
-
 
 ### § 14 Musterentscheid
 
@@ -470,7 +446,6 @@ bleibt den Prozessgerichten der ausgesetzten Verfahren vorbehalten.
 Musterverfahren keine Anwendung. Ein vergleichsweiser Abschluss des
 Musterverfahrens ist ausgeschlossen, sofern dem Vergleich nicht alle
 Beteiligten (§ 8 Abs. 1) zustimmen.
-
 
 ### § 15 Rechtsbeschwerde
 
@@ -519,10 +494,7 @@ ein, so ist Musterrechtsbeschwerdegegner der vom Oberlandesgericht
 bestimmte Musterkläger. § 574 Abs. 4 Satz 1 der Zivilprozessordnung
 findet auf die Beigeladenen entsprechende Anwendung.
 
-
 ## Abschnitt 3 - Wirkung des Musterentscheids; Kosten; Übergangsregelung
-
-
 
 ### § 16 Wirkung des Musterentscheids
 
@@ -552,7 +524,6 @@ absichtlich oder durch grobes Verschulden nicht geltend gemacht sind.
 (3) Der Musterentscheid wirkt auch für und gegen die Beigeladenen, die
 dem Rechtsbeschwerdeverfahren nicht beigetreten sind.
 
-
 ### § 17 Gegenstand der Kostenentscheidung im Prozessverfahren
 
 Die dem Musterkläger und den auf seiner Seite Beigeladenen im
@@ -572,7 +543,6 @@ Wochen ab Zustellung des Aussetzungsbeschlusses nach § 7 in der
 Hauptsache zurückgenommen worden ist. § 96 der Zivilprozessordnung
 gilt entsprechend.
 
-
 ### § 18 Verstoß gegen die Vorlagevoraussetzungen an das Oberlandesgericht
 
 Das Urteil eines Prozessgerichts in der Hauptsache kann nicht aus dem
@@ -580,7 +550,6 @@ Grunde angefochten werden, dass das Oberlandesgericht zum Erlass eines
 Musterentscheids nicht zuständig gewesen sei oder die
 Vorlagevoraussetzungen für einen Musterentscheid nicht vorgelegen
 hätten.
-
 
 ### § 19 Kostenentscheidung im Rechtsbeschwerdeverfahren
 
@@ -615,7 +584,6 @@ Musterbeklagten oder der auf dessen Seite Beigeladenen jeweils nur
 nach dem Wert zu erstatten, der sich aus den von ihnen im
 Prozessverfahren geltend gemachten Ansprüchen, die Gegenstand des
 Musterverfahrens sind, ergibt.
-
 
 ### § 20 Übergangsregelung
 

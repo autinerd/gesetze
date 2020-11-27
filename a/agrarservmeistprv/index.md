@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1191
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des
@@ -26,7 +25,6 @@ geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -100,7 +98,6 @@ Rahmenbedingungen in den folgenden Bereichen zu reagieren:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten
 Fortbildungsabschluss Agrarservicemeister oder Agrarservicemeisterin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -132,7 +129,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben worden sind, die die Zulassung zur
 Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Prüfungsteile
@@ -149,7 +145,6 @@ Prüfung rechtfertigen.
 
 
 (2) Die Meisterprüfung ist nach Maßgabe der §§ 4 bis 6 durchzuführen.
-
 
 ## § 4 Anforderungen im Prüfungsteil „Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen“
 
@@ -247,7 +242,6 @@ anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz
 2 aufgeführten Inhalten. Für die schriftliche Prüfung stehen 180
 Minuten zur Verfügung.
 
-
 ## § 5 Anforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche
@@ -314,7 +308,6 @@ Minuten dauern.
 anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz
 2 aufgeführten Inhalten. Für die schriftliche Prüfung stehen 180
 Minuten zur Verfügung.
-
 
 ## § 6 Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
 
@@ -525,7 +518,6 @@ den Handlungsfeldern der Absätze 3 bis 6 sowie mindestens eine
 fallbezogene Aufgabe aus dem Handlungsfeld des Absatzes 7 bearbeiten.
 Die Prüfungszeit beträgt 180 Minuten.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung
@@ -536,7 +528,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
 Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entspricht.
-
 
 ## § 8 Bestehen der Meisterprüfung
 
@@ -572,7 +563,6 @@ soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung
 des Ergebnisses sind jeweils die bisherige Note der Prüfung und die
 Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 9 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -585,7 +575,6 @@ die Leistungen darin in einer vorangegangenen Prüfung min-destens mit
 der Note „ausreichend“ bewertet worden sind und der Prüfling sich
 innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
-
 
 ## § 10 Inkrafttreten
 

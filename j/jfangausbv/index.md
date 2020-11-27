@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 195
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -26,17 +24,14 @@ Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
 im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Justizfachangestellter/Justizfachangestellte wird
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -114,10 +109,6 @@ Fertigkeiten und Kenntnisse:
 
 9.4 öffentliche Register.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -134,12 +125,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -147,7 +136,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -172,10 +160,6 @@ Prüfungsfächern durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 8 Abschlußprüfung
 
@@ -303,13 +287,11 @@ sowie in der praktischen Prüfung mindestens ausreichende Leistungen
 erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsfach
 mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 9 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Justizangestellter/Justizangestellte sind nicht mehr anzuwenden.
-
 
 ## § 10 Übergangsregelung
 
@@ -322,11 +304,9 @@ Anwendung der Vorschriften dieser Verordnung.
 beginnen, können die Vertragsparteien die Anwendung der bisherigen
 Vorschriften vereinbaren.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Justizfachangestellten/zur Justizfachangestellten
 

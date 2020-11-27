@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 1446
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -44,14 +41,12 @@ Deutschland unterzeichneten Verträgen des Weltpostvereins,
 wird zugestimmt. Die Verträge nebst Schlussprotokoll werden
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Das Bundesministerium für Wirtschaft und Technologie kann den Wortlaut
 der Satzung in der vom Inkrafttreten des Sechsten Zusatzprotokolls an
 geltenden Fassung mit einer amtlichen deutschen Übersetzung in der
 Neufassung im Bundesgesetzblatt bekannt machen.
-
 
 ## Art 3
 
@@ -64,7 +59,6 @@ Weltpostkongresses zu diesen Ergänzenden Bestimmungen beschließt, in
 Kraft zu setzen und die Ergänzenden Bestimmungen sowie deren
 Änderungen im Amtsblatt der Regulierungsbehörde für Telekommunikation
 und Post zu verkünden.
-
 
 ## Art 4
 
@@ -119,7 +113,6 @@ durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 Vorschriften über Inhalt, Umfang und Verfahren der Einschränkungen
 nach Maßgabe des Artikels 43 des Weltpostvertrages zu erlassen.
 
-
 ## Art 5
 
 Für die Bundesrepublik Deutschland nimmt die Deutsche Postbank AG die
@@ -129,7 +122,6 @@ Postzahlungsdienste-Übereinkommen – mit Ausnahme von dessen Artikel 13
 – sowie der dazugehörigen Ergänzenden Bestimmungen und dem
 Schlussprotokoll ergeben. Die Vorschriften des Artikels 4 Abs. 2 Satz
 1, 3 bis 6 und Abs. 3 gelten entsprechend.
-
 
 ## Art 6
 
@@ -149,7 +141,6 @@ Regulierungsbehörde für Telekommunikation und Post einen derartigen
 Verstoß fest, so kann sie diejenigen Anordnungen erlassen, die
 erforderlich sind, um weitere Verstöße zu verhindern und die Folgen
 begangener Verstöße zu beheben.
-
 
 ## Art 7
 

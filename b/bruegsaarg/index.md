@@ -20,12 +20,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 3 G v. 10.12.2003 I 2471
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art I
 
@@ -36,7 +34,6 @@ zuletzt geändert durch das Dritte Gesetz zur Änderung des
 Bundesrückerstattungsgesetzes vom 2. Oktober 1964 (Bundesgesetzbl. I
 S. 809), wird nach Maßgabe der folgenden Vorschriften im Saarland
 eingeführt.
-
 
 ## Art II
 
@@ -352,26 +349,19 @@ folgende abweichende Bestimmungen:
 
 28. § 48 entfällt.
 
-
-
-
-
 ## Art III
 
 -
 
-
 ## Art IV
 
 -
-
 
 ## Art V
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art VI
 

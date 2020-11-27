@@ -21,31 +21,23 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 17 G v. 6.12.2011 I 2515
 
-
 ## Erster Teil - Richteramt in Bund und Ländern
 
-
-
 ### Erster Abschnitt - Einleitende Vorschriften
-
-
 
 #### § 1 Berufsrichter und ehrenamtliche Richter
 
 Die rechtsprechende Gewalt wird durch Berufsrichter und durch
 ehrenamtliche Richter ausgeübt.
 
-
 #### § 2 Geltung für Berufsrichter
 
 Die Vorschriften dieses Gesetzes gelten, soweit dieses Gesetz nicht
 anderes bestimmt, nur für die Berufsrichter.
 
-
 #### § 3 Dienstherr
 
 Die Richter stehen im Dienst des Bundes oder eines Landes.
-
 
 #### § 4 Unvereinbare Aufgaben
 
@@ -75,13 +67,7 @@ wahrnehmen
     Stellen im Sinne des § 104 Satz 2 des
     Bundespersonalvertretungsgesetzes.
 
-
-
-
-
 ### Zweiter Abschnitt - Befähigung zum Richteramt
-
-
 
 #### § 5 Befähigung zum Richteramt
 
@@ -94,7 +80,6 @@ Pflichtfachprüfung.
 
 (2) Studium und Vorbereitungsdienst sind inhaltlich aufeinander
 abzustimmen.
-
 
 #### § 5a Studium
 
@@ -130,7 +115,6 @@ daß die praktische Studienzeit bei einer Stelle und zusammenhängend
 stattfindet.
 
 (4) Das Nähere regelt das Landesrecht.
-
 
 #### § 5b Vorbereitungsdienst
 
@@ -178,7 +162,6 @@ Gesamtdauer von drei Monaten vorgesehen werden.
 
 (6) Das Nähere regelt das Landesrecht.
 
-
 #### § 5c Anrechnung einer Ausbildung für den gehobenen Dienst
 
 (1) Eine erfolgreich abgeschlossene Ausbildung für den gehobenen
@@ -188,7 +171,6 @@ angerechnet werden. Auf den Vorbereitungsdienst dürfen jedoch nicht
 mehr als sechs Monate angerechnet werden.
 
 (2) Das Nähere regelt das Landesrecht.
-
 
 #### § 5d Prüfungen
 
@@ -254,7 +236,6 @@ vorsehen.
 
 (6) Das Nähere regelt das Landesrecht.
 
-
 #### § 6 Anerkennung von Prüfungen
 
 (1) Die Zulassung zum Vorbereitungsdienst darf einem Bewerber nicht
@@ -269,22 +250,17 @@ anzurechnen.
 Richteramt nach § 5 erworben hat, ist im Bund und in jedem deutschen
 Land zum Richteramt befähigt.
 
-
 #### § 7 Universitätsprofessoren
 
 Jeder ordentliche Professor der Rechte an einer Universität im
 Geltungsbereich dieses Gesetzes ist zum Richteramt befähigt.
 
-
 ### Dritter Abschnitt - Richterverhältnis
-
-
 
 #### § 8 Rechtsformen des Richterdienstes
 
 Richter können nur als Richter auf Lebenszeit, auf Zeit, auf Probe
 oder kraft Auftrags berufen werden.
-
 
 #### § 9 Voraussetzungen für die Berufungen
 
@@ -301,10 +277,6 @@ In das Richterverhältnis darf nur berufen werden, wer
 
 
 4.  über die erforderliche soziale Kompetenz verfügt.
-
-
-
-
 
 #### § 10 Ernennung auf Lebenszeit
 
@@ -341,13 +313,11 @@ Dienst tätig gewesen ist.
 Die Anrechnung von mehr als zwei Jahren dieser Tätigkeiten setzt
 besondere Kenntnisse und Erfahrungen des zu Ernennenden voraus.
 
-
 #### § 11 Ernennung auf Zeit
 
 Eine Ernennung zum Richter auf Zeit ist nur unter den durch
 Bundesgesetz bestimmten Voraussetzungen und nur für die
 bundesgesetzlich bestimmten Aufgaben zulässig.
-
 
 #### § 12 Ernennung auf Probe
 
@@ -359,13 +329,11 @@ Probe zum Richter auf Lebenszeit oder unter Berufung in das
 Beamtenverhältnis auf Lebenszeit zum Staatsanwalt zu ernennen. Die
 Frist verlängert sich um die Zeit einer Beurlaubung ohne Bezüge.
 
-
 #### § 13 Verwendung eines Richters auf Probe
 
 Ein Richter auf Probe kann ohne seine Zustimmung nur bei einem
 Gericht, bei einer Behörde der Gerichtsverwaltung oder bei einer
 Staatsanwaltschaft verwendet werden.
-
 
 #### § 14 Ernennung zum Richter kraft Auftrags
 
@@ -374,7 +342,6 @@ Auftrags ernannt werden, wenn er später als Richter auf Lebenszeit
 verwendet werden soll.
 
 (2) ...
-
 
 #### § 15 Wirkungen auf das Beamtenverhältnis
 
@@ -387,7 +354,6 @@ Amtsverschwiegenheit und des Verbots der Annahme von Geschenken.
 (2) Wird das Richterverhältnis zu einem anderen Dienstherrn begründet,
 so ist auch dieser zur Zahlung der Dienstbezüge verpflichtet.
 
-
 #### § 16 Dauer der Verwendung als Richter kraft Auftrags
 
 (1) Spätestens zwei Jahre nach seiner Ernennung ist der Richter kraft
@@ -397,7 +363,6 @@ Ernennung ab, so endet das Richterverhältnis kraft Auftrags.
 
 (2) Für die Verwendung des Richters kraft Auftrags gelten die
 Vorschriften für Richter auf Probe entsprechend.
-
 
 #### § 17 Ernennung durch Urkunde
 
@@ -431,14 +396,12 @@ ersten Verleihung eines Amtes und bei der Verleihung eines anderen
 Amtes mit anderem Endgrundgehalt und anderer Amtsbezeichnung muß in
 der Ernennungsurkunde die Amtsbezeichnung dieses Amtes enthalten sein.
 
-
 #### § 17a
 
 Legt ein Richter sein Mandat nieder und bewirbt er sich zu diesem
 Zeitpunkt erneut um einen Sitz im Deutschen Bundestag, so ist die
 Übertragung eines anderen Amtes mit höherem Endgrundgehalt nicht
 zulässig.
-
 
 #### § 18 Nichtigkeit der Ernennung
 
@@ -463,7 +426,6 @@ der Ernennung
 (3) Die Nichtigkeit einer Ernennung zum Richter auf Lebenszeit oder
 zum Richter auf Zeit kann erst geltend gemacht werden, nachdem ein
 Gericht sie rechtskräftig festgestellt hat.
-
 
 #### § 19 Rücknahme der Ernennung
 
@@ -498,7 +460,6 @@ worden war.
 kann ohne schriftliche Zustimmung des Richters nur auf Grund
 rechtskräftiger richterlicher Entscheidung zurückgenommen werden.
 
-
 #### § 19a Amtsbezeichnungen
 
 (1) Amtsbezeichnungen der Richter auf Lebenszeit und der Richter auf
@@ -513,7 +474,6 @@ mit einem das Gericht bezeichnenden Zusatz ("Richter am ...").
 (3) Richter auf Probe führen die Bezeichnung "Richter", im
 staatsanwaltschaftlichen Dienst die Bezeichnung "Staatsanwalt".
 
-
 #### § 20 Allgemeines Dienstalter
 
 Das allgemeine Dienstalter eines Richters bestimmt sich nach dem Tag,
@@ -521,7 +481,6 @@ an dem ihm sein Richteramt übertragen worden ist. Hat der Richter
 zuvor ein anderes Richteramt oder ein sonstiges Amt mit mindestens dem
 gleichen Anfangsgrundgehalt bekleidet, so bestimmt sich das allgemeine
 Dienstalter nach dem Tag der Übertragung dieses Amtes.
-
 
 #### § 21 Entlassung aus dem Dienstverhältnis
 
@@ -579,7 +538,6 @@ Richters auf Lebenszeit oder eines Richters auf Zeit nach Absatz 1
 kann erst geltend gemacht werden, nachdem ein Gericht sie
 rechtskräftig festgestellt hat.
 
-
 #### § 22 Entlassung eines Richters auf Probe
 
 (1) Ein Richter auf Probe kann zum Ablauf des sechsten, zwölften,
@@ -608,13 +566,11 @@ Beurlaubung ohne Bezüge.
 (5) In den Fällen der Absätze 1 und 2 ist die Entlassungsverfügung dem
 Richter mindestens sechs Wochen vor dem Entlassungstag mitzuteilen.
 
-
 #### § 23 Entlassung eines Richters kraft Auftrags
 
 Für die Beendigung des Richterverhältnisses kraft Auftrags gelten die
 Vorschriften über die Beendigung des Richterverhältnisses auf Probe
 entsprechend.
-
 
 #### § 24 Beendigung des Dienstverhältnisses durch richterliche Entscheidung
 
@@ -641,15 +597,11 @@ Geltungsbereich dieses Gesetzes erkannt auf
 so endet das Richterverhältnis mit der Rechtskraft dieses Urteils,
 ohne daß es einer weiteren gerichtlichen Entscheidung bedarf.
 
-
 ### Vierter Abschnitt - Unabhängigkeit des Richters
-
-
 
 #### § 25 Grundsatz
 
 Der Richter ist unabhängig und nur dem Gesetz unterworfen.
-
 
 #### § 26 Dienstaufsicht
 
@@ -665,7 +617,6 @@ Amtsgeschäfte zu ermahnen.
 Unabhängigkeit beeinträchtige, so entscheidet auf Antrag des Richters
 ein Gericht nach Maßgabe dieses Gesetzes.
 
-
 #### § 27 Übertragung eines Richteramts
 
 (1) Dem Richter auf Lebenszeit und dem Richter auf Zeit ist ein
@@ -673,7 +624,6 @@ Richteramt bei einem bestimmten Gericht zu übertragen.
 
 (2) Ihm kann ein weiteres Richteramt bei einem anderen Gericht
 übertragen werden, soweit ein Gesetz dies zuläßt.
-
 
 #### § 28 Besetzung der Gerichte mit Richtern auf Lebenszeit
 
@@ -684,14 +634,12 @@ tätig werden, soweit nicht ein Bundesgesetz etwas anderes bestimmt.
 Gericht in einer Besetzung mit mehreren Richtern tätig, so muß ein
 Richter auf Lebenszeit den Vorsitz führen.
 
-
 #### § 29 Besetzung der Gerichte mit Richtern auf Probe, Richtern kraft Auftrags und abgeordneten Richtern
 
 Bei einer gerichtlichen Entscheidung darf nicht mehr als ein Richter
 auf Probe oder ein Richter kraft Auftrags oder ein abgeordneter
 Richter mitwirken. Er muß als solcher in dem Geschäftsverteilungsplan
 kenntlich gemacht werden.
-
 
 #### § 30 Versetzung und Amtsenthebung
 
@@ -721,7 +669,6 @@ Entscheidung ausgesprochen werden.
 (3) Der Versetzung steht es gleich, wenn ein Richter, der mehrere
 Richterämter innehat, eines Amtes enthoben wird.
 
-
 #### § 31 Versetzung im Interesse der Rechtspflege
 
 Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann
@@ -739,7 +686,6 @@ Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann
 versetzt werden, wenn Tatsachen außerhalb seiner richterlichen
 Tätigkeit eine Maßnahme dieser Art zwingend gebieten, um eine schwere
 Beeinträchtigung der Rechtspflege abzuwenden.
-
 
 #### § 32 Veränderung der Gerichtsorganisation
 
@@ -759,7 +705,6 @@ werden.
 Amtsenthebung (Absatz 2 Satz 1) können nicht später als drei Monate
 nach Inkrafttreten der Veränderung ausgesprochen werden.
 
-
 #### § 33 Belassung des vollen Gehalts
 
 (1) In den Fällen des § 32 erhält der Richter sein bisheriges
@@ -775,7 +720,6 @@ maßgebend.
 Vorschriften über das Ruhen der Versorgungsbezüge und über das
 Zusammentreffen mehrerer Versorgungsbezüge als Richter im Ruhestand.
 
-
 #### § 34 Versetzung in den Ruhestand wegen Dienstunfähigkeit
 
 Ein Richter auf Lebenszeit oder ein Richter auf Zeit kann ohne seine
@@ -784,13 +728,11 @@ Entscheidung wegen Dienstunfähigkeit in den Ruhestand versetzt werden.
 Für Entscheidungen über eine begrenzte Dienstfähigkeit gilt Satz 1
 entsprechend.
 
-
 #### § 35 Vorläufige Untersagung der Amtsgeschäfte
 
 In einem Verfahren nach § 18 Abs. 3, § 19 Abs. 3, § 21 Abs. 3, §§ 30
 und 34 kann das Gericht auf Antrag dem Richter die Führung seiner
 Amtsgeschäfte vorläufig untersagen.
-
 
 #### § 36 Mitgliedschaft in einer Volksvertretung oder Regierung
 
@@ -807,7 +749,6 @@ eines Landes ernannt, so enden das Recht und die Pflicht zur
 Wahrnehmung des Richteramts ohne gerichtliche Entscheidung nach
 näherer Bestimmung der Gesetze.
 
-
 #### § 37 Abordnung
 
 (1) Ein Richter auf Lebenszeit oder ein Richter auf Zeit darf nur mit
@@ -820,10 +761,7 @@ ein Richter auf Zeit ohne seine Zustimmung längstens für zusammen drei
 Monate innerhalb eines Geschäftsjahres an andere Gerichte desselben
 Gerichtszweigs abgeordnet werden.
 
-
 ### Fünfter Abschnitt - Besondere Pflichten des Richters
-
-
 
 #### § 38 Richtereid
 
@@ -845,13 +783,11 @@ werden.
 die Landesverfassung enthalten und statt vor einem Gericht in anderer
 Weise öffentlich geleistet werden.
 
-
 #### § 39 Wahrung der Unabhängigkeit
 
 Der Richter hat sich innerhalb und außerhalb seines Amtes, auch bei
 politischer Betätigung, so zu verhalten, daß das Vertrauen in seine
 Unabhängigkeit nicht gefährdet wird.
-
 
 #### § 40 Schiedsrichter und Schlichter
 
@@ -867,7 +803,6 @@ befaßt werden kann.
 Vereinigungen oder zwischen diesen und Dritten ist Absatz 1
 entsprechend anzuwenden.
 
-
 #### § 41 Rechtsgutachten
 
 (1) Ein Richter darf weder außerdienstlich Rechtsgutachten erstatten,
@@ -882,22 +817,17 @@ Tätigkeit des Professors nicht über den Umfang einer Nebentätigkeit
 hinausgeht und nicht zu besorgen ist, daß dienstliche Interessen
 beeinträchtigt werden.
 
-
 #### § 42 Nebentätigkeiten in der Rechtspflege
 
 Ein Richter ist zu einer Nebentätigkeit (Nebenamt, Nebenbeschäftigung)
 nur in der Rechtspflege und in der Gerichtsverwaltung verpflichtet.
-
 
 #### § 43 Beratungsgeheimnis
 
 Der Richter hat über den Hergang bei der Beratung und Abstimmung auch
 nach Beendigung seines Dienstverhältnisses zu schweigen.
 
-
 ### Sechster Abschnitt - Ehrenamtliche Richter
-
-
 
 #### § 44 Bestellung und Abberufung des ehrenamtlichen Richters
 
@@ -911,7 +841,6 @@ Richter sollen Frauen und Männer angemessen berücksichtigt werden.
 (2) Ein ehrenamtlicher Richter kann vor Ablauf seiner Amtszeit nur
 unter den gesetzlich bestimmten Voraussetzungen und gegen seinen
 Willen nur durch Entscheidung eines Gerichts abberufen werden.
-
 
 #### § 44a Hindernisse für Berufungen als ehrenamtliche Richter
 
@@ -936,7 +865,6 @@ werden, wer
 (2) Die für die Berufung zuständige Stelle kann zu diesem Zweck von
 dem Vorgeschlagenen eine schriftliche Erklärung verlangen, dass bei
 ihm die Voraussetzungen des Absatzes 1 nicht vorliegen.
-
 
 #### § 44b Abberufung von ehrenamtlichen Richtern
 
@@ -965,7 +893,6 @@ worden, entscheidet ein anderer Spruchkörper des Gerichts, das die
 Entscheidung getroffen hat. Ergibt sich nach den Sätzen 3 und 4 kein
 zuständiges Gericht, so entscheidet das Oberlandesgericht, in dessen
 Bezirk die Entscheidung getroffen worden ist.
-
 
 #### § 45 Unabhängigkeit und besondere Pflichten des ehrenamtlichen Richters
 
@@ -1032,7 +959,6 @@ wird ein Protokoll aufgenommen.
 ehrenamtlichen Richter nach den für die einzelnen Gerichtszweige
 geltenden Vorschriften.
 
-
 #### § 45a Bezeichnungen der ehrenamtlichen Richter
 
 Die ehrenamtlichen Richter in der Strafgerichtsbarkeit führen die
@@ -1040,21 +966,15 @@ Bezeichnung "Schöffe", die ehrenamtlichen Richter bei den Kammern für
 Handelssachen die Bezeichnung "Handelsrichter" und die anderen
 ehrenamtlichen Richter die Bezeichnung "ehrenamtlicher Richter".
 
-
 ## Zweiter Teil - Richter im Bundesdienst
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 46 Geltung des Bundesbeamtenrechts
 
 Soweit dieses Gesetz nichts anderes bestimmt, gelten für die
 Rechtsverhältnisse der Richter im Bundesdienst bis zu einer besonderen
 Regelung die Vorschriften für Bundesbeamte entsprechend.
-
 
 #### § 47 Bundespersonalausschuß in Angelegenheiten der Richter
 
@@ -1069,7 +989,6 @@ die Richter werden vom Bundesminister der Justiz im Einvernehmen mit
 den beteiligten Bundesministern vorgeschlagen, davon drei Richter und
 ihre Stellvertreter auf Grund einer Benennung durch die
 Spitzenorganisationen der Berufsverbände der Richter.
-
 
 #### § 48 Eintritt in den Ruhestand
 
@@ -1444,7 +1363,6 @@ versetzen, wenn sie das 63. Lebensjahr vollendet haben.
 
 (6) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
 
-
 #### § 48a Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
 
 (1) Einem Richter ist auf Antrag
@@ -1507,7 +1425,6 @@ berücksichtigungsfähiger Angehöriger eines Beihilfeberechtigten wird
 oder Anspruch auf Familienhilfe nach § 10 des Fünften Buches
 Sozialgesetzbuch hat.
 
-
 #### § 48b Beurlaubung aus Arbeitsmarktgründen
 
 (1) Einem Richter ist in einer Arbeitsmarktsituation, in der ein
@@ -1541,7 +1458,6 @@ bereits nach Vollendung des fünfzigsten Lebensjahres zu bewilligen. In
 Verbindung mit Urlaub nach § 48a Abs. 1 darf die Dauer des Urlaubs
 fünfzehn Jahre nicht überschreiten.
 
-
 #### § 48c Teilzeitbeschäftigung
 
 Einem Richter ist nach einer Teilzeitbeschäftigung von mindestens
@@ -1551,7 +1467,6 @@ Dienstes zu bewilligen, wenn die Voraussetzungen des § 48a Abs. 1
 nicht vorliegen und es dem Richter nicht mehr zuzumuten ist, zur
 Vollzeitbeschäftigung zurückzukehren.
 
-
 #### § 48d Teilzeitbeschäftigung, Beurlaubung und berufliches Fortkommen
 
 Teilzeitbeschäftigung und Beurlaubung nach den § 48a oder § 48c dürfen
@@ -1560,10 +1475,7 @@ Behandlung von Richtern mit Teilzeitbeschäftigung gegenüber Richtern
 mit Vollzeitbeschäftigung ist nur zulässig, wenn zwingende sachliche
 Gründe sie rechtfertigen.
 
-
 ### Zweiter Abschnitt - Richtervertretungen
-
-
 
 #### § 49 Richterrat und Präsidialrat
 
@@ -1574,10 +1486,6 @@ Bei den Gerichten des Bundes werden als Richtervertretungen errichtet
 
 
 2.  Präsidialräte für die Beteiligung an der Ernennung eines Richters.
-
-
-
-
 
 #### § 50 Zusammensetzung des Richterrats
 
@@ -1600,7 +1508,6 @@ bei einem Truppendienstgericht.
 (3) Der Präsident des Gerichts und sein ständiger Vertreter können dem
 Richterrat nicht angehören.
 
-
 #### § 51 Wahl des Richterrats
 
 (1) Die Mitglieder des Richterrats und eine gleiche Anzahl von
@@ -1612,7 +1519,6 @@ den Truppendienstgerichten der lebensälteste Richter, eine Versammlung
 der Richter ein. Die Versammlung beschließt unter dem Vorsitz des
 lebensältesten Richters das Wahlverfahren.
 
-
 #### § 52 Aufgaben des Richterrats
 
 Für die Befugnisse und Pflichten des Richterrats gelten § 2 Abs. 1, §§
@@ -1620,7 +1526,6 @@ Für die Befugnisse und Pflichten des Richterrats gelten § 2 Abs. 1, §§
 78 Abs. 1 Nr. 1, 2 und Abs. 2 bis 4, §§ 80 und 81 des
 Bundespersonalvertretungsgesetzes vom 15. März 1974 (Bundesgesetzbl. I
 S. 693) sinngemäß.
-
 
 #### § 53 Gemeinsame Aufgaben von Richterrat und Personalvertretung
 
@@ -1634,7 +1539,6 @@ der Personalvertretung zu der Zahl der Beamten, Angestellten und
 Arbeiter. Jedoch entsendet der Richterrat mindestens die in § 17 Abs.
 3 und Abs. 5 Satz 1 des Bundespersonalvertretungsgesetzes bestimmte
 Zahl von Mitgliedern.
-
 
 #### § 54 Bildung des Präsidialrats
 
@@ -1673,14 +1577,12 @@ entsprechend.
 
 (4) Die Amtszeit des Präsidialrats beträgt vier Jahre.
 
-
 #### § 55 Aufgabe des Präsidialrats
 
 Vor jeder Ernennung oder Wahl eines Richters ist der Präsidialrat des
 Gerichts, bei dem der Richter verwendet werden soll, zu beteiligen.
 Das gleiche gilt, wenn einem Richter ein Richteramt an einem Gericht
 eines anderen Gerichtszweigs übertragen werden soll.
-
 
 #### § 56 Einleitung der Beteiligung
 
@@ -1691,7 +1593,6 @@ nur mit Zustimmung des Bewerbers oder Richters vorgelegt werden.
 
 (2) Auf Ersuchen eines Mitglieds eines Richterwahlausschusses hat die
 oberste Dienstbehörde die Stellungnahme zu beantragen.
-
 
 #### § 57 Stellungnahme des Präsidialrats
 
@@ -1706,7 +1607,6 @@ abzugeben.
 Stellungnahme des Präsidialrats vorliegt oder die Frist des Absatzes 2
 verstrichen ist.
 
-
 #### § 58 Geschäftsführung, Rechtsstellung der Mitglieder
 
 (1) Die Richtervertretungen regeln ihre Beschlußfassung und
@@ -1720,7 +1620,6 @@ Geschäftsbedarf zur Verfügung.
 die Rechte und Pflichten der Mitglieder gelten die §§ 8 bis 11, 46
 Abs. 3 bis 7, § 47 Abs. 2 des Bundespersonalvertretungsgesetzes
 sinngemäß.
-
 
 #### § 59 Abgeordnete Richter
 
@@ -1738,7 +1637,6 @@ scheidet mit Beginn der Abordnung aus dem Präsidialrat seines
 bisherigen Gerichts aus; seine Wahlberechtigung bleibt jedoch
 unberührt.
 
-
 #### § 60 Rechtsweg in Angelegenheiten der Richtervertretungen
 
 Für Rechtsstreitigkeiten aus der Bildung oder Tätigkeit der
@@ -1748,10 +1646,7 @@ der gemeinsamen Beteiligung von Richterrat und Personalvertretung (§
 53 Abs. 1) nach den Verfahrensvorschriften und in der Besetzung des §
 83 Abs. 2 und § 84 des Bundespersonalvertretungsgesetzes.
 
-
 ### Dritter Abschnitt - Dienstgericht des Bundes
-
-
 
 #### § 61 Verfassung des Dienstgerichts
 
@@ -1774,7 +1669,6 @@ Gerichtshöfe des Bundes aufgestellt werden.
 
 (4) Das Dienstgericht gilt als Zivilsenat im Sinne des § 132 des
 Gerichtsverfassungsgesetzes.
-
 
 #### § 62 Zuständigkeit des Dienstgerichts
 
@@ -1838,7 +1732,6 @@ Gerichtsverfassungsgesetzes.
 (2) Das Dienstgericht des Bundes entscheidet auch über die Revision
 gegen Urteile der Dienstgerichte der Länder (§ 79).
 
-
 #### § 63 Disziplinarverfahren
 
 (1) Für das Verfahren in Disziplinarsachen gelten die Vorschriften des
@@ -1862,7 +1755,6 @@ Einbehaltung von Bezügen gelten die für das Verfahren über den Antrag
 auf Aussetzung dieser Maßnahmen getroffenen gebührenrechtlichen
 Bestimmungen entsprechend.
 
-
 #### § 64 Disziplinarmaßnahmen
 
 (1) Durch Disziplinarverfügung kann nur ein Verweis ausgesprochen
@@ -1870,7 +1762,6 @@ werden.
 
 (2) Gegen einen Richter bei einem obersten Gerichtshof des Bundes kann
 nur Verweis, Geldbuße oder Entfernung aus dem Dienst verhängt werden.
-
 
 #### § 65 Versetzungsverfahren
 
@@ -1885,7 +1776,6 @@ nicht mit.
 
 (3) Das Gericht erklärt eine der in § 31 vorgesehenen Maßnahmen für
 zulässig oder weist den Antrag zurück.
-
 
 #### § 66 Prüfungsverfahren
 
@@ -1902,7 +1792,6 @@ statt.
 Antrag der obersten Dienstbehörde, in den Fällen der Nummer 4 durch
 einen Antrag des Richters eingeleitet.
 
-
 #### § 67 Urteilsformel im Prüfungsverfahren
 
 (1) In dem Fall des § 62 Abs. 1 Nr. 3 Buchstabe a stellt das Gericht
@@ -1917,7 +1806,6 @@ Gericht die angefochtene Maßnahme auf oder weist den Antrag zurück.
 
 (4) In dem Fall des § 62 Abs. 1 Nr. 4 Buchstabe e stellt das Gericht
 die Unzulässigkeit der Maßnahme fest oder weist den Antrag zurück.
-
 
 #### § 68 Aussetzung von Verfahren
 
@@ -1940,10 +1828,7 @@ Verhandlung bis zur Erledigung des Verfahrens vor dem Dienstgericht
 auszusetzen. Der Aussetzungsbeschluß ist zu begründen. Absatz 2 gilt
 sinngemäß.
 
-
 ### Vierter Abschnitt - Richter des Bundesverfassungsgerichts
-
-
 
 #### § 69 Beschränkte Geltung dieses Gesetzes
 
@@ -1951,7 +1836,6 @@ Für die Richter des Bundesverfassungsgerichts gelten die Vorschriften
 dieses Gesetzes nur, soweit sie mit der besonderen Rechtsstellung
 dieser Richter nach dem Grundgesetz und nach dem Gesetz über das
 Bundesverfassungsgericht vereinbar sind.
-
 
 #### § 70 Bundesrichter als Richter des Bundesverfassungsgerichts
 
@@ -1964,10 +1848,7 @@ Gerichtshof des Bundes zu dem Zeitpunkt in den Ruhestand zu versetzen,
 zu dem sein Amt als Richter des Bundesverfassungsgerichts nach Maßgabe
 des § 98 des Gesetzes über das Bundesverfassungsgericht endet.
 
-
 ## Dritter Teil - Richter im Landesdienst
-
-
 
 ### § 71 Geltung des Beamtenstatusgesetzes
 
@@ -1975,19 +1856,16 @@ Soweit dieses Gesetz nichts anderes bestimmt, gelten für das
 Statusrecht der Richter im Landesdienst bis zu einer besonderen
 Regelung die Vorschriften des Beamtenstatusgesetzes entsprechend.
 
-
 ### § 71a Anwendung des Beamtenversorgungsgesetzes
 
 Die Abschnitte I bis XIII des Beamtenversorgungsgesetzes gelten
 entsprechend für die Versorgung der Richter im Landesdienst, soweit
 dieses Gesetz nichts anderes bestimmt.
 
-
 ### § 72 Bildung des Richterrats
 
 In den Ländern sind Richterräte zu bilden. Ihre Mitglieder werden
 durch die Richter unmittelbar und geheim aus ihrer Mitte gewählt.
-
 
 ### § 73 Aufgaben des Richterrats
 
@@ -2000,10 +1878,6 @@ Der Richterrat hat mindestens folgende Aufgaben:
     sozialen Angelegenheiten, die sowohl Richter als auch Bedienstete des
     Gerichts betreffen.
 
-
-
-
-
 ### § 74 Bildung des Präsidialrats
 
 (1) Für jeden Gerichtszweig ist ein Präsidialrat zu bilden. Für
@@ -2014,7 +1888,6 @@ Präsidialrats vorgeschrieben werden.
 Vorsitzendem und aus Richtern, von denen mindestens die Hälfte durch
 die Richter zu wählen sind.
 
-
 ### § 75 Aufgaben des Präsidialrats
 
 (1) Der Präsidialrat ist an der Ernennung eines Richters für ein Amt
@@ -2023,7 +1896,6 @@ Er gibt eine schriftlich begründete Stellungnahme ab über die
 persönliche und fachliche Eignung des Richters.
 
 (2) Dem Präsidialrat können weitere Aufgaben übertragen werden.
-
 
 ### § 76 Altersgrenzen
 
@@ -2034,11 +1906,9 @@ in den Ruhestand (Regelaltersgrenze).
 deren Erreichen der Richter auf seinen Antrag in den Ruhestand zu
 versetzen ist.
 
-
 ### § 76a Teilzeitbeschäftigung
 
 Teilzeitbeschäftigung ist zu ermöglichen.
-
 
 ### § 77 Errichtung von Dienstgerichten
 
@@ -2080,7 +1950,6 @@ müssen mindestens das Eineinhalbfache der erforderlichen Anzahl von
 Rechtsanwälten enthalten. Das weitere Verfahren zur Bestellung der
 anwaltlichen Mitglieder des Dienstgerichts bestimmt sich nach
 Landesrecht.
-
 
 ### § 78 Zuständigkeit des Dienstgerichts
 
@@ -2134,13 +2003,6 @@ Das Dienstgericht entscheidet
 
     f)  einer Verfügung über Ermäßigung des Dienstes oder Beurlaubung.
 
-
-
-
-
-
-
-
 ### § 79 Rechtszug
 
 (1) Das Verfahren vor den Dienstgerichten besteht aus mindestens zwei
@@ -2151,7 +2013,6 @@ Revision an das Dienstgericht des Bundes nach Maßgabe des § 80 zu.
 
 (3) Die Landesgesetzgebung kann in den Fällen des § 78 Nr. 1 die
 Revision an das Dienstgericht des Bundes vorsehen.
-
 
 ### § 80 Revision im Versetzungsverfahren und im Prüfungsverfahren
 
@@ -2164,7 +2025,6 @@ dem Verfahren nicht mit.
 
 (3) Die Revision kann nur darauf gestützt werden, daß das Urteil auf
 der Nichtanwendung oder unrichtigen Anwendung einer Rechtsnorm beruht.
-
 
 ### § 81 Zulässigkeit der Revision im Disziplinarverfahren
 
@@ -2211,10 +2071,6 @@ Verfahrens gerügt werden, daß
 
 3.  die Entscheidung nicht mit Gründen versehen ist.
 
-
-
-
-
 ### § 82 Revisionsverfahren im Disziplinarverfahren
 
 (1) Die Revision ist bei dem Gericht, dessen Urteil angefochten wird,
@@ -2235,7 +2091,6 @@ Feststellungen vorgebracht sind.
 gelten sinngemäß. Das Urteil kann nur auf Zurückweisung der Revision
 oder auf Aufhebung des angefochtenen Urteils lauten.
 
-
 ### § 83 Verfahrensvorschriften
 
 Disziplinarverfahren, Versetzungsverfahren und Prüfungsverfahren sind
@@ -2243,24 +2098,16 @@ entsprechend § 63 Abs. 2, § 64 Abs. 1, §§ 65 bis 68 zu regeln. Die
 Landesgesetzgebung kann Bestimmungen über die Gerichtskosten in
 Disziplinarsachen der Richter im Landesdienst treffen.
 
-
 ### § 84 Verfassungsrichter
 
 Das Landesrecht bestimmt, wieweit dieses Gesetz für die Mitglieder des
 Verfassungsgerichts eines Landes gilt.
 
-
 ## Vierter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### Erster Abschnitt - Änderung von Bundesrecht
 
-
-
 #### (XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)
-
-
 
 #### § 104 Verweisung auf aufgehobene Vorschriften
 
@@ -2269,10 +2116,7 @@ Bezeichnungen verwiesen wird, die durch dieses Gesetz aufgehoben
 werden, treten an ihre Stelle die entsprechenden Vorschriften oder die
 Bezeichnungen dieses Gesetzes.
 
-
 ### Zweiter Abschnitt - Überleitung von Rechtsverhältnissen
-
-
 
 #### § 105 Überleitungsvorschriften für Richter auf Lebenszeit und auf Zeit
 
@@ -2290,7 +2134,6 @@ weiterverwendet werden.
 Richteramts einen Eid geleistet hat, ist von der Pflicht zur Leistung
 des Richtereides (§ 38) befreit.
 
-
 #### § 106 Überleitungsvorschriften für Richter auf Probe, Richter kraft Auftrags und abgeordnete Richter
 
 (1) Wer bei Inkrafttreten dieses Gesetzes in einem öffentlich-
@@ -2306,22 +2149,18 @@ dieses Gesetzes führen. Danach kann er bei einem Gericht nur noch in
 einem Richterverhältnis nach den Vorschriften dieses Gesetzes
 verwendet werden.
 
-
 #### § 107 (weggefallen)
 
 -
-
 
 #### § 108 (weggefallen)
 
 -
 
-
 #### § 109 Befähigung zum Richteramt
 
 Wer am 1. Juli 2003 zum Richteramt befähigt ist, behält diese
 Befähigung.
-
 
 #### § 110 Befähigung zum höheren Verwaltungsdienst
 
@@ -2333,7 +2172,6 @@ Verwaltungsdienst erworben hat, kann auch nach Inkrafttreten dieses
 Gesetzes zum Richter in der Verfassungsgerichtsbarkeit,
 Verwaltungsgerichtsbarkeit und Sozialgerichtsbarkeit ernannt werden. §
 19 Abs. 1 Nr. 1 gilt entsprechend.
-
 
 #### § 111 Vorsitzende der Arbeitsgerichte und Sozialgerichte
 
@@ -2350,7 +2188,6 @@ geltenden Fassung anzuwenden.
 
 (2) Das gleiche gilt für die Ernennung zum Vorsitzenden auf Grund
 eines Landesgesetzes gemäß § 207 Abs. 1 des Sozialgerichtsgesetzes.
-
 
 #### § 112 Anerkennung ausländischer Prüfungen und im Ausland erworbener Ausbildungsnachweise
 
@@ -2369,7 +2206,6 @@ durch Rechtsvorschrift dem Abschluß als Diplom-Jurist gleichgestellt
 wurden und der ersten Staatsprüfung gleichwertig sind.
 
 (3) Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
-
 
 #### § 112a Gleichwertigkeitsprüfung für die Zulassung zum juristischen Vorbereitungsdienst
 
@@ -2434,19 +2270,13 @@ nach Landesrecht für die Abnahme der staatlichen Pflichtfachprüfung
 zuständigen Stellen. Für die Durchführung dieser Prüfungen können
 mehrere Länder durch Vereinbarung ein gemeinsames Prüfungsamt bilden.
 
-
 #### (XXXX) §§ 113 bis 118 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Schlußvorschriften
-
-
 
 #### § 119
 
 -
-
 
 #### § 120 Technische Mitglieder des Bundespatentgerichts
 
@@ -2454,12 +2284,10 @@ Zum Richteramt bei dem Bundespatentgericht ist auch befähigt, wer die
 Voraussetzungen des § 65 Abs. 2 des Patentgesetzes erfüllt. § 19 Abs.
 1 Nr. 1 gilt entsprechend.
 
-
 #### § 120a Besondere Vorschriften über die Amtsbezeichnungen
 
 Die Vorschriften dieses Gesetzes über die Amtsbezeichnungen gelten
 nicht für die Richter des Bundesverfassungsgerichts.
-
 
 #### § 121 Richter im Bundesdienst als Mitglieder der gesetzgebenden Körperschaft eines Landes
 
@@ -2474,7 +2302,6 @@ Alimentationscharakter zu, werden ihm fünfzig vom Hundert seiner
 zuletzt bezogenen Besoldung weitergewährt; allgemeine
 Besoldungserhöhungen nach § 14 des Bundesbesoldungsgesetzes werden
 berücksichtigt.
-
 
 #### § 122 Staatsanwälte
 
@@ -2501,7 +2328,6 @@ Bundesminister der Justiz bestellt die nichtständigen Beisitzer beim
 Dienstgericht des Bundes im Einvernehmen mit dem zuständigen
 Bundesminister.
 
-
 #### § 123 Besetzung der Berufsgerichte für Rechtsanwälte
 
 § 94 Abs. 1 und § 101 Abs. 3 der Bundesrechtsanwaltsordnung vom 1.
@@ -2509,7 +2335,6 @@ August 1959 (Bundesgesetzblatt I S. 565) werden durch dieses Gesetz
 nicht berührt. Die Landesjustizverwaltung bestimmt das Gericht, vor
 dem die ehrenamtlichen Richter, die Vorsitzende eines Anwaltsgerichts
 oder eines Anwaltgerichtshofes sind, auf ihr Amt verpflichtet werden.
-
 
 #### § 124 Laufbahnwechsel
 
@@ -2539,17 +2364,14 @@ ernannt ist, für eine Ernennung zum Richter entsprechend. Während der
 Erprobung im staatsanwaltschaftlichen Dienst führen Richter die
 Bezeichnung "Staatsanwalt".
 
-
 #### § 125 (weggefallen)
 
 -
-
 
 #### § 126 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 1962 in Kraft. Die §§ 114 und 116
 treten jedoch bereits am Tage nach der Verkündung in Kraft.
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 929, 939) Abschnitt III - Maßgaben für die beigetretenen fünf Länder (Art. 1 Abs. 1 EinigVtr) - Abschnitt IV - Maßgaben für das Land Berlin -
 

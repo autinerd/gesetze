@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 94
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 3 des Seelotsgesetzes in der Fassung der
@@ -25,11 +24,9 @@ Artikel 1 Nr. 2 des Gesetzes vom 28. Juli 2008 (BGBl. I S. 1507) neu
 gefasst worden ist, verordnet das Bundesministerium für Verkehr, Bau
 und Stadtentwicklung:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für das Seelotsrevier Nord-Ostsee-Kanal I.
-
 
 ## § 2 Grundausbildung
 
@@ -60,7 +57,6 @@ Ostsee-Kanal I zulässig.
 
 (4) Zuständige Aufsichtsbehörde ist die Wasser- und
 Schifffahrtsdirektion Nord.
-
 
 ## § 3 Ausbildungsrahmenplan
 
@@ -94,7 +90,6 @@ Verkehr, Bau und Stadtentwicklung zur erneuten Genehmigung vorzulegen.
 Die Genehmigung kann widerrufen werden, wenn die erforderlichen
 Anpassungen nicht vorgenommen werden.
 
-
 ## § 4 Zulassung der Bewerber
 
 (1) Die Zulassung der Bewerber zu der Grundausbildung erfolgt durch
@@ -124,7 +119,6 @@ der Voraussetzungen nach § 9 Abs. 1 und 2 Nr. 1, 3 und 4 des
 Seelotsgesetzes nachweisen. Dabei darf zum Zeitpunkt der Bekanntgabe
 der Ausschreibung der Erwerb des Befähigungszeugnisses nach § 9 Abs. 2
 Nr. 1 des Seelotsgesetzes nicht länger als drei Jahre zurückliegen.
-
 
 ## § 5 Durchführung der Grundausbildung
 
@@ -167,7 +161,6 @@ Aufsichtsbehörde mit Beginn der Ausbildung einen Ausweis im Sinne des
 § 16 Abs. 1 der Seelotsenausbildungs- und Ausweisordnung mit dem
 Zusatz „Grundausbildung“.
 
-
 ## § 6 Prüfung
 
 (1) Die Grundausbildung schließt mit einer praktischen Prüfung durch
@@ -194,7 +187,6 @@ die Lotsenbrüderschaft ab.
 (3) Die Lotsenbrüderschaft legt vor Abschluss der Grundausbildung den
 Prüfungstermin fest und lädt die Mitglieder des Prüfungsausschusses
 und die zur Prüfung zugelassenen Teilnehmer der Grundausbildung ein.
-
 
 ## § 7 Prüfungsverfahren
 
@@ -232,7 +224,6 @@ wichtigen Grund, den er nicht zu vertreten hat, gehindert war.
 Anderenfalls stellt der Prüfungsausschuss das endgültige Nichtbestehen
 der Prüfung fest.
 
-
 ## § 8 Befugnisse der Aufsichtsbehörden
 
 (1) Die Aufsichtsbehörde kann jederzeit Auskunft über den Stand der
@@ -244,7 +235,6 @@ Prüfungsverfahren fehlerhaft, kann die Aufsichtsbehörde die
 ordnungsgemäße Durchführung oder Wiederholung einzelner
 Ausbildungsabschnitte oder der Prüfung verlangen; § 7 Abs. 5 ist
 insoweit nicht anzuwenden.
-
 
 ## § 9 Zulassung zum Seelotsenanwärter
 
@@ -261,7 +251,6 @@ Seefahrtzeit angerechnet werden, um die Voraussetzungen nach § 9 Abs.
 2 Nr. 2 des Seelotsgesetzes für die Bewerbung bei einer anderen
 Lotsenbrüderschaft zu erfüllen.
 
-
 ## § 10 Kosten der Grundausbildung
 
 Die Kosten der Ausbildung an einem in Abstimmung mit der
@@ -269,7 +258,6 @@ Aufsichtsbehörde anerkannten Schiffsführungs- und Radarsimulator
 werden dem Teilnehmer erstattet. Sie sind zurückzuzahlen, wenn der
 Teilnehmer die Grundausbildung abbricht oder die Prüfung nicht
 bestanden hat.
-
 
 ## § 11 Inkrafttreten
 

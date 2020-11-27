@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2010, Nr 70, 1638
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Absatz 2 Nummer 1 und 1a in Verbindung mit Absatz 1
@@ -26,7 +25,6 @@ vom 16. Juli 2004 (BGBl. I S. 1673), die jeweils durch Artikel 192
 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
 geändert worden sind, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1
 
@@ -41,7 +39,6 @@ Sojabohne der Sorte „Sultana” 65 vom Hundert der reinen Körner.
 worden ist, darf bis zum Ablauf des 15. Mai 2010 in den Verkehr
 gebracht werden.
 
-
 ## § 2
 
 Jede Packung oder jedes Behältnis mit Zertifiziertem Saatgut, dessen
@@ -52,7 +49,6 @@ Begleitpapier zu versehen, in dem auf die verminderte Keimfähigkeit
 hingewiesen wird. Das Zusatzetikett oder das Begleitpapier ist nicht
 erforderlich, soweit die Keimfähigkeit in einer dem § 31 Satz 2 der
 Saatgutverordnung genügenden Weise angegeben wird.
-
 
 ## § 3
 

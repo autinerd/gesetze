@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 23.10.2008 I 2020
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Mandatsbewerbung und Mandatsausübung
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -38,12 +34,10 @@ Europäischen Parlaments, die in der Bundesrepublik Deutschland gewählt
 worden sind, soweit nicht die Vorschriften des Abgeordnetenstatuts des
 Europäischen Parlaments Anwendung finden.
 
-
 ### § 2 Freies Mandat
 
 Die Mitglieder des Europäischen Parlaments sind an Aufträge und
 Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.
-
 
 ### § 3 Schutz der Mandatsbewerber und der Mandatsausübung
 
@@ -61,7 +55,6 @@ Aufstellung des Bewerbers durch das dafür zuständige Organ des
 Wahlvorschlagsberechtigten. Er gilt ein Jahr nach Beendigung des
 Mandats fort.
 
-
 ### § 4 Wahlvorbereitungsurlaub, Berufs- und Betriebszeiten
 
 (1) Einem Bewerber um ein Mandat im Europäischen Parlament ist zur
@@ -71,7 +64,6 @@ Anspruch auf Fortzahlung der Bezüge besteht für die Dauer der
 Beurlaubung nicht.
 
 (2) § 4 des Abgeordnetengesetzes gilt entsprechend.
-
 
 ### § 5 Indemnität und Immunität
 
@@ -83,7 +75,6 @@ gemeinsamen Kommission der Europäischen Gemeinschaften vom 8. April
 1965 (BGBl. 1965 II S. 1453, 1482). Dabei richtet sich der Umfang der
 Indemnität nach den Bestimmungen des Grundgesetzes.
 
-
 ### § 6 Zeugnisverweigerungsrecht
 
 Die Mitglieder des Europäischen Parlaments sind berechtigt, über
@@ -93,10 +84,7 @@ Tatsachen selbst das Zeugnis zu verweigern. Soweit dieses
 Zeugnisverweigerungsrecht reicht, ist die Beschlagnahme von
 Schriftstücken unzulässig.
 
-
 ## Zweiter Abschnitt - Unvereinbarkeiten, Angehörige des öffentlichen Dienstes
-
-
 
 ### § 7 Unvereinbarkeit von Ämtern, Funktionen und Mandaten mit der Mitgliedschaft im Europäischen Parlament
 
@@ -109,7 +97,6 @@ Parlaments nach der Wahl oder in den Fällen des § 21 Abs. 2 des
 Europawahlgesetzes bis zur Annahmeerklärung gegenüber dem
 Bundeswahlleiter aus diesem Amt, dieser Funktion oder diesem Mandat
 ausscheidet.
-
 
 ### § 8 Angehörige des öffentlichen Dienstes
 
@@ -132,10 +119,7 @@ soweit er die Wahl zum Deutschen Bundestag betrifft, und die auf Grund
 des § 10 des Abgeordnetengesetzes erlassenen Gesetze sind entsprechend
 anzuwenden.
 
-
 ## Dritter Abschnitt - Leistungen an die Mitglieder des Europäischen Parlaments, an ehemalige Mitglieder und ihre Hinterbliebenen
-
-
 
 ### § 9 Entschädigung
 
@@ -143,7 +127,6 @@ Ein Mitglied des Europäischen Parlaments, das sich nach Artikel 25
 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die
 Anwendung dieses Gesetzes entscheidet, erhält eine monatliche
 Entschädigung gemäß § 11 Abs. 1 und 3 des Abgeordnetengesetzes.
-
 
 ### § 10 Freifahrtberechtigung und Erstattung von Fahrkosten
 
@@ -156,7 +139,6 @@ gegen Nachweis erstattet. Dies gilt nicht, soweit ein Anspruch auf
 Erstattung von Fahrkosten durch das Europäische Parlament besteht. §
 16 Abs. 2 des Abgeordnetengesetzes gilt entsprechend.
 
-
 ### § 10a Inanspruchnahme von Leistungen des Deutschen Bundestages
 
 Ein Mitglied des Europäischen Parlaments erhält zur Abgeltung seiner
@@ -166,7 +148,6 @@ die Benutzung von Verkehrsmitteln gemäß § 10, die Benutzung der
 Dienstfahrzeuge und der Fernmeldeanlagen des Bundestages sowie
 sonstige Sach- und Dienstleistungen des Bundestages nach Maßgabe der
 Ausführungsbestimmungen des Ältestenrates.
-
 
 ### § 10b Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen
 
@@ -201,7 +182,6 @@ Gesetz ruhen neben einer Abgeordnetenentschädigung nach § 11 des
 Abgeordnetengesetzes. § 29 Abs. 3 bis 9 des Abgeordnetengesetzes
 findet entsprechende Anwendung.
 
-
 ### § 11 Zuschuß zu den Kosten in Krankheits-, Pflege- und Geburtsfällen, Unterstützungen
 
 Die Vorschriften des Sechsten Abschnitts des Abgeordnetengesetzes
@@ -213,7 +193,6 @@ Parlaments, die sich nicht nach Artikel 25 Abs. 1 des
 Abgeordnetenstatuts des Europäischen Parlaments für die Fortgeltung
 des Leistungssystems nach diesem Gesetz entscheiden, entsprechend
 Anwendung.
-
 
 ### § 12 Beginn und Ende der Ansprüche, Zahlungsvorschriften
 
@@ -232,10 +211,7 @@ zum Ende des Monats, in dem sie ausgeschieden sind. Die Rechte nach §
 (4) Die Bestimmungen der §§ 31 und 33 des Abgeordnetengesetzes finden
 sinngemäß Anwendung auf Leistungen nach diesem Gesetz.
 
-
 ## Vierter Abschnitt - Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
-
-
 
 ### § 13 Anrechnung
 
@@ -278,14 +254,9 @@ entsprechender Höhe. Dies gilt nicht bei einem Zusammentreffen von
 Bezügen nach dem Abgeordnetenstatut des Europäischen Parlaments mit
 Bezügen nach diesem Gesetz.
 
-
 ## Fünfter Abschnitt - (weggefallen)
 
-
-
 ### § 14 (weggefallen)
-
-
 
 ### Schlußformel
 

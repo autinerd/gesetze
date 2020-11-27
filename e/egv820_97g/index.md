@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 28 G v. 9.12.2010 I 1934
 
-
 ## § 1 Zweck und Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Rechtsakte der
@@ -38,7 +37,6 @@ Abs. 3 bis 7 bleibt unberührt.
 Daten durch die Vorschriften des Rindfleischetikettierungsgesetzes
 sowie der auf Grund des Rindfleischetikettierungsgesetzes erlassenen
 Rechtsverordnungen geregelt ist.
-
 
 ## § 2 Verarbeitung und Nutzung von Daten
 
@@ -140,7 +138,6 @@ Anforderung einer für die Durchführung der tierzuchtrechtlichen
 Leistungsprüfungen und Zuchtwertschätzung zuständigen Behörde oder der
 von ihr beauftragten Stelle.
 
-
 ## § 3 Auskunft an den Tierhalter
 
 (1) Ein Tierhalter kann Auskunft verlangen über die Daten, die er nach
@@ -198,7 +195,6 @@ soweit diese Daten gespeichert sind.
 (3) Die Auskunftserteilung kann durch Abruf im automatisierten
 Verfahren erfolgen.
 
-
 ## § 4 Aufbewahrung und Löschung von Daten
 
 Die in § 2 Abs. 1 Satz 1 bezeichneten und bei der zuständigen Behörde
@@ -210,12 +206,10 @@ zur Erfüllung der in § 2 Abs. 1 Satz 1 genannten Zwecke nicht mehr
 benötigt werden. Andere Vorschriften, nach denen eine längere
 Aufbewahrungsfrist besteht, bleiben unberührt.
 
-
 ## § 5 Technische und organisatorische Maßnahmen
 
 Hinsichtlich der technischen und organisatorischen Maßnahmen finden
 die §§ 9 und 10 Abs. 4 Satz 3 des Bundesdatenschutzgesetzes Anwendung.
-
 
 ## § 6 Ermächtigung zum Erlass von Rechtsverordnungen
 

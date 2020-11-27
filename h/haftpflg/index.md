@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 19.7.2002 I 2674
 
-
 ## § 1
 
 (1) Wird bei dem Betrieb einer Schienenbahn oder einer Schwebebahn ein
@@ -39,10 +38,6 @@ Gewalt verursacht ist.
 
 2.  beförderte Sache beschädigt wird, es sei denn, daß ein Fahrgast sie an
     sich trägt oder mit sich führt.
-
-
-
-
 
 ## § 2
 
@@ -80,10 +75,6 @@ Zeichen oder Lauten dienen.
     denn, daß er auf das Herabfallen von Leitungsdrähten zurückzuführen
     ist.
 
-
-
-
-
 ## § 3
 
 Wer ein Bergwerk, einen Steinbruch, eine Gräberei (Grube) oder eine
@@ -94,7 +85,6 @@ Ausführung der Dienstverrichtungen den Tod oder die Körperverletzung
 eines Menschen herbeigeführt hat, für den dadurch entstandenen
 Schaden.
 
-
 ## § 4
 
 Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten
@@ -102,7 +92,6 @@ mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; bei
 Beschädigung einer Sache steht das Verschulden desjenigen, der die
 tatsächliche Gewalt über die Sache ausübt, dem Verschulden des
 Geschädigten gleich.
-
 
 ## § 5
 
@@ -124,7 +113,6 @@ Dauer seines Lebens zur Gewährung des Unterhalts verpflichtet gewesen
 sein würde. Die Ersatzpflicht tritt auch dann ein, wenn der Dritte zur
 Zeit der Verletzung gezeugt, aber noch nicht geboren war.
 
-
 ## § 6
 
 Im Falle einer Körperverletzung ist der Schadensersatz (§§ 1, 2 und 3)
@@ -134,7 +122,6 @@ Verletzung zeitweise oder dauernd seine Erwerbsfähigkeit aufgehoben
 oder gemindert oder eine Vermehrung seiner Bedürfnisse eingetreten
 ist. Wegen des Schadens, der nicht Vermögensschaden ist, kann auch
 eine billige Entschädigung in Geld gefordert werden.
-
 
 ## § 7
 
@@ -148,7 +135,6 @@ einem öffentlich-rechtlichen Sondervermögen oder einem Kaufmann im
 Rahmen eines zum Betriebe seines Handelsgewerbes gehörenden Vertrages
 vereinbart worden ist. Entgegenstehende Bestimmungen und
 Vereinbarungen sind nichtig.
-
 
 ## § 8
 
@@ -167,14 +153,12 @@ Vermögensverhältnisse des Verpflichteten sich erheblich verschlechtert
 haben; unter der gleichen Voraussetzung kann er eine Erhöhung der in
 dem Urteile bestimmten Sicherheit verlangen.
 
-
 ## § 9
 
 Der Unternehmer oder der in § 2 bezeichnete Inhaber der Anlage haftet
 im Falle der Tötung oder Verletzung eines Menschen für jede Person bis
 zu einem Kapitalbetrag von 600.000 Euro oder bis zu einem Rentenbetrag
 von jährlich 36.000 Euro.
-
 
 ## § 10
 
@@ -190,13 +174,11 @@ dem Verhältnis, in dem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 (3) Die Absätze 1 und 2 gelten nicht für die Beschädigung von
 Grundstücken.
 
-
 ## § 11
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
-
 
 ## § 12
 
@@ -204,7 +186,6 @@ Unberührt bleiben gesetzliche Vorschriften, nach denen ein
 Ersatzpflichtiger in weiterem Umfang als nach den Vorschriften dieses
 Gesetzes haftet oder nach denen ein anderer für den Schaden
 verantwortlich ist.
-
 
 ## § 13
 
@@ -234,7 +215,6 @@ Betriebsunternehmer ist.
 (4) Die Absätze 1 bis 3 gelten entsprechend, wenn neben den nach den
 §§ 1, 2 Ersatzpflichtigen ein anderer für den Schaden kraft Gesetzes
 verantwortlich ist.
-
 
 ## § 14
 

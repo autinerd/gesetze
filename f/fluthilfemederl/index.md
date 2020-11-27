@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3749
 
-
-
 ## Art 1 Stiftung
 
 Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei
@@ -33,13 +31,6 @@ Bundesgrenzschutz und der Bundeswehr gemeinsam die
 *
     *   Einsatzmedaille "Fluthilfe 2002".
 
-
-
-
-
-
-
-
 ## Art 2 Gestaltung
 
 (1) Das Ehrenzeichen hat die Form einer runden, silberfarbenen
@@ -52,7 +43,6 @@ ist beidseitig von den Bundesfarben schwarz-rot-gold eingefasst.
 
 (2) Die Medaille als Bandsteg trägt die Farben des Medaillenbandes mit
 aufgesetzter verkleinerter Vorderseite der Medaille.
-
 
 ## Art 3 Verleihung
 
@@ -89,7 +79,6 @@ Dienstsiegel. Für die Verleihungsurkunde gilt das Muster der Anlage.
 (5) Das Ehrenzeichen geht in das Eigentum der Ausgezeichneten über.
 Ihre Hinterbliebenen sind zur Rückgabe nicht verpflichtet.
 
-
 ## Art 4 Vorschlagsberechtigung
 
 (1) Für die Angehörigen des Bundesgrenzschutzes sind die Präsidenten
@@ -111,7 +100,6 @@ Verteidigung vorzulegen.
 (3) Die Vorschlagsberechtigten prüfen selbst, ob die
 Verleihungsvoraussetzungen erfüllt sind. In Zweifelsfällen kann
 großzügig verfahren werden.
-
 
 ## Art 5 Verfahren
 
@@ -147,12 +135,10 @@ unter Beifügung der Ehrenzeichen und der Verleihungsurkunden
 mitgeteilt. Diese veranlassen die Aushändigung der Auszeichnung in
 würdiger Form.
 
-
 ## Schlussformel
 
 Der Bundesminister des Innern
 Der Bundesminister der Verteidigung
-
 
 ## Anlage
 

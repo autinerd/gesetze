@@ -15,24 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 1513
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis Art 5 (weggefallen)
 
 -
-
 
 ## Art 6 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 7 Übergangsvorschrift, Inkrafttreten
 

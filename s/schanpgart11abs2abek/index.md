@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 4023
 
-
-
 ## (XXXX)
 
 Auf Grund des Artikels 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes

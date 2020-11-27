@@ -26,7 +26,6 @@ Stand: Die V ist nach Maßgabe des § 11 weiter anzuwenden
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBI.
@@ -36,13 +35,11 @@ Bundesministerium für Wirtschaft und Technologie nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Ausnahmeregelung
 
 Abweichend von § 4 Absatz 3 des Berufsbildungsgesetzes dürfen
 Jugendliche unter 18 Jahren nach den folgenden Vorschriften
 ausgebildet werden.
-
 
 ## § 2 Gegenstand und Struktur der Erprobung
 
@@ -51,11 +48,9 @@ Berufsbildungsgesetzes sollen insbesondere Struktur und Inhalt des
 neuen Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau erprobt
 werden.
 
-
 ## § 3 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -151,10 +146,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.3 Holzarbeiten für den Feuerwehreinsatz.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -175,7 +166,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 6 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
@@ -194,7 +184,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent, Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Abschlussprüfung
 
@@ -259,10 +248,6 @@ Vorgaben:
     soll die Arbeitsaufgabe einschließlich höchstens zehn Minuten
     Fachgespräch in 420 Minuten und die schriftliche Bearbeitung der
     Aufgaben in 180 Minuten durchgeführt werden.
-
-
-
-
 
 ## § 8 Teil 2 der Abschlussprüfung
 
@@ -428,10 +413,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -488,7 +469,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ## § 10 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -501,18 +481,15 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2015 begonnen
 werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft und mit Ausnahme des
 § 11 am 31. Juli 2016 außer Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Werkfeuerwehrmann/zur Werkfeuerwehrfrau
 

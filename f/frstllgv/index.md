@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.5.2012 I 1037
 
-
 ## Eingangsformel
 
 Auf Grund des § 58 Abs. 1 Nr. 1 des Personenbeförderungsgesetzes vom
 21\. März 1961 (Bundesgesetzbl. I S. 241) wird mit Zustimmung der
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -130,10 +128,6 @@ Kraftomnibus nur dann, wenn
     wird, für die er eine Genehmigung nach dem Personenbeförderungsgesetz
     besitzt.
 
-
-
-
-
 ## § 2
 
 Diese Verordnung - mit Ausnahme des § 1 Nr. 5 - gilt nach § 14 des
@@ -141,11 +135,9 @@ Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
 1) in Verbindung mit § 66 des Personenbeförderungsgesetzes auch im
 Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

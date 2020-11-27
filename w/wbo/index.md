@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 12 G v. 21.7.2012 I 1583
 
-
 ## § 1 Beschwerderecht
 
 (1) Der Soldat kann sich beschweren, wenn er glaubt, von Vorgesetzten
@@ -40,14 +39,12 @@ Wehrdienstzeit fällt.
 (4) Gemeinschaftliche Beschwerden sind unzulässig. Insoweit wird das
 Petitionsrecht nach Artikel 17 des Grundgesetzes eingeschränkt.
 
-
 ## § 2 Verbot der Benachteiligung
 
 Niemand darf dienstlich gemaßregelt oder benachteiligt werden, weil
 seine Beschwerde nicht auf dem vorgeschriebenen Weg oder nicht
 fristgerecht eingelegt worden ist oder weil er eine unbegründete
 Beschwerde erhoben hat.
-
 
 ## § 3 Wirkung der Beschwerde
 
@@ -62,7 +59,6 @@ Vollziehung einer Maßnahme bis zur Entscheidung über die Beschwerde
 auszusetzen ist oder andere einstweilige Maßnahmen zu treffen sind.
 Wird ein entsprechender Antrag abgelehnt, kann der Beschwerdeführer
 die Entscheidung des Wehrdienstgerichts beantragen.
-
 
 ## § 4 Vermittlung und Aussprache
 
@@ -92,7 +88,6 @@ Betroffene ihm Gelegenheit zur Darlegung seines Standpunkts zu geben.
 (6) Der Lauf der Beschwerdefrist wird durch eine Vermittlung oder eine
 Aussprache nicht gehemmt.
 
-
 ## § 5 Einlegung der Beschwerde
 
 (1) Die Beschwerde ist bei dem nächsten Disziplinarvorgesetzten des
@@ -110,7 +105,6 @@ genannten Stellen nicht selbst zur Entscheidung über eine bei ihnen
 eingelegte Beschwerde zuständig, haben sie diese unverzüglich der
 zuständigen Stelle unmittelbar zuzuleiten.
 
-
 ## § 6 Frist und Form der Beschwerde
 
 (1) Die Beschwerde darf frühestens nach Ablauf einer Nacht und muss
@@ -123,7 +117,6 @@ Aufnehmende unterschreiben muss und der Beschwerdeführer
 unterschreiben soll. Von der Niederschrift ist dem Beschwerdeführer
 auf Verlangen eine Abschrift auszuhändigen.
 
-
 ## § 7 Fristversäumnis
 
 (1) Wird der Beschwerdeführer an der Einhaltung einer Frist durch
@@ -135,7 +128,6 @@ des Hindernisses ab.
 vorgeschriebene Rechtsbehelfsbelehrung unterblieben oder unrichtig
 ist.
 
-
 ## § 8 Zurücknahme der Beschwerde
 
 (1) Die Beschwerde kann jederzeit durch schriftliche oder mündliche
@@ -146,7 +138,6 @@ zuständigen Stelle abzugeben. Diese Beschwerde ist dadurch erledigt.
 
 (2) Die Pflicht des Vorgesetzten, im Rahmen seiner Dienstaufsicht
 Mängel abzustellen, bleibt bestehen.
-
 
 ## § 9 Zuständigkeit für den Beschwerdebescheid
 
@@ -170,7 +161,6 @@ geht die Zuständigkeit auf den neuen Vorgesetzten des Betroffenen
 (4) In Zweifelsfällen bestimmt der nächste gemeinsame Vorgesetzte, wer
 zu entscheiden hat.
 
-
 ## § 10 Vorbereitung der Entscheidung
 
 (1) Der entscheidende Vorgesetzte hat den Sachverhalt durch mündliche
@@ -190,7 +180,6 @@ diese nicht selbst für die Entscheidung zuständig ist.
 (3) Die Beteiligung der Vertrauensperson regelt das
 Soldatenbeteiligungsgesetz.
 
-
 ## § 11 Beschwerden bei abgesetzten Truppenteilen
 
 Ist der für die Entscheidung zuständige Disziplinarvorgesetzte bei
@@ -209,10 +198,6 @@ b)  Die Beschwerde kann auch bei dem höchsten anwesenden Offizier
     gemäß § 10 vorzubereiten und die Akten nach Behebung des Hindernisses
     unverzüglich der für die Entscheidung zuständigen Stelle zuzuleiten.
     Er kann Maßnahmen gemäß § 3 Absatz 2 treffen.
-
-
-
-
 
 ## § 12 Beschwerdebescheid
 
@@ -238,7 +223,6 @@ werden kann, ist sie unter Hinweis auf diesen Mangel zurückzuweisen.
 Ihr ist trotzdem nachzugehen; soweit erforderlich, ist für Abhilfe zu
 sorgen.
 
-
 ## § 13 Inhalt des Beschwerdebescheides
 
 (1) Soweit die Beschwerde sich als begründet erweist, ist ihr
@@ -263,20 +247,17 @@ verhängt oder von einer Disziplinarmaßnahme abgesehen worden ist.
 Erstattung der notwendigen Aufwendungen sowie über die Notwendigkeit
 der Hinzuziehung eines Bevollmächtigten zu entscheiden.
 
-
 ## § 14 Umfang der Untersuchung
 
 Die Untersuchung der Beschwerde ist stets darauf zu erstrecken, ob
 mangelnde Dienstaufsicht oder sonstige Mängel im dienstlichen Bereich
 vorliegen.
 
-
 ## § 15 Verfahren bei Beendigung des Dienstverhältnisses
 
 Die Fortführung des Verfahrens wird nicht dadurch berührt, dass nach
 Einlegung der Beschwerde das Dienstverhältnis des Beschwerdeführers
 endigt.
-
 
 ## § 16 Weitere Beschwerde
 
@@ -292,7 +273,6 @@ nächsthöhere Disziplinarvorgesetzte zuständig.
 
 (4) Für die weitere Beschwerde gelten die Vorschriften über die
 Beschwerde entsprechend.
-
 
 ## § 16a Notwendige Aufwendungen und Kosten im vorgerichtlichen Verfahren
 
@@ -324,7 +304,6 @@ Stelle des Truppendienstgerichts tritt.
 
 (6) § 140 Absatz 8 und § 142 der Wehrdisziplinarordnung gelten
 entsprechend.
-
 
 ## § 17 Antrag auf Entscheidung des Truppendienstgerichts
 
@@ -373,7 +352,6 @@ Disziplinarvorgesetzte einen Antrag nach § 3 Absatz 2 abgelehnt oder
 die Vollziehung nicht innerhalb einer vom Truppendienstgericht
 gesetzten Frist ausgesetzt hat.
 
-
 ## § 18 Verfahren des Truppendienstgerichts
 
 (1) Für die Besetzung des Truppendienstgerichts ist der Dienstgrad des
@@ -406,7 +384,6 @@ Richtern durch Beschluss. Dem Bundeswehrdisziplinaranwalt ist vor der
 Entscheidung Gelegenheit zur Stellungnahme zu geben. Die Entscheidung
 ist in der vorliegenden Sache für das Truppendienstgericht bindend.
 
-
 ## § 19 Inhalt der Entscheidung
 
 (1) Hält das Truppendienstgericht einen Befehl oder eine Maßnahme,
@@ -424,7 +401,6 @@ werden.
 (2) Ist der Beschwerdeführer durch ein Dienstvergehen verletzt worden,
 spricht das Truppendienstgericht auch die Verpflichtung aus, nach
 Maßgabe der Wehrdisziplinarordnung zu verfahren.
-
 
 ## § 20 Notwendige Aufwendungen und Kosten im Verfahren vor dem Truppendienstgericht
 
@@ -448,7 +424,6 @@ bisherigen Sachstands sinngemäß anzuwenden.
 (4) § 137 Absatz 1 und 2 Nummer 1 bis 3, § 140 Absatz 8, § 141 Absatz
 1 und 2 sowie § 142 der Wehrdisziplinarordnung gelten entsprechend.
 
-
 ## § 21 Entscheidungen des Bundesministers der Verteidigung
 
 (1) Gegen Entscheidungen oder Maßnahmen des Bundesministers der
@@ -469,12 +444,10 @@ der Bundesminister der Verteidigung im Verfahren vor dem
 Bundesverwaltungsgericht durch den Bundeswehrdisziplinaranwalt
 vertreten.
 
-
 ## § 22 Entscheidungen des Generalinspekteurs der Bundeswehr
 
 Für die Entscheidungen des Generalinspekteurs der Bundeswehr über
 weitere Beschwerden gilt § 21 Absatz 1, 2 und 3 Satz 2 entsprechend.
-
 
 ## § 22a Rechtsbeschwerde
 
@@ -523,7 +496,6 @@ angefochtenen Beschluss aufheben und die Sache an das
 Truppendienstgericht zur anderweitigen Verhandlung und Entscheidung
 zurückverweisen.
 
-
 ## § 22b Nichtzulassungsbeschwerde
 
 (1) Bei Nichtzulassung der Rechtsbeschwerde durch das
@@ -556,7 +528,6 @@ fortgesetzt. In diesem Fall ist die Rechtsbeschwerde innerhalb eines
 Monats nach Zustellung der Entscheidung über die Zulassung zu
 begründen. Darauf ist in dem Beschluss hinzuweisen.
 
-
 ## § 23 Verwaltungsgerichtliches Vorverfahren
 
 (1) Ist für eine Klage aus dem Wehrdienstverhältnis der
@@ -588,7 +559,6 @@ entsprechend.
 
 (7) § 18 Absatz 3 gilt entsprechend.
 
-
 ## § 23a Ergänzende Vorschriften
 
 (1) Zur Ergänzung der Vorschriften dieses Gesetzes gelten die
@@ -610,7 +580,6 @@ Stelle der Zivilprozessordnung die Verwaltungsgerichtsordnung tritt.
 
 (3) Für die Rüge der Verletzung des Anspruchs auf rechtliches Gehör
 gilt § 152a der Verwaltungsgerichtsordnung entsprechend.
-
 
 ## § 24 (Inkrafttreten)
 

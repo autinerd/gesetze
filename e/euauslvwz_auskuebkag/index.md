@@ -18,17 +18,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 665
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Vorschriften zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland
-
-
 
 ### § 1
 
@@ -36,13 +31,11 @@ Die Aufgaben der zentralen Behörde (Artikel 2 des Übereinkommens)
 nehmen die von den Landesregierungen bestimmten Stellen wahr. Jedes
 Land kann nur eine zentrale Behörde einrichten.
 
-
 ### § 2
 
 Eine förmliche Zustellung nach Artikel 6 Abs. 1 Buchstabe b des
 Übereinkommens ist nur zulässig, wenn das zuzustellende Schriftstück
 in deutscher Sprache abgefaßt oder in diese Sprache übersetzt ist.
-
 
 ### § 3
 
@@ -60,7 +53,6 @@ Schriftstück an die zentrale Behörde zurück. Diese veranlaßt die
 ersuchende Behörde auf, das Schriftstück in die deutsche Sprache zu
 übersetzen oder eine Übersetzung in diese Sprache beifügen zu lassen.
 
-
 ### § 4
 
 (1) Die zentrale Behörde kann das ausländische Schriftstück durch die
@@ -72,12 +64,10 @@ begleitet ist. In diesem Falle händigt die zentrale Behörde das zu
 (2) Die §§ 3 und 7 des Verwaltungszustellungsgesetzes finden
 Anwendung.
 
-
 ### § 5
 
 Das Zustellungszeugnis (Artikel 8 Abs. 1 des Übereinkommens) erteilt
 im Falle des § 4 die zentrale Behörde.
-
 
 ### § 6
 
@@ -86,10 +76,7 @@ Eine Zustellung durch diplomatische oder konsularische Vertreter
 Schriftstück einem Angehörigen des Absendestaates zuzustellen ist.
 Eine Zustellung nach Artikel 11 des Übereinkommens findet nicht statt.
 
-
 ## Zweiter Teil - Vorschriften zur Ausführung des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland
-
-
 
 ### § 7
 
@@ -97,23 +84,18 @@ Die Aufgaben der zentralen Behörde (Artikel 2 des Übereinkommens)
 nehmen die von den Landesregierungen bestimmten Stellen wahr. Jedes
 Land kann nur eine zentrale Behörde einrichten.
 
-
 ### § 8
 
 Die zentrale Behörde kann der Entgegennahme eines Amtshilfeersuchens
 widersprechen, wenn es weder in deutscher Sprache abgefaßt noch von
 einer Übersetzung in die deutsche Sprache begleitet ist.
 
-
 ## Dritter Teil - Schlußvorschriften
-
-
 
 ### § 9
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ### § 10
 

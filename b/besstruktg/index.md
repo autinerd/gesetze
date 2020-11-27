@@ -18,17 +18,14 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 16.5.2007 I 746
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis Art 8 (weggefallen)
 
 -
-
 
 ## Art 9 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -36,14 +33,12 @@ Die auf den Artikeln 6a, 6b und 6c beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
-
 ## Art 9a Neubekanntmachungserlaubnis
 
 Das Bundesministerium des Innern kann den Wortlaut des
 Bundesbesoldungsgesetzes in der Fassung, die am ersten Tage des auf
 die Verkündung dieses Gesetzes folgenden Kalendermonats gilt, im
 Bundesgesetzblatt bekannt machen.
-
 
 ## Art 10 Aufhebung von Vorschriften
 
@@ -85,7 +80,6 @@ bis zum Inkrafttreten von Verordnungen, die auf Grund des neu
 gefassten § 26 Abs. 3 des Bundesbesoldungsgesetzes erlassen werden,
 längstens jedoch bis zum 1. Juli 2007 und im Bundesbereich bis zum 1.
 Juli 2009, weiter anzuwenden.
-
 
 ## Art 11 Inkrafttreten
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 382
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe g und Abs. 1 Nr. 2 des
@@ -28,7 +27,6 @@ und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit den Bundesministerien der
 Finanzen und für Wirtschaft und Technologie:
-
 
 ## Art 1
 
@@ -59,7 +57,6 @@ die Verordnung (EG) Nr. 1548/2007 der Kommission vom 20. Dezember 2007
 (2) Der in Absatz 1 festgesetzte Beihilfebetrag bezieht sich auf das
 nach Artikel 171cj Abs. 2 der Verordnung (EG) Nr. 1973/2004
 feuchtigkeitskorrigierte Gewicht.
-
 
 ## Art 2
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 23.10.2012 I 2246
 
-
 ## Eingangsformel
 
 Auf Grund des § 266 Abs. 7 des Fünften Buches Sozialgesetzbuch, der
@@ -27,10 +26,7 @@ durch Artikel 1 Nr. 143 des Gesetzes vom 21. Dezember 1992 (BGBl. I S.
 2266) neu gefaßt worden ist, verordnet das Bundesministerium für
 Gesundheit:
 
-
 ## Erster Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -58,7 +54,6 @@ Krankenkassen.
 (5) Träger der gesetzlichen Rentenversicherung im Sinne dieser
 Verordnung sind die Regionalträger, die Deutsche Rentenversicherung
 Bund und die Deutsche Rentenversicherung Knappschaft-Bahn-See.
-
 
 ### § 2 Versichertengruppen
 
@@ -139,7 +134,6 @@ Beitragsbemessung § 240 Abs. 4a des Fünften Buches Sozialgesetzbuch
 gilt und deren nach § 10 des Fünften Buches Sozialgesetzbuch
 versicherten Angehörige, sind in den Versichertengruppen nach Absatz 1
 nicht enthalten.
-
 
 ### § 3 Erhebung der Versicherungszeiten
 
@@ -287,7 +281,6 @@ Versichertengruppen nach § 2 Abs. 1 Satz 3 erfolgt als alphanumerische
 Verschlüsselung in der fünften Stelle des Kennzeichens nach § 267 Abs.
 5 Satz 1 des Fünften Buches Sozialgesetzbuch; insoweit darf dieses
 Kennzeichen nur elektronisch gespeichert und lesbar sein.
-
 
 ### § 4 Berücksichtigungsfähige Leistungsausgaben
 
@@ -457,7 +450,6 @@ Sozialversicherung vom 15. Juli 1999 (BAnz. Nr. 145a vom 6. August
 der Bestimmungen des Kontenrahmens für die Träger der gesetzlichen
 Krankenversicherung entfallen.
 
-
 ### § 5 Verhältniswerte für die Ermittlung der standardisierten Leistungsausgaben
 
 (1) Das Bundesversicherungsamt ermittelt für alle Krankenkassen die
@@ -526,7 +518,6 @@ die Spitzenverbände der Krankenkassen in der Vereinbarung nach § 267
 Abs. 7 Nr. 1 und 2 des Fünften Buches Sozialgesetzbuch ein geeignetes
 statistisches Glättungsverfahren fest.
 
-
 ### § 6 Standardisierte Leistungsausgaben
 
 Das Bundesversicherungsamt stellt für das vorherige Geschäftsjahr
@@ -557,10 +548,6 @@ Krankenkassen wie folgt verbindlich fest:
 5.  Die Ergebnisse nach Nummer 2 sind mit dem Korrekturfaktor nach Nummer
     4 zu vervielfachen.
 
-
-
-
-
 ### § 7 Voraussichtliche standardisierte Leistungsausgaben
 
 (1) Das Bundesversicherungsamt stellt nach Anhörung der
@@ -589,7 +576,6 @@ Erhebungen oder wissenschaftlicher Analysen geschätzt, solange für
 diese Versichertengruppen noch keine Ergebnisse einer  Datenerhebung
 nach § 267 Abs. 3 des Fünften Buches Sozialgesetzbuch vorliegen oder
 wenn diese Ergebnisse hierdurch verbessert werden können.
-
 
 ### § 8 Beitragspflichtige Einnahmen
 
@@ -644,7 +630,6 @@ jeweiligen Vierteljahresrechnung und zusätzlich für den
 Berichtszeitraum 1. Januar bis 31. Dezember in der Jahresrechnung
 anzugeben.
 
-
 ### § 9 Voraussichtliche beitragspflichtige Einnahmen
 
 (1) Für den monatlichen Ausgleich (§ 17) sind die Summen der
@@ -666,7 +651,6 @@ Vorschlag des Spitzenverbandes der betroffenen Krankenkasse ein von
 Absatz 1 abweichendes Verfahren bestimmen. Das Bundesversicherungsamt
 kann im Einvernehmen mit den Spitzenverbänden der Krankenkassen für
 alle Krankenkassen ein von Absatz 1 abweichendes Verfahren bestimmen.
-
 
 ### § 10 Beitragsbedarf
 
@@ -713,10 +697,6 @@ Versicherungszeiten nach § 3 Abs. 6 Satz 1 wie folgt zu Grunde:
     Ausgleichsmonate Dezember sowie für die Ausgleichsmonate Januar und
     Februar des Folgejahres.
 
-
-
-
-
 ### § 11 Ausgleichsbedarfssatz
 
 (1) Den Ausgleichsbedarfssatz nach § 266 Abs. 3 Satz 2 und 3 des
@@ -749,7 +729,6 @@ voraussichtlichen Beitragsbedarfs und der voraussichtlichen
 beitragspflichtigen Einnahmen aller Krankenkassen gelten § 3 Abs. 6,
 §§ 7, 9 und 10.
 
-
 ### § 12 Finanzkraft
 
 (1) Die Finanzkraft einer Krankenkasse im Ausgleichsjahr ist das
@@ -760,7 +739,6 @@ und dem Ausgleichsbedarfssatz (§ 11).
 ihre Finanzkraft auf der Grundlage der voraussichtlichen
 beitragspflichtigen Einnahmen nach § 9 und des vorläufigen
 Ausgleichsbedarfssatzes nach § 11 Abs. 2.
-
 
 ### § 13 Berechnungsgrundlagen
 
@@ -796,10 +774,6 @@ zugrunde.
     Berücksichtigung der beitragspflichtigen Einnahmen aus Renten (§ 8
     Abs. 4) von dem in § 267 Abs. 6 des Fünften Buches Sozialgesetzbuch
     genannten Stichtag abweichen.
-
-
-
-
 
 ### § 14 Abrechnungsverfahren, Zahlungsverkehr, Säumniszuschläge
 
@@ -849,7 +823,6 @@ Abrechnung der Säumniszuschläge bestimmt das Bundesversicherungsamt
 nach Anhörung der Spitzenverbände der Krankenkassen und der Deutschen
 Rentenversicherung Bund.
 
-
 ### § 15 Bekanntmachungen
 
 Die in dieser Verordnung vorgesehenen Bekanntmachungen erfolgen durch
@@ -859,7 +832,6 @@ Spitzenverbände stellen sicher, daß die Krankenkassen, für die sie
 zuständig sind, unverzüglich Kenntnis von der Bekanntmachung erhalten.
 Das Bundesversicherungsamt stellt die Bekanntmachung in geeigneter
 elektronischer Form öffentlich zugänglich zur Verfügung.
-
 
 ### § 15a Prüfung
 
@@ -940,10 +912,7 @@ Ausgleichsjahres 2004 sowie aller für diese Jahre im Jahresausgleich
 2005 erfolgten Korrekturen gelten die Absätze 1 bis 3 in der bis zum
 29\. Oktober 2007 geltenden Fassung.
 
-
 ## Zweiter Abschnitt - Monatlicher Ausgleich
-
-
 
 ### § 16 Ansprüche und Verpflichtungen
 
@@ -952,7 +921,6 @@ Ausgleichsverpflichtung der Krankenkasse wird von ihrer Finanzkraft (§
 12) ihr Beitragsbedarf (§ 10) abgezogen. Übersteigt die Finanzkraft
 den Beitragsbedarf, steht der überschießende Betrag den Krankenkassen
 zu, deren Beitragsbedarf ihre Finanzkraft übersteigt.
-
 
 ### § 17 Monatlicher Ausgleich
 
@@ -1062,10 +1030,7 @@ Durchführung des monatlichen Ausgleichsverfahrens sowie die Daten und
 Ergebnisse nach den Absätzen 2, 3 und 3a für die einzelnen
 Krankenkassen ihrer Kassenart.
 
-
 ## Dritter Abschnitt - Jahresausgleich
-
-
 
 ### § 18 Allgemeines
 
@@ -1079,7 +1044,6 @@ Spitzenverbände der Krankenkassen die voraussichtliche Höhe der
 standardisierten Leistungsausgaben je Versichertenjahr in jeder
 Versichertengruppe und des Ausgleichsbedarfssatzes und gibt diese
 Werte bekannt. Die §§ 6 und 11 Abs. 1 und § 15 gelten entsprechend.
-
 
 ### § 19 Jahresausgleich
 
@@ -1169,10 +1133,7 @@ folgenden Kalenderjahres durchzuführen.
 Krankenkassen die Daten und Ergebnisse nach den Absätzen 1 und 2 für
 die einzelnen Krankenkassen ihrer Kassenart.
 
-
 ## Vierter Abschnitt - Übergangsvorschriften
-
-
 
 ### § 20 Versichertengruppen 1994 und 1995
 
@@ -1214,7 +1175,6 @@ beziehen und nicht zu den in Satz 1 genannten Versicherten gehören, in
 den Versichertengruppen nach § 2 Abs. 1 Nr. 1 bis 3 enthalten; § 2
 Abs. 1 Nr. 4 bis 6 gilt insoweit nicht.
 
-
 ### § 21 Versichertenzahl 1994 und 1995
 
 (1) Für den monatlichen Ausgleich nach § 17 sind in den
@@ -1235,7 +1195,6 @@ Festsetzung des Ausgleichsbedarfssatzes für den monatlichen Ausgleich
 Bundesversicherungsamt nach Anhörung der Spitzenverbände der
 Krankenkassen.
 
-
 ### § 22 Berücksichtigungsfähige Leistungsausgaben 1994
 
 Für das Geschäftsjahr 1994 ist von der Summe der
@@ -1247,7 +1206,6 @@ Reformgesetzes und Artikel 33 § 14 des Gesundheitsstrukturgesetzes
 versicherungspflichtige Rentner und Rentenantragsteller und ihre nach
 § 10 des Fünften Buches Sozialgesetzbuch versicherten
 Familienangehörigen entfallen.
-
 
 ### § 23 Verhältniswerte 1994 und 1995
 
@@ -1273,7 +1231,6 @@ erkennbar werden. § 7 Nr. 2 Satz 3 gilt entsprechend.
 Fünften Buches Sozialgesetzbuch für einen kürzeren Zeitraum als das
 Kalenderjahr erfolgen.
 
-
 ### § 24 Beitragspflichtige Einnahmen 1994
 
 (1) Für das Geschäftsjahr 1994 sind in den beitragspflichtigen
@@ -1288,7 +1245,6 @@ Sozialgesetzbuch versicherten Rentenantragsteller.
 (2) Für das Geschäftsjahr 1994 sind von den Beitragsforderungen nach §
 8 Abs. 2 Satz 1 Beitragserstattungen nach § 231 Abs. 2 des Fünften
 Buches Sozialgesetzbuch nicht abzuziehen.
-
 
 ### § 25 Jahresausgleiche bis 1997
 
@@ -1337,7 +1293,6 @@ entfallenden Teile der Ausgleichszahlungen im Benehmen mit den
 Spitzenverbänden der Krankenkassen abweichend von § 19 Abs. 3
 bestimmen.
 
-
 ### § 26 Verrechnungen
 
 Fällige Forderungen und Verpflichtungen aus dem
@@ -1345,10 +1300,7 @@ Risikostrukturausgleich sind mit gleichzeitig fälligen Verpflichtungen
 und Forderungen aus dem Finanzausgleich in der Krankenversicherung der
 Rentner zu verrechnen.
 
-
 ## Fünfter Abschnitt - Sonderregelungen
-
-
 
 ### § 27 Beitrittsgebiet
 
@@ -1369,7 +1321,6 @@ die voraussichtlichen standardisierten Leistungsausgaben nach § 7, den
 vorläufigen Ausgleichsbedarfssatz nach § 11 Abs. 2 und die in § 19
 genannten Werte für die in Absatz 2 genannten Krankenkassen bis zu dem
 in Absatz 1 genannten Zeitpunkt getrennt.
-
 
 ### § 27a Finanzkraftausgleich ab 1999
 
@@ -1400,7 +1351,6 @@ Finanzkraft aller Krankenkassen in diesem Gebiet um einen dieser
 Differenz entsprechenden einheitlichen Faktor zu erhöhen. Die
 Finanzkraft der Krankenkassen im übrigen Bundesgebiet ist um einen
 dieser Differenz entsprechenden einheitlichen Faktor zu verringern.
-
 
 ### § 28 Berlin
 
@@ -1490,7 +1440,6 @@ Bundesversicherungsamt nach Anhörung der Spitzenverbände der
 Krankenkassen. Das Bundesversicherungsamt kann im Einvernehmen mit den
 Spitzenverbänden der Krankenkassen von Absatz 3 abweichende
 Schätzverfahren bestimmen.
-
 
 ### § 28a Solidarische Finanzierung für aufwändige Leistungsfälle (Risikopool)
 
@@ -1663,23 +1612,15 @@ erzeugten Datengrundlagen und die Dokumentation der Korrekturmeldungen
 sind sechs Jahre aufzubewahren; § 3 Abs. 7 Satz 2 und 3 gilt
 entsprechend.
 
-
 ### § 28a (weggefallen)
 
 -
 
-
 ## Sechster Abschnitt - Anforderungen an die Zulassung strukturierter Behandlungsprogramme nach § 137f Abs. 2 des Fünften Buches Sozialgesetzbuch
-
-
 
 ### § 28b (weggefallen)
 
-
-
 ### § 28c (weggefallen)
-
-
 
 ### § 28d Anforderungen an das Verfahren der Einschreibung der Versicherten in ein strukturiertes Behandlungsprogramm nach § 137g des Fünften Buches Sozialgesetzbuch einschließlich der Dauer der Teilnahme
 
@@ -1763,10 +1704,7 @@ mehr als sechs Monate erstreckt, seine Teilnahme am Programm auf Grund
 einer Folgedokumentation fortgesetzt werden kann. Während der
 Unterbrechungszeit gilt Absatz 2 Nr. 2 entsprechend.
 
-
 ### § 28e (weggefallen)
-
-
 
 ### § 28f Anforderungen an das Verfahren der Erhebung und Übermittlung der für die Durchführung der Programme nach § 137g des Fünften Buches Sozialgesetzbuch erforderlichen personenbezogenen Daten
 
@@ -1866,10 +1804,7 @@ Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt
 werden. Personenbezogene Daten sind vor Übermittlung an die
 Sachverständigen durch die Krankenkassen zu pseudonymisieren.
 
-
 ### § 28g (weggefallen)
-
-
 
 ### § 28h Berechnung der Kosten für Bescheidung von Zulassungsanträgen
 
@@ -1893,10 +1828,7 @@ der mit der Zulassung von strukturierten Behandlungsprogrammen
 befassten Mitarbeiter um die für das Ausgleichsjahr für die
 Bescheiderteilung berechneten Gebühren zu verringern.
 
-
 ## Siebter Abschnitt - Weiterentwicklung des Risikostrukturausgleichs ab 2009
-
-
 
 ### § 29 Grundsätze für die Weiterentwicklung des Risikostrukturausgleichs
 
@@ -1923,10 +1855,6 @@ legen:
     Ausnahme der Ausgaben nach § 44a des Fünften Buches Sozialgesetzbuch,
     die Mitgliedergruppen nach § 267 Absatz 2 Satz 2 des Fünften Buches
     Sozialgesetzbuch, differenziert nach Alter und Geschlecht.
-
-
-
-
 
 ### § 30 Erhebung und Verwendung von Daten für die Weiterentwicklung des Risikostrukturausgleichs
 
@@ -2057,7 +1985,6 @@ Satz 1 zur Erfüllung ihrer Aufgaben nach dieser Verordnung,
 insbesondere nach § 5 Abs. 1 Satz 2 und Abs. 6 und § 31 Abs. 4 Satz 1,
 für 32 Monate zu speichern.
 
-
 ### § 31 Auswahl und Anpassung des Klassifikationsmodells
 
 (1) Die Auswahl des Versichertenklassifikationsmodells nach § 29 Satz
@@ -2172,7 +2099,6 @@ Grundlage von Schätzungen berücksichtigt, die Risikogruppen nach Satz
 2 werden erstmals im Jahresausgleich nach § 41 für das Ausgleichsjahr
 2009 berücksichtigt.
 
-
 ### § 32 Datenmeldungen für den monatlichen Ausgleich
 
 Abweichend von § 3 Abs. 6 erheben die Krankenkassen für den
@@ -2194,7 +2120,6 @@ August des Berichtsjahres und für den Berichtszeitraum nach Satz 1 Nr.
 Bundesversicherungsamt über den Spitzenverband Bund der Krankenkassen
 maschinell verwertbar vor. § 30 Absatz 4 Satz 4 gilt entsprechend.
 
-
 ### § 33 Übergangsregelungen zur Einführung des Gesundheitsfonds – Begriffsbestimmungen
 
 (1) Das Nähere zur Umsetzung der Vorgaben des § 272 des Fünften Buches
@@ -2208,7 +2133,6 @@ Versicherte mit Wohnsitz in dem jeweiligen Land aufweisen.
 
 (3) Versicherte mit Wohnsitz außerhalb des Gebietes der Bundesrepublik
 Deutschland bleiben unberücksichtigt.
-
 
 ### § 33a Ermittlung der fortgeschriebenen Einnahmen
 
@@ -2313,10 +2237,6 @@ des Risikopools werden wie folgt ermittelt:
     zu erhöhen und um die nach Nummer 2 ermittelte Finanzkraft zu
     vermindern.
 
-
-
-
-
 ### § 33b Ermittlung der Zuweisungen
 
 (1) Die Zuweisungen aus dem Gesundheitsfonds an die Krankenkassen für
@@ -2341,7 +2261,6 @@ tätigen Krankenkassen ergibt die bundeslandspezifischen Zuweisungen.
 Außer Betracht bleiben die auf Grund der Anwendung des § 33c Abs. 2
 eingetretenen Veränderungen der Zuweisungen an die Krankenkassen für
 die in einem Land wohnhaften Versicherten.
-
 
 ### § 33c Durchführung der Übergangsregelungen
 
@@ -2383,7 +2302,6 @@ Schwellenwertes im Sinne des Absatzes 2 ergibt. Die Regelungen der §§
 Anwendung, das dem Jahr vorausgeht, in dem erstmalig in keinem Land
 eine Überschreitung des Schwellenwertes nach Absatz 2 festgestellt
 wurde.
-
 
 ### § 34 Datenerhebungen und Gutachtenerstellung zu den Übergangsregelungen zur Einführung des Gesundheitsfonds
 
@@ -2503,15 +2421,11 @@ des Fünften Buches Sozialgesetzbuch) zu untersuchen,
 Verfahrensvorschläge zur Lösung von Umsetzungsfragen zu unterbreiten
 und die länderbezogenen Transferwirkungen zu quantifizieren.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
 ## Achter Abschnitt - Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich) ab 2009
-
-
 
 ### § 35 Anwendbare Regelungen
 
@@ -2526,7 +2440,6 @@ bestimmt ist.
 31\. Dezember 2008 geltenden Fassung anzuwenden. Korrekturen der
 Berichtsjahre bis einschließlich 2008 und die damit verbundenen
 Datenerhebungen sind ab dem 1. Januar 2012 nicht mehr durchzuführen.
-
 
 ### § 36 Ermittlung der Höhe der Grundpauschale
 
@@ -2574,7 +2487,6 @@ Buches Sozialgesetzbuch in seiner letzten Sitzung vor dem 1. August
 2009\. Die nach den Sätzen 1 und 2 ermittelte Grundpauschale wird
 erstmals im monatlichen Ausgleich nach § 39 Absatz 3 zum 30. September
 2009 berücksichtigt.
-
 
 ### § 37 Zuweisungen für sonstige Ausgaben
 
@@ -2684,7 +2596,6 @@ Versicherungszeiten aller Krankenkassen erfolgt jährlich bis zum 15.
 November, die Bekanntmachung für das Jahr 2011 erfolgt bis zum 5.
 Januar 2011.
 
-
 ### § 38 Zuweisung für strukturierte Behandlungsprogramme ab 2009
 
 (1) Zur Förderung der Durchführung strukturierter Behandlungsprogramme
@@ -2702,7 +2613,6 @@ Zuweisung nach Absatz 1 und das Nähere über das Meldeverfahren für die
 eingeschriebenen Versicherten. Kommt die Bestimmung nach Satz 1 nicht
 zu Stande, bestimmt das Bundesversicherungsamt die Höhe der Zuweisung
 und das Meldeverfahren. § 30 Absatz 2 bis 4 gilt entsprechend.
-
 
 ### § 39 Durchführung des Zahlungsverkehrs, monatlicher Ausgleich und Kostentragung
 
@@ -2797,7 +2707,6 @@ die Durchführung des Risikostrukturausgleichs werden aus den Einnahmen
 des Gesundheitsfonds nach § 271 des Fünften Buches Sozialgesetzbuch
 getragen.
 
-
 ### § 39a Ermittlung des Korrekturbetrags
 
 (1) Das Bundesversicherungsamt prüft bei den Datenmeldungen nach § 30
@@ -2870,7 +2779,6 @@ zu dem Wert nach § 41 Absatz 2 Nummer 1 hinzugerechnet.
 Bundesversicherungsamt im Benehmen mit dem Spitzenverband Bund der
 Krankenkassen.
 
-
 ### § 40 Mitgliederbezogene Veränderung der Zuweisungen
 
 (1) Das Bundesversicherungsamt ermittelt für jede Krankenkasse im
@@ -2929,7 +2837,6 @@ konjunkturbedingte Beteiligung des Bundes nach § 221a des Fünften
 Buches Sozialgesetzbuch in der am 1. Januar 2010 geltenden Fassung
 erhöht wird. Das Bundesversicherungsamt macht den nach Satz 1
 ermittelten Betrag in geeigneter Form bekannt.
-
 
 ### § 41 Jahresausgleich
 
@@ -3022,7 +2929,6 @@ zu korrigieren. Das Nähere zum Verfahren bestimmt das
 Bundesversicherungsamt nach Anhörung des Spitzenverbandes Bund der
 Krankenkassen.
 
-
 ### § 42 Prüfung der Datenmeldungen
 
 (1) Die mit der Prüfung nach § 274 des Fünften Buches Sozialgesetzbuch
@@ -3111,7 +3017,6 @@ Bescheid geltend. § 39 Absatz 3a Satz 3 bis 6 gilt entsprechend. Die
 Einnahmen nach diesem Absatz und die Zinserträge fließen in den
 Gesundheitsfonds und werden im nächsten Jahresausgleich zu dem Wert
 nach § 41 Absatz 2 Nummer 1 hinzugerechnet.
-
 
 ### (XXXX) Anlagen 1 bis 12 (weggefallen)
 

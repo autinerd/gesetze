@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 Nr. 2 Buchst. a, f u. i u. Art. 5 G v. 25.6.1973 I 669
 
-
 ## I.
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des
@@ -33,7 +32,6 @@ Meldepflicht oder ihrer Pflicht nach § 23 Abs. 2 Satz 2 des Gesetzes
 über den Zivildienst in der Fassung vom 16. Juli 1965 (Bundesgesetzbl.
 I S. 983) entziehen.
 
-
 ## II.
 
 Das für die Ermittlung von Wehrpflichtigen, die sich der Erfassung
@@ -42,12 +40,10 @@ nicht gelöschten Ermittlungsersuchen sind in den Ermittlungslisten nur
 bis zum Ende des Kalendervierteljahres weiterzuführen, in dem seit der
 erstmaligen Ausschreibung drei Jahre abgelaufen sind.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger
 in Kraft.
-
 
 ## Schlußformel
 

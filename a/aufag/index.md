@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 6 G v. 12.4.2012 I 579
 
-
 ## § 1 Erstattungsanspruch
 
 (1) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
@@ -68,7 +67,6 @@ Krankenkasse erstatten den Arbeitgebern in vollem Umfang
 (U1-Verfahren) und 2 (U2-Verfahren) nehmen auch die Arbeitgeber teil,
 die nur Auszubildende beschäftigen.
 
-
 ## § 2 Erstattung
 
 (1) Die zu gewährenden Beträge werden dem Arbeitgeber von der
@@ -103,7 +101,6 @@ Spitzenverband Bund der Krankenkassen in Grundsätzen fest, die vom
 Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
 Bundesministerium für Gesundheit zu genehmigen sind; die
 Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
-
 
 ## § 3 Feststellung der Umlagepflicht
 
@@ -142,7 +139,6 @@ machen.
 (3) Der Spitzenverband Bund der Krankenkassen regelt das Nähere über
 die Durchführung des Feststellungsverfahrens nach Absatz 1.
 
-
 ## § 4 Versagung und Rückforderung der Erstattung
 
 (1) Die Erstattung kann im Einzelfall versagt werden, solange der
@@ -168,7 +164,6 @@ Rückforderung kann abgesehen werden, wenn der zu Unrecht gezahlte
 Betrag gering ist und der entstehende Verwaltungsaufwand
 unverhältnismäßig groß sein würde.
 
-
 ## § 5 Abtretung
 
 Ist auf den Arbeitgeber ein Anspruch auf Schadenersatz nach § 6 des
@@ -176,7 +171,6 @@ Entgeltfortzahlungsgesetzes übergegangen, so ist die Krankenkasse zur
 Erstattung nur verpflichtet, wenn der Arbeitgeber den auf ihn
 übergegangenen Anspruch bis zur anteiligen Höhe des Erstattungsbetrags
 an die Krankenkasse abtritt.
-
 
 ## § 6 Verjährung und Aufrechnung
 
@@ -207,10 +201,6 @@ werden auf
 6.  Herausgabe einer von einem Dritten an den Berechtigten bewirkten
     Leistung, die der Krankenkasse gegenüber wirksam ist.
 
-
-
-
-
 ## § 7 Aufbringung der Mittel
 
 (1) Die Mittel zur Durchführung der U1- und U2-Verfahren werden von
@@ -235,7 +225,6 @@ berücksichtigen. Für die Zeit des Bezugs von Kurzarbeitergeld bemessen
 sich die Umlagen nach dem tatsächlich erzielten Arbeitsentgelt bis zur
 Beitragsbemessungsgrenze in der gesetzlichen Rentenversicherung.
 
-
 ## § 8 Verwaltung der Mittel
 
 (1) Die Krankenkassen verwalten die Mittel für den Ausgleich der
@@ -250,7 +239,6 @@ weiterhin der übertragenden Krankenkasse, die die von den Arbeitgebern
 gezahlten Umlagen an die durchführende Krankenkasse oder den Verband
 weiterzuleiten hat. § 90 des Vierten Buches Sozialgesetzbuch gilt
 entsprechend.
-
 
 ## § 9 Satzung
 
@@ -305,13 +293,11 @@ Spitzenorganisationen herzustellen.
 (5) Die Absätze 1 bis 4 gelten auch für die durchführende Krankenkasse
 oder den Verband nach § 8 Abs. 2 Satz 1.
 
-
 ## § 10 Anwendung sozialversicherungsrechtlicher Vorschriften
 
 Die für die gesetzliche Krankenversicherung geltenden Vorschriften
 finden entsprechende Anwendung, soweit dieses Gesetz nichts anderes
 bestimmt.
-
 
 ## § 11 Ausnahmevorschriften
 
@@ -370,10 +356,6 @@ bestimmt.
     betriebliche Einstiegsqualifizierungen und im Rahmen des § 79 Absatz 2
     des Dritten Buches Sozialgesetzbuch bezuschusste Berufsausbildungen in
     außerbetrieblichen Einrichtungen.
-
-
-
-
 
 ## § 12 Freiwilliges Ausgleichsverfahren
 

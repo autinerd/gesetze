@@ -21,16 +21,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 28 G v. 27.7.2001 I 1887
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Armenrecht
-
-
 
 ### § 1
 
@@ -60,7 +56,6 @@ die Vorschriften über Kosten im Bereich der Justizverwaltung.
 (4) Für die Tätigkeiten bei der Entgegennahme und der Weiterleitung
 eines Antrags nach Absatz 1 werden im übrigen Kosten nicht erhoben.
 
-
 ### § 2
 
 Für die Übermittlung eines Antrags auf Bewilligung des Armenrechts
@@ -68,10 +63,7 @@ Für die Übermittlung eines Antrags auf Bewilligung des Armenrechts
 der Bundesrepublik Deutschland werden Gebühren und Auslagen nicht
 erhoben.
 
-
 ## Zweiter Abschnitt - Zustellungsanträge und Rechtshilfeersuchen
-
-
 
 ### § 3
 
@@ -95,19 +87,13 @@ auf die wirtschaftlichen Verhältnisse des Empfängers oder sonst aus
 Billigkeitsgründen geboten erscheint. Im übrigen gelten die
 Vorschriften über Kosten im Bereich der Justizverwaltung.
 
-
 ### § 4
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel
 
-
-
 ### Erster Titel - Vollstreckbarerklärung von tunesischen gerichtlichen Entscheidungen und von anderen tunesischen Schuldtiteln
-
-
 
 #### § 5
 
@@ -129,7 +115,6 @@ der Zivilprozessordnung; die Notfrist für die Einlegung der sofortigen
 Beschwerde beträgt einen Monat. Die §§ 707, 717, 1065 der
 Zivilprozeßordnung gelten entsprechend.
 
-
 #### § 6
 
 Hängt die Vollstreckung der gerichtlichen Entscheidung oder des
@@ -149,7 +134,6 @@ Tatsachen bei dem Gericht offenkundig sind. Kann der Nachweis in
 dieser Form nicht erbracht werden, so ist mündliche Verhandlung
 anzuordnen; er kann in diesem Fall mit anderen Beweismitteln geführt
 werden.
-
 
 #### § 7
 
@@ -180,7 +164,6 @@ beruhen, erst
 
 entstanden sind.
 
-
 #### § 8
 
 Aus den für vollstreckbar erklärten gerichtlichen Entscheidungen oder
@@ -188,10 +171,7 @@ anderen Schuldtiteln findet die Zwangsvollstreckung statt, sofern die
 Entscheidung über die Vollstreckbarkeit rechtskräftig oder für
 vorläufig vollstreckbar erklärt ist.
 
-
 ### Zweiter Titel - Aufhebung oder Änderung der Vollstreckbarerklärung
-
-
 
 #### § 9
 
@@ -217,7 +197,6 @@ bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
 Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 #### § 10
 
 (1) Soweit die Vollstreckbarerklärung einer gerichtlichen Entscheidung
@@ -240,10 +219,7 @@ entstanden ist.
 ausschließlich zuständig, das über die Vollstreckbarerklärung
 entschieden hat.
 
-
 ### Dritter Titel - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
-
 
 #### § 11
 
@@ -261,14 +237,12 @@ Zivilprozessordnung; die sofortige Beschwerde ist binnen einer
 Notfrist von einem Monat einzulegen und kann auch schriftlich oder
 durch Erklärung zu Protokoll der Geschäftsstelle eingelegt werden.
 
-
 #### § 12
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in der
 Tunesischen Republik geltend gemacht werden soll, so soll das Urteil
 nicht in abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt
 werden.
-
 
 #### § 13
 
@@ -296,14 +270,12 @@ nachträglichen Anfertigung des Tatbestandes nicht mitgewirkt haben.
 (4) Für die Vervollständigung des Urteils werden Gerichtsgebühren
 nicht erhoben.
 
-
 #### § 14
 
 Einstweiligen Anordnungen oder einstweiligen Verfügungen (Artikel 27
 Abs. 4 des Vertrages), die in der Tunesischen Republik geltend gemacht
 werden sollen, ist eine Begründung beizufügen. § 13 ist entsprechend
 anzuwenden.
-
 
 #### § 15
 
@@ -315,17 +287,13 @@ zu versehen, wenn dies für eine Zwangsvollstreckung im Inland nach §
 796 Abs. 1, §§ 936, 929 Abs. 1 der Zivilprozeßordnung nicht
 erforderlich wäre.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 16
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 17
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1281
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -73,7 +71,6 @@ Reinnickelkern.
 Der Entwurf der Bildseite stammt von Hubert Klinkel, Würzburg\*,
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

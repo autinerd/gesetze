@@ -22,7 +22,6 @@ Stand: vgl. nur noch Fundstellennachweis B
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 Dem in New York am 23. Dezember 1971 von der Bundesrepublik
@@ -30,13 +29,11 @@ Deutschland unterzeichneten Übereinkommen vom 21. Februar 1971 über
 psychotrope Stoffe wird zugestimmt. Das Übereinkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Änderungen der Anhänge zum Übereinkommen nach Maßgabe seines Artikels
 2 sind vom Bundesministerium für Gesundheit im Bundesgesetzblatt
 bekanntzumachen.
-
 
 ## Art 3
 
@@ -45,7 +42,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

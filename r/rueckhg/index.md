@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 268 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anspruchsberechtigte
 
@@ -74,7 +72,6 @@ für einen getrennt lebenden Ehegatten, der sich bereits seit fünf
 Jahren rechtmäßig im Geltungsbereich dieses Gesetzes aufgehalten hat
 und über eine eigenständige Sicherung des Lebensunterhalts verfügt.
 
-
 ## § 2 Höhe der Rückkehrhilfe
 
 (1) Die Rückkehrhilfe beträgt 10.500 DM. Der Betrag erhöht sich für
@@ -91,19 +88,16 @@ Fall des § 1 Abs. 1 Nr. 2 Buchstabe a um 1.500 DM, im Fall des § 1
 Abs. 1 Nr. 2 Buchstabe b um 750 DM. Nach Ablauf von sieben Monaten
 wird eine Rückkehrhilfe nicht mehr gezahlt.
 
-
 ## § 3 Beauftragung der Bundesagentur für Arbeit
 
 Die Rückkehrhilfe wird nach fachlichen Weisungen des Bundesministers
 für Arbeit und Soziales durch die Bundesagentur für Arbeit gewährt.
-
 
 ## § 4 Aufbringung der Mittel durch den Bund
 
 Die Aufwendungen der Bundesagentur für Arbeit für die Gewährung der
 Rückkehrhilfe trägt der Bund. Verwaltungskosten werden nicht
 erstattet.
-
 
 ## § 5 Verfahren
 
@@ -116,7 +110,6 @@ durch Vorbescheid über einzelne Anspruchsvoraussetzungen entscheiden.
 Im übrigen finden die Vorschriften des Ersten Kapitels des Zehnten
 Buches Sozialgesetzbuch Anwendung.
 
-
 ## § 6 Bescheinigung des Arbeitgebers
 
 Der Arbeitgeber hat dem Arbeitnehmer alle Tatsachen, die nach § 1 Abs.
@@ -126,7 +119,6 @@ Lohnsteuerkarte des Arbeitnehmers eingetragenen Kinder zu
 bescheinigen. Dabei hat er den von der Bundesagentur für Arbeit
 hierfür vorgesehenen Vordruck zu benutzen. Die Bescheinigung ist dem
 Arbeitnehmer für dessen Antrag auf Rückkehrhilfe auszuhändigen.
-
 
 ## § 7 Beratung
 
@@ -141,7 +133,6 @@ oder durch nicht bundeseigene andere Stellen durchgeführt.
 
 (3) Die aus der Beratungsarbeit entstehenden Kosten für Schulung und
 Information der Berater sowie Kosten der Koordinierung trägt der Bund.
-
 
 ## § 8 Berlin-Klausel
 

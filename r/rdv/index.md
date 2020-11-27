@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1069
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 1 Satz 2, § 12 Abs. 5, § 13 Abs. 4, § 16 Abs.
@@ -25,13 +24,11 @@ von denen § 18 Abs. 3 durch Artikel 6 des Gesetzes vom 12. Juni 2008
 (BGBl. I S. 1000) geändert worden ist, verordnet das Bundesministerium
 der Justiz:
 
-
 ## § 1 Bestimmung von Teilbereichen
 
 Das Recht des gewerblichen Rechtsschutzes und das Steuerrecht sind
 Teilbereiche der Rechtsdienstleistungen in einem ausländischen Recht
 nach § 10 Abs. 1 Satz 1 Nr. 3 des Rechtsdienstleistungsgesetzes.
-
 
 ## § 2 Nachweis der theoretischen Sachkunde
 
@@ -78,7 +75,6 @@ vergleichbaren Berufs niedergelassen ist oder war.
 sich nur auf das Recht, auf das sich die vorgelegten Zeugnisse
 beziehen.
 
-
 ## § 3 Nachweis der praktischen Sachkunde
 
 (1) Die nach § 12 Abs. 3 Satz 2 des Rechtsdienstleistungsgesetzes
@@ -106,7 +102,6 @@ Person in dem Bereich, für den sie die Registrierung beantragt,
 mindestens sechs Monate unter der Verantwortung der registrierten oder
 einer für sie tätigen qualifizierten Person oder des Mitglieds einer
 Rechtsanwaltskammer im Inland tätig gewesen ist.
-
 
 ## § 4 Sachkundelehrgang
 
@@ -172,7 +167,6 @@ enthalten:
 Die schriftlichen Aufsichtsarbeiten und ihre Bewertung sowie eine
 detaillierte Beschreibung von Inhalten und Ablauf des Lehrgangs sind
 dem Zeugnis beizufügen.
-
 
 ## § 5 Berufshaftpflichtversicherung
 
@@ -242,7 +236,6 @@ Versicherungsnummer, soweit das Auskunftsinteresse das schutzwürdige
 Interesse der registrierten Person an der Nichterteilung dieser
 Auskunft überwiegt.
 
-
 ## § 6 Registrierungsverfahren
 
 (1) Anträge nach § 13 Abs. 1 des Rechtsdienstleistungsgesetzes sind
@@ -264,7 +257,6 @@ bezeichnen.
 (4) Von Zeugnissen und Nachweisen, die nicht in deutscher Sprache
 ausgestellt sind, kann die Vorlage einer Übersetzung verlangt werden.
 
-
 ## § 7 Aufbewahrungsfristen
 
 (1) Die nach § 13 des Rechtsdienstleistungsgesetzes für die
@@ -283,7 +275,6 @@ Untersagung aufzubewahren.
 Registrierung bestandskräftig abgelehnt worden oder eine Untersagung
 nicht erfolgt ist, sind für einen Zeitraum von fünf Jahren nach der
 Beendigung des Verfahrens aufzubewahren.
-
 
 ## § 8 Öffentliche Bekanntmachungen im Rechtsdienstleistungsregister
 
@@ -343,7 +334,6 @@ die Daten dabei und während der Veröffentlichung unversehrt,
 vollständig und aktuell bleiben sowie jederzeit ihrem Ursprung nach
 zugeordnet werden können.
 
-
 ## § 9 Löschung von Veröffentlichungen
 
 (1) Die zuständige Behörde hat die Löschung der nach § 16 Abs. 2 des
@@ -357,11 +347,9 @@ technische und organisatorische Maßnahmen sicherzustellen, dass ein
 Datenabruf insoweit nur durch die hierzu befugten Behörden erfolgt. §
 10 Abs. 2 und 4 des Bundesdatenschutzgesetzes findet Anwendung.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2008 in Kraft.
-
 
 ## Schlussformel
 

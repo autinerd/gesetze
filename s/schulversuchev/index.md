@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 14.12.1990 I 2828
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 3 Nr. 2 des Bundesausbildungsförderungsgesetzes
 in der Fassung der Bekanntmachung vom 9. April 1976 (BGBl. I S. 989)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Ausbildungsstätten
 
@@ -50,7 +48,6 @@ wird geleistet für den Besuch
 Rahmen eines von der zuständigen Landesbehörde genehmigten
 Schulversuchs oder an einer zugelassenen Versuchsschule durchgeführt
 wird.
-
 
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
 
@@ -89,16 +86,11 @@ Ausbildungsstätten erhalten Ausbildungsförderung
 
 2.  im vierten Ausbildungsjahr wie Studenten an Hochschulen.
 
-
-
-
-
 ## § 3 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
 Land Berlin.
-
 
 ## § 4 Inkrafttreten
 

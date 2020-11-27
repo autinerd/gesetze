@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1868
 
-
-
 ## Eingangsformel
 
 Um den Verlauf der gemeinsamen Landesgrenze zweckmäßig zu gestalten
@@ -29,7 +27,6 @@ Grundgesetzes in Verbindung mit § 2 Abs. 1 des Gesetzes über das
 Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
 nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 1325) folgenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -157,13 +154,6 @@ Staatsvertrages.
     -   Gemeinde Stemshorn, Gemarkung Stemshorn, Flur 4, Flurstücke 24/2,
         25/2, 26/2 und 33/2.
 
-
-
-
-
-
-
-
 ## Art 2
 
 Das in den übergehenden Gebieten belegene Verwaltungsvermögen von
@@ -175,7 +165,6 @@ Rechts ausgestatteten Religionsgemeinschaften und der den Aufgaben
 einer Kirche oder Religionsgemeinschaft dienenden Körperschaft des
 öffentlichen Rechts und für das Vermögen der im Bereich der
 Sozialversicherung tätigen Körperschaften des öffentlichen Rechts.
-
 
 ## Art 3
 
@@ -190,7 +179,6 @@ Vertrages die für die Verwaltung notwendigen Akten, Urkunden, Register
 und andere Unterlagen zu übergeben und die für die Berichtigung des
 Grundbuches erforderlichen Erklärungen abzugeben.
 
-
 ## Art 4
 
 (1) Der Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
@@ -198,7 +186,6 @@ werden ausgetauscht.
 
 (2) Der Vertrag trifft am Ersten des auf den Austausch der
 Ratifikationsurkunden folgenden Monats in Kraft.
-
 
 ## Schlußformel
 

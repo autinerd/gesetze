@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 12.9.2008 I 1834
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 1, 2, 8, 10 und Abs. 3 Satz 3 des
@@ -26,10 +25,7 @@ Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 4. November
 1968 (Bundesgesetzbl. I S. 1113) wird mit Zustimmung des Bundesrates
 verordnet:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -76,10 +72,6 @@ verordnet:
 
 3.  im übrigen nach den nachfolgenden Vorschriften.
 
-
-
-
-
 ### § 2 Verantwortlichkeit
 
 (1) Sofern in dieser Verordnung nichts anderes bestimmt ist, trägt der
@@ -101,7 +93,6 @@ Flugbetriebsleiters können von einer Person wahrgenommen werden.
 (3) Die Verantwortlichkeit des Luftfahrzeugführers für die Führung des
 Luftfahrzeugs bleibt unberührt.
 
-
 ### § 3 Grundregel für den Betrieb
 
 (1) Der Halter hat das Luftfahrtgerät in einem solchen Zustand zu
@@ -119,7 +110,6 @@ Absatz 1 bleibt unberührt.
 dürfen nur betrieben werden, wenn die Lufttüchtigkeit nach der
 Verordnung zur Prüfung von Luftfahrtgerät nachgewiesen worden ist.
 
-
 ### § 3a Sprachkenntnisse der Flugbesatzung im gewerblichen Luftverkehr
 
 Das Luftfahrtunternehmen stellt sicher, dass die im gewerblichen
@@ -127,14 +117,9 @@ Luftverkehr eingesetzte Flugbesatzung über ausreichende Kenntnisse der
 Sprache, die im Sprechfunkverkehr im Flugfunkdienst in dem genutzten
 Luftraum verwendet wird, oder der englischen Sprache verfügt.
 
-
 ## Zweiter Abschnitt - Allgemeine technische Betriebsvorschriften
 
-
-
 ### 1. - Zulässige Betriebszeiten
-
-
 
 #### § 4 Zulässige Betriebszeiten
 
@@ -157,16 +142,12 @@ sie widerrufen, wenn die Voraussetzungen für die Festlegung
 nachträglich nicht nur vorübergehend entfallen sind oder die erteilten
 Auflagen nicht eingehalten werden.
 
-
 ### 2. - Instandhaltung
-
-
 
 #### § 5 Umfang der Instandhaltung
 
 Die Instandhaltung umfaßt die Wartung einschließlich kleiner
 Reparaturen, die Überholung und die großen Reparaturen.
-
 
 #### § 6 Wartung
 
@@ -183,17 +164,12 @@ Bei der Wartung des Luftfahrtgeräts sind durchzuführen:
     überholungs-, reparatur- oder änderungsbedürftige Teile, wenn dies mit
     einfachen Mitteln möglich ist.
 
-
-
-
-
 #### § 7 Überholung
 
 Hat ein Luftfahrtgerät die zulässige Betriebszeit nach § 4 erreicht
 oder sind bei seinem Betrieb Mängel festgestellt worden, die im Rahmen
 der Wartung nach § 6 nicht behoben werden können, ist das Gerät ganz
 oder teilweise zu überholen (Grund- oder Teilüberholung).
-
 
 #### § 8 Große Reparatur
 
@@ -203,7 +179,6 @@ Reparatur durchzuführen. Reparaturverfahren, die nicht in den
 Instandhaltungsunterlagen im Rahmen der Musterzulassung genehmigt
 worden sind, sind wie Änderungen am Muster zu behandeln und bedürfen
 der Zulassung.
-
 
 #### § 9 Durchführung der Instandhaltung
 
@@ -249,7 +224,6 @@ des Musters, die ihm bei seiner Tätigkeit bekanntwerden und welche die
 Lufttüchtigkeit beeinträchtigen oder beeinträchtigen können,
 unverzüglich anzuzeigen.
 
-
 #### § 10 Wägung der Luftfahrzeuge
 
 Gewicht und Schwerpunkt der Luftfahrzeuge sind in bestimmten
@@ -257,7 +231,6 @@ Zeitabständen durch Wägung zu überprüfen. Das gleiche gilt, wenn
 Gewicht und Schwerpunkt verändert worden sind und die Daten durch
 Rechnung nicht mit hinreichender Genauigkeit festgestellt werden
 können. Satz 1 gilt nicht für nichtmotorgetriebene Luftsportgeräte.
-
 
 #### § 11 Prüfflüge
 
@@ -269,10 +242,7 @@ vorzunehmen. Über die Prüfflüge sind Aufzeichnungen zu führen.
 Prüfung des Luftfahrzeugs tätigen Personen mitgenommen werden oder
 teilnehmen.
 
-
 ### 3. - Änderung
-
-
 
 #### § 12 Kleine Änderung
 
@@ -284,7 +254,6 @@ der zuständigen Stelle vorgenommen werden, wenn dies in
 Änderungsverfahren geschieht. § 9 Abs. 1 findet entsprechende
 Anwendung.
 
-
 #### § 13 Große Änderung
 
 Eine Änderung des Luftfahrtgeräts, die Auswirkungen auf seine
@@ -295,10 +264,7 @@ Instandhaltungsbetrieben, genehmigten luftfahrttechnischen Betrieben
 oder genehmigten Herstellungsbetrieben nach den von der zuständigen
 Stelle genehmigten Änderungsanweisungen durchzuführen.
 
-
 ### 4. - Lufttüchtigkeitsanweisung
-
-
 
 #### § 14 Lufttüchtigkeitsanweisung
 
@@ -313,10 +279,7 @@ darf nach dem in der Lufttüchtigkeitsanweisung angegebenen Termin
 außer für Zwecke der Nachprüfung nur in Betrieb genommen werden, wenn
 die angeordneten Maßnahmen ordnungsgemäß durchgeführt worden sind.
 
-
 ### 5. - Betriebsaufzeichnungen
-
-
 
 #### § 15 Betriebsaufzeichnungen
 
@@ -339,10 +302,7 @@ zugehörigen Betriebsaufzeichnungen 12 Monate aufzubewahren. Die
 zuständige Stelle kann in besonderen Fällen eine längere
 Aufbewahrungszeit anordnen.
 
-
 ## Dritter Abschnitt - Besondere technische Betriebsvorschriften
-
-
 
 ### § 16 Technisches Betriebshandbuch
 
@@ -373,7 +333,6 @@ Technischen Betriebshandbuches verlangen, soweit dies zur
 Aufrechterhaltung der Lufttüchtigkeit des Luftfahrtgeräts erforderlich
 ist.
 
-
 ### § 17 Technische Dienste der Luftfahrtunternehmen und Luftfahrerschulen
 
 (1) Luftfahrtunternehmen und Luftfahrerschulen haben die
@@ -392,10 +351,7 @@ für Luftsportgerät, die Luftfahrzeuge von Luftfahrtunternehmen oder
 Luftfahrerschulen instandhalten, haben der zuständigen Stelle das
 Technische Betriebshandbuch jederzeit auf Verlangen vorzulegen.
 
-
 ## Vierter Abschnitt - Ausrüstung der Luftfahrzeuge
-
-
 
 ### § 18 Ausrüstung
 
@@ -404,7 +360,6 @@ den Bauvorschriften geregelt ist, die Flugsicherungsausrüstung, die in
 der Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge
 geregelt ist, und die Ergänzungsausrüstung nach den folgenden
 Vorschriften (§§ 19 bis 22).
-
 
 ### § 19 Ergänzungsausrüstung, die durch den Verwendungszweck erforderlich ist
 
@@ -445,7 +400,6 @@ Sitzfläche benutzt werden, soweit dies nach den Festlegungen im
 Flughandbuch zulässig ist. Auch in diesem Fall muß ein Anschnallgurt
 für jeden Fallschirmspringer an seinem Sitzplatz vorhanden sein.
 
-
 ### § 20 Ergänzungsausrüstung, die durch die Betriebsart erforderlich ist
 
 (1) Für Flüge nach Instrumentenflugregeln, für kontrollierte Flüge
@@ -459,7 +413,6 @@ Segelflugzeugen.
 
 (2) Für Kunstflüge müssen die Luftfahrzeuge mit einem vierteiligen
 Anschnallgurt für jeden Insassen ausgerüstet sein.
-
 
 ### § 21 Ergänzungsausrüstung, die durch äußere Betriebsbedingungen erforderlich ist
 
@@ -499,7 +452,6 @@ mit Landescheinwerfern, Beleuchtungsanlagen für die Führer-, Fluggast-
 und Frachträume sowie mit elektrischen Handlampen, die unabhängig vom
 Bordnetz sind, ausgerüstet sein.
 
-
 ### § 22 Zusätzliche Ergänzungsausrüstung
 
 Die zuständige Stelle kann zusätzliche Geräte oder Anlagen, die für
@@ -507,21 +459,15 @@ die Sicherheit des Luftverkehrs erforderlich sind, für die Ausrüstung
 der Luftfahrzeuge vorschreiben. Das gilt auch für Geräte, die zur
 Ermittlung von Unfallursachen beitragen können.
 
-
 ## Fünfter Abschnitt - Allgemeine Flugbetriebsvorschriften
 
-
-
 ### 1. - Flugbetrieb
-
-
 
 #### § 23 Verwendung des Luftfahrzeugs
 
 Ein Luftfahrzeug darf nur in Übereinstimmung mit dem im
 Lufttüchtigkeitszeugnis eingetragenen Verwendungszweck (Kategorie)
 betrieben werden.
-
 
 #### § 24 Betriebsgrenzen für Luftfahrzeuge
 
@@ -545,7 +491,6 @@ der Start- und Landebahnen, zu berücksichtigen.
 Propeller einen die Flugsicherheit gefährdenden Eis-, Reif- oder
 Schneebelag aufweisen, dürfen nicht starten.
 
-
 #### § 25 Verlust der Lufttüchtigkeit
 
 (1) Werden beim Betrieb des zugelassenen Luftfahrzeugs Mängel
@@ -568,7 +513,6 @@ auf dem die für die Wiederherstellung der Lufttüchtigkeit
 erforderlichen Reparaturen durchgeführt werden können. Die Erlaubnis
 kann mit Auflagen verbunden und befristet werden.
 
-
 #### § 26 Ausfall von Ausrüstungsteilen
 
 (1) Sind bei Antritt eines Fluges vorgeschriebene Anlagen, Geräte oder
@@ -590,7 +534,6 @@ Umstände, unter denen der Flug durchzuführen ist, zu entscheiden, ob
 der Flug fortgesetzt werden kann oder zur Behebung des Schadens
 abgebrochen werden muß.
 
-
 #### § 27 Kontrollen nach Klarlisten
 
 Der Luftfahrzeugführer hat vor, bei und nach dem Flug sowie in
@@ -598,13 +541,11 @@ Notfällen an Hand von Klarlisten die Kontrollen vorzunehmen, die für
 den sicheren Betrieb des Luftfahrzeugs erforderlich sind. Satz 1 gilt
 nicht für nichtmotorgetriebene Luftsportgeräte.
 
-
 #### § 28 Anzeigepflicht
 
 Der Luftfahrzeugführer hat dem Halter des Luftfahrzeugs die bei dem
 Betrieb des Luftfahrzeugs festgestellten Mängel des Luftfahrzeugs
 unverzüglich anzuzeigen.
-
 
 #### § 29 Betriebsstoffmengen
 
@@ -615,7 +556,6 @@ Durchführung des Fluges gewährleistet. Darüber hinaus muß eine
 Betriebsstoffreserve mitgeführt werden, die für unvorhergesehene Fälle
 und für den Flug zum Ausweichflugplatz zur Verfügung steht, sofern ein
 Ausweichflugplatz im Flugplan angegeben ist.
-
 
 #### § 30 Bordbuch
 
@@ -678,7 +618,6 @@ Eintragung aufzubewahren.
 
 (5) Das Bordbuch ist an Bord des Luftfahrzeugs mitzuführen.
 
-
 #### § 31 Flugdurchführungsplan
 
 Bei Flügen nach Instrumentenflugregeln hat der Luftfahrzeugführer
@@ -686,10 +625,7 @@ einen Flugdurchführungsplan zu erstellen, aus dem ersichtlich ist, daß
 der Flug ordnungsgemäß vorbereitet wurde und sicher durchgeführt
 werden kann.
 
-
 ### 2. - Flugbesatzung
-
-
 
 #### § 32 Zusammensetzung der Flugbesatzung
 
@@ -724,7 +660,6 @@ Anforderungen an die Ausrüstung des Luftfahrzeuges und an die
 Flugbesatzung festlegen, wenn es die Sicherheit des Luftverkehrs
 erfordert und die Führung des Luftfahrzeuges dadurch erleichtert wird.
 
-
 #### § 33 Verhalten der Besatzung im Flugbetrieb
 
 Die Besatzungsmitglieder müssen sich während des Starts und der
@@ -734,7 +669,6 @@ auch während des Fluges. Sie dürfen ihren Platz während des Fluges nur
 verlassen, wenn es zur Wahrnehmung ihrer Aufgaben notwendig oder aus
 sonstigen Gründen unvermeidbar ist und die sichere Durchführung des
 Fluges nicht beeinträchtigt wird.
-
 
 #### § 34 Betriebsmindestbedingungen und Mindestflughöhen
 
@@ -765,7 +699,6 @@ von Landeanflügen oder für den Start nur dann unterschreiten, wenn
 dies die für den jeweiligen Flugplatz zuständige Luftfahrtbehörde
 ausdrücklich erlaubt hat.
 
-
 #### § 35 Wettermindestbedingungen
 
 (1) Ein Flug nach Sichtflugregeln darf nur dann angetreten oder zum
@@ -787,20 +720,14 @@ Ausweichflugplatz fortgesetzt werden, wenn das Luftfahrzeug mit
 betriebsbereiten Einrichtungen zur Verhütung oder zur Beobachtung und
 Beseitigung von Eisansatz ausgerüstet ist.
 
-
 ## Sechster Abschnitt - Besondere Flugbetriebsvorschriften
 
-
-
 ### 1. - Betrieb von Luftfahrzeugen in Luftfahrtunternehmen
-
-
 
 #### § 36 Überwachung
 
 Der Unternehmer ist verpflichtet, den Flugbetrieb zu überwachen. Das
 Verfahren der Überwachung bedarf der Zustimmung der Aufsichtsbehörde.
-
 
 #### § 37 Flugbetriebshandbuch
 
@@ -817,7 +744,6 @@ Flugbetriebshandbuches sind an Bord des Luftfahrzeugs mitzuführen.
 vorzulegen. Diese ist berechtigt, Änderungen und Ergänzungen zu
 verlangen.
 
-
 #### § 38 Betriebsleiter
 
 (1) Der Unternehmer hat unbeschadet seiner eigenen Verantwortung einen
@@ -830,13 +756,11 @@ festzulegen.
 (2) Die Bestellung der Betriebsleiter bedarf der Zustimmung durch die
 Aufsichtsbehörde.
 
-
 #### § 39 Anzeigepflicht
 
 Der Unternehmer hat sicherzustellen, daß beim Flugbetrieb
 festgestellte Mängel der Bodeneinrichtungen und -dienste unverzüglich
 der zuständigen Stelle aufgezeigt werden.
-
 
 #### § 40 Flugbetriebspersonal
 
@@ -848,7 +772,6 @@ Personen ausgeübt wird, die eine gültige Erlaubnis nach der Verordnung
 (2) Der Unternehmer muß das Personal eingehend in die ihm übertragenen
 Aufgaben und Pflichten einweisen. Das gilt insbesondere bei Einführung
 neuer Luftfahrzeugmuster und für Flüge auf neuen Strecken.
-
 
 #### § 41 Zusammensetzung der Besatzung
 
@@ -874,7 +797,6 @@ Fluggäste erforderlich ist.
 (5) Bei Flügen nach Instrumentenflugregeln findet § 32 Abs. 3 keine
 Anwendung. Die Genehmigungsbehörde kann bei einfachen
 Betriebsbedingungen Ausnahmen zulassen.
-
 
 #### § 42 Anforderungen an die Besatzungsmitglieder
 
@@ -927,7 +849,6 @@ die Besatzungsmitglieder die Gesetze, Vorschriften und Flugverfahren
 des überflogenen Gebiets kennen, soweit sie ihre dienstlichen
 Verrichtungen berühren.
 
-
 #### § 43 Aufenthalt im Führerraum
 
 (1) Im Führerraum dürfen sich außer der Flugbesatzung andere
@@ -944,7 +865,6 @@ Luftfahrzeugführer ihnen einen Sitz im Führerraum, der nicht von einem
 diensthabenden Mitglied der Mindestflugbesatzung in Anspruch genommen
 wird, zuweist, wenn die Wahrnehmung dienstlicher Aufgaben es
 erfordert.
-
 
 #### § 44 Aufgaben des Flugdienstberaters
 
@@ -976,7 +896,6 @@ verfügt.
 Dienstzeiten sowie angemessenen Ruhezeiten entsprechend § 42 Abs. 6
 festzulegen.
 
-
 #### § 45 Flugdurchführungsplan
 
 Der Unternehmer hat einen Flugdurchführungsplan für Flüge nach
@@ -985,13 +904,11 @@ Kilometer, die nicht nach Instrumentenflugregeln durchgeführt werden,
 zu erstellen. Der Unternehmer hat den Flugdurchführungsplan und die zu
 seiner Erstellung notwendigen Unterlagen 6 Monate aufzubewahren.
 
-
 #### § 46 Betriebsstoffmengen
 
 Der Unternehmer ist verpflichtet, Aufzeichnungen über die auf jedem
 Flug mitgeführten Betriebsstoffmengen zu führen. Der Unternehmer hat
 die Aufzeichnungen 6 Monate aufzubewahren.
-
 
 #### § 47 Mindestausrüstungsliste
 
@@ -1003,7 +920,6 @@ beeinträchtigt wird, aufzuführen sowie die hierdurch notwendigen
 Betriebsbeschränkungen festzulegen. Die Listen bedürfen der Zustimmung
 der Aufsichtsbehörde.
 
-
 #### § 48 Klarlisten
 
 Der Unternehmer hat für alle Luftfahrzeuge, die von ihm betrieben
@@ -1013,10 +929,7 @@ müssen sicherstellen, daß die im Flugbetriebshandbuch und in den zum
 Luftfahrzeug gehörenden Betriebsanweisungen festgelegten
 Betriebsverfahren angewendet werden.
 
-
 #### (XXXX) §§ 49 und 50 (weggefallen)
-
-
 
 #### § 51 Such- und Rettungsdienst
 
@@ -1025,7 +938,6 @@ der Lage ist, den Organen des Such- und Rettungsdienstes unverzüglich
 für jedes im Betrieb befindliche Luftfahrzeug Angaben über Art, Zahl
 und Beschaffenheit der mitgeführten Not- und Rettungsausrüstung zu
 machen.
-
 
 #### § 52 Fluggäste
 
@@ -1043,7 +955,6 @@ Räumung des Luftfahrzeugs in Notfällen behindern oder gefährden
 können, von der Beförderung in den Fluggasträumen ausgeschlossen
 werden.
 
-
 #### § 53 Einmotorige Luftfahrzeuge
 
 (1) Einmotorige Luftfahrzeuge dürfen nur bei Tage, nur unter
@@ -1058,10 +969,7 @@ weniger als 10 km von der nächsten Küste möglich ist.
 Ausfall eines Motors nicht in der Lage sind, den Flug zu dem
 Bestimmungsflugplatz oder einem Ausweichflugplatz fortzusetzen.
 
-
 ### 2. - Arbeitsflüge
-
-
 
 #### § 54 Arbeitsflüge
 
@@ -1071,10 +979,7 @@ Sicherheitsvorschriften kennen und alle Sicherheitsvorkehrungen
 eingehalten werden, die zur Abwendung der von dem Arbeitsflug
 ausgehenden besonderen Gefahren erforderlich sind.
 
-
 ### 3. - Flugzeiten, Flugdienstzeiten und Ruhezeiten berufsmäßig tätiger Besatzungen von Luftfahrzeugen innerhalb und außerhalb von Luftfahrtunternehmen
-
-
 
 #### § 55 Flugzeiten, Flugdienstzeiten und Ruhezeiten berufsmäßig tätiger Besatzungen von Luftfahrzeugen innerhalb und außerhalb von Luftfahrtunternehmen
 
@@ -1100,10 +1005,7 @@ Genehmigung von Luftfahrtunternehmen mit Flugzeugen und Drehflüglern
 nach § 31 Abs. 2 Nr. 11 des Luftverkehrsgesetzes zuständige Behörde
 des Landes und im übrigen das Luftfahrt-Bundesamt.
 
-
 ## Siebter Abschnitt - Bußgeld- und Schlußvorschriften
-
-
 
 ### § 56 Durchführungsvorschriften
 
@@ -1124,7 +1026,6 @@ erforderlich sind. Das Luftfahrt-Bundesamt hat dabei die Grundsätze
 internationaler Regelungen, insbesondere die Richtlinien und
 Empfehlungen der internationalen Zivilluftfahrt-Organisation, zu
 berücksichtigen.
-
 
 ### § 57 Ordnungswidrigkeiten
 
@@ -1356,14 +1257,9 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
     nach § 56 Satz 1, auch in Verbindung mit § 55 Abs. 2 Satz 2, eine
     Aufzeichnung nicht, nicht richtig oder nicht vollständig führt.
 
-
-
-
-
 ### § 58 Inkrafttreten
 
 Diese Verordnung tritt am 1. April 1970 in Kraft.
-
 
 ### Schlußformel
 

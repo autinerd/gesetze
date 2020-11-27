@@ -38,7 +38,6 @@ und Technologie nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft:
 
-
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
@@ -95,7 +94,6 @@ Abschlüssen "Geprüfter Meister für Veranstaltungstechnik/Geprüfte
 Meisterin für Veranstaltungstechnik" in den Fachrichtungen
 Bühne/Studio, Beleuchtung oder Halle.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -128,7 +126,6 @@ werden, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen
 erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung und Inhalt der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister für
@@ -160,7 +157,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn
 der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 4 Fachrichtungsübergreifender Teil
 
@@ -396,7 +392,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Fachrichtungsspezifischer Teil der Fachrichtung Bühne/Studio
 
@@ -753,7 +748,6 @@ mindestens auch zwei Aufgabenstellungen praktisch zu lösen, die sich
 aus der Umsetzung der Projektarbeit ergeben und sicherheitsrelevante
 Problemlösungen enthalten sollen. Das Fachgespräch soll nicht länger
 als 40 Minuten dauern.
-
 
 ## § 6 Fachrichtungsspezifischer Teil der Fachrichtung Beleuchtung
 
@@ -1131,7 +1125,6 @@ mindestens auch zwei Aufgabenstellungen praktisch zu lösen, die sich
 aus der Umsetzung der Projektarbeit ergeben und sicherheitsrelevante
 Problemlösungen enthalten sollen. Das Fachgespräch soll nicht länger
 als 40 Minuten dauern.
-
 
 ## § 7 Fachrichtungsspezifischer Teil der Fachrichtung Halle
 
@@ -1513,7 +1506,6 @@ aus der Umsetzung der Projektarbeit ergeben und sicherheitsrelevante
 Problemlösungen enthalten sollen. Das Fachgespräch soll nicht länger
 als 40 Minuten dauern.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -1523,7 +1515,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 9 Bestehen der Prüfung
 
@@ -1539,7 +1530,6 @@ Fachgespräch mindestens ausreichende Leistungen erbracht hat.
 Im Fall der Freistellung nach § 8 sind Ort und Datum sowie die
 Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
 anzugeben.
-
 
 ## § 10 Wiederholung der Prüfung
 
@@ -1559,12 +1549,10 @@ berücksichtigt.
 (3) Ist das Fachgespräch nicht bestanden, muß der Prüfungsteilnehmer
 für die Wiederholungsprüfung auch eine neue Projektarbeit anfertigen.
 
-
 ## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
-
 
 ## § 12 Anwendungsregelung
 
@@ -1572,11 +1560,9 @@ Für Fortbildungsprüfungsverfahren, die bis zum Ablauf des 31. Dezember
 2015 begonnen werden, sind die Vorschriften dieser Verordnung bis zum
 Ablauf des 31. Dezember 2017 weiter anzuwenden.
 
-
 ## § 13 Außerkrafttreten
 
 Diese Verordnung tritt am 31. Dezember 2015 außer Kraft.
-
 
 ## Anlage (zu § 9 Absatz 3)
 

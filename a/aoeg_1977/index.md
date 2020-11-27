@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 1.11.2011 I 2131
 
-
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 
-
-
 ### Art 1 bis 6 -
-
-
 
 ### Art 7 - Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte
 
@@ -39,26 +34,15 @@ anzuwenden bei der Feststellung von Einheitswerten der gewerblichen
 Betriebe auf den 1. Januar 1977 und bei der Festsetzung von Steuern,
 bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
 
-
 ### Art 8 bis 38 -
-
-
 
 ## Zweiter Abschnitt - Anpassung weiterer Bundesgesetze
 
-
-
 ### Art 39 bis 96 -
-
-
 
 ## Dritter Abschnitt - Schlußvorschriften
 
-
-
 ### Art 97 - Übergangsvorschriften
-
-
 
 ### § 1 Begonnene Verfahren
 
@@ -116,7 +100,6 @@ Bekanntgabe der in § 2 Absatz 2 der Abgabenordnung genannten und nach
 dem 31. Dezember 2010 geschlossenen Konsultationsvereinbarung im
 Bundessteuerblatt gelten.
 
-
 ### § 1a Steuerlich unschädliche Betätigungen
 
 (1) § 58 Nr. 1 der Abgabenordnung in der Fassung des Artikels 1 des
@@ -132,13 +115,11 @@ vom 21. Dezember 1993 (BGBl. I S. 2310) ist erstmals ab dem 1. Januar
 Abgabenordnung in der Fassung des Gesetzes vom 14. Juli 2000 (BGBl. I
 S. 1034) sind ab dem 1. Januar 2000 anzuwenden.
 
-
 ### § 1b Steuerpflichtige wirtschaftliche Geschäftsbetriebe
 
 § 64 Abs. 6 der Abgabenordnung in der Fassung des Artikels 5 des
 Gesetzes vom 20. Dezember 2000 (BGBl. I S. 1850) ist ab dem 1. Januar
 2000 anzuwenden.
-
 
 ### § 1c Krankenhäuser
 
@@ -156,7 +137,6 @@ in Satz 1 bezeichneten Gesetzes ab dem 1. Januar 1995 anzuwenden.
 (3) § 67 der Abgabenordnung in der Fassung des Artikels 10 des
 Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) ist ab dem 1. Januar
 2003 anzuwenden.
-
 
 ### § 1d Steuerbegünstigte Zwecke
 
@@ -176,7 +156,6 @@ Dezember 2010 (BGBl. I S. 1768) sind auch für vor diesem Zeitraum
 beginnende Veranlagungszeiträume anzuwenden, soweit
 Steuerfestsetzungen noch nicht bestandskräftig sind oder unter dem
 Vorbehalt der Nachprüfung stehen.
-
 
 ### § 1e Zweckbetriebe
 
@@ -201,7 +180,6 @@ diesem Zeitraum beginnende Veranlagungszeiträume anzuwenden, soweit
 Steuerfestsetzungen noch nicht bestandskräftig sind oder unter dem
 Vorbehalt der Nachprüfung stehen.
 
-
 ### § 1f Satzung
 
 (1) § 62 der Abgabenordnung in der Fassung des Artikels 10 des
@@ -220,7 +198,6 @@ Körperschaften, die nach dem 31. Dezember 2008 gegründet werden, sowie
 auf Satzungsänderungen bestehender Körperschaften, die nach dem 31.
 Dezember 2008 wirksam werden, anzuwenden.
 
-
 ### § 2 Fristen
 
 Fristen, deren Lauf vor dem 1. Januar 1977 begonnen hat, werden nach
@@ -229,7 +206,6 @@ Vorschriften nichts anderes bestimmt ist. Dies gilt auch in den
 Fällen, in denen der Lauf einer Frist nur deshalb nicht vor dem 1.
 Januar 1977 begonnen hat, weil der Beginn der Frist nach § 84 der
 Reichsabgabenordnung hinausgeschoben worden ist.
-
 
 ### § 3 Grunderwerbsteuer, Feuerschutzsteuer
 
@@ -241,14 +217,12 @@ gilt § 1 Abs. 2 der Abgabenordnung sinngemäß.
 
 (2)
 
-
 ### § 4 Mitteilungsverordnung
 
 § 7 Abs. 2 Satz 1 der Mitteilungsverordnung vom 7. September 1993
 (BGBl. I S. 1554) in der Fassung des Artikels 25 des Gesetzes vom 19.
 Dezember 2000 (BGBl. I S. 1790) ist erstmals auf im Kalenderjahr 2002
 geleistete Zahlungen anzuwenden.
-
 
 ### § 5 Zeitpunkt der Einführung des steuerlichen Identifikationsmerkmals
 
@@ -260,11 +234,9 @@ Identifikationsmerkmals im Bereich der Einfuhr- und Ausfuhrabgaben
 sowie der Verbrauchsteuern bedarf nicht der Zustimmung des
 Bundesrates.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 6 Zahlungszeitpunkt bei Scheckzahlung
 
@@ -272,7 +244,6 @@ Bundesrates.
 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) gilt erstmals,
 wenn ein Scheck nach dem 31. Dezember 2006 bei der Finanzbehörde
 eingegangen ist.
-
 
 ### § 7 Missbrauch von rechtlichen Gestaltungsmöglichkeiten
 
@@ -282,7 +253,6 @@ Kalenderjahre, die nach dem 31. Dezember 2007 beginnen, anzuwenden.
 Für Kalenderjahre, die vor dem 1. Januar 2008 liegen, ist § 42 der
 Abgabenordnung in der am 28. Dezember 2007 geltenden Fassung weiterhin
 anzuwenden.
-
 
 ### § 8 Verspätungszuschlag
 
@@ -304,7 +274,6 @@ hierbei nicht zu berücksichtigen.
 23 des Gesetzes vom 19. Dezember 2000 (BGBl. I S. 1790) ist erstmals
 auf Steuererklärungen anzuwenden, die Steuern betreffen, die nach dem
 31\. Dezember 2001 entstehen.
-
 
 ### § 9 Aufhebung und Änderung von Verwaltungsakten
 
@@ -332,7 +301,6 @@ Abgabenordnung in der in Satz 1 genannten Fassung ist nicht für die
 Bescheinigung der anrechenbaren Körperschaftsteuer bei verdeckten
 Gewinnausschüttungen anzuwenden.
 
-
 ### § 9a Absehen von Steuerfestsetzung, Abrundung
 
 (1) Die Vorschriften der Kleinbetragsverordnung vom 10. Dezember 1980
@@ -346,7 +314,6 @@ Fassung vorbehaltlich des Absatzes 2 weiter anwendbar.
 (BGBl. I S. 2255) in der bis zum 31. Dezember 2001 geltenden Fassung
 ist auf Zinsen letztmals anzuwenden, wenn die Zinsen vor dem 1. Januar
 2002 festgesetzt werden.
-
 
 ### § 10 Festsetzungsverjährung
 
@@ -407,7 +374,6 @@ Artikels 9 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) gilt
 für die Energiesteuer auf Erdgas für alle am 14. Dezember 2010 noch
 nicht abgelaufenen Festsetzungsfristen.
 
-
 ### § 10a Erklärungspflicht
 
 (1) § 150 Absatz 7 der Abgabenordnung in der Fassung des Artikels 3
@@ -425,14 +391,12 @@ Artikels 3 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist
 erstmals für Besteuerungszeiträume anzuwenden, die nach dem 31.
 Dezember 2009 beginnen.
 
-
 ### § 10b Gesonderte Feststellungen
 
 § 180 Abs. 1 Nr. 2 Buchstabe a, Abs. 4 und Abs. 5 der Abgabenordnung
 in der Fassung des Artikels 26 des Gesetzes vom 21. Dezember 1993
 (BGBl. I S. 2310) ist erstmals auf Feststellungszeiträume anzuwenden,
 die nach dem 31. Dezember 1994 beginnen.
-
 
 ### § 11 Haftung
 
@@ -444,7 +408,6 @@ Tatbestand nach dem 31. Dezember 1976 verwirklicht worden ist.
 Fassung des Steuerbereinigungsgesetzes 1986 anzuwenden, wenn der
 haftungsbegründende Tatbestand nach dem 31. Dezember 1986 verwirklicht
 worden ist.
-
 
 ### § 11a Insolvenzverfahren
 
@@ -463,7 +426,6 @@ gesetzlichen Vorschriften anzuwenden; gleiches gilt für
 Anschlußkonkursverfahren, bei denen der dem Verfahren vorausgehende
 Vergleichsantrag vor dem 1. Januar 1999 gestellt worden ist.
 
-
 ### § 11b Anfechtung außerhalb des Insolvenzverfahrens
 
 § 191 Abs. 1 Satz 2 der Abgabenordnung in der Fassung des Artikels 17
@@ -474,7 +436,6 @@ Maßgabe anzuwenden, dass der Erlass eines Duldungsbescheides vor dem
 1\. Januar 1999 der gerichtlichen Geltendmachung vor dem 1. Januar 1999
 gleichsteht.
 
-
 ### § 12 Verbindliche Zusagen auf Grund einer Außenprüfung
 
 Die Vorschriften der Abgabenordnung über verbindliche Zusagen auf
@@ -483,7 +444,6 @@ Schlußbesprechung nach dem 31. Dezember 1976 stattfindet oder, falls
 eine solche nicht erforderlich ist, wenn dem Steuerpflichtigen der
 Prüfungsbericht nach dem 31. Dezember 1976 zugegangen ist.
 
-
 ### § 13 Sicherungsgeld
 
 Die Vorschriften des § 203 der Reichsabgabenordnung sind auch nach dem
@@ -491,7 +451,6 @@ Die Vorschriften des § 203 der Reichsabgabenordnung sind auch nach dem
 Bedingungen vor dem 1. Januar 1977 nicht eingehalten wurden. Auf die
 Verwaltungsakte, die ein Sicherungsgeld festsetzen, ist § 100 Abs. 2
 der Finanzgerichtsordnung nicht anzuwenden.
-
 
 ### § 14 Zahlungsverjährung
 
@@ -517,7 +476,6 @@ Verjährungsfristen.
 Fassung des Artikels 17 des Gesetzes vom 22. Dezember 1999 (BGBl. I S.
 2601) gilt für alle bei Inkrafttreten dieses Gesetzes noch nicht
 abgelaufenen Verjährungsfristen.
-
 
 ### § 15 Zinsen
 
@@ -573,7 +531,6 @@ I S. 1790) gilt in allen Fällen, in denen Zinsen nach dem 31. Dezember
 Artikels 3 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) gilt
 für alle Steuern, die nach dem 31. Dezember 2009 entstehen.
 
-
 ### § 16 Säumniszuschläge
 
 (1) Die Vorschriften des § 240 der Abgabenordnung über
@@ -627,7 +584,6 @@ entstehen.
 wenn die Steuer, die zurückzuzahlende Steuervergütung oder die
 Haftungsschuld nach dem 31. Dezember 2003 fällig geworden ist.
 
-
 ### § 17 Angabe des Schuldgrunds
 
 Für die Anwendung des § 260 der Abgabenordnung auf Ansprüche, die bis
@@ -637,7 +593,6 @@ Kontoauszüge über Entstehung, Fälligkeit und Tilgung seiner Schulden
 fortlaufend unterrichtet, so genügt es, wenn die Vollstreckungsbehörde
 die Art der Abgabe und die Höhe des beizutreibenden Betrags angibt und
 auf den Kontoauszug Bezug nimmt, der den Rückstand ausweist.
-
 
 ### § 17a Pfändungsgebühren
 
@@ -653,10 +608,6 @@ Die Höhe der Pfändungsgebühren richtet sich
     Pfändungsverfügung den Bereich der Vollstreckungsbehörde verlassen
     hat.
 
-
-
-
-
 ### § 17b Eidesstattliche Versicherung
 
 § 284 Abs. 1 Nr. 3 und 4 der Abgabenordnung in der Fassung des
@@ -666,7 +617,6 @@ zwangsvollstreckungsrechtlicher Vorschriften vom 17. Dezember 1997
 Vollziehungsbeamte die Vollstreckung vor dem Inkrafttreten dieses
 Gesetzes versucht hat.
 
-
 ### § 17c Pfändung fortlaufender Bezüge
 
 § 313 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 Abs. 11
@@ -675,13 +625,11 @@ zwangsvollstreckungsrechtlicher Vorschriften vom 17. Dezember 1997
 (BGBl. I S. 3039) gilt nicht für Arbeits- und Dienstverhältnisse, die
 vor Inkrafttreten dieses Gesetzes beendet waren.
 
-
 ### § 17d Zwangsgeld
 
 § 329 der Abgabenordnung in der Fassung des Artikels 17 des Gesetzes
 vom 22. Dezember 1999 (BGBl. I S. 2601) gilt in allen Fällen, in denen
 ein Zwangsgeld nach dem 31. Dezember 1999 angedroht wird.
-
 
 ### § 17e Aufteilung einer Gesamtschuld bei Ehegatten
 
@@ -689,7 +637,6 @@ Die §§ 270, 273 Absatz 1 und § 279 Absatz 2 Nummer 4 der
 Abgabenordnung in der Fassung des Artikels 3 des Gesetzes vom 1.
 November 2011 (BGBl. I S. 2131) sind erstmals für den
 Veranlagungszeitraum 2013 anzuwenden.
-
 
 ### § 18 Außergerichtliche Rechtsbehelfe
 
@@ -717,7 +664,6 @@ geltenden Vorschriften der Abgabenordnung.
 Artikels 4 Nr. 11 Buchstabe b des Gesetzes vom 24. Juni 1994 (BGBl. I
 S. 1395) ist auf berichtigende Verwaltungsakte anzuwenden, die nach
 dem 31. Dezember 1995 bekanntgegeben werden.
-
 
 ### § 18a Erledigung von Massenrechtsbehelfen und Massenanträgen
 
@@ -859,7 +805,6 @@ des Artikels 10 Nr. 12 und 16 des Gesetzes vom 13. Dezember 2006
 oder eingelegt wurden und die Allgemeinverfügung nach dem 19. Dezember
 2006 im Bundessteuerblatt veröffentlicht wird.
 
-
 ### § 19
 
 (1) § 141 Abs. 1 Satz 1 Nr. 1 der Abgabenordnung in der Fassung des
@@ -915,7 +860,6 @@ jedoch im Kalenderjahr 2007 nicht die Voraussetzungen des § 141 Abs. 1
 Satz 1 Nr. 4 und Nr. 5 der Abgabenordnung in der Fassung des Artikels
 5 des Gesetzes vom 7. September 2007 (BGBl. I S. 2246).
 
-
 ### § 19a Aufbewahrungsfristen
 
 § 147 Abs. 3 der Abgabenordnung in der Fassung des Artikels 2 des
@@ -924,13 +868,11 @@ Unterlagen, deren Aufbewahrungsfrist nach § 147 Abs. 3 der
 Abgabenordnung in der bis zum 23. Dezember 1998 geltenden Fassung noch
 nicht abgelaufen ist.
 
-
 ### § 19b Zugriff auf datenverarbeitungsgestützte Buchführungssysteme
 
 § 146 Abs. 5, § 147 Abs. 2, 5 und 6 sowie § 200 Abs. 1 der
 Abgabenordnung in der Fassung des Artikels 7 des Gesetzes vom 23.
 Oktober 2000 (BGBl. I S. 1433) sind ab dem 1. Januar 2002 anzuwenden.
-
 
 ### § 20 Verweisungserfordernis bei Blankettvorschriften
 
@@ -938,7 +880,6 @@ Die in § 381 Abs. 1, § 382 Abs. 1 der Abgabenordnung vorgeschriebene
 Verweisung ist nicht erforderlich, soweit die Vorschriften der dort
 genannten Gesetze und Rechtsverordnungen vor dem 1. Oktober 1968
 erlassen sind.
-
 
 ### § 21 Steueranmeldungen in Euro
 
@@ -954,7 +895,6 @@ Mark berechnet. Betrifft die Anmeldung eine von Bundesfinanzbehörden
 verwaltete Steuer, ist bei der Bestimmung des Vordrucks das
 Einvernehmen mit den obersten Finanzbehörden der Länder nicht
 erforderlich.
-
 
 ### § 22 Mitwirkungspflichten der Beteiligten; Schätzung von Besteuerungsgrundlagen
 
@@ -986,14 +926,12 @@ Absatz 2 Satz 3, § 147a, § 162 Absatz 2 Satz 3 und § 193 Absatz 1 und
 Absatz 2 Nummer 3 in der Fassung des Artikels 3 des Gesetzes vom 29.
 Juli 2009 (BGBl. I S. 2302).
 
-
 ### § 23 Verfolgungsverjährung
 
 § 376 der Abgabenordnung in der Fassung des Artikels 10 des Gesetzes
 vom 19. Dezember 2008 (BGBl. I S. 2794) gilt für alle bei
 Inkrafttreten dieses Gesetzes noch nicht abgelaufenen
 Verjährungsfristen.
-
 
 ### § 24 Selbstanzeige bei Steuerhinterziehung und leichtfertiger Steuerverkürzung
 
@@ -1006,7 +944,6 @@ Angaben Straffreiheit eintritt. Das Gleiche gilt im Fall der
 leichtfertigen Steuerverkürzung für die Anwendung des § 378 Absatz 3
 der Abgabenordnung.
 
-
 ### § 25 Gebühren für die Bearbeitung von Anträgen auf Erteilung einer verbindlichen Auskunft
 
 § 89 Absatz 3 bis 7 der Abgabenordnung in der Fassung des Artikels 3
@@ -1014,17 +951,13 @@ des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals auf
 Anträge anzuwenden, die nach dem 4. November 2011 bei der zuständigen
 Finanzbehörde eingegangen sind.
 
-
 ### § 26 Kontenabrufmöglichkeit
 
 § 93 Absatz 7 Satz 1 Nummer 2 der Abgabenordnung in der am 31.
 Dezember 2011 geltenden Fassung ist für Veranlagungszeiträume vor 2012
 weiterhin anzuwenden.
 
-
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
-
-
 
 ### § 1 Zuständigkeit
 
@@ -1048,7 +981,6 @@ Feststellungen zum 1. Januar 1998 oder für die Vermögensteuer des
 Kalenderjahrs 1998 die nach den bisherigen Verhältnissen zuständige
 Finanzbehörde insoweit zuständig. Dies gilt auch für das
 Rechtsbehelfsverfahren.
-
 
 ### § 2 Überleitungsbestimmungen für die Anwendung der Abgabenordnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
@@ -1186,10 +1118,6 @@ Einigungsvertrages genannten Gebiet gilt folgendes:
     gelten die Vorschriften der Abgabenordnung. Als selbständige Maßnahme
     gilt auch die Verwertung eines gepfändeten Gegenstandes.
 
-
-
-
-
 ### § 3 Festsetzungsverjährung und D-Markbilanzgesetz
 
 (1) Bei Steuerpflichtigen, die nach dem D-Markbilanzgesetz vom 31.
@@ -1214,7 +1142,6 @@ den Fällen des § 70 der Abgabenordnung bei Steuerhinterziehung zehn
 Jahre, bei leichtfertiger Steuerverkürzung sieben Jahre, in den Fällen
 des § 71 der Abgabenordnung zehn Jahre.
 
-
 ### § 4 Verrechnung der für das zweite Halbjahr 1990 gezahlten Vermögensteuer
 
 Die nach der Verordnung vom 27. Juni 1990 (GBl. I Nr. 41 S. 618) in
@@ -1224,18 +1151,15 @@ Steuerrate mit der Körperschaftsteuer und Gewerbesteuer der in
 Kapitalgesellschaften umgewandelten ehemaligen volkseigenen Kombinate,
 Betriebe und Einrichtungen zu verrechnen.
 
-
 ### § 5
 
 (weggefallen)
-
 
 ### Art 98 -
 
 Soweit in Rechtsvorschriften auf Vorschriften verwiesen wird, die
 durch dieses Gesetz aufgehoben werden, treten an deren Stelle die
 entsprechenden Vorschriften der Abgabenordnung.
-
 
 ### Art 99 - Ermächtigungen
 
@@ -1276,11 +1200,9 @@ Gebiet der Verbrauchsteuern und Finanzmonopole (Artikel 20 bis 32)
 erlassen werden, bedürfen, außer wenn sie die Biersteuer betreffen,
 nicht der Zustimmung des Bundesrates.
 
-
 ### Art 100 -
 
 -
-
 
 ### Art 101 - Berlin-Klausel
 
@@ -1289,7 +1211,6 @@ Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### Art 102 - Inkrafttreten
 

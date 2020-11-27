@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 283 V v. 31.10.2006 I 2407
 
-
 ## § 1 Errichtung der Gesellschaft
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -39,7 +38,6 @@ Bekanntmachung vom 20. Januar 2003 (BGBl. I S. 98) und anderer,
 vergleichbarer privatwirtschaftlicher Projekte der
 Verkehrswegeinfrastruktur auf die Gesellschaft zu übertragen.
 Hoheitliche Befugnisse sind nicht übertragbar.
-
 
 ## § 2 Gegenstand der Gesellschaft
 
@@ -72,7 +70,6 @@ Mittel nach Absatz 1 werden zusätzlich im jeweils folgenden
 Haushaltsjahr, spätestens mit dem übernächsten Bundeshaushalt,
 bereitgestellt. Dabei sind die tatsächlichen Ist-Einnahmen und Ist-
 Ausgaben zu berücksichtigen.
-
 
 ## § 3 Berichte
 

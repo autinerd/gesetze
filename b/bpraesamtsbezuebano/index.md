@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 252
 
-
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes übertrage ich die Befugnis

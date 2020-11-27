@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3456
 
-
-
 ## (XXXX) Art 1 (weggefallen)
 
 -
-
 
 ## Art 2 Übergangsregelung
 
@@ -31,7 +28,6 @@ Stellenplan und Bewirtschaftungsgrundsätzen gemäß § 48 des Deutsche-
 Welle-Gesetzes wird von der Deutschen Welle erstmals für das Jahr 2006
 erstellt. Der Jahresabschluss gemäß § 55 des Deutsche-Welle-Gesetzes
 ist von der Deutschen Welle erstmals für das Jahr 2004 zu erstellen.
-
 
 ## Art 3
 

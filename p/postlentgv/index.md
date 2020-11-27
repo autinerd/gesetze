@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 9.5.2011 I 818
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14.
@@ -28,7 +27,6 @@ Buchstabe a des Gesetzes vom 9. November 2004 (BGBl. I S. 2774) neu
 gefasst worden ist, verordnet das Bundesministerium der Finanzen nach
 Anhörung des Vorstands der Deutschen Post AG im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1 Persönlicher Geltungsbereich, leistungsbezogene Entgelte
 
@@ -39,7 +37,6 @@ können Erfolgs-, Akquisitions- und Mengenzulagen nach den §§ 6 bis 8
 der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl. I S.
 1833), die durch die Verordnung vom 3. Dezember 1998 (BGBl. I S. 3650)
 geändert worden ist, gewährt werden.
-
 
 ## § 2 Leistungsentgelt
 
@@ -58,7 +55,6 @@ abgelaufenen Kalenderjahres.
 des auf den Beurteilungszeitraum folgenden Jahres gezahlt.
 Beurteilungszeitraum ist grundsätzlich das Kalenderjahr. Das
 Leistungsentgelt wird nicht auf die Besoldung angerechnet.
-
 
 ## § 3 Ermittlung des Niederlassungsbudgets für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
 
@@ -79,7 +75,6 @@ Organisationseinheit über die dem jeweiligen Budget zugrunde liegenden
 Daten (Zahl der im Jahresdurchschnitt beschäftigten Beamtinnen und
 Beamten, Verhältnis der Besoldungsgruppen zueinander) und die Höhe der
 zugewiesenen Budgets je Besoldungsgruppe.
-
 
 ## § 4 Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
 
@@ -150,7 +145,6 @@ Mutterschaftsgeld nach dem Mutterschutzgesetz gleich. Für die Dauer
 einer Elternzeit unterbleibt die Minderung bis zur Vollendung des
 zwölften Lebensmonats des Kindes.
 
-
 ## § 5 Durchführung der Leistungsbeurteilung für die Beamtinnen und Beamten des einfachen und des mittleren Dienstes
 
 (1) Die Leistungsbeurteilung ist unter Verwendung eines Formblatts
@@ -169,7 +163,6 @@ einen Beauftragten geschehen.
 (3) Der Betriebsrat erhält bis 15. April desselben Jahres eine
 Zusammenstellung der Ergebnisse der Leistungsbeurteilungen der
 einzelnen Besoldungsgruppen in anonymisierter Form.
-
 
 ## § 6 Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
 
@@ -217,7 +210,6 @@ Endgrundgehaltes das monatliche Grundgehalt.
 
 (3) § 4 Abs. 3 und 4 gilt entsprechend.
 
-
 ## § 7 Gesamtbeurteilung der Beamtinnen und Beamten des gehobenen und des höheren Dienstes
 
 (1) Die Gesamtbeurteilung ergibt sich zu gleichen Teilen aus der
@@ -229,7 +221,6 @@ Gesamtbeurteilungsstufe (§ 6 Abs. 2) zugeordnet.
 Jahres erhält der Betriebsrat der jeweiligen Organisationseinheit eine
 auf Besoldungsgruppen bezogene Zusammenstellung der
 Gesamtbeurteilungsstufen in anonymisierter Form.
-
 
 ## § 8 Leistungsbeurteilung der Beamtinnen und Beamten des gehobenen und höheren Dienstes
 
@@ -244,7 +235,6 @@ spätestens am 31. März des auf den Beurteilungszeitraum folgenden
 Jahres im Rahmen eines Gesprächs. Dies kann auch durch eine
 Beauftragte oder einen Beauftragten geschehen.
 
-
 ## § 9 Zielbewertung der Beamtinnen und Beamten des gehobenen und des höheren Dienstes
 
 (1) Die Zielbewertung ermittelt sich aus dem Verhältnis der
@@ -255,7 +245,6 @@ festgelegten Zielerreichungsstufen. § 8 gilt entsprechend.
 möglich, ist dies schriftlich festzuhalten. Die Höhe des
 Leistungsentgelts richtet sich in diesem Fall ausschließlich nach der
 Leistungsbeurteilung.
-
 
 ## § 10 Zielvereinbarung für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
 
@@ -295,7 +284,6 @@ Quartal nicht zustande, findet eine Zielbewertung nicht statt.
 Grundlage der Gesamtbeurteilung ist dann ausschließlich die
 Leistungsbeurteilung.
 
-
 ## § 11 Schlichtungsverfahren für die Leistungs- und Gesamtbeurteilung
 
 (1) Die Beamtin oder der Beamte kann gegen die Leistungsbeurteilung
@@ -329,7 +317,6 @@ begründen. Sie übermittelt die Empfehlung einschließlich der
 Begründung der Stelleninhaberin oder dem Stelleninhaber mit den
 Befugnissen einer oder eines Dienstvorgesetzten zur Entscheidung.
 
-
 ## § 12 Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
 
 Eine Leistungs- oder Gesamtbeurteilung findet nicht statt, wenn die
@@ -341,7 +328,6 @@ Gesamtbeurteilungsstufe als erreicht. Ist im vorangegangenen
 Beurteilungszeitraum keine Leistungs- oder Gesamtbeurteilung erfolgt,
 gilt die Gesamtbeurteilungsstufe „voll und ganz zufriedenstellend” als
 erreicht.
-
 
 ## § 13 Übergangsregelungen
 
@@ -403,7 +389,6 @@ Postsonderzahlungsverordnung.
 Bezügen für Dezember des jeweiligen Jahres ausgezahlt, spätestens aber
 mit den Bezügen des zweiten auf die Verkündung dieser Verordnung
 folgenden Kalendermonats.
-
 
 ## § 14 Inkrafttreten, Außerkrafttreten
 

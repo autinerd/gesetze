@@ -26,9 +26,7 @@ Zuletzt geändert durch
     Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
     Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Zweck und Ziel des Gesetzes
 
@@ -44,14 +42,12 @@ Vertretbarkeit zu erreichen, verfolgt dieses Gesetz das Ziel, dazu
 beizutragen, den Anteil Erneuerbarer Energien am Endenergieverbrauch
 für Wärme und Kälte bis zum Jahr 2020 auf 14 Prozent zu erhöhen.
 
-
 ### § 1a Vorbildfunktion öffentlicher Gebäude
 
 Öffentlichen Gebäuden kommt eine Vorbildfunktion im Rahmen des Zwecks
 und Ziels nach § 1 zu. Diese Vorbildfunktion kommt auch öffentlichen
 Gebäuden im Ausland zu, die sich im Eigentum der öffentlichen Hand
 befinden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -275,15 +271,7 @@ befinden.
 
     b)  Nichtwohngebäude jedes andere Gebäude.
 
-
-
-
-
-
-
-
 ## Teil 2 - Nutzung Erneuerbarer Energien
-
 
 ### § 3 Nutzungspflicht
 
@@ -330,10 +318,6 @@ Satz 2 gilt nicht, wenn Gebäude von der öffentlichen Hand nur
 
 2.  für bereits errichtete Gebäude, die keine öffentlichen Gebäude sind,
     eine Pflicht zur Nutzung von Erneuerbaren Energien festlegen.
-
-
-
-
 
 ### § 4 Geltungsbereich der Nutzungspflicht
 
@@ -388,10 +372,6 @@ Energie beheizt oder gekühlt werden, mit Ausnahme von
     Absatz 1 oder 2 der Art und dem Hauptzweck der Tätigkeit der
     Bundeswehr entgegensteht.
 
-
-
-
-
 ### § 5 Anteil Erneuerbarer Energien bei neuen Gebäuden
 
 (1) Bei Nutzung von solarer Strahlungsenergie nach Maßgabe der Nummer
@@ -437,7 +417,6 @@ Geothermie oder Umweltwärme bereitgestellt, so gilt der auch bei
 Wärmeerzeugung aus diesen Energieträgern geltende Anteil von 50
 Prozent am Wärme- und Kälteenergiebedarf.
 
-
 ### § 5a Anteil Erneuerbarer Energien bei grundlegend renovierten öffentlichen Gebäuden
 
 (1) Bei Nutzung von gasförmiger Biomasse nach Maßgabe der Nummer II.1
@@ -449,7 +428,6 @@ Prozent hieraus gedeckt wird.
 Nummern I bis IV der Anlage zu diesem Gesetz wird die Pflicht nach § 3
 Absatz 2 dadurch erfüllt, dass der Wärme- und Kälteenergiebedarf zu
 mindestens 15 Prozent hieraus gedeckt wird.
-
 
 ### § 6 Versorgung mehrerer Gebäude
 
@@ -469,7 +447,6 @@ Führung von Leitungen über ihre Grundstücke dulden.
 einer Liegenschaft stehen, ihren Wärme- und Kälteenergiebedarf
 insgesamt in einem Umfang decken, der der Summe der einzelnen
 Verpflichtungen nach § 5 oder § 5a entspricht.
-
 
 ### § 7 Ersatzmaßnahmen
 
@@ -517,7 +494,6 @@ Kälteenergiebedarfs von Gebäuden zur Verfügung gestellt wird und von
 diesen Dritten nicht zur Erfüllung einer Pflicht nach § 3 Absatz 1 bis
 4 genutzt wird.
 
-
 ### § 8 Kombination
 
 (1) Erneuerbare Energien und Ersatzmaßnahmen nach § 7 können zur
@@ -528,7 +504,6 @@ miteinander kombiniert werden.
 Erneuerbaren Energien und Ersatzmaßnahmen im Sinne des Absatzes 1 im
 Verhältnis zu der jeweils nach diesem Gesetz vorgesehenen Nutzung
 müssen in der Summe 100 ergeben.
-
 
 ### § 9 Ausnahmen
 
@@ -611,7 +586,6 @@ ferner, wenn
 Gebäuden im Ausland ferner, soweit ihrer Erfüllung und der
 Durchführung von Ersatzmaßnahmen nach § 7 im Einzelfall überwiegende
 Gründe am Belegenheitsort entgegenstehen.
-
 
 ### § 10 Nachweise
 
@@ -747,10 +721,6 @@ vorgesehen werden, dass
     angegeben sind, andere Nachweise nach Absatz 3 der zuständigen Behörde
     vorgelegt und aufbewahrt werden müssen.
 
-
-
-
-
 ### § 10a Information über die Vorbildfunktion
 
 Die öffentliche Hand muss über die Erfüllung der Vorbildfunktion im
@@ -769,10 +739,6 @@ insbesondere über Folgendes informieren:
 2.  im Falle der Ausnahme nach § 9 Absatz 2 Nummer 2 über die Berechnung
     und die Annahmen, die der Berechnung zugrunde gelegt worden sind.
 
-
-
-
-
 ### § 11 Überprüfung
 
 (1) Die zuständigen Behörden müssen zumindest durch geeignete
@@ -785,14 +751,11 @@ einschließlich der Wohnungen zu betreten. Das Grundrecht der
 Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
 insoweit eingeschränkt.
 
-
 ### § 12 Zuständigkeit
 
 Die Zuständigkeit der Behörden richtet sich nach Landesrecht.
 
-
 ## Teil 3 - Finanzielle Förderung
-
 
 ### § 13 Fördermittel
 
@@ -802,7 +765,6 @@ mit bis zu 500 Millionen Euro pro Jahr gefördert. Einzelheiten werden
 durch Verwaltungsvorschriften des Bundesministeriums für Umwelt,
 Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
 Bundesministerium der Finanzen geregelt.
-
 
 ### § 14 Geförderte Maßnahmen
 
@@ -983,9 +945,7 @@ Gesamtmaßnahme bezogen werden.
 (5) Fördermaßnahmen durch das Land oder durch ein Kreditinstitut, an
 dem der Bund oder das Land beteiligt sind, bleiben unberührt.
 
-
 ## Teil 4 - Schlussbestimmungen
-
 
 ### § 16 Anschluss- und Benutzungszwang
 
@@ -995,7 +955,6 @@ Benutzungszwangs an ein Netz der öffentlichen Fernwärme- oder
 Fernkälteversorgung ermächtigt, auch zum Zwecke des Klima- und
 Ressourcenschutzes Gebrauch machen.
 
-
 ### § 16a Installateure für Erneuerbare Energien
 
 Zur Fortbildung von Installateuren für den Einbau von Wärmepumpen oder
@@ -1003,7 +962,6 @@ von Anlagen zur Erzeugung von Strom, Wärme oder Kälte aus Biomasse,
 solarer Strahlungsenergie oder Geothermie können die Handwerkskammern
 Fortbildungsprüfungsregelungen nach § 42a der Handwerksordnung und
 nach Maßgabe des Anhangs IV der Richtlinie 2009/28/EG erlassen.
-
 
 ### § 17 Bußgeldvorschriften
 
@@ -1032,7 +990,6 @@ und 4 mit einer Geldbuße bis zu fünfzigtausend Euro und im Falle des
 Absatzes 1 Nr. 3 mit einer Geldbuße bis zu zwanzigtausend Euro
 geahndet werden.
 
-
 ### § 18 Erfahrungsbericht
 
 Die Bundesregierung hat dem Deutschen Bundestag bis zum 31. Dezember
@@ -1059,7 +1016,6 @@ Gesetz vorzulegen. Sie soll insbesondere über
 berichten. Der Erfahrungsbericht macht Vorschläge zur weiteren
 Entwicklung des Gesetzes.
 
-
 ### § 18a Berichte der Länder
 
 Damit die Bundesregierung die Berichte nach Artikel 22 der Richtlinie
@@ -1082,7 +1038,6 @@ berichten ihr die Länder erstmals bis zum 30. Juni 2011, dann bis zum
 Satz 1 Nummer 1 gilt nicht für den Bericht, der bis zum 30. Juni 2011
 vorzulegen ist. Die Berichte nach Satz 1 dürfen keine
 personenbezogenen Daten enthalten.
-
 
 ### § 19 Übergangsvorschriften
 
@@ -1134,11 +1089,9 @@ verfahrensfreie Errichtungen von Gebäuden ist dieses Gesetz in der
 Fassung anzuwenden, die zum Zeitpunkt des Beginns der Bauausführung
 gilt.
 
-
 ### § 20 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2009 in Kraft.
-
 
 ### Anlage Anforderungen an die Nutzung von Erneuerbaren Energien und Ersatzmaßnahmen
 

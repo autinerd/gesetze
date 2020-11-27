@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 673
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Absatz 1 Nummer 11 Satz 5 in Verbindung mit Satz 6
 des Finanzverwaltungsgesetzes in der Fassung der Bekanntmachung vom 4.
 April 2006 (BGBl. I S. 846, 1202) verordnet das Bundesministerium der
 Finanzen:
-
 
 ## § 1 Einrichtung, Zuständigkeit
 
@@ -38,7 +36,6 @@ bezeichneten Angehörigen des Bundesministeriums des Innern und seines
 Geschäftsbereiches. Der Bundesfamilienkasse beim Bundesverwaltungsamt
 können weitere Aufgaben übertragen werden, die im Zusammenhang mit der
 Festsetzung, Auszahlung und Rückforderung von Kindergeld stehen.
-
 
 ## § 2 Aufgabenübertragung
 
@@ -69,7 +66,6 @@ bleiben von einer Übertragung unberührt.
 Bundesverwaltungsamt bereits vor dem Inkrafttreten dieser Verordnung
 geschlossen wurden, gehen zum 3. Juni 2010 auf die Bundesfamilienkasse
 beim Bundesverwaltungsamt über.
-
 
 ## § 3 Inkrafttreten
 

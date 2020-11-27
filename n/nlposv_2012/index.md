@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2699
 
-
 ## Eingangsformel
 
 Auf Grund des § 30h Absatz 4 Satz 1 Nummer 1 und Nummer 1a des
@@ -28,9 +27,7 @@ für Finanzdienstleistungsaufsicht, die zuletzt durch Artikel 1 der
 Verordnung vom 20. November 2012 (BGBl. I S. 2343) geändert worden
 ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
 
 ### § 1 Anwendungsbereich
 
@@ -41,9 +38,7 @@ und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte
 Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) in
 der jeweils geltenden Fassung.
 
-
 ## Abschnitt 2 - Form und Inhalt der Mitteilungen
-
 
 ### § 2 Allgemeine Bestimmungen zur Mitteilungspflicht
 
@@ -53,7 +48,6 @@ Der Inhaber einer Netto-Leerverkaufsposition, für die er nach Artikel
 Mitteilungen elektronisch nach Maßgabe der §§ 5 und 6 in Verbindung
 mit den §§ 3 und 4 an die Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) zu übermitteln.
-
 
 ### § 3 Angaben zur Person des Positionsinhabers
 
@@ -143,7 +137,6 @@ Dokumente ausgestellt werden können.
 sowie Absatz 3 Satz 1 Nummer 1 bis 3 ist der Bundesanstalt spätestens
 im Anschluss an die nächste Mitteilung schriftlich mitzuteilen.
 
-
 ### § 4 Benennung einer Kontaktperson
 
 (1) Der Positionsinhaber hat eine natürliche Person zu benennen, die
@@ -194,9 +187,7 @@ Die Übermittlung hat nach Maßgabe des § 6 Absatz 1 Satz 2 Nummer 1 und
 der nächsten Mitteilung unverzüglich unter Nutzung des elektronischen
 Meldeverfahrens mitzuteilen.
 
-
 ## Abschnitt 3 - Übermittlung der Mitteilungen
-
 
 ### § 5 Art und Weise der Übermittlung
 
@@ -209,7 +200,6 @@ Verordnung (EU) Nr. 826/2012 zu verwenden.
 (2) Bei technischen Problemen hat die Mitteilung fristwahrend per Fax
 zu erfolgen. Die elektronische Mitteilung ist unverzüglich
 nachzuholen, sobald die Probleme behoben sind.
-
 
 ### § 6 Zulassung zur Teilnahme am elektronischen Meldeverfahren
 
@@ -275,7 +265,6 @@ Mitteilung ab, werden die Informationen nach den Sätzen 2 und 3 dem
 Positionsinhaber und der Kontaktperson dieser meldenden Person
 übermittelt.
 
-
 ### § 7 Dauer der Speicherung
 
 Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten
@@ -285,9 +274,7 @@ Mitteilung über den Ablauf des Jahres, in dem diese Veränderung
 Ablauf dieser Zeit hat die Bundesanstalt diese Daten aus ihrer
 Datenbank zu löschen.
 
-
 ## Abschnitt 4 - Veröffentlichung im Bundesanzeiger
-
 
 ### § 8 Allgemeine Bestimmungen zur Veröffentlichungspflicht; Auftragsnummer der Veröffentlichung
 
@@ -305,7 +292,6 @@ Formulare der Anhänge II und III der Delegierten Verordnung (EU) Nr.
 (3) Für jede Veröffentlichung vergibt der Betreiber des
 Bundesanzeigers eine Auftragsnummer und übermittelt diese der
 Kontaktperson.
-
 
 ### § 9 Identifikation des Positionsinhabers und seiner Kontaktperson beim Betreiber des Bundesanzeigers
 
@@ -326,7 +312,6 @@ Geschäftszeiten identifizieren.
 Benutzerkonten mit den dazugehörigen Passwörtern und Benutzernamen
 können für die Identifikation nach Absatz 1 verwendet werden.
 
-
 ### § 10 Übermittlung der Daten
 
 (1) Für die Übermittlung der Daten stellt der Betreiber des
@@ -340,9 +325,7 @@ Position nicht benötigt werden, bleiben leer.
 (2) Die Daten können auch im XML-Format übermittelt werden. Der
 Betreiber des Bundesanzeigers gibt dafür ein Schema vor.
 
-
 ## Abschnitt 5 - Mitteilung und Veröffentlichung durch Dritte
-
 
 ### § 11 Mitteilung und Veröffentlichung durch Dritte
 
@@ -371,7 +354,6 @@ veranlassen.
 (5) Die Benennung mehrerer Kontaktpersonen durch die meldende Person
 ist nur für die Mitteilungen gegenüber der Bundesanstalt zulässig.
 
-
 ### § 12 Eignung des Dritten
 
 (1) Geeignet ist eine meldende Person, wenn sie die Einhaltung der
@@ -391,7 +373,6 @@ einzuräumen.
 mangelnden Eignung und den Widerruf der Zulassung unverzüglich zu
 informieren.
 
-
 ### § 13 Pflichterfüllung bei Einschaltung eines Dritten
 
 Schaltet ein Positionsinhaber eine meldende Person ein, hat er seine
@@ -401,9 +382,7 @@ erforderlich, auch die Veröffentlichung im Bundesanzeiger vollständig
 und richtig innerhalb der in Artikel 9 Absatz 2 Satz 3 der Verordnung
 (EU) Nr. 236/2012 vorgeschriebenen Frist vorgenommen hat.
 
-
 ## Abschnitt 6 - Aufsichtsbefugnisse
-
 
 ### § 14 Befugnisse der Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers
 
@@ -441,9 +420,7 @@ Bundesanzeigers ist, darauf hinwirken, dass der Betreiber des
 Bundesanzeigers seine Pflichten erfüllt und die Missstände beseitigt
 werden.
 
-
 ## Abschnitt 7 - Schlussvorschrift
-
 
 ### § 15 Inkrafttreten, Außerkrafttreten
 

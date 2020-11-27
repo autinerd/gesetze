@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 21.12.2004 I 3603
 
-
 ## § 1 Anspruchsberechtigter, Fördergebiet
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
@@ -39,7 +38,6 @@ Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem
 Gebietsstand vom 3. Oktober 1990. Bei Investitionen im Sinne der §§ 3
 bis 4 gehört zum Fördergebiet nicht der Teil des Landes Berlin, in dem
 das Grundgesetz vor dem 3. Oktober 1990 gegolten hat.
-
 
 ## § 2 Betriebliche Investitionen
 
@@ -285,10 +283,6 @@ Wirtschaftsgütern, die einem der folgenden Vorgänge dienen:
 4.  Übernahme eines Betriebs, der geschlossen worden ist oder geschlossen
     worden wäre, wenn der Betrieb nicht übernommen worden wäre.
 
-
-
-
-
 ## § 3 Modernisierungsmaßnahmen an Mietwohngebäuden sowie Mietwohnungsneubau im innerörtlichen Bereich
 
 (1) Begünstigte Investitionen sind:
@@ -421,10 +415,6 @@ sind, der Zeitpunkt, in dem die Bauunterlagen eingereicht werden.
 2.  10 vom Hundert für den Teil der Bemessungsgrundlage, der auf
     Investitionen im Sinne des Absatzes 1 Nr. 4 entfällt.
 
-
-
-
-
 ## § 3a Erhöhte Investitionszulage für Modernisierungsmaßnahmen an Mietwohngebäuden im innerörtlichen Bereich
 
 (1) Begünstigte Investitionen sind:
@@ -507,7 +497,6 @@ einbezogen werden.
 (5) Die Investitionszulage beträgt 22 vom Hundert der
 Bemessungsgrundlage.
 
-
 ## § 4 Modernisierungsmaßnahmen an einer eigenen Wohnzwecken dienenden Wohnung im eigenen Haus
 
 (1) Begünstigt sind Herstellungs- und Erhaltungsarbeiten an einer
@@ -556,7 +545,6 @@ gehören nicht Aufwendungen für eine Wohnung, soweit die Aufwendungen
 (3) Die Investitionszulage beträgt 15 vom Hundert der
 Bemessungsgrundlage.
 
-
 ## § 5 Antrag auf Investitionszulage
 
 (1) Ehegatten, die gemeinsam Eigentümer einer Wohnung sind, können die
@@ -577,7 +565,6 @@ sind die Investitionen, für die eine Investitionszulage beansprucht
 wird, so genau zu bezeichnen, dass ihre Feststellung bei einer
 Nachprüfung möglich ist.
 
-
 ## § 5a Gesonderte Feststellung
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach
@@ -587,7 +574,6 @@ für Wirtschaftsgüter, die zum Anlagevermögen dieses Betriebs gehören,
 von dem für die gesonderte Feststellung zuständigen Finanzamt
 gesondert festzustellen. Die für die Feststellung erforderlichen
 Angaben sind in den Antrag nach § 5 Abs. 3 aufzunehmen.
-
 
 ## § 6 Anwendung der Abgabenordnung, Festsetzung und Auszahlung
 
@@ -652,7 +638,6 @@ Genehmigung festzusetzen, wenn sie für Unternehmen bestimmt ist, die
 des Bescheids aus den Einnahmen an Einkommensteuer oder
 Körperschaftsteuer auszuzahlen.
 
-
 ## § 7 Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
@@ -664,7 +649,6 @@ Ereignisses an zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf
 des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden
 ist.
 
-
 ## § 8 Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach §§ 263 und 264 des
@@ -673,14 +657,12 @@ der Begünstigung einer Person, die eine solche Straftat begangen hat,
 gelten die Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
 
-
 ## § 9 Ertragsteuerliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
 Anschaffungs- und Herstellungskosten und nicht die
 Erhaltungsaufwendungen.
-
 
 ## § 10 Anwendungsbereich
 
@@ -754,13 +736,11 @@ Gewährung von Investitionszulagen nicht überschritten wird.
 Gesetzes vom 15. Dezember 2003 (BGBl. I S. 2645) ist bei Investitionen
 anzuwenden, die nach dem 30. Juni 2001 begonnen worden sind.
 
-
 ## § 11 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
 bekannt zu machen.
-
 
 ## Anlage 1 (zu § 2 Abs. 2 Satz 2)
 
@@ -808,10 +788,6 @@ Sensible Sektoren sind:
     Abkommens auf staatliche Beihilfen im Luftverkehr, ABl. EG Nr. C 350
     S. 5 vom 10. Dezember 1994).
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 6 Nr. 3 und Abs. 7 Nr. 3)
 
 Fundstelle des Originaltexte: BGBl. I 2002, 4041;
@@ -852,7 +828,6 @@ kreisfreie Stadt Chemnitz, Landkreis Mittweida, Landkreis Meißen,
 kreisfreie Stadt Dresden,
 im Freistaat Thüringen:
 Landkreis Saale-Orla-Kreis, Landkreis Greiz.
-
 
 ## Anlage 3 (zu § 10 Abs. 3 und 4)
 

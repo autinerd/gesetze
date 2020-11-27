@@ -18,49 +18,27 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 64 G v. 8.12.2010 I 1864
 
-
 ## Erster Abschnitt -
-
-
 
 ### (XXXX) Art 1 bis 19 (weggefallen)
 
-
 ## Zweiter Abschnitt -
-
-
 
 ### (XXXX) Art 20 bis 22
 
-
-
 ## Dritter Abschnitt -
-
-
 
 ### (XXXX) Art 23 und 24
 
-
-
 ## Vierter Abschnitt -
-
-
 
 ### (XXXX) Art 25 bis 37
 
-
-
 ## Fünfter Abschnitt -
-
-
 
 ### (XXXX) Art 38 bis 40
 
-
-
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### Art 41 Überleitungsvorschrift zum Lastenausgleichsgesetz
 
@@ -73,7 +51,6 @@ und Rentenleistungen, die Vollwaisen oder Kinder beziehen, infolge der
 Artikel 14 Nr. 2 hinter dem entsprechenden Betrag für den Monat
 Dezember 1974 zurückbleibt, wird der Unterschiedsbetrag als
 Ausgleichszulage gewährt.
-
 
 ### Art 42 Übergangsregelung zum Gesetz über die Angleichung der Leistungen zur Rehabilitation
 
@@ -89,7 +66,6 @@ kommen würden. Führt die Neuberechnung zu einem höheren Krankengeld
 oder Übergangsgeld, so ist dieses vom Leistungsbeginn an, frühestens
 vom 1. Januar 1975 an, zu zahlen.
 
-
 ### Art 43 Übergangszuschlag nach dem Bundesversorgungsgesetz
 
 Soweit und solange die für die Kinder des Versorgungsberechtigten
@@ -100,7 +76,6 @@ Inkrafttreten dieses Gesetzes geltenden Rechts zugestanden hätten,
 zurückbleiben, wird ein Übergangszuschlag gewährt. Ist der Anspruch
 auf einen Übergangszuschlag einmal weggefallen, so lebt er nicht
 wieder auf.
-
 
 ### Art 44 Übergangsregelung zum Arbeitsförderungsgesetz
 
@@ -138,10 +113,7 @@ Bundesrates.
 Ansprüche auf Unterhaltsgeld nach § 44 Abs. 5 ist weiterhin § 44 Abs.
 5 Satz 2 in der bisherigen Fassung anzuwenden.
 
-
 ### Art 45 (weggefallen)
-
-
 
 ### Art 46 Übergangsregelung bei Außerkrafttreten zwischenstaatlicher Abkommen
 
@@ -210,20 +182,15 @@ gewährten, dem Kindergeld vergleichbaren Leistungen geboten ist, kann
 Kindergeld auch für das erste Kind bis zu einer Höhe von 10 Deutsche
 Mark monatlich gezahlt werden.
 
-
 ### Art 47
 
 -
-
 
 ### Art 48
 
 -
 
-
 ### Art 49 (weggefallen)
-
-
 
 ### Art 50 Inkrafttreten
 

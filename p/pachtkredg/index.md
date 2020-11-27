@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Nr. 4 G v. 8.11.1985 I 2065
 
-
 ## § 1
 
 Der Pächter eines landwirtschaftlichen Grundstücks kann an dem ihm
@@ -26,7 +25,6 @@ gehörenden Inventar einem Kreditinstitut zur Sicherung eines ihm
 gewährten Darlehens ein Pfandrecht (§ 1204 Abs. 1 des Bürgerlichen
 Gesetzbuchs) ohne Besitzübertragung nach Maßgabe dieses Gesetzes
 bestellen.
-
 
 ## § 2
 
@@ -42,7 +40,6 @@ die über die Fälligkeit der Forderung getroffenen Abreden ergeben.
 
 (2) Ds Kreditinstitut soll von der beabsichtigten Bestellung des
 Pfandrechts den Verpächter benachrichtigen.
-
 
 ## § 3
 
@@ -61,7 +58,6 @@ Abs. 1 bezeichneten Gericht niedergelegt worden ist. In der
 Vereinbarung muß das Inventarstück unter Angabe seiner kennzeichnenden
 Merkmale bezeichnet werden.
 
-
 ## § 4
 
 (1) Gehört ein Inventarstück nicht dem Pächter, so erwirbt der
@@ -79,7 +75,6 @@ Verpächters bestimmt sich ausschließlich nach § 11.
 (3) Die Vorschrift des § 935 des Bürgerlichen Gesetzbuchs bleibt
 unberührt.
 
-
 ## § 5
 
 (1) Erwirbt ein Dritter von dem Pächter ein mit dem Pfandrecht
@@ -95,13 +90,11 @@ Grenzen einer ordnungsmäßigen Wirtschaft geschieht und das
 Inventarstück von dem Grundstück entfernt wird, bevor der
 Pfandgläubiger sein Pfandrecht gerichtlich geltend gemacht hat.
 
-
 ## § 6
 
 Das Inventar haftet auch für die dem Gläubiger zu ersetzenden Kosten
 der Kündigung und der Rechtsverfolgung sowie für die Kosten der
 Verwerfung des Pfandes.
-
 
 ## § 7
 
@@ -110,13 +103,11 @@ Grundstücks oder im Wege der Zwangsvollstreckung erworben sind,
 bleiben auch dann unberührt, wenn der Gläubiger hinsichtlich solcher
 Rechte in gutem Glauben ist.
 
-
 ## § 8
 
 Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf seine
 Ansprüche die für die Ansprüche aus dem Eigentum geltenden
 Vorschriften entsprechende Anwendung.
-
 
 ## § 9
 
@@ -124,7 +115,6 @@ Beabsichtigt der Verpächter oder das Kreditinstitut, das Inventar zu
 verwerten, so sollen sie sich unter dem Gesichtspunkt der
 Aufrechterhaltung des Betriebes über die Art des Vorgehens
 verständigen.
-
 
 ## § 10
 
@@ -144,7 +134,6 @@ des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 Pfandgläubiger nach dem Eintritt der Verkaufsberechtigung von dem
 Pächter die Herausgabe der zu verkaufenden Inventarstücke verlangen.
 
-
 ## § 11
 
 (1) Der Verpächter kann der Verwertung des Inventars nach Maßgabe des
@@ -162,7 +151,6 @@ Anspruch darauf erhebt.
 (2) Die Vorschriften des Absatzes 1 finden entsprechende Anwendung,
 wenn der Verpächter sein gesetzliches Pfandrecht geltend macht.
 
-
 ## § 12
 
 Die Vorschriften des § 11 Abs. 1 Satz 2, 4, Abs. 2 finden auch
@@ -170,7 +158,6 @@ Anwendung, wenn ein Dritter die Zwangsvollstreckung in Inventarstücke
 betreibt und das Kreditinstitut und der Verpächter gemäß § 805 der
 Zivilprozeßordnung ihren Anspruch auf vorzugsweise Befriedigung aus
 dem Erlös geltend machen.
-
 
 ## § 13
 
@@ -182,7 +169,6 @@ Pfandrecht kann nicht ohne die Forderung übertragen werden.
 
 (2) Wird bei der Übertragung der Forderung der Übergang des
 Pfandrechts ausgeschlossen, so erlischt das Pfandrecht.
-
 
 ## § 14
 
@@ -197,7 +183,6 @@ Pfandrecht aufgebe.
 Pächters verpflichtet, eine öffentlich beglaubigte Erklärung darüber
 auszustellen, daß das Pfandrecht erloschen ist. Die Kosten der
 Erklärung hat der Pächter zu tragen und auf Verlangen vorzuschießen.
-
 
 ## § 15
 
@@ -218,7 +203,6 @@ Zeitpunktes der Niederlegung mitzuteilen.
 Pächter auf Antrag herauszugeben; zum Nachweis des Erlöschens genügt
 die in § 14 Abs. 3 bezeichnete Erklärung.
 
-
 ## § 16
 
 (1) Die Einsicht der bei dem Amtsgericht niedergelegten
@@ -231,7 +215,6 @@ Verlangen zu beglaubigen.
 von dem Amtsgericht, in dessen Bezirk der Sitz seines Betriebes liegt,
 zu bescheinigen, daß bei dem Amtsgericht kein Verpfändungsvertrag
 niedergelegt worden ist.
-
 
 ## (XXXX) §§ 17 bis 19 (weggefallen)
 

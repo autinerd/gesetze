@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1967, 2581
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 5 Buchstabe a) des Gesetzes vom 15. September
@@ -27,7 +25,6 @@ Auf Grund des Artikels 5 Buchstabe a) des Gesetzes vom 15. September
 Bundesrepublik Deutschland und dem Vereinigten Königreich
 Großbritannien und Nordirland über Soziale Sicherheit wird mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -50,16 +47,11 @@ Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs.
 
     bestimmt.
 
-
-
-
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 6
 Satz 2 des Gesetzes vom 15. September 1965 auch im Lande Berlin.
-
 
 ## § 3
 
@@ -69,7 +61,6 @@ Satz 2 des Gesetzes vom 15. September 1965 auch im Lande Berlin.
 Vereinbarung zur Durchführung des Abkommens außer Kraft tritt.
 
 (3)
-
 
 ## Schlußformel
 

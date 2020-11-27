@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 29 G v. 24.2.2012 I 212
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für
@@ -88,13 +87,6 @@ Zuletzt geändert durch
     e)  Inertabfälle oder unverschmutzter Boden handelt und die Lagerung nicht
         länger als drei Jahre dauert.
 
-
-
-
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
@@ -119,10 +111,6 @@ Im Sinne dieser Verordnung sind:
     2004/35/EG (ABl. L 102 vom 11.4.2006, S. 15) als eine solche
     eingestuft wird.
 
-
-
-
-
 ## § 3 Errichtung, Betrieb, Stilllegung und Nachsorge
 
 Eine Beseitigungsanlage für Gewinnungsabfälle ist so zu errichten, zu
@@ -138,7 +126,6 @@ Kreislaufwirtschaftsgesetzes durch die Anlage nicht beeinträchtigt
 wird, gelten § 3 Absatz 3, § 4, § 7 Absatz 1, die §§ 8, 9, 11, 12 und
 13 der Deponieverordnung entsprechend.
 
-
 ## § 4 Stabilitätsnachweis
 
 Setzt der Erzeuger von Gewinnungsabfällen diese zu Bau- oder
@@ -153,10 +140,6 @@ zu treffen, durch die
 
 3.  der ordnungsgemäße Einsatz kontrolliert wird.
 
-
-
-
-
 ## § 5 Abfallbewirtschaftungsplan
 
 Der Erzeuger von Gewinnungsabfällen hat einen
@@ -168,7 +151,6 @@ alle fünf Jahre zu überprüfen und anzupassen, soweit sich der Betrieb
 der Anlage, das Ablagerungsverfahren oder der Gewinnungsabfall
 wesentlich verändert haben. Alle Anpassungen nach Satz 2 sind der
 zuständigen Behörde anzuzeigen.
-
 
 ## § 6 Vermeidung schwerer Unfälle und Information
 
@@ -216,7 +198,6 @@ schweren Unfalls der zuständigen Behörde unverzüglich alle
 erforderlichen Informationen zur Verfügung zu stellen, um die Folgen
 des Unfalls für das Wohl der Allgemeinheit zu minimieren.
 
-
 ## § 7 Sicherheitsleistung
 
 Der Betreiber einer Anlage der Kategorie A hat vor dem Beginn der
@@ -229,7 +210,6 @@ einer Sicherheit verlangen, wenn die Besorgnis besteht, dass Auflagen
 und Bedingungen zur Rekultivierung der Anlage, die mit der
 Betriebszulassung angeordnet werden, nicht erfüllt werden. Für die
 Sicherheit gilt § 18 der Deponieverordnung entsprechend.
-
 
 ## § 8 Antrag, Anzeige
 
@@ -253,7 +233,6 @@ vier Jahre darauf zu überprüfen, ob zur Einhaltung des Standes der
 Technik weitere Bedingungen, Auflagen oder Befristungen angeordnet
 oder geändert werden müssen.
 
-
 ## § 9 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
@@ -267,14 +246,12 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 6 Absatz 6 eine Information nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
-
 ## § 10 Übergangsvorschriften
 
 Beseitigungsanlagen für Gewinnungsabfälle, die am 1. Mai 2008
 zugelassen waren oder die bis zu diesem Zeitpunkt bereits in Betrieb
 sind, müssen spätestens am 1. Mai 2012 die Anforderungen der §§ 3 bis
 6 und bis zum 1. Mai 2014 die Anforderungen nach § 7 erfüllen.
-
 
 ## Anhang (zu § 5) Abfallbewirtschaftungsplan
 

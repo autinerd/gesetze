@@ -22,13 +22,10 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 3.2.2009 I 150
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -42,7 +39,6 @@ und vom 28. Oktober 1980 und 20. Januar 1985 der Anlage 3 des
 Übereinkommens vom 1. September 1970 wird zugestimmt. Die Änderungen
 werden nachstehend mit einer amtlichen deutschen Übersetzung
 veröffentlicht.
-
 
 ## Art 2
 
@@ -62,7 +58,6 @@ Bundesgesetzblatt bekannt machen, soweit eine Rechtsverordnung nach
 Absatz 1 in Kraft getreten ist. Maßgeblicher Zeitpunkt ist der Tag des
 Inkrafttretens der jeweiligen Rechtsverordnung.
 
-
 ## Art 3
 
 (1) Zuständige Behörden im Sinne der Anlage 1 - Anhang 1 Ziffer 2
@@ -77,7 +72,6 @@ Beförderungsmittel auf ihre Übereinstimmung mit den in dem
 Übereinkommen vorgeschriebenen Normen von den nach Landesrecht
 zuständigen Behörden anerkannt bzw. hiermit beauftragt worden sind.
 
-
 ## Art 4
 
 In dem Gesetz vom 26. April 1974 (BGBl. 1974 II S. 565) zu dem in
@@ -88,17 +82,12 @@ Artikel 1 angeführten Übereinkommen werden
 
 2.  Artikel 3 Satz 2 gestrichen.
 
-
-
-
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 6
 

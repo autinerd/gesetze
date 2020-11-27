@@ -21,13 +21,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 72 V v. 31.10.2006 I 2407
 
-
 ## § 1 Zielsetzung
 
 Ziel dieses Gesetzes ist die Erhaltung der Meeresumwelt sowie deren
 Schutz vor Verschmutzung durch das Einbringen von Abfällen oder
 anderen Stoffen und Gegenständen.
-
 
 ## § 2 Sachlicher Geltungsbereich
 
@@ -65,7 +63,6 @@ Land aus zugänglich sind.
 
 (3) Dieses Gesetz gilt nicht für Schiffe und Luftfahrzeuge der
 Bundeswehr.
-
 
 ## § 3 Begriffsbestimmungen
 
@@ -112,7 +109,6 @@ rechtmäßige Nutzung des Meeres wie die Fischerei behindern, die
 Qualität des Meerwassers verschlechtern und sonstige Umweltgüter
 beeinträchtigen.
 
-
 ## § 4 Einbringungsverbot, Ausnahmen
 
 Das Einbringen von Abfällen und sonstigen Stoffen und Gegenständen in
@@ -123,10 +119,6 @@ die Hohe See ist verboten. Ausgenommen von diesem Verbot sind:
 
 2.  Urnen zur Seebestattung (Behältnisse, die mit der Asche aus der
     Verbrennung eines menschlichen Leichnams gefüllt sind).
-
-
-
-
 
 ## § 5 Erlaubnispflicht, Bedingungen und Auflagen
 
@@ -152,12 +144,10 @@ bringt oder unangemessen hohe Kosten verursacht.
 für längstens ein Jahr im voraus für eine noch nicht bekannte Zahl von
 Einzelfällen erteilt werden.
 
-
 ## § 6 Verbrennungsverbot
 
 Die Verbrennung von Abfällen oder sonstigen Stoffen auf Hoher See ist
 verboten.
-
 
 ## § 7 Notlage
 
@@ -171,7 +161,6 @@ Anlage verantwortliche Person hat das Einbringen oder Einleiten
 unverzüglich unter Angabe der näheren Umstände und der Art und Menge
 der eingebrachten oder eingeleiteten Stoffe dem Bundesamt für
 Seeschiffahrt und Hydrographie zu melden.
-
 
 ## § 8 Erlaubnisbehörde
 
@@ -211,7 +200,6 @@ eingeschränkt.
 Nr. 1 beruhenden Rechtsverordnungen werden Gebühren und Auslagen
 erhoben.
 
-
 ## § 9 Verordnungsermächtigungen
 
 Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
@@ -230,10 +218,6 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
     oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen,
     daß der mit den Amtshandlungen verbundene Personal- und Sachaufwand
     gedeckt wird.
-
-
-
-
 
 ## § 10 Bußgeldvorschriften
 
@@ -265,7 +249,6 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ## § 11 Vollzugsbeamte
 
 Die in § 8 Abs. 2 bezeichneten Vollzugsbeamten des Bundes haben auf
@@ -274,7 +257,6 @@ nach den §§ 324, 326, 330 und 330a des Strafgesetzbuches die Rechte
 und Pflichten der Polizeibeamten nach den Vorschriften der
 Strafprozeßordnung und des Gesetzes über Ordnungswidrigkeiten. Sie
 sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
-
 
 ## § 12 Unberührtheit von Gesetzen
 
@@ -305,10 +287,6 @@ Dieses Gesetz berührt nicht
 
 5.  Gesetz vom 23. August 1994 zu internationalen Übereinkommen über den
     Schutz des Ostseegebietes und des Nordatlantiks (BGBl. II S. 1355).
-
-
-
-
 
 ## § 13 Inkrafttreten
 

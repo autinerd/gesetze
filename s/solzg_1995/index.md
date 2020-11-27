@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 7.12.2011 I 2592
 
-
 ## § 1 Erhebung eines Solidaritätszuschlags
 
 (1) Zur Einkommensteuer und zur Körperschaftsteuer wird ein
@@ -52,7 +51,6 @@ die Bemessungsgrundlage noch die Höhe des zu versteuernden Einkommens
 angegriffen werden. Wird die Bemessungsgrundlage geändert, ändert sich
 der Solidaritätszuschlag entsprechend.
 
-
 ## § 2 Abgabepflicht
 
 Abgabepflichtig sind
@@ -68,10 +66,6 @@ Abgabepflichtig sind
 3.  Körperschaften, Personenvereinigungen und Vermögensmassen, die nach §
     1 oder § 2 des Körperschaftsteuergesetzes körperschaftsteuerpflichtig
     sind.
-
-
-
-
 
 ## § 3 Bemessungsgrundlage und zeitliche Anwendung
 
@@ -220,7 +214,6 @@ zu ermitteln, wenn die Bemessungsgrundlage in Steuerklasse III mehr
 als 1 944 Euro und in den Steuerklassen I, II oder IV mehr als 972
 Euro beträgt.
 
-
 ## § 4 Zuschlagsatz
 
 Der Solidaritätszuschlag beträgt 5,5 Prozent der Bemessungsgrundlage.
@@ -232,14 +225,12 @@ außer Ansatz. Der Solidaritätszuschlag auf die Einkommensteuer nach §
 32d Absatz 3 und 4 des Einkommensteuergesetzes beträgt ungeachtet des
 Satzes 2 5,5 Prozent.
 
-
 ## § 5 Doppelbesteuerungsabkommen
 
 Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung
 im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen
 ermäßigt, so ist diese Ermäßigung zuerst auf den Solidaritätszuschlag
 zu beziehen.
-
 
 ## § 6 Anwendungsvorschrift
 

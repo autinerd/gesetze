@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 151
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der
@@ -29,7 +27,6 @@ Buchstabe a, c und d des Gesetzes vom 13. Dezember 2001 (BGBl. I S.
 3656) geändert worden ist, jeweils in Verbindung mit § 1 Abs. 2 der
 DPMA-Verordnung vom 1. April 2004 (BGBl. I S. 514), verordnet das
 Deutsche Patent- und Markenamt:
-
 
 ## § 1 Notwendigkeit der Hinterlegung; biologisches Material
 
@@ -66,7 +63,6 @@ worden, so bedarf es keiner weiteren Hinterlegung, sofern durch die
 erste Hinterlegung die Ausführbarkeit der weiteren Erfindung für den
 in § 7 festgelegten Zeitraum sichergestellt ist.
 
-
 ## § 2 Anerkannte Hinterlegungsstellen
 
 Anerkannt sind die internationalen Hinterlegungsstellen, die diesen
@@ -78,7 +74,6 @@ anerkannten Einrichtungen, welche die Gewähr für eine ordnungsgemäße
 Aufbewahrung und Herausgabe von Proben nach Maßgabe dieser Verordnung
 bieten und rechtlich, wirtschaftlich und organisatorisch vom Anmelder
 und vom Hinterleger unabhängig sind.
-
 
 ## § 3 Nachreichen des Aktenzeichens der Hinterlegung
 
@@ -106,7 +101,6 @@ nach § 31 Abs. 1 Satz 1 des Patentgesetzes besteht, oder im Fall der
 vorzeitigen Offenlegung spätestens mit der Abgabe der Erklärung des
 Anmelders nach § 31 Abs. 2 Nr. 1 des Patentgesetzes.
 
-
 ## § 4 Freigabeerklärung
 
 (1) Der Anmelder hat das hinterlegte biologische Material der
@@ -122,7 +116,6 @@ ist.
 unwiderruflich zu verpflichten, eine nach § 9 erforderlich werdende
 erneute Hinterlegung vorzunehmen oder durch einen Dritten vornehmen zu
 lassen.
-
 
 ## § 5 Zugang zu biologischem Material
 
@@ -209,7 +202,6 @@ Hinterlegungsstelle und dem Anmelder oder Schutzrechtsinhaber und im
 Fall der Dritthinterlegung auch dem Hinterleger eine Kopie des Antrags
 mit der in Absatz 5 Satz 2 vorgesehenen Bestätigung.
 
-
 ## § 6 Verpflichtungserklärung
 
 (1) Eine Probe wird nur dann herausgegeben, wenn der Antragsteller
@@ -239,7 +231,6 @@ herausgegeben, so hat dieser die Verpflichtungserklärung nach Absatz 1
 abzugeben. Gegenüber dem Sachverständigen ist der Antragsteller als
 Dritter im Sinne des Absatzes 1 Nr. 1 anzusehen.
 
-
 ## § 7 Aufbewahrungsdauer
 
 Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang des
@@ -247,7 +238,6 @@ letzten Antrags auf Abgabe einer Probe aufzubewahren, mindestens
 jedoch fünf Jahre über die gesetzlich bestimmte maximale Schutzdauer
 aller Schutzrechte, die auf das hinterlegte biologische Material Bezug
 nehmen, hinaus.
-
 
 ## § 8 Hinterlegung nach Maßgabe des Budapester Vertrags
 
@@ -257,7 +247,6 @@ Verpflichtungserklärung und die Aufbewahrungsdauer ausschließlich nach
 den Regeln des Budapester Vertrags und der zu diesem ergangenen
 Ausführungsordnung (BGBl. 1980 II S. 1104, 1122) in ihrer jeweils
 geltenden Fassung.
-
 
 ## § 9 Erneute Hinterlegung
 
@@ -276,19 +265,16 @@ unterzeichnete Erklärung beizufügen, in der bestätigt wird, dass das
 erneut hinterlegte biologische Material das Gleiche wie das
 ursprünglich hinterlegte Material ist.
 
-
 ## § 10 Zusammenarbeit mit dem Deutschen Patent- und Markenamt
 
 Das Deutsche Patent- und Markenamt gibt den Hinterlegungsstellen alle
 Informationen, die zur Erfüllung ihrer Aufgaben erforderlich sind.
-
 
 ## § 11 Übergangsregelung
 
 Diese Verordnung findet keine Anwendung auf Patent- oder
 Gebrauchsmusteranmeldungen, die vor ihrem Inkrafttreten eingereicht
 worden sind.
-
 
 ## § 12 Inkrafttreten
 

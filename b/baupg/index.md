@@ -24,7 +24,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 8.11.2011 I 2178
 
-
 ## § 1 Zweck
 
 Die Vorschriften dieses Gesetzes regeln das Inverkehrbringen von
@@ -39,7 +38,6 @@ Mitgliedstaaten über Bauprodukte (ABl. L 40 vom 11.2.1989, S. 12)
 anderer Rechtsakte der Europäischen Union. Öffentlich-rechtliche
 Vorschriften, die Anforderungen an die Verwendung von Bauprodukten
 stellen, bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -90,7 +88,6 @@ Wirtschaftsraum zur Umsetzung der Bauproduktenrichtlinie erlassen
 haben, dem Hersteller für Bauprodukte von dafür bestimmten
 Zulassungsstellen erteilte Brauchbarkeitsnachweise.
 
-
 ## § 3 Anwendungsbereich
 
 (1) Die Vorschriften dieses Gesetzes gelten für Bauprodukte, für die
@@ -140,7 +137,6 @@ nach § 5 Abs. 1 gelten die Vorschriften dieses Gesetzes.
 soweit sich ihr Inverkehrbringen nach Rechtsakten der Europäischen
 Gemeinschaften richtet.
 
-
 ## § 4 Allgemeine Anforderungen
 
 (1) Ein Bauprodukt darf nur in den Verkehr gebracht und frei gehandelt
@@ -172,7 +168,6 @@ CE-Kennzeichnung nach § 12 Abs. 1 nicht tragen.
 Gründen des allgemeinen Gesundheitsschutzes, des Arbeitsschutzes oder
 des Umweltschutzes weitergehend einschränken oder verbieten, bleiben
 unberührt.
-
 
 ## § 5 Brauchbarkeit
 
@@ -226,7 +221,6 @@ Nachweis der Konformität eine Erklärung des Herstellers nach § 8 Abs.
 6 oder in Verbindung mit § 8 Abs. 2 Satz 1 Nr. 2 und 6 vorschreibt,
 ist die Brauchbarkeit durch eine Erstprüfung des Bauprodukts nach § 9
 Abs. 4 durch eine hierfür anerkannte Prüfstelle nachzuweisen.
-
 
 ## § 6 Europäische technische Zulassung
 
@@ -298,7 +292,6 @@ Zulassungsstellen aus anderen Mitgliedstaaten der Europäischen Union
 oder anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum gelten auch in der Bundesrepublik Deutschland.
 
-
 ## § 7 Zulassungsstelle
 
 (1) Das Deutsche Institut für Bautechnik, Berlin, ist auf Grund des
@@ -323,7 +316,6 @@ oder anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum nach der Bauproduktenrichtlinie erteilten europäischen
 technischen Zulassungen nach Gegenstand, wesentlichem Inhalt und
 Fundstelle mit.
-
 
 ## § 8 Konformitätsnachweisverfahren
 
@@ -428,7 +420,6 @@ eines Konformitätsnachweises nach Absatz 1 berechtigt zu sein, oder
 ein unberechtigt mit solchen Angaben versehenes Bauprodukt in Verkehr
 zu bringen.
 
-
 ## § 9 Konformitätserklärung des Herstellers
 
 (1) Mit der Konformitätserklärung bestätigt der Hersteller oder sein
@@ -509,7 +500,6 @@ vorgenommen wird.
 
 (6) § 8 Abs. 6 Satz 4 ist entsprechend anzuwenden.
 
-
 ## § 10 Konformitätszertifikat
 
 Auf Antrag des Herstellers oder seines Vertreters erteilt die
@@ -553,7 +543,6 @@ Konformitätszertifikat von einer anerkannten Zertifizierungsstelle aus
 einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 erteilt, ist es in deutscher Sprache vorzulegen.
-
 
 ## § 11 Prüf-, Überwachungs- und Zertifizierungsstellen
 
@@ -620,7 +609,6 @@ Stadtentwicklung die Namen und Anschriften der anerkannten Stellen
 nach Absatz 1 und der Behörden nach Absatz 2 mitzuteilen sowie Angaben
 zum Umfang der Anerkennung oder der Aufgaben zu machen.
 
-
 ## § 12 CE-Kennzeichnung
 
 (1) Das Konformitätszeichen nach diesem Gesetz ist die CE-
@@ -667,7 +655,6 @@ die den vom Hersteller angewandten Rechtsvorschriften zugrunde liegen,
 entsprechend ihrer Veröffentlichung im Amtsblatt der Europäischen
 Gemeinschaften aufgeführt sein.
 
-
 ## § 13 Marktüberwachung; Informations- und Meldepflichten
 
 (1) Auf die Marktüberwachung im Hinblick auf die sich aus der
@@ -684,7 +671,6 @@ und die sie tragenden Gründe. Soweit in diesem Verfahren
 personenbezogene Daten übermittelt werden, dürfen diese nur für die
 Durchführung des Satzes 1 verwendet werden.
 
-
 ## § 14 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -695,7 +681,6 @@ Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
-
 
 ## § 15 Rechtsverordnungen
 
@@ -721,10 +706,6 @@ Haftpflichtversicherung zu fordern.
     Personen, Stellen, Überwachungsgemeinschaften und Behörden nach § 11
     Abs. 1 und 2 zu regeln und die gebührenpflichtigen Tatbestände und die
     Gebührensätze näher zu bestimmen.
-
-
-
-
 
 ## § 15a Rechtsverordnungen zur Umsetzung von Rechtsakten der Europäischen Gemeinschaften
 
@@ -758,13 +739,11 @@ werden ermächtigt, durch Rechtsverordnungen
 
 zu regeln.
 
-
 ## § 16 Benennung von notifizierten Stellen
 
 Die in § 11 Absatz 1 bestimmte Behörde ist zugleich notifizierende
 Behörde im Sinne von Artikel 40 Absatz 1 der Verordnung (EU) Nr.
 305/2011, sofern nichts anderes vorgesehen ist.
-
 
 ## § 17 (Inkrafttreten)
 

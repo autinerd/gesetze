@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 400
 
-
-
 ## (XXXX)
 
 Nach § 33 Abs. 5 und § 34 Abs. 2 Satz 2 des Bundesdisziplinargesetzes

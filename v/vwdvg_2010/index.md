@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1480
 
-
 ## § 1 Übermittlung und Verwendung
 
 (1) Die Finanzbehörden und die Bundesagentur für Arbeit übermitteln
@@ -69,7 +68,6 @@ Auskunftspflichtigen zu erheben.
 Rechtsvorschriften, die Entscheidungen, die nach den Absätzen 3 und 4
 erforderlich sind, im Benehmen mit den statistischen Ämtern der Länder
 und nach pflichtgemäßem Ermessen.
-
 
 ## § 2 Daten der Finanzbehörden
 
@@ -129,7 +127,6 @@ Zusätzlich übermitteln die Finanzbehörden aktuelle Daten über die
 Zusammensetzung von umsatzsteuerlichen Organschaften, für die Daten
 nach Satz 1 geliefert werden.
 
-
 ## § 3 Daten der Bundesagentur für Arbeit
 
 Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt
@@ -165,7 +162,6 @@ folgende Daten von Betrieben, die für Beschäftigte Meldungen nach §
 Das Statistische Bundesamt übermittelt die Daten an die statistischen
 Ämter der Länder jeweils für deren Zuständigkeitsbereich.
 
-
 ## § 4 Rückfragen
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -177,7 +173,6 @@ Satz 1 Nummer 1 bis 3 genannten Zwecke erforderlich ist. Für die nach
 Arbeit die Unstimmigkeiten nicht selbst fristgerecht beheben kann. Die
 Leiterinnen und Leiter der betroffenen Wirtschaftseinheiten sind
 auskunftspflichtig.
-
 
 ## § 5 Verordnungsermächtigung
 

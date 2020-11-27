@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Fahrlehrerlaubnis
-
-
 
 ### § 1 Erfordernis und Inhalt der Fahrlehrerlaubnis
 
@@ -67,7 +63,6 @@ welche die Fahrschule eingerichtet hat, als deren Inhaber. Von der
 Fahrlehrerlaubnis mit einem Zusatz nach § 2a Abs. 1 Satz 2 darf nur
 zur vorübergehenden und gelegentlichen Ausbildung von Fahrschülern
 Gebrauch gemacht werden.
-
 
 ### § 2 Voraussetzungen der Fahrlehrerlaubnis
 
@@ -173,7 +168,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates nähere
 Voraussetzungen für das Erfordernis eines Sprachtests zur Überprüfung
 der Kenntnisse nach Absatz 1 Satz 1 Nr. 8 festlegen.
 
-
 ### § 2a Voraussetzungen für die Erteilung der Fahrlehrerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat
 
 (1) Dem Bewerber um eine Fahrlehrerlaubnis, der Inhaber einer in einem
@@ -233,7 +227,6 @@ den Absätzen 2 und 3 festlegen.
 (6) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
 
-
 ### § 3 Antrag auf Erteilung der Fahrlehrerlaubnis
 
 In dem Antrag auf Erteilung der Fahrlehrerlaubnis hat der Bewerber
@@ -278,7 +271,6 @@ nach Satz 2 Nr. 7 und die Unterlagen nach Satz 2 Nr. 8 sind nach
 Abschluß der Ausbildung nachzureichen. Der Bewerber hat die Erteilung
 eines Führungszeugnisses zur Vorlage bei der Erlaubnisbehörde nach den
 Vorschriften des Bundeszentralregistergesetzes zu beantragen.
-
 
 ### § 3a Antrag auf Erteilung einer Fahrlehrerlaubnis nach § 2a
 
@@ -395,7 +387,6 @@ Bewerbers anfordern sowie Informationen darüber, dass keine
 berufsbezogenen verwaltungsrechtlichen und strafrechtlichen Sanktionen
 gegen den Bewerber vorliegen.
 
-
 ### § 3b Meldepflicht der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung nach § 2a Abs. 1 Satz 2
 
 Der Inhaber einer Fahrlehrerlaubnis zur vorübergehenden und
@@ -410,7 +401,6 @@ Fahrlehrerlaubnis nach § 2a Abs. 1 Satz 2 beigefügt waren,
 bescheinigten Situation ergeben. § 3a Abs. 5 Satz 2 gilt entsprechend.
 In dem Jahr der Erteilung der Fahrlehrerlaubnis nach § 2a Abs. 1 Satz
 2 ist eine Meldung entbehrlich.
-
 
 ### § 4 Fahrlehrerprüfung
 
@@ -460,7 +450,6 @@ Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates
 Einzelheiten über die Prüfung, insbesondere über
 Zulassungsvoraussetzungen, Inhalt, Gliederung, Verfahren, Rücktritt,
 Bewertung, Entscheidung und Wiederholung, zu regeln.
-
 
 ### § 5 Erteilung der Fahrlehrerlaubnis, Fahrlehrerschein
 
@@ -522,7 +511,6 @@ um bis zu drei Monate verlängert werden. Die Fahrlehrerlaubnis nach §
 2a Abs. 1 Satz 2 gilt als erteilt, wenn sie nicht vor Ablauf der
 jeweils maßgeblichen Frist versagt wird.
 
-
 ### § 6 Pflichten des Fahrlehrers, tägliche Höchstdauer des praktischen Fahrunterrichts
 
 (1) Der Fahrlehrer hat die Fahrschüler gewissenhaft auszubilden. Er
@@ -551,7 +539,6 @@ notwendigen Anforderungen an die Unterrichtsgestaltung, insbesondere
 an die Lehrpläne und die Unterrichtsmethoden sowie an die Überwachung
 des Unterrichts.
 
-
 ### § 7 Ruhen und Erlöschen der Fahrlehrerlaubnis
 
 (1) Die Fahrlehrerlaubnis ruht, solange ein Fahrverbot nach § 25 des
@@ -569,7 +556,6 @@ auf andere Weise erlischt.
 
 (3) Bei Ruhen oder Erlöschen der Fahrlehrerlaubnis ist der
 Fahrlehrerschein unverzüglich der Erlaubnisbehörde zurückzugeben.
-
 
 ### § 8 Rücknahme und Widerruf der Fahrlehrerlaubnis
 
@@ -596,7 +582,6 @@ niedergelassen ist.
 (4) Nach Rücknahme oder Widerruf der Fahrlehrerlaubnis ist der
 Fahrlehrerschein unverzüglich der Erlaubnisbehörde zurückzugeben.
 
-
 ### § 9 Erteilung einer neuen Fahrlehrerlaubnis
 
 (1) Wird nach Erlöschen (§ 7 Abs. 2), Rücknahme oder Widerruf (§ 8)
@@ -610,7 +595,6 @@ Bewerber die fachliche Eignung nicht mehr besitzt. Der Verzicht auf
 die Prüfung ist nicht zulässig, wenn seit dem Erlöschen, der Rücknahme
 oder dem Widerruf der Fahrlehrerlaubnis mehr als zwei Jahre
 verstrichen sind.
-
 
 ### § 9a Befristete Fahrlehrerlaubnis
 
@@ -646,7 +630,6 @@ praktische Ausbildung ein Berichtsheft zu führen. Es ist in
 Zeitabschnitte von einer Woche einzuteilen und wöchentlich sowie nach
 Abschluß der Ausbildung vom Ausbildungsfahrlehrer und vom Inhaber oder
 vom verantwortlichen Leiter der Ausbildungsfahrschule abzuzeichnen.
-
 
 ### § 9b Ausbildungsfahrlehrer und Inhalt der Ausbildung
 
@@ -684,10 +667,7 @@ Ausbildungsfahrlehrer, insbesondere an Inhalt und Durchführung des
 Einweisungsseminars nach Absatz 1 sowie an die Lehrpläne und die
 Unterrichtsmethoden nach Absatz 2.
 
-
 ## Zweiter Abschnitt - Fahrschulerlaubnis
-
-
 
 ### § 10 Erfordernis und Inhalt der Fahrschulerlaubnis
 
@@ -700,7 +680,6 @@ Fahrschülern Gebrauch gemacht werden.
 
 (2) Die Fahrschulerlaubnis wird auf Antrag für die Klasse BE, A, CE
 und DE erteilt. Im Übrigen ist § 1 Abs. 2 entsprechend anzuwenden.
-
 
 ### § 11 Voraussetzungen der Fahrschulerlaubnis
 
@@ -760,7 +739,6 @@ Voraussetzungen der Fahrschulerlaubnis und des Betriebs einer
 Fahrschule, insbesondere die Anforderungen an Unterrichtsräume,
 Lehrmittel und Lehrfahrzeuge sowie der Überwachung der Fahrschulen.
 
-
 ### § 11a Voraussetzungen für die Erteilung der Fahrschulerlaubnis bei Inhabern eines Befähigungsnachweises aus einem anderen Staat
 
 Dem Bewerber um eine Fahrschulerlaubnis, der Inhaber einer in einem
@@ -779,7 +757,6 @@ Fahrlehrertätigkeit im Inland vorgeschriebenen Anforderungen und die
 hierfür geforderte Ausbildung nach § 11 Abs. 1 Nr. 3 bis 5. Das
 Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des § 17
 keine Anwendung.
-
 
 ### § 12 Antrag auf Erteilung der Fahrschulerlaubnis
 
@@ -832,7 +809,6 @@ Bundeszentralregistergesetzes zu beantragen.
 (3) Die Erlaubnisbehörde hat die Angaben in den Unterlagen nach Absatz
 1 Nr. 4 bis 6 an Ort und Stelle zu prüfen. § 33 Abs. 1 Satz 2 gilt
 entsprechend.
-
 
 ### § 12a Antrag auf Erteilung der Fahrschulerlaubnis, die zur Niederlassung im Inland berechtigt, an Inhaber eines Befähigungsnachweises aus einem anderen Mitgliedstaat der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 
@@ -959,7 +935,6 @@ Verbindung mit Satz 2, entsprechend.
 1 Satz 2 Nr. 2 bis 4 an Ort und Stelle zu prüfen. § 33 Abs. 1 Satz 2
 gilt entsprechend.
 
-
 ### § 12b Antrag auf Erteilung der Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung an Inhaber eines Befähigungsnachweises aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 
 (1) In dem Antrag auf Erteilung einer Fahrschulerlaubnis zur
@@ -1054,7 +1029,6 @@ Absatz 2 Satz 1, 2 sowie Satz 3 letzter Halbsatz entsprechend.
 1 Satz 2 Nr. 3 bis 5 an Ort und Stelle zu prüfen. § 33 Abs. 1 Satz 2
 gilt entsprechend.
 
-
 ### § 12c Meldepflicht der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und gelegentlichen Fahrschülerausbildung
 
 Der Inhaber einer Fahrschulerlaubnis zur vorübergehenden und
@@ -1072,7 +1046,6 @@ bescheinigten Situation ergeben. In dem Jahr der Erteilung der
 Fahrschulerlaubnis zur vorübergehenden und gelegentlichen
 Fahrschülerausbildung nach § 11a Satz 2 in Verbindung mit § 2a Abs. 1
 Satz 2 ist eine Meldung nach Satz 1 entbehrlich.
-
 
 ### § 13 Erteilung der Fahrschulerlaubnis, Erlaubnisurkunde
 
@@ -1095,7 +1068,6 @@ Fahrlehrerschein zu vermerken. Hierzu ist der Schein unverzüglich nach
 der Erteilung oder dem Erlöschen der Fahrschulerlaubnis der
 Erlaubnisbehörde vorzulegen.
 
-
 ### § 14 Zweigstellen
 
 (1) Wer als Inhaber einer Fahrschule Zweigstellen der Fahrschule
@@ -1117,7 +1089,6 @@ und der §§ 15 bis 20 (Fortführen nach dem Tode des Inhabers,
 allgemeine Pflichten, Anzeigepflichten, Aufzeichnungen,
 Unterrichtsentgelte, Ruhen und Erlöschen der Erlaubnis) gelten
 entsprechend.
-
 
 ### § 15 Fortführen der Fahrschule nach dem Tod des Inhabers der Fahrschulerlaubnis
 
@@ -1144,7 +1115,6 @@ der Fahrschulerlaubnis nur Gebrauch gemacht werden, wenn die in Absatz
 1 genannten Personen oder eine andere als verantwortlicher Leiter des
 Ausbildungsbetriebs bestellte Person die Voraussetzungen des § 11 Abs.
 1 Nr. 1 bis 5 und Abs. 2 Satz 2 oder § 11a erfüllen.
-
 
 ### § 16 Allgemeine Pflichten des Inhabers der Fahrschule und des verantwortlichen Leiters des Ausbildungsbetriebs
 
@@ -1179,7 +1149,6 @@ Erklärungen im Rahmen von § 33 mit Wirkung für und gegen sämtliche
 Gesellschafter sowie die Verwahrung aller Aufzeichnungen und Nachweise
 für sämtliche Gesellschafter nach § 18 sowie die Vorlage der
 Aufzeichnungen und Nachweise bei der Erlaubnisbehörde.
-
 
 ### § 17 Anzeigepflichten des Inhabers der Fahrschule und des verantwortlichen Leiters des Ausbildungsbetriebs
 
@@ -1238,10 +1207,6 @@ Erlaubnisbehörde unverzüglich anzuzeigen:
     der Ausbildungsfahrlehrer und Vorlage von Nachweisen zu den
     Voraussetzungen nach § 21a Abs. 1 Nr. 1 bis 3.
 
-
-
-
-
 ### § 18 Aufzeichnungen
 
 (1) Der Inhaber der Fahrschule oder in den Fällen des § 11 Abs. 2, §
@@ -1283,7 +1248,6 @@ bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Ausgestaltung des Ausbildungsnachweises für Fahrschüler gemäß Absatz 1
 und des Tagesnachweises für den Fahrlehrer gemäß Absatz 2.
 
-
 ### § 19 Unterrichtsentgelte
 
 (1) Jeder Inhaber der Fahrschulerlaubnis bildet seine Entgelte frei,
@@ -1310,7 +1274,6 @@ Grundsätzen der Preisklarheit und der Preiswahrheit entsprechen.
 (2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Ausgestaltung des Aushanges nach Absatz 1 Satz 2 bis 5.
-
 
 ### § 20 Ruhen und Erlöschen der Fahrschulerlaubnis
 
@@ -1366,7 +1329,6 @@ verantwortlichen Leiter des Ausbildungsbetriebs bestellt wird.
 Erlaubnisurkunde, gegebenenfalls auch die Urkunde über die Erlaubnis
 zum Betrieb einer Zweigstelle der Erlaubnisbehörde unverzüglich
 zurückzugeben.
-
 
 ### § 21 Rücknahme und Widerruf der Fahrschulerlaubnis, Widerruf der Zweigstellenerlaubnis
 
@@ -1434,7 +1396,6 @@ Betrieb von Zweigstellen, nach Widerruf einer Erlaubnis zum Betrieb
 einer Zweigstelle die Urkunde über diese Erlaubnis unverzüglich der
 Erlaubnisbehörde zurückzugeben.
 
-
 ### § 21a Ausbildungsfahrschule
 
 (1) Eine Fahrschule, an der ein Fahrlehrer mit befristeter
@@ -1472,10 +1433,7 @@ der verantwortliche Leiter des Ausbildungsbetriebs die Anforderungen
 nach Absatz 1 nicht erfüllt oder nicht die Gewähr bietet, daß er den
 Verpflichtungen nach Absatz 2 nachkommt.
 
-
 ## Dritter Abschnitt - Fahrlehrerausbildungsstätten
-
-
 
 ### § 22 Notwendigkeit und sachlicher Geltungsbereich der amtlichen Anerkennung von Fahrlehrerausbildungsstätten
 
@@ -1486,7 +1444,6 @@ Erlaubnisbehörde.
 
 (2) Die Anerkennung wird auf Antrag für die Ausbildung zum Erwerb der
 Fahrlehrerlaubnis einzelner oder sämtlicher Klassen erteilt.
-
 
 ### § 23 Voraussetzungen der amtlichen Anerkennung
 
@@ -1527,7 +1484,6 @@ Unterrichtsräume, die Lehrmittel, die Lehrfahrzeuge und die
 Unterrichtsgestaltung, insbesondere an die Ausbildungspläne und die
 Unterrichtsmethoden der amtlich anerkannten
 Fahrlehrerausbildungsstätten.
-
 
 ### § 24 Antrag auf amtliche Anerkennung
 
@@ -1573,7 +1529,6 @@ Vertretungsbefugnis der für ihn handelnden Personen beizufügen.
 1 Nr. 3 bis 5 an Ort und Stelle zu prüfen. § 33 Abs. 1 Satz 2 gilt
 entsprechend.
 
-
 ### § 25 Erteilung der amtlichen Anerkennung, Anerkennungsurkunde
 
 (1) Die amtliche Anerkennung wird durch Aushändigung oder Zustellung
@@ -1596,7 +1551,6 @@ für Verkehr, Bau und Stadtentwicklung). Die Erlaubnisbehörde hat dem
 Kraftfahrt-Bundesamt die Angaben nach Satz 1 sowie jede Änderung
 dieser Angaben mitzuteilen.
 
-
 ### § 26 Allgemeine Pflichten des Inhabers und des verantwortlichen Leiters der amtlich anerkannten Fahrlehrerausbildungsstätte
 
 (1) Der Inhaber oder der verantwortliche Leiter der amtlich
@@ -1614,7 +1568,6 @@ genehmigten Ausbildungsplan angeboten und durchgeführt werden. Ein
 Abdruck des Ausbildungsplans (§ 23 Abs. 1 Nr. 5) ist dem
 Fahrlehreranwärter vor dem Abschluß des Ausbildungsvertrags
 auszuhändigen.
-
 
 ### § 27 Anzeigepflichten des Inhabers der amtlich anerkannten Fahrlehrerausbildungsstätte
 
@@ -1649,10 +1602,6 @@ der Erlaubnisbehörde unverzüglich anzuzeigen:
     über die Vertretungsbefugnis der für ihn handelnden Personen
     beizufügen.
 
-
-
-
-
 ### § 28 Aufzeichnungen
 
 (1) Der verantwortliche Leiter der amtlich anerkannten
@@ -1680,7 +1629,6 @@ Unterricht abgeschlossen worden ist, fünf Jahre lang aufzubewahren und
 der Erlaubnisbehörde und den von ihr beauftragten Personen oder
 Stellen (§ 33) auf Verlangen zur Prüfung vorzulegen.
 
-
 ### § 29 Rücknahme und Widerruf der amtlichen Anerkennung
 
 (1) Die amtliche Anerkennung ist zurückzunehmen, wenn bei ihrer
@@ -1707,10 +1655,7 @@ beruhenden Rechtsverordnungen obliegen.
 (4) Nach Rücknahme oder Widerruf der amtlichen Anerkennung ist die
 Anerkennungsurkunde der Erlaubnisbehörde unverzüglich zurückzugeben.
 
-
 ## Vierter Abschnitt - Sondervorschriften
-
-
 
 ### § 30 Fahrlehrer, Fahrschulen und Fahrlehrerausbildungsstätten bei Behörden
 
@@ -1771,10 +1716,7 @@ erteilt haben.
 (8) Die Fahrlehrerlaubnis der Bundeswehr kann in zusätzlichen Klassen
 erteilt werden.
 
-
 ## Fünfter Abschnitt - Seminarerlaubnis
-
-
 
 ### § 31 Erfordernis, Inhalt und Voraussetzung der Erlaubnis zur Durchführung von Aufbauseminaren (Seminarerlaubnis)
 
@@ -1834,10 +1776,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates nähere
 Anforderungen an die Veranstalter von Lehrgängen nach Absatz 2 Nr. 3
 sowie deren inhaltliche und zeitliche Gestaltung festlegen.
 
-
 ## Sechster Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 32 Zuständigkeiten
 
@@ -1873,10 +1812,6 @@ Gebietskörperschaften und Behörden.
 
 4.  in Angelegenheiten der Fahrlehrerausbildungsstätten die
     Erlaubnisbehörde des Sitzes der Ausbildungsstätte.
-
-
-
-
 
 ### § 33 Überwachung
 
@@ -1941,7 +1876,6 @@ Interesse an dem Ausschluss der Übermittlung der Daten hat,
 insbesondere wenn im Empfängerstaat ein angemessenes Datenschutzniveau
 nicht gewährleistet ist.
 
-
 ### § 33a Fortbildung
 
 (1) Jeder Fahrlehrer hat alle vier Jahre an einem jeweils dreitägigen
@@ -1977,7 +1911,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates nähere
 Anforderungen an die inhaltliche und zeitliche Gestaltung der
 Lehrgänge festlegen sowie eine Aufteilung der Lehrgänge im
 Ausnahmefall ermöglichen.
-
 
 ### § 34 Ausnahmen
 
@@ -2042,7 +1975,6 @@ Abs. 1 und 2, § 21a Abs. 1 Nr. 1 und 3, § 26 Abs. 2 Satz 2 und von den
 Vorschriften der auf § 11 Abs. 4 beruhenden Rechtsverordnungen
 zuzulassen, soweit dies aus dienstlichen Gründen geboten ist.
 
-
 ### § 34a Kosten
 
 (1) Für Amtshandlungen, einschließlich Prüfungen und Untersuchungen
@@ -2073,14 +2005,12 @@ Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die
 Kostenerhebung abweichend von den Vorschriften des
 Verwaltungskostengesetzes geregelt werden.
 
-
 ### § 35 Allgemeine Verwaltungsvorschriften
 
 Zur Durchführung dieses Gesetzes und der auf ihm beruhenden
 Rechtsverordnungen kann das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung mit Zustimmung des Bundesrates Allgemeine
 Verwaltungsvorschriften erlassen.
-
 
 ### § 36 Ordnungswidrigkeiten
 
@@ -2183,10 +2113,7 @@ fünfhundert Euro geahndet werden.
 
 (3) (weggefallen)
 
-
 ## Siebter Abschnitt - Registrierung
-
-
 
 ### § 37 Registerführung und Registerbehörden
 
@@ -2204,10 +2131,6 @@ Fahrlehrerausbildungsstätten führen.
     Maßnahmen, Entscheidungen und Erklärungen auf dem Gebiet des
     Fahrlehrerrechts.
 
-
-
-
-
 ### § 38 Zweck der Registrierung
 
 Die Eintragungen erfolgen
@@ -2218,10 +2141,6 @@ Die Eintragungen erfolgen
 
 2.  zur Beurteilung der Eignung und Zuverlässigkeit der einzutragenden
     Personen nach diesem Gesetz.
-
-
-
-
 
 ### § 39 Inhalt der Registrierung
 
@@ -2312,7 +2231,6 @@ Satz 2 in den Fällen des Satzes 1 Nr. 3 mit einem Zusatz nach § 11a
 Satz 2 in Verbindung mit § 2a Abs. 1 Satz 2 in den örtlichen
 Fahrlehrerregistern gespeichert.
 
-
 ### § 40 Übermittlung der Daten zur Registrierung
 
 (1) Die nach § 32 zuständigen Behörden oder Stellen teilen dem
@@ -2326,7 +2244,6 @@ Fahrlehrerausbildungsstätte im Bereich mehrerer Erlaubnisbehörden
 tätig, so teilen sich diese gegenseitig die nach § 39 Abs. 3
 gespeicherten Daten mit, soweit dies für die Überwachung nach § 33
 erforderlich ist.
-
 
 ### § 41 Übermittlung der Daten aus den Registern
 
@@ -2353,7 +2270,6 @@ zuständig sind, übermittelt werden, soweit dies für ihre
 Aufgabenerfüllung zu den in § 38 genannten Zwecken jeweils
 erforderlich ist.
 
-
 ### § 42 Abgleich der Daten mit dem Verkehrszentralregister
 
 (1) Das Kraftfahrt-Bundesamt prüft und stellt fest, ob im
@@ -2365,7 +2281,6 @@ Erlaubnisbehörden mit. Hierbei werden die Personendaten des
 Betreffenden, Art und Umfang der Eintragung, Datum der betreffenden
 Maßnahme, Entscheidung oder Erklärung sowie Aktenzeichen der Behörde
 oder des Gerichts mitgeteilt.
-
 
 ### § 43 Übermittlung von Daten an öffentliche Stellen außerhalb des Geltungsbereichs dieses Gesetzes
 
@@ -2406,7 +2321,6 @@ Stellen, die für Verwaltungsmaßnahmen auf dem Gebiet des
 Fahrlehrerrechts zuständig sind, § 55 des Straßenverkehrsgesetzes
 entsprechend.
 
-
 ### § 44 Verarbeitung und Nutzung der Daten für wissenschaftliche und statistische Zwecke
 
 Es gelten für die Verarbeitung und Nutzung der nach § 39 gespeicherten
@@ -2420,7 +2334,6 @@ Daten
 
 
 des Straßenverkehrsgesetzes entsprechend.
-
 
 ### § 45 Datenvergleich zur Beseitigung von Fehlern
 
@@ -2442,7 +2355,6 @@ vervollständigen.
 wenn Anlaß zu der Annahme besteht, daß die Datenbestände unrichtig
 oder unvollständig sind.
 
-
 ### § 46 Verarbeitung und Nutzung der Daten durch den Empfänger
 
 Der Empfänger darf die übermittelten Daten nur zu dem Zweck
@@ -2454,7 +2366,6 @@ nichtöffentliche Stelle, hat die übermittelnde Stelle ihn darauf
 hinzuweisen. Eine Verarbeitung oder Nutzung für andere Zwecke durch
 nichtöffentliche Stellen bedarf der Zustimmung der übermittelnden
 Stelle.
-
 
 ### § 47 Löschung der Daten
 
@@ -2486,7 +2397,6 @@ Die auf Grund des § 39 gespeicherten Daten sind
 zu löschen. Für die Löschung der nach § 42 übermittelten Daten gilt §
 29 des Straßenverkehrsgesetzes entsprechend.
 
-
 ### § 48 Ermächtigungsgrundlagen, Ausführungsvorschriften
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt
@@ -2494,10 +2404,7 @@ Rechtsverordnungen mit Zustimmung des Bundesrates über den näheren
 Inhalt einschließlich der Personendaten der nach § 39 zu speichernden
 Eintragungen.
 
-
 ## Achter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 49 Übergangsregelung
 
@@ -2597,14 +2504,12 @@ zur Fortbildung bis spätestens 1. Januar 2001 nachkommen.
 März 2008 geltenden Fassung erteilte Fahrlehrerlaubnis behält
 vorbehaltlich der vorstehenden Absätze ihre Gültigkeit.
 
-
 ### § 50 Inkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Oktober 1969 in Kraft.
 
 (2) § 22 Abs. 1 Satz 1 tritt zwei Jahre nach Inkrafttreten dieses
 Gesetzes in Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1103) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

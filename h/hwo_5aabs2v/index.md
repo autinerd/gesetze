@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1314, 1315
 
-
-
 ## § 1 Anlass und Zweck des Abrufverfahrens
 
 (1) Eine Handwerkskammer darf bei anderen Handwerkskammern im
@@ -43,7 +41,6 @@ um
 Familienname, Geburtsname und Vornamen sowie Geburtsdatum des
 Betriebsleiters und das Datum der Übernahme der Betriebsleitung
 übermitteln.
-
 
 ## § 2 Art der zu übermittelnden Daten
 
@@ -74,10 +71,6 @@ eingetragen ist:
 
 7.  weitere Betriebsstätten und Zweigniederlassungen, für die derselbe
     Betriebsleiter zuständig ist.
-
-
-
-
 
 ## § 3 Technisch-organisatorische Maßnahmen und Protokollierung
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 11.8.2009 I 2723
 
-
 ## Grundvorschrift
-
-
 
 ### § 1
 
@@ -59,14 +56,9 @@ ist. Die Bundesregierung hat die Feststellung aufzuheben, wenn die
 Voraussetzungen hierfür entfallen oder wenn der Bundestag und der
 Bundesrat es verlangen.
 
-
 ## Erster Teil - Die Leistungen
 
-
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 #### § 2
 
@@ -142,7 +134,6 @@ Bereitstellungsbescheids (§ 36 Abs. 3) und während des
 Verteidigungsfalls oder nach einer Feststellung der Bundesregierung
 gemäß § 1 Abs. 2 finden die Sätze 1 und 2 keine Anwendung.
 
-
 #### § 3
 
 (1) Leistungen dürfen nur angefordert werden, wenn der Bedarf auf
@@ -176,7 +167,6 @@ die Zwecke der Verteidigung unumgänglich notwendig ist.
 (6) Alle Anforderungen sind so zu gestalten und durchzuführen, daß
 keinem Betroffenen vermeidbare Nachteile entstehen. Der Lebensbedarf
 des Betroffenen muß gewährleistet bleiben.
-
 
 #### § 4
 
@@ -246,7 +236,6 @@ Pflegeanstalten oder andere der Gesundheitspflege dienende
 Einrichtungen sollen ebenfalls nur zu den in Satz 1 genannten Zwecken
 angefordert werden.
 
-
 #### § 5
 
 (1) Leistungen können nur Behörden anfordern, die durch
@@ -315,7 +304,6 @@ zuständig sind.
 Bundeswehrverwaltung die Bedürfnisse für andere verteidigungswichtige
 Aufgaben und für den Schutz der Zivilbevölkerung zu berücksichtigen.
 
-
 #### § 6
 
 (1) Obliegt die Ausführung dieses Gesetzes Anforderungsbehörden der
@@ -332,7 +320,6 @@ kraft staatlichen Auftrags unter Haftung des Auftraggebers. Die
 Verwaltungskosten der Gemeinden und der Gemeindeverbände werden vom
 Land erstattet.
 
-
 #### § 7
 
 (1) Die Anforderungsbehörden fordern die Leistungen in der Regel auf
@@ -344,7 +331,6 @@ Bedarfs und der Zeitpunkt für die Bewirkung der Leistung anzugeben.
 Bundesregierung mit Zustimmung des Bundesrates bestimmt. Die
 Ermächtigung zum Erlaß der Rechtsverordnung kann auf die
 Landesregierungen übertragen werden.
-
 
 #### § 8
 
@@ -361,7 +347,6 @@ Anforderungsgegenstände zum Gebrauch überlassen oder für den die
 Verkehrsleistungen erbracht werden sollen. Satz 1 gilt entsprechend
 für die Anforderung von Verkehrsmitteln auf Grund des § 2 Abs. 1 Nr. 2
 des Gesetzes.
-
 
 #### § 9
 
@@ -403,7 +388,6 @@ in deren Bezirk eine Mehrzahl von gleichartigen Leistungen erbracht
 werden soll und die Übertragung zur Beschleunigung der Anforderung
 erforderlich ist.
 
-
 #### § 10
 
 (1) Der Eigentümer kann eine Anforderung nach § 2 Abs. 1 Nr. 2
@@ -434,10 +418,7 @@ Eigentum widersprechen und die Anforderung der ganzen Sache zu
 Eigentum verlangen, wenn der andere Teil für ihn keinen oder nur einen
 unverhältnismäßig geringen Wert hätte.
 
-
 ### Zweiter Abschnitt - Rechtliche Wirkungen der Leistungsanforderung
-
-
 
 #### § 11
 
@@ -448,14 +429,12 @@ jedoch von der Verpflichtung zu wiederkehrenden Leistungen aus einem
 Miet- oder Pachtverhältnis befreit, solange ihm durch die Anforderung
 die Nutzung der Sache in vollem Umfang entzogen wird.
 
-
 #### § 12
 
 Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 1, 3 bis 5, 7 und 8
 dürfen auch diejenigen, die nicht Leistungspflichtige sind, Rechte zur
 Nutzung der Sache nicht ausüben, soweit diese den Rechten des
 Leistungsempfängers entgegenstehen würden. § 11 gilt sinngemäß.
-
 
 #### § 13
 
@@ -488,7 +467,6 @@ Rechte, die zum Besitz oder zur Nutzung der Sache berechtigen. Im Fall
 des Absatzes 3 gilt bis zum Eigentumserwerb des Leistungsempfängers §
 11 sinngemäß.
 
-
 #### § 14
 
 Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr.
@@ -496,10 +474,7 @@ Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr.
 Annahme des Angebots hat der Leistungsempfänger dem
 Leistungspflichtigen gegenüber unverzüglich zu erklären.
 
-
 ### Dritter Abschnitt - Auskunftspflicht
-
-
 
 #### § 15
 
@@ -535,10 +510,7 @@ Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
 es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
 der für ihn tätigen Personen handelt.
 
-
 ### Vierter Abschnitt - Leistungsvorbereitungen
-
-
 
 #### § 16
 
@@ -553,10 +525,7 @@ wird.
 (3) Anforderungsbehörde für die Leistungsvorbereitungen ist die für
 die Anforderung der Leistung zuständige Behörde.
 
-
 ### Fünfter Abschnitt - Pflichten der Beteiligten
-
-
 
 #### § 17
 
@@ -592,7 +561,6 @@ Sache versehen hat, wegzunehmen. Im Fall der Wegnahme ist er
 verpflichtet, die Sache auf seine Kosten in den vorigen Stand zu
 versetzen. § 258 Satz 2 des Bürgerlichen Gesetzbuchs gilt sinngemäß.
 
-
 #### § 18
 
 (1) Der Leistungsempfänger ist verpflichtet, die Leistung abzunehmen
@@ -613,7 +581,6 @@ herauszugeben.
 Leistung eine Entschädigung zu zahlen oder Ersatz zu leisten,
 bestimmen sich nach den Vorschriften des Sechsten Abschnitts.
 
-
 #### § 19
 
 Die Vorschriften des § 17 Abs. 1 und 2 über die Pflichten des
@@ -621,10 +588,7 @@ Leistungspflichtigen gelten sinngemäß für den nach § 13 Abs. 1 Satz 2
 Herausgabepflichtigen. Ihm ist gleichfalls der Empfang der Leistung
 schriftlich zu bestätigen.
 
-
 ### Sechster Abschnitt - Die Abgeltung
-
-
 
 #### § 20
 
@@ -664,7 +628,6 @@ innerhalb von zwei Wochen seit der Entdeckung, spätestens jedoch
 innerhalb von sechs Monaten seit der Überlassung erfolgt. Zur Wahrung
 der Frist genügt die rechtzeitige Absendung der Anzeige.
 
-
 #### § 21
 
 Für Vermögensnachteile, die nicht schon durch die Entschädigung nach §
@@ -677,7 +640,6 @@ wenn und soweit dies zur Abwendung oder zum Ausgleich unbilliger
 Härten geboten erscheint. Die üblichen Umzugskosten sind in jedem Fall
 zu ersetzen.
 
-
 #### § 22
 
 (1) Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 9 hat der
@@ -689,7 +651,6 @@ Tarifen bemißt.
 Leistungsempfänger für Leistungen, die auf Grund des Vertrags erbracht
 werden, eine nach Absatz 1 zu bemessende Entschädigung zu zahlen,
 sofern nicht ein Entgelt vereinbart ist.
-
 
 #### § 23
 
@@ -722,13 +683,11 @@ ihren Rechten betroffen werden, sind nach Maßgabe der Artikel 52, 53
 und 53a des Einführungsgesetzes zum Bürgerlichen Gesetzbuch auf die
 Entschädigung des Eigentümers nach § 20 angewiesen.
 
-
 #### § 24
 
 Für Leistungsvorbereitungen (§ 16) sowie für Schäden, die infolge
 einer Beschlagnahme (§ 45) entstehen, ist dem Leistungspflichtigen
 eine angemessene Entschädigung zu zahlen.
-
 
 #### § 25
 
@@ -736,7 +695,6 @@ Im Fall einer Anforderung nach § 2 Abs. 1 Nr. 7 ist dem Eigentümer für
 seine zur Durchführung dieser Maßnahmen notwendigen besonderen
 Aufwendungen auf Verlangen angemessenen Vorschuß zu leisten. Dies gilt
 sinngemäß im Fall des § 16 Abs. 1.
-
 
 #### § 26
 
@@ -775,7 +733,6 @@ werden müssen, so hat der Leistungsempfänger für die hierdurch
 entstehenden Vermögensnachteile nach Maßgabe des § 21 Entschädigung zu
 leisten.
 
-
 #### § 27
 
 Hat die Anforderungsbehörde einen anderen als einen Bedarfsträger zum
@@ -783,7 +740,6 @@ Leistungsempfänger bestimmt (§ 8 Abs. 2), so hat der
 Leistungsempfänger Ersatz nach § 26 Abs. 1 nur zu leisten, wenn sich
 eine Ersatzpflicht bei sinngemäßer Anwendung der Vorschriften des
 bürgerlichen Rechts ergibt.
-
 
 #### § 28
 
@@ -808,7 +764,6 @@ Ersatzpflicht nach § 839 Abs. 1 des Bürgerlichen Gesetzbuchs nicht
 dadurch ausgeschlossen, daß die Voraussetzungen des Absatzes 1
 vorliegen.
 
-
 #### § 29
 
 (1) Wird die Entschädigung oder Ersatzleistung nicht innerhalb eines
@@ -827,7 +782,6 @@ Monate nach Bewirkung der Leistung oder der Fälligkeit des
 Ersatzanspruchs in den Fällen der §§ 26, 27 und 28, so sind die in
 Absatz 1 genannten Zinsen von diesem Zeitpunkt an zu zahlen.
 
-
 #### § 30
 
 In den Fällen der §§ 26 und 28 ist der Leistungsempfänger zur
@@ -837,12 +791,10 @@ Ersatzpflicht des Leistungsempfängers beruht, gegen andere Personen
 zustehen. Dies gilt im Fall des § 26 nicht für Ansprüche aus einem
 Versicherungsverhältnis.
 
-
 #### § 31
 
 Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der
 Entschädigung und Ersatzleistung.
-
 
 #### § 32
 
@@ -857,7 +809,6 @@ mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs sinngemäß.
 
 (3) Eine Pflicht zur Ersatzleistung nach den §§ 26 bis 28 besteht
 nicht, wenn der Schaden auch ohne die Anforderung eingetreten wäre.
-
 
 #### § 33
 
@@ -878,10 +829,7 @@ kann nicht zum Nachteil des Berechtigten geltend gemacht werden.
 
 (4) Im Fall des Absatzes 2 gilt § 30 sinngemäß.
 
-
 ### Siebenter Abschnitt - Verjährung
-
-
 
 #### § 34
 
@@ -902,20 +850,14 @@ Artikel 6 und 7 des Gesetzes vom 18. August 1961 zum NATO-
 Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S.
 1183) bleiben unberührt.
 
-
 ## Zweiter Teil - Verfahren
 
-
-
 ### Erster Abschnitt - Durchführung der Anforderung
-
-
 
 #### § 35
 
 Leistungen werden von der Anforderungsbehörde durch Leistungsbescheid
 angefordert.
-
 
 #### § 36
 
@@ -947,7 +889,6 @@ oder Verfügung der Anforderungsbehörde anzuzeigen.
 die gesetzlichen Grundlagen der Anforderung zu bezeichnen. Sie muß
 eine Rechtsmittelbelehrung erteilen.
 
-
 #### § 37
 
 (1) Der Leistungsbescheid ist dem Leistungspflichtigen (§ 9)
@@ -977,7 +918,6 @@ zugestellt wäre.
 bekannten Personen zugestellt werden, die durch die Anforderung in
 ihren Rechten betroffen werden.
 
-
 #### § 38
 
 Soll im Verteidigungsfall oder nach einer Feststellung der
@@ -994,18 +934,15 @@ zulässig, sofern die Ausführung von Verkehrsleistungen zum
 Gewerbebetrieb gehört oder das Fahrzeug dem Werkverkehr dient. § 37
 Abs. 2 Satz 2, Abs. 4 und 5 gilt entsprechend.
 
-
 #### § 39
 
 Auf Antrag des Bedarfsträgers hat die Anforderungsbehörde die
 sofortige Vollziehung des Leistungsbescheids anzuordnen. In diesem
 Fall kann die Widerspruchsbehörde die Vollziehung nicht aussetzen.
 
-
 #### § 40
 
 Leistungsvorbereitungen nach § 16 sind schriftlich anzufordern.
-
 
 #### § 41
 
@@ -1015,7 +952,6 @@ auf Antrag der Beteiligten durch Sachverständige festgestellt und ihr
 Wert geschätzt werden. Hierüber ist eine Niederschrift aufzunehmen,
 die den Beteiligten zuzustellen ist.
 
-
 #### § 42
 
 Bietet der Leistungspflichtige dem Leistungsempfänger zu angemessenen
@@ -1024,7 +960,6 @@ die angeforderte Leistung fortan zu erbringen ist, und erscheint die
 Erfüllung des Rechtsgeschäfts hinreichend gesichert, so ist der
 Leistungsbescheid aufzuheben, wenn der Leistungsempfänger den Abschluß
 des Rechtsgeschäfts ohne berechtigten Grund ablehnt.
-
 
 #### § 43
 
@@ -1078,7 +1013,6 @@ Abs. 2 gezahlten Entschädigung zugrunde zu legen. Eine in der
 Zwischenzeit eingetretene Veränderung des Wertes der Sache ist zu
 berücksichtigen.
 
-
 #### § 44
 
 (1) Auf die Erzwingung von Handlungen, Duldungen oder Unterlassungen,
@@ -1090,7 +1024,6 @@ Bedarfsträger sind, darf der Verwaltungszwang nicht angewandt werden.
 (2) Vollzugsbehörde ist die Anforderungsbehörde oder die Behörde, die
 von der Landesregierung bestimmt wird. Die Vollzugsbehörde kann die
 Verwaltungshilfe anderer Behörden in Anspruch nehmen.
-
 
 #### § 45
 
@@ -1111,11 +1044,9 @@ oder Arrestvollziehung gleich.
 (3) Beschlagnahmen werden unwirksam, wenn die Leistung nicht innerhalb
 zweier Monate angefordert wird.
 
-
 #### § 46
 
 (weggefallen)
-
 
 #### § 47
 
@@ -1141,10 +1072,6 @@ folgender Maßgabe:
     Ausfertigung des Bescheids ist gleichzeitig dem leistungspflichtigen
     Eigentümer oder Besitzer zu übermitteln.
 
-
-
-
-
 #### § 48
 
 (1) Das Verfahren vor den Verwaltungsbehörden ist kostenfrei. Dem
@@ -1156,16 +1083,12 @@ entstanden sind, werden ihm erstattet, wenn sie zur
 zweckentsprechenden Wahrnehmung seiner Rechte notwendig waren und sich
 sein Antrag als begründet erweist.
 
-
 ### Zweiter Abschnitt - Festsetzung von Entschädigung und Ersatzleistung
-
-
 
 #### § 49
 
 Entschädigung und Ersatzleistung werden durch die Anforderungsbehörden
 festgesetzt.
-
 
 #### § 50
 
@@ -1175,7 +1098,6 @@ und welche anderen Personen nach seiner Kenntnis ein Recht auf die
 Entschädigung oder Ersatzleistung geltend machen oder geltend machen
 können. Die Erklärung ist dem Zahlungspflichtigen und den als
 Berechtigte benannten Personen zuzustellen.
-
 
 #### § 51
 
@@ -1204,7 +1126,6 @@ des Zahlungsempfängers, so hat sie anzuordnen, daß der als
 Entschädigung oder Ersatzleistung zu zahlende Geldbetrag unter
 Verzicht auf das Recht der Rücknahme zu hinterlegen ist.
 
-
 #### § 52
 
 (1) Die Niederschrift über die Einigung nach § 51 Abs. 2 ist nach
@@ -1224,7 +1145,6 @@ Urkundsbeamten der Geschäftsstelle dieses Gerichts. In den Fällen der
 Amtsgericht, in dessen Bezirk die mit dem Festsetzungsverfahren
 befaßte Behörde ihren Sitz hat, an die Stelle des Prozeßgerichts.
 
-
 #### § 53
 
 (1) Hat der Entschädigungsberechtigte im Fall einer Anforderung nach §
@@ -1242,7 +1162,6 @@ Betrag an die Stelle der Sache. Im übrigen bestimmen sich die Rechte
 auf den hinterlegten Betrag nach dem zwischen den Beteiligten
 bestehenden Rechtsverhältnis.
 
-
 #### § 54
 
 (1) Durch Hinterlegung in den Fällen des § 51 Abs. 5 und des § 53 wird
@@ -1254,7 +1173,6 @@ ist.
 
 (3) Andere Vorschriften, nach denen die Hinterlegung geboten oder
 statthaft ist, bleiben unberührt.
-
 
 #### § 55
 
@@ -1276,7 +1194,6 @@ erstreckt, so sind auf das Verteilungsverfahren die Vorschriften über
 die Verteilung des Erlöses im Fall der Zwangsversteigerung sinngemäß
 anzuwenden.
 
-
 #### § 56
 
 (1) Der Bundesminister der Finanzen kann bei den Anforderungsbehörden
@@ -1285,7 +1202,6 @@ Vertreter des Finanzinteresses bestellen.
 (2) Der Vertreter des Finanzinteresses ist Beteiligter am
 Festsetzungsverfahren im Sinne des § 51, sofern er nicht auf die
 Beteiligung verzichtet.
-
 
 #### § 57
 
@@ -1297,7 +1213,6 @@ Aufsichtsbehörde.
 
 (2) Die Entscheidung über die Beschwerde ist den am
 Festsetzungsverfahren Beteiligten zuzustellen.
-
 
 #### § 58
 
@@ -1332,14 +1247,12 @@ erklären. Über den Antrag kann durch Beschluß vorab entschieden
 werden. Der Beschluß ist nicht anfechtbar. Die §§ 711 bis 720 der
 Zivilprozeßordnung sind entsprechend anzuwenden.
 
-
 #### § 59
 
 Hat eine oberste Bundes- oder Landesbehörde die Entschädigung oder
 Ersatzleistung festgesetzt, so ist die Klage vor dem ordentlichen
 Gericht binnen zwei Monaten nach Zustellung des Festsetzungsbescheids
 zu erheben.
-
 
 #### § 60
 
@@ -1366,11 +1279,9 @@ Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18.
 August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen
 (Bundesgesetzbl. II S. 1183). Absatz 1 Satz 2 findet Anwendung.
 
-
 #### § 61
 
 -
-
 
 #### § 62
 
@@ -1393,26 +1304,20 @@ Widerruf ausgesprochen wird, zu verbinden.
 (3) Auf das Verfahren einschließlich der Zwangsvollstreckung sind die
 Vorschriften der §§ 51 bis 61 sinngemäß anzuwenden.
 
-
 #### § 63
 
 Die Vorschriften dieses Abschnitts gelten für den Anspruch auf Ersatz
 von Verwendungen (§ 17 Abs. 2 und 4) sinngemäß.
 
-
 #### § 64
 
 Für die Zustellungen im Festsetzungsverfahren gilt § 47 entsprechend.
-
 
 #### § 65
 
 Für die Kosten des Festsetzungsverfahrens gilt § 48 entsprechend.
 
-
 ## Dritter Teil - Manöver und andere Übungen
-
-
 
 ### § 66
 
@@ -1441,12 +1346,10 @@ durchführen, als zu besorgen ist, daß diese zu einer weiteren oder
 erneuten wesentlichen Beeinträchtigung der wirtschaftlichen Nutzung
 des Grundstücks führen könnten.
 
-
 ### § 67
 
 Die Vorschriften des Ersten und Zweiten Teils finden nur insoweit
 Anwendung, als in diesem Teil auf sie Bezug genommen ist.
-
 
 ### § 68
 
@@ -1501,7 +1404,6 @@ Nationalparke zu verstehen.
 überflogen werden, soweit die Bedingungen für die Durchführung der
 Manöver dies ausdrücklich gestatten.
 
-
 ### § 69
 
 Manöver oder andere Übungen sind rechtzeitig bei den zuständigen
@@ -1512,7 +1414,6 @@ Wochen vor Beginn in ortsüblicher Weise durch die zuständige
 Landesbehörde bekanntgemacht werden. Davon abweichend können über die
 Anmeldung und Bekanntgabe von Übungen die Truppen mit den zuständigen
 Behörden besondere Vereinbarungen treffen.
-
 
 ### § 70
 
@@ -1540,7 +1441,6 @@ durchführt.
 die Bedingungen für die Durchführung der Manöver dies ausdrücklich
 vorsehen. Die zuständigen Behörden können auf Verlangen der Truppen
 solche Teilgebiete sperren.
-
 
 ### § 71
 
@@ -1570,14 +1470,12 @@ Anstalten oder Verbände, die diese Gebäude oder Sachen benutzen, durch
 die Anforderung in der Erfüllung ihrer Aufgaben nicht wesentlich
 beeinträchtigt werden.
 
-
 ### § 72
 
 Die Träger örtlicher Wasserversorgungsanlagen haben den Truppen nach
 den vorhandenen Möglichkeiten Wasser für den Quartier-, Biwak- und
 sonstigen Bedarf zu liefern. § 13 Abs. 1 Satz 1, Abs. 2, Abs. 4 Satz 1
 und Abs. 5 gilt sinngemäß.
-
 
 ### § 73
 
@@ -1590,12 +1488,10 @@ Belange gerecht abzuwägen.
 (2) § 71 Abs. 4 gilt entsprechend; § 3 Abs. 1 Satz 1 findet keine
 Anwendung.
 
-
 ### § 74
 
 Leistungspflichtig ist, wer die tatsächliche Gewalt über die
 angeforderte Sache ausübt.
-
 
 ### § 75
 
@@ -1603,7 +1499,6 @@ Leistungsempfänger ist die Körperschaft, in deren Dienst die Truppen
 stehen. Die zuständigen Stellen dieser Körperschaft bestimmen die
 Einheiten, Dienststellen oder Personen, zu deren Gunsten die
 Leistungen erbracht werden sollen.
-
 
 ### § 76
 
@@ -1619,7 +1514,6 @@ Leistungsempfänger den Leistungspflichtigen ohne grobe Fahrlässigkeit
 für entschädigungsberechtigt, so wird er durch die Zahlung an diesen
 befreit. Etwaige Ansprüche des Entschädigungsberechtigten gegen den
 Leistungspflichtigen als Empfänger der Zahlung bleiben unberührt.
-
 
 ### § 77
 
@@ -1644,7 +1538,6 @@ im Rahmen des Gemeingebrauchs verursacht wurde.
 verschlechtert oder beschädigt oder kann sie nicht zurückgegeben
 werden, so gilt § 26 Abs. 2 und 3 sinngemäß.
 
-
 ### § 78
 
 Wird durch die Benutzung eines Grundstücks zu Manövern oder anderer
@@ -1652,7 +1545,6 @@ Wird durch die Benutzung eines Grundstücks zu Manövern oder anderer
 eine Ertragsminderung oder ein sonstiger Nutzungsausfall verursacht
 wird, so ist eine Entschädigung zu gewähren, die diesen Nachteil
 angemessen ausgleicht.
-
 
 ### § 79
 
@@ -1662,12 +1554,10 @@ Anforderung der in § 73 aufgeführten Manöverleistungen sind die in § 5
 Abs. 2 bezeichneten Behörden zuständig. Die Vorschriften des § 6
 finden sinngemäß Anwendung.
 
-
 ### § 80
 
 Die Vorschriften des § 7 Abs. 1 und 2 und des § 9 Abs. 2 finden
 Anwendung.
-
 
 ### § 81
 
@@ -1690,7 +1580,6 @@ Vereinbarung geregelt werden. Der Zahlungspflichtige hat auf den
 Abschluß einer Vereinbarung mit den Berechtigten hinzuwirken. Kommt
 eine Vereinbarung nicht zustande, so gilt § 51 Abs. 3 bis 5.
 
-
 ### § 82
 
 (1) Das Verfahren für die Abgeltung der Schäden, für welche die
@@ -1709,7 +1598,6 @@ Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183).
 (2) Stehen uniformierte Verbände oder Einheiten im Dienst eines
 Landes, so gelten die landesrechtlichen Vorschriften.
 
-
 ### § 83
 
 Wenn die Bundesregierung feststellt, dass die Herstellung der
@@ -1717,10 +1605,7 @@ Einsatzfähigkeit der Streitkräfte notwendig ist, finden die
 Vorschriften des § 66 Abs. 2, des § 68 Abs. 2 Nr. 1 bis 5 und der §§
 69 und 70 Abs. 1 Satz 2 keine Anwendung.
 
-
 ## Vierter Teil - Bußgeld- und Strafbestimmungen
-
-
 
 ### § 84
 
@@ -1771,7 +1656,6 @@ für den, der die tatsächliche Gewalt über die Sache ausübt.
 Befugnisse der Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des
 Gesetzes über Ordnungswidrigkeiten wahr.
 
-
 ### § 85
 
 Wer in der Absicht, die angeforderte Leistung zu vereiteln, eine der
@@ -1780,15 +1664,11 @@ Unterlassungen begeht und dadurch das öffentliche Wohl erheblich
 gefährdet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit
 Geldstrafe bestraft.
 
-
 ### § 86
 
 -
 
-
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 87
 
@@ -1796,7 +1676,6 @@ Das Gesetz über Sachleistungen für Reichsaufgaben
 (Reichsleistungsgesetz) vom 1. September 1939 (Reichsgesetzbl. I S.
 1645) und die zu seiner Durchführung ergangenen Vorschriften werden,
 soweit sie Bundesrecht geworden sind, aufgehoben.
-
 
 ### § 88
 
@@ -1827,7 +1706,6 @@ und der Verordnung zur Durchführung des § 6 dieses Gesetzes vom 26.
 Juli 1951 (Bundesgesetzbl. I S. 471) der Verwaltung des Bundes
 unterliegen, sinngemäß Anwendung.
 
-
 ### § 89
 
 (1)
@@ -1841,16 +1719,13 @@ den ausländischen Streitkräften oder ihren Mitgliedern zur Nutzung
 überlassen worden sind, können ohne die sich aus §§ 2, 3 Abs. 1 und
 diesem Paragraphen ergebenden Beschränkungen angefordert werden.
 
-
 ### § 90
 
 -
 
-
 ### § 91
 
 -
-
 
 ### § 92
 
@@ -1871,7 +1746,6 @@ worden sind, werden nach den Vorschriften dieses Gesetzes abgegolten.
 1 und 2 nicht vor dem 1. Januar 1957, sofern bis zum Inkrafttreten
 dieses Gesetzes eine angemessene Abschlagszahlung geleistet ist.
 
-
 ### § 93
 
 Auf Grundstücke, die von den Behörden einer beteiligten Macht zur
@@ -1881,11 +1755,9 @@ von den Behörden einer beteiligten Macht zu Schutzbereichzwecken in
 Anspruch genommen oder in dieser Weise behandelt worden sind, finden
 §§ 89 bis 92 keine Anwendung.
 
-
 ### § 94
 
 -
-
 
 ### § 95
 
@@ -1895,12 +1767,10 @@ Rechtsverordnung auf Grund des § 3 des vorgenannten Gesetzes
 verpflichtet sind, und öffentliche Eisenbahnen können nicht zu
 Leistungen nach diesem Gesetz herangezogen werden.
 
-
 ### § 96
 
 Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, durch
 Rechtsverordnung eine von § 57 Abs. 1 abweichende Regelung zu treffen.
-
 
 ### § 97
 

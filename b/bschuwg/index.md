@@ -18,11 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 13.9.2012 I 1914
 
-
-
 ## Teil 1 - Wahrnehmung von Aufgaben des Schuldenwesens des Bundes und parlamentarische Kontrolle
-
-
 
 ### § 1 Ermächtigung zur Übertragung von Aufgaben des Schuldenwesens
 
@@ -74,7 +70,6 @@ Schuldenverwaltung des Bundes wahr.
 (4) Abweichende Regelungen der Zuständigkeit im Schuldenwesen des
 Bundes durch Gesetz bleiben unberührt.
 
-
 ### § 2 Aufsicht über die Bundesrepublik Deutschland - Finanzagentur GmbH
 
 (1) Das Bundesministerium der Finanzen übt die Aufsicht über die
@@ -88,7 +83,6 @@ Bundesministerium der Finanzen bestimmen, dass es einzelne oder alle
 Behörde in seinem Geschäftsbereich oder einen Dritten übertragen kann,
 wenn auf andere Weise die recht- und zweckmäßige Wahrnehmung der
 übertragenen Aufgaben nicht sichergestellt werden kann.
-
 
 ### § 3 Parlamentarisches Gremium
 
@@ -115,10 +109,7 @@ Angelegenheiten verpflichtet, die ihnen bei ihrer Tätigkeit bekannt
 geworden sind. Dies gilt auch für die Teilnehmerinnen und Teilnehmer
 an den Sitzungen.
 
-
 ## Teil 2 - Kreditaufnahme des Bundes und Bundesschuldbuch
-
-
 
 ### § 4 Kreditaufnahme des Bundes
 
@@ -147,7 +138,6 @@ erfolgt im Rahmen des jeweiligen Haushaltsgesetzes durch
 Finanzmärkten eingeführte derivative Finanzierungsinstrumente
 eingesetzt werden.
 
-
 ### § 4a Einführung von Umschuldungsklauseln
 
 Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen
@@ -160,7 +150,6 @@ Beschlussfassung für Schuldverschreibungen verschiedener Anleihen
 vorsehen (anleiheübergreifende Änderung). Soweit Emissionsbedingungen
 nichts Abweichendes vorsehen, gelten für die Umschuldungsklauseln die
 §§ 4b bis 4k.
-
 
 ### § 4b Mehrheitsbeschlüsse der Gläubiger
 
@@ -263,7 +252,6 @@ des Bundes.
 (8) Der Bund hat die Beschlüsse der Gläubiger unverzüglich bekannt zu
 machen.
 
-
 ### § 4c Stimmrecht
 
 (1) An Beschlussfassungen der Gläubiger nimmt jeder Gläubiger nach
@@ -312,7 +300,6 @@ Bund beherrschte Rechtsträger anzusehen sind und bei denen davon
 auszugehen ist, dass sie bei einer Beschlussfassung nicht frei
 abstimmen können.
 
-
 ### § 4d Berechnungsstelle; Bescheinigung
 
 (1) Der Bund benennt eine zuständige Stelle, die feststellt, ob die
@@ -346,7 +333,6 @@ Mitteilung von Gründen der Richtigkeit der Angaben widerspricht und
 sofern nicht dieser Gläubiger einen Beschluss der Gläubiger, der auf
 einer unrichtigen Angabe beruht, binnen 15 Tagen nach Bekanntmachung
 des Beschlusses durch Klage nach Maßgabe des § 4i anficht.
-
 
 ### § 4e Einberufung der Gläubigerversammlung
 
@@ -398,7 +384,6 @@ mindestens 14 Tage vor dem Tag der Versammlung einzuberufen.
 
 (4) Die Einberufung ist unverzüglich bekannt zu machen.
 
-
 ### § 4f Vorsitz; Beschlussfähigkeit
 
 (1) Der Bund bestimmt den Vorsitzenden der Gläubigerversammlung.
@@ -429,7 +414,6 @@ Nennwert der ausstehenden Schuldverschreibungen abweichend von den
 Absätzen 2 und 3 festlegen; eine Beschlussfassung hierüber gilt als
 wesentlicher Beschluss.
 
-
 ### § 4g Vertretung
 
 (1) Jeder Gläubiger kann sich in der Gläubigerversammlung durch einen
@@ -441,13 +425,11 @@ Stunden vor dem Tag der Gläubigerversammlung nachzuweisen.
 Stunden vor dem Tag der Gläubigerversammlung gegenüber dem Bund
 erklärt wird. Gleiches gilt für eine Änderung der Vollmacht.
 
-
 ### § 4h Schriftliche Abstimmung
 
 Auf die schriftliche Abstimmung sind die Vorschriften über die
 Einberufung und Durchführung von Gläubigerversammlungen entsprechend
 anzuwenden.
-
 
 ### § 4i Anfechtung von Beschlüssen
 
@@ -476,7 +458,6 @@ Beschlusses nicht entgegensteht; § 246a Absatz 1 Satz 1 und 2, Absatz
 2, 3 Satz 1 bis 4 und 6, Absatz 4 des Aktiengesetzes gilt
 entsprechend.
 
-
 ### § 4j Wirksamkeit und Vollziehung von Beschlüssen
 
 Beschlüsse der Gläubiger, durch welche der Inhalt der
@@ -485,14 +466,12 @@ wenn sie vollzogen worden sind. Sie sind in der Weise zu vollziehen,
 dass die Emissionsbedingungen in ihrer geänderten oder ergänzten
 Fassung bekannt gemacht werden.
 
-
 ### § 4k Bekanntmachungen
 
 Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c
 Absatz 4, § 4d Absatz 2 Satz 2, § 4e Absatz 4 und § 4j erfolgen im
 Bundesanzeiger und im Internet unter der Adresse der Bundesrepublik
 Deutschland – Finanzagentur GmbH sowie durch die Deutsche Bundesbank.
-
 
 ### § 5 Bundesschuldbuch
 
@@ -522,7 +501,6 @@ Abteilung werden eingetragen:
 Einzelschuldbuchforderung durch die Eintragung in die jeweilige
 Abteilung begründet; durch die Eintragung in das Bundesschuldbuch gilt
 eine gesetzlich vorgeschriebene Form als beachtet.
-
 
 ### § 6 Sammelschuldbuchforderungen
 
@@ -573,7 +551,6 @@ Bundes oder eines seiner Sondervermögen, können sie im
 Bundesschuldbuch ganz oder teilweise gelöscht werden, sofern die
 Emissionsbedingungen dem nicht entgegenstehen. Über die Löschung
 entscheidet das Bundesministerium der Finanzen.
-
 
 ### § 7 Einzelschuldbuchforderungen
 
@@ -630,7 +607,6 @@ obligatorische Einzelschuldbuchforderungen handelt, auf Antrag des
 Berechtigten im Sinne des Absatzes 4 in einen Sammelbestandanteil zur
 Verwahrung bei einem Kreditinstitut umgewandelt werden.
 
-
 ### § 8 Öffentlicher Glaube des Bundesschuldbuchs
 
 (1) Verfügungen über Einzelschuldbuchforderungen bedürfen zu ihrer
@@ -659,7 +635,6 @@ entsprechend.
 (4) Die Eintragungen erfolgen in derselben Reihenfolge, in der die
 Anträge bei der das Bundesschuldbuch führenden Stelle eingegangen
 sind.
-
 
 ### § 9 (weggefallen)
 

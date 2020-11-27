@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 6 G v. 28.4.2011 I 678
 
-
 ## Erster Abschnitt - Grundwehrdienst und Wehrübungen
-
-
 
 ### § 1 Ruhen des Arbeitsverhältnisses
 
@@ -53,7 +50,6 @@ entstandenen Mehraufwendungen vom Bund auf Antrag erstattet. Der
 Antrag ist innerhalb von sechs Monaten, nachdem die Mehraufwendungen
 entstanden sind, bei der vom Bundesministerium der Verteidigung
 bestimmten Stelle zu stellen.
-
 
 ### § 2 Kündigungsschutz für Arbeitnehmer, Weiterbeschäftigung nach der Berufsausbildung
 
@@ -100,7 +96,6 @@ Verlängerung eines befristeten Arbeitsverhältnisses oder die Übernahme
 des Arbeitnehmers in ein unbefristetes Arbeitsverhältnis nicht aus
 Anlass des Wehrdienstes ablehnen.
 
-
 ### § 3 Wohnraum und Sachbezüge
 
 (1) Das Ruhen des Arbeitsverhältnisses (§ 1 Abs. 1) lässt eine
@@ -126,7 +121,6 @@ Wehrübung auf Verlangen weiterzugewähren. Absatz 3 gilt sinngemäß.
 (5) Die Absätze 3 und 4 finden keine Anwendung, wenn der Arbeitgeber
 nach diesem Gesetz das Arbeitsentgelt während des Wehrdienstes
 weiterzuzahlen hat.
-
 
 ### § 4 Erholungsurlaub
 
@@ -154,11 +148,9 @@ die zu viel gewährten Urlaubstage kürzen.
 (5) Für die Zeit des Wehrdienstes richtet sich der Urlaub nach den
 Urlaubsvorschriften für Soldaten.
 
-
 ### § 5
 
 (weggefallen)
-
 
 ### § 6 Fortsetzung des Arbeitsverhältnisses
 
@@ -188,7 +180,6 @@ Arbeitsentgelt eine Zulage in Höhe des Unterschiedsbetrages zwischen
 seinem Arbeitsentgelt und dem Arbeitsentgelt, das ihm bei der
 Einstufung in die höhere Lohn- oder Vergütungsgruppe zustehen würde.
 
-
 ### § 7 Vorschriften für in Heimarbeit Beschäftigte
 
 (1) Für in Heimarbeit Beschäftigte, die ihren Lebensunterhalt
@@ -204,7 +195,6 @@ entgangenen Entgelts ist das Entgelt zu Grunde zu legen, das der in
 Heimarbeit Beschäftigte im Durchschnitt der letzten 52 Wochen vor der
 Vorlage des Einberufungsbescheides beim Auftraggeber oder
 Zwischenmeister erzielt hat.
-
 
 ### § 8 Vorschriften für Handelsvertreter
 
@@ -243,7 +233,6 @@ Alleinvertreter bestellt ist, während des Grundwehrdienstes oder einer
 Wehrübung des Handelsvertreters berechtigt, selbst oder durch
 Angestellte oder durch andere Handelsvertreter sich um die Vermittlung
 oder den Abschluss von Geschäften zu bemühen.
-
 
 ### § 9 Vorschriften für Beamte und Richter
 
@@ -295,7 +284,6 @@ anzuwenden.
 
 (11) Die Absätze 1, 2 und 4 bis 10 gelten für Richter entsprechend.
 
-
 ### § 10 Freiwillige Wehrübungen
 
 Wird der Wehrpflichtige zu einer Wehrübung auf Grund freiwilliger
@@ -304,11 +292,9 @@ einberufen, so gelten die §§ 1 bis 4 und 6 bis 9 nur, soweit diese
 Wehrübung allein oder zusammen mit anderen freiwilligen Wehrübungen im
 Kalenderjahr nicht länger als sechs Wochen dauert.
 
-
 ### § 11
 
 (weggefallen)
-
 
 ### § 11a Bevorzugte Einstellung in den öffentlichen Dienst
 
@@ -337,7 +323,6 @@ werden kann, bestimmt sich nach dem zahlenmäßigen Verhältnis der
 Bewerber mit wehrdienstbedingter Verzögerung zu denjenigen, bei denen
 eine solche nicht vorliegt; Bruchteile von Stellen sind zugunsten der
 Wehrpflichtigen aufzurunden.
-
 
 ### § 12 Anrechnung der Wehrdienstzeit und der Zeit einer Berufsförderung bei Einstellung entlassener Soldaten
 
@@ -377,7 +362,6 @@ Ausbildung für ein späteres Beamtenverhältnis durch eine festgesetzte
 mehrjährige Tätigkeit im Arbeitsverhältnis an Stelle des sonst
 vorgeschriebenen Vorbereitungsdienstes durchgeführt wird.
 
-
 ### § 13 Anrechnung des Wehrdienstes im späteren Berufsleben
 
 (1) Die Zeit des Grundwehrdienstes und der Wehrübungen wird auf die
@@ -403,10 +387,7 @@ Arbeitsverhältnis an Stelle des sonst vorgeschriebenen
 Vorbereitungsdienstes durchgeführt wird, gelten § 9 Abs. 8 Satz 4 und
 § 12 Abs. 2 entsprechend.
 
-
 ## Zweiter Abschnitt - Meldung bei den Erfassungsbehörden und Wehrersatzbehörden
-
-
 
 ### § 14 Weiterzahlung des Arbeitsentgelts
 
@@ -422,10 +403,7 @@ vorzulegen.
 zu Dienstleistungen nach dem Vierten Abschnitt des Soldatengesetzes
 herangezogen werden soll.
 
-
 ## Dritter Abschnitt - Alters- und Hinterbliebenenversorgung
-
-
 
 ### § 14a Zusätzliche Alters- und Hinterbliebenenversorgung für Arbeitnehmer
 
@@ -483,7 +461,6 @@ Gesetzes anzusehen sind. Das Bundesministerium der Verteidigung kann
 im Einvernehmen mit dem Bundesministerium der Finanzen mit den
 Arbeitgebern eine pauschale Beitragserstattung und die Zahlungsweise
 vereinbaren.
-
 
 ### § 14b Alters- und Hinterbliebenenversorgung in besonderen Fällen
 
@@ -543,10 +520,7 @@ des Wehrdienstes zu stellen.
 
 (5) Für das Erstattungsverfahren gilt § 14a Abs. 6 sinngemäß.
 
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 15 Begriffsbestimmungen
 
@@ -559,7 +533,6 @@ Gemeindeverbandes) oder anderer Körperschaften, Anstalten und
 Stiftungen des öffentlichen Rechts oder der Verbände von solchen;
 ausgenommen ist die Tätigkeit bei öffentlich-rechtlichen
 Religionsgesellschaften oder ihren Verbänden.
-
 
 ### § 16 Sonstige Geltung des Gesetzes
 
@@ -602,7 +575,6 @@ rechtmäßigen Aufenthalt in Deutschland haben.
 nach Abschnitt 7 des Wehrpflichtgesetzes mit der Maßgabe, dass die
 Vorschriften über den Grundwehrdienst anzuwenden sind.
 
-
 ### § 16a Wehrdienst als Soldat auf Zeit
 
 (1) Dieses Gesetz gilt auch im Falle des Wehrdienstes als Soldat auf
@@ -636,7 +608,6 @@ Zeit ernannt wird.
 (5) Die Absätze 1 bis 4 gelten entsprechend im Falle einer
 Verlängerung der Dienstzeit nach Absatz 1 aus zwingenden Gründen der
 Verteidigung (§ 54 Abs. 3 des Soldatengesetzes).
-
 
 ### § 17 Übergangsvorschrift
 

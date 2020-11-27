@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 5 Abs. 3 V v. 26.11.2010 I 1643
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für genehmigungsbedürftige Anlagen mit Ausnahme
@@ -45,7 +44,6 @@ ausgenommenen Anlagen Teile oder Nebeneinrichtungen, die für sich
 gesehen unter den Anwendungsbereich dieser Verordnung fallen, so ist
 eine Emissionserklärung nach § 3 nur für diese Teile oder
 Nebeneinrichtungen abzugeben.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -74,10 +72,6 @@ Im Sinne dieser Verordnung sind:
 4.  Abgase
 
     die Trägergase mit festen, flüssigen oder gasförmigen Emissionen.
-
-
-
-
 
 ## § 3 Inhalt, Umfang und Form der Emissionserklärung
 
@@ -140,10 +134,6 @@ erteilen.
 \*) Es gelten die Begriffsbestimmungen und Einstufungen der
     Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643).
 
-
-
-
-
 ## § 4 Erklärungszeitraum, Zeitpunkt der Erklärung, Erklärungspflichtiger
 
 (1) Der erste Erklärungszeitraum für die Emissionserklärung ist das
@@ -162,7 +152,6 @@ Anlage im Erklärungszeitraum betrieben hat. Wird die Anlage während
 des Erklärungszeitraumes in Betrieb genommen, stillgelegt oder
 zeitweise nicht betrieben, umfasst der Erklärungszeitraum die Teile
 des Kalenderjahres, in denen die Anlage betrieben worden ist.
-
 
 ## § 5 Ermittlung der Emissionen
 
@@ -194,7 +183,6 @@ Behörde sind die Einzelheiten des Ermittlungsverfahrens anzugeben. Die
 Unterlagen sind mindestens vier Jahre nach Abgabe der Erklärung
 aufzubewahren.
 
-
 ## § 6 Ausnahmen
 
 Die zuständige Behörde kann auf Antrag den Betreiber von der Pflicht
@@ -202,11 +190,9 @@ zur Abgabe einer Emissionserklärung befreien, soweit im Einzelfall von
 der Anlage nur in geringem Umfang Luftverunreinigungen ausgehen
 können.
 
-
 ## § 7 (Inkrafttreten, Außerkrafttreten)
 
 -
-
 
 ## Anhang
 

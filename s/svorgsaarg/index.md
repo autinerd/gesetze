@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7a G v. 19.12.2007 I 3024
 
-
 ## Erster Abschnitt - Krankenversicherung
-
-
 
 ### § 1
 
@@ -38,7 +35,6 @@ Soweit in ihnen auf andere Vorschriften verwiesen wird, die im
 Saarland in abweichender Fassung gelten, sind diese in der
 saarländischen Fassung anzuwenden.
 
-
 ### § 2
 
 (1) Für das Saarland wird eine Allgemeine Ortskrankenkasse errichtet;
@@ -48,7 +44,6 @@ sie hat ihren Sitz in Saarbrücken.
 gehört sie mit der Rechtsstellung eines Landesverbandes dem
 Bundesverband der Ortskrankenkassen an.
 
-
 ### § 3
 
 (1) Die Zuständigkeit der Bundesbahn-Betriebskrankenkasse und der
@@ -57,7 +52,6 @@ das Saarland.
 
 (2) Die Eisenbahn-Betriebskrankenkasse Saarbrücken wird eine
 Bezirksleitung der Bundesbahn-Betriebskrankenkasse.
-
 
 ### § 4
 
@@ -70,7 +64,6 @@ Saarbrücken aus den Versicherungsverhältnissen gehen auf die
 Bundesbahn-Betriebskrankenkasse über.
 
 (3) § 212 der Reichsversicherungsordnung gilt.
-
 
 ### § 5
 
@@ -94,7 +87,6 @@ auf die Bundesbahn-Versicherungsanstalt über.
 unübertragbar oder nur auf Grund besonderer Vereinbarungen für
 übertragbar erklärt sind.
 
-
 ### § 6
 
 (1) Durch den Übergang der Verbindlichkeiten wird der bisherige
@@ -111,7 +103,6 @@ Rechte entsprechend.
 (3) Gerichtsgebühren und andere Abgaben, die aus Anlaß und in
 Durchführung des § 5 entstehen, werden nicht erhoben; bare Auslagen
 bleiben außer Ansatz.
-
 
 ### § 7
 
@@ -130,12 +121,10 @@ S. 667).
 
 (3) Absatz 1 Satz 1 gilt für die Versorgungsempfänger entsprechend.
 
-
 ### § 8
 
 Die Arbeitsbedingungen der zu übernehmenden Angestellten und Arbeiter
 dürfen aus Anlaß der Übernahme nicht verschlechtert werden.
-
 
 ### § 9
 
@@ -160,14 +149,9 @@ Betracht, die später als sechs Monate, nachdem die Betriebs- oder
 Innungskrankenkasse oder die Ersatzkasse ihre Tätigkeit im Saarland
 aufgenommen hat, Mitglied dieser Kasse werden.
 
-
 ### (XXXX) §§ 10 bis 13 (weggefallen)
 
-
-
 ## Zweiter Abschnitt - Unfallversicherung
-
-
 
 ### § 14
 
@@ -185,7 +169,6 @@ Soweit in ihnen auf andere Vorschriften verwiesen wird, die im
 Saarland in abweichender Fassung gelten, sind diese in der
 saarländischen Fassung anzuwenden.
 
-
 ### § 15
 
 (1) Die Zuständigkeit der für das gesamte Bundesgebiet außerhalb des
@@ -199,7 +182,6 @@ Berufsgenossenschaft, der Süddeutschen Holz-Berufsgenossenschaft und
 der Süddeutschen Edel- und Unedelmetall-Berufsgenossenschaft wird auf
 das Saarland erstreckt.
 
-
 ### § 16
 
 Die Bergbau-Berufsgenossenschaft für das Saarland wird eine
@@ -207,12 +189,10 @@ Bezirksverwaltung der Bergbau-Berufsgenossenschaft. Die Organe der
 Bergbau-Berufsgenossenschaft für das Saarland werden Organe der
 Bezirksverwaltung.
 
-
 ### § 17
 
 Für das Saarland werden eine Landwirtschaftliche Berufsgenossenschaft
 und ein Gemeindeunfallversicherungsverband errichtet.
-
 
 ### § 18
 
@@ -220,7 +200,6 @@ Die Rechte und Pflichten der Landesversicherungsanstalt für das
 Saarland und der Bergbau-Berufsgenossenschaft für das Saarland aus den
 Versicherungsverhältnissen in der Unfallversicherung gehen auf die
 nach diesem Gesetz zuständigen Versicherungsträger über.
-
 
 ### § 19
 
@@ -267,7 +246,6 @@ aufgestellte Aufteilungsplan unanfechtbar geworden ist.
 Landesversicherungsanstalt für das Saarland im Auftrag und für
 Rechnung der Rechtsnachfolger verwaltet.
 
-
 ### § 20
 
 (1) Das Vermögen (Eigentum und alle sonstigen Vermögensrechte) und die
@@ -280,11 +258,9 @@ gehen auf den Gemeindeunfallversicherungsverband für das Saarland
 Verbindlichkeiten der Bergbau-Berufsgenossenschaft für das Saarland
 gehen auf die Bergbau-Berufsgenossenschaft über.
 
-
 ### § 21
 
 § 5 Abs. 3 und § 6 gelten in den Fällen der §§ 19 und 20 entsprechend.
-
 
 ### § 22
 
@@ -307,7 +283,6 @@ Beamtenrechtsrahmengesetzes).
 
 (3) Absatz 1 gilt für die Versorgungsempfänger entsprechend.
 
-
 ### § 23
 
 (1) Die Landwirtschaftliche Berufsgenossenschaft für das Saarland hat
@@ -324,7 +299,6 @@ und Arbeiter) zu dem genannten Zeitpunkt zu übernehmen.
 
 (3) § 22 Abs. 2 und 3 gilt entsprechend.
 
-
 ### § 24
 
 Die Bergbau-Berufsgenossenschaft hat die im Zeitpunkt des
@@ -333,15 +307,11 @@ das Saarland beschäftigten Personen (Angestellte und Arbeiter) zu dem
 genannten Zeitpunkt zu übernehmen; die zu übernehmenden Personen
 sollen in der Bezirksverwaltung im Saarland (§ 16) beschäftigt werden.
 
-
 ### § 25
 
 § 8 gilt in den Fällen der §§ 22 bis 24.
 
-
 ## Dritter Abschnitt - Rentenversicherung der Arbeiter
-
-
 
 ### § 26
 
@@ -354,11 +324,9 @@ ihnen auf andere Vorschriften verwiesen wird, die im Saarland in
 abweichender Fassung gelten, sind diese in der saarländischen Fassung
 anzuwenden.
 
-
 ### § 27
 
 (weggefallen)
-
 
 ### § 28
 
@@ -369,10 +337,7 @@ auf die Bundesbahn-Versicherungsanstalt über.
 
 (2) § 5 Abs. 3 und § 6 gelten entsprechend.
 
-
 ## Vierter Abschnitt - Rentenversicherung der Angestellten
-
-
 
 ### § 29
 
@@ -385,11 +350,9 @@ ihnen auf andere Vorschriften verwiesen wird, die im Saarland in
 abweichender Fassung gelten, sind diese in der saarländischen Fassung
 anzuwenden.
 
-
 ### § 30
 
 (weggefallen)
-
 
 ### § 31
 
@@ -405,7 +368,6 @@ gehen auf die Bundesversicherungsanstalt für Angestellte über.
 
 (3) § 5 Abs. 3 und § 6 gelten entsprechend.
 
-
 ### § 32
 
 (1) Die Bundesversicherungsanstalt für Angestellte hat die im
@@ -420,39 +382,28 @@ Beratungsstelle in Saarbrücken (§ 30 Abs. 2) beschäftigt werden.
 
 (3) § 8 gilt.
 
-
 ### § 33
 
 -
 
-
 ## Fünfter Abschnitt - Hüttenknappschaftliche Pensionsversicherung
-
-
 
 ### § 34
 
 -
 
-
 ## Sechster Abschnitt - Knappschaftsversicherung
-
-
 
 ### § 35
 
 Die Saarknappschaft gehört der Arbeitsgemeinschaft der Knappschaften
 der Bundesrepublik Deutschland an.
 
-
 ## Siebenter Abschnitt - Gemeinsame und Schlußvorschriften
-
-
 
 ### § 36
 
 -
-
 
 ### § 37
 
@@ -479,11 +430,9 @@ die Übernahme der Beamten und Versorgungsempfänger gelten § 129 Abs. 1
 und 3, §§ 130, 132 Abs. 1 und § 133 des Beamtenrechtsrahmengesetzes
 entsprechend.
 
-
 ### § 38
 
 -
-
 
 ### § 39
 
@@ -505,16 +454,11 @@ Im Saarland werden folgende Vorschriften eingeführt:
     Arbeiter und der Angestellten vom 21. August 1957 (Bundesgesetzbl. I
     S. 1274).
 
-
-
-
-
 ### § 40
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 41
 

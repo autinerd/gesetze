@@ -27,7 +27,6 @@ Auf Grund des § 58 Abs. 1 des Bundespolizeigesetzes vom 19. Oktober
 des Gesetzes vom 21. Juni 2005 (BGBl. I S. 1818) geändert worden ist,
 verordnet das Bundesministerium des Innern:
 
-
 ## § 1 Sachliche Zuständigkeiten
 
 (1) Das Bundespolizeipräsidium als Oberbehörde und die
@@ -166,7 +165,6 @@ Fortbildungsstätte der Bundespolizei.
 Beschussverordnung genannte Bundespolizeibehörde ist die in Sankt
 Augustin gelegene Beschussstelle des Bundespolizeipräsidiums.
 
-
 ## § 2 Örtliche Zuständigkeiten
 
 (1) Örtlich sind die Bundespolizeidirektionen wie folgt zuständig:
@@ -244,10 +242,6 @@ die Bundespolizeibehörden bundesweit zuständig
 
 4.  für die polizeiliche Sicherung eigener Einrichtungen nach § 1 Abs. 3
     des Bundespolizeigesetzes.
-
-
-
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

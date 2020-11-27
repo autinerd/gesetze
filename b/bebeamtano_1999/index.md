@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 943
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -25,7 +23,6 @@ der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479), das zuletzt
 durch Artikel 6 des Bundesbesoldungs- und
 -versorgungsanpassungsgesetzes 1998 vom 6. August 1998 (BGBl. I S.
 2026) geändert worden ist, ordne ich an:
-
 
 ## I.
 
@@ -64,11 +61,9 @@ zusteht. Ich behalte mir im Einzelfall die gerichtliche Vertretung des
 Bundeseisenbahnvermögens in den Fällen des Satzes 1 dieser Allgemeinen
 Anordnung vor.
 
-
 ## II.
 
 Diese Anordnung tritt mit Wirkung vom 1. April 1999 in Kraft.
-
 
 ## Schlußformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 8.6.2010 I 755
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 1, 7 und 13 und des § 54 Abs. 1
@@ -28,10 +27,7 @@ Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), § 54 Abs. 1 Satz 1
 geändert durch Artikel 2 des Gesetzes vom 9. Oktober 1989 (BGBl. I S.
 1830), verordnet die Bundesregierung:
 
-
 ## Erster Abschnitt - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -62,16 +58,7 @@ Stilllegung nach § 7 Absatz 3 des Atomgesetzes gelten die §§ 6 bis 8,
         10                         fache der Freigrenzen nach Anlage III
         Tabelle 1 Spalte 2 der Strahlenschutzverordnung beträgt.
 
-
-
-
-
-
-
-
 ## Zweiter Abschnitt - Kerntechnischer Sicherheitsbeauftragter
-
-
 
 ### § 2 Bestellung des kerntechnischen Sicherheitsbeauftragten
 
@@ -116,10 +103,6 @@ bestellt.
 
 3.  die §§ 3 bis 5 und § 10.
 
-
-
-
-
 ### § 3 Pflichten des Betreibers
 
 (1) Der Betreiber hat den Sicherheitsbeauftragten bei der Erfüllung
@@ -131,7 +114,6 @@ zur Verfügung zu stellen.
 die zur Erfüllung seiner Aufgaben erforderlichen Informationen erhält
 und ihm Verwaltungsakte und sonstige Maßnahmen, die seine Aufgaben
 oder Befugnisse betreffen, zur Kenntnis gegeben werden.
-
 
 ### § 4 Aufgaben des Sicherheitsbeauftragten
 
@@ -187,7 +169,6 @@ unterrichten. Er hat den Betriebs- oder Personalrat auf dessen
 Verlangen in Angelegenheiten der kerntechnischen Sicherheit zu
 beraten.
 
-
 ### § 5 Stellung des Sicherheitsbeauftragten
 
 (1) Der Sicherheitsbeauftragte darf bei der Erfüllung seiner Aufgaben
@@ -212,10 +193,7 @@ und der Aufsichtsbehörde je eine Abschrift zu übersenden.
 (3) Die Stellung des Sicherheitsbeauftragten und seine Aufgaben gemäß
 § 4 sind im einzelnen im Betriebshandbuch festzulegen.
 
-
 ## Dritter Abschnitt - Meldung von Unfällen, Störfällen und sonstigen Ereignissen
-
-
 
 ### § 6 Meldepflicht
 
@@ -241,7 +219,6 @@ Bevölkerung vor Lebens- und Gesundheitsgefahren erforderlich ist.
 
 (4) (weggefallen)
 
-
 ### § 7 Inhalt der schriftlichen Meldung
 
 (1) Der Meldepflichtige hat in der Meldung an die Aufsichtsbehörde
@@ -257,7 +234,6 @@ nach § 8 Abs. 1 Nr. 1 und 2 soll der Meldepflichtige die nach dem
 Meldeformular erforderlichen Angaben machen, soweit Angaben
 unverzüglich gemacht werden können und Daten bekannt sind.
 
-
 ### § 7a Elektronische Kommunikation
 
 (1) Die Übermittlung elektronischer Dokumente ist erst zulässig, wenn
@@ -269,7 +245,6 @@ entsprechende Maßnahmen zur Sicherstellung von Datenschutz und
 Datensicherheit zu treffen. Im Fall der Nutzung allgemein zugänglicher
 Netze sind Verschlüsselungsverfahren anzuwenden, die dem jeweiligen
 Stand der Technik entsprechen.
-
 
 ### § 8 Meldeverfahren
 
@@ -341,7 +316,6 @@ ein gemeldetes Ereignis nicht meldepflichtig war, teilt der
 Meldepflichtige dies der Aufsichtsbehörde unter Angabe der hierfür
 maßgeblichen Tatsachen schriftlich mit.
 
-
 ### § 9 Ergänzende Pflichten des Meldepflichtigen
 
 (1) Der Meldepflichtige zeigt der Aufsichtsbehörde monatlich die
@@ -364,10 +338,6 @@ b)  Anfertigung von Lichtbildern,
 
 c)  Anlegen einer ausführlichen Schadensdokumentation.
 
-
-
-
-
 ### § 10 Prüfung durch den Sicherheitsbeauftragten
 
 Der Sicherheitsbeauftragte hat die Richtigkeit und Vollständigkeit der
@@ -376,10 +346,7 @@ seiner Prüfung auf dem Meldeformular zu vermerken und mit seiner
 Unterschrift zu versehen. Gleiches gilt für die Anzeige nach § 9 Abs.
 1\.
 
-
 ## Vierter Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 11 Ordnungswidrigkeiten
 
@@ -405,28 +372,18 @@ handelt, wer vorsätzlich oder fahrlässig
 3.  entgegen § 10 das Ergebnis der Prüfung nicht oder nicht richtig
     vermerkt.
 
-
-
-
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
-
 
 ### § 12 Verhältnis zu anderen Vorschriften
 
 § 51 Satz 2 der Strahlenschutzverordnung findet im Anwendungsbereich
 dieser Verordnung keine Anwendung.
 
-
 ### § 13 (weggefallen)
-
-
 
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
 
@@ -506,8 +463,6 @@ Der Bundesrat hat zugestimmt.
 *    *   3.2
 
     *   Anlageninterne Ereignisse
-
-
 
 ## **Vorbemerkung**
 
@@ -1205,10 +1160,6 @@ Meldekriterien sinngemäß anzuwenden.
     Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der
     Brandbekämpfung wirksam war.
 
-
-
-
-
 ### Anlage 2 Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes der Kernbrennstoffversorgung und -entsorgung
 
 (Fundstelle: BGBl. I 2010, 763 - 766)
@@ -1743,8 +1694,6 @@ Meldekriterien sinngemäß anzuwenden.
 *    *   **4.**
 
     *   **Ereignisse vor Erteilung der Genehmigung zum Beladen des Reaktors**
-
-
 
 ## Vorbemerkung ****
 
@@ -2433,10 +2382,6 @@ anlagenspezifische Konkretisierung erforderlich.
     Anlagenteil, soweit dieses Ereignis im Hinblick auf den späteren
     sicheren Betrieb von Bedeutung ist.
 
-
-
-
-
 ### Anlage 4 Meldekriterien für meldepflichtige Ereignisse in Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes
 
 (Fundstelle: BGBl. I 2010, 773 - 776)
@@ -2511,8 +2456,6 @@ anlagenspezifische Konkretisierung erforderlich.
 *    *   3.2
 
     *   Anlageninterne Ereignisse
-
-
 
 ## Vorbemerkung ****
 
@@ -2894,10 +2837,6 @@ Anwendung.
     vorbeugende planmäßige Brandschutzmaßnahmen getroffen wurden und deren
     Anwendung bei der Brandbekämpfung wirksam war.
 
-
-
-
-
 ### Anlage 5 Meldekriterien für meldepflichtige Ereignisse bei Aufbewahrungen nach § 6 des Atomgesetzes
 
 (Fundstelle: BGBl. I 2010, 777 - 779)
@@ -2961,8 +2900,6 @@ Anwendung.
 *    *   3.2
 
     *   Einrichtungsinterne Ereignisse
-
-
 
 ## Vorbemerkung ****
 

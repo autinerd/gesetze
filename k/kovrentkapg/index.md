@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 252 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -44,7 +42,6 @@ gezahlt.
 Soziales im Einvernehmen mit dem Bundesministerium der Finanzen
 beauftragt.
 
-
 ## § 2
 
 (1) Für die Rentenkapitalisierung gelten die für Kapitalabfindungen
@@ -59,13 +56,11 @@ Kapitalabfindungen anzuwendenden Vorschriften und Bestimmungen.
 
 (3)
 
-
 ## § 3
 
 Gesetzliche Vorschriften, die dem Kapitalabfindungsberechtigten
 steuerliche und gebührenrechtliche Vergünstigungen gewähren, gelten
 für die Rentenkapitalisierung entsprechend.
-
 
 ## § 4
 
@@ -96,13 +91,11 @@ Kapitalisierungsbetrag zurückzuzahlen,
 so geht der Anspruch auf Zahlung der Grundrente mit dem Ersten des auf
 die Rückzahlung folgenden Monats auf ihn über.
 
-
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 6
 

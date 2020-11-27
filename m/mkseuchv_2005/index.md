@@ -27,7 +27,6 @@ Bekämpfung der Maul- und Klauenseuche, zur Aufhebung der Richtlinie
 85/511/EWG sowie der Entscheidungen 89/531/EWG und 91/665/EWG und zur
 Änderung der Richtlinie 92/46/EWG (ABl. EU Nr. L 306 S. 1).
 
-
 ## Inhaltsverzeichnis
 
 
@@ -341,13 +340,7 @@ Bekämpfung der Maul- und Klauenseuche, zur Aufhebung der Richtlinie
     *   Bescheinigung für den Versand von Tieren empfänglicher Arten aus
         gefährdeten Bezirken im Sinne der MKS-Verordnung
 
-
-
-
-
 ## Teil 1 - Begriffsbestimmungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -530,17 +523,9 @@ Bekämpfung der Maul- und Klauenseuche, zur Aufhebung der Richtlinie
     Verschleppung des Virus der Maul- und Klauenseuche in einen Betrieb
     oder in ein bestimmtes oder innerhalb eines bestimmten Gebiets.
 
-
-
-
-
 ## Teil 2 - Schutzmaßregeln
 
-
-
 ### Abschnitt 1 - Allgemeine Schutzmaßregeln
-
-
 
 #### § 2 Impfungen und Heilversuche
 
@@ -551,14 +536,9 @@ Absatzes 2 und des § 16 verboten. Heilversuche sind verboten.
 Satz 1 Impfungen für wissenschaftliche Versuche und Impfstoffprüfungen
 genehmigen, sofern Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
 ### Abschnitt 2 - Besondere Schutzmaßregeln
 
-
-
 #### Unterabschnitt 1 - Vor amtlicher Feststellung der Maul- und Klauenseuche
-
-
 
 ##### § 3 Verdachtsbetrieb
 
@@ -775,7 +755,6 @@ Seuchenbekämpfung erforderlich ist, für den Verdachtsbetrieb
 
 anordnen.
 
-
 ##### § 4 Anordnungen für weitere Betriebe
 
 Die zuständige Behörde ordnet, sofern die Seuchenlage dies erfordert,
@@ -784,7 +763,6 @@ Betriebe auf Grund ihres Standorts, ihrer Bauweise oder ihrer
 Betriebsstruktur eine Seucheneinschleppung nicht auszuschließen ist
 oder wenn Tiere empfänglicher Arten aus einem Verdachtsbetrieb
 eingestellt worden sind.
-
 
 ##### § 5 Kontrollzone
 
@@ -832,20 +810,13 @@ Seuchenbekämpfung erforderlich, wenn
     oder die Übertragungswege des Virus der Maul- und Klauenseuche
     vorliegen.
 
-
-
-
-
 #### Unterabschnitt 2 - Nach amtlicher Feststellung der Maul- und Klauenseuche
-
-
 
 ##### § 6 Öffentliche Bekanntmachung
 
 Die zuständige Behörde macht den Ausbruch der Maul- und Klauenseuche
 sowie den Zeitpunkt ihrer mutmaßlichen Einschleppung in den
 betroffenen Betrieb (Seuchenbetrieb) öffentlich bekannt.
-
 
 ##### § 7 Schutzmaßregeln für den Seuchenbetrieb
 
@@ -946,10 +917,6 @@ Hunde, die
 2.  im Falle von Einhufern nach § 44 der Viehverkehrsverordnung
     gekennzeichnet sind.
 
-
-
-
-
 ##### § 8 Schutzmaßregeln in besonderen Einrichtungen
 
 (1) Die zuständige Behörde kann bei einem Ausbruch der Maul- und
@@ -978,7 +945,6 @@ sind der zuständigen Behörde unverzüglich mitzuteilen.
 zuständige Behörde dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz (Bundesministerium) unverzüglich die nach Absatz
 1 erteilten Ausnahmegenehmigungen mit.
-
 
 ##### § 9 Schutzmaßregeln in Bezug auf den Sperrbezirk
 
@@ -1231,7 +1197,6 @@ Erzeugnisse von Tieren empfänglicher Arten, das oder die
 dürfen nicht in den Verkehr gebracht werden. § 10 Abs. 4 Satz 2, Abs.
 5 Nr. 2, Abs. 6 Nr. 1 Buchstabe b, Nr. 2 Buchstabe b, Nr. 3 bis 8
 Buchstabe b, Nr. 9 und 10 und Abs. 9 gilt entsprechend.
-
 
 ##### § 10 Ausnahmen von der Sperrbezirksregelung
 
@@ -1894,10 +1859,6 @@ innerhalb eines Sperrbezirks liegt, wenn
     Besamungsstation regelmäßig im Abstand von nicht mehr als zehn Tagen
     virologisch auf Maul- und Klauenseuche untersucht werden.
 
-
-
-
-
 ##### § 11 Schutzmaßregeln in Bezug auf das Beobachtungsgebiet
 
 (1) Ist die Maul- und Klauenseuche in einem Betrieb amtlich
@@ -2050,7 +2011,6 @@ Folgendes:
 § 3 Abs. 4 gilt für in dem Beobachtungsgebiet gelegene Betriebe
 entsprechend.
 
-
 ##### § 12 Ausnahmen von der Beobachtungsgebietsregelung
 
 (1) Die zuständige Behörde kann Ausnahmen von § 11 Abs. 4 Nr. 1 für
@@ -2178,7 +2138,6 @@ sonstige Erzeugnisse § 10 Abs. 6 entsprechend.
 (4) Für das Verbringen von Dung in dem Beobachtungsgebiet gilt § 10
 Abs. 7 entsprechend.
 
-
 ##### § 13 Seuchenausbruch in einem benachbarten Mitgliedstaat
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaats der Ausbruch der
@@ -2187,7 +2146,6 @@ von der deutschen Grenze festgestellt und der für das angrenzende
 Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so
 ordnet diese die Maßnahmen entsprechend den §§ 9 und 11 an; die §§ 10
 und 12 gelten entsprechend.
-
 
 ##### § 14 Schutzmaßregeln für den Kontaktbetrieb
 
@@ -2217,10 +2175,6 @@ Beobachtung an.
 
 4.  gilt § 3 Abs. 2 Satz 1 Nr. 2 und 3 Buchstabe b und Nr. 4 bis 9 sowie
     Abs. 2 Satz 2 entsprechend.
-
-
-
-
 
 ##### § 15 Sperrgebiet
 
@@ -2292,7 +2246,6 @@ Bescheinigung nach dem Muster der Anlage 1 begleitet sind.
 
 
 an.
-
 
 ##### § 16 Notimpfung
 
@@ -2381,7 +2334,6 @@ einer Notimpfung nach Absatz 1 Satz 1 ein Gebiet um das Impfgebiet
 
 Das Überwachungsgebiet hat, gemessen vom Rand des Impfgebiets, eine
 Breite von mindestens zehn Kilometern.
-
 
 ##### § 17 Maßregeln vom Beginn bis zum 30. Tag nach Beendigung der Notimpfung
 
@@ -2590,13 +2542,6 @@ Tage getrennt von anderem Samen gelagert wird und,
         von Rindern und an dessen Einfuhr (ABl. EG Nr. L 194 S. 10) in der
         jeweils geltenden Fassung untersucht worden ist.
 
-
-
-
-
-
-
-
 ##### § 18 Maßregeln vom 31. Tag nach Beendigung der Notimpfung bis zur Beendigung der Untersuchungen
 
 (1) In der Zeit vom 31. Tag nach Beendigung der Notimpfung bis zur
@@ -2711,10 +2656,6 @@ genehmigen, sofern sichergestellt ist, dass
     2003/85/EG mit negativem Ergebnis auf Maul- und Klauenseuche
     untersucht werden.
 
-
-
-
-
 ##### § 19 Untersuchungen nach Notimpfung
 
 (1) Frühestens 30 Tage nach Beendigung der Notimpfung führt die
@@ -2732,7 +2673,6 @@ Untersuchungen auf Antikörper gegen Nichtstrukturproteine des Virus
 der Maul- und Klauenseuche in allen Betrieben und bei allen geimpften
 Tieren empfänglicher Arten und deren ungeimpften Nachkommen
 durchführen, sofern dies zur Seuchenbekämpfung erforderlich ist.
-
 
 ##### § 20 Maßregeln bei Feststellung von Tieren mit Antikörpern gegen Nichtstrukturproteine
 
@@ -2756,7 +2696,6 @@ Behörde
 
 
 an.
-
 
 ##### § 21 Maßregeln nach Beendigung der Untersuchungen
 
@@ -2928,13 +2867,6 @@ genehmigen für das Verbringen von
         Anhang III Nr. 2.1.1 der Richtlinie 2003/85/EG mit negativem Ergebnis
         auf Maul- und Klauenseuche durchgeführt worden ist.
 
-
-
-
-
-
-
-
 ##### § 22 Anwendungsvorrang
 
 Liegt das Impfgebiet ganz oder teilweise in einem Sperrbezirk oder
@@ -2942,14 +2874,12 @@ einem Beobachtungsgebiet, gelten in dem Sperrbezirk die §§ 9 und 10
 und in dem Beobachtungsgebiet die §§ 11 und 12. Die §§ 17 bis 21
 finden insoweit keine Anwendung.
 
-
 ##### § 23 Tötung im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet
 
 Die zuständige Behörde kann die Tötung von Tieren empfänglicher Arten
 im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet anordnen,
 sofern dies aus Gründen der Seuchenbekämpfung, insbesondere zur
 unverzüglichen Beseitigung eines Infektionsherdes, erforderlich ist.
-
 
 ##### § 24 Gefährdeter Bezirk beim Auftreten der Maul- und Klauenseuche bei Wildtieren
 
@@ -3140,7 +3070,6 @@ Einschleppung der Maul- und Klauenseuche in ein bisher seuchenfreies
 Gebiet zu befürchten, kann die zuständige Behörde Maßnahmen nach
 Absatz 8 auch in diesem Gebiet anordnen.
 
-
 ##### § 25 Maßregeln zur Erkennung der Maul- und Klauenseuche im gefährdeten Bezirk
 
 (1) Zur Erkennung der Maul- und Klauenseuche bei Wildtieren
@@ -3234,10 +3163,6 @@ bestimmtes Gebiet anordnen, dass Jagdausübungsberechtigte
     Untersuchungseinrichtung zur virologischen und serologischen
     Untersuchung auf Maul- und Klauenseuche zuleiten.
 
-
-
-
-
 ##### § 26 Tilgungsplan
 
 Die zuständige Behörde legt dem Bundesministerium innerhalb von 90
@@ -3245,7 +3170,6 @@ Tagen nach Feststellung der Maul- und Klauenseuche bei einem Wildtier
 einer empfänglichen Art einen Plan zur Tilgung der Maul- und
 Klauenseuche bei Wildtieren nach Maßgabe des Anhangs XVIII Abschnitt B
 der Richtlinie 2003/85/EG vor.
-
 
 ##### § 27 Seuchenausbruch bei Wildtieren in einem benachbarten Mitgliedstaat oder Drittland
 
@@ -3256,10 +3180,7 @@ der deutschen Grenze festgestellt und der für das angrenzende Gebiet
 im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so ordnet
 diese die Maßnahmen entsprechend den §§ 24 und 25 an.
 
-
 ## Teil 3 - Schutzmaßregeln in Schlachtstätten, auf dem Transport und in Grenzkontrollstellen
-
-
 
 ### § 28 Schutzmaßregeln
 
@@ -3311,10 +3232,7 @@ waren oder bei denen sich nach der Schlachtung Veränderungen zeigen,
 die auf einen Seuchenverdacht hinweisen, unverzüglich unschädlich zu
 beseitigen oder beseitigen zu lassen.
 
-
 ## Teil 4 - Aufhebung der Schutzmaßregeln, Wiederbelegung von Betrieben
-
-
 
 ### § 29 Aufhebung der Schutzmaßregeln
 
@@ -3397,7 +3315,6 @@ Arten gilt als beseitigt, wenn
 
 (5) Die §§ 17 bis 21 über Maßregeln im Impfgebiet bleiben von der
 Aufhebung anderer Maßregeln unberührt.
-
 
 ### § 30 Wiederbelegung von Betrieben
 
@@ -3490,10 +3407,7 @@ außerhalb des Impfgebiets nur eingestellt werden, wenn
 (5) Für die Wiederbelegung der Betriebe, in denen nach § 16 Abs. 1
 Satz 1 geimpft worden ist, gelten die Absätze 1 bis 4 entsprechend.
 
-
 ## Teil 5 - Behördliche Anordnungen, Tierseuchenbekämpfungszentrum
-
-
 
 ### § 31 Behördliche Anordnungen
 
@@ -3525,7 +3439,6 @@ Seuchenbekämpfung erforderlich ist,
 
 anordnen.
 
-
 ### § 31a Weitergehende Maßnahmen
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Maul- und
@@ -3534,7 +3447,6 @@ mit den §§ 17, 17b Absatz 1 Nummer 4 und den §§ 18 bis 30 des
 Tierseuchengesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung
 erforderlich sind und Rechtsakte der Europäischen Gemeinschaften oder
 der Europäischen Union nicht entgegenstehen, bleibt unberührt.
-
 
 ### § 32 Tierseuchenbekämpfungszentrum
 
@@ -3548,10 +3460,7 @@ Ausbruch von Maul- und Klauenseuche unverzüglich ein
 Tierseuchenbekämpfungszentrum nach Maßgabe des Artikels 77 der
 Richtlinie 2003/85/EG eingerichtet wird.
 
-
 ## Teil 6 - Arbeiten mit MKS-Virus
-
-
 
 ### § 33 Anforderungen an das Arbeiten mit MKS-Virus
 
@@ -3565,10 +3474,6 @@ Laboratorien und Einrichtungen, die
 2.  diagnostische Untersuchungen mit MKS-Virusgenomen oder MKS-
     Virusantigen durchführen, müssen die Anforderungen des Anhangs XV
     Nummer 2 bis 4 und 6 bis 13 der Richtlinie 2003/85/EG erfüllen.
-
-
-
-
 
 ### § 33a Erlaubnis für das Arbeiten mit MKS-Virus
 
@@ -3585,13 +3490,7 @@ soweit die Voraussetzungen
 
 2.  des § 33 erfüllt sind.
 
-
-
-
-
 ## Teil 7 - Ordnungswidrigkeiten, Schlussbestimmungen
-
-
 
 ### § 34 Ordnungswidrigkeiten
 
@@ -3799,20 +3698,14 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 26. entgegen § 30 Abs. 1 oder 4, jeweils auch in Verbindung mit Abs. 5,
     einen Betrieb wiederbelegt oder ein Tier einstellt.
 
-
-
-
-
 ### § 35 Berechnung von Fristen
 
 Auf die Berechnung von Fristen nach dieser Verordnung findet § 193 des
 Bürgerlichen Gesetzbuchs keine Anwendung.
 
-
 ### § 36 (Inkrafttreten, Außerkrafttreten)
 
 -
-
 
 ### Anlage 1 (zu § 15 Abs. 2 Nr. 1) Bescheinigung für den Versand von Tieren empfänglicher Arten oder von diesen Tieren gewonnenen Erzeugnissen aus einem Sperrgebiet im Sinne der MKS-Verordnung
 
@@ -3907,10 +3800,6 @@ Amtsbezeichnung des Unterzeichners)             -----
 2)  Unterschrift und Siegel müssen sich farblich von der Druckfarbe der
     Bescheinigung unterscheiden.
 
-
-
-
-
 ### Anlage 2 (zu § 18 Abs. 2 Nr. 3) Bescheinigung für den Versand von Tieren empfänglicher Arten aus einem Impfgebiet im Sinne der MKS-Verordnung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3599
@@ -3979,10 +3868,6 @@ Amtsbezeichnung des Unterzeichners)             -----
 
 1)  Unterschrift und Siegel müssen sich farblich von der Druckfarbe der
     Bescheinigung unterscheiden.
-
-
-
-
 
 ### Anlage 3 (zu § 24 Abs. 6 Nr. 3 Buchstabe a) Bescheinigung für den Versand von Tieren empfänglicher Arten aus gefährdeten Bezirken im Sinne der MKS-Verordnung
 

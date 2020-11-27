@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 401 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 bis 3, 5, 7 bis 9 und 11, der §§ 2 und
@@ -30,10 +29,7 @@ Bundesregierung mit Zustimmung des Bundesrates und auf Grund des § 7
 Abs. 1 Satz 2 des Ernährungssicherstellungsgesetzes von der
 Bundesregierung verordnet:
 
-
 ## Erster Abschnitt - Umfang und Wirkung der öffentlichen Bewirtschaftung
-
-
 
 ### § 1 Öffentliche Bewirtschaftung
 
@@ -96,10 +92,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
     Bewirtschaftung zu den in Nummer 1 genannten Zwecken nicht
     erforderlich ist.
 
-
-
-
-
 ### § 2 Verfügungsbeschränkung
 
 (1) Die Verfügungsbeschränkung bewirkt, daß die ihr unterliegenden
@@ -128,7 +120,6 @@ getrennten pflanzlichen Erzeugnissen mit ihrer Trennung, bei
 tierischen Erzeugnissen mit ihrer Gewinnung, bei anderen Erzeugnissen
 mit ihrer Herstellung und bei eingeführten Erzeugnissen mit dem
 Verbringen in den Geltungsbereich dieser Verordnung.
-
 
 ### § 3 Abgabepflicht
 
@@ -190,7 +181,6 @@ Ernährungs- und Landwirtschaft bewirtschaftete Erzeugnisse
 ausschließlich an Erzeuger, Betriebe bestimmter Wirtschaftsstufen oder
 Verbraucher abzugeben haben.
 
-
 ### § 4 Anordnungsbefugnis
 
 (1) Das Ernährungsamt kann in Einzelfällen gegenüber Inhabern von
@@ -233,16 +223,11 @@ geboten ist,
 2.  abweichend von § 2 Abs. 1 Nr. 1, § 3 Abs. 2 Nr. 2 und Abs. 3 sowie §
     11 Abs. 2 Satz 2 eine Anordnung treffen.
 
-
-
-
-
 ### § 5 Ermächtigung
 
 Das Bundesministerium wird ermächtigt, mit Zustimmung des Bundesrates
 Rechtsverordnungen nach § 1 Abs. 1 Nr. 11 des
 Ernährungssicherstellungsgesetzes zu erlassen.
-
 
 ### § 6 Versorgungsausgleich
 
@@ -256,10 +241,7 @@ Ausgleich nicht herbeigeführt werden, sorgt das Bundesministerium für
 einen Ausgleich; dabei kann er sich der Hilfe der Bundesanstalt für
 Landwirtschaft und Ernährung bedienen.
 
-
 ## Zweiter Abschnitt - Berechtigungsnachweise
-
-
 
 ### § 7 Berechtigungsnachweise
 
@@ -312,7 +294,6 @@ mit bewirtschafteten Erzeugnissen.
 in besonderen Fällen, soweit dies auf Grund einer Rechtsverordnung
 nach dem Ernährungssicherstellungsgesetz vorgesehen ist.
 
-
 ### § 8 Berechtigungsnachweise für Verbraucher
 
 (1) Jede im Geltungsbereich dieser Verordnung bei einer Meldebehörde
@@ -362,12 +343,10 @@ Reisepaß oder Personalausweis für die weitere Dauer ihres
 Aufenthaltes, jedoch für nicht mehr als jeweils eine Woche, es sei
 denn, sie weisen nach, daß ihr Aufenthalt länger dauert.
 
-
 ### § 9 Geltungsbereich
 
 Die Berechtigungsnachweise berechtigen zum Bezug bewirtschafteter
 Erzeugnisse im Geltungsbereich dieser Verordnung.
-
 
 ### § 10 Geltungsdauer
 
@@ -380,7 +359,6 @@ dessen Zuständigkeitsbereich die Scheine ausgegeben worden sind, mit
 Zustimmung der übergeordneten Stelle verlängert werden, wenn dies
 durch die Versorgungslage oder besondere Umstände geboten ist.
 
-
 ### § 11 Übertragbarkeit und Ungültigkeit
 
 (1) Berechtigungsnachweise sind nicht übertragbar.
@@ -390,7 +368,6 @@ Warenart und -menge sowie Reisemarken sind übertragbar. Lose
 Einzelabschnitte von Verbraucherkarten ohne Aufdruck der Warenart und
 -menge sind ungültig, soweit nicht das Ernährungsamt nach § 4 Abs. 2
 Nr. 2 etwas anderes anordnet.
-
 
 ### § 12 Ersatzberechtigungsnachweise
 
@@ -417,13 +394,7 @@ ersatz- und antragsberechtigt
 
 2.  der Lieferer in allen anderen Fällen.
 
-
-
-
-
 ## Dritter Abschnitt - Bezugsmengen für Verbraucher
-
-
 
 ### § 13 Versorgungszeitraum und Zuteilungssätze
 
@@ -454,17 +425,13 @@ Zustimmung des Bundesrates zu bestimmen,
 (2) Absatz 1 ermächtigt nicht zu Regelungen für Angehörige der
 Bundeswehr einschließlich mitzuversorgender Verbände.
 
-
 ### § 14 Sonderzuteilungen
 
 Das Ernährungsamt kann Sonderzuteilungen bewirtschafteter Erzeugnisse
 gewähren, wenn örtlich bedingte besondere Umstände dies dringend
 erfordern.
 
-
 ## Vierter Abschnitt - Organisation der Verwaltung und Mitwirkung von Vereinigungen
-
-
 
 ### § 15 Ernährungsämter und Kartenausgabestellen
 
@@ -474,7 +441,6 @@ Bezirksernährungsämter tätig. Die Länder können Landesernährungsämter
 einrichten.
 
 (2) Die Gemeinden richten Kartenausgabestellen ein.
-
 
 ### § 16 Sachliche Zuständigkeit
 
@@ -501,7 +467,6 @@ Verfügungen.
 des Ernährungssicherstellungsgesetzes sind die Bezirksernährungsämter
 oder, falls solche nicht eingerichtet sind, oberste Landesbehörden
 zuständig.
-
 
 ### § 17 Örtliche Zuständigkeit
 
@@ -584,7 +549,6 @@ Bezugsscheinen für Verbraucher kann in begründeten Einzelfällen von
 der Regelung des Absatzes 1 hinsichtlich der örtlichen Zuständigkeit
 abgewichen werden.
 
-
 ### § 18 Mitwirkung von Vereinigungen
 
 Soweit Interessen der Ernährungs- und Landwirtschaft betroffen sind,
@@ -593,10 +557,7 @@ oder Landwirtschaft wahrnehmen, bei der Ausführung einer
 Rechtsverordnung nach dem Ernährungssicherstellungsgesetz zu
 beratender Mitwirkung hinzugezogen werden.
 
-
 ## Fünfter Abschnitt - Einzelbestimmungen für das Verbraucherkarten- und Bezugsscheinwesen
-
-
 
 ### § 19 Empfangsberechtigte
 
@@ -622,7 +583,6 @@ beratender Mitwirkung hinzugezogen werden.
 (2) Der Empfänger hat die Empfangsberechtigung auf Verlangen
 nachzuweisen und den Empfang der Berechtigungsnachweise durch seine
 Unterschrift zu bestätigen.
-
 
 ### § 20 Unterlagen für die Ausgabe von Berechtigungsnachweisen
 
@@ -650,7 +610,6 @@ sechs Monaten für jeden Betrieb den Bedarf durch Warenein- und
 -ausgangsbücher oder durch sonstige betriebliche Aufzeichnungen über
 bezogene und umgesetzte Ernährungsgüter nachzuweisen.
 
-
 ### § 21 Verfahren bei Wohnungsänderung
 
 Im Falle eines Wohnungswechsels übernimmt die für die neue Wohnung
@@ -658,7 +617,6 @@ zuständige Kartenausgabestelle die weitere Ausstattung mit
 Berechtigungsnachweisen gegen Abgabe einer Abmeldebescheinigung der
 bisher zuständigen Kartenausgabestelle. Bei Personen auf der Flucht
 und in Notfällen kann auf die Abmeldebescheinigung verzichtet werden.
-
 
 ### § 22 Sammelverpflegung
 
@@ -673,7 +631,6 @@ Notfällen kann auf die Abmeldebescheinigung verzichtet werden.
 Sammelverpflegung aus oder wird er beurlaubt, so erhält er
 Berechtigungsnachweise von der Kartenausgabestelle nur gegen Vorlage
 einer Abmeldebescheinigung der Einrichtung zur Sammelverpflegung.
-
 
 ### § 23 Abgabe von Milch
 
@@ -712,7 +669,6 @@ Firmenstempel zu versehen.
 Kundenliste, Vollmilch oder teilentrahmte Milch gegen Einzelabschnitte
 der Milchkarte abgegeben.
 
-
 ### § 24 Bezug von Lebensmitteln auf Verbraucherkarten
 
 (1) Bei der Abgabe von Lebensmitteln gegen Vorlage von
@@ -725,7 +681,6 @@ nicht abzutrennen sind, müssen vom Lieferer unverzüglich so entwertet
 werden, daß sie nicht zum nochmaligen Warenbezug verwendet werden
 können.
 
-
 ### § 25 Bezug von Lebensmitteln auf Bezugsscheine und Berechtigungsscheine
 
 Bezugsscheine und Berechtigungsscheine (§ 7 Abs. 1 Nr. 2 und 3)
@@ -734,7 +689,6 @@ bewirtschafteten Erzeugnisse dem Lieferer mit einer
 Empfangsbestätigung auf dem Schein zu übergeben. Der Erhalt der
 bewirtschafteten Erzeugnisse kann auch gesondert unter Angabe des
 Bezugsscheines oder Berechtigungsscheines bestätigt werden.
-
 
 ### § 26 Abrechnung der Berechtigungsnachweise und anderer Nachweise
 
@@ -760,7 +714,6 @@ Zustimmung des Bundesrates Einzelheiten des Abrechnungsverfahrens zu
 regeln. In einer solchen Rechtsverordnung kann auch bestimmt werden,
 daß die Einzelabschnitte der Verbraucherkarten mit der
 Kartenausgabestelle abzurechnen sind.
-
 
 ### § 27 Ausgabe von Bezugsscheinen
 
@@ -805,7 +758,6 @@ zur Versorgung in besonderen Fällen können Bezugsscheine ohne Vorlage
 von Berechtigungsnachweisen nach Weisung der obersten Landesbehörden
 oder der von ihr bestimmten Stelle ausgegeben werden.
 
-
 ### § 28 Schwundvergütungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -822,7 +774,6 @@ Zustimmung des Bundesrates
 
 festzulegen.
 
-
 ### § 29 Mengenangabe und Stückelung
 
 (1) Bezugsscheine sollen über handelsübliche Mengen und unter
@@ -837,7 +788,6 @@ dem Berechtigten unverzüglich mit der Erklärung zurückzugeben, daß sie
 nicht oder nur bestimmte Teilmengen liefern können.
 
 (3) Das Ernährungsamt kann Bezugsscheine auf Antrag stückeln.
-
 
 ### § 30 Liefer- und Abnahmezwang
 
@@ -860,10 +810,7 @@ nächsthöhere gemeinsame Behörde; liegen die Behörden im
 Zuständigkeitsbereich verschiedener Länder, so entscheidet das
 Bundesministerium.
 
-
 ## Sechster Abschnitt - Rechnungskontrolle und Aufbewahrungsfristen
-
-
 
 ### § 31 Bestandsverzeichnisse der Betriebe
 
@@ -908,7 +855,6 @@ Bundeswehr, der Verbände und Einrichtungen der Polizeien und der
 zivilen Verteidigung zur Führung von Bestandsverzeichnissen
 verpflichtet sind.
 
-
 ### § 32 Festschreibung der Bestandsverzeichnisse
 
 (1) Zur Feststellung eines Bezugsscheinüberhangs sowie von Warenmehr-
@@ -934,7 +880,6 @@ eröffnet sie nach Feststellung etwaiger Unterschiede neu. Bei
 Wiedereröffnung von Bezugsscheinkonten sind vorhandene Mehr- oder
 Fehlmengen und Bezugscheinüberhänge auf künftige Bezüge zu verrechnen.
 
-
 ### § 33 Aufbewahrungsfristen
 
 Hersteller, Zwischen- und Endverteiler sowie Personen, die eine
@@ -945,10 +890,7 @@ Bestandsverzeichnisse und sonstige auf Berechtigungsnachweise sich
 beziehende Unterlagen mindestens zwei Jahre lang von der letzten
 Eintragung an gerechnet, aufzubewahren.
 
-
 ## Siebenter Abschnitt - Bezugsscheinsperre und Betriebseinstellung
-
-
 
 ### § 34 Bezugsscheinsperre
 
@@ -969,7 +911,6 @@ bewirtschafteten Erzeugnisse und Berechtigungsnachweise und, soweit es
 sich um Hersteller oder Zwischenverteiler handelt, auch ein
 Verzeichnis der Lieferer und Abnehmer vorzulegen.
 
-
 ### § 35 Betriebseinstellung
 
 Wird ein Betrieb eines Herstellers, Zwischenverteilers, Endverteilers
@@ -982,10 +923,7 @@ Berechtigungsnachweise. Es stellt hierüber eine Bescheinigung aus, die
 als Grundlage für die Erteilung von Bezugsscheinen bei einer
 Wiedereröffnung des eingestellten Betriebes dient.
 
-
 ## Achter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 36 Abgabeverbot für bewirtschaftete Erzeugnisse
 
@@ -1014,13 +952,11 @@ Einzelfall das Abgabeverbot aufheben oder die Frist abkürzen.
 Diese Erzeugnisse können innerhalb der Frist nach Absatz 1 ohne
 Berechtigungsnachweise bezogen werden.
 
-
 ### § 37 Stadtstaatenklausel
 
 Die Senate der Länder Bremen und Hamburg werden ermächtigt, die
 Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem
 besonderen Verwaltungsaufbau ihrer Länder anzupassen.
-
 
 ### § 38 Zuwiderhandlungen
 
@@ -1101,14 +1037,12 @@ Ernährungssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz
 (2) Verwaltungsbehörde im Sinne des § 25 Nr. 2 Buchstabe b des
 Ernährungssicherstellungsgesetzes ist das Ernährungsamt.
 
-
 ### § 39 Zustimmung des Bundesrates
 
 Nach Anwendbarkeit des § 1 Abs. 1 bedürfen Rechtsverordnungen, zu
 deren Erlaß das Bundesministerium auf Grund des § 1 Abs. 4, § 3 Abs.
 4, §§ 5, 13 Abs. 1, § 26 Abs. 3, § 27 Abs. 3, §§ 28, 31 Abs. 5 und §
 32 Abs. 2 ermächtigt ist, nicht der Zustimmung des Bundesrates.
-
 
 ### § 40 Inkrafttreten
 
@@ -1119,7 +1053,6 @@ folgenden Kalendermonats in Kraft.
 § 26 Abs. 3, § 27 Abs. 3, §§ 28, 31 Abs. 5 und § 32 Abs. 2 gemäß § 2
 Abs. 3 des Ernährungssicherstellungsgesetzes nur nach Maßgabe des
 Artikels 80a des Grundgesetzes angewendet werden.
-
 
 ### Anlage (zu § 1 Abs. 1) Bewirtschaftete Erzeugnisse
 

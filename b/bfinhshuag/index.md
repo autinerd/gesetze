@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 2584
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -37,20 +34,17 @@ Schleswig-Holstein 52.500.000 Deutsche Mark, Niedersachsen 30.000.000
 Deutsche Mark, die Freie Hansestadt Bremen 37.500.000 Deutsche Mark
 sowie die Freie und Hansestadt Hamburg 30.000.000 Deutsche Mark.
 
-
 ## § 2
 
 Durch die Finanzhilfen werden Investitionsmaßnahmen zur Verbesserung
 der Infrastruktur, insbesondere der Verkehrsinfrastruktur, zum
 Ausgleich unterschiedlicher Wirtschaftskraft gefördert.
 
-
 ## § 3
 
 Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie in
 unmittelbar ursächlichem Zusammenhang mit den Maßnahmen nach § 2
 stehen.
-
 
 ## § 4
 
@@ -86,7 +80,6 @@ anderweitiger zweckentsprechender Einsatz dieser Mittel durch das
 jeweilige Land im Rahmen dieses Gesetzes möglich ist; entsprechendes
 gilt für Zinsbeträge.
 
-
 ## § 5
 
 (1) Die Finanzhilfen des Bundes betragen 65 vom Hundert der
@@ -97,7 +90,6 @@ selbständigen Bewirtschaftung gegeben. Die Minister und Senatoren der
 Finanzen der Länder sind ermächtigt, die zuständigen Bundeskassen zur
 Auszahlung der benötigten Kassenmittel an die zuständigen Landeskassen
 anzuweisen.
-
 
 ## § 6
 
@@ -111,12 +103,10 @@ sowie der verausgabten Landesmittel.
 Maßnahme. Der Bericht muß einen zahlenmäßigen Nachweis und eine
 Sachdarstellung enthalten.
 
-
 ## § 7
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 8
 

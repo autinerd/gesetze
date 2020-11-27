@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 22.11.2011 I 2258
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Kapitel 1 - Registerbehörde und Zweck des Registers
-
-
 
 ### § 1 Registerbehörde, Bestandteile des Registers, Zweck des Registers
 
@@ -43,14 +39,9 @@ und einer gesondert geführten Visadatei.
 mit der Durchführung ausländer- oder asylrechtlicher Vorschriften
 betrauten Behörden und andere öffentliche Stellen.
 
-
 ## Kapitel 2 - Allgemeiner Datenbestand des Registers
 
-
-
 ### Abschnitt 1 - Anlaß der Speicherung, Inhalt
-
-
 
 #### § 2 Anlaß der Speicherung
 
@@ -148,10 +139,6 @@ Gesetzes hat.
     Verpflichtungserklärung nach § 66 Abs. 2 des Aufenthaltsgesetzes die
     Einreise gestattet wird.
 
-
-
-
-
 #### § 3 Allgemeiner Inhalt
 
 Folgende Daten werden gespeichert:
@@ -197,10 +184,6 @@ Folgende Daten werden gespeichert:
 
 8.  Hinweise auf vorhandene Begründungstexte (§ 6 Abs. 5).
 
-
-
-
-
 #### § 4 Übermittlungssperren
 
 (1) Auf Antrag des Betroffenen wird eine Übermittlungssperre
@@ -237,7 +220,6 @@ Kontrolle. Die Registerbehörde hat sie gesondert aufzubewahren, durch
 geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern und nach
 Fristablauf zu löschen, sofern sie nicht für ein bereits eingeleitetes
 Kontrollverfahren benötigt werden.
-
 
 #### § 5 Suchvermerke
 
@@ -284,10 +266,7 @@ zwei Jahre gespeichert, sofern sich die Suchvermerke nicht vorher
 erledigen. Auf Antrag sind sie für andere als die ersuchende Stelle
 gesperrt.
 
-
 ### Abschnitt 2 - Datenübermittlung an die Registerbehörde, Verantwortlichkeiten, Aufzeichnungspflicht
-
-
 
 #### § 6 Übermittelnde Stellen, Inhalt der Datenübermittlung
 
@@ -367,7 +346,6 @@ Speicherung zugrundeliegenden Begründungstexte der Registerbehörde zu
 übersenden. Die Registerbehörde hat diese Texte aufzubewahren. Sie
 sind zu vernichten, wenn die gespeicherten Daten gelöscht werden.
 
-
 #### § 7 Übermittlung und Veränderung von Daten im Wege der Direkteingabe
 
 Die nach § 22 Abs. 1 zum Abruf von Daten im automatisierten Verfahren
@@ -385,7 +363,6 @@ jeweils zur Übermittlung zugelassenen Daten technisch möglich ist und
 den übermittelnden Stellen nur die Daten zur Kenntnis gelangen, die
 für die Speicherung erforderlich sind. Die eingebende Stelle muß aus
 der Datei ersichtlich sein.
-
 
 #### § 8 Verantwortung für den Registerinhalt, Datenpflege
 
@@ -422,7 +399,6 @@ soweit dazu Anlaß besteht (Datenpflege).
 (4) Bei einem Wechsel der Zuständigkeit gelten die Absätze 1 und 3 für
 die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist.
 
-
 #### § 9 Aufzeichnungspflicht bei Speicherung
 
 (1) Die Registerbehörde hat als speichernde Stelle Aufzeichnungen zu
@@ -440,14 +416,9 @@ Maßnahmen gegen unberechtigten Zugriff zu sichern und nach Fristablauf
 zu löschen, wenn sie nicht für ein bereits eingeleitetes
 Kontrollverfahren benötigt werden.
 
-
 ### Abschnitt 3 - Datenübermittlung durch die Registerbehörde, Dritte, an die Daten übermittelt werden
 
-
-
 #### Unterabschnitt 1 - Datenübermittlung an öffentliche Stellen
-
-
 
 ##### § 10 Allgemeine Vorschriften für die Datenübermittlung
 
@@ -498,7 +469,6 @@ Stelle unerläßlich ist, weitere Informationen nicht rechtzeitig von
 der aktenführenden Behörde zu erlangen sind und ihr die Daten, auf die
 sich die Begründungstexte beziehen, übermittelt werden dürfen.
 
-
 ##### § 11 Zweckbestimmung, Weiterübermittlung von Daten
 
 (1) Die ersuchende Stelle darf die in § 3 Nr. 7 in Verbindung mit § 2
@@ -522,7 +492,6 @@ gelten Satz 1 und Absatz 1 entsprechend. Sie hat der Registerbehörde
 den Empfang der Daten und den Verwendungszweck mitzuteilen, soweit es
 sich bei den übermittelten Daten nicht lediglich um die Grunddaten
 handelt. § 12 des BND-Gesetzes bleibt unberührt.
-
 
 ##### § 12 Gruppenauskunft
 
@@ -576,7 +545,6 @@ Bundesbeauftragten für den Datenschutz und, soweit die Daten an eine
 öffentliche Stelle eines Landes übermittelt worden sind, den
 Datenschutzbeauftragten des Landes zu unterrichten.
 
-
 ##### § 13 Aufzeichnungspflicht bei Datenübermittlung
 
 (1) Die Registerbehörde hat über die von ihr auf Grund der
@@ -598,7 +566,6 @@ Maßnahmen gegen unberechtigten Zugriff zu sichern und nach Fristablauf
 zu löschen, wenn sie nicht für ein bereits eingeleitetes
 Kontrollverfahren benötigt werden. Aufzeichnungen über
 Gruppenauskünfte sind gesondert aufzubewahren.
-
 
 ##### § 14 Datenübermittlung an alle öffentlichen Stellen
 
@@ -627,7 +594,6 @@ Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die
 öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert
 worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine
 Übermittlung erfolgen soll.
-
 
 ##### § 15 Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden sowie oberste Bundes- und Landesbehörden
 
@@ -687,7 +653,6 @@ Aufgaben nach dem Bundeszentralregistergesetz, nach dem Titel XI der
 Gewerbeordnung und nach dem Internationalen
 Familienrechtsverfahrensgesetz erforderlich ist.
 
-
 ##### § 16 Datenübermittlung an Gerichte
 
 (1) An Gerichte werden zum Zwecke der Rechtspflege auf Ersuchen neben
@@ -738,7 +703,6 @@ Abruf im automatisierten Verfahren ist unzulässig.
 
 (4) bis (6) (weggefallen)
 
-
 ##### § 17 Datenübermittlung an das Zollkriminalamt
 
 (1) An das Zollkriminalamt werden, soweit es die Zollfahndungsämter
@@ -787,10 +751,6 @@ Anlässe im Register erfaßt sind:
 
 6.  Ablehnung oder Rücknahme der Feststellung der Aussiedler- oder
     Spätaussiedlereigenschaft.
-
-
-
-
 
 ##### § 18 Datenübermittlung an die Bundesagentur für Arbeit und die Behörden der Zollverwaltung
 
@@ -855,10 +815,6 @@ folgenden Anlässe im Register erfaßt sind:
 5.  Ablehnung oder Rücknahme der Feststellung der Aussiedler- oder
     Spätaussiedlereigenschaft.
 
-
-
-
-
 ##### § 18a Datenübermittlung an die Träger der Sozialhilfe und die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen
 
 An die Träger der Sozialhilfe, die Träger der Grundsicherung für
@@ -877,10 +833,6 @@ Betroffenen übermittelt:
 
 
 3.  Angaben zum Asylverfahren.
-
-
-
-
 
 ##### § 19 Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden
 
@@ -927,7 +879,6 @@ Registerbehörde Daten zu einem oder mehreren der folgenden Anlässe
 (2) Die Übermittlung unterbleibt, wenn Daten des Betroffenen nur auf
 Grund eines Suchvermerks im Register erfaßt sind.
 
-
 ##### § 20 Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst
 
 (1) An die Verfassungsschutzbehörden des Bundes und der Länder, den
@@ -948,7 +899,6 @@ aufzubewahren und durch geeignete Maßnahmen gegen unberechtigten
 Zugriff zu sichern. Sie sind am Ende des Kalenderjahres, das dem Jahr
 ihrer Erstellung folgt, zu vernichten, sofern sie nicht für ein
 bereits eingeleitetes Kontrollverfahren benötigt werden.
-
 
 ##### § 21 Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren
 
@@ -994,7 +944,6 @@ erforderlichen weiteren Übermittlungen zwischen den dort genannten
 Behörden und der nach Absatz 1 Satz 1 anfragenden Behörde dürfen über
 die beteiligte Organisationseinheit des Bundesverwaltungsamtes
 erfolgen.
-
 
 ##### § 22 Abruf im automatisierten Verfahren
 
@@ -1083,7 +1032,6 @@ einen Verwendungszweck angibt, der ihr den Abruf dieser Daten erlaubt,
 sofern der Abruf nicht lediglich die Grunddaten nach § 14 Abs. 1 zum
 Gegenstand hat.
 
-
 ##### § 23 Statistische Aufbereitung der Daten
 
 (1) Das Statistische Bundesamt erstellt jährlich nach dem Stand vom
@@ -1106,7 +1054,6 @@ Statistische Bundesamt darf an die Statistischen Ämter der Länder die
 ihren Erhebungsbereich betreffenden Daten für regionale Aufbereitungen
 weiterübermitteln.
 
-
 ##### § 24 Planungsdaten
 
 (1) Die Registerbehörde kann, soweit die mit der Durchführung
@@ -1119,10 +1066,7 @@ in Verbindung mit § 2 Abs. 2 Nr. 4 bis 10 gespeicherten Daten
 
 (2) Die Daten dürfen nur für Planungszwecke genutzt werden.
 
-
 #### Unterabschnitt 2 - Datenübermittlung an nichtöffentliche Stellen, Behörden anderer Staaten und über- oder zwischenstaatliche Stellen
-
-
 
 ##### § 25 Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
 
@@ -1174,7 +1118,6 @@ Registerbehörde hat die ersuchende Stelle darauf hinzuweisen.
 Verweigert der Betroffene die Einwilligung, hat die ersuchende Stelle
 dessen Daten unverzüglich zu vernichten.
 
-
 ##### § 26 Datenübermittlung an Behörden anderer Staaten und an über- oder zwischenstaatliche Stellen
 
 An Behörden anderer Staaten und an über- oder zwischenstaatliche
@@ -1184,7 +1127,6 @@ nach § 4b Abs. 1 des Bundesdatenschutzgesetzes zulässige Übermittlung
 an ausländische Behörden findet auch § 15 entsprechende Anwendung. Für
 die Datenübermittlung ist das Einvernehmen mit der Stelle
 herzustellen, die die Daten an die Registerbehörde übermittelt hat.
-
 
 ##### § 27 Datenübermittlung an sonstige nichtöffentliche Stellen
 
@@ -1231,16 +1173,12 @@ bezeichneten Stellen ist unzulässig.
 Verwaltungsaufwands erhoben und eine Erstattung von Auslagen verlangt
 werden.
 
-
 ## Kapitel 3 - Visadatei
-
-
 
 ### § 28 Anlaß der Speicherung
 
 Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein
 Visum beantragt.
-
 
 ### § 29 Inhalt
 
@@ -1306,7 +1244,6 @@ ausstellender Staat gespeichert.
 
 (3) (weggefallen)
 
-
 ### § 30 Übermittelnde Stellen
 
 (1) Die deutschen Auslandsvertretungen, die mit der polizeilichen
@@ -1316,7 +1253,6 @@ Nr. 2 bis 12 und Abs. 2 an die Registerbehörde verpflichtet.
 
 (2) Die in Absatz 1 bezeichneten Stellen dürfen die Daten im Wege der
 Direkteingabe in das Register übermitteln. § 7 gilt entsprechend.
-
 
 ### § 31 Allgemeine Vorschriften für die Datenübermittlung
 
@@ -1346,7 +1282,6 @@ Aufenthaltsgesetzes zur Verfügung.
 
 (3) Im übrigen gelten die §§ 8, 9, 10 Abs. 1 sowie die §§ 11, 12 und
 13 entsprechend.
-
 
 ### § 32 Dritte, an die Daten übermittelt werden
 
@@ -1399,17 +1334,13 @@ gelten entsprechend.
 
 (3) Eine Datenübermittlung an nichtöffentliche Stellen ist unzulässig.
 
-
 ### § 33 Abruf im automatisierten Verfahren
 
 Die in § 32 bezeichneten Stellen können zum Abruf von Daten im
 automatisierten Verfahren zugelassen werden. § 22 Abs. 1 Satz 2 und 3
 und Abs. 2 bis 4 gilt entsprechend.
 
-
 ## Kapitel 4 - Rechte des Betroffenen
-
-
 
 ### § 34 Auskunft an den Betroffenen
 
@@ -1476,16 +1407,12 @@ Die Mitteilung des Bundesbeauftragten an den Betroffenen darf keine
 Rückschlüsse auf den Erkenntnisstand der speichernden Stelle zulassen,
 sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
-
 ## Kapitel 5 - Berichtigung, Löschung und Sperrung von Daten
-
-
 
 ### § 35 Berichtigung
 
 Die Registerbehörde hat die nach den §§ 3 bis 5 und 29 gespeicherten
 Daten zu berichtigen, wenn sie unrichtig sind.
-
 
 ### § 36 Löschung
 
@@ -1505,7 +1432,6 @@ Stellen die Daten für ihre Aufgabenerfüllung nicht mehr benötigen.
 
 (3) Die Ausländerbehörden teilen der Registerbehörde vollzogene
 Einbürgerungen mit, sobald sie davon Kenntnis erhalten.
-
 
 ### § 37 Sperrung
 
@@ -1531,7 +1457,6 @@ gesperrte Daten dürfen unter Hinweis auf den Sperrvermerk außerdem
 verwendet werden, soweit dies für Zwecke der Strafverfolgung
 erforderlich ist.
 
-
 ### § 38 Unterrichtung beteiligter Stellen
 
 (1) Die Registerbehörde hat im Fall einer Berichtigung, Löschung oder
@@ -1542,10 +1467,7 @@ unterrichten, die ihr diese Daten übermittelt hat.
 
 (2) Absatz 1 gilt nicht für Löschungen bei Fristablauf.
 
-
 ## Kapitel 6 - Weitere Behörden
-
-
 
 ### § 39 Aufsichtsbehörden
 
@@ -1555,10 +1477,7 @@ anzuwenden, soweit dies für die Ausübung ihrer Aufsichtsfunktion
 erforderlich ist. Ein Abruf von Daten im automatisierten Verfahren ist
 unzulässig.
 
-
 ## Kapitel 7 - Schlußvorschriften
-
-
 
 ### § 40 Rechtsverordnungen
 
@@ -1625,7 +1544,6 @@ Bundesrates durch Rechtsverordnung Einzelheiten über die Festsetzung
 von Gebühren und die Erstattung von Auslagen für die Datenübermittlung
 nach § 27 bestimmen.
 
-
 ### § 41 Verwaltungsvorschriften
 
 (1) Das Bundesministerium des Innern erläßt mit Zustimmung des
@@ -1638,7 +1556,6 @@ Verwaltungsvorschriften nicht der Zustimmung des Bundesrates.
 die Daten, die von der Registerbehörde nach § 20 Abs. 1 übermittelt
 werden. Der Bundesbeauftragte für den Datenschutz ist vor Erlaß der
 Dienstvorschrift anzuhören.
-
 
 ### § 42 Strafvorschriften
 
@@ -1676,11 +1593,9 @@ die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 (4) Die Tat wird nur auf Antrag verfolgt.
 
-
 ### § 43 Aufhebung von Rechtsvorschriften
 
 -
-
 
 ### § 44 Bestimmungen zum Verwaltungsverfahren
 

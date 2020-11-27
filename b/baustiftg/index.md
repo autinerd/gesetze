@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3177
 
-
-
 ## § 1 Name, Rechtsform und Sitz der Stiftung
 
 Unter dem Namen "Bundesstiftung Baukultur" wird eine rechtsfähige
 Stiftung des öffentlichen Rechts mit Sitz in Potsdam errichtet.
-
 
 ## § 2 Stiftungszweck
 
@@ -36,7 +33,6 @@ wohnungswirtschaftlicher Qualitätsmaßstäbe dienen. Die Stiftung wird
 sich dabei auf Instrumente mit bundesweiter und internationaler
 Ausstrahlung konzentrieren. Maßnahmen der Länder und Gemeinden bleiben
 hiervon unberührt.
-
 
 ## § 3 Konvent der Baukultur
 
@@ -61,7 +57,6 @@ der Stiftung mitwirken.
 
 (5) Das Nähere regelt die Satzung.
 
-
 ## § 4 Stiftungsvermögen
 
 (1) Der Bund stellt der Stiftung ein Stiftungskapital in Höhe von
@@ -82,7 +77,6 @@ Zustimmung des Stiftungsrats Leistungen für Dritte zu erbringen.
 (5) Erträge des Stiftungsvermögens und sonstige Einnahmen sind nur im
 Sinne des Stiftungszwecks zu verwenden.
 
-
 ## § 5 Organe der Stiftung
 
 Organe der Stiftung sind
@@ -94,10 +88,6 @@ Organe der Stiftung sind
 
 
 3.  der Beirat.
-
-
-
-
 
 ## § 6 Vorstand
 
@@ -114,7 +104,6 @@ zweckentsprechende und wirtschaftliche Verwendung der Stiftungsmittel
 und vertritt die Stiftung gerichtlich und außergerichtlich.
 
 (4) Das Nähere regelt die Satzung.
-
 
 ## § 7 Stiftungsrat
 
@@ -163,7 +152,6 @@ Bundesreisekostengesetzes.
 
 (8) Das Nähere regelt die Satzung.
 
-
 ## § 8 Beirat
 
 (1) Der Beirat besteht aus 20 Mitgliedern unterschiedlicher
@@ -196,13 +184,11 @@ Bundesreisekostengesetzes.
 
 (7) Das Nähere regelt die Satzung.
 
-
 ## § 9 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit der
 Mehrheit seiner Mitglieder beschlossen wird. Satzungsänderungen
 bedürfen ebenfalls der Mehrheit der Mitglieder des Stiftungsrats.
-
 
 ## § 10 Aufsicht, Haushalt, Rechnungsprüfung
 
@@ -219,7 +205,6 @@ bedarf.
 (3) Die Haushalts- und Wirtschaftsführung der Stiftung unterliegen der
 Prüfung durch den Bundesrechnungshof.
 
-
 ## § 11 Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Die Geschäfte der Stiftung werden durch Arbeitnehmerinnen und
@@ -229,7 +214,6 @@ Arbeitnehmer wahrgenommen.
 der Stiftung sind die für die Arbeitnehmerinnen und Arbeitnehmer des
 Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen
 anzuwenden.
-
 
 ## § 12 Übergangsregelung
 
@@ -242,7 +226,6 @@ Durchführung des Konvents erforderlichen sowie unabweisbare
 Entscheidungen zu treffen. Dies umfasst auch die Bestellung eines
 vorläufigen Vorstands sowie die Verabschiedung einer vorläufigen
 Satzung. Die §§ 7 und 9 gelten entsprechend.
-
 
 ## § 13 Inkrafttreten
 

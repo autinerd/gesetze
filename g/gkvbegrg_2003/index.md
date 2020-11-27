@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1c G v. 12. 6.2003 I 844
 
-
 ## (XXXX)
 
 Abweichend von § 71 Abs. 3 des Fünften Buches Sozialgesetzbuch gilt

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1860
 
-
-
 ## Eingangsformel
 
 Um den Verlauf der gemeinsamen Landesgrenze zweckmäßig zu gestalten
@@ -29,7 +27,6 @@ Grundgesetzes in Verbindung mit § 2 Abs. 1 des Gesetzes über das
 Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
 nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S.
 1325) folgenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -46,17 +43,12 @@ Im Gebiet der Gemeinde Bad Essen, Gemarkung Dahlinghausen,
 
     Flur 5, Flurstücke 1/3, 2/2, 3/8, 4/11, 4/12.
 
-
-
-
-
 ## Art 2
 
 In dem abzutretenden Gebiet befindet sich kein Verwaltungsvermögen im
 Sinne des § 4 des Gesetzes über das Verfahren bei sonstigen Änderungen
 des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des
 Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325).
-
 
 ## Art 3
 
@@ -71,7 +63,6 @@ Vertrages die für die Verwaltung notwendigen Akten, Urkunden, Register
 und andere Unterlagen zu übergeben und die für die Berichtigung des
 Grundbuches erforderlichen Erklärungen abzugeben.
 
-
 ## Art 4
 
 (1) Der Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden
@@ -79,7 +70,6 @@ werden ausgetauscht.
 
 (2) Der Vertrag tritt am Ersten des auf den Austausch der
 Ratifikationsurkunden folgenden Monats in Kraft.
-
 
 ## Schlussformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 § 12 V v. 19.12.2008 I 2868; 2010, 380
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -39,10 +38,6 @@ Auf Grund
 -   des § 27 Abs. 1 des Bundeswasserstraßengesetzes in der Fassung der
     Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) verordnet das
     Bundesministerium für Verkehr:
-
-
-
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -83,10 +78,6 @@ Im Sinne dieser Verordnung ist
 
     das örtlich zuständige Wasser- und Schiffahrtsamt.
 
-
-
-
-
 ## § 2 Anwendungsbereich
 
 Diese Verordnung regelt
@@ -99,10 +90,6 @@ Diese Verordnung regelt
 
 2.  das Verhalten des Fährpersonals, der Fährbenutzer an Bord und an den
     Anlegestellen.
-
-
-
-
 
 ## § 3 Ausnahmen vom Anwendungsbereich
 
@@ -127,10 +114,6 @@ Diese Verordnung ist nicht anzuwenden auf Fähren
 
 6.  der deutsch-luxemburgischen Grenzstrecke der Mosel.
 
-
-
-
-
 ## § 4 Fähraufsicht
 
 (1) Der Fährbetrieb wird mindestens alle zweieinhalb Jahre von der
@@ -150,7 +133,6 @@ Aufsichtsbehörde dort festgesetzten Zeitraums zu beseitigen.
 Prüfungen nach Absatz 1 jederzeit überprüfen und die Vorlage des
 Fährprüfungsbuches verlangen.
 
-
 ## § 5 Fahrpläne
 
 (1) Fährinhaber, deren Fähren nach einem festen Fahrplan verkehren,
@@ -161,14 +143,12 @@ Inkrafttreten mitgeteilt werden.
 (2) Der Fährinhaber muß den Fahrplan durch Aushang an den
 Anlegestellen und auf der Fähre bekanntmachen.
 
-
 ## § 6 Anlegestellen
 
 Der Fährinhaber und der Fährführer dürfen den Fährbetrieb nur von
 Anlegestellen aus durchführen oder durchführen lassen, die von der
 Aufsichtsbehörde zur Benutzung durch Fähren zugelassen sind oder als
 zugelassen gelten.
-
 
 ## § 7 Sicherheit und Ordnung an Bord
 
@@ -226,7 +206,6 @@ beleuchtet sind. Die Beleuchtung darf die Erkennbarkeit der
 Bordlichter nicht beeinträchtigen und keine störende Blendwirkung
 haben.
 
-
 ## § 8 Betreten, Befahren und Verlassen der Fähre
 
 Der Fährführer darf das Betreten, Befahren oder Verlassen der Fähre
@@ -234,7 +213,6 @@ erst zulassen, nachdem die Fähre ordnungsgemäß an der Anlegestelle
 festgemacht ist und nachdem er sich davon überzeugt hat, daß das
 Betreten, Befahren oder Verlassen der Fähre ohne Gefahr möglich ist.
 Er kann die Reihenfolge des Zu- und Abgangs regeln.
-
 
 ## § 9 Verhalten der Fährbenutzer
 
@@ -269,7 +247,6 @@ Befahren der Fähre anzeigen.
 
 (5) Absatz 4 gilt für die Beförderung von Gütern entsprechend.
 
-
 ## § 10 Beförderung gefährlicher Güter
 
 (1) Für die Beförderung gefährlicher Güter gelten auch auf Fähren die
@@ -293,7 +270,6 @@ eingehalten werden.
 will, hat dies dem Fährpersonal vor dem Betreten oder Befahren der
 Fähre anzuzeigen und seine Beförderungspapiere vorzulegen.
 
-
 ## § 11 Ausschluß von Beförderungen
 
 Der Fährführer kann Personen, Tiere oder Gegenstände, von denen eine
@@ -304,7 +280,6 @@ Fahrzeugen ablehnen, die Zahl der Fahrzeuge mit gefährlichen Gütern
 beschränken oder geeignete Auflagen erteilen, insbesondere durch
 Bestimmung eines Sicherheitsbereiches um das Fahrzeug.
 
-
 ## § 12 Einstellung des Fährverkehrs
 
 Der Fährführer hat den Fährverkehr einzustellen, wenn das Übersetzen
@@ -312,12 +287,10 @@ mit Gefahr verbunden ist. Eine Gefahr ist insbesondere dann gegeben,
 wenn der Wasserstand, die Eislage oder Sturm ein sicheres Übersetzen
 nicht mehr möglich erscheinen lassen.
 
-
 ## § 13 Sicherung der Fähre
 
 Entfernt sich der Fährführer von der Fähre, so hat er diese am
 Liegeplatz gegen unbefugte Benutzung zu sichern.
-
 
 ## § 14 Aushang von Vorschriften und Anbringen von Hinweistafeln
 
@@ -332,7 +305,6 @@ Aufsichtsbehörde kann Ausnahmen von den Sätzen 1 und 2 zulassen.
 Fähre und an den Anlegestellen Hinweistafeln über die
 Militärlastenklasse anbringt oder anbringen läßt. Er darf diese
 Hinweistafeln nicht entfernen, verändern oder unkenntlich machen.
-
 
 ## § 15 Ordnungswidrigkeiten
 
@@ -384,17 +356,9 @@ fahrlässig
 
     e)  entgegen § 13 die Fähre gegen unbefugte Benutzung nicht sichert.
 
-
-
-
-
-
-
-
 ## § 16
 
 -
-
 
 ## § 17 Inkrafttreten, Außerkrafttreten
 
@@ -432,7 +396,6 @@ fahrlässig
 
 (3) Fährprüfungsbücher auf Grund einer nach Absatz 2 außer Kraft
 tretenden Vorschrift dürfen aufgebraucht werden.
-
 
 ## Anlage Fährprüfungsbuch (zu § 4 Abs. 1)
 

@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1937, 727
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 14 des Gesetzes über Groß-Hamburg und andere
 Gebietsbereinigungen vom 26. Januar 1937 (Reichsgesetzbl. I S. 91)
 wird verordnet:
-
 
 ## § 1
 
@@ -51,7 +48,6 @@ Nr. 81 sowie der beiden Leuchtfeuer "Tinsdahl" und "Wittenbergen"
 verbleibt dem
 Reich (Reichswasserstraßenverwaltung).
 
-
 ## § 2
 
 Der
@@ -62,18 +58,15 @@ Reichswasserstraßen              im Gebiet Groß-Hamburg abweichend von
 der Regelung des § 1 oder der sonstigen gesetzlichen Regelung anordnen
 oder widerrufen.
 
-
 ## § 3
 
 Der
 Reichsverkehrsminister              erläßt die zur Durchführung ...
 dieser Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
 
-
 ## § 4
 
 Diese Verordnung tritt am 1. Juli 1937 in Kraft.
-
 
 ## Schlußformel
 

@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 540 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 23a Abs. 1, 2 und 3 Satz 3 Halbsatz 2 des
 Treuhandgesetzes, der durch Artikel 1 Nr. 9 des Gesetzes vom 9. August
 1994 (BGBl. I S. 2062) eingefügt worden ist, verordnet die
 Bundesregierung:
-
 
 ## § 1 Übertragung von Aufgaben
 
@@ -61,10 +59,6 @@ und dem jeweils zuständigen Bundesministerium wahr.
     bezeichneten Gesellschaften und ihre Unternehmensbeteiligungen
     beziehen.
 
-
-
-
-
 ## § 2 Übertragung von Unternehmensbeteiligungen
 
 (1) Die Geschäftsanteile der Treuhandanstalt an der im Handelsregister
@@ -88,7 +82,6 @@ Amtsgerichts Berlin-Charlottenburg unter HRB 34165 eingetragenen
 Deutsche Kreditbank Aktiengesellschaft mit Sitz in Berlin werden mit
 Wirkung vom 1. Januar 1995 auf den Bund übertragen.
 
-
 ## § 3 Haftung im Innenverhältnis
 
 (1) Im Innenverhältnis haftet für die nach § 23a Abs. 3 des
@@ -102,11 +95,9 @@ Unternehmen handelt.
 übergegangenen Verbindlichkeiten, soweit diese nicht durch das
 übertragene Vermögen gedeckt sind.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 2 Abs. 2)
 
@@ -211,10 +202,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
     *   Berlin-Charlottenburg
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
@@ -244,10 +231,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
     *   HRB  554
 
     *   Halle-Saalkreis
-
-
-
-
 
 ## Anlage 3 (zu § 2 Abs. 2)
 
@@ -297,10 +280,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
     *   Halle-Saalkreis
 
-
-
-
-
 ## Anlage 4 (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3912
@@ -340,10 +319,6 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3912
     *   HRB 52334
 
     *   Berlin-Charlottenburg
-
-
-
-
 
 ## Anlage 5 (zu § 2 Abs. 3)
 

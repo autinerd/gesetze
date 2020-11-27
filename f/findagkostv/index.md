@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3a G v. 28.11.2012 I 2369
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -36,10 +35,7 @@ Auf Grund
 
 verordnet das Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Gebührenerhebung
-
-
 
 ### § 1 Gebühren
 
@@ -48,7 +44,6 @@ erhebt für Amtshandlungen im Rahmen der ihr gesetzlich zugewiesenen
 Aufgaben Gebühren nach Maßgabe des § 14 und des § 17b des
 Finanzdienstleistungsaufsichtsgesetzes und den Bestimmungen dieses
 Abschnitts.
-
 
 ### § 2 Gebührentatbestände; Höhe der Gebühren
 
@@ -60,7 +55,6 @@ anliegenden Gebührenverzeichnis.
 denselben Gebührenschuldner kann die Bundesanstalt auf Antrag des
 Gebührenschuldners eine Pauschgebühr, die den geringeren Umfang des
 Verwaltungsaufwandes berücksichtigt, im Voraus festsetzen.
-
 
 ### § 3 Gebührenerhebung in besonderen Fällen
 
@@ -122,30 +116,17 @@ gebührenfrei.
 (5) Die Gebühr beträgt in den Fällen der Absätze 2, 3 und 4 Satz 1 bis
 3 mindestens 50 Euro.
 
-
 ### § 4 (weggefallen)
-
-
 
 ## Abschnitt 2 - Umlage
 
-
-
 ### (XXXX) §§ 5 bis 12b (weggefallen)
-
-
 
 ## Abschnitt 3 - Übergangs- und Schlussbestimmungen
 
-
-
 ### § 13 (weggefallen)
 
-
-
 ### § 13a (weggefallen)
-
-
 
 ### § 14 Aufhebung von Rechtsvorschriften
 
@@ -161,11 +142,9 @@ die Umlagejahre 1998, 1999, 2000, 2001 und des bis zum Inkrafttreten
 dieser Verordnung verbleibenden Abrechnungszeitraums des Jahres 2002
 weiter anzuwenden.
 
-
 ### § 15 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
-
 
 ### Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 

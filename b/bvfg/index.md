@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 23.10.2012 I 2246
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Vertriebener
 
@@ -102,7 +99,6 @@ wenn es aus den Umständen hervorgeht, dass er sich auch nach dem
 Kriege in diesen Gebieten ständig niederlassen wollte oder wenn er
 diese Gebiete nach dem 31. Dezember 1989 verlassen hat.
 
-
 ### § 2 Heimatvertriebener
 
 (1) Heimatvertriebener ist ein Vertriebener, der am 31. Dezember 1937
@@ -119,7 +115,6 @@ Abkömmling, der die Vertreibungsgebiete vor dem 1. Januar 1993
 verlassen hat, wenn der andere Ehegatte oder bei Abkömmlingen ein
 Elternteil am 31. Dezember 1937 oder bereits einmal vorher seinen
 Wohnsitz im Vertreibungsgebiet (Absatz 1) gehabt hat.
-
 
 ### § 3 Sowjetzonenflüchtling
 
@@ -159,7 +154,6 @@ entscheidende Beeinträchtigung nahe bevorstand.
 (3) § 1 Abs. 1 Satz 2 und 3, Abs. 2 Nr. 4 bis 6, Abs. 3 und 4 ist
 sinngemäß anzuwenden.
 
-
 ### § 4 Spätaussiedler
 
 (1) Spätaussiedler ist in der Regel ein deutscher Volkszugehöriger,
@@ -198,7 +192,6 @@ nach § 27 Abs. 1 Satz 2 in den Aufnahmebescheid einbezogen worden
 sind, erwerben, sofern die Einbeziehung nicht unwirksam geworden ist,
 diese Rechtsstellung mit ihrer Aufnahme im Geltungsbereich des
 Gesetzes.
-
 
 ### § 5 Ausschluss
 
@@ -267,13 +260,6 @@ nicht, wer
     c)  wer für mindestens drei Jahre mit dem Inhaber einer Funktion im Sinne
         von Buchstabe b in häuslicher Gemeinschaft gelebt hat.
 
-
-
-
-
-
-
-
 ### § 6 Volkszugehörigkeit
 
 (1) Deutscher Volkszugehöriger im Sinne dieses Gesetzes ist, wer sich
@@ -309,10 +295,7 @@ oder wirtschaftlichen Nachteilen verbunden war, jedoch auf Grund der
 Gesamtumstände der Wille unzweifelhaft ist, der deutschen Volksgruppe
 und keiner anderen anzugehören.
 
-
 ## Zweiter Abschnitt - Verteilung, Rechte und Vergünstigungen
-
-
 
 ### § 7 Grundsatz
 
@@ -325,7 +308,6 @@ mildern.
 Spätaussiedlers, die die Voraussetzungen des § 4 Abs. 1 oder 2 nicht
 erfüllen, aber die Aussiedlungsgebiete im Wege des Aufnahmeverfahrens
 verlassen haben, entsprechend anzuwenden. § 5 gilt sinngemäß.
-
 
 ### § 8 Verteilung
 
@@ -365,7 +347,6 @@ dort nicht aufgenommen werden.
 (7) § 45 des Achten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes
 vom 26. Juni 1990, BGBl. I S. 1163) gilt nicht für Einrichtungen zur
 Aufnahme von Spätaussiedlern.
-
 
 ### § 9 Hilfen
 
@@ -434,10 +415,6 @@ a)  die Entwicklung von Grundstruktur und Lerninhalten des
 
 b)  die Durchführung der Maßnahmen nach den Absätzen 1 und 4.
 
-
-
-
-
 ### § 10 Prüfungen und Befähigungsnachweise
 
 (1) Prüfungen oder Befähigungsnachweise, die Spätaussiedler bis zum 8.
@@ -478,7 +455,6 @@ ist die glaubhafte Bestätigung
 (5) Die Bescheinigung gemäß Absatz 3 hat im Rechtsverkehr dieselbe
 Wirkung wie die Urkunde über die abgelegte Prüfung oder den erworbenen
 Befähigungsnachweis.
-
 
 ### § 11 Leistungen bei Krankheit
 
@@ -584,18 +560,15 @@ Spätaussiedler als Aufnahmeland festgelegt ist oder festgelegt wird.
 bis 7a ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit
 gegeben.
 
-
 ### § 12 (weggefallen)
 
 -
-
 
 ### § 13 Gesetzliche Rentenversicherung, gesetzliche Unfallversicherung
 
 Die Rechtsstellung der Spätaussiedler in der gesetzlichen
 Rentenversicherung und der gesetzlichen Unfallversicherung richtet
 sich nach dem Fremdrentengesetz.
-
 
 ### § 14 Förderung einer selbständigen Erwerbstätigkeit
 
@@ -629,7 +602,6 @@ Befugnis zur Anleitung von Lehrlingen besessen haben, sind auf Antrag
 bei der für den Ort ihres ständigen Aufenthaltes zuständigen
 Handwerkskammer in die Handwerksrolle einzutragen. Für die
 Glaubhaftmachung ist § 10 Abs. 3 und 4 entsprechend anzuwenden.
-
 
 ### § 15 Bescheinigungen
 
@@ -679,7 +651,6 @@ gegen die schutzwürdigen Belange des Ehegatten oder Abkömmlings,
 insbesondere unter Beachtung des Kindeswohls, abzuwägen. Der Widerruf
 einer Bescheinigung ist nicht zulässig.
 
-
 ### § 16 Datenschutz
 
 Für die Verfahren nach § 15 gilt § 29 Abs. 1 und 1a entsprechend. Die
@@ -707,27 +678,17 @@ mitgeteilt werden:
 
 4.  Tag der Entscheidung und Eintritt der Rechtsbeständigkeit.
 
-
-
-
-
 ### (XXXX) §§ 17 bis 20 (weggefallen)
 
 -
 
-
 ## Dritter Abschnitt - Behörden und Beiräte
-
-
 
 ### (XXXX) §§ 21 bis 25 (weggefallen)
 
 -
 
-
 ## Vierter Abschnitt - Aufnahme
-
-
 
 ### § 26 Aufnahmebescheid
 
@@ -735,7 +696,6 @@ Personen, die die Aussiedlungsgebiete als Spätaussiedler verlassen
 wollen, um im Geltungsbereich dieses Gesetzes ihren ständigen
 Aufenthalt zu nehmen, wird nach Maßgabe der folgenden Vorschriften ein
 Aufnahmebescheid erteilt.
-
 
 ### § 27 Anspruch
 
@@ -796,7 +756,6 @@ verteilten Personen im Sinne der §§ 4, 7 nicht überschreitet. Das
 Bundesverwaltungsamt kann hiervon um bis zu 10 vom Hundert nach oben
 oder unten abweichen.
 
-
 ### § 28 Verfahren
 
 Das Bundesverwaltungsamt führt das Aufnahmeverfahren durch und erteilt
@@ -806,7 +765,6 @@ Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den
 Militärischen Abschirmdienst, die Bundespolizei, das Bundeskriminalamt
 und das Zollkriminalamt, wenn die zu überprüfende Person das 16.
 Lebensjahr vollendet hat.
-
 
 ### § 29 Datenschutz
 
@@ -884,15 +842,11 @@ Rechtsstellung als Deutscher nach Artikel 116 Abs. 1 des Grundgesetzes
 sowie für Verfahren zur Gewährung von Leistungen nach diesem Gesetz
 genutzt und übermittelt werden.
 
-
 ### (XXXX) §§ 30 bis 93 (weggefallen)
 
 -
 
-
 ## Fünfter Abschnitt - Namensführung, Beratung
-
-
 
 ### § 94 Familiennamen und Vornamen
 
@@ -942,7 +896,6 @@ beurkundet werden; im Verteilungsverfahren kann auch das
 Bundesverwaltungsamt die Erklärungen öffentlich beglaubigen oder
 beurkunden. Gebühren und Auslagen werden nicht erhoben.
 
-
 ### § 95 Unentgeltliche Beratung
 
 (1) Organisationen der Vertriebenen, Flüchtlinge und Spätaussiedler,
@@ -955,10 +908,7 @@ Sie bedürfen hierzu keiner besonderen Erlaubnis.
 untersagt werden. Das Nähere bestimmt die Bundesregierung durch
 Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
 ## Sechster Abschnitt - Kultur, Forschung und Statistik
-
-
 
 ### § 96 Pflege des Kulturgutes der Vertriebenen und Flüchtlinge und Förderung der wissenschaftlichen Forschung
 
@@ -974,7 +924,6 @@ Flüchtlinge ergeben, sowie die Weiterentwicklung der Kulturleistungen
 der Vertriebenen und Flüchtlinge zu fördern. Die Bundesregierung
 berichtet jährlich dem Bundestag über das von ihr Veranlasste.
 
-
 ### § 97 Statistik
 
 Bund und Länder haben die auf dem Gebiete des Spätaussiedlerwesens
@@ -984,10 +933,7 @@ Unterlagen für die Durchführung der zum Zwecke der Eingliederung der
 Spätaussiedler erlassenen Vorschriften zur Verfügung gestellt werden
 können.
 
-
 ## Siebter Abschnitt - Strafbestimmungen
-
-
 
 ### § 98 Erschleichung von Vergünstigungen
 
@@ -997,7 +943,6 @@ macht oder benutzt, um für sich oder einen anderen Rechte oder
 Vergünstigungen, die Spätaussiedlern vorbehalten sind, zu
 erschleichen.
 
-
 ### § 99 Pflichtverletzung von Verwaltungsangehörigen
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
@@ -1005,10 +950,7 @@ bestraft, wer als Verwaltungsangehöriger bei der Durchführung dieses
 Gesetzes Bescheinigungen für Personen ausstellt, von denen er weiß,
 dass sie kein Recht auf Erteilung der Bescheinigung haben.
 
-
 ## Achter Abschnitt - Übergangs- und Schlussvorschriften
-
-
 
 ### § 100 Anwendung des bisherigen Rechts
 
@@ -1057,7 +999,6 @@ des Anspruchs auf Arbeitslosenhilfe für einen Zeitraum im Dezember
 (8) § 90a Abs. 1, 3 und 4 ist in der bis zum 31. Dezember 1992
 geltenden Fassung weiterhin anzuwenden.
 
-
 ### § 100a Übergangsregelung
 
 (1) Auch Anträge nach § 15 Abs. 1 sind nach dem Recht zu bescheiden,
@@ -1068,7 +1009,6 @@ oder Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach §
 26 erhalten haben, bestimmt sich weiter nach den §§ 4 und 5 in der vor
 dem 24. Mai 2007 geltenden Fassung mit der Maßgabe, dass kein
 Ausschlussgrund nach § 5 Nr. 1 Buchstabe d oder Buchstabe e vorliegt.
-
 
 ### § 100b Anwendungsvorschrift
 
@@ -1082,28 +1022,23 @@ ihnen eine Bescheinigung nach § 15 Abs. 2 auszustellen, aus der
 hervorgeht, dass sie den Status im Sinne des Artikels 116 Abs. 1 des
 Grundgesetzes nicht erworben haben.
 
-
 ### § 101 (weggefallen)
 
 -
-
 
 ### § 102 (weggefallen)
 
 -
 
-
 ### § 103 Kostentragung
 
 Der Bund trägt die Aufwendungen nach § 9 dieses Gesetzes.
-
 
 ### § 104
 
 Das Bundesministerium des Innern kann allgemeine
 Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das
 Bundesverwaltungsamt erlassen.
-
 
 ### (XXXX) §§ 105 bis 107 (weggefallen)
 

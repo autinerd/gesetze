@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1776
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 1 Nr. 1 Buchstabe b und des § 15 Abs. 1 Nr. 3
@@ -24,10 +22,7 @@ des Tierzuchtgesetzes vom 22. Dezember 1989 (BGBl. I S. 2493)
 verordnet der Bundesminister für Ernährung, Landwirtschaft und
 Forsten:
 
-
 ## Abschnitt 1 - Ausbildungsstätten
-
-
 
 ### § 1
 
@@ -40,14 +35,9 @@ Behörde.
 und technischen Einrichtung und nach ihrer personellen Besetzung die
 Voraussetzungen für einen ordnungsgemäßen Lehrgangsbetrieb erfüllen.
 
-
 ## Abschnitt 2 - Künstliche Besamung
 
-
-
 ### Unterabschnitt 1 - Lehrgänge
-
-
 
 #### § 2 Zulassungsvoraussetzungen
 
@@ -70,10 +60,6 @@ vollendet hat und
 4.  eine mindestens vierjährige Tätigkeit in einem landwirtschaftlichen
     Betrieb mit Viehhaltung ausgeübt und ein mindestens dreimonatiges
     Praktikum in einer Besamungsstation abgelegt hat.
-
-
-
-
 
 #### § 3 Lehrinhalte
 
@@ -110,7 +96,6 @@ mehrerer Tierarten gebildet werden. Wird ein Schwerpunkt für die
 Besamung nur einer Tierart gebildet, so kann die Dauer des Lehrgangs
 bis auf vier Wochen gekürzt werden.
 
-
 #### § 4 Abschlußprüfung
 
 (1) Der Lehrgang schließt mit einer Prüfung ab.
@@ -135,16 +120,12 @@ gebildet haben.
 (5) Hat der Prüfungsteilnehmer die Prüfung nicht bestanden, so sind
 ihm die Gründe des Nichtbestehens schriftlich mitzuteilen.
 
-
 ### Unterabschnitt 2 - Kurzlehrgänge
-
-
 
 #### § 5 Zulassungsvoraussetzungen
 
 An einem Kurzlehrgang darf nur teilnehmen, wer das 16. Lebensjahr
 vollendet hat.
-
 
 #### § 6 Lehrinhalte
 
@@ -181,10 +162,7 @@ eigenen Bestand oder im Bestand seines Arbeitgebers die künstliche
 Besamung durchführen darf. Wird ihm die Bescheinigung nicht erteilt,
 so sind ihm die Gründe hierfür schriftlich mitzuteilen.
 
-
 ## Abschnitt 3 - Embryotransfer
-
-
 
 ### § 7 Zulassungsvoraussetzungen
 
@@ -201,7 +179,6 @@ vollendet und
 
 
 hat.
-
 
 ### § 8 Lehrinhalte
 
@@ -232,7 +209,6 @@ Ausbildung in den Sachgebieten nach Absatz 1 Nr. 2 bis 4 ist unter
 Leitung eines Tierarztes durchzuführen. Dabei ist der Lehrinhalt nach
 den Nummern 3 und 4 vorwiegend am lebenden Tier zu vermitteln.
 
-
 ### § 9 Abschlußprüfung
 
 (1) Der Lehrgang schließt mit einer Prüfung ab. § 4 Abs. 2 und 3 gilt
@@ -244,10 +220,7 @@ hervorgeht, bei welcher Art landwirtschaftlicher Nutztiere er den
 Embryotransfer durchführen darf. Wird ihm die Bescheinigung nicht
 erteilt, so sind ihm die Gründe hierfür schriftlich mitzuteilen.
 
-
 ## Abschnitt 4 - Schlußvorschriften
-
-
 
 ### § 10 Übergangsvorschriften
 
@@ -280,11 +253,9 @@ bis zum 31. Dezember 1993, berechtigt, Eizellen und Embryonen nach §
 (3) Nach bisherigem Recht erteilte Anerkennungen von
 Ausbildungsstätten gelten als Anerkennungen nach dieser Verordnung.
 
-
 ### § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlußformel
 

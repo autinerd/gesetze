@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 56 G v. 6.12.2011 I 2515
 
-
 ## Abschnitt 1 - Erlaubnis
-
-
 
 ### § 1
 
@@ -41,7 +38,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -183,7 +179,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -219,10 +214,7 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## Abschnitt 2 - Ausbildung
-
-
 
 ### § 3
 
@@ -236,7 +228,6 @@ oder auf ärztliche Veranlassung medizinisch indizierte podologische
 Behandlungen durchzuführen und damit bei der Prävention, Therapie und
 Rehabilitation von Fußerkrankungen mitzuwirken (Ausbildungsziel).
 
-
 ### § 4
 
 Die Ausbildung dauert in Vollzeitform zwei Jahre, in Teilzeitform
@@ -247,7 +238,6 @@ praktischen Ausbildung. Sie steht unter der Gesamtverantwortung der
 Schule. Die Schulen haben die praktische Ausbildung im Rahmen einer
 Regelung mit geeigneten Einrichtungen, an denen podologische
 Behandlungsmaßnahmen durchgeführt werden, sicherzustellen.
-
 
 ### § 5
 
@@ -261,10 +251,6 @@ Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
     Hauptschulabschluss erweitert, oder eine nach Hauptschulabschluss oder
     einer gleichwertigen Schulbildung erfolgreich abgeschlossene
     Berufsausbildung von mindestens zweijähriger Dauer.
-
-
-
-
 
 ### § 6
 
@@ -293,7 +279,6 @@ nicht gefährdet wird.
 ihrer Gleichwertigkeit auf die Dauer der Ausbildung angerechnet
 werden, wenn die Durchführung der Ausbildung und die Erreichung des
 Ausbildungsziels dadurch nicht gefährdet werden.
-
 
 ### § 7
 
@@ -339,9 +324,7 @@ Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## Abschnitt 2a - Erbringen von Dienstleistungen
-
 
 ### § 7a
 
@@ -437,7 +420,6 @@ darüber auszustellen, dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 7b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -453,7 +435,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 7c
 
 Podologinnen und Podologen im Sinne des § 7a haben beim Erbringen der
@@ -463,10 +444,7 @@ diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich
 die zuständige Behörde des Niederlassungsmitgliedstaats dieses
 Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## Abschnitt 3 - Zuständigkeiten
-
-
 
 ### § 8
 
@@ -490,10 +468,7 @@ erbracht worden ist. Die Bescheinigungen nach § 7a Abs. 4 stellt die
 zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf
 des Podologen ausübt.
 
-
 ## Abschnitt 4 - Bußgeldvorschriften
-
-
 
 ### § 9
 
@@ -513,10 +488,7 @@ führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 10
 
@@ -596,7 +568,6 @@ dem Gebiet der medizinischen Fußpflege nachweisen, erhalten bei
 Vorliegen der Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 die Erlaubnis
 nach § 1 Satz 1, wenn sie innerhalb von fünf Jahren nach Inkrafttreten
 dieses Gesetzes die staatliche Prüfung erfolgreich ablegen.
-
 
 ### § 11
 

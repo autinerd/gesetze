@@ -41,7 +41,6 @@ Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die
 zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
 81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -74,10 +73,6 @@ Es verordnen
     Anhörung der beteiligten Kreise auf Grund des § 38 Absatz 2 des
     Bundes-Immissionsschutzgesetzes, der durch Artikel 60 Nummer 1 der
     Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist:
-
-
-
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -202,7 +197,6 @@ L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42), die zuletzt
 durch die Verordnung (EG) Nr. 1031/2008 (ABl. L 291 vom 31.10.2008, S.
 1) geändert worden ist, in der am 1. Januar 2002 geltenden Fassung.
 
-
 ## § 2 Chlor- und Bromverbindungen
 
 (1) Kraftstoffe für Kraftfahrzeuge im Sinne des § 1 Absatz 2 des
@@ -216,7 +210,6 @@ Unternehmungen nicht in den Verkehr gebracht werden.
 
 (3) Die Absätze 1 und 2 gelten nicht für das Inverkehrbringen zum
 Zweck der Forschung, Entwicklung oder Analyse.
-
 
 ## § 3 Anforderungen an Ottokraftstoffe; Bestandsschutzsortenregelung
 
@@ -246,7 +239,6 @@ Ottokraftstoffe nach Absatz 1 in den Verkehr gebracht wurden, gelten
 die Verpflichtungen nach Absatz 2 und Absatz 3 nicht. Die
 Voraussetzungen des Satzes 1 sind durch geeignete Belege gegenüber der
 zuständigen Behörde auf Verlangen nachzuweisen.
-
 
 ## § 4 Anforderungen an Dieselkraftstoff, Gasöl und andere flüssige Kraftstoffe; Schwefelgehalt
 
@@ -280,7 +272,6 @@ Verkehr gebracht werden, wenn sein Gehalt an Schwefelverbindungen,
 berechnet als Schwefel, 15 Gramm pro Kilogramm Schiffsdiesel nicht
 überschreitet.
 
-
 ## § 5 Anforderungen an Biodiesel
 
 Biodiesel darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher
@@ -289,7 +280,6 @@ werden, wenn er den Anforderungen der DIN EN 14214, Ausgabe April
 2010, genügt. Das gilt auch für Biodiesel als Zusatz zum
 Dieselkraftstoff.
 
-
 ## § 6 Anforderungen an Ethanolkraftstoff (E85)
 
 Ethanolkraftstoff (E85) darf nur dann gewerbsmäßig oder im Rahmen
@@ -297,14 +287,12 @@ wirtschaftlicher Unternehmungen als Kraftstoff gegenüber dem
 Letztverbraucher in den Verkehr gebracht werden, wenn er den
 Anforderungen der DIN 51625, Ausgabe August 2008, genügt.
 
-
 ## § 7 Anforderungen an Flüssiggaskraftstoff
 
 Flüssiggaskraftstoff darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn er den Anforderungen der DIN EN 589,
 Ausgabe November 2008, genügt.
-
 
 ## § 8 Anforderungen an Erdgas und Biogas als Kraftstoffe
 
@@ -319,14 +307,12 @@ Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht
 werden, wenn das fertige Produkt den Anforderungen der DIN 51624,
 Ausgabe Februar 2008, genügt.
 
-
 ## § 9 Anforderungen an Pflanzenölkraftstoff
 
 Pflanzenölkraftstoff darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn er den Anforderungen der DIN V 51605,
 Ausgabe Juli 2006, genügt.
-
 
 ## § 10 Schwefelgehalt von Heizöl
 
@@ -357,10 +343,6 @@ werden, soweit dieses Heizöl:
     Normkubikmeter schwerem Heizöl bei einem Sauerstoffgehalt des
     Rauchgases von 3 Volumeneinheiten im trockenen Bezugszustand nicht
     überschritten werden.
-
-
-
-
 
 ## § 11 Gleichwertigkeitsklausel
 
@@ -406,10 +388,6 @@ sofern
     unter Nummer 1 angegebenen Normen für die Bundesrepublik Deutschland
     festgelegt sind.
 
-
-
-
-
 ## § 12 Einschränkungen
 
 (1) Für Kraft- und Brennstoffe nach § 1 Absatz 4 bis 10, die
@@ -423,7 +401,6 @@ Schwefelgehalt bestimmter flüssiger Kraft- oder Brennstoffe, die aus
 Erdöl gewonnen werden, gelten nicht für Kraft- oder Brennstoffe zur
 Verwendung auf Kriegsschiffen und anderen zu militärischen Zwecken
 eingesetzten Schiffen.
-
 
 ## § 13 Auszeichnung von Kraft- und Brennstoffen
 
@@ -515,7 +492,6 @@ Schwefelgehalt 50 Milligramm pro Kilogramm leichtes Heizöl nicht
 (4) Die Absätze 1 und 2 finden keine Anwendung im Bereich der Kraft-
 und Brennstoffe nach § 1 Absatz 4 bis 10.
 
-
 ## § 14 Nachweisführung
 
 (1) Wer gewerbsmäßig oder im Rahmen einer wirtschaftlichen
@@ -543,7 +519,6 @@ Einführer oder Großverteiler lagern, haben Tankbelegbücher zu führen
 und auf Verlangen vorzulegen, aus denen hervorgeht, welche Lieferanten
 den Kraft- und Brennstoff geliefert haben.
 
-
 ## § 15 Bekanntmachung der Kraftstoffqualität für den Betrieb von Kraftfahrzeugen
 
 (1) Wer gewerbsmäßig oder im Rahmen einer wirtschaftlichen
@@ -565,7 +540,6 @@ empfohlenen und verwendbaren Kraftstoffqualitäten
 die Bezeichnungen nach § 13 für die Qualität der Kraftstoffe verwendet
 werden. Auf die Zeichen nach den Anlagen 1a bis 8 kann verzichtet
 werden.
-
 
 ## § 16 Ausnahmen
 
@@ -592,7 +566,6 @@ mit Auflagen verbunden werden.Die Bewilligungen sind zu befristen. Sie
 können widerrufen werden, wenn die Voraussetzungen für ihre Erteilung
 nicht mehr vorliegen.
 
-
 ## § 17 Zugänglichkeit der Normen
 
 DIN-, E DIN-, DIN EN- und DIN V-, ISO-, DIN ISO- und DIN EN ISO-
@@ -603,7 +576,6 @@ Verlagsgesellschaft Gas und Wasser mbH, Bonn, erschienen. Die DIN-, E
 DIN-, DIN EN- und DIN V-, ISO-, DIN ISO- und DIN EN ISO-Normen und das
 DVGW-Arbeitsblatt sind beim Deutschen Patent- und Markenamt in München
 archivmäßig gesichert niedergelegt.
-
 
 ## § 18 Überwachung
 
@@ -656,7 +628,6 @@ spätestens zum 30. April eine jährliche Übersicht der
 Überwachungsergebnisse nach Absatz 1 und 3 zur Weiterleitung an die
 Europäische Kommission.
 
-
 ## § 19 Einfuhr von Heizöl, Schiffskraftstoff und Dieselkraftstoff
 
 (1) Der Einführer von Kraft- und Brennstoffen nach § 1 Absatz 4 bis 10
@@ -674,7 +645,6 @@ mindestens ein Jahr aufzubewahren.
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden beim Verbringen aus
 Staaten der Europäischen Union.
-
 
 ## § 20 Ordnungswidrigkeiten
 
@@ -743,7 +713,6 @@ Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 4 Absatz 2 Satz 3 flüssige Kraftstoffe
 verwendet.
 
-
 ## § 21 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -757,11 +726,9 @@ als Kraftstoffzusatz vom 17. Januar 1992 (BGBl. I S. 75), die durch
 Artikel 35 des Gesetzes vom 21. Dezember 2000 (BGBl. I S. 1956)
 geändert worden ist, außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1a (zu § 13 Absatz 1 Nummer 1)
 
@@ -775,9 +742,6 @@ Der Bundesrat hat zugestimmt.
 
     *   Ø = 85 mm bis 100 mm
 
-
-
-
 ## Anlage 1b (zu § 13 Absatz 1 Nummer 1)
 
 (Fundstelle: BGBl. I 2010, 1856)
@@ -789,9 +753,6 @@ Der Bundesrat hat zugestimmt.
 *    *   Ø = 85 mm bis 100 mm
 
     *   Ø = 85 mm bis 100 mm
-
-
-
 
 ## Anlage 1c (zu § 13 Absatz 1 Nummer 1)
 
@@ -805,9 +766,6 @@ Der Bundesrat hat zugestimmt.
 
     *   Ø = 85 mm bis 100 mm
 
-
-
-
 ## Anlage 2a (zu § 13 Absatz 1 Nummer 2)
 
 (Fundstelle: BGBl. I 2010, 1857)
@@ -816,9 +774,6 @@ Der Bundesrat hat zugestimmt.
 *    *        ![bgbl1_2010_j1849-1_0070.jpg](bgbl1_2010_j1849-1_0070.jpg)
 
 *    *   Ø = 85 mm bis 100 mm
-
-
-
 
 ## Anlage 2b (zu § 13 Absatz 1 Nummer 2)
 
@@ -829,9 +784,6 @@ Der Bundesrat hat zugestimmt.
 
 *    *   Ø = 85 mm bis 100 mm
 
-
-
-
 ## Anlage 2c (zu § 13 Absatz 1 Nummer 2)
 
 (Fundstelle: BGBl. I 2010, 1857)
@@ -840,9 +792,6 @@ Der Bundesrat hat zugestimmt.
 *    *        ![bgbl1_2010_j1849-1_0090.jpg](bgbl1_2010_j1849-1_0090.jpg)
 
 *    *   Ø = 85 mm bis 100 mm
-
-
-
 
 ## Anlage 3 (zu § 13 Absatz 1 Nummer 3)
 
@@ -853,9 +802,6 @@ Der Bundesrat hat zugestimmt.
 
 *    *   Ø = 85 mm bis 100 mm
 
-
-
-
 ## Anlage 4 (zu § 13 Absatz 1 Nummer 4)
 
 (Fundstelle: BGBl. I 2010, 1858)
@@ -864,9 +810,6 @@ Der Bundesrat hat zugestimmt.
 *    *        ![bgbl1_2010_j1849-1_0110.jpg](bgbl1_2010_j1849-1_0110.jpg)
 
 *    *   Ø = 85 mm bis 100 mm
-
-
-
 
 ## Anlage 5 (zu § 13 Absatz 1 Nummer 5)
 
@@ -877,9 +820,6 @@ Der Bundesrat hat zugestimmt.
 
 *    *   Ø = 85 mm bis 100 mm
 
-
-
-
 ## Anlage 6 (zu § 13 Absatz 1 Nummer 6)
 
 (Fundstelle: BGBl. I 2010, 1859)
@@ -888,9 +828,6 @@ Der Bundesrat hat zugestimmt.
 *    *        ![bgbl1_2010_j1849-1_0130.jpg](bgbl1_2010_j1849-1_0130.jpg)
 
 *    *   Ø = 85 mm bis 100 mm
-
-
-
 
 ## Anlage 7a (zu § 13 Absatz 1 Nummer 7)
 
@@ -901,9 +838,6 @@ Der Bundesrat hat zugestimmt.
 
 *    *   Ø = 85 mm bis 100 mm
 
-
-
-
 ## Anlage 7b (zu § 13 Absatz 1 Nummer 7)
 
 (Fundstelle: BGBl. I 2010, 1859)
@@ -913,10 +847,6 @@ Der Bundesrat hat zugestimmt.
 
 *    *   Ø = 85 mm bis 100 mm
 
-
-
-
-
 ## Anlage 8 (zu § 13 Absatz 1 Nummer 8)
 
 (Fundstelle: BGBl. I 2010, 1860)
@@ -925,9 +855,6 @@ Der Bundesrat hat zugestimmt.
 *    *        ![bgbl1_2010_j1849-1_0160.jpg](bgbl1_2010_j1849-1_0160.jpg)
 
 *    *   Ø = 85 mm bis 100 mm
-
-
-
 
 ## Anlage 9 (zu § 18 Absatz 2 Satz 4)
 

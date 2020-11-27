@@ -23,7 +23,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -36,7 +35,6 @@ Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und
 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -53,11 +51,9 @@ Flexografie wird
 
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -120,10 +116,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 5.  Kommunikation und Kundenberatung.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -143,7 +135,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -234,10 +225,6 @@ Planung und Kommunikation bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung, Gesellenprüfung
 
@@ -516,14 +503,12 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
@@ -532,7 +517,6 @@ die Verordnung über die Berufsausbildung zum Flexografen/zur
 Flexografin vom 26. Mai 1997 (BGBl. I S. 1247), die durch Artikel 1
 der Verordnung vom 19. September 2000 (BGBl. I S. 1407) geändert
 worden ist, außer Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Flexografie und zur Mediengestalterin Flexografie
 

@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2995
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Frankfurt am Main am 18. September 1998 unterzeichneten
 Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der
 Europäischen Zentralbank über den Sitz der Europäischen Zentralbank
 wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -41,7 +37,6 @@ Geschäftsverkehr der Wertpapiersammelbanken teil.
 elektronisch geführten Schuldbuch eingetragenen Schuldtitel gelten,
 soweit nichts anderes vereinbart ist, die auf vergleichbare
 Schuldtitel des Bundes anwendbaren Vorschriften.
-
 
 ## Art 3
 

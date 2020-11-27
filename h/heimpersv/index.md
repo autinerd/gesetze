@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.6.1998 I 1506
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Heimgesetzes in der Fassung der Bekanntmachung
@@ -28,13 +27,11 @@ S. 530) verordnet das Bundesministerium für Familie und Senioren im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und dem
 Bundesministerium für Raumordnung, Bauwesen und Städtebau:
 
-
 ## § 1 Mindestanforderungen
 
 Der Träger eines Heims im Sinne des § 1 Abs. 1 des Heimgesetzes darf
 nur Personen beschäftigen, die die Mindestanforderungen der §§ 2 bis 7
 erfüllen, soweit nicht in den §§ 10 und 11 etwas anderes bestimmt ist.
-
 
 ## § 2 Eignung des Heimleiters
 
@@ -62,7 +59,6 @@ sachgerecht und wirtschaftlich geleitet wird.
 
 (3) Wird das Heim von mehreren Personen geleitet, so muß jede dieser
 Personen die Anforderungen des Absatzes 1 erfüllen.
-
 
 ## § 3 Persönliche Ausschlußgründe
 
@@ -108,7 +104,6 @@ ungeeignet ist. Ungeeignet ist insbesondere,
 Ordnungswidrigkeiten, die vor Inkrafttreten der Verordnung begangen
 worden sind. Absatz 1 Satz 1 bleibt unberührt.
 
-
 ## § 4 Eignung der Beschäftigten
 
 (1) Beschäftigte in Heimen müssen die erforderliche persönliche und
@@ -119,7 +114,6 @@ besitzen.
 einer Fachkraft im Gesundheits- oder Sozialwesen mit staatlich
 anerkanntem Abschluß nachweisen kann. § 2 Abs. 2 Nr. 2, § 3 Abs. 1
 Satz 2 Nr. 1 gelten entsprechend.
-
 
 ## § 5 Beschäftigte für betreuende Tätigkeiten
 
@@ -140,7 +134,6 @@ gewöhnlichen und regelmäßig wiederkehrenden Verrichtungen im Ablauf
 des täglichen Lebens in erheblichem Umfang der Pflege nicht nur
 vorübergehend bedarf.
 
-
 ## § 6 Fachkräfte
 
 Fachkräfte im Sinne dieser Verordnung müssen eine Berufsausbildung
@@ -151,7 +144,6 @@ Altenpflegehelfer, Krankenpflegehelferinnen und Krankenpflegehelfer
 sowie vergleichbare Hilfskräfte sind keine Fachkräfte im Sinne der
 Verordnung.
 
-
 ## § 7 Heime für behinderte Volljährige
 
 In Heimen für behinderte Volljährige sind bei der Festlegung der
@@ -159,7 +151,6 @@ Mindestanforderungen nach den §§ 2 bis 6 auch die Aufgaben bei der
 Betreuung, Förderung und Eingliederung behinderter Menschen und die
 besonderen Bedürfnisse der Bewohner, die sich insbesondere aus Art und
 Schwere der Behinderung ergeben, zu berücksichtigen.
-
 
 ## § 8 Fort- und Weiterbildung
 
@@ -212,10 +203,6 @@ Tätigkeitsfelder erstrecken:
 12. konzeptionelle Weiterentwicklung der Altenhilfe und der
     Eingliederungshilfe für Behinderte.
 
-
-
-
-
 ## § 9 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 17 Abs. 2 Nr. 1 des Heimgesetzes
@@ -236,10 +223,6 @@ Personen beschäftigt oder
     Tätigkeiten nicht durch Fachkräfte oder unter angemessener Beteiligung
     von Fachkräften wahrnehmen läßt, die die Mindestanforderungen nach § 6
     erfüllen.
-
-
-
-
 
 ## § 10 Übergangsregelungen
 
@@ -268,7 +251,6 @@ Inkrafttreten dieser Verordnung ist zu berücksichtigen.
 (4) Absatz 2 gilt nicht für Heimleiter, die ein Heim bei Inkrafttreten
 dieser Verordnung seit mindestens fünf Jahren ununterbrochen leiten.
 
-
 ## § 11 Befreiungen
 
 (1) Die zuständige Behörde kann dem Träger eines Heims aus wichtigem
@@ -285,17 +267,14 @@ ausgesprochen werden.
 bis zur Entscheidung über den Antrag von der Verpflichtung zur
 Angleichung vorläufig befreit.
 
-
 ## § 12
 
 -
-
 
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 dritten Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

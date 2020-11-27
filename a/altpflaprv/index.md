@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 38 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 des Altenpflegegesetzes vom 17. November 2000 (BGBl.
@@ -30,10 +29,7 @@ Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem
 Bundesministerium für Gesundheit und Soziale Sicherung und dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## Abschnitt 1 - Ausbildung
-
-
 
 ### § 1 Gliederung der Ausbildung
 
@@ -50,7 +46,6 @@ mindestens 2.000 Stunden auf die Ausbildung in den in § 4 Abs. 3 Satz
 und der praktischen Ausbildung.
 
 (4) Der Jahresurlaub ist in der unterrichtsfreien Zeit zu gewähren.
-
 
 ### § 2 Praktische Ausbildung
 
@@ -97,10 +92,7 @@ von Satz 2 und 3 aus. Der Träger der praktischen Ausbildung gemäß § 13
 Abs. 1 des Altenpflegegesetzes und die Schülerin oder der Schüler
 erhalten Abschriften.
 
-
 ## Abschnitt 2 - Leistungsbewertung
-
-
 
 ### § 3 Jahreszeugnisse, Teilnahmebescheinigung
 
@@ -115,7 +107,6 @@ praktischen Ausbildung festgelegt.
 eine Bescheinigung nach dem Muster der Anlage 2. Sofern es sich um
 eine Altenpflegeschule im Sinne des Schulrechts des Landes handelt,
 kann die Bescheinigung durch ein Zeugnis ersetzt werden.
-
 
 ### § 4 Benotung
 
@@ -160,13 +151,7 @@ folgende Noten:
         Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit
         nicht behoben werden können (bei Werten ab 5,5).
 
-
-
-
-
 ## Abschnitt 3 - Prüfung
-
-
 
 ### § 5 Staatliche Prüfung
 
@@ -199,7 +184,6 @@ beteiligten Prüfungsausschüsse sind vorher zu hören.
 zuständigen Behörde an der Altenpflegeschule im Rahmen einer
 simulierten Pflegesituation durchgeführt werden, wenn seine
 ordnungsgemäße Durchführung gewährleistet ist.
-
 
 ### § 6 Prüfungsausschuss
 
@@ -236,7 +220,6 @@ die Aufgaben des Prüfungsausschusses wahrnehmen.
 (4) Die zuständige Behörde kann Sachverständige sowie Beobachterinnen
 oder Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ### § 7 Fachausschüsse
 
 (1) Werden Fachausschüsse gebildet, so gehören ihnen jeweils folgende
@@ -265,7 +248,6 @@ Mitglieder an:
 (2) Die Mitglieder der Fachausschüsse werden vom vorsitzenden Mitglied
 des Prüfungsausschusses bestimmt.
 
-
 ### § 8 Zulassung zur Prüfung
 
 (1) Das vorsitzende Mitglied des Prüfungsausschusses entscheidet auf
@@ -292,7 +274,6 @@ mitgeteilt.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ### § 9 Vornoten
 
 (1) Das vorsitzende Mitglied des Prüfungsausschusses setzt auf
@@ -309,7 +290,6 @@ zuvor ein arithmetisches Mittel zu bilden.
 
 (3) Die Vornoten werden der Schülerin oder dem Schüler spätestens drei
 Werktage vor Beginn des ersten Prüfungsteils mitgeteilt.
-
 
 ### § 10 Schriftlicher Teil der Prüfung
 
@@ -346,7 +326,6 @@ Fachprüfern.
 für den schriftlichen Teil der Prüfung aus dem arithmetischen Mittel
 der Noten der Fachprüferinnen oder Fachprüfer und der Vornoten gemäß §
 9 Abs. 1 und 2.
-
 
 ### § 11 Mündlicher Teil der Prüfung
 
@@ -385,7 +364,6 @@ Abs. 1 und 2.
 Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der
 Prüfung gestatten, wenn ein berechtigtes Interesse besteht und die
 Schülerin oder der Schüler damit einverstanden ist.
-
 
 ### § 12 Praktischer Teil der Prüfung
 
@@ -435,13 +413,11 @@ in beratender Funktion hinzugezogen werden.
 für den praktischen Teil der Prüfung aus der Note der Fachprüferinnen
 oder Fachprüfer und der Vornote gemäß § 9 Abs. 1 und 2.
 
-
 ### § 13 Niederschrift über die Prüfung
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ### § 14 Bestehen der Prüfung, Zeugnis
 
@@ -455,7 +431,6 @@ Schülerin oder der Schüler vom vorsitzenden Mitglied des
 Prüfungsausschusses eine schriftliche Mitteilung, in der die
 Prüfungsnoten anzugeben sind.
 
-
 ### § 15 Wiederholen der Prüfung
 
 (1) Jeder der nach § 5 Abs. 1 vorgesehenen Prüfungsteile kann einmal
@@ -465,7 +440,6 @@ bewertet worden ist.
 (2) Das vorsitzende Mitglied des Prüfungsausschusses entscheidet im
 Benehmen mit den Fachprüferinnen oder Fachprüfern über eine
 Verlängerung der Ausbildung sowie deren Dauer und Inhalt.
-
 
 ### § 16 Rücktritt von der Prüfung
 
@@ -484,7 +458,6 @@ Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung oder der
 betreffende Teil der Prüfung als nicht bestanden. § 15 Abs. 1 gilt
 entsprechend.
 
-
 ### § 17 Versäumnisfolgen, Nichtabgabe der Aufsichtsarbeit, Unterbrechung der Prüfung
 
 (1) Wenn die Schülerin oder der Schüler einen Prüfungstermin versäumt,
@@ -499,7 +472,6 @@ unternommen.
 das vorsitzende Mitglied des Prüfungsausschusses. § 16 Abs. 1 Satz 1
 und 4 gilt entsprechend.
 
-
 ### § 18 Ordnungsverstöße, Täuschungsversuche
 
 Das vorsitzende Mitglied des Prüfungsausschusses kann bei Schülerinnen
@@ -512,7 +484,6 @@ Prüfung zulässig. Die Rücknahme einer Prüfungsentscheidung wegen
 Täuschung ist nur innerhalb von drei Jahren nach Abschluss der Prüfung
 zulässig.
 
-
 ### § 19 Prüfungsunterlagen
 
 Auf Antrag ist der Schülerin oder dem Schüler nach Abschluss der
@@ -520,10 +491,7 @@ Prüfung Einsicht in die eigenen Prüfungsunterlagen zu gewähren.
 Schriftliche Aufsichtsarbeiten sind drei Jahre, Anträge auf Zulassung
 zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## Abschnitt 4 - Erlaubniserteilung
-
-
 
 ### § 20 Erlaubnisurkunde
 
@@ -531,7 +499,6 @@ Liegen die Voraussetzungen nach § 2 Abs. 1 des Altenpflegegesetzes für
 die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung vor, so
 stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der
 Anlage 4 aus.
-
 
 ### § 21 Sonderregelungen für Personen mit Ausbildungsnachweisen, die außerhalb des Geltungsbereichs des Altenpflegegesetzes erworben wurden
 
@@ -608,20 +575,15 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## Abschnitt 5 - Schlussvorschrift
-
-
 
 ### § 22 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 1 Abs. 1)
 
@@ -1456,10 +1418,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4423 - 4425
 *    *
     *   = = = = =
 
-
-
-
-
 ### Anlage 2 (zu § 3 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4426)
@@ -1490,7 +1448,6 @@ Unterschrift der Leitung
 der Altenpflegeschule
 -----
 \*) Nichtzutreffendes streichen.
-
 
 ### Anlage 3 (zu § 14 Abs. 2)
 
@@ -1525,7 +1482,6 @@ Ort, Datum
 Unterschrift
 -----
 \*) Nichtzutreffendes streichen.
-
 
 ### Anlage 4 (zu § 20)
 

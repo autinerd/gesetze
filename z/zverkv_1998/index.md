@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 28.3.2011 I 530
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Anforderungen an Zusatzstoffe und den
@@ -27,12 +26,10 @@ Zusatzstoffen gleichgestellte Stoffe, die Lebensmitteln zu
 technologischen Zwecken zugesetzt werden, sowie an Trägerstoffe und
 Trägerlösungsmittel für diese Zusatzstoffe.
 
-
 ## § 2 Gleichstellung
 
 Die in Anlage 1 aufgeführten Stoffe sind den Zusatzstoffen
 gleichgestellt.
-
 
 ## § 3 Reinheitsanforderungen
 
@@ -41,13 +38,11 @@ festgelegten Reinheitsanforderungen entsprechen.
 
 (2) (weggefallen)
 
-
 ## § 4 Trägerstoffe und -lösungsmittel
 
 Die in Anlage 4 aufgeführten Zusatzstoffe sind unter den dort
 festgelegten Bedingungen als Trägerstoffe oder Trägerlösungsmittel für
 die in Anlage 2 aufgeführten Zusatzstoffe zugelassen.
-
 
 ## § 5 Verwendungs- und Verkehrsverbote
 
@@ -107,7 +102,6 @@ ausschließlich zu diesem Zweck bestimmt sind.
 (6) Ethylenoxid darf zur Sterilisierung von Zusatzstoffen nicht
 verwendet werden.
 
-
 ## § 6 Kennzeichnung, Warnhinweise
 
 (1) (weggefallen)
@@ -128,7 +122,6 @@ sind, aufweisen.
 
 (4) (weggefallen)
 
-
 ## § 6a Übergangsvorschrift
 
 (1) Zusatzstoffe, die vor dem 21. Oktober 2006 nach den Vorschriften
@@ -139,7 +132,6 @@ sind, dürfen bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 zum 14. Februar 2008 geltenden Vorschriften gekennzeichnet und in den
 Verkehr gebracht sein werden, dürfen bis zum Abbau der Vorräte noch
 weiter in den Verkehr gebracht werden.
-
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
@@ -191,7 +183,6 @@ der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlamentes und des
 Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354
 vom 31.12.2008, S. 16) einen Lebensmittelzusatzstoff in den Verkehr
 bringt.
-
 
 ## Anlage 1 (zu § 2) Den Zusatzstoffen gleichgestellte Stoffe
 
@@ -363,10 +354,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Wollwachs
-
-
-
-
 
 ## Anlage 2 (zu § 3 Abs. 1) Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
 
@@ -3604,14 +3591,9 @@ Liste A
 
     *   nach 2stündigem Trocknen bei 105 Grad Celsius
 
-
-
-
-
 ## Anlage 3 (weggefallen)
 
 -
-
 
 ## Anlage 4 (zu § 4) Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
 

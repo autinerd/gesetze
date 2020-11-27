@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 835
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Autobahnzusammenschluß sowie über den Bau und den Umbau einer
 Grenzbrücke im Raum Forst und Erlenholz (Olszyna) sowie dem
 dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen
 und das Protokoll werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -47,7 +43,6 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 (3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 21. März 1995 anzuwenden.
-
 
 ## Art 3
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1988, 414
 
-
-
 ## Art 1
 
 Dem in Luxemburg am 19. Dezember 1984 unterzeichneten Vertrag zwischen
@@ -31,7 +29,6 @@ und für Sport in Mainz, beim Saarländischen Minister des Innern in
 Saarbrücken, bei der Bezirksregierung Trier in Trier sowie beim
 Katasteramt Trier zur Einsicht bereit.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach Artikel 2 des Vertrags Hoheitsgebiet
@@ -40,7 +37,6 @@ Inkrafttretens dieser Bestimmungen gemäß Artikel 13 Abs. 2 des
 Vertrags die in den Ländern Rheinland-Pfalz beziehungsweise Saarland
 geltenden Vorschriften des Bundesrechts, soweit sie nicht bereits
 zuvor in Kraft waren.
-
 
 ## Art 3
 
@@ -67,12 +63,10 @@ Rechtsverordnungen Vorschriften zu treffen
 (2) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes
 können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

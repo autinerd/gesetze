@@ -20,8 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 13.12.2011 I 2727
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in
@@ -33,7 +31,6 @@ der im Bundesgesetzblatt Teil III, Gliederungsnummer 200-2,
 veröffentlichten bereinigten Fassung verordnet das Bundesministerium
 für Umwelt, Naturschutz und Reaktorsicherheit mit Zustimmung des
 Bundesministeriums des Innern:
-
 
 ## § 1 Zuständigkeitsübertragung
 
@@ -51,7 +48,6 @@ Umweltgutachter mbH ausgeführt wird, auf das Bundesverwaltungsamt
 übertragen, das insoweit den fachlichen Weisungen des
 Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
 unterliegt.
-
 
 ## § 2 Inkrafttreten
 

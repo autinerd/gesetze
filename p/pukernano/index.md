@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 196
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 704b Abs. 2 Satz 2 der Reichsversicherungsordnung in
 der Fassung des Artikels 12 Abs. 70 Nr. 3 des Postneuordnungsgesetzes
 vom 14. September 1994 (BGBl. I S. 2325) ordne ich an:
-
 
 ## I.
 
@@ -32,16 +29,13 @@ Ausnahme des Geschäftsführers und seines Stellvertreters übertrage ich
 dem Vorstand der Unfallkasse Post und Telekom. Der Vorstand kann diese
 Befugnis dem Geschäftsführer übertragen.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung vor.
 
-
 ## III.
 
 Diese Anordnung tritt mit sofortiger Wirkung in Kraft.
-
 
 ## Schlußformel
 

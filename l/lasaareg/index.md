@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 21.7.2004 I 1742
 
-
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
-
-
 
 ### § 1 Grundsatz
 
@@ -58,7 +55,6 @@ den dort bezeichneten Fällen Bezugnahmen im Zweiten Teil des
 Lastenausgleichsgesetzes auf den Geltungsbereich des Grundgesetzes
 auch das Saarland umfassen, bleibt unberührt.
 
-
 ### § 2 Ausgleichsleistungen
 
 Als Ausgleichsleistungen werden gewährt:
@@ -89,10 +85,6 @@ Als Ausgleichsleistungen werden gewährt:
 
 9.  Entschädigung nach dem Altsparergesetz nach Maßgabe des § 26.
 
-
-
-
-
 ### § 3 Beiträge der öffentlichen Haushalte an den Bund
 
 (1) Das Saarland leistet an den Ausgleichsfonds bis zum 31. Dezember
@@ -120,7 +112,6 @@ b)  an den Bund einen Betrag von zwei Millionen Deutsche Mark.
 nicht anzuwenden; bei der Anwendung dieser Vorschrift im übrigen
 Geltungsbereich des Lastenausgleichsgesetzes bleiben die auf das
 Saarland entfallenden Einnahmen und Ausgaben außer Ansatz.
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -151,7 +142,6 @@ Saarland, vom 17. Juli 1959 (Amtsblatt des Saarlandes S. 1349) in der
 Fassung des § 5 des Vierzehnten Gesetzes zur Änderung des
 Lastenausgleichsgesetzes vom 26. Juni 1961 (BGBl. I S. 785).
 
-
 ### § 5 Währungsstichtag
 
 Soweit in Vorschriften des Lastenausgleichsgesetzes und des
@@ -160,17 +150,13 @@ Bezug genommen ist, tritt für im Saarland belegenes Vermögen und für
 im Saarland entstandene Kriegssachschäden an deren Stelle der 20.
 November 1947.
 
-
 ## Zweiter Abschnitt - Schadensfeststellung
-
-
 
 ### § 6 Nichtberücksichtigung saarländischer Vorauszahlungen
 
 § 8 Abs. 2 Nr. 4 des Feststellungsgesetzes gilt nicht für
 Entschädigungszahlungen, die auf Grund saarländischer Rechts- oder
 Verwaltungsvorschriften gewährt worden sind.
-
 
 ### § 7 Feststellung von Hausratverlusten
 
@@ -198,10 +184,6 @@ Feststellungsgesetzes nur festgestellt
 3.  bei Erben, die nach saarländischen Rechts- oder
     Verwaltungsvorschriften zum Empfang von Vorauszahlungen für
     Hausratschäden nicht berechtigt waren.
-
-
-
-
 
 ### § 8 Schadensberechnung bei Kriegssachschäden an land- und forstwirtschaftlichem Vermögen, Grundvermögen und Betriebsvermögen im Saarland
 
@@ -252,7 +234,6 @@ um den die veranlagte Währungsbereicherungsteuer den dafür bei der
 Einheitswertfeststellung abgezogenen Betrag übersteigt. Dieser Betrag
 ist nach Nummer 2 Buchstabe a umzurechnen.
 
-
 ### § 9 Schadensberechnung bei Sparerschäden
 
 (1) Ein Sparerschaden im Sinne des § 15 des Lastenausgleichsgesetzes
@@ -273,28 +254,21 @@ Saarmarknennbetrages des durch die Umstellung betroffenen Anspruchs,
 Sparerschäden an Sparanlagen im Sinne des Absatzes 1 Nr. 2 mit dem
 vollen Reichsmarknennbetrag anzusetzen.
 
-
 ### § 10 Frühere Feststellungen
 
 § 42 des Feststellungsgesetzes findet auch auf die Feststellungen
 Anwendung, die auf Grund saarländischer Rechts- oder
 Verwaltungsvorschriften getroffen worden sind.
 
-
 ## Dritter Abschnitt - Ausgleichsleistungen
 
-
-
 ### Erster Titel - Ergänzende Vorschriften zu den einzelnen Ausgleichsleistungen
-
-
 
 #### § 11 Kürzung des Grundbetrags der Hauptentschädigung
 
 Die Ermächtigung in § 249 Abs. 5 Nr. 1 des Lastenausgleichsgesetzes
 gilt auch für die Bestimmungen über die Berechnung des im Saarland
 belegenen Vermögens.
-
 
 #### § 12 Anrechnung saarländischer Vorauszahlungen auf die Hauptentschädigung
 
@@ -337,10 +311,6 @@ geregelt; dabei gilt folgendes:
     Hauptentschädigungsansprüche eines Berechtigten aus eigenen Schäden
     oder Schäden von Erblassern anzurechnen sind.
 
-
-
-
-
 #### § 13 Verhältnis von saarländischen Aufbaudarlehen zur Hauptentschädigung
 
 Nach Maßgabe des § 258 des Lastenausgleichsgesetzes werden auf den
@@ -367,10 +337,6 @@ der dazu ergangenen ergänzenden Bestimmungen gewährt worden sind:
     Saarländische Binnenschiffer vom 14. August 1957 (Amtsblatt des
     Saarlandes S. 1214).
 
-
-
-
-
 #### § 14 Berücksichtigung von Einkünften bei der Kriegsschadenrente
 
 Soweit in § 267 Abs. 2 des Lastenausgleichsgesetzes auf das
@@ -381,7 +347,6 @@ Lastenausgleichsgesetzes auf Renten nach saarländischem Recht ist von
 den Sätzen der Grundrente oder Elternrente auszugehen, die sich nach
 dem Bundesversorgungsgesetz ergeben würden.
 
-
 #### § 15 Verhältnis der saarländischen Unterhaltshilfe zur Hauptentschädigung
 
 Bei Anwendung des § 278a des Lastenausgleichsgesetzes werden die nach
@@ -390,18 +355,15 @@ Inkrafttreten dieses Gesetzes geleisteten Zahlungen ohne Mietbeihilfe
 mit 30 vom Hundert auf den Grundbetrag der Hauptentschädigung
 angerechnet.
 
-
 #### § 16 Erstattung saarländischer Unterhaltshilfe
 
 § 290 des Lastenausgleichsgesetzes ist auch auf Unterhaltshilfe nach
 dem saarländischen Unterhaltshilfe-Gesetz anzuwenden.
 
-
 #### § 17 Verhältnis der Kriegsschadenrente zu saarländischen Aufbaudarlehen
 
 § 291 des Lastenausgleichsgesetzes gilt auch für Darlehen im Sinne des
 § 13.
-
 
 #### § 18 Hausratentschädigung
 
@@ -416,14 +378,12 @@ von Vorauszahlungen für Hausratschäden berechtigt waren.
 durch die nach saarländischen Rechts- oder Verwaltungsvorschriften für
 Hausratverluste gewährten Leistungen abgegolten.
 
-
 #### § 19 Ausgleichsämter
 
 Abweichend von § 308 Abs. 1 des Lastenausgleichsgesetzes kann im
 Saarland für mehrere Landkreise oder Stadt- und Landkreise ein
 Ausgleichsamt eingerichtet werden. In diesem Falle gilt § 310 Abs. 3
 Halbsatz 2 des Lastenausgleichsgesetzes entsprechend.
-
 
 #### § 20 Sondervorschriften für die Verwendung von Mitteln
 
@@ -443,7 +403,6 @@ Lastenausgleichsgesetzes gilt entsprechend.
 (3) Für die Gewährung von Arbeitsplatzdarlehen im Saarland können
 Mittel bis zum Ablauf des Rechnungsjahres 1965 bereitgestellt werden.
 
-
 #### § 21 Wiederaufnahme von Verfahren über Leistungen nach saarländischen Rechts- oder Verwaltungsvorschriften
 
 §§ 342 und 343 Abs. 4 des Lastenausgleichsgesetzes sind auch auf
@@ -451,20 +410,17 @@ Verfahren über Leistungen anzuwenden, die nach saarländischen Rechts-
 oder Verwaltungsvorschriften gewährt worden und den
 Ausgleichsleistungen vergleichbar sind.
 
-
 #### § 22 Erstattung und Verrechnung von Leistungen nach saarländischen Rechts- oder Verwaltungsvorschriften
 
 § 350a des Lastenausgleichsgesetzes ist auch auf die nach
 saarländischen Rechts- oder Verwaltungsvorschriften gewährten
 Leistungen anzuwenden, die den Ausgleichsleistungen vergleichbar sind.
 
-
 #### § 23 Ausschließung von Ausgleichsleistungen
 
 Bei Anwendung des § 360 des Lastenausgleichsgesetzes gelten als
 Ausgleichsleistungen auch die nach saarländischen Rechts- oder
 Verwaltungsvorschriften gewährten vergleichbaren Leistungen.
-
 
 #### § 24 Umrechnung von Franken in Deutsche Mark
 
@@ -475,14 +431,12 @@ umzurechnen. Bei Anrechnung von Darlehen im Sinne des § 13 auf die
 Hauptentschädigung sind Zahlungen in Franken im Verhältnis von 0,8507
 Deutsche Mark für 100 Franken umzurechnen.
 
-
 #### § 25 Ausschluß der Entschädigungsberechtigung nach dem Währungsausgleichsgesetz
 
 Bei Anwendung des § 1 Abs. 4 des Währungsausgleichsgesetzes wird
 Entschädigung auch aus solchen Spareinlagen nicht gewährt, die im
 Saarland auf Franken umgestellt worden sind oder umstellungsfähig
 waren.
-
 
 #### § 26
 
@@ -507,10 +461,7 @@ Vorschriften im Saarland auch dann, wenn Kreditinstitute im Saarland
 die ablösbaren Kapitalansprüche am 20. Juni 1948 verwahrt oder
 verwaltet haben.
 
-
 ### Zweiter Titel - Übergangsvorschriften
-
-
 
 #### § 27 Überleitung der saarländischen Unterhaltshilfe
 
@@ -562,7 +513,6 @@ Berechtigte innerhalb eines Jahres nach Rechtskraft des Bescheides
 über die Änderung der Unterhaltshilfe erklären, daß er die
 Sterbevorsorge nicht aufrechterhalten will.
 
-
 #### § 28 Übergangsregelung bei der Kriegsschadenrente
 
 (1) An Personen, die erst auf Grund dieses Gesetzes Kriegsschadenrente
@@ -575,7 +525,6 @@ für die Gewährung von Kriegsschadenrente eingetreten sind.
 Kriegsschadenrente beantragen können, kann Antrag auf
 Kriegsschadenrente wegen Erwerbsunfähigkeit nach § 265 des
 Lastenausgleichsgesetzes bis zum 31. Dezember 1961 gestellt werden.
-
 
 #### § 29 Überleitung der Behördenorganisation im Saarland
 
@@ -595,7 +544,6 @@ gebildeten Beschwerdeausschuß wahrgenommen.
 für das Beweissicherungsverfahren im Saarland vom 28. August 1948
 (Amtsblatt des Saarlandes 1949 S. 108) nehmen bis zur Bestellung der
 Vertreter der Interessen des Ausgleichsfonds deren Aufgaben wahr.
-
 
 #### § 30 Überleitung anhängiger Verfahren
 
@@ -659,7 +607,6 @@ erhoben, außergerichtliche Kosten gegeneinander aufgehoben.
 Darlehen im Sinne des § 13 werden nach entsprechender Antragstellung
 als Verfahren über Aufbaudarlehen weitergeführt.
 
-
 #### § 31 Überleitung saarländischer Mittel auf den Ausgleichsfonds
 
 (1) Soweit die Mittel, die dem Saarland aus der
@@ -674,7 +621,6 @@ Verwaltungsvorschriften gewährten Darlehen im Sinne des § 13 sowie
 Rückforderungsansprüche aus Leistungen, die aus Mitteln der
 Gemeinschaftshilfeabgabe gewährt worden sind, gehen mit Wirkung vom 1.
 Januar 1960 ab auf den Ausgleichsfonds über.
-
 
 #### § 32 Überleitung nach saarländischem Recht begründeter Verpflichtungen auf den Ausgleichsfonds
 
@@ -704,7 +650,6 @@ Leistungen bestimmt das Landesrecht.
 
 (3)
 
-
 #### § 33 Verwaltungskosten
 
 § 351
@@ -714,14 +659,9 @@ Schulungsmaterial anzuwenden, die vor dem Inkrafttreten dieses
 Gesetzes im Saarland durch die vorbereitende Schulung der künftigen
 Bediensteten der Ausgleichsbehörden entstanden sind.
 
-
 ## Vierter Abschnitt - Sonstige und Schlußvorschriften
 
-
-
 ### (XXXX) §§ 34 bis 36
-
-
 
 ### § 37 Erlaß von Rechtsverordnungen
 
@@ -744,7 +684,6 @@ das Beweissicherungsverfahren im Saarland vom 28. August 1948
 (Amtsblatt des Saarlandes 1949 S. 108) und von Anträgen auf Gewährung
 von Leistungen für Hausratverluste nach saarländischen Rechts- oder
 Verwaltungsvorschriften (§ 18 Abs. 2, § 30 Abs. 2) zu setzen.
-
 
 ### § 38 Aufhebung von Rechts- und Verwaltungsvorschriften
 
@@ -784,10 +723,6 @@ Inkrafttreten dieses Gesetzes jeweils mit den dazu ergangenen
     dem Gebiet der Steuern, Zölle und Finanzmonopole im Saarland vom 30.
     Juni 1959 (BGBl. I S. 339).
 
-
-
-
-
 ### § 39 Anwendung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
@@ -796,11 +731,9 @@ auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ### § 40 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
-
 
 ### Anlage (zu § 24)
 

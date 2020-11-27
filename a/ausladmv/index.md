@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 16 G v. 17.12.2006 I 3171
 
-
 ## Eingangsformel
 
 Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 1 in Verbindung mit § 2a
@@ -28,10 +27,7 @@ der Fassung der Bekanntmachung vom 22. Dezember 2001 (BGBl. 2002 I S.
 354) verordnet das Bundesministerium für Familie, Senioren, Frauen und
 Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -50,13 +46,7 @@ alle Vermittlungsfälle, in denen
 2.  das Kind innerhalb von zwei Jahren vor der Einleitung des
     Vermittlungsverfahrens in das Inland gebracht worden ist.
 
-
-
-
-
 ## Abschnitt 2 - Adoptionsvermittlungsverfahren im Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens
-
-
 
 ### § 2 Anlässe für Meldungen
 
@@ -97,10 +87,6 @@ Meldung, wenn
 2.  die Adoptionsbewerber an einer internationalen Adoptionsvermittlung
     erkennbar nicht mehr interessiert sind.
 
-
-
-
-
 ### § 3 Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen
 
 Meldepflichtig ist die nach dem Adoptionsvermittlungsgesetz zur
@@ -109,7 +95,6 @@ des die Meldepflicht auslösenden Ereignisses die Akten des
 Adoptionsverfahrens führt. Ein Wechsel der aktenführenden Stelle sowie
 Änderungen, Berichtigungen oder Ergänzungen des Inhalts einer Meldung
 sind der Bundeszentralstelle unverzüglich mitzuteilen.
-
 
 ### § 4 Inhalt der Meldungen
 
@@ -291,13 +276,7 @@ Absatz 2 hinaus enthalten:
 2.  wenn die Annahme des Kindes nicht erfolgt: die Mitteilung dieser
     Tatsache.
 
-
-
-
-
 ## Abschnitt 3 - Adoptionsvermittlungsverfahren im Verhältnis zu sonstigen Staaten
-
-
 
 ### § 5 Einmalige Meldung
 
@@ -310,10 +289,7 @@ sinngemäßer Anwendung die Angaben nach § 4 Abs. 1 Nr. 1 bis 3, Abs. 3
 und Abs. 4 Nr. 1 Buchstabe b bis e in einer Meldung zusammengefasst zu
 übermitteln. § 2 Abs. 2 und § 3 gelten entsprechend.
 
-
 ## Abschnitt 4 - Verfahren
-
-
 
 ### § 6 Form und Frist der Meldungen der Daten
 
@@ -330,10 +306,7 @@ sind Verschlüsselungsverfahren anzuwenden.
 die Meldepflicht auslösenden Ereignisses zu übermitteln. Innerhalb der
 Frist können mehrere Meldungen zusammengefasst übermittelt werden.
 
-
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 7 Übergangsregelung
 
@@ -344,11 +317,9 @@ abgeschlossen sind, gelten die §§ 2 bis 4 mit der Maßgabe, dass die
 Meldungen bei Eintritt eines neuen meldepflichtigen Ereignisses
 zusammengefasst übermittelt werden können.
 
-
 ### § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

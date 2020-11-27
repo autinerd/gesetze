@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 2.10.2001 I 2604
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 des Filmförderungsgesetzes in der Fassung der
 Bekanntmachung vom 25. Januar 1993 (BGBl. I S. 66) verordnet das
 Bundesministerium für Wirtschaft:
-
 
 ## § 1
 
@@ -39,16 +37,13 @@ in der Anlage 2 genannten Auszeichnungen (Preise und Prämien).
 (2) Absatz 1 ist nicht anzuwenden, wenn die Auszeichnung einem Film
 zusammen mit mehr als einem weiteren Film zuerkannt wird.
 
-
 ## § 2
 
 -
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 1 Satz 1)
 
@@ -81,7 +76,6 @@ International Short Film Festival Uppsala
 Internationales Filmfestival Venedig
 Festival Internacional de Curtas+Metragens Vila do Conde (Portugal)
 World Festival of Animated Films Zagreb
-
 
 ## Anlage 2 (zu § 1 Abs. 1 Satz 2)
 

@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 7b V v. 20.10.2006 I 2298
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 1 Nr. 1, 2 und 3 des Abfallgesetzes vom 27.
 August 1986 (BGBl. I S. 1410) und des § 7 Abs. 1 des Bundes-
 Immissionsschutzgesetzes vom 15. März 1974 (BGBl. I S. 721), wird von
 der Bundesregierung nach Anhörung der beteiligten Kreise verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -60,7 +58,6 @@ Halogenkohlenwasserstoffen mit einem Siedepunkt zwischen 293 K = 20
 Grad C und 423 K = 150
 Grad C bei jeweils 1013 hPa.
 
-
 ## § 2 Getrennte Haltung, Vermischungsverbote
 
 (1) Betreiber der in § 1 Abs. 1 genannten Anlagen haben Lösemittel
@@ -77,7 +74,6 @@ nach Gebrauch untereinander oder mit anderen Stoffen oder Abfällen,
 insbesondere solchen im Sinne des § 2 Abs. 2 des Abfallgesetzes, zu
 vermischen.
 
-
 ## § 3 Rücknahmeverpflichtung
 
 (1) Wer als Vertreiber Lösemittel in Mengen von 10 l oder mehr
@@ -91,7 +87,6 @@ Menge der abgegebenen Lösemittel, zuzüglich der verfahrensbedingt bei
 ordnungsgemäßem Gebrauch hinzugekommenen oder hinzugefügten sonstigen
 Stoffe oder Zubereitungen.
 
-
 ## § 4 Erklärung über die Verwendung von Lösemitteln
 
 Nimmt der Betreiber der in § 1 Abs. 1 genannten Anlagen nach § 3 Abs.
@@ -99,7 +94,6 @@ Nimmt der Betreiber der in § 1 Abs. 1 genannten Anlagen nach § 3 Abs.
 hat er gegenüber dem Vertreiber oder dem von ihm bestimmten Dritten
 eine Erklärung über die Art und Verwendung der Lösemittel nach dem in
 der Anlage zu dieser Verordnung enthaltenen Muster abzugeben.
-
 
 ## § 5 Kennzeichnung
 
@@ -114,7 +108,6 @@ Darüber hinaus muß die Kennzeichnung den Hauptbestandteil des
 Ausgangsproduktes (§ 2 Abs. 1) und den Siedepunkt (§ 1 Abs. 2)
 ausweisen. Bei loser Ware muß die Kennzeichnung nach den Sätzen 1 und
 2 in den Begleitpapieren erfolgen.
-
 
 ## § 6 Ordnungswidrigkeiten
 
@@ -165,16 +158,11 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     in Nummer 1 genannten Lösemittels nicht, nicht richtig oder nicht
     vollständig abgibt.
 
-
-
-
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 31 des Abfallgesetzes und § 73 des Bundes-
 Immissionsschutzgesetzes auch im Land Berlin.
-
 
 ## § 8 Inkrafttreten
 
@@ -183,11 +171,9 @@ auf die Verkündung folgenden Kalendermonats in Kraft. § 5 tritt am
 ersten Tag des sechsten auf die Verkündung folgenden Kalendermonats in
 Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 4 Satz 1)
 

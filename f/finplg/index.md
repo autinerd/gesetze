@@ -19,36 +19,23 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 28 G v. 8.5.2008 I 810
 
-
 ## Art 1 und 2
-
-
 
 ## Art 3
 
-
-
 ## Art 4
-
-
 
 ## Art 5 - (weggefallen)
 
 -
 
-
 ## Art 6
 
-
-
 ## Art 7 - Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -129,34 +116,19 @@ mit folgenden Maßgaben:
     sind alle Ansprüche der Bundesanstalt auf Erstattung der
     Verwaltungskosten abgegolten.
 
-
-
-
-
 ## Art 8
-
-
 
 ## Art 9 bis 12
 
-
-
 ## Art 13 - Straßenbaufinanzierungsgesetz
-
-
 
 ## Art 14 und 15
 
-
-
 ## Art 16 - Ermächtigung zu Neubekanntmachungen
-
-
 
 ## Art 17 - (weggefallen)
 
 -
-
 
 ## Art 18 - Inkrafttreten
 

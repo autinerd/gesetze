@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 9 G v. 29.7.2009 I 2258
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 5 des Ersten Gesetzes zur Überleitung der
@@ -26,7 +25,6 @@ Rechtspflege auf das Reich vom 16. Februar 1934 (Reichsgesetzbl. I S.
 91) in Verbindung mit Artikel VII des Zweiten Gesetzes zur Änderung
 der Rechtsanwaltsordnung vom 13. Dezember 1935 (Reichsgesetzbl. I S.
 1470) wird folgendes verordnet:
-
 
 ## § 1
 
@@ -130,7 +128,6 @@ Vorschriften des Landesrechts beigetrieben werden. Die
 Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltung übertragen.
 
-
 ## § 2
 
 (1) Die Beitreibung obliegt in den Fällen des § 1 Abs. 1 Nr. 1 bis 3
@@ -161,14 +158,12 @@ Vollstreckungsmaßnahmen nicht.
 
 (4) Die Vollstreckungsbehörden haben einander Amtshilfe zu leisten.
 
-
 ## § 3
 
 Zustellungen sind nur erforderlich, soweit dies besonders bestimmt
 ist. Sie werden sinngemäß nach den Vorschriften der Zivilprozeßordnung
 über Zustellungen von Amts wegen bewirkt. Die dem Gericht
 vorbehaltenen Anordnungen trifft die Vollstreckungsbehörde.
-
 
 ## § 4
 
@@ -179,7 +174,6 @@ Leistung oder zur Duldung der Vollstreckung verpflichtet ist. Aus
 einer Zwangshypothek, die für einen der im § 1 bezeichneten Ansprüche
 eingetragen ist, kann auch gegen den Rechtsnachfolger des Schuldners
 in das belastete Grundstück vollstreckt werden.
-
 
 ## § 5
 
@@ -197,7 +191,6 @@ werden darf, bleiben unberührt.
 Vollstreckung zur Leistung innerhalb von zwei Wochen schriftlich
 aufgefordert und nach vergeblichem Ablauf der Frist besonders gemahnt
 werden.
-
 
 ## § 6
 
@@ -244,7 +237,6 @@ zuzustellen.
 
 (4) Gepfändete Forderungen sind nicht an Zahlungs Statt zu überweisen.
 
-
 ## § 7
 
 Die Abnahme der eidesstattlichen Versicherung beantragt die
@@ -253,7 +245,6 @@ Vollstreckung in unbewegliches Vermögen beantragt sie bei dem
 zuständigen Amtsgericht. Der Antrag ersetzt den vollstreckbaren
 Schuldtitel. Eine Zustellung des Antrags an den Schuldner ist nicht
 erforderlich.
-
 
 ## § 8
 
@@ -296,7 +287,6 @@ werden, gelten die Vorschriften der
 die Klage ist das Gericht zuständig, in dessen Bezirk die
 Vollstreckung stattgefunden hat.
 
-
 ## § 9
 
 (1) Werden Einwendungen gegen die Vollstreckung erhoben, so kann die
@@ -307,11 +297,9 @@ nehmen, bis über die Einwendung endgültig entschieden ist.
 (2) Der Vollziehungsbeamte hat von der Pfändung abzusehen, wenn ihm
 die Zahlung oder Stundung der Schuld nachgewiesen wird.
 
-
 ## § 10
 
 -
-
 
 ## § 11
 
@@ -321,17 +309,13 @@ gelten die Vorschriften des Gerichtskostengesetzes sinngemäß.
 (2) Für die Tätigkeit des Vollziehungsbeamten gelten die Vorschriften
 des Gerichtsvollzieherkostengesetzes sinngemäß.
 
-
 ## (XXXX) §§ 12 bis 18 (weggefallen)
-
-
 
 ## § 19
 
 (1) Diese Verordnung tritt am 1. April 1937 in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

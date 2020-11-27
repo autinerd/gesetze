@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 23.6.1970 I 805
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +30,6 @@ Dem in Den Haag am 5. Oktober 1961 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zur Befreiung ausländischer öffentlicher
 Urkunden von der Legalisation wird zugestimmt. Das Übereinkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -55,7 +52,6 @@ Rechtsvorschriften erhoben werden können.
 ermächtigten obersten Bundesbehörden bedürfen nicht der Zustimmung des
 Bundesrates.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -63,7 +59,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

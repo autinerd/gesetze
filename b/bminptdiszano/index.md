@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1103
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der Fassung
 der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) wird angeordnet:
-
 
 ## I.
 
@@ -39,10 +36,6 @@ gegen Ruhestandsbeamte werden übertragen
     Ruhestand dieser Behörde oder dem Zentralamt für Zulassungen im
     Fernmeldewesen angehörten.
 
-
-
-
-
 ## II.
 
 Diese Anordnung tritt am 1. Januar 1995 in Kraft. Gleichzeitig treten
@@ -53,7 +46,6 @@ Bundesdisziplinarordnung im Geschäftsbereich des Bundesministers für
 Post und Telekommunikation vom 16. Februar 1990 sowie die Anordnung
 zur Durchführung der Bundesdisziplinarordnung im Bereich des
 Direktoriums der Deutschen Bundespost vom 5. März 1990 außer Kraft.
-
 
 ## Schlußformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 21.9.1997 I 2390
 
-
 ## Präambel
 
 Ausgehend davon,
@@ -56,7 +55,6 @@ hat der Deutsche Bundestag
 
 
 das folgende Gesetz beschlossen:
-
 
 ## § 1 Zweck des Gesetzes
 
@@ -118,10 +116,6 @@ einen Ausgleich für die Region Bonn zu gewährleisten.
 7.  Ausgleich entstehender Nachteile für die betroffenen Mitarbeiterinnen
     und Mitarbeiter, soweit dies erforderlich und angemessen ist.
 
-
-
-
-
 ## § 2 Sitz des Deutschen Bundestages
 
 (1) Sitz des Deutschen Bundestages ist die Bundeshauptstadt Berlin.
@@ -131,7 +125,6 @@ Bundestag festgestellt hat, daß die erforderlichen Voraussetzungen für
 seine Arbeitsfähigkeit in der Bundeshauptstadt Berlin hergestellt
 sind.
 
-
 ## § 3 Sitz der Bundesregierung
 
 (1) Sitz des Verfassungsorgans Bundesregierung ist die
@@ -140,7 +133,6 @@ Bundeshauptstadt Berlin.
 (2) Die Bundesregierung wird den Vollzug der Sitzentscheidung in
 zeitlicher Abstimmung mit dem Vollzug der Sitzentscheidung des
 Deutschen Bundestages vornehmen.
-
 
 ## § 4 Organisation der Bundesregierung
 
@@ -166,7 +158,6 @@ Bundesministerien in der Bundesstadt Bonn erhalten bleibt.
 fachliche Zusammenarbeit mit dem Deutschen Bundestag und dem Bundesrat
 gewährleistet ist.
 
-
 ## § 5 Maßnahmen des Bundes für die Bundeshauptstadt Berlin
 
 (1) Der Bund und das Land Berlin arbeiten zusammen, um die
@@ -183,7 +174,6 @@ Wahrnehmung der gesamtstaatlichen Repräsentation vereinbarungsgemäß
 (3) Die nähere Ausgestaltung bleibt vertraglichen Vereinbarungen
 zwischen dem Bund einerseits und den Ländern Berlin und Brandenburg
 andererseits vorbehalten.
-
 
 ## § 6 Maßnahmen des Bundes für die Region Bonn
 
@@ -224,7 +214,6 @@ vereinbarungsgemäß übertragenen besonderen Aufgaben.
 (5) Die nähere Ausgestaltung bleibt vertraglichen Vereinbarungen
 zwischen dem Bund einerseits und den betroffenen Ländern sowie den
 Gebietskörperschaften der Region Bonn andererseits vorbehalten.
-
 
 ## § 7 Verlagerung von Einrichtungen des Bundes und Sitzfestlegungen
 
@@ -323,7 +312,6 @@ gemäß § 3 Abs. 2 vollzogen.
 Sitzfestlegungen gemäß Absatz 3 in zeitlicher Abstimmung mit der
 Verlagerung von Regierungsfunktionen nach Berlin vollzogen werden.
 
-
 ## § 8 Dienstrechtliche Maßnahmen
 
 (1) Für die von diesem Gesetz betroffenen Mitarbeiterinnen und
@@ -336,7 +324,6 @@ sollen.
 
 (2) Soweit hierzu gesetzliche Regelungen erforderlich sind, erfolgen
 diese außerhalb dieses Gesetzes.
-
 
 ## § 9 Bekanntmachungen im Bundesgesetzblatt
 
@@ -351,10 +338,6 @@ Im Bundesgesetzblatt werden bekanntgegeben:
 
 3.  der Zeitpunkt nach § 7 Abs. 4 durch das Bundesministerium für
     Raumordnung, Bauwesen und Städtebau.
-
-
-
-
 
 ## § 10 Inkrafttreten
 

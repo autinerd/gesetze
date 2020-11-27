@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 2.12.2010 I 1744
 
-
 ## § 1 Aufhebung rechtsstaatswidriger Verwaltungsentscheidungen
 
 (1) Die hoheitliche Maßnahme einer deutschen behördlichen Stelle zur
@@ -72,7 +71,6 @@ die Feststellung ihrer Rechtsstaatswidrigkeit.
 der von ihr beherrschten Parteien und gesellschaftlichen
 Organisationen gelten die Vorschriften dieses Gesetzes entsprechend.
 
-
 ## § 1a Feststellung der Rechtsstaatswidrigkeit in sonstigen Fällen
 
 (1) Für eine Verwaltungsentscheidung nach § 1 Abs. 1 oder eine
@@ -85,7 +83,6 @@ Gründen der politischen Verfolgung zu einer schweren Herabwürdigung
 des Betroffenen im persönlichen Lebensbereich geführt hat.
 
 (2) § 1 Abs. 3 Satz 1 in Verbindung mit Abs. 2 gilt entsprechend.
-
 
 ## § 2 Folgeansprüche
 
@@ -130,7 +127,6 @@ Anspruch auf dessen Verkehrswert sowie der Anspruch auf
 herauszugebende andere Ausgleichsleistungen stehen dem
 Entschädigungsfonds zu.
 
-
 ## § 3 Beschädigtenversorgung
 
 (1) Ein Betroffener, der infolge einer Maßnahme nach § 1 eine
@@ -169,7 +165,6 @@ des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung
 als Folge einer Schädigung anerkannt werden; die Zustimmung kann
 allgemein erteilt werden.
 
-
 ## § 4 Hinterbliebenenversorgung
 
 Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten
@@ -180,7 +175,6 @@ Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine
 entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
 erhalten. § 3 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des
 Bundesversorgungsgesetzes sind entsprechend anzuwenden.
-
 
 ## § 5 Zusammentreffen von Ansprüchen
 
@@ -209,7 +203,6 @@ entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen; § 51
 Abs. 2 Satz 2 des Bundesversorgungsgesetzes ist entsprechend
 anzuwenden.
 
-
 ## § 6 Anwendung des Bundesversorgungsgesetzes
 
 Die Bestimmungen des Bundesversorgungsgesetzes und die zu seiner
@@ -218,7 +211,6 @@ entsprechende Anwendung finden sollen, gelten jeweils mit den in
 Anlage I Kapitel VIII Sachgebiet K Abschnitt III des
 Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067)
 aufgeführten Maßgaben.
-
 
 ## § 7 Eingriff in Vermögenswerte
 
@@ -249,7 +241,6 @@ die aus dem durch den Eingriff verursachten Zustand des Grundstückes
 bestehen. Die Verpflichtungen gehen auf das Bundesland über, in dessen
 Gebiet das Grundstück liegt.
 
-
 ## § 8 Berufliche Benachteiligung
 
 Hatte eine Maßnahme nach § 1 Auswirkungen auf den Beruf oder ein
@@ -262,7 +253,6 @@ schwere und unzumutbare Folge im Sinne des § 1 Abs. 1 liegt
 insbesondere dann vor, wenn infolge der Maßnahme ein Ausgleich von
 Nachteilen in der Rentenversicherung nach dem Beruflichen
 Rehabilitierungsgesetz in Betracht kommt.
-
 
 ## § 9 Antrag
 
@@ -281,7 +271,6 @@ unmittelbar Betroffenen hat, gestellt werden.
 stellen. Die Antragsfrist gilt auch dann als gewahrt, wenn der Antrag
 fristgemäß bei einer anderen inländischen Behörde oder bei einem
 deutschen Gericht gestellt worden ist.
-
 
 ## § 10 Inhalt des Antrags
 
@@ -311,7 +300,6 @@ deutschen Gericht gestellt worden ist.
 persönlichen Verhältnissen die in Absatz 1 Nr. 2 und 3
 vorgeschriebenen Angaben enthalten.
 
-
 ## § 11 Verwendung personenbezogener Daten
 
 Personenbezogene Daten aus einem verwaltungsrechtlichen
@@ -319,7 +307,6 @@ Rehabilitierungsverfahren dürfen auch für andere Verfahren zur
 Rehabilitierung, Wiedergutmachung oder Gewährung von Leistungen nach
 dem Häftlingshilfegesetz soweit erforderlich verarbeitet und genutzt
 werden.
-
 
 ## § 12 Rehabilitierungsbehörde
 
@@ -351,7 +338,6 @@ Bundesversorgungsgesetzes obliegt. Soweit die Verwaltungsbehörden der
 Kriegsopferversorgung zuständig sind, richtet sich das Verfahren nach
 den für die Kriegsopferversorgung geltenden Vorschriften.
 
-
 ## § 13 Verwaltungsverfahren
 
 (1) In dem Verfahren vor der Rehabilitierungsbehörde sind Zeugen zur
@@ -374,7 +360,6 @@ Vorschriften des Verwaltungsverfahrensgesetzes, des
 Verwaltungszustellungsgesetzes und des Verwaltungs-
 Vollstreckungsgesetzes.
 
-
 ## § 14 Kosten
 
 Das Verwaltungsverfahren vor den Rehabilitierungsbehörden
@@ -382,7 +367,6 @@ einschließlich des Widerspruchsverfahrens ist kostenfrei. Wurde ein
 Antrag im Verwaltungsverfahren oder ein Widerspruch als offensichtlich
 unbegründet zurückgewiesen, so können dem Antragsteller die Kosten
 auferlegt werden.
-
 
 ## § 15 Bestandskraft nach allgemeinen Vorschriften
 
@@ -392,7 +376,6 @@ verwaltungsverfahrensrechtlichen Nichtigkeitsbestimmungen erst ab dem
 allgemeinen Aufhebungsvorschriften Anwendung. Eine Aufhebung mit
 Wirkung für die Vergangenheit darf nicht für die Zeit vor dem 3.
 Oktober 1990 erfolgen.
-
 
 ## § 16 Rechtsweg
 
@@ -414,7 +397,6 @@ Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung
 maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt
 unberührt.
 
-
 ## § 17 Kostenregelung
 
 Der Bund trägt 60 vom Hundert der Ausgaben, die den Ländern durch
@@ -425,7 +407,6 @@ erstattet der Bund den Ländern in einem pauschalierten Verfahren
 jeweils 57 Prozent der ihnen nach den §§ 3 und 4 entstandenen Kosten.
 Der Bund überprüft in einem Abstand von fünf Jahren, erstmals im Jahr
 2014, die Voraussetzungen für die in Satz 3 genannte Quote.
-
 
 ## § 18 Übergangsregelung
 

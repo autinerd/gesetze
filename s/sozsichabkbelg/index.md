@@ -21,16 +21,13 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 1 G v. 27.4.2002 I 1464
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3
 
@@ -49,10 +46,6 @@ b)  den Personen, auf die das Abkommen und die Zusatzvereinbarungen
     Bescheinigungen und anderen Schriftstücken sowie die Einhaltung von
     Fristen und die Beachtung von Meldevorschriften auferlegen.
 
-
-
-
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -60,7 +53,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 5
 

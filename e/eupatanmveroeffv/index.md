@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.8.2011 II 738
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels II § 2 Abs. 2 Satz 1 des Gesetzes über
@@ -27,7 +26,6 @@ in Verbindung mit § 1 der Verordnung über die Übertragung der
 Ermächtigung nach Artikel II § 2 Abs. 2 des Gesetzes über
 internationale Patentübereinkommen vom 27. November 1978 (BGBl. II S.
 1377) wird verordnet:
-
 
 ## § 1
 
@@ -75,15 +73,10 @@ einzureichen. Der Antrag muß in deutscher Sprache enthalten
 
 10. die Unterschrift des Antragstellers oder des Vertreters.
 
-
-
-
-
 ## § 2
 
 Die deutsche Übersetzung der Patentansprüche ist dem Antrag nach § 1
 als Anlage beizufügen.
-
 
 ## § 3
 
@@ -93,7 +86,6 @@ Voranstellung der Abkürzung "EP" vollständig auf allen an das
 Patentamt gerichteten Sendungen mindestens im Kopf des jeweils ersten
 Blattes anzubringen.
 
-
 ## § 4
 
 Die Blätter der Übersetzung sind mit arabischen Ziffern fortlaufend zu
@@ -101,7 +93,6 @@ nummerieren. Die Blattnummern sind unterhalb des oberen Randes in der
 Mitte anzubringen. Im Übrigen gilt für die Übersetzung § 6 Absatz 1
 Satz 1, Absatz 2 Satz 2, 5 und 6, Absatz 3 Satz 1, 2 und 6 sowie
 Absatz 4 und 5 der Patentverordnung entsprechend.
-
 
 ## Schlußformel
 

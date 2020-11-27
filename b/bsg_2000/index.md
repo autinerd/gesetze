@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2534, 2544
 
-
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 2000 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,3 vom Hundert und in der
 knappschaftlichen Rentenversicherung 25,6 vom Hundert.
-
 
 ## § 2 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 

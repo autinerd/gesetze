@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Nr. 13 G v. 20.12.1991 I 2317
 
-
 ## I. - Allgemeiner Teil
-
-
 
 ### § 1
 
@@ -100,14 +97,9 @@ Verwaltungsausgaben werden nicht übernommen. Der Bund trägt jedoch
     Bauvorhaben, die vor dem 1. April 1955 für Rechnung des Bundes
     begonnen, aber noch nicht beendet worden sind.
 
-
-
-
-
 ### § 2
 
 (Durch Zeitablauf überholt)
-
 
 ### § 3
 
@@ -152,7 +144,6 @@ Lindau auf den Bund über:
 (3) Die besondere Regelung für die Soforthilfeabgabe bleibt hiervon
 unberührt.
 
-
 ### § 4
 
 (1) Die am 31. März 1950 in Geltung gewesenen bundes- und
@@ -185,17 +176,9 @@ Bundes leisten, gilt folgendes:
     obersten Bundesbehörden gebunden. Der Vollzug der Weisungen ist durch
     die obersten Landesbehörden sicherzustellen.
 
-
-
-
-
 ## II. - Besonderer Teil
 
-
-
 ### 1. - Besatzungslasten
-
-
 
 #### § 5
 
@@ -203,7 +186,6 @@ Besatzungskosten und Auftragsausgaben (§ 1 Abs. 1 Ziff. 1) sind die
 Aufwendungen für Zweckbestimmungen, die in dem der Bundesregierung vom
 Rat der Alliierten Hohen Kommission zugeleiteten Haushalt für die
 Besatzungskosten und Auftragsausgaben vorgesehen sind.
-
 
 #### § 6
 
@@ -273,10 +255,7 @@ das Rechnungsjahr 1950 auf den Bund über.
 Aufwendungen durch eine mit Zustimmung des Bundesrates zu erlassende
 Rechtsverordnung näher zu bestimmen.
 
-
 ### 2. - Kriegsfolgenhilfe
-
-
 
 #### § 7
 
@@ -301,10 +280,6 @@ für Kriegsfolgenhilfe-Empfänger.
 
 5.  Angehörige von Kriegsgefangenen und Vermißten.
 
-
-
-
-
 #### § 8
 
 Fürsorgekosten sind die Pflichtleistungen, die im Rahmen der
@@ -317,13 +292,11 @@ Fürsorgerechtsprechung entwickelten Grundsätzen nach den örtlich
 maßgebenden, über Anordnungen des Landes nicht hinausgehenden
 Richtsätzen und Richtlinien der öffentlichen Fürsorge gewährt werden.
 
-
 #### § 9
 
 Fürsorgekosten sind sowohl Geldleistungen (laufende und einmalige
 Unterstützungen) als auch Sachleistungen der offenen und geschlossenen
 Fürsorge.
-
 
 #### § 10
 
@@ -363,10 +336,6 @@ Fürsorgekosten sind auch
 
     mit ihren Ausführungsbestimmungen.
 
-
-
-
-
 #### § 11
 
 (1) Zur Kriegsfolgenhilfe gehören auch - soweit nicht die Bestimmung
@@ -380,7 +349,6 @@ Kriegsfolgenhilfe ohne Rücksicht darauf, ob sie für unterstützte oder
 nichtunterstützte Personen aufgewendet worden sind.
 
 (2)
-
 
 #### § 12
 
@@ -397,7 +365,6 @@ Kriegsfolgenhilfe-Empfängern nach anderen Richtsätzen oder Richtlinien
 (§ 8) gewährt werden als den übrigen Empfängern der öffentlichen
 Fürsorge.
 
-
 #### § 13
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
@@ -407,13 +374,7 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
 2.  die in den §§ 8 bis 12 aufgeführten Fürsorgekosten näher zu bestimmen.
 
-
-
-
-
 ### 3. - Umsiedlung und Auswanderung
-
-
 
 #### § 14
 
@@ -438,7 +399,6 @@ Deckung der ersten Bedürfnisse am Aufnahmeort, soweit diese Kosten
 nicht von anderer Seite, insbesondere von der Arbeitslosenversicherung
 zu tragen sind.
 
-
 #### § 14a
 
 (1) Der Bund trägt die Kosten der Auswanderung von Kriegsfolgenhilfe-
@@ -454,10 +414,7 @@ Einschiffung, der Verpflegung während der Reise, des Begleitpersonals,
 der vorgeschriebenen amtlichen Überprüfung und ärztlichen Untersuchung
 sowie der lagermäßigen Unterbringung und Versorgung.
 
-
 ### 4. - Rückführung
-
-
 
 #### § 15
 
@@ -473,10 +430,7 @@ auf die Länder des Bundesgebietes.
 Bundesrates die Kosten der Rückführung im Sinne des Absatzes 1 näher
 zu bestimmen.
 
-
 ### 5. - Grenzdurchgangslager
-
-
 
 #### § 16
 
@@ -484,17 +438,11 @@ Der Bund trägt die Kosten für die von der Bundesregierung als
 Grenzdurchgangslager von übergebietlicher Bedeutung anerkannten
 Einrichtungen.
 
-
 ### 5a. - Aufwendungen der Arbeitslosenfürsorge
-
-
 
 #### (XXXX) §§ 16a bis 16c (weggefallen)
 
-
 ### 6. - Zuschüsse zu den Lasten der Sozialversicherung
-
-
 
 #### § 17
 
@@ -552,13 +500,7 @@ h)  Aufwendungen der Sozialversicherungsträger für Ausgleichsbeträge an
 i)  Rentenauslagen für im Land Rheinland-Pfalz wohnende Berechtigte der
     früheren Lothringer Knappschaft.
 
-
-
-
-
 ## III. - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 18
 
@@ -622,7 +564,6 @@ Ausgaben für sonstige Kriegsfolge- und Soziallasten
 
 nicht decken, bleibt das Land mit dem Unterschiedsbetrag belastet.
 
-
 ### § 19
 
 Für den Ertrag der Monopole gilt folgendes:
@@ -638,10 +579,6 @@ Für den Ertrag der Monopole gilt folgendes:
     anzurechnen. Soweit sie den Reingewinn übersteigen, sind sie
     unmittelbar nach Abschluß der Zwischenbilanz durch die Länder dem Bund
     zu erstatten.
-
-
-
-
 
 ### § 20
 
@@ -669,7 +606,6 @@ beteiligten obersten Rechnungsprüfungsbehörden den Vereinigten Senat
 Bundesrechnungshofes vom 27. November 1950 - Bundesgesetzbl. S. 765 -)
 anrufen.
 
-
 ### § 21
 
 (1) Ausgaben für die in § 1 Abs. 1 Ziff. 1, 2, 7 bis 10 aufgeführten
@@ -678,7 +614,6 @@ zusammenhängenden Einnahmen (§ 1 Abs. 2) sind an den Bund abzuführen.
 
 (2) Die Vorschrift des Absatzes 1 gilt auch für die in § 1 Abs. 1
 Ziff. 3 zweiter Halbsatz bezeichneten Aufwendungen.
-
 
 ### § 21a
 
@@ -814,7 +749,6 @@ Minderung der im Absatz 1 bezeichneten Aufwendungen, sind die
 Pauschbeträge durch Rechtsverordnung der Bundesregierung, die der
 Zustimmung des Bundesrates bedarf, dieser Änderung anzupassen.
 
-
 ### § 21b
 
 (1) Für die in § 1 Abs. 1 Ziff. 3 zweiter Halbsatz bezeichneten
@@ -841,13 +775,11 @@ Satz 1 und Abs. 7 entsprechend; danach entfällt eine nachträgliche
 Verrechnung von Einnahmen und Ausgaben der pauschalierten
 Leistungsbereiche aus der Zeit vor dem 1. Januar 1976.
 
-
 ### § 22
 
 Die Ansprüche des Bundes auf den Ausgleich von Vorteilen, die den
 Ländern aus den Aufwendungen des Bundes auf Grund dieses Gesetzes
 zuwachsen, werden durch dieses Gesetz nicht berührt.
-
 
 ### § 23
 
@@ -870,7 +802,6 @@ deutscher Länder zu übergeben sind. Der Bund erhält die nach Artikel
 IV der Gesetze Nr. 67 und der Verordnung Nr. 223 der
 Militärregierungen von der Gebietskörperschaft Groß-Berlin
 auszustellenden Schuldverschreibungen in voller Höhe.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 994) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

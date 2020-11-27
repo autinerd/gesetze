@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1690
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Grundsatz
 
@@ -31,7 +29,6 @@ transparenten, effizienten und umweltverträglichen Ausbau des
 Übertragungsnetzes sowie dessen Ertüchtigung. Die Realisierung der
 Stromleitungen, die in den Geltungsbereich dieses Gesetzes fallen, ist
 aus Gründen eines überragenden öffentlichen Interesses erforderlich.
-
 
 ### § 2 Anwendungsbereich, Verordnungsermächtigung
 
@@ -58,7 +55,6 @@ möglich ist.
 (4) Dieses Gesetz gilt nicht für Vorhaben, die im
 Energieleitungsausbaugesetz aufgeführt sind.
 
-
 ### § 3 Begriffsbestimmungen
 
 (1) Trassenkorridore im Sinne dieses Gesetzes sind die als
@@ -76,9 +72,7 @@ ihrem satzungsgemäßen Aufgabenbereich berührt sind.
 Energiewirtschaftsgesetzes verantwortliche Betreiber von
 Übertragungsnetzen.
 
-
 ## Abschnitt 2 - Bundesfachplanung
-
 
 ### § 4 Zweck der Bundesfachplanung
 
@@ -87,7 +81,6 @@ Satz 1 des Energiewirtschaftsgesetzes als länderübergreifend oder
 grenzüberschreitend gekennzeichneten Höchstspannungsleitungen werden
 durch die Bundesfachplanung Trassenkorridore bestimmt. Diese sind die
 Grundlage für die nachfolgenden Planfeststellungsverfahren.
-
 
 ### § 5 Inhalt der Bundesfachplanung
 
@@ -116,7 +109,6 @@ worden ist, eine Strategische Umweltprüfung durchzuführen.
 (3) Die Bundesnetzagentur darf die Bundesfachplanung in einzelnen
 Abschnitten der Trassenkorridore durchführen. Dies gilt auch, wenn der
 Vorhabenträger keinen entsprechenden Antrag gestellt hat.
-
 
 ### § 6 Antrag auf Bundesfachplanung
 
@@ -148,10 +140,6 @@ darzustellen. Der Antrag muss enthalten
     die gesamte Ausbaumaßnahme oder für einzelne Streckenabschnitte
     durchgeführt werden soll, die Darlegung der dafür erforderlichen
     Voraussetzungen.
-
-
-
-
 
 ### § 7 Festlegung des Untersuchungsrahmens
 
@@ -198,7 +186,6 @@ unberührt.
 (7) Eine Antragskonferenz kann unterbleiben, wenn die Voraussetzungen
 für ein vereinfachtes Verfahren nach § 11 vorliegen.
 
-
 ### § 8 Unterlagen
 
 Der Vorhabenträger legt der Bundesnetzagentur auf Grundlage der
@@ -214,7 +201,6 @@ Wahrung der in Satz 4 genannten Aspekte so ausführlich sein muss, dass
 Dritte abschätzen können, ob und in welchem Umfang sie von den
 raumbedeutsamen Auswirkungen des Vorhabens betroffen sein können. Die
 Bundesnetzagentur prüft die Vollständigkeit der Unterlagen.
-
 
 ### § 9 Behörden- und Öffentlichkeitsbeteiligung
 
@@ -270,7 +256,6 @@ nachfolgenden Zulassungsverfahren bleibt unberührt.
 die Voraussetzungen für ein vereinfachtes Verfahren nach § 11
 vorliegen.
 
-
 ### § 10 Erörterungstermin
 
 Die Bundesnetzagentur erörtert mündlich die rechtzeitig erhobenen
@@ -289,10 +274,6 @@ erhoben haben. Ein Erörterungstermin findet nicht statt, wenn
 
 
 4.  alle Einwender auf einen Erörterungstermin verzichten.
-
-
-
-
 
 ### § 11 Vereinfachtes Verfahren
 
@@ -327,7 +308,6 @@ Ausbaumaßnahme raumverträglich ist.
 der vollständigen Unterlagen bei der Bundesnetzagentur abzuschließen.
 Hat eine Behörden- und Öffentlichkeitsbeteiligung nach § 9
 stattgefunden, beträgt die Frist nach Satz 1 vier Monate.
-
 
 ### § 12 Abschluss der Bundesfachplanung
 
@@ -370,7 +350,6 @@ nur die bestehenden Trassen im Sinne des § 11 Absatz 1 Satz 1 Nummer 1
 oder 2 oder das Ergebnis eines Raumordnungsplans oder der
 Bundesfachplanung im Sinne von § 11 Absatz 1 Satz 1 Nummer 3.
 
-
 ### § 13 Bekanntgabe und Veröffentlichung der Entscheidung
 
 (1) Die Entscheidung nach § 12 Absatz 2 und 3 ist den Beteiligten nach
@@ -388,7 +367,6 @@ Bundesnetzagentur und auf ihrer Internetseite bekannt.
 (3) Die Rechtsvorschriften über Geheimhaltung und Datenschutz bleiben
 unberührt.
 
-
 ### § 14 Einwendungen der Länder
 
 Jedes Land, das von der Entscheidung nach § 12 Absatz 2 und 3
@@ -397,7 +375,6 @@ nach Übermittlung der Entscheidung Einwendungen zu erheben. Die
 Einwendungen sind zu begründen. Die Bundesnetzagentur hat innerhalb
 einer Frist von einem Monat nach Eingang der Einwendungen dazu
 Stellung zu nehmen.
-
 
 ### § 15 Bindungswirkung der Bundesfachplanung
 
@@ -416,7 +393,6 @@ ersetzt nicht die Entscheidung über die Zulässigkeit der
 Ausbaumaßnahme. Sie kann nur im Rahmen des Rechtsbehelfsverfahrens
 gegen die Zulassungsentscheidung für die jeweilige Ausbaumaßnahme
 überprüft werden.
-
 
 ### § 16 Veränderungssperren
 
@@ -447,7 +423,6 @@ oder endgültig nicht mehr verwirklicht wird. Die Veränderungssperre
 ist auf Antrag aufzuheben, wenn überwiegende Belange von Betroffenen
 entgegenstehen.
 
-
 ### § 17 Bundesnetzplan
 
 Die durch die Bundesfachplanung bestimmten Trassenkorridore werden
@@ -456,9 +431,7 @@ wird bei der Bundesnetzagentur geführt. Der Bundesnetzplan ist von der
 Bundesnetzagentur einmal pro Kalenderjahr im Bundesanzeiger zu
 veröffentlichen.
 
-
 ## Abschnitt 3 - Planfeststellung
-
 
 ### § 18 Erfordernis einer Planfeststellung
 
@@ -477,7 +450,6 @@ berücksichtigen. Sofern dieses Gesetz keine abweichenden Regelungen
 enthält, gelten für das Planfeststellungsverfahren und daran
 anknüpfende Verfahren die Bestimmungen in Teil 5 des
 Energiewirtschaftsgesetzes entsprechend.
-
 
 ### § 19 Antrag auf Planfeststellungsbeschluss
 
@@ -499,10 +471,6 @@ darzustellen. Der Antrag muss enthalten
 3.  soweit es sich bei der gesamten Ausbaumaßnahme oder für einzelne
     Streckenabschnitte nur um unwesentliche Änderungen nach § 25 handelt,
     die Darlegung der dafür erforderlichen Voraussetzungen.
-
-
-
-
 
 ### § 20 Antragskonferenz, Festlegung des Untersuchungsrahmens
 
@@ -536,7 +504,6 @@ unberührt.
 (5) Eine Antragskonferenz kann unterbleiben, wenn die Voraussetzungen
 des § 25 vorliegen.
 
-
 ### § 21 Einreichung des Plans und der Unterlagen
 
 (1) Der Vorhabenträger reicht den auf Grundlage der Ergebnisse der
@@ -568,7 +535,6 @@ die Unterlagen innerhalb einer angemessenen Frist zu ergänzen. Nach
 Abschluss der Vollständigkeitsprüfung hat die Planfeststellungsbehörde
 dem Vorhabenträger die Vollständigkeit der Unterlagen schriftlich zu
 bestätigen.
-
 
 ### § 22 Anhörungsverfahren
 
@@ -633,7 +599,6 @@ Verwaltungsverfahrensgesetzes entsprechend.
 (8) Anhörungsverfahren und Erörterungstermin können unterbleiben, wenn
 die Voraussetzungen des § 25 vorliegen.
 
-
 ### § 23 Umweltverträglichkeitsprüfung
 
 Die Prüfung der Umweltverträglichkeit nach den Bestimmungen des
@@ -641,7 +606,6 @@ Gesetzes über die Umweltverträglichkeitsprüfung kann auf Grund der in
 der Bundesfachplanung bereits durchgeführten Strategischen
 Umweltprüfung auf zusätzliche oder andere erhebliche
 Umweltauswirkungen der beantragten Stromleitung beschränkt werden.
-
 
 ### § 24 Planfeststellungsbeschluss
 
@@ -666,7 +630,6 @@ Internet zu veröffentlichen. Für die Veröffentlichung gilt § 22 Absatz
 
 (4) Die Rechtsvorschriften über Geheimhaltung und Datenschutz bleiben
 unberührt.
-
 
 ### § 25 Unwesentliche Änderungen
 
@@ -699,7 +662,6 @@ Plangenehmigungs- oder Planfeststellungsverfahren durchzuführen ist
 oder die Maßnahme von einem förmlichen Verfahren freigestellt ist. Die
 Entscheidung ist dem Vorhabenträger bekannt zu machen.
 
-
 ### § 26 Zusammentreffen mehrerer Vorhaben
 
 In Planfeststellungsverfahren für in den Bundesnetzplan aufgenommene
@@ -713,7 +675,6 @@ werden. § 78 des Verwaltungsverfahrensgesetzes bleibt unberührt. Die
 Planfeststellungsverfahren richten sich nach den Vorgaben dieses
 Gesetzes. Ist danach eine andere Behörde als die Bundesnetzagentur
 zuständig, wendet diese die Vorgaben des dritten Abschnitts an.
-
 
 ### § 27 Vorzeitige Besitzeinweisung und Enteignungsverfahren
 
@@ -738,7 +699,6 @@ erlassen, dass sein Ergebnis durch den Planfeststellungsbeschluss
 bestätigt wird. Anderenfalls ist das Enteignungsverfahren auf der
 Grundlage des ergangenen Planfeststellungsbeschlusses zu ergänzen.
 
-
 ### § 28 Durchführung eines Raumordnungsverfahrens
 
 Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung
@@ -750,9 +710,7 @@ Höchstspannungsleitungen, für die im Bundesnetzplan Trassenkorridore
 oder Trassen ausgewiesen sind, nicht statt. Dies gilt nicht nach
 Ablauf der Geltungsdauer gemäß § 15 Absatz 2.
 
-
 ## Abschnitt 4 - Gemeinsame Vorschriften
-
 
 ### § 29 Projektmanager
 
@@ -786,7 +744,6 @@ auf Vorschlag oder mit Zustimmung des Vorhabenträgers und auf dessen
 Kosten beauftragen. Die Entscheidung der Bundesfachplanung nach § 12
 Absatz 2 und über den Planfeststellungsantrag nach § 24 Absatz 1 liegt
 allein bei der zuständigen Behörde.
-
 
 ### § 30 Kostenpflichtige Amtshandlungen
 
@@ -842,9 +799,7 @@ Verfahrens zu entrichten.
 (4) Die Gebühren für Amtshandlungen zuständiger Landesbehörden richten
 sich nach den Verwaltungskostengesetzen der Länder.
 
-
 ## Abschnitt 5 - Behörden und Gremien
-
 
 ### § 31 Zuständige Behörde
 
@@ -864,7 +819,6 @@ Wirtschaft und Technologie sowie dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit regelmäßig in nicht
 personenbezogener Form über den Verfahrensstand zur Bundesfachplanung
 und zur Planfeststellung zu berichten.
-
 
 ### § 32 Bundesfachplanungsbeirat
 
@@ -888,9 +842,7 @@ nicht öffentlich.
 
 (4) Der Beirat gibt sich eine Geschäftsordnung.
 
-
 ## Abschnitt 6 - Sanktions- und Schlussvorschriften
-
 
 ### § 33 Bußgeldvorschriften
 
@@ -920,7 +872,6 @@ einhunderttausend Euro geahndet werden.
 Gesetzes über Ordnungswidrigkeiten sind die Bundesnetzagentur und die
 zuständigen Planfeststellungsbehörden der Länder.
 
-
 ### § 34 Zwangsgeld
 
 Die Bundesnetzagentur kann ihre Anordnungen, insbesondere
@@ -928,7 +879,6 @@ Fristsetzungen zur Antragstellung nach § 6 Satz 2 und § 12 Absatz 2
 Satz 2, nach den für die Vollstreckung von Verwaltungsmaßnahmen
 geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt
 mindestens 1 000 Euro und höchstens 250 000 Euro.
-
 
 ### § 35 Übergangsvorschriften
 

@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2331, 2336
 
-
-
 ## (XXXX)
 
 Zur Durchführung der Verordnung (EG) Nr. 761/2001 des Europäischen

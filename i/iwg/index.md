@@ -20,7 +20,6 @@ Europäischen Parlaments und des Rates vom 17. November 2003 über die
 Weiterverwendung von Informationen des öffentlichen Sektors (ABl. EU
 Nr. L 345 S. 90).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Weiterverwendung aller bei öffentlichen
@@ -62,7 +61,6 @@ Stellen vorhandenen Informationen.
 weitergehende Ansprüche aus anderen Rechtsvorschriften auf
 Weiterverwendung von Informationen öffentlicher Stellen bleiben
 unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -112,10 +110,6 @@ Im Sinne dieses Gesetzes
     jede natürliche oder juristische Person mit Wohnsitz oder Sitz in
     einem Mitgliedstaat.
 
-
-
-
-
 ## § 3 Gleichbehandlungsanspruch
 
 (1) Jede Person ist bei der Entscheidung über die Weiterverwendung
@@ -146,7 +140,6 @@ eines solchen Rechts muss regelmäßig, mindestens alle drei Jahre,
 öffentlich bekannt gemacht werden. Bestehende ausschließliche Rechte,
 die nicht unter Satz 2 fallen, erlöschen mit Ablauf der Regelung,
 spätestens jedoch am 31. Dezember 2008.
-
 
 ## § 4 Bearbeitung von Anfragen; Transparenz
 
@@ -198,12 +191,10 @@ wenn er ihr bekannt und seine Nennung zulässig ist.
 (6) Die Verpflichtungen aus Absatz 1, 2 und 5 gelten nicht für die in
 § 1 Abs. 2 Nr. 5 bis 7 genannten öffentlichen Stellen.
 
-
 ## § 5 Rechtsschutz
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 eröffnet.
-
 
 ## § 6 Inkrafttreten
 

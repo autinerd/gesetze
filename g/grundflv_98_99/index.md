@@ -23,7 +23,6 @@ Geändert durch
 Die v tritt gem. § 4 satz 2 am 15.3.1999 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 4 satz 2 aufgeh. mit zustimmung des bundesrates durch
 :   Art. 1 V v. 22.12.1998 I 3962 mWv 31.12.1998; dadurch ist die Geltung der V über den 15.3.1999 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 7 und 19 und der §§ 15 und 16, jeweils in
@@ -33,7 +32,6 @@ Marktorganisationen in der Fassung der Bekanntmachung vom 20.
 September 1995 (BGBl. I S. 1146) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den
 Bundesministerien der Finanzen und für Wirtschaft:
-
 
 ## § 1 Anwendungsbereich
 
@@ -46,7 +44,6 @@ durch Artikel 1 Nr. 2 der Verordnung (EG) Nr. 1422/97 des Rates vom
 Nr. 1 der Verordnung (EG) Nr. 1624/98 des Rates vom 20. Juli 1998
 (ABl. EG Nr. L 210 S. 3) geändert worden ist, vorgesehene Regelung zur
 Anwendung.
-
 
 ## § 2 Definition
 
@@ -84,10 +81,6 @@ für die Bundesrepublik Deutschland ausgewiesenen
 
 3.  Grundflächen insgesamt im Falle des Absatzes 1 Nr. 3.
 
-
-
-
-
 ## § 3 Konzentration der Sanktionen
 
 Im Falle der Überschreitung einer nationalen Grundfläche sind die in
@@ -95,7 +88,6 @@ Artikel 2 Abs. 6 der Verordnung (EWG) Nr. 1765/92, der durch Artikel 1
 Nr. 1 der Verordnung (EG) Nr. 1422/97 neugefaßt worden ist,
 vorgesehenen Maßnahmen auf die Teilgrundflächen anzuwenden, deren
 Überschreitung festgestellt wurde.
-
 
 ## § 4 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 1057
 
-
-
 ## (XXXX)
 
 Dem Bundesminister für Jugend, Familie und Gesundheit wird aus dem

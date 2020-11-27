@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1007
 
-
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -32,12 +30,10 @@ erlassen oder den Erlass eines Verwaltungsaktes oder einen Anspruch
 abgelehnt hat und Beamtinnen und Beamte aus dem Bundesamt für
 Zivildienst betroffen sind.
 
-
 ## II.
 
 Die Anordnung findet Anwendung auf alle Widersprüche, die seit dem 1.
 April 2003 eingelegt worden sind.
-
 
 ## III. Vertretung bei Klagen aus dem Beamtenverhältnis
 
@@ -47,11 +43,9 @@ Bundesverwaltungsamt, soweit es nach dieser Anordnung für den Erlass
 von Widerspruchsbescheiden zuständig ist. Für besondere Fälle behalte
 ich mir die Vertretung des Dienstherrn vor.
 
-
 ## IV.
 
 Die Anordnung tritt am 1. Juli 2003 in Kraft.
-
 
 ## Schlussformel
 

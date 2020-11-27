@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3920
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -29,7 +27,6 @@ Gegenstände aus Edelmetallen nunmehr auch in der Tschechischen
 Republik eingeführt ist.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 28.
 September 1994 (BGBl. I S. 3013).
-
 
 ## Schlussformel
 

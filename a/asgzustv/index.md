@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 77 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des § 38 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968
@@ -27,7 +26,6 @@ Auf Grund des § 38 des Arbeitssicherstellungsgesetzes vom 9. Juli 1968
 Fortzahlung des Arbeitsentgelts im Krankheitsfalle und über Änderungen
 des Rechts der gesetzlichen Krankenversicherung vom 27. Juli 1969
 (Bundesgesetzbl. I S. 946), wird verordnet:
-
 
 ## § 1
 
@@ -37,18 +35,15 @@ Maßgabe, daß an die Stelle der Agentur für Arbeit die
 personalbearbeitende Dienststelle tritt, die für die Beendigung des
 Arbeitsverhältnisses zuständig ist.
 
-
 ## § 2
 
 § 32 Abs. 4 des Arbeitssicherstellungsgesetzes ist für Arbeitnehmer
 der Bundeswehr mit der Maßgabe anzuwenden, daß an die Stelle der
 Agentur für Arbeit die Standortverwaltung tritt.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

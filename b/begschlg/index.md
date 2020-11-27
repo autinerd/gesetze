@@ -18,22 +18,18 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 4 G v. 30.8.1971 I 1426
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I
 
 -
 
-
 ## Art II
 
 -
-
 
 ## Art III Übergangsvorschriften
 
@@ -204,10 +200,6 @@ beschlossen:
     entgegen, daß die frühere Entscheidung über den Antrag bindend oder
     rechtskräftig geworden ist.
 
-
-
-
-
 ## Art IV Angleichung
 
 
@@ -278,10 +270,6 @@ beschlossen:
 
 
 3.  § 172 BEG findet entsprechende Anwendung.
-
-
-
-
 
 ## Art V Sonderregelung für überregionale Verfolgtengruppen
 
@@ -456,10 +444,6 @@ beschlossen:
 
     (2)
 
-
-
-
-
 ## Art VI Sonderregelung für Nationalgeschädigte
 
 
@@ -609,16 +593,11 @@ beschlossen:
 9.  Die nach diesem Artikel zu leistenden Entschädigungsaufwendungen
     werden vom Bund getragen.
 
-
-
-
-
 ## Art VII Kostentragung bei Erledigung eines Rechtsstreits
 
 Soweit sich ein Rechtsstreit auf Grund dieses Gesetzes erledigt,
 werden Gerichtskosten nicht erhoben. Jede Partei trägt ihre
 außergerichtlichen Auslagen.
-
 
 ## Art VIII Abschluß der Entschädigung
 
@@ -635,7 +614,6 @@ Nr. 6 BEG. § 206 BEG bleibt unberührt.
 (2) Absatz 1 Satz 1 gilt auch in den Fällen der §§ 90, 165 und 171 BEG
 sowie in den Fällen des Artikels V und des Artikels VI Nr. 4 dieses
 Gesetzes.
-
 
 ## Art IX Wiedergutmachung in der Strafrechtspflege
 
@@ -662,11 +640,9 @@ Antrags nicht entgegen. Das gleiche gilt, wenn in den in Absatz 2
 geregelten Fällen ein Antrag wegen mangelnder Zuständigkeit
 zurückgewiesen worden ist.
 
-
 ## Art X
 
 -
-
 
 ## Art XI Geltung im Land Berlin
 
@@ -676,7 +652,6 @@ im Land Berlin.
 
 (2) Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
-
 
 ## Art XII Inkrafttreten
 
@@ -752,13 +727,6 @@ Es treten in Kraft
 7.  Artikel X
 
     *   am Ersten des auf die Verkündung dieses Gesetzes folgenden Monats.
-
-
-
-
-
-
-
 
 ## Schlußformel
 

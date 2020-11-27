@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1171
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 127 Abs. 1 des Versicherungsaufsichtsgesetzes in der
@@ -29,7 +27,6 @@ und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
 ## § 1
 
 Der Medicator AG werden die Aufgaben und Befugnisse eines
@@ -37,12 +34,10 @@ Sicherungsfonds für die in § 124 Abs. 1 des
 Versicherungsaufsichtsgesetzes genannten
 Krankenversicherungsunternehmen übertragen.
 
-
 ## § 2
 
 Die Medicator AG hat dem Bundesministerium der Finanzen Änderungen
 ihrer Satzung zur Genehmigung vorzulegen.
-
 
 ## § 3
 

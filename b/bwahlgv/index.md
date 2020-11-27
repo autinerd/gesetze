@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.4.1999 I 749
 
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 3 und des § 52 des Bundeswahlgesetzes in der
@@ -27,10 +26,7 @@ Fassung der Bekanntmachung vom 1. September 1975 (Bundesgesetzbl. I S.
 2325) wird im Einvernehmen mit dem Bundesminister für Wirtschaft
 verordnet:
 
-
 ## Erster Abschnitt - Amtliche Zulassung und Genehmigung der Verwendung von Wahlgeräten
-
-
 
 ### § 1 Zulassungspflicht
 
@@ -38,7 +34,6 @@ Mechanisch oder elektrisch betriebene einschließlich rechnergesteuerte
 Geräte, die bei Wahlen der Abgabe und Zählung der Wählerstimmen dienen
 (Wahlgeräte), dürfen bei Wahlen zum Bundestag nur eingesetzt werden,
 wenn ihre Bauart zugelassen und ihre Verwendung genehmigt ist.
-
 
 ### § 2 Erteilung der Bauartzulassung
 
@@ -87,7 +82,6 @@ Erklärung über die Baugleichheit des mit dem in der Bauartzulassung
 nach Absatz 5 identifizierten, von der Physikalisch-Technischen
 Bundesanstalt geprüften Baumusters (Baugleichheitserklärung) beifügen.
 
-
 ### § 3 Rücknahme, Erlöschen und Widerruf der Bauartzulassung
 
 (1) Das Bundesministerium des Innern kann die Bauartzulassung
@@ -108,7 +102,6 @@ Bundestag nicht entspricht.
 (4) Für die Rücknahme, das Erlöschen und den Widerruf einer
 Bauartzulassung gilt § 2 Abs. 5 entsprechend.
 
-
 ### § 4 Genehmigung der Verwendung von Wahlgeräten
 
 (1) Die Verwendung von Wahlgeräten mit zugelassener Bauart bedarf vor
@@ -122,17 +115,13 @@ Bedingungen erteilt und mit Auflagen verbunden werden.
 Verwendung von Wahlgeräten den Innenministern/-senatoren der Länder
 mit und macht sie im Bundesanzeiger bekannt.
 
-
 ## Zweiter Abschnitt - Durchführung der Wahl zum Bundestag und zum Europäischen Parlament mit Wahlgeräten
-
-
 
 ### § 5 Geltung der Bundeswahlordnung und der Europawahlordnung
 
 Soweit sich aus den Vorschriften dieser Verordnung nicht etwas anderes
 ergibt, gelten auch bei der Verwendung von Wahlgeräten die
 Vorschriften der Bundeswahlordnung oder der Europawahlordnung.
-
 
 ### § 6 Wahlbekanntmachung der Gemeindebehörden
 
@@ -143,7 +132,6 @@ Abdruck der Wahlbekanntmachung ist neben dem Stimmzettel eine
 Abbildung der Seite des Wahlgerätes, an der der Wähler seine Stimme
 abgeben kann, nebst gerätespezifischer Darstellung der Wahlvorschläge
 (§ 8 Abs. 2) beizufügen.
-
 
 ### § 7 Überprüfung der Wahlgeräte und Einweisung der Wahlvorsteher
 
@@ -164,7 +152,6 @@ einzelne Wahlgeräte für die Verwendung sperren.
 Gemeindebehörde die Wahlvorsteher und ihre Stellvertreter vor der Wahl
 mit den Wahlgeräten vertraut zu machen und sie in deren Bedienung
 einzuweisen.
-
 
 ### § 8 Ausstattung des Wahlvorstandes
 
@@ -201,7 +188,6 @@ ordnungsgemäßen Zustand befinden und dem amtlichen Stimmzettel
 entsprechend beschriftet sein, wobei auf die Möglichkeit der Abgabe
 ungültiger Stimmen hingewiesen sein muß.
 
-
 ### § 9 Wahlzelle
 
 (1) Jedes Wahlgerät ist in der Wahlzelle so aufzustellen, daß jeder
@@ -210,7 +196,6 @@ Wähler seine Stimmen unbeobachtet abgeben kann.
 (2) Die gerätespezifische Darstellung der Wahlvorschläge bei
 Bundestagswahlen ist so anzuordnen, daß sich die Wahlvorschläge für
 die Erststimmen vom Wähler aus gesehen links oder oben befinden.
-
 
 ### § 10 Eröffnung der Wahlhandlung
 
@@ -251,7 +236,6 @@ Schlüssel für das Wahlgerät oder dessen Zähl- und
 Speichervorrichtungen sind bis zur Beendigung der Wahlhandlung
 getrennt vom Wahlvorsteher und anderen Mitgliedern des Wahlvorstandes
 aufzubewahren.
-
 
 ### § 11 Stimmabgabe und Vermerk über Stimmabgabe
 
@@ -304,14 +288,12 @@ Vorschriften fortzusetzen. In diesem Fall ist ein Wahlgerät gegen jede
 weitere Stimmabgabe zu sperren und die Sperrung, sofern diese
 rückgängig gemacht werden kann, zu versiegeln.
 
-
 ### § 12 Schluß der Wahlhandlung
 
 Der Wahlvorsteher hat nach Schließung der Wahlhandlung jedes Wahlgerät
 oder die Stimmenspeicher gegen jede weitere Stimmabgabe zu sperren und
 die Sperrung, sofern diese rückgängig gemacht werden kann, zu
 versiegeln.
-
 
 ### § 13 Zählung der Wähler
 
@@ -327,7 +309,6 @@ Zählung eine Abweichung zwischen der Zahl der Stimmabgabevermerke
 einschließlich der eingenommenen Wahlscheine und den nach Satz 2
 festgestellten Erst- und Zweitstimmen, so ist dies in der
 Wahlniederschrift zu vermerken, und, soweit möglich, zu erläutern.
-
 
 ### § 14 Zählung der Stimmen
 
@@ -376,7 +357,6 @@ darzustellen und in der Wahlniederschrift zu vermerken.
 
 (6) (weggefallen)
 
-
 ### § 15 Wahlniederschrift
 
 (1) Über die Wahlhandlung, die Ermittlung und die Feststellung des
@@ -418,7 +398,6 @@ Stimmenspeichern, bei denen eine Entsperrung in geschlossenem Zustand
 nicht möglich ist, genügt die Versiegelung und Kennzeichnung des
 Behältnisses, in dem sich die Schlüssel oder Stimmenspeicher befinden.
 
-
 ### § 16 Übergabe und Verwahrung der Wahlunterlagen und der Wahlgeräte
 
 (1) Hat der Wahlvorstand seine Aufgaben beendet, so gibt der
@@ -447,7 +426,6 @@ Anlagen bis zur Aufhebung der Sperrung und Versiegelung der
 eingesetzten Wahlgeräte oder der herausgenommenen Stimmenspeicher
 Unbefugten nicht zugänglich sind.
 
-
 ### § 17 Feststellung des Wahlergebnisses im Wahlkreis
 
 (1) Ergeben sich Bedenken gegen die Ordnungsmäßigkeit des
@@ -472,7 +450,6 @@ Stimmenspeicher aufgehoben werden, wenn die Zählergebnisse der
 Wahlgeräte nicht für ein schwebendes Wahlprüfungsverfahren von
 Bedeutung sein können.
 
-
 ### § 18 Übergangsbestimmung
 
 Für Wahlgeräte einer Bauart, die bereits für die Wahlen zum 14.
@@ -482,16 +459,13 @@ des Bundesministeriums des Innern allgemein für Wahlen zum Deutschen
 Bundestag oder Europawahlen als erteilt. § 8 Abs. 1 Nr. 6 ist auf
 diese Wahlgeräte nicht anzuwenden.
 
-
 ### § 19
 
 (weggefallen)
 
-
 ### § 20 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Anlage 1 (zu § 2) Richtlinien für die Bauart von Wahlgeräten
 
@@ -999,10 +973,6 @@ und
     (Betriebs- und Lagerungs-Temperatur, Feuchtigkeit) und
     elektromagnetischer Art (statische Entladungen, konstante und Wechsel-
     Felder).
-
-
-
-
 
 ### Anlage 2 (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
@@ -1628,10 +1598,6 @@ Wählverzeichnisses zu entnehmen.
 
 
 12) Nach dem Muster der Anlage 28 zur Bundeswahlordnung.
-
-
-
-
 
 ### Anlage 3 (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 

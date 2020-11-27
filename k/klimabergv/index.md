@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 685
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und e, Nr. 5
@@ -27,12 +25,10 @@ August 1980 (BGBl. I S. 1310) wird im Einvernehmen mit dem
 Bundesminister für Arbeit und Sozialordnung mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für untertägige Betriebe mit Ausnahme der
 Hohlraumbauten.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -52,10 +48,6 @@ Im Sinne dieser Verordnung ist
     Feuchttemperatur und der Wettergeschwindigkeit nach dem Schaubild der
     Anlage 1 ermittelte Klimawert in
     Grad C.
-
-
-
-
 
 ## § 3 Zulässige Beschäftigungszeit
 
@@ -100,13 +92,6 @@ Bundesberggesetzes getroffen worden sind,
         Trockentemperaturen über
         46 Grad C bis
         52 Grad C verbringen.
-
-
-
-
-
-
-
 
 ## § 4 Obere Klimawerte für eine Beschäftigung außerhalb des Salzbergbaus
 
@@ -156,10 +141,6 @@ mindestens 6 Wochen.
     genehmigen, soweit dies wegen unvorhergesehener Ereignisse trotz
     zusätzlicher Maßnahmen zur Einhaltung der Frist unvermeidlich ist.
 
-
-
-
-
 ## § 5 Obere Temperaturwerte für eine Beschäftigung im Salzbergbau
 
 (1) Bei Trockentemperaturen von mehr als
@@ -173,7 +154,6 @@ physiologischen Gesamtwirkung nicht so groß ist, wie bei einer
 Trockentemperatur von mehr als
 52 Grad C oder einer Feuchttemperatur von mehr als
 27 Grad C.
-
 
 ## § 6 Anrechnung von Zeiten für die nichtmaschinelle Fahrung
 
@@ -190,7 +170,6 @@ mehr als
 
 
 insoweit anzurechnen, als sie insgesamt mehr als 15 Minuten betragen.
-
 
 ## § 7 Zusätzliche Pausen
 
@@ -228,7 +207,6 @@ insoweit anzurechnen, als sie insgesamt mehr als 15 Minuten betragen.
 
 (2) Die Pausen sind auf die Beschäftigungszeiten anzurechnen.
 
-
 ## § 8 Eingewöhnungszeit
 
 (1) Der Unternehmer darf Personen, die
@@ -257,7 +235,6 @@ täglich mehr als 2 1/2 Stunden oder im Salzbergbau täglich mehr als 4
 Stunden unter den Temperatur- oder Klimabedingungen nach Absatz 1 Nr.
 1 oder 2 verbracht werden.
 
-
 ## § 9 Besondere Personengruppen
 
 (1) Personen, die noch keine 21 Jahre oder mehr als 50 Jahre alt sind,
@@ -285,10 +262,6 @@ wenn
 
 2.  eine entsprechende Bescheinigung dem Unternehmer vorliegt.
 
-
-
-
-
 ## § 10 Arbeiten in Notfällen
 
 Die §§ 3, 4 Abs. 1 und § 5 Abs. 1 gelten nicht
@@ -307,13 +280,6 @@ Die §§ 3, 4 Abs. 1 und § 5 Abs. 1 gelten nicht
     c)  Abwendung eines erheblichen Schadens an bedeutenden
         Betriebseinrichtungen bei einem unvorhergesehenen Ereignis, wenn mit
         einer kurzen Einsatzzeit zu rechnen ist.
-
-
-
-
-
-
-
 
 ## § 11 Ermittlung der Temperaturwerte
 
@@ -392,7 +358,6 @@ stattfindet und an denen außerhalb des Salzbergbaus mit einer
 Effektivtemperatur von mehr als
 29 Grad C oder im Salzbergbau mit einer Trockentemperatur von mehr als
 37 Grad C zu rechnen ist.
-
 
 ## § 12 Arbeitsmedizinische Vorsorgeuntersuchungen
 
@@ -494,7 +459,6 @@ bei einer Person eine Gesundheitsstörung auf, so soll sie sich von dem
 nach Absatz 5 Satz 2 ermächtigten Arzt möglichst unmittelbar nach der
 Ausfahrt untersuchen lassen. Absatz 5 Satz 3 gilt entsprechend.
 
-
 ## § 13 Aufzeichnungen
 
 (1) Der Unternehmer hat nach Maßgabe der von der zuständigen Behörde
@@ -538,7 +502,6 @@ letzten ärztlichen Untersuchung aufzubewahren.
 (3) Gleichwertige Aufzeichnungen auf Grund anderer Rechtsvorschriften
 gelten als Nachweise im Sinne des Absatzes 1 Nr. 1.
 
-
 ## § 14 Bekanntmachung
 
 Der Unternehmer hat dafür zu sorgen, daß alle Personen, die unter Tage
@@ -555,7 +518,6 @@ Der Unternehmer hat dafür zu sorgen, daß alle Personen, die unter Tage
 
 beschäftigt werden sollen oder beschäftigt sind, von den Vorschriften
 dieser Verordnung Kenntnis erhalten.
-
 
 ## § 15 Ordnungswidrigkeiten
 
@@ -617,12 +579,10 @@ nicht vollständig führt oder entgegen § 13 Abs. 2 nicht aufbewahrt.
 (3) Die Absätze 1 und 2 gelten nicht für Untergrundspeicher und
 Versuchsgruben.
 
-
 ## § 16 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 177 des Bundesberggesetzes auch im Land Berlin.
-
 
 ## § 17 Inkrafttreten, abgelöste Vorschriften
 
@@ -650,23 +610,19 @@ Nr. 7 - Sonderbeilage),
 das Land Rheinland-Pfalz für die Steinkohlenbergwerke vom 1. Juni 1976
 (Amtsblatt des Saarlandes S. 600).
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage 1
 
 (Inhalt: nicht darstellbares Schaubild,
 Fundstelle: BGBl. I 1983, 690)
 
-
 ## Anlage 2 Untersuchungsbogen für arbeitsmedizinische Vorsorgeuntersuchungen gemäß § 12 der Klima-Bergverordnung
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 1983, 691)
-
 
 ## Anlage 3 Ärztliche Bescheinigung über arbeitsmedizinische Vorsorgeuntersuchungen gemäß § 12 der Klima-Bergverordnung
 

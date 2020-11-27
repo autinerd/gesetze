@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 6 Nr. 1 G v. 26.6.1992 I 1159
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 1 und des § 12 in Verbindung mit § 3 Abs.
@@ -29,7 +28,6 @@ zuletzt durch das Gesetz vom 30. August 1990 (BGBl. I S. 1860)
 geändert worden ist, verordnet der Bundesminister für Ernährung,
 Landwirtschaft und Forsten im Einvernehmen mit dem Bundesminister für
 Wirtschaft:
-
 
 ## § 1
 
@@ -55,10 +53,6 @@ kann, können folgende Erzeugnisse zusammengefaßt werden:
     *   Küchenkräuter, getrocknet, auch geschnitten, als Pulver oder sonst
         zerkleinert, jedoch nicht weiter zubereitet.
 
-
-
-
-
 ## § 2
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
@@ -66,17 +60,14 @@ Mindestanbaufläche oder Mindesterzeugungsmenge nach § 3 Abs. 1 Nr. 6
 des Gesetzes sowie die Mindestmenge und Mindestdauer eines
 Liefervertrages nach § 6 Abs. 1 Nr. 4 und 5 des Gesetzes festzulegen.
 
-
 ## § 2a
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

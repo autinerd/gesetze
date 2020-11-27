@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 303 V v. 29.10.2001 I 2785
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 130 des Grundgesetzes für die Bundesrepublik
 Deutschland verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
-
 
 ## § 1
 
@@ -73,10 +71,6 @@ Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
 
 
 9.  Das Amt für Fragen der Heimatvertriebenen.
-
-
-
-
 
 ## § 2
 
@@ -136,7 +130,6 @@ ihrem Bereich übernimmt
 Ansprüchen und Verpflichtungen dieser Art im Einvernehmen mit den
 beteiligten Stellen abweichend hiervon selbst übernehmen oder auf ein
 anderes Bundesministerium übertragen.
-
 
 ## § 3
 
@@ -221,20 +214,17 @@ d)  im Bereich des Bundesministeriums für Wirtschaft und Technologie:
 (2) Das zuständige Bundesministerium kann die bisherigen Bezeichnungen
 dieser Stellen ändern.
 
-
 ## § 4
 
 Das Deutsche Patentamt im Vereinigten Wirtschaftsgebiet wird in die
 Verwaltung des Bundes überführt. Es führt die Bezeichnung "Deutsches
 Patentamt".
 
-
 ## § 5
 
 Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird in die
 Verwaltung des Bundes überführt. Es führt die Bezeichnung
 "Statistisches Bundesamt".
-
 
 ## § 6
 

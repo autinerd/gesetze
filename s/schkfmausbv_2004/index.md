@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 9.6.2011 I 1075
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,7 +26,6 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -46,11 +43,9 @@ wird staatlich anerkannt.
 
 gewählt werden.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -61,7 +56,6 @@ Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9 und 10
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -159,10 +153,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 2.3 Projektlogistik.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -173,12 +163,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen
 ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -186,7 +174,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -216,7 +203,6 @@ Prüfungsgebieten durchzuführen:
 
 Dabei soll in den Prüfungsgebieten 1 und 2 die Anwendung englischer
 Fachbegriffe berücksichtigt werden.
-
 
 ## § 9 Abschlussprüfung in der Fachrichtung Linienfahrt
 
@@ -344,7 +330,6 @@ Fachgespräch, mindestens ausreichende Leistungen erbracht sind. Werden
 die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend"
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 10 Abschlussprüfung in der Fachrichtung Trampfahrt
 
 (1) Die Abschlussprüfung in der Fachrichtung Trampfahrt erstreckt sich
@@ -467,7 +452,6 @@ Fachgespräch, mindestens ausreichende Leistungen erbracht sind. Werden
 die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend"
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -475,11 +459,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 
@@ -1149,13 +1131,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         b)  an der Entwicklung und Umsetzung multimodaler Transportkonzepte
             mitwirken
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 

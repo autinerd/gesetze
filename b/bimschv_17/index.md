@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 V v. 27.1.2009 I 129
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -131,7 +128,6 @@ Betrieb der Anlagen zur
 
 
 zu erfüllen sind.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -286,13 +282,7 @@ Im Sinne dieser Verordnung sind:
     Dauerbetrieb je Zeiteinheit zugeführt werden (angegeben in
     MW(tief)th).
 
-
-
-
-
 ## Zweiter Teil - Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb
-
-
 
 ### § 3 Emissionsbezogene Anforderungen an Anlieferung und Zwischenlagerung der Einsatzstoffe
 
@@ -347,7 +337,6 @@ behandelt werden kann.
 Verbrennungs- oder Mitverbrennungsanlage die Masse einer jeden
 Abfallart, gemäß der Abfallverzeichnis-Verordnung in der jeweils
 geltenden Fassung, zu bestimmen.
-
 
 ### § 4 Feuerung
 
@@ -491,7 +480,6 @@ Verbrennungsbedingungen eingesetzt werden.
 (9) Flugascheablagerungen sind möglichst gering zu halten,
 insbesondere durch geeignete Abgasführung sowie häufige Reinigung von
 Kesseln, Heizflächen, Kesselspeisewasser-Vorwärmern und Abgaszügen.
-
 
 ### § 5 Anforderungen an Verbrennungsanlagen
 
@@ -788,7 +776,6 @@ Sinne von § 1a Abs. 1 der Altölverordnung in der Fassung der
 Bekanntmachung vom 16. April 2002 (BGBl. I S. 1368) eingesetzt werden,
 beträgt der Bezugssauerstoffgehalt 3 vom Hundert.
 
-
 ### § 5a Anforderungen an Mitverbrennungsanlagen
 
 (1) Mitverbrennungsanlagen, die nicht mehr als 25 vom Hundert der
@@ -858,7 +845,6 @@ Pressen oder Mischen zählt dazu in der Regel nicht.
 Genehmigungsbescheid oder in einer nachträglichen Anordnung
 festzusetzen.
 
-
 ### § 6 Ableitungsbedingungen für Abgase
 
 Die Abgase sind in kontrollierter Weise so abzuleiten, dass ein
@@ -866,7 +852,6 @@ ungestörter Abtransport mit der freien Luftströmung ermöglicht wird.
 Zur Ermittlung der Ableitungshöhen sind die Anforderungen der TA Luft
 in der jeweils geltenden Fassung zu berücksichtigen. Die näheren
 Bestimmungen sind in der Genehmigung festzulegen.
-
 
 ### § 7 Behandlung der bei der Verbrennung und Mitverbrennung entstehenden Abfälle
 
@@ -905,7 +890,6 @@ Analysen zu ermitteln. Die Analysen betreffen insbesondere den
 löslichen Teil und die Schwermetalle im löslichen und unlöslichen
 Teil.
 
-
 ### § 8 Wärmenutzung
 
 In Verbrennungs- oder Mitverbrennungsanlagen ist entstehende Wärme,
@@ -916,10 +900,7 @@ abgegeben wird oder die nicht in Anlagen des Betreibers genutzt wird,
 eine elektrische Klemmenleistung von mehr als 0,5 Megawatt erzeugbar
 ist, ist elektrische Energie zu erzeugen.
 
-
 ## Dritter Teil - Messung und Überwachung
-
-
 
 ### § 9 Messplätze
 
@@ -927,7 +908,6 @@ Für die Messungen sind nach näherer Bestimmung der zuständigen Behörde
 Messplätze einzurichten; diese sollen ausreichend groß, leicht
 begehbar und so beschaffen sein sowie so ausgewählt werden, dass
 repräsentative und einwandfreie Messungen gewährleistet sind.
-
 
 ### § 10 Messverfahren und Messeinrichtungen
 
@@ -955,7 +935,6 @@ drei Jahren zu wiederholen. Die Berichte über das Ergebnis der
 Kalibrierung und der Prüfung der Funktionsfähigkeit sind der
 zuständigen Behörde innerhalb von zwölf Wochen nach Kalibrierung und
 Prüfung vorzulegen.
-
 
 ### § 11 Kontinuierliche Messungen
 
@@ -1039,7 +1018,6 @@ Behörden auf Antrag des Betreibers Einzelmessungen für HCl, HF, SO
 die Emissionen dieser Schadstoffe nicht höher sind als die dafür
 festgelegten Emissionsgrenzwerte.
 
-
 ### § 12 Auswertung und Beurteilung von kontinuierlichen Messungen
 
 (1) Während des Betriebs der Verbrennungs- oder Mitverbrennungsanlagen
@@ -1071,7 +1049,6 @@ II.1.3, II.2.4, II.2.6 sowie II.3.2 nach Anhang II überschritten wird.
 § 4 Abs. 2 in Verbindung mit Absatz 3 oder nach § 4 Abs. 6 in
 Verbindung mit Absatz 7 hat der Betreiber in den Messbericht nach
 Absatz 2 aufzunehmen.
-
 
 ### § 13 Einzelmessungen
 
@@ -1120,7 +1097,6 @@ Für die im Anhang I genannten Stoffe soll die Nachweisgrenze des
 eingesetzten Analyseverfahrens nicht über 0,005 Nanogramm je
 Kubikmeter Abgas liegen.
 
-
 ### § 14 Berichte und Beurteilung von Einzelmessungen
 
 (1) Über die Ergebnisse der Messungen nach § 13 ist ein Messbericht zu
@@ -1133,7 +1109,6 @@ Messergebnisse von Bedeutung sind, enthalten.
 (2) Die Emissionsgrenzwerte gelten als eingehalten, wenn kein Ergebnis
 einer Einzelmessung einen Mittelwert nach § 5 Abs. 1 oder gemäß Anhang
 II überschreitet.
-
 
 ### § 14a Ermittlung der Jahresmittelwerte, Überwachung und Berichterstattung
 
@@ -1150,7 +1125,6 @@ Nachweiszeitraums aufzubewahren.
 Jahresmittelwert einen Emissionsgrenzwert nach § 5 Abs. 1 Nr. 5,
 Anhang II Nr. II.1.2a, Nr. II.2.4a und Nr. II.3.3 überschreitet.
 
-
 ### § 15 Besondere Überwachung der Emissionen an Schwermetallen
 
 (1) Soweit auf Grund der Zusammensetzung der Abfälle oder Stoffe nach
@@ -1166,7 +1140,6 @@ durch andere Prüfungen, zum Beispiel durch Funktionskontrolle der
 Abgasreinigungseinrichtungen, mit ausreichender Sicherheit
 festgestellt werden kann, dass die Emissionsbegrenzungen nicht
 überschritten werden.
-
 
 ### § 16 Störungen des Betriebs
 
@@ -1196,10 +1169,7 @@ je Kubikmeter Abgas, gemessen als Halbstundenmittelwert, nicht
 überschreiten. § 4 Abs. 5, § 5 Abs. 2, § 5a Abs. 6 sowie § 11 Abs. 4
 gelten entsprechend.
 
-
 ## Vierter Teil - Anforderungen an Altanlagen
-
-
 
 ### § 17 Übergangsregelungen
 
@@ -1227,7 +1197,6 @@ besteht, für die eine Genehmigung zur Errichtung und zum Betrieb nach
 § 6 oder § 16 des Bundes-Immissionsschutzgesetzes erteilt worden ist
 und die die Mitverbrennung von Abfällen oder Stoffen nach § 1 Abs. 1
 spätestens am 28. Dezember 2004 aufnehmen, gelten als Altanlagen.
-
 
 ### § 17a Übergangsregelungen für die Einhaltung von Jahresmittelwerten
 
@@ -1257,13 +1226,7 @@ nicht für Anlagen,
 
 2.  die den Betrieb vor dem 31. Dezember 2013 aufgenommen haben.
 
-
-
-
-
 ## Fünfter Teil - Gemeinsame Vorschriften
-
-
 
 ### § 18 Unterrichtung der Öffentlichkeit
 
@@ -1276,7 +1239,6 @@ Beurteilung der Messungen von Emissionen und der
 Verbrennungsbedingungen zu unterrichten. Satz 1 gilt nicht für solche
 Angaben, aus denen Rückschlüsse auf Betriebs- oder
 Geschäftsgeheimnisse gezogen werden können.
-
 
 ### § 19 Zulassung von Ausnahmen
 
@@ -1331,7 +1293,6 @@ Grund der Beschaffenheit der Abfälle oder Stoffe nach § 1 Abs. 1 die
 Entstehung von Staub- und Geruchsemissionen möglichst gering gehalten
 wird.
 
-
 ### § 20 Weitergehende Anforderungen und wesentliche Änderungen
 
 (1) Die Befugnis der zuständigen Behörde, andere oder weitergehende
@@ -1345,7 +1306,6 @@ Anlage, die nur für den Einsatz nicht besonders
 16 Abs. 1 Satz 1 des Bundes-Immissionsschutzgesetzes als eine
 wesentliche Änderung der Anlage einzustufen.
 
-
 ### § 20a Anforderungen an die Eignung
 
 Nach Maßgabe von § 20 Abs. 3 des Bundes-Immissionsschutzgesetzes kann
@@ -1354,7 +1314,6 @@ Mitverbrennungsanlage untersagen, wenn nicht sichergestellt ist, dass
 die mit der Leitung der Anlage betraute Person zur Leitung der Anlage
 geeignet ist und die Gewähr für den ordnungsgemäßen Betrieb der Anlage
 bietet.
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -1447,15 +1406,11 @@ Betreiber einer Verbrennungs- oder Mitverbrennungsanlage entgegen §
 nicht vollständig führt, nicht oder nicht rechtzeitig vorlegt oder
 nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
-
 ## Sechster Teil - Schlussvorschriften
-
-
 
 ### § 22
 
 (Inkrafttreten)
-
 
 ### Anhang I
 
@@ -1585,10 +1540,6 @@ nachstehend genannten Dioxine und Furane mit den angegebenen
 *    *   Octachlordibenzofuran (OCDF)
 
     *   0,001
-
-
-
-
 
 ### Anhang II Bestimmung der Emissionsgrenzwerte für Mitverbrennungsanlagen
 
@@ -2574,13 +2525,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1630
     *   Die validierten Halbstunden- und Tagesmittelwerte werden auf Grund der
         gemessenen Halbstundenmittelwerte und nach Abzug des in der
         Kalibrierung bestimmten Konfidenzintervalls bestimmt.
-
-
-
-
-
-
-
 
 ### Anhang IV
 

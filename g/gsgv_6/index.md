@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 8.11.2011 I 2178
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung von neuen einfachen
@@ -88,10 +87,6 @@ hergestellte geschweißte Behälter,
 
 3.  Feuerlöscher.
 
-
-
-
-
 ## § 2 Sicherheitsanforderungen
 
 (1) Einfache Druckbehälter, deren Druckinhaltsprodukt PS x V mehr als
@@ -110,7 +105,6 @@ werden, wenn sie den Anforderungen genügen, die den in einem
 Mitgliedstaat der Europäischen Gemeinschaften oder einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 geltenden allgemein anerkannten Regeln der Technik entsprechen.
-
 
 ## § 3 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -164,7 +158,6 @@ bereitgestellt werden, wenn er gemäß § 4 Absatz 1 mit den Angaben nach
 Anhang II Nummer 1 der Richtlinie 2009/105/EG versehen ist und keine
 CE-Kennzeichnung trägt.
 
-
 ## § 4 CE-Kennzeichnung
 
 (1) Die Angaben nach Anhang II Nr. 1 der Richtlinie 2009/105/EG sowie
@@ -189,7 +182,6 @@ Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
 mit der CE-Kennzeichnung versehen sind, die Anforderungen dieser
 Verordnung erfüllen.
 
-
 ## § 5 Betriebsanleitung
 
 Ein in § 2 Absatz 1 genannter Behälter darf nur auf dem Markt
@@ -197,11 +189,9 @@ bereitgestellt werden, wenn ihm eine vom Hersteller verfasste
 Betriebsanleitung gemäß Anhang II Nummer 2 der Richtlinie 2009/105/EG
 in deutscher Sprache beigefügt ist.
 
-
 ## § 6
 
 -
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -209,7 +199,6 @@ Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Absatz 1 oder Absatz 5 oder § 5 einen dort genannten
 Behälter auf dem Markt bereitstellt.
-
 
 ## § 8 (weggefallen)
 

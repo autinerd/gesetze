@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 42 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 des MTA-Gesetzes vom 2. August 1993 (BGBl. I S.
 1402) verordnet das Bundesministerium für Gesundheit im Benehmen mit
 dem Bundesministerium für Bildung und Wissenschaft:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Ausbildung
 
@@ -71,7 +67,6 @@ unterweisen, die für ihre Berufstätigkeit von Bedeutung sind.
 Ausbildungsveranstaltungen nach den Absätzen 1 und 2 ist durch eine
 Bescheinigung nach dem Muster der Anlage 5 nachzuweisen.
 
-
 ### § 2 Staatliche Prüfung
 
 (1) Die staatliche Prüfung für die Ausbildungen nach § 1 des Gesetzes
@@ -84,7 +79,6 @@ abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder
 ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund
 Ausnahmen zulassen. Die Vorsitzenden der beteiligten
 Prüfungsausschüsse sind vorher zu hören.
-
 
 ### § 3 Prüfungsausschuß
 
@@ -137,7 +131,6 @@ und deren Stellvertreter für die einzelnen Fächer.
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ### § 4 Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
@@ -165,13 +158,11 @@ werden.
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
 
-
 ### § 5 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ### § 6 Benotung
 
@@ -203,10 +194,6 @@ mündlichen und praktischen Prüfung werden wie folgt benotet:
     und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
     absehbarer Zeit nicht behoben werden können.
 
-
-
-
-
 ### § 7 Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
@@ -236,7 +223,6 @@ Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein;
 Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
 ### § 8 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -252,7 +238,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 7
 Abs. 3 gilt entsprechend.
 
-
 ### § 9 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er eine
@@ -265,7 +250,6 @@ wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 8 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ### § 10 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -277,7 +261,6 @@ der gesamten Prüfung zulässig. Die Rücknahme einer
 Prüfungsentscheidung wegen Täuschung ist nur innerhalb von drei Jahren
 nach Abschluß der Prüfung zulässig.
 
-
 ### § 11 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
@@ -285,10 +268,7 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## Abschnitt 2 - Prüfungsbestimmungen für die Ausbildung zum Medizinisch-technischen Laboratoriumsassistenten
-
-
 
 ### § 12 Schriftlicher Teil der Prüfung
 
@@ -333,7 +313,6 @@ genannten Fächergruppen wie folgt zu gewichten:
 Die Summe der gewichteten Noten wird durch die Summe der Faktoren
 geteilt.
 
-
 ### § 13 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
@@ -367,7 +346,6 @@ Gesamtnote mindestens "ausreichend" ist.
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten
 Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung
 gestatten.
-
 
 ### § 14 Praktischer Teil der Prüfung
 
@@ -429,10 +407,7 @@ kurze Aufzeichnung anzufertigen, in der Prinzip, Arbeitsgang und
 Fehlermöglichkeiten sowie das Ergebnis mit Interpretation dargestellt
 werden.
 
-
 ## Abschnitt 3 - Prüfungsbestimmungen für die Ausbildung zum Medizinisch-technischen Radiologieassistenten
-
-
 
 ### § 15 Schriftlicher Teil der Prüfung
 
@@ -451,7 +426,6 @@ Fächergruppen:
 
 
 (2) § 12 Abs. 1 Satz 2 bis 5, Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 16 Mündlicher Teil der Prüfung
 
@@ -472,7 +446,6 @@ Fächergruppen:
 
 
 (2) § 13 Abs. 1 Satz 2 und 3, Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 17 Praktischer Teil der Prüfung
 
@@ -524,10 +497,7 @@ Fächer:
 
 (2) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
 ## Abschnitt 4 - Prüfungsbestimmungen für die Ausbildung zum Medizinisch-technischen Assistenten für Funktionsdiagnostik
-
-
 
 ### § 18 Schriftlicher Teil der Prüfung
 
@@ -546,7 +516,6 @@ Fächergruppen:
 
 
 (2) § 12 Abs. 1 Satz 2 bis 5, Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 19 Mündlicher Teil der Prüfung
 
@@ -567,7 +536,6 @@ Fächergruppen:
 
 
 (2) § 13 Abs. 1 Satz 2 und 3, Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 20 Praktischer Teil der Prüfung
 
@@ -624,10 +592,7 @@ Fächer:
 
 (2) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
 ## Abschnitt 5 - Prüfungsbestimmungen für die Ausbildung zum Veterinärmedizinisch-technischen Assistenten
-
-
 
 ### § 21 Schriftlicher Teil der Prüfung
 
@@ -645,7 +610,6 @@ Fächergruppen:
 
 
 (2) § 12 Abs. 1 Satz 2 bis 5, Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 22 Mündlicher Teil der Prüfung
 
@@ -669,7 +633,6 @@ Fächergruppen:
 
 
 (2) § 13 Abs. 1 Satz 2 und 3, Abs. 2 und 3 gilt entsprechend.
-
 
 ### § 23 Praktischer Teil der Prüfung
 
@@ -720,10 +683,7 @@ Der praktische Teil der Prüfung erstreckt sich auf folgende Fächer:
 
 (2) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
 ## Abschnitt 6 - Erlaubniserteilung
-
-
 
 ### § 24 Erlaubnisurkunden
 
@@ -731,7 +691,6 @@ Liegen die Voraussetzungen nach § 2 des Gesetzes für die Erteilung der
 Erlaubnis zur Führung der Berufsbezeichnungen nach § 1 des Gesetzes
 vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem
 Muster der Anlage 7 aus.
-
 
 ### § 25 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -808,7 +767,6 @@ ergehen muss. Erhält der Dienstleistungserbringer innerhalb der in den
 Sätzen 1 und 2 genannten Fristen keine Rückmeldung der zuständigen
 Behörde, darf die Dienstleistung erbracht werden.
 
-
 ### § 25a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -823,10 +781,7 @@ der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
 Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
 zugrunde liegt, am 1. Dezember 2012 in Kraft.
 
-
 ## Abschnitt 7 - Schlußvorschriften
-
-
 
 ### § 26 Inkrafttreten
 
@@ -839,11 +794,9 @@ Abschnitt II Nr. 19 des Einigungsvertrages vom 31. August 1990 in
 Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 1990 II S. 885, 1081), außer Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 1 Abs. 1 Nr. 1)
 
@@ -2406,10 +2359,6 @@ Der Bundesrat hat zugestimmt.
 *    *   Stundenzahl insgesamt
 
     *   1.230
-
-
-
-
 
 ### Anlage 2 (zu § 1 Abs. 1 Nr. 2)
 
@@ -3987,9 +3936,6 @@ Der Bundesrat hat zugestimmt.
     *
     *
 
-
-
-
 ### Anlage 3 (zu § 1 Abs. 1 Nr. 3)
 
    (Fundstelle des Originaltextes: BGBl. I 1994, 940 - 944)
@@ -5362,10 +5308,6 @@ Der Bundesrat hat zugestimmt.
 *    *   Stundenzahl insgesamt
 
     *   2.030
-
-
-
-
 
 ### Anlage 4 (zu § 1 Abs. 1 Nr. 4)
 
@@ -6922,10 +6864,6 @@ Der Bundesrat hat zugestimmt.
 
     *   1.230
 
-
-
-
-
 ### Anlage 5 (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 951)
@@ -6953,7 +6891,6 @@ Ort, Datum
 (Unterschrift(en) der Schulleitung)
 ......
 \*) Nichtzutreffendes streichen.
-
 
 ### Anlage 6 (zu § 7 Abs. 2 Satz 1)
 
@@ -6998,7 +6935,6 @@ Ort, Datum
 Prüfungsausschusses)
 .......
 \*) Jeweilige Berufsbezeichnung nach § 1 des MTA-Gesetzes.
-
 
 ### Anlage 7 (zu § 24)
 

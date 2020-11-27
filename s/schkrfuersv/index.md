@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.9.2007 I 2221
 
-
 ## Eingangsformel
 
 Auf Grund des § 142 Abs. 1 Satz 1 und 2 und des § 143 Abs. 1 Nr. 5 und
@@ -37,10 +36,7 @@ Bundesminister für Ernährung, Landwirtschaft und Forsten, dem
 Bundesminister der Justiz und dem Bundesminister für Wirtschaft und
 Finanzen mit Zustimmung des Bundesrates verordnet:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Allgemeine Verpflichtung zur Ausrüstung
 
@@ -49,7 +45,6 @@ Rettungsboote, Bereitschaftsboote aufblasbaren Rettungsflöße und als
 Rettungsboote zugelassenen Schlauchboote sind nach den Vorschriften
 dieser Verordnung und deren Anlagen mit Arzneimitteln,
 Medizinprodukten und Hilfsmitteln der Krankenfürsorge auszurüsten.
-
 
 ### § 2 Verantwortung
 
@@ -72,7 +67,6 @@ vor nicht mehr als fünf Jahren einen von der nach Landesrecht
 zuständigen Behörde (Behörde) anerkannten Wiederholungslehrgang auf
 dem Gebiet der medizinischen Ausbildung besucht hat.
 
-
 ### § 3 Unterrichtung des Kapitäns und der Behörde
 
 (1) Der Schiffsarzt oder der für die ordnungsgemäße Durchführung der
@@ -84,7 +78,6 @@ Verlangen das Gesundheitstagebuch oder das Krankenbuch vorzulegen.
 alle für die gesundheitlichen Verhältnisse bedeutsamen Vorkommnisse zu
 berichten. Die Meldepflicht des Schiffsarztes und des Kapitäns nach
 anderen Vorschriften bleibt davon unberührt.
-
 
 ### § 4 Amtliche Prüfung
 
@@ -127,7 +120,6 @@ Absätze 2 und 4 gelten entsprechend. § 12 bleibt unberührt.
 den Zustand der Räume, ihrer Einrichtungen sowie der Ausrüstung mit
 Arzneimitteln, Medizinprodukten und Hilfsmitteln zu unterrichten.
 
-
 ### § 5 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet der Ausdruck "Personen" in
@@ -138,7 +130,6 @@ bezeichnet jede Person, die eine berufliche Tätigkeit an Bord ausübt,
 ausgenommen Hafenlotsen und nicht seefahrende Personen, die Arbeiten
 an Bord eines am Kai liegenden Schiffes ausführen.
 
-
 ### § 6 Fahrtgebiete, Fischereigrenzen
 
 Die in § 2 Abs. 5 Nr. 5 und 7 bis 13 der Schiffssicherheitsverordnung
@@ -146,10 +137,7 @@ in der am 1. Juli 1997 geltenden Fassung aufgeführten
 Begriffsbestimmungen sind für Zwecke dieser Verordnung weiter
 anzuwenden.
 
-
 ## Zweiter Abschnitt - Räume, Ausstattung
-
-
 
 ### § 7 Behandlungsraum
 
@@ -186,7 +174,6 @@ dreiseitig mit mindestens einem Meter freiem Bewegungsraum zugänglich
 und mit einer Sicherheitsvorrichtung gegen Herausfallen versehen sein.
 Eine Toilette für den ausschließlichen Gebrauch durch den Kranken ist
 im Behandlungsraum oder in unmittelbarer Nähe vorzusehen.
-
 
 ### § 8 Krankenraum
 
@@ -242,7 +229,6 @@ Telefonanlage vorhanden ist.
 (6) Kranke vom vollendeten zehnten Lebensjahr an sind getrennt nach
 Geschlechtern unterzubringen.
 
-
 ### § 9 Operationsraum
 
 Schiffe, die nach § 15 mit einem Schiffsarzt zu besetzen sind, müssen
@@ -251,7 +237,6 @@ mindestens zehn
 qm Bodenfläche haben. Der Operationsraum muß seiner Bestimmung gemäß
 ausgestattet sein; er muß den allgemein anerkannten Regeln der Technik
 für medizinisch genutzte Räume entsprechen.
-
 
 ### § 10 Sanitäre Einrichtungen
 
@@ -265,7 +250,6 @@ sein und mit einer Rufanlage nach § 8 Abs. 2 ausgestattet sein. Er muß
 den allgemein anerkannten Regeln der Technik für medizinisch genutzte
 Räume entsprechen.
 
-
 ### § 11 Klimaanlage
 
 Behandlungs-, Kranken-, Operations- sowie dazugehörige Waschräume und
@@ -273,7 +257,6 @@ Toiletten müssen auf Schiffen mit mehr als 75 Personen mit einer
 Klimaanlage ausgestattet sein. Auf anderen Schiffen sind diese Räume
 an eine Klimaanlage anzuschließen, sofern eine solche Anlage vorhanden
 ist.
-
 
 ### § 12 Zustimmung zu den Bau- und Einrichtungsplänen
 
@@ -303,7 +286,6 @@ dienenden Räume und Einrichtungen wesentlich geändert werden sollen.
 (3) Bei der Bauausführung darf von den Plänen nicht ohne Zustimmung
 der See-Berufsgenossenschaft abgewichen werden.
 
-
 ### § 13 Ausnahmen
 
 (1) Im Einzelfall kann die See-Berufsgenossenschaft von den
@@ -331,7 +313,6 @@ Medizinprodukten und Hilfsmitteln nur insoweit zu erfüllen, als es für
 eine ausreichende Krankenfürsorge auf der Überführungsreise
 erforderlich ist.
 
-
 ### § 14 Anhörung
 
 Die See-Berufsgenossenschaft hat, bevor sie in den Fällen des § 13
@@ -340,10 +321,7 @@ Küstenländer für Schiffshygiene einzuholen. Sie braucht die
 Stellungnahme nicht einzuholen, wenn sie bei der Entscheidung die
 Richtlinien beachtet, die der Arbeitskreis einstimmig aufgestellt hat.
 
-
 ## Dritter Abschnitt - Ärzte, Pflegepersonen, Krankenbuch, Gesundheitstagebuch
-
-
 
 ### § 15 Schiffsarzt
 
@@ -367,7 +345,6 @@ des Seemannsgesetzes vorzulegen. Die Behörde stellt eine Bescheinigung
 aus, wenn die Voraussetzungen für die Tätigkeit als Schiffsarzt
 erfüllt sind.
 
-
 ### § 16 Pflegepersonen
 
 (1) Neben dem Schiffsarzt muß mindestens ein Krankenpfleger oder eine
@@ -382,7 +359,6 @@ mehr als 250 Kinder unter zehn Jahren befördert, muß eine der in Satz
 (2) In besonderen Fällen muß der Kapitän auf Verlangen des
 Schiffsarztes weitere Besatzungsmitglieder zur Hilfeleistung bei der
 Krankenpflege zur Verfügung stellen.
-
 
 ### § 17 Krankenbuch, Gesundheitstagebuch
 
@@ -416,10 +392,7 @@ belehrt worden sind.
 (5) Ein abgeschlossenes Krankenbuch ist bei der Behörde des
 Heimathafens für die Dauer von zehn Jahren aufzubewahren.
 
-
 ## Vierter Abschnitt - Arzneimittel, Medizinprodukte, Hilfsmittel
-
-
 
 ### § 18 Beschaffung
 
@@ -447,7 +420,6 @@ sind, nur in Notfällen gebraucht werden.
 
 (3) Auf Verlangen der Behörde ist der Lieferer von Arzneimitteln und
 Medizinprodukten nachzuweisen.
-
 
 ### § 19 Aufbewahrung
 
@@ -487,7 +459,6 @@ zugänglicher und ausreichend kenntlich gemachter Stelle zu haltern.
 
 (7) Die Arzneimittel, Medizinprodukte und Hilfsmittel sind unter
 Verschluß zu halten.
-
 
 ### § 20 Beschriftung
 
@@ -553,7 +524,6 @@ deutlich lesbarer Schrift angegeben sein:
 
 (4)
 
-
 ### § 21 Apothekenschrank, Arzneikiste, Sanitätskasten und Rettungskrankentragen
 
 (1) Der Apothekenschrank für die Unterbringung der Arzneimittel,
@@ -584,7 +554,6 @@ Schranktüren oder auf der ausziehbaren Arbeitsplatte des Unterteils
 des Apothekenschrankes die Aufstellung über die geordnete
 Unterbringung der Ausstattung in den Schubfächern anzubringen.
 
-
 ### § 22 Betäubungsmittelbuch
 
 (1) Arzneimittel, die dem Betäubungsmittelgesetz in der jeweils
@@ -609,7 +578,6 @@ Prüfungsvermerk im Betäubungsmittelbuch einzutragen.
 (4) Ein abgeschlossenes Betäubungsmittelbuch ist bei der Behörde des
 Heimathafens für die Dauer von zehn Jahren aufzubewahren.
 
-
 ### § 23 Prüfung durch den Kapitän oder den Schiffsarzt
 
 (1) Vor Antritt einer Reise von mehr als vierwöchiger Dauer,
@@ -631,10 +599,7 @@ Medizinprodukte und Hilfsmittel sind zu ersetzen.
 (4) Das Ergebnis der Prüfungen ist in das Schiffstagebuch, auf
 Schiffen mit Schiffsarzt in das Gesundheitstagebuch einzutragen.
 
-
 ## Fünfter Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 24 Ordnungswidrigkeiten
 
@@ -689,10 +654,7 @@ vorsätzlich oder fahrlässig
 
 (3)
 
-
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 25 Übergangsvorschriften
 
@@ -729,7 +691,6 @@ nach den bisherigen Vorschriften mit Arzneimitteln und Hilfsmitteln
 ausgerüstet worden ist, muß spätestens bei der nächsten Prüfung nach §
 4 Abs. 1 entsprechend der Anlage Teil A und B ausgerüstet sein.
 
-
 ### § 26
 
 Soweit durch diese Rechtsverordnung Schriftform einschließlich für
@@ -739,18 +700,15 @@ andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu
 beantragen ist, sie auszuhändigen, vorzulegen oder mitzuführen sind,
 ist die elektronische Form ausgeschlossen.
 
-
 ### § 27 Inkrafttreten, Außerkrafttreten anderer Vorschriften
 
 Diese Verordnung tritt am 1. Mai 1972 in Kraft.
-
 
 ### Schlußformel
 
 Der Bundesminister für Verkehr
 Der Bundesminister für Arbeit und Sozialordnung
 Der Bundesminister für Jugend, Familie und Gesundheit
-
 
 ### Anlage Teil A bis Teil F zur Verordnung über die Krankenfürsorge auf Kauffahrteischiffen vom 25. April 1972 *Ku Anlageband zum Bundesgesetzbl. I Nr. 38 vom 29. April 1972 *KE
 
@@ -761,7 +719,6 @@ Fundstelle Anlage Teil C: BGBl. I 2007, 2240 - 2241,
 Fundstelle Anlage Teil D und E: BGBl. I 1972 Nr. 38, Anlageband;
 Fundstelle Anlage Teil F: BGBl. I 2007, 2242 - 2243;
 bezgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1109)
 

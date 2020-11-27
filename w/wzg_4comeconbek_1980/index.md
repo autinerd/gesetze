@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 148
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -28,17 +26,14 @@ Eintragung als Warenzeichen ausgeschlossen sind.
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
 22\. November 1979 (BGBl. I S. 1999).\*
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1 Bezeichnungen, Abkürzungen und Kennzeichen des Rates für Gegenseitige Wirtschaftshilfe
 
 (Inhalt: Nicht darstellbare Bezeichnungen,
 Fundstelle: BGBl. I 1980, 149)
-
 
 ## Anlage 2
 

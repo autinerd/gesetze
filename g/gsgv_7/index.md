@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 8.11.2011 I 2178
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Gerätesicherheitsgesetzes, der durch
 Artikel 1 Nr. 6 Buchstabe a des Gesetzes vom 26. August 1992 (BGBl. I
 S. 1564) neu gefaßt worden ist, verordnet die Bundesregierung nach
 Anhörung des Ausschusses für technische Arbeitsmittel:
-
 
 ## § 1 Anwendungsbereich
 
@@ -71,7 +69,6 @@ Geräte, die
 Verwendung bei industriellen Verfahren in Industriebetrieben bestimmt
 sind.
 
-
 ## § 2 Sicherheitsanforderungen
 
 Geräte und Ausrüstungen dürfen nur auf dem Markt bereitgestellt
@@ -81,7 +78,6 @@ Richtlinie 2009/142/EG des Europäischen Parlaments und des Rates vom
 16\.12.2009, S. 10), entsprechen und die Geräte bei vorschriftsmäßiger
 Verwendung die Sicherheit von Personen, Haustieren und Gütern nicht
 gefährden.
-
 
 ## § 3 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -157,7 +153,6 @@ bestätigt, daß die in § 2 genannten, für die Ausrüstung geltenden
 grundlegenden Anforderungen erfüllt sind. Absatz 1 Nr. 2 bis 4 gilt
 entsprechend. Die Ausrüstung darf die CE-Kennzeichnung nicht tragen.
 
-
 ## § 4 CE-Kennzeichnung
 
 (1) Die nach § 3 Abs. 1 erforderliche CE-Kennzeichnung und die
@@ -179,13 +174,11 @@ Sichtbarkeit und Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
 
 (4) (weggefallen)
 
-
 ## § 5 Schriftliche Informationen
 
 Geräte dürfen nur auf dem Markt bereitgestellt werden, wenn ihnen die
 in Anhang I Nummer 1.2 der Richtlinie 2009/142/EG aufgeführten
 Unterlagen in deutscher Sprache beigefügt sind.
-
 
 ## § 6 Ordnungswidrigkeiten
 
@@ -194,15 +187,11 @@ Produktsicherheitsgesetzes handelt, wer entgegen § 3 Absatz 1 oder
 Absatz 4 Satz 1 oder § 5 ein Gerät oder eine Ausrüstung auf dem Markt
 bereitstellt.
 
-
 ## § 7 (weggefallen)
-
-
 
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

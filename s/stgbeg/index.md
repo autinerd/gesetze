@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 20.12.2012 I 2756
 
-
 ## Übersicht
 
 
@@ -231,22 +230,14 @@ Zuletzt geändert durch
     *
     *   Artikel 298 bis 326
 
-
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
 
-
-
 ### Erster Titel - Sachliche Geltung des Strafgesetzbuches
-
-
 
 #### Art 1 Geltung des Allgemeinen Teils
 
@@ -260,10 +251,7 @@ zukünftige Landesrecht. Sie gelten nicht, soweit das Bundesrecht
 besondere Vorschriften des Landesrechts zuläßt und das Landesrecht
 derartige Vorschriften enthält.
 
-
 #### Art 1a (weggefallen)
-
-
 
 #### Art 1b Anwendbarkeit der Vorschriften des internationalen Strafrechts
 
@@ -271,7 +259,6 @@ Soweit das deutsche Strafrecht auf im Ausland begangene Taten
 Anwendung findet und unterschiedliches Strafrecht im Geltungsbereich
 dieses Gesetzes gilt, finden diejenigen Vorschriften Anwendung, die an
 dem Ort gelten, an welchem der Täter seine Lebensgrundlage hat.
-
 
 #### Art 2 Vorbehalte für das Landesrecht
 
@@ -284,10 +271,6 @@ landesrechtlichen Straftatbeständen
 
 
 2.  unter besonderen Voraussetzungen Straflosigkeit vorsehen.
-
-
-
-
 
 #### Art 3 Zulässige Rechtsfolgen bei Straftaten nach Landesrecht
 
@@ -316,7 +299,6 @@ Rechtsfolgen vorsehen als
 
 
 androhen.
-
 
 #### Art 4 Verhältnis des Besonderen Teils zum Bundes- und Landesrecht
 
@@ -367,16 +349,7 @@ Landesrechts zum Schutz von Feld und Forst unberührt, die
         öffentlichen Interesses an der Strafverfolgung ein Einschreiten von
         Amts wegen für geboten hält.
 
-
-
-
-
-
-
-
 ### Zweiter Titel - Gemeinsame Vorschriften für Ordnungs- und Zwangsmittel
-
-
 
 #### Art 5 Bezeichnung der Rechtsnachteile
 
@@ -384,7 +357,6 @@ In Vorschriften des Bundes- und des Landesrechts dürfen
 Rechtsnachteile, die nicht bei Straftaten angedroht werden, nicht als
 Freiheitsstrafe, Haftstrafe, Ordnungsstrafe oder Geldstrafe bezeichnet
 werden.
-
 
 #### Art 6 Mindest- und Höchstmaß von Ordnungs- und Zwangsmitteln
 
@@ -396,7 +368,6 @@ an, so gilt Satz 1 entsprechend.
 (2) Droht das Gesetz Ordnungshaft an, ohne das Mindest- oder Höchstmaß
 zu bestimmen, so beträgt das Mindestmaß einen Tag, das Höchstmaß sechs
 Wochen. Die Ordnungshaft wird in diesem Fall nach Tagen bemessen.
-
 
 #### Art 7 Zahlungserleichterungen bei Ordnungsgeld
 
@@ -425,7 +396,6 @@ bewilligt werden.
 entscheidet die Stelle, die das Ordnungsgeld festgesetzt hat, wenn
 einer anderen Stelle die Vollstreckung obliegt.
 
-
 #### Art 8 Nachträgliche Entscheidungen über die Ordnungshaft
 
 (1) Kann das Ordnungsgeld nicht beigetrieben werden und ist die
@@ -438,7 +408,6 @@ durch Beschluß.
 an Stelle eines uneinbringlichen Ordnungsgeldes festgesetzt worden
 ist, unterbleibt, wenn die Vollstreckung für den Betroffenen eine
 unbillige Härte wäre.
-
 
 #### Art 9 Verjährung von Ordnungsmitteln
 
@@ -463,13 +432,7 @@ Verjährung ruht, solange
 
 3.  eine Zahlungserleichterung bewilligt ist.
 
-
-
-
-
 ## Zweiter Abschnitt - Allgemeine Anpassung von Strafvorschriften
-
-
 
 ### Art 10 Geltungsbereich
 
@@ -480,13 +443,11 @@ besonders geändert werden.
 (2) Die Vorschriften gelten nicht für die Strafdrohungen des
 Wehrstrafgesetzes und des Zivildienstgesetzes.
 
-
 ### Art 11 Freiheitsstrafdrohungen
 
 Droht das Gesetz Freiheitsstrafe mit einem besonderen Mindestmaß an,
 das einen Monat oder weniger beträgt, so entfällt die Androhung dieses
 Mindestmaßes.
-
 
 ### Art 12 Geldstrafdrohungen
 
@@ -511,11 +472,9 @@ beträgt das Höchstmaß einer wahlweise angedrohten Geldstrafe
 einhundertachtzig Tagessätze. Dies gilt auch, wenn sich die wahlweise
 Androhung der Geldstrafe aus Absatz 1 ergibt.
 
-
 ### Art 13
 
 (weggefallen)
-
 
 ### (XXXX) Art 14 bis 17
 
@@ -539,18 +498,11 @@ Buße zugunsten des Verletzten
 Soweit Vorschriften bestimmen, daß zugunsten des Verletzten einer
 Straftat auf eine Buße erkannt werden kann, treten sie außer Kraft.
 
-
 ## Dritter bis Fünfter Abschnitt - -
-
-
 
 ### (XXXX) Art 18 bis 287
 
-
-
 ## Sechster Abschnitt - Anpassung des Landesrechts
-
-
 
 ### Art 288 Geltungsbereich
 
@@ -558,12 +510,10 @@ Die Vorschriften dieses Abschnitts gelten für die Strafvorschriften
 des Landesrechts, soweit sie durch ein Landesgesetz nicht besonders
 geändert werden.
 
-
 ### Art 289 Allgemeine Anpassung
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie Rechtsfolgen
 androhen, die nach Artikel 3 nicht zulässig sind.
-
 
 ### Art 290 Geldstrafdrohungen
 
@@ -582,7 +532,6 @@ einhundertachtzig Tagessätzen erkannt werden.
 (3) Vorschriften sind nicht mehr anzuwenden, soweit sie Geldstrafe
 neben Freiheitsstrafe vorschreiben oder zulassen.
 
-
 ### Art 291 Rücknahme des Strafantrages, Buße zugunsten des Verletzten
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie
@@ -593,10 +542,6 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie
 2.  bestimmen, daß zugunsten des Verletzten einer Straftat auf eine Buße
     erkannt werden kann.
 
-
-
-
-
 ### Art 292 Nicht mehr anwendbare Straf- und Bußgeldtatbestände
 
 (1) Straf- und Bußgeldvorschriften des Landesrechts, die eine im
@@ -606,10 +551,7 @@ sind nicht mehr anzuwenden, soweit sie nicht nach Artikel 4 Abs. 3 bis
 
 (2) u. (3)
 
-
 ## Siebenter Abschnitt - Ergänzende strafrechtliche Regelungen
-
-
 
 ### Art 293 Abwendung der Vollstreckung der Ersatzfreiheitsstrafe und Erbringung von Arbeitsleistungen
 
@@ -638,14 +580,12 @@ Jugendgerichtsgesetzes und § 98 Abs. 1 Satz 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten oder aufgrund einer vom Gesetz vorgesehenen
 entsprechenden Anwendung der genannten Vorschriften.
 
-
 ### Art 294 Gerichtshilfe
 
 Die Gerichtshilfe (§ 160 Abs. 3 Satz 2 der Strafprozeßordnung) gehört
 zum Geschäftsbereich der Landesjustizverwaltungen. Die Landesregierung
 kann durch Rechtsverordnung eine andere Behörde aus dem Bereich der
 Sozialverwaltung bestimmen.
-
 
 ### Art 295 Aufsichtsstellen bei Führungsaufsicht
 
@@ -659,14 +599,12 @@ Der Leiter der Aufsichtsstelle muß die Befähigung zum Richteramt
 besitzen oder ein Beamter des höheren Dienstes sein. Die Leitung der
 Aufsichtsstelle kann auch einem Richter übertragen werden.
 
-
 ### Art 296 Einfuhr von Zeitungen und Zeitschriften
 
 § 86 Abs. 1 des Strafgesetzbuches ist nicht anzuwenden auf Zeitungen
 und Zeitschriften, die außerhalb des räumlichen Geltungsbereiches
 dieses Gesetzes in ständiger, regelmäßiger Folge erscheinen und dort
 allgemein und öffentlich vertrieben werden.
-
 
 ### Art 297 Verbot der Prostitution
 
@@ -697,10 +635,7 @@ auf eine oberste Landesbehörde oder andere Behörden übertragen.
 (3) Wohnungsbeschränkungen auf bestimmte Straßen oder Häuserblocks zum
 Zwecke der Ausübung der Prostitution (Kasernierungen) sind verboten.
 
-
 ## Achter Abschnitt - Schlußvorschriften
-
-
 
 ### Art 298 Mindestmaß der Freiheitsstrafe
 
@@ -711,7 +646,6 @@ worden sind.
 (2) Hätte das Gericht nach bisherigem Recht eine Freiheitsstrafe unter
 einem Monat verhängt, so erkennt es auf eine Geldstrafe bis zu dreißig
 Tagessätzen.
-
 
 ### Art 299 Geldstrafe
 
@@ -731,7 +665,6 @@ Strafgesetzbuches nur verhängt werden, wenn auch nach bisherigem Recht
 eine Geldstrafe neben Freiheitsstrafe vorgeschrieben oder zugelassen
 war.
 
-
 ### Art 300 Übertretungen
 
 (1) Auf die vor dem 1. Januar 1975 begangenen Taten, die nach
@@ -744,11 +677,9 @@ nach bisherigem Recht bestimmen. Artikel 298, 299 sind anzuwenden.
 Recht Übertretungen waren, bleiben bei der Anwendung des § 48 Abs. 1
 des Strafgesetzbuches außer Betracht.
 
-
 ### Art 301
 
 -
-
 
 ### Art 302 Anrechnung des Maßregelvollzugs auf die Strafe
 
@@ -757,7 +688,6 @@ Pflegeanstalt oder in einer Trinkerheilanstalt oder einer
 Entziehungsanstalt nach § 456b Satz 2 der Strafprozeßordnung in der
 bisherigen Fassung vor der Freiheitsstrafe vollzogen worden, so wird
 die Zeit des Vollzuges der Maßregel auf die Strafe angerechnet.
-
 
 ### Art 303 Führungsaufsicht
 
@@ -769,7 +699,6 @@ angeordnet werden.
 1\. Januar 1975 begangen worden ist, tritt Führungsaufsicht nach § 68f
 des Strafgesetzbuches nicht ein.
 
-
 ### Art 304 Polizeiaufsicht
 
 Ist vor dem 1. Januar 1975 auf Zulässigkeit von Polizeiaufsicht
@@ -777,7 +706,6 @@ erkannt worden, so verliert dieser Ausspruch seine Wirkung. Ist im
 Zentralregister bei einer Verurteilung die Zulässigkeit von
 Polizeiaufsicht eingetragen worden, so ist die Eintragung insoweit zu
 tilgen.
-
 
 ### Art 305 Berufsverbot
 
@@ -788,7 +716,6 @@ Voraussetzungen der Untersagung der Berufsausübung oder der
 Betriebsführung nach bisherigem Recht vorliegen. Das Berufsverbot darf
 in diesem Fall nicht für immer angeordnet werden.
 
-
 ### Art 306 Selbständige Anordnung von Maßregeln
 
 Die Vorschriften des neuen Rechts über die selbständige Anordnung von
@@ -796,7 +723,6 @@ Maßregeln der Besserung und Sicherung (§ 71 des Strafgesetzbuches)
 gelten auch für Taten, die vor dem 1. Januar 1975 begangen worden
 sind. Dies gilt nicht, wenn die Maßregel nach den Artikeln 301 und 305
 auch neben der Strafe nicht angeordnet werden darf.
-
 
 ### Art 307 Verfall
 
@@ -825,7 +751,6 @@ des Wertersatzes.
 (3) Absatz 1 Nr. 1 gilt nicht, soweit das bisherige Recht für den
 Betroffenen günstiger ist.
 
-
 ### Art 308 Strafantrag, Ermächtigung, Strafverlangen
 
 (1) Die Vorschriften des neuen Rechts über Strafantrag, Ermächtigung
@@ -846,7 +771,6 @@ bleibt es dabei.
 (5) Ist die Tat erst durch die Vorschriften des neuen Rechts nur auf
 Antrag verfolgbar, so endet die Antragsfrist frühestens am 31. März
 1975\.
-
 
 ### Art 309 Verfolgungs- und Vollstreckungsverjährung
 
@@ -876,13 +800,11 @@ Gesetz zur Reform des Strafrechts vom 25. Juni 1969 (Bundesgesetzbl. I
 S. 645), ist § 78 Abs. 4 des Strafgesetzbuches entsprechend
 anzuwenden.
 
-
 ### Art 310 Bekanntgabe der Verurteilung
 
 Die Vorschriften des neuen Rechts über die gerichtliche Anordnung, daß
 eine Verurteilung öffentlich bekanntgemacht wird, gelten auch für
 Taten, die vor dem 1. Januar 1975 begangen worden sind.
-
 
 ### Art 311 Verletzung von Privatgeheimnissen durch Amtsträger und besonders Verpflichtete
 
@@ -912,7 +834,6 @@ vorgenommen werden soll, vorgelegen hatten.
 (2) In den Fällen des Absatzes 1 Nr. 1 gelten die Vorschriften des
 neuen Rechts (§ 203 Abs. 2, 5, § 204 des Strafgesetzbuches), soweit
 sie im übrigen für den Täter günstiger sind.
-
 
 ### Art 312 Gerichtsverfassung und Strafverfahren
 
@@ -968,7 +889,6 @@ der Strafprozeßordnung nach den Absätzen 3 und 4 verfahren, wenn es
 die Revision im übrigen einstimmig für offensichtlich unbegründet
 erachtet.
 
-
 ### Art 313 Noch nicht vollstreckte Strafen
 
 (1) Rechtskräftig verhängte Strafen wegen solcher Taten, die nach
@@ -1017,7 +937,6 @@ Rechtsfolgen und für die richterlichen Entscheidungen nach den
 Absätzen 3 und 4 gelten die §§ 458 und 462 der Strafprozeßordnung
 sinngemäß.
 
-
 ### Art 314 Überleitung der Vollstreckung
 
 (1) Eine vor dem 1. Januar 1975 verhängte und noch nicht oder erst zum
@@ -1049,7 +968,6 @@ ist § 67 Abs. 1 bis 3 des Strafgesetzbuches mit der Maßgabe
 anzuwenden, daß die begonnene Vollstreckung der Freiheitsstrafe nach
 diesem Zeitpunkt noch drei Monate fortgesetzt werden kann.
 
-
 ### Art 315 Geltung des Strafrechts für in der Deutschen Demokratischen Republik begangene Taten
 
 (1) Auf vor dem Wirksamwerden des Beitritts in der Deutschen
@@ -1079,7 +997,6 @@ etwas anderes ergibt.
 (4) Die Absätze 1 bis 3 finden keine Anwendung, soweit für die Tat das
 Strafrecht der Bundesrepublik Deutschland schon vor dem Wirksamwerden
 des Beitritts gegolten hat.
-
 
 ### Art 315a Vollstreckungs- und Verfolgungsverjährung für in der Deutschen Demokratischen Republik verfolgte und abgeurteilte Taten; Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
 
@@ -1117,7 +1034,6 @@ freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Gründen nicht
 geahndet worden sind, bleibt die Zeit vom 11. Oktober 1949 bis 2.
 Oktober 1990 außer Ansatz. In dieser Zeit hat die Verjährung geruht.
 
-
 ### Art 315b Strafantrag bei in der Deutschen Demokratischen Republik begangenen Taten
 
 Die Vorschriften des Strafgesetzbuches über den Strafantrag gelten
@@ -1132,7 +1048,6 @@ bereits erloschen, so bleibt es dabei. Ist die Tat nach den
 Vorschriften der Bundesrepublik Deutschland nur auf Antrag verfolgbar,
 so endet die Antragsfrist frühestens am 31. Dezember 1990.
 
-
 ### Art 315c Anpassung der Strafdrohungen
 
 Soweit Straftatbestände der Deutschen Demokratischen Republik
@@ -1142,7 +1057,6 @@ der Geldstrafe. Die übrigen Strafdrohungen entfallen. Die Geldstrafe
 darf nach Art und Höhe der Tagessätze insgesamt das Höchstmaß der
 bisher angedrohten Geldstrafe nicht übersteigen. Es dürfen höchstens
 dreihundertsechzig Tagessätze verhängt werden.
-
 
 ### Art 316 Übergangsvorschrift zum Neunten Strafrechtsänderungsgesetz
 
@@ -1157,7 +1071,6 @@ Inkrafttreten des Neunten Strafrechtsänderungsgesetzes am 6. August
 Verjährungsfristen vom 13. April 1965 (BGBl. I S. 315) bleibt
 unberührt.
 
-
 ### Art 316a Übergangsvorschrift zum Sechzehnten Strafrechtsänderungsgesetz
 
 (1) § 78 Abs. 2 des Strafgesetzbuches in der Fassung des Artikels 1
@@ -1169,7 +1082,6 @@ Juli 1979 noch nicht verjährt war.
 (2) § 1 des Gesetzes über die Berechnung strafrechtlicher
 Verjährungsfristen vom 13. April 1965 (BGBl. I S. 315) bleibt
 unberührt.
-
 
 ### Art 316b Übergangsvorschrift zum Dreiundzwanzigsten Strafrechtsänderungsgesetz
 
@@ -1184,7 +1096,6 @@ verurteilt worden, so ist § 460 der Strafprozeßordnung sinngemäß
 anzuwenden, wenn nach neuem Recht auf eine lebenslange Freiheitsstrafe
 als Gesamtstrafe erkannt worden wäre.
 
-
 ### Art 316c Übergangsvorschrift zum Dreißigsten Strafrechtsänderungsgesetz
 
 § 78b Abs. 1 des Strafgesetzbuches in der Fassung des Artikels 1 des
@@ -1193,7 +1104,6 @@ Dreißigsten Strafrechtsänderungsgesetzes vom 23. Juni 1994 (BGBl. I S.
 Strafrechtsänderungsgesetzes am 30. Juni 1994 begangene Taten, es sei
 denn, dass deren Verfolgung zu diesem Zeitpunkt bereits verjährt ist.
 
-
 ### Art 316d Übergangsvorschrift zum Dreiundvierzigsten Strafrechtsänderungsgesetz
 
 § 46b des Strafgesetzbuches und § 31 des Betäubungsmittelgesetzes in
@@ -1201,7 +1111,6 @@ der Fassung des Artikels 2 des Dreiundvierzigsten
 Strafrechtsänderungsgesetzes vom 29. Juli 2009 (BGBl. I S. 2288) sind
 nicht auf Verfahren anzuwenden, in denen vor dem 1. September 2009 die
 Eröffnung des Hauptverfahrens beschlossen worden ist.
-
 
 ### Art 316e Übergangsvorschrift zum Gesetz zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen
 
@@ -1250,7 +1159,6 @@ Sicherungsverwahrung dem entgegenstand, ohne dass es dabei auf den
 Grad der Gefährlichkeit des Betroffenen für die Allgemeinheit
 angekommen wäre.
 
-
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 
 (1) Die bei Inkrafttreten des neuen Rechts schwebenden Verfahren wegen
@@ -1280,7 +1188,6 @@ angefochtene Urteil auf, so kann es abweichend von § 354 Abs. 2 der
 Strafprozeßordnung die Sache an das Gericht, dessen Urteil aufgehoben
 wird, zurückverweisen.
 
-
 ### Art 318 Zuwiderhandlungen nach den Gesetzen auf dem Gebiet der Sozialversicherung
 
 (1) Auf die vor dem 1. Januar 1975 begangenen Zuwiderhandlungen nach
@@ -1295,22 +1202,17 @@ bezeichneten Zuwiderhandlungen ein Ordnungsstrafbescheid erlassen
 worden, so ist in dem weiteren Verfahren das bisherige Recht
 anzuwenden.
 
-
 ### Art 319 Anwendung des bisherigen Kostenrechts
 
 In Straf- und Bußgeldsachen werden Gebühren nach dem bisherigen Recht
 erhoben, wenn die über die Kosten ergangene Entscheidung vor dem 1.
 Januar 1975 rechtskräftig geworden ist.
 
-
 ### Art 320
 
 (weggefallen)
 
-
 ### Art 321 (weggefallen)
-
-
 
 ### Art 322 Verweisungen
 
@@ -1318,11 +1220,9 @@ Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die
 durch dieses Gesetz geändert werden, treten an deren Stelle die
 geänderten Vorschriften.
 
-
 ### Art 323
 
 -
-
 
 ### Art 324 Sonderregelung für Berlin
 
@@ -1362,14 +1262,9 @@ Berlin die nachstehend bezeichneten Besonderheiten:
 
 2.  Nummer 3 ist nicht anzuwenden.
 
-
-
-
-
 ### Art 325
 
 (weggefallen)
-
 
 ### Art 326 Inkrafttreten, Übergangsfassungen
 
@@ -1390,7 +1285,6 @@ Verkündung in Kraft.
 Artikel 313 treten einen Monat nach der Verkündung in Kraft.
 
 (4) bis (6)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 957) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

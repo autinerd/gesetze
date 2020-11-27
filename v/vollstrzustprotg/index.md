@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 9 G v. 17.12.2006 I 3171
 
-
 ## Art 1
 
 Dem in Luxemburg am 3. Juni 1971 von der Bundesrepublik Deutschland
@@ -30,7 +29,6 @@ Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
 durch den Gerichtshof wird zugestimmt. Das Protokoll wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 In dem Beschluß, mit dem die Auslegungsfrage dem Gerichtshof zur
@@ -39,18 +37,15 @@ bezeichnen sowie die zu klärende Auslegungsfrage darzulegen. Ferner
 ist der Sach- und Streitstand, soweit dies zur Beurteilung der
 Auslegungsfrage erforderlich ist, in gedrängter Form darzustellen.
 
-
 ## Art 3
 
 Die Aufgaben der zuständigen Stelle im Sinne des Artikels 4 des
 Protokolls nimmt das Bundesamt für Justiz wahr.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

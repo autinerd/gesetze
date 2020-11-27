@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3704
 
-
 ## Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
-
 
 ## I.
 
@@ -30,13 +28,11 @@ S. 4206), Ziff. V, aus dem Geschäftsbereich des Bundesministeriums für
 Verkehr, Bau und Stadtentwicklung die Zuständigkeit des Beauftragten
 der Bundesregierung für die neuen Bundesländer übertragen.
 
-
 ## II.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
 Bundeskanzleramtes mitgeteilt.
-
 
 ## Schlussformel
 

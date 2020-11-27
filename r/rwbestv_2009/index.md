@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1335
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -64,14 +63,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2009 27,20 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2009 24,13
 Euro.
-
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
@@ -81,13 +78,11 @@ beträgt ab dem 1. Juli 2009 12,56 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt ab dem 1. Juli 2009 11,14 Euro.
 
-
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2010
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2010 0,9825.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt zum 30. Juni 2010 0,9870.
-
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
 
@@ -102,7 +97,6 @@ Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle,
 die vor dem 1. Juli 2009 eingetreten sind, werden zum 1. Juli 2009
 angepasst. Der Anpassungsfaktor beträgt 1,0338.
 
-
 ## § 5 Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
@@ -116,14 +110,9 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2.  für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches
     Sozialgesetzbuch anzuwenden ist, zwischen 269 Euro und 1 075 Euro.
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2009 in Kraft.
-
 
 ## Schlussformel
 

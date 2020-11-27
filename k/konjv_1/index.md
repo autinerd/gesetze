@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 190
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 51 Abs. 1 Ziff. 2 Buchstabe s des
@@ -25,7 +23,6 @@ Dezember 1965 (Bundesgesetzbl. I S. 1901), zuletzt geändert durch das
 Steueränderungsgesetz 1966 vom 23. Dezember 1966 (Bundesgesetzbl. I S.
 702), verordnet die Bundesregierung mit Zustimmung des Bundesrates und
 des Bundestages:
-
 
 ## § 1 Bewertungsfreiheit für abnutzbare Wirtschaftsgüter des Anlagevermögens
 
@@ -60,14 +57,12 @@ geliefert oder fertiggestellt werden.
 (3) Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der
 Herstellung ist das Jahr der Fertigstellung.
 
-
 ## § 2 Anwendung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 25
 des Steueränderungsgesetzes 1961 vom 13. Juli 1961 (Bundesgesetzbl. I
 S. 981) auch im Land Berlin.
-
 
 ## § 3 Inkrafttreten
 

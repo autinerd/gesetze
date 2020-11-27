@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 28.7.2009 eBAnz AT77 V1
 
-
 ## § 1 Durchsetzung bestimmter Herstellungs-, Einfuhr- und Abgabebedingungen
 
 Nach § 48 Absatz 1 Nummer 3, Absatz 2, 3 des Weingesetzes wird
@@ -35,10 +34,6 @@ bestraft, wer vorsätzlich oder fahrlässig
 2.  entgegen Artikel 57 Absatz 1 Satz 1 der Verordnung (EG) Nr. 555/2008
     Weintrauben oder ein daraus hergestelltes Erzeugnis einer anderen als
     dort genannten Bestimmung zuführt.
-
-
-
-
 
 ## § 2 Durchsetzung bestimmter Herstellungs- und Verkehrsbedingungen
 
@@ -125,14 +120,9 @@ bestraft, wer vorsätzlich oder fahrlässig
     (EG) Nr. 606/2009 den natürlichen Alkoholgehalt durch die Verwendung
     eines anderen als der dort genannten Erzeugnisse erhöht.
 
-
-
-
-
 ## § 3 (weggefallen)
 
 -
-
 
 ## § 4 Durchsetzung bestimmter Anreicherungs- und Süßungsvorschriften sowie bestimmter Vorschriften über das Verarbeiten und die Produktion
 
@@ -159,7 +149,6 @@ bestraft, wer vorsätzlich oder fahrlässig
 (2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
 handelt nach § 50 Absatz 1 des Weingesetzes ordnungswidrig.
 
-
 ## § 5 Durchsetzung bestimmter Anzeige- und Meldepflichten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Nummer 12 des Weingesetzes
@@ -183,10 +172,6 @@ handelt, wer vorsätzlich oder fahrlässig
     nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
     oder nicht rechtzeitig sendet.
 
-
-
-
-
 ## § 6 Durchsetzung bestimmter Pflanzungsbestimmungen
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Nummer 12 des Weingesetzes
@@ -200,10 +185,6 @@ handelt, wer vorsätzlich oder fahrlässig
 2.  entgegen Artikel 85g Absatz 2 der Verordnung (EG) Nr. 1234/2007 einen
     Rebstock mit anderen als dort genannten Keltertraubensorten auf zu
     klassifizierende Keltertraubensorten umveredelt.
-
-
-
-
 
 ## § 7 Durchsetzung von Buchführungsbestimmungen
 
@@ -239,10 +220,6 @@ handelt, wer vorsätzlich oder fahrlässig
     Traubenmost oder rektifiziertem Traubenmostkonzentrat nicht oder nicht
     richtig Buch führt.
 
-
-
-
-
 ## § 8 Durchsetzung bestimmter Begleitpapiervorschriften
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Nummer 12 des Weingesetzes
@@ -258,10 +235,6 @@ handelt, wer vorsätzlich oder fahrlässig
     Unterabsatz 1, auch in Verbindung mit Unterabsatz 2, der Verordnung
     (EG) Nr. 436/2009 über das Verwenden oder Vorlegen eines
     Begleitpapiers oder das Versenden einer Kopie zuwiderhandelt.
-
-
-
-
 
 ## § 9 Durchsetzung bestimmter Bezeichnungs-, Aufmachungs- und Herstellungsvorschriften
 
@@ -305,10 +278,6 @@ handelt, wer vorsätzlich oder fahrlässig
     Qualitätsschaumwein oder aromatischen Qualitätsschaumwein in einer
     dort genannten Flasche vermarktet oder ausführt.
 
-
-
-
-
 ## § 10 Verweisungen auf Vorschriften des Gemeinschaftsrechts
 
 (1) Verweisungen in dieser Verordnung auf Vorschriften der
@@ -328,7 +297,6 @@ entstanden sind.
 (3) Auf Taten, die vor dem 1. August 2009 beendet wurden, ist diese
 Verordnung in der bis zum 31. Juli 2009 geltenden Fassung weiter
 anzuwenden.
-
 
 ## Anlage (zu § 10 Absatz 1) Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft
 

@@ -26,7 +26,6 @@ Zuletzt geändert durch
     98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998
     (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 2, der §§ 3 und 4 Abs. 1 und des § 5 Abs. 1 des
@@ -37,7 +36,6 @@ September 1994 (BGBl. I S. 2705), § 3 durch Artikel 1 des Gesetzes vom
 des Gesetzes vom 20. Juli 2000 (BGBl. I S. 1045) zuletzt geändert
 worden sind, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -227,10 +225,6 @@ Im Sinne dieser Verordnung sind:
 26. gewerbsmäßig: Tätigkeit im Rahmen eines Gewerbes oder zu sonstigen
     Erwerbszwecken.
 
-
-
-
-
 ## § 2 Geltungsbereich
 
 Diese Verordnung gilt für das Inverkehrbringen von Düngemitteln, die
@@ -245,7 +239,6 @@ alleinigem Gesellschafter beherrscht werden, und beim Abgeben dieser
 Stoffe zwischen einem Landwirt und einer juristischen Person, die von
 diesem Landwirt als alleinigem Anteilseigner oder alleinigem
 Gesellschafter beherrscht wird.
-
 
 ## § 3 Zulassung von Düngemitteltypen
 
@@ -344,10 +337,6 @@ Maßgabe zugelassen, dass
     Rahmen der Hinweise zur sachgerechten Anwendung auf deren
     ausschließliche Verwendbarkeit auf forstlichen Standorten hingewiesen
     wird.
-
-
-
-
 
 ## § 4 Inverkehrbringen von Wirtschaftsdüngern, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 
@@ -531,13 +520,6 @@ Pflanzenhilfsmittel nach Satz 1 gilt nicht
         nach Nr. 3a im Rahmen der Hinweise zur sachgerechten Anwendung der
         vorgesehene Anwendungszeitraum benannt wird.
 
-
-
-
-
-
-
-
 ## § 5 Anforderungen an die Seuchen- und Phytohygiene
 
 (1) Die Erfüllung der Anforderungen nach § 3 Abs. 1 Nr. 1 und nach § 4
@@ -634,7 +616,6 @@ Bestimmungen der Verordnung (EG) Nr. 1774/2002 des Europäischen
 Parlaments und des Rates vom 3. Oktober 2002 mit Hygienevorschriften
 für nicht für den menschlichen Verzehr bestimmte tierische
 Nebenprodukte (ABl. EG Nr. L 273 S. 1) erfahren haben.
-
 
 ## § 6 Anforderungen an die Kennzeichnung
 
@@ -959,7 +940,6 @@ insgesamt 200 Tonnen Frischmasse im Kalenderjahr nicht überschritten
 wird. Die für den Vollzug der Düngemittelverordnung zuständige Behörde
 kann Ausnahmen zulassen.
 
-
 ## § 6a Kennzeichnung bei EG-Düngemitteln
 
 Wer ein Düngemittel mit der Bezeichnung „EG-Düngemittel“ in den
@@ -968,7 +948,6 @@ den Anforderungen des Artikels 7 in Verbindung mit Artikel 10 und 11
 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des
 Rates vom 13. Oktober 2003 über Düngemittel (ABL. L 304 vom
 21\.11.2003, S. 1) gekennzeichnet ist.
-
 
 ## § 7 Toleranzen
 
@@ -1044,7 +1023,6 @@ Anlage 2 Tabelle 8.3 Nr. 8.3.2 bis 8.3.10 dürfen die tatsächlichen
 Gehalte die gekennzeichneten Gehalte in unbestimmter Höhe
 unterschreiten.
 
-
 ## § 8 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe d des
@@ -1072,7 +1050,6 @@ Artikel 8 der Verordnung (EG) Nr. 2003/2003 des Europäischen
 Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABL. L
 304 vom 21.11.2003, S. 1) eine Aufzeichnung nicht oder nicht für die
 vorgeschriebene Dauer aufbewahrt.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -1132,16 +1109,13 @@ Pflanzenhilfsmittel, zu deren Herstellung
 verwendet werden, dürfen noch bis zum 31. Dezember 2014 gewerbsmäßig
 in den Verkehr gebracht werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Nr. 11, § 3 Abs. 1, § 6 Abs. 3, § 7 Abs. 2, 3) Definition von Düngemitteltypen
 
@@ -1277,9 +1251,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
         zerfallen, soweit eine Umhüllung nach Nr. 2.3 diesem nicht
         entgegensteht. Der Zerfall wird mit einer geeigneten Analysemethode
         festgestellt.
-
-
-
 
 ## Abschnitt 1
 
@@ -2079,11 +2050,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
             ungefähr die Hälfte des angegebenen
             Gesamtstickstoffs als Carbamidstickstoff.
 
-
-
-
-
-
 ##
 
 1\.2 Vorgaben für Phosphatdünger
@@ -2462,8 +2428,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
         Das Herstellungsverfahren nach Anlage 2
         Tabelle 6.2 Spalte 2 ist anzugeben.
 
-
-
 ##
 
 1\.3 Vorgaben für Kaliumdünger
@@ -2611,8 +2575,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
         nach Anlage 2 Tabelle 6.3 Spalte 1 zu ersetzen.
         Das Herstellungsverfahren nach Anlage 2
         Tabelle 6.3 Spalte 2 ist anzugeben.
-
-
 
 ##
 
@@ -2983,8 +2945,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
         von den Vorgaben zur Herstellung nach Spalte 5 auch mit Kalken nach
         Tabelle 6 Nr. 6.4.2, 6.4.4 und 6.4.6 gemischt sein.
 
-
-
 ##
 
 1\.5 Vorgaben für Sekundärnährstoffdünger
@@ -3283,8 +3243,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
     *   Im Rahmen der Hinweise zur sachgerechten Anwendung Ergänzung der
         Kennzeichnung um die Worte „Bei der Bemessung der Düngung auf den
         Schwefelbedarf achten“.
-
-
 
 ## Abschnitt 2
 
@@ -3624,11 +3582,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
         –   Kennzeichnung gemäß Anlage 2
             Tabelle 10.1.8.
 
-
-
-
-
-
 ## Abschnitt 3
 
 ## Vorgaben für organische und organisch-mineralische Düngemittel
@@ -3762,11 +3715,6 @@ Düngemitteltypen nach Anlage 1 Abschnitte 1 bis 5.
 
         –   3 % K
             2                           O.
-
-
-
-
-
 
 ## Abschnitt 4
 
@@ -4019,8 +3967,6 @@ Spurennährstoffe enthalten
         Spurennährstoffe enthalten.
         Die Art des Ausgangsmaterials muss angegeben sein.
 
-
-
 ## Abschnitt 5
 
 ## Vorgaben für Düngemittel zur Düngung von Rasen und Zierpflanzen
@@ -4121,9 +4067,6 @@ werden.
         Nur zur Düngung von Zierpflanzen“
         gekennzeichnet sein.
 
-
-
-
 ## Anlage 2 (zu § 1 Nr. 11, § 3 Abs. 1, 2, § 4 Abs. 1, 2, § 6 Abs. 1, 2, 5, 6, 7, § 7 Abs. 2, 4, § 9 Abs. 2) Tabellen
 
 (Fundstelle: BGBl. I 2008, 2555 - 2581)
@@ -4144,9 +4087,6 @@ werden.
     Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte
     tierische Nebenprodukte in der jeweils geltenden Fassung
     („Hygieneverordnung“).
-
-
-
 
 ## Tabelle 1
 
@@ -4724,8 +4664,6 @@ werden.
 
     *   Summe aus Perfluoroctansäure (PFOA) und Perfluoroctansulfonat (PFOS).
 
-
-
 ## Tabelle 2
 
 ## Nitrifikations- und Ureasehemmstoffe
@@ -4875,8 +4813,6 @@ werden.
 
     *   Acetylendiharnstoffstickstoff
 
-
-
 ## Tabelle 4
 
 ## Zulässige Phosphatformen und Phosphatlöslichkeiten
@@ -4964,8 +4900,6 @@ Phosphatlöslichkeiten.
 *    *   4.2.11
 
     *   Gesamtphosphat (Methode: mineralsäurelösliches Phosphat)
-
-
 
 ## Tabelle 5
 
@@ -5153,8 +5087,6 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *
     *   andere Phosphatarten
-
-
 
 ## Tabelle 6
 
@@ -5641,8 +5573,6 @@ in den Vorgaben für einzelne Düngemitteltypen der Anlage 1.
     *   Ergänzung der Kennzeichnung:
         „Keine Anwendung auf Grünland oder
         auf mit Gemüse oder Feldfutter bestellten Flächen“.
-
-
 
 ## Tabelle 7
 
@@ -6595,8 +6525,6 @@ in den Vorgaben für einzelne Düngemitteltypen der Anlage 1.
         *Hinweis:*
         Entsorgung nach Abfallrecht.
 
-
-
 ## Tabelle 8
 
 ## Nebenbestandteile
@@ -7107,8 +7035,6 @@ in den Vorgaben für einzelne Düngemitteltypen der Anlage 1.
         der Herstellung von Stoffen nach § 1 des Düngemittelgesetzes.
         Für Schadstoffe siehe auch Maßgaben nach Tabelle 1.4.
 
-
-
 ## Tabelle 9
 
 ## Komplexbildner
@@ -7277,8 +7203,6 @@ in den Vorgaben für einzelne Düngemitteltypen der Anlage 1.
         6                     H
         8                     O
         7
-
-
 
 ## Tabelle 10
 

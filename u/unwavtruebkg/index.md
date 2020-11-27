@@ -25,8 +25,6 @@ Stand: Art. 2, 3 und 5 treten zukünftig in Kraft gem. Art. 7 Abs. 1 Satz 2 dies
 
 ## Erster Teil - Zustimmung zu dem Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf sowie Vorschriften zur Ausführung des Übereinkommens
 
-
-
 ### Art 1
 
 Dem in New York am 26. Mai 1981 von der Bundesrepublik Deutschland
@@ -35,14 +33,12 @@ unterzeichneten Übereinkommen der Vereinten Nationen vom 11. April
 Das Übereinkommen wird nachstehend mit einer amtlichen deutschen
 Übersetzung veröffentlicht.
 
-
 ### Art 2
 
 Führen die Regeln des internationalen Privatrechts zur Anwendung des
 Rechts eines Staates, der eine Erklärung nach Artikel 95 des
 Übereinkommens von 1980 abgegeben hat, so bleibt Artikel 1 Abs. 1
 Buchstabe b des Übereinkommens außer Betracht.
-
 
 ### Art 3
 
@@ -53,19 +49,13 @@ Vertragswidrigkeit auf Tatsachen beruht, die der Verkäufer kannte oder
 über die er nicht in Unkenntnis sein konnte und die er dem Käufer
 nicht offenbart hat.
 
-
 ## Zweiter Teil - Änderung des Gesetzes zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
-
-
 
 ### Art 4
 
 -
 
-
 ## Dritter Teil - Schlußbestimmungen
-
-
 
 ### Art 5
 
@@ -85,12 +75,10 @@ das Angebot zum Abschluß des Vertrages vor dem Tage gemacht wird, an
 dem das Übereinkommen von 1980 für die Bundesrepublik Deutschland in
 Kraft tritt.
 
-
 ### Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ### Art 7
 

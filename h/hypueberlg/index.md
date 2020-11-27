@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1906, 429
 
-
-
 ## (XXXX)
 
 Durch Landesgesetz kann bestimmt werden, daß ein zu der Zeit, zu

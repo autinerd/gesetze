@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1806
 
-
-
 ## § 1 Anpassung der Unterhaltshilfe
 
 Vom 1. Juli 1997 ab werden erhöht:
@@ -171,10 +169,6 @@ Vom 1. Juli 1997 ab werden erhöht:
 
     von 975 auf 991 vom Hundert.
 
-
-
-
-
 ## § 2 Anpassung von Beträgen in § 276 Abs. 4 des Gesetzes
 
 Vom 1. Juli 1997 ab werden erhöht:
@@ -204,10 +198,6 @@ Vom 1. Juli 1997 ab werden erhöht:
 2.  der Schonbetrag in § 276 Abs. 4 Satz 5 des Gesetzes
 
     von 322 auf 327 Deutsche Mark.
-
-
-
-
 
 ## § 3 Anpassung des Einkommenshöchstbetrages der Entschädigungsrente
 
@@ -259,13 +249,6 @@ Vom 1. Juli 1997 ab werden erhöht:
     d)  für Vollwaisen
 
         von 624 auf 631 Deutsche Mark.
-
-
-
-
-
-
-
 
 ## § 4 Anpassung von Beträgen in § 292 des Gesetzes
 

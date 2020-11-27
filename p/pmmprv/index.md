@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1418
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5
@@ -27,7 +25,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -85,7 +82,6 @@ Verbindungstechnik" folgende Prozesse durchführen zu können:
 Geprüfter Prozessmanager-Mikrotechnologie/Geprüfte Prozessmanagerin-
 Mikrotechnologie (Certified Process Manager-Microtechnology).
 
-
 ## § 2 Gliederung der Prüfung
 
 Die Prüfung gliedert sich in die Prüfungsteile:
@@ -104,7 +100,6 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft
 werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei Jahre
 nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -139,7 +134,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 4 Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse"
 
@@ -206,7 +200,6 @@ zusammen mindestens 60 Minuten, höchstens 90 Minuten dauern.
 
 (4) Auf Grund der Dokumentation, der Präsentation und des
 Fachgesprächs sind die Befähigungen nach Absatz 1 zu bewerten.
-
 
 ## § 5 Prüfungsteil "Mikrotechnologie-Fachaufgaben"
 
@@ -330,7 +323,6 @@ schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 6 Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 
@@ -532,7 +524,6 @@ als 30 Minuten dauern. Der Prüfungsteilnehmer oder die
 Prüfungsteilnehmerin erhält Gelegenheit, sich mindestens 20 Minuten,
 höchstens 30 Minuten vorzubereiten.
 
-
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
 (1) Der Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse", die
@@ -555,7 +546,6 @@ und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
 Freistellung nach § 9 sind Ort und Datum der anderweitig abgelegten
 Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
 
-
 ## § 8 Ausbildereignung
 
 (1) Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom
@@ -570,7 +560,6 @@ ausgewählt hat, hat die berufs- und arbeitspädagogische Qualifikation
 nach dem Berufsbildungsgesetz nachgewiesen. Hierüber ist ein Zeugnis
 auszustellen.
 
-
 ## § 9 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -581,7 +570,6 @@ anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
 Anforderungen dieser Prüfungsleistung entspricht. Eine vollständige
 Freistellung ist nicht zulässig.
-
 
 ## § 10 Wiederholung der Prüfung
 
@@ -598,11 +586,9 @@ Wiederholungsprüfung angemeldet hat. Dabei können auch bestandene
 Prüfungsleistungen auf Antrag einmal wiederholt werden. In diesem Fall
 gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage 1 (zu § 3 Abs. 2) Spezialistenprofile in der Mikrotechnologie
 
@@ -816,10 +802,6 @@ Fachgespräch zu führen.
     Tiefe und das Verfahren der Spezialistenqualifizierung abbildet,
     nachzuweisen.
 
-
-
-
-
 ## Anlage 2 (zu § 7 Abs. 4)
 
 (Fundstelle: BGBl I 2007, 1425)
@@ -851,7 +833,6 @@ bestanden.
 Datum ..............................................
 Unterschrift(en) ...................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 3 (zu § 7 Abs. 4)
 

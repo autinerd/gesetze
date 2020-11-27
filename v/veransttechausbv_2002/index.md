@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2699
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,17 +24,14 @@ zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft für Veranstaltungstechnik wird
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -94,10 +89,6 @@ Fertigkeiten und Kenntnisse:
 
 16. Durchführen von Veranstaltungen und Projekten.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen unter
@@ -117,12 +108,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 und 8
 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -130,7 +119,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -164,10 +152,6 @@ Aufgabe bearbeiten. Hierfür kommen insbesondere in Betracht:
 
 4.  Planen, Aufbauen und Montieren eines Tragwerkes, einschließlich Planen
     der Arbeitsschritte, der benötigten Geräte und Materialien.
-
-
-
-
 
 ## § 8 Abschlussprüfung
 
@@ -356,7 +340,6 @@ Dokumentation oder in der Projektpräsentation einschließlich
 Fachgespräch mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -364,12 +347,10 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft. ...; § 9 bleibt
 unberührt.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
 

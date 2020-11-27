@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 293 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -34,7 +32,6 @@ die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
 einschließlich der Anlagen in ihrer am 29. Juli 1968 geänderten
 Fassung wird zugestimmt. Das Übereinkommen wird nachstehend, die
 Anlagen A und B werden in einem Anlagenband veröffentlicht.
-
 
 ## Art 2
 
@@ -64,7 +61,6 @@ mit Zustimmung des Bundesrates die zur Ausführung des Übereinkommens,
 dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen
 erforderlichen allgemeinen Verwaltungsvorschriften.
 
-
 ## Art 3
 
 (1) Ein Fahrzeug, das den Vorschriften des Übereinkommens nicht
@@ -75,7 +71,6 @@ sichergestellt werden. Entsprechendes gilt für die Ladung.
 (2) In den Fällen des Absatzes 1 können die Grenzzollstellen und
 andere für die Kontrolle an der Grenze zuständige Stellen die
 Fahrzeuge zurückweisen.
-
 
 ## Art 4
 
@@ -114,7 +109,6 @@ Fahrzeuge zurückweisen.
 (2) Im übrigen bestimmen sich die sachliche und die örtliche
 Zuständigkeit nach Landesrecht.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -122,7 +116,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 6
 

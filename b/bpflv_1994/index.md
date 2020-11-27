@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. Art. 2 G v. 21.7.2012 I 1613
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -45,7 +42,6 @@ Vergütungssystem einbezogen sind.
 
 (3) Die vor- und nachstationäre Behandlung wird für alle Benutzer
 einheitlich nach § 115a des Fünften Buches Sozialgesetzbuch vergütet.
-
 
 ### § 2 Krankenhausleistungen
 
@@ -84,10 +80,7 @@ Unter diesen Voraussetzungen gehören dazu auch
 
 Nicht zu den Krankenhausleistungen gehört eine Dialyse.
 
-
 ## Zweiter Abschnitt - Grundlagen der Entgeltbemessung
-
-
 
 ### § 3 Allgemeine Grundlagen
 
@@ -128,7 +121,6 @@ Patienten, die mit dem Ziel einer Krankenhausbehandlung in die
 Bundesrepublik Deutschland einreisen, nicht durch das Budget vergütet.
 § 14 Abs. 1 Satz 1 bleibt unberührt.
 
-
 ### § 4 Versorgungsauftrag
 
 Der nach § 17 Abs. 1 Satz 3 des Krankenhausfinanzierungsgesetzes bei
@@ -153,10 +145,6 @@ des Krankenhauses ergibt sich
 
 
 4.  (weggefallen)
-
-
-
-
 
 ### § 5 Krankenhausvergleich
 
@@ -200,7 +188,6 @@ Krankenhausvergleichs sind diejenigen Orientierungsdaten angemessen zu
 berücksichtigen, die sich aus den Vergleichen der Krankenhäuser
 ergeben, die jeweils von den Verbänden oder Arbeitsgemeinschaften der
 Krankenkassen und Krankenhäuser erstellt werden.
-
 
 ### § 6 Grundsatz der Beitragssatzstabilität
 
@@ -359,7 +346,6 @@ Im Falle der Nichteinigung entscheidet die Schiedsstelle nach § 19.
 Die Zahl der nach Satz 1 fehlenden Personalstellen bemisst sich nach
 der tatsächlichen Personalbesetzung zum Stichtag.
 
-
 ### § 7 Pflegesatzfähige Kosten bei geförderten Krankenhäusern
 
 (1) Mit dem Budget und den Pflegesätzen nach § 10 werden die
@@ -496,7 +482,6 @@ Kalkulationsaufstellung auszugliedern (Nettoprinzip); anstelle der
 Kostenausgliederung können die Vertragsparteien einen einmaligen
 Erlösabzug vereinbaren.
 
-
 ### § 8 Investitionskosten bei nicht oder teilweise geförderten Krankenhäusern
 
 (1) Bei Krankenhäusern oder Teilen von Krankenhäusern, deren
@@ -557,7 +542,6 @@ Pflegesätze ist nur im Rahmen des § 17 Abs. 5 des
 Krankenhausfinanzierungsgesetzes möglich. Dabei bleiben Ausgleiche und
 Berichtigungen für vorhergehende Pflegesatzzeiträume außer Ansatz.
 
-
 ### § 9 Vereinbarung auf Bundesebene
 
 (1) Der Spitzenverband Bund der Krankenkassen und der Verband der
@@ -615,10 +599,7 @@ des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1
 Nummer 5 hat die Schiedsstelle bis zum 15. November des jeweiligen
 Jahres zu treffen.
 
-
 ## Dritter Abschnitt - Entgeltarten und Abrechnung
-
-
 
 ### § 10 Vergütung der allgemeinen Krankenhausleistungen
 
@@ -644,11 +625,9 @@ werden, sind die Entgelte für allgemeine Krankenhausleistungen nach
 den Absätzen 1 und 2 zu berechnen; dies gilt auch für klinische
 Studien mit Arzneimitteln.
 
-
 ### § 11
 
 (aufgehoben)
-
 
 ### § 12 Flexibles Budget
 
@@ -704,7 +683,6 @@ Teilbetrag, der ihrem entsprechenden Anteil an der Summe der Entgelte
 im Vorjahr entspricht. Die Vertragsparteien nach § 11 können eine
 abweichende Vereinbarung schließen.
 
-
 ### § 13 Tagesgleiche Pflegesätze
 
 (1) Die Vertragsparteien vereinbaren auf der Grundlage des Budgets und
@@ -731,7 +709,6 @@ teilstationär erbracht werden, sind entsprechende Pflegesätze zu
 vereinbaren. Sie sollen vereinfacht aus den vollstationären
 Pflegesätzen abgeleitet werden. Eine Kalkulationsaufstellung nach
 Abschnitt K 6 oder K 7 der Anlage 1 ist nicht vorzulegen.
-
 
 ### § 14 Berechnung der Pflegesätze
 
@@ -784,10 +761,7 @@ voraussichtliche Pflegesatzsteigerung ist anzugeben.
 nicht ein, sind von den Pflegesätzen nach § 10 Abschläge nach § 137
 Abs. 1 Satz 3 Nr. 5 des Fünften Buches Sozialgesetzbuch vorzunehmen.
 
-
 ## Vierter Abschnitt - Pflegesatzverfahren
-
-
 
 ### § 15 Vereinbarung auf Bundesebene
 
@@ -817,11 +791,9 @@ Vereinbarung nicht zustande, entscheidet auf Antrag einer der
 Vertragsparteien die Schiedsstelle nach § 18a Abs. 6 des
 Krankenhausfinanzierungsgesetzes.
 
-
 ### § 16
 
 (aufgehoben)
-
 
 ### § 17 Pflegesatzvereinbarung der Vertragsparteien
 
@@ -908,7 +880,6 @@ Einzelangaben über persönliche oder sachliche Verhältnisse einer
 bestimmten oder bestimmbaren natürlichen Person dürfen von den
 Empfängern nicht zu anderen Zwecken verarbeitet oder genutzt werden.
 
-
 ### § 18 Vorläufige Pflegesatzvereinbarung
 
 (1) Können sich die Vertragsparteien über die Höhe des Budgets nicht
@@ -924,7 +895,6 @@ tagesgleichen Pflegesätze werden durch Zu- oder Abschläge auf die
 Pflegesätze des laufenden oder eines folgenden Pflegesatzzeitraumes
 ausgeglichen.
 
-
 ### § 19 Schiedsstelle
 
 (1) Kommt eine Pflegesatzvereinbarung ganz oder teilweise nicht
@@ -939,7 +909,6 @@ Gegenstände, über die keine Einigung erreicht werden konnte.
 (3) Die Schiedsstelle entscheidet nicht über die Anwendung folgender
 Vorschriften: § 3 Abs. 2 Satz 4, § 8 Abs. 2, § 12 Abs. 2 Satz 2 und 3,
 Abs. 3 Satz 3, § 17 Abs. 2 Satz 2, Abs. 6 Satz 3 und Abs. 7 und § 24.
-
 
 ### § 20 Genehmigung
 
@@ -960,7 +929,6 @@ uneingeschränkten Genehmigung entgegenstehen.
 (3) Wird die Genehmigung eines Schiedsspruches versagt, ist die
 Schiedsstelle auf Antrag verpflichtet, unter Beachtung der
 Rechtsauffassung der Genehmigungsbehörde erneut zu entscheiden.
-
 
 ### § 21 Laufzeit
 
@@ -996,10 +964,7 @@ notwendigen Umfang abgerechnet werden, gilt § 12 Abs. 4 entsprechend.
 
 (3) u. (4) (weggefallen)
 
-
 ## Fünfter Abschnitt - Sonstige Vorschriften
-
-
 
 ### § 22 Gesondert berechenbare ärztliche und andere Leistungen
 
@@ -1010,7 +975,6 @@ Wahlleistungen richtet sich ab dem 1. Januar 2005 nach den §§ 17 und
 
 (2) Bis zum 31. Dezember 2004 sind die §§ 22 bis 24 in der am 31.
 Dezember 2003 geltenden Fassung weiter anzuwenden.
-
 
 ### § 23 Landespflegesatzausschüsse
 
@@ -1045,7 +1009,6 @@ bestimmen, daß
 Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung
 auf oberste Landesbehörden übertragen.
 
-
 ### § 24 Modellvorhaben
 
 Die Vertragsparteien können im Einvernehmen mit den Vertragsparteien
@@ -1060,7 +1023,6 @@ Vorhabens, spätestens nach drei Jahren, den Vertragsparteien nach §
 Genehmigung zuständigen Landesbehörde und dem Bundesministerium für
 Gesundheit mitzuteilen.
 
-
 ### § 25 Zuständigkeit der Krankenkassen auf Landesebene
 
 Die in dieser Verordnung den Landesverbänden der Krankenkassen
@@ -1070,7 +1032,6 @@ die knappschaftliche Krankenversicherung die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und für die
 Krankenversicherung der Landwirte die örtlich zuständigen
 landwirtschaftlichen Krankenkassen wahr.
-
 
 ### § 26 Übergangsvorschriften
 
@@ -1082,13 +1043,11 @@ Budgets für das Jahr 2006 ist die Berichtigung einer Fehlschätzung
 nach § 17a Abs. 4 Satz 4 des Krankenhausfinanzierungsgesetzes zu
 berücksichtigen.
 
-
 ### Anlage 1 (zu § 17 Abs. 4) Leistungs- und Kalkulationsaufstellung
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67, S. 27 - 43;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anhang 1 (zu Anlage 1) zur Leistungs- und Kalkulationsaufstellung
 
@@ -1130,16 +1089,11 @@ Fundstelle des Originaltextes: BGBl. I 2002, 1421
     mit entsprechender Fachgebietsbezeichnung geleitet werden und die für
     dieses Fachgebiet überwiegend genutzt werden.
 
-
-
-
-
 ### Anhang 2 (zu Anlage 1) zur Leistungs- und Kalkulationsaufstellung
 
 (Inhalt: nicht erfaßte Tabelle,
 Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67, S. 45 - 46;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anhang 3 zur Leistungs- und Kalkulationsaufstellung Gesonderter Ausweis für ausländische Patienten nach § 3 Abs. 4
 
@@ -1173,10 +1127,6 @@ ausländische Patienten nach § 3 Abs. 4 sind in gesonderten Abschnitten
 *    *   - lfd. Nr. 19
 
     *   Fälle mit Fallpauschalen.
-
-
-
-
 
 ### Anlage 2 (zu § 17 Abs. 4) Ergänzende Kalkulationsaufstellung für nicht oder teilweise geförderte Krankenhäuser
 

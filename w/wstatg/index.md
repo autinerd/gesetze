@@ -20,10 +20,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 17.1.2002 I 412
 
-
 ## 1. Abschnitt - Allgemeine Wahlstatistik
-
-
 
 ### § 1 Durchführung der allgemeinen Wahlstatistik
 
@@ -32,10 +29,7 @@ Abgeordneten des Europäischen Parlaments aus der Bundesrepublik
 Deutschland ist unter Wahrung des Wahlgeheimnisses statistisch
 auszuwerten; die Auswertung ist zu veröffentlichen.
 
-
 ## 2. Abschnitt - Repräsentative Wahlstatistik
-
-
 
 ### § 2 Art der Statistik
 
@@ -62,7 +56,6 @@ Wahlbezirken, die auf der Grundlage von § 2 Abs. 3 des
 Bundeswahlgesetzes oder von § 3 Abs. 2 des Europawahlgesetzes gebildet
 worden sind.
 
-
 ### § 3 Stichprobenauswahl
 
 Die Auswahl der Stichprobenwahlbezirke und der
@@ -81,7 +74,6 @@ ihre Stimme durch Briefwahl abgegeben haben. Die Wahlberechtigten sind
 in geeigneter Weise darauf hinzuweisen, dass der Wahlbezirk oder der
 Briefwahlbezirk in eine repräsentative Wahlstatistik einbezogen ist.
 
-
 ### § 4 Erhebungs- und Hilfsmerkmale sowie Bildung der Geburtsjahresgruppen
 
 Erhebungsmerkmale für die Statistik nach § 2 Abs. 1 Buchstabe a sind
@@ -96,7 +88,6 @@ gebildet werden, in denen jeweils mindestens sieben Geburtsjahrgänge
 zusammengefaßt sind. Hilfsmerkmale für beide Statistiken sind
 Wahlbezirk oder Briefwahlbezirk und statistische Gemeindekennziffer,
 bei der Wahl zum Deutschen Bundestag auch Wahlkreis.
-
 
 ### § 5 Durchführende Stellen
 
@@ -127,7 +118,6 @@ dem zuständigen statistischen Amt des Landes mit. Wählerverzeichnisse
 und gekennzeichnete Stimmzettel oder Ergebnisaufzeichnungen von
 Wahlgeräten dürfen nicht zusammengeführt werden.
 
-
 ### § 6 Wahlstatistische Auszählungen der Gemeinden
 
 Gemeinden dürfen bei den in § 1 genannten Wahlen mit Zustimmung des
@@ -145,7 +135,6 @@ erfüllt, vorgenommen werden. Wählerverzeichnisse und gekennzeichnete
 Stimmzettel oder Ergebnisaufzeichnungen von Wahlgeräten dürfen nicht
 zusammengeführt werden.
 
-
 ### § 7 Ergebnisfeststellung
 
 (1) Durch die Statistiken nach § 2 und die wahlstatistischen
@@ -160,7 +149,6 @@ Länder sind die Wahlunterlagen unverzüglich den Gemeindebehörden und
 andere Stellen, die Briefwahlvorstände berufen haben, zurückzugeben
 und von diesen entsprechend den wahlrechtlichen Bestimmungen zu
 behandeln.
-
 
 ### § 8 Veröffentlichung der Ergebnisse
 

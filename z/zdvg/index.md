@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 14.6.2009 I 1229
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Beteiligung, Grundsatz
 
@@ -38,7 +35,6 @@ Vertrauensmänner.
 (3) Das Recht des Dienstleistenden, sich in dienstlichen und
 persönlichen Angelegenheiten an seine Vorgesetzten zu wenden sowie
 Anträge und Beschwerden vorzubringen, bleibt unberührt.
-
 
 ### § 2 Vertrauensmann
 
@@ -109,7 +105,6 @@ Wählbarkeit oder das Wahlverfahren verstoßen worden und eine
 Berichtigung nicht erfolgt ist, es sei denn, daß durch den Verstoß das
 Wahlergebnis nicht verändert oder beeinflußt werden konnte.
 
-
 ### § 3 Beteiligung des Betriebs- oder Personalrats
 
 (1) Der Vertrauensmann kann an Sitzungen des Betriebs- oder
@@ -123,17 +118,13 @@ zuständigen Betriebs- oder Personalrat wenden. Dieser hat auf die
 Berücksichtigung der Anliegen, falls sie berechtigt erscheinen, bei
 der Leitung des Betriebes oder der Verwaltung hinzuwirken.
 
-
 ## Abschnitt 2 - Rechtsstellung des Vertrauensmannes
-
-
 
 ### § 4 Schutz des Vertrauensmannes
 
 Der Vertrauensmann darf in der Ausübung seiner Befugnisse nicht
 behindert und wegen seiner Tätigkeit nicht benachteiligt oder
 begünstigt werden.
-
 
 ### § 5 Schweigepflicht
 
@@ -148,7 +139,6 @@ gegenüber dem Bundesamt für den Zivildienst (Bundesamt) und den
 Mitgliedern des für die Dienststelle zuständigen Betriebs- oder
 Personalrats.
 
-
 ### § 6 Unfallschutz
 
 Erleidet ein Dienstleistender anläßlich der Wahrnehmung von Rechten
@@ -156,7 +146,6 @@ oder der Erfüllung von Pflichten nach diesem Gesetz durch einen Unfall
 eine gesundheitliche Schädigung, die im Sinne des Zivildienstgesetzes
 eine Zivildienstbeschädigung wäre, so finden § 35 Abs. 5 und 8, § 47
 und die §§ 49 bis 51 des Zivildienstgesetzes entsprechende Anwendung.
-
 
 ### § 7 Amtszeit
 
@@ -179,10 +168,6 @@ seines Lehrgangs.
 
 3.  durch rechtskräftige Entscheidung des Verwaltungsgerichts.
 
-
-
-
-
 ### § 8 Niederlegung des Amtes
 
 Der Vertrauensmann kann durch schriftliche Erklärung gegenüber der
@@ -190,7 +175,6 @@ Leitung der Dienststelle sein Amt niederlegen. Die Niederlegung des
 Amtes wird von der Leitung der Dienststelle dienstlich bekanntgemacht.
 Bei Lehrgängen tritt an die Stelle der Leitung der Dienststelle die
 Leitung des Lehrgangs.
-
 
 ### § 9 Abberufung des Vertrauensmannes
 
@@ -209,7 +193,6 @@ Dienststelle ernsthaft zu beeinträchtigen.
 vorläufige Ruhen des Amtes des Vertrauensmannes bis zur Entscheidung
 über den Abberufungsantrag anordnen.
 
-
 ### § 10 Eintritt des Stellvertreters
 
 (1) Endet das Amt des Vertrauensmannes vorzeitig (§ 7), so tritt der
@@ -221,7 +204,6 @@ Ausübung seines Amtes verhindert ist oder sein Amt ruht (§ 9 Abs. 2).
 
 (3) Die §§ 7 bis 9 gelten für den Stellvertreter entsprechend.
 
-
 ### § 11 Versetzung des Vertrauensmannes
 
 Der Vertrauensmann darf während der Dauer seines Amtes gegen seinen
@@ -230,14 +212,12 @@ auch unter Berücksichtigung seiner Stellung als Vertrauensmann aus
 dienstlichen Gründen unvermeidbar ist. Dasselbe gilt für die zur Wahl
 vorgeschlagenen Dienstleistenden bis zum Wahltag.
 
-
 ### § 12 Beschwerderecht
 
 Der Vertrauensmann kann sich entsprechend § 41 des Zivildienstgesetzes
 auch dann beschweren, wenn er glaubt, in der Ausübung seiner
 Befugnisse behindert oder wegen seiner Tätigkeit benachteiligt zu
 sein.
-
 
 ### § 13 Beschwerden gegen den Vertrauensmann
 
@@ -247,14 +227,9 @@ auf eine hierfür bestellte Beamtin oder einen hierfür bestellten
 Beamten des Bundesamtes, die oder der die Befähigung zum Richteramt
 hat, übertragen.
 
-
 ## Abschnitt 3 - Beteiligung des Vertrauensmannes
 
-
-
 ### Unterabschnitt 1 - Allgemeines
-
-
 
 #### § 14 Grundsätze für die Zusammenarbeit
 
@@ -269,7 +244,6 @@ umfassend zu unterrichten. Ihm ist während des Dienstes Gelegenheit zu
 geben, Sprechstunden für Dienstleistende innerhalb der Dienststelle
 abzuhalten, soweit dies zur Wahrnehmung seiner Aufgaben erforderlich
 ist und dienstliche Gründe nicht entgegenstehen.
-
 
 #### § 15 Pflichten des Vorgesetzten
 
@@ -297,17 +271,13 @@ Freistellung vom Dienst zu gewähren, wenn er durch die Erfüllung
 seiner Aufgaben als Vertrauensmann über die regelmäßige tägliche
 Arbeitszeit hinaus beansprucht wird.
 
-
 ### Unterabschnitt 2 - Formen der Beteiligung
-
-
 
 #### § 16 Anhörung
 
 Dem Vertrauensmann sind beabsichtigte Maßnahmen und Entscheidungen, zu
 denen er anzuhören ist, rechtzeitig mitzuteilen. Ihm ist Gelegenheit
 zur Äußerung zu geben.
-
 
 #### § 17 Vorschlagsrecht
 
@@ -327,7 +297,6 @@ entgegenstehen.
 Vertrauensmannes nicht oder nicht in vollem Umfang, teilt sie oder er
 dem Vertrauensmann die Entscheidung unter Angabe der Gründe mit.
 
-
 #### § 18 Mitbestimmung
 
 Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der
@@ -340,10 +309,7 @@ Entscheidet die oder der nächsthöhere Vorgesetzte abweichend vom
 Vorschlag, ist die Entscheidung gegenüber dem Vertrauensmann
 schriftlich zu begründen.
 
-
 ### Unterabschnitt 3 - Aufgabengebiete
-
-
 
 #### § 19 Personalangelegenheiten
 
@@ -370,7 +336,6 @@ betroffenen Dienstleistenden angehört werden:
 zu der beabsichtigten Personalmaßnahme der zuständigen Stelle mit. Das
 Ergebnis der Anhörung ist in die Personalentscheidung einzubeziehen.
 
-
 #### § 20 Dienstbetrieb
 
 (1) Die oder der Vorgesetzte soll den Vertrauensmann zur Gestaltung
@@ -387,7 +352,6 @@ Ziele und Inhalte der Lehrgänge beziehen.
 Vertrauensmann bei der individuellen Gewährung von Freistellungen vom
 Dienst gehört werden.
 
-
 #### § 21 Betreuung und Fürsorge
 
 (1) Die Aufstellung von Benutzerordnungen für Betreuungseinrichtungen
@@ -396,7 +360,6 @@ unterliegen der Mitbestimmung des Vertrauensmannes.
 (2) Die Planung von Veranstaltungen des außerdienstlichen
 Gemeinschaftslebens bestimmt der Vertrauensmann mit. Zur Durchführung
 von dienstlichen Veranstaltungen geselliger Art ist er zu hören.
-
 
 #### § 22 Ahndung von Dienstvergehen
 
@@ -409,7 +372,6 @@ bekanntzugeben.
 (3) Über die Anhörung ist eine Niederschrift anzufertigen, die zu den
 Akten zu nehmen ist.
 
-
 #### § 23 Beschwerdeverfahren
 
 Betrifft eine Beschwerde Fragen des Dienstbetriebes, der Fürsorge oder
@@ -418,14 +380,12 @@ Beschwerdeführers angehört werden. In Personalangelegenheiten (§ 19)
 soll der Vertrauensmann auf Antrag des Beschwerdeführers angehört
 werden.
 
-
 #### § 24 Ausschluß der Beteiligung
 
 Eine Beteiligung des Vertrauensmannes unterbleibt, wenn er selbst
 Betroffener einer Personalmaßnahme oder einer Disziplinarmaßnahme oder
 Beschwerdeführer ist. In diesen Fällen ist der Stellvertreter des
 Vertrauensmannes zu beteiligen.
-
 
 #### § 25
 

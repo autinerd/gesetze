@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 296
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -29,18 +26,15 @@ Die in Artikel 5 Abs. 1 des Grundgesetzes genannten Grundrechte werden
 den aus den vorstehenden Bestimmungen sich ergebenden Beschränkungen
 unterworfen.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 5
 
@@ -65,7 +59,6 @@ Saarlandes S. 1149) treten außer Kraft.
 (4) Die gemäß § 3 Abs. 1 des Gesetzes Nr. 378 beim Minister des Innern
 des Saarlandes geführte Liste der in § 1 des Gesetzes Nr. 378
 genannten Schriften und Gegenstände verliert ihre Wirksamkeit.
-
 
 ## Art 6
 

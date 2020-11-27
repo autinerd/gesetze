@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 12.11.2010 I 1614
 
-
-
 ## (XXXX)
 
 
@@ -155,10 +153,6 @@ Zuletzt geändert durch
 13. Die Anzeigen zu Beginn der 16. Wahlperiode erfolgen erst nach Erlass
     dieser Ausführungsbestimmungen; die Anzeigefrist gemäß § 1 Abs. 6 der
     Verhaltensregeln endet drei Monate nach dem Erlass.
-
-
-
-
 
 ## Schlussformel
 

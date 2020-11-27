@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 29.9.2011 I 1996
 
-
 ## § 1 Begriffsbestimmung
 
 (1) Aromen im Sinne dieser Verordnung sind Erzeugnisse gemäß Artikel 3
@@ -37,13 +36,11 @@ Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung
 (2) Als Aromen im Sinne dieser Verordnung gelten nicht Erzeugnisse
 gemäß Artikel 2 Absatz 2 der Verordnung (EG) Nr. 1334/2008.
 
-
 ## § 2 Verbote und Beschränkungen
 
 Verzehrfertige Lebensmittel, die Chinin enthalten, dürfen gewerbsmäßig
 nur in den Verkehr gebracht werden, wenn dessen Gehalt die in Anlage 4
 festgesetzten Höchstmengen nicht überschreitet.
-
 
 ## § 3 Zusatzstoffe
 
@@ -88,7 +85,6 @@ Mitverwendung von Gewürzen, zugelassen.
 (4) Zum Räuchern von Malz für die Whiskyherstellung wird frisch
 entwickelter Rauch aus Torf zugelassen.
 
-
 ## § 4 Hinweise auf natürliche Herkunft
 
 Aromen, die zur Abgabe an Verbraucherinnen und Verbraucher im Sinne
@@ -99,11 +95,9 @@ gebracht werden, wenn der Begriff „natürlich“ im Einklang mit Artikel
 17 Absatz 2 in Verbindung mit Artikel 16 der Verordnung (EG) Nr.
 1334/2008 verwendet wird.
 
-
 ## (XXXX) §§ 4a u. 4b (weggefallen)
 
 -
-
 
 ## § 5 Verkehrsverbot
 
@@ -114,11 +108,9 @@ sind. Satz 1 gilt nicht für alkoholfreie Erfrischungsgetränke, die
 nach den Vorschriften der Lebensmittel-Kennzeichnungsverordnung zu
 kennzeichnen sind.
 
-
 ## § 5a (weggefallen)
 
 -
-
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
 
@@ -184,7 +176,6 @@ in der vorgeschriebenen Weise gekennzeichnet sind.
 
 (7) (weggefallen)
 
-
 ## § 7 Übergangsvorschrift
 
 (1) Bis zum 27. Januar 2006 dürfen Aromen und andere Lebensmittel nach
@@ -197,11 +188,9 @@ Lebensmittel nach den bis zum 14. Februar 2008 geltenden Vorschriften
 gekennzeichnet oder in den Verkehr gebracht werden und danach noch bis
 zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
-
 ## (XXXX) Anlage 1 bis 3 (weggefallen)
 
 -
-
 
 ## Anlage 4 (zu § 2) Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
 
@@ -228,9 +217,6 @@ zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
     *   300 mg/kg in Spirituosen
         85 mg/kg in alkoholfreien Erfrischungsgetränken.
-
-
-
 
 ## Anlage 5 (zu § 3) Zusatzstoffe
 
@@ -571,13 +557,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) qs = quantum satis im Sinne des § 7 Abs. 2 der Zusatzstoff-
             Zulassungsverordnung.
-
-
-
-
-
-
-
 
 ## Anlage 6 (zu § 3 Abs. 1 Nr. 1)
 

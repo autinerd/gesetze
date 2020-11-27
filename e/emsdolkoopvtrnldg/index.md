@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1986, 509
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -40,7 +37,6 @@ Niedersächsischen Minister des Innern in Hannover, bei der
 Bezirksregierung Weser-Ems in Oldenburg sowie beim zuständigen
 Katasteramt zur Einsicht bereit.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach Artikel 11 des Vertrages Hoheitsgebiet
@@ -50,12 +46,10 @@ Vertrages die im Land Niedersachsen geltenden Vorschriften des
 Bundesrechts, soweit sie in diesem Gebiet nicht bereits zuvor in Kraft
 waren.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

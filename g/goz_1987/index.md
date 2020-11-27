@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.12.2011 I 2661
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 des Gesetzes über die Ausübung der Zahnheilkunde in
 der durch Artikel 5 des Gesetzes vom 22. Dezember 1981 (BGBl. I S.
 1568) geänderten Fassung verordnet die Bundesregierung mit Zustimmung
 des Bundesrates:
-
 
 ## § 1 Anwendungsbereich
 
@@ -39,7 +37,6 @@ notwendige zahnärztliche Versorgung erforderlich sind. Leistungen, die
 über das Maß einer zahnmedizinisch notwendigen zahnärztlichen
 Versorgung hinausgehen, darf er nur berechnen, wenn sie auf Verlangen
 des Zahlungspflichtigen erbracht worden sind.
-
 
 ## § 2 Abweichende Vereinbarung
 
@@ -74,12 +71,10 @@ nachstationären privatzahnärztlichen Leistungen ist eine Vereinbarung
 nach Absatz 1 Satz 1 nur für vom Wahlzahnarzt persönlich erbrachte
 Leistungen zulässig.
 
-
 ## § 3 Vergütungen
 
 Als Vergütungen stehen dem Zahnarzt Gebühren, Entschädigungen und
 Ersatz von Auslagen zu.
-
 
 ## § 4 Gebühren
 
@@ -117,7 +112,6 @@ Zahlungspflichtigen unwirksam.
 Zahlungspflichtigen unmittelbar berechnen, so hat der Zahnarzt ihn
 darüber zu unterrichten.
 
-
 ## § 5 Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
 
 (1) Die Höhe der einzelnen Gebühr bemißt sich nach dem Einfachen bis
@@ -143,11 +137,9 @@ genannten Bemessungskriterien dies rechtfertigen; Leistungen mit
 unterdurchschnittlichem Schwierigkeitsgrad oder Zeitaufwand sind mit
 einem niedrigeren Gebührensatz zu berechnen.
 
-
 ## § 5a (weggefallen)
 
 -
-
 
 ## § 6 Gebühren für andere Leistungen
 
@@ -198,10 +190,6 @@ Gebührenverzeichnisses der Gebührenordnung für Ärzte aufgeführt sind:
 
 8.  O.
 
-
-
-
-
 ## § 7 Gebühren bei stationärer Behandlung
 
 (1) Bei vollstationären, teilstationären sowie vor- und
@@ -216,7 +204,6 @@ Abschnitt B V des Gebührenverzeichnisses der Gebührenordnung für
 
 (2) Neben den nach Absatz 1 geminderten Gebühren darf der Zahnarzt
 Kosten nicht berechnen; die §§ 8 und 9 bleiben unberührt.
-
 
 ## § 8 Entschädigungen
 
@@ -272,7 +259,6 @@ Reiseentschädigung. Als Reiseentschädigung erhält der Zahnarzt
 
 Absatz 2 Satz 3 und 4 gilt entsprechend.
 
-
 ## § 9 Ersatz von Auslagen für zahntechnische Leistungen
 
 (1) Neben den für die einzelnen zahnärztlichen Leistungen vorgesehenen
@@ -299,7 +285,6 @@ näher zu erläutern. Ist eine Überschreitung der im Kostenvoranschlag
 genannten Kosten um mehr als 15 vom Hundert zu erwarten, hat der
 Zahnarzt den Zahlungspflichtigen hierüber unverzüglich in Textform zu
 unterrichten.
-
 
 ## § 10 Fälligkeit und Abrechnung der Vergütung, Rechnung
 
@@ -378,7 +363,6 @@ Zahnarzt in die Übermittlung der für die Abrechnung erforderlichen
 Daten schriftlich eingewilligt und den Zahnarzt insoweit schriftlich
 von seiner Schweigepflicht entbunden hat.
 
-
 ## § 11 Übergangsvorschrift
 
 Die Gebührenordnung für Zahnärzte in der vor dem 1. Januar 2012
@@ -404,17 +388,12 @@ geltenden Fassung gilt weiter für
     Ablauf von vier Jahren nach Inkrafttreten dieser Verordnung, erbracht
     werden.
 
-
-
-
-
 ## § 12 Überprüfung
 
 Die Bundesregierung prüft die Auswirkungen der Neustrukturierung und
 -bewertung der Leistungen der Gebührenordnung für Zahnärzte. Sie
 berichtet dem Bundesrat bis spätestens Mitte des Jahres 2015 über das
 Ergebnis der Prüfung und die tragenden Gründe.
-
 
 ## Anlage 1 Gebührenverzeichnis für zahnärztliche Leistungen
 
@@ -674,8 +653,6 @@ berechnungsfähig.
         berechnungsfähig.
 
     *   28
-
-
 
 ## **C.**
 
@@ -1101,8 +1078,6 @@ Wurzelkanalaufbereitung sind gesondert berechnungsfähig.
     *   Füllung eines Wurzelkanals
 
     *   258
-
-
 
 ## D.
 
@@ -2858,9 +2833,6 @@ L.
         Zuschlägen nach den Nummern 0500 bis 0520 nicht berechnungsfähig.
 
     *   2200
-
-
-
 
 ## Anlage 2 Liquidationsvordruck
 

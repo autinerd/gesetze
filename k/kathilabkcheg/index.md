@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1987, 74
 
-
-
 ## Art 1
 
 Dem in Bern am 28. November 1984 unterzeichneten Abkommen zwischen der
@@ -26,7 +24,6 @@ Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft
 über die gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -51,12 +48,10 @@ den Fällen des Artikels 10 Abs. 3 entstehen, richtet sich die
 Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in den
 Aufgabenbereich des Bundes oder der Länder fällt.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

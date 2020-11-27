@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 288
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 4 Abs. 1 des Gesetzes vom 23. September 1990
 (BGBl. 1990 II S. 885) verordnet die Bundesregierung:
-
 
 ## § 1 Zweck, Anwendungsbereich
 
@@ -37,7 +34,6 @@ den Verkehr gebracht wurden und von einem in diesem Gebiet
 niedergelassenen Hersteller oder Einführer nach den Vorschriften des
 Zweiten Abschnitts des Chemikaliengesetzes anzumelden sind.
 
-
 ## § 2 Grundsatz
 
 Die in § 1 genannten Stoffe dürfen abweichend von § 4 Abs. 1 des
@@ -46,7 +42,6 @@ Einigungsvertrages genannten Gebiet in den Verkehr gebracht werden.
 Für Stoffe, die bereits vor dem 18. September 1981 in diesem Gebiet in
 den Verkehr gebracht wurden, gilt dies nach Maßgabe der in § 3 Abs. 1
 genannten Kommissionsentscheidung.
-
 
 ## § 3 Stoffe, die vor dem 18. September 1981 erstmals in den Verkehr gebracht wurden
 
@@ -77,18 +72,15 @@ die Bewertungsstellen in entsprechender Anwendung der Allgemeinen
 Verwaltungsvorschrift zur Durchführung der Bewertung nach § 12 Abs. 2
 des Chemikaliengesetzes.
 
-
 ## § 4 Kosten
 
 Für die Bearbeitung der Anmeldungen von Stoffen nach § 1, die bis zum
 31\. Dezember 1992 bei der Anmeldestelle eingehen, werden Kosten nicht
 erhoben.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 3. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 

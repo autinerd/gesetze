@@ -21,9 +21,7 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 5 G v. 17.8.2012 I 1754 ist berücksichtigt
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -59,7 +57,6 @@ integrieren.
 erneuerbarer Energien am gesamten Bruttoendenergieverbrauch bis zum
 Jahr 2020 auf mindestens 18 Prozent zu erhöhen.
 
-
 ### § 2 Anwendungsbereich
 
 Dieses Gesetz regelt
@@ -78,10 +75,6 @@ Dieses Gesetz regelt
 
 3.  den bundesweiten Ausgleich des abgenommenen Stroms, für den eine
     Vergütung oder eine Prämie gezahlt worden ist.
-
-
-
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -267,15 +260,9 @@ Rechtsverordnungen, die
 
 4.  einer Entscheidung der Bundesnetzagentur nach § 61 entsprechen.
 
-
-
-
-
 ## Teil 2 - Anschluss, Abnahme, Übertragung und Verteilung
 
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
 
 #### § 5 Anschluss
 
@@ -347,7 +334,6 @@ innerhalb von acht Wochen, Folgendes zu übermitteln:
 Das Recht der Anlagenbetreiberinnen oder Anlagenbetreiber nach § 7
 Absatz 1 bleibt auch dann unberührt, wenn der Netzbetreiber den
 Kostenvoranschlag nach Satz 1 Nummer 3 übermittelt hat.
-
 
 #### § 6 Technische Vorgaben
 
@@ -445,7 +431,6 @@ Kopplungsgesetzes oder, soweit ein solcher nicht besteht, ihren
 Anspruch auf vorrangigen Netzzugang nach § 4 Absatz 4 des Kraft-Wärme-
 Kopplungsgesetzes.
 
-
 #### § 7 Ausführung und Nutzung des Anschlusses
 
 (1) Anlagenbetreiberinnen und -betreiber sind berechtigt, den
@@ -467,7 +452,6 @@ I S. 2966) geändert worden ist, entsprechen.
 Grubengas gilt zugunsten der Anlagenbetreiberin oder des
 Anlagenbetreibers § 18 Abs. 2 der Niederspannungsanschlussverordnung
 vom 1. November 2006 (BGBl. I S. 2477) entsprechend.
-
 
 #### § 8 Abnahme, Übertragung und Verteilung
 
@@ -511,12 +495,7 @@ nicht Übertragungsnetzbetreiber ist,
 3.  insbesondere im Fall der Weitergabe nach Absatz 2, jeden sonstigen
     Netzbetreiber.
 
-
-
-
-
 ### Abschnitt 2 - Kapazitätserweiterung und Einspeisemanagement
-
 
 #### § 9 Erweiterung der Netzkapazität
 
@@ -543,7 +522,6 @@ unzumutbar ist.
 Kopplungsgesetzes sowie nach § 12 Abs. 3 des
 Energiewirtschaftsgesetzes bleiben unberührt.
 
-
 #### § 10 Schadensersatz
 
 (1) Verletzt der Netzbetreiber seine Verpflichtungen aus § 9 Abs. 1,
@@ -559,7 +537,6 @@ Verpflichtung zur Optimierung, zur Verstärkung und zum Ausbau des
 Netzes nachgekommen ist. Die Auskunft kann verweigert werden, wenn sie
 zur Feststellung, ob ein Anspruch nach Absatz 1 vorliegt, nicht
 erforderlich ist.
-
 
 #### § 11 Einspeisemanagement
 
@@ -616,7 +593,6 @@ nicht überschritten hat; diese Unterrichtung muss bis zum 31. Januar
 des Folgejahres erfolgen. § 13 Absatz 5 Satz 3 des
 Energiewirtschaftsgesetzes bleibt unberührt.
 
-
 #### § 12 Härtefallregelung
 
 (1) Wird die Einspeisung von Strom aus Anlagen zur Erzeugung von Strom
@@ -645,9 +621,7 @@ hat.
 (3) Schadensersatzansprüche von Anlagenbetreiberinnen und -betreibern
 gegen den Netzbetreiber bleiben unberührt.
 
-
 ### Abschnitt 3 - Kosten
-
 
 #### § 13 Netzanschluss
 
@@ -661,12 +635,10 @@ Stroms trägt die Anlagenbetreiberin oder der Anlagenbetreiber.
 Verknüpfungspunkt zu, muss er die daraus resultierenden Mehrkosten
 tragen.
 
-
 #### § 14 Kapazitätserweiterung
 
 Die Kosten der Optimierung, der Verstärkung und des Ausbaus des Netzes
 trägt der Netzbetreiber.
-
 
 #### § 15 Vertragliche Vereinbarung
 
@@ -679,12 +651,9 @@ Netzentgelts in Ansatz bringen, soweit diese Kosten im Hinblick auf §
 Regulierungsbehörde nach Maßgabe der Vorschriften des
 Energiewirtschaftsgesetzes.
 
-
 ## Teil 3 - Einspeisevergütung
 
-
 ### Abschnitt 1 - Allgemeine Vergütungsvorschriften
-
 
 #### § 16 Vergütungsanspruch
 
@@ -724,7 +693,6 @@ gesamten in dieser Anlage erzeugten Strom,
 
 zur Verfügung zu stellen, und sie dürfen den in der Anlage erzeugten
 Strom nicht als Regelenergie vermarkten.
-
 
 #### § 17 Verringerung des Vergütungsanspruchs
 
@@ -787,7 +755,6 @@ Verbindung mit § 33d Absatz 1 Nummer 3 und Absatz 4 übermittelt haben.
 Satz 1 gilt bis zum Ablauf des dritten Kalendermonats, der auf die
 Beendigung der Direktvermarktung folgt.
 
-
 #### § 18 Vergütungsberechnung
 
 (1) Die Höhe der Vergütung für Strom, der in Abhängigkeit von der
@@ -806,7 +773,6 @@ wird, bestimmt sich
 im Verhältnis zu dem jeweils anzuwendenden Schwellenwert.
 
 (2) In den Vergütungen ist die Umsatzsteuer nicht enthalten.
-
 
 #### § 19 Vergütung für Strom aus mehreren Anlagen
 
@@ -867,7 +833,6 @@ Messeinrichtung abgerechnet wird, erfolgt die Zuordnung der
 Strommengen zu den Windenergieanlagen im Verhältnis der jeweiligen
 Referenzerträge.
 
-
 #### § 20 Absenkungen von Vergütungen und Boni
 
 (1) Die Vergütungen und Boni nach den §§ 23 bis 31 gelten unbeschadet
@@ -919,7 +884,6 @@ gemäß den Absätzen 1 und 2 auf zwei Stellen nach dem Komma gerundet.
 Für die Berechnung der Höhe der Vergütungen und Boni des jeweils
 darauffolgenden Kalenderjahres sind die ungerundeten Werte des
 Vorjahres zugrunde zu legen.
-
 
 #### § 20a Zubaukorridor für geförderte Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie, Veröffentlichung des Zubaus
 
@@ -1005,7 +969,6 @@ Strom nach § 33b Nummer 1 oder 2 direkt vermarkten wollen. Bei Anlagen
 mit einer installierten Leistung von mehr als 10 Megawatt gilt nur der
 Anteil bis einschließlich 10 Megawatt als geförderte Anlage; § 19
 Absatz 1 und 1a ist entsprechend anzuwenden.
-
 
 #### § 20b Absenkung der Vergütung für Strom aus solarer Strahlungsenergie
 
@@ -1234,7 +1197,6 @@ entsprechend.
 
 (11) § 20 Absatz 1 Satz 3 und Absatz 3 ist entsprechend anzuwenden.
 
-
 #### § 21 Vergütungsbeginn und -dauer
 
 (1) Die Vergütungen sind ab dem Zeitpunkt zu zahlen, ab dem der
@@ -1247,7 +1209,6 @@ zuzüglich des Inbetriebnahmejahres zu zahlen. Beginn der Frist nach
 Satz 1 ist der Zeitpunkt der Inbetriebnahme, soweit sich aus den
 nachfolgenden Vorschriften nichts anderes ergibt.
 
-
 #### § 22 Aufrechnung
 
 (1) Die Aufrechnung von Vergütungsansprüchen der Anlagenbetreiberin
@@ -1259,9 +1220,7 @@ oder rechtskräftig festgestellt ist.
 Niederspannungsanschlussverordnung gilt nicht, soweit mit Ansprüchen
 aus diesem Gesetz aufgerechnet wird.
 
-
 ### Abschnitt 2 - Besondere Vergütungsvorschriften
-
 
 #### § 23 Wasserkraft
 
@@ -1369,7 +1328,6 @@ errichtet worden ist.
 Speicherkraftwerken nur, wenn sie an einem bestehenden Speicher oder
 einem bestehenden Speicherkraftwerk errichtet worden sind.
 
-
 #### § 24 Deponiegas
 
 Für Strom aus Deponiegas beträgt die Vergütung
@@ -1381,10 +1339,6 @@ Für Strom aus Deponiegas beträgt die Vergütung
 2.  bis einschließlich einer Bemessungsleistung von 5 Megawatt 5,89 Cent
     pro Kilowattstunde.
 
-
-
-
-
 #### § 25 Klärgas
 
 Für Strom aus Klärgas beträgt die Vergütung
@@ -1395,10 +1349,6 @@ Für Strom aus Klärgas beträgt die Vergütung
 
 2.  bis einschließlich einer Bemessungsleistung von 5 Megawatt 5,89 Cent
     pro Kilowattstunde.
-
-
-
-
 
 #### § 26 Grubengas
 
@@ -1420,7 +1370,6 @@ Für Strom aus Klärgas beträgt die Vergütung
 
 (2) Die Pflicht zur Vergütung besteht nur, wenn das Grubengas aus
 Bergwerken des aktiven oder stillgelegten Bergbaus stammt.
-
 
 #### § 27 Biomasse
 
@@ -1618,7 +1567,6 @@ für den Nachweis nicht erforderlichen personenbezogenen Angaben im
 Einsatzstoff-Tagebuch von der Anlagenbetreiberin oder dem
 Anlagenbetreiber zu schwärzen.
 
-
 #### § 27a Vergärung von Bioabfällen
 
 (1) Für Strom aus Anlagen, die Biogas einsetzen, das durch anaerobe
@@ -1671,10 +1619,6 @@ nicht mit einer Vergütung nach § 27 kombiniert werden.
 
 5.  § 27 Absatz 1 Satz 2.
 
-
-
-
-
 #### § 27b Vergärung von Gülle
 
 (1) Für Strom aus Anlagen, die Biogas einsetzen, das durch anaerobe
@@ -1719,10 +1663,6 @@ ist, beträgt die Vergütung 25,0 Cent pro Kilowattstunde, wenn
 
 5.  § 27 Absatz 1 Satz 2.
 
-
-
-
-
 #### § 27c Gemeinsame Vorschriften für gasförmige Energieträger
 
 (1) Aus einem Erdgasnetz entnommenes Gas gilt jeweils als Deponiegas,
@@ -1754,7 +1694,6 @@ einsetzen, das nach Absatz 1 als Biomethan gilt, und die nach dem 31.
 Dezember 2013 in Betrieb genommen werden, gilt Absatz 2 nur, wenn die
 installierte Leistung der Anlage 750 Kilowatt nicht übersteigt.
 
-
 #### § 28 Geothermie
 
 (1) Für Strom aus Geothermie beträgt die Vergütung 25,0 Cent pro
@@ -1763,7 +1702,6 @@ Kilowattstunde.
 (2) Die Vergütung nach Absatz 1 erhöht sich für Strom, der auch durch
 Nutzung petrothermaler Techniken erzeugt wird, um 5,0 Cent pro
 Kilowattstunde.
-
 
 #### § 29 Windenergie
 
@@ -1785,7 +1723,6 @@ nachweislich erfüllen.
 (3) Anlagen mit einer installierten Leistung bis einschließlich 50
 Kilowatt gelten im Sinne des Absatzes 2 als Anlagen mit einem Ertrag
 von 60 Prozent ihres Referenzertrags.
-
 
 #### § 30 Windenergie Repowering
 
@@ -1819,7 +1756,6 @@ spätestens ein halbes Jahr nach der Inbetriebnahme der Repowering-
 Anlage vollständig abgebaut und vor Inbetriebnahme der Repowering-
 Anlage außer Betrieb genommen wurde. Der Vergütungsanspruch für die
 ersetzten Anlagen entfällt endgültig.
-
 
 #### § 31 Windenergie Offshore
 
@@ -1862,7 +1798,6 @@ gilt bis zur Unterschutzstellung auch für solche Gebiete, die das
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit der
 Europäischen Kommission als Gebiete von gemeinschaftlicher Bedeutung
 oder als Europäische Vogelschutzgebiete benannt hat.
-
 
 #### § 32 Solare Strahlungsenergie
 
@@ -2007,7 +1942,6 @@ ersetzten Anlagen in Betrieb genommen worden sind. Der
 Vergütungsanspruch für die nach Satz 1 ersetzten Anlagen entfällt
 endgültig.
 
-
 #### § 33 Marktintegrationsmodell für Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
 
 (1) Die Vergütung nach § 32 Absatz 2, auch in Verbindung mit Absatz 3,
@@ -2070,12 +2004,9 @@ nachweisen; andernfalls gilt die insgesamt in dem jeweiligen
 Kalenderjahr aus der Anlage tatsächlich in das Netz eingespeiste
 Strommenge als erzeugte Strommenge im Sinne von Absatz 1 Satz 1.
 
-
 ## Teil 3a - Direktvermarktung
 
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
 
 #### § 33a Grundsatz, Begriff
 
@@ -2091,7 +2022,6 @@ Dritte veräußern, die den Strom in unmittelbarer räumlicher Nähe zur
 Anlage verbrauchen, und der Strom nicht durch ein Netz durchgeleitet
 wird.
 
-
 #### § 33b Formen der Direktvermarktung
 
 Eine Direktvermarktung nach § 33a kann in den folgenden Formen
@@ -2106,10 +2036,6 @@ erfolgen:
 
 
 3.  als sonstige Direktvermarktung.
-
-
-
-
 
 #### § 33c Pflichten bei der Direktvermarktung
 
@@ -2160,7 +2086,6 @@ Absatz 3 nicht erfüllt sind.
 
 (4) Die Rechtsfolgen von Verstößen gegen die Absätze 1 und 2 richten
 sich nach § 33g Absatz 3 und § 39 Absatz 2.
-
 
 #### § 33d Wechsel zwischen verschiedenen Formen
 
@@ -2223,7 +2148,6 @@ richten sich nach § 33g Absatz 3 und § 39 Absatz 2. Für die Dauer der
 dort jeweils genannten Rechtsfolgen sind auch die jeweils anderen
 Ansprüche ausgeschlossen.
 
-
 #### § 33e Verhältnis zur Einspeisevergütung
 
 Solange Anlagenbetreiberinnen und Anlagenbetreiber Strom aus ihrer
@@ -2231,7 +2155,6 @@ Anlage direkt vermarkten, entfallen der Vergütungsanspruch nach § 16
 Absatz 1 und 2 sowie die Pflicht nach § 16 Absatz 3 für den gesamten
 in der Anlage erzeugten Strom. Dieser Zeitraum wird auf die
 Vergütungsdauer nach § 21 Absatz 2 angerechnet.
-
 
 #### § 33f Anteilige Direktvermarktung
 
@@ -2269,9 +2192,7 @@ Kalendermonats, der auf die Beendigung des Verstoßes gegen Absatz 1
 folgt. Im Übrigen richten sich die Rechtsfolgen von Verstößen gegen
 Absatz 1 nach § 33g Absatz 3 und § 39 Absatz 2.
 
-
 ### Abschnitt 2 - Prämien für die Direktvermarktung
-
 
 #### § 33g Marktprämie
 
@@ -2310,7 +2231,6 @@ Beendigung des in Nummer 1, 2 oder 3 benannten Verstoßes folgt.
 
 (4) § 22 gilt entsprechend.
 
-
 #### § 33h Anzulegender Wert bei der Marktprämie
 
 Die Marktprämie wird berechnet anhand der Höhe der Vergütung nach §
@@ -2320,7 +2240,6 @@ Berücksichtigung der §§ 17 bis 21, tatsächlich in Anspruch genommen
 werden könnte (anzulegender Wert). Bei der Berechnung des anzulegenden
 Werts sind § 27 Absatz 3 und 4, § 27a Absatz 2 und § 27c Absatz 3
 nicht anzuwenden.
-
 
 #### § 33i Flexibilitätsprämie
 
@@ -2383,19 +2302,15 @@ nach Absatz 3 folgenden Kalendermonats.
 
 (5) § 22 gilt entsprechend.
 
-
 ## Teil 4 - Ausgleichsmechanismus
 
-
 ### Abschnitt 1 - Bundesweiter Ausgleich
-
 
 #### § 34 Weitergabe an den Übertragungsnetzbetreiber
 
 Netzbetreiber sind verpflichtet, den nach § 16 vergüteten Strom
 unverzüglich an den vorgelagerten Übertragungsnetzbetreiber
 weiterzugeben.
-
 
 #### § 35 Ausgleich zwischen Netzbetreibern und Übertragungsnetzbetreibern
 
@@ -2437,7 +2352,6 @@ und 2 gelten im Verhältnis von aufnehmendem Netzbetreiber und
 Anlagenbetreiberin oder Anlagenbetreiber entsprechend, es sei denn,
 die Zahlungspflicht ergibt sich aus einer vertraglichen Vereinbarung.
 § 22 Absatz 1 ist auf Ansprüche nach Satz 3 nicht anzuwenden.
-
 
 #### § 36 Ausgleich zwischen den Übertragungsnetzbetreibern
 
@@ -2494,7 +2408,6 @@ ersetzen haben, als es dem durchschnittlichen Anteil aller
 Übertragungsnetzbetreiber einen Anspruch auf Erstattung der Prämien
 oder Kosten, bis die Prämien- oder Kostenbelastung aller
 Übertragungsnetzbetreiber dem Durchschnittswert entspricht.
-
 
 #### § 37 Vermarktung und EEG-Umlage
 
@@ -2562,7 +2475,6 @@ Verbraucher im Sinne des § 13 des Bürgerlichen Gesetzbuchs sind und
 nach Absatz 3 Satz 1 Elektrizitätsversorgungsunternehmen gleichstehen,
 für die verbrauchten Strommengen entsprechend anzuwenden.
 
-
 #### § 38 Nachträgliche Korrekturen
 
 Ergeben sich durch
@@ -2592,7 +2504,6 @@ Ergeben sich durch
 Änderungen der abzurechnenden Strommenge oder Vergütungs- oder
 Prämienzahlungen, sind diese Änderungen bei der jeweils nächsten
 Abrechnung zu berücksichtigen.
-
 
 #### § 39 Verringerung der EEG-Umlage
 
@@ -2717,9 +2628,7 @@ elektronischen Datenaustausch nach Maßgabe des
 Bundesdatenschutzgesetzes ist ein einheitliches Datenformat
 vorzusehen.
 
-
 ### Abschnitt 2 - Besondere Ausgleichsregelung für stromintensive Unternehmen und Schienenbahnen
-
 
 #### § 40 Grundsatz
 
@@ -2734,7 +2643,6 @@ und intermodale Wettbewerbsfähigkeit zu erhalten, soweit hierdurch die
 Ziele des Gesetzes nicht gefährdet werden und die Begrenzung mit den
 Interessen der Gesamtheit der Stromverbraucherinnen und
 Stromverbraucher vereinbar ist.
-
 
 #### § 41 Unternehmen des produzierenden Gewerbes
 
@@ -2876,7 +2784,6 @@ diese nachweisen, dass und inwieweit
 Verbrauchsstellen für den Fahrbetrieb im Schienenbahnverkehr des
 Unternehmens. § 41 Absatz 2 und 2a gilt entsprechend.
 
-
 #### § 43 Antragsfrist und Entscheidungswirkung
 
 (1) Der Antrag nach § 40 Abs. 1 in Verbindung mit § 41 oder § 42
@@ -2902,7 +2809,6 @@ wird entsprechend der Entscheidung des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle begrenzt; die Übertragungsnetzbetreiber haben diese
 Begrenzungen im Rahmen von § 36 zu berücksichtigen.
 
-
 #### § 44 Auskunftspflicht
 
 Die Begünstigten der Entscheidung nach § 40 haben dem
@@ -2912,12 +2818,9 @@ geben, die für die Beurteilung erforderlich sind, ob die Ziele des §
 40 Abs. 1 Satz 2 erreicht werden. Betriebs- und Geschäftsgeheimnisse
 werden gewahrt.
 
-
 ## Teil 5 - Transparenz
 
-
 ### Abschnitt 1 - Mitteilungs- und Veröffentlichungspflichten
-
 
 #### § 45 Grundsatz
 
@@ -2926,7 +2829,6 @@ Elektrizitätsversorgungsunternehmen sind verpflichtet, einander die
 für den bundesweiten Ausgleich nach den §§ 34 bis 39 jeweils
 erforderlichen Daten, insbesondere die in den §§ 46 bis 50 genannten,
 unverzüglich zur Verfügung zu stellen. § 38 gilt entsprechend.
-
 
 #### § 46 Anlagenbetreiberinnen und -betreiber
 
@@ -2947,10 +2849,6 @@ Netzbetreiber
 
 3.  bis zum 28. Februar eines Jahres die für die Endabrechnung des
     Vorjahres erforderlichen Daten zur Verfügung zu stellen.
-
-
-
-
 
 #### § 47 Netzbetreiber
 
@@ -3001,10 +2899,6 @@ Vergütungszahlungen nach Absatz 1 sind insbesondere erforderlich
     Elektrizitätsversorgungsunternehmen abgegeben oder sie selbst
     verbraucht hat.
 
-
-
-
-
 #### § 48 Übertragungsnetzbetreiber
 
 (1) Für Übertragungsnetzbetreiber gilt § 47 entsprechend mit der
@@ -3030,10 +2924,6 @@ entsprechend.
     Ausgleichsmechanismusverordnung zu veröffentlichen und der
     Bundesnetzagentur zu übermitteln.
 
-
-
-
-
 #### § 49 Elektrizitätsversorgungsunternehmen
 
 Elektrizitätsversorgungsunternehmen sind verpflichtet, ihrem
@@ -3041,7 +2931,6 @@ regelverantwortlichen Übertragungsnetzbetreiber unverzüglich die an
 Letztverbraucherinnen oder Letztverbraucher gelieferte Energiemenge
 elektronisch mitzuteilen und bis zum 31. Mai die Endabrechnung für das
 Vorjahr vorzulegen.
-
 
 #### § 50 Testierung
 
@@ -3057,7 +2946,6 @@ Einzelfall hinausgehende Bedeutung haben, und Entscheidungen nach § 57
 Absatz 4 zu berücksichtigen. Für die Prüfung nach Satz 1 gelten § 319
 Absatz 2 bis 4, § 319b Absatz 1, § 320 Absatz 2 und § 323 des
 Handelsgesetzbuches entsprechend.
-
 
 #### § 51 Information der Bundesnetzagentur
 
@@ -3081,7 +2969,6 @@ und Reaktorsicherheit und dem Bundesministerium für Wirtschaft und
 Technologie von der Bundesnetzagentur für statistische Zwecke sowie
 die Evaluation des Gesetzes und die Berichterstattungen nach den §§ 65
 und 65a zur Verfügung gestellt.
-
 
 #### § 52 Information der Öffentlichkeit
 
@@ -3110,9 +2997,7 @@ in die Lage versetzen, ohne weitere Informationen die ausgeglichenen
 Energiemengen und Vergütungszahlungen vollständig nachvollziehen zu
 können.
 
-
 ### Abschnitt 2 - EEG-Umlage und Stromkennzeichnung
-
 
 #### § 53 Ausweisung der EEG-Umlage
 
@@ -3126,7 +3011,6 @@ lesbarer Schrift anzugeben, wie viele Kilowattstunden Strom aus
 erneuerbaren Energien und aus Grubengas für die Berechnung der EEG-
 Umlage zugrunde gelegt wurden. Die Berechnung der EEG-Umlage ist so zu
 begründen, dass sie ohne weitere Informationen nachvollziehbar ist.
-
 
 #### § 54 Stromkennzeichnung entsprechend der EEG-Umlage
 
@@ -3208,9 +3092,7 @@ entsprechend anteilig für die jeweilige Letztverbraucherin oder den
 jeweiligen Letztverbraucher um den nach Satz 3 berechneten Prozentsatz
 zu reduzieren.
 
-
 ### Abschnitt 3 - Herkunftsnachweis und Doppelvermarktungsverbot
-
 
 #### § 55 Herkunftsnachweise
 
@@ -3245,7 +3127,6 @@ Umweltbundesamt.
 (5) Herkunftsnachweise sind keine Finanzinstrumente im Sinne des § 1
 Absatz 11 des Kreditwesengesetzes oder des § 2 Absatz 2b des
 Wertpapierhandelsgesetzes.
-
 
 #### § 56 Doppelvermarktungsverbot
 
@@ -3297,9 +3178,7 @@ die Absätze 1 bis 3 Folgendes:
 jeweils für den Zeitraum der Dauer des Verstoßes zuzüglich der
 darauffolgenden sechs Kalendermonate.
 
-
 ## Teil 6 - Rechtsschutz und behördliches Verfahren
-
 
 ### § 57 Clearingstelle
 
@@ -3386,12 +3265,10 @@ durchzuführen. Für sonstige Handlungen, die im Zusammenhang mit den
 Aufgaben nach den Absätzen 2 bis 4 stehen, kann die Clearingstelle zur
 Deckung des Aufwands Entgelte erheben.
 
-
 ### § 58 Verbraucherschutz
 
 Die §§ 8 bis 14 des Gesetzes gegen den unlauteren Wettbewerb gelten
 für Verstöße gegen die §§ 16 bis 33 entsprechend.
-
 
 ### § 59 Einstweiliger Rechtsschutz
 
@@ -3409,7 +3286,6 @@ Abschlagszahlung zu leisten hat.
 den §§ 935, 940 der Zivilprozessordnung bezeichneten Voraussetzungen
 nicht vorliegen.
 
-
 ### § 60 Nutzung von Seewasserstraßen
 
 Solange Anlagenbetreiberinnen oder -betreiber den Vergütungsanspruch
@@ -3417,7 +3293,6 @@ nach § 16 geltend machen oder den Strom in der Form nach § 33b Nummer
 1 oder 2 direkt vermarkten, können sie die deutsche ausschließliche
 Wirtschaftszone oder das Küstenmeer unentgeltlich für den Betrieb der
 Anlagen nutzen.
-
 
 ### § 61 Aufgaben der Bundesnetzagentur
 
@@ -3515,7 +3390,6 @@ sowie § 60 des Energiewirtschaftsgesetzes gelten entsprechend.
 
 (4) (weggefallen)
 
-
 ### § 62 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -3573,17 +3447,12 @@ Gesetzes über Ordnungswidrigkeiten ist
 4.  in den Fällen des Absatzes 1 Nummer 3 Buchstabe d die Behörde nach §
     64e Nummer 2.
 
-
-
-
-
 ### § 63 Fachaufsicht
 
 Soweit Bundesbehörden Aufgaben nach diesem Gesetz wahrnehmen,
 unterliegen sie der Fachaufsicht des Bundesministeriums für Umwelt,
 Naturschutz und Reaktorsicherheit. Dies gilt nicht für die
 Fachaufsicht über die Bundesnetzagentur.
-
 
 ### § 63a Gebühren und Auslagen
 
@@ -3632,12 +3501,7 @@ Rechtsverordnungen sind ermächtigt
     im Zusammenhang mit der Begrenzung der EEG-Umlage nach den §§ 40 bis
     43\.
 
-
-
-
-
 ## Teil 7 - Verordnungsermächtigung, Erfahrungsbericht, Übergangsbestimmungen
-
 
 ### § 64 Verordnungsermächtigung zu Systemdienstleistungen
 
@@ -3688,13 +3552,6 @@ zumutbar ist:
 
     e)  bei der Nachrüstung von Altanlagen in bestehenden Windparks.
 
-
-
-
-
-
-
-
 ### § 64a Verordnungsermächtigung zur Stromerzeugung aus Biomasse
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
@@ -3724,7 +3581,6 @@ regeln,
 ohne Zustimmung des Bundesrates im Anwendungsbereich des § 27c Absatz
 1 Nummer 2 Anforderungen an ein Massenbilanzsystem zur Rückverfolgung
 von aus einem Erdgasnetz entnommenem Gas zu regeln.
-
 
 ### § 64b Verordnungsermächtigung zu Nachhaltigkeitsanforderungen für Biomasse
 
@@ -3797,10 +3653,6 @@ ohne Zustimmung des Bundesrates
     abweichend von § 63 bei dem Bundesministerium für Ernährung,
     Landwirtschaft und Verbraucherschutz.
 
-
-
-
-
 ### § 64c Verordnungsermächtigung zum Ausgleichsmechanismus
 
 Die Bundesregierung wird ermächtigt, zur Weiterentwicklung des
@@ -3866,10 +3718,6 @@ Zustimmung des Bundesrates zu regeln,
     Bundesnetzagentur, der Übermittlungs- und Veröffentlichungspflichten
     sowie der EEG-Umlage an den weiterentwickelten Ausgleichsmechanismus.
 
-
-
-
-
 ### § 64d Verordnungsermächtigung zu Herkunftsnachweisen
 
 Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
@@ -3933,10 +3781,6 @@ Bundesrates
     eine juristische Person des Privatrechts zu beleihen und hierzu die
     Einzelheiten, einschließlich der Rechts- und Fachaufsicht durch das
     Umweltbundesamt, zu regeln.
-
-
-
-
 
 ### § 64e Verordnungsermächtigung zum Anlagenregister
 
@@ -4023,13 +3867,6 @@ Bundesrates zu regeln:
         oder Nummer 3 direkt vermarkten, oder unter welchen Voraussetzungen §
         51 Absatz 2 nicht für Anlagenbetreiberinnen und Anlagenbetreiber gilt,
         die Strom in der Form nach § 33b Nummer 2 direkt vermarkten.
-
-
-
-
-
-
-
 
 ### § 64f Weitere Verordnungsermächtigungen
 
@@ -4170,10 +4007,6 @@ ohne Zustimmung des Bundesrates zu regeln:
 7.  ergänzend zu Anlage 3 Vorschriften zur Ermittlung und Anwendung des
     Referenzertrages.
 
-
-
-
-
 ### § 64g Verordnungsermächtigung zu Vergütungsbedingungen auf Konversionsflächen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -4187,7 +4020,6 @@ verbessern und hierbei insbesondere einen angemessenen Vergütungssatz
 ab einer installierten Leistung von mehr als 10 Megawatt für Anlagen
 auf geeigneten Flächen festzulegen. Zu diesem Zweck können in der
 Verordnung auch die geeigneten Flächen festgelegt werden.
-
 
 ### § 64h Gemeinsame Vorschriften für die Verordnungsermächtigungen
 
@@ -4217,13 +4049,11 @@ den §§ 64c, 64d, 64e und 64f Nummer 6 können, im Fall von §§ 64d und
 Rechtsverordnung auf eine Bundesoberbehörde übertragen werden. Absatz
 1 Satz 1 findet auf die Übertragung entsprechende Anwendung.
 
-
 ### § 65 Erfahrungsbericht
 
 Die Bundesregierung evaluiert dieses Gesetz und legt dem Bundestag bis
 zum 31. Dezember 2014 und dann alle vier Jahre einen Erfahrungsbericht
 vor.
-
 
 ### § 65a Monitoringbericht
 
@@ -4249,7 +4079,6 @@ Hinblick auf § 20b Absatz 9a über den erreichten und den weiteren
 Ausbau der Stromerzeugung aus solarer Strahlungsenergie legt die
 Bundesregierung rechtzeitig vor Erreichung des Gesamtausbauziels einen
 Vorschlag für eine Neugestaltung der bisherigen Regelung vor.
-
 
 ### § 66 Übergangsbestimmungen
 
@@ -4728,7 +4557,6 @@ in der am 31. Dezember 2011 geltenden Fassung entsprechend.
 1\. Januar 2011 fällig geworden sind oder erstmals als fällig gegolten
 haben.
 
-
 ### Anlage 1 Gasaufbereitungs-Bonus
 
 (Fundstelle: BGBl. I 2011, 1661; bzgl. einzelner Änderungen vgl.
@@ -4785,10 +4613,6 @@ Fußnote)
 
 
     Für Gasaufbereitungsanlagen gilt § 19 Absatz 1 Satz 1 entsprechend.
-
-
-
-
 
 ### Anlage 2 Erzeugung in Kraft-Wärme-Kopplung
 
@@ -4958,10 +4782,6 @@ vgl. Fußnote)
     2\.2, 3 und 4 gelten entsprechend; Nummer 2.2 gilt auch für den
     Nachweis des nach Satz 1 Buchstabe a und b geforderten Anteils der
     Nutzwärmenutzung.
-
-
-
-
 
 ### Anlage 3 Referenzertrag
 
@@ -5511,13 +5331,6 @@ vgl. Fußnote)
         Solar(a)                         “ auf einer gemeinsamen Internetseite
         in einheitlichem Format in nicht personenbezogener Form
         veröffentlichen.
-
-
-
-
-
-
-
 
 ### Anlage 5 Höhe der Flexibilitätsprämie
 

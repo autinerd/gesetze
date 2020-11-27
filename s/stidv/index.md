@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 55 G v. 22.12.2011 I 3044
 
-
 ## § 1 Zeitpunkt der Einführung, Aufbau
 
 Die Identifikationsnummer nach § 139b der Abgabenordnung wird zum 1.
 Juli 2007 eingeführt; sie besteht aus zehn Ziffern und einer
 Prüfziffer als elfter Ziffer.
-
 
 ## § 2 Form und Verfahren der Datenübermittlungen
 
@@ -55,7 +53,6 @@ Bundesmeldedatenübermittlungsverordnung) in der im Bundesanzeiger
 bekannt gemachten jeweils geltenden Fassung zu Grunde zu legen. Absatz
 1 Satz 2 und 3 gilt entsprechend, wenn zwischen dem Bundeszentralamt
 für Steuern und dem Empfänger darüber Einvernehmen besteht.
-
 
 ## § 3 Erstmalige Zuteilung der Identifikationsnummer nach § 139b Abs. 6 der Abgabenordnung
 
@@ -146,7 +143,6 @@ Identifikationsnummer. Die Identifikationsnummer ist der zuständigen
 Meldebehörde zusammen mit dem Vorläufigen Bearbeitungsmerkmal zur
 Speicherung im Melderegister unverzüglich mitzuteilen.
 
-
 ## § 4 Löschungsfrist
 
 Die beim Bundeszentralamt für Steuern nach § 139b Abs. 3 der
@@ -155,7 +151,6 @@ Erfüllung der gesetzlichen Aufgaben der Finanzbehörden nicht mehr
 erforderlich sind, spätestens jedoch 20 Jahre nach Ablauf des
 Kalenderjahres, in dem der Steuerpflichtige verstorben ist.
 
-
 ## § 5 Sicherheit und Funktionsfähigkeit des Verfahrens
 
 Das Bundeszentralamt für Steuern hat die Sicherheit und
@@ -163,7 +158,6 @@ Funktionsfähigkeit des Verfahrens zu gewährleisten. Anforderungen an
 die Sicherheit der elektronischen Übermittlung hat das
 Bundeszentralamt für Steuern im Benehmen mit dem Bundesamt für
 Sicherheit in der Informationstechnik festzulegen.
-
 
 ## § 6 Benachrichtigung des Betroffenen, Berichtigung unrichtiger Daten
 
@@ -178,7 +172,6 @@ Bundeszentralamt für Steuern mit. Einzelheiten des Verfahrens bestimmt
 das Bundesministerium der Finanzen im Einvernehmen mit den obersten
 Finanzbehörden der Länder durch ein im Bundessteuerblatt zu
 veröffentlichendes Schreiben.
-
 
 ## § 7 Erprobung des Verfahrens
 

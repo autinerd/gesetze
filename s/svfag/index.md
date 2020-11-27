@@ -20,53 +20,31 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 61 Abs. 3 Nr. 1 G v. 24.12.2003 I 2954
 
-
-
 ## Abschnitt I
-
-
 
 ### (XXXX) §§ 1 bis 7
 
-
-
 ## Abschnitt II
-
-
 
 ### (XXXX) §§ 8 u. 9
 
-
-
 ## Abschnitt III - Freiwillige Sozialversicherung
-
-
 
 ### § 10
 
 (weggefallen)
 
-
 ### (XXXX) §§ 11 u. 12
-
-
 
 ## Abschnitt IV
 
-
-
 ### (XXXX) §§ 13 bis 16
 
-
-
 ## Abschnitt V - Übergangs- und Schlußvorschriften
-
-
 
 ### § 17
 
 -
-
 
 ### § 18
 
@@ -74,11 +52,9 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin. ...
 
-
 ### § 19
 
 -
-
 
 ### § 20
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 998
 
-
 ## Eingangsformel
 
 Auf Grund des § 15b Absatz 2 Satz 2 des BDBOS-Gesetzes, der durch
@@ -26,14 +25,12 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern im Einvernehmen mit dem
 Bundesministerium der Finanzen:
 
-
 ## § 1 Gebühren
 
 Die Bundesanstalt für den Digitalfunk der Behörden und Organisationen
 mit Sicherheitsaufgaben (BDBOS) erhebt für die in § 15a des BDBOS-
 Gesetzes genannten Amtshandlungen Gebühren nach dem anliegenden
 Gebührenverzeichnis.
-
 
 ## § 2 Inkrafttreten
 
@@ -45,7 +42,6 @@ Maßgabe dieser Verordnung erhoben werden, soweit bei den
 Amtshandlungen unter Hinweis auf das bevorstehende Inkrafttreten
 dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten
 ist.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

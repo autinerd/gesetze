@@ -18,16 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 28.7.2011 I 1634
 
-
 ## Eingangsformel
 
 Auf Grund des § 64 Absatz 1 Satz 1 Nummer 1 des Erneuerbare-Energien-
 Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) verordnet die
 Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -41,12 +38,7 @@ Diese Verordnung regelt
     1 Nummer 8 des Erneuerbare-Energien-Gesetzes und wie der Nachweis zu
     führen ist.
 
-
-
-
-
 ## Teil 2 - Neue Windenergieanlagen
-
 
 ### § 2 Anschluss an das Mittelspannungsnetz
 
@@ -71,7 +63,6 @@ während eines Netzfehlers die Netzspannung durch Einspeisung eines
 Blindstroms in das Netz gemäß Nummer II.12.d und Nummer II.12.e der
 Anlage 1 sichergestellt werden muss.
 
-
 ### § 3 Anschluss an das Hoch- und Höchstspannungsnetz
 
 Betreiberinnen und Betreiber von Windenergieanlagen nach § 29 und § 30
@@ -83,7 +74,6 @@ Anforderungen des „TransmissionCodes 2007 – Netz- und Systemregeln der
 deutschen Übertragungsnetzbetreiber“, Ausgabe Version 1.1 August 2007
 (TransmissionCode 2007) (BAnz. Nr. 67a vom 6. Mai 2009) nach Maßgabe
 der Anlage 1 erfüllen.
-
 
 ### § 4 Anschluss verschiedener Anlagen an einem Netzverknüpfungspunkt
 
@@ -103,12 +93,7 @@ der folgenden Anforderungen erfüllt werden:
     Unterspannungsseite des Maschinentransformators oder einem in der
     Wirkung vergleichbaren Bezugspunkt.
 
-
-
-
-
 ## Teil 3 - Alte Windenergieanlagen
-
 
 ### § 5 Voraussetzungen für den Systemdienstleistungs-Bonus
 
@@ -121,9 +106,7 @@ Anlage 3 festgelegten Anforderungen am Netzverknüpfungspunkt oder an
 einem anderen zwischen Netzverknüpfungspunkt und Windenergieanlage
 gelegenen Punkt erfüllen.
 
-
 ## Teil 4 - Nachweis und Schlussbestimmungen
-
 
 ### § 6 Zertifikate, Sachverständigengutachten und Prototypen
 
@@ -182,7 +165,6 @@ Netzverknüpfungspunkt gilt für die Zuordnung des
 Systemdienstleistungs-Bonus § 19 Absatz 3 des Erneuerbare-Energien-
 Gesetzes entsprechend.
 
-
 ### § 8 Übergangsbestimmungen
 
 (1) Für Strom aus Anlagen, die vor dem 1. Januar 2012 in Betrieb
@@ -193,11 +175,9 @@ Fassung anzuwenden.
 (2) Absatz 1 ist nicht auf Anlagen im Sinne des § 66 Absatz 1 Nummer 8
 des Erneuerbare-Energien-Gesetzes anzuwenden.
 
-
 ### § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1
 
@@ -1104,7 +1084,6 @@ vb             , wenn eine erweiterte
 Windenergie-Erzeugungsanlage              sowohl aus neu errichteten
 als auch aus alten
 Windenergie-Erzeugungseinheiten              besteht:
-
 
 ### Anlage 3
 

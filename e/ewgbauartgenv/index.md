@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 2023
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Satz 1 Nr. 3 Buchstabe b und Satz 2 des
@@ -25,7 +23,6 @@ Dezember 1952 (Bundesgesetzbl. I S. 837), zuletzt geändert durch das
 Gesetz über das Fahrpersonal im Straßenverkehr vom 30. März 1971
 (Bundesgesetzbl. I S. 277), wird nach Anhören der zuständigen obersten
 Landesbehörden verordnet:
-
 
 ## § 1 EWG-Bauartgenehmigungen
 
@@ -42,7 +39,6 @@ zuletzt geändert durch die Verordnung vom
 entsprechend, soweit die Verordnung (EWG) Nr. 1463/70 nichts anderes
 bestimmt.
 
-
 ## § 2 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -50,11 +46,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Abs. 2 des Kostenermächtigungs-Änderungsgesetzes vom 23. Juni 1970
 (Bundesgesetzbl. I S. 805) auch im Land Berlin.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

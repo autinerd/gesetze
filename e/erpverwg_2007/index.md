@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1160
 
-
-
 ## § 1 Verwalter des Sondervermögens
 
 Das Bundesministerium für Wirtschaft und Technologie verwaltet die in
@@ -27,7 +25,6 @@ von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949
 Deutschland als Sondervermögen des Bundes unter der Bezeichnung "ERP-
 Sondervermögen".
 
-
 ## § 2 Zweckbestimmung
 
 Das Sondervermögen dient der Förderung der deutschen Wirtschaft nach
@@ -35,13 +32,11 @@ Maßgabe der Bestimmungen des Abkommens über Wirtschaftliche
 Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der
 Bundesrepublik Deutschland vom 15. Dezember 1949 (BGBl. 1950 S. 10).
 
-
 ## § 3 Rechtsgeschäftlicher Verkehr
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
 im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
 Der allgemeine Gerichtsstand des Sondervermögens ist Berlin.
-
 
 ## § 4 Getrennte Vermögensverwaltung
 
@@ -51,12 +46,10 @@ Rechten und Verbindlichkeiten getrennt zu halten.
 (2) Der Bund haftet für die Verbindlichkeiten des Sondervermögens;
 dieses haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
-
 ## § 5 Substanzerhaltungsgebot
 
 Das Sondervermögen soll in seinem Bestand erhalten bleiben. Es ist
 nach wirtschaftlichen Grundsätzen zu verwalten.
-
 
 ## § 6 Kapitalanlagen in der Kreditanstalt für Wiederaufbau
 
@@ -105,7 +98,6 @@ f)  Verzicht der Kreditanstalt für Wiederaufbau auf Eigenkapitalkosten,
 (3) Der Vertrag nach Absatz 2 sowie seine Änderungen und Ergänzungen
 stehen unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.
 
-
 ## § 7 Fördertätigkeit
 
 (1) Im Rahmen der Zweckbestimmung können Fördermaßnahmen durchgeführt
@@ -121,7 +113,6 @@ für Wiederaufbau dem Sondervermögen nach Maßgabe der Ermächtigung im
 jährlichen Gesetz über den Wirtschaftsplan vorübergehend verzinsliche
 rückzahlbare Mittel bereitstellen. Kredite am Kapitalmarkt darf das
 Sondervermögen nicht aufnehmen.
-
 
 ## § 8 Wirtschaftsplan
 
@@ -153,7 +144,6 @@ Einnahmen entsprechend erhöhen.
 Ausgabemittel sind insoweit übertragbar, als die tatsächlich
 aufgekommenen Einnahmen nicht verwendet sind.
 
-
 ## § 9 Durchführung der Wirtschaftsförderung
 
 (1) Der Wirtschaftsplan wird durch das Bundesministerium für
@@ -177,12 +167,10 @@ worden ist.
 Deutschen Bundestag nach Abschluss des Förderjahres über die Umsetzung
 des Wirtschaftsplans berichten.
 
-
 ## § 10 Kosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt das
 Sondervermögen, soweit sie nicht vom Bund getragen werden.
-
 
 ## § 11 Jahresabschluss
 
@@ -197,7 +185,6 @@ Rahmen des jährlichen Gesetzes über den Wirtschaftsplan zu
 veröffentlichen.
 
 (3) Die Prüfungsrechte des Bundesrechnungshofs bleiben unberührt.
-
 
 ## § 12 Prüfungsrechte des Sondervermögens
 

@@ -22,21 +22,15 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 43 G v. 22.12.2011 I 3044
 
-
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung
 
-
-
 ### Erster Abschnitt - Zulassungsvoraussetzungen
-
-
 
 #### § 1 Rechtsgrundlage des Emittenten
 
 Die Gründung sowie die Satzung oder der Gesellschaftsvertrag des
 Emittenten müssen dem Recht des Staates entsprechen, in dem der
 Emittent seinen Sitz hat.
-
 
 #### § 2 Mindestbetrag der Wertpapiere
 
@@ -58,7 +52,6 @@ vorstehenden Absätzen vorgeschrieben zulassen, wenn sie überzeugt ist,
 daß sich für die zuzulassenden Wertpapiere ein ausreichender Markt
 bilden wird.
 
-
 #### § 3 Dauer des Bestehens des Emittenten
 
 (1) Der Emittent zuzulassender Aktien muß mindestens drei Jahre als
@@ -69,13 +62,11 @@ geltenden Vorschriften offengelegt haben.
 (2) Die Geschäftsführung kann abweichend von Absatz 1 Aktien zulassen,
 wenn dies im Interesse des Emittenten und des Publikums liegt.
 
-
 #### § 4 Rechtsgrundlage der Wertpapiere
 
 Die Wertpapiere müssen in Übereinstimmung mit dem für den Emittenten
 geltenden Recht ausgegeben werden und den für das Wertpapier geltenden
 Vorschriften entsprechen.
-
 
 #### § 5 Handelbarkeit der Wertpapiere
 
@@ -94,17 +85,12 @@ Vorschriften entsprechen.
 2.  Aktien, deren Erwerb einer Zustimmung bedarf, zulassen, wenn das
     Zustimmungserfordernis nicht zu einer Störung des Börsenhandels führt.
 
-
-
-
-
 #### § 6 Stückelung der Wertpapiere
 
 Die Stückelung der Wertpapiere, insbesondere die kleinste Stückelung
 und die Anzahl der in dieser Stückelung ausgegebenen Wertpapiere,
 müssen den Bedürfnissen des Börsenhandels und des Publikums Rechnung
 tragen.
-
 
 #### § 7 Zulassung von Wertpapieren einer Gattung oder einer Emission
 
@@ -123,7 +109,6 @@ Publikum auf andere geeignete Weise zu unterrichten.
 (2) Der Antrag auf Zulassung von anderen Wertpapieren als Aktien muß
 sich auf alle Wertpapiere derselben Emission beziehen.
 
-
 #### § 8 Druckausstattung der Wertpapiere
 
 (1) Die Druckausstattung der Wertpapiere in ausgedruckten
@@ -139,7 +124,6 @@ Druckausstattung der Wertpapiere gelten.
 Schutz vor Fälschung, so ist in dem Prospekt hierauf hinzuweisen; ist
 ein Prospekt nicht zu veröffentlichen, so ist das Publikum auf andere
 geeignete Weise zu unterrichten.
-
 
 #### § 9 Streuung der Aktien
 
@@ -176,10 +160,6 @@ niedrigeren Vomhundertsatz gewährleistet ist.
     Publikum derjenigen Staaten erreicht ist, in denen diese Aktien
     zugelassen sind.
 
-
-
-
-
 #### § 10 Emittenten aus Drittstaaten
 
 Aktien eines Emittenten mit Sitz in einem Staat außerhalb der
@@ -191,7 +171,6 @@ des Wertpapierhandelsgesetzes vergleichbar ist, zum Handel zugelassen
 sind, dürfen nur zugelassen werden, wenn glaubhaft gemacht wird, daß
 die Zulassung in diesen Staaten nicht aus Gründen des Schutzes des
 Publikums unterblieben ist.
-
 
 #### § 11 Zulassung von Wertpapieren mit Umtausch- oder Bezugsrecht
 
@@ -208,7 +187,6 @@ Bezugsrecht bezieht, zum Handel an einem organisierten Markt
 zugelassen sind und wenn sich das Publikum im Inland regelmäßig über
 die Kurse unterrichten kann, die sich an dem Markt im Ausland im
 Handel in diesen Wertpapieren bilden.
-
 
 #### § 12 Zulassung von Zertifikaten, die Aktien vertreten
 
@@ -240,14 +218,9 @@ der mit einem organisierten Markt vergleichbar ist, zugelassen, so ist
 glaubhaft zu machen, daß die Zulassung nicht aus Gründen des Schutzes
 des Publikums unterblieben ist.
 
-
 #### (XXXX) §§ 13 bis 47 (weggefallen)
 
-
-
 ### Dritter Abschnitt - Zulassungsverfahren
-
-
 
 #### § 48 Zulassungsantrag
 
@@ -307,10 +280,6 @@ Verlangen insbesondere vorzulegen
 8.  im Falle des § 3 Abs. 2 die Berichte über die Gründung und deren
     Prüfung (§ 32 Abs. 1, § 34 Abs. 2 des Aktiengesetzes).
 
-
-
-
-
 #### § 48a Veröffentlichung eines Basisprospekts
 
 Schuldverschreibungen, die gleichzeitig mit ihrer öffentlichen ersten
@@ -325,11 +294,9 @@ endgültigen Bedingungen müssen vor der Einführung der
 Schuldverschreibungen nach § 6 Abs. 3 des Wertpapierprospektgesetzes
 veröffentlicht werden.
 
-
 #### § 49 (weggefallen)
 
 -
-
 
 #### § 50 Zeitpunkt der Zulassung
 
@@ -337,12 +304,10 @@ Die Zulassung darf frühestens an dem auf das Datum der Einreichung des
 Zulassungsantrags bei der Geschäftsführung folgenden Handelstag
 erfolgen.
 
-
 #### § 51 Veröffentlichung der Zulassung
 
 Die Zulassung wird von der Geschäftsführung auf Kosten der
 Antragsteller im Bundesanzeiger veröffentlicht.
-
 
 #### § 52 Einführung
 
@@ -351,31 +316,19 @@ Veröffentlichung des Prospekts oder, wenn kein Prospekt zu
 veröffentlichen ist, an dem der Veröffentlichung der Zulassung
 folgenden Werktag erfolgen.
 
-
 ## Zweites Kapitel - Pflichten des Emittenten zugelassener Wertpapiere
-
-
 
 ### Erster Abschnitt - (weggefallen)
 
-
-
 #### (XXXX) §§ 53 bis 62 (weggefallen)
-
-
 
 ### Zweiter Abschnitt - Sonstige Pflichten
 
-
-
 #### (XXXX) §§ 63 bis 67 (weggefallen)
-
-
 
 #### § 68
 
 (weggefallen)
-
 
 #### § 69 Zulassung später ausgegebener Aktien
 
@@ -395,20 +348,15 @@ Zulassung unter Beachtung der in § 14 Abs. 1 des
 Wertpapierprospektgesetzes für die Prospektveröffentlichung bestimmten
 Fristen zu stellen.
 
-
 #### § 70 (weggefallen)
 
 -
 
-
 ## Drittes Kapitel - Schlussvorschriften
-
-
 
 ### § 71 (weggefallen)
 
 -
-
 
 ### § 72 Allgemeine Bestimmungen über Jahresabschlüsse
 
@@ -445,7 +393,6 @@ Satz 1 Nr. 4 in Verbindung mit Nr. 1 treten. Entsprechendes gilt für
 die Zusammenfassung eines Einzelabschlusses und für den
 Bestätigungsvermerk dazu.
 
-
 ### § 72a Übergangsvorschrift
 
 (1) Für Schuldverschreibungen, für die ein Prospekt nach § 44 dieser
@@ -461,11 +408,9 @@ ausgegebene Aktien, die noch nicht zugelassen sind, der Antrag auf
 Zulassung nach § 69 Abs. 1 zum regulierten Markt spätestens bis zum
 31\. Oktober 2009 zu stellen. § 69 Abs. 1 Satz 2 bleibt unberührt.
 
-
 ### § 73
 
 (Inkrafttreten)
-
 
 ### Anlage (weggefallen)
 

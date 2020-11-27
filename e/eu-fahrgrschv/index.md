@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2571
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Satz 1 Nummer 2 und 4 und des § 9 Absatz 4 des EU-
 Fahrgastrechte-Schifffahrt-Gesetzes vom 5. Dezember 2012 (BGBl. I S.
 2454) verordnet das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -34,12 +32,10 @@ Diese Verordnung dient der Durchführung der Verordnung (EU) Nr.
 S. 1) sowie der Ausführung des EU-Fahrgastrechte-Schifffahrt-Gesetzes
 vom 5. Dezember 2012 (BGBl. I S. 2454).
 
-
 ## § 2 Subsidiäre Beschwerde
 
 Beschwerden nach Artikel 24 Absatz 2 der Verordnung (EU) Nr. 1177/2010
 sind zunächst unmittelbar beim Beförderer einzureichen.
-
 
 ## § 3 Berichterstattung
 
@@ -70,7 +66,6 @@ Angaben:
 (2) Die erstmalige Veröffentlichung von Angaben nach Absatz 1 erfolgt
 nach Maßgabe der Verordnung (EU) Nr. 1177/2010 am 1. Juni 2015 und
 danach jeweils im Zweijahresrhythmus.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -158,7 +153,6 @@ S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Eisenbahn-Bundesamt.
-
 
 ## § 5 Inkrafttreten
 

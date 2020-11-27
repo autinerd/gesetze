@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 25.4.2007 I 594
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung
@@ -27,10 +26,7 @@ Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember
 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## 1. Abschnitt - Liefer- und Bezugsbeschränkungen für Kraftstoffe
-
-
 
 ### § 1 Liefer- und Bezugsbeschränkungen
 
@@ -52,13 +48,11 @@ Endverbrauchs bezieht.
 
 (4) Kraftstoffe sind Benzin (Ottokraftstoff) und Dieselkraftstoff.
 
-
 ### § 2 Beginn der Liefer- und Bezugsbeschränkungen
 
 Der Beginn der Liefer- und Bezugsbeschränkungen wird durch Verordnung
 bestimmt. Er kann für Benzin und Dieselkraftstoff unterschiedlich
 sein.
-
 
 ### § 3 Geltungsdauer von Bezugscheinen
 
@@ -69,10 +63,7 @@ Versorgungsperiode weitergelten.
 
 (2) Die Versorgungsperioden werden durch Verordnung bestimmt.
 
-
 ## 2. Abschnitt - Zuteilung von Bezugscheinen auf Antrag für bestimmten Bedarf
-
-
 
 ### § 4 Bedarf, für den Bezugscheine zugeteilt werden
 
@@ -154,16 +145,11 @@ berücksichtigenden Bedarf können Bezugscheine nur zugeteilt werden,
 4.  wenn auf Grund außergewöhnlicher Umstände ein dringender, anders nicht
     zu deckender Bedarf zur Erfüllung öffentlicher Aufgaben entsteht.
 
-
-
-
-
 ### § 5 Zuteilungskürzungen durch Verordnung
 
 Die sich nach § 4 ergebende Menge an Kraftstoff kann für die in § 4
 Abs. 1 genannten Zwecke durch Verordnung gekürzt oder auf andere Weise
 kontingentiert werden.
-
 
 ### § 6 Antragsberechtigte
 
@@ -179,10 +165,7 @@ Maschinen oder Motoren sind antragsberechtigt nur, wenn die Fahrzeuge,
 Maschinen oder Motoren im Geltungsbereich dieser Verordnung betrieben
 werden.
 
-
 ## 3. Abschnitt - Verfahrensvorschriften zu den §§ 4 bis 6
-
-
 
 ### § 7 Anträge von Privatpersonen
 
@@ -199,7 +182,6 @@ gesonderter Vordruck zu verwenden.
 vorgesehenen Bestätigungen nachzuweisen. Sind solche Bestätigungen
 nicht vorgesehen oder können sie nicht erlangt werden, so sind die
 Voraussetzungen glaubhaft zu machen.
-
 
 ### § 8 Anträge von Gewerbetreibenden, Landwirten, freiberuflich Tätigen sowie für sonstigen beruflichen Bedarf
 
@@ -226,14 +208,12 @@ ihr betrieben werden. Entsprechendes gilt für im Handelsregister
 eingetragene Zweigniederlassungen der Gesellschaften der freien
 Berufe.
 
-
 ### § 9 Anträge der öffentlichen Hand
 
 Bund, Länder, Gemeinden (Gemeindeverbände) und sonstige juristische
 Personen des öffentlichen Rechts haben Bezugscheine für den zur
 Erfüllung ihrer öffentlichen Aufgaben erforderlichen Kraftstoffbedarf
 auf Vordrucken nach dem Muster der Anlage 3 zu beantragen.
-
 
 ### § 10 Antragszeiträume
 
@@ -250,7 +230,6 @@ zugrunde legen.
 Kraftstoffbedarf vermindern, der zuständigen Stelle unverzüglich
 mitzuteilen. Sie sind bei der Zuteilung für die folgenden
 Versorgungsperioden zu berücksichtigen.
-
 
 ### § 11 Vorabausgabe von Bezugscheinen
 
@@ -294,10 +273,7 @@ wird sie ihm bei der Zuteilung für die zweite Versorgungsperiode
 abgezogen, wenn er die zuviel erhaltenen Bezugscheine nicht der
 zuständigen Stelle zurückgegeben hat.
 
-
 ## 4. Abschnitt - Ausgabe von Bezugscheinen unabhängig vom Bedarf
-
-
 
 ### § 12 Grundmenge für Kraftfahrzeuge
 
@@ -308,7 +284,6 @@ werden.
 
 (2) Durch Verordnung kann bestimmt werden, daß die Grundmengen auf den
 Bedarf für die in § 4 Abs. 1 bezeichneten Zwecke anzurechnen sind.
-
 
 ### § 13 Ausgabe von Bezugscheinen über die Grundmenge
 
@@ -321,13 +296,7 @@ Bezugscheine über die Grundmenge werden ausgegeben
 
 2.  gegen Empfangsbestätigung.
 
-
-
-
-
 ## 5. Abschnitt - Zuständigkeiten
-
-
 
 ### § 14 Zuständige Stellen
 
@@ -357,10 +326,7 @@ Rechtsverordnung gemäß § 3 des vorgenannten Gesetzes verpflichtet
 sind, erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
 Technologie. Absatz 2 Satz 2 gilt entsprechend.
 
-
 ## 6. Abschnitt - Zuteilung von Kraftstoff für auswärtige Kraftfahrzeuge sowie in sonstigen besonderen Fällen
-
-
 
 ### § 15 Zuteilung für außerhalb des Geltungsbereichs dieser Verordnung zugelassene Kraftfahrzeuge
 
@@ -369,7 +335,6 @@ beheimatete Kraftfahrzeuge können im Rahmen der verfügbaren
 Kraftstoffmengen auf Antrag Bezugscheine zugeteilt werden.
 Antragsberechtigung sowie die Voraussetzungen für die Zuteilung und
 deren Höhe werden durch Verordnung geregelt.
-
 
 ### § 16 Bezugscheine für Vertretungen anderer Staaten, internationale Organisationen und verbündete Streitkräfte
 
@@ -403,17 +368,13 @@ militärischen Hauptquartieren die Bezugscheine auf Antrag zu.
 (4) In Anträgen nach Absatz 3 ist der geltend gemachte
 Kraftstoffbedarf glaubhaft zu machen.
 
-
 ## 7. Abschnitt - Vorschriften für Kraftstoffhändler
-
-
 
 ### § 17 Lieferpflicht
 
 Kraftstoffhändler, die an einer Tankstelle Kraftstoff abgeben, sind
 verpflichtet, Abnehmern Kraftstoff gegen Bezugscheine zu liefern,
 soweit sie über Vorräte verfügen.
-
 
 ### § 18 Ablieferung von Bezugscheinen
 
@@ -424,7 +385,6 @@ Abstempelung entwertet bei den zuständigen Stellen abzuliefern.
 (2) Diese stellen den Kraftstoffhändlern einen Berechtigungsschein
 über die Kraftstoffmenge aus, die sich aus den abgelieferten
 Bezugscheinen ergibt.
-
 
 ### § 19 Abgabe und Bezug von Kraftstoff zwischen Kraftstoffhändlern
 
@@ -459,10 +419,7 @@ Hersteller von Kraftstoff untereinander. Diese haben die
 Berechtigungsscheine und Quittungen aus einer Versorgungsperiode nach
 deren Ablauf noch 12 Monate aufzubewahren.
 
-
 ## 8. Abschnitt - Ordnungswidrigkeiten
-
-
 
 ### § 20 Ordnungswidrigkeiten
 
@@ -497,18 +454,11 @@ fahrlässig
 7.  entgegen § 19 Abs. 3 Satz 2 einen Berechtigungsschein oder eine
     Quittung nicht aufbewahrt.
 
-
-
-
-
 ## 9. Abschnitt - Schlußvorschriften
-
-
 
 ### § 21 (weggefallen)
 
 -
-
 
 ### § 22 Inkrafttreten
 
@@ -523,10 +473,6 @@ fahrlässig
 
 2.  der Erlaß einer Verordnung nach dem Energiesicherungsgesetz 1975, die
     diese Verordnung ergänzt.
-
-
-
-
 
 ### Anlage 1
 
@@ -2046,12 +1992,6 @@ fahrlässig
         *   (Unterschrift)
 
         *
-
-
-
-
-
-
 
 ### Anlage 2
 
@@ -4357,8 +4297,6 @@ fahrlässig
     *
     *
     *
-
-
 
 ### Anlage 3
 

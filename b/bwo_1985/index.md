@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 3.12.2008 I 2378
 
-
 ## Erster Abschnitt - Wahlorgane
-
-
 
 ### § 1 Bundeswahlleiter
 
@@ -34,7 +31,6 @@ Bundeswahlleiters und seines Stellvertreters sowie die Anschriften
 ihrer Dienststellen mit Telekommunikationsanschlüssen öffentlich
 bekannt.
 
-
 ### § 2 Landeswahlleiter
 
 Der Landeswahlleiter und sein Stellvertreter werden auf unbestimmte
@@ -42,7 +38,6 @@ Zeit ernannt. Die ernennende Stelle teilt die Namen des
 Landeswahlleiters und seines Stellvertreters sowie die Anschriften
 ihrer Dienststellen mit Telekommunikationsanschlüssen dem
 Bundeswahlleiter mit und macht sie öffentlich bekannt.
-
 
 ### § 3 Kreiswahlleiter
 
@@ -55,7 +50,6 @@ dem Landeswahlleiter und dem Bundeswahlleiter mit und macht sie
 
 (2) Die Kreiswahlleiter und deren Stellvertreter üben ihr Amt auch
 nach der Hauptwahl, längstens bis zum Ablauf der Wahlperiode, aus.
-
 
 ### § 4 Bildung der Wahlausschüsse
 
@@ -75,7 +69,6 @@ vorgeschlagenen Wahlberechtigten berufen werden.
 
 (3) Die Wahlausschüsse bestehen auch nach der Hauptwahl, längstens bis
 zum Ablauf der Wahlperiode, fort.
-
 
 ### § 5 Tätigkeit der Wahlausschüsse
 
@@ -104,7 +97,6 @@ stören, aus dem Sitzungsraum zu verweisen.
 (7) Über jede Sitzung ist vom Schriftführer eine Niederschrift zu
 fertigen; sie ist vom Vorsitzenden, von den Beisitzern und vom
 Schriftführer zu unterzeichnen.
-
 
 ### § 6 Wahlvorsteher und Wahlvorstand
 
@@ -158,7 +150,6 @@ Absatz 3 auf ihre Verpflichtung hinzuweisen.
 
 (10) Bei Bedarf stellt die Gemeindebehörde dem Wahlvorstand die
 erforderlichen Hilfskräfte zu Verfügung.
-
 
 ### § 7 Briefwahlvorsteher und Briefwahlvorstand
 
@@ -216,10 +207,6 @@ entsprechend mit folgenden Maßgaben:
     Mitglieder, darunter jeweils der Wahlvorsteher und der Schriftführer
     oder ihre Stellvertreter, anwesend sind.
 
-
-
-
-
 ### § 8 Beweglicher Wahlvorstand
 
 Für die Stimmabgabe in kleineren Krankenhäusern, kleineren Alten- oder
@@ -231,7 +218,6 @@ oder seinem Stellvertreter und zwei Beisitzern des Wahlvorstandes. Die
 Gemeindebehörde kann jedoch auch den beweglichen Wahlvorstand eines
 anderen Wahlbezirks der Gemeinde mit der Entgegennahme der Stimmzettel
 beauftragen.
-
 
 ### § 9 Ehrenämter
 
@@ -256,10 +242,6 @@ Die Übernahme eines Wahlehrenamtes können ablehnen
     einem sonstigen wichtigen Grunde gehindert sind, das Amt ordnungsmäßig
     auszuüben.
 
-
-
-
-
 ### § 10 Auslagenersatz für Inhaber von Wahlämtern, Erfrischungsgeld
 
 (1) Wahlleiter, Beisitzer der Wahlausschüsse und Mitglieder der
@@ -274,7 +256,6 @@ Absatz 1 anzurechnen ist, kann gewährt werden den Mitgliedern der
 Wahlausschüsse für die Teilnahme an einer nach § 5 einberufenen
 Sitzung und den Mitgliedern der Wahlvorstände für den Wahltag.
 
-
 ### § 11 Geldbußen
 
 Geldbußen nach § 49a Abs. 1 Nr. 1 des Bundeswahlgesetzes fließen in
@@ -282,14 +263,9 @@ die Kasse der Gemeinde, in der der Betroffene in das Wählerverzeichnis
 einzutragen ist, Geldbußen nach § 49a Abs. 1 Nr. 2 des
 Bundeswahlgesetzes in die Kasse des Bundes.
 
-
 ## Zweiter Abschnitt - Vorbereitung der Wahl
 
-
-
 ### Erster Unterabschnitt - Wahlbezirke
-
-
 
 #### § 12 Allgemeine Wahlbezirke
 
@@ -317,7 +293,6 @@ benachbarten Gemeinden oder Teilen von Gemeinden eines anderen
 Verwaltungsbezirks zu einem Wahlbezirk vereinigen. Dabei bestimmt er,
 welche Gemeinde die Wahl durchführt.
 
-
 #### § 13 Sonderwahlbezirke
 
 (1) Für Krankenhäuser, Altenheime, Altenwohnheime, Pflegeheime,
@@ -332,10 +307,7 @@ zusammengefasst werden.
 
 (3) Wird ein Sonderwahlbezirk nicht gebildet, gilt § 8 entsprechend.
 
-
 ### Zweiter Unterabschnitt - Wählerverzeichnis
-
-
 
 #### § 14 Führung des Wählerverzeichnisses
 
@@ -359,11 +331,9 @@ diese vor Wahlen rechtzeitig angelegt werden können.
 Gemeinden, so legt jede Gemeindebehörde das Wählerverzeichnis für
 ihren Teil des Wahlbezirks an.
 
-
 #### § 15
 
 (weggefallen)
-
 
 #### § 16 Eintragung der Wahlberechtigten in das Wählerverzeichnis
 
@@ -474,7 +444,6 @@ Notwendigkeit der Unterrichtung der betroffenen Personen hinzuweisen,
 wenn nach dem Landesmelderecht eine Meldepflicht für die sich in den
 Einrichtungen aufhaltenden Personen nicht besteht.
 
-
 #### § 17 Zuständigkeiten für die Eintragung in das Wählerverzeichnis
 
 (1) Zuständig für die Eintragung in das Wählerverzeichnis ist in den
@@ -544,10 +513,6 @@ Fällen des
 
 3.  § 16 Abs. 5 die Gemeinde der neuen Hauptwohnung.
 
-
-
-
-
 #### § 18 Verfahren für die Eintragung in das Wählerverzeichnis auf Antrag
 
 (1) Der Antrag auf Eintragung in das Wählerverzeichnis ist schriftlich
@@ -606,7 +571,6 @@ der Anmeldung darüber zu belehren. Die Gemeindebehörde hat den
 Bundeswahlleiter unverzüglich von der Eintragung eines solchen
 Wahlberechtigten in das Wählerverzeichnis zu unterrichten. Absatz 5
 Satz 5 und 6 gilt entsprechend.
-
 
 #### § 19 Benachrichtigung der Wahlberechtigten
 
@@ -687,7 +651,6 @@ das betroffene Gebiet, die von ihm für den Einzelfall getroffenen
 Regelungen und die Art der Benachrichtigung in geeigneter Weise
 bekannt.
 
-
 #### § 20 Bekanntmachung über das Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen
 
 (1) Die Gemeindebehörde macht spätestens am 24. Tage vor der Wahl nach
@@ -744,7 +707,6 @@ so ist sie durch Aushang im Dienstgebäude der Vertretung und, soweit
 möglich, durch Unterrichtung der einzelnen bekannten Betroffenen
 vorzunehmen.
 
-
 #### § 21 Einsicht in das Wählerverzeichnis
 
 (1) Die Gemeindebehörde hält das Wählerverzeichnis mindestens am Ort
@@ -762,7 +724,6 @@ dem Wählerverzeichnis durch Wahlberechtigte zulässig, soweit dies im
 Zusammenhang mit der Prüfung des Wahlrechts einzelner bestimmter
 Personen steht. Die Auszüge dürfen nur für diesen Zweck verwendet und
 unbeteiligten Dritten nicht zugänglich gemacht werden.
-
 
 #### § 22 Einspruch gegen das Wählerverzeichnis und Beschwerde
 
@@ -798,7 +759,6 @@ Beschwerdeentscheidung ist den Beteiligten und der Gemeindebehörde
 bekannt zu geben. Sie ist vorbehaltlich anderer Entscheidung im
 Wahlprüfungsverfahren endgültig.
 
-
 #### § 23 Berichtigung des Wählerverzeichnisses
 
 (1) Nach Beginn der Einsichtsfrist ist die Eintragung oder Streichung
@@ -826,7 +786,6 @@ verantwortlichen Bediensteten zu versehen.
 Ausnahme der in Absatz 2 und in § 53 Abs. 2 vorgesehenen
 Berichtigungen nicht mehr vorgenommen werden.
 
-
 #### § 24 Abschluss des Wählerverzeichnisses
 
 (1) Das Wählerverzeichnis ist spätestens am Tage vor der Wahl, jedoch
@@ -842,10 +801,7 @@ einem Wahlbezirk vereinigt sind, werden von der Gemeindebehörde, die
 die Wahl im Wahlbezirk durchführt, zum Wählerverzeichnis des
 Wahlbezirks verbunden und abgeschlossen.
 
-
 ### Dritter Unterabschnitt - Wahlscheine
-
-
 
 #### § 25 Voraussetzungen für die Erteilung von Wahlscheinen
 
@@ -867,16 +823,11 @@ eingetragen ist, erhält auf Antrag einen Wahlschein,
     Feststellung erst nach Abschluss des Wählerverzeichnisses zur Kenntnis
     der Gemeindebehörde gelangt ist.
 
-
-
-
-
 #### § 26 Zuständige Behörde, Form des Wahlscheines
 
 Der Wahlschein wird nach dem Muster der Anlage 9 von der
 Gemeindebehörde erteilt, in deren Wählerverzeichnis der
 Wahlberechtigte eingetragen ist oder hätte eingetragen werden müssen.
-
 
 #### § 27 Wahlscheinanträge
 
@@ -911,7 +862,6 @@ Wahlberechtigte will vor dem Wahlvorstand seines Wahlbezirks wählen.
 (6) Verspätet eingegangene schriftliche Anträge sind unbearbeitet mit
 den dazugehörigen Briefumschlägen zu verpacken und vorläufig
 aufzubewahren.
-
 
 #### § 28 Erteilung von Wahlscheinen
 
@@ -1024,7 +974,6 @@ zugegangen ist, kann ihm bis zum Tage vor der Wahl, 12.00 Uhr, ein
 neuer Wahlschein erteilt werden; Absatz 8 Satz 1 bis 3 und Absatz 9
 gelten entsprechend.
 
-
 #### § 29 Erteilung von Wahlscheinen an bestimmte Personengruppen
 
 (1) Die Gemeindebehörde fordert spätestens am achten Tage vor der Wahl
@@ -1073,13 +1022,11 @@ spätestens am 13. Tage vor der Wahl,
 die Truppenteile, die ihren Standort im Gemeindegebiet haben, die
 wahlberechtigten Soldaten entsprechend Absatz 2 Nr. 2 zu verständigen.
 
-
 #### § 30 Vermerk im Wählerverzeichnis
 
 Hat ein Wahlberechtigter einen Wahlschein erhalten, so wird im
 Wählerverzeichnis in der Spalte für den Vermerk über die Stimmabgabe
 "Wahlschein" oder "W" eingetragen.
-
 
 #### § 31 Einspruch gegen die Versagung des Wahlscheines und Beschwerde
 
@@ -1089,10 +1036,7 @@ Die Frist für die Zustellung der Entscheidung (§ 22 Abs. 4 Satz 1) und
 für die Beschwerdeentscheidung (§ 22 Abs. 5 Satz 4) gilt nur, wenn der
 Einspruch vor dem zwölften Tage vor der Wahl eingelegt worden ist.
 
-
 ### Vierter Unterabschnitt - Wahlvorschläge, Stimmzettel
-
-
 
 #### § 32 Aufforderung zur Einreichung von Wahlvorschlägen
 
@@ -1112,7 +1056,6 @@ Bundeswahlgesetzes).
 (2) Der Bundeswahlleiter macht öffentlich bekannt, wo und in welcher
 Frist und Form der Ausschluss von der Listenverbindung einer Partei
 erklärt werden kann (§§ 7 und 29 des Bundeswahlgesetzes).
-
 
 #### § 33 Beteiligungsanzeige der in § 18 Abs. 2 des Bundeswahlgesetzes genannten Parteien, Beseitigung von Mängeln
 
@@ -1150,7 +1093,6 @@ Bundeswahlgesetzes gibt der Bundeswahlleiter die Entscheidung des
 Bundeswahlausschusses in der Sitzung unter kurzer Angabe der Gründe
 bekannt. Die Entscheidung ist vom Bundeswahlleiter öffentlich
 bekanntzumachen.
-
 
 #### § 34 Inhalt und Form der Kreiswahlvorschläge
 
@@ -1301,7 +1243,6 @@ oder berufskonsularischen Vertretung der Bundesrepublik Deutschland,
 sonst unmittelbar unter Vorlage der erforderlichen Nachweise zu
 beantragen.
 
-
 #### § 35 Vorprüfung der Kreiswahlvorschläge durch den Kreiswahlleiter
 
 (1) Der Kreiswahlleiter vermerkt auf jedem Kreiswahlvorschlag den Tag
@@ -1322,7 +1263,6 @@ Bundeswahlgesetzes im Mängelbeseitigungsverfahren angerufen, hat er
 über die Verfügung des Kreiswahlleiters unverzüglich zu entscheiden.
 Der Vertrauensperson des betroffenen Kreiswahlvorschlages ist
 Gelegenheit zur Äußerung zu geben.
-
 
 #### § 36 Zulassung der Kreiswahlvorschläge
 
@@ -1369,7 +1309,6 @@ Entscheidungen besonders hin. Er ist verpflichtet, dem
 Bundeswahlleiter auf Verlangen alle für die Einlegung einer Beschwerde
 erforderlichen Auskünfte zu erteilen und Feststellungen zu treffen.
 
-
 #### § 37 Beschwerde gegen Entscheidungen des Kreiswahlausschusses
 
 (1) Die Beschwerde gegen eine Entscheidung des Kreiswahlausschusses
@@ -1393,7 +1332,6 @@ Landeswahlausschusses in der Sitzung im Anschluss an die
 Beschlussfassung unter kurzer Angabe der Gründe bekannt und teilt sie
 sofort dem Bundeswahlleiter mit.
 
-
 #### § 38 Bekanntmachung der Kreiswahlvorschläge
 
 Der Kreiswahlleiter ordnet die zugelassenen Kreiswahlvorschläge unter
@@ -1413,7 +1351,6 @@ Landesmeldegesetzen eingetragen ist, ist anstelle seiner Anschrift
 eines Postfachs genügt nicht. Der Kreiswahlleiter unterrichtet
 unverzüglich den Landeswahlleiter und den Bundeswahlleiter über die
 Erreichbarkeitsanschrift.
-
 
 #### § 39 Inhalt und Form der Landeslisten
 
@@ -1492,7 +1429,6 @@ gilt § 34 Abs. 4 entsprechend.
 
 (5) § 34 Abs. 6 und 7 gilt entsprechend.
 
-
 #### § 40 Vorprüfung der Landeslisten durch den Landeswahlleiter
 
 (1) Der Landeswahlleiter vermerkt auf jeder Landesliste den Tag und
@@ -1512,7 +1448,6 @@ Bundeswahlgesetzes in Verbindung mit § 25 Abs. 4 des
 Bundeswahlgesetzes im Mängelbeseitigungsverfahren angerufen, gilt § 35
 Abs. 3 entsprechend.
 
-
 #### § 41 Zulassung der Landeslisten
 
 (1) Der Landeswahlausschuss stellt die zugelassenen Landeslisten mit
@@ -1527,7 +1462,6 @@ Der Niederschrift sind die zugelassenen Landeslisten in der vom
 Landeswahlausschuss festgestellten Fassung beizufügen. Der
 Landeswahlleiter übersendet dem Bundeswahlleiter sofort eine
 Ausfertigung der Niederschrift und ihrer Anlagen.
-
 
 #### § 42 Beschwerde gegen Entscheidungen des Landeswahlausschusses
 
@@ -1549,7 +1483,6 @@ zu geben.
 Bundeswahlausschusses in der Sitzung im Anschluss an die
 Beschlussfassung unter kurzer Angabe der Gründe bekannt.
 
-
 #### § 43 Bekanntmachung der Landeslisten
 
 (1) Der Landeswahlleiter ordnet die endgültig zugelassenen
@@ -1569,7 +1502,6 @@ unverzüglich den Bundeswahlleiter über die Erreichbarkeitsanschrift.
 (2) Gleichzeitig teilt der Landeswahlleiter den Kreiswahlleitern die
 Reihenfolge der Landeslisten und die Familiennamen und Vornamen der
 ersten fünf Bewerber mit.
-
 
 #### § 44 Ausschluss von der Verbindung von Landeslisten
 
@@ -1596,7 +1528,6 @@ Bundeswahlgesetzes gilt entsprechend.
 Listenverbindung ab, so teilt der Bundeswahlleiter dies der
 Vertrauensperson und der stellvertretenden Vertrauensperson der
 jeweiligen Landesliste mit.
-
 
 #### § 45 Stimmzettel, Umschläge für die Briefwahl
 
@@ -1647,10 +1578,7 @@ Stimmzettel zur Weitergabe an die Wahlvorsteher zu. Er liefert den
 Gemeindebehörden die erforderlichen Wahlbriefumschläge und
 Stimmzettelumschläge für die Briefwahl.
 
-
 ### Fünfter Unterabschnitt - Wahlräume, Wahlzeit
-
-
 
 #### § 46 Wahlräume
 
@@ -1671,14 +1599,12 @@ Wahlvorstand gebildet. Sind mehrere Wahlvorstände in einem Wahlraum
 tätig, so bestimmt die Gemeindebehörde, welcher Vorstand für Ruhe und
 Ordnung im Wahlraum sorgt.
 
-
 #### § 47 Wahlzeit
 
 (1) Die Wahl dauert von 8 bis 18 Uhr.
 
 (2) Der Landeswahlleiter kann im Einzelfall, wenn besondere Gründe es
 erfordern, die Wahlzeit mit einem früheren Beginn festsetzen.
-
 
 #### § 48 Wahlbekanntmachung der Gemeindebehörde
 
@@ -1721,14 +1647,9 @@ Gemeindebehörde darauf hin,
 Eingang des Gebäudes, in dem sich der Wahlraum befindet, anzubringen.
 Dem Auszug ist ein Stimmzettel als Muster beizufügen.
 
-
 ## Dritter Abschnitt - Wahlhandlung
 
-
-
 ### Erster Unterabschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 49 Ausstattung des Wahlvorstandes
 
@@ -1766,10 +1687,6 @@ vor Beginn der Wahlhandlung
 9.  Papierbeutel oder Packpapier und Siegelmaterial zum Verpacken der
     Stimmzettel und Wahlscheine.
 
-
-
-
-
 #### § 50 Wahlzellen
 
 (1) In jedem Wahlraum richtet die Gemeindebehörde eine Wahlzelle oder
@@ -1781,7 +1698,6 @@ dienen, wenn dessen Eingang vom Tisch des Wahlvorstandes aus
 überblickt werden kann.
 
 (2) In der Wahlzelle soll ein Schreibstift bereitliegen.
-
 
 #### § 51 Wahlurnen
 
@@ -1796,12 +1712,10 @@ muss verschließbar sein.
 (3) Für die Stimmabgabe in Sonderwahlbezirken und vor einem
 beweglichen Wahlvorstand können kleinere Wahlurnen verwendet werden.
 
-
 #### § 52 Wahltisch
 
 Der Tisch, an dem der Wahlvorstand Platz nimmt, muss von allen Seiten
 zugänglich sein. An oder auf diesen Tisch wird die Wahlurne gestellt.
-
 
 #### § 53 Eröffnung der Wahlhandlung
 
@@ -1828,19 +1742,16 @@ dass die Wahlurne leer ist. Der Wahlvorsteher verschließt die
 Wahlurne. Sie darf bis zum Schluss der Wahlhandlung nicht mehr
 geöffnet werden.
 
-
 #### § 54 Öffentlichkeit
 
 Während der Wahlhandlung sowie der Ermittlung und Feststellung des
 Wahlergebnisses hat jedermann zum Wahlraum Zutritt, soweit das ohne
 Störung des Wahlgeschäfts möglich ist.
 
-
 #### § 55 Ordnung im Wahlraum
 
 Der Wahlvorstand sorgt für Ruhe und Ordnung im Wahlraum. Er ordnet bei
 Andrang den Zutritt zum Wahlraum.
-
 
 #### § 56 Stimmabgabe
 
@@ -1922,7 +1833,6 @@ zurückgewiesen, so ist ihm auf Verlangen ein neuer Stimmzettel
 auszuhändigen, nachdem er den alten Stimmzettel im Beisein eines
 Mitglieds des Wahlvorstandes vernichtet hat.
 
-
 #### § 57 Stimmabgabe behinderter Wähler
 
 (1) Ein Wähler, der des Lesens unkundig ist oder der wegen einer
@@ -1943,11 +1853,9 @@ die sie bei der Hilfeleistung von der Wahl eines anderen erlangt hat.
 (4) Ein blinder oder sehbehinderter Wähler kann sich zur Kennzeichnung
 des Stimmzettels auch einer Stimmzettelschablone bedienen.
 
-
 #### § 58 (weggefallen)
 
 -
-
 
 #### § 59 Stimmabgabe von Inhabern eines Wahlscheines
 
@@ -1960,7 +1868,6 @@ Inhabers. Der Vorgang ist in der Wahlniederschrift zu vermerken. Der
 Wahlvorsteher behält den Wahlschein auch im Falle der Zurückweisung
 ein.
 
-
 #### § 60 Schluss der Wahlhandlung
 
 Sobald die Wahlzeit abgelaufen ist, wird dies vom Wahlvorsteher
@@ -1970,10 +1877,7 @@ Wahlraum ist so lange zu sperren, bis die anwesenden Wähler ihre
 Stimme abgegeben haben; § 54 ist zu beachten. Sodann erklärt der
 Wahlvorsteher die Wahlhandlung für geschlossen.
 
-
 ### Zweiter Unterabschnitt - Besondere Regelungen
-
-
 
 #### § 61 Wahl in Sonderwahlbezirken
 
@@ -2030,7 +1934,6 @@ allgemeinen Wahlzeit ermittelt werden.
 
 (10) Im Übrigen gelten die allgemeinen Bestimmungen.
 
-
 #### § 62 Stimmabgabe in kleineren Krankenhäusern und kleineren Alten- oder Pflegeheimen
 
 (1) Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit
@@ -2065,13 +1968,11 @@ Wahlniederschrift zu vermerken.
 (4) § 61 Abs. 6 bis 8 gilt entsprechend. Im Übrigen gelten die
 allgemeinen Bestimmungen.
 
-
 #### § 63 Stimmabgabe in Klöstern
 
 Die Gemeindebehörde soll bei entsprechendem Bedürfnis und soweit
 möglich im Benehmen mit der Leitung eines Klosters die Stimmabgabe im
 Kloster entsprechend § 62 regeln.
-
 
 #### § 64 Stimmabgabe in sozialtherapeutischen Anstalten und Justizvollzugsanstalten
 
@@ -2092,11 +1993,9 @@ den Wahlraum aufsuchen können.
 (3) § 62 Abs. 3 und § 61 Abs. 6 bis 8 gelten entsprechend. Im Übrigen
 gelten die allgemeinen Bestimmungen.
 
-
 #### § 65
 
 (weggefallen)
-
 
 #### § 66 Briefwahl
 
@@ -2145,10 +2044,7 @@ gilt entsprechend.
 Gemeindegebiet spätestens am 13. Tage vor der Wahl auf die Regelung
 des Absatzes 4 hin.
 
-
 ## Vierter Abschnitt - Ermittlung und Feststellung der Wahlergebnisse
-
-
 
 ### § 67 Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
 
@@ -2174,10 +2070,6 @@ Unterbrechung das Wahlergebnis im Wahlbezirk und stellt fest
 6.  die Zahlen der für die einzelnen Landeslisten abgegebenen gültigen
     Zweitstimmen.
 
-
-
-
-
 ### § 68 Zählung der Wähler
 
 Vor dem Öffnen der Wahlurne werden alle nicht benutzten Stimmzettel
@@ -2187,7 +2079,6 @@ Stimmabgabevermerke im Wählerverzeichnis und die Zahl der
 eingenommenen Wahlscheine festgestellt. Ergibt sich dabei auch nach
 wiederholter Zählung keine Übereinstimmung, so ist dies in der
 Wahlniederschrift zu vermerken und, soweit möglich, zu erläutern.
-
 
 ### § 69 Zählung der Stimmen
 
@@ -2294,7 +2185,6 @@ Zählung sind in der Wahlniederschrift zu vermerken.
 
 je für sich und behalten sie unter Aufsicht.
 
-
 ### § 70 Bekanntgabe des Wahlergebnisses
 
 Im Anschluss an die Feststellungen nach § 67 gibt der Wahlvorsteher
@@ -2302,7 +2192,6 @@ das Wahlergebnis im Wahlbezirk mit den in dieser Vorschrift
 bezeichneten Angaben mündlich bekannt. Es darf vor Unterzeichnung der
 Wahlniederschrift (§ 72) anderen als den in § 71 genannten Stellen
 durch die Mitglieder des Wahlvorstandes nicht mitgeteilt werden.
-
 
 ### § 71 Schnellmeldungen, vorläufige Wahlergebnisse
 
@@ -2367,7 +2256,6 @@ Landeswahlleiter erst dann bei der Ermittlung des vorläufigen
 Wahlergebnisses im Land berücksichtigen, wenn die Mitteilung des
 Kreiswahlleiters nach Absatz 3 Satz 2 vorliegt.
 
-
 ### § 72 Wahlniederschrift
 
 (1) Über die Wahlhandlung sowie die Ermittlung und Feststellung des
@@ -2396,7 +2284,6 @@ Wahlbezirke nach dem Muster der Anlage 30 bei.
 (4) Wahlvorsteher, Gemeindebehörden und Verwaltungsbehörden der Kreise
 sowie Kreiswahlleiter haben sicherzustellen, dass die
 Wahlniederschriften mit den Anlagen Unbefugten nicht zugänglich sind.
-
 
 ### § 73 Übergabe und Verwahrung der Wahlunterlagen
 
@@ -2436,7 +2323,6 @@ Gegenwart von zwei Zeugen auf, entnimmt ihm den angeforderten Teil und
 versiegelt das Paket erneut. Über den Vorgang ist eine Niederschrift
 zu fertigen, die von allen Beteiligten zu unterzeichnen ist.
 
-
 ### § 74 Behandlung der Wahlbriefe, Vorbereitung der Ermittlung und Feststellung des Briefwahlergebnisses
 
 (1) Die für den Eingang der Wahlbriefe zuständige Stelle (§ 66 Abs. 2)
@@ -2470,7 +2356,6 @@ versehen und ungeöffnet verpackt. Das Paket wird von ihr versiegelt,
 mit Inhaltsangabe versehen und verwahrt, bis die Vernichtung der
 Wahlbriefe zugelassen ist (§ 90). Sie hat sicherzustellen, dass das
 Paket Unbefugten nicht zugänglich ist.
-
 
 ### § 75 Zulassung der Wahlbriefe, Ermittlung und Feststellung des Briefwahlergebnisses
 
@@ -2593,7 +2478,6 @@ Briefwahlergebnisses trifft. Im Übrigen kann der Landeswahlleiter
 Regelungen zur Anpassung an die besonderen Verhältnisse im Einzelfall
 treffen.
 
-
 ### § 76 Ermittlung und Feststellung des Wahlergebnisses im Wahlkreis
 
 (1) Der Kreiswahlleiter prüft die Wahlniederschriften der
@@ -2688,7 +2572,6 @@ gewählten Bewerbers eingegangen ist. Im Falle des § 45 Abs. 3 Satz 3
 des Bundeswahlgesetzes teilt er mit, an welchem Tag die
 Benachrichtigung zugestellt worden ist.
 
-
 ### § 77 Ermittlung und Feststellung des Zweitstimmenergebnisses im Land
 
 (1) Der Landeswahlleiter prüft die Wahlniederschriften der
@@ -2734,7 +2617,6 @@ entsprechend.
 Ausfertigung der Niederschrift mit der Feststellung des
 Zweitstimmenergebnisses sowie eine Zusammenstellung der Wahlergebnisse
 in den einzelnen Wahlkreisen des Landes (Absatz 1).
-
 
 ### § 78 Abschließende Ermittlung und Feststellung des Ergebnisses der Landeslistenwahl
 
@@ -2828,7 +2710,6 @@ im Sitzungsraum bekanntgibt.
 (5) Der Bundeswahlleiter teilt den Landeswahlleitern mit, welche
 Landeslistenbewerber gewählt sind.
 
-
 ### § 79 Bekanntmachung der endgültigen Wahlergebnisse
 
 (1) Sobald die Feststellungen abgeschlossen sind, machen
@@ -2858,7 +2739,6 @@ Landeslistenbewerber gewählt sind.
 Landeswahlleiter dem Bundeswahlleiter und der Bundeswahlleiter dem
 Präsidenten des Deutschen Bundestages.
 
-
 ### § 80 Benachrichtigung der gewählten Landeslistenbewerber
 
 (1) Der Landeswahlleiter benachrichtigt die vom Bundeswahlausschuss
@@ -2880,7 +2760,6 @@ Bewerber die Wahl abgelehnt haben. In den Fällen des § 45 Abs. 3 Satz
 3 des Bundeswahlgesetzes teilt er mit, an welchen Tagen die
 Benachrichtigungen zugestellt worden sind.
 
-
 ### § 81 Überprüfung der Wahl durch die Landeswahlleiter und den Bundeswahlleiter
 
 (1) Die Landeswahlleiter und der Bundeswahlleiter prüfen, ob die Wahl
@@ -2896,10 +2775,7 @@ Verwaltungsbehörden der Kreise vorhandenen Wahlunterlagen zu
 übersenden. Der Bundeswahlleiter kann verlangen, dass ihm die
 Landeswahlleiter die bei ihnen vorhandenen Wahlunterlagen übersenden.
 
-
 ## Fünfter Abschnitt - Nachwahl, Wiederholungswahl, Berufung von Listennachfolgern
-
-
 
 ### § 82 Nachwahl
 
@@ -2945,7 +2821,6 @@ an besondere Verhältnisse treffen.
 (7) Der Landeswahlleiter macht den Tag der Nachwahl öffentlich
 bekannt.
 
-
 ### § 83 Wiederholungswahl
 
 (1) Das Wahlverfahren ist nur insoweit zu erneuern, als das nach der
@@ -2989,7 +2864,6 @@ nicht mehr wählbar ist.
 Regelungen zur Anpassung des Wiederholungswahlverfahrens an besondere
 Verhältnisse treffen.
 
-
 ### § 84 Berufung von Listennachfolgern
 
 (1) Liegen die Voraussetzungen für eine Listennachfolge vor, so
@@ -3028,15 +2902,11 @@ eines Postfachs genügt nicht.
 Listennachfolger, wenn er dem Landeswahlleiter schriftlich seine
 Ablehnung erklärt. Die Ablehnung kann nicht widerrufen werden.
 
-
 ## Sechster Abschnitt - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 85
 
 (weggefallen)
-
 
 ### § 86 Öffentliche Bekanntmachungen
 
@@ -3054,7 +2924,6 @@ bestimmt sind, die Gemeindebehörden in ortsüblicher Weise.
 am oder im Eingang des Sitzungsgebäudes mit dem Hinweis, dass
 jedermann Zutritt zu der Sitzung hat.
 
-
 ### § 87 Zustellungen, Versicherungen an Eides statt
 
 (1) Für Zustellungen gilt das Verwaltungszustellungsgesetz des Bundes
@@ -3063,7 +2932,6 @@ in der jeweils geltenden Fassung.
 (2) Für die nach § 18 Abs. 5 Satz 1 und § 34 Abs. 4 Nr. 2 Satz 2
 abzugebende Versicherung an Eides statt ist die jeweilige
 Gemeindebehörde zur Abnahme zuständig.
-
 
 ### § 88 Beschaffung von Stimmzetteln und Vordrucken
 
@@ -3163,7 +3031,6 @@ Kreiswahlleiter die Lieferung übernehmen.
 5, 8, 9, 13 bis 25, 27 bis 29 und 31 bis 33 kann auch durch
 elektronische Bereitstellung erfolgen.
 
-
 ### § 89 Sicherung der Wahlunterlagen
 
 (1) Die Wählerverzeichnisse, die Wahlscheinverzeichnisse, die
@@ -3188,7 +3055,6 @@ erteilen, wenn die Auskunft zur Durchführung der Wahl oder eines
 Wahlprüfungsverfahrens oder zur Aufklärung des Verdachts einer
 Wahlstraftat erforderlich ist.
 
-
 ### § 90 Vernichtung von Wahlunterlagen
 
 (1) Die eingenommenen Wahlbenachrichtigungen sind unverzüglich zu
@@ -3210,28 +3076,23 @@ nicht für ein schwebendes Wahlprüfungsverfahren oder für die
 Strafverfolgungsbehörde zur Ermittlung einer Wahlstraftat von
 Bedeutung sein können.
 
-
 ### § 91 Stadtstaatklausel
 
 In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche
 Stellen die Aufgaben wahrnehmen, die im Gesetz und in dieser
 Verordnung der Gemeindebehörde übertragen sind.
 
-
 ### § 92
 
 (Änderung der Bundeswahlgeräteverordnung)
-
 
 ### § 93
 
 (Inkrafttreten, Außerkrafttreten)
 
-
 ### Anlage 1
 
 (weggefallen)
-
 
 ### Anlage 2 (zu § 18 Abs. 5)
 
@@ -3829,7 +3690,6 @@ Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 (Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
 Thüringen zuzüglich des Gebiets des früheren Berlin (Ost)).
 
-
 ### Anlage 3 (zu § 19 Abs. 1)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
@@ -3955,7 +3815,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 [^BJNR017690985BJNE011309160_04]:     **Neben dem                             Absender**              können
     angegeben werden: Nummer des Wahlbezirks, Wahlraum und Nummer im
     Wählerverzeichnis.
-
 
 ### Anlage 4 (zu § 19 Abs. 2)
 
@@ -4143,7 +4002,6 @@ I
 
 ----------------------------------------------------------------------
 --
-
 
 ### Anlage 5 (zu § 20 Abs. 1)
 
@@ -4383,7 +4241,6 @@ Vertretungen der Bundesrepublik Deutschland. 3)
 
 (weggefallen)
 
-
 ### Anlage 8 (zu § 24 Abs. 1)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
@@ -4484,7 +4341,6 @@ Gemeindebehörde
 eingetragene Wahlberechtigte Wahlscheine erteilt worden sind.
 3) Nur ausfüllen, wenn noch am Wahltage an erkrankte (eingetragene)
 Wahlberechtigte Wahlscheine erteilt worden sind.
-
 
 ### Anlage 9 (zu § 26)
 
@@ -4647,7 +4503,6 @@ an Eides statt zur Briefwahl" zu unterzeichnen. Außerdem ist die
 Hilfsperson zur Geheimhaltung der Kenntnisse verpflichtet,
 die sie durch die Hilfestellung bei der Wahl des gehinderten
 Wählers erlangt hat. Nichtzutreffendes streichen.
-
 
 ### Anlage 10 (zu § 28 Abs. 3 und § 45 Abs. 3)
 
@@ -5189,7 +5044,6 @@ Geburtsdatum und Anschrift (Hauptwohnung) der in Anmerkung 5
 bezeichneten Unterzeichner des Wahlvorschlages anzugeben, damit
 diesen ihre Wahlrechtsbescheinigungen zugeordnet werden können.
 
-
 ### Anlage 14 (zu § 34 Abs. 4)
 
 ( Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 24
@@ -5378,7 +5232,6 @@ sie nicht festhalten, für welchen Wahlvorschlag die erteilte
 Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners
 muss im Zeitpunkt der Unterzeichnung gegeben sein.
 
-
 ### Anlage 15 (zu § 34 Abs. 5 Nr. 1 und 3 Buchstabe b)
 
 ( Fundstelle: BGBl. I 2008, 480 )
@@ -5436,7 +5289,6 @@ ausfüllen.
 3                 ) Auf die Strafbarkeit einer falsch abgegebenen
 Versicherung an Eides statt wird hingewiesen.
 
-
 ### Anlage 16 (zu § 34 Abs. 5 Nr. 2 und § 39 Abs. 4 Nr. 2)
 
 ( Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 27;
@@ -5470,7 +5322,6 @@ Unterschrift des Bewerbers)
 -----
 \*) Wenn der Bewerber die Bescheinigung seiner Wählbarkeit selbst
 einholt, streichen.
-
 
 ### Anlage 17 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 
@@ -5653,7 +5504,6 @@ Vor- und Familiennamen und Anschriften der Teilnehmer hervorgehen.
 5) Wahlverfahren (z. B. einfache, absolute Mehrheit) angeben.
 6) Wenn nach dem Wahlverfahren vorgesehen.
 
-
 ### Anlage 18 (zu § 34 Abs. 5 Nr. 3 Buchstabe a)
 
 ( Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 31;
@@ -5706,7 +5556,6 @@ handschriftliche Unterschrift)
 1) Auf die Strafbarkeit einer falsch abgegebenen Versicherung an
 Eides statt wird hingewiesen.
 2) Nichtzutreffendes streichen.
-
 
 ### Anlage 19 (zu § 36 Abs. 6)
 
@@ -5860,7 +5709,6 @@ Der Schriftführer          4. .............................
 ................................  5. .............................
 6\. .............................
 
-
 ### Anlage 20 (zu § 39 Abs. 1)
 
 ( Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 35;
@@ -5954,7 +5802,6 @@ Hat eine Partei im Land keinen Landesverband oder keine einheitliche
 Landesorganisation, so muss die Landesliste von allen Vorständen der
 nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen,
 unterzeichnet sein. Siehe auch Anmerkung 3).
-
 
 ### Anlage 21 (zu § 39 Abs. 3)
 
@@ -6069,7 +5916,6 @@ sie nicht festhalten, für welchen Wahlvorschlag die erteilte
 Bescheinigung bestimmt ist. Die Wahlberechtigung des Unterzeichners
 muss im Zeitpunkt der Unterzeichnung gegeben sein.
 
-
 ### Anlage 22 (zu § 39 Abs. 4 Nr. 1)
 
 ( Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 38;
@@ -6120,7 +5966,6 @@ zugestimmt. 3)
 statt
 wird hingewiesen.
 3) Nichtzutreffendes streichen.
-
 
 ### Anlage 23 (zu § 39 Abs. 4 Nr. 3)
 
@@ -6302,7 +6147,6 @@ Vor- und Familiennamen und Anschriften der Teilnehmer hervorgehen.
 5) Die Bewerber können unter Verwendung des nachstehenden Schemas auch
 in einer Anlage aufgeführt werden.
 
-
 ### Anlage 24 (zu § 39 Abs. 4 Nr. 3)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
@@ -6353,7 +6197,6 @@ handschriftliche Unterschrift)
 1) Auf die Strafbarkeit einer falsch abgegebenen Versicherung
 an Eides statt wird hingewiesen.
 2) Nichtzutreffendes streichen.
-
 
 ### Anlage 25 (zu § 44 Abs. 1)
 
@@ -6407,12 +6250,10 @@ Vertrauensperson)\*)
 außerdem
 in handschriftlicher Unterschrift.
 
-
 ### Anlage 26 (zu § 28 Abs. 3 und § 45 Abs. 1)
 
 (Inhalt: nicht darstellbares Stimmzettelmuster,
 Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 43)
-
 
 ### Anlage 27 (zu § 48 Abs. 1)
 
@@ -6514,7 +6355,6 @@ Landeswahlleiter ist die festgesetzte Wahlzeit einzusetzen.
 sind.
 5) Wenn Sonderwahlbezirke gebildet sind, sind diese einzeln
 aufzuführen.
-
 
 ### Anlage 28 (zu § 71 Abs. 7 und § 75 Abs. 4)
 
@@ -6623,7 +6463,6 @@ nach Abschnitt 4 der Wahlniederschrift Anlage 31, siehe auch die
 Zusammenstellung der Wahlergebnisse in Anlage 30.
 3) Vom Briefwahlvorstand nicht auszufüllen.
 4) Nur in der Schnellmeldung des Kreiswahlleiters angegeben.
-
 
 ### Anlage 29 (zu § 72 Abs. 1)
 
@@ -7178,14 +7017,12 @@ auf andere Weise kenntlich zu machen. Alte Zahlenangaben nicht
 löschen oder radieren.
 10) Nach dem Muster der Anlage 28 zur Bundeswahlordnung.
 
-
 ### Anlage 30 (zu §§ 72 Abs. 3, 75 Abs. 6, 76 Abs. 1 und 6, § 77 Abs. 1, § 78 Abs. 4)
 
 (Inhalt: nicht darstellbare Zusammenstellung der endgültigen
 Ergebnisse der Wahl zum Deutschen Bundestag,
 Fundstelle: Anlageband zum BGBl. I Nr. 26 vom 26. April 2002, S. 56 -
 57)
-
 
 ### Anlage 31 (zu § 75 Abs. 5)
 
@@ -7698,7 +7535,6 @@ auf andere Weise kenntlich zu machen. Alte Zahlenangaben nicht
 löschen oder radieren.
 10) Nach dem Muster der Anlage 28 zur Bundeswahlordnung.
 
-
 ### Anlage 32 (zu § 76 Abs. 6)
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 26 vom 26.
@@ -7897,7 +7733,6 @@ Der Schriftführer                    3. ...........................
 3) Kennbuchstabe nach der Zusammenstellung in Anlage 30 zur
 Bundeswahlordnung.
 4) Nach dem Muster der Anlage 30 zur Bundeswahlordnung.
-
 
 ### Anlage 33 (zu § 77 Abs. 4)
 

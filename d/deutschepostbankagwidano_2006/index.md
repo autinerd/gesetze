@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1256
 
-
-
 ## I. Erlass von beamtenrechtlichen Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -36,7 +34,6 @@ in Halle.
 Für besondere Fälle behalten wir uns die Entscheidung über den
 Widerspruch vor.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in Verbindung mit
@@ -48,7 +45,6 @@ der/dem in Abschnitt I genannten Leiterin/Leiter.
 Für besondere Fälle behalten wir uns die Vertretung des Dienstherrn
 vor.
 
-
 ## III. Schlussvorschriften
 
 Diese Anordnung tritt am 1. Mai 2006 in Kraft. Gleichzeitig tritt die
@@ -56,7 +52,6 @@ Anordnung zur Übertragung von Zuständigkeiten für den Erlass von
 Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
 aus dem Beamtenverhältnis im Bereich der Deutschen Postbank AG vom 28.
 August 2003 (BGBl. I S. 1953) außer Kraft.
-
 
 ## Schlussformel
 

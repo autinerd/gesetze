@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1669
 
-
-
 ## I. Erlaß von Widerspruchsbescheiden
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -78,10 +76,6 @@ die Befugnis, Widerspruchsbescheide zu erlassen,
     Verwaltungsakt erlassen oder den Erlaß eines Verwaltungsakts abgelehnt
     hat.
 
-
-
-
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die
@@ -90,11 +84,9 @@ unter I. genannten Behördenleitern, soweit sie nach dieser Anordnung
 für den Erlaß von Widerspruchsbescheiden zuständig sind. Für besondere
 Fälle behalte ich mir die Vertretung des Dienstherrn vor.
 
-
 ## III. Schlußvorschriften
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

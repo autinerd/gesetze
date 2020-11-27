@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 § 3 G v. 6.8.2002 I 3082
 
-
 ## Eingangsformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten verordnet
@@ -29,7 +28,6 @@ Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
 18\. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 23.
 Januar 1991 (BGBl. I S. 530) im Einvernehmen mit den Bundesministern
 für Gesundheit und für Umwelt, Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -61,10 +59,6 @@ Im Sinne dieser Verordnung sind
 
     Pflanzen, an denen sich geöffnete Blüten befinden, außer Hopfen und
     Kartoffeln.
-
-
-
-
 
 ## § 2 Anwendung
 
@@ -103,7 +97,6 @@ unter Zusatz der Worte "mitteleuropäischer Zeit" oder der Abkürzung
 1 und 2 nicht für die Anwendung dieses Pflanzenschutzmittels während
 der angegebenen Tageszeit.
 
-
 ## § 3 Ausnahmen
 
 Die zuständige Behörde kann Ausnahmen zulassen
@@ -122,7 +115,6 @@ im Umkreis von 3 Kilometern befinden, spätestens 48 Stunden vor Beginn
 der Anwendung des Pflanzenschutzmittels unterrichtet werden. Sie kann
 die Ausnahmegenehmigung mit Auflagen zur Sicherstellung der Belange
 des Naturschutzes und der Landschaftspflege versehen.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -143,13 +135,11 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Auflage nach § 3 Satz 2 zuwiderhandelt.
 
-
 ## § 5 Inkrafttreten, abgelöste Vorschrift
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1308
 
-
 ## I.
 
 Nach § 126 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
@@ -49,7 +48,6 @@ Entscheidungen über Widersprüche der Behördenleiterinnen oder
 Behördenleiter bleiben dem Bundesministerium für Wirtschaft und
 Technologie vorbehalten.
 
-
 ## II.
 
 Nach § 127 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
@@ -61,7 +59,6 @@ insbesondere bei Angelegenheiten der Behördenleiterinnen oder
 Behördenleiter, bleibt die Vertretung des Dienstherrn dem
 Bundesministerium für Wirtschaft und Technologie vorbehalten.
 
-
 ## III.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
@@ -70,7 +67,6 @@ Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die
 Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im
 Geschäftsbereich des Bundesministeriums für Wirtschaft und Arbeit vom
 7\. August 2003 (BGBl. I S. 1686) nicht mehr anzuwenden.
-
 
 ## Schlussformel
 

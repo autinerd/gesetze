@@ -35,9 +35,7 @@ Absatz 4 Satz 2, des Zahlungsdiensteaufsichtsgesetzes vom 25. Juni
 Benehmen mit der Deutschen Bundesbank nach Anhörung der Verbände der
 Zahlungsinstitute:
 
-
 ## Abschnitt 1 - Angemessenheit
-
 
 ### § 1 Angemessenheit des Eigenkapitals
 
@@ -49,9 +47,7 @@ Eigenkapital, wenn es jederzeit Eigenkapital in einer Höhe hält, die
 den Vorgaben der nach dieser Verordnung anzuwendenden
 Berechnungsmethode entspricht.
 
-
 ## Abschnitt 2 - Regelungen für die Eigenkapitalberechnung von Zahlungsinstituten
-
 
 ### § 2 Berechnung der Eigenkapitalanforderungen
 
@@ -75,10 +71,6 @@ Skalierungsfaktor k entspricht
     Nummer 1 bis 4 des Zahlungsdiensteaufsichtsgesetzes genannten
     Zahlungsdienste erbringt.
 
-
-
-
-
 ### § 3 Berechnung nach Methode A
 
 (1) Zahlungsinstitute müssen eine Eigenkapitalunterlegung aufweisen,
@@ -99,7 +91,6 @@ Eigenkapitalanforderung in Höhe von 10 Prozent der im Geschäftsplan
 vorgesehenen fixen Gemeinkosten im Sinne des Absatzes 1 Satz 2
 erfüllen. Die Bundesanstalt kann für die Zwecke dieser Berechnung eine
 Anpassung des Geschäftsplans verlangen.
-
 
 ### § 4 Berechnung nach Methode B
 
@@ -134,10 +125,6 @@ Zahlungsvorgänge ist:
 
 
 5.  0,25 Prozent der Tranche des Zahlungsvolumens über 250 Millionen Euro.
-
-
-
-
 
 ### § 5 Berechnung nach Methode C
 
@@ -207,10 +194,6 @@ Schätzungen verwendet werden.
 5.  1,5 Prozent der Tranche des maßgeblichen Indikators über 50 Millionen
     Euro.
 
-
-
-
-
 ### § 6 Festlegung der Methode
 
 (1) Im Einzelfall kann die Bundesanstalt unbeschadet der Befugnisse
@@ -229,9 +212,7 @@ Auffassung schriftlich zu begründen. Ein solcher Antrag darf
 unbeschadet der Möglichkeit der Antragstellung im Erlaubnisantrag
 jedoch nur einmal pro Geschäftsjahr gestellt werden.
 
-
 ## Abschnitt 3 - Regelungen für die Eigenkapitalberechnung von E-Geld-Instituten
-
 
 ### § 6a Berechnung der Eigenkapitalanforderungen
 
@@ -239,14 +220,12 @@ E-Geld-Institute haben stets über einen Bestand an Eigenkapital zu
 verfügen, der mindestens genau so hoch wie die Summe der in §§ 6b und
 § 6c genannten Erfordernisse ist.
 
-
 ### § 6b Berechnung bei Erbringung von Zahlungsdiensten
 
 Erbringt ein E-Geld-Institut Zahlungsdienste im Sinne des § 1 Absatz 2
 des Zahlungsdiensteaufsichtsgesetzes, die nicht mit der Ausgabe von
 E-Geld in Verbindung stehen, finden die §§ 2 bis 6 entsprechende
 Anwendung.
-
 
 ### § 6c Berechnung nach Methode D für die Ausgabe von E-Geld
 
@@ -271,9 +250,7 @@ auf der Grundlage des aus dem Geschäftsplan hervorgehenden erwarteten
 E-Geld-Umlaufs. Die Bundesanstalt kann jederzeit eine Anpassung des
 Geschäftsplans verlangen.
 
-
 ## Abschnitt 4 - Melde- und Anzeigepflichten
-
 
 ### § 7 Meldungen zur Eigenkapitalausstattung
 
@@ -295,7 +272,6 @@ den anderen Methoden für Zahlungsinstitute einzureichen. Die Deutsche
 Bundesbank veröffentlicht im Internet die für die elektronische
 Dateneinreichung zu verwendenden Satzformate und den Einreichungsweg.
 
-
 ### § 8 Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen
 
 Institute im Sinne des Zahlungsdiensteaufsichtsgesetzes müssen die
@@ -305,11 +281,9 @@ unverzüglich schriftlich anzeigen. In der Anzeige nach Satz 1 ist
 jeweils der Betrag anzugeben, um den die Eigenkapitalanforderung nicht
 eingehalten wird.
 
-
 ### § 9 Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
-
 
 ### Anlage Meldebogen zur Berechnung der Eigenkapitalanforderungen nach § 12 ZAG
 

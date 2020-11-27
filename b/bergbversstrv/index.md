@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 10. 8.2005 I 2452
 
-
 ## § 1 Anwendung von Vorschriften des Bundesberggesetzes
 
 Für die Bergbau-Versuchsstrecke gelten die §§ 50 bis 74 und 145 Abs. 1
 Nr. 6, 9, 14 bis 16 und 18 des Bundesberggesetzes entsprechend.
-
 
 ## § 2 Übergangsregelung
 
@@ -58,7 +56,6 @@ ihnen übertragenen Geschäftskreise oder Aufgaben und Befugnisse wegen
 der in der Bergverordnung gestellten Anforderungen nicht ausreicht
 oder der Unternehmer ihre Bestellung im Sinne des § 59 des
 Bundesberggesetzes ändert.
-
 
 ## § 3
 

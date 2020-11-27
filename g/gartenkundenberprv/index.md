@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 4 G v. 23.7.2001 I 1663
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ das Bundesministerium für Bildung und Wissenschaft nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Forsten:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -65,7 +63,6 @@ eigenverantwortlich wahrzunehmen:
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Kundenberater/Geprüfte Kundenberaterin - Gartenbau.
-
 
 ## § 2 Zulassungsvoraussetzungen
 
@@ -104,7 +101,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile
@@ -122,7 +118,6 @@ die die Zulassung zur Prüfung rechtfertigen.
 
 (2) Die Prüfung ist nach Maßgabe der §§ 4 bis 6 praktisch, schriftlich
 und mündlich durchzuführen.
-
 
 ## § 4 Prüfungsteil Warenkunde und Dienstleistungen
 
@@ -241,7 +236,6 @@ oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung
 ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 5 Prüfungsteil Kundenberatung und Verkauf
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er gartenbauliche
@@ -343,7 +337,6 @@ Ergebnisse sind in einem Prüfungsgespräch zu erläutern. Für die
 Beurteilung des Verkaufsbereiches stehen insgesamt bis zu 90 Minuten
 zur Verfügung. Dabei soll das Prüfungsgespräch je Prüfungsteilnehmer
 nicht länger als 30 Minuten dauern.
-
 
 ## § 6 Prüfungsteil Markt und Betrieb
 
@@ -480,7 +473,6 @@ oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung
 ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht
 länger als 30 Minuten dauern.
 
-
 ## § 7 Bestehen der Prüfung, Gesamtnote
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil
@@ -504,7 +496,6 @@ nicht bestanden, wenn in der gesamten Prüfung eine der
 Prüfungsleistungen gemäß Absatz 1 mit "ungenügend" oder mehr als eine
 dieser Prüfungsleistungen mit "mangelhaft" benotet worden ist.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -517,7 +508,6 @@ darin in einer vorangegangenen Prüfung mindestens mit der Note
 "ausreichend" bewertet worden sind und er sich innerhalb von zwei
 Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen Prüfung
 an, zur Wiederholungsprüfung anmeldet.
-
 
 ## § 9 Inkrafttreten
 

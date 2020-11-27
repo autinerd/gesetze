@@ -22,7 +22,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -37,7 +36,6 @@ vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel
 worden sind, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
-
 
 ## § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -56,13 +54,11 @@ und Bautenschützerin werden
 
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert im Ausbildungsberuf Fachkraft für Holz- und
 Bautenschutzarbeiten zwei Jahre und im Ausbildungsberuf Holz- und
 Bautenschützer/Holz- und Bautenschützerin drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin
 
@@ -70,7 +66,6 @@ Die Berufsausbildung im Ausbildungsberuf Holz- und Bautenschützer
 /Holz- und Bautenschützerin gliedert sich in gemeinsame
 Ausbildungsinhalte und die Ausbildung in einer der Fachrichtungen
 Holzschutz oder Bautenschutz.
-
 
 ## § 4 Ausbildungsrahmenplan/Ausbildungsberufsbild
 
@@ -282,10 +277,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 9.  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -339,7 +330,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung für den Ausbildungsberuf Fachkraft für Holz- und Bautenschutzarbeiten
 
@@ -417,10 +407,6 @@ Vorgaben:
 4.  die Prüfungszeit beträgt sieben Stunden; innerhalb dieser Zeit soll
     die schriftliche Bearbeitung der Aufgabenstellungen in 90 Minuten
     durchgeführt werden.
-
-
-
-
 
 ## § 7 Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Fachkraft für Holz- und Bautenschutzarbeiten
 
@@ -694,7 +680,6 @@ Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
 bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
 im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 8 Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin
 
 (1) Die Abschlussprüfung/Gesellenprüfung besteht aus den zeitlich
@@ -714,7 +699,6 @@ es für die Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 40 Prozent und Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 60 Prozent gewichtet.
-
 
 ## § 9 Teil 1 der Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin
 
@@ -751,10 +735,6 @@ Nr. 1 bis 3 sowie Abs. 4 bis 6.
     *   Prüfungsbereich Bautenschutzarbeiten
 
     *   10 Prozent.
-
-
-
-
 
 ## § 10 Teil 2 der Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin in der Fachrichtung Holzschutz
 
@@ -965,7 +945,6 @@ Wirtschafts- und Sozialkunde nach Absatz 5 die Anforderungen nach § 7,
 so hat er den Abschluss des Ausbildungsberufs Fachkraft für Holz- und
 Bautenschutzarbeiten erreicht.
 
-
 ## § 11 Teil 2 der Abschlussprüfung/Gesellenprüfung für den Ausbildungsberuf Holz- und Bautenschützer/Holz- und Bautenschützerin in der Fachrichtung Bautenschutz
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die
@@ -1174,7 +1153,6 @@ Wirtschafts- und Sozialkunde nach Absatz 5 die Anforderungen nach § 7,
 so hat er den Abschluss des Ausbildungsberufs Fachkraft für Holz- und
 Bautenschutzarbeiten erreicht.
 
-
 ## § 12 Fortsetzung der Berufsausbildung
 
 (1) Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft
@@ -1190,11 +1168,9 @@ Bautenschutzarbeiten erzielten Leistungen mit Ausnahme der Leistungen
 im Prüfungsfach Wirtschafts- und Sozialkunde als Teil 1 der
 Abschlussprüfung/Gesellenprüfung nach § 9 dieser Verordnung.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung im Holz- und Bautenschutzgewerbe
 

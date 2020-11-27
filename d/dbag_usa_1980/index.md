@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1982, 846
 
-
-
 ## Art 1
 
 Dem in Bonn am 3. Dezember 1980 unterzeichneten Abkommen zwischen der
@@ -26,7 +24,6 @@ Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur
 Vermeidung der Doppelbesteuerung auf dem Gebiet der Nachlaß-,
 Erbschaft- und Schenkungsteuern wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht:
-
 
 ## Art 2
 
@@ -41,19 +38,16 @@ Amerika insgesamt zu einer höheren Belastung, als sie nach den
 Rechtsvorschriften vor Inkrafttreten des Abkommens bestand, so wird
 die Steuer insoweit erstattet oder nicht erhoben.
 
-
 ## Art 3
 
 Wird ein Antrag im Sinne des Artikels 12 Abs. 3 des Abkommens
 gestellt, so entsteht die Steuer im Zeitpunkt der
 Vermögensübertragung.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

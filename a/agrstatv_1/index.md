@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 6.3.2009 I 438
 
-
 ## Eingangsformel
 
 Auf Grund des § 94a Nr. 1 Buchstabe a und c des Agrarstatistikgesetzes
@@ -26,30 +25,23 @@ in der Fassung der Bekanntmachung vom 8. August 2002 (BGBl. I S. 3118)
 verordnet das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft:
 
-
 ## § 1 (weggefallen)
 
 -
-
 
 ## § 2 (weggefallen)
 
 -
 
-
 ## § 3 (weggefallen)
 
 -
 
-
 ## (XXXX) §§ 4 und 5 (weggefallen)
-
-
 
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## § 6 Baumschulerhebung
 
@@ -61,11 +53,9 @@ Agrarstatistikgesetzes) ausgesetzt.
 Baumschulerhebung nach § 14 Abs. 1 des Agrarstatistikgesetzes jeweils
 zusätzlich die Unterscheidung nach Kulturformen.
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## § 8 (weggefallen)
 

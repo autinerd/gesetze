@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 83
 
-
 ## § 1 Elektronische Aktenführung
 
 Das Patentamt, das Patentgericht und der Bundesgerichtshof, soweit er
@@ -24,12 +23,10 @@ für die Verhandlung und Entscheidung über Rechtsmittel gegen
 Entscheidungen des Patentgerichts zuständig ist, können
 Verfahrensakten ganz oder teilweise auch elektronisch führen.
 
-
 ## § 2 Verfahrensrecht für das Patentamt
 
 Für das Verfahren vor dem Patentamt gelten die Regelungen der
 Zivilprozessordnung über die elektronische Aktenführung entsprechend.
-
 
 ## § 3 Vernichtung von Schriftstücken
 
@@ -37,7 +34,6 @@ Werden Schriftstücke oder sonstige Unterlagen in ein elektronisches
 Dokument übertragen, so dürfen sie nicht vernichtet werden, wenn in
 Betracht kommt, über ihr Vorhandensein oder ihre Beschaffenheit Beweis
 zu erheben.
-
 
 ## § 4 Überblick über Aktenbestandteile
 
@@ -48,7 +44,6 @@ den jeweils anderen Teil sichtbar sein.
 (2) Vor jedem Zugriff auf einen elektronischen Aktenbestandteil muss
 ein vollständiger Überblick über alle anderen elektronischen
 Aktenbestandteile sichtbar sein.
-
 
 ## § 5 Herkunftsnachweis
 
@@ -61,7 +56,6 @@ der nicht unbemerkt verändert werden kann.
 indem der Name der unterzeichnenden Person eingefügt und eine
 fortgeschrittene elektronische Signatur an das Dokument angebracht
 wird.
-
 
 ## § 6 Ausfertigung
 
@@ -77,15 +71,10 @@ genügt es, in den Ausdruck folgende Angaben aufzunehmen:
 
 3.  den Hinweis, dass die Ausfertigung nicht unterschrieben wird.
 
-
-
-
-
 ## § 7 Akteneinsicht
 
 Steht die Akteneinsicht beim Patentamt jedermann frei, kann sie auch
 durch elektronischen Zugriff auf den Inhalt der Akten gewährt werden.
-
 
 ## § 8 Vorlegen von Akten
 
@@ -101,7 +90,6 @@ Rechtsmittel eingelegt wurde.
 (3) Kann das Gericht oder die Behörde den Inhalt der Dateien nicht in
 eine lesbare Form bringen, sind die betreffenden Aktenteile in einer
 anderen, geeigneten Form zu übersenden.
-
 
 ## § 9 Aufbewahrung
 

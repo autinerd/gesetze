@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1934, 811
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird.
-
 
 ## Einziger Paragraph
 

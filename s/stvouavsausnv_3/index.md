@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.12.1992 I 2480
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe b in Verbindung mit Abs. 3
@@ -30,7 +29,6 @@ Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März
 Verordnung vom 26. November 1986 (BGBl. I S. 2089), verordnet der
 Bundesminister für Verkehr nach Anhörung der zuständigen obersten
 Landesbehörden:
-
 
 ## § 1
 
@@ -46,10 +44,6 @@ ausgeführt zu sein, wenn
     beigegeben ist, in der die Kraftfahrzeuge und Kraftfahrzeugtypen
     angegeben sind, für die sie verwendbar ist.
 
-
-
-
-
 ## § 2
 
 Abweichend von § 21 Abs. 1a der Straßenverkehrs-Ordnung dürfen
@@ -63,14 +57,12 @@ Rückhalteeinrichtung verwendet werden kann. Die ärztliche
 Bescheinigung darf nicht älter als 4 Jahre sein. Sie ist mitzuführen
 und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 3 des Gesetzes zur Änderung des
 Straßenverkehrsgesetzes vom 28. Dezember 1982 (BGBl. I S. 2090) auch
 im Land Berlin.
-
 
 ## § 4
 

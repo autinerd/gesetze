@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 V v. 17.12.2010 I 2132
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -117,7 +114,6 @@ Stoffe sowie Milch und Milcherzeugnisse. Im Falle der Herstellung von
 Käsezubereitungen aus Speisequark sind die in § 3 Abs. 1 Nr. 2
 Buchstabe b genannten Stoffe beigegebene Lebensmittel.
 
-
 ### § 2 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten nur für das gewerbsmäßige
@@ -127,7 +123,6 @@ Verordnung steht es gleich, wenn Käse oder Erzeugnisse aus Käse für
 Mitglieder von Genossenschaften oder ähnlichen Einrichtungen oder in
 Einrichtungen zur Gemeinschaftsverpflegung hergestellt oder abgegeben
 werden.
-
 
 ### § 3 Anforderungen an die Herstellung von Käse
 
@@ -246,7 +241,6 @@ muß eine fettfreie Milchtrockenmasse von mindestens 32% aufweisen.
 
 (4) (weggefallen)
 
-
 ### § 4 Anforderungen an die Herstellung von Erzeugnissen aus Käse
 
 (1) Bei der Herstellung von Erzeugnissen aus Käse dürfen außer den in
@@ -283,7 +277,6 @@ Früchten, Fruchterzeugnissen, Gemüse oder Gemüseerzeugnissen
 hergestellt werden, dürfen abweichend von Absatz 3 bis zu 30 v. H. des
 Gesamtgewichts des Fertigerzeugnisses an diesen Lebensmitteln
 enthalten.
-
 
 ### § 5 Fettgehaltsstufen
 
@@ -357,13 +350,7 @@ gebracht werden:
 
     *   10%.
 
-
-
-
-
 ## Zweiter Abschnitt - Käse
-
-
 
 ### § 6 Käsegruppen
 
@@ -425,7 +412,6 @@ folgende Käsegruppen eingeteilt:
 bei Sauermilchkäse werden abweichend von Absatz 1 nach dem
 Mindestgehalt an Trockenmasse in Käsegruppen nach Anlage 1 eingeteilt.
 
-
 ### § 7 Standardsorten
 
 (1) Käse darf unter der Bezeichnung einer Standardsorte der Anlage 1
@@ -455,7 +441,6 @@ den Verkehr gebracht werden, die auf eine Standardsorte hinweist.
 Frischkäse mit weniger als 40% Fett in der Trockenmasse darf nicht mit
 einem Hinweis auf Sahne oder Rahm in den Verkehr gebracht werden.
 
-
 ### § 8 Geographische Herkunftsbezeichnungen
 
 Käse darf unter einer der in Anlage 1b Spalte 1 aufgeführten
@@ -469,13 +454,7 @@ werden, wenn er
 2.  den jeweiligen in Anlage 1b Spalte 3 bis 6 aufgeführten Anforderungen
     an die Herstellung und Beschaffenheit entspricht.
 
-
-
-
-
 ### (XXXX) §§ 9 und 10 (weggefallen)
-
-
 
 ### § 11 Güteklasse, Markenkäse, Güteprüfungen für inländischen Markenkäse
 
@@ -571,7 +550,6 @@ Fundstelle: BGBl. I 2004, 1704)
 
 (12) (weggefallen)
 
-
 ### § 11a Markenkäse aus anderen Mitgliedstaaten
 
 (1) Käse, der in einem anderen Mitgliedstaat der Europäischen Union
@@ -586,10 +564,7 @@ Inland erfüllt sind.
 
 (3) § 11 Abs. 11 findet Anwendung.
 
-
 ## Dritter Abschnitt - Erzeugnisse aus Käse
-
-
 
 ### § 12 Trockenmasse
 
@@ -597,7 +572,6 @@ Schmelzkäse und Schmelzkäsezubereitungen dürfen unbeschadet der
 sonstigen Anforderungen nur in den Verkehr gebracht werden, wenn sie
 den in Anlage 2 für die einzelnen Fettgehaltsstufen festgelegten
 Gehalt an Trockenmasse aufweisen.
-
 
 ### § 13 Kochkäse
 
@@ -608,10 +582,7 @@ zu acht Gewichtshundertteilen, bezogen auf das Fertigerzeugnis, und an
 anderen Milcherzeugnissen nur Sahne (Rahm), Butter oder Butterschmalz
 verwendet worden sind.
 
-
 ## Vierter Abschnitt - Kennzeichnung
-
-
 
 ### § 14 Allgemeine Vorschriften
 
@@ -779,7 +750,6 @@ deutlich sichtbar und in leicht lesbarer Schrift anzugeben
 Dies gilt nicht für Käse und Erzeugnisse aus Käse, die unverpackt zum
 unmittelbaren Verzehr an Ort und Stelle abgegeben werden.
 
-
 ### § 15 Zusätzliche Kennzeichnung bei Käse
 
 (1) Bei Käse muß die Kennzeichnung ferner enthalten
@@ -819,7 +789,6 @@ Lebensmittelbedarfsgegenständen aus Kunststoff beschichtet worden ist,
 darf nur in den Verkehr gebracht werden, wenn er durch die Angabe
 "Kunststoffüberzug nicht zum Verzehr geeignet" kenntlich gemacht ist.
 
-
 ### § 16 Zusätzliche Kennzeichnung bei Erzeugnissen aus Käse
 
 (1) Bei Erzeugnissen aus Käse muß die Kennzeichnung ferner enthalten
@@ -853,7 +822,6 @@ Standardsorte verwendet worden ist.
 
 (3) (weggefallen)
 
-
 ### § 17 Besondere Hinweise auf Standardsorten bei Erzeugnissen aus Käse
 
 (1) Erzeugnisse aus Käse dürfen in der Kennzeichnung einen besonderen
@@ -869,14 +837,9 @@ auf eine Standardsorte, für die ein Fettgehalt in der Trockenmasse von
 in der Trockenmasse des Schmelzkäses um bis zu 2,5% niedriger ist als
 bei der angegebenen Standardsorte.
 
-
 ### (XXXX) §§ 18 und 19 (weggefallen)
 
-
-
 ## Fünfter Abschnitt - Labaustauschstoffe und Lab-Pepsin-Zubereitungen
-
-
 
 ### § 20 Herstellung von Labaustauschstoffen
 
@@ -991,7 +954,6 @@ verwendeten Mikroorganismen unmittelbar oder mittelbar in Berührung
 kommen, müssen nach jeder Benutzung, mindestens jedoch einmal täglich,
 gründlich gereinigt und desinfiziert werden.
 
-
 ### § 21 Verbringen von Labaustauschstoffen in den Geltungsbereich der Verordnung
 
 (1) Wer Labaustauschstoffe in den Geltungsbereich dieser Verordnung
@@ -1046,7 +1008,6 @@ solche zu kennzeichnen. Eine Mehrausfertigung der Bescheinigung ist
 von der Zollstelle auf Kosten des Verfügungsberechtigten der nach
 Absatz 1 zuständigen Behörde zuzuleiten.
 
-
 ### § 22 Abgabe und Kennzeichnung von Lab-Pepsin-Zubereitungen und Labaustauschstoffen
 
 Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in
@@ -1080,13 +1041,7 @@ anzugeben
 
 7.  bei Lab-Pepsin-Zubereitungen der Anteil an Chymosin.
 
-
-
-
-
 ## Sechster Abschnitt - Zusatzstoffe
-
-
 
 ### § 23 Zulassung von Zusatzstoffen
 
@@ -1104,14 +1059,9 @@ Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2
 festgesetzte Höchstmenge hinaus nicht verwendet werden. Die
 Zusatzstoff-Zulassungsverordnung bleibt unberührt.
 
-
 ### (XXXX) §§ 24 bis 26 (weggefallen)
 
-
-
 ## Siebenter Abschnitt - Ergänzende Vorschriften
-
-
 
 ### § 27 Befugnisse der Länder
 
@@ -1128,10 +1078,6 @@ Die Länder bleiben befugt, Vorschriften zu erlassen
 
 3.  über Qualitätsprüfungen von Käse, soweit für diese nicht Prüfungen
     nach § 11 vorgesehen sind.
-
-
-
-
 
 ### § 28 Ausländische Käse und ausländische Erzeugnisse aus Käse
 
@@ -1158,7 +1104,6 @@ verwendet werden.
 
 (4) (weggefallen)
 
-
 ### § 29 Besondere Zubereitungen
 
 Die Vorschriften dieser Verordnung finden keine Anwendung auf
@@ -1171,13 +1116,7 @@ Die Vorschriften dieser Verordnung finden keine Anwendung auf
     werden oder solchen griechischen Erzeugnissen nach Herstellungsweise
     und Zusammensetzung entsprechen.
 
-
-
-
-
 ## Achter Abschnitt - Straftaten und Ordnungswidrigkeiten, Schlußvorschriften
-
-
 
 ### § 30 Straftaten und Ordnungswidrigkeiten
 
@@ -1250,10 +1189,6 @@ oder fahrlässig
 
 2.  entgegen § 21 Abs. 2 Labaustauschstoffe in den Geltungsbereich dieser
     Verordnung verbringt.
-
-
-
-
 
 ### § 31 Ordnungswidrigkeiten
 
@@ -1356,15 +1291,11 @@ Fettgesetzes handelt, wer vorsätzlich oder fahrlässig Käse mit dem
 Gütezeichen nach § 11 Abs. 11 in den Verkehr bringt, ohne hierzu
 berechtigt zu sein.
 
-
 ### § 31a (weggefallen)
-
-
 
 ### § 32
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 7) Standardsorten
 
@@ -1372,11 +1303,9 @@ berechtigt zu sein.
 Fundstelle des Originaltextes BGBl. I 1986, 423 - 427;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Anlage 1a (weggefallen)
 
 -
-
 
 ### Anlage 1b (zu § 8) Geographische Herkunftsbezeichnung
 
@@ -1581,10 +1510,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Milchwirtschaftlicher Verein Baden-Württemberg e.V., Lindenspürstraße
     31, 70176 Stuttgart.
 
-
-
-
-
 ### Anlage 2 (zu § 12) Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1705)
@@ -1674,11 +1599,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Die Mindestgehalte an Trockenmasse gelten nicht für Schmelzkäse und
 Schmelzkäsezubereitungen aus Frischkäse.
 
-
 ### Anlage 3 (weggefallen)
 
 -
-
 
 ### Anlage 4 (zu § 11 Abs. 9) Bestimmungen über die Durchführung von Käseprüfungen
 
@@ -1900,7 +1823,6 @@ Die Artikel 1 und 2 gelten nicht für die Standardsorte Emmentaler.
 Jeder zu prüfende Käselaib dieser Standardsorte muß am Tage der
 Güteprüfung mindestens 75 Tage alt sein.
 
-
 ### Anlage 5 (zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1) Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21
 
 Fundstelle des Originaltextes: BGBl. I 1986, 432-433
@@ -1949,7 +1871,6 @@ gesundheitliche Nachprüfung notwendigen Menge .......................
 ..
 (Ort)                 (Datum)             (Unterschrift des
 Nachweisführenden)
-
 
 ### Anlage 6 (zu § 21 Abs. 2 S 1 Nr. 4) Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
 

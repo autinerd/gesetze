@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 21.12.2008 I 2933
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -36,7 +34,6 @@ Auf Grund
 
 
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Oberfinanzdirektion Chemnitz
 
@@ -111,7 +108,6 @@ Zollverwaltungsgesetzes sowie die Steueraufsicht nach den §§ 209 und
 210 der Abgabenordnung, soweit diese Aufgaben von einer besonders
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
-
 
 ## § 2 Oberfinanzdirektion Cottbus
 
@@ -251,7 +247,6 @@ des Zollverwaltungsgesetzes sowie die Steueraufsicht nach den §§ 209
 und 210 der Abgabenordnung, soweit diese Aufgaben von einer besonders
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
-
 
 ## § 3 Oberfinanzdirektion Hamburg
 
@@ -561,7 +556,6 @@ Zollverwaltungsgesetzes sowie die Steueraufsicht nach den §§ 209 und
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
 
-
 ## § 4 Oberfinanzdirektion Hannover
 
 (1) Dem Hauptzollamt Braunschweig werden übertragen die
@@ -746,7 +740,6 @@ des Zollverwaltungsgesetzes sowie die Steueraufsicht nach den §§ 209
 und 210 der Abgabenordnung, soweit diese Aufgaben von einer besonders
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
-
 
 ## § 5 Oberfinanzdirektion Karlsruhe
 
@@ -978,7 +971,6 @@ und 210 der Abgabenordnung, soweit diese Aufgaben von einer besonders
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
 
-
 ## § 6 Oberfinanzdirektion Koblenz
 
 (1) Dem Hauptzollamt Darmstadt werden übertragen die Zuständigkeiten
@@ -1160,7 +1152,6 @@ des Zollverwaltungsgesetzes sowie die Steueraufsicht nach den §§ 209
 und 210 der Abgabenordnung, soweit diese Aufgaben von einer besonders
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
-
 
 ## § 7 Oberfinanzdirektion Köln
 
@@ -1404,7 +1395,6 @@ Zollverwaltungsgesetzes sowie die Steueraufsicht nach den §§ 209 und
 dafür eingerichteten Mobilen Kontrollgruppe wahrgenommen werden, und
 die sich daraus ergebenden Maßnahmen.
 
-
 ## § 8 Oberfinanzdirektion Nürnberg
 
 (1) Dem Hauptzollamt Augsburg werden übertragen die Zuständigkeiten
@@ -1612,7 +1602,6 @@ die Steueraufsicht nach den §§ 209 und 210 der Abgabenordnung, soweit
 diese Aufgaben von einer besonders dafür eingerichteten Mobilen
 Kontrollgruppe wahrgenommen werden, und die sich daraus ergebenden
 Maßnahmen.
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 

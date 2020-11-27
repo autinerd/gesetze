@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 22 Abs. 3 G v. 26.2.2008 I 220
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2 Satz 2, des § 4 Abs. 1 Satz 1 und der §§ 6
@@ -28,7 +27,6 @@ und 8 Satz 2 des Amateurfunkgesetzes vom 23. Juni 1997 (BGBl. I S.
 Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S.
 821) verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -66,7 +64,6 @@ Diese Verordnung regelt
 Regelungen der Verordnung über das Nachweisverfahren zur Begrenzung
 elektromagnetischer Felder vom 20. August 2002 (BGBl. I S. 3366)
 bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -133,10 +130,6 @@ Im Sinne dieser Verordnung ist
     Geschwindigkeit und Güte sicherzustellen, die unter den gegebenen
     Bedingungen erforderlich ist.
 
-
-
-
-
 ## § 3 Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist gleichzeitig mit dem
@@ -149,7 +142,6 @@ ihrem Amtsblatt veröffentlicht.
 
 (2) Die Zulassung zur Prüfung erfolgt, wenn zuvor die jeweilige Gebühr
 gemäß Anlage 2 Nr. 1 dieser Verordnung entrichtet wurde.
-
 
 ## § 4 Prüfungsanforderungen und Prüfungsinhalte
 
@@ -192,7 +184,6 @@ bescheinigt den erfolgreichen Nachweis von praktischen Fertigkeiten im
 Hören und Geben von Morsezeichen. Die Bestimmungen der §§ 5 und 6
 gelten entsprechend.
 
-
 ## § 5 Durchführung der Prüfung
 
 (1) Die Prüfung nach § 4 Abs. 1, 2 und 3 besteht aus einer
@@ -225,7 +216,6 @@ Erleichterungen entscheidet die Regulierungsbehörde.
 der betroffenen Kreise von der Regulierungsbehörde festgelegt und in
 ihrem Amtsblatt veröffentlicht.
 
-
 ## § 6 Prüfungsausschuss
 
 (1) Zur Abnahme von Prüfungen werden von der Regulierungsbehörde
@@ -256,7 +246,6 @@ sichergestellt ist.
 Einzelheiten werden durch die Regulierungsbehörde festgelegt und in
 ihrem Amtsblatt veröffentlicht.
 
-
 ## § 7 Amateurfunkzeugnis
 
 (1) Amateurfunkzeugnisse werden in die Klassen A und E eingeteilt. Das
@@ -276,7 +265,6 @@ Klasse E ist, dass der Prüfungsteilnehmer die Prüfung gemäß § 5 Abs. 2
 bestanden und damit die in § 4 Abs. 2 geforderten Kenntnisse
 nachgewiesen hat.
 
-
 ## § 8 Anerkennung von Prüfungsbescheinigungen und Genehmigungen
 
 (1) Prüfungsbescheinigungen aus Staaten, die sich zur Umsetzung der
@@ -293,7 +281,6 @@ sind. Der Regulierungsbehörde ist vom Original der Urkunden oder von
 Dokumenten nach Satz 1, die nicht in deutscher, englischer oder
 französischer Sprache abgefasst sind, eine beglaubigte Übersetzung
 vorzulegen.
-
 
 ## § 9 Zulassung zur Teilnahme am Amateurfunkdienst
 
@@ -325,7 +312,6 @@ anzuzeigen.
 (5) Für den Empfang von Aussendungen ist eine Zulassung zur Teilnahme
 am Amateurfunkdienst nicht erforderlich.
 
-
 ## § 10 Rufzeichenzuteilung
 
 (1) Ein personengebundenes Rufzeichen wird einem Funkamateur von der
@@ -348,7 +334,6 @@ Rufzeichenreihen einschließlich der Zuordnung zu den Klassen und
 Verwendungszwecken, die zulässigen Kennungen, die nicht
 zuteilungsfähigen Rufzeichenzusammensetzungen und die international
 gebräuchlichen Rufzeichenzusätze.
-
 
 ## § 11 Rufzeichenanwendung
 
@@ -373,7 +358,6 @@ Standorten aus am Amateurfunkdienst teilgenommen werden. Ausnahmen
 sind zulässig, bedürfen jedoch der vorherigen Zustimmung durch die
 Regulierungsbehörde.
 
-
 ## § 12 Ausbildungsfunkbetrieb
 
 (1) Der Ausbildungsfunkbetrieb dient der praktischen Vorbereitung auf
@@ -396,7 +380,6 @@ zugeteilte Ausbildungsrufzeichen zu benutzen.
 (4) Beim Ausbildungsfunkbetrieb sind von dem Auszubildenden Angaben
 über den Funkbetrieb schriftlich festzuhalten und vom Ausbilder zu
 bestätigen. Dieser hat die Aufzeichnungen ein Jahr aufzubewahren.
-
 
 ## § 13 Fernbediente oder automatisch arbeitende Amateurfunkstellen
 
@@ -448,10 +431,6 @@ widerrufen werden, wenn
 4.  der Inhaber des Rufzeichens seine Verpflichtungen nach Absatz 1 Satz 2
     oder eine Auflage nach Absatz 3 Satz 2 nicht erfüllt.
 
-
-
-
-
 ## § 14 Klubstationen
 
 (1) Das Rufzeichen für das Betreiben einer Amateurfunkstelle als
@@ -476,7 +455,6 @@ Klubstation zu verwenden.
 (4) Zum Amateurfunkdienst zugelassene Funkamateure mit einem
 Amateurfunkzeugnis der Klasse E dürfen die Klubstation im Rahmen ihres
 Berechtigungsumfangs gemäß § 9 Abs. 2 mitbenutzen.
-
 
 ## § 15 Rufzeichenliste
 
@@ -504,7 +482,6 @@ und in angemessener Weise auf ihr Widerspruchsrecht hinzuweisen.
 Unabhängig vom Inhalt der Widersprüche werden alle zugeteilten
 Rufzeichen in Verbindung mit dem Namen des Inhabers und die Standorte
 von Amateurfunkstellen nach § 13 in das Verzeichnis aufgenommen.
-
 
 ## § 16 Technische und betriebliche Rahmenbedingungen für Amateurfunkstellen
 
@@ -555,7 +532,6 @@ des See- und Flugfunkdienstes ist nicht zulässig.
 (9) Der Funkamateur hat geeignete Maßnahmen zu treffen, um eine
 missbräuchliche Benutzung seiner Amateurfunkstelle auszuschließen.
 
-
 ## § 17 Störungen und Maßnahmen bei Störungen
 
 (1) Die Regulierungsbehörde kann zur Ermittlung und zur Untersuchung
@@ -576,13 +552,11 @@ anordnen.
 (3) Die Bestimmungen des Gesetzes über die elektromagnetische
 Verträglichkeit von Betriebsmitteln bleiben unberührt.
 
-
 ## § 18 Gebühren und Auslagen
 
 Für Amtshandlungen nach dem Amateurfunkgesetz und dieser Verordnung
 werden Gebühren nach Anlage 2 dieser Verordnung und Auslagen nach § 10
 des Verwaltungskostengesetzes erhoben.
-
 
 ## § 19 Übergangsregelungen
 
@@ -619,7 +593,6 @@ Eisenbahnen gelten die Bestimmungen der Amtsblattmitteilung Nr.
 311/2005 der Bundesnetzagentur (veröffentlicht im Amtsblatt Nr.
 24/2005 vom 21. Dezember 2005) sinngemäß weiter.
 
-
 ## § 20 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
@@ -630,7 +603,6 @@ Eisenbahnen gelten die Bestimmungen der Amtsblattmitteilung Nr.
 Verordnung gelten die in § 12 Abs. 3 und 4 der Verordnung zur
 Durchführung des Gesetzes über den Amateurfunk vom 13. März 1967
 (BGBl. I S. 284) festgelegten Richtwerte.
-
 
 ## Anlage 1 (zu § 1 Nr. 6) Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
 
@@ -1481,10 +1453,6 @@ Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.
     durch den Amateurfunkdienst genutzt werden. Die Nutzungsbedingungen
     werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsblatt
     veröffentlicht.
-
-
-
-
 
 ## Anlage 2 (zu § 1 Nr. 7 und § 18) Gebührenverzeichnis
 

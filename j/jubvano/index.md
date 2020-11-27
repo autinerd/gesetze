@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1978, Nr 176
 
-
-
 ## 1.
 
 (1) Auf Grund des § 8 Abs. 1 letzter Halbsatz und des § 9 der
@@ -72,7 +70,6 @@ c)  für Beamte der Bundesjustizverwaltung, die zu einer anderen Behörde
 Generalbundesanwalt beim Bundesgerichtshof werden die Zuwendungen von
 mir gewährt.
 
-
 ## 2.
 
 Zur Entscheidung über die Versagung der Zuwendungen gegenüber den in
@@ -85,11 +82,9 @@ Dienstherren, die nach ihren Besoldungsgruppen jenen Beamten des
 Bundes vergleichbar sind, zu deren Ernennung die genannten
 Behördenleiter nicht zuständig sind.
 
-
 ## 3.
 
 -
-
 
 ## Schlußformel
 

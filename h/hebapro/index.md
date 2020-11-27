@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 40 G v. 6.12.2011 I 2515
 
-
 ## § 1 Inhalt der Ausbildung
 
 (1) Die Ausbildung für Hebammen und Entbindungspfleger umfaßt
@@ -52,7 +51,6 @@ Tätigkeiten und Aufgaben in eigener Verantwortung durchzuführen.
 Ausbildungsveranstaltungen ist durch eine Bescheinigung nach dem
 Muster der Anlage 3 nachzuweisen.
 
-
 ## § 2 Staatliche Prüfung
 
 (1) Die staatliche Prüfung umfaßt einen schriftlichen, einen
@@ -63,7 +61,6 @@ die Ausbildung abgeschlossen hat. Die zuständige Behörde, in deren
 Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll,
 kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der
 beteiligten Prüfungsausschüsse sind vorher zu hören.
-
 
 ## § 3 Prüfungsausschuß
 
@@ -126,7 +123,6 @@ Stellvertreter für die einzelnen Fächer.
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ## § 4 Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
@@ -152,7 +148,6 @@ werden.
 (4) Die besonderen Belange behinderter Prüflinge sind zur Wahrung
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
-
 
 ## § 5 Schriftlicher Teil der Prüfung
 
@@ -192,7 +187,6 @@ Fachprüfern die Prüfungsnote für den schriftlichen Teil der Prüfung.
 Dabei sind das in Absatz 1 Nr. 1 genannte Fach mit dem Faktor 2 und
 die übrigen Fächer einfach zu gewichten.
 
-
 ## § 6 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
@@ -226,7 +220,6 @@ dem Faktor 2 und die übrigen Fächer einfach zu gewichten.
 (3) Der Vorsitzende des Prüfungsausschusses kann auf Antrag die
 Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
-
 ## § 7 Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die folgenden
@@ -258,13 +251,11 @@ Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im
 Einvernehmen mit den Fachprüfern die Prüfungsnote für den praktischen
 Teil der Prüfung.
 
-
 ## § 8 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnis der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 9 Benotung
 
@@ -284,7 +275,6 @@ können,
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht
 und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
 absehbarer Zeit nicht behoben werden können.
-
 
 ## § 10 Bestehen und Wiederholung der Prüfung
 
@@ -318,7 +308,6 @@ Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
 ## § 11 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück,
@@ -333,7 +322,6 @@ Bescheinigung verlangt werden.
 unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden.
 
-
 ## § 12 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
@@ -346,7 +334,6 @@ Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ## § 13 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -356,7 +343,6 @@ betreffenden Teil der Prüfung für "nicht bestanden" erklären. Eine
 solche Erklärung ist nach Ablauf von drei Jahren nach Abschluß der
 Prüfung nicht mehr zulässig.
 
-
 ## § 14 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
@@ -364,14 +350,12 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## § 15 Erlaubnisurkunde
 
 Liegen die Voraussetzungen des Gesetzes für die Erteilung der
 Erlaubnis zur Führung der Berufsbezeichnung nach § 1 Abs. 1 des
 Gesetzes vor, so stellt die zuständige Behörde die Erlaubnisurkunde
 nach dem Muster der Anlage 5 aus.
-
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -443,7 +427,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 16a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -458,16 +441,13 @@ Antragstellern ein rechtsmittelfähiger Bescheid zu erteilen. Satz 3
 tritt für Anträge nach § 2 Absatz 2 des Hebammengesetzes am 1.
 Dezember 2012 in Kraft.
 
-
 ## § 17 (weggefallen)
 
 -
 
-
 ## § 18
 
 (Inkrafttreten)
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -2083,9 +2063,6 @@ Fundstelle des Originaltextes: BGBl. I 1987, 933 - 937
 
     *
 
-
-
-
 ## Anlage 2 (zu § 2 Abs. 1)
 
    Fundstelle des Originaltextes: BGBl. I 1987, 938 - 939
@@ -2582,9 +2559,6 @@ Fundstelle des Originaltextes: BGBl. I 1987, 933 - 937
 
     *
 
-
-
-
 ## Anlage 3 (zu § 1 Abs. 4)
 
    Fundstelle des Originaltextes: BGBl. I 1987, 940
@@ -2616,7 +2590,6 @@ Ort, Datum
 \*)
 Nichtzutreffendes streichen.
 
-
 ## Anlage 4 (zu § 10 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1987, 941)
@@ -2644,7 +2617,6 @@ Ort, Datum
 (Siegel)
 ..................................
 (Unterschrift des/der Vorsitzenden des Prüfungsausschusses)
-
 
 ## Anlage 5 (zu § 15)
 

@@ -26,7 +26,6 @@ Stand: Vgl. nur noch Fundstellennachweis B
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 Dem in Montreal am 1. März 1991 von der Bundesrepublik Deutschland
@@ -35,14 +34,12 @@ Plastiksprengstoffen zum Zweck des Aufspürens wird zugestimmt. Das
 Übereinkommen wird nachstehend mit einer amtlichen deutschen
 Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, vereinbarte Änderungen des Technischen Anhangs zu dem
 Übereinkommen durch Rechtsverordnung ohne Zustimmung des Bundesrates
 in Kraft zu setzen.
-
 
 ## Art 3
 

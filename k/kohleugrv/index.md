@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 16
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 20 des Gesetzes zur Anpassung und Gesundung des
 deutschen Steinkohlenbergbaus und der deutschen
 Steinkohlenbergbaugebiete vom 15. Mai 1968 (Bundesgesetzbl. I S. 365)
 wird verordnet:
-
 
 ## § 1 Optimale Unternehmensgröße, Steinkohlenbergbaubereich
 
@@ -44,7 +41,6 @@ Zusammenhang stehenden Kokereien, Kohlenwertstoffbetriebe,
 Brikettfabriken und Energiebetriebe einschließlich der hierfür
 erforderlichen technischen und kaufmännischen Verwaltung.
 
-
 ## § 2 Abbauplanung, Rationalisierung
 
 Das Unternehmen muß gewährleisten, daß es
@@ -61,10 +57,6 @@ Das Unternehmen muß gewährleisten, daß es
     regional zusammenhängende Gruppen von Steinkohlenbergwerken nutzen
     kann.
 
-
-
-
-
 ## § 3 Investitionsplanung
 
 Für Investitionen, die nach ihrer Art und ihrem Umfang für die
@@ -73,7 +65,6 @@ Steinkohlenbergbaugebiet von Bedeutung sind, muß das Unternehmen
 gewährleisten, daß es diese für das Steinkohlenbergbaugebiet
 einheitlich zu planenden Investitionen in seinem
 Steinkohlenbergbaubereich in dem vorgesehenen Umfang vornehmen kann.
-
 
 ## § 4 Konzentration und Anpassung
 
@@ -94,7 +85,6 @@ nachhaltig stärksten Ertragskraft bestmöglich ausgenutzt werden.
 für die weiterbetriebenen Steinkohlenbergwerke eines
 Steinkohlenbergbaugebietes müssen auf ein möglichst geringes Ausmaß
 beschränkt bleiben.
-
 
 ## § 5 Belegschaftswesen
 
@@ -118,18 +108,15 @@ sicherstellen, daß bei Konzentrations- und Anpassungsmaßnahmen
 
 werden.
 
-
 ## § 6 Anwendung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 43 Satz
 2 des Gesetzes auch im Land Berlin.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

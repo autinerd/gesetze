@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   § 3 Abs. 2 V v. 21.1.2003 I 93
 
-
 ## Eingangsformel
 
 Auf Grund des § 35a Abs. 1 Satz 1 Nr. 1 des Fünften Buches
@@ -29,7 +28,6 @@ Festsetzung von Festbeträgen für Arzneimittel in der gesetzlichen
 Krankenversicherung vom 27. Juli 2001 (BGBl. I S. 1948) eingefügt
 worden ist, verordnet das Bundesministerium für Gesundheit im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1
 
@@ -44,7 +42,6 @@ Multiplikation des Festbetrages der Standardpackung mit dem Ergebnis
 der in der Anlage genannten gruppenspezifischen Regressionsgleichung.
 Die angepassten Festbeträge gelten für alle Arzneimittel, die von der
 jeweiligen Gruppenbeschreibung der Anlage erfasst werden.
-
 
 ## § 2
 
@@ -64,14 +61,12 @@ Arzneimittelpreisverordnung ergebenden Apothekenabgabepreis
 einschließlich Umsatzsteuer angeglichen. Absatz 1 Satz 2 gilt
 entsprechend.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Die nach
 § 1 angepassten und nach § 2 angeglichenen Festbeträge werden mit
 Wirkung vom 1. Januar 2002 angewendet; bis zu diesem Zeitpunkt werden
 die bisherigen Festbeträge angewendet.
-
 
 ## Anlage (zu § 1)
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 522
 
-
 ## (XXXX)
 
 Das Präsidium des Goethe-Instituts e.V. hat am 17. November 2008 das
@@ -27,7 +26,6 @@ Goethes.
 Nach Artikel 4 des Vierten Erlasses über die Genehmigung der Stiftung
 und Verleihung von Orden und Ehrenzeichen vom 27. Juni 1975 (BGBl. I
 S. 1857) genehmige ich diese Änderung.
-
 
 ## Schlussformel
 

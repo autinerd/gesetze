@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 23.10.2012 I 2246
 
-
 ## Abschnitt 1 - Elterngeld
-
-
 
 ### § 1 Berechtigte
 
@@ -168,7 +165,6 @@ nach § 2 Absatz 5 des Einkommensteuergesetzes in Höhe von mehr als 250
 die Summe des zu versteuernden Einkommens beider berechtigter Personen
 mehr als 500 000 Euro beträgt.
 
-
 ### § 2 Höhe des Elterngeldes
 
 (1) Elterngeld wird in Höhe von 67 Prozent des Einkommens aus
@@ -213,7 +209,6 @@ Geburt ist dabei höchstens der Betrag von 2 770 Euro anzusetzen.
 auch, wenn die berechtigte Person vor der Geburt des Kindes kein
 Einkommen aus Erwerbstätigkeit hat.
 
-
 ### § 2a Geschwisterbonus und Mehrlingszuschlag
 
 (1) Lebt die berechtigte Person in einem Haushalt mit
@@ -246,7 +241,6 @@ entfällt.
 (4) Bei Mehrlingsgeburten erhöht sich das Elterngeld um je 300 Euro
 für das zweite und jedes weitere Kind (Mehrlingszuschlag). Dies gilt
 auch, wenn ein Geschwisterbonus nach Absatz 1 gezahlt wird.
-
 
 ### § 2b Bemessungszeitraum
 
@@ -300,7 +294,6 @@ mit der zusätzlichen Maßgabe anzuwenden, dass für die Ermittlung des
 Einkommens aus nichtselbstständiger Erwerbstätigkeit vor der Geburt
 der vorangegangene steuerliche Veranlagungszeitraum maßgeblich ist.
 
-
 ### § 2c Einkommen aus nichtselbstständiger Erwerbstätigkeit
 
 (1) Der monatlich durchschnittlich zu berücksichtigende Überschuss der
@@ -327,7 +320,6 @@ eine Angabe zu einem Abzugsmerkmal geändert hat, ist die von der
 Angabe nach Satz 1 abweichende Angabe maßgeblich, wenn sie in der
 überwiegenden Zahl der Monate des Bemessungszeitraums gegolten hat.
 
-
 ### § 2d Einkommen aus selbstständiger Erwerbstätigkeit
 
 (1) Die monatlich durchschnittlich zu berücksichtigende Summe der
@@ -353,7 +345,6 @@ zusammenhängenden tatsächlichen Betriebsausgaben anzusetzen.
 der Ermittlung der nach § 2e erforderlichen Abzugsmerkmale für Steuern
 die Angaben im Einkommensteuerbescheid maßgeblich. § 2c Absatz 3 Satz
 2 gilt entsprechend.
-
 
 ### § 2e Abzüge für Steuern
 
@@ -431,7 +422,6 @@ berücksichtigt.
 Pauschalen nur berücksichtigt, wenn sie ohne weitere Voraussetzung
 jeder berechtigten Person zustehen.
 
-
 ### § 2f Abzüge für Sozialabgaben
 
 (1) Als Abzüge für Sozialabgaben sind Beträge für die gesetzliche
@@ -472,7 +462,6 @@ Zugrundelegung der Beitragssatzpauschalen nach Absatz 1 bestimmt wird.
 
 (3) Andere Maßgaben zur Bestimmung der sozialversicherungsrechtlichen
 Beitragsbemessungsgrundlagen werden nicht berücksichtigt.
-
 
 ### § 3 Anrechnung von anderen Einnahmen
 
@@ -535,7 +524,6 @@ und jedes weitere Kind.
 vergleichbaren Leistungen gestellt wird, ruht der Anspruch auf
 Elterngeld bis zur möglichen Höhe der vergleichbaren Leistung.
 
-
 ### § 4 Bezugszeitraum
 
 (1) Elterngeld kann in der Zeit vom Tag der Geburt bis zur Vollendung
@@ -592,7 +580,6 @@ entsprechend. Nicht sorgeberechtigte Elternteile und Personen, die
 nach § 1 Abs. 3 Nr. 2 und 3 Elterngeld beziehen können, bedürfen der
 Zustimmung des sorgeberechtigten Elternteils.
 
-
 ### § 5 Zusammentreffen von Ansprüchen
 
 (1) Erfüllen beide Elternteile die Anspruchsvoraussetzungen, bestimmen
@@ -613,7 +600,6 @@ Elterngeld beziehen kann, nicht erzielt, kommt es abweichend von
 Absatz 2 allein auf die Entscheidung des sorgeberechtigten Elternteils
 an.
 
-
 ### § 6 Auszahlung und Verlängerungsmöglichkeit
 
 Das Elterngeld wird im Laufe des Monats gezahlt, für den es bestimmt
@@ -623,7 +609,6 @@ Auszahlungszeitraum verdoppelt. Die zweite Hälfte der jeweiligen
 Monatsbeträge wird beginnend mit dem Monat gezahlt, der auf den
 letzten Monat folgt, für den der berechtigten Person ein Monatsbetrag
 der ersten Hälfte gezahlt wurde.
-
 
 ### § 7 Antragstellung
 
@@ -654,7 +639,6 @@ Antragstellerin die Monatsbeträge ausgezahlt; die andere berechtigte
 Person kann bei einem späteren Antrag abweichend von § 5 Abs. 2 nur
 für die unter Berücksichtigung von § 4 Abs. 2 Satz 2 und 3
 verbleibenden Monate Elterngeld erhalten.
-
 
 ### § 8 Auskunftspflicht, Nebenbestimmungen
 
@@ -690,7 +674,6 @@ anspruchsberechtigten Person für den letzten abgeschlossenen
 Veranlagungszeitraum nicht vorliegt und in denen noch nicht angegeben
 werden kann, ob die Beträge nach § 1 Absatz 8 überschritten werden.
 
-
 ### § 9 Einkommens- und Arbeitszeitnachweis, Auskunftspflicht des Arbeitgebers
 
 Soweit es zum Nachweis des Einkommens aus Erwerbstätigkeit oder der
@@ -703,7 +686,6 @@ ehemalige Arbeitgeber. Für die in Heimarbeit Beschäftigten und die
 ihnen Gleichgestellten (§ 1 Absatz 1 und 2 des Heimarbeitsgesetzes)
 tritt an die Stelle des Arbeitgebers der Auftraggeber oder
 Zwischenmeister.
-
 
 ### § 10 Verhältnis zu anderen Sozialleistungen
 
@@ -745,7 +727,6 @@ die Hälfte.
 Sozialleistung ein Kostenbeitrag erhoben werden kann, der
 einkommensabhängig ist.
 
-
 ### § 11 Unterhaltspflichten
 
 Unterhaltsverpflichtungen werden durch die Zahlung des Elterngeldes
@@ -757,7 +738,6 @@ vervielfachen sich bei Mehrlingsgeburten mit der Zahl der geborenen
 Kinder. Die Sätze 1 bis 3 gelten nicht in den Fällen des § 1361 Abs.
 3, der §§ 1579, 1603 Abs. 2 und des § 1611 Abs. 1 des Bürgerlichen
 Gesetzbuchs.
-
 
 ### § 12 Zuständigkeit; Aufbringung der Mittel
 
@@ -774,7 +754,6 @@ der Lebenspartnerin der berechtigten Person den inländischen Sitz hat.
 
 (2) Der Bund trägt die Ausgaben für das Elterngeld.
 
-
 ### § 13 Rechtsweg
 
 (1) Über öffentlich-rechtliche Streitigkeiten in Angelegenheiten der
@@ -784,7 +763,6 @@ zuständige Stelle nach § 12 bestimmt wird.
 
 (2) Widerspruch und Anfechtungsklage haben keine aufschiebende
 Wirkung.
-
 
 ### § 14 Bußgeldvorschriften
 
@@ -818,10 +796,7 @@ zweitausend Euro geahndet werden.
 über Ordnungswidrigkeiten sind die in § 12 Abs. 1 Satz 1 und 3
 genannten Behörden.
 
-
 ## Abschnitt 2 - Elternzeit für Arbeitnehmerinnen und Arbeitnehmer
-
-
 
 ### § 15 Anspruch auf Elternzeit
 
@@ -951,7 +926,6 @@ der Verringerung der Arbeitszeit nicht oder nicht rechtzeitig
 zustimmt, kann der Arbeitnehmer oder die Arbeitnehmerin Klage vor den
 Gerichten für Arbeitssachen erheben.
 
-
 ### § 16 Inanspruchnahme der Elternzeit
 
 (1) Wer Elternzeit beanspruchen will, muss sie spätestens sieben
@@ -1000,7 +974,6 @@ drei Wochen nach dem Tod des Kindes.
 (5) Eine Änderung in der Anspruchsberechtigung hat der Arbeitnehmer
 oder die Arbeitnehmerin dem Arbeitgeber unverzüglich mitzuteilen.
 
-
 ### § 17 Urlaub
 
 (1) Der Arbeitgeber kann den Erholungsurlaub, der dem Arbeitnehmer
@@ -1023,7 +996,6 @@ Elternzeit mehr Urlaub erhalten, als ihm oder ihr nach Absatz 1
 zusteht, kann der Arbeitgeber den Urlaub, der dem Arbeitnehmer oder
 der Arbeitnehmerin nach dem Ende der Elternzeit zusteht, um die zu
 viel gewährten Urlaubstage kürzen.
-
 
 ### § 18 Kündigungsschutz
 
@@ -1048,16 +1020,11 @@ Arbeitnehmerinnen
     Anspruch auf Elterngeld nach § 1 während des Bezugszeitraums nach § 4
     Abs. 1 haben.
 
-
-
-
-
 ### § 19 Kündigung zum Ende der Elternzeit
 
 Der Arbeitnehmer oder die Arbeitnehmerin kann das Arbeitsverhältnis
 zum Ende der Elternzeit nur unter Einhaltung einer Kündigungsfrist von
 drei Monaten kündigen.
-
 
 ### § 20 Zur Berufsbildung Beschäftigte, in Heimarbeit Beschäftigte
 
@@ -1071,7 +1038,6 @@ Heimarbeitsgesetzes), soweit sie am Stück mitarbeiten. Für sie tritt
 an die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister
 und an die Stelle des Arbeitsverhältnisses das
 Beschäftigungsverhältnis.
-
 
 ### § 21 Befristete Arbeitsverträge
 
@@ -1117,10 +1083,7 @@ Vertreterin nicht mitzuzählen ist. Die Sätze 1 und 2 gelten
 entsprechend, wenn im Rahmen arbeitsrechtlicher Gesetze oder
 Verordnungen auf die Zahl der Arbeitsplätze abgestellt wird.
 
-
 ## Abschnitt 3 - Statistik und Schlussvorschriften
-
-
 
 ### § 22 Bundesstatistik
 
@@ -1197,10 +1160,6 @@ zu melden.
 
 3.  Kennnummer des Antragstellers oder der Antragstellerin.
 
-
-
-
-
 ### § 23 Auskunftspflicht; Datenübermittlung an das Statistische Bundesamt
 
 (1) Für die Erhebung nach § 22 besteht Auskunftspflicht. Die Angaben
@@ -1221,7 +1180,6 @@ Statistische Bundesamt zu löschen.
 elektronisch bis zum Ablauf von 30 Arbeitstagen nach Ablauf des
 Berichtszeitraums an das Statistische Bundesamt zu übermitteln.
 
-
 ### § 24 Übermittlung von Tabellen mit statistischen Ergebnissen durch das Statistische Bundesamt
 
 Zur Verwendung gegenüber den gesetzgebenden Körperschaften und zu
@@ -1233,7 +1191,6 @@ Landesbehörden. Tabellen, deren Tabellenfelder nur einen einzigen Fall
 ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht
 differenzierter als auf Regierungsbezirksebene, im Falle der
 Stadtstaaten auf Bezirksebene, aufbereitet sind.
-
 
 ### § 24a Übermittlung von Einzelangaben durch das Statistische Bundesamt
 
@@ -1271,14 +1228,12 @@ Fassung entsprechend. Die Empfängerinnen und Empfänger von
 Einzelangaben dürfen aus ihrer Tätigkeit gewonnene Erkenntnisse nur
 für die in Absatz 1 genannten Zwecke verwenden.
 
-
 ### § 25 Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 1. Oktober
 2008 einen Bericht über die Auswirkungen dieses Gesetzes sowie über
 die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften
 vor. Er darf keine personenbezogenen Daten enthalten.
-
 
 ### § 26 Anwendung der Bücher des Sozialgesetzbuches
 
@@ -1288,7 +1243,6 @@ des Zehnten Buches Sozialgesetzbuch anzuwenden.
 
 (2) § 328 Absatz 3 und § 331 des Dritten Buches Sozialgesetzbuch
 gelten entsprechend.
-
 
 ### § 27 Übergangsvorschrift
 

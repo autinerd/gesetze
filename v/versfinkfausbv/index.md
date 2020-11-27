@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1187
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -26,7 +24,6 @@ des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S.
 3197) verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -41,14 +38,9 @@ anerkannt.
 
 2.  Finanzberatung.
 
-
-
-
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung und Struktur der Berufsausbildung
 
@@ -69,10 +61,6 @@ nachzuweisen.
 
 
 3.  fachrichtungsbezogene Qualifikationseinheiten gemäß § 4 Abs. 3.
-
-
-
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -242,10 +230,6 @@ Wahlqualifikationseinheiten:
 
 7.  Vertrieb von Versicherungsprodukten für Privatkunden.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den
@@ -256,13 +240,11 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Schriftlicher Ausbildungsnachweis
 
@@ -271,7 +253,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -296,10 +277,6 @@ Prüfungsgebieten durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 9 Abschlussprüfung in der Fachrichtung Versicherung
 
@@ -452,7 +429,6 @@ Leistungen erbracht worden sein. Werden die Prüfungsleistungen in
 einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung
 nicht bestanden.
 
-
 ## § 10 Abschlussprüfung in der Fachrichtung Finanzberatung
 
 (1) Die Abschlussprüfung in der Fachrichtung Finanzberatung erstreckt
@@ -602,7 +578,6 @@ Leistungen erbracht worden sein. Werden die Prüfungsleistungen in
 einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung
 nicht bestanden.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -610,11 +585,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 4 Abs. 1) Liste der zu vermittelnden Produkte gemäß § 4 Abs. 1 Nr. 4
 
@@ -700,10 +673,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
         - Investmentfonds
         - Wertpapiere
         - Konsumentenkredit
-
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen - Sachliche Gliederung -
 
@@ -1752,13 +1721,6 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
         d)  über den Prozess der Antragsbearbeitung informieren
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen - Zeitliche Gliederung -
 

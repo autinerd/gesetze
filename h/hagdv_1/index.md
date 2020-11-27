@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 435 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Verfahren bei der Gleichstellung
-
-
 
 ### § 1 Verfahren bei der Gleichstellung
 
@@ -44,10 +41,7 @@ befristet und unter Auflagen oder Bedingungen erfolgen.
 einzelner Personen aus einer Gleichstellung von Personengruppen nach
 den §§ 5 und 7.
 
-
 ## Zweiter Abschnitt - Errichtung von Heimarbeitsausschüssen
-
-
 
 ### § 2 Bekanntmachung der Errichtung von Heimarbeitsausschüssen
 
@@ -55,7 +49,6 @@ Die Errichtung des Heimarbeitsausschusses ist an einer von der
 zuständigen Arbeitsbehörde jeweils zu bestimmenden Stelle
 bekanntzumachen. Der räumliche, sachliche und persönliche
 Zuständigkeitsbereich des Heimarbeitsausschusses ist dabei anzugeben.
-
 
 ### § 3 Vorsitzender
 
@@ -75,7 +68,6 @@ gefaßten Beschlüsse. Er hat dem Heimarbeitsausschuß in wichtigen
 Angelegenheiten über das von ihm Veranlaßte Mitteilung zu machen. Der
 Vorsitzende ist berechtigt, Erklärungen und Auskünfte, die dem
 Heimarbeitsausschuß gegenüber abzugeben sind, entgegenzunehmen.
-
 
 ### § 4 Beisitzer
 
@@ -118,10 +110,7 @@ Arbeitsbehörden der Länder errichtet werden, von den bezirklichen
 Untergliederungen der Spitzenorganisationen einzuholen, soweit solche
 für den Bereich des Landes bestehen.
 
-
 ## Dritter Abschnitt - Verfahren vor den Heimarbeitsausschüssen
-
-
 
 ### § 5 Verfahren vor den Heimarbeitsausschüssen allgemein
 
@@ -197,7 +186,6 @@ bei seiner Beschlußfassung darauf zu achten, daß der Kostenaufwand in
 einem angemessenen Verhältnis zu der Notwendigkeit und dem Umfang der
 Maßnahmen steht.
 
-
 ### § 6 Beteiligung des Heimarbeitsausschusses
 
 Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte
@@ -209,7 +197,6 @@ Heimarbeitsausschuß durch einen Beschluß (§ 4 Abs. 3 HAG) seine
 Stellungnahme festgelegt und der Arbeitsbehörde mitgeteilt hat. Der
 Beschluß des Heimarbeitsausschusses kann schriftlich herbeigeführt
 werden.
-
 
 ### § 7 Zustimmungsverfahren
 
@@ -248,10 +235,7 @@ Gleichstellung nicht nur bestimmte einzelne Personen, so soll die
 zuständige Arbeitsbehörde vor ihrer Entscheidung über die Zustimmung
 die gleichgeordnete Wirtschaftsbehörde zur Stellungnahme auffordern.
 
-
 ## Vierter Abschnitt - Errichtung von Entgeltausschüssen für fremde Hilfskräfte der Heimarbeit und das Verfahren vor ihnen
-
-
 
 ### § 8 Entgeltausschüsse
 
@@ -269,10 +253,7 @@ angemessenen Frist keine geeigneten Vorschläge eingereicht haben.
 (2) Für das Verfahren vor den Entgeltausschüssen für fremde
 Hilfskräfte der Heimarbeit gelten die §§ 5 und 7 sinngemäß.
 
-
 ## Fünfter Abschnitt - Durchführung der allgemeinen Schutzvorschriften
-
-
 
 ### § 9 Listenführung
 
@@ -329,7 +310,6 @@ bestimmten Stelle die Listen eingesandt werden müssen.
 (5) Das Beschaffen und Ausfüllen der Listen obliegt denjenigen, die
 Heimarbeit ausgeben oder weitergeben.
 
-
 ### § 10 Führen von Entgeltbüchern
 
 (1) Entgeltbeleg im Sinne der §§ 9, 11 und 28 HAG ist in der Regel ein
@@ -348,7 +328,6 @@ auszuhändigen.
 (4) Ist der in Heimarbeit Beschäftigte oder Gleichgestellte für
 mehrere Auftraggeber tätig, so hat jeder Auftraggeber ein besonderes
 Entgeltbuch auszustellen.
-
 
 ### § 11 Genehmigung von Entgelt- oder Arbeitszetteln
 
@@ -385,7 +364,6 @@ eingetragen werden, so kann dieser durch Zettel ergänzt werden
 Absatzes 2 Satz 1, des Absatzes 3 und des § 9 Abs. 3 HAG gelten, sind
 im Entgeltbeleg mit Nummern und einem kurzen Hinweis auf den Inhalt
 aufzuführen.
-
 
 ### § 12 Form und Inhalt der Entgeltbelege
 
@@ -443,7 +421,6 @@ einbezogen werden.
 (6) Die zuständigen Arbeitsbehörden haben die nach den Absätzen 3 bis
 5 erlassenen Vorschriften öffentlich bekanntzumachen.
 
-
 ### § 13 Aufbewahrung von Entgeltbelegen
 
 (1) Abgeschlossene Entgeltbelege sind bis zum Ablauf des dritten
@@ -453,7 +430,6 @@ sind auf Verlangen vorzulegen (§ 9 Abs. 3 HAG).
 
 (2) Absatz 1 gilt im Fall des § 11 Abs. 3 entsprechend für den
 Auftraggeber.
-
 
 ### Schlußformel
 

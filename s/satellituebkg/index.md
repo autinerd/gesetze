@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1979, 113
 
-
-
 ## Art 1 Zustimmung zu dem Übereinkommen
 
 Dem in Brüssel am 21. Mai 1974 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Verbreitung der durch
 Satelliten übertragenen programmtragenden Signale wird zugestimmt. Das
 Übereinkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2 Ausschließliches Recht zur Weitersendung
 
@@ -69,12 +66,10 @@ die Übertragung über Satelliten vor dem Inkrafttreten des
 
 (6) § 87 des Urheberrechtsgesetzes bleibt unberührt.
 
-
 ## Art 3 Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4 Inkrafttreten
 

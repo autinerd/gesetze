@@ -23,7 +23,6 @@ Parlaments und des Rates vom 23. Juni 2000 über Kakao- und
 Schokoladenerzeugnisse für die menschliche Ernährung (ABl. EG Nr. L
 197 S. 19) in deutsches Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -35,13 +34,11 @@ Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden
 ist, im Einvernehmen mit dem Bundesministerium für Wirtschaft und
 Arbeit:
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die in Anlage 1 aufgeführten Kakao- und Schokoladenerzeugnisse
 unterliegen dieser Verordnung, soweit sie dazu bestimmt sind, als
 Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
-
 
 ## § 2 Zutaten
 
@@ -86,7 +83,6 @@ der Zuckerartenverordnung aufgeführten Erzeugnisse.
 
 (6) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind
 anzuwenden.
-
 
 ## § 3 Kennzeichnung
 
@@ -167,7 +163,6 @@ Bezeichnung anderer Lebensmittel verwendet werden, sofern diese nicht
 mit den in Anlage 1 aufgeführten Erzeugnissen verwechselt werden
 können.
 
-
 ## § 4 Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
@@ -193,10 +188,6 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
     vorgeschriebenen Weise mit den dort vorgesehenen Angaben versehen
     sind.
 
-
-
-
-
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
@@ -212,7 +203,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 4 Nr. 4 ein Erzeugnis gewerbsmäßig in den
 Verkehr bringt.
 
-
 ## § 6 Übergangsvorschriften
 
 Kakao- und Schokoladenerzeugnisse dürfen bis zum 24. Juni 2004 nach
@@ -220,21 +210,17 @@ den bis zum 23. Dezember 2003 geltenden Vorschriften hergestellt und
 gekennzeichnet sowie bis zum Abbau der Vorräte in den Verkehr gebracht
 werden.
 
-
 ## § 7
 
 -
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu den §§ 1, 2, 3)
 
@@ -511,13 +497,6 @@ Begriffsbestimmungen
         Begriffsbestimmungen der Nummern 3, 4, 5 oder 6 und anderen
         Lebensmitteln, sofern der Schokoladenanteil mindestens 25 Prozent des
         Gesamtgewichts des Erzeugnisses entspricht.
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 1 Nr. 1)
 

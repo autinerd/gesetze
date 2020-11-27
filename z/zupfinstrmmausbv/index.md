@@ -21,7 +21,6 @@ abgestimmte,von der Ständigen Konferenz der Kultusministerder Länder
 der Bundesrepublik Deutschlandbeschlossene Rahmenlehrplan für
 dieBerufsschule werden als Beilage zumBundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 der Handwerksordnung in der Fassung der
@@ -34,18 +33,15 @@ verordnet das Bundesministerium für  Wirtschaft im Einvernehmen mit
 dem Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Zupfinstrumentenmacher/Zupfinstrumentenmacherin nach der
 Handwerksordnung.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -110,10 +106,6 @@ Fertigkeiten und Kenntnisse:
 
 19. Reparieren.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -131,12 +123,10 @@ Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz
 einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7
 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -144,7 +134,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -216,7 +205,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 8 Gesellenprüfung
 
@@ -370,14 +358,12 @@ Arbeitsproben insgesamt und innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 9 Aufheben von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Zupfinstrumentenmacher/Zupfinstrumentenmacherin sind nicht mehr
 anzuwenden.
-
 
 ## § 10 Übergangsregelung
 
@@ -386,11 +372,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin
 

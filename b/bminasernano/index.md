@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 522
 
-
-
 ## I.
 
 Nach Artikel 1 Abs. 1 Satz 2 der Anordnung des Bundespräsidenten über
@@ -52,7 +50,6 @@ ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom
 Bundeskanzlerin vom 22. November 2005 (BGBl. I S. 3197) im
 Einvernehmen mit dem Bundesministerium der Justiz übertragen.
 
-
 ## II.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
@@ -68,7 +65,6 @@ des Bundesministeriums für Wirtschaft und Arbeit vom 7. August 2003
 soweit sie Regelungen für die Beamtinnen und Beamten des
 Bundesarbeitsgerichts und der Bundesanstalt für Arbeitsschutz und
 Arbeitsmedizin enthält.
-
 
 ## Schlussformel
 

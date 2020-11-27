@@ -19,13 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 29.7.2009 I 2251
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Errichtung, Zweck, Sitz
 
@@ -40,7 +37,6 @@ für Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk
 BOS) in der Bundesrepublik Deutschland.
 
 (2) Die Bundesanstalt hat ihren Sitz in Berlin.
-
 
 ## § 2 Aufgabe, Nutzer der Bundesanstalt
 
@@ -68,7 +64,6 @@ Zustimmung des Bundesrates Regelungen über die Beschränkung der
 Haftung von beauftragten Unternehmen gegenüber Dritten aufgrund der
 Beeinträchtigung der Dienstgüte des Digitalfunk BOS treffen.
 
-
 ## § 3 Organe
 
 (1) Organe der Bundesanstalt sind die Präsidentin oder der Präsident
@@ -76,7 +71,6 @@ und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe bestimmt die Satzung, soweit
 sie nicht durch dieses Gesetz geregelt sind.
-
 
 ## § 4 Präsidentin oder Präsident
 
@@ -92,7 +86,6 @@ Wiederholte Ernennungen sind möglich.
 
 (3) Die Präsidentin oder der Präsident hat eine ständige Vertreterin
 (Vizepräsidentin) oder einen ständigen Vertreter (Vizepräsident).
-
 
 ## § 5 Verwaltungsrat
 
@@ -135,7 +128,6 @@ Vertreter eines Mitglieds.
 ist unverzüglich eine Nachfolgerin oder ein Nachfolger zu bestellen.
 Hierfür gelten die Absätze 4 und 5 entsprechend.
 
-
 ## § 6 Satzung
 
 (1) Die Bundesanstalt gibt sich eine Satzung. Die Satzung wird durch
@@ -164,7 +156,6 @@ Die Satzung darf nicht von den Vorgaben des Verwaltungsabkommens nach
 § 7 abweichen. § 109 Abs. 2 Satz 2 der Bundeshaushaltsordnung ist
 anzuwenden.
 
-
 ## § 7 Verwaltungsabkommen
 
 Die Beteiligung der Länder am Digitalfunk BOS wird in einem
@@ -181,15 +172,10 @@ insbesondere Bestimmungen getroffen werden über
 3.  die Einzelheiten der Finanzierung des Digitalfunk BOS sowie zum
     Zweckvermögen und zur Finanzierung der Bundesanstalt (§ 9).
 
-
-
-
-
 ## § 8 Aufsicht
 
 Die Bundesanstalt untersteht der Aufsicht des Bundesministeriums des
 Innern.
-
 
 ## § 9 Zweckvermögen, Finanzierung
 
@@ -197,7 +183,6 @@ Zur Wahrnehmung für die ihr nach § 2 übertragenen Aufgaben bildet die
 Bundesanstalt ein Zweckvermögen. Die Bundesanstalt deckt ihren Aufwand
 anteilig durch Mittel von Bund und Ländern. Die Einzelheiten regelt
 das Verwaltungsabkommen nach § 7.
-
 
 ## § 10 Wirtschaftsplan, mittelfristige Planung
 
@@ -230,7 +215,6 @@ Wirtschaftsplan wird vom Verwaltungsrat festgestellt. Er bedarf der
 Genehmigung des Bundesministeriums des Innern im Einvernehmen mit dem
 Bundesministerium der Finanzen.
 
-
 ## § 11 Buchführung, Jahresabschluss
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen
@@ -247,7 +231,6 @@ Abs. 3 Satz 2 der Bundeshaushaltsordnung.
 
 (4) Näheres regelt die Satzung. § 109 Abs. 2 Satz 3 und 4 der
 Bundeshaushaltsordnung ist anzuwenden.
-
 
 ## § 12 Rechnungsprüfung, Anwendung des Haushaltsrechts
 
@@ -269,7 +252,6 @@ mit dem Bundesministerium der Finanzen weitere Ausnahmen von der
 Anwendung der Vorschriften der Bundeshaushaltsordnung mit Einwilligung
 des Haushaltsausschusses des Deutschen Bundestags zuzulassen.
 
-
 ## § 13 Beamtinnen und Beamte
 
 (1) Die Bundesanstalt besitzt Dienstherrnfähigkeit nach § 2 des
@@ -284,14 +266,12 @@ ganz oder teilweise gegen Erstattung der Verwaltungskosten auf
 Behörden in den Geschäftsbereichen der Bundesministerien übertragen.
 Die Übertragung ist im Gemeinsamen Ministerialblatt bekannt zu machen.
 
-
 ## § 14 Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
 
 Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der
 Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und
 Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen
 Bestimmungen anzuwenden. § 13 Abs. 2 findet entsprechende Anwendung.
-
 
 ## § 15 Abwehr netzspezifischer Gefahren, Überwachung
 
@@ -346,7 +326,6 @@ Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2
 Satz 2 des Grundgesetzes) und die Unverletzlichkeit der Wohnung
 (Artikel 13 des Grundgesetzes) werden durch die vorstehenden Absätze
 eingeschränkt.
-
 
 ## § 15a Zertifizierung von Endgeräten
 
@@ -441,7 +420,6 @@ Digitalfunk BOS gestört, so ist die Bundesanstalt berechtigt, die
 erforderlichen Maßnahmen nach Absatz 1 Satz 2 zu treffen, um die
 weitere Nutzung der Endgeräte zu unterbinden.
 
-
 ## § 15b Erlass von Rechtsverordnungen; Widerspruchsgebühren
 
 (1) Das Bundesministerium des Innern erlässt durch Rechtsverordnung
@@ -510,7 +488,6 @@ beträgt die Gebühr höchstens 75 Prozent der Widerspruchsgebühr. Über
 die Kosten nach den Sätzen 2 und 3 entscheidet die Widerspruchsstelle
 nach billigem Ermessen.
 
-
 ## § 15c Testplattform
 
 (1) Zur Erfüllung ihrer Aufgaben nach § 2 kann die Bundesanstalt eine
@@ -523,7 +500,6 @@ Die Gebühren sind so zu bemessen, dass der mit der Benutzung der
 Testplattform verbundene Personal- und Sachaufwand gedeckt wird. Die
 Satzung wird im Bundesanzeiger veröffentlicht.
 
-
 ## § 16 Internationale Zusammenarbeit
 
 Für den Abschluss von Verwaltungsabkommen mit ausländischen Staaten
@@ -532,7 +508,6 @@ Innern zuständig. Solche Verwaltungsabkommen sollen das Prinzip der
 Gegenseitigkeit wahren und nur abgeschlossen werden, wenn das Recht
 zur Mitnutzung der entsprechenden Funkeinrichtungen des jeweils
 anderen Vertragsstaats sichergestellt ist.
-
 
 ## § 17 Abgabenfreiheit, Dienstsiegel, Sonstiges
 
@@ -552,7 +527,6 @@ von der Zahlung der Gerichtskosten befreit.
 nicht zulässig.
 
 (5) Die Bundesanstalt kann nur durch Gesetz aufgelöst werden.
-
 
 ## § 18 Übergangsvorschriften
 
@@ -583,11 +557,9 @@ Regelungen enthalten. Für das restliche Geschäftsjahr, in dem dieses
 Gesetz in Kraft tritt, erlässt das Bundesministerium des Innern einen
 vorläufigen Wirtschaftsplan.
 
-
 ## § 19 Änderungen des Bundesbesoldungsgesetzes
 
 -
-
 
 ## § 20 Inkrafttreten
 

@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2011, Nr 190, 4427 (Beilage)
 
-
 ## Eingangsformel
 
 Auf Grund des § 17b Absatz 7 Satz 1 Nummer 2 des
 Krankenhausfinanzierungsgesetzes, der zuletzt durch Artikel 56 der
 Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
 verordnet das Bundesministerium für Gesundheit:
-
 
 ## § 1 Abrechnungsgrundlage
 
@@ -32,12 +30,10 @@ nach § 9 Absatz 1 Satz 1 Nummer 2 des Krankenhausentgeltgesetzes
 werden für das Jahr 2012 mit dem DRG-Entgeltkatalog nach den Anlagen 1
 bis 6 dieser Verordnung vorgegeben.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und tritt
 am 31. Dezember 2012 außer Kraft.
-
 
 ## (XXXX) Anlagen (zu § 1)
 
@@ -99,8 +95,6 @@ am 31. Dezember 2012 außer Kraft.
 
     *   Zusatzentgelte-Katalog – Definition –
         (Entgelte nach § 6 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes)
-
-
 
 ## **DRG-Entgeltkatalog**
 
@@ -186,8 +180,6 @@ Krankenhausfinanzierungsgesetzes vereinbart worden sind.
 ## Anlage 1 Fallpauschalen-Katalog
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 4 - 124)
-
-
 
 ## Anlage 2 Zusatzentgelte-Katalog - Liste -
 
@@ -1687,8 +1679,6 @@ Krankenhausleistungen erbracht werden dürfen.
 ## Anlage 5 Zusatzentgelte-Katalog - Definition und differenzierte Beträge -
 
 (Fundstelle: BAnz. 2011, Beilage Nr. 190a, S. 132 - 157)
-
-
 
 ## Anlage 6 Zusatzentgelte-Katalog - Definition -
 

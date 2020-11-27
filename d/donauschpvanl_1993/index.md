@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 V v. 8.10.1998 I 3148
 
-
 ## Inhaltsverzeichnis
 
 
@@ -1478,17 +1477,9 @@ Geändert durch
         Europa (Unterausschuß Binnenschiffahrt, Entschließung Nr. 24 vom 15.
         November 1985) folgt.
 
-
-
-
-
 ## Erster Teil - Grundsätzliche Bestimmungen für die Schiffahrt auf der Donau
 
-
-
 ### Kapitel 1 - Allgemeine Bestimmungen
-
-
 
 #### § 1.01 Begriffsbestimmungen
 
@@ -1689,10 +1680,6 @@ In dieser Verordnung gelten als:
     der beim jeweiligen Wasserstand für die Schiffahrt benutzbare und
     durch Fahrwasserzeichen bezeichnete Teil der Wasserstraße.
 
-
-
-
-
 #### § 1.02 Schiffsführer
 
 
@@ -1747,10 +1734,6 @@ In dieser Verordnung gelten als:
     stehen. Diese Person ist für die Einhaltung dieser Verordnung auf der
     schwimmenden Anlage verantwortlich.
 
-
-
-
-
 #### § 1.03 Pflichten der Besatzung und sonstiger Personen an Bord
 
 
@@ -1763,10 +1746,6 @@ In dieser Verordnung gelten als:
 2.  Alle übrigen an Bord befindlichen Personen haben die Anweisungen zu
     befolgen, die ihnen vom Schiffsführer im Interesse der Sicherheit der
     Schiffahrt und der Ordnung an Bord erteilt werden.
-
-
-
-
 
 #### § 1.04 Allgemeine Sorgfaltspflicht
 
@@ -1797,10 +1776,6 @@ In dieser Verordnung gelten als:
 2.  Nummer 1 gilt auch für Personen, unter deren Obhut schwimmende Anlagen
     gestellt sind.
 
-
-
-
-
 #### § 1.05 Verhalten unter besonderen Umständen
 
 Zur Abwehr einer unmittelbar drohenden Gefahr müssen die Schiffsführer
@@ -1808,13 +1783,11 @@ alle den Umständen nach gebotenen Maßnahmen treffen, auch wenn sie
 dadurch gezwungen sind, von den Bestimmungen dieser Verordnung
 abzuweichen.
 
-
 #### § 1.06 Benutzung der Wasserstraße
 
 Länge, Breite, Höhe, Tiefgang und Geschwindigkeit der Fahrzeuge,
 Verbände und Schwimmkörper müssen den Gegebenheiten der Wasserstraße
 und der Anlagen angepaßt sein.
-
 
 #### § 1.07 Zulässige größte Beladung und Höchstzahl der Fahrgäste
 
@@ -1831,10 +1804,6 @@ und der Anlagen angepaßt sein.
     nicht mehr Fahrgäste, als von der zuständigen Behörde zugelassen, an
     Bord haben.
 
-
-
-
-
 #### § 1.08 Besatzung der Fahrzeuge und der Schwimmkörper
 
 Fahrzeuge und Schwimmkörper, ausgenommen die geschobenen Fahrzeuge
@@ -1846,7 +1815,6 @@ starr verbundener Fahrzeuge geschleppt werden, müssen keine Besatzung
 haben, wenn die Besatzung des Koppelverbandes oder der geschleppten
 Gruppe nach Zahl und Eignung ausreicht, um die Sicherheit der an Bord
 befindlichen Personen und der Schiffahrt zu gewährleisten.
-
 
 #### § 1.09 Besetzung des Ruders
 
@@ -1865,10 +1833,6 @@ befindlichen Personen und der Schiffahrt zu gewährleisten.
     Sichtfeld und einem deutlichen verzerrungsfreien Bild zur Verfügung
     haben. Bei außergewöhnlichen Umständen muß zur Unterrichtung des
     Rudergängers ein Ausguck oder ein Horchposten aufgestellt werden.
-
-
-
-
 
 #### § 1.10 Schiffsurkunden
 
@@ -1933,15 +1897,10 @@ I Gültig bis: ............................. I
     bestätigt sein. Zulassungsurkunde und Eichschein sind vom Eigentümer
     des Schubleichters aufzubewahren.
 
-
-
-
-
 #### § 1.11 Mitführen der Donauschiffahrtspolizeiverordnung
 
 An Bord jedes Fahrzeuges, ausgenommen Kleinfahrzeuge und Fahrzeuge
 ohne Besatzung, muß sich ein Abdruck dieser Verordnung befinden.
-
 
 #### § 1.12 Gefährdung durch Gegenstände an Bord, Verlust von Gegenständen, Schiffahrtshindernisse
 
@@ -1969,10 +1928,6 @@ ohne Besatzung, muß sich ein Abdruck dieser Verordnung befinden.
     zuständigen Behörde melden und dabei die Stelle, an der das Hindernis
     angetroffen wurde, so genau wie möglich angeben.
 
-
-
-
-
 #### § 1.13 Schutz der Schiffahrtszeichen
 
 
@@ -1994,16 +1949,11 @@ ohne Besatzung, muß sich ein Abdruck dieser Verordnung befinden.
     feststellt, hat die Pflicht, dies der nächsten zuständigen Behörde
     unverzüglich zu melden.
 
-
-
-
-
 #### § 1.14 Beschädigung von Anlagen
 
 Hat ein Fahrzeug oder ein Schwimmkörper eine Anlage (zum Beispiel
 Schleuse, Brücke) beschädigt, muß der Schiffsführer dies unverzüglich
 der nächsten zuständigen Behörde melden.
-
 
 #### § 1.15 Verbot des Einbringens von Gegenständen und anderen Stoffen in die Wasserstraße
 
@@ -2022,10 +1972,6 @@ der nächsten zuständigen Behörde melden.
     zuständigen Behörde melden und dabei die Art des Stoffes und die
     Stelle des Einbringens so genau wie möglich angeben.
 
-
-
-
-
 #### § 1.16 Rettung und Hilfeleistung
 
 
@@ -2038,10 +1984,6 @@ der nächsten zuständigen Behörde melden.
     Schiffsführer jedes in der Nähe befindlichen Fahrzeuges verpflichtet,
     unverzüglich Hilfe zu leisten, soweit dies mit der Sicherheit des von
     ihm geführten Fahrzeuges vereinbar ist.
-
-
-
-
 
 #### § 1.17 Festgefahrene oder gesunkene Fahrzeuge
 
@@ -2067,10 +2009,6 @@ der nächsten zuständigen Behörde melden.
 3.  Ereignet sich ein Unfall beim Durchfahren einer Schleuse, ist dies der
     Schleusenaufsicht sofort zu melden.
 
-
-
-
-
 #### § 1.18 Freimachen des Fahrwassers
 
 
@@ -2088,10 +2026,6 @@ der nächsten zuständigen Behörde melden.
 3.  Hat eines der in Nummer 1 oder 2 genannten Fahrzeuge zu einem Verband
     gehört, muß der Führer des Verbandes die dort vorgeschriebenen
     Maßnahmen treffen.
-
-
-
-
 
 #### § 1.19 Besondere Anweisungen
 
@@ -2116,13 +2050,6 @@ der nächsten zuständigen Behörde melden.
     c)  die Besatzung oder Ausrüstung des Fahrzeuges den Bestimmungen des §
         1\.08 nicht entsprechen.
 
-
-
-
-
-
-
-
 #### § 1.20 Überwachung
 
 Schiffsführer und Personen, unter deren Obhut schwimmende Anlagen
@@ -2130,7 +2057,6 @@ gestellt sind, müssen den Bediensteten der zuständigen Behörden die
 erforderliche Unterstützung geben, damit sie die Einhaltung der
 Bestimmungen dieser Verordnung und anderer anzuwendender Vorschriften
 überwachen können.
-
 
 #### § 1.21 Sondertransporte
 
@@ -2160,10 +2086,6 @@ Bestimmungen dieser Verordnung und anderer anzuwendender Vorschriften
 4.  Für jeden Sondertransport ist unter Berücksichtigung des § 1.02 ein
     Schiffsführer zu bestimmen.
 
-
-
-
-
 #### § 1.22 Anordnungen vorübergehender Art
 
 Die Schiffsführer müssen die von der zuständigen Behörde erlassenen
@@ -2171,13 +2093,11 @@ Anordnungen vorübergehender Art befolgen, die aus besonderen Anlässen
 für die Sicherheit und Leichtigkeit der Schiffahrt bekanntgemacht
 worden sind.
 
-
 #### § 1.23 Erlaubnis von sportlichen und anderen Veranstaltungen
 
 Sportveranstaltungen, Wasserfeste und sonstige Veranstaltungen, die
 die Sicherheit und Leichtigkeit der Schiffahrt beeinträchtigen können,
 bedürfen der Erlaubnis der zuständigen Behörden.
-
 
 #### § 1.24 Vorschriften über die Beförderung gefährlicher Güter
 
@@ -2186,14 +2106,12 @@ explosionsgefährliche, radioaktive, giftige, ätzende sowie entzündbare
 Güter) befördern, müssen die zum Schutz der Besatzung und der
 Schiffahrt erlassenen besonderen Sicherheitsvorschriften einhalten.
 
-
 #### § 1.25 Schutz und Winterzeit
 
 Hindern Witterungsverhältnisse die Fahrzeuge an der Fortsetzung der
 Fahrt, können sie zu ihrem Schutz oder zum Überwintern die Häfen und
 Schutzplätze aufsuchen. Die Schiffsführer müssen dabei die dort
 geltenden besonderen Vorschriften beachten.
-
 
 #### § 1.26 Anwendungsbereich des Ersten Teiles
 
@@ -2211,13 +2129,7 @@ geltenden besonderen Vorschriften beachten.
     Flußsonderverwaltungen für die entsprechenden Abschnitte der Donau
     beachten.
 
-
-
-
-
 ### Kapitel 2 - Kennzeichen und Tiefgangsanzeiger der Fahrzeuge, Schiffseichung
-
-
 
 #### § 2.01 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge
 
@@ -2285,10 +2197,6 @@ geltenden besonderen Vorschriften beachten.
 6.  Fahrzeuge mit Besatzung, ausgenommen Kleinfahrzeuge, müssen während
     der Fahrt bei Tag ihre Nationalflagge auf dem Hinterschiff führen.
 
-
-
-
-
 #### § 2.02 Kennzeichen der Kleinfahrzeuge
 
 
@@ -2323,15 +2231,10 @@ geltenden besonderen Vorschriften beachten.
     gegebenenfalls sonstige Angaben, die die Feststellung des Eigentümers
     gestatten.
 
-
-
-
-
 #### § 2.03 Schiffseichung
 
 Jedes Binnenschiff, das zur Güterbeförderung bestimmt ist, ausgenommen
 Kleinfahrzeuge, muß geeicht sein.
-
 
 #### § 2.04 Einsenkungsmarken und Tiefgangsanzeiger
 
@@ -2349,10 +2252,6 @@ Kleinfahrzeuge, muß geeicht sein.
     Bedingungen für die Anbringung der Tiefgangsanzeiger in Anlage 2
     festgelegt.
 
-
-
-
-
 #### § 2.05 Kennzeichen der Anker
 
 
@@ -2363,17 +2262,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 2.  Nummer 1 gilt nicht für Anker von Seeschiffen und Kleinfahrzeugen.
 
-
-
-
-
 ### Kapitel 3 - Bezeichnung der Fahrzeuge
 
-
-
 #### Abschnitt I. - Allgemeines
-
-
 
 ##### § 3.01 Anwendung und Begriffsbestimmungen
 
@@ -2439,18 +2330,10 @@ Kleinfahrzeuge, muß geeicht sein.
         die Höhe über der Ebene der Einsenkungsmarken oder bei Fahrzeugen ohne
         Einsenkungsmarken über dem Schiffskörper.
 
-
-
-
-
-
-
-
 ##### § 3.02 Lichter
 
 Soweit nichts anderes bestimmt ist, müssen die in dieser Verordnung
 vorgeschriebenen Lichter ununterbrochen und gleichmäßig strahlen.
-
 
 ##### § 3.03 Tafeln und Flaggen
 
@@ -2465,10 +2348,6 @@ vorgeschriebenen Lichter ununterbrochen und gleichmäßig strahlen.
 3.  Ihre Abmessungen müssen so groß sein, daß sie gut gesehen werden
     können; diese Bedingung gilt als erfüllt, wenn ihre Länge und ihre
     Breite mindestens je 1 m und bei Kleinfahrzeugen je 0,60 m betragen.
-
-
-
-
 
 ##### § 3.04 Zylinder, Bälle, Kegel und Doppelkegel
 
@@ -2496,13 +2375,6 @@ vorgeschriebenen Lichter ununterbrochen und gleichmäßig strahlen.
 
     d)  für Doppelkegel 0,80 m Höhe und 0,50 m Durchmesser der Grundfläche.
 
-
-
-
-
-
-
-
 ##### § 3.05 Verbotene Lichter und Zeichen
 
 
@@ -2516,10 +2388,6 @@ vorgeschriebenen Lichter ununterbrochen und gleichmäßig strahlen.
     werden, sofern dies zu keiner Verwechselung mit den in dieser
     Verordnung vorgesehenen Lichtern und Zeichen führen kann.
 
-
-
-
-
 ##### § 3.06 Ersatzlichter
 
 Wenn in dieser Verordnung vorgeschriebene Lichter ausfallen, müssen
@@ -2528,7 +2396,6 @@ vorgeschriebenes starkes Licht durch ein helles Licht und ein
 vorgeschriebenes helles Licht durch ein gewöhnliches Licht ersetzt
 werden. Die Lichter mit der vorgeschriebenen Stärke sind so schnell
 wie möglich wieder zu setzen.
-
 
 ##### § 3.07 Verbotener Gebrauch von Signalleuchten, Scheinwerfern, Tafeln, Flaggen und anderen Gegenständen
 
@@ -2544,17 +2411,9 @@ wie möglich wieder zu setzen.
     gebrauchen, daß sie blenden und dadurch die Schiffahrt oder den
     Verkehr an Land gefährden oder behindern.
 
-
-
-
-
 #### Abschnitt II. - Nachtbezeichnung
 
-
-
 ##### Titel A. - Nachtbezeichnung während der Fahrt
-
-
 
 ###### § 3.08 Nachtbezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb in Fahrt
 
@@ -2603,10 +2462,6 @@ wie möglich wieder zu setzen.
 
 5.  Die Bestimmungen dieses Paragraphen gelten nicht für Kleinfahrzeuge
     und Fähren.
-
-
-
-
 
 ###### § 3.09 Nachtbezeichnung der Schleppverbände in Fahrt
 
@@ -2672,10 +2527,6 @@ wie möglich wieder zu setzen.
     die ausschließlich Kleinfahrzeuge schleppen, und nicht für geschleppte
     Kleinfahrzeuge.
 
-
-
-
-
 ###### § 3.10 Nachtbezeichnung der Schubverbände in Fahrt
 
 
@@ -2722,10 +2573,6 @@ wie möglich wieder zu setzen.
     Topplichter nach Nummer 1 Buchstabe a in geringerer Höhe geführt
     werden, damit die Durchfahrt ohne Schwierigkeit erfolgen kann.
 
-
-
-
-
 ###### § 3.11 Nachtbezeichnung der Koppelverbände in Fahrt
 
 
@@ -2763,10 +2610,6 @@ wie möglich wieder zu setzen.
     die nur Kleinfahrzeuge längsseits gekuppelt mitführen, und nicht für
     längsseits gekuppelte Kleinfahrzeuge.
 
-
-
-
-
 ###### § 3.12 Nachtbezeichnung der Fahrzeuge unter Segel in Fahrt
 
 
@@ -2794,10 +2637,6 @@ wie möglich wieder zu setzen.
 
 
 3.  Die Bestimmungen dieses Paragraphen gelten nicht für Kleinfahrzeuge.
-
-
-
-
 
 ###### § 3.13 Nachtbezeichnung der Kleinfahrzeuge in Fahrt
 
@@ -2888,10 +2727,6 @@ wie möglich wieder zu setzen.
     bis 6 in geringerer Höhe gesetzt werden, damit die Durchfahrt ohne
     Schwierigkeit erfolgen kann.
 
-
-
-
-
 ###### § 3.14 Zusätzliche Nachtbezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter entzündbarer Güter
 
 
@@ -2950,10 +2785,6 @@ wie möglich wieder zu setzen.
     Lichtern nach § 3.09 nur die blauen Lichter nach Nummer 3 Buchstabe a
     und b führen.
 
-
-
-
-
 ###### § 3.15 Zusätzliche Nachtbezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter explosionsgefährlicher Güter
 
 
@@ -2999,10 +2830,6 @@ wie möglich wieder zu setzen.
     Nummer 3 mit einem Vorspann, so muß der Verband die Lichter nach
     Nummer 2 führen. Der Anhang muß außer den Lichtern nach § 3.09 nur die
     roten Lichter nach Nummer 3 Buchstabe a und b führen.
-
-
-
-
 
 ###### § 3.16 Nachtbezeichnung der Fähren in Fahrt
 
@@ -3057,17 +2884,9 @@ wie möglich wieder zu setzen.
     d)  die Seitenlichter und das Hecklicht nach § 3.08 Nr. 1 Buchstabe b und
         c.
 
-
-
-
-
-
-
-
 ###### § 3.17
 
 (entfällt)
-
 
 ###### § 3.18 Zusätzliche Nachtbezeichnung manövrierunfähiger Fahrzeuge
 
@@ -3082,10 +2901,6 @@ wie möglich wieder zu setzen.
 2.  Erforderlichenfalls müssen diese Fahrzeuge zusätzlich das
     vorgeschriebene Schallzeichen geben.
 
-
-
-
-
 ###### § 3.19 Nachtbezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
 Unbeschadet der Auflagen nach § 1.21 müssen Schwimmkörper und
@@ -3093,10 +2908,7 @@ schwimmende Anlagen führen:
 weiße gewöhnliche, von allen Seiten sichtbare Lichter, in genügender
 Zahl, um ihre Umrisse kenntlich zu machen.
 
-
 ##### Titel B. - Nachtbezeichnung beim Stilliegen
-
-
 
 ###### § 3.20 Nachtbezeichnung der Fahrzeuge beim Stilliegen
 
@@ -3143,10 +2955,6 @@ Zahl, um ihre Umrisse kenntlich zu machen.
 5.  Die Bestimmungen dieses Paragraphen gelten nicht für die in den §§
     3\.23 und 3.27 genannten Fahrzeuge.
 
-
-
-
-
 ###### § 3.21 Zusätzliche Nachtbezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter entzündbarer Güter
 
 Fahrzeuge nach § 3.14 müssen außer den Lichtern nach § 3.20 führen:
@@ -3156,13 +2964,11 @@ Schubverbände müssen außerdem zwei blaue gewöhnliche, von allen Seiten
 sichtbare Lichter führen, die 1 m unter den Lichtern nach § 3.20 Nr. 2
 liegen.
 
-
 ###### § 3.22 Zusätzliche Nachtbezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter explosionsgefährlicher Güter
 
 Fahrzeuge nach § 3.15 müssen außer den Lichtern nach § 3.20 führen:
 ein rotes helles oder gewöhnliches, von allen Seiten sichtbares Licht,
 ungefähr 1 m tiefer als die weißen Lichter nach § 3.20 Nr. 1 oder 2.
-
 
 ###### § 3.23 Nachtbezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
@@ -3178,14 +2984,9 @@ ungefähr 1 m tiefer als die weißen Lichter nach § 3.20 Nr. 1 oder 2.
     Buchstabe b vorgeschriebene grüne Licht löschen, sobald sie nicht mehr
     in Betrieb sind.
 
-
-
-
-
 ###### § 3.24
 
 (entfällt)
-
 
 ###### § 3.25 Nachtbezeichnung stilliegender Schwimmkörper und schwimmender Anlagen
 
@@ -3195,7 +2996,6 @@ weiße gewöhnliche, von allen Seiten sichtbare Lichter, in genügender
 Zahl, um ihre Umrisse zur Fahrwasserseite hin kenntlich zu machen.
 In diesem Fall gelten die Bestimmungen des § 3.20 Nr. 4.
 
-
 ###### § 3.26 Nachtbezeichnung der Netze und anderer Fischereigeräte stilliegender Fahrzeuge
 
 Haben Fahrzeuge ihre Netze oder andere Fischereigeräte im Fahrwasser
@@ -3203,7 +3003,6 @@ oder in dessen Nähe ausgelegt, müssen diese Netze oder anderen
 Fischereigeräte durch eine ausreichende Anzahl weißer gewöhnlicher,
 von allen Seiten sichtbarer Lichter bezeichnet sein, um ihre Lage
 kenntlich zu machen.
-
 
 ###### § 3.27 Nachtbezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge
 
@@ -3263,10 +3062,6 @@ kenntlich zu machen.
 3.  Die zuständige Behörde kann von der Führung der Lichter nach Nummer 1
     Buchstabe a und b befreien.
 
-
-
-
-
 ###### § 3.28 Nachtbezeichnung der Anker, die die Schiffahrt gefährden können
 
 
@@ -3283,17 +3078,9 @@ kenntlich zu machen.
     Radarreflektor und einem weißen gewöhnlichen, von allen Seiten
     sichtbaren Licht bezeichnen.
 
-
-
-
-
 #### Abschnitt III. - Tagbezeichnung
 
-
-
 ##### Titel A. - Tagbezeichnung während der Fahrt
-
-
 
 ###### § 3.29 Tagbezeichnung der Schleppverbände in Fahrt
 
@@ -3331,10 +3118,6 @@ kenntlich zu machen.
     die ausschließlich Kleinfahrzeuge schleppen, und nicht für geschleppte
     Kleinfahrzeuge.
 
-
-
-
-
 ###### § 3.30 Tagbezeichnung der Fahrzeuge unter Segel, die gleichzeitig ihre Antriebsmaschine benutzen
 
 Ein Fahrzeug unter Segel, das gleichzeitig seine Antriebsmaschine
@@ -3343,7 +3126,6 @@ einen schwarzen Kegel mit der Spitze unten.
 Dieser Kegel muß möglichst hoch und an der Stelle gesetzt werden, an
 der er am besten sichtbar ist.
 
-
 ###### § 3.31 Tagbezeichnung der Fahrzeuge für die Beförderung von mehr als 12 Fahrgästen und einer Länge von weniger als 20 m
 
 Fahrzeuge, die für die Beförderung von mehr als 12 Fahrgästen
@@ -3351,7 +3133,6 @@ zugelassen sind und deren Schiffskörper eine Länge von weniger als 20
 m aufweist, müssen führen:
 einen gelben Doppelkegel an geeigneter Stelle und so hoch, daß er von
 allen Seiten sichtbar ist.
-
 
 ###### § 3.32 Zusätzliche Tagbezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter entzündbarer Güter
 
@@ -3380,10 +3161,6 @@ allen Seiten sichtbar ist.
 
     den blauen Kegel nach Nummer 1.
 
-
-
-
-
 ###### § 3.33 Zusätzliche Tagbezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter explosionsgefährlicher Güter
 
 
@@ -3408,17 +3185,12 @@ allen Seiten sichtbar ist.
 
     den roten Kegel nach Nummer 1.
 
-
-
-
-
 ###### § 3.34 Tagbezeichnung der Fähren in Fahrt
 
 Fähren müssen führen:
 einen grünen Ball in einer Höhe von mindestens 6 m.
 Die Höhe darf jedoch verringert werden, wenn die Länge der Fähre 20 m
 nicht überschreitet.
-
 
 ###### § 3.35 Zusätzliche Tagbezeichnung manövrierunfähiger Fahrzeuge
 
@@ -3432,10 +3204,6 @@ nicht überschreitet.
 2.  Erforderlichenfalls ist zusätzlich das vorgeschriebene Schallzeichen
     zu geben.
 
-
-
-
-
 ###### § 3.36 Zusätzliche Tagbezeichnung der Fahrzeuge mit Vorrang
 
 Fahrzeuge, denen die zuständige Behörde zur Fahrt durch Stellen, an
@@ -3444,10 +3212,7 @@ müssen zusätzlich führen:
 einen roten Wimpel, dessen Länge mindestens 1 m beträgt, auf dem
 Vorschiff und so hoch, daß er gut sichtbar ist.
 
-
 ##### Titel B. - Tagbezeichnung beim Stilliegen
-
-
 
 ###### § 3.36a Tagbezeichnung der Fahrzeuge beim Stilliegen
 
@@ -3477,10 +3242,6 @@ Vorschiff und so hoch, daß er gut sichtbar ist.
 3.  Die Bestimmungen des Paragraphen gelten nicht für die in § 3.41
     genannten Fahrzeuge.
 
-
-
-
-
 ###### § 3.37 Tagbezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter entzündbarer Güter
 
 
@@ -3493,10 +3254,6 @@ Vorschiff und so hoch, daß er gut sichtbar ist.
 2.  Wenn ein Schubverband ein oder mehrere Fahrzeuge nach § 3.32 enthält,
     hat er auch beim Stilliegen die zusätzlichen Zeichen nach § 3.32 Nr. 3
     zu führen.
-
-
-
-
 
 ###### § 3.38 Tagbezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter explosionsgefährlicher Güter
 
@@ -3511,14 +3268,9 @@ Vorschiff und so hoch, daß er gut sichtbar ist.
     hat er auch beim Stilliegen die zusätzlichen Zeichen nach § 3.33 Nr. 3
     zu führen.
 
-
-
-
-
 ###### § 3.39
 
 (entfällt)
-
 
 ###### § 3.40 Tagbezeichnung der Netze oder anderer Fischereigeräte stilliegender Fischereifahrzeuge
 
@@ -3526,7 +3278,6 @@ Netze oder andere Fischereigeräte von Fischereifahrzeugen im
 Fahrwasser oder in dessen Nähe müssen bezeichnet sein durch:
 gelbe Schwimmer (Döpper) in ausreichender Zahl, um ihre Lage kenntlich
 zu machen.
-
 
 ###### § 3.41 Tagbezeichnung schwimmender Geräte bei der Arbeit und festgefahrener oder gesunkener Fahrzeuge
 
@@ -3600,10 +3351,6 @@ zu machen.
 5.  Die zuständige Behörde kann von der Bezeichnung nach den Nummern 1 und
     2 Buchstabe a und b befreien.
 
-
-
-
-
 ###### § 3.42 Tagbezeichnung der Anker, die die Schiffahrt gefährden können
 
 Fahrzeuge, Schwimmkörper und schwimmende Anlagen, deren Anker so
@@ -3611,10 +3358,7 @@ ausgeworfen sind, daß sie die Schiffahrt gefährden können, müssen
 jeden dieser Anker bezeichnen durch:
 eine gelbe Tonne mit Radarreflektor.
 
-
 #### Abschnitt IV. - Sonstige Zeichen
-
-
 
 ##### § 3.43 Verbot, das Fahrzeug zu betreten
 
@@ -3633,10 +3377,6 @@ eine gelbe Tonne mit Radarreflektor.
 2.  Die Tafeln müssen erforderlichenfalls so beleuchtet werden, daß sie
     bei Nacht deutlich sichtbar sind.
 
-
-
-
-
 ##### § 3.44 Hinweis auf das Verbot, zu rauchen und ungeschütztes Licht oder Feuer zu verwenden
 
 
@@ -3653,10 +3393,6 @@ eine gelbe Tonne mit Radarreflektor.
 2.  Die Tafeln müssen erforderlichenfalls so beleuchtet werden, daß sie
     bei Nacht deutlich sichtbar sind.
 
-
-
-
-
 ##### § 3.45 Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
 Fahrzeuge der Überwachungsbehörden führen als Unterscheidungszeichen
@@ -3669,10 +3405,6 @@ a)  bei Tag die Staatsflagge sowie einen weißen Wimpel mit dem
 
 b)  bei Tag und Nacht, wenn es die Ausübung des Dienstes erfordert, ein
     blaues, von allen Seiten sichtbares Funkellicht.
-
-
-
-
 
 ##### § 3.46 Notzeichen
 
@@ -3714,10 +3446,6 @@ b)  bei Tag und Nacht, wenn es die Ausübung des Dienstes erfordert, ein
 2.  Diese Zeichen ersetzen oder ergänzen die Schallzeichen nach § 4.01 Nr.
     4\.
 
-
-
-
-
 ##### § 3.47 Verbot des Stilliegens nebeneinander
 
 
@@ -3741,10 +3469,6 @@ b)  bei Tag und Nacht, wenn es die Ausübung des Dienstes erfordert, ein
 
 3.  Die Bestimmungen dieses Paragraphen gelten nicht für die in den §§
     3\.21 und 3.37 genannten Fahrzeuge.
-
-
-
-
 
 ##### § 3.48 Zusätzliche Bezeichnung zum Schutz gegen Wellenschlag
 
@@ -3782,13 +3506,6 @@ b)  bei Tag und Nacht, wenn es die Ausübung des Dienstes erfordert, ein
     b)  Fahrzeuge, Schwimmkörper und schwimmende Anlagen mit schriftlicher
         Erlaubnis der zuständigen Behörde.
 
-
-
-
-
-
-
-
 ##### § 3.49 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen
 
 In Fahrt befindliche Fahrzeuge, die in der Wasserstraße Arbeiten,
@@ -3799,10 +3516,7 @@ Funkellicht.
 Diese Bezeichnung dürfen nur Fahrzeuge mit einer schriftlichen
 Erlaubnis der zuständigen Behörde führen.
 
-
 ### Kapitel 4 - Schallzeichen der Fahrzeuge, Sprechfunk
-
-
 
 #### § 4.01 Allgemeines
 
@@ -3855,10 +3569,6 @@ Erlaubnis der zuständigen Behörde führen.
 6.  Eine Gruppe von Glockenschlägen muß etwa vier Sekunden dauern. Sie
     kann durch wiederholte Schläge von Metall auf Metall ersetzt werden.
 
-
-
-
-
 #### § 4.02 Gebrauch der Schallzeichen
 
 
@@ -3872,10 +3582,6 @@ Erlaubnis der zuständigen Behörde führen.
     mitführen, können erforderlichenfalls die allgemeinen Zeichen nach
     Anlage 6 Abschnitt III. Titel A. geben.
 
-
-
-
-
 #### § 4.03 Verbotene Schallzeichen
 
 
@@ -3888,10 +3594,6 @@ Erlaubnis der zuständigen Behörde führen.
     Land dürfen auch andere Schallzeichen verwendet werden, sofern dies zu
     keiner Verwechselung mit den in dieser Verordnung vorgesehenen
     Schallzeichen führen kann.
-
-
-
-
 
 #### § 4.04 Sprechfunk
 
@@ -3918,13 +3620,7 @@ Erlaubnis der zuständigen Behörde führen.
     angegebenen Fällen den von diesen vorgeschriebenen Sprechweg
     überwachen.
 
-
-
-
-
 ### Kapitel 5 - Schiffahrtszeichen und Bezeichnung der Wasserstraße
-
-
 
 #### § 5.01 Schiffahrtszeichen
 
@@ -3941,10 +3637,6 @@ Erlaubnis der zuständigen Behörde führen.
     und Hinweise zu achten, die ihnen durch die auf der Wasserstraße oder
     an ihren Ufern angebrachten Zeichen nach Nummer 1 erteilt werden.
 
-
-
-
-
 #### § 5.02 Bezeichnung der Wasserstraße
 
 
@@ -3959,17 +3651,9 @@ Erlaubnis der zuständigen Behörde führen.
     der Ufer beziehen sich die Begriffe "rechts" und "links" auf ein zu
     Tal fahrendes Fahrzeug.
 
-
-
-
-
 ### Kapitel 6 - Fahrregeln
 
-
-
 #### Abschnitt I. - Allgemeines
-
-
 
 ##### § 6.01 Begriffsbestimmungen
 
@@ -3999,20 +3683,12 @@ Erlaubnis der zuständigen Behörde führen.
         wenn sich zwei Fahrzeuge einander in anderer als in den Buchstaben a
         und b genannter Weise nähern.
 
-
-
-
-
-
-
-
 ##### § 6.01a Fahrzeuge mit hoher Geschwindigkeit
 
 Fahrzeuge jeder Größe, die mit hoher Geschwindigkeit fahren, zum
 Beispiel Tragflügel- und Luftkissenfahrzeuge, müssen allen übrigen
 Fahrzeugen den für deren Kurs und zum Manövrieren notwendigen Raum
 lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
-
 
 ##### § 6.02 Kleinfahrzeuge
 
@@ -4028,13 +3704,7 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
     notwendigen Raum lassen; sie können nicht verlangen, daß diese ihnen
     ausweichen.
 
-
-
-
-
 #### Abschnitt II. - Begegnen, Kreuzen und Überholen
-
-
 
 ##### § 6.03 Allgemeine Grundsätze
 
@@ -4058,10 +3728,6 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
 4.  Das Begegnen ist nur gestattet, wenn der Schiffsführer sich überzeugt
     hat, daß das Begegnen ohne Gefahr für andere Fahrzeuge ausgeführt
     werden kann.
-
-
-
-
 
 ##### § 6.03a Kreuzen
 
@@ -4112,10 +3778,6 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
     Steuerbordseite hat und diesem folgt, seinen Kurs beibehalten. Dies
     gilt nicht für Kleinfahrzeuge gegenüber Fahrzeugen, die nicht
     Kleinfahrzeuge sind.
-
-
-
-
 
 ##### § 6.04 Begegnen Grundregeln
 
@@ -4182,10 +3844,6 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
 6.  Die Nummern 1 bis 5 gelten nicht für Kleinfahrzeuge gegenüber
     Fahrzeugen, die nicht Kleinfahrzeuge sind und nicht für das Begegnen
     von Kleinfahrzeugen untereinander.
-
-
-
-
 
 ##### § 6.05 Begegnen Ausnahmen von den Grundregeln
 
@@ -4254,17 +3912,12 @@ lassen. Sie können nicht verlangen, daß diese ihnen ausweichen.
     Fahrzeugen, die nicht Kleinfahrzeuge sind, und nicht für das Begegnen
     von Kleinfahrzeugen untereinander.
 
-
-
-
-
 ##### § 6.06 Begegnen von getreidelten Fahrzeugen
 
 Bei der Begegnung zwischen einem vom Ufer aus getreidelten Fahrzeug
 und einem nicht getreidelten Fahrzeug muß abweichend von den §§ 6.04
 und 6.05 stets dem getreidelten Fahrzeug die Seite, an der es
 getreidelt wird, freigelassen werden.
-
 
 ##### § 6.07 Begegnen im engen Fahrwasser
 
@@ -4304,10 +3957,6 @@ getreidelt wird, freigelassen werden.
     die Gefahr eines Zusammenstoßes besteht, muß "eine Folge sehr kurzer
     Töne" geben.
 
-
-
-
-
 ##### § 6.08 Durch Schiffahrtszeichen verbotenes Begegnen
 
 
@@ -4341,10 +3990,6 @@ getreidelt wird, freigelassen werden.
     zuständigen Behörden mündlich, durch Funk oder durch Zeichen erteilt
     wird.
 
-
-
-
-
 ##### § 6.09 Überholen Allgemeine Bestimmungen
 
 
@@ -4359,10 +4004,6 @@ getreidelt wird, freigelassen werden.
     schnell ausgeführt werden kann, daß der übrige Verkehr nicht behindert
     wird. Dies gilt nicht, wenn ein Kleinfahrzeug ein Fahrzeug überholt,
     das nicht Kleinfahrzeug ist.
-
-
-
-
 
 ##### § 6.10 Überholen
 
@@ -4448,10 +4089,6 @@ getreidelt wird, freigelassen werden.
     Fahrzeugen, die nicht Kleinfahrzeuge sind, und nicht für das Überholen
     von Kleinfahrzeugen untereinander.
 
-
-
-
-
 ##### § 6.11 Überholverbot durch Schiffahrtszeichen
 
 Unbeschadet des § 6.08 Nr. 1 besteht
@@ -4465,13 +4102,7 @@ b)  ein Überholverbot für Verbände untereinander auf Strecken, deren
     Dies gilt nicht, wenn mindestens einer der Verbände ein Schubverband
     ist, dessen Länge 110 m und dessen Breite 12 m nicht überschreitet.
 
-
-
-
-
 #### Abschnitt III. - Weitere Regeln für die Fahrt
-
-
 
 ##### § 6.12 Fahrt auf Strecken mit vorgeschriebenem Kurs
 
@@ -4485,10 +4116,6 @@ b)  ein Überholverbot für Verbände untereinander auf Strecken, deren
     Talfahrer behindern; insbesondere bei Annäherung an das Tafelzeichen
     B.4 müssen sie erforderlichenfalls ihre Geschwindigkeit vermindern
     oder anhalten, damit die Talfahrer ihr Manöver beenden können.
-
-
-
-
 
 ##### § 6.13 Wenden
 
@@ -4531,10 +4158,6 @@ b)  ein Überholverbot für Verbände untereinander auf Strecken, deren
     Tafelzeichen E.8 (Anlage 7) gekennzeichnet, wird dem Schiffsführer
     empfohlen, dort zu wenden, wobei dieser Paragraph zu beachten ist.
 
-
-
-
-
 ##### § 6.14 Verhalten bei der Abfahrt
 
 Für Fahrzeuge, ausgenommen Fähren, die ihren Liege- oder Ankerplatz
@@ -4543,12 +4166,10 @@ der Schallzeichen nach § 6.13 Nr. 2 folgende Zeichen zu geben:
 "einen kurzen Ton", wenn sie ihren Kurs nach Steuerbord richten,
 "zwei kurze Töne", wenn sie ihren Kurs nach Backbord richten.
 
-
 ##### § 6.15 Verbot des Hineinfahrens in die Abstände zwischen den Teilen eines Schleppverbandes
 
 Es ist verboten, in die Abstände zwischen den Teilen eines
 Schleppverbandes hineinzufahren.
-
 
 ##### § 6.16 Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen, Überqueren der Wasserstraße
 
@@ -4624,10 +4245,6 @@ Schleppverbandes hineinzufahren.
     Fahrzeuge, die nicht Kleinfahrzeuge sind, gegenüber Kleinfahrzeugen.
     Die Nummern 2 und 3 gelten nicht für Kleinfahrzeuge untereinander.
 
-
-
-
-
 ##### § 6.17 Fahrt auf gleicher Höhe
 
 
@@ -4650,10 +4267,6 @@ Schleppverbandes hineinzufahren.
     müssen von in Fahrt befindlichen Fahrzeugen und Schwimmkörpern und von
     schwimmenden Geräten bei der Arbeit ausreichend Abstand halten.
 
-
-
-
-
 ##### § 6.18 Verbot des Schleifenlassens von Ankern, Trossen oder Ketten
 
 
@@ -4670,10 +4283,6 @@ Schleppverbandes hineinzufahren.
 3.  Das Verbot nach Nummer 1 gilt nicht auf Strecken, die nach § 7.03 Nr.
     2 durch das Tafelzeichen E.6 (Anlage 7) gekennzeichnet sind.
 
-
-
-
-
 ##### § 6.19 Treibenlassen
 
 
@@ -4684,10 +4293,6 @@ Schleppverbandes hineinzufahren.
 2.  Fahrzeuge, die sich Bug zu Berg mit im Vorwärtsgang laufenden
     Antriebsmaschine zu Tal bewegen, gelten nicht als treibende Fahrzeuge,
     sondern als Bergfahrer.
-
-
-
-
 
 ##### § 6.20 Vermeiden von Wellenschlag
 
@@ -4733,10 +4338,6 @@ Schleppverbandes hineinzufahren.
     ihre Geschwindigkeit, wie in Nummer 1 vorgeschrieben, vermindern. Sie
     haben außerdem möglichst weiten Abstand zu halten.
 
-
-
-
-
 ##### § 6.21 Verbände
 
 
@@ -4759,16 +4360,11 @@ Schleppverbandes hineinzufahren.
 4.  Trägerschiffsleichter dürfen an die Spitze eines Schubverbandes nur
     gestellt werden, wenn an ihnen Anker angebracht sind.
 
-
-
-
-
 ##### § 6.22 Vorübergehende Sperrung der Schiffahrt
 
 Wenn die zuständige Behörde durch ein allgemeines Verbotszeichen A.1
 (Anlage 7) bekanntgibt, daß die Schiffahrt vorübergehend gesperrt ist,
 müssen alle Fahrzeuge vor dem Zeichen anhalten.
-
 
 ##### § 6.22a Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen
 
@@ -4778,10 +4374,7 @@ Buchstabe b und d oder den roten Ball, die rote Flagge oder das
 Tafelzeichen A.1 nach § 3.41 Nr. 1 Buchstabe b und d und Nr. 2
 Buchstabe b führen.
 
-
 #### Abschnitt IV. - Fähren
-
-
 
 ##### § 6.23 Regeln für Fähren
 
@@ -4806,16 +4399,7 @@ Buchstabe b führen.
     c)  die Fähre darf sich nicht länger im Fahrwasser aufhalten, als der
         Betrieb es erfordert.
 
-
-
-
-
-
-
-
 #### Abschnitt V. - Durchfahren von Brücken, Wehren und Schleusen
-
-
 
 ##### § 6.24 Durchfahren von Brücken und Wehren Allgemeines
 
@@ -4833,13 +4417,6 @@ Buchstabe b führen.
 
     b)  das Tafelzeichen D.2 (Anlage 7), wird empfohlen, sich in dem durch die
         beiden Tafeln dieses Zeichens begrenzten Raum zu halten.
-
-
-
-
-
-
-
 
 ##### § 6.25 Durchfahrt unter festen Brücken
 
@@ -4871,10 +4448,6 @@ Buchstabe b führen.
 3.  Sind bestimmte Öffnungen fester Brücken nach Nummer 2 gekennzeichnet,
     kann die Schiffahrt die nicht gekennzeichneten Öffnungen auf eigene
     Gefahr benutzen.
-
-
-
-
 
 ##### § 6.26 Durchfahren beweglicher Brücken
 
@@ -4944,10 +4517,6 @@ Buchstabe b führen.
     Tafeln (Zeichen E.1 - Anlage 7) und die gelben Lichter durch gelbe
     Tafeln (Zeichen D.1 - Anlage 7) ersetzt werden.
 
-
-
-
-
 ##### § 6.27 Durchfahren der Wehre
 
 
@@ -4968,10 +4537,6 @@ Buchstabe b führen.
 4.  Abweichend von Nummer 2 kann bei einem Wehr mit Wehrsteg die Erlaubnis
     zum Durchfahren einer Wehröffnung auch durch ein am Wehrsteg über der
     Wehröffnung angebrachtes Tafelzeichen D.1 (Anlage 7) angezeigt sein.
-
-
-
-
 
 ##### § 6.28 Durchfahren der Schleusen
 
@@ -5063,10 +4628,6 @@ Buchstabe b führen.
     oder von ihm abweichen. Die Fahrzeuge haben in Schleusen und
     Schleusenvorhäfen diese Anordnungen zu befolgen.
 
-
-
-
-
 ##### § 6.28a Einfahren in und Ausfahren aus Schleusen
 
 
@@ -5123,10 +4684,6 @@ Buchstabe b führen.
 4.  Sind die Licht- und Tafelzeichen außer Betrieb, sind Ein- und Ausfahrt
     ohne besondere Anordnung der Schleusenaufsicht verboten.
 
-
-
-
-
 ##### § 6.29 Vorrang bei der Schleusung
 
 Abweichend von § 6.28 Nr. 3 haben Vorrang bei der Schleusung:
@@ -5145,10 +4702,7 @@ Nähern sich solche Fahrzeuge den Schleusenvorhäfen oder liegen sie
 darin still, müssen die anderen Fahrzeuge, soweit möglich, ihnen ihre
 Durchfahrt erleichtern.
 
-
 #### Abschnitt VI. - Beschränkte Sichtverhältnisse, Radarschiffahrt
-
-
 
 ##### § 6.30 Allgemeine Regeln für die Fahrt bei beschränkten Sichtverhältnissen
 
@@ -5207,10 +4761,6 @@ Durchfahrt erleichtern.
 
     Kanäle werden gesondert bekanntgegeben.
 
-
-
-
-
 ##### § 6.31 Schallzeichen beim Stilliegen
 
 
@@ -5248,10 +4798,6 @@ Durchfahrt erleichtern.
 
 4.  Dieser Paragraph gilt auch für Fahrzeuge, die im Fahrwasser oder in
     dessen Nähe festgefahren sind und andere Fahrzeuge gefährden können.
-
-
-
-
 
 ##### § 6.32 Bestimmungen für Radarfahrer
 
@@ -5350,10 +4896,6 @@ Durchfahrt erleichtern.
     Sprechfunk antworten, müssen rechtzeitig Maßnahmen zur Verhütung eines
     Zusammenstoßes treffen.
 
-
-
-
-
 ##### § 6.33 Bestimmungen für Fahrzeuge, die nicht Radarfahrer sind
 
 
@@ -5400,18 +4942,11 @@ Durchfahrt erleichtern.
     sicheren Steuerung notwendige Maß vermindern und mit äußerster
     Vorsicht fahren oder erforderlichenfalls anhalten oder aufdrehen.
 
-
-
-
-
 #### Abschnitt VII. - Besondere Regeln
-
-
 
 ##### § 6.34
 
 (entfällt)
-
 
 ##### § 6.35 Wasserskilaufen und ähnliche Aktivitäten
 
@@ -5435,16 +4970,11 @@ Durchfahrt erleichtern.
 
 4.  Das Schleppseil darf nicht leer nachgezogen werden.
 
-
-
-
-
 ##### § 6.36 Verhalten der Fahrzeuge beim Fischen
 
 Das Schleppfischen mit mehreren Fahrzeugen nebeneinander sowie das
 Aufstellen von Fischereigeräten in der Fahrrinne oder auf bezeichneten
 Liegeplätzen ist verboten.
-
 
 ##### § 6.37 Verhalten der Sporttaucher
 
@@ -5464,13 +4994,7 @@ c)  in der Nähe von Liegestellen,
 d)  in Bereichen, die dem Wasserskilaufen oder ähnlichen Aktivitäten
     vorbehalten sind.
 
-
-
-
-
 ### Kapitel 7 - Regeln für das Stilliegen
-
-
 
 #### § 7.01 Allgemeine Grundsätze für das Stilliegen
 
@@ -5492,10 +5016,6 @@ d)  in Bereichen, die dem Wasserskilaufen oder ähnlichen Aktivitäten
     können, keine Gefahr darstellen und die übrige Schiffahrt nicht
     behindern, dabei sind Strömung, Wind, Wellenschlag und Sogwirkungen zu
     berücksichtigen.
-
-
-
-
 
 #### § 7.02 Stilliegen
 
@@ -5554,10 +5074,6 @@ d)  in Bereichen, die dem Wasserskilaufen oder ähnlichen Aktivitäten
     Tafelzeichen E.5 bis E.7 (Anlage 7) gekennzeichnet sind. Dabei sind
     die §§ 7.03 bis 7.06 einzuhalten.
 
-
-
-
-
 #### § 7.03 Ankern
 
 
@@ -5579,10 +5095,6 @@ d)  in Bereichen, die dem Wasserskilaufen oder ähnlichen Aktivitäten
     nur auf Strecken ankern, die durch das Tafelzeichen E.6 (Anlage 7)
     gekennzeichnet sind, und nur auf der Seite der Wasserstraße, auf der
     das Zeichen steht.
-
-
-
-
 
 #### § 7.04 Festmachen
 
@@ -5611,10 +5123,6 @@ d)  in Bereichen, die dem Wasserskilaufen oder ähnlichen Aktivitäten
 3.  Bäume, Geländer, Pfähle, Grenzsteine, Säulen, Metalleitern, Handläufe
     und ähnliche Gegenstände dürfen weder zum Festmachen noch zum Verholen
     benutzt werden.
-
-
-
-
 
 #### § 7.05 Liegestellen
 
@@ -5662,17 +5170,12 @@ d)  in Bereichen, die dem Wasserskilaufen oder ähnlichen Aktivitäten
     Diese schwimmenden Zeichen trennen das Fahrwasser von den
     Liegestellen.
 
-
-
-
-
 #### § 7.06 Liegestellen für bestimmte Fahrzeugarten
 
 Auf Liegestellen, die durch eines der Tafelzeichen E.5.4 bis E.5.12
 (Anlage 7) gekennzeichnet sind, dürfen nur die Fahrzeugarten
 stilliegen, für die das Zeichen gilt, und nur auf der Seite der
 Wasserstraße, auf der das Zeichen steht.
-
 
 #### § 7.07 Stilliegen in der Nähe von Fahrzeugen, Schub- und Koppelverbänden, die bestimmte gefährliche Güter befördern
 
@@ -5695,10 +5198,6 @@ Wasserstraße, auf der das Zeichen steht.
 2.  Für das Stilliegen kann die zuständige Behörde in besonderen Fällen
     Ausnahmen zulassen.
 
-
-
-
-
 #### § 7.08 Wache und Aufsicht
 
 
@@ -5718,17 +5217,9 @@ Wasserstraße, auf der das Zeichen steht.
     führen, dürfen in Hafenbecken und auf Liegestellen stilliegen, wo die
     Aufsicht sichergestellt ist.
 
-
-
-
-
 ## Zweiter Teil - Sonderbestimmungen für den deutschen Teil der Donau
 
-
-
 ### Kapitel 8 - Sonderregelungen zu einzelnen Bestimmungen des Ersten Teils
-
-
 
 #### § 8.01 Begriffsbestimmungen (§ 1.01)
 
@@ -5755,13 +5246,6 @@ Wasserstraße, auf der das Zeichen steht.
         bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung
         angestrebt wird.
 
-
-
-
-
-
-
-
 #### § 8.02 Pflichten der Besatzung und sonstiger Personen an Bord (§ 1.03)
 
 Abweichend von § 1.03 Nr. 2 sind Mitglieder der Besatzung und sonstige
@@ -5769,7 +5253,6 @@ Personen an Bord, die vorübergehend selbständig den Kurs und die
 Geschwindigkeit des Fahrzeugs bestimmen, insoweit auch für die
 Befolgung dieser Verordnung und der im Rahmen der §§ 1.22 und 8.05
 erlassenen Anordnungen verantwortlich.
-
 
 #### § 8.02a Pflichten der Besatzung und sonstiger Personen an Bord (§§ 1.02 und 1.03)
 
@@ -5796,15 +5279,10 @@ erlassenen Anordnungen verantwortlich.
     Personen verboten, den Kurs und die Geschwindigkeit des Fahrzeugs zu
     bestimmen.
 
-
-
-
-
 #### § 8.03 Besetzung des Ruders (§ 1.09)
 
 Abweichend von § 1.09 Nr. 1 gilt die Altersvorschrift nicht für
 Kleinfahrzeuge ohne Antriebsmaschine.
-
 
 #### § 8.04 Schiffsurkunden (§ 1.10)
 
@@ -5825,10 +5303,6 @@ Kleinfahrzeuge ohne Antriebsmaschine.
     Schiffes nach dem ADNR, an Bord befinden. Artikel 2 Nr. 2 der
     Verordnung vom 7. April 1992 (BGBl. I S. 860) bleibt unberührt.
 
-
-
-
-
 #### § 8.05 Anordnungen vorübergehender Art (§ 1.22)
 
 Abweichend von § 1.22 kann die zuständige Behörde von dieser
@@ -5837,7 +5311,6 @@ dieser Verordnung vorübergehend bis zur Dauer von höchstens drei
 Jahren treffen. Abdrucke dieser Verordnungen und der Verordnung nach §
 1\.11 sind in jeweils geltender Fassung an Bord, ausgenommen
 Kleinfahrzeuge, mitzuführen.
-
 
 #### § 8.06 Kennzeichen der Fahrzeuge, ausgenommen Kleinfahrzeuge (§ 2.01)
 
@@ -5851,14 +5324,9 @@ Kleinfahrzeuge, mitzuführen.
     Nationalflagge nicht führen. Andere Flaggen dürfen an ihrer Stelle
     nicht geführt werden.
 
-
-
-
-
 #### § 8.07 Tiefgangsanzeiger (§ 2.04)
 
 § 2.04 Nr. 2 gilt nur für untersuchungspflichtige Fahrzeuge.
-
 
 #### § 8.08 Nachtbezeichnung der Kleinfahrzeuge in Fahrt (§ 3.13)
 
@@ -5873,10 +5341,6 @@ Kleinfahrzeuge, mitzuführen.
     § 3.13 der Binnenschiffahrtsstraßen-Ordnung in jeweils geltender
     Fassung vorgeschriebenen Lichter führen.
 
-
-
-
-
 #### § 8.08a Bezeichnung und Fahrregeln von Mehrzweckfahrzeugen der Bundeswehr
 
 
@@ -5890,10 +5354,6 @@ Kleinfahrzeuge, mitzuführen.
 2.  Die Fahrzeuge nach Nummer 1 verhalten sich während der Fahrt
     grundsätzlich wie Kleinfahrzeuge. § 6.02 ist anzuwenden.
 
-
-
-
-
 #### § 8.09 Zusätzliche Bezeichnung bei Beförderung gefährlicher Güter
 
 Abweichend von den §§ 3.14, 3.15, 3.21, 3.22, 3.32, 3.33, 3.37 und
@@ -5906,7 +5366,6 @@ oder befördert haben, müssen auch in diesem Fall einen blauen Kegel
 oder ein blaues Licht führen. Fahrzeuge, die nach den in Satz 1
 genannten Vorschriften zwei blaue Kegel oder zwei blaue Lichter führen
 müssen, müssen diese auch auf der dort genannten Strecke führen.
-
 
 #### § 8.10 Nachtbezeichnung der Fahrzeuge beim Stilliegen (§ 3.20)
 
@@ -5922,10 +5381,6 @@ b)  Kleinfahrzeuge, die in einer Breite an einer schwimmenden Anlage
 
 c)  Fahrzeuge mit Erlaubnis der zuständigen Behörde.
 
-
-
-
-
 #### § 8.11 Nachtbezeichnung stilliegender Schwimmkörper (§ 3.25)
 
 § 3.25 findet keine Anwendung auf Schwimmkörper, die
@@ -5937,22 +5392,16 @@ a)  zu einer Zusammenstellung von Fahrzeugen oder zu einem Verband
 
 b)  weniger als 5 m in die Wasserstraße hineinragen.
 
-
-
-
-
 #### § 8.12 Bezeichnung der Feuerlöschfahrzeuge (§ 3.45)
 
 § 3.45 Buchstabe b gilt auch für Feuerlöschfahrzeuge, die zur
 Hilfeleistung unterwegs sind.
-
 
 #### § 8.13 Verbotene Schallzeichen (§ 4.03)
 
 Abweichend von § 4.03 Nr. 2 dürfen Schallzeichen zur Verständigung
 zwischen Fahrzeug und Land im Bereich geschlossener Ortschaften an der
 Wasserstraße nicht gegeben werden.
-
 
 #### § 8.14 Wache und Aufsicht (§ 7.08)
 
@@ -5995,10 +5444,6 @@ Wasserstraße nicht gegeben werden.
 4.  Ist für stilliegende Fahrzeuge, Schwimmkörper und schwimmende Anlagen
     eine Wache oder eine Aufsicht bestellt, tritt diese an die Stelle des
     Schiffsführers (§ 1.02).
-
-
-
-
 
 #### § 8.15 Bleib-weg-Signal
 
@@ -6079,13 +5524,7 @@ Wasserstraße nicht gegeben werden.
 8.  Die Schiffsführer, die das Bleib-weg-Signal wahrnehmen, müssen dies
     der zuständigen Behörde unverzüglich melden.
 
-
-
-
-
 ### Kapitel 9 - Zusammenstellung der Fahrzeuge
-
-
 
 #### § 9.01 Abmessungen der Fahrzeuge
 
@@ -6340,10 +5779,6 @@ b)  in der Talfahrt:
 
     *   22,80
 
-
-
-
-
 #### § 9.03 Abmessungen der Koppelverbände
 
 Koppelverbände dürfen auf den nachfolgend genannten Strecken folgende
@@ -6410,10 +5845,6 @@ Abmessungen nicht überschreiten:
     *   55,00
 
     *   11,40
-
-
-
-
 
 #### § 9.04 Zusammenstellung der Schleppverbände
 
@@ -6619,20 +6050,13 @@ b)  in der Talfahrt:
 
     *   22,80
 
-
-
-
-
 #### § 9.05 Ausnahmen
 
 Die zuständige Behörde kann von den §§ 9.01 bis 9.04 Ausnahmen
 zulassen, wenn die Sicherheit und Leichtigkeit der Schiffahrt
 hierdurch nicht gefährdet werden.
 
-
 ### Kapitel 10 - Zusatzbestimmungen
-
-
 
 #### § 10.01 Höchste Schiffahrtswasserstände
 
@@ -6701,10 +6125,6 @@ hierdurch nicht gefährdet werden.
     wenn die Sicherheit und Leichtigkeit der Schiffahrt hierdurch nicht
     gefährdet werden.
 
-
-
-
-
 #### § 10.02 Sprechfunk
 
 
@@ -6760,16 +6180,11 @@ hierdurch nicht gefährdet werden.
     zulassen, wenn die Sicherheit und Leichtigkeit der Schiffahrt
     hierdurch nicht gefährdet werden.
 
-
-
-
-
 #### § 10.03 Festgefahrene Fahrzeuge
 
 Versuche, festgefahrene Fahrzeuge durch eigene Kraft oder mit Hilfe
 Dritter freizubekommen, bedürfen der Erlaubnis der zuständigen
 Behörde.
-
 
 #### § 10.04 Anhalten von talfahrenden Schleppverbänden
 
@@ -6780,10 +6195,6 @@ Behörde.
 2.  Nummer 1 gilt nicht für das Anhalten in Notfällen, beim Warten auf
     Schleusung sowie in Schleusenkanälen, Schleusenvorhäfen, Schleusen und
     Häfen.
-
-
-
-
 
 #### § 10.05 Schleppende Schubverbände
 
@@ -6801,10 +6212,6 @@ Behörde.
     der Schubverband als Fahrzeug mit Maschinenantrieb an der Spitze eines
     Schleppverbandes.
 
-
-
-
-
 #### § 10.06 Schubverbände, die andere Fahrzeuge als Schubleichter mitführen
 
 
@@ -6820,10 +6227,6 @@ Behörde.
     verfügen, dürfen nur dann in einer Linie mit dem schiebenden Fahrzeug
     fortbewegt werden, wenn sie sich an der Spitze des Verbandes befinden.
 
-
-
-
-
 #### § 10.07 Ortsveränderungen von Schubleichtern und anderen Fahrzeugen ohne Ruderanlage
 
 Außerhalb eines Schubverbandes dürfen Schubleichter und andere
@@ -6836,10 +6239,6 @@ b)  in Schleppverbänden längsseits gekuppelt an ein oder mehrere Fahrzeuge
     mit einer, für alle in der gleichen Reihe geschleppten Fahrzeuge,
     ausreichenden Steuerfähigkeit.
 
-
-
-
-
 #### § 10.08 Ortsveränderungen von Fahrzeugen mit Ruderanlage
 
 Fahrzeuge, die nicht mit einem Kopfruder ausgerüstet sind, dürfen in
@@ -6847,16 +6246,12 @@ Verbänden nur so mitgeführt werden, daß ihr Bug zur Spitze des
 Verbandes zeigt. Dies gilt nicht für kleine Ortsveränderungen (zum
 Beispiel in Häfen oder an Umschlagstellen).
 
-
 ### Kapitel 11 - Schutzhäfen (§ 1.25)
-
-
 
 #### § 11.01 Geltungsbereich
 
 Die Bestimmungen dieses Kapitels gelten in den Schutzhäfen Deggendorf
 (km 2283,90 linkes Ufer) und Passau-Lindau (km 2222,10 linkes Ufer).
-
 
 #### § 11.02 Benutzung der Schutzhäfen
 
@@ -6881,15 +6276,10 @@ Die Bestimmungen dieses Kapitels gelten in den Schutzhäfen Deggendorf
 2.  Den Schutzhafen Passau-Lindau dürfen nur Fahrzeuge benutzen, die
     entzündbare Flüssigkeiten befördern.
 
-
-
-
-
 #### § 11.03 Hafenaufseher
 
 Hat die zuständige Behörde für die Schutzhäfen Hafenaufseher bestellt,
 nehmen diese die der zuständigen Behörde obliegenden Aufgaben wahr.
-
 
 #### § 11.04 An- und Abmeldung, Zuweisung von Liegeplätzen
 
@@ -6905,21 +6295,15 @@ nehmen diese die der zuständigen Behörde obliegenden Aufgaben wahr.
     Hafenaufsehers müssen die Fahrzeuge von einem zugewiesenen Liegeplatz
     auf einen anderen verholen.
 
-
-
-
-
 #### § 11.05 Aufsicht
 
 Die Aufsicht nach § 8.14 Nr. 3 muß der zuständigen Behörde oder dem
 Hafenaufseher benannt werden.
 
-
 #### § 11.06 Ankern
 
 In den Schutzhäfen darf nur in Notfällen geankert werden. Das
 Schleifenlassen von Ankern ist zulässig.
-
 
 #### § 11.07 Hafeneinfahrt
 
@@ -6928,13 +6312,11 @@ zuständigen Behörde oder des Hafenaufsehers stilliegen. Ein Fahrzeug
 darf erst dann in die Hafeneinfahrt einfahren, wenn ein ausfahrendes
 sie durchfahren hat.
 
-
 #### § 11.08 Anzeigepflicht
 
 Vorkommnisse, durch die die Sicherheit und Leichtigkeit der Schiffahrt
 in dem Schutzhafen gefährdet werden können, sind der zuständigen
 Behörde oder dem Hafenaufseher unverzüglich anzuzeigen.
-
 
 #### § 11.09 Vorkehrungen für den Gefahrenfall
 
@@ -6942,19 +6324,16 @@ Es ist sicherzustellen, daß Fahrzeuge, die gefährliche Güter
 befördern, bei einem Gefahrenfall verholen und die
 Feuerlöscheinrichtungen an Bord bedient werden können.
 
-
 #### § 11.10 Tankschiffe
 
 Auch die Luken von Tankschiffen des Typs V dürfen während des Liegens
 in den Schutzhäfen nicht geöffnet sein.
-
 
 #### § 11.11 Instandsetzungsarbeiten
 
 Instandsetzungsarbeiten an den Fahrzeugen dürfen in den Schutzhäfen
 nur mit Erlaubnis der zuständigen Behörde oder des Hafenaufsehers
 durchgeführt werden.
-
 
 #### § 11.12 Eis
 
@@ -6968,20 +6347,13 @@ durchgeführt werden.
     anweisen, die erforderlichen Arbeiten durchzuführen, um die Fahrzeuge
     zur Sicherung gegen Eisdruck eisfrei zu halten.
 
-
-
-
-
 #### § 11.13 Ausnahmen
 
 Die zuständige Behörde oder der Hafenaufseher kann Ausnahmen von den
 Bestimmungen dieses Abschnitts zulassen, wenn die Sicherheit und
 Leichtigkeit der Schiffahrt dadurch nicht gefährdet werden.
 
-
 ### Kapitel 12 - Kleinfahrzeuge
-
-
 
 #### § 12.01 Befahren der Altwässer
 
@@ -6995,17 +6367,9 @@ Leichtigkeit der Schiffahrt dadurch nicht gefährdet werden.
 2.  Nummer 1 Satz 1 gilt nicht für Zu- und Abfahrten von Liegestellen, die
     von der zuständigen Behörde zugelassen sind.
 
-
-
-
-
 ### Kapitel 13 - Besondere Fahr- und Liegebestimmungen für einzelne Abschnitte des deutschen Teils der Donau
 
-
-
 #### Abschnitt I. - Fahrt in den Stauhaltungen Bad Abbach bis Geisling und Kachlet
-
-
 
 ##### § 13.01 Geregelte Begegnung
 
@@ -7052,13 +6416,7 @@ gelten folgende Regelungen:
 
 5.  § 6.05 ist nicht anzuwenden.
 
-
-
-
-
 #### Abschnitt II. - Zusatzbestimmungen für die deutsch-österreichische Grenzstrecke (km 2223,20 bis km 2201,77)
-
-
 
 ##### § 13.02 Kleinfahrzeuge und bestimmte Wassersportgeräte
 
@@ -7067,10 +6425,7 @@ Der Einsatz von Segelsurfbrettern, von Wassermotorrädern oder
 österreichischen Grenzstrecke (km 2223,20 bis km 2201,77) verboten.
 Die zuständige Behörde kann Ausnahmen zulassen.
 
-
 #### Abschnitt III. - Fahrt durch die Schleusen
-
-
 
 ##### § 13.03 Allgemeines
 
@@ -7091,10 +6446,6 @@ Als Schleusenbereich gilt
 3.  für die Schleusen Geisling bis Jochenstein:
 
     die Strecke zwischen den Vorsignalanlagen (§ 13.07).
-
-
-
-
 
 ##### § 13.04 Abmessungen der Fahrzeuge
 
@@ -7124,10 +6475,6 @@ Als Schleusenbereich gilt
 3.  Fahrzeuge und Verbände, deren Abmessungen die in Nummer 1 genannten
     Maße überschreiten, bedürfen für die Schleusung der vorherigen
     Erlaubnis der zuständigen Behörde.
-
-
-
-
 
 ##### § 13.05 Verhalten im Schleusenbereich
 
@@ -7205,13 +6552,6 @@ Als Schleusenbereich gilt
 
     b)  ist es verboten zu lärmen.
 
-
-
-
-
-
-
-
 ##### § 13.06 Radarschiffahrt in Schleusenbereichen
 
 
@@ -7245,10 +6585,6 @@ Als Schleusenbereich gilt
 2.  Unter den Voraussetzungen der Nummer 1 Satz 1 ist die Weiterfahrt in
     Richtung Schleuse nur Radarfahrern und nur mit ausdrücklicher
     Erlaubnis der Schleusenbetriebsstelle gestattet.
-
-
-
-
 
 ##### § 13.07 Schiffahrtszeichen in den Schleusenbereichen Geisling bis Jochenstein
 
@@ -7332,13 +6668,6 @@ zusätzlich die Signallichter der Vor- und Abrufsignalanlagen beachten:
         Schleuse einfahren oder außerhalb des unteren Schleusenvorhafens auf
         Einfahrt warten.
 
-
-
-
-
-
-
-
 ##### § 13.08 Reihenfolge der Schleusungen
 
 
@@ -7399,23 +6728,13 @@ zusätzlich die Signallichter der Vor- und Abrufsignalanlagen beachten:
         nach § 6.28 sowie die für sie aufgestellten besonderen Hinweistafeln
         beachten.
 
-
-
-
-
-
-
-
 ##### § 13.09 Fahrtunterbrechung zwischen den Staustufen Jochenstein und Aschach
 
 Talfahrer, die ihre Fahrt auf der Strecke zwischen den Staustufen
 Jochenstein und Aschach unterbrechen wollen, müssen dies bei der
 Schleusung in Jochenstein der Schleusenaufsicht melden.
 
-
 #### Abschnitt IV. - Fahrt im Bereich der Stadt Passau
-
-
 
 ##### § 13.10 Stilliegen an der Liegestelle Heining
 
@@ -7434,10 +6753,6 @@ Schleusung in Jochenstein der Schleusenaufsicht melden.
 
 
 4.  Kleinfahrzeuge dürfen an der Liegestelle nicht stilliegen.
-
-
-
-
 
 ##### § 13.11 Stilliegen zwischen der Staustufe Kachlet und der Innmündung
 
@@ -7494,10 +6809,6 @@ Schleusung in Jochenstein der Schleusenaufsicht melden.
     wenn die Sicherheit und Leichtigkeit der Schiffahrt hierdurch nicht
     gefährdet werden.
 
-
-
-
-
 ##### § 13.12 Signalanlage Racklauhafen
 
 Auf dem Trenndammkopf des Racklauhafens (km 2228,42, rechtes Ufer)
@@ -7523,7 +6834,6 @@ bei km 2228,00 ihre Position über Sprechfunk auf Kanal 10 und während
 der Betriebszeiten der Schleuse Kachlet auch auf Kanal 20
 bekanntgeben.
 
-
 ##### § 13.13 Wenden
 
 
@@ -7537,20 +6847,13 @@ bekanntgeben.
     Tankfahrzeuge befinden, dürfen zwischen der Staustufe Kachlet und der
     Wendestelle Passau (km 2227,44 bis km 2227,05) nicht aufdrehen.
 
-
-
-
-
 ### Kapitel 14 - Fahrgastschiffahrt
-
-
 
 #### § 14.01 Anlegestellen
 
 Fahrgastschiffe dürfen zum Ein- und Aussteigen der Fahrgäste nur an
 Anlegestellen festmachen, die von der zuständigen Behörde hierfür
 zugelassen sind.
-
 
 #### § 14.02 Schiffsverkehr an den Anlegestellen
 
@@ -7564,10 +6867,6 @@ zugelassen sind.
     Behörde bestellten Aufsicht befolgen, die diese für die Sicherheit an
     den Anlegestellen erteilt. Andere Fahrzeuge als Fahrgastschiffe dürfen
     an einer Anlegestelle nur mit Erlaubnis der Aufsicht anlegen.
-
-
-
-
 
 #### § 14.03 Ein- und Aussteigen der Fahrgäste
 
@@ -7608,16 +6907,11 @@ zugelassen sind.
 5.  Das Übersteigen der Fahrgäste über andere stilliegende Schiffe ist
     verboten.
 
-
-
-
-
 #### § 14.04 Zurückweisung von Fahrgästen
 
 Der Schiffsführer oder sein Beauftragter muß Personen, von denen eine
 Gefährdung des Schiffahrtsbetriebes oder eine erhebliche Belästigung
 der Fahrgäste zu befürchten ist, von der Beförderung ausschließen.
-
 
 #### § 14.05 Sicherheit an Bord und an den Anlegestellen
 
@@ -7651,17 +6945,12 @@ der Fahrgäste zu befürchten ist, von der Beförderung ausschließen.
     eine Stabilitätsberechnung an Bord mitzuführen. Die Beförderung
     gefährlicher Güter (§ 1.24) zusammen mit Fahrgästen ist verboten.
 
-
-
-
-
 #### § 14.06 Schleppverbot
 
 Fahrgastschiffe, die Fahrgäste an Bord haben, dürfen nicht längsseits
 gekuppelt fahren; sie dürfen weder schleppen noch geschleppt werden,
 es sei denn, daß dies zum Abschleppen eines beschädigten Fahrzeugs
 erforderlich ist.
-
 
 #### § 14.07 Fahrpläne
 
@@ -7678,16 +6967,11 @@ erforderlich ist.
 2.  Der Unternehmer muß auf Verlangen der zuständigen Behörde den Fahrplan
     so ändern, daß Verkehrsstörungen vermieden werden.
 
-
-
-
-
 #### § 14.08 Ausnahmen
 
 Die zuständige Behörde kann Ausnahmen von Bestimmungen dieses
 Abschnitts zulassen, wenn die Sicherheit und Leichtigkeit der
 Schiffahrt hierdurch nicht gefährdet werden.
-
 
 #### Anlage 1
 
@@ -7813,10 +7097,6 @@ welchem der Heimat- oder Registerort der Fahrzeuge liegt
 *    *   Jugoslawien:
 
     *   YU
-
-
-
-
 
 #### Anlage 2 Einsenkungsmarken und Tiefgangsanzeiger an Binnenschiffen
 
@@ -7989,10 +7269,6 @@ Fundstelle des Originaltextes: BGBl. I 1993, Anlageband S. 57 - 58
 
 4.3 Trägt das Fahrzeug Eichskalen, die den Nummern 4.1 und 4.2
     entsprechen, können diese Eichskalen die Tiefgangsanzeiger ersetzen.
-
-
-
-
 
 #### Anlage 3 Bezeichnung der Fahrzeuge
 
@@ -10351,10 +9627,6 @@ Fundstelle des Originaltexts: BGBl. I 1993, Anlageband S. 59 - 83
     *   ein gelbes gewöhnliches oder gelbes helles, von allen Seiten
         sichtbares Funkellicht
 
-
-
-
-
 #### Anlage 4 Farbe der Lichter der Fahrzeuge
 
 Fundstelle des Originaltextes: BGBl. I 1993, Anlageband S. 84 - 86
@@ -10457,7 +9729,6 @@ CIE-Farbwertdiagramm mit den festgelegten Farbgrenzen für
 Signallichter
 < Inhalt: nicht darstellbares Bild 1,
 Fundstelle: BGBl. I 1993 Anlbd. S. 86 >
-
 
 #### Anlage 5 Stärke und Tragweite der Lichter der Fahrzeuge
 
@@ -10658,13 +9929,6 @@ l(tief)B = 0,2 x t(hoch)2 x q(hoch)-t
         ++) Für bestimmte Fahrzeuge kann die zuständige Behörde eine
             Betriebslichtstärke von l(tief)B = 0,3 bis 0,5 cd entsprechend einer
             Tragweite von t = 1,0 bis 1,3 km zulassen
-
-
-
-
-
-
-
 
 #### Anlage 6 Schallzeichen
 
@@ -11296,10 +10560,6 @@ lang ist.
     *   "Ich fahre nach Backbord."
 
     *   § 6.14
-
-
-
-
 
 #### Anlage 7 Schiffahrtszeichen
 
@@ -13255,10 +12515,6 @@ Fundstelle des Originaltextes: BGBl. I 1993, Anlageband S. 111 - 121
         neben dem Ufer (auf dem Radarschirm zeigen die jeweils zwei Echos die
         Linie der Freileitung an)
 
-
-
-
-
 #### Anlage 9 Entzündbare Güter, bei deren Beförderung die Fahrzeuge bei Nacht die Bezeichnung nach den §§ 3.14 und 3.21, bei Tag die Bezeichnung nach den §§ 3.32 und 3.37 führen müssen
 
 Fundstelle des Originaltextes: BGBl. I 1993, Anlageband S. 122
@@ -13305,10 +12561,6 @@ Fundstelle des Originaltextes: BGBl. I 1993, Anlageband S. 122
 
 
 *   befördert werden.
-
-
-
-
 
 #### Anlage 10 Explosionsgefährliche Güter, bei deren Beförderung die Fahrzeuge bei Nacht die Bezeichnung nach den §§ 3.15 und 3.22, bei Tag die Bezeichnung nach den §§ 3.33 und 3.38 führen müssen
 

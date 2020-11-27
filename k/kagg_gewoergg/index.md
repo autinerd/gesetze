@@ -18,16 +18,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 986, 992
 
-
-
 ## Art 1 -
 
 -
 
-
 ## Art 2
-
-
 
 ## § 1
 
@@ -66,7 +61,6 @@ sind, gilt
 § 48              Abs. 6 des Gesetzes über Kapitalanlagegesellschaften
 sinngemäß.
 
-
 ## § 2
 
 (1) Die Übertragung des Vermögens der Grundstücksgesellschaft auf das
@@ -103,14 +97,12 @@ in das Handelsregister zu diesem Zweck melden, ist Sicherheit zu
 leisten, soweit die Gläubiger nicht Befriedigung erlangen können. Die
 Gläubiger sind in der Bekanntmachung auf dieses Recht hinzuweisen.
 
-
 ## § 3
 
 Geschäfte, die der Anpassung der Rechtsverhältnisse einer
 Kapitalgesellschaft an die in § 1 Abs. 2 Satz 2 genannten Vorschriften
 dienen, einschließlich der Berichtigung der öffentlichen Bücher, sind
 von den in der Kostenordnung bestimmten Gebühren befreit.
-
 
 ## § 4
 
@@ -120,7 +112,6 @@ Sparbeiträge im Sinne des Spar-Prämiengesetzes.
 
 (2) Absatz 1 ist auf Aufwendungen, die nach dem 31. Oktober 1969
 gemacht werden, anzuwenden.
-
 
 ## § 5
 
@@ -162,7 +153,6 @@ Grundstücksgesellschaft und dem Kreditinstitut nicht als
 Anschaffungsgeschäft im Sinne der §§ 17 und 18 des
 Kapitalverkehrsteuergesetzes.
 
-
 ## Art 3 -
 
 Der Bundesminister der Justiz, der Bundesminister für Wirtschaft und
@@ -171,16 +161,13 @@ Kapitalanlagegesellschaften in der neuen Fassung mit neuem Datum unter
 neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und
 dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
 ## Art 4 -
 
 -
 
-
 ## Art 5 -
 
 -
-
 
 ## Art 6
 
@@ -189,7 +176,6 @@ Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 7
 

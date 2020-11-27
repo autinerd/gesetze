@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 3 und Abs. 3 und des § 9 des Gesetzes
@@ -29,7 +28,6 @@ Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705)
 geändert worden sind, sowie auf Grund des § 10 Abs. 1 des Gesetzes zur
 Durchführung der gemeinsamen Marktorganisationen wird im Einvernehmen
 mit den Bundesministern der Finanzen und für Wirtschaft verordnet:
-
 
 ## § 1
 
@@ -49,11 +47,9 @@ Interventionswaren vorgeschriebenen Eintragungen vorzulegen, in dem
 die Nummern der Verkaufsrechnung der Bundesanstalt und des
 Abholscheines anzugeben sind.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2284
 
-
-
 ## (XXXX)
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen gibt gemäß §

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.8.2009 I 2877
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1 und 2 des Einlagensicherungs- und
@@ -27,7 +26,6 @@ Anlegerentschädigungsgesetzes vom 16. Juli 1998 (BGBl. I S. 1842)
 verordnet das Bundesministerium der Finanzen nach Anhörung der
 Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken
 Deutschlands GmbH:
-
 
 ## § 1 Jahresbeitrag
 
@@ -144,7 +142,6 @@ mehr vorhanden sind.
 seines haftenden Eigenkapitals nach § 10 Absatz 2 Satz 2 des
 Kreditwesengesetzes.
 
-
 ## § 2 Einmalige Zahlung
 
 (1) Institute, die nach dem 1. Januar 1999 der
@@ -161,11 +158,9 @@ innerhalb von zwei Wochen, zur Verfügung zu stellen.
 (3) Die einmalige Zahlung wird mit Bekanntgabe des Bescheides über die
 einmalige Zahlung fällig.
 
-
 ## § 3 (weggefallen)
 
 -
-
 
 ## § 4 Übergangsvorschrift
 
@@ -176,7 +171,6 @@ anzuwenden.
 (2) Bei Instituten, die der Entschädigungseinrichtung vor dem 26.
 August 2009 zugeordnet worden sind, ist die einmalige Zahlung weiter
 nach § 2 in der bis zum 25. August 2009 geltenden Fassung zu erheben.
-
 
 ## § 5 Inkrafttreten
 

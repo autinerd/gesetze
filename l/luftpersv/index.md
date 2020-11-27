@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 2.10.2009 I 3536
 
-
 ## Erster Abschnitt - Lizenzen und Berechtigungen für Luftfahrer
 
-
-
 ### 1. - Privatflugzeugführer
-
-
 
 #### § 1 Fachliche Voraussetzungen
 
@@ -139,7 +134,6 @@ Leistung steigen kann. Ein Reisemotorsegler ist auch jedes weitere
 Luftfahrzeug, welches vom Luftfahrt-Bundesamt als gleichwertig
 anerkannt wird.
 
-
 #### § 1a Erleichterungen
 
 (1) Für Bewerber, die eine Lizenz für Segelflugzeugführer oder
@@ -160,7 +154,6 @@ An- und Abflüge zu und von kontrollierten Flugplätzen, Flüge durch
 Kontrollzonen, Einhaltung von Flugverkehrsverfahren, Sprechfunkverkehr
 und Sprechgruppen enthalten sein.
 
-
 #### § 2 Prüfung
 
 (1) Der Bewerber hat in einer theoretischen und praktischen Prüfung
@@ -178,10 +171,6 @@ Anforderungen erfüllt.
 
 
 3.  das Verhalten in besonderen Flugzuständen und in Notfällen.
-
-
-
-
 
 #### § 3 Erteilung und Umfang der Lizenz
 
@@ -216,7 +205,6 @@ eingetragenen Daten neu ausgestellt.
 
 (3) (weggefallen)
 
-
 #### § 3a Klassenberechtigung für Reisemotorsegler
 
 (1) Privatflugzeugführer nach § 1 bedürfen zur Führung von
@@ -238,10 +226,6 @@ für Reisemotorsegler sind
     dass er die erforderlichen Kenntnisse und Fähigkeiten zur Führung und
     Bedienung von Reisemotorseglern im Normalflugbetrieb und bei
     besonderen Flugzuständen besitzt.
-
-
-
-
 
 #### § 3b Klassenberechtigung für einmotorige kolbengetriebene Landflugzeuge bis zu einer Höchstabflugmasse von 2.000 Kilogramm
 
@@ -267,10 +251,6 @@ einer Höchstabflugmasse von 2.000 Kilogramm sind
     Bedienung von einmotorigen kolbengetriebenen Landflugzeugen bis zu
     einer Höchstabflugmasse von 2.000 Kilogramm im Normalbetrieb und bei
     besonderen Flugzuständen besitzt.
-
-
-
-
 
 #### § 4 Gültigkeit der Lizenz und der Klassenberechtigungen
 
@@ -300,7 +280,6 @@ Unterschrift des Fluglehrers oder Prüfers zu bestätigen.
 verlängert oder erneuert werden, wenn der Bewerber die Erfüllung der
 Voraussetzungen nach Absatz 2 nachweist und ein gültiges
 Tauglichkeitszeugnis vorlegt.
-
 
 #### § 5 Erwerb der Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 deutsch
 
@@ -339,72 +318,41 @@ Bundesanzeiger bekannt gemachten Fassung der Bestimmungen über die
 Lizenzierung von Piloten von Flugzeugen (JAR-FCL 1 deutsch) vom 15.
 April 2003 (BAnz. Nr. 80a vom 29. April 2003).
 
-
 ### 2. - (weggefallen)
-
-
 
 #### (XXXX) §§ 6 bis 11 (weggefallen)
 
-
-
 ### 3. - Berufsflugzeugführer 1. Klasse
-
-
 
 #### § 12
 
 (weggefallen)
 
-
 #### § 13
 
 (weggefallen)
 
-
 ### 4. - (weggefallen)
-
-
 
 #### (XXXX) §§ 14 bis 17 (weggefallen)
 
-
-
 ### 5. - (weggefallen)
-
-
 
 #### (XXXX) §§ 18 bis 22 (weggefallen)
 
-
-
 ### 6. - (weggefallen)
-
-
 
 #### (XXXX) §§ 23 bis 28 (weggefallen)
 
-
-
 ### 7. - (weggefallen)
-
-
 
 #### (XXXX) §§ 29 und 30 (weggefallen)
 
-
-
 ### 8. - (weggefallen)
-
-
 
 #### (XXXX) §§ 31 bis 35 (weggefallen)
 
-
-
 ### 9. - Segelflugzeugführer
-
-
 
 #### § 36 Fachliche Voraussetzungen
 
@@ -492,7 +440,6 @@ ein nach den entsprechenden Bauvorschriften zugelassenes Luftfahrzeug,
 das über ein schwenk- oder drehbares Triebwerk oder einen
 einklappbaren Propeller verfügt.
 
-
 #### § 37 Erleichterungen
 
 (1) Für Bewerber, die eine gültige Lizenz für Flugzeugführer oder als
@@ -510,7 +457,6 @@ bleibt unberührt.
 (2) Der Alleinüberlandflug nach § 36 Abs. 4 Nr. 4 kann durch einen
 Überlandflug im Segelflug mit Fluglehrer über eine Flugstrecke von
 mindestens 100 Kilometer ersetzt werden.
-
 
 #### § 38 Prüfung
 
@@ -530,10 +476,6 @@ Anforderungen erfüllt.
 
 3.  das Verhalten in besonderen Flugzuständen und in Notfällen.
 
-
-
-
-
 #### § 39 Erteilung und Umfang der Lizenz
 
 (1) Die Lizenz für Segelflugzeugführer wird durch Aushändigung des
@@ -546,7 +488,6 @@ Verlängerung und Erneuerung einer Berechtigung, Startart, sonstiger
 (2) Die Lizenz berechtigt zum Führen von Segelflugzeugen oder von
 Segelflugzeugen mit Hilfsantrieb im nichtgewerbsmäßigen Luftverkehr am
 Tage und zu den eingetragenen Startarten.
-
 
 #### § 40 Zulässige Startarten
 
@@ -575,10 +516,6 @@ umfassen
 5.  für eine andere Startart 10 Starts mit Fluglehrer und 10 Alleinstarts;
     das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
     Ausnahmen zulassen.
-
-
-
-
 
 #### § 40a Klassenberechtigung für Reisemotorsegler
 
@@ -625,10 +562,6 @@ enthalten sein müssen
     Kilometer, bei dem auf zwei vom Startplatz verschiedenen Flugplätzen
     Landungen bis zum vollständigen Stillstand durchzuführen sind.
 
-
-
-
-
 #### § 41 Gültigkeit der Lizenz, eingetragene Startarten und Klassenberechtigung für Reisemotorsegler
 
 (1) Die Lizenz wird unbefristet erteilt. Eine Lizenz für
@@ -663,10 +596,7 @@ bestätigen.
 
 (4) (weggefallen)
 
-
 ### 10. - Luftsportgeräteführer
-
-
 
 #### § 42 Fachliche Voraussetzungen
 
@@ -798,14 +728,9 @@ Luftverkehrs-Zulassungs-Ordnung umfasst
     Beherrschung unter besonderer Berücksichtigung der Auslöseart von
     Sprungfallschirmen.
 
-
-
-
-
 #### § 42a
 
 (weggefallen)
-
 
 #### § 43 Prüfung
 
@@ -825,10 +750,6 @@ erfüllt.
 
 3.  das Verhalten bei besonderen Flugzuständen und in Notfällen, wenn dies
     Bestandteil der Flugausbildung nach § 42 Abs. 4 und 5 ist.
-
-
-
-
 
 #### § 44 Erteilung und Umfang der Lizenz
 
@@ -856,7 +777,6 @@ enthalten hat.
 (5) Die Lizenz nach § 42 Abs. 6 Nr. 2 wird auf automatische Auslösung
 beschränkt, wenn die Ausbildung die manuelle Auslösung nicht umfasst
 hat.
-
 
 #### § 45 Gültigkeit der Lizenz
 
@@ -898,10 +818,7 @@ Absatz 1 verlängert oder erneuert werden, wenn der Bewerber die
 Erfüllung der Voraussetzungen nach Absatz 2 nachweist und ein gültiges
 Tauglichkeitszeugnis vorlegt.
 
-
 ### 11. - Freiballonführer
-
-
 
 #### § 46 Fachliche Voraussetzungen
 
@@ -985,10 +902,6 @@ gewerbsmäßigen Luftverkehr am Tage zu führen, sind
 2.  mindestens 50 Stunden Gesamtfahrzeit als verantwortlicher
     Freiballonführer auf Freiballonen der Größenklasse 1.
 
-
-
-
-
 #### § 47 Prüfung
 
 (1) Der Bewerber um die Lizenz nach § 46 Abs. 1 hat in einer
@@ -1016,7 +929,6 @@ praktischen Befähigungsüberprüfung auf einem Freiballon der
 Größenklasse 1 nachzuweisen, dass er die an einen berufsmäßigen
 Freiballonführer im gewerbsmäßigen Luftverkehr zu stellenden
 Anforderungen erfüllt.
-
 
 #### § 48 Erteilung und Umfang der Lizenz
 
@@ -1084,10 +996,6 @@ Freiballonführer am Tage.
 
     nachweist.
 
-
-
-
-
 #### § 49 Gültigkeit und Verlängerung der Lizenz
 
 (1) Die Lizenz nach § 46 Abs. 1 wird unbefristet erteilt. Die Lizenz
@@ -1124,10 +1032,7 @@ Absatz 2 verlängert oder erneuert werden, wenn der Bewerber die
 Erfüllung der Voraussetzungen nach Absatz 3 nachweist und ein gültiges
 Tauglichkeitszeugnis vorlegt.
 
-
 ### 12. - Luftschifführer
-
-
 
 #### § 50 Fachliche Voraussetzungen
 
@@ -1222,7 +1127,6 @@ Klassenberechtigung für Reisemotorsegler sind, verringert sich die
 Fahrzeit nach Absatz 3 Satz 1 auf 40 Stunden. Absatz 3 Satz 2 Nr. 1
 bis 3, 5 bis 7 bleibt unberührt.
 
-
 #### § 51 Prüfung
 
 (1) Der Bewerber hat in einer theoretischen und praktischen Prüfung
@@ -1241,10 +1145,6 @@ Anforderungen erfüllt.
 
 3.  das Verhalten in besonderen Fahrzuständen und in Notfällen.
 
-
-
-
-
 #### § 52 Erteilung und Umfang der Lizenz
 
 (1) Die Lizenz wird durch Aushändigung des Luftfahrerscheines für
@@ -1260,7 +1160,6 @@ eingetragenen Daten neu ausgestellt.
 Luftschiffführer auf Luftschiffen der im Luftfahrerschein
 eingetragenen Muster für Fahrten nach Sichtflugregeln am Tage und in
 der Nacht im gewerbsmäßigen und nichtgewerbsmäßigen Luftverkehr.
-
 
 #### § 52a Musterberechtigung für Luftschiffführer
 
@@ -1295,7 +1194,6 @@ kann die Erteilung der Musterberechtigung von einer theoretischen und
 praktischen Befähigungsüberprüfung durch einen dazu berechtigten
 Prüfer abhängig machen.
 
-
 #### § 52b Instrumentenberechtigung für Luftschiffführer
 
 (1) Luftschiffführer bedürfen zur Durchführung von Fahrten nach
@@ -1307,7 +1205,6 @@ deutsch sinngemäß anzuwenden.
 (2) Für Bewerber, die eine gültige Instrumentenflugberechtigung
 besitzen, entfällt die Ausbildung nach Absatz 1. § 52a Abs. 2 und 4
 bleibt unberührt.
-
 
 #### § 53 Gültigkeitsdauer, Verlängerung und Erneuerung der Lizenz
 
@@ -1331,26 +1228,15 @@ Musterberechtigung auf Fahrten nach Sichtflugregeln zu beschränken.
 erneuert werden, wenn der Bewerber die Erfüllung der Voraussetzungen
 nach Absatz 2 nachweist und ein gültiges Tauglichkeitszeugnis vorlegt.
 
-
 ### 13. - (weggefallen)
-
-
 
 #### (XXXX) §§ 54 bis 57 (weggefallen)
 
-
-
 ### 14. - (weggefallen)
-
-
 
 #### (XXXX) §§ 58 bis 61 (weggefallen)
 
-
-
 ### 15. - Flugtechniker auf Hubschraubern bei den Polizeien des Bundes und der Länder
-
-
 
 #### § 62 Fachliche Voraussetzungen
 
@@ -1410,7 +1296,6 @@ wenn der Bewerber in einer Befähigungsüberprüfung durch einen von der
 zuständigen Stelle bestimmten Prüfer mindestens gleichwertige
 Kenntnisse und Fertigkeiten nachweist.
 
-
 #### § 63 Prüfung
 
 Der Bewerber hat in einer theoretischen und praktischen Prüfung
@@ -1418,7 +1303,6 @@ nachzuweisen, dass er nach seinem praktischen Können und seinem
 fachlichen Wissen die an einen Flugtechniker auf Hubschraubern bei den
 Polizeien des Bundes und der Länder zu stellenden Anforderungen
 erfüllt.
-
 
 #### § 64 Erteilung und Umfang der Lizenz
 
@@ -1440,7 +1324,6 @@ eingetragenen Muster bei den Polizeien des Bundes und der Länder.
 Vorschriften für Hubschrauberführer gemäß JAR-FCL 2 deutsch sinngemäß
 anzuwenden.
 
-
 #### § 65 Gültigkeit der Lizenz
 
 (1) Die Lizenz wird unbefristet erteilt. Die Lizenz für Flugtechniker
@@ -1453,26 +1336,15 @@ Hubschraubern innerhalb der letzten 24 Monate tätig gewesen ist. Die
 Voraussetzung nach Satz 1 kann durch eine Befähigungsüberprüfung durch
 einen dazu berechtigten Prüfer ersetzt werden.
 
-
 ### 16. - (weggefallen)
-
-
 
 #### (XXXX) §§ 66 bis 70 (weggefallen)
 
-
-
 ### 17. - (weggefallen)
-
-
 
 #### (XXXX) §§ 71 bis 76 (weggefallen)
 
-
-
 ### 18. - Berechtigung für Langstreckenflug
-
-
 
 #### § 77 Langstreckenflugberechtigung für Flugzeugführer
 
@@ -1521,14 +1393,9 @@ den Sachgebieten
 er die für Langstreckenflüge erforderlichen Kenntnisse in den in
 Absatz 3 aufgeführten Sachgebieten besitzt.
 
-
 #### (XXXX) §§ 78 bis 80 (weggefallen)
 
-
-
 ### 19. - Berechtigung für kontrollierten Sichtflug, Nachtflug, Kunstflug, Schleppflug, Wolkenflug, für das Streuen und Sprühen von Stoffen und Passagierberechtigung für Luftsportgeräteführer
-
-
 
 #### § 81 Kunstflugberechtigung
 
@@ -1599,7 +1466,6 @@ Kunstflugberechtigung auf Segelflugzeugen oder Motorseglern.
 (8) Die Gültigkeit der Kunstflugberechtigung richtet sich nach der
 Gültigkeit der Lizenz.
 
-
 #### § 82 Berechtigung zur Durchführung kontrollierter Sichtflüge
 
 (1) Inhaber von Erlaubnissen für Privatflugzeugführer und
@@ -1648,7 +1514,6 @@ durchgeführt werden.
 nachzuweisen, dass er die zur Durchführung kontrollierter Sichtflüge
 notwendigen Kenntnisse und Fähigkeiten besitzt.
 
-
 #### § 83 Nachtflugqualifikation
 
 (1) Inhaber von Erlaubnissen für Privatflugzeugführer und
@@ -1674,7 +1539,6 @@ unter Sichtflugbedingungen bei Nacht, davon drei Stunden mit
 Fluglehrer mit mindestens einer Stunde Überlandflugnavigation sowie
 fünf Alleinstarts und Alleinlandungen bis zum vollständigen
 Stillstand.
-
 
 #### § 84 Schleppberechtigung
 
@@ -1740,7 +1604,6 @@ innerhalb der letzten 24 Monate durchgeführt hat. Ist diese
 Voraussetzung nicht erfüllt, ist Absatz 2 Nr. 2 oder Absatz 3 Nr. 2
 anzuwenden.
 
-
 #### § 84a Passagierberechtigung für Luftsportgeräteführer
 
 (1) Luftsportgeräteführer bedürfen für Flüge oder Sprünge mit
@@ -1775,7 +1638,6 @@ Gültigkeit der Lizenz, soweit nicht der Beauftragte nach § 31c des
 Luftverkehrsgesetzes entsprechend § 42 Abs. 2 die Gültigkeitsdauer
 beschränkt und Voraussetzungen für die Verlängerung festlegt.
 
-
 #### § 85 Wolkenflugberechtigung für Segelflugzeugführer
 
 (1) Segelflugzeugführer bedürfen zum Führen von Segelflugzeugen in
@@ -1806,7 +1668,6 @@ Durchführung von Wolkenflügen notwendigen Fähigkeiten besitzt.
 
 (7) Die Wolkenflugberechtigung wird im Luftfahrerschein eingetragen.
 Die Gültigkeit richtet sich nach der Gültigkeit der Lizenz.
-
 
 #### § 86 Streu- und Sprühberechtigung
 
@@ -1867,15 +1728,11 @@ Luftfahrerschein erteilt. Die Gültigkeit richtet sich nach der
 Gültigkeit der Lizenz und des eingetragenen Luftfahrzeugmusters oder
 der Klassenberechtigung.
 
-
 #### § 87
 
 (weggefallen)
 
-
 ### 20. - Berechtigung zur praktischen Ausbildung von Luftfahrtpersonal sowie für die Ausbildung an synthetischen Flugübungsgeräten
-
-
 
 #### § 88 Berechtigung zur praktischen Ausbildung nach JAR-FCL 1, 2 und 4 deutsch
 
@@ -1894,7 +1751,6 @@ für Verkehr, Bau und Stadtentwicklung im Bundesanzeiger bekannt
 gemachten Fassung der Bestimmungen über die Lizenzierung von Piloten
 von Flugzeugen (JAR-FCL 1 deutsch), von Piloten von Hubschraubern
 (JAR-FCL 2 deutsch) und von Flugingenieuren (JAR-FCL 4 deutsch).
-
 
 #### § 88a Berechtigung zur praktischen Ausbildung von Privatflugzeugführern nach § 1
 
@@ -1937,7 +1793,6 @@ nachzuweisen, dass er nach seinem praktischen Können und seinem
 fachlichen Wissen die an einen Fluglehrer zur Ausbildung von
 Privatflugzeugführern nach § 1 zu stellenden Anforderungen erfüllt.
 
-
 #### § 89 Berechtigung zur praktischen Ausbildung von Segelflugzeugführern
 
 (1) Fachliche Voraussetzungen für den Erwerb der Berechtigung,
@@ -1975,10 +1830,7 @@ nachzuweisen, dass er nach seinem praktischen Können und seinem
 fachlichen Wissen die an einen Fluglehrer zur Ausbildung von
 Segelflugzeugführern zu stellenden Anforderungen erfüllt.
 
-
 #### (XXXX) §§ 90 bis 93 (weggefallen)
-
-
 
 #### § 94 Berechtigung zur praktischen Ausbildung von Freiballonführern
 
@@ -2013,7 +1865,6 @@ Freiballonführer praktisch auszubilden, sind
 nachzuweisen, dass er nach seinem praktischen Können und seinem
 fachlichen Wissen die an einen Fluglehrer zur Ausbildung von
 Freiballonführern zu stellenden Anforderungen erfüllt.
-
 
 #### § 95 Berechtigung zur praktischen Ausbildung von Luftschiffführern
 
@@ -2051,7 +1902,6 @@ auf die Besonderheiten der Luftschifffahrt beschränkt werden.
 nachzuweisen, dass er nach seinem praktischen Können und fachlichen
 Wissen die an einen Fluglehrer für die Ausbildung von
 Luftschiffführern zu stellenden Anforderungen erfüllt.
-
 
 #### § 95a Berechtigung zur praktischen Ausbildung von Luftsportgeräteführern
 
@@ -2114,7 +1964,6 @@ seinem fachlichen Wissen und praktischen Können die an einen
 Fluglehrer für die Ausbildung von Luftsportgeräteführern zu stellenden
 Anforderungen erfüllt.
 
-
 #### § 96 Erteilung, Umfang, Gültigkeit, Verlängerung und Erneuerung der Berechtigungen
 
 (1) Die Berechtigungen nach den §§ 88, 88a, 89, 94, 95 und 95a werden
@@ -2164,17 +2013,9 @@ nachstehenden Voraussetzungen erfüllt:
 3.  erfolgreiche Ablegung einer Befähigungsprüfung innerhalb der letzten
     12 Monate vor Verlängerung oder Erneuerung der Lehrberechtigung.
 
-
-
-
-
 #### (XXXX) §§ 97 und 97a (weggefallen)
 
-
-
 ### 21. - Führer von Luftfahrzeugen besonderer Art
-
-
 
 #### § 98 Sinngemäße Anwendung von Vorschriften
 
@@ -2185,18 +2026,11 @@ Stadtentwicklung fest, welche Vorschriften für Lizenzen und
 Berechtigungen zum Führen oder Bedienen derjenigen Luftfahrzeuge
 anzuwenden sind.
 
-
 #### (XXXX) §§ 99 bis 103 (weggefallen)
-
-
 
 ## Zweiter Abschnitt - Erlaubnisse und Berechtigungen für sonstiges Luftfahrtpersonal
 
-
-
 ### 1. - Prüfer von Luftfahrtgerät
-
-
 
 #### § 104 Fachliche Voraussetzungen
 
@@ -2328,7 +2162,6 @@ anzuwenden oder zu beurteilen hat.
 (6) Betriebe, die eine Ausbildung nach den Absätzen 4 und 5
 durchführen, bedürfen der Genehmigung durch das Luftfahrt-Bundesamt.
 
-
 #### § 105 Ersetzbarkeit der Berufsausbildung
 
 Die in § 104 Abs. 2 geforderte Berufsausbildung kann ersetzt werden
@@ -2342,10 +2175,6 @@ b)  bei den Prüferlaubnissen der Klasse 2, 3, 4 oder 5 durch den Abschluss
     einer staatlichen oder staatlich anerkannten Technikerschule oder
     einer Fach- oder wissenschaftlichen Hochschule einschlägiger
     Fachrichtung.
-
-
-
-
 
 #### § 106 Anrechenbarkeit, Ersetzbarkeit der beruflichen Tätigkeit
 
@@ -2372,7 +2201,6 @@ Instandhaltungs- oder luftfahrttechnischen Betrieb nachgewiesen wird.
 Die Erlaubnis kann auf Flugzeuge ohne Einziehfahrwerk, Einspritz- oder
 Turbinenmotoren beschränkt werden.
 
-
 #### § 107 Prüfung
 
 (1) Der Bewerber hat in einer Prüfung nachzuweisen, daß er nach seinem
@@ -2380,7 +2208,6 @@ fachlichen Wissen und seinem praktischen Können die an einen Prüfer
 von Luftfahrtgerät zu stellenden Anforderungen erfüllt.
 
 (2) (weggefallen)
-
 
 #### § 108 Erteilung und Umfang der Erlaubnis, Ausweis für Prüfer für Luftfahrtgerät
 
@@ -2441,7 +2268,6 @@ folgt erteilt:
 (3) Die Erlaubnis berechtigt zur Ausübung der Tätigkeit als Prüfer
 nach Maßgabe der Verordnung zur Prüfung von Luftfahrtgerät.
 
-
 #### § 109 Gültigkeitsdauer, Verlängerung und Erneuerung der Erlaubnis
 
 (1) Die Erlaubnis wird mit einer Gültigkeitsdauer von 24 Monaten
@@ -2472,7 +2298,6 @@ Erlaubnisbehörde bestimmten Sachverständigen abhängig gemacht werden.
 Erlaubnis, die vor Inkrafttreten dieser Verordnung erteilt wurde, kann
 die Erlaubnisbehörde den Nachweis von englischen Sprachkenntnissen
 gemäß § 110 Abs. 5 verlangen.
-
 
 #### § 110 Musterberechtigung für Prüfer von Luftfahrtgerät
 
@@ -2521,7 +2346,6 @@ Musterberechtigungen ohne die Voraussetzung der Absätze 2 und 3
 erteilt werden, wenn hierdurch die Sicherheit des Luftverkehrs und die
 öffentliche Sicherheit und Ordnung nicht gefährdet werden.
 
-
 #### § 111 Erteilung und Umfang der Musterberechtigung
 
 (1) Die Musterberechtigung für Prüfer von Luftfahrtgerät wird durch
@@ -2546,10 +2370,7 @@ sind, erteilen.
 Prüfertätigkeit von mindestens 12 Monaten an einer größeren Anzahl
 verschiedener Einzelmuster der Mustergruppe abhängig gemacht werden.
 
-
 ### 2. - Freigabeberechtigtes Personal
-
-
 
 #### § 111a Fachliche Voraussetzungen, Prüfungen, Erteilungen und Umfang der Erlaubnis
 
@@ -2582,10 +2403,7 @@ Ausbildung und Prüfung von Instandhaltungspersonal (JAR-147), die das
 Bundesministerium für Verkehr in deutscher Übersetzung im
 Bundesanzeiger bekannt gemacht hat.
 
-
 ### 3. - Flugdienstberater
-
-
 
 #### § 112 Fachliche Voraussetzungen
 
@@ -2658,7 +2476,6 @@ praktische Ausbildung angerechnet werden.
 
 (6) (weggefallen)
 
-
 #### § 113 Prüfung
 
 (1) Der Bewerber hat in einer theoretischen und praktischen Prüfung
@@ -2676,10 +2493,6 @@ Luftfahrtunternehmen durchzuführen.
     Unterstützung des verantwortlichen Luftfahrzeugführers während des
     Fluges im Rahmen eines Luftfahrtunternehmens.
 
-
-
-
-
 #### § 114 Erteilung, Umfang und Gültigkeit der Lizenz
 
 Die Lizenz wird unbefristet erteilt. Die Lizenz für Flugdienstberater
@@ -2692,10 +2505,7 @@ deutsch eingewiesen wurde, durchzuführen. Der Luftfahrerschein wird
 von der zuständigen Stelle bei Erteilung, Erneuerung einer
 Berechtigung, sonstiger Änderung der Daten neu ausgestellt.
 
-
 ### 4. - Steuerer von Flugmodellen nach § 1 Abs. 1 Nr. 8 und sonstigem Luftfahrtgerät, das nach § 6 Nr. 9 der Luftverkehrs-Zulassungs-Ordnung verkehrszulassungspflichtig ist
-
-
 
 #### § 115 Fachliche Voraussetzungen, Prüfung
 
@@ -2724,7 +2534,6 @@ Luftverkehrsgesetzes fest.
 (3) Der Kenntnisnachweis ist in einer Befähigungsüberprüfung durch
 einen von der zuständigen Stelle beauftragten Prüfer zu führen.
 
-
 #### § 116 Erteilung, Umfang und Gültigkeit der Lizenz
 
 (1) Die Lizenz für Steuerer von Flugmodellen oder sonstigen
@@ -2735,14 +2544,9 @@ Luftfahrtgeräten.
 
 (2) Die Lizenz wird unbefristet erteilt.
 
-
 ## Dritter Abschnitt - Gemeinsame Vorschriften
 
-
-
 ### 1. - Alleinflüge zum Erwerb, zur Erweiterung oder Erneuerung einer Lizenz oder Berechtigung
-
-
 
 #### § 117 Alleinflüge zum Erwerb, zur Erweiterung oder Erneuerung einer Lizenz oder Berechtigung
 
@@ -2801,14 +2605,9 @@ Durchführung des Fluges als Nachweis mitzuführen.
 Beauftragte nach § 31c des Luftverkehrsgesetzes die Voraussetzungen
 für die Alleinflüge und den Flugauftrag fest.
 
-
 #### (XXXX) §§ 118 und 119 (weggefallen)
 
-
-
 ### 2. - Nachweis der fliegerischen und fachlichen Voraussetzungen
-
-
 
 #### § 120 Nachweis der fliegerischen Voraussetzungen
 
@@ -2847,7 +2646,6 @@ Luftverkehrsgesetzes Ausnahmen von Absatz 1 zulassen oder weitere
 Angaben im Flug- oder Sprungbuch verlangen, wenn die Erfüllung der
 Anforderungen nach Absatz 1 auf andere Weise gewährleistet ist.
 
-
 #### § 121 Nachweis der theoretischen Ausbildung
 
 (1) Der Bewerber um eine Lizenz oder Berechtigung nach dieser
@@ -2866,7 +2664,6 @@ abzuzeichnen.
 einer Fernschule teil, tritt für den Teil des Fernunterrichtes an die
 Stelle des Unterrichtsbuches nach Absatz 1 eine Bescheinigung der
 Fernschule.
-
 
 #### § 122 Flugerfahrung der Luftfahrzeugführer bei Mitnahme von Fluggästen
 
@@ -2901,11 +2698,9 @@ Satz 1 mit der Maßgabe, dass der Lizenzinhaber nach Erteilung der
 Kunstflugberechtigung mindestens 50 Kunstflüge im Alleinflug, davon
 drei innerhalb der letzten 90 Tage durchgeführt haben muss.
 
-
 #### § 123
 
 (weggefallen)
-
 
 #### § 124 Anrechnung von Flugzeiten in besonderen Fällen
 
@@ -2923,10 +2718,6 @@ angerechnet:
 
 2.  Flugzeit als Prüfer und als Bewerber bei praktischen Prüfungen oder
     Befähigungsüberprüfungen.
-
-
-
-
 
 #### § 125 Nachweis über Sprachkenntnisse
 
@@ -3035,7 +2826,6 @@ Lizenz oder durch Ausstellung einer gesonderten Bescheinigung, die mit
 der Lizenz zu führen ist. Die Geltungsdauer des Nachweises ist bis zum
 31\. Dezember 2010 zu befristen.
 
-
 #### § 125a Anerkennung einer Stelle für die Abnahme von Sprachprüfungen
 
 (1) Das Luftfahrt-Bundesamt erkennt auf Antrag Stellen für die Abnahme
@@ -3054,17 +2844,13 @@ erteilten Nebenbestimmungen eingehalten werden. Das Luftfahrt-
 Bundesamt kann Einzelheiten zur Aufsicht durch Rechtsverordnung
 festlegen.
 
-
 #### § 126 Nachweis der vorgeschriebenen Ausbildung in Sofortmaßnahmen am Unfallort oder in erster Hilfe
 
 Der Nachweis über die Ausbildung in Sofortmaßnahmen am Unfallort oder
 in erster Hilfe ist durch eine Bescheinigung einer behördlich
 anerkannten Stelle zur Durchführung dieser Ausbildung zu führen.
 
-
 ### 2a. - Altersbeschränkungen für Verkehrs-, Berufspiloten und Inhaber von Lizenzen nach § 46 Abs. 5
-
-
 
 #### § 127 Ausübung der Rechte einer Lizenz bei der gewerbsmäßigen Beförderung von Fluggästen, Post oder Fracht innerhalb des Hoheitsgebietes der Bundesrepublik Deutschland
 
@@ -3080,10 +2866,7 @@ ausüben. Der Inhaber einer Lizenz nach Satz 1 darf nach Vollendung des
 gewerbsmäßigen Beförderung von Fluggästen, Post oder Fracht eingesetzt
 werden.
 
-
 ### 3. - Durchführung der Prüfungen und Befähigungsüberprüfungen, Berücksichtigung einer theoretischen Vorbildung
-
-
 
 #### § 128 Durchführung von Prüfungen und Befähigungsüberprüfungen, Anerkennung von Prüfern
 
@@ -3201,7 +2984,6 @@ bei Nichteignung des Bewerbers bleiben unberührt.
 eine Niederschrift von der zuständigen Stelle oder von dem
 beauftragten Prüfer zu fertigen.
 
-
 #### § 129 Berücksichtigung einer theoretischen Vorbildung
 
 (1) Für Inhaber einer gültigen Lizenz für Luftfahrzeugführer kann die
@@ -3218,7 +3000,6 @@ Sprechfunkverfahren bei Erwerb einer Lizenz. Absatz 1 und die Sätze 1
 und 2 finden auf die theoretische Prüfung entsprechend Anwendung. Die
 Sätze 1 bis 3 gelten entsprechend für Luftsportgeräteführer.
 
-
 #### § 130 Erneuerung einer Berechtigung
 
 Die zuständige Stelle kann eine Berechtigung, deren Gültigkeit nicht
@@ -3227,10 +3008,7 @@ Voraussetzungen für die Verlängerung erneuern, wenn die rechtzeitige
 Verlängerung aus vertretbaren Gründen unterblieben ist und diese
 Gründe glaubhaft gemacht werden.
 
-
 ### 4. - Zuständige Stellen, Antragstellung, Berechtigung zur Ausübung des Sprechfunkdienstes
-
-
 
 #### § 131 Zuständige Stellen
 
@@ -3240,7 +3018,6 @@ der betreffenden Lizenzen und Berechtigungen zuständigen
 Luftfahrtbehörden der Länder, das Luftfahrt-Bundesamt und die
 Beauftragten nach § 31c des Luftverkehrsgesetzes, sofern § 125 keine
 andere Regelung trifft.
-
 
 #### § 132 Antragstellung
 
@@ -3255,7 +3032,6 @@ vor.
 und Befähigung erforderlichen Nachweise und Erklärungen werden von der
 zuständigen Stelle im Einzelfall bestimmt.
 
-
 #### § 133 Berechtigung zur Ausübung des Sprechfunkdienstes
 
 (1) Die Berechtigung zur Ausübung des Sprechfunkdienstes kann im
@@ -3266,10 +3042,7 @@ Verordnung über Flugfunkzeugnisse oder nach § 44 Abs. 2 Satz 2.
 Tätigkeit nicht mitgeführt werden, wenn die Berechtigung zur Ausübung
 des Flugfunkdienstes im Luftfahrerschein eingetragen ist.
 
-
 ## Vierter Abschnitt - Durchführungsvorschriften, Ordnungswidrigkeiten und Übergangsvorschriften
-
-
 
 ### § 133a Durchführungsvorschriften
 
@@ -3295,7 +3068,6 @@ Rechtsverordnungen die Einzelheiten zu regeln, die zur Durchführung
 insbesondere die Richtlinien und Empfehlungen der Internationalen
 Zivilluftfahrt-Organisation sowie die europäischen Bestimmungen für
 den Erwerb von Lizenzen zu beachten.
-
 
 ### § 134 Ordnungswidrigkeiten
 
@@ -3336,10 +3108,6 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 7.  entgegen § 120 Abs. 1 Satz 2 das Flug- oder Sprungbuch nicht für zwei
     Jahre, gerechnet vom Tag der letzten Eintragung, aufbewahrt.
 
-
-
-
-
 ### § 135 Übergangsvorschriften
 
 Eine Erlaubnis, die nicht nach den Bestimmungen über die Lizenzierung
@@ -3357,16 +3125,13 @@ sich nach den Bestimmungen über die Lizenzierung von Piloten von
 Flugzeugen (JAR-FCL 1 deutsch) oder Hubschraubern (JAR-FCL 2 deutsch)
 sowie nach dieser Verordnung.
 
-
 ### § 136
 
 (Inkrafttreten, Aufhebung und Änderung von Rechtsvorschriften)
 
-
 ### § 137
 
 -
-
 
 ### Anlage 1 Luftfahrerscheine (Muster 1 bis 11)
 
@@ -3374,19 +3139,16 @@ sowie nach dieser Verordnung.
 Text siehe: Muster 1 bis 11; bzgl. der einzelnen Änderungen vgl.
 jeweilige Fußnote
 
-
 ### Muster 1 Luftfahrerschein für Privatflugzeugführer
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins
 Fundstelle: BGBl. I 2003, 218 - 219;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Muster 2 Luftfahrerschein für Privatflugzeugführer
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 220)
-
 
 ### Muster 3 Luftfahrerschein für Segelflugzeugführer
 
@@ -3394,13 +3156,11 @@ Fundstelle: BGBl. I 2003, 220)
 Fundstelle: BGBl. I 2003, 221;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Muster 4 Luftfahrerschein für Freiballonführer
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 222;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Muster 5 Luftfahrerschein für Luftsportgeräteführer
 
@@ -3408,48 +3168,40 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Luftsportgeräteführer,
 Fundstelle: BGBl. I 2003, 223)
 
-
 ### Muster 6 Luftfahrerschein für Luftschiffführer
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 224;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Muster 7
 
 (weggefallen)
-
 
 ### Muster 8 Luftfahrerschein für Flugtechniker auf Hubschraubern
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 225)
 
-
 ### Muster 9 Ausweis für Prüfer von Luftfahrtgerät
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 1984, 335, 336)
-
 
 ### Muster 9a Luftfahrerschein für Fallschirmspringer
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 1993, 768)
 
-
 ### Muster 10 Luftfahrerschein für Flugdienstberater
 
 (Inhalt: nicht darstellbares Muster eines Luftfahrerscheins,
 Fundstelle: BGBl. I 2003, 226)
 
-
 ### Muster 11 Ausweis für Steuerer von Flugmodellen und von sonstigem für die Benutzung des Luftraums bestimmten Luftfahrtgerät
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 2003, 227)
-
 
 ### Anlage 2 (zu § 125)
 
@@ -3479,10 +3231,6 @@ c)  sichere Handhabung sprachlicher Herausforderungen wie Komplikationen
 
 d)  akzent- und dialektfreie Sprache oder Sprache mit einem Dialekt oder
     Akzent, der im Flugfunkdienst verstanden wird.
-
-
-
-
 
 ### Anlage 3 (zu § 125)
 
@@ -3608,9 +3356,6 @@ Die Bewertung der Sprachkenntnisse erfolgt anhand folgender Maßstäbe:
         einleiten und aufrechterhalten, auch im Fall unerwarteter
         Geschehnisse. Der Kandidat klärt scheinbare Missverständnisse
         angemessen durch Rückfragen auf.
-
-
-
 
 ### Anlage 4 (zu § 125a)
 

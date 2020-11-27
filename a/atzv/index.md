@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 38 G v. 5.2.2009 I 160
 
-
 ## § 1 Gewährung eines Altersteilzeitzuschlags
 
 Den in § 6 Abs. 2 des Bundesbesoldungsgesetzes genannten Beamten und
@@ -30,7 +29,6 @@ gewährt, soweit die Altersteilzeit mindestens mit der Hälfte der
 bisherigen Arbeitszeit, die für die Bemessung der ermäßigten
 Arbeitszeit während der Altersteilzeit zugrunde gelegt worden ist,
 durchgeführt wird.
-
 
 ## § 2 Höhe und Berechnung
 
@@ -67,7 +65,6 @@ dass der Zuschlag auf der Grundlage von 88 vom Hundert der maßgebenden
 Nettobesoldung bemessen wird. Dies gilt entsprechend für Beamte, deren
 Dienstposten mit Beamten nach Satz 1 neu besetzt werden.
 
-
 ## § 2a Ausgleich bei vorzeitiger Beendigung der Altersteilzeit
 
 Wenn die Altersteilzeit mit ungleichmäßiger Verteilung der Arbeitszeit
@@ -78,7 +75,6 @@ ein Ausgleich in Höhe des Unterschiedsbetrages zu gewähren. Dabei
 bleiben Zeiten ohne Dienstleistung in der Arbeitsphase, soweit sie
 insgesamt sechs Monate überschreiten, unberücksichtigt. Abweichendes
 Landesrecht bleibt unberührt.
-
 
 ## § 3 (Inkrafttreten)
 

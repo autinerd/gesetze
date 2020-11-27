@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 397 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 3 Satz 2 Nr. 2 des Dritten Verstromungsgesetzes
 vom 13. Dezember 1974 (Bundesgesetzbl. I S. 3473) wird verordnet:
-
 
 ## § 1
 
@@ -38,7 +36,6 @@ berechnen.
 des Betriebsverbrauchs, der zur Aufrechterhaltung der
 Elektrizitätserzeugung und -verteilung erforderlich ist, außer
 Betracht.
-
 
 ## § 2
 
@@ -56,7 +53,6 @@ Kalenderjahr ermittelt und im Bundesanzeiger veröffentlicht. Bei der
 Berechnung des Durchschnittserlöses bleibt die Lieferung von
 Einphasen-Fahrstrom an Eisenbahnen des Bundes außer Betracht.
 
-
 ## § 3
 
 (1) Der nach § 2 maßgebende Durchschnittserlös ist um einen Abschlag
@@ -67,12 +63,10 @@ Abgabeschuldners richtet.
 (2) Der Vomhundertsatz des Abschlages ergibt sich aus der Anlage zu
 dieser Verordnung.
 
-
 ## § 4
 
 Der nach den §§ 2 und 3 ermittelte Wert ist um einen Abschlag von 25
 vom Hundert zu vermindern.
-
 
 ## § 5
 
@@ -94,7 +88,6 @@ dies nur, wenn im Kondensationsteil
 Im Falle des Satzes 2 Nr. 2 ist der monatliche Nachweis auch bei
 jährlicher Ermittlung und Zahlung der Ausgleichsabgabe zu führen.
 
-
 ## § 6
 
 (1) Für die durch erneuerbare Energien oder die Verbrennung von Müll
@@ -115,13 +108,11 @@ aus Chemieproduktionen und Destillationsrückstände (außer Benzin,
 Dieselkraftstoffen und Heizölen) sowie Gichtgas, Grubengas und
 Restgase aus Chemieproduktionen (außer Raffineriegas).
 
-
 ## § 7
 
 Für Elektrizitätserzeugungsanlagen, bei denen die Voraussetzungen der
 §§ 5 und 6 vorliegen, ist der sich nach den §§ 2 bis 4 ergebende Wert
 höchstens um 50 vom Hundert herabzusetzen.
-
 
 ## § 8
 
@@ -144,16 +135,13 @@ Unterschiedsbetrag zwischen der tatsächlich gezahlten Ausgleichsabgabe
 und dem nach Absatz 1 ermittelten Betrag an den Abgabeschuldner
 zurückgezahlt.
 
-
 ## § 9
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage
 

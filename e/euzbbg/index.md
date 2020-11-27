@@ -19,24 +19,20 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 13.9.2012 II 1006
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1 Mitwirkung des Bundestages
 
 In Angelegenheiten der Europäischen Union wirkt der Bundestag an der
 Willensbildung des Bundes mit.
 
-
 ## § 2 Ausschuss für die Angelegenheiten der Europäischen Union
 
 Der Bundestag bestellt einen Ausschuß für Angelegenheiten der
 Europäischen Union. Der Bundestag kann den Ausschuß ermächtigen, für
 ihn Stellungnahmen abzugeben.
-
 
 ## § 3 Vorhaben der Europäischen Union
 
@@ -118,7 +114,6 @@ auch für die Eurogruppe, Eurogipfel und Treffen der Mitgliedstaaten im
 Rahmen von Absatz 1 Nummer 15 und 16 sowie für alle diese jeweils
 vorbereitenden Arbeitsgruppen und Ausschüsse.
 
-
 ## § 4 Grundsätze der Unterrichtung
 
 (1) Die Bundesregierung unterrichtet den Bundestag nach Maßgabe dieses
@@ -178,7 +173,6 @@ frühestmöglichen Zeitpunkt
 (5) Der Bundestag kann auf die Unterrichtung zu einzelnen oder Gruppen
 von Vorhaben verzichten, es sei denn, dass eine Fraktion oder fünf vom
 Hundert der Mitglieder des Bundestages widersprechen.
-
 
 ## § 5 Übersendung von Dokumenten und Berichtspflichten
 
@@ -265,7 +259,6 @@ Sach- und Verhandlungsstandes sowie die Verhandlungslinie der
 Bundesregierung. Nach Ratstagungen unterrichtet die Bundesregierung
 schriftlich und mündlich über die Ergebnisse.
 
-
 ## § 6 Förmliche und allgemeine Zuleitung
 
 (1) Die Bundesregierung übersendet dem Bundestag alle Vorhaben mit
@@ -293,7 +286,6 @@ Dokuments die folgenden Hinweise:
 
 (2) Die Bundesregierung übersendet dem Bundestag alle bei ihr
 eingehenden Ratsdokumente (allgemeine Zuleitung).
-
 
 ## § 7 Berichtsbogen und Umfassende Bewertung
 
@@ -326,7 +318,6 @@ erforderlich, kann die Frist verlängert werden.
 Erstellung der Umfassenden Bewertung nach Absatz 2 nur auf
 Anforderung.
 
-
 ## § 8 Gemeinsame Außen- und Sicherheitspolitik und Gemeinsame Sicherheits- und Verteidigungspolitik
 
 (1) Im Bereich der Gemeinsamen Außen- und Sicherheitspolitik und der
@@ -349,7 +340,6 @@ zu. § 7 Absatz 1 gilt entsprechend.
 mündlich über alle relevanten Entwicklungen im Bereich der Gemeinsamen
 Außen- und Sicherheitspolitik und der Gemeinsamen Sicherheits- und
 Verteidigungspolitik.
-
 
 ## § 9 Stellungnahmen des Bundestages
 
@@ -393,7 +383,6 @@ Stellungnahme berücksichtigt worden sein, benennt die Bundesregierung
 auch die Gründe hierfür. Auf Verlangen des Bundestages erläutert die
 Bundesregierung diese Gründe im Rahmen einer Plenardebatte.
 
-
 ## § 10 Aufnahme von Verhandlungen über Beitritte und Vertragsänderungen
 
 (1) Mit der Unterrichtung über Vorschläge und Initiativen für
@@ -410,7 +399,6 @@ Entscheidungen zu treffen, bleibt unberührt.
 (3) Für Vorschläge und Initiativen zur Aufnahme von Verhandlungen zu
 Änderungen der vertraglichen Grundlagen der Europäischen Union gelten
 die Absätze 1 und 2 entsprechend.
-
 
 ## § 11 Zugang zu Datenbanken, vertrauliche Behandlung von Dokumenten
 
@@ -432,12 +420,10 @@ Anforderung zu erläutern.
 Verhandlungen trägt der Bundestag durch eine vertrauliche Behandlung
 Rechnung.
 
-
 ## § 12 Vereinbarung Bundestag – Bundesregierung
 
 Weitere Einzelheiten werden in der Vereinbarung zwischen dem Deutschen
 Bundestag und der Bundesregierung geregelt.
-
 
 ## Anlage (zu § 7 Absatz 1) Berichtsbogen
 

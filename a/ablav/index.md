@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2998
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Absatz 4a Satz 5 bis 8 und Absatz 4b des
@@ -23,7 +22,6 @@ Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621),
 der durch Artikel 1 Nummer 9 Buchstabe f des Gesetzes vom 20. Dezember
 2012 (BGBl. I S. 2730) geändert worden ist, verordnet die
 Bundesregierung mit Zustimmung des Bundestages:
-
 
 ## § 1 Anwendungsbereich
 
@@ -41,7 +39,6 @@ abschaltbare Lasten sowie die Durchführung des Belastungsausgleichs,
 die Berichtspflicht der Bundesnetzagentur und besondere Pflichten der
 Vertragsparteien näher ausgestaltet.
 
-
 ## § 2 Abschaltbare Lasten
 
 Als abschaltbare Lasten im Sinne dieser Verordnung gelten eine oder
@@ -56,10 +53,6 @@ mehrere Anlagen zum Verbrauch elektrischer Energie
 2.  an der Verbrauchseinrichtung die Verbrauchsleistung auf Anforderung
     der Betreiber von Übertragungsnetzen zuverlässig um eine bestimmte
     Leistung reduziert werden kann (Abschaltleistung).
-
-
-
-
 
 ## § 3 Kriterien für wirtschaftlich und technisch sinnvolle Vereinbarungen
 
@@ -76,7 +69,6 @@ abschaltbaren Lasten gelten als technisch sinnvoll im Sinne von § 13
 Absatz 4b Satz 4 des Energiewirtschaftsgesetzes, wenn die
 abschaltbaren Lasten, die Gegenstand der jeweiligen Vereinbarungen
 sind, den technischen Anforderungen der §§ 5 bis 7 genügen.
-
 
 ## § 4 Vergütung abschaltbarer Lasten
 
@@ -105,7 +97,6 @@ zählertechnisch erfasst; die elektrische Energie, die von den
 abschaltbaren Lasten durch den Abruf der Abschaltleistung nicht
 verbraucht wird, wird dem Betreiber von Übertragungsnetzen per
 Fahrplan geliefert.
-
 
 ## § 5 Technische Anforderungen an abschaltbare Lasten
 
@@ -181,7 +172,6 @@ einen in der Vereinbarung zu benennenden Konsortialführer vertreten
 werden (Zusammenlegung). Das Konsortium wird bei einer Ausschreibung
 als einzelner Anbieter behandelt.
 
-
 ## § 6 Regeln für die Zusammenlegung
 
 (1) Bei einer Zusammenlegung muss jede Verbrauchseinrichtung die
@@ -197,7 +187,6 @@ Megawatt ist nicht zulässig.
 unterschiedlichen Netzgruppen eines Betreibers von Verteilernetzen
 oder bei unterschiedlichen Betreibern von Verteilernetzen
 angeschlossen sind, ist nicht zulässig.
-
 
 ## § 7 Teilnahme am Regelleistungsmarkt und Handel für den Folgetag
 
@@ -238,7 +227,6 @@ steht einem Abruf nach § 5 Absatz 1 Nummer 3 Buchstabe b mit einer
 Dauer von acht Stunden für den Zeitraum dieser 14 Tage gleich; der
 Anspruch auf Zahlung des Arbeitspreises entsteht dadurch nicht.
 
-
 ## § 8 Ausschreibungsverfahren
 
 (1) Die Betreiber von Übertragungsnetzen schreiben gemeinsam einmal
@@ -256,7 +244,6 @@ vor dem und für den Folgemonat.
 (3) Die Betreiber von Übertragungsnetzen richten dazu unverzüglich
 eine internetbasierte elektronische Ausschreibungsplattform
 vergleichbar der für Regelenergie ein.
-
 
 ## § 9 Präqualifikation
 
@@ -322,10 +309,6 @@ sind insbesondere festzulegen:
 9.  Kriterien für die Erbringung aus Bilanzkreisen, bei denen der Anbieter
     nicht Bilanzkreisverantwortlicher ist.
 
-
-
-
-
 ## § 10 Angebotserstellung
 
 (1) Anbieter können auf eine Ausschreibung der Betreiber von
@@ -379,7 +362,6 @@ die Anbieter sich einverstanden, ein Restabrufkonto zu führen, das
 Auskunft gibt über das für Abschaltungen im Ausschreibungszeitraum
 noch zur Verfügung stehende Zeitvolumen.
 
-
 ## § 11 Zuschlagserteilung
 
 (1) Betreiber von Übertragungsnetzen müssen bis zu einer
@@ -401,7 +383,6 @@ Identifikationsnummer (ID) durch die Betreiber von Übertragungsnetzen
 und es entsteht gegen den Betreiber des Übertragungsnetzes, in dessen
 Regelzone sich die abschaltbare Last befindet, der Anspruch auf
 Zahlung des Leistungspreises nach § 4 Absatz 1 und 2.
-
 
 ## § 12 Meldung der Verfügbarkeit
 
@@ -438,7 +419,6 @@ Nichtverfügbarkeit der Abschaltleistung durch Herbeiführen der
 Nichterreichbarkeit nach Rücksprache mit dem Betreiber von
 Übertragungsnetzen zu sorgen.
 
-
 ## § 13 Abruf der Abschaltleistung
 
 (1) Für den Abruf der Abschaltleistung durch die Betreiber von
@@ -455,7 +435,6 @@ der Abschaltleistung; die Fälligkeit richtet sich nach § 15 Absatz 2.
 (4) Nach dem Abruf ist das Erhöhen der Verbrauchsleistung nur in
 Abstimmung mit dem Betreiber des Übertragungsnetzes zulässig, mit dem
 die Vereinbarung über die Abschaltleistungen besteht.
-
 
 ## § 14 Einfluss der Verfügbarkeit auf die Vergütung
 
@@ -479,7 +458,6 @@ Lasten auf Zahlung eines Leistungspreises aus § 4 Absatz 1 entfällt
 rückwirkend zum Beginn des Ausschreibungszeitraums für die Dauer eines
 Jahres im Falle einer vorsätzlichen oder grob fahrlässigen Verletzung
 der Meldepflichten aus § 13 und der Verpflichtung aus § 15 Absatz 1.
-
 
 ## § 15 Rechte und Pflichten der Vertragsparteien
 
@@ -524,7 +502,6 @@ der zu veröffentlichenden Daten regeln.
 Anbieter, die im Zusammenhang mit der ordnungsgemäßen Anwendung dieser
 Verordnung entstehen.
 
-
 ## § 16 Abschaltbare Lasten in nachgelagerten Netzen
 
 Die Nutzung einer vertraglich vereinbarten Abschaltleistung ist nur in
@@ -532,7 +509,6 @@ Abstimmung mit dem Betreiber desjenigen nachgelagerten
 Elektrizitätsverteilernetzes zulässig, in das die abschaltbare Last
 eingebunden ist; § 14 Absatz 1c Satz 1 des Energiewirtschaftsgesetzes
 bleibt unberührt.
-
 
 ## § 17 Bericht der Bundesnetzagentur
 
@@ -551,7 +527,6 @@ zu unterstützen.
 (2) Das Bundesministerium für Wirtschaft und Technologie leitet diesen
 Bericht der Bundesregierung und dem Bundestag innerhalb von zwei
 Monaten zu.
-
 
 ## § 18 Kostenregelung
 
@@ -574,7 +549,6 @@ und Verrechnung der sich aus dieser Verordnung ergebenden Zahlungen
 und Aufwendungen. Die Umlage nach Absatz 1 kann mit anderen
 Entgeltbestandteilen durch Festlegung nach § 30 Absatz 2 Nummer 6 der
 Stromnetzentgeltverordnung zusammen erhoben werden.
-
 
 ## § 19 Inkrafttreten, Außerkrafttreten
 

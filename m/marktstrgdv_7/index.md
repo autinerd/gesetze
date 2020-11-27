@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 2 Nr. 5 G v. 26. 6.1992 I 1159
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 1 und 2 und des § 6 Abs. 2 Nr. 1 und 2
 des Marktstrukturgesetzes vom 16. Mai 1969 (Bundesgesetzbl. I S. 423)
 wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -52,10 +50,6 @@ können mehrere der folgenden Erzeugnisse zusammengefaßt werden:
 
     *   Kartoffeln zum Herstellen von Veredelungsprodukten für die menschliche
         Ernährung.
-
-
-
-
 
 ## § 2
 
@@ -135,10 +129,6 @@ beantragt haben, beginnt das erste Jahr mit dem 1. April 1970.
     Gehalt von 15% Stärke im Zeitpunkt der Lieferung an die
     Stärkeherstellungsbetriebe besitzen.
 
-
-
-
-
 ## § 3
 
 (1) Die Mindestmenge eines Liefervertrages (§ 6 Abs. 1 Nr. 4 des
@@ -163,22 +153,18 @@ Berechnung der Mindestmenge nach Satz 1 als ein Liefervertrag.
 Gesetzes) wird für Lieferverträge nach Absatz 1 auf fünf Jahre
 festgesetzt.
 
-
 ## § 4
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anlage (zu § 2 Abs. 3 Nr. 2)
 
@@ -229,9 +215,6 @@ B.  Die Kartoffeln müssen nach Größe sortiert sein. Sie dürfen nicht durch
 C.  Im Zeitpunkt der Übernahme durch den Erstabnehmer werden die in
     nachstehender Mängeltabelle festgelegten Abweichungen von den
     vorstehend festgelegten Anforderungen toleriert:
-
-
-
 
 ## Mängeltabelle
 

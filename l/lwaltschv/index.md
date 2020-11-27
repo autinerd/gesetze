@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2861
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom
 25\. Juni 2004 (BGBl. I S. 1383) verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Angemessenheit der Vergütungen
 
@@ -49,7 +46,6 @@ dürfen höchstens die Vergütungen angesetzt werden, die auch
 voneinander unabhängige Dritte unter gleichen Umständen miteinander
 vereinbart hätten. Bei Überlassung von Grundstücken ist höchstens die
 ortsübliche Pacht anzusetzen.
-
 
 ## § 2 Vorzulegende Unterlagen
 
@@ -172,7 +168,6 @@ Angaben des Antragstellers einer prüferischen Durchsicht unterziehen
 und hierüber eine Bescheinigung erteilen. Dabei ist insbesondere auf
 den Gesichtspunkt der Vollständigkeit einzugehen.
 
-
 ## § 3 Allgemeine Grundsätze zur Ermittlung des Ablösebetrages
 
 (1) Kreditnehmer haben für die Gesamtheit der in die
@@ -219,7 +214,6 @@ Barwertes der Zahlungen aus Gewinn nach § 4, des Barwertes der
 Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens nach
 § 5 und noch ausstehender Zahlungsverpflichtungen aus der
 Rangrücktrittsvereinbarung gemäß § 6.
-
 
 ## § 4 Ermittlung des Barwertes der zukünftigen Zahlungen aus Gewinn
 
@@ -309,7 +303,6 @@ Jahr 2005 endet: 20 vom Hundert; für Folgejahre: 55 vom Hundert)
 angewendet; von dem Abführungsbetrag wird ein Risikoabschlag von 15
 vom Hundert vorgenommen.
 
-
 ## § 5 Ermittlung des Barwertes der zukünftigen Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens
 
 (1) Vermögenswerte werden zur Ermittlung des Ablösebetrages auf der
@@ -336,7 +329,6 @@ aktuellen Verkehrswert veräußert werden und die hierauf zu leistende
 Zahlung gemäß Nummer 1 Abs. 5 der Rangrücktrittsvereinbarung zum 31.
 Dezember 2006 erfolgt.
 
-
 ## § 6 Berücksichtigung noch ausstehender Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung
 
 Ausstehende fällige Zahlungsverpflichtungen aus der
@@ -347,7 +339,6 @@ das im Jahr 2004 endet, noch nicht feststeht, ist sie durch den
 Kreditnehmer zu schätzen. Soweit Stundungsvereinbarungen mit der
 Gläubigerbank getroffen wurden, ist der Barwert der gestundeten
 Zahlungen dem Ablösebetrag hinzuzurechnen.
-
 
 ## § 7 Ermittlung des Mindestablösebetrages nach § 7 Abs. 1 Satz 4 des Landwirtschafts-Altschuldengesetzes
 
@@ -370,7 +361,6 @@ Rangrücktrittsvereinbarung die Altschulden abzutragen.
 (4) Zusätzlich zum Mindestablösebetrag sind die
 Zahlungsverpflichtungen aus § 6 zu erfüllen.
 
-
 ## § 8 Barwertberechnung
 
 Der Barwert der zukünftigen Zahlungen entspricht der Summe der
@@ -389,7 +379,6 @@ Z         = EU-Referenzzinssatz in vom Hundert gemäß § 7 Abs. 2
 des Landwirtschafts-Altschuldengesetzes in Verbindung
 mit § 3 Abs. 2 Satz 2 und 3 dieser Verordnung
 L         = Kalenderjahr
-
 
 ## § 9 Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
 
@@ -428,18 +417,15 @@ zunächst mit dem Kreditnehmer erörtert werden.
 vorherige Herstellung des Einvernehmens mit der beauftragten Stelle
 voraus.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
-
 
 ## Anhang (zu § 2 Abs. 1 LwAltschV - Kalenderjahr)
 
 (... nicht darstellbare Vordrucke,
 "Seite 1 bis 5 - Antrag auf Ablösung landwirtschaftlicher Altschulden"
 Fundstelle: BGBl. I 2004, 2865 - 2869)
-
 
 ## Anlage 1
 
@@ -458,20 +444,17 @@ Seite 6 - Ermittlung BMG gemäß § 2 Abs. 3 letzter Satz LwAltschV für
 das Geschäftsjahr 1.1.2005 bis 31.12.2005,
 Seite 7 - BMG für die Barwertermittlung"
 
-
 ## Anlage 2
 
 (... nicht darstellbarer Vordruck,
 "Investitionsübersicht gemäß § 8 Abs. 2 Nr. 3 LwAltSchG"
 Fundstelle: BGBl. I 2004, 2877)
 
-
 ## Anlage 3
 
 (... nicht darstellbarer Vordruck,
 "Darstellung der Finanz- und Liquiditätslage per 31.12.2004"
 Fundstelle: BGBl. I 2004, 2878)
-
 
 ## Anlage 4.1
 
@@ -481,14 +464,12 @@ Fundstelle: BGBl. I 2004, 2878)
 Antragstellung 10.000 Euro überschreitet"
 Fundstelle: BGBl. I 2004, 2879)
 
-
 ## Anlage 4.2
 
 (... nicht darstellbarer Vordruck,
 "Veräußerte Vermögenswerte gemäß § 8 Absatz 2 Nr. 6 LwAltschG, deren
 Erlös im Einzelnen mehr als 10.000 Euro betragen hat"
 Fundstelle: BGBl. I 2004, 2880)
-
 
 ## Anlage 4.3
 
@@ -498,13 +479,11 @@ Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch
 vertragliche Vereinbarung mit der Bank erloschen ist"
 Fundstelle: BGBl. I 2004, 2881)
 
-
 ## Anhang (zu § 2 Abs. 1 LwAltschV - Wirtschaftsjahr)
 
 (... nicht darstellbare Vordrucke,
 "Seite 1 bis 5 - Antrag auf Ablösung landwirtschaftlicher Altschulden"
 Fundstelle: BGBl. I 2004, 2882 - 2886)
-
 
 ## Anlage 1
 
@@ -523,20 +502,17 @@ Seite 6 - Ermittlung BMG gemäß § 2 Abs. 3 letzter Satz LwAltschV für
 das Geschäftsjahr 1.7.2004 bis 30.6.2005,
 Seite 7 - BMG für die Barwertermittlung"
 
-
 ## Anlage 2
 
 (... nicht darstellbarer Vordruck,
 "Investitionsübersicht gemäß § 8 Abs. 2 Nr. 3 LwAltSchG"
 Fundstelle: BGBl. I 2004, 2894)
 
-
 ## Anlage 3
 
 (... nicht darstellbarer Vordruck,
 "Darstellung der Finanz- und Liquiditätslage per 31.12.2004"
 Fundstelle: BGBl. I 2004, 2895)
-
 
 ## Anlage 4.1
 
@@ -546,14 +522,12 @@ Fundstelle: BGBl. I 2004, 2895)
 Antragstellung 10.000 Euro überschreitet"
 Fundstelle: BGBl. I 2004, 2896)
 
-
 ## Anlage 4.2
 
 (... nicht darstellbarer Vordruck,
 "Veräußerte Vermögenswerte gemäß § 8 Absatz 2 Nr. 6 LwAltschG, deren
 Erlös im Einzelnen mehr als 10.000 Euro betragen hat"
 Fundstelle: BGBl. I 2004, 2897)
-
 
 ## Anlage 4.3
 

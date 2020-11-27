@@ -23,7 +23,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des §
@@ -36,7 +35,6 @@ geändert worden sind, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mechaniker für Karosserieinstandhaltungstechnik
@@ -45,11 +43,9 @@ der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 20,
 Kraftfahrzeugtechniker, der Anlage A der Handwerksordnung staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan/Ausbildungsberufsbild
 
@@ -130,10 +126,6 @@ Abweichung erfordern.
 
 21. Kontrollieren und Dokumentieren, Übergeben von Fahrzeugen.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in § 3 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -153,7 +145,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
 ## § 5 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
@@ -172,7 +163,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 35 Prozent, Teil 2 der Gesellenprüfung mit 65
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Gesellenprüfung
 
@@ -240,10 +230,6 @@ Arbeitsauftrag.
 4.  die Prüfungszeit beträgt acht Stunden; innerhalb dieser Zeit soll das
     Fachgespräch in insgesamt höchstens 15 Minuten und die Bearbeitung der
     schriftlichen Aufgaben in zwei Stunden durchgeführt werden.
-
-
-
-
 
 ## § 7 Teil 2 der Gesellenprüfung
 
@@ -432,10 +418,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -498,7 +480,6 @@ folgende Vorgaben:
 
 bewertet worden sind.
 
-
 ## § 9 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -511,7 +492,6 @@ für diesen Prüfungsbereich sind das bisherige Ergebnis und das
 Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu
 gewichten.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -522,11 +502,9 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 11 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Karosserieinstandhaltungstechnik/zur Mechanikerin für Karosserieinstandhaltungstechnik
 

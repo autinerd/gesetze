@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 108 G v. 5.2.2009 I 160
 
-
 ## § 1 Rechtsform der Stiftung
 
 Unter dem Namen "Museumsstiftung Post und Telekommunikation" wird mit
 Sitz in Bonn eine rechtsfähige Stiftung des öffentlichen Rechts
 errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
-
 
 ## § 2 Stiftungszweck
 
@@ -55,10 +53,6 @@ Fernmeldewesen.
 5.  mit Museen und Stiftungen gleicher Zielrichtung national und
     international zusammenzuarbeiten.
 
-
-
-
-
 ## § 3 Stiftungsvermögen
 
 (1) Der Stiftung sind nach näherer Maßgabe der §§ 13 und 14 des
@@ -79,7 +73,6 @@ Vermögensgegenstände zu veräußern oder sonstwie entgeltlich abzugeben.
 
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur
 im Sinne des Stiftungszwecks zu verwenden.
-
 
 ## § 4 Finanzierung
 
@@ -114,11 +107,9 @@ vertreten sind, haben sich auch diese nach dem gleichen Maßstab an den
 jährlichen Zuschußzahlungen zu beteiligen. Dies gilt nicht für
 Kuratoriumsmitglieder aus dem Museumswesen.
 
-
 ## § 5 Organe
 
 Organe der Stiftung sind das Kuratorium und der Kurator.
-
 
 ## § 6 Satzung
 
@@ -126,7 +117,6 @@ Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von zwei Dritteln der Mitglieder beschlossen wird und die der
 Genehmigung des Bundesministeriums der Finanzen bedarf. Das gleiche
 gilt für Änderungen der Satzung.
-
 
 ## § 7 Kuratorium
 
@@ -177,7 +167,6 @@ Vorsitzenden.
 
 (9) Das Nähere regelt die Satzung.
 
-
 ## § 8 Aufgaben des Kuratoriums
 
 (1) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die
@@ -222,7 +211,6 @@ zum Aufgabenbereich der Stiftung gehören. Dazu zählt insbesondere:
 ihm jederzeit Auskünfte und Berichte sowie die Vorlage der Akten und
 Bücher verlangen.
 
-
 ## § 9 Kurator
 
 (1) Der hauptamtliche Kurator und sein ständiger Vertreter werden vom
@@ -234,7 +222,6 @@ des Kuratoriums oder deren Stellvertreter sein.
 (3) Gegenüber dem Kurator wird die Stiftung durch den Vorsitzenden des
 Kuratoriums vertreten.
 
-
 ## § 10 Aufgaben des Kurators
 
 (1) Der Kurator hat die Beschlüsse des Kuratoriums auszuführen und die
@@ -244,7 +231,6 @@ Museumsleitern, regelt die Satzung.
 
 (2) Der Kurator vertritt die Stiftung gerichtlich und
 außergerichtlich.
-
 
 ## § 11 Personal
 
@@ -270,7 +256,6 @@ Vorschriften Anwendung. Für die auf die Stiftung übergeleiteten
 Beschäftigten gelten die Regelungen des Siebten und Achten Abschnitts
 des Bundesanstalt Post-Gesetzes entsprechend.
 
-
 ## § 12 Haushaltsplan, Rechnungsprüfung
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
@@ -285,17 +270,14 @@ Genehmigung durch das Bundesministerium der Finanzen.
 
 (4) Das Nähere regelt die Satzung.
 
-
 ## § 13 Rechtsaufsicht
 
 Die Stiftung unterliegt der Rechtsaufsicht durch das Bundesministerium
 der Finanzen.
 
-
 ## § 14 Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
-
 
 ## § 15 Steuer-, Gebühren- und Abgabenbefreiung
 

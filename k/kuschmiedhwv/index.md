@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1974, 2142
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 Nr. 1 und 2 der Handwerksordnung in der Fassung der
@@ -27,10 +25,7 @@ zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom
 den Bundesministern für Arbeit und Sozialordnung und für Bildung und
 Wissenschaft verordnet:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -135,13 +130,7 @@ Fertigkeiten zuzurechnen:
 
 22. Instandhalten der Maschinen, Werkzeuge und Geräte.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -159,7 +148,6 @@ die Arbeitsprobe nicht mehr als acht Stunden dauern.
 (4) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
 ausreichende Leistungen in der Meisterprüfungsarbeit und in der
 Arbeitsprobe.
-
 
 ### § 3 Meisterprüfungsarbeit
 
@@ -205,10 +193,6 @@ Materialangabe sowie einen Arbeitsplan vorzulegen.
 
 4.  die Nachkalkulation.
 
-
-
-
-
 ### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe sind zwei der nachstehenden Arbeiten auszuführen,
@@ -244,7 +228,6 @@ davon je eine aus den Nummern 1 bis 4 und 5 bis 7:
 (2) Im Rahmen der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -335,15 +318,11 @@ werden.
 ausreichende Leistungen in jedem der in Absatz 1 Nr. 1, 2 und 4
 genannten Prüfungsfächer.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6
 
 -
-
 
 ### § 7 Sonstige Vorschriften
 
@@ -356,18 +335,15 @@ Meisterprüfung im Handwerk vom 12. Dezember 1972 (Bundesgesetzbl. I S.
 Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln,
 nicht mehr anzuwenden.
 
-
 ### § 8 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ### § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 1974 in Kraft.
-
 
 ### Schlußformel
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 218
 
-
-
 ## (XXXX)
 
 
@@ -49,10 +47,6 @@ III. Nach § 174 Abs. 3 des Bundesbeamtengesetzes in Verbindung mit § 46 des
 IV. Diese Anordnung wird vorbehaltlich des Satzes 2 am 1. März 2004
     wirksam. Sie ist nicht anzuwenden auf vor dem 1. März 2004 erhobene
     Widersprüche oder Klagen.
-
-
-
-
 
 ## Schlussformel
 

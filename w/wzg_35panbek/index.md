@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 264
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 des Warenzeichengesetzes in der Fassung vom
@@ -25,7 +23,6 @@ des Leiters der Markenabteilung im panamaischen Ministerium für
 Landwirtschaft, Handel und Industrie bekanntgemacht:
 Deutsche Warenbezeichnungen werden in der Republik Panama in demselben
 Umfang wie inländische zum gesetzlichen Schutz zugelassen.
-
 
 ## Schlussformel
 

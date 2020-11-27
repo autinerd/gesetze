@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 31.7.2010 I 1057
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Beschäftigung und für die Tätigkeit des
@@ -43,10 +42,6 @@ diese dem Arbeitszeitgesetz vor.
     Anhänger oder Sattelanhänger, bis zu 2,8 t, es sei denn, daß sie als
     Fahrpersonal in einem unter den Geltungsbereich des
     Arbeitszeitgesetzes fallenden Arbeitsverhältnis stehen.
-
-
-
-
 
 ## § 2 Rechtsverordnungen
 
@@ -197,10 +192,6 @@ Soziales mit Zustimmung des Bundesrates
 
     zu erlassen.
 
-
-
-
-
 ## § 3 Verbot bestimmter Akkordlöhne, Prämien und Zuschläge
 
 Mitglieder des Fahrpersonals dürfen als Arbeitnehmer nicht nach den
@@ -209,7 +200,6 @@ entlohnt werden, auch nicht in Form von Prämien oder Zuschlägen für
 diese Fahrstrecken oder Gütermengen. Ausgenommen sind Vergütungen, die
 nicht geeignet sind, die Sicherheit im Straßenverkehr zu
 beeinträchtigen.
-
 
 ## § 4 Aufsicht
 
@@ -317,13 +307,11 @@ und ihren Angestellten, einschließlich der Fahrer, zu dulden.
 und der Artikel 7 und 12 Abs. 2 und 3 der Verordnung (EWG) Nr. 3821/85
 ist das Kraftfahrt-Bundesamt.
 
-
 ## § 4a Zuständigkeiten
 
 Anträge auf Erteilung von Fahrer-, Werkstatt- oder Unternehmenskarten
 sind an die nach Landesrecht zuständigen Behörden oder Stellen zu
 richten. Die Länder können Dritte mit dieser Aufgabe betrauen.
-
 
 ## § 4b Fahrerlaubnisrechtliche Auskünfte
 
@@ -335,7 +323,6 @@ Verordnung (EWG) Nr. 3821/85 an die hierfür zuständigen Stellen im
 Inland sowie in einem Mitgliedstaat der Europäischen Union oder einem
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 übermittelt werden.
-
 
 ## § 4c Auskünfte aus dem Kontrollgerätkartenregister
 
@@ -359,7 +346,6 @@ sie zur Aufgabenerfüllung nicht mehr erforderlich sind.
 (3) Die für das Kontrollgerätkartenregister zuständige Stelle hat zu
 gewährleisten, dass die Übermittlung der Daten zumindest durch
 geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
-
 
 ## § 5 Anordnungsbefugnis, Sicherungsmaßnahmen, Zurückweisung an der Grenze
 
@@ -391,7 +377,6 @@ werden.
 zur Durchsetzung der in § 4 Abs. 3 Satz 1 und Abs. 5 geregelten
 Pflichten haben keine aufschiebende Wirkung.
 
-
 ## § 6 Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im
@@ -403,13 +388,11 @@ Abs. 2 des Gesetzes über Ordnungswidrigkeiten) wegen einer
 Ordnungswidrigkeit nach § 8 und darüber, in welchen Fällen eine solche
 Verwarnung nicht erteilt werden soll.
 
-
 ## § 7 Sicherheitsleistung
 
 Wird eine angeordnete Sicherheitsleistung nicht sofort erbracht, so
 kann die zuständige Behörde die Weiterfahrt bis zur vollständigen
 Erbringung untersagen.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -540,7 +523,6 @@ begangen wurden, werden abweichend von § 4 Abs. 3 des Gesetzes über
 Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden
 Bestimmungen geahndet.
 
-
 ## § 8a Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Unternehmer gegen die Verordnung
@@ -613,7 +595,6 @@ einer Geldbuße bis zu fünftausend Euro geahndet werden.
 dann geahndet werden, wenn sie nicht im Geltungsbereich dieses
 Gesetzes begangen wurde.
 
-
 ## § 9 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 (1) Wird ein Verstoß in einem Unternehmen begangen, das im
@@ -639,7 +620,6 @@ Güterverkehr.
 (3) (weggefallen)
 
 (4) (weggefallen)
-
 
 ## § 10 Datenschutzbestimmungen
 
@@ -729,7 +709,6 @@ Verfahren sind unverzüglich zu löschen.
 (7) § 15 Abs. 1 in Verbindung mit § 14 Abs. 2 Nr. 6 und 7 des
 Bundesdatenschutzgesetzes sowie die entsprechenden Vorschriften der
 Landesdatenschutzgesetze bleiben unberührt.
-
 
 ## § 11
 

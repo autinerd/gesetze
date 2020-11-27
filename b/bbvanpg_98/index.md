@@ -19,21 +19,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 63 G v. 19.2.2006 I 334
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil 1 - Anpassung von Dienst- und Versorgungsbezügen
-
-
 
 ### Art 1 (weggefallen)
 
 -
-
 
 ### Art 2 Sonstige Bezüge
 
@@ -52,11 +47,9 @@ April 1970 (BGBl. I S. 339) oder entsprechendem Landesrecht nehmen mit
 Wirkung vom 31. Dezember 1997 an allgemeinen Erhöhungen der Bezüge
 nicht mehr teil.
 
-
 ### Art 3
 
 -
-
 
 ### Art 4 Berechnungs- und Anpassungsvorschriften
 
@@ -75,19 +68,13 @@ auf- oder abzurunden.
 Artikel 2 Abs. 1 Nr. 4 und Artikel 2 Abs. 2 ergebenden Anlagen des
 Bundesbesoldungsgesetzes im Bundesgesetzblatt bekannt.
 
-
 ## Teil 2 - Änderung sonstiger Vorschriften
-
-
 
 ### (XXXX) Art 5 bis Art 11 (weggefallen)
 
 -
 
-
 ## Teil 3 - Übergangs- und Schlußvorschriften
-
-
 
 ### Art 12 Neubekanntmachungserlaubnisse
 
@@ -98,14 +85,12 @@ Mehrarbeitsvergütung für Beamte in der Fassung, die am ersten Tage des
 auf die Verkündung dieses Gesetzes folgenden Kalendermonats gilt, im
 Bundesgesetzblatt bekanntmachen.
 
-
 ### Art 13 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 2 Abs. 1 Nr. 2 und 3 sowie Artikeln 3 und 11
 beruhenden Teile der dort geänderten Rechtsverordnungen können auf
 Grund der jeweils einschlägigen Ermächtigung durch Rechtsverordnung
 geändert werden.
-
 
 ### Art 14 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 1905
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,7 +26,6 @@ Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist,
 wird im Einvernehmen mit dem Bundesminister für Bildung und
 Wissenschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
@@ -36,12 +33,10 @@ Betonstein- und Terrazzohersteller/Betonstein- und
 Terrazzoherstellerin nach der Handwerksordnung und für die
 Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
-
 ## § 2 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Betonfertigteilbauer/Betonfertigteilbauerin wird
 staatlich anerkannt.
-
 
 ## § 3 Ausbildungsdauer
 
@@ -52,7 +47,6 @@ Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 29 Abs.
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 4 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -60,7 +54,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule
 nach den landesrechtlichen Vorschriften über das
 Berufsgrundbildungsjahr erfolgen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -115,10 +108,6 @@ Fertigkeiten und Kenntnisse:
 16. Herstellen, Transportieren, Montieren und Verlegen von
     Betonfertigteilen.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung
@@ -131,12 +120,10 @@ abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte
 ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
 die Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -144,7 +131,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -216,7 +202,6 @@ berücksichtigen.
 (5) Die im Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung und Gesellenprüfung
 
@@ -465,18 +450,15 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 11 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf Betonwerker sind
 vorbehaltlich des § 13 nicht mehr anzuwenden.
 
-
 ## § 12
 
 -
-
 
 ## § 13 Übergangsregelung
 
@@ -485,23 +467,19 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 14 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ## § 15 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1986 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Betonstein- und Terrazzohersteller/zur Betonstein- und Terrazzoherstellerin, zum Betonfertigteilbauer/zur Betonfertigteilbauerin
 
@@ -1268,10 +1246,6 @@ Der Bundesminister für Wirtschaft
 *    *   c)
 
     *   Spannbetonfertigteile transportieren, einbauen und verankern
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
 

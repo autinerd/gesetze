@@ -22,7 +22,6 @@ Bundesrepublik Deutschlandbeschlossene Rahmenlehrplan für die
 Berufsschule werdendemnächst als Beilage zum Bundesanzeiger
 veröffenlticht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -33,13 +32,11 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Dachdecker/Dachdeckerin wird für die Ausbildung
 für das Gewerbe Nummer 4, Dachdecker, der Handwerksordnung staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -61,7 +58,6 @@ einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -76,7 +72,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -199,13 +194,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     g)  Berichtswesen, Aufmaß, qualitätssichernde Maßnahmen.
 
-
-
-
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -218,12 +206,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -232,14 +218,12 @@ Ausbildungsstätte ergänzt. Die Handwerkskammer regelt die Durchführung
 der überbetrieblichen Ausbildung auf der Grundlage des
 Ausbildungsrahmenplanes (Anlage, Abschnitt IV).
 
-
 ## § 8 Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -298,10 +282,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 8.  berufsbezogene Berechnungen.
-
-
-
-
 
 ## § 10 Gesellenprüfung
 
@@ -633,7 +613,6 @@ Leistungen erbracht sind. Werden die Prüfungsleistungen in einer der
 vier praktischen Aufgaben oder in einem der vier Prüfungsbereiche mit
 "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -641,11 +620,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Dachdecker/zur Dachdeckerin
 

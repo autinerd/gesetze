@@ -23,7 +23,6 @@ Rates vom 15. Juli 1975 über Abfälle (ABl. EG Nr. L 194 S. 47) in der
 durch die Änderungsrichtlinie 91/156/EWG des Rates vom 18. März 1991
 (ABl. EG Nr. L 78 S. 32) geänderten Fassung.
 
-
 ## Eingangsformel
 
 Auf Grund des § 49 Abs. 3 und des § 50 Abs. 2 Nr. 1 des
@@ -32,10 +31,7 @@ I S. 2705) auch in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 die Bundesregierung nach Anhörung der beteiligten Kreise:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Erlaubnispflicht, Anwendungsbereich
 
@@ -62,7 +58,6 @@ geltenden Fassung.
 
 (4) (weggefallen)
 
-
 ### § 2 Begriffsbestimmungen
 
 (1) Betriebsinhaber im Sinne dieser Verordnung sind diejenigen
@@ -82,10 +77,7 @@ worden sind.
 und andere im Betrieb beschäftigte Personen, die bei der Ausführung
 der Sammlungs- und Beförderungstätigkeit mitwirken.
 
-
 ## Zweiter Abschnitt - Anforderungen an die Fach- und Sachkunde des Sammlers und Beförderers
-
-
 
 ### § 3 Fachkunde der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
 
@@ -152,14 +144,12 @@ für die Leitung und Beaufsichtigung des Betriebes verantwortliche
 Person hat spätestens bis zum 6. Oktober 1998 an Lehrgängen im Sinne
 des Absatz 1 Satz 2 Nummer 2 teilzunehmen.
 
-
 ### § 4 Anforderungen an das sonstige Personal
 
 Das sonstige Personal muß die für die jeweils wahrgenommene Sammlungs-
 und Beförderungstätigkeit erforderliche Sachkunde besitzen. Die
 Sachkunde erfordert eine betriebliche Einarbeitung auf der Grundlage
 eines Einarbeitungsplanes.
-
 
 ### § 5 Anforderungen an beauftragte Dritte
 
@@ -169,7 +159,6 @@ die jeweils wahrgenommene Sammlungs- oder Beförderungstätigkeit gemäß
 § 53 des Kreislaufwirtschaftsgesetzes angezeigt hat oder, falls für
 die beauftragte Tätigkeit notwendig, im Besitz einer Erlaubnis gemäß §
 54 des Kreislaufwirtschaftsgesetzes ist.
-
 
 ### § 6 Anforderungen an die Fortbildung
 
@@ -184,10 +173,7 @@ sich auf die im Anhang zu dieser Verordnung genannten Sachgebiete.
 Hinsichtlich des sonstigen Personals hat der Betriebsinhaber den
 Fortbildungsbedarf zu ermitteln.
 
-
 ## Dritter Abschnitt - Antrag und Unterlagen, Beförderungserlaubnis
-
-
 
 ### § 7 Antrag und Unterlagen
 
@@ -259,7 +245,6 @@ Erlaubnisvoraussetzungen erforderlich sind. Hierzu zählen insbesondere
 
 (3) Der Antrag ist in dreifacher Ausfertigung einzureichen.
 
-
 ### § 8 Beförderungserlaubnis
 
 (1) Die Beförderungserlaubnis berechtigt den Sammler und Beförderer,
@@ -282,7 +267,6 @@ Beförderungserlaubnis oder der die Erlaubnis nach § 54 Absatz 3 Nummer
 2 des Kreislaufwirtschaftsgesetzes ersetzenden Zertifizierung zum
 Entsorgungsfachbetrieb bei der Beförderung mitzuführen.
 
-
 ### § 9 Lesbarkeit und Dokumentenechtheit
 
 Alle Eintragungen in den in den Anlagen 1 und 2 aufgeführten
@@ -293,20 +277,15 @@ nicht unleserlich gemacht werden, ohne daß gleichzeitig kenntlich
 gemacht wird, ob dies bei der ursprünglichen Eintragung oder erst
 später erfolgt ist.
 
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 10 (weggefallen)
 
 -
 
-
 ### § 11
 
 (aufgehoben)
-
 
 ### § 12 Ordnungswidrigkeiten
 
@@ -314,17 +293,14 @@ Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 5 Satz 1 einen Dritten beauftragt.
 
-
 ### § 13 Inkrafttreten
 
 § 1 Abs. 1 tritt am 1. Januar 1999 in Kraft, die Verordnung tritt im
 übrigen am 7. Oktober 1996 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang Anhang zur Beförderungserlaubnisverordnung Fachkunde der für die Leitung und Beaufsichtigung eines Sammlungs- oder Beförderungsbetriebes verantwortlichen Personen
 
@@ -351,10 +327,6 @@ Die Kenntnisse müssen sich auf folgende Bereiche erstrecken:
 
 
 6.  Vorschriften der betrieblichen Haftung.
-
-
-
-
 
 ### Anlage 1 Anlage 1 zur Beförderungserlaubnisverordnung
 
@@ -384,7 +356,6 @@ Beförderungserlaubnis (§ 7 Abs. 1).
 
 
 ... (nicht darstellbares Formblatt)
-
 
 ### Anlage 2 Anlage 2 zur Beförderungserlaubnisverordnung
 

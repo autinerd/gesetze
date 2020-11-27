@@ -21,7 +21,6 @@ Zuletzt geändert durch
 Hinweis: mittelbare änderung durch
 :   Art. 6 Nr. 3 Buchst. a G v. 7.12.2011 I 2576 ist berücksichtigt
 
-
 ## § 1 Organisation und Aufgaben
 
 (1) Der Bundesnachrichtendienst ist eine Bundesoberbehörde im
@@ -35,7 +34,6 @@ sind, die erforderlichen Informationen und wertet sie aus. Werden
 dafür im Geltungsbereich dieses Gesetzes Informationen einschließlich
 personenbezogener Daten erhoben, so richtet sich ihre Erhebung,
 Verarbeitung und Nutzung nach den §§ 2 bis 6 und 8 bis 11.
-
 
 ## § 2 Befugnisse
 
@@ -85,7 +83,6 @@ diejenige zu wählen, die den Betroffenen voraussichtlich am wenigsten
 beeinträchtigt. Eine Maßnahme darf keinen Nachteil herbeiführen, der
 erkennbar außer Verhältnis zu dem beabsichtigten Erfolg steht.
 
-
 ## § 2a Besondere Auskunftsverlangen
 
 Soweit dies zur Erfüllung der Aufgaben des Bundesnachrichtendienstes
@@ -108,7 +105,6 @@ des Innern das Bundeskanzleramt tritt. Das Grundrecht des
 Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird insoweit
 eingeschränkt.
 
-
 ## § 3 Besondere Formen der Datenerhebung
 
 Der Bundesnachrichtendienst darf zur heimlichen Beschaffung von
@@ -117,7 +113,6 @@ Informationen einschließlich personenbezogener Daten die Mittel gemäß
 Tatsachen die Annahme rechtfertigen, daß dies zur Erfüllung seiner
 Aufgaben erforderlich ist. § 9 des Bundesverfassungsschutzgesetzes ist
 entsprechend anzuwenden.
-
 
 ## § 4 Speicherung, Veränderung und Nutzung personenbezogener Daten
 
@@ -133,7 +128,6 @@ dem Minderjährigen eine Gefahr für Leib oder Leben deutscher
 Staatsangehöriger im Ausland oder für deutsche Einrichtungen im
 Ausland ausgeht.
 
-
 ## § 5 Berichtigung, Löschung und Sperrung personenbezogener Daten
 
 (1) Der Bundesnachrichtendienst hat die in Dateien gespeicherten
@@ -146,7 +140,6 @@ zehn Jahre beträgt.
 berichtigen und zu sperren nach § 13 des
 Bundesverfassungsschutzgesetzes.
 
-
 ## § 6 Dateianordnungen
 
 Der Bundesnachrichtendienst hat für jede automatisierte Datei mit
@@ -155,7 +148,6 @@ Bundesverfassungsschutzgesetzes zu treffen, die der Zustimmung des
 Bundeskanzleramtes bedarf. § 14 Abs 2 und 3 des
 Bundesverfassungsschutzgesetzes ist anzuwenden.
 
-
 ## § 7 Auskunft an den Betroffenen
 
 Der Bundesnachrichtendienst erteilt dem Betroffenen auf Antrag
@@ -163,7 +155,6 @@ Auskunft über zu seiner Person nach § 4 gespeicherte Daten
 entsprechend § 15 des Bundesverfassungsschutzgesetzes. An die Stelle
 des dort genannten Bundesministeriums des Innern tritt das
 Bundeskanzleramt.
-
 
 ## § 8 Übermittlung von Informationen an den Bundesnachrichtendienst
 
@@ -220,7 +211,6 @@ Maßnahme nach § 100a der Strafprozeßordnung bekanntgeworden sind, ist
 § 18 Abs. 6 des Bundesverfassungsschutzgesetzes entsprechend
 anzuwenden.
 
-
 ## § 9 Übermittlung von Informationen durch den Bundesnachrichtendienst
 
 (1) Der Bundesnachrichtendienst darf Informationen einschließlich
@@ -246,7 +236,6 @@ Bundesverfassungsschutzgesetzes entsprechend.
 einschließlich personenbezogener Daten an die Staatsanwaltschaften,
 die Polizeien und den Militärischen Abschirmdienst entsprechend § 20
 des Bundesverfassungsschutzgesetzes.
-
 
 ## § 9a Projektbezogene gemeinsame Dateien
 
@@ -365,19 +354,16 @@ Datenschutz und die Informationsfreiheit ist vor Erlass einer
 Dateianordnung anzuhören. § 14 Abs. 3 erster Halbsatz des
 Bundesverfassungsschutzgesetzes gilt entsprechend.
 
-
 ## § 10 Verfahrensregeln für die Übermittlung von Informationen
 
 Für die Übermittlung von Informationen nach §§ 8 und 9 sind die §§ 23
 bis 26 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden.
-
 
 ## § 11 Geltung des Bundesdatenschutzgesetzes
 
 Bei der Erfüllung der Aufgaben des Bundesnachrichtendienstes finden §
 3 Abs. 2 und 8 Satz 1, § 4 Abs. 2 und 3, §§ 4b und 4c sowie §§ 10 und
 13 bis 20 des Bundesdatenschutzgesetzes keine Anwendung.
-
 
 ## § 12 Berichtspflicht
 

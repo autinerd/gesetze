@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels VIII § 1 Abs. 2 und 6 des Zweiten Gesetzes zur
@@ -31,7 +30,6 @@ Ländern vom 23. Mai 1975 (BGBl. I S. 1173), der zuletzt durch Artikel
 worden ist, verordnet das Bundesministerium für Gesundheit und Soziale
 Sicherung im Einvernehmen mit dem Bundesministerium des Innern und dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Bewertungskriterien und deren Gewichtung
 
@@ -129,7 +127,6 @@ Verwaltungsaufwands. Das Bundesversicherungsamt hat vor seiner
 Entscheidung den betroffenen Träger und den zuständigen Verband zu
 hören.
 
-
 ## § 2 Berechnungszeitpunkt
 
 (1) Die Berechnung der Punktwerte wird in zeitlichen Abständen von
@@ -143,7 +140,6 @@ Jahres, in dem die Berechnung erfolgt, im Bundesanzeiger
 veröffentlicht. Können die Punktwerte erst zu einem späteren Zeitpunkt
 ermittelt werden, werden sie unverzüglich im Bundesanzeiger
 veröffentlicht.
-
 
 ## § 3 Besoldungshöchstgrenzen
 
@@ -218,7 +214,6 @@ Besoldungshöchstgrenze nach Absatz 1 oder Absatz 2 einzustufen.
 Höchstgrenze für die Einstufung der Geschäftsführerin oder des
 Geschäftsführers aus der Summe der Punktwerte der beteiligten Träger
 auf Grundlage der letzten regelmäßigen Berechnung ermittelt.
-
 
 ## § 4 Stellenobergrenzen
 
@@ -502,11 +497,9 @@ Geschäftsführers und der leitenden technischen Aufsichtsperson bleiben
 bei der Anwendung der Obergrenzen nach den Absätzen 1 und 2
 unberücksichtigt.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
-
 
 ## Schlussformel
 

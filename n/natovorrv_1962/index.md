@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1962, 113
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -32,7 +30,6 @@ Nordatlantikvertrags-Organisation, die nationalen Vertreter, das
 internationale Personal und die für die Organisation tätigen
 Sachverständigen (Bundesgesetzbl. II S. 117) mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -50,7 +47,6 @@ vorgesehenen Vorrechte und Befreiungen werden bereits mit Wirkung vom
 
 (2)
 
-
 ## § 2
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die
@@ -61,7 +57,6 @@ Vereinbarung vom 30. November 1961 außer Kraft tritt.
 
 (3) Der Tag des ... Außerkrafttretens ist im Bundesgesetzblatt
 bekanntzugeben.
-
 
 ## Schlußformel
 

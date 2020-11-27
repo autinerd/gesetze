@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 703
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
@@ -28,7 +26,6 @@ aufgeführte gemeinsame Prüfzeichen für Gegenstände aus Edelmetallen
 nunmehr auch im Königreich Dänemark eingeführt ist.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 4.
 März 1988 (BGBl. I S. 232).
-
 
 ## Schlussformel
 

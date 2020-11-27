@@ -21,7 +21,6 @@ Fundstelle
     Drittländern kommenden Reisenden eingeführten Waren von der
     Mehrwertsteuer und den Verbrauchsteuern (ABl. EU Nr. L 346 S. 6).
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -74,7 +73,6 @@ Auf Grund
 
 
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Gegenstand, Begriffsbestimmungen
 
@@ -158,10 +156,6 @@ Satz 3 des Zollverwaltungsgesetzes befreit.
 
     Personen, die zur Ausübung ihrer gewöhnlichen beruflichen Tätigkeit an
     den Tagen, an denen sie arbeiten, die Grenze überschreiten.
-
-
-
-
 
 ## § 2 Höchstmengen und Wertgrenzen
 
@@ -267,10 +261,6 @@ einem Drittland oder Drittlandsgebiet befindet.
 
 3.  Kraftstoffe, die nicht unter Absatz 1 Nr. 4 fallen.
 
-
-
-
-
 ## § 3 Sonderfälle
 
 (1) Bei Einfuhren durch
@@ -341,11 +331,9 @@ Reisende das Schiff endgültig oder für mehr als drei Tage verlassen.
 (5) Reisende, die aus der Schweiz über den Bodensee einreisen, gelten
 nicht als Seereisende.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2008 in Kraft.
-
 
 ## Schlussformel
 

@@ -43,7 +43,6 @@ Dieser Tarifvertrag gilt
 Alle personenbezogenen Begriffe in diesem Vertrag gelten für Männer
 und Frauen gleichermaßen.
 
-
 ## § 2 Mindestlöhne
 
 (1) Die Stundenlöhne für Sicherheitsmitarbeiter im
@@ -140,15 +139,12 @@ Objektschutz-/Separatwachdienst betragen:
 Vergütungen für alle unter den Geltungsbereich nach § 1 fallenden
 Arbeitnehmer dar. Ansprüche auf höhere Stundenlöhne bleiben unberührt.
 
-
-
 ## § 3 Arbeitsortprinzip
 
 Hinsichtlich des in diesem TV Mindestlohn festgelegten Mindestlohnes
 ist auf den jeweiligen Ort der Erbringung der Arbeitsleistung
 abzustellen. Der Ort der Erbringung der Arbeitsleistung unterliegt der
 Aufzeichnungspflicht.
-
 
 ## § 4 Fälligkeit der Vergütungsansprüche
 

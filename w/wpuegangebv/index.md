@@ -20,27 +20,20 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 6.12.2011 I 2481
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 4, § 31 Abs. 7 Satz 1 und § 37 Abs. 2 Satz 1
 des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001
 (BGBl. I S. 3822) verordnet das Bundesministerium der Finanzen:
 
-
 ## Erster Abschnitt - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
 Diese Verordnung ist auf Angebote gemäß § 2 Abs. 1 des
 Wertpapiererwerbs- und Übernahmegesetzes anzuwenden.
 
-
 ## Zweiter Abschnitt - Inhalt der Angebotsunterlage
-
-
 
 ### § 2 Ergänzende Angaben der Angebotsunterlage
 
@@ -161,13 +154,7 @@ aufzunehmen:
     Wertpapiere der Zielgesellschaft unterliegen, und die Angabe des
     Gerichtsstands.
 
-
-
-
-
 ## Dritter Abschnitt - Gegenleistung bei Übernahmeangeboten und Pflichtangeboten
-
-
 
 ### § 3 Grundsatz
 
@@ -176,7 +163,6 @@ Aktionären der Zielgesellschaft eine angemessene Gegenleistung
 anzubieten. Die Höhe der Gegenleistung darf den nach den §§ 4 bis 6
 festgelegten Mindestwert nicht unterschreiten. Sie ist für Aktien, die
 nicht derselben Gattung angehören, getrennt zu ermitteln.
-
 
 ### § 4 Berücksichtigung von Vorerwerben
 
@@ -188,7 +174,6 @@ der letzten sechs Monate vor der Veröffentlichung nach § 14 Abs. 2
 Satz 1 oder § 35 Abs. 2 Satz 1 des Wertpapiererwerbs- und
 Übernahmegesetzes entsprechen. § 31 Abs. 6 des Wertpapiererwerbs- und
 Übernahmegesetzes gilt entsprechend.
-
 
 ### § 5 Berücksichtigung inländischer Börsenkurse
 
@@ -220,7 +205,6 @@ weichen mehrere nacheinander festgestellte Börsenkurse um mehr als 5
 Prozent voneinander ab, so hat die Höhe der Gegenleistung dem anhand
 einer Bewertung der Zielgesellschaft ermittelten Wert des Unternehmens
 zu entsprechen.
-
 
 ### § 6 Berücksichtigung ausländischer Börsenkurse
 
@@ -259,17 +243,13 @@ sind im Einzelnen zu dokumentieren.
 
 (6) § 5 Abs. 4 ist anzuwenden.
 
-
 ### § 7 Bestimmung des Wertes der Gegenleistung
 
 Besteht die vom Bieter angebotene Gegenleistung in Aktien, sind für
 die Bestimmung des Wertes dieser Aktien die §§ 5 und 6 entsprechend
 anzuwenden.
 
-
 ## Vierter Abschnitt - Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots
-
-
 
 ### § 8 Antragstellung
 
@@ -282,7 +262,6 @@ und innerhalb von sieben Kalendertagen nach dem Zeitpunkt gestellt
 werden, zu dem der Bieter Kenntnis davon hat oder nach den Umständen
 haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt
 hat.
-
 
 ### § 9 Befreiungstatbestände
 
@@ -337,10 +316,6 @@ Eine Befreiung kann ferner erteilt werden, wenn
     weniger als 20 Prozent des buchmäßigen Aktivvermögens der Gesellschaft
     beträgt.
 
-
-
-
-
 ### § 10 Antragsinhalt
 
 Der Antrag muss folgende Angaben enthalten:
@@ -362,15 +337,10 @@ Der Antrag muss folgende Angaben enthalten:
 
 5.  die den Antrag begründenden Tatsachen.
 
-
-
-
-
 ### § 11 Antragsunterlagen
 
 Die zur Beurteilung und Bearbeitung des Antrags erforderlichen
 Unterlagen sind unverzüglich bei der Bundesanstalt einzureichen.
-
 
 ### § 12 Prüfung der Vollständigkeit des Antrags
 
@@ -382,10 +352,7 @@ oder die Unterlagen innerhalb einer angemessenen Frist zu ergänzen.
 Wird der Aufforderung innerhalb der von der Bundesanstalt gesetzten
 Frist nicht entsprochen, gilt der Antrag als zurückgenommen.
 
-
 ## Fünfter Abschnitt - Schlussvorschrift
-
-
 
 ### § 13 Inkrafttreten
 

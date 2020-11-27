@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 9 § 3 G v. 9.6.1998 I 1242
 
-
 ## (XXXX)
 
 Die Hohen Vertragschließenden Seiten -
@@ -54,10 +53,7 @@ sind übereingekommen, einen Vertrag über die Schaffung einer
 Währungs-, Wirtschafts- und Sozialunion mit den nachfolgenden
 Bestimmungen zu schließen:
 
-
 ## Kapitel I - Grundlagen
-
-
 
 ### Art 1 Gegenstand des Vertrags
 
@@ -89,7 +85,6 @@ Marktwirtschaft entsprechende Arbeitsrechtsordnung und ein auf den
 Prinzipien der Leistungsgerechtigkeit und des sozialen Ausgleichs
 beruhendes umfassendes System der sozialen Sicherung.
 
-
 ### Art 2 Grundsätze
 
 (1) Die Vertragsparteien bekennen sich zur freiheitlichen,
@@ -108,7 +103,6 @@ Demokratischen Republik über die Grundlagen ihrer bisherigen
 sozialistischen Gesellschafts- und Staatsordnung werden nicht mehr
 angewendet.
 
-
 ### Art 3 Rechtsgrundlagen
 
 Für die Errichtung der Währungsunion und die Währungsumstellung gelten
@@ -124,7 +118,6 @@ das Kreditwesen und das Bundesaufsichtsamt für das Versicherungswesen
 üben die ihnen nach diesem Vertrag und nach diesen Rechtsvorschriften
 zustehenden Befugnisse im gesamten Geltungsbereich dieses Vertrags
 aus.
-
 
 ### Art 4 Rechtsanpassung
 
@@ -147,13 +140,11 @@ der Anlage VI aufgeführt.
 (3) Bei der Übermittlung personenbezogener Informationen gelten die in
 der Anlage VII enthaltenen Grundsätze.
 
-
 ### Art 5 Amtshilfe
 
 Die Behörden der Vertragsparteien leisten sich nach Maßgabe des
 innerstaatlichen Rechts bei der Durchführung dieses Vertrags
 Amtshilfe. Artikel 32 bleibt unberührt.
-
 
 ### Art 6 Rechtsschutz
 
@@ -180,7 +171,6 @@ staatlichen Gerichte angerufen werden.
 
 (4) Die Deutsche Demokratische Republik läßt eine freie
 Schiedsgerichtsbarkeit auf dem Gebiet des Privatrechts zu.
-
 
 ### Art 7 Schiedsgericht
 
@@ -217,7 +207,6 @@ und das Beratungsgeheimnis zu wahren.
 (6) Die Bestimmungen über die Einberufung und das Verfahren des
 Schiedsgerichts sind in der Anlage VIII geregelt.
 
-
 ### Art 8 Gemeinsamer Regierungsausschuß
 
 Die Vertragsparteien bilden einen Gemeinsamen Regierungsausschuß. Sie
@@ -226,17 +215,13 @@ erörtern und - soweit erforderlich - das notwendige Einvernehmen
 herstellen. Zu den Aufgaben des Ausschusses gehört auch die Beilegung
 von Streitigkeiten gemäß Artikel 7 Absatz 1.
 
-
 ### Art 9 Vertragsänderungen
 
 Erscheinen Änderungen oder Ergänzungen dieses Vertrags erforderlich,
 um eines seiner Ziele zu verwirklichen, so werden sie zwischen den
 Regierungen der Vertragsparteien vereinbart.
 
-
 ## Kapitel II - Bestimmungen über die Währungsunion
-
-
 
 ### Art 10 Voraussetzungen und Grundsätze
 
@@ -330,10 +315,7 @@ Vorläufige Verwaltungsstelle in Berlin mit bis zu fünfzehn Filialen in
 der Deutschen Demokratischen Republik, wozu die Betriebsstellen der
 Staatsbank der Deutschen Demokratischen Republik genutzt werden.
 
-
 ## Kapitel III - Bestimmungen über die Wirtschaftsunion
-
-
 
 ### Art 11 Wirtschaftspolitische Grundlagen
 
@@ -367,7 +349,6 @@ Absätze 1 und 2 berühren, das Einvernehmen mit der Regierung der
 Bundesrepublik Deutschland im Rahmen des Gemeinsamen
 Regierungsausschusses nach Artikel 8 herstellen.
 
-
 ### Art 12 Innerdeutscher Handel
 
 (1) Das zwischen den Vertragsparteien vereinbarte Berliner Abkommen
@@ -384,7 +365,6 @@ zollamtlich überwachten Verfahren befördert werden.
 (3) Die Vertragsparteien sind bestrebt, so bald wie möglich die
 Voraussetzungen für einen vollständigen Wegfall der Kontrollen an der
 innerdeutschen Grenze zu schaffen.
-
 
 ### Art 13 Außenwirtschaft
 
@@ -411,7 +391,6 @@ Vertragspartnern an diese Gegebenheiten angepaßt.
 Vertragsparteien unter Beachtung der Zuständigkeiten der Europäischen
 Gemeinschaften eng zusammen.
 
-
 ### Art 14 Strukturanpassung der Unternehmen
 
 Um die notwendige Strukturanpassung der Unternehmen in der Deutschen
@@ -427,7 +406,6 @@ privater Initiative eine breit gefächerte, moderne Wirtschaftsstruktur
 auch mit möglichst vielen kleinen und mittleren Betrieben in der
 Deutschen Demokratischen Republik zu erreichen, um so die Grundlage
 für mehr Wachstum und zukunftssichere Arbeitsplätze zu schaffen.
-
 
 ### Art 15 Agrar- und Ernährungswirtschaft
 
@@ -461,7 +439,6 @@ durch geeignete Maßnahmen fördern.
 genannten Maßnahmen verständigen sich die Regierungen der
 Vertragsparteien.
 
-
 ### Art 16 Umweltschutz
 
 (1) Der Schutz von Menschen, Tieren und Pflanzen, Boden, Wasser, Luft,
@@ -494,10 +471,7 @@ Niveau angeglichen und weiterentwickelt.
 zur staatlichen Förderung von Umweltschutzmaßnahmen mit denen der
 Bundesrepublik Deutschland.
 
-
 ## Kapitel IV - Bestimmungen über die Sozialunion
-
-
 
 ### Art 17 Grundsätze der Arbeitsrechtsordnung
 
@@ -506,7 +480,6 @@ Tarifautonomie, Arbeitskampfrecht, Betriebsverfassung,
 Unternehmensmitbestimmung und Kündigungsschutz entsprechend dem Recht
 der Bundesrepublik Deutschland; näheres ergibt sich aus dem
 Gemeinsamen Protokoll über die Leitsätze und den Anlagen II und III.
-
 
 ### Art 18 Grundsätze der Sozialversicherung
 
@@ -576,7 +549,6 @@ dem Staatshaushalt erstattet.
 nach den Grundsätzen des Sozialversicherungsrechts der Bundesrepublik
 Deutschland festgelegt.
 
-
 ### Art 19 Arbeitslosenversicherung und Arbeitsförderung
 
 Die Deutsche Demokratische Republik führt ein System der
@@ -589,7 +561,6 @@ In der Übergangsphase wird Besonderheiten in der Deutschen
 Demokratischen Republik Rechnung getragen. Die Regierungen beider
 Vertragsparteien werden beim Aufbau der Arbeitslosenversicherung
 einschließlich Arbeitsförderung eng zusammenarbeiten.
-
 
 ### Art 20 Rentenversicherung
 
@@ -647,7 +618,6 @@ Rentenversicherungsträger ihre nach den für ihn geltenden
 Rechtsvorschriften berechnete Rente für die dort zurückgelegten
 Zeiten.
 
-
 ### Art 21 Krankenversicherung
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen
@@ -678,7 +648,6 @@ Renten vorgesehene Nettorentenniveau bleibt davon unberührt.
 Gesundheitswesens der Deutschen Demokratischen Republik werden aus
 Mitteln des Staatshaushalts und nicht aus Beitragsmitteln finanziert.
 
-
 ### Art 22 Gesundheitswesen
 
 (1) Die medizinische Betreuung und der Schutz der Gesundheit der
@@ -700,7 +669,6 @@ Krankenversicherung und den Leistungserbringern wird die Deutsche
 Demokratische Republik die erforderlichen gesetzlichen
 Rahmenbedingungen schaffen.
 
-
 ### Art 23 Renten der Unfallversicherung
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen
@@ -719,13 +687,11 @@ Unfall festgesetzt.
 
 (4) Artikel 20 Absatz 4 und 7 gilt entsprechend.
 
-
 ### Art 24 Sozialhilfe
 
 Die Deutsche Demokratische Republik führt ein System der Sozialhilfe
 ein, das dem Sozialhilfegesetz der Bundesrepublik Deutschland
 entspricht.
-
 
 ### Art 25 Anschubfinanzierung
 
@@ -737,14 +703,9 @@ abdecken, leistet die Bundesrepublik Deutschland an die Deutsche
 Demokratische Republik eine vorübergehende Anschubfinanzierung im
 Rahmen der nach Artikel 28 zugesagten Haushaltshilfe.
 
-
 ## Kapitel V - Bestimmungen über den Staatshaushalt und die Finanzen
 
-
-
 ### 1. Abschnitt - Staatshaushalt
-
-
 
 #### Art 26 Grundsätze für die Finanzpolitik der Deutschen Demokratischen Republik
 
@@ -818,7 +779,6 @@ vorgenommen. Das volkseigene Vermögen ist vorrangig für die
 Strukturanpassung der Wirtschaft und für die Sanierung des
 Staatshaushalts in der Deutschen Demokratischen Republik zu nutzen.
 
-
 #### Art 27 Kreditaufnahme und Schulden
 
 (1) Die Kreditermächtigungen in den Haushalten der
@@ -850,7 +810,6 @@ Länder, die sich auf dem Gebiet der Deutschen Demokratischen Republik
 neu gebildet haben, aufgeteilt. Von den Ländern und Gemeinden
 aufgenommene Kredite verbleiben bei diesen.
 
-
 #### Art 28 Finanzzuweisungen der Bundesrepublik Deutschland
 
 (1) Die Bundesrepublik Deutschland gewährt der Deutschen
@@ -879,7 +838,6 @@ Betrags der Gegenwertmittel aus dem Reise-Devisenfonds wird zwischen
 den Finanzministern der Vertragsparteien eine ergänzende Vereinbarung
 getroffen.
 
-
 #### Art 29 Übergangsregelung im öffentlichen Dienst
 
 Die Regierung der Deutschen Demokratischen Republik gewährleistet
@@ -891,10 +849,7 @@ Verhältnisse in der Deutschen Demokratischen Republik und die
 Erfordernisse der Konsolidierung des Haushalts beachtet werden. Das
 Bundespersonalvertretungsgesetz findet sinngemäß Anwendung.
 
-
 ### 2. Abschnitt - Finanzen
-
-
 
 #### Art 30 Zölle und besondere Verbrauchsteuern
 
@@ -919,7 +874,6 @@ Erhebungsgebiets regeln.
 (5) Die Steuerentlastung für auszuführende Waren wird erst beim
 Nachweis der Ausfuhr in andere Gebiete als die der beiden
 Erhebungsgebiete gewährt.
-
 
 #### Art 31 Besitz- und Verkehrsteuern
 
@@ -971,7 +925,6 @@ Erbschaftsteuer- und Schenkungsteuerrecht der Vertragsparteien
 ergeben, gelten auch gegenüber den Finanzbehörden der jeweiligen
 anderen Vertragspartei.
 
-
 #### Art 32 Informationsaustausch
 
 (1) Die Vertragsparteien tauschen die Informationen aus, die zur
@@ -1005,10 +958,6 @@ Gerichtsentscheidung offenlegen.
     Berufsgeheimnis oder ein Geschäftsverfahren preisgeben würden oder
     deren Erteilung der öffentlichen Ordnung widerspräche.
 
-
-
-
-
 #### Art 33 Konsultationsverfahren
 
 (1) Die Vertragsparteien werden sich bemühen, bei den Besitz- und
@@ -1024,7 +973,6 @@ Absatzes können der Bundesminister der Finanzen der Bundesrepublik
 Deutschland und der Minister der Finanzen der Deutschen Demokratischen
 Republik unmittelbar miteinander verkehren.
 
-
 #### Art 34 Aufbau der Finanzverwaltung
 
 (1) Die Deutsche Demokratische Republik schafft die Rechtsgrundlagen
@@ -1037,10 +985,7 @@ entsprechend ein.
 werden vorrangig funktionsfähige Steuer- und Zollverwaltungen
 aufgebaut.
 
-
 ## Kapitel VI - Schlußbestimmungen
-
-
 
 ### Art 35 Völkerrechtliche Verträge
 
@@ -1048,19 +993,16 @@ Dieser Vertrag berührt nicht die von der Bundesrepublik Deutschland
 oder der Deutschen Demokratischen Republik mit dritten Staaten
 abgeschlossenen völkerrechtlichen Verträge.
 
-
 ### Art 36 Überprüfung des Vertrags
 
 Die Bestimmungen dieses Vertrags werden bei grundlegender Änderung der
 gegebenen Umstände überprüft.
-
 
 ### Art 37 Berlin-Klausel
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser
 Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin
 (West) ausgedehnt.
-
 
 ### Art 38 Inkrafttreten
 
@@ -1069,7 +1011,6 @@ Anlagen I-IX tritt an dem Tag in Kraft, an dem die Regierungen der
 Vertragsparteien einander mitgeteilt haben, daß die erforderlichen
 verfassungsrechtlichen und sonstigen innerstaatlichen Voraussetzungen
 für das Inkrafttreten erfüllt sind.
-
 
 ### Schlußformel
 
@@ -1088,10 +1029,6 @@ für das Inkrafttreten erfüllt sind.
     *   Theodor Waigel
 
     *   Walter Romberg
-
-
-
-
 
 ### (XXXX) Gemeinsames Protokoll über Leitsätze
 
@@ -1453,13 +1390,6 @@ B. Leitsätze für einzelne Rechtsgebiete
         gesetzliche Regelung schaffen, die den §§ 626, 628 des Bürgerlichen
         Gesetzbuches entspricht.
 
-
-
-
-
-
-
-
 ### Anlagenverzeichnis
 
 
@@ -1499,23 +1429,9 @@ B. Leitsätze für einzelne Rechtsgebiete
                 Boden sowie an Produktionsmitteln zur Förderung gewerblicher
                 arbeitsplatzschaffender Investitionen
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Anlage I Bestimmungen über die Währungsunion und über die Währungsumstellung
 
 -
-
 
 ### Anlage II Von der Deutschen Demokratischen Republik in Kraft zu setzende Rechtsvorschriften
 
@@ -1784,13 +1700,6 @@ B. Leitsätze für einzelne Rechtsgebiete
     7.  Kündigungsschutzgesetz in der Fassung der Bekanntmachung vom 25.
         August 1969 (BGBl. I S. 1317), zuletzt geändert durch Gesetze vom 13.
         Juli 1988 (BGBl. I S. 1034 und 1037).
-
-
-
-
-
-
-
 
 ### Anlage III Von der Deutschen Demokratischen Republik aufzuhebende oder zu ändernde Rechtsvorschriften
 
@@ -2448,13 +2357,6 @@ des Vertrags aufgehoben oder geändert werden.
         Überleitung in das in Artikel 24 des Vertrags vorgesehene
         Sozialhilfesystem.
 
-
-
-
-
-
-
-
 ### Anlage IV Von der Deutschen Demokratischen Republik neu zu erlassende Rechtsvorschriften
 
 Die Deutsche Demokratische Republik wird zur Durchführung der
@@ -2740,10 +2642,6 @@ erlassen:
     werden. Bis dahin wird bei der Übermittlung personenbezogener
     Informationen nach den in der Anlage VII enthaltenen Grundsätzen
     verfahren.
-
-
-
-
 
 ### Anlage V Von der Bundesrepublik Deutschland zu ändernde Rechtsvorschriften
 
@@ -3220,17 +3118,6 @@ aufgeführten Gesetzen, erlassen:
             Vorschriften erlassen hat. Der Bundesminister der Justiz gibt den Tag
             des Inkrafttretens im Bundesgesetzblatt bekannt.
 
-
-
-
-
-
-
-
-
-
-
-
 ### Anlage VI Regelungen, die in der Deutschen Demokratischen Republik im weiteren Verlauf anzustreben sind
 
 Im Verlauf der Errichtung der Währungs-, Wirtschafts- und Sozialunion
@@ -3283,13 +3170,6 @@ Republik anzustreben:
 
     5.  Gesetz über Sprecherausschüsse der leitenden Angestellten vom 20.
         Dezember 1988 (BGBl. I S. 2312, 2316).
-
-
-
-
-
-
-
 
 ### Anlage VII Grundsätze für die Übermittlung personenbezogener Informationen zur Durchführung des Vertrags
 
@@ -3345,11 +3225,9 @@ sind aktenkundig zu machen.
 Europarates über den Schutz des Menschen bei der Verarbeitung
 personenbezogener Daten vom 28. Januar 1981 beachtet.
 
-
 ### Anlage VIII Allgemeine Verfahrensvorschriften für das Schiedsgericht
 
 -
-
 
 ### Anlage IX Möglichkeiten des Eigentumserwerbs privater Investoren an Grund und Boden sowie an Produktionsmitteln zur Förderung gewerblicher arbeitsplatzschaffender Investitionen
 
@@ -3412,10 +3290,6 @@ Schritte unternommen:
     Grundstücks gesichert, die Übergangszeit kurz und die Kalkulierbarkeit
     der Belastung für den Erwerber gewährleistet sein.
 
-
-
-
-
 ### (XXXX) Protokollerklärungen
 
 Bei Unterzeichnung des Vertrags über die Schaffung einer Währungs-,
@@ -3474,10 +3348,6 @@ Bonn, den 18. Mai 1990
 *    *   Theodor Waigel
 
     *   Walter Romberg
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 994) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

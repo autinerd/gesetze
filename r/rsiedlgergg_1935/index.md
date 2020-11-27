@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1935, 1
 
-
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
 verkündet wird:
-
 
 ## § 1
 
@@ -55,7 +52,6 @@ Rentenschulden und Reallasten sinngemäß; doch gilt Absatz 2 für
 Altenteile nur, soweit der Unterhalt des Berechtigten durch die
 Verteilung nicht gefährdet wird.
 
-
 ## § 2
 
 (1) In den Fällen des § 1 sind die Abschreibung eines Grundstücksteils
@@ -81,7 +77,6 @@ andere Flächenmaße als in den Feststellungen der Siedlungsbehörde, so
 können hieraus Ansprüche von dem Verkäufer oder einem dinglich
 Berechtigten nicht hergeleitet werden, es sei denn, daß die
 Abweichungen mehr als 2 vom Hundert der Fläche betragen.
-
 
 ## § 3
 
@@ -123,7 +118,6 @@ Hypothek im Sinne des § 6 des Hypothekenbankgesetzes und des § 2 des
 Gesetzes über die Pfandbriefe und verwandte Schuldverschreibungen
 öffentlich-rechtlicher Kreditanstalten vom 21. Dezember 1927.
 
-
 ## § 4
 
 Wird ein zu Siedlungszwecken erworbenes Grundstück oder ein zu
@@ -131,14 +125,12 @@ Siedlungszwecken erworbener Grundstücksteil in einzelne
 Siedlungsgrundstücke aufgeteilt, so gelten die Vorschriften der §§ 1
 bis 3 sinngemäß.
 
-
 ## § 5
 
 Die Vorschriften der §§ 1 bis 4 gelten auch in den Fällen, in denen
 ein Grundstück oder Grundstücksteil vor dem Inkrafttreten dieses
 Gesetzes im Rahmen eines Siedlungsverfahrens nach dem
 Reichssiedlungsgesetz erworben oder aufgeteilt ist.
-
 
 ## § 6
 
@@ -153,7 +145,6 @@ verwendet oder einen von ihm erworbenen landwirtschaftlichen Betrieb
 im ganzen einem Siedlungsbewerber überträgt.
 
 (3)
-
 
 ## § 7
 
@@ -196,14 +187,12 @@ Landesbauernführer              oder ein von ihm bestellter Vertreter.
 Pachtgrundstück zusteht, kann ihn nur bis zu einem von der
 Siedlungsbehörde festgesetzten Zeitpunkt geltend machen.
 
-
 ## § 8
 
 Die Gebühren-, ... und Steuerfreiheit nach § 29 des
 Reichssiedlungsgesetzes gilt auch für die Fälle, in denen ein
 Grundstück im Wege der Zwangsversteigerung für Siedlungszwecke
 erworben wird.
-
 
 ## § 9
 

@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   § 5 Satz 3 V v. 18.10.2001 I 2721
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 des Psychotherapeutengesetzes vom 16. Juni 1998
 (BGBl. I S. 1311) verordnet das Bundesministerium für Gesundheit:
-
 
 ## § 1
 
@@ -45,16 +43,13 @@ Kosten- und Zeitaufwand gleichwertigen Leistung der Abschnitte B und G
 des Gebührenverzeichnisses der Gebührenordnung für Ärzte berechnet
 werden können.
 
-
 ## § 2
 
 (weggefallen)
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

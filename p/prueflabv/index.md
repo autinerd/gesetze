@@ -20,14 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 11.8.2009 I 2852
 
-
 ## Eingangsformel
 
 Auf Grund des § 44 Abs. 1 Nr. 1 Buchstabe b des Lebensmittel- und
 Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9.
 September 1997 (BGBl. I S. 2226) verordnet das Bundesministerium für
 Gesundheit:
-
 
 ## § 1 Bewertung und Anerkennung von Prüflaboratorien
 
@@ -67,10 +65,6 @@ anderen Akkreditierungsstelle sprechen.
 
 \*) Zu beziehen durch Beuth-Verlag GmbH, 10772 Berlin.
 
-
-
-
-
 ## § 2 Übergangsregelung
 
 (1) Private Sachverständige, die bereits über eine Zulassung für die
@@ -96,16 +90,13 @@ Anerkennung bei einer in der Anlage genannten Stelle im Hinblick auf
 die noch nicht gemäß Artikel 3 Abs. 1 der Richtlinie 93/99/EWG
 bewerteten Prüfgebiete anstreben.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1 Abs. 2 und § 2 Abs. 2)
 

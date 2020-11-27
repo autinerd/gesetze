@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 59 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 Dem in New York am 30. Oktober 1958 von der Bundesrepublik Deutschland
@@ -38,7 +37,6 @@ Bundesrepublik Deutschland unterzeichneten
 
 wird zugestimmt. Das Übereinkommen und das Unterzeichnungsprotokoll
 werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -104,14 +102,9 @@ Rahmensätze vorzusehen. Die Gebühren für jede Amtshandlung dürfen
     das Kostenermächtigungs-Änderungsgesetz vom 23. Juni 1970
     (Bundesgesetzbl. I S. 805).
 
-
-
-
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
@@ -122,12 +115,10 @@ einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 100.000
 (einhunderttausend) Deutsche Mark geahndet werden.
 
-
 ## Art 5
 
 Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit der
 Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) eingeschränkt.
-
 
 ## Art 6
 
@@ -136,7 +127,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 7
 

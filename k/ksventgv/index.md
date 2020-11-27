@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 156
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 2 Satz 3 des
@@ -27,7 +25,6 @@ VIII Sachgebiet F Abschnitt III Nr. 5 Buchstabe b des
 Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
 Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1047) verordnet
 der Bundesminister für Arbeit und Sozialordnung:
-
 
 ## § 1
 
@@ -42,10 +39,6 @@ zuzurechnen:
 
 2.  übliche Aufwendungen für die Bewirtung des selbständigen Künstlers
     oder Publizisten.
-
-
-
-
 
 ## § 2
 

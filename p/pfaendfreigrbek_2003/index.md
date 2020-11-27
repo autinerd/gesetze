@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 276
 
-
-
 ## (XXXX)
 
 Auf Grund des § 850c Abs. 2a Satz 2 der Zivilprozessordnung, der durch

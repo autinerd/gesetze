@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1965, Nr 206
 
-
-
 ## I.
 
 Auf Grund des § 65 Abs. 3 Satz 2 BBG übertrage ich hiermit
@@ -45,11 +43,9 @@ Die der Oberfinanzdirektion Frankfurt a.M. übertragene Befugnis gilt
 zugleich für das Beschaffungsamt der Bundeszollverwaltung in Offenbach
 a.M..
 
-
 ## II.
 
 Diese Anordnung tritt am 19. August 1965 in Kraft.
-
 
 ## Schlußformel
 

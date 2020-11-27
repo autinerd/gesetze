@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 30.12.2011; 2012 I 49
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 Abs. 4 Satz 1 des Fünften Buches Sozialgesetzbuch -
@@ -29,7 +28,6 @@ Buchstabe b des Gesetzes vom 21. Dezember 1992 (BGBl. I S. 2266)
 eingefügt und zuletzt durch Artikel 204 Nr. 1 der Verordnung vom 25.
 November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das
 Bundesministerium für Gesundheit und Soziale Sicherung:
-
 
 ## § 1
 
@@ -90,7 +88,6 @@ Packungsgröße nach Absatz 1 entspricht. Sofern nur für eines der
 Einzelarzneimittel ein Packungsgrößenkennzeichen durch die Anlagen zu
 dieser Verordnung bestimmt ist, ist dieses maßgeblich.
 
-
 ## § 2
 
 (1) Pharmazeutische Unternehmen haben für die von ihnen in Verkehr
@@ -133,7 +130,6 @@ nach den Vorschriften dieser Verordnung gekennzeichnet werden. Die
 Kennzeichnung solcher Arzneimittel durch pharmazeutische Unternehmen
 ist spätestens bis 31. Dezember 2004 zulässig.
 
-
 ## § 3
 
 Fertigarzneimittel, die nach § 47 Abs. 1 Nr. 2 Buchstabe a des
@@ -142,7 +138,6 @@ freigestellt sind, können, soweit sie in der Anlage 4 entsprechend
 gekennzeichnet sind, auf Grund einer ärztlichen Verordnung im Rahmen
 der Messzahlen zusammengestellt werden. Die Abgabe dieser Packungen
 gilt im Sinne dieser Verordnung als Abgabe einer Einzelpackung.
-
 
 ## § 4
 
@@ -154,11 +149,9 @@ sind, vorsehen, dass für die Verordnungen im Rahmen dieser
 Vereinbarungen die Packungsgrößenkennzeichen der Anlagen zu dieser
 Verordnung nicht angewendet werden.
 
-
 ## § 5
 
 Die Verordnung tritt am 1. Juli 2004 in Kraft.
-
 
 ## Anlage 1
 

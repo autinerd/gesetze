@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1178
 
-
-
 ## § 1
 
 Es werden aufgehoben:
@@ -43,10 +41,6 @@ Es werden aufgehoben:
 
 5.  der Runderlass des Reichsministers des Innern vom 31. Januar 1940 - IV
     e 8567/39 - 4235 - (RMBliV. 1940 S. 231).
-
-
-
-
 
 ## § 2
 

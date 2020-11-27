@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 186 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Sicherung der Versorgung
 
@@ -57,7 +55,6 @@ Mitteln zu beheben ist.
 
 (4) Regelungen dieses Gesetzes oder auf Grund dieses Gesetzes gelten
 nicht für Zwecke der Verteidigung.
-
 
 ## § 2 Ermächtigungen
 
@@ -111,7 +108,6 @@ wirtschaftliche Betätigungsfreiheit der Beteiligten so wenig wie
 möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft
 möglichst wenig beeinträchtigt wird.
 
-
 ## § 3 Rechtsverordnungen
 
 (1) Rechtsverordnungen auf Grund dieses Gesetzes erläßt die
@@ -159,7 +155,6 @@ Vorliegen der Voraussetzung des Satzes 1 unverzüglich aufzuheben oder
 außer Anwendung zu setzen. Die Sätze 1 und 2 gelten nicht für
 Rechtsverordnungen nach § 2 Abs. 1 Nr. 7 und 8.
 
-
 ## § 4 Ausführung des Gesetzes
 
 (1) In Rechtsverordnungen auf Grund dieses Gesetzes kann die
@@ -187,13 +182,11 @@ erfolgt.
 das Bundesministerium mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften erlassen.
 
-
 ## § 5 Einzelweisungen
 
 Das Bundesministerium kann zur Ausführung von Rechtsverordnungen
 Einzelweisungen erteilen, wenn dies in Ausnahmefällen zur Sicherung
 einer ausreichenden Versorgung dringend geboten ist.
-
 
 ## § 6 Aufgaben der Bundesanstalt
 
@@ -206,10 +199,6 @@ Die Bundesanstalt ist zuständig für:
 
 
 2.  die Aufstellung zentraler Versorgungs- und Bevorratungspläne.
-
-
-
-
 
 ## § 7 Mitwirkung von Vereinigungen
 
@@ -238,7 +227,6 @@ Absatz 1 genannten Stellen mit deren Zustimmung bedienen. Diese
 Stellen unterstehen insoweit den Weisungen der zuständigen Behörde,
 die Verbände und Zusammenschlüsse insoweit auch deren Aufsicht.
 
-
 ## § 8 Vorbereitung des Vollzugs
 
 Der Bund und die Länder einschließlich der Gemeinden und
@@ -246,7 +234,6 @@ Gemeindeverbände haben die organisatorischen, personellen und
 materiellen Voraussetzungen zur Durchführung der Maßnahmen zu
 schaffen, die für den in § 1 Abs. 1 bezeichneten Zweck erforderlich
 sind.
-
 
 ## § 9 Auskünfte
 
@@ -314,7 +301,6 @@ die ausschließlich zu statistischen Zwecken erhoben worden sind.
 Unterlagen dürfen nicht für einen anderen als den in § 1 Abs. 1
 genannten Zweck verwendet werden.
 
-
 ## § 10 Entschädigung
 
 (1) Stellt eine nach diesem Gesetz erlassene Rechtsverordnung oder
@@ -354,7 +340,6 @@ Gerichte nach den Grundsätzen der §§ 34, 50 bis 63 und 65 des
 Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der
 Anforderungsbehörden die in Absatz 3 bezeichneten Behörden.
 
-
 ## § 11 Härteausgleich
 
 (1) Wird durch eine nach diesem Gesetz erlassene Rechtsverordnung oder
@@ -373,7 +358,6 @@ zu leisten, das die Maßnahme angeordnet hat.
 
 (3) § 10 Abs. 3 und 4 ist entsprechend anzuwenden.
 
-
 ## § 12 Zustellungen
 
 Die Vorschriften über Zustellungen der Verwaltungsbehörden gelten mit
@@ -385,7 +369,6 @@ oder in einer sonstigen ortsüblichen und geeigneten Weise erfolgen
 kann. In diesen Fällen gilt die Zustellung mit dem auf die Bekanntgabe
 folgenden Tage als bewirkt.
 
-
 ## § 13 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
 
 Widerspruch und Anfechtungsklage gegen Verwaltungsakte nach diesem
@@ -393,7 +376,6 @@ Gesetz oder einer auf diesem Gesetz beruhenden Rechtsverordnung haben
 keine aufschiebende Wirkung, wenn der Verwaltungsakt erlassen worden
 ist, nachdem die Bundesregierung die Feststellung nach § 3 Abs. 2 Satz
 1 getroffen hat.
-
 
 ## § 14 Bußgeldvorschriften
 
@@ -421,7 +403,6 @@ einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des
 Absatzes 1 Nr. 2 und 3 mit einer Geldbuße bis zu zehntausend Euro
 geahndet werden.
 
-
 ## § 15 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
@@ -438,10 +419,6 @@ bestraft, wer
 3.  bei Begehung einer in § 14 Abs. 1 Nr. 1 bezeichneten Handlung eine
     außergewöhnliche Mangellage bei der Versorgung mit Erzeugnissen zur
     Erzielung von bedeutenden Vermögensvorteilen ausnutzt.
-
-
-
-
 
 ## § 16 Zuständige Verwaltungsbehörde bei Ordnungswidrigkeiten
 
@@ -473,13 +450,6 @@ Ordnungswidrigkeiten ist
     b)  soweit Landesbehörden zur Durchführung zuständig sind, die zuständige
         oberste Landesbehörde oder die nach Landesrecht bestimmte Stelle oder
         die in der Rechtsverordnung bestimmte Behörde.
-
-
-
-
-
-
-
 
 ## § 17 Inkrafttreten
 

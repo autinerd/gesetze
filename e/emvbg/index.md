@@ -24,9 +24,7 @@ Zuletzt geändert durch
     elektromagnetische Verträglichkeit und zur Aufhebung der Richtlinie
     89/336/EWG (ABl. EU Nr. L 390 S. 24).
 
-
 ## Abschnitt 1 - Anforderungen an Betriebsmittel
-
 
 ### § 1 Anwendungsbereich
 
@@ -47,10 +45,6 @@ elektromagnetische Störungen beeinträchtigt werden kann.
 3.  die eisenbahnrechtlichen Vorschriften über Anforderungen an Geräte
     sowie über die Prüfung, Zulassung und Überwachung von Geräten zur
     Gewährleistung eines sicheren Eisenbahnbetriebs.
-
-
-
-
 
 ### § 2 Ausnahmen
 
@@ -109,10 +103,6 @@ elektromagnetische Störungen beeinträchtigt werden kann.
 
 3.  im Fall des Satzes 1 Nummer 4 der § 14 Absatz 6 bis 12 und die §§ 15
     bis 19.
-
-
-
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -220,10 +210,6 @@ Im Sinne dieses Gesetzes
     (ABl. EG Nr. L 217 S. 18), festgelegte technische Spezifikation, deren
     Einhaltung nicht zwingend vorgeschrieben ist.
 
-
-
-
-
 ### § 4 Grundlegende Anforderungen
 
 (1) Betriebsmittel müssen nach den allgemein anerkannten Regeln der
@@ -248,7 +234,6 @@ werden. Die zur Gewährleistung der grundlegenden Anforderungen
 angewandten allgemein anerkannten Regeln der Technik sind zu
 dokumentieren.
 
-
 ### § 5 Vermutungswirkung
 
 Stimmt ein Betriebsmittel mit den einschlägigen harmonisierten Normen
@@ -258,7 +243,6 @@ den von diesen Normen abgedeckten grundlegenden Anforderungen des § 4
 Geltungsbereich der angewandten harmonisierten Normen und gilt nur
 innerhalb des Rahmens der von diesen harmonisierten Normen abgedeckten
 grundlegenden Anforderungen.
-
 
 ### § 6 Inverkehrbringen, Inbetriebnahme und Betrieb
 
@@ -280,7 +264,6 @@ die nicht der Zustimmung des Bundesrates bedarf, Regelungen zum Schutz
 von öffentlichen Telekommunikationsnetzen sowie zum Schutz von Sende-
 und Empfangsfunkanlagen zu treffen, die in definierten
 Frequenzspektren zu Sicherheitszwecken betrieben werden.
-
 
 ### § 7 Konformitätsbewertungsverfahren für Geräte
 
@@ -327,7 +310,6 @@ seinem in der Gemeinschaft ansässigen Bevollmächtigten, dass das Gerät
 mit den bewerteten Anforderungen übereinstimmt. Der Hersteller fügt
 die Bestätigung den technischen Unterlagen hinzu.
 
-
 ### § 8 CE-Kennzeichnung
 
 (1) Geräte, deren Übereinstimmung mit den grundlegenden Anforderungen
@@ -341,7 +323,6 @@ verwechselt werden kann. Andere Kennzeichnungen dürfen auf dem Gerät,
 der Verpackung oder der Gebrauchsanleitung nur angebracht werden, wenn
 sie die Sicht- und Lesbarkeit der CE-Kennzeichnung nicht
 beeinträchtigen.
-
 
 ### § 9 Sonstige Kennzeichen und Informationen
 
@@ -374,7 +355,6 @@ Form hinzuweisen.
 beizufügen, die zur bestimmungsgemäßen Nutzung erforderlich sind. Bei
 Geräten für nichtgewerbliche Nutzer muss diese Gebrauchsanleitung in
 deutscher Sprache abgefasst sein.
-
 
 ### § 10 Benannte Stellen
 
@@ -420,7 +400,6 @@ zu regeln.
 Konformitätsbewertungen nach Drittstaatenabkommen gelten die Absätze 1
 und 2 entsprechend.
 
-
 ### § 11 Besondere Regelungen
 
 (1) Während der Entwicklung und Erprobung von Betriebsmitteln hat der
@@ -437,7 +416,6 @@ Verantwortlichen nach Satz 1 müssen geeignete Maßnahmen zur Vermeidung
 elektromagnetischer Störungen treffen. Verursachen die Betriebsmittel
 elektromagnetische Störungen, müssen die Verantwortlichen nach Satz 1
 diese unverzüglich durch geeignete Maßnahmen beseitigen.
-
 
 ### § 12 Ortsfeste Anlagen
 
@@ -465,12 +443,7 @@ erfüllen. Dem Gerät sind Unterlagen beizufügen, aus denen sich ergibt,
     sind, damit diese mit den grundlegenden Anforderungen nach § 4
     übereinstimmt.
 
-
-
-
-
 ## Abschnitt 2 - Marktaufsicht der Bundesnetzagentur
-
 
 ### § 13 Aufgaben und Zuständigkeiten der Bundesnetzagentur
 
@@ -520,10 +493,6 @@ soweit gesetzlich nichts anderes bestimmt ist.
 
 
 8.  die Verordnung nach § 6 Abs. 3 zu vollziehen.
-
-
-
-
 
 ### § 14 Befugnisse der Bundesnetzagentur
 
@@ -721,7 +690,6 @@ denn, die Maßnahme würde dadurch unangemessen verzögert. Das
 Grundrecht der Unverletzlichkeit der Wohnung nach Artikel 13 des
 Grundgesetzes wird nach Maßgabe der Sätze 1 und 2 eingeschränkt.
 
-
 ### § 15 Auskunfts- und Beteiligungspflicht
 
 (1) Diejenigen, die Betriebsmittel in Verkehr bringen, anbieten,
@@ -746,14 +714,12 @@ Prüfung betreiben lassen und unentgeltlich vorübergehend zu Prüf- und
 Kontrollzwecken entnehmen. Die nach Absatz 1 Auskunftspflichtigen
 haben diese Maßnahmen zu dulden.
 
-
 ### § 16 Zwangsgeld
 
 Zur Durchsetzung der Anordnungen nach § 14 Abs. 2 bis 6 und 12 sowie §
 15 und der Anordnungen aufgrund der Verordnung nach § 6 Abs. 3 kann
 die Bundesnetzagentur ein Zwangsgeld bis zu fünfhunderttausend Euro
 festsetzen und vollstrecken.
-
 
 ### § 17 Kostenregelung
 
@@ -819,7 +785,6 @@ Rechtsverordnung der Bundesnetzagentur, ihre Änderung und ihre
 Aufhebung bedarf des Einvernehmens mit dem Bundesministerium für
 Wirtschaft und Technologie und dem Bundesministerium der Finanzen.
 
-
 ### § 18 Vorverfahren
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur
@@ -827,7 +792,6 @@ haben keine aufschiebende Wirkung.
 
 (2) Die Kosten des Vorverfahrens richten sich nach § 146 des
 Telekommunikationsgesetzes.
-
 
 ### § 19 Beitragsregelung
 
@@ -864,9 +828,7 @@ Rechtsverordnung nach Satz 6 einschließlich ihrer Aufhebung bedarf des
 Einvernehmens mit dem Bundesministerium für Wirtschaft und Technologie
 und dem Bundesministerium der Finanzen.
 
-
 ## Abschnitt 3 - Bußgeldvorschriften
-
 
 ### § 20 Bußgeldvorschriften
 
@@ -912,9 +874,7 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr.1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
-
 ## Abschnitt 4 - Schlussbestimmungen
-
 
 ### § 21 Übergangsbestimmungen
 
@@ -929,11 +889,9 @@ weiter vertrieben oder betrieben werden.
 Standort unverändert bleibt. Änderungen müssen gemäß § 12 Abs. 1 Satz
 3 und 4 dokumentiert werden.
 
-
 ### § 22 Aufhebung und Änderungen von Rechtsvorschriften
 
 -
-
 
 ### § 23 Neufassung der Beleihungs- und Anerkennungs-Verordnung
 
@@ -942,11 +900,9 @@ der Beleihungs- und Anerkennungs-Verordnung in der vom Inkrafttreten
 dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekannt
 machen.
 
-
 ### § 24 Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1 Technische Unterlagen, EG-Konformitätserklärung
 
@@ -1008,10 +964,6 @@ e)  Datum der Erklärung;
 
 f)  Namen und Unterschrift der für den Hersteller oder seinen
     Bevollmächtigten zeichnungsberechtigten Person.
-
-
-
-
 
 ### Anlage 2 CE-Kennzeichnung
 

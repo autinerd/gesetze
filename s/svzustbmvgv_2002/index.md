@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 4.5.2005 I 1234
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 5 Satz 4, des § 46 Abs. 1 Satz 3 und Abs. 5
@@ -27,7 +26,6 @@ und des § 60 Abs. 3 des Soldatenversorgungsgesetzes in der Fassung der
 Bekanntmachung vom 9. April 2002 (BGBl. I S. 1258) verordnet das
 Bundesministerium der Verteidigung im Einvernehmen mit dem
 Bundesministerium des Innern:
-
 
 ## § 1
 
@@ -117,7 +115,6 @@ haben oder dorthin verlegen. Dem Antrag ist stattzugeben, wenn der
 Festsetzungsbescheid unanfechtbar geworden ist. Bei mehreren
 Versorgungsberechtigten bedarf es übereinstimmender Anträge.
 
-
 ## § 2
 
 Übertragen werden
@@ -140,10 +137,6 @@ Versorgungsberechtigten bedarf es übereinstimmender Anträge.
 3.  die Entscheidung über den Schadensausgleich in besonderen Fällen nach
     § 63b des Soldatenversorgungsgesetzes sowie seine Durchführung der
     Wehrbereichsverwaltung West.
-
-
-
-
 
 ## § 3
 
@@ -235,7 +228,6 @@ Absätzen 1 bis 4 genannte Wehrbereichsverwaltung zuständig, bei der
 die Sache zuerst anhängig geworden ist. Die weitere Zuständigkeit
 richtet sich nach den Absätzen 1 bis 3.
 
-
 ## § 4
 
 (1) Das Bundesministerium der Verteidigung kann in Einzelfällen die
@@ -267,7 +259,6 @@ nach den §§ 1 bis 3 übertragenen Befugnisse selbst ausüben.
 
 
 trifft das Bundesministerium der Verteidigung.
-
 
 ## § 5
 

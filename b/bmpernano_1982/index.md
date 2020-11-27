@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 959
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -55,20 +53,14 @@ den Rektoren
 
 *   der Fachhochschulen der Deutschen Bundespost.
 
-
-
-
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 1982 in Kraft.
-
 
 ## Schlußformel
 

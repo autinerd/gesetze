@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   § 83 Abs. 1 Nr. 10 G v. 23.12.1982 I 2071
 
-
 ## Art 1
 
 Dem in Bonn am 1. Oktober 1971 unterzeichneten Vertrag zwischen der
@@ -28,23 +27,19 @@ Bundesrepublik Deutschland und der Sozialistischen Föderativen
 Republik Jugoslawien über die Rechtshilfe in Strafsachen wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 -
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels 6 Abs. 5 und 6 des
 Vertrages eingeschränkt.
-
 
 ## Art 5
 
@@ -63,7 +58,6 @@ eine mit Strafe bedrohte Handlung zugrunde läge. Die
 Verwaltungsbehörden legen die Ersuchen der für ihren Bezirk
 zuständigen Strafverfolgungsbehörde vor.
 
-
 ## Art 6
 
 § 24 des Straßenverkehrsgesetzes ist auf in Jugoslawien begangene
@@ -79,15 +73,10 @@ entsprechend anzuwenden, wenn der Betroffene
 
 2.  die zuständige jugoslawische Behörde um die Verfolgung ersucht.
 
-
-
-
-
 ## Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 8
 

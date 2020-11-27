@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Bek. v. 30.5.2001 I 1203
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Geheimschutzordnung gilt für Verschlußsachen (VS), die
@@ -37,7 +36,6 @@ werden müssen.
 Erkenntnissen sein. Zwischenmaterial (z.B. Vorentwürfe, Aufzeichnungen
 auf Tonträger, Stenogramme, Kohlepapier, Schablonen, Fehldrucke, u.U.
 auch Löschpapier) ist wie eine VS zu behandeln.
-
 
 ## § 2 Geheimhaltungsgrade
 
@@ -94,7 +92,6 @@ Geheimschutzordnung des Bundestages (§ 73 GO-BT).
 (6) Die Kennzeichnung von VS erfolgt unter entsprechender Anwendung
 der Verschlußsachenanweisung für die Bundesbehörden.
 
-
 ## § 2a Private Geheimnisse
 
 (1) Als GEHEIM können auch wichtige Geschäfts-, Betriebs-,
@@ -105,7 +102,6 @@ durch Unbefugte dem Berechtigten schweren Schaden zufügen würde.
 (2) Als VERTRAULICH können die in Absatz 1 bezeichneten Geheimnisse
 oder Umstände eingestuft werden, deren Kenntnis durch Unbefugte dem
 Interesse des Berechtigten abträglich sein könnte.
-
 
 ## § 3 Wahl und Änderung der Geheimhaltungsgrade
 
@@ -127,10 +123,6 @@ b)  die Vorsitzenden der Ausschüsse,
 
 
 c)  weitere vom Präsidenten ermächtigte Stellen.
-
-
-
-
 
 ## § 4 Kenntnis und Weitergabe einer VS
 
@@ -156,7 +148,6 @@ und höher nur mit Zustimmung der herausgebenden Stelle zugänglich
 gemacht werden, wenn sie zum Umgang mit VS ermächtigt und zur
 Geheimhaltung förmlich verpflichtet sind.
 
-
 ## § 5 Ferngespräche über VS
 
 Über Angelegenheiten des Geheimhaltungsgrades VS-VERTRAULICH oder
@@ -166,7 +157,6 @@ vorsichtig zu führen, daß der Sachverhalt Dritten nicht verständlich
 wird. Ist der Gesprächspartner nicht mit Sicherheit festzustellen, so
 ist ein Kontrollanruf erforderlich.
 
-
 ## § 6 Herstellung von Duplikaten
 
 Der Empfänger von VS der Geheimhaltungsgrade VS-VERTRAULICH und höher
@@ -175,7 +165,6 @@ dergleichen) sowie Auszüge nur von der Geheimregistratur herstellen
 lassen; für VS des Geheimhaltungsgrades STRENG GEHEIM ist außerdem die
 Zustimmung der herausgebenden Stelle erforderlich. Sie sind wie die
 Original-VS zu behandeln.
-
 
 ## § 7 Behandlung von VS in Ausschüssen
 
@@ -223,7 +212,6 @@ daß die Beratungen als VS-VERTRAULICH oder höher zu bewerten sind,
 kann der Ausschuß die erforderlichen Sicherheitsmaßnahmen nachträglich
 beschließen.
 
-
 ## § 8 Registrierung und Verwaltung von VS
 
 (1) Werden VS der Geheimhaltungsgrade VS-VERTRAULICH oder höher dem
@@ -247,14 +235,12 @@ aufzubewahren.
 unter Verschluß aufzubewahren; dieses ist nicht notwendig, wenn sie in
 Räumen aufbewahrt werden, zu denen Außenstehende keinen Zugang haben.
 
-
 ## § 9 Vernichtung von VS
 
 VS einschließlich des im Bundestag entstehenden Zwischenmaterials
 sind, wenn sie nicht mehr benötigt werden, der Geheimregistratur
 zuzuleiten. Soweit die VS nicht aufzubewahren sind, werden sie durch
 die Geheimregistratur vernichtet.
-
 
 ## § 10 Weiterleitung von VS
 
@@ -272,7 +258,6 @@ berechtigte Personen weitergegeben werden.
 (3) Die Versendung von VS der Geheimhaltungsgrade VS-VERTRAULICH und
 höher wird von der Geheimregistratur nach den Bestimmungen der
 Verschlußsachenanweisung für die Bundesbehörden vorgenommen.
-
 
 ## § 11 Mitnahme von VS
 
@@ -294,7 +279,6 @@ nach Möglichkeit bei den deutschen Vertretungen aufzubewahren.
 (3) In der Öffentlichkeit dürfen VS der Geheimhaltungsgrade VS-
 VERTRAULICH oder höher nicht gelesen und erörtert werden.
 
-
 ## § 12 Mitteilungspflicht
 
 Jeder Verdacht, jede Wahrnehmung oder jeder Vorfall, der auf
@@ -304,7 +288,6 @@ der Verlust von VS der Geheimhaltungsgrade VS-VERTRAULICH oder höher
 oder der Verlust von Sicherheitsschlüsseln ist unverzüglich dem
 Präsidenten oder dem Geheimschutzbeauftragten der Verwaltung des
 Deutschen Bundestages mitzuteilen.
-
 
 ## § 13 Ausführungsbestimmungen
 

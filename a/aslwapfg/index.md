@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 16.10.1992 I 1758
 
-
 ## Eingangsformel
 
 Die Umstellung der Agrar- und Ernährungswirtschaft der Deutschen
@@ -31,7 +30,6 @@ Chancengleichheit zu fördern ist. Bei der Förderung sind die
 Marktentwicklung sowie die Ziele und Erfordernisse der Raumordnung,
 des Umweltschutzes und des Tierschutzes zu beachten.
 Dazu hat die Volkskammer folgendes Gesetz beschlossen:
-
 
 ## § 1 Förderungsmaßnahmen
 
@@ -76,13 +74,11 @@ des Absatzes 2 getroffenen Regelung nicht entgegen, sofern die sich
 daraus ergebenden Förderbeträge je Begünstigten proportional um nicht
 mehr als 53,846 vom Hundert ergänzt werden.
 
-
 ## § 2 Förderungsarten
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen,
 Darlehen und Zinszuschüssen bestehen. Sie erfolgt im Rahmen der dafür
 verfügbaren Haushaltsmittel.
-
 
 ## § 3 Rücknahme, Widerruf, Erstattung und Verzinsung
 
@@ -99,7 +95,6 @@ Förderungsmittel die Umstände, die zum Entstehen des
 Rückforderungsanspruchs geführt haben, nicht zu vertreten hat und die
 Förderungsmittel innerhalb der ihm gesetzten Frist zurückzahlt.
 
-
 ## § 4 Prüfungsrecht
 
 Der Minister für Ernährung, Land- und Forstwirtschaft hat das Recht,
@@ -109,18 +104,15 @@ Unterlagen zu prüfen bzw. durch Beauftragte prüfen zu lassen und
 Auskünfte einzuholen. Das Prüfungs- und Auskunftsrecht ist gegenüber
 allen weiteren Empfängern bis zu den Letztempfängern vorzubehalten.
 
-
 ## § 5 Zusammenarbeit mit den Ländern
 
 Nach der Bildung der Länder wird die Zusammenarbeit mit den Ländern
 bei der Planung, Finanzierung und Durchführung der Anpassungsmaßnahmen
 geregelt.
 
-
 ## § 6 Geltungsbereich
 
 Der Geltungsbereich wird in den einzelnen Anordnungen geregelt.
-
 
 ## § 7 Inkraftsetzung
 
@@ -148,15 +140,10 @@ Gleichzeitig treten außer Kraft:
     kooperative Einrichtungen vom 9. Januar 1989 (P-Sonderdruck Nr. 1111/9
     des Gesetzblattes).
 
-
-
-
-
 ## Schlußformel
 
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III (BGBl. II 1990, 885, 1204)
 

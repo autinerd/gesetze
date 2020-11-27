@@ -28,7 +28,6 @@ dieser Verordnung sowie den Parteien von Tarifverträgen in der Branche
 mit zumindest teilweise demselben fachlichen Geltungsbereich
 Gelegenheit zur schriftlichen Stellungnahme gegeben hat:
 
-
 ## § 1 Zwingende Arbeitsbedingungen
 
 Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des
@@ -54,12 +53,10 @@ Verleiher ihm oder ihr nach § 8 Absatz 3 des Arbeitnehmer-
 Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen
 Arbeitsbedingungen zu gewähren.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2011 in Kraft und am 31. Dezember
 2013 außer Kraft.
-
 
 ## Anlage Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für Sicherheitsdienstleistungen vom 11. Februar 2011
 

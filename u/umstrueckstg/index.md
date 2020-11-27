@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   § 17 G v. 22.1.1964 I 33
 
-
 ## § 1
 
 (1) Geldinstitute, Versicherungsunternehmen und Bausparkassen dürfen
@@ -41,13 +40,11 @@ Altbankenrechnung bilden.
 Rückwirkung auf die Reichsmarkschlußbilanz. Für die Berechnung des
 vorläufigen Eigenkapitals bleiben sie außer Ansatz.
 
-
 ## § 2
 
 Die Bundesregierung wird ermächtigt, Vorschriften über die Berechnung
 der in § 1 zugelassenen Rückstellungen durch Rechtsverordnung zu
 erlassen.
-
 
 ## § 3
 
@@ -65,14 +62,9 @@ Durchführungsverordnung zum Umstellungsgesetz anzuwenden
     7 zur Umstellungsergänzungsverordnung vom 26. Oktober 1950
     (Verordnungsblatt für Groß-Berlin I S. 494).
 
-
-
-
-
 ## § 4
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ## § 5
 

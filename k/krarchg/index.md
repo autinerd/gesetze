@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 65
 
-
-
 ## § 1 Archivierung von Unterlagen aus dem Lastenausgleich
 
 (1) Im Bundesarchiv wird ein Zentralarchiv für den Lastenausgleich
@@ -33,7 +31,6 @@ mit einem Übergabeverzeichnis dem Lastenausgleichsarchiv zu übergeben.
 Übergabeverzeichnisses bestimmt der Bundesminister des Innern durch
 Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
 ## § 2 Übernahme von Unterlagen der Heimatortskarteien
 
 (1) Das Lastenausgleichsarchiv übernimmt die Unterlagen der
@@ -43,12 +40,10 @@ Heimatortskarteien des Kirchlichen Suchdienstes.
 Heimatortskarteien dem Lastenausgleichsarchiv, sobald die ihm von der
 Bundesrepublik Deutschland übertragenen Aufgaben abgeschlossen sind.
 
-
 ## § 3 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 4 Inkrafttreten
 

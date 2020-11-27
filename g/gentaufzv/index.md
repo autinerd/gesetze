@@ -21,13 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 V v. 28.4.2008 I 766
 
-
 ## § 1 Anwendungsbereich
 
 Wer gentechnische Arbeiten oder Freisetzungen durchführt, hat nach
 Maßgabe dieser Verordnung Aufzeichnungen zu führen, aufzubewahren und
 der zuständigen Behörde auf ihr Ersuchen vorzulegen.
-
 
 ## § 2 Aufzeichnungen bei gentechnischen Arbeiten oder bei Freisetzungen
 
@@ -222,7 +220,6 @@ zeitnah zur Durchführung der Arbeit oder der Freisetzung zu führen.
 Die Angaben nach § 2 Abs. 1 Satz 2 sind vor Beginn der gentechnischen
 Arbeiten aufzuzeichnen.
 
-
 ## § 3 Form der Aufzeichnungen
 
 (1) Die Aufzeichnungen dürfen weder durch Streichung noch auf andere
@@ -243,7 +240,6 @@ Projektleiter oder einer von diesem bestimmten Person zu
 unterschreiben. Erfolgen Führung und Aufbewahrung nach Absatz 2, ist
 sicherzustellen, daß die eindeutige Zuordnung zu dem Verantwortlichen
 gewährleistet ist.
-
 
 ## § 4 Aufzeichnungs- und Vorlagepflichtiger, Aufbewahrungsfrist
 
@@ -273,7 +269,6 @@ Anlage die Aufzeichnungen unverzüglich der zuständigen Behörde
 auszuhändigen, sofern die in Absatz 1 genannten Fristen noch nicht
 abgelaufen sind.
 
-
 ## § 5 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 38 Abs. 1 Nr. 12 des Gentechnikgesetzes
@@ -291,14 +286,9 @@ handelt, wer als Betreiber vorsätzlich oder fahrlässig
 3.  entgegen § 4 Abs. 3 Aufzeichnungen nicht oder nicht rechtzeitig der
     zuständigen Behörde aushändigt.
 
-
-
-
-
 ## § 6
 
 (weggefallen)
-
 
 ## § 7
 

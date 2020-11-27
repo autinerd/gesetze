@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 687
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -88,7 +86,6 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 Zwischen Ende und Anfang der Randschrift ist ein fünfzackiger Stern
 eingeprägt.
 Der Entwurf der Münze stammt von Erich Ott, München.
-
 
 ## (XXXX) Abbildung der Münze
 

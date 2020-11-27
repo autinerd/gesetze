@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 26 V v. 17.11.2011 I 2234
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 Abs. 1 der Handwerksordnung in der Fassung der
@@ -31,7 +29,6 @@ Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197)
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Gliederung und Inhalt der Meisterprüfung
 
@@ -51,10 +48,6 @@ Reifenmechaniker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
 4.  die Prüfung der erforderlichen berufs- und arbeitspädagogischen
     Kenntnisse (Teil IV).
-
-
-
-
 
 ## § 2 Meisterprüfungsberufsbild
 
@@ -128,10 +121,6 @@ Qualifikationen zu berücksichtigen:
 12. Leistungen abnehmen und dokumentieren sowie Nachkalkulation
     durchführen.
 
-
-
-
-
 ## § 3 Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
@@ -140,10 +129,6 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 
 2.  eine Situationsaufgabe.
-
-
-
-
 
 ## § 4 Meisterprüfungsprojekt
 
@@ -183,7 +168,6 @@ und zu dokumentieren.
 vom Hundert, die durchgeführten Arbeiten mit 50 vom Hundert und die
 Dokumentationsunterlagen mit 20 vom Hundert gewichtet.
 
-
 ## § 5 Fachgespräch
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das
@@ -193,7 +177,6 @@ Meisterprüfungsprojekt zugrunde liegen, den Ablauf des
 Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt
 verbundene berufsbezogene Probleme sowie deren Lösungen darstellen
 kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
-
 
 ## § 6 Situationsaufgabe
 
@@ -211,7 +194,6 @@ dokumentieren.
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem
 arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
-
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
 
@@ -231,7 +213,6 @@ Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei
 die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch
 in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden
 sein darf.
-
 
 ## § 8 Gliederung, Prüfungsdauer und Bestehen des Teils II
 
@@ -417,10 +398,6 @@ Prüfung des Teils II ist nicht bestanden, wenn
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
 
-
-
-
-
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
@@ -431,13 +408,11 @@ bleiben unberührt.
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
 ## § 10 Übergangsvorschrift
 
 Die Regelungen des § 8 Absatz 6 und 7 gelten nicht für die bis zum 31.
 Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den
 bisherigen Vorschriften zu Ende geführt.
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 

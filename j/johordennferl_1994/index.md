@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 954
 
-
-
 ## (XXXX)
 
 Die Balley Brandenburg des Ritterlichen Ordens St. Johannis vom Spital

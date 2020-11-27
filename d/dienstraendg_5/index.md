@@ -15,16 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 998
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 6 (weggefallen)
-
 
 ## Art 7 Änderung des Beamtenversorgungsgesetzes
 
@@ -35,7 +31,6 @@ die vor dem Inkrafttreten dieses Gesetzes bewilligt worden sind,
 findet § 14 Abs. 1 Satz 1 Halbsatz 2 des Beamtenversorgungsgesetzes in
 der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung weiter
 Anwendung.
-
 
 ## Art 8 Änderung des Soldatenversorgungsgesetzes
 
@@ -48,7 +43,6 @@ in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung weiter
 Anwendung.
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
-
 
 ## Art 9 Änderung der Dienstgradbezeichnung früherer Berufssoldaten, die als Hauptfeldwebel in den Ruhestand getreten sind oder entlassen wurden
 
@@ -90,17 +84,14 @@ ihrer als nicht würdig erweist.
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-
 ## Art 10
 
 -
-
 
 ## Art 11 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 12 Inkrafttreten
 

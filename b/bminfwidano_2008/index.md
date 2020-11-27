@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 253
 
-
 ## I.
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126
@@ -61,7 +60,6 @@ Ich behalte mir vor, die Zuständigkeit für die Entscheidung über
 Widersprüche in Einzelfällen oder in Gruppen von Fällen abweichend zu
 regeln oder selbst zu übernehmen.
 
-
 ## II.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die
@@ -71,18 +69,15 @@ Erlass von Widerspruchsbescheiden zuständig sind. Ich behalte mir vor,
 im Einzelfall oder in Gruppen von Fällen die Vertretung abweichend zu
 regeln oder die Vertretung selbst zu übernehmen.
 
-
 ## III.
 
 Die Zuständigkeit auf dem Gebiet der beamtenrechtlichen Versorgung und
 des Versorgungsausgleichs richtet sich nach der BMF-
 Zuständigkeitsanordnung – Versorgung.
 
-
 ## IV.
 
 Die Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlussformel
 

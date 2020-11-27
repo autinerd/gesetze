@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 624
 
-
 ## (XXXX)
 
 Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wurde
@@ -44,7 +43,6 @@ Gemäß § 2 Absatz 3 des Gesetzes über das Verfahren bei sonstigen
 Änderungen des Gebietsbestandes der Länder nach Artikel 29 Absatz 7
 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der
 Staatsvertrag nachstehend bekannt gemacht.
-
 
 ## Schlussformel
 

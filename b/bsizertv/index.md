@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1230
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1 des BSI-Errichtungsgesetzes vom 17. Dezember
 1990 (BGBl. I S. 2834) verordnet der Bundesminister des Innern nach
 Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem
 Bundesminister für Wirtschaft:
-
 
 ## § 1 Antrag
 
@@ -63,7 +60,6 @@ sind, legt einen vorläufigen Zeitplan fest und ermittelt die
 voraussichtlichen Kosten. Soweit erforderlich, kann es Unterlagen
 nachfordern.
 
-
 ## § 2 Mitwirkungspflichten des Antragstellers
 
 (1) Der Antragsteller hat dem Bundesamt oder der vom Bundesamt
@@ -81,7 +77,6 @@ durchzuführen.
 1 die notwendige Mitwirkung etwaiger Lizenzgeber und Hersteller
 sicherzustellen.
 
-
 ## § 3 Sicherheitskriterien
 
 Der Bundesminister des Innern macht die vom Bundesamt festgelegten
@@ -93,7 +88,6 @@ Sicherheitskriterien Herstellern, Vertreibern und sachverständigen
 Stellen bekannt, wenn diese gegenüber dem Bundesamt ein berechtigtes
 Interesse und die Einhaltung notwendiger Sicherheitsvorkehrungen
 nachweisen.
-
 
 ## § 4 Sicherheitszertifikat
 
@@ -151,7 +145,6 @@ zertifizierten Produkts in die Liste und eine Weitergabe des
 Sicherheitszertifikats an Dritte erfolgt nur mit Einwilligung des
 Antragstellers.
 
-
 ## § 5 Erteilung und Versagung des Sicherheitszertifikats
 
 (1) Die Entscheidung ist schriftlich zu erlassen und zuzustellen.
@@ -163,7 +156,6 @@ geben. Das Bundesamt kann dem Antragsteller im Rahmen der Anhörung
 auch Gelegenheit zur mündlichen Äußerung geben. Der Antragsteller kann
 hierzu auf seine Kosten Sachverständige hinzuziehen.
 
-
 ## § 6 Verwahrung der Unterlagen und Rückgabe des Produkts
 
 Ist das Sicherheitszertifikat erteilt, so sind je eine Ausfertigung
@@ -173,7 +165,6 @@ damit in Zusammenhang stehenden Bescheide beim Bundesamt zu verwahren.
 Die Rückgabe des geprüften Produkts an den Antragsteller erfolgt am
 Ort der Prüfung. Das Bundesamt kann mit dem Antragsteller vereinbaren,
 daß das geprüfte Produkt verwahrt wird.
-
 
 ## § 7 Inkrafttreten
 

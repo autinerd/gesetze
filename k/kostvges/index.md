@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 § 2 G v. 6.8.2002 I 3082
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 2 des BGA-Nachfolgegesetzes vom 24. Juni 1994
@@ -30,14 +29,12 @@ vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für
 Gesundheit im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit:
 
-
 ## § 1
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte, das Bundesamt
 für Verbraucherschutz und Lebensmittelsicherheit und das Robert Koch-
 Institut erheben für die in dieser Verordnung genannten Amtshandlungen
 Kosten (Gebühren und Auslagen) nach dieser Verordnung.
-
 
 ## § 2
 
@@ -251,10 +248,6 @@ Gebühr
     1 des Infektionsschutzgesetzes gelistete Wirkstoffe, Mittel, Verfahren
     oder Geräte 320 DM.
 
-
-
-
-
 ## § 3
 
 (1) Die Gebühren für die Prüfung von Mitteln und Verfahren zur
@@ -300,14 +293,12 @@ Infektionsschutzgesetzes betragen zur Bestimmung
 Verfahrens in die Liste nach § 18 Abs. 1 Satz 1 des
 Infektionsschutzgesetzes beträgt die Gebühr 100 DM.
 
-
 ## § 4
 
 Die Gebühr für die Erteilung einer Genehmigung und Vergabe einer
 Genehmigungsnummer für Kondome und Gleitmittel zur Anwendung mit
 Kondomen nach der Bekanntmachung des Bundesministeriums für Gesundheit
 vom 24. Mai 1994 (BAnz. S. 5961) beträgt 200 DM.
-
 
 ## § 5
 
@@ -319,7 +310,6 @@ einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in
 den Verkehr gebracht worden ist (§ 4a Abs. 2 der Diätverordnung), kann
 die Gebühr nach Absatz 1 bis auf 150 DM ermäßigt werden.
-
 
 ## § 5a
 
@@ -338,10 +328,6 @@ Satz 1 der Verordnung (EG) Nr. 258/97 beträgt die Gebühr
 2.  im Falle des Artikels 4 Abs. 2 Satz 2 zweiter Spiegelstrich der
     Verordnung (EG) Nr. 258/97 5.000 bis 10.000 DM.
 
-
-
-
-
 ## § 6
 
 (1) Für die Bearbeitung von Änderungsanzeigen sowie bei nachträglicher
@@ -352,14 +338,12 @@ jeweilige Amtshandlung vorgesehenen Gebühr erhoben.
 erfordern, zum Beispiel Änderung des Firmennamens oder der Anschrift
 oder der Produktbezeichnung, beträgt die Gebühr 100 DM.
 
-
 ## § 7
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
 eines Antrages auf Vornahme einer Amtshandlung sowie in den Fällen der
 Zurücknahme eines Antrages auf Vornahme einer Amtshandlung werden
 Kosten nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
-
 
 ## § 8
 
@@ -382,7 +366,6 @@ der Amtshandlung verbundene Personal- und Sachaufwand einerseits und
 die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der
 Amtshandlung für den Gebührenschuldner andererseits dies
 rechtfertigen.
-
 
 ## § 9
 
@@ -408,10 +391,6 @@ an Gebühren zu erheben:
     *   Bescheinigungen und Beglaubigungen
 
     *   25 bis  300 DM.
-
-
-
-
 
 ## § 10
 

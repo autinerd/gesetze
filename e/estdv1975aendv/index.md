@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 3610
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 5 Ziff. 5, des § 33b Abs. 6 und des § 51 Abs. 1
@@ -26,11 +24,9 @@ geändert durch das Einführungsgesetz zur Abgabenordnung - EGAO 1977 -
 vom 14. Dezember 1976 (Bundesgesetzbl. I S. 3341), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -45,14 +41,12 @@ des Dienstverhältnisses oder dem Eintritt des Versorgungsfalles
 mindestens acht Monate in einer in Berlin (West) belegenen
 Betriebstätte beschäftigt war.
 
-
 ## Art 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 10
 des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 (Bundesgesetzbl. I S. 702) auch im Land Berlin.
-
 
 ## Art 4
 

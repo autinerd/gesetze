@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1440
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Absatz 6 in Verbindung mit § 33a Absatz 1 Satz 3, §
@@ -29,13 +28,11 @@ geändert worden sind, sowie unter Berücksichtigung der Achtzehnten
 KOV-Anpassungsverordnung 2012 vom 21. Juni 2012 (BGBl. I S. 1391)
 verordnet das Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1
 
 Diese Verordnung gilt im Gebiet der Bundesrepublik Deutschland zur
 Feststellung der in § 2 genannten Leistungen, soweit die Ansprüche in
 der Zeit vom 1. Juli 2012 an bestehen.
-
 
 ## § 2
 
@@ -54,7 +51,6 @@ vom Gesamtbetrag der vollen Elternrente einschließlich des
 Erhöhungsbetrages, durch Abziehen des in der Tabelle angegebenen
 anzurechnenden Einkommens zu ermitteln.
 
-
 ## § 3
 
 (1) Das Bruttoeinkommen ist vor Anwendung der Tabelle auf volle Euro
@@ -67,7 +63,6 @@ die Zusammenzählung beider Werte ergibt vorbehaltlich der Vorschrift
 des § 41 Absatz 3 Satz 3 und des § 51 Absatz 4 des
 Bundesversorgungsgesetzes die für die Feststellung maßgebende
 Stufenzahl.
-
 
 ## § 4
 
@@ -83,7 +78,6 @@ Absatz 1 ermittelten anzurechnenden Einkommen ein Betrag in Höhe des
 Ehegattenzuschlags abzuziehen; das Ergebnis ist das anzurechnende
 Einkommen im Sinne des § 33b Absatz 5 Satz 3 des
 Bundesversorgungsgesetzes.
-
 
 ## § 5
 
@@ -103,10 +97,6 @@ sind die Werte für jede weitere Stufenzahl wie folgt zu ermitteln:
     Beschädigte je Stufe ein Betrag in Höhe von 3,330 Euro hinzuzuzählen
     und das Ergebnis jeweils auf volle Euro nach unten abzurunden.
 
-
-
-
-
 ## § 6
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 2012 in Kraft.
@@ -114,11 +104,9 @@ Gleichzeitig tritt die Dreiundvierzigste Verordnung über das
 anzurechnende Einkommen nach dem Bundesversorgungsgesetz vom 11. Juli
 2011 (BGBl. I S. 1364) außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2) Tabelle über das anzurechnende Einkommen und die zustehende Ausgleichs- und Elternrente für die Zeit ab 1. Juli 2012 in Euro
 

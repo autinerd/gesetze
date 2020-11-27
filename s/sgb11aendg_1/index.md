@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 830
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 5
-
-
 
 ## Art 6 Übergangsregelung zur Bußgeldvorschrift
 
@@ -35,7 +30,6 @@ Buches Sozialgesetzbuch ein Bußgeldverfahren eingeleitet haben,
 bleiben für das weitere Verfahren bis zum Erlaß des Bußgeldbescheides
 zuständig.
 
-
 ## Art 7 Medizinische Behandlungspflege in stationären Pflegeeinrichtungen
 
 Der Deutsche Bundestag und der Bundesrat prüfen im Laufe des Jahres
@@ -43,7 +37,6 @@ Der Deutsche Bundestag und der Bundesrat prüfen im Laufe des Jahres
 Behandlungspflege in stationären Pflegeeinrichtungen ab 1. Januar 2000
 von der sozialen Pflegeversicherung oder der gesetzlichen
 Krankenversicherung zu tragen sind.
-
 
 ## Art 8 Inkrafttreten
 

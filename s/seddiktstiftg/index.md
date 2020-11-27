@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1226
 
-
-
 ## § 1 Rechtsform der Stiftung
 
 Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird mit
 Sitz in Berlin eine rechtsfähige Stiftung des öffentlichen Rechts
 errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
-
 
 ## § 2 Stiftungszweck
 
@@ -100,10 +97,6 @@ innere Einheit Deutschlands zu fördern und zu festigen.
     Opposition und Widerstand und an die Opfer der Diktatur in der
     sowjetischen Besatzungszone und in der DDR erinnern.
 
-
-
-
-
 ## § 3 Stiftungsvermögen
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und
@@ -131,14 +124,12 @@ unberührt.
 (4) Erträge aus dem Stiftungsvermögen und sonstige Einnahmen sind nur
 im Sinne des Stiftungszweckes zu verwenden.
 
-
 ## § 4 Satzung
 
 Die Stiftung gibt sich im Benehmen mit dem Bundesministerium des
 Innern eine Satzung, die vom Stiftungsrat mit einer Mehrheit von zwei
 Dritteln der Stimmen beschlossen wird. Das gleiche gilt für Änderungen
 der Satzung.
-
 
 ## § 5 Organe der Stiftung
 
@@ -153,7 +144,6 @@ Organe der Stiftung sind
 
 Zur Beratung bei der Erfüllung ihrer Aufgaben kann die Stiftung
 Fachbeiräte berufen.
-
 
 ## § 6 Stiftungsrat
 
@@ -196,7 +186,6 @@ Satzung.
 (6) Die Mitglieder des Vorstandes sind berechtigt, an den Sitzungen
 des Stiftungsrates mit beratender Stimme teilzunehmen.
 
-
 ## § 7 Vorstand
 
 (1) Der Vorstand besteht aus mindestens drei, höchstens fünf
@@ -209,13 +198,11 @@ außergerichtlich.
 
 (3) Das Nähere regelt die Satzung.
 
-
 ## § 8 Neben- und ehrenamtliche Tätigkeit
 
 Die Mitglieder des Stiftungsrates, des Vorstandes und gegebenenfalls
 der Fachbeiräte sind, soweit sie nicht nebenamtlich tätig sind,
 ehrenamtlich tätig.
-
 
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung, Rechts- und Amtshilfe
 
@@ -229,7 +216,6 @@ geltenden Bestimmungen entsprechende Anwendung.
 (3) Der Stiftung ist Rechts- und Amtshilfe zu leisten. Gebühren und
 Auslagen werden nicht erstattet.
 
-
 ## § 10 Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer
@@ -242,18 +228,15 @@ anzuwenden.
 (3) Der Stiftung kann durch Satzungsregelung das Recht, Beamte zu
 beschäftigen, verliehen werden.
 
-
 ## § 11 Gebühren
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
 Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
-
 ## § 12 Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
-
 
 ## § 13 Inkrafttreten
 

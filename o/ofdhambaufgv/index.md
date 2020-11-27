@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 474
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August
 1971 (BGBl. I S. 1426, 1427) verordnet der Bundesminister der
 Finanzen:
-
 
 ## § 1
 
@@ -33,7 +30,6 @@ Aufgaben der Bundesvermögensabteilung der Oberfinanzdirektion Hamburg
 auf die Bundesvermögensabteilung der Oberfinanzdirektion Kiel
 übertragen. Sitz und Bezirk der örtlichen Behörden ändern sich
 hierdurch nicht.
-
 
 ## § 2
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 22 G v. 8.12.2010 I 1768
 
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz gilt für die Ausbildung der Beamten der
@@ -53,7 +52,6 @@ Vorbildung und Ausbildung nach diesem Gesetz. Für die berufliche
 Entwicklung innerhalb zusammengefasster Laufbahngruppen gilt § 6
 entsprechend.
 
-
 ## § 2 Einfacher Dienst
 
 (1) In den Vorbereitungsdienst der Laufbahn des einfachen Dienstes
@@ -68,7 +66,6 @@ besonderem Grund verlängert werden.
 Vorbereitungsdienst angerechnet werden.
 
 (4) Eine Prüfung ist nicht abzulegen.
-
 
 ## § 3 Mittlerer Dienst
 
@@ -115,7 +112,6 @@ werden
 Eine Anrechnung auf die fachtheoretische Ausbildung ist
 ausgeschlossen.
 
-
 ## § 4 Gehobener Dienst
 
 (1) In den Vorbereitungsdienst der Laufbahn des gehobenen Dienstes
@@ -144,7 +140,6 @@ Monaten angerechnet werden. In den Fällen des Satzes 1 ist die
 Zwischenprüfung nicht abzulegen, wenn der Beamte das Studium mit einer
 ersten Staatsprüfung oder, soweit üblich, mit einer Hochschulprüfung
 erfolgreich abgeschlossen hat.
-
 
 ## § 5 Höherer Dienst
 
@@ -202,7 +197,6 @@ Fachrichtungen und andere Bewerber bleiben unberührt.
 
 (5) (weggefallen)
 
-
 ## § 6 Aufstieg in höhere Laufbahnen
 
 (1) Der Aufstieg von Beamten des einfachen und des mittleren Dienstes
@@ -244,7 +238,6 @@ des höheren Dienstes richtet sich nach landesrechtlichen Vorschriften.
 
 (6) bis (8) (weggefallen)
 
-
 ## § 7 Bundesfinanzakademie
 
 (1) Der Bund unterhält zur Durchführung der ergänzenden Studien sowie
@@ -254,7 +247,6 @@ der Länder eine Bundesfinanzakademie.
 (2) Bei der Entwicklung von bundeseinheitlichen Fortbildungsmaßnahmen
 zu Themen von grundsätzlicher Bedeutung wirken die
 Bundesfinanzakademie und die Länder zusammen.
-
 
 ## § 8 Ausbildungs- und Prüfungsordnung
 
@@ -295,10 +287,6 @@ darin sind auch Bestimmungen zu treffen über
 8.  Tagungen für die Ausbildungsreferenten und die Leiter der
     Bildungsstätten für Steuerbeamte.
 
-
-
-
-
 ## § 9 Übergangsvorschriften
 
 (1) Auf den Vorbereitungsdienst und die Einführungszeit in der
@@ -317,7 +305,6 @@ Artikel 3 des Einigungsvertrages genannte Gebiet versetzt worden sind.
 (4) § 6 Abs. 8 in der bis zum 1. Juli 2002 geltenden Fassung gilt
 letztmals für Beamte, die bis zu diesem Datum aus dem in Artikel 3 des
 Einigungsvertrages genannte Gebiet versetzt worden sind.
-
 
 ## § 10
 

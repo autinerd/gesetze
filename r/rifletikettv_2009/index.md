@@ -19,9 +19,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 17.2.2011 I 266
 
-
 ## Abschnitt 1 - Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -59,10 +57,6 @@ Im Sinne dieser Verordnung sind:
 
 
 7.  Kontrollstelle: eine nach § 5 anerkannte unabhängige Kontrollstelle.
-
-
-
-
 
 ### § 2 Aufzeichnungspflichten
 
@@ -119,9 +113,7 @@ Unterlagen oder im Fall der Übernahme von Angaben mit der Annahme der
 Ware. Andere Vorschriften, nach denen eine längere Aufbewahrungsfrist
 besteht, bleiben unberührt.
 
-
 ## Abschnitt 2 - Bestimmungen für freiwillige Etikettierungssysteme und unabhängige Kontrollstellen
-
 
 ### § 3 Antrag auf Genehmigung eines Etikettierungssystems
 
@@ -140,7 +132,6 @@ rechtzeitig mitzuteilen.
 
 (2) Die Entscheidung über den Antrag erfolgt durch schriftlichen
 Bescheid.
-
 
 ### § 4 Antragsinhalt
 
@@ -243,7 +234,6 @@ als Teil eines Etikettierungssystems genehmigt wurden, so ist das
 Vorliegen dieser Genehmigung mit dem Antrag nach Absatz 1
 nachzuweisen.
 
-
 ### § 5 Anerkennung von Kontrollstellen
 
 (1) Der Antrag auf Anerkennung als Kontrollstelle ist bei der
@@ -303,7 +293,6 @@ weiterer für die Kontrolle vorgesehener Mitarbeiter nach Prüfung der
 Voraussetzungen des Absatzes 2 Nummer 6 durch schriftlichen Bescheid
 der Bundesanstalt. Das Ausscheiden von für die Kontrolle vorgesehenen
 Mitarbeitern wird ebenfalls durch schriftlichen Bescheid festgestellt.
-
 
 ### § 6 Mitteilungs- und Berichtspflichten der Kontrollstellen und Etikettierungssysteme
 
@@ -401,7 +390,6 @@ bis 8 zu erstellenden Darstellungen, Muster, Berichte, Risikoanalysen,
 Übersichten und Mitteilungen auch oder ausschließlich elektronisch
 übermittelt werden.
 
-
 ### § 7 Aufbewahrung von Berichten und Übersichten
 
 (1) Kontrollstellen haben Kontrollberichte nach § 6 Absatz 2, die zu
@@ -413,14 +401,12 @@ aufzubewahren.
 Zeitpunkt der Erstellung des Berichts. Andere Vorschriften, nach denen
 eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
 
-
 ### § 8 Gebühren
 
 Die Bundesanstalt erhebt nach § 5 Absatz 1 des
 Rindfleischetikettierungsgesetzes Gebühren für Amtshandlungen nach § 2
 Absatz 1 und § 4 Absatz 1 Satz 1 des Rindfleischetikettierungsgesetzes
 nach dem anliegenden Gebührenverzeichnis.
-
 
 ### § 9 Muster, Vordrucke und Formulare
 
@@ -433,16 +419,13 @@ Bundesanstalt ein zu verwendendes Format vorgeben.
 (2) Soweit die Bundesanstalt Muster bekannt gibt oder Vordrucke oder
 Formulare bereit hält, sind diese zu verwenden.
 
-
 ## Abschnitt 3 - Etikettierung von Fleisch von bis zu zwölf Monate alten Rindern
-
 
 ### § 9a Etikettierung von Schlachtkörpern von bis zu zwölf Monate alten Rindern
 
 Schlachtkörper von bis zu zwölf Monate alten Rindern sind vom
 Marktteilnehmer unmittelbar nach der Schlachtung nach Maßgabe des § 3
 der Rinderschlachtkörper-Handelsklassenverordnung zu kennzeichnen.
-
 
 ### § 9b Etikettierung von nicht vorverpacktem Fleisch von bis zu zwölf Monate alten Rindern im Einzelhandel
 
@@ -456,9 +439,7 @@ ist, sind vom Marktteilnehmer am Ort des Verkaufs in geeigneter Weise
 und im gleichen Blickfeld zusammen mit den anderen verpflichtenden
 Angaben nach § 1 Nummer 1 auszuloben.
 
-
 ## Abschnitt 4 - Ordnungswidrigkeiten, Schlussbestimmungen
-
 
 ### § 10 Ordnungswidrigkeiten
 
@@ -511,17 +492,12 @@ fahrlässig
 10. entgegen § 9b eine Angabe nicht, nicht richtig, nicht vollständig oder
     nicht in der vorgeschriebenen Weise auslobt.
 
-
-
-
-
 ### § 11 Zuständige Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 11 des Rindfleischetikettierungsgesetzes
 wird auf die Bundesanstalt übertragen, soweit sie für die Überwachung
 zuständig ist.
-
 
 ### § 12 Unterrichtung der Länder
 
@@ -530,7 +506,6 @@ Rücknahme oder den Widerruf einer Genehmigung eines
 Etikettierungssystems, den Ein- und Austritt von Systemteilnehmern in
 ein bzw. aus einem Etikettierungssystem oder die Anerkennung einer
 Kontrollstelle.
-
 
 ### Anlage (zu § 8)
 

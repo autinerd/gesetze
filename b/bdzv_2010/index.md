@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2569
 
-
 ## Eingangsformel
 
 Auf Grund des § 72a Absatz 2 des Bundesbesoldungsgesetzes in der
 Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434)
 verordnet die Bundesregierung:
-
 
 ## § 1 Gewährung eines Zuschlags bei begrenzter Dienstfähigkeit
 
@@ -32,7 +30,6 @@ Personen), erhalten zusätzlich zu den Dienstbezügen nach § 72a Absatz
 1 des Bundesbesoldungsgesetzes einen nicht ruhegehaltfähigen Zuschlag.
 Satz 1 gilt auch, wenn eine begrenzt dienstfähige Person erneut in ein
 Beamten- oder Richterverhältnis berufen wird.
-
 
 ## § 2 Höhe des Zuschlags
 
@@ -85,10 +82,6 @@ Zuschlag entsprechend dem Verhältnis zwischen
 5.  Zuschüsse und Leistungsbezüge für Professorinnen und Professoren an
     Hochschulen.
 
-
-
-
-
 ## § 3 Ausschluss des Zuschlags
 
 Nicht gewährt wird der Zuschlag neben
@@ -98,10 +91,6 @@ Nicht gewährt wird der Zuschlag neben
 
 
 2.  einem Zuschlag nach der Altersteilzeitzuschlagsverordnung.
-
-
-
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

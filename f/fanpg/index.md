@@ -19,10 +19,7 @@ Fundstelle
 Geändert durch
 :   Art. V § 6 G v. 23.5.1975 I 1173
 
-
 ## Teil I - Kosten des Aufgabenvollzugs
-
-
 
 ### Art 1 Verwaltungsausgaben
 
@@ -36,31 +33,19 @@ Verwaltungsvereinbarungen Verwaltungsaufgaben, die dem anderen Teil
 obliegen, richtet sich die Erstattung von Verwaltungsausgaben nach den
 getroffenen Vereinbarungen.
 
-
 ### (XXXX) Art 2 bis 4
-
-
 
 ## Teil II - Neuordnung der Finanzverwaltung
 
-
-
 ### (XXXX) Art 5 bis 11
 
-
-
 ## Teil III - Anpassung des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
-
-
 
 ### Art 12
 
 -
 
-
 ## Teil IV - Übergangs- und Schlußbestimmungen
-
-
 
 ### Art 13 Überleitung bestimmter Beamter und Versorgungsberechtigter
 
@@ -97,7 +82,6 @@ des Landes Berlin beschäftigten Personen vom 26. April 1957
 Neuordnung des Bundesdisziplinarrechts vom 20. Juli 1967
 (Bundesgesetzbl. I S. 725).
 
-
 ### Art 14 Überleitung von Ausgaben
 
 (1) Soweit auf Grund dieses Gesetzes Ausgaben vom Bund auf die Länder
@@ -119,7 +103,6 @@ sind.
 (3) Gehen auf Grund dieses Gesetzes Ausgaben von den Ländern auf den
 Bund über, so gelten die Absätze 1 und 2 sinngemäß.
 
-
 ### Art 15 Auskunftspflicht
 
 Die zuständigen Bundesbehörden und Landesbehörden sind verpflichtet,
@@ -128,7 +111,6 @@ Ausgaben erforderlichen Auskünfte zu erteilen und auf Verlangen die
 sachliche Richtigkeit der Auskünfte von ihren Rechnungshöfen
 bestätigen zu lassen.
 
-
 ### Art 16 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
@@ -136,7 +118,6 @@ des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### Art 17 Inkrafttreten
 

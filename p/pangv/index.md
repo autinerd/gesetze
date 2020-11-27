@@ -29,7 +29,6 @@ Bundesrates erlassen. Sie ist gem. Art. 4 V v. 14.3.1985 I 580 am
 1\.5.1985 in Kraft getreten, § 4 u. § 7 Abs. 1 Nr. 1 Halbsatz 2 sind am
 1\.9.1985 bzw. am 1.7.1985 in Kraft getreten.
 
-
 ## § 1 Grundvorschriften
 
 (1) Wer Letztverbrauchern gewerbs- oder geschäftsmäßig oder regelmäßig
@@ -107,7 +106,6 @@ zuzuordnen sowie leicht erkennbar und deutlich lesbar oder sonst gut
 wahrnehmbar zu machen. Bei der Aufgliederung von Preisen sind die
 Endpreise hervorzuheben.
 
-
 ## § 2 Grundpreis
 
 (1) Wer Letztverbrauchern gewerbs- oder geschäftsmäßig oder regelmäßig
@@ -148,7 +146,6 @@ Grundpreis eine übliche Anwendung verwendet werden. Dies gilt auch für
 Wasch- und Reinigungsmittel, sofern sie einzeln portioniert sind und
 die Zahl der Portionen zusätzlich zur Gesamtfüllmenge angegeben ist.
 
-
 ## § 3 Elektrizität, Gas, Fernwärme und Wasser
 
 Wer Letztverbrauchern gewerbs- oder geschäftsmäßig oder regelmäßig in
@@ -165,7 +162,6 @@ leistungsabhängige Preise fordert, hat diese vollständig in
 unmittelbarer Nähe des Arbeits- oder Mengenpreises anzugeben. Satz 3
 gilt entsprechend für die Forderungen nicht verbrauchsabhängiger
 Preise.
-
 
 ## § 4 Handel
 
@@ -196,7 +192,6 @@ Preisverzeichnissen angegeben werden.
 Tarifen oder Gebührenregelungen bemessen werden, ist § 5 Abs. 1 und 2
 entsprechend anzuwenden.
 
-
 ## § 5 Leistungen
 
 (1) Wer Leistungen anbietet, hat ein Preisverzeichnis mit den Preisen
@@ -218,7 +213,6 @@ Preisverzeichnisse wegen ihres Umfangs nicht zumutbar ist.
 (3) Werden die Leistungen in Fachabteilungen von Handelsbetrieben
 angeboten, so genügt das Anbringen der Preisverzeichnisse in den
 Fachabteilungen.
-
 
 ## § 6 Kredite
 
@@ -309,7 +303,6 @@ preisbestimmende Faktoren bis zur Zuteilung unveränderbar sind, ist
 als Laufzeit von den Zuteilungsfristen auszugehen, die sich aus der
 Zielbewertungszahl für Bausparverträge gleicher Art ergeben.
 
-
 ## § 6a Werbung für Kreditverträge
 
 (1) Wer gegenüber Letztverbrauchern für den Abschluss eines
@@ -361,7 +354,6 @@ Verpflichtung zum Abschluss dieses Vertrags klar und verständlich an
 gestalterisch hervorgehobener Stelle zusammen mit dem effektiven
 Jahreszins hinzuweisen.
 
-
 ## § 6b Überziehungsmöglichkeiten
 
 Bei Überziehungsmöglichkeiten im Sinne des § 504 Abs. 2 des
@@ -369,7 +361,6 @@ Bürgerlichen Gesetzbuchs hat der Kreditgeber statt des effektiven
 Jahreszinses den Sollzinssatz pro Jahr und die Zinsbelastungsperiode
 anzugeben, wenn diese nicht kürzer als drei Monate ist und der
 Kreditgeber außer den Sollzinsen keine weiteren Kosten verlangt.
-
 
 ## § 7 Gaststätten, Beherbergungsbetriebe
 
@@ -401,7 +392,6 @@ Telekommunikationsanlage anzugeben.
 (5) Die in den Preisverzeichnissen aufgeführten Preise müssen das
 Bedienungsgeld und sonstige Zuschläge einschließen.
 
-
 ## § 8 Tankstellen, Parkplätze
 
 (1) An Tankstellen sind die Kraftstoffpreise so auszuzeichnen, dass
@@ -422,7 +412,6 @@ erst in der Tankstelle hergestellt werden.
 Parkplätze vermietet oder bewacht oder Kraftfahrzeuge verwahrt, hat am
 Anfang der Zufahrt ein Preisverzeichnis anzubringen, aus dem die von
 ihm geforderten Preise ersichtlich sind.
-
 
 ## § 9 Ausnahmen
 
@@ -547,10 +536,6 @@ erforderlich bei
 3.  auf Leistungen, bei denen in Gesetzen oder Rechtsverordnungen die
     Angabe von Preisen besonders geregelt ist.
 
-
-
-
-
 ## § 10 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 3 Abs. 1 Nr. 2 des
@@ -635,11 +620,9 @@ entgegen § 1 Abs. 2 Satz 1 Nr. 2 oder Satz 2, jeweils auch in
 Verbindung mit Satz 3, eine Angabe nicht, nicht richtig oder nicht
 vollständig macht.
 
-
 ## § 11
 
 (weggefallen)
-
 
 ## Anlage (zu § 6)
 

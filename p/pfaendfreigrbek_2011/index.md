@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 825
 
-
 ## (XXXX)
 
 Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung, der
@@ -73,11 +72,9 @@ durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember
 Die ab 1. Juli 2011 geltenden Pfändungsfreibeträge ergeben sich im
 Übrigen aus den als Anhang abgedruckten Tabellen.
 
-
 ## Schlussformel
 
 Die Bundesministerin der Justiz
-
 
 ## Anhang
 

@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3685
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zweck der Statistik, Anordnung als Bundesstatistik
 
@@ -35,7 +32,6 @@ von Informationen über die Ausstattung mit Informations- und
 Kommunikationstechnologien sowie deren Nutzung in der Gesellschaft
 werden Erhebungen als Bundesstatistik durchgeführt.
 
-
 ## § 2 Art der Erhebung, Erhebungseinheiten
 
 Die Erhebungen werden bei höchstens 20.000 Unternehmen und
@@ -45,12 +41,10 @@ Personen im Sinne des Artikels 4 der Verordnung (EG) Nr. 808/2004
 durchgeführt. Die Erhebungseinheiten werden in einem mathematisch-
 statistischen Verfahren ausgewählt.
 
-
 ## § 3 Mindestalter
 
 Die Erhebungen bei Einzelpersonen werden ab einem Mindestalter der zu
 Befragenden von zehn Jahren durchgeführt.
-
 
 ## § 4 Hilfsmerkmale
 
@@ -69,14 +63,9 @@ Hilfsmerkmale sind:
     Familienstand der in dem Haushalt lebenden natürlichen Personen sowie
     soziale Stellung des Haupteinkommensbeziehers.
 
-
-
-
-
 ## § 5 Freiwilligkeit der Auskunftserteilung
 
 Die Erteilung der Auskunft ist freiwillig.
-
 
 ## § 6 Übermittlungsregelung
 
@@ -86,7 +75,6 @@ dürfen den obersten Bundes- oder Landesbehörden vom Statistischen
 Bundesamt und den statistischen Ämtern der Länder Tabellen mit
 statistischen Ergebnissen übermittelt werden, auch soweit
 Tabellenfelder nur einen einzigen Fall ausweisen.
-
 
 ## § 7 Inkrafttreten
 

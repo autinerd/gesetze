@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 647
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für Flugplatzbetreiber und
@@ -78,7 +77,6 @@ die Umsetzung und Ausführung der Schulungsmaßnahmen verantwortlich,
 wenn sie Eigensicherungspflichten, einschließlich der Schulung, durch
 andere im Auftrag vornehmen lassen.
 
-
 ## § 2 Ausbildungspersonal
 
 (1) Flugplatzbetreiber und Luftfahrtunternehmen erfüllen ihre
@@ -118,7 +116,6 @@ widerrufen. Wird nach Ablauf der Befristung der Zulassung eine neue
 Zulassung nach Absatz 2 beantragt, so darf diese nur erteilt werden,
 wenn eine Fortbildungsunterweisung nach Absatz 3 Satz 1 innerhalb der
 letzten zwölf Monate nachgewiesen wird.
-
 
 ## § 3 Schulungen für Sicherheitspersonal und Luftsicherheitskontrollkräfte
 
@@ -230,7 +227,6 @@ Luftsicherheitskontrollkräfte, die die Mindestdauer der
 vorgeschriebenen Fortbildung innerhalb von zwei Jahren nicht erfüllen,
 wird das Befähigungszeugnis ungültig.
 
-
 ## § 4 Zusatzschulungen für Luftsicherheitskontrollkräfte für Personal- und Warenkontrollen
 
 (1) Personal, das bereits ein Befähigungszeugnis als
@@ -249,7 +245,6 @@ Fracht und Post. § 3 Abs. 5 Satz 5 gilt entsprechend. Ist ein
 Befähigungszeugnis nicht mehr gültig, so richtet sich die notwendige
 Fortbildung für den Erhalt des verbleibenden Befähigungszeugnisses
 nach § 3 Abs. 5.
-
 
 ## § 5 Zusatzschulungen für Luftsicherheitskontrollkräfte für Personalkontrollen
 
@@ -321,7 +316,6 @@ Qualifikation
 mehr gültig, richtet sich die notwendige Fortbildung für den Erhalt
 des verbleibenden Befähigungszeugnisses nach § 3 Abs. 5.
 
-
 ## § 6 Zusatzschulungen für Luftsicherheitskontrollkräfte für Frachtkontrollen
 
 (1) Personal, das bereits ein Befähigungszeugnis als
@@ -387,7 +381,6 @@ Qualifikation
 mehr gültig, richtet sich die notwendige Fortbildung für den Erhalt
 des verbleibenden Befähigungszeugnisses nach § 3 Abs. 5.
 
-
 ## § 7 Zusatzschulungen für Luftsicherheitsassistenten
 
 (1) Personal, das bereits erfolgreich für den Einsatz nach § 5 Abs. 1
@@ -442,7 +435,6 @@ Bundesministeriums des Innern. Entfällt die Qualifikation als
 Luftsicherheitsassistent, so richtet sich die notwendige Fortbildung
 für den Erhalt des Befähigungszeugnisses nach § 3 Abs. 5.
 
-
 ## § 8 Schulungen für sonstiges Personal
 
 (1) Die Schulung des sonstigen Personals muss mindestens drei Stunden
@@ -470,7 +462,6 @@ sonstigen Personals verpflichtet.
 
 (3) Schulung und Einweisung müssen nach spätestens fünf Jahren
 wiederholt werden.
-
 
 ## § 9 Lernerfolgskontrollen, Prüfungen
 
@@ -502,7 +493,6 @@ zusätzlich ein weiteres Befähigungszeugnis anstrebt, werden auf die
 praktischen Prüfungsteile für das angestrebte Befähigungszeugnis
 beschränkt.
 
-
 ## § 10 Prüfungszweck
 
 Die Prüfung von Luftsicherheitskontrollkräften dient der Feststellung,
@@ -520,10 +510,6 @@ durchzuführen:
 
 3.  Frachtkontrollen gemäß § 9 Abs. 1 Satz 1 Nr. 1 des
     Luftsicherheitsgesetzes.
-
-
-
-
 
 ## § 11 Prüfungsausschuss
 
@@ -545,7 +531,6 @@ vom ordnungsgemäßen Zustand dieser Räume und Gegenstände überzeugen.
 Satz 2 qualifiziert sein. Eine Zulassung gemäß § 2 Abs. 2 ist
 entbehrlich. Ein Ausbilder kann nicht an der Prüfung der von ihm
 ausgebildeten Luftsicherheitskontrollkräfte mitwirken.
-
 
 ## § 12 Zulassungsvoraussetzungen, Fristen
 
@@ -578,7 +563,6 @@ Arbeitgeber spätestens mit Beginn der jeweiligen Schulung vorgelegt.
 Der Arbeitgeber übergibt der Luftsicherheitsbehörde spätestens sieben
 Werktage vor dem Prüfungstermin eine namentliche Aufstellung der
 Prüflinge.
-
 
 ## § 13 Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personal- und Warenkontrollen
 
@@ -622,7 +606,6 @@ Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums
 des Innern und des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung festgelegt.
 
-
 ## § 14 Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personalkontrollen
 
 (1) Die Prüfung umfasst einen theoretischen und einen praktischen
@@ -660,7 +643,6 @@ Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums
 des Innern und des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung festgelegt.
 
-
 ## § 15 Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Frachtkontrollen
 
 (1) Die Prüfung umfasst einen theoretischen und zwei praktische Teile.
@@ -690,14 +672,12 @@ praktischen Prüfungsteile werden vom Prüfungsausschuss anhand der
 näheren Vorgaben des Bundesministeriums des Innern und des
 Bundesministeriums für Verkehr, Bau und Stadtentwicklung festgelegt.
 
-
 ## § 16 Zulassung zur praktischen Prüfung
 
 Zur praktischen Prüfung wird nur zugelassen, wer die theoretische
 Prüfung bestanden hat. Wer den ersten Teil der praktischen Prüfung
 nicht bestanden hat, wird zur weiteren praktischen Prüfung nicht
 zugelassen.
-
 
 ## § 17 Bewertung von Prüfungsleistungen
 
@@ -729,7 +709,6 @@ Prozent der zu erreichenden Punktzahl erzielt werden.
 Prüfungsausschusses unabhängig; bei unterschiedlichen Auffassungen
 entscheidet der oder die Vorsitzende.
 
-
 ## § 18 Täuschung, sonstige Verstöße
 
 Hat ein Prüfling die ordnungsgemäße Durchführung der Prüfung in
@@ -738,7 +717,6 @@ gemacht, kann der Vorsitzende die gesamte Prüfung für nicht bestanden
 erklären und den Prüfling bei schwerwiegenden Verstößen von einer
 Wiederholungsprüfung ausschließen. Eine solche Entscheidung ist nur
 bis zum Abschluss der gesamten Prüfung zulässig.
-
 
 ## § 19 Wiederholung der Prüfung
 
@@ -751,7 +729,6 @@ eine weitere Wiederholung der Prüfung ohne erneute Schulung zulassen.
 und ein praktischer Prüfungsteil bestanden, erhält der Prüfling von
 der Luftsicherheitsbehörde hierüber eine Bestätigung, die er bei der
 erneuten Anmeldung zum praktischen Prüfungsteil vorzulegen hat.
-
 
 ## § 20 Schulungsbescheinigungen, Befähigungszeugnisse, Zulassungen
 
@@ -788,7 +765,6 @@ Luftsicherheitskontrollkräfte für Personal- und Warenkontrollen an bis
 zu sieben Tagen pro Kalenderjahr bei einem Flugplatzbetreiber oder
 Luftfahrtunternehmen zulassen.
 
-
 ## § 21 Musterlehrpläne und Formulare
 
 Das Bundesministerium des Innern erstellt im Einvernehmen mit dem
@@ -799,7 +775,6 @@ der bestandenen Theorieprüfung nach § 19 Abs. 2, die
 Schulungsbescheinigung nach § 20 Abs. 1 und die Ausstellung von
 Befähigungszeugnissen nach § 20 Abs. 2. Diese Formulare sind zu
 verwenden.
-
 
 ## § 22 Übergangsvorschriften
 

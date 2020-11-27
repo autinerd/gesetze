@@ -20,12 +20,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 9.12.2010 I 1934
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -39,7 +37,6 @@ Europäischen Union.
 (2) Unberührt von den Vorschriften dieses Gesetzes und den auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen bleiben die Vorschriften
 des Lebensmittelrechts und des Weinrechts.
-
 
 ## § 2 Bescheinigungsverfahren
 
@@ -69,7 +66,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates das
 Bescheinigungsverfahren zu regeln, soweit dies zur Durchführung der in
 § 1 Abs. 1 genannten Rechtsakte erforderlich ist.
 
-
 ## § 3 Unterlassungs- und Schadensersatzanspruch
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die
@@ -89,7 +85,6 @@ vorsätzlich oder fahrlässig gehandelt hat, der Schadensersatzanspruch
 auch gegen den Inhaber des Betriebes begründet.
 
 (4) (weggefallen)
-
 
 ## § 4 Überwachung
 
@@ -154,7 +149,6 @@ bedarf, die Voraussetzungen und das Verfahren der Überwachung der
 Agrarerzeugnisse oder Lebensmittel beim innergemeinschaftlichen
 Verbringen oder bei der Einfuhr oder Ausfuhr zu regeln.
 
-
 ## § 5 Private Kontrollstellen
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
@@ -168,7 +162,6 @@ Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch
 Rechtsverordnung ganz oder teilweise auf andere Behörden zu
 übertragen.
 
-
 ## § 6 Gebühren und Auslagen
 
 (1) Für Amtshandlungen, die nach Artikel 14 der Verordnung (EWG) Nr.
@@ -177,7 +170,6 @@ Gebühren und Auslagen erhoben.
 
 (2) Die nach Absatz 1 kostenpflichtigen Tatbestände werden durch
 Landesrecht bestimmt.
-
 
 ## § 7 Strafvorschriften
 
@@ -203,7 +195,6 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als
 Straftat nach Absatz 1 geahndet werden können, soweit es zur
 Durchsetzung der in § 1 Abs. 1 genannten Rechtsakte erforderlich ist.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -249,7 +240,6 @@ Handlungen fahrlässig begeht.
 Geldbuße bis zu fünfundzwanzigtausend Euro und in den Fällen des
 Absatzes 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ## § 9 Einziehung
 
 Ist eine Straftat nach § 7 Abs. 1 oder 2 oder eine Ordnungswidrigkeit
@@ -258,7 +248,6 @@ sich die Straftat oder Ordnungswidrigkeit bezieht, und Gegenstände,
 die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt
 gewesen sind, eingezogen werden. § 74a des Strafgesetzbuchs und § 23
 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
-
 
 ## § 10 Inkrafttreten
 

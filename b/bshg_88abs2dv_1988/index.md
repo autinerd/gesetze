@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 15 G v. 27.12.2003 I 3022
 
-
 ## Eingangsformel
 
 Auf Grund des § 88 Abs. 4 des Bundessozialhilfegesetzes in der Fassung
 der Bekanntmachung vom 20. Januar 1987 (BGBl. I S. 401) wird mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -88,7 +86,6 @@ Elternteils zu berücksichtigen, bei dem die nachfragende Person lebt;
 lebt sie bei keinem Elternteil, so ist Absatz 1 Satz 1 Nr. 1
 anzuwenden.
 
-
 ## § 2
 
 (1) Der nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe a oder b maßgebende
@@ -102,18 +99,15 @@ Belastungen zu berücksichtigen.
 Betrag kann angemessen herabgesetzt werden, wenn die Voraussetzungen
 der §§ 103 oder 94 des Gesetzes vorliegen.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 136 des Zwölften Buches Sozialgesetzbuch auch im Land
 Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt am 1. April 1988 in Kraft.
-
 
 ## Schlußformel
 

@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 927
 
-
-
 ## Eingangsformel
 
 Auf Beschluß der Bundesregierung gebe ich folgendes bekannt:
-
 
 ## 1.
 
@@ -33,7 +30,6 @@ geschlossenem Gefieder, Schnabel, Zunge und Fänge von roter Farbe.
 Dienststellenbezeichnung mit schwarzer Schrift angebracht. In der
 Beschriftung ist der Artikel wegzulassen.
 
-
 ## 2.
 
 (1) Befinden sich in einem Gebäude mehrere zur Führung des
@@ -42,7 +38,6 @@ sie ein gemeinsames Schild mit dem Bundesadler verwenden.
 
 (2) Die Dienststellenbezeichnungen werden in diesem Fall auf
 besonderen, untereinander aufgehängten Anhängeschildern angeführt.
-
 
 ## 3.
 
@@ -126,12 +121,10 @@ betragen in Zentimetern:
 bestimmt sich nach der Größe und Gestaltung des Gebäudes und der
 Fläche, auf der das Amtsschild befestigt werden soll.
 
-
 ## 4.
 
 Für die Gestaltung der Amtsschilder und ihre Beschriftung ist das
 beigefügte Muster maßgebend.
-
 
 ## 5.
 
@@ -147,12 +140,10 @@ Bundesbehörden im Sinne des Absatzes 1.
 Zweifelsfällen der Bundesminister des Innern im Benehmen mit den
 zuständigen Fachministern.
 
-
 ## 6.
 
 Die Bestimmungen über die Amtsschilder der deutschen Vertretungen im
 Ausland erläßt das Auswärtige Amt.
-
 
 ## Schlußformel
 

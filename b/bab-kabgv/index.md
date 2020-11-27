@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 15.12.2001 I 3762
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 3 Satz 2 des Bundesfernstraßengesetzes in der
@@ -28,7 +27,6 @@ geändert durch das Vierte Gesetz zur Änderung des
 Bundesfernstraßengesetzes vom 18. Juni 1997 (BGBl. I S. 1452),
 verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Höhe der Konzessionsabgabe
 
@@ -57,7 +55,6 @@ Konzessionsabgabe um 25 vom Hundert, solange dem Bund als
 Baulastträger für die Bundesfernstraßen keine Kosten für das Errichten
 und Unterhalten einer Verkehrsanlage an diesem Nebenbetrieb entstehen.
 
-
 ## § 2 Fälligkeit der Konzessionsabgabe
 
 (1) Der Konzessionsinhaber hat dem Bundesamt für Güterverkehr
@@ -80,7 +77,6 @@ nach Feststellung der Jahresabrechnung zu leisten.
 anderen Umsätze an das Bundesamt für Güterverkehr ist das als Anlage
 beigefügte Formblatt zu verwenden.
 
-
 ## § 3 Vorlage der Geschäftsunterlagen
 
 Der Konzessionsinhaber hat dem Bundesamt für Güterverkehr auf
@@ -90,7 +86,6 @@ erforderlich sind. Überläßt der Konzessionsinhaber das Recht auf
 Ausübung der Konzession einem Dritten, so obliegen auch dem Dritten
 die Pflichten aus Satz 1.
 
-
 ## § 4 Sicherheitsleistung
 
 Zur Sicherung der Ansprüche auf Zahlung der Konzessionsabgabe kann das
@@ -98,7 +93,6 @@ Bundesamt für Güterverkehr vom Konzessionsinhaber Sicherheit im Form
 einer unbefristeten selbstschuldnerischen Bankbürgschaft verlangen.
 Anstelle der Bürgschaft kann auch eine gleichwertige Sicherheit
 anderer Art geleistet werden.
-
 
 ## § 5 Anwendung der Abgabenordnung
 
@@ -112,12 +106,10 @@ bis 222, 224, 234, 240 bis 248), über die Vollstreckung (§§ 249 bis
 346) und des Umsatzsteuergesetzes über Aufzeichnungspflichten (§ 22)
 sinngemäß anzuwenden.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendervierteljahres in Kraft.
-
 
 ## Anlage (zu § 2 Abs. 3) Konzessionsabgabe
 

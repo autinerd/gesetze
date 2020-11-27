@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1953, Nr 50
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24
 Abs. 4, des § 35 Abs. 2 und des § 76 des Bereinigungsgesetzes für
 deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553)
 verordnet die Bundesregierung:
-
 
 ## § 1 Geltungsbereich und Begriffsbestimmungen
 
@@ -42,7 +39,6 @@ Auslandsbevollmächtigte" den für die Vereinigten Staaten von Amerika
 gemäß § 8 Abs. 1 des Gesetzes bestellten Auslandsbevollmächtigten
 sowie die nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter
 des Auslandsbevollmächtigten.
-
 
 ## § 2 Hinterlegung der Bonds (§ 23 Abs. 2 bis 5 des Gesetzes)
 
@@ -68,7 +64,6 @@ Hinterlegungsstellen).
 Hinterlegungsstellen sind im Bundesanzeiger sowie in der von der
 Regierung der Vereinigten Staaten bezeichneten Weise bekanntzumachen.
 
-
 ## § 3 Bereinigungsstelle (§ 9 Abs. 5 des Gesetzes)
 
 (1) Die Aufgaben des Auslandsbevollmächtigten mit Ausnahme der sich
@@ -82,7 +77,6 @@ eines ihrer Mitglieder mit bestimmten Aufgaben beauftragen.
 
 (2) Für das Verfahren vor der Bereinigungsstelle gilt § 9 Abs. 3 des
 Gesetzes sinngemäß, soweit diese Verordnung nichts anderes bestimmt.
-
 
 ## § 4 Inhalt der Anmeldung und Beweisführung (§§ 22, 24 des Gesetzes)
 
@@ -161,7 +155,6 @@ und sich für die Bereinigungsstelle kein Grund ergibt, die vom
 Anmelder in seiner Anmeldung gemachten Angaben zu bezweifeln, so ist
 der angemeldete Auslandsbond anzuerkennen.
 
-
 ## § 5 Verfahren nach der Anmeldung (§ 24 Abs. 2, 3, § 27 Abs. 2 des Gesetzes)
 
 (1) Nach Eingang der Anmeldung trifft die Bereinigungsstelle
@@ -194,7 +187,6 @@ fälschungssicher hergestellte Bescheinigung angeheftet wird, es sei
 denn, daß der Anmelder vor dieser Anordnung den Umtausch des Bonds
 gegen einen neuen Bond verlangt hat und daß der neue Bond im Zeitpunkt
 der Anordnung zur Aushändigung an den Anmelder zur Verfügung steht.
-
 
 ## § 6 Gesetzliche Schiedsgerichte (§ 35 des Gesetzes)
 
@@ -267,7 +259,6 @@ Zahlungsagenten von der Entscheidung.
 (12) Im übrigen bestimmen die Schiedsgerichte ihr Verfahren nach
 freiem Ermessen.
 
-
 ## § 7 Zustellungen (§ 70 des Gesetzes)
 
 (1) Zustellungen auf Grund dieser Verordnung erfolgen durch
@@ -276,7 +267,6 @@ eingeschriebenen Brief gegen Rückschein.
 (2) Die sonstigen Zustellungen in den Vereinigten Staaten auf Grund
 des Gesetzes erfolgen in derselben Weise.
 
-
 ## § 8 Nebenurkunden (§ 5 Abs. 1 des Gesetzes)
 
 Die Anerkennung eines Dollarbonds erstreckt sich auf die dazu
@@ -284,14 +274,12 @@ ausgegebenen Zins-, Gewinnanteil-, Erneuerungs- und Bezugscheine sowie
 anderen Nebenurkunden derselben Stücknummer, auch wenn diese
 Nebenurkunden nicht vorgelegt werden.
 
-
 ## § 9 Land Berlin
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im
 Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar
 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt
 diese Verordnung auch im Land Berlin.
-
 
 ## § 10 Inkrafttreten
 

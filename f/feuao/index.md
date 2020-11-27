@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1557
 
-
-
 ## Eingangsformel
 
 Auf Grund § 82 Abs. 1 des Gesetzes vom 20. Juli 1990 über die
@@ -25,7 +23,6 @@ Bauordnung (BauO) (GBl. I Nr. 50 S. 929) in Verbindung mit § 2 Abs. 2
 des Gesetzes vom 20. Juli 1990 zur Einführung des Gesetzes vom 20.
 Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50 S. 950) wird
 folgendes angeordnet:
-
 
 ## Inhaltsverzeichnis
 
@@ -57,13 +54,6 @@ folgendes angeordnet:
 
 
     § 9 Inkrafttreten
-
-
-
-
-
-
-
 
 ## § 1 Geltungsbereich, Begriffe
 
@@ -113,10 +103,6 @@ der Gruppe IV im Sinne der Verordnung über Dampfkesselanlagen
 2.  höchstmögliche Wärmeleistung in den Fällen der Nr. 1 Buchstabe a und c
     die Nennwärmeleistung, im Falle der Nr. 1 Buchstabe b die obere Grenze
     des Leistungsbereiches.
-
-
-
-
 
 ## § 2 Feuerstätten, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung
 
@@ -210,7 +196,6 @@ beschaffen sein, daß durch undichte Wärmetauscherwände die Wärmeträger
 oder Kältemittel nicht in gefahrdrohender Menge in die
 Warmwasserversorgungsanlage eindringen können.
 
-
 ## § 3 Verbindungsstücke
 
 (1) Abgasrohre und Abgaskanäle (Verbindungsstücke) müssen aus form-
@@ -234,7 +219,6 @@ das Aufstellen von Feuerstätten unzulässig ist.
 daß eine Brandgefahr nicht entsteht. Führen Abgasrohre durch Bauteile
 mit brennbaren Baustoffen, so sind diese Bauteile durch geeignete
 Vorkehrungen zu schützen.
-
 
 ## § 4 Schornsteine und andere Abgasanlagen
 
@@ -339,7 +323,6 @@ großflächige Erwärmung nicht gefährden.
 und 4 zugelassen werden, wenn wegen der Stand- oder Betriebssicherheit
 und des Brandschutzes Bedenken nicht bestehen.
 
-
 ## § 5 Ableitung der Abgase
 
 (1) Die Ableitung der Abgase der Feuerstätten über Dach muß so
@@ -386,7 +369,6 @@ beziehen, dessen Höhe unter Zugrundelegung einer Dachneigung von
 Lüftungsöffnungen und Fenstern so angeordnet sein, daß Gefahren oder
 unzumutbare Belästigungen, auch für Nachbarn, nicht entstehen.
 
-
 ## § 6 Rohrleitungen
 
 Rohrleitungen in Gebäuden einschließlich der Formstücke und Armaturen
@@ -396,7 +378,6 @@ bestimmungsgemäßen Gebrauch auftretenden Beanspruchungen standhalten.
 Sie dürfen einschließlich ihrer Wärmedämmung oder sonstigen
 Ummantelungen nicht die Brandsicherheit gefährden und bei äußerer
 Brandeinwirkung nicht zu einer Explosionsgefahr führen.
-
 
 ## § 7 Aufstellräume von Feuerstätten
 
@@ -511,7 +492,6 @@ beeinträchtigt wird. Bei Feuerstätten für Flüssiggas müssen die
 Lüftungsanlagen mindestens für einen eineinhalbfachen Luftwechsel je
 Stunde bemessen und ständig wirksam sein.
 
-
 ## § 8 Feuerungsanlagen besonderer Art
 
 (1) Andere Anforderungen als nach den §§ 2 bis 7 können an
@@ -537,15 +517,10 @@ deren Ergebnis.
     andere Feuerstätten mit nachgeschalteten Heizflächen zur
     Wärmegewinnung durch Verminderung der Abgastemperatur.
 
-
-
-
-
 ## § 9 Inkrafttreten
 
 Diese Anordnung tritt am 1. März 1991 in Kraft. § 7 Abs. 3 tritt am
 Tage nach der Veröffentlichung im Gesetzblatt in Kraft.
-
 
 ## Schlußformel
 

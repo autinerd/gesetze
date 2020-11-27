@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1791
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 5 des Postpersonalrechtsgesetzes vom 14.
@@ -25,7 +23,6 @@ September 1994 (BGBl. I S. 2325, 2353), der durch Artikel 1 Nr. 3 des
 Gesetzes vom 9. November 2004 (BGBl. I S. 2774) eingefügt worden ist,
 verordnet das Bundesministerium der Finanzen auf Vorschlag des
 Vorstands der Deutschen Telekom AG:
-
 
 ## § 1 Geltungsbereich
 
@@ -38,7 +35,6 @@ Telekom AG beschäftigt sind, die Vorschriften des § 2. Gleiches gilt
 auch für die Beamtinnen und Beamten bei der Deutschen Telekom AG,
 denen nach § 4 Abs. 4 des Postpersonalrechtsgesetzes Tätigkeiten bei
 Unternehmen zugewiesen sind.
-
 
 ## § 2 Jubiläumszuwendung
 
@@ -57,7 +53,6 @@ vor dem Tag des Dienstjubiläums über das Angebot zu informieren.
 dem Jubiläumstag nicht aus oder verzichten sie bis dahin ausdrücklich
 auf ihr Wahlrecht, gilt § 2 Abs. 1 der Verordnung über die Gewährung
 von Jubiläumszuwendungen an Beamte und Richter des Bundes.
-
 
 ## § 3 Inkrafttreten
 

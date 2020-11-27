@@ -20,14 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 20.12.2010 I 2194
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 1 Nr. 3 Buchstabe a und c, des § 17 Abs. 1 Nr.
 1 Buchstabe a bis c sowie Abs. 5 des  Chemikaliengesetzes in der
 Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2090)
 verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
-
 
 ## § 1 Zweck und Anwendungsbereich
 
@@ -38,7 +36,6 @@ Produkten der Fahrzeugreparaturlackierung zu begrenzen, um die aus dem
 Beitrag der flüchtigen organischen Verbindungen zur Bildung von
 bodennahem Ozon resultierende Luftverschmutzung zu vermeiden oder zu
 verringern.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -143,7 +140,6 @@ Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
 Im Übrigen gelten die Begriffsbestimmungen des Chemikaliengesetzes.
 
-
 ## § 3 Verbote
 
 (1) In Anhang I aufgeführte
@@ -193,7 +189,6 @@ nicht erfüllen, dürfen bis zu zwölf Monate nach dem Inkrafttreten der
 für die betreffenden Stoffe und Gemische geltenden Anforderung in den
 Verkehr gebracht werden.
 
-
 ## § 4 Kennzeichnung
 
 Der Hersteller oder Einführer hat die in Anhang I aufgeführten
@@ -208,10 +203,6 @@ a)  die Produktkategorie des gebrauchsfertigen Produktes und die
 
 b)  der maximale Gehalt an flüchtigen organischen Verbindungen des
     gebrauchsfertigen Produktes in g/l.
-
-
-
-
 
 ## § 5 Überprüfung der Einhaltung der Verordnung
 
@@ -232,7 +223,6 @@ Länder entsprechend den Anforderungen des Artikels 7 der Richtlinie
 2004/42/EG Berichte über die Überwachung dieser Verordnung sowie über
 erteilte Erlaubnisse.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 5 Buchstabe c des
@@ -240,23 +230,19 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 § 4 ein Produkt nicht, nicht richtig, nicht vollständig oder nicht
 rechtzeitig mit einem Etikett versieht.
 
-
 ## § 7 Straftaten
 
 Nach § 27 Abs. 1 Nr. 1, Abs. 2 bis 4 des Chemikaliengesetzes wird
 bestraft, wer entgegen § 3 Abs. 1 eine Farbe, einen Lack oder ein
 Produkt in den Verkehr bringt.
 
-
 ## § 8 Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang I Geregelte gebrauchsfertige Produkte
 
@@ -412,13 +398,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         Unterbodenversiegelungsmittel, Schutzlacke gegen Steinschlag, Lacke
         für die Innenlackierung, Beschichtungsstoffe für spezielle
         militärische Anwendungen und Lacke in Sprühdosen (Aerosole).
-
-
-
-
-
-
-
 
 ## Anhang II Grenzwerte für den VOC-Höchstgehalt
 
@@ -809,10 +788,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Zur Bestimmung des VOC-Gehalts ist außer bei der Produktkategorie a
     der Wassergehalt des gebrauchsfertigen Produkts abzuziehen.
-
-
-
-
 
 ## Anhang III Methoden gemäß § 3 Abs. 2
 

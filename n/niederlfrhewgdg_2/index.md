@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 70 G v. 5.10.1994 I 2911
 
-
 ## § 1
 
 (1) Für die Abnahme der in Richtlinien des Rates der Europäischen
@@ -44,7 +43,6 @@ Insolvenzverfahrens mangels Masse abgelehnt worden, so kann sich die
 eidesstattliche Versicherung in entsprechender Weise auf die damit im
 Zusammenhang stehenden näheren Umstände erstrecken.
 
-
 ## § 2
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -67,7 +65,6 @@ und des freien Dienstleistungsverkehrs hinsichtlich der Aufnahme und
 Ausübung gewerblicher Tätigkeiten aufzuheben. Die Rechtsverordnung ist
 gleichzeitig mit der Vorlage an den Bundesrat dem Bundestag zur
 Kenntnisnahme zuzuleiten.
-
 
 ## § 3
 
@@ -92,11 +89,9 @@ milchwirtschaftlichen Betrieb eines Unternehmens der Be- und
 Verarbeitung von Milch (Molkerei, Meierei) verantwortlichen Personen
 (verantwortlicher technischer Leiter) erbracht wird.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -105,7 +100,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 6
 

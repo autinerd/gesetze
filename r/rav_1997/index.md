@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1352
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -56,7 +54,6 @@ verordnet die Bundesregierung und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1997 an 47,44 Deutsche
@@ -64,7 +61,6 @@ Mark.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 1997 an 40,51
 Deutsche Mark.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -78,7 +74,6 @@ Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs.
 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor
 dem 1. Juli 1997 eingetreten sind, werden zum 1. Juli 1997 angepaßt.
 Der Anpassungsfaktor beträgt 1,0527.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -94,10 +89,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     Sozialgesetzbuch anzuwenden ist, zwischen 454 Deutsche Mark und 1.815
     Deutsche Mark monatlich.
 
-
-
-
-
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
@@ -105,7 +96,6 @@ beträgt vom 1. Juli 1997 an 21,91 Deutsche Mark.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 1997 an 18,70 Deutsche Mark.
-
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -184,14 +174,9 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
     *   vom 1. Juli 1996 bis 30. Juni 1997
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1997 in Kraft.
-
 
 ## Schlußformel
 

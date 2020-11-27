@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   Öff Anz: 1949, Nr 10, 2
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 8 der Zweiten Verordnung zur Durchführung des
@@ -25,14 +23,9 @@ Umstellungsgesetzes (Bankenverordnung) werden hiermit die folgenden
 Richtlinien zur Erstellung der Reichsmark-Schlußbilanz und der
 Umstellungsrechnung der Geldinstitute erlassen:
 
-
 ## I. - Allgemeines
 
-
-
 ### (XXXX) 1. bis 7. (weggefallen)
-
-
 
 ### 7a. Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
 
@@ -195,16 +188,6 @@ Passiven
             Reichsmarkschlußbilanz ergebenden Beträge mitberücksichtigt worden
             sind.
 
-
-
-
-
-
-
-
-
-
-
 ### 7b. Grundstücke, Inventar, Warenvorräte
 
 Die bisherigen Ansätze für Grundstücke und Gebäude, Betriebs- und
@@ -226,7 +209,6 @@ soweit beide Posten zusammen nicht mehr als eine Reichsmark für je
 eine Deutsche Mark des Ansatzes für das Grundstück in der
 Umstellungsrechnung ergeben.
 
-
 ### 7c. Kriegssachschäden
 
 (1) Kriegssachschädenforderungen dürfen in der Reichsmarkschlußbilanz
@@ -243,7 +225,6 @@ wiederhergestellt worden ist.
 (2) Für die Bewertung eines wiederbeschafften oder wiederhergestellten
 Gegenstandes oder den gesonderten Ausweis von Wiederaufbaukosten in
 der Reichsmarkschlußbilanz gilt Ziffer 7a Buchstabe A.
-
 
 ### 7d. Zinsansprüche
 
@@ -265,7 +246,6 @@ denen Verpflichtungen im Sinne des § 22 des Umstellungsgesetzes
 gegenüberstehen, dürfen auch insoweit aktiviert werden, als diese
 Zinsen weder nach dem 20. Juni 1948 eingegangen sind, noch mit ihrem
 Eingang gerechnet werden kann.
-
 
 ### 7e. Anleiheablösungsforderungen mit Auslosungsrechten, Reichsschatzanweisungen 1944, Folge III
 
@@ -310,7 +290,6 @@ vom Hundert ein Zinssatz von 5 vom Hundert gilt.
 Anschaffungspreis zuzüglich 3,5 vom Hundert Zinsen auf den Nennbetrag
 für die Zeit vom Anschaffungsstichtag bis zum 8. Mai 1945 erhöht
 werden.
-
 
 ### 7f. Bilanztechnische Behandlung und Auswirkungen von Änderungen bisheriger Ansätze
 
@@ -364,7 +343,6 @@ Verlustrechnung (der Aktivseite der Reichsmarkschlußbilanz) ergibt; im
 (5) Soweit nach Ziffer 7c eine Kriegssachschädenforderung
 abzuschreiben ist, muß dies zu Lasten der Rücklage für
 Ersatzbeschaffung geschehen.
-
 
 ### 7g. Berichtigungen der Reichsmarkschlußbilanz
 
@@ -420,7 +398,6 @@ gemeinsam mit dem ersten vorläufigen Abschluß der Umstellungsrechnung
 oder jeweils in Verbindung mit einer Berichtigung dieses Abschlusses
 zu prüfen.
 
-
 ### 7h. Weitergeltung bisheriger Grundsätze
 
 Soweit in den Vorschriften zur Neuordnung des Geldwesens und in diesen
@@ -430,18 +407,11 @@ maßgebenden Grundsätze, insbesondere auch die von den
 Bankaufsichtsbehörden für die Bankbilanzen ab 1945 erlassenen
 Bilanzierungsrichtlinien.
 
-
 ### (XXXX) 8. bis 16. (weggefallen)
-
-
 
 ## II. bis V.
 
-
-
 ### (XXXX) 17. bis 64. (weggefallen)
-
-
 
 ### Schlußformel
 

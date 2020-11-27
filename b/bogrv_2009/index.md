@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1271
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 3 des Bundesbesoldungsgesetzes, der zuletzt
 durch Artikel 2 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160)
 geändert worden ist, verordnet die Bundesregierung:
-
 
 ## § 1 Beförderungsämter für bestimmte Laufbahnen und Funktionen
 
@@ -144,7 +142,6 @@ Beförderungsämter folgende Obergrenzen nicht überschreiten:
 (3) Die Obergrenzen in Absatz 1 Nummer 3 und 4 sowie in Absatz 2
 gelten nicht für Beamtinnen und Beamte in der Zollverwaltung.
 
-
 ## § 2 Sonderregelungen für Beförderungsämter
 
 (1) Abweichend von § 26 Absatz 1 des Bundesbesoldungsgesetzes gelten
@@ -182,7 +179,6 @@ des Bundes folgende Stellenobergrenzen:
 Beamte des Bundes, soweit § 1 dieser Verordnung günstigere Regelungen
 enthält.
 
-
 ## § 3 Bestandsgarantie
 
 Soweit der Anteil an Beförderungsämtern in den Bundesoberbehörden,
@@ -190,7 +186,6 @@ Anstalten oder vergleichbaren Einrichtungen des Bundes gemäß der bis
 zum 1. Juli 2009 geltenden Rechtslage über den in § 2 dieser
 Verordnung genannten Stellenobergrenzen liegt, gilt dieser Anteil
 unverändert fort.
-
 
 ## § 4 Flexibilisierung
 
@@ -204,7 +199,6 @@ Behörde verbundenen Anforderungen nach Maßgabe sachgerechter Bewertung
 erforderlich ist und ein erhebliches öffentliches Interesse besteht.
 Dies gilt insbesondere bei der Neueinrichtung, der Umstrukturierung
 oder bei Personalüberhängen von Behörden.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

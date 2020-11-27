@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 28.4.2011 I 678
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Aufgaben und Befugnisse der Meldebehörden
 
@@ -45,7 +42,6 @@ oder sonstiger Rechtsvorschriften erheben, verarbeiten oder nutzen.
 Daten nicht meldepflichtiger Einwohner dürfen auf Grund einer den
 Vorschriften des jeweiligen Landesdatenschutzgesetzes entsprechenden
 Einwilligung erhoben, verarbeitet und genutzt werden.
-
 
 ### § 2 Speicherung von Daten
 
@@ -198,7 +194,6 @@ Nachweis ihrer Richtigkeit erforderlichen Hinweise:
 (3) Durch Landesgesetz kann bestimmt werden, dass für die Erfüllung
 von Aufgaben der Länder weitere Daten gespeichert werden.
 
-
 ### § 3 Zweckbindung der Daten
 
 Die Meldebehörden dürfen die in § 2 Abs. 2 bezeichneten oder nach § 2
@@ -224,13 +219,11 @@ dass
 übermittelt werden dürfen. Die in Satz 4 Nr. 1 und 2 genannten Daten
 dürfen auch nach § 17 Abs. 1 übermittelt werden.
 
-
 ### § 4 Datenerhebung
 
 Durch Landesrecht ist zu bestimmen, welche der Daten, die die
 Meldebehörden nach § 2 speichern, bei der An- oder Abmeldung oder der
 Änderung des Wohnungsstatus eines Einwohners erhoben werden.
-
 
 ### § 4a Richtigkeit und Vollständigkeit des Melderegisters
 
@@ -264,7 +257,6 @@ Anhaltspunkte für die Unrichtigkeit oder Unvollständigkeit
 (4) Absatz 1 Satz 2 sowie Absatz 3 sind bei der Weitergabe von Daten
 und Hinweisen nach § 18 Abs. 5 entsprechend anzuwenden.
 
-
 ### § 5 Meldegeheimnis
 
 (1) Den bei Meldebehörden oder anderen Stellen, die im Auftrag der
@@ -280,10 +272,7 @@ Beendigung ihrer Tätigkeit fort.
 (3) Das Nähere über Zeitpunkt und Form der Verpflichtung ist durch
 Landesrecht zu regeln.
 
-
 ## Zweiter Abschnitt - Schutzrechte
-
-
 
 ### § 6 Schutzwürdige Interessen der Betroffenen
 
@@ -296,7 +285,6 @@ Betroffenen unverhältnismäßig belastet. Die Prüfung, ob schutzwürdige
 Interessen der Betroffenen beeinträchtigt werden, entfällt, wenn die
 Erhebung, Verarbeitung oder Nutzung durch Rechtsvorschrift
 vorgeschrieben ist.
-
 
 ### § 7 Rechte des Betroffenen
 
@@ -317,10 +305,6 @@ Gesetzes ein Recht auf unentgeltliche
 
 5.  Speicherung von Übermittlungssperren nach § 19 Abs. 2 Satz 4, § 21
     Abs. 1a, 5 und 7 und § 22 Abs. 1.
-
-
-
-
 
 ### § 8 Auskunft an den Betroffenen
 
@@ -408,13 +392,11 @@ zuständigen Stelle an den Betroffenen darf keine Rückschlüsse auf den
 Erkenntnisstand der verantwortlichen Stelle zulassen, sofern diese
 nicht einer weitergehenden Auskunft zustimmt.
 
-
 ### § 9 Berichtigung und Ergänzung von Daten
 
 Sind gespeicherte Daten unrichtig oder unvollständig, hat die
 Meldebehörde die Daten auf Antrag des Betroffenen zu berichtigen oder
 zu ergänzen. § 4a Abs. 1 Satz 2 gilt entsprechend.
-
 
 ### § 10 Löschung und Aufbewahrung von Daten
 
@@ -467,10 +449,7 @@ Satz 1 und des Absatzes 3 die Daten vor ihrer Löschung oder
 gesonderten Aufbewahrung dem zuständigen Archiv zur Übernahme
 angeboten werden.
 
-
 ## Dritter Abschnitt - Meldepflichten
-
-
 
 ### § 11 Allgemeine Meldepflicht
 
@@ -513,7 +492,6 @@ muss die Vollmacht öffentlich oder nach § 6 Abs. 2 des
 Betreuungsbehördengesetzes durch die Urkundsperson bei der
 Betreuungsbehörde beglaubigt sein.
 
-
 ### § 12 Mehrere Wohnungen
 
 (1) Hat ein Einwohner mehrere Wohnungen im Inland, so ist eine dieser
@@ -540,7 +518,6 @@ Hauptwohnung die Wohnung nach Satz 1.
 
 (3) Nebenwohnung ist jede weitere Wohnung des Einwohners.
 
-
 ### § 13 Binnenschiffer und Seeleute
 
 (1) Wer auf ein Binnenschiff zieht, das in einem Schiffsregister in
@@ -557,7 +534,6 @@ Heuer- oder Ausbildungsverhältnisses abzumelden. Zuständig ist die
 Meldebehörde am Sitz des Reeders. Die Meldepflicht besteht nicht für
 Personen, die im Inland für eine Wohnung nach § 11 Abs. 1 gemeldet
 sind.
-
 
 ### § 14 Befreiung von der Meldepflicht
 
@@ -578,7 +554,6 @@ Von der Meldepflicht nach § 11 Abs. 1 und 2 sind befreit
 
 Die Befreiung von der Meldepflicht nach Satz 1 Nr. 1 tritt nur ein,
 wenn die Gegenseitigkeit besteht.
-
 
 ### § 15 Ausnahmen von der Meldepflicht
 
@@ -621,7 +596,6 @@ Satz 1 gilt nicht für Spätaussiedler und ihre Familienangehörigen,
 soweit sie nach § 8 des Bundesvertriebenengesetzes mitverteilt werden,
 und Ausländer, soweit sie in einer Aufnahmeeinrichtung oder einer
 sonstiger Durchgangsunterkunft wohnen.
-
 
 ### § 16 Besondere Meldepflicht in Beherbergungsstätten, Krankenhäusern, Heimen und ähnlichen Einrichtungen
 
@@ -667,10 +641,7 @@ Meldevordrucke nach Absatz 1 oder der Verzeichnisse nach Absatz 2
 sowie das Nähere über ihre Bereithaltung für die zuständige Behörde
 oder die Übermittlung an diese sind durch Landesrecht zu regeln.
 
-
 ## Vierter Abschnitt - Datenübermittlungen
-
-
 
 ### § 17 Datenübermittlungen zwischen den Meldebehörden
 
@@ -705,7 +676,6 @@ auch für die Aufhebung einer Auskunftssperre.
 meldebehördliches Rückmeldeverfahren mit Stellen des Auslands
 vorgesehen ist, gehen die darin getroffenen Vereinbarungen den
 Regelungen nach den Absätzen 1 bis 3 vor.
-
 
 ### § 18 Datenübermittlungen an andere Behörden oder sonstige öffentliche Stellen
 
@@ -853,7 +823,6 @@ Die Betroffenen sind auf ihr Widerspruchsrecht bei der Anmeldung und
 im Oktober eines jeden Jahres durch öffentliche Bekanntmachung
 hinzuweisen.
 
-
 ### § 19 Datenübermittlungen an öffentlich-rechtliche Religionsgesellschaften
 
 (1) Die Meldebehörde darf einer öffentlich-rechtlichen
@@ -949,7 +918,6 @@ ist durch Landesrecht zu bestimmen.
 
 (4) § 18 Abs. 1a gilt entsprechend.
 
-
 ### § 20 Rechtsverordnungen zur Datenübermittlung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -979,10 +947,6 @@ ist
 
 2.  die Bekanntmachung beim Bundesarchiv niederzulegen und in der
     Rechtsverordnung darauf hinzuweisen.
-
-
-
-
 
 ### § 21 Melderegisterauskunft
 
@@ -1145,7 +1109,6 @@ folgenden Kalenderjahres; sie kann auf Antrag verlängert werden.
 (8) Die Absätze 1 bis 7 gelten auch für öffentlich-rechtliche
 Rundfunkanstalten, soweit sie publizistische Tätigkeiten ausüben.
 
-
 ### § 22 Melderegisterauskünfte in besonderen Fällen
 
 (1) Die Meldebehörde darf Parteien, Wählergruppen und anderen Trägern
@@ -1168,10 +1131,7 @@ Regelung dieser Auskunft nicht widersprochen hat. Wird die Auskunft
 erteilt, so darf sie nur die in § 21 Abs. 1 Satz 1 genannten Daten des
 Betroffenen sowie Tag und Art des Jubiläums umfassen.
 
-
 ## Fünfter Abschnitt - Anpassungs- und Schlussvorschriften
-
-
 
 ### § 23 Anpassung der Landesgesetzgebung; unmittelbare Geltung
 
@@ -1198,11 +1158,9 @@ Zweite Gesetz zur Änderung des Melderechtsrahmengesetzes geänderten
 oder eingefügten Vorschriften dieses Gesetzes bis zum 1. August 2001
 anzupassen.
 
-
 ### § 24
 
 (weggefallen)
-
 
 ### § 24 Übergangsbestimmung
 
@@ -1212,22 +1170,18 @@ verarbeitbaren Datenträgern zulässig, sofern bei der Meldebehörde die
 technischen Voraussetzungen für eine Datenübertragung noch nicht
 vorliegen.
 
-
 ### (XXXX) §§ 25 und 26 (weggefallen)
 
 (Änderung anderer Gesetze)
-
 
 ### § 25 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2011
 
 Bis zum 30. September 2011 gilt § 18 Absatz 7 Satz 2 mit der Maßgabe,
 dass die öffentliche Bekanntmachung bis zum 31. August erfolgt.
 
-
 ### § 27
 
 (gegenstandslos)
-
 
 ### § 28
 

@@ -21,15 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2a G v. 19.10.2012 I 2192
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Ziel und Anwendungsbereich des Gesetzes
 
@@ -55,10 +52,6 @@ Handels mit menschlichen Organen oder Geweben.
 
 
 2.  Blut und Blutbestandteile.
-
-
-
-
 
 ### § 1a Begriffsbestimmungen
 
@@ -144,10 +137,6 @@ Im Sinne dieses Gesetzes
     identifizieren sowie alle sachdienlichen, nicht personenbezogenen
     Daten über Produkte und Materialien, mit denen das Organ in Berührung
     kommt, zu ermitteln und zu identifizieren.
-
-
-
-
 
 ### § 2 Aufklärung der Bevölkerung, Erklärung zur Organ- und Gewebespende, Organ- und Gewebespenderegister, Organ- und Gewebespendeausweise
 
@@ -286,9 +275,7 @@ Gewebeentnahme zu unterrichten ist.
 mit Zustimmung des Bundesrates ein Muster für den Organ- und
 Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
 
-
 ## Abschnitt 2 - Entnahme von Organen und Geweben bei toten Spendern
-
 
 ### § 3 Entnahme mit Einwilligung des Spenders
 
@@ -332,7 +319,6 @@ unterrichten. Die entnehmende Person hat Ablauf und Umfang der Organ-
 oder Gewebeentnahme aufzuzeichnen. Der nächste Angehörige hat das
 Recht auf Einsichtnahme. Er kann eine Person seines Vertrauens
 hinzuziehen.
-
 
 ### § 4 Entnahme mit Zustimmung anderer Personen
 
@@ -380,7 +366,6 @@ nächsten Angehörigen sowie der Personen nach Absatz 2 Satz 5 und
 Absatz 3 aufzuzeichnen. Die nächsten Angehörigen sowie die Personen
 nach Absatz 2 Satz 5 und Absatz 3 haben das Recht auf Einsichtnahme.
 
-
 ### § 4a Entnahme bei toten Embryonen und Föten
 
 (1) Die Entnahme von Organen oder Geweben bei einem toten Embryo oder
@@ -417,7 +402,6 @@ widerrufen werden.
 oder Fötus schwanger war, nur für die Zwecke der Dokumentation, der
 Rückverfolgung und des Datenschutzes als Spenderin.
 
-
 ### § 5 Nachweisverfahren
 
 (1) Die Feststellungen nach § 3 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Nr. 2
@@ -450,7 +434,6 @@ Niederschrift aufzuzeichnen und zu unterschreiben. Der Frau, die mit
 dem Embryo oder Fötus schwanger war, ist Gelegenheit zur Einsichtnahme
 zu geben. Sie kann eine Person ihres Vertrauens hinzuziehen.
 
-
 ### § 6 Achtung der Würde des Organ- und Gewebespenders
 
 (1) Die Organ- oder Gewebeentnahme bei verstorbenen Personen und alle
@@ -464,7 +447,6 @@ Angehörigen Gelegenheit zu geben, den Leichnam zu sehen.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für tote Embryonen und
 Föten.
-
 
 ### § 7 Datenerhebung und -verwendung; Auskunftspflicht
 
@@ -568,9 +550,7 @@ beabsichtigt ist, zusammen eingeholt werden. Sie darf erst eingeholt
 werden, nachdem der Tod des möglichen Organ- oder Gewebespenders nach
 § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist.
 
-
 ## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden Spendern
-
 
 ### § 8 Entnahme von Organen und Geweben
 
@@ -674,7 +654,6 @@ erfahrene Person angehören. Das Nähere, insbesondere zur
 Zusammensetzung der Kommission, zum Verfahren und zur Finanzierung,
 wird durch Landesrecht bestimmt.
 
-
 ### § 8a Entnahme von Knochenmark bei minderjährigen Personen
 
 Die Entnahme von Knochenmark bei einer minderjährigen Person zum
@@ -716,7 +695,6 @@ Familiengericht unverzüglich anzuzeigen, um eine Entscheidung nach §
 1629 Abs. 2 Satz 3 in Verbindung mit § 1796 des Bürgerlichen
 Gesetzbuchs herbeizuführen.
 
-
 ### § 8b Entnahme von Organen und Geweben in besonderen Fällen
 
 (1) Sind Organe oder Gewebe bei einer lebenden Person im Rahmen einer
@@ -733,7 +711,6 @@ bestimmt sind.
 
 (3) Für einen Widerruf der Einwilligung gilt § 8 Abs. 2 Satz 6
 entsprechend.
-
 
 ### § 8c Entnahme von Organen und Geweben zur Rückübertragung
 
@@ -791,9 +768,7 @@ Abs. 2 Satz 4 entsprechend.
 (5) Für einen Widerruf der Einwilligung gilt § 8 Abs. 2 Satz 6
 entsprechend.
 
-
 ## Abschnitt 3a - Gewebeeinrichtungen, Untersuchungslabore, Register
-
 
 ### § 8d Besondere Pflichten der Gewebeeinrichtungen
 
@@ -874,7 +849,6 @@ vor, unterrichtet die zuständige Bundesoberbehörde die für die
 zuständigen Behörde mindestens alle zwei Jahre oder auf Anforderung
 eine Liste der belieferten Einrichtungen der medizinischen Versorgung.
 
-
 ### § 8e Untersuchungslabore
 
 Die für Gewebespender nach § 8d Abs. 1 Satz 2 Nr. 3 vorgeschriebenen
@@ -883,7 +857,6 @@ vorgenommen werden, für das eine Erlaubnis nach den Vorschriften des
 Arzneimittelgesetzes erteilt worden ist. Das Untersuchungslabor ist
 verpflichtet, eine Qualitätssicherung für die nach § 8d Abs. 1 Satz 2
 Nr. 3 vorgeschriebenen Laboruntersuchungen sicherzustellen.
-
 
 ### § 8f Register über Gewebeeinrichtungen
 
@@ -913,9 +886,7 @@ Benutzung des Registers regeln. In der Rechtsverordnung kann auch eine
 Übermittlung der Angaben an Einrichtungen und Behörden innerhalb und
 außerhalb des Geltungsbereichs dieses Gesetzes vorgesehen werden.
 
-
 ## Abschnitt 4 - Entnahme, Vermittlung und Übertragung von Organen, Zusammenarbeit bei der Entnahme von Organen und Geweben
-
 
 ### § 9 Zulässigkeit der Organentnahme und -übertragung, Vorrang der Organspende
 
@@ -940,7 +911,6 @@ Spender von Organen nach § 9a Absatz 2 Nummer 1 ist erst dann
 zulässig, wenn eine von der Koordinierungsstelle beauftragte Person
 dokumentiert hat, dass die Entnahme oder Übertragung von Organen nicht
 möglich ist oder durch die Gewebeentnahme nicht beeinträchtigt wird.
-
 
 ### § 9a Entnahmekrankenhäuser
 
@@ -977,10 +947,6 @@ Entnahmekrankenhäuser schriftlich über diese Benennung.
 
 4.  die auf Grund des § 11 getroffenen Regelungen zur Organentnahme
     einzuhalten.
-
-
-
-
 
 ### § 9b Transplantationsbeauftragte
 
@@ -1035,7 +1001,6 @@ Realisierung einer Organentnahme in begründeten Ausnahmefällen wegen
 der Besonderheiten des Entnahmekrankenhauses ausgeschlossen ist. Die
 Ausnahmen können einer Genehmigung durch die zuständige Behörde
 unterworfen werden.
-
 
 ### § 10 Transplantationszentren
 
@@ -1100,7 +1065,6 @@ die erforderliche Qualität der Organübertragung zu sichern.
 
 
 § 9a Absatz 2 Nummer 2 und 3 gilt entsprechend.
-
 
 ### § 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport
 
@@ -1170,7 +1134,6 @@ für den Organempfänger größer ist als die Risiken auf Grund
 unvollständiger Daten, kann ein Organ auch dann übertragen werden,
 wenn nicht alle in der Rechtsverordnung nach Satz 2 Nummer 1
 festgelegten Mindestangaben vor der Übertragung vorliegen.
-
 
 ### § 11 Zusammenarbeit bei der Entnahme von Organen und Geweben, Koordinierungsstelle
 
@@ -1385,7 +1348,6 @@ werden.
 
 (6) (weggefallen)
 
-
 ### § 12 Organvermittlung, Vermittlungsstelle
 
 (1) Zur Vermittlung der vermittlungspflichtigen Organe errichten oder
@@ -1513,9 +1475,7 @@ zur Arbeitsweise und zum Verfahren regelt der Vertrag nach Absatz 4.
 
 (6) (weggefallen)
 
-
 ## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung, Datenschutz, Fristen
-
 
 ### § 13 Dokumentation, Rückverfolgung, Verordnungsermächtigung zur Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
 
@@ -1579,10 +1539,6 @@ mit Zustimmung des Bundesrates das Verfahren regeln
     Organs zusammenhängen können, und von schwerwiegenden unerwünschten
     Reaktionen beim lebenden Spender.
 
-
-
-
-
 ### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen Versorgung
 
 Die Einrichtungen der medizinischen Versorgung haben dafür zu sorgen,
@@ -1591,7 +1547,6 @@ nach den Vorschriften des Arzneimittelgesetzes oder anderen
 Rechtsvorschriften jedes übertragene Gewebe von dem behandelnden Arzt
 oder unter dessen Verantwortung nach Maßgabe einer Rechtsverordnung
 nach § 16a dokumentiert wird.
-
 
 ### § 13b Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen bei Geweben
 
@@ -1615,7 +1570,6 @@ Rückverfolgbarkeit und für die Qualitäts- und Sicherheitskontrolle
 erforderlich sind, nach Maßgabe einer Rechtsverordnung nach § 16a
 mitzuteilen.
 
-
 ### § 13c Rückverfolgungsverfahren bei Geweben
 
 (1) Jede Gewebeeinrichtung legt ein Verfahren fest, mit dem sie jedes
@@ -1633,7 +1587,6 @@ nachzugehen und das Gewebe von dem Spender zu dem Empfänger oder
 umgekehrt zurückzuverfolgen. Sie hat ferner vorangegangene
 Gewebespenden des Spenders zu ermitteln, zu untersuchen und zu
 sperren, wenn sich der Verdacht bestätigt.
-
 
 ### § 14 Datenschutz
 
@@ -1708,7 +1661,6 @@ jeweiligen Verwandten bekannt gegeben werden, wenn der Gewebespender
 und der Gewebeempfänger oder ihre gesetzlichen Vertreter darin
 ausdrücklich eingewilligt haben.
 
-
 ### § 15 Aufbewahrungs- und Löschungsfristen
 
 (1) Die Aufzeichnungen über die Beteiligung nach § 4 Abs. 4, über die
@@ -1731,9 +1683,7 @@ verfügbar sein.
 (3) Nach Ablauf der Aufbewahrungsfrist nach den Absätzen 1 und 2 sind
 die Angaben zu löschen oder zu anonymisieren.
 
-
 ## Abschnitt 5a - Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft, Verordnungsermächtigung
-
 
 ### § 16 Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft bei Organen
 
@@ -1819,7 +1769,6 @@ der Patienten, bei der Erarbeitung von Richtlinien nach Absatz 1 Satz
 1 Nr. 5 ferner Personen aus dem Kreis der Angehörigen von
 Organspendern nach § 3 oder § 4 angemessen vertreten sein.
 
-
 ### § 16a Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit
@@ -1854,7 +1803,6 @@ geregelt werden. Das Bundesministerium für Gesundheit kann die
 Ermächtigung nach Satz 1 durch Rechtsverordnung ohne Zustimmung des
 Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
-
 ### § 16b Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft zur Entnahme von Geweben und deren Übertragung
 
 (1) Die Bundesärztekammer kann ergänzend zu den Vorschriften der
@@ -1883,9 +1831,7 @@ Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 Wissenschaft wird vermutet, wenn die Richtlinien der Bundesärztekammer
 nach Absatz 1 beachtet worden sind.
 
-
 ## Abschnitt 6 - Verbotsvorschriften
-
 
 ### § 17 Verbot des Organ- und Gewebehandels
 
@@ -1917,9 +1863,7 @@ treiben. Satz 1 gilt nicht für
 Gegenstand verbotenen Handeltreibens sind, zu entnehmen, auf einen
 anderen Menschen zu übertragen oder sich übertragen zu lassen.
 
-
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
-
 
 ### § 18 Organ- und Gewebehandel
 
@@ -1938,7 +1882,6 @@ Gewebe Gegenstand verbotenen Handeltreibens waren, und bei Organ- oder
 Gewebeempfängern von einer Bestrafung nach Absatz 1 absehen oder die
 Strafe nach seinem Ermessen mildern (§ 49 Abs. 2 des
 Strafgesetzbuchs).
-
 
 ### § 19 Weitere Strafvorschriften
 
@@ -1987,7 +1930,6 @@ bestraft.
 
 (5) Handelt der Täter in den Fällen des Absatzes 2 fahrlässig, ist die
 Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
-
 
 ### § 20 Bußgeldvorschriften
 
@@ -2056,21 +1998,17 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 dreißigtausend Euro geahndet werden.
 
-
 ## Abschnitt 8 - Schlussvorschriften
-
 
 ### § 21 Zuständige Bundesoberbehörde
 
 Zuständige Bundesoberbehörde im Sinne dieses Gesetzes ist das Paul-
 Ehrlich-Institut.
 
-
 ### § 22 Verhältnis zu anderen Rechtsbereichen
 
 Die Vorschriften des Embryonenschutzgesetzes und des Stammzellgesetzes
 bleiben unberührt.
-
 
 ### § 23 Bundeswehr
 
@@ -2078,11 +2016,9 @@ Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt
 der Vollzug dieses Gesetzes bei der Überwachung den zuständigen
 Stellen und Sachverständigen der Bundeswehr.
 
-
 ### § 24
 
 (Änderung des Strafgesetzbuchs)
-
 
 ### § 25 Übergangsregelungen
 
@@ -2095,7 +2031,6 @@ Abs. 6 ersetzt werden.
 Regelungsgegenstände nach § 12 gelten weiter, bis sie durch Vertrag
 nach § 12 Abs. 1 und 4 abgelöst oder durch Rechtsverordnung nach § 12
 Abs. 6 ersetzt werden.
-
 
 ### § 26 (Inkrafttreten, Außerkrafttreten)
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 52
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -30,7 +28,6 @@ Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im
 Einvernehmen mit den Bundesministerien des Innern, für Wirtschaft
 sowie für Arbeit und Sozialordnung:
-
 
 ## § 1 Ziel der beruflichen Fortbildung und Bezeichnung des Abschlusses
 
@@ -76,7 +73,6 @@ folgenden Aufgaben wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Sozialsekretär/Geprüfte Sozialsekretärin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -97,7 +93,6 @@ Prüfungsinhalte nach § 3 ausgerichtet ist, nachweist.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Inhalt der Prüfung
 
@@ -445,10 +440,6 @@ kennt. In diesem Rahmen können geprüft werden:
 3.  Aufgaben und Herausforderungen von kirchlichen Einrichtungen und
     Verbänden in einer pluralistischen Gesellschaft.
 
-
-
-
-
 ## § 4 Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Teile:
@@ -481,14 +472,12 @@ Fach, das nicht Gegenstand der schriftlichen Prüfung war, aus den drei
 Bereichen gemäß § 3 Abs. 1 geprüft. Die mündliche Prüfung dauert je
 Prüfungsteilnehmer und Fach in der Regel 20 Minuten.
 
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer kann auf Antrag von der zuständigen Stelle von
 einem der Prüfungsteile nach § 4 freigestellt werden, wenn er
 anderweitig eine Prüfung mit Erfolg abgelegt hat, die den
 Anforderungen des jeweiligen Prüfungsteiles entspricht.
-
 
 ## § 6 Bestehen der Prüfung
 
@@ -506,7 +495,6 @@ müssen. Im Fall der Freistellung gemäß § 5 sind Ort und Datum sowie
 die Bezeichnung des Prüfungsgremiums der anderweitig abgelegten
 Prüfungsleistung anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -519,11 +507,9 @@ vorangegangenen Prüfung ausgereicht haben und er sich innerhalb von
 zwei Jahren, gerechnet vom Tage der Beendigung der nichtbestandenen
 Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 6 Abs. 3)
 

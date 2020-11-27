@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 35 G v. 9.12.2010 I 1934
 
-
 ## § 1
 
 (1) Zur Förderung der Erzeugung, der Qualität und des Absatzes von
@@ -66,7 +65,6 @@ Vorschriften, die einer Regelung nach diesem Gesetz entsprechen,
 soweit die Voraussetzungen für die Nichtanwendung nach den Rechtsakten
 der Europäischen Gemeinschaft oder der Europäischen Union bestimmt
 oder bestimmbar sind.
-
 
 ## § 2
 
@@ -157,7 +155,6 @@ Vorschriften oder Vorschriften des Eichgesetzes und der
 Durchführungsverordnungen zum Eichgesetz bestehen, die auch den Zielen
 des § 1 Abs. 1 gerecht werden.
 
-
 ## § 3
 
 In Rechtsverordnungen nach § 1 kann ferner bestimmt werden, daß
@@ -171,7 +168,6 @@ ihrer Mitgliedstaaten gehören, auf die erste und zweite Handelsklasse
 beschränkt werden, wenn dies im gesamtwirtschaftlichen Interesse
 erforderlich ist.
 
-
 ## § 4
 
 Bevor Rechtsverordnungen nach § 1 erlassen werden, soll das
@@ -179,7 +175,6 @@ Bundesministerium die beteiligten Wirtschaftskreise und die
 Verbraucher anhören. Es kann zu diesem Zweck Ausschüsse aus Vertretern
 der beteiligten Wirtschaftskreise und der Verbraucher bilden und
 Sachverständige hinzuziehen.
-
 
 ## § 5
 
@@ -247,11 +242,9 @@ durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, das Verfahren der Überwachung beim Verbringen in den oder aus
 dem Geltungsbereich dieses Gesetzes zu regeln.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 
@@ -307,7 +300,6 @@ dem Geltungsbereich dieses Gesetzes zu regeln.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ## § 8
 
 (1) Das Bundesministerium wird ermächtigt, die auf Grund des Gesetzes
@@ -328,7 +320,6 @@ des in Absatz 1 genannten Gesetzes erlassen worden sind.
 genannten Gesetzes enthalten sind, gelten diese als Verweisungen auf §
 7 Abs. 1 Nr. 3 dieses Gesetzes.
 
-
 ## § 9
 
 (1) Die Verbote und Beschränkungen der nach diesem Gesetz erlassenen
@@ -342,11 +333,9 @@ anderes ergibt.
 Beschränkungen, die sie bei der Abfertigung feststellen, den
 zuständigen Verwaltungsbehörden mitteilen.
 
-
 ## § 10
 
 Die Vorschriften des Lebensmittelrechts bleiben unberührt.
-
 
 ## § 11
 

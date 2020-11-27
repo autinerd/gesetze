@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 9.12.2004 I 3214
 
-
 ## § 1
 
 (1) Wohnungsvermittler im Sinne dieses Gesetzes ist, wer den Abschluß
@@ -32,7 +31,6 @@ Zusammenhangs mit Wohnräumen mit diesen zusammen vermietet werden.
 (3) Die Vorschriften dieses Gesetzes gelten nicht für die Vermittlung
 oder den Nachweis der Gelegenheit zum Abschluß von Mietverträgen über
 Wohnräume im Fremdenverkehr.
-
 
 ## § 2
 
@@ -78,7 +76,6 @@ werden.
 
 (5) Eine abweichende Vereinbarung ist unwirksam.
 
-
 ## § 3
 
 (1) Das Entgelt nach § 2 Abs. 1 ist in einem Bruchteil oder Vielfachen
@@ -114,7 +111,6 @@ Verpflichtung die Übernahme von Einrichtungs- oder
 Ausstattungsgegenständen des bisherigen Inhabers der Wohnräume zum
 Gegenstand hat.
 
-
 ## § 4
 
 Der Wohnungsvermittler und der Auftraggeber können vereinbaren, daß
@@ -122,7 +118,6 @@ bei Nichterfüllung von vertraglichen Verpflichtungen eine
 Vertragsstrafe zu zahlen ist. Die Vertragsstrafe darf 10 Prozent des
 gemäß § 2 Abs. 1 vereinbarten Entgelts, höchstens jedoch 25 Euro nicht
 übersteigen.
-
 
 ## § 4a
 
@@ -141,7 +136,6 @@ Vereinbarung über das Entgelt ist unwirksam, soweit dieses in einem
 auffälligen Mißverhältnis zum Wert der Einrichtung oder des
 Inventarstücks steht.
 
-
 ## § 5
 
 (1) Soweit an den Wohnungsvermittler ein ihm nach diesem Gesetz nicht
@@ -156,7 +150,6 @@ Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 sind, die nach § 3 Abs. 2 Satz 2 oder § 4a unwirksam oder nicht
 wirksam geworden sind, ist Absatz 1 entsprechend anzuwenden.
 
-
 ## § 6
 
 (1) Der Wohnungsvermittler darf Wohnräume nur anbieten, wenn er dazu
@@ -169,13 +162,11 @@ anbieten oder suchen; bietet er Wohnräume an, so hat er auch den
 Mietpreis der Wohnräume anzugeben und darauf hinzuweisen, ob
 Nebenleistungen besonders zu vergüten sind.
 
-
 ## § 7
 
 Die Vorschriften des § 3 Abs. 1 und des § 6 gelten nur, soweit der
 Wohnungsvermittler die in § 1 Abs. 1 bezeichnete Tätigkeit
 gewerbsmäßig ausübt.
-
 
 ## § 8
 
@@ -203,7 +194,6 @@ oder fahrlässig
 (2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 2 kann mit einer Geldbuße
 bis zu 25.000 Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 1, 3 und
 4 mit einer Geldbuße bis zu 2.500 Euro geahndet werden.
-
 
 ## § 9
 

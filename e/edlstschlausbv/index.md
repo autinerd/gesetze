@@ -23,7 +23,6 @@ Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -35,24 +34,20 @@ vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet
 der Bundesminister für Wirtschaft im Einvernehmen mit dem
 Bundesminister für Bildung und Wissenschaft:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Edelsteinschleifer/Edelsteinschleiferin nach der Handwerksordnung und
 für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
-
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Edelsteinschleifer/Edelsteinschleiferin wird
 staatlich anerkannt.
 
-
 ## § 3 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -103,10 +98,6 @@ Fertigkeiten und Kenntnisse:
 
 14. Nachbereiten von Edelsteinen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -123,12 +114,10 @@ befähigen, die insbesondere selbständiges Planen, Durchführen und
 Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist
 auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -136,7 +125,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -197,7 +185,6 @@ schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
@@ -396,7 +383,6 @@ schriftlichen Prüfung sowie innerhalb der schriftlichen Prüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und
@@ -409,7 +395,6 @@ Achatschleifer und Schmucksteingraveur/Farbesteinschleiferin,
 Achatschleiferin und Schmucksteingraveurin, sind vorbehaltlich des §
 11 nicht mehr anzuwenden.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -417,11 +402,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinschleifer/zur Edelsteinschleiferin
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 531
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 171 Abs. 2 des Bundesgesetzes zur Entschädigung für
@@ -24,7 +22,6 @@ Opfer der nationalsozialistischen Verfolgung
 (Bundesentschädigungsgesetz - BEG -) in der Fassung des Gesetzes vom
 29\. Juni 1956 (Bundesgesetzbl. I S. 559) verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -108,17 +105,12 @@ nationalsozialistische Gewaltmaßnahmen aufgelöst anzusehen:
 20. Pensionskasse des Volksvereins für das katholische Deutschland in
     Mönchengladbach.
 
-
-
-
-
 ## § 2
 
 Diese Rechtsverordnung gilt nach § 14 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240
 BEG auch im Land Berlin;
 sie gilt nicht im Saarland.
-
 
 ## § 3
 

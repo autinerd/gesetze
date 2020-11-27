@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 790
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -64,7 +62,6 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 Der Entwurf der Münze stammt von Frau Aase Thorsen, Neuberg.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Darstellung der Münze
 

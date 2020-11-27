@@ -18,21 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4a G v. 11.12.2008 I 2426
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 6
-
-
 
 ## Art 7
 
 -
-
 
 ## Art 8 Förderung der Weiterbildung in der Allgemeinmedizin
 
@@ -102,13 +97,7 @@ betragen.
     unabhängig von der Art der Weiterbildungseinrichtung bereitgestellt
     werden.
 
-
-
-
-
 ## (XXXX) Art 9 bis 11
-
-
 
 ## Art 12 Aufsicht zur Budgetierung 1999
 
@@ -142,7 +131,6 @@ Satz 4 Fünftes Buch Sozialgesetzbuch angepaßt, setzt das für die
 Kassenärztliche Vereinigung zuständige Landesschiedsamt den
 Verteilungsmaßstab bis zum 31. März 1999 fest.
 
-
 ## Art 13 Ausgabenbegrenzung bei Strukturverträgen
 
 In Verträgen nach § 73a Fünftes Buch Sozialgesetzbuch ist das
@@ -150,7 +138,6 @@ Vergütungsvolumen als Bestandteil der Gesamtvergütung (§ 85 Abs. 2
 Fünftes Buch Sozialgesetzbuch) für das Jahr 1999 nach Artikel 14
 dieses Gesetzes begrenzt. Satz 1 gilt nicht für Verträge, die vor dem
 30\. November 1998 geschlossen worden sind.
-
 
 ## Art 14 Gesamtvergütung der Vertragsärzte im Jahr 1999
 
@@ -229,7 +216,6 @@ Regelung der Absätze 1 bis 3 entsprechend.
 (6) Für Leistungen nach § 85 Abs. 3a Satz 4 des Fünften Buches
 Sozialgesetzbuch gilt Absatz 1 entsprechend.
 
-
 ## Art 15 Budget- und Preisregelung vertragszahnärztlicher Versorgung im Jahr 1999
 
 (1) Für das Jahr 1999 darf in der nach § 85 Abs. 2 und 3 Fünftes Buch
@@ -268,7 +254,6 @@ aller Krankenkassen je Mitglied im Jahr 1998 verändern. Die
 Vomhundertsätze sind für das Beitrittsgebiet und das übrige
 Bundesgebiet getrennt anzuwenden.
 
-
 ## Art 16 Arznei-, Verband- und Heilmittelbudget für 1999
 
 (1) Als Budget nach § 84 Abs. 1 Fünftes Buch Sozialgesetzbuch für das
@@ -291,7 +276,6 @@ gegen die Feststellung des Budgets hat keine aufschiebende Wirkung.
 Abs. 1 Satz 4 Fünftes Buch Sozialgesetzbuch entfallen für den Zeitraum
 vor Inkrafttreten dieses Gesetzes.
 
-
 ## Art 17 Festsetzung des Vertragsinhalts durch das Schiedsamt
 
 Kommen für das Jahr 1999 Vereinbarungen nach § 84 Abs. 3, § 85 Abs. 2
@@ -304,7 +288,6 @@ Festsetzung des Vertragsinhalts durch das Schiedsamt vorliegen. Die
 Vertragsparteien teilen dem Vorsitzenden des Schiedsamts unverzüglich
 nach Ablauf der Frist mit, ob ein Vertrag nach Satz 1 zustande
 gekommen ist.
-
 
 ## Art 18 Veränderungsrate der beitragspflichtigen Einnahmen
 
@@ -321,7 +304,6 @@ die Jahre 1997 und 1998. Das Bundesministerium für Gesundheit gibt die
 Veränderungsrate bis zum 5. März 1999 bekannt. Die Bekanntmachung wird
 im Bundesanzeiger veröffentlicht.
 
-
 ## Art 19 Sonderkündigungsrecht
 
 Versicherungspflichtige und ihre versicherten Familienangehörigen, die
@@ -335,11 +317,9 @@ Versicherer zugeht, kündigen. Entsprechendes gilt für nach 1978
 geborene Versicherte, die 1997 und 1998 keinen Anspruch auf Versorgung
 mit Zahnersatz im Rahmen der vertragszahnärztlichen Versorgung hatten.
 
-
 ## Art 20
 
 -
-
 
 ## Art 21 Ende der laufenden Wahlperiode der Vertreterversammlungen der Kassenärztlichen/Kassenzahnärztlichen Vereinigungen
 
@@ -347,7 +327,6 @@ Soweit die laufenden Wahlperioden und die Amtsdauer der Mitglieder der
 Vertreterversammlungen der Kassenärztlichen Vereinigungen und der
 Kassenzahnärztlichen Vereinigungen vor dem 31. Dezember 2000 enden,
 verlängern sie sich bis zu diesem Zeitpunkt.
-
 
 ## Art 22 Gebührenordnung für Zahnärzte
 
@@ -357,11 +336,9 @@ verlängern sie sich bis zu diesem Zeitpunkt.
 Grund der einschlägigen Ermächtigung durch Rechtsverordnung geändert
 werden.
 
-
 ## Art 23
 
 -
-
 
 ## Art 24 Übergangsregelung
 
@@ -397,13 +374,11 @@ gilt § 29 Fünftes Buch Sozialgesetzbuch einschließlich der Folgen für
 die Abrechnung als Sachleistung auch für bereits vor dem 1. Januar
 1999 begonnene Behandlungen.
 
-
 ## Art 25 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 5, 6, 10, 11 und 23 beruhenden Teile der
 geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ## Art 26 Inkrafttreten, Außerkrafttreten
 

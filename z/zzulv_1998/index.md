@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 21.5.2012 I 1201
 
-
 ## § 1 Allgemeine Vorschriften
 
 (1) Die in den Anlagen aufgeführten Zusatzstoffe sind nach Maßgabe
@@ -36,7 +35,6 @@ unberührt.
 (3) Die §§ 3 bis 6 gelten nicht für Zusatzstoffe, die für den Zusatz
 zu Trinkwasser nach Verlassen der in § 8 der Trinkwasserverordnung
 genannten Entnahmestellen bestimmt sind.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -70,10 +68,6 @@ Im Sinne dieser Verordnung bedeutet:
     soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte
     beziehen, gleich.
 
-
-
-
-
 ## § 3 Farbstoffe
 
 (1) Zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten
@@ -94,7 +88,6 @@ hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom
 24\.6.2008, S. 6), die durch die Verordnung (EG) Nr. 598/2008 (ABl. L
 164 vom 25.6.2008, S. 14) geändert worden ist, zugelassen.
 
-
 ## § 4 Süßungsmittel
 
 (1) Zum Süßen von Lebensmitteln sind die in Anlage 2 aufgeführten
@@ -105,7 +98,6 @@ zugelassen.
 zugelassen, das unter der Bezeichnung "nach dem deutschen
 Reinheitsgebot gebraut" oder gleichsinnigen Angaben in den Verkehr
 gebracht wird.
-
 
 ## § 5 Andere Zusatzstoffe als Farbstoffe und Süßungsmittel
 
@@ -136,16 +128,11 @@ werden:
     Kohlensäuregehaltes des Bieres darf durch die Verwendung nicht
     eintreten.
 
-
-
-
-
 ## § 6 Zusatzstoffe für Säuglings- und Kleinkindernahrung
 
 Die in Anlage 6 aufgeführten Zusatzstoffe sind für die dort genannten
 Lebensmittel zu den in Anlage 7 angegebenen technologischen Zwecken
 zugelassen.
-
 
 ## § 6a Zusatzstoffe für Trinkwasser
 
@@ -154,7 +141,6 @@ Trinkwasserverordnung genannten Entnahmestellen sind die in Anlage 6a
 Spalte 2 aufgeführten Zusatzstoffe einschließlich ihrer Ionen, sofern
 diese durch Ionenaustauscher oder Elektrolyse zugefügt werden, zu den
 in Spalte 3 jeweils genannten technologischen Zwecken zugelassen.
-
 
 ## § 7 Höchstmengenfestsetzungen
 
@@ -175,7 +161,6 @@ der Verordnung (EG) Nr. 1333/2008 verwendet werden.
 einer gemeinsamen Höchstmenge zugelassen sind, dürfen diese Stoffe
 vorbehaltlich besonderer Regelungen einzeln oder insgesamt bis zu
 dieser Höchstmenge verwendet werden.
-
 
 ## § 8 Verwendung von Lebensmitteln mit Zusatzstoffen
 
@@ -207,7 +192,6 @@ auch für das andere Lebensmittel zugelassen sind.
 
 (6) Die Absätze 1 bis 5 gelten nicht für Säuglings- und
 Kleinkindernahrung, sofern in Anlage 6 nichts anderes bestimmt ist.
-
 
 ## § 9 Kenntlichmachung
 
@@ -398,7 +382,6 @@ Lebensmittel-Kennzeichnungsverordnung nur abgegeben werden, wenn
 
 mit den dort bezeichneten Angaben versehen ist.
 
-
 ## § 9a Übergangsvorschrift
 
 (1) Bis zum 31. Dezember 2000 dürfen Lebensmittel, die den
@@ -424,7 +407,6 @@ gekennzeichnet und danach bis zum Abbau der Vorräte in den Verkehr
 gebracht werden.
 
 (5) (weggefallen)
-
 
 ## § 10 Straftaten und Ordnungswidrigkeiten
 
@@ -468,7 +450,6 @@ eine Tafelsüße abgibt.
 (5) Wer eine in den Absätzen 2 bis 4a bezeichnete Handlung fahrlässig
 begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
-
 
 ## Anlage 1 (zu § 3 Abs. 1 und § 7) Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
 
@@ -3306,10 +3287,6 @@ Lebensmittel, zugelassen sind
     *
     *   )
 
-
-
-
-
 ## Anlage 2 (zu § 4 Abs. 1 und § 7) Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 240 - 243;
@@ -3552,9 +3529,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   )
 
     *   Erythrit
-
-
-
 
 ## Teil B
 
@@ -4649,10 +4623,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *    *   -
 
     *   Luft
-
-
-
-
 
 ## Anlage 4 (zu § 5 Abs. 1 und § 7) Begrenzt zugelassene Zusatzstoffe
 
@@ -8863,10 +8833,6 @@ Teil B
     *   Weizenmahlerzeugnisse für Brot einschließlich Kleingebäck
 
     *   100 mg/kg
-
-
-
-
 
 ## Teil C
 
@@ -14418,13 +14384,6 @@ Erzeugnis darf nicht mehr als 75 mg/l betragen.
         1)  Ferner gelten, soweit dort nichts anderes geregelt ist, die
             Zulassungen nach Maßgabe der Teile B, C und D.
 
-
-
-
-
-
-
-
 ## Anlage 6a (zu § 6a) Zusatzstoffe, die für Trinkwasser zugelassen sind
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1399 - 1400)
@@ -14596,10 +14555,6 @@ Erzeugnis darf nicht mehr als 75 mg/l betragen.
 *    *   -
 
     *   Silbernitrat
-
-
-
-
 
 ## Anlage 7 (zu § 5 Abs. 1) Zusatzstoffe für bestimmte technologische Zwecke
 

@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 8.5.1995 I 625
 
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 2 des Stasi-Unterlagen-Gesetzes vom 20.
 Dezember 1991 (BGBl. I S. 2272) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 der Bundesminister des Innern:
-
 
 ## § 1 Geltungsbereich
 
@@ -36,7 +34,6 @@ Republik (Bundesbeauftragter) nach den §§ 13 bis 17 sowie gegenüber
 nicht-öffentlichen Stellen nach den §§ 20, 21, 32 und 34 des Stasi-
 Unterlagen-Gesetzes werden Kosten (Gebühren und Auslagen) nur nach den
 Vorschriften dieser Verordnung erhoben.
-
 
 ## § 2 Kosten
 
@@ -50,12 +47,10 @@ erhoben.
 Amtshandlung nicht erhoben wird. § 42 Abs. 1 Satz 3 des Stasi-
 Unterlagen-Gesetzes bleibt unberührt.
 
-
 ## § 3 Mindestbetrag einer Gebühr, Abrundung
 
 Der Mindestbetrag einer Gebühr ist zehn Deutsche Mark. Pfennigbeträge
 sind auf volle Markbeträge abzurunden.
-
 
 ## § 4 Kostenbefreiung
 
@@ -69,10 +64,6 @@ Von der Zahlung der Kosten sind befreit:
 
 2.  über- oder zwischenstaatliche Organisationen, in denen die
     Bundesrepublik Deutschland Mitglied ist.
-
-
-
-
 
 ## § 5 Kostenschuldner
 
@@ -93,7 +84,6 @@ Von der Zahlung der Kosten sind befreit:
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-
 ## § 6 Vorauszahlung, Rücknahme von Anträgen, erfolglose Widerspruchsverfahren
 
 (1) Der Bundesbeauftragte kann die Zahlung eines Kostenvorschusses
@@ -111,7 +101,6 @@ der Billigkeit entspricht. Bei einem erfolglosen Widerspruch wird eine
 Gebühr bis zur Höhe der für die angefochtene Amtshandlung
 festgesetzten Gebühr erhoben.
 
-
 ## § 7 Unrichtige Sachbehandlung, Kostenermäßigung
 
 (1) Kosten, die bei richtiger Behandlung der Sache durch den
@@ -126,16 +115,13 @@ Amtshandlungen nach den §§ 13 bis 17, 20, 21, 32 und 34 des Stasi-
 Unterlagen-Gesetzes unter die Sätze des Kostenverzeichnisses
 ermäßigen. § 3 bleibt unberührt.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage Kostenverzeichnis
 

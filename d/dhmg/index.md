@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 14.6.2010 I 784
 
-
 ## Abschnitt 1 - Stiftung „Deutsches Historisches Museum“
-
 
 ### § 1 Name, Sitz, Rechtsform und Trägerschaft der Stiftung
 
@@ -31,7 +29,6 @@ dieses Gesetzes.
 
 (2) Die Stiftung ist Träger der unselbständigen Stiftung „Stiftung
 Flucht, Vertreibung, Versöhnung“ (§ 15).
-
 
 ### § 2 Stiftungszweck
 
@@ -61,10 +58,6 @@ ihrem europäischen Zusammenhang darzustellen.
 6.  Zusammenarbeit mit deutschen und internationalen Museen und sonstigen
     Einrichtungen mit fachlichem Bezug.
 
-
-
-
-
 ### § 3 Stiftungsvermögen
 
 (1) Mit dem Inkrafttreten dieses Gesetzes geht das Vermögen der
@@ -93,13 +86,11 @@ Zuwendung unverhältnismäßig ist.
 (4) Das Stiftungsvermögen ist nur im Sinne des Stiftungszweckes zu
 verwenden.
 
-
 ### § 4 Satzung
 
 Die Stiftung gibt sich eine Satzung, die von ihrem Kuratorium
 beschlossen wird und der Genehmigung durch die Rechtsaufsicht bedarf.
 Das Gleiche gilt für Änderungen der Satzung.
-
 
 ### § 5 Organe der Stiftung
 
@@ -112,10 +103,6 @@ Organe der Stiftung sind
 
 
 3.  der wissenschaftliche Beirat.
-
-
-
-
 
 ### § 6 Kuratorium
 
@@ -183,7 +170,6 @@ anderes beschließt.
 
 (9) Das Nähere regelt die Satzung.
 
-
 ### § 7 Präsidentin oder Präsident
 
 (1) Die Präsidentin oder der Präsident wird vom Kuratorium nach
@@ -206,7 +192,6 @@ Kuratoriums.
 
 (5) Das Nähere regelt die Satzung.
 
-
 ### § 8 Wissenschaftlicher Beirat
 
 (1) Dem wissenschaftlichen Beirat gehören mindestens zwölf und
@@ -218,14 +203,12 @@ Präsidentin oder den Präsidenten.
 
 (3) Das Nähere regelt die Satzung.
 
-
 ### § 9 Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des wissenschaftlichen Beirates
 üben ihre Tätigkeit ehrenamtlich aus. Die Erstattung von Reisekosten
 und sonstigen Auslagen richtet sich nach den für die unmittelbare
 Bundesverwaltung geltenden Bestimmungen.
-
 
 ### § 10 Aufsicht; Jahresabschluss; Wirtschaftsplan; Haushalts- und Wirtschaftsführung; Prüfung
 
@@ -249,12 +232,10 @@ der unselbständigen Stiftung unterliegt unbeschadet einer Prüfung
 durch den Bundesrechnungshof nach § 111 der Bundeshaushaltsordnung der
 Prüfung durch eine in der Satzung bestimmte Stelle.
 
-
 ### § 11 Berichterstattung
 
 Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen
 Bericht über ihre Tätigkeit und ihre Vorhaben vor.
-
 
 ### § 12 Beschäftigte
 
@@ -281,7 +262,6 @@ durch die Bundespräsidentin oder den Bundespräsidenten ernannt.
 (4) Oberste Dienstbehörde für die Beamtinnen und Beamten der Stiftung
 ist das Kuratorium. § 187 des Bundesbeamtengesetzes bleibt unberührt.
 
-
 ### § 13 Gebühren und Auslagen
 
 (1) Für die Benutzung der Einrichtungen der Stiftung sowie für den
@@ -296,15 +276,12 @@ und Sachaufwand zu berücksichtigen. Gebühren- und Auslagenermäßigung
 sowie Gebühren- und Auslagenbefreiung können im Einzelfall aus Gründen
 der Billigkeit oder des öffentlichen Interesses zugelassen werden.
 
-
 ### § 14 Dienstsiegel
 
 Die Stiftung führt als Dienstsiegel das kleine Bundessiegel mit der
 Umschrift „Stiftung Deutsches Historisches Museum“.
 
-
 ## Abschnitt 2 - Unselbständige Stiftung „Stiftung Flucht, Vertreibung, Versöhnung“
-
 
 ### § 15 Name, Sitz und Rechtsform
 
@@ -312,7 +289,6 @@ Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit
 Inkrafttreten dieses Gesetzes in Trägerschaft der Stiftung „Deutsches
 Historisches Museum“ eine unselbständige Stiftung des öffentlichen
 Rechts in Berlin errichtet.
-
 
 ### § 16 Stiftungszweck
 
@@ -344,10 +320,6 @@ ihrer Folgen wachzuhalten.
 
 5.  Zusammenarbeit mit deutschen und internationalen Museen und
     Forschungseinrichtungen.
-
-
-
-
 
 ### § 17 Stiftungsvermögen
 
@@ -386,7 +358,6 @@ die Mittelverwendung erläutert. Im Rahmen seiner öffentlichen
 Berichterstattung sorgt er für eine angemessene Publizität der
 Stiftungsaktivitäten.
 
-
 ### § 18 Gremien und Leitung der unselbständigen Stiftung
 
 (1) Bei der unselbständigen Stiftung werden gebildet
@@ -403,7 +374,6 @@ Beraterkreises sind ehrenamtlich tätig.
 
 (2) Die unselbständige Stiftung hat eine Direktorin oder einen
 Direktor.
-
 
 ### § 19 Stiftungsrat
 
@@ -489,7 +459,6 @@ mit Zustimmung des auf Vorschlag der oder des Beauftragten der
 Bundesregierung für Kultur und Medien gewählten
 Stiftungsratsmitgliedes gefasst werden.
 
-
 ### § 20 Wissenschaftlicher Beraterkreis
 
 (1) Der Stiftungsrat richtet einen wissenschaftlichen Beraterkreis mit
@@ -514,7 +483,6 @@ wissenschaftlichen Beraterkreises nehmen die Direktorin oder der
 Direktor sowie die oder der Vorsitzende des Stiftungsrates mit
 Rederecht teil.
 
-
 ### § 21 Direktorin oder Direktor
 
 (1) Die Direktorin oder der Direktor leitet die unselbständige
@@ -528,7 +496,6 @@ Jahren berufen werden oder in einem außertariflichen Arbeitsverhältnis
 oberhalb der höchsten tarifvertraglichen Entgeltgruppe beschäftigt
 werden, soweit dies für die Durchführung der Aufgaben erforderlich
 ist.
-
 
 ### § 22 Übergangsregelung
 

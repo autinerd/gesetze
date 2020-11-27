@@ -18,16 +18,13 @@ Fundstelle
 Geändert durch
 :   Art. 9 Abs. 17 G v. 23.11.2007 I 2631
 
-
 ## § 1
 
 -
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -37,7 +34,6 @@ eingeschriebenen Hilfskassen und ihre Mitglieder beziehen, gelten für
 die Versicherungsvereine auf Gegenseitigkeit, die zum Betrieb der
 Versicherung ihrer Mitglieder gegen Krankheit befugt sind, und für
 diese Mitglieder.
-
 
 ## § 4
 
@@ -57,7 +53,6 @@ Betätigung außerhalb der Dienstgeschäfte und der Ausübung des
 Vereinsrechts seitens der Mitglieder, des Vorstands oder der
 Angestellten, soweit nicht gegen die Gesetze verstoßen wird, gefolgert
 werden.
-
 
 ## § 5
 
@@ -81,7 +76,6 @@ Mitglied erst bindet, wenn seit ihrer Mitteilung an das Mitglied ein
 Monat verstrichen ist und nicht innerhalb dieser Frist das Mitglied
 Klage erhoben hat.
 
-
 ## § 6
 
 (1) Versicherungsvereine, deren Leistungen in den Grenzen des § 508
@@ -103,7 +97,6 @@ Zwanzigstel des Jahresbetrags der Mitgliederbeiträge zuzuführen.
 Versicherungsunternehmungen              gelten nicht für diese
 Versicherungsvereine.
 
-
 ## § 7
 
 (1) Sie können für bestimmte Bezirke örtliche Verwaltungsstellen
@@ -114,7 +107,6 @@ Versicherungsvereins regelt ihre Verfassung und ihre Befugnisse.
 der Verwaltungsorgane der Versicherungsvereine und ihrer örtlichen
 Verwaltungsstellen sind gebühren-
 und stempelfrei.
-
 
 ## § 8
 
@@ -135,19 +127,13 @@ einer besonderen Satzung sich zu einem Verband vereinigen zum Zwecke
 3.  der Anlage und des Betriebs gemeinsamer Anstalten zur Heilung und
     Verpflegung erkrankter Mitglieder sowie zur Fürsorge für Genesende.
 
-
-
-
-
 ## § 9
 
 -
 
-
 ## § 10
 
 (weggefallen)
-
 
 ## § 11
 
@@ -160,7 +146,6 @@ Versicherungsunternehmungen unterständen.
 (2) Diese Behörde entscheidet auf Grund der Vorschriften des Gesetzes
 über die privaten Versicherungsunternehmungen. Danach richtet sich
 auch die Aufsicht über die Liquidation.
-
 
 ## § 12
 

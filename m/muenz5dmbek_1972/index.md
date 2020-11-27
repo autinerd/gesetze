@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 2083
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
@@ -77,11 +75,9 @@ eingeprägt.
 
 (9) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3023
 
-
 ## (XXXX)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
@@ -39,14 +38,9 @@ Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
     nach Anlage 1 des Besoldungsüberleitungsgesetzes für Beamtinnen und
     Beamte bei den Postnachfolgeunternehmen.
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1
 

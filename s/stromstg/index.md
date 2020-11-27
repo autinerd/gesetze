@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 5.12.2012 I 2436, 2725
 
-
 ## § 1 Steuergegenstand, Steuergebiet
 
 (1) Elektrischer Strom (Strom) der Position 2716 der Kombinierten
@@ -33,7 +32,6 @@ Rates vom 23. Juli 1987 über die zolltarifliche und statistische
 Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. EG Nr. L 256 S. 1,
 Nr. L 341 S. 38, Nr. L 378 S. 120, 1988 Nr. L 130 S. 42) in der am 1.
 Januar 2002 geltenden Fassung.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -88,14 +86,9 @@ Im Sinne dieses Gesetzes sind
     Wasserkraftwerken mit einer installierten Generatorleistung über zehn
     Megawatt.
 
-
-
-
-
 ## § 3 Steuertarif
 
 Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
-
 
 ## § 4 Erlaubnis
 
@@ -130,7 +123,6 @@ nicht geleistet wird.
 
 (5) (weggefallen)
 
-
 ## § 5 Entstehung der Steuer, Steuerschuldner
 
 (1) Die Steuer entsteht dadurch, daß vom im Steuergebiet ansässigen
@@ -156,13 +148,11 @@ Entnahme des Stroms entstandene Steuer entrichtet worden ist, für den
 Strom keine Steuer entstanden ist oder der Strom steuerfrei entnommen
 worden ist.
 
-
 ## § 6 Widerrechtliche Entnahme von Strom
 
 Die Steuer entsteht auch dadurch, daß widerrechtlich Strom aus dem
 Versorgungsnetz entnommen wird. Steuerschuldner ist, wer
 widerrechtlich Strom entnimmt.
-
 
 ## § 7 Leistung von Strom in das Steuergebiet
 
@@ -170,7 +160,6 @@ Bezieht ein Letztverbraucher Strom aus einem Gebiet außerhalb des
 Steuergebiets, entsteht die Steuer dadurch, daß der Strom durch den
 Letztverbraucher im Steuergebiet aus dem Versorgungsnetz entnommen
 wird. Steuerschuldner ist der Letztverbraucher.
-
 
 ## § 8 Steueranmeldung, Fälligkeit der Steuer
 
@@ -251,7 +240,6 @@ den Nichtberechtigten.
 Hauptzollamt im Voraus Sicherheit verlangen, wenn Anzeichen für eine
 Gefährdung der Steuer erkennbar sind.
 
-
 ## § 9 Steuerbefreiungen, Steuerermäßigungen
 
 (1) Von der Steuer ist befreit:
@@ -327,7 +315,6 @@ ermäßigten Teil der Steuer. Steuerschuldner ist der Erlaubnisinhaber.
 entsteht die Steuer auch in der Person des Nichtberechtigten. Mehrere
 Steuerschuldner sind Gesamtschuldner.
 
-
 ## § 9a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
 
 (1) Auf Antrag wird die Steuer für nachweislich versteuerten Strom
@@ -365,7 +352,6 @@ entnommen hat.
 (2) Erlass-, erstattungs- oder vergütungsberechtigt ist das
 Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
 
-
 ## § 9b Steuerentlastung für Unternehmen
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
@@ -386,7 +372,6 @@ Eine Steuerentlastung wird nur gewährt, soweit der Entlastungsbetrag
 nach Satz 1 im Kalenderjahr den Betrag von 250 Euro übersteigt.
 
 (3) Entlastungsberechtigt ist derjenige, der den Strom entnommen hat.
-
 
 ## § 10 Erlass, Erstattung oder Vergütung in Sonderfällen
 
@@ -583,7 +568,6 @@ der Finanzen im Bundesgesetzblatt gesondert bekannt gegeben.
 verwiesen wird, sind in der Beuth Verlag GmbH, Berlin, erschienen und
 bei der Nationalbibliothek archivmäßig gesichert niedergelegt.
 
-
 ## § 11 Ermächtigungen
 
 Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung
@@ -718,7 +702,6 @@ dieses Gesetzes durch Rechtsverordnung
 Dabei kann es anordnen, dass bei einem Missbrauch für alle daran
 Beteiligten die Steuer entsteht.
 
-
 ## § 12 Ermächtigung zu § 10 Absatz 3, 4 und 7
 
 (1) Das Bundesministerium für Wirtschaft und Technologie wird
@@ -775,10 +758,6 @@ und 7 zu erlassen.
     Transportmittel zu betreten, soweit dies für die Überwachung oder
     Kontrolle erforderlich ist.
 
-
-
-
-
 ## § 13 Erlaß von Rechtsverordnungen, Verwaltungsvorschriften
 
 (1) Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen
@@ -791,7 +770,6 @@ erlassen im Einvernehmen mit dem Bundesministerium der Finanzen die
 allgemeinen Verwaltungsvorschriften, die sich an die Stellen nach § 10
 Absatz 7 richten, zur Durchführung von Rechtsverordnungen nach § 12.
 
-
 ## § 14 Anwendungsvorschriften
 
 (1) Nach § 9 Absatz 4 in Verbindung mit § 9 Absatz 3 dieses Gesetzes
@@ -802,7 +780,6 @@ geltenden Fassung erlöschen mit Ablauf des 31. Dezember 2010.
 
 (2) § 10 in der am 31. Dezember 2012 geltenden Fassung gilt fort für
 Strom, der bis zum 31. Dezember 2012 entnommen worden ist.
-
 
 ## Anlage (zu § 10) Zielwerte für die zu erreichende Reduzierung der Energieintensität
 

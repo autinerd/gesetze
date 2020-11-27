@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 24.2.2012 I 206
 
-
 ## Erster Abschnitt - Grundlagen der Organisation
-
 
 ### § 1 Rechtsform und Bezeichnung
 
@@ -39,7 +37,6 @@ Bezeichnung „Restrukturierungsfonds – Bundesanstalt für
 Finanzmarktstabilisierung“ handeln, soweit sie Aufgaben im Namen des
 nach § 1 des Restrukturierungsfondsgesetzes errichteten
 Restrukturierungsfonds (Restrukturierungsfonds) wahrnimmt.
-
 
 ### § 2 Aufgaben und Organisation der FMSA
 
@@ -92,7 +89,6 @@ entsprechend anzuwenden.
 vorheriger Zustimmung (Einwilligung) des Bundesministeriums der
 Finanzen festgelegt.
 
-
 ### § 3 Rechts- und Fachaufsicht
 
 Die FMSA untersteht der Rechts- und Fachaufsicht des
@@ -100,9 +96,7 @@ Bundesministeriums der Finanzen. Die Rechts- und Fachaufsicht umfasst
 auch die Weisungsbefugnis des Bundesministeriums der Finanzen
 gegenüber der FMSA.
 
-
 ## Zweiter Abschnitt - Leitungsausschuss
-
 
 ### § 4 Organe
 
@@ -116,7 +110,6 @@ gewissenhaften Geschäftsleitung wahrzunehmen.
 (3) Das Bundesministerium der Finanzen kann
 Wirtschaftsführungsbestimmungen und eine Geschäftsanweisung für den
 Leitungsausschuss erlassen.
-
 
 ### § 5 Zusammensetzung und Beschlüsse des Leitungsausschusses
 
@@ -190,7 +183,6 @@ Beschlussfassung durch den Leitungsausschuss.
 (9) Der Leitungsausschuss gibt sich im Einvernehmen mit dem
 Bundesministerium der Finanzen eine Geschäftsordnung.
 
-
 ### § 6 Rechtsstellung der Mitglieder des Leitungsausschusses
 
 (1) Die Mitglieder des Leitungsausschusses unterliegen dem
@@ -214,7 +206,6 @@ vorherigen schriftlichen Zustimmung des Bundesministeriums der
 Finanzen. Weitere nach Satz 1 erforderliche Genehmigungen erteilt der
 Leitungsausschuss im Einvernehmen mit dem Bundesministerium der
 Finanzen durch Beschluss ohne Beteiligung des betroffenen Mitglieds.
-
 
 ### § 7 Aufgaben und Zuständigkeiten des Leitungsausschusses
 
@@ -304,9 +295,7 @@ obliegenden Aufgaben und der Beschlüsse des Lenkungsausschusses sind
 die Mitglieder des Leitungsausschusses gemeinschaftlich
 verantwortlich.
 
-
 ## Dritter Abschnitt - Vertretung
-
 
 ### § 8 Vertretung der FMSA, des Fonds und des Restrukturierungsfonds
 
@@ -329,9 +318,7 @@ Mitglied des Leitungsausschusses oder einem vom Leitungsausschuss
 bevollmächtigten Mitarbeiter oder einer vom Leitungsausschuss
 bevollmächtigten Mitarbeiterin der FMSA.
 
-
 ## Vierter Abschnitt - Personal
-
 
 ### § 9 Personal
 
@@ -374,9 +361,7 @@ der FMSA zu tragen.
 finden die für die Beamtinnen und Beamten des Bundes jeweils geltenden
 Bestimmungen entsprechende Anwendung.
 
-
 ## Fünfter Abschnitt - Haushalts- und Wirtschaftsführung
-
 
 ### § 10 Erstattung von Kosten und Auslagen
 
@@ -427,7 +412,6 @@ des Bundesministeriums der Finanzen.
 anfallenden Personal- und Sachkosten werden der FMSA gemäß § 11 Satz 3
 des Restrukturierungsfondsgesetzes aus den Mitteln des
 Restrukturierungsfonds erstattet.
-
 
 ### § 11 Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
 

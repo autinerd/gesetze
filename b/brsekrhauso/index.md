@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3964
 
-
-
 ## Eingangsformel
 
 Der Präsident des Bundesrates erlässt in Ausübung des Hausrechts gemäß
@@ -24,13 +22,11 @@ Der Präsident des Bundesrates erlässt in Ausübung des Hausrechts gemäß
 (BGBl. I S. 437) in der Fassung der Bekanntmachung vom 26. November
 1993 (BGBl. I S. 2007) folgende allgemeine Anordnung:
 
-
 ## § 1 Geltungsbereich
 
 Diese Anordnung gilt für alle Gebäude, Gebäudeteile und Grundstücke,
 die dem Bundesrat zur Wahrnehmung seiner verfassungsmäßigen Aufgaben
 dienen.
-
 
 ## § 2 Zutrittsberechtigung
 
@@ -114,7 +110,6 @@ Angehörigen der jeweiligen Besuchergruppe Zutritt gewährt wird.
 sich im Bereich des Bundesrates nach § 1 aufhalten, ihre
 Zutrittsberechtigung nachzuweisen.
 
-
 ## § 3 Plenarsaal
 
 (1) Zutritt zum Plenarsaal des Bundesrates während der Sitzungen des
@@ -166,7 +161,6 @@ Mobiltelefonen ist abzuschalten. Telefonate sollen grundsätzlich
 außerhalb des Plenarsaals geführt werden. Pressevertretern sind
 Telefonate im Plenarsaal nicht gestattet.
 
-
 ## § 4 Verhaltensgrundsätze
 
 (1) Im Bereich des Bundesrates nach § 1 ist jede Handlung zu
@@ -216,7 +210,6 @@ Ordnungspersonal hat sich auf Verlangen der Besucher auszuweisen,
 sofern es nicht durch Dienstkleidung oder in anderer sichtbarer Weise
 als solches zu erkennen ist.
 
-
 ## § 5 Ordnungspersonal
 
 (1) Zum Ordnungspersonal des Bundesrates gehören
@@ -253,7 +246,6 @@ als solches zu erkennen ist.
 Bundesrates berechtigt, die Aufgaben des Ordnungspersonals
 wahrzunehmen.
 
-
 ## § 6 Aufgaben und Befugnisse des Ordnungspersonals
 
 (1) Das Ordnungspersonal (§ 5) hat für die Einhaltung der Vorschriften
@@ -277,13 +269,11 @@ führen, hat die Leitung des Sekretariats des Bundesrates oder eine von
 ihr beauftragte Person die zur Abwehr der Störung erforderlichen
 Maßnahmen zu veranlassen.
 
-
 ## § 7 Sondereinrichtungen
 
 Für die Benutzung der Sondereinrichtungen des Bundesrates wie
 Bibliothek und Archiv gelten neben dieser Anordnung zusätzlich deren
 Benutzungsordnungen in der jeweils geltenden Fassung.
-
 
 ## § 8 Ausnahmen und Einschränkungen
 
@@ -292,14 +282,12 @@ Ausnahmen oder Abweichungen von dieser Anordnung im Einzelfall sowie
 über die Einschränkung oder Erweiterung der Zutrittsberechtigung von
 Besuchern aus besonderem Anlass.
 
-
 ## § 9 Bußgeld- und Strafbestimmungen
 
 Ein Verstoß gegen die Bestimmungen dieser Anordnungen kann unter den
 Voraussetzungen von § 106b des Strafgesetzbuches oder von § 112 des
 Gesetzes über Ordnungswidrigkeiten als Straftat oder als
 Ordnungswidrigkeit verfolgt werden.
-
 
 ## § 10 Inkrafttreten
 

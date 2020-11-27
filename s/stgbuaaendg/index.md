@@ -19,16 +19,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 84 G v. 19.4.2006 I 866
 
-
 ## (XXXX)
 
 Artikel 1 bis 4
 
-
 ## Art 5
 
 -
-
 
 ## Art 6 Übergangsregelung
 
@@ -58,11 +55,9 @@ zu begehen.
 
 (3) (weggefallen)
 
-
 ## Art 7
 
 (weggefallen)
-
 
 ## Art 8 Inkrafttreten
 

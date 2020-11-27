@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1982, 734
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -41,7 +38,6 @@ dem die jeweiligen Grenzabschnitte betreffenden Umfang - bei den für
 diese Grenzabschnitte jeweils zuständigen staatlichen Katasterbehörden
 zur Einsicht bereit.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach den Artikeln 1 und 2 des Vertrags der
@@ -49,7 +45,6 @@ Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des
 Inkrafttretens des Vertrags die geltenden Vorschriften des
 Bundesrechts in Kraft. Gleichzeitig tritt das niederländische Recht in
 diesen Gebietsteilen außer Kraft.
-
 
 ## Art 3
 
@@ -70,7 +65,6 @@ Deutschland zufallenden Gebietsteile durch Rechtsverordnung
 
 Die Regierungen der Länder Niedersachsen und Nordrhein-Westfalen
 können die Ermächtigung auf die Landesjustizverwaltung übertragen.
-
 
 ## Art 4
 
@@ -93,15 +87,10 @@ niederländischem Recht
     Warenmengen, die den üblichen persönlichen Bedarf übersteigen, gelten
     als zum Handel bestimmt.
 
-
-
-
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

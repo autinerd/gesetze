@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 16.2.2005 I 258
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 1 Nr. 2, 4 und 5 in Verbindung mit § 36 Abs. 3
 des Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29.
 September 1976 (BGBl. I S. 2849) wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1 Anwendungsbereich, Begriffsbestimmungen
 
@@ -39,7 +37,6 @@ des Bundeswaldgesetzes in der Natur nicht vorkommen.
 tote Tiere, ihre ohne weiteres erkennbaren Teile, ohne weiteres
 erkennbar aus ihnen gewonnenen Erzeugnisse sowie ihre Eier, sonstigen
 Entwicklungsformen und Nester.
-
 
 ## § 2 Verbote
 
@@ -128,7 +125,6 @@ Rechtsakte des Rates oder der Kommission der Europäischen
 Gemeinschaften oder Verpflichtungen aus internationalen
 Artenschutzübereinkommen nicht entgegenstehen.
 
-
 ## § 3 Halten von Greifen und Falken
 
 (1) Die Haltung von Greifen oder Falken der in Anlage 4 genannten
@@ -205,7 +201,6 @@ den Ersatz des Abgangs bleibt unberührt.
 juristischen Personen des öffentlichen Rechts sowie für behördlich
 genehmigte oder anerkannte Auffang- und Pflegestationen.
 
-
 ## § 4 Aufzeichnungs- und Kennzeichnungspflichten
 
 (1) Wer gewerbsmäßig
@@ -240,7 +235,6 @@ worden ist.
 (5) Die in Absatz 1 genannten Tiere und Teile von Tieren sind zu
 kennzeichnen, soweit dies mit angemessenem Aufwand möglich ist.
 
-
 ## § 5 Rechtmäßiger Besitz, Nachweispflicht
 
 Wer Tiere der in Anlage 5 genannten Arten besitzt oder die
@@ -252,7 +246,6 @@ Dritter die Tiere bei Inkrafttreten dieser Verordnung in Besitz hatte.
 Für Gegenstände zum persönlichen Gebrauch oder Hausrat gilt dies nur,
 wenn Tatsachen die Annahme rechtfertigen, daß eine Berechtigung nach §
 2 Abs. 2 bis 5 nicht besteht.
-
 
 ## § 6 Ordnungswidrigkeiten
 
@@ -284,15 +277,10 @@ handelt, wer vorsätzlich oder fahrlässig
     Auslieferungsbüchern oder Belegen oder über die Kennzeichnung von
     Tieren oder Teilen von Tieren zuwiderhandelt.
 
-
-
-
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 45 des Bundesjagdgesetzes auch im Land Berlin.
-
 
 ## § 8 Inkrafttreten
 
@@ -414,14 +402,9 @@ Gleichzeitig treten außer Kraft:
 9.  der § 32 der Durchführungsbestimmungen zum Jagdgesetz für das Saarland
     vom 5. März 1957 (Amtsblatt des Saarlandes S. 216).
 
-
-
-
-
 ## Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anlage 1 (zu § 2 Abs. 1)
 
@@ -602,10 +585,6 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
     Kolkrabe
     (Corvus corax                    L.).
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 2 Satz 3 Nr. 1)
 
 Rebhuhn
@@ -629,7 +608,6 @@ Tafelente
 Bläßhuhn
 (Fulica atra              L.).
 
-
 ## Anlage 3 (zu § 2 Abs. 2 Satz 3 Nr. 2)
 
 Bläßgans
@@ -638,7 +616,6 @@ Reiherente
 (Aythya fuligula              L.),
 Waldschnepfe
 (Scolopax rusticola              L.).
-
 
 ## Anlage 4 (zu § 3 Abs. 1)
 
@@ -678,7 +655,6 @@ Baumfalke
 (Falco subbuteo              L.),
 Wanderfalke
 (Falco peregrinus              TUNSTALL).
-
 
 ## Anlage 5 (zu § 4 Abs. 1, § 5)
 
@@ -777,10 +753,6 @@ Wanderfalke
 
     Kolkrabe
     (Corvus corax                    L.).
-
-
-
-
 
 ## Anlage 6 (zu § 4 Abs. 1) Aufnahme- und Auslieferungsbuch
 

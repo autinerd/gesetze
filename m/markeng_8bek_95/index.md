@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1587
 
-
-
 ## (XXXX)
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 5. Oktober 1994
@@ -36,12 +34,10 @@ Dezember 1994 (BGBl. I S. 3920).
 
 Bundesministerium der Justiz
 
-
 ## Anlage 1 Estnisches Kontrollzeichen für Gegenstände aus Edelmetall
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1995, 1587)
-
 
 ## Anlage 2 Estnisches Sicherheitszeichen für elektrische Geräte (blau oder schwarz)
 

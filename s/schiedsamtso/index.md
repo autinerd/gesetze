@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 26.3.2007 I 378
 
-
 ## Eingangsformel
 
 Auf Grund des § 368i Abs. 7 der Reichsversicherungsordnung in der
@@ -30,10 +29,7 @@ August 1955 (Bundesgesetzbl. I S. 513) wird nach Beratung mit den
 Bundesausschüssen der Ärzte, Zahnärzte und Krankenkassen mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## Erster Abschnitt - Gemeinsame Vorschriften für die Schiedsämter für die vertragsärztliche und für die vertragszahnärztliche Versorgung*.
-
-
 
 ### § 1
 
@@ -83,14 +79,12 @@ ist.
 Bundesschiedsämter gleichermaßen, soweit nichts Abweichendes bestimmt
 ist.
 
-
 ### § 2
 
 Der Vorsitzende und sein Stellvertreter sowie die zwei weiteren
 unparteiischen Mitglieder und deren Stellvertreter gelten als
 bestellt, sobald sie sich den beteiligten Körperschaften gegenüber zur
 Amtsübernahme bereit erklärt haben.
-
 
 ### § 3
 
@@ -99,7 +93,6 @@ unbeschadet der Vorschrift des § 89 Abs. 3 Satz 6 des Fünften Buches
 Sozialgesetzbuch. Die Amtsdauer der während einer Amtsperiode neu
 hinzugetretenen Mitglieder endet mit dem Ablauf der Amtsperiode. § 26
 des Zehnten Buches Sozialgesetzbuch gilt.
-
 
 ### § 4
 
@@ -115,7 +108,6 @@ Körperschaften, die sie bestellt haben, abberufen werden. Die
 Mitgliedschaft bleibt so lange bestehen, bis ein Nachfolger bestellt
 ist. Sie ist dem Vorsitzenden mitzuteilen.
 
-
 ### § 5
 
 Die Niederlegung des Amtes ist der für die Bestellung zuständigen
@@ -126,13 +118,11 @@ den beteiligten Körperschaften gegenüber zu erklären und der
 Aufsichtsbehörde mitzuteilen. Die Erklärungen haben schriftlich zu
 erfolgen. Diese Bestimmungen gelten auch für die Stellvertreter.
 
-
 ### § 6
 
 Die Mitglieder der Schiedsämter sind verpflichtet, an den Sitzungen
 teilzunehmen oder bei Verhinderung ihre Stellvertreter zu
 benachrichtigen. Dies gilt sinngemäß für die Stellvertreter.
-
 
 ### § 7
 
@@ -142,7 +132,6 @@ und eine Entschädigung für Zeitverlust nach den für die Mitglieder der
 Organe der bestellenden Körperschaften geltenden Grundsätzen. Der
 Anspruch richtet sich gegen die bestellende Körperschaft.
 
-
 ### § 8
 
 Die Vorsitzenden und die zwei weiteren unparteiischen Mitglieder der
@@ -150,7 +139,6 @@ Bundesschiedsämter oder ihre Stellvertreter erhalten Reisekosten nach
 den Vorschriften über Reisekostenvergütung der Bundesbeamten nach der
 Reisekostenstufe C. Der Anspruch richtet sich gegen den Bundesverband
 der Ortskrankenkassen.
-
 
 ### § 9
 
@@ -160,7 +148,6 @@ den Vorschriften über Reisekostenvergütung der Beamten des Landes nach
 der Reisekostenstufe C. Der Anspruch richtet sich gegen die für die
 Geschäftsführung der Landesschiedsämter zuständige Stelle.
 
-
 ### § 10
 
 Die Vorsitzenden und die zwei weiteren unparteiischen Mitglieder der
@@ -169,7 +156,6 @@ Barauslagen und für Zeitverlust einen Pauschbetrag, dessen Höhe die
 beteiligten Körperschaften im Benehmen mit ihnen festsetzen. § 8 Satz
 2 und § 9 Satz 2 gelten entsprechend. Die Festsetzung bedarf der
 Zustimmung der Aufsichtsbehörde.
-
 
 ### § 11
 
@@ -182,7 +168,6 @@ Dauer eines Schiedsamtsverfahrens, das nur eine Kassenart betrifft,
 werden die Geschäfte bei dem betroffenen Landesverband, den
 Ersatzkassen oder der Deutschen Rentenversicherung Knappschaft-Bahn-
 See geführt; Satz 1 zweiter Halbsatz bleibt unberührt.
-
 
 ### § 12
 
@@ -197,7 +182,6 @@ Kostenanteil bemißt sich nach der Zahl der Versicherten der
 beteiligten Verbände. Sind mehrere Kassenärztliche
 (Kassenzahnärztliche) Vereinigungen beteiligt, so trägt jede
 Vereinigung die Kosten anteilmäßig.
-
 
 ### § 13
 
@@ -217,7 +201,6 @@ folgenden Tag. Die Vertragspartei, die die Kündigung ausgesprochen
 hat, hat das Schiedsamt schriftlich unter Darstellung des Sachverhalts
 zu benachrichtigen.
 
-
 ### § 14
 
 Der Antrag auf Einleitung des schiedsamtlichen Verfahrens nach § 13
@@ -227,12 +210,10 @@ zusammenfassendes Ergebnis der vorangegangenen Verhandlungen
 darzulegen sowie die Teile des Vertrages aufzuführen, über die eine
 Einigung nicht zustande gekommen ist.
 
-
 ### § 15
 
 Auf Verlangen haben die Vertragsparteien dem Schiedsamt die für die
 Entscheidung erforderlichen Unterlagen vorzulegen.
-
 
 ### § 16
 
@@ -240,7 +221,6 @@ Das Schiedsamt entscheidet auf Grund mündlicher Verhandlung, zu der
 die Vertragsparteien zu laden sind. Es kann auch in Abwesenheit
 Beteiligter verhandelt werden, falls in der Ladung darauf hingewiesen
 ist.
-
 
 ### § 16a
 
@@ -261,13 +241,11 @@ Mitglieder des Schiedsamtes oder deren stimmberechtigte Stellvertreter
 anwesend sind. Auf diese Folge ist in der Einladung zur erneuten
 Sitzung ausdrücklich hinzuweisen.
 
-
 ### § 17
 
 Sachverständige und Zeugen, die auf Beschluß des Schiedsamts
 hinzugezogen worden sind, erhalten eine Entschädigung oder Vergütung
 entsprechend dem Justizvergütungs- und -entschädigungsgesetz.
-
 
 ### § 18
 
@@ -276,7 +254,6 @@ Stimmenthaltung ist nicht zulässig.
 
 (2) Die Beratung und Beschlußfassung erfolgt in Abwesenheit der
 Vertreter der Vertragsparteien.
-
 
 ### § 19
 
@@ -288,7 +265,6 @@ belehren. Die Entscheidung des Schiedsamtes über die Vergütung der
 Leistungen nach § 83 und § 85 des Fünften Buches Sozialgesetzbuch ist
 der zuständigen Aufsichtsbehörde vorzulegen.
 
-
 ### § 20
 
 Für die Festsetzung eines Vertrages durch das Schiedsamt wird eine
@@ -297,13 +273,11 @@ Vorsitzende nach der Bedeutung und Schwierigkeit des Falles fest. Wird
 das Schiedsamtsverfahren in anderer Weise erledigt, so wird die
 Mindestgebühr erhoben.
 
-
 ### § 21
 
 Die Gebühr wird fällig, sobald das Schiedsamt den Vertragsinhalt
 festgesetzt oder das Schiedsamtsverfahren sich auf andere Weise
 erledigt hat.
-
 
 ### § 22
 
@@ -312,17 +286,11 @@ zu tragen. Sind auf Seiten einer Vertragspartei mehrere Körperschaften
 an dem Vertrag beteiligt, so haften sie gesamtschuldnerisch für den
 nach Satz 1 anfallenden Gebührenanteil.
 
-
 ## Zweiter Abschnitt
-
-
 
 ### (XXXX) §§ 22a und 22b (weggefallen)
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 23
 
@@ -336,17 +304,14 @@ Berlin bestellt werden.
 
 (2)
 
-
 ### § 24
 
 -
-
 
 ### § 25
 
 Diese Verordnung tritt mit dem auf die Verkündung folgenden Tage in
 Kraft.
-
 
 ### Schlußformel
 

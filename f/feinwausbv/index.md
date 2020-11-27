@@ -20,7 +20,6 @@ Fundstelle
     der Länder in der Bundesrepublik Deutschland beschlossen wurde, werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und
@@ -32,7 +31,6 @@ gefasst worden ist, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Feinwerkmechanikers und der
@@ -40,11 +38,9 @@ Feinwerkmechanikerin wird gemäß § 25 der Handwerksordnung zur
 Ausbildung für das Gewerbe Nummer 16 der Anlage A der Handwerksordnung
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -61,10 +57,6 @@ und die Ausbildung in einem der folgenden Schwerpunkte:
 
 
 4.  Zerspanungstechnik.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -135,10 +127,6 @@ Feinwerkmechanikerin gliedert sich wie folgt (Ausbildungsberufsbild):
 
 18. Instandhalten von technischen Systemen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -158,7 +146,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
 ## § 6 Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich
@@ -177,7 +164,6 @@ Feststellung der Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Gesellenprüfung mit 30 Prozent und Teil 2 der Gesellenprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Gesellenprüfung
 
@@ -236,10 +222,6 @@ Vorgaben:
 
 4.  die Prüfungszeit beträgt sieben Stunden; innerhalb dieser Zeit soll
     das Fachgespräch insgesamt höchstens 15 Minuten dauern.
-
-
-
-
 
 ## § 8 Teil 2 der Gesellenprüfung
 
@@ -437,10 +419,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -502,10 +480,6 @@ bewertet worden sind:
 
 5.  kein Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-
-
-
-
 ## § 10 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der Prüfungsbereiche
@@ -517,14 +491,12 @@ Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
 bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
 im Verhältnis 2:1 zu gewichten.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
-
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 
@@ -533,11 +505,9 @@ die Verordnung über die Berufsausbildung zum Feinwerkmechaniker und
 zur Feinwerkmechanikerin vom 25. Juli 2008 (BGBl. I S. 1429) außer
 Kraft.
 
-
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin
 
 (Fundstelle: BGBl. I 2010, 892 - 901)
-
 
 ## Abschnitt I: Berufliche Grundbildung
 
@@ -1010,7 +980,6 @@ Kraft.
 
    ## Abschnitt II: Berufliche Fachbildung
 
-
 ## A. Gemeinsame Ausbildungsinhalte
 
 *    *
@@ -1417,7 +1386,6 @@ Kraft.
 
    ## B. Betriebliche Fachbildung in den Schwerpunkten
 
-
 ## 1. Schwerpunkt Maschinenbau
 
 *    *
@@ -1571,9 +1539,6 @@ Kraft.
     *
     *   6
 
-
-
-
 ## 2. Schwerpunkt Feinmechanik
 
 *    *
@@ -1721,9 +1686,6 @@ Kraft.
     *
     *   6
 
-
-
-
 ## 3. Schwerpunkt Werkzeugbau
 
 *    *
@@ -1860,9 +1822,6 @@ Kraft.
     *
     *
     *   6
-
-
-
 
 ## 4. Schwerpunkt Zerspanungstechnik
 

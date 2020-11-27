@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 29 V v. 25.8.2009 I 2960
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -29,7 +28,6 @@ Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149) geändert worden ist,
 verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -86,7 +84,6 @@ können. Dazu zählen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 „Geprüfter Bilanzbuchhalter/Geprüfte Bilanzbuchhalterin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil A ist zuzulassen, wer
@@ -126,7 +123,6 @@ Zulassung zur Prüfung rechtfertigen.
 innerhalb der letzten zwei Jahre den Prüfungsteil A abgelegt zu haben.
 Zum Prüfungsteil C ist zuzulassen, wer alle schriftlichen
 Prüfungsleistungen nach § 3 Abs. 2 und 3 bestanden hat.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -209,7 +205,6 @@ einbeziehen. Die Präsentation soll in der Regel nicht länger als 15
 Minuten und das Fachgespräch in der Regel nicht länger als 30 Minuten
 dauern. Dem Prüfungsteilnehmer oder der Prüfungsteilnehmerin ist eine
 Vorbereitungszeit von in der Regel 30 Minuten einzuräumen.
-
 
 ## § 4 Inhalt der Prüfung
 
@@ -522,10 +517,6 @@ Rahmen können folgende Qualifikationsinhalte geprüft werden:
 4.  im Rahmen betriebs- und volkswirtschaftlicher Zusammenhänge handeln
     und sich der Wirkungen bewusst sein.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -535,7 +526,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -549,7 +539,6 @@ bewerten.
 und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 5 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholen der Prüfung
 
@@ -566,7 +555,6 @@ Wiederholungsprüfung angemeldet hat. Bestandene Prüfungsleistungen
 können auf Antrag einmal wiederholt werden. In diesem Fall gilt das
 Ergebnis der letzten Prüfung.
 
-
 ## § 8 Zusatzqualifikation
 
 Wer die Prüfung zum Bilanzbuchhalter/zur Bilanzbuchhalterin auf Grund
@@ -582,7 +570,6 @@ dieser auf Antrag des Prüfungsteilnehmers oder der
 Prüfungsteilnehmerin angerechnet werden. In diesem Fall ist über das
 Bestehen dieser Prüfungsleistung eine Bescheinigung auszustellen. § 7
 Abs. 1 gilt entsprechend.
-
 
 ## § 9 Optionale Qualifikation
 
@@ -633,7 +620,6 @@ erbracht werden. Über das Bestehen ist eine Bescheinigung
 auszustellen. Die nicht bestandene Prüfung kann zweimal wiederholt
 werden.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Bilanzbuchhalter/zur
@@ -646,11 +632,9 @@ Verordnung durchführen; § 7 Abs. 2 findet in diesem Fall keine
 Anwendung. Im Übrigen kann bis zum 31. März 2010 die Anwendung der
 bisherigen Vorschriften beantragt werden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 2007 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3) Muster
 
@@ -717,8 +701,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   (Siegel der zuständigen Stelle)
 
     *
-
-
 
 ## Anlage 2 (zu § 6 Abs. 3) Muster
 

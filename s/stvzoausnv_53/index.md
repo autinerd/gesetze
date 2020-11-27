@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1665
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3
@@ -28,7 +26,6 @@ durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S.
 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26.
 November 1986 (BGBl. I S. 2089), verordnet das Bundesministerium für
 Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1
 
@@ -75,7 +72,6 @@ Beförderungspapier für den Bahntransport oder eine Bescheinigung des
 Schiffahrttreibenden über die Benutzung eines Binnen- oder Seeschiffs
 mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
 auszuhändigen.
-
 
 ## § 2
 

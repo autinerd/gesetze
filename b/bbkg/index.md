@@ -18,14 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 1 G v. 2.4.2009 I 693
 
-
-
 ## § 1 Errichtung des Bundesamtes
 
 Der Bund errichtet das Bundesamt für Bevölkerungsschutz und
 Katastrophenhilfe als Bundesoberbehörde. Es untersteht dem
 Bundesministerium des Innern.
-
 
 ## § 2 Aufgaben des Bundesamtes
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 7 G v. 26.6.1992 I 1159
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 und des § 6 Abs. 2 Satz 1 des
@@ -27,7 +26,6 @@ November 1975 (BGBl. I S. 2943), das zuletzt durch das Gesetz vom 30.
 August 1990 (BGBl. I S. 1860) geändert worden ist, verordnet der
 Bundesminister für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit dem Bundesminister für Wirtschaft:
-
 
 ## § 1
 
@@ -48,10 +46,6 @@ kann, können folgende Erzeugnisse zusammengefaßt werden:
 *    *   ex 0208
 
     *   Fleisch von Damtieren, frisch, gekühlt oder gefroren.
-
-
-
-
 
 ## § 2
 
@@ -75,7 +69,6 @@ festgesetzt
 (2) Das erste Wirtschaftsjahr beginnt mit dem Tag, an dem der Antrag
 auf Anerkennung als Erzeugergemeinschaft gestellt wird.
 
-
 ## § 3
 
 (1) Die Mindestmenge eines Liefervertrages nach § 6 Abs. 1 Nr. 4 des
@@ -89,17 +82,14 @@ Berechnung der Mindestmenge nach Satz 1 als ein Liefervertrag.
 (2) Die Mindestdauer eines Liefervertrages nach § 6 Abs. 1 Nr. 5 des
 Gesetzes wird auf drei Jahre festgesetzt.
 
-
 ## § 3a
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

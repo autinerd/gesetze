@@ -18,18 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 29.9.2011 I 1996
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Nr. 2, 4, 5 und des § 20 des Lebensmittelgesetzes in
 der Fassung vom 17. Januar 1936 (Reichsgesetzbl. I S. 17) wird
 verordnet:
 
-
 ## § 1
 
 -
-
 
 ## § 1a
 
@@ -54,7 +51,6 @@ bleiben unberührt.
 (3) Unberührt bleiben Rechtsvorschriften, die den Zusatz von in Absatz
 1 genannten Zusatzstoffen zu bestimmten Lebensmitteln verbieten oder
 einschränken.
-
 
 ## § 1b
 
@@ -100,13 +96,11 @@ zugelassen:
 (2) Die Vorschriften der Verordnung über Nahrungsergänzungsmittel
 bleiben unberührt.
 
-
 ## § 2
 
 Vitaminisierte Lebensmittel dürfen mit einem Hinweis auf ihren
 Vitamingehalt gewerbsmäßig nur in Fertigpackungen in den Verkehr
 gebracht werden.
-
 
 ## § 2a
 
@@ -129,7 +123,6 @@ des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
 vorsätzlich oder fahrlässig vitaminisierte Lebensmittel entgegen § 2
 nicht in Fertigpackungen gewerbsmäßig in den Verkehr bringt.
 
-
 ## § 3
 
 (1) Diese Verordnung tritt am 1. Oktober 1942 in Kraft.
@@ -139,7 +132,6 @@ nicht in Fertigpackungen gewerbsmäßig in den Verkehr bringt.
 bis zum 31. Dezember 2000 nach den bis zum 29. Oktober 1999 geltenden
 Vorschriften gekennzeichnet und auch nach dem 31. Dezember 2000 noch
 bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
-
 
 ## Schlußformel
 

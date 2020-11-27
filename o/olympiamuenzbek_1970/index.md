@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 35
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom
@@ -50,11 +48,9 @@ CITIUS ..... ALTIUS ..... FORTIUS.
 
 (7) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlußformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

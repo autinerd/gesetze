@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 320
 
-
 ## Abschnitt 1 - Mutterschutz und Stillzeit
-
 
 ### § 1 Anwendung des Mutterschutzgesetzes
 
@@ -52,7 +50,6 @@ Artikel 440 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
 geändert worden ist, in der jeweils geltenden Fassung sind
 entsprechend anzuwenden.
 
-
 ### § 2 Besoldung bei Beschäftigungsverbot und Stillzeit
 
 Durch die mutterschutzrechtlichen Beschäftigungsverbote nach § 1
@@ -64,7 +61,6 @@ Erschwerniszulagen nach der Erschwerniszulagenverordnung sowie für die
 Vergütung nach der Vollstreckungsvergütungsverordnung ist der
 Durchschnitt der Zulagen und der Vergütungen der letzten drei Monate
 vor Beginn des Monats, in dem die Schwangerschaft eingetreten ist.
-
 
 ### § 3 Zuschuss bei Beschäftigungsverbot während einer Elternzeit
 
@@ -79,7 +75,6 @@ Zuschläge und ohne Leistungen nach dem 5. Abschnitt des
 Bundesbesoldungsgesetzes die Versicherungspflichtgrenze in der
 gesetzlichen Krankenversicherung überschreiten oder überschreiten
 würden.
-
 
 ### § 4 Entlassung während der Schwangerschaft und nach der Entbindung
 
@@ -102,7 +97,6 @@ Beamtenverhältnis zu entfernen wäre.
 
 (3) Die §§ 31 und 32 des Bundesbeamtengesetzes bleiben unberührt.
 
-
 ### § 5 Auslage des Mutterschutzgesetzes und dieser Verordnung
 
 In jeder Dienststelle, bei der regelmäßig mehr als drei Beamtinnen
@@ -110,9 +104,7 @@ tätig sind, sind ein Abdruck des Mutterschutzgesetzes sowie ein
 Abdruck dieser Verordnung an geeigneter Stelle zur Einsicht
 auszulegen.
 
-
 ## Abschnitt 2 - Elternzeit
-
 
 ### § 6 Anwendung des Bundeselterngeld- und Elternzeitgesetzes
 
@@ -128,7 +120,6 @@ Monaten nach § 15 Absatz 2 Satz 4 des Bundeselterngeld- und
 Elternzeitgesetzes muss rechtzeitig vor Beginn des zu übertragenden
 Zeitraumes angezeigt werden. Die Zustimmung zur Übertragung darf nur
 versagt werden, wenn zwingende dienstliche Belange entgegenstehen.
-
 
 ### § 7 Teilzeitbeschäftigung während der Elternzeit
 
@@ -147,7 +138,6 @@ entgegenstehen. Sie ist zu versagen, wenn einer der in § 99 Absatz 2
 Satz 2 Nummer 2 bis 6 des Bundesbeamtengesetzes genannten Gründe
 vorliegt.
 
-
 ### § 8 Entlassung während der Elternzeit
 
 (1) Während der Elternzeit darf die Entlassung von Beamtinnen und
@@ -161,7 +151,6 @@ Beamtin oder ein Beamter auf Lebenszeit im Wege eines
 Disziplinarverfahrens aus dem Dienst zu entfernen wäre.
 
 (3) Die §§ 31 und 32 des Bundesbeamtengesetzes bleiben unberührt.
-
 
 ### § 9 Erstattung von Krankenversicherungsbeiträgen
 
@@ -194,16 +183,13 @@ Arbeitszeit ausgeübt wird.
 den Beamten entfallende Beiträge für die freiwillige gesetzliche
 Krankenversicherung und Pflegeversicherung.
 
-
 ### § 10 Sonderregelung für Richterinnen und Richter im Bundesdienst
 
 Während der Elternzeit ist eine Teilzeitbeschäftigung als Richterin
 oder Richter von mindestens der Hälfte bis zu drei Vierteln des
 regelmäßigen Dienstes zulässig.
 
-
 ## Abschnitt 3 - Übergangs- und Schlussvorschriften
-
 
 ### § 11 Übergangsvorschrift
 

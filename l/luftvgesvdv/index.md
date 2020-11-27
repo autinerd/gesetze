@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.7.1979 I 1121
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 Nr. 4, 6, 7, 8, 13 und 14 und des Artikels 4
@@ -27,7 +26,6 @@ des Gesetzes vom 1. Juli 1971 zu den Internationalen
 Gesundheitsvorschriften vom 25. Juli 1969 (Bundesgesetzbl. II 1971 S.
 865) wird im Einvernehmen mit den Bundesministern für Verkehr und des
 Innern mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Einleitende Bestimmung
 
@@ -45,7 +43,6 @@ Gesundheitsvorschriften übertragen ist. Soweit er Aufgaben nach dieser
 Verordnung zu erfüllen hat, untersteht er der zuständigen
 Gesundheitsbehörde.
 
-
 ## § 2 Auskunfts- und Meldepflichten (Zu Artikel 37 Abs. 1 und Artikel 85 der Internationalen Gesundheitsvorschriften)
 
 (1) Soweit die Allgemeine Erklärung für Luftfahrzeuge verlangt wird,
@@ -58,7 +55,6 @@ Internationalen Gesundheitsvorschriften) an den Flughafenarzt weiter.
 Person an Bord eines Luftfahrzeugs befindet oder daß das Luftfahrzeug
 als seuchenverdächtig anzusehen ist, so ist die zuständige
 Gesundheitsbehörde zu unterrichten.
-
 
 ## § 3 Maßnahmen bei der Ankunft (Zu den Artikeln 39, 40 Abs. 1, Artikeln 42, 58, 63 und 80 der Internationalen Gesundheitsvorschriften)
 
@@ -84,7 +80,6 @@ Wasser ist, wenn es die Gesundheitsbehörde für verseucht hält, zu
 desinfizieren und zu entfernen; danach sind die Wasserbehälter zu
 desinfizieren.
 
-
 ## § 4 Nachweis des Pockenschutzes (Zu Artikel 78 der Internationalen Gesundheitsvorschriften)
 
 (1) Eine Person, die sich innerhalb eines Zeitraums von vierzehn Tagen
@@ -109,7 +104,6 @@ Infektionsgebiet kommt. Wird die Impfung verweigert, so bestimmt die
 Gesundheitsbehörde, welche der nach Artikel 78 der Internationalen
 Gesundheitsvorschriften zulässigen Maßnahmen durchzuführen sind.
 
-
 ## § 5 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des Artikels 3a Abs. 2 Nr. 1 des Gesetzes zu
@@ -118,7 +112,6 @@ oder fahrlässig als verantwortlicher Luftfahrzeugführer entgegen § 3
 Abs. 1 auf einem anderen als einem Sanitätsflughafen landet oder den
 Sanitätsflughafen nicht oder nicht rechtzeitig verständigt.
 
-
 ## § 6 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -126,11 +119,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Satz 2 des Gesetzes vom 1. Juli 1971 zu den Internationalen
 Gesundheitsvorschriften vom 25. Juli 1969 auch im Land Berlin.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

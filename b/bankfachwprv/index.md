@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 193
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des
@@ -30,7 +28,6 @@ verordnet das Bundesministerium für Bildung und Forschung nach
 Anhörung des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung und im Einvernehmen mit dem Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -52,7 +49,6 @@ nachweisen.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin.
-
 
 ## § 2 Gliederung und Durchführung der Prüfung
 
@@ -135,7 +131,6 @@ Lage ist,
 
 Der Prüfungsteilnehmer hat Anspruch auf 20 Minuten Vorbereitungszeit.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -168,7 +163,6 @@ die die Zulassung zur Prüfung rechtfertigen.
 (4) Zu einem zusätzlichen Prüfungsbereich aus dem Prüfungsteil
 "Spezielle Qualifikation" ist zuzulassen, wer bereits eine Prüfung zum
 Bankfachwirt/zur Bankfachwirtin bestanden hat.
-
 
 ## § 4 Grundlegende Qualifikationen
 
@@ -278,10 +272,6 @@ Rahmen können geprüft werden:
 
 4.  Grundzüge des Verfahrens- und Insolvenzrechts.
 
-
-
-
-
 ## § 5 Spezielle Qualifikationen
 
 (1) Im Prüfungsbereich "Privatkundengeschäft" soll der
@@ -341,10 +331,6 @@ können geprüft werden:
 
 3.  Ausgewählte Fragestellungen des Auslandsgeschäftes von Firmenkunden.
 
-
-
-
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Von der Ablegung einzelner schriftlicher Prüfungsleistungen gemäß § 2
@@ -356,7 +342,6 @@ Prüfung in den letzten fünf Jahren vor Antragstellung mit Erfolg
 abgelegt hat, die den Anforderungen der jeweiligen Prüfungsbereiche
 entspricht. Eine Freistellung vom "Praxisorientierten
 Situationsgespräch" gemäß § 2 Abs. 6 erfolgt nicht.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -381,7 +366,6 @@ Prüfungsgremiums anzugeben.
 einem der in § 2 Abs. 3 aufgeführten Prüfungsbereiche ist eine
 Bescheinigung auszustellen. Die Absätze 1 bis 3 gelten entsprechend.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Die nicht bestandene Prüfung kann zweimal wiederholt werden.
@@ -396,7 +380,6 @@ beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
 diesem Fall ist das letzte Ergebnis für das Bestehen zu
 berücksichtigen.
 
-
 ## § 9 Ausbildereignung
 
 Wer die Prüfung zum "Geprüften Bankfachwirt/Geprüfte Bankfachwirtin"
@@ -404,7 +387,6 @@ nach dieser Rechtsverordnung bestanden hat, ist vom schriftlichen Teil
 der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-
 Eignungsverordnung befreit. Dies gilt nicht für den praktischen
 Prüfungsteil.
-
 
 ## § 10 Übergangsvorschriften
 
@@ -416,11 +398,9 @@ werden.
 Wiederholungsprüfung auch gemäß dieser Verordnung durchführen; § 8
 Abs. 2 findet in diesem Fall keine Anwendung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2001 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 3)
 
@@ -447,7 +427,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 1 und 3)
 

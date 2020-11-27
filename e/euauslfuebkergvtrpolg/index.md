@@ -19,7 +19,6 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Art 1
 
 Dem in Berlin am 17. Juli 2003 unterzeichneten Vertrag zwischen der
@@ -28,11 +27,9 @@ des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957
 (BGBl. 1964 II S. 1369) und die Erleichterung einer Anwendung wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 ( zukünftig in Kraft )
-
 
 ## Art 3
 

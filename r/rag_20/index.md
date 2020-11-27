@@ -19,14 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 92 G v. 8.12.2010 I 1864
 
-
 ## Art 1 - Rentenanpassung
 
-
-
 ### Erster Abschnitt - Anpassung der Renten aus der gesetzlichen Rentenversicherung
-
-
 
 ### § 1
 
@@ -46,7 +41,6 @@ Juni 1977 erhöhten Renten, die Knappschaftsausgleichsleistung nach §
 Bundesgesetzblatt Teil III, Gliederungsnummer 826-19, veröffentlichten
 bereinigten Fassung, zuletzt geändert durch § 10 Nr. 3 des Gesetzes
 vom 24. Juni 1975 (BGBl. I S. 1536).
-
 
 ### § 2
 
@@ -85,7 +79,6 @@ Angestelltenversicherungs-Neuregelungsgesetzes angewendet worden ist.
 (3) Absatz 1 gilt entsprechend für Renten der knappschaftlichen
 Rentenversicherung, die nach Artikel 2 § 24 Abs. 5 des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt werden.
-
 
 ### § 3
 
@@ -215,7 +208,6 @@ Deutsche Mark und in § 3 Abs. 2 der Verordnung an die Stelle des
 Betrags von 4.281 Deutsche Mark der Betrag von 20.161 Deutsche Mark
 tritt.
 
-
 ### § 4
 
 (1) Die übrigen Renten sind so anzupassen, daß sich eine Rente ergibt,
@@ -248,10 +240,6 @@ a)  bei Renten aus Versicherungsfällen nach dem 31. Dezember 1956 und bei
 b)  bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957,
     wenn sie nach § 3 dieses Artikels angepaßt würden.
 
-
-
-
-
 ### § 5
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 dieses Artikels der
@@ -275,7 +263,6 @@ tritt an die Stelle des Rentenzahlbetrags im Sinne des Absatzes 1 der
 Betrag, der für Juli 1977 zu zahlen gewesen wäre, wenn die
 Voraussetzungen für die Erfüllung des Anspruchs damals bestanden
 hätten.
-
 
 ### § 6
 
@@ -319,7 +306,6 @@ oder die in den §§ 55 und 56 des Angestelltenversicherungsgesetzes
 genannten Grenzbeträge, die bei der Berechnung der Rente nach § 3
 dieses Artikels zu berücksichtigen sind, nicht überschreiten.
 
-
 ### § 7
 
 Leistungen nach den §§ 27 und 28 des Sozialversicherungs-
@@ -328,7 +314,6 @@ ergibt, wie er sich bei Anwendung des Saarländischen Gesetzes Nr. 345
 in der Fassung der Bekanntmachung vom 29. Juli 1953 (Amtsblatt des
 Saarlandes S. 520) und der Vorschriften dieses Gesetzes unter
 Zugrundelegung der bisherigen Versicherungszeiten ergeben würde.
-
 
 ### § 8
 
@@ -345,10 +330,7 @@ Gesetzes Nr. 635 zur Einführung des Reichsknappschaftsgesetzes und des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 18\. Juni 1958 (Amtsblatt des Saarlandes S. 1099) gewährt werden.
 
-
 ### Zweiter Abschnitt - Anpassung der Geldleistungen und des Pflegegelds aus der gesetzlichen Unfallversicherung
-
-
 
 ### § 9
 
@@ -382,7 +364,6 @@ veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 2
 Unfalljahr das Jahr, für das der Jahresarbeitsverdienst zuletzt
 festgelegt worden ist.
 
-
 ### § 10
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
@@ -396,7 +377,6 @@ Saarlandes S. 520) der Geldleistung zugrunde liegt.
 (2) Das Pflegegeld wird in der Weise angepaßt, daß der für Januar 1978
 zu zahlende Betrag mit 1,074 zu vervielfältigen ist.
 
-
 ### § 11
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
@@ -405,10 +385,7 @@ Satz 2 und 3 der Reichsversicherungsordnung ein höherer Betrag
 bestimmt worden ist. In diesem Fall tritt an die Stelle des Betrags
 von 36.000 Deutsche Mark der höhere Betrag.
 
-
 ### Dritter Abschnitt - Anpassung der Altersgelder in der Altershilfe für Landwirte
-
-
 
 ### § 12
 
@@ -423,10 +400,7 @@ vom 23. Dezember 1976 (BGBl. I S. 3845), bezeichneten Altersgelder ab
 Mark und für den unverheirateten Berechtigten auf 265,60 Deutsche Mark
 monatlich festgesetzt.
 
-
 ### Vierter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 13
 
@@ -456,7 +430,6 @@ ist oder hätte festgestellt werden müssen, höher, als sie bei der
 Anpassung nach dem Zweiten Abschnitt dieses Artikels sein würde, so
 ist dem Berechtigten die höhere Leistung zu gewähren.
 
-
 ### § 14
 
 (1) Ergibt eine spätere Überprüfung, daß die Anpassung fehlerhaft ist,
@@ -472,22 +445,13 @@ Die §§ 627 und 1300 der Reichsversicherungsordnung, § 79 des
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
 
-
 ### Fünfter Abschnitt -
-
-
 
 ### (XXXX) §§ 15 und 16
 
-
-
 ## Art 2 -
 
-
-
 ## (XXXX) §§ 1 bis 12
-
-
 
 ## § 13 Änderung des Rentenreformgesetzes
 
@@ -516,16 +480,9 @@ wird wie folgt geändert:
     Stiftung betreffenden Vorgänge sechs Jahre lang seit der Aufhebung der
     Stiftung aufzubewahren.
 
-
-
-
-
 ## (XXXX) §§ 14 und 15 (weggefallen)
 
-
 ## Art 3 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -546,7 +503,6 @@ Verwaltungskosten von der Bundesanstalt für Arbeit erstattet. Der
 Erstattungsbetrag für Aufwendungen im Jahre 1978 wird am 1. Januar
 1979 fällig.
 
-
 ## § 2
 
 Für die Jahre 1971 bis Juni 1977 verbleibt es bei den nach § 385 Abs.
@@ -555,9 +511,7 @@ geltenden Fassung zu leistenden Beiträgen; § 393a Abs. 1 der
 Reichsversicherungsordnung in der bis zum 30. Juni 1977 geltenden
 Fassung ist insoweit nicht mehr anzuwenden.
 
-
 ## § 3 (weggefallen)
-
 
 ## § 4
 
@@ -565,14 +519,12 @@ Fassung ist insoweit nicht mehr anzuwenden.
 Gesetzes gilt vom 1. Januar 1978 an auch für Versorgungsfälle, die vor
 dem 1. Juli 1977 eingetreten sind.
 
-
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## § 6
 

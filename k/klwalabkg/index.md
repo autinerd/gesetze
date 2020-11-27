@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 29.7.2009 I 2542
 
-
 ## Art 1
 
 Dem in New York am 9. April 1992 von der Bundesrepublik Deutschland
 unterzeichneten Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale
 in der Nord- und Ostsee wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -42,12 +40,10 @@ betreffenden Art nicht gefährden. Zu Forschungszwecken gefangene Tiere
 sind nach Abschluß der Forschungen in die Freiheit zu entlassen,
 sobald sie sich dort selbständig erhalten können.
 
-
 ## Art 3
 
 Koordinierungsbehörde im Sinne der Nummer 2.3 des Abkommens ist das
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
-
 
 ## Art 4
 

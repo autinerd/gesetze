@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3968
 
-
-
 ## (XXXX)
 
 Auf Grund des § 28 Abs. 5 Satz 1 und 2 des Chemikaliengesetzes in der

@@ -25,7 +25,6 @@ Bundesrepublik Deutschland und Kanada über die Rechtshilfe in
 Strafsachen wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Rechtshilfeersuchen kanadischer Behörden, denen eine Zuwiderhandlung
@@ -34,7 +33,6 @@ werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
 bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
 Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
-
 
 ## Art 3
 

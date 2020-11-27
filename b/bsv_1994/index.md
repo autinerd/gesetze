@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1987
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -67,19 +65,16 @@ Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem
 Bundesministerium für Post und Telekommunikation und dem
 Bundesministerium der Finanzen:
 
-
 ## § 1 Beitragssätze in der Rentenversicherung
 
 Der Beitragssatz für das Jahr 1994 beträgt in der Rentenversicherung
 der Arbeiter und der Angestellten 19,2 vom Hundert und in der
 knappschaftlichen Rentenversicherung 25,5 vom Hundert.
 
-
 ## § 2 Anpassung des aktuellen Rentenwertes (Ost)
 
 Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1994 an 33,34
 Deutsche Mark.
-
 
 ## § 3 Anpassungsfaktor in der Unfallversicherung
 
@@ -89,14 +84,12 @@ Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Januar
 1994 eingetreten sind, werden zum 1. Januar 1994 angepaßt. Der
 Anpassungsfaktor beträgt 1,0364.
 
-
 ## § 4 Pflegegeld
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
 Januar 1994 an für Arbeitsunfälle, für die § 1151 der
 Reichsversicherungsordnung anzuwenden ist, zwischen 376 Deutsche Mark
 und 1.506 Deutsche Mark monatlich.
-
 
 ## § 5 Durchschnittsentgelt in der Rentenversicherung
 
@@ -109,7 +102,6 @@ Mark.
 (3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend
 ergänzt.
 
-
 ## § 6 Bezugsgröße in der Sozialversicherung
 
 (1) Die Bezugsgröße im Sinne des § 18 Abs. 1 des Vierten Buches
@@ -119,7 +111,6 @@ und 3.920 Deutsche Mark monatlich.
 (2) Die Bezugsgröße (Ost) im Sinne des § 18 Abs. 2 des Vierten Buches
 Sozialgesetzbuch beträgt im Jahre 1994 36.960 Deutsche Mark jährlich
 und 3.080 Deutsche Mark monatlich.
-
 
 ## § 7 Beitragsbemessungsgrenzen in der Rentenversicherung
 
@@ -150,7 +141,6 @@ Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 
 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum
 "1.1.1994 - 31.12.1994" um die Jahresbeträge ergänzt.
-
 
 ## § 8 Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -253,7 +243,6 @@ Deckungskapitalien und vergleichbaren Deckungsrücklagen durch den Wert
 des Faktors erfolgen, der für die Umrechnung von Entgeltpunkten in
 Beiträge maßgebend wäre.
 
-
 ## § 9 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
 Die Angleichungsfaktoren zur Ermittlung des Wertes von
@@ -316,10 +305,6 @@ Entscheidung über den Versorgungsausgleich nach dem 1. Januar 1994 und
 
     *   1,0363693.
 
-
-
-
-
 ## § 10 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
@@ -342,10 +327,6 @@ ergänzt:
 
     *
     *   1,2913
-
-
-
-
 
 ## § 11 Durchschnittsverdienste der Anlage 14 zum Sechsten Buch Sozialgesetzbuch
 
@@ -1129,10 +1110,6 @@ Werte ergänzt:
 
     *   31.190
 
-
-
-
-
 ## § 12 Erstattung an die Deutsche Bundespost
 
 Der Postrentendienst des Unternehmens Deutsche Bundespost POSTDIENST
@@ -1141,11 +1118,9 @@ die Wahrnehmung der damit zusammenhängenden Aufgaben von den
 zuständigen Sozialleistungsträgern einmalig eine zusätzliche Vergütung
 in Höhe von 1,20 Deutsche Mark für jeden Zahlfall.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
-
 
 ## Schlußformel
 

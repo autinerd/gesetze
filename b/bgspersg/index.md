@@ -18,20 +18,13 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 9 G v. 5.2.2009 I 160
 
-
-
 ## Art 1 -
 
-
-
 ## Art 2 - Besoldungsrechtliche Vorschriften
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Überleitungsregelung
 
@@ -52,7 +45,6 @@ und "Oberfähnriche zur See im Bundesgrenzschutz" erhalten in diesem
 Amt eine Überleitungszulage nach Artikel IX § 11 des Zweiten Gesetzes
 zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und
 Ländern.
-
 
 ## § 3 Übergangsvorschriften
 
@@ -89,19 +81,13 @@ Zahlung bis zum Abschluß dieses Verfahrens ausgesetzt.
 Bundespolizeibeamtengesetzes Bezug genommen wird, ist die bis zum 30.
 Juni 1976 geltende Fassung maßgebend.
 
-
 ## Art 3 -
 
-
-
 ## Art 4 -
-
-
 
 ## Art 5 - Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
-
 
 ## Anlage zu Artikel 2 § 2 Abs. 1 *Fe Überleitungsübersicht */
 

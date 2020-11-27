@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 86
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 86 Abs. 2 des Zollgesetzes in der Fassung der
 Bekanntmachung vom 18. Mai 1970 (BGBl. I S. 529), der durch § 2 Nr. 2
 des Gesetzes vom 25. Juli 1989 (BGBl. I S. 1541) neu gefaßt worden
 ist, verordnet der Bundesminister der Finanzen:
-
 
 ## Art 1
 
@@ -56,7 +53,6 @@ aus wendet sie sich wiederum in einem Winkel von 90
 Grad in Richtung Donau, trifft nach 43 m auf die Kailinie und
 erstreckt sich von dort noch 30 m in die Donau hinein. Von diesem
 Punkt aus verläuft sie in gerader Linie zum Ausgangspunkt."
-
 
 ## Art 2
 

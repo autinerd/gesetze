@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1036
 
-
 ## Eingangsformel
 
 Auf Grund des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes, der
@@ -25,9 +24,7 @@ durch Artikel 1 Nummer 24 des Gesetzes vom 20. März 2009 (BGBl. I S.
 Finanzen im Einvernehmen mit dem Bundesministerium der Justiz nach
 Anhörung der Spitzenverbände der Kreditwirtschaft:
 
-
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
-
 
 ### § 1 Anwendungsbereich
 
@@ -36,13 +33,11 @@ Bei der Ermittlung der Flugzeugbeleihungswerte nach § 26d Absatz 1 und
 Wertermittlung erforderlichen Daten sind die Vorschriften dieser
 Verordnung anzuwenden.
 
-
 ### § 2 Gegenstand der Wertermittlung
 
 Gegenstand der Flugzeugbeleihungswertermittlung sind Flugzeuge im
 Sinne des § 1 Absatz 2 Satz 1 Nummer 1 des Luftverkehrsgesetzes, die
 in einem öffentlichen Register eingetragen sind.
-
 
 ### § 3 Grundsatz der Flugzeugbeleihungswertermittlung
 
@@ -56,7 +51,6 @@ voraussichtlich erzielt werden kann.
 (2) Bei der Ermittlung des Flugzeugbeleihungswerts sind die dauernden
 Eigenschaften des Flugzeugs, sein Alter und seine Einsatzmöglichkeiten
 zu berücksichtigen.
-
 
 ### § 4 Verfahren zur Ermittlung von Beleihungswerten für Flugzeuge
 
@@ -84,9 +78,7 @@ Flugzeugbeleihungswert den um 25 Prozent geminderten Wert bei
 ausgeglichenen Marktbedingungen und durchschnittlichem Zustand nicht
 überschreiten.
 
-
 ## Teil 2 - Gutachten und Gutachter
-
 
 ### § 5 Gutachten
 
@@ -136,7 +128,6 @@ Falls eine Besichtigung durch einen anerkannten technischen
 Sachverständigen vorgenommen worden ist, kann das Gutachten auch auf
 den Besichtigungsbericht Bezug nehmen.
 
-
 ### § 6 Besichtigung
 
 (1) Das zu bewertende Flugzeug ist im Rahmen der Wertermittlung zu
@@ -161,7 +152,6 @@ Wartungsprogramms gilt als zugesichert im Sinne des Satzes 1, wenn das
 Flugzeug in einem Luftfahrtunternehmen mit der in § 20 Absatz 4 des
 Luftverkehrsgesetzes genannten Betriebsgenehmigung betrieben wird.
 
-
 ### § 7 Gutachter
 
 (1) Der Gutachter muss nach seiner Ausbildung und beruflichen
@@ -178,7 +168,6 @@ notwendigen Kenntnisse als nachgewiesen.
 (2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt, ist
 eine technische oder ingenieurmäßige Berufsausbildung nicht
 erforderlich.
-
 
 ### § 8 Unabhängigkeit des Gutachters
 
@@ -205,9 +194,7 @@ einem Bereich der Pfandbriefbank zugeordnet sind, in dem
 Flugzeugkreditgeschäfte entweder angebahnt oder zum Gegenstand des
 einzigen Votums gemacht werden.
 
-
 ## Teil 3 - Wertermittlungsverfahren
-
 
 ### § 9 Aktueller Marktwert
 
@@ -224,7 +211,6 @@ Verkäufen gleichartiger Flugzeuge ein Basispreis abgeleitet worden
 ist, ist dieser den Besonderheiten des zu bewertenden Flugzeugs
 anzupassen.
 
-
 ### § 10 Durchschnittlicher Marktwert
 
 (1) Der durchschnittliche Marktwert ist der Durchschnittsbetrag der
@@ -232,7 +218,6 @@ Marktwerte eines gleichartigen Flugzeugs für die zugrunde zu legenden
 letzten Kalenderjahre vor dem Jahr der Wertermittlung.
 
 (2) § 9 Absatz 2 gilt entsprechend.
-
 
 ### § 11 Wert bei ausgeglichenen Marktbedingungen und durchschnittlichem Zustand
 
@@ -248,9 +233,7 @@ Sachkenntnis, Umsicht und ohne Zwang handelt.
 
 (2) § 9 Absatz 2 ist entsprechend anzuwenden.
 
-
 ## Teil 4 - Überprüfung der Flugzeug- beleihungswertermittlung und Inkrafttreten
-
 
 ### § 12 Überprüfung der Grundlagen der Flugzeugbeleihungswertermittlung
 
@@ -264,7 +247,6 @@ Flugzeugbeleihungswert ist bei Bedarf zu mindern.
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung
 zur Überprüfung des Flugzeugbeleihungswerts besteht, bleibt diese
 unberührt.
-
 
 ### § 13 Inkrafttreten
 

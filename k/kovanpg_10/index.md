@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 1217
 
-
-
 ## (XXXX) Art 1 bis 5
-
-
 
 ## Art 6 Übergangsvorschrift
 
@@ -32,12 +28,10 @@ die Jahre 1980 und 1981 dadurch zu ermitteln, daß der jeweils im
 Vorjahr maßgebende Betrag des Vergleichseinkommens um 4 vom Hundert
 erhöht und auf volle Deutsche Mark nach oben abgerundet wird.
 
-
 ## Art 7 Berlin-Klausel
 
 Dieses Gesetz gilt mit Ausnahme der Artikel 2 und 3 nach Maßgabe des §
 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 8 Inkrafttreten
 

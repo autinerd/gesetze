@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 20 Abs. 3 G v. 13.12.2007 I 2904
 
-
 ## I. - Anwendungsbereich und Zuständigkeit
-
-
 
 ### § 1
 
@@ -36,7 +33,6 @@ März 1951 (Bundesgesetzblatt I S. 169), zuletzt geändert durch das
 Vierte Gesetz zur Anpassung der Leistungen des
 Bundesversorgungsgesetzes vom 24. Juli 1972 (Bundesgesetzblatt I S.
 1284), genannten Verwaltungsbehörden und Stellen gewährt werden.
-
 
 ### § 2
 
@@ -54,7 +50,6 @@ des Bundesversorgungsgesetzes vom 24. Juli 1972 (Bundesgesetzbl. I S.
 zuständigen obersten Landesbehörden können sich selbst oder den
 Landesversorgungsämtern die Zustimmung zu Entscheidungen über
 bestimmte Versorgungsangelegenheiten vorbehalten.
-
 
 ### § 3
 
@@ -87,7 +82,6 @@ Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Geltungsbereichs
 des Grundgesetzes haben, regelt das Bundesministerium für Arbeit und
 Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
 ### § 4
 
 (1)
@@ -99,15 +93,11 @@ Beginn und Ende von Versorgungsleistungen sowie für die Feststellung
 einer Überzahlung für die Zeit vor dem Wechsel des Wohnsitzes oder
 gewöhnlichen Aufenthalts die bisherige Zuständigkeit bestehen.
 
-
 ### § 5
 
 -
 
-
 ## II. - Anträge
-
-
 
 ### § 6
 
@@ -116,23 +106,15 @@ mündlich unter Aufnahme einer Niederschrift bei dem Versorgungsamt zu
 stellen, auch wenn für die Entscheidung das Landesversorgungsamt
 zuständig ist.
 
-
 ### § 7
 
 -
 
-
 ## III. - Die Beteiligten und ihre Vertreter
-
-
 
 ### (XXXX) §§ 8 bis 11 (weggefallen)
 
-
-
 ## IV. - Aufklärung des Sachverhalts
-
-
 
 ### § 12
 
@@ -149,7 +131,6 @@ Berufsgeheimnisses Sorge zu tragen. Unter denselben Voraussetzungen
 kann die Verwaltungsbehörde von privaten Ärzten, die den Antragsteller
 oder Versorgungsberechtigten behandeln oder behandelt haben, Auskünfte
 einholen und Untersuchungsunterlagen zur Einsicht beziehen.
-
 
 ### § 13
 
@@ -168,11 +149,9 @@ die Anhörung vor dieser ebenfalls Schwierigkeiten unterläge, eine
 andere Behörde um die Erledigung ersucht werden. Dasselbe gilt bei
 Gefahr im Verzug.
 
-
 ### § 14
 
 -
-
 
 ### § 15
 
@@ -186,16 +165,13 @@ Fällen von dem Antragsteller die eidesstattliche Versicherung
 verlangen, daß er bei seinen Angaben nach bestem Wissen die reine
 Wahrheit gesagt und nichts verschwiegen habe.
 
-
 ### § 16
 
 -
 
-
 ### § 17
 
 (weggefallen)
-
 
 ### § 18
 
@@ -205,23 +181,15 @@ Antrag erst entschieden werden, wenn der Antragsteller vorher
 schriftlich darauf hingewiesen worden ist, daß sein Verhalten
 nachteilige Folgen für ihn haben kann.
 
-
 ### § 19
 
 (weggefallen)
 
-
 ## V. - Rechts- und Amtshilfe
-
-
 
 ### (XXXX) §§ 20 u. 21 (weggefallen)
 
-
-
 ## VI. - Bescheid
-
-
 
 ### § 22
 
@@ -250,32 +218,21 @@ einkommensabhängigen Leistungen vorbehalten worden, so ist für die
 endgültige Feststellung die vorher getroffene Feststellung der
 Berechnungsgrundlagen nicht bindend.
 
-
 ### (XXXX) §§ 23 bis 26 (weggefallen)
-
-
 
 ## VII. - Bekanntgabe
 
-
-
 ### (XXXX) §§ 27 u. 28 (weggefallen)
-
-
 
 ### § 29
 
 (weggefallen)
 
-
 ## VIII. - *Ku Kosten und *KE Auslagen
-
-
 
 ### § 30
 
 -
-
 
 ### § 31
 
@@ -285,30 +242,17 @@ Berechnungsgrundlagen nicht bindend.
 Ärzten werden die ihnen nach § 12 Abs. 2 entstandenen notwendigen
 baren Auslagen erstattet.
 
-
 ### (XXXX) §§ 32 bis 34 (weggefallen)
-
-
 
 ## IX. - Akteneinsicht
 
-
-
 ### (XXXX) §§ 35 u. 36 (weggefallen)
-
-
 
 ## X. - Fristen
 
-
-
 ### (XXXX) §§ 37 bis 39 (weggefallen)
 
-
-
 ## XI. - Berichtigung von Bescheiden
-
-
 
 ### § 40
 
@@ -318,34 +262,23 @@ baren Auslagen erstattet.
 
 (3) (weggefallen)
 
-
 ### § 41
 
 (1) (weggefallen)
 
 (2) (weggefallen)
 
-
 ### (XXXX) §§ 42 bis 44 (weggefallen)
-
-
 
 ## XII. - Amtsverschwiegenheit und Ausschließung von der Mitwirkung in Versorgungssachen
 
-
-
 ### (XXXX) §§ 45 u. 46 (weggefallen)
 
-
-
 ## XIII. - Rückerstattung von Versorgungsleistungen
-
-
 
 ### § 47
 
 -
-
 
 ### § 48
 
@@ -353,15 +286,11 @@ Die Entscheidung über die Rückzahlung einer Kapitalabfindung ist auch
 für das Verfahren auf Befriedigung aus einer für den
 Rückzahlungsanspruch bestellten Sicherungshypothek bindend.
 
-
 ## XIV. - Schluß- und Übergangsvorschriften
-
-
 
 ### § 49
 
 -
-
 
 ### § 50
 
@@ -373,7 +302,6 @@ enthaltenen Ermächtigung erlassen werden, gelten im Land Berlin nach §
 
 (2) § 42 gilt auch für Entscheidungen des Einspruchsausschusses beim
 Landesversorgungsamt Berlin.
-
 
 ### § 51
 
@@ -387,7 +315,6 @@ Landesversorgungsamt Berlin.
 Soweit in anderen gesetzlichen und sonstigen Bestimmungen auf die
 aufgehobenen Vorschriften verwiesen ist, treten die entsprechenden
 Vorschriften dieses Gesetzes an ihre Stelle.
-
 
 ### § 52
 

@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1953, 663
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Erlasses über die Stiftung des Grubenwehr-
 Ehrenzeichens vom 14. Juli 1953 wird für die Einreichung und
 Behandlung der Vorschläge folgendes bestimmt:
-
 
 ## § 1
 
@@ -42,7 +39,6 @@ sind zu begründen.
 und Karteikarten beizufügen. Vordrucke werden bei der Bundesdruckerei
 Bonn vorrätig gehalten.
 
-
 ## § 2
 
 Die Verleihungsurkunden werden vom Chef des Bundespräsidialamtes nach
@@ -52,7 +48,6 @@ Diese veranlassen die Aushändigung an die Beliehenen und teilen dies
 dem Bundespräsidialamt zur Vervollständigung der Namenskartei (§ 1
 Abs. 3) mit.
 
-
 ## § 3
 
 Personen, denen auf Grund der Verordnung vom 30. Januar 1938
@@ -61,13 +56,11 @@ ist, können den Umtausch dieses Ehrenzeichens in das neu gestiftete
 Grubenwehr-Ehrenzeichen in Silber bei den in § 1 genannten
 Vorschlagsberechtigten beantragen.
 
-
 ## § 4
 
 Verlorengegangene Grubenwehr-Ehrenzeichen werden nicht ersetzt. Der
 Inhaber ist berechtigt, sich auf seine Kosten ein Ersatzstück zu
 beschaffen.
-
 
 ## Schlußformel
 

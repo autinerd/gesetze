@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 129 V v. 29.10.2001 I 2785
 
-
 ## § 1 Anspruchsberechtigter, Fördergebiet
 
 (1) Für begünstigte Investitionen im Sinne der §§ 2 und 3, die im
@@ -34,7 +33,6 @@ Gesellschaft oder Gemeinschaft.
 (2) Fördergebiet sind die Länder Berlin, Brandenburg, Mecklenburg-
 Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem
 Gebietsstand vom 3. Oktober 1990.
-
 
 ## § 2 Bewegliche Wirtschaftsgüter des Anlagevermögens
 
@@ -55,10 +53,6 @@ Anlagevermögens, die
 3.  in jedem Jahr des in Nummer 2 genannten Zeitraums vom
     Steuerpflichtigen zu nicht mehr als 10 vom Hundert privat genutzt
     werden.
-
-
-
-
 
 ## § 3 Baumaßnahmen
 
@@ -95,10 +89,6 @@ Wirtschaftsguts ist nur begünstigt, wenn
     worden ist, soweit Modernisierungsmaßnahmen und andere nachträgliche
     Herstellungsarbeiten nach dem Abschluß dieses Vertrags oder Rechtsakts
     durchgeführt worden sind.
-
-
-
-
 
 ## § 4 Sonderabschreibungen
 
@@ -203,7 +193,6 @@ Herstellungsarbeiten folgenden Jahr an, bis zum Ende des neunten
 Jahres nach dem Jahr der Beendigung der Herstellungsarbeiten in
 gleichen Jahresbeträgen abzusetzen.
 
-
 ## § 5 Gewinnabzug
 
 Land- und Forstwirte, deren Gewinn nach § 13a des
@@ -217,7 +206,6 @@ Gewinn abziehen. Die abzugsfähigen Beträge dürfen insgesamt 4.000
 Deutsche Mark nicht übersteigen und nicht zu einem Verlust aus Land-
 und Forstwirtschaft führen. § 7a Abs. 5 und 6 des
 Einkommensteuergesetzes gilt entsprechend.
-
 
 ## § 6 Steuerfreie Rücklage
 
@@ -242,7 +230,6 @@ aufgelöst wird, ohne daß in gleicher Höhe Sonderabschreibungen nach §
 Rücklage aufgelöst wird, für jedes volle Wirtschaftsjahr, in dem die
 Rücklage bestanden hat, um 6 vom Hundert des aufgelösten
 Rücklagebetrags zu erhöhen.
-
 
 ## § 7 Abzugsbetrag bei zu eigenen Wohnzwecken genutzten Gebäuden
 
@@ -290,7 +277,6 @@ Einkunftserzielung wie Sonderausgaben abzuziehen.
 unbewegliche Wirtschaftsgüter sind, und auf Eigentumswohnungen
 entsprechend anzuwenden.
 
-
 ## § 7a Steuerermäßigung für Darlehen zur Verstärkung des haftenden Kapitals von kleinen und mittleren Betrieben
 
 (1) Bei unbeschränkt Steuerpflichtigen im Sinne des
@@ -334,7 +320,6 @@ Verzinsung der Darlehen gewährleistet erscheint. Die Vergabe und
 Verwaltung der Mittel aus den Darlehen erfolgt nach einer Richtlinie,
 die das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium der Finanzen erläßt.
-
 
 ## § 8 Anwendung
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 520 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 142 Abs. 1 des Seemannsgesetzes in der im
@@ -35,18 +34,15 @@ Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) verordnet das
 Bundesministerium für Verkehr hinsichtlich des § 34 im Einvernehmen
 mit dem Bundesministerium der Finanzen:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung zum
 Schiffsmechaniker/zur Schiffsmechanikerin auf Seeschiffen.
 
-
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Schiffsmechaniker/Schiffsmechanikerin wird
 staatlich anerkannt.
-
 
 ## § 3 Zuständige Stelle
 
@@ -63,7 +59,6 @@ die Berufsausbildungsverträge und trägt deren wesentliche Inhalte und
 (3) Die zuständige Stelle erkennt auf Antrag des Ausbildenden ein
 Schiff als nach Art und Einrichtung geeignete Ausbildungsstätte an,
 wenn die Anforderungen der §§ 4 und 4a erfüllt sind.
-
 
 ## § 4 Ausbilder,Ausbildender, Ausbildungsstätte
 
@@ -127,10 +122,6 @@ Kriterien für die Eignung als Ausbildungsstätte zählen:
     der Ausbildung an Bord beauftragt wurden, von denen einer ein
     Schiffsmechaniker sein soll.
 
-
-
-
-
 ## § 4a Berufsausbildungsverhältnis
 
 (1) Die Vorschriften des Berufsbildungsgesetzes über
@@ -139,7 +130,6 @@ in der jeweils geltenden Fassung werden angewendet.
 
 (2) Das Berufsausbildungsverhältnis beginnt mit einer Probezeit. Sie
 muss mindestens einen Monat und darf höchstens fünf Monate betragen.
-
 
 ## § 5 Berufsausbildung außerhalb der Ausbildungsstätte
 
@@ -150,7 +140,6 @@ nicht in vollem Umfang in der Ausbildungsstätte vermittelt werden
 können. Die Ausbildung außerhalb der Ausbildungsstätte ist unter
 Beachtung der Pflicht der Auszubildenden zum Besuch des
 Berufsschulunterrichts zu organisieren.
-
 
 ## § 6 Ausbildungsdauer
 
@@ -167,7 +156,6 @@ erforderlich ist, um das Ausbildungsziel zu erreichen.
 
 (4) Vor der Entscheidung nach den Absätzen 2 und 3 sind die
 Beteiligten zu hören.
-
 
 ## § 7 Anrechnung eines schulischen Berufsgrundbildungsjahres
 
@@ -187,10 +175,6 @@ halben Jahr auf die Ausbildungszeit nach § 6 anzurechnen, wenn
     von ihr am 19. Mai 1978 beschlossenen Rahmenvereinbarung über das
     Berufsgrundbildungsjahr (BAnz. Nr. 130 vom 15. Juli 1978) erteilt
     wird.
-
-
-
-
 
 ## § 8 Ausbildungsberufsbild
 
@@ -340,13 +324,6 @@ Kenntnisse und Fertigkeiten:
     19. Verhalten und Durchführen von Maßnahmen in Notfällen sowie Versorgen
         von Verletzten.
 
-
-
-
-
-
-
-
 ## § 9 Ausbildungsrahmenplan
 
 (1) Die in § 8 genannten Fertigkeiten und Kenntnisse sollen nach der
@@ -365,7 +342,6 @@ insbesondere selbständiges Planen, Durchführen und Kontrollieren an
 seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den
 Prüfungen nach den §§ 13 und 14 nachzuweisen.
 
-
 ## § 10 Ausbildungsplan
 
 (1) Der Ausbildende hat unter Zugrundelegung des
@@ -383,7 +359,6 @@ Organisation (BGBl. 2003 II S. 232), in seiner jeweils innerstaatlich
 geltenden Fassung zu führen und zu unterschreiben. Die Führung des
 Berichtsheftes nach § 11 bleibt hiervon unberührt.
 
-
 ## § 11 Führung des Berichtsheftes
 
 Der Auszubildende hat ein Berichtsheft als Ausbildungsnachweis zu
@@ -391,7 +366,6 @@ führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der
 Ausbildungszeit zu führen. Das Berichtsheft ist vom Ausbildenden oder
 dem Ausbilder monatlich und bei einer Abmusterung des Auszubildenden
 gegenzuzeichnen.
-
 
 ## § 12 Zeugnis
 
@@ -405,7 +379,6 @@ Berufsausbildung sowie über die erworbenen Fertigkeiten und Kenntnisse
 des Auszubildenden. Auf Verlangen des Auszubildenden sind auch Angaben
 über Führung, Leistung und besondere fachliche Fähigkeiten
 aufzunehmen.
-
 
 ## § 13 Zwischenprüfung
 
@@ -487,7 +460,6 @@ programmierter Form durchgeführt wird.
 
 (6) (weggefallen)
 
-
 ## § 14 Abschlußprüfung
 
 (1) Es ist eine Abschlußprüfung durchzuführen. Die Abschlußprüfung
@@ -496,12 +468,10 @@ kann zweimal wiederholt werden.
 (2) Dem Prüfling ist ein Zeugnis nach dem Muster der Anlage 2
 auszustellen.
 
-
 ## § 15 Prüfungsausschüsse
 
 Für die Abnahme der Abschlußprüfung errichtet die zuständige Stelle
 Prüfungsausschüsse.
-
 
 ## § 16 Zusammensetzung und Berufung des Prüfungsausschusses
 
@@ -537,7 +507,6 @@ wird.
 erforderliche Zahl von Mitgliedern des Prüfungsausschusses nicht
 berufen werden kann.
 
-
 ## § 17 Vorsitz, Beschlußfähigkeit, Abstimmung des Prüfungsausschusses
 
 (1) Der Prüfungsausschuß wählt aus seiner Mitte einen Vorsitzenden und
@@ -548,7 +517,6 @@ nicht derselben Mitgliedergruppe angehören.
 Mitglieder, mindestens drei, mitwirken. Er beschließt mit der Mehrheit
 der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des
 Vorsitzenden den Ausschlag.
-
 
 ## § 18 Zulassung zur Abschlußprüfung
 
@@ -576,14 +544,12 @@ Vorsitzenden den Ausschlag.
 Berufsschule vor Ablauf seiner Ausbildungszeit zur Abschlußprüfung
 zugelassen werden, wenn seine Leistungen dies rechtfertigen.
 
-
 ## § 19 Zulassung zur Abschlussprüfung in besonderen Fällen
 
 Die zuständige Stelle kann im Einvernehmen mit dem Bundesministerium
 für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für
 Arbeit und Soziales allgemeine Kriterien für die Zulassung zur
 Abschlussprüfung in besonderen Fällen festlegen und veröffentlichen.
-
 
 ## § 20 Entscheidung über die Zulassung zur Abschlußprüfung
 
@@ -608,7 +574,6 @@ mitzuteilen.
 (5) Die Zulassung kann vom Prüfungsausschuß widerrufen werden, wenn
 sie aufgrund gefälschter Unterlagen oder falscher Angaben erteilt
 wurde.
-
 
 ## § 21 Anforderungen in der Abschlussprüfung
 
@@ -908,14 +873,9 @@ gegenüber der mündlichen das doppelte Gewicht.
     Wachdienst, Brandschutz und Brandabwehr sowie Rettungsdienst
     mindestens mit ausreichend bewertet sein.
 
-
-
-
-
 ## § 22
 
 (weggefallen)
-
 
 ## § 23 Prüfungsaufgaben
 
@@ -926,7 +886,6 @@ Ausbildungsordnung die Prüfungsaufgaben.
 aus Mitgliedern der Prüfungsausschüsse. Die Prüfungsausschüsse sind
 gehalten, die zentral erstellten Prüfungsaufgaben zu übernehmen.
 
-
 ## § 24 Nichtöffentlichkeit der Prüfungen
 
 Die Prüfungen sind nicht öffentlich. Vertreter der obersten
@@ -935,7 +894,6 @@ Berufsgenossenschaft können anwesend sein. Der Prüfungsausschuß kann
 im Einvernehmen mit der zuständigen Stelle die Anwesenheit anderer
 Personen zulassen. Bei der Beratung über das Prüfungsergebnis dürfen
 nur die Mitglieder des Prüfungsausschusses anwesend sein.
-
 
 ## § 25 Leitung und Aufsicht der Prüfungen
 
@@ -961,7 +919,6 @@ eine Niederschrift zu fertigen.
 (5) Soweit körperlich, geistig oder seelisch Behinderte an der Prüfung
 teilnehmen, sind deren besondere Belange bei der Prüfung zu
 berücksichtigen.
-
 
 ## § 26 Bewertung der Prüfungen
 
@@ -1001,7 +958,6 @@ wie folgt bewertet:
 zu bewerten. Bei den Arbeitsproben erfolgt die Bewertung aufgrund der
 Berichte nach § 25 Abs. 3 Satz 2.
 
-
 ## § 27 Nichtbestehen und Wiederholung der Abschlußprüfung
 
 (1) Hat der Prüfling bei nicht bestandener Prüfung in der praktischen
@@ -1033,7 +989,6 @@ Anmeldung für die Wiederholungsprüfung fest.
 sinngemäß. Außerdem sind Ort und Datum der vorausgegangenen Prüfung
 anzugeben.
 
-
 ## § 28 Rücktritt von der Prüfung, Nichtteilnahme
 
 (1) Der Prüfungsbewerber kann nach erfolgter Anmeldung vor Beginn der
@@ -1052,7 +1007,6 @@ Grund vorliegt, so gilt die Prüfung als nicht bestanden.
 (4) Über das Vorliegen eines wichtigen Grundes entscheidet der
 Prüfungsausschuß.
 
-
 ## § 29 Ordnungsverstöße und Täuschungsversuche
 
 Der Prüfungsausschuß kann Prüflinge, die die ordnungsgemäße
@@ -1062,7 +1016,6 @@ Prüfung ausschließen und die Leistungen in dem betreffenden
 Prüfungsteil als nicht ausreichend erklären. Eine solche Erklärung ist
 nach Ablauf von einem Jahr nach Abschluß der Prüfung nicht mehr
 zulässig.
-
 
 ## § 30 Prüfungsunterlagen
 
@@ -1076,13 +1029,11 @@ Niederschriften gemäß § 25 Abs. 4 sind zehn Jahre aufzubewahren. Der
 Ablauf der vorgenannten Fristen wird durch das Einlegen eines
 Rechtsmittels gehemmt.
 
-
 ## § 31 Erwerb des Schiffsmechanikerbriefes
 
 Wer die Abschlußprüfung bestanden hat, erhält einen
 Schiffsmechanikerbrief nach dem Muster der Anlage 3. Der
 Schiffsmechanikerbrief wird von der zuständigen Stelle ausgestellt.
-
 
 ## § 32 Europaklausel
 
@@ -1092,26 +1043,21 @@ eines anderen Vertragsstaates des Abkommens über den Europäischen
 Wirtschaftsraum (§ 31 des Berufsbildungsgesetzes) in der jeweils
 geltenden Fassung werden angewendet.
 
-
 ## § 32a (weggefallen)
 
 -
-
 
 ## § 32b (weggefallen)
 
 -
 
-
 ## § 32c (weggefallen)
 
 -
 
-
 ## § 32d
 
 (weggefallen)
-
 
 ## § 33 Ersatz des Schiffsmechanikerbriefes
 
@@ -1121,7 +1067,6 @@ zuständige Stelle auf Antrag eine Ersatzausfertigung aus, die als
 solche zu bezeichnen ist. Der unbrauchbar gewordene
 Schiffsmechanikerbrief ist abzuliefern.
 
-
 ## § 33a
 
 Soweit durch diese Rechtsverordnung Schriftform einschließlich für
@@ -1130,7 +1075,6 @@ Niederschrift anzufertigen ist oder Zeugnisse, Bescheinigungen oder
 andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu
 beantragen ist, sie auszuhändigen, vorzulegen oder mitzuführen sind,
 ist die elektronische Form ausgeschlossen.
-
 
 ## § 34 Kosten
 
@@ -1179,7 +1123,6 @@ ist die elektronische Form ausgeschlossen.
 (2) Die Kosten (Gebühren und Auslagen) werden von der zuständigen
 Stelle festgesetzt und eingezogen.
 
-
 ## § 35 Übergangsregelung
 
 Auf die bestehenden Berufsausbildungsverhältnisse sind die bisherigen
@@ -1187,16 +1130,13 @@ Vorschriften weiter anzuwenden, es sei denn, die Vertragspartner
 vereinbaren die Anwendung der Vorschriften dieser Verordnung für
 Ausbildungsverhältnisse im ersten oder zweiten Ausbildungsjahr.
 
-
 ## § 36 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1994 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 9) Ausbildungsrahmenplan für die Berufsausbildung zum Schiffsmechaniker/zur Schiffsmechanikerin
 
@@ -2744,13 +2684,11 @@ in § 8 Nr. 6 bis 11, 17 und 18 aufgeführten Teilen des
 Ausbildungsberufsbildes Fertigkeiten und Kenntnisse in
 überbetrieblichen Ausbildungsstätten vermittelt werden.
 
-
 ## Anlage 2 (zu § 14) Berufsbildungsstelle Seeschiffahrt e.V. Zeugnis über die Abschlußprüfung zum Schiffsmechaniker/zur Schiffsmechanikerin Certificate of Final Examination of Ship Mechanic
 
 (Inhalt: nicht erfaßtes Muster eines Zeugnisses über die
 Abschlußprüfung zum Schiffsmechaniker/zur Schiffsmechanikerin,
 Fundstelle: BGBl. I 1994 S. 817)
-
 
 ## Anlage 3 (zu § 31)
 

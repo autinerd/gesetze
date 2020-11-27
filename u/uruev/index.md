@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 G v. 22.6.1998 I 1474
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 9 des Vermögensgesetzes in der Fassung der
@@ -26,10 +25,7 @@ Bekanntmachung vom 18. April 1991 (BGBl. I S. 957) verordnet der
 Bundesminister der Justiz im Einvernehmen mit dem Bundesminister der
 Finanzen und dem Bundesminister für Wirtschaft:
 
-
 ## Abschnitt 1 - Gegenstand der Rückgabe
-
-
 
 ### § 1 Zurückzugebendes Unternehmen
 
@@ -54,7 +50,6 @@ in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht
 erforderte oder den Betrieb eines handwerklichen oder sonstigen
 gewerblichen Unternehmens oder den der Land- und Forstwirtschaft zum
 Gegenstand hatte.
-
 
 ### § 2 Vergleichbarkeit
 
@@ -81,10 +76,7 @@ Unternehmen nicht mehr sanierungsfähig ist oder das das
 zurückzugebende Unternehmen um Betriebsteile ergänzt werden muß, um
 fortgeführt werden zu können.
 
-
 ## Abschnitt 2 - Wertausgleich. Sorgfaltspflicht
-
-
 
 ### § 3 Wertänderungen
 
@@ -95,7 +87,6 @@ D-Markbilanzgesetzes berücksichtigt werden können, so sind in dieser
 Bilanz die Vermögensgegenstände, Schulden und Sonderposten mit den
 Werten anzusetzen, die sich bei Anwendung des D-Markbilanzgesetzes auf
 den Stichtag der Bilanz ergeben.
-
 
 ### § 4 Sorgfaltspflicht, Haftung
 
@@ -114,7 +105,6 @@ Schadensersatz gehört zu der übergehenden Vermögensmasse.
 von Gesellschaften im Aufbau, wenn sie diese unmittelbar oder
 mittelbar bestellt hat. Regreßansprüche der Treuhandanstalt gegen
 diese Personen bleiben unberührt.
-
 
 ### § 5 Eigenkapital bei Rückgabe
 
@@ -148,7 +138,6 @@ Rechtsform vorgeschriebenen Mindestkapitals angesetzt werden.
 zu erlassen, der erforderlich ist, um das gezeichnete Kapital in der
 nach Absatz 1 vorgeschriebenen Höhe festsetzen zu können. Ein
 weitergehender Ausgleich findet nicht statt.
-
 
 ### § 6 Verschlechterung der Ertragslage
 
@@ -202,7 +191,6 @@ werden. Dies gilt nicht, wenn der Berechtigte ihrer Fortsetzung
 widerspricht. § 3 Abs. 3 Satz 7 des Vermögensgesetzes bleibt
 unberührt.
 
-
 ### § 7 Verzinsung der Ausgleichsforderungen und Ausgleichsverbindlichkeiten
 
 (1) Ausgleichsforderungen und Ausgleichsverbindlichkeiten nach § 6
@@ -226,7 +214,6 @@ ist entsprechend anzuwenden. Der Schuldner ist zur weitergehenden
 Tilgung jederzeit berechtigt; er ist hierzu verpflichtet, soweit er
 Vermögensgegenstände veräußert, die für die Ausgleichsverbindlichkeit
 ursächlich waren.
-
 
 ### § 8 Behandlung staatlicher Leistungen
 
@@ -253,10 +240,7 @@ anzuwenden.
 Lastenausgleichsgesetz gewährt worden sind, richtet sich nach den
 dafür maßgeblichen Vorschriften.
 
-
 ## Abschnitt 3 - Durchführung der Rückgabe
-
-
 
 ### § 9 Eigentumsübergang
 
@@ -284,7 +268,6 @@ Vermögensgesetzes verlangt.
 werden, wenn dadurch der Ausschließlichkeitsanspruch des Berechtigten
 nach § 30 des Handelsgesetzbuchs oder dessen Namensrecht
 beeinträchtigt wird.
-
 
 ### § 10 Übertragung von Anteilen auf die Gesellschafter
 
@@ -325,7 +308,6 @@ Rechte wiedereingesetzt. Bis zur Bestandskraft der Entscheidung über
 den Antrag ist die Zuteilung nach Absatz 3 auszusetzen. Die
 Wiedereinsetzung wirkt auf den Zeitpunkt der Schädigung zurück.
 
-
 ### § 11 Besonderheiten wegen der Rechtsform
 
 (1) Wird die Rückgabe eines Unternehmens verlangt, das im Zeitpunkt
@@ -350,7 +332,6 @@ persönlich haftender Gesellschafter wird und daß die Anteilsrechte an
 der Kapitalgesellschaft auf sie oder ihre Gesellschafter übertragen
 werden.
 
-
 ### § 12 Erbfall
 
 (1) Ist ein Gesellschafter einer geschädigten
@@ -369,10 +350,7 @@ Gesellschafter der Kommanditgesellschaft wird.
 an einer Kapitalgesellschaft nach § 6 Abs. 5a Satz 1 Buchstabe c des
 Vermögensgesetzes, so stehen ihnen diese zur gesamten Hand zu.
 
-
 ## Abschnitt 4 - Unternehmensrückgaben nach dem Unternehmensgesetz und Beteiligungskäufe
-
-
 
 ### § 13 Wirksamkeit abgeschlossener Verträge
 
@@ -389,7 +367,6 @@ beantragt worden ist.
 durchzuführenden Verträgen erforderlichen Eintragungen auf Antrag vor.
 Der Anspruch des Berechtigten auf Überprüfung nach § 6 Abs. 8 des
 Vermögensgesetzes bleibt unberührt.
-
 
 ### § 14 Überprüfung von Unternehmensrückgaben
 
@@ -431,10 +408,7 @@ Auffassung der Behörde schlechter, so hat sie ihn darauf hinzuweisen,
 daß er seinen Antrag bis zur Unanfechtbarkeit ihrer Entscheidung
 zurücknehmen oder nach Absatz 2 Satz 1 und 2 beschränken kann.
 
-
 ## Abschnitt 5 - Verfahren
-
-
 
 ### § 15 Zuständige Behörde
 
@@ -448,7 +422,6 @@ und 8 des Vermögensgesetzes.
 (2) Anträge, die an eine örtlich nicht zuständige Behörde gerichtet
 werden, bleiben zulässig. Sie sind an die zuständige Behörde
 weiterzuleiten.
-
 
 ### § 16 Behandlung staatlicher Beteiligungen
 
@@ -466,7 +439,6 @@ dieser von seinem Rücktrittsrecht Gebrauch, so hat das nach Absatz 1
 zuständige Landesamt auf Antrag des zurückgetretenen Käufers die
 Rückabwicklung anzuordnen, soweit eine Einigung mit dem Verkäufer der
 staatlichen Beteiligung nicht zustande kommt.
-
 
 ### § 17 Quorum
 
@@ -496,7 +468,6 @@ diese Personen aufhalten, so wird auf Antrag von Mitberechtigten oder
 von Amts wegen ein Pfleger nach den §§ 1911, 1913 des Bürgerlichen
 Gesetzbuchs bestellt.
 
-
 ### § 18 Antrag auf Rückgabe
 
 (1) Wird ein Antrag auf Rückgabe eines Unternehmens von einer in § 6
@@ -515,7 +486,6 @@ statt dessen die Entschädigung nach § 6 Abs. 6 Satz 3 des
 Vermögensgesetzes gewählt wird, dem geschädigten Unternehmen als dem
 Berechtigten vorbehalten.
 
-
 ### § 19 Anwendung sonstiger Vorschriften
 
 (1) Auf die Ausführung des Vermögensgesetzes und dieser Verordnung ist
@@ -527,15 +497,11 @@ Verwaltungszustellungsgesetzes bewirkt.
 (3) Für Vollstreckungen gilt das Verwaltungs-Vollstreckungsgesetz
 entsprechend.
 
-
 ## Abschnitt 6 - Schlußvorschriften
-
-
 
 ### § 20 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlußformel
 

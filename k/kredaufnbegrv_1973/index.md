@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1973, 504
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 19 und 20 des Gesetzes zur Förderung der Stabilität
@@ -26,7 +24,6 @@ S. 582), geändert durch das Finanzanpassungsgesetz vom 30. August 1971
 (Bundesgesetzbl. I S. 1426), verordnet die Bundesregierung nach
 Anhörung des Konjunkturrates für die öffentliche Hand mit Zustimmung
 des Bundesrates:
-
 
 ## § 1
 
@@ -152,7 +149,6 @@ oder Umbildung den neu- oder umgebildeten Körperschaften im Verhältnis
 der in sie aufgenommenen Einwohner zuzurechnen; die Länder können
 Abweichungen zulassen.
 
-
 ## § 2
 
 (1) Kredit im Sinne dieser Verordnung ist jede Beschaffung von
@@ -174,7 +170,6 @@ Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 bezeichneten Stellen, Kreditaufnahmen gemäß § 20 Abs. 3 des Gesetzes
 sowie die Stabilitätsanleihe des Bundes bleiben außer Betracht.
 
-
 ## § 3
 
 Im Rahmen der sich aus § 1 ergebenden Höchstbeträge dürfen Anleihen
@@ -184,14 +179,12 @@ Stabilität und des Wachstums der Wirtschaft aufzustellenden Zeitplans
 aufgenommen werden. Dies gilt nicht für Schuldscheindarlehen, soweit
 sie im Einzelfall 20 Millionen DM nicht übersteigen.
 
-
 ## § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 32 des
 Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 auch im Land Berlin.
-
 
 ## § 5
 

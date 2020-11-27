@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 18 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -30,10 +29,7 @@ Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I
 S. 706) neu gefasst worden ist, verordnet das Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -100,7 +96,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst soll die Beamtinnen und Beamten befähigen, die
@@ -111,7 +106,6 @@ neben dem Fachwissen insbesondere auch die Grundlagen für das zur
 Aufgabenwahrnehmung erforderliche Verständnis für kulturelle,
 rechtliche, politische, wirtschaftliche, technische und soziale
 Fragen.
-
 
 ### § 3 Einstellungsbehörden, Ausbildungsbibliotheken
 
@@ -137,7 +131,6 @@ Bibliotheksdienstes geleitet werden und die die Gewähr dafür bieten,
 dass die Anforderungen nach den §§ 14 bis 17 erfüllt werden, als
 Ausbildungsbibliotheken anerkennen.
 
-
 ### § 4 Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
@@ -156,10 +149,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     Hochschulabschluss außerhalb des Geltungsbereiches der
     Bundeslaufbahnverordnung können eingestellt werden, wenn der
     Hochschulabschluss gleichwertig ist.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -202,10 +191,6 @@ beizufügen:
 
 4.  gegebenenfalls eine Ablichtung des Schwerbehindertenausweises oder des
     Bescheides über die Gleichstellung als schwerbehinderter Mensch.
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -255,7 +240,6 @@ entsprechend.
 Ersatzmitglieder der Auswahlkommission für die Dauer von drei Jahren;
 Wiederbestellung ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörden entscheiden unter Berücksichtigung des
@@ -299,7 +283,6 @@ weitere Unterlagen beizubringen:
 Die Kosten des Gesundheitszeugnisses trägt die jeweilige
 Einstellungsbehörde.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit der Einstellung in den Vorbereitungsdienst werden - unter
@@ -310,7 +293,6 @@ ernannt.
 (2) Die Referendarinnen und Referendare unterstehen der Dienstaufsicht
 der jeweiligen Einstellungsbehörde. Während der Abordnung zu anderen
 Behörden unterstehen sie zusätzlich auch deren Dienstaufsicht.
-
 
 ### § 9 Dauer, Inhalt, Gliederung und Abschluss des Vorbereitungsdienstes
 
@@ -337,7 +319,6 @@ werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu
 ermöglichen.
 
 (6) Der Vorbereitungsdienst schließt mit der Laufbahnprüfung ab.
-
 
 ### § 10 Verlängerung und Verkürzung des Vorbereitungsdienstes
 
@@ -380,7 +361,6 @@ soweit Aufgaben der Laufbahn des höheren Dienstes an
 wissenschaftlichen Bibliotheken wahrgenommen wurden. Die Verkürzung
 darf sechs Monate nicht überschreiten.
 
-
 ### § 11 Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
@@ -397,11 +377,9 @@ Sozialgesetzbuch fallen, angewandt.
 (2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht
 beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
-
 ### § 12 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 13 Ausbildungsakte
 
@@ -409,7 +387,6 @@ Für die Referendarinnen und Referendare sind Personalteilakten
 "Ausbildung" zu führen, in die der Ausbildungsplan, die
 Leistungsnachweise, Lehrgangsklausuren und Bewertungen aufzunehmen
 sind.
-
 
 ### § 14 Ziel der praktischen Ausbildung
 
@@ -433,7 +410,6 @@ den Referendarinnen und Referendaren nicht übertragen werden.
 
 (4) Die Ausbildungsbibliotheken koordinieren die praktische
 Ausbildung.
-
 
 ### § 15 Durchführung der praktischen Ausbildung
 
@@ -492,7 +468,6 @@ der in § 17 festgesetzten Noten und Punktzahlen bewertet. Nach der
 Bewertung sind die Arbeiten mit den Referendarinnen und Referendaren
 zu besprechen.
 
-
 ### § 16 Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
 (1) Jede Ausbildungsbibliothek bestellt eine Beamtin oder einen
@@ -514,7 +489,6 @@ entlastet. Die Referendarinnen und Referendare werden am Arbeitsplatz
 unterwiesen und angeleitet. Die Ausbilderinnen und Ausbilder
 unterrichten die Ausbildungsleitung regelmäßig über den erreichten
 Ausbildungsstand.
-
 
 ### § 17 Bewertung während der praktischen Ausbildung
 
@@ -576,7 +550,6 @@ eröffnen. Die Referendarinnen und Referendare erhalten eine
 Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
 nehmen.
 
-
 ### § 18 Durchführung der theoretischen Ausbildung
 
 (1) Die Referendarinnen und Referendare werden für die theoretische
@@ -619,13 +592,7 @@ Gebiete erstrecken:
 
 11. Allgemein- und Fachbibliographien, Informationsvermittlung.
 
-
-
-
-
 ## Kapitel 2 - Erwerb der Laufbahnbefähigung
-
-
 
 ### § 19 Prüfung
 
@@ -637,7 +604,6 @@ zugewiesen sind, ab.
 (2) Mit dem Bestehen der in Absatz 1 genannten Prüfung erwerben die
 Referendarinnen und Referendare die Befähigung für die Laufbahn des
 höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes.
-
 
 ### § 20 Wiederholung
 
@@ -652,7 +618,6 @@ Ausbildung muss mindestens sechs Monate dauern und darf ein Jahr nicht
 übersteigen. Der Vorbereitungsdienst wird bis zum Ablauf der
 Wiederholungsfrist verlängert.
 
-
 ### § 21 Ende des Vorbereitungsdienstes
 
 (1) Mit dem Bestehen oder endgültigen Nichtbestehen der in § 19 Abs. 1
@@ -662,10 +627,7 @@ der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 (2) Das Bestehen der Prüfung im Sinne des § 19 Abs. 1 begründet keinen
 Anspruch auf Übernahme in das Beamtenverhältnis auf Probe.
 
-
 ## Kapitel 3 - Aufstieg
-
-
 
 ### § 22 Aufstieg, Auswahlverfahren
 
@@ -682,7 +644,6 @@ entsprechend.
 (3) Über die Zulassung zum Aufstieg entscheidet die zuständige oberste
 Dienstbehörde auf Grund des Ergebnisses des Auswahlverfahrens.
 
-
 ### § 23 Einführung
 
 (1) Die Aufstiegsbeamtinnen und -beamten nehmen zur Einführung in die
@@ -694,17 +655,13 @@ gelten entsprechend.
 entspricht der in § 19 Abs. 1 genannten Prüfung. § 20 gilt
 entsprechend.
 
-
 ### § 24 Rechtsstellung nach bestandener Aufstiegsprüfung
 
 Nach bestandener Aufstiegsprüfung bleiben die Beamtinnen und Beamten
 bis zur Verleihung des Eingangsamtes der neuen Laufbahn in ihrer
 bisherigen Rechtsstellung.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 25 Übergangsregelung
 
@@ -712,7 +669,6 @@ Ausbildung und Prüfung der vor Inkrafttreten dieser Verordnung in den
 Vorbereitungsdienst eingestellten Referendarinnen und Referendare
 richten sich nach den bisherigen Vorschriften. Dies gilt für
 Aufstiegsbeamtinnen und Aufstiegsbeamte entsprechend.
-
 
 ### § 26 Inkrafttreten
 

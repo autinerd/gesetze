@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1969, 937
 
-
-
 ## Art 1
 
 Dem in Kopenhagen am 30. März 1967 unterzeichneten Vertrag zwischen
@@ -27,13 +25,11 @@ gleichen Tage und Zusatzprotokoll vom 9. August 1968 wird zugestimmt.
 Der Vertrag, das Protokoll und das Zusatzprotokoll werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Der Bundesminister der Finanzen wird ermächtigt, Änderungen der Anlage
 des Vertrages auf Grund seines Artikels 2 Satz 2 durch
 Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
-
 
 ## Art 3
 
@@ -48,7 +44,6 @@ Deutsche Mark geahndet werden.
 §§ 446, 447 und 449 der Reichsabgabenordnung
 entsprechend.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -56,7 +51,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 5
 

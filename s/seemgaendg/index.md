@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1961, 1391
 
-
-
 ## Art 1
 
 -
-
 
 ## Art 2 Übergangsvorschriften
 
@@ -30,13 +27,11 @@ Untersuchungen im Sinne des § 81 des Seemannsgesetzes.
 
 (2)
 
-
 ## Art 3 Geltung im Land Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 4 Inkrafttreten
 

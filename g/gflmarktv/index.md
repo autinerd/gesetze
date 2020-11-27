@@ -21,14 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 23.6.2005 I 1797
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte des Rates und der Kommission der Europäischen
 Gemeinschaften über Vermarktungsnormen, die im Rahmen der Gemeinsamen
 Marktorganisation für Geflügelfleisch erlassen sind.
-
 
 ## § 2 Kennzeichnung für unverpacktes Geflügelfleisch
 
@@ -42,7 +40,6 @@ Rates vom 26. Juni 1990 über Vermarktungsnormen für Geflügelfleisch
 Nr. 1101/98 des Rates vom 25. Mai 1998 (ABl. EG Nr. L 157 S. 12),
 gekennzeichnet ist.
 
-
 ## § 3 Marktnotierungen
 
 Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die
@@ -50,7 +47,6 @@ amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
 Preisnotierungen oder Preisfeststellungen für Geflügelfleisch
 vornehmen, sind verpflichtet, ihren Notierungen oder Feststellungen
 die Handelsklassen zugrunde zu legen.
-
 
 ## § 3a Vorschriften für Schlachtbetriebe
 
@@ -80,13 +76,11 @@ unverzüglich die erforderliche Untersuchung der entnommenen Stichprobe
 und unterrichtet den Schlachtbetrieb unverzüglich von dem
 Kontrollergebnis.
 
-
 ## § 3b Analyseverfahren
 
 Für die Kontrollen nach Artikel 14a Abs. 4 der Verordnung (EWG) Nr.
 1538/91 wird das Verfahren nach Anhang V der Verordnung (EWG) Nr.
 1538/91 (Drip-Verfahren) bestimmt.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -210,14 +204,9 @@ Handelsklassengesetzes handelt, wer
 
 6.  entgegen § 3a Abs. 3 Satz 1 Lose oder Bestandteile vermarktet.
 
-
-
-
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6
 

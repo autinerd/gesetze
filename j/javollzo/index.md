@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 53 G v. 8.12.2010 I 1864
 
-
 ## § 1 Vollzugseinrichtungen
 
 (1) Dauerarrest und Kurzarrest von mehr als zwei Tagen werden in
@@ -43,7 +42,6 @@ Veranstaltungen und an erzieherischen Maßnahmen zu ermöglichen.
 (4) Jugendarrestanstalten sollen nicht weniger als 10 und nicht mehr
 als 60 Jugendliche aufnehmen können.
 
-
 ## § 2 Leitung des Vollzuges
 
 (1) Vollzugsleiter ist der Jugendrichter am Ort des Vollzuges. Ist
@@ -57,7 +55,6 @@ gemeinschaftlich übertragen.
 
 (3) Die Zusammenarbeit aller an der Erziehung Beteiligten soll durch
 regelmäßige Besprechungen gefördert werden.
-
 
 ## § 3 Mitarbeiter
 
@@ -76,12 +73,10 @@ Lehrer und andere Fachkräfte als Mitarbeiter bestellt.
 (4) Ehrenamtliche Mitarbeiter können zur Mitwirkung an der
 Erziehungsarbeit herangezogen werden.
 
-
 ## § 4 Nachdrückliche Vollstreckung
 
 Der Jugendarrest ist in der Regel unmittelbar nach Rechtskraft des
 Urteils zu vollziehen.
-
 
 ## § 5 Aufnahme
 
@@ -102,7 +97,6 @@ erforderlich werden, sind rechtzeitig zu veranlassen.
 sind, vor weniger als sechs Wochen entbunden haben oder ihr Kind
 selbst nähren, dürfen nicht aufgenommen werden.
 
-
 ## § 6 Unterbringung
 
 (1) Der Jugendliche wird während der Nacht allein in einem Arrestraum
@@ -118,7 +112,6 @@ untergebracht werden. Erfordert sein körperlicher oder seelischer
 Zustand eine gemeinsame Unterbringung, so ist er auch während des
 Tages mit anderen Jugendlichen zusammen unterzubringen.
 
-
 ## § 7 Persönlichkeitserforschung
 
 Der Vollzugsleiter und die an der Erziehung beteiligten Mitarbeiter
@@ -126,7 +119,6 @@ sollen alsbald ein Bild von dem Jugendlichen und seinen
 Lebensverhältnissen zu gewinnen versuchen, soweit dies für die
 Behandlung des Jugendlichen während des Arrestes und für eine
 Nachbetreuung notwendig ist.
-
 
 ## § 8 Behandlung
 
@@ -139,7 +131,6 @@ Vollzugsleiter etwas anderes bestimmt.
 
 (3) Alle Mitarbeiter haben wichtige Wahrnehmungen, die einen
 Jugendlichen betreffen, unverzüglich dem Vollzugsleiter zu melden.
-
 
 ## § 9 Verhaltensvorschriften
 
@@ -158,7 +149,6 @@ soll dem Jugendlichen nahegebracht werden.
 (3) Der Jugendliche hat die Anordnungen der Vollzugsbediensteten zu
 befolgen und die Verhaltensvorschriften zu beachten.
 
-
 ## § 10 Erziehungsarbeit
 
 (1) Der Vollzug soll so gestaltet werden, daß die körperliche,
@@ -170,7 +160,6 @@ soziale Einzelhilfe, Gruppenarbeit und Unterricht umfassen. Beim
 Vollzug des Freizeitarrestes und des Kurzarrestes bis zu zwei Tagen
 soll eine Aussprache mit dem Vollzugsleiter nach Möglichkeit
 stattfinden.
-
 
 ## § 11 Arbeit und Ausbildung
 
@@ -188,7 +177,6 @@ außerhalb des Anstaltsbereichs kann der Vollzugsleiter aus
 erzieherischen Gründen mit Zustimmung des Jugendlichen zulassen.
 
 (4) Der Jugendliche erhält kein Arbeitsentgelt.
-
 
 ## § 12 Lebenshaltung
 
@@ -213,21 +201,17 @@ abgesehen werden.
 (5) Der Jugendliche hat die notwendigen Maßnahmen zum
 Gesundheitsschutz und zur Hygiene zu unterstützen.
 
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14
 
 (weggefallen)
 
-
 ## § 15
 
 (weggefallen)
-
 
 ## § 16 Sport
 
@@ -238,7 +222,6 @@ getrieben. Der Jugendliche ist verpflichtet, daran teilzunehmen.
 sportliche Übungen vorhanden sind, kann der Vollzugsleiter mit
 Zustimmung des Jugendlichen gestatten, Sporteinrichtungen außerhalb
 der Anstalt zu benutzen.
-
 
 ## § 17 Gesundheitspflege
 
@@ -257,7 +240,6 @@ abweichen.
 nicht behandelt werden, so ordnet der Vollstreckungsleiter die
 Unterbrechung der Vollstreckung an.
 
-
 ## § 18 Freizeit
 
 (1) Der Jugendliche erhält Gelegenheit, seine Freizeit sinnvoll zu
@@ -273,7 +255,6 @@ Jugendlichen zulassen.
 erzieherischen Gründen kann ihm auch eigener Lesestoff belassen
 werden.
 
-
 ## § 19 Seelsorge
 
 (1) Eine geordnete Seelsorge ist zu gewährleisten.
@@ -287,7 +268,6 @@ Veranstaltungen seines Bekenntnisses in der Anstalt teilzunehmen.
 kann der Jugendliche durch einen Geistlichen seines Bekenntnisses
 besucht werden.
 
-
 ## § 20 Verkehr mit der Außenwelt
 
 (1) Der Verkehr mit der Außenwelt wird auf dringende Fälle beschränkt.
@@ -300,14 +280,12 @@ Besuche ist dem Vollzugsleiter vorbehalten. Ist dieser nicht
 erreichbar, so trifft der dazu bestimmte Vollzugsbedienstete die
 Entscheidung.
 
-
 ## § 21 Ausgang und Ausführung
 
 Fordern wichtige unaufschiebbare Angelegenheiten die persönliche
 Anwesenheit des Jugendlichen außerhalb der Anstalt, so kann der
 Vollzugsleiter ihm einen Ausgang gestatten oder ihn ausführen lassen.
 § 20 Abs. 2 Satz 2 ist anzuwenden.
-
 
 ## § 22 Sicherungsmaßnahmen
 
@@ -345,7 +323,6 @@ erfordert, ist ein Arzt zu hören.
 (6) Die gesetzlichen Vorschriften über die Anwendung unmittelbaren
 Zwanges bleiben unberührt.
 
-
 ## § 23 Hausstrafen
 
 (1) Gegen einen Jugendlichen, der schuldhaft seine Pflichten verletzt,
@@ -378,13 +355,11 @@ wird dem Jugendlichen mit kurzer Begründung eröffnet.
 Vollzugsleiter von der weiteren Vollstreckung absehen, wenn der Zweck
 der Hausstrafe bereits durch den teilweisen Vollzug erreicht ist.
 
-
 ## § 24 Bitten und Beschwerden
 
 Dem Jugendlichen wird Gelegenheit gegeben, Bitten und Vorstellungen
 sowie Beschwerden in Angelegenheiten, die ihn selbst betreffen, an den
 Vollzugsleiter zu richten.
-
 
 ## § 25 Zeitpunkt der Aufnahme und der Entlassung
 
@@ -410,7 +385,6 @@ die Schule am Montag rechtzeitig erreichen kann.
 (4) Absatz 3 gilt entsprechend, wenn die Freizeit des Jugendlichen auf
 andere Tage fällt.
 
-
 ## § 26 Fürsorge für die Zeit nach der Entlassung
 
 (1) Fürsorgemaßnahmen, die für die Zeit nach der Entlassung des
@@ -427,7 +401,6 @@ oder aus Billigkeitsgründen nicht in Anspruch genommen werden sollen.
 (3) Maßnahmen nach den Absätzen 1 und 2 sind, soweit erforderlich,
 auch im Fall des § 17 Abs. 4 zu veranlassen.
 
-
 ## § 27 Schlußbericht
 
 (1) Bei Dauerarrest faßt der Vollzugsleiter über jeden Jugendlichen
@@ -441,30 +414,23 @@ Bewährungshelfer zuzuleiten.
 (2) Bei Freizeit- und Kurzarrest wird ein Schlußbericht nur bei
 besonderem Anlaß abgefaßt.
 
-
 ## § 28
 
 -
-
 
 ## § 29
 
 (weggefallen)
 
-
 ## § 30 Heranwachsende
 
 Die Vorschriften dieser Verordnung gelten auch für Heranwachsende.
-
 
 ## § 31
 
 (weggefallen)
 
-
 ## § 32 (weggefallen)
-
-
 
 ## § 33 Inkrafttreten
 

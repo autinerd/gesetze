@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1286
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 60 des Grundgesetzes für die Bundesrepublik
 Deutschland ordne ich an:
-
 
 ## Art 1
 
@@ -44,24 +41,20 @@ Bundesminister des Auswärtigen.
 Beamten, Richterinnen und Richter des Bundes ausübe, sind mir
 Vorschläge von den zuständigen obersten Bundesbehörden einzureichen.
 
-
 ## Art 2
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Artikel 1 Abs. 1 genannten Beamtinnen, Beamten, Richterinnen und
 Richter des Bundes vor.
 
-
 ## Art 3
 
 Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen
 erlässt das Bundesministerium des Innern.
 
-
 ## Art 4
 
 Diese Anordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

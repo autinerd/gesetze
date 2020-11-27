@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 68 G v. 18.12.1989 I 2261
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 des Zweiten Gesetzes zur Überleitung von Lasten und
 Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21.
 August 1951 (Bundesgesetzbl. I S. 774) verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -65,10 +63,6 @@ Versorgungsausgaben im Sinne der Artikel I und II des Zweiten
     Pensionen vom 14. Februar 1921 (Reichsgesetzbl. S. 176) und des
     Gesetzes vom 11. Januar 1922 (Reichsgesetzbl. I S. 29) übernommen
     worden sind oder zu übernehmen gewesen wären.
-
-
-
-
 
 ## § 2
 
@@ -113,13 +107,6 @@ Als Versorgungsausgaben im Sinne der Artikel I und II des Zweiten
         Einführungserlaß des Reichsministers der Finanzen vom 2. Mai 1938
         (Reichshaushalts- und Besoldungsblatt S. 117).
 
-
-
-
-
-
-
-
 ## § 3
 
 Soweit für die Zeit vom 1. April 1950 bis zum 31. März 1952 Zahlungen
@@ -128,7 +115,6 @@ die kein Rechtsanspruch bestand, gelten sie als Versorgungsausgaben im
 Sinne der Artikel I und II des Zweiten Überleitungsgesetzes auch dann,
 wenn sie über den Rahmen der allgemein dafür geltenden Bestimmungen
 des Bundes hinausgehen.
-
 
 ## § 4
 

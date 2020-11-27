@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2711
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Satz 3 des Alkopopsteuergesetzes vom 23. Juli 2004
 (BGBl. I S. 1857) verordnet die Bundesregierung:
-
 
 ## § 1 Berechnung des Netto-Mehraufkommens der Alkopopsteuer
 
@@ -48,7 +45,6 @@ ermittelt. Dabei ist der im abgelaufenen Haushaltsjahr geltende
 Branntweinsteuersatz nach § 131 Abs. 1 des Gesetzes über das
 Branntweinmonopol zugrunde zu legen.
 
-
 ## § 2 Verrechnung der Differenz zwischen Soll- und Ist-Netto-Mehraufkommen sowie zwischen Soll- und Ist-Ausgaben für Suchtpräventionsmaßnahmen
 
 (1) Bei der Aufstellung des Haushaltsplans wird der Sollansatz für das
@@ -64,7 +60,6 @@ Haushaltsjahres und den tatsächlichen Ausgaben der Bundeszentrale für
 gesundheitliche Aufklärung für Maßnahmen der Suchtprävention (§ 4 Satz
 1 des Alkopopsteuergesetzes) werden jeweils mit dem Sollansatz für das
 übernächste Haushaltsjahr verrechnet.
-
 
 ## § 3 Inkrafttreten
 

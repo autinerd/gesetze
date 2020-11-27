@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 1 G v. 12.7.2006 I 1466
 
-
 ## § 1 Errichtung des Fonds
 
 Es wird ein Fonds "Deutsche Einheit" als Sondervermögen des Bundes
 errichtet.
-
 
 ## § 2 Zweck des Fonds, Neuregelung der Bund-Länder-Finanzbeziehungen ab 1995
 
@@ -52,7 +50,6 @@ Landesgesetzgebung an ihre Gemeinden (Gemeindeverbände) weiter.
 Bund und Ländern (insbesondere Länderfinanzausgleich und
 Bundesergänzungszuweisungen) neu zu regeln.
 
-
 ## § 3 Stellung im Rechtsverkehr, Verwaltung, Beirat
 
 Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im
@@ -62,14 +59,12 @@ Der Bundesminister der Finanzen verwaltet das Sondervermögen. Es wird
 ein aus vier Mitgliedern bestehender Beirat gebildet, in dem Bund und
 Länder gleichberechtigt vertreten sind.
 
-
 ## § 4 Vermögenstrennung, Bundeshaftung
 
 (1) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten
 und Verbindlichkeiten getrennt zu halten.
 
 (2) Für die Verbindlichkeiten des Fonds haftet der Bund.
-
 
 ## § 5 Finanzierung, Kreditermächtigungen, Verwaltung der Kredite des Fonds
 
@@ -130,7 +125,6 @@ gleich.
 (7) Die Schulden des Fonds werden nach den für die Verwaltung der
 allgemeinen Bundesschuld jeweils geltenden Grundsätzen verwaltet.
 
-
 ## § 6 Bundeszuschüsse
 
 (1) Der Fonds erhält bis zum 31. Dezember 2004 Zuschüsse aus dem
@@ -184,13 +178,11 @@ um 777.163.659,42 Euro, 2001 um 932.596.391,30 Euro, 2002 um
 1\.317.190.144,34 Euro, 2003 um 1.294.591.043,19 Euro und 2004 um
 1\.431.361.621,41 Euro.
 
-
 ## § 6a Eingliederung der Verbindlichkeiten des Fonds in Bundesschuld
 
 Der Bund übernimmt ab 1. Januar 2005 als Mitschuldner die
 Verbindlichkeiten des Fonds; im Innenverhältnis zu dem Fonds ist der
 Bund alleiniger Schuldner.
-
 
 ## § 6b Abrechnung nach Ablauf des Jahres 2019
 
@@ -250,14 +242,12 @@ folgt zu ermitteln:
 Die Ermittlung des Betrages wird den Ländern jährlich vom
 Bundesministerium der Finanzen mitgeteilt.
 
-
 ## § 7 Wirtschaftsplan
 
 Alle Einnahmen und Ausgaben des Fonds werden ab 1. Januar 1991 für
 jedes Rechnungsjahr in einem Wirtschaftsplan veranschlagt. Der
 Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Bei der
 Aufstellung der Wirtschaftspläne wirkt der Beirat mit.
-
 
 ## § 8 Jahresrechnung
 
@@ -269,11 +259,9 @@ Anhang der Haushaltsrechnung des Bundes bei.
 Sondervermögens einschließlich der Forderungen und Verbindlichkeiten
 erkennen lassen sowie die Einnahmen und Ausgaben nachweisen.
 
-
 ## § 9 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
-
 
 ## § 10 Gleichstellung mit Bundesbehörden
 
@@ -281,7 +269,6 @@ Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund, die
 Länder, die Gemeinden (Gemeindeverbände) und Körperschaften des
 öffentlichen Rechts zu entrichten, finden die allgemein für
 Bundesbehörden geltenden Vorschriften Anwendung.
-
 
 ## § 11 Auflösung des Fonds
 

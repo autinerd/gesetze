@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 32 V v. 25.8.2009 I 2960
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -34,7 +32,6 @@ und Technologie und auf Grund des § 30 Abs. 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -94,7 +91,6 @@ zählen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Handelsfachwirt/Geprüfte Handelsfachwirtin".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -125,7 +121,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -221,7 +216,6 @@ Regel 20 Minuten nicht überschreiten.
 (11) Die mündliche Prüfung gemäß Absatz 7 ist nur durchzuführen, wenn
 in den Prüfungsleistungen gemäß Absatz 4 mindestens ausreichende
 Leistungen erbracht wurden.
-
 
 ## § 4 Handlungsbereiche
 
@@ -624,7 +618,6 @@ Demonstration ist vorab schriftlich einzureichen. Diese zusätzliche
 Prüfung ist bestanden wenn mindestens ausreichende Leistungen erbracht
 wurden.
 
-
 ## § 5 Weitere Prüfung
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann beantragen,
@@ -635,7 +628,6 @@ abzulegen. Die Regelungen in den §§ 3, 7 und 8 gelten entsprechend.
 Bescheinung, die die erreichte Punktzahl und die erzielte Note
 ausweist, auszustellen.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -645,7 +637,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -664,7 +655,6 @@ Bezeichnung des Prüfungsgremiums anzugeben.
 (4) Die Prüfungsleistung in dem gewählten Handlungsbereich nach § 3
 Abs. 1 Nr. 6 bis 9 wird auch im Zeugnis nach der Anlage 2 ausgewiesen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -677,7 +667,6 @@ Prüfung erbrachten Leistungen mindestens ausreichend sind. Der Antrag
 kann sich auch darauf richten, bestandene Prüfungsleistungen zu
 wiederholen. Werden bestandene Prüfungsleistungen erneut geprüft, gilt
 in diesem Fall das Ergebnis der letzten Prüfung.
-
 
 ## § 9 Ausbildereignung
 
@@ -692,17 +681,14 @@ Prüfungsteilnehmerin ist ein Zeugnis auszustellen, aus dem hervorgeht,
 dass die berufs- und arbeitspädagogische Qualifikation gemäß § 30 des
 Berufsbildungsgesetzes nachgewiesen wurde.
 
-
 ## § 10 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 3) Muster
 
@@ -732,7 +718,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 3) Muster
 

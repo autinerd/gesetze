@@ -22,7 +22,6 @@ Die V dient der Durchführung von Rechtsakten der Europäischen
 Gemeinschaften im Rahmen der Gemeinsamen Marktorganisationen und
 Handelsregelungen, insbesondere der EWGV 2220/85 und EWGV 3002/92
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 1 Satz 1 und 2 und des § 21 Satz 1 Nr. 2 und
@@ -32,7 +31,6 @@ Bekanntmachung vom 27. August 1986 (BGBl. I S. 1397) wird im
 Einvernehmen mit den Bundesministern der Finanzen und für Wirtschaft
 verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -41,7 +39,6 @@ Gemeinschaften, die im Rahmen der Gemeinsamen Marktorganisationen,
 Regelungen für Direktzahlungen und Handelsregelungen hinsichtlich der
 für landwirtschaftliche Erzeugnisse zu leistenden Sicherheiten
 erlassen worden sind.
-
 
 ## § 2 Zuständige Stelle
 
@@ -76,7 +73,6 @@ Zuständigkeitsregelungen nach der
 Hauptzollamtszuständigkeitsverordnung vom 23. Juni 2003 (BGBl. I S.
 951) in der jeweils geltenden Fassung unberührt.
 
-
 ## § 3 Arten der Sicherheit
 
 (1) Soweit in den in § 1 genannten Rechtsakten nichts anderes
@@ -102,7 +98,6 @@ Muster bekannt geben oder Vordrucke bereithalten. Soweit die
 zuständigen Stellen Muster bekannt geben oder Vordrucke bereithalten,
 sind diese zu verwenden.
 
-
 ## § 4 Verzicht auf die Sicherheitsleistung
 
 Soweit in den in § 1 genannten Rechtsakten nichts anderes
@@ -114,7 +109,6 @@ für Lizenzen im Sinne des § 1 der Verordnung über Lizenzen für
 landwirtschaftliche Erzeugnisse vom 26. Oktober 1987 (BGBl. I S.
 2334).
 
-
 ## § 5 Befreiung von der Sicherheitsleistung
 
 (1) Öffentliche Stellen, die in Ausübung hoheitlicher Gewalt tätig
@@ -124,7 +118,6 @@ werden, sind von der Leistung einer Sicherheit befreit.
 in Ausübung hoheitlicher Gewalt tätig werden, entscheidet das Bundes-
 oder Landesministerium, zu dessen Geschäftsbereich die zuständige
 Stelle (§ 2) gehört, über die Befreiung von der Sicherheitsleistung.
-
 
 ## § 6 Verfallene Sicherheiten, Zinshöhe
 
@@ -142,7 +135,6 @@ jeweils geltenden Fassung zu erhebende Zinssatz beträgt 5 vom Hundert
 über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen
 Gesetzbuchs.
 
-
 ## § 7 Zu Unrecht freigegebene Sicherheiten
 
 (1) Vorbehaltlich einer anderen Regelung in den in § 1 genannten
@@ -152,11 +144,9 @@ leisten, wenn der Sicherungszweck noch besteht.
 (2) Die zuständige Stelle ordnet die erneute Leistung der Sicherheit
 durch Bescheid an.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

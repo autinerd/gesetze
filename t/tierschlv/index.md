@@ -27,7 +27,6 @@ technischen Vorschriften (ABl. EG Nr. L 109 S. 8), zuletzt geändert
 durch Richtlinie 94/10/EG des Europäischen Parlaments und des Rates
 vom 23. März 1994 (ABl. EG Nr. L 100 S. 30) sind beachtet worden.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Forsten
@@ -48,10 +47,7 @@ verordnet auf Grund
 jeweils in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes
 nach Anhörung der Tierschutzkommission:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -91,10 +87,6 @@ nach Anhörung der Tierschutzkommission:
 
 4.  einem Massenfang von Fischen, wenn es auf Grund des Umfangs und der
     Art des Fangs nicht zumutbar ist, eine Betäubung durchzuführen.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -141,10 +133,6 @@ Im Sinne dieser Verordnung sind:
     eine Schlachtstätte, in der warmblütige Tiere gewerbsmäßig oder im
     Rahmen einer wirtschaftlichen Unternehmung geschlachtet werden.
 
-
-
-
-
 ### § 3 Allgemeine Grundsätze
 
 (1) Die Tiere sind so zu betreuen, ruhigzustellen, zu betäuben, zu
@@ -155,7 +143,6 @@ Aufregung, Schmerzen, Leiden oder Schäden verursacht werden.
 das Betäuben, Schlachten oder Töten der Tiere sind so zu planen, zu
 bauen, instand zu halten und zu verwenden, daß ein rasches und
 wirksames Betäuben und Schlachten oder Töten möglich ist.
-
 
 ### § 4 Sachkunde
 
@@ -262,7 +249,6 @@ mehrfach nicht unerheblich gegen Anforderungen dieser Verordnung
 verstoßen haben und Tatsachen die Annahme rechtfertigen, daß dieses
 auch weiterhin geschehen wird.
 
-
 ### § 5 Treiben und Befördern von Tieren innerhalb einer Schlachtstätte
 
 (1) Tiere dürfen nur unter Vermeidung von Schmerzen, Leiden oder
@@ -293,10 +279,7 @@ geneigt, daß die Tiere nicht übereinanderfallen. Tiere dürfen nur
 unter Vermeidung von Schmerzen, Leiden oder Schäden aus den
 Behältnissen entladen werden.
 
-
 ## Abschnitt 2 - Vorschriften über Schlachtbetriebe
-
-
 
 ### § 6 Anforderungen an die Ausstattung
 
@@ -323,7 +306,6 @@ nicht verletzen können. Treibgänge und Rampen dürfen höchstens eine
 Neigung von 20 Grad aufweisen. Die Neigung der Treibgänge zur
 Betäubungseinrichtung darf höchstens 10 Grad, für Rinder höchstens 7
 Grad betragen.
-
 
 ### § 7 Allgemeine Vorschriften über das Betreuen von Tieren
 
@@ -377,7 +359,6 @@ Verfügung stehen.
 (9) Die Tiere dürfen erst unmittelbar vor der Schlachtung oder Tötung
 an den Platz der Schlachtung oder Tötung gebracht werden.
 
-
 ### § 8 Betreuen von Tieren, die sich nicht in Behältnissen befinden
 
 (1) Kranke oder verletzte sowie noch nicht abgesetzte Tiere sind nach
@@ -414,16 +395,12 @@ Schlachtung zugeführt werden, ist unter Berücksichtigung des
 Zeitpunktes des letzten Melkens in Abständen von höchstens 15 Stunden
 unter Vermeidung von Schmerzen die Milch zu entziehen.
 
-
 ### § 9 Betreuen von Tieren, die in Behältnissen angeliefert werden
 
 Tiere, die in Behältnissen angeliefert werden, sind unverzüglich der
 Schlachtung zuzuführen. § 7 Abs. 2 bleibt unberührt.
 
-
 ## Abschnitt 3 - Vorschriften über das Aufbewahren von Speisefischen und Krustentieren
-
-
 
 ### § 10 Aufbewahren von Speisefischen
 
@@ -441,17 +418,13 @@ dem Behälter zu entfernen.
 (3) An Endverbraucher, ausgenommen Gaststätten und ähnliche
 Einrichtungen, dürfen Fische nicht lebend abgegeben werden.
 
-
 ### § 11 Aufbewahren von Krustentieren
 
 Das Aufbewahren lebender Krustentiere auf Eis ist verboten; sie dürfen
 nur im Wasser oder vorübergehend auf feuchter Unterlage aufbewahrt
 werden.
 
-
 ## Abschnitt 4 - Vorschriften über das Ruhigstellen, Betäuben, Schlachten und Töten von Tieren
-
-
 
 ### § 12 Ruhigstellen warmblütiger Tiere
 
@@ -478,7 +451,6 @@ Tiere ruhigzustellen oder zur Bewegung zu veranlassen.
 (4) Tiere dürfen vor der Betäubung erst ruhiggestellt werden, wenn die
 ausführende Person zur sofortigen Betäubung oder Tötung der Tiere
 bereitsteht.
-
 
 ### § 13 Betäuben, Schlachten und Töten
 
@@ -559,7 +531,6 @@ Satz 1 dürfen
 
 getötet werden.
 
-
 ### § 14 Behördliche Zulassung weiterer Betäubungs- oder Tötungsverfahren
 
 (1) Abweichend von § 13 Abs. 3 in Verbindung mit Anlage 2 kann die
@@ -599,10 +570,7 @@ der Erprobung befristet das Töten tropischer Riesengarnelen in
 Eiswasser mit einer Temperatur von höchstens 0,5 Grad Celsius
 zulassen.
 
-
 ## Abschnitt 5 - Ordnungswidrigkeiten und Schlußbestimmungen
-
-
 
 ### § 15 Ordnungswidrigkeiten
 
@@ -697,14 +665,9 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 11. entgegen § 13 Abs. 7 Satz 1 nicht sicherstellt, daß ein nicht
     schlupffähiges Küken getötet wird.
 
-
-
-
-
 ### § 16
 
 -
-
 
 ### § 17 Übergangsvorschriften
 
@@ -714,7 +677,6 @@ in Betrieb genommen worden sind, noch bis zum 18. Februar 2006 für
 eine Dauer von mindestens 70 Sekunden zum Zwecke der Betäubung in der
 in Anlage 3 Teil II Nr. 4.1 Satz 1 genannten Kohlendioxidkonzentration
 verbleiben.
-
 
 ### § 18 Inkrafttreten
 
@@ -736,14 +698,9 @@ treten in Kraft
 4.  § 15 Abs. 2 Nr. 10 Buchstabe b Doppelbuchstabe cc und Anlage 3 Teil II
     Nr. 3.10 und Nr. 3.11 Satz 1 bis 3 am 1. April 1999.
 
-
-
-
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 12 Abs. 1, Anlage 3 Teil II Nr. 3.7) Umrechnungsschlüssel für Großvieheinheiten
 
@@ -805,10 +762,6 @@ Der Bundesrat hat zugestimmt.
 
     *   0,10
 
-
-
-
-
 ### Anlage 2 (zu § 13 Abs. 3) Höchstdauer zwischen Betäuben und Entblutungsschnitt
 
 Fundstelle des Originaltextes: BGBl. I 1997, 411
@@ -862,10 +815,6 @@ Fundstelle des Originaltextes: BGBl. I 1997, 411
 
 
 *    *   30 (nach dem letzten Halt in der CO2-Atmosphäre)
-
-
-
-
 
 ### Anlage 3 (zu § 13 Abs. 6) Betäubungs- und Tötungsverfahren
 
@@ -1188,9 +1137,6 @@ Teil I: Zulässige Verfahren
 
 11) Ausgenommen Stoffe, wie Ammoniak, die gleichzeitig dem Entschleimen
     dienen.
-
-
-
 
 ## Teil II: Besondere Maßgaben
 

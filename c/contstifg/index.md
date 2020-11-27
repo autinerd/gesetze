@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 25.6.2009 I 1537
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Name der Stiftung
 
@@ -30,7 +27,6 @@ Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S.
 Artikel 19 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022),
 errichtete Stiftung "Hilfswerk für behinderte Kinder" erhält den Namen
 "Conterganstiftung für behinderte Menschen".
-
 
 ### § 2 Stiftungszweck
 
@@ -47,15 +43,10 @@ während der Schwangerschaft in Verbindung gebracht werden können,
     Gesellschaft zu unterstützen und die durch Spätfolgen hervorgerufenen
     Beeinträchtigungen zu mildern.
 
-
-
-
-
 ### § 3 Steuerbegünstigung
 
 Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte
 Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
-
 
 ### § 4 Stiftungsvermögen
 
@@ -83,7 +74,6 @@ und dem daraus erwirtschafteten Vermögen.
 (2) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen. Die Stiftung wirbt um weitere Zuwendungen bei Dritten.
 
-
 ### § 5 Organe der Stiftung
 
 Organe der Stiftung sind
@@ -92,10 +82,6 @@ Organe der Stiftung sind
 
 
 2.  der Stiftungsvorstand.
-
-
-
-
 
 ### § 6 Stiftungsrat
 
@@ -143,7 +129,6 @@ Absatz 5 beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist.
 Die weiteren Regelungen über erforderliche Mehrheiten und
 Beschlussfähigkeit trifft die Satzung.
 
-
 ### § 7 Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus der oder dem Vorsitzenden und
@@ -179,19 +164,16 @@ anstellen.
 
 (7) Das Nähere regelt die Satzung.
 
-
 ### § 8 Satzung
 
 Der Stiftungsrat kann die Satzung der Stiftung mit Genehmigung des
 Bundesministeriums für Familie, Senioren, Frauen und Jugend im
 Einvernehmen mit dem Bundesministerium der Finanzen ändern.
 
-
 ### § 9 Verwendung der Mittel
 
 Die Mittel der Stiftung dürfen nur für die Stiftungszwecke verwendet
 werden.
-
 
 ### § 10 Aufsicht, Haushalt, Rechnungsprüfung
 
@@ -206,10 +188,7 @@ Satzung.
 
 (3) Rechnungsprüfungsbehörde ist der Bundesrechnungshof.
 
-
 ## Abschnitt 2 - Leistungen wegen Contergan-Schadensfällen
-
-
 
 ### § 11 Verwendung des Stiftungsvermögens
 
@@ -234,10 +213,6 @@ erbringen. Es sind zu verwenden:
     Abs. 1 Nr. 1 mit Ausnahme der Mittel für die notwendigen
     Verwaltungskosten.
 
-
-
-
-
 ### § 12 Leistungsberechtigte Personen
 
 (1) Leistungen wegen Fehlbildungen, die mit der Einnahme
@@ -251,7 +226,6 @@ Inkrafttreten des Errichtungsgesetzes lebten, und nach Maßgabe des §
 innerhalb der dort vorgesehenen Frist geltend gemacht, können die
 Conterganrente und eine Kapitalentschädigung für die Zeit ab 1. Juli
 2009 beantragt werden.
-
 
 ### § 13 Art und Umfang der Leistungen an behinderte Menschen
 
@@ -332,13 +306,11 @@ Vorschriften des Verwaltungsverfahrensgesetzes des Bundes
 entsprechend. § 118 Abs. 3 und 4 des Sechsten Buches Sozialgesetzbuch
 ist entsprechend anwendbar.
 
-
 ### § 14 Verzinsung
 
 Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2
 Prozent über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs
 jährlich zu verzinsen.
-
 
 ### § 15 Sonderregelung für Auslandsfälle
 
@@ -356,7 +328,6 @@ unwiderruflich verzichten.
 angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate
 bereits von anderen möglicherweise Verantwortlichen geleistet worden
 sind.
-
 
 ### § 16 Gang des Verfahrens
 
@@ -386,13 +357,11 @@ der Bewertung der Kommission nach Absatz 2 die Leistungen nach Maßgabe
 der Richtlinien nach § 13 Abs. 6 durch schriftlichen Verwaltungsakt
 fest.
 
-
 ### § 17 Behandlung von Leistungen nach diesem Gesetz bei der Anwendung anderer Gesetze
 
 Leistungen nach diesem Abschnitt sind einkommensteuerfrei. Ansprüche
 auf solche Leistungen gehören nicht zum sonstigen Vermögen im Sinne
 des Bewertungsgesetzes.
-
 
 ### § 18 Verhältnis zu anderen Ansprüchen
 
@@ -409,10 +378,7 @@ Leistungen anderer Stellen, auf die kein Anspruch besteht, dürfen
 nicht deshalb versagt werden, weil nach diesem Gesetz Leistungen
 vorgesehen sind.
 
-
 ## Abschnitt 3 - Projektförderung
-
-
 
 ### § 19 Finanzielle Ausstattung
 
@@ -424,10 +390,6 @@ Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
 2.  Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende
     etwas anderes bestimmt hat.
-
-
-
-
 
 ### § 20 Förderungsmaßnahmen
 
@@ -441,7 +403,6 @@ Förderungsmaßnahmen werden zu Ende geführt.
 
 (3) Ein Anspruch auf Förderung aus Mitteln der Stiftung besteht nicht.
 
-
 ### § 21 Vergabeplan
 
 Der Stiftungsrat stellt mit Zustimmung des Bundesministeriums für
@@ -450,10 +411,7 @@ einen Vergabeplan auf, der den Finanzrahmen für die Förderung
 festlegt. Über die Ausführung des Plans im Einzelfall beschließt der
 Vorstand.
 
-
 ## Abschnitt 4 - Schluss- und Übergangsvorschriften
-
-
 
 ### § 22 Verfahren
 
@@ -461,12 +419,10 @@ Soweit nach diesem Gesetz keine speziellen Verfahrensregelungen
 getroffen sind, findet das Verwaltungsverfahrensgesetz des Bundes
 Anwendung.
 
-
 ### § 23 Rechtsweg
 
 Für Streitigkeiten über Ansprüche nach diesem Gesetz ist der
 Verwaltungsrechtsweg gegeben.
-
 
 ### § 24 Übergangsvorschrift
 

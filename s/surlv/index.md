@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 22 G v. 5.2.2009 I 160
 
-
 ## § 1 Urlaub zur Ausübung staatsbürgerlicher Rechte und zur Erfüllung staatsbürgerlicher Pflichten
 
 (1) Für die Dauer der notwendigen Abwesenheit vom Dienst ist Urlaub
@@ -50,11 +49,9 @@ Verpflichtung, kann der zur Ausübung erforderliche Urlaub unter
 Fortzahlung der Besoldung gewährt werden, wenn dienstliche Gründe
 nicht entgegenstehen.
 
-
 ## § 2 (weggefallen)
 
 -
-
 
 ## § 3 Urlaub zur Ableistung eines freiwilligen sozialen oder ökologischen Jahres
 
@@ -64,7 +61,6 @@ Jugendfreiwilligendienstegesetzes kann Beamtinnen und Beamten Urlaub
 unter Wegfall der Besoldung bis zu 24 Monaten gewährt werden, wenn
 dienstliche Gründe nicht entgegenstehen.
 
-
 ## § 4 Urlaub für eine Ausbildung als Schwesternhelferin
 
 Für eine Ausbildung als Schwesternhelferin soll Urlaub unter
@@ -73,7 +69,6 @@ Lehrganges, höchstens jedoch für zwanzig Arbeitstage im Urlaubsjahr,
 gewährt werden, wenn dienstliche Gründe nicht entgegenstehen. § 6 Satz
 3 und 4 gilt entsprechend. Urlaub nach § 5 darf daneben vor Ablauf
 eines Jahres nach Urlaubsende nicht gewährt werden.
-
 
 ## § 5 Urlaub für Zwecke der militärischen und zivilen Verteidigung und entsprechender Einrichtungen
 
@@ -89,7 +84,6 @@ angeordneten Übungen sowie bei Heranziehung zum Bergwachtdienst oder
 zum Seenotrettungsdienst zwecks Rettung von Menschenleben und zum
 freiwilligen Sanitätsdienst bei Vorliegen eines dringenden
 öffentlichen Interesses. Die Dauer des Urlaubs richtet sich nach § 8.
-
 
 ## § 6 Urlaub für gewerkschaftliche Zwecke
 
@@ -112,7 +106,6 @@ Erholungsurlaub nach Werktagen bemessen wird, kann mit Zustimmung des
 Bundesministeriums des Innern der Urlaub ebenfalls nach Werktagen
 bemessen werden. Die oberste Dienstbehörde kann die ihr nach Satz 2
 zustehende Befugnis auf unmittelbar nachgeordnete Behörden übertragen.
-
 
 ## § 7 Urlaub für fachliche, staatspolitische, kirchliche und sportliche Zwecke
 
@@ -207,7 +200,6 @@ gewährt werden, wenn dienstliche Gründe nicht entgegenstehen
 
 Die Dauer des Urlaubs richtet sich nach § 8.
 
-
 ## § 8 Dauer des Urlaubs in den Fällen der §§ 5 und 7
 
 Urlaub für Ausbildungsveranstaltungen nach § 5 und Urlaub nach § 7
@@ -225,7 +217,6 @@ Dienstbehörde Urlaub auch über zehn Arbeitstage hinaus bewilligen. § 6
 Satz 3 und 4 gilt entsprechend. Die oberste Dienstbehörde kann die ihr
 nach Satz 4 zustehende Befugnis auf unmittelbar nachgeordnete Behörden
 übertragen.
-
 
 ## § 9 Urlaub zur Ausübung einer Tätigkeit in öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtungen oder in einer öffentlichen Einrichtung eines Mitgliedstaates der Europäischen Union oder zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit
 
@@ -251,7 +242,6 @@ wenn dienstliche Gründe nicht entgegenstehen.
 (4) Die oberste Dienstbehörde kann die ihr nach den Absätzen 1 und 3
 zustehende Befugnis auf unmittelbar nachgeordnete Behörden übertragen.
 
-
 ## § 10 Urlaub für eine fremdsprachliche Aus- oder Fortbildung
 
 Für eine fremdsprachliche Aus- oder Fortbildung im Ausland kann die
@@ -263,7 +253,6 @@ einem solchen Zweck darf frühestens zwei Jahre nach Beendigung des
 letzten Urlaubs aus diesem Anlass gewährt werden. Die oberste
 Dienstbehörde kann die ihr nach Satz 1 zustehende Befugnis auf
 unmittelbar nachgeordnete Behörden übertragen.
-
 
 ## § 11 Urlaub für Familienheimfahrten
 
@@ -283,7 +272,6 @@ Familienheimfahrt, für die ihnen eine Reisebeihilfe nach § 13 Abs. 1
 der Auslandstrennungsgeldverordnung gewährt wird, bis zu drei
 Arbeitstagen Urlaub unter Fortzahlung der Besoldung, höchstens jedoch
 zwölf Arbeitstage im Jahr.
-
 
 ## § 12 Urlaub aus persönlichen Anlässen
 
@@ -376,7 +364,6 @@ mit dem Bundesministerium der Finanzen und dem Bundesministerium des
 Innern eine von Satz 1 Nr. 1 bis 8 und Satz 2 bis 5 abweichende
 Regelung treffen.
 
-
 ## § 13 Urlaub in anderen Fällen
 
 (1) Urlaub unter Wegfall der Besoldung kann gewährt werden, wenn ein
@@ -394,13 +381,11 @@ jedoch nur bis zur halben Höhe, belassen werden. Die oberste
 Dienstbehörde kann mit Zustimmung des Bundesministeriums des Innern
 Ausnahmen bewilligen.
 
-
 ## § 14 Verfahren
 
 Der Urlaub ist rechtzeitig, in den Fällen des § 1 und des § 90 Abs. 4
 des Bundesbeamtengesetzes unverzüglich nach Bekanntwerden des
 Urlaubsanlasses zu beantragen.
-
 
 ## § 15 Widerruf
 
@@ -411,7 +396,6 @@ befristeten Urlaub jedoch nur aus zwingenden dienstlichen Gründen.
 anderen als dem bewilligten Zweck verwendet wird oder wenn andere
 Gründe, die die Beamtin oder der Beamte zu vertreten hat, den Widerruf
 erfordern.
-
 
 ## § 16 Ersatz von Aufwendungen
 
@@ -428,7 +412,6 @@ Stelle spätestens bei Beendigung des Urlaubs schriftlich anerkannt
 hat, dass dieser dienstlichen Interessen oder öffentlichen Belangen
 dient.
 
-
 ## § 17 Besoldung
 
 (1) Zur Besoldung im Sinne der Verordnung gehören die in § 1 Abs. 2
@@ -444,12 +427,10 @@ gering ist.
 lässt den Anspruch auf Beihilfe oder auf Heilfürsorge nach § 70 Abs. 2
 des Bundesbesoldungsgesetzes unberührt.
 
-
 ## § 18 Geltungsbereich
 
 Diese Verordnung gilt für Richterinnen und Richter des Bundes
 entsprechend.
-
 
 ## § 19 (Inkrafttreten)
 

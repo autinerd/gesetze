@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 324 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
 Die Vorschriften dieses Gesetzes gelten für alle Kauffahrteischiffe,
 die nach dem Flaggenrechtsgesetz vom 8. Februar 1951 (Bundesgesetzbl.
 I S. 79) die Bundesflagge führen.
-
 
 ### § 2 Kapitän und Stellvertreter
 
@@ -41,13 +37,11 @@ sein, das ihn zur Führung des Schiffs berechtigt.
 der Erste Offizier des Decksdienstes oder der Alleinsteuermann die
 Pflichten und Befugnisse des Kapitäns wahr.
 
-
 ### § 3 Besatzungsmitglieder
 
 Besatzungsmitglieder im Sinne dieses Gesetzes sind die
 Schiffsoffiziere (§ 4), die sonstigen Angestellten (§ 5) und die
 Schiffsleute (§ 6).
-
 
 ### § 4 Schiffsoffiziere
 
@@ -66,10 +60,6 @@ Schiffsoffiziere sind
 
 4.  die Zahlmeister.
 
-
-
-
-
 ### § 5 Sonstige Angestellte
 
 Sonstige Angestellte sind Besatzungsmitglieder, die, ohne
@@ -79,13 +69,11 @@ als Angestellte angesehen werden, insbesondere wenn sie eine
 eine verantwortliche Tätigkeit ausüben, die besondere Kenntnisse
 erfordert.
 
-
 ### § 6 Schiffsmann
 
 Schiffsmann ist jedes andere in einem Heuerverhältnis (§§ 23ff.)
 stehende Besatzungsmitglied, das nicht Angestellter im Sinne der §§ 4
 und 5 ist.
-
 
 ### § 7 Sonstige im Rahmen des Schiffsbetriebs an Bord tätige Personen
 
@@ -105,11 +93,9 @@ der Vorschriften des Fünften Abschnitts und derjenigen des Sechsten
 Abschnitts, die sich auf die Ordnung an Bord beziehen, keine
 Anwendung.
 
-
 ### § 8
 
 (weggefallen)
-
 
 ### § 9 Seemannsämter
 
@@ -123,10 +109,6 @@ Seemannsämter sind
     Amt bestimmten diplomatischen und konsularischen Vertretungen der
     Bundesrepublik.
 
-
-
-
-
 ### § 10 Abdingbarkeit
 
 Die Vorschriften dieses Gesetzes sind zwingend, soweit nicht
@@ -135,10 +117,7 @@ Dritten Abschnitts und des Vierten Abschnitts kann zugunsten des
 Besatzungsmitglieds abgewichen werden, soweit dieses Gesetz es nicht
 ausschließt.
 
-
 ## Zweiter Abschnitt - Seefahrtbücher und Musterung
-
-
 
 ### § 11 Seefahrtbuch
 
@@ -150,7 +129,6 @@ besitzen.
 
 (3) Ein neues Seefahrtbuch darf nur ausgestellt werden, wenn das alte
 Seefahrtbuch vorgelegt oder sein Verlust glaubhaft gemacht wird.
-
 
 ### § 12 Schließung des Seefahrtbuchs
 
@@ -168,7 +146,6 @@ Seefahrtbuch vorgelegt oder sein Verlust glaubhaft gemacht wird.
 (2) Im Falle des Absatzes 1 Nr. 2 kann das Seemannsamt die Vorlage des
 Seefahrtbuchs anordnen.
 
-
 ### § 13 Musterrolle und Musterung
 
 (1) Der Kapitän hat während der Reise eine Urkunde mitzuführen, die
@@ -182,7 +159,6 @@ Verlangen vorzulegen.
 
 (3) Die Musterung ist die Verhandlung vor dem Seemannsamt über die in
 die Musterrolle (§ 14) einzutragenden Angaben.
-
 
 ### § 14 Inhalt der Musterrolle
 
@@ -221,7 +197,6 @@ Die Musterrolle muß Angaben enthalten über
 
 Die Jugendlichen sind besonders zu kennzeichnen.
 
-
 ### § 15 Verpflichtung zur Musterung
 
 (1) Der Kapitän ist verpflichtet, eine Musterung zu veranlassen, wenn
@@ -242,7 +217,6 @@ angegangen werden kann. Das Seemannsamt hat einen Vermerk hierüber in
 die Musterrolle und die Seefahrtbücher der beteiligten
 Besatzungsmitglieder einzutragen.
 
-
 ### § 16 Anwesenheit bei der Musterung und Vorlage des Seefahrtbuchs
 
 (1) Bei der Musterung müssen der Kapitän oder ein bevollmächtigter
@@ -259,7 +233,6 @@ verzichten. In diesen Fällen kann auf Antrag bei der nächsten
 Musterung im Geltungsbereich des Grundgesetzes der Musterungsvermerk
 nachgeholt werden.
 
-
 ### § 17 Anmusterung
 
 (1) Bei der Anmusterung ist neben dem Seefahrtbuch das erforderliche
@@ -270,11 +243,9 @@ noch angemustert ist, darf erneut erst angemustert werden, wenn die
 Abmusterung oder die glaubhaft gemachte Beendigung der früheren
 Beschäftigung vom Seemannsamt im Seefahrtbuch bescheinigt ist.
 
-
 ### § 18
 
 -
-
 
 ### § 19 Abmusterung
 
@@ -284,7 +255,6 @@ geleisteten Schiffsdienstes, den in § 7 genannten Personen die Dauer
 ihrer Tätigkeit an Bord im Seefahrtbuch zu bescheinigen. Die
 Unterschrift des Kapitäns oder des bevollmächtigten Schiffsoffiziers
 ist vom Seemannsamt zu beglaubigen.
-
 
 ### § 20 Generalmusterung
 
@@ -298,31 +268,23 @@ Musterrolle unübersichtlich oder unleserlich geworden ist.
 
 (3) Mit der Ausfertigung der neuen Musterrolle wird die alte ungültig.
 
-
 ### § 21 Einziehen ungültiger Musterrollen
 
 Ungültige Musterrollen sind vom Seemannsamt einzuziehen.
-
 
 ### § 22 Kosten
 
 Die Kosten für die Ausfertigung der Musterrolle und für die Musterung
 hat der Reeder zu tragen.
 
-
 ## Dritter Abschnitt - Heuerverhältnis der Besatzungsmitglieder
 
-
-
 ### Erster Unterabschnitt - Begründung und Inhalt des Heuerverhältnisses
-
-
 
 #### § 23 Dauer des Heuerverhältnisses
 
 Das Heuerverhältnis wird auf unbestimmte Zeit oder auf bestimmte Zeit,
 insbesondere auch für eine Reise, begründet.
-
 
 #### § 24 Heuerschein
 
@@ -420,7 +382,6 @@ schriftlich mitzuteilen; die Absätze 1 bis 4 gelten entsprechend. Satz
 Tarifverträge, Betriebs- oder Bordvereinbarungen, auf die nach Absatz
 1 Nr. 11 oder nach Absatz 3 verwiesen worden ist.
 
-
 #### § 25 Dienstantritt
 
 (1) Dem Besatzungsmitglied ist rechtzeitig der Zeitpunkt mitzuteilen,
@@ -430,7 +391,6 @@ des Schiffs oder ein Meldeort anzugeben.
 (2) Kann ein Besatzungsmitglied den Dienst wegen eines unabwendbaren
 Ereignisses nicht antreten, so hat es dies unverzüglich dem Reeder
 oder dem Kapitän unter Angabe der Gründe mitzuteilen.
-
 
 #### § 26 Anreisekosten
 
@@ -444,7 +404,6 @@ Besatzungsmitglied zu, wenn vor dem Dienstantritt Reisen von dem Ort
 der Begründung des Heuerverhältnisses zu dem Ort der Anmusterung oder
 einem Meldeort notwendig werden.
 
-
 #### § 27 Schiff der Dienstleistung
 
 (1) Soweit nichts anderes vereinbart ist, sind Schiffsleute auf dem im
@@ -456,7 +415,6 @@ jedem Schiff des Reeders zum Schiffsdienst verpflichtet.
 ein anderes Schiff ist zulässig, wenn wichtige betriebliche Gründe sie
 erfordern und wenn die Maßnahme nicht nur den Zweck haben soll, dem
 Betroffenen Schaden zuzufügen.
-
 
 #### § 28 Bordanwesenheitspflicht
 
@@ -470,7 +428,6 @@ zusteht.
 (2) Bei Seegefahr, insbesondere bei drohendem Schiffbruch, darf das
 Besatzungsmitglied das Schiff ohne Einwilligung des Kapitäns nicht
 verlassen, solange dieser selbst an Bord bleibt.
-
 
 #### § 29 Dienstleistungspflicht
 
@@ -496,7 +453,6 @@ Menschen und ihren Sachen sowie für die Sicherstellung der
 Schiffsteile, der Ausrüstung und der Ladung zu sorgen und bei der
 Bergung Hilfe zu leisten.
 
-
 #### § 30 Begriff der Heuer
 
 (1) Die Heuer umfaßt alle auf Grund des Heuerverhältnisses gewährten
@@ -508,12 +464,10 @@ Arbeit, dem Erfolg oder ähnlichen nicht gleichbleibenden
 Bemessungsgrundlagen richtet, sowie sonstige Zulagen sind nicht als
 festes Entgelt im Sinne dieser Vorschrift anzusehen.
 
-
 #### § 31 Bemessung und Berechnung der Heuer
 
 Die Grundheuer bemißt sich nach Monaten. Bei Berechnung der Heuer für
 einzelne Tage wird der Monat zu dreißig Tagen gerechnet.
-
 
 #### § 32 Entstehung des Heueranspruchs
 
@@ -522,12 +476,10 @@ Besatzungsmitglied vorher zur Musterung zu stellen oder sonst zur
 Verfügung des Reeders zu halten, so entsteht der Anspruch auf Heuer
 schon in diesem Zeitpunkt.
 
-
 #### § 33 Heuer für die Anreisezeit
 
 Für die erforderliche Anreisezeit hat das Besatzungsmitglied neben den
 Anreisekosten (§ 26) Anspruch auf Zahlung der Grundheuer.
-
 
 #### § 34 Fälligkeit der Heuer
 
@@ -544,7 +496,6 @@ berechnet, so kann das Besatzungsmitglied jeweils nach Ablauf des
 Kalendermonats eine Abschlagszahlung in ungefährer Höhe des bis dahin
 verdienten Anteils der Heuer verlangen.
 
-
 #### § 35 Auszahlung der Heuer
 
 (1) Das Besatzungsmitglied hat nur im Hafen oder auf der Reede
@@ -557,7 +508,6 @@ Geltungsbereich des Grundgesetzes zu zahlen.
 (2) In einer Gast- oder Schankwirtschaft dürfen Auszahlungen nicht
 vorgenommen werden.
 
-
 #### § 36 Ziehschein
 
 Der Reeder ist auf Verlangen des Besatzungsmitglieds verpflichtet, am
@@ -567,7 +517,6 @@ Besatzungsmitglieds an die von diesem bezeichneten Familienangehörigen
 oder eine andere von ihm bezeichnete Person zu leisten. Er hat dem
 Besatzungsmitglied hierüber auf Verlangen einen Verpflichtungsschein
 (Ziehschein) zu erteilen.
-
 
 #### § 37 Abrechnung
 
@@ -589,7 +538,6 @@ gelegte Wechselkurs schriftlich anzugeben.
 35) zu übergeben. Beanstandet das Besatzungsmitglied die Abrechnung,
 so ist der Grund der Beanstandung auf der Abrechnung zu vermerken.
 
-
 #### § 38 Ergänzung der Schiffsbesatzung und Verteilung der Heuer bei nicht ausreichender Schiffsbesatzung
 
 (1) Wenn sich die Schiffsbesatzung während einer Reise vermindert und
@@ -609,10 +557,7 @@ einer Schiffsbesatzung antritt, die unter Berücksichtigung des
 Arbeitsschutzes nicht als ausreichend anzusehen ist und zu übermäßiger
 Arbeitsbelastung führt.
 
-
 ### Zweiter Unterabschnitt - Verpflegung, Unterbringung, Krankenfürsorge
-
-
 
 #### § 39 Verpflegung und Speiserolle
 
@@ -627,7 +572,6 @@ und Getränke regelt die Speiserolle.
 Besatzungsmitglieds; sie dürfen insbesondere nicht zur Veräußerung von
 Bord gebracht werden.
 
-
 #### § 40 Kürzung der Verpflegung bei ungewöhnlich langer Dauer der Reise und bei Unfällen
 
 (1) Der Kapitän ist berechtigt, abweichend von der Speiserolle Speisen
@@ -641,7 +585,6 @@ der Abweichung von der Speiserolle zu vermerken.
 
 (3) Das Besatzungsmitglied hat Anspruch auf eine den Abweichungen
 entsprechende Vergütung.
-
 
 #### § 41 Unterbringung
 
@@ -659,7 +602,6 @@ vertretenden Gründen zeitweilig eine Unterkunft auf dem Schiff nicht
 gewährt werden, so hat es Anspruch auf eine anderweitige angemessene
 Unterkunft oder eine angemessene Vergütung.
 
-
 #### § 42 Verpflichtung des Reeders zur Krankenfürsorge
 
 (1) Das Besatzungsmitglied hat vom Beginn bis zum Ende des
@@ -673,13 +615,11 @@ und das Besatzungsmitglied die Reise wegen einer beim Beginn des
 Heuerverhältnisses bereits vorhandenen Erkrankung oder Verletzung
 nicht antritt.
 
-
 #### § 43 Umfang der Krankenfürsorge
 
 Die Krankenfürsorge umfaßt die Heilbehandlung, die Verpflegung und
 Unterbringung des Kranken oder Verletzten. Zur Heilbehandlung gehört
 auch die Versorgung mit Arznei- und Heilmitteln.
-
 
 #### § 44 Besonderheiten bei der Krankenfürsorge in einem Hafen im Geltungsbereich des Grundgesetzes
 
@@ -696,7 +636,6 @@ steht oder wenn die Krankheit oder das Verhalten des Kranken das
 Verbleiben an Bord nicht gestattet oder unzumutbar macht oder wenn der
 Erfolg der Behandlung gefährdet ist.
 
-
 #### § 45 Besonderheiten bei der Krankenfürsorge außerhalb des Geltungsbereichs des Grundgesetzes
 
 (1) Hat das Besatzungsmitglied das Schiff außerhalb des
@@ -710,14 +649,12 @@ zur Befriedigung notwendiger persönlicher Bedürfnisse ein angemessenes
 Tagegeld zu zahlen, sofern nicht die Heuer nach § 48 Abs. 1
 fortzuzahlen ist.
 
-
 #### § 46 Ruhen des Anspruchs auf Krankenfürsorge auf Kosten des Reeders
 
 Weigert sich das Besatzungsmitglied ohne berechtigten Grund, die
 angebotene Heilbehandlung oder Krankenhausbehandlung anzunehmen, so
 ruht der Anspruch auf Krankenfürsorge auf Kosten des Reeders für die
 Dauer der unberechtigten Weigerung.
-
 
 #### § 47 Ende der Krankenfürsorge auf Kosten des Reeders
 
@@ -738,7 +675,6 @@ Besatzungsmitglied spätestens mit dem Ablauf der 26. Woche, nachdem es
 das Schiff verlassen hat. Bei Verletzung infolge eines Arbeitsunfalls
 endet die Krankenfürsorge, sobald der zuständige Träger der
 Unfallversicherung mit seinen Leistungen beginnt.
-
 
 #### § 48 Weiterzahlung der Heuer im Krankheitsfall
 
@@ -762,7 +698,6 @@ Besatzungsmitglied nach dem Fünften Buch Sozialgesetzbuch oder nach
 der Reichsversicherungsordnung zustehen würden, wenn es innerhalb des
 Geltungsbereichs des Grundgesetzes erkrankt wäre.
 
-
 #### § 49 Heimschaffung im Krankheitsfall
 
 (1) Ein Besatzungsmitglied, das wegen Krankheit oder Verletzung
@@ -781,20 +716,17 @@ nicht ein Heueranspruch auf Grund anderer Vorschriften zusteht, hat es
 während der Dauer der Heimschaffung Anspruch auf ein angemessenes
 Tagegeld zur Befriedigung notwendiger persönlicher Bedürfnisse.
 
-
 #### § 50 Krankheit oder Verletzung durch eigene Straftat
 
 Hat sich das Besatzungsmitglied die Krankheit oder Verletzung durch
 eine von ihm vorsätzlich begangene Straftat zugezogen, so entfällt der
 Anspruch auf Krankenfürsorge auf Kosten des Reeders.
 
-
 #### § 51 Regelung bei Streit über die Krankenfürsorge des Reeders
 
 Bei Streit zwischen dem Besatzungsmitglied und dem Reeder über die
 Krankenfürsorge trifft das Seemannsamt, das zuerst angerufen wird,
 eine vorläufige Regelung.
-
 
 #### § 52 Sorge für Sachen und Heuerguthaben des erkrankten oder verletzten Besatzungsmitglieds
 
@@ -817,7 +749,6 @@ Aufstellung ist von ihm und einem Besatzungsmitglied zu
 unterschreiben. Je ein Stück der Aufstellung erhalten die
 Aufbewahrungsstelle und das zurückgelassene Besatzungsmitglied.
 
-
 #### § 52a
 
 Dem erkrankten oder verletzten Besatzungsmitglied im Sinne der §§ 42
@@ -831,10 +762,7 @@ Arzt durch eine Bescheinigung nachgewiesen hat, daß sie sich
 mindestens drei Tage vor dem Eingriff von einer anerkannten
 Beratungsstelle hat beraten lassen.
 
-
 ### Dritter Unterabschnitt - Urlaub und Landgang
-
-
 
 #### § 53 Urlaubsanspruch
 
@@ -844,7 +772,6 @@ auf bezahlten Urlaub.
 (2) Das Bundesurlaubsgesetz vom 8. Januar 1963 (Bundesgesetzbl. I S.
 2) findet auf den Urlaubsanspruch des Besatzungsmitglieds nur insoweit
 Anwendung, als dieses Gesetz keine abweichenden Bestimmungen trifft.
-
 
 #### § 54 Urlaubsdauer
 
@@ -868,7 +795,6 @@ gewähren
 
 (3) Gesetzliche Feiertage sind auf den Urlaub nicht anzurechnen.
 
-
 #### § 55 Urlaubsgewährung
 
 (1) Der Urlaub wird vom Reeder oder vom Kapitän gewährt; dabei sind
@@ -887,7 +813,6 @@ Beschäftigungsjahres zu gewähren.
 
 (4) Während des Urlaubs darf das Besatzungsmitglied keiner dem
 Urlaubszweck widersprechenden Erwerbsarbeit nachgehen.
-
 
 #### § 56 Heimaturlaub
 
@@ -916,7 +841,6 @@ Nr. 1 oder 2 bezeichneten Orte erreichen muß und daß der Reeder die
 Reisekosten von den in Absatz 2 genannten Orten bis zu dem Meldeort
 trägt.
 
-
 #### § 57 Urlaubsentgelt
 
 (1) Als Urlaubsentgelt ist dem Besatzungsmitglied die Heuer
@@ -931,7 +855,6 @@ sind bei der Berechnung des Urlaubsentgelts angemessen zu
 berücksichtigen.
 
 (3) Das Urlaubsentgelt ist vor dem Urlaubsantritt zu entrichten.
-
 
 #### § 58 Erkrankung während des Urlaubs
 
@@ -948,7 +871,6 @@ Der Reeder oder der Kapitän bestimmt den Zeitpunkt, von dem ab der
 restliche Urlaub gewährt wird; dabei sind die Wünsche des
 Besatzungsmitglieds tunlichst zu berücksichtigen.
 
-
 #### § 59 Urlaub bei Beendigung des Heuerverhältnisses während des Beschäftigungsjahrs
 
 (1) Endet das Heuerverhältnis des Besatzungsmitglieds vor Ablauf des
@@ -961,14 +883,12 @@ Beschäftigungsmonat Anspruch auf ein Zwölftel des Jahresurlaubs.
 Absatz 1 zustehenden Urlaub erhalten, so kann das Urlaubsentgelt nicht
 zurückgefordert werden.
 
-
 #### § 60 Urlaubsabgeltung
 
 Der Urlaub darf nur abgegolten werden, soweit er wegen Beendigung des
 Heuerverhältnisses nicht mehr gewährt werden kann und eine
 Verlängerung des Heuerverhältnisses infolge Eingehens eines neuen
 Heuer- oder sonstigen Arbeitsverhältnisses nicht möglich ist.
-
 
 #### § 61 Landgang
 
@@ -988,10 +908,7 @@ für eine Verbindung zum Land zu sorgen.
 Hafenarbeitszeit notwendige Wachdienst gleichmäßig auf die
 Besatzungsmitglieder verteilt wird.
 
-
 ### Vierter Unterabschnitt - Beendigung des Heuerverhältnisses
-
-
 
 #### § 62 Ordentliche Kündigung
 
@@ -1001,7 +918,6 @@ Die elektronische Form der Kündigung ist ausgeschlossen.
 
 (2) Die ordentliche Kündigung gegenüber Schiffsoffizieren und
 sonstigen Angestellten kann nur vom Reeder ausgesprochen werden.
-
 
 #### § 63 Kündigungsfristen
 
@@ -1073,7 +989,6 @@ das Heuerverhältnis auch in einem Hafen außerhalb des Geltungsbereichs
 des Grundgesetzes an dem Tage, der dem Tag des Dienstantritts des
 Ersatzmannes vorausgeht.
 
-
 #### § 64 Außerordentliche Kündigung gegenüber dem Besatzungsmitglied
 
 (1) Das Heuerverhältnis eines Besatzungsmitglieds kann diesem
@@ -1113,7 +1028,6 @@ Besatzungsmitglied nach einer fristlosen Kündigung an Bord, so hat es
 den bei der Heimschaffung hilfsbedürftiger Seeleute üblichen
 Verpflegungssatz zu entrichten.
 
-
 #### § 65 Außerordentliche Kündigung gegenüber dem Besatzungsmitglied aus anderen Gründen
 
 Ist die Fortsetzung des Heuerverhältnisses mit dem Besatzungsmitglied
@@ -1122,7 +1036,6 @@ kann ihm ohne Einhaltung einer Kündigungsfrist während der Zeit, in
 der nach § 63 Abs. 1 die Kündigung mit Wochenfrist zulässig ist,
 gekündigt werden, wenn sich der Reeder zur Zahlung einer Abfindung in
 Höhe von mindestens einer Monatsgrundheuer verpflichtet.
-
 
 #### § 66 Außerordentliche Kündigung bei Verlust des Schiffs
 
@@ -1160,7 +1073,6 @@ unverzüglich von der Kündigung Kenntnis zu geben.
 
 (5) Im Rahmen dieser Vorschrift ist die Anwendung des § 65
 ausgeschlossen.
-
 
 #### § 67 Außerordentliche Kündigung durch das Besatzungsmitglied
 
@@ -1207,7 +1119,6 @@ Besatzungsmitglied die Gründe, die zur Kündigung berechtigten, vor
 Antritt der Reise bekannt waren oder den Umständen nach bekannt sein
 mußten.
 
-
 #### § 68 Außerordentliche Kündigung durch das Besatzungsmitglied aus weiteren Gründen
 
 Aus anderen wichtigen Gründen kann das Besatzungsmitglied das
@@ -1220,13 +1131,11 @@ alsbald für eine Fachprüfung in seinem Beruf vorzubereiten, oder wenn
 es nachweist, daß es eine höhere Stellung im Schiffsdienst erhalten
 kann.
 
-
 #### § 68a Schriftform der außerordentlichen Kündigung
 
 Die außerordentliche Kündigung des Heuerverhältnisses nach den §§ 64
 bis 68 bedarf zu ihrer Wirksamkeit der Schriftform; die elektronische
 Form ist ausgeschlossen.
-
 
 #### § 69 Vorläufige Entscheidung des Seemannsamts über die Berechtigung einer außerordentlichen Kündigung
 
@@ -1236,14 +1145,12 @@ gekündigt, so kann das Seemannsamt, das zuerst angerufen werden kann,
 eine vorläufige Entscheidung über die Berechtigung der Kündigung
 treffen.
 
-
 #### § 70 Heueranspruch bei außerordentlicher Kündigung durch das Besatzungsmitglied
 
 In den Fällen des § 67 hat das Besatzungsmitglied vom Zeitpunkt der
 Kündigung ab Anspruch auf Zahlung der Heuer für einen Monat.
 Schadenersatzansprüche auf Grund anderer Vorschriften bleiben
 unberührt.
-
 
 #### § 71 Zurücklassung
 
@@ -1272,7 +1179,6 @@ des Besatzungsmitglieds.
 (4) Bei einem Jugendlichen ist neben seiner Einwilligung auch
 diejenige seines gesetzlichen Vertreters erforderlich. Ist dieser
 nicht erreichbar, bedarf es der Einwilligung eines Seemannsamts.
-
 
 #### § 72 Anspruch auf Heimschaffung
 
@@ -1315,7 +1221,6 @@ und Verpflegung sowie Beförderung der Sachen.
 
 (4) (weggefallen)
 
-
 #### § 73 Bestimmungsort der Heimschaffung
 
 (1) Das Besatzungsmitglied kann den Ort, an den es heimgeschafft
@@ -1334,10 +1239,6 @@ werden will, aus den Bestimmungsorten auswählen.
 
 4.  jeder andere bei der Begründung des Heuerverhältnisses vereinbarte
     Ort.
-
-
-
-
 
 #### § 74 Durchführung und Kosten der Heimschaffung
 
@@ -1396,7 +1297,6 @@ erstatten.
 (7) Bei Streitigkeiten über die Heimschaffung trifft das Seemannsamt
 eine vorläufige Regelung.
 
-
 #### § 75 Tod des Besatzungsmitglieds
 
 (1) Ist ein Besatzungsmitglied an Bord oder außerhalb des
@@ -1412,7 +1312,6 @@ vorzunehmen.
 
 (2) Muß die Bestattung außerhalb des Geltungsbereichs des
 Grundgesetzes vorgenommen werden, so trägt der Reeder die Kosten.
-
 
 #### § 76 Sorge für Sachen und Heuerguthaben eines verstorbenen oder vermißten Besatzungsmitglieds
 
@@ -1430,7 +1329,6 @@ Geltungsbereich des Grundgesetzes zuständigen Seemannsamt zu
 verstorbenen oder für tot erklärten Besatzungsmitglieds den Erben auf
 deren Kosten zu übermitteln.
 
-
 #### § 77 Beendigung des Heuerverhältnisses bei vermutetem Verlust von Schiff und Besatzung
 
 (1) Ist der Verbleib eines Schiffs und seiner Besatzung nicht
@@ -1444,10 +1342,7 @@ festgestellt, so sind auf diese Besatzungsmitglieder die Bestimmungen
 über Rückbeförderung und Weiterzahlung der Heuer anzuwenden (§§
 72ff.).
 
-
 ### Fünfter Unterabschnitt - Anwendung der Vorschriften des Dritten Abschnitts auf den Kapitän und die in § 7 Abs 1 genannten Personen
-
-
 
 #### § 78 Anwendung der Vorschriften des Dritten Abschnitts auf den Kapitän
 
@@ -1482,21 +1377,15 @@ Kündigung Absatz 3 in Bezug zu nehmen ist.
 auf Heuer, auf Ersatz der Aufwendungen für Verpflegung und Unterkunft
 sowie auf Heimschaffung nach Maßgabe der §§ 72 bis 74.
 
-
 #### § 79 Anwendung der Vorschriften des Dritten Abschnitts auf die in § 7 Abs. 1 genannten Personen
 
 Die Vorschriften des Dritten Abschnitts mit Ausnahme der § 29 Abs. 2,
 §§ 42 bis 47, 49, 50, 52, 71 bis 76 finden auf die in § 7 Abs. 1
 genannten Personen keine Anwendung.
 
-
 ## Vierter Abschnitt - Arbeitsschutz
 
-
-
 ### Erster Unterabschnitt - Schutz gegen Betriebsgefahren, gesundheitliche Betreuung
-
-
 
 #### § 80 Allgemeiner Schutz gegen Betriebsgefahren
 
@@ -1527,7 +1416,6 @@ Soweit die angeordneten Vorkehrungen und Maßnahmen nicht die
 Beseitigung einer dringenden, das Leben und die Gesundheit bedrohenden
 Gefahr bezwecken, muß für die Ausführung eine angemessene Frist
 gelassen werden.
-
 
 #### § 81 Ärztliche Untersuchung
 
@@ -1563,7 +1451,6 @@ so kann der Arzt eine vorzeitige Nachuntersuchung anordnen.
 müssen, sofern möglich, auf eine geeignete Stelle im Tagesdienst
 versetzt werden.
 
-
 #### § 82 Entscheidung durch die Arbeitsschutzbehörde
 
 (1) Wird in dem ärztlichen Zeugnis festgestellt, daß der Betroffene
@@ -1575,7 +1462,6 @@ Wiederholungen der Untersuchung anordnen.
 
 (2) Die Arbeitsschutzbehörde kann jederzeit die ärztliche Untersuchung
 eines Jugendlichen anordnen.
-
 
 #### § 83 Verwaltungsrechtsweg
 
@@ -1595,10 +1481,7 @@ Berufsgruppe des Betroffenen sein muß.
 (4) Der Arbeitsschutzbehörde ist im Verfahren vor dem
 Widerspruchsausschuß Gelegenheit zur Stellungnahme zu geben.
 
-
 ### Zweiter Unterabschnitt - Arbeitszeit
-
-
 
 #### § 84 Seearbeitszeit, Hafenarbeitszeit, Feiertage
 
@@ -1618,7 +1501,6 @@ insgesamt geleistete Arbeit zu berücksichtigen.
 innerhalb des Geltungsbereichs des Grundgesetzes die gesetzlichen
 Feiertage des Liegeorts, außerhalb des Geltungsbereichs des
 Grundgesetzes und auf See die Feiertage des Registerhafens.
-
 
 #### § 84a Höchstarbeitszeiten und Mindestruhezeiten
 
@@ -1665,7 +1547,6 @@ nach
 
 zu sorgen.
 
-
 #### § 85 Seearbeitszeit der Besatzungsmitglieder mit Ausnahme des Verpflegungs-, Bedienungs- und Krankenpflegepersonals
 
 (1) Die Seearbeitszeit der zum Wachdienst bestimmten
@@ -1686,7 +1567,6 @@ Krankenpflegepersonals darf acht Stunden werktäglich nicht
 Feiertagen dürfen diese Besatzungsmitglieder nur beschäftigt werden,
 wenn die Voraussetzungen der §§ 88 oder 89 vorliegen.
 
-
 #### § 86 Hafenarbeitszeit der Besatzungsmitglieder mit Ausnahme des Verpflegungs-, Bedienungs- und Krankenpflegepersonals
 
 (1) Die Hafenarbeitszeit der Besatzungsmitglieder mit Ausnahme des
@@ -1704,7 +1584,6 @@ unumgänglichen und unaufschiebbaren Arbeiten beschäftigt werden;
 hierzu gehört auch das Laden und Löschen der Post. An Sonn- und
 Feiertagen darf die Beschäftigung mit unumgänglichen und
 unaufschiebbaren Arbeiten fünf Stunden nicht überschreiten.
-
 
 #### § 87 Arbeitszeit des Verpflegungs-, Bedienungs- und Krankenpflegepersonals
 
@@ -1727,7 +1606,6 @@ des Kapitäns überschritten werden.
 Krankenpflegepersonal nur mit Arbeiten beschäftigt werden, die zur
 Verpflegung, Bedienung und Krankenpflege der an Bord befindlichen
 Personen unbedingt erforderlich sind.
-
 
 #### § 88 Arbeiten zur Abwendung von Gefahren sowie Rollenmanöver
 
@@ -1753,7 +1631,6 @@ Störung der Ruhezeiten auf ein Mindestmaß beschränkt und keine
 84a bis 87 über die Lage der Arbeitszeit, die Ruhezeiten und die
 Beschäftigungsbeschränkungen keine Anwendung.
 
-
 #### § 89 Arbeitszeitverlängerung in dringenden Fällen
 
 (1) Abgesehen von den Fällen des § 88 kann der Kapitän in sonstigen
@@ -1765,7 +1642,6 @@ täglichen Arbeitszeit anordnen. Dasselbe gilt bei Wachdienst im Hafen.
 keine Anwendung.
 
 (3) (weggefallen)
-
 
 #### § 89a Abweichende Regelungen
 
@@ -1798,7 +1674,6 @@ wenn eine Arbeitnehmervertretung nicht besteht, durch schriftliche
 Vereinbarung zwischen dem Reeder und dem Besatzungsmitglied übernommen
 werden, sofern die Anwendung des gesamten Tarifvertrags vereinbart
 wird.
-
 
 #### § 90 Vergütung für Mehr-, Nacht- und Sonntagsarbeit
 
@@ -1838,7 +1713,6 @@ bestimmten Sätze mit der Maßgabe, daß sich der Mindestzuschlag bei
 Arbeiten nach Nummer 1 jeweils um ein Viertel eines Zweihundertstels
 der Grundheuer erhöht.
 
-
 #### § 91 Sonn- und Feiertagsausgleich
 
 (1) Dem Besatzungsmitglied ist für jeden Sonn- und Feiertag, an dem es
@@ -1861,10 +1735,7 @@ Gründe entgegenstehen, abzugelten.
 (4) Auf den arbeitsfreien Tag finden die Vorschriften der §§ 55 Abs. 1
 Satz 1 und 57 Abs. 1 und 2 entsprechende Anwendung.
 
-
 ### Dritter Unterabschnitt - Schutz für Frauen
-
-
 
 #### § 92 Beschäftigung weiblicher Besatzungsmitglieder
 
@@ -1875,15 +1746,11 @@ nach § 143 Abs. 1 Nr. 8 hinaus verbieten oder beschränken, wenn sie
 bei diesen Arbeiten in besonderem Maße Gefahren für ihre Gesundheit
 ausgesetzt ist.
 
-
 #### § 93
 
 -
 
-
 ### Vierter Unterabschnitt - Erhöhter Schutz für Jugendliche
-
-
 
 #### § 94 Beschäftigungsverbot für Kinder und Jugendliche
 
@@ -1961,7 +1828,6 @@ beschränken, wenn diese Arbeiten mit Gefahren für Leben, Gesundheit
 oder für die körperliche oder seelisch-geistige Entwicklung der
 Jugendlichen verbunden sind.
 
-
 #### § 95 Sonstige Pflichten des Kapitäns gegenüber Jugendlichen
 
 (1) Der Kapitän hat die erforderlichen Vorkehrungen und Anordnungen
@@ -1996,14 +1862,12 @@ Arbeitssicherheit an der Planung, Durchführung und Überwachung der für
 die Sicherheit und den Gesundheitsschutz bei der Beschäftigung
 Jugendlicher geltenden Vorschriften.
 
-
 #### § 96 Arbeitszeit der Jugendlichen
 
 Für Jugendliche gelten die Vorschriften der §§ 85 bis 87 über die See-
 und Hafenarbeitszeit mit der Abweichung, daß sie vorbehaltlich der
 Regelung in § 100 Abs. 3 und 4 nicht mehr als acht Stunden täglich und
 nicht mehr als 40 Stunden wöchentlich beschäftigt werden dürfen.
-
 
 #### § 97 Mehrarbeit der Jugendlichen
 
@@ -2026,7 +1890,6 @@ Beendigung des Heuerverhältnisses nicht mehr gewährt werden, ist die
 Mehrarbeit zu vergüten, wobei der Zuschlag für Jugendliche abweichend
 von § 90 Abs. 1 für jede Mehrarbeitsstunde mindestens ein Viertel
 eines Zweihundertstels der Grundheuer beträgt.
-
 
 #### § 98 Ruhepausen
 
@@ -2051,12 +1914,10 @@ vor Ende der Arbeitszeit. Länger als viereinhalb Stunden
 hintereinander dürfen Jugendliche nicht ohne Ruhepause beschäftigt
 werden.
 
-
 #### § 99 Nachtruhe der Jugendlichen
 
 Jugendliche dürfen vorbehaltlich der Regelung in § 100 Abs. 4 nur in
 der Zeit von 6 bis 20 Uhr beschäftigt werden.
-
 
 #### § 100 Freizeit der Jugendlichen
 
@@ -2088,7 +1949,6 @@ beeinträchtigt würde.
 einem Hafen zu gewähren, in dem Landgang zulässig und möglich ist. Auf
 Verlangen des Jugendlichen können die freien Tage auch auf See oder in
 Verbindung mit dem Urlaub gewährt werden.
-
 
 #### § 100a Abweichende Regelungen
 
@@ -2128,10 +1988,7 @@ wenn eine Arbeitnehmervertretung nicht besteht, durch schriftliche
 Vereinbarung zwischen dem Reeder und dem Jugendlichen übernommen
 werden.
 
-
 ### Fünfter Unterabschnitt - Durchführung der Arbeitsschutzvorschriften
-
-
 
 #### § 101 Übersicht über die Arbeitsorganisation und Arbeitszeitnachweise
 
@@ -2157,7 +2014,6 @@ Schiffsoffizier oder einen anderen Vorgesetzten beauftragen. Der
 Kapitän hat dafür zu sorgen, dass die Übersicht über die
 Arbeitsorganisation an einem leicht zugänglichen Ort an Bord
 angebracht wird.
-
 
 #### § 102 Arbeitsschutzbehörde
 
@@ -2205,7 +2061,6 @@ die Seefischerei betreffen, sind sie im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 zu erlassen.
 
-
 #### § 102a Aufsicht im Ausland
 
 (1) Die Aufgaben und Befugnisse der Arbeitsschutzbehörde, mit Ausnahme
@@ -2222,7 +2077,6 @@ getroffenen Anordnungen oder festgesetzten Geldbußen teilt das
 Seemannsamt der für den Heimathafen oder, wenn dieser nicht im
 Geltungsbereich des Grundgesetzes gelegen ist, der für den
 Registerhafen des Schiffs zuständigen Arbeitsschutzbehörde mit.
-
 
 #### § 102b
 
@@ -2249,10 +2103,7 @@ See-Berufsgenossenschaft abgegebene oder ihr mitgeteilte Erklärung zur
 (4) Die Kosten der Untersuchungen für jugendliche Arbeitnehmer unter
 18 Jahren erstattet der Bund der See-Berufsgenossenschaft.
 
-
 ### Sechster Unterabschnitt - Ausnahmevorschriften
-
-
 
 #### § 103 Arbeitsschutz für die in § 7 Abs. 1 genannten Personen
 
@@ -2262,23 +2113,18 @@ Arbeitszeitgesetz; für Jugendliche gilt das Jugendarbeitsschutzgesetz
 mit der Maßgabe, dass Personen unter 16 Jahren nicht auf einem Schiff
 beschäftigt werden dürfen.
 
-
 #### § 104 Anwendung der Vorschriften des Vierten Abschnitts auf den Kapitän
 
 Die Vorschriften der §§ 84a bis 86, 88 bis 89a, 101 gelten sinngemäß
 auch für den Kapitän, soweit dieser Wachdienst ausübt.
 
-
 ## Fünfter Abschnitt - Ordnung an Bord
-
-
 
 ### § 105 Verhalten an Bord
 
 Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger
 Achtung und Rücksichtnahme zusammenzuarbeiten, um den Schiffsbetrieb
 zu fördern und Ordnung und Sicherheit an Bord zu erhalten.
-
 
 ### § 106 Stellung des Kapitäns
 
@@ -2319,7 +2165,6 @@ Besatzungsmitgliedern bekanntgegeben werden.
 Übertragung der Befugnisse nach Absatz 5 unter Darstellung des
 Sachverhalts in das Schiffstagebuch einzutragen.
 
-
 ### § 107 Stellung der Schiffsoffiziere und der anderen Vorgesetzten
 
 (1) Die Schiffsoffiziere (§ 4) sind die Vorgesetzten aller
@@ -2339,7 +2184,6 @@ Dienstzweigen sind, haben die Anordnungen des wachhabenden nautischen
 Schiffsoffiziers, die im Rahmen des Wachdienstes liegen, in ihrem
 Dienstbereich durchzuführen.
 
-
 ### § 108 Pflichten des Vorgesetzten
 
 (1) Der Kapitän und die anderen Vorgesetzten haben die ihnen
@@ -2354,7 +2198,6 @@ Gefahren nach Möglichkeit ferngehalten werden.
 (2) Der Kapitän hat dafür zu sorgen, daß die berufliche Fortbildung
 der Jugendlichen im Rahmen des Schiffsbetriebs gefördert wird.
 
-
 ### § 109 Pflichten der Besatzungsmitglieder
 
 (1) Die Besatzungsmitglieder sind verpflichtet, die Anordnungen der
@@ -2365,14 +2208,12 @@ sie zur Beistandsleistung verpflichtet.
 auszuführen, wenn dadurch eine Straftat oder eine Ordnungswidrigkeit
 begangen würde.
 
-
 ### § 110 Vermißtenanzeige
 
 Wird ein Besatzungsmitglied bei der Abfahrt des Schiffs vermißt, so
 hat der Kapitän dem Seemannsamt, in dessen Bezirk diese Wahrnehmung
 zuerst gemacht wird, unverzüglich Anzeige zu erstatten und das
 Seefahrtbuch des Vermißten zu übermitteln.
-
 
 ### § 111 Anbordbringen von Personen und Gegenständen
 
@@ -2402,7 +2243,6 @@ dem Verlangen nicht nach, so kann der Kapitän die Gegenstände
 vernichten; in diesem Falle sind die Tatsache und der Grund der
 Vernichtung in das Schiffstagebuch einzutragen.
 
-
 ### § 112 Beschwerden
 
 (1) Beschwert sich ein Besatzungsmitglied bei dem Kapitän über das
@@ -2416,7 +2256,6 @@ an den Reeder weiterzuleiten.
 Verlangen eines Beteiligten unter Darstellung des Sachverhalts in das
 Schiffstagebuch einzutragen. Der Beschwerdeführer kann eine Abschrift
 der Eintragungen verlangen.
-
 
 ### § 113 Beschwerden bei Seeuntüchtigkeit des Schiffs oder mangelhaften Verpflegungsvorräten
 
@@ -2433,19 +2272,13 @@ veranlassen und das Ergebnis in das Schiffstagebuch einzutragen.
 Erweist sich die Beschwerde als begründet, so hat das Seemannsamt für
 geeignete Abhilfe zu sorgen.
 
-
 ## Sechster Abschnitt - Straftaten und Ordnungswidrigkeiten
 
-
-
 ### Erster Unterabschnitt - Straftaten
-
-
 
 #### § 114
 
 -
-
 
 #### § 115 Nichtbefolgen dienstlicher Anordnungen
 
@@ -2496,7 +2329,6 @@ war ihm dies zuzumuten, so kann das Gericht die Strafe nach seinem
 Ermessen mildern (§ 49 Abs. 2 des Strafgesetzbuches) oder von einer
 Bestrafung nach dieser Vorschrift absehen.
 
-
 #### § 116 Widerstand
 
 (1) Ein Besatzungsmitglied, das einem Vorgesetzten bei der
@@ -2515,14 +2347,12 @@ Monaten bis zu fünf Jahren.
 die zur Unterstützung bei der Durchführung einer in Absatz 1
 bezeichneten Maßnahme zugezogen sind.
 
-
 #### § 117 Mißbrauch der Anordnungsbefugnis
 
 Ein Vorgesetzter, der seine Befugnis, Anordnungen der in § 115 Abs. 4
 bezeichneten Art zu treffen, zu rechtswidrigen Anordnungen oder
 Zumutungen gröblich mißbraucht, wird mit Freiheitsstrafe bis zu fünf
 Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 118 Unterlassen der Mitnahme oder Ergänzung ausreichender Verpflegung und Heilmittel
 
@@ -2537,13 +2367,11 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe bis zu
 einhundertachtzig Tagessätzen.
 
-
 #### § 119 Vorenthalten von Verpflegung und Abgabe verdorbener Nahrungsmittel
 
 Ein Kapitän, der einem Besatzungsmitglied die ihm zustehende
 Verpflegung vorenthält oder verdorbene Verpflegung verabreicht, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 #### § 120 Zurücklassen eines Besatzungsmitglieds an einem Ort außerhalb des Geltungsbereichs des Grundgesetzes ohne Einwilligung des Seemannsamts
 
@@ -2551,7 +2379,6 @@ Ein Kapitän, der entgegen § 71 Abs. 1 Satz 1 ein Besatzungsmitglied an
 einem Ort außerhalb des Geltungsbereichs des Grundgesetzes zurückläßt,
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
-
 
 #### § 121 Strafbare Verletzung von Arbeitsschutzvorschriften durch den Kapitän
 
@@ -2609,7 +2436,6 @@ verursacht er in den Fällen des Absatzes 2 die Gefahr fahrlässig, so
 ist die Strafe Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe
 bis zu einhundertachtzig Tagessätzen.
 
-
 #### § 122 Verletzung von Ausrüstungspflichten durch den Reeder
 
 (1) Ein Reeder, der den Kapitän außer Stand setzt, ausreichende
@@ -2624,7 +2450,6 @@ bestraft.
 Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe bis zu
 einhundertachtzig Tagessätzen.
 
-
 #### § 123 Strafbare Verletzung von Arbeitsschutzvorschriften durch den Reeder
 
 (1) Ein Reeder, der einer vollziehbaren Anordnung nach § 80 Abs. 2
@@ -2638,7 +2463,6 @@ bestraft.
 (2) Verursacht der Reeder die Gefahr fahrlässig, so ist die Strafe
 Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe bis zu
 einhundertachtzig Tagessätzen.
-
 
 #### § 123a Strafbare Verletzung von Vorschriften über die Schiffsbesatzung
 
@@ -2667,10 +2491,7 @@ oder fremde Sachen von bedeutendem Wert gefährdet.
 wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis
 zu einhundertachtzig Tagessätzen bestraft.
 
-
 ### Zweiter Unterabschnitt - Ordnungswidrigkeiten
-
-
 
 #### § 124 Ordnungswidrigkeiten des Besatzungsmitglieds
 
@@ -2705,7 +2526,6 @@ zu einhundertachtzig Tagessätzen bestraft.
 unverzüglich unter Darstellung des Sachverhalts in das Schiffstagebuch
 einzutragen, dem Besatzungsmitglied von der Eintragung Kenntnis und
 auf Verlangen eine Abschrift zu geben.
-
 
 #### § 125 Ordnungswidrigkeiten des Kapitäns
 
@@ -2750,7 +2570,6 @@ Ordnungswidrig handelt ein Kapitän, der
 
 
 zuwiderhandelt.
-
 
 #### § 126 Ordnungswidrigkeiten des Kapitäns hinsichtlich des Arbeitsschutzes
 
@@ -2812,7 +2631,6 @@ Ordnungswidrig handelt ein Kapitän, der, abgesehen von den Fällen des
 
 zuwiderhandelt.
 
-
 #### § 127 Ordnungswidrigkeiten des Reeders
 
 Ordnungswidrig handelt ein Reeder, der vorsätzlich oder fahrlässig
@@ -2853,7 +2671,6 @@ Ordnungswidrig handelt ein Reeder, der vorsätzlich oder fahrlässig
 
 zuwiderhandelt.
 
-
 #### § 128 Ahndung von Ordnungswidrigkeiten
 
 Die Ordnungswidrigkeit kann in den Fällen des § 125 Nr. 8 und des §
@@ -2862,7 +2679,6 @@ den Fällen des § 127 Nr. 1, 2, 4 und 5 mit einer Geldbuße bis zu
 fünfundzwanzigtausend und in den übrigen Fällen mit einer Geldbuße bis
 zu fünfhundert Euro geahndet werden.
 
-
 #### § 129 Hemmung der Verjährung bei Ordnungswidrigkeiten
 
 Die Verjährung der Verfolgung von Ordnungswidrigkeiten nach den §§ 124
@@ -2870,16 +2686,12 @@ bis 126 beginnt mit dem Tage, an dem das Schiff, dessen Besatzung der
 Betroffene zur Zeit der Begehung angehörte, zuerst einen Hafen
 erreicht, in dem ein Seemannsamt seinen Sitz hat.
 
-
 ### Dritter Unterabschnitt - Gemeinsame Vorschriften für Straftaten und Ordnungswidrigkeiten
-
-
 
 #### § 130 Straftaten und Ordnungswidrigkeiten der in § 7 genannten Personen
 
 Die Strafdrohungen der §§ 115 und 116 und die Bußgelddrohung des § 124
 gelten auch für die in § 7 genannten Personen.
-
 
 #### § 131 Straftaten und Ordnungswidrigkeiten des Stellvertreters des Kapitäns
 
@@ -2887,13 +2699,11 @@ Die Strafdrohungen der §§ 118 bis 121 und des § 123a und die
 Bußgelddrohungen der §§ 125 und 126 gelten auch für den Stellvertreter
 des Kapitäns (§ 2 Abs. 3).
 
-
 #### § 131a Taten außerhalb des Geltungsbereichs dieses Gesetzes
 
 Die §§ 115 bis 128 gelten, unabhängig vom Recht des Tatorts, auch für
 Straftaten und Ordnungswidrigkeiten, die nicht im Geltungsbereich
 dieses Gesetzes begangen werden.
-
 
 #### § 132 Zuständigkeit des Seemannsamts
 
@@ -2926,7 +2736,6 @@ sowie das Seemannsamt, in dessen Bezirk der Hafen liegt, der nach
 Begehen der Ordnungswidrigkeit zuerst erreicht wird. Die §§ 38 und 39
 des Gesetzes über Ordnungswidrigkeiten bleiben unberührt.
 
-
 #### § 133 Einspruch gegen den Bußgeldbescheid
 
 (1) Die Frist für den Einspruch gegen den Bußgeldbescheid gilt als
@@ -2942,7 +2751,6 @@ Bußgeldbescheid erlassen hat, zu übersenden.
 (3) Legt der Kapitän selbst den Einspruch ein, so obliegen seinem
 Stellvertreter (§ 2 Abs. 3) die Aufgaben nach den Absätzen 1 und 2.
 
-
 #### § 134 Örtliche Zuständigkeit des Amtsgerichts
 
 Hat das Seemannsamt, das den Bußgeldbescheid erlassen hat, seinen Sitz
@@ -2951,16 +2759,12 @@ nicht im Geltungsbereich des Grundgesetzes, so ist das Amtsgericht
 des Grundgesetzes oder beim Fehlen eines solchen Heimathafens der
 Registerhafen des Schiffs sich befindet.
 
-
 #### § 135 Einlegung der Rechtsbeschwerde
 
 Für die Einlegung der Rechtsbeschwerde gelten die Vorschriften des §
 133 entsprechend.
 
-
 ## Siebenter Abschnitt - Schluß- und Übergangsvorschriften
-
-
 
 ### § 136 Sondervorschrift für Partenreedereien
 
@@ -2968,11 +2772,9 @@ Mehrere Partenreedereien, deren Geschäfte von demselben
 Korrespondentreeder geleitet werden, gelten im Sinne der Vorschriften
 des Dritten Abschnitts als ein Reeder.
 
-
 ### § 137
 
 (weggefallen)
-
 
 ### § 138 Zwei-Wachen-Schiffe
 
@@ -3003,7 +2805,6 @@ Anspruch auf einen angemessenen Zuschlag zur Grundheuer.
 Verlängerungen der Arbeitszeit über die Grenzen des Absatzes 1 Satz 1
 hinaus sind nach § 90 zu vergüten.
 
-
 ### § 139 Ausnahmen für Bergungsfahrzeuge sowie See- und Bergungsschlepper
 
 (1) Auf die Seearbeitszeit auf Bergungsfahrzeugen (einschließlich
@@ -3025,7 +2826,6 @@ Grund eines Tarifvertrags in einer Betriebs- oder Bordvereinbarung für
 Besatzungsmitglieder von Bergungsfahrzeugen, See- und
 Bergungsschleppern abweichende Regelungen von § 84a Abs. 2 vereinbart
 werden. § 89a Abs. 1a Satz 2 bis 4 und Abs. 2 findet Anwendung.
-
 
 ### § 140 Ergänzende Regelungen für Fischereifahrzeuge
 
@@ -3081,7 +2881,6 @@ Besatzungsmitglieder auf Schiffen mit einer Bruttoraumzahl von bis zu
 1\.300, für die Regelungen durch Tarifvertrag üblicherweise nicht
 getroffen werden, die Kündigungsfrist 48 Stunden beträgt.
 
-
 ### § 141 Ausnahmen für Fahrgastschiffe, Fährschiffe, Fördeschiffe und Schiffe des Seebäderverkehrs
 
 Für die Besatzungsmitglieder von Fahrgastschiffen, Fährschiffen,
@@ -3092,7 +2891,6 @@ Regelungen durch Tarifvertrag üblicherweise nicht getroffen werden,
 können Ausnahmen im Rahmen des § 140 Abs. 2 Satz 1 Nr. 2 durch die
 Arbeitsschutzbehörde bewilligt werden; § 140 Abs. 2 Satz 1 Nr. 3 Satz
 2 und 3 gilt sinngemäß.
-
 
 ### § 141a Abweichungen vom Musterungserfordernis
 
@@ -3105,7 +2903,6 @@ Schiffsbetriebes in Abweichung von § 13 Abs. 1 und § 15 Abs. 1 auf
 Antrag die Schiffsführung von den Pflichten zur Veranlassung einer
 Musterung und zum Mitführen der Musterrolle befreien, soweit der Zweck
 dieser Vorschriften in anderer Weise erreicht werden kann.
-
 
 ### § 142 Ermächtigung zum Erlaß von Rechtsverordnungen über Schiffsbesetzung, Ausbildung und Befähigungszeugnisse
 
@@ -3148,7 +2945,6 @@ abweichend von den Vorschriften des Verwaltungskostengesetzes vom 23.
 Juni 1970 (Bundesgesetzbl. I S. 821) geregelt werden. Die Gebühren
 dürfen 200 Deutsche Mark für die einzelne Amtshandlung nicht
 übersteigen.
-
 
 ### § 143 Ermächtigung zum Erlaß von weiteren Rechtsverordnungen
 
@@ -3238,7 +3034,6 @@ Nr. 4 bis 10 und Nr. 12 die Seefischerei erfaßt, sind sie im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz zu erlassen.
 
-
 ### § 143a Ermächtigungen zum Erlaß von Gebührenverordnungen
 
 (1) Für Amtshandlungen auf Grund der Rechtsverordnungen nach § 143
@@ -3256,7 +3051,6 @@ mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt
 wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung,
 der wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
-
 
 ### § 143b Ermächtigung zum Erlaß von Rechtsverordnungen über Regelbesatzungen
 
@@ -3314,7 +3108,6 @@ seiner Aufsicht bestimmt das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung im Einvernehmen mit dem Bundesministerium für Arbeit
 und Soziales.
 
-
 ### § 144 Auslegen von Gesetzen, Rechtsverordnungen und Tarifverträgen
 
 Ein Abdruck dieses Gesetzes, der nach den Vorschriften des § 143 Abs.
@@ -3323,10 +3116,7 @@ des Gesetzes über Ordnungswidrigkeiten und der einschlägigen
 Tarifverträge müssen an geeigneter Stelle an Bord zur Einsicht
 ausliegen.
 
-
 ### (XXXX) §§ 145 bis 148 (weggefallen)
-
-
 
 ### § 149 Inkrafttreten
 
@@ -3335,7 +3125,6 @@ Dieses Gesetz tritt am 1. April 1958, die Vorschriften des § 80 Abs.
 des Sechsten Abschnitts, soweit sie auf diese Bestimmungen verweisen,
 treten mit dem besonderen Gesetz nach § 102, spätestens jedoch am 1.
 Oktober 1958 in Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1021) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

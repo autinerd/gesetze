@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 6 G v. 13.12.2007 I 2894
 
-
 ## Eingangsformel
 
 Auf Grund des § 48 des Gesetzes über den Vollzug der Freiheitsstrafe
@@ -28,7 +27,6 @@ Strafvollzugsgesetz (StVollzG) - vom 16. März 1976 (BGBl. I S. 581,
 2088), geändert durch Gesetz vom 18. August 1976 (BGBl. I S. 2181),
 wird im Einvernehmen mit dem Bundesminister für Arbeit und
 Sozialordnung und mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Grundlohn
 
@@ -116,7 +114,6 @@ genügt. Während einer Einarbeitungs- oder Anlernzeit darf der
 Grundlohn um höchstens 20 vom Hundert verringert werden. § 43 Abs. 3
 Satz 2 des Strafvollzugsgesetzes bleibt unberührt.
 
-
 ## § 2 Zulagen
 
 (1) Zum Grundlohn können Zulagen gewährt werden
@@ -149,16 +146,11 @@ Bemessung der Leistungszulage können berücksichtigt werden:
 2.  im Leistungslohn die Arbeitsgüte sowie der Umgang mit Betriebsmitteln
     und Arbeitsmaterialien.
 
-
-
-
-
 ## § 3 Arbeitsentgelt für arbeitstherapeutische Beschäftigung
 
 Soweit ein Arbeitsentgelt nach § 43 Abs. 4 des Strafvollzugsgesetzes
 zu zahlen ist, beträgt es in der Regel 75 vom Hundert des Grundlohnes
 der Vergütungsstufe I.
-
 
 ## § 4 Ausbildungsbeihilfe
 
@@ -177,11 +169,9 @@ dies wegen der Kürze oder des Ziels der Maßnahmen gerechtfertigt ist.
 
 (4) Für die Gewährung von besonderen Zulagen gilt § 2 entsprechend.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Inkrafttreten
 

@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1550
 
-
 ## Eingangsformel
 
 Zur Beendigung der staatsrechtlichen Trennung geschlossener Siedlungen
@@ -31,7 +30,6 @@ Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
 nach Artikel 29 Abs. 7 des Grundgesetzes (G Artikel 29 Abs. 7) vom 30.
 Juli 1979 (BGBl. I S. 1325) folgender Staatsvertrag über die Änderung
 der gemeinsamen Landesgrenze geschlossen:
-
 
 ## Art 1
 
@@ -47,7 +45,6 @@ des Landes Niedersachsen gehen über die in Anlage 1 aufgeführten
 Flächen in der Gemarkung Nieste. Die getauschten Flächen haben jeweils
 eine Größe von 144 772 m².
 
-
 ## Art 2
 
 (1) In den übergehenden Gebieten befindet sich kein
@@ -55,7 +52,6 @@ Verwaltungsvermögen im Sinne des § 4 G Artikel 29 Abs. 7.
 
 (2) Eigentumsrechtliche Fragen werden von diesem Staatsvertrag nicht
 berührt.
-
 
 ## Art 3
 
@@ -74,13 +70,11 @@ Berichtigung des Grundbuchs erforderlichen Erklärungen abzugeben.
 notwendige Amtshandlungen anlässlich der Grenzänderung nicht erhoben
 oder erstattet.
 
-
 ## Art 4
 
 Der Staatsvertrag zwischen dem Land Hessen und dem Land Niedersachsen
 über die Änderung der gemeinsamen Landesgrenze vom 19./23. Mai 1967
 bleibt im Übrigen unberührt.
-
 
 ## Art 5
 
@@ -89,7 +83,6 @@ Ratifikationsurkunden werden ausgetauscht.
 
 (2) Dieser Staatsvertrag tritt am Ersten des auf den Austausch der
 Ratifikationsurkunden folgenden Monats in Kraft.
-
 
 ## Schlussformel
 

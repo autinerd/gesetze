@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 265
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Polen über Erleichterungen
 der Grenzabfertigung wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +45,6 @@ b)  die Strecken, auf denen die Bediensteten beider Vertragsparteien in
 
 
 erforderlich sind.
-
 
 ## Art 3
 

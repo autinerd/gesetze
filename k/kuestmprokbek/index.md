@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3428
 
-
-
 ## Eingangsformel
 
 Die von der Bundesregierung am 19. Oktober 1994 beschlossene
 Proklamation über die Ausweitung des deutschen Küstenmeeres wird
 hiermit bekanntgemacht:
-
 
 ## I.
 
@@ -410,7 +407,6 @@ hiermit bekanntgemacht:
 \*)
 Herausgeber: Bundesamt für Seeschiffahrt und Hydrographie, Bernhard-
 Nocht-Straße 78, 20359 Hamburg
-
 
 ## II.
 

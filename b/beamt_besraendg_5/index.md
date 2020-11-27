@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 15 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt - Regelung des Zusammentreffens von deutschen Dienst- und Versorgungsbezügen mit einer Versorgung aus der Verwendung bei einer zwischenstaatlichen oder überstaatlichen Einrichtung
 
-
-
 ### Art I bis Art IX -
-
-
 
 ### Art X - Übergangsvorschriften
 
@@ -53,50 +48,33 @@ Beamtenversorgungsgesetzes und § 55b Abs. 3 Satz 4 des
 Soldatenversorgungsgesetzes enthaltenen Frist beginnt frühestens mit
 dem Tag des Inkrafttretens dieses Gesetzes.
 
-
 ### Art XI
-
-
 
 ### § 1
 
 -
 
-
 ### § 2
 
 (weggefallen)
 
-
 ## Zweiter Abschnitt - Witwerversorgung
 
-
-
 ### Art XII bis Art XV -
-
-
 
 ### Art XVI -
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Sonstige Änderungen des Beamtenrechts
-
-
 
 ### Art XVII u. Art XVIII -
 
-
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### Art XIX -
 
 (weggefallen)
-
 
 ### Art XX
 

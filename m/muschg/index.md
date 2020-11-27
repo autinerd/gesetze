@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 23.10.2012 I 2246
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -36,10 +33,6 @@ Dieses Gesetz gilt
 2.  für weibliche in Heimarbeit Beschäftigte und ihnen Gleichgestellte (§
     1 Abs. 1 und 2 des Heimarbeitsgesetzes vom 14. März 1951 BGBl. I S.
     191), soweit sie am Stück mitarbeiten.
-
-
-
-
 
 ### § 2 Gestaltung des Arbeitsplatzes
 
@@ -85,10 +78,7 @@ Vorschriften kann die Aufsichtsbehörde in Einzelfällen anordnen,
 welche Vorkehrungen und Maßnahmen zur Durchführung des Absatzes 1 zu
 treffen sind.
 
-
 ## Zweiter Abschnitt - Beschäftigungsverbote
-
-
 
 ### § 3 Beschäftigungsverbote für werdende Mütter
 
@@ -100,7 +90,6 @@ Fortdauer der Beschäftigung gefährdet ist.
 Entbindung nicht beschäftigt werden, es sei denn, dass sie sich zur
 Arbeitsleistung ausdrücklich bereit erklären; die Erklärung kann
 jederzeit widerrufen werden.
-
 
 ### § 4 Weitere Beschäftigungsverbote
 
@@ -192,7 +181,6 @@ von der Bundesregierung gemäß Absatz 4 erlassenen Verordnung fällt.
 Sie kann in Einzelfällen die Beschäftigung mit bestimmten anderen
 Arbeiten verbieten.
 
-
 ### § 5 Mitteilungspflicht, ärztliches Zeugnis
 
 (1) Werdende Mütter sollen dem Arbeitgeber ihre Schwangerschaft und
@@ -211,7 +199,6 @@ Entbindung, so verkürzt oder verlängert sich diese Frist entsprechend.
 
 (3) Die Kosten für die Zeugnisse nach den Absätzen 1 und 2 trägt der
 Arbeitgeber.
-
 
 ### § 6 Beschäftigungsverbote nach der Entbindung
 
@@ -245,7 +232,6 @@ entsprechend.
     Arbeitsplatz (Zehnte Einzelrichtlinie im Sinne des Artikels 16 Abs. 1
     der Richtlinie 89/391/EWG - ABl. EG Nr. L 348 S. 1).
 
-
 ### § 7 Stillzeit
 
 (1) Stillenden Müttern ist auf ihr Verlangen die zum Stillen
@@ -276,7 +262,6 @@ tätig, so haben diese das Entgelt für die Stillzeit zu gleichen Teilen
 zu gewähren. Auf das Entgelt finden die Vorschriften der §§ 23 bis 25
 des Heimarbeitsgesetzes vom 14. März 1951 (BGBl. I S. 191) über den
 Entgeltschutz Anwendung.
-
 
 ### § 8 Mehrarbeit, Nacht- und Sonntagsarbeit
 
@@ -337,17 +322,11 @@ hat sie diesen vorher zu hören.
 (6) Die Aufsichtsbehörde kann in begründeten Einzelfällen Ausnahmen
 von den vorstehenden Vorschriften zulassen.
 
-
 ## Abschnitt 2a - Mutterschaftsurlaub
-
-
 
 ### (XXXX) §§ 8a bis 8d (weggefallen)
 
-
 ## Dritter Abschnitt - Kündigung
-
-
 
 ### § 9 Kündigungsverbot
 
@@ -379,11 +358,9 @@ der Entbindung nicht gegen ihren Willen bei der Ausgabe von Heimarbeit
 ausgeschlossen werden; die Vorschriften der §§ 3, 4, 6 und 8 Abs. 5
 bleiben unberührt.
 
-
 ### § 9a
 
 (weggefallen)
-
 
 ### § 10 Erhaltung von Rechten
 
@@ -401,10 +378,7 @@ Arbeitsverhältnis als nicht unterbrochen. Dies gilt nicht, wenn die
 Frau in der Zeit von der Auflösung des Arbeitsverhältnisses bis zur
 Wiedereinstellung bei einem anderen Arbeitgeber beschäftigt war.
 
-
 ## Vierter Abschnitt - Leistungen
-
-
 
 ### § 11 Arbeitsentgelt bei Beschäftigungsverboten
 
@@ -439,11 +413,9 @@ mutterschutzrechtlichen Beschäftigungsverbot beruhen.
 Zustimmung des Bundesrates Vorschriften über die Berechnung des
 Durchschnittsverdienstes im Sinne der Absätze 1 und 2 zu erlassen.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Mutterschaftsgeld
 
@@ -471,7 +443,6 @@ Schwangerschaft oder der Schutzfrist des § 6 Abs. 1 nach Maßgabe von §
 Abs. 1 von einem Beamten- in ein Arbeitsverhältnis wechseln, erhalten
 von diesem Zeitpunkt an Mutterschaftsgeld entsprechend den Absätzen 1
 und 2.
-
 
 ### § 14 Zuschuss zum Mutterschaftsgeld
 
@@ -519,7 +490,6 @@ während der Schutzfrist des § 6 Abs. 1 vom Arbeitgeber zulässig
 aufgelöst worden wäre. Dies gilt nicht, soweit sie eine zulässige
 Teilzeitarbeit leisten.
 
-
 ### § 15 Sonstige Leistungen bei Schwangerschaft und Mutterschaft
 
 Frauen, die in der gesetzlichen Krankenversicherung versichert sind,
@@ -541,10 +511,6 @@ oder des Zweiten Gesetzes über die Krankenversicherung der Landwirte:
 
 5.  Haushaltshilfe.
 
-
-
-
-
 ### § 16 Freistellung für Untersuchungen
 
 Der Arbeitgeber hat die Frau für die Zeit freizustellen, die zur
@@ -553,7 +519,6 @@ gesetzlichen Krankenversicherung bei Schwangerschaft und Mutterschaft
 erforderlich ist. Entsprechendes gilt zugunsten der Frau, die nicht in
 der gesetzlichen Krankenversicherung versichert ist. Ein
 Entgeltausfall darf hierdurch nicht eintreten.
-
 
 ### § 17 Erholungsurlaub
 
@@ -564,10 +529,7 @@ Beschäftigungsverbote nicht oder nicht vollständig erhalten, so kann
 sie nach Ablauf der Fristen den Resturlaub im laufenden oder im
 nächsten Urlaubsjahr beanspruchen.
 
-
 ## Fünfter Abschnitt - Durchführung des Gesetzes
-
-
 
 ### § 18 Auslage des Gesetzes
 
@@ -578,7 +540,6 @@ geeigneter Stelle zur Einsicht auszulegen oder auszuhängen.
 (2) Wer Heimarbeit ausgibt oder abnimmt, hat in den Räumen der Ausgabe
 und Abnahme einen Abdruck dieses Gesetzes an geeigneter Stelle zur
 Einsicht auszulegen oder auszuhängen.
-
 
 ### § 19 Auskunft
 
@@ -601,7 +562,6 @@ Verlangen
 (2) Die Unterlagen sind mindestens bis zum Ablauf von zwei Jahren nach
 der letzten Eintragung aufzubewahren.
 
-
 ### § 20 Aufsichtsbehörden
 
 (1) Die Aufsicht über die Ausführung der Vorschriften dieses Gesetzes
@@ -613,10 +573,7 @@ Obliegenheiten wie nach § 139b der Gewerbeordnung die dort genannten
 besonderen Beamten. Das Grundrecht der Unverletzlichkeit der Wohnung
 (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-
 ## Sechster Abschnitt - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 21 Straftaten und Ordnungswidrigkeiten
 
@@ -673,14 +630,9 @@ mit Geldstrafe bestraft.
 wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis
 zu einhundertachtzig Tagessätzen bestraft.
 
-
 ### (XXXX) §§ 22 und 23 (weggefallen)
 
-
-
 ## Siebter Abschnitt - Schlussvorschriften
-
-
 
 ### § 24 In Heimarbeit Beschäftigte
 
@@ -694,10 +646,6 @@ gelten
 2.  § 2 Abs. 4, § 5 Abs. 1 und 3, § 9 Abs. 1, § 11 Abs. 1, § 13 Abs. 2,
     die §§ 14, 16, 19 Abs. 1 und § 21 Abs. 1 mit der Maßgabe, dass an die
     Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister tritt.
-
-
-
-
 
 ### § 25
 

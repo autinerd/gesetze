@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 905
 
-
-
 ## § 1 Gesetzliches Forderungspfandrecht
 
 (1) Es besteht ein Pfandrecht an einer Forderung, die ein Täter oder
@@ -40,19 +38,16 @@ der Strafprozeßordnung anzusehen ist und infolge der rechtswidrigen
 Tat einen Schadensersatzanspruch gegen den Täter oder Teilnehmer hat;
 das Pfandrecht sichert diese Forderung.
 
-
 ## § 2 Mehrere Geschädigte
 
 Pfandrechte, die auf derselben öffentlichen Darstellung beruhen, haben
 den gleichen Rang. § 432 des Bürgerlichen Gesetzbuchs ist anzuwenden.
-
 
 ## § 3 Anteilsmäßige Befriedigung
 
 Übersteigen die Ansprüche auf Schadensersatz mehrerer Pfandgläubiger
 die Höhe der Forderung, erhalten sie Befriedigung nur anteilig im
 Verhältnis ihrer Ansprüche untereinander zur Höhe der Forderung.
-
 
 ## § 4 Auskunftspflicht
 
@@ -65,7 +60,6 @@ einer Forderung nach § 1 Abs. 1 Satz 1 oder 2 und § 7 verlangen.
 Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie
 Verschwiegenheitspflichten bleiben unberührt.
 
-
 ## § 5 Hinterlegung
 
 Ist ungewiß, ob und inwieweit einer Person ein Pfandrecht nach § 1
@@ -74,13 +68,11 @@ der Hinterlegungsstelle seines allgemeinen Gerichtsstands berechtigt.
 Die Vorschriften des Bürgerlichen Gesetzbuchs über die Hinterlegung
 sind anzuwenden.
 
-
 ## § 6 Ergänzende Bestimmungen
 
 Soweit nichts anderes bestimmt ist, gelten die Vorschriften des
 Bürgerlichen Gesetzbuchs über das Pfandrecht an Forderungen
 entsprechend.
-
 
 ## § 7 Umgehungsverbot
 
@@ -91,7 +83,6 @@ erlangt (Begünstigter), sofern sich aus der Darstellung ergibt, daß
 ein Tatbeteiligter an deren Zustandekommen mitgewirkt hat und nach den
 Umständen davon auszugehen ist, daß dieser aus der Veröffentlichung
 einen geldwerten Vorteil erlangt.
-
 
 ## § 8 Übergangsvorschrift und Inkrafttreten
 

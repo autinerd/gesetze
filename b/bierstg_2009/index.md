@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 16.6.2011 I 1090
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Steuergebiet, Steuergegenstand
 
@@ -49,7 +47,6 @@ S. 1, L 341 vom 3.12.1987, S. 38, L 378 vom 31.12.1987, S. 120, L 130
 vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und
 der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr.
 2658/87 erlassenen Rechtsvorschriften.
-
 
 ### § 2 Steuertarif
 
@@ -133,7 +130,6 @@ ausländischen unabhängigen Brauerei mit einer Gesamtjahreserzeugung
 von weniger als 200 000 hl in das Steuergebiet geliefert, gilt die
 entsprechende Steuerermäßigung für den jeweiligen Steuerschuldner.
 
-
 ### § 3 Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
@@ -200,12 +196,7 @@ Im Sinn dieses Gesetzes ist oder sind
 11. Personen: natürliche und juristische Personen sowie
     Personenvereinigungen ohne eigene Rechtspersönlichkeit.
 
-
-
-
-
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
-
 
 ### § 4 Steuerlager
 
@@ -215,7 +206,6 @@ verarbeitet, gelagert, empfangen oder versandt werden darf.
 Herstellung ist auch die Veränderung der Menge oder des
 Stammwürzegehalts des Bieres, wenn sich dadurch die
 Besteuerungsgrundlage ändert.
-
 
 ### § 5 Steuerlagerinhaber
 
@@ -238,7 +228,6 @@ genannten Voraussetzungen nicht mehr erfüllt ist oder eine
 angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann
 widerrufen werden, wenn eine geleistete Sicherheit nicht mehr
 ausreicht.
-
 
 ### § 6 Registrierte Empfänger
 
@@ -277,7 +266,6 @@ des öffentlichen Rechts erteilt wird.
 genannten Voraussetzungen nicht mehr erfüllt ist oder eine geleistete
 Sicherheit nicht mehr ausreicht.
 
-
 ### § 7 Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Bier vom Ort der Einfuhr
@@ -295,7 +283,6 @@ Sicherheit nach § 11 Absatz 2 geleistet worden ist.
 (3) Die Erlaubnis ist zu widerrufen, wenn eine der in Absatz 2 Satz 2
 genannten Voraussetzungen nicht mehr erfüllt ist oder eine geleistete
 Sicherheit nicht mehr ausreicht.
-
 
 ### § 8 Begünstigte
 
@@ -388,7 +375,6 @@ Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im
 Steuergebiet anstelle einer Freistellungsbescheinigung andere
 geeignete Dokumente zuzulassen.
 
-
 ### § 9 Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
@@ -411,7 +397,6 @@ der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das
 Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und
 den dazu erforderlichen Datenaustausch zu regeln und dabei das
 Verfahren abweichend von Absatz 1 zu bestimmen.
-
 
 ### § 10 Beförderungen im Steuergebiet
 
@@ -457,7 +442,6 @@ aufzunehmen, oder
 Steueraussetzung, wenn das Bier das Steuerlager verlässt oder am Ort
 der Einfuhr in den zollrechtlich freien Verkehr übergeführt worden ist
 und endet mit der Aufnahme oder Übernahme.
-
 
 ### § 11 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
@@ -549,7 +533,6 @@ ist. In den Fällen des Absatzes 1 Nummer 2 in Verbindung mit Absatz 4
 endet die Beförderung unter Steueraussetzung mit der Aufnahme oder
 Übernahme.
 
-
 ### § 12 Ausfuhr
 
 (1) Bier darf unter Steueraussetzung, auch über Drittländer oder
@@ -571,7 +554,6 @@ Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt.
 (4) Für die Sicherheitsleistung gilt für die unmittelbare Ausfuhr aus
 dem Steuergebiet § 10 Absatz 2 und für die Ausfuhr über andere
 Mitgliedstaaten § 11 Absatz 2 entsprechend.
-
 
 ### § 13 Unregelmäßigkeiten während der Beförderung
 
@@ -625,7 +607,6 @@ Antrag erstattet.
 
 (6) Die Absätze 1 bis 5 gelten für die in § 11 Absatz 3 genannten
 Fälle entsprechend.
-
 
 ### § 14 Steuerentstehung, Steuerschuldner
 
@@ -695,7 +676,6 @@ Steuerlagerinhaber mit Inbesitznahme des Bieres die Personen nach Satz
 (5) Schulden mehrere Personen die Steuer, so sind diese
 gesamtschuldnerisch zur Erfüllung dieser Schuld verpflichtet.
 
-
 ### § 15 Steuererklärung, Steueranmeldung, Fälligkeit
 
 (1) Die Steuerschuldner nach § 14 Absatz 4 Satz 1 Nummer 1 erste
@@ -719,9 +699,7 @@ folgenden Monats fällig.
 eine Steueranmeldung abzugeben und in ihr die Steuer selbst zu
 berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
 ## Abschnitt 3 - Einfuhr von Bier aus Drittländern oder Drittgebieten
-
 
 ### § 16 Einfuhr
 
@@ -775,16 +753,11 @@ berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
     1 bis 4 des Zollkodex vorgesehenen besonderen Verfahren der
     Zollüberwachung beim Eingang in das Zollgebiet der Gemeinschaft.
 
-
-
-
-
 ### § 17 Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich
 Bier befindet, Unregelmäßigkeiten ein, gilt Artikel 215 des Zollkodex
 sinngemäß.
-
 
 ### § 18 Steuerentstehung, Steuerschuldner
 
@@ -828,9 +801,7 @@ Anpassung an die Behandlung von im Steuergebiet hergestelltem Bier
 oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich
 ist.
 
-
 ## Abschnitt 4 - Beförderung und Besteuerung von Bier des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
-
 
 ### § 19 Erwerb durch Privatpersonen
 
@@ -852,10 +823,6 @@ bestimmt ist, sind die nachstehenden Kriterien zu berücksichtigen:
 
 
 4.  Beschaffenheit oder Menge des Bieres.
-
-
-
-
 
 ### § 20 Bezug und Besitz zu gewerblichen Zwecken
 
@@ -917,7 +884,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens Vorschriften zu den Absätzen 1, 2, 4 und 5,
 insbesondere zum Besteuerungsverfahren und zur Sicherheit, zu
 erlassen.
-
 
 ### § 21 Versandhandel
 
@@ -981,7 +947,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu den Absätzen 1, 2, 4 bis 7 zu erlassen.
 
-
 ### § 22 Unregelmäßigkeiten während der Beförderung von Bier des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
 (1) Treten während der Beförderung von Bier nach § 20 Absatz 1 und 2
@@ -999,9 +964,7 @@ Steuerschuldner hat über Bier, für das die Steuer entstanden ist,
 unverzüglich eine Steueranmeldung abzugeben. Die Steuer ist sofort
 fällig.
 
-
 ## Abschnitt 5 - Steuervergünstigungen
-
 
 ### § 23 Steuerbefreiungen
 
@@ -1099,10 +1062,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 2.  bei wirtschaftlichem Bedürfnis auch die nichtgewerbliche
     steuerbefreite Verwendung nach Absatz 1 zuzulassen.
 
-
-
-
-
 ### § 23a Verwender
 
 (1) Wer Bier in den Fällen des § 23 Absatz 1 steuerfrei verwenden
@@ -1152,13 +1111,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
     b)  die steuerbefreite Verwendung unter Verzicht auf Einzelerlaubnisse
         allgemein zuzulassen.
 
-
-
-
-
-
-
-
 ### § 24 Steuerentlastung im Steuergebiet
 
 (1) Für nachweislich versteuertes Bier, das in das Steuerlager wieder
@@ -1180,7 +1132,6 @@ den Entlastungsberechtigten ausgestellte Versteuerungsbestätigung des
 Steuerschuldners für den Antrag nach Absatz 1 Satz 1 und 2
 vorzuschreiben sowie im Fall des Absatzes 2 Mindestmengen
 vorzuschreiben.
-
 
 ### § 25 Steuerentlastung bei der Beförderung von Bier des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
@@ -1237,12 +1188,7 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 2.  zur Verwaltungsvereinfachung Mindestmengen vorzuschreiben sowie
     Steuerlagerinhaber von dem Verfahren auszuschließen.
 
-
-
-
-
 ## Abschnitt 6 - Steueraufsicht, Geschäftsstatistik, Ermächtigungen
-
 
 ### § 26 Steueraufsicht
 
@@ -1270,7 +1216,6 @@ kann, dass das Bier
 
 Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
 
-
 ### § 27 Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
@@ -1280,7 +1225,6 @@ teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten
 dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für
 allgemeine Zwecke übermitteln.
-
 
 ### § 28 Besondere Ermächtigungen
 
@@ -1416,10 +1360,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
     Bezugsquelle und eine Stelle zu bezeichnen, bei der die
     Veröffentlichung archivmäßig gesichert niedergelegt ist.
 
-
-
-
-
 ### § 29 Durchführung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -1530,9 +1470,7 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Verwaltungsvorschriften zur Durchführung dieses Gesetzes sowie der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
 ## Abschnitt 7 - Schlussbestimmungen
-
 
 ### § 30 Ordnungswidrigkeiten
 
@@ -1547,10 +1485,6 @@ handelt, wer vorsätzlich oder leichtfertig
 
 2.  entgegen § 20 Absatz 4 oder § 21 Absatz 4 Satz 1 und 5 oder Absatz 7
     Satz 1 eine Anzeige nicht oder nicht rechtzeitig erstattet.
-
-
-
-
 
 ### § 31 Übergangsbestimmungen
 

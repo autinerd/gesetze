@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 2246
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## Art 1 Zustimmung zum Hörfunk-Überleitungsstaatsvertrag
 
@@ -32,7 +29,6 @@ Körperschaft des öffentlichen Rechts "Deutschlandradio" - Hörfunk-
 Überleitungsstaatsvertrag -" wird zugestimmt. Der Staatsvertrag wird
 nachstehend veröffentlicht.
 
-
 ## Art 2 Änderung des Gesetzes über die Errichtung von Rundfunkanstalten des Bundesrechts
 
 (1) Die Aufgaben der gemeinnützigen Anstalt des öffentlichen Rechts
@@ -40,7 +36,6 @@ mit dem Namen "Deutschlandfunk" als Rundfunkanstalt des Bundesrechts
 sind zum 31. Dezember 1993 beendet.
 
 (2)
-
 
 ## Art 3 Aufhebung des RIAS Berlin Statuts
 
@@ -50,11 +45,9 @@ auf Berlin vom 25. September 1990 in Verbindung mit Artikel 1 der
 Verordnung zu dem Übereinkommen vom 28. September 1990 (BGBl. II S.
 1273) aufgehoben.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5 Inkrafttreten
 

@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2432 (3127)
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 8
-
-
 
 ## Art 9 Übergangsregelung
 
@@ -38,7 +33,6 @@ Flugplatzunternehmers den bisherigen Bauschutzbereich abweichend von
 Satz 1 aufrechterhalten, soweit öffentliche Interessen nicht
 entgegenstehen.
 
-
 ## Art 10 Bekanntmachungsbefugnis
 
 Das Bundesministerium für Verkehr kann den Wortlaut des
@@ -47,18 +41,15 @@ Zulassungs-Ordnung in der nach dem Inkrafttreten dieses
 Änderungsgesetzes geltenden Fassung im Bundesgesetzblatt
 bekanntmachen.
 
-
 ## Art 10a
 
 -
-
 
 ## Art 11 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikel 5 bis 8 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert oder aufgehoben werden.
-
 
 ## Art 12 Inkrafttreten, Außerkrafttreten
 

@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 2087
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 3 des Regionalisierungsgesetzes vom 27.
 Dezember 1993 (BGBl. I S. 2378, 2395) verordnet das Bundesministerium
 der Finanzen:
-
 
 ## § 1 Berechnung der den Ländern in den Jahren 1996 und 1997 zustehenden Beträge
 
@@ -33,7 +30,6 @@ zustehenden Beträgen von 474,80 Millionen Deutsche Mark für 1996 und
 Deutsche Mark aus dem Haushalt des Bundes gezahlt. Demgemäß belaufen
 sich die nach § 8 Abs. 2 des Gesetzes zu verteilenden Beträge für 1996
 auf 1.057,69 und für 1997 auf 4.300,91 Millionen Deutsche Mark.
-
 
 ## § 2 Berechnung der den Ländern in den Jahren 1998 bis 2001 zustehenden Beträge
 
@@ -49,7 +45,6 @@ Leistungsjahr wird für die Berechnung des Wachstums im Einvernehmen
 mit den Ländern das Umsatzsteueraufkommen angesetzt, das sich
 voraussichtlich ohne Änderung der Steuersätze ergeben hätte.
 
-
 ## § 3 Überweisung der an die Länder zu leistenden Beträge durch den Bund
 
 (1) Die den Ländern nach § 5 in Verbindung mit § 8 des Gesetzes
@@ -59,11 +54,9 @@ diesen Terminen vorläufige monatliche Abschlagszahlungen nach Maßgabe
 des jeweils geschätzten Jahresbetrages geleistet. Die endgültige
 Abrechnung des Jahresbetrages erfolgt zum 15. Februar des Folgejahres.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
-
 
 ## Schlußformel
 

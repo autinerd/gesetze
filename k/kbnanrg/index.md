@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 416, 417
 
-
 ## (XXXX)
 
 Der nach § 66 Absatz 1 Satz 2 des Einkommensteuergesetzes und § 6

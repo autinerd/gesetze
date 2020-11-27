@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1977, 257
 
-
-
 ## Gliederung
 
 
@@ -74,10 +72,6 @@ Fundstelle
 
     *   (weggefallen)
 
-
-
-
-
 ## Eingangsformel
 
 Bei der weiteren Gestaltung der entwickelten sozialistischen
@@ -102,18 +96,11 @@ gesellschaftlichen Kollektive für Verkehrssicherheit sind
 aufgefordert, dabei aktiv mitzuwirken.
 Deshalb wird folgendes verordnet:
 
-
 ## Erstes Kapitel
-
-
 
 ### (XXXX) §§ 1 bis 6 (weggefallen)
 
-
-
 ## Zweites Kapitel - Voraussetzungen für das Führen von Fahrzeugen
-
-
 
 ### § 7 Fahrtüchtigkeit
 
@@ -126,30 +113,17 @@ unter Einwirkung von Alkohol stehen.
 
 (4)
 
-
 ### (XXXX) §§ 8 und 9 (weggefallen)
-
-
 
 ## Drittes Kapitel
 
-
-
 ### (XXXX) §§ 10 bis 33 (weggefallen)
-
-
 
 ## Viertes bis Sechstes Kapitel
 
-
-
 ### (XXXX) §§ 34 bis 46 (weggefallen)
 
-
-
 ## Siebentes Kapitel - Schlußbestimmungen
-
-
 
 ### § 47 Ordnungsstrafbestimmungen
 
@@ -193,19 +167,13 @@ kann mit Ordnungsstrafe bis zu 1.000 M belegt werden.
 
 (4) bis (11)
 
-
 ### (XXXX) §§ 48 bis 52 (weggefallen)
-
-
 
 ### Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ### (XXXX) Anlage 1 bis 3 (weggefallen)
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 885, 1223)
 

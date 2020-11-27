@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1898, 912
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 982, 983 des Bürgerlichen Gesetzbuchs hat der
@@ -30,7 +28,6 @@ Bundesrat folgende
 
 
 beschlossen:
-
 
 ## § 1
 
@@ -47,7 +44,6 @@ Schriftstück von dem Ort des Aushangs zu früh entfernt wird.
 
 (2) Die Behörde oder die Anstalt kann weitere Bekanntmachungen,
 insbesondere durch Einrückung in öffentliche Blätter, veranlassen.
-
 
 ## § 2
 

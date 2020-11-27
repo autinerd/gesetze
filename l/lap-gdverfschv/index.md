@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 6 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -30,10 +29,7 @@ Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I
 S. 706) neu gefasst worden ist, verordnet das Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -108,7 +104,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -130,7 +125,6 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist das Bundesamt für Verfassungsschutz. Ihm
@@ -140,7 +134,6 @@ Anwärterinnen und Anwärter; es trifft die Entscheidungen über
 Verkürzung und Verlängerung des Vorbereitungsdienstes und der
 Aufstiegsausbildung. Das Bundesamt für Verfassungsschutz ist die für
 die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -153,10 +146,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 2.  die Fachhochschulreife oder eine andere zu einem Hochschulstudium
     berechtigende Schulausbildung oder einen hochschulrechtlich als
     gleichwertig anerkannten Bildungsstand besitzt.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -188,13 +177,6 @@ richten. Der Bewerbung sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -246,7 +228,6 @@ entsprechend.
 vom Bundesamt für Verfassungsschutz für die Dauer von drei Jahren
 bestellt; Wiederbestellung ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Das Bundesamt für Verfassungsschutz entscheidet nach dem Ergebnis
@@ -293,7 +274,6 @@ Die Kosten des Gesundheitszeugnisses trägt das Bundesamt für
 Verfassungsschutz. Anstelle der Kostenübernahme kann das Bundesamt für
 Verfassungsschutz die Einstellungsuntersuchung selbst vornehmen.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -306,7 +286,6 @@ Bundesamtes für Verfassungsschutz. Während der Ausbildung an der
 Fachhochschule des Bundes für öffentliche Verwaltung und bei
 Landesbehörden für Verfassungsschutz unterstehen sie auch deren
 Dienstaufsicht.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -363,18 +342,15 @@ erscheint.
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 42 Abs. 2.
 
-
 ### § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan sowie alle Leistungsnachweise
 und Bewertungen aufzunehmen sind.
-
 
 ### § 12 Schwerbehinderte Menschen
 
@@ -394,7 +370,6 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -468,7 +443,6 @@ Maßgabe des § 22 durchgeführt.
 
 (4) Das Grundstudium schließt mit der Zwischenprüfung.
 
-
 ### § 14 Fachhochschule des Bundes für öffentliche Verwaltung
 
 Die Fachstudien werden an der Fachhochschule des Bundes für
@@ -476,7 +450,6 @@ Die Fachstudien werden an der Fachhochschule des Bundes für
 für Verfassungsschutz weist die Anwärterinnen und Anwärter für das
 Grundstudium dem Zentralbereich und für das Hauptstudium dem
 Fachbereich Öffentliche Sicherheit - Abteilung Verfassungsschutz - zu.
-
 
 ### § 15 Grundsätze der Fachstudien
 
@@ -495,7 +468,6 @@ Lernziele der Studienfächer, die ihnen und ihren Intensitätsstufen
 entsprechenden Lerninhalte, die Stundenzahlen und die Art der
 Leistungsnachweise. Auf der Grundlage des Studienplans werden
 Lehrveranstaltungspläne erstellt.
-
 
 ### § 16 Grundstudium
 
@@ -534,10 +506,6 @@ Aufgaben des gehobenen Dienstes:
 
 
 6.  laufbahntypische Bereiche der Aufgabenerfüllung.
-
-
-
-
 
 ### § 17 Hauptstudium
 
@@ -609,10 +577,6 @@ und vertieft diese.
 
 8.  internationale Sicherheitspolitik.
 
-
-
-
-
 ### § 18 Ziel der berufspraktischen Studienzeiten
 
 Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen
@@ -620,7 +584,6 @@ und Anwärter berufliche Kenntnisse und Erfahrungen als Grundlage für
 die Fachstudien, vertiefen die in den Fachstudien erworbenen
 wissenschaftlichen Kenntnisse und lernen, sie in der Praxis
 anzuwenden.
-
 
 ### § 19 Praktika
 
@@ -639,7 +602,6 @@ erhalten, sich im Vortrag und in der Verhandlungsführung zu üben.
 
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
-
 
 ### § 20 Durchführung der Praktika
 
@@ -685,7 +647,6 @@ Verfassungsschutz statt. Dort lernen die Anwärterinnen und Anwärter
 die besonderen Belange des Verfassungsschutzes der Länder und die
 Zusammenarbeit mit dem Bundesamt für Verfassungsschutz kennen.
 
-
 ### § 21 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
 (1) Jede Behörde, der Anwärterinnen und Anwärter zur Ausbildung
@@ -715,7 +676,6 @@ Sachgebiete ergeben, in denen sie oder er ausgebildet wird. Dieser
 Plan wird dem Bundesamt für Verfassungsschutz vorgelegt. Die
 Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
 ### § 22 Praxisbezogene Lehrveranstaltungen
 
 (1) Die praxisbezogenen Lehrveranstaltungen betragen in der Regel 300
@@ -743,10 +703,6 @@ insbesondere:
 
 
 6.  Kommunikation/Kooperation.
-
-
-
-
 
 ### § 23 Leistungsnachweise während der Fachstudien
 
@@ -818,7 +774,6 @@ Ordnungsverstößen sind die §§ 36 und 37 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 24 Bewertungen während der berufspraktischen Studienzeiten
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -844,10 +799,7 @@ Rangpunkte durch die Anzahl der bewerteten Ausbildungsabschnitte und
 der Leistungsnachweise geteilt wird. Die Anwärterinnen und Anwärter
 erhalten eine Ausfertigung.
 
-
 ## Kapitel 2 - Aufstieg
-
-
 
 ### § 25 Ausbildungsaufstieg
 
@@ -880,7 +832,6 @@ Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz
 ist, ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht
 gefährdet erscheint. § 9 Abs. 2 Satz 2 und 3 ist entsprechend
 anzuwenden.
-
 
 ### § 26 Praxisaufstieg
 
@@ -977,10 +928,7 @@ zum Aufstieg zugelassenen Beamten einen individuellen Ausbildungsplan.
 Über die fachliche Leistung, Eignung und Befähigung während der
 praktischen Einführung wird eine dienstliche Beurteilung erstellt.
 
-
 ## Kapitel 3 - Prüfungen
-
-
 
 ### § 27 Zwischenprüfung
 
@@ -1042,7 +990,6 @@ versehen.
 
 (9) § 41 Abs. 2 gilt entsprechend.
 
-
 ### § 28 Prüfungsamt
 
 (1) Dem beim Bundesamt für Verfassungsschutz eingerichteten
@@ -1053,7 +1000,6 @@ Prüfungskommission.
 
 (2) Das Prüfungsamt kann Aufgaben auf den Fachbereich Öffentliche
 Sicherheit der Fachhochschule übertragen.
-
 
 ### § 29 Prüfungskommission
 
@@ -1101,7 +1047,6 @@ entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
-
 ### § 30 Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -1135,7 +1080,6 @@ zuzuhören; sie dürfen während der Prüfung keinerlei Aufzeichnungen
 machen. Bei den Beratungen der Prüfungskommission dürfen nur deren
 Mitglieder anwesend sein.
 
-
 ### § 31 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt in Abstimmung mit dem Fachbereich
@@ -1150,7 +1094,6 @@ Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein.
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern den
 Zeitpunkt der Ausgabe der Diplomarbeit sowie Ort und Zeit der
 schriftlichen und der mündlichen Prüfung rechtzeitig mit.
-
 
 ### § 32 Diplomarbeit
 
@@ -1205,7 +1148,6 @@ von 50 bis 99 für die Bildung der Rangpunktzahl aufgerundet; im
 Übrigen bleiben Dezimalstellen für die Bildung der Rangpunktzahl
 unberücksichtigt. Die Dauer des Bewertungsverfahrens soll sechs Wochen
 nicht überschreiten.
-
 
 ### § 33 Schriftliche Prüfung
 
@@ -1279,7 +1221,6 @@ etwaige besondere Vorkommnisse und unterschreiben die Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 36 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 34 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1295,7 +1236,6 @@ erzielten Rangpunkte sowie die in der Diplomarbeit erzielten
 Rangpunkte mit, sofern diese nicht bereits vorab bekannt gegeben
 wurden. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer
 Rechtsbehelfsbelehrung versehen.
-
 
 ### § 35 Mündliche Prüfung
 
@@ -1322,7 +1262,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
-
 
 ### § 36 Verhinderung, Rücktritt, Säumnis
 
@@ -1357,7 +1296,6 @@ Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden
 kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung
 für nicht bestanden erklärt wird. Die Entscheidung ist mit einer
 Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 37 Täuschung, Ordnungsverstoß
 
@@ -1394,7 +1332,6 @@ zu versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 38 Bewertung von Prüfungsleistungen
 
@@ -1590,7 +1527,6 @@ die Erteilung des der Leistung entsprechenden Rangpunktes begründet.
 Für die Bewertung mündlicher Leistungen gelten diese Grundsätze
 sinngemäß.
 
-
 ### § 39 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1631,7 +1567,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-
 ### § 40 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1654,7 +1589,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. Im Fall
 des § 37 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 41 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -1669,7 +1603,6 @@ aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 42 Wiederholung
 
@@ -1691,17 +1624,13 @@ erreichten Rangpunkte und Noten ersetzen die bisherigen. Der
 Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 43 Zeitlicher Geltungsbereich
 
 Diese Verordnung gilt für Anwärterinnen und Anwärter sowie
 Aufstiegsbeamtinnen und Aufstiegsbeamte, die nach dem Zeitpunkt des
 Inkrafttretens dieser Verordnung ihre Ausbildung beginnen.
-
 
 ### § 44 Inkrafttreten
 

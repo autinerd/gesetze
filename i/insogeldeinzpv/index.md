@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 13 Abs. 16 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des § 361 Satz 1 Nr. 2 des Dritten Buches Sozialgesetzbuch –
@@ -27,7 +26,6 @@ Arbeitsförderung – (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I
 S. 594, 595), der zuletzt durch Artikel 3 Nummer 2 des Gesetzes vom
 30\. Oktober 2008 (BGBl. I S. 2130) geändert worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Höhe der Einzugskostenvergütung an die Einzugsstellen
 
@@ -46,7 +44,6 @@ Rentenversicherung Knappschaft-Bahn-See/Verwaltungsstelle Cottbus zu
 zahlende pauschale Vergütung für den Einzug der Umlage für das
 Insolvenzgeld beträgt jährlich 732 000 Euro.
 
-
 ## § 2 Verteilung der Einzugskostenvergütung
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
@@ -61,7 +58,6 @@ Mitgliederzahlen (AKV-Mitglieder) der Krankenkassen nach dem Stand vom
 nach § 1 Abs. 2 werden zwischen den Krankenkassen entsprechend den in
 Absatz 2 genannten Relationen aufgeteilt.
 
-
 ## § 3 Höhe der Pauschale für die Prüfung der Arbeitgeber durch die Träger der Deutschen Rentenversicherung
 
 (1) Die von der Bundesagentur für Arbeit zu zahlende pauschale
@@ -73,7 +69,6 @@ Rentenversicherung beträgt jährlich 2 007 920 Euro.
 bei der Einführung des Verfahrens entstehen, werden pauschal mit einem
 Zuschlag für die Kalenderjahre 2009 und 2010 in Höhe von jeweils einer
 Million Euro abgegolten.
-
 
 ## § 4 Höhe der Pauschale für die Prüfung der Arbeitgeber durch die landwirtschaftliche Krankenkasse
 
@@ -87,7 +82,6 @@ Sozialgesetzbuch beträgt jährlich 10 033 Euro.
 bei der Einführung des Verfahrens entstehen, sind in den nach § 1 Abs.
 2 festgesetzten Ausgleichsbeträgen enthalten und betragen 250 000
 Euro.
-
 
 ## § 5 Fälligkeit und Zahlung
 
@@ -137,11 +131,9 @@ Ausgleichsbetrag nach § 4 Abs. 2 ist durch Überweisung an die
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau zu
 leisten.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2009 in Kraft.
-
 
 ## Schlussformel
 

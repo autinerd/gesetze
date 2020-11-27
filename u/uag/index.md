@@ -25,10 +25,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 6.12.2011 I 2509
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -61,7 +58,6 @@ Abs. 2a des Handelsgesetzbuchs), einen Lagebericht, einen
 Konzernabschluss oder einen Konzernlagebericht aufgenommen werden,
 bleibt die Verantwortung des Abschlussprüfers nach den §§ 322, 323 des
 Handelsgesetzbuchs unberührt.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -101,19 +97,13 @@ jeweils geltenden Fassung in Verbindung mit der deutschen
 Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes,
 Ausgabe 2008 (WZ 2008).
 
-
 ### § 3
 
 (weggefallen)
 
-
 ## Teil 2 - Zulassung von Umweltgutachtern und Umweltgutachterorganisationen sowie Aufsicht; Beschränkung der Haftung
 
-
-
 ### Abschnitt 1 - Zulassung
-
-
 
 #### § 4 Anforderungen an Umweltgutachter
 
@@ -144,7 +134,6 @@ wer keine Zulassung nach § 9 besitzt.
 Umweltgutachterausschusses durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, die Anforderungen der §§ 5 bis 7 zu
 dem in § 1 Abs. 1 Nr. 1 bestimmten Zweck näher bestimmen.
-
 
 #### § 5 Zuverlässigkeit
 
@@ -211,10 +200,6 @@ Gewähr, der
 
 5.  aus gesundheitlichen Gründen nicht nur vorübergehend unfähig ist, den
     Beruf des Umweltgutachters ordnungsgemäß auszuüben.
-
-
-
-
 
 #### § 6 Unabhängigkeit
 
@@ -283,7 +268,6 @@ können; dies gilt nicht, wenn der Bedienstete im Hinblick auf seine
 Tätigkeit als Umweltgutachter für Registrierungsaufgaben im Sinne des
 Artikels 12 Absatz 2 und 3 der Verordnung (EG) Nr. 1221/2009 zuständig
 ist oder Weisungen im Sinne des Absatzes 2 Nr. 2 unterliegt.
-
 
 #### § 7 Fachkunde
 
@@ -368,7 +352,6 @@ b)  Kenntnis und Verständnis der Amtssprache dieses Landes.
 Die Fachkundeanforderungen der Absätze 1 bis 3 bleiben hiervon
 unberührt.
 
-
 #### § 8 Fachkenntnisbescheinigung
 
 (1) Eine Person, die nicht als Umweltgutachter zugelassen ist, darf
@@ -408,7 +391,6 @@ Umwelterklärungen und die Erklärung nach Anhang VII der Verordnung
 lediglich mitzuzeichnen; Artikel 18, 19 und 25 der Verordnung (EG) Nr.
 1221/2009 gelten für die Tätigkeit des Inhabers der
 Fachkenntnisbescheinigung entsprechend.
-
 
 #### § 9 Zulassung als Umweltgutachter
 
@@ -477,7 +459,6 @@ Zertifizierungsbescheinigungen nach DIN EN ISO 14001:2004 + AC:2009
 50001 (Ausgabe 12/2011) zu erteilen. Die genannten DIN-Normen sind bei
 der Beuth Verlag GmbH, 10772 Berlin, zu beziehen und bei der Deutschen
 Nationalbibliothek in Leipzig archivmäßig gesichert niedergelegt.
-
 
 #### § 10 Zulassung als Umweltgutachterorganisation
 
@@ -562,7 +543,6 @@ genannten Personen müssen mitzeichnen.
 Bezeichnung darf in die Firma oder den Namen nicht aufgenommen werden,
 wenn keine Zulassung nach Absatz 2 erteilt ist.
 
-
 #### § 10a Ausländische Unterlagen und Nachweise; Verfahren
 
 (1) Soweit im Rahmen des Zulassungsverfahrens Nachweise nach diesem
@@ -589,7 +569,6 @@ einholen. Die mündliche Zulassungsprüfung ist innerhalb von sechs
 Monaten nach Vorliegen der erforderlichen Unterlagen abzuschließen, es
 sei denn, der Antragsteller beantragt einen späteren
 Prüfungszeitpunkt.
-
 
 #### § 11 Bescheinigungs- und Zulassungsverfahren
 
@@ -637,10 +616,6 @@ Zustimmung des Bundesrates bedarf,
     Bestimmungen zu Gegenstand und Durchführung der schriftlichen
     Prüfungen treffen.
 
-
-
-
-
 #### § 12 Mündliche Prüfung
 
 (1) Die mündliche Prüfung ist unselbständiger Teil der Zulassungs- und
@@ -678,11 +653,9 @@ Der Prüfungsausschuss besteht aus mindestens drei und höchstens fünf
 Mitgliedern. Mindestens ein Mitglied des Prüfungsausschusses muss
 jeweils als Umweltgutachter zugelassen sein.
 
-
 #### § 13
 
 (weggefallen)
-
 
 #### § 14 Zulassungsregister
 
@@ -704,10 +677,7 @@ Weise zugänglich zu machen.
 (2) Jeder ist nach Maßgabe des Umweltinformationsgesetzes berechtigt,
 das Zulassungsregister einzusehen.
 
-
 ### Abschnitt 2 - Aufsicht
-
-
 
 #### § 15 Überprüfung von Umweltgutachtern, Umweltgutachterorganisationen und Inhabern von Fachkenntnisbescheinigungen
 
@@ -830,7 +800,6 @@ Die Absätze 4, 6 und 7 gelten bei der Ausübung von Tätigkeiten durch
 Umweltgutachter oder Umweltgutachterorganisationen auf Grund anderer
 rechtlicher Regelungen entsprechend.
 
-
 #### § 16 Anordnung, Untersagung
 
 (1) Zur Erfüllung der Anforderungen und Pflichten nach der Verordnung
@@ -866,7 +835,6 @@ Die Untersagung hat zu unterbleiben oder ist wieder aufzuheben, sobald
 die Pflichten und Anordnungen nach Satz 1 erfüllt sind oder bei
 nachträglicher Unmöglichkeit keine Wiederholungsgefahr eines
 Rechtsverstoßes besteht.
-
 
 #### § 17 Rücknahme und Widerruf von Zulassung und Fachkenntnisbescheinigung
 
@@ -937,10 +905,6 @@ wenn
 3.  vollziehbare Anordnungen der Zulassungsstelle im Rahmen der Aufsicht
     nicht befolgt werden.
 
-
-
-
-
 #### § 18 Umweltgutachter und Umweltgutachterorganisationen aus anderen Mitgliedstaaten der Europäischen Union
 
 (1) Umweltgutachter und Umweltgutachterorganisationen, die in einem
@@ -999,7 +963,6 @@ vorschreiben, nach Absendung einer Abschrift des Bescheides durch
 Aufgabe des Bescheides zur Post mit Einschreiben; die Zustellung gilt
 nach Ablauf von zwei Wochen ab der Aufgabe zur Post als erfolgt.
 
-
 #### § 19 Verbot der Validierung von Umwelterklärungen
 
 Wer nicht die erforderliche Zulassung oder Fachkenntnisbescheinigung
@@ -1007,7 +970,6 @@ besitzt, darf weder eine Umwelterklärung nach Artikel 19 Absatz 2 oder
 Artikel 25 Absatz 8 der Verordnung (EG) Nr. 1221/2009 validieren, noch
 eine Erklärung nach Anhang VII der Verordnung (EG) Nr. 1221/2009
 abgeben oder eine Mitzeichnung nach § 8 Absatz 2 Satz 3 vornehmen.
-
 
 #### § 20 Aufsichtsverfahren
 
@@ -1017,10 +979,7 @@ bedarf, Inhalt und Umfang der Pflichten nach § 15 Abs. 6 und 7 sowie
 das Verfahren für Aufsichtsmaßnahmen zu dem in § 1 Abs. 1 Nr. 2
 genannten Zweck näher regeln.
 
-
 ### Abschnitt 3 - Umweltgutachterausschuss, Widerspruchsbehörde
-
-
 
 #### § 21 Aufgaben des Umweltgutachterausschusses
 
@@ -1070,7 +1029,6 @@ Zulassungs- und Aufsichtstätigkeit. Insbesondere ist zu berichten über
 
 Der Umweltgutachterausschuss kann von der Zulassungsstelle Berichte zu
 besonderen Fragen anfordern.
-
 
 #### § 22 Mitglieder des Umweltgutachterausschusses
 
@@ -1124,7 +1082,6 @@ Umweltgutachterausschuss berufen. Anschließend muss vor einer erneuten
 Berufung eine Unterbrechung von mindestens einer Berufungsperiode
 liegen.
 
-
 #### § 23 Geschäftsordnung, Vorsitz und Beschlussfassung des Umweltgutachterausschusses
 
 (1) Der Umweltgutachterausschuss gibt sich eine Geschäftsordnung, die
@@ -1148,10 +1105,6 @@ Gewerkschaften und der Umweltverbände gehören.
 
 3.  in sonstigen Fällen mit der Mehrheit der anwesenden Mitglieder.
 
-
-
-
-
 #### § 24 Widerspruchsbehörde
 
 (1) Zuständig für die Entscheidung über Widersprüche gegen
@@ -1170,7 +1123,6 @@ mindestens dreijährige praktische Erfahrungen verfügen.
 Umweltgutachterausschusses teilnehmen. Ihr ist auf Verlangen das Wort
 zu erteilen.
 
-
 #### § 25 Widerspruchsverfahren
 
 (1) Der Widerspruch soll vor Erlass des Widerspruchsbescheides mit den
@@ -1187,13 +1139,11 @@ Widerspruchsführers nach § 80 Abs. 1 Satz 1 und 2 des
 Verwaltungsverfahrensgesetzes von dem privaten Rechtsträger der
 Zulassungsstelle zu erstatten.
 
-
 #### § 26 Geschäftsstelle
 
 Für die Arbeit des Umweltgutachterausschusses wird eine
 Geschäftsstelle eingerichtet. Sie unterliegt den Weisungen des
 Vorsitzenden des Umweltgutachterausschusses.
-
 
 #### § 27 Rechtsaufsicht
 
@@ -1227,10 +1177,7 @@ neue Mitglieder gemäß § 22 Abs. 3 zu berufen. Sie braucht
 vorgeschlagene Personen nicht zu berücksichtigen, die Mitglieder des
 aufgelösten Ausschusses waren.
 
-
 ### Abschnitt 4 - Zuständigkeit
-
-
 
 #### § 28 Zulassungsstelle
 
@@ -1250,7 +1197,6 @@ Treffen und weiteren Aktivitäten des Forums der Zulassungsstellen der
 Mitgliedstaaten gemäß Artikel 30 und 31 der Verordnung (EG) Nr.
 1221/2009.
 
-
 #### § 29 Aufsicht über die Zulassungsstelle
 
 Die nach § 28 beliehene Zulassungsstelle steht unter der Aufsicht des
@@ -1259,10 +1205,7 @@ Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
 der Zulassungs- und Aufsichtstätigkeit und auf die Entscheidungen nach
 § 16 Abs. 2, § 17 Abs. 3 Nr. 2 und 3 sowie § 18 Abs. 2 Satz 3.
 
-
 ### Abschnitt 5 - Beschränkung der Haftung
-
-
 
 #### § 30 Beschränkung der Haftung
 
@@ -1270,19 +1213,13 @@ Auf die Schadensersatzpflicht von Personen, die fahrlässig gehandelt
 haben, findet § 323 Abs. 2 des Handelsgesetzbuchs entsprechende
 Anwendung.
 
-
 #### § 31
 
 (weggefallen)
 
-
 ## Teil 3 - Registrierung geprüfter Organisationen, Kosten, Bußgeld-, Übergangs- und Schlussvorschriften
 
-
-
 ### Abschnitt 1 - Registrierung geprüfter Organisationen
-
-
 
 #### § 32 EMAS-Register
 
@@ -1332,7 +1269,6 @@ Umweltgutachter, Umweltgutachterorganisationen und Inhaber von
 Fachkenntnisbescheinigungen Einsicht in die für die Aufsicht
 relevanten Daten oder Unterlagen der Register führenden Stellen zu
 gewähren.
-
 
 #### § 33 Registrierung im EMAS-Register
 
@@ -1408,7 +1344,6 @@ Ergebnis des Registrierungsverfahrens in Kenntnis.
 Standorte nach § 35 Absatz 1 Satz 1 oder auf Grund einer Verordnung
 nach § 35 Absatz 2 bleiben unberührt.
 
-
 #### § 34 Verlängerung der EMAS-Registrierung, Verfahren bei Verstößen, Streichung und vorübergehende Aufhebung der Registrierung
 
 (1) Stellt die Umweltbehörde fest, dass eine registrierte Organisation
@@ -1471,7 +1406,6 @@ Absatz 4 der Verordnung (EG) Nr. 1221/2009 nicht mehr erfüllt.
 Ergebnis des Verfahrens zur Verlängerung der Registrierung gemäß
 Artikel 15 Absatz 3 der Verordnung (EG) Nr. 1221/2009 in Kenntnis.
 
-
 #### § 35 Registrierungsverfahren; Verordnungsermächtigung
 
 (1) Die Industrie- und Handelskammern und die Handwerkskammern können
@@ -1492,10 +1426,7 @@ der Zustimmung des Bundesrates bedarf, von § 33 und § 34 abweichende
 Regelungen des Registrierungsverfahrens für Organisationen, die ihren
 Sitz in Staaten außerhalb der Europäischen Union haben, zu treffen.
 
-
 ### Abschnitt 2 - Kosten und Bußgeldvorschriften
-
-
 
 #### § 36 Kosten
 
@@ -1517,7 +1448,6 @@ der Gebühren durch Satzung zu bestimmen. Dabei ist Artikel 36
 Buchstabe b der Verordnung (EG) Nr. 1221/2009 zu beachten. Die Satzung
 bedarf der Genehmigung durch die Aufsichtsbehörde im Einvernehmen mit
 der zuständigen Umweltbehörde. § 35 Absatz 1 Satz 2 findet Anwendung.
-
 
 #### § 37 Bußgeldvorschriften
 
@@ -1608,10 +1538,7 @@ Ordnungswidrigkeiten gemäß Absatz 1 Nr. 13 geahndet werden können.
 Euro, in den Fällen des Absatzes 1 Nr. 1, 5, 6, 8 und 10 mit einer
 Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 ### Abschnitt 3 - Übergangs- und Schlussvorschriften
-
-
 
 #### § 38 Übergangsvorschriften
 
@@ -1629,7 +1556,6 @@ Abs. 1 Nr. 2 Buchstabe c, § 11 Abs. 3, § 15 Abs. 3 und die §§ 19 und
 33 Abs. 1 Nr. 2 des Umweltauditgesetzes in der in Satz 1 genannten
 Fassung sind auf vor dem 21. August 2002 allgemein anerkannte
 Qualifikationsnachweise im Sinne des Satzes 1 weiterhin anzuwenden.
-
 
 #### § 39
 

@@ -18,21 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 104 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Beendigung der Wertpapierbereinigung
-
-
 
 ### § 1
 
 Schlußtag im Sinne dieses Gesetzes ist der 31. Dezember 1964.
-
 
 ### § 2
 
@@ -53,7 +48,6 @@ Ausstellers nicht im Interesse der Anmeldeberechtigten liegen würde.
 Wird das Verfahren rechtskräftig eingestellt, so gilt der Antrag als
 nicht gestellt.
 
-
 ### § 3
 
 (1) Anträge nach § 53 Abs. 1 Satz 2 des Zweiten Gesetzes zur Änderung
@@ -66,7 +60,6 @@ gestellt.
 (2) Ist ein Antrag auf Fortsetzung des Verfahrens nicht gestellt
 worden, so wird die nach § 9 des Wertpapierbereinigungsgesetzes
 ausgestellte Sammelurkunde mit dem Schlußtag kraftlos.
-
 
 ### § 4
 
@@ -81,7 +74,6 @@ ohne daß es einer Vorlegung des Wertpapiers bedarf. Zur Geltendmachung
 berechtigt ist derjenige, dessen Recht im
 Wertpapierbereinigungsverfahren anerkannt worden wäre.
 
-
 ### § 5
 
 Auf Aktienarten, für die ein Antrag nach §§ 4, 5 des
@@ -94,7 +86,6 @@ aus Aktien während der Wertpapierbereinigung vom 9. Oktober 1950
 Berlin vom 4. Januar 1951 (Verordnungsblatt für Berlin Teil I S. 38)
 nach dem Schlußtag nicht mehr anzuwenden.
 
-
 ### § 6
 
 Nachanmeldungen (§ 1 des Dritten Gesetzes zur Änderung und Ergänzung
@@ -103,7 +94,6 @@ Bundesgesetzbl. I S. 850) sind nur bis zum Schlußtag zulässig. Sie
 müssen bis dahin bei der Anmeldestelle eingehen und gelten als
 verspätet, wenn sie später als drei Monate nach dem Schlußtag der
 Prüfstelle vorgelegt werden.
-
 
 ### § 7
 
@@ -114,7 +104,6 @@ dahin bei der Anmeldestelle eingehen, die den Anmelder bisher im
 Prüfungsverfahren vertreten hat, und gelten als verspätet, wenn sie
 später als drei Monate nach dem Schlußtag der Prüfstelle vorgelegt
 werden.
-
 
 ### § 8
 
@@ -129,7 +118,6 @@ ist, unter denen ein Recht nach § 2 des Dritten Gesetzes zur Änderung
 und Ergänzung des Wertpapierbereinigungsgesetzes wieder angemeldet
 werden kann.
 
-
 ### § 9
 
 Die Vorschriften über Nachanmeldungen und Wiederanmeldungen gelten
@@ -139,10 +127,7 @@ Wertpapierbereinigung einbezogen worden sind oder werden, sowie für
 die auf Reichsmark lautenden Schuldverschreibungen der
 Konversionskasse für deutsche Auslandsschulden.
 
-
 ## Zweiter Abschnitt - Verwendung der nach Abschluß der Wertpapierbereinigung verbleibenden Beträge für den Lastenausgleich
-
-
 
 ### § 10
 
@@ -176,7 +161,6 @@ veräußert werden, sind § 55 des Zweiten und § 26 des Dritten Gesetzes
 zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes vom
 Zeitpunkt der Veräußerung an nicht mehr anzuwenden.
 
-
 ### § 11
 
 (1) Ein Aussteller, der nach §§ 12, 19 des Zweiten Gesetzes zur
@@ -193,7 +177,6 @@ Schlußrechnung oder der Ergänzungsrechnung dem Aussteller den zu
 zahlenden Betrag an und benachrichtigt den Präsidenten des
 Bundesausgleichsamts von der Anzeige. Der Aussteller hat den Betrag
 innerhalb eines Monats nach Eingang der Anzeige zu zahlen.
-
 
 ### § 12
 
@@ -237,7 +220,6 @@ sofern eine Berichtigung der Umstellungsrechnung auf Grund der
 Schlußrechnung nicht vor dem Inkrafttreten dieses Gesetzes bestätigt
 worden ist.
 
-
 ### § 13
 
 Die Wertpapiersammelbank hat auf Verlangen des Präsidenten des
@@ -246,7 +228,6 @@ Gesetzes zur Änderung und Ergänzung des Wertpapierbereinigungsgesetzes
 anzulegen sind, dem Bund unverzinslich zur Verfügung zu stellen. Die
 Beträge sind unverzüglich zurückzuzahlen, soweit sie für Gutschriften
 benötigt werden.
-
 
 ### § 14
 
@@ -269,10 +250,7 @@ selbst verwahrt, eine Vergütung verlangen, die in Anlehnung an die
 Bankgebühren für die Verwahrung und Verwaltung von Wertpapieren zu
 bemessen ist.
 
-
 ## Dritter Abschnitt - Entschädigung nach Abschluß der Wertpapierbereinigung
-
-
 
 ### § 15
 
@@ -297,7 +275,6 @@ Schlußtag rechtskräftig abgelehnt worden ist.
 (3) Eine Anmeldung, Nachanmeldung oder Wiederanmeldung, die
 zurückgenommen worden ist, gilt für die Anwendung der Absätze 1, 2 als
 nicht vorgenommen.
-
 
 ### § 16
 
@@ -329,7 +306,6 @@ Beschwerde steht auch dem Präsidenten des Bundesausgleichsamts zu; §
 34 Abs. 2 Satz 3 des Wertpapierbereinigungsgesetzes gilt insoweit
 nicht.
 
-
 ### § 17
 
 (1) Als Bemessungstag für die Höhe der Entschädigung gilt der letzte
@@ -342,7 +318,6 @@ Kalendermonats als Bemessungstag.
 
 (2) Die Entschädigung ist unverzüglich nach dem Bemessungstag zu
 berechnen und zu zahlen.
-
 
 ### § 18
 
@@ -368,7 +343,6 @@ Durch die Ankündigung wird der Präsident des Bundesausgleichsamts
 verpflichtet, die Rechte unverzüglich nach dem Bemessungstag zu
 übertragen.
 
-
 ### § 19
 
 (1) Bei gesamtfälligen und teilfälligen Wertpapierarten (§§ 1, 2 des
@@ -388,7 +362,6 @@ genommen werden, soweit der Berechtigte bei Anerkennung des Rechts im
 Wertpapierbereinigungsverfahren auch vom Aussteller keine Leistung
 erhalten hätte.
 
-
 ### § 20
 
 Bei Schuldverschreibungsarten, für die nach den Bestimmungen des
@@ -397,7 +370,6 @@ Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
 sind Berechtigte, an die sich das Regelungsangebot richtet, in Höhe
 der Leistungen zu entschädigen, die ihnen bei Annahme des
 Regelungsangebots zugestanden hätten. § 18 gilt sinngemäß.
-
 
 ### § 21
 
@@ -410,15 +382,11 @@ dem Kraftloswerden des Wertpapiers übertragen hatte, nach dem
 Altsparergesetz entschädigungsberechtigt, so ist dieser Betrag dem
 Dritten auf Antrag zu zahlen.
 
-
 ### § 22
 
 -
 
-
 ## Vierter Abschnitt - Vorschriften für Schuldverschreibungen verlagerter Geldinstitute und Berliner Altbanken
-
-
 
 ### § 23
 
@@ -465,7 +433,6 @@ zuständige Oberlandesgericht sowie an die Stelle der Berliner
 Bankaufsichtsbehörde die für die Bestätigung der Umstellungsrechnung
 des verlagerten Geldinstituts zuständige Landesbehörde.
 
-
 ### § 24
 
 (1) Auf Schuldverschreibungen der in § 64 des Zweiten Gesetzes zur
@@ -478,7 +445,6 @@ nicht anzuwenden.
 (2) Anträge nach § 64 Abs. 1 des Zweiten Gesetzes zur Änderung und
 Ergänzung des Wertpapierbereinigungsgesetzes können nach dem Schlußtag
 nicht mehr gestellt werden. § 4 gilt sinngemäß.
-
 
 ### § 25
 
@@ -519,7 +485,6 @@ Wertpapierbereinigungsgesetzes gilt sinngemäß.
 (5) Entschädigung nach § 15 kann bei Versäumung eines rechtzeitigen
 Antrags nicht beansprucht werden.
 
-
 ### § 26
 
 (1) Auf Schuldverschreibungen Berliner Altbanken sind §§ 10, 11 nicht
@@ -533,7 +498,6 @@ Verbindlichkeiten nicht in Anspruch genommen werden.
 Änderung und Ergänzung des Wertpapierbereinigungsgesetzes bezeichneten
 verlagerten Geldinstitute ist § 11 nicht anzuwenden.
 
-
 ### § 27
 
 (1) Bei Schuldverschreibungen verlagerter Geldinstitute und Berliner
@@ -546,10 +510,7 @@ hätte in Anspruch nehmen können.
 Schuldverschreibungen der Konversionskasse für deutsche
 Auslandsschulden.
 
-
 ## Fünfter Abschnitt - Vorschriften für saarländische Wertpapiere
-
-
 
 ### § 28
 
@@ -568,7 +529,6 @@ treuhänderischen Verwaltung nach § 10 Abs. 1 des Zweiten Gesetzes zur
 Änderung des Gesetzes zur Bereinigung der saarländischen Wertpapiere
 erlangt hat.
 
-
 ### § 29
 
 Für Wertpapiere, auf die das Gesetz zur Bereinigung der saarländischen
@@ -582,10 +542,7 @@ gerichtliche Verfahren gelten an Stelle der Vorschriften des
 Wertpapierbereinigungsgesetzes § 10 Abs. 4 bis 6, § 14 Abs. 4 des
 Gesetzes zur Bereinigung der saarländischen Wertpapiere sinngemäß.
 
-
 ## Sechster Abschnitt - Verschiedene Vorschriften
-
-
 
 ### § 30
 
@@ -612,13 +569,11 @@ sonst beteiligten Stellen unverzüglich anzuzeigen.
 des Allgemeinen Kriegsfolgengesetzes vom 5. November 1957
 (Bundesgesetzbl. I S. 1747).
 
-
 ### § 31
 
 Bei der Anerkennung eines Rechts ist nicht mehr festzustellen, ob das
 Recht nachgewiesen oder glaubhaft gemacht ist. Das anerkannte Recht
 ist wie ein nachgewiesenes Recht zu behandeln.
-
 
 ### § 32
 
@@ -626,7 +581,6 @@ Die Vorschriften des § 57 des Zweiten Gesetzes zur Änderung und
 Ergänzung des Wertpapierbereinigungsgesetzes über die Bekanntgabe der
 Beendigung des Wertpapierbereinigungsverfahrens sind auf
 Schuldverschreibungen nicht mehr anzuwenden.
-
 
 ### § 33
 
@@ -655,14 +609,12 @@ leisten ist. Die Entschädigung ist unverzüglich nach dem Bemessungstag
 zu berechnen und zugunsten des Anmelders über die Prüfstelle an die
 Anmeldestelle zu zahlen.
 
-
 ### § 34
 
 Der Präsident des Bundesausgleichsamts kann von der Prüfstelle und der
 Wertpapiersammelbank die Auskünfte verlangen, die zur Ausübung der ihm
 nach diesem Gesetz zustehenden Befugnisse und zur Erfüllung der ihm
 obliegenden Verpflichtungen erforderlich sind.
-
 
 ### § 35
 
@@ -672,7 +624,6 @@ geltend gemacht werden. Das gleiche gilt für die im Dritten Abschnitt
 und in §§ 27, 29, 33 Abs. 2, 3 geregelten Entschädigungsansprüche,
 soweit nicht nach § 16 Abs. 4 die Zuständigkeit der Kammern für
 Wertpapierbereinigung gegeben ist.
-
 
 ### § 36
 
@@ -684,10 +635,6 @@ der Zustimmung des Bundesrates bedarf, zu bestimmen,
     Prüfstellen und Wertpapiersammelbanken die Unterlagen über die
     Wertpapierbereinigung aufzubewahren haben.
 
-
-
-
-
 ### § 37
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
@@ -698,15 +645,11 @@ Wertpapierbereinigung wegen des Rückgangs ihrer Aufgaben nicht mehr
 gerechtfertigt ist. Die Landesregierungen können die Ermächtigung auf
 die Landesjustizverwaltungen übertragen.
 
-
 ## Siebenter Abschnitt - Schlußvorschriften
-
-
 
 ### § 38
 
 -
-
 
 ### § 39
 
@@ -719,7 +662,6 @@ kostenrechtlicher Vorschriften vom 26. Juli 1957 (Bundesgesetzbl. I S.
 26\. September 1949 (Verordnungsblatt für Groß-Berlin Teil I S. 346) zu
 verstehen.
 
-
 ### § 40
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -727,7 +669,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 41
 

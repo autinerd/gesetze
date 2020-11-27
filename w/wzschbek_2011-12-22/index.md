@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3142
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -581,10 +580,6 @@ Ausstellungen gewährt:
 127. „VALVE WORLD EXPO 2012 – 8. Internationale Fachmesse mit Kongress für
     Industrie-Armaturen“
     vom 27. bis 29. November 2012 in Düsseldorf
-
-
-
-
 
 ## Schlussformel
 

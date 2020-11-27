@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 83 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Auswandererberatung
 
@@ -70,7 +68,6 @@ verbieten, wenn nachträglich Tatsachen eintreten, aus denen sich der
 Mangel der erforderlichen Zuverlässigkeit ergibt, oder wenn eine
 Gewähr für eine sachkundige Beratung nicht gegeben ist.
 
-
 ## § 2 Werbungsverbot, Verbot von Prämien, Verbot der auslandsunterstützten Auswanderung
 
 (1) Es ist verboten, geschäftsmäßig für die Auswanderung zu werben. §
@@ -98,12 +95,10 @@ humanitärer oder sozialer Art angezeigt ist, insbesondere bei der
 Rückwanderung von Ausländern in ihre Heimat oder bei der
 Weiterwanderung dieser Personen.
 
-
 ## § 3 Auswanderung in einen Mitgliedstaat der Europäischen Gemeinschaften
 
 § 2 Abs. 3 gilt nicht für die Auswanderung in einen Mitgliedstaat der
 Europäischen Gemeinschaften.
-
 
 ## § 4 Beförderung von Auswanderern ins außereuropäische Ausland mit Schiff und Luftfahrzeug im Gelegenheitsverkehr
 
@@ -123,10 +118,6 @@ erlassen über
     Behörde; das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13
     des Grundgesetzes) kann insoweit eingeschränkt werden.
 
-
-
-
-
 ## § 5 Zuständigkeit und Verfahren
 
 (1) Für die Ausführung dieses Gesetzes und der auf Grund dieses
@@ -142,7 +133,6 @@ Erlaubnis erteilt, zurücknimmt oder widerruft oder einer Auskunfts-
 oder Beratungsstelle die Aufnahme oder Fortsetzung der Tätigkeit
 verbietet, auch dem Bundesverwaltungsamt und der Bundesagentur für
 Arbeit mitteilen.
-
 
 ## § 6 Ordnungswidrigkeiten
 
@@ -187,11 +177,9 @@ zwanzigtausend Euro geahndet werden.
 auch dann geahndet werden, wenn sie nicht im Geltungsbereich dieses
 Gesetzes begangen wird.
 
-
 ## (XXXX) §§ 7 bis 10 (weggefallen)
 
 -
-
 
 ## § 11 Berlin-Klausel
 
@@ -200,7 +188,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 12 Inkrafttreten
 

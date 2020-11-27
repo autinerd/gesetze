@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 20 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,10 +28,7 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Bundesministerium der Verteidigung im Einvernehmen mit dem
 Bundesministerium des Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -97,7 +93,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel und Inhalt der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -119,7 +114,6 @@ wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörden sind die Wehrbereichsverwaltungen. Ihnen obliegen
@@ -133,7 +127,6 @@ Beschaffung werden gleichfalls von den Wehrbereichsverwaltungen
 eingestellt und erst nach Abschluss des Vorbereitungsdienstes im
 Bereich des Bundesamtes für Wehrtechnik und Beschaffung eingesetzt.
 
-
 ### § 4 Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
@@ -145,10 +138,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 2.  die Fachhochschulreife oder eine andere zu einem Hochschulstudium
     berechtigende Schulbildung oder einen hochschulrechtlich als
     gleichwertig anerkannten Bildungsstand besitzt.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -185,13 +174,6 @@ beizufügen:
 
     d)  Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes
         und über Wehrübungen erteilt wurden.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -247,7 +229,6 @@ Wehrbereichsverwaltungen bestellen die Mitglieder und Ersatzmitglieder
 der Auswahlkommission für die Dauer von drei Jahren; Wiederbestellung
 ist zulässig.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Das Bundesamt für Wehrtechnik und Beschaffung und die
@@ -295,7 +276,6 @@ Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 Anstelle der Kostenübernahme kann die Bundeswehrverwaltung die
 Einstellungsuntersuchung selbst vornehmen.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -307,7 +287,6 @@ Regierungsinspektoranwärtern ernannt.
 Einstellungs- und der Ausbildungsbehörde. Während des Studiums an der
 Fachhochschule des Bundes für öffentliche Verwaltung unterstehen sie
 auch deren Dienstaufsicht.
-
 
 ### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -360,18 +339,15 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 45 Abs. 2 und 3.
 
-
 ### § 10 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 11 Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung"
 zu führen, in die der Ausbildungsplan sowie alle Leistungsnachweise
 und Bewertungen aufzunehmen sind.
-
 
 ### § 12 Schwerbehinderte Menschen
 
@@ -391,7 +367,6 @@ beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das
 Prüfungsamt.
-
 
 ### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -570,7 +545,6 @@ jeweils 18 Monate. Sie bilden eine Einheit und bauen aufeinander auf.
 
 (3) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-
 ### § 14 Fachhochschule des Bundes für öffentliche Verwaltung
 
 Die Fachstudien, die praxisbezogenen Lehrveranstaltungen und die
@@ -580,7 +554,6 @@ Einstellungsbehörden weisen die Anwärterinnen und Anwärter dem
 Fachbereich Bundeswehrverwaltung zur Teilnahme am Grundstudium, an den
 Hauptstudien und praxisbezogenen Lehrveranstaltungen sowie an der
 Fremdsprachenausbildung zu.
-
 
 ### § 15 Grundsätze der Fachstudien
 
@@ -612,7 +585,6 @@ Fachbereich Bundeswehrverwaltung auf der Grundlage dieser Verordnung.
 Die Beschlusskompetenzen des Senats der Fachhochschule und des
 Fachbereichsrats des Fachbereichs Bundeswehrverwaltung bleiben
 unberührt.
-
 
 ### § 16 Grundstudium
 
@@ -655,10 +627,6 @@ Aufgabenbereichen des gehobenen Dienstes:
 
 
 6.  laufbahntypische Bereiche der Aufgabenerfüllung.
-
-
-
-
 
 ### § 17 Hauptstudium
 
@@ -891,7 +859,6 @@ Fähigkeiten in den Studiengebieten und Studienfächern
 
 ergänzt, erweitert und vertieft. Einzelheiten regelt der Studienplan.
 
-
 ### § 18 Ziel der berufspraktischen Studienzeiten
 
 (1) Während der berufspraktischen Studienzeiten sollen die
@@ -919,7 +886,6 @@ beteiligt. Die Studien- und Ausbildungsrahmenpläne sind aufeinander
 aufbauend inhaltlich abzustimmen. Hierbei wirken der Fachbereich
 Bundeswehrverwaltung und das Bundessprachenamt mit.
 
-
 ### § 19 Praktika
 
 (1) In den Praktika werden die Anwärterinnen und Anwärter in
@@ -936,7 +902,6 @@ Verhandlungsführung zu üben.
 
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen
 den Anwärterinnen und Anwärtern nicht übertragen werden.
-
 
 ### § 20 Durchführung der Praktika
 
@@ -966,7 +931,6 @@ Vordergrund.
 
 (7) Der Ausbildungsrahmenplan legt die bei den Ausbildungsstationen
 vorgesehenen Ausbildungsteilabschnitte fest.
-
 
 ### § 21 Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
@@ -1000,7 +964,6 @@ jede Anwärterin und jeden Anwärter ein Ausbildungsplan aufgestellt,
 aus dem sich die Ausbildungsstationen ergeben. Dieser Plan wird den
 Einstellungsbehörden vorgelegt; die Anwärterinnen und Anwärter
 erhalten eine Ausfertigung.
-
 
 ### § 22 Praxisbezogene Lehrveranstaltungen
 
@@ -1093,7 +1056,6 @@ Bundeswehrverwaltung - durchgeführt. Auf der Grundlage des
 Ausbildungsrahmenplans werden Lehrveranstaltungspläne unter
 Berücksichtigung der fachübergreifenden Zusammenhänge erstellt.
 
-
 ### § 23 Leistungsnachweise während der Fachstudien
 
 (1) Während der Fachstudien haben die Anwärterinnen und Anwärter
@@ -1182,7 +1144,6 @@ Ordnungsverstößen sind die §§ 39 und 40 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ### § 24 Bewertungen während der berufspraktischen Studienzeiten
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -1214,7 +1175,6 @@ Das zusammenfassende Zeugnis schließt mit der Angabe der nach § 41
 Abs. 1 Satz 2 ermittelten Durchschnittspunktzahl ab. Die Anwärterinnen
 und Anwärter erhalten eine Ausfertigung.
 
-
 ### § 25 Fremdsprachenausbildung
 
 (1) In der Fremdsprachenausbildung erwerben die Anwärterinnen und
@@ -1242,7 +1202,6 @@ Fassung anzuwenden.
 Ausbildungsrahmenplan die zu erlernende Amtssprache eines der NATO-
 Mitgliedstaaten und Einzelheiten zum fremdsprachlichen
 Anforderungsprofil fest.
-
 
 ### § 26 Durchführung der Fremdsprachenausbildung
 
@@ -1274,10 +1233,7 @@ Lehrkapazitäten studienbegleitend in allen Studienabschnitten
 durchgeführt und umfasst 20 Unterrichtsstunden je Studienabschnitt.
 Die Teilnehmenden erhalten eine Teilnahmebescheinigung.
 
-
 ## Kapitel 2 - Aufstieg
-
-
 
 ### § 27 Allgemeine Aufstiegsregelungen
 
@@ -1304,7 +1260,6 @@ nicht erfolgreich abschließen oder deren Befähigung für die höhere
 Laufbahn endgültig nicht festgestellt wird, verbleiben in ihrer
 bisherigen Laufbahn.
 
-
 ### § 28 Ausbildungsaufstieg
 
 (1) Die Aufstiegsbeamtinnen und Aufstiegsbeamten nehmen gemeinsam mit
@@ -1320,7 +1275,6 @@ Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli
 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist,
 ist nur zulässig, wenn das Erreichen des Ausbildungsziels nicht
 gefährdet erscheint. § 9 Abs. 2 ist entsprechend anzuwenden.
-
 
 ### § 29 Praxisaufstieg
 
@@ -1357,10 +1311,7 @@ Durchschnittspunktzahl; sie ist mit einer Rechtsbehelfsbelehrung zu
 versehen. Eine beglaubigte Abschrift der Mitteilung wird zur
 Personalgrundakte genommen. § 43 Abs. 3 und § 44 gelten entsprechend.
 
-
 ## Kapitel 3 - Prüfungen
-
-
 
 ### § 30 Zwischenprüfung
 
@@ -1430,7 +1381,6 @@ versehen.
 
 (9) § 44 Abs. 2 gilt entsprechend.
 
-
 ### § 31 Prüfungsamt
 
 (1) Dem beim Bundesministerium der Verteidigung eingerichteten
@@ -1439,7 +1389,6 @@ Sorge für die Entwicklung und gleichmäßige Anwendung der
 Bewertungsmaßstäbe.
 
 (2) Das Prüfungsamt kann Aufgaben auf andere Behörden übertragen.
-
 
 ### § 32 Prüfungskommission
 
@@ -1504,7 +1453,6 @@ entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme
 der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht
 zulässig.
 
-
 ### § 33 Ziel und Inhalt der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -1536,7 +1484,6 @@ Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der
 Prüfungskommission über die Bewertung der Prüfungsleistungen dürfen
 nur deren Mitglieder anwesend sein.
 
-
 ### § 34 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt in Abstimmung mit dem Fachbereich
@@ -1552,7 +1499,6 @@ Vorbereitungsdienstes abgeschlossen sein.
 (3) Der Zeitpunkt der Ausgabe der Diplomarbeit sowie Ort und Zeit der
 schriftlichen und der mündlichen Prüfung werden den Anwärterinnen und
 Anwärtern rechtzeitig durch das Prüfungsamt mitgeteilt.
-
 
 ### § 35 Diplomarbeit
 
@@ -1610,7 +1556,6 @@ Drittprüfer. Die abschließende Rangpunktzahl wird durch den
 Fachbereich Bundeswehrverwaltung durch Bildung der
 Durchschnittspunktzahl der Bewertungen festgesetzt. Die Dauer des
 Bewertungsverfahrens soll acht Wochen nicht überschreiten.
-
 
 ### § 36 Schriftliche Prüfung
 
@@ -1702,7 +1647,6 @@ die Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 39 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 37 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1719,7 +1663,6 @@ in der Diplomarbeit und in den einzelnen schriftlichen
 Aufsichtsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen.
 Die Nichtzulassung bedarf der Schriftform; sie wird mit einer
 Rechtsbehelfsbelehrung versehen.
-
 
 ### § 38 Mündliche Prüfung
 
@@ -1787,7 +1730,6 @@ Einzelbewertungen, ergibt.
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
 
-
 ### § 39 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -1824,7 +1766,6 @@ werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte
 Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit
 einer Rechtsbehelfsbelehrung zu versehen.
 
-
 ### § 40 Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen
@@ -1860,7 +1801,6 @@ versehen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
-
 
 ### § 41 Bewertung von Prüfungsleistungen
 
@@ -2068,7 +2008,6 @@ die Erteilung des der Leistung entsprechenden Rangpunktes begründet.
 Für die Bewertung mündlicher Leistungen gelten diese Grundsätze
 sinngemäß.
 
-
 ### § 42 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -2118,7 +2057,6 @@ erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 (5) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift
 zu fertigen.
 
-
 ### § 43 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -2142,7 +2080,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 40 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 ### § 44 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -2157,7 +2094,6 @@ aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 mündlichen Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 45 Wiederholung
 
@@ -2196,10 +2132,7 @@ Laufbahnprüfung fest und erteilt gemäß § 43 Abs. 1 das Prüfungszeugnis
 oder stellt durch Bescheid das endgültige Nichtbestehen der Prüfung
 fest.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 46 Übergangsregelung
 
@@ -2211,7 +2144,6 @@ Verordnung mit der Maßgabe, dass ihre Ausbildung zum nächstfolgenden
 Studienabschnitt nach dem Zeitpunkt des Inkrafttretens dieser
 Verordnung umgestellt wird. Für Aufstiegsbeamtinnen und
 Aufstiegsbeamte gelten die Sätze 1 und 2 entsprechend.
-
 
 ### § 47 Inkrafttreten, Außerkrafttreten
 

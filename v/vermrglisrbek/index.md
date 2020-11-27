@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 1728
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes vom 29. März 1965 über die Verteilung

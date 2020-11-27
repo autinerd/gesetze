@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 2468
 
-
-
 ## (XXXX)
 
 Zwischen dem Freistaat Bayern und dem Land Baden-Württemberg wurde am

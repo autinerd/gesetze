@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 22.11.2011 I 2258
 
-
 ## § 1 Leistungsberechtigte
 
 (1) Leistungsberechtigt nach diesem Gesetz sind Ausländer, die sich
@@ -75,10 +74,6 @@ des Monats, in dem
     Anerkennung verpflichtet hat, auch wenn die Entscheidung noch nicht
     unanfechtbar ist.
 
-
-
-
-
 ## § 1a Anspruchseinschränkung
 
 Leistungsberechtigte nach § 1 Abs. 1 Nr. 4 und 5 und ihre
@@ -96,7 +91,6 @@ Familienangehörigen nach § 1 Abs. 1 Nr. 6,
 erhalten Leistungen nach diesem Gesetz nur, soweit dies im Einzelfall
 nach den Umständen unabweisbar geboten ist.
 
-
 ## § 2 Leistungen in besonderen Fällen
 
 (1) Abweichend von den §§ 3 bis 7 ist das Zwölfte Buch
@@ -113,7 +107,6 @@ der Leistung auf Grund der örtlichen Umstände.
 in einer Haushaltsgemeinschaft leben, erhalten Leistungen nach Absatz
 1 nur, wenn mindestens ein Elternteil in der Haushaltsgemeinschaft
 Leistungen nach Absatz 1 erhält.
-
 
 ## § 3 Grundleistungen
 
@@ -174,7 +167,6 @@ gemäß § 22 Abs. 4 des Bundessozialhilfegesetzes erhöht werden.
 Leistungsberechtigten oder einem volljährigen berechtigten Mitglied
 des Haushalts persönlich ausgehändigt werden.
 
-
 ## § 4 Leistungen bei Krankheit, Schwangerschaft und Geburt
 
 (1) Zur Behandlung akuter Erkrankungen und Schmerzzustände sind die
@@ -197,7 +189,6 @@ richtet sich die Vergütung nach den am Ort der Niederlassung des
 Arztes oder Zahnarztes geltenden Verträgen nach § 72 Abs. 2 des
 Fünften Buches Sozialgesetzbuch. Die zuständige Behörde bestimmt,
 welcher Vertrag Anwendung findet.
-
 
 ## § 5 Arbeitsgelegenheiten
 
@@ -237,7 +228,6 @@ einer Tätigkeit nach den Absätzen 1 bis 4 nicht entgegen. Die
 Vorschriften über den Arbeitsschutz sowie die Grundsätze der
 Beschränkung der Arbeitnehmerhaftung finden entsprechende Anwendung.
 
-
 ## § 6 Sonstige Leistungen
 
 (1) Sonstige Leistungen können insbesondere gewährt werden, wenn sie
@@ -253,7 +243,6 @@ beispielsweise unbegleitete Minderjährige oder Personen, die Folter,
 Vergewaltigung oder sonstige schwere Formen psychischer, physischer
 oder sexueller Gewalt erlitten haben, wird die erforderliche
 medizinische oder sonstige Hilfe gewährt.
-
 
 ## § 7 Einkommen und Vermögen
 
@@ -291,7 +280,6 @@ anzuwenden.
 Vermögensschaden ist, nach § 253 Abs. 2 des Bürgerlichen Gesetzbuchs
 geleistet wird, ist nicht als Einkommen zu berücksichtigen.
 
-
 ## § 7a Sicherheitsleistung
 
 Von Leistungsberechtigten kann wegen der ihnen und ihren
@@ -300,7 +288,6 @@ Sicherheit verlangt werden, soweit Vermögen im Sinne von § 7 Abs. 1
 Satz 1 vorhanden ist. Die Anordnung der Sicherheitsleistung kann ohne
 vorherige Vollstreckungsandrohung im Wege des unmittelbaren Zwangs
 erfolgen.
-
 
 ## § 7b Erstattung
 
@@ -312,7 +299,6 @@ des § 45 Abs. 2 Satz 3 des Zehnten Buches Sozialgesetzbuch oder wenn
 neben der Leistung nach den §§ 2 und 3 gleichzeitig Wohngeld nach dem
 Wohngeldgesetz geleistet worden ist oder wenn kein Wohnraum im Sinne
 des § 2 des Wohngeldgesetzes bewohnt wird.
-
 
 ## § 8 Leistungen bei Verpflichtung Dritter
 
@@ -331,13 +317,11 @@ Doppelten des Betrages nach § 3 Abs. 1 Satz 4 gewährt werden, wenn
 außergewöhnliche Umstände in der Person des Verpflichteten den Einsatz
 öffentlicher Mittel rechtfertigen.
 
-
 ## § 8a Meldepflicht
 
 Leistungsberechtigte, die eine unselbständige oder selbständige
 Erwerbstätigkeit aufnehmen, haben dies spätestens am dritten Tag nach
 Aufnahme der Erwerbstätigkeit der zuständigen Behörde zu melden.
-
 
 ## § 9 Verhältnis zu anderen Vorschriften
 
@@ -358,7 +342,6 @@ untereinander sind entsprechend anzuwenden.
 Bundessozialhilfegesetzes erlassenen Rechtsverordnungen sind
 entsprechend anzuwenden.
 
-
 ## § 10 Bestimmungen durch Landesregierungen
 
 Die Landesregierungen oder die von ihnen beauftragten obersten
@@ -368,7 +351,6 @@ festlegen, soweit dies nicht durch Landesgesetz geregelt ist. Die
 bestimmten zuständigen Behörden und Kostenträger können auf Grund
 näherer Bestimmung gemäß Satz 1 Aufgaben und Kostenträgerschaft auf
 andere Behörden übertragen.
-
 
 ## § 10a Örtliche Zuständigkeit
 
@@ -414,7 +396,6 @@ worden, so gilt dieser Bereich als sein gewöhnlicher Aufenthalt. Für
 ein neugeborenes Kind ist der gewöhnliche Aufenthalt der Mutter
 maßgeblich.
 
-
 ## § 10b Kostenerstattung zwischen den Leistungsträgern
 
 (1) Die nach § 10a Abs. 2 Satz 1 zuständige Behörde hat der Behörde,
@@ -429,7 +410,6 @@ der Behörde zu erstatten, in deren Bereich der Leistungsberechtigte
 seinen gewöhnlichen Aufenthalt im Sinne des § 10a Abs. 2 Satz 1 hatte.
 
 (3) (weggefallen)
-
 
 ## § 11 Ergänzende Bestimmungen
 
@@ -459,7 +439,6 @@ zuständigen Behörde die Ergebnisse des Abgleichs. Die Ausländerbehörde
 übermittelt der zuständigen Behörde ferner Änderungen der in Satz 2
 genannten Daten. Die Überprüfungen können auch regelmäßig im Wege des
 automatisierten Datenabgleichs durchgeführt werden.
-
 
 ## § 12 Asylbewerberleistungsstatistik
 
@@ -597,7 +576,6 @@ sind die für die Durchführung dieses Gesetzes zuständigen Stellen.
 
 (6) Die Ergebnisse der Asylbewerberleistungsstatistik dürfen auf die
 einzelne Gemeinde bezogen veröffentlicht werden.
-
 
 ## § 13 Bußgeldvorschrift
 

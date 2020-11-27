@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3702, 3711
 
-
-
 ## § 1 Aufhebung
 
 -
-
 
 ## § 2 Übergangsvorschrift
 

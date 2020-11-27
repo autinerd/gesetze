@@ -16,18 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2167
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Anpassung der Zusatzrenten der Hüttenknappschaftlichen Zusatzversicherung im Saarland zum 1. Juli 2002
 
@@ -38,17 +34,13 @@ zum 1. Juli 2002 verändert. Das Bundesministerium für Arbeit und
 Sozialordnung gibt den Vomhundertsatz nach Satz 1 im Bundesanzeiger
 bekannt.
 
-
 ## (XXXX) Art 3 bis 23
-
-
 
 ## Art 24 Neubekanntmachung des Vierten Buches Sozialgesetzbuch
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Vierten Buches Sozialgesetzbuch in der vom 1. Juli 2002 an
 geltenden Fassung im Bundesgesetzblatt bekannt machen.
-
 
 ## Art 25 Inkrafttreten, Außerkrafttreten
 

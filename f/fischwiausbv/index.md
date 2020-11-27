@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 Nr. 5 V v. 20.7.1979 I 1145
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -27,11 +26,9 @@ Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 I S. 185), wird im Einvernehmen mit dem Bundesminister für Arbeit und
 Sozialordnung verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf "Fischwirt" wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -46,7 +43,6 @@ Auszubildende
 2\.
 
 (2)
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -105,13 +101,6 @@ Fertigkeiten und Kenntnisse:
 
 
     c)  Kleine Hochsee- und Küstenfischerei.
-
-
-
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan
 
@@ -560,10 +549,6 @@ nach folgender Anleitung zeitlich gegliedert werden:
     Ausbildungszeit auf die übrigen in Absatz 1 genannten Fertigkeiten und
     Kenntnisse zu erstrecken.
 
-
-
-
-
 ## § 5 Berufsausbildung außerhalb der Ausbildungsstätte
 
 Sofern die erforderlichen Fertigkeiten und Kenntnisse nicht in vollem
@@ -571,19 +556,16 @@ Umfang in der Ausbildungsstätte vermittelt werden können, soll die
 zusätzlich zu vermittelnde Berufsausbildung in geeigneten
 Einrichtungen außerhalb der Ausbildungsstätte durchgeführt werden.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Führung des Berichtshefts
 
 Der Auszubildende hat ein Berichtsheft in der Form eines
 Ausbildungsnachweises zu führen. Der Ausbildende hat das Berichtsheft
 regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -624,10 +606,6 @@ nachweisen:
 
 
 4.  Unfallverhütung.
-
-
-
-
 
 ## § 9 Prüfungsanforderungen für die Abschlußprüfung
 
@@ -702,7 +680,6 @@ wurden.
 (7) Bei der Ermittlung des Gesamtergebnisses der Abschlußprüfung haben
 die Leistungen nach den Absätzen 3 und 4 das gleiche Gewicht.
 
-
 ## § 10 Aufhebung von Vorschriften
 
 Die Berufsbilder, die Berufsbildungspläne und die
@@ -712,11 +689,9 @@ Rechtsverordnung geregelt sind, insbesondere die Ausbildungsberufe
 Fischer (Fischzüchter), Fischer (Seen- und Flußwirt) und Fischer (See-
 und Küstenfischer), sind nicht mehr anzuwenden.
 
-
 ## § 11
 
 -
-
 
 ## § 12 Berlin-Klausel
 
@@ -724,16 +699,13 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 112 des
 Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

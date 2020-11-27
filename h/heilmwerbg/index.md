@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 19.10.2012 I 2192
 
-
 ## § 1
 
 (1) Dieses Gesetz findet Anwendung auf die Werbung für
@@ -77,7 +76,6 @@ Arzneimittel nach § 34 Absatz 1a Satz 1 Nummer 2 des
 Arzneimittelgesetzes und auf die Bereitstellung dieser Informationen
 im Internet.
 
-
 ## § 2
 
 Fachkreise im Sinne dieses Gesetzes sind Angehörige der Heilberufe
@@ -86,7 +84,6 @@ oder Tier dienen, oder sonstige Personen, soweit sie mit
 Arzneimitteln, Medizinprodukten, Verfahren, Behandlungen, Gegenständen
 oder anderen Mitteln erlaubterweise Handel treiben oder sie in
 Ausübung ihres Berufes anwenden.
-
 
 ## § 3
 
@@ -128,10 +125,6 @@ insbesondere dann vor,
 
     gemacht werden.
 
-
-
-
-
 ## § 3a
 
 Unzulässig ist eine Werbung für Arzneimittel, die der Pflicht zur
@@ -139,7 +132,6 @@ Zulassung unterliegen und die nicht nach den arzneimittelrechtlichen
 Vorschriften zugelassen sind oder als zugelassen gelten. Satz 1 findet
 auch Anwendung, wenn sich die Werbung auf Anwendungsgebiete oder
 Darreichungsformen bezieht, die nicht von der Zulassung erfasst sind.
-
 
 ## § 4
 
@@ -226,7 +218,6 @@ ausschließlich mit der Bezeichnung eines Arzneimittels oder zusätzlich
 mit dem Namen, der Firma, der Marke des pharmazeutischen Unternehmers
 oder dem Hinweis: "Wirkstoff:"geworben wird.
 
-
 ## § 4a
 
 (1) Unzulässig ist es, in der Packungsbeilage eines Arzneimittels für
@@ -236,13 +227,11 @@ andere Arzneimittel oder andere Mittel zu werben.
 der vertragsärztlichen Versorgung bestehende Verordnungsfähigkeit
 eines Arzneimittels zu werben.
 
-
 ## § 5
 
 Für homöopathische Arzneimittel, die nach dem Arzneimittelgesetz
 registriert oder von der Registrierung freigestellt sind, darf mit der
 Angabe von Anwendungsgebieten nicht geworben werden.
-
 
 ## § 6
 
@@ -266,10 +255,6 @@ Unzulässig ist eine Werbung, wenn
 
 3.  aus der Fachliteratur entnommene Zitate, Tabellen oder sonstige
     Darstellungen nicht wortgetreu übernommen werden.
-
-
-
-
 
 ## § 7
 
@@ -342,7 +327,6 @@ Gewebeprodukten und anderen Produkten zur Anwendung bei Menschen mit
 der Zahlung einer finanziellen Zuwendung oder Aufwandsentschädigung zu
 werben.
 
-
 ## § 8
 
 Unzulässig ist die Werbung, Arzneimittel im Wege des Teleshopping oder
@@ -356,14 +340,12 @@ Betreiber einer tierärztlichen Hausapotheke ist zulässig, soweit die
 Listen nur Informationen über die Bezeichnung, die Packungsgrößen, die
 Wirkstärke und den Preis dieses Arzneimittels enthalten.
 
-
 ## § 9
 
 Unzulässig ist eine Werbung für die Erkennung oder Behandlung von
 Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden, die
 nicht auf eigener Wahrnehmung an dem zu behandelnden Menschen oder
 Tier beruht (Fernbehandlung).
-
 
 ## § 10
 
@@ -376,7 +358,6 @@ Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die
 Schlaflosigkeit oder psychische Störungen zu beseitigen oder die
 Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht
 geworben werden.
-
 
 ## § 11
 
@@ -463,7 +444,6 @@ Menschen nicht mit Angaben geworben werden, die nahe legen, dass die
 Wirkung des Arzneimittels einem anderen Arzneimittel oder einer
 anderen Behandlung entspricht oder überlegen ist.
 
-
 ## § 12
 
 (1) Außerhalb der Fachkreise darf sich die Werbung für Arzneimittel
@@ -481,7 +461,6 @@ Erkennung, Beseitigung oder Linderung dieser Krankheiten oder Leiden
 beziehen. Dies gilt nicht für die Werbung für Verfahren oder
 Behandlungen in Heilbädern, Kurorten und Kuranstalten.
 
-
 ## § 13
 
 Die Werbung eines Unternehmens mit Sitz außerhalb des Geltungsbereichs
@@ -494,12 +473,10 @@ Gesetz unbeschränkt strafrechtlich verfolgt werden kann, ausdrücklich
 damit betraut ist, die sich aus diesem Gesetz ergebenden Pflichten zu
 übernehmen.
 
-
 ## § 14
 
 Wer dem Verbot der irreführenden Werbung (§ 3) zuwiderhandelt, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 15
 
@@ -555,7 +532,6 @@ irreführenden Werbung (§ 3) zuwiderhandelt.
 zu fünfzigtausend Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer
 Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
 ## § 16
 
 Werbematerial und sonstige Gegenstände, auf die sich eine Straftat
@@ -563,16 +539,13 @@ nach § 14 oder eine Ordnungswidrigkeit nach § 15 bezieht, können
 eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 über Ordnungswidrigkeiten sind anzuwenden.
 
-
 ## § 17
 
 Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
-
 ## § 18
 
 (weggefallen)
-
 
 ## Anlage (zu § 12) Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
 

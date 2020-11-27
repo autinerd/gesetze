@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 9.12.2006 I 2819
 
-
 ## Erster Abschnitt - Anwendungsbereich, Antrag und Unterlagen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ Verfahren bei der Erteilung einer Genehmigung, einer Teilgenehmigung
 oder eines Vorbescheides nach dieser Verordnung durchzuführen, soweit
 es nicht in § 7 Abs. 4 Satz 1 und 2, §§ 7a, 7b und 8 Abs. 2 Satz 2 des
 Atomgesetzes geregelt ist.
-
 
 ### § 1a Gegenstand der Umweltverträglichkeitsprüfung
 
@@ -45,7 +41,6 @@ einschließlich der menschlichen Gesundheit, Tiere, Pflanzen und die
 biologische Vielfalt, Boden, Wasser, Luft, Klima und Landschaft,
 Kulturgüter und sonstige Sachgüter, sowie die Wechselwirkung zwischen
 den vorgenannten Schutzgütern.
-
 
 ### § 1b Unterrichtung über voraussichtlich beizubringende Unterlagen
 
@@ -81,7 +76,6 @@ Befugnis der Länder unberührt, der federführenden Behörde auf Grund
 des § 14 Abs. 1 Satz 2 des Gesetzes über die
 Umweltverträglichkeitsprüfung weitere Zuständigkeiten zu übertragen.
 
-
 ### § 2 Form und Inhalt des Antrags
 
 (1) Der Antrag ist bei der Genehmigungsbehörde schriftlich zu stellen.
@@ -96,10 +90,6 @@ Umweltverträglichkeitsprüfung weitere Zuständigkeiten zu übertragen.
 
 
 3.  die Angabe des Standortes und Angaben über Art und Umfang der Anlage.
-
-
-
-
 
 ### § 3 Art und Umfang der Unterlagen
 
@@ -252,10 +242,7 @@ gekennzeichnet sind.
 Antragsteller auf Verlangen der Genehmigungsbehörde innerhalb einer
 angemessenen Frist zu ergänzen.
 
-
 ## Zweiter Abschnitt - Beteiligung Dritter und anderer Behörden
-
-
 
 ### § 4 Bekanntmachung des Vorhabens
 
@@ -340,7 +327,6 @@ dienen soll.
 
 (6) (weggefallen)
 
-
 ### § 5 Inhalt der Bekanntmachung
 
 (1) Die Bekanntmachung muß die in § 2 Abs. 2 vorgeschriebenen Angaben
@@ -392,7 +378,6 @@ welche Unterlagen nach § 3 vorgelegt wurden, enthalten. Ferner ist die
 Behörde, bei der weitere Informationen über das Vorhaben erhältlich
 sein werden und der Fragen übermittelt werden können, anzugeben.
 
-
 ### § 6 Auslegung von Antrag und Unterlagen
 
 (1) Während einer Frist von zwei Monaten sind bei der
@@ -431,7 +416,6 @@ Abs. 1 Satz 3, Abs. 2 und 3 des Verwaltungsverfahrensgesetzes findet
 entsprechende Anwendung. Sonstige Rechte auf den Zugang zu
 Informationen in anderen Rechtsvorschriften bleiben unberührt.
 
-
 ### § 7 Einwendungen
 
 (1) Einwendungen können während der Auslegungsfrist schriftlich oder
@@ -445,7 +429,6 @@ privatrechtlichen Titeln beruhen.
 Den nach § 7 Abs. 4 Satz 1 des Atomgesetzes beteiligten Behörden ist
 der Inhalt der Einwendungen bekanntzugeben, die ihren
 Zuständigkeitsbereich berühren.
-
 
 ### § 7a Verfahren bei grenzüberschreitenden Umweltauswirkungen
 
@@ -509,10 +492,7 @@ Rechtsbehelfsbelehrung zugänglich gemacht wird.
 (5) Weiter gehende Regelungen zur Umsetzung völkerrechtlicher
 Verpflichtungen von Bund und Ländern bleiben unberührt.
 
-
 ## Dritter Abschnitt - Erörterungstermin
-
-
 
 ### § 8 Gegenstand und Zweck
 
@@ -528,14 +508,12 @@ Zulassungsvoraussetzungen von Bedeutung sein kann. Er soll denjenigen,
 die Einwendungen erhoben haben, Gelegenheit geben, ihre Einwendungen
 zu erläutern.
 
-
 ### § 9 Besondere Einwendungen
 
 Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
 sind im Erörterungstermin nicht zu behandeln; sie sind durch
 schriftlichen Bescheid auf den Rechtsweg vor den ordentlichen
 Gerichten zu verweisen.
-
 
 ### § 10 Wegfall
 
@@ -556,7 +534,6 @@ Gerichten zu verweisen.
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
-
 ### § 11 Verlegung
 
 (1) Die Genehmigungsbehörde kann den bekanntgemachten
@@ -568,7 +545,6 @@ Erörterungstermins sind zum frühestmöglichen Zeitpunkt zu bestimmen.
 erhoben haben, sind von der Verlegung des Erörterungstermins zu
 benachrichtigen. Sie können in entsprechender Anwendung des § 4 Abs. 1
 durch öffentliche Bekanntmachung benachrichtigt werden.
-
 
 ### § 12 Verlauf
 
@@ -605,7 +581,6 @@ Einwendungen gegenüber der Genehmigungsbehörde schriftlich erläutern;
 hierauf sollen die Anwesenden bei Aufhebung des Termins hingewiesen
 werden.
 
-
 ### § 13 Niederschrift
 
 (1) Über den Erörterungstermin ist eine Niederschrift zu fertigen. Die
@@ -641,10 +616,7 @@ Löschung nach Eintritt der Unwirksamkeit zu erfolgen.
 überlassen. Auf Anforderung ist auch demjenigen, der rechtzeitig
 Einwendungen erhoben hat, eine Abschrift zu überlassen.
 
-
 ## Vierter Abschnitt - Genehmigung
-
-
 
 ### § 14 Sachprüfung
 
@@ -652,7 +624,6 @@ Die Prüfung durch die Genehmigungsbehörde erstreckt sich außer auf die
 Genehmigungsvoraussetzungen des § 7 Abs. 2 des Atomgesetzes auch auf
 die Beachtung der übrigen das Vorhaben betreffenden öffentlich-
 rechtlichen Vorschriften.
-
 
 ### § 14a Zusammenfassende Darstellung, Bewertung
 
@@ -681,7 +652,6 @@ Genehmigungsbehörde hat die vorgenommene Bewertung oder
 Gesamtbewertung bei der Entscheidung über den Antrag nach Maßgabe der
 hierfür geltenden Rechtsvorschriften zu berücksichtigen.
 
-
 ### § 15 Entscheidung
 
 (1) Die Behörde entscheidet unter Würdigung des Gesamtergebnisses des
@@ -707,7 +677,6 @@ Antragsteller und die Personen, die Einwendungen erhoben haben,
 hiervon zu benachrichtigen; sind mehr als 300 Personen zu
 benachrichtigen, so kann die Benachrichtigung nach § 4 Abs. 1
 erfolgen.
-
 
 ### § 16 Inhalt des Genehmigungsbescheides
 
@@ -748,10 +717,6 @@ erfolgen.
 
 2.  die Rechtsbehelfsbelehrung.
 
-
-
-
-
 ### § 17 Zustellung durch öffentliche Bekanntmachung
 
 (1) Die öffentliche Bekanntmachung wird dadurch bewirkt, daß der
@@ -775,10 +740,7 @@ der Bekanntmachung hinzuweisen.
 Begründung bis zum Ablauf der Rechtsbehelfsfrist von den Personen, die
 Einwendungen erhoben haben, schriftlich angefordert werden.
 
-
 ## Fünfter Abschnitt - Besondere Vorschriften
-
-
 
 ### § 18 Teilgenehmigung
 
@@ -811,7 +773,6 @@ zu beschränken. Die Unterrichtung über voraussichtlich beizubringende
 Unterlagen nach § 1b beschränkt sich auf den zu erwartenden Umfang der
 Prüfung nach § 1a; Absatz 2 gilt auch für die dem Antrag nach § 3 Abs.
 2 zusätzlich beizufügenden Unterlagen.
-
 
 ### § 19 Vorbescheid
 
@@ -868,7 +829,6 @@ sowie in geeigneten Tageszeitungen bekanntzumachen.
 
 (5) § 18 Abs. 2 und 3 gilt entsprechend.
 
-
 ### § 19a Raumordnungsverfahren und Genehmigungsverfahren
 
 (1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder
@@ -884,7 +844,6 @@ Verfahren ermittelten und beschriebenen Auswirkungen auf in § 1a Abs.
 Atomgesetzes sowie der §§ 1b, 3, 7a und 14a Abs. 1 insoweit abgesehen
 werden, als diese Verfahrensschritte bereits im raumordnerischen
 Verfahren erfolgt sind.
-
 
 ### § 19b Genehmigungen nach § 7 Abs. 3 des Atomgesetzes
 
@@ -918,10 +877,7 @@ zur Stilllegung, zum sicheren Einschluss oder zum Abbau der Anlage
 oder von Anlagenteilen. Zu diesem Zweck sind nach § 6 auch die Angaben
 nach Absatz 1 auszulegen.
 
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 20 Übergangsvorschrift
 
@@ -935,7 +891,6 @@ auf die das Gesetz über die Umweltverträglichkeitsprüfung in der am 3.
 August 2001 in Kraft getretenen Fassung keine Anwendung findet, nach
 den bis zum vorgenannten Datum geltenden Vorschriften zu Ende zu
 führen.
-
 
 ### § 21
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 17 G v. 8.12.2010 I 1768
 
-
 ## Abschnitt I - Allgemeine Vorschriften
-
-
 
 ### § 1 Bundesfinanzbehörden
 
@@ -51,10 +48,6 @@ Bundesfinanzbehörden sind
 
     die Hauptzollämter einschließlich ihrer Dienststellen (Zollämter) und
     die Zollfahndungsämter.
-
-
-
-
 
 ### § 2 Landesfinanzbehörden
 
@@ -100,7 +93,6 @@ Kassengeschäfte andere örtliche Landesbehörden zu Landesfinanzbehörden
 bestimmt werden (besondere Landesfinanzbehörden). Absatz 2 Satz 2 ist
 anzuwenden.
 
-
 ### § 2a Verzicht auf Mittelbehörden, Aufgabenwahrnehmung durch andere Finanzbehörden
 
 (1) Durch Rechtsverordnung kann auf Mittelbehörden verzichtet werden.
@@ -126,11 +118,9 @@ nach Satz 1 einer anderen Landesfinanzbehörde übertragen werden. Die
 Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die
 für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
 
-
 ### § 2b (weggefallen)
 
 -
-
 
 ### § 3 Leitung der Finanzverwaltung
 
@@ -151,10 +141,7 @@ Weisungen, die wesentliche organisatorische Auswirkungen haben,
 ergehen im Benehmen mit der für die Finanzverwaltung zuständigen
 obersten Landesbehörde.
 
-
 ## Abschnitt II - Oberbehörden
-
-
 
 ### § 4 Sitz und Aufgaben der Bundesoberbehörden
 
@@ -169,7 +156,6 @@ Bundesgesetze zugewiesen werden.
 des Bundes, mit deren Durchführung sie vom Bundesministerium der
 Finanzen oder mit dessen Zustimmung von dem fachlich zuständigen
 Bundesministerium beauftragt werden.
-
 
 ### § 5 Aufgaben des Bundeszentralamtes für Steuern
 
@@ -580,11 +566,9 @@ mit Zustimmung des Bundesrates das Nähere zur Verwaltung und
 Auszahlung der Einnahmen in Ausübung der Aufgaben nach Absatz 1 Nummer
 12 zu bestimmen.
 
-
 ### § 5a (weggefallen)
 
 -
-
 
 ### § 6 Sitz und Aufgaben der Landesoberbehörde
 
@@ -600,10 +584,7 @@ Aufgaben.
 die nach § 2 Abs. 1 Nr. 3 anstelle einer Oberfinanzdirektion tritt,
 gilt § 9a Satz 3 entsprechend.
 
-
 ## Abschnitt III - Mittelbehörden
-
-
 
 ### § 7 Bezirk und Sitz
 
@@ -614,7 +595,6 @@ Sitz des Zollkriminalamtes.
 (2) Die obersten Landesbehörden bestimmen den Bezirk
 (Oberfinanzbezirk) und Sitz der Oberfinanzdirektion, die ihnen jeweils
 untersteht.
-
 
 ### § 8 Aufgaben und Gliederung der Bundesfinanzdirektionen
 
@@ -654,7 +634,6 @@ Rechts übertragen. Die Verwaltungsvereinbarung muss vorsehen, dass die
 Landesbehörden die Anordnungen des fachlich zuständigen
 Bundesministeriums zu befolgen haben.
 
-
 ### § 8a Aufgaben und Gliederung der Oberfinanzdirektionen
 
 (1) Die Oberfinanzdirektionen leiten die Finanzverwaltung des
@@ -681,7 +660,6 @@ Landesbehörde übertragen.
 Aufgaben, für deren Erledigung die Finanzämter zuständig sind.
 Außerdem erledigt sie die ihr sonst übertragenen Aufgaben.
 
-
 ### § 9 Leitung der Bundesfinanzdirektionen
 
 Der Präsident oder die Präsidentin der jeweiligen
@@ -689,7 +667,6 @@ Bundesfinanzdirektion leitet die Bundesfinanzdirektion. Ihm oder ihr
 kann auch die Leitung einer Abteilung übertragen werden. Er oder sie
 wird auf Vorschlag des Bundesministeriums der Finanzen im Benehmen mit
 der zuständigen Landesregierung ernannt und entlassen.
-
 
 ### § 9a Leitung der Oberfinanzdirektionen
 
@@ -700,7 +677,6 @@ für die Finanzverwaltung zuständigen obersten Landesbehörde im
 Einvernehmen mit der Bundesregierung durch die zuständige Stelle des
 Landes ernannt und entlassen.
 
-
 ### § 10 Bundeskassen
 
 Werden oder sind bei einer Bundesfinanzdirektion eine oder mehrere
@@ -708,7 +684,6 @@ Bundeskassen errichtet, so kann eine Bundeskasse Kassengeschäfte für
 mehrere Bundesfinanzbezirke oder für Teile davon wahrnehmen. Die
 Bundeskassen unterstehen unmittelbar dem Präsidenten oder der
 Präsidentin der zuständigen Bundesfinanzdirektion.
-
 
 ### § 10a Landeskassen
 
@@ -718,15 +693,11 @@ mehrere Oberfinanzbezirke oder für Teile davon wahrnehmen. Die
 Landeskassen können unmittelbar dem zuständigen Oberfinanzpräsidenten
 oder der zuständigen Oberfinanzpräsidentin unterstellt werden.
 
-
 ### § 11 (weggefallen)
 
 -
 
-
 ## Abschnitt IV - Örtliche Behörden
-
-
 
 ### § 12 Bezirk und Sitz der Hauptzollämter und Zollfahndungsämter sowie Aufgaben der Hauptzollämter
 
@@ -748,26 +719,21 @@ nach Absatz 2 einem Hauptzollamt für den Bereich mehrerer
 Hauptzollämter übertragen, wenn dadurch der Vollzug der Aufgaben
 verbessert oder erleichtert wird.
 
-
 ### § 12a (weggefallen)
 
 -
-
 
 ### § 12b (weggefallen)
 
 -
 
-
 ### § 12c (weggefallen)
 
 -
 
-
 ### § 12d (weggefallen)
 
 -
-
 
 ### § 13 Beistandspflicht der Ortsbehörden
 
@@ -780,21 +746,17 @@ Ersparung von Kosten oder Zeit zweckmäßig ist.
 (2) Für Hilfeleistungen nach Absatz 1 werden Entschädigungen nicht
 gewährt.
 
-
 ### § 14 (weggefallen)
 
 -
-
 
 ### § 15 (weggefallen)
 
 -
 
-
 ### § 16 (weggefallen)
 
 -
-
 
 ### § 17 Bezirk, Sitz und Aufgaben der Finanzämter
 
@@ -832,10 +794,7 @@ Zuständigkeiten nach Absatz 2 Satz 1 und 2 auf ein Finanzamt, ein nach
 oder eine besondere Landesfinanzbehörde (§ 2 Abs. 3) außerhalb des
 Landes übertragen werden.
 
-
 ## Abschnitt V - Zusammenwirken von Bundes- und Landesfinanzbehörden
-
-
 
 ### § 18 Verwaltung der Umsatzsteuer und der Kraftfahrzeugsteuer
 
@@ -843,7 +802,6 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung
 der Umsatzsteuer und der Kraftfahrzeugsteuer nach Maßgabe der für
 diese Steuern geltenden Vorschriften mit. Sie handeln hierbei für die
 Finanzbehörde, die für die Besteuerung jeweils örtlich zuständig ist.
-
 
 ### § 18a Sonderregelung zur Verwaltung der Kraftfahrzeugsteuer durch Organleihe
 
@@ -877,7 +835,6 @@ November, für das Jahr 2014 am 15. Februar und 15. Mai überwiesen.
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates einen früheren Zeitpunkt für die Beendigung
 der Organleihe zu bestimmen.
-
 
 ### § 19 Mitwirkung des Bundeszentralamtes für Steuern an Außenprüfungen
 
@@ -915,7 +872,6 @@ jeweiligen Außenprüfung mit. Dies gilt insbesondere in Fällen, in
 denen die Gleichmäßigkeit der Rechtsanwendung in mehreren Betrieben
 sicherzustellen ist, sowie in den Fällen des Absatzes 3 Satz 2.
 
-
 ### § 20 Einsatz von automatischen Einrichtungen
 
 (1) Die für die Finanzverwaltung zuständigen obersten Landesbehörden
@@ -944,7 +900,6 @@ den fachlichen Weisungen der für die Finanzverwaltung zuständigen
 obersten Behörde oder der von ihr bestimmten Finanzbehörde der
 Gebietskörperschaft verrichtet werden, die die Aufgabenwahrnehmung
 übertragen hat.
-
 
 ### § 21 Auskunfts- und Teilnahmerechte
 
@@ -991,7 +946,6 @@ Bundesfinanzbehörden anonymisierte Daten des Steuervollzugs zur
 eigenständigen Auswertung insbesondere für Zwecke der
 Gesetzesfolgenabschätzung zur Verfügung.
 
-
 ### § 21a Allgemeine Verfahrensgrundsätze
 
 (1) Zur Verbesserung und Erleichterung des Vollzugs von Steuergesetzen
@@ -1021,14 +975,9 @@ Bundesministerium der Finanzen die erforderlichen Daten.
 (4) Vereinbarungen nach Absatz 2 sind für die obersten Finanzbehörden
 des Bundes und der Länder verbindlich.
 
-
 ## Abschnitt VI - Übergangsregelungen aus Anlass des Zweiten Gesetzes zur Änderung des Finanzverwaltungsgesetzes und anderer Gesetze vom 13. Dezember 2007
 
-
-
 ### Unterabschnitt I - Dienstrechtliche Regelungen
-
-
 
 #### § 22 Dienstrechtliche Folgen und Regelung der Versorgungslasten
 
@@ -1059,10 +1008,7 @@ genannte Oberfinanzdirektion untersteht, die vollen Versorgungslasten.
 
 gilt Absatz 1 Satz 2 entsprechend.
 
-
 ### Unterabschnitt II - Überleitung von Beschäftigten und Übergangsregelungen
-
-
 
 #### § 23 Überleitung von Verwaltungsangehörigen des Bundes bei den Oberfinanzdirektionen
 
@@ -1106,7 +1052,6 @@ unberührt.
 2007 (BGBl. I S. 2897) erhalten nach einer Überleitung nach Absatz 1
 Satz 1 ihre Bezüge weiterhin aus der Besoldungsgruppe B 7, sofern sie
 am 31. Dezember 2007 ein entsprechendes Amt innehatten.
-
 
 #### § 24 Übergangsregelung Personalvertretung
 
@@ -1190,7 +1135,6 @@ würden, ist ein Vertreter oder eine Vertreterin der betroffenen
 (4) Die am 31. Dezember 2007 bestehenden Dienstvereinbarungen gelten
 bis zu einer Neuregelung fort, längstens aber für die Dauer von 18
 Monaten.
-
 
 #### § 25 Übergangsregelung Schwerbehindertenvertretung
 
@@ -1280,7 +1224,6 @@ Vertrauenspersonen der bisherigen Schwerbehindertenvertretungen
 wahrgenommen. Kommen mehrere Vertrauenspersonen in Betracht, so nehmen
 sie diese Funktion gemeinsam wahr.
 
-
 #### § 26 Übergangsregelung Gleichstellungsbeauftragte
 
 (1) Die Wahl der Gleichstellungsbeauftragten erfolgt spätestens bis
@@ -1292,7 +1235,6 @@ Neuwahl das Übergangsmandat bei den Bundesfinanzdirektionen wahr, zu
 denen sie nach § 23 Abs. 1 übergeleitet wurden. Kommen danach mehrere
 Gleichstellungsbeauftragte für eine Bundesfinanzdirektion in Betracht,
 so nehmen diese das Übergangsmandat gemeinsam wahr.
-
 
 #### § 27 Übergangsregelung Kosten der Oberfinanzdirektion
 

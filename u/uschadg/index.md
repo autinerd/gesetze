@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 17.8.2012 I 1726
 
-
 ## § 1 Verhältnis zu anderen Vorschriften
 
 Dieses Gesetz findet Anwendung, soweit Rechtsvorschriften des Bundes
@@ -26,7 +25,6 @@ oder der Länder die Vermeidung und Sanierung von Umweltschäden nicht
 näher bestimmen oder in ihren Anforderungen diesem Gesetz nicht
 entsprechen. Rechtsvorschriften mit weitergehenden Anforderungen
 bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -108,10 +106,6 @@ Im Sinne dieses Gesetzes sind
     Bodenschutzgesetzes sowie die zu ihrer Ausführung erlassenen
     Verordnungen.
 
-
-
-
-
 ## § 3 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für
@@ -175,7 +169,6 @@ Verteidigung oder die internationale Sicherheit ist, noch für
 Tätigkeiten, deren alleiniger Zweck der Schutz vor Naturkatastrophen
 ist.
 
-
 ## § 4 Informationspflicht
 
 Besteht die unmittelbare Gefahr eines Umweltschadens oder ist ein
@@ -183,13 +176,11 @@ Umweltschaden eingetreten, hat der Verantwortliche die zuständige
 Behörde unverzüglich über alle bedeutsamen Aspekte des Sachverhalts zu
 unterrichten.
 
-
 ## § 5 Gefahrenabwehrpflicht
 
 Besteht die unmittelbare Gefahr eines Umweltschadens, hat der
 Verantwortliche unverzüglich die erforderlichen Vermeidungsmaßnahmen
 zu ergreifen.
-
 
 ## § 6 Sanierungspflicht
 
@@ -199,10 +190,6 @@ Ist ein Umweltschaden eingetreten, hat der Verantwortliche
 
 
 2.  die erforderlichen Sanierungsmaßnahmen gemäß § 8 zu ergreifen.
-
-
-
-
 
 ## § 7 Allgemeine Pflichten und Befugnisse der zuständigen Behörde
 
@@ -224,10 +211,6 @@ zuständige Behörde dem Verantwortlichen aufgeben,
 
 3.  die erforderlichen Schadensbegrenzungs- und Sanierungsmaßnahmen zu
     ergreifen.
-
-
-
-
 
 ## § 8 Bestimmung von Sanierungsmaßnahmen
 
@@ -254,7 +237,6 @@ vorgesehenen Sanierungsmaßnahmen und gibt ihnen Gelegenheit, sich zu
 äußern; die Unterrichtung kann durch öffentliche Bekanntmachung
 erfolgen. Die rechtzeitig eingehenden Stellungnahmen sind bei der
 Entscheidung zu berücksichtigen.
-
 
 ## § 9 Kosten der Vermeidungs- und Sanierungsmaßnahmen
 
@@ -295,7 +277,6 @@ Haftung nach § 486 Abs. 1, 4 und 5, §§ 487 bis 487e des
 Handelsgesetzbuchs oder nach den §§ 4 bis 5m des
 Binnenschifffahrtsgesetzes zu beschränken.
 
-
 ## § 10 Aufforderung zum Tätigwerden
 
 Die zuständige Behörde wird zur Durchsetzung der Sanierungspflichten
@@ -304,7 +285,6 @@ oder eine Vereinigung, die nach § 11 Abs. 2 Rechtsbehelfe einlegen
 kann, dies beantragt und die zur Begründung des Antrags vorgebrachten
 Tatsachen den Eintritt eines Umweltschadens glaubhaft erscheinen
 lassen.
-
 
 ## § 11 Rechtsschutz
 
@@ -317,7 +297,6 @@ sind oder als anerkannt gelten, gilt für Rechtsbehelfe gegen eine
 Entscheidung oder das Unterlassen einer Entscheidung der zuständigen
 Behörde nach diesem Gesetz § 2 des Umwelt-Rechtsbehelfsgesetzes
 entsprechend.
-
 
 ## § 12 Zusammenarbeit mit den Mitgliedstaaten der Europäischen Union
 
@@ -342,7 +321,6 @@ Vermeidungs-, Schadensbegrenzungs- oder Sanierungsmaßnahmen geben und
 sich um die Erstattung der ihr im Zusammenhang mit der Durchführung
 dieser Maßnahmen angefallenen Kosten bemühen.
 
-
 ## § 13 Zeitliche Begrenzung der Anwendung
 
 (1) Dieses Gesetz gilt nicht für Schäden, die durch Emissionen,
@@ -354,7 +332,6 @@ zurückzuführen sind, die vor dem genannten Zeitpunkt geendet hat.
 verursacht wurden, wenn in dieser Zeit keine Behörde Maßnahmen gegen
 den Verantwortlichen ergriffen hat.
 
-
 ## § 14 Übergangsvorschrift zu Anlage 1
 
 Für Verbringungen von Abfällen, die Artikel 62 Abs. 1 der Verordnung
@@ -365,7 +342,6 @@ Artikel 1 des Gesetzes zur Umsetzung der Richtlinie des Europäischen
 Parlaments und des Rates über die Umwelthaftung zur Vermeidung und
 Sanierung von Umweltschäden vom 10. Mai 2007 (BGBl. I S. 666)
 anzuwenden.
-
 
 ## Anlage 1 (zu § 3 Abs. 1) Berufliche Tätigkeiten
 
@@ -481,10 +457,6 @@ anzuwenden.
 14. Betrieb von Kohlendioxidspeichern nach § 3 Nummer 7 des Kohlendioxid-
     Speicherungsgesetzes.
 
-
-
-
-
 ## Anlage 2 (zu § 3 Abs. 3 Nr. 3) Internationale Abkommen
 
 
@@ -511,10 +483,6 @@ d)  Internationales Übereinkommen vom 3. Mai 1996 über Haftung und
 e)  Übereinkommen vom 10. Oktober 1989 über die zivilrechtliche Haftung
     für die während des Transports gefährlicher Güter auf dem Straßen-,
     Schienen- und Binnenschifffahrtsweg verursachten Schäden.
-
-
-
-
 
 ## Anlage 3 (zu § 3 Abs. 3 Nr. 5) Internationale Übereinkünfte
 

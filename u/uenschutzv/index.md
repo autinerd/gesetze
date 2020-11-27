@@ -21,14 +21,12 @@ Fundstelle
     Notwendigkeit, ihren Schutz zu verbessern (ABl. L 345 vom 23.12.2008,
     S. 75).
 
-
 ## Eingangsformel
 
 Auf Grund des § 12g Absatz 3 des Energiewirtschaftsgesetzes vom 7.
 Juli 2005 (BGBl. I S. 1970, 3621), der durch Artikel 1 Nummer 10 des
 Gesetzes vom 26. Juli 2011 (BGBl. I S. 1554) eingefügt worden ist,
 verordnet die Bundesregierung:
-
 
 ## § 1 Bericht der Übertragungsnetzbetreiber
 
@@ -47,7 +45,6 @@ Bevölkerungsschutz und Katastrophenhilfe im Einvernehmen mit der
 Bundesnetzagentur erstellt und regelmäßig aktualisiert. Die
 Bundesnetzagentur übermittelt die Gefährdungsszenarien rechtzeitig vor
 der Erstellung des Berichts an die Betreiber von Übertragungsnetzen.
-
 
 ## § 2 Festlegung europäisch kritischer Anlagen
 
@@ -71,7 +68,6 @@ hinsichtlich der Festlegung. Die Festlegung erfolgt ungeachtet der in
 Absatz 1 genannten Frist innerhalb von zwei Monaten nach Abschluss der
 Konsultation.
 
-
 ## § 3 Sicherheitsbeauftragte
 
 (1) Spätestens zwei Wochen nach der Festlegung der Bundesnetzagentur
@@ -83,7 +79,6 @@ Sicherheitsbeauftragten nachzuweisen.
 (2) Die oder der Sicherheitsbeauftragte ist Kontaktperson der Behörden
 in Sicherheitsfragen und soll über den Bericht nach § 1 und die
 Sicherheitspläne nach § 4 Auskunft geben können.
-
 
 ## § 4 Sicherheitspläne
 
@@ -152,7 +147,6 @@ Bundesnetzagentur bei der Festlegung einer Anlage nach § 2 von den
 Vorschlägen in einem Bericht eines Übertragungsnetzbetreibers nach § 1
 abweicht.
 
-
 ## § 5 Bestätigung des Sicherheitsplans und Beanstandungen
 
 (1) Der Sicherheitsplan wird innerhalb von vier Wochen nach seiner
@@ -174,13 +168,11 @@ für die erforderliche Qualifikation der oder des
 Sicherheitsbeauftragten innerhalb einer angemessenen Frist zu sorgen
 oder eine andere Person nach § 3 zu bestimmen.
 
-
 ## § 6 Einstufung als Verschlusssache
 
 Die Bundesnetzagentur entscheidet, welche Informationen, Berichte und
 Sicherheitspläne nach § 12g Absatz 4 des Energiewirtschaftsgesetzes
 als Verschlusssache einzustufen sind.
-
 
 ## § 7 Inkrafttreten
 

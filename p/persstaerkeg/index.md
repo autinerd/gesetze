@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 19.12.2000 I 1815
 
-
 ## Abschnitt I - Dienstrecht
-
-
 
 ### § 1
 
@@ -72,7 +69,6 @@ Ausscheidens zugestellt werden.
 (3) § 44 Abs. 6 Satz 1 bis 3 und Abs. 7 sowie § 51 Abs. 1, 3 und 5 des
 Soldatengesetzes gelten entsprechend.
 
-
 ### § 2
 
 (1) In den Jahren 1992 bis 1994 können Berufssoldaten, die das
@@ -109,27 +105,21 @@ dem Tage des Ausscheidens zugestellt werden.
 (4) § 44 Abs. 6 Satz 1 bis 3 und Abs. 7 sowie § 51 Abs. 1, 3 und 5 des
 Soldatengesetzes gelten entsprechend.
 
-
 ### § 3
 
 (weggefallen)
-
 
 ### § 4
 
 (weggefallen)
 
-
 ## Abschnitt II - Versorgung
-
-
 
 ### § 5
 
 Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und
 Soldaten auf Zeit sowie ihrer Hinterbliebenen bestimmt sich nach dem
 Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
-
 
 ### § 6
 
@@ -162,7 +152,6 @@ entsprechend.
 Anwendung.
 
 (6) (weggefallen)
-
 
 ### § 7
 
@@ -206,17 +195,13 @@ Mehrbetrag, der auf der Weitergewährung der Besoldung anstelle von
 Ruhegehalt beruht, insgesamt viertausend Deutsche Mark nicht
 übersteigen darf.
 
-
 ### § 8
 
 In den Fällen der Umwandlung des Dienstverhältnisses nach § 3 und der
 Verkürzung der Dienstzeit nach § 4 ist für die Versorgung die neu
 festgesetzte Dienstzeit als Soldat auf Zeit maßgebend.
 
-
 ## Abschnitt III - Inkrafttreten
-
-
 
 ### § 9
 

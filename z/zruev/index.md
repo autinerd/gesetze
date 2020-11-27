@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 16.10.1998 I 3175
 
-
 ## (XXXX)
 
 Bis zum 28. Oktober 1998 dürfen Lebensmittel sowie Erzeugnisse, die

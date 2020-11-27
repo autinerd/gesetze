@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 22.12.2011 I 3057
 
-
 ## § 1
 
 Die Ehrenpensionen und Hinterbliebenenpensionen aufgrund der Anordnung
@@ -29,7 +28,6 @@ Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
 Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1214) mit
 Maßgaben fortgilt, werden nach den folgenden Vorschriften als
 Entschädigungsrenten weitergezahlt.
-
 
 ## § 2
 
@@ -95,7 +93,6 @@ Kriegsgefangenschaft nach dem 31. Dezember 1945 tritt an die Stelle
 des 1. Januar 1951 der Ablauf von fünf Jahren nach der Rückkehr oder
 Entlassung.
 
-
 ## § 3
 
 (1) Personen, die die Voraussetzungen für den Bezug einer
@@ -147,7 +144,6 @@ das Bundesversicherungsamt in besonders begründeten Fällen von dem
 Vorschlag der Kommission abweichen, hat es dieses zu begründen. Im
 gerichtlichen Verfahren ist die Kommission beizuladen.
 
-
 ## § 4
 
 Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu
@@ -156,7 +152,6 @@ deren Gewährung von anderen Einkommen abhängig ist, unberücksichtigt.
 Bei Inanspruchnahme von Leistungen nach dem Zwölften Buch
 Sozialgesetzbuch werden Entschädigungsrenten und Leistungen aufgrund
 der nach § 8 zu erlassenden Richtlinien zur Hälfte angerechnet.
-
 
 ## § 5
 
@@ -188,7 +183,6 @@ sich aus aufgreifen. In solchen Fällen teilt sie dies der Deutschen
 Rentenversicherung Bund, dem Bundesversicherungsamt und dem
 Berechtigten mit.
 
-
 ## § 6
 
 (1) Die Deutsche Rentenversicherung Bund ist für die Erfüllung der
@@ -217,11 +211,9 @@ Rentenversicherung geltenden Vorschriften anzuwenden. Bei einer
 Entscheidung nach § 5 gilt § 2 Abs. 3 und 4 des
 Versorgungsruhensgesetzes entsprechend.
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## § 8
 

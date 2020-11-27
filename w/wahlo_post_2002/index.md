@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 946
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 34 des Postpersonalrechtsgesetzes vom 14. September
@@ -24,10 +22,7 @@ Auf Grund des § 34 des Postpersonalrechtsgesetzes vom 14. September
 Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -37,13 +32,11 @@ Betriebsverfassungsgesetzes (Wahlordnung - WO) vom 11. Dezember 2001
 Betriebsrat in den Postunternehmen Anwendung, soweit sich aus dieser
 Verordnung nicht etwas anderes ergibt.
 
-
 ### § 2
 
 Die bei den Aktiengesellschaften beschäftigten Beamtinnen und Beamten
 gelten für die Anwendung der Vorschriften der Wahlordnung als
 Arbeitnehmerinnen und Arbeitnehmer.
-
 
 ### § 3
 
@@ -55,7 +48,6 @@ Frist hierauf verzichtet (§ 26 Nr. 1 Postpersonalrechtsgesetz). Im
 vereinfachten Wahlverfahren nach § 14a Abs. 1 des
 Betriebsverfassungsgesetzes kann die Abstimmung nach Satz 1 bis zur
 Wahl des Wahlvorstands erfolgen.
-
 
 ### § 4
 
@@ -74,7 +66,6 @@ entsprechend seinem zahlenmäßigen Verhältnis im Betriebsrat vertreten
 sein, wenn dieser aus mindestens drei Mitgliedern besteht (§ 26
 Postpersonalrechtsgesetz i.V.m. § 15 Abs. 2
 Betriebsverfassungsgesetz).
-
 
 ### § 5
 
@@ -104,10 +95,7 @@ nach § 14a Abs. 1 des Betriebsverfassungsgesetzes. Im vereinfachten
 Wahlverfahren nach § 14a Abs. 3 und 5 des Betriebsverfassungsgesetzes
 verkürzt sich die Frist in Absatz 1 auf mindestens drei Arbeitstage.
 
-
 ## Zweiter Abschnitt - Bildung einer eigenen Wählergruppe der Beamtinnen und Beamten
-
-
 
 ### § 6
 
@@ -603,16 +591,7 @@ Vertreter zu wählen sind.
         Gewählten abweichend von Buchstabe g Doppelbuchstabe bb und cc in
         entsprechender Anwendung der Maßgaben der Nummern 15 und 16.
 
-
-
-
-
-
-
-
 ## Dritter Abschnitt - Verzicht der Beamtinnen und Beamten auf eine eigene Wählergruppe
-
-
 
 ### § 7
 
@@ -622,10 +601,7 @@ Wahlausschreiben (§§ 3, 31 und 36 Abs. 3 Wahlordnung) zusätzlich die
 Angabe zu enthalten hat, dass die Beamtinnen und Beamten auf die
 Bildung einer eigenen Gruppe verzichtet haben.
 
-
 ## Vierter Abschnitt - Schlussbestimmung
-
-
 
 ### § 8
 

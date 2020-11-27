@@ -23,7 +23,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 9.4.2008 I 698
 
-
 ## § 1 Grundregel, Anwendungsbereich
 
 Diese Verordnung regelt die Ahndung von Zuwiderhandlungen gegen
@@ -87,7 +86,6 @@ der Bundeswehr unter Berücksichtigung des Schutzes der Meeresumwelt
 erforderlich ist. Diese Verordnung gilt nicht für Kriegsschiffe
 anderer Staaten.
 
-
 ## § 1a Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
@@ -114,10 +112,6 @@ Im Sinne dieser Verordnung
     Parlaments und des Rates vom 6. Juli 2005 zur Änderung der Richtlinie
     1999/32/EG hinsichtlich des Schwefelgehalts von Schiffskraftstoffen
     (ABl. EU Nr. L 191 S. 59).
-
-
-
-
 
 ## § 1b Ergänzende Bestimmungen zu Anlage I des MARPOL-Übereinkommens
 
@@ -177,7 +171,6 @@ Wasserstraßen der Zonen 1 und 2 im Ostseegebiet nicht.
 (6) Auf den in § 1 Satz 2 Nr. 1 bezeichneten Seeschifffahrtsstraßen
 ist jedes Einleiten ölhaltiger Gemische verboten.
 
-
 ## § 1c Ergänzende Bestimmungen zu Anlage II des MARPOL-Übereinkommens
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb
@@ -215,7 +208,6 @@ vollständig und wahrheitsgemäß vorgenommen werden.
 Fahrzeuge, die nicht Seeschiffe sind, auf Wasserstraßen der Zonen 1
 und 2 im Ostseegebiet nicht.
 
-
 ## § 1d Ergänzende Bestimmungen zu Anlage IV des MARPOL-Übereinkommens
 
 (1) Im Ostseegebiet gilt Regel 11 Abs. 1 der Anlage IV des MARPOL-
@@ -237,7 +229,6 @@ ist Wasserfahrzeugen, die jeweils über eine Toilette verfügen, die mit
 einer Abwasserrückhalteanlage ausgerüstet ist, das Einleiten von
 Schiffsabwasser, ausgenommen Einleitungen nach Maßgabe der Anlage IV
 Regel 11 Abs. 1.2 des MARPOL-Übereinkommens, verboten.
-
 
 ## § 1e Ergänzende Bestimmungen zu Anlage V des MARPOL-Übereinkommens
 
@@ -291,7 +282,6 @@ und 2 im Ostseegebiet nicht.
 (7) Auf den in § 1 Satz 2 Nr. 1 bezeichneten Seeschifffahrtsstraßen
 ist jegliches Einbringen von Schiffsmüll verboten.
 
-
 ## § 1f Ergänzende Bestimmungen zu Anlage VI des MARPOL-Übereinkommens
 
 (1) Für die in § 1 Satz 2 Nr. 1 bezeichneten Seeschifffahrtsstraßen
@@ -337,7 +327,6 @@ Einzelfall Ausnahmen zulassen, wenn andernfalls durch das Ziehen der
 Probe eine Gefahr für die beteiligten Schiffe, deren Besatzung oder
 andere Personen besteht.
 
-
 ## § 2 Zuwiderhandlungen gegen Vorschriften des Protokolls I zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe
 
 Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -347,7 +336,6 @@ Artikel I Abs. 1 oder 2 des Protokolls I das Einleiten von
 Schadstoffen ins Meer nicht oder nicht rechtzeitig an die in den
 Nachrichten für Seefahrer (Amtsblatt des Bundesamtes für Seeschiffahrt
 und Hydrographie bekanntgegebene zuständige Stelle meldet.
-
 
 ## § 3 Zuwiderhandlungen gegen Vorschriften der Anlage I zu dem MARPOL-Übereinkommen
 
@@ -408,7 +396,6 @@ haben. Eine unmittelbare Verbindung nach außenbords ist auch gegeben,
 wenn eine Umgehung der in der Anlage I Regel 14 Abs. 1 und 2 des
 MARPOL-Übereinkommens vorgeschriebene Ölfilteranlage vorhanden ist.
 
-
 ## § 4 Zuwiderhandlungen gegen Vorschriften der Anlage II zu dem MARPOL-Übereinkommen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als
@@ -444,14 +431,12 @@ einer Vorschrift der Regel 15 Abs. 1, 2, 3, 4 Satz 2 oder Abs. 5 über
 das Mitführen oder Aufbewahren von Ladungstagebüchern oder die
 Eintragungen in das Ladungstagebuch zuwiderhandelt.
 
-
 ## § 5 Zuwiderhandlungen gegen Vorschriften der Anlage IV zu dem MARPOL-Übereinkommen
 
 Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als
 Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher
 entgegen Anlage IV Regel 11 Abs. 1 des MARPOL-Übereinkommens Abwasser
 einleitet.
-
 
 ## § 6 Zuwiderhandlungen gegen Vorschriften der Anlage V zu dem MARPOL-Übereinkommen
 
@@ -480,7 +465,6 @@ Schiffsführer oder als zur Führung von Tagebüchern Verantwortlicher
 einer Vorschrift der Anlage V Regel 9 Abs. 3 des MARPOL-Übereinkommens
 über das Führen oder Aufbewahren von Mülltagebüchern oder die
 Eintragungen in das Mülltagebuch zuwiderhandelt.
-
 
 ## § 7 Zuwiderhandlungen gegen Vorschriften der Anlage VI zu dem MARPOL-Übereinkommen
 
@@ -543,7 +527,6 @@ Schiffsbetrieb Verantwortlicher gegen die Anlage VI des MARPOL-
 Schiffsbetrieb Verantwortlichen eines Seeschiffs, das die Flagge eines
 Staates führt, der nicht Vertragspartei der Anlage VI des
 Übereinkommens ist.
-
 
 ## § 8 Weitere Ordnungswidrigkeiten
 
@@ -608,13 +591,6 @@ handelt, wer vorsätzlich oder fahrlässig
     d)  entgegen § 1f Abs. 3 Nr. 5 eine dort genannte Abschrift nicht oder
         nicht rechtzeitig aushändigt.
 
-
-
-
-
-
-
-
 ## § 9 Höhe der Geldbußen
 
 Die Ordnungswidrigkeit kann in den Fällen des § 3 Abs. 2, § 4 Abs. 2,
@@ -623,7 +599,6 @@ fünfzigtausend Euro, in den Fällen des § 3 Abs. 3, 4, § 4 Abs. 3, § 6
 Abs. 2, 3 und § 7 Abs. 3 mit einer Geldbuße bis zu dreißigtausend Euro
 und in den Fällen der §§ 2, 3 Abs. 1 und § 4 Abs. 1 mit einer Geldbuße
 bis zu fünftausend Euro geahndet werden.
-
 
 ## § 10 Zuständige Verwaltungsbehörden
 

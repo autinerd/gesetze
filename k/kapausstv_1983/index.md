@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 29.7.2009 I 2305
 
-
 ## Eingangsformel
 
 Auf Grund des § 53c Abs. 2 und des § 156a Abs. 2 des
 Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung vom
 13\. Oktober 1983 (BGBl. I S. 1261) wird verordnet:
 
-
 ## Erster Abschnitt - Vorschriften für alle Versicherungssparten mit Ausnahme der Lebensversicherung
-
-
 
 ### § 1
 
@@ -153,10 +149,6 @@ Solvabilitätsspanne des Vorjahres mit dem Quotienten aus
     Geschäftsjahres vervielfacht wird. Der Quotient darf dabei höchstens
     mit 1 angesetzt werden.
 
-
-
-
-
 ### § 2
 
 (1) Der Garantiefonds, auf den Eigenmittel gemäß § 53c Abs. 3 Satz 1
@@ -199,21 +191,15 @@ Euro. Werden die in Absatz 2 genannten Risiken gedeckt, beträgt der
 Mindestgarantiefonds abweichend von Absatz 2 in Verbindung mit Absatz
 3 900 000 Euro.
 
-
 ### § 3
 
 Der nach § 156a Abs. 1 Satz 1 Nr. 2 des Versicherungsaufsichtsgesetzes
 maßgebende Betrag der jährlichen Beiträge wird auf 1,9 Millionen Euro
 festgesetzt.
 
-
 ## Zweiter Abschnitt - Vorschriften für die Lebensversicherung
 
-
-
 ### Unterabschnitt 1 - Lebensversicherung mit Ausnahme der Pensions- und Sterbekassen
-
-
 
 #### § 4
 
@@ -333,7 +319,6 @@ Buchstabe a 1 vom Hundert. Trägt das Unternehmen kein
 Kapitalanlagerisiko und sind die Verwaltungskosten nicht für einen
 Zeitraum von mehr als fünf Jahren festgelegt, gilt Absatz 2 Satz 3.
 
-
 #### § 4a
 
 Für das in Rückdeckung übernommene Lebensversicherungsgeschäft gilt
@@ -352,17 +337,12 @@ der erste Abschnitt, soweit
     gesamten versicherungstechnischen Rückstellungen des Unternehmens
     übersteigen.
 
-
-
-
-
 #### § 5
 
 (1) Der Garantiefonds beträgt mindestens 3,5 Millionen Euro.
 
 (2) Bei Versicherungsvereinen auf Gegenseitigkeit ermäßigt sich der
 Mindestbetrag des Garantiefonds um 25 vom Hundert.
-
 
 #### § 6
 
@@ -388,7 +368,6 @@ angerechnet werden. Diese Eigenmittel und die in § 53c Abs. 3 Satz 1
 Nr. 5 Buchstabe a des Gesetzes genannten Eigenmittel werden nicht auf
 den Garantiefonds angerechnet.
 
-
 #### § 7
 
 Der nach § 156a Abs. 1 Nr. 2 des Versicherungsaufsichtsgesetzes
@@ -397,10 +376,7 @@ festgesetzt. Wird dieser Betrag in drei aufeinanderfolgenden Jahren
 überschritten, so werden die in § 156a Abs. 1 des Gesetzes genannten
 Vorschriften vom vierten Jahr an angewandt.
 
-
 ### Unterabschnitt 2 - Pensions- und Sterbekassen
-
-
 
 #### § 8
 
@@ -425,7 +401,6 @@ September 2010 entsprechend. Sofern Pensionskassen
 grenzüberschreitende Tätigkeiten im Sinne von § 118c des
 Versicherungsaufsichtsgesetzes betreiben, gilt Satz 1 nicht.
 
-
 #### § 8a
 
 (1) Für Pensions- und Sterbekassen beträgt der Garantiefonds
@@ -440,30 +415,23 @@ drei aufeinander folgenden Jahren den Betrag von 5 Millionen Euro
 nicht überschritten haben, entfällt ein Mindestbetrag des
 Garantiefonds.
 
-
 #### § 8b
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 9
 
 -
 
-
 ### § 10
 
 (weggefallen)
 
-
 ### § 11
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Schlußformel
 

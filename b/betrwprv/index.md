@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1625
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -28,7 +26,6 @@ Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -75,7 +72,6 @@ Anlagen 1 und 2 sind mit folgender Fußnote zu versehen: Geprüfter
 Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz für
 die Bereiche der Industrie, des Handels und der Dienstleistungen.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -103,7 +99,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -138,7 +133,6 @@ werden.
 (5) Mit dem Prüfungsteil nach Absatz 1 Nr. 3 soll spätestens ein Jahr
 nach dem letzten erfolgreichen Abschluss der Prüfungsteile nach Absatz
 1 Nr. 1 und 2 begonnen werden.
-
 
 ## § 4 Wirtschaftliches Handeln und betriebliche Leistungsprozesse
 
@@ -360,7 +354,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 5 Führung und Management im Unternehmen
 
 (1) Im Prüfungsteil "Führung und Management im Unternehmen" ist die
@@ -464,7 +457,6 @@ einer begründeten Lösung zuführen zu können. Der Lösungsvorschlag ist
 unter Einbeziehung von Präsentationstechniken zu erläutern und zu
 erörtern.
 
-
 ## § 6 Projektarbeit und projektarbeitsbezogenes Fachgespräch
 
 (1) Der Prüfungsteil "Projektarbeit und projektarbeitsbezogenes
@@ -503,7 +495,6 @@ Minuten dauern. Die Präsentationszeit soll dabei 15 Minuten nicht
 (5) Das projektarbeitsbezogene Fachgespräch ist nur zu führen, wenn in
 der Projektarbeit mindestens ausreichende Leistungen erbracht wurden.
 
-
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn alle Prüfungsleistungen mit
@@ -535,7 +526,6 @@ sowie ein Zeugnis gemäß der Anlage 2 auszustellen, aus dem die in den
 Prüfungsteilen erzielten Noten und die in den Prüfungsleistungen
 erzielten Punkte hervorgehen.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -547,7 +537,6 @@ abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung
 von den Prüfungsleistungen nach § 5 Abs. 2 Nr. 3 und § 6 ist nicht
 zulässig.
-
 
 ## § 9 Wiederholung der Prüfung
 
@@ -568,7 +557,6 @@ gilt das Ergebnis der letzten Prüfung.
 für die Wiederholungsprüfung die Projektarbeit als neue Aufgabe
 gestellt werden.
 
-
 ## § 10 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Betriebswirt (IHK)/zur Betriebswirtin
@@ -580,11 +568,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 31. Dezember 2008 die Anwendung der bisherigen Vorschriften
 bis zum 30. Juni 2010 beantragt werden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 3 und zu § 7 Abs. 6)
 
@@ -615,10 +601,6 @@ Unterschrift(en) .................................
 \*) Geprüfter Betriebswirt/Geprüfte Betriebswirtin nach dem
     Berufsbildungsgesetz für die Bereiche der Industrie, des Handels und
     der Dienstleistungen.
-
-
-
-
 
 ## Anlage 2 (zu § 1 Abs. 3 und zu § 7 Abs. 6)
 

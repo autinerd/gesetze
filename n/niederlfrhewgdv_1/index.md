@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 9 V v. 21.5.1976 I 1249
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels IV des Gesetzes zur Durchführung von
@@ -33,11 +32,9 @@ Dienstleistungsverkehr vom 14. Dezember 1970 (Bundesgesetzbl. I S.
 zur Kenntnisnahme zugeleitet worden ist, mit Zustimmung des
 Bundesrates:
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -71,7 +68,6 @@ Mitgliedstaates der EWG ist, für
 
 unter den in § 3 dieser Verordnung angegebenen Voraussetzungen als
 erbracht anzusehen.
-
 
 ## § 3
 
@@ -136,7 +132,6 @@ c)  in leitender Stellung mit kaufmännischen Aufgaben und mit der
 sind, ist vom Antragsteller durch eine Bescheinigung der zuständigen
 Stelle des Herkunftslandes zu erbringen.
 
-
 ## § 4
 
 (1) Der Nachweis der Sachkunde ist für einen Ausländer, der
@@ -178,7 +173,6 @@ In den Fällen des Absatzes 1 Buchstaben b und d muß die geleistete
 Ausbildung durch ein staatlich anerkanntes Zeugnis bestätigt oder von
 einer zuständigen Berufsinstitution als vollwertig anerkannt sein.
 
-
 ## § 5
 
 (1) Die Bescheinigungen über eine Ausbildung oder Befähigung oder die
@@ -203,7 +197,6 @@ Dienstleistungsverkehr stellen aus
 der Bescheinigung keinen Beruf aus, so richtet sich die Zuständigkeit
 nach der von ihm zuletzt im Inland ausgeübten Tätigkeit.
 
-
 ## § 6
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -214,7 +207,6 @@ Dienstleistungsverkehr und in Verbindung mit § 5 des Zweiten Gesetzes
 zur Durchführung von Richtlinien der Europäischen
 Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien
 Dienstleistungsverkehr auch im Land Berlin.
-
 
 ## § 7
 

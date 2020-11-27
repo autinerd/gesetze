@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2128
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Mauergrundstücksgesetzes vom 15. Juli 1996
 (BGBl. I S. 980) verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Mittel des Fonds nach § 5 des Mauergrundstücksgesetzes
 
@@ -73,7 +70,6 @@ Richtlinien des Bundesministeriums der Finanzen vom 31. Juli 1996
 Satz 2 abzuziehen, bevor dem Fonds Mittel zugewiesen werden. Das
 Bundesministerium der Finanzen setzt den Rückbehalt nach dem
 absehbaren Bedarf fest.
-
 
 ## § 2 Zweckbestimmung und Verteilung der Mittel
 
@@ -157,7 +153,6 @@ listenförmig die zweckentsprechende Verwendung der Fondsmittel nach.
 (6) Ergänzungen zu den Verfahrensbestimmungen dieser Rechtsverordnung
 können durch Verwaltungsvereinbarung geregelt werden.
 
-
 ## § 3 Status, Verwaltung und Vertretung des Fonds
 
 (1) Das Bundesministerium der Finanzen verwaltet den Fonds und
@@ -168,7 +163,6 @@ oder verklagt werden.
 (2) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten
 und Verbindlichkeiten getrennt zu halten. Der Bund haftet nicht für
 die Verbindlichkeiten des Fonds.
-
 
 ## § 4 Wirtschaftsplan und Jahresrechnung
 
@@ -181,12 +175,10 @@ Rechnungsjahres die Jahresrechnung (Haushalts- und Vermögensrechnung)
 für den Fonds auf. Eine Übersicht ist der Jahresrechnung des Bundes
 beizufügen.
 
-
 ## § 5 Schlussabrechnung
 
 Mit der vollständigen Verteilung der Mittel endet der Fonds. Die
 Auflösung des Fonds wird im Bundesgesetzblatt bekannt gegeben.
-
 
 ## § 6 Inkrafttreten
 

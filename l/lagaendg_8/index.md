@@ -16,32 +16,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 809
 
-
-
 ## Art I - Änderung von Gesetzen
-
-
 
 ### (XXXX) §§ 1 bis 4
 
-
-
 ## Art II - Vergünstigungen für Staatsangehörige der Vereinten Nationen in Berlin (West)
-
-
 
 ### (XXXX) §§ 5 bis 10
 
-
-
 ## Art III - Überleitungs- und Schlußvorschriften
-
-
 
 ### § 11
 
 -
-
 
 ### § 12 Übergangsregelung bei der Kriegsschadenrente
 
@@ -87,7 +74,6 @@ Lastenausgleichsgesetzes. Bei Anwendung des § 278a des
 Lastenausgleichsgesetzes ist die Abgeltungssumme in voller Höhe auf
 den Anspruch auf Hauptentschädigung anzurechnen.
 
-
 ### § 13 Kosten im verwaltungsgerichtlichen Verfahren bei Klaglosstellung
 
 Soweit eine Partei während eines im Zeitpunkt des Inkrafttretens
@@ -99,11 +85,9 @@ Partei wegen eines solchen Bescheids ein Rechtsmittel zurücknimmt,
 werden Gerichtskosten nicht erhoben; außergerichtliche Kosten werden
 gegeneinander aufgehoben.
 
-
 ### § 14
 
 -
-
 
 ### § 15 Anwendung in Berlin
 
@@ -113,11 +97,9 @@ auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ### § 16 Nichtanwendung im Saarland
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ### § 17 Inkrafttreten
 

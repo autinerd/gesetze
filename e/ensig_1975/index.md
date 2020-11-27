@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 164 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Sicherung der Energieversorgung
 
@@ -77,7 +75,6 @@ Freiheit des einzelnen und der wirtschaftlichen Betätigung so wenig
 wie möglich eingegriffen und die Leistungsfähigkeit der
 Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
 
-
 ## § 2 Internationale Verpflichtungen
 
 (1) Soweit es zur Erfüllung der Verpflichtungen aus dem Übereinkommen
@@ -105,7 +102,6 @@ ist.
 Energieversorgung durch die Beschränkung der Einfuhren oder die
 Verpflichtung zu Ausfuhren von Erdöl und Erdölerzeugnissen gefährdet
 oder gestört wird.
-
 
 ## § 3 Erlaß von Rechtsverordnungen
 
@@ -167,7 +163,6 @@ erforderlich ist. Sie sind unverzüglich aufzuheben oder außer
 Anwendung zu setzen, wenn die Voraussetzungen des Satzes 1 nicht mehr
 vorliegen.
 
-
 ## § 4 Ausführung des Gesetzes
 
 (1) Rechtsverordnungen nach § 1 Abs. 1 Nr. 2 über Meldepflichten und
@@ -221,13 +216,11 @@ den nach Landesrecht zuständigen Stellen, in Bayern, Bremen und
 Nordrhein-Westfalen von der Landesregierung oder den von ihr
 bestimmten Stellen ausgeführt.
 
-
 ## § 5 Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
 
 Widerspruch und Anfechtungsklage gegen Verfügungen, die nach § 10 oder
 auf Grund von Rechtsverordnungen nach den §§ 1 und 2 ergehen, haben
 keine aufschiebende Wirkung.
-
 
 ## § 6 Verwaltungsvorschriften
 
@@ -242,7 +235,6 @@ und Ausfuhrkontrolle (BAFA) oder an die Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen gerichtet
 sind.
 
-
 ## § 7 Einzelweisungen
 
 Das Bundesministerium für Wirtschaft und Technologie kann, soweit die
@@ -251,7 +243,6 @@ den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung
 einer regional ausgeglichenen Versorgung erforderlich ist und die
 Auswirkungen der zu treffenden Maßnahmen sich auf mehr als ein Land
 erstrecken.
-
 
 ## § 8 Mitwirkung von Vereinigungen
 
@@ -268,7 +259,6 @@ genannten Stellen mit deren Zustimmung bedienen. Diese Stellen
 unterstehen insoweit den Weisungen der zuständigen Behörden, die
 Verbände und Zusammenschlüsse insoweit auch deren Aufsicht.
 
-
 ## § 9 Vorbereitung des Vollzugs
 
 Der Bund und die Länder einschließlich der Gemeinden und
@@ -276,7 +266,6 @@ Gemeindeverbände haben die personellen, materiellen und
 organisatorischen Voraussetzungen zur Durchführung der Maßnahmen zu
 schaffen, die für die in § 1 und § 2 bezeichneten Zwecke erforderlich
 sind.
-
 
 ## § 10 Auskünfte
 
@@ -315,7 +304,6 @@ damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren
 Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
 es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
 der für ihn tätigen Personen handelt.
-
 
 ## § 11 Entschädigung
 
@@ -356,7 +344,6 @@ Gerichte nach den Grundsätzen der §§ 34, 49 bis 63 und 65 des
 Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der
 Anforderungsbehörden die in Absatz 3 bezeichneten Stellen.
 
-
 ## § 12 Härteausgleich
 
 (1) Wird durch eine Rechtsverordnung oder Maßnahme im Sinne des § 11
@@ -374,11 +361,9 @@ zu leisten, das die Maßnahme angeordnet hat.
 
 (3) § 11 Abs. 3 und 4 ist entsprechend anzuwenden.
 
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14 Zustellungen
 
@@ -390,7 +375,6 @@ mündliche oder fernmündliche Mitteilung, durch Presse, Rundfunk
 (Hörfunk und Fernsehen), Funkspruch oder in einer sonstigen
 ortsüblichen und geeigneten Weise erfolgen kann. In diesen Fällen gilt
 die Zustellung mit dem auf die Bekanntgabe folgenden Tage als bewirkt.
-
 
 ## § 15 Zuwiderhandlungen
 
@@ -434,10 +418,6 @@ bestraft, wer
     Abs. 1 Nr. 1 genannten Güter zur Erzielung von bedeutenden
     Vermögensvorteilen ausnutzt.
 
-
-
-
-
 ## § 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
@@ -468,13 +448,6 @@ Ordnungswidrigkeiten ist
     b)  soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs.
         5 genannten Stellen.
 
-
-
-
-
-
-
-
 ## § 17 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -482,7 +455,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 18 Inkrafttreten
 

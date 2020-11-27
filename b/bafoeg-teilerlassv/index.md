@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 2.12.2004 I 3127
 
-
 ## Eingangsformel
 
 Auf Grund des § 18b Abs. 1 des Bundesausbildungsförderungsgesetzes in
 der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Prüfungsstelle
 
@@ -33,7 +31,6 @@ privaten Bereich die Einrichtung, die das Gesamtergebnis der
 Abschlußprüfung in einem in sich selbständigen oder ergänzenden
 Ausbildungs- oder Studiengang an einer Höheren Fachschule, Akademie
 oder Hochschule feststellt.
-
 
 ## § 2 Abschlußprüfung
 
@@ -54,7 +51,6 @@ Abschlußprüfung ist eine Abschlußprüfung im Sinne dieser Verordnung,
 nicht dagegen eine Wiederholungsprüfung, die lediglich zum Zwecke der
 Notenverbesserung durchgeführt wird.
 
-
 ## § 3 Prüfungsabsolvent/Geförderter
 
 (1) Prüfungsabsolvent im Sinne dieser Verordnung ist jeder
@@ -65,13 +61,11 @@ hat.
 Dezember 1983 Darlehensleistungen nach dem
 Bundesausbildungsförderungsgesetz erhalten hat.
 
-
 ## § 4 Kalenderjahr
 
 Die Abschlußprüfung ist dem Kalenderjahr zuzurechnen, in dem das
 Gesamtergebnis dieser Prüfung von der Prüfungsstelle festgestellt
 wird. Dies gilt auch für eine angefochtene Prüfungsentscheidung.
-
 
 ## § 5 Vergleichsgruppen
 
@@ -102,7 +96,6 @@ und 6 des Gesetzes eine Vergleichsgruppe aus allen Geförderten zu
 bilden, bei denen das Bestehen oder Nichtbestehen der Abschlußprüfung
 festgestellt worden ist; Absatz 1 Satz 2 und Absatz 2 sind
 entsprechend anzuwenden.
-
 
 ## § 6 Bildung der Rangfolge
 
@@ -138,7 +131,6 @@ in der geringeren Zahl von Fachsemestern abgeschlossen hat, dem
 Prüfungsabsolventen mit der nächst größeren Zahl von Fachsemestern
 vor.
 
-
 ## § 7 Besonderheiten bei der Vergleichsgruppen- und Rangfolgenbildung
 
 (1) In Ausbildungs- oder Studiengängen, in denen als Gesamtergebnis
@@ -166,7 +158,6 @@ berufender Kommission bedienen. Die Bildung der Vergleichsgruppen und
 die Berufung der Kommissionen bedürfen der Zustimmung einer vom Land
 bestimmten Behörde.
 
-
 ## § 8 Ranggleichheit
 
 (1) Besteht in der nach den §§ 6 und 7 gebildeten Rangfolge eine
@@ -179,11 +170,9 @@ Hundert gehörig.
 Geförderten keine ganze Zahl ergeben, sind die 30 vom Hundert auf die
 nächste ganze Zahl aufzurunden.
 
-
 ## § 9
 
 -
-
 
 ## § 10 Anfechtungswirkungen
 
@@ -192,7 +181,6 @@ Entscheidung dazu, daß ein Geförderter den für ein Kalenderjahr
 ermittelten ersten 30 vom Hundert zuzurechnen ist, so wird die
 Zuordnung anderer Geförderter zu den ersten 30 vom Hundert dadurch
 nicht berührt.
-
 
 ## § 11 Auskunftspflichten
 
@@ -223,7 +211,6 @@ Mitteilungspflicht nach Absatz 4 hinzuweisen.
 (4) Kommt ein Prüfungsteilnehmer seiner Mitteilungspflicht nach Absatz
 2 Satz 1 nicht nach, so ist er auf Dauer von einer ihm günstigen
 Berücksichtigung als Geförderter ausgeschlossen.
-
 
 ## § 12 Festlegung der Rangfolge
 
@@ -257,11 +244,9 @@ nicht vertretbar ist.
 
 (5) Über den Darlehensteilerlaß entscheidet das Bundesverwaltungsamt.
 
-
 ## § 13
 
 -
-
 
 ## § 14 Übergangsregelung
 
@@ -277,20 +262,17 @@ Approbationsordnungen für die einzelnen Prüfungsabschnitte zur
 Gesamtnotenbildung festgesetzten Multiplikations-, Divisions- und
 Additionswerten ergibt.
 
-
 ## § 15 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
 Land Berlin.
 
-
 ## § 16 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1984 mit der Maßgabe in Kraft, daß
 sie für alle nach dem 31. Dezember 1983 abgeschlossenen
 Abschlußprüfungen anzuwenden ist.
-
 
 ## § 17
 

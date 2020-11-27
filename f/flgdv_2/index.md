@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 94 G v. 22.12.2011 I 3044
 
-
 ## § 1 Antrag auf Zulassung als Klassifizierungsunternehmen
 
 (1) Der Antrag auf Zulassung als Klassifizierungsunternehmen ist bei
@@ -38,7 +37,6 @@ gerechtfertigt ist. Die Fristverlängerung ist zu begründen und
 rechtzeitig mitzuteilen.
 
 (2) Der Zulassungsbescheid ergeht schriftlich.
-
 
 ## § 2 Antragsinhalt
 
@@ -98,7 +96,6 @@ antragstellenden Unternehmen beschäftigten Personen zu führen.
 vom antragstellenden Unternehmen weitere Angaben fordern, soweit dies
 zur Entscheidung über den Antrag erforderlich ist.
 
-
 ## § 3 Unabhängigkeit von Klassifizierungsunternehmen
 
 (1) Ein Klassifizierungsunternehmen ist insbesondere dann nicht
@@ -135,7 +132,6 @@ Klassifizierungsgerät erhobenen Daten sowie auf alle sonstigen vom
 Klassifizierer im Zusammenhang mit seiner Tätigkeit erhobenen Daten
 haben.
 
-
 ## § 4 Beschränkungen der Zulassung von Klassifizierungsunternehmen
 
 (1) Die Zulassung wird für das gesamte Bundesgebiet erteilt.
@@ -151,7 +147,6 @@ Klassifizierung ordnungsgemäß durchführen kann.
 (3) Die Zulassung kann mit zusätzlichen Auflagen versehen werden.
 Auflagen können auch nachträglich aufgenommen, ergänzt oder geändert
 werden.
-
 
 ## § 5 Zulassung von Klassifizierern
 
@@ -186,7 +181,6 @@ Die Zulassung erfolgt nur für die Gerätegruppen und Gerätetypen, mit
 denen der Klassifizierer die jeweilige praktische Prüfung bestanden
 hat. Bei Gerätetypen mit Einzelzulassung ist für jeden Gerätetyp eine
 gesonderte Sachkundeprüfung erforderlich.
-
 
 ## § 6 Zulassungsantrag
 
@@ -233,7 +227,6 @@ Führungszeugnis zur Vorlage bei der für die Zulassung zuständigen
 Behörde zu beantragen und eine Kopie oder Ablichtung dieses Antrages
 dem Antrag nach Absatz 1 beizufügen.
 
-
 ## § 7 Ausbildung und Sachkundeprüfung der Klassifizierer
 
 (1) Die Sachkundeprüfung nach § 4 Abs. 2 des Fleischgesetzes besteht
@@ -242,7 +235,6 @@ umfasst die in Anlage 1 aufgeführten Inhalte.
 
 (2) Der Ausbildungskurs nach § 4 Abs. 3 des Fleischgesetzes umfasst
 mindestens die in Anlage 2 aufgeführten Inhalte.
-
 
 ## § 8 Prüfungskommission
 
@@ -255,14 +247,12 @@ kann nur bestellt werden, wer über mindestens dreijährige Erfahrungen
 in der Durchführung oder Überwachung der Klassifizierung von
 Schlachtkörpern verfügt.
 
-
 ## § 9 Prüfungstermine und Anmeldung zur Prüfung
 
 Die zuständige Behörde bestimmt die Termine für die Durchführung der
 Sachkundeprüfung nach Bedarf. Die zuständige Behörde gibt die Termine
 und die Anmeldefristen in geeigneter Form rechtzeitig öffentlich
 bekannt.
-
 
 ## § 10 Durchführung der Sachkundeprüfung
 
@@ -294,13 +284,11 @@ sein. Diese Fragen müssen mindestens vier Antwortvorschläge, von denen
 mindestens einer richtig sein muss, enthalten. Die Fragen werden von
 der zuständigen Behörde entworfen.
 
-
 ## § 11 Rücktritt, Nichtteilnahme
 
 Tritt der Prüfungsbewerber von der Prüfung zurück oder nimmt er an der
 Prüfung nicht teil, ohne dass ein wichtiger Grund vorliegt, so gilt
 die Prüfung als nicht bestanden.
-
 
 ## § 12 Prüfungsergebnis und Prüfungszeugnis
 
@@ -314,13 +302,11 @@ Zeugnis über das Ergebnis der Sachkundeprüfung. Bei nicht bestandener
 Sachkundeprüfung ist der Prüfungsteilnehmer auf die Vorschriften über
 die Wiederholungsprüfung nach § 13 hinzuweisen.
 
-
 ## § 13 Wiederholung der Sachkundeprüfung
 
 Eine nicht bestandene Sachkundeprüfung kann höchstens zweimal
 wiederholt werden. Die Sachkundeprüfung kann frühestens zum nächsten
 Prüfungstermin wiederholt werden.
-
 
 ## § 14 Zulassungsurkunde, Klassifiziererausweis, personenbezogener Stempel, Belehrung
 
@@ -360,7 +346,6 @@ Klassifizierer erhält eine Durchschrift des Nachweises. Der Nachweis
 ist für die gesamte Dauer der Tätigkeit des Klassifizierers
 aufzubewahren. § 12 Abs. 5 des Fleischgesetzes ist anzuwenden.
 
-
 ## § 15 Fortbildungskurs, Fortbildungsprüfung
 
 (1) Der Fortbildungskurs nach § 4 Abs. 4 des Fleischgesetzes bezieht
@@ -385,11 +370,9 @@ Zeitraum von mehr als zwei Jahren nicht an einem Fortbildungskurs
 teilgenommen, darf er seine Tätigkeit erst wieder ausüben, nachdem er
 eine erneute Sachkundeprüfung bestanden hat.
 
-
 ## § 16 Übergangsregelung
 
 § 3 Abs. 3 ist erst ab dem 1. November 2009 anzuwenden.
-
 
 ## Anlage 1 (zu § 7 Abs. 1 und § 12 Abs. 1) Sachkundeprüfung
 
@@ -465,9 +448,6 @@ B.  Verwiegung/Schnittführung
     Durchführungsverordnung zu erläutern. Sofern der Prüfungsteilnehmer
     die Schnittführung nicht fehlerfrei erklären kann, ist die Prüfung
     nicht bestanden.
-
-
-
 
 ## Teil 2
 
@@ -651,10 +631,6 @@ B.  Verwiegung/Schnittführung
     Durchführungsverordnung zu erläutern. Sofern der Prüfungsteilnehmer
     die Schnittführung nicht fehlerfrei erklären kann, ist die Prüfung
     nicht bestanden.
-
-
-
-
 
 ## Anlage 2 (zu § 7 Abs. 2 und § 15 Abs. 1) Inhalt des Ausbildungskurses
 

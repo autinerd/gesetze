@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 1459
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -24,7 +22,6 @@ Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
 Änderung des Berufsbildungsgesetzes vom 12. März 1971 (Bundesgesetzbl.
 I S. 185), wird im Einvernehmen mit dem Bundesminister für Arbeit und
 Sozialordnung verordnet:
-
 
 ## § 1 Aufhebung von Ausbildungsberufen
 
@@ -323,10 +320,6 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 98. Zuckerbäcker.
 
-
-
-
-
 ## § 2 Besitzstandswahrung
 
 Personen, die vor Inkrafttreten der Verordnung in einem der in § 1
@@ -335,23 +328,19 @@ des Inkrafttretens der Verordnung darin ausgebildet werden und diese
 Berufsausbildung gemäß § 25 Abs. 3 des Berufsbildungsgesetzes
 fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
 
-
 ## § 3 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 112 des
 Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

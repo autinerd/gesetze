@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 1322
 
-
-
 ## (XXXX)
 
 Auf Grund des Artikels 31 § 5 Abs. 7 des Gesetzes zu dem Vertrag vom
@@ -34,7 +32,6 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 651-1, veröffentlichten
 bereinigten Fassung gleichzusetzen sind.
 Die Schatzanweisungen können somit in das Schuldbuch eingetragen
 werden.
-
 
 ## Schlussformel
 

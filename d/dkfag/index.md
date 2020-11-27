@@ -18,11 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 Abs. 7 G v. 13.12.2007 I 2897
 
-
 ## § 1
 
 -
-
 
 ## § 2 Regelung zur Besitzstandswahrung, Nachversicherung
 

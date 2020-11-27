@@ -26,12 +26,10 @@ Zuletzt geändert durch
     zuletzt durch die Richtlinie 2006/96/EG vom 20. November 2006 (ABl. L
     363 vom 20.12.2006, S. 81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Zweck
 
@@ -56,10 +54,6 @@ Zweck dieses Gesetzes ist es,
     die Sachbereiche dieses Gesetzes, insbesondere über den Verkehr mit
     oder die Anwendung von Düngemitteln betreffen, umzusetzen oder
     durchzuführen.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -163,7 +157,6 @@ Dem Inverkehrbringen im Sinne des Satzes 1 Nr. 10 stehen das
 Verbringen in den Geltungsbereich dieses Gesetzes zur Abgabe an andere
 sowie die Abgabe zwischen Mitgliedern innerhalb von
 Personenvereinigungen gleich.
-
 
 ## § 3 Anwendung
 
@@ -295,7 +288,6 @@ abweichende Regelung zu treffen, soweit hierfür ein berechtigtes
 Interesse besteht und Gesundheitsschäden bei Menschen und Tieren oder
 Gefährdungen des Naturhaushalts nicht zu befürchten sind.
 
-
 ## § 4 Mitwirkungshandlungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -306,7 +298,6 @@ bezüglich des Inverkehrbringens, des Herstellens, des Beförderns, der
 soweit dies erforderlich ist, um die Einhaltung des § 3 Abs. 1 und 2,
 auch in Verbindung mit einer Rechtsverordnung nach Absatz 3,
 sicherzustellen.
-
 
 ## § 5 Inverkehrbringen
 
@@ -443,7 +434,6 @@ wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die Ermächtigung nach Satz 1 ganz oder teilweise auf die
 Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
-
 ## § 6 EG-Düngemittel
 
 Düngemittel dürfen mit der Bezeichnung „EG-Düngemittel“ nur in den
@@ -453,7 +443,6 @@ Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl.
 EU Nr. L 304 S. 1), die zuletzt durch die Verordnung (EG) Nr. 162/2007
 der Kommission vom 19. Februar 2007 (ABl. EU Nr. L 51 S. 7) geändert
 worden ist, festgelegt worden ist.
-
 
 ## § 7 Kennzeichnung, Verpackung
 
@@ -505,10 +494,6 @@ Satz 1 können insbesondere folgende Angaben vorgeschrieben werden:
     Düngemittel, der Bodenhilfsstoff, das Pflanzenhilfsmittel oder das
     Kultursubstrat in den Verkehr gebracht worden ist.
 
-
-
-
-
 ## § 8 Toleranzen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
@@ -520,7 +505,6 @@ Unsicherheiten bei der Herstellung, der Probenahme und der Analyse
 aufzufangen.
 
 (2) Die Toleranzen dürfen nicht planmäßig ausgenutzt werden.
-
 
 ## § 9 Probenahmeverfahren, Analysemethoden
 
@@ -537,7 +521,6 @@ Gemeinschaft oder der Europäischen Union oder auf Veröffentlichungen
 allgemein anerkannter Probenahmeverfahren und Analysemethoden unter
 Angabe der Bezugsquelle ersetzt werden.
 
-
 ## § 10 Wissenschaftlicher Beirat
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
@@ -549,7 +532,6 @@ und der Seuchenhygiene durch Wissenschaftler, die auf diesen Gebieten
 tätig sind, vertreten sein. In der Rechtsverordnung nach Satz 1 kann
 das Nähere über die Zusammensetzung des Beirats, die Berufung der
 Mitglieder sowie die Geschäftsordnung geregelt werden.
-
 
 ## § 11 Klärschlamm-Entschädigungsfonds
 
@@ -620,7 +602,6 @@ Rechtsverordnung dem Bundesrat zugeleitet. Soweit die Rechtsverordnung
 auf Grund des Beschlusses des Bundesrates geändert wird, bedarf es
 einer erneuten Zuleitung an den Bundestag nicht.
 
-
 ## § 12 Überwachung
 
 (1) Die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund
@@ -684,7 +665,6 @@ Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen der
 Landes, den zuständigen Behörden anderer Länder, des Bundes oder
 anderer Mitgliedstaaten oder der Europäische Kommission mitteilen.
 
-
 ## § 13 Behördliche Anordnungen
 
 Die zuständige Behörde kann die zur Beseitigung festgestellter
@@ -716,10 +696,6 @@ notwendigen Anordnungen treffen. Sie kann insbesondere
     oder die auf die Rückgabe eines in den Verkehr gebrachten Stoffes nach
     § 2 Nr. 1 oder 6 bis 8 abzielt, der den Verbraucher oder den Verwender
     bereits erreicht hat oder erreicht haben könnte (Rückruf).
-
-
-
-
 
 ## § 14 Bußgeldvorschriften
 
@@ -781,7 +757,6 @@ bis zu zweitausendfünfhundert Euro, geahndet werden.
 (4) Düngemittel und Stoffe, auf die sich eine Ordnungswidrigkeit nach
 Absatz 2 Nr. 1 Buchstabe c oder Nr. 2 bezieht, können eingezogen
 werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
-
 
 ## § 15 Rechtsverordnungen in bestimmten Fällen
 
@@ -852,7 +827,6 @@ Rechtsverordnungen ermächtigt, sind diese befugt,
 Im Falle des Satzes 1 in Verbindung mit Satz 2 Nr. 2 gilt § 3 Abs. 4
 entsprechend.
 
-
 ## § 16 Ermächtigung zur Aufhebung von Rechtsvorschriften
 
 Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass von
@@ -860,7 +834,6 @@ Rechtsverordnungen des Bundes fortgefallen sind, können Vorschriften,
 die auf solche Ermächtigungen gestützt sind, durch Rechtsverordnung
 des Bundesministeriums ohne Zustimmung des Bundesrates aufgehoben
 werden.
-
 
 ## § 17 Übergangsregelung
 
@@ -874,7 +847,6 @@ November 1977 (BGBl. I S. 2134), das zuletzt durch Artikel 6 des
 Gesetzes vom 9. Dezember 2006 (BGBl. I S. 2819; 2007 I S. 195)
 geändert worden ist, weiter anzuwenden. Das Bundesministerium gibt den
 Tag nach Satz 1 im Bundesgesetzblatt bekannt.
-
 
 ## § 18 Inkrafttreten, Außerkrafttreten
 

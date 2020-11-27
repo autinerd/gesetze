@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 78 Abs. 2 G v. 23.11.2007 I 2614
 
-
 ## Teil I - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich der Verordnung
 
@@ -58,17 +55,11 @@ ist. Das gleiche gilt, wenn in anderen Rechtsvorschriften die
 Anwendung der Ersten Berechnungsverordnung vorgeschrieben oder
 vorausgesetzt ist.
 
-
 ### (XXXX) §§ 1a bis 1d (weggefallen)
-
 
 ## Teil II - Wirtschaftlichkeitsberechnung
 
-
-
 ### Erster Abschnitt - Gegenstand, Gliederung und Aufstellung der Berechnung
-
-
 
 #### § 2 Gegenstand der Berechnung
 
@@ -153,7 +144,6 @@ Weise maßgebend, wie sie für alle bisherigen öffentlich geförderten
 Wohnungen des Gebäudes oder der Wirtschaftseinheit maßgebend gewesen
 wäre.
 
-
 #### § 3 Gliederung der Berechnung
 
 Die Wirtschaftlichkeitsberechnung muß enthalten
@@ -168,10 +158,6 @@ Die Wirtschaftlichkeitsberechnung muß enthalten
 
 
 4.  die laufenden Aufwendungen und die Erträge.
-
-
-
-
 
 #### § 4 Maßgebende Verhältnisse für die Aufstellung der Berechnung
 
@@ -204,7 +190,6 @@ Mittel bestanden haben.
 (4) Im steuerbegünstigten Wohnungsbau ist die
 Wirtschaftlichkeitsberechnung nach den Verhältnissen bei
 Bezugsfertigkeit aufzustellen.
-
 
 #### § 4a Berücksichtigung von Änderungen bei Aufstellung der Berechnung
 
@@ -271,7 +256,6 @@ es in dieser Verordnung vorgeschrieben oder zugelassen ist.
 Verordnung nicht zulässig ist, bleiben die Verhältnisse im Zeitpunkt
 nach § 4 maßgebend.
 
-
 #### § 4b Berechnung für steuerbegünstigten Wohnraum, der mit Aufwendungszuschüssen oder Aufwendungsdarlehen gefördert ist
 
 (1) Ist die Wirtschaftlichkeit für steuerbegünstigte Wohnungen, die
@@ -287,7 +271,6 @@ Darlehen oder einem Zuschuß aus Wohnungsfürsorgemitteln gefördert
 worden, so sind die Vorschriften für steuerbegünstigte Wohnungen mit
 den Maßgaben aus § 6 Abs. 1 Satz 4 und § 20 Abs. 3 anzuwenden.
 
-
 #### § 4c Berechnung des angemessenen Kaufpreises aus den Gesamtkosten
 
 Ist in Fällen des § 1 Abs. 1 Nr. 1 oder Nr. 3 der angemessene
@@ -300,10 +283,7 @@ Wohnungsgemeinnützigkeitsgesetz nichts anderes ergibt. Im übrigen sind
 die Gesamtkosten, die Kosten des Baugrundstücks und die Baukosten nach
 den §§ 5 bis 11a zu ermitteln.
 
-
 ### Zweiter Abschnitt - Berechnung der Gesamtkosten
-
-
 
 #### § 5 Gliederung der Gesamtkosten
 
@@ -358,7 +338,6 @@ angesetzt, so ist er unter den Baukosten gesondert auszuweisen.
 
 (5) Der Ermittlung der Gesamtkosten ist die dieser Verordnung
 beigefügte Anlage 1 "Aufstellung der Gesamtkosten" zugrunde zu legen.
-
 
 #### § 6 Kosten des Baugrundstücks
 
@@ -436,10 +415,6 @@ Erschließungskosten höchstens angesetzt werden
     Anrechnung nicht auf Umständen beruht, die in dem nach Nummer 1
     angesetzten Wert des Grundstücks berücksichtigt sind.
 
-
-
-
-
 #### § 7 Baukosten
 
 (1) Baukosten dürfen nur angesetzt werden, soweit sie tatsächlich
@@ -474,7 +449,6 @@ entsprechend anzuwenden.
 (3) Bei Wiederherstellung, Ausbau eines Gebäudeteils und Erweiterung
 darf der Wert der verwendeten Gebäudeteile nur nach dem Fünften
 Abschnitt angesetzt werden.
-
 
 #### § 8 Baunebenkosten
 
@@ -642,7 +616,6 @@ Bauzeit bis zur Bezugsfertigkeit entfallen.
 (9) Auf die Eigenkapitalkosten in der Bauzeit ist § 20 entsprechend
 anzuwenden. § 6 Abs. 1 Satz 3 bleibt unberührt.
 
-
 #### § 9 Sach- und Arbeitsleistungen
 
 (1) Der Wert der Sach- und Arbeitsleistungen des Bauherrn, vor allem
@@ -666,7 +639,6 @@ Bewerber oder der Mieter Sach- und Arbeitsleistungen mit eigenen
 Arbeitnehmern im Rahmen seiner gewerblichen oder unternehmerischen
 Tätigkeit oder auf Grund seines Berufes erbringt.
 
-
 #### § 10 Leistungen gegen Renten
 
 (1) Sind als Entgelt für eine der Vorbereitung oder Durchführung des
@@ -685,7 +657,6 @@ Gesamtkosten angesetzt werden,
 
 
 (2) Absatz 1 gilt nicht für die Bestellung eines Erbbaurechts.
-
 
 #### § 11 Änderung der Gesamtkosten, bauliche Änderungen
 
@@ -777,7 +748,6 @@ Wohnungsbau nur berücksichtigt werden, wenn die Bewilligungsstelle ihr
 zugestimmt hat. Die Zustimmung gilt als erteilt, wenn Mittel aus
 öffentlichen Haushalten für die Modernisierung bewilligt worden sind.
 
-
 #### § 11a Nicht feststellbare Gesamtkosten
 
 Sind die Bau-, Erwerbs- oder Erschließungskosten nach § 6 Abs. 4 und
@@ -790,10 +760,7 @@ Kosten des umbauten Raumes bei Hochbauten berechnet werden. Bei der
 Berechnung des umbauten Raumes ist die Anlage 2 dieser Verordnung
 zugrunde zu legen.
 
-
 ### Dritter Abschnitt - Finanzierungsplan
-
-
 
 #### § 12 Inhalt des Finanzierungsplanes
 
@@ -864,7 +831,6 @@ die der Bauherr nicht zu vertreten hat, und von dem Zeitpunkt an als
 eingetreten, zu dem der Bescheid über die Zuerkennung des Anspruchs
 auf Hauptentschädigung unanfechtbar geworden ist.
 
-
 #### § 13 Fremdmittel
 
 (1) Fremdmittel sind
@@ -899,7 +865,6 @@ Rentenschulden, dürfen höchstens mit dem Betrage ausgewiesen werden,
 der bei den Gesamtkosten für die Gegenleistung nach § 10 angesetzt
 ist.
 
-
 #### § 14 Verlorene Baukostenzuschüsse
 
 Verlorene Baukostenzuschüsse sind Geld-, Sach- und Arbeitsleistungen
@@ -912,7 +877,6 @@ Verlorene Baukostenzuschüsse sind auch Geldleistungen, mit denen die
 Gemeinde dem Eigentümer Kosten der Modernisierung erstattet oder die
 ihm vom Land oder von der Gemeinde als Modernisierungszuschüsse
 gewährt werden.
-
 
 #### § 15 Eigenleistungen
 
@@ -953,7 +917,6 @@ Gesamtkosten angesetzt ist.
 und die in § 13 Abs. 2 bezeichneten Verbindlichkeiten mit dem Betrage
 abzuziehen, mit dem sie im Finanzierungsplan als Fremdmittel
 ausgewiesen sind.
-
 
 #### § 16 Ersatz der Eigenleistung
 
@@ -1002,15 +965,11 @@ Ersatz der Eigenleistung anerkennen
 Finanzierungsmittel gelten im übrigen die Vorschriften für Fremdmittel
 oder verlorene Baukostenzuschüsse.
 
-
 #### § 17
 
 (weggefallen)
 
-
 ### Vierter Abschnitt - Laufende Aufwendungen und Erträge
-
-
 
 #### § 18 Laufende Aufwendungen
 
@@ -1055,7 +1014,6 @@ Deckung der für Finanzierungsmittel zu entrichtenden Tilgungen
 bewilligt worden sind, können für das Ersatzfinanzierungsmittel
 Tilgungsbeträge nicht angesetzt werden.
 
-
 #### § 19 Kapitalkosten
 
 (1) Kapitalkosten sind die Kosten, die sich aus der Inanspruchnahme
@@ -1077,7 +1035,6 @@ unzulässig.
 Entstehen sicher gerechnet werden kann, die aber bis zur
 Bezugsfertigkeit nicht entstanden sind, dürfen Kapitalkosten hierfür
 nicht vor dem Entstehen dieser Gesamtkosten angesetzt werden.
-
 
 #### § 20 Eigenkapitalkosten
 
@@ -1106,7 +1063,6 @@ Wohnungsbaugesetzes aufzustellen, so dürfen die Zinsen für die
 Eigenleistungen nach dem Zinssatz angesetzt werden, der mit dem
 Darlehns- oder Zuschußgeber vereinbart ist, mindestens jedoch
 entsprechend Absatz 2 Satz 2.
-
 
 #### § 21 Fremdkapitalkosten
 
@@ -1158,7 +1114,6 @@ bei einem Erbbaurecht höchstens der im Zeitpunkt nach § 4 maßgebende
 Verkehrswert des Baugrundstücks, abzüglich eines einmaligen Entgeltes
 nach § 5 Abs. 2 Satz 3, zugrunde zu legen.
 
-
 #### § 22 Zinsersatz bei erhöhten Tilgungen
 
 (1) Bei unverzinslichen Fremdmitteln, deren Tilgungssatz 1 vom Hundert
@@ -1204,7 +1159,6 @@ dem 1. Januar 1971 zulässige Ansatz unter Berücksichtigung aller
 Umstände des Einzelfalles für den Vermieter zu einer unbilligen Härte
 führen würde. Dem Ansatz von Zinsersatz für Mietvorauszahlungen oder
 Mieterdarlehen darf nicht zugestimmt werden.
-
 
 #### § 23 Änderung der Kapitalkosten
 
@@ -1284,7 +1238,6 @@ steuerbegünstigten und freifinanzierten Wohnungsbau, der mit
 Wohnungsfürsorgemitteln gefördert worden ist, nur unter entsprechender
 Anwendung des § 20 Abs. 3 angesetzt werden.
 
-
 #### § 23a Marktüblicher Zinssatz für erste Hypotheken
 
 (1) Der marktübliche Zinssatz für erste Hypotheken im Zeitpunkt nach §
@@ -1306,7 +1259,6 @@ Anwendung des § 20 Abs. 3 angesetzt werden.
 
 (2) Absatz 1 gilt sinngemäß, wenn der marktübliche Zinssatz für einen
 anderen Zeitpunkt als den nach § 4 festzustellen ist.
-
 
 #### § 24 Bewirtschaftungskosten
 
@@ -1342,7 +1294,6 @@ einer bestimmten Höhe zugelassen sind, dürfen Bewirtschaftungskosten
 bis zu dieser Höhe angesetzt werden, es sei denn, daß der Ansatz im
 Einzelfall unter Berücksichtigung der jeweiligen Verhältnisse nicht
 angemessen ist.
-
 
 #### § 25 Abschreibung
 
@@ -1421,10 +1372,6 @@ Wirtschaftlichkeitsberechnung enthaltenen Kosten
 
     *   9 vom Hundert.
 
-
-
-
-
 #### § 26 Verwaltungskosten
 
 (1) Verwaltungskosten sind die Kosten der zur Verwaltung des Gebäudes
@@ -1453,7 +1400,6 @@ Veränderung am 1. Januar 2005 ist die Erhöhung oder Verringerung des
 Verbraucherpreisindexes für Deutschland maßgeblich, die im Oktober
 2004 gegenüber dem Oktober 2001 eingetreten ist.
 
-
 #### § 27 Betriebskosten
 
 (1) Betriebskosten sind die Kosten, die dem Eigentümer
@@ -1477,7 +1423,6 @@ Betriebskosten nicht in der Wirtschaftlichkeitsberechnung angesetzt
 werden.
 
 (4) (weggefallen)
-
 
 #### § 28 Instandhaltungskosten
 
@@ -1547,7 +1492,6 @@ Pauschbetrag neben den vorstehenden Sätzen angesetzt werden.
 (7) Kosten eigener Instandhaltungswerkstätten sind mit den
 vorstehenden Sätzen abgegolten.
 
-
 #### § 29 Mietausfallwagnis
 
 Mietausfallwagnis ist das Wagnis einer Ertragsminderung, die durch
@@ -1559,7 +1503,6 @@ höchstens mit 2 vom Hundert der Erträge im Sinne des § 31 Abs. 1 Satz
 1 angesetzt werden. Soweit die Deckung von Ausfällen anders,
 namentlich durch einen Anspruch auf Erstattung gegenüber einem
 Dritten, gesichert ist, darf kein Mietausfallwagnis angesetzt werden.
-
 
 #### § 30 Änderung der Bewirtschaftungskosten
 
@@ -1606,7 +1549,6 @@ hinzugerechnet werden. Für die entstehenden Abschreibungen und
 Instandhaltungskosten gelten die §§ 25 und 28 Abs. 2 bis 6
 entsprechend.
 
-
 #### § 31 Erträge
 
 (1) Erträge sind die Einnahmen aus Miet- und Pachtverträgen sowie
@@ -1628,10 +1570,7 @@ auszuweisen. Aus dem nach Abzug der Vergütungen verbleibenden Betrag
 ist die Miete nach den für ihre Ermittlung maßgebenden Vorschriften zu
 berechnen.
 
-
 ### Fünfter Abschnitt - Besondere Arten der Wirtschaftlichkeitsberechnung
-
-
 
 #### § 32 Voraussetzungen für besondere Arten der Wirtschaftlichkeitsberechnung
 
@@ -1721,17 +1660,12 @@ späteren Wirtschaftlichkeitsberechnungen maßgebend.
 3.  bei den Teilberechnungen der laufenden Aufwendungen die sich aus § 38
     ergebenden Besonderheiten.
 
-
-
-
-
 #### § 33 Teilwirtschaftlichkeitsberechnung
 
 In der Teilwirtschaftlichkeitsberechnung ist die Gegenüberstellung der
 laufenden Aufwendungen und der Erträge auf den Teil des Gebäudes oder
 der Wirtschaftseinheit zu beschränken, der den Wohnraum enthält, für
 den die Berechnung aufzustellen ist.
-
 
 #### § 34 Gesamtkosten in der Teilwirtschaftlichkeitsberechnung
 
@@ -1774,7 +1708,6 @@ zu neuen Wohnungen ausgebaut werden. Kosten des Baugrundstücks dürfen
 bei Ausbau nicht, bei Erweiterung nur dann angesetzt werden, wenn das
 Grundstück für einen Anbau neu erworben worden ist.
 
-
 #### § 35 Finanzierungsmittel in der Teilwirtschaftlichkeitsberechnung
 
 In der Teilwirtschaftlichkeitsberechnung sind zur Deckung der
@@ -1783,7 +1716,6 @@ für den Teil des Gebäudes oder der Wirtschaftseinheit bestimmt sind,
 der Gegenstand der Berechnung ist, in voller Höhe im Finanzierungsplan
 auszuweisen. Die anderen Finanzierungsmittel sind angemessen zu
 verteilen.
-
 
 #### § 36 Laufende Aufwendungen und Erträge in der Teilwirtschaftlichkeitsberechnung
 
@@ -1809,7 +1741,6 @@ und 2 angesetzt werden.
 auszuweisen, die sich für den Teil des Gebäudes oder der
 Wirtschaftseinheit, der Gegenstand der Berechnung ist, nach § 31
 ergeben.
-
 
 #### § 37 Gesamtwirtschaftlichkeitsberechnung
 
@@ -1842,7 +1773,6 @@ Verteilungsmaßstab vorgenommen worden ist oder wenn
 Bewirtschaftungskosten für Geschäftsraum nicht oder nur in geringerer
 Höhe in Anspruch genommen oder anerkannt worden sind oder wenn auf
 Ansätze ganz oder teilweise verzichtet worden ist.
-
 
 #### § 38 Teilberechnungen der laufenden Aufwendungen
 
@@ -1892,7 +1822,6 @@ werden und für den begünstigten Wohnraum höhere Fremdmittel dieser Art
 ausgewiesen sind als für den anderen Wohnraum; Absatz 2 ist in diesem
 Falle nicht anzuwenden.
 
-
 #### § 39 Vereinfachte Wirtschaftlichkeitsberechnung
 
 (1) In der vereinfachten Wirtschaftlichkeitsberechnung ist die
@@ -1922,7 +1851,6 @@ aus einer Wirtschaftlichkeitsberechnung muß enthalten
 Berechnung einer Mieterhöhung nach § 10 Abs. 1 des
 Wohnungsbindungsgesetzes aufgestellt wird. Aus dem Auszug muß auch die
 Erhöhung der einzelnen laufenden Aufwendungen erkennbar werden.
-
 
 #### § 39a Zusatzberechnung
 
@@ -1964,10 +1892,7 @@ gegenüberzustellen.
 geförderten Wohnungen zu ermitteln, so ist eine Zusatzberechnung nach
 Absatz 3 Satz 2 aufzustellen.
 
-
 ## Teil III - Lastenberechnung
-
-
 
 ### § 40 Lastenberechnung
 
@@ -1984,7 +1909,6 @@ dienender Wohnraum unter Einsatz öffentlicher Mittel geschaffen, ist
 hierfür eine Teilwirtschaftlichkeitsberechnung aufzustellen. Die
 Regelungen des § 32 Abs. 4a und des § 34 Abs. 4 sind entsprechend
 anzuwenden.
-
 
 ### § 40a Aufstellung der Lastenberechnung durch den Bauherrn
 
@@ -2045,7 +1969,6 @@ bis 15 entsprechend. § 12 Abs. 4 Satz 2 gilt dabei mit der Maßgabe,
 daß anstelle der Erhöhung der Kapitalkosten die Erhöhung der
 Kapitalkosten und Tilgungen zu berücksichtigen ist.
 
-
 ### § 40b Aufstellung der Lastenberechnung durch den Erwerber
 
 (1) Hat der Eigentümer das Gebäude oder die Wohnung auf Grund eines
@@ -2072,7 +1995,6 @@ berücksichtigen ist.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Aufstellung der
 Lastenberechnung durch einen Bewerber nach § 40 Satz 2.
-
 
 ### § 40c Ermittlung der Belastung
 
@@ -2108,7 +2030,6 @@ der Miet- oder Nutzungswert der Räume, die von demjenigen, dessen
 Belastung zu ermitteln ist, ausschließlich zu anderen als Wohnzwecken
 oder als Garagen benutzt werden, sowie der von ihm gewerblich
 benutzten Flächen.
-
 
 ### § 40d Belastung aus dem Kapitaldienst
 
@@ -2171,7 +2092,6 @@ ergibt.
 Finanzierungsplan ausgewiesen sind, Kapitalkosten oder Tilgungen nicht
 mehr zu entrichten sind, dürfen diese nicht angesetzt werden.
 
-
 ### § 41 Belastung aus der Bewirtschaftung
 
 (1) Zu der Belastung aus der Bewirtschaftung gehören
@@ -2230,13 +2150,7 @@ dürfen als Betriebskosten außerdem angesetzt werden
 
 3.  Kosten für den Hauswart.
 
-
-
-
-
 ## Teil IV - Wohnflächenberechnung
-
-
 
 ### § 42 Wohnfläche
 
@@ -2248,20 +2162,15 @@ Wohnfläche erforderlich machen, sind die Vorschriften der
 Wohnflächenverordnung vom 25. November 2003 (BGBl. I S. 2346)
 anzuwenden.
 
-
 ### § 43
 
 (weggefallen)
-
 
 ### § 44
 
 (weggefallen)
 
-
 ## Teil V - Schluß- und Überleitungsvorschriften
-
-
 
 ### § 45 Befugnisse des Bauherrn und seines Rechtsnachfolgers
 
@@ -2274,7 +2183,6 @@ ergibt, befugt, die Wahl vorzunehmen oder den Rahmen auszufüllen.
 seinem Rechtsnachfolger zu. Soweit der Bauherr nach dieser Verordnung
 Umstände zu vertreten hat, hat sie auch der Rechtsnachfolger zu
 vertreten.
-
 
 ### § 46 Überleitungsvorschriften
 
@@ -2298,16 +2206,13 @@ Teilwirtschaftlichkeitsberechnungen vor dem 29. August 1990
 aufgestellt worden, sind die Regelung der §§ 32, 34 und 40 in der bis
 zum 29. August 1990 geltenden Fassung anzuwenden.
 
-
 ### § 47
 
 (weggefallen)
 
-
 ### § 48
 
 (weggefallen)
-
 
 ### § 48a Berlin-Klausel
 
@@ -2317,16 +2222,13 @@ Wohnungsbaugesetzes und Artikel X § 10 des Gesetzes über den Abbau der
 Wohnungszwangswirtschaft und über ein soziales Miet- und Wohnungsrecht
 auch im Land Berlin.
 
-
 ### § 49 Geltung im Saarland
 
 Diese Verordnung gilt nicht im Saarland.
 
-
 ### § 50
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 5 Abs. 5) Aufstellung der Gesamtkosten
 
@@ -2544,10 +2446,6 @@ Zu den Baukosten gehören:
     die Kosten für Wirtschaftsausstattungen bei Kleinsiedlungen usw., z.
     B. Ackergerät, Dünger, Kleinvieh, Obstbäume, Saatgut.
 
-
-
-
-
 ### Anlage 2 (zu den §§ 11a und 34 Abs. 1) Berechnung des umbauten Raumes
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 2200)
@@ -2635,7 +2533,6 @@ der mehr als 1 m über den Dachfirst hinausragt,
 Gründungen außergewöhnlicher Tiefe, deren Unterfläche
 tiefer liegt als im Abschnitt 1.344 angegeben,
 1\.49  wasserdruckhaltende Dichtungen.
-
 
 ### Anlage 3
 

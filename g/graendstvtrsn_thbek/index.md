@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 215
 
-
-
 ## (XXXX)
 
 Zwischen dem Freistaat Sachsen und dem Land Thüringen wurde am 11.

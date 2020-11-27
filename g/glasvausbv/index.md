@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 661
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -29,7 +27,6 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -45,7 +42,6 @@ Der Ausbildungsberuf Glasveredler/Glasveredlerin wird
 
 
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -64,7 +60,6 @@ zwischen den Fachrichtungen
 
 gewählt werden.
 
-
 ## § 3 Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen
@@ -78,7 +73,6 @@ selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln
 im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 bis 11
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -214,13 +208,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     g)  Restaurieren von Glasgestaltungen.
 
-
-
-
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -230,13 +217,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -244,7 +229,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -275,7 +259,6 @@ der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen
 darstellen, die für die Arbeitsaufgabe relevanten fachlichen
 Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung
 der Arbeitsaufgabe begründen kann.
-
 
 ## § 9 Gesellenprüfung/Abschlussprüfung in der Fachrichtung Kanten- und Flächenveredelung
 
@@ -418,7 +401,6 @@ erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen
 Prüfungsteils müssen mindestens ausreichende Leistungen, in dem
 weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht
 worden sein.
-
 
 ## § 10 Gesellenprüfung/Abschlussprüfung in der Fachrichtung Schliff und Gravur
 
@@ -571,7 +553,6 @@ Prüfungsteils müssen mindestens ausreichende Leistungen, in dem
 weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht
 worden sein.
 
-
 ## § 11 Gesellenprüfung/Abschlussprüfung in der Fachrichtung Glasmalerei und Kunstverglasung
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung
@@ -713,7 +694,6 @@ Prüfungsteils müssen mindestens ausreichende Leistungen, in dem
 weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht
 worden sein.
 
-
 ## § 12 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -721,11 +701,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Glasveredler/zur Glasveredlerin
 

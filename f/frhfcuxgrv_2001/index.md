@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 18.9.2009 I 3048
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember
@@ -27,17 +25,14 @@ Auf Grund des § 20 Abs. 2 des Zollverwaltungsgesetzes vom 21. Dezember
 Buchstabe a des Gesetzes vom 20. Dezember 1996 (BGBl. I S. 2030)
 geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
 ## § 1 Grenze des Freihafens
 
 Die Grenze des Freihafens Cuxhaven wird geändert. Ihr neuer Verlauf
 ergibt sich aus den Anlagen 1 und 2.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1)
 
@@ -72,7 +67,6 @@ Bahnsteigkante entfernt auf einer Länge von 39,9 Metern dem Zaun in
 südwestlicher Richtung, um dann im nahezu rechten Winkel auf einer
 Länge von 11 Metern in nordwestlicher Richtung bis zur Nordostecke des
 Abfertigungsgebäudes zu verlaufen.
-
 
 ## Anlage 2 (zu § 1)
 

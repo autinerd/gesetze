@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3790
 
-
 ## Eingangsformel
 
 Auf Grund des § 253 Absatz 2 Satz 4 und 5 des Handelsgesetzbuchs in
@@ -26,7 +25,6 @@ des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102) neu gefasst worden
 ist, verordnet das Bundesministerium der Justiz im Benehmen mit der
 Deutschen Bundesbank:
 
-
 ## § 1 Abzinsung von Rückstellungen
 
 Rückstellungen für Verpflichtungen gemäß § 253 Absatz 2 Satz 1 und 2
@@ -35,7 +33,6 @@ Abzinsungszinssätze abgezinst, die von der Deutschen Bundesbank nach
 Maßgabe dieser Verordnung mit zwei Nachkommastellen ermittelt und
 bekannt gemacht werden. Die Zinssätze werden aus einer um einen
 Aufschlag erhöhten Null-Kupon-Euro-Zinsswapkurve ermittelt.
-
 
 ## § 2 Datengrundlage
 
@@ -51,7 +48,6 @@ breiten Rendite-Indexes für auf Euro lautende Unternehmensanleihen
 aller Laufzeiten mit einer hochklassigen Bonitätseinstufung. Die Daten
 können von internationalen Finanzdatenanbietern bezogen werden. Es ist
 ausreichend, die Daten nur eines Finanzdatenanbieters heranzuziehen.
-
 
 ## § 3 Berechnungsgrundlagen und deren Abkürzungen
 
@@ -79,10 +75,6 @@ bezeichnet:
         t                       1 bis
         t                       2.
 
-
-
-
-
 ## § 4 Umrechnung von Festzins-Swapsätzen in Null-Kupon-Swapsätze
 
 Die Null-Kupon-Swapsätze werden aus den Festzins-Swapsätzen mit Hilfe
@@ -105,9 +97,6 @@ N
 wie folgt schrittweise berechnet:
 
 *    *        ![bgbl1_2009_j3790-1_0020.gif](bgbl1_2009_j3790-1_0020.gif)
-
-
-
 
 ## § 5 Interpolation fehlender Laufzeiten
 
@@ -178,9 +167,6 @@ t 1,t 3              in die folgende Gleichung bestimmt:
 
 *    *        ![bgbl1_2009_j3790-1_0070.gif](bgbl1_2009_j3790-1_0070.gif)
 
-
-
-
 ## § 6 Berechnung des Aufschlags
 
    Zur Berechnung des Aufschlags wird die Rendite des
@@ -219,16 +205,12 @@ Aufschlag:
 
 *    *        ![bgbl1_2009_j3790-1_0090.gif](bgbl1_2009_j3790-1_0090.gif)
 
-
-
-
 ## § 7 Bekanntgabe
 
    Auf Basis der Daten des letzten Handelstages des Monats veröffentlicht
 die Deutsche Bundesbank monatlich die Abzinsungszinssätze für die
 ganzjährigen Laufzeiten von einem Jahr bis 50 Jahre auf ihrer
 Internetseite www.bundesbank.de.
-
 
 ## § 8 Inkrafttreten
 

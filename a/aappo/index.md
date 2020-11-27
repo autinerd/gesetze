@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 32 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 der Bundes-Apothekerordnung vom 5. Juni 1968 (BGBl.
@@ -29,10 +28,7 @@ Artikel 1 Nr. 2 Buchstabe b des Gesetzes vom 23. Juli 1988 (BGBl. I S.
 Apothekerordnung, der durch Artikel 23 des Gesetzes vom 25. Juni 1969
 (BGBl. I S. 645) geändert worden ist, wird verordnet:
 
-
 ## Erster Abschnitt - Die pharmazeutische Ausbildung
-
-
 
 ### § 1 Gliederung der Ausbildung
 
@@ -75,7 +71,6 @@ abgelegt:
 (3) Die Regelstudienzeit im Sinne des § 10 Abs. 2 des
 Hochschulrahmengesetzes beträgt vier Jahre.
 
-
 ### § 2 Universitätsausbildung
 
 (1) Die Universitätsausbildung soll den Studierenden unter
@@ -90,7 +85,6 @@ Anlage 1 angeführten Stoffgebieten und einem Wahlpflichtfach, die in
 Form von Vorlesungen, Seminaren und praktischen Lehrveranstaltungen
 mit den angegebenen Regelstundenzahlen und Bescheinigungen zu
 vermitteln sind.
-
 
 ### § 3 Famulatur
 
@@ -130,7 +124,6 @@ Auszubildende eine Bescheinigung nach Muster der Anlage 7.
 (3) Für Apothekerassistenten, Pharmazieingenieure, pharmazeutisch-
 technische Assistenten und Apothekenassistenten entfällt die
 Famulatur.
-
 
 ### § 4 Praktische Ausbildung
 
@@ -203,10 +196,7 @@ Bescheinigung nach dem Muster der Anlage 6.
 (5) Auf die Ausbildung nach Absatz 1 werden Unterbrechungen bis zu den
 durch Bundesrahmentarifvertrag festgelegten Urlaubszeiten angerechnet.
 
-
 ## Zweiter Abschnitt - Allgemeine Prüfungsvorschriften
-
-
 
 ### § 5 Landesprüfungsamt
 
@@ -230,7 +220,6 @@ betriebenen Pharmaziestudiums oder verwandten Studiums und
 gegebenenfalls die im Rahmen eines solchen Studiums abgelegten
 Prüfungen nach § 22 angerechnet werden können, gilt, sofern eine
 Zuständigkeit nach Satz 1 nicht gegeben ist, § 22 Abs. 5 entsprechend.
-
 
 ### § 6 Meldung zur Prüfung
 
@@ -336,7 +325,6 @@ Landesprüfungsamt die Vorlage weiterer Unterlagen, insbesondere
 besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer
 Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
 ### § 7 Versagung der Zulassung
 
 (1) Die Zulassung zu einem Prüfungsabschnitt ist zu versagen, wenn
@@ -362,7 +350,6 @@ Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 Grund vorliegt, der zur Versagung der Approbation als Apotheker wegen
 Fehlens einer der Voraussetzungen des § 4 Abs. 1 Satz 1 Nr. 2 oder 3
 der Bundes-Apothekerordnung führen würde.
-
 
 ### § 8 Art der Prüfung
 
@@ -433,7 +420,6 @@ Es wird ein Zeugnis nach dem Muster der Anlage 10 erteilt, in dem die
 Überprüfungsergebnisse der nach Absatz 3 Nr. 3 durchgeführten und dem
 Ersten Abschnitt der Pharmazeutischen Prüfung gleichwertigen Prüfungen
 getrennt aufgeführt werden.
-
 
 ### § 9 Bewertung der Prüfungsleistungen
 
@@ -529,10 +515,6 @@ werden wie folgt bewertet:
 
     *   bei  einem  Zahlenwert  über  3,5  bis  4,0.
 
-
-
-
-
 ### § 10 Schriftliche Prüfungen
 
 (1) In der schriftlichen Prüfung hat der Prüfling in Aufsichtsarbeiten
@@ -612,7 +594,6 @@ Noten für die einzelnen Fächer, die Zahl der vom Prüfling in den
 einzelnen Fächern zutreffend beantworteten Fragen sowie die
 durchschnittliche Prüfungsleistung anzugeben.
 
-
 ### § 11 Mündliche Prüfungen
 
 (1) Für den Zweiten und Dritten Abschnitt der Pharmazeutischen Prüfung
@@ -686,7 +667,6 @@ sind die Noten für die einzelnen Prüfungsfächer am Prüfungstag
 bekanntzugeben. Das Landesprüfungsamt teilt dem Prüfling das Ergebnis
 schriftlich mit.
 
-
 ### § 12 Prüfungstermine
 
 (1) Die Landesprüfungsämter setzen die Termine für die schriftliche
@@ -712,7 +692,6 @@ entsprechende Anwendung.
 (3) Die Ladung zur Prüfung wird dem Prüfling spätestens sieben
 Kalendertage vor dem Prüfungstermin zugestellt.
 
-
 ### § 13 Rücktritt und Versäumnis
 
 (1) Nach der Zulassung zu einem Prüfungsabschnitt ist ein Rücktritt
@@ -737,7 +716,6 @@ oder die Prüfung unterbricht oder abbricht.
 als nicht unternommen geltenden Prüfungsabschnitt oder Prüfungsfach
 gilt § 12 Abs. 2 entsprechend.
 
-
 ### § 14 Störung oder Täuschung
 
 Stört ein Prüfling den ordnungsgemäßen Ablauf einer Prüfung in
@@ -745,7 +723,6 @@ erheblichem Maße oder unternimmt er eine Täuschung, so kann das
 Landesprüfungsamt, bei mündlichen Prüfungen im Benehmen mit der
 Prüfungskommission, die betreffende Fachprüfung oder den gesamten
 Prüfungsabschnitt für "nicht bestanden" erklären.
-
 
 ### § 15 Bestehen und Wiederholung von Prüfungen
 
@@ -777,7 +754,6 @@ teilzunehmen hat. Die Zeit der Teilnahme darf höchstens drei Monate
 betragen. Das Landesprüfungsamt teilt dem Prüfling die Entscheidung
 schriftlich mit.
 
-
 ### § 16 Zeugnisse und Mitteilungen
 
 (1) Nach dem Bestehen des Ersten, Zweiten und Dritten Abschnitts der
@@ -790,10 +766,7 @@ Anlage 11.
 Landesprüfungsämter, wenn die Pharmazeutische Prüfung endgültig nicht
 bestanden worden ist.
 
-
 ## Dritter Abschnitt - Die Pharmazeutische Prüfung
-
-
 
 ### § 17 Erster Abschnitt der Pharmazeutischen Prüfung
 
@@ -827,7 +800,6 @@ Verteilung auf die einzelnen Fächer ergeben sich aus der Anlage 12.
 
 (3) Die Fragen müssen auf den in der Anlage 13 festgelegten
 Prüfungsstoff abgestellt sein.
-
 
 ### § 18 Zweiter Abschnitt der Pharmazeutischen Prüfung
 
@@ -863,7 +835,6 @@ mindestens 20, höchstens 40 Minuten dauern.
 (3) Die Fragen müssen auf den in der Anlage 14 festgelegten
 Prüfungsstoff abgestellt sein.
 
-
 ### § 19 Dritter Abschnitt der Pharmazeutischen Prüfung
 
 (1) Der Dritte Abschnitt der Pharmazeutischen Prüfung erstreckt sich
@@ -885,10 +856,7 @@ Prüfungsstoff abgestellt sein. In der Prüfung ist festzustellen, ob
 der Prüfling die zur Ausübung des Apothekerberufs erforderlichen
 Kenntnisse besitzt.
 
-
 ## Vierter Abschnitt - Die Approbation
-
-
 
 ### § 20 Antrag auf Approbation
 
@@ -965,17 +933,13 @@ Antragsteller oder der Antragstellerin binnen eines Monats nach
 Eingang des Antrags den Antragseingang und den Empfang der Unterlagen
 und teilt ihm oder ihr mit, welche Unterlagen fehlen.
 
-
 ### § 21 Approbationsurkunde
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 16
 ausgestellt. Sie ist dem Antragsteller gegen Empfangsbekenntnis
 auszuhändigen oder mit Zustellungsurkunde zuzustellen.
 
-
 ## Fünfter Abschnitt - Ergänzende Vorschriften, Übergangs- und Schlußbestimmungen
-
-
 
 ### § 22 Anrechnung von Ausbildungszeiten und Prüfungen
 
@@ -1026,7 +990,6 @@ der Antragsteller geboren ist. Ergibt sich hiernach keine
 Zuständigkeit, so ist das Landesprüfungsamt des Landes Hessen
 zuständig.
 
-
 ### § 23 Übergangsvorschriften
 
 (1) Personen, die das Studium der Pharmazie vor dem 1. Oktober 2001
@@ -1076,22 +1039,18 @@ abweichend von § 11 Abs. 2 Satz 3 ein anderes Mitglied der
 Prüfungskommission für den Zweiten Abschnitt der Pharmazeutischen
 Prüfung bestellen.
 
-
 ### § 24
 
 (weggefallen)
-
 
 ### § 25 Inkrafttreten der Verordnung und außer Kraft tretende Vorschriften
 
 Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
-
 
 ### Anlage 1 (zu § 2 Abs. 2) Stoffgebiete des Studiums der Pharmazie
 
@@ -1249,7 +1208,6 @@ Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme;
 Seminarveranstaltungen im Block K finden in Form von Hauptseminaren
 statt.
 
-
 ### Anlage 2 (zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3) Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
@@ -1266,7 +1224,6 @@ Siegel                    .........., den .......................
 .......................................
 (Unterschrift des verantwortlichen
 Professors/Dozenten)
-
 
 ### Anlage 3 (zu § 6 Abs. 4 Nr. 4) Bescheinigung
 
@@ -1285,11 +1242,9 @@ Siegel                    .........., den .......................
 (Unterschrift des verantwortlichen
 Professors/Dozenten)
 
-
 ### Anlage 4
 
 (weggefallen)
-
 
 ### Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3) Bescheinigung über die praktische Ausbildung
 
@@ -1316,7 +1271,6 @@ Verantwortlichen)
 ----------
 \*) Nichtzutreffendes streichen.
 
-
 ### Anlage 6 (zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3) Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
@@ -1331,7 +1285,6 @@ teilgenommen.
 Siegel/Stempel
 .....................................
 (Unterschrift)
-
 
 ### Anlage 7 (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3) Bescheinigung über die Tätigkeit als Famulus
 
@@ -1357,7 +1310,6 @@ bis ......................... unterbrochen/nicht unterbrochen worden.
 Apothekers)
 --------
 \*) Nichtzutreffendes streichen.
-
 
 ### Anlage 8 (zu § 4 Abs. 4 Satz 1) Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
 
@@ -1421,7 +1373,6 @@ und Gemeinden sowie auf internationaler Ebene;
 Pharmazeutische Organisationen und Einrichtungen;
 Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 
-
 ### Anlage 9 (zu § 11 Abs. 6 Satz 1) Niederschrift über die mündliche Prüfung im Zweiten/Dritten Abschnitt der Pharmazeutischen Prüfung in dem Fach .......................
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1503;
@@ -1468,13 +1419,6 @@ Protokollführers)
         Vorsitzende an einer Prüfung des Zweiten Prüfungsabschnittes
         teilnimmt.
 
-
-
-
-
-
-
-
 ### Anlage 10 (zu § 6 Abs. 4 Nr. 1, Abs. 5 Nr. 1, § 9 Abs. 4 Satz 2, § 16 Abs. 1 erster Halbsatz und § 22 Abs. 3 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1504)
@@ -1500,7 +1444,6 @@ der ausstellenden Behörde
 --------
 \*) Nichtzutreffendes streichen.
 
-
 ### Anlage 11 (zu § 9 Abs. 4 Satz 2, § 16 Abs. 1 zweiter Halbsatz und § 22 Abs. 3 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1504)
@@ -1519,7 +1462,6 @@ Siegel
 der ausstellenden Behörde
 .....................................
 (Unterschrift)
-
 
 ### Anlage 12 (zu § 17 Abs. 2 Satz 3) Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
 
@@ -1552,10 +1494,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
     *   Grundlagen der pharmazeutischen Analytik
 
     *   80 Fragen
-
-
-
-
 
 ### Anlage 13 (zu § 17 Abs. 3) Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
 
@@ -1637,13 +1575,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
         qualitativen (Identifizierung und Strukturaufklärung) und
         quantitativen Analyse; Validierung von Analysenverfahren;
         Qualitätssicherung.
-
-
-
-
-
-
-
 
 ### Anlage 14 (zu § 18 Abs. 3) Prüfungsstoff des Zweiten Abschnitts der Pharmazeutischen Prüfung
 
@@ -1812,13 +1743,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
         Pharmakovigilanz, Methoden zur Bestimmung der Lebensqualität, ethische
         Aspekte.
 
-
-
-
-
-
-
-
 ### Anlage 15 (zu § 19 Abs. 3) Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
@@ -1901,13 +1825,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
         Rechtliche Grundlagen für die betriebswirtschaftlichen Aspekte der
         Apothekenführung, Sozialversicherungsrecht.
-
-
-
-
-
-
-
 
 ### Anlage 16 (zu § 21 Satz 1) Approbationsurkunde
 

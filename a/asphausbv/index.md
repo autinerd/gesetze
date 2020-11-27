@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 457
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -25,11 +23,9 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Asphaltbauer wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -41,7 +37,6 @@ Berufsgrundbildungsgesetzes als erstes Jahr der Berufsausbildung
 anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
 Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -49,7 +44,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 4 Gliederung der Berufsausbildung
 
@@ -97,7 +91,6 @@ betrieblichen Ausbildungsstätte enthalten.
 
 (6) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -168,10 +161,6 @@ Fertigkeiten und Kenntnisse:
 
 20. Auftragen von Kunststoffbeschichtungen auf Gußasphalt.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -184,12 +173,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhalts ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -197,7 +184,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -309,7 +295,6 @@ berücksichtigen.
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 10 Abschlußprüfung
 
@@ -483,22 +468,18 @@ gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
 Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
 ## § 11 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1984 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Asphaltbauer
 
@@ -1263,10 +1244,6 @@ Der Bundesminister für Wirtschaft
 
     *
     *   2
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

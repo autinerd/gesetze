@@ -23,10 +23,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 Abs. 23 G v. 12.4.2012 I 579
 
-
 ## Abschnitt 1 - Grundsätze zur Datenübermittlung
-
-
 
 ### § 1 Datensätze
 
@@ -52,7 +49,6 @@ Anbieters an den Zulageberechtigten nach § 90 Abs. 1 Satz 3 des
 Einkommensteuergesetzes kann mit der Bescheinigung nach § 10a Abs. 5
 Satz 1 oder § 92 des Einkommensteuergesetzes erfolgen.
 
-
 ### § 2 Technisches Übermittlungsformat
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
@@ -71,14 +67,12 @@ dieser Verordnung vorzunehmenden Datenübermittlung hat den
 Anforderungen der ISO/IEC 8859-15, Ausgabe März 1999, zu entsprechen.
 Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 2a DIN- und ISO/IEC-Normen
 
 DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird,
 sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim
 Deutschen Patent- und Markenamt in München archivmäßig gesichert
 niedergelegt.
-
 
 ### § 3 Verfahren der Datenübermittlung, Schnittstellen
 
@@ -98,7 +92,6 @@ Der Absender ist über die Mängel zu unterrichten.
 
 (3) Die technischen Einrichtungen für die Datenübermittlung stellt
 jede übermittelnde Stelle für ihren Bereich bereit.
-
 
 ### § 4 Übermittlung durch Datenfernübertragung
 
@@ -127,7 +120,6 @@ Datensicherheit gemäß dieser Verordnung erfüllt.
 Auftragnehmer gilt als Empfangsbevollmächtigter für Mitteilungen der
 zentralen Stelle an den Auftraggeber, solange dieser nicht
 widerspricht.
-
 
 ### § 5 Identifikation der am Verfahren Beteiligten
 
@@ -191,14 +183,9 @@ Einkommensteuergesetzes setzt voraus, dass diese bereits durch die
 Finanzverwaltung authentifiziert wurden; eine weitere Identifikation
 bei der zentralen Stelle findet nicht statt.
 
-
 ## Abschnitt 2 - Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes
 
-
-
 ### Unterabschnitt 1 - Mitteilungs- und Anzeigepflichten
-
-
 
 #### § 6 Mitteilungspflichten des Arbeitgebers
 
@@ -235,7 +222,6 @@ Arbeitnehmer nach Absatz 3 verzichtet hat, hat die
 Versorgungseinrichtung davon auszugehen, dass es sich nicht um
 Altersvorsorgebeiträge im Sinne des § 82 Abs. 2 des
 Einkommensteuergesetzes handelt.
-
 
 #### § 7 Besondere Mitteilungspflichten der zuständigen Stelle
 
@@ -286,11 +272,9 @@ das Kindergeld insgesamt zurückgefordert, hat die zuständige Stelle
 dies der zentralen Stelle bis zum 31. März des Kalenderjahres, das dem
 Kalenderjahr der Rückforderung folgt, mitzuteilen.
 
-
 #### § 8
 
 (weggefallen)
-
 
 #### § 9 Besondere Mitteilungspflicht der Familienkasse
 
@@ -298,7 +282,6 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für
 die Gewährung der Kinderzulage übermittelt und wird für diesen
 gemeldeten Zeitraum das Kindergeld insgesamt zurückgefordert, hat die
 Familienkasse dies der zentralen Stelle unverzüglich mitzuteilen.
-
 
 #### § 10 Besondere Mitteilungspflichten des Anbieters
 
@@ -322,7 +305,6 @@ Rückforderungsbetrages und des nach § 94 Abs. 1 Satz 3 des
 Einkommensteuergesetzes abzuführenden Rückzahlungsbetrages, jeweils
 bezogen auf den Zulageberechtigten, sowie die Zahlung von ihm
 geschuldeter Verspätungs- oder Säumniszuschläge mitzuteilen.
-
 
 #### § 11 Anbieterwechsel
 
@@ -390,7 +372,6 @@ nur teilweise auf einen anderen Vertrag übertragen, gehen Zulagen,
 Beiträge und Erträge anteilig auf den neuen Vertrag über. Die Absätze
 1 und 4 gelten entsprechend.
 
-
 #### § 12 Besondere Mitteilungspflichten der zentralen Stelle gegenüber dem Anbieter
 
 (1) Die zentrale Stelle hat dem Anbieter das Ermittlungsergebnis (§ 90
@@ -420,7 +401,6 @@ den Anbieter übermitteln.
 Einkommensteuergesetzes erlassen, hat die zentrale Stelle dies dem
 Anbieter mitzuteilen.
 
-
 #### § 13 Anzeigepflichten des Zulageberechtigten
 
 (1) (weggefallen)
@@ -429,10 +409,7 @@ Anbieter mitzuteilen.
 vor, hat der Zulageberechtigte dies dem Anbieter auch dann anzuzeigen,
 wenn aus dem Vertrag bereits Leistungen bezogen werden.
 
-
 ### Unterabschnitt 2 - Ermittlung, Festsetzung, Auszahlung, Rückforderung und Rückzahlung der Zulagen
-
-
 
 #### § 14 Nachweis der Rentenversicherungspflicht und der Höhe der maßgebenden Einnahmen
 
@@ -466,7 +443,6 @@ Sozialversicherungsträger herbeizuführen.
 Satz 1 Nr. 1 bis 5 und Satz 4 des Einkommensteuergesetzes genannten
 Personenkreis vor, gilt Absatz 1 entsprechend.
 
-
 #### § 15 Auszahlung der Zulage
 
 Die Zulagen werden jeweils am 15. der Monate Februar, Mai, August und
@@ -482,16 +458,11 @@ a)  Zulagen, die bis zum Ablauf des dem Auszahlungstermin vorangegangenen
 b)  Erhöhungen von Zulagen, die bis zum Ablauf des dem Auszahlungstermin
     vorangehenden Kalendervierteljahres ermittelt oder festgesetzt wurden.
 
-
-
-
-
 #### § 16 Kleinbetragsgrenze für Rückforderungen gegenüber dem Zulageberechtigten
 
 Ein Rückzahlungsbetrag nach § 94 Abs. 2 des Einkommensteuergesetzes,
 der nicht über den Anbieter zurückgefordert werden kann, wird nur
 festgesetzt, wenn die Rückforderung mindestens 10 Euro beträgt.
-
 
 #### § 17 Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
 
@@ -503,10 +474,7 @@ gewöhnlichen Aufenthalt im Inland, ist das Hauptzollamt Potsdam
 zuständig. Über die Niederschlagung (§ 261 der Abgabenordnung)
 entscheidet die zentrale Stelle.
 
-
 ### Unterabschnitt 3 - Bescheinigungs-, Aufzeichnungs- und Aufbewahrungspflichten
-
-
 
 #### § 18 Erteilung der Anbieterbescheinigungen
 
@@ -521,7 +489,6 @@ Einkommensteuergesetzes durch die Post übermittelt, ist das Datum der
 Aufgabe zur Post auf der Bescheinigung anzugeben. Für die Berechnung
 der Frist nach § 90 Abs. 4 Satz 2 des Einkommensteuergesetzes ist §
 122 Abs. 2 und 2a der Abgabenordnung sinngemäß anzuwenden.
-
 
 #### § 19 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -634,10 +601,7 @@ Aufbewahrungspflichten bleiben unberührt.
 der Aufzeichnungen mitzuteilen und die für die Überprüfung der Zulage
 erforderlichen Unterlagen zur Verfügung zu stellen.
 
-
 ## Abschnitt 3 - Vorschriften zu Rentenbezugsmitteilungen
-
-
 
 ### § 20 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -645,7 +609,6 @@ Der Mitteilungspflichtige hat die übermittelten Daten aufzuzeichnen
 und die zugrunde liegenden Unterlagen für die Dauer von sechs Jahren
 nach dem Ende des Jahres, für das die Übermittlung erfolgt ist,
 geordnet aufzubewahren. § 19 Abs. 4 bis 6 gilt entsprechend.
-
 
 ### § 21 Erprobung des Verfahrens
 
@@ -695,10 +658,7 @@ Abgabenordnung erheben zum Zweck der Erprobung
 Zwecke verwendet werden. Sie sind unmittelbar nach Beendigung der
 Erprobung, spätestens am 31. Dezember 2009, zu löschen.
 
-
 ## Abschnitt 4 - Vorschriften zum weiteren Datenaustausch mit der zentralen Stelle
-
-
 
 ### § 22 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -708,7 +668,6 @@ die übermittelten Daten aufzuzeichnen und die zugrunde liegenden
 Unterlagen für die Dauer von sechs Jahren nach dem Ende des Jahres, in
 dem die Übermittlung erfolgt ist, geordnet aufzubewahren. § 19 Absatz
 4 bis 6 gilt entsprechend.
-
 
 ### § 23 Erprobung des Verfahrens
 

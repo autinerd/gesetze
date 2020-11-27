@@ -26,13 +26,11 @@ Vorschriften (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 2 Nr. 2 und 3 des Hundeverbringungs- und
 -einfuhrbeschränkungsgesetzes vom 12. April 2001 (BGBl. I S. 530)
 verordnet die Bundesregierung:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -50,10 +48,6 @@ Im Sinne dieser Verordnung sind:
     gefährlichen Hundes mit dem in Dokumenten oder Bescheinigungen und
     durch Kennzeichnung nach den jeweiligen landesrechtlichen Vorschriften
     ausgewiesenen Tier.
-
-
-
-
 
 ## § 2 Ausnahmen vom Verbringungs- und Einfuhrverbot
 
@@ -82,7 +76,6 @@ Antrag genehmigt werden.
 dürfen zum Zweck des ständigen Haltens in das Inland verbracht oder
 eingeführt werden, wenn die Begleitperson nachweist, dass die Hunde
 berechtigt in einem Land gehalten werden dürfen.
-
 
 ## § 3 Pflichten der Begleitperson
 
@@ -128,7 +121,6 @@ Behörde im Original vorzulegen. Bescheinigungen und Dokumente in einer
 fremden Sprache müssen mit einer amtlich beglaubigten deutschen
 Übersetzung versehen sein.
 
-
 ## § 4 Befugnisse der zuständigen Behörde
 
 Stellt die zuständige Behörde einen Verstoß gegen die Bestimmungen des
@@ -151,11 +143,9 @@ die Einfuhr fest, so kann sie insbesondere
 Die Befugnisse der zuständigen Behörde aufgrund anderer
 Rechtsvorschriften bleiben unberührt.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

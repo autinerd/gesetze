@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 21.6.2012 II 618
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -53,10 +52,6 @@ Auf Grund
     das Bundesministerium für Verkehr im Einvernehmen mit dem
     Bundesministerium für Post und Telekommunikation:
 
-
-
-
-
 ## Art 1 Anwendungsbereich
 
 (1) Die von der Zentralkommission für die Rheinschiffahrt in Straßburg
@@ -77,10 +72,7 @@ Anlage) haben folgende Bedeutung: Der Kilometerendpunkt schließt die
 jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die
 jeweilige Kilometerangabe aus.
 
-
 ## Art 1a (weggefallen)
-
-
 
 ## Art 2 Zuständige Behörden
 
@@ -134,7 +126,6 @@ Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine
 Erlaubnis nach der Anlage auch nachträglich befristen und mit Auflagen
 verbinden.
 
-
 ## Art 3 Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
@@ -144,7 +135,6 @@ Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von
 den Vorschriften der Anlage befreit, soweit dies zur Erfüllung
 hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen
 Sicherheit und Ordnung dringend geboten ist.
-
 
 ## Art 4 Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetzes
 
@@ -974,14 +964,9 @@ oder fahrlässig als Eigentümer oder Ausrüster
 18. anordnet oder zuläßt, daß die Fahrt mit Schubverbänden entgegen §
     11\.03 Nr. 2 Buchstabe a Satz 1 oder Buchstabe b angetreten wird.
 
-
-
-
-
 ## Art 5 (weggefallen)
 
 -
-
 
 ## Art 6 Inkrafttreten
 

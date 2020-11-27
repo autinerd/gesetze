@@ -18,21 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 156 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat zur Durchführung der Abkommen zur
 Vereinheitlichung des Wechselrechts (Reichsgesetzbl. 1933 II S. 377)
 das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
-
 ## Erster Teil - Gezogener Wechsel
 
-
-
 ### Erster Abschnitt - Ausstellung und Form des gezogenen Wechsels
-
-
 
 #### Art 1
 
@@ -62,10 +56,6 @@ Der gezogene Wechsel enthält:
 
 8.  die Unterschrift des Ausstellers.
 
-
-
-
-
 #### Art 2
 
 (1) Eine Urkunde, der einer der in vorstehendem Artikel bezeichneten
@@ -81,7 +71,6 @@ Bezogenen.
 (4) Ein Wechsel ohne Angabe des Ausstellungsorts gilt als ausgestellt
 an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 
-
 #### Art 3
 
 (1) Der Wechsel kann an die eigene Order des Ausstellers lauten.
@@ -90,12 +79,10 @@ an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 
 (3) Er kann für Rechnung eines Dritten gezogen werden.
 
-
 #### Art 4
 
 Der Wechsel kann bei einem Dritten, am Wohnort des Bezogenen oder an
 einem anderen Ort, zahlbar gestellt werden.
-
 
 #### Art 5
 
@@ -110,7 +97,6 @@ der Zinsvermerk als nicht geschrieben.
 (3) Die Zinsen laufen vom Tag der Ausstellung des Wechsels, sofern
 nicht ein anderer Tag bestimmt ist.
 
-
 #### Art 6
 
 (1) Ist die Wechselsumme in Buchstaben und in Ziffern angegeben, so
@@ -118,7 +104,6 @@ gilt bei Abweichungen die in Buchstaben angegebene Summe.
 
 (2) Ist die Wechselsumme mehrmals in Buchstaben oder mehrmals in
 Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
-
 
 #### Art 7
 
@@ -130,7 +115,6 @@ die unterschrieben haben oder mit deren Namen unterschrieben worden
 ist, keine Verbindlichkeit begründen, so hat dies auf die Gültigkeit
 der übrigen Unterschriften keinen Einfluß.
 
-
 #### Art 8
 
 Wer auf einen Wechsel seine Unterschrift als Vertreter eines anderen
@@ -138,7 +122,6 @@ setzt, ohne hierzu ermächtigt zu sein, haftet selbst wechselmäßig und
 hat, wenn er den Wechsel einlöst, dieselben Rechte, die der angeblich
 Vertretene haben würde. Das gleiche gilt von einem Vertreter, der
 seine Vertretungsbefugnis überschritten hat.
-
 
 #### Art 9
 
@@ -149,7 +132,6 @@ Wechsels.
 durch den er die Haftung für die Zahlung ausschließt, gilt als nicht
 geschrieben.
 
-
 #### Art 10
 
 Wenn ein Wechsel, der bei der Begebung unvollständig war, den
@@ -159,10 +141,7 @@ entgegengesetzt werden, es sei denn, daß er den Wechsel in bösem
 Glauben erworben hat oder ihm beim Erwerb eine grobe Fahrlässigkeit
 zur Last fällt.
 
-
 ### Zweiter Abschnitt - Indossament
-
-
 
 #### Art 11
 
@@ -179,7 +158,6 @@ Wechsel angenommen hat oder nicht, auf den Aussteller oder auf jeden
 anderen Wechselverpflichteten lauten. Diese Personen können den
 Wechsel weiter indossieren.
 
-
 #### Art 12
 
 (1) Das Indossament muß unbedingt sein. Bedingungen, von denen es
@@ -188,7 +166,6 @@ abhängig gemacht wird, gelten als nicht geschrieben.
 (2) Ein Teilindossament ist nichtig.
 
 (3) Ein Indossament an den Inhaber gilt als Blankoindossament.
-
 
 #### Art 13
 
@@ -201,7 +178,6 @@ kann selbst in der bloßen Unterschrift des Indossanten bestehen
 (Blankoindossament). In diesem letzteren Fall muß das Indossament, um
 gültig zu sein, auf die Rückseite des Wechsels oder auf den Anhang
 gesetzt werden.
-
 
 #### Art 14
 
@@ -220,10 +196,6 @@ gesetzt werden.
 3.  den Wechsel weitergegeben, ohne das Blankoindossament auszufüllen und
     ohne ihn zu indossieren.
 
-
-
-
-
 #### Art 15
 
 (1) Der Indossant haftet mangels eines entgegenstehenden Vermerks für
@@ -232,7 +204,6 @@ die Annahme und die Zahlung.
 (2) Er kann untersagen, daß der Wechsel weiter indossiert wird; in
 diesem Fall haftet er denen nicht, an die der Wechsel weiter
 indossiert wird.
-
 
 #### Art 16
 
@@ -250,7 +221,6 @@ Vorschriften des vorstehenden Absatzes nachweist, zur Herausgabe des
 Wechsels nur verpflichtet, wenn er ihn in bösem Glauben erworben hat
 oder ihm beim Erwerb eine grobe Fahrlässigkeit zur Last fällt.
 
-
 #### Art 17
 
 Wer aus dem Wechsel in Anspruch genommen wird, kann dem Inhaber keine
@@ -258,7 +228,6 @@ Einwendungen entgegensetzen, die sich auf seine unmittelbaren
 Beziehungen zu dem Aussteller oder zu einem früheren Inhaber gründen,
 es sei denn, daß der Inhaber bei dem Erwerb des Wechsels bewußt zum
 Nachteil des Schuldners gehandelt hat.
-
 
 #### Art 18
 
@@ -276,7 +245,6 @@ zustehen.
 weder mit dem Tod noch mit dem Eintritt der Handlungsunfähigkeit des
 Vollmachtgebers.
 
-
 #### Art 19
 
 (1) Enthält das Indossament den Vermerk "Wert zur Sicherheit", "Wert
@@ -290,7 +258,6 @@ entgegensetzen, die sich auf ihre unmittelbaren Beziehungen zu dem
 Indossanten gründen, es sei denn, daß der Inhaber bei dem Erwerb des
 Wechsels bewußt zum Nachteil des Schuldners gehandelt hat.
 
-
 #### Art 20
 
 (1) Ein Indossament nach Verfall hat dieselben Wirkungen wie ein
@@ -303,17 +270,13 @@ gewöhnlichen Abtretung.
 datiertes Indossament vor Ablauf der für die Erhebung des Protests
 bestimmten Frist auf den Wechsel gesetzt worden ist.
 
-
 ### Dritter Abschnitt - Annahme
-
-
 
 #### Art 21
 
 Der Wechsel kann von dem Inhaber oder von jedem, der den Wechsel auch
 nur in Händen hat, bis zum Verfall dem Bezogenen an seinem Wohnort zur
 Annahme vorgelegt werden.
-
 
 #### Art 22
 
@@ -333,7 +296,6 @@ bestimmten Tag zur Annahme vorgelegt werden darf.
 Annahme untersagt hat, mit oder ohne Bestimmung einer Frist
 vorschreiben, daß der Wechsel zur Annahme vorgelegt werden muß.
 
-
 #### Art 23
 
 (1) Wechsel, die auf eine bestimmte Zeit nach Sicht lauten, müssen
@@ -345,7 +307,6 @@ bestimmen.
 
 (3) Die Indossanten können die Vorlegungsfristen abkürzen.
 
-
 #### Art 24
 
 (1) Der Bezogene kann verlangen, daß ihm der Wechsel am Tag nach der
@@ -355,7 +316,6 @@ berufen, wenn das Verlangen im Protest vermerkt ist.
 
 (2) Der Inhaber ist nicht verpflichtet, den zur Annahme vorgelegten
 Wechsel in der Hand des Bezogenen zu lassen.
-
 
 #### Art 25
 
@@ -373,7 +333,6 @@ seine Rückgriffsrechte gegen die Indossanten und den Aussteller zu
 wahren, diese Unterlassung rechtzeitig durch einen Protest feststellen
 lassen.
 
-
 #### Art 26
 
 (1) Die Annahme muß unbedingt sein; der Bezogene kann sie aber auf
@@ -382,7 +341,6 @@ einen Teil der Wechselsumme beschränken.
 (2) Wenn die Annahmeerklärung irgendeine andere Abweichung von den
 Bestimmungen des Wechsels enthält, so gilt die Annahme als verweigert.
 Der Annehmende haftet jedoch nach dem Inhalt seiner Annahmeerklärung.
-
 
 #### Art 27
 
@@ -397,7 +355,6 @@ selbst am Zahlungsort zu zahlen.
 der Annahmeerklärung eine am Zahlungsort befindliche Stelle
 bezeichnen, wo die Zahlung geleistet werden soll.
 
-
 #### Art 28
 
 (1) Der Bezogene wird durch die Annahme verpflichtet, den Wechsel bei
@@ -406,7 +363,6 @@ Verfall zu bezahlen.
 (2) Mangels Zahlung hat der Inhaber, auch wenn er der Aussteller ist,
 gegen den Annehmer einen unmittelbaren Anspruch aus dem Wechsel auf
 alles, was auf Grund der Artikel 48 und 49 gefordert werden kann.
-
 
 #### Art 29
 
@@ -420,10 +376,7 @@ Unterschrift sich auf dem Wechsel befindet, die Annahme schriftlich
 mitgeteilt, so haftet er diesen nach dem Inhalt seiner
 Annahmeerklärung.
 
-
 ### Vierter Abschnitt - Wechselbürgschaft
-
-
 
 #### Art 30
 
@@ -433,7 +386,6 @@ Wechselbürgschaft gesichert werden.
 (2) Diese Sicherheit kann von einem Dritten oder auch von einer Person
 geleistet werden, deren Unterschrift sich schon auf dem Wechsel
 befindet.
-
 
 #### Art 31
 
@@ -450,7 +402,6 @@ Bezogenen oder des Ausstellers handelt.
 (4) In der Erklärung ist anzugeben, für wen die Bürgschaft geleistet
 wird; mangels einer solchen Angabe gilt sie für den Aussteller.
 
-
 #### Art 32
 
 (1) Der Wechselbürge haftet in der gleichen Weise wie derjenige, für
@@ -464,10 +415,7 @@ als wegen eines Formfehlers nichtig ist.
 dem Wechsel gegen denjenigen, für den er sich verbürgt hat, und gegen
 alle, die diesem wechselmäßig haften.
 
-
 ### Fünfter Abschnitt - Verfall
-
-
 
 #### Art 33
 
@@ -486,7 +434,6 @@ alle, die diesem wechselmäßig haften.
 (2) Wechsel mit anderen oder mit mehreren aufeinanderfolgenden
 Verfallzeiten sind nichtig.
 
-
 #### Art 34
 
 (1) Der Sichtwechsel ist bei der Vorlegung fällig. Er muß binnen einem
@@ -498,7 +445,6 @@ können die Vorlegungsfristen abkürzen.
 einem bestimmten Tag zur Zahlung vorgelegt werden darf. In diesem Fall
 beginnt die Vorlegungsfrist mit diesem Tag.
 
-
 #### Art 35
 
 (1) Der Verfall eines Wechsels, der auf eine bestimmte Zeit nach Sicht
@@ -509,7 +455,6 @@ oder nach dem Tag des Protests.
 Protest nicht erhoben worden, so gilt dem Annehmer gegenüber der
 Wechsel als am letzten Tag der für die Vorlegung zur Annahme
 vorgesehenen Frist angenommen.
-
 
 #### Art 36
 
@@ -531,7 +476,6 @@ oder zwei Wochen, sondern volle acht oder fünfzehn Tage.
 
 (5) Der Ausdruck "halber Monat" bedeutet fünfzehn Tage.
 
-
 #### Art 37
 
 (1) Ist ein Wechsel an einem bestimmten Tag an einem Ort zahlbar,
@@ -551,10 +495,7 @@ Anwendung.
 aus einem Vermerk im Wechsel oder sonst aus dessen Inhalt ergibt, daß
 etwas anderes beabsichtigt war.
 
-
 ### Sechster Abschnitt - Zahlung
-
-
 
 #### Art 38
 
@@ -570,7 +511,6 @@ Zahlung gleich.
 als Abrechnungsstellen anzusehen sind und unter welchen
 Voraussetzungen die Einlieferung erfolgen kann.
 
-
 #### Art 39
 
 (1) Der Bezogene kann vom Inhaber gegen Zahlung die Aushändigung des
@@ -580,7 +520,6 @@ quittierten Wechsels verlangen.
 
 (3) Im Falle der Teilzahlung kann der Bezogene verlangen, daß sie auf
 dem Wechsel vermerkt und ihm eine Quittung erteilt wird.
-
 
 #### Art 40
 
@@ -593,7 +532,6 @@ Verfall anzunehmen.
 wenn ihm nicht Arglist oder grobe Fahrlässigkeit zur Last fällt. Er
 ist verpflichtet, die Ordnungsmäßigkeit der Reihe der Indossamente,
 aber nicht die Unterschriften der Indossanten zu prüfen.
-
 
 #### Art 41
 
@@ -617,17 +555,13 @@ dieselbe Bezeichnung, aber einen anderen Wert hat als in dem der
 Zahlung, so wird vermutet, daß die Geldsorte des Zahlungsorts gemeint
 ist.
 
-
 #### Art 42
 
 Wird der Wechsel nicht innerhalb der in Artikel 38 bestimmten Frist
 zur Zahlung vorgelegt, so kann der Schuldner die Wechselsumme bei der
 zuständigen Behörde auf Gefahr und Kosten des Inhabers hinterlegen.
 
-
 ### Siebenter Abschnitt - Rückgriff mangels Annahme und mangels Zahlung
-
-
 
 #### Art 43
 
@@ -650,10 +584,6 @@ nehmen, wenn der Wechsel nicht bezahlt worden ist.
 3.  wenn über das Vermögen des Ausstellers eines Wechsels, dessen
     Vorlegung zur Annahme untersagt ist, das Insolvenzverfahren eröffnet
     worden ist.
-
-
-
-
 
 #### Art 44
 
@@ -693,7 +623,6 @@ des gerichtlichen Beschlusses im Bundesanzeiger oder in dem zur
 Veröffentlichung amtlicher Bekanntmachungen des Gerichts bestimmten
 Blatt ist der Vorlegung des gerichtlichen Beschlusses gleichzuachten.
 
-
 #### Art 45
 
 (1) Der Inhaber muß seinen unmittelbaren Vormann und den Aussteller
@@ -728,7 +657,6 @@ innerhalb der Frist zur Post gegeben worden ist.
 Rückgriff; er haftet für den etwa durch seine Nachlässigkeit
 entstandenen Schaden, jedoch nur bis zur Höhe der Wechselsumme.
 
-
 #### Art 46
 
 (1) Der Aussteller sowie jeder Indossant oder Wechselbürge kann durch
@@ -751,7 +679,6 @@ Indossanten oder einem Wechselbürgen beigefügt, so sind alle
 Wechselverpflichteten zum Ersatz der Kosten eines dennoch erhobenen
 Protests verpflichtet.
 
-
 #### Art 47
 
 (1) Alle, die einen Wechsel ausgestellt, angenommen, indossiert oder
@@ -769,7 +696,6 @@ Wechsel eingelöst hat.
 Wechselverpflichteten verliert der Inhaber nicht seine Rechte gegen
 die anderen Wechselverpflichteten, auch nicht gegen die Nachmänner
 desjenigen, der zuerst in Anspruch genommen worden ist.
-
 
 #### Art 48
 
@@ -801,7 +727,6 @@ Wechselsumme Zinsen abgezogen. Diese Zinsen werden auf Grund des
 öffentlich bekanntgemachten Diskontsatzes (Satz der Zentralnotenbank)
 berechnet, der am Tag des Rückgriffs am Wohnort des Inhabers gilt.
 
-
 #### Art 49
 
 Wer den Wechsel eingelöst hat, kann von seinen Vormännern verlangen:
@@ -822,10 +747,6 @@ Wer den Wechsel eingelöst hat, kann von seinen Vormännern verlangen:
 4.  eine Vergütung, die nach den Vorschriften des Artikels 48 Abs. 1 Nr. 4
     berechnet wird.
 
-
-
-
-
 #### Art 50
 
 (1) Jeder Wechselverpflichtete, gegen den Rückgriff genommen wird oder
@@ -836,7 +757,6 @@ quittierte Rechnung ausgehändigt werden.
 (2) Jeder Indossant, der den Wechsel eingelöst hat, kann sein
 Indossament und die Indossamente seiner Nachmänner ausstreichen.
 
-
 #### Art 51
 
 Bei dem Rückgriff nach einer Teilannahme kann derjenige, der den nicht
@@ -844,7 +764,6 @@ angenommenen Teil der Wechselsumme entrichtet, verlangen, daß dies auf
 dem Wechsel vermerkt und ihm darüber Quittung erteilt wird. Der
 Inhaber muß ihm ferner eine beglaubigte Abschrift des Wechsels und den
 Protest aushändigen, um den weiteren Rückgriff zu ermöglichen.
-
 
 #### Art 52
 
@@ -864,7 +783,6 @@ Sichtwechsel hat. Wird der Rückwechsel von einem Indossanten gezogen,
 so richtet sich die Höhe der Wechselsumme nach dem Kurs, den ein vom
 Wohnort des Ausstellers des Rückwechsels auf den Wohnort des Vormanns
 gezogener Sichtwechsel hat.
-
 
 #### Art 53
 
@@ -890,7 +808,6 @@ die Annahme hat ausschließen wollen.
 
 (3) Ist die Frist für die Vorlegung in einem Indossament enthalten, so
 kann sich nur der Indossant darauf berufen.
-
 
 #### Art 54
 
@@ -926,14 +843,9 @@ Nachsichtfrist.
 betreffen, den er mit der Vorlegung des Wechsels oder mit der
 Protesterhebung beauftragt hat, gelten nicht als Fälle höherer Gewalt.
 
-
 ### Achter Abschnitt - Ehreneintritt
 
-
-
 #### 1. - Allgemeine Vorschriften
-
-
 
 ##### Art 55
 
@@ -954,10 +866,7 @@ hiervon zu benachrichtigen. Hält er die Frist nicht ein, so haftet er
 für den etwa durch seine Nachlässigkeit entstandenen Schaden, jedoch
 nur bis zur Höhe der Wechselsumme.
 
-
 #### 2. - Ehrenannahme
-
-
 
 ##### Art 56
 
@@ -978,14 +887,12 @@ Ehrenannahme zurückweisen. Läßt er sie aber zu, so verliert er den
 Rückgriff vor Verfall gegen denjenigen, zu dessen Ehren die Annahme
 erklärt worden ist, und gegen dessen Nachmänner.
 
-
 ##### Art 57
 
 Die Ehrenannahme wird auf dem Wechsel vermerkt; sie ist von
 demjenigen, der zu Ehren annimmt, zu unterschreiben. In der
 Annahmeerklärung ist anzugeben, für wen die Ehrenannahme stattfindet;
 mangels einer solchen Angabe gilt sie für den Aussteller.
-
 
 ##### Art 58
 
@@ -999,10 +906,7 @@ Inhaber gegen Erstattung des in Artikel 48 angegebenen Betrags die
 Aushändigung des Wechsels und gegebenenfalls des erhobenen Protests
 sowie einer quittierten Rechnung verlangen.
 
-
 #### 3. - Ehrenzahlung
-
-
 
 ##### Art 59
 
@@ -1014,7 +918,6 @@ Wechselverpflichtete, für den sie stattfindet, zahlen müßte.
 
 (3) Sie muß spätestens am Tag nach Ablauf der Frist für die Erhebung
 des Protests mangels Zahlung stattfinden.
-
 
 ##### Art 60
 
@@ -1030,12 +933,10 @@ lassen.
 der die Notadresse angegeben hat oder zu dessen Ehren der Wechsel
 angenommen worden ist, und die Nachmänner frei.
 
-
 ##### Art 61
 
 Weist der Inhaber die Ehrenzahlung zurück, so verliert er den
 Rückgriff gegen diejenigen, die frei geworden wären.
-
 
 ##### Art 62
 
@@ -1045,7 +946,6 @@ die Bezeichnung, so gilt die Zahlung für den Aussteller.
 
 (2) Der Wechsel und der etwa erhobene Protest sind dem Ehrenzahler
 auszuhändigen.
-
 
 ##### Art 63
 
@@ -1063,14 +963,9 @@ Wer entgegen dieser Vorschrift in Kenntnis der Sachlage zu Ehren
 zahlt, verliert den Rückgriff gegen diejenigen, die sonst frei
 geworden wären.
 
-
 ### Neunter Abschnitt - Ausfertigung mehrerer Stücke eines Wechsels, Wechselabschriften
 
-
-
 #### 1. - Ausfertigungen
-
-
 
 ##### Art 64
 
@@ -1090,7 +985,6 @@ so weiter in der Reihenfolge bis zum Aussteller. Die Indossanten sind
 verpflichtet, ihre Indossamente auf den neuen Ausfertigungen zu
 wiederholen.
 
-
 ##### Art 65
 
 (1) Wird eine Ausfertigung bezahlt, so erlöschen die Rechte aus allen
@@ -1103,7 +997,6 @@ Ausfertigung, die ihm nicht zurückgegeben worden ist, verpflichtet.
 übertragen, so haften er und seine Nachmänner aus allen
 Ausfertigungen, die ihre Unterschrift tragen und nicht herausgegeben
 worden sind.
-
 
 ##### Art 66
 
@@ -1123,13 +1016,7 @@ lassen:
 2.  daß die Annahme oder die Zahlung auch nicht auf eine andere
     Ausfertigung zu erlangen war.
 
-
-
-
-
 #### 2. - Abschriften
-
-
 
 ##### Art 67
 
@@ -1143,7 +1030,6 @@ angegeben sein, wie weit die Abschrift reicht.
 (3) Die Abschrift kann auf dieselbe Weise und mit denselben Wirkungen
 indossiert und mit einer Bürgschaftserklärung versehen werden wie die
 Urschrift.
-
 
 ##### Art 68
 
@@ -1163,10 +1049,7 @@ Indossamente nur noch auf der Abschrift" oder einen gleichbedeutenden
 Vermerk, so ist ein später auf die Urschrift gesetztes Indossament
 nichtig.
 
-
 ### Zehnter Abschnitt - Änderungen
-
-
 
 #### Art 69
 
@@ -1175,10 +1058,7 @@ der Änderung ihre Unterschrift auf den Wechsel gesetzt haben,
 entsprechend dem geänderten Text; wer früher unterschrieben hat,
 haftet nach dem ursprünglichen Text.
 
-
 ### Elfter Abschnitt - Verjährung
-
-
 
 #### Art 70
 
@@ -1194,7 +1074,6 @@ den Aussteller verjähren in sechs Monaten von dem Tag, an dem der
 Wechsel vom Indossanten eingelöst oder ihm gegenüber gerichtlich
 geltend gemacht worden ist.
 
-
 #### Art 71
 
 Der Neubeginn der Verjährung und ihre Hemmung nach § 204 des
@@ -1202,10 +1081,7 @@ Bürgerlichen Gesetzbuchs wirken nur gegen den Wechselverpflichteten,
 in Ansehung dessen die Tatsache eingetreten ist, welche den Neubeginn
 oder die Hemmung bewirkt.
 
-
 ### Zwölfter Abschnitt - Allgemeine Vorschriften
-
-
 
 #### Art 72
 
@@ -1221,21 +1097,16 @@ oder einen Sonnabend, so wird die Frist bis zum nächsten Werktag
 verlängert. Feiertage, die in den Lauf einer Frist fallen, werden bei
 der Berechnung der Frist mitgezählt.
 
-
 #### Art 73
 
 Bei der Berechnung der gesetzlichen oder im Wechsel bestimmten Fristen
 wird der Tag, von dem sie zu laufen beginnen, nicht mitgezählt.
 
-
 #### Art 74
 
 Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
-
 ## Zweiter Teil - Eigener Wechsel
-
-
 
 ### Art 75
 
@@ -1262,10 +1133,6 @@ Der eigene Wechsel enthält:
 
 7.  die Unterschrift des Ausstellers.
 
-
-
-
-
 ### Art 76
 
 (1) Eine Urkunde, der einer der im vorstehenden Artikel bezeichneten
@@ -1281,7 +1148,6 @@ Zahlungsort und zugleich als Wohnort des Ausstellers.
 (4) Ein eigener Wechsel ohne Angabe des Ausstellungsorts gilt als
 ausgestellt an dem Ort, der bei dem Namen des Ausstellers angegeben
 ist.
-
 
 ### Art 77
 
@@ -1325,7 +1191,6 @@ Wechselbürgschaft Anwendung (Artikel 30 bis 32); im Falle des Artikels
 31 Abs. 4 gilt die Wechselbürgschaft, wenn die Erklärung nicht angibt,
 für wen sie geleistet wird, für den Aussteller des eigenen Wechsels.
 
-
 ### Art 78
 
 (1) Der Aussteller eines eigenen Wechsels haftet in der gleichen Weise
@@ -1340,14 +1205,9 @@ Weigert sich der Aussteller, die Sicht unter Angabe des Tages zu
 bestätigen, so ist dies durch einen Protest festzustellen (Artikel
 25); die Nachsichtfrist läuft dann vom Tag des Protests.
 
-
 ## Dritter Teil - Ergänzende Vorschriften
 
-
-
 ### Erster Abschnitt - Protest
-
-
 
 #### Art 79
 
@@ -1355,7 +1215,6 @@ bestätigen, so ist dies durch einen Protest festzustellen (Artikel
 aufgenommen werden.
 
 (2)
-
 
 #### Art 80
 
@@ -1384,7 +1243,6 @@ vermerken.
 (3) Der Protest ist von dem Protestbeamten zu unterschreiben und mit
 dem Amtssiegel oder dem Amtsstempel zu versehen.
 
-
 #### Art 81
 
 (1) Der Protest ist auf den Wechsel oder auf ein mit dem Wechsel zu
@@ -1410,7 +1268,6 @@ den Vermerk finden die Vorschriften des Absatzes 2 und des Absatzes 3
 Satz 1 entsprechende Anwendung. Der Protestbeamte hat den Vermerk zu
 unterschreiben.
 
-
 #### Art 82
 
 (1) Der Protest, den der Inhaber einer Abschrift nach Artikel 68 Abs.
@@ -1426,20 +1283,17 @@ Wechsel befindlichen Indossamente und anderen Vermerke zu enthalten.
 (3) Die Vorschriften des Artikels 81 Abs. 2 und Abs. 3 finden
 entsprechende Anwendung.
 
-
 #### Art 83
 
 Muß eine wechselrechtliche Leistung von mehreren Personen oder von
 derselben Person mehrfach verlangt werden, so ist über die mehrfache
 Aufforderung nur eine Protesturkunde erforderlich.
 
-
 #### Art 84
 
 Der Wechsel kann an den Protestbeamten bezahlt werden. Die Befugnis
 des Protestbeamten zur Annahme der Zahlung kann nicht ausgeschlossen
 werden.
-
 
 #### Art 85
 
@@ -1476,13 +1330,11 @@ aufzunehmen. Der Vermerk hat zu enthalten:
 
 (3) Die Abschriften und Vermerke sind geordnet aufzubewahren.
 
-
 #### Art 86
 
 Proteste sollen in der Zeit von neun Uhr vormittags bis sechs Uhr
 abends erhoben werden, außerhalb dieser Zeit nur dann, wenn derjenige,
 gegen den protestiert wird, ausdrücklich einwilligt.
-
 
 #### Art 87
 
@@ -1504,15 +1356,11 @@ zweiten Absatzes nicht berührt. Ist eine Nachfrage bei der
 Polizeibehörde des Ortes ohne Erfolg geblieben, so ist der
 Protestbeamte zu weiteren Nachforschungen nicht verpflichtet.
 
-
 #### Art 88
 
 -
 
-
 ### Zweiter Abschnitt - Bereicherung
-
-
 
 #### Art 89
 
@@ -1527,10 +1375,7 @@ wechselmäßigen Verbindlichkeit.
 (2) Gegen die Indossanten, deren wechselmäßige Verbindlichkeit
 erloschen ist, findet ein solcher Anspruch nicht statt.
 
-
 ### Dritter Abschnitt - Abhanden gekommene Wechsel und Protesturkunden
-
-
 
 #### Art 90
 
@@ -1546,10 +1391,7 @@ beglaubigte Abschrift der Urkunde verwahrenden Stelle zu erteilen ist.
 In dem Zeugnis muß der Inhalt des Protests und des gemäß Artikel 85
 Abs. 2 aufgenommenen Vermerks angegeben sein.
 
-
 ## Vierter Teil - Geltungsbereich der Gesetze
-
-
 
 ### Art 91
 
@@ -1564,7 +1406,6 @@ Unterschrift in dem Gebiet eines Landes abgegeben worden ist, nach
 dessen Recht er wechselfähig wäre. Diese Vorschrift findet keine
 Anwendung, wenn die Verbindlichkeit von einem Inländer im Ausland
 übernommen worden ist.
-
 
 ### Art 92
 
@@ -1581,7 +1422,6 @@ Gültigkeit der späteren Wechselerklärung nicht berührt.
 ist im Inland gegenüber anderen Inländern gültig, wenn die Erklärung
 den Formerfordernissen des inländischen Rechts genügt.
 
-
 ### Art 93
 
 (1) Die Wirkungen der Verpflichtungserklärungen des Annehmers eines
@@ -1592,20 +1432,17 @@ bestimmen sich nach dem Recht des Zahlungsorts.
 dem Recht des Landes, in dessen Gebiet die Erklärungen unterschrieben
 worden sind.
 
-
 ### Art 94
 
 Die Fristen für die Ausübung der Rückgriffsrechte werden für alle
 Wechselverpflichteten durch das Recht des Ortes bestimmt, an dem der
 Wechsel ausgestellt worden ist.
 
-
 ### Art 95
 
 Das Recht des Ausstellungsorts bestimmt, ob der Inhaber eines
 gezogenen Wechsels die seiner Ausstellung zugrunde liegende Forderung
 erwirbt.
-
 
 ### Art 96
 
@@ -1616,7 +1453,6 @@ Teilzahlung anzunehmen.
 
 (2) Dasselbe gilt für die Zahlung bei einem eigenen Wechsel.
 
-
 ### Art 97
 
 Die Form des Protestes und die Fristen für die Protesterhebung sowie
@@ -1624,7 +1460,6 @@ die Form der übrigen Handlungen, die zur Ausübung oder Erhaltung der
 Wechselrechte erforderlich sind, bestimmen sich nach dem Recht des
 Landes, in dessen Gebiet der Protest zu erheben oder die Handlung
 vorzunehmen ist.
-
 
 ### Art 98
 

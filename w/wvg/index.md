@@ -18,16 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 15.5.2002 I 1578
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Allgemeine Vorschriften für den Verband
-
-
 
 ### § 1 Zweck und Rechtsform
 
@@ -39,7 +35,6 @@ errichtet werden; er ist keine Gebietskörperschaft.
 Mitglieder; er verwaltet sich im Rahmen der Gesetze selbst. Er kann
 nach Maßgabe landesrechtlicher Vorschriften Beamte im Sinne des
 Beamtenrechtsrahmengesetzes haben.
-
 
 ### § 2 Zulässige Aufgaben
 
@@ -99,10 +94,6 @@ des Verbands sein:
 
 14. Förderung und Überwachung der vorstehenden Aufgaben.
 
-
-
-
-
 ### § 3 Name
 
 (1) Der Name des Verbands soll seine Eigenschaft als Wasser- und
@@ -111,7 +102,6 @@ erkennen lassen.
 
 (2) Die bei Inkrafttreten dieses Gesetzes geltenden Bezeichnungen der
 Verbände können beibehalten werden.
-
 
 ### § 4 Mögliche Verbandsmitglieder
 
@@ -144,7 +134,6 @@ Bewilligung im Sinne des Bundesberggesetzes sowie auch
 Bergwerkseigentum und Bewilligungen, die aufgehoben, widerrufen oder
 erloschen sind, gleich.
 
-
 ### § 5 Unternehmen, Plan, Lagerbuch
 
 (1) Unternehmen des Verbands im Sinne dieses Gesetzes sind die der
@@ -159,7 +148,6 @@ Beschreibungen) darzustellen.
 Verzeichnis der Anlagen und Gewässer führt (Lagerbuch), aus dem ihre
 Art und ihre Maße sowie ferner Unterhaltung, Betrieb und Nutzung
 ersichtlich sind.
-
 
 ### § 6 Satzung
 
@@ -210,14 +198,9 @@ Verbands, insbesondere hinsichtlich des als oberste Dienstbehörde
 zuständigen Organs sowie der als Dienstvorgesetzte vorzusehenden
 Stelle, enthalten.
 
-
 ## Zweiter Teil - Errichtung des Verbands
 
-
-
 ### Erster Abschnitt - Errichtungsarten
-
-
 
 #### § 7 Arten der Errichtung, Entstehung des Verbands
 
@@ -249,7 +232,6 @@ wahrgenommen werden können.
 (3) Der Genehmigungsakt nach Absatz 1 Nr. 1 oder 2 sowie die Satzung
 sind von der Aufsichtsbehörde öffentlich bekanntzumachen.
 
-
 #### § 8 Beteiligte
 
 (1) Beteiligte im Sinne dieses Gesetzes sind die nach § 4 als
@@ -275,7 +257,6 @@ Erbbauberechtigte gelten als ein Beteiligter.
 Erleichterung einer Pflicht und die Möglichkeit, Maßnahmen des
 Verbands zweckmäßig oder wirtschaftlich auszunutzen.
 
-
 #### § 9 Heranziehung zur Mitgliedschaft
 
 Beteiligte, die der Errichtung des Verbands nicht zugestimmt haben,
@@ -283,7 +264,6 @@ sind - auch gegen ihren Willen - als Verbandsmitglieder heranzuziehen.
 Die Aufsichtsbehörde kann in besonders gelagerten Einzelfällen von der
 Heranziehung absehen, wenn zu erwarten ist, daß dadurch die Erfüllung
 der Verbandsaufgaben nicht beeinträchtigt wird.
-
 
 #### § 10 Zulässigkeit der Errichtung von Amts wegen
 
@@ -313,10 +293,7 @@ der Verbandsaufgaben nicht beeinträchtigt wird.
 
 (3) § 43 des Flurbereinigungsgesetzes bleibt unberührt.
 
-
 ### Zweiter Abschnitt - Errichtungsverfahren
-
-
 
 #### § 11 Einleitung des Errichtungsverfahrens
 
@@ -345,7 +322,6 @@ ungeeignet, kann die Aufsichtsbehörde den Antrag zurückweisen oder die
 Unterlagen, soweit erforderlich, selbst beschaffen und die Satzung
 selbst entwerfen.
 
-
 #### § 12 Vorarbeiten
 
 (1) Eigentümer und Besitzer von Grundstücken haben zu dulden, daß
@@ -360,7 +336,6 @@ dürfen nur mit Zustimmung der Wohnungsinhaber betreten werden.
 (2) Entstehen durch eine nach Absatz 1 zulässige Maßnahme dem
 Eigentümer oder Besitzer unmittelbare Vermögensnachteile, so hat die
 Aufsichtsbehörde eine angemessene Entschädigung in Geld zu leisten.
-
 
 #### § 13 Feststellung der Beteiligten, Stimmenzahl
 
@@ -383,7 +358,6 @@ fest oder unterläßt sie zu Unrecht eine solche Feststellung, hat dies
 auf die Wirksamkeit von Beschlüssen der Beteiligten im
 Errichtungsverfahren sowie auf die Errichtung des Verbands keinen
 Einfluß.
-
 
 #### § 14 Bekanntmachung des Vorhabens, Verhandlungstermin
 
@@ -427,7 +401,6 @@ Verhandlungen teilzunehmen und mitzuwirken; sie sowie gemeinsame
 Eigentümer oder Erbbauberechtigte können nur einheitliche Erklärungen
 abgeben.
 
-
 #### § 15 Beschlußfassung
 
 (1) Beschlußfähigkeit besteht, wenn die anwesenden Beteiligten
@@ -462,7 +435,6 @@ Genehmigung der Verhandlungsniederschrift, ohne ihre Vervollständigung
 oder Berichtigung zu beantragen, so gilt diese Niederschrift als
 genehmigt; hierauf ist der Beteiligte hinzuweisen.
 
-
 #### § 16 Errichtung von Amts wegen
 
 (1) Soll ein Verband von Amts wegen errichtet werden, hat die
@@ -475,7 +447,6 @@ sind entsprechend anzuwenden.
 Gelegenheit zur Stellungnahme zu geben. § 14 Abs. 1 und 4 bis 6 und §
 15 Abs. 4 gelten entsprechend.
 
-
 #### § 17 Überleitung eines Errichtungsverfahrens
 
 Lehnt in einem Errichtungsverfahren nach § 7 Abs. 1 Nr. 1 oder 2 die
@@ -485,7 +456,6 @@ Aufsichtsbehörde das Verfahren in ein solches nach § 7 Abs. 1 Nr. 3
 geboten ist. Nach § 16 Abs. 1 vorgeschriebene Verfahrenshandlungen,
 die bereits im bisherigen Verfahren vorgenommen worden sind, brauchen
 nicht wiederholt zu werden.
-
 
 #### § 18 Entscheidung über Anträge und Einwendungen eines Beteiligten
 
@@ -500,7 +470,6 @@ Satzung des Verbands gestellt werden.
 einem Errichtungsverfahren nach § 7 Abs. 1 Nr. 3 entscheidet die
 Aufsichtsbehörde nach der öffentlichen Bekanntmachung der Satzung
 durch besonderen Bescheid.
-
 
 #### § 19 Änderung der Errichtungsunterlagen
 
@@ -521,12 +490,10 @@ Aufsichtsbehörde die Errichtungsunterlagen im erforderlichen Umfang zu
 (3) Nachträgliche Änderungen der Errichtungsunterlagen sind von der
 Aufsichtsbehörde öffentlich bekanntzumachen.
 
-
 #### § 20 Erste Berufung der Organe
 
 Nach der Entstehung des Verbands sorgt die Aufsichtsbehörde für die
 erste Berufung der Organe des Verbands.
-
 
 #### § 21 Verfahrenskosten
 
@@ -546,14 +513,9 @@ Kosten trägt der Verband; dies gilt nicht für Kosten, die einem
 Beteiligten anläßlich der Teilnahme an Verfahrensverhandlungen oder
 aus der Wahrnehmung seiner Interessen erwachsen.
 
-
 ## Dritter Teil - Rechtsverhältnisse des Verbands zu seinen Mitgliedern und Dritten
 
-
-
 ### Erster Abschnitt - Mitgliedschaft
-
-
 
 #### § 22 Mitgliedschaft
 
@@ -562,7 +524,6 @@ und 24 - die Beteiligten, die der Errichtung des Verbands zugestimmt
 haben oder die zur Mitgliedschaft herangezogen worden sind, sowie
 deren jeweilige Rechtsnachfolger. Gemeinsame Eigentümer oder
 Erbbauberechtigte gelten als ein Mitglied.
-
 
 #### § 23 Begründung und Erweiterung der Mitgliedschaft bei bestehenden Verbänden
 
@@ -576,7 +537,6 @@ Erfüllung der Verbandsaufgaben erforderlich ist, Personen, die die in
 § 8 Abs. 1 Nr. 1 bis 3 genannten Voraussetzungen erfüllen, gegen ihren
 Willen zur Mitgliedschaft in einem bestehenden Verband heranziehen
 oder eine bestehende Mitgliedschaft erweitern.
-
 
 #### § 24 Aufhebung der Mitgliedschaft
 
@@ -600,7 +560,6 @@ zulässig.
 betreffenden Verbandsmitglieds festsetzen, um unbillige Folgen der
 Aufhebung der Mitgliedschaft zu verhüten.
 
-
 #### § 25 Verfahren
 
 (1) Vor einer Entscheidung nach den §§ 23 und 24 sind im Fall des
@@ -621,7 +580,6 @@ zu hören.
 Verbandsmitglieder zu hören, kann die Anhörung durch die Möglichkeit
 der Einsicht in die Unterlagen über die Angelegenheit ersetzt werden;
 dies ist öffentlich bekanntzumachen.
-
 
 #### § 26 Auskunftspflicht
 
@@ -644,7 +602,6 @@ oder herangezogen werden können mit der Maßgabe, daß sie nur insoweit
 zur Offenlegung von Tatsachen und Rechtsverhältnissen verpflichtet
 sind, als dies für die Festlegung ihrer Beiträge erforderlich ist.
 
-
 #### § 27 Verschwiegenheitspflicht
 
 Vorstandsmitglieder, Mitglieder des Verbandsausschusses,
@@ -655,10 +612,7 @@ bewahren. Im übrigen bleiben die Vorschriften der
 Verwaltungsverfahrensgesetze der Länder über die
 Verschwiegenheitspflicht unberührt.
 
-
 ### Zweiter Abschnitt - Verbandsbeiträge
-
-
 
 #### § 28 Verbandsbeiträge
 
@@ -691,14 +645,12 @@ Verbandsbeitragskosten frei.
 (6) Die Satzung kann für besondere Härtefälle eine vollständige oder
 teilweise Befreiung von der Verbandsbeitragszahlung vorsehen.
 
-
 #### § 29 Öffentliche Last
 
 Verbandsbeiträge sind öffentliche Abgaben. Die Beitragspflicht der
 dinglichen Verbandsmitglieder ruht als öffentliche Last auf den
 Grundstücken, Bergwerken und Anlagen, mit denen die dinglichen
 Verbandsmitglieder an dem Verband teilnehmen.
-
 
 #### § 30 Maßstab für Verbandsbeiträge
 
@@ -713,7 +665,6 @@ reicht eine annähernde Ermittlung der Vorteile und Kosten aus.
 entsprechend den für die einzelnen Grundstücke tatsächlich
 entstehenden Kosten festsetzen oder allgemein einen von Absatz 1
 abweichenden Beitragsmaßstab festlegen.
-
 
 #### § 31 Erhebung der Verbandsbeiträge
 
@@ -732,7 +683,6 @@ entsprechend anzuwenden.
 (5) Jedem Verbandsmitglied ist auf Verlangen Einsicht in die ihn
 betreffenden Beitragsunterlagen zu gewähren.
 
-
 #### § 32 Vorausleistungen auf Verbandsbeiträge
 
 Soweit es für die Durchführung des Unternehmens und die Verwaltung des
@@ -740,10 +690,7 @@ Verbands erforderlich ist, kann der Vorstand nach einem sich aus der
 Satzung ergebenden Maßstab Vorausleistungen auf die Verbandsbeiträge
 festsetzen.
 
-
 ### Dritter Abschnitt - Benutzung von Grundstücken
-
-
 
 #### § 33 Benutzung der Grundstücke dinglicher Verbandsmitglieder
 
@@ -759,7 +706,6 @@ weitere Beschränkungen des Grundeigentums vorsehen.
 nach anderen Rechtsvorschriften erforderlicher Genehmigungen - aus den
 im Verbandsgebiet belegenen Grundstücken entnommen werden.
 
-
 #### § 34 Deichvorland
 
 Hat der Verband Grundstücke vor Hochwasser oder Sturmflut zu schützen,
@@ -769,7 +715,6 @@ entgegenstehen; für das Unternehmen benötigte Stoffe kann er -
 vorbehaltlich nach anderen Rechtsvorschriften erforderlicher
 Genehmigungen - auch aus diesem Deichvorland entnehmen.
 
-
 #### § 35 Grundstücke mit öffentlichen Zwecken
 
 Die Benutzung von Grundstücken, die öffentlichen Zwecken dienen,
@@ -777,7 +722,6 @@ bedarf der Zustimmung der zuständigen Verwaltungsbehörde, soweit sie
 nicht durch Rechtsvorschrift zugelassen ist. Die Zustimmung darf nur
 versagt werden, soweit eine Beeinträchtigung der öffentlichen Zwecke
 nicht durch entsprechende Maßnahmen ausgeglichen werden kann.
-
 
 #### § 36 Ausgleich für Nachteile
 
@@ -793,12 +737,10 @@ außer Ansatz, soweit sie bei Durchführung des Unternehmens durch einen
 Vorteil ausgeglichen werden, der bei der Festsetzung eines
 Verbandsbeitrags unberücksichtigt bleibt.
 
-
 #### § 37 Ausgleichsverfahren
 
 Kommt eine Einigung über den Ausgleich nicht zustande, entscheidet der
 Vorstand darüber durch schriftlichen Bescheid.
-
 
 #### § 38 Anspruch auf Grundstückserwerb
 
@@ -808,7 +750,6 @@ geringen oder keinen wirtschaftlichen Wert mehr hat, kann er
 verlangen, daß der Verband das Grundstück zu Eigentum erwirbt. Für die
 Ermittlung des Gegenwertes ist der Zeitpunkt der Benutzung des
 Grundstücks durch den Verband maßgeblich.
-
 
 #### § 39 Rechtsverhältnisse bei abgeleiteten Grundstücksnutzungen
 
@@ -831,13 +772,7 @@ eines Jahres
 2.  die Aufhebung eines anderen Nutzungsrechts ohne Einhaltung einer Frist
     verlangen.
 
-
-
-
-
 ### Vierter Abschnitt - Enteignung für das Unternehmen
-
-
 
 #### § 40 Zweck und Gegenstand der Enteignung
 
@@ -865,10 +800,6 @@ Grundstücksteile gelten als Grundstücke.
 4.  Rechtsverhältnisse begründet werden, die Rechte der in Nummer 3
     bezeichneten Art gewähren.
 
-
-
-
-
 #### § 41 Zulässigkeit und Umfang der Enteignung
 
 (1) Die Enteignung ist im einzelnen Fall nur zulässig, wenn das Wohl
@@ -891,12 +822,10 @@ den Restbesitz insoweit auszudehnen, als das Restgrundstück oder der
 Restbesitz nicht mehr in angemessenem Umfang baulich oder
 wirtschaftlich genutzt werden kann.
 
-
 #### § 42 Entschädigung
 
 Für die Enteignung ist Entschädigung zu leisten. Hierfür gelten die §§
 93 bis 103 des Baugesetzbuchs entsprechend.
-
 
 #### § 43 Anwendung von Landesrecht
 
@@ -904,10 +833,7 @@ Soweit dieses Gesetz keine Regelung trifft, gilt das Enteignungsrecht
 des Landes, in dem die von der Enteignung betroffenen Gegenstände
 belegen sind.
 
-
 ### Fünfter Abschnitt - Verbandsschau
-
-
 
 #### § 44 Verbandsschau, Schaubeauftragte
 
@@ -923,7 +849,6 @@ festgelegte Zeit gewählt. Der Vorstand oder ein von ihm bestimmter
 Schaubeauftragter leitet die Verbandsschau; die Satzung kann
 Abweichungen hiervon vorsehen.
 
-
 #### § 45 Durchführung der Verbandsschau
 
 (1) Der Vorstand bestimmt Ort und Zeit der Verbandsschau. Er hat die
@@ -937,10 +862,7 @@ unterzeichnen.
 
 (3) Der Vorstand veranlaßt die Beseitigung festgestellter Mängel.
 
-
 ## Vierter Teil - Verbandsverfassung
-
-
 
 ### § 46 Organe
 
@@ -950,7 +872,6 @@ daß der Verband anstelle der Verbandsversammlung einen
 Verbandsausschuß als Vertreterversammlung der Verbandsmitglieder hat.
 
 (2) Die Organe können eine andere Bezeichnung führen.
-
 
 ### § 47 Verbandsversammlung
 
@@ -996,7 +917,6 @@ Verbandsausschuß als Vertreterversammlung der Verbandsmitglieder hat.
 
 (2) Die Satzung kann weitere Aufgaben vorsehen.
 
-
 ### § 48 Sitzungen der Verbandsversammlung
 
 (1) Der Verbandsvorsteher beruft die Verbandsversammlung nach Bedarf,
@@ -1020,7 +940,6 @@ Regelung enthält.
 leitet die Verbandsversammlung. Wenn er selbst Verbandsmitglied ist,
 hat er Stimmrecht.
 
-
 ### § 49 Verbandsausschuß
 
 (1) Hat der Verband keine Verbandsversammlung, obliegen deren Aufgaben
@@ -1035,7 +954,6 @@ anderes Wahlverfahren zulassen. Wiederwahl ist möglich. Die Satzung
 kann für jedes Mitglied des Verbandsausschusses einen ständigen
 Vertreter zulassen.
 
-
 ### § 50 Sitzungen des Verbandsausschusses
 
 (1) Im Verbandsausschuß hat jedes Mitglied eine Stimme. Eine andere
@@ -1044,13 +962,11 @@ Regelung durch die Satzung ist zulässig.
 (2) Der Verbandsvorsteher ist Vorsitzender des Verbandsausschusses
 ohne Stimmrecht.
 
-
 ### § 51 Unterrichtung der Verbandsmitglieder
 
 In Verbänden, die einen Verbandsausschuß haben, unterrichtet der
 Verbandsvorsteher die Verbandsmitglieder in angemessenen Zeitabständen
 über die Angelegenheiten des Verbands.
-
 
 ### § 52 Vorstand, Verbandsvorsteher
 
@@ -1066,7 +982,6 @@ nicht zugleich Vorstandsmitglieder sein.
 
 (3) Die Vorstandsmitglieder sind ehrenamtlich tätig; sie können für
 die Wahrnehmung ihres Amtes eine Entschädigung erhalten.
-
 
 ### § 53 Wahl und Abberufung der Vorstandsmitglieder
 
@@ -1090,7 +1005,6 @@ Vorstandsmitglieder fehlen oder an der Ausübung ihrer Tätigkeit
 gehindert sind, kann die Aufsichtsbehörde andere Personen bis zur
 Behebung des Mangels bestellen.
 
-
 ### § 54 Geschäfte des Vorstands
 
 (1) Der Vorstand leitet den Verband nach Maßgabe dieses Gesetzes und
@@ -1107,7 +1021,6 @@ fahrlässig verletzt, ist dem Verband zum Ersatz des daraus
 entstehenden Schadens verpflichtet. Der Schadenersatzanspruch verjährt
 in drei Jahren von dem Zeitpunkt an, in welchem der Verband von dem
 Schaden und der Person des Ersatzpflichtigen Kenntnis erlangt.
-
 
 ### § 55 Gesetzliche Vertretung des Verbands
 
@@ -1128,7 +1041,6 @@ Form des Satzes 1. Ist eine Erklärung gegenüber dem Vorstand
 abzugeben, genügt es, wenn sie einem Vorstandsmitglied oder einem
 vertretungsbefugten Geschäftsführer gegenüber abgegeben wird.
 
-
 ### § 56 Sitzungen des Vorstands
 
 (1) Der Verbandsvorsteher beruft den Vorstand nach Bedarf, mindestens
@@ -1138,20 +1050,14 @@ jedoch einmal jährlich, zu Sitzungen ein.
 gelten die Vorschriften der Verwaltungsverfahrensgesetze der Länder
 über die Ausschüsse, sofern die Satzung nichts anderes bestimmt.
 
-
 ### § 57 Geschäftsführer
 
 Der Verband kann einen oder mehrere Geschäftsführer bestellen. Das
 Nähere regelt die Satzung.
 
-
 ## Fünfter Teil - Satzungsänderung sowie Umgestaltung und Auflösung des Verbands
 
-
-
 ### Erster Abschnitt - Satzungsänderung
-
-
 
 #### § 58 Änderung der Satzung
 
@@ -1165,7 +1071,6 @@ Aufsichtsbehörde. Sie ist von der Aufsichtsbehörde öffentlich
 bekanntzumachen und tritt mit der Bekanntmachung in Kraft, wenn nicht
 ein anderer Zeitpunkt festgelegt ist.
 
-
 #### § 59 Satzungsänderung durch die Aufsichtsbehörde
 
 (1) Die Aufsichtsbehörde kann eine Änderung der Satzung aus Gründen
@@ -1175,10 +1080,7 @@ des öffentlichen Interesses fordern.
 nicht nach, kann die Aufsichtsbehörde die Satzung ändern. § 58 Abs. 2
 Satz 2 gilt auch für diesen Fall.
 
-
 ### Zweiter Abschnitt - Umgestaltung
-
-
 
 #### § 60 Zusammenschluß
 
@@ -1211,7 +1113,6 @@ die nicht mehr weiterbestehen sollen, als aufgelöst.
 
 (4) Ein Zusammenschluß kann auch durch Landesrecht vorgenommen werden.
 
-
 #### § 61 Übertragung von Aufgaben
 
 (1) Ein Verband kann einzelne Aufgaben und Unternehmen sowie das
@@ -1223,10 +1124,7 @@ sowie die §§ 59 und 60 Abs. 1 Satz 2 entsprechend.
 (2) Eine Aufgabenübertragung oder eine Aufspaltung kann auch durch
 Landesrecht vorgenommen werden.
 
-
 ### Dritter Abschnitt - Auflösung
-
-
 
 #### § 62 Auflösung des Verbands
 
@@ -1245,7 +1143,6 @@ nicht nach, so kann die Aufsichtsbehörde den Verband auflösen.
 
 (3) Die Auflösung ist von der Aufsichtsbehörde unter Aufforderung der
 Gläubiger zur Anmeldung ihrer Ansprüche öffentlich bekanntzumachen.
-
 
 #### § 63 Abwicklung
 
@@ -1268,7 +1165,6 @@ die §§ 51 bis 53 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 Verbandsvermögens beschließt die Verbandsversammlung mit einfacher
 Mehrheit. Der Beschluß bedarf der Genehmigung der Aufsichtsbehörde.
 
-
 #### § 64 Aufbewahrung der Bücher, Einsicht
 
 (1) Nach Beendigung der Abwicklung werden die Bücher und Schriften des
@@ -1278,16 +1174,12 @@ aufgelösten Verbands bei der Aufsichtsbehörde aufbewahrt.
 bis zu zehn Jahre nach der Auflösung des Verbands die Bücher und
 Schriften einzusehen und zu benutzen.
 
-
 ## Sechster Teil - Rechnungswesen
-
-
 
 ### § 65 Haushalt, Rechnungslegung, Prüfung
 
 Für den Haushalt, die Rechnungslegung sowie deren Prüfung gelten die
 landesrechtlichen Vorschriften.
-
 
 ### § 66 Schuldübernahme
 
@@ -1299,10 +1191,7 @@ vor dessen Gründung zu beginnen.
 (2) Die Anordnung der Behörde tritt an die Stelle der sonst
 erforderlichen Erklärung des Verbands.
 
-
 ## Siebter Teil - Verfahrensvorschriften
-
-
 
 ### § 67 Öffentliche Bekanntmachungen
 
@@ -1311,7 +1200,6 @@ erfolgen in den Gemeinden, auf die sich der Verband erstreckt, nach
 den landesrechtlichen Vorschriften des Verwaltungsverfahrensrechts
 über öffentliche Bekanntmachungen in förmlichen Verwaltungsverfahren.
 Durch Landesrecht kann eine andere Regelung getroffen werden.
-
 
 ### § 68 Anordnungsbefugnis
 
@@ -1325,7 +1213,6 @@ von einzelnen Vorstandsmitgliedern, Vorstandsmitgliedern eines
 Unterverbands und Dienstkräften des Verbands oder eines Unterverbands
 wahrgenommen werden können.
 
-
 ### § 69 Freiheit von Kosten
 
 (1) Geschäfte und Verhandlungen, die der Durchführung dieses Gesetzes
@@ -1337,13 +1224,11 @@ Abgaben, die auf landesrechtlichen Vorschriften beruhen.
 Aufsichtsbehörde bestätigt, daß ein Geschäft oder eine Verhandlung der
 Durchführung dieses Gesetzes dient.
 
-
 ### § 70 Geltung von Landesrecht
 
 Erstreckt sich das Verbandsgebiet auf mehr als ein Land, gilt für die
 Rechtsverhältnisse des Verbands das Recht des Landes, in dem der
 Verband seinen Sitz hat.
-
 
 ### § 71 Schiedsgericht
 
@@ -1354,10 +1239,7 @@ entscheidet. Auf das Verfahren vor dem Schiedsgericht finden die
 Verfahrensvorschriften des Zehnten Buches der Zivilprozeßordnung
 entsprechend Anwendung.
 
-
 ## Achter Teil - Aufsicht, Oberverband, Unterverband
-
-
 
 ### § 72 Aufsicht, Oberverband, Unterverband
 
@@ -1370,13 +1252,11 @@ gemeinsame Aufsichtsbehörde den einen der Verbände zum Oberverband
 bestimmen. Die für die Aufsicht über den Oberverband zuständige
 Behörde führt auch die Aufsicht über den Unterverband.
 
-
 ### § 73 Örtliche Zuständigkeit
 
 Bei einem Verband, dessen Verbandsgebiet sich auf mehr als ein Land
 erstreckt oder erstrecken soll, bestimmen die beteiligten Länder die
 Aufsichtsbehörde in gegenseitigem Einvernehmen.
-
 
 ### § 74 Informationsrecht der Aufsichtsbehörde
 
@@ -1388,7 +1268,6 @@ sowie an Ort und Stelle Prüfungen und Besichtigungen vornehmen.
 (2) Die Aufsichtsbehörde ist unter Angabe der Tagesordnung zu den
 Sitzungen der Verbandsorgane einzuladen; ihrem Vertreter ist auf
 Verlangen das Wort zu erteilen.
-
 
 ### § 75 Zustimmung zu Geschäften
 
@@ -1426,7 +1305,6 @@ Monats nach Eingang der Anzeige bei der Aufsichtsbehörde versagt wird.
 In begründeten Einzelfällen kann die Aufsichtsbehörde die Frist durch
 Zwischenbescheid um einen Monat verlängern.
 
-
 ### § 76 Ersatzvornahme
 
 Kommt der Verband einer Anweisung der Aufsichtsbehörde, die diese auf
@@ -1436,7 +1314,6 @@ Erforderliche anordnen und auf dessen Kosten selbst oder durch einen
 anderen durchführen; die Verwaltungs-Vollstreckungsgesetze der Länder
 finden entsprechende Anwendung.
 
-
 ### § 77 Bestellung eines Beauftragten
 
 Wenn und solange die ordnungsgemäße Verwaltung des Verbands es
@@ -1445,10 +1322,7 @@ alle oder einzelne Geschäfte des Verbands oder eines Verbandsorgans
 auf Kosten des Verbands führt. Für den Beauftragten gilt § 27
 entsprechend.
 
-
 ## Neunter Teil - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 78 Außerkrafttreten
 
@@ -1478,7 +1352,6 @@ geltenden Recht fortgeführt.
 für den Haushalt, die Rechnungslegung und die Rechnungsprüfung das
 bisher geltende Recht weiter.
 
-
 ### § 79 Bestehende Verbände
 
 (1) Die Rechtsstellung der bei Inkrafttreten dieses Gesetzes
@@ -1497,18 +1370,15 @@ dieses Gesetzes durch Landesrecht eine vereinfachte Möglichkeit der
 Auflösung, der Übertragung von Aufgaben und des Zusammenschlusses von
 Amts wegen zugelassen werden.
 
-
 ### § 80 Verbände auf besonderer gesetzlicher Grundlage
 
 Auf Verbände, die durch besonderes Gesetz errichtet worden sind oder
 errichtet werden, findet dieses Gesetz nur Anwendung, wenn dies durch
 Rechtsvorschriften ausdrücklich angeordnet oder zugelassen worden ist.
 
-
 ### § 81
 
 -
-
 
 ### § 82 Inkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 
 Stand: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.2.2010 I 193 - 1 BvL 1/09, 1 BvL 3/09,1 BvL 4/09 -
 
-
 ## (XXXX)
 
 Nach § 20 Abs. 4 Satz 3 des Zweiten Buches Sozialgesetzbuch -
@@ -31,7 +30,6 @@ Buches Sozialgesetzbuch beträgt für die Zeit ab 1. Juli 2005 für
 Personen, die allein stehend oder allein erziehend sind oder deren
 Partner minderjährig ist, in den alten Bundesländern einschließlich
 Berlin (Ost) 345 Euro, in den neuen Bundesländern 331 Euro.
-
 
 ## Schlussformel
 

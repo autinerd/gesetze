@@ -37,10 +37,7 @@ S. 1), jeweils zuletzt geändert durch die Richtlinie 2004/50/EG des
 Europäischen Parlaments und des Rates vom 29. April 2004 (ABl. EU Nr.
 L 164 S. 114, Nr. L 220 S. 40).
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -57,10 +54,6 @@ verkehrenden Fahrzeugen.
 
 2.  Eisenbahninfrastrukturen und Fahrzeuge, die ausschließlich für
     historische oder touristische Zwecke genutzt werden.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -128,16 +121,11 @@ Im Sinne dieser Verordnung bedeuten:
     beauftragt worden ist, bezüglich bestimmter ihm nach dieser Verordnung
     auferlegter Pflichten in seinem Namen zu handeln.
 
-
-
-
-
 ### § 3 Erfüllung der grundlegenden Anforderungen
 
 Das transeuropäische Eisenbahnsystem, seine Teilsysteme und die
 Interoperabilitätskomponenten müssen die sie betreffenden
 grundlegenden Anforderungen erfüllen.
-
 
 ### § 4 Technische Spezifikationen für die Interoperabilität
 
@@ -146,10 +134,7 @@ Spezifikationen) sind nach Maßgabe der Anlage 2 anzuwenden. Die
 Anwendung von Technischen Spezifikationen, die unmittelbar geltendes
 Gemeinschaftsrecht sind, bleibt unberührt.
 
-
 ## Zweiter Teil - Erteilung der Inbetriebnahmegenehmigung
-
-
 
 ### § 5 Ausnahmen von der Anwendung von Technischen Spezifikationen
 
@@ -219,7 +204,6 @@ nachdem das nach Artikel 7 Unterabs. 2 in Verbindung mit Artikel 21
 der jeweils anzuwendenden Richtlinie 96/48/EG oder 2001/16/EG
 erforderliche Verfahren abgeschlossen ist. Zugleich ist über die
 stattdessen anzuwendenden Regelungen zu entscheiden.
-
 
 ### § 6 Inbetriebnahmegenehmigung von strukturellen Teilsystemen
 
@@ -320,7 +304,6 @@ dies zur Gewährleistung der Erfüllung der grundlegenden Anforderungen
 oder zur Gewährleistung der Sicherheit des Eisenbahnbetriebs
 erforderlich ist.
 
-
 ### § 7 Vereinfachte Inbetriebnahmegenehmigung für Fahrzeuge einer zugelassenen Bauart
 
 (1) Für serienweise zu fertigende oder gefertigte Fahrzeuge können
@@ -355,10 +338,6 @@ für ein Fahrzeug einer zugelassenen Bauart zu erteilen bei Vorlage
 
 2.  einer Erklärung des Antragstellers, dass das Fahrzeug mit der
     Bauartzulassung übereinstimmt.
-
-
-
-
 
 ### § 8 Vereinfachte Inbetriebnahmegenehmigung für Fahrzeuge mit ausländischer Inbetriebnahmegenehmigung
 
@@ -402,7 +381,6 @@ durchgeführt wurden.
 (3) Zur Prüfung, ob die Anforderungen nach Absatz 1 Nr. 1 und 2
 gewährleistet sind, kann die Sicherheitsbehörde Probefahrten anordnen.
 § 6 Abs. 7 gilt entsprechend.
-
 
 ### § 9 Umfangreiche Umrüstung und Erneuerung von strukturellen Teilsystemen
 
@@ -457,10 +435,7 @@ vorgelegten Unterlagen fest, hat sie dem Antragsteller Gelegenheit zur
 Beseitigung zu geben. Im Fall des Satzes 3 ist die Frist nach Satz 1
 bis zur Beseitigung der Mängel gehemmt.
 
-
 ## Dritter Teil - Interoperabilitätskomponenten
-
-
 
 ### § 10 Inverkehrbringen und Verwenden von Interoperabilitätskomponenten
 
@@ -513,7 +488,6 @@ Herstellung zum Eigengebrauch und im Fall wesentlicher Änderungen an
 bereits in Verkehr gebrachten Interoperabilitätskomponenten oder
 wesentlicher Änderungen in Bezug auf ihre Verwendung.
 
-
 ### § 11 Beeinträchtigung der grundlegenden Anforderungen
 
 (1) Ergreift die Sicherheitsbehörde Maßnahmen nach § 5a des
@@ -528,10 +502,7 @@ bekannt, die auf eine Beeinträchtigung der grundlegenden Anforderungen
 durch eine Interoperabilitätskomponente hinweisen, unterrichtet sie
 hiervon die Sicherheitsbehörde, die entsprechend Absatz 1 vorgeht.
 
-
 ## Vierter Teil - Pflichten der Eisenbahnen, Halter von Eisenbahnfahrzeugen, Hersteller
-
-
 
 ### § 12 Pflichten der Eisenbahnen und der Halter von Eisenbahnfahrzeugen
 
@@ -561,7 +532,6 @@ Betrieb genommen wurden, bis zum Ablauf des 31. Dezember 2010 entfernt
 wird, wenn die Kennzeichnung nicht der in Anlage 2 Nummer 6.2
 aufgeführten Entscheidung entspricht.
 
-
 ### § 13 Mitwirkungspflichten
 
 (1) Stellen auf dem Gebiet der Bundesrepublik Deutschland
@@ -587,7 +557,6 @@ Stelle den Bestimmungen des Artikels 20 Abs. 4 in Verbindung mit
 Anhang VII der jeweils anwendbaren Richtlinie 96/48/EG oder 2001/16/EG
 nicht genügt.
 
-
 ### § 14 Aufbewahrungspflichten
 
 (1) Wer nach den Vorschriften des Zweiten Teils dieser Verordnung eine
@@ -603,10 +572,7 @@ Erwerber des Teilsystems.
 nicht umfangreich sind, sind zu dokumentieren. Absatz 1 gilt
 entsprechend.
 
-
 ## Fünfter Teil - Benannte Stellen
-
-
 
 ### § 15 Aufgaben der benannten Stellen
 
@@ -651,7 +617,6 @@ Personen- und betriebsbezogene Daten dürfen nicht veröffentlicht
 werden. Die Wahrung des Betriebs- und Geschäftsgeheimnisses ist
 sicherzustellen.
 
-
 ### § 16 Unterauftragsvergabe
 
 (1) Eine benannte Stelle kann sich Dritter bedienen, die Teile des EG-
@@ -663,7 +628,6 @@ ordnungsgemäß auszuführen.
 
 (2) Die benannte Stelle hat ein Verzeichnis aller ihrer
 Unterauftragnehmer zu führen und laufend zu aktualisieren.
-
 
 ### § 17 Sonstige Pflichten der benannten Stellen
 
@@ -686,7 +650,6 @@ erforderlichen Auskünfte zu erteilen.
 Artikel 20 Abs. 5 der Richtlinien 96/48/EG sowie 2001/16/EG
 zusammenzuarbeiten.
 
-
 ### § 18 Übertragungsverfahren für benannte Stellen
 
 (1) Der Antrag auf Übertragung der Aufgaben einer benannten Stelle ist
@@ -696,7 +659,6 @@ Muster oder Formblätter vorgesehen, so sind diese zu verwenden.
 (2) Die Übertragung erfolgt durch schriftlichen Bescheid, aus dem sich
 Art und Umfang der Prüfzuständigkeit der benannten Stelle ergeben
 müssen. Hiervon ist die Kommission zu unterrichten.
-
 
 ### § 19 Rücknahme, Widerruf
 
@@ -712,10 +674,7 @@ entfallen sind. Hiervon ist die Kommission zu unterrichten.
 (3) Die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme
 und Widerruf bleiben unberührt.
 
-
 ## Sechster Teil - Fahrzeugeinstellungsregister
-
-
 
 ### § 20 Inhalt des Fahrzeugeinstellungsregisters
 
@@ -751,7 +710,6 @@ erforderlichen Änderungen im Fahrzeugeinstellungsregister vor.
 (5) Die in dem Fahrzeugeinstellungsregister enthaltenen Angaben sind
 spätestens zehn Jahre nach der Ausmusterung des Fahrzeugs zu löschen.
 
-
 ### § 21 Zugang zum Fahrzeugeinstellungsregister
 
 (1) Auf Ersuchen der Untersuchungsbehörde nach § 5 Abs. 1f des
@@ -775,10 +733,7 @@ berechtigtes Interesse glaubhaft macht und kein Grund zu der Annahme
 besteht, dass der Betroffene ein überwiegendes schutzwürdiges
 Interesse an dem Ausschluss der Auskunft hat.
 
-
 ## Siebter Teil - Schlussbestimmungen
-
-
 
 ### § 22 Ordnungswidrigkeiten
 
@@ -807,16 +762,11 @@ als im Unternehmen Verantwortlicher
     dort genannten Nachweis nicht oder nicht für die vorgeschriebene Dauer
     aufbewahrt.
 
-
-
-
-
 ### Anlage 1 (zu § 1) Geltungsbereich der Verordnung
 
 (Fundstelle: BGBl. I 2007, 1312)
 
 ( ... nicht darstellbare topographische Karte )
-
 
 ### Anlage 2 (zu § 4) Umsetzung von Entscheidungen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
 
@@ -1064,10 +1014,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Personen“ (ABl. EU 2008 Nr. L 64 S. 72) findet ab dem 1. Juli 2008
     Anwendung auf die Teilsysteme „Infrastruktur“ und „Fahrzeuge“ des
     transeuropäischen Eisenbahnsystems.
-
-
-
-
 
 ### Anlage 3 (zu § 9 Abs. 3) Maßnahmen, die als umfangreiche Erneuerung oder Umrüstung einzustufen sind
 

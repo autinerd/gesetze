@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 19 G v. 8.12.2010 I 1768
 
-
 ## § 1 Gegenstand der Steuer
 
 (1) Der Feuerschutzsteuer unterliegt die Entgegennahme des
@@ -55,7 +54,6 @@ Versicherung im Sinne des Absatzes 1 bilden können.
 (3) Für die Steuerpflicht gelten die Vorschriften des § 1 Abs. 2 und 3
 des Versicherungsteuergesetzes entsprechend.
 
-
 ## § 2 Versicherungsentgelt
 
 (1) Versicherungsentgelt im Sinne dieses Gesetzes ist jede Leistung,
@@ -76,7 +74,6 @@ gezahlt, so ist dieser Unterschiedsbetrag Versicherungsentgelt. Das
 gleiche gilt, wenn eine Verrechnung zwischen Prämie und Gewinnanteil
 nicht möglich ist und die Gutschriftanzeige über den Gewinnanteil dem
 Versicherungsnehmer mit der Prämienrechnung vorgelegt wird.
-
 
 ## § 3 Bemessungsgrundlage
 
@@ -120,7 +117,6 @@ gekürzt werden.
 (5) In anderer Währung ausgedrückte Beträge sind nach den für die
 Umsatzsteuer geltenden Vorschriften umzurechnen.
 
-
 ## § 4 Steuersatz
 
 (1) Der Steuersatz beträgt – vorbehaltlich des folgenden Absatzes – 19
@@ -130,7 +126,6 @@ Prozent.
 Nummer 1) 22 Prozent.
 
 (3) Die Versicherungsteuer gehört nicht zum Versicherungsentgelt.
-
 
 ## § 5 Steuerschuldner
 
@@ -147,7 +142,6 @@ Steuerschuldner.
 
 (3)
 
-
 ## § 6 Rückversicherung
 
 Nimmt der Versicherer Rückversicherung, so ist er berechtigt, das
@@ -155,14 +149,12 @@ Versicherungsentgelt, das er an den Rückversicherer zu entrichten hat,
 um den der Steuer entsprechenden Hundertsatz zu kürzen. Dies gilt auch
 für den Rückversicherer, der seinerseits Rückversicherung nimmt.
 
-
 ## § 7 Entstehung der Steuer
 
 Die Steuer entsteht mit Ablauf des Monats, in dem das
 Versicherungsentgelt entgegengenommen (§ 3 Abs. 2), angefordert (§ 3
 Abs. 3) oder gezahlt (§ 5 Abs. 2 in Verbindung mit § 8 Abs. 4 Satz 3)
 worden ist.
-
 
 ## § 8 Anmeldung, Fälligkeit
 
@@ -200,7 +192,6 @@ spätestens am 15. Tag nach Ablauf des Monats, in dem das
 Versicherungsentgelt gezahlt worden ist, eine Steueranmeldung nach
 amtlich vorgeschriebenem Vordruck abzugeben und die selbst berechnete
 Steuer zu entrichten.
-
 
 ## § 9 Aufzeichnungspflichten und Außenprüfung
 
@@ -251,11 +242,9 @@ haben.
 oder zu erstatten sind, sind zusammen mit der Steuer für den laufenden
 Anmeldungszeitraum festzusetzen.
 
-
 ## § 10 Zuständigkeit
 
 Zuständig ist das Bundeszentralamt für Steuern.
-
 
 ## § 11 Zerlegung
 
@@ -303,7 +292,6 @@ Zerlegungsanteile vorläufig zu Grunde zu legen.
 Feuerschutzsteuer vor dem 1. Januar 2011 findet Absatz 3 in der am 31.
 Dezember 2010 geltenden Fassung weiterhin Anwendung.
 
-
 ## § 12 Mitteilungspflicht
 
 (1) Die mit der Aufsicht über die Versicherungsunternehmen betrauten
@@ -315,7 +303,6 @@ Genossenschaften, die sich mit dem Abschluß von Versicherungen
 befassen, dem Bundeszentralamt für Steuern mit; das gilt auch dann,
 wenn die Vereine oder Genossenschaften ihre Leistungen als
 Unterstützungen ohne Rechtsanspruch bezeichnen.
-
 
 ## § 13 Anwendungsvorschrift
 
@@ -333,7 +320,6 @@ Abschluß des Versicherungsvertrags festgelegt wird. Die Sätze 2 und 3
 gelten für ab dem 1. August 1993 vorgenommene Änderungen oder
 Festlegungen der Fälligkeit des Versicherungsentgelts.
 
-
 ## § 14 Evaluation
 
 Die Bemessungsgrundlagen (§ 3 Absatz 1) werden jährlich, beginnend mit
@@ -343,7 +329,6 @@ Aufkommen der Feuerschutzsteuer nicht unter den Durchschnitt der Jahre
 2009 bis 2011 (Sockelbetrag) sinkt. Die Bemessungsgrundlagen nach § 5
 Absatz 1 Nummer 3 des Versicherungsteuergesetzes sind entsprechend
 anzupassen.
-
 
 ## § 15 Ermächtigungen
 

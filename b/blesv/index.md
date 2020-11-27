@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 23.7.1997 I 1918
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 Satz 1 und 2 Nr. 1 bis 4 des Gesetzes über
@@ -30,12 +29,10 @@ Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung
 verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Forsten im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
 ## § 1
 
 Die Bundesanstalt für Landwirtschaft und Ernährung erhält die
 anliegende Satzung.
-
 
 ## § 2
 

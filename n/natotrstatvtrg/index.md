@@ -20,10 +20,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 111 V v. 31.10.2006 I 2407
 
-
 ## Teil I - Beitritt und Zustimmung
-
-
 
 ### Art 1
 
@@ -100,21 +97,15 @@ K.  Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten
 Absatz 2 aufgeführten Zusatzvereinbarungen werden nachstehend
 veröffentlicht.
 
-
 ### Art 2
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des
 Grundgesetzes) wird nach Maßgabe des Artikels 20 des Zusatzabkommens
 eingeschränkt.
 
-
 ## Teil II - Ausführungsbestimmungen
 
-
-
 ### Kapitel 1 - Ausführungsbestimmungen zu Artikel VII Abs 5 und 6 des NATO-Truppenstatuts und zu Artikel 19 und 75 des Zusatzabkommens
-
-
 
 #### Art 3
 
@@ -131,13 +122,11 @@ erklärt. Diese ist auch zur Abgabe einzelner Strafsachen nach Artikel
 Vorschriften des Gerichtsverfassungs- und Strafprozeßrechts
 entsprechend.
 
-
 #### Art 4
 
 Für den Empfang von Mitteilungen über anhängige Fälle im Sinne des
 Artikels 75 Abs. 1 Buchstabe b des Zusatzabkommens ist jede
 Staatsanwaltschaft im Geltungsbereich dieses Gesetzes zuständig.
-
 
 #### Art 4a -
 
@@ -145,7 +134,6 @@ Die in Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-
 Truppenstatuts geregelte Zusammenarbeit in strafrechtlichen
 Angelegenheiten ist nach den folgenden besonderen Bestimmungen
 auszuführen:
-
 
 #### § 1
 
@@ -160,7 +148,6 @@ Verpflichtung erforderlichen Ermittlungshandlungen vorzunehmen. Die
 Bestimmungen der Strafprozeßordnung gelten entsprechend, soweit
 nachstehend nicht anderes bestimmt ist.
 
-
 #### § 2
 
 Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des
@@ -170,7 +157,6 @@ vorzunehmen sind. Sind Rechtshilfehandlungen in den Bezirken mehrerer
 Gerichte vorzunehmen, so richtet sich die Zuständigkeit danach,
 welches Gericht oder, solange noch kein Gericht befaßt ist, welche
 Staatsanwaltschaft zuerst mit der Sache befaßt wurde.
-
 
 #### § 3
 
@@ -213,7 +199,6 @@ Beschwerdegerichts darf die Übergabe nicht vollzogen werden.
 Landgericht bereitet die Entscheidung über die Übergabe vor und führt
 die vom Gericht angeordnete Übergabe durch.
 
-
 #### § 4
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
@@ -221,10 +206,7 @@ Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13
 des Grundgesetzes) werden nach Maßgabe der §§ 1 bis 3 eingeschränkt.
 
-
 ### Kapitel 1a - Ausführungsbestimmungen zu Artikel 3 des Zusatzabkommens
-
-
 
 #### Art 4b
 
@@ -242,17 +224,9 @@ Sicherheitsüberprüfungen von Personen, die
 2.  an sicherheitsempfindlichen Stellen von verteidigungswichtigen
     Einrichtungen beschäftigt sind oder beschäftigt werden sollen.
 
-
-
-
-
 ### Kapitel 2 - Ausführungsbestimmungen zu Artikel 35 des Zusatzabkommens
 
-
-
 ### Kapitel 2 - Ausführungsbestimmungen zu Artikel 32 und 35 des Zusatzabkommens
-
-
 
 #### Art 4c
 
@@ -302,7 +276,6 @@ oder öffentliche Belange der Übersendung einer Abschrift entgegen,
 beschränkt sich die Unterrichtung auf die in Absatz 1 Satz 1 genannten
 Angaben.
 
-
 #### Art 5
 
 (1) Bei der Zwangsvollstreckung aus einem privatrechtlichen
@@ -330,10 +303,7 @@ Zusatzabkommens die Vorschriften des in Betracht kommenden
 Verwaltungszwangsverfahrens über die Pfändung und Einziehung von
 Forderungen entsprechend Anwendung.
 
-
 ### Kapitel 3 - Ausführungsbestimmungen zu Art 41 des Zusatzabkommens
-
-
 
 #### Art 6
 
@@ -365,7 +335,6 @@ der im Verkehr erforderlichen Sorgfalt von dem Schaden hätte Kenntnis
 erhalten können; § 852 Abs. 1 Halbsatz 2 des Bürgerlichen Gesetzbuchs
 bleibt unberührt.
 
-
 #### Art 7
 
 Bei Schadensfällen der in Artikel 41 Abs. 10 des Zusatzabkommens
@@ -376,7 +345,6 @@ der Freigabe Kenntnis erlangt. Der Lauf der in Artikel 6 Abs. 4 Satz 1
 genannten Frist beginnt mit der Freigabe der Sache; Artikel 6 Abs. 4
 Satz 2 ist entsprechend anzuwenden.
 
-
 #### Art 8
 
 Zuständig ist die Verteidigungslastenverwaltung. Sie wird in
@@ -385,7 +353,6 @@ Anstalt des öffentlichen Rechts geführt. Die Einzelheiten bestimmt das
 Bundesministerium der Finanzen. Die zuständigen Behörden und ihr
 jeweiliger Zuständigkeitsbereich werden im Bundesanzeiger
 veröffentlicht.
-
 
 #### Art 9
 
@@ -402,7 +369,6 @@ die Beweismittel, soweit sie nicht beigefügt sind, Bezug nehmen.
 auf die Entschädigung geltend machen können, so hat er dies in seinem
 Antrag anzugeben.
 
-
 #### Art 10
 
 (1) Die Behörde hat den Eingang des Antrags unter Angabe des
@@ -415,7 +381,6 @@ den Tag, an dem das Verfahren abgeschlossen worden oder die
 Entscheidung des Schiedsrichters ihr zugegangen ist, anzugeben. Einer
 besonderen Unterrichtung bedarf es nicht, wenn gleichzeitig die
 Mitteilung über die Entschließung nach Artikel 11 Abs. 1 ergeht.
-
 
 #### Art 11
 
@@ -432,7 +397,6 @@ zuzustellen.
 (3) Einer Mitteilung nach Absatz 1 bedarf es nicht, wenn und soweit
 zwischen der Behörde und dem Antragsteller eine Vereinbarung über die
 zu gewährende Entschädigung abgeschlossen wird.
-
 
 #### Art 12
 
@@ -467,7 +431,6 @@ Artikel VIII Abs. 8 des NATO-Truppenstatuts in Verbindung mit Artikel
 Darlegung seiner Bedenken ersuchen, die Entscheidung des
 Schiedsrichters herbeizuführen.
 
-
 #### Art 13
 
 (1) Hat die Behörde einen geltend gemachten Anspruch in vollem Umfang
@@ -482,7 +445,6 @@ der Vereinbarung unverzüglich nach deren Wirksamwerden auszuzahlen.
 (3) Vorauszahlungen auf die Entschädigung können in angemessenem
 Umfang gewährt werden, wenn der Anspruch dem Grunde nach
 gerechtfertigt ist.
-
 
 #### Art 14 -
 
@@ -517,34 +479,23 @@ haben, gelten die Vorschriften dieses Kapitels mit folgender Maßgabe:
     daß eine Vereinbarung zustande gekommen ist. Die Artikel 11 bis 13
     sind nicht anwendbar.
 
-
-
-
-
 #### Art 15 -
 
 -
 
-
 ### Kapitel 4 - Ausführungsbestimmungen zu Art 45 des Zusatzabkommens
-
-
 
 #### Art 16 u. 17 -
 
 -
 
-
 ### Kapitel 5 - Ausführungsbestimmungen zu Art 48 Abs. 2 des Zusatzabkommens
-
-
 
 #### Art 18
 
 Für Liegenschaften, die nach Artikel 48 Abs. 2 des Zusatzabkommens
 einer Truppe oder einem zivilen Gefolge weiter zu überlassen sind,
 gelten die Artikel 19 bis 21.
-
 
 #### Art 19
 
@@ -571,7 +522,6 @@ aufzuheben, wenn der Bedarf für Verteidigungszwecke fortfällt. § 64
 Abs. 3 Satz 2 und 3 und Abs. 4 des Landbeschaffungsgesetzes gelten
 entsprechend.
 
-
 #### Art 20
 
 Die Beschaffung nicht Wohnzwecken dienender Liegenschaften, die nach §
@@ -579,22 +529,17 @@ Die Beschaffung nicht Wohnzwecken dienender Liegenschaften, die nach §
 regelt sich nach den Vorschriften des Landbeschaffungsgesetzes.
 Artikel 19 findet Anwendung.
 
-
 #### Art 21
 
 Das Enteignungsverfahren wird von den Ländern im Auftrag des Bundes
 durchgeführt.
 
-
 ### Kapitel 5a - Ausführungsbestimmungen und Übergangsregelungen zu Artikel 49, 53 und 53A des Zusatzabkommens
-
-
 
 #### Art 21a
 
 Auf Vorhaben der Entsendestaaten finden § 37 des Baugesetzbuches und §
 29a Abs. 2 des Abfallgesetzes Anwendung.
-
 
 #### Art 21b
 
@@ -647,7 +592,6 @@ ist.
 des Zusatzabkommens zum NATO-Truppenstatut enthaltene
 Übergangsregelung für den Arbeitsschutz bleibt unberührt.
 
-
 #### Art 21c
 
 (1) Die in Artikel 53A des Zusatzabkommens zum NATO-Truppenstatut
@@ -661,10 +605,7 @@ Pflichten der deutschen Bundesbehörde.
 unverzüglich über rechtsverbindliche Entscheidungen, die diese zu
 befolgen haben. Hiervon gibt sie den Verfahrensbeteiligten Kenntnis.
 
-
 ### Kapitel 6 - Ausführungsbestimmungen zu Art 57 Abs. 4 Buchstabe b des Zusatzabkommens
-
-
 
 #### Art 22
 
@@ -678,7 +619,6 @@ der Straße erforderlichen Bedingungen festzulegen.
 
 (2) Der Entscheidung über die Zustimmung hat eine Verhandlung mit den
 Beteiligten vorauszugehen.
-
 
 #### Art 23 -
 
@@ -695,19 +635,13 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die von
 ihm bestimmten Stellen der Einbeziehung zugestimmt haben. Dabei ist
 die Ersparnis von Aufwendungen zu berücksichtigen.
 
-
 ### Kapitel 7 - Ausführungsbestimmungen zu dem Abkommen vom 3. August 1959 zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg
-
-
 
 #### Art 24 -
 
 -
 
-
 ### Kapitel 8 - Prozeßstandschaft
-
-
 
 #### Art 25
 
@@ -722,10 +656,7 @@ sonstwie beteiligt ist, eine Entscheidung über eine Leistung, so ist
 auszusprechen, daß die Bundesrepublik für den Entsendestaat zu leisten
 hat, dem die Leistung obliegt.
 
-
 ## Teil III - Inkrafttreten
-
-
 
 ### Art 26
 

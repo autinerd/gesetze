@@ -21,17 +21,12 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 10.12.2008 I 2399
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Teil - Vorschriften zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen
-
-
 
 ### § 1
 
@@ -40,7 +35,6 @@ Die Aufgaben der Zentralen Behörde (Artikel 2, 18 Abs. 3 des
 Stellen wahr. Jedes Land kann nur eine Zentrale Behörde einrichten.Die
 Landesregierungen können die Befugnis nach Satz 1 auf die
 Landesjustizverwaltungen übertragen.
-
 
 ### § 2
 
@@ -53,13 +47,11 @@ Ausführung des Haager Übereinkommens vom 1. März 1954 über den
 Zivilprozeß vom 18. Dezember 1958 (BGBl. I S. 939) zur Entgegennahme
 von Anträgen des Konsuls eines ausländischen Staates zuständig sind.
 
-
 ### § 3
 
 Eine förmliche Zustellung (Artikel 5 Abs. 1 des Übereinkommens) ist
 nur zulässig, wenn das zuzustellende Schriftstück in deutscher Sprache
 abgefaßt oder in diese Sprache übersetzt ist.
-
 
 ### § 4
 
@@ -76,13 +68,11 @@ Amtsgericht zuständig, in dessen Bezirk die Zustellung vorzunehmen
 ist. Die Zustellung wird durch die Geschäftsstelle des Amtsgerichts
 bewirkt.
 
-
 ### § 5
 
 Das Zustellungszeugnis (Artikel 6 Abs. 1, 2 des Übereinkommens)
 erteilt im Fall des § 4 Abs. 1 die Zentrale Behörde, im übrigen die
 Geschäftsstelle des Amtsgerichts.
-
 
 ### § 6
 
@@ -91,10 +81,7 @@ Eine Zustellung durch diplomatische oder konsularische Vertreter
 einem Angehörigen des Absendestaates zuzustellen ist. Eine Zustellung
 nach Artikel 10 des Übereinkommens findet nicht statt.
 
-
 ## Zweiter Teil - Vorschriften zur Ausführung des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
-
-
 
 ### § 7
 
@@ -104,12 +91,10 @@ Stellen wahr. Jedes Land kann nur eine Zentrale Behörde einrichten.Die
 Landesregierungen können die Befugnis nach Satz 1 auf die
 Landesjustizverwaltungen übertragen.
 
-
 ### § 8
 
 Für die Erledigung von Rechtshilfeersuchen ist das Amtsgericht
 zuständig, in dessen Bezirk die Amtshandlung vorzunehmen ist.
-
 
 ### § 9
 
@@ -118,13 +103,11 @@ Rechtshilfeersuchen, die durch das Amtsgericht zu erledigen sind
 oder von einer Übersetzung in diese Sprache begleitet sein (Artikel 4
 Abs. 1, 5 des Übereinkommens).
 
-
 ### § 10
 
 Mitglieder des ersuchenden ausländischen Gerichts können bei der
 Erledigung eines Rechtshilfeersuchens durch das Amtsgericht anwesend
 sein, wenn die Zentrale Behörde dies genehmigt hat.
-
 
 ### § 11
 
@@ -135,7 +118,6 @@ zulässig, wenn die Zentrale Behörde sie genehmigt hat (Artikel 16 Abs.
 1 des Übereinkommens). Eine Genehmigung ist nicht erforderlich, wenn
 der Angehörige eines dritten Staates zugleich die Staatsangehörigkeit
 des Staates des ersuchenden Gerichts besitzt.
-
 
 ### § 12
 
@@ -150,13 +132,11 @@ Vorbereitung und die Durchführung der Beweisaufnahme zu überwachen.
 Ein Mitglied dieses Gerichts kann an der Beweisaufnahme teilnehmen
 (Artikel 19 Satz 2 des Übereinkommens).
 
-
 ### § 13
 
 Für die Erteilung der Genehmigung nach den §§ 10, 11 und 12 (Artikel
 19 des Übereinkommens) ist die Zentrale Behörde des Landes zuständig,
 in dem die Beweisaufnahme durchgeführt werden soll.
-
 
 ### § 14
 
@@ -171,10 +151,7 @@ anzuwendende Verfahren durch Rechtsverordnung näher geregelt sind, die
 der Bundesminister der Justiz mit Zustimmung des Bundesrates erlassen
 kann.
 
-
 ## Dritter Teil - Sonstige Bestimmungen
-
-
 
 ### § 15
 
@@ -188,14 +165,12 @@ zur Ausführung des Haager Übereinkommens vom 1. März 1954 über den
 Zivilprozeß zur Entgegennahme von Anträgen und Ersuchen des Konsuls
 eines ausländischen Staates zuständig sind.
 
-
 ### § 16
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ### § 17
 

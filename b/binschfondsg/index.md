@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 318 V v. 31.10.2006 I 2407
 
-
 ## § 1 Errichtung
 
 Zur Durchführung von Artikel 3 Abs. 1 der Verordnung (EG) Nr. 718/1999
@@ -27,7 +26,6 @@ Binnenschifffahrtsflotten der Gemeinschaft und zur Förderung des
 Binnenschiffsverkehrs (ABl. EG Nr. L 90 S. 1) wird der "Deutsche
 Binnenschifffahrtsfonds" (Binnenschifffahrtsfonds) in Form eines
 Sondervermögens errichtet.
-
 
 ## § 2 Aufgaben des Fonds
 
@@ -39,14 +37,12 @@ Durchführungsbestimmungen zur Verordnung (EG) Nr. 718/1999 des Rates
 der Gemeinschaft und zur Förderung des Binnenschiffsverkehrs (ABl. EG
 Nr. L 102 S. 64) übertragenen Aufgaben.
 
-
 ## § 3 Rechtsform
 
 Der Binnenschifffahrtsfonds ist nicht rechtsfähig. Er kann unter
 seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und
 verklagt werden. Der allgemeine Gerichtsstand des
 Binnenschifffahrtsfonds ist Münster.
-
 
 ## § 4 Verwaltung und Anlage der Mittel
 
@@ -73,7 +69,6 @@ Bedingungen in Euro anzulegen
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt
 hierzu Anlagerichtlinien.
 
-
 ## § 5 Verwendung der Mittel
 
 (1) Die Mittel des Binnenschifffahrtsfonds dürfen nur nach Maßgabe der
@@ -86,13 +81,11 @@ der deutschen Binnenschifffahrtsunternehmen anderweitig verwendet
 werden. Vor Erlass der Richtlinie werden die überregionalen
 Binnenschifffahrtsverbände angehört.
 
-
 ## § 6 Vermögenstrennung
 
 Die Mittel des Binnenschifffahrtsfonds sind von dem übrigen Vermögen
 des Bundes getrennt zu halten. Der Bund haftet nicht für die
 Verbindlichkeiten des Fonds.
-
 
 ## § 7 Haushalts- und Wirtschaftsführung
 
@@ -108,14 +101,12 @@ nachzuweisen.
 
 (3) Eine Kreditaufnahme ist unzulässig.
 
-
 ## § 8 Auflösung des Sondervermögens
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen das
 Sondervermögen durch Rechtsverordnung aufzulösen und die Verwendung
 des restlichen Vermögens für die in § 2 genannten Zwecke zu regeln.
-
 
 ## § 9 Inkrafttreten
 

@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 19 G v. 5.10.1994 I 2911
 
-
 ## Eingangsformel
 
 Wir ...
 verordnen im Namen des Reichs, nach erfolgter Zustimmung des
 Bundesrats und des Reichstags, was folgt:
-
 
 ## (XXXX)
 

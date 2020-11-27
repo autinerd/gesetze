@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Bek. v. 25.11.2004 I 3386
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 40 des Grundgesetzes in Verbindung mit § 7 Abs.
@@ -28,7 +27,6 @@ Geschäftsordnung die Hausordnung vom 11. Juli 1975 in der Fassung vom
 18\. Juni 1998 (BGBl. I S. 2184) geändert und mache die geänderte
 Hausordnung in der Fassung vom 7. August 2002 bekannt:
 
-
 ## § 1 Geltungsbereich
 
 Die Gebäude des Deutschen Bundestages (= der Verwaltung des Deutschen
@@ -37,7 +35,6 @@ Gebäudeteile und Grundstücke, § 7 Abs. 2 GO-BT) dienen der
 parlamentarischen Arbeit. In ihnen übt der Präsident des Deutschen
 Bundestages das Hausrecht und die Polizeigewalt aus. Es gilt diese
 Hausordnung.
-
 
 ## § 2 Zutrittsberechtigung
 
@@ -244,7 +241,6 @@ Zutrittsmöglichkeiten eingeräumt werden.
 (12) Personen, die die geforderten Sicherheitsmaßnahmen ablehnen,
 haben keinen Zutritt.
 
-
 ## § 3 Plenarsaal
 
 (1) Zutritt zum Plenarsaal des Deutschen Bundestages haben während der
@@ -306,7 +302,6 @@ der Mitglieder und Fraktionen des Deutschen Bundestages sowie die zum
 Dienst in der Ostlobby eingeteilten Bediensteten des Deutschen
 Bundestages.
 
-
 ## § 4 Verhalten in Gebäuden
 
 (1) In den Gebäuden des Deutschen Bundestages sind Ruhe und Ordnung zu
@@ -336,7 +331,6 @@ Straßenverkehrsordnung (StVO) entsprechende Anwendung. Ge- und
 Verbotsschilder sind zu beachten. Parken ist nur im Rahmen der
 erteilten Berechtigung gestattet.
 
-
 ## § 5 Besondere Verhaltensregeln für die Besucher von Sitzungen des Deutschen Bundestages und seiner Gremien
 
 (1) Einzelbesucher und Angehörige von Besuchergruppen haben vor dem
@@ -353,7 +347,6 @@ einzunehmen.
 (3) Während der Sitzungen sind Beifalls- und Missfallenskundgebungen,
 Zwischenrufe, Verletzungen von Ordnung oder Anstand sowie Handlungen,
 die geeignet sind, den Ablauf der Sitzungen zu stören, untersagt.
-
 
 ## § 6 Bild- und Tonaufnahmen, Medien
 
@@ -375,7 +368,6 @@ Gebäude Anwesenden hiervon nicht beeinträchtigt werden, in
 Sitzungssälen und -räumen nur während sitzungsfreier Zeiten. Die
 Rechte Dritter bleiben unberührt.
 
-
 ## § 7 Anordnungen des Ordnungspersonals, Anwendung unmittelbaren Zwangs, Hausverbot
 
 (1) Die zuständigen Mitarbeiterinnen und Mitarbeiter haben die zum
@@ -393,7 +385,6 @@ den Gebäuden des Deutschen Bundestages verwiesen werden.
 
 (4) Der Präsident des Deutschen Bundestages kann bei einem Verstoß
 gegen diese Hausordnung ein Hausverbot verhängen.
-
 
 ## § 8 Besondere Veranstaltungen, Pachtbetriebe
 
@@ -415,13 +406,11 @@ Das Gleiche gilt für Sonderveranstaltungen des Deutschen Bundestages.
 Mietverträgen überlassen werden, sind die entsprechenden vertraglichen
 Vereinbarungen maßgebend.
 
-
 ## § 9 Bibliothek, Archiv, Sondereinrichtungen
 
 Für die Benutzung der Bibliothek, der Archive und anderer
 Sondereinrichtungen sind die entsprechenden Benutzungsordnungen
 maßgebend.
-
 
 ## § 10 Schlussbestimmungen
 
@@ -432,7 +421,6 @@ Bestimmungen dieser Hausordnung.
 
 (2) Der Präsident des Deutschen Bundestages kann in Ausübung seines
 Hausrechts ergänzende Regelungen erlassen.
-
 
 ## Anhang zur Hausordnung
 

@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 12.7.2006 I 1461 u. Bek. v. 14.10.2008 I 2070
 
-
 ## § 1 Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung ist
@@ -46,12 +45,10 @@ Internationalen Übereinkommens von 2001 über die zivilrechtliche
 Haftung für Bunkerölverschmutzungsschäden (BGBl. 2006 II S. 578)
 (Bunkeröl-Übereinkommen).
 
-
 ## § 2 Zuständigkeit
 
 Für die Ausstellung und Einziehung der Ölhaftungsbescheinigungen ist
 das Bundesamt für Seeschiffahrt und Hydrographie zuständig.
-
 
 ## § 3 Voraussetzungen
 
@@ -134,7 +131,6 @@ nicht in deutscher oder englischer Sprache abgefaßt, so ist eine von
 einem behördlich anerkannten Übersetzer gefertigte Übersetzung in die
 deutsche Sprache beizufügen.
 
-
 ## § 4 Ausstellung
 
 (1) Sind die Voraussetzungen des § 2 Abs. 4 des Ölschadengesetzes und
@@ -165,7 +161,6 @@ glaubhaft gemacht, daß sie verloren gegangen ist, wird auf Verlangen
 eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene
 Ölhaftungsbescheinigung ist zurückzugeben.
 
-
 ## § 4a
 
 Soweit durch diese Rechtsverordnung Schriftform angeordnet ist oder
@@ -174,7 +169,6 @@ deren Ausstellung schriftlich zu beantragen ist, sie auszuhändigen,
 vorzulegen oder mitzuführen sind, ist die elektronische Form
 ausgeschlossen.
 
-
 ## § 5 Pflichten des Eigentümers
 
 Der Eigentümer ist verpflichtet, eine vorzeitige Beendigung der
@@ -182,7 +176,6 @@ Sicherheit sowie eine Änderung, die dazu führt, daß die Sicherheit den
 Voraussetzungen des § 2 Abs. 4 des Ölschadengesetzes nicht mehr
 genügt, unverzüglich dem Bundesamt für Seeschiffahrt und Hydrographie
 mitzuteilen.
-
 
 ## § 6 Einziehung
 
@@ -196,10 +189,6 @@ Das Bundesamt für Seeschiffahrt und Hydrographie kann eine
 2.  zur Erlangung der Ölhaftungsbescheinigung unrichtige oder
     unvollständige Angaben gemacht worden sind.
 
-
-
-
-
 ## § 7 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 des Ölschadengesetzes
@@ -210,7 +199,6 @@ nicht oder nicht rechtzeitig macht.
 Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Abs. 1 Nr. 2 bis 4
 des Ölschadengesetzes wird auf das Bundesamt für Seeschiffahrt und
 Hydrographie übertragen.
-
 
 ## Anlage 1 (zu § 4 Abs. 1)
 
@@ -337,7 +325,6 @@ Datum/Date
 ausstellenden oder bestätigenden Bediensteten)
 (Signature and Title of issuing or certifying
 official)
-
 
 ## Anlage 2 (zu § 4 Abs. 1)
 

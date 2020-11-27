@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   durch Art. 486 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 2 Nr. 7 des Pflichtversicherungsgesetzes
 in der Fassung des Gesetzes zur Änderung von Vorschriften über die
 Pflichtversicherung für Kraftfahrzeughalter vom 5. April 1965
 (Bundesgesetzbl. I S. 213) wird verordnet:
-
 
 ## § 1
 
@@ -38,7 +36,6 @@ und Technologie bei der Vorbereitung der Rechtsverordnungen gemäß § 9
 Abs. 1 Satz 2 Nr. 1 bis 6 und Abs. 2 und 3 des
 Pflichtversicherungsgesetzes zu beraten.
 
-
 ## § 2
 
 Der Beirat besteht aus
@@ -47,10 +44,6 @@ Der Beirat besteht aus
 
 
 2.  sieben Vertretern der Versicherungsnehmer.
-
-
-
-
 
 ## § 3
 
@@ -67,7 +60,6 @@ vertraulich bezeichnet werden.
 durch schriftliche Erklärung gegenüber dem Bundesministerium für
 Wirtschaft und Technologie niederlegen.
 
-
 ## § 4
 
 (1) Die Mitglieder des Beirats und ihre Stellvertreter üben ihre
@@ -75,7 +67,6 @@ Tätigkeit ehrenamtlich aus. Sie sind an Weisungen nicht gebunden.
 
 (2) Reisekosten und Auslagen werden nicht erstattet. Sitzungsvergütung
 wird nicht gewährt.
-
 
 ## § 5
 
@@ -95,7 +86,6 @@ Wirtschaft und Technologie.
 (5) Über die Sitzungen des Beirats ist eine Niederschrift zu fertigen,
 welche die im Beirat vorgetragenen Auffassungen wiedergibt.
 
-
 ## § 6
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -104,11 +94,9 @@ des Gesetzes zur Änderung von Vorschriften über die
 Pflichtversicherung für Kraftfahrzeughalter vom 5. April 1965 auch im
 Land Berlin.
 
-
 ## § 7
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

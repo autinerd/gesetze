@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 35 G v. 24.2.2012 I 212
 
-
 ## Eingangsformel
 
 Auf Grund des § 6a Abs. 2 Satz 1 des Raumordnungsgesetzes in der
 Fassung der Bekanntmachung vom 19. Juli 1989 (BGBl. I S. 1461)
 verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -126,19 +124,13 @@ Raumordnungsverfahren zu überprüfen, bleibt unberührt.
 19. Errichtung von Einkaufszentren, großflächigen Einzelhandelsbetrieben
     und sonstigen großflächigen Handelsbetrieben.
 
-
-
-
-
 ## § 2
 
 (weggefallen)
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

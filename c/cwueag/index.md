@@ -20,12 +20,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 17.12.2008 I 2586
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -154,10 +152,6 @@ Im Sinne dieses Gesetzes bedeuten:
     dritten Vertragsstaates des Übereinkommens, der beauftragt ist, an
     einer Inspektion nach Artikel IX des Übereinkommens teilzunehmen.
 
-
-
-
-
 ## § 2 Beschränkungen
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung
@@ -221,10 +215,6 @@ erlassen werden
     Ausfuhr oder Durchfuhr nach der auf Grund des Absatzes 1 erlassenen
     Rechtsverordnung einer Genehmigung bedarf.
 
-
-
-
-
 ## § 3 Meldepflichten
 
 Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des
@@ -236,7 +226,6 @@ Rechtsverordnung können insbesondere Häufigkeit, Zeiträume, Inhalt und
 Form der Meldungen sowie die Art ihrer Übermittlung und die Fristen
 für die Übermittlung bestimmt werden.
 
-
 ## § 4 Sicherungspflichten
 
 Wer eine Tätigkeit ausübt, die nach einer auf Grund der §§ 2 und 3
@@ -244,7 +233,6 @@ erlassenen Rechtsverordnung Beschränkungen unterworfen oder
 meldepflichtig ist, hat die erforderlichen Maßnahmen zu treffen, um zu
 verhindern, daß die dort bezeichneten Chemikalien abhanden kommen oder
 unbefugt verwendet werden.
-
 
 ## § 5 Zuständigkeiten
 
@@ -265,7 +253,6 @@ sowie deren Beförderungs- und Verpackungsmittel auf Kosten und Gefahr
 des Verfügungsberechtigten zurückweisen oder bis zur Behebung der
 festgestellten Mängel oder bis zur Entscheidung der zuständigen
 Behörde sicherstellen.
-
 
 ## § 6 Nutzung, Übermittlung und Geheimhaltung von Daten
 
@@ -325,7 +312,6 @@ zulässig, soweit die Daten auch dafür hätten übermittelt werden
 dürfen. Die in Satz 1 genannten Behörden haben die im Übereinkommen
 enthaltenen Bestimmungen zum Schutz vertraulicher Daten einzuhalten.
 
-
 ## § 7 Auskunftspflichten
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann
@@ -352,7 +338,6 @@ Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 Er ist über sein Recht zur Verweigerung der Auskunft zu belehren.
 
-
 ## § 8 Duldung und Unterstützung von Inspektionen
 
 (1) Der Inhaber von Grundstücken oder Räumen, auf oder in denen sich
@@ -375,7 +360,6 @@ selbst, wenn sie nicht von der Organisation nach den Bestimmungen des
 beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
 einzureichen, das diese prüft und über das Auswärtige Amt an die
 Organisation weiterleitet.
-
 
 ## § 9 Begleitgruppe
 
@@ -411,7 +395,6 @@ bekanntgewordenen Daten in dem Umfang, wie dies zur Überprüfung der
 auf Grund dieses Gesetzes oder der zu diesem erlassenen
 Rechtsverordnungen bekanntgewordenen Daten erforderlich ist. § 6 Abs.
 4 gilt entsprechend.
-
 
 ## § 10 Inspektionsbefugnisse
 
@@ -528,7 +511,6 @@ Durchführung von Inspektionen oder Untersuchungen bekanntgewordenen
 Daten, einschließlich personenbezogener Daten, speichern, soweit dies
 zur Erfüllung ihrer Aufgaben nach dem Übereinkommen erforderlich ist.
 
-
 ## § 11 Mitwirkungspflichten
 
 Der Verpflichtete hat die Inspektionsgruppe und die Begleitgruppe bei
@@ -610,14 +592,12 @@ Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist über sein
 Recht zur Verweigerung der Mitwirkung zu belehren.
 
-
 ## § 12 Durchführung von Inspektionen
 
 Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des
 Bundesrates Einzelheiten der Befugnisse und Mitwirkungspflichten nach
 den §§ 10 und 11 sowie des Verwaltungsverfahrens zur Durchführung der
 in § 8 genannten Inspektionen und Untersuchungen regeln.
-
 
 ## § 13 Vereinbarungen über Einrichtungen
 
@@ -632,7 +612,6 @@ hört das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) den
 Verpflichteten vor Aufnahme der Verhandlungen und Abschluß einer
 solchen Vereinbarung an. In allen übrigen Fällen holt es seine
 vorherige Zustimmung ein.
-
 
 ## § 14 Haftung
 
@@ -650,7 +629,6 @@ erste Alternative bei den regional zuständigen
 Wehrbereichsverwaltungen, im übrigen beim Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) geltend zu machen. Zur Durchsetzung der
 Ansprüche ist der ordentliche Rechtsweg gegeben.
-
 
 ## § 15 Bußgeldvorschriften
 
@@ -697,7 +675,6 @@ werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA).
-
 
 ## § 16 Strafvorschriften
 
@@ -757,7 +734,6 @@ Absatzes 1 Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe, im
 Falle des Absatzes 2 Freiheitsstrafe bis zu einem Jahr oder
 Geldstrafe.
 
-
 ## § 17 Strafvorschriften gegen den Mißbrauch als chemische Waffen
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
@@ -787,13 +763,11 @@ Monaten bis zu fünf Jahren.
 (3) Handelt der Täter in den Fällen des Absatzes 1 leichtfertig, so
 ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
 ## § 18 Auslandstaten Deutscher
 
 § 16 Abs. 1 Nr. 2, Abs. 5 und § 17 gelten, unabhängig vom Recht des
 Tatorts, auch für Taten, die im Ausland begangen werden, wenn der
 Täter Deutscher ist.
-
 
 ## § 19 Einziehung
 
@@ -819,7 +793,6 @@ des § 16 Abs. 1 Nr. 2, Abs. 5 und § 17 Abs. 1 auch in Verbindung mit §
 18, ist § 73d des Strafgesetzbuches anzuwenden, wenn der Täter
 gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Straftaten verbunden hat.
-
 
 ## § 20 Befugnisse der Zollbehörden
 
@@ -849,7 +822,6 @@ der Staatsanwaltschaft geltenden Vorschriften der Strafprozeßordnung
 vornehmen; unter den Voraussetzungen des § 111l Abs. 2 Satz 2 der
 Strafprozeßordnung können auch die Hauptzollämter die Notveräußerung
 anordnen.
-
 
 ## § 21 Inkrafttreten
 

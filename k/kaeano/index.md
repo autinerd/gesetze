@@ -19,7 +19,6 @@ Fundstelle
 Ano für strom u. gas aufgeh. durch
 :   § 9 Satz 2 V v. 9.1.1992 I 12 mWv 1.1.1992
 
-
 ## Eingangsformel
 
 Um die Versorgungsunternehmen von betriebsfremden Ausgaben zu
@@ -28,7 +27,6 @@ und Wasser anzubahnen, wird auf Grund des Gesetzes zur Durchführung
 des Vierjahresplans - Bestellung eines Reichskommissars für die
 Preisbildung - vom 29. Oktober 1936 (Reichsgesetzbl. I S. 927) mit
 Zustimmung des Beauftragten für den Vierjahresplan angeordnet:
-
 
 ## § 1
 
@@ -43,7 +41,6 @@ Zweckverbände gezahlt worden sind, nicht weitergewährt werden. Die
 Vorschriften des § 3 bleiben unberührt.
 
 (3)
-
 
 ## § 2
 
@@ -114,7 +111,6 @@ Bestimmungen entsprechenden Preise und Bedingungen.
 Gemeinde oder dem einzelnen gesondert versorgten Gemeindeteil und dem
 Ergebnis der Volkszählung vom 17. Mai 1939 auszugehen.
 
-
 ## § 3
 
 (1) Konzessionsabgaben, die nach den vorstehenden Bestimmungen
@@ -139,7 +135,6 @@ sind. Den Gemeinden stehen - unter Beachtung der Vorschriften des
 Absatzes 2 - die Landkreise gleich, die Mitglieder von Zweckverbänden
 oder gleichgestellten Zusammenschlüssen sind.
 
-
 ## § 4
 
 (1) Soweit Konzessionsabgaben nach dem 31. März 1941 weitererhoben
@@ -160,7 +155,6 @@ der sonstigen Belieferung verteilt war.
 Verbraucher gehören nicht Einnahmen, die aus der Lieferung von Neben-
 oder Abfallerzeugnissen (z.B. Gaskoks) oder für die Lieferung an
 Wiederverkäufer von Elektrizität, Gas oder Wasser erzielt werden.
-
 
 ## § 5
 
@@ -213,7 +207,6 @@ Unternehmen investierten Eigenkapitals und zur Deckung der von
 sämtlichen Unternehmen abzuführenden Konzessionsabgaben nicht
 ausreichen.
 
-
 ## § 6
 
 (1) Vom 1. April 1941 ab dürfen Gemeinden, Gemeindeverbände oder
@@ -248,7 +241,6 @@ dürfen die auf Grund einer solchen Schätzung ermittelten
 Verwaltungskostenbeiträge von den tatsächlichen Aufwendungen nicht
 wesentlich abweichen.
 
-
 ## § 7
 
 (1) Ist zweifelhaft, inwieweit Leistungen eines
@@ -264,7 +256,6 @@ Beteiligten in einer von ihm bestimmten Frist zu keiner Einigung
 kommen.
 
 (2)
-
 
 ## § 8
 
@@ -290,7 +281,6 @@ abgetrennt werden. Das gleiche gilt, wenn Gemeinden mit weniger als
 werden. In diesem Fall tritt an die Stelle der Stammgemeinde die
 aufnehmende Gemeinde.
 
-
 ## § 9
 
 (1) Die Erhebung von Konzessionsabgaben nach Maßgabe der §§ 2 und 3
@@ -301,13 +291,11 @@ vereinbarten Konzessionsabgabe erteilt hatte.
 
 (2)
 
-
 ## § 10
 
 Durch den Wegfall oder die Herabsetzung von Konzessionsabgaben nach
 Maßgabe dieser Anordnung werden die Gültigkeit und die sonstigen
 Bestimmungen eines Konzessionsvertrags nicht berührt.
-
 
 ## § 11
 
@@ -317,13 +305,11 @@ Durchführung ... erforderlichen Rechts- und Verwaltungsvorschriften
 sowie von den Vorschriften dieser Anordnung abweichende preisbildende
 Anordnungen für den Einzelfall.
 
-
 ## § 12
 
 (1) Die Anordnung tritt am Tage der Verkündung in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

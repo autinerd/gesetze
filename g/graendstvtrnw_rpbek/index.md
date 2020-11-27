@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 15
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Nordrhein-Westfalen und dem Land Rheinland-Pfalz

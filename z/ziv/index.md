@@ -28,10 +28,7 @@ Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179),
 der durch Artikel 1 Nr. 28 des Gesetzes vom 15. Dezember 2003 (BGBl. I
 S. 2645) eingefügt worden ist, verordnet die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Zielsetzung
 
@@ -39,7 +36,6 @@ Die inländischen Zahlstellen haben die für die Durchführung dieser
 Verordnung notwendigen Aufgaben unabhängig davon wahrzunehmen, wo der
 Schuldner der den Zinsen zugrunde liegenden Forderung niedergelassen
 ist.
-
 
 ### § 2 Definition des wirtschaftlichen Eigentümers
 
@@ -98,7 +94,6 @@ der Identität des wirtschaftlichen Eigentümers. Kann die Zahlstelle
 den wirtschaftlichen Eigentümer nicht feststellen, so behandelt sie
 die betreffende natürliche Person als den wirtschaftlichen Eigentümer.
 
-
 ### § 3 Ermittlung von Identität und Wohnsitz des wirtschaftlichen Eigentümers
 
 (1) Bei vertraglichen Beziehungen, die vor dem 1. Januar 2004
@@ -140,7 +135,6 @@ in dem die betreffende Person ihren eigenen Angaben zufolge ihren
 Wohnsitz haben soll. Wird dieser Nachweis nicht vorgelegt, so gilt der
 Wohnsitz als in dem Mitgliedstaat belegen, in dem der Pass oder ein
 anderer amtlicher Identitätsausweis ausgestellt wurde.
-
 
 ### § 4 Definition der Zahlstelle
 
@@ -206,10 +200,6 @@ sind:
 
 2.  in Schweden: handelsbolag (HB) und kommanditbolag (KB).
 
-
-
-
-
 ### § 5 Definition der zuständigen Behörde
 
 (1) Als "zuständige Behörde" im Sinne dieser Verordnung gilt:
@@ -231,7 +221,6 @@ Abweichend hiervon ist für die Ausstellung des Nachweises nach § 4
 Abs. 3 das Finanzamt, bei dem die Einrichtung steuerlich geführt wird,
 und für die Bescheinigung nach § 13 das Wohnsitzfinanzamt des
 Antragstellers zuständig.
-
 
 ### § 6 Definition der Zinszahlung
 
@@ -336,17 +325,13 @@ betreffenden Organismen oder Einrichtungen dargelegte Anlagepolitik
 oder, in Ermangelung solcher Angaben, die tatsächliche Zusammensetzung
 des Vermögens der betreffenden Organismen oder Einrichtungen.
 
-
 ### § 7 Räumlicher Geltungsbereich
 
 Diese Verordnung gilt für Zinszahlungen durch eine inländische
 Zahlstelle an wirtschaftliche Eigentümer, die ihren Wohnsitz in einem
 anderen Mitgliedstaat der Europäischen Gemeinschaft haben.
 
-
 ## Abschnitt 2 - Datenübermittlung
-
-
 
 ### § 8 Datenübermittlung durch die Zahlstelle
 
@@ -376,7 +361,6 @@ Bundeszentralamt für Steuern zum Zwecke der Weiterübermittlung nach §
 Die Datenübermittlung hat bis zum 31. Mai des Jahres zu erfolgen, das
 auf das Jahr des Zuflusses folgt.
 
-
 ### § 9 Datenerhebung und Datenübermittlung durch das Bundeszentralamt für Steuern
 
 (1) Das Bundeszentralamt für Steuern speichert die nach § 8
@@ -401,10 +385,7 @@ Landesfinanzverwaltungen weiter.
 gespeicherten Daten werden drei Jahre nach Ablauf des Jahres, in dem
 die Weiterübermittlung erfolgt ist, gelöscht.
 
-
 ## Abschnitt 3 - Übergangsbestimmungen
-
-
 
 ### § 10 Übergangszeitraum
 
@@ -415,7 +396,6 @@ Rates vom 3. Juni 2003 benannten Übergangszeitraums ab dem in § 17
 Satz 1 und 2 genannten Zeitpunkt und vorbehaltlich des § 13 die
 Bestimmungen des Abschnitts 2 der Richtlinie nicht anwenden müssen.
 
-
 ### § 11 Besteuerung nach innerstaatlichen Rechtsvorschriften
 
 Die Erhebung einer Quellensteuer durch Belgien, Luxemburg und
@@ -423,13 +403,11 @@ Die Erhebung einer Quellensteuer durch Belgien, Luxemburg und
 durch Deutschland als Wohnsitzstaat des wirtschaftlichen Eigentümers
 gemäß seinen innerstaatlichen Rechtsvorschriften nicht entgegen.
 
-
 ### § 12 Einnahmen
 
 Das Bundeszentralamt für Steuern nimmt den der Bundesrepublik
 Deutschland zustehenden Anteil aus der Erhebung von Quellensteuern
 durch die Staaten Belgien, Luxemburg und Österreich entgegen.
-
 
 ### § 13 Ausnahmen vom Quellensteuerverfahren
 
@@ -456,7 +434,6 @@ Zahlstelle aus:
 Diese Bescheinigung gilt für die Dauer von höchstens drei Jahren. Sie
 wird jedem wirtschaftlichen Eigentümer auf Antrag binnen zwei Monaten
 ausgestellt.
-
 
 ### § 14 Vermeidung der Doppelbesteuerung
 
@@ -485,7 +462,6 @@ Doppelbesteuerung oder nach § 34c des Einkommensteuergesetzes eine
 Anrechnung dieser ausländischen Steuer auf die deutsche
 Einkommensteuer gewährt, so hat diese Anrechnung vor Anwendung von
 Absatz 2 zu erfolgen.
-
 
 ### § 15 Umlauffähige Schuldtitel
 
@@ -536,17 +512,13 @@ Schuldtitel, so gilt diese Folgeemission als Forderung im Sinne von §
 Absatz 1 genannten umlauffähigen Schuldtiteln nach inländischen
 Rechtsvorschriften nicht entgegen.
 
-
 ## Abschnitt 4 - Anwendungs- und Schlussbestimmungen
-
-
 
 ### § 16 Andere Quellensteuern
 
 Diese Verordnung steht der Erhebung anderer Arten der Quellensteuer
 als die nach § 11 gemäß den innerstaatlichen Rechtsvorschriften nicht
 entgegen.
-
 
 ### § 16a Erweiterung des Anwendungsbereichs
 
@@ -694,10 +666,6 @@ Niederländischen Antillen aus.
 
     der Finanzminister oder sein Beauftragter.
 
-
-
-
-
 ### § 17 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft, sofern der Rat der
@@ -709,11 +677,9 @@ Europäischen Union nach Artikel 17 Abs. 3 Satz 2 der Richtlinie
 anzuwenden sind. Das Bundesministerium der Finanzen gibt den Zeitpunkt
 des Inkrafttretens im Bundesgesetzblatt bekannt.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage (zu § 15) Liste der verbundenen Einrichtungen
 

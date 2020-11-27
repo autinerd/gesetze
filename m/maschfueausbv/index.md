@@ -25,7 +25,6 @@ abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
 in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -35,17 +34,14 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Maschinen- und Anlagenführer/Maschinen- und
 Anlagenführerin wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -58,7 +54,6 @@ Planen, Durchführen und Kontrollieren sowie das Handeln im
 betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -106,10 +101,6 @@ Fertigkeiten und Kenntnisse:
 
 14. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen unter
@@ -122,12 +113,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -135,7 +124,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -170,7 +158,6 @@ Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen,
 Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den
 Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz
 berücksichtigen kann.
-
 
 ## § 9 Abschlussprüfung
 
@@ -539,7 +526,6 @@ der Prüfungsbereiche des schriftlichen Teils müssen mindestens
 ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine
 ungenügenden Leistungen erbracht worden sein.
 
-
 ## § 10 Anrechnungsregelung
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum Maschinen- und
@@ -612,11 +598,9 @@ zum Feinwerkmechaniker/zur Feinwerkmechanikerin vom 2. Juli 2002
 industriellen Metallberufen vom 23. Juli 2007 (BGBl. I S. 1599) in das
 Gesamtergebnis einbezogen.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Maschinen- und Anlagenführer/zur Maschinen- und Anlagenführerin
 

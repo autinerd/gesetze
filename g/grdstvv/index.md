@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 Abs. 44 G v. 22.9.2005 I 2809
 
-
 ## § 1 Geltungsbereich, Genehmigungsanspruch
 
 (1) In dem in Artikel 3 des Einigungsvertrages bezeichneten Gebiet
@@ -74,7 +73,6 @@ aus. Auf Antrag eines Beteiligten ergeht hierüber ein gesonderter
 Bescheid. Ein Vorgehen nach dem Investitionsvorranggesetz oder § 7 des
 Vermögenszuordnungsgesetzes sowie für diesen Fall getroffene
 Vereinbarungen der Beteiligten bleiben unberührt.
-
 
 ## § 2 Erfordernis der Genehmigung
 
@@ -153,7 +151,6 @@ wenn Anhaltspunkte dafür gegeben sind, daß die Genehmigung infolge der
 Einlegung eines Rechtsbehelfs nach Satz 2 oder aus sonstigen Gründen
 nicht wirksam ist.
 
-
 ## § 3 Begriffsbestimmungen
 
 Grundstücke im Sinne dieses Gesetzes sind auch Teile eines Grundstücks
@@ -168,10 +165,6 @@ eines Grundstücks stehen gleich:
 
 2.  die Auflassung von Teil- und Wohnungseigentum an einem Grundstück.
 
-
-
-
-
 ## § 4 Inhalt der Entscheidung
 
 (1) In der Entscheidung ist das Grundstück zu bezeichnen. Die
@@ -185,7 +178,6 @@ Genehmigungszweck erreicht wird. Sie sind zu begründen.
 (3) Die Entscheidung über den Antrag ist mit einer
 Rechtsbehelfsbelehrung zu versehen und allen Beteiligten, wenn sie
 vertreten sind, nur dem Vertreter zuzustellen.
-
 
 ## § 5 Rücknahme und Widerruf der Genehmigung
 
@@ -202,7 +194,6 @@ vorlag. Ergehen die Rücknahme oder der Widerruf in elektronischer
 Form, so sind sie mit einer dauerhaft überprüfbaren Signatur nach § 37
 Abs. 4 des Verwaltungsverfahrensgesetzes zu versehen.
 
-
 ## § 6 Rechtsmittel
 
 Für Streitigkeiten über die Erteilung der
@@ -214,7 +205,6 @@ Gericht, in dessen Bezirk die Stelle, die für die Erteilung der
 Grundstücksverkehrsgenehmigung zuständig ist, ihren Hauptsitz hat.
 Eine Entscheidung nach diesem Gesetz kann nicht wegen eines Verstoßes
 gegen die Bestimmungen über die Zuständigkeit angefochten werden.
-
 
 ## § 7 Verfahren bei Aufhebung der Genehmigung
 
@@ -274,7 +264,6 @@ entstehenden Schaden zu ersetzen.
 (4) Die Absätze 1 bis 3 gelten für die Aufhebung einer Genehmigung für
 die Bestellung oder Übertragung eines Erbbaurechts entsprechend.
 
-
 ## § 8 Zuständigkeit
 
 Für die Erteilung der Genehmigung sind die Landkreise und die
@@ -293,7 +282,6 @@ Kapitalgesellschaft übertragen worden sind oder übertragen werden,
 deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder
 mittelbar in der Hand des Bundes befinden.
 
-
 ## § 9 Gebühren
 
 (1) Die Erteilung einer Genehmigung nach § 2 ist gebührenpflichtig.
@@ -308,7 +296,6 @@ Rechtsverordnung einen Gebührenrahmen zu bestimmen.
 
 (3) Landesrechtliche Regelungen über Gebührenbefreiungen bleiben
 unberührt.
-
 
 ## § 10 Verordnungsermächtigung
 
@@ -327,7 +314,6 @@ Landkreise oder kreisfreie Städte zu konzentrieren oder auf das
 Landesamt zur Regelung offener Vermögensfragen zu übertragen. Die
 Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
 eine von ihnen zu bestimmende Stelle übertragen.
-
 
 ## § 11 Bestandsschutz
 

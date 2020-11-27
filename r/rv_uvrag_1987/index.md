@@ -16,17 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1986, 2591
 
-
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 - Verordnungsermächtigung
 
@@ -45,14 +41,12 @@ Statistischen Bundesamt zu Beginn des Jahres 1987 vorliegenden Daten
 das durchschnittliche Bruttoarbeitsentgelt im Jahre 1986 anders
 entwickelt hat, als es diesen Werten und Beträgen zugrunde gelegt ist.
 
-
 ## Art 4 - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 5 - Inkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 5.12.2012 I 2436
 
-
 ## § 1 Steuergegenstand
 
 (1) Der Luftverkehrsteuer unterliegt ein Rechtsvorgang, der zum Abflug
@@ -30,7 +29,6 @@ berechtigt.
 eines Sitzplatzes in einem Flugzeug oder Drehflügler an einen
 Fluggast, wenn kein anderer Rechtsvorgang im Sinne dieses Gesetzes
 vorausgegangen ist.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -112,10 +110,6 @@ Im Sinne dieses Gesetzes ist oder sind:
 
     befasst sind.
 
-
-
-
-
 ## § 3 Sachlich und örtlich zuständige Behörde
 
 (1) Sachlich zuständige Behörde für die Durchführung dieses Gesetzes
@@ -141,12 +135,10 @@ haben und keinen steuerlichen Beauftragten benannt haben, ist bis zur
 Benennung des steuerlichen Beauftragten das Hauptzollamt örtlich
 zuständig, in dessen Bezirk der erste Abflug erfolgt.
 
-
 ## § 4 Entstehung der Steuer
 
 Die Steuer nach § 1 entsteht mit dem Abflug des Fluggastes von einem
 inländischen Startort.
-
 
 ## § 5 Steuerbefreiungen
 
@@ -217,10 +209,6 @@ zu einem Abflug von einem inländischen Startort berechtigen:
 
 8.  Abflüge von Flugbesatzungen.
 
-
-
-
-
 ## § 6 Steuerschuldner
 
 (1) Steuerschuldner ist das Luftverkehrsunternehmen, das den Abflug
@@ -236,7 +224,6 @@ Abgabenordnung dürfen die Haftungsschuldner auch dann auf Zahlung in
 Anspruch genommen werden, wenn nicht zuvor in das bewegliche Vermögen
 des Steuerschuldners vollstreckt worden ist oder wenn nicht anzunehmen
 ist, dass die Vollstreckung aussichtslos sein würde.
-
 
 ## § 7 Registrierung
 
@@ -319,7 +306,6 @@ schriftlich anzuzeigen.
 (5) Das Hauptzollamt erteilt Luftverkehrsunternehmen einen
 schriftlichen Nachweis über die erfolgte Registrierung.
 
-
 ## § 8 Steuerliche Beauftragte
 
 (1) Steuerliche Beauftragte vertreten das Luftverkehrsunternehmen bei
@@ -377,7 +363,6 @@ anzuzeigen.
 (5) Die Erlaubnis des Beauftragten ist zu widerrufen, wenn eine der in
 Absatz 2 Satz 2 genannten Voraussetzungen nicht mehr erfüllt ist.
 
-
 ## § 9 Sicherheit
 
 Das Hauptzollamt kann von den Steuerschuldnern eine Sicherheit bis zur
@@ -385,12 +370,10 @@ Höhe der Steuer verlangen, die voraussichtlich für zwei Kalendermonate
 entsteht, wenn Anzeichen für eine Gefährdung der Steuer erkennbar
 sind.
 
-
 ## § 10 Bemessungsgrundlage
 
 Die Steuer bemisst sich nach der Lage des jeweils gewählten Zielorts
 und der Anzahl der beförderten Fluggäste.
-
 
 ## § 11 Steuersatz
 
@@ -436,7 +419,6 @@ Treibhausgasemissionszertifikaten werden auf Basis der Einnahmen des
 jeweils ersten Halbjahres des Vorjahres geschätzt. Der abgesenkte
 Steuersatz wird auf volle Cent gerundet.
 
-
 ## § 12 Steueranmeldung, Fälligkeit
 
 (1) Der Steuerschuldner hat bis zum 10. Tag nach Ablauf des
@@ -457,7 +439,6 @@ Anspruch genommen wurde, gilt Absatz 1 sinngemäß.
 (3) Wird nach § 7 Absatz 1 kein Antrag auf Registrierung gestellt, hat
 der Steuerschuldner unverzüglich für jeden Abflug eine Steueranmeldung
 abzugeben. Die Steuer ist sofort fällig.
-
 
 ## § 13 Aufzeichnungspflichten
 
@@ -493,7 +474,6 @@ Das Hauptzollamt kann weitere Aufzeichnungen verlangen oder besondere
 Anordnungen zu den Aufzeichnungen treffen, wenn dies zur Sicherung des
 Steueraufkommens oder für die Steueraufsicht erforderlich scheint.
 
-
 ## § 14 Steueraufsicht
 
 Die für die Luftverkehrsteuer bedeutsamen Sachverhalte unterliegen der
@@ -502,7 +482,6 @@ Betretungsrecht erstreckt sich auch auf das Flugzeug oder den
 Drehflügler des der Steueraufsicht unterliegenden
 Luftverkehrsunternehmens sowie der Grundstücke und Räume, auf oder in
 denen sich das Flugzeug oder der Drehflügler befindet.
-
 
 ## § 15 Geschäftsstatistik
 
@@ -514,7 +493,6 @@ Ergebnisse dem Statistischen Bundesamt zur Auswertung mitteilen.
 (2) Die Bundesfinanzbehörden können dem Statistischen Bundesamt auch
 bereits aufbereitete Daten zur Darstellung und Veröffentlichung für
 allgemeine Zwecke übermitteln.
-
 
 ## § 16 Bußgeldvorschriften
 
@@ -547,7 +525,6 @@ allgemeine Zwecke übermitteln.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-
 ## § 17 Datenaustausch und Auskunftspflichten
 
 (1) Die Flugplatzbetreiber melden alle Abflüge mit Nennung des
@@ -568,7 +545,6 @@ anlassbezogen oder auf Anforderung Auskünfte aus dem steuerlichen
 Verfahren erteilen, die erforderlich sind, um die nach dem
 Luftverkehrsrecht geforderte Zuverlässigkeit eines
 Luftverkehrsunternehmens zu beurteilen.
-
 
 ## § 18 Ermächtigungen
 
@@ -717,7 +693,6 @@ verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
 Bezugsquelle und eine Stelle zu bezeichnen, bei der die
 Veröffentlichung archivmäßig gesichert niedergelegt ist.
 
-
 ## § 19 Anwendungsvorschriften und Übergangsvorschriften
 
 (1) Dieses Gesetz ist erstmals auf Rechtsvorgänge ab dem 1. September
@@ -742,7 +717,6 @@ Bundesministeriums für Wirtschaft und Technologie dem Bundestag bis
 zum 30. Juni 2012 einen Bericht über die Auswirkungen der Einführung
 des Luftverkehrsteuergesetzes auf den Luftverkehrssektor und die
 Entwicklung der Steuereinnahmen aus der Luftverkehrsteuer vor.
-
 
 ## Anlage 1 (zu § 11)
 
@@ -877,8 +851,6 @@ Entwicklung der Steuereinnahmen aus der Luftverkehrsteuer vor.
 *    *   Moldau
 
     *
-
-
 
 ## Anlage 2 (zu § 11)
 

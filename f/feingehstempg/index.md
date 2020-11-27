@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1886, 1
 
-
-
 ## (XXXX)
 
 Auf Grund des § 3 des Gesetzes über den Feingehalt der Gold- und

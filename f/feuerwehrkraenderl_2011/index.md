@@ -16,11 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1832
 
-
 ## Art 1
 
 (Änderungsvorschrift)
-
 
 ## Art 2
 
@@ -39,13 +37,11 @@ Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 1134-4, veröffentlichten bereinigten Fassung genehmige ich die
 Satzungsänderungen sowie die Änderungen der Verleihungsbedingungen.
 
-
 ## Art 3
 
 Das Bundesministerium des Innern veröffentlicht die Neufassungen der
 Satzung und der Verleihungsbedingungen sowie die Abbildung der neuen
 Stufe des Deutschen Feuerwehr-Ehrenkreuzes im Bundesanzeiger.
-
 
 ## Schlussformel
 

@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 11 V v. 23.7.2010 I 1010
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -30,7 +28,6 @@ ist, verordnet das Bundesministerium für Bildung und Forschung nach
 Anhören des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Arbeit:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -129,7 +126,6 @@ Industriemeisterin - Fachrichtung Elektrotechnik wahrnehmen zu können:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Elektrotechnik.
 
-
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/ zur Geprüften
@@ -175,7 +171,6 @@ funktionsfeldbezogenen und die Handlungsbereiche integrierenden
 Situationsaufgaben und mündlich in Form eines situationsbezogenen
 Fachgesprächs gemäß § 5 zu prüfen.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende
@@ -220,7 +215,6 @@ Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch
 Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 berufspraktische Qualifikationen erworben zu haben, die die Zulassung
 zur Prüfung rechtfertigen.
-
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
 
@@ -445,7 +439,6 @@ als 20 Minuten dauern. Die Bewertung der schriftlichen
 Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -908,7 +901,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -923,7 +915,6 @@ Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den
 Anforderungen der entsprechenden Prüfungsinhalte nach dieser
 Verordnung entspricht. Eine Freistellung von der Prüfung im
 situationsbezogenen Fachgespräch gemäß § 5 Abs. 6 ist nicht zulässig.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -966,7 +957,6 @@ der anderweitig abgelegten Prüfung anzugeben. Der Nachweis über den
 Erwerb der berufs- und arbeitspädagogischen Kenntnisse gemäß § 2 Abs.
 2 ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -980,7 +970,6 @@ Situationsaufgaben und dem situationsbezogenen Fachgespräch zu
 befreien, wenn die darin in einer vorangegangenen Prüfung erbrachten
 Leistungen ausgereicht haben.
 
-
 ## § 9 Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 28. Februar 2007
@@ -991,11 +980,9 @@ Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum
 Ablauf des 28. Februar 2005 die Anwendung der bisherigen Vorschriften
 beantragt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 5)
 
@@ -1027,7 +1014,6 @@ bestanden.
 Datum ......................................
 Unterschrift ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 5)
 

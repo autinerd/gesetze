@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 10 G v. 25.9.1996 I 1461
 
-
 ## Eingangsformel
 
 Auf Grund der
@@ -56,20 +55,17 @@ Grund der
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Bezugsgröße
 
 Die Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch) beträgt in
 dem in Artikel 3 des Einigungsvertrages genannten Gebiet ab 1. Juli
 1991 1.750 DM monatlich.
 
-
 ## § 2 Beitragsbemessungsgrenze
 
 Die Beitragsbemessungsgrenze beträgt in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet ab 1. Juli 1991 3.400 DM
 monatlich.
-
 
 ## § 3 Grundsatz für die Rentenanpassung
 
@@ -83,13 +79,11 @@ Leistungen nach den §§ 9 bis 11 der Versorgungsordnung der Deutschen
 Reichsbahn und Leistungen nach den §§ 9 bis 11 der Versorgungsordnung
 der Deutschen Post.
 
-
 ## § 4 Renten aus der Rentenversicherung
 
 Die Renten aus der Rentenversicherung werden dadurch angepaßt, daß der
 sich für den Monat Juli 1991 ergebende anpassungsfähige Betrag um 15
 vom Hundert erhöht wird.
-
 
 ## § 5 Renten aus der Unfallversicherung
 
@@ -97,7 +91,6 @@ Die Renten aus der Unfallversicherung für Arbeitsunfälle und
 Berufskrankheiten, die vor dem 1. Juli 1991 eingetreten sind, werden
 nach einer um 15 vom Hundert erhöhten Berechnungsgrundlage berechnet.
 Dies gilt nicht für Kinderzuschläge zu Unfallrenten.
-
 
 ## § 6 Kriegsbeschädigtenrenten
 
@@ -108,12 +101,10 @@ Anrechnung von Einkommen auf die Kriegsbeschädigtenrente (§ 7 Abs. 2
 Satz 1 des Rentenangleichungsgesetzes) auf die angepaßte Rente
 anzuwenden.
 
-
 ## § 7 Auswirkungen auf den Sozialzuschlag
 
 Die sich nach den §§ 4 und 5 ergebenden Erhöhungsbeträge werden auf
 den Sozialzuschlag nicht angerechnet.
-
 
 ## § 8 Renten mit Zusatzversorgung
 
@@ -152,10 +143,6 @@ Grenzwert überschreiten.
 
     *   450 DM.
 
-
-
-
-
 ## § 9 Renten mit Sonderversorgung
 
 (1) Renten, die wegen Bezugs einer Sonderversorgung nicht anzugleichen
@@ -168,7 +155,6 @@ die Berechtigten ein sich nach Absatz 1 ergebender Erhöhungsbetrag
 nachgezahlt. Die Nachzahlung eines Erhöhungsbetrages nach Absatz 1
 unterbleibt, soweit die Berechtigten einen Sozialzuschlag erhalten
 haben.
-
 
 ## § 10 Berechnung der in der Zeit vom 1. Juli 1991 bis 31. Dezember 1991 entstehenden Rentenansprüche aus der Rentenversicherung
 
@@ -253,14 +239,9 @@ Prozentsätze:
 
     *   0,00
 
-
-
-
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1991 in Kraft.
-
 
 ## Schlußformel
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3040
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Satz 1 des Altersteilzeitgesetzes vom 23. Juli 1996
@@ -25,18 +24,15 @@ Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149)
 geändert worden ist, verordnet das Bundesministerium für Arbeit und
 Soziales:
 
-
 ## § 1
 
 Die Mindestnettobeträge nach § 3 Abs. 1 Nr. 1 Buchstabe a des
 Altersteilzeitgesetzes in der bis zum 30. Juni 2004 gültigen Fassung
 ergeben sich aus der dieser Verordnung als Anlage beigefügten Tabelle.
 
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
-
 
 ## Anlage (zu § 1)
 

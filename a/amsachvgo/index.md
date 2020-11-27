@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 352 Nr. 2 V v. 31.10.2006 I 2407
 
-
 ## § 1
 
 (1) Die Ausschüsse treten auf Einladung durch den Vorsitzenden zu
@@ -30,7 +29,6 @@ Stellvertretern vier Wochen vor der Sitzung zugehen.
 (2) Die Sitzungen der Ausschüsse sind nicht öffentlich.
 
 (3) Der Vorsitzende eröffnet, leitet und schließt die Sitzungen.
-
 
 ## § 2
 
@@ -47,7 +45,6 @@ Landwirtschaft und Verbraucherschutz.
 (2) Stimmberechtigt sind die Mitglieder, im Falle der Verhinderung
 ihre Stellvertreter.
 
-
 ## § 3
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte legt zu
@@ -63,12 +60,10 @@ erst zur Sitzung vorgelegten Ausarbeitung beschließen.
 (4) Im Falle einer schriftlichen Anhörung nach § 2 Abs. 1 Satz 3 wird
 ein Beschlußvorschlag mit Begründung zugeleitet.
 
-
 ## § 4
 
 Der Vorsitzende kann mit Zustimmung der Ausschußmitglieder
 Sachverständige zu bestimmten Fragestellungen hinzuziehen.
-
 
 ## § 5
 

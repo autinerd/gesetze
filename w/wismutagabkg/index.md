@@ -20,12 +20,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 - Zustimmung zum Abkommen
 
@@ -35,10 +33,7 @@ der Sozialistischen Sowjetrepubliken über die Beendigung der Tätigkeit
 der Sowjetisch-Deutschen Aktiengesellschaft Wismut wird zugestimmt.
 Das Abkommen wird nachstehend veröffentlicht.
 
-
 ## Art 2 - Umwandlung der Sowjetisch-Deutschen Aktiengesellschaft Wismut
-
-
 
 ## § 1
 
@@ -51,12 +46,10 @@ beschränkter Haftung umgewandelt und besteht als solche weiter.
 der aus der Umwandlung entstandenen Gesellschaft mit beschränkter
 Haftung.
 
-
 ## § 2
 
 Die Gesellschaft führt die Firma "Wismut Gesellschaft mit beschränkter
 Haftung im Aufbau (Wismut GmbH i.A.)". Sie hat ihren Sitz in Chemnitz.
-
 
 ## § 3
 
@@ -71,17 +64,14 @@ beschränkter Haftung über die Stellung und die Verantwortlichkeit der
 Geschäftsführer sind auf die in Absatz 1 genannten Personen
 anzuwenden.
 
-
 ## § 4
 
 Bis zur Bestimmung des Stammkapitals in dem Gesellschaftsvertrag
 beträgt das Stammkapital einhunderttausend Deutsche Mark.
 
-
 ## § 5
 
 Das Geschäftsjahr der Wismut GmbH im Aufbau ist das Kalenderjahr.
-
 
 ## § 6
 
@@ -97,17 +87,12 @@ Inkrafttreten dieses Gesetzes mitzuteilen:
 
 2.  der Name jedes vorläufigen Geschäftsführers.
 
-
-
-
-
 ## § 7
 
 Unverzüglich nach der Eintragung der Gesellschaft leiten die
 vorläufigen Geschäftsführer die für die Gründung einer Gesellschaft
 mit beschränkter Haftung im übrigen gesetzlich erforderlichen
 Maßnahmen ein.
-
 
 ## § 8
 
@@ -117,13 +102,11 @@ die Gründung finden die §§ 1 bis 12 mit Ausnahme von § 7 Abs. 1, § 10
 Abs. 1 und § 11 des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung Anwendung.
 
-
 ## § 9
 
 Die vorläufigen Geschäftsführer haben beim Handelsregister zur
 Eintragung anzumelden, daß die gesetzlichen Voraussetzungen für eine
 Eintragung der Wismut GmbH vorliegen.
-
 
 ## § 10
 
@@ -136,10 +119,7 @@ Gesellschaftsvertrag und seine Änderungen bedürfen zu ihrer
 Wirksamkeit keiner Bestätigung durch die nach dem Bergrecht für die
 Bestätigung des Gesellschaftsvertrages zuständigen Behörde.
 
-
 ## Art 3 - Spaltung der Wismut GmbH im Aufbau oder der Wismut GmbH
-
-
 
 ## § 1
 
@@ -169,7 +149,6 @@ die Stillegung der Bergbaubetriebe, die Sanierung und Rekultivierung
 der Bergbaualtlasten des Unternehmens durchführen soll, soll zum 1.
 Januar 1992 erfolgen.
 
-
 ## § 2
 
 Auf die Spaltung finden die §§ 2, 3, 7 bis 11, 13 und 15 des Gesetzes
@@ -178,10 +157,7 @@ vom 5. April 1991 (BGBl. I S. 854) entsprechende Anwendung. Soweit in
 den genannten Bestimmungen auf die Treuhandanstalt Bezug genommen
 wird, tritt an ihre Stelle die Bundesrepublik Deutschland.
 
-
 ## Art 4 - Bilanz- und Steuerrecht
-
-
 
 ## § 1
 
@@ -195,7 +171,6 @@ Juni 1991 vollzogen wird; die nach dem D-Markbilanzgesetz erstellte
 DM-Eröffnungsbilanz der Sowjetisch-Deutschen Aktiengesellschaft Wismut
 kann als DM-Eröffnungsbilanz der gemäß Artikel 2 § 1 umgewandelten
 Gesellschaft mit beschränkter Haftung verwendet werden.
-
 
 ## § 2
 
@@ -222,10 +197,7 @@ Besteuerung ausgenommen sind, die unbelastet bezogen und im eigenen
 Unternehmen für betriebliche Zwecke bis zum 31. Dezember 1990
 verbraucht worden sind.
 
-
 ## Art 5 - Bergbauberechtigung, Strahlenschutzerlaubnisse und -zulassungen
-
-
 
 ## § 1
 
@@ -243,7 +215,6 @@ zuständigen Behörde mit den für den Nachweis vom Bestehen und Umfang
 des Rechts erforderlichen Angaben anzuzeigen und auf deren Ersuchen
 entsprechend den dafür geltenden Vorschriften in das jeweilige
 Berggrundbuch einzutragen, sobald dieses angelegt ist.
-
 
 ## § 2
 
@@ -282,10 +253,7 @@ erforderlichen Angaben über solche Entscheidungen.
 (3) Für die Lagerung von aufbereiteten Uranerzen ist eine
 atomrechtliche Deckungsvorsorge nachzuweisen.
 
-
 ## Art 6 - Vermögen
-
-
 
 ## § 1 Zuordnung des Vermögens
 
@@ -329,7 +297,6 @@ mit der Maßgabe anzuwenden, daß an die Stelle des Innenministeriums
 des jeweiligen Landes das Bundesministerium für Wirtschaft und
 Technologie tritt.
 
-
 ## § 1a Kommunale Einrichtungen
 
 (1) Auf Antrag überträgt der Präsident der Oberfinanzdirektion (§ 1
@@ -357,14 +324,12 @@ haftet auf Grund von Maßnahmen nach Absatz 1 als Inhaberin der
 Geschäftsanteile der Wismut GmbH über die Vorschriften des Abschnitts
 3 des D-Markbilanzgesetzes hinaus nicht.
 
-
 ## § 2 Enteignetes Vermögen
 
 Soweit Vermögensgegenstände der in § 1 bezeichneten Art Gegenstand von
 Maßnahmen im Sinne von § 1 des Vermögensgesetzes waren, unterliegen
 sie der Rückübertragung nach Maßgabe des Vermögensgesetzes. Das
 Investitionsvorranggesetz ist anzuwenden.
-
 
 ## Art 7 - Übergabe von Unterlagen
 
@@ -402,12 +367,10 @@ die Unterlagen benötigt werden. Die Behörden können die Vorlage der
 betreffenden Unterlagen an Amts Stelle verlangen oder sie bei der
 Wismut GmbH im Aufbau oder ihren Rechtsnachfolgern einsehen.
 
-
 ## Art 8 - Befreiung von Kosten und Steuern
 
 Für den Vollzug der Artikel 1 bis 6 dieses Gesetzes werden keine
 Kosten oder mit Ausnahme der Umsatzsteuer keine Steuern erhoben.
-
 
 ## Art 9 - Prüfung durch Bundesrechnungshof
 
@@ -416,7 +379,6 @@ Bundesrechnungshof zur Klärung von Fragen, die bei der Prüfung nach §
 44 Haushaltsgrundsätzegesetz auftreten, unmittelbar unterrichten und
 zu diesem Zweck den Betrieb, die Bücher und die Schriften des
 Unternehmens einsehen.
-
 
 ## Art 10 - Inkrafttreten
 

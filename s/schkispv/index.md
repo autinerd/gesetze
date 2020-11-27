@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1975, 713
 
-
-
 ## Eingangsformel
 
 Zur Erhöhung der Qualität der Schüler- und Kinderspeisung als eine
 wesentliche Maßnahme im Rahmen des sozialpolitischen Programms wird
 folgendes verordnet:
-
 
 ## § 1 Geltungsbereich
 
@@ -47,10 +44,7 @@ und Einrichtungen genannt). Sie beziehen sich auf die Produktion, den
 Transport und die Ausgabe der Schüler- und Kinderspeisung sowie auf
 die Esseneinnahmebedingungen.
 
-
 ## - - Grundsätze
-
-
 
 ### § 2
 
@@ -65,7 +59,6 @@ Schüler, Lehrlinge und Kinder an Sonnabenden.
 (2) Es ist zu sichern, daß alle Schüler, Lehrlinge und Kinder in den
 Einrichtungen an allen Werktagen an der Trinkmilchversorgung
 teilnehmen können.
-
 
 ### § 3
 
@@ -94,7 +87,6 @@ e)  Schüler und Lehrlinge, deren Teilnahme aus anderen dringenden Gründen
 
 (2) Kinderspeisung erhalten alle Kinder in Kindergärten.
 
-
 ### § 4
 
 (1) Zur Sicherung eines dem Alter der Schüler, Lehrlinge und Kinder
@@ -120,7 +112,6 @@ den örtlichen Bedingungen. Bis zur Einführung der
 altersdifferenzierten Schülerspeisung sind die Schüler aller
 Altersgruppen nach dem Normativ für Schüler der Klassen 1 bis 6 zu
 versorgen.
-
 
 ### § 5
 
@@ -156,7 +147,6 @@ erfolgen. Die Grundlage für die Kalkulation des wertmäßigen
 Naturaleinsatzes sind unbearbeitete Rohstoffe. Mehraufwendungen für
 vorgefertigte Rohstoffe sind den Zubereitungskosten zuzuordnen.
 
-
 ### § 6
 
 Für die Herstellung und den Transport bzw. für die Herstellung und die
@@ -182,10 +172,6 @@ Schüler- und Kinderspeisung folgende Richtpreise:
     *   beim Naturaleinsatz von -,80 M
 
     *   Richtpreis 1,35 M.
-
-
-
-
 
 ### § 7
 
@@ -231,7 +217,6 @@ Kinderspeisung und die kostenlose Abgabe von Trinkmilch ist Schülern,
 Lehrlingen und Kindern aus kinderreichen bzw. solchen Familien zu
 gewähren, deren Einkommen diese staatliche Unterstützung rechtfertigt.
 
-
 ### § 8
 
 (1) Die Mahlzeiten für die Schüler- und Kinderspeisung sind auf der
@@ -249,7 +234,6 @@ die Bereitstellung eines qualitativ vollwertigen Essens zu schaffen.
 -----
 \*) Wird im Sonderdruck des Gesetzblattes bekanntgegeben.
 
-
 ### § 9
 
 (1) Während der Ferien ist die Versorgung der Schüler mit einem warmen
@@ -261,7 +245,6 @@ Sommerferienspielen teilnehmen, ist kostenlos.
 (3) Die Abgabe einer warmen Mahlzeit an Schüler, die an keiner Form
 der Feriengestaltung teilnehmen, erfolgt gemäß § 7.
 
-
 ### § 10
 
 Am Unterrichtstag in der Produktion und bei der wissenschaftlich-
@@ -272,7 +255,6 @@ der festgelegten Kostenbeteiligung für Schüler gemäß § 7 und dem
 Essengeld für die Betriebsangehörigen ist aus dem Kultur- und
 Sozialfonds der Betriebe zu finanzieren und bei der Jahresplanung zu
 berücksichtigen.
-
 
 ### § 11
 
@@ -295,10 +277,7 @@ Speisenproduktionskapazität zu planen.
 Speisentransportbehältern für die Schüler- und Kinderspeisung ist
 vorrangig zu decken.
 
-
 ## - - Leitung, Planung und Organisation der Schüler- und Kinderspeisung
-
-
 
 ### § 12
 
@@ -321,7 +300,6 @@ Schüler- und Kinderspeisung herstellen, sind erst dann vorzunehmen,
 wenn die erforderlichen Voraussetzungen vorhanden sind, um die
 Qualität des Essens, die Versorgungsleistungen sowie die
 Esseneinnahmebedingungen weiter zu verbessern.
-
 
 ### § 13
 
@@ -370,10 +348,6 @@ h)  die planmäßige Durchführung von Erfahrungsaustauschen und
     Kinderspeisung beteiligten Betriebe und Einrichtungen in allen
     Territorien.
 
-
-
-
-
 ### § 14
 
 (1) Der Minister für Volksbildung ist verantwortlich für die
@@ -412,10 +386,6 @@ d)  Anleitung und Kontrolle für eine kontinuierliche Zusammenarbeit bei
     zuständigen Elternvertretungen und Kommissionen sowie mit anderen
     gesellschaftlichen Kräften des Territoriums.
 
-
-
-
-
 ### § 15
 
 (1) Der Staatssekretär für Berufsbildung ist verantwortlich für die
@@ -430,7 +400,6 @@ und Berufsberatung der Räte der Bezirke und Kreise die gemäß § 14 Abs.
 2 festgelegten Aufgaben entsprechend den spezifischen Bedingungen der
 Arbeit in den kommunalen Berufsschulen verwirklichen.
 
-
 ### § 16
 
 Der Vorsitzende der Staatlichen Plankommission gewährleistet im Rahmen
@@ -441,7 +410,6 @@ gewährleistet bei der Ausarbeitung der Volkswirtschaftspläne die
 Durchsetzung der verbindlichen Normative für die Planung und
 Bilanzierung der Einrichtungen der Schüler- und Kinderspeisung im
 komplexen Wohnungsbau.
-
 
 ### § 17
 
@@ -454,14 +422,12 @@ die Kontrolle der den Rechtsvorschriften entsprechenden Planung und
 Verwendung der Haushaltsmittel für die Schüler- und Kinderspeisung
 sowie die Durchführung von Finanzrevisionen.
 
-
 ### § 18
 
 Der Minister und Leiter des Amtes für Preise gewährleistet durch
 Preiskontrollen in den an der Schüler- und Kinderspeisung beteiligten
 Betrieben und Einrichtungen die Einhaltung der gesetzlich festgelegten
 Preisregelungen.
-
 
 ### § 19
 
@@ -472,7 +438,6 @@ und Aktualisierung von Rezepturen. Er gewährleistet in den Betrieben
 und Einrichtungen der Schüler- und Kinderspeisung die Überwachung der
 Hygiene durch die zuständigen Hygieneinspektionen.
 
-
 ### § 20
 
 Der Minister für Bauwesen sichert die Entwicklung typisierter
@@ -481,14 +446,12 @@ Schüler- und Kinderspeisung. Die Räte der Bezirke sichern die
 Herausgabe eines Katalogs von Wiederverwendungsprojekten für diese
 Einrichtungen.
 
-
 ### § 21
 
 Der Leiter der Staatlichen Zentralverwaltung für Statistik sichert die
 Abrechnung der geplanten Kennziffern für die Schüler- und
 Kinderspeisung und gewährleistet die staatliche Berichterstattung zu
 Schwerpunkten der Entwicklung der Schüler- und Kinderspeisung.
-
 
 ### § 22
 
@@ -499,7 +462,6 @@ und Kinderspeisung in die Pläne der Betriebe aufgenommen werden. Sie
 unterbreiten den örtlichen Räten Vorschläge über den gemeinsamen
 Einsatz von Mitteln und Kapazitäten für die Schüler- und
 Kinderspeisung.
-
 
 ### § 23
 
@@ -573,7 +535,6 @@ k)  Kontrollen über die Einhaltung der Richtpreise und der
 sich im Sinne der in dieser Verordnung festgelegten Verantwortung der
 zentralen Staatsorgane.
 
-
 ### § 24
 
 (1) Die Räte der Städte und Gemeinden sind für die Schüler- und
@@ -601,7 +562,6 @@ der Schüler- und Kinderspeisung. Sie sichern entsprechend den
 Kontrolle der Kostenanteile, die für die Teilnahme an der Schüler- und
 Kinderspeisung von den Eltern erhoben werden.
 
-
 ### § 25
 
 (1) Die Leiter der Betriebe und Einrichtungen, für die § 24 Abs. 1
@@ -616,7 +576,6 @@ Wettbewerb einzubeziehen.
 (2) Die Betriebe und Einrichtungen, die Schüler- und Kinderspeisung
 herstellen, sichern die betriebliche Kontrolle der Qualität der
 Speisen unter Einbeziehung gesellschaftlicher Kräfte.
-
 
 ### § 26
 
@@ -641,17 +600,13 @@ abgeschlossenen Versorgungsverträge mit den an der Schüler- und
 Kinderspeisung beteiligten Betrieben und Einrichtungen die Anzahl der
 Essenportionen und die Anlieferungszeiten.
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 27
 
 Durchführungsbestimmungen zu dieser Verordnung erläßt der Minister für
 Handel und Versorgung in Übereinstimmung mit den Leitern der
 zuständigen zentralen Staatsorgane.
-
 
 ### § 28
 
@@ -686,10 +641,6 @@ Gleichzeitig treten außer Kraft:
     Schul- und Kinderspeisung einschließlich der Trinkmilchversorgung in
     den Jahren 1969/70 (Verfügungen und Mitteilungen des Ministeriums für
     Volksbildung 19/1969).
-
-
-
-
 
 ### Schlußformel
 

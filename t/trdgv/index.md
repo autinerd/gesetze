@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1714
 
-
 ## Eingangsformel
 
 Auf Grund des § 69 Absatz 1 und 2 Satz 2 der Wehrdisziplinarordnung
 vom 16. August 2001 (BGBl. I S. 2093) verordnet das Bundesministerium
 der Verteidigung:
-
 
 ## § 1 Dienstbereiche der Truppendienstgerichte
 
@@ -92,7 +90,6 @@ Dienststellen mit Sitz
 Es ist ferner zuständig für Truppenteile und Dienststellen, die sich
 im Ausland befinden.
 
-
 ## § 2 Auswärtige Truppendienstkammern
 
 Außerhalb des Sitzes des Truppendienstgerichts werden gebildet:
@@ -121,25 +118,16 @@ Außerhalb des Sitzes des Truppendienstgerichts werden gebildet:
 
     c)  eine Truppendienstkammer mit Sitz in Potsdam.
 
-
-
-
-
-
-
-
 ## § 3 Übergangsregelung
 
 Für am 31. August 2012 bei den Truppendienstgerichten schwebende
 Verfahren ist § 2 der Errichtungsverordnung vom 16. Mai 2006 (BGBl. I
 S. 1262) weiter anzuwenden.
 
-
 ## § 4 Auflösung der bestehenden auswärtigen Truppendienstkammern
 
 Die bei Inkrafttreten dieser Verordnung bestehenden auswärtigen
 Truppendienstkammern sind aufgelöst.
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 668
 
-
-
 ## Art 1
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
@@ -45,12 +43,10 @@ genehmige ich die Stiftung und Verleihung der
 
 durch den Bundesminister der Verteidigung.
 
-
 ## Art 2
 
 Ich genehmige die Stiftungsbestimmungen und die Verleihungsbedingungen
 des in Artikel 1 genannten Ehrenzeichens.
-
 
 ## Art 3
 
@@ -58,14 +54,12 @@ Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
 Abbildung des nach Artikel 1 genehmigten Ehrenzeichens werden vom
 Bundesminister des Innern im Bundesanzeiger bekanntgemacht.
 
-
 ## Art 4
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner
 Form und Benennung bedarf meiner Genehmigung und wird gemäß Artikel 3
 bekanntgemacht.
-
 
 ## Schlußformel
 

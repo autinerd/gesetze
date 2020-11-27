@@ -23,7 +23,6 @@ Geändert durch
     Nutzung des Schengener Informationssystems der zweiten Generation (SIS
     II) (ABl. EU Nr. L 205 S. 63).
 
-
 ## Art 1 Anwendung der Bestimmungen des Beschlusses des Rates über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II)
 
 Die Bestimmungen des Beschlusses 2007/533/JI des Rates vom 12. Juni
@@ -31,10 +30,7 @@ Die Bestimmungen des Beschlusses 2007/533/JI des Rates vom 12. Juni
 Informationssystems der zweiten Generation (SIS II) (ABl. EU Nr. L 205
 S. 63) sind anwendbar.
 
-
 ## (XXXX) Art 2 bis 6
-
-
 
 ## Art 7 Inkrafttreten
 

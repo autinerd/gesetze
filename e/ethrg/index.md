@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1385
 
-
-
 ## § 1 Bildung des Deutschen Ethikrats
 
 Es wird ein unabhängiger Sachverständigenrat gebildet, der die
 Bezeichnung "Deutscher Ethikrat" trägt.
-
 
 ## § 2 Aufgaben
 
@@ -62,13 +59,11 @@ zur Kenntnis zu.
 Bundesregierung zum Ablauf jedes Kalenderjahres schriftlich über seine
 Aktivitäten und den Stand der gesellschaftlichen Debatte.
 
-
 ## § 3 Stellung
 
 Der Deutsche Ethikrat ist in seiner Tätigkeit unabhängig und nur an
 den durch dieses Gesetz begründeten Auftrag gebunden. Die Mitglieder
 des Deutschen Ethikrats üben ihr Amt persönlich und unabhängig aus.
-
 
 ## § 4 Mitglieder
 
@@ -88,7 +83,6 @@ ein plurales Meinungsspektrum vertreten sein.
 gesetzgebenden Körperschaft des Bundes oder eines Landes noch der
 Bundesregierung oder einer Landesregierung angehören.
 
-
 ## § 5 Berufung und Amtszeit der Mitglieder
 
 (1) Der Präsident des Deutschen Bundestags beruft die Mitglieder des
@@ -106,7 +100,6 @@ erfolgt die Berufung des neuen Mitglieds auf Vorschlag desjenigen
 Organs, das nach Absatz 1 den Vorschlag für das ausgeschiedene
 Mitglied unterbreitet hatte.
 
-
 ## § 6 Arbeitsweise
 
 (1) Der Deutsche Ethikrat wählt in geheimer Wahl aus seiner Mitte
@@ -117,7 +110,6 @@ Wiederwahl ist einmal möglich.
 
 (3) Der Deutsche Ethikrat kann Arbeitsgruppen einsetzen und Gutachten
 durch dritte Personen erstellen lassen.
-
 
 ## § 7 Öffentlichkeit
 
@@ -132,14 +124,12 @@ Empfehlungen und Berichte.
 Auffassung, so können sie diese in der Stellungnahme, der Empfehlung
 oder dem Bericht zum Ausdruck bringen.
 
-
 ## § 8 Geschäftsstelle
 
 Der Deutsche Ethikrat wird bei der Durchführung seiner Aufgaben von
 einer Geschäftsstelle unterstützt. Die Geschäftsstelle wird vom
 Präsidenten des Deutschen Bundestags eingerichtet. Sie untersteht
 fachlich der oder dem Vorsitzenden des Deutschen Ethikrats.
-
 
 ## § 9 Pflicht zur Verschwiegenheit
 
@@ -150,7 +140,6 @@ Beratungsunterlagen verpflichtet. Die Pflicht zur Verschwiegenheit
 bezieht sich auch auf Informationen, die dem Deutschen Ethikrat
 gegeben und als vertraulich bezeichnet werden.
 
-
 ## § 10 Kosten
 
 (1) Die Mitglieder des Deutschen Ethikrats erhalten eine pauschale
@@ -160,7 +149,6 @@ Präsidenten des Deutschen Bundestags festgesetzt.
 
 (2) Die Kosten des Deutschen Ethikrats und seiner Geschäftsstelle
 trägt der Bund.
-
 
 ## § 11 Inkrafttreten
 

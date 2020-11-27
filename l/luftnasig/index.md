@@ -20,8 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 5.12.2012 I 2415
 
-
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz dient der Sicherung des Nachweises der
@@ -39,7 +37,6 @@ ihre Hauptversammlung mit einer Mehrheit von mindestens drei Vierteln
 des bei der Beschlußfassung vertretenen Grundkapitals beschließt, sich
 diesem Gesetz nicht zu unterstellen. Ein solcher Beschluß kann von der
 Hauptversammlung mit gleicher Mehrheit wieder aufgehoben werden.
-
 
 ## § 2 Form der Aktien
 
@@ -73,7 +70,6 @@ Aktienbuch zu berichtigen. Wer schuldhaft falsche Angaben nach Absatz
 1 macht, ist der Gesellschaft zum Ersatz des dadurch entstehenden
 Schadens verpflichtet.
 
-
 ## § 3 Umwandlung in vinkulierte Namensaktien
 
 (1) Die von Gesellschaften im Sinne des § 1 Abs. 1 zum Zeitpunkt des
@@ -102,7 +98,6 @@ der Berechtigte nicht feststeht oder die nach § 2 Abs. 1 geforderten
 Angaben nicht oder nicht vollständig macht, sind die Aktien auf den
 Namen eines Treuhänders einzutragen. Dem Treuhänder stehen Rechte aus
 den Aktien nicht zu.
-
 
 ## § 4 Kapitalmaßnahmen zur Beseitigung einer Gefährdung der Luftverkehrsbetriebsgenehmigung oder der Luftverkehrsrechte
 
@@ -145,7 +140,6 @@ daß sich
 im Besitz solcher Aktionäre befinden, deren Aktienbesitz der Erfüllung
 der Anforderungen für die Aufrechterhaltung der
 luftverkehrsrechtlichen Befugnisse entgegensteht.
-
 
 ## § 5 Veräußerungspflicht
 
@@ -246,7 +240,6 @@ aus den betroffenen Aktien nicht mehr ausüben.
 Zeitpunkt des Inkrafttretens dieses Gesetzes bereits gehaltenen
 Aktienbestand nicht anzuwenden.
 
-
 ## § 6 Unterrichtung der Aktionäre
 
 (1) Der Vorstand hat mit Einberufung der Hauptversammlung nach § 30b
@@ -261,7 +254,6 @@ gemäß § 4 zum Erwerb eigener Aktien oder zur Vornahme der
 Kapitalmaßnahmen befugen, gemäß § 15 des Wertpapierhandelsgesetzes zu
 veröffentlichen.
 
-
 ## § 7 Weitergabe von Auskünften durch Kreditinstitute, Hinweispflicht
 
 Verwahrt ein Kreditinstitut Aktien von Gesellschaften im Sinne des § 1
@@ -270,7 +262,6 @@ Gesellschaft, die der Erfüllung der Verpflichtung der Aktionäre nach
 den §§ 2 und 3 dienen, unverzüglich an diese Aktionäre weiterzugeben
 und diese auf die Pflichten nach den Vorschriften dieses Gesetzes
 hinzuweisen.
-
 
 ## § 8 Inkrafttreten
 

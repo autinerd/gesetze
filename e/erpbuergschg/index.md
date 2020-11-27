@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1954, 365
 
-
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -39,13 +36,11 @@ Sicherheitsleistungen, Gewährleistungen und Bürgschaften, die
 außerhalb des Rahmens des § 5 Abs. 3 des Gesetzes über die Verwaltung
 des ERP-Sondervermögens übernommen werden sollen.
 
-
 ## § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 4
 

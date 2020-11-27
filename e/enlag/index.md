@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 7.3.2011 I 338
 
-
 ## § 1
 
 (1) Für Vorhaben nach § 43 Satz 1 des Energiewirtschaftsgesetzes im
@@ -48,7 +47,6 @@ den Netzverknüpfungspunkten.
 (5) Energieleitungen beginnen und enden jeweils an den
 Netzverknüpfungspunkten, an denen sie mit dem bestehenden
 Übertragungsnetz verbunden sind.
-
 
 ## § 2
 
@@ -128,7 +126,6 @@ jeweils rechnerisch entfallenden Anteils an den Gesamtkosten. Die
 Übertragungsnetzbetreiber ermitteln den Saldo zum 30. November eines
 Kalenderjahres.
 
-
 ## § 3
 
 Nach Ablauf von jeweils drei Jahren prüft das Bundesministerium für
@@ -141,7 +138,6 @@ und legt dem Deutschen Bundestag hierüber einen Bericht, erstmalig zum
 Zielsetzungen nach § 1 des Energiewirtschaftsgesetzes auch notwendige
 Optimierungsmaßnahmen zu prüfen. In diesem Bericht sind auch die
 Erfahrungen mit dem Einsatz von Erdkabeln nach § 2 darzustellen.
-
 
 ## Anlage
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1472
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 51 Abs. 2 Satz 2 in Verbindung mit Satz 1 und Absatz 1
@@ -34,14 +32,12 @@ Sicherung, dem Bundesministerium für Verkehr, Bau- und Wohnungswesen
 und dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Ausstellung der Bescheinigung über die im
 Rahmen einer Berufsausbildungsvorbereitung nach dem
 Berufsbildungsgesetz erworbenen Grundlagen beruflicher
 Handlungsfähigkeit (§ 51 Abs. 2 Satz 1 des Berufsbildungsgesetzes).
-
 
 ## § 2 Allgemeine Anforderungen an die Bescheinigung
 
@@ -60,10 +56,6 @@ mindestens Angaben über
 
 
 4.  die Beschreibung der vermittelten Inhalte.
-
-
-
-
 
 ## § 3 Bescheinigung und Dokumentation von Qualifizierungsbausteinen
 
@@ -103,14 +95,12 @@ Ausbildungsinhalte einer gleichwertigen Berufsausbildung, die Dauer
 der Vermittlung sowie die Art der Leistungsfeststellung festzuhalten
 sind (Qualifizierungsbild).
 
-
 ## § 4 Bestätigung des Qualifizierungsbildes
 
 Auf Antrag des Anbieters der Berufsausbildungsvorbereitung bestätigt
 die zuständige Stelle die Übereinstimmung des Qualifizierungsbildes
 mit den Vorgaben des § 3. Die Bestätigung ist auf der nach § 7 Abs. 3
 beizufügenden Abschrift des Qualifizierungsbildes aufzuführen.
-
 
 ## § 5 Ermittlung der Befähigung
 
@@ -122,7 +112,6 @@ Qualifizierungsziel erreicht hat.
 
 (2) Die Leistungsfeststellung erstreckt sich auf die im
 Qualifizierungsbild niedergelegten Fertigkeiten und Kenntnisse.
-
 
 ## § 6 Leistungsbewertung
 
@@ -137,10 +126,6 @@ folgende Bewertungen:
     den Anforderungen auch unter Berücksichtigung von Mängeln im
     Allgemeinen entspricht.
 
-
-
-
-
 ## § 7 Zeugnis und Teilnahmebescheinigung
 
 (1) Über das Ergebnis der Leistungsfeststellung nach Maßgabe des § 5
@@ -154,11 +139,9 @@ Teilnahme eine Bescheinigung gemäß der Anlage 3 aus.
 (3) Den Nachweisen der Absätze 1 und 2 ist eine Abschrift des
 Qualifizierungsbildes beizufügen.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 3 Abs. 2)
 
@@ -229,10 +212,6 @@ Datum ................................              (Siegel)
 
 2)  Ggf. streichen.
 
-
-
-
-
 ## Anlage 2 (zu § 7 Abs. 1)
 
 (Fundstelle: BGBl. I 2003, 1475)
@@ -280,7 +259,6 @@ Unterschrift(en) ..........................
 ...........................................
 (Betrieb, Träger oder sonstiger
 Anbieter der Berufsausbildungsvorbereitung)
-
 
 ## Anlage 3 (zu § 7 Abs. 2)
 

@@ -18,24 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 12.4.2011 I 615
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 11 -
-
-
 
 ## Art 12 - Übergangs- und Schlußvorschriften
 
-
-
 ### I. - Übergangsvorschriften
-
-
 
 ### § 1
 
@@ -44,13 +36,11 @@ geborenen Kindes und seiner Verwandten bestimmt sich für die Zeit nach
 dem Inkrafttreten dieses Gesetzes nach dessen Vorschriften, soweit
 sich nicht aus den §§ 2 bis 23 ein anderes ergibt.
 
-
 ### § 2
 
 Unter welchen Voraussetzungen ein Mann als Vater anzusehen ist, wird
 auch für Rechtsverhältnisse, die sich nach dem bisher geltenden Recht
 bestimmen, nach den Vorschriften dieses Gesetzes beurteilt.
-
 
 ### § 3
 
@@ -82,11 +72,9 @@ der Empfängniszeit beigewohnt hat; im Übrigen bestimmt sich die
 Vermutung der Vaterschaft nach § 1600d Absatz 2 des Bürgerlichen
 Gesetzbuchs.
 
-
 ### § 4
 
 (weggefallen)
-
 
 ### § 5
 
@@ -97,10 +85,7 @@ nicht auf die Unterhaltsansprüche des Kindes gegen die Verwandten des
 Vaters und auf den Unterhalt, der dem Kind nach Vollendung des
 achtzehnten Lebensjahres zu gewähren ist.
 
-
 ### (XXXX) §§ 6 und 7 (weggefallen)
-
-
 
 ### § 8
 
@@ -110,11 +95,9 @@ Eheschließung seiner Eltern ehelich geworden ist, oder ist ein
 nichteheliches Kind vor diesem Zeitpunkt für ehelich erklärt worden,
 so sind die §§ 2, 3 nicht anzuwenden.
 
-
 ### § 9
 
 (weggefallen)
-
 
 ### § 10
 
@@ -141,11 +124,9 @@ durch das Zweite Gesetz zur erbrechtlichen Gleichstellung
 nichtehelicher Kinder, zur Änderung der Zivilprozessordnung und der
 Abgabenordnung entstanden ist.
 
-
 ### § 10a
 
 (weggefallen)
-
 
 ### § 11
 
@@ -155,11 +136,9 @@ Inkrafttreten des Bürgerlichen Gesetzbuchs anzuwenden sind, bleiben
 diese Vorschriften weiterhin maßgebend; die §§ 2 bis 10 gelten in
 diesem Fall nicht.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13
 
@@ -171,10 +150,7 @@ Familienrechtsänderungsgesetzes vom 11. August 1961 (Bundesgesetzbl. I
 S. 1221) weiterhin anzuwenden. Dies gilt auch in den Fällen des § 3
 Abs. 2.
 
-
 ### (XXXX) §§ 14 bis 22 (weggefallen)
-
-
 
 ### § 23
 
@@ -198,10 +174,7 @@ Familienbuch vermerkt, wenn das Kind, der Vater, deren Erben oder die
 Mutter dies beantragen; der Standesbeamte kann den Vermerk auch von
 Amts wegen eintragen.
 
-
 ### II. - Schlußvorschriften
-
-
 
 ### § 24 Übergangsvorschriften
 
@@ -224,10 +197,7 @@ Entscheidung auf Artikel 12 § 10 Absatz 2 Satz 1 in der Fassung vom
 des nichtehelichen Kindes nicht eingewandt werden, dass hierüber
 bereits rechtskräftig entschieden wurde.
 
-
 ### (XXXX) §§ 25 und 26 (weggefallen)
-
-
 
 ### § 27
 

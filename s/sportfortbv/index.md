@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1490
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -26,7 +25,6 @@ Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -86,7 +84,6 @@ Hierzu gehören insbesondere:
 Fortbildungsabschluss „Geprüfter Sportfachwirt“ oder „Geprüfte
 Sportfachwirtin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Wirtschaftsbezogene Qualifikationen“
@@ -136,7 +133,6 @@ zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -228,7 +224,6 @@ nicht überschreiten.
 (9) Die mündliche Prüfung nach Absatz 5 ist nur durchzuführen, wenn in
 den schriftlichen Prüfungsleistungen nach Absatz 4 mindestens
 ausreichende Leistungen erbracht wurden.
-
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
 
@@ -362,7 +357,6 @@ der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zu einer Note zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -527,7 +521,6 @@ und 510 Minuten nicht überschreiten. Die Punktebewertung für das
 Ergebnis der schriftlichen Prüfungsleistung ist aus den beiden
 schriftlichen Teilergebnissen gleichgewichtig zu bilden.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -537,7 +530,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -555,7 +547,6 @@ Anlage 1 und 2 auszustellen. Im Falle der Freistellung nach § 6 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -570,7 +561,6 @@ Leistungen mindestens ausreichend sind. Der Antrag kann sich auch
 darauf richten, bestandene Prüfungsleistungen einmal zu wiederholen.
 Werden bestandene Prüfungsleistungen erneut geprüft, gilt in diesem
 Fall das Ergebnis der letzten Prüfung.
-
 
 ## § 9 Ausbildereignung
 
@@ -599,7 +589,6 @@ auszustellen, aus dem hervorgeht, dass die berufs- und
 arbeitspädagogische Qualifikation nach § 30 Absatz 5 des
 Berufsbildungsgesetzes nachgewiesen wurde.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Sportfachwirt und zur
@@ -613,11 +602,9 @@ der Prüfungsteilnehmerin die Wiederholungsprüfung nach dieser
 Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
-
 
 ## Anlage 1 (zu § 7 Absatz 3) Muster
 
@@ -678,9 +665,6 @@ bestanden.
 *    *
 
 *    *   (Siegel der zuständigen Stelle)
-
-
-
 
 ## Anlage 2 (zu § 7 Absatz 3) Muster
 

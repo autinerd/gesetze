@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 6. 6.1994 I 1170
 
-
 ## § 1
 
 (1) In der Eisen- und Stahlindustrie dürfen Arbeitnehmer an Sonn- und
@@ -96,7 +95,6 @@ zugehörigen Hilfsverrichtungen gestattet. Dies gilt nicht, sofern die
 Arbeiten oder Hilfsverrichtungen auf einen Werktag verlegt werden
 können.
 
-
 ## § 2
 
 Die Beschäftigung nach § 1 Abs. 1 Nr. 2 bis 7 ist nur gestattet, wenn
@@ -106,12 +104,10 @@ bis 14 Uhr oder in der Zeit von 14 bis 22 Uhr nicht vorgenommen
 werden, in den Fällen des § 1 Abs. 1 Nr. 7 während der Zeit, während
 der eine Beschäftigung nach dieser Verordnung nicht gestattet ist.
 
-
 ## § 3
 
 Arbeitnehmer dürfen nach § 1 nur unter den in den §§ 4 bis 8
 vorgesehenen Bedingungen beschäftigt werden.
-
 
 ## § 4
 
@@ -154,7 +150,6 @@ für mindestens die Hälfte dieser Arbeitnehmer mindestens 40 Stunden
 betragen und in der Zeit von 6 Uhr des den Feiertagen vorangehenden
 Tages bis 6 Uhr des auf die Feiertage folgenden Tages liegen.
 
-
 ## § 5
 
 (1) Die Arbeitszeit an einem Sonn- oder Feiertag darf die Dauer von
@@ -170,11 +165,9 @@ umfaßt; § 4 Abs. 4 bleibt unberührt.
 ununterbrochene Ersatzruhezeit von mindestens 24 Stunden in derselben
 oder in der vorhergehenden Woche zu gewähren.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 
@@ -198,13 +191,11 @@ Ablauf von zwei Jahren nach der letzten Eintragung aufzubewahren. Die
 Landesregierungen können durch Rechtsverordnung eine einheitliche Form
 für das Verzeichnis vorschreiben.
 
-
 ## § 8
 
 Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser
 Verordnung an geeigneter Stelle im Betrieb zur Einsicht auszulegen
 oder auszuhängen.
-
 
 ## § 9
 

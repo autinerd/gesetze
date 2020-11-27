@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1086
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 3 des Gesetzes über das Kreditwesen in der
@@ -27,7 +25,6 @@ Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das
 Kreditwesen vom 19. Dezember 1997 (BGBl. I S. 3156) verordnet das
 Bundesaufsichtsamt für das Kreditwesen im Einvernehmen mit der
 Deutschen Bundesbank:
-
 
 ## § 1 Anwendungsbereich, Befugnisse des Bundesaufsichtsamtes
 
@@ -41,7 +38,6 @@ sind, einzureichen.
 kann, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist,
 gegenüber den Instituten Anordnungen über die Aufstellung und den
 Inhalt der Monatsausweise und der Zusatzangaben erlassen.
-
 
 ## § 2 Art und Umfang des Monatsausweises und der Zusatzangaben
 
@@ -66,16 +62,11 @@ anzugeben:
 
 4.  Aktien und andere nicht festverzinsliche Wertpapiere.
 
-
-
-
-
 ## § 3 Berichtszeitraum
 
 1             Berichtszeitraum ist der Kalendermonat.
 2             Auf Antrag des Instituts kann das Bundesaufsichtsamt den
 Berichtszeitraum auf ein Kalendervierteljahr verlängern.
-
 
 ## § 4 Einreichungsverfahren
 
@@ -111,23 +102,19 @@ einfacher Ausfertigung an das Bundesaufsichtsamt jeweils nach dem
 Stand am Ende des Berichtszeitraums bis zum 15. des Folgemonats
 einzureichen.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 Monatsausweis gemäß § 25 Abs. 1 Satz 1 KWG - Vermögensstatus -
 
 (Inhalt: nicht darstellbarer Monatsausweis,
 Fundstelle des Originaltextes: BGBl. I 1999, 1087 - 1088)
 
-
 ## Anlage 2 Monatsausweis gemäß § 25 Abs. 1 Satz 1 KWG - Gewinn- und Verlustrechnung -
 
 (Inhalt: nicht darstellbarer Monatsausweis,
 Fundstelle des Originaltextes: BGBl. I 1999, 1089 - 1090)
-
 
 ## Anlage 3 Zusatzangaben der Skontroführer zum Monatsausweis gemäß § 25 Abs. 1 Satz 1 KWG
 

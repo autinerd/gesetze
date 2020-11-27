@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 34
 
-
 ## I.
 
 Auf Grund des § 174 Absatz 3 des Bundesbeamtengesetzes übertrage ich
@@ -26,12 +25,10 @@ A 13g der Bundesbesoldungsordnung und entsprechende Beamtinnen und
 Beamte bis zur Anstellung betreffen, den Gerichten und Behörden des
 Geschäftsbereichs des Bundesministeriums der Justiz.
 
-
 ## II.
 
 Ich behalte mir vor, in Einzelfällen die Vertretung selbst zu
 übernehmen.
-
 
 ## III.
 
@@ -39,7 +36,6 @@ Diese Anordnung tritt am 1. Februar 2009 an die Stelle der Anordnung
 vom 8. Dezember 1971 (BGBl. I S. 2014). Für Klagen, die zu diesem
 Zeitpunkt bereits erhoben sind, regelt sich die Vertretung nach den
 bisherigen Vorschriften.
-
 
 ## Schlussformel
 

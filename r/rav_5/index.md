@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1998
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -44,12 +42,10 @@ BGBl. I S. 2261) verordnet der Bundesminister für Arbeit und
 Sozialordnung im Einvernehmen mit dem Bundesminister für Post und
 Telekommunikation und dem Bundesminister der Finanzen:
 
-
 ## § 1 Anpassung des aktuellen Rentenwertes (Ost)
 
 Der aktuelle Rentenwert (Ost) beträgt vom 1. Januar 1993 an 28,19
 Deutsche Mark.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -59,14 +55,12 @@ Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Januar
 1993 eingetreten sind, werden zum 1. Januar 1993 angepaßt. Der
 Anpassungsfaktor beträgt 1,0610.
 
-
 ## § 3 Pflegegeld
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
 Januar 1993 an für Arbeitsunfälle, für die § 1151 der
 Reichsversicherungsordnung anzuwenden ist, zwischen 318 Deutsche Mark
 und 1.273 Deutsche Mark monatlich.
-
 
 ## § 4 Erstattung an die Deutsche Bundespost
 
@@ -76,11 +70,9 @@ die Wahrnehmung der damit zusammenhängenden Aufgaben von den
 zuständigen Sozialleistungsträgern einmalig eine zusätzliche Vergütung
 in Höhe von 1,20 Deutsche Mark pro Zahlfall.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.
-
 
 ## Schlußformel
 

@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1325
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
 Zustimmung des Bundesrates das folgende Gesetz beschlossen:
-
 
 ## § 1
 
@@ -33,7 +30,6 @@ werden soll, von nicht mehr als 10.000 Einwohnern bewohnt ist.
 (2) Gebiete können zwischen Ländern nach Maßgabe dieses Gesetzes
 ausgetauscht werden, wenn keines der ausgetauschten Gebiete von mehr
 als 10.000 Einwohnern bewohnt ist.
-
 
 ## § 2
 
@@ -52,7 +48,6 @@ veröffentlichen und der Bundesregierung zur Bekanntmachung im
 Bundesgesetzblatt mitzuteilen; dabei ist der Zeitpunkt anzugeben, zu
 dem der Staatsvertrag in Kraft tritt.
 
-
 ## § 3
 
 (1) Wird ein Gesetzentwurf über eine Gebietsänderung nach § 1 im
@@ -64,7 +59,6 @@ der Anhörung in ihrer Äußerung nach Satz 1 mit.
 
 (2) Die beteiligten Länder sind verpflichtet, dem Bundesminister des
 Innern auf Anforderung die erforderlichen Unterlagen vorzulegen.
-
 
 ## § 4
 
@@ -80,7 +74,6 @@ Körperschaften des öffentlichen Rechts und für das Vermögen der im
 Bereich der Sozialversicherung tätigen Körperschaften des öffentlichen
 Rechts.
 
-
 ## § 5
 
 (1) Mit der Gebietsänderung erhalten, soweit das aufnehmende Land oder
@@ -93,7 +86,6 @@ Landeszugehörigkeit geändert ist, Wohnsitz, Wohnung oder Aufenthalt
 Voraussetzung ist, gilt hierfür auch der Wohnsitz, die Wohnung oder
 der Aufenthalt in dem abgebenden Land vor der Gebietsänderung als
 Wohnsitz, Wohnung oder Aufenthalt in dem aufnehmenden Land.
-
 
 ## § 6
 

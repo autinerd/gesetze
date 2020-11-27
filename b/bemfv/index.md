@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 Abs. 20 G v. 7.7.2005 I 1970
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 und des § 16 Abs. 1 Nr. 3 des Gesetzes über
@@ -27,13 +26,11 @@ Funkanlagen und Telekommunikationsendeinrichtungen vom 31. Januar 2001
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 die Bundesregierung:
 
-
 ## § 1 Zweck und Anwendungsbereich
 
 Diese Verordnung regelt das Nachweisverfahren zur Gewährleistung des
 Schutzes von Personen in den durch den Betrieb von ortsfesten
 Funkanlagen entstehenden elektromagnetischen Feldern.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -98,10 +95,6 @@ Im Sinne dieser Verordnung
     tatsächliche Kontrolle über die Gesamtheit der Funktionen einer
     Funkanlage hat.
 
-
-
-
-
 ## § 3 Grenzwerte
 
 Zur Begrenzung der elektromagnetischen Felder (EMF) von ortsfesten
@@ -133,7 +126,6 @@ Felder - 26. BImSchV - einzuhalten sind. DIN-Normen, auf die in dieser
 Verordnung verwiesen wird, sind bei der VDE-Verlag GmbH, Berlin und
 der Beuth-Verlag GmbH, Berlin und Köln erschienen und beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
-
 
 ## § 4 Standortbescheinigung
 
@@ -202,7 +194,6 @@ Standortbescheinigung eine Neubewertung von bereits am Standort
 installierten Funkanlagen voraus, ist der Antragsteller für den
 dadurch entstehenden Aufwand gebührenpflichtig.
 
-
 ## § 5 Erteilen einer Standortbescheinigung
 
 (1) Zur Erteilung der Standortbescheinigung ermittelt die
@@ -262,7 +253,6 @@ Telekommunikation, Post und Eisenbahnen die Funkanlage. Liegen die
 Voraussetzungen aufgrund messtechnischer Gegebenheiten zur Erteilung
 der Standortbescheinigung nach Absatz 2 oder 3 vor, erteilt sie diese.
 
-
 ## § 6 Standortmitbenutzung
 
 (1) Sind an dem vorgesehenen Standort einer ortsfesten Funkanlage
@@ -311,7 +301,6 @@ erhalten hierüber unter Angabe des Inhabers der Standortbescheinigung
 eine schriftliche Mitteilung der Bundesnetzagentur für Elektrizität,
 Gas, Telekommunikation, Post und Eisenbahnen.
 
-
 ## § 7 Widerruf und Erlöschen einer Standortbescheinigung
 
 (1) Eine Standortbescheinigung kann widerrufen werden, wenn die
@@ -324,7 +313,6 @@ gegeben sind.
 
 (3) Eine vorläufige Standortbescheinigung erlischt mit Erteilung einer
 Standortbescheinigung nach § 5 Abs. 2 oder 3.
-
 
 ## § 8 Ortsfeste Amateurfunkanlagen
 
@@ -368,10 +356,6 @@ abweichen, wenn er
 2.  dafür Sorge trägt, dass sich Träger von aktiven Körperhilfen während
     des Betriebes der Amateurfunkanlage nicht im Ergänzungsbereich
     aufhalten.
-
-
-
-
 
 ## § 9 Anzeige ortsfester Amateurfunkanlagen
 
@@ -426,7 +410,6 @@ weiterhin zutreffend sind. In den Fällen, in denen die Anzeige nicht
 mehr den tatsächlichen Gegebenheiten entspricht, ist vom Betreiber das
 Anzeigeverfahren erneut durchzuführen.
 
-
 ## § 10 Weiterer Schutz von Trägern aktiver Körperhilfen
 
 (1) Wer eine ortsfeste Funkanlage oder eine Amateurfunkanlage in einem
@@ -449,7 +432,6 @@ unterliegt, hat den Einwirkungsbereich für aktive Körperhilfen in
 einer zeichnerischen Darstellung anzugeben. § 9 Abs. 2 gilt
 entsprechend.
 
-
 ## § 11 Inbetriebnahme und Außerbetriebnahme einer Funkanlage
 
 (1) Die Inbetriebnahme und Außerbetriebnahme einer ortsfesten
@@ -465,7 +447,6 @@ Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen innerhalb von vier Wochen nach der In- oder
 Außerbetriebnahme anzuzeigen.
 
-
 ## § 12 Änderung der Funkanlage
 
 (1) Der Betreiber einer ortsfesten Amateurfunkanlage, die den
@@ -478,7 +459,6 @@ vorgenommen wurde, nicht mehr gegeben sind.
 § 4 unterfällt, hat der Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen Änderungen der Funkanlage
 hinsichtlich der gemeldeten Daten unverzüglich anzuzeigen.
-
 
 ## § 13 Überprüfung
 
@@ -504,7 +484,6 @@ Behörde Hinweise vor, dass die Anforderungen dieser Verordnung nicht
 eingehalten werden, ordnet sie eine Überprüfung der Anlage an. Absatz
 1 Satz 2 und 3 gilt entsprechend.
 
-
 ## § 14 Anordnungen der Regulierungsbehörde für Telekommunikation und Post
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
@@ -514,7 +493,6 @@ den Betrieb der ortsfesten Funkanlage beschränken oder untersagen.
 Anordnungen, die die Einhaltung des § 3 Satz 1 Nr. 1 und 2
 gewährleisten, sind im Einvernehmen mit der zuständigen
 Immissionsschutzbehörde zu treffen.
-
 
 ## § 15 Gebühren und Auslagen
 
@@ -539,7 +517,6 @@ Fällen
 
 erhoben.
 
-
 ## § 16 Übergangsbestimmungen
 
 § 4 gilt bis zum 31. Dezember 2003 nicht für ortsfeste Funkanlagen,
@@ -548,16 +525,13 @@ solche Anlage nach Inkrafttreten dieser Verordnung technisch verändert
 oder werden an ihrem Standort weitere ortsfeste Funkanlagen errichtet,
 findet § 4 Anwendung.
 
-
 ## § 17 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 15)
 

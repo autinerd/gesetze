@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1142
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 Absatz 6 des Gesetzes über die Deutsche Bundesbank,
@@ -27,14 +26,12 @@ vom 9. April 2009 (BGBl. I S. 813) verordnet der Vorstand der
 Deutschen Bundesbank im Einvernehmen mit dem Bundesministerium des
 Innern und dem Bundesministerium der Finanzen:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für die Beamtinnen und Beamten der Deutschen
 Bundesbank. Soweit in dieser Verordnung nichts anderes bestimmt ist,
 sind die Vorschriften der Bundeslaufbahnverordnung entsprechend
 anzuwenden.
-
 
 ## § 2 Gestaltung und Ämter der Laufbahnen
 
@@ -58,13 +55,11 @@ eingerichtet sind, und die den Ämtern zugeordneten Amtsbezeichnungen
 ergeben sich aus der Anlage 1 zu dieser Verordnung. § 9 Absatz 2 der
 Bundeslaufbahnverordnung bleibt unberührt.
 
-
 ## § 3 Einrichtung von Vorbereitungsdiensten
 
 Für die Laufbahnen des mittleren, gehobenen und höheren Bankdienstes
 werden Vorbereitungsdienste eingerichtet. § 10 Absatz 2 der
 Bundeslaufbahnverordnung bleibt unberührt.
-
 
 ## § 4 Vorbereitungsdienst für den gehobenen Bankdienst
 
@@ -73,12 +68,10 @@ Studiengang an der Fachhochschule der Deutschen Bundesbank
 durchgeführt. § 13 der Bundeslaufbahnverordnung bleibt im Übrigen
 unberührt.
 
-
 ## § 5 Befähigung für den höheren Bankdienst
 
 Die Befähigung für die Laufbahn des höheren Bankdienstes hat auch, wer
 die Befähigung zum Richteramt hat.
-
 
 ## § 6 Wechsel von Wissenschaftlerinnen und Wissenschaftlern
 
@@ -87,13 +80,11 @@ die Befähigung zum Richteramt hat.
 Nummer 5 die Besoldungsgruppe B 4 durch die Besoldungsgruppe B 5
 ersetzt wird.
 
-
 ## § 7 Dienstliche Beurteilung
 
 Die Beurteilungsrichtlinien der Deutschen Bundesbank erlässt der
 Vorstand der Deutschen Bundesbank. Die §§ 48 bis 50 der
 Bundeslaufbahnverordnung bleiben im Übrigen unberührt.
-
 
 ## § 8 Überleitung
 
@@ -116,7 +107,6 @@ einfachen nichttechnischen Verwaltungsdienstes.
 Bankbetriebsdienstes oder des Büro- und Betriebsdienstes befinden,
 besitzen die Befähigung für die Laufbahn des mittleren Bankdienstes.
 
-
 ## § 9 Geldbearbeitungsdienst
 
 Beamtinnen und Beamte mit der Befähigung für die Laufbahn des
@@ -130,7 +120,6 @@ Beamtinnen und Beamte, die sich in der berufspraktischen Einführung
 der neuen Laufbahn nicht bewährt haben, verbleiben in der Laufbahn des
 Geldbearbeitungsdienstes. Die Laufbahn des Geldbearbeitungsdienstes
 gilt insoweit weiterhin als eingerichtet.
-
 
 ## § 10 Übergangsvorschriften zum Beamtenverhältnis auf Probe
 
@@ -154,7 +143,6 @@ der Beamten der Deutschen Bundesbank bei der Anstellung in ein höheres
 Amt als das Eingangsamt § 25 der Bundeslaufbahnverordnung entsprechend
 anzuwenden ist.
 
-
 ## § 11 Übergangsvorschriften zum Aufstieg
 
 (1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein
@@ -174,7 +162,6 @@ Beamten der Deutschen Bundesbank weiter, mit der Maßgabe, dass Ämter
 der Besoldungsgruppe A 9, A 13 oder A 16 der Bundesbesoldungsordnung A
 ohne Befähigungserweiterung verliehen werden können.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -184,13 +171,11 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
 1980), die zuletzt durch den Beschluss vom 3. September 1998 (BAnz. S.
 16 640) geändert worden sind, außer Kraft.
 
-
 ## Anlage 1 (zu § 2 Abs 2) Laufbahnen, Ämter und Amtsbezeichnungen
 
 (Fundstelle: BGBl. I 2010, 1144)
 
 ## Laufbahnen, Ämter und Amtsbezeichnungen
-
 
 ## Einfacher nichttechnischer Verwaltungsdienst
 
@@ -229,9 +214,6 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
     *   Bundesbankoberamtsmeisterin/
         Bundesbankoberamtsmeister
 
-
-
-
 ## Mittlerer Dienst
 
 *    *   Zu den Laufbahnen
@@ -261,9 +243,6 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
 
     *   Bundesbankamtsinspektorin/
         Bundesbankamtsinspektor
-
-
-
 
 ## Gehobener Dienst
 
@@ -298,9 +277,6 @@ Bekanntmachung vom 28. Dezember 1979 (BAnz. Nr. 6 vom 10. Januar
 
     *   Bundesbankoberamtsrätin/
         Bundesbankoberamtsrat
-
-
-
 
 ## Höherer Dienst
 

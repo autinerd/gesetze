@@ -22,82 +22,55 @@ Zuletzt geändert durch
 Fünfter teil kapitel viii prüfungspflicht der wirtschaftsbetriebe der öffentlichen hand - bgbl 63-6 - aufgeh. durch
 :   § 119 Abs. 2 Nr. 5 BHO 63-1 v. 19.8.1969 I 1284 mWv 1.1.1970
 
-
 ## Vierter Teil - (weggefallen)
 
-
-
 ### Kapitel II - (weggefallen)
-
-
 
 ### § 1 (weggefallen)
 
 -
 
-
 #### I. - (weggefallen)
-
-
 
 #### (XXXX) §§ 2 bis 4 (weggefallen)
 
 -
 
-
 #### II. - (weggefallen)
-
-
 
 #### § 5 (weggefallen)
 
 -
 
-
 #### (XXXX) §§ 6 bis 8 (weggefallen)
 
 -
 
-
 #### III. - (weggefallen)
-
-
 
 #### (XXXX) §§ 9 bis 19 (weggefallen)
 
 -
 
-
 #### § 20 (weggefallen)
 
 -
 
-
 #### IV. - (weggefallen)
-
-
 
 #### (XXXX) §§ 21 und 22 (weggefallen)
 
 -
 
-
 #### § 23 (weggefallen)
 
 -
 
-
 ## Fünfter Teil - Handels- und Wirtschaftspolitik
-
-
 
 ### Kapitel I - Spar- und Girokassen, kommunale Kreditinstitute und Giroverbände sowie Girozentralen
 
-
-
 #### Art 1
-
-
 
 #### § 1
 
@@ -112,7 +85,6 @@ dabei von dem bestehenden Landesrecht abweichen.
 öffentlichen oder dem öffentlichen Verkehr dienenden Spar- und
 Girokassen.
 
-
 #### § 2
 
 (1) Die Spar- und Girokassen, die unselbständige Einrichtungen von
@@ -126,10 +98,7 @@ Verpflichtungen bestehen.
 
 (2)
 
-
 #### (XXXX) §§ 3 bis 6
-
-
 
 #### § 7
 
@@ -138,7 +107,6 @@ mehr als 1 vom Hundert der gesamten Einlagen der Spar- oder Girokasse
 gewährt werden. Diese Beschränkung gilt nicht, wenn die einem
 einzelnen Kreditnehmer gewährten Personalkredite insgesamt 20.000
 Deutsche Mark nicht übersteigen.
-
 
 #### § 8
 
@@ -151,15 +119,11 @@ Organisation und Geschäftsbetrieb der Girozentralen so zu regeln, wie
 es die Liquidität, insbesondere die Sicherheit der Liquiditätsreserven
 der Spar- und Girokassen, erfordert.
 
-
 #### § 9
 
 -
 
-
 #### Art 2
-
-
 
 #### § 1
 
@@ -211,11 +175,9 @@ Haftungszusage sind begründet und fällig im Sinne der Sätze 1 und 2 in
 dem gleichen Zeitpunkt wie die durch eine solche Haftung gesicherte
 Verbindlichkeit.
 
-
 #### § 2
 
 -
-
 
 #### Art 3
 
@@ -225,14 +187,9 @@ erforderlichen Rechtshandlungen werden von
 Reich,              Ländern und Gemeinden keine Steuern, Abgaben oder
 Gebühren erhoben.
 
-
 #### Art 4
 
-
-
 #### Art 5
-
-
 
 #### Art 6
 
@@ -241,7 +198,6 @@ Gebühren erhoben.
 (2) Die obersten Landesbehörden können in besonderen Fällen ...
 Ausnahmen von den Vorschriften dieser Verordnung zulassen.
 
-
 #### Art 7
 
 Die
@@ -249,14 +205,12 @@ Reichsregierung              ist ermächtigt, zur Durchführung dieses
 Kapitels Rechtsverordnungen und allgemeine Verwaltungsvorschriften zu
 erlassen.
 
-
 #### Art 8
 
 (1)
 
 (2) Im übrigen treten die Vorschriften dieses Kapitels am Tage der
 Verkündung in Kraft.
-
 
 #### Art 9
 

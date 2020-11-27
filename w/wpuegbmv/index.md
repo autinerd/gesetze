@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2266
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des
@@ -31,7 +29,6 @@ Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S.
 3), der zuletzt durch Artikel 1 der Verordnung vom 17. Juli 2006
 (BGBl. I S. 1699) geändert worden ist, verordnet die Bundesanstalt für
 Finanzdienstleistungsaufsicht:
-
 
 ## § 1 Mitteilung
 
@@ -68,7 +65,6 @@ Inland mitzuteilen.
 
 (3) Die Mitteilung hat schriftlich zu erfolgen.
 
-
 ## § 2 Veröffentlichung
 
 (1) Die Zielgesellschaft hat ihre Entscheidung nach § 1 Abs. 5 Satz 1
@@ -94,7 +90,6 @@ im Inland zu veröffentlichen.
 in deutscher Sprache vorzunehmen. Eine Veröffentlichung in anderer
 Weise darf nicht vor der Veröffentlichung nach Satz 1 vorgenommen
 werden.
-
 
 ## § 3 Inkrafttreten
 

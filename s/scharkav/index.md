@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 V v. 10.10.2012 I 2113
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3 bis 5, 7 und 13 des
@@ -27,7 +26,6 @@ geändert durch das Einführungsgesetz zum Gesetz über
 Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), wird
 im Einvernehmen mit dem Bundesminister für Jugend, Familie und
 Gesundheit mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -44,7 +42,6 @@ auch auf ihre Herkunft.
 sind, gewerbsmäßig anzieht oder vertreibt, ist verpflichtet, diese
 Pflanzen unter Angabe der Art sowie des Standorts der zuständigen
 Behörde zu melden, wenn sie eine solche Meldung anordnet.
-
 
 ## § 2
 
@@ -70,7 +67,6 @@ anordnet.
 
 (4) Die Absätze 1 bis 3 gelten nicht für Früchte.
 
-
 ## § 3
 
 Auf Grundstücken, die von der Scharkakrankheit befallen oder des
@@ -80,7 +76,6 @@ Scharkakrankheit anfällig sind, nicht angepflanzt oder aufgeschult
 werden, soweit die zuständige Behörde zur Bekämpfung der
 Scharkakrankheit das Anpflanzen oder Aufschulen für die Dauer von
 höchstens einem Jahr verbietet.
-
 
 ## § 4
 
@@ -98,10 +93,6 @@ Scharkakrankheit oder zur Verhütung ihrer Ausbreitung anordnet,
     Scharkakrankheit anfällig sind, während einer bestimmten Zeit nach der
     Veredlung an den Pflanzen zu belassen.
 
-
-
-
-
 ## § 5
 
 (1) Das Züchten und Halten des Erregers der Scharkakrankheit sowie das
@@ -113,7 +104,6 @@ Züchtungsvorhaben Ausnahmen von Absatz 1 genehmigen, soweit hierdurch
 die Bekämpfung der Scharkakrankheit nicht beeinträchtigt wird. Vor der
 Entscheidung ist das Julius Kühn-Institut, Bundesforschungsinstitut
 für Kulturpflanzen, zu hören.
-
 
 ## § 6
 
@@ -143,14 +133,9 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 5 Abs. 1 den Erreger der Scharkakrankheit züchtet oder hält
     oder mit ihm arbeitet.
 
-
-
-
-
 ## § 7
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

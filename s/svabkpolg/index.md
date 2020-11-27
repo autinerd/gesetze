@@ -20,17 +20,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 31 Abs. 2 Nr. 1 G v. 20.12.1988 I 2477
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -45,12 +42,10 @@ Erstversorgung nach Artikel 10 Abs. 1 des Abkommens. Die Erstattung
 und Umlage führt der Hauptverband der gewerblichen
 Berufsgenossenschaften e.V. durch.
 
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 4
 

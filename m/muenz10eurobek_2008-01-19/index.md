@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 46
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -55,11 +54,9 @@ einem Brief Carl Spitzwegs aus den 40er Jahren des 19. Jahrhunderts.
 
 Der Entwurf der Münze stammt von Herrn Hannes Dauer, Schönbrunn.c
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

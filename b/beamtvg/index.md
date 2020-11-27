@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 15.8.2012 I 1670
 
-
 ## Abschnitt I - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -35,7 +32,6 @@ entsprechend für die Versorgung der Richter des Bundes.
 
 (3) Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
 Religionsgesellschaften und ihre Verbände.
-
 
 ### § 1a Lebenspartnerschaft
 
@@ -66,10 +62,6 @@ Von den Vorschriften dieses Gesetzes gelten entsprechend:
 6.  Vorschriften, die sich auf die Witwe, den Witwer oder den
     hinterbliebenen Ehegatten beziehen, für den hinterbliebenen
     Lebenspartner.
-
-
-
-
 
 ### § 2 Arten der Versorgung
 
@@ -139,10 +131,7 @@ die zu diesem Zweck abgeschlossen werden.
 (3) Auf die gesetzlich zustehende Versorgung kann weder ganz noch
 teilweise verzichtet werden.
 
-
 ## Abschnitt II - Ruhegehalt, Unterhaltsbeitrag
-
-
 
 ### § 4 Entstehen und Berechnung des Ruhegehalts
 
@@ -171,7 +160,6 @@ Ablauf der Zeit, für die Dienstbezüge gewährt werden.
 
 (3) Das Ruhegehalt wird auf der Grundlage der ruhegehaltfähigen
 Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
-
 
 ### § 5 Ruhegehaltfähige Dienstbezüge
 
@@ -355,10 +343,6 @@ Die oberste Dienstbehörde kann Ausnahmen zulassen.
     überstaatlichen Einrichtung zurückgelegte Dienstzeit; Absatz 1 Satz 2
     Nr. 7 findet keine Anwendung.
 
-
-
-
-
 ### § 7 Erhöhung der ruhegehaltfähigen Dienstzeit
 
 Die ruhegehaltfähige Dienstzeit nach § 6 erhöht sich um die Zeit, die
@@ -387,7 +371,6 @@ Die ruhegehaltfähige Dienstzeit nach § 6 erhöht sich um die Zeit, die
 § 6 Abs. 1 Satz 2 Nr. 5 und 6 und Abs. 2 gilt entsprechend, für die
 Anwendung des Satzes 1 Nr. 1 außerdem § 6 Abs. 1 Satz 2 Nr. 7.
 
-
 ### § 8 Berufsmäßiger Wehrdienst und vergleichbare Zeiten
 
 (1) Als ruhegehaltfähig gilt die Dienstzeit, in der ein Beamter nach
@@ -398,7 +381,6 @@ Vollzugsdienst der Polizei gestanden hat.
 
 (2) § 6 Abs. 1 Satz 2 Nr. 5 bis 7, Satz 3 und Abs. 2 gilt
 entsprechend.
-
 
 ### § 9 Nichtberufsmäßiger Wehrdienst und vergleichbare Zeiten
 
@@ -426,7 +408,6 @@ Beamtenverhältnis
 
 (2) § 6 Abs. 1 Satz 2 Nr. 2, 5 bis 7 und Abs. 2 gilt entsprechend.
 
-
 ### § 10 Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst
 
 Als ruhegehaltfähig sollen auch folgende Zeiten berücksichtigt werden,
@@ -453,7 +434,6 @@ hoheitsrechtlicher Aufgaben geschaffen worden sind. Zeiten mit einer
 geringeren als der regelmäßigen Arbeitszeit dürfen nur zu dem Teil als
 ruhegehaltfähig berücksichtigt werden, der dem Verhältnis der
 tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
-
 
 ### § 11 Sonstige Zeiten
 
@@ -505,7 +485,6 @@ Lebensjahres vor der Berufung in das Beamtenverhältnis
 kann als ruhegehaltfähige Dienstzeit berücksichtigt werden, die Zeit
 nach Nummer 1 Buchstabe a und Nr. 3 jedoch höchstens bis zur Hälfte
 und in der Regel nicht über zehn Jahre hinaus.
-
 
 ### § 12 Ausbildungszeiten
 
@@ -569,12 +548,10 @@ mindestens vorgeschrieben werden müssen.
 
 (5) (weggefallen)
 
-
 ### § 12a Nicht zu berücksichtigende Zeiten
 
 Zeiten nach § 30 des Bundesbesoldungsgesetzes sind nicht
 ruhegehaltfähig.
-
 
 ### § 12b Zeiten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
@@ -594,7 +571,6 @@ solche im Sinne des Artikels 2 des Renten-Überleitungsgesetzes.
 Rentenversicherung nicht erfüllt ist, können die in Absatz 1 genannten
 Zeiten im Rahmen der dort genannten Vorschriften insgesamt höchstens
 bis zu fünf Jahren als ruhegehaltfähig berücksichtigt werden.
-
 
 ### § 13 Zurechnungszeit und Zeit gesundheitsschädigender Verwendung
 
@@ -628,7 +604,6 @@ Tage und insgesamt mindestens 180 Tage gedauert haben.
 (3) Sind sowohl die Voraussetzungen des Absatzes 1 als auch die
 Voraussetzungen des Absatzes 2 erfüllt, findet nur die für den Beamten
 günstigere Vorschrift Anwendung.
-
 
 ### § 14 Höhe des Ruhegehalts
 
@@ -723,7 +698,6 @@ hat. Das erhöhte Ruhegehalt darf die Dienstbezüge, die dem Beamten in
 diesem Zeitpunkt zustanden, nicht übersteigen; das nach sonstigen
 Vorschriften ermittelte Ruhegehalt darf nicht unterschritten werden.
 
-
 ### § 14a Vorübergehende Erhöhung des Ruhegehaltssatzes
 
 (1) Der nach § 14 Abs. 1, § 36 Abs. 3 Satz 1, § 66 Abs. 2 und § 85
@@ -802,7 +776,6 @@ Ruhestandseintritts gestellt. Wird der Antrag zu einem späteren
 Zeitpunkt gestellt, so tritt die Erhöhung vom Beginn des Antragsmonats
 an ein.
 
-
 ### § 15 Unterhaltsbeitrag für entlassene Beamte auf Lebenszeit und auf Probe
 
 (1) Einem Beamten auf Lebenszeit, der vor Ableistung einer Dienstzeit
@@ -814,7 +787,6 @@ zur Höhe des Ruhegehalts bewilligt werden.
 (2) Das Gleiche gilt für einen Beamten auf Probe, der wegen
 Dienstunfähigkeit oder wegen Erreichens der Altersgrenze entlassen ist
 (§ 34 Abs. 1 Nr. 3, Abs. 4 des Bundesbeamtengesetzes).
-
 
 ### § 15a Beamte auf Probe und auf Zeit in leitender Funktion
 
@@ -845,10 +817,7 @@ Amt mindestens fünf Jahre übertragen war.
 Dienstunfähigkeit in den Ruhestand versetzt, gilt Absatz 4
 entsprechend.
 
-
 ## Abschnitt III - Hinterbliebenenversorgung
-
-
 
 ### § 16 Allgemeines
 
@@ -874,10 +843,6 @@ Die Hinterbliebenenversorgung (§§ 17 bis 28) umfasst
 
 7.  Witwerversorgung.
 
-
-
-
-
 ### § 17 Bezüge für den Sterbemonat
 
 (1) Den Erben eines verstorbenen Beamten, Ruhestandsbeamten oder
@@ -888,7 +853,6 @@ Aufwandsentschädigung.
 (2) Die an den Verstorbenen noch nicht gezahlten Teile der Bezüge für
 den Sterbemonat können statt an die Erben auch an die in § 18 Abs. 1
 bezeichneten Hinterbliebenen gezahlt werden.
-
 
 ### § 18 Sterbegeld
 
@@ -936,7 +900,6 @@ den Absätzen 1 und 2 maßgebend; bei Vorliegen eines wichtigen Grundes
 kann von dieser Reihenfolge abgewichen oder das Sterbegeld aufgeteilt
 werden.
 
-
 ### § 19 Witwengeld
 
 (1) Die Witwe eines Beamten auf Lebenszeit, der die Voraussetzungen
@@ -962,7 +925,6 @@ den Folgen einer Dienstbeschädigung (§ 49 Abs. 1 des
 Bundesbeamtengesetzes) verstorben ist oder dem die Entscheidung nach §
 49 Abs. 2 des Bundesbeamtengesetzes zugestellt war.
 
-
 ### § 20 Höhe des Witwengeldes
 
 (1) Das Witwengeld beträgt 55 vom Hundert des Ruhegehalts, das der
@@ -987,7 +949,6 @@ Verbindung mit § 14 Abs. 4) zurückbleiben.
 (3) Von dem nach Absatz 2 gekürzten Witwengeld ist auch bei der
 Anwendung des § 25 auszugehen.
 
-
 ### § 21 Witwenabfindung
 
 (1) Eine Witwe, die Anspruch auf Witwengeld oder auf einen
@@ -1006,7 +967,6 @@ Die Abfindung ist in einer Summe zu zahlen.
 Zeit berechnet ist, die nach dem Wiederaufleben des Anspruchs auf
 Witwengeld oder Unterhaltsbeitrag liegt, in angemessenen monatlichen
 Teilbeträgen einzubehalten.
-
 
 ### § 22 Unterhaltsbeitrag für nicht witwengeldberechtigte Witwen und frühere Ehefrauen
 
@@ -1051,7 +1011,6 @@ darf fünf Sechstel des entsprechend § 57 gekürzten Witwengeldes nicht
 verstorbenen Beamten oder Ruhestandsbeamten, deren Ehe mit diesem
 aufgehoben oder für nichtig erklärt war.
 
-
 ### § 23 Waisengeld
 
 (1) Die Kinder eines verstorbenen Beamten auf Lebenszeit, eines
@@ -1068,7 +1027,6 @@ Kind begründet wurde und der Ruhestandsbeamte in diesem Zeitpunkt
 bereits im Ruhestand war und die Regelaltersgrenze nach § 51 Abs. 1
 und 2 des Bundesbeamtengesetzes erreicht hatte. Es kann ihnen jedoch
 ein Unterhaltsbeitrag bis zur Höhe des Waisengeldes bewilligt werden.
-
 
 ### § 24 Höhe des Waisengeldes
 
@@ -1089,7 +1047,6 @@ Halbwaisen nicht übersteigen.
 (3) Ergeben sich für eine Waise Waisengeldansprüche aus
 Beamtenverhältnissen mehrerer Personen, wird nur das höchste
 Waisengeld gezahlt.
-
 
 ### § 25 Zusammentreffen von Witwengeld, Waisengeld und Unterhaltsbeiträgen
 
@@ -1114,7 +1071,6 @@ dürfen nur insoweit bewilligt werden, als sie allein oder zusammen mit
 gesetzlichen Hinterbliebenenbezügen die in Absatz 1 Satz 1 bezeichnete
 Höchstgrenze nicht übersteigen.
 
-
 ### § 26 Unterhaltsbeitrag für Hinterbliebene von Beamten auf Lebenszeit und auf Probe
 
 (1) Der Witwe, der geschiedenen Ehefrau (§ 22 Abs. 2, 3) und den
@@ -1124,7 +1080,6 @@ worden ist oder hätte bewilligt werden können, kann die in den §§ 19,
 Höhe als Unterhaltsbeitrag bewilligt werden.
 
 (2) § 21 gilt entsprechend.
-
 
 ### § 27 Beginn der Zahlungen
 
@@ -1141,7 +1096,6 @@ Sterbemonats.
 (3) Die Absätze 1 und 2 gelten entsprechend für die Zahlung eines
 Unterhaltsbeitrages nach § 26.
 
-
 ### § 28 Witwerversorgung
 
 Die §§ 19 bis 27 gelten entsprechend für den Witwer oder den
@@ -1150,10 +1104,7 @@ Ruhestandsbeamtin. An die Stelle des Witwengeldes im Sinne der
 Vorschriften dieses Gesetzes tritt das Witwergeld, an die Stelle der
 Witwe der Witwer.
 
-
 ## Abschnitt IV - Bezüge bei Verschollenheit
-
-
 
 ### § 29 Zahlung der Bezüge
 
@@ -1186,10 +1137,7 @@ dem Ersten des auf die Rechtskraft der gerichtlichen Entscheidung oder
 die Ausstellung der Sterbeurkunde folgenden Monats ab unter
 Berücksichtigung des festgestellten Todeszeitpunktes neu festzusetzen.
 
-
 ## Abschnitt V - Unfallfürsorge
-
-
 
 ### § 30 Allgemeines
 
@@ -1232,7 +1180,6 @@ Im Fall von Absatz 1 Satz 2 und 3 erhält das Kind der Beamtin
 Leistungen nach den Nummern 2 und 3 sowie nach § 38a.
 
 (3) Im Übrigen gelten die allgemeinen Vorschriften.
-
 
 ### § 31 Dienstunfall
 
@@ -1302,7 +1249,6 @@ Körperschaden erleidet.
 
 (6) (weggefallen)
 
-
 ### § 31a Einsatzversorgung
 
 (1) Unfallfürsorge wie bei einem Dienstunfall wird auch dann gewährt,
@@ -1339,7 +1285,6 @@ Gründe für eine Verschleppung, Gefangenschaft oder sonstige
 Einflussbereichsentziehung herbeigeführt hat, es sei denn, dass der
 Ausschluss für ihn eine unbillige Härte wäre.
 
-
 ### § 32 Erstattung von Sachschäden und besonderen Aufwendungen
 
 Sind bei einem Dienstunfall Kleidungsstücke oder sonstige Gegenstände,
@@ -1349,7 +1294,6 @@ auf Gewährung von Sachschadenersatz nach Satz 1 sind innerhalb einer
 Ausschlussfrist von drei Monaten zu stellen. Sind durch die erste
 Hilfeleistung nach dem Unfall besondere Kosten entstanden, so ist dem
 Beamten der nachweisbar notwendige Aufwand zu ersetzen.
-
 
 ### § 33 Heilverfahren
 
@@ -1392,7 +1336,6 @@ Bestattung in angemessener Höhe erstattet werden.
 (5) Die Durchführung regelt die Bundesregierung durch
 Rechtsverordnung.
 
-
 ### § 34 Pflegekosten und Hilflosigkeitszuschlag
 
 (1) Ist der Verletzte infolge des Dienstunfalles so hilflos, dass er
@@ -1404,7 +1347,6 @@ Die Dienstbehörde kann jedoch selbst für die Pflege Sorge tragen.
 die Dauer der Hilflosigkeit ein Zuschlag zu dem Unfallruhegehalt bis
 zum Erreichen der ruhegehaltfähigen Dienstbezüge zu gewähren; die
 Kostenerstattung nach Absatz 1 entfällt.
-
 
 ### § 35 Unfallausgleich
 
@@ -1437,7 +1379,6 @@ Dienstbehörde kann diese Befugnis auf andere Stellen übertragen.
 (4) Der Unfallausgleich wird auch während einer Beurlaubung ohne
 Dienstbezüge gewährt.
 
-
 ### § 36 Unfallruhegehalt
 
 (1) Ist der Beamte infolge des Dienstunfalles dienstunfähig geworden
@@ -1456,7 +1397,6 @@ Dienstbezüge nicht übersteigen. Es darf nicht hinter fünfundsiebzig
 vom Hundert der jeweils ruhegehaltfähigen Dienstbezüge aus der
 Endstufe der Besoldungsgruppe A 4 zurückbleiben; § 14 Abs. 4 Satz 3
 gilt entsprechend.
-
 
 ### § 37 Erhöhtes Unfallruhegehalt
 
@@ -1501,7 +1441,6 @@ in seiner Erwerbsfähigkeit um mindestens 50 vom Hundert beschränkt
 ist.
 
 (4) weggefallen
-
 
 ### § 38 Unterhaltsbeitrag für frühere Beamte und frühere Ruhestandsbeamte
 
@@ -1565,7 +1504,6 @@ Dienstunfall verletzten früheren Ruhestandsbeamten, der seine Rechte
 als Ruhestandsbeamter verloren hat oder dem das Ruhegehalt aberkannt
 worden ist.
 
-
 ### § 38a Unterhaltsbeitrag bei Schädigung eines ungeborenen Kindes
 
 (1) Der Unterhaltsbeitrag wird im Fall des § 30 Abs. 1 Satz 2 und 3
@@ -1600,7 +1538,6 @@ einer Heimpflege von mehr als einem Kalendermonat Pflegekosten gemäß §
 (5) Hat ein Unterhaltsbeitragsberechtigter Anspruch auf Waisengeld
 nach diesem Gesetz, wird nur der höhere Versorgungsbezug gezahlt.
 
-
 ### § 39 Unfall-Hinterbliebenenversorgung
 
 (1) Ist ein Beamter, der Unfallruhegehalt erhalten hätte, oder ein
@@ -1626,7 +1563,6 @@ den Folgen des Dienstunfalles verstorben, so steht den Hinterbliebenen
 nur Versorgung nach Abschnitt III (§§ 16 bis 28) zu; diese Bezüge sind
 aber unter Zugrundelegung des Unfallruhegehalts zu berechnen.
 
-
 ### § 40 Unterhaltsbeitrag für Verwandte der aufsteigenden Linie
 
 Verwandten der aufsteigenden Linie, deren Unterhalt zur Zeit des
@@ -1638,7 +1574,6 @@ des in § 36 Abs. 3 Satz 3 genannten Betrages. Sind mehrere Personen
 dieser Art vorhanden, so wird der Unterhaltsbeitrag den Eltern vor den
 Großeltern gewährt; an die Stelle eines verstorbenen Elternteiles
 treten dessen Eltern.
-
 
 ### § 41 Unterhaltsbeitrag für Hinterbliebene
 
@@ -1662,7 +1597,6 @@ Hinterbliebenenversorgung nach § 39 zusteht.
 
 (4) § 21 gilt entsprechend.
 
-
 ### § 42 Höchstgrenzen der Hinterbliebenenversorgung
 
 Die Unfallversorgung der Hinterbliebenen (§§ 39 bis 41) darf insgesamt
@@ -1677,7 +1611,6 @@ bei Hilflosigkeit (§ 34 Abs. 2) oder bei Arbeitslosigkeit (§ 38 Abs. 3
 Satz 1) bleiben sowohl bei der Berechnung des Unterhaltsbeitrages nach
 § 41 als auch bei der vergleichenden Berechnung nach § 25 außer
 Betracht.
-
 
 ### § 43 Einmalige Unfallentschädigung und einmalige Entschädigung
 
@@ -1766,7 +1699,6 @@ Ursache Anspruch sowohl auf eine einmalige Unfallentschädigung nach
 den Absätzen 1 bis 3 als auch auf eine einmalige Entschädigung nach
 Absatz 5 oder 6, wird nur die einmalige Entschädigung gewährt.
 
-
 ### § 43a Schadensausgleich in besonderen Fällen
 
 (1) Schäden, die einem Beamten oder anderen Angehörigen des
@@ -1826,7 +1758,6 @@ ist.
 (6) Für den Schadensausgleich gelten § 31 Abs. 5 und § 31a Abs. 4
 entsprechend.
 
-
 ### § 44 Nichtgewährung von Unfallfürsorge
 
 (1) Unfallfürsorge wird nicht gewährt, wenn der Verletzte den
@@ -1841,7 +1772,6 @@ ist auf diese Folgen schriftlich hinzuweisen.
 
 (3) Hinterbliebenenversorgung nach den Unfallfürsorgevorschriften wird
 im Falle des § 22 Abs. 1 nicht gewährt.
-
 
 ### § 45 Meldung und Untersuchungsverfahren
 
@@ -1883,7 +1813,6 @@ Geburt zu laufen beginnt. Der Antrag muss, nachdem mit der Möglichkeit
 einer Schädigung durch einen Dienstunfall der Mutter während der
 Schwangerschaft gerechnet werden konnte oder das Hindernis für den
 Antrag weggefallen ist, innerhalb von drei Monaten gestellt werden.
-
 
 ### § 46 Begrenzung der Unfallfürsorgeansprüche
 
@@ -1927,15 +1856,11 @@ Leistungen privater Schadensversicherungen, die auf Beiträgen der
 Beamten oder anderen Angehörigen des öffentlichen Dienstes beruhen;
 dies gilt nicht in den Fällen des § 32.
 
-
 ### § 46a (weggefallen)
 
 -
 
-
 ## Abschnitt VI - Übergangsgeld, Ausgleich
-
-
 
 ### § 47 Übergangsgeld
 
@@ -1991,7 +1916,6 @@ Hinterbliebenen in einer Summe zu zahlen.
 im Sinne des § 53 Abs. 7, verringert sich das Übergangsgeld um den
 Betrag dieser Einkünfte.
 
-
 ### § 47a Übergangsgeld für entlassene politische Beamte
 
 (1) Ein Beamter, der aus einem Amt im Sinne des § 54 des
@@ -2013,7 +1937,6 @@ im Sinne des § 53 Abs. 7, so verringern sich die in entsprechender
 Anwendung des § 4 des Bundesbesoldungsgesetzes fortgezahlten Bezüge
 und das Übergangsgeld um den Betrag dieser Einkünfte; § 63 Nr. 10
 findet keine Anwendung.
-
 
 ### § 48 Ausgleich bei besonderen Altersgrenzen
 
@@ -2042,10 +1965,7 @@ disziplinarrechtlichen Vorschriften bleiben unberührt.
 Eintritt in den Ruhestand nach § 95 Abs. 1 Nr. 2 des
 Bundesbeamtengesetzes nicht gewährt.
 
-
 ## Abschnitt VII - Gemeinsame Vorschriften
-
-
 
 ### § 49 Versorgungsauskunft und Zahlung der Versorgungsbezüge
 
@@ -2118,7 +2038,6 @@ Auskunft steht unter dem Vorbehalt künftiger Sach- und
 Rechtsänderungen sowie der Richtigkeit und Vollständigkeit der
 zugrunde liegenden Daten.
 
-
 ### § 50 Familienzuschlag und Ausgleichsbetrag
 
 (1) Auf den Familienzuschlag (§ 5 Abs. 1 Satz 1 Nr. 2) finden die für
@@ -2156,7 +2075,6 @@ Anwendung der §§ 53 und 54 nicht als Versorgungsbezug. Im Falle des §
 (4) (weggefallen)
 
 (5) (weggefallen)
-
 
 ### § 50a Kindererziehungszuschlag
 
@@ -2211,7 +2129,6 @@ dem 1. Januar 1992 geborenes Kind erzogen, gelten die Absätze 1 bis 7
 entsprechend mit der Maßgabe, dass die Kindererziehungszeit zwölf
 Kalendermonate nach Ablauf des Monats der Geburt endet. Die §§ 249 und
 249a des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
-
 
 ### § 50b Kindererziehungsergänzungszuschlag
 
@@ -2270,7 +2187,6 @@ nach den §§ 50a und 50b der in § 70 Abs. 2 Satz 1 des Sechsten Buches
 Sozialgesetzbuch bestimmte Bruchteil des aktuellen Rentenwerts tritt.
 § 50a Abs. 6 und 7 gilt entsprechend.
 
-
 ### § 50c Kinderzuschlag zum Witwengeld
 
 (1) Das Witwengeld nach § 20 Abs. 1 erhöht sich für jeden Monat einer
@@ -2299,7 +2215,6 @@ Buches Sozialgesetzbuch bestimmten Bruchteils des aktuellen
 Rentenwerts.
 
 (4) § 50a Abs. 7 Satz 1 gilt entsprechend.
-
 
 ### § 50d Pflege- und Kinderpflegeergänzungszuschlag
 
@@ -2333,7 +2248,6 @@ Höchstgrenze an die Stelle des in Satz 2 genannten Höchstwerts an
 Entgeltpunkten für jeden Monat berücksichtigungsfähiger
 Kinderpflegezeit der in § 70 Abs. 2 Satz 1 des Sechsten Buches
 Sozialgesetzbuch bestimmte Bruchteil des aktuellen Rentenwerts tritt.
-
 
 ### § 50e Vorübergehende Gewährung von Zuschlägen
 
@@ -2401,7 +2315,6 @@ werden, gelten als zum Zeitpunkt des Ruhestandseintritts gestellt.
 Wird der Antrag zu einem späteren Zeitpunkt gestellt, so wird die
 Leistung vom Beginn des Antragsmonats an gewährt.
 
-
 ### § 50f Abzug für Pflegeleistungen
 
 Die zu zahlenden Versorgungsbezüge vermindern sich um den hälftigen
@@ -2426,7 +2339,6 @@ Sozialgesetzbuch des zwölften Teils der jährlichen
 Beitragsbemessungsgrenze in der Pflegeversicherung (§ 55 Abs. 2 des
 Elften Buches Sozialgesetzbuch) errechnet, nicht übersteigen.
 
-
 ### § 51 Abtretung, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht
 
 (1) Ansprüche auf Versorgungsbezüge können, wenn gesetzlich nichts
@@ -2447,7 +2359,6 @@ noch abgetreten noch verpfändet werden. Forderungen des Dienstherrn
 gegen den Verstorbenen aus Vorschuss- oder Darlehnsgewährungen sowie
 aus Überzahlungen von Dienst- oder Versorgungsbezügen können auf das
 Sterbegeld angerechnet werden.
-
 
 ### § 52
 
@@ -2473,7 +2384,6 @@ für die Gesamtrückforderung.
 entsprechend.
 
 (5) (weggefallen)
-
 
 ### § 53 Zusammentreffen von Versorgungsbezügen mit Erwerbs- und Erwerbsersatzeinkommen
 
@@ -2580,11 +2490,9 @@ nach Absatz 8 ist, ruhen die Versorgungsbezüge um fünfzig vom Hundert
 des Betrages, um den sie und das Einkommen die Höchstgrenze
 übersteigen.
 
-
 ### § 53a (weggefallen)
 
 -
-
 
 ### § 54 Zusammentreffen mehrerer Versorgungsbezüge
 
@@ -2666,7 +2574,6 @@ Betrages in Höhe von zwanzig vom Hundert des neuen Versorgungsbezuges
 zurückbleiben.
 
 (5) § 53 Abs. 6 gilt entsprechend.
-
 
 ### § 55 Zusammentreffen von Versorgungsbezügen mit Renten
 
@@ -2820,7 +2727,6 @@ ausländischen Versicherungsträger nach einem für die Bundesrepublik
 Deutschland wirksamen zwischen- oder überstaatlichen Abkommen gewährt
 werden.
 
-
 ### § 56 Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung
 
 (1) Erhält ein Ruhestandsbeamter aus der Verwendung im öffentlichen
@@ -2907,7 +2813,6 @@ wenn die Unterschreitung der Mindestbelassung darauf beruht, dass
 ist von den nach Anwendung der §§ 53 bis 55 verbleibenden
 Versorgungsbezügen abzuziehen.
 
-
 ### § 57 Kürzung der Versorgungsbezüge nach der Ehescheidung
 
 (1) Sind durch Entscheidung des Familiengerichts
@@ -2969,7 +2874,6 @@ Ruhegehalts des verpflichteten Ehegatten für den Fall rückwirkender
 oder erst nachträglich bekannt werdender Rentengewährung an den
 berechtigten Ehegatten unter dem Vorbehalt der Rückforderung.
 
-
 ### § 58 Abwendung der Kürzung der Versorgungsbezüge
 
 (1) Die Kürzung der Versorgungsbezüge nach § 57 kann von dem Beamten
@@ -2998,7 +2902,6 @@ oder des Ruhegehalts des Ruhestandsbeamten nicht unterschreiten.
 Wertausgleichs und sind Zahlungen nach Absatz 1 erfolgt, sind im
 Umfang der Abänderung zu viel gezahlte Beiträge unter Anrechnung der
 nach § 57 anteilig errechneten Kürzungsbeträge zurückzuzahlen.
-
 
 ### § 59 Erlöschen der Versorgungsbezüge wegen Verurteilung
 
@@ -3038,7 +2941,6 @@ Grund einer Entscheidung des Bundesverfassungsgerichts gemäß Artikel
 (2) Die §§ 42 und 43 des Bundesbeamtengesetzes sind entsprechend
 anzuwenden.
 
-
 ### § 60 Erlöschen der Versorgungsbezüge bei Ablehnung einer erneuten Berufung
 
 Kommt ein Ruhestandsbeamter entgegen den Vorschriften des § 46 Abs. 1
@@ -3048,7 +2950,6 @@ eines solchen Verhaltens schriftlich hingewiesen worden ist, so
 verliert er für diese Zeit seine Versorgungsbezüge. Die oberste
 Dienstbehörde stellt den Verlust der Versorgungsbezüge fest. Eine
 disziplinarrechtliche Verfolgung wird dadurch nicht ausgeschlossen.
-
 
 ### § 61 Erlöschen der Witwen- und Waisenversorgung
 
@@ -3127,7 +3028,6 @@ Abfindung, Kapitalleistung oder Beitragserstattung gezahlt, ist der
 Betrag anzurechnen, der ansonsten zu zahlen wäre. Der Auflösung der
 Ehe steht die Nichtigerklärung gleich.
 
-
 ### § 62 Anzeigepflicht
 
 (1) Die Beschäftigungsstelle hat der die Versorgungsbezüge anweisenden
@@ -3180,7 +3080,6 @@ werden. Beim Vorliegen besonderer Verhältnisse kann die Versorgung
 ganz oder teilweise wieder zuerkannt werden. Die Entscheidung trifft
 die oberste Dienstbehörde oder die von ihr bestimmte Stelle.
 
-
 ### § 62a Mitteilungspflicht für den Versorgungsbericht
 
 Öffentliche Stellen im Sinne des § 2 Abs. 1 und 2 des
@@ -3201,7 +3100,6 @@ Soweit entsprechende Daten nicht vorliegen, können bei anderen als den
 in Satz 1 genannten Stellen, insbesondere solchen, die mit der
 ärztlichen Begutachtung beauftragt wurden, Angaben zu Gründen einer
 Versetzung in den Ruhestand erhoben werden.
-
 
 ### § 63 Anwendungsbereich
 
@@ -3253,10 +3151,7 @@ Für die Anwendung des Abschnitts VII gelten
 die Empfänger dieser Versorgungsbezüge gelten als Ruhestandsbeamte,
 Witwen oder Waisen.
 
-
 ## Abschnitt VIII - Sondervorschriften
-
-
 
 ### § 64 Entzug von Hinterbliebenenversorgung
 
@@ -3271,7 +3166,6 @@ Versorgungsberechtigte zu hören ist.
 
 (2) § 61 Abs. 1 Satz 1 Nr. 4 und Satz 2 bleibt unberührt.
 
-
 ### § 65 Nichtberücksichtigung der Versorgungsbezüge
 
 Werden Versorgungsberechtigte im öffentlichen Dienst (§ 53 Abs. 8)
@@ -3279,10 +3173,7 @@ verwendet, so sind ihre Bezüge aus dieser Beschäftigung ohne Rücksicht
 auf die Versorgungsbezüge zu bemessen. Das Gleiche gilt für eine auf
 Grund der Beschäftigung zu gewährende Versorgung.
 
-
 ## Abschnitt IX - Versorgung besonderer Beamtengruppen
-
-
 
 ### § 66 Beamte auf Zeit
 
@@ -3320,7 +3211,6 @@ Beamter auf Zeit gewählt werden.
 gelten die §§ 15 und 26 entsprechend.
 
 (6) bis (9) (weggefallen)
-
 
 ### § 67 Professoren an Hochschulen, Hochschuldozenten, Oberassistenten, Oberingenieure, Wissenschaftliche und Künstlerische Assistenten mit Bezügen nach § 77 Abs. 2 des Bundesbesoldungsgesetzes sowie Professoren und hauptberufliche Leiter und Mitglieder von Leitungsgremien an Hochschulen mit Bezügen nach der Bundesbesoldungsordnung W
 
@@ -3372,7 +3262,6 @@ Dienstzeit das Einfache, insgesamt höchstens das Sechsfache der
 Dienstbezüge (§ 1 Abs. 2 Nr. 1 bis 4 des Bundesbesoldungsgesetzes) des
 letzten Monats.
 
-
 ### § 68 Ehrenbeamte
 
 Erleidet der Ehrenbeamte einen Dienstunfall (§ 31), so hat er Anspruch
@@ -3383,10 +3272,7 @@ Versorgungsrecht zuständigen Ministerium oder der von ihm bestimmten
 Stelle, ein nach billigem Ermessen festzusetzender Unterhaltsbeitrag
 bewilligt werden. Das Gleiche gilt für seine Hinterbliebenen.
 
-
 ## Abschnitt X - Vorhandene Versorgungsempfänger
-
-
 
 ### § 69 Anwendung bisherigen und neuen Rechts für am 1. Januar 1977 vorhandene Versorgungsempfänger
 
@@ -3526,7 +3412,6 @@ der Anwendung von § 56 Abs. 1 Satz 1 in der bis zum 31. Dezember 1991
 geltenden Fassung gilt § 69e Abs. 4 für die Verminderung der
 Vomhundertsätze entsprechend.
 
-
 ### § 69a Anwendung bisherigen und neuen Rechts für am 1. Januar 1992 vorhandene Versorgungsempfänger
 
 Die Rechtsverhältnisse der am 1. Januar 1992 vorhandenen
@@ -3593,10 +3478,6 @@ Recht mit folgenden Maßgaben:
     geltenden Fassung gilt § 69e Abs. 4 für die Verringerung der
     Vomhundertsätze entsprechend.
 
-
-
-
-
 ### § 69b Übergangsregelungen für vor dem 1. Juli 1997 eingetretene Versorgungsfälle
 
 Für Versorgungsfälle, die vor dem 1. Juli 1997 eingetreten sind,
@@ -3617,7 +3498,6 @@ geltenden Fassung bezogen haben, erhalten diesen in Höhe des zu diesem
 Zeitpunkt zustehenden Betrages weiter. Künftige Hinterbliebene der in
 den Sätzen 3 und 5 genannten Versorgungsempfänger erhalten die
 jeweiligen Beträge entsprechend anteilig.
-
 
 ### § 69c Übergangsregelungen für vor dem 1. Januar 1999 eingetretene Versorgungsfälle und für am 1. Januar 1999 vorhandene Beamte
 
@@ -3670,7 +3550,6 @@ Zahl „2,5“ die Zahl „2,39167“ tritt. § 55 Abs. 1 Satz 8 und 9 gilt
 entsprechend.
 
 (6) und (7) (weggefallen)
-
 
 ### § 69d Übergangsregelungen für vor dem 1. Januar 2001 eingetretene Versorgungsfälle und für am 1. Januar 2001 vorhandene Beamte und Versorgungsempfänger
 
@@ -3778,7 +3657,6 @@ entsprechend.
 Absatz 2 des Neunten Buches Sozialgesetzbuch sind sowie nach § 52
 Absatz 1 und 2 des Bundesbeamtengesetzes in den Ruhestand versetzt
 werden, ist § 14 Absatz 3 nicht anzuwenden.
-
 
 ### § 69e Übergangsregelungen aus Anlass des Versorgungsänderungsgesetzes 2001 sowie des Dienstrechtsneuordnungsgesetzes
 
@@ -3931,7 +3809,6 @@ Entwicklung der Alterssicherungssysteme und der Situation in den
 öffentlich-rechtlichen Versorgungssystemen sowie der Entwicklung der
 allgemeinen wirtschaftlichen und finanziellen Verhältnisse zu prüfen.
 
-
 ### § 69f Übergangsregelungen zur Berücksichtigung von Hochschulausbildungszeiten
 
 (1) Auf Versorgungsfälle, die vor dem 12. Februar 2009 eingetreten
@@ -3945,7 +3822,6 @@ die danach höchstens anrechenbare Zeit einer Hochschulausbildung für
 jeden nach diesem Tag beginnenden Kalendermonat bis einschließlich des
 Kalendermonats, in dem der Versorgungsfall eintritt, um jeweils fünf
 Tage vermindert.
-
 
 ### § 69g Versorgungsüberleitungsregelungen aus Anlass des Dienstrechtsneuordnungsgesetzes
 
@@ -4036,7 +3912,6 @@ sowie nach Absatz 2 Nummer 2 in Verbindung mit Absatz 1 Nummer 2 um
     2 mit Ausnahme der Bezüge nach Absatz 1 Nummer 1 Buchstabe b und
     Nummer 2 sowie nach Absatz 2 Nummer 2 in Verbindung mit Absatz 1
     Nummer 2 um 2,44 vom Hundert erhöht.“
-
 
 ### § 69h Übergangsregelungen zur Anhebung des Ruhestandseintrittsalters
 
@@ -4402,10 +4277,6 @@ werden, ist § 14 Abs. 3 mit folgenden Maßgaben anzuwenden:
     werden, gilt § 14 Abs. 3 Satz 6 mit der Maßgabe, dass an die Stelle
     der Zahl „40“ die Zahl „35“ tritt. “
 
-
-
-
-
 ### § 69i Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
 
 Ist der Anspruch nach § 43 in der Zeit vom 1. Dezember 2002 bis zum
@@ -4454,10 +4325,7 @@ Ist der Anspruch nach § 43 in der Zeit vom 1. Dezember 2002 bis zum
 Aus gleichem Anlass bereits gewährte Leistungen nach § 43 sind
 anzurechnen.
 
-
 ## Abschnitt XI - Anpassung der Versorgungsbezüge
-
-
 
 ### § 70 Allgemeine Anpassung
 
@@ -4469,7 +4337,6 @@ Versorgungsbezüge durch Bundesgesetz entsprechend zu regeln.
 gelten auch die Neufassung der Grundgehaltstabelle mit
 unterschiedlicher Änderung der Grundgehaltssätze und die allgemeine
 Erhöhung oder Verminderung der Dienstbezüge um feste Beträge.
-
 
 ### § 71 Erhöhung der Versorgungsbezüge
 
@@ -4510,24 +4377,17 @@ ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung
 Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A
 und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.
 
-
 ### § 72 (weggefallen)
 
 -
-
 
 ### (XXXX) §§ 73 bis 76 (weggefallen)
 
 -
 
-
 ## Abschnitt XII - (weggefallen)
 
-
-
 ## Abschnitt XIII - Übergangsvorschriften neuen Rechts
-
-
 
 ### § 84 Ruhegehaltfähige Dienstzeit
 
@@ -4539,7 +4399,6 @@ ruhegehaltfähig berücksichtigt werden konnten und vor dem 1. Januar
 Dezember 1976 geltenden Rechts als ruhegehaltfähig berücksichtigt
 werden. Die Entscheidung trifft das für das Versorgungsrecht
 zuständige Ministerium oder die von ihm bestimmte Stelle.
-
 
 ### § 85 Ruhegehaltssatz für am 31. Dezember 1991 vorhandene Beamte
 
@@ -4679,7 +4538,6 @@ sowie die in Absatz 6 Satz 2 genannten Vomhundertsätze gilt § 69e Abs.
 
 (12) Die §§ 12a und 12b sind anzuwenden.
 
-
 ### § 85a Erneute Berufung in das Beamtenverhältnis
 
 Bei einem nach § 46 oder § 57 des Bundesbeamtengesetzes erneut in das
@@ -4692,7 +4550,6 @@ geltenden Recht berechnet. Bei der Anwendung des § 85 Abs. 1 und 3
 gilt die Zeit des Ruhestandes nicht als Unterbrechung des
 Beamtenverhältnisses; die Zeit im Ruhestand ist nicht ruhegehaltfähig.
 Das höhere Ruhegehalt wird gezahlt.
-
 
 ### § 86 Hinterbliebenenversorgung
 
@@ -4723,7 +4580,6 @@ zum 31. Juli 1989 rechtshängig geworden ist oder die Parteien bis zum
 Gesetzbuchs in der bis zum 31. August 2009 geltenden Fassung getroffen
 haben.
 
-
 ### § 87 Unfallfürsorge
 
 (1) Für die am 1. Januar 1977 vorhandenen Beamten steht ein vor diesem
@@ -4737,7 +4593,6 @@ der Länder weiter, soweit dieses Gesetz dem nicht entgegensteht.
 (3) Eine Entschädigung aus einer Unfallversicherung, für die der
 Dienstherr die Beiträge gezahlt hat, ist auf die Unfallentschädigung
 nach § 43 Abs. 3 anzurechnen.
-
 
 ### § 88 Abfindung
 
@@ -4768,11 +4623,9 @@ entsprechend, wenn eine Beamtin bei erneuter Berufung in das
 Beamtenverhältnis innerhalb der Ausschlussfrist nach Satz 3 auf eine
 zugesicherte aber noch nicht gezahlte Abfindungsrente verzichtet.
 
-
 ### § 89 (weggefallen)
 
 -
-
 
 ### § 90 Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung
 
@@ -4791,7 +4644,6 @@ zwischenstaatlichen oder überstaatlichen Einrichtung an Stelle einer
 Versorgung einen Kapitalbetrag als Abfindung oder Zahlung aus einem
 Versorgungsfonds erhalten, sind Absatz 1, § 56 Abs. 3 und § 69c Abs. 5
 anzuwenden.
-
 
 ### § 91 Hochschullehrer, Wissenschaftliche Assistenten und Lektoren
 
@@ -4857,14 +4709,9 @@ Hochschulrahmengesetzes nicht gestellt hat, regelt sich nach § 67
 dieses Gesetzes, wenn der Professor vor der Entpflichtung verstorben
 ist.
 
-
 ## Abschnitt XIV - (weggefallen)
 
-
-
 ## Abschnitt XV - Schlußvorschriften
-
-
 
 ### § 105 Außerkrafttreten
 
@@ -4895,10 +4742,6 @@ beim Inkrafttreten dieses Gesetzes geltenden Fassung:
     Landtag gewählten Beamten und Richter; solche Vorschriften können auch
     nach Inkrafttreten dieses Gesetzes noch erlassen werden.
 
-
-
-
-
 ### § 106 Verweisung auf aufgehobene Vorschriften
 
 Soweit in Gesetzen und Verordnungen auf Vorschriften oder
@@ -4906,13 +4749,11 @@ Bezeichnungen verwiesen wird, die durch dieses Gesetz außer Kraft
 treten oder aufgehoben werden, treten an ihre Stelle die
 entsprechenden Vorschriften oder die Bezeichnungen dieses Gesetzes.
 
-
 ### § 107 Ermächtigung zum Erlass von Rechtsverordnungen und Verwaltungsvorschriften
 
 Rechtsverordnungen nach diesem Gesetz bedürfen nicht der Zustimmung
 des Bundesrates. Die zur Durchführung dieses Gesetzes erforderlichen
 allgemeinen Verwaltungsvorschriften erlässt die Bundesregierung.
-
 
 ### § 107a Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
@@ -4923,7 +4764,6 @@ dem in Artikel 3 des Einigungsvertrages genannten Gebiet Rechnung
 tragen. Diese Verordnungsermächtigung erstreckt sich insbesondere auf
 Berechnungsgrundlagen, Höhe von Versorgungsleistungen und
 Ruhensregelungen abweichend von diesem Gesetz.
-
 
 ### § 107b Verteilung der Versorgungslasten
 
@@ -4982,7 +4822,6 @@ an Stelle des aufnehmenden Dienstherrn eine Versorgungskasse die
 Versorgungsbezüge aus, hat der aufnehmende Dienstherr den ihm nach
 Satz 2 erstatteten Betrag an die Versorgungskasse abzuführen.
 
-
 ### § 107c Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem Artikel 3 des Einigungsvertrages genannten Gebiet
 
 Erwirbt ein Ruhestandsbeamter oder Richter im Ruhestand eines
@@ -4999,7 +4838,6 @@ Ruhestandsbeamte oder Richter im Ruhestand im Zeitpunkt der Berufung
 in das neue öffentlich-rechtliche Dienstverhältnis das fünfzigste
 Lebensjahr vollendet hatte.
 
-
 ### § 108 Anwendungsbereich in den Ländern
 
 (1) Für die Beamten der Länder, der Gemeinden, der Gemeindeverbände
@@ -5013,11 +4851,9 @@ der Richter der Länder das Beamtenversorgungsgesetz in der bis zum 31.
 August 2006 geltenden Fassung entsprechend anzuwenden, soweit nichts
 anderes bestimmt ist.
 
-
 ### § 109
 
 (Inkrafttreten)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1142)
 

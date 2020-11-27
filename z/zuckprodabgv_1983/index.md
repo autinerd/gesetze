@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 V v. 17.12.2010 I 2295
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -36,15 +35,10 @@ und über die Erhebung von Abgaben für
 
 2.  die auf das folgende Wirtschaftsjahr übertragenen Zuckermengen.
 
-
-
-
-
 ## § 2 Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte sind die Hauptzollämter.
-
 
 ## § 3 Begriffsbestimmungen
 
@@ -99,10 +93,6 @@ Im Sinne dieser Verordnung sind:
     Verordnung (EG) Nr. 318/2006 des Rates hinsichtlich der
     Nichtquotenerzeugung im Zuckersektor genannt sind, verarbeiten.
 
-
-
-
-
 ## § 3a Anmeldung des Herstellungsbetriebes
 
 (1) Wer Zucker oder Isoglukose herstellen oder gewinnen will, hat dies
@@ -130,7 +120,6 @@ Hersteller hat auf Verlangen des Hauptzollamts weitere Angaben zu
 machen und Auszüge aus dem Handels- oder Genossenschaftsregister
 vorzulegen.
 
-
 ## § 3b Anzeige über Änderungen
 
 (1) Der Hersteller hat über jede Änderung der Betriebsverhältnisse,
@@ -144,10 +133,7 @@ beeinträchtigt werden.
 Besitzer hierüber dem Hauptzollamt innerhalb einer Woche eine Anzeige
 in zwei Stücken abzugeben.
 
-
 ## § 3c (weggefallen)
-
-
 
 ## § 3d Probenentnahme
 
@@ -156,7 +142,6 @@ Verlangen Proben von Erzeugnissen, die in dem Betrieb hergestellt
 worden sind, und von Zucker oder Isoglukose, die in den Betrieben
 eingebracht worden sind, zu Untersuchungszwecken unentgeltlich zu
 überlassen. Auf Verlangen ist eine Empfangsbescheinigung auszustellen.
-
 
 ## § 3e Bestandsaufnahme
 
@@ -189,7 +174,6 @@ vorhandenen Bestände an Industrierohstoff und daraus hergestellten
 Verarbeitungserzeugnissen aufzunehmen. Absatz 1 Satz 2 und 3 gilt
 entsprechend.
 
-
 ## § 3f Zulassung von Verarbeitungsbetrieben
 
 (1) Jeder Verarbeiter hat eine Zulassung für die industrielle
@@ -214,10 +198,6 @@ erteilt, wenn sich der Antragsteller in seinem Antrag verpflichtet:
 3.  dem zuständigen Hauptzollamt die erforderlichen Verwaltungs- und
     Warenkontrollen zu ermöglichen.
 
-
-
-
-
 ## § 3g Liefervertrag und Lieferschein
 
 Der Hersteller legt dem für ihn zuständigen Hauptzollamt vor der
@@ -230,7 +210,6 @@ Eichgesetzes in der Fassung der Bekanntmachung vom 23. März 1992
 2008 (BGBl. I S. 1185) geändert worden ist. Der Hersteller teilt dem
 für ihn zuständigen Hauptzollamt Art und Menge der monatlich
 gelieferten Industrierohstoffe bis zum 28. Tag des Folgemonats mit.
-
 
 ## § 4 Anzeigeverpflichtung
 
@@ -281,7 +260,6 @@ Angaben über
 für das vorangegangene Wirtschaftsjahr bis zum 31. Oktober
 mitzuteilen.
 
-
 ## § 5 Werkverträge über die Herstellung von Zucker
 
 (1) Soll im Rahmen eines Werkvertrages hergestellter Zucker der
@@ -313,7 +291,6 @@ Bekanntgabe der Bescheide gilt § 122 der Abgabenordnung sinngemäß. Mit
 der Verarbeitung darf nicht vor Bekanntgabe des Bescheides begonnen
 werden.
 
-
 ## § 6 Übertragung von Zucker auf das folgende Wirtschaftsjahr
 
 (1) Die Übertragung von Zucker auf das folgende Wirtschaftsjahr ist
@@ -332,7 +309,6 @@ Berichtigung der Übertragung zulassen, ist diese dem zuständigen
 Hauptzollamt bis zu dem auf die Vorlage der Anzeige nach Absatz 1
 folgenden 31. Juli schriftlich anzuzeigen.
 
-
 ## § 7 Muster, Vordrucke
 
 Für Anzeigen nach den §§ 4 und 6 kann der Bundesminister der Finanzen
@@ -340,7 +316,6 @@ Muster in der Vorschriftensammlung Bundesfinanzverwaltung bekannt
 geben oder Vordrucke bei den zuständigen Hauptzollämtern bereithalten.
 Soweit Muster bekannt gegeben oder Vordrucke bereitgehalten werden,
 sind diese zu verwenden.
-
 
 ## § 8 Amtliche Feststellung der Zucker- und Isoglukoseerzeugung
 
@@ -362,7 +337,6 @@ genannten Rechtsakte festgelegten Terminen
 Entscheidungen nach § 5 Abs. 2 berücksichtigt. Außerdem wird darin
 über die nach § 6 angezeigten Übertragungen und die Lagerzeiträume für
 die Übertragungsmengen entschieden.
-
 
 ## § 9 Festsetzung der Abgaben
 
@@ -392,15 +366,11 @@ werden.
 (4) Zahlungsaufschub für die nach Absatz 1 zu zahlenden Beträge wird
 nicht gewährt.
 
-
 ## § 10 (weggefallen)
 
 -
 
-
 ## § 11 (weggefallen)
-
-
 
 ## § 12 Aufsicht
 
@@ -410,7 +380,6 @@ des § 212 der Abgabenordnung erlassenen Rechtsvorschriften. Sind die
 Räume, in denen sich die Verwaltung befindet, von dem
 Herstellungsbetrieb örtlich getrennt, so unterliegen auch diese Räume
 der Aufsicht.
-
 
 ## § 13 Zuckerbuch, Anordnung weiterer Aufzeichnungen
 
@@ -449,7 +418,6 @@ Belege hat der Hersteller sieben Jahre lang aufzubewahren.
 (5) Soweit der Überwachungszweck es erfordert, kann das Hauptzollamt
 dem Hersteller ergänzende Pflichten auferlegen.
 
-
 ## § 13a Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung haben der Hersteller und der Verarbeiter
@@ -466,7 +434,6 @@ Aufzeichnungen sind die in Satz 1 genannten Auskunftspflichtigen
 verpflichtet, auf ihre Kosten die erforderlichen Ausdrucke zu
 erstellen, soweit die zuständigen Stellen dies verlangen.
 
-
 ## § 13b Übergangsregelung
 
 Die mit der Verordnung vom 17. Dezember 2010 (BGBl. I S. 2295)
@@ -475,7 +442,6 @@ sind auf Anträge, die vor dem 28. Dezember 2010 gestellt werden
 mussten und deren Abwicklung sowie auf vor dem 28. Dezember 2010
 entstandene Sachverhalte, in der am 27. Dezember 2010 geltenden
 Fassung weiter anzuwenden.
-
 
 ## § 14 (Inkrafttreten)
 

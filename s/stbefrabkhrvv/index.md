@@ -18,14 +18,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 182
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 7 des Kraftfahrzeugsteuergesetzes in der
 Fassung der Bekanntmachung vom 24. Mai 1994 (BGBl. I S. 1102)
 verordnet die Bundesregierung:
-
 
 ## Art 1
 
@@ -37,7 +34,6 @@ Steuern und Straßengebühren für Straßenfahrzeuge im internationalen
 Verkehr von der Kraftfahrzeugsteuer befreit. Das Abkommen wird
 nachstehend veröffentlicht.
 
-
 ## Art 2
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das Abkommen
@@ -48,7 +44,6 @@ Abkommen außer Kraft tritt.
 
 (3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind
 im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

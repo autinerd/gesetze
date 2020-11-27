@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3126
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Absatz 7 des Güterkraftverkehrsgesetzes vom 22.
@@ -24,14 +23,12 @@ des Gesetzes vom 22. November 2011 (BGBl. I S. 2272) eingefügt worden
 ist, verordnet das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung:
 
-
 ## § 1 Verkehrsunternehmensdatei
 
 Das Bundesamt für Güterverkehr (Bundesamt) betreibt die
 Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes in
 Form einer Datenbank. Die Datei ist nach Maßgabe des § 2 Absatz 3
 allgemein zugänglich.
-
 
 ## § 2 Zu speichernde Daten
 
@@ -145,10 +142,6 @@ umfasst
     1073/2009 sowie jeweils die zuständige Erteilungsbehörde und den
     Gültigkeitszeitraum.
 
-
-
-
-
 ## § 3 Datenübermittlung durch das Bundesamt
 
 (1) Auskünfte aus dem allgemein zugänglichen Teil der
@@ -174,7 +167,6 @@ organisatorische Maßnahmen nach § 9 des Bundesdatenschutzgesetzes
 gegen zweckfremde Nutzung und gegen sonstigen Missbrauch zu schützen
 und sechs Monate nach der Protokollierung nach Satz 3 zu löschen.
 
-
 ## § 4 Datenübermittlung an das Bundesamt
 
 (1) Die Erteilungsbehörden haben die Daten nach § 2 Absatz 1 dem
@@ -190,7 +182,6 @@ Registrierungsnummer zuzuordnen.
 die übermittelnde öffentliche Stelle, die für die Übermittlung
 verantwortliche Person und den Übermittlungszeitpunkt zu
 protokollieren.
-
 
 ## § 5 Auskunft an Behörden
 
@@ -216,7 +207,6 @@ Verkehrsleiters übermittelt:
 (2) Auskunftsersuchen und Auskünfte werden im Wege eines
 automatisierten Anfrage- und Auskunftsverfahrens übermittelt. § 3
 Absatz 3 gilt entsprechend.
-
 
 ## § 6 Verantwortung für den Inhalt der Verkehrsunternehmensdatei, Datenpflege
 
@@ -251,7 +241,6 @@ besteht (Datenpflege).
 (4) Bei einem Wechsel der Zuständigkeit gelten die Absätze 1 und 3 für
 die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist.
 
-
 ## § 7 Organisatorische und technische Leitlinien und Maßnahmen
 
 (1) Das Bundesamt bestimmt im Benehmen mit den obersten
@@ -273,11 +262,9 @@ Datenübermittlung nach § 3 Absatz 2, § 4 Absatz 1 und § 5 Absatz 2
 sind dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren anzuwenden.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

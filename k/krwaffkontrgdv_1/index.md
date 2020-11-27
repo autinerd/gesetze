@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 344 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 2 und 3 des Gesetzes über die Kontrolle von
@@ -27,7 +26,6 @@ der Bundesregierung
 und auf Grund des § 14 Abs. 8 dieses Gesetzes wird vom Bundesminister
 für Wirtschaft
 verordnet:
-
 
 ## § 1
 
@@ -59,14 +57,12 @@ Fällen des § 4 Abs. 1 des Gesetzes wird auf das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung übertragen. Es übt seine Befugnis im
 Einvernehmen mit dem Auswärtigen Amt aus.
 
-
 ## § 2
 
 Die dem Bundesministerium für Wirtschaft und Technologie nach § 14
 Abs. 1 Nr. 1 des Gesetzes zustehenden Überwachungsbefugnisse werden
 auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
 übertragen.
-
 
 ## § 3
 

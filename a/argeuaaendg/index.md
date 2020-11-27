@@ -17,23 +17,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 434
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen (Altschuldenregelungsgesetz - ARG)
 
 -
 
-
 ## (XXXX) Art 2 und 3
 
 -
-
 
 ## Art 4
 
@@ -49,7 +44,6 @@ Sachsen, Sachsen-Anhalt und Thüringen in Höhe von jeweils
 Zahlungen des Bundes auf die Länderanteile an der Einfuhrumsatzsteuer
 nach § 14 Abs. 2 des Finanzausgleichsgesetzes zwischen Bund und
 Ländern.
-
 
 ## Art 5
 

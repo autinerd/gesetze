@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 1 G v. 5.5.2004 I 718
 
-
 ## § 1 Einsetzung
 
 (1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner
@@ -28,7 +27,6 @@ Mitglieder die Pflicht, einen Untersuchungsausschuss einzusetzen.
 
 (3) Ein Untersuchungsverfahren ist zulässig im Rahmen der
 verfassungsmäßigen Zuständigkeit des Bundestages.
-
 
 ## § 2 Rechte der qualifizierten Minderheit bei der Einsetzung
 
@@ -48,14 +46,12 @@ nicht verfassungswidrig hält. Das Recht der Antragstellenden, wegen
 der teilweisen Ablehnung des Einsetzungsantrages das
 Bundesverfassungsgericht anzurufen, bleibt unberührt.
 
-
 ## § 3 Gegenstand der Untersuchung
 
 Der Untersuchungsausschuss ist an den ihm erteilten
 Untersuchungsauftrag gebunden. Eine nachträgliche Änderung des
 Untersuchungsauftrages bedarf eines Beschlusses des Bundestages; § 2
 Abs. 2 ist entsprechend anzuwenden.
-
 
 ## § 4 Zusammensetzung
 
@@ -70,12 +66,10 @@ Beschlüssen des Bundestages. Die Zahl der auf die Fraktionen
 entfallenden Sitze wird nach dem Verfahren der mathematischen
 Proportion (St. Lague/Schepers) berechnet.
 
-
 ## § 5 Mitglieder
 
 Die ordentlichen und stellvertretenden Mitglieder werden von den
 Fraktionen benannt und abberufen.
-
 
 ## § 6 Vorsitz
 
@@ -88,7 +82,6 @@ den Vereinbarungen im Ältestenrat.
 dabei an den Einsetzungsbeschluss des Bundestages und an die
 Beschlüsse des Untersuchungsausschusses gebunden.
 
-
 ## § 7 Stellvertretender Vorsitz
 
 (1) Der Untersuchungsausschuss bestimmt nach den Vereinbarungen im
@@ -98,7 +91,6 @@ angehören.
 
 (2) Der oder die stellvertretende Vorsitzende besitzt alle Rechte und
 Pflichten des oder der abwesenden Vorsitzenden.
-
 
 ## § 8 Einberufung
 
@@ -116,7 +108,6 @@ Vorsitzende nur berechtigt, wenn ein entsprechendes Verlangen eines
 Viertels der Mitglieder des Untersuchungsausschusses unter Angabe der
 Tagesordnung vorliegt und der Präsident oder die Präsidentin des
 Bundestages hierzu die Genehmigung erteilt hat.
-
 
 ## § 9 Beschlussfähigkeit
 
@@ -138,7 +129,6 @@ Untersuchungshandlungen durchführen.
 (4) Soweit in diesem Gesetz nichts anderes bestimmt ist, beschließt
 der Untersuchungsausschuss mit der Mehrheit der abgegebenen Stimmen.
 Bei Stimmengleichheit ist der Antrag abgelehnt.
-
 
 ## § 10 Ermittlungsbeauftragte
 
@@ -179,7 +169,6 @@ Sie können jederzeit mit einer Mehrheit von zwei Dritteln der
 anwesenden Mitglieder abberufen werden. Sie haben das Recht, für ihren
 Ermittlungsauftrag in angemessenem Umfang Hilfskräfte einzusetzen.
 
-
 ## § 11 Protokollierung
 
 (1) Über die Sitzungen des Untersuchungsausschusses wird ein Protokoll
@@ -192,7 +181,6 @@ werden.
 (3) Über die Art der Protokollierung der Beratungen entscheidet der
 Untersuchungsausschuss.
 
-
 ## § 12 Sitzungen zur Beratung
 
 (1) Die Beratungen und Beschlussfassungen des Untersuchungsausschusses
@@ -203,7 +191,6 @@ Mitarbeiterinnen der Fraktionen den Zutritt gestatten.
 
 (3) Über Art und Umfang von Mitteilungen an die Öffentlichkeit aus
 nicht öffentlichen Sitzungen entscheidet der Untersuchungsausschuss.
-
 
 ## § 13 Sitzungen zur Beweisaufnahme
 
@@ -217,7 +204,6 @@ anzuhörenden Personen.
 (2) Die §§ 176 bis 179 des Gerichtsverfassungsgesetzes über die
 Aufrechterhaltung der Ordnung in der Sitzung finden entsprechende
 Anwendung.
-
 
 ## § 14 Ausschluss der Öffentlichkeit
 
@@ -268,7 +254,6 @@ entscheidet der Untersuchungsausschuss. Der oder die Vorsitzende
 begründet auf Beschluss des Untersuchungsausschusses die Entscheidung
 in öffentlicher Sitzung.
 
-
 ## § 15 Geheimnisschutz
 
 (1) Beweismittel, Beweiserhebungen und Beratungen kann der
@@ -284,7 +269,6 @@ anzuwenden.
 Behandlung der Verschlusssachen sowie für streng geheime, geheime und
 vertrauliche Sitzungen und deren Protokollierung die
 Geheimschutzordnung des Bundestages.
-
 
 ## § 16 Zugang zu Verschlusssachen und Amtsverschwiegenheit
 
@@ -317,7 +301,6 @@ offenbaren, wenn es dazu von der berechtigten Person ermächtigt worden
 ist. Dies gilt nicht, wenn die Offenlegung des Geheimnisses gesetzlich
 geboten ist.
 
-
 ## § 17 Beweiserhebung
 
 (1) Der Untersuchungsausschuss erhebt die durch den
@@ -340,7 +323,6 @@ Abs. 1, § 28 Abs. 6 und § 29 Abs. 2 Satz 1 ab, so entscheidet auf
 Antrag eines Viertels der Mitglieder der Ermittlungsrichter oder die
 Ermittlungsrichterin des Bundesgerichtshofes über die Erhebung der
 Beweise oder über die Anordnung des Zwangsmittels.
-
 
 ## § 18 Vorlage von Beweismitteln
 
@@ -372,12 +354,10 @@ Streitigkeiten entscheidet auf Antrag des Untersuchungsausschusses
 oder eines Viertels seiner Mitglieder der Ermittlungsrichter oder die
 Ermittlungsrichterin des Bundesgerichtshofes.
 
-
 ## § 19 Augenschein
 
 Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster
 Halbsatz und Abs. 4 entsprechend.
-
 
 ## § 20 Ladung der Zeugen
 
@@ -388,7 +368,6 @@ zu erscheinen. § 50 der Strafprozessordnung findet keine Anwendung.
 über ihre Rechte zu belehren und auf die gesetzlichen Folgen des
 Ausbleibens sowie darauf hinzuweisen, dass sie einen rechtlichen
 Beistand ihres Vertrauens zu der Vernehmung hinzuziehen dürfen.
-
 
 ## § 21 Folgen des Ausbleibens von Zeugen
 
@@ -404,7 +383,6 @@ rechtzeitig genügend entschuldigen. Wird das Ausbleiben nachträglich
 genügend entschuldigt, so sind die nach Absatz 1 getroffenen
 Anordnungen aufzuheben, wenn die Zeugen glaubhaft machen, dass sie an
 der Verspätung kein Verschulden trifft.
-
 
 ## § 22 Zeugnis- und Auskunftsverweigerungsrecht
 
@@ -423,7 +401,6 @@ Beginn der ersten Vernehmung zur Sache zu belehren.
 (4) Die Tatsachen, auf die einzelne Zeugen die Verweigerung ihres
 Zeugnisses stützen, sind auf Verlangen glaubhaft zu machen.
 
-
 ## § 23 Vernehmung von Amtsträgern
 
 (1) § 54 der Strafprozessordnung ist anzuwenden.
@@ -431,7 +408,6 @@ Zeugnisses stützen, sind auf Verlangen glaubhaft zu machen.
 (2) Die Bundesregierung ist verpflichtet, die erforderlichen
 Aussagegenehmigungen zu erteilen; § 18 Abs. 1 bis 3 erster Halbsatz
 gilt entsprechend.
-
 
 ## § 24 Vernehmung der Zeugen
 
@@ -463,7 +439,6 @@ Untersuchungsausschuss nicht einstimmig Abweichendes beschließt.
 
 (6) § 136a der Strafprozessordnung ist entsprechend anzuwenden.
 
-
 ## § 25 Zulässigkeit von Fragen an Zeugen
 
 (1) Der oder die Vorsitzende hat ungeeignete oder nicht zur Sache
@@ -479,7 +454,6 @@ Frage, auf die bereits eine Antwort gegeben worden ist, darf im
 Bericht des Untersuchungsausschusses auf die Frage und die Antwort
 nicht Bezug genommen werden.
 
-
 ## § 26 Abschluss der Vernehmung
 
 (1) Den einzelnen Zeugen ist das Protokoll über ihre Vernehmung
@@ -494,7 +468,6 @@ verzichtet worden ist.
 (3) Zeugen sind von dem oder der Vorsitzenden des
 Untersuchungsausschusses am Ende ihrer Vernehmung darüber zu belehren,
 unter welchen Voraussetzungen diese gemäß Absatz 2 abgeschlossen ist.
-
 
 ## § 27 Grundlose Zeugnisverweigerung
 
@@ -512,7 +485,6 @@ Untersuchungsverfahrens, auch nicht über die Zeit von sechs Monaten
 hinaus.
 
 (3) § 70 Abs. 4 der Strafprozessordnung ist entsprechend anzuwenden.
-
 
 ## § 28 Sachverständige
 
@@ -547,7 +519,6 @@ Untersuchungsausschuss zugleich den Sachverständigen die durch ihre
 Säumnis oder Weigerung verursachten Kosten auferlegen. § 21 Abs. 2
 gilt entsprechend.
 
-
 ## § 29 Herausgabepflicht
 
 (1) Wer einen Gegenstand, der als Beweismittel für die Untersuchung
@@ -579,7 +550,6 @@ anordnen, wenn Tatsachen vorliegen, aus denen zu schließen ist, dass
 der gesuchte Gegenstand sich in den zu durchsuchenden Räumen befindet.
 Die §§ 104, 105 Abs. 2 und 3, §§ 106, 107 und 109 der
 Strafprozessordnung sind entsprechend anzuwenden.
-
 
 ## § 30 Verfahren bei der Vorlage von Beweismitteln
 
@@ -617,7 +587,6 @@ Ermittlungsrichterin des Bundesgerichtshofes auf Antrag des
 Untersuchungsausschusses oder eines Viertels seiner Mitglieder sie für
 zulässig erklärt.
 
-
 ## § 31 Verlesung von Protokollen und Schriftstücken
 
 (1) Die Protokolle über Untersuchungshandlungen von anderen
@@ -634,7 +603,6 @@ sind.
 Bekanntgabe ihres wesentlichen Inhalts in öffentlicher Sitzung findet
 nicht statt, wenn die Voraussetzungen des § 14 Abs. 1 vorliegen.
 
-
 ## § 32 Rechtliches Gehör
 
 (1) Personen, die durch die Veröffentlichung des Abschlussberichtes in
@@ -646,7 +614,6 @@ mit ihnen in einer Sitzung zur Beweisaufnahme erörtert worden sind.
 
 (2) Der wesentliche Inhalt der Stellungnahme ist in dem Bericht
 wiederzugeben.
-
 
 ## § 33 Berichterstattung
 
@@ -666,7 +633,6 @@ Untersuchungen vorzulegen.
 
 (4) Auf Beschluss des Bundestages hat der Untersuchungsausschuss dem
 Bundestag einen Zwischenbericht vorzulegen.
-
 
 ## § 34 Rechte des Verteidigungsausschusses als Untersuchungsausschuss
 
@@ -691,7 +657,6 @@ das Ergebnis seiner Untersuchung hat der Verteidigungsausschuss dem
 Bundestag einen Bericht zu erstatten; eine Aussprache darf sich nur
 auf den veröffentlichten Bericht beziehen.
 
-
 ## § 35 Kosten und Auslagen
 
 (1) Die Kosten des Untersuchungsverfahrens trägt der Bund.
@@ -706,7 +671,6 @@ Justizvergütungs- und -entschädigungsgesetzes.
 
 (3) Die Entschädigung, die Vergütung und die Erstattung der Auslagen
 setzt der Präsident oder die Präsidentin des Bundestages fest.
-
 
 ## § 36 Gerichtliche Zuständigkeiten
 

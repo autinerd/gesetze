@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2253
 
-
-
 ## Art 1
 
 (1) Dem in Dublin am 27. September 1996 von der Bundesrepublik
@@ -32,7 +30,6 @@ ausgeschlossen wird. Die Bundesregierung kann bei der Hinterlegung der
 Ratifikationsurkunde eine Erklärung nach Artikel 18 Abs. 4 des
 Übereinkommens abgeben.
 
-
 ## Art 2
 
 (1) Die Erklärung der ausgelieferten Person über den Verzicht auf die
@@ -45,7 +42,6 @@ der öffentlichen Klage ist das mit der Sache befaßte Gericht.
 (2) Die Erklärung kann nicht widerrufen werden. Die ausgelieferte
 Person ist vor der Abgabe der Erklärung über deren Rechtsfolgen zu
 belehren.
-
 
 ## Art 3
 

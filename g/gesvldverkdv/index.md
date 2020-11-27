@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 3193
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 2 Nr. 6, 7, 11, 13 und 14 des Gesetzes vom 1.
@@ -28,14 +26,12 @@ Gesetz zur Änderung des Einführungsgesetzes zum Strafgesetzbuch vom
 den Bundesministern für Verkehr und des Innern mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## § 1
 
 Für die Anwendung der nachstehend angeführten Artikel der
 Internationalen Gesundheitsvorschriften in der Fassung der
 Bekanntmachung vom 10. April 1975 (Bundesgesetzbl. II S. 456) auf den
 Landverkehr sind die Vorschriften dieser Verordnung maßgebend.
-
 
 ## § 2 (Zu den Artikeln 37, 39, 58 und 61 der Internationalen Gesundheitsvorschriften)
 
@@ -58,10 +54,6 @@ anzuordnen:
     Insekten zu befreien und erforderlichenfalls zu desinfizieren. In
     besonderen Fällen kann die zuständige Behörde hiervon Ausnahmen
     zulassen.
-
-
-
-
 
 ## § 3 (Zu den Artikeln 39 und 63 der Internationalen Gesundheitsvorschriften)
 
@@ -86,10 +78,6 @@ aufgetreten ist, sind folgende Maßnahmen anzuordnen:
     verseucht hält, zu desinfizieren und zu entfernen. Danach sind die
     Wasserbehälter zu desinfizieren.
 
-
-
-
-
 ## § 4 (Zu den Artikeln 39, 80 und 82 der Internationalen Gesundheitsvorschriften)
 
 Bei der Ankunft eines Eisenbahnzugs, Straßenfahrzeugs oder sonstigen
@@ -111,13 +99,6 @@ folgende Maßnahmen anzuordnen:
         und unter Beobachtung zu stellen oder, falls die Impfung verweigert
         wird, abzusondern. Die Dauer der Beobachtung oder Absonderung beträgt
         höchstens vierzehn Tage, vom Tag der Ankunft an gerechnet.
-
-
-
-
-
-
-
 
 ## § 5 (Zu Artikel 78 der Internationalen Gesundheitsvorschriften)
 
@@ -144,7 +125,6 @@ so bestimmt die Gesundheitsbehörde, welche der nach Artikel 78 der
 Internationalen Gesundheitsvorschriften zulässigen Maßnahmen
 durchzuführen sind.
 
-
 ## § 6
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -153,11 +133,9 @@ Satz 2 des Gesetzes zu den Internationalen Gesundheitsvorschriften,
 zuletzt geändert durch das Gesetz zur Änderung des Einführungsgesetzes
 zum Strafgesetzbuch vom 15. August 1974, auch im Land Berlin.
 
-
 ## § 7
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

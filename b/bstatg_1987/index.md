@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 7.9.2007 I 2246
 
-
 ## § 1 Statistik für Bundeszwecke
 
 Die Statistik für Bundeszwecke (Bundesstatistik) hat im föderativ
@@ -38,7 +37,6 @@ Einzelangaben dienen ausschließlich den durch dieses Gesetz oder eine
 andere eine Bundesstatistik anordnende Rechtsvorschrift festgelegten
 Zwecken.
 
-
 ## § 2 Statistisches Bundesamt
 
 (1) Das Statistische Bundesamt ist eine selbständige Bundesoberbehörde
@@ -52,7 +50,6 @@ Anforderungen der fachlich zuständigen Bundesminister im Rahmen eines
 mit der Finanzplanung abgestimmten Aufgabenprogramms und der
 verfügbaren Haushaltsmittel auf der Grundlage der jeweils
 sachgerechten Methoden durch.
-
 
 ## § 3 Aufgaben des Statistischen Bundesamtes
 
@@ -153,7 +150,6 @@ Zusammenstellung ein Bundesinteresse besteht, kann das Statistische
 Bundesamt die Aufgaben nach Absatz 1 Nr. 1 wahrnehmen, soweit die
 beteiligten Länder zustimmen.
 
-
 ## § 3a Zusammenarbeit der statistischen Ämter
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -167,7 +163,6 @@ Auskunftserteilung und die Durchsetzung der Auskunftspflicht.
 
 (2) Zu den statistischen Arbeiten nach Absatz 1 gehört auch die
 Bereitstellung von Daten für die Wissenschaft.
-
 
 ## § 4 Statistischer Beirat
 
@@ -237,7 +232,6 @@ und jederzeit zu hören.
 (8) Die Tätigkeit im Statistischen Beirat, in den Fachausschüssen und
 in den Arbeitskreisen ist ehrenamtlich.
 
-
 ## § 5 Anordnung von Bundesstatistiken
 
 (1) Die Bundesstatistiken werden, soweit in diesem Gesetz oder in
@@ -303,7 +297,6 @@ werden, soweit dem Statistischen Bundesamt oder den statistischen
 Ämtern der Länder in einer Rechtsvorschrift ein besonderes
 Zugangsrecht zu diesen Registern gewährt wird.
 
-
 ## § 6 Maßnahmen zur Vorbereitung und Durchführung von Bundesstatistiken
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder
@@ -362,7 +355,6 @@ Bundesstatistiken mit Auskunftspflicht einbezogen werden. Dabei gelten
 mehrmals im Kalenderjahr durchgeführte Erhebungen als eine einzige
 Erhebung.
 
-
 ## § 7 Erhebungen für besondere Zwecke
 
 (1) Zur Erfüllung eines kurzfristig auftretenden Datenbedarfs für
@@ -388,7 +380,6 @@ höchstens 20.000 Befragte erfassen.
 (5) Wiederholungsbefragungen sind auch zum Zweck der Darstellung eines
 Verlaufs bis zu fünf Jahren nach der ersten Befragung zulässig.
 
-
 ## § 8 Aufbereitung von Daten aus dem Verwaltungsvollzug
 
 (1) Soweit Verwaltungsstellen des Bundes aufgrund nicht-statistischer
@@ -403,7 +394,6 @@ veröffentlichen.
 (2) Besondere Regelungen in einer eine Bundesstatistik anordnenden
 Rechtsvorschrift bleiben unberührt.
 
-
 ## § 9 Regelungsumfang bundesstatistischer Rechtsvorschriften
 
 (1) Die eine Bundesstatistik anordnende Rechtsvorschrift muß die
@@ -416,7 +406,6 @@ Bundesstatistiken bedürfen einer Bestimmung in der eine
 Bundesstatistik anordnenden Rechtsvorschrift nur insoweit, als sie
 Angaben über persönliche oder sachliche Verhältnisse enthalten, die
 über die Erhebungs- und Hilfsmerkmale hinausgehen.
-
 
 ## § 10 Erhebungs- und Hilfsmerkmale
 
@@ -439,7 +428,6 @@ Rechtsvorschrift bleiben unberührt.
 gleicher Straßenbezeichnung von der durch Straßeneinmündungen oder
 vergleichbare Begrenzungen umschlossenen Fläche.
 
-
 ## § 11 Erhebungsvordrucke
 
 (1) Sind Erhebungsvordrucke durch den zu Befragenden auszufüllen, so
@@ -457,11 +445,9 @@ Hilfsmerkmale hinausgehen.
 ihrer Durchführung verwendeten Hilfsmerkmale sind auf den
 Erhebungsvordrucken anzugeben.
 
-
 ## § 11a
 
 (weggefallen)
-
 
 ## § 12 Trennung und Löschung der Hilfsmerkmale
 
@@ -477,7 +463,6 @@ die zur Bestimmung des Kreises der zu Befragenden erforderlichen
 Hilfsmerkmale, soweit sie für nachfolgende Erhebungen benötigt werden,
 gesondert aufbewahrt werden. Nach Beendigung des Zeitraumes der
 wiederkehrenden Erhebungen sind sie zu löschen.
-
 
 ## § 13 Adreßdateien
 
@@ -583,7 +568,6 @@ werden.
 (5) Die eine Bundesstatistik anordnenden Rechtsvorschriften, die die
 Führung von Dateien vorsehen, bleiben unberührt.
 
-
 ## § 13a Zusammenführung von Daten
 
 Soweit es zur Gewinnung von statistischen Informationen ohne
@@ -592,7 +576,6 @@ Statistiken nach § 13 Abs. 1, Daten aus dem Statistikregister, Daten
 nach dem Verwaltungsdatenverwendungsgesetz und Daten, die die
 statistischen Ämter des Bundes und der Länder aus allgemein
 zugänglichen Quellen gewinnen, zusammengeführt werden.
-
 
 ## § 14 Erhebungsbeauftragte
 
@@ -617,7 +600,6 @@ sie sich auszuweisen.
 
 (4) Erhebungsbeauftragte sind über ihre Rechte und Pflichten zu
 belehren.
-
 
 ## § 15 Auskunftspflicht
 
@@ -662,7 +644,6 @@ Erhebungsbeauftragten auszuhändigen oder in verschlossenem Umschlag zu
 
 (6) Widerspruch und Anfechtungsklage gegen die Aufforderung zur
 Auskunftserteilung haben keine aufschiebende Wirkung.
-
 
 ## § 16 Geheimhaltung
 
@@ -776,7 +757,6 @@ Rechtsvorschrift, nach den Absätzen 5, 6 oder von Tabellen nach Absatz
 4 sind. Dies gilt nicht für offenkundige Tatsachen bei einer
 Übermittlung nach Absatz 4.
 
-
 ## § 17 Unterrichtung
 
 Die zu Befragenden sind schriftlich oder elektronisch zu unterrichten
@@ -810,10 +790,6 @@ Die zu Befragenden sind schriftlich oder elektronisch zu unterrichten
 8.  die Bedeutung und den Inhalt von laufenden Nummern und Ordnungsnummern
     (§ 9 Abs. 2).
 
-
-
-
-
 ## § 18 Statistische Erhebungen der Europäischen Gemeinschaften
 
 (1) Die Bundesstatistiken betreffenden Vorschriften dieses Gesetzes
@@ -829,7 +805,6 @@ Merkmalen einer eine Bundesstatistik anordnenden Rechtsvorschrift
 Auskünfte freiwillig, es sei denn, die Rechtsakte der Europäischen
 Gemeinschaften sehen eine Auskunftspflicht ausdrücklich vor.
 
-
 ## § 19 Supra- und internationale Aufgaben des Statistischen Bundesamtes
 
 Im supra- und internationalen Bereich hat das Statistische Bundesamt
@@ -842,13 +817,11 @@ Gemeinschaften und internationaler Organisationen mitzuwirken und die
 Ergebnisse an die Europäischen Gemeinschaften und internationalen
 Organisationen weiterzuleiten.
 
-
 ## § 20 Kosten der Bundesstatistik
 
 Die Kosten der Bundesstatistik werden, soweit sie bei den
 Bundesbehörden entstehen, vom Bund, im übrigen von den Ländern
 getragen.
-
 
 ## § 21 Verbot der Reidentifizierung
 
@@ -858,13 +831,11 @@ eines Personen-, Unternehmens-, Betriebs- oder Arbeitsstättenbezugs
 außerhalb der Aufgabenstellung dieses Gesetzes oder der eine
 Bundesstatistik anordnenden Rechtsvorschrift ist untersagt.
 
-
 ## § 22 Strafvorschrift
 
 Wer entgegen § 21 Einzelangaben aus Bundesstatistiken oder solche
 Einzelangaben mit anderen Angaben zusammenführt, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 23 Bußgeldvorschrift
 
@@ -878,7 +849,6 @@ erteilt.
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
-
 
 ## § 24 Verwaltungsbehörde im Sinne des Gesetzes über Ordnungswidrigkeiten (OWiG)
 
@@ -901,14 +871,12 @@ Bundesstatistiken
 Das gleiche gilt, soweit dem Statistischen Bundesamt entsprechende
 Aufgaben bei der Durchführung der Erhebungen nach § 18 obliegen.
 
-
 ## § 25 Aufschiebende Wirkung von Widerspruch und Anfechtungsklage bei Landes- und Kommunalstatistiken
 
 Durch Landesgesetz kann bestimmt werden, daß Widerspruch und
 Anfechtungsklage gegen die Aufforderung zur Auskunftserteilung bei der
 Durchführung von Landes- und Kommunalstatistiken, die durch
 Rechtsvorschrift angeordnet sind, keine aufschiebende Wirkung haben.
-
 
 ## § 26 Überleitungsvorschrift
 
@@ -967,11 +935,9 @@ Bericht darzulegen, ob und inwieweit der mit diesem Gesetz verfolgte
 Zweck zu weiteren Änderungen einzelstatistischer Rechtsvorschriften
 Anlaß geben kann.
 
-
 ## § 27
 
 (weggefallen)
-
 
 ## § 28 Inkrafttreten
 

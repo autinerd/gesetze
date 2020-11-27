@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 10.12.2007 I 2830
 
-
 ## § 1 Stiftung
 
 (1) Die nach § 44 des Kriegsgefangenenentschädigungsgesetzes
@@ -36,7 +35,6 @@ ausschließlich und unmittelbar steuerbegünstigte Zwecke im Sinne der
 (4) Die Stiftung wird mit Ablauf des 31. Dezember 2007 aufgehoben.
 Danach ist das Bundesverwaltungsamt für die Durchführung dieses
 Gesetzes zuständig.
-
 
 ## § 2 Personenkreis
 
@@ -144,7 +142,6 @@ Leistungen nach diesem Gesetz zurückzustellen. Wird ein solches
 Verfahren eingeleitet, nachdem eine Leistung durch Bescheid zuerkannt,
 aber noch nicht ausgezahlt ist, so ist die Auszahlung auszusetzen.
 
-
 ## § 3 Leistungen
 
 (1) Das Bundesverwaltungsamt kann den in § 2 Abs. 1 genannten Personen
@@ -209,7 +206,6 @@ angerechnet werden.
 (7) Anträge auf Gewährung von Leistungen nach Absatz 1 können bis zum
 17\. Dezember 2007 gestellt werden.
 
-
 ## § 4 Finanzierung
 
 (1) Für Leistungen nach § 3 Abs. 1 werden in den Jahren 2007 bis 2009
@@ -233,17 +229,13 @@ werden vom Bund zur Verfügung gestellt.
 (4) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen.
 
-
 ## (XXXX) §§ 5 bis 9 (weggefallen)
-
-
 
 ## § 10 Aufsicht
 
 Das Bundesministerium des Innern erlässt allgemeine
 Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das
 Bundesverwaltungsamt.
-
 
 ## § 11 (weggefallen)
 

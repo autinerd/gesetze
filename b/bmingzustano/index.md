@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 502
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -29,7 +27,6 @@ Einsprüche gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs
 in Angelegenheiten der Besoldung, des Tarifentgelts und des
 Kindergeldes zu entscheiden, soweit es für den Erlass des
 Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
-
 
 ## II.
 
@@ -41,11 +38,9 @@ Verfahren vor der Finanzgerichtsbarkeit in Kindergeldangelegenheiten.
 Das Bundesministerium für Gesundheit behält sich vor, im Einzelfall
 die Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 1. August 2005 anzuwenden.
-
 
 ## Schlussformel
 

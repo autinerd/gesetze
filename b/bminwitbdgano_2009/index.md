@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2051
 
-
 ## Eingangsformel
 
 Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 Satz 2 und § 84 des
 Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) wird
 angeordnet:
-
 
 ## I.
 
@@ -56,14 +54,12 @@ Technologie
 
 jeweils für ihren oder seinen Geschäftsbereich.
 
-
 ## II.
 
 Die Befugnis zur Festsetzung der Kürzung von Dienstbezügen nach § 33
 Abs. 3 Nr. 1 des Bundesdisziplinargesetzes wird gemäß § 33 Abs. 5 des
 Bundesdisziplinargesetzes auf die in Abschnitt I Nr. 1 bis 6 genannten
 Dienstvorgesetzten übertragen.
-
 
 ## III.
 
@@ -73,7 +69,6 @@ Besoldungsgruppen A 2 bis A 15 der Bundesbesoldungsordnung A (Anlage I
 des Bundesbesoldungsgesetzes) wird gemäß § 34 Abs. 2 Satz 2 des
 Bundesdisziplinargesetzes auf die in Abschnitt I Nr. 1 bis 6 genannten
 Dienstvorgesetzten übertragen.
-
 
 ## IV.
 
@@ -86,7 +81,6 @@ Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
 aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums
 für Wirtschaft und Technologie vom 9. Juni 2009 (BGBl. I S. 1308).
 
-
 ## V.
 
 Die Disziplinarbefugnis für Ruhestandsbeamtinnen oder Ruhestandsbeamte
@@ -95,7 +89,6 @@ Abschnitt I Nr. 1 bis 6 genannten Dienstvorgesetzten übertragen.
 Ausgenommen davon sind frühere Behördenleiterinnen oder
 Behördenleiter.
 
-
 ## VI.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
@@ -103,7 +96,6 @@ diesem Zeitpunkt an ist die Anordnung zur Durchführung des
 Bundesdisziplinargesetzes im Geschäftsbereich des Bundesministeriums
 für Wirtschaft und Arbeit vom 9. September 2003 (BGBl. I S. 1955)
 nicht mehr anzuwenden.
-
 
 ## Schlussformel
 

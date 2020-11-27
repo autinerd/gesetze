@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3755
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 4 Satz 2 des Gräbergesetzes in der Fassung der
@@ -27,7 +25,6 @@ Bekanntmachung vom 29. Januar 1993 (BGBl. I S. 178), der durch Artikel
 2004 (BGBl. I S. 3652) neu gefasst worden ist, verordnet das
 Bundesministerium für Familie, Senioren, Frauen und Jugend im
 Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Pauschalen
 
@@ -114,14 +111,9 @@ betragen:
 
     *   582.885 Euro.
 
-
-
-
-
 ## § 2 Inkrafttreten
 
 Die Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
-
 
 ## Schlussformel
 

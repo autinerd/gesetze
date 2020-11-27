@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 787
 
-
-
 ## (XXXX)
 
 Auf Grund des § 3 Abs. 2 Nr. 1 Buchstabe a Satz 4 des
@@ -131,10 +129,6 @@ nachstehenden Tabelle zu entnehmen:
 *    *   1,0014384
 
     *   vom 1. Juli 2002 bis 30. Juni 2003
-
-
-
-
 
 ## Schlussformel
 

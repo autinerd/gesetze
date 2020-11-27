@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. - Allgemeiner Teil
-
-
 
 ### § 1 Entwicklungshelfer
 
@@ -60,7 +56,6 @@ vorbereitet wird, Entwicklungsdienst zu leisten (Vorbereitungsdienst),
 für den Vorbereitungsdienst nur Leistungen erhält, die dieses Gesetz
 vorsieht, neben dem Vorbereitungsdienst keine Tätigkeit gegen Entgelt
 ausübt und die Voraussetzungen des Absatzes 1 Nr. 2 und 4 erfüllt.
-
 
 ### § 2 Träger des Entwicklungsdienstes
 
@@ -117,7 +112,6 @@ wenn eine Auflage nicht erfüllt worden ist. Durch den Widerruf oder
 die Rücknahme der Anerkennung werden die Rechte des
 Entwicklungshelfers nach diesem Gesetz nicht berührt.
 
-
 ### § 3 Finanzierungen durch den Bund
 
 Zu den Aufwendungen für Leistungen, die dem anerkannten Träger des
@@ -125,7 +119,6 @@ Entwicklungsdienstes (Träger) nach diesem Gesetz obliegen, kann der
 Bund Finanzierungen in Form von Zuwendungen oder Aufträgen nach
 Maßgabe der im Bundeshaushalt zur Verfügung stehenden Mittel und der
 für ihre Vergabe geltenden Richtlinien leisten.
-
 
 ### § 4 Entwicklungsdienstvertrag
 
@@ -169,7 +162,6 @@ Bestehen oder frühere Bestehen einer Lebenspartnerschaft. Die
 Vorschriften, die sich auf den Ehegatten beziehen, gelten entsprechend
 für den Lebenspartner.
 
-
 ### § 5 Leistungen durch andere Stellen
 
 (1) Wirkt der Entwicklungshelfer auf Veranlassung des Trägers in
@@ -187,10 +179,7 @@ Absatzes 1 erbracht werden, die das Vorhaben durchführt.
 auch der Träger dem Entwicklungshelfer für eine ordnungsgemäße
 Erfüllung.
 
-
 ## II. - Besonderer Teil
-
-
 
 ### § 6 Haftpflichtversicherung
 
@@ -212,7 +201,6 @@ unmittelbarer Anspruch gegen den Versicherer eingeräumt wird.
 im dienstlichen oder privaten Bereich verursacht hat, auf Ersatz in
 Anspruch genommen, so hat der Träger bis zum Eintreten der
 Versicherung in angemessener Weise Schutz und Hilfe zu leisten.
-
 
 ### § 7 Krankenversicherung
 
@@ -271,7 +259,6 @@ diese der Bund, soweit die Gesamtkosten die ortsüblichen Kosten nicht
 die nach Beendigung des Entwicklungsdienstes erwachsen, sofern dies
 zur Abwendung einer unbilligen Härte geboten ist.
 
-
 ### § 8 Weitergewährung der Unterhaltsleistungen
 
 (1) Ist der Entwicklungshelfer an der Dienstleistung verhindert und
@@ -286,7 +273,6 @@ Träger die vertraglichen Unterhaltsleistungen für die Dauer der
 Schutzfristen nach § 3 Abs. 2 und § 6 Abs. 1 des Mutterschutzgesetzes
 weiterzugewähren, und zwar auch dann, wenn das Dienstverhältnis
 während der Schutzfristen endet.
-
 
 ### § 9 Tagegeld bei Arbeitsunfähigkeit
 
@@ -364,7 +350,6 @@ oder im kirchlichen Dienst Krankenbezüge zugebilligt, so gilt Absatz 3
 entsprechend, wenn die Bezüge nicht geringer als das Tagegeld sind;
 andernfalls gilt Absatz 4 entsprechend.
 
-
 ### § 10 Leistungen bei Gesundheitsstörungen oder Tod infolge typischer Risiken des Entwicklungslandes
 
 (1) Ist eine Gesundheitsstörung oder der Tod des Entwicklungshelfers
@@ -398,7 +383,6 @@ entsprechend.
 Sozialgesetzbuch über das Zusammentreffen von Rente und Leistungen aus
 der Unfallversicherung entsprechende Anwendung.
 
-
 ### § 11 Leistungen für den Fall der Erwerbsminderung, Erwerbsunfähigkeit, Berufsunfähigkeit oder des Todes
 
 Der Träger ist verpflichtet, den Antrag auf Versicherungspflicht in
@@ -424,7 +408,6 @@ Hinterbliebenenversorgung nach beamtenrechtlichen Vorschriften oder
 Grundsätzen oder entsprechenden kirchenrechtlichen Regelungen
 gewährleistet ist.
 
-
 ### § 12 Berufliche Wiedereingliederung
 
 Wer nach Beendigung des Entwicklungsdienstes einen neuen Arbeitsplatz
@@ -432,7 +415,6 @@ sucht, soll unter Berücksichtigung der besonderen Erfahrungen und
 Kenntnisse, die er sich während des Entwicklungsdienstes und des
 Vorbereitungsdienstes angeeignet hat, vermittelt und beruflich
 gefördert werden.
-
 
 ### § 13 Entgeltersatzleistungen bei Arbeitslosigkeit
 
@@ -451,11 +433,9 @@ Buches Sozialgesetzbuch zugrunde zu legen.
 Regelung des Absatzes 1 entstehen, erstattet der Bund.
 Verwaltungskosten werden nicht erstattet.
 
-
 ### § 14
 
 -
-
 
 ### § 15 Tagegeld bei Arbeitslosigkeit
 
@@ -481,7 +461,6 @@ fünfundzwanzig vom Hundert des ungekürzten Tagegeldes übersteigt.
 Beendigung des Entwicklungsdienstes drei Jahre vergangen sind. Im
 übrigen gilt § 9 entsprechend.
 
-
 ### § 16 Feststellung der Leistungen, Verwaltungszuständigkeit
 
 (1) Die vom Bund nach § 7 Abs. 3, §§ 9, 10 dieses Gesetzes zu
@@ -491,7 +470,6 @@ erbringenden Leistungen werden auf Antrag festgestellt.
 Gesetzes obliegt der Unfallkasse des Bundes.
 
 (3) (weggefallen)
-
 
 ### § 17 Beamtenrechtliche Vorschriften
 
@@ -532,7 +510,6 @@ Beamtenverhältnis durch eine festgesetzte mehrjährige Tätigkeit im
 Arbeitsverhältnis an Stelle des sonst vorgeschriebenen
 Vorbereitungsdienstes durchgeführt wird.
 
-
 ### § 18 Zeugnis
 
 Bei Beendigung des Entwicklungsdienstes kann der Entwicklungshelfer
@@ -540,7 +517,6 @@ von dem Träger ein schriftliches Zeugnis über die Art und Dauer des
 Entwicklungsdienstes und der Vorbereitung fordern. Das Zeugnis ist auf
 Verlangen auf die Leistungen und die Führung während der Dienstzeit zu
 erstrecken.
-
 
 ### § 19 Rechtsweg
 
@@ -551,19 +527,13 @@ Entwicklungshelfer sind die Gerichte für Arbeitssachen zuständig.
 Abs. 3, der §§ 9, 10, 15 dieses Gesetzes ist der Rechtsweg zu den
 Gerichten der Sozialgerichtsbarkeit gegeben.
 
-
 ## III. - Änderung von Gesetzen
-
-
 
 ### (XXXX) §§ 20 bis 22
 
 -
 
-
 ## IV. - Übergangs- und Schlußvorschriften
-
-
 
 ### § 23 Bisherige Rechtsverhältnisse
 
@@ -584,7 +554,6 @@ des Entwicklungsdienstes oder einer Stelle im Entwicklungsland für ihn
 abgeschlossen worden sind, ehe der Träger nach § 2 dieses Gesetzes
 anerkannt wurde.
 
-
 ### § 23a Übergangsvorschrift zu § 13
 
 (1) Ist der Anspruch auf Arbeitslosenbeihilfe vor dem 1. Januar 1985
@@ -596,7 +565,6 @@ Arbeitslosenbeihilfe mit einer Anspruchsdauer von 312 Tagen noch nicht
 erschöpft, so erhöht sich diese Anspruchsdauer auf 468 Tage, wenn der
 Arbeitslose bei Entstehung des Anspruches das 49. Lebensjahr vollendet
 hatte.
-
 
 ### § 23b Übergangsvorschrift zu § 13
 
@@ -611,7 +579,6 @@ bis zum 30. Juni 1987 geltenden Fassung sind auf Ansprüche auf
 Arbeitslosenbeihilfe, die vor dem 1. Juli 1987 entstanden sind, weiter
 anzuwenden.
 
-
 ### § 23c Übergangsvorschrift zu § 10
 
 Bestand am 31. Dezember 1991 Anspruch auf Leistungen nach § 10 Abs. 1
@@ -619,18 +586,15 @@ und 2, ist § 312 des Sechsten Buches Sozialgesetzbuch auch dann
 entsprechend anzuwenden, wenn die Gesundheitsstörung oder der Tod nach
 dem 31. Dezember 1978 eingetreten ist.
 
-
 ### § 24 Geltung in Berlin
 
 Dieses Gesetz gilt mit Ausnahme des § 22 nach Maßgabe des § 12 und des
 § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
 ### § 25 Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVII Abschnitt III (BGBl. II 1990, 889, 1137) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

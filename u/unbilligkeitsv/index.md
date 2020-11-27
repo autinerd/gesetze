@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 734
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 2 des Zweiten Buches Sozialgesetzbuch –
@@ -25,25 +24,21 @@ Dezember 2003, BGBl. I S. 2954, 2955), der durch Artikel 2 Nr. 4
 Buchstabe b des Gesetzes vom 8. April 2008 (BGBl. I S. 681) eingefügt
 worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 Grundsatz
 
 Hilfebedürftige sind nach Vollendung des 63. Lebensjahres nicht
 verpflichtet, eine Rente wegen Alters vorzeitig in Anspruch zu nehmen,
 wenn die Inanspruchnahme unbillig wäre.
 
-
 ## § 2 Verlust eines Anspruchs auf Arbeitslosengeld
 
 Unbillig ist die Inanspruchnahme, wenn und solange sie zum Verlust
 eines Anspruchs auf Arbeitslosengeld führen würde.
 
-
 ## § 3 Bevorstehende abschlagsfreie Altersrente
 
 Unbillig ist die Inanspruchnahme, wenn Hilfebedürftige in nächster
 Zukunft die Altersrente abschlagsfrei in Anspruch nehmen können.
-
 
 ## § 4 Erwerbstätigkeit
 
@@ -52,7 +47,6 @@ sozialversicherungspflichtig beschäftigt sind oder aus sonstiger
 Erwerbstätigkeit ein entsprechend hohes Einkommen erzielen. Dies gilt
 nur, wenn die Beschäftigung oder sonstige Erwerbstätigkeit den
 überwiegenden Teil der Arbeitskraft in Anspruch nimmt.
-
 
 ## § 5 Bevorstehende Erwerbstätigkeit
 
@@ -69,7 +63,6 @@ erneute Glaubhaftmachung ausgeschlossen.
 (3) Ist bereits vor dem Zeitpunkt der geplanten Aufnahme der
 Beschäftigung oder Erwerbstätigkeit anzunehmen, dass diese nicht zu
 Stande kommen wird, entfällt die Unbilligkeit.
-
 
 ## § 6 Inkrafttreten
 

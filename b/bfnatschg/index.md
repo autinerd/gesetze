@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1458
 
-
-
 ## § 1 Errichtung und Sitz
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
@@ -24,7 +22,6 @@ und Reaktorsicherheit wird ein "Bundesamt für Naturschutz" als
 selbständige Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Naturschutz hat seinen Sitz in Bonn.
-
 
 ## § 2 Aufgaben
 
@@ -48,7 +45,6 @@ Gebieten des Naturschutzes und der Landschaftspflege, mit deren
 Durchführung es vom Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit oder mit seiner Zustimmung von der sachlich
 zuständigen Bundesbehörde beauftragt wird.
-
 
 ## § 3 Fachaufsicht
 

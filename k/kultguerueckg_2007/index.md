@@ -19,10 +19,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 757 (2547)
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -44,15 +41,11 @@ national wertvoller Archive geschützt sind oder für die ein
 Eintragungsverfahren eingeleitet und die Einleitung des Verfahrens
 öffentlich bekannt gemacht worden ist.
 
-
 ### § 2 Zentralstellen
 
 Der Bund und die Länder benennen jeweils ihre Zentralstellen.
 
-
 ## Abschnitt 2 - Geltendmachung des Rückgabeanspruchs für geschütztes deutsches Kulturgut
-
-
 
 ### § 3 Rückgabeanspruch gegen andere Mitgliedstaaten der Europäischen Union
 
@@ -63,13 +56,11 @@ des Bundes im jeweiligen Mitgliedstaat der Europäischen Union im
 Rahmen der dort geltenden Vorschriften außergerichtlich und
 gerichtlich geltend.
 
-
 ### § 4 Rückgabeanspruch gegen andere Vertragsstaaten
 
 Der Anspruch auf Rückgabe von Kulturgut, das unrechtmäßig in das
 Hoheitsgebiet eines anderen Vertragsstaats gebracht wurde, wird auf
 diplomatischem Weg geltend gemacht.
-
 
 ### § 5 Eigentum
 
@@ -80,10 +71,7 @@ zurückgegeben wird, richtet sich nach den deutschen Sachvorschriften.
 (2) Bürgerlich-rechtliche Ansprüche und Rechte auf das Kulturgut
 werden durch Rückgabeansprüche im Sinne des § 6 nicht berührt.
 
-
 ## Abschnitt 3 - Rückgabeansprüche anderer Staaten
-
-
 
 ### § 6 Voraussetzungen der Rückgabepflicht
 
@@ -182,7 +170,6 @@ vorübergehende Verbringung.
 betroffenen Kulturgutes erforderlichen Maßnahmen trägt der ersuchende
 Staat.
 
-
 ### § 7 Rückgabegläubiger, Rückgabeschuldner
 
 (1) Der Rückgabeanspruch steht dem Mitgliedstaat der Europäischen
@@ -191,7 +178,6 @@ unrechtmäßig in das Bundesgebiet verbracht worden ist.
 
 (2) Rückgabeschuldner ist, wer für sich selbst oder für einen anderen
 die tatsächliche Sachherrschaft über das Kulturgut ausübt.
-
 
 ### § 8 Durchführung und Sicherung der Rückgabe
 
@@ -230,12 +216,10 @@ Vorschriften sicherzustellen, sofern zu befürchten ist, dass seine
 Rückgabe an den ersuchenden Staat verhindert werden soll oder dass es
 Schaden erleidet.
 
-
 ### § 9 Eigentum an zurückgegebenem Kulturgut
 
 Das Eigentum an Kulturgut bestimmt sich nach erfolgter Rückgabe nach
 den Sachvorschriften des ersuchenden Staats.
-
 
 ### § 10 Entschädigung
 
@@ -265,7 +249,6 @@ Bundesgebiet belassen zu dürfen.
 vererbt oder vermacht worden, so fallen ihm die
 Sorgfaltspflichtverletzungen des Schenkers oder Erblassers zur Last.
 
-
 ### § 11 Verjährung und Erlöschen des Rückgabeanspruchs
 
 (1) Der Rückgabeanspruch des ersuchenden Staats verjährt in einem Jahr
@@ -289,7 +272,6 @@ unrechtmäßig ausgeführtes Kulturgut nachträglich eine wirksame
 Ausfuhrgenehmigung, so kann seine Rückgabe nicht mehr gefordert
 werden. Das Gleiche gilt, wenn die Ausfuhr auf Grund einer nach ihr in
 Kraft getretenen Rechtsänderung Rechtmäßigkeit erlangt.
-
 
 ### § 12 Aufgaben des Bundes und der Zentralstellen der Länder
 
@@ -353,7 +335,6 @@ Mitgliedstaaten der Europäischen Union sind, nimmt das Auswärtige Amt
 in Zusammenarbeit mit der Zentralstelle des Bundes insbesondere die in
 Absatz 2 beschriebenen Aufgaben auf diplomatischem Weg wahr.
 
-
 ### § 13 Rückgabeklage des ersuchenden Staats
 
 (1) Unabhängig von der Möglichkeit, eine gütliche Einigung über die
@@ -379,10 +360,7 @@ die dem Beklagten zu gewährende Entschädigung.
 Staats seine Rechte gegen den Besitzer auf dem ordentlichen Rechtsweg
 durchzusetzen.
 
-
 ## Abschnitt 4 - Vorschriften zum Schutz von bedeutendem Kulturgut anderer Staaten
-
-
 
 ### § 14 Genehmigungspflicht
 
@@ -406,7 +384,6 @@ Zustimmung des Bundesrates Vorschriften zu erlassen, die das Verfahren
 und die Voraussetzungen bei der Erstellung, Führung und Aktualisierung
 des Verzeichnisses regeln.
 
-
 ### § 15 Genehmigung
 
 (1) Die Genehmigung ist zu erteilen, wenn die Ausfuhr des Gegenstandes
@@ -414,7 +391,6 @@ aus dem Herkunftsstaat nicht verboten ist.
 
 (2) Zuständig für die Erteilung der Genehmigung ist die Zentralstelle
 des Bundes.
-
 
 ### § 16 Mitwirkung der Zollbehörden
 
@@ -440,7 +416,6 @@ Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von
 Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere
 und sonstige Unterlagen und zur Duldung von Zollbeschauen und von
 Entnahmen unentgeltlicher Muster und Proben zu regeln.
-
 
 ### § 17 Beschlagnahme und Einziehung durch die Zollstellen
 
@@ -475,7 +450,6 @@ Beschlagnahme oder Einziehung veranlasst haben, bekannt waren.
 (4) Die oder der Beauftragte der Bundesregierung für Kultur und Medien
 gibt die unabhängigen sachverständigen Stellen und Personen im Sinne
 von Absatz 1 Satz 2 im Bundesanzeiger bekannt.
-
 
 ### § 18 Aufzeichnungspflichten im Kunst- und Antiquitätenhandel sowie im Versteigerergewerbe
 
@@ -525,17 +499,13 @@ auf Grund allgemeiner Buchführungspflichten nach dem Handelsgesetzbuch
 oder der Abgabenordnung Aufzeichnungen geführt und aufbewahrt werden,
 die den in Absatz 1 bezeichneten Anforderungen entsprechen.
 
-
 ### § 19 Auskunfts- und Zutrittsrecht
 
 Die Auskunfts- und Zutrittsrechte, die den zuständigen Behörden und
 ihren Beauftragten zur Durchführung dieses Abschnitts zustehen,
 bestimmen sich nach der Gewerbeordnung.
 
-
 ## Abschnitt 5 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 20 Strafvorschriften
 
@@ -563,7 +533,6 @@ bestraft, wer
 bestraft, wer in den Fällen des Absatzes 1 gewerbs- oder
 gewohnheitsmäßig handelt.
 
-
 ### § 21 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -580,7 +549,6 @@ gewohnheitsmäßig handelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
-
 
 ### § 22 Befugnisse der Zollbehörden
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2543
 
-
-
 ## (XXXX)
 
 Die durch Ziffer IV des Organisationserlasses vom 27. Oktober 1998

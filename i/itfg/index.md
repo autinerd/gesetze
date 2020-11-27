@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 25.6.2009 I 1577
 
-
 ## § 1 Errichtung des Sondervermögens
 
 Es wird ein Sondervermögen des Bundes mit der Bezeichnung
 „Investitions- und Tilgungsfonds“ errichtet.
-
 
 ## § 2 Zweck des Sondervermögens
 
@@ -49,10 +47,6 @@ Milliarden Euro finanziert werden:
 –   Förderung anwendungsorientierter Forschung im Bereich Mobilität mit
     bis zu 500 Millionen Euro.
 
-
-
-
-
 ## § 3 Förderfähige Maßnahmen
 
 (1) Das Gesetz zur Umsetzung von Zukunftsinvestitionen der Kommunen
@@ -73,7 +67,6 @@ voraussichtlich bis zum 31. Dezember 2011 abgerechnet werden können.
 Nach dem 31. Dezember 2011 darf das Sondervermögen keine Fördermittel
 mehr auszahlen.
 
-
 ## § 4 Stellung im Rechtsverkehr
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem
@@ -88,7 +81,6 @@ Rechten und Verbindlichkeiten getrennt zu halten. Der Bund haftet
 unmittelbar für die Verbindlichkeiten des Sondervermögens; dieses
 haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
-
 ## § 5 Kreditermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Deckung
@@ -100,7 +92,6 @@ Krediten wieder zu.
 
 (3) Auf die Kreditermächtigung ist bei Diskontpapieren der Nettobetrag
 anzurechnen.
-
 
 ## § 6 Tilgung
 
@@ -119,14 +110,12 @@ und für das Jahr 2012 und die Folgejahre so lange auf bis zu 2,5
 Milliarden Euro festgesetzt, bis die Verbindlichkeiten des
 Sondervermögens vollständig getilgt sind.
 
-
 ## § 7 Wirtschaftsplan, Haushaltsrecht
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden in einem
 Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und
 Ausgaben auszugleichen. Im Übrigen ist § 113 der
 Bundeshaushaltsordnung anzuwenden.
-
 
 ## § 8 Rechnungslegung
 
@@ -135,24 +124,20 @@ Dezember Rechnung über die Einnahmen und Ausgaben sowie über das
 Vermögen und die Schulden des Sondervermögens. Die Rechnungen sind als
 Übersichten der Haushaltsrechnung des Bundes beizufügen.
 
-
 ## § 9 Zuständigkeit
 
 Für die Durchführung des Programms zur Stärkung der Pkw-Nachfrage ist
 das Bundesamt für Wirtschaft und Ausfuhrkontrolle zuständig.
 
-
 ## § 10 Verwaltungskosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
-
 
 ## § 11 Auflösung
 
 Das Sondervermögen wird mit Tilgung seiner Verbindlichkeiten
 aufgelöst. Die Auflösung ist im Bundesanzeiger bekannt zu geben. Ein
 verbleibendes Vermögen fällt dem Bund zu.
-
 
 ## Anlage (zu § 3 Absatz 2) Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
 
@@ -2177,8 +2162,6 @@ verbleibendes Vermögen fällt dem Bund zu.
     *   –
 
     *
-
-
 
 ## Anlage (Nachtrag) Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“
 

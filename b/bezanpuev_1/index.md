@@ -21,7 +21,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 251 V v. 25.11.2003 I 2304
 
-
 ## Eingangsformel
 
 Auf Grund der Anlage I Kapitel XIX Sachgebiet B Abschnitt II Nr. 2 § 5
@@ -30,10 +29,7 @@ Nr. 2 Buchstabe a des Einigungsvertrages vom 31. August 1990 in
 Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl.
 1990 II S. 885, 1145, 1235) verordnet die Bundesregierung:
 
-
 ## Art 1 - Besoldung
-
-
 
 ## § 1 Allgemeines
 
@@ -45,7 +41,6 @@ weiterverwendet werden, richtet sich nach den Vorschriften des
 Bundesbesoldungsgesetzes und den hierzu ergangenen besonderen
 Rechtsvorschriften, soweit nicht in dieser Verordnung etwas anderes
 bestimmt ist.
-
 
 ## § 2 Bemessung und Zahlung der monatlichen Bezüge
 
@@ -68,7 +63,6 @@ daß der Soldat am Zahltag über sie verfügen kann. Fällt der Zahltag
 auf einen Samstag oder auf einen Wochenfeiertag, gilt der
 vorhergehende Werktag, fällt er auf einen Sonntag, gilt der zweite
 vorhergehende Werktag als Zahltag.
-
 
 ## § 3 Bemessung und Zahlung der sonstigen Bezüge
 
@@ -96,7 +90,6 @@ des Artikels IV des Gesetzes vom 15. November 1977 (BGBl. I S. 2117),
 zuletzt geändert durch § 3 des Gesetzes vom 21. Juli 1986 (BGBl. I S.
 1072), beträgt 500 Deutsche Mark.
 
-
 ## § 4 Zuschuß bei vorübergehender Verwendung im Gebiet der Bundesrepublik Deutschland nach dem Stand bis zum 3. Oktober 1990
 
 (1) Bei einer Kommandierung des Soldaten aus dem in Artikel 3 des
@@ -113,7 +106,6 @@ zuzumuten ist.
 (2) Absatz 1 gilt auch für die Teilnahme an Ausbildungs- und
 Fortbildungsmaßnahmen, die länger als drei Wochen dauern.
 
-
 ## § 5 Zuschuß bei Versetzung in das Gebiet der Bundesrepublik Deutschland nach dem Stand bis zum 3. Oktober 1990
 
 Bei einer Versetzung des Soldaten aus dem in Artikel 3 des
@@ -124,7 +116,6 @@ Höhe des Unterschiedsbetrages zwischen den monatlichen Bezügen nach §
 nach dem Stand bis zum 3. Oktober 1990 maßgebenden Dienstbezügen
 gewährt.
 
-
 ## § 6 Aufwandsentschädigungen
 
 Aufwandsentschädigungen im Sinne des § 17 des Bundesbesoldungsgesetzes
@@ -132,7 +123,6 @@ werden in sinngemäßer Anwendung der jeweils maßgebenden Richtlinien in
 Höhe von 60 vom Hundert der für das Gebiet der Bundesrepublik
 Deutschland nach dem Stand bis zum 3. Oktober 1990 geltenden Beträge
 gezahlt.
-
 
 ## § 7 Leistungen bei einer Wehrdienstbeschädigung
 
@@ -151,7 +141,6 @@ genannten Maßgaben zum Bundesversorgungsgesetz entsprechend
 anzuwenden. Der vom Bundesministerium für Gesundheit und Soziale
 Sicherung im Bundesanzeiger bekanntgegebene Vomhundertsatz und der
 Veränderungstermin gelten entsprechend.
-
 
 ## § 8 Übergangsvorschriften
 
@@ -202,13 +191,11 @@ von § 2 Abs. 3 die Zahlung bis zum Ende des jeweiligen Kalendermonats
 vorgenommen werden, wenn der rechtzeitigen Zahlung unüberwindliche
 Schwierigkeiten entgegenstehen.
 
-
 ## Art 2 - Reisekosten, Umzugskosten und Trennungsgeld
 
 In Angleichung an die für den zivilen öffentlichen Dienst in dem in
 Artikel 3 des Einigungsvertrages genannten Gebiet maßgeblichen
 Abfindungsregelung wird bestimmt:
-
 
 ## § 1 Reisekosten
 
@@ -222,10 +209,6 @@ Reisekostenvergütung ist zu gewähren für:
 
 2.  Dienstreisen in das Ausland und im Ausland in entsprechender Anwendung
     der Auslandsreisekostenverordnung vom 21. Mai 1991 (BGBl. I S. 1140).
-
-
-
-
 
 ## § 2 Umzugskosten
 
@@ -246,7 +229,6 @@ nach § 10 des Bundesumzugskostengesetzes bzw. § 10 der
 Auslandsumzugskostenverordnung auf 60 vom Hundert der nach diesen
 Vorschriften zustehenden Beträge festgesetzt wird.
 
-
 ## § 3 Trennungsgeld
 
 Trennungsgeld ist zu gewähren bei Versetzungen und Kommandierungen:
@@ -258,10 +240,6 @@ Trennungsgeld ist zu gewähren bei Versetzungen und Kommandierungen:
 2.  zwischen dem Inland und dem Ausland und im Ausland in entsprechender
     Anwendung der Auslandstrennungsgeldverordnung vom 4. Mai 1991 (BGBl. I
     S. 1081).
-
-
-
-
 
 ## § 4 Übergangsvorschriften
 
@@ -316,7 +294,6 @@ Trennungsgeld bei Versetzungen und Kommandierungen:
 Die Regelungen des Abschnitts 602 der Besoldungsordnung für die
 Angehörigen der Nationalen Volksarmee vom 12. Oktober 1982 (Nr.
 005/9/001) finden daneben keine Anwendung.
-
 
 ## Art 3 - Inkrafttreten, Außerkrafttreten
 

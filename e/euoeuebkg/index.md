@@ -26,7 +26,6 @@ Stand: Das Übereinkommen und damit auch Art. 2 u. 3 dieses G sind gem. Art. 4 A
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 Dem in Straßburg am 24. November 1983 von der Bundesrepublik
@@ -35,16 +34,13 @@ Entschädigung für Opfer von Gewalttaten wird zugestimmt. Das
 Übereinkommen wird nachstehend mit einer amtlichen deutschen
 Übersetzung veröffentlicht.
 
-
 ## Art 2
 
 (weggefallen)
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 

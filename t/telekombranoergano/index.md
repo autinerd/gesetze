@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 982
 
-
-
 ## (XXXX)
 
 In Ergänzung unserer Anordnung über die Übertragung von Befugnissen

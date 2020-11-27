@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 23.9.2011 I 1946
 
-
 ## Eingangsformel
 
 Auf Grund des § 21g Abs. 2 des Bundesnaturschutzgesetzes in der
@@ -28,7 +27,6 @@ Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Umwelt,
 Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
 Bundesministerium der Finanzen, dem Bundesministerium für Ernährung,
 Landwirtschaft und Forsten und dem Bundesministerium für Wirtschaft:
-
 
 ## § 1 Gebühren und Auslagen
 
@@ -48,7 +46,6 @@ ergeben sich aus dem anliegenden Gebührenverzeichnis.
 (4) Auslagen werden nach Maßgabe des § 10 des
 Verwaltungskostengesetzes erhoben. Erreichen die Auslagen nicht die
 Höhe von 5 Euro, werden sie nicht erhoben.
-
 
 ## § 2 Nutzung von Anlage(blätter)n, Gebührenbefreiung und -ermäßigung bei Ein-, Durch- oder Ausfuhren oder dem Verbringen aus Drittstaaten nach dem Fünften Kapitel des Bundesnaturschutzgesetzes, der Verordnung (EG) Nr. 338/97 sowie der Verordnung (EG) Nr. 865/2006
 
@@ -89,7 +86,6 @@ Gebühr um 10 Euro für jedes weitere erforderliche Anlageblatt.
 (4) Für die Ausfuhr künstlich vermehrter Exemplare von Pflanzenarten
 bis zu einem Warenwert von 50 Euro wird keine Gebühr erhoben.
 
-
 ## § 3 Gebühren in besonderen Fällen
 
 Für die Rücknahme oder den Widerruf eines Verwaltungsaktes, die
@@ -97,7 +93,6 @@ Ablehnung eines Antrages auf Vornahme einer Amtshandlung sowie in den
 Fällen der Rücknahme eines Antrages auf Vornahme einer Amtshandlung
 werden Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes
 erhoben.
-
 
 ## § 4 Zurückweisung oder Zurücknahme eines Widerspruchs gegen eine Sachentscheidung
 
@@ -114,14 +109,12 @@ seiner sachlichen Bearbeitung, jedoch vor deren Beendigung
 zurückgenommen, darf die Gebühr höchstens 75 Prozent der Gebühr nach
 Absatz 1 betragen.
 
-
 ## § 5 Zurückweisung oder Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs
 
 Für die vollständige oder teilweise Zurückweisung und bei Zurücknahme
 eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen
 gerichteten Widerspruchs kann eine Gebühr bis zur Höhe von zehn
 Prozent des streitigen Betrages erhoben werden.
-
 
 ## Anlage (zu § 1) Gebührenverzeichnis
 

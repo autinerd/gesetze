@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1973, 329
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 12 des Gesetzes über den Finanzausgleich zwischen Bund
@@ -26,7 +24,6 @@ geändert durch das Zweite Gesetz zur Änderung des Gesetzes über den
 Finanzausgleich zwischen Bund und Ländern vom 27. Oktober 1972
 (Bundesgesetzbl. I S. 2049), wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1 Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 1970
 
@@ -86,10 +83,6 @@ Umsatzsteuer festgestellt:
 *    *   für Schleswig-Holstein
 
     *   649.841.000 DM.
-
-
-
-
 
 ## § 2 Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 1970
 
@@ -155,10 +148,6 @@ Für das Ausgleichsjahr 1970 werden festgestellt:
 *    *   an Schleswig-Holstein
 
     *   199.091.000 DM.
-
-
-
-
 
 ## § 3
 
@@ -235,10 +224,6 @@ dem Inkrafttreten dieser Verordnung fällig:
 
     *   7.102.000 DM.
 
-
-
-
-
 ## § 4 Berlin-Klausel
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
@@ -246,12 +231,10 @@ Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Verbindung mit § 19 des Gesetzes über den Finanzausgleich zwischen
 Bund und Ländern auch im Land Berlin.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach ihrer Verkündung in
 Kraft.
-
 
 ## Schlußformel
 

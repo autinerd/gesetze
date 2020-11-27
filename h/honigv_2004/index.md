@@ -22,7 +22,6 @@ Mit dieser Verordnung wird die Richtlinie 2001/110/EG des Rates vom
 20\. Dezember 2001 über Honig (ABl. EG 2002 Nr. L 10 S. 47) in
 deutsches Recht umgesetzt.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -41,22 +40,16 @@ Landwirtschaft verordnet auf Grund
 -   des § 44 Abs. 1 Nr. 2 des Lebensmittel- und
     Bedarfsgegenständegesetzes:
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
 Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel
 gewerbsmäßig in den Verkehr gebracht zu werden.
 
-
 ## § 2 Anforderungen an die Beschaffenheit
 
 Honig muss hinsichtlich seiner Beschaffenheit den Anforderungen nach
 Anlage 2 entsprechen.
-
 
 ## § 3 Kennzeichnung
 
@@ -130,7 +123,6 @@ Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie
 Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb
 ihrer Betriebsstätte beziehen, gleich.
 
-
 ## § 4 Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
@@ -148,14 +140,9 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
     4, auch in Verbindung mit Abs. 5 Satz 1, oder Abs. 6 vorgeschriebenen
     Angabe versehen sind.
 
-
-
-
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
 
@@ -172,7 +159,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 4 Nr. 3 ein Erzeugnis in den Verkehr
 bringt.
 
-
 ## § 7 Übergangsregelung
 
 Bis zum 31. Juli 2004 dürfen Erzeugnisse nach den bis zum 28. Januar
@@ -180,11 +166,9 @@ Bis zum 31. Juli 2004 dürfen Erzeugnisse nach den bis zum 28. Januar
 Nach Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis
 zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
 ## § 8
 
 -
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 
@@ -192,11 +176,9 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu den §§ 1, 3 und 4) Begriffsbestimmungen, Verkehrsbezeichnungen
 
@@ -297,10 +279,6 @@ folgende Honigarten unterschieden:
 
     *   Honig, der für industrielle Zwecke oder als Zutat für andere
         Lebensmittel, die anschließend verarbeitet werden, geeignet ist
-
-
-
-
 
 ## Anlage 2 (zu den §§ 2 und 4) Anforderungen an die Beschaffenheit
 

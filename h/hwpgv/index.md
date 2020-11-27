@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Änderungsvorschrift v. 22.3.1991 I 766
 
-
 ## § 1 Grundsätze
 
 (1) Produktionsgenossenschaften des Handwerks (nachfolgend PGH
@@ -29,10 +28,7 @@ arbeiten auf der Grundlage des genossenschaftlichen Eigentums.
 (2) PGH sind juristisch selbständig und haften für ihre
 Verbindlichkeiten mit ihrem gesamten Vermögen.
 
-
 ## - - Gründung
-
-
 
 ### § 2
 
@@ -63,17 +59,13 @@ werden.
 (4) Die PGH erlangt ihre Rechtsfähigkeit mit der Registrierung beim
 zuständigen Registerorgan.
 
-
 ### § 3
 
 Für die Gründung und Tätigkeit der PGH findet im übrigen das "Gesetz
 betreffend die Erwerbs- und Wirtschaftsgenossenschaften" Anwendung,
 soweit diese Verordnung keine abweichenden Regelungen enthält.
 
-
 ## - - Umwandlung
-
-
 
 ### § 4
 
@@ -113,7 +105,6 @@ Deutscher Mark beizufügen.
 Genossenschaft bedarf die Umwandlungserklärung keiner notariellen
 Beglaubigung.
 
-
 ### § 5
 
 (1) PGH-Mitglieder, die in die neue Gesellschaftsform als
@@ -139,7 +130,6 @@ aber weiterhin zusammen auf genossenschaftlicher Grundlage arbeiten
 wollen, erhalten ihren Anteil an den unteilbaren Fonds zu den gleichen
 Bedingungen wie unter Abs. 1.
 
-
 ### § 6 Wirksamwerden der Umwandlung, Rechtsfolge, Erlöschen
 
 (1) Die Umwandlung wird mit der Eintragung der Gesellschaft in das
@@ -152,7 +142,6 @@ ausgestellte Bestätigung über die Umwandlung.
 
 (2) Abweichende Vereinbarungen über die Rechtsnachfolge im Falle der
 Teilung der PGH entsprechend § 5 Abs. 4 sind zulässig.
-
 
 ### § 6a
 
@@ -190,10 +179,6 @@ ist das Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften
     Wirtschaftsprüfungsgesellschaft durchzuführen. Der Prüfer ist vom
     Vorstand der Genossenschaft zu bestellen.
 
-
-
-
-
 ### § 7 Auflösung
 
 (1) Die Auflösung der PGH erfolgt entsprechend den Bestimmungen des
@@ -209,7 +194,6 @@ Abschlußbilanz gemäß § 4 Abs. 4.
 Fonds unterliegen der Besteuerung nach den geltenden
 Rechtsvorschriften.
 
-
 ### § 8 Beschlußfassung
 
 (1) Alle Beschlüsse der Mitgliederversammlung der PGH im Sinne dieser
@@ -218,17 +202,13 @@ Verordnung sind mit 2/3-Mehrheit zu fassen.
 (2) Die Mitgliederversammlung ist beschlußfähig, wenn mindestens 3/4
 aller Mitglieder anwesend sind.
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 9
 
 Für Einkaufs- und Liefergenossenschaften des Handwerks sowie
 Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks
 gelten die Bestimmungen dieser Verordnung entsprechend.
-
 
 ### § 9a
 
@@ -248,7 +228,6 @@ Liefergenossenschaften und ihrer Mitglieder mit Ausnahme des
 Arbeitsrechtsverhältnisses nach ihrem bei Inkrafttreten dieser
 Verordnung geltenden Statut und seinen Änderungen, soweit die §§ 4 bis
 8 keine abweichenden Regelungen enthalten.
-
 
 ### § 10
 
@@ -296,14 +275,9 @@ Gleichzeitig treten außer Kraft:
     Musterstatut der Einkaufs- und Liefergenossenschaften des Handwerks
     (Sonderdruck Nr. 1265 des Gesetzblattes).
 
-
-
-
-
 ### Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1201)
 

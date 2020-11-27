@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3773
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## Art 2 - Aufhebung der Verringerungen der Gesamtvergütungen
 
@@ -35,10 +30,7 @@ Sozialgesetzbuch in der bis zum Inkrafttreten dieses Gesetzes
 geltenden Fassung entfallen für den Zeitraum vor Inkrafttreten dieses
 Gesetzes.
 
-
 ## Art 3
-
-
 
 ## § 1 Übergangsregelung für die Arznei- und Heilmittelvereinbarungen für das Jahr 2002
 
@@ -58,7 +50,6 @@ Kassenärztliche Bundesvereinigung und die Spitzenverbände der
 Krankenkassen bis zum 31. Januar 2002.
 
 (2) Absatz 1 gilt entsprechend für die Heilmittelvereinbarung.
-
 
 ## § 2 Übergangsregelung für die Prüfungen ärztlich verordneter Leistungen nach § 106 Abs. 2 Nr. 1 des Fünften Buches Sozialgesetzbuch in den Jahren 2002 und 2003
 
@@ -83,7 +74,6 @@ Erstattungsansprüchen der Krankenkassen, verringert sich der
 Erstattungsbetrag im Rahmen der Prüfung nach Richtgrößen um den im
 Rahmen der Prüfung nach Durchschnittswerten festgesetzten Betrag.
 
-
 ## Art 3a - Festsetzung des Vertragsinhalts durch das Schiedsamt
 
 Kommen die Vereinbarungen nach § 84 Abs. 1 und 6 des Fünften Buches
@@ -98,7 +88,6 @@ Fristen ganz oder teilweise nicht zustande, setzt das von den
 Vertragsparteien gebildete Schiedsamt (§ 89 Abs. 1 und 4 des Fünften
 Buches Sozialgesetzbuch) den Vertragsinhalt innerhalb eines Zeitraums
 von einem Monat nach Fristablauf fest.
-
 
 ## Art 4 - Inkrafttreten
 

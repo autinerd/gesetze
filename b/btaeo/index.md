@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 22 G v. 6.12.2011 I 2515
 
-
 ## § 1
 
 (1) Der Tierarzt ist berufen, Leiden und Krankheiten der Tiere zu
@@ -34,7 +33,6 @@ hinzuwirken.
 
 (2) Der tierärztliche Beruf ist kein Gewerbe; er ist seiner Natur nach
 ein freier Beruf.
-
 
 ## § 2
 
@@ -62,13 +60,11 @@ Sie unterliegen jedoch der Meldepflicht nach diesem Gesetz.
 im Inland nicht niedergelassene Tierärzte gelten die hierfür
 abgeschlossenen zwischenstaatlichen Verträge.
 
-
 ## § 3
 
 Die Berufsbezeichnung "Tierarzt" oder "Tierärztin" darf nur führen,
 wer als Tierarzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur
 vorübergehenden Ausübung des tierärztlichen Berufs befugt ist.
-
 
 ## § 4
 
@@ -398,7 +394,6 @@ verlangen, dass der Antragsteller die Mindestanforderungen der
 Ausbildung erfüllt, die in Artikel 38 der Richtlinie 2005/36/EG
 verlangt werden.
 
-
 ## § 5
 
 (1) Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -438,7 +433,6 @@ Absatz 2 sowie zur Erteilung und Verlängerung der Berufserlaubnis nach
 erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## § 6
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die
@@ -448,7 +442,6 @@ oder die nach § 15a nachzuweisende Ausbildung nicht abgeschlossen war.
 
 (2) Die Approbation ist zu widerrufen, wenn nachträglich eine der
 Voraussetzungen nach § 4 Abs. 1 Nr. 2 weggefallen ist.
-
 
 ## § 7
 
@@ -461,7 +454,6 @@ Ausbildungsstandes nicht gegeben war.
 
 (2) Die Approbation kann widerrufen werden, wenn nachträglich eine der
 Voraussetzungen nach § 4 Abs. 1 Nr. 3 weggefallen ist.
-
 
 ## § 8
 
@@ -499,11 +491,9 @@ Beruf nicht ausüben.
 Tierarztes, dessen Approbation ruht, für einen von ihr zu bestimmenden
 Zeitraum durch einen anderen Tierarzt weitergeführt werden kann.
 
-
 ## § 9
 
 -
-
 
 ## § 9a
 
@@ -521,13 +511,11 @@ kann auf bestimmte Tätigkeiten und Beschäftigungsstellen beschränkt
 werden. Personen, denen die Erlaubnis erteilt worden ist, haben im
 übrigen die Rechte und Pflichten eines Tierarztes.
 
-
 ## § 10
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
 Bedingung erklärt wird, ist unwirksam.
-
 
 ## § 11
 
@@ -632,7 +620,6 @@ auf Erlaubnisse nach den Sätzen 2 bis 4 entsprechende Anwendung.
 (4) Personen, denen eine Erlaubnis zur vorübergehenden Ausübung des
 tierärztlichen Berufs erteilt worden ist, haben im übrigen die Rechte
 und Pflichten eines Tierarztes
-
 
 ## § 11a
 
@@ -757,10 +744,6 @@ Bescheinigungen darüber auszustellen, dass er
 
 3.  er über den erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-
-
-
 ## § 12
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -787,7 +770,6 @@ berücksichtigen.
 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1
 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1093) ist
 nicht mehr anzuwenden.
-
 
 ## § 13
 
@@ -849,13 +831,11 @@ Anhang VII Nummer 1 Buchstabe d der Richtlinie 2005/36/EG an die
 zuständigen Behörden des Aufnahmemitgliedstaats zu übermitteln haben,
 hat dies binnen zwei Monaten zu erfolgen.
 
-
 ## § 14
 
 Wer den tierärztlichen Beruf ausübt, solange durch vollziehbare
 Verfügung das Ruhen der Approbation angeordnet ist, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 15
 
@@ -901,7 +881,6 @@ der Veterinärmedizin durch die bestandene Tierärztliche Prüfung nach §
 Veterinärmedizin nach dem Wirksamwerden des Beitritts aufnehmen,
 gelten die Vorschriften der Approbationsordnung für Tierärzte vom
 Beginn dieses Studiums an.
-
 
 ## § 15a
 
@@ -980,7 +959,6 @@ ist, dass der Antragsteller in den sieben Jahren vor Ausstellung der
 Bescheinigung mindestens fünf Jahre ununterbrochen tatsächlich und
 rechtmäßig den tierärztlichen Beruf in Estland ausgeübt hat.
 
-
 ## § 16
 
 Die Vorschriften dieses Gesetzes gelten mit Ausnahme des § 2 Absatz 3,
@@ -1003,12 +981,10 @@ Bei Antragstellern nach Nummer 2 ist an Stelle des in § 4 Absatz 6
 Nummer 1 genannten Staatsangehörigkeitsnachweises ein
 Identitätsnachweis vorzulegen.
 
-
 ## § 16a
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 keine Anwendung.
-
 
 ## Anlage (zu § 4 Abs. 1a Satz 1, 2 und 3) Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 

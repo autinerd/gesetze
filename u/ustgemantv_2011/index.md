@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1951
 
-
 ## Eingangsformel
 
 Auf Grund des § 5c Absatz 2 Satz 1 und des § 5e des
@@ -26,7 +25,6 @@ März 2009 (BGBl. I S. 502) und des § 17 Absatz 2 in Verbindung mit
 Absatz 1 des Finanzausgleichsgesetzes, dessen Absatz 1 durch Artikel 2
 Absatz 2 des Gesetzes vom 31. Juli 2008 (BGBl. I S. 1626) geändert
 worden ist, verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -113,10 +111,6 @@ nach folgenden Schlüsselzahlen:
 
     *   0,020565305.
 
-
-
-
-
 ## § 2
 
 (1) Für die der Ermittlung der Schlüsselzahlen nach § 5b Absatz 2 Satz
@@ -177,7 +171,6 @@ hinsichtlich der Merkmale nach § 5b Absatz 2 Satz 2 Nummer 2 und 3 des
 Gemeindefinanzreformgesetzes offensichtlich fehlerhafte Angaben vor,
 ist es zulässig, dass das Statistische Bundesamt die Angaben in
 Abstimmung mit der Bundesagentur für Arbeit schätzt.
-
 
 ## § 3
 
@@ -258,7 +251,6 @@ herangezogen. Liegen für eine Gemeinde in allen Berichtsjahren
 Gewerbesteuer-Hebesätze von null vor, liegt der gewogene
 durchschnittliche örtliche Gewerbesteuer-Hebesatz ebenfalls bei null.
 
-
 ## § 4
 
 (1) Die Schlüsselzahlen nach § 5a des Gemeindefinanzreformgesetzes
@@ -269,7 +261,6 @@ Gemeinden aufgeteilt.
 (2) Die Merkmale nach § 5b Absatz 2 Satz 2 des
 Gemeindefinanzreformgesetzes werden bei Gebietsstandsänderungen im
 Verhältnis der Einwohnerzahl auf die betroffenen Gemeinden aufgeteilt.
-
 
 ## § 5
 
@@ -288,7 +279,6 @@ den Bundessummen abgeleiteten Schlüsselzahlen der betroffenen
 Gemeinden dem Land zuzurechnen, in das die Gemeinden umgegliedert
 wurden. § 1 ist entsprechend anzupassen.
 
-
 ## § 6
 
 (1) Die Schlüsselzahlen sind auf die neunte Stelle nach dem Komma zu
@@ -302,7 +292,6 @@ der Länderschlüsselzahlen vom Wert eins ab, wird die Schlüsselzahl des
 Landes, auf das der größte Anteil entfällt, so geändert, dass die
 Bundessumme der Länderschlüsselzahlen den Wert eins ergibt.
 
-
 ## § 7
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
@@ -312,7 +301,6 @@ Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils
 am Aufkommen der Umsatzsteuer nach § 5c des
 Gemeindefinanzreformgesetzes vom 25. September 2008 (BGBl. I S. 1928)
 außer Kraft.
-
 
 ## Schlussformel
 

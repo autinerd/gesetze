@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 114 G v. 22.12.2011 I 3044
 
-
 ## Teil 1 - Geltungsbereich
-
-
 
 ### § 1 Erfasste Unternehmen
 
@@ -95,7 +92,6 @@ Zusammensetzung des Aufsichtsrats sowie über die Wahl und die
 Abberufung von Aufsichtsratsmitgliedern gelten insoweit nicht, als sie
 den Vorschriften dieses Gesetzes widersprechen.
 
-
 ### § 2 Konzern
 
 (1) An der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer des
@@ -110,7 +106,6 @@ Konzernunternehmens als solche des herrschenden Unternehmens, wenn
 zwischen den Unternehmen ein Beherrschungsvertrag besteht oder das
 abhängige Unternehmen in das herrschende Unternehmen eingegliedert
 ist.
-
 
 ### § 3 Arbeitnehmer, Betrieb
 
@@ -130,10 +125,7 @@ Bundesflagge führen. Schiffe, die in der Regel binnen 48 Stunden nach
 dem Auslaufen an den Sitz eines Landbetriebs zurückkehren, gelten als
 Teil dieses Landbetriebs.
 
-
 ## Teil 2 - Aufsichtsrat
-
-
 
 ### § 4 Zusammensetzung
 
@@ -162,7 +154,6 @@ des § 8 Abs. 1 des Betriebsverfassungsgesetzes müssen erfüllt sein.
 und Männer entsprechend ihrem zahlenmäßigen Verhältnis im Unternehmen
 vertreten sein.
 
-
 ### § 5 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer werden nach den
@@ -175,14 +166,12 @@ Aufsichtsratsmitglieder bestimmt ist.
 Lebensjahr vollendet haben. § 7 Satz 2 des Betriebsverfassungsgesetzes
 gilt entsprechend.
 
-
 ### § 6 Wahlvorschläge
 
 Die Wahl erfolgt auf Grund von Wahlvorschlägen der Betriebsräte und
 der Arbeitnehmer. Die Wahlvorschläge der Arbeitnehmer müssen von
 mindestens einem Zehntel der Wahlberechtigten oder von mindestens 100
 Wahlberechtigten unterzeichnet sein.
-
 
 ### § 7 Ersatzmitglieder
 
@@ -192,7 +181,6 @@ Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch
 das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
-
 
 ### § 8 Bekanntmachung der Mitglieder des Aufsichtsrats
 
@@ -205,14 +193,12 @@ Arbeitnehmer eines anderen Unternehmens teil, so ist daneben das zur
 gesetzlichen Vertretung des anderen Unternehmens befugte Organ zur
 Bekanntmachung in seinen Betrieben verpflichtet.
 
-
 ### § 9 Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
 
 Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer
 Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer
 Tätigkeit im Aufsichtsrat nicht benachteiligt oder begünstigt werden.
 Dies gilt auch für ihre berufliche Entwicklung.
-
 
 ### § 10 Wahlschutz und Wahlkosten
 
@@ -228,7 +214,6 @@ beeinflussen.
 Arbeitszeit, die zur Ausübung des Wahlrechts oder der Betätigung im
 Wahlvorstand erforderlich ist, berechtigt nicht zur Minderung des
 Arbeitsentgelts.
-
 
 ### § 11 Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
 
@@ -254,7 +239,6 @@ nicht geändert oder beeinflusst werden konnte.
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der
 Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
-
 ### § 12 Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der
@@ -268,10 +252,7 @@ drei Vierteln der abgegebenen Stimmen. Auf die Beschlussfassung findet
 (2) Absatz 1 ist für die Abberufung von Ersatzmitgliedern entsprechend
 anzuwenden.
 
-
 ## Teil 3 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 13 Ermächtigung zum Erlass von Rechtsverordnungen
 
@@ -311,17 +292,12 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 9.  die Aufbewahrung der Wahlakten.
 
-
-
-
-
 ### § 14 Verweisungen
 
 Soweit in anderen Gesetzen auf Vorschriften verwiesen wird, die durch
 Artikel 6 Abs. 2 des Zweiten Gesetzes zur Vereinfachung der Wahl der
 Arbeitnehmervertreter in den Aufsichtsrat aufgehoben werden, treten an
 ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
-
 
 ### § 15 Übergangsregelung
 

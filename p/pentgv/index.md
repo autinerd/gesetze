@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2386
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 4 des Postgesetzes vom 22. Dezember 1997
 (BGBl. I S. 3294) verordnet die Bundesregierung:
-
 
 ## § 1 Arten und Verfahren der Entgeltgenehmigung
 
@@ -38,10 +35,7 @@ Regulierungsbehörde Dienstleistungen nur insoweit in einem Korb
 zusammenfassen, als sich die erwartete Stärke des Wettbewerbs bei
 diesen Dienstleistungen nicht wesentlich unterscheidet.
 
-
 ## Abschnitt 1 - Genehmigung auf der Grundlage des § 21 Abs. 1 Nr. 1 des Gesetzes
-
-
 
 ### § 2 Umfang der Kostennachweise
 
@@ -117,7 +111,6 @@ außerdem darzulegen:
 das Unternehmen die in den Absätzen 1 und 2 genannten Unterlagen nicht
 vollständig vorlegt.
 
-
 ### § 3 Maßstäbe zur Ermittlung genehmigungsfähiger Entgelte
 
 (1) Die Regulierungsbehörde hat die vom beantragenden Unternehmen
@@ -164,10 +157,7 @@ Entgeltbefreiungen auch aus sozialen Gründen als sachlich
 gerechtfertigten Grund im Sinne des § 20 Abs. 2 des Gesetzes
 anerkennen.
 
-
 ## Abschnitt 2 - Genehmigungen auf der Grundlage des § 21 Abs. 1 Nr. 2 des Gesetzes
-
-
 
 ### § 4 Bildung von Maßgrößen
 
@@ -212,7 +202,6 @@ Dienstleistungen durchgeführt werden können.
 dem betroffenen Unternehmen anordnen, ihr die in § 2 Abs. 1 und 2
 genannten Nachweise zur Verfügung zu stellen.
 
-
 ### § 5 Genehmigungsvoraussetzungen für Entgelte
 
 (1) Mit einem Entgeltantrag nach § 21 Abs. 1 Nr. 2 des Gesetzes hat
@@ -232,10 +221,7 @@ soll die Regulierungsbehörde die Genehmigung für einen Entgeltantrag
 im Rahmen der Entgeltgenehmigung nach § 21 Abs. 1 Nr. 2 des Gesetzes
 innerhalb von zwei Wochen erteilen.
 
-
 ## Abschnitt 3 - Sonstige Bestimmungen
-
-
 
 ### § 6 Nachträgliche Überprüfung von Entgelten
 
@@ -247,7 +233,6 @@ Nachweise vorzulegen.
 (2) Die Regulierungsbehörde stellt den Zeitpunkt der Einleitung der
 Überprüfung fest und teilt dies dem betroffenen Unternehmen nach § 24
 Abs. 1 Satz 2 und § 25 Abs. 1 Satz 2 des Gesetzes mit.
-
 
 ### § 7 Entgelte für das Angebot von Teilleistungen und Leistungen nach § 29 des Gesetzes
 
@@ -267,7 +252,6 @@ Leistungsangebote nach den §§ 28 und 29 des Gesetzes dürfen nicht mit
 anderen Dienstleistungen in einem Korb zusammengefasst werden. § 3
 gilt entsprechend.
 
-
 ### § 8 Beteiligungsrechte
 
 (1) Die Regulierungsbehörde veröffentlicht beabsichtigte
@@ -281,13 +265,11 @@ Stellungnahme geben.
 veröffentlicht die Regulierungsbehörde die beantragten Entgelte in
 ihrem Amtsblatt.
 
-
 ### § 9 Veröffentlichung
 
 Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt nach § 22
 Abs. 4 des Gesetzes die genehmigten Entgelte sowie die dazugehörigen
 Leistungsbeschreibungen und die Bestimmung über die Leistungsentgelte.
-
 
 ### § 10 Inkrafttreten
 

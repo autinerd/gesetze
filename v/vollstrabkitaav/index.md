@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 27.7.2001 I 1887
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not von
@@ -29,10 +28,7 @@ und Vollstreckung gerichtlicher Entscheidungen in Zivil- und
 Handelssachen vom 9. März 1936 (Reichsgesetzbl. 1937 II S. 145)
 folgendes verordnet:
 
-
 ## I. - Entscheidungen und Vergleiche
-
-
 
 ### Art 1
 
@@ -43,7 +39,6 @@ ist das Amtsgericht zuständig, bei dem der Verpflichtete seinen
 allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das
 Amtsgericht, in dessen Bezirk sich Vermögen des Verpflichteten
 befindet oder die Vollstreckungshandlung vorzunehmen ist.
-
 
 ### Art 2
 
@@ -62,7 +57,6 @@ sind entsprechend anzuwenden.
 
 (5) (weggefallen)
 
-
 ### Art 3
 
 Hängt die Vollstreckung der Entscheidung oder des Vergleichs nach
@@ -80,7 +74,6 @@ sind, durch öffentliche oder öffentlich beglaubigte Urkunden zu
 führen. Kann ein solcher Nachweis nicht erbracht werden, so ist
 mündliche Verhandlung anzuordnen.
 
-
 ### Art 4
 
 Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen
@@ -92,20 +85,15 @@ hierdurch nicht gehindert, solche Einwendungen in dem in den §§ 767,
 732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend zu
 machen.
 
-
 ### Art 5
 
 -
-
 
 ### Art 6
 
 -
 
-
 ## II. - Schiedssprüche
-
-
 
 ### Art 7
 
@@ -114,17 +102,13 @@ erteilt die Geschäftsstelle des Gerichts, das für die Entscheidung
 über Anträge betreffend die Vollstreckbarerklärung des Schiedsspruchs
 zuständig ist.
 
-
 ## III. - Inkrafttreten
-
-
 
 ### Art 8
 
 Die Verordnung tritt gleichzeitig mit dem deutsch-italienischen
 Abkommen über die Anerkennung und Vollstreckung gerichtlicher
 Entscheidungen in Zivil- und Handelssachen in Kraft.
-
 
 ### Schlußformel
 

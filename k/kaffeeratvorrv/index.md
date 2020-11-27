@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1974, 89
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -30,7 +28,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen
 vom 28. Februar 1964 (Bundesgesetzbl. II S. 187), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Für die Gewährung von Vorrechten und Befreiungen an die Internationale
@@ -39,7 +36,6 @@ Kaffe-Organisation gilt das Internationale Kaffee-Übereinkommen 1968
 264 des Internationalen Kaffee-Rates vom 14. April 1973 zur
 Verlängerung des Internationalen Kaffee-Übereinkommens 1968. Die
 Entschließung wird nachstehend veröffentlicht.
-
 
 ## § 2
 
@@ -51,7 +47,6 @@ Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
 über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen, zuletzt geändert durch das Gesetz
 vom 28. Februar 1964, auch im Land Berlin.
-
 
 ## § 3
 

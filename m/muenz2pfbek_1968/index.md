@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 1316
 
-
-
 ## (XXXX)
 
 (1) Der Absatz 2 der Bekanntmachung über die Ausprägung von

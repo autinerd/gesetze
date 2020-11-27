@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 3133
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes vom 15.
@@ -25,7 +23,6 @@ des Gesetzes zur Änderung des Einführungsgesetzes zum Strafgesetzbuch
 vom 15. August 1974 (Bundesgesetzbl. I S. 1942), wird von der
 Bundesregierung nach Anhörung der beteiligten Kreise mit Zustimmung
 des Bundesrates verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -37,7 +34,6 @@ zugehörigen Förder- und Lagereinrichtungen für Späne und Stäube. Sie
 gilt nicht für Anlagen, die einer Genehmigung nach § 4 des Bundes-
 Immissionsschutzgesetzes bedürfen.
 
-
 ## § 2 Ausrüstung
 
 Anlagen im Sinne des § 1 sind bei ihrer Errichtung mit
@@ -47,7 +43,6 @@ Emissionswertes nach § 4 ausschließen. Satz 1 gilt nicht, wenn ein
 Betriebsweisen, insbesondere durch Verarbeitung von waldfrischem Holz,
 durch Naßschleifen oder durch Einsatz mechanischer Fördereinrichtungen
 bei jedem Betriebszustand ausgeschlossen wird.
-
 
 ## § 3 Lagerung
 
@@ -62,7 +57,6 @@ durchzuführen.
 so zu entleeren, daß Emissionen an Holzstaub oder Spänen soweit wie
 möglich vermieden werden, z.B. durch Abfüllen in geschlossene Behälter
 oder durch Befeuchten an der Austragsstelle.
-
 
 ## § 4 Emissionswert
 
@@ -96,13 +90,11 @@ Zusammenhang betrieben, ist bei der Festlegung der zulässigen
 Massenkonzentration dieser Anlagen die Summe aller Volumenströme
 zugrunde zu legen.
 
-
 ## § 5 Weitergehende Anforderungen
 
 Die Befugnis der zuständigen Behörden, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
 treffen, bleibt unberührt.
-
 
 ## § 6 Zulassung von Ausnahmen
 
@@ -110,7 +102,6 @@ Die zuständige Behörde kann auf Antrag Ausnahmen von den Vorschriften
 der Verordnung zulassen, soweit unter Berücksichtigung der besonderen
 Umstände des Einzelfalles schädliche Umwelteinwirkungen nicht zu
 befürchten sind oder Gründe des Arbeitsschutzes dies erfordern.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -132,21 +123,15 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     oder § 8                    eine Anlage so betreibt, daß die zulässige
     Massenkonzentration an Staub in der Abluft überschritten wird.
 
-
-
-
-
 ## § 8
 
 -
-
 
 ## § 9 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 73 Satz 2
 des Bundes-Immissionsschutzgesetzes auch im Land Berlin.
-
 
 ## § 10 Inkrafttreten
 

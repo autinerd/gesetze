@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 658
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -81,7 +79,6 @@ eingeprägt.
 
 (10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

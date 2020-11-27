@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2462
 
-
-
 ## (XXXX)
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
@@ -46,14 +44,12 @@ März 1997 (BGBl. I S. 551).
 
 Bundesministerium der Justiz
 
-
 ## Anlage 1
 
 (Fundstelle: BGBl. I 1997, 2462)
 
 Emblem der Eurasischen Patentorganisation
 ... (nicht darstellbare Abbildung)
-
 
 ## Anlage 2
 
@@ -111,10 +107,6 @@ Organizacion mundial de sanidad animal - spanisch -
 
 *    *   ... (nicht darstellbare Abbildung)
 
-
-
-
-
 ## Anlage 3
 
 (Fundstelle: BGBl. I 1997, 2464)
@@ -151,10 +143,6 @@ Programa Conjunto de las Naciones Unidas sobre el VIH/SIDA - spanisch
 
 
 *    *   ... (nicht darstellbares Emblem)
-
-
-
-
 
 ## Anlage 4
 

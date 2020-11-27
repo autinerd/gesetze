@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 9.8.2012 I 1710
 
-
 ## § 1 Begriffsbestimmung
 
 Kontaminanten im Sinne dieser Verordnung sind Kontaminanten im Sinne
@@ -26,7 +25,6 @@ des Artikels 1 Absatz 1 Unterabsatz 2 der Verordnung (EWG) Nr. 315/93
 des Rates vom 8. Februar 1993 zur Festlegung von gemeinschaftlichen
 Verfahren zur Kontrolle von Kontaminanten in Lebensmitteln (ABl. L 37
 vom 13.2.1993, S. 1) in der jeweils geltenden Fassung.
-
 
 ## § 2 Höchstgehalte
 
@@ -71,7 +69,6 @@ Grund des Trocknungsprozesses eingetretenen Konzentration oder der auf
 Grund des Verarbeitungsprozesses eingetretenen Konzentration oder
 Verdünnung, soweit in der Anlage nichts Abweichendes geregelt ist.
 
-
 ## § 3 Behandlung von Lebensmitteln mit überhöhten Mykotoxingehalten
 
 (1) Das Verbot des § 2 Absatz 1 gilt in Fällen unvermischter
@@ -99,7 +96,6 @@ vornehmen.
 Lebensmittel, deren Mykotoxingehalt die dort für sie jeweils
 festgesetzten Höchstgehalte überschreitet, durch chemische Behandlung
 zu entgiften.
-
 
 ## § 4 Lagerung und Aufbewahrung sowie Kenntlichmachung von Lebensmitteln mit überhöhten Mykotoxingehalten
 
@@ -130,7 +126,6 @@ ausschließender Weise anzubringen. Im Falle der Abgabe an Betriebe im
 Sinne des § 3 Absatz 1 müssen die Angaben zusätzlich in den
 Begleitpapieren vermerkt werden.
 
-
 ## § 5 Probenahme und Analyse bei der amtlichen Kontrolle von Lebensmitteln auf Mykotoxine und Nitrat
 
 (1) Bei der amtlichen Kontrolle des Mykotoxingehalts der in Abschnitt
@@ -157,7 +152,6 @@ Dezember 2006 zur Festlegung der Probenahmeverfahren und
 Analysemethoden für die amtliche Kontrolle des Nitratgehalts von
 bestimmten Lebensmitteln (ABl. L 364 vom 20.12.2006, S. 25) aufgeführt
 sind.
-
 
 ## § 6 Straftaten
 
@@ -232,13 +226,11 @@ Verordnung (EG) Nr. 1881/2006 bezeichnete Handlung begeht, sofern
 festgestellte Verunreinigungen auf Einwirkungen der Luft, des Wassers
 oder des Bodens beruhen.
 
-
 ## § 7 Ordnungswidrigkeiten
 
 Wer eine in § 6 Absatz 4, 5 oder 6 bezeichnete Handlung fahrlässig
 begeht, handelt nach § 60 Absatz 1 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
-
 
 ## Anlage (zu § 2, § 3, § 4 Absatz 1 und 2 Satz 1 und § 5)
 
@@ -350,8 +342,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8,0
 
-
-
 ## Abschnitt 2
 
 ## Nitrat
@@ -368,8 +358,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *[^F772998_04_BJNR028700010BJNE000801140]
    250
-
-
 
 ## Abschnitt 3
 
@@ -402,8 +390,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   0,1
 
     *   0,2
-
-
 
 ## Abschnitt 4
 

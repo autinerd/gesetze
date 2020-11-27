@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 1.10.2010 I 1306
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -197,7 +194,6 @@ Nr. 4, 5 und 6 jeweils in Verbindung mit Artikel 2 Abs. 2 Nr. 1 der
 Verordnung (EG) Nr. 1924/2006 vom 20. Dezember 2006 über nährwert- und
 gesundheitsbezogene Angaben über Lebensmittel (ABl. EU Nr. L 12 S. 3).
 
-
 ### § 2
 
 (1) Im Verkehr mit oder in der Werbung für andere als diätetische
@@ -262,7 +258,6 @@ Alkoholgehalt von weniger als 15 Prozent dürfen weder als diätetische
 Lebensmittel noch mit einem Hinweis auf einen besonderen
 Ernährungszweck gewerbsmäßig in den Verkehr gebracht werden.
 
-
 ### § 3
 
 (1) Abweichend von § 12 Abs. 2 Satz 2 des Lebensmittel- und
@@ -323,10 +318,6 @@ werden.
     geeignet sind, die Aussage "zur besonderen Ernährung bei ... im Rahmen
     eines Diätplanes".
 
-
-
-
-
 ### § 4
 
 (1) Diätetische Lebensmittel, die zur Abgabe an den Verbraucher
@@ -341,7 +332,6 @@ gleich.
 (2) Abweichend von Absatz 1 Halbsatz 1 dürfen diätetische
 Fleischerzeugnisse sowie diätetischer Käse lose, auch im Anschnitt, an
 den Verbraucher abgegeben werden.
-
 
 ### § 4a
 
@@ -385,10 +375,7 @@ Lebensmittelsicherheit das Inverkehrbringen des Erzeugnisses als
 diätetisches Lebensmittel vorläufig untersagen oder mit Auflagen
 versehen.
 
-
 ## Zweiter Abschnitt - Zusatzstoffe und andere Stoffe zur Verwendung in diätetischen Lebensmitteln
-
-
 
 ### § 5
 
@@ -399,7 +386,6 @@ zugesetzt werden.
 (2) Die Verwendung von Trinkwasser, das nach der Trinkwasser-
 Aufbereitungs-Verordnung aufbereitet ist, gilt nicht als Zusatz von
 Zusatzstoffen im Sinne dieser Verordnung.
-
 
 ### § 6
 
@@ -412,7 +398,6 @@ Stoffe als geschmacksbeeinflussende Stoffe für Aromen zugelassen,
 sofern sie dazu bestimmt sind, einem technologischen Zweck zu dienen.
 Der Gehalt an diesen Zusatzstoffen darf die in Anlage 5 Nr. 2 der
 Aromenverordnung festgesetzten Höchstmengen nicht überschreiten.
-
 
 ### § 7
 
@@ -441,7 +426,6 @@ für diese Verwendungszwecke zugelassenen Zusatzstoffe gewerbsmäßig nur
 in den Verkehr gebracht werden, wenn die angegebenen Mindestmengen
 nicht unterschritten sind.
 
-
 ### § 7a
 
 Es ist verboten, bei der Herstellung diätetischer Lebensmittel,
@@ -454,7 +438,6 @@ diätetischen Zwecken zu verwenden. Sofern in Anlage 2 Spalte 2 die
 Verwendung eines Stoffes auf bestimmte diätetische Lebensmittel
 beschränkt wird, darf dieser Stoff nur in diesen diätetischen
 Lebensmitteln verwendet werden.
-
 
 ### § 7b
 
@@ -477,16 +460,13 @@ Zusatzstoff-Verkehrsverordnung aufgeführt sind, gelten die nach den
 allgemein anerkannten Regeln der Technik erreichbaren
 Reinheitsanforderungen.
 
-
 ### § 8 (weggefallen)
 
 -
 
-
 ### § 8a (weggefallen)
 
 -
-
 
 ### § 9
 
@@ -509,15 +489,11 @@ zugelassen, wenn sie mit mindestens einer der in der Anlage 3
 genannten nicht cholinhaltigen Verbindungen vermischt sind. Die
 Mischung darf nicht mehr als 3 Hundertteile Cholin enthalten.
 
-
 ### § 10 (weggefallen)
 
 -
 
-
 ## Dritter Abschnitt - Sondervorschriften für bestimmte Lebensmittel
-
-
 
 ### § 11
 
@@ -533,7 +509,6 @@ sollen, die erforderliche Sachkunde und Zuverlässigkeit besitzt und
 wenn der Betrieb mit den Einrichtungen ausgestattet ist, die zur
 sachgemäßen Herstellung dieser Lebensmittel, insbesondere zu richtiger
 Dosierung und gleichmäßiger Durchmischung, notwendig sind.
-
 
 ### § 11a
 
@@ -570,10 +545,7 @@ oder aus einem Drittland stammen und sich in einem Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum rechtmäßig im Verkehr befinden.
 
-
 ### § 12 (weggefallen)
-
-
 
 ### § 13
 
@@ -607,7 +579,6 @@ Quellensalz oder Meersalz hergestellt sind, dürfen als diätetische
 Lebensmittel nur in den Verkehr gebracht werden, wenn sie durch die
 Angabe "kein Kochsalzersatz" in Verbindung mit der Bezeichnung des
 Erzeugnisses gekennzeichnet sind.
-
 
 ### § 14
 
@@ -709,7 +680,6 @@ ferner folgenden Anforderungen entsprechen:
 
 (3) (weggefallen)
 
-
 ### § 14a
 
 (1) Lebensmittel für kalorienarme Ernährung zur Gewichtsverringerung
@@ -734,7 +704,6 @@ als Tagesration oder als Mahlzeit bestimmte Lebensmittel, die nach
 Verpflegung in Krankenhäusern oder vergleichbaren Einrichtungen unter
 ärztlicher Kontrolle verabfolgt werden, sofern die abweichende
 Zusammensetzung auf Grund medizinischer Indikation geboten ist.
-
 
 ### § 14b
 
@@ -773,7 +742,6 @@ ihrer Zusammensetzung, mit Ausnahme der in Anlage 6 genannten
 Nährstoffe, den Anforderungen für Säuglingsanfangs- und Folgenahrung
 nach Anlage 10 und 11 entsprechen, sofern die besondere
 Zweckbestimmung dem nicht entgegensteht.
-
 
 ### § 14c
 
@@ -872,7 +840,6 @@ gegebenenfalls durch entsprechende Studien, die unter Zugrundelegung
 von in Fachkreisen allgemein anerkannten Empfehlungen zur Konzeption
 und Durchführung solcher Studien durchgeführt worden sind.
 
-
 ### § 14d
 
 (1) Beikost darf gewerbsmäßig nur aus Zutaten hergestellt werden, die
@@ -903,34 +870,25 @@ hergestellt und in den Verkehr gebracht werden, wenn sie in ihrer
 Zusammensetzung außerdem den dort festgelegten Anforderungen und
 Beschränkungen entspricht.
 
-
 ### § 14e (weggefallen)
 
 -
-
 
 ### § 14f (weggefallen)
 
 -
 
-
 ## Vierter Abschnitt - Kenntlichmachung, Kennzeichnung und Werbung
 
-
-
 ### - - Kenntlichmachung von Zusatzstoffen
-
-
 
 #### § 15
 
 (weggefallen)
 
-
 #### § 16 (weggefallen)
 
 -
-
 
 #### § 17
 
@@ -959,7 +917,6 @@ ihrer Betriebsstätte beziehen, gleich.
 (3) Die Absätze 1 und 2 gelten nicht für die diätetischen
 Lebensmittel, die von den §§ 21, 21a, 22a oder 22b erfasst werden.
 
-
 #### § 18
 
 Bei diätetischen Lebensmitteln sind ferner folgende Angaben
@@ -978,13 +935,7 @@ anzubringen:
 4.  bei diätetischen Lebensmitteln, denen jodierter Kochsalzersatz
     zugesetzt worden ist, die Angabe "mit jodiertem Kochsalzersatz".
 
-
-
-
-
 ### - - Allgemeine Kennzeichnung
-
-
 
 #### § 19
 
@@ -1029,15 +980,11 @@ nach Satz 1 Nr. 3 und 4 zusätzlich auf eine Portion zu beziehen.
 (2) Der physiologische Brennwert ist gemäß § 2 Nr. 3 der Nährwert-
 Kennzeichnungsverordnung zu berechnen.
 
-
 ### - - Besondere Kennzeichnungen
-
-
 
 #### (XXXX) §§ 20 und 20a (weggefallen)
 
 -
-
 
 #### § 21
 
@@ -1136,7 +1083,6 @@ Lebensmitteln möglich ist.
 Verkehr gebracht werden, sofern diese für die sachgerechte
 Zubereitung, Verwendung und Lagerung des Lebensmittels nach Öffnen der
 Fertigpackung erforderlich ist.
-
 
 #### § 21a
 
@@ -1241,7 +1187,6 @@ geworben werden.
 
 (8) § 14a Abs. 4 ist entsprechend anzuwenden.
 
-
 #### § 22
 
 (1) Bei diätetischen Lebensmitteln für Säuglinge oder Kleinkinder muss
@@ -1270,7 +1215,6 @@ ist anzugeben
 2 und Absatz 2 Nr. 2 und 3 auch in den Angebotslisten, bei Abgabe im
 Reisegewerbe auch auf den Bestellformularen deutlich sichtbar und
 leicht lesbar angebracht sein.
-
 
 #### § 22a
 
@@ -1403,7 +1347,6 @@ Mineralstoffe enthalten sind, müssen diese Angaben als prozentualer
 Anteil an den in Anlage 16 genannten Referenzwerten, bezogen auf 100
 Milliliter des verzehrfertigen Erzeugnisses, erfolgen.
 
-
 #### § 22b
 
 (1) Beikost darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn
@@ -1457,7 +1400,6 @@ angegebenen Referenzwerte beträgt und der Gehalt je 100 Gramm oder 100
 Milliliter des an den Verbraucher abzugebenden Erzeugnisses und bei
 festgelegten Verzehreinheiten je Verzehreinheit angegeben ist.
 
-
 #### § 23
 
 (1) (weggefallen)
@@ -1474,10 +1416,6 @@ Kochsalzersatz ist zusätzlich anzugeben:
 2.  der Warnhinweis "bei Störungen des Kaliumhaushalts, insbesondere bei
     Niereninsuffizienz, nur nach ärztlicher Beratung verwenden".
 
-
-
-
-
 #### § 24
 
 Bei diätetischen Lebensmitteln für Natriumempfindliche ist bei
@@ -1490,13 +1428,7 @@ Verwendung von kaliumhaltigem Kochsalzersatz anzugeben:
 2.  der Warnhinweis "bei Störungen des Kaliumhaushalts, insbesondere bei
     Niereninsuffizienz, nur nach ärztlicher Beratung verwenden".
 
-
-
-
-
 ### - - Form der Kenntlichmachung und Kennzeichnung
-
-
 
 #### § 25
 
@@ -1545,7 +1477,6 @@ und Stelle abgegeben werden, genügen die Angaben nach § 17 Abs. 2
 sowie den §§ 18 und 19 Abs. 1. Hinsichtlich der Art und Weise der
 Kenntlichmachung gilt § 9 der Zusatzstoff-Zulassungsverordnung
 entsprechend.
-
 
 #### § 25a
 
@@ -1622,10 +1553,7 @@ Fall dürfen diese Gegenstände nicht mit Handelsmarken für
 Säuglingsanfangsnahrung oder Folgenahrung versehen sein. Die weiteren
 Anforderungen an die Verteilung richten sich nach Landesrecht.
 
-
 ## Fünfter Abschnitt - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 26
 
@@ -1858,10 +1786,7 @@ oder fahrlässig entgegen § 4 Abs. 1, § 14a Abs. 3 oder § 22a Abs. 2
 Nr. 1 Buchstabe c ein dort genanntes Lebensmittel gewerbsmäßig in den
 Verkehr bringt.
 
-
 ## Sechster Abschnitt - Schlussvorschriften
-
-
 
 ### § 27
 
@@ -1871,16 +1796,13 @@ Herstellung und das Inverkehrbringen von Lebensmitteln bleiben
 insoweit unberührt, als nicht die Vorschriften dieser Verordnung
 entgegenstehen.
 
-
 ### § 27a (weggefallen)
 
 -
 
-
 ### § 28 (weggefallen)
 
 -
-
 
 ### § 28
 
@@ -1905,21 +1827,17 @@ bis zum 9. Oktober 2012 in Verkehr gebracht werden. Nach Ablauf der
 diätetischen Lebensmittel für Diabetiker bis zu ihrem
 Mindesthaltbarkeitsdatum abverkauft werden.
 
-
 ### § 29
 
 (weggefallen)
-
 
 ### Anlage 1 (weggefallen)
 
 -
 
-
 ### Anlage 1a (weggefallen)
 
 -
-
 
 ### Anlage 2 (zu § 7 Abs. 1, §§ 7a und 7b) Zusatzstoffe und andere Stoffe, die diätetischen Lebensmitteln zu ernährungsphysiologischen oder diätetischen Zwecken zugesetzt werden dürfen
 
@@ -3385,13 +3303,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Die so gekennzeichneten Stoffe sind keine Zusatzstoffe.
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 9) Für diätetische Lebensmittel als Kochsalzersatz zugelassene Zusatzstoffe
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1184
@@ -3410,10 +3321,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1184
 
 
 4.  Kaliumguanylat und Kaliuminosinat.
-
-
-
-
 
 ### Anlage 4 (zu § 11a) Amtliche Bescheinigung für das Verbringen von jodiertem Kochsalzersatz, von anderen diätetischen Lebensmitteln mit einem Zusatz von Jodverbindungen oder von diätetischen Lebensmitteln, die zur Verwendung als bilanzierte Diät bestimmt sind
 
@@ -3466,11 +3373,9 @@ Vorschriften des § 14b Diätverordnung entspricht.
 -----
 \*) Nichtzutreffendes bitte streichen.
 
-
 ### Anlage 5 (weggefallen)
 
 -
-
 
 ### Anlage 6 (zu § 14b) Mindest- und Höchstmengen an Mineralstoffen, Spurenelementen und Vitaminen bei bilanzierten Diäten, bezogen auf das verzehrfertige Erzeugnis
 
@@ -4124,17 +4029,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         2)  Das Calcium/Phosphorverhältnis darf nicht weniger als 1,2 und nicht
             mehr als 2,0 betragen.
 
-
-
-
-
-
-
-
 ### Anlage 7 (weggefallen)
 
 -
-
 
 ### Anlage 8 (zu § 4a Abs. 1)
 
@@ -4185,10 +4082,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Lebensmittel für Personen, die unter einer Störung des
         Glucosestoffwechsel leiden (Diabetiker)
-
-
-
-
 
 ### Anlage 9 (zu § 7 Abs. 1 Nr. 2, § 7b Abs. 1 und 2, § 14c Abs. 1, § 14d Abs. 2, § 22b Abs. 3)
 
@@ -6535,11 +6428,9 @@ zubereitete Erzeugnis.
 
 -
 
-
 ### Anlage 14 (weggefallen)
 
 -
-
 
 ### Anlage 15 (zu § 22a Abs. 3 Nr. 2 Buchstabe b und c) Nährwert- und gesundheitsbezogene Angaben für Säuglingsanfangsnahrung und Voraussetzungen, die eine entsprechende Angabe rechtfertigen
 
@@ -6652,13 +6543,6 @@ zubereitete Erzeugnis.
         *   Die oral verabreichte Säuglingsanfangsnahrung sollte bei Tieren keine
             Sensibilisierung gegen die intakten Proteine, aus denen die
             Säuglingsanfangsnahrung hergestellt wird, hervorrufen.
-
-
-
-
-
-
-
 
 ### Anlage 16 (zu § 22a Absatz 4) Referenzwerte für die Nährwertkennzeichnung von Lebensmitteln, die für Säuglinge und Kleinkinder bestimmt sind
 
@@ -6845,9 +6729,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
     *   (mg)
 
     *   1,2
-
-
-
 
 ### Anlage 17 (zu § 14a Abs. 2, § 21a Abs. 4 Nr. 2, § 21a Abs. 6 Nr. 1) Wesentliche Bestandteile von Lebensmitteln für kalorienarme Ernährung
 
@@ -7110,10 +6991,6 @@ gebrauchsfertig gemacht werden.
 *    *   Mangan
 
     *   1 mg
-
-
-
-
 
 ### Anlage 18 (zu § 14d Abs. 3) Höchstmengen für Vitamine, Mineralstoffe und Spurenelemente, wenn sie Beikost zugesetzt werden
 
@@ -7410,7 +7287,6 @@ als in § 1 Abs. 3 Nr. 2 Buchstabe b genannter Getreidebeikost
 zugesetzt
 wird.
 
-
 ### Anlage 20 (zu § 14d Abs. 5, § 22b Abs. 2 Nr. 2) Grundzusammensetzung von anderer Beikost als Getreidebeikost
 
 ( Fundstelle des Originaltextes: BGBl. I 2005, 1208 - 1209;
@@ -7679,10 +7555,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1210
 
     *   0,4 mg
 
-
-
-
-
 ### Anlage 22 (zu § 14 Abs. 1 Nr. 1 Buchstabe b) Spezifische Rückstandshöchstgehalte für Schädlingsbekämpfungsmittel oder deren Metaboliten in Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder
 
 Fundstelle des Originaltextes: BGBl. I 2005, 1211
@@ -7718,10 +7590,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
         thioharnstoff)
 
     *   0,006
-
-
-
-
 
 ### Anlage 23 (zu § 14 Abs. 1 Nr. 1 Buchstabe c) Schädlingsbekämpfungsmittel, die bei landwirtschaftlichen Erzeugnissen, die zur Herstellung von Säuglingsanfangsnahrung, Folgenahrung, Getreidebeikost und anderer Beikost für Säuglinge und Kleinkinder bestimmt sind, als nicht angewendet gelten, wenn die speziellen Rückstandshöchstgehalte nicht überschritten werden
 
@@ -7782,9 +7650,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
 
     *   0,003
 
-
-
-
 ## Liste B
 
 *    *   Chemische Bezeichnung des Stoffes
@@ -7800,10 +7665,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 1211
 *    *   Endrin
 
     *   0,003
-
-
-
-
 
 ### Anlage 24 (zu § 14c Abs. 3) Spezifikation für Proteingehalt und -quelle sowie Proteinverarbeitung und -qualität bei der Herstellung von Säuglingsanfangsnahrung mit einem Proteingehalt von weniger als 0,56 g/100 kJ (2,25 g/100 kcal) auf Basis von Molkenproteinhydrolysaten aus Kuhmilchprotein
 

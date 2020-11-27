@@ -18,29 +18,24 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.11.2000 I 1495
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Satz 1 Nr. 2 des Bundesarchivgesetzes vom 6. Januar
 1988 (BGBl. I S. 62) verordnet das Bundesministerium des Innern:
-
 
 ## § 1 Geltungsbereich
 
 Für die Benutzung von Archivgut beim Bundesarchiv werden Kosten
 (Gebühren und Auslagen) nach dieser Verordnung erhoben.
 
-
 ## § 2 Kosten
 
 Die Kosten bestimmen sich nach dem anliegenden Kostenverzeichnis.
-
 
 ## § 3 Pflichten des Kostenschuldners
 
 Auf Verlangen des Bundesarchivs hat der Benutzer die für die
 Gebührenfestsetzung nötigen Angaben zu machen.
-
 
 ## § 4 Sachliche Gebührenfreiheit, Gebührenbefreiung
 
@@ -70,17 +65,14 @@ wissenschaftlichen Zwecken nach dem Gebührenverzeichnis
 (3) Auf die Gebühr nach Nummer 4.11 des Gebührenverzeichnisses kann
 das Bundesarchiv bei einer Auflage bis zu 500 Exemplaren verzichten.
 
-
 ## § 5 Allgemeine kostenrechtliche Bestimmungen
 
 Die Vorschriften des 3. Abschnitts des Verwaltungskostengesetzes
 gelten entsprechend.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 2) Kostenverzeichnis
 

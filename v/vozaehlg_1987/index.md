@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 2078
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Art und Stichtag der Erhebung
 
@@ -46,7 +43,6 @@ Zählungsstichtag begonnen werden.
 Ergebnisse sind mit einem Auswahlsatz bis zu 0,2 vom Hundert der
 Befragten bei den Erhebungsmerkmalen nach § 5 Nr. 1, 3 und 5 zulässig.
 
-
 ## § 2 Erhebungseinheiten
 
 (1) Erhebungseinheiten sind Personen und Haushalte (Volks- und
@@ -59,7 +55,6 @@ nichtlandwirtschaftliche Arbeitsstätten und Unternehmen
 wirtschaften. Wer allein wirtschaftet, bildet einen eigenen Haushalt.
 Personen mit mehreren Wohnungen (§ 12 Melderechtsrahmengesetz - MRRG)
 sind in jeder Wohnung einem Haushalt zuzuordnen.
-
 
 ## § 3 Merkmale
 
@@ -77,7 +72,6 @@ bestimmten Datenträger übernommen werden, soweit dies nach § 15 Abs. 4
 zugelassen ist oder soweit sie nach § 15 Abs. 5 verwendet werden
 dürfen.
 
-
 ## § 4 Laufende Nummern und Ordnungsnummern
 
 Die auf den Erhebungsvordrucken ausgedruckten laufenden Nummern und
@@ -87,7 +81,6 @@ die maschinelle Weiterverarbeitung bestimmten Datenträger übernommen
 werden. Diese Nummern dürfen nur Angaben nach den §§ 5 bis 8 über
 Gebäude-, Wohnungs-, Haushalts- und Unternehmenszugehörigkeit
 enthalten.
-
 
 ## § 5 Erhebungsmerkmale der Volks- und Berufszählung
 
@@ -146,10 +139,6 @@ Erhebungsmerkmale der Volks- und Berufszählung sind:
     Tätigkeit; landwirtschaftliche und nichtlandwirtschaftliche
     Nebenerwerbstätigkeit.
 
-
-
-
-
 ## § 6 Erhebungsmerkmale der Gebäude- und Wohnungszählung
 
 (1) Erhebungsmerkmale der Gebäudezählung sind:
@@ -178,10 +167,6 @@ Wohnungsbaus; Zahl der Wohnungen und Arbeitsstätten im Gebäude.
 2.  bei vermieteten Wohnungen außerdem: Höhe der monatlichen Miete;
     Ermäßigung oder Wegfall der Miete; Nutzung als Dienst-, Werks-,
     Berufs- oder Geschäftsmietwohnung.
-
-
-
-
 
 ## § 7 Erhebungsmerkmale der Arbeitsstättenzählung
 
@@ -253,10 +238,6 @@ Erhebungsmerkmale der Arbeitsstättenzählung sind:
 
     Gemeinde; Schwerpunkt der wirtschaftlichen Tätigkeit.
 
-
-
-
-
 ## § 8 Hilfsmerkmale
 
 (1) Hilfsmerkmale sind:
@@ -294,7 +275,6 @@ Arbeits- oder Ausbildungsstätte nach Absatz 1 Nr. 1 auch zur
 Überprüfung der Zuordnung der Erwerbstätigen zum Wirtschaftszweig
 verwendet werden.
 
-
 ## § 9 Erhebungsstellen
 
 (1) Zur Durchführung der Zählungen werden Erhebungsstellen
@@ -316,7 +296,6 @@ des Absatzes 1 obliegt den Ländern. Sie können die Aufgaben der
 Erhebungsstellen auf die Gemeinden und Gemeindeverbände übertragen.
 Die Regelungen können durch Rechtsverordnung der Landesregierung
 getroffen werden.
-
 
 ## § 10 Zähler
 
@@ -380,7 +359,6 @@ Tätigkeit eine Entschädigung, die als steuerfreie
 Aufwandsentschädigung im Sinne von § 3 Nr. 12 Satz 2 des
 Einkommensteuergesetzes gilt.
 
-
 ## § 11 Datenübermittlungen an die Erhebungsstellen
 
 (1) Zur Organisation der Zählung übermittelt die Meldebehörde der
@@ -404,7 +382,6 @@ und Unterkünfte mit.
 Gewerbeordnung) zuständigen Stellen der Gemeinden übermitteln den
 Erhebungsstellen auf Verlangen Name, Bezeichnung, Straße und
 Hausnummer der Arbeitsstätten.
-
 
 ## § 12 Auskunftspflicht
 
@@ -469,7 +446,6 @@ Auskunftserteilung haben keine aufschiebende Wirkung.
 (6) Die Auskünfte über die Hilfsmerkmale Telefonnummer (§ 8 Abs. 1 Nr.
 4) und Bearbeiter des Fragebogens (§ 8 Abs. 1 Nr. 3) sind freiwillig.
 
-
 ## § 13 Erhebungsvordrucke
 
 (1) Die Erhebungsvordrucke können maschinenlesbar gestaltet werden.
@@ -506,7 +482,6 @@ Angaben nach § 10 Abs. 7 Satz 1 auf Verlangen des Zählers mündlich,
 die Vor- und Familiennamen der übrigen Haushaltsmitglieder (§ 8 Abs. 1
 Nr. 1) sowie der Vor- und Familienname des Wohnungsinhabers (§ 8 Abs.
 1 Nr. 2) mündlich oder entsprechend Absatz 4 schriftlich mitzuteilen.
-
 
 ## § 14 Übermittlung und Veröffentlichung
 
@@ -552,7 +527,6 @@ gilt für Gemeindeteile mit mindestens 50 Arbeitsstätten.
 (6) Die statistischen Ämter der Länder leiten dem Statistischen
 Bundesamt auf Anforderung Einzelangaben für Zusatzaufbereitungen für
 Bundeszwecke zu, wenn und soweit sie diese nicht selbst durchführen.
-
 
 ## § 15 Trennung und Löschung
 
@@ -628,7 +602,6 @@ amtlichen Bevölkerungszahl der Gemeinden weiterzuleiten. Sie sind dort
 gesondert aufzubewahren und zwei Wochen nach Feststellung der
 amtlichen Bevölkerungszahl des Landes zu vernichten.
 
-
 ## § 16 Unterrichtung
 
 Die Auskunftspflichtigen sind schriftlich zu unterrichten über:
@@ -660,10 +633,6 @@ Die Auskunftspflichtigen sind schriftlich zu unterrichten über:
 
 8.  die Rechte und Pflichten der Zähler (§ 10, § 13 Abs. 2 und 5).
 
-
-
-
-
 ## § 17 Verbot der Reidentifizierung
 
 (1) Die auf Grund dieses Gesetzes erhobenen Merkmale einschließlich
@@ -675,14 +644,12 @@ Merkmalen mit Daten aus anderen statistischen Erhebungen zum Zweck der
 Herstellung eines Personenbezugs außerhalb der statistischen
 Aufgabenstellung dieses Gesetzes ist untersagt.
 
-
 ## § 18 Strafvorschrift
 
 Wer entgegen § 17 Abs. 2 Merkmale oder Daten zusammenführt, sobald die
 Merkmale nach § 17 Abs. 1 auf für maschinelle Weiterverarbeitung
 bestimmte Datenträger übernommen worden sind, wird mit Freiheitsstrafe
 bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 ## § 19 Finanzzuweisung
 
@@ -693,12 +660,10 @@ ist die Bevölkerungszahl, die das Statistische Bundesamt für den 25.
 Mai 1987 feststellt. Die Finanzzuweisung ist in zwei Teilbeträgen, am
 1\. Juli 1987 und am 1. Juli 1988, zu zahlen.
 
-
 ## § 20 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 21 Inkrafttreten
 

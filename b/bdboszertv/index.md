@@ -17,13 +17,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2120
 
-
 ## Eingangsformel
 
 Auf Grund des § 15b Absatz 1 Satz 1 des BDBOS-Gesetzes, der durch
 Artikel 1 Nummer 3 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2251)
 eingefügt worden ist, verordnet das Bundesministerium des Innern:
-
 
 ## § 1 Gegenstand der Zertifizierung
 
@@ -34,7 +32,6 @@ Funkleitstellen, die funktional direkt auf die
 Leitstellenschnittstelle wirken, werden nur die unmittelbar dazu
 verwendeten Hardware- und Software-Komponenten als
 Leitstellenbestandteil zertifiziert.
-
 
 ## § 2 Antrag
 
@@ -130,7 +127,6 @@ Vorliegen dieser Voraussetzungen darzulegen.
 (4) Die Bundesanstalt soll die Anträge in der Reihenfolge ihres
 Eingangs bearbeiten.
 
-
 ## § 3 Änderungszertifizierung
 
 (1) Eine Änderungszertifizierung kann nur erfolgen
@@ -175,7 +171,6 @@ eingeräumt.
 (4) Nach vier aufeinanderfolgenden Änderungszertifizierungen ist eine
 weitere Änderungszertifizierung ausgeschlossen.
 
-
 ## § 4 Anzeige unwesentlicher Änderungen nach § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes
 
 (1) Anzeigen gemäß § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes sind
@@ -198,7 +193,6 @@ eine abweichende Entscheidung trifft. Handelt es sich um eine
 wesentliche Änderung, teilt die Bundesanstalt dies dem Hersteller oder
 Lieferanten unter Hinweis auf § 15a Absatz 1 Satz 1 und Absatz 3 des
 BDBOS-Gesetzes schriftlich mit.
-
 
 ## § 5 Anforderungen und Prüfkriterien; BOS-IOP-Richtlinien
 
@@ -229,10 +223,6 @@ insbesondere bekannt:
 4.  die Prüfkriterien, anhand derer die Einhaltung der Anforderungen nach
     § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes nachgewiesen
     wird.
-
-
-
-
 
 ## § 6 Veröffentlichung nicht allgemein zugänglicher Informationen
 
@@ -280,7 +270,6 @@ Verschlusssachen, nachweisen. Ein Zugang ist ausgeschlossen, wenn ihm
 sicherheitspolitische Belange der Bundesrepublik Deutschland,
 entgegenstehen.
 
-
 ## § 7 Überprüfung der Endgeräte
 
 (1) Die Endgeräte werden in technischer Hinsicht durch eine
@@ -306,7 +295,6 @@ Prüfstelle zur Verfügung steht, die die Einhaltung der Anforderungen
 gemäß § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes
 überprüfen kann.
 
-
 ## § 8 Mitwirkungspflichten des Antragstellers
 
 (1) Der Antragsteller hat der Bundesanstalt spätestens mit dem Antrag
@@ -322,7 +310,6 @@ Umfang mit, insbesondere durch Auskünfte und das Bereitstellen von
 Unterlagen zur Überprüfung nach § 7. Er stellt die erforderliche
 Mitwirkung Dritter, insbesondere der von ihm beauftragten Prüfstelle,
 sicher.
-
 
 ## § 9 Zertifikat
 
@@ -374,7 +361,6 @@ Ein Zugang ist ausgeschlossen, wenn ihm überwiegende öffentliche
 Interessen, insbesondere sicherheitspolitische Belange der
 Bundesrepublik Deutschland, entgegenstehen.
 
-
 ## § 10 Rückgabe von Einzelstücken
 
 Im Fall der vollständigen Versagung des Zertifikats gibt die
@@ -383,12 +369,10 @@ Einzelstücke an den Antragsteller zurück. Bei Rücknahme des Antrags
 gibt die Bundesanstalt beide Einzelstücke an den Antragsteller zurück.
 Die Rückgabe nach Satz 1 oder 2 erfolgt am Sitz der Bundesanstalt.
 
-
 ## § 11 Übergangsregelung
 
 Die Übergangsfrist gemäß § 15a Absatz 5 Satz 1 des BDBOS-Gesetzes
 endet am 31. Dezember 2011.
-
 
 ## § 12 Inkrafttreten
 

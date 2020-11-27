@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 2095
 
-
-
 ## Eingangsformel
 
 Das Plenum des Bundesverfassungsgerichts hat gemäß § 14 Abs. 4 des
@@ -25,7 +23,6 @@ Gesetzes über das Bundesverfassungsgericht in der Fassung der
 Bekanntmachung vom 3. Februar 1971 (BGBl. I S. 105), zuletzt geändert
 durch § 96 des Beamtenversorgungsgesetzes vom 24. August 1976 (BGBl. I
 S. 2485), beschlossen:
-
 
 ## (XXXX)
 
@@ -69,10 +66,6 @@ Bundesverfassungsgerichts auch in folgenden Fällen zuständig:
 
 4.  in den Fällen des § 13 Nr. 10 und Nr. 13 des Gesetzes über das
     Bundesverfassungsgericht entsprechend den vorstehenden Regeln.
-
-
-
-
 
 ## Schlußformel
 

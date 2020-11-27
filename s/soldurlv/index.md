@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 28.4.2011 I 678
 
-
 ## Erster Abschnitt - Erholungs- und Heimaturlaub
-
-
 
 ### § 1 Erholungsurlaub der Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
 
@@ -38,11 +35,9 @@ Nachtdienstes, für die Urlaub nach § 6 oder Freistellung zum Ausgleich
 für besondere zeitliche Belastungen gewährt werden kann, bei der
 Bemessung des Zusatzurlaubs unberücksichtigt bleiben.
 
-
 ### (XXXX) §§ 2 und 3 (weggefallen)
 
 (weggefallen)
-
 
 ### § 4 Erholungsurlaub der Soldatinnen auf Zeit und Soldaten auf Zeit im letzten Urlaubsjahr und vor Beginn des Fachschulbesuches
 
@@ -59,7 +54,6 @@ für dieses Urlaubsjahr nur anteilig gewährt. Für jeden vollen Monat
 der militärischen Dienstleistung vor Beginn der Maßnahme ist ein
 Zwölftel des Jahreserholungsurlaubs zu gewähren.
 
-
 ### § 5 Erholungsurlaub der sonstigen Soldatinnen und Soldaten
 
 (1) Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des
@@ -70,7 +64,6 @@ einen Monat beträgt.
 
 (2) Absatz 1 gilt entsprechend für Soldatinnen und Soldaten, die
 Dienstleistungen nach § 60 des Soldatengesetzes erbringen.
-
 
 ### § 6 Urlaub zur Erhaltung der Einsatzfähigkeit
 
@@ -85,7 +78,6 @@ Verwaltungsvorschriften fest, welcher Einsatz mit außergewöhnlichen
 Belastungen verbunden ist, und bestimmt, in welchem Umfang Urlaub für
 die einzelnen Arten eines solchen Einsatzes gewährt werden kann.
 
-
 ### § 7 Urlaub zur Wiederherstellung der vollen Dienstfähigkeit
 
 Soldatinnen und Soldaten kann zur Wiederherstellung der vollen
@@ -94,7 +86,6 @@ unter Belassung der Geld- und Sachbezüge gewährt werden. Dabei
 bestimmt die oder der für die Erteilung des Urlaubs zuständige
 Vorgesetzte, ob und inwieweit der Urlaub auf den Erholungsurlaub
 anzurechnen ist.
-
 
 ### § 8 Auslandsverwendung
 
@@ -105,10 +96,7 @@ erfordern. In diesem Fall ist der Zusatzurlaub nach Wegfall der
 Hinderungsgründe, spätestens im unmittelbaren Anschluß an die
 Auslandsverwendung, anzutreten.
 
-
 ## Zweiter Abschnitt - Sonderurlaub
-
-
 
 ### § 9 Anwendung der Vorschriften für Bundesbeamtinnen und Bundesbeamte
 
@@ -116,13 +104,11 @@ Für den Sonderurlaub der Soldatinnen und Soldaten gelten die
 Vorschriften für Bundesbeamtinnen und Bundesbeamte entsprechend,
 sofern sich aus den folgenden Vorschriften nichts anderes ergibt.
 
-
 ### § 10 Sachbezüge
 
 Bei der Gewährung eines Urlaubs unter Wegfall der Geldbezüge entfallen
 auch die Sachbezüge, soweit nicht ausdrücklich etwas anderes bestimmt
 worden ist.
-
 
 ### § 11 Urlaub der Sanitätsoffizier-Anwärterinnen und Sanitätsoffizier-Anwärter zum Studium
 
@@ -133,26 +119,20 @@ beurlaubt werden. Sie erhalten unentgeltliche truppenärztliche
 Versorgung sowie ein Ausbildungsgeld nach Maßgabe des § 30 Abs. 2 des
 Soldatengesetzes.
 
-
 ### (XXXX) §§ 12 u. 16 (weggefallen)
 
 -
-
 
 ### § 13
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 14 Zuständigkeit
 
 Der Urlaub wird vom Bundesministerium der Verteidigung oder der von
 ihm bestimmten Stelle erteilt.
-
 
 ### § 15 Urlaub nach dem Eignungsübungsgesetz
 

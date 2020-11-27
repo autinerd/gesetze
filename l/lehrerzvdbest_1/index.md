@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR II: 1966, 19
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 21 der Verordnung vom 22. September 1962 über die
@@ -28,17 +26,13 @@ Einvernehmen mit dem Vorsitzenden der Staatlichen Plankommission und
 dem Zentralvorstand der Gewerkschaft Unterricht und Erziehung zur
 Durchführung des § 2 Absätze 2 und 3 folgendes bestimmt:
 
-
 ## § 1 Geltungsbereich
 
 Diese Durchführungsbestimmung gilt für den im § 1 der Verordnung über
 die Pflichten und Rechte der Lehrkräfte und Erzieher genannten
 Personenkreis.
 
-
 ## - - Inhalt und Umfang der Fürsorge und Aufsicht
-
-
 
 ### § 2
 
@@ -73,10 +67,6 @@ e)  durch gute Vorbereitung, Gestaltung und Kontrolle der gesamten
     materiellen Schaden erleiden, noch daß durch sie der sozialistischen
     Gesellschaft Schaden zugefügt wird.
 
-
-
-
-
 ### § 3
 
 (1) Die Fürsorge und Aufsicht erstreckt sich nach Maßgabe der §§ 5 bis
@@ -110,7 +100,6 @@ Pionierorganisation, dem Elternbeirat und den Organen der Volkspolizei
 durch Aufklärung und Erziehung dafür Sorge tragen, daß die Sicherheit
 der Kinder auf dem Schulweg erhöht wird.
 
-
 ### § 4
 
 Sind Leiter, Lehrkräfte und Erzieher an Veranstaltungen beteiligt, die
@@ -118,7 +107,6 @@ außerhalb der Verantwortung der Schulen und Erziehungseinrichtungen
 liegen, richtet sich ihre Fürsorge und Aufsicht nach den für alle
 Bürger der Deutschen Demokratischen Republik geltenden gesetzlichen
 Bestimmungen.
-
 
 ### § 5 Die Aufgaben des Leiters der Einrichtung
 
@@ -168,10 +156,7 @@ der Abteilungsgewerkschaftsleitung bzw. Gewerkschaftsgruppe
 auszuwerten und die notwendigen Schlußfolgerungen zu ziehen. Schwere
 Verstöße hat er sofort seiner vorgesetzten Dienststelle zu melden.
 
-
 ## - - Pflichten und Rechte der Lehrkräfte und Erzieher
-
-
 
 ### § 6
 
@@ -199,10 +184,6 @@ oder Gruppenverbandes verantwortlich.
 -   stets klare Weisungen zu erteilen, ihre Befolgung ständig zu
     überprüfen und notfalls zur Verhinderung von Unfällen und Schäden mit
     Nachdruck durchzusetzen.
-
-
-
-
 
 ### § 7
 
@@ -255,17 +236,12 @@ b)  sorgfältige Einweisung und Belehrung,
 
 c)  regelmäßige Anleitung und Kontrolle.
 
-
-
-
-
 ### § 8
 
 Die besondere Verantwortung von Lehrkräften und Erziehern im
 naturwissenschaftlichen Unterricht, bei Sport und Schulwanderungen,
 Baden und bei Durchführung von schulischen Lehrveranstaltungen in
 Betrieben wird in hierfür geltenden Bestimmungen geregelt.
-
 
 ### § 9
 
@@ -281,10 +257,7 @@ anzuwenden.
 der Leiter der Einrichtung berechtigt, besondere Festlegungen in
 seinem Verantwortungsbereich zu treffen.
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 10
 
@@ -314,14 +287,9 @@ zuständigen Leiter entsprechende Vorschläge, wie z.B.
 
 -   Benachrichtigung der zuständigen Staatsorgane.
 
-
-
-
-
 ### § 11
 
 Diese Durchführungsbestimmung tritt mit ihrer Verkündung in Kraft.
-
 
 ### Schlußformel
 

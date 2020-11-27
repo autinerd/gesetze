@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 1155
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -42,17 +40,14 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 10.
 März 1993 (BGBl. I S. 398).
 
-
 ## Schlussformel
 
 Bundesministerium der Justiz
-
 
 ## Anlage 1 Kennzeichen der Auszeichnung der Queen für Verdienste auf dem Gebiet des Umweltschutzes
 
 (Inhalt: Nicht darstellbares Kennzeichen,
 Fundstelle: BGBl. I 1993, 1156)
-
 
 ## Anlage 2 Namen, Abkürzungen und Kennzeichen des BENELUX-Markenamts
 
@@ -80,13 +75,11 @@ Fundstelle: BGBl. I 1993, 1156)
 (Kennzeichen gelb-rot-blau, Verbindungslinien schwarz)
 Fundstelle: BGBl. I 1993, 1157)
 
-
 ## Anlage 3 Kennzeichen mit Namen und Abkürzung des Gemeinsamen Fonds für Rohstoffe
 
 (Inhalt: Nicht darstellbares Kennzeichen, mit Namen und Abkürzung,
 (Kennzeichen schwarz-weiß, Abkürzung grün)
 Fundstelle: BGBl. I 1993, 1158)
-
 
 ## Anlage 4 Kennzeichen der Umwelt-Konferenz der Vereinten Nationen (UNEP) und Abkürzungen
 

@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1703
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53c Nr. 2 des Gesetzes über das Kreditwesen in der
 Fassung der Bekanntmachung vom 30. Juni 1993 (BGBl. I S. 1082)
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -43,7 +40,6 @@ Aufsicht des japanischen Ministeriums der Finanzen unterstehen, werden
 
 nicht mehr angewandt.
 
-
 ## § 2
 
 Auf die in § 1 genannten Zweigstellen werden die §§ 13 und 13a des
@@ -52,7 +48,6 @@ angewandt, daß an die Stelle des haftenden Eigenkapitals der
 Zweigstelle nach § 53 Abs. 2 Nr. 4 des Gesetzes über das Kreditwesen
 das konsolidierte haftende Eigenkapital der Kreditinstitutsgruppe
 tritt.
-
 
 ## § 3
 

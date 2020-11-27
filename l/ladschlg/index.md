@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 228 V v. 31.10.2006 I 2407
 
-
 ## Erster Abschnitt - Begriffsbestimmungen
-
-
 
 ### § 1 Verkaufsstellen
 
@@ -52,7 +49,6 @@ Bundesministerium für Wirtschaft und Technologie durch
 Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, welche
 Einrichtungen Verkaufsstellen gemäß Absatz 1 sind.
 
-
 ### § 2 Begriffsbestimmungen
 
 (1) Feiertage im Sinne dieses Gesetzes sind die gesetzlichen
@@ -65,10 +61,7 @@ Filme, Tonträger, Bedarf für Reiseapotheken, Reiseandenken und
 Spielzeug geringeren Wertes, Lebens- und Genussmittel in kleineren
 Mengen sowie ausländische Geldsorten.
 
-
 ## Zweiter Abschnitt - Ladenschlusszeiten
-
-
 
 ### § 3 Allgemeine Ladenschlusszeiten
 
@@ -90,7 +83,6 @@ Verkaufsstellen für Bäckerwaren dürfen abweichend von Satz 1 den
 Beginn der Ladenöffnungszeit an Werktagen auf 5.30 Uhr vorverlegen.
 Die beim Ladenschluss anwesenden Kunden dürfen noch bedient werden.
 
-
 ### § 4 Apotheken
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Apotheken an allen
@@ -108,13 +100,11 @@ geschlossenen Apotheken ist an sichtbarer Stelle ein Aushang
 anzubringen, der die zur Zeit offenen Apotheken bekannt gibt.
 Dienstbereitschaft der Apotheken steht der Offenhaltung gleich.
 
-
 ### § 5 Zeitungen und Zeitschriften
 
 Abweichend von den Vorschriften des § 3 dürfen Kioske für den Verkauf
 von Zeitungen und Zeitschriften an Sonn- und Feiertagen von 11 bis 13
 Uhr geöffnet sein.
-
 
 ### § 6 Tankstellen
 
@@ -127,11 +117,9 @@ Kraftfahrzeuge, soweit dies für die Erhaltung oder Wiederherstellung
 der Fahrbereitschaft notwendig ist, sowie die Abgabe von
 Betriebsstoffen und von Reisebedarf gestattet.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 8 Verkaufsstellen auf Personenbahnhöfen
 
@@ -172,7 +160,6 @@ Maß zu begrenzen.
 
 (3) Für Apotheken bleibt es bei den Vorschriften des § 4.
 
-
 ### § 9 Verkaufsstellen auf Flughäfen und in Fährhäfen
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Verkaufsstellen auf
@@ -197,7 +184,6 @@ an andere Personen als an Reisende abgegeben werden dürfen; sie haben
 dabei die Größe der Verkaufsflächen auf das für diesen Zweck
 erforderliche Maß zu begrenzen.
 
-
 ### § 10 Kur- und Erholungsorte
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen,
@@ -219,7 +205,6 @@ nehmen.
 (2) In den nach Absatz 1 erlassenen Rechtsverordnungen kann die
 Offenhaltung auf bestimmte Ortsteile beschränkt werden.
 
-
 ### § 11 Verkauf in ländlichen Gebieten an Sonntagen
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen können
@@ -230,7 +215,6 @@ des § 3 alle oder bestimmte Arten von Verkaufsstellen an Sonn- und
 Feiertagen bis zur Dauer von zwei Stunden geöffnet sein dürfen, falls
 dies zur Befriedigung dringender Kaufbedürfnisse der Landbevölkerung
 erforderlich ist.
-
 
 ### § 12 Verkauf bestimmter Waren an Sonntagen
 
@@ -254,11 +238,9 @@ Berücksichtigung der Zeit des Hauptgottesdienstes von den
 Landesregierungen oder den von ihnen bestimmten Stellen durch
 Rechtsverordnung festgesetzt.
 
-
 ### § 13
 
 (weggefallen)
-
 
 ### § 14 Weitere Verkaufssonntage
 
@@ -280,7 +262,6 @@ dürfen Sonn- und Feiertage nach Absatz 1 nur freigegeben werden,
 soweit die Zahl dieser Tage zusammen mit den nach § 10 Abs. 1 Nr. 1
 freigegebenen Sonn- und Feiertagen 40 nicht übersteigt.
 
-
 ### § 15 Sonntagsverkauf am 24. Dezember
 
 Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen, wenn der
@@ -299,15 +280,11 @@ Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen, wenn der
 
 während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
-
 ### § 16
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Besonderer Schutz der Arbeitnehmer
-
-
 
 ### § 17 Arbeitszeit an Sonn- und Feiertagen
 
@@ -382,13 +359,9 @@ kann jederzeit widerrufen werden.
 (9) Die Vorschriften der Absätze 1 bis 8 finden auf pharmazeutisch
 vorgebildete Arbeitnehmer in Apotheken keine Anwendung.
 
-
 ## Vierter Abschnitt - Bestimmungen für einzelne Gewerbezweige und für den Marktverkehr
 
-
-
 ### (XXXX) §§ 18 und 18a (weggefallen)
-
 
 ### § 19 Marktverkehr
 
@@ -407,7 +380,6 @@ Marktverkehr nicht feilgehalten werden.
 Gewerbeordnung, insbesondere bei den auf Grund des § 69 Abs. 1 Satz 1
 der Gewerbeordnung festgesetzten Öffnungszeiten für Messen,
 Ausstellungen und Märkte.
-
 
 ### § 20 Sonstiges gewerbliches Feilhalten
 
@@ -443,10 +415,7 @@ Arbeitnehmer vor übermäßiger Inanspruchnahme ihrer Arbeitskraft oder
 sonstiger Gefährdung ihrer Gesundheit Vorschriften, wie in § 17 Abs. 7
 genannt, erlassen.
 
-
 ## Fünfter Abschnitt - Durchführung des Gesetzes
-
-
 
 ### § 21 Auslage des Gesetzes, Verzeichnisse
 
@@ -472,7 +441,6 @@ Arbeitnehmer beschäftigt wird, ist verpflichtet,
 
 (2) Die Verpflichtung nach Absatz 1 Nr. 2 obliegt auch den in § 20
 genannten Gewerbetreibenden.
-
 
 ### § 22 Aufsicht und Auskunft
 
@@ -510,7 +478,6 @@ Absatzes 1 die Aufsicht obliegt, auf Verlangen
 Verkaufsstellen oder beim Feilhalten gemäß § 20 beschäftigten
 Arbeitnehmern.
 
-
 ### § 23 Ausnahmen im öffentlichen Interesse
 
 (1) Die obersten Landesbehörden können in Einzelfällen befristete
@@ -528,10 +495,7 @@ Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
 Voraussetzungen und Bedingungen für die Bewilligung von Ausnahmen im
 Sinne des Absatzes 1 erlassen.
 
-
 ## Sechster Abschnitt - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 24 Ordnungswidrigkeiten
 
@@ -592,7 +556,6 @@ mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die
 Ordnungswidrigkeit nach Absatz 1 Nr. 1 Buchstabe c und Nr. 2 bis 4 mit
 einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
-
 ### § 25 Straftaten
 
 Wer vorsätzlich als Inhaber einer Verkaufsstelle oder als
@@ -602,15 +565,11 @@ vorsätzlich oder fahrlässig Arbeitnehmer in ihrer Arbeitskraft oder
 Gesundheit gefährdet, wird mit Freiheitsstrafe bis zu sechs Monaten
 oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-
 ### § 26
 
 (weggefallen)
 
-
 ## Siebenter Abschnitt - Schlussbestimmungen
-
-
 
 ### § 27 Vorbehalt für die Landesgesetzgebung
 
@@ -619,13 +578,11 @@ Gewerbebetrieb und die Beschäftigung von Arbeitnehmern in
 Verkaufsstellen an anderen Festtagen als an Sonn- und Feiertagen
 beschränkt werden.
 
-
 ### § 28 Bestimmung der zuständigen Behörden
 
 Soweit in diesem Gesetz auf die nach Landesrecht zuständige
 Verwaltungsbehörde verwiesen wird, bestimmt die Landesregierung durch
 Verordnung, welche Behörden zuständig sind.
-
 
 ### (XXXX) §§ 29 und 30 (weggefallen)
 

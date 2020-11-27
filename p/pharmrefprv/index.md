@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1192
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -28,7 +26,6 @@ Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Gesundheit und dem Bundesministerium für
 Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -76,7 +73,6 @@ Dazu gehört die Befähigung,
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Pharmareferent/Geprüfte Pharmareferentin".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
@@ -111,7 +107,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Qualifikationsbereiche
 
@@ -582,13 +577,6 @@ werden:
 
     c)  Marketinginstrumente.
 
-
-
-
-
-
-
-
 ## § 4 Durchführung der Prüfung
 
 (1) Die Prüfung ist in den in § 3 Abs. 1 Nr. 1 bis 3 genannten
@@ -631,7 +619,6 @@ mündlichen Ergänzungsprüfung werden zu einer Bewertung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -643,7 +630,6 @@ einem staatlichen Prüfungsausschuss bestanden wurde, die den
 Anforderungen der entsprechenden Qualifikationsbereiche nach dieser
 Verordnung entspricht. Von dem Fachgespräch gemäß § 4 Abs. 4 kann
 nicht freigestellt werden.
-
 
 ## § 6 Bewerten und Bestehen der Prüfung
 
@@ -658,7 +644,6 @@ ausreichende Leistungen erbracht wurden.
 und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
 sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
 Bezeichnung des Prüfungsgremiums anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -675,7 +660,6 @@ Prüfungsleistung an, zur Wiederholungsprüfung angemeldet hat.
 Bestandene Prüfungsleistungen können auf Antrag einmal wiederholt
 werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können bis zum 30. Juni 2011 zu Ende
@@ -688,11 +672,9 @@ kann die zuständige Stelle die Wiederholungsprüfung auch gemäß dieser
 Verordnung durchführen; § 7 Abs. 2 findet in diesem Fall keine
 Anwendung.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -719,7 +701,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 
@@ -772,7 +753,6 @@ Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
 \*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
 ............
-
 
 ## Anlage 3 (zu § 2 Abs. 1 Nr. 3) Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
 

@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 638
 
-
-
 ## (XXXX) Art 1 und 2
 
 -
-
 
 ## Art 3 Änderung der Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
 
@@ -38,7 +35,6 @@ weiterverwendet werden.
 (3) Die auf Absatz 1 beruhenden Teile der dort geänderten
 Rechtsverordnung können auf Grund der einschlägigen Ermächtigungen
 durch Rechtsverordnung geändert werden.
-
 
 ## Art 4 Inkrafttreten
 

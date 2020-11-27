@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 107 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
@@ -30,13 +29,11 @@ der Finanzen auf Vorschlag des Vorstands der Deutschen Post AG und
 nach Anhörung der Bundesanstalt für Post und Telekommunikation
 Deutsche Bundespost:
 
-
 ## § 1 Anwendung der Arbeitszeitverordnung
 
 Für die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten
 gelten die Vorschriften der Arbeitszeitverordnung, soweit in den §§ 2
 bis 8 nichts anderes bestimmt ist.
-
 
 ## § 2 Regelmäßige Arbeitszeit
 
@@ -52,11 +49,9 @@ Beamte im Wechseldienst in demselben Umfang wie für die Beamtinnen und
 Beamten mit fester Arbeitszeit – ohne Rücksicht darauf, ob und wie
 lange sie an diesen Tagen tatsächlich Dienst leisten müssen.
 
-
 ## § 3 (weggefallen)
 
 -
-
 
 ## § 4 Gleitende Arbeitszeit
 
@@ -84,7 +79,6 @@ Wochenfeiertag.
 
 (3) (weggefallen)
 
-
 ## § 5 Ruhepausen
 
 (1) Die Arbeit ist spätestens nach Überschreiten einer Arbeitszeit von
@@ -96,7 +90,6 @@ werden. Bei geteilter Arbeitszeit soll die Ruhepause zwei Stunden
 nicht unterschreiten.
 
 (2) Ruhepausen werden nicht auf die Arbeitszeit angerechnet.
-
 
 ## § 6 Nachtdienst
 
@@ -131,7 +124,6 @@ Arbeitsposten mit Tagesarbeit umzusetzen, wenn
 
 sofern zwingende betriebliche Belange nicht entgegenstehen.
 
-
 ## § 7 Erprobung neuer Arbeitszeitmodelle
 
 Zur besseren Anpassung des Personaleinsatzes an den Arbeitsanfall kann
@@ -147,7 +139,6 @@ Abs. 1 Satz 2 der Arbeitszeitverordnung bleibt unberührt. Mehr- und
 Minderleistungen sind innerhalb eines Zeitraums von längstens 18
 Monaten auszugleichen. Mit dem Zeitpunkt des Ausgleichs beginnt der
 nächste Ausgleichszeitraum.
-
 
 ## § 8 Arbeitszeit bei einem anderen Unternehmen oder einer öffentlichen Einrichtung
 
@@ -165,7 +156,6 @@ der Deutschen Post AG hat das Bundesministerium der Finanzen über den
 Erlass solcher Anordnungen unverzüglich zu unterrichten. Das
 Bundesministerium der Finanzen kann diese Anordnungen im Rahmen der
 Rechtsaufsicht ändern oder aufheben.
-
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 

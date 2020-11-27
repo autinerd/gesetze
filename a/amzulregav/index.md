@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 2547
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 1 Nr. 1 des Arzneimittelgesetzes vom 24.
 August 1976 (BGBl. I S. 2445, 2448) wird verordnet:
-
 
 ## § 1 Antragsformulare
 
@@ -33,7 +30,6 @@ Arzneimittels sowie ein Antrag auf Registrierung eines Arzneimittels
 nach § 38 Abs. 2 des Arzneimittelgesetzes ist auf Antragsformularen zu
 stellen, die von der zuständigen Bundesoberbehörde herausgegeben und
 im Bundesanzeiger bekanntgemacht werden.
-
 
 ## § 2 Analytisches Gutachten
 
@@ -56,23 +52,19 @@ nach § 22 Abs. 1 Nr. 11, 14 und 15 und Abs. 2 Nr. 1 des
 Arzneimittelgesetzes unter Berücksichtigung der
 Arzneimittelprüfrichtlinien nach § 26 des Arzneimittelgesetzes.
 
-
 ## § 3 Berlin-Klausel
 
 Die Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
-
 
 ## § 4 Übergangsvorschrift
 
 Die §§ 1 und 2 finden keine Anwendung auf Anträge, die vor dem
 Inkrafttreten dieser Verordnung eingereicht worden sind.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

@@ -20,17 +20,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 50 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -47,7 +44,6 @@ Rentenversicherung den Trägern der Krankenversicherung zu erstatten
 sind, gelten als Beiträge für die Krankenversicherung im Sinne des §
 219 Abs. 1 des Sechsten Buches Sozialgesetzbuch.
 
-
 ## Art 3
 
 (1) (weggefallen)
@@ -61,7 +57,6 @@ vor der Entscheidung sind die anderen Verbände der Unfallversicherung
 zu hören. Die zur Durchführung des Ausgleichs erforderlichen Mittel
 werden durch Umlage auf sämtliche Träger der Unfallversicherung
 aufgebracht.
-
 
 ## Art 4
 
@@ -93,14 +88,12 @@ erfolgt die Bestimmung
 durch Rechtsverordnung des Bundesministers für Arbeit und
 Sozialordnung mit Zustimmung des Bundesrates.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 6
 

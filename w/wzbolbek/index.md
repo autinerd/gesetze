@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1925, 160
 
-
-
 ## (XXXX)
 
 (1) Zwischen dem Deutschen Reich und Bolivien ist durch Notenaustausch

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1479
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Arbeitszeit von selbständigen Kraftfahrern im
@@ -33,7 +32,6 @@ Rates (ABl. L 102 vom 11.4.2006, S. 1) oder des Europäischen
 Straßenverkehr beschäftigten Fahrpersonals (AETR) (BGBl. 1974 II S.
 1473, 1475). Die Vorschriften der Verordnung (EG) Nr. 561/2006 und des
 AETR bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -75,7 +73,6 @@ und 2 genannten Zeiten sind keine Ruhepausen.
 (4) Eine Woche umfasst den Zeitraum von Montag 0 Uhr bis Sonntag 24
 Uhr.
 
-
 ## § 3 Arbeitszeit
 
 (1) Der selbständige Kraftfahrer darf eine Arbeitszeit von 48 Stunden
@@ -87,13 +84,11 @@ Durchschnitt nicht mehr als 48 Stunden wöchentlich arbeitet.
 Zeitraum von jeweils 24 Stunden nicht länger als zehn Stunden
 arbeiten.
 
-
 ## § 4 Ruhezeiten
 
 Die täglichen und wöchentlichen Ruhezeiten bestimmen sich nach den
 Vorschriften der Europäischen Gemeinschaften für Kraftfahrer sowie
 nach dem AETR.
-
 
 ## § 5 Ruhepause
 
@@ -104,7 +99,6 @@ als sechs bis zu neun Stunden und 45 Minuten bei einer Arbeitszeit von
 mehr als neun Stunden insgesamt zu unterbrechen. Die Ruhepausen nach
 Satz 2 können in Zeitabschnitte von jeweils mindestens 15 Minuten
 aufgeteilt werden.
-
 
 ## § 6 Aufzeichnungspflicht
 
@@ -117,7 +111,6 @@ gilt nicht für allgemeine administrative Tätigkeiten, die keinen
 direkten Zusammenhang mit der gerade ausgeführten spezifischen
 Transporttätigkeit aufweisen. Die Aufzeichnungen sind ab Erstellung
 mindestens zwei Jahre aufzubewahren.
-
 
 ## § 7 Aufsichtsbehörden
 
@@ -145,7 +138,6 @@ gestatten. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel
 
 (5) Für die zur Auskunft verpflichtete Person gilt § 55 der
 Strafprozessordnung entsprechend.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -183,7 +175,6 @@ Strafprozessordnung entsprechend.
 2, 3 und 4 mit einer Geldbuße bis zu zehntausend Euro und in den
 übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
 werden.
-
 
 ## § 9 Inkrafttreten
 

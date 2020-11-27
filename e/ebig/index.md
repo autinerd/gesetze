@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 446
 
-
 ## § 1 Zuständige Behörden und Prüfung von Online-Sammelsystemen
 
 (1) Das Bundesverwaltungsamt ist zuständige Behörde im Sinne von
@@ -52,7 +51,6 @@ der Verordnung (EU) Nr. 211/2011 beginnt mit Eingang der vollständigen
 Unterlagen. Für die Prüfung der Unterlagen und das Ausstellen der
 Bescheinigung werden keine Gebühren oder Auslagen erhoben.
 
-
 ## § 2 Sammeln von Unterstützungsbekundungen
 
 (1) Für das Sammeln von Unterstützungsbekundungen sind ausschließlich
@@ -65,7 +63,6 @@ auf Formularen abgeben, die nach Artikel 8 Absatz 1 Buchstabe a der
 Verordnung (EU) Nr. 211/2011 der in § 1 Absatz 1 genannten Behörde
 vorgelegt werden, wenn sie ihren Wohnsitz bei der örtlich zuständigen
 Auslandsvertretung registriert haben.
-
 
 ## § 3 Überprüfung von Unterstützungsbekundungen
 
@@ -105,10 +102,6 @@ der ihm vorliegenden Unterstützungsbekundungen abgleichen:
 
 6.  derzeitige und frühere Anschriften.
 
-
-
-
-
 ## § 4 Ungültigkeit von Unterstützungsbekundungen
 
 Eine Unterstützungsbekundung ist ungültig, wenn
@@ -146,7 +139,6 @@ Eine Unterstützungsbekundung ist ungültig, wenn
 
 Für die Gültigkeit einer Unterstützungsbekundung ist der Tag ihrer
 Abgabe maßgeblich.
-
 
 ## § 5 Bußgeldvorschriften
 

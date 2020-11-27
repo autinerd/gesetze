@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 V v. 10.10.2012 I 2113
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3 und 15 des Pflanzenschutzgesetzes in
 der Fassung der Bekanntmachung vom 2. Oktober 1975 (Bundesgesetzbl. I
 S. 2591) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -38,7 +36,6 @@ pronubana Hb. = Tortrix pronubana Hb.) und der Südafrikanische
 Nelkenwickler (Epichoristodes acerbella
 (Walk.) Diak.).
 
-
 ## § 2
 
 Verfügungsberechtigte und Besitzer von Nelkenbeständen und Nelken, die
@@ -47,12 +44,10 @@ befallene und des Befalls mit Nelkenwicklern verdächtige Pflanzen so
 zu behandeln, daß die Nelkenwickler vernichtet sind, bevor die Nelken
 vertrieben werden.
 
-
 ## § 3
 
 Das Züchten und Halten von Nelkenwicklern sowie das Arbeiten mit
 diesen Schadorganismen sind verboten.
-
 
 ## § 4
 
@@ -62,7 +57,6 @@ Bekämpfungsmitteln und -verfahren und für Züchtungsvorhaben
 genehmigen, soweit hierdurch die Bekämpfung der Nelkenwickler nicht
 beeinträchtigt wird und keine Gefahr einer Ausbreitung dieser
 Schadorganismen besteht.
-
 
 ## § 5
 
@@ -83,14 +77,9 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 4.  einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage
     zuwiderhandelt.
 
-
-
-
-
 ## § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

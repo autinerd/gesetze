@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 28.8.1984 II 832
 
-
 ## Art 1
 
 Dem in Wien am 31. Mai 1967 unterzeichneten Vertrag zwischen der
@@ -31,7 +30,6 @@ April 1965 und Notenwechsel vom 31. März 1969 wird zugestimmt. Der
 Vertrag, der Briefwechsel und der Notenwechsel werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesminister des Innern und der Finanzen werden ermächtigt,
@@ -39,13 +37,11 @@ Die Bundesminister des Innern und der Finanzen werden ermächtigt,
 3 durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu
 setzen.
 
-
 ## Art 3
 
 Nach Artikel 4 Abs. 4 des Vertrages eingeführte Waren gehen im Falle
 des Artikels 4 Abs. 1 Buchstabe a des Vertrages mit der Einfuhr in die
 Zollgutverwendung des Unternehmens über, dem sie bewilligt ist.
-
 
 ## Art 4
 
@@ -54,7 +50,6 @@ Eingangsabgaben gestundet worden sind, werden sie erlassen, wenn die
 Waren, wären sie nach Inkrafttreten des Vertrages eingeführt worden,
 abgabenfrei blieben.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -62,7 +57,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 6
 

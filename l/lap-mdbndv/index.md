@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 14 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,10 +28,7 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Bundeskanzleramt im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Grundsätze von Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -93,7 +89,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den
@@ -116,7 +111,6 @@ sowie soziale Kompetenz sind zu fördern.
 weiterzubilden. Sie sind zum Selbststudium verpflichtet; das
 Selbststudium ist zu fördern.
 
-
 ### § 3 Ausbildungsleitung
 
 (1) Die Präsidentin oder der Präsident des Bundesnachrichtendienstes
@@ -132,7 +126,6 @@ der Ausbildung.
 (3) Die Ausbildungsleitung führt regelmäßig Besprechungen mit den
 Anwärterinnen und Anwärtern sowie mit den Ausbilderinnen und
 Ausbildern durch.
-
 
 ### § 4 Schwerbehinderte Menschen
 
@@ -156,10 +149,7 @@ kann die Vertretung schwerbehinderter Menschen in den betreffenden
 mündlichen Teilen des Auswahlverfahrens und der Laufbahnprüfung
 anwesend sein.
 
-
 ## Kapitel 2 - Auswahl der Bewerberinnen und Bewerber
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -190,10 +180,6 @@ Bewerbung sind beizufügen:
 6.  gegebenenfalls eine Ablichtung des Zulassungsscheins, des
     Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des
     Soldatenversorgungsgesetzes.
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -228,7 +214,6 @@ Bewerbungsunterlagen mit einer schriftlichen Ablehnung zurück.
 unabhängigen Auswahlkommission durchgeführt. Es besteht aus einem
 schriftlichen und einem mündlichen Teil. Nähere Bestimmungen über
 seine Durchführung erlässt das Bundeskanzleramt.
-
 
 ### § 7 Auswahlkommission
 
@@ -279,10 +264,7 @@ Rangfolge der geeigneten Bewerberinnen und Bewerber fest. Sind mehrere
 Kommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und
 Bewerber festgelegt.
 
-
 ## Kapitel 3 - Vorbereitungsdienst
-
-
 
 ### § 8 Einstellungsvoraussetzungen
 
@@ -304,10 +286,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
     nachweist.
-
-
-
-
 
 ### § 9 Verfahren der Einstellung
 
@@ -356,7 +334,6 @@ Bundesnachrichtendienstes vornehmen zu lassen, braucht er die Kosten
 eines von anderer Stelle ausgestellten Gesundheitszeugnisses nicht zu
 übernehmen.
 
-
 ### § 10 Rechtsstellung während des Vorbereitungsdienstes; Einstellungsbehörde
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -368,7 +345,6 @@ Regierungssekretäranwärtern ernannt.
 für die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde.
 Die Anwärterinnen und Anwärter unterstehen seiner Dienstaufsicht.
 
-
 ### § 11 Ausbildungsakte
 
 (1) Für die Anwärterinnen und Anwärter werden Personalteilakten
@@ -378,7 +354,6 @@ Leistungsnachweise, Bewertungen und Zeugnisse aufzunehmen.
 (2) Vom Ausbildungsplan sowie von allen Bewertungen und Zeugnissen,
 die über sie erstellt werden, erhalten die Anwärterinnen und Anwärter
 eine Ausfertigung.
-
 
 ### § 12 Dauer, Verlängerung und Verkürzung des Vorbereitungsdienstes
 
@@ -431,7 +406,6 @@ das Ziel der Ausbildung nicht gefährdet wird.
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 46 Abs. 1 und 2.
 
-
 ### § 13 Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet. Er ist so zu
@@ -439,10 +413,7 @@ erteilen, dass das Ziel der Ausbildung nicht gefährdet wird. Ob und
 wann eine Gefährdung anzunehmen ist, entscheidet die
 Ausbildungsleitung.
 
-
 ## Kapitel 4 - Ausbildung während des Vorbereitungsdienstes
-
-
 
 ### § 14 Gliederung des Vorbereitungsdienstes
 
@@ -500,7 +471,6 @@ Bestehen Voraussetzung für die Zulassung zur Laufbahnprüfung ist.
 
 (4) Der Vorbereitungsdienst schließt mit der Laufbahnprüfung.
 
-
 ### § 15 Ausbildungsbehörde
 
 (1) Ausbildungsbehörde ist der Bundesnachrichtendienst. Er trägt die
@@ -512,7 +482,6 @@ Bundesnachrichtendienstes durchgeführt. Die Schule des
 Bundesnachrichtendienstes erstellt den Lehrplan und die
 Lehrveranstaltungspläne. Sie bestimmt für jeden Lehrgang eine
 Lehrgangsleiterin oder einen Lehrgangsleiter.
-
 
 ### § 16 Grundsätze der fachtheoretischen Ausbildung
 
@@ -557,7 +526,6 @@ Leistungsnachweise. Die Lehrinhalte sind nach Intensitätsstufen zu
 beschreiben. Auf der Grundlage des Lehrplanes werden
 Lehrveranstaltungspläne erstellt.
 
-
 ### § 17 Einführungslehrgang
 
 (1) Der Einführungslehrgang vermittelt Grundkenntnisse über
@@ -576,7 +544,6 @@ Lehrveranstaltungspläne erstellt.
 
 (2) Er dient auch zur Einführung in die Aufgabengebiete des Praktikums
 I.
-
 
 ### § 18 Zwischenlehrgang I
 
@@ -609,10 +576,6 @@ die Zwischenprüfung vor.
 
 8.  Zeitgeschichte.
 
-
-
-
-
 ### § 19 Zwischenlehrgang II
 
 (1) Der Zwischenlehrgang II führt in die Aufgabengebiete des
@@ -625,10 +588,6 @@ Praktikums II ein.
 
 
 2.  Auswertung und Steuerung der operativen Aufklärung.
-
-
-
-
 
 ### § 20 Abschlusslehrgang
 
@@ -656,10 +615,6 @@ insbesondere der Vorbereitung auf die Laufbahnprüfung.
     allem im Blick auf Internationalen Terrorismus, Drogen, Proliferation
     und Geldwäsche.
 
-
-
-
-
 ### § 21 Grundsätze der Praktika
 
 (1) In den Praktika sollen die Anwärterinnen und Anwärter berufliche
@@ -680,7 +635,6 @@ kennen gelernt und entsprechende Fertigkeiten entwickelt werden.
 (4) Tätigkeiten, die nicht dem Zweck der Ausbildung entsprechen,
 dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
 ### § 22 Ausbilderinnen und Ausbilder während der Praktika, Ausbildungsplan
 
 (1) Den Ausbilderinnen und Ausbildern dürfen nicht mehr Anwärterinnen
@@ -696,7 +650,6 @@ Ausbildungsnachweise zu führen.
 Anwärterin und jeden Anwärter einen Ausbildungsplan. Er enthält die
 ausbildenden Organisationseinheiten und bestimmt die Zeitdauer der
 Zuweisung.
-
 
 ### § 23 Durchführung der Praktika
 
@@ -731,7 +684,6 @@ kapazitäts- und bedarfsorientiert von der Ausbildungsleitung bestimmt.
 (3) Die Durchführung der Praktika im Einzelnen richtet sich unter
 Berücksichtigung der Grundsätze des § 21 nach dem jeweiligen
 Ausbildungsrahmenplan.
-
 
 ### § 24 Praxisbezogene Lehrveranstaltungen
 
@@ -770,7 +722,6 @@ Bei Bedarf können andere Fachgebiete einbezogen werden.
 
 (3) Der Ausbildungsrahmenplan bestimmt die Lernziele und Lehrinhalte
 der Lehrfächer sowie die Stundenzahl.
-
 
 ### § 25 Leistungsnachweise
 
@@ -826,7 +777,6 @@ im Abschlusslehrgang mit Rangpunkten und Noten aufgeführt werden. Das
 Zeugnis schließt mit der Angabe der nach § 33 Abs. 2 ermittelten
 Durchschnittspunktzahl.
 
-
 ### § 26 Bewertungen während der Praktika
 
 (1) Über die Leistungen und den Befähigungsstand während der Praktika
@@ -853,10 +803,7 @@ ein zusammenfassendes Zeugnis. Darin sind die Bewertungen in den
 Praktika einschließlich der Sprachausbildung aufzuführen. Die
 Anwärterinnen und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
 ## Kapitel 5 - Gemeinsame Vorschriften für die Prüfungen
-
-
 
 ### § 27 Prüfungsamt
 
@@ -867,7 +814,6 @@ wird beim Bundesnachrichtendienst ein Prüfungsamt eingerichtet.
 Anwendung der Bewertungsmaßstäbe, erteilt die Zeugnisse und vollzieht
 die Entscheidungen der Prüfungskommission. Es kann Aufgaben auf die
 Schule des Bundesnachrichtendienstes übertragen.
-
 
 ### § 28 Prüfungskommission
 
@@ -909,7 +855,6 @@ Prüfungskommission, die die Vorsitzende oder der Vorsitzende bestimmt,
 unabhängig voneinander bewertet. Weichen die Bewertungen voneinander
 ab, entscheidet die Prüfungskommission.
 
-
 ### § 29 Ort, Zeitpunkt und Durchführung der Prüfung
 
 (1) Das Prüfungsamt setzt Ort und Zeitpunkt der Prüfung, auch der
@@ -944,7 +889,6 @@ gestatten.
 
 (5) Über die Prüfung ist eine Niederschrift zu fertigen.
 
-
 ### § 30 Aufsichtsarbeiten
 
 (1) Das Prüfungsamt bestimmt die Aufgaben für die Aufsichtsarbeiten.
@@ -962,7 +906,6 @@ geöffnet.
 
 (4) Bei jeder Aufgabe werden die Hilfsmittel, die benutzt werden
 dürfen, angegeben.
-
 
 ### § 31 Verhinderung, Rücktritt, Säumnis
 
@@ -987,7 +930,6 @@ Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden
 kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung
 für nicht bestanden erklärt wird. Der Bescheid ist mit einer
 Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 32 Täuschung, Ordnungsverstoß
 
@@ -1019,7 +961,6 @@ innerhalb einer Frist von fünf Jahren nach Abschluss der Prüfung.
 
 (5) Betroffene sind vor der Entscheidung nach den Absätzen 2 bis 4 zu
 hören. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 ### § 33 Bewertung der Leistungen
 
@@ -1231,7 +1172,6 @@ Grundsätze sinngemäß.
 (7) Wird die geforderte Prüfungsarbeit nicht oder nicht rechtzeitig
 abgeliefert, gilt sie als mit "ungenügend" (Rangpunkte 0) bewertet.
 
-
 ### § 34 Nichtbestehen der Prüfung, Wiederholung
 
 (1) Ist die Prüfung nicht bestanden oder gilt sie als nicht bestanden,
@@ -1246,7 +1186,6 @@ Präsident des Bundesnachrichtendienstes.
 
 (4) Prüfungen sind vollständig zu wiederholen.
 
-
 ### § 35 Endgültiges Nichtbestehen der Prüfung
 
 (1) Das endgültige Nichtbestehen der Prüfung ist der Anwärterin oder
@@ -1259,7 +1198,6 @@ Beamtenverhältnis auf Widerruf entlassen. Der Bundesnachrichtendienst
 erteilt in diesen Fällen ein Dienstzeugnis nach § 85 des
 Bundesbeamtengesetzes, das unter Beachtung von Sicherheitsbelangen
 auch über die Ausbildungsinhalte Auskunft gibt.
-
 
 ### § 36 Prüfungsakten, Berichtigung von Prüfungsergebnissen
 
@@ -1287,10 +1225,7 @@ Mitteilung von Prüfungsergebnissen werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 32 Abs. 4 ist das Prüfungszeugnis zurückzugeben.
 
-
 ## Kapitel 6 - Zwischenprüfung
-
-
 
 ### § 37 Zeitpunkt und Inhalt
 
@@ -1317,7 +1252,6 @@ geprüft werden. Zur Bearbeitung der Aufsichtsarbeiten stehen je drei
 Zeitstunden zur Verfügung. Die Arbeiten sind an drei aufeinander
 folgenden Arbeitstagen zu fertigen.
 
-
 ### § 38 Gesamtergebnis, Zeugnis
 
 (1) Die Zwischenprüfung ist bestanden, wenn zwei Aufsichtsarbeiten
@@ -1328,7 +1262,6 @@ insgesamt die Durchschnittspunktzahl fünf erreicht ist.
 Anwärterinnen und Anwärtern ein Zeugnis, das die Rangpunkte, die Noten
 und die Durchschnittspunktzahl enthält.
 
-
 ### § 39 Wiederholung
 
 (1) Ist die Zwischenprüfung nicht bestanden oder gilt sie als nicht
@@ -1338,10 +1271,7 @@ drei Monate nach Abschluss des Zwischenlehrgangs I statt.
 (2) Die weitere Ausbildung wird wegen der Wiederholung der Prüfung
 nicht ausgesetzt.
 
-
 ## Kapitel 7 - Laufbahnprüfung
-
-
 
 ### § 40 Zulassung, Zeitpunkt und Inhalt
 
@@ -1361,7 +1291,6 @@ schwierigere Aufgaben nach Anleitung zu erfüllen.
 Teil. Die mündliche Prüfung soll bis zum Ende des
 Vorbereitungsdienstes abgeschlossen sein, die schriftliche Prüfung
 spätestens zwei Wochen vor Beginn der mündlichen.
-
 
 ### § 41 Schriftliche Prüfung
 
@@ -1389,7 +1318,6 @@ Aufsichtsarbeiten sollen an aufeinander folgenden Arbeitstagen
 geschrieben werden; nach zwei Prüfungstagen soll ein freier Tag
 vorgesehen werden.
 
-
 ### § 42 Durchführung der schriftlichen Prüfung
 
 (1) Die Aufsichtsarbeiten werden anstelle des Namens mit einer
@@ -1415,7 +1343,6 @@ Prüfungskommission unmittelbar zu übersenden.
 Aufsichtsarbeit und wird nicht nach § 31 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 ### § 43 Zulassung zur mündlichen Prüfung
 
 (1) Die Anwärterinnen und Anwärter sind zur mündlichen Prüfung
@@ -1432,7 +1359,6 @@ versehen.
 
 (3) Sind die Voraussetzungen des Absatzes 1 nicht erfüllt, ist die
 Prüfung nicht bestanden.
-
 
 ### § 44 Mündliche Prüfung
 
@@ -1462,7 +1388,6 @@ Durchschnittspunktzahl.
 
 (7) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt. Sie
 wird von allen Mitgliedern der Prüfungskommission unterschrieben.
-
 
 ### § 45 Gesamtergebnis, Zeugnis
 
@@ -1513,7 +1438,6 @@ Prüfungszeugnisses.
 bestanden haben, erhalten vom Prüfungsamt ein Zeugnis, das auch die
 Dauer der Ausbildung und die Ausbildungsinhalte umfasst.
 
-
 ### § 46 Wiederholung
 
 (1) Ist die Prüfung nicht bestanden oder gilt sie als nicht bestanden,
@@ -1529,10 +1453,7 @@ verlängerten Vorbereitungsdienstes anwendbar.
 die bisherigen. Einzelne Prüfungsleistungen können nicht erlassen
 werden.
 
-
 ## Kapitel 8 - Sonstige Vorschriften
-
-
 
 ### § 47 Gleichwertige Befähigung
 
@@ -1577,13 +1498,11 @@ eines Einweisungslehrganges oder einer praktischen Einführung auf den
 Gebieten der Nachrichtengewinnung und -bearbeitung. Die Unterweisung
 dauert mindestens sechs Wochen und höchstens sechs Monate.
 
-
 ### § 48 Übergangsvorschrift
 
 Die Ausbildung der vor dem 1. Januar 2003 in den Vorbereitungsdienst
 eingestellten Anwärterinnen und Anwärter richtet sich nach den
 bisherigen Vorschriften.
-
 
 ### § 49 Inkrafttreten
 

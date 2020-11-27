@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2299
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -37,11 +35,9 @@ der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst)
 
 für seinen Geschäftsbereich.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

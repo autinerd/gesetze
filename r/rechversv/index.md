@@ -31,7 +31,6 @@ Verwaltungsvorschriften für die Direktversicherung
 (Lebensversicherung) sowie zur Änderung der Richtlinien 79/267/EWG und
 90/619/EWG (ABl. EG Nr. L 360 S. 1).
 
-
 ## Eingangsformel
 
 Auf Grund des § 330 Abs. 1, 3 und 4 des Handelsgesetzbuchs in der im
@@ -41,10 +40,7 @@ angefügt durch Artikel 1 Nr. 7 des Gesetzes vom 24. Juni 1994 (BGBl. I
 S. 1377), verordnet das Bundesministerium der Justiz im Einvernehmen
 mit dem Bundesministerium der Finanzen:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -53,10 +49,7 @@ anzuwenden, für die nach § 341 Abs. 1 und 2 des Handelsgesetzbuchs der
 Zweite Unterabschnitt des Vierten Abschnitts des Dritten Buchs des
 Handelsgesetzbuchs anzuwenden ist.
 
-
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
-
-
 
 ### § 2 Formblätter
 
@@ -92,7 +85,6 @@ Versicherungsunternehmen oder wegen ihrer Größe nachfolgend oder in
 den Fußnoten zu den Formblättern nichts anderes vorgeschrieben ist.
 Als Rückversicherungsunternehmen gelten nur solche Unternehmen, die
 ausschließlich die Rückversicherung betreiben.
-
 
 ### § 3 Zusammenfassung von Posten
 
@@ -157,13 +149,6 @@ In der
     bb) dadurch die Darstellung klarer wird; in diesem Fall müssen die
         zusammengefaßten Posten jedoch im Anhang gesondert ausgewiesen werden.
 
-
-
-
-
-
-
-
 ### § 4 Davon-Vermerke
 
 In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
@@ -185,10 +170,6 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
     (Passivposten I Nr. II), "Anleihen" (Passivposten I Nr. III),
     "Verbindlichkeiten gegenüber Kreditinstituten" (Passivposten I Nr. IV)
     und "Sonstige Verbindlichkeiten" (Passivposten I Nr. V).
-
-
-
-
 
 ### § 5 Zusätze
 
@@ -214,14 +195,9 @@ Verlustrechnung die mit einem oder mehreren kleinen Buchstaben
 versehenen Unterposten, soweit sie das in Rückdeckung gegebene
 Versicherungsgeschäft betreffen.
 
-
 ## Abschnitt 3 - Vorschriften zu einzelnen Posten der Bilanz
 
-
-
 ### Unterabschnitt 1 - Posten der Aktivseite
-
-
 
 #### § 6 Immaterielle Vermögensgegenstände
 
@@ -252,7 +228,6 @@ Geschäftsjahres, die Zugänge, Abgänge, Umbuchungen, die Zuschreibungen
 und Abschreibungen im Geschäftsjahr sowie die Bilanzwerte am Ende des
 Geschäftsjahrs jeweils gesondert aufzuführen.
 
-
 #### § 7 Aktien, Investmentanteile und andere nicht festverzinsliche Wertpapiere
 
 Im Posten "Aktien, Investmentanteile und andere nicht festverzinsliche
@@ -264,7 +239,6 @@ oder Orderpapiere ausgestaltete börsenfähige Genußscheine sowie andere
 nicht festverzinsliche Wertpapiere, soweit sie börsennotiert sind. Vor
 Fälligkeit hereingenommene Gewinnanteilscheine sind ebenfalls hier
 aufzunehmen.
-
 
 #### § 8 Inhaberschuldverschreibungen und andere festverzinsliche Wertpapiere
 
@@ -290,7 +264,6 @@ Euro-Geldmarktsatz gebunden ist, sowie Null-Kupon-Anleihen, ferner
 Schuldverschreibungen, die einen anteiligen Anspruch auf Erlöse aus
 einem gepoolten Forderungsvermögen verbriefen.
 
-
 #### § 9 Hypotheken-, Grundschuld- und Rentenschuldforderungen
 
 Im Posten "Hypotheken-, Grundschuld- und Rentenschuldforderungen" sind
@@ -300,7 +273,6 @@ bestellt worden sind und bei denen die Befriedigung insbesondere durch
 Verwertung des belasteten Objekts erfolgen soll. Zu den vorgenannten
 Forderungen gehören auch diejenigen, die durch einen
 Versicherungsvertrag zusätzlich gesichert sind.
-
 
 #### § 10 Sonstige Ausleihungen
 
@@ -345,7 +317,6 @@ Vorauszahlungen ist im Anhang anzugeben, wenn er sich nicht aus der
 Bilanz ergibt. Die übrigen Ausleihungen sind aufzugliedern, wenn sie
 einen größeren Umfang haben.
 
-
 #### § 11 Einlagen bei Kreditinstituten
 
 Im Posten "Einlagen bei Kreditinstituten" sind die Guthaben und
@@ -357,14 +328,12 @@ trotz Verzinsung jederzeit verfügt werden kann, sind unter dem Posten
 "Laufende Guthaben bei Kreditinstituten, Schecks und Kassenbestand"
 auszuweisen; dazu gehören auch die laufenden Postbankguthaben.
 
-
 #### § 12 Andere Kapitalanlagen
 
 Im Posten "Andere Kapitalanlagen" sind auch die Ausgleichsforderungen
 aus der Währungsreform von 1948 auszuweisen. Die "Anderen
 Kapitalanlagen" sind im Anhang zu erläutern, wenn sie einen größeren
 Umfang haben.
-
 
 #### § 13 Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft
 
@@ -383,7 +352,6 @@ Wertpapiere im Eigentum des rückversichernden Unternehmens, sind sie
 bei diesem als Wertpapiere unter den jeweiligen Kapitalanlageposten
 auszuweisen. Absatz 1 ist insoweit nicht anzuwenden.
 
-
 #### § 14 Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungspolicen
 
 (1) Auszuweisen sind in der Lebensversicherung die Kapitalanlagen,
@@ -396,7 +364,6 @@ bestimmt sind.
 
 (2) Im Anhang sind die Zusammensetzung des Anlagestocks und die Zahl
 der Anteileinheiten zum Abschlußstichtag anzugeben.
-
 
 #### § 15 Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft
 
@@ -415,7 +382,6 @@ ist, wenn Garantiewerte vorgesehen sind, der Unterschiedsbetrag
 zwischen der geschäftsplanmäßigen Deckungsrückstellung und der
 uneingeschränkt gezillmerten Deckungsrückstellung hier auszuweisen.
 
-
 #### § 16 Abrechnungsforderungen aus dem Rückversicherungsgeschäft
 
 Im Posten "Abrechnungsforderungen aus dem Rückversicherungsgeschäft"
@@ -432,7 +398,6 @@ Abschlußstichtag oder Zeitpunkt, sind sie bis dahin unter den
 entsprechenden Unterposten der versicherungstechnischen Rückstellungen
 auszuweisen.
 
-
 #### § 17 Sonstige Forderungen
 
 Im Posten "Sonstige Forderungen" sind Forderungen auszuweisen, die
@@ -444,7 +409,6 @@ Versicherungsverein auf Gegenseitigkeit als Gründungsstock zur
 Verfügung gestellte Betrag und Forderungen an Mitglieds- und
 Trägerunternehmen, die nicht aus dem Versicherungsgeschäft herrühren.
 
-
 #### § 18 Sachanlagen und Vorräte
 
 (1) Als Sachanlagen sind technische Anlagen und Maschinen, andere
@@ -454,12 +418,10 @@ Anzahlungen und Anlagen im Bau auszuweisen.
 (2) Als Vorräte sind insbesondere die Vorräte an Betriebsstoffen und
 Büromaterial sowie hierauf geleistete Anzahlungen auszuweisen.
 
-
 #### § 19 Andere Vermögensgegenstände
 
 Der Posten "Andere Vermögensgegenstände" ist im Anhang zu erläutern,
 wenn er einen größeren Umfang hat.
-
 
 #### § 20 Abgegrenzte Zinsen und Mieten
 
@@ -467,24 +429,19 @@ Als "Abgegrenzte Zinsen und Mieten" sind die Zins- und Mieterträge
 auszuweisen, die auf die Zeit bis zum Abschlußstichtag entfallen, aber
 noch nicht fällig sind.
 
-
 #### § 21 Ausgleichsbetrag
 
 Niederlassungen haben als letzten Posten der Aktivseite den Posten
 "Ausgleichsbetrag" einzufügen, wenn sich ein Überhang der Passivposten
 über die übrigen Aktivposten ergibt.
 
-
 ### Unterabschnitt 2 - Posten der Passivseite
-
-
 
 #### § 22 Nachrangige Verbindlichkeiten
 
 Im Posten "Nachrangige Verbindlichkeiten" sind Verbindlichkeiten
 auszuweisen, die im Falle der Liquidation oder der Insolvenz erst nach
 den Forderungen der anderen Gläubiger erfüllt werden dürfen.
-
 
 #### § 23 Anteile für das in Rückdeckung gegebene Versicherungsgeschäft an den Bruttobeträgen der versicherungstechnischen Rückstellungen
 
@@ -495,7 +452,6 @@ auf Grund der vertraglichen Abmachungen mit den Rückversicherern
 mindern. Die entsprechenden Anteile an dem Bruttobetrag der
 Beitragsüberträge sind gemäß § 24 zu berechnen; im Falle der Kündigung
 des Rückversicherungsvertrags gilt Satz 1.
-
 
 #### § 24 Beitragsüberträge
 
@@ -510,7 +466,6 @@ der Beitragsüberträge an einer zeitlichen Proportionalität zwischen
 Risikoverlauf und Beitrag, ist der Bruttobetrag der Beitragsüberträge
 nach Verfahren zu ermitteln, die der im Zeitablauf unterschiedlichen
 Entwicklung des Risikos Rechnung tragen.
-
 
 #### § 25 Deckungsrückstellung
 
@@ -556,7 +511,6 @@ Versicherungsfälle gebildete Renten-Deckungsrückstellung ist im Posten
 "Rückstellung für noch nicht abgewickelte Versicherungsfälle"
 auszuweisen.
 
-
 #### § 26 Rückstellung für noch nicht abgewickelte Versicherungsfälle
 
 (1) Für die Höhe der Rückstellung für noch nicht abgewickelte
@@ -584,7 +538,6 @@ abzusetzen. In der Rechtsschutzversicherung gehören zu den Forderungen
 nach Satz 1 auch bestehende Forderungen an den Prozeßgegner auf
 Erstattung der Kosten. Erreichen die abgesetzten Forderungen einen
 größeren Umfang, so sind sie im Anhang anzugeben.
-
 
 #### § 27 Näherungs- und Vereinfachungsverfahren
 
@@ -628,7 +581,6 @@ Versicherungsfälle anzugeben. Bei der Anwendung des Verfahrens nach
 Absatz 3 ist im Anhang anzugeben, um welchen Zeitraum das Jahr, dessen
 Zahlen ausgewiesen werden, dem Geschäftsjahr vorausgeht und welchen
 Umfang die betreffenden Geschäfte haben.
-
 
 #### § 28 Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung
 
@@ -790,7 +742,6 @@ im Anhang in tabellarischer Form anzugeben:
 (9) Für die nach Art der Lebensversicherung betriebene Schaden- und
 Unfallversicherung gelten die Absätze 6 bis 8 entsprechend.
 
-
 #### § 29 Schwankungsrückstellung
 
 Auf die Bildung von Schwankungsrückstellungen nach § 341h Abs. 1 des
@@ -800,7 +751,6 @@ Aufsichtsbehörde kann im Einzelfall Abweichungen zulassen, wenn die
 tatsächlichen Verhältnisse eine Änderung der Berechnungsgrundlagen
 erfordern oder die Regelung den Ausgleich der Schwankungen im
 jährlichen Schadenbedarf nicht oder nicht ausreichend gewährleistet.
-
 
 #### § 30 Der Schwankungsrückstellung ähnliche Rückstellungen
 
@@ -899,7 +849,6 @@ Schwankungsrückstellung zu überführen, sobald in einem Geschäftsjahr
 die Voraussetzungen nach § 341h Abs. 2 des Handelsgesetzbuchs nicht
 mehr vorliegen.
 
-
 #### § 31 Sonstige versicherungstechnische Rückstellungen
 
 (1) Zu dem Posten "Sonstige versicherungstechnische Rückstellungen"
@@ -938,10 +887,6 @@ auszuweisen:
     soweit sie vorsorglich bei einem mehrjährigen Beobachtungszeitraum vor
     Ablauf dieses Zeitraums gebildet wird.
 
-
-
-
-
 #### § 32 Versicherungstechnische Rückstellungen im Bereich der Lebensversicherung, wenn das Anlagerisiko von den Versicherungsnehmern getragen wird
 
 (1) Unter diesem Posten sind die versicherungstechnischen
@@ -960,7 +905,6 @@ oder Rückkaufswerten) gebildet werden, sind unter dem Passivposten
 Tontinenbetreibers gegenüber den Mitgliedern einer Tontine sind
 ebenfalls hier auszuweisen.
 
-
 #### § 33 Depotverbindlichkeiten aus dem in Rückdeckung gegebenen Versicherungsgeschäft
 
 (1) Im Posten "Depotverbindlichkeiten aus dem in Rückdeckung gegebenen
@@ -973,7 +917,6 @@ oder ihm vom Rückversicherer zu diesem Zweck belassen worden sind.
 Verbindlichkeiten gegenüber dem Rückversicherer zusammengefaßt noch
 mit Forderungen an den Rückversicherer verrechnet werden.
 
-
 #### § 34 Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
 
 Im Posten "Abrechnungsverbindlichkeiten aus dem
@@ -983,7 +926,6 @@ Rückversicherungsmaklern ergebenden Schuldsalden aus dem in
 Rückdeckung übernommenen und in Rückdeckung gegebenen
 Versicherungsgeschäft auszuweisen. Im übrigen gilt § 16 Satz 2.
 
-
 #### § 35 Ausgleichsbetrag
 
 Niederlassungen haben als letzten Posten der Passivseite den Posten
@@ -992,10 +934,7 @@ Niederlassungen haben als letzten Posten der Passivseite den Posten
 gewidmet sind und keine feste Kaution darstellen, sind nicht hier,
 sondern unter dem Passivposten "Kapitalrücklage" auszuweisen.
 
-
 ## Abschnitt 4 - Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung
-
-
 
 ### § 36 Gebuchte Bruttobeiträge
 
@@ -1083,7 +1022,6 @@ Von den Beiträgen gemäß Satz 1 sind die bei Aufgabe oder Verminderung
 des in Rückdeckung übernommenen Versicherungsgeschäfts an den
 Vorversicherer abgeführten Portefeuille-Austrittsbeiträge abzusetzen.
 
-
 ### § 37 Abgegebene Rückversicherungsbeiträge
 
 Im Unterposten "Abgegebene Rückversicherungsbeiträge" sind folgende
@@ -1105,7 +1043,6 @@ Beträge auszuweisen:
 Von den Beträgen gemäß Satz 1 sind die bei Aufgabe oder Verminderung
 des in Rückdeckung gegebenen Versicherungsgeschäfts vom
 Rückversicherer erhaltenen Portefeuille-Austrittsbeiträge abzusetzen.
-
 
 ### § 38 Technischer Zinsertrag für eigene Rechnung
 
@@ -1139,7 +1076,6 @@ genannten versicherungstechnischen Brutto-Rückstellungen betreffen.
 (2) Im Anhang ist der Grund der Übertragung und die
 Berechnungsgrundlage zu erläutern.
 
-
 ### § 39 Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen
 
 Lebensversicherungsunternehmen haben die nicht realisierten Gewinne
@@ -1147,7 +1083,6 @@ oder Verluste aus den Kapitalanlagen für Rechnung und Risiko von
 Inhabern von Lebensversicherungspolicen im Posten "Nicht realisierte
 Gewinne aus Kapitalanlagen" oder im Posten "Nicht realisierte Verluste
 aus Kapitalanlagen" auszuweisen.
-
 
 ### § 40 Sonstige versicherungstechnische Erträge für eigene Rechnung
 
@@ -1181,7 +1116,6 @@ insbesondere:
 
 Von den vorstehenden Erträgen sind die Anteile der Rückversicherer
 abzusetzen.
-
 
 ### § 41 Aufwendungen für Versicherungsfälle für eigene Rechnung
 
@@ -1230,7 +1164,6 @@ Geschäftsjahr übernommenen Rückstellung für noch nicht abgewickelte
 Versicherungsfälle erheblich, so ist dieses nach Art und Höhe im
 Anhang zu erläutern.
 
-
 ### § 42 Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung
 
 (1) Die Aufwendungen für die erfolgsabhängige Beitragsrückerstattung
@@ -1258,7 +1191,6 @@ Anteile der Rückversicherer abzusetzen.
 (3) Erreichen die erfolgsabhängigen und die erfolgsunabhängigen
 Beitragsrückerstattungen an die Versicherungsnehmer einen größeren
 Umfang, so sind sie im Anhang getrennt anzugeben.
-
 
 ### § 43 Aufwendungen für den Versicherungsbetrieb für eigene Rechnung
 
@@ -1374,7 +1306,6 @@ Abschlußaufwendungen und Verwaltungsaufwendungen zusammengefaßt unter
 dem Posten "Bruttoaufwendungen für den Versicherungsbetrieb"
 auszuweisen. Im Anhang sind diese Posten jedoch gesondert anzugeben.
 
-
 ### § 44 Sonstige versicherungstechnische Aufwendungen für eigene Rechnung
 
 Im Posten "Sonstige versicherungstechnische Aufwendungen für eigene
@@ -1412,7 +1343,6 @@ gehören insbesondere:
 Von den vorstehenden Aufwendungen sind die Anteile der Rückversicherer
 abzusetzen.
 
-
 ### § 45 Erträge aus Kapitalanlagen
 
 (1) Betreibt ein Lebensversicherungsunternehmen auch das selbst
@@ -1431,7 +1361,6 @@ Krankenversicherungsgeschäft auszuweisen.
 Bauten einschließlich der Bauten auf fremden Grundstücken" sind auch
 die kalkulatorischen Mieten für die eigengenutzten Grundstücke und
 Bauten auszuweisen.
-
 
 ### § 46 Aufwendungen für Kapitalanlagen
 
@@ -1462,10 +1391,6 @@ Kapitalanlagen umfassen insbesondere:
 
 5.  Schuldzinsen für Hypotheken auf den eigenen Grundbesitz.
 
-
-
-
-
 ### § 47 Sonstige Erträge
 
 Im Posten "Sonstige Erträge" sind die nichtversicherungstechnischen
@@ -1493,13 +1418,6 @@ können. Hierzu gehören insbesondere:
 
     b)  Beitragsforderungen an die Versicherungsnehmer herrühren, die im
         Posten "Gebuchte Bruttobeiträge" zu erfassen sind.
-
-
-
-
-
-
-
 
 ### § 48 Sonstige Aufwendungen
 
@@ -1544,16 +1462,11 @@ insbesondere:
 5.  die von der ausländischen Generaldirektion der inländischen
     Niederlassung in Rechnung gestellten Zentralverwaltungsaufwendungen.
 
-
-
-
-
 ### § 49 Sonstige Steuern
 
 Im Posten "Sonstige Steuern" sind Steuern auszuweisen, soweit es sich
 nicht um Steuern vom Einkommen und vom Ertrag oder um die
 Feuerschutzsteuer handelt.
-
 
 ### § 50 Ausgleichsposten
 
@@ -1567,10 +1480,7 @@ die Erträge unter der Bezeichnung "Ausgleichsposten" auszuweisen. Im
 nachfolgenden Geschäftsjahr ist dieser Unterschiedsbetrag unter dem
 "Ausgleichsposten aus dem Vorjahr" auszuweisen.
 
-
 ## Abschnitt 5 - Anhang
-
-
 
 ### § 51 Zusätzliche Erläuterungen
 
@@ -2016,7 +1926,6 @@ Muster 2 zu machen.
 
 (6) (weggefallen)
 
-
 ### § 52 Zusätzliche Pflichtangaben
 
 Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im
@@ -2060,13 +1969,6 @@ Anhang zusätzlich anzugeben:
         abgeschlossenen Versicherungsgeschäft gegenüber Versicherungsnehmern"
         enthaltenen verzinslich angesammelten Überschußanteile.
 
-
-
-
-
-
-
-
 ### § 53 Versicherungsunternehmen, die im selbst abgeschlossenen Versicherungsgeschäft mehrere Geschäftszweige betreiben
 
 Lebensversicherungsunternehmen, die auch das selbst abgeschlossene
@@ -2077,7 +1979,6 @@ Unfallversicherungsunternehmen, die auch das selbst abgeschlossene
 Krankenversicherungsgeschäft nach Art der Lebensversicherung
 betreiben, haben die für den Anhang vorgeschriebenen Angaben gesondert
 auch für das Krankenversicherungsgeschäft zu machen.
-
 
 ### § 54 Zeitwert der Kapitalanlagen
 
@@ -2097,7 +1998,6 @@ Zudem sind die Gesamtsumme der Anschaffungskosten der in die
 Überschussbeteiligung einzubeziehenden Kapitalanlagen, die Gesamtsumme
 des beizulegenden Zeitwerts selbiger Kapitalanlagen und der sich
 daraus ergebende Saldo anzugeben.
-
 
 ### § 55 Zeitwert der Grundstücke, grundstücksgleichen Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken
 
@@ -2141,7 +2041,6 @@ auszugehen.
 Zuordnung der Grundstücke und Bauten nach dem Jahr, in dem ihre
 Bewertung erfolgte, anzugeben.
 
-
 ### § 56 Zeitwert der übrigen Kapitalanlagen
 
 (1) Bei den übrigen Kapitalanlagen ist der Zeitwert vorbehaltlich
@@ -2172,10 +2071,7 @@ Vorsicht zu bewerten.
 (6) Zusätzlich sind die jeweils angewandte Bewertungsmethode sowie der
 Grund für ihre Anwendung anzugeben.
 
-
 ## Abschnitt 6 - Lagebericht
-
-
 
 ### § 57 Lagebericht
 
@@ -2231,10 +2127,7 @@ Krankenversicherungsgeschäft nach Art der Lebensversicherung
 betreiben, haben die für den Lagebericht vorgeschriebenen Angaben
 gesondert auch für das Krankenversicherungsgeschäft zu machen.
 
-
 ## Abschnitt 7 - Konzernrechnungslegung
-
-
 
 ### § 58 Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
 
@@ -2308,7 +2201,6 @@ bedingen,
 
 entsprechend anzuwenden.
 
-
 ### § 59 Konzernanhang
 
 (1) In den Konzernanhang sind neben den nach § 341j Abs. 1 in
@@ -2366,7 +2258,6 @@ Konzernanhang der Bilanzwert der von Versicherungsunternehmen im
 Rahmen ihrer Tätigkeit genutzten eigenen Grundstücke und Bauten
 anzugeben.
 
-
 ### § 60 Konzernlagebericht
 
 In den Konzernlagebericht sind zusätzlich zu den in § 315 Abs. 1 und 2
@@ -2381,13 +2272,7 @@ aufzunehmen:
     Kranken- und Schaden- und Unfallversicherungsgeschäft sowie in dem in
     Rückdeckung übernommenen Versicherungsgeschäft.
 
-
-
-
-
 ## Abschnitt 8 - Befreiungen und Vereinfachungen für bestimmte Versicherungsunternehmen
-
-
 
 ### § 61 Befreiungen
 
@@ -2447,7 +2332,6 @@ Versicherungsunternehmen nicht anzuwenden:
 
 (2) (weggefallen)
 
-
 ### § 62 Vereinfachungen
 
 (1) Die in § 61 Abs. 1 bezeichneten Versicherungsunternehmen dürfen
@@ -2498,10 +2382,7 @@ jedem Abschlußstichtag befreit werden. In diesen Fällen ist die
 Berechnung jedoch in regelmäßigen Abständen vorzunehmen, die fünf
 Jahre nicht überschreiten dürfen.
 
-
 ## Abschnitt 9 - Ordnungswidrigkeiten
-
-
 
 ### § 63 Ordnungswidrigkeiten
 
@@ -2558,13 +2439,7 @@ Geltungsbereichs dieser Verordnung
 
 4.  entgegen § 60 eine Angabe nicht in den Konzernlagebericht aufnimmt.
 
-
-
-
-
 ## Abschnitt 10 - Schlußvorschriften
-
-
 
 ### § 64 Übergangsvorschriften
 
@@ -2666,16 +2541,13 @@ Rechnungslegungsverordnung sowie zur Änderung weiterer
 Rechnungslegungsverordnungen vom 18. Dezember 2009 (BGBl. I S. 3934)
 ist Absatz 11 Satz 1, 2 und 4 entsprechend anzuwenden.
 
-
 ### § 65 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage (zu § 29) Vorschriften zur Bildung von Schwankungsrückstellungen
 
@@ -2991,13 +2863,11 @@ S. 622), für den freiwillig gesonderte versicherungstechnische Gewinn-
 und Verlustrechnungen für Zwecke der Schwankungsrückstellung nach
 Abschnitt II Nr. 1 Abs. 3 Satz 1 aufgestellt werden.
 
-
 ### Formblatt 1
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1994, S. 3399 - 3401;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Formblatt 2
 
@@ -3005,13 +2875,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 1994, S. 3402 - 3404;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Formblatt 3
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1994, S. 3405 - 3407;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Formblatt 4
 
@@ -3019,13 +2887,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 1994, S. 3408 - 3411;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ### Muster 1
 
 (Inhalt: nicht darstellbares Muster)
 (Fundstelle: BGBl. I 1994, S. 3412;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Muster 2
 
@@ -3033,13 +2899,11 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Inhalt: nicht darstellbares Muster)
 
-
 ### Muster 3
 
 (Fundstelle: BGBl. I 1994, S. 3414 - 3416;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Inhalt: nicht darstellbares Muster)
-
 
 ### Muster 4
 
@@ -3047,13 +2911,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Inhalt: nicht darstellbares Muster)
 
-
 ### Muster 5 Bewegung des Bestandes an Sterbegeldversicherungen, weiteren Kapitalversicherungen und Zusatzversicherungen im Geschäftsjahr ...
 
 (Fundstelle: BGBl. I 1994, S. 3418;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Inhalt: nicht darstellbares Muster)
-
 
 ### Muster 6
 

@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 26 G v. 20.12.2011 I 2854
 
-
 ## § 1 Erlaubnispflicht
 
 (1) Arbeitgeber, die als Verleiher Dritten (Entleihern) Arbeitnehmer
@@ -72,10 +71,6 @@ die Arbeitnehmerüberlassung
     Gemeinschaftsunternehmen verliehen wird, an dem der Verleiher
     beteiligt ist.
 
-
-
-
-
 ## § 1a Anzeige der Überlassung
 
 (1) Keiner Erlaubnis bedarf ein Arbeitgeber mit weniger als 50
@@ -99,10 +94,6 @@ Bundesagentur für Arbeit angezeigt hat.
 
 
 4.  Firma und Anschrift des Entleihers.
-
-
-
-
 
 ## § 1b Einschränkungen im Baugewerbe
 
@@ -132,7 +123,6 @@ drei Jahren überwiegend Tätigkeiten ausüben, die unter den
 Geltungsbereich derselben Rahmen- und Sozialkassentarifverträge
 fallen, von denen der Betrieb des Entleihers erfasst wird.
 
-
 ## § 2 Erteilung und Erlöschen der Erlaubnis
 
 (1) Die Erlaubnis wird auf schriftlichen Antrag erteilt.
@@ -160,7 +150,6 @@ drei aufeinanderfolgende Jahre lang nach § 1 erlaubt tätig war. Sie
 erlischt, wenn der Verleiher von der Erlaubnis drei Jahre lang keinen
 Gebrauch gemacht hat.
 
-
 ## § 2a Kosten
 
 (1) Für die Bearbeitung von Anträgen auf Erteilung und Verlängerung
@@ -172,7 +161,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste
 Sätze und Rahmensätze vorzusehen. Die Gebühr darf im Einzelfall 2.500
 Euro nicht überschreiten.
-
 
 ## § 3 Versagung
 
@@ -247,7 +235,6 @@ Voraussetzungen wie deutsche Staatsangehörige. Den Staatsangehörigen
 nach Satz 1 stehen gleich Gesellschaften, die nach den
 Rechtsvorschriften des anderen Staates gegründet sind.
 
-
 ## § 3a Lohnuntergrenze
 
 (1) Gewerkschaften und Vereinigungen von Arbeitgebern, die zumindest
@@ -320,7 +307,6 @@ Vorschlag befasst.
 gemeinsam die Änderung einer nach Absatz 2 erlassenen Rechtsverordnung
 vorschlagen. Die Absätze 1 bis 5 finden entsprechend Anwendung.
 
-
 ## § 4 Rücknahme
 
 (1) Eine rechtswidrige Erlaubnis kann mit Wirkung für die Zukunft
@@ -356,7 +342,6 @@ Erlaubnisbehörde den Verleiher auf sie hingewiesen hat.
 zulässig, in dem die Erlaubnisbehörde von den Tatsachen Kenntnis
 erhalten hat, die die Rücknahme der Erlaubnis rechtfertigen.
 
-
 ## § 5 Widerruf
 
 (1) Die Erlaubnis kann mit Wirkung für die Zukunft widerrufen werden,
@@ -390,14 +375,12 @@ erneut erteilt werden müßte.
 zulässig, in dem die Erlaubnisbehörde von den Tatsachen Kenntnis
 erhalten hat, die den Widerruf der Erlaubnis rechtfertigen.
 
-
 ## § 6 Verwaltungszwang
 
 Werden Leiharbeitnehmer von einem Verleiher ohne die erforderliche
 Erlaubnis überlassen, so hat die Erlaubnisbehörde dem Verleiher dies
 zu untersagen und das weitere Überlassen nach den Vorschriften des
 Verwaltungsvollstreckungsgesetzes zu verhindern.
-
 
 ## § 7 Anzeigen und Auskünfte
 
@@ -444,7 +427,6 @@ deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis
 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr
 strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 über Ordnungswidrigkeiten aussetzen würde.
-
 
 ## § 8 Statistische Meldungen
 
@@ -498,7 +480,6 @@ Ergebnissen auf Grund von Meldungen nach Absatz 1 dürfen keine
 Einzelangaben enthalten. Eine Zusammenfassung von Angaben mehrerer
 Auskunftspflichtiger ist keine Einzelangabe im Sinne dieses Absatzes.
 
-
 ## § 9 Unwirksamkeit
 
 Unwirksam sind:
@@ -546,10 +527,6 @@ Unwirksam sind:
 
 5.  Vereinbarungen, nach denen der Leiharbeitnehmer eine
     Vermittlungsvergütung an den Verleiher zu zahlen hat.
-
-
-
-
 
 ## § 10 Rechtsfolgen bei Unwirksamkeit, Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
 
@@ -611,7 +588,6 @@ Arbeitsbedingungen einschließlich des Arbeitsentgelts zu gewähren.
 das in einer Rechtsverordnung nach § 3a Absatz 2 für die Zeit der
 Überlassung und für Zeiten ohne Überlassung festgesetzte
 Mindeststundenentgelt zu zahlen.
-
 
 ## § 11 Sonstige Vorschriften über das Leiharbeitsverhältnis
 
@@ -682,7 +658,6 @@ Entleiher eine Erfindung oder einen technischen Verbesserungsvorschlag
 gemacht, so gilt der Entleiher als Arbeitgeber im Sinne des Gesetzes
 über Arbeitnehmererfindungen.
 
-
 ## § 12 Rechtsbeziehungen zwischen Verleiher und Entleiher
 
 (1) Der Vertrag zwischen dem Verleiher und dem Entleiher bedarf der
@@ -705,7 +680,6 @@ Abwicklung (§ 2 Abs. 4 Satz 4) und die gesetzliche Abwicklungsfrist (§
 
 (3) (weggefallen)
 
-
 ## § 13 Auskunftsanspruch des Leiharbeitnehmers
 
 Der Leiharbeitnehmer kann im Falle der Überlassung von seinem
@@ -715,7 +689,6 @@ Arbeitsbedingungen einschließlich des Arbeitsentgelts verlangen; dies
 gilt nicht, soweit die Voraussetzungen der in § 3 Abs. 1 Nr. 3 und § 9
 Nr. 2 genannten Ausnahme vorliegen.
 
-
 ## § 13a Informationspflicht des Entleihers über freie Arbeitsplätze
 
 Der Entleiher hat den Leiharbeitnehmer über Arbeitsplätze des
@@ -723,7 +696,6 @@ Entleihers, die besetzt werden sollen, zu informieren. Die Information
 kann durch allgemeine Bekanntgabe an geeigneter, dem Leiharbeitnehmer
 zugänglicher Stelle im Betrieb und Unternehmen des Entleihers
 erfolgen.
-
 
 ## § 13b Zugang des Leiharbeitnehmers zu Gemeinschaftseinrichtungen oder -diensten
 
@@ -736,7 +708,6 @@ sachlichen Gründen gerechtfertigt. Gemeinschaftseinrichtungen oder
 -dienste im Sinne des Satzes 1 sind insbesondere
 Kinderbetreuungseinrichtungen, Gemeinschaftsverpflegung und
 Beförderungsmittel.
-
 
 ## § 14 Mitwirkungs- und Mitbestimmungsrechte
 
@@ -764,7 +735,6 @@ bekanntzugeben.
 (4) Die Absätze 1 und 2 Satz 1 und 2 sowie Absatz 3 gelten für die
 Anwendung des Bundespersonalvertretungsgesetzes sinngemäß.
 
-
 ## § 15 Ausländische Leiharbeitnehmer ohne Genehmigung
 
 (1) Wer als Verleiher einen Ausländer, der einen erforderlichen
@@ -779,7 +749,6 @@ Jahren oder mit Geldstrafe bestraft.
 sechs Monaten bis zu fünf Jahren. Ein besonders schwerer Fall liegt in
 der Regel vor, wenn der Täter gewerbsmäßig oder aus grobem Eigennutz
 handelt.
-
 
 ## § 15a Entleih von Ausländern ohne Genehmigung
 
@@ -814,7 +783,6 @@ aus grobem Eigennutz handelt.
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft. Handelt der Täter aus grobem Eigennutz, ist die Strafe
 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
-
 
 ## § 16 Ordnungswidrigkeiten
 
@@ -946,7 +914,6 @@ Verwaltungsbehörde. Sie trägt abweichend von § 105 Abs. 2 des Gesetzes
 ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
 Ordnungswidrigkeiten.
 
-
 ## § 17 Durchführung
 
 (1) Die Bundesagentur für Arbeit führt dieses Gesetz nach fachlichen
@@ -955,7 +922,6 @@ Verwaltungskosten werden nicht erstattet.
 
 (2) Die Prüfung der Arbeitsbedingungen nach § 10 Absatz 5 obliegt
 zudem den Behörden der Zollverwaltung nach Maßgabe der §§ 17a bis 18a.
-
 
 ## § 17a Befugnisse der Behörden der Zollverwaltung
 
@@ -966,7 +932,6 @@ Arbeitsverträge, Niederschriften nach § 2 des Nachweisgesetzes und
 andere Geschäftsunterlagen nehmen können, die mittelbar oder
 unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach §
 10 Absatz 5 geben.
-
 
 ## § 17b Meldepflicht
 
@@ -1032,7 +997,6 @@ Zustimmung des Bundesrates bestimmen,
 ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 1
 Satz 1 bestimmen.
 
-
 ## § 17c Erstellen und Bereithalten von Dokumenten
 
 (1) Sofern eine Rechtsverordnung nach § 3a auf ein Arbeitsverhältnis
@@ -1047,7 +1011,6 @@ Leiharbeitnehmers im Geltungsbereich dieses Gesetzes, insgesamt jedoch
 nicht länger als zwei Jahre, in deutscher Sprache bereitzuhalten. Auf
 Verlangen der Prüfbehörde sind die Unterlagen auch am Ort der
 Beschäftigung bereitzuhalten.
-
 
 ## § 18 Zusammenarbeit mit anderen Behörden
 
@@ -1181,7 +1144,6 @@ Arbeitgeber seine Verpflichtungen nach § 10 Absatz 5 erfüllt. Die
 Regelungen über die internationale Rechtshilfe in Strafsachen bleiben
 hiervon unberührt.
 
-
 ## § 18a Ersatzzustellung an den Verleiher
 
 Für die Ersatzzustellung an den Verleiher auf Grund von Maßnahmen nach
@@ -1191,13 +1153,11 @@ eingesetzte Fahrzeug als Geschäftsraum im Sinne des § 5 Absatz 2 Satz
 2 Nummer 1 des Verwaltungszustellungsgesetzes in Verbindung mit § 178
 Absatz 1 Nummer 2 der Zivilprozessordnung.
 
-
 ## § 19 Übergangsvorschrift
 
 § 3 Absatz 1 Nummer 3 Satz 4 und § 9 Nummer 2 letzter Halbsatz finden
 keine Anwendung auf Leiharbeitsverhältnisse, die vor dem 15. Dezember
 2010 begründet worden sind.
-
 
 ## § 20
 

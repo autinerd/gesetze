@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 51 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 des Ergotherapeutengesetzes vom 25. Mai 1976 (BGBl.
 I S. 1246), zuletzt geändert durch Artikel 8 des Gesetzes vom 16. Juni
 1998 (BGBl. I S. 1311), verordnet das Bundesministerium für
 Gesundheit:
-
 
 ## § 1 Ausbildung
 
@@ -50,7 +48,6 @@ oder Ergotherapeuten stattzufinden.
 Ausbildungsveranstaltungen nach Absatz 1 ist durch eine Bescheinigung
 nach dem Muster der Anlage 2 nachzuweisen.
 
-
 ## § 2 Staatliche Prüfung
 
 (1) Die staatliche Prüfung nach § 2 Abs. 1 Nr. 1 des
@@ -62,7 +59,6 @@ Ausbildung abschließt. Die zuständige Behörde, in deren Bereich die
 Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus
 wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten
 Prüfungsausschüsse sind vorher zu hören.
-
 
 ## § 3 Prüfungsausschuß
 
@@ -110,7 +106,6 @@ Nr. 2 den Vorsitz führt.
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur
 Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
 ## § 4 Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die
@@ -137,7 +132,6 @@ werden.
 (4) Die besonderen Belange behinderter Prüflinge sind zur Wahrung
 ihrer Chancengleichheit bei Durchführung der Prüfungen zu
 berücksichtigen.
-
 
 ## § 5 Schriftlicher Teil der Prüfung
 
@@ -175,7 +169,6 @@ Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der
 Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede
 der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
-
 ## § 6 Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
@@ -205,7 +198,6 @@ der Prüfung ist bestanden, wenn jedes Fach mindestens mit
 (3) Der Vorsitzende des Prüfungsausschusses kann die Anwesenheit von
 Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein
 berechtigtes Interesse besteht.
-
 
 ## § 7 Praktischer Teil der Prüfung
 
@@ -247,13 +239,11 @@ Prüfungsnote für den praktischen Teil der Prüfung. Der praktische Teil
 der Prüfung ist bestanden, wenn die Prüfungen nach Absatz 1 Nr. 1 und
 2 jeweils mindestens mit "ausreichend" benotet werden.
 
-
 ## § 8 Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der
 Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende
 Unregelmäßigkeiten hervorgehen.
-
 
 ## § 9 Benotung
 
@@ -285,10 +275,6 @@ mündlichen und praktischen Prüfung werden wie folgt benotet:
     und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in
     absehbarer Zeit nicht behoben werden können.
 
-
-
-
-
 ## § 10 Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1
@@ -315,7 +301,6 @@ Zulassung zur Wiederholungsprüfung ist ein Nachweis über die Teilnahme
 an der weiteren Ausbildung beizufügen. Die Wiederholungsprüfung soll
 spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 
-
 ## § 11 Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder
@@ -332,7 +317,6 @@ unterläßt es der Prüfling, die Gründe für seinen Rücktritt
 unverzüglich mitzuteilen, so gilt die Prüfung oder der betreffende
 Teil der Prüfung als nicht bestanden. § 10 Abs. 3 gilt entsprechend.
 
-
 ## § 12 Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine
@@ -346,7 +330,6 @@ Prüfung oder der betreffende Teil der Prüfung als nicht unternommen.
 der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt
 entsprechend.
 
-
 ## § 13 Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die
@@ -358,7 +341,6 @@ Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im
 Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach
 Abschluß der Prüfung zulässig.
 
-
 ## § 14 Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung
@@ -366,14 +348,12 @@ Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche
 Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und
 Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
 ## § 15 Erlaubnisurkunde
 
 Liegen die Voraussetzungen nach § 2 des Ergotherapeutengesetzes für
 die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1
 des Gesetzes vor, so stellt die zuständige Behörde die
 Erlaubnisurkunde nach dem Muster der Anlage 4 aus.
-
 
 ## § 16 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
@@ -443,7 +423,6 @@ Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.
 
-
 ## § 16a Frist
 
 Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
@@ -458,14 +437,12 @@ der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
 Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
 zugrunde liegt, am 1. Dezember 2012 in Kraft.
 
-
 ## § 17 Übergangsvorschrift
 
 Eine vor Inkrafttreten dieser Verordnung begonnene Ausbildung zur
 "Beschäftigungs- und Arbeitstherapeutin", zum "Beschäftigungs- und
 Arbeitstherapeuten", zur "Ergotherapeutin" oder zum "Ergotherapeuten"
 wird nach den bisher geltenden Vorschriften abgeschlossen.
-
 
 ## § 18 Inkrafttreten, Außerkrafttreten
 
@@ -475,11 +452,9 @@ Prüfungsordnung für Beschäftigungs- und Arbeitstherapeuten vom 23.
 März 1977 (BGBl. I S. 509), zuletzt geändert durch Artikel 2 der
 Verordnung vom 6. Dezember 1994 (BGBl. I S. 3770), außer Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 1)
 
@@ -1971,10 +1946,6 @@ Fundstelle: BGBl. I 1999, 1735 - 1739
         ergotherapeutische Arbeit mit Kindern oder Jugendlichen, mit
         Erwachsenen und mit älteren Menschen erstrecken.
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 1740)
@@ -2004,7 +1975,6 @@ Ort, Datum
 Schulleitung)
 ----------
 \*) Nichtzutreffendes streichen.
-
 
 ## Anlage 3 (zu § 10 Abs. 2 Satz 1)
 
@@ -2037,7 +2007,6 @@ Ort, Datum
 (Unterschrift des
 Vorsitzenden des
 Prüfungsausschusses)
-
 
 ## Anlage 4 (zu § 15)
 

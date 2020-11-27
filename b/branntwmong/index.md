@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 16.6.2011 I 1090
 
-
 ## Inhalt
 
 
@@ -2106,21 +2105,11 @@ Zuletzt geändert durch
     *
     *   § 166
 
-
-
-
-
 ## Erster Teil - Branntweinmonopol
-
-
 
 ### Erster Abschnitt - Gegenstand und Geltungsbereich des Monopols
 
-
-
 #### - - Gegenstand des Monopols
-
-
 
 ##### § 1 Gegenstand des Monopols
 
@@ -2129,37 +2118,24 @@ vorgesehen sind, die Übernahme des im Monopolgebiet hergestellten
 Branntweins aus den Brennereien (§§ 58 ff.) sowie dessen Verwertung
 (§§ 83 ff.).
 
-
 #### - - Monopolgebiet
-
-
 
 ##### § 2
 
 Monopolgebiet ist das Gebiet der Bundesrepublik Deutschland ohne das
 Gebiet von Büsingen und ohne die Insel Helgoland.
 
-
 #### - - Einfuhrmonopol
-
-
 
 ##### § 3
 
 (weggefallen)
 
-
 ### Zweiter Abschnitt - Verwaltung des Monopols
-
-
 
 #### Erster Titel - Bundesmonopolverwaltung
 
-
-
 ##### - - Allgemeine Vorschriften
-
-
 
 ###### § 4
 
@@ -2168,21 +2144,16 @@ Bundesministeriums der Finanzen der Bundesmonopolverwaltung ob. Sie
 besteht aus dem Bundesmonopolamt (§ 8) und der Verwertungsstelle (§
 9); an ihrer Spitze steht ein Präsident oder eine Präsidentin (§ 7).
 
-
 ###### § 5
 
 Die Bundesmonopolverwaltung trifft alle zur Durchführung des Monopols
 erforderlichen Maßnahmen.
 
-
 ###### § 6
 
 -
 
-
 ##### - - Präsident oder Präsidentin der Bundesmonopolverwaltung
-
-
 
 ###### § 7
 
@@ -2191,10 +2162,7 @@ Bundesmonopolverwaltung bei allen Rechtshandlungen und
 Rechtsstreitigkeiten vor Gerichten und anderen Behörden sowie im
 schiedsgerichtlichen Verfahren berufen.
 
-
 ##### - - Das Bundesmonopolamt
-
-
 
 ###### § 8
 
@@ -2202,7 +2170,6 @@ schiedsgerichtlichen Verfahren berufen.
 
 (2) Die Besoldung der Beamten des Bundesmonopolamts wird aus den
 Erträgen des Monopols bestritten.
-
 
 ###### § 9 Die Verwertungsstelle
 
@@ -2214,46 +2181,31 @@ der Finanzen bestimmt den Geschäftsführer.
 (2) Die Verwertungsstelle hat eine Bilanz nebst Gewinn- und
 Verlustrechnung aufzustellen und einen Geschäftsbericht zu fertigen.
 
-
 ###### § 10
 
 -
 
-
 ##### - - Der Beirat
 
-
-
 ###### (XXXX) §§ 11 und 12
-
-
 
 ###### § 13
 
 -
 
-
 ###### § 14 (weggefallen)
-
-
 
 ###### § 15
 
 -
 
-
 ##### - - Der Gewerbeausschuß
-
-
 
 ###### § 16
 
 (weggefallen)
 
-
 #### Zweiter Titel - Mitwirkung anderer Behörden bei der Verwaltung des Monopols
-
-
 
 ##### § 17
 
@@ -2265,13 +2217,11 @@ Verwaltung der Zölle und Verbrauchsabgaben beauftragten Bundesbehörden
 (2) Das Bundesministerium der Finanzen regelt das Verhältnis zwischen
 der Bundesmonopolverwaltung und den Finanzbehörden.
 
-
 ##### § 18
 
 Für die Kosten der Verwaltung des Monopols durch die Finanzbehörden
 wird aus der Monopoleinnahme eine vom Bundesministerium der Finanzen
 näher zu bestimmende Vergütung gewährt.
-
 
 ##### § 19
 
@@ -2282,24 +2232,16 @@ Monopols mitzuwirken. Sie haben Zuwiderhandlungen gegen dieses Gesetz,
 die ihnen bei Ausübung ihres Dienstes bekannt werden, sofort den
 Strafverfolgungsbehörden anzuzeigen.
 
-
 ### Dritter Abschnitt - Herstellung und Reinigung des Branntweins und Einteilung der Brennereien
-
-
 
 #### Erster Titel
 
-
-
 ##### - - Brennereien
-
-
 
 ###### § 20
 
 Die Brennereien werden eingeteilt in Monopolbrennereien und in
 Eigenbrennereien.
-
 
 ###### § 21
 
@@ -2313,17 +2255,9 @@ Zu den Monopolbrennereien gehören
     Stoffen herstellen, aus denen Branntwein im Monopolgebiet vor dem 1.
     Oktober 1914 gewerblich nicht gewonnen worden ist.
 
-
-
-
-
 ###### (XXXX) §§ 22 und 23
 
-
-
 ##### - - Brennereiklassen
-
-
 
 ###### § 24
 
@@ -2337,13 +2271,7 @@ Die Eigenbrennereien werden eingeteilt in
 
 3.  gewerbliche Brennereien (§ 28).
 
-
-
-
-
 ##### - - Landwirtschaftliche Brennereien
-
-
 
 ###### § 25
 
@@ -2405,14 +2333,9 @@ als Gemeinschaftsbrennereien betrieben werden.
     Brennerei genutzte landwirtschaftliche Nutzfläche, zu Beginn des
     Betriebsjahres entspricht. Satz 4 gilt entsprechend.
 
-
-
-
-
 ###### § 25a
 
 (weggefallen)
-
 
 ###### § 26
 
@@ -2435,15 +2358,11 @@ als Gemeinschaftsbrennereien betrieben werden.
 Verarbeitung der anderen Stoffe aus Gründen der Volksernährung
 notwendig ist.
 
-
 ###### § 26a
 
 -
 
-
 ##### - - Obstbrennereien
-
-
 
 ###### § 27
 
@@ -2455,10 +2374,7 @@ verarbeiten.
 Ausführungsbestimmungen zu umschreiben; er kann vom Bundesministerium
 der Finanzen für besondere Ausnahmefälle erweitert werden.
 
-
 ##### - - Gewerbliche Brennereien
-
-
 
 ###### § 28
 
@@ -2471,10 +2387,7 @@ landwirtschaftliche Brennereien mit Hefenerzeugung betrieben worden
 sind, gelten auch fernerhin als landwirtschaftliche Brennereien,
 solange sie die Bedingungen der §§ 25 und 26 erfüllen.
 
-
 #### Zweiter Titel - Reinigung des Branntweins
-
-
 
 ##### § 29
 
@@ -2482,10 +2395,7 @@ Branntwein, der unter Abfindung (§ 57) hergestellt wurde, darf nur mit
 Zustimmung der Bundesmonopolverwaltung gereinigt werden. Dies gilt
 nicht für den Feinbrand in der Abfindungsbrennerei.
 
-
 ### Vierter Abschnitt - Brennrecht
-
-
 
 #### § 30
 
@@ -2493,31 +2403,24 @@ Die Vorschriften über das Brennrecht finden auf Monopolbrennereien,
 soweit sie Branntwein aus den in § 21 Nr. 2 genannten Stoffen
 verarbeiten, keine Anwendung.
 
-
 #### § 31
 
 Soweit Eigenbrennereien nach dem bisherigen Gesetz ein Brennrecht
 hatten, bleibt es in Geltung.
 
-
 #### § 32
 
 (weggefallen)
-
 
 #### § 33
 
 (weggefallen)
 
-
 #### § 33a
 
 (weggefallen)
 
-
 #### - - Kleinbrennereien
-
-
 
 ##### § 34
 
@@ -2525,15 +2428,11 @@ Die Erzeugung von Brennereien ohne Brennrecht gilt als innerhalb des
 Brennrechts hergestellt, wenn sie in einem Betriebsjahr zehn
 Hektoliter Weingeist nicht übersteigt.
 
-
 ##### § 35
 
 -
 
-
 #### - - Stoffbesitzer
-
-
 
 ##### § 36
 
@@ -2549,10 +2448,7 @@ innerhalb des Brennrechts hergestellt.
 gewonnen sind, in denen in den Betriebsjahren 1908/09 bis 1914/15
 solche Stoffe in der bezeichneten Weise nicht verarbeitet worden sind.
 
-
 #### - - Obstgemeinschaftsbrennereien
-
-
 
 ##### § 37
 
@@ -2599,15 +2495,11 @@ Obststoffe zu Branntwein verarbeitet werden, wechselt die
 Brennereiklasse. Diese Folge tritt nicht ein, wenn die Verarbeitung
 bei Anwendung der gebotenen Sorgfalt nicht verhindert werden konnte.
 
-
 ##### § 37a
 
 -
 
-
 #### - - Verlust des Brennrechts
-
-
 
 ##### § 38
 
@@ -2638,7 +2530,6 @@ Ausführungsbestimmungen Ausnahmen zugelassen werden.
 mit dem Beginn des Betriebsjahres, in den übrigen Fällen mit dem
 Eintritt der den Verlust begründenden Tatsachen.
 
-
 ##### § 39
 
 (1) (weggefallen)
@@ -2647,15 +2538,11 @@ Eintritt der den Verlust begründenden Tatsachen.
 Rechtsverordnung zur Rechtsbereinigung den Wortlaut aller Brennrechte
 dem derzeitigen Monopolrecht anzupassen.
 
-
 ##### § 39a
 
 (weggefallen)
 
-
 #### - - Jahresbrennrecht
-
-
 
 ##### § 40
 
@@ -2706,7 +2593,6 @@ landwirtschaftliche Brennereien festgesetzt.
 
 (5) (weggefallen)
 
-
 ##### § 41
 
 (1) In Abschnitten von zehn zu zehn Jahren dürfen in beliebigen Jahren
@@ -2749,7 +2635,6 @@ dementsprechend.
 (Lohnbrennereien), sind von der Vergünstigung des Absatzes 1
 ausgeschlossen.
 
-
 ##### § 42 Zulassung der Zusammenlegung und der Übertragung
 
 (1) Landwirtschaftliche Brennereien (§ 25 Abs. 2 und 3) können auf
@@ -2781,7 +2666,6 @@ Härten aus der Abwicklung früherer Übertragungen für eine
 von Brennereien, die nach § 58 Satz 2 aus dem Branntweinmonopol
 ausscheiden, werden nicht übertragen.
 
-
 ##### § 42a
 
 (1) Die Bundesmonopolverwaltung kann auf Antrag der Brennereibesitzer
@@ -2794,14 +2678,9 @@ die Übernahmegeldzahlungen nicht erhöhen.
 (2) Für die Dauer der Nutzung gilt das Jahresbrennrecht der anderen
 Brennerei als entsprechend erhöht.
 
-
 ### Fünfter Abschnitt - Überwachung der Herstellung und Verwendung von Branntwein und Branntweinerzeugnissen
 
-
-
 #### Erster Titel - Amtliche Aufsicht
-
-
 
 ##### § 43
 
@@ -2832,7 +2711,6 @@ Betriebe, Unternehmen oder Personen, die
 unterliegen nach näherer Anordnung der Ausführungsbestimmungen der
 amtlichen Aufsicht.
 
-
 ##### § 44
 
 (1) Wer sich zur Erfüllung steuerlicher oder monopolrechtlicher
@@ -2847,7 +2725,6 @@ der Zollbehandlung.
 erheblich sind, kann das Hauptzollamt Personen, die vom Ergebnis der
 Feststellung nicht selbst betroffen sind, als Hilfspersonen bestellen.
 
-
 ##### § 45
 
 (1) Wer einen Betrieb, der die Herstellung oder die Reinigung von
@@ -2860,7 +2737,6 @@ Dabei sind die Betriebs- und Lagerräume anzugeben.
 Reinigung von Branntwein geeignete Geräte an einen anderen abgibt, hat
 dies schriftlich der Finanzbehörde anzuzeigen. Dies hat spätestens bei
 der Abgabe zu geschehen. Dabei ist der Empfänger zu bezeichnen.
-
 
 ##### § 46
 
@@ -2883,7 +2759,6 @@ zu verkaufen:
 
 (2) Der
 Reichsminister der Finanzen              kann Ausnahmen zulassen.
-
 
 ##### § 47
 
@@ -2919,7 +2794,6 @@ Insbesondere können sie anordnen:
 (2) Die Ausführungsbestimmungen ordnen ferner an, wann ein Betrieb
 oder Unternehmen als erloschen zu gelten hat.
 
-
 ##### § 48
 
 (1) Für die monopolrechtliche Prüfung von Betrieben und Unternehmen,
@@ -2936,21 +2810,17 @@ Handelsrecht verpflichtet sind, Bücher zu führen, haben auf Verlangen
 der Bundesmonopolverwaltung eine Kostenaufstellung nach
 vorgeschriebenem Muster zu fertigen und vorzulegen.
 
-
 ##### § 49
 
 -
-
 
 ##### § 50
 
 -
 
-
 ##### § 51
 
 -
-
 
 ##### § 51a Untersagung des Gewerbebetriebs
 
@@ -2971,7 +2841,6 @@ Abgabenordnung entsprechend.
 
 (3) Nach Ablauf eines Jahres seit der Rechtskraft des
 Untersagungsbeschlusses kann das Hauptzollamt den Beschluss aufheben.
-
 
 ##### § 51b Sicherstellung im Aufsichtsweg und Überführung in das Eigentum des Bundes
 
@@ -3014,15 +2883,11 @@ entsprechend.
 
 (3)
 
-
 ##### § 51c
 
 -
 
-
 #### Zweiter Titel - Verschlußbrennereien
-
-
 
 ##### § 52
 
@@ -3030,7 +2895,6 @@ Die Brennereien sind entsprechend den Anordnungen in den
 Ausführungsbestimmungen verschlußsicher einzurichten
 (Verschlußbrennereien), soweit nicht in § 57 Ausnahmen vorgesehen
 sind.
-
 
 ##### § 53
 
@@ -3042,27 +2906,21 @@ infolge Betriebsstörung oder Verletzung der Brennereieinrichtung das
 Monopolaufkommen gefährdet und dessen Sicherung auf andere Weise nicht
 zu erreichen ist.
 
-
 ##### § 54
 
 Der Brennereibesitzer ist verpflichtet, die Brennerei auf seine Kosten
 entsprechend den Anordnungen in den Ausführungsbestimmungen
 verschlußsicher einzurichten und zu erhalten.
 
-
 ##### § 55
 
 -
-
 
 ##### § 56
 
 -
 
-
 #### Dritter Titel - Abfindungsbrennereien
-
-
 
 ##### § 57
 
@@ -3070,10 +2928,7 @@ Brennereien können nach Bestimmung des
 Reichsministers der Finanzen              zur Abfindung zugelassen
 werden.
 
-
 ### Sechster Abschnitt - Ablieferung und Übernahme des Branntweins
-
-
 
 #### § 58
 
@@ -3092,7 +2947,6 @@ Zwecken verwenden dürfen. Dies gilt für Brennereien, die bereits gemäß
 § 58 Satz 2 dieses Gesetzes in der Fassung vom 22. Dezember 1999 von
 der Ablieferungspflicht befreit worden sind, mit Wirkung vom 1.
 Oktober 2004.
-
 
 #### § 58a
 
@@ -3117,12 +2971,10 @@ Zeitpunkt Kornbranntwein (§ 101 in der bis zum 30. September 2006
 geltenden Fassung) erzeugt haben, endet die Zahlung von
 Ausgleichsbeträgen nach Absatz 4 mit Ablauf des 30. September 2006.
 
-
 #### § 59
 
 Der erzeugte Branntwein ist seiner Weingeistmenge nach festzustellen
 und abzufertigen (Branntweinabnahme).
-
 
 #### § 60
 
@@ -3131,7 +2983,6 @@ den an die
 Bundesmonopolverwaltung              abzuliefernden Branntwein für
 deren Rechnung und nach deren Weisung. Die Bundesmonopolverwaltung
 stellt kostenlos die Versandgefäße.
-
 
 #### § 61
 
@@ -3163,7 +3014,6 @@ an die geltenden Frachttarife, insbesondere den Deutschen Eisenbahn-
 Gütertarif, den Güterfernverkehrstarif (GFT) und den Güternahtarif,
 ein angemessenes Beförderungsentgelt festsetzen.
 
-
 #### § 61a Anbietungspflicht
 
 (1) Der Bundesmonopolverwaltung ist anzubieten und auf Verlangen
@@ -3191,15 +3041,11 @@ abzuliefern:
 (2) Die Bundesmonopolverwaltung ist berechtigt, die Übernahme des in
 Absatz 1 bezeichneten Branntweins abzulehnen.
 
-
 ### Siebenter Abschnitt - Branntweinübernahmepreise
-
-
 
 #### § 62
 
 -
-
 
 #### § 63
 
@@ -3219,13 +3065,11 @@ Berechnung der Übernahmepreise nicht berücksichtigt.
 Herstellungskosten zu ermitteln sind, sind nur diejenigen Kosten, die
 in einer gut geleiteten Brennerei entstehen, zu berücksichtigen.
 
-
 #### § 63a Übernahmegeld in den Fällen des § 61a
 
 Die Bundesmonopolverwaltung setzt das Übernahmegeld für Branntwein,
 den sie auf Grund des § 61a übernimmt, nach dem erzielbaren Nettoerlös
 fest.
-
 
 #### § 64
 
@@ -3242,10 +3086,7 @@ wenn das zu Beginn des Betriebsjahres festgesetzte Jahresbrennrecht
 überschritten wird. In diesen Fällen werden Übernahmegeldansprüche mit
 Rückforderungsansprüchen verrechnet.
 
-
 #### - - Branntweingrundpreis
-
-
 
 ##### § 65
 
@@ -3298,10 +3139,7 @@ Rechtsverordnung im Einvernehmen mit dem Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz anstelle von Triticale
 anderes Getreide zu bestimmen.
 
-
 #### - - Betriebsabzüge
-
-
 
 ##### § 66
 
@@ -3354,18 +3192,11 @@ Rechtsverordnung
 3.  vorzusehen, dass die Bundesmonopolverwaltung in den Fällen des § 42a
     als Anreiz die Abzüge nach Absatz 1 niedriger festsetzen kann.
 
-
-
-
-
 ##### § 67
 
 -
 
-
 #### - - Betriebszuschläge
-
-
 
 ##### § 68
 
@@ -3414,7 +3245,6 @@ des Branntweingrundpreises.
 Jahreserzeugung sich ergebende Übernahmegeld das nach Absatz 1 für 300
 Hektoliter Weingeist berechnete Übernahmegeld übersteigt.
 
-
 ##### § 69
 
 Anstelle des Betriebszuschlags nach § 68 erhalten
@@ -3438,20 +3268,15 @@ abweichenden Jahresbrennrecht ermäßigt oder erhöht sich der Zuschlag
 um den doppelten Betrag der sich dadurch ergebenden
 Grundpreisveränderung.
 
-
 ##### § 70
 
 -
-
 
 ##### § 71
 
 -
 
-
 #### - - Abzüge und Zuschläge bei besonderen Verhältnissen
-
-
 
 ##### § 72
 
@@ -3488,11 +3313,9 @@ festgesetzt würde. Die Zuschläge werden auch für den gleichen
 Branntwein festgesetzt, der in Obstgemeinschaftsbrennereien als
 innerhalb des Brennrechts hergestellt gilt.
 
-
 ##### § 72a
 
 (weggefallen)
-
 
 ##### § 72b
 
@@ -3514,7 +3337,6 @@ hergestellt wird, werden um 5 vom Hundert gekürzt.
 
 (4) (weggefallen)
 
-
 ##### § 73
 
 Für Branntwein, der über einer vom Bundesmonopolamt bestimmten Stärke
@@ -3524,19 +3346,13 @@ unter einer vom Bundesmonopolamt bestimmten Stärke abgeliefert wird
 oder erhebliche Verunreinigungen aufweist, Abzüge vom
 Branntweingrundpreis festgesetzt werden.
 
-
 #### - - Erhöhter Übernahmepreis
-
-
 
 ##### § 73a
 
 -
 
-
 #### - - Überbrand
-
-
 
 ##### § 74
 
@@ -3547,10 +3363,7 @@ Obstbrennereien mindestens 10 Hundertteile, für Branntwein aus anderen
 Brennereien mindestens 20 Hundertteile des Branntweingrundpreises
 betragen sollen.
 
-
 #### - - Zahlung des Übernahmegeldes
-
-
 
 ##### § 75
 
@@ -3569,10 +3382,7 @@ letzteren Fall beginnt die Verpflichtung zur Verzinsung des
 Übernahmegeldes erst mit Ablauf der zweiten Woche nach dem Tage der
 Verladung.
 
-
 ### Achter Abschnitt - Befreiung von der Ablieferung, Branntweinaufschlag
-
-
 
 #### § 76
 
@@ -3631,48 +3441,34 @@ zuständigen Hauptzollamt anmeldet. §§ 59 bis 61 gelten entsprechend.
 
 (3) (weggefallen)
 
-
 #### § 77
 
 Auf die Feststellung der Weingeistmenge findet § 59 Anwendung. Durch
 die Ausführungsbestimmungen können Ausnahmen zugelassen werden.
 
-
 #### (XXXX) §§ 78 bis 80
-
-
 
 #### § 81
 
 (weggefallen)
 
-
 #### § 82
 
 (weggefallen)
-
 
 #### § 82a
 
 (weggefallen)
 
-
 ### Neunter Abschnitt - Branntweinverwertung und Branntweinhandel
-
-
 
 #### Erster Titel - Branntweinverwertung durch die Bundesmonopolverwaltung
 
-
-
 ##### I. - Allgemeine Vorschriften
-
-
 
 ###### § 83
 
 -
-
 
 ###### § 84
 
@@ -3681,63 +3477,46 @@ unterliegt der Branntweinsteuer nach § 130. Der Branntwein gilt mit
 der Abnahme als im Branntweinlager der Bundesmonopolverwaltung
 befindlich.
 
-
 ###### § 85
 
 -
-
 
 ###### § 86
 
 (weggefallen)
 
-
 ##### II. - Verwertung des unverarbeiteten Branntweins
-
-
 
 ###### § 87
 
 (aufgehoben)
-
 
 ###### § 88
 
 Die Bundesmonopolverwaltung verwertet den übernommenen Alkohol nach
 kaufmännischen Grundsätzen.
 
-
 ###### § 89
 
 (weggefallen)
 
-
 ###### (XXXX) §§ 90 bis 92
-
-
 
 ###### § 93
 
 -
 
-
 ###### (XXXX) §§ 94 bis 98
 
-
-
 #### Zweiter Titel - Branntweinverwertung durch andere als die Bundesmonopolverwaltung und Branntweinhandel
-
-
 
 ##### § 99
 
 (aufgehoben)
 
-
 ##### § 99a
 
 -
-
 
 ##### § 99b
 
@@ -3746,28 +3525,19 @@ und Arzneimitteln nur verwendet werden, wenn er aus
 landwirtschaftlichen Rohstoffen im Sinn des Artikels 38 des Vertrags
 über die Arbeitsweise der Europäischen Union hergestellt worden ist.
 
-
 ##### § 100
 
 -
-
 
 ##### § 101
 
 (weggefallen)
 
-
 ##### (XXXX) §§ 102 bis 105
-
-
 
 ##### - - Ausfuhr
 
-
-
 ##### - - Branntweinhandel
-
-
 
 ###### § 106
 
@@ -3777,15 +3547,11 @@ der Regelsatz nach § 131 Abs. 1, der am Tage des Angebots, Handels
 oder Erwerbs gilt. Satz 1 gilt auch, wenn Kosten (zum Beispiel
 Reinigungskosten) verrechnet werden.
 
-
 ###### § 107
 
 -
 
-
 ### Zehnter Abschnitt - Besondere Vorschriften
-
-
 
 #### § 108 Berechnung bei Verkürzung von Branntweinsteuer
 
@@ -3809,14 +3575,12 @@ Weiterbenutzung angenommen wird, sofern nicht festgestellt wird, daß
 die Verkürzung sich auf einen anderen Zeitraum oder auf eine andere
 Menge erstreckt hat.
 
-
 #### § 109 Nebenbestimmungen zum Verwaltungsakt
 
 Wenn das Gesetz die Gewährung von monopolrechtlichen Vergünstigungen
 oder Erleichterungen zuläßt, kann die Bundesmonopolverwaltung
 besondere Nebenbestimmungen der in § 120 der Abgabenordnung
 bezeichneten Art treffen.
-
 
 #### § 110
 
@@ -3834,16 +3598,13 @@ Ansprüche der Bundesmonopolverwaltung er kann, solange die Ansprüche
 nicht befriedigt sind, von der Bundesmonopolverwaltung oder den
 Finanzbehörden mit Beschlag belegt werden.
 
-
 #### § 110a
 
 -
 
-
 #### § 110b
 
 -
-
 
 #### § 111 Verjährung, Verzinsung, Säumniszuschläge
 
@@ -3857,7 +3618,6 @@ auf Zahlung von Branntweinübernahmegeld werden ausschließlich nach §
 
 (2) Wer Branntweinübernahmegeld zugunsten Dritter erschlichen hat,
 haftet für die Rückzahlung.
-
 
 #### § 112 Kosten
 
@@ -3903,11 +3663,9 @@ verlangen.
 
 (3) § 178 Abs. 3 und 4 der Abgabenordnung gilt entsprechend.
 
-
 #### § 113
 
 -
-
 
 #### § 114 Vollstreckung
 
@@ -3919,82 +3677,61 @@ Steuern vollstreckt.
 vollstreckt. Die §§ 328 bis 335 der Abgabenordnung finden
 entsprechende Anwendung.
 
-
 #### - - Methylalkohol
-
-
 
 ##### § 115
 
 -
 
-
 #### - - Hefe
-
-
 
 ##### § 116
 
 -
 
-
 ##### § 117
 
 -
 
-
 #### - - Aufwendungen für Wohlfahrts- und Wirtschaftszwecke
-
-
 
 ##### § 118
 
 -
 
-
 ##### § 118a
 
 -
 
-
 ### Elfter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 #### § 119
 
 -
 
-
 #### § 120
 
 -
-
 
 #### § 121
 
 -
 
-
 #### § 122
 
 -
-
 
 #### § 123
 
 -
 
-
 #### § 124
 
 -
 
-
 #### § 125
 
 -
-
 
 #### § 126 Monopolordnungswidrigkeiten
 
@@ -4058,11 +3795,9 @@ Branntweinübernahmegeld zu erlangen.
 Euro geahndet werden, wenn die Handlung nicht nach § 378 der
 Abgabenordnung geahndet werden kann.
 
-
 #### § 127
 
 -
-
 
 #### § 128
 
@@ -4079,24 +3814,17 @@ entsprechend anzuwenden.
 (3) Die Verfolgung von Monopolordnungswidrigkeiten nach § 126 Abs. 2
 verjährt in fünf Jahren.
 
-
 #### § 129
 
 -
-
 
 #### § 129a
 
 -
 
-
 ## Zweiter Teil - Branntweinsteuer
 
-
-
 ### Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 #### § 130 Steuergebiet, Steuergegenstand
 
@@ -4153,10 +3881,6 @@ Rechtsverordnung
     aufgenommen wird, bis zu seiner bestimmungsgemäßen Verarbeitung wie
     Branntwein behandelt wird.
 
-
-
-
-
 #### § 131 Steuertarif
 
 (1) Die Steuer bemisst sich nach der im Erzeugnis enthaltenen
@@ -4210,10 +3934,6 @@ Rechtsverordnung
     gewonnenem Branntwein bei einer Änderung der zulässigen steuerfreien
     Überausbeuten den ermäßigten Steuersatz nach Absatz 2 Nummer 2
     anzupassen.
-
-
-
-
 
 #### § 132 Sonstige Begriffsbestimmungen
 
@@ -4281,13 +4001,7 @@ Im Sinn dieses Gesetzes ist oder sind
 11. Personen: natürliche und juristische Personen sowie
     Personenvereinigungen ohne eigene Rechtspersönlichkeit.
 
-
-
-
-
 ### Abschnitt 2 - Steueraussetzung und Besteuerung
-
-
 
 #### § 133 Steuerlager
 
@@ -4311,10 +4025,6 @@ der Gleichmäßigkeit der Besteuerung
 
 2.  Vorschriften für Verschlussbrennereien und zur Alkoholerfassung zu
     erlassen.
-
-
-
-
 
 #### § 134 Steuerlagerinhaber
 
@@ -4382,10 +4092,6 @@ Rechtsverordnung
     überführt werden kann, sowie die notwendigen steuerlichen
     Sicherungsmaßnahmen anzuordnen.
 
-
-
-
-
 #### § 135 Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die Erzeugnisse unter
@@ -4427,7 +4133,6 @@ Sicherheit nicht mehr ausreicht.
 Rechtsverordnung Vorschriften zu den Absätzen 1 bis 3, insbesondere
 zum Verfahren der Erlaubnis und zur Sicherheitsleistung, zu erlassen.
 
-
 #### § 136 Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Erzeugnisse vom Ort der
@@ -4452,7 +4157,6 @@ zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen
 und dabei zur Vorbeugung des Steuermissbrauchs und zur Sicherung des
 Steueraufkommens vorzusehen, den Versand vom Ort der Einfuhr nur dann
 zuzulassen, wenn steuerliche Belange dem nicht entgegenstehen.
-
 
 #### § 137 Begünstigte
 
@@ -4544,7 +4248,6 @@ regeln und zur Verfahrensvereinfachung bei Beförderungen unter
 Steueraussetzung im Steuergebiet anstelle einer
 Freistellungsbescheinigung andere geeignete Dokumente zuzulassen.
 
-
 #### § 138 Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu
@@ -4567,7 +4270,6 @@ ergangenen Verordnungen sowie das Verfahren der Übermittlung des
 elektronischen Verwaltungsdokuments und den dazu erforderlichen
 Datenaustausch zu regeln und dabei das Verfahren abweichend von Absatz
 1 zu bestimmen.
-
 
 #### § 139 Beförderungen im Steuergebiet
 
@@ -4626,10 +4328,6 @@ Rechtsverordnung
     Steuerlagerinhaber oder Verwender in Besitz genommen haben, als in ihr
     Steuerlager oder ihren Betrieb aufgenommen gelten, soweit
     Steuerbelange dadurch nicht beeinträchtigt werden.
-
-
-
-
 
 #### § 140 Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
@@ -4738,10 +4436,6 @@ erlassen; dabei kann es
     oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale
     Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-
-
-
-
 #### § 141 Ausfuhr
 
 (1) Erzeugnisse dürfen unter Steueraussetzung, auch über Drittländer
@@ -4765,7 +4459,6 @@ verlassen.
 Zulassung von Verfahrensvereinfachungen gilt für die unmittelbare
 Ausfuhr aus dem Steuergebiet § 139 Absatz 2 und 5, für die Ausfuhr
 über andere Mitgliedstaaten § 140 Absatz 2 und 6 entsprechend.
-
 
 #### § 142 Unregelmäßigkeiten während der Beförderung
 
@@ -4823,7 +4516,6 @@ Fälle entsprechend.
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu den Absätzen 2 bis 6 zu erlassen.
-
 
 #### § 143 Steuerentstehung, Steuerschuldner
 
@@ -4927,7 +4619,6 @@ gesamtschuldnerisch zur Erfüllung dieser Schuld verpflichtet.
 Rechtsverordnung Vorschriften zu Absatz 3 zu erlassen, insbesondere zu
 den Anforderungen an den Nachweis.
 
-
 #### § 144 Steueranmeldung, Steuerbescheid, Fälligkeit
 
 (1) Die Steuerschuldner nach § 143 Absatz 6 Satz 1 Nummer 1 erste
@@ -4958,10 +4649,7 @@ Rechtsverordnung zur Sicherung des Steueraufkommens und zur Wahrung
 der Gleichmäßigkeit der Besteuerung die Einzelheiten zur
 Steueranmeldung zu bestimmen.
 
-
 ### Abschnitt 3 - Einfuhr von Erzeugnissen aus Drittländern oder Drittgebieten
-
-
 
 #### § 145 Einfuhr
 
@@ -5015,16 +4703,11 @@ Steueranmeldung zu bestimmen.
     Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der
     Gemeinschaft.
 
-
-
-
-
 #### § 146 Unregelmäßigkeiten in zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich
 Erzeugnisse befinden, Unregelmäßigkeiten ein, gilt Artikel 215 des
 Zollkodex sinngemäß.
-
 
 #### § 147 Steuerentstehung, Steuerschuldner
 
@@ -5069,10 +4752,7 @@ Sicherung des Steueraufkommens oder zur Anpassung an die Behandlung im
 Steuergebiet hergestellter Erzeugnisse oder wegen der besonderen
 Verhältnisse bei der Einfuhr erforderlich ist.
 
-
 ### Abschnitt 4 - Beförderung und Besteuerung von Erzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
-
-
 
 #### § 148 Erwerb durch Privatpersonen
 
@@ -5106,7 +4786,6 @@ Rechtsverordnung zur Sicherung des Steueraufkommens vorzuschreiben,
 bei welcher Menge an Erzeugnissen nach Absatz 1 widerleglich vermutet
 wird, dass diese nicht für den Eigenbedarf der Privatperson bestimmt
 sind.
-
 
 #### § 149 Bezug und Besitz zu gewerblichen Zwecken
 
@@ -5168,7 +4847,6 @@ die Steuer sofort fällig. § 135 Absatz 3 gilt entsprechend.
 Rechtsverordnung zur Sicherung des Steueraufkommens Vorschriften zu
 den Absätzen 1, 2, 4 und 5 zu erlassen, insbesondere zum
 Besteuerungsverfahren und zur Sicherheit.
-
 
 #### § 150 Versandhandel
 
@@ -5233,7 +4911,6 @@ Rechtsverordnung zur Sicherung des Steueraufkommens und zur Wahrung
 der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1, 2,
 4 bis 7 zu erlassen.
 
-
 #### § 151 Unregelmäßigkeiten während der Beförderung von Erzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
 (1) Treten während der Beförderung von Erzeugnissen nach § 149 Absatz
@@ -5256,10 +4933,7 @@ Rechtsverordnung zur Sicherung des Steueraufkommens und zur Wahrung
 der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und
 3 zu erlassen.
 
-
 ### Abschnitt 5 - Steuervergünstigungen
-
-
 
 #### § 152 Steuerbefreiungen
 
@@ -5380,10 +5054,6 @@ Rechtsverordnung
     dass auch vollständig vergällter Branntwein dem Beförderungsverfahren
     nach § 138 oder einem anderen Überwachungsverfahren unterstellt wird.
 
-
-
-
-
 #### § 153 Verwender
 
 (1) Wer Erzeugnisse in den Fällen des § 152 Absatz 1 steuerfrei
@@ -5441,13 +5111,6 @@ Rechtsverordnung
 
     c)  (weggefallen)
 
-
-
-
-
-
-
-
 #### § 154 Steuerentlastung im Steuergebiet
 
 (1) Nachweislich versteuerte Erzeugnisse, die in ein Steuerlager
@@ -5460,7 +5123,6 @@ der Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 1 zu
 erlassen und insbesondere eine für den Entlastungsberechtigten
 ausgestellte Versteuerungsbestätigung des Steuerschuldners für den
 Antrag nach Absatz 1 Satz 1 vorzuschreiben.
-
 
 #### § 155 Steuerentlastung bei der Beförderung von Erzeugnissen des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
@@ -5517,13 +5179,7 @@ der Gleichmäßigkeit der Besteuerung
 2.  zur Verwaltungsvereinfachung Mindestmengen vorzuschreiben sowie
     Steuerlagerinhaber von dem Verfahren auszuschließen.
 
-
-
-
-
 ### Abschnitt 6 - Schlussbestimmungen zum Zweiten Teil
-
-
 
 #### § 156 Steueraufsicht
 
@@ -5571,7 +5227,6 @@ die Herstellung, die Bearbeitung oder Verarbeitung und den Handel
 Aufzeichnungen zu führen haben sowie hierzu die Einzelheiten
 festzulegen.
 
-
 #### § 157 Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen
@@ -5581,7 +5236,6 @@ teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten
 dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für
 allgemeine Zwecke übermitteln.
-
 
 #### § 158 Ordnungswidrigkeiten
 
@@ -5596,10 +5250,6 @@ handelt, wer vorsätzlich oder leichtfertig
 
 2.  entgegen § 149 Absatz 4 oder § 150 Absatz 4 Satz 1 und 5 oder Absatz 7
     Satz 1 eine Anzeige nicht oder nicht rechtzeitig erstattet.
-
-
-
-
 
 #### § 159 Besondere Ermächtigungen
 
@@ -5765,13 +5415,7 @@ Rechtsverordnung
     werden darf und für zurückgegebene, vernichtete oder ungültig gemachte
     Steuerzeichen Gebühren erhoben werden.
 
-
-
-
-
 ## Dritter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 160 Übergangsbestimmungen zum Zweiten Teil
 
@@ -5785,10 +5429,7 @@ Artikel 20 der Systemrichtlinie eröffnet worden.
 erteilten Erlaubnisse und Zulassungen widerruflich bis zum 31.
 Dezember 2010 fort.
 
-
 ### - - Sonder- und Überleitungsregelungen für das in Artikel 3 des Einigungsvertrages genannte Gebiet
-
-
 
 #### § 161
 
@@ -5801,10 +5442,7 @@ Dezember 2010 fort.
 
 (9) (weggefallen)
 
-
 ### - - Ausnahmen von den Vorschriften des Gesetzes
-
-
 
 #### § 162
 
@@ -5813,14 +5451,12 @@ Reichsminister der Finanzen              ist ermächtigt, aus
 Billigkeitsgründen Ausnahmen von den Vorschriften des Gesetzes
 zuzulassen.
 
-
 #### § 163
 
 Die Durchführungsbestimmungen zu diesem Gesetz erläßt der
 Reichsminister der Finanzen.              Dabei kann verbindlich
 bestimmt werden, was im Sinne dieses Gesetzes als Branntwein anzusehen
 ist.
-
 
 #### § 164
 
@@ -5859,13 +5495,11 @@ anordnen, daß die in Branntwein und Branntweinerzeugnissen enthaltene
 Alkoholmenge nach den Angaben des Herstellers oder Händlers über den
 Alkoholgehalt und die Menge berechnet wird.
 
-
 #### § 165
 
 Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen
 Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des
 Bundesrates.
-
 
 #### § 166
 

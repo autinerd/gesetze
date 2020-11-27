@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 301
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -48,13 +45,11 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 Das Zweite Zusatzabkommen und die Zweite Zusatzvereinbarung werden
 nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Ausgaben für die Zahlung der auf Zeiten nach dem Fremdrentengesetz
 beruhenden Leistungen sind Ausgaben der Rentenversicherung für das
 Beitrittsgebiet.
-
 
 ## Art 3
 

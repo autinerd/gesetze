@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 8.12.2010 I 1768
 
-
 ## § 1 Begriffsbestimmungen zum Altersvorsorgevertrag
 
 (1) Ein Altersvorsorgevertrag im Sinne dieses Gesetzes liegt vor, wenn
@@ -385,7 +384,6 @@ d)  bei Geschäftsanteilen an einer Genossenschaft der jeweilige
 Abzüge, soweit sie nicht in diesem Gesetz vorgesehen sind, sind nicht
 zulässig.
 
-
 ## § 2 Begriffsbestimmungen zum Basisrentenvertrag
 
 (1) Ein Basisrentenvertrag im Sinne dieses Gesetzes liegt vor, wenn
@@ -415,7 +413,6 @@ des Einkommensteuergesetzes fest.
 
 (4) (weggefallen)
 
-
 ## § 3 Zertifizierungsstelle, Aufgaben
 
 (1) Zertifizierungsstelle ist das Bundeszentralamt für Steuern.
@@ -431,7 +428,6 @@ wirksam sind.
 
 (4) Die Zertifizierungsstelle nimmt die ihr nach diesem Gesetz
 zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
-
 
 ## § 4 Antrag, Ergänzungsanforderungen, Ergänzungsanzeigen, Ausschlussfristen
 
@@ -488,7 +484,6 @@ Zertifizierungsstelle zu erstatten; andernfalls lehnt die
 Zertifizierungsstelle den Zertifizierungsantrag ab. Die Frist nach
 Satz 2 ist eine Ausschlussfrist.
 
-
 ## § 5 Zertifizierung von Altersvorsorgeverträgen
 
 Die Zertifizierungsstelle erteilt die Zertifizierung nach § 1 Abs. 3,
@@ -496,7 +491,6 @@ wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen
 vorliegen sowie die Vertragsbedingungen des Altersvorsorgevertrags dem
 § 1 Absatz 1, 1a oder beiden Absätzen entsprechen und der Anbieter den
 Anforderungen des § 1 Absatz 2 entspricht.
-
 
 ## § 5a Zertifizierung von Basisrentenverträgen
 
@@ -507,7 +501,6 @@ Voraussetzungen des § 10 Absatz 1 Nummer 2 Buchstabe b des
 Einkommensteuergesetzes erfüllen und der Anbieter den Anforderungen
 des § 2 Absatz 2 entspricht.
 
-
 ## § 6 Rechtsverordnung
 
 Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die
@@ -516,7 +509,6 @@ das Zertifizierungsverfahren und die Informationspflichten gemäß § 7
 Abs. 4 treffen. Das Bundesministerium der Finanzen kann die
 Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, auf das Bundeszentralamt für Steuern übertragen.
-
 
 ## § 7 Informationspflicht des Anbieters; Sicherungsschein
 
@@ -645,7 +637,6 @@ worden, ob der Basisrentenvertrag wirtschaftlich tragfähig, die
 Zusagen des Anbieters erfüllbar und die Vertragsbedingungen
 zivilrechtlich wirksam sind."
 
-
 ## § 8 Rücknahme, Widerruf und Verzicht
 
 (1) Die Zertifizierungsstelle kann den Antrag auf Zertifizierung eines
@@ -708,13 +699,11 @@ des Genossenschaftsgesetzes vornehmen wird.
 
 (5) (weggefallen)
 
-
 ## § 9 Rechtsbehelf und sofortige Vollziehung
 
 Einspruch und Klage richten sich nach den Vorschriften der
 Abgabenordnung und der Finanzgerichtsordnung. Sie haben keine
 aufschiebende Wirkung.
-
 
 ## § 10 Veröffentlichung
 
@@ -723,7 +712,6 @@ die Rücknahme oder den Verzicht durch eine Veröffentlichung des Namens
 und der Anschrift des Anbieters und dessen Zertifizierungsnummer im
 Bundessteuerblatt bekannt. Das Gleiche gilt sinngemäß für die
 Zertifizierung von Verträgen im Sinne des § 4 Abs. 2 Satz 1.
-
 
 ## § 11 Verschwiegenheitspflicht und Datenschutz
 
@@ -762,7 +750,6 @@ Verschwiegenheitspflicht nach Absatz 1 Satz 1 entsprechend.
 (4) Sofern personenbezogene Daten erhoben, verarbeitet oder genutzt
 werden, gelten die Vorschriften des Bundesdatenschutzgesetzes.
 
-
 ## § 12 Gebühren
 
 (1) Die Zertifizierungsstelle erhebt für die Bearbeitung eines
@@ -789,7 +776,6 @@ Gebührenfestsetzung kann nach den §§ 129 bis 131 der Abgabenordnung
 korrigiert werden. Gegen die Gebührenfestsetzung ist der Einspruch
 gegeben.
 
-
 ## § 13 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig den
@@ -801,7 +787,6 @@ geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Zertifizierungsstelle.
-
 
 ## § 14 Übergangsvorschrift
 

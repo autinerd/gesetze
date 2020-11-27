@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 30.7.2004 I 2014
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 des Beratungshilfegesetzes vom 18. Juni 1980 (BGBl.
 I S. 689) verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Vordrucke
 
@@ -48,7 +46,6 @@ erstellt oder abweichend von dem Vordruck nach Absatz 1 Nr. 2
 gestaltet sind, aber inhaltlich den Vordrucken nach Absatz 1
 entsprechen.
 
-
 ## § 2 Vereinfachter Antrag
 
 Ein Rechtsuchender, der nach dem Zweiten Buch Sozialgesetzbuch
@@ -61,28 +58,23 @@ Sozialgesetzbuch beifügt. Satz 1 gilt entsprechend für Bezieher von
 Hilfe zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch,
 wenn diese den letzten Bewilligungsbescheid des Sozialamts beifügen.
 
-
 ## § 3 Änderung des Vorblatts
 
 Werden die Beträge für die kleineren Barbeträge (Abschnitt F der
 Ausfüllhinweise) geändert, so kann dies berücksichtigt werden, ohne
 daß es einer Änderung dieser Verordnung bedarf.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 Vordruck für den Antrag auf Beratungshilfe
 
@@ -246,7 +238,6 @@ kann hier angegeben werden. Auch hohe Kreditraten können als besondere
 Belastung absetzbar sein.
 (Inhalt: Nicht darstellbares Antragsformular;
 Fundstelle: BGBl. I 1994, 3842 - 3843; zu Änderungen vgl. Fußnote)
-
 
 ## Anlage 2
 

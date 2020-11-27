@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 128
 
-
-
 ## I.
 
 Aus dem Geschäftsbereich des Bundesministers für Jugend, Familie und
@@ -28,7 +26,6 @@ Zuständigkeiten für folgende Bereiche übertragen:
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Bundesministern geregelt und dem Chef des Bundeskanzleramtes
 mitgeteilt.
-
 
 ## II.
 

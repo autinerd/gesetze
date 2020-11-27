@@ -19,9 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 7.12.2011 I 2570
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich
 
@@ -46,7 +44,6 @@ der Richtlinie jeweils angepasst sind und gelten.
 (3) Diese Verordnung gilt nicht für verteidigungs- und
 sicherheitsrelevante Aufträge im Sinne des § 99 Absatz 7 des Gesetzes
 gegen Wettbewerbsbeschränkungen.
-
 
 ### § 2 Schätzung des Auftragswertes
 
@@ -130,7 +127,6 @@ späteren Leistungen zu berücksichtigen.
 (10) Maßgeblicher Zeitpunkt für die Schätzung des Auftragswertes ist
 der Tag, an dem die Bekanntmachung der beabsichtigten Auftragsvergabe
 abgesendet wird oder die sonstige Einleitung des Vergabeverfahrens.
-
 
 ### § 3 Ausnahme für Sektorentätigkeiten, die unmittelbar dem Wettbewerb ausgesetzt sind
 
@@ -222,7 +218,6 @@ Frist im Bundesanzeiger bekannt gemacht hat.
 (8) Die Absätze 1 bis 7 gelten für Auftraggeber im Sinne des § 129b
 des Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
 
-
 ### § 4 Dienstleistungen des Anhangs 1
 
 (1) Auf die Vergabe von Aufträgen, deren Gegenstand Dienstleistungen
@@ -246,7 +241,6 @@ Dienstleistungen im Sinne des Anhangs 1 Teil A als auch
 Dienstleistungen im Sinne des Anhangs 1 Teil B sind, sind die
 Vorschriften für diejenigen Dienstleistungen anzuwenden, deren
 Auftragswert überwiegt.
-
 
 ### § 5 Wege der Informationsübermittlung, Vertraulichkeit der Teilnahmeanträge und Angebote
 
@@ -301,9 +295,7 @@ Vorlage abgelaufen ist.
 Ablauf der Frist für deren Eingang in Textform bestätigt sind, dürfen
 nicht berücksichtigt werden.
 
-
 ## Abschnitt 2 - Vorbereitung des Vergabeverfahrens
-
 
 ### § 6 Vergabeverfahren
 
@@ -404,10 +396,6 @@ Verhandlungsverfahren mit Bekanntmachung wählen.
     vergeben werden muss; im letzteren Fall müssen alle Gewinner des
     Auslobungsverfahrens zur Teilnahme an den Verhandlungen aufgefordert
     werden.
-
-
-
-
 
 ### § 7 Leistungsbeschreibung, technische Anforderungen
 
@@ -591,7 +579,6 @@ ausnahmsweise zulässig, wenn der Auftragsgegenstand anderenfalls nicht
 hinreichend genau und allgemein verständlich beschrieben werden kann;
 die Verweise sind mit dem Zusatz „oder gleichwertig“ zu versehen.
 
-
 ### § 8 Nebenangebote und Unteraufträge
 
 (1) Der Auftraggeber kann Nebenangebote zulassen. Er muss dies in der
@@ -612,7 +599,6 @@ Auftrags benennt, den er durch Unteraufträge an Dritte zu vergeben
 beabsichtigt, und dass er den Namen des Unterauftragnehmers vor
 Zuschlagserteilung angibt.
 
-
 ### § 9 Rahmenvereinbarungen
 
 (1) Eine Rahmenvereinbarung ist eine Vereinbarung zwischen einem oder
@@ -625,7 +611,6 @@ Preis und gegebenenfalls die in Aussicht genommenen Mengen.
 (2) Wurde eine Rahmenvereinbarung nicht in einem Verfahren mit
 Bekanntmachung vergeben, so muss der Vergabe des Einzelauftrages auf
 Grund dieser Rahmenvereinbarung eine Bekanntmachung vorausgehen.
-
 
 ### § 10 Dynamische elektronische Verfahren
 
@@ -712,7 +697,6 @@ Laufzeit ist nur in besonders zu begründenden Fällen zulässig.
 elektronischen Verfahren teilnehmen, keine Bearbeitungsgebühren oder
 sonstige Verfahrenskosten fordern.
 
-
 ### § 11 Wettbewerbe
 
 (1) Wettbewerbe nach § 99 Absatz 5 des Gesetzes gegen
@@ -763,9 +747,7 @@ werden, Fragen zu ihren Wettbewerbsarbeiten zu beantworten, die das
 Preisgericht in seinem Protokoll festgehalten hat. Hierüber ist ein
 umfassendes Protokoll zu erstellen.
 
-
 ## Abschnitt 3 - Bekanntmachungen und Fristen
-
 
 ### § 12 Pflicht zur Bekanntmachung, Beschafferprofil, zusätzliche Bekanntmachungen
 
@@ -852,10 +834,6 @@ auf elektronischem Weg die Veröffentlichung in ihrem Beschafferprofil.
     Monaten voraussichtlich vergeben wird, die wesentlichen Merkmale der
     Aufträge.
 
-
-
-
-
 ### § 14 Bekanntmachungen von Aufrufen zum Teilnahmewettbewerb
 
 (1) Auftraggeber können zum Teilnahmewettbewerb aufrufen durch
@@ -893,10 +871,6 @@ Bekanntmachung
 4.  nicht mehr als zwölf Monate vor dem Zeitpunkt der Absendung der
     Aufforderung zur Bestätigung des Interesses der Bewerber am Wettbewerb
     gemäß § 25 Absatz 5 veröffentlicht werden.
-
-
-
-
 
 ### § 15 Bekanntmachung von vergebenen Aufträgen
 
@@ -943,7 +917,6 @@ Forschungs- und Entwicklungsleistungen im Rahmen eines Verfahrens ohne
 Aufruf zum Wettbewerb, so genügt für die Bezeichnung der Art des
 Auftrags die Angabe „Forschungs- und Entwicklungsleistungen“.
 
-
 ### § 16 Abfassung der Bekanntmachungen
 
 (1) Bekanntmachungen müssen alle Informationen enthalten, die in den
@@ -972,7 +945,6 @@ bevor die Ankündigung dieser Veröffentlichung an die Kommission
 abgesendet wurde. Das Datum der Absendung muss in den Informationen
 angegeben werden. Auftraggeber müssen nachweisen können, an welchem
 Tag sie die Bekanntmachungen abgesendet haben.
-
 
 ### § 17 Fristen
 
@@ -1013,7 +985,6 @@ Anlagen zu den Vergabeunterlagen vor Ort erstellt werden, so hat der
 Auftraggeber die jeweilige Frist angemessen zu verlängern. Dies gilt
 nicht, wenn die Frist im gegenseitigen Einvernehmen festgelegt worden
 ist.
-
 
 ### § 18 Verkürzte Fristen
 
@@ -1070,10 +1041,6 @@ werden:
     Verhandlungsverfahren für den Eingang der Teilnahmeanträge, gerechnet
     ab dem Tag der Absendung der Bekanntmachung.
 
-
-
-
-
 ### § 19 Fristen für Vergabeunterlagen, zusätzliche Unterlagen und Auskünfte
 
 (1) Macht der Auftraggeber die Vergabeunterlagen und alle zusätzlichen
@@ -1094,9 +1061,7 @@ Angebote nicht von den Unternehmen vorgelegt wurden, können bis zum
 Ablauf einer vom Auftraggeber zu bestimmenden Nachfrist angefordert
 werden.
 
-
 ## Abschnitt 4 - Anforderungen an Unternehmen
-
 
 ### § 20 Eignung und Auswahl der Unternehmen
 
@@ -1131,7 +1096,6 @@ Durchführung des Auftrags verantwortlich sein sollen.
 (5) Der Auftraggeber teilt auf Antrag innerhalb von 15 Tagen einem
 nicht berücksichtigten Bewerber die Gründe für die Ablehnung der
 Bewerbung mit.
-
 
 ### § 21 Ausschluss vom Vergabeverfahren
 
@@ -1234,7 +1198,6 @@ werden, wenn
 vorgegeben, so hat er die Unternehmen auszuschließen, die diese
 Kriterien erfüllen.
 
-
 ### § 22 Bewerber- und Bietergemeinschaften
 
 Bewerber- und Bietergemeinschaften sind Einzelbewerbern und -bietern
@@ -1242,7 +1205,6 @@ gleichzusetzen. Soll der Auftrag an mehrere Unternehmen gemeinsam
 vergeben werden, kann der Auftraggeber verlangen, dass diese
 Unternehmen eine bestimmte Rechtsform annehmen, sofern dies für die
 ordnungsgemäße Durchführung des Auftrags erforderlich ist.
-
 
 ### § 23 Qualitätssicherungs- und Umweltmanagementnormen
 
@@ -1270,7 +1232,6 @@ Zertifizierungsnormen zertifiziert sind. Der Auftraggeber erkennt
 gleichwertige Bescheinigungen von Stellen aus anderen Mitgliedstaaten
 und andere Nachweise über gleichwertige Qualitätssicherungsmaßnahmen
 an.
-
 
 ### § 24 Prüfungssysteme
 
@@ -1370,7 +1331,6 @@ obersten Bundes- oder Landesbehörde für Lieferungen und
 Dienstleistungen zugelassen ist, im Umfang der Zulassung in Anspruch
 nehmen.
 
-
 ### § 25 Aufforderung zur Angebotsabgabe oder zur Verhandlung
 
 (1) In nicht offenen Verfahren und Verhandlungsverfahren fordert der
@@ -1442,18 +1402,12 @@ Aufforderung enthält zumindest folgende Angaben:
 6.  die Zuschlagskriterien einschließlich deren Gewichtung oder
     Reihenfolge nach § 29 Absatz 4 Satz 4.
 
-
-
-
-
 ## Abschnitt 5 - Prüfung und Wertung der Angebote
-
 
 ### § 26 Behandlung der Angebote
 
 Die Angebote werden geprüft und gewertet, bevor der Zuschlag erteilt
 wird.
-
 
 ### § 27 Ungewöhnlich niedrige Angebote
 
@@ -1497,7 +1451,6 @@ gewährt wurde. Wird dieser Nachweis nicht fristgerecht erbracht, so
 lehnt der Auftraggeber das Angebot ab und teilt der Kommission die
 Ablehnung mit.
 
-
 ### § 28 Angebote, die Waren aus Drittländern umfassen
 
 (1) Der Auftraggeber eines Lieferauftrags kann Angebote zurückweisen,
@@ -1521,7 +1474,6 @@ Schwierigkeiten oder zu unverhältnismäßigen Kosten führen würde.
 
 (3) Software, die in der Ausstattung für Telekommunikationsnetze
 verwendet wird, gilt als Ware im Sinne des Absatzes 1.
-
 
 ### § 29 Zuschlag und Zuschlagskriterien
 
@@ -1580,7 +1532,6 @@ Bedeutung anzugeben.
 Auftraggebers gilt § 101a des Gesetzes gegen
 Wettbewerbsbeschränkungen.
 
-
 ### § 30 Aufhebung und Einstellung des Vergabeverfahrens
 
 Ein Vergabeverfahren kann ganz oder bei Losvergabe für einzelne Lose
@@ -1589,7 +1540,6 @@ werden. In diesen Fällen hat der Auftraggeber den am Vergabeverfahren
 beteiligten Unternehmen unverzüglich die Aufhebung oder Einstellung
 des Verfahrens und die Gründe hierfür sowie seine etwaige Absicht, ein
 neues Vergabeverfahren durchzuführen, in Textform mitzuteilen.
-
 
 ### § 31 Ausnahme von Informationspflichten
 
@@ -1600,9 +1550,7 @@ gegen Rechtsvorschriften verstößt und nicht die berechtigten
 geschäftlichen Interessen der am Vergabeverfahren beteiligten
 Unternehmen schädigt oder den Wettbewerb beeinträchtigt.
 
-
 ## Abschnitt 6 - Besondere Bestimmungen
-
 
 ### § 32 Dokumentation und Aufbewahrung der sachdienlichen Unterlagen
 
@@ -1616,7 +1564,6 @@ dokumentieren.
 (2) Die sachdienlichen Unterlagen sind für mindestens vier Jahre ab
 Auftragsvergabe aufzubewahren. Der Kommission sind auf deren Verlangen
 die erforderlichen Auskünfte zu erteilen.
-
 
 ### § 33 Statistik
 
@@ -1660,15 +1607,12 @@ Allgemeinverfügung fest, in welcher Form die statistischen Angaben
 vorzunehmen sind. Die Allgemeinverfügung wird im Bundesanzeiger
 bekannt gemacht.
 
-
 ## Abschnitt 7 - Übergangs- und Schlussbestimmungen
-
 
 ### § 34 Übergangsbestimmungen
 
 Bereits begonnene Vergabeverfahren werden nach dem Recht zu Ende
 geführt, das zum Zeitpunkt des Verfahrensbeginns galt.
-
 
 ### Anhang 1 Verzeichnis der Dienstleistungen
 
@@ -1882,9 +1826,6 @@ geführt, das zum Zeitpunkt des Verfahrensbeginns galt.
     *   Von 90400000-1 bis 90743200-9
         (außer 9071220-3), von 90910000-9 bis 90920000-2 und 50190000-3,
         50229000-6, 50243000-0
-
-
-
 
 ## **Teil B – Liste der nachrangigen Dienstleistungen**
 
@@ -2122,10 +2063,6 @@ geführt, das zum Zeitpunkt des Verfahrensbeginns galt.
     von den europäischen Normungsgremien nach einem an die Bedürfnisse des
     Marktes angepassten Verfahren erarbeitet wurde.
 
-
-
-
-
 ### Anhang 3 In die Bekanntmachungen über vergebene Aufträge aufzunehmende Informationen
 
 (Fundstelle: BGBl. I 2009, 3126;
@@ -2314,8 +2251,6 @@ Fußnote)
     *   11 MJ/Nm
         3
 
-
-
 ## Tabelle 2
 
 Emissionskosten im Straßenverkehr
@@ -2342,8 +2277,6 @@ Emissionskosten im Straßenverkehr
     *   0,001 €/g
 
     *   0,087 €/g
-
-
 
 ## Tabelle 3
 
@@ -2380,9 +2313,6 @@ Emissionskosten im Straßenverkehr
         3                     )
 
     *   800 000 km
-
-
-
 
 ### Anhang 5 Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
 

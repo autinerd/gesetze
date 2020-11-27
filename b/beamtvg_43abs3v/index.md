@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 65 G v. 21. 6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 3 Satz 2 und 3 des Beamtenversorgungsgesetzes
 vom 24. August 1976 (BGBl. I S. 2485) verordnet die Bundesregierung
 mit Zustimmung des Bundesrates:
-
 
 ## § 1 Flugdienst
 
@@ -73,10 +71,6 @@ bei Drehflüglern mit dem Aufsetzen oder dem Ausrollen.
     im Gefahrenbereich der Rotoren eines Drehflüglers oder beim Abseilen
     oder Aufseilen an einem Drehflügler.
 
-
-
-
-
 ## § 2 Besonders gefährdetes fliegendes Personal
 
 (1) Beamte, die
@@ -111,7 +105,6 @@ sind Angehörige des besonders gefährdeten fliegenden Personals.
 (2) Für Beamte, die auf Grund eines dienstlich erteilten Auftrages in
 einem Luftfahrzeug des Bundes, eines Landes oder der verbündeten
 Streitkräfte mitfliegen, gilt Absatz 1 sinngemäß.
-
 
 ## § 3 Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
 
@@ -175,10 +168,6 @@ Nr. 6) liegt vor
 
 3.  wenn das Luftfahrzeug steuerungsunfähig ist.
 
-
-
-
-
 ## § 4 Helm- und Schwimmtaucher
 
 (1) Beamte, die zu Unterwasserarbeiten mit einem Helmtauchgerät
@@ -193,10 +182,6 @@ werden, sind Schwimmtaucher.
 
 
 2.  des Schwimmtauchers vom Aufsetzen bis zum Absetzen der Schwimmaske.
-
-
-
-
 
 ## § 5 Beamte im Bergrettungsdienst
 
@@ -226,7 +211,6 @@ besondere Lebensgefahr verbunden ist. Ausbildung sind auch alle
 Dienstverrichtungen im Sinne des Satzes 1, die notwendig sind, um den
 Beamten für die Bergnothilfe in Übung zu halten.
 
-
 ## § 6 Munitionsuntersuchungspersonal
 
 (1) Beamte, die zur Untersuchung von Munition dienstlich eingesetzt,
@@ -247,7 +231,6 @@ stehen, insbesondere das Suchen, Markieren, Freilegen, Befördern,
 Zerlegen und Vernichten sowie das Entfernen, Auswechseln und
 Hinzufügen von Teilen.
 
-
 ## § 7 Angehörige von Verbänden für besondere polizeiliche Einsätze
 
 (1) Polizeivollzugsbeamte, die in den zur Bekämpfung schwerer
@@ -265,7 +248,6 @@ in einer Sonderausbildung dazu vorgenommen wird und nach der Art des
 Einsatzes oder der Sonderausbildung über die im Polizeidienst übliche
 Gefährdung hinausgeht.
 
-
 ## § 8 Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
 
 Beamte, die unter einem schwebenden Drehflügelflugzeug Außenlasten an
@@ -275,7 +257,6 @@ befinden sich im Einsatz im Sinne des § 43 Abs. 3 Satz 1 Nr. 6 des
 Beamtenversorgungsgesetzes. Der Einsatz umfaßt auch die Ausbildung und
 Erprobung.
 
-
 ## § 9 Andere Angehörige des öffentlichen Dienstes
 
 Für Angestellte und Arbeiter, zu deren Dienstobliegenheiten
@@ -283,13 +264,11 @@ Tätigkeiten der in § 43 Abs. 3 Satz 1 Nr. 1 bis 6 des
 Beamtenversorgungsgesetzes bezeichneten Art gehören, gelten die §§ 1
 bis 8 entsprechend.
 
-
 ## § 10 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 108 Satz 2 des Beamtenversorgungsgesetzes auch im
 Land Berlin.
-
 
 ## § 11 Inkrafttreten
 

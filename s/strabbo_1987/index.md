@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 8.11.2007 I 2569
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 des Personenbeförderungsgesetzes in der im
@@ -27,10 +26,7 @@ bereinigten Fassung, der zuletzt durch § 70 Abs. 2 des Gesetzes vom
 15\. März 1974 (BGBl. I S. 721) geändert worden ist, wird mit
 Zustimmung des Bundesrates verordnet:
 
-
 ## Erster Abschnitt - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich und allgemeine Begriffsbestimmungen
 
@@ -109,7 +105,6 @@ oder für Maßnahmen bei Betriebsstörungen und Unfällen eingesetzt.
 als Personen- oder Betriebszüge verkehren und aus einem oder mehreren
 Fahrzeugen bestehen.
 
-
 ### § 2 Grundregeln
 
 (1) Betriebsanlagen und Fahrzeuge müssen so beschaffen sein, daß sie
@@ -122,7 +117,6 @@ gebaut sind und betrieben werden.
 
 (2) Von den allgemein anerkannten Regeln der Technik kann abgewichen
 werden, wenn mindestens die gleiche Sicherheit gewährleistet ist.
-
 
 ### § 3 Allgemeine Anforderungen an den Bau der Betriebsanlagen und Fahrzeuge
 
@@ -187,7 +181,6 @@ sein.
 technischen Gestaltung den Möglichkeiten eines Betriebsverbundes
 Rechnung tragen.
 
-
 ### § 4 Allgemeine Anforderungen an den Betrieb
 
 (1) Betriebsbedienstete sind in der für einen sicheren und
@@ -205,7 +198,6 @@ angezeigt werden, dieser nach Feststellung unverzüglich zu melden.
 (4) Durch betriebliche Vorkehrungen ist dafür zu sorgen, daß
 Betriebsstörungen zügig beseitigt werden und daß bei Unfällen und
 Bränden unverzüglich Hilfe geleistet wird.
-
 
 ### § 5 Technische Aufsicht
 
@@ -244,20 +236,13 @@ erforderlichen Maßnahmen. Insbesondere kann sie
     Bauarbeiten anordnen oder die Benutzung bestimmter Betriebsanlagen und
     Fahrzeuge beschränken oder untersagen.
 
-
-
-
-
 ### § 6 Ausnahmen
 
 Die Technische Aufsichtsbehörde kann von den Vorschriften dieser
 Verordnung in bestimmten Einzelfällen oder allgemein für bestimmte
 Antragsteller Ausnahmen genehmigen.
 
-
 ## Zweiter Abschnitt - Betriebsleitung
-
-
 
 ### § 7 Unternehmer
 
@@ -327,7 +312,6 @@ Instandhaltung gewährleistet ist.
 Dritter beeinträchtigt wird, hat der Unternehmer dafür zu sorgen, daß
 gegen eine solche Beeinträchtigung Vorkehrungen getroffen werden.
 
-
 ### § 8 Betriebsleiter
 
 (1) Der Betriebsleiter ist für die sichere und ordnungsgemäße
@@ -359,7 +343,6 @@ Betriebsleiter.
 
 (6) Stellvertreter dürfen als Betriebsleiter außer in Notfällen nur
 nach schriftlicher Dienstübergabe tätig werden.
-
 
 ### § 9 Bestätigung als Betriebsleiter
 
@@ -404,10 +387,7 @@ kann ganz oder teilweise angerechnet werden.
 (4) Für die Bestätigung als Stellvertreter des Betriebsleiters gelten
 die Absätze 1 bis 3 entsprechend.
 
-
 ## Dritter Abschnitt - Betriebsbedienstete
-
-
 
 ### § 10 Allgemeine Anforderungen an Betriebsbedienstete
 
@@ -445,7 +425,6 @@ Aufschreibungen zu führen, aus denen insbesondere ihre Tauglichkeit,
 Ausbildung, Ergebnisse von Prüfungen, Beaufsichtigungen,
 Unterweisungen und Nachschulungen ersichtlich sein müssen.
 
-
 ### § 11 Besondere Anforderungen an Fahrbedienstete
 
 (1) Fahrbedienstete müssen mindestens 21 Jahre alt sein. Dies gilt
@@ -458,7 +437,6 @@ Untersuchung ist alle drei Jahre zu wiederholen.
 
 (3) Fahrbedienstete, die Züge führen, begleiten oder abfertigen,
 müssen in Sofortmaßnahmen am Unfallort unterwiesen sein.
-
 
 ### § 12 Ausbildung und Prüfung der Fahrbediensteten
 
@@ -479,7 +457,6 @@ festgestellt worden ist.
 (4) Fahrbedienstete sind nach ihrer Ausbildung in regelmäßigen
 Abständen nachzuschulen.
 
-
 ### § 13 Verhalten während des Dienstes
 
 (1) Betriebsbedienstete haben bei der Bedienung von Betriebsanlagen
@@ -499,7 +476,6 @@ stehen.
 Empfangs- und Wiedergabegeräte für Ton oder Bild zu anderen als
 betrieblichen Zwecken zu benutzen.
 
-
 ### § 14 Verhalten bei Krankheit
 
 (1) Hat ein Betriebsbediensteter eine Krankheit, die seine
@@ -517,10 +493,7 @@ nach, daß keine Gefahr einer Übertragung der Krankheit besteht.
 (3) Erkrankungen nach den Absätzen 1 und 2 sind dem Unternehmer
 unverzüglich anzuzeigen.
 
-
 ## Vierter Abschnitt - Betriebsanlagen
-
-
 
 ### § 15 Streckenführung
 
@@ -546,7 +519,6 @@ und Umfang der Sicherung.
 (5) Strecken für Zweirichtungsverkehr sollen nicht eingleisig sein.
 
 (6) Strecken sollen unabhängige oder besondere Bahnkörper haben.
-
 
 ### § 16 Bahnkörper
 
@@ -596,7 +568,6 @@ Bahnkörpers verhindert sein. Wenn es die Betriebssicherheit erfordert,
 kann die Technische Aufsichtsbehörde dies auf bestimmten
 Streckenabschnitten auch bei anderen Betriebsarten verlangen.
 
-
 ### § 17 Oberbau
 
 (1) Der Oberbau muß die vom maßgebenden Lastenzug bei der
@@ -644,7 +615,6 @@ sein.
 (9) Abschlüsse an Gleisenden müssen gekennzeichnet und so gestaltet
 sein, daß sie den betrieblichen Erfordernissen genügen.
 
-
 ### § 18 Umgrenzung des lichten Raumes
 
 (1) Der lichte Raum ist der zu jedem Gleis gehörende Raum, der für
@@ -665,7 +635,6 @@ von Einflußfaktoren berücksichtigt werden.
 (4) Zwischen der Umgrenzung des lichten Raumes und dem Lichtraumbedarf
 soll ein Sicherheitsabstand bestehen, der auf die
 Ermittlungsgenauigkeit des Lichtraumbedarfs abgestellt ist.
-
 
 ### § 19 Sicherheitsräume
 
@@ -707,7 +676,6 @@ und 6 entsprechend.
 werden, wenn die Sicherheit der Fahrgäste und der Betriebsbediensteten
 auf andere Weise gewährleistet ist, insbesondere durch Vorkehrungen
 zur unverzüglichen Bergung im Notfall.
-
 
 ### § 20 Bahnübergänge
 
@@ -759,7 +727,6 @@ vor ihm anhalten können.
 Straßenbahnen auf besonderem Bahnkörper mit Straßen, Wegen oder
 Plätzen, wenn die Vorschriften der Absätze 3 bis 6 eingehalten sind.
 
-
 ### § 21 Signalanlagen
 
 (1) Signalanlagen müssen so gebaut sein, daß sie die für sie
@@ -789,7 +756,6 @@ notwendigen Umfang vorhanden sein, insbesondere an Stellen, an denen
 (4) Sind Fahrsignalanlagen in Wechsellichtzeichenanlagen nach § 37 der
 Straßenverkehrs-Ordnung eingebunden, muß in allen Teilen der
 Gesamtanlage die gleiche Sicherungsmaßnahme angewendet sein.
-
 
 ### § 22 Zugsicherungsanlagen
 
@@ -837,7 +803,6 @@ werden.
 (5) Für Teile von Zugsicherungsanlagen, die auf Fahrzeugen angeordnet
 sind, gelten die Absätze 3 und 4 entsprechend.
 
-
 ### § 23 Nachrichtentechnische Anlagen
 
 (1) Für die Verständigung von Betriebsbediensteten mit Betriebsstellen
@@ -857,7 +822,6 @@ Fahrgästen und einer Betriebsstelle ermöglichen.
 sichere wechselseitige Verständigung zwischen Polizei, Feuerwehr,
 Rettungsdiensten, deren Einsatzzentralen und den zentralen
 Betriebsstellen ermöglichen.
-
 
 ### § 24 Energieversorgungsanlagen
 
@@ -912,7 +876,6 @@ ausgestattet sein.
 ausreichender Anzahl Steckdosen zur Speisung ortsveränderlicher
 Betriebsmittel vorhanden sein.
 
-
 ### § 25 Fahrleitungsanlagen
 
 (1) Betriebsmäßig unter Spannung stehende Teile der Fahrleitungsanlage
@@ -950,7 +913,6 @@ vom Hundert ihres Nennquerschnittes abgenutzt sein.
 Leitungen müssen elektrisch und mechanisch zuverlässig sein;
 Verbindungen dürfen nur durch Werkzeug lösbar sein.
 
-
 ### § 26 Rückleitungen
 
 (1) Rückleitungen müssen elektrisch und mechanisch zuverlässig sein;
@@ -963,7 +925,6 @@ anderen nicht unzulässig belastet werden.
 
 (3) Gegen die Gefahren durch Berührungsspannungen aus dem
 Schienenpotential müssen Maßnahmen getroffen sein.
-
 
 ### § 27 Beleuchtungsanlagen
 
@@ -1036,7 +997,6 @@ können. Sie muß 0,5 Sekunden nach Ausfall der netzabhängigen
 Beleuchtung im betriebsnotwendigen Umfang eingeschaltet sein. Bei
 Tunneln und Notausstiegen darf diese Zeit bis zu 10 Sekunden betragen.
 
-
 ### § 28 Rohrleitungen
 
 Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch
@@ -1044,7 +1004,6 @@ aufgetrennt sein, wenn in diesen Bahnbauwerken Rückleitungen nach § 26
 für Gleichstrom vorhanden sind. Dies gilt auch für metallene
 Bewehrungen von Kabeln, es sei denn, daß sie isoliert in das
 Bahnbauwerk ein- und weitergeführt werden.
-
 
 ### § 29 Brücken
 
@@ -1071,7 +1030,6 @@ Absturz bieten.
 (6) Die Vorschriften über Brücken sind auf Durchlässe und sonstige
 oberirdische Bahnbauwerke, die den Oberbau tragen oder stützen,
 entsprechend anzuwenden.
-
 
 ### § 30 Tunnel
 
@@ -1168,7 +1126,6 @@ Zugsicherungsanlagen verbunden sein, die verhindern, daß Züge
 (12) Die Vorschriften der Absätze 1, 2 und 4 gelten entsprechend, wenn
 Stützmauern in Verbindung mit einer Sohle einen Trog bilden.
 
-
 ### § 31 Haltestellen
 
 (1) Haltestellen müssen
@@ -1246,7 +1203,6 @@ andere mechanische Förderhilfe vorhanden sein.
 Betrieb nicht stören und insbesondere eine schnelle Verteilung der
 Fahrgäste auf den Bahnsteigen nicht behindern.
 
-
 ### § 32 Fahrtreppen und Fahrsteige
 
 (1) Fahrtreppen und Fahrsteige müssen so beschaffen sein, daß
@@ -1279,10 +1235,7 @@ bei Belastung ausgeschlossen sein.
 (6) An den Zu- und Abgängen müssen freie Räume als Stauräume vorhanden
 sein.
 
-
 ## Fünfter Abschnitt - Fahrzeuge
-
-
 
 ### § 33 Fahrzeuggestaltung
 
@@ -1362,10 +1315,6 @@ eingesetzt werden, müssen so beschaffen sein, daß
 
 3.  Fahrgäste geborgen werden können.
 
-
-
-
-
 ### § 34 Fahrzeugmaße
 
 (1) Die lichtraumtechnisch maßgebenden Merkmale der Fahrzeuge und des
@@ -1433,7 +1382,6 @@ Sitzflächen mindestens 1,7 m betragen. Dies gilt nicht bei Fahrzeugen
 ohne Stehplätze, wenn ein zügiger Fahrgastwechsel ohne unzumutbare
 Behinderung möglich ist.
 
-
 ### § 35 Laufwerke
 
 (1) Die für die Laufeigenschaften wesentlichen Fahrzeugmaße und
@@ -1447,7 +1395,6 @@ Federung und Dämpfung der Fahrzeuge und des Gleises.
 
 (3) Die sichere Spurführung muß auch bei Schäden an Federung oder
 Dämpfung der Fahrzeuge erhalten bleiben.
-
 
 ### § 36 Bremsen
 
@@ -1522,7 +1469,6 @@ denen Fahrgäste im Notfall eine Bremsung einleiten können
 die Betätigung dieser Einrichtungen außerhalb von Haltestellen erst am
 nächsten Bahnsteig zum Halt führen.
 
-
 ### § 37 Antrieb
 
 Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung
@@ -1542,7 +1488,6 @@ Dabei sind insbesondere die Beanspruchungen
 
 
 zu beachten.
-
 
 ### § 38 Fahrsteuerung
 
@@ -1569,7 +1514,6 @@ bewirkt.
 § 22 betrieben werden, müssen mit den diese ergänzenden
 Zugsicherungseinrichtungen ausgerüstet sein.
 
-
 ### § 39 Stromabnehmer und Schleifer
 
 (1) Stromabnehmer und Fahrleitungsanlagen müssen so aufeinander
@@ -1581,7 +1525,6 @@ für Schleifer entsprechend.
 oder Schutzleiter getrennt werden, wenn die zugehörigen Stromabnehmer
 von der Fahrleitung abgehoben haben, und daß sie beim Anlegen von
 Stromabnehmern vor diesen am Nulleiter oder Schutzleiter anliegen.
-
 
 ### § 40 Signaleinrichtungen
 
@@ -1626,7 +1569,6 @@ rote Rückstrahler haben.
 Fahrtrichtungssignale und Warnblinksignale entbehrlich, wenn durch
 andere Maßnahmen für eine ausreichende Sicherung gesorgt ist.
 
-
 ### § 41 Bahnräumer und Schienenräumer
 
 (1) Fahrzeuge müssen vor dem in Fahrtrichtung ersten Radsatz
@@ -1643,7 +1585,6 @@ kann.
 (3) Bahnräumer oder Schienenräumer sind entbehrlich, wenn deren
 Aufgaben andere Einrichtungen des Fahrzeugs mitübernehmen können.
 
-
 ### § 42 Kupplungseinrichtungen
 
 (1) Kupplungseinrichtungen von Fahrzeugen, die im Zugverband betrieben
@@ -1652,7 +1593,6 @@ sein.
 
 (2) Bei selbsttätigen Kupplungseinrichtungen muß das ordnungsgemäße
 Einlaufen und Verriegeln der Kupplung erkennbar sein.
-
 
 ### § 43 Türen für den Fahrgastwechsel
 
@@ -1692,7 +1632,6 @@ auf Streckenabschnitten ohne Sicherheitsraum von Fahrgästen nicht
 geöffnet werden können, wenn die Bergung der Fahrgäste im Gefahrenfall
 auf andere Weise sichergestellt wird.
 
-
 ### § 44 Fahrzeugführerplatz
 
 (1) Der Fahrzeugführerplatz muß so gestaltet sein, daß der
@@ -1721,7 +1660,6 @@ Rangierbewegungen und im Störungsfall vorgesehen sind, gelten die
 Absätze 1 bis 4 nur insoweit, wie dies für den vorgesehenen Zweck
 erforderlich ist.
 
-
 ### § 45 Innenbeleuchtung, Heizung und Lüftung
 
 (1) Fahrgasträume müssen eine ausreichende Innenbeleuchtung haben. Sie
@@ -1739,7 +1677,6 @@ Notausstiegen ausreichend beleuchtet.
 
 (5) Fahrgasträume und Fahrzeugführerplätze müssen ausreichend beheizt
 und belüftet werden können.
-
 
 ### § 46 Informationseinrichtungen
 
@@ -1791,7 +1728,6 @@ Betriebsstelle haben. Absatz 4 Satz 2 gilt entsprechend.
 Fahrgäste die Ziele der Züge bestimmen. Den Fahrgästen müssen die
 ihnen zugeordneten Züge deutlich erkennbar sein.
 
-
 ### § 47 Beschriftungen und Sinnbilder
 
 (1) An den Außenseiten der Fahrzeuge müssen vorhanden sein
@@ -1831,7 +1767,6 @@ ihnen zugeordneten Züge deutlich erkennbar sein.
 deutlich lesbar sein. Ihre Erkennbarkeit darf durch andere
 Aufschriften oder Bildzeichen nicht beeinträchtigt sein.
 
-
 ### § 48 Ausrüstung für Notfälle
 
 (1) Personenfahrzeuge sowie Betriebsfahrzeuge mit eigenem Antrieb
@@ -1843,10 +1778,7 @@ Warndreieck haben.
 Verbandkästen verzichtet werden, wenn diese auf den Haltestellen in
 ausreichender Anzahl vorhanden sind.
 
-
 ## Sechster Abschnitt - Betrieb
-
-
 
 ### § 49 Fahrordnung
 
@@ -1913,7 +1845,6 @@ Richtungen befahren werden. Dies muß sichergestellt sein
 Bei vorübergehend eingleisigem Fahrbetrieb kann diese Forderung auch
 durch andere Maßnahmen erfüllt werden.
 
-
 ### § 50 Zulässige Geschwindigkeiten
 
 (1) Die für das Streckennetz geltenden Streckenhöchstgeschwindigkeiten
@@ -1945,10 +1876,6 @@ Straßenverkehr jeweils geltende Höchstgeschwindigkeit nicht
         Weichen
 
     *   15 km/h.
-
-
-
-
 
 ### § 51 Signale
 
@@ -2030,7 +1957,6 @@ bereits, wenn es nur hörbar oder nur sichtbar aufgenommen wird.
 beseitigen oder zu verdecken und durch ein weißes Kreuz mit schwarzem
 Rand zu kennzeichnen.
 
-
 ### § 52 Einsatz von Betriebsbediensteten
 
 (1) Betriebsanlagen und Fahrzeuge dürfen nur von Betriebsbediensteten
@@ -2058,10 +1984,6 @@ führen. Sie müssen enthalten
 
 
 3.  besondere Vorkommnisse.
-
-
-
-
 
 ### § 53 Besetzen der Züge mit Fahrbediensteten
 
@@ -2102,7 +2024,6 @@ Zugspitze aus führen, ist diese mit einem Fahrbediensteten zu
 besetzen, der dem Fahrzeugführer über Sprechfunk oder in anderer Weise
 Aufträge für die Zugbewegung gibt und Gefährdete warnt.
 
-
 ### § 54 Fahrbetrieb
 
 (1) Personenzüge dürfen nur abfahren, wenn durch Augenschein oder
@@ -2137,7 +2058,6 @@ Ingangsetzen zu sichern.
 (9) Über die Zusammensetzung und den Einsatz der Züge sind
 Aufzeichnungen zu führen.
 
-
 ### § 55 Teilnahme am Straßenverkehr
 
 (1) Auf straßenbündigem Bahnkörper nehmen die Züge am Straßenverkehr
@@ -2149,7 +2069,6 @@ m sein.
 
 (3) Auf besonderen und unabhängigen Bahnkörpern einschließlich der
 Bahnübergänge nach § 20 nehmen die Züge nicht am Straßenverkehr teil.
-
 
 ### § 56 Verhalten bei Mängeln an Zügen
 
@@ -2166,7 +2085,6 @@ Geschwindigkeit dem verminderten Bremsvermögen anzupassen.
 Sicherheitsraum müssen betriebliche Vorkehrungen getroffen sein, die
 eine unverzügliche Bergung der Fahrgäste aus liegengebliebenen Zügen
 ermöglichen.
-
 
 ### § 57 Instandhaltung der Betriebsanlagen und Fahrzeuge
 
@@ -2283,7 +2201,6 @@ Inspektion, mindestens jedoch drei Jahre, diejenigen über die
 Inspektionen bis zur Außerbetriebsetzung der Betriebsanlagen und
 Fahrzeuge aufzubewahren.
 
-
 ### § 58 Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
 
 (1) Personen, die nicht Betriebsbedienstete sind, dürfen
@@ -2303,7 +2220,6 @@ besonderer und unabhängiger Bahnkörper durch Kraftomnibusse oder
 Obusse des Linienverkehrs gestatten. Die Sicherheit des Bahnbetriebes
 darf hierdurch nicht beeinträchtigt werden.
 
-
 ### § 59 Betriebsgefährdende Handlungen
 
 (1) Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen,
@@ -2314,10 +2230,7 @@ errichten oder andere betriebsgefährdende Handlungen vorzunehmen.
 Einrichtungen zur Notbremsung von Fahrzeugen mißbräuchlich zu
 betätigen.
 
-
 ## Siebenter Abschnitt - Verfahrensvorschriften
-
-
 
 ### § 60 Prüfung der Bauunterlagen für Betriebsanlagen
 
@@ -2389,7 +2302,6 @@ Abnahme entsprechend. Bestehen Zweifel, ob eine sonstige Anlage die
 Sicherheit des Betriebes beeinträchtigen kann, entscheidet die
 Technische Aufsichtsbehörde.
 
-
 ### § 61 Aufsicht über den Bau von Betriebsanlagen
 
 (1) Die Technische Aufsichtsbehörde beaufsichtigt den Bau von
@@ -2413,7 +2325,6 @@ rechtzeitig angezeigt werden.
 (3) Den mit der Aufsicht Beauftragten ist Zutritt zur Baustelle sowie
 Einblick in die für die Aufsicht erforderlichen Unterlagen zu
 gewähren.
-
 
 ### § 62 Abnahme
 
@@ -2454,10 +2365,7 @@ Fahrzeug vor Erteilung des Abnahmebescheides vorläufig in Betrieb
 genommen werden, wenn die Technische Aufsichtsbehörde nichts anderes
 bestimmt hat.
 
-
 ## Achter Abschnitt - Ordnungswidrigkeiten, Schluß- und Übergangsvorschriften
-
-
 
 ### § 63 Ordnungswidrigkeiten
 
@@ -2492,14 +2400,9 @@ fahrlässig
 2.  als Fahrgast entgegen § 59 Abs. 2 Außentüren oder Einrichtungen zur
     Notbremsung von Fahrzeugen betätigt.
 
-
-
-
-
 ### § 64 (weggefallen)
 
 -
-
 
 ### § 65 Inkrafttreten und Übergangsvorschriften
 
@@ -2530,20 +2433,14 @@ spätestens zu folgenden Zeitpunkten entsprechen
 3.  Weichenstelleinrichtungen (§ 17 Abs. 8) und Notbremseinrichtungen (§
     36 Abs. 9 Satz 2) spätestens bis zum 1. Januar 1996.
 
-
-
-
-
 ### Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ### Anlage 1 (zu § 20) Kennzeichnung und Sicherung von Bahnübergängen
 
 (Inhalt: nicht darstellbare Verkehrszeichen,
 Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 2)
-
 
 ### Anlage 2 (zu § 36) Grenzwerte für Bremsungen
 
@@ -2744,15 +2641,10 @@ auf geradem ebenem Gleis.
 
     *   69
 
-
-
-
-
 ### Anlage 3 (zu § 47 Abs. 2 Nr. 2) Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 4)
-
 
 ### Anlage 4 (zu den §§ 21, 40, 51) Signale
 

@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 16 G v. 17.7.2009 I 1990
 
-
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz regelt die Erhebung nutzungsbezogener Zuschläge, wenn
@@ -28,7 +26,6 @@ eine elektronische Gesundheitskarte, die den Vorgaben der Gesellschaft
 für Telematik nach § 291b des Fünften Buches Sozialgesetzbuch
 entspricht, bei Behandlungen eingesetzt wird, die nicht dem Fünften
 Buch Sozialgesetzbuch unterliegen.
-
 
 ## § 2 Erhebung der Zuschläge
 
@@ -47,7 +44,6 @@ Sozialgesetzbuch vereinbarten oder festgelegten Zuschläge nicht
 
 (3) Im Rahmen wahlärztlicher Behandlung nach § 17 des
 Krankenhausentgeltgesetzes dürfen keine Zuschläge berechnet werden.
-
 
 ## § 3 Ausweis der Zuschläge
 

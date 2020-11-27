@@ -18,16 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 26.2.2007 I 179
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
 Zweck des Gesetzes ist es, Zugangskontrolldienste gegen unerlaubte
 Eingriffe zu schützen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -62,13 +58,7 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck
     oder einer natürlichen Person, die eine Tätigkeit im Handel, Gewerbe
     oder Handwerk oder einen freien Beruf ausübt.
 
-
-
-
-
 ## Abschnitt 2 - Schutz der Zugangskontrolldienste
-
-
 
 ### § 3 Verbot von gewerbsmäßigen Eingriffen zur Umgehung von Zugangskontrolldiensten
 
@@ -84,20 +74,13 @@ Verboten sind
 
 3.  die Absatzförderung von Umgehungsvorrichtungen.
 
-
-
-
-
 ## Abschnitt 3 - Straf- und Bußgeldvorschriften
-
-
 
 ### § 4 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 3 Nr. 1 eine Umgehungsvorrichtung herstellt,
 einführt oder verbreitet.
-
 
 ### § 5 Bußgeldvorschriften
 
@@ -108,16 +91,12 @@ austauscht.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 6 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können
 eingezogen werden.
 
-
 ## Abschnitt 4 - Schlussvorschrift
-
-
 
 ### § 7 Inkrafttreten
 

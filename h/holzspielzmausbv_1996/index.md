@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 940
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -31,7 +29,6 @@ November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für
 Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
 Wissenschaft, Forschung und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
@@ -39,17 +36,14 @@ Holzspielzeugmacher/Holzspielzeugmacherin nach der Handwerksordnung
 und für die Berufsausbildung in dem nach § 2 anerkannten
 Ausbildungsberuf.
 
-
 ## § 2 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Holzspielzeugmacher/Holzspielzeugmacherin wird
 staatlich anerkannt.
 
-
 ## § 3 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -105,10 +99,6 @@ Fertigkeiten und Kenntnisse:
 
 16. Prüfen und Verpacken von Erzeugnissen.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der
@@ -126,12 +116,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -139,7 +127,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -202,7 +189,6 @@ beziehen sollen, aus folgenden Gebieten schriftlich lösen:
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung/Gesellenprüfung
 
@@ -364,7 +350,6 @@ gegenüber jedem der übrigen Prüfungsfächer das doppelte Gewicht.
 Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach
 Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -372,11 +357,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Holzspielzeugmacher/zur Holzspielzeugmacherin
 

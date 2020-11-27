@@ -22,7 +22,6 @@ Geändert durch
 Die V tritt gem. § 6 idF d. Art. 8 Nr. 4 V v. 17.7.2007 I 1402 mit
 Ausnahme des § 5 am 31.7.2009 außer Kraft.
 
-
 ## § 5 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2009 begonnen

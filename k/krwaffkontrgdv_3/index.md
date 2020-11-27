@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 345 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 des Gesetzes über die Kontrolle von Kriegswaffen
@@ -27,7 +26,6 @@ Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzbl. I S. 503), in Verbindung mit § 36 Abs. 3 des
 Gesetzes über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I
 S. 481) wird verordnet:
-
 
 ## § 1
 
@@ -41,11 +39,9 @@ Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über
 die Kontrolle von Kriegswaffen wird den örtlich zuständigen
 Hauptzollämtern übertragen.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

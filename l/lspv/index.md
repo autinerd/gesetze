@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 2 des Lebensmittelspezialitätengesetzes vom 29.
 Oktober 1993 (BGBl. I S. 1814) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den
 Bundesministerien für Gesundheit und für Wirtschaft:
-
 
 ## § 1 Antragsverfahren
 
@@ -54,7 +52,6 @@ Antragsunterlagen hinzuweisen.
 (4) Wer Einwendungen gegen einen Antrag erhoben hat, ist auf seinen
 Antrag hin von der Bundesanstalt als Beteiligter hinzuzuziehen.
 
-
 ## § 2 Entscheidung über den Antrag
 
 (1) Die Bundesanstalt prüft, ob die Voraussetzungen für die
@@ -75,7 +72,6 @@ Voraussetzungen erfüllt, an die Europäische Kommission erfolgt über
 das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz.
 
-
 ## § 3 Einspruchsverfahren
 
 (1) Ein Einspruch nach Artikel 8 Abs. 3 der Verordnung (EWG) Nr.
@@ -95,7 +91,6 @@ Europäische Kommission weitergeleiteten Antrages für den Antragsteller
 entsprechend, wenn gegen seinen Antrag ein Einspruch eingelegt worden
 ist.
 
-
 ## § 4 Änderungsverfahren
 
 Ein Antrag auf Änderung einer Eintragung in dem von der Europäischen
@@ -103,13 +98,11 @@ Kommission geführten Register über Lebensmittelspezialitäten ist
 schriftlich bei der Bundesanstalt einzureichen; § 1 Abs. 2 bis 4 und
 die §§ 2 und 3 sind entsprechend anzuwenden.
 
-
 ## § 5 Muster
 
 Die Bundesanstalt kann für Anträge nach § 1 Abs. 1 und § 4 und für
 Einsprüche nach § 3 Abs. 1 Muster im Bundesanzeiger bekanntgeben.
 Bekanntgegebene Muster sind zu verwenden.
-
 
 ## § 6 Inkrafttreten
 

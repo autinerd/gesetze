@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2336
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in
@@ -24,10 +22,7 @@ der Fassung der Bekanntmachung vom 9. April 2002 (BGBl. I S. 1258,
 1909), der durch Artikel 1 Nr. 23 des Gesetzes vom 4. Mai 2005 (BGBl.
 I S. 1234) eingefügt worden ist, verordnet die Bundesregierung:
 
-
 ## Teil 1 - Berufsberatung nach § 3a des Soldatenversorgungsgesetzes
-
-
 
 ### § 1 Beratungsauftrag
 
@@ -37,7 +32,6 @@ Berufsförderungsdienst - (Berufsförderungsdienst). Soldaten, die
 Grundwehrdienst oder freiwilligen zusätzlichen Wehrdienst leisten,
 sind auf Antrag oder vor Inanspruchnahme berufsfördernder Leistungen
 in beruflichen Fragen ebenfalls zu beraten.
-
 
 ### § 2 Berufsberatung
 
@@ -93,7 +87,6 @@ Maßnahme- oder Arbeitsort reisen. Die Erstattung richtet sich nach den
 für die Beamtinnen und Beamten des Bundes geltenden
 reisekostenrechtlichen Vorschriften.
 
-
 ### § 3 Förderungsplan
 
 (1) Die Beratungsergebnisse sind im Einvernehmen mit den
@@ -104,10 +97,7 @@ und in einer Niederschrift zu dokumentieren.
 und persönlichen Entwicklungen anzupassen. Hierzu sind die
 Förderungsberechtigten kontinuierlich zu beraten.
 
-
 ## Teil 2 - Dienstzeitbegleitende Förderung der schulischen und beruflichen Bildung nach § 4 des Soldatenversorgungsgesetzes
-
-
 
 ### § 4 Voraussetzungen der Förderungsfähigkeit
 
@@ -139,7 +129,6 @@ benannten Stelle.
 berufliche Bildung nicht soweit vorwegnehmen, dass die Förderung am
 Ende und nach der Wehrdienstzeit weitgehend gegenstandslos wird.
 
-
 ### § 5 Durchführung der dienstzeitbegleitenden Förderung
 
 (1) Gefördert wird die Teilnahme an Bildungsmaßnahmen der
@@ -152,7 +141,6 @@ an internen Maßnahmen nicht gedeckt, kann der Berufsförderungsdienst
 die Kosten für andere Bildungsmaßnahmen (externe Maßnahmen)
 grundsätzlich bis zur Höhe des Kostenrichtwertes erstatten. Der
 Kostenrichtwert bemisst sich nach der Dauer des Dienstverhältnisses.
-
 
 ### § 6 Erstattung von Kosten
 
@@ -167,7 +155,6 @@ des Bundesministeriums der Verteidigung erstattungsfähig.
 (2) Erstattungsfähige Kosten sind innerhalb einer Ausschlussfrist von
 sechs Monaten nach Abschluss der Maßnahme schriftlich beim
 Berufsförderungsdienst geltend zu machen.
-
 
 ### § 7 Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes
 
@@ -208,17 +195,13 @@ Berufsförderungsdienst unverzüglich über alle Umstände zu
 unterrichten, die Einfluss auf die Förderung haben können,
 insbesondere Nichtantritt, Unterbrechung oder Abbruch.
 
-
 ## Teil 3 - Förderung der schulischen Bildung nach § 5 des Soldatenversorgungsgesetzes
-
-
 
 ### § 8 Grundsatz zur Förderung der schulischen Bildung
 
 Die Förderung der schulischen Bildung weicht von der Förderung der
 beruflichen Bildung am Ende und nach der Wehrdienstzeit nur ab, soweit
 die §§ 9 bis 14 ausdrücklich Anderes regeln.
-
 
 ### § 9 Lehrgänge an Bundeswehrfachschulen
 
@@ -306,12 +289,10 @@ gemacht werden.
 berufliche Ziele können an Bundeswehrfachschulen auch Studienkurse mit
 einer regelmäßigen Dauer von drei Monaten eingerichtet werden.
 
-
 ### § 10 Dauer eines Studienhalbjahres
 
 Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach
 Lehrgang bis zu 750 Unterrichtsstunden.
-
 
 ### § 11 Zulassung ab einem höheren Studienhalbjahr und Lehrgangswechsel
 
@@ -325,7 +306,6 @@ Antrag ist von den Förderungsberechtigten zu begründen.
 
 (3) Anträge nach den Absätzen 1 und 2 sind jeweils schriftlich beim
 Berufsförderungsdienst zu stellen.
-
 
 ### § 12 Kosten der Lehrgangsteilnahme
 
@@ -352,7 +332,6 @@ pauschal angerechnet:
 Gemeinschaftsverpflegung gegen Bezahlung bereitgestellt wird, sind die
 Förderungsberechtigten auf die Inanspruchnahme zu verweisen.
 
-
 ### § 13 Form und Fristen
 
 (1) Förderungsberechtigte haben dem Berufsförderungsdienst spätestens
@@ -375,7 +354,6 @@ hierfür bestimmten Dienststelle.
 (3) Von den Fristen der Absätze 1 und 2 kann in begründeten
 Einzelfällen abgewichen werden.
 
-
 ### § 14 Versetzung und Prüfung
 
 (1) Nach erfolgreichem Unterrichtsbesuch werden die
@@ -394,10 +372,7 @@ Umstände vorliegen.
 (3) Die Lehrgänge nach § 9 Abs. 1 Satz 1 Nr. 4 bis 7 werden durch eine
 Prüfung an der Bundeswehrfachschule abgeschlossen.
 
-
 ## Teil 4 - Förderung der beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes
-
-
 
 ### § 15 Gegenstand der beruflichen Bildung
 
@@ -467,10 +442,6 @@ Europäischen Union kann gefördert werden, wenn
 
 2.  ihre Dauer und Mehrkosten nach den besonderen berufsbildungs- und
     eingliederungsrelevanten Umständen vertretbar sind.
-
-
-
-
 
 ### § 16 Durchführung der Förderung der beruflichen Bildung
 
@@ -558,7 +529,6 @@ von sechs Jahren nach Beendigung des Dienstverhältnisses begonnen
 werden, wenn die zunächst gewährte Förderung nicht dem in § 5 Abs. 4
 des Soldatenversorgungsgesetzes vorgesehenen Umfang entspricht.
 
-
 ### § 17 Antragstellung
 
 (1) Die Förderung setzt einen schriftlichen Antrag voraus. Der Antrag
@@ -573,7 +543,6 @@ beruflichen Bildungsmaßnahme sowie die Anschrift der
 Bildungseinrichtung enthalten, deren Besuch gewünscht wird. Die
 Förderungsberechtigten haben die zur Entscheidung über den Antrag
 erforderlichen Unterlagen beizubringen.
-
 
 ### § 18 Persönliche Förderungsvoraussetzungen
 
@@ -611,7 +580,6 @@ Bundeswehrfachschule, die Disziplinarvorgesetzten, die Bundesagentur
 für Arbeit, Ausbildungsbehörden, Schulen, Industrie- und
 Handelskammern, Handwerks- und Landwirtschaftskammern sowie
 berufsständische Organisationen gutachtlich gehört werden.
-
 
 ### § 19 Kosten der beruflichen Bildung
 
@@ -940,7 +908,6 @@ Zweck gewährt werden, sind anzurechnen. Die Auszahlung der im Rahmen
 der Kostenhöchstgrenzen nicht in Anspruch genommenen Beträge ist nicht
 möglich.
 
-
 ### § 20 Lehrgangs- und Studiengebühren
 
 (1) Zu den Lehrgangs- und Studiengebühren gehören auch Aufnahme- und
@@ -964,7 +931,6 @@ nur zu erstatten, wenn
 Ausschlussfrist von sechs Monaten nach Abschluss der Maßnahme
 schriftlich beim Berufsförderungsdienst geltend zu machen.
 
-
 ### § 21 Kosten für Ausbildungsmittel
 
 (1) Zu den Ausbildungsmitteln zählen auch Berufs- und Schutzkleidung,
@@ -984,7 +950,6 @@ Regelung getroffen werden.
 
 (2) § 20 Abs. 2 gilt entsprechend.
 
-
 ### § 22 Beiträge zur Krankenversicherung
 
 (1) Sollte der Nachweis einer Krankenversicherung notwendige
@@ -994,7 +959,6 @@ Berufsförderungsdienst übernommen werden, soweit nicht bereits ein
 Krankenversicherungsschutz besteht.
 
 (2) § 20 Abs. 2 gilt entsprechend.
-
 
 ### § 23 Reise- und Trennungsauslagen
 
@@ -1006,7 +970,6 @@ trennungsgeldrechtlichen Vorschriften anzuwenden.
 durchgeführt, richten sich die Reisekostenvergütung und der
 Trennungsgeldbezug nach den für das Inland geltenden Bestimmungen,
 ohne dass ein Kaufkraftausgleich gewährt wird.
-
 
 ### § 24 Kosten für Studienfahrten aus Anlass der Maßnahme der beruflichen Bildung
 
@@ -1023,7 +986,6 @@ Zurückbleibender nicht angeboten wird.
 Berufsförderungsdienst zu stellen. § 20 Abs. 2 und § 23 gelten
 entsprechend.
 
-
 ### § 25 Kosten für Eignungsfeststellungsverfahren
 
 (1) Förderungsberechtigten, die sich vor der Entscheidung über den
@@ -1035,7 +997,6 @@ Kosten für die Teilnahme erstattet.
 (2) Der Antrag ist vor Antritt der Reise zum
 Eignungsfeststellungsverfahren schriftlich beim Berufsförderungsdienst
 zu stellen. § 20 Abs. 2 und § 23 gelten entsprechend.
-
 
 ### § 26 Zuschuss zu den Umzugsauslagen
 
@@ -1078,7 +1039,6 @@ Maßnahme der beruflichen Bildung bezieht. Für weitere Ausbildungsorte
 bleibt der Anspruch auf Erstattung der Trennungsauslagen erhalten,
 wenn die übrigen Anspruchsvoraussetzungen erfüllt sind.
 
-
 ### § 27 Verbrauch und Verlängerung der Förderungszeiten
 
 (1) Bei der Berechnung des zeitlichen Umfanges des Verbrauchs sind im
@@ -1094,7 +1054,6 @@ Verlängerungszeiträumen nach § 5 Abs. 12 Satz 3 des
 Soldatenversorgungsgesetzes zu erklären, erfolgt auf schriftlichen
 Antrag der Förderungsberechtigten durch Bescheid des
 Berufsförderungsdienstes.
-
 
 ### § 28 Pflichten der Förderungsberechtigten
 
@@ -1152,7 +1111,6 @@ Soldatenversorgungsgesetzes fordert der Berufsförderungsdienst zur
 Abgabe der Erklärung über den Stand der zivilberuflichen Eingliederung
 auf und überwacht deren Eingang.
 
-
 ### § 29 Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes
 
 (1) Eine bewilligte Förderung kann auch mit Wirkung für die
@@ -1189,19 +1147,12 @@ erreicht wird.
 
 4.  Nichtteilnahme an der Berufsbildungsmaßnahme.
 
-
-
-
-
 ## Teil 5 - Eingliederung nach § 7 des Soldatenversorgungsgesetzes
-
-
 
 ### § 30 Stellenbörse
 
 Zur vermittlerischen Betreuung werden bei den Berufsförderungsdiensten
 Stellenbörsen eingerichtet.
-
 
 ### § 31 Eingliederungshilfen
 
@@ -1235,7 +1186,6 @@ Dienstverhältnisses in Anspruch genommen sein.
 
 (3) Alle Anträge nach diesem Teil der Verordnung sind beim zuständigen
 Berufsförderungsdienst zu stellen.
-
 
 ### § 32 Einarbeitungszuschuss
 
@@ -1281,7 +1231,6 @@ Einarbeitungszuschuss sofort zurückzuzahlen, wenn das
 Arbeitsverhältnis während der Einarbeitungszeit aus Gründen gelöst
 wird, die die Arbeitgeberin oder der Arbeitgeber zu vertreten hat.
 
-
 ### § 33 Erstattung von Kosten für Vorstellungsreisen
 
 (1) Die zur Erlangung eines Arbeitsplatzes notwendigen Kosten für
@@ -1301,7 +1250,6 @@ der Europäischen Union möglich. § 23 gilt entsprechend.
 (4) Hinsichtlich der Anzahl der zu bewilligenden Vorstellungsreisen
 ist auf die maßgeblichen Umstände des Einzelfalles abzustellen.
 
-
 ### § 34 Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes
 
 (1) Über die Freistellung vom militärischen Dienst zur Teilnahme an
@@ -1318,7 +1266,6 @@ Fahrtkosten und der Kosten für auswärtige Unterkunft und Verpflegung
 gilt § 23 entsprechend.
 
 (3) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
-
 
 ### § 35 Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes
 
@@ -1340,7 +1287,6 @@ Verteidigung erstattungsfähig.
 
 (4) § 4 Abs. 3 und § 15 Abs. 1 Satz 3 gelten entsprechend.
 
-
 ### § 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen
 
 Auf schriftlichen Antrag werden die Kosten für fachberufliche
@@ -1353,7 +1299,6 @@ Eingliederung in das zivile Berufsleben voraussichtlich erleichtert
 wird. Hinsichtlich der Anrechnung der Kosten gilt § 5 Abs. 2
 entsprechend. Reise- und Trennungsauslagen werden nicht erstattet.
 
-
 ### § 37 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung
 
 Auf schriftlichen Antrag bescheinigt der Berufsförderungsdienst Art
@@ -1361,10 +1306,7 @@ und Umfang der zivilberuflich verwertbaren Anteile der militärischen
 Ausbildung und Verwendung. Die militärische Ausbildung und Verwendung
 ist von den Förderungsberechtigten in geeigneter Form nachzuweisen.
 
-
 ## Teil 6 - Schlussvorschriften
-
-
 
 ### § 38 Zuständigkeiten
 
@@ -1427,14 +1369,9 @@ Aufenthalt im Ausland haben. Hiervon abweichend sind zuständig
 4.  der Berufsförderungsdienst Münster für den Standort Eibergen in den
     Niederlanden.
 
-
-
-
-
 ### § 39 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

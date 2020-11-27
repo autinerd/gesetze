@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 8.11.2011 I 2178
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -37,7 +34,6 @@ fallen; sie sind im Anhang dieser Verordnung aufgelistet.
 
 (2) Die Lärm- und Vibrations-Arbeitsschutzverordnung und die
 Maschinenverordnung bleiben unberührt.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -97,13 +93,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     Schallleistungspegel der Stufe II in Artikel 12 der Richtlinie
     2000/14/EG genügen.
 
-
-
-
-
 ## Abschnitt 2 - Marktverkehrsregelungen für Geräte und Maschinen
-
-
 
 ### § 3 Inverkehrbringen
 
@@ -168,7 +158,6 @@ dass die dort genannten Anforderungen jeder sonstigen Person obliegen,
 die die Geräte und Maschinen in der Europäischen Gemeinschaft in
 Verkehr bringt oder in Betrieb nimmt.
 
-
 ### § 4 Übermittlung der Konformitätserklärung
 
 Der in Deutschland ansässige Hersteller oder andernfalls sein in
@@ -178,7 +167,6 @@ Europäischen Kommission eine Kopie der EG-Konformitätserklärung für
 jeden Typ eines Gerätes und einer Maschine nach dem Anhang zu
 übermitteln, wenn Geräte und Maschinen dieses Typs in der Europäischen
 Gemeinschaft in Verkehr gebracht oder in Betrieb genommen werden.
-
 
 ### § 5 Aufbewahrung und Übermittlung von Informationen aus der Konformitätsbewertung
 
@@ -192,7 +180,6 @@ Unterlagen, sowie ein Exemplar der EG-Konformitätserklärung
 aufzubewahren. Auf Verlangen hat er der nach Landesrecht zuständigen
 Behörde Einsicht in die Informationen zu geben und ihr Kopien der
 Informationen zur Verfügung zu stellen.
-
 
 ### § 6 Mitteilungspflichten
 
@@ -215,10 +202,7 @@ entsprechend für einen Widerruf sowie eine Rücknahme, einen Ablauf
 oder ein Erlöschen der Benennung im Hinblick auf Artikel 15 Abs. 5 der
 Richtlinie 2000/14/EG.
 
-
 ## Abschnitt 3 - Betriebsregelungen für Geräte und Maschinen
-
-
 
 ### § 7 Betrieb in Wohngebieten
 
@@ -269,7 +253,6 @@ und sonstiger lärmempfindlicher Nutzung und allgemeine Vorschriften
 des Lärmschutzes, insbesondere zur Sonn- und Feiertagsruhe und zur
 Nachtruhe, bleiben unberührt.
 
-
 ### § 8 Betrieb in empfindlichen Gebieten
 
 Die Länder können
@@ -292,16 +275,7 @@ Die Länder können
 
     b)  der Betrieb im öffentlichen Interesse erforderlich ist.
 
-
-
-
-
-
-
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 9 Ordnungswidrigkeiten
 
@@ -335,10 +309,6 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 2.  entgegen § 7 Abs. 2 Satz 3 die zuständige Behörde nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig unterrichtet.
 
-
-
-
-
 ### § 10 Übergangsvorschrift
 
 (1) Für Geräte und Maschinen nach dem Anhang, die vor dem 6. September
@@ -361,7 +331,6 @@ technischen Unterlagen nach Anhang V Nr. 3, Anhang VI Nr. 3, Anhang
 VII Nr. 2 sowie Anhang VIII Nr. 3.1 und 3.3 der Richtlinie 2000/14/EG
 verwendet werden.
 
-
 ### § 11 Anpassungsvorschrift
 
 Wird Anhang III der in § 3 in Bezug genommen Richtlinie 2000/14/EG im
@@ -371,7 +340,6 @@ Europäischen Gemeinschaften veröffentlichten Fassung. Die Änderungen
 gelten von dem Tage an, den die Richtlinie bestimmt. Fehlt eine solche
 Bestimmung, so gelten sie vom ersten Tage des dritten auf die
 Veröffentlichung folgenden Monats an.
-
 
 ### Anhang
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 322
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1,
@@ -30,7 +28,6 @@ Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni
 § 3 Abs. 5 des Gesetzes vom 1. September 2005 (BGBl. I S. 2618)
 geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -84,13 +81,6 @@ Im Sinne dieser Verordnung sind
 
     b)  eine Muskelprobe zur Gewinnung von Fleischsaft, die ein Probenehmer in
         der Schlachtstätte entnommen hat.
-
-
-
-
-
-
-
 
 ## § 2 Untersuchung
 
@@ -161,16 +151,11 @@ Ausstellung an gerechnet mindestens drei Jahre aufzubewahren.
     ist beim Deutschen Patent- und Markenamt archivmäßig gesichert
     niedergelegt.
 
-
-
-
-
 ## § 3 Untersuchungsergebnisse
 
 Der Untersuchungspflichtige hat sicherzustellen, dass ihm die
 Untersuchungsstelle das Ergebnis der Untersuchung unverzüglich
 schriftlich oder elektronisch mitteilt.
-
 
 ## § 4 Aufzeichnungen und Kategorisierung
 
@@ -214,13 +199,11 @@ dieser Verordnung ergriffen hat, die den Absätzen 1 und 2 sowie den §§
 2 und 3 entsprechen, kann die Feststellung des Vom-Hundert-Anteils
 bereits zu einem früheren Zeitpunkt erfolgen.
 
-
 ## § 5 Impfungen
 
 Bei einer Impfung gegen Salmonellen dürfen keine Impfstoffe angewendet
 werden, die geeignet sind, die Untersuchungen auf Antikörper nach § 2
 Abs. 1 und 2 zu beeinträchtigen.
-
 
 ## § 6 Maßnahmen
 
@@ -244,7 +227,6 @@ Die Art, der Umfang, die Durchführung und das Ergebnis der Maßnahmen
 sind unverzüglich aufzuzeichnen. Der Untersuchungspflichtige hat die
 Aufzeichnungen vom Tage des Beginns der jeweiligen Maßnahmen an
 mindestens drei Jahre aufzubewahren.
-
 
 ## § 7 Informationspflicht
 
@@ -270,13 +252,11 @@ positiven Salmonellenantikörperbefunde nach § 4 Abs. 1 Satz 1 Nr. 2
 jede Feststellung des Vom-Hundert-Anteils von mehr als 40 schriftlich
 oder elektronisch mitzuteilen.
 
-
 ## § 8 Beauftragung
 
 Der Untersuchungspflichtige kann sich zur Erfüllung seiner Pflichten
 nach dieser Verordnung einer von ihm beauftragten Einrichtung
 bedienen.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -313,10 +293,6 @@ handelt, wer vorsätzlich oder fahrlässig
 7.  entgegen § 7 Abs. 2 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht.
 
-
-
-
-
 ## § 10 Übergangsvorschriften
 
 Diese Verordnung findet bis zum 31. Dezember 2008 mit der Maßgabe
@@ -325,16 +301,13 @@ im Sinne des § 1 Nr. 1 der Schweinehaltungshygieneverordnung ist, der
 mehr als 100 Mastplätze hat und in dem Schweine bis zur Schlachtreife
 gemästet werden.
 
-
 ## § 11 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Abs. 1 und 2, § 4 Abs. 2)
 
@@ -379,10 +352,6 @@ Der Bundesrat hat zugestimmt.
 
 \*) Sofern weniger als 26 Schweine voraussichtlich zur Schlachtung
     abgegeben werden, sind alle Schweine zu untersuchen.
-
-
-
-
 
 ## Anlage 2 (zu § 4 Abs. 2)
 

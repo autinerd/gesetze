@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 21.7.2011 I 1475
 
-
 ## Inhaltsverzeichnis
 
 
@@ -220,13 +219,7 @@ Zuletzt geändert durch
 
     *   Vergleichbarkeit von Anlagen
 
-
-
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -238,7 +231,6 @@ Anhang 1 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004
 (BGBl. I S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11.
 August 2010 (BGBl. I S. 1163) geändert worden ist, unterfallen.
 
-
 ### § 2 Anwendungsbereich
 
 Dieses Gesetz gilt für diejenige Freisetzung von Treibhausgasen durch
@@ -247,7 +239,6 @@ Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das
 zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, unterliegt. Soweit nichts anderes bestimmt
 ist, gilt es für die Zuteilungsperiode 2005 bis 2007.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -266,13 +257,7 @@ Begriffsbestimmungen des Treibhausgas-Emissionshandelsgesetzes.
 3.  Produktionsmenge: die Menge der je Jahr in einer Anlage erzeugten
     Produkteinheiten.
 
-
-
-
-
 ## Abschnitt 2 - Mengenplanung
-
-
 
 ### § 4 Nationale Emissionsziele
 
@@ -383,12 +368,10 @@ Gegenwert von 495 Millionen Tonnen Kohlendioxid je Jahr, so werden die
 nach den genannten Vorschriften vorgenommenen Zuteilungen an die
 Anlagen, die dem Erfüllungsfaktor unterliegen, anteilig gekürzt.
 
-
 ### § 5 Erfüllungsfaktor
 
 Der Erfüllungsfaktor für die Zuteilungsperiode 2005 bis 2007 ist
 0,9709.
-
 
 ### § 6 Reserve
 
@@ -413,14 +396,9 @@ zugewiesen, die der Menge der in der Zuteilungsperiode 2005 bis 2007
 durch die beauftragte Stelle für die Zwecke des Satzes 1 zugekauften
 Berechtigungen entspricht.
 
-
 ## Abschnitt 3 - Zuteilungsregeln
 
-
-
 ### Unterabschnitt 1 - Grundregeln für die Zuteilung
-
-
 
 #### § 7 Zuteilung für bestehende Anlagen auf Basis historischer Emissionen
 
@@ -575,7 +553,6 @@ unter entsprechender Anwendung des § 8 festgelegt.
 (12) Auf Antrag des Betreibers erfolgt die Zuteilung statt nach dieser
 Vorschrift nach § 11. § 6 findet keine Anwendung.
 
-
 #### § 8 Zuteilung für bestehende Anlagen auf Basis angemeldeter Emissionen
 
 (1) Für Anlagen, deren Inbetriebnahme im Zeitraum vom 1. Januar 2003
@@ -649,7 +626,6 @@ Anlage im Übrigen erfolgt nach § 7.
 
 (6) § 7 Abs. 12 gilt entsprechend.
 
-
 #### § 9 Einstellung des Betriebes von Anlagen
 
 (1) Wird der Betrieb einer Anlage eingestellt, so widerruft die
@@ -683,7 +659,6 @@ Jahres in geeigneter Form nachzuweisen. Soweit die tatsächliche
 Mehrproduktion in der anderen Anlage, im Vergleich zur Basisperiode,
 geringer als angezeigt ist, legt die Behörde die Zuteilung unter
 Berücksichtigung der tatsächlichen Produktionsmenge neu fest.
-
 
 #### § 10 Zuteilung für Neuanlagen als Ersatzanlagen
 
@@ -781,7 +756,6 @@ diese Anlage ersetzten Anlage nach § 9 Abs. 2 zu stellen.
 Dezember 2004 finden für die neuen Kapazitäten der Anlage die Absätze
 1 bis 5 entsprechende Anwendung; für die Anlage im Übrigen findet § 7
 oder § 8 Anwendung.
-
 
 #### § 11 Zuteilung für zusätzliche Neuanlagen
 
@@ -884,10 +858,7 @@ Anlage nach dem 31. Dezember 2004 finden die Absätze 1 bis 5 für die
 neuen Kapazitäten entsprechende Anwendung; für die Anlage im Übrigen
 findet § 7 oder § 8 Anwendung.
 
-
 ### Unterabschnitt 2 - Besondere Zuteilungsregeln
-
-
 
 #### § 12 Frühzeitige Emissionsminderungen
 
@@ -990,10 +961,6 @@ Der Antrag nach Absatz 5 muss Angaben enthalten über
 
 2.  den Zeitpunkt der Inbetriebnahme der Anlage.
 
-
-
-
-
 #### § 13 Prozessbedingte Emissionen
 
 (1) Auf Antrag setzt die zuständige Behörde abweichend von § 7 für
@@ -1018,7 +985,6 @@ den vorstehenden Absätzen erforderlichen Angaben enthalten über die in
 einer Rechtsverordnung nach Absatz 2 Satz 2 geregelte Höhe und den
 Anteil prozessbedingter Kohlendioxid-Emissionen an den gesamten
 Emissionen einer Anlage.
-
 
 #### § 14 Sonderzuteilung für Anlagen mit Kraft-Wärme-Kopplung
 
@@ -1078,7 +1044,6 @@ Berechtigungen zurückzugeben.
 Zuteilungsentscheidung zugrunde gelegten Menge um mehr als 20 Prozent,
 so entfällt eine Zuteilung von Berechtigungen nach Absatz 1.
 
-
 #### § 15 Sonderzuteilung bei Einstellung des Betriebes von Kernkraftwerken
 
 (1) Auf Antrag eines Betreibers eines Kernkraftwerkes, der bis zum 30.
@@ -1101,10 +1066,7 @@ nach Satz 2 entfallende Menge nicht übersteigen.
 Berechtigung zum Leistungsbetrieb für das Kernkraftwerk, das der
 Zuteilung zugrunde liegt.
 
-
 ### Unterabschnitt 3 - Allgemeine Zuteilungsvorschriften
-
-
 
 #### § 16 Nähere Bestimmung der Berechnung der Zuteilung
 
@@ -1114,7 +1076,6 @@ Abs. 1 Satz 2, § 8 Abs. 1 Satz 5, § 11 Abs. 1 Satz 4 und Abs. 2 Satz
 erlassen, die bei der Berechnung der Anzahl zuzuteilender
 Berechtigungen nach den Regelungen dieses Abschnitts zugrunde zu legen
 sind.
-
 
 #### § 17 Überprüfung von Angaben
 
@@ -1128,7 +1089,6 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 zuständige Behörde Berechtigungen nur zu, soweit die Richtigkeit der
 Angaben ausreichend gesichert ist.
 
-
 #### § 18 Kosten der Zuteilung
 
 Von der zuständigen Behörde zugeteilte Berechtigungen sind kostenlos.
@@ -1138,10 +1098,7 @@ nach § 22 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004
 August 2010 (BGBl. I S. 1163) geändert worden ist, bleibt hiervon
 unberührt.
 
-
 ## Abschnitt 4 - Ausgabe und Überführung von Berechtigungen
-
-
 
 ### § 19 Ausgabe
 
@@ -1159,7 +1116,6 @@ Zuteilungsentscheidung vor dem 28. Februar eines Kalenderjahres, so
 werden Berechtigungen nach Satz 1 erstmals zum 28. Februar desselben
 Jahres ausgegeben.
 
-
 ### § 20 Ausschluss der Überführung von Berechtigungen
 
 Abweichend von § 6 Abs. 4 Satz 4 des Treibhausgas-
@@ -1170,10 +1126,7 @@ Zuteilungsperiode 2005 bis 2007 nicht in die folgende
 Zuteilungsperiode überführt. Berechtigungen nach Satz 1 werden mit
 Ablauf des 30. April 2008 gelöscht.
 
-
 ## Abschnitt 5 - Gemeinsame Vorschriften
-
-
 
 ### § 21 Ordnungswidrigkeiten
 
@@ -1199,7 +1152,6 @@ Ablauf des 30. April 2008 gelöscht.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 22 Zuständigkeiten
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes ist die Behörde nach §
@@ -1214,7 +1166,6 @@ in dessen Bezirk der Verwaltungsakt erlassen wurde. Satz 1 gilt
 entsprechend für Verpflichtungsklagen sowie für Klagen auf
 Feststellung der Nichtigkeit von Verwaltungsakten.
 
-
 ### § 23 Kosten von Amtshandlungen nach diesem Gesetz
 
 Für Amtshandlungen nach diesem Gesetz werden kostendeckende Gebühren
@@ -1225,11 +1176,9 @@ Rechtsverordnung die Höhe der Gebühren und zu erstattende Auslagen für
 Amtshandlungen nach diesem Gesetz und nach aufgrund dieses Gesetzes
 erlassenen Rechtsverordnungen fest.
 
-
 ### § 24 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ### Anhang 1 Berechnungsformeln
 
@@ -1374,7 +1323,6 @@ bis zum Ende der Zuteilungsperiode
 t(tief)A          erwartete durchschnittliche jährliche Auslastung
 der jeweiligen Anlage in Vollbenutzungsstunden
 t(tief)p          Anzahl der Jahre der Zuteilungsperiode
-
 
 ### Anhang 2 Vergleichbarkeit von Anlagen
 

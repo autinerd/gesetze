@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 690
 
-
 ## Eingangsformel
 
 Auf Grund des § 81c Abs. 3 Satz 1 bis 3 und 5 des
@@ -28,14 +27,12 @@ vom 14. Mai 2007 (BGBl. I S. 993) eingefügt worden ist, verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht im Benehmen mit den
 Aufsichtsbehörden der Länder:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für Lebensversicherungsunternehmen mit Ausnahme
 der Sterbekassen; bei Pensionskassen gilt sie nur für die
 Versicherungsverträge, denen keine genehmigten Geschäftspläne zu
 Grunde liegen.
-
 
 ## § 2 Alt- und Neubestand
 
@@ -69,10 +66,6 @@ Grunde liegen.
 
 2.  bei Pensionskassen die nicht unter Absatz 1 Nr. 2 fallenden
     Lebensversicherungsverträge.
-
-
-
-
 
 ## § 3 Anzurechnende Kapitalerträge
 
@@ -136,7 +129,6 @@ Versicherungsberichterstattungs-Verordnung) nicht zu berücksichtigen.
 Für die jeweiligen mittleren zinstragenden Passiva gilt Absatz 3
 sinngemäß. Für die mittleren übrigen Posten gilt Absatz 3 Satz 1
 sinngemäß.
-
 
 ## § 4 Mindestzuführung zur Rückstellung für Beitragsrückerstattung
 
@@ -265,7 +257,6 @@ Finanzierung von Versicherungsleistungen an Beitrags statt verwendet
 wird, ist im Rahmen des versicherungsmathematischen Gutachtens gemäß §
 17 der Versicherungsberichterstattungs-Verordnung herzuleiten.
 
-
 ## § 5 Reduzierung der Mindestzuführung
 
 (1) Die Mindestzuführung gemäß § 4 kann mit Zustimmung der
@@ -348,12 +339,10 @@ gesamten Mindestzuführung. Die Verpflichtung des Unternehmens zur
 Aufstellung eines Zuführungsplans bleibt hiervon grundsätzlich
 unberührt.
 
-
 ## § 6 Übergangsvorschrift
 
 Die Vorschriften dieser Verordnung sind erstmals für das nach dem 31.
 Dezember 2007 beginnende Geschäftsjahr anzuwenden.
-
 
 ## § 7 Inkrafttreten, Außerkrafttreten
 

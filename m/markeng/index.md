@@ -22,8 +22,6 @@ Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in K
 
 ## Teil 1 - Anwendungsbereich
 
-
-
 ### § 1 Geschützte Marken und sonstige Kennzeichen
 
 Nach diesem Gesetz werden geschützt:
@@ -36,24 +34,15 @@ Nach diesem Gesetz werden geschützt:
 
 3.  geographische Herkunftsangaben.
 
-
-
-
-
 ### § 2 Anwendung anderer Vorschriften
 
 Der Schutz von Marken, geschäftlichen Bezeichnungen und geographischen
 Herkunftsangaben nach diesem Gesetz schließt die Anwendung anderer
 Vorschriften zum Schutz dieser Kennzeichen nicht aus.
 
-
 ## Teil 2 - Voraussetzungen, Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen, Übertragung und Lizenz
 
-
-
 ### Abschnitt 1 - Marken und geschäftliche Bezeichnungen, Vorrang und Zeitrang
-
-
 
 #### § 3 Als Marke schutzfähige Zeichen
 
@@ -76,10 +65,6 @@ ausschließlich aus einer Form bestehen,
 
 3.  die der Ware einen wesentlichen Wert verleiht.
 
-
-
-
-
 #### § 4 Entstehung des Markenschutzes
 
 Der Markenschutz entsteht
@@ -98,10 +83,6 @@ Der Markenschutz entsteht
     Eigentums (Pariser Verbandsübereinkunft) notorische Bekanntheit einer
     Marke.
 
-
-
-
-
 #### § 5 Geschäftliche Bezeichnungen
 
 (1) Als geschäftliche Bezeichnungen werden Unternehmenskennzeichen und
@@ -119,7 +100,6 @@ Geschäftsbetriebs gelten.
 (3) Werktitel sind die Namen oder besonderen Bezeichnungen von
 Druckschriften, Filmwerken, Tonwerken, Bühnenwerken oder sonstigen
 vergleichbaren Werken.
-
 
 #### § 6 Vorrang und Zeitrang
 
@@ -141,10 +121,7 @@ Recht erworben wurde.
 Zeitrang zu, so sind die Rechte gleichrangig und begründen
 gegeneinander keine Ansprüche.
 
-
 ### Abschnitt 2 - Voraussetzungen für den Schutz von Marken durch Eintragung
-
-
 
 #### § 7 Inhaberschaft
 
@@ -158,10 +135,6 @@ Inhaber von eingetragenen und angemeldeten Marken können sein:
 
 3.  Personengesellschaften, sofern sie mit der Fähigkeit ausgestattet
     sind, Rechte zu erwerben und Verbindlichkeiten einzugehen.
-
-
-
-
 
 #### § 8 Absolute Schutzhindernisse
 
@@ -241,7 +214,6 @@ wenn die angemeldete Marke nicht geeignet ist, beim Publikum den
 unzutreffenden Eindruck einer Verbindung mit der internationalen
 zwischenstaatlichen Organisation hervorzurufen.
 
-
 #### § 9 Angemeldete oder eingetragene Marken als relative Schutzhindernisse
 
 (1) Die Eintragung einer Marke kann gelöscht werden,
@@ -277,7 +249,6 @@ zwischenstaatlichen Organisation hervorzurufen.
 (2) Anmeldungen von Marken stellen ein Eintragungshindernis im Sinne
 des Absatzes 1 nur dar, wenn sie eingetragen werden.
 
-
 #### § 10 Notorisch bekannte Marken
 
 (1) Von der Eintragung ausgeschlossen ist eine Marke, wenn sie mit
@@ -289,13 +260,11 @@ Voraussetzungen des § 9 Abs. 1 Nr. 1, 2 oder 3 gegeben sind.
 (2) Absatz 1 findet keine Anwendung, wenn der Anmelder von dem Inhaber
 der notorisch bekannten Marke zur Anmeldung ermächtigt worden ist.
 
-
 #### § 11 Agentenmarken
 
 Die Eintragung einer Marke kann gelöscht werden, wenn die Marke ohne
 die Zustimmung des Inhabers der Marke für dessen Agenten oder
 Vertreter eingetragen worden ist.
-
 
 #### § 12 Durch Benutzung erworbene Marken und geschäftliche Bezeichnungen mit älterem Zeitrang
 
@@ -305,7 +274,6 @@ an einer Marke im Sinne des § 4 Nr. 2 oder an einer geschäftlichen
 Bezeichnung im Sinne des § 5 erworben hat und diese ihn berechtigen,
 die Benutzung der eingetragenen Marke im gesamten Gebiet der
 Bundesrepublik Deutschland zu untersagen.
-
 
 #### § 13 Sonstige ältere Rechte
 
@@ -335,13 +303,7 @@ insbesondere:
 
 6.  sonstige gewerbliche Schutzrechte.
 
-
-
-
-
 ### Abschnitt 3 - Schutzinhalt, Rechtsverletzungen
-
-
 
 #### § 14 Ausschließliches Recht des Inhabers einer Marke, Unterlassungsanspruch, Schadensersatzanspruch
 
@@ -444,7 +406,6 @@ Unterlassungsanspruch und, soweit der Angestellte oder Beauftragte
 vorsätzlich oder fahrlässig gehandelt hat, der Schadensersatzanspruch
 auch gegen den Inhaber des Betriebs geltend gemacht werden.
 
-
 #### § 15 Ausschließliches Recht des Inhabers einer geschäftlichen Bezeichnung, Unterlassungsanspruch, Schadensersatzanspruch
 
 (1) Der Erwerb des Schutzes einer geschäftlichen Bezeichnung gewährt
@@ -477,7 +438,6 @@ entsprechend.
 
 (6) § 14 Abs. 7 ist entsprechend anzuwenden.
 
-
 #### § 16 Wiedergabe einer eingetragenen Marke in Nachschlagewerken
 
 (1) Erweckt die Wiedergabe einer eingetragenen Marke in einem
@@ -497,7 +457,6 @@ Nachschlagewerk in der Form einer elektronischen Datenbank vertrieben
 wird oder wenn zu einer elektronischen Datenbank, die ein
 Nachschlagewerk enthält, Zugang gewährt wird.
 
-
 #### § 17 Ansprüche gegen Agenten oder Vertreter
 
 (1) Ist eine Marke entgegen § 11 für den Agenten oder Vertreter des
@@ -514,7 +473,6 @@ Agent oder Vertreter vorsätzlich oder fahrlässig, so ist er dem
 Inhaber der Marke zum Ersatz des durch die Verletzungshandlung
 entstandenen Schadens verpflichtet. § 14 Abs. 7 ist entsprechend
 anzuwenden.
-
 
 #### § 18 Vernichtungs- und Rückrufansprüche
 
@@ -535,7 +493,6 @@ Entfernen aus den Vertriebswegen in Anspruch nehmen.
 die Inanspruchnahme im Einzelfall unverhältnismäßig ist. Bei der
 Prüfung der Verhältnismäßigkeit sind auch die berechtigten Interessen
 Dritter zu berücksichtigen.
-
 
 #### § 19 Auskunftsanspruch
 
@@ -630,7 +587,6 @@ Schutz personenbezogener Daten bleiben im Übrigen unberührt.
 (10) Durch Absatz 2 in Verbindung mit Absatz 9 wird das Grundrecht des
 Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
-
 #### § 19a Vorlage- und Besichtigungsansprüche
 
 (1) Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung nach
@@ -665,7 +621,6 @@ Verletzer von demjenigen, der die Vorlage oder Besichtigung nach
 Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren
 entstandenen Schadens verlangen.
 
-
 #### § 19b Sicherung von Schadensersatzansprüchen
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann
@@ -696,7 +651,6 @@ wird.
 (4) § 811 des Bürgerlichen Gesetzbuchs sowie § 19 Abs. 8 gelten
 entsprechend.
 
-
 #### § 19c Urteilsbekanntmachung
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der
@@ -708,15 +662,11 @@ wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der
 Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz
 1 ist nicht vorläufig vollstreckbar.
 
-
 #### § 19d Ansprüche aus anderen gesetzlichen Vorschriften
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
-
 ### Abschnitt 4 - Schranken des Schutzes
-
-
 
 #### § 20 Verjährung
 
@@ -725,7 +675,6 @@ die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen
 Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die
 Verletzung auf Kosten des Berechtigten etwas erlangt, findet § 852 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
-
 
 #### § 21 Verwirkung von Ansprüchen
 
@@ -752,7 +701,6 @@ untersagen.
 
 (4) Die Absätze 1 bis 3 lassen die Anwendung allgemeiner Grundsätze
 über die Verwirkung von Ansprüchen unberührt.
-
 
 #### § 22 Ausschluß von Ansprüchen bei Bestandskraft der Eintragung einer Marke mit jüngerem Zeitrang
 
@@ -781,7 +729,6 @@ zurückzuweisen wäre,
 Marke mit jüngerem Zeitrang die Benutzung der Marke oder der
 geschäftlichen Bezeichnung mit älterem Zeitrang nicht untersagen.
 
-
 #### § 23 Benutzung von Namen und beschreibenden Angaben, Ersatzteilgeschäft
 
 Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung hat
@@ -808,7 +755,6 @@ Verkehr
 
 sofern die Benutzung nicht gegen die guten Sitten verstößt.
 
-
 #### § 24 Erschöpfung
 
 (1) Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung hat
@@ -826,7 +772,6 @@ geschäftlichen Bezeichnung im Zusammenhang mit dem weiteren Vertrieb
 der Waren aus berechtigten Gründen widersetzt, insbesondere wenn der
 Zustand der Waren nach ihrem Inverkehrbringen verändert oder
 verschlechtert ist.
-
 
 #### § 25 Ausschluß von Ansprüchen bei mangelnder Benutzung
 
@@ -851,7 +796,6 @@ die Marke innerhalb der letzten fünf Jahre vor dem Schluß der
 mündlichen Verhandlung gemäß § 26 benutzt worden ist. Bei der
 Entscheidung werden nur die Waren oder Dienstleistungen
 berücksichtigt, für die die Benutzung nachgewiesen worden ist.
-
 
 #### § 26 Benutzung der Marke
 
@@ -881,10 +825,7 @@ die Eintragung Widerspruch erhoben worden ist, an die Stelle des
 Zeitpunkts der Eintragung der Zeitpunkt des Abschlusses des
 Widerspruchsverfahrens.
 
-
 ### Abschnitt 5 - Marken als Gegenstand des Vermögens
-
-
 
 #### § 27 Rechtsübergang
 
@@ -907,7 +848,6 @@ wenn er dem Patentamt nachgewiesen wird.
 Dienstleistungen, für die die Marke eingetragen ist, so sind die
 Vorschriften über die Teilung der Eintragung mit Ausnahme von § 46
 Abs. 2 und 3 Satz 1 und 2 entsprechend anzuwenden.
-
 
 #### § 28 Vermutung der Rechtsinhaberschaft, Zustellungen an den Inhaber
 
@@ -935,7 +875,6 @@ zuzustellen. Ist dem Patentamt ein Antrag auf Eintragung eines
 Rechtsübergangs zugegangen, so sind die in Satz 1 genannten
 Verfügungen und Beschlüsse auch dem Rechtsnachfolger zuzustellen.
 
-
 #### § 29 Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren
 
 (1) Das durch die Eintragung, die Benutzung oder die notorische
@@ -961,7 +900,6 @@ Insolvenzverwalters oder auf Ersuchen des Insolvenzgerichts in das
 Register eingetragen. Im Falle der Eigenverwaltung (§ 270 der
 Insolvenzordnung) tritt der Sachwalter an die Stelle des
 Insolvenzverwalters.
-
 
 #### § 30 Lizenzen
 
@@ -1007,20 +945,14 @@ machen.
 Absatz 1 berührt nicht die Lizenzen, die Dritten vorher erteilt worden
 sind.
 
-
 #### § 31 Angemeldete Marken
 
 Die §§ 27 bis 30 gelten entsprechend für durch Anmeldung von Marken
 begründete Rechte.
 
-
 ## Teil 3 - Verfahren in Markenangelegenheiten
 
-
-
 ### Abschnitt 1 - Eintragungsverfahren
-
-
 
 #### § 32 Erfordernisse der Anmeldung
 
@@ -1050,7 +982,6 @@ bestimmt worden sind.
 
 (4) (weggefallen)
 
-
 #### § 33 Anmeldetag, Anspruch auf Eintragung, Veröffentlichung der Anmeldung
 
 (1) Der Anmeldetag einer Marke ist der Tag, an dem die Unterlagen mit
@@ -1074,7 +1005,6 @@ daß absolute Eintragungshindernisse der Eintragung entgegenstehen.
 (3) Die Anmeldung einer Marke, deren Anmeldetag feststeht, wird
 einschließlich solcher Angaben veröffentlicht, die es erlauben, die
 Identität des Anmelders festzustellen.
-
 
 #### § 34 Ausländische Priorität
 
@@ -1102,7 +1032,6 @@ anzugeben und eine Abschrift der früheren Anmeldung einzureichen.
 Innerhalb dieser Fristen können die Angaben geändert werden. Werden
 die Angaben nicht rechtzeitig gemacht, so wird der Prioritätsanspruch
 für diese Anmeldung verwirkt.
-
 
 #### § 35 Ausstellungspriorität
 
@@ -1144,7 +1073,6 @@ Anmeldung verwirkt.
 (5) Die Ausstellungspriorität nach Absatz 1 verlängert nicht die
 Prioritätsfrist nach § 34.
 
-
 #### § 36 Prüfung der Anmeldungserfordernisse
 
 (1) Das Patentamt prüft, ob
@@ -1184,7 +1112,6 @@ Frist nicht beseitigt, so weist das Patentamt die Anmeldung zurück.
 (5) Kann der Anmelder nicht nach § 7 Inhaber einer Marke sein, so
 weist das Patentamt die Anmeldung zurück.
 
-
 #### § 37 Prüfung auf absolute Schutzhindernisse
 
 (1) Ist die Marke nach § 3, 8 oder 10 von der Eintragung
@@ -1212,12 +1139,10 @@ Voraussetzungen des § 9 Abs. 1 Nr. 1 oder 2 gegeben sind.
 nur für einen Teil der Waren oder Dienstleistungen, für die sie
 angemeldet worden ist, von der Eintragung ausgeschlossen ist.
 
-
 #### § 38 Beschleunigte Prüfung
 
 Auf Antrag des Anmelders wird die Prüfung nach den §§ 36 und 37
 beschleunigt durchgeführt.
-
 
 #### § 39 Zurücknahme, Einschränkung und Berichtigung der Anmeldung
 
@@ -1228,7 +1153,6 @@ einschränken.
 (2) Der Inhalt der Anmeldung kann auf Antrag des Anmelders zur
 Berichtigung von sprachlichen Fehlern, Schreibfehlern oder sonstigen
 offensichtlichen Unrichtigkeiten geändert werden.
-
 
 #### § 40 Teilung der Anmeldung
 
@@ -1246,13 +1170,11 @@ Teilungsverfahren nicht innerhalb dieser Frist gezahlt, so gilt die
 abgetrennte Anmeldung als zurückgenommen. Die Teilungserklärung kann
 nicht widerrufen werden.
 
-
 #### § 41 Eintragung
 
 Entspricht die Anmeldung den Anmeldungserfordernissen und wird sie
 nicht gemäß § 37 zurückgewiesen, so wird die angemeldete Marke in das
 Register eingetragen. Die Eintragung wird veröffentlicht.
-
 
 #### § 42 Widerspruch
 
@@ -1285,7 +1207,6 @@ gelöscht werden kann.
 
 (3) (weggefallen)
 
-
 #### § 43 Einrede mangelnder Benutzung, Entscheidung über den Widerspruch
 
 (1) Ist der Widerspruch vom Inhaber einer eingetragenen Marke mit
@@ -1316,7 +1237,6 @@ der Marke ausgesetzt werden.
 (4) Im Falle der Löschung nach Absatz 2 ist § 52 Abs. 2 und 3
 entsprechend anzuwenden.
 
-
 #### § 44 Eintragungsbewilligungsklage
 
 (1) Der Inhaber der Marke kann im Wege der Klage gegen den
@@ -1330,10 +1250,7 @@ worden ist, zu erheben.
 (3) Die Eintragung aufgrund einer Entscheidung zugunsten des Inhabers
 der Marke wird unter Wahrung des Zeitrangs der Eintragung vorgenommen.
 
-
 ### Abschnitt 2 - Berichtigung, Teilung, Schutzdauer und Verlängerung
-
-
 
 #### § 45 Berichtigung des Registers und von Veröffentlichungen
 
@@ -1345,7 +1262,6 @@ berichtigte Eintragung zu veröffentlichen.
 
 (2) Absatz 1 ist entsprechend auf die Berichtigung von
 Veröffentlichungen anzuwenden.
-
 
 #### § 46 Teilung der Eintragung
 
@@ -1368,7 +1284,6 @@ nach dem Zugang der Teilungserklärung eingereicht oder wird die Gebühr
 nach dem Patentkostengesetz für das Teilungsverfahren nicht innerhalb
 dieser Frist gezahlt, so gilt dies als Verzicht auf die abgetrennte
 Eintragung. Die Teilungserklärung kann nicht widerrufen werden.
-
 
 #### § 47 Schutzdauer und Verlängerung
 
@@ -1402,10 +1317,7 @@ veröffentlicht.
 (6) Wird die Schutzdauer nicht verlängert, so wird die Eintragung der
 Marke mit Wirkung ab dem Ablauf der Schutzdauer gelöscht.
 
-
 ### Abschnitt 3 - Verzicht, Verfall und Nichtigkeit, Löschungsverfahren
-
-
 
 #### § 48 Verzicht
 
@@ -1416,7 +1328,6 @@ sie eingetragen ist, im Register gelöscht.
 (2) Ist im Register eine Person als Inhaber eines Rechts an der Marke
 eingetragen, so wird die Eintragung nur mit Zustimmung dieser Person
 gelöscht.
-
 
 #### § 49 Verfall
 
@@ -1465,7 +1376,6 @@ gelöscht,
 Dienstleistungen vor, für die die Marke eingetragen ist, so wird die
 Eintragung nur für diese Waren oder Dienstleistungen gelöscht.
 
-
 #### § 50 Nichtigkeit wegen absoluter Schutzhindernisse
 
 (1) Die Eintragung einer Marke wird auf Antrag wegen Nichtigkeit
@@ -1499,7 +1409,6 @@ wenn sie entgegen § 8 Abs. 2 Nr. 4 bis 10 eingetragen worden ist und
 (4) Liegt ein Nichtigkeitsgrund nur für einen Teil der Waren oder
 Dienstleistungen vor, für die die Marke eingetragen ist, so wird die
 Eintragung nur für diese Waren oder Dienstleistungen gelöscht.
-
 
 #### § 51 Nichtigkeit wegen des Bestehens älterer Rechte
 
@@ -1548,7 +1457,6 @@ hätte gelöscht werden können.
 Dienstleistungen vor, für die die Marke eingetragen ist, so wird die
 Eintragung nur für diese Waren oder Dienstleistungen gelöscht.
 
-
 #### § 52 Wirkungen der Löschung wegen Verfalls oder Nichtigkeit
 
 (1) Die Wirkungen der Eintragung einer Marke gelten in dem Umfang, in
@@ -1578,10 +1486,6 @@ Marke nicht
     gezahlte Beträge aus Billigkeitsgründen insoweit zurückerstattet
     werden, wie die Umstände dies rechtfertigen.
 
-
-
-
-
 #### § 53 Löschung durch das Patentamt wegen Verfalls
 
 (1) Der Antrag auf Löschung wegen Verfalls (§ 49) kann, unbeschadet
@@ -1601,7 +1505,6 @@ teilt das Patentamt dies dem Antragsteller mit und unterrichtet ihn
 darüber, daß der Antrag auf Löschung durch Klage nach § 55 geltend zu
 machen ist.
 
-
 #### § 54 Löschungsverfahren vor dem Patentamt wegen absoluter Schutzhindernisse
 
 (1) Der Antrag auf Löschung wegen absoluter Schutzhindernisse (§ 50)
@@ -1614,7 +1517,6 @@ Patentamt den Inhaber der eingetragenen Marke hierüber. Widerspricht
 er der Löschung nicht innerhalb von zwei Monaten nach Zustellung der
 Mitteilung, so wird die Eintragung gelöscht. Widerspricht er der
 Löschung, so wird das Löschungsverfahren durchgeführt.
-
 
 #### § 55 Löschungsverfahren vor den ordentlichen Gerichten
 
@@ -1664,10 +1566,7 @@ den Rechtsnachfolger wirksam und vollstreckbar. Für die Befugnis des
 Rechtsnachfolgers, in den Rechtsstreit einzutreten, gelten die §§ 66
 bis 74 und 76 der Zivilprozeßordnung entsprechend.
 
-
 ### Abschnitt 4 - Allgemeine Vorschriften für das Verfahren vor dem Patentamt
-
-
 
 #### § 56 Zuständigkeiten im Patentamt
 
@@ -1694,7 +1593,6 @@ Löschung einer Marke nach § 54 allein bearbeiten oder diese
 Angelegenheiten einem Angehörigen der Markenabteilung zur Bearbeitung
 übertragen.
 
-
 #### § 57 Ausschließung und Ablehnung
 
 (1) Für die Ausschließung und Ablehnung der Prüfer und der Mitglieder
@@ -1708,7 +1606,6 @@ Gerichtspersonen entsprechend.
 (2) Über das Ablehnungsgesuch entscheidet, soweit es einer
 Entscheidung bedarf, eine Markenabteilung.
 
-
 #### § 58 Gutachten
 
 (1) Das Patentamt ist verpflichtet, auf Ersuchen der Gerichte oder der
@@ -1720,7 +1617,6 @@ voneinander abweichende Gutachten mehrerer Sachverständiger vorliegen.
 Bundesministeriums der Justiz außerhalb seines gesetzlichen
 Aufgabenbereichs Beschlüsse zu fassen oder Gutachten abzugeben.
 
-
 #### § 59 Ermittlung des Sachverhalts, rechtliches Gehör
 
 (1) Das Patentamt ermittelt den Sachverhalt von Amts wegen. Es ist an
@@ -1731,7 +1627,6 @@ die dem Anmelder oder Inhaber der Marke oder einem anderen am
 Verfahren Beteiligten noch nicht mitgeteilt waren, so ist ihm vorher
 Gelegenheit zu geben, sich dazu innerhalb einer bestimmten Frist zu
 äußern.
-
 
 #### § 60 Ermittlungen, Anhörungen, Niederschrift
 
@@ -1752,7 +1647,6 @@ fertigen, die den wesentlichen Gang der Verhandlung wiedergeben und
 die rechtserheblichen Erklärungen der Beteiligten enthalten soll. Die
 §§ 160a, 162 und 163 der Zivilprozeßordnung sind entsprechend
 anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
-
 
 #### § 61 Beschlüsse, Rechtsmittelbelehrung
 
@@ -1778,7 +1672,6 @@ dahingehend belehrt worden ist, daß ein Rechtsmittel nicht gegeben
 sei. § 91 ist entsprechend anzuwenden. Die Sätze 1 bis 4 gelten
 entsprechend für den Rechtsbehelf der Erinnerung nach § 64.
 
-
 #### § 62 Akteneinsicht, Registereinsicht
 
 (1) Das Patentamt gewährt auf Antrag Einsicht in die Akten von
@@ -1789,7 +1682,6 @@ gemacht wird.
 Akten der eingetragenen Marke gewährt.
 
 (3) Die Einsicht in das Register steht jeder Person frei.
-
 
 #### § 63 Kosten der Verfahren
 
@@ -1821,7 +1713,6 @@ Beschwerde gegen den Kostenfestsetzungsbeschluß. § 66 ist mit der
 Maßgabe anzuwenden, daß die Beschwerde innerhalb von zwei Wochen
 einzulegen ist. Die vollstreckbare Ausfertigung wird vom
 Urkundsbeamten der Geschäftsstelle des Patentgerichts erteilt.
-
 
 #### § 64 Erinnerung
 
@@ -1859,12 +1750,10 @@ eingelegt, so gilt seine Erinnerung als zurückgenommen.
 Eine gleichwohl danach erlassene Erinnerungsentscheidung ist
 gegenstandslos.
 
-
 #### § 64a Kostenregelungen im Verfahren vor dem Patentamt
 
 Im Verfahren vor dem Patentamt gilt für die Kosten das
 Patentkostengesetz.
-
 
 #### § 65 Rechtsverordnungsermächtigung
 
@@ -1951,10 +1840,7 @@ von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne
 Zustimmung des Bundesrates ganz oder teilweise dem Deutschen Patent-
 und Markenamt übertragen.
 
-
 ### Abschnitt 5 - Verfahren vor dem Patentgericht
-
-
 
 #### § 66 Beschwerde
 
@@ -2007,7 +1893,6 @@ ohne sachliche Stellungnahme dem Patentgericht vorzulegen. In den
 Fällen des Satzes 2 ist die Beschwerde unverzüglich dem Patentgericht
 vorzulegen.
 
-
 #### § 67 Beschwerdesenate, Öffentlichkeit der Verhandlung
 
 (1) Über Beschwerden im Sinne des § 66 entscheidet ein Beschwerdesenat
@@ -2030,10 +1915,6 @@ entsprechend mit der Maßgabe, daß
 2.  die Öffentlichkeit für die Verkündung der Entscheidungen bis zur
     Veröffentlichung der Eintragung ausgeschlossen ist.
 
-
-
-
-
 #### § 68 Beteiligung des Präsidenten des Patentamts
 
 (1) Der Präsident des Patentamts kann, wenn er dies zur Wahrung des
@@ -2049,7 +1930,6 @@ Patentamts anheimgeben, dem Beschwerdeverfahren beizutreten. Mit dem
 Eingang der Beitrittserklärung erlangt der Präsident des Patentamts
 die Stellung eines Beteiligten.
 
-
 #### § 69 Mündliche Verhandlung
 
 Eine mündliche Verhandlung findet statt, wenn
@@ -2061,10 +1941,6 @@ Eine mündliche Verhandlung findet statt, wenn
 
 
 3.  das Patentgericht sie für sachdienlich erachtet.
-
-
-
-
 
 #### § 70 Entscheidung über die Beschwerde
 
@@ -2092,7 +1968,6 @@ ohne in der Sache selbst zu entscheiden, wenn
 (4) Das Patentamt hat die rechtliche Beurteilung, die der Aufhebung
 nach Absatz 3 zugrunde liegt, auch seiner Entscheidung zugrunde zu
 legen.
-
 
 #### § 71 Kosten des Beschwerdeverfahrens
 
@@ -2122,7 +1997,6 @@ das Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
 Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen (§§ 724 bis 802)
 entsprechend.
 
-
 #### § 72 Ausschließung und Ablehnung
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
@@ -2140,7 +2014,6 @@ Beschwerdesenat.
 (4) Über die Ablehnung eines Urkundsbeamten entscheidet der Senat, in
 dessen Geschäftsbereich die Sache fällt.
 
-
 #### § 73 Ermittlung des Sachverhalts, Vorbereitung der mündlichen Verhandlung
 
 (1) Das Patentgericht ermittelt den Sachverhalt von Amts wegen. Es ist
@@ -2154,7 +2027,6 @@ Anordnungen zu treffen, die notwendig sind, um die Sache möglichst in
 einer mündlichen Verhandlung oder in einer Sitzung zu erledigen. Im
 übrigen gilt § 273 Abs. 2, Abs. 3 Satz 1 und Abs. 4 Satz 1 der
 Zivilprozeßordnung entsprechend.
-
 
 #### § 74 Beweiserhebung
 
@@ -2172,7 +2044,6 @@ können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
 Sachverständige sachdienliche Fragen richten. Wird eine Frage
 beanstandet, so entscheidet das Patentgericht.
 
-
 #### § 75 Ladungen
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind
@@ -2181,7 +2052,6 @@ laden. In dringenden Fällen kann der Vorsitzende die Frist abkürzen.
 
 (2) Bei der Ladung ist darauf hinzuweisen, daß beim Ausbleiben eines
 Beteiligten auch ohne ihn verhandelt und entschieden werden kann.
-
 
 #### § 76 Gang der Verhandlung
 
@@ -2204,7 +2074,6 @@ entscheidet der Senat.
 Verhandlung für geschlossen. Der Senat kann die Wiedereröffnung
 beschließen.
 
-
 #### § 77 Niederschrift
 
 (1) Zur mündlichen Verhandlung und zu jeder Beweisaufnahme wird ein
@@ -2215,7 +2084,6 @@ abgesehen, besorgt ein Richter die Niederschrift.
 (2) Über die mündliche Verhandlung und jede Beweisaufnahme ist eine
 Niederschrift aufzunehmen. Die §§ 160 bis 165 der Zivilprozeßordnung
 sind entsprechend anzuwenden.
-
 
 #### § 78 Beweiswürdigung, rechtliches Gehör
 
@@ -2230,7 +2098,6 @@ gestützt werden, zu denen die Beteiligten sich äußern konnten.
 (3) Ist eine mündliche Verhandlung vorhergegangen, so kann ein
 Richter, der bei der letzten mündlichen Verhandlung nicht zugegen war,
 bei der Beschlußfassung nur mitwirken, wenn die Beteiligten zustimmen.
-
 
 #### § 79 Verkündung, Zustellung, Begründung
 
@@ -2248,7 +2115,6 @@ Endentscheidungen sind den Beteiligten von Amts wegen zuzustellen.
 (2) Die Entscheidungen des Patentgerichts, durch die ein Antrag
 zurückgewiesen oder über ein Rechtsmittel entschieden wird, sind zu
 begründen.
-
 
 #### § 80 Berichtigungen
 
@@ -2269,7 +2135,6 @@ beantragt ist, mitgewirkt haben.
 
 (5) Der Berichtigungsbeschluß wird auf der Entscheidung und den
 Ausfertigungen vermerkt.
-
 
 #### § 81 Vertretung, Vollmacht
 
@@ -2322,7 +2187,6 @@ gemacht werden. Das Patentgericht hat den Mangel der Vollmacht von
 Amts wegen zu berücksichtigen, wenn nicht als Bevollmächtigter ein
 Rechtsanwalt oder ein Patentanwalt auftritt.
 
-
 #### § 82 Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
@@ -2341,10 +2205,7 @@ statt, soweit dieses Gesetz sie zuläßt.
 Abs. 1 und 2 entsprechend anzuwenden. Über den Antrag entscheidet das
 Patentgericht.
 
-
 ### Abschnitt 6 - Verfahren vor dem Bundesgerichtshof
-
-
 
 #### § 83 Zugelassene und zulassungsfreie Rechtsbeschwerde
 
@@ -2391,10 +2252,6 @@ nicht, wenn gerügt wird,
 
 6.  daß der Beschluß nicht mit Gründen versehen ist.
 
-
-
-
-
 #### § 84 Beschwerdeberechtigung, Beschwerdegründe
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
@@ -2403,7 +2260,6 @@ zu.
 (2) Die Rechtsbeschwerde kann nur darauf gestützt werden, daß der
 Beschluß auf einer Verletzung des Rechts beruht. Die §§ 546 und 547
 der Zivilprozeßordnung gelten entsprechend.
-
 
 #### § 85 Förmliche Voraussetzungen
 
@@ -2443,14 +2299,12 @@ Patentanwalts entstehen, sind die Gebühren nach § 13 des
 Rechtsanwaltsvergütungsgesetzes und außerdem die notwendigen Auslagen
 des Patentanwalts zu erstatten.
 
-
 #### § 86 Prüfung der Zulässigkeit
 
 Der Bundesgerichtshof hat von Amts wegen zu prüfen, ob die
 Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form
 und Frist eingelegt und begründet ist. Liegen die Voraussetzungen
 nicht vor, so ist die Rechtsbeschwerde als unzulässig zu verwerfen.
-
 
 #### § 87 Mehrere Beteiligte
 
@@ -2468,7 +2322,6 @@ Beschwerdeschrift oder der Beschwerdebegründung einreichen.
 Rechtsbeschwerde beteiligt, so ist § 68 Abs. 1 entsprechend
 anzuwenden.
 
-
 #### § 88 Anwendung weiterer Vorschriften
 
 (1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der
@@ -2482,7 +2335,6 @@ entsprechend.
 
 (2) Für die Öffentlichkeit des Verfahrens gilt § 67 Abs. 2 und 3
 entsprechend.
-
 
 #### § 89 Entscheidung über die Rechtsbeschwerde
 
@@ -2503,7 +2355,6 @@ zurückzuverweisen. Das Patentgericht hat die rechtliche Beurteilung,
 die der Aufhebung zugrunde gelegt ist, auch seiner Entscheidung
 zugrunde zu legen.
 
-
 #### § 89a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 Auf die Rüge der durch die Entscheidung beschwerten Partei ist das
@@ -2512,7 +2363,6 @@ auf rechtliches Gehör in entscheidungserheblicher Weise verletzt hat.
 Gegen eine der Endentscheidung vorausgehende Entscheidung findet die
 Rüge nicht statt. § 321a Abs. 2 bis 5 der Zivilprozessordnung ist
 entsprechend anzuwenden.
-
 
 #### § 90 Kostenentscheidung
 
@@ -2544,10 +2394,7 @@ das Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
 Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen (§§ 724 bis 802)
 entsprechend.
 
-
 ### Abschnitt 7 - Gemeinsame Vorschriften
-
-
 
 #### § 91 Wiedereinsetzung
 
@@ -2586,7 +2433,6 @@ gutgläubig Waren in den Verkehr gebracht oder Dienstleistungen
 erbracht haben, hinsichtlich dieser Handlungen keine Rechte geltend
 machen.
 
-
 #### § 91a Weiterbehandlung der Anmeldung
 
 (1) Ist nach Versäumung einer vom Patentamt bestimmten Frist die
@@ -2607,13 +2453,11 @@ Patentkostengesetzes ist eine Wiedereinsetzung nicht gegeben.
 (4) Über den Antrag beschließt die Stelle, die über die nachgeholte
 Handlung zu beschließen hat.
 
-
 #### § 92 Wahrheitspflicht
 
 In den Verfahren vor dem Patentamt, dem Patentgericht und dem
 Bundesgerichtshof haben die Beteiligten ihre Erklärungen über
 tatsächliche Umstände vollständig und der Wahrheit gemäß abzugeben.
-
 
 #### § 93 Amtssprache und Gerichtssprache
 
@@ -2621,12 +2465,10 @@ Die Sprache vor dem Patentamt und vor dem Patentgericht ist deutsch.
 Im übrigen finden die Vorschriften des Gerichtsverfassungsgesetzes
 über die Gerichtssprache Anwendung.
 
-
 #### § 93a Entschädigung von Zeugen, Vergütung von Sachverständigen
 
 Zeugen erhalten eine Entschädigung und Sachverständige eine Vergütung
 nach dem Justizvergütungs- und -entschädigungsgesetz.
-
 
 #### § 94 Zustellungen
 
@@ -2661,7 +2503,6 @@ Maßgaben:
 (2) Für Zustellungen im Verfahren vor dem Bundespatentgericht gelten
 die Vorschriften der Zivilprozessordnung.
 
-
 #### § 95 Rechtshilfe
 
 (1) Die Gerichte sind verpflichtet, dem Patentamt Rechtshilfe zu
@@ -2676,7 +2517,6 @@ erschienenen Zeugen anzuordnen.
 (3) Über das Ersuchen nach Absatz 2 entscheidet ein Beschwerdesenat
 des Patentgerichts in der Besetzung mit drei rechtskundigen
 Mitgliedern. Die Entscheidung ergeht durch Beschluß.
-
 
 #### § 95a Elektronische Verfahrensführung, Verordnungsermächtigung
 
@@ -2704,10 +2544,6 @@ ohne Zustimmung des Bundesrates
     geführt werden können, sowie die hierfür geltenden organisatorisch-
     technischen Rahmenbedingungen für die Bildung, Führung und
     Aufbewahrung der elektronischen Prozessakten.
-
-
-
-
 
 #### § 96 Inlandsvertreter
 
@@ -2744,17 +2580,13 @@ nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch
 die Bestellung eines anderen Vertreters gegenüber dem Patentamt oder
 dem Patentgericht angezeigt wird.
 
-
 #### § 96a Rechtsschutz bei überlangen Gerichtsverfahren
 
 Die Vorschriften des Siebzehnten Titels des
 Gerichtsverfassungsgesetzes sind auf Verfahren vor dem Patentgericht
 und dem Bundesgerichtshof entsprechend anzuwenden.
 
-
 ## Teil 4 - Kollektivmarken
-
-
 
 ### § 97 Kollektivmarken
 
@@ -2768,7 +2600,6 @@ sonstigen Eigenschaften zu unterscheiden.
 (2) Auf Kollektivmarken sind die Vorschriften dieses Gesetzes
 anzuwenden, soweit in diesem Teil nicht etwas anderes bestimmt ist.
 
-
 ### § 98 Inhaberschaft
 
 Inhaber von angemeldeten oder eingetragenen Kollektivmarken können nur
@@ -2777,14 +2608,12 @@ Dachverbände und Spitzenverbände, deren Mitglieder selbst Verbände
 sind. Diesen Verbänden sind die juristischen Personen des öffentlichen
 Rechts gleichgestellt.
 
-
 ### § 99 Eintragbarkeit von geographischen Herkunftsangaben als Kollektivmarken
 
 Abweichend von § 8 Abs. 2 Nr. 2 können Kollektivmarken ausschließlich
 aus Zeichen oder Angaben bestehen, die im Verkehr zur Bezeichnung der
 geographischen Herkunft der Waren oder der Dienstleistungen dienen
 können.
-
 
 ### § 100 Schranken des Schutzes, Benutzung
 
@@ -2799,7 +2628,6 @@ verstößt.
 befugte Person oder durch den Inhaber der Kollektivmarke gilt als
 Benutzung im Sinne des § 26.
 
-
 ### § 101 Klagebefugnis, Schadensersatz
 
 (1) Soweit in der Markensatzung nichts anderes bestimmt ist, kann eine
@@ -2811,7 +2639,6 @@ erheben.
 verlangen, der den zur Benutzung der Kollektivmarke berechtigten
 Personen aus der unbefugten Benutzung der Kollektivmarke oder eines
 ähnlichen Zeichens entstanden ist.
-
 
 ### § 102 Markensatzung
 
@@ -2852,7 +2679,6 @@ Kollektivmarke befugten Personen aufzunehmen ist.
 
 (4) Die Einsicht in die Markensatzung steht jeder Person frei.
 
-
 ### § 103 Prüfung der Anmeldung
 
 Die Anmeldung einer Kollektivmarke wird außer nach § 37 auch
@@ -2862,7 +2688,6 @@ Ordnung oder die guten Sitten verstößt, es sei denn, daß der Anmelder
 die Markensatzung so ändert, daß der Zurückweisungsgrund nicht mehr
 besteht.
 
-
 ### § 104 Änderung der Markensatzung
 
 (1) Der Inhaber der Kollektivmarke hat dem Patentamt jede Änderung der
@@ -2870,7 +2695,6 @@ Markensatzung mitzuteilen.
 
 (2) Im Falle einer Änderung der Markensatzung sind die §§ 102 und 103
 entsprechend anzuwenden.
-
 
 ### § 105 Verfall
 
@@ -2902,7 +2726,6 @@ Publikum zu täuschen.
 (3) Der Antrag auf Löschung nach Absatz 1 ist beim Patentamt zu
 stellen. Das Verfahren richtet sich nach § 54.
 
-
 ### § 106 Nichtigkeit wegen absoluter Schutzhindernisse
 
 Die Eintragung einer Kollektivmarke wird außer aus den in § 50
@@ -2912,14 +2735,9 @@ Nichtigkeitsgrund die Markensatzung, so wird die Eintragung nicht
 gelöscht, wenn der Inhaber der Kollektivmarke die Markensatzung so
 ändert, daß der Nichtigkeitsgrund nicht mehr besteht.
 
-
 ## Teil 5 - Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen, Gemeinschaftsmarken
 
-
-
 ### Abschnitt 1 - Schutz von Marken nach dem Madrider Markenabkommen
-
-
 
 #### § 107 Anwendung der Vorschriften dieses Gesetzes; Sprache
 
@@ -2936,7 +2754,6 @@ internationalen Registrierung und das Verzeichnis der Waren und
 Dienstleistungen sind nach Wahl des Antragstellers entweder in
 französischer oder in englischer Sprache einzureichen.
 
-
 #### § 108 Antrag auf internationale Registrierung
 
 (1) Der Antrag auf internationale Registrierung einer in das Register
@@ -2951,7 +2768,6 @@ der Eintragung der Marke zugegangen.
 nach Klassen geordnet in der Reihenfolge der internationalen
 Klassifikation von Waren und Dienstleistungen, einzureichen.
 
-
 #### § 109 Gebühren
 
 (1) Ist der Antrag auf internationale Registrierung vor der Eintragung
@@ -2964,12 +2780,10 @@ internationale Registrierung ist innerhalb eines Monats nach
 Fälligkeit, die sich nach § 3 Abs. 1 des Patentkostengesetzes oder
 nach Absatz 1 richtet, zu zahlen.
 
-
 #### § 110 Eintragung im Register
 
 Der Tag und die Nummer der internationalen Registrierung einer im
 Register eingetragenen Marke sind in das Register einzutragen.
-
 
 #### § 111 Nachträgliche Schutzerstreckung
 
@@ -2980,7 +2794,6 @@ einer international registrierten Marke nach Artikel
 (2) Die nationale Gebühr nach dem Patentkostengesetz für die
 nachträgliche Schutzerstreckung ist innerhalb eines Monats nach
 Fälligkeit (§ 3 Abs. 1 des Patentkostengesetzes) zu zahlen.
-
 
 #### § 112 Wirkung der internationalen Registrierung
 
@@ -2998,7 +2811,6 @@ Patentamt geführte Register angemeldet und eingetragen worden wäre.
 wenn der international registrierten Marke nach den §§ 113 bis 115 der
 Schutz verweigert wird.
 
-
 #### § 113 Prüfung auf absolute Schutzhindernisse
 
 (1) International registrierte Marken werden in gleicher Weise wie zur
@@ -3007,7 +2819,6 @@ Schutzhindernisse geprüft. § 37 Abs. 2 ist nicht anzuwenden.
 
 (2) An die Stelle der Zurückweisung der Anmeldung (§ 37 Abs. 1) tritt
 die Verweigerung des Schutzes.
-
 
 #### § 114 Widerspruch
 
@@ -3024,7 +2835,6 @@ Veröffentlichung der international registrierten Marke enthalten ist.
 
 (3) An die Stelle der Löschung der Eintragung (§ 43 Abs. 2) tritt die
 Verweigerung des Schutzes.
-
 
 #### § 115 Nachträgliche Schutzentziehung
 
@@ -3047,10 +2857,6 @@ Eintragung in das Register der Tag,
     Nummer 1 noch eine Mitteilung über die vorläufige Schutzverweigerung
     zugegangen ist.
 
-
-
-
-
 #### § 116 Widerspruch und Antrag auf Löschung aufgrund einer international registrierten Marke
 
 (1) Wird aufgrund einer international registrierten Marke Widerspruch
@@ -3063,14 +2869,12 @@ auf Löschung einer eingetragenen Marke nach § 51 erhoben, so ist § 55
 Abs. 3 mit der Maßgabe anzuwenden, daß an die Stelle des Tages der
 Eintragung der in § 115 Abs. 2 bezeichnete Tag tritt.
 
-
 #### § 117 Ausschluß von Ansprüchen wegen mangelnder Benutzung
 
 Werden Ansprüche im Sinne der §§ 14 und 18 bis 19c wegen der
 Verletzung einer international registrierten Marke geltend gemacht, so
 ist § 25 mit der Maßgabe anzuwenden, daß an die Stelle des Tages der
 Eintragung der Marke der in § 115 Abs. 2 bezeichnete Tag tritt.
-
 
 #### § 118 Zustimmung bei Übertragungen international registrierter Marken
 
@@ -3082,10 +2886,7 @@ Rücksicht darauf, ob die Marke für den neuen Inhaber der international
 registrierten Marke in das vom Patentamt geführte Register eingetragen
 ist.
 
-
 ### Abschnitt 2 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen
-
-
 
 #### § 119 Anwendung der Vorschriften dieses Gesetzes; Sprachen
 
@@ -3102,7 +2903,6 @@ Markenabkommen nichts anderes bestimmt ist.
 internationalen Registrierung und das Verzeichnis der Waren und
 Dienstleistungen sind nach Wahl des Antragstellers in französischer
 oder in englischer Sprache einzureichen.
-
 
 #### § 120 Antrag auf internationale Registrierung
 
@@ -3124,7 +2924,6 @@ zugegangen.
 nach Klassen geordnet in der Reihenfolge der internationalen
 Klassifikation von Waren und Dienstleistungen, einzureichen.
 
-
 #### § 121 Gebühren
 
 (1) Soll die internationale Registrierung nach dem Madrider
@@ -3140,7 +2939,6 @@ internationale Registrierung ist innerhalb eines Monats nach
 Fälligkeit, die sich nach § 3 Abs. 1 des Patentkostengesetzes oder
 nach Absatz 1 richtet, zu zahlen.
 
-
 #### § 122 Vermerk in den Akten, Eintragung im Register
 
 (1) Ist die internationale Registrierung auf der Grundlage einer zur
@@ -3154,7 +2952,6 @@ ist, ist in das Register einzutragen. Satz 1 ist auch anzuwenden, wenn
 die internationale Registrierung auf der Grundlage einer zur
 Eintragung in das Register angemeldeten Marke vorgenommen worden ist
 und die Anmeldung zur Eintragung geführt hat.
-
 
 #### § 123 Nachträgliche Schutzerstreckung
 
@@ -3175,7 +2972,6 @@ vorgenommen werden.
 nachträgliche Schutzerstreckung ist innerhalb eines Monats nach
 Fälligkeit (§ 3 Abs. 1 des Patentkostengesetzes) zu zahlen.
 
-
 #### § 124 Entsprechende Anwendung der Vorschriften über die Wirkung der nach dem Madrider Markenabkommen international registrierten Marken
 
 Die §§ 112 bis 117 sind auf international registrierte Marken, deren
@@ -3186,7 +2982,6 @@ anzuwenden mit der Maßgabe, daß an die Stelle der in den §§ 112 bis
 117 aufgeführten Vorschriften des Madrider Markenabkommens die
 entsprechenden Vorschriften des Protokolls zum Madrider Markenabkommen
 treten.
-
 
 #### § 125 Umwandlung einer internationalen Registrierung
 
@@ -3226,10 +3021,7 @@ so wird die Marke ohne vorherige Prüfung unmittelbar nach § 41 in das
 Register eingetragen. Gegen die Eintragung einer Marke nach Satz 2
 kann Widerspruch nicht erhoben werden.
 
-
 ### Abschnitt 3 - Gemeinschaftsmarken
-
-
 
 #### § 125a Anmeldung von Gemeinschaftsmarken beim Patentamt
 
@@ -3240,7 +3032,6 @@ Werden beim Patentamt Anmeldungen von Gemeinschaftsmarken nach Artikel
 auf der Anmeldung den Tag des Eingangs und leitet die Anmeldung ohne
 Prüfung unverzüglich an das Harmonisierungsamt für den Binnenmarkt
 (Marken, Muster und Modelle) weiter.
-
 
 #### § 125b Anwendung der Vorschriften dieses Gesetzes
 
@@ -3302,10 +3093,6 @@ worden sind, in folgenden Fällen anzuwenden:
     werden wie von Inhabern nach diesem Gesetz eingetragener Marken. Die
     §§ 146 bis 149 sind entsprechend anzuwenden.
 
-
-
-
-
 #### § 125c Nachträgliche Feststellung der Ungültigkeit einer Marke
 
 (1) Ist für eine angemeldete oder eingetragene Gemeinschaftsmarke der
@@ -3330,7 +3117,6 @@ den Vorschriften, die für das Verfahren zur Löschung einer
 eingetragenen Marke gelten, mit der Maßgabe, daß an die Stelle der
 Löschung der Eintragung der Marke die Feststellung ihrer Ungültigkeit
 tritt.
-
 
 #### § 125d Umwandlung von Gemeinschaftsmarken
 
@@ -3363,7 +3149,6 @@ kann Widerspruch nicht erhoben werden.
 (4) Im übrigen sind auf Umwandlungsanträge die Vorschriften dieses
 Gesetzes für die Anmeldung von Marken anzuwenden.
 
-
 #### § 125e Gemeinschaftsmarkengerichte, Gemeinschaftsmarkenstreitsachen
 
 (1) Für alle Klagen, für die nach der Verordnung über die
@@ -3391,7 +3176,6 @@ anderen Landes übertragen.
 (5) Auf Verfahren vor den Gemeinschaftsmarkengerichten ist § 140 Abs.
 3 bis 5 entsprechend anzuwenden.
 
-
 #### § 125f Unterrichtung der Kommission
 
 Das Bundesministerium der Justiz teilt der Kommission der Europäischen
@@ -3399,7 +3183,6 @@ Gemeinschaften die Gemeinschaftsmarkengerichte erster und zweiter
 Instanz sowie jede Änderung der Anzahl, der Bezeichnung oder der
 örtlichen Zuständigkeit der Gemeinschaftsmarkengerichte erster und
 zweiter Instanz mit.
-
 
 #### § 125g Örtliche Zuständigkeit der Gemeinschaftsmarkengerichte
 
@@ -3411,7 +3194,6 @@ Patentamt eingereichte Anmeldung einer Marke oder um eine im Register
 des Patentamts eingetragene Marke handelte. Ist eine Zuständigkeit
 danach nicht begründet, so ist das Gericht örtlich zuständig, bei dem
 der Kläger seinen allgemeinen Gerichtsstand hat.
-
 
 #### § 125h Insolvenzverfahren
 
@@ -3445,7 +3227,6 @@ Akten der Anmeldung kann auch vom Insolvenzverwalter beantragt werden.
 Im Falle der Eigenverwaltung (§ 270 der Insolvenzordnung) tritt der
 Sachwalter an die Stelle des Insolvenzverwalters.
 
-
 #### § 125i Erteilung der Vollstreckungsklausel
 
 Für die Erteilung der Vollstreckungsklausel nach Artikel 82 Abs. 2
@@ -3453,14 +3234,9 @@ Satz 2 der Verordnung über die Gemeinschaftsmarke ist das
 Patentgericht zuständig. Die vollstreckbare Ausfertigung wird vom
 Urkundsbeamten der Geschäftsstelle des Patentgerichts erteilt.
 
-
 ## Teil 6 - Geographische Herkunftsangaben
 
-
-
 ### Abschnitt 1 - Schutz geographischer Herkunftsangaben
-
-
 
 #### § 126 Als geographische Herkunftsangaben geschützte Namen, Angaben oder Zeichen
 
@@ -3480,7 +3256,6 @@ ihre ursprüngliche Bedeutung verloren haben und als Namen von Waren
 oder Dienstleistungen oder als Bezeichnungen oder Angaben der Art, der
 Beschaffenheit, der Sorte oder sonstiger Eigenschaften oder Merkmale
 von Waren oder Dienstleistungen dienen.
-
 
 #### § 127 Schutzinhalt
 
@@ -3523,10 +3298,6 @@ geographische Herkunftsangabe mit Zusätzen benutzt wird, sofern
     Eignung zur unlauteren Ausnutzung oder Beeinträchtigung des Rufs oder
     der Unterscheidungskraft der geographischen Herkunftsangabe besteht.
 
-
-
-
-
 #### § 128 Ansprüche wegen Verletzung
 
 (1) Wer im geschäftlichen Verkehr Namen, Angaben oder Zeichen entgegen
@@ -3545,15 +3316,11 @@ durch die Verletzung des Rechts erzielt hat, berücksichtigt werden. §
 
 (3) § 14 Abs. 7 und § 19d gelten entsprechend.
 
-
 #### § 129 Verjährung
 
 Ansprüche nach § 128 verjähren gemäß § 20.
 
-
 ### Abschnitt 2 - Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EG) Nr. 510/2006
-
-
 
 #### § 130 Verfahren vor dem Patentamt; Einspruch gegen den Antrag
 
@@ -3604,7 +3371,6 @@ Bundesministerium der Justiz übermittelt den Antrag mit den
 erforderlichen Unterlagen an die Kommission der Europäischen
 Gemeinschaften.
 
-
 #### § 131 Einspruch gegen die beabsichtigte Eintragung
 
 (1) Einsprüche nach Artikel 7 Abs. 2 der Verordnung (EG) Nr. 510/2006
@@ -3621,7 +3387,6 @@ Abs. 1 Satz 1 des Patentkostengesetzes. Eine Wiedereinsetzung in die
 Einspruchsfrist und in die Frist zur Zahlung der Einspruchsgebühr ist
 nicht gegeben.
 
-
 #### § 132 Antrag auf Änderung der Spezifikation, Löschungsverfahren
 
 (1) Für Anträge auf Änderung der Spezifikation einer geschützten
@@ -3632,7 +3397,6 @@ Artikel 9 Abs. 2 Satz 1 der Verordnung (EG) Nr. 510/2006 gelten die §§
 (2) Für Anträge auf Löschung einer geschützten geographischen Angabe
 oder einer geschützten Ursprungsbezeichnung nach Artikel 12 Abs. 2 der
 Verordnung (EG) Nr. 510/2006 gelten die §§ 130 und 131 entsprechend.
-
 
 #### § 133 Rechtsmittel
 
@@ -3648,7 +3412,6 @@ Vorschriften dieses Gesetzes über das Beschwerdeverfahren vor dem
 Bundespatentgericht (§§ 66 bis 82) und über das
 Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof (§§ 83 bis 90)
 entsprechend anzuwenden.
-
 
 #### § 134 Überwachung
 
@@ -3709,7 +3472,6 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 Gebühren und Auslagen erhoben. Die kostenpflichtigen Tatbestände
 werden durch das Landesrecht bestimmt.
 
-
 #### § 135 Ansprüche wegen Verletzung
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
@@ -3722,15 +3484,11 @@ Die §§ 18, 19, 19a und 19c gelten entsprechend.
 
 (2) § 128 Abs. 2 und 3 gilt entsprechend.
 
-
 #### § 136 Verjährung
 
 Die Ansprüche nach § 135 verjähren nach § 20.
 
-
 ### Abschnitt 3 - Ermächtigungen zum Erlaß von Rechtsverordnungen
-
-
 
 #### § 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
 
@@ -3762,7 +3520,6 @@ geregelt werden. Bei der Regelung sind die bisherigen lauteren
 Praktiken, Gewohnheiten und Gebräuche bei der Verwendung der
 geographischen Herkunftsangabe zu berücksichtigen.
 
-
 #### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EG) Nr. 510/2006
 
 (1) Das Bundesministerium der Justiz wird ermächtigt, durch
@@ -3774,7 +3531,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen
 von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne
 Zustimmung des Bundesrates ganz oder teilweise auf das Deutsche
 Patent- und Markenamt übertragen.
-
 
 #### § 139 Durchführungsbestimmungen zur Verordnung (EG) Nr. 510/2006
 
@@ -3817,10 +3573,7 @@ Rechtsverordnung regeln. Sie sind befugt, die Ermächtigung nach den
 Sätzen 1 und 2 durch Rechtsverordnung ganz oder teilweise auf andere
 Behörden zu übertragen.
 
-
 ## Teil 7 - Verfahren in Kennzeichenstreitsachen
-
-
 
 ### § 140 Kennzeichenstreitsachen
 
@@ -3844,7 +3597,6 @@ einer Kennzeichenstreitsache entstehen, sind die Gebühren nach § 13
 des Rechtsanwaltsvergütungsgesetzes und außerdem die notwendigen
 Auslagen des Patentanwalts zu erstatten.
 
-
 ### § 141 Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb
 
 Ansprüche, welche die in diesem Gesetz geregelten Rechtsverhältnisse
@@ -3852,7 +3604,6 @@ betreffen und auf Vorschriften des Gesetzes gegen den unlauteren
 Wettbewerb gegründet werden, brauchen nicht im Gerichtsstand des § 14
 des Gesetzes gegen den unlauteren Wettbewerb geltend gemacht zu
 werden.
-
 
 ### § 142 Streitwertbegünstigung
 
@@ -3883,14 +3634,9 @@ angenommene oder festgesetzte Streitwert später durch das Gericht
 heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der
 Gegner zu hören.
 
-
 ## Teil 8 - Straf- und Bußgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr
 
-
-
 ### Abschnitt 1 - Straf- und Bußgeldvorschriften
-
-
 
 #### § 143 Strafbare Kennzeichenverletzung
 
@@ -3960,7 +3706,6 @@ Bekanntmachung ist im Urteil zu bestimmen.
 
 (7) (weggefallen)
 
-
 #### § 143a Strafbare Verletzung der Gemeinschaftsmarke
 
 (1) Wer die Rechte des Inhabers einer Gemeinschaftsmarke nach Artikel
@@ -3996,7 +3741,6 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
 
 (2) § 143 Abs. 2 bis 6 gilt entsprechend.
-
 
 #### § 144 Strafbare Benutzung geographischer Herkunftsangaben
 
@@ -4045,7 +3789,6 @@ bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu
 bestimmen.
 
 (6) (weggefallen)
-
 
 #### § 145 Bußgeldvorschriften
 
@@ -4115,10 +3858,7 @@ anzuwenden.
 Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 das Bundesamt
 für Justiz.
 
-
 ### Abschnitt 2 - Beschlagnahme von Waren bei der Einfuhr und Ausfuhr
-
-
 
 #### § 146 Beschlagnahme bei der Verletzung von Kennzeichenrechten
 
@@ -4145,7 +3885,6 @@ Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit
 eingeschränkt. Dem Antragsteller wird Gelegenheit gegeben, die Waren
 zu besichtigen, soweit hierdurch nicht in Geschäfts- oder
 Betriebsgeheimnisse eingegriffen wird.
-
 
 #### § 147 Einziehung, Widerspruch, Aufhebung der Beschlagnahme
 
@@ -4174,7 +3913,6 @@ Antragsteller nach, daß die gerichtliche Entscheidung nach Absatz 3
 Satz 2 beantragt, ihm aber noch nicht zugegangen ist, wird die
 Beschlagnahme für längstens zwei weitere Wochen aufrechterhalten.
 
-
 #### § 148 Zuständigkeiten, Rechtsmittel
 
 (1) Der Antrag nach § 146 Abs. 1 ist bei der Bundesfinanzdirektion zu
@@ -4193,7 +3931,6 @@ die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
 zulässig. Über die sofortige Beschwerde entscheidet das
 Oberlandesgericht.
 
-
 #### § 149 Schadensersatz bei ungerechtfertigter Beschlagnahme
 
 Erweist sich die Beschlagnahme als von Anfang an ungerechtfertigt und
@@ -4202,7 +3939,6 @@ beschlagnahmten Waren aufrechterhalten oder sich nicht unverzüglich
 erklärt (§ 147 Abs. 2 Satz 2), so ist er verpflichtet, den dem
 Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden zu
 ersetzen.
-
 
 #### § 150 Verfahren nach der Verordnung (EG) Nr. 1383/2003
 
@@ -4249,7 +3985,6 @@ Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
 die Verordnung (EG) Nr. 1383/2003 Bestimmungen enthält, die dem
 entgegenstehen.
 
-
 #### § 151 Verfahren nach deutschem Recht bei geographischen Herkunftsangaben
 
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz oder nach
@@ -4278,10 +4013,7 @@ sind. Gegen die Entscheidung des Amtsgerichts ist die sofortige
 Beschwerde zulässig. Über die sofortige Beschwerde entscheidet das
 Oberlandesgericht.
 
-
 ## Teil 9 - Übergangsvorschriften
-
-
 
 ### § 152 Anwendung dieses Gesetzes
 
@@ -4291,7 +4023,6 @@ angemeldet oder eingetragen oder durch Benutzung im geschäftlichen
 Verkehr oder durch notorische Bekanntheit erworben worden sind, und
 auf geschäftliche Bezeichnungen Anwendung, die vor dem 1. Januar 1995
 nach den bis dahin geltenden Vorschriften geschützt waren.
-
 
 ### § 153 Schranken für die Geltendmachung von Verletzungsansprüchen
 
@@ -4311,7 +4042,6 @@ erworbenen Marke oder einer geschäftlichen Bezeichnung ist § 21 mit
 der Maßgabe anzuwenden, daß die in § 21 Abs. 1 und 2 vorgesehene Frist
 von fünf Jahren mit dem 1. Januar 1995 zu laufen beginnt.
 
-
 ### § 154 Dingliche Rechte, Zwangsvollstreckung, Konkursverfahren
 
 (1) Ist vor dem 1. Januar 1995 an dem durch die Anmeldung oder
@@ -4325,7 +4055,6 @@ eingetragen werden.
 oder Eintragung einer Marke begründete Recht durch ein
 Konkursverfahren erfaßt worden ist.
 
-
 ### § 155 Lizenzen
 
 Auf vor dem 1. Januar 1995 an dem durch die Anmeldung oder Eintragung,
@@ -4334,7 +4063,6 @@ begründeten Recht erteilte Lizenzen ist § 30 mit der Maßgabe
 anzuwenden, daß diesen Lizenzen die Wirkung des § 30 Abs. 5 nur
 insoweit zugute kommt, als es sich um nach dem 1. Januar 1995
 eingetretene Rechtsübergänge oder an Dritte erteilte Lizenzen handelt.
-
 
 ### § 156 Prüfung angemeldeter Marken auf absolute Schutzhindernisse
 
@@ -4370,7 +4098,6 @@ Rechtsbeschwerdeverfahren über die Zurückweisung der Anmeldung
 abgeben, das am 1. Januar 1995 anhängig ist. Die Absätze 2 bis 4 sind
 entsprechend anzuwenden.
 
-
 ### § 157 Bekanntmachung und Eintragung
 
 Ist vor dem 1. Januar 1995 die Bekanntmachung einer Anmeldung nach § 5
@@ -4381,7 +4108,6 @@ nach § 41 in das Register eingetragen. Ist für einen nach dem Beschluß
 der Bekanntmachung gestellten Antrag auf beschleunigte Eintragung die
 in § 6a Abs. 2 des Warenzeichengesetzes vorgesehene Gebühr bereits
 gezahlt worden, wird sie von Amts wegen erstattet.
-
 
 ### § 158 Widerspruchsverfahren
 
@@ -4434,7 +4160,6 @@ die Eintragung nach § 43 Abs. 2 Satz 1 gelöscht.
 findet eine Zurückweisung der Anmeldung aus von Amts wegen zu
 berücksichtigenden Eintragungshindernissen nicht statt.
 
-
 ### § 159 Teilung einer Anmeldung
 
 Auf die Teilung einer vor dem 1. Januar 1995 nach § 5 Abs. 2 des
@@ -4448,7 +4173,6 @@ Anmeldung, gegen den sich kein Widerspruch richtet, wird nach § 41 in
 das Register eingetragen. Ein Widerspruch nach § 42 findet gegen eine
 solche Eintragung nicht statt.
 
-
 ### § 160 Schutzdauer und Verlängerung
 
 Die Vorschriften dieses Gesetzes über die Schutzdauer und die
@@ -4460,7 +4184,6 @@ Fälligkeit gezahlt werden können, die Vorschriften des § 9 Abs. 2 des
 Warenzeichengesetzes weiterhin anzuwenden sind, wenn die Schutzdauer
 nach § 9 Abs. 2 des Warenzeichengesetzes vor dem 1. Januar 1995
 abläuft.
-
 
 ### § 161 Löschung einer eingetragenen Marke wegen Verfalls
 
@@ -4475,7 +4198,6 @@ einer Marke nach § 11 Abs. 1 Nr. 3 oder 4 des Warenzeichengesetzes
 erhoben worden, so wird die Eintragung nur gelöscht, wenn der Klage
 sowohl nach den bis dahin geltenden Vorschriften als auch nach den
 Vorschriften dieses Gesetzes stattzugeben ist.
-
 
 ### § 162 Löschung einer eingetragenen Marke wegen absoluter Schutzhindernisse
 
@@ -4497,7 +4219,6 @@ nicht schutzfähig ist. Dies gilt auch dann, wenn nach dem 1. Januar
 1995 ein Verfahren nach § 54 zur Löschung der Eintragung einer Marke
 eingeleitet wird, die vor dem 1. Januar 1995 eingetragen worden ist.
 
-
 ### § 163 Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte
 
 (1) Ist vor dem 1. Januar 1995 eine Klage auf Löschung der Eintragung
@@ -4515,11 +4236,9 @@ nicht anzuwenden. In den Fällen des Absatzes 1 Satz 2 ist § 51 Abs. 2
 Satz 1 und 2 mit der Maßgabe anzuwenden, daß die Frist von fünf Jahren
 mit dem 1. Januar 1995 zu laufen beginnt.
 
-
 ### § 164 (weggefallen)
 
 -
-
 
 ### § 165 Übergangsvorschriften
 

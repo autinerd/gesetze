@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 27.12.2003 I 3022
 
-
 ## Abschnitt I - Personenkreis
-
-
 
 ### § 1 Körperlich wesentlich behinderte Menschen
 
@@ -70,10 +67,6 @@ Sozialgesetzbuch sind
     Personen mit erheblichen Stimmstörungen sowie Personen, die stark
     stammeln, stark stottern oder deren Sprache stark unartikuliert ist.
 
-
-
-
-
 ### § 2 Geistig wesentlich behinderte Menschen
 
 Geistig wesentlich behindert im Sinne des § 53 Abs. 1 Satz 1 des
@@ -81,7 +74,6 @@ Zwölften Buches Sozialgesetzbuch sind Personen, die infolge einer
 Schwäche ihrer geistigen Kräfte in erheblichem Umfange in ihrer
 Fähigkeit zur Teilhabe am Leben in der Gesellschaft eingeschränkt
 sind.
-
 
 ### § 3 Seelisch wesentlich behinderte Menschen
 
@@ -102,18 +94,11 @@ Sozialgesetzbuch zur Folge haben können, sind
 
 4.  Neurosen und Persönlichkeitsstörungen.
 
-
-
-
-
 ### (XXXX) §§ 4 und 5 (weggefallen)
 
 -
 
-
 ## Abschnitt II - Leistungen der Eingliederungshilfe
-
-
 
 ### § 6 Rehabilitationssport
 
@@ -123,11 +108,9 @@ Abs. 1 Satz 1 des Zwölften Buches Sozialgesetzbuch in Verbindung mit §
 verordneter Rehabilitationssport in Gruppen unter ärztlicher Betreuung
 und Überwachung.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 8 Hilfe zur Beschaffung eines Kraftfahrzeuges
 
@@ -149,7 +132,6 @@ Behinderte das Kraftfahrzeug selbst bedienen kann.
 (4) Eine erneute Hilfe zur Beschaffung eines Kraftfahrzeuges soll in
 der Regel nicht vor Ablauf von 5 Jahren nach Gewährung der letzten
 Hilfe gewährt werden.
-
 
 ### § 9 Andere Hilfsmittel
 
@@ -213,7 +195,6 @@ gewährt, wenn das Hilfsmittel im Einzelfall erforderlich und geeignet
 ist, zu dem in Absatz 1 genannten Ausgleich beizutragen, und wenn der
 behinderte Mensch das Hilfsmittel bedienen kann.
 
-
 ### § 10 Umfang der Versorgung mit Körperersatzstücken, orthopädischen oder anderen Hilfsmitteln
 
 (1) Zu der Versorgung mit Körperersatzstücken sowie mit orthopädischen
@@ -250,11 +231,9 @@ behinderte Mensch wegen seiner Behinderung auf die regelmäßige
 Benutzung eines Kraftfahrzeuges angewiesen ist oder angewiesen sein
 wird.
 
-
 ### § 11
 
 (weggefallen)
-
 
 ### § 12 Schulbildung
 
@@ -283,10 +262,6 @@ Satz 1 Nr. 1 des Zwölften Buches Sozialgesetzbuch umfaßt auch
     entsprechenden Schulbildung; die Hilfe wird nur gewährt, wenn nach den
     Fähigkeiten und den Leistungen des behinderten Menschen zu erwarten
     ist, daß er das Bildungsziel erreichen wird.
-
-
-
-
 
 ### § 13 Schulische Ausbildung für einen Beruf
 
@@ -347,7 +322,6 @@ Sozialgesetzbuch umfaßt vor allem Hilfe
 
 (3) (weggefallen)
 
-
 ### § 13a Ausbildung für eine sonstige angemessene Tätigkeit
 
 Hilfe zur Ausbildung für eine sonstige angemessene Tätigkeit im Sinne
@@ -358,11 +332,9 @@ Buches Sozialgesetzbuch wird insbesondere gewährt, wenn die Ausbildung
 für einen Beruf aus besonderen Gründen, vor allem wegen Art und
 Schwere der Behinderung, unterbleibt. § 13 Abs. 2 gilt entsprechend.
 
-
 ### (XXXX) §§ 14 und 15 (weggefallen)
 
 -
-
 
 ### § 16 Allgemeine Ausbildung
 
@@ -387,10 +359,6 @@ gehören auch
     den behinderten Menschen zu befähigen, sich ohne fremde Hilfe sicher
     im Verkehr zu bewegen.
 
-
-
-
-
 ### § 17 Eingliederung in das Arbeitsleben
 
 (1) Zu der Hilfe im Sinne des § 54 Abs. 1 Satz 1 des Zwölften Buches
@@ -411,11 +379,9 @@ die mindestens die Voraussetzungen zur Aufnahme in einer Werkstatt für
 behinderte Menschen (§ 137 des Neunten Buches Sozialgesetzbuch)
 erfüllen.
 
-
 ### (XXXX) §§ 18 und 19 (weggefallen)
 
 -
-
 
 ### § 20 Anleitung von Betreuungspersonen
 
@@ -425,11 +391,9 @@ Eingliederungshilfe auch, Personen, denen die Betreuung obliegt, mit
 den durch Art und Schwere der Behinderung bedingten Besonderheiten der
 Betreuung vertraut zu machen.
 
-
 ### § 21
 
 (weggefallen)
-
 
 ### § 22 Kosten der Begleitpersonen
 
@@ -443,10 +407,6 @@ behinderten Menschen, so gehören zu seinem Bedarf auch
 2.  weitere Kosten der Begleitperson, soweit sie nach den Besonderheiten
     des Einzelfalles notwendig sind.
 
-
-
-
-
 ### § 23 Eingliederungsmaßnahmen im Ausland
 
 Maßnahmen der Eingliederungshilfe für behinderte Menschen können auch
@@ -454,7 +414,6 @@ im Ausland durchgeführt werden, wenn dies im Interesse der
 Eingliederung des behinderten Menschen geboten ist, die Dauer der
 Eingliederungsmaßnahmen durch den Auslandsaufenthalt nicht wesentlich
 verlängert wird und keine unvertretbaren Mehrkosten entstehen.
-
 
 ### § 24 Anhörung von Sachverständigen
 
@@ -464,11 +423,9 @@ Einzelfalles geboten, ein Arzt, ein Pädagoge, jeweils der
 entsprechenden Fachrichtung, ein Psychologe oder sonstige
 sachverständige Personen gehört werden.
 
-
 ## Abschnitt III -
 
 (weggefallen)
-
 
 ### § 25
 

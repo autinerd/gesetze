@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1963, 1008
 
-
-
 ## Art I - Anpassung der Renten aus den gesetzlichen Rentenversicherungen
-
-
 
 ## § 1
 
@@ -39,7 +35,6 @@ die Leistung nach § 27 des Sozialversicherungs-Angleichungsgesetzes
 Saar vom 15. Juni 1963 (Bundesgesetzbl. I S. 402).
 
 (3) Absatz 1 findet auf den Knappschaftssold keine Anwendung.
-
 
 ## § 2
 
@@ -69,7 +64,6 @@ worden ist, findet Satz 1 keine Anwendung.
 knappschaftlichen Rentenversicherung, die nach
 Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
 Neuregelungsgesetzes              gezahlt werden.
-
 
 ## § 3
 
@@ -199,7 +193,6 @@ von 676,90 Deutsche Mark und in § 3 Abs. 2 der Verordnung an die
 Stelle des Betrags von 5.678,00 Deutsche Mark der Betrag von 6.142,00
 Deutsche Mark tritt.
 
-
 ## § 4
 
 (1) Die übrigen Renten werden in der Weise angepaßt, daß der nach § 5
@@ -231,7 +224,6 @@ b)  bei den übrigen Renten aus Versicherungsfällen vor dem 1. Januar 1957,
 
 angepaßt werden würden.
 
-
 ## § 5
 
 (1) Anpassungsbetrag ist in den Fällen des § 4 der Rentenzahlbetrag
@@ -259,7 +251,6 @@ in den Fällen des Satzes 1 bei der Berechnung einer Versicherten- und
 einer Hinterbliebenenrente desselben Berechtigten ein Sonderzuschuß zu
 berücksichtigen gewesen, so gilt als Sonderzuschuß der Betrag von 21
 Deutsche Mark.
-
 
 ## § 6
 
@@ -300,7 +291,6 @@ Angestelltenversicherungsgesetzes genannten Grenzbeträge, die bei der
 Berechnung der Rente nach § 3 zu berücksichtigen sind, nicht
 überschreiten.
 
-
 ## § 7
 
 Leistungen nach § 27 des Sozialversicherungs-Angleichungsgesetzes Saar
@@ -310,7 +300,6 @@ saarländischen Gesetzes Nr. 345 in der Fassung der Bekanntmachung vom
 29\. Juli 1953 (Amtsblatt des Saarlandes S. 520) und der Vorschriften
 dieses Gesetzes unter Zugrundelegung der bisherigen
 Versicherungszeiten ergeben hätte.
-
 
 ## § 8
 
@@ -327,10 +316,7 @@ Gesetzes Nr. 635 zur Einführung des Reichsknappschaftsgesetzes und des
 Knappschaftsrentenversicherungs-Neuregelungsgesetzes im Saarland vom
 18\. Juni 1958 (Amtsblatt des Saarlands S. 1099) gewährt werden.
 
-
 ## Art II - Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung
-
-
 
 ## § 1
 
@@ -370,7 +356,6 @@ Unfallversicherung vom 9. März 1942 (Reichsgesetzbl. I S. 107) gilt
 als Unfalljahr das Jahr, für das der Jahresarbeitsverdienst zuletzt
 festgesetzt worden ist.
 
-
 ## § 2
 
 (1) Die Geldleistungen werden in der Weise angepaßt, daß sie nach
@@ -385,7 +370,6 @@ Versicherungsträgers zahlenmäßig festgesetzt ist, werden sie in der
 Weise angepaßt, daß sie auf Grund des am 1. Januar 1962 maßgeblichen
 Betrags berechnet werden.
 
-
 ## § 3
 
 Der vervielfältigte Jahresarbeitsverdienst darf den Betrag von 36.000
@@ -393,7 +377,6 @@ Deutsche Mark nicht übersteigen, es sei denn, daß gemäß § 575 Abs. 2
 Satz 2 und 3 der Reichsversicherungsordnung ein höherer Betrag
 bestimmt worden ist. In diesem Fall tritt an die Stelle des Betrags
 von 36.000 Deutsche Mark der höhere Betrag.
-
 
 ## § 4
 
@@ -408,10 +391,7 @@ für Bezugszeiten vom 1. Januar 1964 an umzustellen. Dabei ist der
 Tarif- oder sonst ortsübliche Lohn eines gleichartigen Arbeitnehmers
 am 1. Januar 1962 zugrunde zu legen.
 
-
 ## Art III - Gemeinsame Vorschriften
-
-
 
 ## § 1
 
@@ -424,7 +404,6 @@ Grund der bisherigen gesetzlichen Vorschriften festgestellt worden ist
 oder hätte festgestellt werden müssen, höher, als sie bei einer
 Anpassung nach Artikel II sein würde, so ist dem Berechtigten die
 höhere Leistung zu gewähren.
-
 
 ## § 2
 
@@ -457,7 +436,6 @@ Wohnungsbaugesetzes das entsprechende saarländische Gesetz tritt und
 das Bundesentschädigungsgesetz und das Lastenausgleichsgesetz unter
 Berücksichtigung ihrer im Saarland geltenden Fassung anzuwenden sind.
 
-
 ## § 3
 
 (1) Jedem Rentenempfänger ist eine schriftliche Mitteilung über die
@@ -474,22 +452,17 @@ statt. Die Berichtigung ist nur bis zum 31. Dezember 1964 zulässig.
 Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
 
-
 ## Art IV - Neufestsetzung der Ortslöhne und Schlußvorschriften
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 3
 

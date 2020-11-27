@@ -23,7 +23,6 @@ des Rates vom 20. Dezember 2001 über bestimmte Zuckerarten für die
 menschliche Ernährung (ABl. EG 2002 Nr. L 10 S. 53) in deutsches Recht
 umgesetzt.
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -43,10 +42,6 @@ Landwirtschaft verordnet auf Grund
 
 -   des § 44 Abs.1 Nr. 2 des Lebensmittel- und Bedarfsgegenständegesetzes:
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 (1) Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser
@@ -55,7 +50,6 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 
 (2) Diese Verordnung gilt nicht für die in Anlage 1 genannten
 Erzeugnisse in Form von Staubzucker, Kandiszucker und Zuckerhüten.
-
 
 ## § 2 Kennzeichnung
 
@@ -127,7 +121,6 @@ Absatzes 8 angegeben sind:
 
 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
-
 ## § 3 Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
@@ -145,12 +138,10 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 Im Falle des Satzes 1 Nr. 1 bleibt § 2 Abs. 6 unberührt.
 
-
 ## § 4 Analysemethoden
 
 Die Merkmale der in Anlage 1 aufgeführten Erzeugnisse sind nach den in
 Anlage 2 vorgesehenen Analysemethoden zu bestimmen.
-
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
@@ -167,7 +158,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 2 Abs. 7 ein Erzeugnis in den Verkehr
 bringt.
 
-
 ## § 6 Übergangsregelung
 
 Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 31. Oktober
@@ -175,11 +165,9 @@ Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 31. Oktober
 Nach Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis
 zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
 ## § 7
 
 -
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
@@ -187,11 +175,9 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 (2)
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu den §§ 1 bis 4) Bezeichnungen und Begriffsbestimmungen
 
@@ -477,10 +463,6 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 *    *   Leitfähigkeitsasche
 
     *   höchstens 0,1% in Gewicht in der Trockenmasse.
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 3 und § 4) Analysemethoden
 

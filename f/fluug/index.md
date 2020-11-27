@@ -28,10 +28,7 @@ Das G wurde als Artikel 1 G 96-1-39/1 v. 26.8.1998 I 2470
 Bundestag beschlossen und ist gem. Art. 6 dieses G mWv 1.9.1998
 in Kraft getreten.
 
-
 ## Erster Abschnitt - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich des Gesetzes
 
@@ -55,7 +52,6 @@ Bundesstelle für Flugunfalluntersuchung untersucht (§ 4). Für Fälle,
 die überwiegend militärische Belange berühren, wird zwischen dem
 Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
 Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -198,7 +194,6 @@ Bundesstelle für Flugunfalluntersuchung auf der Grundlage von Fakten
 und Informationen unterbreitet, die sich während der Untersuchung
 ergeben hatten.
 
-
 ### § 3 Zweck und Gegenstand der Untersuchung
 
 (1) Unfälle und Störungen unterliegen einer Untersuchung mit dem
@@ -254,10 +249,7 @@ b)  anderen als den in Absatz 3 und unter Buchstabe a genannten
 (5) Auf Störungen beim Betrieb von Luftfahrzeugen ist Absatz 4
 Buchstabe b entsprechend anzuwenden.
 
-
 ## Zweiter Abschnitt - Organisation
-
-
 
 ### § 4 Bundesstelle für Flugunfalluntersuchung
 
@@ -317,7 +309,6 @@ fachlichen Fähigkeiten und Kenntnisse der Untersuchungsführer, der
 Untersuchungsfachkräfte und der weiteren Fachkräfte zu erhalten und
 der Entwicklung anzupassen.
 
-
 ### § 5 Zusammenarbeit mit anderen Staaten
 
 (1) Wird ein Unfall oder eine Störung eines von diesem Gesetz erfaßten
@@ -364,7 +355,6 @@ Staaten darum ersuchen, zur Verfügung zu stellen:
 gewähren. Sie wird auf der Grundlage der Gegenseitigkeit kostenlos
 gewährt. Die Regelung in Absatz 1 Satz 4 gilt entsprechend.
 
-
 ### § 6 Unterrichtung ausländischer Staaten und der Internationalen Zivilluftfahrt-Organisation
 
 (1) Ereignet sich im Geltungsbereich dieses Gesetzes ein Unfall oder
@@ -393,7 +383,6 @@ dem schnellstmöglichen Wege
 international üblichen Verfahren. Soweit die Unterrichtung sich auf
 personenbezogene Daten erstreckt, ist § 26 Abs. 4 anzuwenden.
 
-
 ### § 7 Unterrichtung anderer Behörden
 
 Begründen im Verlauf der Untersuchung ermittelte Tatsachen die
@@ -404,10 +393,7 @@ unterrichtet die Bundesstelle die für die Luftsicherheit zuständige
 Behörde und die zuständigen Strafverfolgungsbehörden. Sie kann zu
 diesem Zweck aus personenbezogene Daten übermitteln.
 
-
 ## Dritter Abschnitt - Untersuchung
-
-
 
 ### § 8 Untersuchungsstatus
 
@@ -420,7 +406,6 @@ Gerichte bleiben unberührt.
 (2) Überschneidungen mit anders gerichteten Interessen im Einzelfall
 sind durch zielgerichtete und zweckmäßige Zusammenarbeit der
 Bundesstelle mit anderen beteiligten Behörden zu ordnen.
-
 
 ### § 9 Untersuchungsverfahren
 
@@ -438,7 +423,6 @@ Verbesserung der Sicherheit gewinnen lassen. Sie ist dabei
 vorbehaltlich anderer Vorschriften dieses Gesetzes an keine Form
 gebunden. Das Verfahren ist einfach und zweckmäßig durchzuführen.
 
-
 ### § 10 Einleitung der Untersuchung
 
 (1) Im Einzelfall bestimmt die Bundesstelle einen Untersuchungsführer,
@@ -446,7 +430,6 @@ der die Untersuchung leitet.
 
 (2) Der Untersuchungsführer trifft unverzüglich die zur Erfüllung des
 Untersuchungszwecks notwendigen Maßnahmen.
-
 
 ### § 11 Untersuchungsbefugnisse
 
@@ -510,7 +493,6 @@ Nachweismittel, die für einen erfolgreichen Ausgang der Untersuchung
 sofort gesichert und ausgewertet werden müssen wie die Identifizierung
 und Untersuchung der Opfer und die Aufzeichnungsanlagen.
 
-
 ### § 12 Unfallstelle
 
 (1) Die Unfallstelle ist frühestmöglich wirksam gegen den Zutritt
@@ -540,14 +522,12 @@ c)  Bergung und Erste-Hilfe-Maßnahmen an Verletzten möglichst unter
 Unzweifelhaft Tote und ihre Überreste sind bis zur Freigabe durch den
 Untersuchungsführer unverändert liegen zu lassen.
 
-
 ### § 13 Freigabe der Unfallstelle und des Luftfahrzeugs
 
 Über die Freigabe der Unfallstelle, des Luftfahrzeugs, des Wracks oder
 seiner Teile, der Ladung und etwaiger Opfer entscheidet der
 Untersuchungsführer in enger Zusammenarbeit mit der zuständigen
 Strafverfolgungsbehörde.
-
 
 ### § 14 Teilnehmer am Untersuchungsverfahren
 
@@ -631,7 +611,6 @@ Gesetzes verstoßen.
 (9) Soweit die in den Absätzen 1 bis 8 genannten Personen Zugang zu
 personenbezogenen Daten erhalten, gilt § 26 Abs. 4 entsprechend.
 
-
 ### § 15 Besorgnis der Befangenheit
 
 Liegt ein Grund vor, der geeignet ist, Mißtrauen gegen die
@@ -645,7 +624,6 @@ Leiters der Bundesstelle zu befolgen. Bereits vorgenommene
 Untersuchungshandlungen bleiben wirksam. Betrifft die Besorgnis der
 Befangenheit den Leiter der Bundesstelle oder seinen Vertreter, so
 trifft die Aufsichtsbehörde die erforderlichen Anordnungen.
-
 
 ### § 16 Nachweismittel
 
@@ -686,10 +664,7 @@ Recht zur Verweigerung der Auskunft zu belehren.
 Gesetzes über die Entschädigung von Zeugen und Sachverständigen zu
 entschädigen.
 
-
 ## Vierter Abschnitt - Berichte und ihre Bekanntgabe
-
-
 
 ### § 17 Anhörung vor Abschluß eines Untersuchungsberichts
 
@@ -713,7 +688,6 @@ endgültige Untersuchungsbericht fertiggestellt.
 
 (3) Eine Anhörung unterbleibt, wenn die Untersuchung summarisch (§ 18
 Abs. 4 und 5) abgeschlossen wird.
-
 
 ### § 18 Untersuchungsbericht
 
@@ -761,7 +735,6 @@ summarischen Untersuchungsbericht abgeschlossen.
 die an dem Unfall oder der Störung beteiligten Luftfahrzeuge und den
 Unfallhergang.
 
-
 ### § 19 Sicherheitsempfehlungen
 
 (1) Sicherheitsempfehlungen werden vom Leiter der Bundesstelle
@@ -785,7 +758,6 @@ der Schuld oder Haftung für einen Unfall oder eine Störung führen.
 (5) Die Kommission der Europäischen Gemeinschaft erhält eine Abschrift
 der Sicherheitsempfehlung.
 
-
 ### § 20 Ausländische Untersuchungsberichte
 
 (1) In den Fällen des § 5 Abs. 1 dürfen Entwürfe ausländischer
@@ -799,7 +771,6 @@ veröffentlicht oder freigegeben.
 (2) Die Bundesstelle ist zur Veröffentlichung ausländischer
 Untersuchungsberichte nicht verpflichtet. Im Falle einer
 Veröffentlichung ist § 18 Abs. 2 Satz 1 entsprechend anzuwenden.
-
 
 ### § 21 Erteilung von Auskünften und Akteneinsicht
 
@@ -843,7 +814,6 @@ die Einsicht auch bei einer anderen Behörde oder bei einer
 diplomatischen oder berufskonsularischen Vertretung der Bundesrepublik
 Deutschland im Ausland erfolgen.
 
-
 ### § 22 Wiederaufnahme eines Untersuchungsverfahrens
 
 Werden innerhalb von zehn Jahren nach Fertigstellung des
@@ -856,10 +826,7 @@ eines Antrags auf Wiederaufnahme kann innerhalb von 30 Tagen
 Beschwerde an das für den Sitz der Bundesstelle zuständige
 Oberverwaltungsgericht erhoben werden; sein Spruch ist unanfechtbar.
 
-
 ## Fünfter Abschnitt - Untersuchungskammer
-
-
 
 ### § 23 Zuständigkeit
 
@@ -893,10 +860,7 @@ Untersuchungsbericht anzufügen.
 Verantwortung auf ihre Mitglieder. Sie tritt jedoch nach außen nur als
 die Untersuchungskammer auf.
 
-
 ## Sechster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 24 Kostentragung
 
@@ -922,7 +886,6 @@ der nach dem Verwaltungs-Vollstreckungsgesetz vom 27. April 1953
 14\. Dezember 1976 (BGBl. I S. 3341), in der jeweils geltenden Fassung
 vollzogen werden kann.
 
-
 ### § 25 Erhebung, Verarbeitung und Nutzung von Daten
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach § 11 und die
@@ -941,7 +904,6 @@ unbefugte Einsichtnahme besonders zu schützen.
 
 (3) Die nach Absatz 1 erhobenen Daten werden in einer Datei
 gespeichert oder in Akten festgehalten.
-
 
 ### § 26 Datenübermittlung an öffentliche Stellen
 
@@ -988,7 +950,6 @@ hinzuweisen, daß die übermittelten Daten nur zu dem Zweck verarbeitet
 und genutzt werden dürfen, zu dessen Erfüllung sie ihm übermittelt
 worden sind.
 
-
 ### § 27 Aufbewahrungs- und Löschungsfristen
 
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit
@@ -1001,7 +962,6 @@ von 20 Jahren gelöscht.
 (3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluß des
 Verfahrens. § 187 Abs. 1 des Bürgerlichen Gesetzbuchs und § 2 Abs. 1
 bis 6, 8 und 9 des Bundesarchivgesetzes finden Anwendung.
-
 
 ### § 28 Flugsicherheitsarbeit
 
@@ -1052,7 +1012,6 @@ Flugsicherungsveranstaltungen oder vergleichbaren Veranstaltungen der
 Polizei oder des Katastrophenschutzes entsenden, soweit dadurch die
 ordnungsgemäße Erfüllung der Aufgaben nicht beeinträchtigt wird.
 
-
 ### § 29 Beteiligung am Such- und Rettungsdienst
 
 Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie
@@ -1060,7 +1019,6 @@ notwendige Informationen beschafft, an diesen weitergibt und ihn
 berät. Vor der Einstellung der Suche nach einem vermißten Luftfahrzeug
 ist zwischen dem Such- und Rettungsdienst und der Bundesstelle
 Einvernehmen herzustellen.
-
 
 ### § 30 Bußgeldvorschriften
 
@@ -1088,7 +1046,6 @@ Einvernehmen herzustellen.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt.
-
 
 ### Anhang Beispiele für schwere Störungen
 

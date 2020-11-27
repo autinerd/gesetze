@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 79 Abs. 6 Nr. 1 G v. 20.12.1988 I 2477
 
-
 ## Art 1 u. 2
 
-
-
 ## Art 3 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -36,7 +31,6 @@ werden mit Inkrafttreten dieses Gesetzes Bundesverbände im Sinne des §
 414 Abs. 3 der Reichsversicherungsordnung.
 
 (2)
-
 
 ## § 2
 
@@ -64,11 +58,9 @@ auf die für die Sozialversicherung zuständige oberste Landesbehörde
 
 (4)
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -122,7 +114,6 @@ wirksam. Sind Grundstücke nach dem 8. Mai 1945 veräußert worden, so
 steht der Kaufpreis demjenigen zu, auf den nach den Absätzen 1 und 2
 das Eigentum an den Grundstücken übergehen würde.
 
-
 ## § 5
 
 Sonstige Vermögensrechte des Reichsverbands der Ortskrankenkassen,
@@ -131,7 +122,6 @@ Ortskrankenkassen über. Forderungen des Reichsverbands der
 Ortskrankenkassen, Körperschaft des öffentlichen Rechts, gegen die
 Mitglieder erlöschen.
 
-
 ## § 6
 
 Der Reichsverband der Ortskrankenkassen, Körperschaft des öffentlichen
@@ -139,7 +129,6 @@ Rechts, wird mit Inkrafttreten dieses Gesetzes aufgelöst. Mit dem
 gleichen Zeitpunkt erlischt die Treuhandschaft über diejenigen
 Vermögensrechte, die nach §§ 4 und 5 auf die Landesverbände und den
 Bundesverband der Ortskrankenkassen übergehen.
-
 
 ## § 7
 
@@ -166,7 +155,6 @@ Ansprüche gegen einen Bürgen, sowie seine Rechte aus einem Pfandrecht,
 einer Hypothek oder einer sonstigen Sicherheit, nicht berührt; § 418
 des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
-
 ## § 8
 
 Streitigkeiten, die sich zwischen Rechtsträgern des öffentlichen
@@ -177,7 +165,6 @@ zwei Beisitzern, von denen jede Partei einen ernennt. Den Vorsitzenden
 bestimmt der Bundesminister der Justiz. Für das Verfahren finden die
 Vorschriften der Zivilprozeßordnung entsprechend Anwendung.
 
-
 ## § 9
 
 Soweit das Eigentum an einem Grundstück nach § 4 übergeht, genügt zum
@@ -187,13 +174,11 @@ Bescheinigung der Aufsichtsbehörde. In den Fällen des § 4 Abs. 1 Satz
 Landesverbände gemeinsam ausgestellt. Dies gilt für sonstige im
 Grundbuch eingetragene Rechte entsprechend.
 
-
 ## § 10
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 der Vorschriften der §§ 4 bis 9 entstehen, werden nicht erhoben; bare
 Auslagen bleiben außer Ansatz.
-
 
 ## § 11
 
@@ -203,7 +188,6 @@ Rechts, der Reichsverband der Innungskrankenkassen, Körperschaft des
 Körperschaft des öffentlichen Rechts, werden mit Inkrafttreten dieses
 Gesetzes aufgelöst. Das Eigentum geht auf die entsprechenden Landes-
 und Bundesverbände über. §§ 4 bis 10 gelten entsprechend.
-
 
 ## § 12
 
@@ -217,11 +201,9 @@ Rechts, innegehabt haben. Die bei der Treuhandverwaltung verbrachte
 Zeit gilt als im öffentlichen Dienst abgeleistet und ist als
 ruhegehaltsfähige Dienstzeit zu berücksichtigen.
 
-
 ## § 13
 
 -
-
 
 ## Art 4 - Geltung im Land Berlin
 
@@ -235,7 +217,6 @@ a)  Die Allgemeine Ortskrankenkasse Berlin gehört dem Bundesverband der
 
 
 b)
-
 
 ## Art 5 - Inkrafttreten
 

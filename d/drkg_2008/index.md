@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2346
 
-
 ## Abschnitt 1 - Deutsches Rotes Kreuz
-
 
 ### § 1 Rechtsstellung
 
@@ -27,7 +25,6 @@ Kreuzes auf dem Gebiet der Bundesrepublik Deutschland und freiwillige
 Hilfsgesellschaft der deutschen Behörden im humanitären Bereich. Es
 beachtet die Grundsätze der Internationalen Rotkreuz- und Rothalbmond-
 Bewegung.
-
 
 ### § 2 Aufgaben
 
@@ -68,7 +65,6 @@ und Nebenbestimmungen.
 (3) Das Deutsche Rote Kreuz e. V. nimmt ferner die ihm durch
 Bundesgesetz oder Landesgesetz zugewiesenen Aufgaben wahr.
 
-
 ### § 3 Schutz des Zeichens und der Bezeichnungen
 
 Das Recht auf Verwendung des Zeichens „Rotes Kreuz auf weißem Grund“
@@ -79,16 +75,13 @@ untersagen, wenn diese nicht geeignet ist, die Zuordnung nach Satz 1
 in Frage zu stellen. Die Rechte anderer Organisationen der
 Internationalen Rotkreuz- und Rothalbmond-Bewegung bleiben unberührt.
 
-
 ## Abschnitt 2 - Andere freiwillige Hilfsgesellschaften
-
 
 ### § 4 Rechtsstellung
 
 Die Johanniter-Unfall-Hilfe e. V. und der Malteser Hilfsdienst e. V.
 sind freiwillige Hilfsgesellschaften im Sinne des Artikels 26 des I.
 Genfer Abkommens.
-
 
 ### § 5 Aufgaben
 

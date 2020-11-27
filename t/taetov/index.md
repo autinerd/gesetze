@@ -24,7 +24,6 @@ Fundstelle
     Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
     Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Abs. 1 Nr. 2 in Verbindung mit § 32 Abs. 1 Nr. 1,
@@ -35,7 +34,6 @@ Bekanntmachung vom 26. April 2006 (BGBl. I S. 945) verordnet das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 im Einvernehmen mit dem Bundesministerium für Wirtschaft und
 Technologie:
-
 
 ## § 1 Allgemein verbotene Stoffe
 
@@ -70,10 +68,6 @@ im Sinne des Satzes 1 sind
 
 
 4.  para-Phenylendiamin sowie sein Hydrochlorid oder Sulfat (CI 76060).
-
-
-
-
 
 ## § 2 Mitteilungspflichten
 
@@ -116,7 +110,6 @@ weiter.
 werden, Anfragen zur Behandlung von gesundheitlichen
 Beeinträchtigungen zu beantworten. Sie sind von anderen Unterlagen
 getrennt aufzubewahren.
-
 
 ## § 3 Kennzeichnung
 
@@ -191,12 +184,10 @@ werden, so muss diese Angabe auf der Verpackung, einer
 Packungsbeilage, einem beigefügten Etikett, Papierstreifen oder
 Kärtchen enthalten sein.
 
-
 ## § 4 Gute Herstellungspraxis
 
 Bei der Herstellung von Mitteln nach § 1 Satz 1 sind die Grundsätze
 der Guten Herstellungspraxis zu berücksichtigen.
-
 
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
@@ -224,16 +215,13 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 3 Abs. 1 Nr. 6 ein Mittel nach § 1 Satz 1
 in den Verkehr bringt.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2009 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Satz 2 Nr. 2) Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
 
@@ -483,8 +471,6 @@ Der Bundesrat hat zugestimmt.
 
     *
     *
-
-
 
 ## Anlage 2 (zu § 1 Satz 2 Nr. 3) Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
 

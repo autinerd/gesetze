@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 467
 
-
-
 ## (XXXX)
 
 Das Präsidium des Goethe-Instituts e. V. hat am 19. November 2003 das
@@ -29,7 +27,6 @@ Verleihung der Goethe-Medaille beschriebenen neuen Form verliehen.
 Nach Artikel 4 des Vierten Erlasses über die Genehmigung der Stiftung
 und Verleihung von Orden und Ehrenzeichen vom 27. Juni 1975 (BGBl. I
 S. 1857) genehmige ich diese Änderung.
-
 
 ## Schlussformel
 

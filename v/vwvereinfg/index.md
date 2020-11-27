@@ -15,6 +15,5 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1934, 130
 
-
 ## Kapitel I - Einheitliche Verkehrspolitik
 

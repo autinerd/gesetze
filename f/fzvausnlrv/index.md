@@ -25,7 +25,6 @@ Artikel 1 des Gesetzes vom 17. Juli 2009 (BGBl. I S. 2023) eingefügt
 worden ist, verordnet das Bundesministerium für Verkehr, Bau und
 Stadtentwicklung:
 
-
 ## § 1
 
 Den Landesregierungen wird zur Erprobung von Zulassungsverfahren unter
@@ -36,12 +35,10 @@ Zulassungsverordnung die Identifizierung des Fahrzeugs auch nach
 Erstellung der Zulassungsbescheinigung Teil II erfolgen darf; sie muss
 jedoch vor der Zulassung des Fahrzeugs erfolgen.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1.
 Januar 2014 außer Kraft.
-
 
 ## Schlussformel
 

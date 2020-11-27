@@ -20,21 +20,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 72 G v. 8.12.2010 I 1864
 
-
-
 ## Art I
 
 Dem am 15. Dezember 1949 in Bonn unterzeichneten Abkommen über
 Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von
 Amerika und der Bundesrepublik Deutschland wird zugestimmt.
 
-
 ## Art II
 
 (1) Das Abkommen wird nachstehend mit Gesetzeskraft veröffentlicht.
 
 (2)
-
 
 ## Art III
 
@@ -43,7 +39,6 @@ entstandenen und noch entstehenden Vermögenswerte bilden ein
 Sondervermögen des Bundes, auf das die Vorschriften der
 Bundeshaushaltsordnung Anwendung finden. Die Rechnungsprüfung erfolgt
 durch den Bundesrechnungshof.
-
 
 ## Art IV
 
@@ -62,7 +57,6 @@ bei der Ausübung der bezeichneten Befugnisse der Hilfe einer
 Warenrevisionsstelle zu bedienen, mit deren Geschäftsführung eine
 öffentlich bestellte Wirtschaftsprüfungsgesellschaft beauftragt werden
 kann.
-
 
 ## Art V
 

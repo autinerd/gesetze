@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 523
 
-
-
 ## I.
 
 (1) Nach § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -61,7 +59,6 @@ Einrichtungen bleibt die Entscheidung über Widersprüche und die
 Vertretung des Dienstherrn bei Klagen dem Bundesministerium für Arbeit
 und Soziales vorbehalten.
 
-
 ## II.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
@@ -78,7 +75,6 @@ für Wirtschaft und Arbeit vom 7. August 2003 (BGBl. I S. 1686) ist ab
 diesem Zeitpunkt nicht mehr anzuwenden, soweit sie Regelungen für
 Bedienstete des Bundesarbeitsgerichts und der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin enthält.
-
 
 ## Schlussformel
 

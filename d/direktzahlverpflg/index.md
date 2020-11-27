@@ -23,7 +23,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 104 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz dient nach Maßgabe des Satzes 2 der Durchführung
@@ -100,7 +99,6 @@ Die in Satz 1 bezeichneten Rechtsakte sind nur maßgebend, soweit sie
 (2) Dieses Gesetz ist hinsichtlich der in Absatz 1 Satz 1 Nummer 1 und
 3, auch in Verbindung mit Nummer 4, bezeichneten Rechtsakte ein Gesetz
 im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
-
 
 ## § 2 Grundanforderungen an die Betriebsführung, Instandhaltung von landwirtschaftlichen Flächen
 
@@ -209,7 +207,6 @@ Verpflichtungen auf Grund einer behördlichen Anordnung im Rahmen eines
 Verwaltungsverfahrens oder eines behördlichen Planungsverfahrens nicht
 möglich ist.
 
-
 ## § 3 Erhaltung von Dauergrünland
 
 (1) Die Länder, die die Regionen im Sinne des Absatzes 2 bilden, haben
@@ -243,7 +240,6 @@ bilden
 
 
 jeweils eine Region.
-
 
 ## § 4 Datenschutz
 
@@ -317,7 +313,6 @@ worden sind.
 erfolgen. Im Übrigen gilt für die Zulässigkeit des Abrufverfahrens und
 der einzelnen Abrufe § 10 Absatz 1 Satz 2, Absatz 2 und 4 des
 Bundesdatenschutzgesetzes.
-
 
 ## § 5 Ermächtigungen
 
@@ -437,7 +432,6 @@ auf die Landeregierungen übertragen werden, soweit dies erforderlich
 ist, um besonderen regionalen Gegebenheiten Rechnung tragen zu können.
 Die Landesregierungen können die Ermächtigungen nach Satz 1 oder
 Absatz 3 durch Rechtsverordnung auf oberste Landesbehörden übertragen.
-
 
 ## § 6 Verkündung von Rechtsverordnungen
 

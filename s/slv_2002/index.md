@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 10 G v. 21.7.2012 I 1583
 
-
 ## Kapitel 1 - Allgemeines
-
-
 
 ### § 1 Geltungsbereich
 
@@ -73,7 +70,6 @@ Soweit die folgenden Vorschriften Dienstgradbezeichnungen und Zusätze
 zur Dienstgradbezeichnung enthalten, sind die entsprechenden
 Bezeichnungen und Zusätze der Marine und des Sanitätsdienstes mit
 umfasst.
-
 
 ### § 2 Dienstliche Beurteilung
 
@@ -201,14 +197,12 @@ dokumentieren. Das Gesamtergebnis eines Beurteilungsdurchgangs soll
 den Beurteilten in Form eines Notenspiegels in geeigneter Weise
 bekannt gegeben werden.
 
-
 ### § 3 Ordnung der Laufbahnen
 
 Die Laufbahnen der Soldatinnen und Soldaten sind den Laufbahngruppen
 der Mannschaften, der Unteroffiziere und der Offiziere zugeordnet. Die
 Einzelheiten ergeben sich aus der Anlage zu dieser Verordnung. § 1
 Satz 2 ist insoweit nicht anzuwenden.
-
 
 ### § 4 Einstellung
 
@@ -238,7 +232,6 @@ oder eines Soldaten auf Zeit kann schriftlich zugesichert werden,
 dieses Dienstverhältnis in das Dienstverhältnis einer Berufssoldatin
 oder eines Berufssoldaten umzuwandeln, sobald die gesetzlichen
 Voraussetzungen hierfür erfüllt sind.
-
 
 ### § 5 Beförderung
 
@@ -277,7 +270,6 @@ oder die von ihm beauftragte Stelle. Die Laufbahn ist in der
 Entscheidung zu bezeichnen. Die Sätze 1 und 4 gelten entsprechend für
 die in § 1 Satz 1 Nummer 7 Genannten; der höhere Dienstgrad darf nur
 für die Dauer der dienstlichen Veranstaltung verliehen werden.
-
 
 ### § 5a Dienstzeiterfordernisse
 
@@ -362,7 +354,6 @@ vorliegen.
 Voraussetzung für eine Beförderung sind, werden Teilzeitbeschäftigung
 und Vollzeitbeschäftigung gleich behandelt.
 
-
 ### § 6 Umwandlung des Dienstverhältnisses und Laufbahnwechsel
 
 (1) Die Umwandlung des Dienstverhältnisses einer Soldatin auf Zeit
@@ -427,13 +418,9 @@ dem Vierten oder Fünften Abschnitt des Soldatengesetzes bleibt diese
 Laufbahnzuordnung erhalten, wenn die Verwendung keine andere
 Laufbahnzuordnung erfordert.
 
-
 ### § 7 (weggefallen)
 
-
 ## Kapitel 2 - Laufbahngruppe der Mannschaften
-
-
 
 ### § 8 Voraussetzungen für die Einstellung in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit
 
@@ -453,7 +440,6 @@ werden, wer
 das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf
 Zeit nur eingestellt werden, wer außerdem mindestens ein
 Orchesterinstrument beherrscht.
-
 
 ### § 9 Beförderung der Mannschaften im Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit
 
@@ -482,7 +468,6 @@ festgesetzte Dienstzeit von mindestens sechs Jahren voraus.
 (2) Die Dienstgrade Obergefreiter, Hauptgefreiter und Stabsgefreiter
 müssen nicht durchlaufen werden.
 
-
 ### § 10 Beförderung der sonstigen Soldatinnen und Soldaten
 
 (1) Die in § 1 Satz 1 Nummer 2 genannten Soldatinnen und Soldaten
@@ -502,18 +487,11 @@ Reservistinnen und Reservisten Aufgaben wahrnehmen, die zumindest
 ihrem Dienstgrad und den Aufgaben aus einem Beorderungsverhältnis
 entsprechen.
 
-
 ## Kapitel 3 - Laufbahngruppe der Unteroffiziere
-
-
 
 ### Abschnitt 1 - Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
 
-
-
 #### Unterabschnitt 1 - Fachunteroffiziere
-
-
 
 ##### § 11 Voraussetzungen für die Einstellung als Unteroffizieranwärterin oder Unteroffizieranwärter
 
@@ -544,7 +522,6 @@ ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem
 Zusatz „(Unteroffizieranwärterin)“, „(Unteroffizieranwärter)“ oder
 „(UA)“.
 
-
 ##### § 12 Beförderung der Unteroffizieranwärterinnen und Unteroffizieranwärter
 
 (1) Die Beförderung einer Unteroffizieranwärterin oder eines
@@ -573,7 +550,6 @@ werden. Die militärfachliche Ausbildung muss mehrere Monate dauern und
 in Form von Lehrgängen stattfinden. Der militärfachliche Teil der
 Fachunteroffizierprüfung kann durch einen verwertbaren Berufsabschluss
 ersetzt werden.
-
 
 ##### § 13 Einstellung mit einem höheren Dienstgrad, Nachbeförderung
 
@@ -636,7 +612,6 @@ befördert werden, wer sich mindestens in einem Gefreitendienstgrad
 befindet und die nach Absatz 1 Nummer 2 geforderten Voraussetzungen
 für eine Einstellung mit dem Dienstgrad Stabsunteroffizier erfüllt.
 
-
 ##### § 14 Aufstieg aus der Laufbahngruppe der Mannschaften
 
 (1) Mannschaften aller Laufbahnen können zu einer Laufbahn der
@@ -649,10 +624,7 @@ Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem
 Zusatz „(Unteroffizieranwärterin)“, „(Unteroffizieranwärter)“ oder
 „(UA)“.
 
-
 #### Unterabschnitt 2 - Feldwebel
-
-
 
 ##### § 15 Voraussetzungen für die Einstellung als Feldwebelanwärterin oder Feldwebelanwärter
 
@@ -691,7 +663,6 @@ mindestens ein Orchesterinstrument beherrscht.
 ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem
 Zusatz „(Feldwebelanwärterin)“, „(Feldwebelanwärter)“ oder „(FA)“.
 
-
 ##### § 16 Beförderung der Feldwebelanwärterinnen und Feldwebelanwärter
 
 (1) Die Beförderung der Feldwebelanwärterinnen und Feldwebelanwärter
@@ -725,7 +696,6 @@ dieses Prüfungsteils zugelassen werden. Die militärfachliche
 Ausbildung muss mehrere Monate dauern und in Form von Lehrgängen
 stattfinden. Der militärfachliche Teil der Feldwebelprüfung kann durch
 einen verwertbaren Berufsabschluss ersetzt werden.
-
 
 ##### § 17 Einstellung mit einem höheren Dienstgrad, Nachbeförderung
 
@@ -853,7 +823,6 @@ werden, wer sich mindestens in einem Gefreitendienstgrad befindet und
 die nach Absatz 2 geforderten Voraussetzungen für eine Einstellung mit
 dem Dienstgrad Feldwebel erfüllt.
 
-
 ##### § 18 Beförderung der Feldwebel
 
 (1) Die Beförderung zum Hauptfeldwebel setzt eine Dienstzeit von
@@ -884,7 +853,6 @@ Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten und
 die in § 1 Satz 1 Nummer 2a bis 7 genannten Soldatinnen und Soldaten
 befördert werden.
 
-
 ##### § 19 Aufstieg aus der Laufbahngruppe der Mannschaften
 
 (1) Mannschaften aller Laufbahnen können zu einer Laufbahn der
@@ -900,7 +868,6 @@ gleichwertig anerkannten Bildungsstand besitzt.
 Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz
 „(Feldwebelanwärterin)“, „(Feldwebelanwärter)“ oder „(FA)“.
 
-
 ##### § 20 Zulassung zu einer Laufbahn der Feldwebel
 
 Fachunteroffiziere aller Laufbahnen können zu einer Laufbahn der
@@ -910,7 +877,6 @@ erfüllen. Nach ihrer Zulassung führen sie im Schriftverkehr bis zu
 ihrer Beförderung zum Feldwebel ihre Dienstgradbezeichnung mit dem
 Zusatz „(Feldwebelanwärterin)“, „(Feldwebelanwärter)“ oder „(FA)“.
 
-
 ##### § 21 Umwandlung des Dienstverhältnisses
 
 Das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf
@@ -919,10 +885,7 @@ umgewandelt werden, wenn die Soldatin oder der Soldat das 24.
 Lebensjahr vollendet und mindestens den Dienstgrad eines Feldwebels
 erreicht hat.
 
-
 ### Abschnitt 2 - Sonstige Soldatinnen und Soldaten (§ 1 Satz 1 Nummer 2 bis 7)
-
-
 
 #### § 22 Beförderung, Zulassung zu einer Laufbahn der Reserve und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 
@@ -995,18 +958,11 @@ dienstlichen Veranstaltung nach § 81 des Soldatengesetzes werden auf
 den Wehrdienst nach Satz 4 nicht angerechnet. § 10 Absatz 2 Satz 4
 gilt entsprechend.
 
-
 ## Kapitel 4 - Laufbahngruppe der Offiziere
-
-
 
 ### Abschnitt 1 - Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit und Soldaten auf Zeit
 
-
-
 #### Unterabschnitt 1 - Truppendienst
-
-
 
 ##### § 23 Voraussetzungen für die Einstellung als Offizieranwärterin oder Offizieranwärter
 
@@ -1035,7 +991,6 @@ besitzt.
 (3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu
 ihrer Beförderung zum Fahnenjunker ihre Dienstgradbezeichnung mit dem
 Zusatz „(Offizieranwärterin)“, „(Offizieranwärter)“ oder „(OA)“.
-
 
 ##### § 24 Beförderung der Offizieranwärterinnen und Offizieranwärter
 
@@ -1076,7 +1031,6 @@ auch dann, wenn die Anwärterin oder der Anwärter zur Wiederholung der
 Prüfung nicht zugelassen wird oder die Wiederholungsprüfung nicht
 besteht.
 
-
 ##### § 25 Beförderung der Offiziere
 
 (1) Die Beförderung zum Hauptmann ist nach einer Dienstzeit von fünf
@@ -1102,10 +1056,6 @@ Ernennung zum Leutnant zulässig:
 
 
 3.  zum Oberst nach 14 Jahren und sechs Monaten.
-
-
-
-
 
 ##### § 26 Offiziere mit Hochschulausbildung
 
@@ -1239,13 +1189,6 @@ Absatz 2 Satz 2 gilt entsprechend.
 
     c)  nach sechs Jahren seit Einstellung als Oberstleutnant.
 
-
-
-
-
-
-
-
 ##### § 27 Offiziere mit sonstigen zivilen Befähigungen
 
 (1) Für Verwendungen als Offizier im Truppendienst kann unbeschadet
@@ -1285,7 +1228,6 @@ folgenden Befähigungsnachweise besitzt:
 (2) § 26 Absatz 1 Nummer 2 und 3, Absatz 2 Satz 2 Nummer 1 Buchstabe a
 und Absatz 6 gilt entsprechend mit der Maßgabe, dass keine
 Hochschulausbildung erforderlich ist.
-
 
 ##### § 28 Berufung von Offizieren mit Hochschulausbildung oder sonstigen zivilen Befähigungen in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 
@@ -1349,7 +1291,6 @@ umgewandelt werden.
 unmittelbar im Anschluss an die Eignungsübung in das Dienstverhältnis
 einer Berufssoldatin oder eines Berufssoldaten berufen werden.
 
-
 ##### § 29 Aufstieg in die Laufbahn der Offiziere des Truppendienstes
 
 (1) Unteroffiziere aller Laufbahnen können zur Laufbahn der Offiziere
@@ -1378,10 +1319,7 @@ werden können. Nach erfolgreicher Beendigung der Ausbildung zum
 Offizier werden Stabsfeldwebel und Oberstabsfeldwebel zu Leutnanten
 ernannt.
 
-
 #### Unterabschnitt 2 - Sanitätsdienst
-
-
 
 ##### § 30 Voraussetzungen für die Einstellung als Sanitätsoffizier-Anwärterin oder Sanitätsoffizier-Anwärter und Einstellung mit einem höheren Dienstgrad
 
@@ -1414,7 +1352,6 @@ mindestens 13 Jahre zum Dienst in der Bundeswehr verpflichtet hat.
 (3) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre
 Dienstgradbezeichnung mit dem Zusatz „(Sanitätsoffizier-Anwärterin)“,
 „(Sanitätsoffizier-Anwärter)“ oder „(SanOA)“.
-
 
 ##### § 31 Beförderung der Sanitätsoffizier-Anwärterinnen und Sanitätsoffizier-Anwärter
 
@@ -1456,7 +1393,6 @@ ist nicht anzuwenden.
 
 (4) Die Ausbildung zum Sanitätsoffizier endet mit der Beförderung zum
 Stabsarzt, Stabsveterinär oder Stabsapotheker.
-
 
 ##### § 32 Voraussetzungen für die Einstellung als Sanitätsoffizier
 
@@ -1534,7 +1470,6 @@ erworben hat. Absatz 1 Nummer 2 und 3 gilt entsprechend.
 kann in besonders begründeten Fällen Ausnahmen von den Fristen nach §
 28 Absatz 1 zulassen.
 
-
 ##### § 33 Beförderung der Sanitätsoffiziere
 
 Beförderungen sind nach folgenden Dienstzeiten seit Ernennung zum
@@ -1546,13 +1481,7 @@ Stabsarzt, Stabsveterinär oder Stabsapotheker zulässig:
 
 2.  zum Oberstarzt, Oberstveterinär oder Oberstapotheker nach zehn Jahren.
 
-
-
-
-
 #### Unterabschnitt 3 - Militärmusikdienst
-
-
 
 ##### § 34 Voraussetzungen für die Einstellung als Militärmusikoffizier-Anwärterin oder Militärmusikoffizier-Anwärter
 
@@ -1583,7 +1512,6 @@ kann eingestellt werden, wer
 Dienstgradbezeichnung mit dem Zusatz „(Militärmusikoffizier-
 Anwärterin)“ oder „(Militärmusikoffizier-Anwärter)“ oder
 „(MilMusikOA)“.
-
 
 ##### § 35 Beförderung der Militärmusikoffizier-Anwärterinnen und Militärmusikoffizier-Anwärter
 
@@ -1622,7 +1550,6 @@ voraus.
 (4) Die Ausbildung zum Offizier des Militärmusikdienstes endet mit der
 Beförderung zum Hauptmann.
 
-
 ##### § 36 Beförderung der Militärmusikoffiziere
 
 Beförderungen sind nach folgenden Dienstzeiten seit Ernennung zum
@@ -1632,10 +1559,6 @@ Hauptmann zulässig:
 
 
 2.  zum Oberst nach 13 Jahren.
-
-
-
-
 
 ##### § 37 Voraussetzungen für die Einstellung als Militärmusikoffizier
 
@@ -1667,13 +1590,7 @@ zum Hauptmann zulässig:
 
 2.  zum Oberst nach zehn Jahren.
 
-
-
-
-
 #### Unterabschnitt 4 - Geoinformationsdienst der Bundeswehr
-
-
 
 ##### § 38 Einstellung und Beförderung der Offiziere
 
@@ -1687,15 +1604,11 @@ Master oder einem gleichwertigen Abschluss abgeschlossen worden ist,
 ist für eine Beförderung zum Major kein Stabsoffizierlehrgang
 erforderlich.
 
-
 ##### § 39 (weggefallen)
 
 -
 
-
 #### Unterabschnitt 5 - Militärfachlicher Dienst
-
-
 
 ##### § 40 Voraussetzungen für die Zulassung
 
@@ -1741,10 +1654,6 @@ Schriftverkehr
 3.  Stabsfeldwebel und Oberstabsfeldwebel bis zu ihrer Beförderung zum
     Offizier.
 
-
-
-
-
 ##### § 41 Beförderung der Offizieranwärterinnen und Offizieranwärter
 
 (1) Die Ausbildung zum Offizier dauert mindestens drei Jahre. Auf die
@@ -1781,7 +1690,6 @@ werden.
 Beendigung der Ausbildung zum Offizier werden Stabsfeldwebel und
 Oberstabsfeldwebel zu Leutnanten ernannt.
 
-
 ##### § 42 Beförderung der Offiziere
 
 (1) Die Beförderung zum Hauptmann ist nach einer Dienstzeit von fünf
@@ -1801,10 +1709,7 @@ und für Offiziere, die als Kampfschwimmerin oder Kampfschwimmer oder
 im Kommando Spezialkräfte für besondere Einsätze verwendet werden,
 fünf Jahre und sechs Monate im Dienstgrad Hauptmann, zulässig.
 
-
 ### Abschnitt 2 - Sonstige Soldatinnen und Soldaten (§ 1 Satz 1 Nummer 2 bis 7)
-
-
 
 #### § 43 Beförderung, Zulassung zu einer Laufbahn der Reserve und Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 
@@ -1873,10 +1778,7 @@ Soldatengesetzes werden auf den Wehrdienst nach Absatz 3 Satz 3,
 Absatz 4 Satz 2 und Absatz 5 Satz 2 nicht angerechnet. § 10 Absatz 2
 Satz 4 gilt entsprechend.
 
-
 ## Kapitel 5 - Übergangs- und Schlussvorschriften
-
-
 
 ### § 44 Einstellungs-, Ausbildungs- und Beförderungsrichtlinien
 
@@ -1886,7 +1788,6 @@ innerhalb der in dieser Verordnung bestimmten Mindest- und
 Höchstaltersgrenzen durch Erlass andere Altersgrenzen festsetzen und
 über die Mindestanforderungen an Vorbildung, Ausbildung,
 Befähigungsnachweis und Dienstzeit hinausgehen.
-
 
 ### § 45 Ausnahmen
 
@@ -1913,7 +1814,6 @@ Ausnahmen von Vorschriften dieser Verordnung zulassen; dies betrifft:
 Soldaten entscheidet das Bundesministerium der Verteidigung über
 Ausnahmen nach Absatz 1.
 
-
 ### § 46 Umwandlung des Dienstverhältnisses nach § 45a des Soldatengesetzes
 
 (1) Liegen die nach § 45a des Soldatengesetzes geforderten
@@ -1925,11 +1825,9 @@ anwendbar.
 
 (2) § 40 Absatz 1 bleibt unberührt.
 
-
 ### § 47 (weggefallen)
 
 -
-
 
 ### § 48 Übergangsvorschriften
 
@@ -1962,11 +1860,9 @@ der Laufbahn der Offiziere des Geoinformationsdienstes der Bundeswehr
 verpflichtet haben und deshalb eine Studienbeihilfe von der Bundeswehr
 erhalten.
 
-
 ### § 49 (Inkrafttreten, Außerkrafttreten)
 
 -
-
 
 ### Anlage (zu § 3) Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffiziere und der Offiziere
 

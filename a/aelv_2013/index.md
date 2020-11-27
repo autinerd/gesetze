@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2142
 
-
 ## Eingangsformel
 
 Auf Grund des § 35 des Gesetzes über die Alterssicherung der
@@ -24,7 +23,6 @@ Landwirte, der zuletzt durch Artikel 17 Nummer 14 des Gesetzes vom 20.
 April 2007 (BGBl. I S. 554) geändert worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1
 
@@ -162,16 +160,13 @@ wird das Arbeitseinkommen ermittelt, indem
 (5) Das Arbeitseinkommen aus der Land- und Forstwirtschaft wird auf
 volle Euro abgerundet.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Absatz 2 Satz 1 Nummer 1)
 
@@ -298,9 +293,6 @@ Der Bundesrat hat zugestimmt.
 
     *   0,8390
 
-
-
-
 ## Anlage 2 (zu § 1 Absatz 2 Satz 1 Nummer 2)
 
 (Fundstelle: BGBl. I 2012, 2145)
@@ -426,9 +418,6 @@ Der Bundesrat hat zugestimmt.
 
     *   0,5704
 
-
-
-
 ## Anlage 3 (zu § 1 Absatz 3 Satz 1 Nummer 1)
 
 (Fundstelle: BGBl. I 2012, 2146)
@@ -488,9 +477,6 @@ Der Bundesrat hat zugestimmt.
 *    *   500 000
 
     *   0,1811
-
-
-
 
 ## Anlage 4 (zu § 1 Absatz 3 Satz 1 Nummer 2)
 

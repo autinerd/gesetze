@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 14.12.2001 I 3714
 
-
 ## Erster Abschnitt -
-
-
 
 ### § 1
 
@@ -30,7 +27,6 @@ Geltungsbereich dieses Gesetzes zu überwachen haben, stellen sicher,
 daß nicht Gegenstände unter Verstoß gegen ein Strafgesetz, das ihre
 Einfuhr oder Verbreitung aus Gründen des Staatsschutzes verbietet, in
 diesen Bereich verbracht werden.
-
 
 ### § 2
 
@@ -52,7 +48,6 @@ entsprechend.
 
 (3) (weggefallen)
 
-
 ### § 3
 
 Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den
@@ -61,16 +56,12 @@ deren betrieblicher Behandlung sich tatsächliche Anhaltspunkte für den
 in § 2 bezeichneten Verdacht ergeben, der zuständigen Zolldienststelle
 vor.
 
-
 ### § 4
 
 Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
 nach Maßgabe der §§ 2 und 3 eingeschränkt.
 
-
 ## Zweiter Abschnitt -
-
-
 
 ### § 5
 
@@ -97,7 +88,6 @@ räumlichen Geltungsbereich dieses Gesetzes entfernt oder vernichtet
 hat. Soweit der Verbringende Kopien nicht mehr besitzt, sind diese
 Vorschriften auf den Besitzer entsprechend anzuwenden.
 
-
 ### § 6
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -114,14 +104,9 @@ eingezogen werden.
 über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA).
 
-
 ### (XXXX) §§ 7 bis 10 (weggefallen)
 
-
-
 ## Dritter Abschnitt -
-
-
 
 ### § 11
 
@@ -130,7 +115,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 12
 

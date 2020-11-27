@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1160, 1162
 
-
-
 ## § 1
 
 (1) Der Bund übernimmt mit Wirkung vom 1. Juli 2007 als Mitschuldner
@@ -58,7 +56,6 @@ Ausgleich des Fehlbetrags aus der Zwischenfinanzierung.
 (3) Einzelheiten regeln der Bund und das ERP-Sondervermögen durch
 Verwaltungsvereinbarung.
 
-
 ## § 2
 
 Im Innenverhältnis zum ERP-Sondervermögen ist der Bund alleiniger
@@ -66,14 +63,12 @@ Schuldner der nach § 1 übernommenen Verbindlichkeiten und alleiniger
 Gläubiger der nach § 1 übernommenen Kreditforderungen und sonstigen
 Rechte.
 
-
 ## § 3
 
 Das Bundesministerium der Finanzen wird ermächtigt, zur Tilgung der
 nach § 1 vom Bund mitübernommenen Verbindlichkeiten des ERP-
 Sondervermögens Kredite bis zur Höhe von 1.314.533.505 Euro
 aufzunehmen.
-
 
 ## § 4
 

@@ -21,16 +21,12 @@ Stand: Das G tritt gem. § 15 mit Ablauf des 31.12.2019 außer Kraft
 Zuletzt geändert durch
 :   Art. 8 G v. 29.5.2009 I 1170
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Grundsätze der Maßstabsbildung
 
@@ -54,7 +50,6 @@ legen. Sie gewährleistet auch haushaltswirtschaftliche Planbarkeit und
 Voraussehbarkeit der finanzwirtschaftlichen Grundlagen sowie
 Transparenz der Mittelverteilung im Gesamtstaat.
 
-
 ### § 2 Bindungswirkung der Maßstäbe
 
 (1) Das Finanzausgleichsgesetz dient der Ableitung der konkreten
@@ -68,7 +63,6 @@ finanzwirtschaftliche Veränderungen sind sicherzustellen.
 (3) Die Regelungen müssen den Erfordernissen der Normenklarheit und
 Normenverständlichkeit genügen.
 
-
 ### § 3 Sicherung des Eigenbehalts
 
 Von Mehr- oder Mindereinnahmen gegenüber den länderdurchschnittlichen
@@ -76,10 +70,7 @@ Einnahmen sowie von überdurchschnittlichen Mehreinnahmen oder
 unterdurchschnittlichen Mindereinnahmen je Einwohner gegenüber dem
 Vorjahr muss dem betreffenden Land ein Eigenbehalt verbleiben.
 
-
 ## Abschnitt 2 - Vertikale Umsatzsteuerverteilung (Artikel 106 Abs. 3 Satz 4 und Abs. 4 Satz 1 GG)
-
-
 
 ### § 4 Vertikale Umsatzsteuerverteilung
 
@@ -99,10 +90,7 @@ Bestimmungen des Maastricht-Vertrages und des europäischen
 Stabilitäts- und Wachstumspaktes zur Begrenzung des gesamtstaatlichen
 Defizits umgesetzt werden.
 
-
 ## Abschnitt 3 - Horizontale Umsatzsteuerverteilung (Artikel 107 Abs. 1 Satz 4 GG)
-
-
 
 ### § 5 Ergänzungsanteile
 
@@ -121,10 +109,7 @@ entstehenden Einnahmeunterschiede zu bereinigen.
 (2) Die Vergabe von Ergänzungsanteilen dient der Verminderung
 besonders großer Unterschiede der Einnahmen im Sinne von Absatz 1.
 
-
 ## Abschnitt 4 - Länderfinanzausgleich (Artikel 107 Abs. 2 Satz 1 und 2 GG)
-
-
 
 ### § 6 Ausgleichsansprüche und Ausgleichsverbindlichkeiten
 
@@ -135,7 +120,6 @@ andererseits zu berücksichtigen. Es bestehen Ausgleichsansprüche der
 Länder mit unterdurchschnittlicher Finanzkraft (ausgleichsberechtigte
 Länder) und Ausgleichsverbindlichkeiten der Länder mit
 überdurchschnittlicher Finanzkraft (ausgleichspflichtige Länder).
-
 
 ### § 7 Finanzkraft
 
@@ -151,7 +135,6 @@ möglichen Ausgleichswirkung außer Verhältnis steht.
 
 (2) Die ausgleichserheblichen Einnahmen nach Absatz 1 sind
 vorbehaltlich § 8 Abs. 4 in voller Höhe zu berücksichtigen.
-
 
 ### § 8 Vergleichbarkeit der Finanzkraft und Berücksichtigung des kommunalen Finanzbedarfs
 
@@ -182,7 +165,6 @@ nicht berücksichtigten abstrakten Mehrbedarf durch einen Abschlag von
 den nach § 7 ausgleichserheblichen Einnahmen der Gemeinden und
 Gemeindeverbände Rechnung getragen werden.
 
-
 ### § 9 Ausgleichshöhe
 
 Der angemessene Ausgleich erfordert eine den ländereigenen Aufgaben
@@ -196,10 +178,7 @@ Länderfinanzausgleich darf weder die Finanzkraftabstände zwischen
 einzelnen Ländern aufheben, noch zu einer Verkehrung der
 Finanzkraftreihenfolge unter den Ländern führen.
 
-
 ## Abschnitt 5 - Bundesergänzungszuweisungen (Artikel 107 Abs. 2 Satz 3 GG)
-
-
 
 ### § 10 Funktion der Bundesergänzungszuweisungen
 
@@ -223,7 +202,6 @@ Verhältnis zum Gesamtvolumen des Finanzausgleichs unter den Ländern
 nicht beträchtlich sein. Abweichungen von Satz 3 sind aus besonderen
 Gründen und vorübergehend zulässig.
 
-
 ### § 11 Allgemeine Bundesergänzungszuweisungen
 
 (1) Bei der Gewährung von allgemeinen Bundesergänzungszuweisungen
@@ -238,7 +216,6 @@ länderdurchschnittlichen Finanzkraft liegt.
 (2) Eine Nivellierung der Finanzkraft der Länder durch allgemeine
 Bundesergänzungszuweisungen ist auszuschließen. § 9 Satz 4 gilt
 entsprechend.
-
 
 ### § 12 Sonderbedarfs-Bundesergänzungszuweisungen
 
@@ -295,10 +272,7 @@ Arbeitslosenhilfe und Sozialhilfe für Erwerbsfähige können
 Sonderbedarfs-Bundesergänzungszuweisungen begründen. Absatz 3 Satz 1
 gilt nicht.
 
-
 ## Abschnitt 6 - Schlussbestimmungen
-
-
 
 ### § 13 Übergangsbestimmung
 
@@ -309,11 +283,9 @@ zuletzt geändert durch Artikel 6 des Gesetzes vom 16. August 2001
 (BGBl. I S. 2074), weiter anzuwenden, längstens bis zum 31. Dezember
 2004\.
 
-
 ### § 14 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ### § 15 Geltungsdauer
 

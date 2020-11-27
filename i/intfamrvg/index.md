@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 23.5.2011 I 898
 
-
 ## Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -53,20 +50,13 @@ Dieses Gesetz dient
     Sorgeverhältnisses (BGBl. 1990 II S. 220) - im Folgenden: Europäisches
     Sorgerechtsübereinkommen.
 
-
-
-
-
 ### § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind "Titel" Entscheidungen, Vereinbarungen
 und öffentliche Urkunden, auf welche die durchzuführende EG-Verordnung
 oder das jeweils auszuführende Übereinkommen Anwendung findet.
 
-
 ## Abschnitt 2 - Zentrale Behörde; Jugendamt
-
-
 
 ### § 3 Bestimmung der Zentralen Behörde
 
@@ -90,7 +80,6 @@ ist das Bundesamt für Justiz.
 (2) Das Verfahren der Zentralen Behörde gilt als
 Justizverwaltungsverfahren.
 
-
 ### § 4 Übersetzungen bei eingehenden Ersuchen
 
 (1) Die Zentrale Behörde, bei der ein Antrag aus einem anderen Staat
@@ -105,7 +94,6 @@ Kinderschutzübereinkommens oder nach Artikel 24 Abs. 1 des Haager
 Kindesentführungsübereinkommens ausnahmsweise nicht von einer
 deutschen Übersetzung begleitet, so veranlasst die Zentrale Behörde
 die Übersetzung.
-
 
 ### § 5 Übersetzungen bei ausgehenden Ersuchen
 
@@ -123,7 +111,6 @@ von Verfahrenskostenhilfe ohne einen eigenen Beitrag zu den Kosten
 nach den Vorschriften des Gesetzes über das Verfahren in
 Familiensachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit
 erfüllt.
-
 
 ### § 6 Aufgabenerfüllung durch die Zentrale Behörde
 
@@ -143,7 +130,6 @@ Weg der Untervollmacht durch Vertreter gerichtlich oder
 außergerichtlich tätig zu werden. Ihre Befugnis, zur Sicherung der
 Einhaltung der Übereinkommen im eigenen Namen entsprechend zu handeln,
 bleibt unberührt.
-
 
 ### § 7 Aufenthaltsermittlung
 
@@ -169,7 +155,6 @@ die zur Durchführung der Maßnahmen erforderlichen personenbezogenen
 Daten; diese dürfen nur für den Zweck verwendet werden, für den sie
 übermittelt worden sind.
 
-
 ### § 8 Anrufung des Oberlandesgerichts
 
 (1) Nimmt die Zentrale Behörde einen Antrag nicht an oder lehnt sie es
@@ -183,7 +168,6 @@ Behörde ihren Sitz hat.
 Gerichtsbarkeit. § 14 Abs. 1 und 2 sowie die Abschnitte 4 und 5 des
 Buches 1 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit gelten entsprechend.
-
 
 ### § 9 Mitwirkung des Jugendamts an Verfahren
 
@@ -225,10 +209,7 @@ Aufenthalt hat.
 Entscheidungen nach diesem Gesetz auch dann, wenn das Jugendamt am
 Verfahren nicht beteiligt war.
 
-
 ## Abschnitt 3 - Gerichtliche Zuständigkeit und Zuständigkeitskonzentration
-
-
 
 ### § 10 Örtliche Zuständigkeit für die Anerkennung und Vollstreckung
 
@@ -260,10 +241,6 @@ der Antragstellung
 3.  sonst das im Bezirk des Kammergerichts zur Entscheidung berufene
     Gericht.
 
-
-
-
-
 ### § 11 Örtliche Zuständigkeit nach dem Haager Kindesentführungsübereinkommen
 
 Örtlich zuständig für Verfahren nach dem Haager
@@ -276,10 +253,6 @@ Zuständigkeitsbereich
 
 2.  bei Fehlen einer Zuständigkeit nach Nummer 1 das Bedürfnis der
     Fürsorge besteht.
-
-
-
-
 
 ### § 12 Zuständigkeitskonzentration
 
@@ -298,7 +271,6 @@ Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
 Oberlandesgerichte errichtet sind, einem Familiengericht für die
 Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Sie können
 die Ermächtigung auf die Landesjustizverwaltungen übertragen.
-
 
 ### § 13 Zuständigkeitskonzentration für andere Familiensachen
 
@@ -354,7 +326,6 @@ entsprechend. Die Ablehnung einer Abgabe nach Satz 1 ist unanfechtbar.
 (5) §§ 4 und 5 Abs. 1 Nr. 5, Abs. 2 und 3 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit bleibt unberührt.
-
 
 ### § 13a Verfahren bei grenzüberschreitender Abgabe
 
@@ -428,10 +399,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit genannten
 Beteiligten. Die Vorschriften über die Hinzuziehung weiterer
 Beteiligter bleiben unberührt.
 
-
 ## Abschnitt 4 - Allgemeine gerichtliche Verfahrensvorschriften
-
-
 
 ### § 14 Familiengerichtliches Verfahren
 
@@ -447,10 +415,6 @@ Soweit nicht anders bestimmt, entscheidet das Familiengericht
     Angelegenheiten als Familiensachen im Verfahren der freiwilligen
     Gerichtsbarkeit.
 
-
-
-
-
 ### § 15 Einstweilige Anordnungen
 
 Das Gericht kann auf Antrag oder von Amts wegen einstweilige
@@ -462,14 +426,9 @@ verhindern; Abschnitt 4 des Buches 1 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit gilt entsprechend.
 
-
 ## Abschnitt 5 - Zulassung der Zwangsvollstreckung, Anerkennungsfeststellung und Wiederherstellung des Sorgeverhältnisses
 
-
-
 ### Unterabschnitt 1 - Zulassung der Zwangsvollstreckung im ersten Rechtszug
-
-
 
 #### § 16 Antragstellung
 
@@ -496,7 +455,6 @@ beizubringen, deren Richtigkeit von einer
 
 hierzu befugten Person bestätigt worden ist.
 
-
 #### § 17 Zustellungsbevollmächtigter
 
 (1) Hat die antragstellende Person in dem Antrag keinen
@@ -508,7 +466,6 @@ Benennung alle Zustellungen an sie durch Aufgabe zur Post (§ 184 Abs.
 (2) Absatz 1 gilt nicht, wenn die antragstellende Person einen
 Verfahrensbevollmächtigten für das Verfahren bestellt hat, an den im
 Inland zugestellt werden kann.
-
 
 #### § 18 Einseitiges Verfahren
 
@@ -526,7 +483,6 @@ Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit ist in Ehesachen im ersten Rechtszug eine anwaltliche
 Vertretung nicht erforderlich.
 
-
 #### § 19 Besondere Regelungen zum Europäischen Sorgerechtsübereinkommen
 
 Die Vollstreckbarerklärung eines Titels aus einem anderen
@@ -536,7 +492,6 @@ die Voraussetzungen des Artikels 10 Abs. 1 Buchstabe a oder b des
 Übereinkommens vorliegen, insbesondere wenn die Wirkungen des Titels
 mit den Grundrechten des Kindes oder eines Sorgeberechtigten
 unvereinbar wären.
-
 
 #### § 20 Entscheidung
 
@@ -558,7 +513,6 @@ gilt § 788 der Zivilprozessordnung entsprechend.
 das Gericht durch mit Gründen versehenen Beschluss ab. Für die Kosten
 gilt Absatz 2; in Ehesachen sind die Kosten dem Antragsteller
 aufzuerlegen.
-
 
 #### § 21 Bekanntmachung der Entscheidung
 
@@ -589,12 +543,10 @@ eine Unterbringung, so ist der Beschluss auch dem Leiter der
 Einrichtung oder der Pflegefamilie bekannt zu machen, in der das Kind
 untergebracht werden soll.
 
-
 #### § 22 Wirksamwerden der Entscheidung
 
 Der Beschluss nach § 20 wird erst mit seiner Rechtskraft wirksam.
 Hierauf ist in dem Beschluss hinzuweisen.
-
 
 #### § 23 Vollstreckungsklausel
 
@@ -626,10 +578,7 @@ versehen. Sie ist entweder auf die Ausfertigung des Titels oder auf
 ein damit zu verbindendes Blatt zu setzen. Falls eine Übersetzung des
 Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
-
 ### Unterabschnitt 2 - Beschwerde
-
-
 
 #### § 24 Einlegung der Beschwerde; Beschwerdefrist
 
@@ -665,7 +614,6 @@ einzulegen
 (5) Die Beschwerde ist dem Beschwerdegegner von Amts wegen
 zuzustellen.
 
-
 #### § 25 Einwendungen gegen den zu vollstreckenden Anspruch
 
 Die verpflichtete Person kann mit der Beschwerde gegen die Zulassung
@@ -673,7 +621,6 @@ der Zwangsvollstreckung aus einem Titel über die Erstattung von
 Verfahrenskosten auch Einwendungen gegen den Anspruch selbst insoweit
 geltend machen, als die Gründe, auf denen sie beruhen, erst nach
 Erlass des Titels entstanden sind.
-
 
 #### § 26 Verfahren und Entscheidung über die Beschwerde
 
@@ -693,7 +640,6 @@ worden ist.
 (4) § 20 Abs. 1 Satz 2, Abs. 2 und 3, § 21 Abs. 1, 2 und 4 sowie § 23
 gelten entsprechend.
 
-
 #### § 27 Anordnung der sofortigen Wirksamkeit
 
 (1) Der Beschluss des Oberlandesgerichts nach § 26 wird erst mit
@@ -702,17 +648,13 @@ seiner Rechtskraft wirksam. Hierauf ist in dem Beschluss hinzuweisen.
 (2) Das Oberlandesgericht kann in Verbindung mit der Entscheidung über
 die Beschwerde die sofortige Wirksamkeit eines Beschlusses anordnen.
 
-
 ### Unterabschnitt 3 - Rechtsbeschwerde
-
-
 
 #### § 28 Statthaftigkeit der Rechtsbeschwerde
 
 Gegen den Beschluss des Oberlandesgerichts findet die Rechtsbeschwerde
 zum Bundesgerichtshof nach Maßgabe des § 574 Abs. 1 Nr. 1, Abs. 2 der
 Zivilprozessordnung statt.
-
 
 #### § 29 Einlegung und Begründung der Rechtsbeschwerde
 
@@ -721,7 +663,6 @@ anzuwenden. Soweit die Rechtsbeschwerde darauf gestützt wird, dass das
 Oberlandesgericht von einer Entscheidung des Gerichtshofs der
 Europäischen Gemeinschaften abgewichen sei, muss die Entscheidung, von
 der der angefochtene Beschluss abweicht, bezeichnet werden.
-
 
 #### § 30 Verfahren und Entscheidung über die Rechtsbeschwerde
 
@@ -744,17 +685,13 @@ Betracht.
 (3) § 20 Abs. 1 Satz 2, Abs. 2 und 3, § 21 Abs. 1, 2 und 4 sowie § 23
 gelten entsprechend.
 
-
 #### § 31 Anordnung der sofortigen Wirksamkeit
 
 Der Bundesgerichtshof kann auf Antrag der verpflichteten Person eine
 Anordnung nach § 27 Abs. 2 aufheben oder auf Antrag der berechtigten
 Person erstmals eine Anordnung nach § 27 Abs. 2 treffen.
 
-
 ### Unterabschnitt 4 - Feststellung der Anerkennung
-
-
 
 #### § 32 Anerkennungsfeststellung
 
@@ -769,10 +706,7 @@ Titel aus einem anderen Staat nicht anzuerkennen ist. § 18 Absatz 1
 Satz 3 ist in diesem Falle mit der Maßgabe anzuwenden, dass die
 mündliche Erörterung auch mit weiteren Beteiligten stattfinden kann.
 
-
 ### Unterabschnitt 5 - Wiederherstellung des Sorgeverhältnisses
-
-
 
 #### § 33 Anordnung auf Herausgabe des Kindes
 
@@ -793,10 +727,7 @@ anzuerkennen ist, und ordnet zur Wiederherstellung des
 Sorgeverhältnisses auf Antrag an, dass die verpflichtete Person das
 Kind herauszugeben hat.
 
-
 ### Unterabschnitt 6 - Aufhebung oder Änderung von Beschlüssen
-
-
 
 #### § 34 Verfahren auf Aufhebung oder Änderung
 
@@ -827,7 +758,6 @@ bereits getroffener Vollstreckungsmaßregeln die §§ 769 und 770 der
 Zivilprozessordnung entsprechend anzuwenden. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 #### § 35 Schadensersatz wegen ungerechtfertigter Vollstreckung
 
 (1) Wird die Zulassung der Zwangsvollstreckung aus einem Titel über
@@ -845,10 +775,7 @@ einem ordentlichen Rechtsbehelf angefochten werden konnte.
 ausschließlich zuständig, das im ersten Rechtszug über den Antrag, den
 Titel mit der Vollstreckungsklausel zu versehen, entschieden hat.
 
-
 ### Unterabschnitt 7 - Vollstreckungsgegenklage
-
-
 
 #### § 36 Vollstreckungsgegenklage bei Titeln über Verfahrenskosten
 
@@ -873,10 +800,7 @@ entstanden sind.
 zu erheben, das über den Antrag auf Erteilung der
 Vollstreckungsklausel entschieden hat.
 
-
 ## Abschnitt 6 - Verfahren nach dem Haager Kindesentführungsübereinkommen
-
-
 
 ### § 37 Anwendbarkeit
 
@@ -886,7 +810,6 @@ Sorgerechtsübereinkommen in Betracht, so sind zunächst die
 Bestimmungen des Haager Kindesentführungsübereinkommens anzuwenden,
 sofern die antragstellende Person nicht ausdrücklich die Anwendung des
 Europäischen Sorgerechtsübereinkommens begehrt.
-
 
 ### § 38 Beschleunigtes Verfahren
 
@@ -905,7 +828,6 @@ persönlichen Umgang mit dem Kind gewährleistet werden kann.
 mitzuwirken, wie es einem auf Förderung und Beschleunigung des
 Verfahrens bedachten Vorgehen entspricht.
 
-
 ### § 39 Übermittlung von Entscheidungen
 
 Wird eine inländische Entscheidung nach Artikel 11 Abs. 6 der
@@ -913,7 +835,6 @@ Verordnung (EG) Nr. 2201/2003 unmittelbar dem zuständigen Gericht oder
 der Zentralen Behörde im Ausland übermittelt, ist der Zentralen
 Behörde zur Erfüllung ihrer Aufgaben nach Artikel 7 des Haager
 Kindesentführungsübereinkommens eine Abschrift zu übersenden.
-
 
 ### § 40 Wirksamkeit der Entscheidung; Rechtsmittel
 
@@ -941,7 +862,6 @@ berechtigten Interessen der Beteiligten mit dem Wohl des Kindes zu
 vereinbaren ist. Die Entscheidung über die sofortige Wirksamkeit kann
 während des Beschwerdeverfahrens abgeändert werden.
 
-
 ### § 41 Bescheinigung über Widerrechtlichkeit
 
 Über einen Antrag, die Widerrechtlichkeit des Verbringens oder des
@@ -963,7 +883,6 @@ Familiengericht,
 
 Die Entscheidung ist zu begründen.
 
-
 ### § 42 Einreichung von Anträgen bei dem Amtsgericht
 
 (1) Ein Antrag, der in einem anderen Vertragsstaat zu erledigen ist,
@@ -979,7 +898,6 @@ weiterleitet.
 der Entgegennahme und Weiterleitung von Anträgen werden mit Ausnahme
 der Fälle nach § 5 Abs. 1 Kosten nicht erhoben.
 
-
 ### § 43 Verfahrenskosten- und Beratungshilfe
 
 Abweichend von Artikel 26 Abs. 2 des Haager
@@ -988,10 +906,7 @@ gerichtlichen und außergerichtlichen Kosten bei Verfahren nach diesem
 Übereinkommen nur nach Maßgabe der Vorschriften über die
 Beratungshilfe und Verfahrenskostenhilfe statt.
 
-
 ## Abschnitt 7 - Vollstreckung
-
-
 
 ### § 44 Ordnungsmittel; Vollstreckung von Amts wegen
 
@@ -1013,10 +928,7 @@ Vollstreckung von Amts wegen durchzuführen, es sei denn, die Anordnung
 ist auf Herausgabe des Kindes zum Zweck des Umgangs gerichtet. Auf
 Antrag der berechtigten Person soll das Gericht hiervon absehen.
 
-
 ## Abschnitt 8 - Grenzüberschreitende Unterbringung
-
-
 
 ### § 45 Zuständigkeit für die Zustimmung zu einer Unterbringung
 
@@ -1028,7 +940,6 @@ Bereich das Kind nach dem Vorschlag der ersuchenden Stelle
 untergebracht werden soll, andernfalls der überörtliche Träger, zu
 dessen Bereich die Zentrale Behörde den engsten Bezug festgestellt
 hat. Hilfsweise ist das Land Berlin zuständig.
-
 
 ### § 46 Konsultationsverfahren
 
@@ -1087,7 +998,6 @@ die Stellungnahme der Ausländerbehörde einzuholen.
 der Einrichtung oder der Pflegefamilie, in der das Kind untergebracht
 werden soll, mitzuteilen. Sie ist unanfechtbar.
 
-
 ### § 47 Genehmigung des Familiengerichts
 
 (1) Die Zustimmung des überörtlichen Trägers der öffentlichen
@@ -1113,10 +1023,7 @@ untergebracht werden soll, für den Bezirk dieses Oberlandesgerichts. §
 
 (3) Der zu begründende Beschluss ist unanfechtbar.
 
-
 ## Abschnitt 9 - Bescheinigungen zu inländischen Entscheidungen nach der Verordnung (EG) Nr. 2201/2003
-
-
 
 ### § 48 Ausstellung von Bescheinigungen
 
@@ -1132,29 +1039,21 @@ Familienrichter, in Verfahren vor dem Oberlandesgericht oder dem
 Bundesgerichtshof von dem Vorsitzenden des Senats für Familiensachen
 ausgestellt.
 
-
 ### § 49 Berichtigung von Bescheinigungen
 
 Für die Berichtigung der Bescheinigung nach Artikel 43 Abs. 1 der
 Verordnung (EG) Nr. 2201/2003 gilt § 319 der Zivilprozessordnung
 entsprechend.
 
-
 ## Abschnitt 10 - Kosten
-
-
 
 ### § 50 (weggefallen)
 
-
 ### § 51 (weggefallen)
-
 
 ### § 52 (weggefallen)
 
-
 ### § 53 (weggefallen)
-
 
 ### § 54 Übersetzungen
 
@@ -1162,10 +1061,7 @@ Die Höhe der Vergütung für die von der Zentralen Behörde veranlassten
 Übersetzungen richtet sich nach dem Justizvergütungs- und
 -entschädigungsgesetz.
 
-
 ## Abschnitt 11 - Übergangsvorschriften
-
-
 
 ### § 55 Übergangsvorschriften zu der Verordnung (EG) Nr. 2201/2003
 
@@ -1185,7 +1081,6 @@ Anerkennungs- und Vollstreckungsausführungsgesetzes bestimmt, so ist
 die Beschwerde der verpflichteten Person gegen die Zulassung der
 Zwangsvollstreckung innerhalb der vom Gericht bestimmten Frist
 einzulegen.
-
 
 ### § 56 Übergangsvorschriften zum Sorgerechtsübereinkommens-Ausführungsgesetz
 

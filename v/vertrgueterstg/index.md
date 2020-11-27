@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 1067
 
-
-
 ## § 1
 
 (1) Für Ehegatten, die Vertriebene oder Sowjetzonenflüchtlinge sind
@@ -46,7 +44,6 @@ einem Ehegatten in diesem Zeitpunkt gehörte. Soweit es in den §§ 1374,
 1376 des Bürgerlichen Gesetzbuchs auf den Zeitpunkt des Eintritts des
 Güterstandes ankommt, sind diese Vorschriften sinngemäß anzuwenden.
 
-
 ## § 2
 
 (1) Jeder Ehegatte kann, sofern nicht vorher ein Ehevertrag
@@ -67,7 +64,6 @@ ein Rechtsgeschäft, das nach der Überleitung zwischen den Ehegatten
 oder zwischen einem von ihnen und dem Dritten vorgenommen worden ist,
 nicht herleiten.
 
-
 ## § 3
 
 Tritt von den in § 1 Abs. 1 genannten Voraussetzungen für die
@@ -79,7 +75,6 @@ Eintritt dieser Voraussetzung folgenden vierten Monats an. § 1 Abs. 2,
 3 Satz 2, 3 ist entsprechend anzuwenden. Die Vorschriften des § 2
 gelten mit der Maßgabe, daß die Erklärung binnen Jahresfrist nach dem
 Zeitpunkt der Überleitung abgegeben werden kann.
-
 
 ## § 4
 
@@ -106,20 +101,17 @@ Anlaß zu Zweifeln an der Richtigkeit der Angaben über den bestehenden
 Güterstand, so hat das Registergericht die erforderlichen Ermittlungen
 vorzunehmen.
 
-
 ## § 5
 
 Für die Beurkundung der Erklärung nach § 2 Abs. 1, für die Aufnahme
 der Anmeldung zum Güterrechtsregister und für die Eintragung in das
 Güterrechtsregister beträgt der Geschäftswert 3.000 Deutsche Mark.
 
-
 ## § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## § 7
 

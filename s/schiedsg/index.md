@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 77 G v. 5.5.2004 I 718
 
-
 ## Erster Abschnitt - Die Schiedsstelle
-
-
 
 ### § 1
 
@@ -41,7 +38,6 @@ Aufgaben im eigenen Wirkungskreis.
 Städte und Gemeinden, die kreisfreien Städte sowie die Stadtbezirke
 von Berlin.
 
-
 ### § 2
 
 (1) Die Aufgaben der Schiedsstelle werden von Schiedspersonen
@@ -49,7 +45,6 @@ wahrgenommen. Die Schiedsperson ist ehrenamtlich tätig.
 
 (2) Jede Schiedsstelle ist mit einem Vorsitzenden und zwei
 Stellvertretern zu besetzen.
-
 
 ### § 3
 
@@ -63,10 +58,6 @@ Fähigkeiten für das Amt geeignet sein. Sie muß das Wahlrecht besitzen.
 
 -   wer nicht im Bereich der Schiedsstelle wohnt.
 
-
-
-
-
 ### § 4
 
 (1) Die Schiedsperson wird als Vorsitzender oder Stellvertreter einer
@@ -74,7 +65,6 @@ Schiedsstelle von der Gemeindevertretung auf fünf Jahre gewählt.
 
 (2) Das Amt der Schiedsperson endet vorzeitig, wenn die Schiedsstelle
 aufgelöst wird.
-
 
 ### § 5
 
@@ -93,13 +83,11 @@ der Gemeindeverwaltung schriftlich mitzuteilen.
 versagt wird, ist zu begründen und dem Bürger sowie dem Leiter der
 Gemeindeverwaltung schriftlich mitzuteilen.
 
-
 ### § 6
 
 Die Schiedsperson wird vom Direktor des Kreisgerichts in ihr Amt
 berufen und verpflichtet, ihre Aufgaben gewissenhaft und unparteiisch
 zu erfüllen.
-
 
 ### § 7
 
@@ -127,7 +115,6 @@ Amtes.
 (3) Über die Befugnis zur Ablehnung oder Niederlegung des Amtes
 entscheidet der Direktor des Kreisgerichts.
 
-
 ### § 8
 
 (1) Die Schiedsperson ist ihres Amtes zu entheben, wenn die
@@ -151,7 +138,6 @@ Schiedsperson
 Kreisgerichts nach Anhörung der Schiedsperson und des Leiters der
 Gemeindeverwaltung der Präsident des Bezirksgerichts.
 
-
 ### § 9
 
 (1) Die Tätigkeit der Schiedsperson im Schlichtungsverfahren wird von
@@ -162,14 +148,12 @@ fach- und zeitgerechten Durchführung beaufsichtigt.
 Direktors des Kreisgerichts, soweit es ihre Tätigkeit im
 Rechtspflegebereich betrifft.
 
-
 ### § 10
 
 Der Vorsitzende der Schiedsstelle führt ein Protokollbuch und ein
 Kassenbuch sowie eine Sammlung der Kostenrechnungen. Abgeschlossene
 Bücher hat er unverzüglich bei dem Direktor des Kreisgerichts
 einzureichen.
-
 
 ### § 11
 
@@ -180,7 +164,6 @@ ihr amtlich bekanntgeworden sind, Verschwiegenheit zu wahren.
 (2) Über Angelegenheiten, über die Verschwiegenheit zu wahren ist,
 darf die Schiedsperson nur mit Genehmigung des Direktors des
 Kreisgerichts aussagen.
-
 
 ### § 12
 
@@ -200,10 +183,7 @@ gemeindefreie Gebiete dem Bereich einer Schiedsstelle angeschlossen,
 so werden die Sachkosten der Schiedsstelle nach Maßgabe der
 Einwohnerzahl geteilt.
 
-
 ## Zweiter Abschnitt - Das Schlichtungsverfahren in bürgerlichen Rechtsstreitigkeiten
-
-
 
 ### § 13
 
@@ -211,7 +191,6 @@ In bürgerlichen Rechtsstreitigkeiten findet das Schlichtungsverfahren
 über vermögensrechtliche Ansprüche statt, soweit nicht die
 Schiedsstellen für Arbeitsrecht oder die Kammern für Arbeitsrecht der
 Kreisgerichte zuständig sind.
-
 
 ### § 14
 
@@ -224,7 +203,6 @@ bestimmten Besetzung tätig. Wenn es im Interesse der gütlichen
 Beilegung des Rechtsstreits geboten erscheint, kann eine Schiedsperson
 die Verhandlung allein führen.
 
-
 ### § 15
 
 (1) Zuständig ist die Schiedsstelle, in deren Bereich der
@@ -235,13 +213,11 @@ schriftlich oder zu Protokoll der Schiedsstelle eines anderen Bereichs
 vereinbaren, daß das Schlichtungsverfahren vor dieser Schiedsstelle
 stattfindet.
 
-
 ### § 16
 
 Das Schlichtungsverfahren wird in deutscher Sprache geführt; mit
 Einvernehmen der Parteien kann die Verhandlung in einer anderen
 Sprache geführt werden.
-
 
 ### § 17
 
@@ -255,7 +231,6 @@ in Angelegenheiten einer Person, die mit ihr in gerader Linie verwandt
 oder verschwägert ist;
 in Angelegenheiten, in welchen sie als Prozeßbevollmächtigte oder
 Beistand einer Partei bestellt ist oder war.
-
 
 ### § 18
 
@@ -273,7 +248,6 @@ der Rechtsstreit bei einer von berufsständigen Körperschaften oder von
 vergleichbaren Organisationen eingerichteten Schieds-, Schlichtungs-
 oder Einigungsstellen anhängig ist.
 
-
 ### § 19
 
 Die Schiedsstelle kann den Antrag auf Einleitung eines
@@ -285,14 +259,12 @@ Verfahrensgestaltung zu erwarten ist;
 der Antrag erkennbar ohne Einigungsabsicht oder sonst offensichtlich
 mißbräuchlich gestellt ist.
 
-
 ### § 20
 
 Zu einer amtlichen Tätigkeit außerhalb des Bereichs der Schiedsstelle
 ist die Schiedsperson nur befugt, wenn die Amtsräume außerhalb des
 Bereichs der Schiedsstelle liegen oder der Augenschein eingenommen
 werden soll.
-
 
 ### § 21
 
@@ -305,7 +277,6 @@ die Antragsgegnerin nicht widerspricht.
 so bedarf ein erneuter Antrag in derselben Sache der schriftlichen
 Zustimmung des Antragsgegners oder der Antragsgegnerin. Die Zustimmung
 ist bei der Antragstellung vorzulegen.
-
 
 ### § 22
 
@@ -321,7 +292,6 @@ kann der Antrag auch bei der Schiedsstelle, in dessen Bereich der
 Antragsteller oder die Antragstellerin wohnt, zu Protokoll gegeben
 werden. Das Protokoll ist der zuständigen Schiedsstelle unverzüglich
 zu übermitteln.
-
 
 ### § 23
 
@@ -350,7 +320,6 @@ sonstiger wichtiger Gründe entschuldigen. Sie hat ihr Nichterscheinen
 der Schiedsstelle unverzüglich anzuzeigen und dabei die
 Entschuldigungsgründe glaubhaft zu machen. Hebt die Schiedsstelle den
 Termin nicht auf, so hat sie das der Partei mitzuteilen.
-
 
 ### § 24
 
@@ -395,7 +364,6 @@ unentschuldigt ferngeblieben ist, vermerkt die Schiedsstelle die
 Beendigung des Schlichtungsverfahrens. Andernfalls beraumt sie einen
 neuen Termin an.
 
-
 ### § 25
 
 (1) War der Betroffene ohne Verschulden gehindert, die Frist nach § 24
@@ -418,11 +386,9 @@ nicht anfechtbar.
 (4) Für das Verfahren werden Kosten nicht erhoben. Auslagen der
 Parteien werden nicht erstattet.
 
-
 ### § 26
 
 Für die Berechnung der Fristen gilt § 222 der Zivilprozeßordnung.
-
 
 ### § 27
 
@@ -430,14 +396,12 @@ Die Verhandlung vor der Schiedsstelle ist mündlich und nicht
 öffentlich. Sie ist möglichst ohne Unterbrechung zu Ende zu führen;
 ein Termin zur Fortsetzung der Verhandlung ist sofort zu bestimmen.
 
-
 ### § 28
 
 Die Vertretung natürlicher Personen durch Bevollmächtigte in der
 Schlichtungsverhandlung ist nicht zulässig. Eltern als gesetzliche
 Vertreter eines Kindes können einander mit einer schriftlichen
 Vollmacht vertreten.
-
 
 ### § 29
 
@@ -449,7 +413,6 @@ zurückgewiesen werden dürfen Rechtsanwälte und Beistände von Personen,
 die nicht lesen oder schreiben können, die die deutsche Sprache nicht
 beherrschen oder die blind, taub oder stumm sind.
 
-
 ### § 30
 
 (1) Zeugen und Sachverständige, die freiwillig erschienen sind, können
@@ -459,7 +422,6 @@ auch der Augenschein genommen werden.
 (2) Zur Beeidigung von Zeugen und Sachverständigen, zur eidlichen
 Parteivernehmung sowie zur Entgegennahme von eidesstattlichen
 Versicherungen ist die Schiedsperson nicht befugt.
-
 
 ### § 31
 
@@ -486,7 +448,6 @@ Versicherungen ist die Schiedsperson nicht befugt.
 (3) Kommt ein Vergleich nicht zustande, so ist hierüber ein kurzer
 Vermerk aufzunehmen.
 
-
 ### § 32
 
 (1) Das Protokoll ist den Parteien vorzulesen oder zur Durchsicht
@@ -500,7 +461,6 @@ ein Vergleich wirksam.
 (3) Erklärt eine Partei, daß sie nicht schreiben könne, so muß die
 Schiedsperson das Handzeichen der schreibunkundigen Person durch einen
 besonderen Vermerk beglaubigen.
-
 
 ### § 33
 
@@ -523,7 +483,6 @@ vermerken, wann und für wen die Ausfertigung erteilt worden ist.
 so wird die Ausfertigung von dem Urkundsbeamten der Geschäftsstelle
 erteilt.
 
-
 ### § 34
 
 (1) Aus dem vor einer Schiedsstelle geschlossenen Vergleich findet die
@@ -542,14 +501,9 @@ ist. Das Kreisgericht benachrichtigt die Schiedsstelle von der
 Erteilung der Vollstreckungsklausel, wenn es das Protokoll nicht
 verwahrt.
 
-
 ## Dritter Abschnitt - Das Schlichtungsverfahren in Strafsachen
 
-
-
 ### - - Das Sühneverfahren vor Erhebung der Privatklage
-
-
 
 #### § 35
 
@@ -561,7 +515,6 @@ Vergehen.
 durchgeführt. Für dieses Verfahren gelten die Vorschriften des 2.
 Abschnitts, soweit in den §§ 36 bis 39 keine abweichenden Bestimmungen
 getroffen sind.
-
 
 #### § 36
 
@@ -580,13 +533,11 @@ eine schriftliche Vollmacht vor.
 sofortigen Beschwerde nach den Vorschriften der Strafprozeßordnung
 anfechten.
 
-
 #### § 37
 
 Die Schiedsstelle darf den Sühneversuch nur ablehnen, wenn die
 Parteien auch nach Unterbrechung oder Vertagung der
 Schlichtungsverhandlung ihre Identität nicht nachweisen.
-
 
 #### § 38
 
@@ -594,7 +545,6 @@ Hat der Antragsgegner oder die Antragsgegnerin einen gesetzlichen
 Vertreter, so stellt die Schiedsstelle auch diesem die
 Terminsnachricht zu. Der Vertreter ist als Beistand zur
 Schlichtungsverhandlung zugelassen.
-
 
 #### § 39
 
@@ -627,18 +577,11 @@ mit einem Dienstsiegel zu versehen. Sie hat die Straftat und den
 Zeitpunkt ihrer Begehung, das Datum der Antragstellung sowie Ort und
 Datum der Ausstellung zu enthalten.
 
-
 ### - - Das Schlichtungsverfahren zur außergerichtlichen Erledigung einer Strafsache
-
-
 
 #### (XXXX) §§ 40 bis 45 (weggefallen)
 
-
-
 ## Vierter Abschnitt - Kosten
-
-
 
 ### § 46
 
@@ -648,7 +591,6 @@ Auslagen) nur nach diesem Gesetz.
 (2) Der Vorsitzende der Schiedsstelle erledigt die Kassengeschäfte und
 erstellt die Kostenrechnungen. Er kann damit einen seiner
 Stellvertreter beauftragen.
-
 
 ### § 47
 
@@ -676,7 +618,6 @@ zur außergerichtlichen Erledigung einer Strafsache der Beschuldigte.
 des Kostenschuldners nach Absatz 2 Nrn. 1 und 3 geht der Haftung des
 Kostenschuldners nach Absatz 1 vor.
 
-
 ### § 48
 
 (1) Gebühren werden mit der Beendigung des gebührenpflichtigen
@@ -695,7 +636,6 @@ und Abschriften sowie Urkunden, die der Kostenschuldner eingereicht
 hat, kann die Schiedsstelle zurückhalten, bis die in der Angelegenheit
 entstandenen Kosten gezahlt sind.
 
-
 ### § 49
 
 (1) Die Kosten und Ordnungsgelder werden aufgrund einer von der
@@ -705,7 +645,6 @@ Kostenrechnung eingefordert.
 (2) Zahlt der Kostenschuldner nicht oder nicht vollständig innerhalb
 der Zahlungsfrist, werden die Kosten und Ordnungsgelder auf Antrag der
 Schiedsperson im Verwaltungswege beigetrieben.
-
 
 ### § 50
 
@@ -721,7 +660,6 @@ höchstens 50 Deutsche Mark erhöht werden.
 Personen am Schlichtungsverfahren beteiligt oder ist die
 antragstellende Partei zugleich Antragsgegnerin, so wird die Gebühr
 nur einmal erhoben.
-
 
 ### § 51
 
@@ -753,7 +691,6 @@ festzusetzen; § 4 Abs. 3 bis 9 des Justizvergütungs- und
 -entschädigungsgesetzes ist auf das Festsetzungsverfahren entsprechend
 anzuwenden.
 
-
 ### § 52
 
 (1) Die Schiedsstelle kann ausnahmsweise, wenn das mit Rücksicht auf
@@ -767,7 +704,6 @@ genannten, abgesehen werden.
 notwendige bare Auslagen von der Gemeinde als Sachkosten der
 Schiedsstelle zu tragen sind.
 
-
 ### § 53
 
 Über Einwendungen des Kostenschuldners gegen die Kostenrechnung oder
@@ -775,7 +711,6 @@ gegen Maßnahmen nach § 48 Abs. 2 und 4 entscheidet das Kreisgericht,
 in dessen Bereich die Schiedsstelle ihren Sitz hat, durch
 richterlichen Beschluß. Die Entscheidung ist nicht anfechtbar. Kosten
 werden nicht erhoben. Auslagen der Parteien werden nicht erstattet.
-
 
 ### § 54
 
@@ -787,10 +722,7 @@ Schiedsstelle.
 
 (3) Die Ordnungsgelder stehen der Gemeinde zu.
 
-
 ## Fünfter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 55
 
@@ -807,7 +739,6 @@ Schiedskommissionsordnung - (GBl. I Nr. 13 S. 283), zuletzt geändert
 durch Beschluß des Staatsrates der Deutschen Demokratischen Republik
 vom 3. März 1989 (GBl. I Nr. 8 S. 117) werden aufgehoben.
 
-
 ### § 56
 
 (1) Die bei Inkrafttreten dieses Gesetzes bestehenden
@@ -817,7 +748,6 @@ abweichende Regelung trifft.
 
 (2) Die Schiedsstellen in den Gemeinden sind innerhalb von 2 Monaten
 nach Inkrafttreten dieses Gesetzes zu bilden.
-
 
 ### § 57
 
@@ -830,13 +760,11 @@ in dem sie sich befinden, an das Kreisgericht abgegeben;
 vollstreckbar erklärten Entscheidungen gesellschaftlicher Gerichte
 findet die Zwangsvollstreckung statt.
 
-
 ### § 58
 
 Dieses Gesetz tritt am Tage des Inkrafttretens des Einigungsvertrages
 zwischen der Deutschen Demokratischen Republik und der Bundesrepublik
 Deutschland in Kraft.
-
 
 ### Schlußformel
 

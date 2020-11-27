@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 52 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. Abschnitt - Die Erlaubnis
-
-
 
 ### § 1
 
@@ -44,7 +40,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -184,7 +179,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -220,7 +214,6 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ### § 3
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die
@@ -234,7 +227,6 @@ Voraussetzung nach § 2 Abs. 1 Nr. 2 weggefallen ist.
 
 (3) Die Erlaubnis kann widerrufen werden, wenn nachträglich eine der
 Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
-
 
 ### § 4
 
@@ -290,7 +282,6 @@ entsprechend. Die Länder übermitteln dem Bundesministerium für
 Gesundheit die für die Erstellung dieses Berichts erforderlichen
 Ergebnisse der Auswertung.
 
-
 ### § 5
 
 (1) Das Bundesministerium für Gesundheit durch Rechtsverordnung mit
@@ -338,7 +329,6 @@ Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
-
 
 ### § 5a
 
@@ -433,7 +423,6 @@ darüber auszustellen, dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 5b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -449,7 +438,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 5c
 
 Logopädinnen oder Logopäden im Sinne des § 5a haben beim Erbringen der
@@ -459,10 +447,7 @@ diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich
 die zuständige Behörde des Niederlassungsmitgliedstaats dieses
 Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## II. Abschnitt - Zuständigkeiten
-
-
 
 ### § 6
 
@@ -488,10 +473,7 @@ des Logopäden ausübt.
 (3) Die Landesregierung bestimmt die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
 
-
 ## III. Abschnitt - Bußgeldvorschrift
-
-
 
 ### § 7
 
@@ -501,10 +483,7 @@ zuständigen Behörden.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## IV. Abschnitt - Übergangsvorschriften
-
-
 
 ### § 8
 
@@ -531,10 +510,7 @@ der Sprach- und Stimmheiltherapie tätig war, erhält beim Vorliegen der
 Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 auf Antrag die Erlaubnis
 nach § 1.
 
-
 ## V. Abschnitt - Anwendung des Verwaltungsverfahrensgesetz
-
-
 
 ### § 9
 
@@ -542,15 +518,11 @@ Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen ist das Verwaltungsverfahrensgesetz
 anzuwenden.
 
-
 ## VI. Abschnitt - Schlußvorschriften
-
-
 
 ### § 10
 
 (weggefallen)
-
 
 ### § 11
 

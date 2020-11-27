@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 23.10.2007 I 2470
 
-
 ## Erster Teil - Allgemeine Vorschriften
 
-
-
 ### Erster Abschnitt - Anwendungsbereich, Antrag und Unterlagen
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -95,7 +90,6 @@ Behörden, so hat die Genehmigungsbehörde die Prüfung der Frage, ob die
 mit den anderen Zulassungsbehörden und der Naturschutzbehörde
 vorzunehmen, deren Aufgabenbereich durch das Vorhaben berührt wird.
 
-
 #### § 1a Gegenstand der Prüfung der Umweltverträglichkeit
 
 Das Prüfverfahren nach § 1 Abs. 2 umfaßt die Ermittlung, Beschreibung
@@ -106,7 +100,6 @@ Anlage auf Menschen, einschließlich der menschlichen Gesundheit,
 Tiere, Pflanzen und die biologische Vielfalt, Boden, Wasser, Luft,
 Klima und Landschaft, Kultur- und sonstige Sachgüter, sowie die
 Wechselwirkung zwischen den vorgenannten Schutzgütern.
-
 
 #### § 2 Antragstellung
 
@@ -154,7 +147,6 @@ Erörterung soll insbesondere der Klärung dienen,
 
 Bei UVP-pflichtigen Vorhaben gilt ergänzend § 2a.
 
-
 #### § 2a Unterrichtung über voraussichtlich beizubringende Unterlagen bei UVP-pflichtigen Vorhaben
 
 (1) Sofern der Träger eines UVP-pflichtigen Vorhabens die
@@ -187,7 +179,6 @@ Sie hat diese Aufgaben im Zusammenwirken zumindest mit den anderen
 Zulassungsbehörden und der Naturschutzbehörde wahrzunehmen, deren
 Aufgabenbereich durch das Vorhaben berührt wird.
 
-
 #### § 3 Antragsinhalt
 
 Der Antrag muß enthalten
@@ -218,7 +209,6 @@ Soll die Genehmigungsbehörde zulassen, daß die Genehmigung abweichend
 von § 19 Abs. 1 und 2 des Bundes-Immissionsschutzgesetzes nicht in
 einem vereinfachten Verfahren erteilt wird, so ist dies im Antrag
 anzugeben.
-
 
 #### § 4 Antragsunterlagen
 
@@ -276,7 +266,6 @@ Genehmigungsbehörde ist, zur Entgegennahme der Unterlagen zur Prüfung
 der Umweltverträglichkeit bestimmt, hat die Genehmigungsbehörde die
 für die Prüfung der Umweltverträglichkeit erforderlichen Unterlagen
 auch der federführenden Behörde zuzuleiten.
-
 
 #### § 4a Angaben zur Anlage und zum Anlagenbetrieb
 
@@ -389,10 +378,6 @@ Absatz 1 hinaus Angaben enthalten über
     Verbrennungsanlagen für Abfälle und ähnliche brennbare Stoffe
     eingehalten werden.
 
-
-
-
-
 #### § 4b Angaben zu den Schutzmaßnahmen
 
 (1) Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21
@@ -457,7 +442,6 @@ ausreichend oder zulässig, kann die Genehmigungsbehörde die Vorlage
 einer aus sich heraus verständlichen und zusammenhängenden Darstellung
 verlangen, die für die Auslegung geeignet ist.
 
-
 #### § 4c Plan zur Behandlung der Abfälle
 
 Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21
@@ -490,10 +474,6 @@ machen zu
 6.  den vorgesehenen Maßnahmen zur Behandlung der bei einer
     Betriebseinstellung vorhandenen Abfälle.
 
-
-
-
-
 #### § 4d Angaben zur Energieeffizienz
 
 Die Unterlagen müssen Angaben über vorgesehene Maßnahmen zur sparsamen
@@ -501,7 +481,6 @@ und effizienten Energieverwendung enthalten, insbesondere Angaben über
 Möglichkeiten zur Erreichung hoher energetischer Wirkungs- und
 Nutzungsgrade, zur Einschränkung von Energieverlusten sowie zur
 Nutzung der anfallenden Energie.
-
 
 #### § 4e Zusätzliche Angaben zur Prüfung der Umweltverträglichkeit
 
@@ -530,18 +509,15 @@ Angaben für die Unterlagen nach den §§ 4 bis 4e aufgetreten sind,
 insbesondere soweit diese Schwierigkeiten auf fehlenden Kenntnissen
 und Prüfmethoden oder auf technischen Lücken beruhen.
 
-
 #### § 5 Vordrucke
 
 Die Genehmigungsbehörde kann die Verwendung von Vordrucken für den
 Antrag und die Unterlagen verlangen.
 
-
 #### § 6 Eingangsbestätigung
 
 Die Genehmigungsbehörde hat dem Antragsteller den Eingang des Antrags
 und der Unterlagen unverzüglich schriftlich zu bestätigen.
-
 
 #### § 7 Prüfung der Vollständigkeit, Verfahrensablauf
 
@@ -566,10 +542,7 @@ Antragsteller über die voraussichtlich zu beteiligenden Behörden und
 den geplanten zeitlichen Ablauf des Genehmigungsverfahrens zu
 unterrichten.
 
-
 ### Zweiter Abschnitt - Beteiligung Dritter
-
-
 
 #### § 8 Bekanntmachung des Vorhabens
 
@@ -599,7 +572,6 @@ Bekanntmachung und Auslegung erforderlich, werden die
 Einwendungsmöglichkeit und die Erörterung auf die vorgesehenen
 Änderungen beschränkt; hierauf ist in der Bekanntmachung hinzuweisen.
 
-
 #### § 9 Inhalt der Bekanntmachung
 
 (1) Die Bekanntmachung muß neben den Angaben nach § 10 Abs. 4 des
@@ -622,7 +594,6 @@ grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung nach §
 Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der
 voraussichtliche Tag der Ausgabe des Veröffentlichungsblattes oder der
 Tageszeitung, die zuletzt erscheint.
-
 
 #### § 10 Auslegung von Antrag und Unterlagen
 
@@ -665,7 +636,6 @@ oder Betriebsgeheimnisse für unberechtigt, so hat sie vor der
 Entscheidung über die Auslegung dieser Unterlagen den Antragsteller zu
 hören.
 
-
 #### § 10a Akteneinsicht
 
 Die Genehmigungsbehörde gewährt Akteneinsicht nach pflichtgemäßem
@@ -673,7 +643,6 @@ Ermessen; § 29 Abs. 1 Satz 3, Abs. 2 und 3 des
 Verwaltungsverfahrensgesetzes findet entsprechende Anwendung. Sonstige
 sich aus anderen Rechtsvorschriften ergebende Rechte auf Zugang zu
 Informationen bleiben unberührt.
-
 
 #### § 11 Beteiligung anderer Behörden
 
@@ -690,7 +659,6 @@ Vorhaben betreffenden Zulassungsverfahren Kenntnis zu verschaffen und
 auf ihre Beteiligung hinzuwirken sowie mit den für diese Verfahren
 zuständigen Behörden frühzeitig den von ihr beabsichtigten Inhalt des
 Genehmigungsbescheides zu erörtern und abzustimmen.
-
 
 #### § 11a Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
 
@@ -754,7 +722,6 @@ Gegenseitigkeit und Gleichwertigkeit erfüllt sind, kann sie eine
 (7) Genehmigungsbescheide und Aktualisierungen von Genehmigungen von
 Behörden anderer Staaten sind zugänglich zu machen.
 
-
 #### § 12 Einwendungen
 
 (1) Einwendungen können bei der Genehmigungsbehörde oder bei der
@@ -772,7 +739,6 @@ dessen Name und Anschrift vor der Bekanntgabe unkenntlich gemacht
 werden, wenn diese zur ordnungsgemäßen Durchführung des
 Genehmigungsverfahrens nicht erforderlich sind; auf diese Möglichkeit
 ist in der öffentlichen Bekanntmachung hinzuweisen.
-
 
 #### § 13 Sachverständigengutachten
 
@@ -808,10 +774,7 @@ Absatzes 1; dies gilt auch für Gutachten, die von einem
 Sachverständigen erstellt werden, der den Anforderungen des § 29a Abs.
 1 Satz 2 des Bundes-Immissionsschutzgesetzes entspricht.
 
-
 ### Dritter Abschnitt - Erörterungstermin
-
-
 
 #### § 14 Zweck
 
@@ -825,14 +788,12 @@ Einwendungen zu erläutern.
 Einwendungsfrist bei den in § 12 Abs. 1 genannten Behörden eingegangen
 sind.
 
-
 #### § 15 Besondere Einwendungen
 
 Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
 sind im Erörterungstermin nicht zu behandeln; sie sind durch
 schriftlichen Bescheid auf den Rechtsweg vor den ordentlichen
 Gerichten zu verweisen.
-
 
 #### § 16 Wegfall
 
@@ -857,7 +818,6 @@ Gerichten zu verweisen.
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
-
 #### § 17 Verlegung
 
 (1) Die Genehmigungsbehörde kann den bekanntgemachten
@@ -870,7 +830,6 @@ erhoben haben, sind von der Verlegung des Erörterungstermins zu
 benachrichtigen. Sie können in entsprechender Anwendung des § 10 Abs.
 3 Satz 1 des Bundes-Immissionsschutzgesetzes durch öffentliche
 Bekanntmachung benachrichtigt werden.
-
 
 #### § 18 Verlauf
 
@@ -905,7 +864,6 @@ wurden, können innerhalb eines Monats nach Aufhebung des Termins ihre
 Einwendungen gegenüber der Genehmigungsbehörde schriftlich erläutern;
 hierauf sollen die Anwesenden bei Aufhebung des Termins hingewiesen
 werden.
-
 
 #### § 19 Niederschrift
 
@@ -943,10 +901,7 @@ vor, ist die Löschung nach Eintritt der Unwirksamkeit durchzuführen.
 Einwendungen erhoben hat, eine Abschrift der Niederschrift zu
 überlassen.
 
-
 ### Vierter Abschnitt - Genehmigung
-
-
 
 #### § 20 Entscheidung
 
@@ -1016,7 +971,6 @@ sind der Antragsteller und die Personen, die Einwendungen erhoben
 haben, hiervon zu benachrichtigen. § 10 Abs. 8 Satz 1 des Bundes-
 Immissionsschutzgesetzes gilt entsprechend.
 
-
 #### § 21 Inhalt des Genehmigungsbescheids
 
 (1) Der Genehmigungsbescheid muß enthalten
@@ -1085,10 +1039,6 @@ Angaben enthalten über
     Abfällen, insbesondere an polychlorierten Biphenylen (PCB),
     Pentachlorphenol (PCP), Chlor, Fluor, Schwefel und Schwermetallen.
 
-
-
-
-
 #### § 21a Öffentliche Bekanntmachung
 
 Unbeschadet des § 10 Abs. 7 und 8 Satz 1 des Bundes-
@@ -1100,10 +1050,7 @@ Immissionsschutzgesetzes gelten entsprechend. In der öffentlichen
 Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine
 Begründung eingesehen werden können.
 
-
 ## Zweiter Teil - Besondere Vorschriften
-
-
 
 ### § 22 Teilgenehmigung
 
@@ -1139,7 +1086,6 @@ Umweltverträglichkeitsprüfung; für die dem Antrag zur Prüfung der
 Umweltverträglichkeit beizufügenden Unterlagen nach den §§ 4 bis 4e
 sowie die Auslegung dieser Unterlagen gelten die Absätze 1 und 2
 entsprechend.
-
 
 ### § 23 Vorbescheid
 
@@ -1196,7 +1142,6 @@ beantragt wird, enthalten.
 
 (4) § 22 gilt entsprechend.
 
-
 ### § 23a Raumordnungsverfahren und Genehmigungsverfahren
 
 (1) Die Genehmigungsbehörde hat die im Raumordnungsverfahren oder
@@ -1212,14 +1157,12 @@ genannten Schutzgüter von den Anforderungen der §§ 2a, 4 bis 4e, 11,
 11a und 20 Abs. 1a insoweit abgesehen werden, als diese
 Verfahrensschritte bereits im raumordnerischen Verfahren erfolgt sind.
 
-
 ### § 24 Vereinfachtes Verfahren
 
 In dem vereinfachten Verfahren sind § 4 Abs. 3, die §§ 8 bis 10a, §
 11a Abs. 4, 12, 14 bis 19 und die Vorschriften, die die Durchführung
 der Umweltverträglichkeitsprüfung betreffen, nicht anzuwenden. § 11
 gilt sinngemäß.
-
 
 ### § 24a Zulassung vorzeitigen Beginns
 
@@ -1277,13 +1220,7 @@ enthalten
     ist, um die Erfüllung der Pflichten des Trägers des Vorhabens zu
     sichern.
 
-
-
-
-
 ## Dritter Teil - Schlußvorschriften
-
-
 
 ### § 25 Übergangsvorschrift
 
@@ -1292,11 +1229,9 @@ begonnen worden sind, sind nach den Vorschriften der geänderten
 Verordnung zu Ende zu führen. Eine Wiederholung von
 Verfahrensabschnitten ist nicht erforderlich.
 
-
 ### § 26 Berlin-Klausel
 
 (gegenstandslos)
-
 
 ### § 27
 

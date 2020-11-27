@@ -27,7 +27,6 @@ Geändert durch
     der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr (ABl. L
     235 vom 17.9.1996, S. 59-75).
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe c, Nummer 2 Buchstabe a,
@@ -41,14 +40,12 @@ des Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) eingefügt worden sind,
 verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung
 nach Anhörung der zuständigen obersten Landesbehörden:
 
-
 ## § 1 Anwendungsbereich
 
 Die Verordnung regelt die Voraussetzungen, bei deren Erfüllen
 bestimmte Fahrzeuge und Fahrzeugkombinationen mit Überlänge am
 Straßenverkehr abweichend von den Vorschriften der Straßenverkehrs-
 Ordnung und der Straßenverkehrs-Zulassungs-Ordnung teilnehmen dürfen.
-
 
 ## § 2 Streckennetz
 
@@ -60,7 +57,6 @@ Maßgabe der folgenden Vorschriften zulässig.
 Sattelkraftfahrzeuge in den Ländern Bayern, Hamburg, Hessen,
 Niedersachsen, Sachsen, Schleswig-Holstein und Thüringen das gesamte
 Streckennetz der jeweiligen Länder nutzen.
-
 
 ## § 3 Fahrzeuge
 
@@ -80,10 +76,6 @@ dürfen am Straßenverkehr teilnehmen:
 
 
 5.  Lastkraftwagen mit einem Anhänger.
-
-
-
-
 
 ## § 4 Abmessungen
 
@@ -110,7 +102,6 @@ Ordnung die höchstzulässige Gesamtlänge bis zu einer Gesamtlänge von
 32a der Straßenverkehrs-Zulassungs-Ordnung hinter Kraftfahrzeugen mehr
 als ein Anhänger und hinter Sattelkraftfahrzeugen ein Anhänger
 mitgeführt werden.
-
 
 ## § 5 Technische Anforderungen an die eingesetzten Fahrzeuge
 
@@ -181,10 +172,6 @@ Einrichtungen ausgerüstet sind:
     zuletzt durch die Verordnung (EU) Nr. 1266/2009 vom 16. Dezember 2009
     (ABl. L 339 vom 22.12.2009, S. 3) geändert worden ist.
 
-
-
-
-
 ## § 6 Kombinierter Verkehr
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am
@@ -199,7 +186,6 @@ Transport auf einem Teil der Strecke mit der Eisenbahn, dem Binnen-,
 Küsten- oder Seeschiff und auf dem anderen Teil mit dem Kraftfahrzeug
 durchgeführt wird.
 
-
 ## § 7 Übereinstimmungsnachweis
 
 Die Einhaltung der in den §§ 4 und 5 festgelegten Voraussetzungen
@@ -208,7 +194,6 @@ sind durch ein Gutachten eines amtlich anerkannten Sachverständigen
 für den Kraftfahrzeugverkehr nachzuweisen; das Gutachten oder dessen
 Kopie ist während der Fahrt mitzuführen und Kontrollberechtigten auf
 Verlangen auszuhändigen.
-
 
 ## § 8 Ladung
 
@@ -228,7 +213,6 @@ Beförderung gefährlicher Güter auf der Straße (ADR) vom 30. September
 1957 (BGBl. 1969 II S. 1491) in der jeweils geltenden Fassung
 kennzeichnungspflichtig sind.
 
-
 ## § 9 Überholen
 
 (1) Abweichend von § 5 Absatz 1 und 2 der Straßenverkehrs-Ordnung ist
@@ -239,7 +223,6 @@ unzulässig.
 Zügen, die nicht schneller als 25 km/h fahren können oder dürfen,
 zulässig.
 
-
 ## § 10 Transportweg
 
 Fahrzeugkombinationen mit Überlänge gemäß § 3 Nummer 2 bis 5 dürfen am
@@ -247,7 +230,6 @@ Straßenverkehr nur teilnehmen, wenn jeweils vor Fahrtantritt sich der
 Fahrer davon überzeugt hat, dass keine Sperrungen und Umleitungen auf
 der zugelassenen Transportstrecke vorliegen, die ein Verlassen der in
 der Anlage festgelegten Strecken erfordern.
-
 
 ## § 11 Persönliche Anforderungen an die Fahrer
 
@@ -274,7 +256,6 @@ Rückwärtsfahren besonders zu schulen. Eine Bescheinigung über die
 Teilnahme an der Einweisung ist mitzuführen und Kontrollberechtigten
 auf Verlangen auszuhändigen.
 
-
 ## § 12 Wissenschaftliche Begleitung
 
 (1) Fahrzeuge und Fahrzeugkombinationen mit Überlänge dürfen am
@@ -289,13 +270,11 @@ sind Angaben zum Unternehmen (Sitz), zum eingesetzten Fahrzeug oder
 zur eingesetzten Fahrzeugkombination (Typ, Erstzulassungsdatum) und
 zur Strecke (Abfahrts- und Zielort) anzuzeigen.
 
-
 ## § 13 Inkrafttreten und Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 (2) Sie tritt mit Ablauf des 31. Dezember 2016 außer Kraft.
-
 
 ## Anlage (zu § 2 Absatz 1)
 

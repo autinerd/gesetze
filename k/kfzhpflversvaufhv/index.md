@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1223
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 bis 3 des Pflichtversicherungsgesetzes in der
 Fassung des Gesetzes vom 5. April 1965 (BGBl. I S. 213) verordnet das
 Bundesministerium für Wirtschaft:
-
 
 ## Art 1
 
@@ -31,7 +28,6 @@ Haftpflichtversicherung vom 5. Dezember 1984 (BGBl. I S. 1437),
 zuletzt geändert durch die Verordnung vom 11. Juni 1993 (BGBl. I S.
 919), tritt mit Ablauf des 30. Juni 1994 außer Kraft, soweit Artikel 2
 nichts anderes bestimmt.
-
 
 ## Art 2
 
@@ -66,10 +62,6 @@ Verordnung betriebene Versicherungsgeschäft:
 4.  Der Genehmigungsbehörde ist bis zum 30. Juni 1995 ein Bericht über die
     Verteilung der aufgrund der Abrechnung nach Nummer 3 zu verwendenden
     Beträge vorzulegen.
-
-
-
-
 
 ## Art 3
 

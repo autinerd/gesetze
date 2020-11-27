@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 20.12.2001 I 3955
 
-
 ## § 1
 
 Der Erblastentilgungsfonds übernimmt zur Regelung der Altschulden für
@@ -28,7 +27,6 @@ Währungsumstellung mbH Berlin am 31. Dezember 1996 als Forderungen zu
 Buche stehende Verbindlichkeiten für den Bau gesellschaftlicher
 Einrichtungen und sonstige Finanzierungsaufwendungen in Höhe von
 zusammen 8.389.768.897,33 Deutsche Mark.
-
 
 ## § 2
 
@@ -42,7 +40,6 @@ auf Grund von Rechtsvorschriften der Deutschen Demokratischen Republik
 zur Finanzierung des Baues gesellschaftlicher Einrichtungen entstanden
 sind, befreit. Soweit die Länder von diesen Forderungen betroffen
 sind, tritt die befreiende Wirkung auch für sie ein.
-
 
 ## § 3
 
@@ -89,7 +86,6 @@ Bundesministerium der Finanzen jeweils um bis zu 34.936.056 Deutsche
 Mark abgesenkt werden. Diese Beträge werden auf die jeweiligen Anteile
 der Länder an deren Beitrag zu den Zins- und Tilgungsleistungen nach
 Absatz 1 angerechnet.
-
 
 ## § 4
 

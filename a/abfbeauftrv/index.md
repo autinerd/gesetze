@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 1913
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 11a Abs. 1 Satz 3 des Abfallbeseitigungsgesetzes in
 der Fassung der Bekanntmachung vom 5. Januar 1977 (BGBl. I S. 41) wird
 mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Pflicht zur Bestellung von Betriebsbeauftragten für Abfall
 
@@ -117,7 +114,6 @@ Betriebsbeauftragten für Abfall zu bestellen:
 Satz 1 gilt nicht für Anlagen in denen Abfälle des § 2 Abs. 2 des
 Abfallbeseitigungsgesetzes nicht anfallen.
 
-
 ## § 2 Mehrere Betriebsbeauftragte für Abfall
 
 Die zuständige Behörde kann anordnen, daß der Betreiber einer der in §
@@ -125,7 +121,6 @@ Die zuständige Behörde kann anordnen, daß der Betreiber einer der in §
 bestellen hat; die Zahl der Betriebsbeauftragten für Abfall ist so zu
 bemessen, daß eine sachgemäße Erfüllung der in § 11 b des
 Abfallbeseitigungsgesetzes bezeichneten Aufgaben gewährleistet ist.
-
 
 ## § 3 Gemeinsamer Betriebsbeauftragter für Abfall
 
@@ -135,7 +130,6 @@ Betriebsbeauftragten für Abfall bestellen, wenn hierdurch eine
 sachgemäße Erfüllung der in § 11b des Abfallbeseitigungsgesetzes
 bezeichneten Aufgaben nicht gefährdet wird.
 
-
 ## § 4 Nicht betriebsangehöriger Betriebsbeauftragter für Abfall
 
 Betreibern von in § 1 bezeichneten Anlagen soll die zuständige Behörde
@@ -143,7 +137,6 @@ auf Antrag die Bestellung eines oder mehrerer nicht
 betriebsangehöriger Betriebsbeauftragter für Abfall gestatten, wenn
 hierdurch eine sachgemäße Erfüllung der in § 11b des
 Abfallbeseitigungsgesetzes bezeichneten Aufgaben nicht gefährdet wird.
-
 
 ## § 5 Betriebsbeauftragter für Abfall in einem Konzern
 
@@ -163,7 +156,6 @@ Abfallbeseitigungsgesetzes bestellt werden, die über die erforderliche
 personelle und sachliche Ausstattung im Sinne des § 11c Abs. 4 des
 Abfallbeseitigungsgesetzes verfügen.
 
-
 ## § 6 Ausnahmevorschrift
 
 Die zuständige Behörde hat auf Antrag den Betreiber einer in § 1
@@ -175,18 +167,15 @@ und Befugnisse im Sinne des § 11b Abs. 1 des
 Abfallbeseitigungsgesetzes die Bestellung eines Betriebsbeauftragten
 für Abfall nicht erforderlich ist.
 
-
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 33 des Abfallbeseitigungsgesetzes auch im Land
 Berlin.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
-
 
 ## Schlußformel
 

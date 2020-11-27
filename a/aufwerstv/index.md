@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2008 I 2959
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Gesetzes über die Sozialversicherung
 Behinderter in geschützten Einrichtungen vom 7. Mai 1975
 (Bundesgesetzbl. I S. 1061) wird im Einvernehmen mit dem
 Bundesminister der Finanzen mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Grundsatz
 
@@ -45,12 +43,10 @@ der Einrichtungen oder der Integrationsprojekte gezahlt haben.
 nach Landesrecht zuständige Stelle zuständig. Die Aufgaben des Bundes
 nimmt das Bundesversicherungsamt wahr.
 
-
 ## § 2 Abrechnung
 
 Die zu erstattenden Beträge werden nachträglich nach Einzelfällen
 abgerechnet. Abrechnungszeitraum ist das Kalenderjahr.
-
 
 ## § 3 Verfahren
 
@@ -97,7 +93,6 @@ nicht möglich ist, sind sie zurückzuzahlen.
 Integrationsprojekte können ein von Absatz 2 abweichendes Verfahren
 vereinbaren.
 
-
 ## § 4
 
 (1) Die nach Landesrecht zuständige Stelle teilt dem
@@ -123,11 +118,9 @@ Beträgen zu belasten. Die Belastung ist spätestens innerhalb eines
 Monats nach dem jeweiligen Zahlungstermin vorzunehmen. Überzahlungen
 sind unverzüglich auszugleichen.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 2. Juli 1975 in Kraft.
-
 
 ## Schlußformel
 

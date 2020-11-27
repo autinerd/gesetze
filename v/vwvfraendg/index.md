@@ -15,18 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 656
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 5 (weggefallen)
 
 -
-
 
 ## Art 6 Inkrafttreten
 

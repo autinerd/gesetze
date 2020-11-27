@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1963, 397
 
-
-
 ## (XXXX)
 
 "Am 17. Juni jährt sich zum zehnten Male der Tag der Volkserhebung in

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 2539
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ und unter Berücksichtigung des § 28 des
 Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S.
 2658) wird im Einvernehmen mit dem Bundesminister für Wirtschaft
 verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -70,7 +67,6 @@ wahrzunehmen:
 Geprüfter Baumaschinenführer der Fachrichtung Hochbau oder Erd- und
 Tiefbau oder Straßenbau.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -97,7 +93,6 @@ Baumaschinenführer dienlich sind.
 Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder
 auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und
 Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Inhalt und Durchführung der Prüfung
 
@@ -138,7 +133,6 @@ Prüfungsfächern gute schriftliche Leistungen erbracht hat.
 werden; dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr
 nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu
 beginnen.
-
 
 ## § 4 Fachtheoretischer Teil, Fachrichtung Hochbau
 
@@ -187,10 +181,6 @@ Anschlagketten, Traversen, Betonkübel, Steinkörbe und Paletten.
 
 
 3.  Kenntnisse über persönliche Schutzausrüstungen.
-
-
-
-
 
 ## § 5 Fachtheoretischer Teil, Fachrichtung Erd- und Tiefbau
 
@@ -246,10 +236,6 @@ können geprüft werden:
 
 
 3.  Kenntnisse über persönliche Schutzausrüstungen.
-
-
-
-
 
 ## § 6 Fachtheoretischer Teil, Fachrichtung Straßenbau
 
@@ -313,10 +299,6 @@ Bindemittel, Zuschläge und Steine.
 
 3.  Kenntnisse über persönliche Schutzausrüstungen.
 
-
-
-
-
 ## § 7 Fachpraktischer Teil, Fachrichtung Hochbau
 
 (1) Im fachpraktischen Teil der Fachrichtung Hochbau ist in folgenden
@@ -342,7 +324,6 @@ einfacher Störungen an Hochbaugeräten" muß der Prüfungsteilnehmer
 nachweisen, daß er Störungen an einem Baukran, einer Betonmischanlage
 oder Betonpumpe beurteilen und einfache Störungen an einem dieser
 Geräte beseitigen kann. Die Prüfung dauert in der Regel 60 Minuten.
-
 
 ## § 8 Fachpraktischer Teil, Fachrichtung Erd- und Tiefbau
 
@@ -371,7 +352,6 @@ Planierraupe oder einem Radlader beurteilen und einfache Störungen an
 einem dieser Geräte beseitigen kann. Die Prüfung dauert in der Regel
 60 Minuten.
 
-
 ## § 9 Fachpraktischer Teil, Fachrichtung Straßenbau
 
 (1) Im fachpraktischen Teil der Fachrichtung Straßenbau ist in
@@ -399,7 +379,6 @@ Bodenverdichtungsgerät oder einem Grader beurteilen und einfache
 Störungen an einem dieser Geräte beseitigen kann. Die Prüfung dauert
 in der Regel 60 Minuten.
 
-
 ## § 10 Anrechnung anderer Prüfungsleistungen
 
 (1) Von der Ablegung der Prüfung in einem Prüfungsfach oder mehreren
@@ -420,7 +399,6 @@ Angehörige der Bundeswehr freizustellen, wenn sie in der Bundeswehr
 eine Prüfung zum Erwerb eines Berechtigungsscheines für eine
 vergleichbare Pioniermaschine mit Erfolg abgelegt haben und danach
 mindestens ein Jahr als Pioniermaschinenführer tätig waren.
-
 
 ## § 11 Bestehen der Prüfung
 
@@ -448,7 +426,6 @@ erzielten Prüfungsnoten hervorgehen müssen. Im Falle der Freistellung
 nach § 10 sind Ort, Datum und Bezeichnung des Prüfungsgremiums der
 anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 12 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -461,23 +438,19 @@ ausgereicht haben und er sich innerhalb von zwei Jahren, gerechnet vom
 Tag der Beendigung der nichtbestandenen Prüfung an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 13 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage 1 Muster
 
@@ -509,7 +482,6 @@ Unterschrift
 (Siegel der zuständigen Stelle)
 1) Angabe der Fachrichtung Hochbau oder Erd- und Tiefbau oder Straßen-
 bau.
-
 
 ## Anlage 2 Muster
 
@@ -574,7 +546,6 @@ Unterschrift
 entsprechend § 4 Abs. 1, § 5 Abs. 1 und § 6 Abs. 1.
 2) Benennung der Prüfungsfächer in der jeweiligen Fachrichtung
 entsprechend § 7 Abs. 1, § 8 Abs. 1 und § 9 Abs. 1.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

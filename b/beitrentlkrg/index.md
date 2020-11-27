@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1631
 
-
-
 ## § 1 Beitragsfestschreibung
 
 (1) Bis zum 31. Dezember 1996 sind Beitragssatzanhebungen der
@@ -34,7 +32,6 @@ werden, entsprechend.
 Veränderungen der Verpflichtungen oder Ansprüche im
 Risikostrukturausgleich Beitragssatzanhebungen zwingend erforderlich
 sind.
-
 
 ## § 2 Beitragsverminderung
 

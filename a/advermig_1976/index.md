@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 10.12.2008 I 2403
 
-
 ## Erster Abschnitt - Adoptionsvermittlung
-
-
 
 ### § 1 Adoptionsvermittlung
 
@@ -36,7 +33,6 @@ Nachweis der Gelegenheit, ein Kind anzunehmen oder annehmen zu lassen,
 und zwar auch dann, wenn das Kind noch nicht geboren oder noch nicht
 gezeugt ist. Die Ersatzmuttervermittlung gilt nicht als
 Adoptionsvermittlung.
-
 
 ### § 2 Adoptionsvermittlungsstellen
 
@@ -63,7 +59,6 @@ sind.
 (3) Die Adoptionsvermittlungsstellen der Jugendämter und die zentralen
 Adoptionsstellen der Landesjugendämter arbeiten mit den in Absatz 2
 genannten Adoptionsvermittlungsstellen partnerschaftlich zusammen.
-
 
 ### § 2a Internationale Adoptionsvermittlung
 
@@ -150,7 +145,6 @@ Daten ist zu protokollieren. Die Daten zu einem einzelnen
 Vermittlungsfall sind 30 Jahre nach Eingang der letzten Meldung zu dem
 betreffenden Vermittlungsfall zu löschen.
 
-
 ### § 3 Persönliche und fachliche Eignung der Mitarbeiter
 
 (1) Mit der Adoptionsvermittlung dürfen nur Fachkräfte betraut werden,
@@ -168,7 +162,6 @@ Teilzeitfachkräften zu besetzen; diese Fachkräfte dürfen nicht
 überwiegend mit vermittlungsfremden Aufgaben befasst sein. Die
 zentrale Adoptionsstelle des Landesjugendamtes kann Ausnahmen
 zulassen.
-
 
 ### § 4 Anerkennung als Adoptionsvermittlungsstelle
 
@@ -241,7 +234,6 @@ Zweck erforderlich ist,
 (5) Widerspruch und Anfechtungsklage gegen Verfügungen der zentralen
 Adoptionsstelle haben keine aufschiebende Wirkung.
 
-
 ### § 5 Vermittlungsverbote
 
 (1) Die Adoptionsvermittlung ist nur den nach § 2 Abs. 1 befugten
@@ -282,7 +274,6 @@ insbesondere dadurch, dass ein Mann die Vaterschaft für ein Kind, das
 er nicht gezeugt hat, anerkennt. Vermittlungsbefugnisse, die sich aus
 anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
-
 ### § 6 Adoptionsanzeigen
 
 (1) Es ist untersagt, Kinder zur Annahme als Kind oder
@@ -310,7 +301,6 @@ sich auf Vermittlungstätigkeiten nach § 5 Abs. 4 Satz 1 beziehen.
 (4) Die Absätze 1 bis 3 gelten auch, wenn das Kind noch nicht geboren
 oder noch nicht gezeugt ist, es sei denn, dass sich die Erklärung auf
 eine Ersatzmutterschaft bezieht.
-
 
 ### § 7 Vorbereitung der Vermittlung
 
@@ -369,13 +359,11 @@ Bescheinigung hinzuweisen. Verweisen die Bestimmungen des
 Internationalen Privatrechts auf ausländische Sachvorschriften, so ist
 auch die maßgebende ausländische Rechtsordnung zu bezeichnen.
 
-
 ### § 8 Beginn der Adoptionspflege
 
 Das Kind darf erst dann zur Eingewöhnung bei den Adoptionsbewerbern in
 Pflege gegeben werden (Adoptionspflege), wenn feststeht, dass die
 Adoptionsbewerber für die Annahme des Kindes geeignet sind.
-
 
 ### § 9 Adoptionsbegleitung
 
@@ -396,12 +384,10 @@ Adoptionsvermittlungsstelle kann vereinbart werden, dass diese Stelle
 Ermittlungen nach Satz 1 durchführt und die Ergebnisse an die
 Adoptionsvermittlungsstelle im Sinne des Satzes 1 weiterleitet.
 
-
 ### § 9a Örtliche Adoptionsvermittlungsstelle
 
 Die Jugendämter haben die Wahrnehmung der Aufgaben nach den §§ 7 und 9
 für ihren jeweiligen Bereich sicherzustellen.
-
 
 ### § 9b Vermittlungsakten
 
@@ -422,7 +408,6 @@ das 16. Lebensjahr vollendet hat, auch diesem selbst auf Antrag unter
 Anleitung durch eine Fachkraft Einsicht zu gewähren. Die Einsichtnahme
 ist zu versagen, soweit überwiegende Belange eines Betroffenen
 entgegenstehen.
-
 
 ### § 9c Durchführungsbestimmungen
 
@@ -480,7 +465,6 @@ die Landesregierungen ausgeübt werden; die Landesregierungen können
 diese Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 übertragen.
 
-
 ### § 9d Datenschutz
 
 (1) Für die Erhebung, Verarbeitung und Nutzung personenbezogener Daten
@@ -517,7 +501,6 @@ unzulässige oder unrichtige Erhebung, Verarbeitung oder Nutzung seiner
 personenbezogenen Daten einen Schaden zu, so finden die §§ 7 und 8 des
 Bundesdatenschutzgesetzes Anwendung.
 
-
 ### § 10 Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes
 
 (1) Die Adoptionsvermittlungsstelle hat die zentrale Adoptionsstelle
@@ -538,7 +521,6 @@ Adoptionsvermittlungsstelle und die zentrale Adoptionsstelle nach
 geeigneten Adoptionsbewerbern. Sie unterrichten sich gegenseitig vom
 jeweiligen Stand ihrer Bemühungen. Im Einzelfall kann die zentrale
 Adoptionsstelle die Vermittlung eines Kindes selbst übernehmen.
-
 
 ### § 11 Aufgaben der zentralen Adoptionsstelle des Landesjugendamtes
 
@@ -570,11 +552,9 @@ beteiligen. Unterlagen der in Artikel 16 des Adoptionsübereinkommens
 genannten Art sind der zentralen Adoptionsstelle zur Prüfung
 vorzulegen.
 
-
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Ausstattung der zentralen Adoptionsstelle des Landesjugendamtes
 
@@ -584,10 +564,7 @@ Erfahrungen auf dem Gebiet der Kinderpsychologie und ein Jurist sowie
 Sozialpädagogen oder Sozialarbeiter mit mehrjähriger Berufserfahrung
 zur Verfügung stehen.
 
-
 ## Zweiter Abschnitt - Ersatzmutterschaft
-
-
 
 ### § 13a Ersatzmutter
 
@@ -607,7 +584,6 @@ und das Kind nach der Geburt Dritten zur Annahme als
 Kinder              oder zur sonstigen Aufnahme auf Dauer zu
 überlassen.
 
-
 ### § 13b Ersatzmuttervermittlung
 
 Ersatzmuttervermittlung ist das Zusammenführen von Personen, die das
@@ -617,11 +593,9 @@ mit einer Frau, die zur Übernahme einer Ersatzmutterschaft bereit ist.
 Ersatzmuttervermittlung ist auch der Nachweis der Gelegenheit zu einer
 in § 13a bezeichneten Vereinbarung.
 
-
 ### § 13c Verbot der Ersatzmuttervermittlung
 
 Die Ersatzmuttervermittlung ist untersagt.
-
 
 ### § 13d Anzeigenverbot
 
@@ -629,10 +603,7 @@ Es ist untersagt, Ersatzmütter oder Bestelleltern durch öffentliche
 Erklärungen, insbesondere durch Zeitungsanzeigen oder
 Zeitungsberichte, zu suchen oder anzubieten.
 
-
 ## Dritter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 14 Bußgeldvorschriften
 
@@ -690,11 +661,9 @@ zehntausend Deutsche Mark             , in den Fällen des Absatzes 2
 mit einer Geldbuße bis zu
 fünfzigtausend Deutsche Mark              geahndet werden.
 
-
 ### § 14a
 
 (weggefallen)
-
 
 ### § 14b Strafvorschriften gegen Ersatzmuttervermittlung
 
@@ -710,10 +679,7 @@ oder Geldstrafe.
 (3) In den Fällen der Absätze 1 und 2 werden die Ersatzmutter und die
 Bestelleltern nicht bestraft.
 
-
 ## Vierter Abschnitt - Übergangsvorschriften
-
-
 
 ### § 15 Weitergeltung der Berechtigung zur Adoptionsvermittlung
 
@@ -736,14 +702,12 @@ Ausführungsgesetzes bleiben unberührt.
 sicherzustellen, dass die Anforderungen des § 3 vom 1. Januar 2003 an
 erfüllt werden.
 
-
 ### § 16 Anzuwendendes Recht
 
 Vom Zeitpunkt des Inkrafttretens einer Änderung dieses Gesetzes an
 richtet sich die weitere Durchführung einer vor dem Inkrafttreten der
 Änderung begonnenen Vermittlung, soweit nicht anders bestimmt, nach
 den geänderten Vorschriften.
-
 
 ### (XXXX) §§ 17 bis 22 (weggefallen)
 

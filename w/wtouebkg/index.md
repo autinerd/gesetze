@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 1438
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 Zustimmung zu dem Übereinkommen zur Errichtung der Welthandelsorganisation
 
@@ -62,14 +59,9 @@ veröffentlicht.
     Mitglieder der Welthandelsorganisation können beim Sekretariat dieser
     Organisation in Genf eingesehen werden.
 
-
-
-
-
 ## (XXXX) Art 2 bis 6
 
 -
-
 
 ## Art 7 Steuerliche Privilegien
 
@@ -84,11 +76,9 @@ Welthandelsorganisation bei der Festsetzung des auf Einkommen aus
 anderen Quellen zu erhebenden Steuerbetrages berücksichtigt werden
 können.
 
-
 ## (XXXX) Art 8 und 9
 
 -
-
 
 ## Art 10 Inkrafttreten
 

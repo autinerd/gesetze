@@ -26,7 +26,6 @@ Fundstelle
     Europäischen Parlaments und des Rates vom 5. September 2007 (ABl. EU
     Nr. L 247 S. 1).
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Abs. 4 Satz 1 und 3 in Verbindung mit § 2 Abs. 10
@@ -44,7 +43,6 @@ Bundesanstalt für Finanzdienstleistungsaufsicht nach Anhörung der
 Spitzenverbände der Institute im Einvernehmen mit der Deutschen
 Bundesbank:
 
-
 ## § 1 Einreichung der Anzeigen
 
 Die Anzeigen nach § 2 Abs. 10 Satz 1 und 3 des Kreditwesengesetzes
@@ -58,7 +56,6 @@ Die Bundesanstalt teilt unverzüglich nach Eingang der Anmeldung die
 zur Verwendung des elektronischen Anzeigeverfahrens erforderlichen
 Zertifikate zu. Unmittelbar nach jeder erfolgreichen Übermittlung
 einer Anzeige erhält das haftende Unternehmen eine Bestätigung.
-
 
 ## § 2 Inhalt der Anzeigen
 
@@ -90,14 +87,12 @@ dem in § 1 vorgegebenen Verfahren einzureichen. Endet die Tätigkeit
 des vertraglich gebundenen Vermittlers für das haftende Unternehmen,
 ist der Tag der Beendigung der Tätigkeit anzuzeigen.
 
-
 ## § 3 Bestätigung der fachlichen Eignung und Zuverlässigkeit
 
 In der Anzeige nach § 2 Abs. 10 Satz 1 des Kreditwesengesetzes hat das
 haftende Unternehmen, sofern es seinen Sitz im Inland hat, zu
 bestätigen, dass der vertraglich gebundene Vermittler fachlich
 geeignet und zuverlässig ist.
-
 
 ## § 4 Inhalt des Registers
 
@@ -156,7 +151,6 @@ Kreditwesengesetzes eingestellt:
 
 (3) Weitere Angaben werden in dem Register nicht ausgewiesen.
 
-
 ## § 5 Verantwortlichkeit
 
 Das haftende Unternehmen trägt die Verantwortung für die
@@ -166,13 +160,11 @@ Vollständigkeit und Richtigkeit laufend zu prüfen. Erforderliche
 Berichtigungen sind unter Verwendung des elektronischen
 Anzeigeverfahrens vorzunehmen.
 
-
 ## § 6 Einsichtnahme in das Register
 
 Die Einsichtnahme in das öffentliche Register nach § 2 Abs. 10 Satz 6
 des Kreditwesengesetzes erfolgt ausschließlich im automatisierten
 Abrufverfahren.
-
 
 ## § 7 Dauer der Einsehbarkeit
 
@@ -180,7 +172,6 @@ Die Angaben zu dem vertraglich gebundenen Vermittler sind nach Ablauf
 des Jahres, in das die angezeigte Beendigung seiner Tätigkeit für das
 haftende Unternehmen fällt, noch weitere fünf Jahre in dem Register
 einsehbar.
-
 
 ## § 8 Übergangsvorschrift
 
@@ -194,7 +185,6 @@ Bundesanstalt in Papierform angezeigten Vermittlerverhältnisse sind
 bis zum 31. März 2008 erneut nach Maßgabe der §§ 1 bis 3 dieser
 Verordnung anzuzeigen; der Tag des Beginns der Tätigkeit muss nicht
 angegeben werden.
-
 
 ## § 9 Inkrafttreten
 

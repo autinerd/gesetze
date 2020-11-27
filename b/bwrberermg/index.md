@@ -21,7 +21,6 @@ Zuletzt geändert durch
 G aufgeh. durch
 :   Art. 3 G v. 15.7.2009 I 1798 mWv 1.1.2018
 
-
 ## Art 1
 
 (1) Das Land Baden-Württemberg kann bundesrechtliche Vorschriften auf
@@ -53,18 +52,15 @@ Kraft sind.
 
 (4) § 36 des Rechtspflegergesetzes bleibt unberührt.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art 4
 

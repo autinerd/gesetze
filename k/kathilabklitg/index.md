@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1996, 27
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Wenn eine Hilfeleistung durch die Republik Litauen in der
@@ -41,7 +37,6 @@ Bundesrepublik Deutschland auf der Grundlage der Kostenerstattung
 geleistet wird, richtet sich die Kostenträgerschaft danach, ob die
 jeweilige Hilfsmaßnahme in den Aufgabenbereich des Bundes oder der
 Länder fällt.
-
 
 ## Art 3
 

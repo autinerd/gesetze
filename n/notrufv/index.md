@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 26.11.2012 I 2347
 
-
 ## Eingangsformel
 
 Auf Grund des § 108 Abs. 2 des Telekommunikationsgesetzes vom 22. Juni
@@ -28,10 +27,7 @@ verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium des Innern und dem
 Bundesministerium für Arbeit und Soziales:
 
-
 ## § 1 (weggefallen)
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -124,10 +120,6 @@ Im Sinne dieser Verordnung ist
     Inlandsgesprächen zu einer oder mehreren Nummern des nationalen
     Telefonrufnummernplans erbringt.
 
-
-
-
-
 ## § 3 Einzugsgebiete
 
 (1) Die nach Landesrecht zuständigen Behörden legen die
@@ -185,7 +177,6 @@ in den Wirkbetrieb zu überführen.
 
 (4) Bei Änderungen der Festlegungen gelten die Absätze 1 bis 3
 entsprechend.
-
 
 ## § 4 Notrufverbindungen
 
@@ -362,10 +353,6 @@ Notrufabfragestelle gesendet werden.
     E-Call“ zeitgleich mit der Herstellung der Notrufverbindung an die
     jeweilige Notrufabfragestelle zu übermitteln.
 
-
-
-
-
 ## § 5 Anforderungen an Notrufanschlüsse
 
 Wer Notrufanschlüsse bereitstellt, hat
@@ -411,7 +398,6 @@ Bei der Umleitung von Notrufverbindungen nach Satz 1 Nummer 5 und 6
 sind der Ersatznotrufabfragestelle auch die zugehörigen Daten nach § 4
 Absatz 4 Satz 1 und Absatz 8 Nummer 3 Satz 2 oder 4 zu übermitteln.
 
-
 ## § 6 Technische Richtlinie
 
 Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und
@@ -424,7 +410,6 @@ auch technische Einzelheiten zu den Sachverhalten festgelegt werden,
 die durch die Übergangsvorschriften des § 7 Absatz 7 und 8 Satz 2
 geregelt sind. Die Technische Richtlinie ist bei Bedarf an den
 jeweiligen Stand der Technik anzupassen.
-
 
 ## § 7 Übergangsvorschriften
 
@@ -493,11 +478,9 @@ der Übermittlung der Information an die örtlich zuständige
 Notrufabfragestelle auf die Unterscheidung zwischen
 Notrufkategoriewert 6 oder 7 zu verzichten.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1006
 
-
 ## Abschnitt 1 - Sachkundenachweis
-
 
 ### § 1 Sachkundeprüfung
 
@@ -68,7 +66,6 @@ Beratungskenntnisse zu verfügen.
 Die inhaltlichen Anforderungen an die Sachkundeprüfung sind an den
 Vorgaben der Anlage 1 auszurichten.
 
-
 ### § 2 Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Abnahme der Sachkundeprüfung erfolgt durch die Industrie- und
@@ -90,7 +87,6 @@ der im Bundesgesetzblatt Teil III, Gliederungsnummer 701-1,
 veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 2 des
 Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) geändert worden ist,
 bleibt unberührt.
-
 
 ### § 3 Verfahren
 
@@ -241,7 +237,6 @@ der Wiederholungsprüfung hinzuweisen ist.
 (9) Die Einzelheiten des Prüfungsverfahrens regelt die Industrie- und
 Handelskammer durch Satzung.
 
-
 ### § 4 Gleichstellung anderer Berufsqualifikationen
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger
@@ -312,7 +307,6 @@ setzt in der Regel voraus, dass zusätzlich eine mindestens dreijährige
 Berufserfahrung im Bereich Anlagevermittlung oder -beratung
 nachgewiesen wird.
 
-
 ### § 5 Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten
@@ -324,9 +318,7 @@ Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der
 erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete
 umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
 
-
 ## Abschnitt 2 - Vermittlerregister
-
 
 ### § 6 Angaben zur Speicherung im Vermittlerregister
 
@@ -374,7 +366,6 @@ der Familienname und der Vorname der natürlichen Personen gespeichert,
 die innerhalb des für die Geschäftsführung verantwortlichen Organs für
 die Vermittlertätigkeiten zuständig sind.
 
-
 ### § 7 Eintragung
 
 (1) Der Eintragungspflichtige hat der zuständigen Erlaubnisbehörde
@@ -397,7 +388,6 @@ teilt der zuständigen Erlaubnisbehörde die Registrierungsnummer mit.
 die zuständige Erlaubnisbehörde unverzüglich über eine Datenlöschung
 nach § 11a Absatz 3a Satz 2 der Gewerbeordnung.
 
-
 ### § 8 Eingeschränkter Zugang
 
 Hinsichtlich der Angaben nach § 6 Satz 1 Nummer 2 und 9 ist ein
@@ -405,9 +395,7 @@ automatisierter Abruf nicht zulässig. Die Registerbehörde darf zu
 diesen Angaben nur den in § 11a Absatz 7 der Gewerbeordnung genannten
 Behörden schriftlich Auskunft erteilen.
 
-
 ## Abschnitt 3 - Anforderungen an die Berufshaftpflichtversicherung
-
 
 ### § 9 Umfang der Versicherung
 
@@ -455,7 +443,6 @@ wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere
 Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und
 dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
-
 ### § 10 Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen nach § 113 Absatz 2 des
@@ -488,16 +475,13 @@ Eingangs der Anzeige nach Satz 1 mitzuteilen.
 Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach
 § 34f Absatz 1 der Gewerbeordnung zuständige Behörde.
 
-
 ## Abschnitt 4 - Informations-, Beratungs- und Dokumentationspflichten
-
 
 ### § 11 Allgemeine Verhaltenspflicht
 
 Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der
 erforderlichen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit im
 Interesse des Anlegers auszuüben.
-
 
 ### § 12 Statusbezogene Informationspflichten
 
@@ -547,7 +531,6 @@ stellen.
 
 (4) Sonstige Vorschriften über Informationspflichten des
 Gewerbetreibenden bleiben unberührt.
-
 
 ### § 13 Information des Anlegers über Risiken, Kosten, Nebenkosten und Interessenkonflikte
 
@@ -628,7 +611,6 @@ den Anlegern bestehen können.
 (6) Die Informationen nach den Absätzen 1 bis 3 sind dem Anleger in
 Textform zur Verfügung zu stellen.
 
-
 ### § 14 Redliche, eindeutige und nicht irreführende Informationen und Werbung
 
 (1) Alle Informationen einschließlich Werbemitteilungen, die der
@@ -659,7 +641,6 @@ gebilligt oder genehmigt werden oder worden sind.
 (5) § 4 Absatz 2 bis 9 der Wertpapierdienstleistungs-Verhaltens- und
 Organisationsverordnung gilt entsprechend.
 
-
 ### § 15 Bereitstellung des Informationsblatts
 
 Im Fall einer Anlageberatung hat der Gewerbetreibende dem Anleger
@@ -684,10 +665,6 @@ zur Verfügung zu stellen:
 4.  bei Vermögensanlagen im Sinne des § 1 Absatz 2 des
     Vermögensanlagengesetzes das Vermögensanlagen-Informationsblatt, wenn
     ein solches nach § 13 des Vermögensanlagengesetzes zu erstellen ist.
-
-
-
-
 
 ### § 16 Einholung von Informationen über den Anleger; Pflicht zur Empfehlung geeigneter Finanzanlagen
 
@@ -797,10 +774,6 @@ Gewerbetreibende
     Sinne des Absatzes 2 vorgenommen wird. Die Information kann in
     standardisierter Form erfolgen.
 
-
-
-
-
 ### § 17 Offenlegung von Zuwendungen
 
 (1) Der Gewerbetreibende darf im Zusammenhang mit der Vermittlung von
@@ -831,7 +804,6 @@ oder an Dritte gewährt.
 ermöglichen oder dafür notwendig sind und die ihrer Art nach nicht
 geeignet sind, die Erfüllung der Pflicht nach § 11 zu gefährden, sind
 vom Verbot nach Absatz 1 ausgenommen.
-
 
 ### § 18 Anfertigung eines Beratungsprotokolls
 
@@ -887,7 +859,6 @@ das Rücktrittsrecht müssen im Protokoll vermerkt werden. Bestreitet
 der Gewerbetreibende das Rücktrittsrecht, hat er die Richtigkeit und
 Vollständigkeit des Protokolls zu beweisen.
 
-
 ### § 19 Beschäftigte
 
 Der Gewerbetreibende hat sicherzustellen, dass auch seine
@@ -895,9 +866,7 @@ Beschäftigten die Pflichten nach den §§ 11 bis 18 erfüllen. Führt ein
 Beschäftigter des Gewerbetreibenden die Beratung durch, so hat der
 Beschäftigte das Beratungsprotokoll nach § 18 Absatz 1 anzufertigen.
 
-
 ## Abschnitt 5 - Sonstige Pflichten
-
 
 ### § 20 Unzulässigkeit der Annahme von Geldern und Anteilen von Anlegern
 
@@ -905,7 +874,6 @@ Der Gewerbetreibende ist nicht befugt, sich im Zusammenhang mit der
 Finanzanlagenberatung oder -vermittlung nach § 34f Absatz 1 Satz 1 der
 Gewerbeordnung Eigentum oder Besitz an Geldern oder Anteilen von
 Anlegern zu verschaffen.
-
 
 ### § 21 Anzeigepflicht
 
@@ -928,10 +896,6 @@ Anzeige ist für jede Person Folgendes anzugeben:
 
 
 4.  die Anschrift.
-
-
-
-
 
 ### § 22 Aufzeichnungspflicht
 
@@ -969,7 +933,6 @@ unverzüglich und in deutscher Sprache vorzunehmen.
 (3) Sonstige Vorschriften über Aufzeichnungs- und
 Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
-
 ### § 23 Aufbewahrung
 
 Die in § 22 genannten Unterlagen sind fünf Jahre auf einem dauerhaften
@@ -978,7 +941,6 @@ Frist beginnt mit dem Schluss des Kalenderjahres, in dem der letzte
 aufzeichnungspflichtige Vorgang für den jeweiligen Auftrag angefallen
 ist. Vorschriften, die eine längere Frist bestimmen, bleiben
 unberührt.
-
 
 ### § 24 Prüfungspflicht
 
@@ -1050,7 +1012,6 @@ Prüfer betraut werden.
 (5) Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis
 der Befangenheit besteht.
 
-
 ### § 25 Rechte und Pflichten der an der Prüfung Beteiligten
 
 (1) Der Gewerbetreibende hat dem Prüfer jederzeit Einsicht in die
@@ -1066,9 +1027,7 @@ Pflichten verletzt, ist dem Gewerbetreibenden zum Ersatz des daraus
 entstehenden Schadens verpflichtet. Mehrere Personen haften als
 Gesamtschuldner.
 
-
 ## Abschnitt 6 - Ordnungswidrigkeiten
-
 
 ### § 26 Ordnungswidrigkeiten
 
@@ -1158,7 +1117,6 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 (2) Ordnungswidrig im Sinne des § 145 Absatz 2 Nummer 9 der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz
 1 bezeichnete Handlung in Ausübung eines Reisegewerbes begeht.
-
 
 ### Anlage 1 (zu § 1 Absatz 2) Inhaltliche Anforderungen an die Sachkundeprüfung
 
@@ -1806,9 +1764,6 @@ Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz
 *    *   5.5.4
 
     *   Übertragung, Vererbung und Schenkung
-
-
-
 
 ### Anlage 2 (zu § 3 Absatz 8) Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4 der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (Anteile an geschlossenen Fonds in Form einer Kommanditgesellschaft)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (sonstigen Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
 

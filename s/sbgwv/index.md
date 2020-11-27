@@ -18,8 +18,6 @@ Fundstelle
 Änderung durch
 :   Art. 1 V v. 22.8.2012 I 1805 (Nr. 39) noch nicht berücksichtigt
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 des Gesetzes vom 16. Januar 1991 (BGBl. I S.
@@ -28,10 +26,7 @@ Auf Grund des § 53 Abs. 1 des Gesetzes vom 16. Januar 1991 (BGBl. I S.
 23 des Gesetzes vom 24. Juli 1995 (BGBl. I S. 962) verordnet das
 Bundesministerium der Verteidigung:
 
-
 ## Abschnitt 1 - Wahl der Vertrauenspersonen
-
-
 
 ### § 1 Abgrenzung der Wahlbereiche
 
@@ -45,7 +40,6 @@ Einheit, sondern zum Personalrat des Stabes, sofern dieser Stab eine
 Dienststelle nach § 49 des Soldatenbeteiligungsgesetzes ist und die
 Soldaten ständig in diesem Stab eingesetzt sind.
 
-
 ### § 2 Zuständiger Disziplinarvorgesetzter
 
 (1) Zuständig für die Wahrnehmung der dem Disziplinarvorgesetzten in
@@ -58,7 +52,6 @@ Vertrauensperson und ihre Stellvertreter gewählt werden sollen.
 Insbesondere weist er ihn in seine gesetzlichen Aufgaben ein, erteilt
 Auskünfte und stellt die notwendigen Unterlagen und Räume sowie den
 erforderlichen Geschäftsbedarf zur Verfügung.
-
 
 ### § 3 Wahlvorstand
 
@@ -91,14 +84,12 @@ freizustellen.
 (5) Der Wahlvorstand faßt seine Beschlüsse mit einfacher Mehrheit und
 dokumentiert sie.
 
-
 ### § 4 Wahltermin
 
 Der Wahlvorstand legt im Einvernehmen mit dem Disziplinarvorgesetzten
 unverzüglich nach seiner Bestellung Zeitpunkt, Ort und Dauer der Wahl
 fest. Die Wahl soll spätestens sechs Wochen nach Bestellung des
 Wahlvorstandes stattfinden.
-
 
 ### § 5 Wählerverzeichnis
 
@@ -111,7 +102,6 @@ Vornamen und der Dienstgrad anzugeben.
 (2) Das Wählerverzeichnis ist unverzüglich nach dem Aufstellen an
 geeigneter Stelle zur Einsicht auszulegen und bis zum Abschluß der
 Wahl auf dem laufenden zu halten.
-
 
 ### § 6 Einspruch gegen das Wählerverzeichnis
 
@@ -128,7 +118,6 @@ schriftlich mitzuteilen.
 
 (3) Ist der Einspruch begründet, berichtigt der Wahlvorstand das
 Wählerverzeichnis.
-
 
 ### § 7 Wahlausschreiben
 
@@ -196,10 +185,6 @@ berichtigen.
 8.  ein Soldat, der verhindert ist, seine Stimme persönlich abzugeben, die
     Möglichkeit der Briefwahl hat.
 
-
-
-
-
 ### § 8 Wahlvorschläge
 
 (1) Die Wahlberechtigten können innerhalb von zwei Wochen nach Aushang
@@ -256,14 +241,12 @@ einzuleiten.
 
 (6) Verspätete Wahlvorschläge sind zurückzuweisen.
 
-
 ### § 9 Aufstellung und Bekanntgabe der Bewerberliste
 
 Nach Ablauf der letzten Frist für das Einreichen der Wahlvorschläge
 stellt der Wahlvorstand eine Liste der gültig vorgeschlagenen Bewerber
 in alphabetischer Reihenfolge zusammen (Bewerberliste) und gibt sie
 durch Aushang spätestens fünf Werktage vor Beginn der Wahl bekannt.
-
 
 ### § 10 Stimmabgabe
 
@@ -283,7 +266,6 @@ die Wahlurne.
 Zeit anwesend sein, in der die Stimmen abgegeben werden können. Sie
 sorgen für die Wahrung des Wahlgeheimnisses und vermerken die
 Stimmabgabe im Wählerverzeichnis.
-
 
 ### § 11 Briefwahl
 
@@ -360,7 +342,6 @@ Wahlunterlagen. Diese Wahlbriefe sind einen Monat nach Bekanntgabe des
 Wahlergebnisses, frühestens jedoch nach der Entscheidung über eine
 etwaige Anfechtung der Wahl, ungeöffnet zu vernichten.
 
-
 ### § 12 Feststellung des Wahlergebnisses
 
 (1) Der Wahlvorstand zählt unverzüglich nach Abschluß der Wahl die
@@ -389,7 +370,6 @@ nächstniedrigeren Stimmenzahlen erhalten haben. Bei Stimmengleichheit
 entscheidet das vom Vorsitzenden des Wahlvorstandes im unmittelbaren
 Anschluß an das Feststellen des Wahlergebnisses zu ziehende Los.
 
-
 ### § 13 Vereinfachtes Wahlverfahren
 
 Ein vereinfachtes Wahlverfahren nach Maßgabe der §§ 13a und 13b ist
@@ -410,7 +390,6 @@ durchzuführen
 § 3 Absatz 1, die §§ 4 und 5 Absatz 2, die §§ 6 bis 9, § 10 Absatz 1
 Satz 2 und 3, Absatz 2 und 3, die §§ 11 und 12 Absatz 2 sowie § 15
 Absatz 2 werden nicht angewendet.
-
 
 ### § 13a Ablauf des vereinfachten Wahlverfahrens
 
@@ -446,7 +425,6 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren
 abzubrechen. Auf Antrag von mindestens drei Wahlberechtigten ist ein
 neues Wahlverfahren einzuleiten.
 
-
 ### § 13b Wahlvorgang im vereinfachten Wahlverfahren
 
 (1) Jeder Wahlberechtigte hat eine Stimme.
@@ -464,7 +442,6 @@ Wahlberechtigten ihren Stimmzettel geheim ausfüllen und diesen in der
 Weise gefaltet, dass die Stimmabgabe nicht erkennbar ist, in einen
 dafür bestimmten Behälter legen können. Nach Abschluss der Wahl stellt
 der Wahlvorstand das Ergebnis nach § 12 Absatz 1 und 3 fest.
-
 
 ### § 14 Wahlniederschrift
 
@@ -496,7 +473,6 @@ Sie muss enthalten
 (2) Besondere Ereignisse bei der Wahl, insbesondere der Losentscheid
 nach § 12 Abs. 3 Satz 3, sind zu vermerken.
 
-
 ### § 15 Bekanntgabe des Wahlergebnisses
 
 (1) Der Wahlvorstand gibt das Ergebnis der Wahl unverzüglich durch das
@@ -508,7 +484,6 @@ Disziplinarvorgesetzten. Soweit die Gewählten nicht binnen dreier
 Werktage die Ablehnung schriftlich erklären, gilt die Wahl als
 angenommen.
 
-
 ### § 16 Aufbewahrung der Wahlunterlagen
 
 Die Vertrauensperson bewahrt die Wahlunterlagen bis zum Ende ihrer
@@ -516,10 +491,7 @@ Amtszeit auf. Zu ihnen gehören das Wählerverzeichnis und das
 Wahlausschreiben sowie die Wahlvorschläge, die Bewerberliste, die
 Stimmzettel, die vorgedruckten Erklärungen und die Wahlniederschrift.
 
-
 ## Abschnitt 2 - Wahl des Gesamtvertrauenspersonenausschusses
-
-
 
 ### § 17 Leitung der Wahl
 
@@ -540,7 +512,6 @@ Aushang in den Dienststellen und Einheiten; der Aushang muss bis zum
 Abschluss der Stimmabgabe zugänglich sein. Eine zusätzliche
 Veröffentlichung in einem internen elektronischen Informationssystem
 der Bundeswehr ist zulässig.
-
 
 ### § 18 Wahlvorstände
 
@@ -574,7 +545,6 @@ freizustellen.
 (4) Die Wahlvorstände fassen ihre Beschlüsse mit einfacher Mehrheit
 ihrer Mitglieder.
 
-
 ### § 19 Unterstützung
 
 (1) Das Bundesministerium der Verteidigung sowie alle Vorgesetzten
@@ -586,7 +556,6 @@ zur Verfügung.
 (2) Die Mitglieder der Wahlvorstände sowie deren Ersatzmitglieder sind
 durch Schulungsmaßnahmen auf die Übernahme ihrer Aufgaben
 vorzubereiten.
-
 
 ### § 20 Sitzverteilung
 
@@ -626,12 +595,10 @@ Organisationsbereichs mehrere Sitze, werden diese in sinngemäßer
 Anwendung des Absatzes 3 weiter auf die Statusgruppen innerhalb der
 Laufbahngruppen verteilt.
 
-
 ### § 21 Briefwahl
 
 Die Wahl der Mitglieder des Gesamtvertrauenspersonenausschusses findet
 als Briefwahl statt.
-
 
 ### § 22 Wahlausschreiben
 
@@ -673,10 +640,6 @@ Einheiten und vergleichbaren Dienststellen Folgendes bekannt:
 4.  nur gewählt werden kann, wer in die Bewerberliste aufgenommen worden
     ist.
 
-
-
-
-
 ### § 23 Wählerverzeichnis
 
 (1) Der dezentrale Wahlvorstand stellt ein nach Laufbahn- und
@@ -708,7 +671,6 @@ oder Einsicht in diese Unterlagen nur Personen erhalten, die zum
 Umgang mit Verschlusssachen dieses Geheimhaltungsgrades ermächtigt
 sind.
 
-
 ### § 24 Einspruch gegen das Wählerverzeichnis
 
 (1) Jeder Wahlberechtigte kann gegen das Wählerverzeichnis innerhalb
@@ -730,7 +692,6 @@ obwohl er den Einspruchsgrund kannte oder ihm eine Kenntnisnahme
 zumutbar gewesen wäre, ist eine spätere Anfechtung nach § 47 des
 Soldatenbeteiligungsgesetzes unter Berufung auf diesen Einspruchsgrund
 ausgeschlossen.
-
 
 ### § 25 Bewerbungen
 
@@ -766,7 +727,6 @@ Wahlvorstand die Wahlberechtigten, die sich für diese Sitze bewerben
 können, über die dezentralen Wahlvorstände auf, sich innerhalb von
 zwei Wochen zu bewerben.
 
-
 ### § 26 Aufstellung der Bewerberliste
 
 (1) Nach Ablauf der Bewerbungsfrist stellt jeder dezentrale
@@ -797,7 +757,6 @@ vorhanden als Sitze zu vergeben sind, teilt der zentrale Wahlvorstand
 die nicht besetzbaren Sitze in sinngemäßer Anwendung des § 20 weiter
 auf und gibt die geänderte Sitzverteilung bekannt.
 
-
 ### § 27 Wahlunterlagen
 
 (1) Jeder dezentrale Wahlvorstand fordert unter Vorlage einer
@@ -814,7 +773,6 @@ Briefwahlunterlagen (Stimmzettel nach Wahlgängen,
 Stimmzettelumschläge, vorgedruckte Erklärungen, Freiumschläge und
 Begleitschreiben) zusammen und übersendet sie unverzüglich an die
 dezentralen Wahlvorstände.
-
 
 ### § 28 Stimmabgabe
 
@@ -874,7 +832,6 @@ keine unterschriebene Erklärung beigefügt ist, sind mit dem Vermerk
 der Vermerk ist von einem Mitglied des Wahlvorstandes zu
 unterschreiben. Die Wahlurne ist vor unbefugtem Zugriff zu schützen.
 
-
 ### § 29 Auszählung
 
 (1) Am Tag nach der Frist, die für den Eingang der Wahlbriefe beim
@@ -903,7 +860,6 @@ Wahlunterlagen zu nehmen. Diese Wahlbriefe sind einen Monat nach
 Bekanntgabe des Wahlergebnisses frühestens jedoch nach der
 Entscheidung über eine etwaige Wahlanfechtung ungeöffnet zu
 vernichten.
-
 
 ### § 30 Feststellung des Wahlergebnisses
 
@@ -947,7 +903,6 @@ Vorsitzenden des zentralen Wahlvorstandes gezogen.
 
 (5) (weggefallen)
 
-
 ### § 31 Wahlniederschrift
 
 (1) Über das Wahlergebnis fertigen der zentrale Wahlvorstand und die
@@ -982,7 +937,6 @@ Gesamtvertrauenspersonenausschusses.
 (3) Besondere Ereignisse bei der Wahl sind in der Wahlniederschrift zu
 vermerken.
 
-
 ### § 32 Benachrichtigung der gewählten Bewerber
 
 (1) Der zentrale Wahlvorstand benachrichtigt die Bewerber schriftlich
@@ -992,7 +946,6 @@ Gesamtvertrauenspersonenausschuß gewählt wurden.
 (2) Erklärt ein gewähltes Mitglied nicht binnen dreier Werktage nach
 Zugang der Benachrichtigung gegenüber dem zentralen Wahlvorstand, daß
 es die Wahl ablehne, so gilt die Wahl als angenommen.
-
 
 ### § 33 Bekanntgabe des Wahlergebnisses
 
@@ -1008,7 +961,6 @@ elektronischen Informationssystem der Bundeswehr folgt. Das Datum der
 Einstellung ist durch den zentralen Wahlvorstand zu vermerken und zu
 den Wahlunterlagen zu nehmen.
 
-
 ### § 34 Aufbewahrung der Wahlunterlagen
 
 Der Gesamtvertrauenspersonenausschuss bewahrt die Wahlunterlagen bis
@@ -1017,10 +969,7 @@ Wählerverzeichnisse, die Wahlausschreiben, die Bewerberlisten, die
 Stimmzettel, die vorgedruckten Erklärungen, die Wahlniederschriften
 und die Dokumentation der Bekanntgabe des Wahlergebnisses.
 
-
 ## Abschnitt 3 - Schlußvorschriften
-
-
 
 ### § 35 Übergangsregelung aus Anlass der Ersten Verordnung zur Änderung der Wahlverordnung zum Soldatenbeteiligungsgesetz
 

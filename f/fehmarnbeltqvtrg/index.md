@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2009, 799
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -29,7 +27,6 @@ Dem in Kopenhagen am 3. September 2008 unterzeichneten Vertrag
 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark
 über eine Feste Fehmarnbeltquerung wird zugestimmt. Der Vertrag wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -40,7 +37,6 @@ Genehmigung nach § 6 Absatz 1 Satz 1 des Allgemeinen
 Eisenbahngesetzes, sofern sie für die in § 6 Absatz 1 Satz 1 Nummer 3
 des Allgemeinen Eisenbahngesetzes bezeichneten Tätigkeiten nach
 dänischem Recht zugelassen ist.
-
 
 ## Art 3
 

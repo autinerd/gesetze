@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 22.3.2007 I 519
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 1 und 4 des Zollverwaltungsgesetzes vom 21.
 Dezember 1992 (BGBl. I S. 2125) verordnet das Bundesministerium der
 Finanzen:
-
 
 ## § 1 Ausdehnung des grenznahen Raumes
 
@@ -37,7 +35,6 @@ Anlage 1. Straßen, Wege, Bahnkörper, Gewässer, Deiche und ähnliches,
 die den Verlauf der Begrenzungslinie bestimmen, sowie Städte und Orte,
 die von der Begrenzungslinie berührt werden, gehören zum grenznahen
 Raum, soweit in Anlage 1 nichts Abweichendes angeordnet ist.
-
 
 ## § 2 Gebiete, die der Grenzaufsicht unterworfen sind
 
@@ -58,16 +55,11 @@ Der Grenzaufsicht unterworfen sind:
 3.  die in Anlage 3 bezeichneten besonderen Landeplätze und anderen
     verkehrsrechtlich zugelassenen Flugplätze.
 
-
-
-
-
 ## § 3 Inkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
-
 
 ## Anlage 1 (zu § 1) Rückwärtige Begrenzungslinie des grenznahen Raumes
 
@@ -211,7 +203,6 @@ B 104 in Strasburg. Von dort aus folgt sie der B 104 über Pasewalk –
 das Stadtgebiet von Pasewalk gehört zum grenznahen Raum – bis zum
 Schnittpunkt mit der deutsch-polnischen Grenze in Linken.
 
-
 ## Anlage 2 (zu § 2) Gebiete, die der Grenzaufsicht unterworfen sind
 
 (Fundstelle: BGBl. I 1993, 1135 - 1136;
@@ -333,7 +324,6 @@ Demmin flußabwärts bis zur rückwärtigen Begrenzung des grenznahen
 Raumes (Schnittpunkt der Peene mit der B 96 bei Jarmen).
 
 G. u. H. (weggefallen)
-
 
 ## Anlage 3 (zu § 2)
 

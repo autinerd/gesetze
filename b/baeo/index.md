@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 29 G v. 6.12.2011 I 2515
 
-
 ## I. - Der ärztliche Beruf
-
-
 
 ### § 1
 
@@ -33,7 +30,6 @@ gesamten Volkes.
 
 (2) Der ärztliche Beruf ist kein Gewerbe; er ist seiner Natur nach ein
 freier Beruf.
-
 
 ### § 2
 
@@ -64,17 +60,13 @@ zwischenstaatlichen Verträge.
 (5) Ausübung des ärztlichen Berufs ist die Ausübung der Heilkunde
 unter der Berufsbezeichnung "Arzt" oder "Ärztin".
 
-
 ### § 2a
 
 Die Berufsbezeichnung "Arzt" oder "Ärztin" darf nur führen, wer als
 Arzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur Ausübung des
 ärztlichen Berufs befugt ist.
 
-
 ## II. - Die Approbation
-
-
 
 ### § 3
 
@@ -367,7 +359,6 @@ des § 17 keine Anwendung.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 4
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
@@ -438,7 +429,6 @@ auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen
 Regelungen des Verwaltungsverfahrens durch Landesrecht sind
 ausgeschlossen.
 
-
 ### § 5
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung eine
@@ -469,7 +459,6 @@ tatsächlich nicht nachgewiesen worden sind.
 Voraussetzung nach § 3 Abs. 1 Satz 1 Nr. 2 weggefallen ist. Sie kann
 widerrufen werden, wenn nachträglich die Voraussetzung nach § 3 Abs. 1
 Satz 1 Nr. 3 weggefallen ist.
-
 
 ### § 6
 
@@ -507,11 +496,9 @@ ausüben.
 dessen Approbation ruht, für einen von ihr zu bestimmenden Zeitraum
 durch einen anderen Arzt weitergeführt werden kann.
 
-
 ### § 7
 
 (weggefallen)
-
 
 ### § 8
 
@@ -529,17 +516,13 @@ kann auf bestimmte Tätigkeiten und Beschäftigungsstellen beschränkt
 werden. Personen, denen die Erlaubnis erteilt worden ist, haben im
 übrigen die Rechte und Pflichten eines Arztes.
 
-
 ### § 9
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
 Bedingung erklärt wird, ist unwirksam.
 
-
 ## III. - Die Erlaubnis
-
-
 
 ### § 10
 
@@ -611,7 +594,6 @@ haben, wenn
 nach den vorstehenden Vorschriften erteilt worden ist, haben im
 übrigen die Rechte und Pflichten eines Arztes.
 
-
 ### § 10a
 
 (1) Approbierte Zahnärzte, die eine gültige staatliche Anerkennung als
@@ -661,10 +643,7 @@ Approbation als Zahnarzt ruht.
 (4) Für Inhaber einer Erlaubnis nach Absatz 1 oder 2 gilt § 10 Abs. 6
 entsprechend.
 
-
 ## IV. - Erbringen von Dienstleistungen
-
-
 
 ### § 10b
 
@@ -785,13 +764,7 @@ Bescheinigungen darüber auszustellen, daß
 
 3.  er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-
-
-
 ## V. - Gebührenordnung
-
-
 
 ### § 11
 
@@ -802,10 +775,7 @@ Mindest- und Höchstsätze für die ärztlichen Leistungen festzusetzen.
 Dabei ist den berechtigten Interessen der Ärzte und der zur Zahlung
 der Entgelte Verpflichteten Rechnung zu tragen.
 
-
 ## VI. - Zuständigkeiten
-
-
 
 ### § 12
 
@@ -875,17 +845,13 @@ Anhang VII Nummer 1 Buchstabe d der Richtlinie 2005/36/EG an die
 zuständigen Behörden des Aufnahmemitgliedstaats zu übermitteln haben,
 hat dies binnen zwei Monaten zu erfolgen.
 
-
 ## VII. - Strafvorschriften
-
-
 
 ### § 13 VII Straf- und Bußgeldvorschriften
 
 Wer die Heilkunde ausübt, solange durch vollziehbare Verfügung das
 Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis zu
 einem Jahr oder mit Geldstrafe bestraft.
-
 
 ### § 13a
 
@@ -895,10 +861,7 @@ Berufsbezeichnung "Arzt" oder "Ärztin" ohne Zusatz führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## VIII. - Übergangs- und Schlußvorschriften
-
-
 
 ### § 14
 
@@ -977,7 +940,6 @@ in der Fassung der Anordnung Nr. 2 vom 24. August 1981 (GBl. I Nr. 29
 S. 346) gelten mit ihrem bisherigen Inhalt als Erlaubnis nach § 10
 Abs. 1 dieses Gesetzes.
 
-
 ### § 14a
 
 (1) Antragsteller, die das Studium der Medizin im Jahre 1970 oder im
@@ -1027,7 +989,6 @@ genannten Ausbildungsstätten aufnehmen, gelten die Vorschriften dieser
 Verordnung vom Beginn dieses Studiums an. In der Verordnung können
 hinsichtlich der Art der Prüfungen besondere Regelungen für die in
 Satz 5 und 6 genannten Studierenden getroffen werden.
-
 
 ### § 14b
 
@@ -1088,16 +1049,13 @@ Ausbildung aufweist, die in diesem Gesetz und in der Rechtsverordnung
 nach § 4 Absatz 1 geregelt ist. § 3 Absatz 2 Satz 3 bis 8 gilt
 entsprechend.
 
-
 ### § 15 (weggefallen)
 
 -
 
-
 ### § 16
 
 (Inkrafttreten, Außerkrafttreten)
-
 
 ### Anlage (zu § 3 Abs. 1 Satz 2)
 

@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3150, 3176
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Umfang und Zweck
 
@@ -44,7 +42,6 @@ Bodenschutz und Bodeninformationssystemen.
 
 Die Ergebnisse der Bodenschätzung sollen automatisiert verarbeitet
 werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -97,15 +94,7 @@ abweichenden Nutzungsart ist zusätzlich in den Schätzungsbüchern und
         nicht bestellt werden können und im Allgemeinen nur eine Weidenutzung
         zulassen.
 
-
-
-
-
-
-
-
 ## Abschnitt 2 - Besondere Schätzungsvorschriften
-
 
 ### § 3 Schätzungsrahmen
 
@@ -122,7 +111,6 @@ Ertragsfähigkeit der Böden im Bundesgebiet ist
 Die Schätzungsrahmen weisen Wertzahlen aus, die als Verhältniszahlen
 die Unterschiede im Reinertrag bei gemeinüblicher und ordnungsgemäßer
 Bewirtschaftung zum Ausdruck bringen.
-
 
 ### § 4 Wertzahlen
 
@@ -149,7 +137,6 @@ zurückzuführen sind, durch prozentuale Abrechnungen an der
 Grünlandgrundzahl. Bei der Schätzung von Grünland-Hutungen und
 Grünland-Streuwiesen werden nur die Grünlandzahlen festgelegt.
 
-
 ### § 5 Klassen-, Klassenabschnitts- und Sonderflächen der Bodenschätzung
 
 Flächen, die sich in Bodenbeschaffenheit, Geländegestaltung,
@@ -160,7 +147,6 @@ Bodenbeschaffenheit oder der Wasserverhältnisse
 Klassenabschnittsflächen gebildet werden. Wesentliche Abweichungen der
 übrigen natürlichen Ertragsbedingungen werden durch die Abgrenzung von
 Sonderflächen berücksichtigt.
-
 
 ### § 6 Musterstücke
 
@@ -178,14 +164,12 @@ der Gleichmäßigkeit der Besteuerung und des Steueraufkommens durch
 Rechtsverordnung, ohne Zustimmung des Bundesrates, die in Absatz 1
 genannten Musterstücke im Bundesgesetzblatt bekannt zu machen.
 
-
 ### § 7 Vergleichsstücke
 
 In jeder Gemarkung sind für die wichtigsten und besonders typischen
 Böden Vergleichsstücke auszuwählen und zu beschreiben. Die Schätzung
 der Vergleichsstücke ist in Anlehnung an die Bewertung der
 Musterstücke durchzuführen.
-
 
 ### § 8 Bodenprofile
 
@@ -194,7 +178,6 @@ anhand eines für die jeweilige Klasse und den jeweiligen
 Klassenabschnitt typischen Bodenprofils – bestimmendes Grabloch – zu
 beschreiben. Ihre Ertragsfähigkeit ist in Anlehnung an Musterstücke
 und Vergleichsstücke zu schätzen.
-
 
 ### § 9 Ertragsmesszahl
 
@@ -206,7 +189,6 @@ und der Acker- oder Grünlandzahl (Wertzahlen).
 verschiedenen Acker- oder Grünlandzahlen, so bildet die Summe der
 Produkte der einzelnen Teilflächen in Ar und der jeweiligen Wertzahl
 die Ertragsmesszahl der Gesamtfläche.
-
 
 ### § 10 Schätzungsbücher und -karten
 
@@ -251,7 +233,6 @@ die Ertragsmesszahl der Gesamtfläche.
 (3) Musterstücke und Vergleichsstücke sind in Schätzungsbüchern und
 -karten darzustellen.
 
-
 ### § 11 Nachschätzung
 
 (1) Wenn sich die natürlichen Ertragsbedingungen, die den
@@ -265,9 +246,7 @@ mehr zur landwirtschaftlichen Nutzung gehören. Bisher nicht einer
 Bodenschätzung unterliegende Flächen, für die sich jetzt eine
 landwirtschaftliche Nutzung ergibt, sind zu erfassen.
 
-
 ## Abschnitt 3 - Verfahrensvorschriften
-
 
 ### § 12 Anwendung der Abgabenordnung
 
@@ -277,7 +256,6 @@ Abschnitt des Ersten Teils (§§ 16 bis 29), der Dritte Teil (§§ 78 bis
 Anwendung. Die Vorschriften über die gesonderte Feststellung von
 Einheitswerten (§§ 180 bis 183 der Abgabenordnung) sind entsprechend
 anzuwenden.
-
 
 ### § 13 Offenlegung der Bodenschätzungsergebnisse
 
@@ -295,7 +273,6 @@ ein. Als Bekanntgabe gilt der letzte Tag der Offenlegungsfrist.
 (4) Die Offenlegung hat regelmäßig zu den üblichen Dienstzeiten in den
 Räumen des Finanzamts stattzufinden.
 
-
 ### § 14 Übernahme in das Liegenschaftskataster
 
 (1) Nach Bestandskraft sind die Bodenschätzungsergebnisse sowie die
@@ -309,7 +286,6 @@ Ertragsmesszahl.
 (3) Die Musterstücke und Vergleichsstücke sind im
 Liegenschaftskataster besonders zu kennzeichnen.
 
-
 ### § 15 Betreten von Grundstücken
 
 Die Eigentümer und Nutzungsberechtigten der Grundstücke sind
@@ -320,16 +296,13 @@ nicht vorsätzlich verursachte Schäden besteht kein Anspruch auf
 Schadensersatz. Die Durchführung von Bodenschätzungsarbeiten in einer
 Gemarkung ist in ortsüblicher Weise bekannt zu geben.
 
-
 ### § 16 Aufgaben anderer Behörden
 
 Zur Durchführung der Bodenschätzung sind die nach Landesrecht
 zuständigen Behörden verpflichtet, die erforderlichen Grundlagen
 bereitzustellen.
 
-
 ## Abschnitt 4 - Schätzungsbeirat, Schätzungsausschüsse
-
 
 ### § 17 Schätzungsbeirat
 
@@ -363,7 +336,6 @@ Einzelheiten der Mitwirkung, der Geschäftsführung, der
 Beschlussfassung sowie Rechte und Pflichten der Mitglieder geregelt
 werden.
 
-
 ### § 18 Schätzungsausschüsse
 
 (1) Zur Durchführung der Bodenschätzung und Ermittlung der
@@ -392,9 +364,7 @@ Vergleichsstücke (§ 7) mit, die verantwortlich von der zuständigen
 Landesbehörde vor Durchführung der eigentlichen Schätzungsarbeiten
 ausgewählt und eingestuft werden.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
 
 ### § 19 Nutzung der Ergebnisse der Bodenschätzung durch andere Behörden
 
@@ -403,7 +373,6 @@ zur Erfüllung ihrer Aufgaben übermittelt und von ihnen genutzt werden.
 Die Weitergabe an andere Nutzer erfolgt nach landesrechtlichen
 Bestimmungen.
 
-
 ### § 20 Fortgeltung bisherigen Rechts
 
 Die in der Anlage zu § 1 der Verordnung vom 20. April 2000 (BGBl. I S.
@@ -411,7 +380,6 @@ Die in der Anlage zu § 1 der Verordnung vom 20. April 2000 (BGBl. I S.
 Rechtsverordnung nach § 6 Abs. 3 und der Bekanntgabe neuer
 Musterstücke auf diesem Weg auch nach dem 1. Januar 2008 ihre
 Gültigkeit.
-
 
 ### Anlage 1 Ackerschätzungsrahmen
 
@@ -1175,7 +1143,6 @@ leichtere Böden eher positiv aus.
 Das gesamte Schätzungsergebnis eines Ackerbodens lautet zum Beispiel L
 4 Al 65/70, das heißt, es handelt sich um einen Lehmboden,
 Zustandsstufe 4, Entstehungsart Alluvium, Bodenzahl 65, Ackerzahl 70.
-
 
 ### Anlage 2 Grünlandschätzungsrahmen
 

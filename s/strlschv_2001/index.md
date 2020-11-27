@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 7 G v. 24.2.2012 I 212
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweckbestimmung
 
@@ -30,7 +27,6 @@ vor der schädlichen Wirkung ionisierender Strahlung Grundsätze und
 Anforderungen für Vorsorge- und Schutzmaßnahmen zu regeln, die bei der
 Nutzung und Einwirkung radioaktiver Stoffe und ionisierender Strahlung
 zivilisatorischen und natürlichen Ursprungs Anwendung finden.
-
 
 ### § 2 Anwendungsbereich
 
@@ -110,10 +106,6 @@ zivilisatorischen und natürlichen Ursprungs Anwendung finden.
     enthaltene Radionuklide, durch kosmische Strahlung in Bodennähe und
     durch Radionuklide, die in der nicht durch Eingriffe beeinträchtigten
     Erdrinde vorhanden sind.
-
-
-
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -722,17 +714,9 @@ Tätigkeiten und Arbeiten unterschieden.
     Es ist unerheblich, ob der Zusatz aufgrund der Radioaktivität oder
     aufgrund anderer Eigenschaften erfolgt.
 
-
-
-
-
 ## Teil 2 - Schutz von Mensch und Umwelt vor radioaktiven Stoffen oder ionisierender Strahlung aus der zielgerichteten Nutzung bei Tätigkeiten
 
-
-
 ### Kapitel 1 - Strahlenschutzgrundsätze, Grundpflichten und allgemeine Grenzwerte
-
-
 
 #### § 4 Rechtfertigung
 
@@ -758,7 +742,6 @@ Einzelnen.
 (3) Die in Anlage XVI genannten Tätigkeitsarten sind nicht
 gerechtfertigt.
 
-
 #### § 5 Dosisbegrenzung
 
 Wer eine Tätigkeit nach § 2 Abs. 1 Nr. 1 Buchstabe a bis d plant,
@@ -768,7 +751,6 @@ werden. Die Grenzwerte der effektiven Dosis im Kalenderjahr betragen
 nach § 46 Abs. 1 für den Schutz von Einzelpersonen der Bevölkerung 1
 Millisievert und nach § 55 Abs. 1 Satz 1 für den Schutz beruflich
 strahlenexponierter Personen bei deren Berufsausübung 20 Millisievert.
-
 
 #### § 6 Vermeidung unnötiger Strahlenexposition und Dosisreduzierung
 
@@ -782,14 +764,9 @@ und Umwelt unter Beachtung des Standes von Wissenschaft und Technik
 und unter Berücksichtigung aller Umstände des Einzelfalls auch
 unterhalb der Grenzwerte so gering wie möglich zu halten.
 
-
 ### Kapitel 2 - Genehmigungen, Zulassungen, Freigabe
 
-
-
 #### Abschnitt 1 - Umgang mit radioaktiven Stoffen
-
-
 
 ##### § 7 Genehmigungsbedürftiger Umgang mit radioaktiven Stoffen
 
@@ -809,7 +786,6 @@ erforderlich.
 (3) Eine Genehmigung nach Absatz 1 ist nicht erforderlich bei dem
 Aufsuchen, Gewinnen oder Aufbereiten von radioaktiven Bodenschätzen,
 wenn hierauf die Vorschriften des Bundesberggesetzes Anwendung finden.
-
 
 ##### § 8 Genehmigungsfreier Umgang; genehmigungsfreier Besitz von Kernbrennstoffen
 
@@ -869,7 +845,6 @@ Aufbewahrung nach § 6 des Atomgesetzes oder § 7 dieser Verordnung ist
 auch zulässig, wenn der Empfänger nach Satz 1 zum Besitz der
 Kernbrennstoffe berechtigt ist oder wenn diese Kernbrennstoffe zum
 Zweck der Ausfuhr befördert werden sollen.
-
 
 ##### § 9 Genehmigungsvoraussetzungen für den Umgang mit radioaktiven Stoffen
 
@@ -970,7 +945,6 @@ Medizinproduktegesetzes.
 (6) Dem Genehmigungsantrag sind insbesondere die Unterlagen nach
 Anlage II Teil A beizufügen.
 
-
 ##### § 10 Befreiung von der Pflicht zur Deckungsvorsorge
 
 (1) Keiner Deckungsvorsorge nach § 6 Abs. 2 Satz 1 Nr. 3, § 9 Abs. 2
@@ -1005,10 +979,7 @@ radioaktiven Stoffen das
 (4) Die Absätze 1 und 2 gelten nicht für hochradioaktive
 Strahlenquellen.
 
-
 #### Abschnitt 2 - Anlagen zur Erzeugung ionisierender Strahlen
-
-
 
 ##### § 11 Genehmigungsbedürftige Errichtung und genehmigungsbedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlen
 
@@ -1048,7 +1019,6 @@ Strahlung aus einer Bestrahlungsvorrichtung, die Bestandteil einer
 nach § 7 des Atomgesetzes genehmigten Anlage zur Spaltung von
 Kernbrennstoffen ist, in der Heilkunde, Zahnheilkunde oder
 Tierheilkunde anwendet.
-
 
 ##### § 12 Anzeigebedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlen
 
@@ -1103,16 +1073,11 @@ untersagen, wenn
     oder der für die Leitung oder Beaufsichtigung des Betriebs bestellte
     Strahlenschutzbeauftragte nicht zuverlässig ist.
 
-
-
-
-
 ##### § 12a Genehmigungs- und anzeigefreier Betrieb von Anlagen zur Erzeugung ionisierender Strahlen
 
 Wer eine Anlage der in Anlage I Teil C genannten Art betreibt, bedarf
 weder einer Genehmigung nach § 11 Absatz 2, noch hat er eine Anzeige
 nach § 12 Absatz 1 zu erstatten.
-
 
 ##### § 13 Genehmigungsvoraussetzungen für die Errichtung von Anlagen zur Erzeugung ionisierender Strahlen
 
@@ -1160,10 +1125,6 @@ Erzeugung ionisierender Strahlen ist zu erteilen, wenn
 
 
 7.  § 4 Abs. 3 der beabsichtigten Errichtung nicht entgegensteht.
-
-
-
-
 
 ##### § 14 Genehmigungsvoraussetzungen für den Betrieb von Anlagen zur Erzeugung ionisierender Strahlen
 
@@ -1259,10 +1220,7 @@ Dosisgrenzwerte, über die Sperrbereiche, Kontrollbereiche sowie zur
 Begrenzung der Ableitung radioaktiver Stoffe während des Probebetriebs
 eingehalten werden.
 
-
 #### Abschnitt 3 - Beschäftigung in fremden Anlagen oder Einrichtungen
-
-
 
 ##### § 15 Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen
 
@@ -1287,10 +1245,7 @@ beschäftigten Personen die Anordnungen der
 Strahlenschutzverantwortlichen und Strahlenschutzbeauftragten der
 Anlagen oder Einrichtungen befolgen.
 
-
 #### Abschnitt 4 - Beförderung radioaktiver Stoffe
-
-
 
 ##### § 16 Genehmigungsbedürftige Beförderung
 
@@ -1330,7 +1285,6 @@ Genehmigung ist, zu beachten.
 
 (6) Die für die jeweiligen Verkehrsträger geltenden Rechtsvorschriften
 über die Beförderung gefährlicher Güter bleiben unberührt.
-
 
 ##### § 17 Genehmigungsfreie Beförderung
 
@@ -1378,7 +1332,6 @@ Bescheinigung der zuständigen Behörde darüber vorgelegt wird, dass
 sich die Vorsorge der Person, die ihm die Kernmaterialien übergibt,
 auch auf die Erfüllung gesetzlicher Schadensersatzverpflichtungen im
 Zusammenhang mit der Beförderung oder Weiterbeförderung erstreckt.
-
 
 ##### § 18 Genehmigungsvoraussetzungen für die Beförderung
 
@@ -1447,10 +1400,7 @@ mit § 25 des Atomgesetzes in Betracht kommt, tritt für Kernmaterialien
 anstelle der Regelung des Absatz 1 Nr. 4 die Regelung der Anlage 2 zum
 Atomgesetz.
 
-
 #### Abschnitt 5 - Grenzüberschreitende Verbringung radioaktiver Stoffe
-
-
 
 ##### § 19 Genehmigungsbedürftige grenzüberschreitende Verbringung
 
@@ -1511,7 +1461,6 @@ auf eine genehmigungsbedürftige Verbringung nach Absatz 1 oder Absatz
 2 erstrecken. Soweit dies der Fall ist, ist eine Genehmigung nach
 Absatz 1 oder Absatz 2 nicht erforderlich.
 
-
 ##### § 20 Anzeigebedürftige grenzüberschreitende Verbringung
 
 (1) Wer sonstige radioaktive Stoffe nach § 2 Absatz 1 des Atomgesetzes
@@ -1557,7 +1506,6 @@ aus einem Staat, der nicht Mitgliedstaat der Europäischen Union ist,
 in den Geltungsbereich dieser Verordnung verbringt, hat abweichend von
 § 3 Absatz 1 des Atomgesetzes eine Anzeige nach Absatz 1 zu erstatten.
 
-
 ##### § 21 Ausnahmen; andere Vorschriften über die grenzüberschreitende Verbringung
 
 (1) Keiner Genehmigung nach § 3 Absatz 1 des Atomgesetzes oder § 19
@@ -1594,7 +1542,6 @@ Mitgliedstaaten (ABl. L 148 vom 19.6.1993, S. 1) in der jeweils
 geltenden Fassung und der Atomrechtlichen Abfallverbringungsverordnung
 vom 30. April 2009 (BGBl. I S. 1000) in der jeweils geltenden Fassung
 bleiben unberührt.
-
 
 ##### § 22 Genehmigungsvoraussetzungen für die grenzüberschreitende Verbringung
 
@@ -1646,10 +1593,7 @@ nur erteilt werden, wenn gewährleistet ist, dass
 
 Absatz 1 Satz 2 gilt entsprechend.
 
-
 #### Abschnitt 6 - Medizinische Forschung
-
-
 
 ##### § 23 Genehmigungsbedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen in der medizinischen Forschung
 
@@ -1658,7 +1602,6 @@ ionisierende Strahlung am Menschen anwendet, bedarf der Genehmigung.
 
 (2) Für die Erteilung der Genehmigung ist das Bundesamt für
 Strahlenschutz zuständig.
-
 
 ##### § 24 Genehmigungsvoraussetzungen für die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen in der medizinischen Forschung
 
@@ -1779,10 +1722,7 @@ in Verbindung mit Absatz 1 ist für jede beteiligte Einrichtung
 nachzuweisen, dass die Voraussetzungen nach Absatz 1 Nummer 9 und 11
 vorliegen.
 
-
 #### Abschnitt 7 - Bauartzulassung
-
-
 
 ##### § 25 Verfahren der Bauartzulassung
 
@@ -1843,7 +1783,6 @@ oder Zubehör im Sinne des Medizinproduktegesetzes sind.
 (7) Für die Erteilung der Bauartzulassung ist das Bundesamt für
 Strahlenschutz zuständig.
 
-
 ##### § 26 Zulassungsschein und Bekanntmachung der Bauart
 
 (1) Wird die Bauart nach § 25 Abs. 1 zugelassen, so hat die
@@ -1880,7 +1819,6 @@ Rücknahme, ihr Widerruf, die Verlängerung der Zulassungsfrist und die
 Erklärung, dass eine bauartzugelassene Vorrichtung nicht weiter
 betrieben werden darf, hat die Zulassungsbehörde im Bundesanzeiger
 bekannt zu machen.
-
 
 ##### § 27 Pflichten des Inhabers einer Bauartzulassung und des Inhabers einer bauartzugelassenen Vorrichtung
 
@@ -1954,10 +1892,7 @@ unverhältnismäßig hohem Aufwand möglich, so ist sie an eine
 Landessammelstelle oder an eine von der zuständigen Behörde bestimmte
 Stelle abzugeben.
 
-
 #### Abschnitt 8 - Ausnahmen
-
-
 
 ##### § 28 Ausnahmen von dem Erfordernis der Genehmigung und der Anzeige
 
@@ -1973,10 +1908,7 @@ bedarf keiner Genehmigung nach § 15 dieser Verordnung. Satz 1 ist
 nicht auf Heimarbeiter oder auf Hausgewerbetreibende im Sinne des
 Heimarbeitsgesetzes anzuwenden.
 
-
 #### Abschnitt 9 - Freigabe
-
-
 
 ##### § 29 Voraussetzungen für die Freigabe
 
@@ -2173,14 +2105,9 @@ Endlagerung radioaktiver Abfälle nach dem Atomgesetz kann über die
 Freigabe die nach § 23 Abs. 1 Nr. 2 des Atomgesetzes zuständige
 Überwachungsbehörde entscheiden.
 
-
 ### Kapitel 3 - Anforderungen bei der Nutzung radioaktiver Stoffe und ionisierender Strahlung
 
-
-
 #### Abschnitt 1 - Fachkunde im Strahlenschutz
-
-
 
 ##### § 30 Erforderliche Fachkunde und Kenntnisse im Strahlenschutz
 
@@ -2237,10 +2164,7 @@ erforderlichen Kenntnisse im Strahlenschutz mit dem Bestehen der
 Abschlussprüfung dieses Kurses erworben werden. Absatz 3 gilt
 entsprechend.
 
-
 #### Abschnitt 2 - Betriebliche Organisation des Strahlenschutzes
-
-
 
 ##### § 31 Strahlenschutzverantwortliche und Strahlenschutzbeauftragte
 
@@ -2295,7 +2219,6 @@ Beaufsichtigung des Betriebes oder eines Betriebsteiles nach § 58 Abs.
 1 Nr. 2 des Bundesberggesetzes bestellt sein, wenn auf diese
 Tätigkeiten die Vorschriften des Bundesberggesetzes Anwendung finden.
 
-
 ##### § 32 Stellung des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten
 
 (1) Dem Strahlenschutzbeauftragten obliegen die ihm durch diese
@@ -2332,7 +2255,6 @@ dessen Verlangen in Angelegenheiten des Strahlenschutzes zu beraten.
 (5) Der Strahlenschutzbeauftragte darf bei der Erfüllung seiner
 Pflichten nicht behindert und wegen deren Erfüllung nicht
 benachteiligt werden.
-
 
 ##### § 33 Pflichten des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten
 
@@ -2570,7 +2492,6 @@ Strahlenschutzbeauftragte haben dafür zu sorgen, dass bei Gefahr für
 Mensch und Umwelt unverzüglich geeignete Maßnahmen zur Abwendung
 dieser Gefahr getroffen werden.
 
-
 ##### § 34 Strahlenschutzanweisung
 
 Es ist eine Strahlenschutzanweisung zu erlassen, in der die in dem
@@ -2619,7 +2540,6 @@ Die Strahlenschutzanweisung kann Bestandteil sonstiger erforderlicher
 Betriebsanweisungen nach arbeitsschutz-, immissionsschutz- oder
 gefahrstoffrechtlichen Vorschriften sein.
 
-
 ##### § 35 Auslegung oder Aushang der Verordnung
 
 Ein Abdruck dieser Verordnung ist in Betrieben oder selbständigen
@@ -2628,10 +2548,7 @@ zur Einsicht ständig verfügbar zu halten, wenn regelmäßig mindestens
 eine Person beschäftigt oder unter der Aufsicht eines anderen tätig
 ist.
 
-
 #### Abschnitt 3 - Schutz von Personen in Strahlenschutzbereichen; physikalische Strahlenschutzkontrolle
-
-
 
 ##### § 36 Strahlenschutzbereiche
 
@@ -2690,7 +2607,6 @@ kennzeichnen, dass unbeteiligte Personen diesen nicht unbeabsichtigt
 betreten können. Kann ausgeschlossen werden, dass unbeteiligte
 Personen den Kontrollbereich unbeabsichtigt betreten können, ist die
 Abgrenzung nicht erforderlich.
-
 
 ##### § 37 Zutritt zu Strahlenschutzbereichen
 
@@ -2787,7 +2703,6 @@ stillenden Frau kein Zutritt als Tierbegleitperson zu
 Kontrollbereichen gestattet werden, in denen mit offenen radioaktiven
 Stoffen umgegangen wird.
 
-
 ##### § 38 Unterweisung
 
 (1) Personen, denen nach § 37 Abs. 1 Satz 1 Nr. 2 Buchstabe a oder c
@@ -2824,7 +2739,6 @@ Absatzes 1 fünf Jahre, in denen des Absatzes 2 ein Jahr lang nach der
 Unterweisung aufzubewahren und der zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ##### § 39 Messtechnische Überwachung in Strahlenschutzbereichen
 
 In Strahlenschutzbereichen ist in dem für die Ermittlung der
@@ -2842,7 +2756,6 @@ Kombination
 
 
 zu messen.
-
 
 ##### § 40 Zu überwachende Personen
 
@@ -2888,7 +2801,6 @@ Verordnung ausgeübt werden, durch geeignete Messungen feststellen
 lassen, ob sie radioaktive Stoffe inkorporiert haben. Sie kann
 anordnen, dass bei Personen, die sich im Überwachungsbereich
 aufhalten, die Körperdosis ermittelt wird.
-
 
 ##### § 41 Ermittlung der Körperdosis
 
@@ -2997,7 +2909,6 @@ durchgeführt werden.
 regelmäßige interne Prüfungen sicherzustellen. Die Ergebnisse der
 Prüfungen sind der zuständigen Behörde auf Verlangen mitzuteilen.
 
-
 ##### § 42 Aufzeichnungs- und Mitteilungspflicht
 
 (1) Die Ergebnisse der Messungen und Ermittlungen nach den §§ 40 und
@@ -3026,7 +2937,6 @@ mitzuteilen.
 (3) Bei Überschreitungen der Werte der Oberflächenkontamination nach §
 44 Abs. 2 Nr. 3 gelten die Absätze 1 und 2 entsprechend.
 
-
 ##### § 43 Schutzvorkehrungen
 
 (1) Der Schutz beruflich strahlenexponierter Personen vor äußerer und
@@ -3052,7 +2962,6 @@ Aktivität die Freigrenzen der Anlage III Tabelle 1 Spalte 2 und 3
 überschreitet. Offene radioaktive Stoffe dürfen an Arbeitsplätzen nur
 so lange und in solchen Aktivitäten vorhanden sein, wie das
 Arbeitsverfahren es erfordert.
-
 
 ##### § 44 Kontamination und Dekontamination
 
@@ -3131,7 +3040,6 @@ Oberflächenkontamination nicht eingehalten werden, so sind die in
 solchen Arbeitsbereichen beschäftigten Personen durch besondere
 Maßnahmen zu schützen.
 
-
 ##### § 45 Beschäftigungsverbote und Beschäftigungsbeschränkungen
 
 (1) Es ist dafür zu sorgen, dass Personen unter 18 Jahren nicht mit
@@ -3149,10 +3057,7 @@ gewährleistet wird.
 Umgang mit radioaktiven Stoffen nur in Anwesenheit und unter der
 Aufsicht des zuständigen Strahlenschutzbeauftragten mitwirken.
 
-
 #### Abschnitt 4 - Schutz von Bevölkerung und Umwelt bei Strahlenexpositionen aus Tätigkeiten
-
-
 
 ##### § 46 Begrenzung der Strahlenexposition der Bevölkerung
 
@@ -3172,7 +3077,6 @@ maßgebenden Aufenthaltszeiten richten sich nach den räumlichen
 Gegebenheiten der Anlage oder Einrichtung oder des Standortes; liegen
 keine begründeten Angaben für die Aufenthaltszeiten vor, ist
 Daueraufenthalt anzunehmen.
-
 
 ##### § 47 Begrenzung der Ableitung radioaktiver Stoffe
 
@@ -3267,7 +3171,6 @@ Berücksichtigung anderer Anlagen und Einrichtungen zu treffenden
 Annahmen werden in die allgemeinen Verwaltungsvorschriften nach Absatz
 2 aufgenommen.
 
-
 ##### § 48 Emissions- und Immissionsüberwachung
 
 (1) Es ist dafür zu sorgen, dass Ableitungen aus Anlagen oder
@@ -3312,10 +3215,7 @@ Immissionsüberwachung zusammenzufassen, aufzubereiten und zu
 dokumentieren. Die Physikalisch-Technische Bundesanstalt stellt
 Radioaktivitätsstandards für Vergleichsmessungen bereit.
 
-
 #### Abschnitt 5 - Schutz vor sicherheitstechnisch bedeutsamen Ereignissen
-
-
 
 ##### § 49 Sicherheitstechnische Auslegung für den Betrieb von Kernkraftwerken, für die standortnahe Aufbewahrung bestrahlter Brennelemente und für Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
 
@@ -3368,7 +3268,6 @@ Abfälle.
 (3) Die Absätze 1 und 2 gelten nicht für Güter, die als gefährliche
 Güter nach § 2 des Gefahrgutbeförderungsgesetzes befördert werden.
 
-
 ##### § 50 Begrenzung der Strahlenexposition als Folge von Störfällen bei sonstigen Anlagen und Einrichtungen und bei Stilllegungen
 
 (1) Bei der Planung von anderen als in § 49 genannten Anlagen nach § 7
@@ -3412,7 +3311,6 @@ zur Störfallvorsorge nach den Absätzen 1 bis 3 festgelegt werden.
 (5) Die Absätze 1 bis 3 gelten nicht für Güter, die als gefährliche
 Güter nach § 2 des Gefahrgutbeförderungsgesetzes befördert werden.
 
-
 ##### § 51 Maßnahmen bei sicherheitstechnisch bedeutsamen Ereignissen
 
 (1) Bei radiologischen Notstandssituationen, Unfällen und Störfällen
@@ -3431,7 +3329,6 @@ Bevölkerung und geben Hinweise über Verhaltensmaßnahmen,
 einschließlich genauer Hinweise für zu ergreifende
 Gesundheitsschutzmaßnahmen. Die Information an die Bevölkerung enthält
 die in Anlage XIII Teil A aufgeführten Angaben.
-
 
 ##### § 52 Vorbereitung der Brandbekämpfung
 
@@ -3458,7 +3355,6 @@ untertägigen Betrieben: Grubenwehr) im Einsatzfall
 Die betroffenen Bereiche sind jeweils am Zugang deutlich sichtbar und
 dauerhaft mit dem Zeichen "Gefahrengruppe I", "Gefahrengruppe II" oder
 "Gefahrengruppe III" zu kennzeichnen.
-
 
 ##### § 53 Vorbereitung der Schadensbekämpfung bei sicherheitstechnisch bedeutsamen Ereignissen
 
@@ -3538,10 +3434,7 @@ Weise, in der die Informationen zu geben, zu wiederholen und auf den
 neuesten Stand zu bringen sind, ist mit den für den Katastrophenschutz
 zuständigen Behörden abzustimmen.
 
-
 #### Abschnitt 6 - Begrenzung der Strahlenexposition bei der Berufsausübung
-
-
 
 ##### § 54 Kategorien beruflich strahlenexponierter Personen
 
@@ -3566,10 +3459,6 @@ und arbeitsmedizinischen Vorsorge folgenden Kategorien zugeordnet:
     Augenlinse oder einer höheren Organdosis als 50 Millisievert für die
     Haut, die Hände, die Unterarme, die Füße oder Knöchel führen kann,
     ohne in die Kategorie A zu fallen.
-
-
-
-
 
 ##### § 55 Schutz bei beruflicher Strahlenexposition
 
@@ -3626,7 +3515,6 @@ Strahlenexposition ausgesetzt ist, beträgt der Grenzwert der Dosis aus
 äußerer und innerer Strahlenexposition vom Zeitpunkt der Mitteilung
 über die Schwangerschaft bis zu deren Ende 1 Millisievert.
 
-
 ##### § 56 Berufslebensdosis
 
 Der Grenzwert für die Summe der in allen Kalenderjahren ermittelten
@@ -3636,7 +3524,6 @@ nach § 64 Abs. 1 Satz 1 eine weitere berufliche Strahlenexposition
 zulassen, wenn diese nicht mehr als 10 Millisievert effektive Dosis im
 Kalenderjahr beträgt und die beruflich strahlenexponierte Person
 einwilligt. Die Einwilligung ist schriftlich zu erteilen.
-
 
 ##### § 57 Dosisbegrenzung bei Überschreitung
 
@@ -3651,7 +3538,6 @@ Grenzwertes so hoch, dass bei Anwendung von Satz 1 die bisherige
 Beschäftigung nicht fortgesetzt werden kann, kann die zuständige
 Behörde im Benehmen mit einem Arzt nach § 64 Abs. 1 Satz 1 Ausnahmen
 von Satz 1 zulassen.
-
 
 ##### § 58 Besonders zugelassene Strahlenexpositionen
 
@@ -3690,7 +3576,6 @@ des § 55 Abs. 1 oder 2 überschritten, so ist diese Überschreitung
 allein kein Grund, die Person ohne ihr Einverständnis von ihrer
 bisherigen Beschäftigung auszuschließen.
 
-
 ##### § 59 Strahlenexposition bei Personengefährdung und Hilfeleistung
 
 (1) Bei Maßnahmen zur Abwehr von Gefahren für Personen ist
@@ -3713,10 +3598,7 @@ der Summe der in allen Kalenderjahren ermittelten effektiven Dosen
 nach § 56 zu berücksichtigen. § 58 Abs. 4 Satz 2 und Abs. 5 gilt
 entsprechend.
 
-
 #### Abschnitt 7 - Arbeitsmedizinische Vorsorge beruflich strahlenexponierter Personen
-
-
 
 ##### § 60 Erfordernis der arbeitsmedizinischen Vorsorge
 
@@ -3760,7 +3642,6 @@ nach Beendigung des Beschäftigungsverhältnisses veranlasst.
 Voraussetzung hierfür ist, dass dem Unfallversicherungsträger die
 erforderlichen Unterlagen in Kopie überlassen werden; hierauf ist der
 Betroffene vor Abgabe der Einwilligung schriftlich hinzuweisen.
-
 
 ##### § 61 Ärztliche Bescheinigung
 
@@ -3810,7 +3691,6 @@ Bescheinigung in den Strahlenpass ersetzt werden.
 (4) Die ärztliche Bescheinigung kann durch die Entscheidung der
 zuständigen Behörde nach § 62 ersetzt werden.
 
-
 ##### § 62 Behördliche Entscheidung
 
 (1) Hält der Strahlenschutzverantwortliche oder die beruflich
@@ -3823,7 +3703,6 @@ eines Arztes einholen, der über die für die arbeitsmedizinische
 Vorsorge beruflich strahlenexponierter Personen erforderliche
 Fachkunde im Strahlenschutz verfügt. Die Kosten des ärztlichen
 Gutachtens sind vom Strahlenschutzverantwortlichen zu tragen.
-
 
 ##### § 63 Besondere arbeitsmedizinische Vorsorge
 
@@ -3846,7 +3725,6 @@ unter Beschränkungen ausüben darf. § 62 Absatz 2 gilt entsprechend.
 (3) (weggefallen)
 
 (4) (weggefallen)
-
 
 ##### § 64 Ermächtigte Ärzte
 
@@ -3890,10 +3768,7 @@ wahren.
 (5) Der Arzt nach Absatz 1 Satz 1 hat der untersuchten Person auf ihr
 Verlangen Einsicht in ihre Gesundheitsakte zu gewähren.
 
-
 #### Abschnitt 8 - Sonstige Anforderungen
-
-
 
 ##### § 65 Lagerung und Sicherung radioaktiver Stoffe
 
@@ -3916,7 +3791,6 @@ Lagerung kein kritischer Zustand entstehen kann.
 (3) Radioaktive Stoffe, die Sicherheitsmaßnahmen aufgrund
 internationaler Verpflichtungen unterliegen, sind so zu lagern, dass
 die Durchführung der Sicherheitsmaßnahmen nicht beeinträchtigt wird.
-
 
 ##### § 66 Wartung, Überprüfung und Dichtheitsprüfung
 
@@ -3980,7 +3854,6 @@ Behörde auf Verlangen vorzulegen. Festgestellte Undichtheiten und
 Mängel an der Unversehrtheit sind der zuständigen Behörde unverzüglich
 mitzuteilen.
 
-
 ##### § 67 Strahlungsmessgeräte
 
 (1) Zur Messung der Personendosis, der Ortsdosis, der
@@ -4018,7 +3891,6 @@ Messzweck dienen.
 (4) Die Anzeige der Geräte zur Überwachung der Ortsdosis oder
 Ortsdosisleistung in Sperrbereichen muss auch außerhalb dieser
 Bereiche wahrnehmbar sein.
-
 
 ##### § 68 Kennzeichnungspflicht
 
@@ -4125,7 +3997,6 @@ enthaltenen Radionuklide und deren Aktivität zum Zeitpunkt der
 Herstellung ersichtlich sind, soweit dies nach Größe und
 Beschaffenheit der Vorrichtung möglich ist.
 
-
 ##### § 69 Abgabe radioaktiver Stoffe
 
 (1) Stoffe, mit denen nur aufgrund einer Genehmigung nach den §§ 6, 7
@@ -4193,13 +4064,11 @@ an den Hersteller, den Verbringer oder einen anderen
 Genehmigungsinhaber abzugeben oder als radioaktiver Abfall abzuliefern
 oder zwischenzulagern.
 
-
 ##### § 69a Rücknahme hochradioaktiver Strahlenquellen
 
 Wer hochradioaktive Strahlenquellen hergestellt oder nach § 3 Abs. 2
 Nr. 36 verbracht hat, hat diese zurückzunehmen oder sicherzustellen,
 dass sie von Dritten zurückgenommen werden können.
-
 
 ##### § 70 Buchführung und Mitteilung
 
@@ -4278,7 +4147,6 @@ hinterlegen. Im Falle einer Beendigung der Tätigkeit vor Ablauf der
 Aufbewahrungsfrist nach Satz 1 sind die Unterlagen unverzüglich einer
 von der zuständigen Behörde bestimmten Stelle zu übergeben.
 
-
 ##### § 70a Register über hochradioaktive Strahlenquellen
 
 (1) Die Angaben nach § 12d Abs. 2 des Atomgesetzes werden mittels des
@@ -4332,7 +4200,6 @@ unverzüglich
 
 (5) Das Bundesamt für Strahlenschutz bestimmt das Datenformat und das
 Verfahren zur Übermittlung.
-
 
 ##### § 71 Abhandenkommen, Fund, Erlangung der tatsächlichen Gewalt
 
@@ -4408,10 +4275,7 @@ radioaktiven Stoffe bis zur Entscheidung der zuständigen Behörde oder
 auf deren Anordnung lagert oder aus zwingenden Gründen zum Schutz von
 Leben und Gesundheit befördert oder handhabt.
 
-
 #### Abschnitt 9 - Radioaktive Abfälle
-
-
 
 ##### § 72 Planung für Anfall und Verbleib radioaktiver Abfälle
 
@@ -4450,7 +4314,6 @@ denjenigen, der radioaktive Abfälle im Sinne des Satzes 4 von
 Abfallverursachern übernimmt und hierdurch selbst
 ablieferungspflichtig wird.
 
-
 ##### § 73 Erfassung
 
 (1) Wer eine Tätigkeit nach § 2 Abs. 1 Nr. 1 Buchstabe a, c oder d
@@ -4475,7 +4338,6 @@ Sicherstellung und zur Endlagerung radioaktiver Abfälle für mindestens
 ein Jahr bereitzuhalten.
 
 (4) § 72 Satz 4 und 5 gilt entsprechend.
-
 
 ##### § 74 Behandlung und Verpackung
 
@@ -4505,7 +4367,6 @@ entsprechend.
 
 (4) Anforderungen auf der Grundlage des Gefahrgutbeförderungsgesetzes
 bleiben unberührt.
-
 
 ##### § 75 Pflichten bei der Abgabe radioaktiver Abfälle
 
@@ -4546,7 +4407,6 @@ Abs. 2 der Atomrechtlichen Abfallverbringungsverordnung nicht
 erforderlich.
 
 (5) § 72 Satz 4 und 5 gilt entsprechend.
-
 
 ##### § 76 Ablieferung
 
@@ -4610,7 +4470,6 @@ der Zulassung entfällt die Ablieferungspflicht nach Absatz 1 oder 2.
 radioaktiven Abfälle grundsätzlich an eine Anlage des Bundes zur
 Sicherstellung und zur Endlagerung radioaktiver Abfälle ab.
 
-
 ##### § 77 Ausnahmen von der Ablieferungspflicht
 
 Die Ablieferungspflicht nach § 76 bezieht sich nicht auf radioaktive
@@ -4622,7 +4481,6 @@ Freigabe nach § 29 noch nicht entschieden oder eine anderweitige
 Zwischenlagerung der radioaktiven Abfälle angeordnet oder genehmigt
 ist.
 
-
 ##### § 78 Zwischenlagerung
 
 Bis zur Inbetriebnahme von Anlagen des Bundes zur Sicherstellung und
@@ -4633,7 +4491,6 @@ nach Inbetriebnahme dieser Anlagen von deren Betreiber abgerufen. Die
 Zwischenlagerung kann auch von mehreren Ablieferungspflichtigen
 gemeinsam oder durch Dritte erfolgen.
 
-
 ##### § 79 Umgehungsverbot
 
 Niemand darf sich den Pflichten aus den §§ 72 bis 78 dadurch
@@ -4643,14 +4500,9 @@ Inanspruchnahme der Regelung des § 8 Abs. 1 durch Verdünnung oder
 Aufteilung in Freigrenzenmengen beseitigt, beseitigen lässt oder deren
 Beseitigung ermöglicht. § 29 Abs. 2 Satz 4 bleibt unberührt.
 
-
 ### Kapitel 4 - Besondere Anforderungen bei der medizinischen Anwendung radioaktiver Stoffe und ionisierender Strahlung
 
-
-
 #### Abschnitt 1 - Heilkunde und Zahnheilkunde
-
-
 
 ##### § 80 Rechtfertigende Indikation
 
@@ -4683,7 +4535,6 @@ sie stillen. Bei bestehender oder nicht auszuschließender
 Schwangerschaft ist die Dringlichkeit der Anwendung besonders zu
 prüfen. Bei Anwendung offener radioaktiver Stoffe gilt Satz 2
 entsprechend für stillende Frauen.
-
 
 ##### § 81 Beschränkung der Strahlenexposition
 
@@ -4738,7 +4589,6 @@ Anlagen zur Erzeugung ionisierender Strahlen,
 Bestrahlungsvorrichtungen oder sonstige Geräte oder Ausrüstungen nur
 in dem Umfang vorhanden sind, wie sie für die ordnungsgemäße
 Durchführung medizinischer Anwendungen erforderlich sind.
-
 
 ##### § 82 Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen
 
@@ -4811,7 +4661,6 @@ hinzuzuziehen. Bei nuklearmedizinischen Untersuchungen oder bei
 Standardbehandlungen mit radioaktiven Stoffen muss ein Medizinphysik-
 Experte, insbesondere zur Optimierung und Qualitätssicherung bei der
 Anwendung radioaktiver Stoffe, verfügbar sein.
-
 
 ##### § 83 Qualitätssicherung bei der medizinischen Strahlenanwendung
 
@@ -4901,7 +4750,6 @@ Abnahmeprüfung. Die Aufzeichnungen zu den Prüfungen nach Absatz 6 sind
 zehn Jahre aufzubewahren. Die Aufzeichnungen nach den Sätzen 2 und 3
 sind der zuständigen Behörde auf Verlangen vorzulegen.
 
-
 ##### § 84 Bestrahlungsräume
 
 Anlagen zur Erzeugung ionisierender Strahlen sowie
@@ -4918,7 +4766,6 @@ der Strahlerkopf der Bestrahlungsvorrichtung geschlossen oder der
 radioaktive Stoff in die Abschirmung eingefahren werden kann. Es muss
 eine geeignete Ausstattung zur Überwachung des Patienten im
 Bestrahlungsraum vorhanden sein.
-
 
 ##### § 85 Aufzeichnungspflichten
 
@@ -4990,17 +4837,13 @@ Medizinprodukten kann hierfür herangezogen werden. Das
 Bestandsverzeichnis ist der zuständigen Behörde auf Verlangen
 vorzulegen.
 
-
 ##### § 86 Anwendungen am Menschen außerhalb der Heilkunde oder Zahnheilkunde
 
 Für Anwendungen radioaktiver Stoffe oder ionisierender Strahlung am
 Menschen, die durch andere gesetzliche Regelungen vorgesehen oder
 zugelassen sind, gelten die §§ 80 bis 85 entsprechend.
 
-
 #### Abschnitt 2 - Medizinische Forschung
-
-
 
 ##### § 87 Besondere Schutz- und Aufklärungspflichten
 
@@ -5070,7 +4913,6 @@ einer Person nach § 82 Abs. 1 vorgenommen werden.
 (7) § 81 Absatz 5 und 6 sowie die §§ 83, 84 und 85 Abs. 5 und 6 gelten
 entsprechend.
 
-
 ##### § 88 Anwendungsverbote und Anwendungsbeschränkungen für einzelne Personengruppen
 
 (1) An schwangeren Frauen dürfen radioaktive Stoffe oder ionisierende
@@ -5121,7 +4963,6 @@ zulässig, wenn
 Für die Erklärungen nach Satz 1 Nr. 3 gilt § 87 Abs. 1 bis 3
 entsprechend.
 
-
 ##### § 89 Mitteilungs- und Berichtspflichten
 
 (1) Der zuständigen Aufsichtsbehörde und der Genehmigungsbehörde sind
@@ -5142,7 +4983,6 @@ nach Beendigung der Anwendung je ein Abschlussbericht vorzulegen, aus
 dem die im Einzelfall ermittelte Körperdosis oder die zur Berechnung
 der Körperdosis relevanten Daten hervorgehen.
 
-
 ##### § 90 Schutzanordnung
 
 Ist zu besorgen, dass ein Proband aufgrund einer Überschreitung der
@@ -5150,7 +4990,6 @@ genehmigten Dosiswerte für die Anwendung radioaktiver Stoffe oder
 ionisierender Strahlung in der medizinischen Forschung an der
 Gesundheit geschädigt wird, so ordnet die zuständige Behörde an, dass
 er durch einen Arzt nach § 64 Abs. 1 Satz 1 untersucht wird.
-
 
 ##### § 91 Deckungsvorsorge im Falle klinischer Prüfungen
 
@@ -5165,7 +5004,6 @@ Medizinproduktegesetzes dem Grund und der Höhe nach erfüllt sind. Im
 Fall einer Genehmigung nach § 24 Absatz 2 bedarf es keiner
 Deckungsvorsorge, die über die Probandenversicherung nach dem
 Arzneimittelgesetz oder nach dem Medizinproduktegesetz hinausgeht.
-
 
 ##### § 92 Ethikkommission
 
@@ -5188,10 +5026,7 @@ Kommission, des Verfahrens oder der übrigen Festlegungen der
 Verfahrensordnung sind der für die Registrierung zuständigen Behörde
 unverzüglich mitzuteilen.
 
-
 ### Kapitel 5 - Anwendung radioaktiver Stoffe oder ionisierender Strahlung in der Tierheilkunde
-
-
 
 #### § 92a Beschränkung der Strahlenexposition bei Tierbegleitpersonen
 
@@ -5202,7 +5037,6 @@ Vorschriften über Dosisgrenzwerte und über die physikalische
 Strahlenschutzkontrolle nach den §§ 40 bis 44, mit Ausnahme von § 40
 Absatz 1 Satz 1 und § 42 Absatz 1 Satz 1, gelten nicht für
 Tierbegleitpersonen.
-
 
 #### § 92b Berechtigte Personen in der Tierheilkunde
 
@@ -5254,14 +5088,9 @@ ionisierender Strahlung in der Tierheilkunde technisch mitwirken:
 (3) Bei der Anwendung von radioaktiven Stoffen oder ionisierender
 Strahlung am Tier bleiben tierschutzrechtliche Vorschriften unberührt.
 
-
 ## Teil 3 - Schutz von Mensch und Umwelt vor natürlichen Strahlungsquellen bei Arbeiten
 
-
-
 ### Kapitel 1 - Grundpflichten
-
-
 
 #### § 93 Dosisbegrenzung
 
@@ -5270,7 +5099,6 @@ Wer in eigener Verantwortung eine Arbeit der in Kapitel 2 oder Kapitel
 die Dosisgrenzwerte in den Kapiteln 2 und 4 nicht überschritten
 werden.
 
-
 #### § 94 Dosisreduzierung
 
 Wer in eigener Verantwortung eine Arbeit der in den Kapiteln 2 bis 4
@@ -5278,10 +5106,7 @@ genannten Art plant, ausübt oder ausüben lässt, hat geeignete
 Maßnahmen zu treffen, um unter Berücksichtigung aller Umstände des
 Einzelfalls die Strahlenexposition so gering wie möglich zu halten.
 
-
 ### Kapitel 2 - Anforderungen bei terrestrischer Strahlung an Arbeitsplätzen
-
-
 
 #### § 95 Natürlich vorkommende radioaktive Stoffe an Arbeitsplätzen
 
@@ -5415,7 +5240,6 @@ Dosis gilt, dass eine potenzielle Alphaenergie-Exposition von 0,71
 Millijoule je Kubikmeter mal Stunde einer effektiven Dosis von 1
 Millisievert entspricht.
 
-
 #### § 96 Dokumentation und weitere Schutzmaßnahmen
 
 (1) Wer in eigener Verantwortung eine anzeigebedürftige Arbeit nach §
@@ -5487,10 +5311,7 @@ genannten Arbeitsfeldern entsprechen, kann die zuständige Behörde in
 entsprechender Anwendung der Absätze 1 bis 4 und des § 95 die
 erforderlichen Anordnungen treffen.
 
-
 ### Kapitel 3 - Schutz der Bevölkerung bei natürlich vorkommenden radioaktiven Stoffen
-
-
 
 #### § 97 Überwachungsbedürftige Rückstände; unzulässige Verbringung
 
@@ -5528,7 +5349,6 @@ werden.
 
 (5) Die grenzüberschreitende Verbringung von Rückständen ins Inland
 zur Beseitigung ist verboten.
-
 
 #### § 98 Entlassung von Rückständen aus der Überwachung
 
@@ -5578,7 +5398,6 @@ Kreislaufwirtschaftsgesetzes sowie der aufgrund dieses Gesetzes
 erlassenen Bestimmungen zur Führung von Nachweisen über die
 ordnungsgemäße Entsorgung von Abfällen bleiben unberührt.
 
-
 #### § 99 In der Überwachung verbleibende Rückstände
 
 Der nach § 97 Abs. 1 Satz 1 Verpflichtete hat der zuständigen Behörde
@@ -5590,7 +5409,6 @@ Rückstände eine Entlassung aus der Überwachung gemäß § 98 Abs. 1 Satz
 1 nicht möglich ist. Die zuständige Behörde kann anordnen, dass
 Schutzmaßnahmen zu treffen sind und auf welche Weise die Rückstände zu
 beseitigen sind.
-
 
 #### § 100 Mitteilungspflicht, Rückstandskonzept, Rückstandsbilanz
 
@@ -5635,7 +5453,6 @@ zuständigen Behörde auf Verlangen vorzulegen. Absatz 3 Satz 3 gilt
 entsprechend. Entsprechende Nachweise nach § 21 des
 Kreislaufwirtschaftsgesetzes können ergänzend vorgelegt werden.
 
-
 #### § 101 Entfernung von radioaktiven Verunreinigungen von Grundstücken
 
 (1) Wer Arbeiten im Sinne des § 97 Abs. 1 Satz 1 oder Satz 2 beendet,
@@ -5664,7 +5481,6 @@ Sie kann die Durchführung der Pflicht nach Absatz 1 auch zu einem
 späteren Zeitpunkt gestatten, wenn auf dem Grundstück weiterhin
 Arbeiten nach § 97 Abs. 1 ausgeübt werden sollen.
 
-
 #### § 102 Überwachung sonstiger Materialien
 
 Kann durch Arbeiten mit Materialien, die im Inland oder im Ausland
@@ -5689,13 +5505,7 @@ Anordnungen. Sie kann insbesondere anordnen,
     angefallen und ins Inland verbracht worden sind, diese an den
     ursprünglichen Besitzer im Versandstaat zurückführt.
 
-
-
-
-
 ### Kapitel 4 - Kosmische Strahlung
-
-
 
 #### § 103 Schutz des fliegenden Personals vor Expositionen durch kosmische Strahlung
 
@@ -5833,10 +5643,7 @@ soweit gesundheitliche Bedenken bestehen, auch der zuständigen Behörde
 unverzüglich zu übersenden. Die Untersuchung kann im Rahmen der
 fliegerärztlichen Untersuchung erfolgen.
 
-
 ### Kapitel 5 - Betriebsorganisation
-
-
 
 #### § 104 Mitteilungspflichten zur Betriebsorganisation
 
@@ -5849,10 +5656,7 @@ nach diesem Teil der Verordnung wahrnimmt. Die Gesamtverantwortung
 aller Organmitglieder oder vertretungsberechtigter Mitglieder der
 Personenvereinigung bleibt davon unberührt.
 
-
 ## Teil 4 - Schutz des Verbrauchers beim Zusatz radioaktiver Stoffe zu Produkten
-
-
 
 ### § 105 Unzulässiger Zusatz von radioaktiven Stoffen und unzulässige Aktivierung
 
@@ -5898,7 +5702,6 @@ keine Freigrenzen festgelegt sind. Im Übrigen bleiben die
 Rechtsvorschriften für Lebensmittel, Trinkwasser, kosmetische Mittel,
 Futtermittel und sonstige Bedarfsgegenstände unberührt.
 
-
 ### § 106 Genehmigungsbedürftiger Zusatz von radioaktiven Stoffen und genehmigungsbedürftige Aktivierung
 
 (1) Wer bei der Herstellung von Konsumgütern, von Arzneimitteln im
@@ -5922,10 +5725,6 @@ Zusatz von
 
 2.  Radionukliden, für die in Anlage III Tabelle 1 keine Freigrenzen
     festgelegt sind.
-
-
-
-
 
 ### § 107 Genehmigungsvoraussetzungen für den Zusatz von radioaktiven Stoffen und die Aktivierung
 
@@ -6028,7 +5827,6 @@ des § 14 Nr. 1 bis 9 treten.
 (5) Dem Genehmigungsantrag sind die Unterlagen, die Anlage II Teil A
 entsprechen, beizufügen.
 
-
 ### § 108 Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern
 
 Wer Konsumgüter, denen radioaktive Stoffe zugesetzt oder die aktiviert
@@ -6062,7 +5860,6 @@ verbringt, bedarf der Genehmigung. Satz 1 gilt nicht für
 
 § 106 Abs. 3 gilt entsprechend.
 
-
 ### § 109 Genehmigungsvoraussetzungen für die grenzüberschreitende Verbringung von Konsumgütern
 
 Die Genehmigung nach § 108 ist zu erteilen, wenn die Voraussetzung des
@@ -6071,7 +5868,6 @@ dieser Verordnung müssen zusätzlich die Voraussetzungen des § 107
 Absatz 1 Satz 1 Nummer 1 bis 4 und 6 und Satz 2 erfüllt sein. § 107
 Abs. 2 und § 110 Satz 1 gelten entsprechend, dabei tritt der
 Verbringer an die Stelle des Herstellers im Sinne des § 110 Satz 1.
-
 
 ### § 110 Rückführung von Konsumgütern
 
@@ -6082,14 +5878,9 @@ kann. Der Letztverbraucher hat nach Beendigung des Gebrauchs das
 Konsumgut unverzüglich an die, in der Information nach § 107 Abs. 1
 Nr. 3 angegebene Stelle zurückzugeben.
 
-
 ## Teil 5 - Gemeinsame Vorschriften
 
-
-
 ### Kapitel 1 - Berücksichtigung von Strahlenexpositionen
-
-
 
 #### § 111 Festlegungen zur Ermittlung der Strahlenexposition; Duldungspflicht
 
@@ -6146,7 +5937,6 @@ zuständige Behörde nach § 60 Abs. 4, § 96 Abs. 4 und 5 oder § 113 Abs.
 Überschreitung von Grenzwerten oder auf Verlangen ist diesen Personen
 Auskunft über das Ergebnis der Ermittlungen oder Feststellungen zu
 geben.
-
 
 #### § 112 Strahlenschutzregister
 
@@ -6257,10 +6047,7 @@ das Bundesamt für Strahlenschutz bestimmt. Das Bundesamt für
 Strahlenschutz bestimmt das Datenformat und das Verfahren der
 Übermittlung.
 
-
 ### Kapitel 2 - Befugnisse der Behörde
-
-
 
 #### § 113 Anordnung von Maßnahmen
 
@@ -6296,7 +6083,6 @@ Abs. 4, 7 oder 8 überschritten sind, kann die zuständige Behörde
 anordnen, dass sich diese Personen von einem Arzt nach § 64 Abs. 1
 Satz 1 untersuchen lassen.
 
-
 #### § 114 Behördliche Ausnahmen von Strahlenschutzvorschriften
 
 Die zuständige Behörde kann im Einzelfall gestatten, dass von den
@@ -6315,13 +6101,7 @@ Dosisgrenzwerteregelungen abgewichen wird, wenn
     einer Tätigkeit oder einer Arbeit durch die Abweichung nicht
     beeinträchtigt werden und der Strahlenschutz gewährleistet ist.
 
-
-
-
-
 ### Kapitel 3 - Formvorschriften
-
-
 
 #### § 115 Elektronische Kommunikation
 
@@ -6353,10 +6133,7 @@ diesem Fall ist das elektronische Dokument mit einer dauerhaft
 überprüfbaren Signatur nach § 37 Absatz 4 des
 Verwaltungsverfahrensgesetzes zu versehen.
 
-
 ### Kapitel 4 - Ordnungswidrigkeiten
-
-
 
 #### § 116 Ordnungswidrigkeiten
 
@@ -6762,10 +6539,7 @@ fahrlässig
 Ordnungswidrigkeiten nach Absatz 1 Nr. 16 und Nr. 36 bis 46 wird auf
 das Luftfahrt-Bundesamt übertragen.
 
-
 ### Kapitel 5 - Schlussvorschriften
-
-
 
 #### § 117 Übergangsvorschriften
 
@@ -7084,7 +6858,6 @@ Strahlenschutzverordnung vom 15. Oktober 1965 entsprochen haben.
 A Nr. 6 der Strahlenschutzverordnung vom 30. Juni 1989 entspricht,
 können weiter genehmigungsfrei verwendet und beseitigt werden.
 
-
 #### § 118 Abgrenzung zu anderen Vorschriften, Sanierung von Hinterlassenschaften
 
 (1) Auf dem in Artikel 3 des Einigungsvertrages vom 6. September 1990
@@ -7170,7 +6943,6 @@ Anwendungsbereich dieser Verordnung anfallen.
 
 (6) (weggefallen)
 
-
 #### Anlage I (zu §§ 8, 12, 17, 21) Genehmigungsfreie Tätigkeiten
 
 (Fundstelle: BGBl. I 2001, 1766;
@@ -7237,10 +7009,6 @@ deren
     unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter
     Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde
     nicht überschreitet.
-
-
-
-
 
 #### Anlage II (zu §§ 9, 14, 107) Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
 
@@ -7325,10 +7093,6 @@ Abs. 2
     Medizinproduktegesetzes Angaben zur Zweckbestimmung der Anlage, die es
     ermöglichen zu prüfen, ob das Medizinprodukt für die vorgesehene
     Anwendung geeignet ist.
-
-
-
-
 
 #### Anlage III (zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71, 105, 106, 107, 117) Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
 
@@ -29830,9 +29594,6 @@ Freigabe zugrunde gelegt werden:
 
     *   5 E+2
 
-
-
-
 #### Anlage IV (zu § 29) Festlegungen zur Freigabe
 
 (Fundstelle: BGBl. I 2001, 1802 - 1803;
@@ -30164,10 +29925,6 @@ Anlage III Tabelle 1 Spalte 5 gelten für
     anderen Metallen gewährleistet werden kann oder die einen Durchsatz
     von mindestens 40 000 Tonnen im Kalenderjahr aufweisen.
 
-
-
-
-
 #### Anlage V (zu § 25) Voraussetzungen für die Bauartzulassung von Vorrichtungen
 
 (Fundstelle: BGBl. I 2001, 1804;
@@ -30256,10 +30013,6 @@ normalen Betriebsbedingungen nicht überschreiten.
 4.  Angaben zur Rückführung der Vorrichtung, die radioaktive Stoffe
     enthält, an den Zulassungsinhaber oder zur Entsorgung solcher
     Vorrichtung.
-
-
-
-
 
 #### Anlage VI (zu §§ 3, 47, 49, 55, 95, 117) Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
 
@@ -38154,10 +37907,6 @@ Anlage VII Teil D Nr. 1.1 und 2)
 
     *   1 E+3
 
-
-
-
-
 #### Anlage VIII (zu §§ 61, 62, 63) Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
 
 (Fundstelle: BGBl. I 2001, 1826;
@@ -38211,7 +37960,6 @@ Nächste Beurteilung oder Untersuchung:
 Ort, Datum           Unterschrift         Stempel mit Anschrift des
 Arztes nach § 64 Abs. 1 Satz 1
 
-
 #### Anlage IX (zu § 68) Strahlenzeichen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1827
@@ -38219,7 +37967,6 @@ Fundstelle des Originaltextes: BGBl. I 2001, 1827
 ... (Strahlenzeichen nicht darstellbar)
 Kennzeichen: schwarz
 Untergrund:  gelb
-
 
 #### Anlage X (zu §§ 72 bis 79) Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
 
@@ -39798,10 +39545,6 @@ zu enthalten:
     Stoffe sowie Gesamtmasse der Kernbrennstoffe nach § 2 Abs. 1 Satz 2
     des Atomgesetzes.
 
-
-
-
-
 #### Anlage XI (zu §§ 93, 95, 96) Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
 
 (Fundstelle: BGBl. I 2001, 1832;
@@ -39861,10 +39604,6 @@ Arbeiten in
 
 6.  Verwendung und Verarbeitung von Schlacke aus der Verhüttung von
     Kupferschiefererzen.
-
-
-
-
 
 #### Anlage XII (zu §§ 97 bis 102) Verwertung und Beseitigung überwachungsbedürftiger Rückstände
 
@@ -40191,7 +39930,6 @@ verwenden. Im Fall des § 98 Abs. 2 Satz 2 sind die Dosiskoeffizienten
 aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b vom 28.
 August 2001 Teil I und III zu verwenden.
 
-
 #### Anlage XIII (zu §§ 51 und 53) Information der Bevölkerung
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1835
@@ -40313,10 +40051,6 @@ Die Information muss sich erstrecken auf:
 10. Benennung der für die öffentliche Sicherheit oder Ordnung sowie für
     den Katastrophenschutz zuständigen Behörden.
 
-
-
-
-
 #### Anlage XIV (zu § 48 Abs. 4)) Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1836;
@@ -40360,16 +40094,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Ortsdosis, Ortsdosisleistung Bodenoberfläche, Grundwasser,
         Trinkwasser, Abwasser, Klärschlamm, Fortluft
 
-
-
-
-
 #### Anlage XV (zu §§ 70, 70a und 71) Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
 
 (... nicht darstellbares Standarderfassungsblatt;
 Fundstelle: BGBl. I 2005, 2404;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 #### Anlage XVI (zu § 4 Absatz 3)
 

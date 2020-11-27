@@ -16,20 +16,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 2306
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
 Dem in Canberra am 13. Dezember 2000 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und Australien über Soziale Sicherheit
 wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -58,10 +54,6 @@ zu treffen über:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 3
 

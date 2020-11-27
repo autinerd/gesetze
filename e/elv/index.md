@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Nr. 1, Abs. 2 Nr. 1 und 2a und Abs. 3, des §
@@ -35,7 +34,6 @@ verordnet der Bundesminister für Gesundheit im Einvernehmen mit den
 Bundesministern für Ernährung, Landwirtschaft und Forsten, für Umwelt,
 Naturschutz und Reaktorsicherheit und für Wirtschaft:
 
-
 ## § 1 Begriffsbestimmung und Anwendungsbereich
 
 (1) Extraktionslösungsmittel im Sinne dieser Verordnung sind Stoffe,
@@ -49,7 +47,6 @@ naturidentischen Aromastoffen und Vitaminen.
 
 (3) Die Zusatzstoff-Verkehrsverordnung ist auf
 Extraktionslösungsmittel nicht anzuwenden.
-
 
 ## § 2 Zugelassene Stoffe
 
@@ -94,12 +91,10 @@ werden, werden den Lebensmittel-Zusatzstoffen gleichgestellt.
 Lösungsmitteleigenschaften haben, als Extraktionslösungsmittel
 verwendet werden.
 
-
 ## § 2a Technische Hilfsstoffe
 
 Die in Anlage 5 aufgeführten Stoffe sind für die dort genannten
 Lebensmittel zu den dort bezeichneten Verwendungszwecken zugelassen.
-
 
 ## § 3 Höchstmengen
 
@@ -113,7 +108,6 @@ Lebensmitteln die dort festgesetzten Höchstmengen nicht überschreiten.
 festgesetzten Höchstmengen in den genannten Lebensmitteln nicht
 überschreiten.
 
-
 ## § 4 Reinheitsanforderungen
 
 Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als
@@ -122,11 +116,9 @@ Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu
 werden, nur verwendet werden, wenn sie den Reinheitsanforderungen
 gemäß Anlage 4 entsprechen. Das gleiche gilt für Ethanol.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6 Kennzeichnung
 
@@ -165,11 +157,9 @@ unverwischbar anzubringen. Bei den Angaben nach Absatz 1 Nr. 3, 4 und
 (3) Die Kennzeichnungsvorschriften der Gefahrstoffverordnung bleiben
 unberührt.
 
-
 ## § 6a (weggefallen)
 
 -
-
 
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
@@ -195,10 +185,6 @@ oder fahrlässig
     Extraktionslösungsmittel in den Verkehr bringt, die nicht oder nicht
     in der vorgeschriebenen Weise gekennzeichnet sind.
 
-
-
-
-
 ## § 8 Übergangsregelung
 
 (1) Bis zum 26. April 1999 dürfen Lebensmittel nach den bis zum 9.
@@ -211,16 +197,13 @@ Lebensmittel nach den bis zum 14. Februar 2008 geltenden Vorschriften
 gekennzeichnet oder in den Verkehr gebracht werden und danach noch bis
 zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 Abs. 2 Nr. 1 Buchstabe c) Allgemein verwendbare Extraktionslösungsmittel
 
@@ -234,7 +217,6 @@ Kohlendioxid
 Aceton; darf nicht bei der Raffinierung von Oliventresteröl verwendet
 werden
 Distickstoffmonoxid
-
 
 ## Anlage 2 (zu § 2 Abs. 2 Nr. 2 und § 3) Beschränkt verwendbare Extraktionslösungsmittel
 
@@ -363,10 +345,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 2)  Die gleichzeitige Verwendung mit Hexan ist nicht zulässig.
 
-
-
-
-
 ## Anlage 3 (zu § 2 Abs. 2 Nr. 3 und § 3) Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
 
 (Fundstelle: BGBl. I 1991, 2103;
@@ -446,13 +424,6 @@ Abs. 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
         1)  Die gleichzeitige Verwendung von Hexan und Ethylmethylketon ist nicht
             zulässig.
 
-
-
-
-
-
-
-
 ## Anlage 4 (zu § 4 Satz 1 und 2) Reinheitskriterien für Extraktionslösungsmittel
 
 
@@ -475,7 +446,6 @@ Abs. 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
 Extraktionslösungsmittel dürfen auch keine toxikologisch bedenklichen
 Mengen anderer Stoffe enthalten. In einem Kilogramm Ethylmethylketon
 darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
-
 
 ## Anlage 5 (zu § 2a und § 3 Abs. 2) Technische Hilfsstoffe
 

@@ -24,7 +24,6 @@ Stand: Die V tritt mit Ablauf des Tages außer Kraft, der in § 28 Absatz 11 Sat
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     81) geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 Absatz 11 sowie des § 14 Absatz 1 Nummer 3
@@ -32,7 +31,6 @@ Buchstabe a und Absatz 3 des Chemikaliengesetzes, von denen § 28
 Absatz 11 durch Artikel 4 Nummer 3 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, verordnet die Bundesregierung
 nach Anhörung der beteiligten Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -47,7 +45,6 @@ Inverkehrbringen von Biozid-Produkten (ABl. L 123 vom 24.4.1998, S. 1,
 L 150 vom 8.6.2002, S. 71), die zuletzt durch die Richtlinien
 2011/10/EU, 2011/11/EU, 2011/12/EU und 2011/13/EU (ABl. L 34 vom
 9\.2.2011, S. 41, 45, 49 und 52) geändert worden ist.
-
 
 ## § 2 Pflicht zur Aufbringung der Registriernummer
 
@@ -69,7 +66,6 @@ sicherzustellen, dass die Registriernummer bis zum 1. November 2011
 aufgebracht wird. Satz 1 gilt nicht für Biozid-Produkte, für die
 bereits eine Registriernummer nach der Biozid-Meldeverordnung vom 24.
 Mai 2005 erteilt wurde.
-
 
 ## § 3 Verfahren zur Erteilung der Registriernummer
 
@@ -128,7 +124,6 @@ Biozid-Produkt, sofern der Eintrag in Anhang II der Verordnung (EG)
 Nr. 1451/2007 und keine Nichtaufnahmeentscheidung im Sinne von Satz 3
 vorliegt.
 
-
 ## § 4 Elektronisches Verzeichnis
 
 Die Zulassungsstelle stellt auf ihrer Internetseite den für die
@@ -140,7 +135,6 @@ insbesondere die Angaben nach § 3 Absatz 1 Satz 3, die jeweilige
 Registriernummer sowie gegebenenfalls das Datum gemäß Artikel 4 Absatz
 2 der Verordnung (EG) Nr. 1451/2007 und die von der
 Nichtaufnahmeentscheidung betroffene Produktart.
-
 
 ## § 5 Ordnungswidrigkeiten
 
@@ -154,16 +148,11 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 2.  entgegen § 2 Absatz 2 Satz 2 nicht sicherstellt, dass eine
     Registriernummer rechtzeitig aufgebracht wird.
 
-
-
-
-
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 mit Ablauf des Tages außer Kraft, der in § 28 Absatz 11 Satz 1 des
 Chemikaliengesetzes genannt ist.
-
 
 ## Schlussformel
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2330
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -54,11 +53,9 @@ sowie die Prägebuchstaben „A D F G J“ der deutschen Prägestätten.
 
 Der Entwurf stammt von dem Künstler Bodo Broschat, Berlin.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

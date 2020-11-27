@@ -15,20 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 778
 
-
 ## Eingangsformel
 
 Auf Grund des § 4a Satz 2 in Verbindung mit § 93 Abs. 2 Nr. 2 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 (BGBl. I S. 1482) verordnet das Bundesministerium der Verteidigung:
 
-
 ## § 1 Grundsatz
 
 Früheren Soldatinnen und früheren Soldaten kann für die in § 3
 genannten Anlässe das Tragen der Uniform außerhalb eines Wehrdienstes
 genehmigt werden.
-
 
 ## § 2 Begriffsbestimmung
 
@@ -45,7 +42,6 @@ goldfarbener Buchstabe "R" in Verbindung mit dem Dienstgradabzeichen
 (3) Im Übrigen richten sich die Art, Trageweise und besondere
 Kennzeichnung der Uniform nach den für die Uniform der Soldatinnen und
 Soldaten geltenden Dienstvorschriften.
-
 
 ## § 3 Anlässe
 
@@ -75,10 +71,6 @@ Das Tragen der Uniform kann genehmigt werden für
 6.  Reisen zu dienstlichen Veranstaltungen nach § 81 des Soldatengesetzes
     einschließlich der Rückreisen.
 
-
-
-
-
 ## § 4 Ausschlusstatbestände
 
 Eine Genehmigung darf nicht erteilt werden für
@@ -90,10 +82,6 @@ Eine Genehmigung darf nicht erteilt werden für
 
 2.  Anlässe, bei denen auch Soldatinnen und Soldaten der Bundeswehr die
     Uniform nicht tragen dürfen.
-
-
-
-
 
 ## § 5 Antrag, Zuständigkeiten
 
@@ -124,7 +112,6 @@ den Wohnsitz der Soldatin oder des Soldaten zuständige Landeskommando.
 (4) In den Fällen des § 3 Nr. 6 entscheidet die für die Zuziehung im
 Einzelfall zuständige Stelle.
 
-
 ## § 6 Genehmigung
 
 (1) Die Genehmigung bedarf der Schriftform. Im Falle des § 3 Nr. 6
@@ -151,7 +138,6 @@ vorzuzeigen. Ist im Fall des § 3 Nr. 6 die Genehmigung gemäß Absatz 1
 Satz 3 ausnahmsweise nur mündlich erteilt worden, sind die Angaben zur
 Erreichbarkeit der genehmigenden Stelle bereitzuhalten.
 
-
 ## § 7 Widerruf der Genehmigung
 
 Die Genehmigung kann jederzeit widerrufen werden. Sie ist zu
@@ -159,7 +145,6 @@ widerrufen, wenn zu befürchten ist, dass durch das Auftreten der
 früheren Soldatin oder des früheren Soldaten in Uniform das Ansehen
 der Bundeswehr in der Öffentlichkeit beeinträchtigt oder die
 Trageberechtigung missbraucht wird.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 

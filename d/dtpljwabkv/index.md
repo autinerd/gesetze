@@ -28,7 +28,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. 1980
 II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
-
 ## Art 1
 
 Dem Deutsch-Polnischen Jugendwerk werden die in Artikel 1 Abs. 2 und
@@ -36,7 +35,6 @@ Artikel 10 des Abkommens vom 17. Juni 1991 zwischen der Regierung der
 Bundesrepublik Deutschland und der Regierung der Republik Polen über
 das Deutsch-Polnische Jugendwerk niedergelegten Vorrechte gewährt. Das
 Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +47,6 @@ Abkommen für die Bundesrepublik Deutschland außer Kraft tritt.
 
 (3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind
 im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

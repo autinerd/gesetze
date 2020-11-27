@@ -16,18 +16,13 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1984, 348
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 33 der Verordnung vom 11. Oktober 1984 über die
 Gewährleistung von Atomsicherheit und Strahlenschutz (GBl. I Nr. 30 S.
 341) wird folgendes bestimmt:
 
-
 ## - - Zu § 3 Abs. 3 der Verordnung
-
-
 
 ### § 1 Aufgaben des verantwortlichen Mitarbeiters
 
@@ -98,10 +93,7 @@ folgende Aufgaben:
 Weisungsbefugnis hat auf dem Gebiet des Strahlenschutzes insbesondere
 die Aufgaben gemäß Abs. 1 Ziffern 5 bis 14 wahrzunehmen.
 
-
 ## - - Zu § 4 der Verordnung
-
-
 
 ### § 2
 
@@ -112,10 +104,7 @@ sind, sowie für die Gewinnung von radioaktivem Ausgangsmaterial und
 die Verwendung des dabei anfallenden radioaktiv kontaminierten
 Materials.
 
-
 ## - - Zu § 4 Abs. 3 der Verordnung
-
-
 
 ### § 3 Unterlagen zur Erteilung der Genehmigung
 
@@ -150,10 +139,7 @@ zu benennen sowie
 vorzulegen. Die Genehmigung ist an diese Angaben und Unterlagen
 gebunden.
 
-
 ## - - Zu § 4 Abs. 4 der Verordnung
-
-
 
 ### § 4 Zustimmungen
 
@@ -162,7 +148,6 @@ von Strahleneinrichtungen und zum Verkehr mit radioaktiven Stoffen, zu
 Teilvorhaben oder speziellen Arbeiten ist das Staatliche Amt für
 Atomsicherheit und Strahlenschutz zum frühestmöglichen Zeitpunkt in
 die Planung einzubeziehen.
-
 
 ### § 5 Zustimmung zum Standort
 
@@ -176,7 +161,6 @@ radioaktiven Stoffen in Wohnhäusern werden nur unter besonderen
 einschränkenden Bedingungen gestattet. Diese werden in der Zustimmung
 festgelegt.
 
-
 ### § 6 Zustimmung zur Aufgabenstellung
 
 (1) Aufgabenstellungen zur Vorbereitung von Investitionen für Gebäude,
@@ -187,7 +171,6 @@ Zustimmung.
 (2) Art und Umfang der für die Zustimmung beizubringenden Unterlagen
 werden durch das Staatliche Amt für Atomsicherheit und Strahlenschutz
 festgelegt.
-
 
 ### § 7 Zustimmung zum Projekt
 
@@ -230,7 +213,6 @@ fordern. Die Unterlagen sind in doppelter Ausfertigung beim
 Staatlichen Amt für Atomsicherheit und Strahlenschutz einzureichen,
 bei dem ein Exemplar der Unterlagen verbleibt.
 
-
 ### § 8 Zustimmung zur Stillegung
 
 (1) Die Stillegung von genehmigungspflichtigen Anlagen oder
@@ -262,7 +244,6 @@ Strahlenschutzbeauftragten mit der Freigabe beauftragen.
 Stoffe enthalten, ist dem Staatlichen Amt für Atomsicherheit und
 Strahlenschutz unter Mitteilung über den weiteren Verbleib zu melden.
 
-
 ### § 9 Zustimmung zu Teilvorhaben und speziellen Arbeiten
 
 Teilvorhaben und spezielle Arbeiten, wie neue Technologien,
@@ -271,7 +252,6 @@ der Betrieb von Strahleneinrichtungen oder ein Verkehr mit
 radioaktiven Stoffen beabsichtigt ist, bedürfen einer Zustimmung. Art
 und Umfang der vorzulegenden Unterlagen entsprechen denen im § 7. Die
 Zustimmung ist Bestandteil der erteilten Genehmigung.
-
 
 ### § 10 Zustimmung zum Import
 
@@ -300,13 +280,11 @@ stellen. Ihm sind folgende Unterlagen beizufügen:
 (2) Die Importvertrag darf erst nach Erteilung der Zustimmung zum
 Import abgeschlossen werden.
 
-
 ### § 11 Änderungen
 
 Vor der Veränderung von personellen oder sachlichen Voraussetzungen,
 die einer Genehmigung zugrunde liegen, ist eine Änderung der
 Genehmigung zu beantragen.
-
 
 ### § 12 Abnahme
 
@@ -317,10 +295,7 @@ Strahlenschutzes durch das Staatliche Amt für Atomsicherheit und
 Strahlenschutz abzunehmen. Es kann den Strahlenschutzbeauftragten oder
 den verantwortlichen Mitarbeiter mit der Abnahme beauftragen.
 
-
 ## - - Zu § 4 Abs. 5 der Verordnung
-
-
 
 ### § 13 Registrierung
 
@@ -384,10 +359,7 @@ registrierten Strahleneinrichtungen und umschlossenen Strahlenquellen
 ist dem Staatlichen Amt für Atomsicherheit und Strahlenschutz
 innerhalb von 14 Tagen nach Veränderung mitzuteilen.
 
-
 ## - - Zu § 4 Abs. 6 der Verordnung
-
-
 
 ### § 14 Anmeldung
 
@@ -415,10 +387,7 @@ festgelegt, ist der Erwerb von anmeldepflichtigen Erzeugnissen dem
 Staatlichen Amt für Atomsicherheit und Strahlenschutz innerhalb von 4
 Wochen mitzuteilen.
 
-
 ## - - Zu § 4 Abs. 7 und § 5 der Verordnung
-
-
 
 ### § 15 Erlaubnis für spezielle Strahleneinrichtungen
 
@@ -426,10 +395,7 @@ Der Einsatz von Strahleneinrichtungen, deren Beschleunigungsspannung
 für geladene Teilchen 5 kV nicht überschreitet, ist ohne Genehmigung,
 Registrierung, Anmeldung und Bauartzulassung erlaubt.
 
-
 ## - - Zu § 6 Abs. 2 der Verordnung
-
-
 
 ### § 16 Befugnisse und Aufgaben der Inspektoren und beauftragten Ärzte
 
@@ -503,14 +469,9 @@ und Strahlenschutz haben das Recht:
 gemäß Abs. 1 Ziff. 5 und Abs. 2 Ziff. 3 ist der Leiter des Betriebes
 unverzüglich in Kenntnis zu setzen.
 
-
 ## - - Zu § 6 Abs. 3 der Verordnung
 
-
-
 ### - - Staatliche personendosimetrische Überwachung
-
-
 
 #### § 17
 
@@ -532,7 +493,6 @@ Zeitabstand erfolgen.
 und zur Überwachung weiterer Personen auf äußere Strahlenbelastung
 werden bei der Erteilung der Erlaubnis getroffen.
 
-
 #### § 18
 
 Die personendosimetrische Überwachung der inneren Strahlenbelastung
@@ -549,7 +509,6 @@ Strahlenbelastung auf der Grundlage der Messung der
 Aktivitätskonzentration der Luft an repräsentativen Arbeitsplätzen
 bestimmt wird.
 
-
 #### § 19
 
 (1) Strahlenwerktätige sind über die Ergebnisse der
@@ -564,7 +523,6 @@ Ermittlung der individuellen Strahlenbelastung zu vernachlässigen.
 Betriebe eingesetzt, so hat der delegierende Betrieb zu gewährleisten,
 daß die personendosimetrische Überwachung erfolgt und die Ergebnisse
 der Überwachung registriert werden.
-
 
 #### § 20
 
@@ -603,10 +561,7 @@ personendosimetrischen Überwachung werden durch das Staatliche Amt für
 Atomsicherheit und Strahlenschutz 50 Jahre nach Beendigung der Arbeit
 aufbewahrt.
 
-
 ## - - Zu § 7 Abs. 1 der Verordnung
-
-
 
 ### § 21 Überwachungsmessungen
 
@@ -660,10 +615,7 @@ Strahlenschutz.
 (9) Festlegungen zur Aufbewahrung von Meßergebnissen werden in
 Rechtsvorschriften oder bei der Erteilung der Erlaubnis getroffen.
 
-
 ## - - Zu § 7 Absätze 2 und 3 der Verordnung
-
-
 
 ### § 22 Rechte und Pflichten des Strahlenschutzbeauftragten
 
@@ -721,10 +673,7 @@ geht diese seinen sonstigen betrieblichen Aufgaben vor.
 (10) Die Rechte und Pflichten der Kontrollbeauftragten für
 Atomsicherheit ergeben sich aus den Rechtsvorschriften.
 
-
 ## - - Zu § 8 der Verordnung
-
-
 
 ### § 23 Strahlenschutzmedizinische Tauglichkeits- und Überwachungsuntersuchungen und Einsetzung der Strahlenschutzärzte
 
@@ -747,10 +696,7 @@ sein. Als Strahlenschutzärzte sind Fachärzte mit staatlichem
 Qualifikationsnachweis des Staatlichen Amtes für Atomsicherheit und
 Strahlenschutz einzusetzen.
 
-
 ## - - Zu § 10 der Verordnung
-
-
 
 ### § 24 Rechtfertigungsverfahren
 
@@ -763,10 +709,7 @@ Staatlichen Amt für Atomsicherheit und Strahlenschutz beurteilt. Ist
 keine Zulassung vorgesehen, erfolgt die Beurteilung im Rahmen der
 Erteilung der Genehmigung.
 
-
 ## - - Zu § 11 der Verordnung
-
-
 
 ### § 25 Primäre Grenzwerte
 
@@ -798,7 +741,6 @@ als Grenzwert der effektiven Äquivalentdosis 5 mSv und als Grenzwert
 der Äquivalentdosis für Organe und Gewebe 50 mSv. Zusätzlich ist zu
 sichern, daß der Durchschnittswert der effektiven Äquivalentdosis pro
 Jahr über einen Zeitraum von 50 Jahren auf 1 mSv begrenzt wird.
-
 
 ### § 26 Sekundäre Grenzwerte
 
@@ -980,7 +922,6 @@ angegebenen Werte.
 (8) Bei kombinierter äußerer und innerer Bestrahlung von einzelnen
 Personen aus der Bevölkerung ist Abs. 5 sinngemäß anzuwenden.
 
-
 ### § 27 Abgeleitete Grenzwerte
 
 (1) Sind abgeleitete Grenzwerte für den Mittelwert einer Größe über
@@ -1060,7 +1001,6 @@ werden.
 -----
 \*) In diesem Wert ist die äußere Strahlenbelastung nicht
 berücksichtigt.
-
 
 ### § 28 Freigrenzen
 
@@ -1210,10 +1150,7 @@ Abwassereinleitung in die Gewässer durch die zuständige
 Wasserwirtschaftsdirektion oder in die Kanalisation durch den
 zuständigen VEB Wasserversorgung und Abwasserbehandlung.
 
-
 ## - - Zu § 12 der Verordnung
-
-
 
 ### § 29 Durchführung der Optimierung
 
@@ -1232,10 +1169,7 @@ Strahlenschutzmaßnahmen in ihren Bereichen zu prüfen und sich daraus
 ergebende Maßnahmen zur Verringerung der Strahlengefährdung
 durchzusetzen.
 
-
 ## - - Zu § 13 der Verordnung
-
-
 
 ### § 30 Strahlenbelastungen unter besonderen Bedingungen
 
@@ -1272,13 +1206,7 @@ ausgesetzt werden:
 
 -   Frauen mit einem Lebensalter unter 45 Jahren.
 
-
-
-
-
 ## - - Zu § 14 Abs. 1 der Verordnung
-
-
 
 ### § 31 Kategorien für Strahlenwerktätige
 
@@ -1309,10 +1237,7 @@ erfolgen, bei denen die Strahlenbelastung 3/10 der Grenzwerte gemäß §
 Strahlenbelastungen, die bei außergewöhnlichen Ereignissen auftreten
 können, nicht zu berücksichtigen.
 
-
 ## - - Zu § 15 der Verordnung
-
-
 
 ### § 32 Charakterisierung von Strahlenschutzbereichen
 
@@ -1372,13 +1297,7 @@ gestattet für
     Tätigkeiten Strahlenschutzbereiche betreten müssen, können Besuchern
     gleichgestellt werden.
 
-
-
-
-
 ## - - Zu § 16 Abs. 1 der Verordnung
-
-
 
 ### § 33 Organisatorische Strahlenschutzmaßnahmen
 
@@ -1400,7 +1319,6 @@ Ausgangsmaterial.
 radioaktivem Ausgangsmaterial sind arbeitsorganisatorische und
 hygienische Maßnahmen zu treffen, die eine Zufuhr radioaktiver Stoffe
 auf ein Minimum begrenzen.
-
 
 ### § 34 Laborklassen
 
@@ -1469,7 +1387,6 @@ Ausgangsmaterialien.
 (4) Die Anforderungen an Bau und Ausrüstung für die Arbeitsräume
 werden gesondert geregelt.
 
-
 ### § 35 Oberflächenkontaminationen
 
 (1) Oberflächenkontaminationen sollten die in Anlage 2 Tabelle 3
@@ -1494,7 +1411,6 @@ realen Belastungsbedingungen festzulegen. Dabei sind Richtlinien des
 Staatlichen Amtes für Atomsicherheit und Strahlenschutz oder
 Festlegungen bei der Erteilung der Erlaubnis zu berücksichtigen.
 
-
 ### § 36 Prüfung umschlossener Strahlenquellen
 
 (1) Umschlossene Strahlenquellen sind auf Unversehrtheit, Dichtigkeit,
@@ -1516,10 +1432,7 @@ Ereignissen zu verfahren.
 gleichzusetzen, die den Anforderungen an umschlossene Strahlenquellen
 entsprechen.
 
-
 ## - - Zu § 16 Abs. 2 der Verordnung
-
-
 
 ### § 37 Schutzeinrichtungen
 
@@ -1536,7 +1449,6 @@ Bedingungen ein Weiterbetrieb erfolgen kann. Bei Reparatur- und
 Wartungsarbeiten dürfen Schutzeinrichtungen nicht dauerhaft entfernt
 oder unwirksam gemacht werden.
 
-
 ### § 38 Instandhaltung
 
 Die Leiter der Betriebe, in denen Strahleneinrichtungen eingesetzt
@@ -1546,10 +1458,7 @@ genannten Fristen durch einen Betrieb vorzunehmen, der im Besitz einer
 vom Staatlichen Amt für Atomsicherheit und Strahlenschutz erteilten
 Genehmigung zur Durchführung von Reparatur- und Wartungsarbeiten ist.
 
-
 ## - - Zu § 16 Abs. 3 der Verordnung
-
-
 
 ### § 39 Strahlenschutzordnung
 
@@ -1568,7 +1477,6 @@ betriebliche Strahlenschutzordnung vom verantwortlichen Mitarbeiter
 durch Strahlenschutzinstruktionen zu konkretisieren. Die
 Strahlenschutzinstruktionen sind vom Strahlenschutzbeauftragten zu
 bestätigen.
-
 
 ### § 40 Belehrungen
 
@@ -1591,7 +1499,6 @@ sind auch dann durchzuführen, wenn bei der Einführung neuer
 Arbeitsgebiete oder durch Änderung der Arbeitsmethoden Veränderungen
 der Strahlenschutzsituation zu erwarten sind.
 
-
 ### § 41 Pflichten von Strahlenwerktätigen und Bedienungspersonal
 
 Strahlenwerktätige und Bedienungspersonal haben die
@@ -1602,10 +1509,7 @@ Sie sind verpflichtet, dem verantwortlichen Mitarbeiter oder
 Strahlenschutzbeauftragten auftretende Mängel im Strahlenschutz und
 außergewöhnliche Ereignisse unverzüglich zu melden.
 
-
 ## - - Zu § 16 Absätze 4 und 5 der Verordnung
-
-
 
 ### § 42 Nachweisführung und Aufbewahrung
 
@@ -1653,10 +1557,7 @@ Strahlenwarnzeichen zu kennzeichnen.
 Abhängigkeit von Bau und Ausrüstung dieser Räume in den
 Erlaubnisdokumenten festgelegt.
 
-
 ## - - Zu § 20 der Verordnung
-
-
 
 ### § 43 Forderungen zur Gewährleistung der nuklearen Sicherheit
 
@@ -1700,7 +1601,6 @@ werden.
 Auslegungsstörfälle und ihre zulässigen Auswirkungen sowie von
 Forderungen zur Gewährleistung der nuklearen Sicherheit werden in
 Rechtsvorschriften oder bei der Erteilung der Genehmigung getroffen.
-
 
 ### § 44 Qualitätssicherung für Kernanlagen
 
@@ -1748,10 +1648,7 @@ unverzüglich zu beheben.
 hinausgehende Forderungen zur Qualitätssicherung werden bei der
 Erteilung der Genehmigung festgelegt.
 
-
 ## - - Zu § 21 der Verordnung
-
-
 
 ### § 45 Forderungen an den Standort für Kernanlagen
 
@@ -1779,10 +1676,7 @@ Der Standort einer Kernanlage ist so festzulegen, daß
 Weitergehende Festlegungen werden in Rechtsvorschriften oder bei der
 Erteilung der Genehmigung getroffen.
 
-
 ## - - Zu § 23 der Verordnung
-
-
 
 ### § 46 Anforderungen an den Betrieb von Kernanlagen
 
@@ -1818,10 +1712,7 @@ regelmäßig auszuwerten, um Einflüsse auf die nukleare Sicherheit zu
 erkennen und Maßnahmen zur Gewährleistung der nuklearen Sicherheit zu
 verbessern.
 
-
 ## - - Zu § 26 der Verordnung
-
-
 
 ### § 47 Benachrichtigung des Strahlenschutzarztes und Freigabe nach außergewöhnlichen Ereignissen
 
@@ -1836,10 +1727,7 @@ vor ihrer weiteren Nutzung der Freigabe durch das Staatliche Amt für
 Atomsicherheit und Strahlenschutz. Es kann den
 Strahlenschutzbeauftragten mit der Freigabe beauftragen.
 
-
 ## - - Zu § 27 Abs. 1 der Verordnung
-
-
 
 ### § 48 Qualifikationsnachweise
 
@@ -1853,10 +1741,7 @@ Qualifikationsnachweise können befristet erteilt werden. Ihre
 Gültigkeit wird nach dem Besuch von Weiterbildungsveranstaltungen
 verlängert.
 
-
 ## - - Zu § 27 Abs. 5 der Verordnung
-
-
 
 ### § 49 Betriebliche Schulungen
 
@@ -1866,10 +1751,7 @@ Rahmenprogramme durchzuführen. In Sonderfällen sind die Programme für
 die betrieblichen Schulungen mit dem Staatlichen Amt für
 Atomsicherheit und Strahlenschutz abzustimmen.
 
-
 ## - - Zu § 29 der Verordnung
-
-
 
 ### § 50 Einbeziehung des Kontrollorgans bei Forschungs- und Entwicklungsvorhaben
 
@@ -1915,17 +1797,14 @@ unterbreiten, wenn es feststellt, daß
 Die Leiter der Betriebe haben auf Grund der Vorschläge die
 erforderlichen Maßnahmen einzuleiten.
 
-
 ### § 51 Schlußbestimmung
 
 Diese Durchführungsbestimmung tritt am 1. Februar 1985 in Kraft.
-
 
 ### Schlußformel
 
 **Der Präsident des Staatlichen Amtes für Atomsicherheit und
 Strahlenschutz der Deutschen Demokratischen Republik**
-
 
 ### Anlage 1 Neutronenflußdichte in *A cm(hoch)-2 x s(hoch)-1 für eine Äquivalentdosisleistung *1) von 1 *A mySv x h(hoch)-1 und effektiver Qualitätsfaktor *A Q in Abhängigkeit von der Neutronenenergie
 
@@ -2107,13 +1986,11 @@ monoenergetischer Neutronen (breites Bündel) auftreten.
 \*3) Maximale Äquivalentdosisleistung dividiert durch die Energiedosis
 in der Tiefe, in der maximale Äquivalentdosis auftritt.
 
-
 ### Anlage 2
 
 (Inhalt: nicht darstellbare Tabellen,
 Fundstelle: GBl. I 1984, Nr. 30, S. 358 - 372,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1226)
 

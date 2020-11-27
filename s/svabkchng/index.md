@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 82
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Peking am 12. Juli 2001 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und der Volksrepublik China über
 Sozialversicherung wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -53,10 +49,6 @@ Regelungen getroffen werden:
 
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
-
-
-
-
 
 ## Art 3
 

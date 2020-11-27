@@ -21,13 +21,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 23.3.2006 I 65
 
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 6 des Gentechnikgesetzes in der Fassung der
 Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066) verordnet das
 Bundesministerium für Gesundheit:
-
 
 ## § 1 Verfahren bei Anträgen zur Freisetzung im Geltungsbereich des Gentechnikgesetzes
 
@@ -65,7 +63,6 @@ jährlich eine Zusammenstellung der im vereinfachten Verfahren nach §
 14 Abs. 4a des Gentechnikgesetzes genehmigten und der nicht
 genehmigten Freisetzungen.
 
-
 ## § 2 Verfahren bei Anträgen zur Freisetzung aus Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Erhält die zuständige Bundesoberbehörde von der Kommission eine
@@ -89,7 +86,6 @@ Wirtschaftsraum eine Freisetzung in Grenznähe zu einem Land der
 Bundesrepublik Deutschland genehmigt, so hat die zuständige
 Bundesoberbehörde die jeweils zuständige Landesbehörde des
 angrenzenden Landes über diese Entscheidung zu unterrichten.
-
 
 ## § 3 Verfahren bei Anträgen zum Inverkehrbringen von Produkten im Geltungsbereich des Gentechnikgesetzes
 
@@ -179,7 +175,6 @@ Kommission, den übrigen Mitgliedstaaten der Europäischen Union und den
 anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum unverzüglich zu übermitteln.
 
-
 ## § 4 Verfahren bei Anträgen zum Inverkehrbringen von Produkten aus den Mitgliedstaaten der Europäischen Union oder den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 Erhält die zuständige Bundesoberbehörde von der Kommission einen
@@ -192,7 +187,6 @@ oder mit Gründen versehene Einwände erheben; in letzterem Fall wirkt
 sie an einem Einigungsversuch mit. Die zuständige Bundesoberbehörde
 hat den Bewertungsbericht unverzüglich den in § 16 Abs. 4 Satz 3 des
 Gentechnikgesetzes genannten Behörden zur Stellungnahme zuzuleiten.
-
 
 ## § 5 Verfahren bei der Anordnung des Ruhens der Genehmigung für ein Inverkehrbringen oder bei der einstweiligen Untersagung des Inverkehrbringens eines Produktes
 
@@ -219,14 +213,12 @@ Gentechnikgesetzes aufzuheben; dies gilt nicht, wenn die Anordnung
 oder Untersagung bis zur Entscheidung der Kommission oder des Rates
 der Europäischen Union befristet war.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Die darin
 enthaltenen Regelungen über die Beteiligung der anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 sind ab dem 1. Januar 1995 anzuwenden.
-
 
 ## Schlußformel
 

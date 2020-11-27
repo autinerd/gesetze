@@ -22,7 +22,6 @@ Stand: vgl. nur noch Fundstellennachweis B
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 Zustimmung zu dem Vertragswerk
 
 Dem in Lissabon am 17. Dezember 1994 unterzeichneten Vertrag über die
@@ -31,7 +30,6 @@ damit verbundene Umweltaspekte sowie den in der Schlußakte vom selben
 Tag enthaltenen Klarstellungen und Erklärungen wird zugestimmt. Das
 Vertragswerk wird nachstehend veröffentlicht.
 
-
 ## Art 2 Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -39,7 +37,6 @@ Beschlüsse über die Modifikationen und technischen Änderungen der
 Anlagen EM und NI, die die Energiechartakonferenz gemäß Artikel 36
 Abs. 1 Buchstabe d und e faßt, durch Rechtsverordnung ohne Zustimmung
 des Bundesrates in Kraft zu setzen.
-
 
 ## Art 3 Inkrafttreten
 

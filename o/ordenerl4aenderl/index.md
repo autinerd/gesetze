@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 406
 
-
-
 ## (XXXX)
 
 Das Präsidium des Goethe-Instituts Inter Nationes e. V. hat am 17.

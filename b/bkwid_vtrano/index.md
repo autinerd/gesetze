@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 387
 
-
 ## I. Erlass von Widerspruchsbescheiden
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -28,7 +27,6 @@ erlassen, auf den Präsidenten des Bundesnachrichtendienstes, soweit
 dieser den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen
 oder den Erlass eines Verwaltungsaktes abgelehnt hat.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Nach § 127 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
@@ -36,7 +34,6 @@ Nach § 127 Absatz 3 Satz 2 des Bundesbeamtengesetzes vom 5. Februar
 Klagen aus dem Beamtenverhältnis dem Präsidenten des
 Bundesnachrichtendienstes, soweit er nach Abschnitt I dieser Anordnung
 für die Entscheidung über Widersprüche zuständig ist.
-
 
 ## III. Bürgerlichrechtliche, arbeits- und sozialrechtliche Angelegenheiten
 
@@ -47,13 +44,11 @@ Bundesnachrichtendienstes vertreten. Dies gilt insbesondere für die
 Vertretung bei Rechtshandlungen gegenüber Behörden und Gerichten, bei
 Rechtsstreitigkeiten und im schiedsgerichtlichen Verfahren.
 
-
 ## IV. Vorbehaltsklausel
 
 In besonderen Fällen behalte ich mir vor, die Befugnisse und die
 Vertretung nach den Abschnitten I bis III dieser Anordnung selbst
 auszuüben.
-
 
 ## V. Schlussvorschriften
 
@@ -61,7 +56,6 @@ Diese Anordnung tritt am Tage nach ihrer Veröffentlichung in Kraft.
 Für Widersprüche und Klagen, die vor dem Inkrafttreten dieser
 Anordnung erhoben worden sind, bleibt es bei den bisherigen
 Zuständigkeiten.
-
 
 ## Schlussformel
 

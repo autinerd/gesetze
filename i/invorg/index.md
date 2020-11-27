@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 19.12.2006 I 3230
 
-
 ## Abschnitt 1 - Vorrang für Investitionen
-
-
 
 ### § 1 Grundsatz
 
@@ -35,7 +32,6 @@ können, dürfen nach Maßgabe der nachfolgenden Vorschriften ganz oder
 teilweise für besondere Investitionszwecke verwendet werden. Der
 Berechtigte erhält in diesen Fällen einen Ausgleich nach Maßgabe
 dieses Gesetzes.
-
 
 ### § 2 Aussetzung der Verfügungsbeschränkung, investive Maßnahmen
 
@@ -90,7 +86,6 @@ werden darf.
 Vermögensgesetzes jeweils für alle zur Durchführung des Vorhabens
 bestimmten rechtsgeschäftlichen und tatsächlichen Handlungen nicht
 anzuwenden.
-
 
 ### § 3 Besonderer Investitionszweck
 
@@ -166,10 +161,7 @@ Investitionszweck nach Absatz 1 Satz 1 Nr. 2 Buchstabe c darf nur
 erteilt werden, wenn ein Verfahren nach § 21b durchgeführt worden ist,
 ohne daß eine Rückübertragung erfolgt ist.
 
-
 ## Abschnitt 2 - Erteilung des Investitionsvorrangbescheids
-
-
 
 ### § 4 Verfahren
 
@@ -220,7 +212,6 @@ vermögensrechtlichen Anspruch durch Rechtsgeschäft oder in der
 Zwangsvollstreckung erwirbt, ist an Verfahren nach diesem Gesetz nicht
 beteiligt.
 
-
 ### § 5 Anhörung des Anmelders
 
 (1) Vor Erteilung des Investitionsvorrangbescheids hat die zuständige
@@ -256,14 +247,12 @@ stattgefunden hat.
 voraussichtliche Dauer des Verfahrens bis zu ihrer Durchführung den
 Erfolg des geplanten Vorhabens gefährden würde.
 
-
 ### § 6 Unterrichtung der Gemeinde
 
 Soweit ein Grundstück nach diesem Gesetz veräußert wird, besteht kein
 Vorkaufsrecht der Gemeinde nach den Vorschriften des
 Bauplanungsrechts. Die Mitteilungspflicht nach § 28 des Baugesetzbuchs
 entfällt.
-
 
 ### § 7 Entscheidung
 
@@ -288,10 +277,7 @@ Rückübertragung nach § 5 des Vermögensgesetzes ausgeschlossen ist. Das
 Amt zur Regelung offener Vermögensfragen ist an diese Feststellung
 gebunden, sofern der Anspruch im übrigen bestehen würde.
 
-
 ## Abschnitt 3 - Investitionsvorrangbescheid und investiver Vertrag
-
-
 
 ### § 8 Inhalt des Investitionsvorrangbescheids und des investiven Vertrages
 
@@ -334,7 +320,6 @@ Vermögenswerts, spätestens mit dem Wirksamwerden des Vertrages. Das
 gilt auch für Grundstücke und Gebäude, die im Zusammenhang mit einem
 Unternehmen veräußert oder verpachtet werden.
 
-
 ### § 9 Bekanntgabe des Investitionsvorrangbescheids
 
 (1) Der Investitionsvorrangbescheid ist den bekannten Anmeldern
@@ -359,10 +344,6 @@ a)  der Bescheid auszugsweise unter Angabe der entscheidenden Stelle und
 b)  zwei Wochen seit der Bekanntmachung gemäß Buchstabe a verstrichen
     sind.
 
-
-
-
-
 ### § 10 Vollziehung des Investitionsvorrangbescheids
 
 Der Investitionsvorrangbescheid darf nicht vor Ablauf von zwei Wochen
@@ -372,7 +353,6 @@ investiven Maßnahme vollziehbar entschieden worden ist, daß der
 Vermögenswert an den Berechtigten zurückzugeben ist, oder wenn der
 Berechtigte nach § 6a des Vermögensgesetzes in ein Unternehmen
 eingewiesen worden ist.
-
 
 ### § 11 Wirkung des Investitionsvorrangbescheids
 
@@ -415,7 +395,6 @@ Rückübertragungsverfahren nach dem Vermögensgesetz auszusetzen.
 die Berechtigung im Verfahren nach Abschnitt VI des Vermögensgesetzes
 festgestellt werden.
 
-
 ### § 12 Rechtsschutz und Sicherung von Investitionen
 
 (1) Gegen den Investitionsvorrangbescheid ist, wenn die nächsthöhere
@@ -455,13 +434,7 @@ Ansprüche auf Rückübertragung und Wertersatz bestehen nicht, wenn
 2.  mit der tatsächlichen Durchführung der zugesagten Investition
     nachhaltig begonnen worden ist.
 
-
-
-
-
 ## Abschnitt 4 - Durchführung der Investition und Rückabwicklung fehlgeschlagener Vorhaben
-
-
 
 ### § 13 Grundsatz
 
@@ -479,7 +452,6 @@ Vorhaben durchgeführt hat. Wird diese Feststellung unanfechtbar, kann
 der Investitionsvorrangbescheid nicht widerrufen und Rückübertragung
 nicht wegen Nichtdurchführung der zugesagten Maßnahmen verlangt
 werden.
-
 
 ### § 14 Verlängerung der Durchführungsfrist
 
@@ -506,7 +478,6 @@ investiven Maßnahmen oder ein nach den vorstehenden Sätzen zulässiges
 anderes Vorhaben durch einen anderen als den im
 Investitionsvorrangbescheid bezeichneten Vorhabenträger verwirklicht
 werden.
-
 
 ### § 15 Widerruf des Investitionsvorrangbescheids
 
@@ -551,10 +522,7 @@ entsprechend. Das Verbot erlischt, wenn die Rückübertragung des
 Vermögenswertes wirksam geworden oder der Antrag auf Widerruf
 bestandskräftig abgelehnt worden ist.
 
-
 ## Abschnitt 5 - Ausgleich für den Berechtigten
-
-
 
 ### § 16 Anspruch des Berechtigten auf den Gegenwert des Vermögensgegenstandes
 
@@ -624,7 +592,6 @@ Bundesanstalt für vereinigungsbedingte Sonderaufgaben eine
 Verbindlichkeit nach dieser Vorschrift, bedarf es der Zustimmung des
 Gläubigers nach § 415 des Bürgerlichen Gesetzbuchs nicht.
 
-
 ### § 17 Wahlrecht des Berechtigten, Auskunftsanspruch
 
 (1) Soweit dem Berechtigten nach anderen Vorschriften eine
@@ -635,10 +602,7 @@ bezeichneten Rechte in Anspruch nehmen.
 alle Tatsachen verlangen, die für die Wahrnehmung seiner Rechte nach
 diesem Gesetz erforderlich sind.
 
-
 ## Abschnitt 6 - Besondere Verfahren
-
-
 
 ### § 18 Vorhaben in Vorhaben- und Erschließungsplänen
 
@@ -686,7 +650,6 @@ beantragen. Der Beschluß ist im Bundesanzeiger und einer auch
 außerhalb des in Artikel 3 des Einigungsvertrages genannten Gebietes
 erscheinenden überregionalen Tageszeitung zu veröffentlichen. Der
 Beschluß ist unanfechtbar.
-
 
 ### § 19 Öffentliches Bieterverfahren
 
@@ -740,7 +703,6 @@ werden. Der Zuschlag muß in diesem Fall von dem Verfügungsberechtigten
 bestätigt werden. Widerspruch und Klage sind gegen den
 Verfügungsberechtigten zu richten.
 
-
 ### § 20 Vorhaben auf mehreren Grundstücken
 
 (1) Soll ein zusammenhängendes Vorhaben auf mehreren Grundstücken
@@ -766,7 +728,6 @@ Fall mit dem Zugang dieser Mitteilung.
 (4) Die fristgerechte Zusage investiver Maßnahmen durch den Anmelder
 ist im Rahmen seines Vorrechtes nur zu berücksichtigen, wenn die
 Maßnahmen dem Gesamtvorhaben vergleichbar sind.
-
 
 ### § 21 Investitionsantrag des Anmelders
 
@@ -813,7 +774,6 @@ Verfahren nach den §§ 4, 21a zugunsten eines fremden Vorhabenträgers
 nicht eingeleitet werden. Ist ein Verfahren nach den §§ 4, 21a
 eingeleitet worden, kann ein Antrag nach Absatz 1 nicht gestellt
 werden.
-
 
 ### § 21a Modernisierung von Wohnraum im vereinfachten Verfahren
 
@@ -865,7 +825,6 @@ Gewährleistungsansprüche in Ansehung der Modernisierungsmaßnahmen
 abzutreten. Im übrigen gelten die §§ 662 und 664 Abs. 1 Satz 2 und 3
 und Abs. 2 sowie die §§ 666 und 672 bis 674 des Bürgerlichen
 Gesetzbuchs entsprechend.
-
 
 ### § 21b Vereinfachte Rückübertragung
 
@@ -938,10 +897,7 @@ Erwerb ist nicht als Anschaffung im Sinne des § 23 des
 Einkommensteuergesetzes zu behandeln. Die Sätze 1 und 3 gelten nicht,
 wenn der Erwerber nicht rückübertragungsberechtigt ist.
 
-
 ## Abschnitt 7 - Schlußbestimmungen
-
-
 
 ### § 22 Grundstücke und Gebäude nach Liste C
 
@@ -953,7 +909,6 @@ Berichtigung der Grundbücher und Liegenschaftskataster für Grundstücke
 des ehem. Reichs-, Preußen-, Wehrmachts-, Landes-, Kreis- und
 Gemeindevermögens gekennzeichnet oder die aus dem Grundbuch als
 Synagoge oder Friedhof einer jüdischen Gemeinde zu erkennen sind.
-
 
 ### § 23 Gerichtliche Zuständigkeit
 
@@ -972,7 +927,6 @@ Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3
 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen die
 Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des
 Gerichtsverfassungsgesetzes entsprechende Anwendung.
-
 
 ### § 24 Zuständigkeitsregelungen, Abgabe
 
@@ -994,7 +948,6 @@ für investive Maßnahmen der Gemeinden, Städte, Landkreise und des
 Landes die Zuständigkeit dieser Stellen abweichend zu regeln. Die
 Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
 eine oberste Landesbehörde übertragen.
-
 
 ### § 25 Sonderregelungen für die Treuhandanstalt
 
@@ -1019,7 +972,6 @@ Parteiengesetzes vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das
 zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S.
 3230) geändert worden ist, sind oder sein können.
 
-
 ### § 26 Anwendbarkeit anderer Gesetze
 
 Für das Verfahren zur Erteilung des Investitionsvorrangbescheids sind
@@ -1027,7 +979,6 @@ bis zum Erlaß entsprechender landesrechtlicher Bestimmungen auch durch
 Stellen der Länder das Verwaltungsverfahrensgesetz, das
 Verwaltungszustellungsgesetz und das Verwaltungsvollstreckungsgesetz
 anzuwenden, soweit nichts anderes bestimmt ist.
-
 
 ### § 27 Antragsfrist
 
@@ -1039,7 +990,6 @@ zum Baugesetzbuch in der Fassung der Bekanntmachung vom 28. April 1993
 (BGBl. I S. 622) nur für Verfahren nach § 7 Abs. 5 des
 Maßnahmengesetzes zum Baugesetzbuch in Verbindung mit den genannten
 Vorschriften.
-
 
 ### § 28 Überleitungsvorschrift
 
@@ -1070,7 +1020,6 @@ dieses Gesetzes bestandskräftig geworden ist.
 Investitionsvorrangbescheide anzuwenden, soweit nicht über den
 Widerruf eines solchen Bescheids schon bestandskräftig entschieden
 ist.
-
 
 ### § 29 Verordnungsermächtigung
 

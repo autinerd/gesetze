@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 63 G v. 17.12.2008 I 2586
 
-
 ## § 1
 
 Über die religiöse Erziehung eines Kindes bestimmt die freie Einigung
 der Eltern, soweit ihnen das Recht und die Pflicht zusteht, für die
 Person des Kindes zu sorgen. Die Einigung ist jederzeit widerruflich
 und wird durch den Tod eines Ehegatten gelöst.
-
 
 ## § 2
 
@@ -51,7 +49,6 @@ Kosten geschehen kann. Der § 1779 Abs. 3 Satz 2 des Bürgerlichen
 Gesetzbuchs findet entsprechende Anwendung. Das Kind ist zu hören,
 wenn es das zehnte Jahr vollendet hat.
 
-
 ## § 3
 
 (1) Steht dem Vater oder der Mutter das Recht und die Pflicht, für die
@@ -74,12 +71,10 @@ hören, wenn es das zehnte Lebensjahr vollendet hat. Weder der Vormund
 noch der Pfleger können eine schon erfolgte Bestimmung über die
 religiöse Erziehung ändern.
 
-
 ## § 4
 
 Verträge über die religiöse Erziehung eines Kindes sind ohne
 bürgerliche Wirkung.
-
 
 ## § 5
 
@@ -89,12 +84,10 @@ halten will. Hat das Kind das zwölfte Lebensjahr vollendet, so kann es
 nicht gegen seinen Willen in einem anderen Bekenntnis als bisher
 erzogen werden.
 
-
 ## § 6
 
 Die vorstehenden Bestimmungen finden auf die Erziehung der Kinder in
 einer nicht bekenntnismäßigen Weltanschauung entsprechende Anwendung.
-
 
 ## § 7
 
@@ -103,17 +96,13 @@ zuständig. Ein Einschreiten von Amts wegen findet dabei nicht statt,
 es sei denn, daß die Voraussetzungen des § 1666 des Bürgerlichen
 Gesetzbuchs vorliegen.
 
-
 ## § 8
 
 Alle diesem Gesetz entgegenstehenden Bestimmungen der Landesgesetze
 sowie Artikel 134 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch
 werden aufgehoben.
 
-
 ## (XXXX) §§ 9 und 10
-
-
 
 ## § 11
 

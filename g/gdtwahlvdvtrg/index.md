@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 813
 
-
-
 ## Art 1 Zustimmung zu den Verträgen
 
 Dem in Berlin am 3. August 1990 von der Bundesrepublik Deutschland
@@ -30,7 +28,6 @@ einschließlich der Anlage und des Anhanges sowie dem in Bonn am 20.
 August 1990 unterzeichneten Änderungsvertrag hierzu wird zugestimmt.
 Die Verträge einschließlich der Anlage und des Anhanges werden
 nachstehend veröffentlicht.
-
 
 ## Art 2 Änderung des Bundeswahlgesetzes
 
@@ -167,10 +164,6 @@ vom 11. Juni 1990 (BGBl. I S. 1015), wird wie folgt geändert:
 3.  Die Anlage zu dem Gesetz wird durch die in der Anlage genannten und
     beschriebenen Wahlkreise 257 bis 328 ergänzt.
 
-
-
-
-
 ## Art 3 Besondere Maßgaben für die Anwendung des Bundeswahlgesetzes
 
 Für die Anwendung des Bundeswahlgesetzes auf die Vorbereitung und
@@ -268,10 +261,6 @@ gelten folgende Maßgaben:
     101), zuletzt geändert durch Gesetz vom 29. Juli 1990 (GBl. I S. 526)
     in Höhe bis zu 100.000 Deutsche Mark verhängt werden können.
 
-
-
-
-
 ## Art 4 Neubekanntmachung des Bundeswahlgesetzes
 
 Der Bundesminister des Innern kann den Wortlaut des Bundeswahlgesetzes
@@ -279,12 +268,10 @@ in der vom Tage des Inkrafttretens dieses Gesetzes an für die Wahl zum
 12\. Deutschen Bundestag geltenden Fassung im Bundesgesetzblatt
 bekanntmachen.
 
-
 ## Art 5 Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6 Inkrafttreten
 
@@ -296,7 +283,6 @@ Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 einschließlich der in Artikel 1 Satz 1 aufgeführten Anlage und des
 Anhanges nach Artikel 8 des Vertrages in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
-
 
 ## Anlage (zu Artikel 2 Nr. 3)
 

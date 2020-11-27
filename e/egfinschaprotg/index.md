@@ -28,7 +28,6 @@ Stand: Bek. über das Inkrafttreten v. 27.4.2007 II 794 ist berücksichtigt
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 Dem in Brüssel am 29. November 1996 von der Bundesrepublik Deutschland
@@ -39,7 +38,6 @@ durch den Gerichtshof der Europäischen Gemeinschaften im Wege der
 Vorabentscheidung und den hierzu abgegebenen Erklärungen wird
 zugestimmt. Das Protokoll und die Erklärungen werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -58,7 +56,6 @@ hat dem Gerichtshof der Europäischen Gemeinschaften zur
 Vorabentscheidung Fragen nach Absatz 1 vorzulegen, wenn es eine
 Entscheidung darüber zum Erlass seiner Entscheidung für erforderlich
 hält.
-
 
 ## Art 3
 

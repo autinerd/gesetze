@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1976, 1999
 
-
-
 ## Eingangsformel
 
 Die Proklamation der Bundesrepublik Deutschland über die Errichtung
@@ -25,7 +23,6 @@ einer Fischereizone der Bundesrepublik Deutschland in der Nordsee vom
 21\. Dezember 1976 wird hiermit bekanntgemacht.
 Bonn, den 22. Dezember 1976
 Der Bundesminister des Auswärtigen
-
 
 ## (XXXX)
 

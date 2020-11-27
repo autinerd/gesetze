@@ -22,7 +22,6 @@ derLänder in der Bundesrepublik Deutschland beschlossene
 Rahmenlehrplanfür die Berufsschule werden demnächst als Beilage
 zumBundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 der
@@ -34,17 +33,14 @@ worden ist, verordnet das Bundesministerium für Wirtschaft im
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf
 Zahntechniker/Zahntechnikerin nach der Handwerksordnung.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -104,10 +100,6 @@ Fertigkeiten und Kenntnisse:
 
 17. Herstellen von therapeutischen Geräten.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -125,12 +117,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 und 8
 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -138,7 +128,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -193,10 +182,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 5.  Fehleranalyse, Dokumentation.
-
-
-
-
 
 ## § 8 Gesellenprüfung
 
@@ -332,13 +317,11 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
 Leistungen erbracht sind.
 
-
 ## § 9 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Zahntechniker/Zahntechnikerin sind nicht mehr anzuwenden.
-
 
 ## § 10 Übergangsregelung
 
@@ -347,11 +330,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
 

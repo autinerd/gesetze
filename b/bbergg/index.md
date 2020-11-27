@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15a G v. 31.7.2009 I 2585
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Inhaltsverzeichnis
 
@@ -2012,13 +2010,7 @@ beschlossen:
 
     *   § 178
 
-
-
-
-
 ## Erster Teil - Einleitende Bestimmungen
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -2037,10 +2029,6 @@ Zweck dieses Gesetzes ist es,
 3.  die Vorsorge gegen Gefahren, die sich aus bergbaulicher Tätigkeit für
     Leben, Gesundheit und Sachgüter Dritter ergeben, zu verstärken und den
     Ausgleich unvermeidbarer Schäden zu verbessern.
-
-
-
-
 
 ### § 2 Sachlicher und räumlicher Geltungsbereich
 
@@ -2118,13 +2106,6 @@ Absatzes 1 Nr. 1
         Aufsuchen, Gewinnen oder Aufbereiten von bergfreien oder grundeigenen
         Bodenschätzen bestimmt sind.
 
-
-
-
-
-
-
-
 ### § 3 Bergfreie und grundeigene Bodenschätze
 
 (1) Bodenschätze sind mit Ausnahme von Wasser alle mineralischen
@@ -2191,10 +2172,6 @@ anderes ergibt:
 
 2.  alle anderen nicht unter Absatz 3 oder Nummer 1 fallenden
     Bodenschätze, soweit sie untertägig aufgesucht oder gewonnen werden.
-
-
-
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -2288,7 +2265,6 @@ mit Ausnahme von Wasser.
 oder vom Gebiet eines anderen Staates in den Festlandsockel der
 Bundesrepublik Deutschland führt oder diesen durchquert.
 
-
 ### § 5 Anwendung des Verwaltungsverfahrensgesetzes und des Verwaltungskostengesetzes
 
 Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes
@@ -2296,18 +2272,11 @@ erlassenen Rechtsverordnungen sind, soweit in diesem Gesetz nichts
 anderes bestimmt ist, das Verwaltungsverfahrensgesetz und das
 Verwaltungskostengesetz anzuwenden.
 
-
 ## Zweiter Teil - Bergbauberechtigungen
-
-
 
 ### Erstes Kapitel - Bergfreie Bodenschätze
 
-
-
 #### Erster Abschnitt - Erlaubnis, Bewilligung, Bergwerkseigentum
-
-
 
 ##### § 6 Grundsatz
 
@@ -2316,7 +2285,6 @@ bergfreie Bodenschätze gewinnen will, der Bewilligung oder des
 Bergwerkseigentums. Diese Berechtigungen können nur natürlichen und
 juristischen Personen und Personenhandelsgesellschaften erteilt oder
 verliehen werden.
-
 
 ##### § 7 Erlaubnis
 
@@ -2347,7 +2315,6 @@ mehrerer Erlaubnisse zur Aufsuchung zu wissenschaftlichen Zwecken,
 eine Erlaubnis zur großräumigen Aufsuchung die Erteilung einer oder
 mehrerer Erlaubnisse zur Aufsuchung zu wissenschaftlichen Zwecken für
 dasselbe Feld nicht aus.
-
 
 ##### § 8 Bewilligung
 
@@ -2381,7 +2348,6 @@ Vorschriften des bürgerlichen Rechts entsprechend anzuwenden.
 großräumigen Aufsuchung sowie einer oder mehrerer Erlaubnisse zur
 Aufsuchung zu wissenschaftlichen Zwecken für dasselbe Feld nicht aus.
 
-
 ##### § 9 Bergwerkseigentum
 
 (1) Bergwerkseigentum gewährt das ausschließliche Recht, nach den
@@ -2396,13 +2362,11 @@ sowie die Zuschreibung eines Bergwerkseigentums als Bestandteil eines
 Grundstücks oder eines Grundstücks als Bestandteil eines
 Bergwerkseigentums ist unzulässig.
 
-
 ##### § 10 Antrag
 
 Erlaubnis und Bewilligung werden nur auf Antrag erteilt,
 Bergwerkseigentum nur auf Antrag verliehen. Der Antrag ist schriftlich
 bei der zuständigen Behörde zu stellen.
-
 
 ##### § 11 Versagung der Erlaubnis
 
@@ -2476,10 +2440,6 @@ Die Erlaubnis ist zu versagen, wenn
 10. überwiegende öffentliche Interessen die Aufsuchung im gesamten
     zuzuteilenden Feld ausschließen.
 
-
-
-
-
 ##### § 12 Versagung der Bewilligung
 
 (1) Für die Versagung der Bewilligung gilt § 11 Nr. 1 und 6 bis 10
@@ -2512,7 +2472,6 @@ im Erlaubnisfeld, so darf die von ihm beantragte Bewilligung nur aus
 Gründen des Absatzes 1 und nur versagt werden, wenn die Tatsachen, die
 die Versagung rechtfertigen, erst nach der Erteilung der Erlaubnis
 eingetreten sind.
-
 
 ##### § 13 Versagung der Verleihung von Bergwerkseigentum
 
@@ -2553,13 +2512,6 @@ Die Verleihung von Bergwerkseigentum ist zu versagen, wenn
     d)  die Beschreibung von Art und Umfang der Erschließung des Vorkommens
         unter Angabe der geologisch-lagerstättenkundlichen Merkmale.
 
-
-
-
-
-
-
-
 ##### § 14 Vorrang
 
 (1) Dem Inhaber einer Erlaubnis zur Aufsuchung zu gewerblichen Zwecken
@@ -2584,13 +2536,11 @@ Gewinnung am besten Rechnung trägt; dabei sind die sonstigen
 bergbaulichen Tätigkeiten des Antragstellers zu berücksichtigen. § 12
 Abs. 2 bleibt unberührt.
 
-
 ##### § 15 Beteiligung anderer Behörden
 
 Die zuständige Behörde hat vor der Entscheidung über den Antrag den
 Behörden Gelegenheit zur Stellungnahme zu geben, zu deren Aufgaben die
 Wahrnehmung öffentlicher Interessen im Sinne des § 11 Nr. 10 gehört.
-
 
 ##### § 16 Form, Inhalt und Nebenbestimmungen
 
@@ -2632,7 +2582,6 @@ soweit dies mit Rücksicht auf die für die Gewinnung üblicherweise
 erforderlichen Investitionen notwendig ist. Eine Verlängerung bis zur
 voraussichtlichen Erschöpfung des Vorkommens bei ordnungs- und
 planmäßiger Gewinnung ist zulässig.
-
 
 ##### § 17 Entstehung des Bergwerkseigentums
 
@@ -2676,7 +2625,6 @@ Abschrift der Berechtsamsurkunde beizufügen.
 (4) Das Grundbuchamt hat die zuständige Behörde von der Eintragung
 eines neuen Bergwerkseigentümers zu benachrichtigen.
 
-
 ##### § 18 Widerruf
 
 (1) Erlaubnis und Bewilligung sind zu widerrufen, wenn nachträglich
@@ -2711,7 +2659,6 @@ Grundbuch eingetragenen dinglich Berechtigten von der Entscheidung
 unterrichten. Sie ersucht das Grundbuchamt um die Löschung des
 Bergwerkseigentums, wenn der Widerruf wirksam geworden ist.
 
-
 ##### § 19 Aufhebung der Erlaubnis und Bewilligung
 
 (1) Eine Erlaubnis oder Bewilligung ist auf Antrag ihres Inhabers ganz
@@ -2721,7 +2668,6 @@ Niederschrift bei der zuständigen Behörde zu stellen.
 (2) Mit der Bekanntgabe der Aufhebung im amtlichen
 Veröffentlichungsblatt der zuständigen Behörde erlischt die Erlaubnis
 oder Bewilligung in dem Umfang, in dem sie aufgehoben wird.
-
 
 ##### § 20 Aufhebung von Bergwerkseigentum
 
@@ -2755,7 +2701,6 @@ unterrichten.
 (5) Ist das Bergwerkseigentum erloschen, so ersucht die zuständige
 Behörde das Grundbuchamt um die Löschung.
 
-
 ##### § 21 Beteiligung an der Aufsuchung
 
 (1) Die zuständige Behörde hat
@@ -2788,7 +2733,6 @@ Beteiligung vorher nicht möglich war und für den verpflichteten
 Antragsteller im Zeitpunkt des Verlangens die Beteiligung noch
 zumutbar ist.
 
-
 ##### § 22 Übertragung und Übergang der Erlaubnis und Bewilligung
 
 (1) Die Übertragung der Erlaubnis oder Bewilligung auf einen Dritten
@@ -2818,7 +2762,6 @@ deren Person ein Versagungsgrund nach § 11 Nr. 6, auch in Verbindung
 mit § 12 Abs. 1 Satz 1, gegeben ist. Die Sätze 1 bis 3 gelten für
 sonstige Fälle der Gesamtrechtsnachfolge entsprechend.
 
-
 ##### § 23 Veräußerung von Bergwerkseigentum
 
 (1) Die rechtsgeschäftliche Veräußerung von Bergwerkseigentum und der
@@ -2831,16 +2774,12 @@ erteilt werden. Sie gilt als erteilt, wenn sie nicht innerhalb von
 zwei Monaten nach Eingang des Antrages versagt wird. Hierüber hat die
 zuständige Behörde auf Verlangen ein Zeugnis zu erteilen.
 
-
 #### Zweiter Abschnitt - Vereinigung, Teilung und Austausch von Bergwerkseigentum
-
-
 
 ##### § 24 Zulässigkeit der Vereinigung
 
 Bergwerksfelder dürfen vereinigt werden, wenn sie aneinandergrenzen
 und das Bergwerkseigentum auf die gleichen Bodenschätze verliehen ist.
-
 
 ##### § 25 Voraussetzungen der Vereinigung
 
@@ -2867,10 +2806,6 @@ Zur Vereinigung sind erforderlich
 
 4.  die Genehmigung nach § 26.
 
-
-
-
-
 ##### § 26 Genehmigung der Vereinigung, Berechtsamsurkunde
 
 (1) Die Genehmigung darf nur versagt werden, wenn
@@ -2893,7 +2828,6 @@ Ausfertigung des Lagerisses nach § 25 Nr. 2, den Verleihungs- oder den
 nach § 154 Abs. 2 ausgestellten Urkunden zu einer einheitlichen
 Berechtsamsurkunde verbunden.
 
-
 ##### § 27 Wirkung der Vereinigung
 
 (1) Mit der Zustellung der Berechtsamsurkunde an den Antragsteller
@@ -2904,7 +2838,6 @@ der Vereinbarung nach § 25 Nr. 3 ergebenden dinglichen Belastungen.
 (2) Ist die Vereinigung wirksam geworden, so ersucht die zuständige
 Behörde das Grundbuchamt um Berichtigung des Grundbuches. Dem Ersuchen
 ist eine beglaubigte Abschrift der Berechtsamsurkunde beizufügen.
-
 
 ##### § 28 Teilung
 
@@ -2917,7 +2850,6 @@ planmäßigen Gewinnung von Bodenschätzen nicht zu befürchten ist. Die
 erforderlich sind; mit Ausnahme der Lagerisse für die Teilung ist
 jedoch eine Urschrift nebst der erforderlichen Zahl von Ausfertigungen
 oder beglaubigten Abschriften der Urkunden ausreichend.
-
 
 ##### § 29 Austausch
 
@@ -2942,13 +2874,7 @@ Die §§ 25 bis 27 sind mit folgender Maßgabe entsprechend anzuwenden:
     Urschrift die erforderliche Zahl von Ausfertigungen oder beglaubigten
     Abschriften der Urkunden ausreichend.
 
-
-
-
-
 #### Dritter Abschnitt - Feldes- und Förderabgabe
-
-
 
 ##### § 30 Feldesabgabe
 
@@ -2964,7 +2890,6 @@ folgende Jahr um weitere fünf Euro bis zum Höchstbetrag von
 fünfundzwanzig Euro je angefangenen Quadratkilometer. Auf die
 Feldesabgabe sind die im Erlaubnisfeld in dem jeweiligen Jahr für die
 Aufsuchung gemachten Aufwendungen anzurechnen.
-
 
 ##### § 31 Förderabgabe
 
@@ -2985,7 +2910,6 @@ Behörde nach Anhörung sachverständiger Stellen den für die
 Förderabgabe zugrunde zu legenden Wert fest.
 
 (3) § 30 Abs. 2 gilt entsprechend.
-
 
 ##### § 32 Feststellung, Erhebung und Änderung der Feldes- und Förderabgabe
 
@@ -3030,10 +2954,7 @@ oder § 31 Abs. 2 Satz 1 ergebenden Beträge erhöht werden.
 (3) Die Landesregierungen können die Ermächtigung nach den Absätzen 1
 und 2 durch Rechtsverordnung auf andere Stellen übertragen.
 
-
 #### Vierter Abschnitt - Fundanzeige
-
-
 
 ##### § 33 Anzeige und Entschädigung
 
@@ -3052,10 +2973,7 @@ sowie eine Beschreibung der Art und Beschaffenheit des Fundes
 enthalten. Die zuständige Behörde hat den Anzeigenden unverzüglich von
 der Erteilung einer Bewilligung zu benachrichtigen.
 
-
 ### Zweites Kapitel - Grundeigene Bodenschätze
-
-
 
 #### § 34 Inhalt der Befugnis zur Aufsuchung und Gewinnung grundeigener Bodenschätze
 
@@ -3075,10 +2993,7 @@ ergibt, § 7 Abs. 1 und die §§ 8 und 9 mit der Maßgabe entsprechend,
 daß an die Stelle des Erlaubnis-, Bewilligungs- und Bergwerksfeldes
 das Grundstück tritt, auf das sich das Grundeigentum bezieht.
 
-
 ### Drittes Kapitel - Zulegung
-
-
 
 #### § 35 Voraussetzungen
 
@@ -3144,13 +3059,6 @@ fortzuführen (grenzüberschreitender Abbau), wenn
     f)  eine Begründung zu dem Vorliegen der in den Nummern 3 und 4
         bezeichneten Voraussetzungen.
 
-
-
-
-
-
-
-
 #### § 36 Verfahren
 
 Auf das Verfahren sind die Vorschriften über das förmliche
@@ -3192,7 +3100,6 @@ nach Teil V Abschnitt 1 des Verwaltungsverfahrensgesetzes treten die
 entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der
 Länder, soweit dies landesrechtlich angeordnet ist.
 
-
 #### § 37 Entschädigung
 
 (1) Für die Erteilung des Rechts zum grenzüberschreitenden Abbau hat
@@ -3214,7 +3121,6 @@ fremde Berechtigung mit dinglichen Rechten Dritter belastet, so gelten
 die Artikel 52 und 53 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuch entsprechend.
 
-
 #### § 38 Inhalt der Zulegung, Aufhebung, Förderabgabe
 
 (1) Für das Recht zum grenzüberschreitenden Abbau gelten die §§ 8, 15,
@@ -3230,21 +3136,11 @@ gelten würde.
 2.  bei einer Entschädigung in wiederkehrenden Leistungen die erste Rate
     und für die übrigen Raten angemessene Sicherheit geleistet hat.
 
-
-
-
-
 ## Dritter Teil - Aufsuchung, Gewinnung und Aufbereitung
-
-
 
 ### Erstes Kapitel - Allgemeine Vorschriften über die Aufsuchung und Gewinnung
 
-
-
 #### Erster Abschnitt - Aufsuchung
-
-
 
 ##### § 39 Einigung mit dem Grundeigentümer, Zustimmung anderer Behörden, Entschädigung
 
@@ -3311,7 +3207,6 @@ zum Bürgerlichen Gesetzbuch.
 Grundeigentümer und sonstige Nutzungsberechtigte eine angemessene
 Sicherheitsleistung verlangen.
 
-
 ##### § 40 Streitentscheidung
 
 (1) Wird die nach § 39 Abs. 1 Satz 1 Nr. 1 erforderliche Zustimmung
@@ -3330,7 +3225,6 @@ des Verfahrens trägt der Aufsuchungsberechtigte. Erst wenn der Ersatz
 geleistet oder eine Sicherheit hinterlegt ist, darf die Aufsuchung
 begonnen oder fortgesetzt werden.
 
-
 ##### § 41 Gewinnung von Bodenschätzen bei der Aufsuchung
 
 Der Aufsuchungsberechtigte hat das Recht, Bodenschätze zu gewinnen,
@@ -3340,10 +3234,7 @@ sicherheitstechnischen oder anderen Gründen gewonnen werden müssen.
 Das Recht des Aufsuchungsberechtigten, andere als bergfreie
 Bodenschätze in eigenen Grundstücken zu gewinnen, bleibt unberührt.
 
-
 #### Zweiter Abschnitt - Gewinnung
-
-
 
 ##### § 42 Mitgewinnung von Bodenschätzen bei der Gewinnung bergfreier Bodenschätze
 
@@ -3406,12 +3297,10 @@ Berechtigten entscheidet die zuständige Behörde über die Unmöglichkeit
 oder Unzumutbarkeit der Trennung der Bodenschätze und die Größe der
 Anteile.
 
-
 ##### § 43 Mitgewinnung von Bodenschätzen bei der Gewinnung grundeigener Bodenschätze
 
 Bei der Gewinnung grundeigener Bodenschätze gilt für die Mitgewinnung
 bergfreier Bodenschätze § 42 entsprechend.
-
 
 ##### § 44 Hilfsbaurecht
 
@@ -3428,7 +3317,6 @@ gefährdet oder wesentlich beeinträchtigt würde.
 Gewinnungsberechtigten durch den Hilfsbau entsteht, Ersatz in Geld zu
 leisten.
 
-
 ##### § 45 Mitgewinnung von Bodenschätzen bei Anlegung von Hilfsbauen
 
 (1) Der Hilfsbauberechtigte hat das Recht, alle Bodenschätze
@@ -3443,13 +3331,11 @@ den anderen Berechtigten unentgeltlich herauszugeben, wenn diese es
 innerhalb eines Monats nach Kenntnisnahme nach Absatz 1 Satz 2
 verlangen. § 42 Abs. 2 Satz 3 bis 5 und Abs. 4 gilt entsprechend.
 
-
 ##### § 46 Hilfsbau bei Bergwerkseigentum
 
 Ein Hilfsbau, der auf Grund von Bergwerkseigentum rechtmäßig angelegt
 worden ist, gilt als dessen wesentlicher Bestandteil. Eine Eintragung
 in das Grundbuch ist nicht erforderlich.
-
 
 ##### § 47 Benutzung fremder Grubenbaue
 
@@ -3486,10 +3372,7 @@ leisten.
 (4) In Streitfällen entscheidet auf Antrag die zuständige Behörde über
 das Recht zur Benutzung.
 
-
 #### Dritter Abschnitt - Verbote und Beschränkungen
-
-
 
 ##### § 48 Allgemeine Verbote und Beschränkungen
 
@@ -3516,7 +3399,6 @@ anzuwenden, daß an die Stelle der Gemeinde die zuständige Behörde
 tritt. Verspätet erhobene Einwendungen sind ausgeschlossen. Hierauf
 ist in der Bekanntmachung hinzuweisen.
 
-
 ##### § 49 Beschränkung der Aufsuchung auf dem Festlandsockel und innerhalb der Küstengewässer
 
 Im Bereich des Festlandsockels und der Küstengewässer ist die
@@ -3542,10 +3424,7 @@ Aufsuchung insoweit unzulässig, als sie
 
 beeinträchtigt.
 
-
 ### Zweites Kapitel - Anzeige, Betriebsplan
-
-
 
 #### § 50 Anzeige
 
@@ -3598,7 +3477,6 @@ wesentlichen Einzelheiten der beabsichtigten Gewinnung, insbesondere
 enthalten muß. Wesentliche Änderungen des Abbauplanes sind der
 zuständigen Behörde unverzüglich anzuzeigen.
 
-
 #### § 51 Betriebsplanpflicht
 
 (1) Aufsuchungsbetriebe, Gewinnungsbetriebe und Betriebe zur
@@ -3626,7 +3504,6 @@ erlassenen Rechtsverordnungen auch ohne Betriebsplanpflicht
 sichergestellt werden können. Dies gilt nicht für die Errichtung und
 die Einstellung des Betriebes und für Betriebe im Bereich des
 Festlandsockels.
-
 
 #### § 52 Betriebspläne für die Errichtung und Führung des Betriebes
 
@@ -3707,7 +3584,6 @@ und Sonderbetriebsplänen an Stelle der nach Absatz 4 Satz 1
 erforderlichen Darstellung und Nachweise der Nachweis treten, daß die
 Genehmigung oder Zulassung vorliegt oder beantragt ist.
 
-
 #### § 53 Betriebsplan für die Einstellung des Betriebes, Betriebschronik
 
 (1) Für die Einstellung eines Betriebes ist ein Abschlußbetriebsplan
@@ -3773,7 +3649,6 @@ betrieben wurden, es sei denn, daß der Lagerstätte nach Feststellung
 der zuständigen Behörde noch eine wirtschaftliche Bedeutung für die
 Zukunft zukommen kann.
 
-
 #### § 54 Zulassungsverfahren
 
 (1) Der Unternehmer hat den Betriebsplan, dessen Verlängerung,
@@ -3792,7 +3667,6 @@ Rahmen eines Planes geführt werden, in dem insbesondere die
 Abbaugrenzen und Haldenflächen festgelegt sind und der auf Grund eines
 Bundes- oder Landesgesetzes in einem besonderen Planungsverfahren
 genehmigt worden ist.
-
 
 #### § 55 Zulassung des Betriebsplanes
 
@@ -3898,10 +3772,6 @@ Absatz 1 Satz 1 Nr. 2 bis 13 mit der Maßgabe entsprechend, daß
     Voraussetzungen nur insoweit verlangt werden, als dadurch die
     Wiederaufnahme des Betriebes nicht ausgeschlossen wird.
 
-
-
-
-
 #### § 56 Form und Inhalt der Zulassung, Sicherheitsleistung
 
 (1) Die Zulassung eines Betriebsplanes bedarf der Schriftform. Die
@@ -3933,7 +3803,6 @@ zuständige Behörde.
 (3) Die Absätze 1 und 2 gelten für die Verlängerung, Ergänzung oder
 Änderung eines Betriebsplanes entsprechend.
 
-
 #### § 57 Abweichungen von einem zugelassenen Betriebsplan
 
 (1) Kann eine Gefahr für Leben oder Gesundheit Beschäftigter oder
@@ -3955,7 +3824,6 @@ werden darf.
 (3) Die Zulassung der infolge der Abweichung erforderlichen Änderung
 des Betriebsplanes oder des für die Einstellung erforderlichen
 Betriebsplanes ist unverzüglich zu beantragen.
-
 
 #### § 57a Planfeststellungsverfahren, Umweltverträglichkeitsprüfung
 
@@ -4055,7 +3923,6 @@ Gleichwertigkeit Satz 1 entsprechend. Einzelheiten regelt das
 Bundesministerium für Wirtschaft und Technologie durch
 Rechtsverordnung nach § 57c.
 
-
 #### § 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
 
 (1) Die zuständige Behörde kann unter dem Vorbehalt des Widerrufs
@@ -4114,7 +3981,6 @@ Atomgesetzes Vorrang. Sind für Folgemaßnahmen nach anderen
 Vorschriften Planfeststellungsverfahren vorgesehen, so ist insoweit
 das Verfahren nach den anderen Vorschriften durchzuführen.
 
-
 #### § 57c Ermächtigung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -4143,10 +4009,7 @@ In der Rechtsverordnung können für die Bestimmung der Vorhaben nach
 Satz 1 Nr. 1 auch Gruppen oder Arten von Vorhaben durch Festlegung von
 Schwellenwerten und anderen Kriterien bestimmt werden.
 
-
 ### Drittes Kapitel - Verantwortliche Personen
-
-
 
 #### § 58 Personenkreis
 
@@ -4178,7 +4041,6 @@ Gewinnung nach Inkrafttreten dieses Gesetzes erloschen, so tritt an
 die Stelle des Inhabers dieser Berechtigung die Person, die im
 Zeitpunkt des Erlöschens Inhaber der Berechtigung war.
 
-
 #### § 59 Beschäftigung verantwortlicher Personen
 
 (1) Als verantwortliche Personen im Sinne des § 58 Abs. 1 Nr. 2 dürfen
@@ -4192,7 +4054,6 @@ erforderlichen Anzahl zu bestellen. Die Aufgaben und Befugnisse der
 verantwortlichen Personen sind eindeutig und lückenlos festzusetzen
 sowie so aufeinander abzustimmen, daß eine geordnete Zusammenarbeit
 gewährleistet ist.
-
 
 #### § 60 Form der Bestellung und Abberufung verantwortlicher Personen, Namhaftmachung
 
@@ -4209,7 +4070,6 @@ Betrieb und ihrer Vorbildung der zuständigen Behörde unverzüglich nach
 der Bestellung namhaft zu machen. Die Änderung der Stellung im Betrieb
 und das Ausscheiden verantwortlicher Personen sind der zuständigen
 Behörde unverzüglich anzuzeigen.
-
 
 #### § 61 Allgemeine Pflichten
 
@@ -4259,7 +4119,6 @@ deren Aufgaben und Befugnisse betroffen werden. Er hat dafür zu
 sorgen, daß Betriebspläne und deren Zulassung von den verantwortlichen
 Personen jederzeit eingesehen werden können.
 
-
 #### § 62 Übertragbarkeit bestimmter Pflichten und Befugnisse
 
 Der Unternehmer kann
@@ -4279,10 +4138,7 @@ Unternehmers nach § 61 Abs. 1 Satz 1 zweiter Halbsatz und Satz 2
 bleiben bestehen, auch wenn verantwortliche Personen bestellt worden
 sind.
 
-
 ### Viertes Kapitel - Sonstige Bestimmungen für den Betrieb
-
-
 
 #### § 63 Rißwerk
 
@@ -4324,7 +4180,6 @@ entsprechenden Teil des bei der Behörde befindlichen Stückes des
 Grubenbildes berechtigt. Dem Unternehmer ist Gelegenheit zu geben, bei
 der Einsichtnahme zugegen zu sein.
 
-
 #### § 64 Markscheider
 
 (1) Das für untertägige Aufsuchungs- oder Gewinnungsbetriebe
@@ -4342,10 +4197,7 @@ Tatsachen mit öffentlichem Glauben zu beurkunden.
 (3) Die Länder können Vorschriften über die Voraussetzungen erlassen,
 unter denen eine Person als Markscheider tätig werden kann.
 
-
 ## Vierter Teil - Ermächtigungen zum Erlaß von Bergverordnungen
-
-
 
 ### § 65 Anzeige, Genehmigung, allgemeine Zulassung, Prüfung
 
@@ -4405,10 +4257,6 @@ werden,
     bestimmungsgemäßen Verwendung, insbesondere Prüfungen,
     Produktionsüberwachung, Bescheinigungen, Kennzeichnung, Aufbewahrungs-
     und Mitteilungspflichten, sowie behördliche Maßnahmen geregelt werden.
-
-
-
-
 
 ### § 66 Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde
 
@@ -4560,7 +4408,6 @@ Gesetzes betreffen, erforderlich ist; durch solche Rechtsverordnungen
 können auch anderen Personen als Unternehmern und Beschäftigten
 Pflichten auferlegt werden.
 
-
 ### § 67 Technische und statistische Unterlagen, Markscheidewesen
 
 Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über
@@ -4604,10 +4451,6 @@ Rechtsgüter und Belange erforderlich ist, kann durch Rechtsverordnung
 
 8.  daß und für welchen Zeitraum die Unterlagen, Darstellungen, Listen,
     Bücher und Statistiken aufzubewahren sind.
-
-
-
-
 
 ### § 68 Erlaß von Bergverordnungen
 
@@ -4665,10 +4508,7 @@ Bundesrates und
 Bekanntmachungen sachverständiger Stellen unter Angabe der Fundstelle
 verwiesen werden.
 
-
 ## Fünfter Teil - Bergaufsicht
-
-
 
 ### § 69 Allgemeine Aufsicht
 
@@ -4686,7 +4526,6 @@ Interesse liegt, oder gemeinschädliche Einwirkungen eintreten werden.
 (3) Der Aufsicht der zuständigen Behörde unterliegen die Markscheider
 und die Ausführung der markscheiderischen Arbeiten im Sinne des § 64
 Abs. 1.
-
 
 ### § 70 Allgemeine Aufsichtsbefugnisse, Auskunfts- und Duldungspflichten
 
@@ -4733,7 +4572,6 @@ die Annahme rechtfertigen, daß sie eine der in § 2 Abs. 1 Nr. 1
 bezeichneten Tätigkeiten ohne die erforderliche Berechtigung ausüben
 oder ausgeübt haben.
 
-
 ### § 71 Allgemeine Anordnungsbefugnis
 
 (1) Die zuständige Behörde kann im Einzelfall anordnen, welche
@@ -4761,7 +4599,6 @@ Abschlußbetriebsplan kann die zuständige Behörde die erforderlichen
 Maßnahmen anordnen, um die Erfüllung der in § 55 Abs. 2 bezeichneten
 Voraussetzungen sicherzustellen.
 
-
 ### § 72 Verhinderung unerlaubter Tätigkeiten, Sicherstellung
 
 (1) Wird die Aufsuchung oder Gewinnung bergfreier Bodenschätze ohne
@@ -4782,7 +4619,6 @@ Gegenstände zur Verwendung in den der Bergaufsicht unterliegenden
 Betrieben nicht zugelassen sind oder wenn es erforderlich ist, um ihre
 unbefugte Verwendung zu verhindern. Der Erlös aus der Verwertung tritt
 an die Stelle der sichergestellten Gegenstände.
-
 
 ### § 73 Untersagung der Beschäftigung verantwortlicher Personen
 
@@ -4817,7 +4653,6 @@ Personen und Personenhandelsgesellschaften die Voraussetzungen des
 Satzes 1 bei einer der nach Gesetz, Satzung oder Gesellschaftsvertrag
 zur Vertretung berechtigten Person vorliegen.
 
-
 ### § 74 Hilfeleistung, Anzeigepflicht
 
 (1) Bei Betriebsereignissen, die eine Gefahr für Beschäftigte oder
@@ -4849,10 +4684,7 @@ worden sind.
 
 unverzüglich anzuzeigen.
 
-
 ## Sechster Teil - Berechtsamsbuch, Berechtsamskarte
-
-
 
 ### § 75 Anlegung und Führung des Berechtsamsbuchs und der Berechtsamskarte
 
@@ -4893,7 +4725,6 @@ werden von Amts wegen vorgenommen.
 löschen. Auf der Berechtsamskarte ist das Erlöschen in geeigneter
 Weise zu kennzeichnen.
 
-
 ### § 76 Einsicht
 
 (1) Die Einsicht in das Berechtsamsbuch, in die Berechtsamskarte und
@@ -4904,18 +4735,11 @@ Urkunden, die Geschäfts- oder Betriebsgeheimnisse enthalten.
 (2) Soweit die Einsicht gestattet ist, können Auszüge gefordert
 werden, die auf Verlangen zu beglaubigen sind.
 
-
 ## Siebenter Teil - Bergbau und Grundbesitz, Öffentliche Verkehrsanlagen
-
-
 
 ### Erstes Kapitel - Grundabtretung
 
-
-
 #### Erster Abschnitt - Zulässigkeit und Voraussetzungen der Grundabtretung
-
-
 
 ##### § 77 Zweck der Grundabtretung
 
@@ -4936,7 +4760,6 @@ der in Absatz 1 bezeichneten Art unerläßlich ist.
 (3) Vorschriften über die Enteignung zu anderen als den in Absatz 1
 bezeichneten Zwecken bleiben unberührt.
 
-
 ##### § 78 Gegenstand der Grundabtretung
 
 Durch Grundabtretung können
@@ -4952,7 +4775,6 @@ Durch Grundabtretung können
 
 entzogen, übertragen, geändert, mit einem dinglichen Recht belastet
 oder sonst beschränkt werden.
-
 
 ##### § 79 Voraussetzungen für die Zulässigkeit der Grundabtretung
 
@@ -4998,7 +4820,6 @@ zuständigen Behörde voraus. Die Zustimmung darf nur aus überwiegenden
 öffentlichen Interessen unter Berücksichtigung der
 Standortgebundenheit des Vorhabens erteilt werden.
 
-
 ##### § 80 Grundabtretungsbegünstigter und -pflichtiger
 
 (1) Grundabtretungsbegünstigter ist der Unternehmer, für dessen
@@ -5012,7 +4833,6 @@ oder sonst beschränkt werden sollen.
 (3) Nebenberechtigte sind die Personen, denen dingliche oder
 persönliche Rechte am oder in bezug auf den Gegenstand der
 Grundabtretung zustehen.
-
 
 ##### § 81 Umfang der Grundabtretung
 
@@ -5066,10 +4886,6 @@ Beendigung der Benutzung zu diesem Zweck,
 2.  den abgetretenen Gegenstand dem betroffenen Grundabtretungspflichtigen
     wieder zur Verfügung zu stellen.
 
-
-
-
-
 ##### § 82 Ausdehnung der Grundabtretung
 
 (1) In den in § 81 Abs. 2 Satz 1 Nr. 1 genannten Fällen kann der
@@ -5100,7 +4916,6 @@ wird, soweit er das Zubehör oder die Sachen infolge der Grundabtretung
 nicht mehr wirtschaftlich nutzen oder in anderer Weise angemessen
 verwerten kann.
 
-
 ##### § 83 Sinngemäße Anwendung von Vorschriften
 
 (1) Soweit nichts anderes bestimmt ist, gelten
@@ -5122,10 +4937,7 @@ dieses Kapitels auf die Entziehung, Übertragung, Änderung, Belastung
 oder sonstige Beschränkung der in § 78 Nr. 1 und 2 bezeichneten
 anderen Rechte sinngemäß anzuwenden.
 
-
 #### Zweiter Abschnitt - Entschädigung
-
-
 
 ##### § 84 Entschädigungsgrundsätze
 
@@ -5164,7 +4976,6 @@ zuständige Behörde über den Grundabtretungsantrag entscheidet. In den
 Fällen der vorzeitigen Besitzeinweisung ist der Zustand in dem
 Zeitpunkt maßgebend, in dem diese wirksam wird.
 
-
 ##### § 85 Entschädigung für den Rechtsverlust
 
 (1) Die Entschädigung für den Rechtsverlust bemißt sich nach dem
@@ -5179,7 +4990,6 @@ Verhältnisse zu erzielen wäre.
 
 (3) Die auf Grund des § 199 Abs. 1 des Baugesetzbuchs erlassenen
 Vorschriften sind entsprechend anzuwenden.
-
 
 ##### § 86 Entschädigung für andere Vermögensnachteile, Mitverschulden
 
@@ -5217,7 +5027,6 @@ insbesondere
 des Entschädigungsberechtigten mitgewirkt, so gilt § 254 des
 Bürgerlichen Gesetzbuchs entsprechend.
 
-
 ##### § 87 Behandlung der Rechte der Nebenberechtigten
 
 (1) Rechte an dem abzutretenden Grundstück sowie persönliche Rechte,
@@ -5252,7 +5061,6 @@ die Entschädigungen, die für den durch die Grundabtretung eintretenden
 Rechtsverlust in anderen Fällen oder für Wertminderungen des
 Restbesitzes nach § 86 Abs. 2 Nr. 2 festgesetzt werden.
 
-
 ##### § 88 Schuldübergang bei Entziehung des Eigentums an Grundstücken
 
 Wird das Eigentum an einem Grundstück entzogen und haftet bei einem
@@ -5261,7 +5069,6 @@ Grundabtretungspflichtige zugleich persönlich, so übernimmt der
 Grundabtretungsbegünstigte an seiner Stelle die Schuld bis zur Höhe
 des Grundpfandrechts, jedoch nicht über den Verkehrswert des
 Grundstücks hinaus.
-
 
 ##### § 89 Entschädigungsleistung
 
@@ -5295,7 +5102,6 @@ Vermögensnachteile nicht abschätzen, so kann die zuständige Behörde
 auf Antrag des Entschädigungsberechtigten anordnen, daß der
 Entschädigungspflichtige Sicherheit zu leisten hat. Über die Freigabe
 einer Sicherheit entscheidet die zuständige Behörde.
-
 
 ##### § 90 Wertänderungen, Veränderungen, Begründung neuer Rechtsverhältnisse
 
@@ -5360,10 +5166,7 @@ bekannt, so kann die zuständige Behörde auf Antrag des
 Grundabtretungsbegünstigten die Wiederherstellung des früheren
 Zustandes anordnen.
 
-
 #### Dritter Abschnitt - Vorabentscheidung, Ausführung und Rückgängigmachen der Grundabtretung
-
-
 
 ##### § 91 Vorabentscheidung
 
@@ -5374,7 +5177,6 @@ bewirkenden Rechtsänderungen zu entscheiden. In diesem Fall hat die
 zuständige Behörde anzuordnen, daß dem Entschädigungsberechtigten eine
 Vorauszahlung in Höhe der zu erwartenden Entschädigung zu leisten ist.
 § 84 Abs. 4 Satz 2 und 3 und § 89 gelten entsprechend.
-
 
 ##### § 92 Ausführung der Grundabtretung
 
@@ -5425,7 +5227,6 @@ dem Grundbuchamt eine beglaubigte Abschrift der Festsetzung nach
 Absatz 1 Satz 4 und im Fall des Absatzes 2 auch der Anordnung über die
 vorzeitige Ausführung der Grundabtretung zu übersenden.
 
-
 ##### § 93 Hinterlegung
 
 (1) Entschädigungen, aus denen Entschädigungsberechtigte nach § 87
@@ -5439,7 +5240,6 @@ entsprechend.
 
 (2) Andere Vorschriften, nach denen die Hinterlegung geboten oder
 statthaft ist, bleiben unberührt.
-
 
 ##### § 94 Geltendmachung der Rechte an der Hinterlegung, Verteilungsverfahren
 
@@ -5499,7 +5299,6 @@ verlangt, so ist die Entscheidung des Vollstreckungsgerichts
 nachzusuchen. Die Beschwerde findet gegen die Entscheidung des
 Vollstreckungsgerichts statt.
 
-
 ##### § 95 Lauf der Verwendungsfrist
 
 (1) Die Frist, innerhalb deren der Grundabtretungszweck nach § 81 Abs.
@@ -5522,7 +5321,6 @@ Antrag verlängern, wenn
 
 Der frühere Grundabtretungspflichtige ist vor der Entscheidung zu
 hören.
-
 
 ##### § 96 Aufhebung der Grundabtretung
 
@@ -5576,10 +5374,7 @@ bewirkten Rechtsänderungen entsprechend.
 
 (6) § 92 Abs. 3 gilt entsprechend.
 
-
 #### Vierter Abschnitt - Vorzeitige Besitzeinweisung
-
-
 
 ##### § 97 Voraussetzungen
 
@@ -5591,7 +5386,6 @@ Verfahrens in den Besitz des betroffenen Grundstücks einweisen. Die
 vorzeitige Besitzeinweisung setzt voraus, daß dem Eigentümer und, wenn
 ein anderer durch die Besitzeinweisung betroffen wird, auch diesem
 Gelegenheit zur Stellungnahme gegeben worden ist.
-
 
 ##### § 98 Besitzeinweisungsentschädigung
 
@@ -5606,7 +5400,6 @@ festzusetzen.
 Rücksicht auf die Einlegung eines Rechtsbehelfs zu dem Zeitpunkt
 fällig, in dem die vorzeitige Besitzeinweisung wirksam wird.
 
-
 ##### § 99 Zustandsfeststellung
 
 Auf Antrag des Grundabtretungsbegünstigten, des Besitzers oder des
@@ -5615,7 +5408,6 @@ der Besitzeinweisung festzustellen, soweit er für die
 Besitzeinweisungs- oder Grundabtretungsentschädigung von Bedeutung
 ist. Der Zustand des Grundstückes kann auch von Amts wegen
 festgestellt werden.
-
 
 ##### § 100 Wirksamwerden und Rechtsfolgen der vorzeitigen Besitzeinweisung, Sicherheitsleistung
 
@@ -5637,7 +5429,6 @@ Inhabers eines Rechts, das zum Besitz oder zur Nutzung des Grundstücks
 berechtigt, ist die Einweisung von der Leistung einer Sicherheit in
 Höhe der ihm voraussichtlich zu gewährenden Entschädigung abhängig zu
 machen.
-
 
 ##### § 101 Aufhebung und Änderung der vorzeitigen Besitzeinweisung
 
@@ -5670,7 +5461,6 @@ vorzeitigen Besitzeinweisung unanfechtbar wird, ist dem
 Grundabtretungsbegünstigten der Besitz entzogen und der vorherige
 Besitzer wieder Besitzer.
 
-
 ##### § 102 Entschädigung bei Aufhebung oder Änderung der vorzeitigen Besitzeinweisung
 
 (1) Wird die vorzeitige Besitzeinweisung aufgehoben oder die
@@ -5700,10 +5490,7 @@ Antrag die Höhe der Entschädigung festzusetzen und, wenn die
 Wiederherstellung des früheren Zustandes zulässigerweise verlangt
 wird, die Verpflichtung hierzu auszusprechen.
 
-
 #### Fünfter Abschnitt - Kosten, Zwangsvollstreckung, Verfahren
-
-
 
 ##### § 103 Kosten
 
@@ -5721,7 +5508,6 @@ zweckentsprechenden Rechtsverfolgung notwendig waren.
 Maßgabe entsprechend, daß die Kosten nach Absatz 1 Satz 1 der von der
 Aufhebung Betroffene zu tragen hat, wenn dem Antrag auf Aufhebung
 stattgegeben wird.
-
 
 ##### § 104 Vollstreckbarer Titel
 
@@ -5753,14 +5539,12 @@ dieses Gerichts. In den Fällen der §§ 731, 767 bis 770, 785, 786 und
 791 der Zivilprozeßordnung tritt das Amtsgericht, in dessen Bezirk die
 zuständige Behörde ihren Sitz hat, an die Stelle des Prozeßgerichts.
 
-
 ##### § 105 Verfahren
 
 Auf die Grundabtretung sind, soweit sich aus diesem Kapitel nichts
 anderes ergibt, die Vorschriften über das förmliche
 Verwaltungsverfahren nach Teil V Abschnitt 1 des
 Verwaltungsverfahrensgesetzes anzuwenden.
-
 
 ##### § 106 Benachrichtigungen
 
@@ -5778,10 +5562,7 @@ sowie von der Entscheidung über den Grundabtretungsantrag Kenntnis,
 soweit davon das Grundstück betroffen wird, das Gegenstand des
 Vollstreckungsverfahrens ist.
 
-
 ### Zweites Kapitel - Baubeschränkungen
-
-
 
 #### § 107 Festsetzung von Baubeschränkungsgebieten
 
@@ -5813,7 +5594,6 @@ Baubeschränkungsgebiets ganz oder teilweise entfallen, so ist das
 Baubeschränkungsgebiet durch Rechtsverordnung aufzuheben oder zu
 beschränken; Absatz 2 gilt entsprechend.
 
-
 #### § 108 Wirkung der Festsetzung
 
 (1) In Baubeschränkungsgebieten darf die für die Errichtung,
@@ -5831,7 +5611,6 @@ Zustimmung zuständigen Behörde versagt wird.
 (3) Die Absätze 1 und 2 gelten nicht für bauliche Anlagen, die nur bis
 zur Inanspruchnahme des in Betracht kommenden Grundstücks einem land-
 oder forstwirtschaftlichen Betrieb zu dienen bestimmt sind.
-
 
 #### § 109 Entschädigung
 
@@ -5865,14 +5644,9 @@ eines Grundstücks ein, so kann der Grundstückseigentümer Entschädigung
 durch Übernahme des Grundstücks verlangen. Die Absätze 3 und 4 gelten
 entsprechend.
 
-
 ### Drittes Kapitel - Bergschaden
 
-
-
 #### Erster Abschnitt - Anpassung
-
-
 
 ##### § 110 Anpassungspflicht
 
@@ -5915,7 +5689,6 @@ bezeichnete Gebiet Auskunft über alle Anträge auf Erteilung einer
 baurechtlichen Genehmigung oder Zustimmung oder einer diese
 einschließende Genehmigung.
 
-
 ##### § 111 Sicherungsmaßnahmen
 
 (1) Soweit ein vorbeugender Schutz durch Maßnahmen nach § 110 nicht
@@ -5935,7 +5708,6 @@ Unterlassen beruhenden Teil der Aufwendungen für Sicherungsmaßnahmen.
 
 (3) § 110 Abs. 2, 4 und 5 gilt entsprechend.
 
-
 ##### § 112 Verlust des Ersatzanspruchs
 
 Werden bauliche Anlagen unter Verstoß gegen § 110 oder § 111
@@ -5949,7 +5721,6 @@ Aufwendungen oder zur Vorschußleistung nach § 110 Abs. 3 und 4 oder
 nach § 111 Abs. 2 und 3 nicht oder nur teilweise nachgekommen ist. Bei
 Verstößen des Bauherrn oder Unternehmers, die nicht auf Vorsatz oder
 grober Fahrlässigkeit beruhen, gilt § 118 entsprechend.
-
 
 ##### § 113 Bauwarnung
 
@@ -5991,14 +5762,9 @@ Tatsachen die Annahme rechtfertigen, daß die Absicht, eine bauliche
 Anlage zu errichten, zu erweitern oder wesentlich zu verändern, nur
 erklärt wird, um einen Wertersatz zu erlangen.
 
-
 #### Zweiter Abschnitt - Haftung für Bergschäden
 
-
-
 ##### Erster Unterabschnitt - Allgemeine Bestimmungen
-
-
 
 ###### § 114 Bergschaden
 
@@ -6032,10 +5798,6 @@ nach den §§ 115 bis 120 Ersatz zu leisten.
 5.  ein unerheblicher Nachteil oder eine unerhebliche Aufwendung im
     Zusammenhang mit Maßnahmen der Anpassung nach § 110.
 
-
-
-
-
 ###### § 115 Ersatzpflicht des Unternehmers
 
 (1) Zum Ersatz eines Bergschadens ist der Unternehmer verpflichtet,
@@ -6062,7 +5824,6 @@ innerhalb eines Zeitraums verursacht, in dem der Bergbaubetrieb durch
 zwei oder mehrere Unternehmer betrieben wurde, so gelten die Absätze 2
 und 3 entsprechend.
 
-
 ###### § 116 Ersatzpflicht des Bergbauberechtigten
 
 (1) Neben dem nach § 115 Abs. 1 ersatzpflichtigen Unternehmer ist auch
@@ -6079,7 +5840,6 @@ Haftung befreit.
 
 (2) Im Verhältnis der Gesamtschuldner zueinander haftet, soweit nichts
 anderes vereinbart ist, allein der Unternehmer.
-
 
 ###### § 117 Umfang der Ersatzpflicht, Verjährung, Rechte Dritter
 
@@ -6108,7 +5868,6 @@ Gesetzbuchs entsprechende Anwendung.
 (3) Für die Entschädigung gelten die Artikel 52 und 53 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuch entsprechend.
 
-
 ###### § 118 Mitwirkendes Verschulden
 
 Hat bei der Entstehung des Bergschadens ein Verschulden des
@@ -6116,7 +5875,6 @@ Geschädigten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs;
 bei Beschädigung einer Sache steht das Verschulden desjenigen, der die
 tatsächliche Gewalt über die Sache ausübt, dem Verschulden des
 Geschädigten gleich.
-
 
 ###### § 119 Mitwirkung eines Dritten
 
@@ -6135,7 +5893,6 @@ gegenüber als Gesamtschuldner. Es gelten
 
 entsprechend. Der Ersatzpflichtige ist jedoch nicht verpflichtet, über
 die Haftungshöchstbeträge des § 117 hinaus Ersatz zu leisten.
-
 
 ###### § 120 Bergschadensvermutung
 
@@ -6173,7 +5930,6 @@ diese bauliche Anlage sowie bei Anlagen, für die wiederkehrende
 Prüfungen vorgeschrieben sind, auch Einsicht in die Prüfunterlagen zu
 gewähren oder zu ermöglichen.
 
-
 ###### § 121 Verhältnis zu anderen Vorschriften
 
 Unberührt bleiben gesetzliche Vorschriften, nach denen für einen
@@ -6181,10 +5937,7 @@ Schaden im Sinne des § 114 in weiterem Umfang als nach den
 Vorschriften dieses Abschnitts gehaftet wird oder nach denen ein
 anderer für den Schaden verantwortlich ist.
 
-
 ##### Zweiter Unterabschnitt - Bergschadensausfallkasse
-
-
 
 ###### § 122 Ermächtigung
 
@@ -6223,7 +5976,6 @@ Ersatzpflichtigen auf sie über.
 die vom Bundesministerium für Wirtschaft und Technologie durch
 Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird.
 
-
 ###### § 123 Durchführungsverordnung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -6247,13 +5999,7 @@ bedarf, Vorschriften zu erlassen über
 
 5.  die Aufsicht über die Bergschadensausfallkasse.
 
-
-
-
-
 #### Dritter Abschnitt - Bergbau und öffentliche Verkehrsanlagen
-
-
 
 ##### § 124 Öffentliche Verkehrsanlagen
 
@@ -6305,10 +6051,7 @@ nicht, wenn die Gewinnungsberechtigung erst nach der für die
 öffentliche Verkehrsanlage erforderlichen Planoffenlegung entstanden
 ist; Absatz 2 Satz 3 ist entsprechend anzuwenden.
 
-
 #### Vierter Abschnitt - Beobachtung der Oberfläche
-
-
 
 ##### § 125 Messungen
 
@@ -6356,10 +6099,7 @@ In der Rechtsverordnung kann die entsprechende Anwendung des § 70 Abs.
 Sinne des Satzes 1 Nr. 1 auf Bekanntmachungen sachverständiger Stellen
 unter Angabe der Fundstelle verwiesen werden.
 
-
 ## Achter Teil - Sonstige Tätigkeiten und Einrichtungen
-
-
 
 ### § 126 Untergrundspeicherung
 
@@ -6388,7 +6128,6 @@ Artikel 14 des Gesetzes vom 28. März 1980 (BGBl. I S. 373),
 sind die §§ 39, 40, 48, 50 bis 74 und 77 bis 104 und 106 entsprechend
 anzuwenden, wenn die Anlage ihrer Art nach auch zur unterirdischen
 behälterlosen Speicherung geeignet ist.
-
 
 ### § 127 Bohrungen
 
@@ -6426,7 +6165,6 @@ mit folgender Maßangabe entsprechend:
 Landeswassergesetze und der auf Grund dieser Gesetze erlassenen
 Rechtsverordnungen bleiben unberührt.
 
-
 ### § 128 Alte Halden
 
 Für das Aufsuchen und Gewinnen mineralischer Rohstoffe in Halden
@@ -6434,7 +6172,6 @@ gelten die §§ 39, 40, 42, 48, 50 bis 74 und 77 bis 104 und 106
 entsprechend, wenn die mineralischen Rohstoffe als Bodenschätze unter
 § 3 Abs. 3 und 4 fallen würden und aus einer früheren Aufsuchung,
 Gewinnung oder Aufbereitung von Bodenschätzen stammen.
-
 
 ### § 129 Versuchsgruben, Bergbauversuchsanstalten
 
@@ -6451,11 +6188,9 @@ zugehörigen Bußgeldvorschriften zu erstrecken, soweit dies zum Schutze
 der in § 55 Abs. 1 bezeichneten Rechtsgüter und Belange erforderlich
 ist.
 
-
 ### § 130
 
 -
-
 
 ### § 131 Hauptstellen für das Grubenrettungswesen
 
@@ -6480,10 +6215,7 @@ Unfallversicherung unterhalten werden, für die Überwachung der
 Einhaltung des Absatzes 1, der §§ 58 bis 62 und der Rechtsverordnungen
 nach Absatz 2 die §§ 69 bis 74 entsprechend anzuwenden.
 
-
 ## Neunter Teil - Besondere Vorschriften für den Festlandsockel
-
-
 
 ### § 132 Forschungshandlungen
 
@@ -6552,7 +6284,6 @@ Hydrographie die Fortsetzung der unerlaubten Tätigkeit zu untersagen.
 gegen Anordnungen nach den Sätzen 1 und 2 haben keine aufschiebende
 Wirkung.
 
-
 ### § 133 Unterwasserkabel und Transit-Rohrleitungen
 
 (1) Die Errichtung und der Betrieb einer Transit-Rohrleitung in oder
@@ -6609,7 +6340,6 @@ zuständig.
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Verlegung und den
 Betrieb von Unterwasserkabeln.
 
-
 ### § 134 Überwachung und Vollziehung von Verwaltungsakten, Zusammenwirken
 
 (1) Im Bereich des Festlandsockels überwachen die in § 6 Nr. 1, 2 und
@@ -6648,7 +6378,6 @@ Bundesministerium für Wirtschaft und Technologie durch Vereinbarung
 das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der
 Bundespolizei und der Zollverwaltung.
 
-
 ### § 135 Kostenermächtigung
 
 Für Amtshandlungen, Prüfungen und Untersuchungen von Bundesbehörden
@@ -6666,14 +6395,12 @@ Personalaufwand kann nach der Zahl der Stunden bemessen werden, die
 für Prüfungen und Untersuchungen bestimmter Arten von Prüfungs- oder
 Untersuchungsgegenständen durchschnittlich benötigt werden.
 
-
 ### § 136 Zuständigkeiten für sonstige Verwaltungsaufgaben
 
 Soweit sich aus den §§ 132 bis 134 nichts anderes ergibt, nimmt die
 Verwaltungsaufgaben nach diesem Gesetz und den hierzu erlassenen
 Bergverordnungen für den Bereich des Festlandsockels die zuständige
 Landesbehörde wahr.
-
 
 ### § 137 Übergangsregelung
 
@@ -6688,14 +6415,9 @@ Gebiet des Landes bestimmt sich nach dem Äquidistanzprinzip.
 einschließlich einer Regelung über die Zuweisung der Feldes- und
 Förderabgabe bleibt einem besonderen Gesetz vorbehalten.
 
-
 ## Zehnter Teil - Bundesprüfanstalt, Sachverständigenausschuß, Durchführung
 
-
-
 ### Erstes Kapitel - Bundesprüfanstalt für den Bergbau
-
-
 
 #### § 138 Errichtung
 
@@ -6735,10 +6457,6 @@ eine Stelle vorgenommen werden,
     Staat wegen seiner Haftung für Amtspflichtverletzungen des
     Prüfstellenpersonals entstehen kann.
 
-
-
-
-
 #### § 139 Aufgaben
 
 Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr.
@@ -6746,7 +6464,6 @@ Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr.
 Bundesministeriums für Wirtschaft und Technologie nach § 65 vorgesehen
 ist, und im Rahmen ihrer Aufgaben die nach diesem Gesetz zuständigen
 Behörden und die Unternehmen zu beraten.
-
 
 #### § 140 Inanspruchnahme, Gebühren
 
@@ -6773,10 +6490,7 @@ denselben Empfänger können Pauschgebühren vorgesehen werden. Bei der
 Bemessung der Pauschgebührensätze ist der geringere Umfang des
 Verwaltungsaufwandes zu berücksichtigen.
 
-
 ### Zweites Kapitel - Sachverständigenausschuß, Durchführung
-
-
 
 #### § 141 Sachverständigenausschuß Bergbau
 
@@ -6794,7 +6508,6 @@ Gewerkschaften angehören. In der Rechtsverordnung kann das Nähere über
 die Zusammensetzung, die Berufung der Mitglieder sowie das Verfahren
 des Ausschusses geregelt werden.
 
-
 #### § 142 Zuständige Behörden
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen
@@ -6802,7 +6515,6 @@ die für die Ausführung dieses Gesetzes zuständigen Behörden, soweit
 nicht Bundesbehörden zuständig sind. Unberührt bleiben Vorschriften
 des Landesrechts, nach denen für ein Land Behörden eines anderen
 Landes zuständig sind.
-
 
 #### § 143 Verwaltungsvorschriften
 
@@ -6819,10 +6531,7 @@ gleichwertig sichergestellt wird. § 68 Abs. 3 gilt entsprechend.
 Bundesbehörden gerichtet sind, bedürfen sie nicht der Zustimmung des
 Bundesrates.
 
-
 ## Elfter Teil - Rechtsweg, Bußgeld- und Strafvorschriften
-
-
 
 ### § 144 Klage vor den ordentlichen Gerichten
 
@@ -6852,7 +6561,6 @@ der Rechtsstreit eine Ausgleichszahlung betrifft.
 
 (5) Das Gericht übersendet der nach § 92 zuständigen Behörde eine
 Ausfertigung der Entscheidung oder des Vergleichs.
-
 
 ### § 145 Ordnungswidrigkeiten
 
@@ -7036,7 +6744,6 @@ Behörden des Bundes die vom Bundesministerium für Verkehr, Bau und
 Stadtentwicklung durch Rechtsverordnung ohne Zustimmung des
 Bundesrates bestimmte Behörde.
 
-
 ### § 146 Straftaten
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
@@ -7064,13 +6771,11 @@ Strafgesetzbuches) verursacht.
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft.
 
-
 ### § 147 Erforschung von Straftaten
 
 Die für die Ausführung des Gesetzes zuständigen Landesbehörden haben
 bei der Erforschung von Straftaten nach § 146 die Rechte und Pflichten
 der Behörden des Polizeidienstes.
-
 
 ### § 148 Tatort, Gerichtsstand
 
@@ -7091,14 +6796,9 @@ Strafprozeßordnung oder § 157 des Gerichtsverfassungsgesetzes im
 Geltungsbereich dieses Gesetzes nicht begründet, so ist Hamburg
 Gerichtsstand; zuständiges Amtsgericht ist das Amtsgericht Hamburg.
 
-
 ## Zwölfter Teil - Übergangs- und Schlußbestimmungen
 
-
-
 ### Erstes Kapitel - Alte Rechte und Verträge
-
-
 
 #### § 149 Voraussetzungen für die Aufrechterhaltung alter Rechte und Verträge
 
@@ -7275,7 +6975,6 @@ aufrechterhaltenen Rechts oder Vertrages im Sinne des Absatzes 1 Satz
 1 Nr. 1 bis 4 und 7 gilt § 6 Satz 1 nicht. Das gleiche gilt in den
 Fällen des Absatzes 5 bis zum Erlöschen des Rechts oder Vertrages.
 
-
 #### § 150 Ausnahme von der Bergfreiheit von Bodenschätzen
 
 (1) In § 3 Abs. 3 Satz 1 oder 2 Nr. 2 aufgeführte Bodenschätze, auf
@@ -7290,7 +6989,6 @@ aufrechterhaltenes Recht oder aufrechterhaltener Vertrag im Sinne des
 § 149 Abs. 1 Satz 1 Nr. 1 bis 4 oder eine nach § 172 erteilte
 Bewilligung bezieht, bleiben bis zum Erlöschen oder bis zur Aufhebung
 des Rechts, des Vertrages oder der Bewilligung bergfreie Bodenschätze.
-
 
 #### § 151 Bergwerkseigentum
 
@@ -7341,10 +7039,6 @@ den Vorschriften dieses Gesetzes
 4.  Vereinigung und Austausch mit nach Inkrafttreten dieses Gesetzes
     verliehenen Bergwerkseigentum sind nicht zulässig.
 
-
-
-
-
 #### § 152 Aufrechterhaltene Rechte und Verträge zur Aufsuchung, Forschungshandlungen
 
 (1) Aufrechterhaltene Rechte und Verträge im Sinne des § 149 Abs. 1
@@ -7380,7 +7074,6 @@ Der Inhalt dieser Rechte bleibt insoweit unberührt, als er diesem
 Gesetz nicht widerspricht. Nicht befristete Rechte erlöschen nach
 Ablauf von zehn Jahren nach Inkrafttreten dieses Gesetzes.
 
-
 #### § 153 Konzessionen, Erlaubnisse und Verträge zur Gewinnung
 
 Aufrechterhaltene Rechte und Verträge im Sinne des § 149 Abs. 1 Satz 1
@@ -7390,7 +7083,6 @@ und den Bereich, für die sie aufrechterhalten bleiben, als Bewilligung
 nach § 8, soweit dieses Gesetz nichts anderes bestimmt. § 152 Abs. 2
 Satz 1 sowie Abs. 3 gilt entsprechend. Auf eine Verlängerung
 befristeter Rechte und Verträge gilt § 16 Abs. 5 Satz 3 entsprechend.
-
 
 #### § 154 Bergwerke, Bergwerksberechtigungen und Sonderrechte
 
@@ -7427,14 +7119,12 @@ entsprechend. An die Stelle der beglaubigten Abschrift der
 Berechtsamsurkunde tritt eine beglaubigte Abschrift der
 Verleihungsurkunde oder einer entsprechenden Urkunde.
 
-
 #### § 155 Dingliche Gewinnungsrechte
 
 Aufrechterhaltene dingliche Gewinnungsrechte im Sinne des § 149 Abs. 1
 Satz 1 Nr. 3 treten für die Bodenschätze, die Zeit und den Bereich,
 für die sie aufrechterhalten bleiben, an die Stelle des durch sie
 belasteten Bergwerkseigentums. Die §§ 24 bis 29 sind nicht anzuwenden.
-
 
 #### § 156 Aufrechterhaltene Rechte und Verträge über grundeigene Bodenschätze
 
@@ -7457,13 +7147,11 @@ der beim Inkrafttreten dieses Gesetzes geltenden bergrechtlichen
 Vorschriften der Länder, sofern sie nicht bereits vorher aus anderen
 Gründen erloschen sind. § 149 Abs. 6 gilt entsprechend.
 
-
 #### § 157 Grundrenten
 
 Aufrechterhaltene Grundrenten und sonstige Abgaben im Sinne des § 149
 Abs. 1 Satz 1 Nr. 8 sind nach Maßgabe der für sie beim Inkrafttreten
 dieses Gesetzes geltenden Vorschriften weiterhin zu entrichten.
-
 
 #### § 158 Erbstollengerechtigkeiten
 
@@ -7480,7 +7168,6 @@ innerhalb dieser Frist beantragt worden ist, erlöschen, soweit sie
 nicht bereits vor Ablauf dieser Frist aus anderen Gründen erloschen
 sind.
 
-
 #### § 159 Alte Rechte und Aufsuchung zu wissenschaftlichen Zwecken
 
 Aufrechterhaltene alte Rechte und Verträge, die allein oder neben
@@ -7489,7 +7176,6 @@ Bodenschätzen zum Gegenstand haben, schließen die Erteilung einer
 Erlaubnis zur großräumigen Aufsuchung sowie einer oder mehrerer
 Erlaubnisse zur Aufsuchung zu wissenschaftlichen Zwecken nach § 7 für
 dasselbe Feld nicht aus.
-
 
 #### § 160 Enteignung alter Rechte und Verträge
 
@@ -7530,7 +7216,6 @@ Grundbuchs.
 (6) Für Rechte im Sinne des § 149 Abs. 2a, die noch nicht bestätigt
 worden sind, gelten die Absätze 1 bis 5 entsprechend.
 
-
 #### § 161 Ausdehnung von Bergwerkseigentum auf aufgehobene Längenfelder
 
 (1) Wird auf Antrag eines Bergwerkseigentümers Bergwerkseigentum für
@@ -7562,7 +7247,6 @@ Absatzes 1 gilt auch ein Feld, das, wie Breitenfelder,
 Vertikallagerungsfelder, Gevierte Grubenfelder, weder die
 Voraussetzungen des Satzes 1 noch des Satzes 2 erfüllt.
 
-
 #### § 162 Entscheidung, Rechtsänderung
 
 (1) In der Entscheidung über die Ausdehnung des Bergwerkseigentums für
@@ -7580,10 +7264,7 @@ Geviertfeldes wirksam. Die zuständige Behörde hat die erforderlichen
 Zusatzurkunden auszufertigen. Die zuständige Behörde ersucht das
 Grundbuchamt, die Rechtsänderung im Grundbuch einzutragen.
 
-
 ### Zweites Kapitel - Auflösung und Abwicklung der bergrechtlichen Gewerkschaften
-
-
 
 #### § 163 Auflösung und Umwandlung
 
@@ -7641,7 +7322,6 @@ Verschmelzung nach dem Aktiengesetz dient.
 des § 4 Abs. 5 tätig sind, gelten die Absätze 1 bis 3 mit der Maßgabe,
 daß an die Stelle des 1.Januar 1986 der 1.Januar 1994 tritt.
 
-
 #### § 164 Abwicklung
 
 (1) Eine aufgelöste oder als aufgelöst geltende Gewerkschaft ist
@@ -7661,7 +7341,6 @@ beteiligten Gewerken bekanntzugeben.
 (3) Die Abwickler haben dafür Sorge zu tragen, daß die Abwicklung ohne
 Verzögerung durchgeführt wird.
 
-
 #### § 164a Überleitung
 
 Die Fortsetzung einer nach § 163 Abs. 1 aufgelösten Gewerkschaft gilt
@@ -7669,7 +7348,6 @@ mit dem Inkrafttreten des § 163 Abs. 4 als beschlossen, wenn bei ihr
 noch nicht mit der Verteilung des Vermögens unter die Gewerken
 begonnen worden war und sie am 1.Juli 1985 als Unternehmer im Sinne
 des § 4 Abs. 5 tätig gewesen ist.
-
 
 #### § 165 Fortgeltendes Recht
 
@@ -7679,17 +7357,13 @@ dieses Gesetzes für Gewerkschaften geltenden bergrechtlichen
 Vorschriften der Länder weiterhin anzuwenden, soweit sich aus § 163
 Abs. 1 Satz 3 und § 164 nichts anderes ergibt.
 
-
 ### Drittes Kapitel - Sonstige Übergangs- und Schlußvorschriften
-
-
 
 #### § 166 Bestehende Hilfsbaue
 
 Die bei Inkrafttreten dieses Gesetzes bestehenden, nach den vor diesem
 Zeitpunkt geltenden Vorschriften rechtmäßig angelegten Hilfsbaue
 gelten als Hilfsbaue im Sinne dieses Gesetzes.
-
 
 #### § 167 Fortgeltung von Betriebsplänen und Anerkennungen
 
@@ -7729,14 +7403,12 @@ ihnen übertragenen Geschäftskreise oder Aufgaben und Befugnisse wegen
 der in der Bergverordnung gestellten Anforderungen nicht ausreicht
 oder der Unternehmer ihre Bestellung im Sinne des § 59 ändert.
 
-
 #### § 168 Erlaubnisse für Transit-Rohrleitungen
 
 Die am 1. Januar 1982 nach § 2 des Gesetzes zur vorläufigen Regelung
 der Rechte am Festlandsockel erteilten vorläufigen Erlaubnisse zur
 Errichtung oder zum Betrieb von Transit-Rohrleitungen gelten für die
 Dauer ihrer Laufzeit als Genehmigungen im Sinne des § 133.
-
 
 #### § 168a Genehmigungen im Bereich der Erweiterung des Küstenmeeres
 
@@ -7749,13 +7421,11 @@ als Genehmigungen, Erlaubnisse, Bewilligungen oder sonstige
 behördliche Entscheidung nach den seit dem 1. Januar 1995 auf sie
 anwendbaren Rechtsvorschriften.
 
-
 #### § 168b Vorhandene Unterwasserkabel
 
 Soweit Unterwasserkabel bereits verlegt worden sind und betrieben
 werden, gelten sie als nach § 133 Abs. 4 genehmigt, wenn sie den
 Voraussetzungen des § 133 Abs. 2 entsprechen.
-
 
 #### § 169 Übergangszeit bei Unterstellung unter die Bergaufsicht, eingestellte Betriebe
 
@@ -7794,13 +7464,11 @@ anzuwenden, in denen bei Inkrafttreten dieses Gesetzes
 Ziegeleierzeugnisse auch aus Tonen im Sinne des § 3 Abs. 4 Nr. 1
 hergestellt werden.
 
-
 #### § 170 Haftung für verursachte Schäden
 
 Auf Schäden im Sinne des § 114, die ausschließlich vor Inkrafttreten
 dieses Gesetzes verursacht worden sind, sind die für solche Schäden
 vor Inkrafttreten dieses Gesetzes geltenden Vorschriften anzuwenden.
-
 
 #### § 170a Verjährung bei Bergschäden
 
@@ -7809,7 +7477,6 @@ findet mit der Maßgabe entsprechende Anwendung, dass § 117 Abs. 2 in
 der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des
 Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar
 2002 geltenden Fassung gleichgestellt ist.
-
 
 #### § 171 Eingeleitete Verfahren
 
@@ -7838,7 +7505,6 @@ anhängigen gerichtlichen Verfahren ergehen, sowie das weitere
 Verfahren bis zur rechtskräftigen Entscheidung richten sich nach den
 bisher geltenden Vorschriften.
 
-
 #### § 172 Mutungen
 
 Auf Mutungen, die bei Inkrafttreten dieses Gesetzes bereits eingelegt
@@ -7849,7 +7515,6 @@ Bodenschätze und das Feld, für die Bergwerkseigentum zu verleihen
 gewesen wäre, eine Bewilligung zu erteilen, wenn der Muter nicht
 innerhalb von zwölf Monaten nach Inkrafttreten dieses Gesetzes auf die
 Erteilung verzichtet.
-
 
 #### § 173 Zusammenhängende Betriebe
 
@@ -7878,16 +7543,13 @@ Schamottefabrik die Vorschriften dieses Gesetzes anzuwenden sind,
 soweit dies mit Rücksicht auf die Untrennbarkeit der Arbeits- und
 Betriebsvorgänge notwendig erscheint.
 
-
 #### § 174
 
 -
 
-
 #### § 175
 
 -
-
 
 #### § 176 Außerkrafttreten von Landesrecht, Verweisung
 
@@ -8639,7 +8301,6 @@ Soweit in Gesetzen und Verordnungen des Bundes auf die nach Absatz 1
 oder § 175 außer Kraft getretenen Vorschriften verwiesen wird, treten
 an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 
-
 #### § 177 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -8647,14 +8308,12 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
 
-
 #### § 178 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1982 in Kraft. Abweichend hiervon
 treten die §§ 32, 65 bis 68, 122 Abs. 4, §§ 123, 125 Abs. 4, § 129
 Abs. 2, § 131 Abs. 2, §§ 141 und 176 Abs. 3 Satz 2 und 3 am Tage nach
 der Verkündung des Gesetzes in Kraft.
-
 
 #### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1003) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

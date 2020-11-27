@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1530
 
-
 ## I.
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des
@@ -48,7 +47,6 @@ und, soweit sie nach dieser Anordnung zur Entscheidung über
 Widersprüche zuständig sind, den Dienstherrn bei Klagen aus dem
 Beamtenverhältnis zu vertreten.
 
-
 ## II.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
@@ -61,7 +59,6 @@ Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts
 für medizinische Dokumentation und Information, des Bundesinstituts
 für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und
 des Robert Koch-Instituts enthält.
-
 
 ## Schlussformel
 

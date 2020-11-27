@@ -18,7 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 957
 
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -29,7 +28,6 @@ Medizinische Dokumentation und Information die Befugnis übertragen,
 Ansprüchen in Angelegenheiten nach dem Bundesreisekostengesetz und dem
 Bundesumzugskostengesetz einschließlich der hierzu ergangenen
 Trennungsgeldverordnung zu entscheiden.
-
 
 ## II.
 
@@ -43,11 +41,9 @@ Trennungsgeldverordnung übertragen. Das Bundesministerium für
 Gesundheit behält sich vor, im Einzelfall die Prozessvertretung selbst
 wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 1. Januar 2008 anzuwenden.
-
 
 ## Schlussformel
 

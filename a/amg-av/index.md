@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 19.10.2012 I 2192
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 80 Satz 1 Nr. 5 und Satz 3 des Arzneimittelgesetzes in
@@ -30,7 +28,6 @@ Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen
 mit dem Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft:
 
-
 ## § 1 Zweck der Verordnung
 
 Zweck dieser Verordnung ist die Festlegung von Regelungen zur
@@ -38,7 +35,6 @@ elektronischen Anzeige von Verdachtsfällen schwerwiegender
 Nebenwirkungen von Arzneimitteln gemäß den Anzeigepflichten nach § 63h
 des Arzneimittelgesetzes und § 13 der GCP-Verordnung
 (Einzelfallberichte).
-
 
 ## § 2 Verpflichtung zur elektronischen Anzeige
 
@@ -59,7 +55,6 @@ die Bundesoberbehörde ihnen nichts Gegenteiliges mitteilt. Die
 Bundesoberbehörde hat auf die zusätzliche Anzeige in Papierform zu
 verzichten, sobald eine ordnungsgemäße elektronische Anzeige des
 Anzeigepflichtigen gewährleistet ist.
-
 
 ## § 3 Ausnahmen
 
@@ -84,10 +79,6 @@ ferner keine Anwendung
 2.  bei Arzneimitteln, die Vollblut, Plasma oder Blutzellen menschlichen
     Ursprungs sind, mit Ausnahme von Arzneimitteln aus Plasma, bei deren
     Herstellung ein industrielles Verfahren zur Anwendung kommt.
-
-
-
-
 
 ## § 4 Inkrafttreten
 

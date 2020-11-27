@@ -20,7 +20,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 16.5.2002 I 1778
 
-
 ## § 1
 
 (1) Vermögenswirksame Leistungen nach dem Fünften
@@ -52,7 +51,6 @@ frühestens für den Kalendermonat, in dem der Berechtigte die nach § 4
 Abs. 1 erforderlichen Angaben mitteilt, und für die beiden
 vorangegangenen Monate desselben Kalenderjahres.
 
-
 ## § 2
 
 (1) Die vermögenswirksame Leistung beträgt 6,65 Euro.
@@ -74,7 +72,6 @@ des Beginns des Dienstverhältnisses maßgebend.
 Monat der Mitteilung nach § 4 Abs. 1 folgenden drei Kalendermonate,
 danach monatlich im Voraus zu zahlen.
 
-
 ## § 3
 
 (1) Die vermögenswirksame Leistung wird dem Berechtigten im
@@ -94,7 +91,6 @@ anderen Dienstverhältnis zu zahlen.
 Leistungen aus einem anderen Rechtsverhältnis, auch wenn die
 Regelungen im Einzelnen nicht übereinstimmen.
 
-
 ## § 4
 
 (1) Der Berechtigte teilt seiner Dienststelle oder der nach
@@ -113,17 +109,14 @@ Fünften Vermögensbildungsgesetzes nicht der Zustimmung der zuständigen
 Stelle, wenn der Berechtigte diesen Wechsel aus Anlass der erstmaligen
 Gewährung der vermögenswirksamen Leistung verlangt.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6
 
 Dieses Gesetz gilt nicht für die öffentlich-rechtlichen
 Religionsgesellschaften und ihre Verbände.
-
 
 ## § 7
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 297 V v. 31.10.2006 I 2407
 
-
 ## § 1 Notwendigkeit und Nachweis des Versicherungsschutzes
 
 (1) Kraftfahrzeuge (auch Fahrräder mit Hilfsmotor) und
@@ -51,7 +50,6 @@ vorgelegt wird.
 ausländischen Streitkräfte, die zum Aufenthalt im Geltungsbereich
 dieses Gesetzes befugt sind.
 
-
 ## § 2 Zugelassene Versicherer
 
 (1) Die Haftpflichtversicherung kann genommen werden
@@ -74,7 +72,6 @@ Kraftfahrzeughaftpflichtversicherung betreiben, zu einer
 Versicherergemeinschaft zusammenschließen. Die Satzung der
 Versicherergemeinschaft bedarf der Genehmigung des Bundesaufsichtsamts
 für das Versicherungs- und Bausparwesen.
-
 
 ## § 3 Pflicht der Versicherer zum Vertragsschluß
 
@@ -102,10 +99,6 @@ b)  vom Versicherungsvertrag wegen Verletzung der vorvertraglichen
 c)  den Versicherungsvertrag wegen Prämienverzugs oder nach Eintritt eines
     Versicherungsfalls gekündigt hat.
 
-
-
-
-
 ## § 4
 
 Der Versicherungsvertrag nach § 3 muß den für die Versicherung von
@@ -114,7 +107,6 @@ geltenden gesetzlichen Bestimmungen über Inhalt und Umfang des
 Versicherungsschutzes sowie über die Mindestversicherungssummen
 entsprechen.
 
-
 ## § 5 Befristung der Versicherungsbescheinigung, Vorauszahlung der Prämie
 
 Der Versicherer kann die Geltung der Versicherungsbescheinigung (§ 1)
@@ -122,7 +114,6 @@ befristen und die Aushändigung von der Zahlung der Prämie für den
 angegebenen Zeitraum abhängig machen. Wird die Geltung nicht
 befristet, so kann der Versicherer die Aushändigung von der Zahlung
 der ersten Prämie abhängig machen.
-
 
 ## § 6
 
@@ -145,7 +136,6 @@ Frist von fünf Monaten, im Falle einer Gesamtlaufzeit des
 Versicherungsverhältnisses von weniger als zehn Tagen eine Frist von
 fünf Wochen verstrichen sein.
 
-
 ## § 7 Durchführungsbestimmungen
 
 Zur Durchführung der §§ 1 bis 5 können erlassen
@@ -164,10 +154,6 @@ b)  das Bundesministerium der Finanzen ohne Zustimmung des Bundesrates
 
 c)  das Bundesministerium für Verkehr, Bau und Stadtentwicklung mit
     Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften.
-
-
-
-
 
 ## § 7a Erfordernis erweiterten Versicherungsschutzes
 
@@ -189,7 +175,6 @@ Versicherungsbescheinigung, den Inhalt und die Prüfung der
 Versicherungsbescheinigung und die beim Fehlen der erforderlichen
 Bescheinigung nötigen Sicherungsmaßnahmen enthalten.
 
-
 ## § 8 Ausnahmen
 
 (1) Zur Pflege der Beziehungen mit dem Ausland kann das
@@ -207,7 +192,6 @@ ohne Zustimmung des Bundesrates nach Anhörung der obersten
 Landesbehörden allgemeine Ausnahmen von § 1 Abs. 1 bis 4 oder von den
 Vorschriften über den Inhalt von Versicherungsbescheinigungen
 genehmigen.
-
 
 ## § 8a Wegfall des Erfordernisses der Versicherungsbescheinigung
 
@@ -232,7 +216,6 @@ sich das Fahrzeug im Zeitpunkt des Schadensereignisses mit dem bei der
 Einreise geführten Kennzeichen im Geltungsbereich dieses Gesetzes
 befunden hat.
 
-
 ## § 9 Straftaten
 
 (1) Wer im Geltungsbereich dieses Gesetzes ein Fahrzeug auf
@@ -252,7 +235,6 @@ Tagessätzen.
 (3) Ist die Tat vorsätzlich begangen worden, so kann das Fahrzeug
 eingezogen werden, wenn es dem Täter oder Teilnehmer zur Zeit der
 Entscheidung gehört.
-
 
 ## § 9a Ordnungswidrigkeiten
 
@@ -277,7 +259,6 @@ Entscheidung gehört.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Straßenverkehrsbehörde.
 
-
 ## § 10 Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -285,7 +266,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 11 Inkrafttreten
 

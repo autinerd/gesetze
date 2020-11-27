@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1185
 
-
-
 ## I. Bestimmung von Dienstbehörden und Dienstvorgesetzten
 
 Auf Grund des § 3 Abs. 1 Satz 1 des Postpersonalrechtsgesetzes in der
@@ -40,10 +38,6 @@ Deutschen Post AG:
     von den Leiterinnen/Leitern oder von den Sprecherinnen/Sprechern der
     Geschäftsleitung wahrgenommen.
 
-
-
-
-
 ## II. Übertragung des Ernennungsrechts
 
 Auf Grund des § 3 Abs. 2 Satz 4 des Postpersonalrechtsgesetzes wird
@@ -58,10 +52,6 @@ die Befugnis, Beamte zu ernennen und zu entlassen,
 
     - dem Vorstand bezüglich der übrigen Beamtinnen und Beamten der
     Bundesbesoldungsordnung A übertragen.
-
-
-
-
 
 ## III. Schlussvorschriften
 

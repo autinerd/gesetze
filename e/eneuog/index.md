@@ -22,40 +22,24 @@ Artikel 2 und 5 dieses Gesetzes dienen der Übernahme der Richtlinie
 91/440/EWG des Rates vom 29. Juli 1991 zur Entwicklung der
 Eisenbahnunternehmen der Gemeinschaft (ABl. EG Nr. L 237 S. 25).
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 - Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen
-
-
 
 ## Art 2 - Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft (Deutsche Bahn Gründungsgesetz - DBGrG)
 
-
-
 ## Art 3 - Gesetz über die Eisenbahnverkehrsverwaltung des Bundes
-
-
 
 ## Art 4 - Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs (Regionalisierungsgesetz)
 
-
-
 ## Art 5 - Allgemeines Eisenbahngesetz (AEG)
-
-
 
 ## Art 6
 
-
-
 ## Art 7 - Übergangsbestimmungen
-
-
 
 ## § 1 Unfallversicherung
 
@@ -89,7 +73,6 @@ Zahlungsausgleich findet nicht statt. Einzelheiten legt das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung mit dem
 Bundesministerium der Finanzen fest.
 
-
 ## § 2 Güterkraftverkehr der Deutschen Bundesbahn
 
 § 10 Abs. 3 und 4 des Güterkraftverkehrsgesetzes in der Fassung der
@@ -103,11 +86,9 @@ weitere Erteilung dieser Genehmigungen an die Deutsche Bahn
 Aktiengesellschaft oder an Unternehmen, an denen diese Gesellschaft
 mehrheitlich beteiligt ist.
 
-
 ## § 3 Berufsausbildungsverhältnisse
 
 (weggefallen)
-
 
 ## § 4 Jahresabschlüsse der Deutschen Bundesbahn und der Deutschen Reichsbahn für das Geschäftsjahr 1993
 
@@ -119,10 +100,7 @@ oder Wirtschaftsprüfungsgesellschaften. Die Entlastung erfolgt durch
 das Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Einvernehmen mit dem Bundesministerium der Finanzen.
 
-
 ## Art 8 - Außerkrafttreten bisherigen Rechts
-
-
 
 ## § 1
 
@@ -143,12 +121,10 @@ Mit Inkrafttreten dieses Gesetzes treten außer Kraft:
 
 3\.
 
-
 ## § 2
 
 Die §§ 6a, 6c, 6e Abs. 1 und die §§ 6f und 6g des Allgemeinen
 Eisenbahngesetzes gelten fort.
-
 
 ## § 3
 
@@ -165,7 +141,6 @@ Bundeseisenbahnvermögen tritt. Die Befristung der Fortgeltung des § 23
 des Bundesbahngesetzes gilt nicht für die Beamten, die Dritten gemäß §
 16 des Deutsche Bahn Gründungsgesetzes zur Dienstleistung überlassen
 sind.
-
 
 ## § 4
 
@@ -184,17 +159,13 @@ für die Mitglieder des Europäischen Parlaments vom Bund abzugelten.
 (2) Absatz 1 gilt für die Mitglieder des Bundesverfassungsgerichts
 entsprechend.
 
-
 ## Art 9 - Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen und in den Unternehmen der Deutschen Bundespost
-
-
 
 ## Art 10 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 6 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ## Art 11 - Inkrafttreten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 248
 
-
-
 ## (XXXX)
 
 Der Ausschuß für Wahlprüfung, Immunität und Geschäftsordnung des

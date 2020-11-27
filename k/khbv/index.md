@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 21.7.2012 I 1613
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Rechnungs- und Buchführungspflichten von Krankenhäusern regeln
@@ -75,11 +74,9 @@ Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der
 Gewinn- und Verlustrechnung nach Anlage 2 die Posten 1 bis 8 und 10 zu
 dem Posten "Rohergebnis" zusammengefaßt werden dürfen.
 
-
 ## § 2 Geschäftsjahr
 
 Das Geschäftsjahr ist das Kalenderjahr.
-
 
 ## § 3 Buchführung, Inventar
 
@@ -90,7 +87,6 @@ einzurichten, es sei denn, daß durch ein ordnungsmäßiges
 Überleitungsverfahren die Umschlüsselung auf den Kontenrahmen
 sichergestellt wird. Für das Inventar gelten die §§ 240 und 241 des
 Handelsgesetzbuchs.
-
 
 ## § 4 Jahresabschluß
 
@@ -111,7 +107,6 @@ Abs. 2, Abs. 3 Satz 1 und Abs. 4 Satz 1 und § 284 Abs. 2 Nr. 1 und 3
 des Handelsgesetzbuchs sowie Artikel 24 Abs. 5 Satz 2 und Artikel 28,
 42 bis 44 des Einführungsgesetzes zum Handelsgesetzbuch, soweit diese
 Verordnung nichts anderes bestimmt.
-
 
 ## § 5 Einzelvorschriften zum Jahresabschluß
 
@@ -175,18 +170,15 @@ gestellt werden. Als "Kapitalrücklagen" sind sonstige Einlagen des
 Krankenhausträgers auszuweisen. Für Gewinnrücklagen gilt § 272 Abs. 3
 des Handelsgesetzbuchs entsprechend.
 
-
 ## § 6 Aufbewahrung und Vorlegung von Unterlagen
 
 Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die
 Vorlegung von Unterlagen gelten die §§ 257 und 261 des
 Handelsgesetzbuchs.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Kosten- und Leistungsrechnung
 
@@ -215,10 +207,6 @@ Mindestanforderungen:
     zuzuordnen, soweit dies für die in Satz 1 genannten Zwecke
     erforderlich ist.
 
-
-
-
-
 ## § 9 Befreiungsvorschrift
 
 Ein Krankenhaus mit bis zu 100 Betten oder mit nur einer
@@ -230,7 +218,6 @@ angemessenen Verhältnis zu dem erreichbaren Nutzen stehen und die in §
 zuständige Landesbehörde; dabei sind einvernehmliche Regelungen mit
 dem Landespflegesatzausschuß nach § 20 der Bundespflegesatzverordnung
 anzustreben.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -258,10 +245,6 @@ der Aufstellung oder Feststellung eines Jahresabschlusses
 2.  entgegen § 1 Abs. 3 Satz 3 die dort bezeichneten zusätzlichen Angaben
     im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder
     nicht mit dem vorgeschriebenen Inhalt macht.
-
-
-
-
 
 ## § 11 Übergangsvorschrift
 
@@ -309,16 +292,13 @@ Einführungsgesetzes zum Handelsgesetzbuch enthaltenen
 Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des
 Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 
-
 ## § 12 (weggefallen)
 
 -
 
-
 ## § 13 (Inkrafttreten)
 
 -
-
 
 ## Anlage 1
 
@@ -565,7 +545,6 @@ Haftungsverhältnisse: .....................
 \*) Die Klammerhinweise auf den Kontenrahmen entfallen in der Bilanz.
 ++) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
-
 ## Anlage 2
 
 (Fundstelle: BGBl. I 1987, 1053 - 1054;
@@ -700,12 +679,10 @@ und vom Ertrag             .........
 Gewinn- und Verlustrechnung
 ++) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
-
 ## Anlage 3 Anlagennachweis
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1987, 1055)
-
 
 ## Anlage 4
 
@@ -2928,13 +2905,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
         \*) Nur für Kapitalgesellschaften.
-
-
-
-
-
-
-
 
 ## Anlage 5
 

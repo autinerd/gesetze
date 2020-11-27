@@ -31,7 +31,6 @@ I S. 1506) verordnet das Bundesministerium der Finanzen im Benehmen
 mit der Deutschen Bundesbank nach Anhörung der Verbände der
 Zahlungsinstitute:
 
-
 ## § 1 Einreichungsverfahren
 
 (1) Die Anzeigen und die Unterlagen, die nach dem
@@ -45,7 +44,6 @@ Hauptverwaltung der Deutschen Bundesbank einzureichen.
 verfasst sind, sind in amtlich beglaubigter Übersetzung einzureichen.
 Die Bundesanstalt kann im Einzelfall auf amtlich beglaubigte
 Übersetzungen verzichten.
-
 
 ## § 2 Unterlagen nach § 8 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Erlaubnis)
 
@@ -148,7 +146,6 @@ erteilen und Unterlagen vorzulegen, soweit dies für die Beurteilung
 erforderlich ist, dass keine Gründe für die Versagung der beantragten
 Erlaubnis bestehen.
 
-
 ## § 3 Mitteilungen nach § 8 Absatz 6 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
 
 (1) Den Mitteilungen nach § 8 Absatz 6 des
@@ -157,7 +154,6 @@ Zahlungsdiensteaufsichtsgesetzes sind im Fall der Änderung von gemäß §
 Unterlagen die geänderten Unterlagen beizufügen.
 
 (2) Für das Einreichungsverfahren gilt § 1 Absatz 1.
-
 
 ## § 4 Anzeigen nach § 11 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Erwerb oder Erhöhung einer bedeutenden Beteiligung)
 
@@ -222,7 +218,6 @@ Inhaberkontrollverordnung anzuzeigen. Das Ausscheiden eines
 gesetzlichen oder satzungsmäßigen Vertreters oder eines persönlich
 haftenden Gesellschafters ist ebenfalls anzuzeigen.
 
-
 ## § 5 Anzeigen nach § 11 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Verringerung oder Aufgabe einer bedeutenden Beteiligung)
 
 (1) Die Absicht
@@ -251,14 +246,12 @@ möglich, hat er dies in der Anlage zu begründen.
 (3) Für alle Absichtsanzeigen nach Absatz 1 gilt § 16 Absatz 3 der
 Inhaberkontrollverordnung entsprechend.
 
-
 ## § 6 Vorlage von Unterlagen nach § 17 des Zahlungsdiensteaufsichtsgesetzes (Jahresabschluss, Lagebericht, Prüfungsbericht)
 
 Wird der Jahresabschluss ohne Änderungen festgestellt, so genügt die
 Mitteilung hierüber mit dem Datum des Tages der Feststellung; die
 Einreichung des festgestellten Jahresabschlusses ist in diesem Fall
 nicht erforderlich.
-
 
 ## § 7 Angaben nach § 19 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes (Inanspruchnahme von Agenten)
 
@@ -282,7 +275,6 @@ Zahlungsdiensteaufsichtsgesetzes angezeigten Verhältnisse hat das
 Zahlungsinstitut spätestens einen Monat vor Wirksamwerden der
 Änderungen anzuzeigen.
 
-
 ## § 8 Anzeigen nach § 20 Absatz 2 und § 29 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Auslagerung)
 
 In einer Anzeige nach § 20 Absatz 2 Satz 1 oder § 29 Absatz 1 Nummer
@@ -295,7 +287,6 @@ Anschriften der Auslagerungsunternehmen sind anzugeben. Mit der
 Vollzugsanzeige nach § 29 Absatz 1 Nummer 10 des
 Zahlungsdiensteaufsichtsgesetzes ist der geschlossene Vertrag in Kopie
 einzureichen.
-
 
 ## § 9 Anzeigen nach § 25 Absatz 1 und 2 sowie § 19 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)
 
@@ -351,7 +342,6 @@ Zahlungsdiensteaufsichtsgesetzes gelten zudem folgende Bestimmungen:
 Zahlungsdiensteaufsichtsgesetzes angezeigten Verhältnisse hat das
 Zahlungsinstitut spätestens einen Monat vor Wirksamwerden der
 Änderungen anzuzeigen.
-
 
 ## § 10 Anzeigen nach § 29 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes (Bestellung eines Geschäftsleiters)
 
@@ -437,7 +427,6 @@ Formular gemäß Anlage 6 dieser Verordnung zu verwenden.
 und Unterlagen, insbesondere Arbeitszeugnisse, die die im Lebenslauf
 angegebenen Tätigkeiten belegen, vorzulegen.
 
-
 ## § 11 Anzeigen nach § 29 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes (Bedeutende Beteiligung am eigenen Zahlungsinstitut und passivische enge Verbindungen)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 29
@@ -499,7 +488,6 @@ Satzformate und den Einreichungsweg. Sie hat die bei ihr eingereichten
 Anzeigen an die Bundesanstalt weiterzuleiten. Bei papiergebundener
 Einreichung gilt § 1.
 
-
 ## § 12 Anzeigen nach § 29 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes (aktivische enge Verbindungen)
 
 (1) Einzelanzeigen von Instituten über aktivische enge Verbindungen
@@ -552,7 +540,6 @@ einzureichen.
 
 (5) § 11 Absatz 3 und 5 gilt entsprechend.
 
-
 ## § 13 Anzeigen nach § 29 Absatz 1 Nummer 9 des Zahlungsdiensteaufsichtsgesetzes (Vereinigung von Instituten)
 
 Die Absicht von Zahlungsinstituten, sich zu vereinigen, ist von den
@@ -563,70 +550,37 @@ kommen wird. Das Scheitern der Fusionsverhandlungen ist unverzüglich
 mitzuteilen. Gleiches gilt bei erfolgreichen Fusionsverhandlungen für
 den rechtlichen Vollzug der Vereinigung.
 
-
 ## § 14 Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 4 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2009, 3608 - 3618)
 
-
-
-
-
-
-
-
-
-
-
-
 ## Anlage 2 (zu § 4 Absatz 2 Satz 2, § 5 Absatz 1 Satz 2, § 11 Absatz 4 Satz 3 und § 12 Absatz 3 Satz 2)
 
 (Fundstelle: BGBl. I 2009, 3619 - 3620)
-
-
 
 ## Anlage 3 (zu § 5 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2009, 3621 - 3628)
 
-
-
-
-
-
-
-
-
 ## Anlage 4 (zu § 10 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2009, 3629 - 3632)
-
-
-
-
 
 ## Anlage 5 (zu § 10 Absatz 2 Satz 3)
 
 (Fundstelle: BGBl. I 2009, 3633)
 
-
 ## Anlage 6 (zu § 10 Absatz 2 Satz 5)
 
 (Fundstelle: BGBl. I 2009, 3634 - 3635)
 
-
-
 ## Anlage 7 (zu § 11 Absatz 1 und 2)
 
 (Fundstelle: BGBl. I 2009, 3636 - 3638)
-
-
-
 
 ## Anlage 8 (zu § 12 Absatz 1 und 2)
 

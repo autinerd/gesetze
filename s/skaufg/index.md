@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 113 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -40,12 +38,10 @@ gestatten.
 
 (3) Die betroffenen Länder werden beteiligt.
 
-
 ## Art 2
 
 In die Vereinbarungen werden, soweit nach ihrem Gegenstand und Zweck
 erforderlich, Regelungen mit folgendem Inhalt aufgenommen.
-
 
 ## § 1 Allgemeine Voraussetzungen
 
@@ -55,7 +51,6 @@ deutschen Gesetzen und Rechtsvorschriften.
 
 (2) In der Vereinbarung sind die Rahmenbedingungen für den Aufenthalt
 der ausländischen Streitkräfte nach Art, Umfang und Dauer festzulegen.
-
 
 ## § 2 Grenzübertritt, Einreise
 
@@ -105,14 +100,12 @@ Entfernungsersuchen nachzukommen und die Aufnahme des betreffenden
 Mitgliedes im eigenen Hoheitsgebiet zu gewährleisten haben. Im übrigen
 bleiben die Bestimmungen des Aufenthaltsgesetzes unberührt.
 
-
 ## § 3 Meldewesen
 
 Mitglieder ausländischer Streitkräfte sind von der allgemeinen
 Meldepflicht befreit. Diese Befreiung erstreckt sich nicht auf die
 besondere Meldepflicht in Beherbergungsstätten, Krankenhäusern,
 Pflegeheimen oder ähnlichen Einrichtungen.
-
 
 ## § 4 Kriegswaffen
 
@@ -124,7 +117,6 @@ gelten.
 
 (2) Die nach dem Außenwirtschaftsgesetz erforderlichen Genehmigungen
 gelten als erteilt.
-
 
 ## § 5 Waffen
 
@@ -139,14 +131,12 @@ Staat beachtet die deutschen Waffenrechtsvorschriften.
 (2) Mitglieder der ausländischen Streitkräfte sind zum Waffengebrauch
 im Rahmen des deutschen Notwehrrechts befugt.
 
-
 ## § 6 Uniformtragen
 
 Mitglieder ausländischer Streitkräfte, die zum militärischen Personal
 gehören, sind vorbehaltlich gegenteiliger Vereinbarungen mit den
 Behörden des ausländischen Staates berechtigt, während des
 Aufenthaltes in der Bundesrepublik Deutschland Uniform zu tragen.
-
 
 ## § 7 Gerichtsbarkeit
 
@@ -173,7 +163,6 @@ ausländischen Staat zurückgekehrt, so wird dieser auf Ersuchen des
 betroffenen Staates den Fall seinen zuständigen Behörden zum Zwecke
 der Strafverfolgung unterbreiten.
 
-
 ## § 8 Disziplinargewalt
 
 (1) Die vom ausländischen Staat zu bestimmenden Behörden oder
@@ -188,7 +177,6 @@ Streitkräfte eines anderen Staates.
 in der Bundesrepublik Deutschland weder verhängt noch vollstreckt
 werden.
 
-
 ## § 9 Zwangsmaßnahmen
 
 (1) Deutsche Behörden und Gerichte sind im Rahmen ihrer
@@ -200,7 +188,6 @@ Streitkräfte durch eine deutsche Behörde ist unverzüglich der
 Verbindungsoffizier seiner Streitkraft hiervon zu unterrichten. Dabei
 soll mitgeteilt werden, welcher Staatsanwalt zuständig ist und welchem
 Richter der vorläufig Festgenommene vorgeführt wird.
-
 
 ## § 10 Telekommunikation
 
@@ -254,7 +241,6 @@ diese ohne Verzug erfolgen.
 Gesetze im Einvernehmen mit dem Bundesministerium für Wirtschaft und
 Technologie und dem Bundesministerium der Verteidigung festzulegen.
 
-
 ## § 11 Gesundheitswesen
 
 (1) Zur Verhütung und Bekämpfung übertragbarer Krankheiten bei
@@ -272,7 +258,6 @@ Aufenthaltes in Deutschland ausnahmsweise keine ausreichenden eigenen
 ärztlichen oder zahnärztlichen Dienste zur Verfügung, so kann
 medizinische Behandlung durch den Sanitätsdienst der Bundeswehr auf
 der Grundlage gegenseitiger Vereinbarungen gewährt werden.
-
 
 ## § 12 Umweltschutz
 
@@ -321,7 +306,6 @@ Streitkräfte auf enge Zusammenarbeit in allen Belangen des
 Umweltschutzes zu verpflichten. Dies gilt insbesondere bei der
 Vorbereitung von Übungen.
 
-
 ## § 13 Führerscheine, Luftfahrerscheine, Befähigungszeugnisse für militärische Wasserfahrzeuge
 
 (1) Führerscheine oder andere Erlaubnisscheine, die den Mitgliedern
@@ -345,7 +329,6 @@ nach dem Recht des ausländischen Staates zulässig ist, auch zum Führen
 entsprechender privater Landfahrzeuge. Eine entsprechende
 Bescheinigung, die mit einer deutschen Übersetzung zu versehen ist,
 muß beim Führen privater Kraftfahrzeuge ständig mitgeführt werden.
-
 
 ## § 14 Verkehr mit eigenen Fahrzeugen des ausländischen Staates
 
@@ -422,14 +405,12 @@ die dazugehörenden Fernmeldesysteme werden koordiniert, soweit dies
 erforderlich ist, um die Sicherheit des Luftverkehrs und die
 Erreichung des Aufenthaltszweckes zu gewährleisten.
 
-
 ## § 15 Haftpflichtversicherung
 
 Für seine Dienstkraftfahrzeuge, militärischen Luft- und
 Wasserfahrzeuge sowie das Führen von Waffen entfällt die Pflicht zum
 Abschluß einer Haftpflichtversicherung des ausländischen Staates. Die
 Risiken hieraus werden vom ausländischen Staat selbst übernommen.
-
 
 ## § 16 Haftung
 
@@ -481,10 +462,6 @@ c)  Die Bestimmungen dieses Absatzes lassen die Zuständigkeit der
     und solange nicht eine Zahlung als volle Befriedigung des Anspruchs
     geleistet worden ist.
 
-
-
-
-
 ## § 17 Übungen zu Lande
 
 (1) Für Übungen gelten die deutschen Vorschriften.
@@ -499,7 +476,6 @@ können Manöver und andere Übungen vorbehaltlich der Zustimmung der
 zuständigen deutschen Behörden im freien Gelände durchgeführt werden.
 In der Vereinbarung sind Verfahren zur Erteilung der Zustimmung sowie
 Anmeldung und Koordinierung vorzusehen.
-
 
 ## § 18 Übungen im Luftraum
 
@@ -525,7 +501,6 @@ militärischer Art.
 die englische Sprache beherrschen, soweit dies aus Gründen der
 Flugsicherheit oder Flugsicherung erforderlich ist.
 
-
 ## § 19 Übungen in deutschen Hoheitsgewässern
 
 (1) Für Übungen ausländischer Kriegs- und Hilfsschiffe im Küstenmeer
@@ -534,13 +509,11 @@ und in den inneren Gewässern gelten die deutschen Vorschriften.
 (2) Die Nutzung bordeigener Luftfahrzeuge erfolgt auf der Grundlage
 des § 18.
 
-
 ## § 20 Befreiung von Steuern und sonstigen Abgaben
 
 Die Befreiung der ausländischen Streitkräfte und ihrer Mitglieder von
 Steuern und sonstigen Abgaben richtet sich nach dem in der
 Bundesrepublik Deutschland geltenden Recht.
-
 
 ## § 21 Streitbeilegung
 
@@ -549,10 +522,7 @@ Auslegung der auf diesem Gesetz beruhenden Vereinbarungen unterliegen
 weder der deutschen Gerichtsbarkeit noch der eines ausländischen
 Staates. Sie sind im Verhandlungswege beizulegen.
 
-
 ## Art 3
-
-
 
 ## § 1
 
@@ -561,12 +531,10 @@ Bundesministerium des Innern allgemeine Verwaltungsvorschriften zur
 Ausführung des Artikels 2 § 5 über Besitz und Führen von Schußwaffen
 der diesem Gesetz unterfallenden ausländischen Militärangehörigen.
 
-
 ## § 2
 
 Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit gemäß
 Artikel 2 § 7 Abs. 2 wird von der Staatsanwaltschaft erklärt.
-
 
 ## § 3
 
@@ -575,14 +543,12 @@ Artikel 2 § 7 findet Artikel 4a des Gesetzes zum NATO-Truppenstatut
 und zu den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S.
 1183) in der jeweils geltenden Fassung entsprechende Anwendung.
 
-
 ## § 4
 
 Verpflichtungen der ausländischen Streitkräfte, die sich aus Artikel 2
 § 12 Abs. 5 herleiten, lassen die bestehenden Verantwortlichkeiten für
 eine Liegenschaft gegenüber der Nachbarschaft und der Allgemeinheit
 unberührt.
-
 
 ## § 5
 
@@ -591,7 +557,6 @@ des Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen
 vom 18. August 1961 (BGBl. 1961 II S. 1183) in der jeweils geltenden
 Fassung entsprechende Anwendung.
 
-
 ## Art 4
 
 Dieses Gesetz findet keine Anwendung auf
@@ -599,7 +564,6 @@ Militärattaches eines ausländischen Staates in der Bundesrepublik
 Deutschland, die Mitglieder ihrer Stäbe sowie andere Militärpersonen,
 die in der Bundesrepublik Deutschland einen diplomatischen oder
 konsularischen Status haben.
-
 
 ## Art 5
 

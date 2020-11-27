@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 551
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen
@@ -26,10 +24,7 @@ Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform
 von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S.
 127) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Abschnitt I - Allgemeine Vorschriften
-
-
 
 ### § 1 Allgemeine Vorschriften für den Ansatz der Aktiven und der Passiven
 
@@ -65,7 +60,6 @@ Durchführungsverordnung zum Umstellungsgesetz sowie
 Ausgleichsforderungen, die nicht auf § 3 Abs. 1 der
 Bausparkassenverordnung beruhen.
 
-
 ### § 2 Rückbezüglichkeit später eintretender Umstände
 
 Waren die für die Bewertung von Aktiven oder Passiven maßgebenden
@@ -75,10 +69,7 @@ berücksichtigen, wenn die tatsächlichen oder rechtlichen Umstände, die
 zur Klärung geführt haben, erst nach dem 21. Juni 1948 eingetreten
 sind.
 
-
 ## Abschnitt II - Aktiven
-
-
 
 ### § 3 Gebietsmäßige Abgrenzung
 
@@ -101,7 +92,6 @@ im Bundesgebiet belegen war, so gelten als dort belegen
 Umstellungsrechnung einzustellen, davon ab, ob dieser am 21. Juni 1948
 in einem anderen Gebiet belegen war, so gilt Absatz 1 sinngemäß.
 
-
 ### § 4 Nichtbewertungsfähige Vermögensgegenstände
 
 Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist
@@ -110,7 +100,6 @@ möglich ist. Solange eine Bewertung überhaupt nicht möglich ist, ist
 er mit einem Merkposten von einer Deutschen Mark anzusetzen. Mehrere
 Vermögensgegenstände derselben Art können zu einem Merkposten von
 einer Deutschen Mark zusammengefaßt werden.
-
 
 ### § 5 Verfügungsbeschränkungen
 
@@ -127,7 +116,6 @@ Vermögensgegenstand freigegeben, so ist er mit dem ihm zukommenden
 Wert anzusetzen. Erlangt die Bausparkasse für einen ihr entzogenen
 Vermögensgegenstand einen anderen Vermögensgegenstand, so gilt Satz 2
 entsprechend.
-
 
 ### § 6 Wertpapiere und unverbriefte Anteilsrechte an Kapitalgesellschaften
 
@@ -229,7 +217,6 @@ dem Ansatz für Anteilsrechte ein entsprechender Zuschlag zu machen.
 
 (10) Der Bestand an eigenen Aktien ist nicht anzusetzen.
 
-
 ### § 7 Grundstücke
 
 Grundstücke im Bundesgebiet und in Berlin (West) sind mit einer
@@ -238,7 +225,6 @@ Deutschen Mark für je eine Reichsmark des zuletzt vor dem 21. Juni
 nach dem 20. Juni 1948 sind insoweit zu berücksichtigen, als sie im
 Hinblick auf die Verhältnisse des Grundstücks vorgenommen wurden oder
 werden, die am 21. Juni 1948 bestanden haben.
-
 
 ### § 8 Einrichtungsgegenstände
 
@@ -269,7 +255,6 @@ Panzer- und Gittertüren) nicht zu berücksichtigen. Soweit sie nicht
 bei der Festsetzung des Einheitswertes des Grundstücks berücksichtigt
 sind, sind sie nach Absatz 1 anzusetzen.
 
-
 ### § 9 Unterverzinsliche Forderungen
 
 (1) Ist eine befristete Forderung unterverzinslich, so braucht sie nur
@@ -296,10 +281,7 @@ jeweiligen Fälligkeitsterminen hinter der Verzinsung von 3,5 vom
 Hundert zurückbleibt. Der Gegenwartswert ist unter Zugrundelegung
 eines Zinssatzes von 3,5 vom Hundert zu errechnen.
 
-
 ## Abschnitt III - Passiven
-
-
 
 ### § 10 Ausstehende Kapitaleinlagen
 
@@ -307,7 +289,6 @@ Eine Verpflichtung zur Leistung von ausstehenden Kapitaleinlagen oder
 von Nachschüssen darf nur insoweit berücksichtigt werden, als sie am
 21\. Juni 1948 zum Ausgleich einer Überschuldung diente oder für
 eingezogene Anteile bestand.
-
 
 ### § 11 Rückstellungen
 
@@ -322,7 +303,6 @@ gleiche gilt für die Kosten einer nicht mutwilligen oder einer auf
 Veranlassung der Aufsichtsbehörde durchgeführten Rechtsverfolgung
 wegen eines Vermögenswertes, der in die Umstellungsrechnung
 einzustellen wäre.
-
 
 ### § 12 Pensionsrückstellungen
 
@@ -530,7 +510,6 @@ weiteren Aufbesserung von Leistungen aus Renten- und
 Pensionsversicherungen sowie aus Kapitalzwangsversicherungen vom 19.
 März 1963.
 
-
 ### § 13 Rückstellungen für Verpflichtungen auf Grund des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
 
 (1) Für Verpflichtungen
@@ -611,17 +590,13 @@ von Personen, die am 8. Mai 1945 im öffentlichen Dienst standen oder
 versorgungsberechtigt waren, ergeben, tritt an die Stelle des 1. April
 1951 der 1. Oktober 1951.
 
-
 ### § 14 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten
 
 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten dürfen erst
 berücksichtigt werden, wenn ihr Umfang durch Entscheidung oder
 Vergleich festgestellt ist.
 
-
 ## Abschnitt IV - Gemeinsame Vorschriften für Aktiven und Passiven
-
-
 
 ### § 15 Forderungen und Verbindlichkeiten in ausländischer Währung
 
@@ -634,7 +609,6 @@ dieser Verordnung erfüllt worden, so ist sie zum Erfüllungskurs in
 Deutsche Mark umzurechnen. Der Erfüllung einer Forderung oder
 Verbindlichkeit steht ihre Umwandlung in eine auf Deutsche Mark
 lautende Forderung oder Verbindlichkeit gleich.
-
 
 ### § 16 Geldwertschuldverhältnisse
 
@@ -652,7 +626,6 @@ Deutscher Mark anzusetzen, der sich nach den Vorschriften des
 Umstellungsgesetzes für den durch den Preis von 2.790 Reichsmark für
 ein Kilogramm Feingold bestimmten Reichsmarkbetrag ergibt.
 
-
 ### § 17 Durchlaufende Kredite
 
 Durchlaufende Kredite aus Treuhandgeschäften sind auf der Aktivseite
@@ -662,14 +635,12 @@ der Berechnung des vorläufigen Eigenkapitals nach § 4 Abs. 1 A d Satz
 Vierundvierzigsten Durchführungsverordnung zum Umstellungsgesetz von
 den Verbindlichkeiten abzusetzen.
 
-
 ### § 18 Wertberichtigungen
 
 Falls eine Forderung mit einem unter dem Nennbetrag liegenden Wert
 eingestellt werden darf, kann dies auch in der Weise geschehen, daß
 auf der Aktivseite der Nennbetrag der Forderung und auf der
 Passivseite ein entsprechender Wertberichtigungsposten angesetzt wird.
-
 
 ### § 19 Abgrenzungsposten
 
@@ -729,7 +700,6 @@ anzusetzen.
 § 5              des Währungsgesetzes können in voller Höhe als
 Passivposten angesetzt werden.
 
-
 ### § 20 Berichtigung der Umstellungsrechnung
 
 (1) Die Umstellungsrechnung unterliegt der Berichtigung (§ 3 Abs. 3
@@ -761,15 +731,11 @@ Erhöhung der Ausgleichsforderung oder eine Verminderung des nach § 5
 Abs. 2 Satz 1 der Bausparkassenverordnung abzuführenden Überschusses
 zur Folge hat.
 
-
 ## Abschnitt V - Schlußvorschriften
-
-
 
 ### § 21
 
 -
-
 
 ### § 22
 
@@ -778,7 +744,6 @@ der Anordnung über die Bausparkassen mit Sitz außerhalb des
 Währungsgebietes aus Anlaß der Neuordnung des Geldwesens vom 25.
 November 1949 (Bundesanzeiger Nr. 3 vom 5. Januar 1950) bezeichneten
 Art.
-
 
 ### § 23 Berlin-Klausel
 
@@ -899,17 +864,9 @@ Maßgaben:
         Bausparkasse für die Mark Brandenburg vom 27. Juni 1951 (Gesetz- und
         Verordnungsblatt für Berlin S. 519)".
 
-
-
-
-
-
-
-
 ### § 24 Geltung im Saarland
 
 Diese Verordnung gilt nicht im Saarland.
-
 
 ### Anlage (zu § 15)
 

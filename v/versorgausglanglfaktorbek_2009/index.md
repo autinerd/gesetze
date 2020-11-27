@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1341
 
-
 ## (XXXX)
 
 Auf Grund des § 3 Absatz 2 Nummer 1 Buchstabe a Satz 4 des
@@ -145,9 +144,6 @@ Entscheidungen über den Versorgungsausgleich, die nach dem 30. Juni
 *    *   1,0095216
 
     *   vom 1. Juli 2008 bis 30. Juni 2009
-
-
-
 
 ## Schlussformel
 

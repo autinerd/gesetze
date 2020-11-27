@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1400
 
-
-
 ## Eingangsformel
 
 Auf der Grundlage der §§ 25 Abs. 1 und 82 Abs. 2 und Abs. 4 des
@@ -25,10 +23,7 @@ S. 929) in Verbindung mit § 2 Abs. 1 und § 6 Abs. 2 des Gesetzes vom
 20\. Juli 1990 zur Einführung des Gesetzes vom 20. Juli 1990 über die
 Bauordnung (BauO) (GBl. I Nr. 50 S. 950) wird angeordnet:
 
-
 ## Erster Teil - Bauvorlagen
-
-
 
 ### § 1 Allgemeines
 
@@ -78,7 +73,6 @@ Muster/Vordrucke verwendet werden.
 Unterlagen fordern, wenn sie dies zur Beurteilung des Bauvorhabens für
 erforderlich hält; sie kann auf Bauvorlagen verzichten, wenn diese zur
 Beurteilung des Bauvorhabens nicht erforderlich sind.
-
 
 ### § 2 Lageplan
 
@@ -210,7 +204,6 @@ ist eine prüffähige Berechnung aufzustellen über:
 Dächer sowie die Nutzung nicht verändert werden, ist ein Lageplan
 nicht erforderlich.
 
-
 ### § 3 Bauzeichnungen
 
 (1) Für die Bauzeichnungen ist der Maßstab 1:100 zu verwenden. Die
@@ -333,7 +326,6 @@ werden.
 Bauzeichnungen oder Teile davon durch besondere Zeichnungen, Zeichen
 und Farben erläutert werden.
 
-
 ### § 4 Baubeschreibung
 
 (1) In der Baubeschreibung sind das Vorhaben und seine Nutzung zu
@@ -389,10 +381,6 @@ insbesondere zusätzliche Angaben enthalten über
 6.  Anzahl der Arbeitskräfte, ihre fachliche Eignung sowie Art und Umfang
     ihrer Tätigkeiten.
 
-
-
-
-
 ### § 5 Standsicherheitsnachweis und andere bautechnische Nachweise
 
 (1) Für die Prüfung der Standsicherheit sind eine Darstellung des
@@ -422,7 +410,6 @@ Prüfzeugnisse oder Gutachten vorzulegen.
 soweit erforderlich, Einzelnachweise durch Zeichnung, Beschreibung,
 Berechnung, Prüfzeugnisse oder Gutachten vorzulegen.
 
-
 ### § 6 Bauvorlagen für den Abbruch baulicher Anlagen
 
 (1) Dem Antrag auf Erteilung der Genehmigung zum Abbruch baulicher
@@ -442,7 +429,6 @@ beizufügen.
 
 (2) § 1 Abs. 2 bis 6 gilt sinngemäß.
 
-
 ### § 7 Bauvorlagen beim Vorbescheid
 
 (1) Dem Antrag auf Erteilung eines Vorbescheids sind die Bauvorlagen
@@ -450,7 +436,6 @@ beizufügen, die zur Beurteilung der durch den Vorbescheid zu
 entscheidenden Fragen des Bauvorhabens erforderlich sind.
 
 (2) § 1 Abs. 2 bis 6 gilt sinngemäß.
-
 
 ### § 8 Bauvorlagen für Typengenehmigungen
 
@@ -461,7 +446,6 @@ Bauvorlagen beigefügt zu werden.
 (2) Die Bauvorlagen sind in dreifacher Ausfertigung einzureichen.
 
 (3) § 1 Abs. 4 bis 6 gilt sinngemäß.
-
 
 ### § 9 Bauvorlagen für die Ausführungsgenehmigung Fliegender Bauten
 
@@ -477,7 +461,6 @@ Bauaufsichtsbehörde einzureichen.
 
 (3) § 1 Abs. 4 bis 6 gilt sinngemäß; die Bauzeichnungen müssen aus
 Papier auf Gewebe bestehen.
-
 
 ### § 10 Bauvorlagen für Werbeanlagen und Warenautomaten
 
@@ -563,7 +546,6 @@ verwenden ist, muß insbesondere enthalten:
 
 (5) Für die Warenautomaten gelten die Absätze 1 bis 5 sinngemäß.
 
-
 ### § 11 Antrag und Unterlagen für die Genehmigung von Grundstücksteilungen
 
 Der Antrag auf Genehmigung einer Grundstücksteilung muß insbesondere
@@ -594,17 +576,9 @@ enthalten:
 6.  Bezeichnung des Grundstücksteils, der grundbuchmäßig abgeschrieben
     werden soll.
 
-
-
-
-
 ## Zweiter Teil - Bautechnische Prüfung von Bauvorhaben
 
-
-
 ### Erster Abschnitt - Prüfämter und Prüfingenieure
-
-
 
 #### § 12 Prüfämter und Prüfingenieure
 
@@ -619,7 +593,6 @@ Rechtsanspruch.
 
 (3) Die Prüfämter und die Prüfingenieure unterstehen der Fachaufsicht
 der obersten Bauaufsichtsbehörde oder der von ihr bestimmten Stelle.
-
 
 #### § 13 Zulassung, Niederlassung
 
@@ -652,7 +625,6 @@ Bauaufsichtsbehörde in eine andere Gemeinde verlegen.
 (4) Die Zulassung wird für eine bestimmte Frist, höchstens jedoch für
 fünf Jahre erteilt. Sie kann auf Antrag jeweils um höchstens fünf
 Jahre verlängert werden.
-
 
 #### § 14 Voraussetzungen der Zulassung
 
@@ -730,10 +702,6 @@ g)  nicht genügend Gewähr dafür bietet, daß er neben der Prüftätigkeit
     insbesondere seiner Überwachungspflicht, nach § 20 Abs. 2
     gewährleistet ist.
 
-
-
-
-
 #### § 15 Zulassungsverfahren
 
 (1) Der Antrag auf Zulassung ist an die oberste Bauaufsichtsbehörde zu
@@ -794,7 +762,6 @@ sich als Prüfingenieur niederzulassen beabsichtigt.
 
 (4) Die oberste Bauaufsichtsbehörde kann weitere Unterlagen verlangen.
 
-
 #### § 16 Gutachten, Gutachterausschuß
 
 (1) Über die fachliche Eignung des Antragstellers kann die oberste
@@ -812,7 +779,6 @@ Mitglieder des Gutachterausschusses sind unabhängig und an Weisungen
 nicht gebunden. Sie sind zu Unparteilichkeit und Verschwiegenheit
 verpflichtet. Sie sind ehrenamtlich tätig und haben Anspruch auf
 Ersatz der Reisekosten und der notwendigen Auslagen.
-
 
 #### § 17 Erlöschen, Rücknahme und Widerruf der Zulassung
 
@@ -862,10 +828,7 @@ Pflichten als Ingenieur gröblich verletzt hat.
 Bauaufsicht" zugelassen wurden, gelten gemäß § 12 Abs. 2 weiterhin als
 Prüfingenieur zugelassen.
 
-
 ### Zweiter Abschnitt - Bautechnische Prüfung
-
-
 
 #### § 18 Übertragung von Prüfaufgaben
 
@@ -886,7 +849,6 @@ Bereiche.
 von Bauvorhaben nur durch ein Prüfamt oder durch bestimmte
 Prüfingenieure geprüft werden dürfen.
 
-
 #### § 19 Erteilung von Prüfaufträgen
 
 (1) Der Prüfauftrag wird von der unteren Bauaufsichtsbehörde erteilt.
@@ -898,7 +860,6 @@ abgelehnt werden.
 (2) Die untere Bauaufsichtsbehörde kann in begründeten Fällen,
 insbesondere wenn Prüfaufträge nicht rechtzeitig erledigt werden, den
 Prüfauftrag zurückziehen und die Unterlagen zurückfordern.
-
 
 #### § 20 Ausführung von Prüfaufträgen
 
@@ -951,7 +912,6 @@ oder dabei mitgewirkt hat.
 Bauaufsichtsbehörde die Verantwortung für die Vollständigkeit und
 Richtigkeit der Prüfung.
 
-
 #### § 21 Typenprüfung - Prüfung Fliegender Bauten
 
 (1) Für bauliche Anlagen und Bauteile, die in gleicher Ausführung an
@@ -968,10 +928,7 @@ werden.
 (3) Die Nachweise der Standsicherheit Fliegender Bauten dürfen nur von
 einem Prüfamt geprüft werden.
 
-
 ## Dritter Teil - Überwachung
-
-
 
 ### § 22 Überwachungspflicht
 
@@ -1048,7 +1005,6 @@ zuständigen Prüfamt für Bautechnik gestattet werden, wenn der Nachweis
 der ordnungsgemäßen Herstellung der Bauprodukte im Einzelfall erbracht
 ist.
 
-
 ### § 23 Überwachungsverfahren und Überwachungsstellen
 
 (1) Das Überwachungsverfahren erfolgt nach
@@ -1115,7 +1071,6 @@ der Zulassungsbedingungen auf geeignete Weise nachweisen.
 Die Akkreditierung ist gebührenpflichtig. Ein Rechtsanspruch auf
 Akkreditierung besteht nicht.
 
-
 ### § 24 Überwachungszeichen
 
 (1) Das einheitliche Überwachungszeichen besteht aus dem
@@ -1158,20 +1113,15 @@ Nichtakkreditierung von Überwachungsstellen kann schriftlich
 Widerspruch erhoben werden. Die endgültige Entscheidung trifft der
 Leiter des Zentralen Prüfamtes für Bautechnik.
 
-
 ## Vierter Teil - Schlußvorschrift
-
-
 
 ### § 25 Inkrafttreten
 
 Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 
-
 ### Schlußformel
 
 **Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft**
-
 
 ### Anlage zur BauVorl-/BauPrüf-/ÜbAO (zu § 2 Abs. 4, § 3 Abs. 4) Zeichen für Bauvorlagen
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4637, 4640
 
-
-
 ## (XXXX)
 
 (1) Bis zum 31. Dezember 2003 sind Beitragssatzanhebungen der

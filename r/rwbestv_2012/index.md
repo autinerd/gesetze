@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1389
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -62,14 +61,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2012 28,07 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2012 24,92
 Euro.
-
 
 ## § 2 Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
@@ -79,13 +76,11 @@ beträgt ab dem 1. Juli 2012 12,96 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt ab dem 1. Juli 2012 11,50 Euro.
 
-
 ## § 3 Ausgleichsbedarf und Ausgleichsbedarf (Ost)
 
 (1) Der Ausgleichsbedarf beträgt ab dem 1. Juli 2012 0,9929.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt ab dem 1. Juli 2012 1,0000.
-
 
 ## § 4 Anpassungsfaktor in der Unfallversicherung
 
@@ -100,7 +95,6 @@ Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle,
 die vor dem 1. Juli 2012 eingetreten sind, werden zum 1. Juli 2012
 angepasst. Der Anpassungsfaktor beträgt 1,0226.
 
-
 ## § 5 Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
@@ -114,14 +108,9 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
 2.  für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches
     Sozialgesetzbuch anzuwenden ist, zwischen 278 Euro und 1 111 Euro.
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
-
 
 ## Schlussformel
 

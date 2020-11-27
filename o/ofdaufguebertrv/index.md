@@ -17,15 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 407
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August
 1971 (BGBl. I S. 1426, 1427) verordnet das Bundesministerium der
 Finanzen im Benehmen mit den für die Finanzverwaltung zuständigen
 obersten Landesbehörden:
-
 
 ## § 1
 
@@ -97,10 +94,6 @@ wie folgt übertragen:
 
     *   Karlsruhe
 
-
-
-
-
 ## § 2
 
 Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 5 des
@@ -146,16 +139,11 @@ Finanzverwaltungsgesetzes (Bundesvermögensabteilung) werden wie folgt
 
     *   Karlsruhe
 
-
-
-
-
 ## § 3
 
 Die Zuständigkeit der Oberfinanzpräsidenten nach § 1 Abs. 1 Nr. 2,
 Abs. 2 bis 4 des Vermögenszuordnungsgesetzes in der Fassung der
 Bekanntmachung vom 29. März 1994 (BGBl. I S. 709) bleibt unberührt.
-
 
 ## § 4
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   NV: [nicht amtlich veröffentlicht]
 
-
-
 ## Eingangsformel
 
 Unsere sozialistische Gesellschaft und ihr Staat achten und ehren die
@@ -32,16 +30,13 @@ der Antifaschistischen Widerstandskämpfer der Deutschen Demokratischen
 Republik und dem Bundesvorstand des Freien Deutschen
 Gewerkschaftsbundes folgendes angeordnet:
 
-
 ## § 1
 
 -
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -51,11 +46,9 @@ Gewerkschaftsbundes folgendes angeordnet:
 (3) ... Für den Anspruch auf Kinderzuschlag gelten die Bestimmungen
 des § 7.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
@@ -65,7 +58,6 @@ erreicht.
 
 (2) Für die Feststellung der Invalidität gelten die Bestimmungen der
 Sozialversicherung.
-
 
 ## § 6
 
@@ -87,7 +79,6 @@ d)  die Witwe mit einem Kind unter 3 Jahren oder 2 Kindern unter 8 Jahren.
 
 (2) Bei Wiederverheiratung erlischt der Anspruch auf
 Hinterbliebenenpension.
-
 
 ## § 7
 
@@ -113,37 +104,30 @@ gezahlt.
 oder des Studiums, wird die Hinterbliebenenpension bis zum Abschluß
 der Berufsausbildung oder des Studiums weitergezahlt.
 
-
 ## § 8
 
 -
-
 
 ## § 9
 
 Besteht Anspruch auf zwei Pensionen nach dieser Anordnung, wird nur
 die höhere gezahlt.
 
-
 ## § 10
 
 -
-
 
 ## § 11
 
 -
 
-
 ## § 12
 
 -
 
-
 ## Schlußformel
 
 Der Staatssekretär für Arbeit und Löhne
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel VIII Sachgebiet H Abschnitt III (BGBl. II 1990, 885, 1214)
 

@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 1068
 
-
-
 ## (XXXX)
 
 Die Botschafter der Französischen Republik, des Vereinigten

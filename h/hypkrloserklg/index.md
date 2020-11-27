@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 38 G v. 22.12.2011 I 3044
 
-
-
 ## § 1
 
 (1) Ein Hypothekenbrief über eine Hypothek, mit der ein im
@@ -39,7 +37,6 @@ Hypothek gesicherten Forderung im Zeitpunkt der Maßnahme seinen
 Wohnsitz in dem Gebiet hatte, in dem die Maßnahme getroffen worden
 ist.
 
-
 ## § 2
 
 Auf das Verfahren der Kraftloserklärung sind die für das
@@ -48,7 +45,6 @@ Hypothekenbriefen geltenden Vorschriften des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit anzuwenden, soweit in diesem Gesetz
 nichts anderes bestimmt ist.
-
 
 ## § 3
 
@@ -59,7 +55,6 @@ Glaubhaftmachung der in § 1 bezeichneten Tatsachen.
 
 (2) Der Antragsteller soll angeben, was ihm über den Verbleib des
 Briefes bekannt ist.
-
 
 ## § 4
 
@@ -73,7 +68,6 @@ Aufgebot von Amts wegen durch eingeschriebenen Brief mitgeteilt
 werden.
 
 (3) Die Aufgebotsfrist muß mindestens drei Monate betragen.
-
 
 ## § 5
 
@@ -94,7 +88,6 @@ Antragsteller zum Besitz des Hypothekenbriefs berechtigt ist, und der
 Antragsteller glaubhaft macht, daß er dessenungeachtet den Brief nicht
 erlangen kann.
 
-
 ## § 6
 
 Geht eine Anmeldung ein, die auf Grund des § 5 Abs. 1 nicht wirksam
@@ -102,14 +95,12 @@ ist, so soll das Gericht den Anmeldenden auf den Inhalt des § 5 Abs. 1
 hinweisen und ihm Gelegenheit geben, binnen einer zu bestimmenden
 Frist die Anmeldung zu ergänzen.
 
-
 ## § 7
 
 Eine öffentliche Bekanntmachung des Ausschließungsbeschlusses und der
 in § 478 Abs. 3 des Gesetzes über das Verfahren in Familiensachen und
 in den Angelegenheiten der freiwilligen Gerichtsbarkeit bezeichneten
 Entscheidung findet nicht statt.
-
 
 ## § 8
 
@@ -131,7 +122,6 @@ zu machen. § 435 Abs. 1 Satz 2 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit gilt entsprechend.
 
-
 ## § 9
 
 Im Verfahren nach den vorstehenden Vorschriften beträgt der Wert des
@@ -139,11 +129,9 @@ Streitgegenstands ein Fünftel des Wertes der dem Antragsteller noch
 zustehenden Hypothek. Das Gericht kann den Wert aus besonderen Gründen
 anders festsetzen.
 
-
 ## § 10
 
 (weggefallen)
-
 
 ## § 11
 
@@ -154,19 +142,16 @@ Ausschließungsbeschluss gleich.
 
 (2) Die Erteilung eines neuen Briefes ist gebührenfrei.
 
-
 ## § 12
 
 Für einen Rechtsstreit, der die Herausgabe des Briefes oder das Recht
 aus der Hypothek betrifft, ist das Gericht ausschließlich zuständig,
 in dessen Bezirk das belastete Grundstück gelegen ist.
 
-
 ## § 13
 
 Die Vorschriften dieses Gesetzes über Hypothekenbriefe gelten
 sinngemäß für Grundschuldbriefe und Rentenschuldbriefe.
-
 
 ## § 14
 
@@ -177,7 +162,6 @@ Bürgerlichen Gesetzbuchs.
 
 (2) Für einen Rechtsstreit, der den Anspruch auf den hinterlegten
 Betrag betrifft, gilt § 12 sinngemäß.
-
 
 ## § 15
 

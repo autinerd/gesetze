@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1682
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 42 Abs. 1 in Verbindung mit Abs. 2 der
@@ -30,7 +28,6 @@ mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August
 Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft
 und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -71,7 +68,6 @@ verantwortlich wahrnehmen zu können:
 Geprüfter Schließ- und Sicherungstechniker/zur Geprüften Schließ- und
 Sicherungstechnikerin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -110,7 +106,6 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, eine berufliche Handlungsfähigkeit im Sinne des § 1 Abs. 3 des
 Berufsbildungsgesetzes erworben zu haben, die die Zulassung zur
 Prüfung rechtfertigt.
-
 
 ## § 3 Gliederung und Struktur der Prüfung
 
@@ -379,10 +374,6 @@ diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 4.  Fördern des Kostenbewusstseins der Mitarbeiter und Mitarbeiterinnen
     bei unterschiedlichen Formen der Arbeitsorganisation.
 
-
-
-
-
 ## § 4 Integrierte Durchführung der Prüfung
 
 (1) Die Prüfung besteht aus drei integrierten handlungsorientierten
@@ -448,7 +439,6 @@ mündlichen Ergänzungsprüfung werden zu einer Note zusammmengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
 
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann auf Antrag
@@ -459,7 +449,6 @@ einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt
 wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach
 dieser Verordnung entspricht. Eine Freistellung von der
 Prüfungsleistung nach § 4 Abs. 1 Nr. 2 ist nicht möglich.
-
 
 ## § 6 Bewertung und Bestehen der Prüfung
 
@@ -474,7 +463,6 @@ wurden.
 Anlage 1 und der Anlage 2 auszustellen. Im Fall der Freistellung nach
 § 5 sind Ort und Datum sowie das Prüfungsgremium und die Bezeichnung
 der anderweitig abgelegten Prüfung anzugeben.
-
 
 ## § 7 Wiederholung der Prüfung
 
@@ -492,11 +480,9 @@ Abweichend von Satz 1 können auch bestandene Prüfungsleistungen auf
 Antrag einmal wiederholt werden; in diesem Fall ist das Ergebnis der
 letzten Prüfung maßgeblich.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
@@ -526,7 +512,6 @@ bestanden.
 Datum ............................................
 Unterschrift(en) .................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 6 Abs. 3)
 

@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 25.4.1985 I 722
 
-
 ## § 1 Zweck der Prüfung
 
 (1) Die Prüfung bildet den Abschluß der weiterführenden Lehrgänge
@@ -52,12 +51,10 @@ Kenntnisse und geistigen Fähigkeiten nachweisen, die für das Studium
 an einer wissenschaftlichen Hochschule oder für eine Ausbildung
 außerhalb der Hochschule gefordert werden.
 
-
 ## § 2 Zeit und Ort der Prüfung
 
 Die Prüfung findet am Ende des Lehrgangs an der Bundeswehrfachschule
 statt.
-
 
 ## § 3 Meldung zur Prüfung
 
@@ -87,10 +84,6 @@ vorzulegen. Der Meldung sind beizufügen
     Abschlußzeugnis des Lehrgangs nach § 1 Abs. 3 und der Nachweis einer
     einschlägigen abgeschlossenen Berufsausbildung oder einer
     hinreichenden einschlägigen Berufserfahrung.
-
-
-
-
 
 ## § 4 Prüfungsausschuß
 
@@ -153,7 +146,6 @@ Unterausschuß gehören ein Vorsitzender, ein Fachprüfer, mindestens ein
 Fachbeisitzer und ein Schriftführer an. Der Fachbeisitzer kann
 gleichzeitig Schriftführer sein.
 
-
 ## § 5 Zulassung zur Prüfung
 
 (1) Der Leiter der Bundeswehrfachschule legt dem Vorsitzenden des
@@ -178,7 +170,6 @@ teilt dem Leiter der Bundeswehrfachschule seine Entscheidung mit.
 Dieser gibt sie unverzüglich den Prüflingen bekannt. Auf Antrag teilt
 der Schulleiter dem Prüfling die von ihm erzielten Lehrgangsleistungen
 gemäß Prüfungsliste mit.
-
 
 ## § 6 Prüfungsfächer
 
@@ -282,7 +273,6 @@ stehen den Prüflingen je drei Themen zur Wahl.
 denen im letzten Studienhalbjahr des weiterführenden Lehrgangs
 unterrichtet wurde.
 
-
 ## § 7 Prüfungsvorbereitungen
 
 (1) Der Leiter der Bundeswehrfachschule legt dem Vorsitzenden des
@@ -324,7 +314,6 @@ Prüfung aus. Er kann die Vorschläge ändern oder neue anfordern.
 gewählten Vorschläge nach Fächern getrennt im verschlossenen Umschlag
 an den Leiter der Bundeswehrfachschule zurück.
 
-
 ## § 8 Schriftliche Prüfung
 
 (1) Der Leiter der Bundeswehrfachschule bestimmt im Einvernehmen mit
@@ -360,7 +349,6 @@ fest. Die Noten sind in die Prüfungsliste einzutragen.
 (6) Auf Antrag teilt der Schulleiter dem Prüfling vor der mündlichen
 Prüfung das von ihm erzielte Ergebnis der schriftlichen
 Prüfungsarbeiten mit.
-
 
 ## § 9 Mündliche Prüfung
 
@@ -428,7 +416,6 @@ eingreifen.
 zuständigen Prüfer festgesetzt. Sie sind in die Prüfungsliste
 einzutragen.
 
-
 ## § 10 Niederschriften
 
 (1) Über den Verlauf der schriftlichen und mündlichen Prüfung sind
@@ -479,7 +466,6 @@ unterschreiben.
 
 
 Die Niederschrift ist vom Vorsitzenden zu unterschreiben.
-
 
 ## § 11 Festsetzung der Endnoten
 
@@ -546,7 +532,6 @@ Zwischennoten sind unzulässig.
 worden ist, werden die in der Bundeswehrfachschule zuletzt erteilten
 Noten in das Abschlußzeugnis übernommen.
 
-
 ## § 12 Ergebnis der Prüfung, Einspruchsrecht
 
 (1) Das Gesamtergebnis der Prüfung lautet "bestanden" oder "nicht
@@ -582,7 +567,6 @@ den Prüfungsvorsitzenden entsandt hat, ist dabei zu beteiligen.
 Prüfungsausschusses das Ergebnis der Prüfung durch den Vorsitzenden
 bekanntzugeben.
 
-
 ## § 13 Prüfungszeugnis
 
 (1) Nach bestandener Prüfung erhält der Prüfling ein Abschlußzeugnis,
@@ -596,7 +580,6 @@ und dem Leiter der Bundeswehrfachschule zu unterschreiben.
 (3) Lehrgangsteilnehmer, die die Prüfung nicht abgelegt oder nicht
 bestanden haben, erhalten auf Antrag an Stelle des Abschlußzeugnisses
 eine Bescheinigung über den Besuch der Bundeswehrfachschule.
-
 
 ## § 14 Täuschungsversuch, Rücktritt
 
@@ -618,7 +601,6 @@ Prüfung als nicht bestanden.
 Bundeswehrfachschule den Prüflingen die Bestimmungen der Absätze 1 bis
 3 bekanntzugeben.
 
-
 ## § 14a Nichtteilnahme an der Prüfung
 
 Meldet sich ein Lehrgangsteilnehmer der Abschlußklasse eines
@@ -626,13 +608,11 @@ weiterführenden Lehrgangs nicht zur Abschlußprüfung, so gilt die
 Prüfung als nicht bestanden, es sei denn, der Prüfungsausschuß erkennt
 die Gründe für das Versäumnis an.
 
-
 ## § 15 Wiederholung der Prüfung
 
 Der Prüfling, der die Prüfung nicht bestanden hat oder dessen Prüfung
 als nicht bestanden gilt, kann die Prüfung einmal wiederholen, und
 zwar frühestens nach 6 Monaten.
-
 
 ## § 16 Verbleib der Prüfungsakten
 
@@ -640,11 +620,9 @@ Die Prüfungsakten werden fünf Jahre an der Bundeswehrfachschule
 aufbewahrt. Vor ihrer Vernichtung sind die Personalien der Prüflinge,
 der Zeitpunkt und das Ergebnis der Prüfung listenmäßig zu erfassen.
 
-
 ## § 17
 
 (Aufhebung)
-
 
 ## § 18
 

@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1967, 937 (1184)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -38,7 +35,6 @@ Vergleichszahlen festgesetzt. Sie sind
 
 zu entnehmen.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -46,11 +42,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1 Nr. 1) Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung
 
@@ -3425,10 +3419,6 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *   31
 
     *   H
-
-
-
-
 
 ## Anlage 2 (zu § 1 Nr. 2) Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
 

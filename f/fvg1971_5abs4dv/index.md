@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 19 G v. 22.9.2005 I 2809
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 4 des Finanzverwaltungsgesetzes in der Fassung
@@ -26,7 +25,6 @@ der Bekanntmachung vom 30. August 1971 (BGBl. I S. 1426, 1427), der
 durch Artikel 12 Nr. 2 Buchstabe b des Gesetzes vom 20. Dezember 2001
 (BGBl. I S. 3794) eingefügt worden ist, verordnet das
 Bundesministerium der Finanzen:
-
 
 ## § 1 Abrechnung durch das Bundeszentralamt für Steuern
 
@@ -38,7 +36,6 @@ abzurechnen (§ 5 Abs. 4 des Finanzverwaltungsgesetzes). Das
 Bundeszentralamt für Steuern bedient sich zur Feststellung der Anteile
 der einzelnen Länder der zentralen Stelle nach § 81 des
 Einkommensteuergesetzes.
-
 
 ## § 2 Länderweise Aufteilung der Länder- und Gemeindeanteile
 
@@ -57,7 +54,6 @@ einzelnen Länder einschließlich ihrer Gemeinden entfallenden
 Mitfinanzierungsanteile sowie die ihnen zugrunde liegende länderweise
 Aufteilung zu.
 
-
 ## § 3 Erstattung durch die Länder
 
 Die nach § 2 festgestellten Anteile der einzelnen Länder
@@ -65,11 +61,9 @@ einschließlich ihrer Gemeinden sind von den Ländern bis zum 15. des
 Abrechnungsmonats an die Bundeskasse Berlin zugunsten des
 Lohnsteuertitels zu überweisen.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
-
 
 ## Schlussformel
 

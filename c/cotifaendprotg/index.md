@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 310 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -37,7 +35,6 @@ am 28. bis 31. Mai 1990 (BGBl. 1991 II S. 679) beschlossenen
 Änderungen sowie durch das Protokoll vom 20. Dezember 1990 (BGBl. 1992
 II S. 1182) - wird zugestimmt. Das Protokoll wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -73,7 +70,6 @@ ermächtigt,
 
 durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu
 setzen.
-
 
 ## Art 5
 

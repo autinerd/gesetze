@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 7 G v. 16.8.2001 I 2093
 
-
 ## § 1 Flugdienst
 
 (1) Flugdienst im Sinne des § 63 Abs. 1 Nr. 1 und 2 des
@@ -69,10 +68,6 @@ bei Drehflüglern mit dem Aufsetzen oder dem Ausrollen.
     Dienstverrichtungen im Gefahrenbereich der Rotoren eines Drehflüglers
     oder beim Ab- oder Aufseilen an einem Drehflügler.
 
-
-
-
-
 ## § 2 Fliegendes Personal
 
 (1) Soldaten, die zur Besatzung eines einsitzigen oder zweisitzigen
@@ -114,7 +109,6 @@ Personals.
 (3) Für Soldaten, die auf Grund eines Befehls in einem Luftfahrzeug
 des Bundes, eines Landes oder der verbündeten Streitkräfte mitfliegen,
 gelten die Absätze 1 und 2 sinngemäß.
-
 
 ## § 3 Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
 
@@ -181,10 +175,6 @@ Nr. 6) liegt vor
 
 3.  wenn das Luftfahrzeug steuerungsunfähig ist.
 
-
-
-
-
 ## § 4 Springendes Personal der Luftlandetruppen
 
 Soldaten, die
@@ -205,7 +195,6 @@ Soldaten, die
 sind für die Dauer des Sprungdiensts (§ 5) springendes Personal der
 Luftlandetruppen.
 
-
 ## § 5 Sprungdienst
 
 Sprungdienst ist
@@ -216,10 +205,6 @@ Sprungdienst ist
 
 2.  der Fallschirmabsprung vom Zeitpunkt des Absprungs aus dem
     Luftfahrzeug bis zur Beendigung des Gesamtabsetzvorgangs.
-
-
-
-
 
 ## § 6 Soldaten im Bergrettungsdienst
 
@@ -251,7 +236,6 @@ Schwierigkeitsgrad II oder unter sonstigen Bedingungen, mit denen eine
 besondere Lebensgefahr verbunden ist. Ausbildung sind auch alle
 Dienstverrichtungen im Sinne des Satzes 1, die notwendig sind, um den
 Soldaten für die Bergnothilfe in Übung zu halten.
-
 
 ## § 7 Kampfschwimmer und Minentaucher
 
@@ -290,7 +274,6 @@ verschiedenen Minentauchverfahren in stehenden und strömenden
 Gewässern unter Fortfall der sonst im Taucherdienst der Marine
 üblichen Sicherheitsvorkehrungen.
 
-
 ## § 8 Minendemonteure
 
 (1) Minentaucher, die zu Dienstverrichtungen nach Absatz 2
@@ -299,7 +282,6 @@ Minendemonteure.
 
 (2) Der dienstliche Einsatz an Minen unter Wasser umfaßt das
 Klassifizieren, Identifizieren und Beseitigen von Minen.
-
 
 ## § 9 Versuchspersonal für die Erprobung von Minen und ähnlichen Kampfmitteln
 
@@ -324,7 +306,6 @@ Stoffe enthalten oder aus solchen Stoffen bestehen.
 Wiederaufnehmen und sonstige dienstliche Verrichtungen, soweit die
 Tätigkeiten mit der Erprobung im Zusammenhang stehen.
 
-
 ## § 10 Munitionsuntersuchungspersonal
 
 (1) Soldaten, die zur Untersuchung von Munition eingesetzt, und
@@ -344,7 +325,6 @@ Dienstverrichtungen, die mit der Untersuchung im Zusammenhang stehen,
 insbesondere das Suchen, Markieren, Freilegen, Befördern, Zerlegen und
 Vernichten sowie das Entfernen, Auswechseln und Hinzufügen von Teilen.
 
-
 ## § 11 Besonders gefährlicher Einsatz mit tauchfähigen Landfahrzeugen oder schwimmfähigen gepanzerten Landfahrzeugen
 
 (1) Soldaten, die zur Besatzung eines tauchfähigen Landfahrzeugs
@@ -362,7 +342,6 @@ mit der Ausfahrt aus dem Wasser.
 Grund eines Befehls oder aus sonstigen dienstlichen Gründen in einem
 tauchfähigen Landfahrzeug oder einem schwimmfähigen gepanzerten
 Landfahrzeug mitfahren.
-
 
 ## § 12 U-Boot-Besatzungen
 
@@ -382,7 +361,6 @@ Rettungsmittel ausgebildet oder in Übung gehalten zu werden.
 (3) U-Boote im Sinne der Absätze 1 und 2 sind auch die U-Boote der
 verbündeten Streitkräfte.
 
-
 ## § 13 Helm- und Schwimmtaucher
 
 (1) Soldaten, die zu Unterwasserarbeiten mit einem Helmtauchgerät
@@ -398,10 +376,6 @@ a)  des Helmtauchers vom Schließen bis zum Öffnen des Helmfensters;
 
 b)  des Schwimmtauchers vom Auf- bis zum Absetzen der Schwimmaske.
 
-
-
-
-
 ## § 14 Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
 
 (1) Soldaten, die unterhalb eines Drehflügelflugzeuges im Schwebeflug
@@ -412,7 +386,6 @@ und Erprobung.
 (2) Das Ein- oder Aushängen von Außenlasten ist eine
 Dienstverrichtung, bei der die Einhängeöse eines Außenlastgerätes in
 den oder aus dem Lasthaken ein- oder ausgehängt wird.
-
 
 ## § 15 Angehörige des Kommandos Spezialkräfte
 
@@ -427,13 +400,11 @@ besonderen militärischen Einsatz oder in der Ausbildung dazu
 vorgenommen wird und die nach der Art des Einsatzes oder der
 Ausbildung über die im Militärdienst übliche Gefährdung hinausgeht.
 
-
 ## § 16 Andere Angehörige des öffentlichen Dienstes im Bereich der Bundeswehr
 
 Für Beamte, Angestellte und Arbeiter, die ihre Dienstobliegenheiten im
 Bereich der Bundeswehr verrichten, gelten die §§ 1 bis 15
 entsprechend.
-
 
 ## § 17 Inkrafttreten
 

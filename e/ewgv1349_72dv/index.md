@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 3 Satz 1 und des § 2 Abs. 2 des
@@ -37,7 +36,6 @@ Abs. 3 des Gesetzes über Ordnungswidrigkeiten vom 24. Mai 1968
 Entschädigung für Strafverfolgungsmaßnahmen (StrEG) vom 8. März 1971
 (Bundesgesetzbl. I S. 157), vom Bundesminister für Ernährung,
 Landwirtschaft und Forsten verordnet:
-
 
 ## § 1 Verbot des Inverkehrbringens
 
@@ -137,7 +135,6 @@ Erzeugerbetrieb oder in der Brüterei mit einem deutlich sichtbaren
 schwarzen Punkt aus unverwischbarer Farbe gekennzeichnet werden. Der
 Punkt muss eine Größe von mindestens 10 mm² haben.
 
-
 ## § 2 Begleitpapier für Küken
 
 Das Begleitpapier für Küken nach Artikel 5 der Verordnung (EG) Nr.
@@ -147,7 +144,6 @@ sein. Das Doppel des Begleitpapiers ist zum Zwecke der Weiterleitung
 an die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 bei der Zolldienststelle abzugeben, die die Küken zur Einfuhr oder
 Ausfuhr abfertigt.
-
 
 ## § 3 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
 
@@ -164,7 +160,6 @@ Einfuhr von Bruteiern und Küken
 
 
 wird der Bundesanstalt übertragen.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -209,7 +204,6 @@ sonst in den Verkehr bringt oder einführt.
 3 Satz 1 Nr. 2 des Handelsklassengesetzes mit einer Geldbuße bis zu
 zehntausend Euro geahndet werden.
 
-
 ## § 5 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
 
 Bei Ordnungswidrigkeiten nach § 7 Abs. 1 Nr. 4 des
@@ -218,11 +212,9 @@ Absatz 3 Nummer 2 ist die Bundesanstalt Verwaltungsbehörde im Sinne
 des Gesetzes über Ordnungswidrigkeiten, soweit sie nach § 3 für die
 Überwachung zuständig ist.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (weggefallen)
 

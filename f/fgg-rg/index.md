@@ -25,11 +25,9 @@ Stand: Aufgenommen wegen Art. 111
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 111 Übergangsvorschrift
 
@@ -80,7 +78,6 @@ Verfahren im Verbund stehenden Scheidungs- und Folgesachen ab dem 1.
 September 2010 die nach Inkrafttreten des Gesetzes zur Reform des
 Verfahrens in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit geltenden Vorschriften anzuwenden.
-
 
 ## Art 112 Inkrafttreten, Außerkrafttreten
 

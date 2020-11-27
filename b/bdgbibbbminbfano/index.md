@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1460
 
-
-
 ## (XXXX)
 
 Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 und § 84 Satz 2 des

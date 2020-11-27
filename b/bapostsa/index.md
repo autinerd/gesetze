@@ -20,16 +20,12 @@ Fundstelle
 Geändert durch
 :   Art. 11 G v. 7.5.2002 I 1529
 
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### § 1 Name, Sitz
 
 Die Anstalt führt den Namen "Bundesanstalt für Post und
 Telekommunikation Deutsche Bundespost". Sie hat ihren Sitz in Bonn.
-
 
 ### § 2 Gegenstand
 
@@ -48,14 +44,12 @@ betreiben.
 nicht teil. Der Abschluß von Beherrschungsverträgen mit den
 Aktiengesellschaften ist der Anstalt untersagt.
 
-
 ### § 3 Rechtsform
 
 Die Anstalt ist eine rechtsfähige Anstalt des öffentlichen Rechts. Als
 solche kann sie in eigenem Namen am Rechtsverkehr teilnehmen, handeln,
 klagen und verklagt werden. Klagen zwischen dem Bund und der Anstalt
 hinsichtlich fachaufsichtlicher Maßnahmen sind ausgeschlossen.
-
 
 ### § 4 Aufsicht
 
@@ -65,7 +59,6 @@ Bundesministerium für Post und Telekommunikation.
 
 (2) Die Wirtschaftsführung der Anstalt unterliegt der Prüfung durch
 den Bundesrechnungshof.
-
 
 ### § 5 Organe
 
@@ -82,7 +75,6 @@ den Bundesrechnungshof.
 (2) Die Organe besitzen die ihnen durch das Bundesanstalt Post-Gesetz
 und diese Satzung zugewiesenen Aufgaben und Befugnisse.
 
-
 ### § 6 Vertretung
 
 (1) Die Anstalt wird nach Maßgabe der weiteren Satzungsbestimmungen
@@ -96,10 +88,7 @@ bevollmächtigten Vertreter abgegeben werden.
 (3) Ist eine Erklärung einem Organ der Anstalt gegenüber abzugeben, so
 genügt die Abgabe gegenüber einem Mitglied dieses Organs.
 
-
 ## II. - Vorstand
-
-
 
 ### § 7 Zusammensetzung
 
@@ -118,7 +107,6 @@ erforderlich; dieser entscheidet, inwieweit eine Vergütung abzuführen
 ist. Eine Mitgliedschaft im Vorstand einer der drei
 Aktiengesellschaften ist ausgeschlossen.
 
-
 ### § 8 Bestellung und Abberufung
 
 (1) Der Vorsitzende und das weitere Mitglied des Vorstands werden vom
@@ -131,7 +119,6 @@ entsprechenden Urkunde wirksam, wenn nicht in der Urkunde ein späterer
 Tag bestimmt ist.
 
 (3) Eine Abberufung kann nur aus wichtigem Grunde erfolgen.
-
 
 ### § 9 Anstellungsverhältnis
 
@@ -147,14 +134,12 @@ Anstellungsverträge geregelt, die der Bundesminister für Post und
 Telekommunikation im Einvernehmen mit dem Bundesminister der Finanzen
 mit den Mitgliedern schließt.
 
-
 ### § 10 Geschäftsordnungen
 
 (1) Der Vorstand gibt sich eine Geschäftsordnung.
 
 (2) Der Vorstand erläßt nach Beschlußfassung durch den Verwaltungsrat
 eine Allgemeine Geschäftsordnung für die Anstalt.
-
 
 ### § 11 Aufgaben
 
@@ -192,10 +177,6 @@ ist insbesondere zuständig für:
 
 4.  den Abschluß von Tarifverträgen für die Beschäftigten der Anstalt.
 
-
-
-
-
 ### § 12 Pflichten
 
 (1) Der Vorstand ist der Aufsichtsbehörde und dem Verwaltungsrat
@@ -228,10 +209,6 @@ ausreichender Stückzahl zuzuleiten.
 2.  dem Verwaltungsrat Beschlußvorlagen an die Aufsichtsbehörde
     zuzuleiten.
 
-
-
-
-
 ### § 13 Beschlußfassung
 
 Der Vorstand soll Beschlüsse einvernehmlich fassen. Kommt eine
@@ -239,7 +216,6 @@ Der Vorstand soll Beschlüsse einvernehmlich fassen. Kommt eine
 Ausschlag. In Angelegenheiten, die nur einen Vorstandsbereich
 betreffen, gibt die Stimme des zuständigen Vorstandsmitglieds den
 Ausschlag.
-
 
 ### § 14 Geschäftsbesorgung durch Dritte
 
@@ -250,10 +226,7 @@ Aktiengesellschaften am Kapitalmarkt erforderliche Geschäftsbesorgung
 vertraglich auf Dritte übertragen werden. Der Vorstand hat hierzu
 zuvor die Zustimmung der Aufsichtsbehörde einzuholen.
 
-
 ## III. - Verwaltungsrat
-
-
 
 ### § 15 Zusammensetzung
 
@@ -287,7 +260,6 @@ Interessenvertretungen.
 
 (3) Die Mitglieder des Verwaltungsrats sollen Gewähr für eine
 sachkundige Wahrnehmung ihrer Aufgaben bieten.
-
 
 ### § 16 Bestellung und Abberufung
 
@@ -331,13 +303,11 @@ Ergebnis ist der Aufsichtsbehörde unverzüglich mitzuteilen.
 die es berufen ist, aus, so wird unverzüglich ein Ersatzmitglied für
 die restliche Zeit bestellt.
 
-
 ### § 17 Aufwandsentschädigung
 
 Die Mitglieder des Verwaltungsrats erhalten Ersatz ihrer Auslagen und
 eine angemessene Aufwandsentschädigung, die die Aufsichtsbehörde
 festsetzt.
-
 
 ### § 18 Stellvertretender Vorsitz
 
@@ -353,7 +323,6 @@ Mehrheit entscheidet. Im Falle einer Stimmengleichheit bei der
 Stichwahl entscheidet das Los. Ist in diesem Wahlgang nur ein Bewerber
 vorhanden, so ist ebenfalls die einfache Mehrheit ausreichend.
 
-
 ### § 19 Aufgaben
 
 (1) Der Verwaltungsrat überwacht die Geschäftsführung durch den
@@ -368,13 +337,11 @@ Anstalt gerichtlich und außergerichtlich. Er entscheidet über
 Beschwerden gegen Mitglieder des Vorstands. Die Befugnisse der
 Aufsichtsbehörde bleiben unberührt.
 
-
 ### § 20 Geschäftsordnung
 
 Zur Regelung seiner inneren Ordnung gibt sich der Verwaltungsrat eine
 Geschäftsordnung, die der Genehmigung der Aufsichtsbehörde bedarf.
 Nach Maßgabe der Geschäftsordnung können Ausschüsse gebildet werden.
-
 
 ### § 21 Sitzungen und Beschlußfassungen
 
@@ -432,7 +399,6 @@ Planungskonferenzen mit den Aktiengesellschaften gilt § 35.
 
 (12) Die Sitzungen sind nicht öffentlich.
 
-
 ### § 22 Rechte und Pflichten
 
 (1) Der Verwaltungsrat ist vor der Bestellung und Abberufung von
@@ -484,7 +450,6 @@ dieser Frist kein Beschluß, gilt die Vorlage als genehmigt.
 (6) Die Mitglieder des Verwaltungsrats sind entsprechend den
 Vorschriften des Aktiengesetzes zur Verschwiegenheit verpflichtet.
 
-
 ### § 23 Einspruch gegen Beschlüsse des Verwaltungsrats
 
 (1) Der Vorstand kann gegen einen nach § 22 Abs. 3 gefaßten Beschluß
@@ -504,10 +469,7 @@ Bundesminister für Post und Telekommunikation auf Vorlage des
 Vorstands endgültig. Kommt die nach Satz 1 erforderliche Mehrheit
 nicht zustande, gilt die Vorlage des Vorstands als beschlossen.
 
-
 ## IV. - Wirtschaftsführung
-
-
 
 ### § 24 Finanzierung
 
@@ -526,7 +488,6 @@ Aktiengesellschaften oder zur Abführung an den Bund verwenden.
 (3) Die mit der Aufgabenwahrnehmung nach Abschnitt VII der Satzung
 verbundenen Ausgaben werden aus den mit den Unternehmen vertraglich
 vereinbarten Entgelten finanziert.
-
 
 ### § 25 Wirtschaftsplan
 
@@ -566,7 +527,6 @@ Ausgaben zu leisten, um den laufenden Betrieb der Anstalt
 aufrechtzuerhalten, rechtlich begründete Verpflichtungen der Anstalt
 zu erfüllen und begonnene Investitionen fortzuführen.
 
-
 ### § 26 Jahresabschluß
 
 (1) Der Vorstand stellt für jedes Geschäftsjahr einen Jahresabschluß
@@ -602,7 +562,6 @@ Aufsichtsbehörde zur Genehmigung vorzulegen.
 Lagebericht enthält, ist dem Verwaltungsrat und der Aufsichtsbehörde
 vorzulegen.
 
-
 ### § 27 Entlastung des Vorstands
 
 (1) Der Verwaltungsrat beschließt unter Berücksichtigung der
@@ -616,10 +575,7 @@ bei.
 (3) Die Entlastung ist der Aufsichtsbehörde zur Genehmigung
 vorzulegen.
 
-
 ## V. - Personal
-
-
 
 ### § 28 Beamte, Angestellte, Arbeiter
 
@@ -647,10 +603,7 @@ den Vorstand abgeschlossen.
 (6) Der Vorstand ist Vorgesetzter der Angestellten und Arbeiter der
 Anstalt.
 
-
 ## VI. - Aufgabenwahrnehmung für den Bund
-
-
 
 ### § 29 Aktienverwaltung
 
@@ -665,7 +618,6 @@ Anstalt der Genehmigung der Aufsichtsbehörde.
 (3) Dies gilt auch für den Handel mit Bezugsrechten auf Aktien und
 vergleichbare Geschäfte.
 
-
 ### § 30 Erwerb von Aktien
 
 Die Anstalt erwirbt Aktien für den Bund insbesondere zu folgenden
@@ -679,10 +631,6 @@ Zwecken:
 
 
 3.  zur Kurspflege.
-
-
-
-
 
 ### § 31 Veräußerung von Aktien
 
@@ -711,7 +659,6 @@ Zwecken:
 Aktiengesellschaften einen Nachlaß gewähren. Ein Nachlaß wird nur für
 die Aktien der Gesellschaft gewährt, der die Belegschaftsmitglieder
 angehören.
-
 
 ### § 32 Ausübung von Mitgliedschaftsrechten
 
@@ -762,7 +709,6 @@ Anfechtungsgründen.
 Gesetzes als zur Stimmrechtsausübung bevollmächtigt im Sinne des § 134
 Abs. 3 des Aktiengesetzes.
 
-
 ### § 33 Einführung am Kapitalmarkt
 
 (1) Die Anstalt veräußert in enger Abstimmung mit den
@@ -774,7 +720,6 @@ Aktienplazierung erfahrene Emissionshäuser hinzu.
 
 (3) Vor Vertragsabschluß mit den Emissionshäusern ist die Zustimmung
 der Aufsichtsbehörde einzuholen.
-
 
 ### § 34 Verlustausgleich
 
@@ -793,10 +738,7 @@ anderer Ausgleich zu erlangen ist.
 (4) Die Entscheidung über einen Verlustausgleich bedarf der
 Genehmigung der Aufsichtsbehörde.
 
-
 ## VII. - Aufgabenwahrnehmung in bezug auf die Unternehmen
-
-
 
 ### § 35 Planungskonferenzen
 
@@ -819,7 +761,6 @@ Verständigung erörtert.
 
 (5) Die Planungskonferenzen sind nicht öffentlich.
 
-
 ### § 36 Koordinierung durch Beratung
 
 (1) Die Anstalt kann, auch auf Antrag eines Unternehmens, insbesondere
@@ -828,18 +769,15 @@ bei gegensätzlichen Unternehmensplanungen durch Beratung koordinieren.
 (2) Ein Entscheidungsrecht über die Unternehmenspolitik der
 Aktiengesellschaften steht der Anstalt nicht zu.
 
-
 ### § 37 Erscheinungsbild
 
 Die Anstalt kann Anregungen geben, wie das äußere Erscheinungsbild der
 Aktiengesellschaften zu gestalten ist.
 
-
 ### § 38 Führungsgrundsätze
 
 Die Anstalt kann auf Antrag ein Unternehmen bei der Ausarbeitung von
 Personalführungsgrundsätzen beraten.
-
 
 ### § 39 Manteltarifverträge
 
@@ -856,7 +794,6 @@ Arbeiter und Auszubildenden bei den Aktiengesellschaften regeln die
 Aktiengesellschaften selbständig und eigenverantwortlich durch
 Tarifverträge.
 
-
 ### § 40 Soziale Aufgaben
 
 (1) Die Anstalt führt die in § 26 des Bundesanstalt Post-Gesetzes
@@ -872,10 +809,7 @@ Aktiengesellschaften fest.
 (4) Innerhalb der Anstalt werden die sozialen Aufgaben von einer
 Stelle wahrgenommen.
 
-
 ## VIII. - Schlußbestimmungen
-
-
 
 ### § 41 Veröffentlichung
 
@@ -883,7 +817,6 @@ Die Satzung sowie die Namen der Mitglieder des Vorstands sind nach dem
 Inkrafttreten beziehungsweise nach der Bestellung sowie bei jeder
 Veränderung im Bundesanzeiger bekanntzumachen. Bekanntzumachen ist
 auch der Jahresabschluß der Anstalt.
-
 
 ### § 42 Inkrafttreten
 

@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 5.12.2012 I 2415
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Anwendungsbereich und Begriffsbestimmungen
 
@@ -54,7 +52,6 @@ Person oder die Gesellschaft, deren Anteile im Sinne des Absatzes 2
 Nummer 1 bis 3 oder deren Genussrechte oder von ihr ausgegebene
 Namensschuldverschreibungen als Vermögensanlagen im Inland öffentlich
 angeboten werden.
-
 
 ### § 2 Ausnahmen für einzelne Arten von Vermögensanlagen
 
@@ -165,10 +162,6 @@ Die §§ 6 bis 26 dieses Gesetzes sind nicht anzuwenden auf
     Zugangsbedingungen hat, für das Publikum unmittelbar oder mittelbar
     zugänglich ist und unter der Verantwortung seines Betreibers steht.
 
-
-
-
-
 ### § 3 Aufsicht, Anordnungsbefugnis
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt)
@@ -178,7 +171,6 @@ Rahmen der Aufsicht alle Anordnungen zu treffen, die erforderlich und
 geeignet sind, um das Angebot von Vermögensanlagen mit diesem Gesetz
 und den auf Grund dieses Gesetzes erlassenen Bestimmungen im Einklang
 zu erhalten.
-
 
 ### § 4 Verschwiegenheitspflicht
 
@@ -230,7 +222,6 @@ Stelle eines anderen Staates im Sinne des Absatzes 1 Satz 3 Nummer 2
 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden
 sind.
 
-
 ### § 5 Bekanntgabe und Zustellung
 
 (1) Verfügungen, die gegenüber einer Person mit Wohnsitz im Ausland
@@ -252,12 +243,9 @@ benennen, an die Bekanntgaben nach Absatz 1 und Zustellungen nach
 Absatz 2 erfolgen können. Die Benennung hat gleichzeitig mit der
 Einreichung des Verkaufsprospekts zur Billigung nach § 8 zu erfolgen.
 
-
 ## Abschnitt 2 - Verkaufsprospekt, Vermögensanlagen-Informationsblatt und Information der Anleger
 
-
 ### Unterabschnitt 1 - Pflichten des Anbieters
-
 
 #### § 6 Pflicht zur Veröffentlichung eines Verkaufsprospekts
 
@@ -266,7 +254,6 @@ einen Verkaufsprospekt nach diesem Gesetz veröffentlichen, sofern
 nicht bereits nach anderen Vorschriften eine Prospektpflicht besteht
 oder ein Verkaufsprospekt nach den Vorschriften dieses Gesetzes
 bereits veröffentlicht worden ist.
-
 
 #### § 7 Inhalt des Verkaufsprospekts
 
@@ -341,10 +328,6 @@ Verkaufsprospekt abgesehen werden kann,
     Aufnahme in den Verkaufsprospekt ein erheblicher Schaden beim
     Emittenten der Vermögensanlagen zu befürchten wäre.
 
-
-
-
-
 #### § 8 Billigung des Verkaufsprospekts
 
 (1) Ein Verkaufsprospekt darf vor seiner Billigung nicht
@@ -364,7 +347,6 @@ dem diese Informationen eingehen. Die Bundesanstalt soll den Anbieter
 Verkaufsprospekts oder über die Notwendigkeit ergänzender
 Informationen innerhalb von zehn Werktagen ab Eingang des
 Verkaufsprospekts informieren.
-
 
 #### § 9 Frist und Form der Veröffentlichung
 
@@ -390,7 +372,6 @@ Fundstelle im elektronischen Informationsverbreitungssystem
 hinzuweisen. Der Anbieter hat der Bundesanstalt Datum und Ort der
 Veröffentlichung unverzüglich schriftlich mitzuteilen.
 
-
 #### § 10 Veröffentlichung eines unvollständigen Verkaufsprospekts
 
 Werden einzelne Angebotsbedingungen erst kurz vor dem öffentlichen
@@ -400,7 +381,6 @@ Angaben nachgetragen werden. Die nachzutragenden Angaben sind
 spätestens am Tag des öffentlichen Angebots entsprechend § 9 Absatz 2
 Satz 1 und 2 zu veröffentlichen. Die nachzutragenden Angaben sind der
 Bundesanstalt spätestens am Tag ihrer Veröffentlichung zu übermitteln.
-
 
 #### § 11 Veröffentlichung ergänzender Angaben
 
@@ -429,7 +409,6 @@ des Widerrufs ist § 357 des Bürgerlichen Gesetzbuchs entsprechend
 anzuwenden. Der Nachtrag muss an hervorgehobener Stelle eine Belehrung
 über das Widerrufsrecht enthalten.
 
-
 #### § 12 Hinweis auf den Verkaufsprospekt
 
 Der Anbieter ist verpflichtet, in Veröffentlichungen, in denen das
@@ -437,7 +416,6 @@ Der Anbieter ist verpflichtet, in Veröffentlichungen, in denen das
 wesentlichen Merkmale der Vermögensanlagen hingewiesen wird, einen
 Hinweis auf den Verkaufsprospekt und dessen Veröffentlichung
 aufzunehmen.
-
 
 #### § 13 Vermögensanlagen-Informationsblatt
 
@@ -529,7 +507,6 @@ Informationsblätter erlassen. Das Bundesministerium der Finanzen kann
 diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 übertragen.
 
-
 #### § 14 Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts
 
 (1) Der Anbieter muss den für die Vermögensanlagen zu erstellenden
@@ -555,7 +532,6 @@ Anbieter der Bundesanstalt eine aktualisierte Fassung des
 Vermögensanlagen-Informationsblatts zum Zweck der Hinterlegung zu
 übermitteln.
 
-
 #### § 15 Anlegerinformation
 
 (1) Der Anbieter hat einem Anleger oder einem am Erwerb einer
@@ -580,9 +556,7 @@ am Erwerb einer Vermögensanlage Interessierte ist darauf hinzuweisen,
 wo im Geltungsbereich des Gesetzes und auf welche Weise er die
 Unterlagen nach Satz 1 erhalten kann.
 
-
 ### Unterabschnitt 2 - Befugnisse der Bundesanstalt
-
 
 #### § 16 Untersagung von Werbung
 
@@ -593,7 +567,6 @@ irrezuführen.
 (2) Vor allgemeinen Maßnahmen nach Absatz 1 sind die Spitzenverbände
 der betroffenen Wirtschaftskreise und des Verbraucherschutzes zu
 hören.
-
 
 #### § 17 Untersagung der Veröffentlichung des Verkaufsprospekts
 
@@ -612,7 +585,6 @@ bei der Bundesanstalt hinterlegt hat.
 (3) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1
 oder Absatz 2 haben keine aufschiebende Wirkung.
 
-
 #### § 18 Untersagung des öffentlichen Angebots
 
 (1) Die Bundesanstalt untersagt das öffentliche Angebot von
@@ -625,7 +597,6 @@ einen Verkaufsprospekt vor dessen Billigung veröffentlicht.
 
 (2) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1
 haben keine aufschiebende Wirkung.
-
 
 #### § 19 Auskünfte des Anbieters
 
@@ -659,9 +630,7 @@ ist über sein Recht zu belehren, die Auskunft zu verweigern.
 (4) Widerspruch und Anfechtungsklage gegen Maßnahmen nach den Absätzen
 1 und 2 haben keine aufschiebende Wirkung.
 
-
 ### Unterabschnitt 3 - Haftung
-
 
 #### § 20 Haftung bei fehlerhaftem Verkaufsprospekt
 
@@ -723,7 +692,6 @@ gehende Ansprüche, die nach den Vorschriften des bürgerlichen Rechts
 auf Grund von Verträgen oder unerlaubten Handlungen erhoben werden
 können, bleiben unberührt.
 
-
 #### § 21 Haftung bei fehlendem Verkaufsprospekt
 
 (1) Der Erwerber von Vermögensanlagen kann, wenn ein Verkaufsprospekt
@@ -761,7 +729,6 @@ Erwerb kannte.
 Ansprüche, die nach den Vorschriften des bürgerlichen Rechts auf Grund
 von Verträgen oder unerlaubten Handlungen erhoben werden können,
 bleiben unberührt.
-
 
 #### § 22 Haftung bei unrichtigem Vermögensanlagen-Informationsblatt
 
@@ -821,9 +788,7 @@ gehende Ansprüche, die nach den Vorschriften des bürgerlichen Rechts
 auf Grund von Verträgen oder unerlaubten Handlungen erhoben werden
 können, bleiben unberührt.
 
-
 ## Abschnitt 3 - Rechnungslegung und Prüfung
-
 
 ### § 23 Erstellung und Bekanntmachung von Jahresberichten
 
@@ -871,7 +836,6 @@ Handelsgesetzbuchs gelten entsprechend.
 Unternehmensregisters zugänglich zu machen; die Unterlagen sind in
 entsprechender Anwendung des § 8b Absatz 3 Satz 1 Nummer 1 des
 Handelsgesetzbuchs vom Betreiber des Bundesanzeigers zu übermitteln.
-
 
 ### § 24 Inhalt von Jahresabschlüssen und Lageberichten
 
@@ -939,7 +903,6 @@ geltenden, auf Kapitalgesellschaften anzuwendenden
 Rechnungslegungsvorschriften in deutscher Sprache zu erstellen. Die
 Absätze 1 und 2 sind entsprechend anzuwenden.
 
-
 ### § 25 Prüfung und Bestätigung des Abschlussprüfers
 
 (1) Der Jahresabschluss und der Lagebericht des inländischen
@@ -988,10 +951,6 @@ deutscher Sprache beizufügen (§ 23 Absatz 2 Nummer 4), wonach
 
 3.  die Unterlagen gemäß § 23 Absatz 2 insgesamt vollständig sind.
 
-
-
-
-
 ### § 26 Verkürzung der handelsrechtlichen Offenlegungsfrist
 
 (1) Ist der Emittent der Vermögensanlagen nach den Vorschriften des
@@ -1003,9 +962,7 @@ Absatz 1 Satz 2 des Handelsgesetzbuchs der Ablauf des neunten Monats.
 (2) § 326 des Handelsgesetzbuchs über die größenabhängigen
 Erleichterungen für kleine Kapitalgesellschaften ist nicht anzuwenden.
 
-
 ## Abschnitt 4 - Gebühren, Straf-, Bußgeld- und Ordnungsgeldbestimmungen sowie Übergangsvorschriften
-
 
 ### § 27 Gebühren und Auslagen
 
@@ -1020,7 +977,6 @@ bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
-
 
 ### § 28 Strafvorschriften
 
@@ -1037,7 +993,6 @@ bestraft, wer
 
 
 eine Versicherung nicht richtig abgibt.
-
 
 ### § 29 Allgemeine Bußgeldvorschriften
 
@@ -1113,7 +1068,6 @@ zu fünfzigtausend Euro geahndet werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
 ### § 30 Bußgeldvorschriften zur Rechnungslegung
 
 (1) Ordnungswidrig handelt, wer einer Vorschrift des § 24 Absatz 1
@@ -1136,7 +1090,6 @@ fünfzigtausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
-
 
 ### § 31 Ordnungsgeldvorschriften
 
@@ -1170,7 +1123,6 @@ Ordnungsgeldes nach den Absätzen 1 und 2 gegen einen Emittenten von
 Vermögensanlagen im Sinne des Satzes 1 zugrunde liegenden Tatsachen im
 Bundesanzeiger öffentlich bekannt machen, soweit dies zur Beseitigung
 oder Verhinderung von Missständen geboten ist.
-
 
 ### § 32 Übergangsvorschriften
 

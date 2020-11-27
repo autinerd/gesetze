@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 55a G v. 24.12.2003 I 2954
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 des Gesetzes über Arbeitsvermittlung und
@@ -28,7 +27,6 @@ Arbeitslosenversicherung (AVAVG) in der Fassung der Bekanntmachung vom
 Siebente Änderungsgesetz zum AVAVG vom 10. März 1967 (Bundesgesetzbl.
 I S. 266), verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
-
 
 ## § 1
 
@@ -51,10 +49,6 @@ mitzuwirken
 4.  bei der Erbringung von zur Aus- und Fortbildung erforderlichen
     Geldleistungen.
 
-
-
-
-
 ## § 2
 
 Die Bundesagentur für Arbeit führt eine Datei der in der
@@ -62,11 +56,9 @@ Bundesrepublik Deutschland zu ihrer Aus- und Fortbildung tätigen
 Personen aus Entwicklungsländern, die eine Arbeitsgenehmigung nach den
 §§ 284ff. des Dritten Buches Sozialgesetzbuch benötigen.
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4
 

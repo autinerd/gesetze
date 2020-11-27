@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1a G v. 25.11.2012 II 1381
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -72,7 +69,6 @@ Kommissionäre, soweit
 
 (4) Güterkraftverkehr, der nicht Werkverkehr im Sinne der Absätze 2
 und 3 darstellt, ist gewerblicher Güterkraftverkehr.
-
 
 ### § 2 Ausnahmen
 
@@ -160,10 +156,7 @@ Prüfung aushändigen oder in anderer Weise zugänglich machen.
 
 (2) § 14 bleibt unberührt.
 
-
 ## 2. Abschnitt - Gewerblicher Güterkraftverkehr
-
-
 
 ### § 3 Erlaubnispflicht
 
@@ -289,14 +282,12 @@ Artikel 5 der Verordnung (EG) Nr. 1071/2009 hat. Soweit keine
 Niederlassung besteht, richtet sich die Zuständigkeit nach dem
 Wohnsitz des Betroffenen.
 
-
 ### § 4 Unterrichtung der Berufsgenossenschaft
 
 Die nach Landesrecht zuständige Behörde hat der zuständigen
 Berufsgenossenschaft unverzüglich die Erteilung der Erlaubnis
 mitzuteilen. Die Anzeigepflicht des Unternehmers nach § 192 des
 Siebten Buches Sozialgesetzbuch bleibt unberührt.
-
 
 ### § 5 Erlaubnispflicht und Gemeinschaftslizenz
 
@@ -308,7 +299,6 @@ der Europäischen Union noch anderer Vertragsstaaten des Abkommens über
 den Europäischen Wirtschaftsraum, noch die Schweiz ist. Satz 1 gilt
 nicht für Inhaber von Gemeinschaftslizenzen aus der Republik Bulgarien
 und aus Rumänien.
-
 
 ### § 6 Grenzüberschreitender Güterkraftverkehr durch Gebietsfremde
 
@@ -338,10 +328,6 @@ erforderlichen Berechtigung ist. Berechtigungen sind die
 
 
 4.  ...
-
-
-
-
 
 ### § 7 Mitführungs- und Aushändigungspflichten im gewerblichen Güterkraftverkehr
 
@@ -383,7 +369,6 @@ das Begleitpapier oder den sonstigen Nachweis nach Satz 1 während der
 Beförderung mitführen und Kontrollberechtigten auf Verlangen zur
 Prüfung aushändigen oder in anderer geeigneter Weise zugänglich
 machen.
-
 
 ### § 7a Haftpflichtversicherung
 
@@ -427,7 +412,6 @@ aushändigen.
 
 (5) (weggefallen)
 
-
 ### § 7b Einsatz von ordnungsgemäß beschäftigtem Fahrpersonal
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz im Inland hat,
@@ -464,7 +448,6 @@ zur Prüfung aushändigen.
 
 (3) Die Fahrerbescheinigung nach Artikel 5 der Verordnung (EG) Nr.
 1072/2009 wird von der nach Landesrecht zuständigen Behörde erteilt.
-
 
 ### § 7c Verantwortung des Auftraggebers
 
@@ -503,11 +486,9 @@ oder fahrlässig nicht weiß, dass der Unternehmer
 Die Wirksamkeit eines zu diesem Zwecke geschlossenen Vertrages wird
 durch einen Verstoß gegen Satz 1 nicht berührt.
 
-
 ### § 7d
 
 (weggefallen)
-
 
 ### § 8 Vorläufige Weiterführung der Güterkraftverkehrsgeschäfte
 
@@ -533,20 +514,14 @@ Monate nach Feststellung der Erwerbs- oder Geschäftsunfähigkeit
 weiterführen. Die Frist kann auf Antrag einmal um drei Monate
 verlängert werden.
 
-
 ## 3. Abschnitt - Werkverkehr
-
-
 
 ### § 9 Erlaubnis- und Versicherungsfreiheit
 
 Der Werkverkehr ist erlaubnisfrei. Es besteht keine
 Versicherungspflicht.
 
-
 ## 4. Abschnitt - Bundesamt für Güterverkehr
-
-
 
 ### § 10 Organisation
 
@@ -557,7 +532,6 @@ geleitet.
 
 (2) Der Aufbau des Bundesamtes wird durch das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung geregelt.
-
 
 ### § 11 Aufgaben
 
@@ -668,7 +642,6 @@ Sicherung der Besteuerung notwendigen Daten zu übermitteln.
 (4) Allgemeine Verwaltungsvorschriften zu den Aufgaben nach Absatz 2
 Nr. 3 Buchstabe j und k werden von der Bundesregierung mit Zustimmung
 des Bundesrates erlassen.
-
 
 ### § 12 Befugnisse
 
@@ -793,7 +766,6 @@ zuständigen Behörden von demjenigen, der die Werbemaßnahmen, die
 Anzeigen oder das Angebot veröffentlicht hat, Auskunft über Namen und
 Anschrift des Auftraggebers verlangen.
 
-
 ### § 13 Untersagung der Weiterfahrt
 
 (1) Das Bundesamt kann die Fortsetzung der Fahrt untersagen, soweit
@@ -824,7 +796,6 @@ können die Fortsetzung der Fahrt ferner untersagen, wenn
 Weiterfahrt nach den Absätzen 1 und 2 haben keine aufschiebende
 Wirkung.
 
-
 ### § 14 Marktbeobachtung
 
 (1) Das Bundesamt beobachtet und begutachtet die Entwicklung des
@@ -852,7 +823,6 @@ personenbezogenen Daten dürfen nur für Zwecke der Marktbeobachtung
 gespeichert und genutzt werden. Sie sind zu löschen, sobald sie für
 diese Zwecke nicht mehr benötigt werden.
 
-
 ### § 14a Durchführung von Beihilfeverfahren
 
 Das Bundesamt ist zuständig für die Durchführung von
@@ -874,7 +844,6 @@ Beihilfeprogrammen des Bundes nach
 Die Zuständigkeit des Bundesamtes nach Satz 1 umfasst sämtliche
 Aufgaben im Zusammenhang mit der Beihilfegewährung.
 
-
 ### § 14b Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
 
 (1) Das Bundesamt für Güterverkehr ist zuständig für die Aufgaben nach
@@ -888,7 +857,6 @@ Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom
 gilt § 12 Absatz 4, 5 und 6 Satz 1 Nummer 1 bis 4 und Satz 2 und 3
 entsprechend; bei der Verfolgung von Zuwiderhandlungen gilt § 20
 entsprechend.
-
 
 ### § 15 Datei über Unternehmen des gewerblichen Güterkraftverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen (Verkehrsunternehmensdatei)
 
@@ -998,10 +966,6 @@ insbesondere das Nähere
 6.  zu den nach § 9 des Bundesdatenschutzgesetzes erforderlichen
     technischen und organisatorischen Maßnahmen.
 
-
-
-
-
 ### § 15a Werkverkehrsdatei
 
 (1) Das Bundesamt führt eine Datei über alle im Inland
@@ -1073,7 +1037,6 @@ mehr durch, hat er sich unverzüglich beim Bundesamt abzumelden.
 für die in Absatz 4 genannten Aufgaben nicht mehr benötigt werden,
 spätestens aber ein Jahr, nachdem sich der Unternehmer beim Bundesamt
 abgemeldet hat.
-
 
 ### § 16 Datei über abgeschlossene Bußgeldverfahren
 
@@ -1181,7 +1144,6 @@ keine weiteren Eintragungen im Sinne des Absatzes 1 Satz 1 Nr. 4
 hinzugekommen sind. Sie sind spätestens fünf Jahre nach ihrer
 Speicherung zu löschen.
 
-
 ### § 17 Nationale Kontaktstelle und europäischer Informationsaustausch
 
 (1) Das Bundesamt ist nationale Kontaktstelle nach Artikel 18 Absatz 1
@@ -1262,7 +1224,6 @@ Durchführungsbestimmungen, die vom Bundesamt mit Zustimmung des
 Bundesministeriums für Verkehr, Bau und Stadtentwicklung erlassen und
 geändert werden.
 
-
 ### § 17a Zuständigkeit für die Durchführung internationalen Verkehrsrechts
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -1272,10 +1233,7 @@ zu bestimmen, soweit eine solche Bestimmung auf dem Gebiet des
 Verkehrs zur Durchführung von Rechtsakten der Europäische Union oder
 eines internationalen Abkommens erforderlich ist.
 
-
 ## 5. Abschnitt - Überwachung, Bußgeldvorschriften
-
-
 
 ### § 18 Grenzkontrollen
 
@@ -1283,7 +1241,6 @@ Die für die Kontrolle an der Grenze zuständigen Stellen sind
 berechtigt, Kraftfahrzeuge zurückzuweisen, wenn die nach diesem Gesetz
 erforderlichen Unterlagen, deren Mitführung vorgeschrieben ist, trotz
 Aufforderung nicht vorgelegt werden.
-
 
 ### § 19 Bußgeldvorschriften
 
@@ -1547,7 +1504,6 @@ werden. Sie können auf der Grundlage und nach Maßgabe internationaler
 gemeinsamer Grenzabfertigungsanlagen außerhalb des räumlichen
 Geltungsbereiches dieses Gesetzes begangen werden.
 
-
 ### § 20 Befugnisse des Bundesamtes bei der Verfolgung von Zuwiderhandlungen
 
 (1) Bei der Durchführung der Überwachungsaufgaben nach § 11 haben das
@@ -1570,7 +1526,6 @@ seine Beauftragten die Verwarnung nach § 56 des Gesetzes über
 Ordnungswidrigkeiten erteilen. § 57 Abs. 1 des Gesetzes über
 Ordnungswidrigkeiten gilt entsprechend.
 
-
 ### § 21 Zuständigkeiten für die Ahndung von Zuwiderhandlungen
 
 (1) Wird eine Zuwiderhandlung in einem Unternehmen begangen, das
@@ -1591,7 +1546,6 @@ in Verbindung mit § 7 Absatz 2 Satz 2, § 19 Absatz 1 Nummer 6c, 6d,
 Unternehmen, das seinen Sitz im Inland hat, begangen wurden.
 
 (4) § 405 des Dritten Buches Sozialgesetzbuch bleibt unberührt.
-
 
 ### § 21a Aufsicht
 
@@ -1620,10 +1574,7 @@ erforderlichen Auskünfte zu erteilen, Nachweise zu erbringen,
 Hilfsmittel zu stellen und Hilfsdienste zu leisten. § 12 Abs. 1 Satz 3
 und 4 gilt entsprechend.
 
-
 ## 6. Abschnitt - Gebühren und Auslagen, Ermächtigungen
-
-
 
 ### § 22 Gebühren und Auslagen
 
@@ -1643,7 +1594,6 @@ oder als Rahmengebühren näher zu bestimmen.
 
 (3) Auskünfte nach § 19 des Bundesdatenschutzgesetzes werden
 unentgeltlich erteilt.
-
 
 ### § 23 Ermächtigungen zum Erlaß von Durchführungsbestimmungen
 
@@ -1746,10 +1696,6 @@ Vorschriften zu erlassen, durch die
 
 2.  Bestimmungen zur Gewährleistung zwischenstaatlicher Gegenseitigkeit
     oder gleicher Wettbewerbsbedingungen eingeführt werden.
-
-
-
-
 
 ### (XXXX) §§ 24 u. 25 (weggefallen)
 

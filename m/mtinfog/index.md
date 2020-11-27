@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 257 V v. 31.10.2006 I 2407
 
-
 ## (XXXX)
 
 (1) Das Deutsche Institut für Medizinische Dokumentation und

@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 4 V v. 31.10.2006 I 2407
 
-
 ## Teil 1 - Allgemeine Grundsätze
-
-
 
 ### § 1 Altschulden, Kreditnehmer
 
@@ -55,10 +52,7 @@ in Absatz 1 bezeichneten landwirtschaftlichen Altschulden und die
 Unternehmen, die durch gesonderte Verträge in die
 Rangrücktrittsvereinbarungen der Schuldner einbezogen sind.
 
-
 ## Teil 2 - Änderung von Vertragsinhalten bei Rangrücktrittsvereinbarungen über landwirtschaftliche Altschulden
-
-
 
 ### § 2 Änderung der Bemessungsgrundlage für Zahlungen auf landwirtschaftliche Altschulden
 
@@ -163,7 +157,6 @@ Dienst der Gesellschaft von der Gesellschaft oder für die Hingabe von
 Darlehen oder für die Überlassung von Wirtschaftsgütern bezogen hat,
 soweit diese Beträge als angemessen anzusehen sind.
 
-
 ### § 3 Erhöhung des Abführungssatzes
 
 (1) Zahlungen auf landwirtschaftliche Altschulden sind jeweils
@@ -181,7 +174,6 @@ landwirtschaftliche Altschulden die Zahlungsverpflichtung gemäß Absatz
 höchstens jedoch bis zur Erreichung des für das jeweilige
 Geschäftsjahr gemäß Absatz 1 zweiter Halbsatz ermittelten
 Höchstbetrages.
-
 
 ### § 4 Veräußerung nicht betriebsnotwendiger Vermögens- und Betriebsteile
 
@@ -213,7 +205,6 @@ auf Verlangen der Gläubigerbank vom Kreditnehmer durch ein
 unabhängiges Sachverständigengutachten nachzuweisen. Die Kosten
 hierfür trägt der Kreditnehmer.
 
-
 ### § 5 Überprüfung der Sanierungsabsicht
 
 (1) Bei hinreichend begründeten Zweifeln der Gläubigerbank an der
@@ -234,7 +225,6 @@ Sanierungsabsicht des Kreditnehmers zu beseitigen, ist die
 Gläubigerbank berechtigt, die Rangrücktrittsvereinbarung mit
 sofortiger Wirkung zu kündigen.
 
-
 ### § 6 Gesetzliche Änderung der Rangrücktrittsvereinbarungen
 
 Mit dem 1. Juli 2004 werden die in den §§ 2 bis 5 enthaltenen
@@ -242,10 +232,7 @@ Regelungen Bestandteil der zwischen den Kreditnehmern und den
 Gläubigerbanken geschlossenen Rangrücktrittsvereinbarungen und
 ersetzen entgegenstehende Regelungen.
 
-
 ## Teil 3 - Vorzeitige Ablösung der landwirtschaftlichen Altschulden
-
-
 
 ### § 7 Ablöseregelung
 
@@ -268,7 +255,6 @@ von August 1997 bis zum Ende der Antragsfrist gemäß § 8 Abs. 1 Satz 1
 im Amtsblatt der Europäischen Union für Zwecke der gemeinschaftlichen
 Kontrolle staatlicher Beihilfen veröffentlichten Referenzzinssätze
 angewendet.
-
 
 ### § 8 Antragsfristen, Antragsunterlagen
 
@@ -319,10 +305,6 @@ Prüfungsverband testierte Unterlagen beizufügen:
     wurden, ist dem Antrag ein unabhängiges Sachverständigengutachten zum
     aktuellen Verkehrswert dieser Vermögens- und Betriebsteile beizufügen.
 
-
-
-
-
 ### § 9 Entscheidungen, Verordnungsermächtigung
 
 (1) Die Gläubigerbank entscheidet über Anträge auf Ablösung der
@@ -372,7 +354,6 @@ und Verbraucherschutz durch Rechtsverordnung Ausführungsbestimmungen
 
 zu erlassen.
 
-
 ### § 10 Vermögensauseinandersetzung
 
 (1) Der den Ablösebetrag nach § 7 übersteigende Teil der
@@ -386,10 +367,7 @@ landwirtschaftlichen Altschulden verbleibt in einer Rücklage, die nur
 zum Ausgleich von Verlusten oder zur Kapitalerhöhung aus
 Gesellschaftsmitteln verwendet werden darf.
 
-
 ## Teil 4 - Schlussvorschriften
-
-
 
 ### § 11 Auskunftspflicht
 
@@ -398,7 +376,6 @@ beauftragten Stelle auf Verlangen Auskunft über alle für die
 Beurteilung der Fähigkeit zur Ablösung der landwirtschaftlichen
 Altschulden gemäß Teil 3 maßgeblichen Umstände zu erteilen und
 Einsicht in ihre Unterlagen und in ihren Betrieb zu gewähren.
-
 
 ### § 12 Formvorschriften, Änderung der Bemessungsgrundlage
 
@@ -414,12 +391,10 @@ Fällen zu berücksichtigen, in denen sie keine Auswirkungen auf die
 Berechnung des nach den einkommens- und körperschaftsteuerrechtlichen
 Vorschriften ermittelten Gewinns haben sollten.
 
-
 ### § 13 Erstmalige Anwendung
 
 Die Vorschriften der §§ 2, 3 und 12 sind erstmals auf das
 Geschäftsjahr anzuwenden, das nach dem 30. Juni 2004 beginnt.
-
 
 ### § 14 Übergangsregelungen
 

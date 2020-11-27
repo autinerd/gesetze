@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 7.7.2009 I 1774, 3975
 
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz gilt für die Beförderung gefährlicher Güter mit
@@ -60,10 +59,6 @@ Es findet keine Anwendung auf die Beförderung
 2.  auf örtlichen Besonderheiten beruhende Sicherheitsvorschriften des
     Bundes, der Länder oder der Gemeinden.
 
-
-
-
-
 ## § 2 Begriffsbestimmungen
 
 (1) Gefährliche Güter im Sinne dieses Gesetzes sind Stoffe und
@@ -90,7 +85,6 @@ die Sendung nicht nach der Anlieferung entladen, gilt das
 Bereitstellen der Ladung beim Empfänger zur Entladung als Ende der
 Beförderung. Versandstücke, Tankcontainer, Tanks und Kesselwagen
 dürfen während des zeitweiligen Aufenthaltes nicht geöffnet werden.
-
 
 ## § 3 Ermächtigungen
 
@@ -241,10 +235,7 @@ Bundesnachrichtendienst zuzulassen, soweit er im Rahmen seiner
 Aufgaben für das Bundesministerium der Verteidigung tätig wird und
 soweit sicherheitspolitische Interessen dies erfordern.
 
-
 ## § 4 (weggefallen)
-
-
 
 ## § 5 Zuständigkeiten
 
@@ -314,7 +305,6 @@ oder die Bundespolizei befördert werden, Bundesbehörden obliegt,
 soweit dies Gründe der Verteidigung, sicherheitspolitische Interessen
 oder die Aufgaben der Bundespolizei erfordern.
 
-
 ## § 6 Allgemeine Ausnahmen
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
@@ -338,10 +328,6 @@ Bundesrates zulassen für die Beförderung gefährlicher Güter mit
 
 
 4.  Luftfahrzeugen.
-
-
-
-
 
 ## § 7 Sofortmaßnahmen
 
@@ -377,7 +363,6 @@ Beförderung gefährlicher Güter unterworfen waren, eine Gefahr im Sinne
 von § 2 Abs. 1 herausstellt. Auf Grund von Satz 1 und 2 getroffene
 Anordnungen werden entsprechend der Festlegung der Kommission der
 Europäischen Gemeinschaften befristet.
-
 
 ## § 7a Anhörung
 
@@ -418,7 +403,6 @@ Rechtsverordnungen nach Absatz 1 gehört werden. Das Bundesministerium
 für Verkehr, Bau und Stadtentwicklung bestimmt den jeweiligen Umfang
 der Anhörung und die anzuhörenden Verbände und Sachverständigen.
 
-
 ## § 7b Beirat
 
 (1) Beim Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -455,7 +439,6 @@ Stellen im Einzelnen.
 (4) Die Bundesministerien haben das Recht, in Sitzungen des Beirats
 vertreten zu sein und gehört zu werden.
 
-
 ## § 8 Maßnahmen der zuständigen Behörden
 
 (1) Die jeweils für die Überwachung zuständige Behörde kann im
@@ -489,7 +472,6 @@ sind. Sie kann insbesondere
 
 
 (2) Absatz 1 gilt für die Ladung entsprechend.
-
 
 ## § 9 Überwachung
 
@@ -576,7 +558,6 @@ Verantwortlicher gilt auch, wer als Unternehmer oder als Inhaber eines
 Betriebes Verpackungen, Beförderungsbehältnisse oder Fahrzeuge zur
 Beförderung gefährlicher Güter gemäß Absatz 3 herstellt, einführt oder
 in den Verkehr bringt.
-
 
 ## § 9a Amtshilfe und Datenschutz
 
@@ -695,7 +676,6 @@ allgemeine Verwaltungsvorschriften über das Verfahren bei der
 Erhebung, Speicherung und Übermittlung der Daten nach Absatz 2 bis 9
 zu erlassen.
 
-
 ## § 10 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -761,7 +741,6 @@ Fassung der Bekanntmachung vom 5. Juli 2001 (BGBl. I S. 2026), das
 zuletzt durch Artikel 4 des Gesetzes vom 8. April 2008 (BGBl. I S.
 706) geändert worden ist, bleibt unberührt.
 
-
 ## § 11 Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -769,7 +748,6 @@ bestraft, wer eine in § 10 Abs. 1 Nr. 1 Buchstabe a bezeichnete
 vorsätzliche Handlung beharrlich wiederholt oder durch eine solche
 vorsätzliche Handlung Leben oder Gesundheit eines Anderen, ihm nicht
 gehörende Tiere oder fremde Sachen von bedeutendem Wert gefährdet.
-
 
 ## § 12 Kosten
 
@@ -800,14 +778,9 @@ musste.
 (4) Rechtsverordnungen über Kosten, deren Gläubiger der Bund ist,
 bedürfen nicht der Zustimmung des Bundesrates.
 
-
 ## § 13 (Änderungen anderer Gesetze)
 
-
-
 ## § 14 (weggefallen)
-
-
 
 ## § 15 (Inkrafttreten)
 

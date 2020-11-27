@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 41 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Erlaubnis
-
-
 
 ### § 1
 
@@ -70,7 +66,6 @@ Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für
 Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der
 Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
-
 
 ### § 2
 
@@ -241,7 +236,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -283,10 +277,7 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ## Zweiter Abschnitt - Ausbildung
-
-
 
 ### § 3
 
@@ -318,10 +309,6 @@ Die Ausbildung soll insbesondere dazu befähigen, bei Personen,
     sowie der in Nummer 1 genannten Gebiete durchzuführen
     (Ausbildungsziele).
 
-
-
-
-
 ### § 4
 
 Die Ausbildung dauert drei Jahre und besteht aus theoretischem und
@@ -332,7 +319,6 @@ eingerichtet sind, haben die praktische Ausbildung im Rahmen einer
 Regelung mit einem Krankenhaus oder anderen geeigneten medizinischen
 Einrichtungen sicherzustellen. Die Ausbildung schließt mit der
 staatlichen Prüfung ab.
-
 
 ### § 5
 
@@ -346,10 +332,6 @@ Voraussetzung für den Zugang zur Ausbildung ist
     Hauptschulabschluß erweitert, oder eine nach Hauptschulabschluß oder
     einem gleichwertigen Abschluß abgeschlossene Berufsausbildung von
     mindestens zweijähriger Dauer.
-
-
-
-
 
 ### § 6
 
@@ -372,7 +354,6 @@ durch die Anrechung nicht gefährdet wird.
 (2) Absatz 1 gilt nicht für die Dauer der Ausbildung im Krankenhaus
 nach § 8 Abs. 3.
 
-
 ### § 7
 
 (1) Die zuständige Behörde kann auf Antrag eine andere Ausbildung im
@@ -386,7 +367,6 @@ eine Ausbildung in einem anderen, in § 1 dieses Gesetzes genannten
 Ausbildungsgang anzurechnen, soweit die Ausbildungsinhalte
 gleichwertig sind und die Durchführung der Ausbildung sowie die
 Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
-
 
 ### § 8
 
@@ -439,10 +419,7 @@ Berufstätigkeit von Bedeutung sind.
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## Dritter Abschnitt - Vorbehaltene Tätigkeiten
-
-
 
 ### § 9
 
@@ -568,7 +545,6 @@ Personen nur auf ärztliche, zahnärztliche oder tierärztliche oder auf
 Anforderung einer Heilpraktikerin oder eines Heilpraktikers ausgeübt
 werden.
 
-
 ### § 10
 
 § 9 Abs. 1 und 2 findet keine Anwendung auf
@@ -611,12 +587,7 @@ werden.
     und Verantwortung einer der in Nummer 1 genannten Personen tätig
     werden.
 
-
-
-
-
 ## Dritter Abschnitt a - Erbringen von Dienstleistungen
-
 
 ### § 10a
 
@@ -734,7 +705,6 @@ dass
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ### § 10b
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -749,7 +719,6 @@ Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
 und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
-
 
 ### § 10c
 
@@ -767,10 +736,7 @@ verstoßen, so hat die zuständige Behörde unverzüglich die zuständige
 Behörde des Niederlassungsmitgliedstaats dieses
 Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ## Vierter Abschnitt - Zuständigkeiten
-
-
 
 ### § 11
 
@@ -800,10 +766,7 @@ Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen
 Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-
 technischen Assistenten ausübt.
 
-
 ## Fünfter Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 12
 
@@ -813,10 +776,7 @@ genannten Berufsbezeichnungen führt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## Sechster Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 13
 
@@ -897,14 +857,12 @@ Gesetzes besitzen, dürfen diese Berufsbezeichnung weiterführen.
 
 (9)
 
-
 ### § 14
 
 Schulen, die technische Assistenten in der Medizin ausbilden und vor
 Inkrafttreten dieses Gesetzes die staatliche Anerkennung erhalten
 haben, gelten weiterhin als staatlich anerkannt nach § 4, sofern die
 Anerkennung nicht zurückgenommen wird.
-
 
 ### § 15
 

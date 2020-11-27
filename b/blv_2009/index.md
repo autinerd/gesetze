@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 284
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Absatz 1 Satz 3, § 11 Absatz 1 Satz 5, § 17 Absatz
@@ -23,15 +22,12 @@ Auf Grund des § 8 Absatz 1 Satz 3, § 11 Absatz 1 Satz 5, § 17 Absatz
 Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) verordnet
 die Bundesregierung:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Geltungsbereich
 
 Diese Verordnung gilt für die Beamtinnen und Beamten des Bundes,
 soweit nicht gesetzlich etwas anderes bestimmt ist.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -68,14 +64,12 @@ die Eignung für einen höher bewerteten Dienstposten nachzuweisen hat.
 Endgrundgehalt. Sie erfolgt in den Fällen, in denen die
 Amtsbezeichnung wechselt, durch Ernennung.
 
-
 ### § 3 Leistungsgrundsatz
 
 Laufbahnrechtliche Entscheidungen sind nach Eignung, Befähigung und
 fachlicher Leistung unter Berücksichtigung des § 9 des
 Bundesbeamtengesetzes und des § 9 des Bundesgleichstellungsgesetzes zu
 treffen.
-
 
 ### § 4 Stellenausschreibungspflicht
 
@@ -130,10 +124,6 @@ Bundesgleichstellungsgesetzes ist zu berücksichtigen.
 2.  in besonderen Einzelfällen auch bei einer Einstellung aus den in
     Nummer 1 genannten Gründen.
 
-
-
-
-
 ### § 5 Schwerbehinderte Menschen
 
 (1) Von schwerbehinderten Menschen darf nur das Mindestmaß an
@@ -147,12 +137,9 @@ Behinderung angemessen sind.
 eine etwaige Einschränkung der Arbeits- und Verwendungsfähigkeit wegen
 der Behinderung zu berücksichtigen.
 
-
 ## Abschnitt 2 - Einstellung von Bewerberinnen und Bewerbern
 
-
 ### Unterabschnitt 1 - Gemeinsame Vorschriften
-
 
 #### § 6 Gestaltung der Laufbahnen
 
@@ -190,10 +177,6 @@ werden:
 
 9.  der tierärztliche Dienst.
 
-
-
-
-
 #### § 7 Laufbahnbefähigung
 
 Bewerberinnen und Bewerber erlangen die Laufbahnbefähigung
@@ -214,10 +197,6 @@ Bewerberinnen und Bewerber erlangen die Laufbahnbefähigung
     außerhalb eines Vorbereitungsdienstes oder eines Aufstiegsverfahrens
     des Bundes erworben haben.
 
-
-
-
-
 #### § 8 Feststellung der Laufbahnbefähigung
 
 (1) Besitzen Bewerberinnen oder Bewerber die für die entsprechende
@@ -236,7 +215,6 @@ Bewerber die Feststellung der Laufbahnbefähigung schriftlich mit. Sie
 kann diese Befugnis auf andere Behörden übertragen. Die Laufbahn und
 das Datum des Befähigungserwerbs sind in der Mitteilung zu bezeichnen.
 
-
 #### § 9 Ämter der Laufbahnen
 
 (1) Die zu den Laufbahnen gehörenden Ämter sowie die dazugehörigen
@@ -245,9 +223,7 @@ Amtsbezeichnungen ergeben sich aus Anlage 1.
 (2) Die Ämter der Bundesbesoldungsordnung A sind regelmäßig zu
 durchlaufen.
 
-
 ### Unterabschnitt 2 - Vorbereitungsdienste
-
 
 #### § 10 Einrichtung von Vorbereitungsdiensten
 
@@ -260,7 +236,6 @@ und Dauer der Vorbereitungsdienste sowie die Prüfung und das
 Prüfungsverfahren regeln. Die vorzusehenden Prüfungsnoten ergeben sich
 aus Anlage 3.
 
-
 #### § 11 Einstellung in den Vorbereitungsdienst
 
 Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf
@@ -272,13 +247,11 @@ für die Gestaltung des Vorbereitungsdienstes zuständige oberste
 Dienstbehörde kann im Einvernehmen mit dem Bundesministerium des
 Innern andere Dienstbezeichnungen festsetzen.
 
-
 #### § 12 Mittlerer Dienst
 
 Ein Vorbereitungsdienst für den mittleren Dienst dauert mindestens ein
 Jahr, in der Regel jedoch zwei Jahre. Er besteht aus einer
 fachtheoretischen und einer berufspraktischen Ausbildung.
-
 
 #### § 13 Gehobener Dienst
 
@@ -297,13 +270,11 @@ Hochschulstudium oder durch einen gleichwertigen Abschluss
 nachgewiesen werden. Ergänzende Lehrveranstaltungen zum Erwerb
 erforderlicher Spezialkenntnisse können vorgesehen werden.
 
-
 #### § 14 Höherer Dienst
 
 Ein Vorbereitungsdienst für den höheren Dienst dauert mindestens 18
 Monate, in der Regel jedoch zwei Jahre. Er vermittelt die für die
 Laufbahn erforderlichen berufspraktischen Fähigkeiten und Kenntnisse.
-
 
 #### § 15 Verlängerung der Vorbereitungsdienste
 
@@ -343,7 +314,6 @@ oder Studienplan zugelassen werden.
 und 6 und des Absatzes 2 höchstens zweimal, insgesamt jedoch nicht
 mehr als 24 Monate verlängert werden.
 
-
 #### § 16 Verkürzung der Vorbereitungsdienste
 
 (1) Der Vorbereitungsdienst kann verkürzt werden, wenn das Erreichen
@@ -370,7 +340,6 @@ erfolgreich abgeschlossener Vorbereitungsdienst für eine Laufbahn auf
 den Vorbereitungsdienst für die nächsthöhere Laufbahn bis zur Dauer
 von sechs Monaten angerechnet werden kann.
 
-
 #### § 17 Laufbahnprüfung
 
 (1) Im Rahmen des Vorbereitungsdienstes ist eine Laufbahnprüfung
@@ -387,9 +356,7 @@ Bestehen Voraussetzung für die Fortsetzung des Vorbereitungsdienstes
 ist. Die oberste Dienstbehörde kann in begründeten Ausnahmefällen eine
 zweite Wiederholung zulassen.
 
-
 ### Unterabschnitt 3 - Anerkennung von Befähigungen
-
 
 #### § 18 Einfacher Dienst
 
@@ -398,7 +365,6 @@ Dienstes nach § 7 Nummer 2 Buchstabe a setzt neben den
 Bildungsvoraussetzungen eine abgeschlossene Berufsausbildung voraus,
 die geeignet ist, die Befähigung für eine Laufbahn des einfachen
 Dienstes zu vermitteln.
-
 
 #### § 19 Mittlerer Dienst
 
@@ -439,7 +405,6 @@ Laufbahn entsprechen.
 (4) Ermäßigte und regelmäßige Arbeitszeiten sind gleich zu behandeln,
 soweit nicht zwingende sachliche Gründe entgegenstehen.
 
-
 #### § 20 Gehobener Dienst
 
 Die Anerkennung der Befähigung für eine Laufbahn des gehobenen
@@ -458,7 +423,6 @@ erworbenen Bachelor oder einen gleichwertigen Abschluss voraus, der
 
 § 19 Absatz 2 bis 4 gilt entsprechend.
 
-
 #### § 21 Höherer Dienst
 
 (1) Die Anerkennung der Befähigung für eine Laufbahn des höheren
@@ -471,7 +435,6 @@ entsprechend.
 
 (2) Die Laufbahnbefähigung für den höheren nichttechnischen
 Verwaltungsdienst hat auch, wer die Befähigung zum Richteramt hat.
-
 
 #### § 22 Andere Bewerberinnen und andere Bewerber
 
@@ -495,9 +458,7 @@ möglich.
 (4) Das Verfahren zur Feststellung der Laufbahnbefähigung nach § 8
 Absatz 2 regelt der Bundespersonalausschuss.
 
-
 ### Unterabschnitt 4 - Sonderregelungen
-
 
 #### § 23 Besondere Qualifikationen und Zeiten
 
@@ -557,7 +518,6 @@ Vorbereitungsdienstes inhaltlich den Anforderungen eines
 Vorbereitungsdienstes entsprechende Qualifizierungen berücksichtigt
 werden.
 
-
 #### § 24 Zulassung zur höheren Laufbahn bei Besitz einer Hochschulausbildung
 
 (1) Abweichend von § 17 Absatz 3 bis 5 des Bundesbeamtengesetzes
@@ -578,10 +538,6 @@ sie
 
 2.  sich nach Erlangung der Befähigung sechs Monate in der neuen Laufbahn
     bewährt haben.
-
-
-
-
 
 #### § 25 Einstellung in ein höheres Amt als das Eingangsamt
 
@@ -611,7 +567,6 @@ sind:
 1 Nummer 1 oder 2 zurückgelegten Zeiten, soweit sie im
 Vorbereitungsdienst angerechnet wurden.
 
-
 #### § 26 Übernahme von Richterinnen und Richtern
 
 (1) Abweichend von § 25 kann Richterinnen und Richtern, die in die
@@ -625,7 +580,6 @@ der Bundesbesoldungsordnung A übertragen werden.
 
 (2) Absatz 1 gilt für Staatsanwältinnen und Staatsanwälte
 entsprechend.
-
 
 #### § 27 Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
 
@@ -685,12 +639,9 @@ ausgeschlossen.
 höheren Laufbahn verliehen bekommen haben, können auch auf anderen
 geeigneten Dienstposten im Sinne des Absatzes 2 eingesetzt werden.
 
-
 ## Abschnitt 3 - Berufliche Entwicklung
 
-
 ### Unterabschnitt 1 - Probezeit
-
 
 #### § 28 Dauer der Probezeit und Feststellung der Bewährung
 
@@ -717,7 +668,6 @@ werden, kann die Probezeit verlängert werden.
 (6) Beamtinnen und Beamte, die sich in der Probezeit nicht in vollem
 Umfang bewährt haben, werden spätestens mit Ablauf der Probezeit
 entlassen.
-
 
 #### § 29 Anrechnung hauptberuflicher Tätigkeiten
 
@@ -748,7 +698,6 @@ wenn die sonstigen Voraussetzungen des Absatzes 1 vorliegen.
 
 
 (4) § 19 Absatz 4 gilt entsprechend.
-
 
 #### § 30 Verlängerung der Probezeit
 
@@ -784,7 +733,6 @@ dienstliche oder öffentliche Belange anerkannt werden können.
 
 § 19 Absatz 4 gilt entsprechend.
 
-
 #### § 31 Mindestprobezeit
 
 (1) Unabhängig von den §§ 29 und 30 muss jede Beamtin oder jeder
@@ -806,9 +754,7 @@ teilweise entfallen, wenn die nach § 29 anrechenbare Tätigkeit
 
 ausgeübt worden ist.
 
-
 ### Unterabschnitt 2 - Beförderung
-
 
 #### § 32 Voraussetzungen einer Beförderung
 
@@ -823,10 +769,6 @@ Eine Beamtin oder ein Beamter kann befördert werden, wenn
 
 
 3.  kein Beförderungsverbot vorliegt.
-
-
-
-
 
 #### § 33 Auswahlentscheidungen
 
@@ -883,7 +825,6 @@ sonstigen Voraussetzungen des § 32 vorliegen. In den Fällen des § 12
 Absatz 3 und des § 13 Absatz 2 des Arbeitsplatzschutzgesetzes gelten
 die Sätze 1 und 2 entsprechend.
 
-
 #### § 34 Erprobungszeit
 
 (1) Die Erprobungszeit beträgt mindestens sechs Monate und soll ein
@@ -899,9 +840,7 @@ erfolgreich absolviert hätte.
 dauerhaften Übertragung des Dienstpostens abzusehen oder die
 Übertragung zu widerrufen.
 
-
 ### Unterabschnitt 3 - Aufstieg
-
 
 #### § 35 Aufstieg in die nächsthöhere Laufbahn
 
@@ -930,7 +869,6 @@ anzubieten, sofern dienstliche Gründe nicht entgegenstehen. Die
 Bundesakademie für öffentliche Verwaltung unterstützt die obersten
 Dienstbehörden bei der Ermittlung geeigneter Studiengänge und der
 Entwicklung familienfreundlicher Konzepte.
-
 
 #### § 36 Auswahlverfahren
 
@@ -977,7 +915,6 @@ Dienstbehörde unter Berücksichtigung des Vorschlags der
 Auswahlkommission. Sie kann diese Befugnis auf eine andere Behörde
 übertragen.
 
-
 #### § 37 Teilnahme an Vorbereitungsdiensten
 
 (1) Nehmen die Beamtinnen und Beamten nach erfolgreichem
@@ -989,7 +926,6 @@ Bestimmungen zu Ausbildung und Prüfung entsprechend anzuwenden.
 (2) Ist der Vorbereitungsdienst auf eine berufspraktische Studienzeit
 beschränkt, regeln die Ausbildungs- und Prüfungsordnungen die
 Voraussetzungen des Aufstiegs.
-
 
 #### § 38 Fachspezifische Qualifizierungen
 
@@ -1023,7 +959,6 @@ abgeschlossen ist. Mit Zustimmung des Bundespersonalausschusses kann
 die oberste Dienstbehörde das Feststellungsverfahren selbst regeln und
 durchführen. Das Feststellungsverfahren kann einmal wiederholt werden.
 
-
 #### § 39 Teilnahme an Hochschulausbildungen
 
 (1) Die Aufstiegsausbildung kann auch außerhalb eines fachspezifischen
@@ -1049,7 +984,6 @@ von einem Jahr beschränkt werden, wenn die Beamtin oder der Beamte die
 in der Ausschreibung geforderte Hochschulausbildung und das
 Auswahlverfahren nach § 36 erfolgreich durchlaufen hat.
 
-
 #### § 40 Übertragung eines Amtes der neuen Laufbahn
 
 Nach Erwerb der Befähigung für die höhere Laufbahn wird den Beamtinnen
@@ -1057,7 +991,6 @@ und Beamten im Rahmen der besetzbaren Planstellen ein Amt der neuen
 Laufbahn verliehen. Das erste Beförderungsamt darf frühestens nach
 Ablauf einer Dienstzeit von einem Jahr seit der ersten Verleihung
 eines Amtes der höheren Laufbahngruppe verliehen werden.
-
 
 #### § 41 Erstattung der Kosten einer Aufstiegsausbildung
 
@@ -1071,9 +1004,7 @@ Studiums geleistet hat. Auf die Erstattung kann ganz oder teilweise
 verzichtet werden, wenn sie für die Beamtin oder den Beamten eine
 besondere Härte bedeuten würde.
 
-
 ### Unterabschnitt 4 - Sonstiges
-
 
 #### § 42 Laufbahnwechsel
 
@@ -1098,7 +1029,6 @@ nicht unterschreiten darf. Während der Qualifizierung müssen der
 Beamtin oder dem Beamten die für die Laufbahn erforderlichen Fach-,
 Methoden- und sozialen Kompetenzen vermittelt werden. Die §§ 6 bis 9
 und die §§ 18 bis 27 sind entsprechend anzuwenden.
-
 
 #### § 43 Wechsel von Wissenschaftlerinnen und Wissenschaftlern
 
@@ -1129,7 +1059,6 @@ Beamtinnen und Beamten der Besoldungsgruppe
 
 übertragen werden.
 
-
 #### § 44 Wechsel von einem anderen Dienstherrn
 
 (1) Beim Wechsel von Beamtinnen und Beamten und früheren Beamtinnen
@@ -1141,7 +1070,6 @@ bis 27 entsprechend anzuwenden.
 (2) Die Probezeit gilt als geleistet, soweit sich die Beamtin oder der
 Beamte bei anderen Dienstherren nach Erwerb der Laufbahnbefähigung in
 einer gleichwertigen Laufbahn bewährt hat.
-
 
 #### § 45 Internationale Verwendungen
 
@@ -1155,9 +1083,7 @@ Dienstposten wesentlich sind. Sie dürfen sich im Übrigen nicht
 nachteilig auf das berufliche Fortkommen der Beamtinnen und Beamten
 auswirken.
 
-
 ## Abschnitt 4 - Personalentwicklung und Qualifizierung
-
 
 ### § 46 Personalentwicklung
 
@@ -1193,10 +1119,6 @@ zum Beispiel
 7.  ein die Fähigkeiten und Kenntnisse erweiternder regelmäßiger Wechsel
     der Verwendung, insbesondere auch in Tätigkeiten bei internationalen
     Organisationen.
-
-
-
-
 
 ### § 47 Dienstliche Qualifizierung
 
@@ -1245,9 +1167,7 @@ Gelegenheit zu geben, in Abstimmung mit der Dienstbehörde ihre
 Fachkenntnisse in höher bewerteten Dienstgeschäften anzuwenden und
 hierbei ihre besondere fachliche Eignung nachzuweisen.
 
-
 ## Abschnitt 5 - Dienstliche Beurteilung
-
 
 ### § 48 Regelbeurteilung, Anlassbeurteilung
 
@@ -1260,7 +1180,6 @@ werden, wenn eine dienstliche Beurteilung nicht zweckmäßig ist. Dies
 ist insbesondere während der laufbahnrechtlichen Probezeit und in
 herausgehobenen Führungsfunktionen der Fall. Die §§ 28 bis 31 bleiben
 unberührt.
-
 
 ### § 49 Inhalt der dienstlichen Beurteilung
 
@@ -1280,7 +1199,6 @@ Vorschlag für die weitere dienstliche Verwendung. Sie bewertet die
 Eignung für Leitungs- und Führungsaufgaben, wenn entsprechende
 Aufgaben wahrgenommen werden, und kann eine Aussage über die Eignung
 für Aufgaben der nächsthöheren Laufbahn enthalten.
-
 
 ### § 50 Beurteilungsverfahren und Beurteilungsmaßstab
 
@@ -1311,9 +1229,7 @@ Telearbeitskräften und schwerbehinderten Menschen jeweils gesondert
 ausgewiesen werden, wenn die Anonymität der Beurteilungen gewahrt
 bleibt.
 
-
 ## Abschnitt 6 - Übergangs- und Schlussvorschriften
-
 
 ### § 51 Überleitung der Beamtinnen und Beamten
 
@@ -1339,7 +1255,6 @@ Laufbahn, die ihrer Fachrichtung entspricht.
 geführt werden, können bis zur Übertragung eines anderen Amtes
 weitergeführt werden.
 
-
 ### § 52 Vorbereitungsdienste
 
 (1) Die in Anlage 2 aufgeführten obersten Dienstbehörden erlassen nach
@@ -1362,7 +1277,6 @@ aufgrund des § 2 Absatz 4 der Bundeslaufbahnverordnung in der Fassung
 der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die
 zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009
 (BGBl. I S. 160) geändert worden ist, erlassen wurde.
-
 
 ### § 53 Beamtenverhältnis auf Probe
 
@@ -1389,7 +1303,6 @@ Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli
 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist,
 bei der Anstellung in ein höheres Amt als das Eingangsamt § 25
 entsprechend anzuwenden ist.
-
 
 ### § 54 Aufstieg
 
@@ -1440,7 +1353,6 @@ Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt
 durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I
 S. 160) geändert worden ist, anzuwenden.
 
-
 ### § 55 Übergangsregelung zu § 27 und § 50 Absatz 2
 
 (1) Auf Beamtinnen und Beamte, die zum Zeitpunkt des Inkrafttretens
@@ -1456,11 +1368,9 @@ der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459,
 Februar 2009 (BGBl. I S. 160) geändert worden ist, angegebenen
 Richtwerte vorsehen.
 
-
 ### § 56 Folgeänderungen
 
 -
-
 
 ### § 57 Inkrafttreten, Außerkrafttreten
 
@@ -1468,7 +1378,6 @@ Richtwerte vorsehen.
 der Verkündung in Kraft.
 
 (2) § 29 Absatz 3 Nummer 4 tritt am 1. Juli 2009 in Kraft.
-
 
 ### Anlage 1 (zu § 9 Absatz 1)
 
@@ -2079,9 +1988,6 @@ Die in § 6 Absatz 2 aufgeführten Laufbahnen umfassen die nachfolgenden
 
     *   Vorstand der Eisenbahn-Unfallkasse
 
-
-
-
 ### Anlage 3 (zu § 10 Absatz 2)
 
 (Fundstelle: BGBl. I 2009, 313)
@@ -2133,7 +2039,6 @@ Bei Vorbereitungsdiensten, die mit einem Bachelor abschließen, sind
 neben der Note zusätzlich die Leistungspunkte entsprechend des
 European Credit Transfer Systems (ECTS – Europäisches System zur
 Anrechnung von Studienleistungen) auszuweisen.
-
 
 ### Anlage 4 (zu § 51 Absatz 1)
 

@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 62 G v. 5.2.2009 I 160
 
-
-
 ## § 1 Rechtsstellung, Sitz
 
 (1) Die Deutsche Nationalbibliothek (Bibliothek) ist die zentrale
@@ -30,7 +28,6 @@ Bundesrepublik Deutschland.
 des öffentlichen Rechts mit der Deutschen Bücherei in Leipzig, der
 Deutschen Bibliothek in Frankfurt am Main und dem Deutschen
 Musikarchiv. Sie hat ihren Sitz in Frankfurt am Main.
-
 
 ## § 2 Aufgaben, Befugnisse
 
@@ -61,10 +58,6 @@ Die Bibliothek hat die Aufgabe,
     zusammenzuarbeiten sowie in nationalen und internationalen
     Fachorganisationen mitzuwirken.
 
-
-
-
-
 ## § 3 Medienwerke
 
 (1) Medienwerke sind alle Darstellungen in Schrift, Bild und Ton, die
@@ -80,7 +73,6 @@ Papier, elektronischen Datenträgern und anderen Trägern.
 (4) Filmwerke, bei denen nicht die Musik im Vordergrund steht, sowie
 ausschließlich im Rundfunk gesendete Werke unterliegen nicht den
 Bestimmungen dieses Gesetzes.
-
 
 ## § 4 Satzung, Benutzung, Kostenpflicht
 
@@ -98,7 +90,6 @@ Das Nähere regelt eine Kostenordnung, die der Verwaltungsrat erlässt.
 Sie bedarf der Genehmigung der für Kultur und Medien zuständigen
 obersten Bundesbehörde.
 
-
 ## § 5 Organe
 
 Organe der Bibliothek sind
@@ -110,10 +101,6 @@ Organe der Bibliothek sind
 
 
 3.  die Beiräte.
-
-
-
-
 
 ## § 6 Verwaltungsrat
 
@@ -167,7 +154,6 @@ Dienstbehörde. Einzelne Befugnisse, die hieraus folgen, kann sie oder
 er der Generaldirektorin oder dem Generaldirektor der Bibliothek
 übertragen.
 
-
 ## § 7 Generaldirektorin, Generaldirektor
 
 (1) Die Generaldirektorin oder der Generaldirektor führt die Geschäfte
@@ -179,7 +165,6 @@ Dienstbehörde dessen Vorsitzende oder Vorsitzender zuständig ist.
 Bibliothek gerichtlich und außergerichtlich. Sie oder er ist
 Vorgesetzte oder Vorgesetzter sowie Dienstvorgesetzte oder
 Dienstvorgesetzter der Bediensteten der Bibliothek.
-
 
 ## § 8 Beiräte
 
@@ -204,12 +189,10 @@ auch die Vorsitzende oder der Vorsitzende des Beirates an.
 
 (4) Das Nähere regelt die Satzung.
 
-
 ## § 9 Rechtsaufsicht
 
 Die für Kultur und Medien zuständige oberste Bundesbehörde führt die
 Rechtsaufsicht über die Bibliothek.
-
 
 ## § 10 Beamtinnen, Beamte
 
@@ -227,7 +210,6 @@ Verwaltungsrates.
 Beamtinnen und Beamten, soweit nicht diese Befugnis durch die Satzung
 der Generaldirektorin oder dem Generaldirektor übertragen ist.
 
-
 ## § 11 Arbeitnehmerinnen, Arbeitnehmer
 
 Auf das Arbeitsverhältnis der Angestellten, Arbeiterinnen und Arbeiter
@@ -236,13 +218,11 @@ geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden. Bei
 einem Insolvenzereignis leistet der Bund ihnen Zahlungen im gleichen
 Umfang wie Anspruch auf Insolvenzgeld bestünde.
 
-
 ## § 12 Wohnungsfürsorge
 
 Die Vorschriften des Bundes über Bau-, Wohnungs- und
 Mietangelegenheiten gelten für die Bibliothek und ihre Bediensteten
 entsprechend.
-
 
 ## § 13 Haushalt, Rechnungsprüfung
 
@@ -263,7 +243,6 @@ zuständigen obersten Bundesbehörde.
 
 (4) Die Haushaltsmittel werden vom Bund nach Maßgabe des
 Bundeshaushaltes zur Verfügung gestellt.
-
 
 ## § 14 Ablieferungspflicht
 
@@ -289,13 +268,11 @@ Medienwerkes erfüllt, ist die Bibliothek nach Mahnung und fruchtlosem
 Ablauf von weiteren drei Wochen berechtigt, die Medienwerke auf Kosten
 der Ablieferungspflichtigen anderweitig zu beschaffen.
 
-
 ## § 15 Ablieferungspflichtige
 
 Ablieferungspflichtig ist, wer berechtigt ist, das Medienwerk zu
 verbreiten oder öffentlich zugänglich zu machen und den Sitz, eine
 Betriebsstätte oder den Hauptwohnsitz in Deutschland hat.
-
 
 ## § 16 Ablieferungsverfahren
 
@@ -308,7 +285,6 @@ benannten Stelle abzuliefern. Medienwerke in unkörperlicher Form
 können nach den Maßgaben der Bibliothek auch zur Abholung
 bereitgestellt werden.
 
-
 ## § 17 Auskunftspflicht
 
 Die Ablieferungspflichtigen haben der Bibliothek bei Ablieferung der
@@ -319,7 +295,6 @@ Verbreitung oder öffentlichen Zugänglichmachung berechtigt, die
 Informationen auf Kosten der Auskunftspflichtigen anderweitig zu
 beschaffen.
 
-
 ## § 18 Zuschuss
 
 Für Medienwerke in körperlicher Form gewährt die Bibliothek den
@@ -327,7 +302,6 @@ Ablieferungspflichtigen auf Antrag einen Zuschuss zu den
 Herstellungskosten der abzuliefernden Ausfertigungen, wenn die
 unentgeltliche Abgabe eine unzumutbare Belastung darstellt. Das Nähere
 regelt eine Rechtsverordnung.
-
 
 ## § 19 Bußgeldvorschriften
 
@@ -355,7 +329,6 @@ Euro geahndet werden.
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bibliothek.
 
-
 ## § 20 Verordnungsermächtigung
 
 Zur geordneten Durchführung der Pflichtablieferung und um einen nicht
@@ -381,15 +354,10 @@ Bundesregierung ermächtigt, durch Rechtsverordnung zu regeln:
 4.  die Voraussetzungen und das Verfahren bei der Gewährung von
     Zuschüssen.
 
-
-
-
-
 ## § 21 Landesrechtliche Regelungen
 
 Die landesrechtlichen Regelungen über die Ablieferung von Medienwerken
 bleiben unberührt.
-
 
 ## § 22 Inkrafttreten, Außerkrafttreten
 

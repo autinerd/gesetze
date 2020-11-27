@@ -21,7 +21,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 2 V v. 28.4.2008 I 766
 
-
 ## § 1 Anwendungsbereich
 
 Anhörungen nach dieser Verordnung sind durchzuführen vor der
@@ -61,7 +60,6 @@ Eine Anhörung wird nicht durchgeführt, wenn nach § 11 Abs. 1 Satz 2
 der Gentechnik-Verfahrensverordnung eine Freisetzung nachgemeldet
 wird.
 
-
 ## § 2 Bekanntmachung des Vorhabens
 
 Sind die mit den Genehmigungsanträgen vorzulegenden Unterlagen
@@ -71,7 +69,6 @@ Veröffentlichungsblatt und in örtlichen Tageszeitungen, die im Bereich
 des Standortes der Anlage oder in den Gemeinden, in denen die
 beantragte Freisetzung erfolgen soll, verbreitet sind, öffentlich
 bekanntzumachen (Bekanntmachung).
-
 
 ## § 3 Inhalt der Bekanntmachung
 
@@ -117,7 +114,6 @@ Auslegung erforderlich, werden die Einwendungsmöglichkeiten und die
 Erörterung auf die vorgesehenen Änderungen beschränkt; hierauf ist in
 der Bekanntmachung hinzuweisen.
 
-
 ## § 4 Auslegung von Antrag und Unterlagen
 
 (1) Bei der Genehmigungsbehörde und, soweit erforderlich, bei einer
@@ -149,7 +145,6 @@ Auslegung unkenntlich zu machen; ersatzweise ist anstelle der
 Unterlagen die Inhaltsdarstellung nach § 17a Abs. 3 des
 Gentechnikgesetzes auszulegen.
 
-
 ## § 5 Einwendungen
 
 (1) Einwendungen gegen das Vorhaben können schriftlich oder zur
@@ -167,7 +162,6 @@ Verfahrensverordnung zu beteiligenden Stellen ist der anonymisierte
 Inhalt der Einwendungen bekanntzugeben, soweit sie ihre Aufgaben
 berühren.
 
-
 ## § 6 Erörterungstermin
 
 (1) Der Erörterungstermin dient dazu, die rechtzeitig erhobenen
@@ -183,14 +177,12 @@ genannten Stelle eingegangen sind.
 (3) Der Erörterungstermin soll innerhalb eines Monats nach Ablauf der
 Einwendungsfrist stattfinden.
 
-
 ## § 7 Besondere Einwendungen
 
 Einwendungen, die auf besonderen privatrechtlichen Titeln beruhen,
 sind im Erörterungstermin nicht zu behandeln; sie sind durch
 schriftlichen Bescheid auf den Rechtsweg vor den ordentlichen
 Gerichten zu verweisen.
-
 
 ## § 8 Wegfall des Erörterungstermins
 
@@ -211,7 +203,6 @@ Gerichten zu verweisen.
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
-
 ## § 9 Verlegung des Erörterungstermins
 
 (1) Die Genehmigungsbehörde kann den bekanntgemachten
@@ -223,7 +214,6 @@ Erörterungstermins sind zum frühestmöglichen Zeitpunkt zu bestimmen.
 erhoben haben, sind von der Verlegung des Erörterungstermins zu
 benachrichtigen. Sie können durch öffentliche Bekanntmachung
 benachrichtigt werden.
-
 
 ## § 10 Verlauf des Erörterungstermins, Förmliches Verwaltungsverfahren
 
@@ -237,11 +227,9 @@ Neunten Verordnung zur Durchführung des Bundes-
 Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 29. Mai
 1992 (BGBl. I S. 1001) entsprechend.
 
-
 ## § 11 Schriftliches Verfahren
 
 Die §§ 6 bis 10 gelten nicht für Freisetzungen.
-
 
 ## § 12
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Abschn. I bis III AnO v. 26.1.1974 I 121
 
-
 ## I. Festsetzungs- und Regelungsbehörden
 
 Auf Grund des § 155 Abs. 1 Satz 2 des Bundesbeamtengesetzes (BBG) in
@@ -82,10 +81,6 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
     mehreren gleichberechtigten Versorgungsberechtigten bedarf es
     übereinstimmender Anträge.
 
-
-
-
-
 ## II. Dienstunfallversorgung
 
 
@@ -110,10 +105,6 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
     zahlen; im übrigen verbleibt es bei der unter Abschnitt II Nr. 1
     genannten Zuständigkeitsregelung.
 
-
-
-
-
 ## III. Übertragung von Zuständigkeiten kraft besonderer Ermächtigung
 
 Den in Abschnitt I Nr. 2 aufgeführten Behörden übertrage ich für ihren
@@ -129,7 +120,6 @@ wahrgenommen hat, soweit ihnen für diese Beamten nach der Anordnung
 über die Ernennung und Entlassung der Beamten der Bundeswehrverwaltung
 vom 2. Februar 1968 (Bundesgesetzbl. I S. 122) das Ernennungsrecht
 zusteht.
-
 
 ## IV. Vorbehaltsklausel
 
@@ -151,10 +141,6 @@ Ich behalte mir vor,
 
     herbeizuführen.
 
-
-
-
-
 ## V. Übergangsvorschriften
 
 Diese Anordnung in der ergänzten Fassung findet entsprechend auf
@@ -163,13 +149,11 @@ Privatdienstverträgen als Angestellte mit Anwartschaft auf Versorgung
 nach beamtenrechtlichen Vorschriften an den Hochschulen der Bundeswehr
 Hamburg und München tätig sind.
 
-
 ## VI. Schlußvorschriften
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
 Innern. Sie tritt am Ersten des auf die Verkündung folgenden Monats in
 Kraft.
-
 
 ## Schlußformel
 

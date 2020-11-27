@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 23.7.1997 I 1918
 
-
 ## Erster Abschnitt - Aufbau und Geschäftsführung
-
-
 
 ### § 1 Aufbau der Anstalt
 
@@ -29,7 +26,6 @@ Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 gliedert sich in Abteilungen, Gruppen und Referate. Die sich hiernach
 ergebende Aufbauorganisation wird vom Bundesministerium für Ernährung,
 Landwirtschaft und Forsten (Bundesministerium) durch Erlaß festgelegt.
-
 
 ### § 2 Geschäftsführung
 
@@ -47,7 +43,6 @@ Vizepräsidenten vertreten.
 
 (4) Er erläßt eine Geschäftsordnung, die der Zustimmung des
 Bundesministeriums bedarf.
-
 
 ### § 3 Vertretung, Aufgabenübertragung, Zeichnungsbefugnis
 
@@ -67,10 +62,7 @@ durch die Geschäftsordnung geregelt.
 
 (3) Rechtsgeschäftliche Erklärungen bedürfen der Schriftform.
 
-
 ## Zweiter Abschnitt - Verwaltungsrat
-
-
 
 ### § 4 Berufung der Mitglieder des Verwaltungsrates und ihrer Stellvertreter
 
@@ -126,7 +118,6 @@ namentlich zu benennen. Hinsichtlich des Vorschlags und der Bestellung
 der Stellvertreter gilt Absatz 1 und § 5 Abs. 2 und 3 des Gesetzes
 entsprechend.
 
-
 ### § 5 Auskunftsrecht und -pflicht des Verwaltungsrates
 
 (1) Zur Erfüllung der dem Verwaltungsrat nach § 6 des Gesetzes
@@ -139,12 +130,10 @@ Auskunftserteilung und auf Anhörung zu.
 jederzeit und unbeschränkt Auskunft über seine Tätigkeit gibt und ihm
 sämtliche notwendigen Unterlagen und Aufzeichnungen vorlegt.
 
-
 ### § 6 Vertretung des Verwaltungsrates
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen
 Verhinderung durch seinen Stellvertreter vertreten.
-
 
 ### § 7 Sitzungen des Verwaltungsrates
 
@@ -182,16 +171,12 @@ Sitzungsvergütung wird nicht gewährt.
 
 (8) Das Nähere regelt die Geschäftsordnung.
 
-
 ### § 8 Schriftliches Verfahren
 
 Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren
 ist zulässig. Das Nähere regelt die Geschäftsordnung.
 
-
 ## Dritter Abschnitt - Fachbeiräte
-
-
 
 ### § 9 Einsetzung und Zusammensetzung von Fachbeiräten
 
@@ -211,7 +196,6 @@ Bundesministeriums stimmen nicht ab.
 (4) Der Fachbeirat wählt aus seiner Mitte mit der Mehrheit seiner
 Mitglieder den Vorsitzenden und dessen Stellvertreter.
 
-
 ### § 10 Aufgaben der Fachbeiräte
 
 (1) Die Fachbeiräte beraten den Präsidenten und den Verwaltungsrat in
@@ -229,7 +213,6 @@ jeweils zuständige Fachbeirat gehört.
 (3) Die Fachbeiräte haben den Verwaltungsrat über ihre Tätigkeit,
 insbesondere über Stellungnahmen und Äußerungen, die sie dem
 Präsidenten gegenüber unmittelbar abgegeben haben, zu unterrichten.
-
 
 ### § 11 Sitzungen der Fachbeiräte
 
@@ -253,10 +236,7 @@ Geschäftsordnung.
 (4) Für die Teilnahme an den Sitzungen werden keine Reisekosten- und
 Sitzungsvergütung gewährt.
 
-
 ## Vierter Abschnitt - Wirtschaftsführung
-
-
 
 ### § 12 Verwaltungshaushalt, Haushaltsführung
 
@@ -277,7 +257,6 @@ Präsident in entsprechender Anwendung der Rechnungslegungsbestimmungen
 des Bundes eine Jahresrechnung über die tatsächlichen Einnahmen und
 Ausgaben aufzustellen, die dem Bundesministerium zur Erteilung der
 Entlastung vorzulegen ist.
-
 
 ### § 13 Wirtschaftsplan, Wirtschaftsführung
 
@@ -308,20 +287,13 @@ a)  zum 1. Februar eine Nachweisung über die im letzten Geschäftsjahr
 b)  zum 1. Juli die Bilanz, die Gewinn- und Verlustrechnung sowie der
     Geschäftsbericht für das abgelaufene Geschäftsjahr.
 
-
-
-
-
 ### § 14 Kreditaufnahme
 
 Das Verfahren der Inanspruchnahme von Krediten durch die Anstalt (§ 10
 Abs. 4 und 5 des Gesetzes) wird durch Erlaß des Bundesministeriums im
 Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 
-
 ## Fünfter Abschnitt - Übergangsbestimmungen
-
-
 
 ### § 15 Übergangsregelungen
 

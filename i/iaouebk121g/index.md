@@ -19,17 +19,13 @@ Fundstelle
 Geändert durch
 :   Art. 90 G v. 8.12.2010 I 1864
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -40,17 +36,14 @@ Satz 2 Siebtes Buch Sozialgesetzbuch) entsprechen. Diese Änderungen
 sowie der Tag ihres Inkrafttretens für die Bundesrepublik Deutschland
 sind im Bundesgesetzblatt bekanntzugeben.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

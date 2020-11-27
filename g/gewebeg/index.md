@@ -28,11 +28,9 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## (XXXX) Art 1 bis Art 6
 
 -
-
 
 ## Art 7 Bekanntmachungserlaubnis
 
@@ -40,14 +38,12 @@ Das Bundesministerium für Gesundheit kann den Wortlaut des
 Transplantationsgesetzes und des Transfusionsgesetzes in der vom 1.
 August 2007 an geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
-
 ## Art 7a Erfahrungsbericht der Bundesregierung
 
 Die Bundesregierung unterrichtet die gesetzgebenden Körperschaften des
 Bundes alle vier Jahre, erstmals bis zum 1. August 2010 über die
 Situation der Versorgung der Bevölkerung mit Gewebe und
 Gewebezubereitungen.
-
 
 ## Art 8 Inkrafttreten
 

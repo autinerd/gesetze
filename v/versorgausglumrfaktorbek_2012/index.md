@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2798
 
-
 ## (XXXX)
 
 Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des
@@ -87,16 +86,6 @@ Beitragssatzes für das Jahr 2012 berechneten Faktoren betragen im Jahr
         *            *   von Beiträgen in Entgeltpunkte (Ost)
 
             *   0,0001393321.
-
-
-
-
-
-
-
-
-
-
 
 ## Schlussformel
 

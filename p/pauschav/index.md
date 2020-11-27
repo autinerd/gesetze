@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 644
 
-
-
 ## § 1 Verfahrensbeteiligte und zentrale Stelle
 
 (1) Krankenkassen und Spitzenverbände der Krankenkassen im Sinne
@@ -27,7 +25,6 @@ Buches Sozialgesetzbuch genannten Körperschaften.
 (2) Die Mitteilung der Spitzenverbände, wer zentrale Stelle nach § 221
 Abs. 1 Satz 2 des Fünften Buches Sozialgesetzbuch ist, erfolgt bis zum
 15\. April 2004 an das Bundesversicherungsamt.
-
 
 ## § 2 Zu berücksichtigende Ausgaben
 
@@ -44,7 +41,6 @@ Krankenkassen gesondert in der jeweiligen Vierteljahresrechnung
 anzugeben. Die in der Vierteljahresrechnung für den Berichtszeitraum
 1\. Januar bis 31. Dezember ausgewiesene Summe gilt als endgültige
 Summe für die Berechnung der Verteilung auf die Krankenkassen.
-
 
 ## § 3 Verteilungsquote
 
@@ -77,7 +73,6 @@ Krankenkassen mit. Die Spitzenverbände stellen sicher, dass die
 Krankenkassen, für die sie zuständig sind, unverzüglich Kenntnis von
 der Verteilungsquote erhalten. Das Bundesversicherungsamt macht die
 Verteilungsquote im Bundesanzeiger bekannt.
-
 
 ## § 4 Verteilungsverfahren
 
@@ -118,7 +113,6 @@ ihren Geschäfts- und Rechnungsergebnissen aus.
 Spitzenverbänden der Krankenkassen das Verteilungsverfahren
 vereinfachen.
 
-
 ## § 5 Korrekturverfahren
 
 Werden nach Abschluss der Ermittlung der Werte nach § 4 Abs. 1
@@ -127,7 +121,6 @@ festgestellt, berücksichtigt das Bundesversicherungsamt diese im
 nächsten Verteilungsverfahren. Das Nähere regelt das
 Bundesversicherungsamt im Einvernehmen mit den Spitzenverbänden der
 Krankenkassen.
-
 
 ## Anlage (zu § 2 Abs. 1)
 

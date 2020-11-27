@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 6.8.1998 I 2044
 
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 2 Satz 2 bis 4 des Arzneimittelgesetzes vom
@@ -27,7 +26,6 @@ Auf Grund des § 50 Abs. 2 Satz 2 bis 4 des Arzneimittelgesetzes vom
 Bundesminister für Wirtschaft, dem Bundesminister für Bildung und
 Wissenschaft und dem Bundesminister für Ernährung, Landwirtschaft und
 Forsten mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Nachweis der Sachkenntnis
 
@@ -38,7 +36,6 @@ freigegeben sind (freiverkäufliche Arzneimittel), kann durch eine
 Prüfung nach den §§ 2 bis 9, durch Prüfungszeugnisse über eine andere
 abgeleistete berufliche Ausbildung nach § 10 oder in sonstiger Weise
 nach § 11 erbracht werden.
-
 
 ## § 2 Errichtung und Tätigkeit des Prüfungsausschusses
 
@@ -68,7 +65,6 @@ Stellvertreter im Prüfungsausschuß sind die §§ 83 bis 86, auf die
 Tätigkeit des Prüfungsausschusses die §§ 89 bis 91 und 93 des
 Verwaltungsverfahrensgesetzes anzuwenden.
 
-
 ## § 3 Prüfungstermine und Anmeldung zur Prüfung
 
 (1) Die zuständige Behörde bestimmt die Termine für die Durchführung
@@ -85,7 +81,6 @@ kann.
 anzumelden, in deren Bezirk sein Beschäftigungsort oder seine Aus-
 oder Fortbildungsstätte liegt oder der Bewerber seinen gewöhnlichen
 Aufenthalt hat oder zuletzt hatte.
-
 
 ## § 4 Prüfungsanforderungen
 
@@ -125,10 +120,6 @@ Arzneimittel geltenden Vorschriften besitzt.
     Arzneimittelrechts und des Rechts der Werbung auf dem Gebiete des
     Heilwesens kennt.
 
-
-
-
-
 ## § 5 Durchführung der Prüfung
 
 (1) Die Prüfung wird mündlich oder schriftlich abgelegt. Die
@@ -156,7 +147,6 @@ vorbereiten, als Gäste bei einer mündlichen Prüfung zulassen. Bei der
 Beratung über die Prüfungsergebnisse dürfen nur die Mitglieder des
 Prüfungsausschusses anwesend sein.
 
-
 ## § 6 Rücktritt, Nichtteilnahme
 
 (1) Der Prüfungsbewerber kann nach der Anmeldung vor Beginn der
@@ -167,7 +157,6 @@ die Prüfung als nicht abgelegt.
 nimmt er an der Prüfung nicht teil, ohne daß ein wichtiger Grund
 vorliegt, so gilt die Prüfung als nicht bestanden. Über das Vorliegen
 eines wichtigen Grundes entscheidet der Prüfungsausschuß.
-
 
 ## § 7 Prüfungsergebnis und Prüfungszeugnis
 
@@ -188,12 +177,10 @@ zuständigen Behörde ein Zeugnis nach dem Muster der Anlage.
 der zuständigen Behörde einen schriftlichen Bescheid. Auf die
 Vorschriften über die Wiederholungsprüfung in § 8 ist hinzuweisen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 Eine nicht bestandene Prüfung kann wiederholt werden. Die Prüfung kann
 frühestens zum nächsten Prüfungstermin wiederholt werden.
-
 
 ## § 9 Zuständige Stelle
 
@@ -201,7 +188,6 @@ Wird von der zuständigen Behörde eine Stelle bestimmt, vor der die
 Prüfung abzulegen ist, so gelten für diese die §§ 2 bis 8
 entsprechend. Die zuständige Behörde kann einen Beobachter zur Prüfung
 entsenden.
-
 
 ## § 10 Anerkennung anderer Nachweise
 
@@ -251,7 +237,6 @@ den Vorschriften der Deutschen Demokratischen Republik erteilt worden
 sind oder nach Wirksamwerden des Beitritts in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet erteilt werden.
 
-
 ## § 11 Sonstiger Nachweis der Sachkenntnis
 
 Den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen
@@ -271,22 +256,18 @@ Januar 1978 die Voraussetzungen
 
 erfüllt hat.
 
-
 ## § 12
 
 (weggefallen)
-
 
 ## § 13 Inkrafttreten
 
 Die §§ 10 und 11 treten mit Wirkung vom 1. Januar 1978 in Kraft. Im
 übrigen tritt diese Verordnung am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
-
 
 ## Anlage (zu § 7 Abs. 3)
 

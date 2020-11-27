@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 7.12.2006 I 2782
 
-
 ## § 1
 
 Führt eine in § 21 Abs. 1 des Umwandlungssteuergesetzes bezeichnete
@@ -37,7 +36,6 @@ Satzes 1 ist, dass die übernehmende Gesellschaft nicht unbeschränkt
 steuerpflichtig im Sinne des § 1 Abs. 1 des Körperschaftsteuergesetzes
 ist.
 
-
 ## § 2
 
 (1) § 1 gilt nicht, wenn das eingebrachte Betriebsvermögen oder die an
@@ -51,7 +49,6 @@ dieses Unternehmens voraussetzen und die nach diesen Vorschriften
 berechnete Zahl der Arbeitnehmer des Unternehmens auf weniger als in
 der Regel ein Viertel dieser Mindestzahl sinkt.
 
-
 ## § 3
 
 Soweit nach § 1 die Konzernzugehörigkeit eines Unternehmens oder die
@@ -59,7 +56,6 @@ Unternehmenszugehörigkeit eines Betriebs oder Teilbetriebs fingiert
 wird, sind die im Zeitpunkt des Vorgangs in dem betreffenden
 Unternehmen, Betrieb oder Teilbetrieb bestehenden tatsächlichen
 Verhältnisse maßgebend.
-
 
 ## § 4
 

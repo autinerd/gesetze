@@ -25,7 +25,6 @@ Gesetzes zur Vereinfachung und Anpassung statistischer
 Rechtsvorschriften vom 17. März 2008 (BGBl. I S. 399) verordnet die
 Bundesregierung:
 
-
 ## § 1
 
 In der Erhebung der Struktur der Arbeitskosten nach § 2 Absatz 1 Satz
@@ -38,15 +37,10 @@ In der Erhebung der Struktur der Arbeitskosten nach § 2 Absatz 1 Satz
 2.  die Zahl der Beschäftigten mit Anwartschaften nach dem
     Betriebsrentengesetz zusätzlich erhoben.
 
-
-
-
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft und am 30. Juni 2014
 außer Kraft.
-
 
 ## Schlussformel
 

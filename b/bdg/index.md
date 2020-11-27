@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 6.12.2011 I 2554
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Persönlicher Geltungsbereich
 
@@ -30,7 +27,6 @@ Bundesbeamtengesetzes. Frühere Beamte, die Unterhaltsbeiträge nach den
 Bestimmungen des Beamtenversorgungsgesetzes oder entsprechender
 früherer Regelungen beziehen, gelten bis zum Ende dieses Bezuges als
 Ruhestandsbeamte, ihre Bezüge als Ruhegehalt.
-
 
 ### § 2 Sachlicher Geltungsbereich
 
@@ -72,7 +68,6 @@ wegen solcher Dienstvergehen, die während des Wehrdienstes begangen
 wurden, wenn das Verhalten sowohl soldatenrechtlich als auch
 beamtenrechtlich ein Dienstvergehen darstellt.
 
-
 ### § 3 Ergänzende Anwendung des Verwaltungsverfahrensgesetzes und der Verwaltungsgerichtsordnung
 
 Zur Ergänzung dieses Gesetzes sind die Bestimmungen des
@@ -81,15 +76,11 @@ entsprechend anzuwenden, soweit sie nicht zu den Bestimmungen dieses
 Gesetzes in Widerspruch stehen oder soweit nicht in diesem Gesetz
 etwas anderes bestimmt ist.
 
-
 ### § 4 Gebot der Beschleunigung
 
 Disziplinarverfahren sind beschleunigt durchzuführen.
 
-
 ## Teil 2 - Disziplinarmaßnahmen
-
-
 
 ### § 5 Arten der Disziplinarmaßnahmen
 
@@ -127,7 +118,6 @@ erteilt und Geldbußen auferlegt werden. Für die Entlassung von Beamten
 auf Probe und Beamten auf Widerruf wegen eines Dienstvergehens gelten
 § 34 Abs. 1 Nr. 1 und Abs. 3 sowie § 37 des Bundesbeamtengesetzes.
 
-
 ### § 6 Verweis
 
 Der Verweis ist der schriftliche Tadel eines bestimmten Verhaltens des
@@ -135,14 +125,12 @@ Beamten. Missbilligende Äußerungen (Zurechtweisungen, Ermahnungen oder
 Rügen), die nicht ausdrücklich als Verweis bezeichnet werden, sind
 keine Disziplinarmaßnahmen.
 
-
 ### § 7 Geldbuße
 
 Die Geldbuße kann bis zur Höhe der monatlichen Dienst- oder
 Anwärterbezüge des Beamten auferlegt werden. Hat der Beamte keine
 Dienst- oder Anwärterbezüge, darf die Geldbuße bis zu dem Betrag von
 500 Euro auferlegt werden.
-
 
 ### § 8 Kürzung der Dienstbezüge
 
@@ -179,7 +167,6 @@ auf ein neues Beamtenverhältnis. Hierbei steht bei Anwendung des
 Absatzes 4 die Einstellung oder Anstellung in einem höheren als dem
 bisherigen Amt der Beförderung gleich.
 
-
 ### § 9 Zurückstufung
 
 (1) Die Zurückstufung ist die Versetzung des Beamten in ein Amt
@@ -207,7 +194,6 @@ Dauer des Disziplinarverfahrens angezeigt ist.
 neues Beamtenverhältnis. Hierbei steht im Hinblick auf Absatz 3 die
 Einstellung oder Anstellung in einem höheren Amt als dem, in welches
 der Beamte zurückgestuft wurde, der Beförderung gleich.
-
 
 ### § 10 Entfernung aus dem Beamtenverhältnis
 
@@ -250,14 +236,12 @@ wird, das in dem früheren Dienstverhältnis begangen wurde.
 nicht wieder zum Beamten ernannt werden; es soll auch kein anderes
 Beschäftigungsverhältnis begründet werden.
 
-
 ### § 11 Kürzung des Ruhegehalts
 
 Die Kürzung des Ruhegehalts ist die bruchteilmäßige Verminderung des
 monatlichen Ruhegehalts des Ruhestandsbeamten um höchstens ein Fünftel
 auf längstens drei Jahre. § 8 Abs. 1 Satz 2 und 3 sowie Abs. 2 Satz 1
 und 4 gilt entsprechend.
-
 
 ### § 12 Aberkennung des Ruhegehalts
 
@@ -281,7 +265,6 @@ Ruhestand inne gehabt hat.
 
 (4) § 10 Abs. 2 Satz 1 sowie Abs. 5 und 6 gilt entsprechend.
 
-
 ### § 13 Bemessung der Disziplinarmaßnahme
 
 (1) Die Entscheidung über eine Disziplinarmaßnahme ergeht nach
@@ -296,7 +279,6 @@ des Dienstherrn oder der Allgemeinheit endgültig verloren hat, ist aus
 dem Beamtenverhältnis zu entfernen. Dem Ruhestandsbeamten wird das
 Ruhegehalt aberkannt, wenn er als noch im Dienst befindlicher Beamter
 aus dem Beamtenverhältnis hätte entfernt werden müssen.
-
 
 ### § 14 Zulässigkeit von Disziplinarmaßnahmen nach Straf- oder Bußgeldverfahren
 
@@ -325,7 +307,6 @@ ausgesprochen werden, wenn dieser Sachverhalt ein Dienstvergehen
 darstellt, ohne den Tatbestand einer Straf- oder Bußgeldvorschrift zu
 erfüllen.
 
-
 ### § 15 Disziplinarmaßnahmeverbot wegen Zeitablaufs
 
 (1) Sind seit der Vollendung eines Dienstvergehens mehr als zwei Jahre
@@ -353,7 +334,6 @@ für die Dauer der Mitwirkung des Personalrats gehemmt. Ist vor Ablauf
 der Frist wegen desselben Sachverhalts ein Straf- oder
 Bußgeldverfahren eingeleitet oder eine Klage aus dem Beamtenverhältnis
 erhoben worden, ist die Frist für die Dauer dieses Verfahrens gehemmt.
-
 
 ### § 16 Verwertungsverbot, Entfernung aus der Personalakte
 
@@ -406,14 +386,9 @@ rechtfertigen.
 zu einer missbilligenden Äußerung geführt haben, findet § 112 Abs. 1
 Satz 1 Nr. 2, Satz 2 und 3 des Bundesbeamtengesetzes Anwendung.
 
-
 ## Teil 3 - Behördliches Disziplinarverfahren
 
-
-
 ### Kapitel 1 - Einleitung, Ausdehnung und Beschränkung
-
-
 
 #### § 17 Einleitung von Amts wegen
 
@@ -449,7 +424,6 @@ den neuen Dienstvorgesetzten über, soweit dieser nicht ihre Ausübung
 den anderen Dienstvorgesetzten überlässt oder soweit nichts anderes
 bestimmt ist.
 
-
 #### § 18 Einleitung auf Antrag des Beamten
 
 (1) Der Beamte kann bei dem Dienstvorgesetzten oder dem höheren
@@ -464,7 +438,6 @@ mitzuteilen.
 
 (3) § 17 Abs. 1 Satz 2 zweiter Halbsatz und Satz 3 sowie Abs. 3 und 4
 gilt entsprechend.
-
 
 #### § 19 Ausdehnung und Beschränkung
 
@@ -485,10 +458,7 @@ die ausgeschiedenen Handlungen nicht wieder einbezogen, können sie
 nach dem unanfechtbaren Abschluss des Disziplinarverfahrens nicht
 Gegenstand eines neuen Disziplinarverfahrens sein.
 
-
 ### Kapitel 2 - Durchführung
-
-
 
 #### § 20 Unterrichtung, Belehrung und Anhörung des Beamten
 
@@ -515,7 +485,6 @@ Ladungen sind dem Beamten zuzustellen.
 unterblieben oder unrichtig erfolgt, darf die Aussage des Beamten
 nicht zu seinem Nachteil verwertet werden.
 
-
 #### § 21 Pflicht zur Durchführung von Ermittlungen, Ausnahmen
 
 (1) Zur Aufklärung des Sachverhalts sind die erforderlichen
@@ -533,7 +502,6 @@ entschieden worden ist, feststeht. Von Ermittlungen kann auch
 abgesehen werden, soweit der Sachverhalt auf sonstige Weise aufgeklärt
 ist, insbesondere nach der Durchführung eines anderen gesetzlich
 geordneten Verfahrens.
-
 
 #### § 22 Zusammentreffen von Disziplinarverfahren mit Strafverfahren oder anderen Verfahren, Aussetzung
 
@@ -555,7 +523,6 @@ entscheiden ist, deren Beurteilung für die Entscheidung im
 Disziplinarverfahren von wesentlicher Bedeutung ist. Absatz 1 Satz 2
 und Absatz 2 gelten entsprechend.
 
-
 #### § 23 Bindung an tatsächliche Feststellungen aus Strafverfahren oder anderen Verfahren
 
 (1) Die tatsächlichen Feststellungen eines rechtskräftigen Urteils im
@@ -569,7 +536,6 @@ Sachverhalt zum Gegenstand hat, bindend.
 tatsächlichen Feststellungen sind nicht bindend, können aber der
 Entscheidung im Disziplinarverfahren ohne nochmalige Prüfung zugrunde
 gelegt werden.
-
 
 #### § 24 Beweiserhebung
 
@@ -610,7 +576,6 @@ oder zum Schutz der Rechte Dritter, erforderlich ist. Ein
 schriftliches Gutachten ist ihm zugänglich zu machen, soweit nicht
 zwingende Gründe dem entgegenstehen.
 
-
 #### § 25 Zeugen und Sachverständige
 
 (1) Zeugen sind zur Aussage und Sachverständige zur Erstattung von
@@ -632,7 +597,6 @@ Verweigerung der Aussage oder der Erstattung des Gutachtens.
 seinem allgemeinen Vertreter oder einem beauftragten Beschäftigten
 gestellt werden, der die Befähigung zum Richteramt hat.
 
-
 #### § 26 Herausgabe von Unterlagen
 
 Der Beamte hat Schriftstücke, Zeichnungen, bildliche Darstellungen und
@@ -642,7 +606,6 @@ Disziplinarverfahren zur Verfügung zu stellen. Das Gericht kann die
 Herausgabe auf Antrag durch Beschluss anordnen und sie durch die
 Festsetzung von Zwangsgeld erzwingen; für den Antrag gilt § 25 Abs. 3
 entsprechend. Der Beschluss ist unanfechtbar.
-
 
 #### § 27 Beschlagnahmen und Durchsuchungen
 
@@ -661,7 +624,6 @@ Strafprozessordnung dazu berufenen Behörden durchgeführt werden.
 (3) Durch Absatz 1 wird das Grundrecht der Unverletzlichkeit der
 Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) eingeschränkt.
 
-
 #### § 28 Protokoll
 
 Über Anhörungen des Beamten und Beweiserhebungen sind Protokolle
@@ -669,7 +631,6 @@ aufzunehmen; § 168a der Strafprozessordnung gilt entsprechend. Bei der
 Einholung von schriftlichen dienstlichen Auskünften sowie der
 Beiziehung von Urkunden und Akten genügt die Aufnahme eines
 Aktenvermerks.
-
 
 #### § 29 Innerdienstliche Informationen
 
@@ -694,14 +655,12 @@ Aufgaben oder Ämtern an den Beamten oder im Einzelfall aus besonderen
 dienstlichen Gründen unter Berücksichtigung der Belange des Beamten
 oder anderer Betroffener erforderlich ist.
 
-
 #### § 30 Abschließende Anhörung
 
 Nach der Beendigung der Ermittlungen ist dem Beamten Gelegenheit zu
 geben, sich abschließend zu äußern; § 20 Abs. 2 gilt entsprechend. Die
 Anhörung kann unterbleiben, wenn das Disziplinarverfahren nach § 32
 Abs. 2 Nr. 2 oder 3 eingestellt werden soll.
-
 
 #### § 31 Abgabe des Disziplinarverfahrens
 
@@ -714,10 +673,7 @@ Disziplinarverfahren an den Dienstvorgesetzten zurückgeben, wenn sie
 weitere Ermittlungen für geboten oder dessen Befugnisse für
 ausreichend halten.
 
-
 ### Kapitel 3 - Abschlussentscheidung
-
-
 
 #### § 32 Einstellungsverfügung
 
@@ -758,7 +714,6 @@ ausreichend halten.
 
 (3) Die Einstellungsverfügung ist zu begründen und zuzustellen.
 
-
 #### § 33 Disziplinarverfügung
 
 (1) Ist ein Verweis, eine Geldbuße, eine Kürzung der Dienstbezüge oder
@@ -791,7 +746,6 @@ zu veröffentlichen.
 
 (6) Die Disziplinarverfügung ist zu begründen und zuzustellen.
 
-
 #### § 34 Erhebung der Disziplinarklage
 
 (1) Soll gegen den Beamten auf Zurückstufung, auf Entfernung aus dem
@@ -806,7 +760,6 @@ Anordnung ganz oder teilweise auf nachgeordnete Dienstvorgesetzte
 übertragen; die Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
 § 17 Abs. 1 Satz 2 zweiter Halbsatz sowie Abs. 3 und 4 gilt
 entsprechend.
-
 
 #### § 35 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
 
@@ -842,7 +795,6 @@ Urteil auf Grund von tatsächlichen Feststellungen, die von denjenigen
 tatsächlichen Feststellungen, auf denen die Entscheidung beruht,
 abweichen.
 
-
 #### § 36 Verfahren bei nachträglicher Entscheidung im Straf- oder Bußgeldverfahren
 
 (1) Ergeht nach dem Eintritt der Unanfechtbarkeit der
@@ -856,7 +808,6 @@ Disziplinarverfahren einzustellen.
 (2) Die Antragsfrist beträgt drei Monate. Sie beginnt mit dem Tag, an
 dem der Beamte von der in Absatz 1 bezeichneten Entscheidung Kenntnis
 erhalten hat.
-
 
 #### § 37 Kostentragungspflicht
 
@@ -886,10 +837,7 @@ das Verschulden eines Vertreters ist ihm zuzurechnen.
 
 (5) Das behördliche Disziplinarverfahren ist gebührenfrei.
 
-
 ### Kapitel 4 - Vorläufige Dienstenthebung und Einbehaltung von Bezügen
-
-
 
 #### § 38 Zulässigkeit
 
@@ -930,7 +878,6 @@ die vorläufige Dienstenthebung, die Einbehaltung von Dienst- oder
 Anwärterbezügen sowie die Einbehaltung von Ruhegehalt jederzeit ganz
 oder teilweise aufheben.
 
-
 #### § 39 Rechtswirkungen
 
 (1) Die vorläufige Dienstenthebung wird mit der Zustellung, die
@@ -953,7 +900,6 @@ mitzuteilen.
 
 (4) Die vorläufige Dienstenthebung und die Einbehaltung von Bezügen
 enden mit dem rechtskräftigen Abschluss des Disziplinarverfahrens.
-
 
 #### § 40 Verfall und Nachzahlung der einbehaltenen Beträge
 
@@ -998,10 +944,7 @@ die Erhebung der Disziplinarklage zuständige Behörde feststellt, dass
 ein Dienstvergehen erwiesen ist. Der Beamte ist verpflichtet, über die
 Höhe solcher Einkünfte Auskunft zu geben.
 
-
 ### Kapitel 5 - Widerspruchsverfahren
-
-
 
 #### § 41 Erforderlichkeit, Form und Frist des Widerspruchs
 
@@ -1012,7 +955,6 @@ Dienstbehörde erlassen worden ist.
 
 (2) Für die Form und die Frist des Widerspruchs gilt § 70 der
 Verwaltungsgerichtsordnung.
-
 
 #### § 42 Widerspruchsbescheid
 
@@ -1028,7 +970,6 @@ nicht zum Nachteil des Beamten abgeändert werden. Die Befugnis, eine
 abweichende Entscheidung nach § 35 Abs. 3 zu treffen, bleibt
 unberührt.
 
-
 #### § 43 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
 
 Der Widerspruchsbescheid ist der obersten Dienstbehörde unverzüglich
@@ -1042,7 +983,6 @@ ergeht wegen desselben Sachverhalts ein rechtskräftiges Urteil auf
 Grund von tatsächlichen Feststellungen, die von denjenigen
 tatsächlichen Feststellungen, auf denen die Entscheidung beruht,
 abweichen.
-
 
 #### § 44 Kostentragungspflicht
 
@@ -1061,14 +1001,9 @@ Ermessen zu entscheiden.
 
 (4) § 37 Abs. 4 und 5 gilt entsprechend.
 
-
 ## Teil 4 - Gerichtliches Disziplinarverfahren
 
-
-
 ### Kapitel 1 - Disziplinargerichtsbarkeit
-
-
 
 #### § 45 Zuständigkeit der Verwaltungsgerichtsbarkeit
 
@@ -1083,7 +1018,6 @@ mehrerer Gerichte zuständig ist, ist dieses Gericht, wenn nichts
 anderes bestimmt wird, auch für die in Satz 1 genannten Aufgaben
 zuständig. § 50 Abs. 1 Nr. 4 der Verwaltungsgerichtsordnung bleibt
 unberührt.
-
 
 #### § 46 Kammer für Disziplinarsachen
 
@@ -1124,7 +1058,6 @@ eine andere Besetzung der Kammer für Disziplinarsachen vorgesehen ist,
 gilt diese Besetzung, wenn nichts anderes bestimmt wird, auch für die
 gerichtlichen Verfahren nach diesem Gesetz.
 
-
 #### § 47 Beamtenbeisitzer
 
 (1) Die Beamtenbeisitzer müssen auf Lebenszeit ernannte Beamte im
@@ -1141,7 +1074,6 @@ anzuwenden.
 
 (3) Das Verfahren zur Auswahl oder Bestellung der Beamtenbeisitzer
 bestimmt sich nach Landesrecht.
-
 
 #### § 48 Ausschluss von der Ausübung des Richteramts
 
@@ -1182,7 +1114,6 @@ Richteramts kraft Gesetzes ausgeschlossen, wenn er
 (2) Ein Beamtenbeisitzer ist auch ausgeschlossen, wenn er der
 Dienststelle des Beamten angehört.
 
-
 #### § 49 Nichtheranziehung eines Beamtenbeisitzers
 
 Ein Beamtenbeisitzer, gegen den Disziplinarklage oder wegen einer
@@ -1191,7 +1122,6 @@ Erlass eines Strafbefehls beantragt oder dem die Führung seiner
 Dienstgeschäfte verboten worden ist, darf während dieser Verfahren
 oder für die Dauer des Verbots zur Ausübung seines Amts nicht
 herangezogen werden.
-
 
 #### § 50 Entbindung vom Amt des Beamtenbeisitzers
 
@@ -1225,7 +1155,6 @@ Antrag von der weiteren Ausübung des Amts entbunden werden.
 (3) Für die Entscheidung gilt § 24 Abs. 3 der
 Verwaltungsgerichtsordnung entsprechend.
 
-
 #### § 51 Senate für Disziplinarsachen
 
 (1) Für den Senat für Disziplinarsachen des Oberverwaltungsgerichts
@@ -1233,14 +1162,9 @@ gelten § 46 Abs. 1 und 3 sowie die §§ 47 bis 50 entsprechend.
 
 (2) Für das Bundesverwaltungsgericht gilt § 48 Abs. 1 entsprechend.
 
-
 ### Kapitel 2 - Disziplinarverfahren vor dem Verwaltungsgericht
 
-
-
 #### Abschnitt 1 - Klageverfahren
-
-
 
 ##### § 52 Klageerhebung, Form und Frist der Klage
 
@@ -1258,7 +1182,6 @@ verwiesen werden.
 81 der Verwaltungsgerichtsordnung. Der Lauf der Frist des § 75 Satz 2
 der Verwaltungsgerichtsordnung ist gehemmt, solange das
 Disziplinarverfahren nach § 22 ausgesetzt ist.
-
 
 ##### § 53 Nachtragsdisziplinarklage
 
@@ -1294,14 +1217,12 @@ Nachtragsdisziplinarklage erhoben, setzt das Gericht das
 Disziplinarverfahren ohne Einbeziehung der neuen Handlungen fort;
 Absatz 3 Satz 2 und 3 gilt entsprechend.
 
-
 ##### § 54 Belehrung der Beamten
 
 Der Beamte ist durch den Vorsitzenden gleichzeitig mit der Zustellung
 der Disziplinarklage oder der Nachtragsdisziplinarklage auf die
 Fristen des § 55 Abs. 1 und des § 58 Abs. 2 sowie auf die Folgen der
 Fristversäumung hinzuweisen.
-
 
 ##### § 55 Mängel des behördlichen Disziplinarverfahrens oder der Klageschrift
 
@@ -1328,7 +1249,6 @@ Disziplinarverfahren durch Beschluss des Gerichts eingestellt.
 (4) Die rechtskräftige Einstellung nach Absatz 3 steht einem
 rechtskräftigen Urteil gleich.
 
-
 ##### § 56 Beschränkung des Disziplinarverfahrens
 
 Das Gericht kann das Disziplinarverfahren beschränken, indem es solche
@@ -1340,7 +1260,6 @@ Voraussetzungen für die Beschränkung entfallen nachträglich. Werden
 die ausgeschiedenen Handlungen nicht wieder einbezogen, können sie
 nach dem unanfechtbaren Abschluss des Disziplinarverfahrens nicht
 Gegenstand eines neuen Disziplinarverfahrens sein.
-
 
 ##### § 57 Bindung an tatsächliche Feststellungen aus anderen Verfahren
 
@@ -1356,7 +1275,6 @@ offenkundig unrichtig sind.
 (2) Die in einem anderen gesetzlich geordneten Verfahren getroffenen
 tatsächlichen Feststellungen sind nicht bindend, können aber der
 Entscheidung ohne erneute Prüfung zugrunde gelegt werden.
-
 
 ##### § 58 Beweisaufnahme
 
@@ -1377,7 +1295,6 @@ Zeuge auszusagen oder als Sachverständiger ein Gutachten zu erstatten,
 über die Ablehnung von Sachverständigen sowie über die Vernehmung von
 Angehörigen des öffentlichen Dienstes als Zeugen und Sachverständige
 gelten entsprechend.
-
 
 ##### § 59 Entscheidung durch Beschluss
 
@@ -1401,7 +1318,6 @@ Beteiligter widersprochen hat.
 
 (2) Der rechtskräftige Beschluss nach Absatz 1 steht einem
 rechtskräftigen Urteil gleich.
-
 
 ##### § 60 Mündliche Verhandlung, Entscheidung durch Urteil
 
@@ -1427,7 +1343,6 @@ gelegt werden. Das Gericht kann in dem Urteil
 neben der Rechtmäßigkeit auch die Zweckmäßigkeit der angefochtenen
 Entscheidung.
 
-
 ##### § 61 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
 
 (1) Soweit der Dienstherr die Disziplinarklage zurückgenommen hat,
@@ -1447,10 +1362,7 @@ desselben Sachverhalts ein rechtskräftiges Urteil auf Grund von
 tatsächlichen Feststellungen, die von denjenigen tatsächlichen
 Feststellungen, auf denen die Entscheidung beruht, abweichen.
 
-
 #### Abschnitt 2 - Besondere Verfahren
-
-
 
 ##### § 62 Antrag auf gerichtliche Fristsetzung
 
@@ -1475,7 +1387,6 @@ des Gerichts einzustellen.
 (4) Der rechtskräftige Beschluss nach Absatz 3 steht einem
 rechtskräftigen Urteil gleich.
 
-
 ##### § 63 Antrag auf Aussetzung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen
 
 (1) Der Beamte kann die Aussetzung der vorläufigen Dienstenthebung und
@@ -1492,14 +1403,9 @@ bestehen.
 (3) Für die Änderung oder Aufhebung von Beschlüssen über Anträge nach
 Absatz 1 gilt § 80 Abs. 7 der Verwaltungsgerichtsordnung entsprechend.
 
-
 ### Kapitel 3 - Disziplinarverfahren vor dem Oberverwaltungsgericht
 
-
-
 #### Abschnitt 1 - Berufung
-
-
 
 ##### § 64 Statthaftigkeit, Form und Frist der Berufung
 
@@ -1518,7 +1424,6 @@ unzulässig.
 Verwaltungsgerichts nur zu, wenn sie von dem Verwaltungsgericht oder
 dem Oberverwaltungsgericht zugelassen wird. Die §§ 124 und 124a der
 Verwaltungsgerichtsordnung sind anzuwenden.
-
 
 ##### § 65 Berufungsverfahren
 
@@ -1544,7 +1449,6 @@ Berufungsverfahren ausgeschlossen.
 (4) Die durch das Verwaltungsgericht erhobenen Beweise können der
 Entscheidung ohne erneute Beweisaufnahme zugrunde gelegt werden.
 
-
 ##### § 66 Mündliche Verhandlung, Entscheidung durch Urteil
 
 Das Oberverwaltungsgericht entscheidet über die Berufung, wenn das
@@ -1552,10 +1456,7 @@ Disziplinarverfahren nicht auf andere Weise abgeschlossen wird, auf
 Grund mündlicher Verhandlung durch Urteil. § 106 der
 Verwaltungsgerichtsordnung wird nicht angewandt.
 
-
 #### Abschnitt 2 - Beschwerde
-
-
 
 ##### § 67 Statthaftigkeit, Form und Frist der Beschwerde
 
@@ -1570,16 +1471,12 @@ auf das Fehlen der Zustimmung der Beteiligten gestützt werden.
 Verwaltungsgerichts über eine Aussetzung nach § 63 gilt § 146 Abs. 4
 der Verwaltungsgerichtsordnung entsprechend.
 
-
 ##### § 68 Entscheidung des Oberverwaltungsgerichts
 
 Das Oberverwaltungsgericht entscheidet über die Beschwerde durch
 Beschluss.
 
-
 ### Kapitel 4 - Disziplinarverfahren vor dem Bundesverwaltungsgericht
-
-
 
 #### § 69 Form, Frist und Zulassung der Revision
 
@@ -1587,7 +1484,6 @@ Für die Zulassung der Revision, für die Form und Frist der Einlegung
 der Revision und der Einlegung der Beschwerde gegen ihre
 Nichtzulassung sowie für die Revisionsgründe gelten die §§ 132, 133,
 137 bis 139 der Verwaltungsgerichtsordnung.
-
 
 #### § 70 Revisionsverfahren, Entscheidung über die Revision
 
@@ -1597,10 +1493,7 @@ Disziplinarverfahren vor dem Oberverwaltungsgericht entsprechend.
 (2) Für die Entscheidung über die Revision gelten die §§ 143 und 144
 der Verwaltungsgerichtsordnung.
 
-
 ### Kapitel 5 - Wiederaufnahme des gerichtlichen Disziplinarverfahrens
-
-
 
 #### § 71 Wiederaufnahmegründe
 
@@ -1670,7 +1563,6 @@ ist oder wenn ein strafgerichtliches Verfahren aus anderen Gründen als
 wegen Mangels an Beweisen nicht eingeleitet oder nicht durchgeführt
 werden kann.
 
-
 #### § 72 Unzulässigkeit der Wiederaufnahme
 
 (1) Die Wiederaufnahme des durch rechtskräftiges Urteil
@@ -1694,7 +1586,6 @@ Eintritt der Rechtskraft
 Beamten ist außerdem unzulässig, wenn seit dem Eintritt der
 Rechtskraft des Urteils drei Jahre vergangen sind.
 
-
 #### § 73 Frist, Verfahren
 
 (1) Der Antrag auf Wiederaufnahme des Disziplinarverfahrens muss bei
@@ -1711,7 +1602,6 @@ Beweismittel zu begründen.
 gerichtliche Disziplinarverfahren entsprechend, soweit sich aus diesem
 Gesetz nichts anderes ergibt.
 
-
 #### § 74 Entscheidung durch Beschluss
 
 (1) Das Gericht kann den Antrag, auch nach der Eröffnung der
@@ -1727,7 +1617,6 @@ Disziplinarverfügung aufheben. Der Beschluss ist unanfechtbar.
 (3) Der rechtskräftige Beschluss nach Absatz 1 sowie der Beschluss
 nach Absatz 2 stehen einem rechtskräftigen Urteil gleich.
 
-
 #### § 75 Mündliche Verhandlung, Entscheidung des Gerichts
 
 (1) Das Gericht entscheidet, wenn das Wiederaufnahmeverfahren nicht
@@ -1737,7 +1626,6 @@ durch Urteil.
 (2) Gegen das Urteil des Verwaltungsgerichts und des
 Oberverwaltungsgerichts kann das in dem jeweiligen Verfahren
 statthafte Rechtsmittel eingelegt werden.
-
 
 #### § 76 Rechtswirkungen, Entschädigung
 
@@ -1761,10 +1649,7 @@ nach dem rechtskräftigen Abschluss des Wiederaufnahmeverfahrens bei
 der für die Erhebung der Disziplinarklage zuständigen Behörde geltend
 zu machen.
 
-
 ### Kapitel 6 - Kosten
-
-
 
 #### § 77 Kostentragung und erstattungsfähige Kosten
 
@@ -1784,7 +1669,6 @@ Fristsetzungsantrag über die Kosten des Verfahrens zu befinden.
 (4) Kosten im Sinne dieser Vorschrift sind auch die Kosten des
 behördlichen Disziplinarverfahrens.
 
-
 #### § 78 Gerichtskosten
 
 In gerichtlichen Disziplinarverfahren werden Gebühren nach dem
@@ -1793,10 +1677,7 @@ sind die für Kosten in Verfahren vor den Gerichten der
 Verwaltungsgerichtsbarkeit geltenden Vorschriften des
 Gerichtskostengesetzes entsprechend anzuwenden.
 
-
 ## Teil 5 - Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
-
-
 
 ### § 79 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
 
@@ -1830,7 +1711,6 @@ Dienstbehörde.
 (5) Der Anspruch auf den Unterhaltsbeitrag erlischt, wenn der
 Betroffene wieder in ein öffentlich-rechtliches Amts- oder
 Dienstverhältnis berufen wird.
-
 
 ### § 80 Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten
 
@@ -1879,7 +1759,6 @@ wenn zum Zeitpunkt der Entfernung aus dem Beamtenverhältnis oder der
 Aberkennung des Ruhegehalts die Ehe oder Lebenspartnerschaft bereits
 bestanden hatte.
 
-
 ### § 81 Begnadigung
 
 (1) Dem Bundespräsidenten steht das Begnadigungsrecht in
@@ -1890,10 +1769,7 @@ Disziplinarsachen nach diesem Gesetz zu. Er kann es anderen Stellen
 des Ruhegehalts im Gnadenweg aufgehoben, gilt § 43 Satz 2 des
 Bundesbeamtengesetzes entsprechend.
 
-
 ## Teil 6 - Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte
-
-
 
 ### § 82 Polizeivollzugsbeamte des Bundes
 
@@ -1901,7 +1777,6 @@ Das Bundesministerium des Innern bestimmt durch Rechtsverordnung,
 welche Vorgesetzten der Polizeivollzugsbeamten des Bundes als
 Dienstvorgesetzte im Sinne des § 33 Abs. 2, Abs. 3 Nr. 2 und Abs. 5
 gelten.
-
 
 ### § 83 Beamte der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 
@@ -1921,7 +1796,6 @@ abweichend von § 33 regeln.
 Stiftungen des öffentlichen Rechts gilt § 144 Abs. 2 des
 Bundesbeamtengesetzes entsprechend.
 
-
 ### § 84 Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamten
 
 Bei Ruhestandsbeamten werden die Disziplinarbefugnisse durch die zum
@@ -1932,10 +1806,7 @@ Anordnung ganz oder teilweise auf nachgeordnete Dienstvorgesetzte
 Besteht die zuständige oberste Dienstbehörde nicht mehr, bestimmt das
 Bundesministerium des Innern, welche Behörde zuständig ist.
 
-
 ## Teil 7 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 85 Übergangsbestimmungen
 
@@ -2031,14 +1902,12 @@ Dezember 2009 anhängig werdenden gerichtlichen Verfahren erhoben. Dies
 gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 31.
 Dezember 2009 eingelegt worden ist.
 
-
 ### § 86 Verwaltungsvorschriften
 
 Die zur Durchführung dieses Gesetzes erforderlichen
 Verwaltungsvorschriften erlässt das Bundesministerium des Innern; die
 Verwaltungsvorschriften sind im Gemeinsamen Ministerialblatt zu
 veröffentlichen.
-
 
 ### Anlage (zu § 78) Gebührenverzeichnis
 

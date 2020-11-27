@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 10 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -29,10 +28,7 @@ der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet
 das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des
 Innern:
 
-
 ## Kapitel 1 - Laufbahn und Ausbildung
-
-
 
 ### § 1 Laufbahnämter
 
@@ -92,7 +88,6 @@ und Amtsbezeichnungen:
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im
@@ -114,7 +109,6 @@ Ausbildung ist besonderer Wert zu legen.
 (2) Die Beamtinnen und Beamten werden befähigt, sich eigenständig
 weiterzubilden. Sie sind zum Selbststudium verpflichtet.
 
-
 ### § 3 Einstellungsbehörde
 
 Einstellungsbehörde ist das Auswärtige Amt. Ihm obliegen die
@@ -124,7 +118,6 @@ Anwärter; es trifft die Entscheidungen über Verkürzung und
 Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung.
 Das Auswärtige Amt ist die für die beamtenrechtlichen Entscheidungen
 zuständige Dienstbehörde.
-
 
 ### § 4 Einstellungsvoraussetzungen
 
@@ -157,10 +150,6 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
     uneingeschränkt geeignet ist, wobei auch Ehepartnerin, Ehepartner,
     Lebenspartnerin oder Lebenspartner und Kinder diese Voraussetzung
     erfüllen müssen.
-
-
-
-
 
 ### § 5 Ausschreibung, Bewerbung
 
@@ -207,13 +196,6 @@ sind beizufügen:
 
     c)  eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der
         Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
-
 
 ### § 6 Auswahlverfahren
 
@@ -319,7 +301,6 @@ Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und
 Bewerber fest. Sind mehrere Ausschüsse eingerichtet, wird eine
 Rangfolge aller Bewerberinnen und Bewerber festgelegt.
 
-
 ### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Staatssekretärin oder der Staatssekretär des Auswärtigen Amts
@@ -356,7 +337,6 @@ nachzuweisen, durch den oder in dessen Auftrag die Untersuchung
 durchgeführt wird. Die Kosten der Untersuchung trägt das Auswärtige
 Amt.
 
-
 ### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -367,7 +347,6 @@ Dienstaufsicht des Auswärtigen Amts.
 
 (2) Bei der Gewährung von Urlaub sind Ausbildungsbelange zu
 berücksichtigen. Urlaub wird auf den Vorbereitungsdienst angerechnet.
-
 
 ### § 9 Dauer des Vorbereitungsdienstes
 
@@ -415,7 +394,6 @@ Zeitpunkt eingestellt worden sind, abgelegt werden kann.
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 28 Abs. 2.
 
-
 ### § 10 Gliederung des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer
@@ -451,10 +429,6 @@ durchgeführt:
 
     *   6 bis 7 Monate.
 
-
-
-
-
 ### § 11 Fachtheoretische Ausbildung
 
 (1) Im Einführungslehrgang werden die Anwärterinnen und Anwärter in
@@ -470,7 +444,6 @@ laufbahnbezogene Ausbildung.
 (3) Die Ausbildung soll die Fähigkeit zu bürgergerechtem Verhalten
 fördern.
 
-
 ### § 12 Fremdsprachliche Ausbildung
 
 (1) Im Rahmen der fachtheoretischen Ausbildung erhalten die
@@ -482,7 +455,6 @@ Erfordernissen.
 (2) Wer in einem Test Kenntnisse der englischen Sprache auf dem Niveau
 der Laufbahnprüfung nachweist, kann auf Antrag für den Unterricht in
 anderen Sprachen freigestellt werden.
-
 
 ### § 13 Praktische Ausbildung
 
@@ -525,7 +497,6 @@ vorzugebenden Terminen jeweils einen Bericht über den Stand der
 Ausbildung im Auslandspraktikum an die Aus- und Fortbildungsstätte zu
 übersenden.
 
-
 ### § 14 Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
 (1) Jede Arbeitseinheit oder Auslandsvertretung, der Anwärterinnen und
@@ -553,7 +524,6 @@ Ausbildungsstand.
 für jede Anwärterin und jeden Anwärter einen Ausbildungsplan, aus dem
 sich die Sachgebiete ergeben, in denen sie oder er ausgebildet wird;
 die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
-
 
 ### § 15 Leistungsnachweise während der fachtheoretischen Ausbildung und Bewertungen in den Praktika
 
@@ -590,10 +560,7 @@ der Gesamtbewertung.
 (7) Die Gesamtbewertungen sind der Aus- und Fortbildungsstätte
 zuzuleiten.
 
-
 ## Kapitel 2 - Laufbahnprüfung
-
-
 
 ### § 16 Allgemeines
 
@@ -613,7 +580,6 @@ einem schriftlichen und einem mündlichen Teil.
 (4) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die
 Prüfungskommission (§ 18). § 6 Abs. 8 gilt entsprechend.
 
-
 ### § 17 Durchführung
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter für den
@@ -628,7 +594,6 @@ sein.
 
 (3) Ort und Zeit der schriftlichen und der mündlichen Prüfungen werden
 den Anwärterinnen und Anwärtern rechtzeitig mitgeteilt.
-
 
 ### § 18 Prüfungskommission
 
@@ -645,7 +610,6 @@ Bestellung nicht erforderlich.
 
 (3) Für die mündliche Sprachprüfung tritt die Prüfungskommission nach
 Maßgabe des § 19 Abs. 2 in abweichender Besetzung zusammen.
-
 
 ### § 19 Sprachprüfung
 
@@ -670,7 +634,6 @@ Anwärterinnen und Anwärter eine vergleichbare mündliche Sprachprüfung
 ablegen. Wer in der schriftlichen und mündlichen Sprachprüfung in
 Englisch nicht eine Gesamtdurchschnittspunktzahl von mindestens fünf
 Rangpunkten erreicht, kann nicht zur Fachprüfung zugelassen werden.
-
 
 ### § 20 Fachprüfung
 
@@ -780,7 +743,6 @@ Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 Niederschrift gefertigt, die die Mitglieder der Prüfungskommission
 unterschreiben.
 
-
 ### § 21 Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende
@@ -805,7 +767,6 @@ erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend"
 (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden
 erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu
 versehen.
-
 
 ### § 22 Täuschung, Ordnungsverstoß
 
@@ -837,7 +798,6 @@ zu versehen.
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu
 hören.
 
-
 ### § 23 Bewertung der Vorleistungen und Prüfungsleistungen
 
 (1) Vorleistungen sind die Aufsichtsarbeiten im Einführungs- und
@@ -856,7 +816,6 @@ werden mit insgesamt 13 Prozent berücksichtigt.
 mit insgesamt 56 Prozent berücksichtigt; jede schriftliche
 Aufsichtsarbeit geht dabei mit 9 Prozent und jedes mündliche
 Prüfungsfach mit 5 Prozent in das Ergebnis der Laufbahnprüfung ein.
-
 
 ### § 24 Noten, Rangpunkte
 
@@ -1060,10 +1019,6 @@ Anteil an der erreichbaren Gesamtpunktzahl der Rangpunkte zugeordnet:
 
     *   0.
 
-
-
-
-
 ### § 25 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1083,7 +1038,6 @@ mündlichen Prüfung mindestens 5 beträgt.
 der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
-
 
 ### § 26 Zeugnis
 
@@ -1110,7 +1064,6 @@ Fällen des § 22 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 über die Laufbahnprüfung ein Sprachzeugnis über das Ergebnis der
 Sprachprüfung.
 
-
 ### § 27 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse ist mit den schriftlichen
@@ -1121,7 +1074,6 @@ aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 ### § 28 Wiederholung
 
@@ -1141,10 +1093,7 @@ ein Jahr nicht überschreiten. Die bei der Wiederholung erreichten
 Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst
 wird bis zum Ablauf der Wiederholungsfrist verlängert.
 
-
 ## Kapitel 3 - Aufstieg
-
-
 
 ### § 29 Allgemeine Aufstiegsregelungen
 
@@ -1200,7 +1149,6 @@ bisherigen Rechtsstellung. Aufstiegsbeamtinnen und Aufstiegsbeamte,
 die die Befähigung für die Laufbahn des mittleren Auswärtigen Dienstes
 endgültig nicht erwerben, verbleiben in ihrer bisherigen Laufbahn.
 
-
 ### § 30 Ausbildungsaufstieg
 
 (1) Zum Ausbildungsaufstieg in die Laufbahn des mittleren Auswärtigen
@@ -1228,7 +1176,6 @@ Laufbahnprüfung ab. Die Vorschriften der Kapitel 1 und 2 über den
 Vorbereitungsdienst und die Laufbahnprüfung sind entsprechend
 anzuwenden, soweit nicht in Kapitel 3 anderweitige Regelungen
 getroffen sind.
-
 
 ### § 31 Praxisaufstieg
 
@@ -1289,10 +1236,7 @@ kann nach Ablauf von mindestens sechs Monaten einmal wiederholt
 werden. Für diesen Fall ist die Einführungszeit entsprechend zu
 verlängern.
 
-
 ## Kapitel 4 - Sonstige Vorschriften
-
-
 
 ### § 32 Schwerbehinderte Menschen
 
@@ -1328,14 +1272,12 @@ Mensch eine Beteiligung ablehnt.
 Auswahlausschuss oder die Prüfungskommission auf Vorschlag der
 Ausbildungsleitung.
 
-
 ### § 33 Übergangsregelung
 
 Anwärterinnen und Anwärter sowie Aufstiegsbeamtinnen und
 Aufstiegsbeamte, die bereits vor dem 1. September 2006 die Ausbildung
 oder Einführung begonnen haben, führen diese nach dem bis zum 31.
 August 2006 geltenden Recht zu Ende.
-
 
 ### § 34 Inkrafttreten, Außerkrafttreten
 

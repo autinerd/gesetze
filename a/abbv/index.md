@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 856
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
@@ -36,10 +35,6 @@ auf Grund
     Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S.
     1980):
 
-
-
-
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Berechnung der zu leistenden
@@ -51,7 +46,6 @@ dieser Verordnung entsprechen den Erhaltungs- und Betriebskosten im
 Sinne des Eisenbahnkreuzungsgesetzes sowie den Unterhaltungskosten im
 Sinne des Bundesfernstraßengesetzes und des
 Bundeswasserstraßengesetzes.
-
 
 ## § 2 Berechnung
 
@@ -87,16 +81,13 @@ Kreuzungsbeteiligten spätestens sechs Monate nach Zugang der
 Berechnung zu zahlen. Erfolgt die Zahlung zu einem späteren Zeitpunkt,
 ist der Betrag mit 4 vom Hundert für das Jahr zu verzinsen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2 Absatz 1)
 

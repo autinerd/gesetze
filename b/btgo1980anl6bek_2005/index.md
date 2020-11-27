@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 9
 
-
-
 ## (XXXX)
 
 Der Beschluss des Deutschen Bundestages betr. Aufhebung der Immunität
@@ -34,7 +32,6 @@ gemäß § 50 Abs. 3 StPO und § 382 Abs. 3 ZPO sowie bei Ermächtigungen
 gemäß § 90b Abs. 2, § 194 Abs. 4 StGB (ebenfalls Anlage 6 GO-BT),
 zuletzt geändert laut Bekanntmachung vom 15. Juli 2002 (BGBl. I S.
 3012), für die 16. Wahlperiode beschlossen.
-
 
 ## Schlussformel
 

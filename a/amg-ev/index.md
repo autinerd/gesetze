@@ -19,13 +19,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 353 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 35 Abs. 1 Nr. 1 des Arzneimittelgesetzes in der
 Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586)
 verordnet das Bundesministerium für Gesundheit:
-
 
 ## § 1 Verwendung elektronischer Speichermedien für die Einreichung von Unterlagen
 
@@ -43,7 +41,6 @@ auch im Falle der Verschlüsselung, für die zuständigen
 Bundesoberbehörden mit angemessenem Aufwand lesbaren Dateiformat zu
 verwenden.
 
-
 ## § 2 Pflicht zur Verwendung elektronischer Speichermedien für die Einreichung von Unterlagen
 
 (1) Folgende Unterlagen sind auf elektronischen Speichermedien
@@ -60,7 +57,6 @@ einzureichen:
 
 (2)
 
-
 ## § 3 Ausnahmen
 
 Abweichend von § 2, auch in Verbindung mit § 4 Abs. 2, kann die
@@ -74,10 +70,6 @@ Einreichung von Unterlagen gestatten oder fordern, wenn
 2.  die elektronische Einreichung aus technischen Gründen unzweckmäßig
     ist.
 
-
-
-
-
 ## § 4 Übergangsvorschrift
 
 (1) § 2 gilt nicht für Unterlagen, die vor dem Inkrafttreten dieser
@@ -90,7 +82,6 @@ Bundesoberbehörde verwendbares Signatursystem verwenden; bis dahin
 sind die in § 2 Abs. 1 genannten Unterlagen zusätzlich auch
 schriftlich einzureichen.
 
-
 ## § 5 Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Januar
@@ -101,7 +92,6 @@ Voraussetzungen für eine qualifizierte elektronische Signatur nach dem
 Signaturgesetz bei der zuständigen Bundesoberbehörde gegeben sind. Das
 Bundesministerium für Gesundheit gibt den Tag des Inkrafttretens des §
 2 Abs. 2 im Bundesgesetzblatt bekannt.
-
 
 ## Schlussformel
 

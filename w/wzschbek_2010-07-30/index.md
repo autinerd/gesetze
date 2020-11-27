@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1105
 
-
 ## Eingangsformel
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes in der Fassung
@@ -25,7 +24,6 @@ eingefügt worden ist, des § 35 Absatz 3 des Markengesetzes vom 25.
 Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) und des § 15 Absatz 2
 des Geschmacksmustergesetzes vom 12. März 2004 (BGBl. I S. 390) wird
 bekannt gemacht:
-
 
 ## I.
 
@@ -46,10 +44,6 @@ Ausstellungen gewährt:
 
 4.  „GET Nord – Fachmesse Elektro, Sanitär, Heizung, Klima”
     vom 17. bis 19. November 2010 in Hamburg
-
-
-
-
 
 ## II.
 
@@ -72,7 +66,6 @@ Veranstaltung
 
 
 stattfinden.
-
 
 ## Schlussformel
 

@@ -20,12 +20,10 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 19.9.2002 II 2482
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 Allgemeines
 
@@ -47,7 +45,6 @@ b)  dem Zusatzprotokoll vom 19. Juni 1995 zu dem Übereinkommen vom 19.
 Das Übereinkommen und das Zusatzprotokoll werden nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2 Abwicklung von Schäden
 
 (1) Für die Abgeltung von Schäden finden die Artikel 6, 8 bis 14 und
@@ -60,7 +57,6 @@ Vertragspartei aus Handlungen oder Unterlassungen, die nicht in
 Ausübung des Dienstes begangen wurden, werden gemäß Artikel 2 Satz 1
 mit § 16 Abs. 5 des Streitkräfteaufenthaltsgesetzes vom 20. Juli 1995
 (BGBl. 1995 II S. 554) abgewickelt.
-
 
 ## Art 3 Ermächtigung zum Erlaß von Rechtsverordnungen
 
@@ -91,7 +87,6 @@ Streitkräfteaufenthaltsgesetzes aufzunehmen, soweit nach ihrem
 Gegenstand und Zweck erforderlich.
 
 (2) Die betroffenen Länder werden beteiligt.
-
 
 ## Art 4 Schlußbestimmungen
 

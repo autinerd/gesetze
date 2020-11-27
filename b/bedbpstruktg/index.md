@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 21.11.2012 I 2299
 
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz gilt für Beamtinnen und Beamte
@@ -35,10 +34,6 @@ Dieses Gesetz gilt für Beamtinnen und Beamte
 
 3.  der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost,
     die in Bereichen mit Personalüberhang beschäftigt sind.
-
-
-
-
 
 ## § 2 Förderung der anderweitigen Verwendung
 
@@ -66,7 +61,6 @@ POSTDIENST, wenn der Beamte zuvor der Dienststelle für
 Sozialangelegenheiten des Direktoriums der Deutschen Bundespost oder
 dessen nachgeordneten Bereich angehört hat.
 
-
 ## § 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des Bundeseisenbahnvermögens
 
 (1) Beamtinnen und Beamte des Bundeseisenbahnvermögens, die von
@@ -92,7 +86,6 @@ Ruhestand versetzt werden, wenn
 53 Abs. 2 Nr. 3 des Beamtenversorgungsgesetzes gilt entsprechend.
 
 (3) § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
-
 
 ## § 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
@@ -168,7 +161,6 @@ die Aktiengesellschaft die anfallenden Beihilfeleistungen der
 jeweiligen Beamtin bzw. des jeweiligen Beamten über den in Nummer 2
 dieser Anlage festgelegten Zahlungszeitraum.
 
-
 ## § 5 Beamtinnen und Beamte der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 3 können auf Antrag in den
@@ -184,7 +176,6 @@ Aktiengesellschaften die sich aus dem vorzeitigen Beginn des
 Ruhestandes auf Grund dieses Gesetzes ergebenden finanziellen
 Mehrbelastungen und gleichen ebenso Abschläge im Sinne des § 14 Abs. 3
 des Beamtenversorgungsgesetzes aus.
-
 
 ## Anlage (zu § 4 Abs. 4)
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 90
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des
@@ -26,7 +25,6 @@ Nummer 3 Buchstabe b Doppelbuchstabe aa des Gesetzes vom 5. Februar
 Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium des Innern nach Anhörung der Vorstände der Deutschen
 Telekom AG, der Deutschen Post AG und der Deutschen Postbank AG:
-
 
 ## § 1 Geltungsbereich, Grundsätze
 
@@ -64,10 +62,6 @@ die wahrgenommen werden
 3.  während einer Zuweisung nach § 4 Absatz 4 des
     Postpersonalrechtsgesetzes.
 
-
-
-
-
 ## § 2 Gestaltung der Laufbahnen
 
 (1) In den Laufbahngruppen des einfachen, mittleren, gehobenen und
@@ -85,14 +79,12 @@ der Bundeslaufbahnverordnung die folgenden Laufbahnen:
 (2) Die zu den Laufbahnen gehörenden Ämter sowie die dazugehörigen
 Amtsbezeichnungen ergeben sich aus Anlage 1.
 
-
 ## § 3 Qualifizierung bei Laufbahnwechsel
 
 Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche
 Qualifizierung kann auch durch Wahrnehmung entsprechender beruflicher
 Tätigkeiten während einer Beurlaubung oder Zuweisung nach § 1 Absatz 5
 erworben werden.
-
 
 ## § 4 Zulassung zu einer höheren Laufbahn bei Besitz der erforderlichen Hochschulausbildung
 
@@ -110,7 +102,6 @@ des § 17 Absatz 4 und 5 des Bundesbeamtengesetzes, die geeignet ist,
 die Befähigung für die Laufbahnen des gehobenen und höheren Dienstes
 zu vermitteln.
 
-
 ## § 5 Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
 
 (1) § 27 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden,
@@ -123,7 +114,6 @@ Bundeslaufbahnverordnung abweichende, geringere persönliche
 Voraussetzungen festlegen. Als Mindestvoraussetzungen sind eine
 Dienstzeit von 20 Jahren sowie die erfolgreiche Teilnahme an einem
 Auswahlverfahren zu fordern.
-
 
 ## § 6 Beurteilung und Beförderung
 
@@ -158,7 +148,6 @@ Arbeitsposten bei den Postnachfolgeunternehmen entspricht.
 Bundeslaufbahnverordnung kann mit Zustimmung der obersten
 Dienstbehörde abgesehen werden.
 
-
 ## § 7 Fachspezifische Qualifizierungen für den Aufstieg
 
 Die oberste Dienstbehörde kann im Einvernehmen mit dem
@@ -166,7 +155,6 @@ Bundesministerium der Finanzen die Dauer und die Inhalte der
 fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 der
 Bundeslaufbahnverordnung festlegen, wenn die Anforderungen der
 Laufbahnen dies rechtfertigen.
-
 
 ## § 8 Überleitungs- und Übergangsvorschriften
 
@@ -236,10 +224,6 @@ sind folgende Vorschriften weiterhin anzuwenden:
     vom 21. Juni 2004 (BGBl. I S. 1287), die durch § 56 Absatz 42 der
     Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist.
 
-
-
-
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -268,10 +252,6 @@ gleichzeitig die folgenden Verordnungen außer Kraft:
     der Deutschen Telekom AG beschäftigten Beamtinnen und Beamten vom 21.
     Juni 2004 (BGBl. I S. 1287), die durch § 56 Absatz 42 der Verordnung
     vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist.
-
-
-
-
 
 ## Anlage 1 (zu § 2 Absatz 2)
 

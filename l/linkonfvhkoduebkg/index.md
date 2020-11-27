@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 320 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 (1)
@@ -27,7 +26,6 @@ Zuletzt geändert durch
 (2) Das Übereinkommen findet auf Linienkonferenzen Anwendung, soweit
 sie den Außenhandel zwischen Vertragsparteien des Übereinkommens
 bedienen.
-
 
 ## Art 2
 
@@ -83,10 +81,6 @@ und Technologie durch Rechtsverordnung
     Mitgliedstaaten der OECD die entsprechenden Artikel des Übereinkommens
     auf die betreffenden Linienkonferenzen anwenden.
 
-
-
-
-
 ## Art 3
 
 Führen die kaufmännischen Verhandlungen der nationalen
@@ -105,7 +99,6 @@ Geschäftsbetrieb des Antragstellers mit denen, die auf
 marktwirtschaftlichen Grundsätzen beruhen, der Umfang der von den
 nationalen Linienreedereien eingesetzten Chartertonnage.
 
-
 ## Art 4
 
 Linienreedereien, Verladerorganisationen, Verladervertreter oder
@@ -116,7 +109,6 @@ nach dem Übereinkommen nicht geltend machen, wenn das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
 feststellt, daß die Gegenseitigkeit nicht gewährleistet ist.
-
 
 ## Art 5
 
@@ -129,7 +121,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung.
 ermächtigt, durch Rechtsverordnung die ihm nach Absatz 1 obliegenden
 Aufgaben auf eine Behörde seines Geschäftsbereiches zu übertragen.
 
-
 ## Art 6
 
 Die im Verfahren der internationalen Zwangsschlichtung nach Kapitel VI
@@ -137,7 +128,6 @@ des Übereinkommens abgegebenen Empfehlungen werden nach Maßgabe des
 Artikels 39 des Übereinkommens anerkannt und vollstreckt. Für die
 gerichtliche Zuständigkeit und das Verfahren gelten die §§ 722, 723
 Abs. 1 der Zivilprozeßordnung entsprechend.
-
 
 ## Art 7
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1980, 347
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 29 der Strahlenschutzverordnung vom 26. November 1969
@@ -25,7 +23,6 @@ Auf Grund des § 29 der Strahlenschutzverordnung vom 26. November 1969
 zuständigen zentralen staatliche Organe und in Übereinstimmung mit dem
 Bundesvorstand des Freien Deutschen Gewerkschaftsbundes folgendes
 angeordnet:
-
 
 ## § 1 Geltungsbereich
 
@@ -41,7 +38,6 @@ und Absetzanlagen genannt).
 
 (3) Die Anordnung gilt nicht für die Verwendung der im Abs. 1
 genannten Stoffe und Materialien für Arbeiten unter Tage.
-
 
 ## § 2 Verantwortung
 
@@ -79,7 +75,6 @@ Absetzanlagen erwerben, verwenden oder damit umgehen, sind für die
 Einhaltung der erforderlichen Regelungen zur Gewährleistung des
 Strahlenschutzes verantwortlich.
 
-
 ## § 3 Grundsätze
 
 (1) Zum Schutze der Bevölkerung vor ionisierender Strahlung sind an
@@ -103,7 +98,6 @@ derselben sowie ein geplanter Rechtsträgerwechsel oder Übergang von
 Nutzungsrechten sind dem Staatlichen Amt für Atomsicherheit und
 Strahlenschutz mindestens 6 Monate zuvor anzuzeigen.
 
-
 ## § 4 Strahlenschutzgenehmigung
 
 (1) Arbeiten an Halden und Absetzanlagen, die die
@@ -117,7 +111,6 @@ Strahlenschutz.
 
 (2) Die Strahlenschutzgenehmigung ersetzt nicht Genehmigungen oder
 Zustimmungen anderer Staatsorgane.
-
 
 ## § 5 Zustimmung
 
@@ -142,7 +135,6 @@ Strahlenschutz.
 
 (2) Die Zustimmung ersetzt nicht Genehmigungen oder Zustimmungen
 anderer Staatsorgane.
-
 
 ## § 6 Antrag auf Genehmigung
 
@@ -183,22 +175,6 @@ e)  der Bericht des Betriebes gemäß § 8.
                 \*) Probeentnahme: Die Art und Weise der zur Ermittlung der mittleren Konzentrationen
                     notwendigen Probenentnahmen wird vom Staatlichen Amt für
                     Atomsicherheit und Strahlenschutz jeweils festgelegt.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## § 7 Zustimmungsverfahren
 
@@ -254,7 +230,6 @@ erteilt.
 ist dem Betrieb gemäß § 2 die Zustimmung des Staatlichen Amtes für
 Atomsicherheit und Strahlenschutz vom Erwerber vorzulegen.
 
-
 ## § 8 Dokumentation
 
 (1) Werden Halden oder Absetzanlagen oder Teile derselben stillgelegt
@@ -278,7 +253,6 @@ Bauunterlagen auszuweisen. Werden Bauobjekte nach Fertigstellung den
 Rechtsträgern übergeben, ist im Abnahmeprotokoll die Art des
 Baumaterials zu dokumentieren.
 
-
 ## § 9 Betriebliche Kontrolle
 
 (1) Betriebe, an deren Halden und Absetzanlagen
@@ -294,7 +268,6 @@ Februar des darauffolgenden Jahres in Form eines Berichtes zu
 beeinflussen, sind von dem verantwortlichen Betrieb nach Abstimmung
 mit dem Staatlichen Amt für Atomsicherheit und Strahlenschutz
 geeignete Maßnahmen festzulegen und durchzuführen.
-
 
 ## § 10 Havarien
 
@@ -313,7 +286,6 @@ Strahlenschutz unverzüglich zu benachrichtigen.
 (3) Die Benachrichtigungspflicht gegenüber anderen Staatsorganen
 bleibt unberührt.
 
-
 ## § 11 Berichterstattung
 
 (1) Betriebe, die Haldenmaterialien weitergeben, haben dem Staatlichen
@@ -327,7 +299,6 @@ für Atomsicherheit und Strahlenschutz jährlich bis zum 15. Februar
 über den Einsatz der Haldenmaterialien im vergangenen Jahr sinngemäß
 entsprechend § 7 Abs. 1 zu berichten.
 
-
 ## § 12 Spezielle Arbeitsinstruktion
 
 (1) Betriebe, die an Halden oder Absetzanlagen Strahlenschutzmaßnahmen
@@ -340,7 +311,6 @@ zu erarbeiten.
 Staatlichen Amtes für Atomsicherheit und Strahlenschutz und ist
 Bestandteil der Genehmigung bzw. Zustimmung.
 
-
 ## § 13 Belehrungen
 
 Die Werktätigen der Betriebe, die mit Arbeiten gemäß § 3 Abs. 1
@@ -350,7 +320,6 @@ der Arbeit und vierteljährlich über den Inhalt der speziellen
 Arbeitsinstruktion zu belehren. Die Durchführung der Belehrung ist
 schriftlich nachzuweisen und vom übergeordneten Leiter zu
 kontrollieren.
-
 
 ## § 14 Staatliche Kontrolle
 
@@ -376,7 +345,6 @@ Leitern der Betriebe Auflagen erteilen. Die Nichterfüllung dieser
 Auflagen kann den Entzug der Genehmigung oder Zustimmung zur Folge
 haben.
 
-
 ## § 15 Ausnahmen
 
 In begründeten Fällen können beim Präsidenten des Staatlichen Amtes
@@ -385,7 +353,6 @@ Bestimmungen dieser Anordnung beantragt werden. Sofern diese Ausnahmen
 den Aufgabenbereich anderer zentraler staatlicher Organe berühren,
 sind diese Ausnahmeregelungen im Einvernehmen mit den Leitern der
 beteiligten zentralen staatlichen Organe zu treffen.
-
 
 ## § 16 Übergangsbestimmungen
 
@@ -424,7 +391,6 @@ Anordnung ihre Gültigkeit.
 Amt für Atomsicherheit und Strahlenschutz bis spätestens 1 Jahr nach
 Inkrafttreten der Anordnung zur Bestätigung vorzulegen.
 
-
 ## § 17 Inkrafttreten
 
 (1) Diese Anordnung tritt am 1. Februar 1981 in Kraft.
@@ -435,12 +401,10 @@ Haldenmaterialien zu Bauzwecken vom 11. März 1974 (Mitteilungen des
 Staatlichen Amtes für Atomsicherheit und Strahlenschutz 1974 Nr. 5)
 außer Kraft.
 
-
 ## Schlußformel
 
 **Der Präsident des Staatlichen Amtes für Atomsicherheit und
 Strahlenschutz**
-
 
 ## Anlage 1 Strahlenschutzmaßnahmen an Halden und Absetzanlagen
 
@@ -495,10 +459,6 @@ Atomsicherheit und Strahlenschutz in Gruppen eingeteilt:
     mit Genehmigung des Staatlichen Amtes für Atomsicherheit und
     Strahlenschutz möglich. Anderweitige Nutzungen sind nicht zulässig.
 
-
-
-
-
 ## Anlage 2
 
 Der Umfang des Berichtes gemäß § 8 wird im Genehmigungsverfahren
@@ -543,10 +503,6 @@ h)  die Bestimmungs-, Meß- und Berechnungsverfahren für die Angaben unter
     Strahlenschutz vorgegeben. Davon abweichende Verfahren bedürfen der
     Bestätigung durch das Staatliche Amt für Atomsicherheit und
     Strahlenschutz.
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1227)
 

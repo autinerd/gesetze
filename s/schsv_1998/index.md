@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 8.3.2012 I 483
 
-
 ## § 1 Zielsetzung und Geltungsbereich
 
 (1) Diese Verordnung dient der Sicherheit auf See einschließlich des
@@ -36,7 +35,6 @@ Werftplätze binnenwärts dieser Grenze.
 (2) Auf Schiffe unter einer ausländischen Flagge sind auch § 5 Abs. 5
 und die dort genannten Regelungen sowie § 13 Abs. 5 anzuwenden.
 
-
 ## § 2 Selbstkontrolle
 
 Wer ein Schiff zur Seefahrt einsetzt, hat dafür zu sorgen, daß im
@@ -47,7 +45,6 @@ Aufzeichnungen der mit der Bedienung des Schiffes beauftragten
 Personen im Rahmen der Sicherheitsvorsorge ausgewertet und die zur
 Gefahrvermeidung und -verminderung erforderlichen Maßnahmen getroffen
 werden.
-
 
 ## § 3 Zusammenarbeit und maritime Sicherheitspartnerschaft
 
@@ -150,13 +147,6 @@ zuständig:
 
     i)  Bekanntmachungen des Inkrafttretens internationaler Regelungen.
 
-
-
-
-
-
-
-
 ## § 4 Regeln der Technik und der seemännischen Praxis
 
 (1) Als Regeln der Technik und der seemännischen Praxis sind
@@ -166,7 +156,6 @@ anerkannte Regeln der Technik oder der seemännischen Praxis
 bekanntgemachten internationalen Schiffssicherheitsnormen zu beachten.
 
 (2) (weggefallen)
-
 
 ## § 5 Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
 
@@ -195,7 +184,6 @@ den Anforderungen für Schiffe entsprechen, die zum Zeitpunkt der
 sind in den in Abschnitt D der Anlage 1 aufgeführten Fällen die dort
 genannten besonderen Anforderungen einzuhalten.
 
-
 ## § 5a Sicherheitsstandard für Schiffe im internationalen Verkehr in besonderen Fällen
 
 (1) Soweit Schiffen, die die Bundesflagge führen und die den
@@ -218,7 +206,6 @@ Schiffssicherheitsgesetz erfüllen. Soweit nach diesen Vorschriften
 jeweils Übereinkommen nach Abschnitt A der Anlage zum
 Schiffssicherheitsgesetz Anwendung finden, sind diese zusätzlich
 einzuhalten.
-
 
 ## § 6 Sicherheitsstandard in besonderen Fällen
 
@@ -327,7 +314,6 @@ Fassung anerkannten Klassifikationsgesellschaft, mit der die See-
 Berufsgenossenschaft ein Auftragsverhältnis im Sinne des Artikels 6
 Abs. 2 dieser Richtlinie begründet hat, entsprechen.
 
-
 ## § 6a Dampfkessel
 
 (1) Dampfkesselanlagen an Bord von Seeschiffen unter deutscher Flagge
@@ -344,7 +330,6 @@ Voraussetzungen des Satzes 1 erfüllt sind.
 die Ausrüstung von Schiffsdampfkesselanlagen auf Seeschiffen unter
 deutscher Flagge (VkBl. 2002 S. 313, Anlagenband B 8129) in der
 jeweiligen Fassung zu Grunde zu legen.
-
 
 ## § 6b Abwasserrückhalteanlagen
 
@@ -396,7 +381,6 @@ Gruppen- oder Modellgutachten eines öffentlich bestellten und
 vereidigten Sachverständigen oder eines gemäß Norm EN 45013 von einer
 akkreditierten Stelle zertifizierten Boots- und Yachtsachverständigen
 nachgewiesen ist.
-
 
 ## § 7 Ausnahmen und Befreiungen
 
@@ -461,7 +445,6 @@ Schiffsvermessungsverordnung vom 5. Juli 1982 (BGBl. I S. 916, 1169),
 geändert durch Verordnung vom 3. September 1990 (BGBl. I S. 1993),
 vermessen.
 
-
 ## § 8 Funkstellen, Funktionsfähigkeit von Schiffsausrüstung
 
 (1) (weggefallen)
@@ -487,7 +470,6 @@ anerkannte Person reguliert werden; der Nachweis der Regulierung ist
 an Bord mitzuführen. Der Schiffsführer hat regelmäßig die Deviation zu
 kontrollieren und die Eintragung über die Kontrollergebnisse der
 vergangenen zwölf Monate mitzuführen.
-
 
 ## § 9 Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
 
@@ -588,7 +570,6 @@ Organisation eines sicheren Schiffsbetriebes, auch im Hinblick auf §
 unterrichtet sie hiervon umgehend die Verantwortlichen durch eine
 schriftliche Abmahnung und gibt ihnen Gelegenheit zur Stellungnahme.
 
-
 ## § 10 Ausübung der Vollzugsaufgaben, Schiffsdaten
 
 (1) Die für die Vollzugsaufgaben nach dem Seeaufgabengesetz und dem
@@ -606,7 +587,6 @@ der Zollverwaltung.
 (3) Das Bundesamt für Seeschiffahrt und Hydrographie erhebt die für
 die Ausführung des Schiffssicherheitsgesetzes und dieser Verordnung
 erforderlichen Schiffsdaten.
-
 
 ## § 11 Auslaufen und Weiterfahrt von Schiffen, die die Bundesflagge führen
 
@@ -649,7 +629,6 @@ Sachverhalt fest, so kann sie bis zur Entscheidung der See-
 Berufsgenossenschaft das Auslaufen oder die Weiterfahrt für einen zu
 bestimmenden angemessenen Zeitraum verhindern.
 
-
 ## § 12 Überprüfung von Schiffen unter ausländischer Flagge (Hafenstaatkontrolle)
 
 (1) Für die Hafenstaatkontrolle ist die See-Berufsgenossenschaft
@@ -691,7 +670,6 @@ Hafenstaatkontrolle eingerichteten Informationssystem.
 Überprüfungen im Hinblick auf den sicheren Betrieb von Ro-Ro-
 Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen im
 Linienverkehr (ABl. L 138 vom 1.6.1999, S. 1) entsprechend.
-
 
 ## § 13 Verhaltenspflichten
 
@@ -899,7 +877,6 @@ Schiffssicherheitsgesetzes.
 Absatz 2 Nr. 9 und Absatz 3 Nr. 1 und 2 bei Vorliegen eines wichtigen
 Grundes nach Maßgabe des § 7 Abs. 1 Ausnahmen zulassen.
 
-
 ## § 14 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des
@@ -1058,10 +1035,6 @@ Ordnungswidrigkeiten wird übertragen
 3.  in den übrigen Fällen des Absatzes 1 auf die Wasser- und
     Schiffahrtsdirektionen Nord und Nordwest.
 
-
-
-
-
 ## § 15 Überleitungsregelung
 
 (1) Soweit die internationalen Regelungen und die Vorschriften dieser
@@ -1105,7 +1078,6 @@ widerrufen sind, sind nach Maßgabe ihres Inhalts gültig.
 
 (3) (weggefallen)
 
-
 ## § 16 Anwendung weiterer Vorschriften, Zuständigkeit
 
 (1) Die sich aus den internationalen Regelungen (§ 1 Abs. 2 des
@@ -1137,11 +1109,9 @@ bleibt unberührt.
 ausdrücklich anders bestimmt, die jeweils nach dem Seeaufgabengesetz
 zuständige Behörde oder Stelle.
 
-
 ## § 17
 
 -
-
 
 ## Anlage 1 (zu § 5) Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
 
@@ -2121,13 +2091,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         erschienen. Sie sind beim Deutschen Patentamt archivmäßig gesichert
         niedergelegt.
 
-
-
-
-
-
-
-
 ## Anlage 2 (zu § 9) Schiffszeugnisse und -bescheinigungen, Schiffsbesichtigungen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3036 - 3039;
@@ -2858,13 +2821,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         das geforderte Schutzniveau im Hinblick auf die Eignung für den
         Schiffsbetrieb und die sichere Funktion an Bord sowie die Gesundheit
         gleichermaßen dauerhaft erreicht wird.
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu § 13 Abs. 4a) Befähigungsnachweise für den mobilen Seefunkdienst und den mobilen Seefunkdienst über Satelliten
 

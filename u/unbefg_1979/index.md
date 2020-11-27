@@ -19,17 +19,14 @@ Fundstelle
 Geändert durch
 :   Art. 21 G v. 22.12.1983 I 1532
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Besitzstand
 
@@ -109,7 +106,6 @@ Gesetzes wohnen, werden bei Festsetzung der Vomhundertsätze nach §§ 60
 und 61 in der durch Artikel 1 geänderten Fassung zu einem Zwölftel
 gezählt.
 
-
 ## Art 3 Frühere Ausweise
 
 (1) Als Ausweise im Sinne des § 57 Abs. 1 des
@@ -126,7 +122,6 @@ Hundert eingetragen sind, werden auf Antrag des Behinderten von den
 für die Durchführung des Bundesversorgungsgesetzes zuständigen
 Behörden durch einen mit orangefarbenem Flächenaufdruck
 gekennzeichneten Ausweis ersetzt.
-
 
 ## Art 4 Erstattungsregelungen für die Jahre 1979 und 1980
 
@@ -170,15 +165,11 @@ Jahr festgesetzten Erstattungsbeträge.
 November 1979, die Abschlagszahlungen nach Absatz 4 innerhalb von vier
 Wochen nach Inkrafttreten dieses Gesetzes gezahlt.
 
-
 ## Art 5
 
 -
 
-
 ## (XXXX) Art 6 bis 8
-
-
 
 ## Art 9 Berlin-Klausel
 
@@ -186,7 +177,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 10 Inkrafttreten
 

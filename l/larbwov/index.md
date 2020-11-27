@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 6.8.1974 I 1869
 
-
 ## § 1 Umfang der Vergünstigung
 
 (1) Bei Ermittlung der Einkünfte aus Land- und Forstwirtschaft können
@@ -43,7 +42,6 @@ Landarbeiterwohnungen in den Wirtschaftsjahren 1950/51 bis 1976/77
 hergestellt werden und wenn die Aufwendungen dafür innerhalb eines
 land- und forstwirtschaftlichen Betriebs entstanden sind.
 
-
 ## § 1a Vergünstigung bei Verpächtern
 
 Verpächter land- und forstwirtschaftlicher Betriebe, Teilbetriebe oder
@@ -56,14 +54,12 @@ mit je einem Drittel absetzen. Diese Vergünstigung gilt für
 Landarbeiterwohnungen, die in der Zeit vom 1. Januar 1951 bis 31.
 Dezember 1977 hergestellt werden.
 
-
 ## § 1b Ausschließung der Anwendung von Vorschriften des Einkommensteuergesetzes
 
 Für Landarbeiterwohnungen, für die der Steuerpflichtige die
 Vergünstigungen des § 1 oder des § 1a in Anspruch nimmt, ist die
 Anwendung der §§ 7b und 7e Abs. 2 des Einkommensteuergesetzes
 ausgeschlossen.
-
 
 ## § 2 Personenkreis
 
@@ -77,7 +73,6 @@ Forstwirtschaft haben.
 Personengesellschaften und Körperschaften, die land- und
 forstwirtschaftliche Betriebe, Teilbetriebe oder Betriebsteile
 verpachten.
-
 
 ## § 3 Begriff der Landarbeiterwohnungen
 
@@ -109,12 +104,10 @@ das Wohnungsbauänderungsgesetz 1973 vom 21. Dezember 1973
 übersteigen. Für die Berechnung der Wohnfläche gelten die Vorschriften
 der Zweiten Berechnungsverordnung in der jeweils geltenden Fassung.
 
-
 ## § 4 Selbstaufbringungsbetrag
 
 Für die Absetzung nach § 1 oder § 1a kommen nur die eigenen
 Aufwendungen (Selbstaufbringungsbetrag) in Betracht.
-
 
 ## § 5 Geltungsbereich
 
@@ -123,14 +116,12 @@ Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 1973 beginnen;
 die Vorschrift des § 1a ist erstmals für den Veranlagungszeitraum 1975
 anzuwenden.
 
-
 ## § 6 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 10
 des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 (Bundesgesetzbl. I S. 702) auch im Land Berlin.
-
 
 ## § 7 Inkrafttreten
 

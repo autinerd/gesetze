@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 887
 
-
-
 ## (XXXX)
 
 (1) Die Olympiamünze zu 10 Deutschen Mark mit dem 1. Motiv
@@ -40,11 +38,9 @@ Motiv) überein.
 
 (3) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
 ## Schlussformel
 
 Der Bundesminister für Wirtschaft und Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

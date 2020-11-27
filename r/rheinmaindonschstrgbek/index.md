@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 709
 
-
-
 ## (XXXX)
 
 Gemäß § 1 Abs. 3 des Gesetzes über den rechtlichen Status der Rhein-

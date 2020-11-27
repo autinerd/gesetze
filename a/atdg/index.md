@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 26.2.2008 I 215
 
-
 ## § 1 Antiterrordatei
 
 (1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58 Abs.
@@ -45,10 +44,6 @@ Polizeivollzugsbehörden berechtigt, soweit
     nach Nummer 1 erforderlich und dies unter Berücksichtigung der
     schutzwürdigen Interessen der Betroffenen und der
     Sicherheitsinteressen der beteiligten Behörden angemessen ist.
-
-
-
-
 
 ## § 2 Inhalt der Antiterrordatei und Speicherungspflicht
 
@@ -111,7 +106,6 @@ internationalen Terrorismus mit Bezug zur Bundesrepublik Deutschland
 erforderlich ist. Satz 1 gilt nur für Daten, die die beteiligten
 Behörden nach den für sie geltenden Rechtsvorschriften automatisiert
 verarbeiten dürfen.
-
 
 ## § 3 Zu speichernde Datenarten
 
@@ -240,7 +234,6 @@ Datenarten gespeichert:
 Rechtsvorschrift zu kennzeichnen sind, ist diese Kennzeichnung bei der
 Speicherung der Daten in der Antiterrordatei aufrechtzuerhalten.
 
-
 ## § 4 Beschränkte und verdeckte Speicherung
 
 (1) Soweit besondere Geheimhaltungsinteressen oder besonders
@@ -270,7 +263,6 @@ Entscheidung nach Satz 2 sind zu dokumentieren. Die übermittelten
 Anfragedaten sowie die Dokumentation nach Satz 3 sind spätestens zu
 löschen oder zu vernichten, wenn die verdeckt gespeicherten Daten zu
 löschen sind.
-
 
 ## § 5 Zugriff auf die Daten
 
@@ -330,7 +322,6 @@ ermächtigte Personen Zugriff auf die Antiterrordatei.
 (4) Bei jeder Abfrage müssen der Zweck und die Dringlichkeit angegeben
 und dokumentiert werden und erkennbar sein.
 
-
 ## § 6 Weitere Verwendung der Daten
 
 (1) Die abfragende Behörde darf die Daten, auf die sie Zugriff
@@ -370,13 +361,11 @@ dem Generalbundesanwalt für die Zwecke der Strafverfolgung. Der
 Generalbundesanwalt darf die Daten für Ersuchen nach Absatz 1 Satz 1
 verwenden. § 487 Abs. 3 der Strafprozessordnung gilt entsprechend.
 
-
 ## § 7 Übermittlung von Erkenntnissen
 
 Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6
 Abs. 1 Satz 1 zwischen den beteiligten Behörden richtet sich nach den
 jeweils geltenden Übermittlungsvorschriften.
-
 
 ## § 8 Datenschutzrechtliche Verantwortung
 
@@ -397,7 +386,6 @@ Behörde, die die Daten eingegeben hat, mit, die diese Mitteilung
 unverzüglich prüft und erforderlichenfalls die Daten unverzüglich
 berichtigt.
 
-
 ## § 9 Protokollierung, technische und organisatorische Maßnahmen
 
 (1) Das Bundeskriminalamt hat bei jedem Zugriff für Zwecke der
@@ -415,7 +403,6 @@ Satz 1 gespeicherten Protokolldaten sind nach 18 Monaten zu löschen.
 Bundesdatenschutzgesetzes erforderlichen technischen und
 organisatorischen Maßnahmen zu treffen.
 
-
 ## § 10 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 24
@@ -432,7 +419,6 @@ Auskunftserteilung nach den für sie geltenden Rechtsvorschriften
 prüft. Die Auskunft zu verdeckt gespeicherten Daten richtet sich nach
 den für die Behörde, die die Daten eingegeben hat, geltenden
 Rechtsvorschriften.
-
 
 ## § 11 Berichtigung, Löschung und Sperrung von Daten
 
@@ -457,7 +443,6 @@ wesentlich erschwert wäre oder der Betroffene einwilligt.
 (4) Die eingebenden Behörden prüfen nach den Fristen, die für die
 Erkenntnisdaten gelten, und bei der Einzelfallbearbeitung, ob
 personenbezogene Daten zu berichtigen oder zu löschen sind.
-
 
 ## § 12 Errichtungsanordnung
 
@@ -495,7 +480,6 @@ Verteidigung, des Bundesministeriums der Finanzen und der für die
 beteiligten Behörden der Länder zuständigen obersten Landesbehörden.
 Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
 ist vor Erlass der Errichtungsanordnung anzuhören.
-
 
 ## § 13 Einschränkung von Grundrechten
 

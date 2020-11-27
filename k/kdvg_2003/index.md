@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 28.4.2011 I 687
 
-
-
 ## § 1 Grundsatz
 
 (1) Wer aus Gewissensgründen unter Berufung auf das Grundrecht der
@@ -32,7 +30,6 @@ Kriegsdienstverweigerer anerkannt.
 sind, haben im Spannungs- oder Verteidigungsfall statt des
 Wehrdienstes Zivildienst außerhalb der Bundeswehr als Ersatzdienst
 nach Artikel 12a Absatz 2 des Grundgesetzes zu leisten.
-
 
 ## § 2 Antrag
 
@@ -99,7 +96,6 @@ und Berufssoldaten sowie bei Soldatinnen und Soldaten auf Zeit ist den
 Personalakten eine Stellungnahme der oder des Disziplinarvorgesetzten
 und der personalbearbeitenden Stelle beizufügen.
 
-
 ## § 3 Folgen des Antrags
 
 (1) Die Antragstellung nach § 2 hindert nicht die Erfassung und
@@ -115,7 +111,6 @@ als Ersatz für Ausfälle kurzfristig einberufen werden kann. Satz 2
 gilt auch für den Fall, dass ein früherer Antrag des Antragstellers
 unanfechtbar abgelehnt oder zurückgenommen worden ist.
 
-
 ## § 4 Vorrangige Entscheidung
 
 Beantragt eine Soldatin oder ein Soldat die Anerkennung der
@@ -126,7 +121,6 @@ schriftlich benachrichtigt worden ist, dass er als Ersatz für Ausfälle
 kurzfristig einberufen werden kann, sowie für Reservistinnen und
 Reservisten, die zu einer befristeten Übung oder Wehrübung einberufen
 worden sind.
-
 
 ## § 5 Anerkennung
 
@@ -144,10 +138,6 @@ Antragsteller ist als Kriegsdienstverweigerer anzuerkennen, wenn
     sonstigen Tatsachen keine Zweifel an der Wahrheit der Angaben der
     Antragstellerin oder des Antragstellers begründen oder die Zweifel
     aufgrund einer Anhörung nach § 6 nicht mehr bestehen.
-
-
-
-
 
 ## § 6 Anhörung
 
@@ -188,7 +178,6 @@ wird ermächtigt, durch Rechtsverordnung das Nähere zum Verfahren bei
 der Anhörung sowie zur Erstattung von notwendigen Auslagen,
 Verdienstausfall und notwendigen Aufwendungen zu regeln.
 
-
 ## § 7 Ablehnung des Antrags
 
 (1) Das Bundesamt lehnt den Antrag ab, wenn
@@ -214,14 +203,12 @@ Verdienstausfall und notwendigen Aufwendungen zu regeln.
 (2) Folgt die Antragstellerin oder der Antragsteller einer Ladung zur
 mündlichen Anhörung nicht, entscheidet das Bundesamt nach Aktenlage.
 
-
 ## § 8 Vertretung bei der Anhörung
 
 Zur unentgeltlichen Vertretung der Antragstellerin oder des
 Antragstellers bei einer Anhörung sind auch die von den Kirchen und
 Religionsgemeinschaften, die Körperschaften öffentlichen Rechts sind,
 beauftragten Personen zugelassen.
-
 
 ## § 9 Widerspruchsverfahren
 
@@ -235,7 +222,6 @@ Widerspruchsverfahren selbstständig Anträge stellen und Rechtsbehelfe
 einlegen.
 
 (3) § 8 gilt für das Widerspruchsverfahren entsprechend.
-
 
 ## § 10 Verwaltungsgerichtliches Verfahren
 
@@ -251,7 +237,6 @@ Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3
 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen Beschlüsse
 über den Rechtsweg ist § 17a Abs. 4 Satz 4 bis 6 des
 Gerichtsverfassungsgesetzes entsprechend anzuwenden.
-
 
 ## § 11 Spannungs- und Verteidigungsfall, Bereitschaftsdienst
 
@@ -275,7 +260,6 @@ Verteidigungsfall (Artikel 115a des Grundgesetzes)
 Bundesregierung als Bereitschaftsdienst angeordnet worden sind (§ 6
 Abs. 6 des Wehrpflichtgesetzes, § 61 Abs. 3 des Soldatengesetzes),
 entsprechend anzuwenden.
-
 
 ## § 12 Aktenführung
 
@@ -319,7 +303,6 @@ Zeit und Reservistinnen sind so lange aufzubewahren wie bei
 Wehrpflichtigen. Ist die Aufbewahrungsfrist abgelaufen, sind die Akten
 unverzüglich zu vernichten. Die Sätze 2 und 3 gelten auch für die in
 Dateien gespeicherten personenbezogenen Daten.
-
 
 ## § 13 (weggefallen)
 

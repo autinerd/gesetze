@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2005, Nr 153, 12385 [Beilage]
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 9g Abs. 1 Satz 1 des Atomgesetzes in der Fassung der
@@ -31,7 +29,6 @@ Gesetzes vom 3. Mai 2000 (BGBl. I S. 636) geändert worden ist, in
 Verbindung mit Abschnitt 2 des Verwaltungskostengesetzes vom 23. Juni
 1970 (BGBl. I S. 821) verordnet die Bundesregierung nach Anhörung der
 betroffenen Gemeinden und des betroffenen Landkreises:
-
 
 ## § 1 Planungsgebiet
 
@@ -273,10 +270,6 @@ folgende Lage:
 
     *   Vietze
 
-
-
-
-
 ## § 2 Veränderungssperre, Entschädigung, Ausnahmen
 
 (1) Im Planungsgebiet dürfen in den in Absatz 2 festgelegten Gebieten
@@ -506,7 +499,6 @@ rechtmäßig ausgeübten Nutzung werden hiervon nicht berührt.
 
 (4) Die §§ 9g und 23a des Atomgesetzes sind anzuwenden.
 
-
 ## § 3 Karten, Einsichtnahme
 
 (1) Die in § 1 Abs. 1 Satz 3 sowie § 2 Abs. 2 Satz 2 genannten Karten
@@ -517,7 +509,6 @@ Informationsstelle zur Nuklearen Entsorgung, Bundesamt für
 Strahlenschutz, Rottlebener Weg 1, 29475 Gorleben, aus und können dort
 während der Dienststunden eingesehen werden.
 
-
 ## § 4 Höhe der Gebühren
 
 Das nach § 23a des Atomgesetzes zuständige Bundesverwaltungsamt erhebt
@@ -527,17 +518,14 @@ Ausnahmen von der Veränderungssperre (§ 9g Abs. 4 des Atomgesetzes)
 sowie für Entscheidungen über Entschädigungen nach § 2 Abs. 4 beträgt
 100 bis 50.000 Euro.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt
 zehn Jahre nach ihrer Verkündung außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage Karte "Planungsgebiet" Karte "Flurübersicht" 37 Liegenschaftskarten
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des
@@ -33,7 +32,6 @@ und Technologie und auf Grund des § 30 Abs. 5 des
 Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet
 das Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -110,7 +108,6 @@ eigenständig und verantwortlich wahrnehmen zu können:
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 "Geprüfter Technischer Fachwirt/Geprüfte Technische Fachwirtin".
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung in den Prüfungsteilen „Wirtschaftsbezogene
@@ -156,7 +153,6 @@ zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten
 (berufliche Handlungsfähigkeit) erworben worden sind, die eine
 Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -237,7 +233,6 @@ und 2 liegen. Es ist eine Vorbereitungszeit von höchstens 30 Minuten
 zu gewähren. Die mündliche Prüfung wird erst nach dem erfolgreichen
 Abschluss der schriftlichen Prüfungsleistungen gemäß Absatz 5
 durchgeführt.
-
 
 ## § 4 Wirtschaftsbezogene Qualifikationen
 
@@ -369,7 +364,6 @@ der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der
 schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung
 werden zu einer Note zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Technische Qualifikationen
 
@@ -509,7 +503,6 @@ Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu
 einer Punktbewertung zusammengefasst. Dabei wird die Bewertung der
 schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Handlungsspezifische Qualifikationen
 
 (1) Im Handlungsbereich "Absatz-, Materialwirtschaft und Logistik"
@@ -636,7 +629,6 @@ Qualifikationsinhalte geprüft werden:
 Handlungsbereichen wird in Form einer Situationsaufgabe durchgeführt.
 Die Prüfungsdauer beträgt mindestens 240, höchstens 300 Minuten.
 
-
 ## § 7 Weitere Prüfung
 
 (1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin kann
@@ -661,7 +653,6 @@ zusätzliches Zeugnis auszustellen, aus dem hervorgeht, dass die
 berufs- und arbeitspädagogische Qualifikation durch eine Prüfung gemäß
 § 6 Abs. 4 und 5 sowie § 7 Abs. 1 nachgewiesen wurde.
 
-
 ## § 8 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -671,7 +662,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 9 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -697,7 +687,6 @@ und der Anlage 2 auszustellen. Im Fall der Freistellung gemäß § 8 sind
 nur Ort und Datum sowie die Bezeichnung des Prüfungsgremiums der
 anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 10 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -714,18 +703,15 @@ Prüfung an, zur Wiederholungsprüfung angemeldet hat. Bestandene
 Prüfungsleistungen können auf Antrag einmal wiederholt werden. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 11 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu
 Ende geführt werden.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
-
 
 ## Anlage 1 (zu § 9 Abs. 5) Muster
 
@@ -755,7 +741,6 @@ bestanden.
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 9 Abs. 5) Muster
 

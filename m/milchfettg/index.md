@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 198 V v. 31.10.2006 I 2407
 
-
 ## Erster Teil - Milch und Milcherzeugnisse
-
-
 
 ### § 1 Molkerei-Einzugsgebiete
 
@@ -51,7 +48,6 @@ und Sahne (Rahm) von anderen Milcherzeugern ist unzulässig.
 (5) Sahne (Rahm) im Sinne der Absätze 1, 3 und 4 ist Sahne (Rahm)
 jeden Fettgehaltes.
 
-
 ### § 2 Molkerei-Absatzgebiete
 
 (1) Milchhändler und Molkereien (Abnehmer) sind verpflichtet, Milch,
@@ -76,7 +72,6 @@ ihres Absatzgebietes Großverbraucher beliefern. Das Absatzgebiet der
 Molkerei ist das Gebiet, das sich aus den festgesetzten Liefer- und
 Annahmebeziehungen zu den Milchhändlern ergibt.
 
-
 ### § 3 Milchsammelstellen und Rahmstationen
 
 Die oberste Landesbehörde kann, sofern es die örtlichen Verhältnisse
@@ -84,7 +79,6 @@ erfordern, die sich auf Molkereien beziehenden Liefer- und
 Annahmeverpflichtungen im Sinne der §§ 1 und 2 auf Milchsammelstellen
 und Rahmstationen erstrecken und dabei die Verpflichtungen nach § 2
 auf Sahne (Rahm) jeden Fettgehaltes ausdehnen.
-
 
 ### § 4 Begriffsbestimmungen
 
@@ -109,7 +103,6 @@ Verbraucher, die Milch über den Haushaltsbedarf hinaus beziehen,
 insbesondere die in § 2 Abs. 2 des Milchgesetzes vom 31. Juli 1930
 (Reichsgesetzbl. I S. 421) genannten Betriebe.
 
-
 ### § 5 Besondere Liefer- und Abnahmepflichten
 
 Die obersten Landesbehörden können Molkereien zur Sicherung der
@@ -117,7 +110,6 @@ Versorgung oder zur Annäherung der wirtschaftlichen Ergebnisse
 verpflichten, bestimmte Mengen an Milch, entrahmter Milch, Buttermilch
 und geschlagener Buttermilch an andere Molkereien zu liefern oder von
 anderen Molkereien abzunehmen.
-
 
 ### § 6 Absatz im Straßenhandel
 
@@ -135,7 +127,6 @@ gemäß § 9 des Milchgesetzes im Betrieb des Erzeugers oder in
 Bearbeitungsstätten abgefüllt sind, ist von der Regelung nach Satz 1
 ausgenommen.
 
-
 ### § 7 Bisherige Regelungen
 
 Liefer- und Annahmebeziehungen zwischen Milcherzeugern und Molkereien
@@ -144,7 +135,6 @@ Stellen festgelegt worden sind, bleiben bestehen, sofern nicht die
 obersten Landesbehörden nach § 8 Änderungen treffen oder Ausnahmen
 zulassen. Das Entsprechende gilt für Milchhandelsbezirke (§ 6 Satz 1);
 jedoch ist die Vorschrift des § 6 Satz 2 innezuhalten.
-
 
 ### § 8 Änderungen und Ausnahmen
 
@@ -164,7 +154,6 @@ Voraussetzungen auch von Amts wegen treffen.
 des § 1 Abs. 1 und 4 und des § 2 für bestimmte Gebiete oder für
 bestimmte Milcherzeugnisse zulassen.
 
-
 ### § 9 Übergebietliche Liefer- und Annahmebeziehungen
 
 Erstrecken sich Liefer- und Annahmebeziehungen zwischen Milcherzeugern
@@ -173,7 +162,6 @@ eines Landes hinaus und kommt eine gemeinsame Regelung der beteiligten
 obersten Landesbehörden nicht zustande, so entscheidet auf Antrag
 einer beteiligten obersten Landesbehörde das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium).
-
 
 ### § 10 Förderung und Erhaltung der Güte
 
@@ -188,7 +176,6 @@ Schutzmaßnahmen getroffen werden.
 Landesregierungen Vorschriften erlassen; diese können ihre Befugnis
 auf oberste Landesbehörden übertragen.
 
-
 ### § 11 Fettgehalt der Trinkmilch
 
 (1) Die obersten Landesbehörden werden ermächtigt, den
@@ -202,15 +189,12 @@ Molkereien im Sinne des § 29 der Ersten Verordnung zur Ausführung des
 Milchgesetzes vom 15. Mai 1931 (Reichsgesetzblatt I S. 150)
 vorgenommen werden.
 
-
 ### (XXXX) §§ 12 und 12a (weggefallen)
-
 
 ### § 13 Verkauf von Landbutter
 
 Die obersten Landesbehörden können, wenn die Belange der
 Milchwirtschaft es erfordern, den Verkauf von Landbutter einschränken.
-
 
 ### § 14 Beteiligung der Milchwirtschaft und der Verbraucher
 
@@ -253,18 +237,11 @@ Absatz 1 herangezogen wird, der Aufsicht der obersten Landesbehörde.
 Diese hat darüber zu wachen, daß die Vereinigung ihre Aufgaben
 entsprechend den Gesetzen und der Satzung erfüllt.
 
-
 ## Zweiter Teil - Fette
-
-
 
 ### (XXXX) §§ 15 bis 19 (weggefallen)
 
-
-
 ## Dritter Teil - Allgemeine Bestimmungen
-
-
 
 ### § 20 Preisregelung
 
@@ -343,16 +320,13 @@ Stelle im Geltungsbereich dieses Gesetzes erstattet worden sind, oder
 über ihre Erstattung ein rechtskräftiges Urteil ergangen ist, behält
 es hierbei sein Bewenden.
 
-
 ### § 20a
 
 -
 
-
 ### § 21
 
 -
-
 
 ### § 22 Umlagen
 
@@ -445,7 +419,6 @@ geleistet werden, ganz oder teilweise aus dem Aufkommen der Umlage
 Beiträge nach dem Absatzfondsgesetz vom 26. Juni 1969 (Bundesgesetzbl.
 I S. 635).
 
-
 ### § 23 Anfechtungsverfahren und Beitreibung
 
 (1) Widerspruch und Anfechtungsklage gegen Verwaltungsakte, die auf
@@ -458,7 +431,6 @@ und den nach der Verordnung M Nr. 2/57 über Milchauszahlungspreise vom
 Ausgleichskassen abzuführenden Ersparnisbeträgen              kann
 nach den Bestimmungen der Abgabenordnung und ihren
 Durchführungsbestimmungen durchgeführt werden.
-
 
 ### § 24 Gütezeichen
 
@@ -482,10 +454,6 @@ durch Rechtsverordnung
 4.  die Stellen, die das Gütezeichen verleihen und entziehen sowie darüber
     wachen, daß die Voraussetzungen für die Führung des Gütezeichens
     erfüllt werden.
-
-
-
-
 
 ### § 25 Buchführungspflicht
 
@@ -518,14 +486,9 @@ Absatzes 1 ausdehnen
     aufgeführt sind, sofern dies aus Gründen der Marktordnung oder der
     Versorgung der Bevölkerung geboten ist.
 
-
-
-
-
 ### § 26
 
 -
-
 
 ### § 27 Auskunftspflicht
 
@@ -546,11 +509,9 @@ Abs. 2 und des § 6. Im übrigen können von den Be- und
 Verarbeitungsbetrieben von Milch und Milcherzeugnissen und
 Vorzugsmilchbetrieben ohne Entgelt Proben entnommen werden.
 
-
 ### § 28
 
 -
-
 
 ### § 29 Befugnisse der Länder
 
@@ -562,10 +523,7 @@ Ermächtigungen zum Erlaß von Rechtsverordnungen auf die
 obersten Landesbehörden              übertragen. Diese Ermächtigung
 gilt nicht für Rechtsverordnungen auf Grund des § 20 Abs. 3.
 
-
 ## Vierter Teil - Bußgeld- und Schlußbestimmungen
-
-
 
 ### § 30 Ordnungswidrigkeiten
 
@@ -629,13 +587,11 @@ eingezogen werden.
 Rechtsverordnung bestimmte Stelle, soweit dieses Gesetz nicht von
 Landesbehörden ausgeführt wird.
 
-
 ### § 31 Rechtsverordnungen
 
 Rechtsverordnungen, die auf Grund des § 27 Abs. 2 erlassen werden,
 bedürfen der Zustimmung des Bundesrates nach Artikel 80 Abs. 2 des
 Grundgesetzes nicht.
-
 
 ### § 32 Schlußbestimmungen
 

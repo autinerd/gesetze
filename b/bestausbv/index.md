@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 673 (957)
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
@@ -31,7 +29,6 @@ durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931)
 geändert worden sind, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -50,11 +47,9 @@ Dienstes stattfindet, ist er ein Ausbildungsberuf des öffentlichen
 Dienstes. Im Übrigen ist er ein Ausbildungsberuf der gewerblichen
 Wirtschaft.
 
-
 ## § 2 Dauer der Ausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -121,10 +116,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 8.  Qualitätssichernde Maßnahmen und Kundenorientierung.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -163,7 +154,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -235,10 +225,6 @@ Arbeiten bestehen folgende Vorgaben:
     soll das situative Fachgespräch in zehn Minuten sowie die Bearbeitung
     der schriftlichen Aufgabenstellungen in 120 Minuten durchgeführt
     werden.
-
-
-
-
 
 ## § 6 Abschlussprüfung/Gesellenprüfung
 
@@ -484,7 +470,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -495,11 +480,9 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2007 begonnen wurden, die Vorschriften der in § 8
 Satz 2 genannten Verordnung weiter anzuwenden.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Bestattungsfachkraft
 

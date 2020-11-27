@@ -18,12 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 25 G v. 8.12.2010 I 1768
 
-
 ## Teil 1 - Der Versorgungsausgleich
 
-
 ### Kapitel 1 - Allgemeiner Teil
-
 
 #### § 1 Halbteilung der Anrechte
 
@@ -35,7 +32,6 @@ geschiedenen Ehegatten zu teilen.
 diejenige, die einen Ehezeitanteil erworben hat. Der
 ausgleichsberechtigten Person steht die Hälfte des Werts des
 jeweiligen Ehezeitanteils (Ausgleichswert) zu.
-
 
 #### § 2 Auszugleichende Anrechte
 
@@ -73,7 +69,6 @@ zeitliche Voraussetzung noch nicht erfüllt ist.
 (4) Ein güterrechtlicher Ausgleich für Anrechte im Sinne dieses
 Gesetzes findet nicht statt.
 
-
 #### § 3 Ehezeit, Ausschluss bei kurzer Ehezeit
 
 (1) Die Ehezeit im Sinne dieses Gesetzes beginnt mit dem ersten Tag
@@ -85,7 +80,6 @@ in der Ehezeit erworben wurden.
 
 (3) Bei einer Ehezeit von bis zu drei Jahren findet ein
 Versorgungsausgleich nur statt, wenn ein Ehegatte dies beantragt.
-
 
 #### § 4 Auskunftsansprüche
 
@@ -105,7 +99,6 @@ Versorgungsträgern verlangen.
 
 (4) Für die Erteilung der Auskunft gilt § 1605 Abs. 1 Satz 2 und 3 des
 Bürgerlichen Gesetzbuchs entsprechend.
-
 
 #### § 5 Bestimmung von Ehezeitanteil und Ausgleichswert
 
@@ -131,12 +124,9 @@ sind zu berücksichtigen.
 (5) Die Einzelheiten der Wertermittlung ergeben sich aus den §§ 39 bis
 47\.
 
-
 ### Kapitel 2 - Ausgleich
 
-
 #### Abschnitt 1 - Vereinbarungen über den Versorgungsausgleich
-
 
 ##### § 6 Regelungsbefugnisse der Ehegatten
 
@@ -158,7 +148,6 @@ schließen. Sie können ihn insbesondere ganz oder teilweise
 (2) Bestehen keine Wirksamkeits- und Durchsetzungshindernisse, ist das
 Familiengericht an die Vereinbarung gebunden.
 
-
 ##### § 7 Besondere formelle Wirksamkeitsvoraussetzungen
 
 (1) Eine Vereinbarung über den Versorgungsausgleich, die vor
@@ -171,7 +160,6 @@ geschlossen wird, bedarf der notariellen Beurkundung.
 eines Ehevertrags gilt die in § 1410 des Bürgerlichen Gesetzbuchs
 bestimmte Form.
 
-
 ##### § 8 Besondere materielle Wirksamkeitsvoraussetzungen
 
 (1) Die Vereinbarung über den Versorgungsausgleich muss einer Inhalts-
@@ -181,12 +169,9 @@ und Ausübungskontrolle standhalten.
 begründet werden, wenn die maßgeblichen Regelungen dies zulassen und
 die betroffenen Versorgungsträger zustimmen.
 
-
 #### Abschnitt 2 - Wertausgleich bei der Scheidung
 
-
 ##### Unterabschnitt 1 - Grundsätze des Wertausgleichs bei der Scheidung
-
 
 ###### § 9 Rangfolge der Ausgleichsformen, Ausnahmen
 
@@ -204,9 +189,7 @@ vorliegt.
 gleicher Art gering oder haben einzelne Anrechte einen geringen
 Ausgleichswert, ist § 18 anzuwenden.
 
-
 ##### Unterabschnitt 2 - Interne Teilung
-
 
 ###### § 10 Interne Teilung
 
@@ -224,7 +207,6 @@ zwischen ihnen eine Verrechnung vorsehen.
 
 (3) Maßgeblich sind die Regelungen über das auszugleichende und das zu
 übertragende Anrecht.
-
 
 ###### § 11 Anforderungen an die interne Teilung
 
@@ -254,7 +236,6 @@ Regelungen über das Anrecht der ausgleichspflichtigen Person
 entsprechend, soweit nicht besondere Regelungen für den
 Versorgungsausgleich bestehen.
 
-
 ###### § 12 Rechtsfolge der internen Teilung von Betriebsrenten
 
 Gilt für das auszugleichende Anrecht das Betriebsrentengesetz, so
@@ -262,16 +243,13 @@ erlangt die ausgleichsberechtigte Person mit der Übertragung des
 Anrechts die Stellung eines ausgeschiedenen Arbeitnehmers im Sinne des
 Betriebsrentengesetzes.
 
-
 ###### § 13 Teilungskosten des Versorgungsträgers
 
 Der Versorgungsträger kann die bei der internen Teilung entstehenden
 Kosten jeweils hälftig mit den Anrechten beider Ehegatten verrechnen,
 soweit sie angemessen sind.
 
-
 ##### Unterabschnitt 3 - Externe Teilung
-
 
 ###### § 14 Externe Teilung
 
@@ -306,7 +284,6 @@ ausgleichsberechtigten Person zu zahlen.
 (5) Eine externe Teilung ist unzulässig, wenn ein Anrecht durch
 Beitragszahlung nicht mehr begründet werden kann.
 
-
 ###### § 15 Wahlrecht hinsichtlich der Zielversorgung
 
 (1) Die ausgleichsberechtigte Person kann bei der externen Teilung
@@ -333,7 +310,6 @@ gesetzlichen Rentenversicherung. Ist ein Anrecht im Sinne des
 Betriebsrentengesetzes auszugleichen, ist abweichend von Satz 1 ein
 Anrecht bei der Versorgungsausgleichskasse zu begründen.
 
-
 ###### § 16 Externe Teilung von Anrechten aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis
 
 (1) Solange der Träger einer Versorgung aus einem öffentlich-
@@ -351,7 +327,6 @@ Rentenversicherung auszugleichen.
 umzurechnen. Wurde das Anrecht im Beitrittsgebiet erworben, ist die
 Umrechnung in Entgeltpunkte (Ost) anzuordnen.
 
-
 ###### § 17 Besondere Fälle der externen Teilung von Betriebsrenten
 
 Ist ein Anrecht im Sinne des Betriebsrentengesetzes aus einer
@@ -361,9 +336,7 @@ der Ehezeit höchstens die Beitragsbemessungsgrenze in der allgemeinen
 Rentenversicherung nach den §§ 159 und 160 des Sechsten Buches
 Sozialgesetzbuch erreichen.
 
-
 ##### Unterabschnitt 4 - Ausnahmen
-
 
 ###### § 18 Geringfügigkeit
 
@@ -379,7 +352,6 @@ Rentenbetrag als maßgeblicher Bezugsgröße höchstens 1 Prozent, in
 allen anderen Fällen als Kapitalwert höchstens 120 Prozent der
 monatlichen Bezugsgröße nach § 18 Abs. 1 des Vierten Buches
 Sozialgesetzbuch beträgt.
-
 
 ###### § 19 Fehlende Ausgleichsreife
 
@@ -415,12 +387,9 @@ dies für den anderen Ehegatten unbillig wäre.
 (4) Ausgleichsansprüche nach der Scheidung gemäß den §§ 20 bis 26
 bleiben unberührt.
 
-
 #### Abschnitt 3 - Ausgleichsansprüche nach der Scheidung
 
-
 ##### Unterabschnitt 1 - Schuldrechtliche Ausgleichszahlungen
-
 
 ###### § 20 Anspruch auf schuldrechtliche Ausgleichsrente
 
@@ -450,7 +419,6 @@ vergleichbaren Aufwendungen sind abzuziehen. § 18 gilt entsprechend.
 2 und 3 sowie § 1585b Abs. 2 und 3 des Bürgerlichen Gesetzbuchs
 entsprechend.
 
-
 ###### § 21 Abtretung von Versorgungsansprüchen
 
 (1) Die ausgleichsberechtigte Person kann von der
@@ -468,7 +436,6 @@ ausschließen.
 Absatz 1 abgetretene Anspruch gegen den Versorgungsträger wieder auf
 die ausgleichspflichtige Person über.
 
-
 ###### § 22 Anspruch auf Ausgleich von Kapitalzahlungen
 
 Erhält die ausgleichspflichtige Person Kapitalzahlungen aus einem noch
@@ -476,9 +443,7 @@ nicht ausgeglichenen Anrecht, so kann die ausgleichsberechtigte Person
 von ihr die Zahlung des Ausgleichswerts verlangen. Im Übrigen sind die
 §§ 20 und 21 entsprechend anzuwenden.
 
-
 ##### Unterabschnitt 2 - Abfindung
-
 
 ###### § 23 Anspruch auf Abfindung, Zumutbarkeit
 
@@ -494,7 +459,6 @@ Abfindung für die ausgleichspflichtige Person zumutbar ist.
 (3) Würde eine Einmalzahlung die ausgleichspflichtige Person unbillig
 belasten, so kann sie Ratenzahlung verlangen.
 
-
 ###### § 24 Höhe der Abfindung, Zweckbindung
 
 (1) Für die Höhe der Abfindung ist der Zeitwert des Ausgleichswerts
@@ -503,9 +467,7 @@ maßgeblich. § 18 gilt entsprechend.
 (2) Für das Wahlrecht hinsichtlich der Zielversorgung gilt § 15
 entsprechend.
 
-
 ##### Unterabschnitt 3 - Teilhabe an der Hinterbliebenenversorgung
-
 
 ###### § 25 Anspruch gegen den Versorgungsträger
 
@@ -531,7 +493,6 @@ Hinterbliebene erhält, sind anzurechnen.
 Witwe oder den Witwer der ausgleichspflichtigen Person zahlt, ist um
 den nach den Absätzen 1 und 3 Satz 1 errechneten Betrag zu kürzen.
 
-
 ###### § 26 Anspruch gegen die Witwe oder den Witwer
 
 (1) Besteht ein noch nicht ausgeglichenes Anrecht bei einem
@@ -543,9 +504,7 @@ Hinterbliebenenversorgung leistet.
 
 (2) § 25 Abs. 2 bis 4 gilt entsprechend.
 
-
 #### Abschnitt 4 - Härtefälle
-
 
 ##### § 27 Beschränkung oder Wegfall des Versorgungsausgleichs
 
@@ -553,9 +512,7 @@ Ein Versorgungsausgleich findet ausnahmsweise nicht statt, soweit er
 grob unbillig wäre. Dies ist nur der Fall, wenn die gesamten Umstände
 des Einzelfalls es rechtfertigen, von der Halbteilung abzuweichen.
 
-
 ### Kapitel 3 - Ergänzende Vorschriften
-
 
 #### § 28 Ausgleich eines Anrechts der Privatvorsorge wegen Invalidität
 
@@ -570,14 +527,12 @@ gesundheitlichen Voraussetzungen dafür erfüllt.
 (3) Für die Durchführung des Ausgleichs gelten die §§ 20 bis 22
 entsprechend.
 
-
 #### § 29 Leistungsverbot bis zum Abschluss des Verfahrens
 
 Bis zum wirksamen Abschluss eines Verfahrens über den
 Versorgungsausgleich ist der Versorgungsträger verpflichtet, Zahlungen
 an die ausgleichspflichtige Person zu unterlassen, die sich auf die
 Höhe des Ausgleichswerts auswirken können.
-
 
 #### § 30 Schutz des Versorgungsträgers
 
@@ -595,7 +550,6 @@ Entscheidung Kenntnis erlangt hat.
 (3) Bereicherungsansprüche zwischen der nunmehr auch berechtigten
 Person und der bisher berechtigten Person sowie der Witwe oder dem
 Witwer bleiben unberührt.
-
 
 #### § 31 Tod eines Ehegatten
 
@@ -616,9 +570,7 @@ erlöschen mit dem Tod eines Ehegatten. Ansprüche auf Teilhabe an der
 Hinterbliebenenversorgung nach den §§ 25 und 26 bleiben unberührt. §
 1586 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-
 ### Kapitel 4 - Anpassung nach Rechtskraft
-
 
 #### § 32 Anpassungsfähige Anrechte
 
@@ -644,10 +596,6 @@ Die §§ 33 bis 38 gelten für Anrechte aus
 5.  den Versorgungssystemen der Abgeordneten und der Regierungsmitglieder
     im Bund und in den Ländern.
 
-
-
-
-
 #### § 33 Anpassung wegen Unterhalt
 
 (1) Solange die ausgleichsberechtigte Person aus einem im
@@ -671,7 +619,6 @@ die ausgleichspflichtige Person eine laufende Versorgung bezieht.
 (4) Fließen der ausgleichspflichtigen Person mehrere Versorgungen zu,
 ist nach billigem Ermessen zu entscheiden, welche Kürzung ausgesetzt
 wird.
-
 
 #### § 34 Durchführung einer Anpassung wegen Unterhalt
 
@@ -699,7 +646,6 @@ unterrichten.
 Gründen entscheidet der Versorgungsträger. Dies gilt nicht für den
 Fall der Änderung von Unterhaltszahlungen.
 
-
 #### § 35 Anpassung wegen Invalidität der ausgleichspflichtigen Person oder einer für sie geltenden besonderen Altersgrenze
 
 (1) Solange die ausgleichspflichtige Person eine laufende Versorgung
@@ -718,7 +664,6 @@ ausgleichspflichtige Person keine Leistung bezieht.
 so ist jede Versorgung nur insoweit nicht zu kürzen, als dies dem
 Verhältnis ihrer Ausgleichswerte entspricht.
 
-
 #### § 36 Durchführung einer Anpassung wegen Invalidität der ausgleichspflichtigen Person oder einer für sie geltenden besonderen Altersgrenze
 
 (1) Über die Anpassung, deren Abänderung und Aufhebung entscheidet der
@@ -733,7 +678,6 @@ gekürzte Anrecht besteht.
 Versorgungsausgleich erworbenen Anrecht eine Leistung im Sinne des §
 35 Abs. 1 beziehen kann, hat sie den Versorgungsträger, der die
 Kürzung ausgesetzt hat, unverzüglich darüber zu unterrichten.
-
 
 #### § 37 Anpassung wegen Tod der ausgleichsberechtigten Person
 
@@ -755,7 +699,6 @@ Anrechte im Sinne des § 32 von der verstorbenen ausgleichsberechtigten
 Person erworben, so erlöschen diese, sobald die Anpassung wirksam
 wird.
 
-
 #### § 38 Durchführung einer Anpassung wegen Tod der ausgleichsberechtigten Person
 
 (1) Über die Anpassung entscheidet der Versorgungsträger, bei dem das
@@ -771,12 +714,9 @@ die Antragstellung zu unterrichten. Der zuständige Versorgungsträger
 unterrichtet die anderen Versorgungsträger über den Eingang des
 Antrags und seine Entscheidung.
 
-
 ## Teil 2 - Wertermittlung
 
-
 ### Kapitel 1 - Allgemeine Wertermittlungsvorschriften
-
 
 #### § 39 Unmittelbare Bewertung einer Anwartschaft
 
@@ -804,10 +744,6 @@ bestimmend ist:
 
 
 5.  die Dauer der Zugehörigkeit zum Versorgungssystem.
-
-
-
-
 
 #### § 40 Zeitratierliche Bewertung einer Anwartschaft
 
@@ -837,7 +773,6 @@ das bei Eintritt des Versorgungsfalls gezahlt werden würde.
 Ehegatten nur auf Grund einer bestehenden Ehe oder für Kinder
 erhalten, dürfen nicht berücksichtigt werden.
 
-
 #### § 41 Bewertung einer laufenden Versorgung
 
 (1) Befindet sich ein Anrecht in der Leistungsphase und wäre für die
@@ -850,16 +785,13 @@ Anwartschaftsphase die zeitratierliche Bewertung maßgeblich, so gilt §
 höchstens erreichbare Zeitdauer und für die zu erwartende Versorgung
 durch die tatsächlichen Werte zu ersetzen.
 
-
 #### § 42 Bewertung nach Billigkeit
 
 Führt weder die unmittelbare Bewertung noch die zeitratierliche
 Bewertung zu einem Ergebnis, das dem Grundsatz der Halbteilung
 entspricht, so ist der Wert nach billigem Ermessen zu ermitteln.
 
-
 ### Kapitel 2 - Sondervorschriften für bestimmte Versorgungsträger
-
 
 #### § 43 Sondervorschriften für Anrechte aus der gesetzlichen Rentenversicherung
 
@@ -875,7 +807,6 @@ Entgeltpunkten (Ost) zu bestimmen.
 (3) Besondere Wartezeiten sind nur dann werterhöhend zu
 berücksichtigen, wenn die hierfür erforderlichen Zeiten bereits
 erfüllt sind.
-
 
 #### § 44 Sondervorschriften für Anrechte aus einem öffentlich-rechtlichen Dienstverhältnis
 
@@ -911,7 +842,6 @@ aus einem Dienstverhältnis einer Soldatin oder eines Soldaten auf Zeit
 ist der Wert maßgeblich, der sich bei einer Nachversicherung in der
 gesetzlichen Rentenversicherung ergäbe.
 
-
 #### § 45 Sondervorschriften für Anrechte nach dem Betriebsrentengesetz
 
 (1) Bei einem Anrecht im Sinne des Betriebsrentengesetzes ist der Wert
@@ -931,7 +861,6 @@ der gesamten Betriebszugehörigkeit bis zum Ehezeitende zu bilden ist.
 Träger einer Zusatzversorgung des öffentlichen oder kirchlichen
 Dienstes besteht.
 
-
 #### § 46 Sondervorschriften für Anrechte aus Privatversicherungen
 
 Für die Bewertung eines Anrechts aus einem privaten
@@ -939,9 +868,7 @@ Versicherungsvertrag sind die Bestimmungen des
 Versicherungsvertragsgesetzes über Rückkaufswerte anzuwenden.
 Stornokosten sind nicht abzuziehen.
 
-
 ### Kapitel 3 - Korrespondierender Kapitalwert als Hilfsgröße
-
 
 #### § 47 Berechnung des korrespondierenden Kapitalwerts
 
@@ -974,9 +901,7 @@ und § 27 sind nicht nur die Kapitalwerte und korrespondierenden
 Kapitalwerte, sondern auch die weiteren Faktoren der Anrechte zu
 berücksichtigen, die sich auf die Versorgung auswirken.
 
-
 ## Teil 3 - Übergangsvorschriften
-
 
 ### § 48 Allgemeine Übergangsvorschrift
 
@@ -1002,14 +927,12 @@ materielle Recht und Verfahrensrecht anzuwenden in Verfahren, die
 dem 1. September 2010 das ab dem 1. September 2009 geltende materielle
 Recht und Verfahrensrecht anzuwenden.
 
-
 ### § 49 Übergangsvorschrift für Auswirkungen des Versorgungsausgleichs in besonderen Fällen
 
 Für Verfahren nach den §§ 4 bis 10 des Gesetzes zur Regelung von
 Härten im Versorgungsausgleich, in denen der Antrag beim
 Versorgungsträger vor dem 1. September 2009 eingegangen ist, ist das
 bis dahin geltende Recht weiterhin anzuwenden.
-
 
 ### § 50 Wiederaufnahme von ausgesetzten Verfahren nach dem Versorgungsausgleichs-Überleitungsgesetz
 
@@ -1031,7 +954,6 @@ bis dahin geltende Recht weiterhin anzuwenden.
 (2) Der Antrag nach Absatz 1 Nr. 1 ist frühestens sechs Monate vor dem
 Zeitpunkt zulässig, ab dem auf Grund des Versorgungsausgleichs
 voraussichtlich Leistungen zu erbringen oder zu kürzen wären.
-
 
 ### § 51 Zulässigkeit einer Abänderung des öffentlich-rechtlichen Versorgungsausgleichs
 
@@ -1069,7 +991,6 @@ gemacht werden können.
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit gilt entsprechend.
 
-
 ### § 52 Durchführung einer Abänderung des öffentlich-rechtlichen Versorgungsausgleichs
 
 (1) Für die Durchführung des Abänderungsverfahrens nach § 51 ist § 226
@@ -1083,14 +1004,12 @@ Ehezeitanteil zusätzlich als Rentenbetrag.
 ausgleichsberechtigten Person sind unter Anrechnung der gewährten
 Leistungen zurückzuzahlen.
 
-
 ### § 53 Bewertung eines Teilausgleichs bei Ausgleichsansprüchen nach der Scheidung
 
 Ist bei Ausgleichsansprüchen nach der Scheidung gemäß den §§ 20 bis 26
 ein bereits erfolgter Teilausgleich anzurechnen, so ist dessen Wert
 mithilfe der aktuellen Rentenwerte der gesetzlichen Rentenversicherung
 zu bestimmen.
-
 
 ### § 54 Weiter anwendbare Übergangsvorschriften des Ersten Gesetzes zur Reform des Ehe- und Familienrechts und des Gesetzes über weitere Maßnahmen auf dem Gebiet des Versorgungsausgleichs für Sachverhalte vor dem 1. Juli 1977
 

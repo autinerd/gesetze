@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 21.7.2012 I 1566
 
-
 ## Teil I - Erfassung des Warenverkehrs
-
-
 
 ### § 1 Aufgaben der Zollverwaltung
 
@@ -111,7 +108,6 @@ stehen, zu erforschen und zu verfolgen.
 (4) Die Zollverwaltung erfüllt im übrigen die Aufgaben, die ihr durch
 andere Rechtsvorschriften zugewiesen sind.
 
-
 ### § 2 Verkehrswege
 
 (1) Waren dürfen im Geltungsbereich dieses Gesetzes nur auf
@@ -148,7 +144,6 @@ Waren zu der von den Zollbehörden bezeichneten Zollstelle oder einem
 anderen von diesen Behörden bezeichneten oder zugelassenen Ort zu
 befördern, vorsehen.
 
-
 ### § 3 Zeitliche Beschränkung der Ein- und Ausfuhr
 
 (1) Waren, die auf Zollstraßen zu befördern sind, dürfen nur während
@@ -164,7 +159,6 @@ Hauptzollamt weitere Ausnahmen und Erleichterungen zulassen, soweit es
 die Umstände erfordern und die Möglichkeit der zollamtlichen
 Überwachung dadurch nicht beeinträchtigt wird.
 
-
 ### § 4 Gestellung
 
 (1) Die Gestellung ist innerhalb der dafür bekanntgegebenen
@@ -178,7 +172,6 @@ der Pflicht zur Gestellung oder Erleichterungen bei der Gestellung
 vorsehen. Es kann dabei bestimmen, daß in einzelnen Fällen Ausnahmen
 auch im Verwaltungsweg zugelassen werden können, soweit Verbote und
 Beschränkungen nicht entgegenstehen.
-
 
 ### § 5 Sondervorschriften für Postsendungen
 
@@ -199,10 +192,7 @@ Vertretung des Empfängers abzugeben.
 (3) § 46 Abs. 3 Satz 1 des Gesetzes über Ordnungswidrigkeiten wird
 durch diese Vorschrift nicht berührt.
 
-
 ## Teil II - Erlangung einer zollrechtlichen Bestimmung
-
-
 
 ### § 6 Zolltarif
 
@@ -310,7 +300,6 @@ verarbeitet werden. Dies gilt nicht für Waren, für die gemeinsame
 Marktorganisationen bestehen, nach denen die Gewährung von Leistungen
 von der Bestimmung des Ursprungs abhängt.
 
-
 ### § 7 Nichtannahme der Zollanmeldung
 
 (1) Unbeschadet des Zollkodex und der sonstigen
@@ -337,10 +326,6 @@ der Zollanmeldung ab, wenn
 2.  die Regelungen über den Amtsplatz oder die Öffnungszeiten (§ 18) nicht
     beachtet worden sind.
 
-
-
-
-
 ### § 8 Nämlichkeitssicherung
 
 Soweit die Sicherung der Nämlichkeit (Artikel 72 des Zollkodex)
@@ -351,7 +336,6 @@ Packstücken und Waren die Vorrichtungen zum Anlegen der
 Nämlichkeitsmittel anzubringen und Muster, Abbildungen oder
 Beschreibungen von Waren unentgeltlich zur Verfügung zu stellen, wenn
 sie als Nämlichkeitsmittel erforderlich sind.
-
 
 ### § 9 Zollbehandlung auf dem Betriebsgelände bestimmter Unternehmen
 
@@ -405,10 +389,7 @@ Verfügung zu stellen.
 (5) Verkehrsverwaltungen des Bundes gelten als Unternehmen im Sinne
 der vorstehenden Absätze.
 
-
 ## Teil III - Befugnisse der Zollverwaltung
-
-
 
 ### § 10 Zollamtliche Überwachung
 
@@ -468,7 +449,6 @@ Postgeheimnis sowie das Grundrecht auf Unverletzlichkeit der Wohnung
 (Artikel 2 Abs. 2, Artikel 10 und Artikel 13 Abs. 1 des Grundgesetzes)
 werden nach Maßgabe der Absätze 1 bis 4 eingeschränkt.
 
-
 ### § 11 Datenübermittlung ins Ausland sowie an über- oder zwischenstaatliche Stellen
 
 (1) Die Dienststellen der Zollverwaltung, die Aufgaben nach § 1
@@ -517,7 +497,6 @@ dass der Empfängerstaat oder die empfangende zwischen- oder
 
 (3) § 3 Absatz 6 des Zollfahndungsdienstgesetzes ist auf die §§ 11 bis
 11b anzuwenden.
-
 
 ### § 11a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union
 
@@ -641,7 +620,6 @@ Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen
 eines Schengen-assoziierten Staates im Sinne von § 91 Absatz 3 des
 Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
-
 ### § 11b Verwendung von nach dem Rahmenbeschluss 2006/960/JI des Rates übermittelten Daten
 
 (1) Daten, die nach dem Rahmenbeschluss 2006/960/JI an die in § 11
@@ -659,7 +637,6 @@ Zollverwaltung erteilen dem übermittelnden Staat auf dessen Ersuchen
 zu Zwecken der Datenschutzkontrolle Auskunft darüber, wie die
 übermittelten Daten verwendet wurden.
 
-
 ### § 12 Weiterleitungsbefugnis
 
 Ergeben sich bei der zollamtlichen Überwachung zureichende
@@ -675,7 +652,6 @@ Postsendungen gilt dies nur, wenn zureichende tatsächliche
 Anhaltspunkte für eine Straftat vorliegen. Das Brief- und
 Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der
 Sätze 1 und 2 eingeschränkt.
-
 
 ### § 12a Überwachung des grenzüberschreitenden Bargeldverkehrs
 
@@ -790,7 +766,6 @@ Durchführung
 (6) Für Streitigkeiten wegen Maßnahmen nach Absätze 2, 3, 4 Satz 1,
 Absatz 4a Satz 1 und Absatz 5 ist der Finanzrechtsweg gegeben.
 
-
 ### § 12b Befugnisse der Zollfahndungsämter bei der Verfolgung der internationalen organisierten Geldwäsche
 
 Die Zollfahndungsämter und ihre Beamten haben bei der Erfüllung ihrer
@@ -798,7 +773,6 @@ Aufgaben nach § 1 Abs. 3c dieselben Rechte und Pflichten wie die
 Behörden und Beamten des Polizeidienstes nach den Vorschriften der
 Strafprozessordnung; ihre Beamten sind Ermittlungspersonen der
 Staatsanwaltschaft.
-
 
 ### § 12c Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
 
@@ -808,7 +782,6 @@ Beamten der Zollverwaltung. Ihre Maßnahmen gelten als Maßnahme der
 Zollverwaltung. Das Bundesministerium der Finanzen und die
 nachgeordneten Zolldienststellen üben ihnen gegenüber insoweit
 Fachaufsicht aus.
-
 
 ### § 13 Verwertung von Waren
 
@@ -832,10 +805,7 @@ unverhältnismäßig schwierig ist. Absatz 1 ist anzuwenden.
 (3) Waren, die nach den Absätzen 1 oder 2 nicht veräußert werden
 können, können vernichtet werden.
 
-
 ## Teil IV - Vorschriften für Grundstücke und Bauten im grenznahen Raum
-
-
 
 ### § 14 Grenznaher Raum
 
@@ -879,7 +849,6 @@ gelegenen Bereich in einer für die wirksame Überwachung erforderlichen
 Ausdehnung der Grenzaufsicht unterwerfen. Für ein solches Gebiet
 gelten die Absätze 2 und 3 sowie § 10 Abs. 1 und § 15 Abs. 5
 entsprechend.
-
 
 ### § 15 Grundstücke und Bauten in Grenznähe, an Freizonengrenzen und auf Flugplätzen
 
@@ -928,7 +897,6 @@ sinngemäß.
 der Bundeswehr oder der Truppen verbündeter Staaten und für Anlagen
 der Eisenbahnen des Bundes.
 
-
 ### § 16 Enteignung
 
 (1) Für die Errichtung von Zollbauten im grenznahen Raum (§ 14 Abs. 1)
@@ -940,10 +908,7 @@ Landbeschaffungsgesetzes in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 54-3, veröffentlichten bereinigten Fassung
 sinngemäß.
 
-
 ## Teil V - Zollverwaltung, Beistandspflichten
-
-
 
 ### § 17 Zollbehörden und Zollstellen, Grenzaufsichtsdienst
 
@@ -967,7 +932,6 @@ Gebiete (§ 14 Abs. 4). Zum Grenzaufsichtsdienst der Zollverwaltung
 gehören alle Zollbediensteten - einschließlich der Bediensteten des
 Wasserzolldienstes -, die in der Grenzaufsicht tätig sind.
 
-
 ### § 17a Zentralstelle für Risikoanalyse
 
 Die Dienststellen der Zollverwaltung, insbesondere der
@@ -978,7 +942,6 @@ konkreten Aufgaben der Zentralstelle im Rahmen des § 1, ihren Sitz
 sowie ihre Organisation und Ausstattung bestimmt das Bundesministerium
 der Finanzen.
 
-
 ### § 18 Öffnungszeiten und Amtsplätze
 
 Die Öffnungszeiten der Zollstellen und deren Amtsplätze werden durch
@@ -986,7 +949,6 @@ Aushang bei den Zollstellen bekanntgegeben. Der Amtsplatz der
 Zollstelle darf nur zum Zwecke der Durchführung und nur für die Dauer
 zollamtlicher Maßnahmen benutzt werden. Gleiches gilt für die zur
 Vornahme der vorgenannten Maßnahmen besonders gekennzeichneten Plätze.
-
 
 ### § 19 Beistand
 
@@ -1021,10 +983,7 @@ Steuerordnungswidrigkeit rechtskräftig verurteilt sind, auf Verlangen
 des Hauptzollamts von jeder Verrichtung auszuschließen, auf die sich
 die zollamtliche Überwachung erstreckt.
 
-
 ## Teil VI - Sondervorschriften für Freizonen und andere Teile des Hoheitsgebiets
-
-
 
 ### § 20 Freizonen
 
@@ -1041,13 +1000,11 @@ wirtschaftliche Erfordernisse oder zur Vereinfachung der zollamtlichen
 ändern, soweit der wesentliche Bestand der Freizone nicht berührt
 wird.
 
-
 ### § 21 Persönliche Beschränkungen
 
 Personen dürfen in Freizonen nur mit besonderer Erlaubnis des
 Hauptzollamts wohnen. Die Erlaubnis wird erteilt, wenn Zollbelange
 nicht entgegenstehen.
-
 
 ### § 22 Bauten in Freizonen
 
@@ -1061,14 +1018,12 @@ gelten nicht für Bauten des Bundes, der Länder und der Gemeinden; die
 Baupläne müssen jedoch dem Hauptzollamt spätestens einen Monat vor
 Baubeginn zugeleitet werden.
 
-
 ### § 23 Überwachung von Freizonen des Kontrolltyps I
 
 Das Bundesministerium der Finanzen kann zur Sicherung der Begrenzungen
 von Freizonen des Kontrolltyps I, insbesondere zur Ausgestaltung der
 Umzäunung, das Nähere durch Rechtsverordnung ohne Zustimmung des
 Bundesrates bestimmen.
-
 
 ### § 24 Helgoland
 
@@ -1088,10 +1043,7 @@ Betriebsinhaber zur Buchführung verpflichtet werden.
 (3) Für die Verbote, Beschränkungen und Sicherungsmaßnahmen auf
 Helgoland gelten die §§ 328 bis 335 der Abgabenordnung sinngemäß.
 
-
 ## Teil VII - Sonstige Vorschriften
-
-
 
 ### § 25 Beschränkung des Warenverkehrs
 
@@ -1105,7 +1057,6 @@ verbunden werden.
 Zollbelange durch Rechtsverordnung die Abgabe und den Bezug
 unverzollter oder unversteuerter Waren als Schiffs- und Reisebedarf
 einschränken oder für bestimmte Fälle untersagen.
-
 
 ### § 26 Versand
 
@@ -1121,7 +1072,6 @@ Zollkodex im Geltungsbereich dieses Gesetzes in Kraft zu setzen und
 ergänzende Verfahrensvorschriften zur Durchführung dieser
 Vereinbarungen zu erlassen.
 
-
 ### § 27 Abgabenerhebung zum Pauschsatz
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung für
@@ -1134,10 +1084,7 @@ kommenden Steuergesetzen beantragt.
 (2) Absatz 1 gilt nicht für Einfuhrabgaben, deren Aufkommen den
 Ländern zusteht.
 
-
 ## Teil VIII - Sonstige Ermächtigungen
-
-
 
 ### § 28 Rechtsverordnungsermächtigungen für Verfahrensregelungen
 
@@ -1156,7 +1103,6 @@ oder die Harmonisierung und Vereinfachung von Zollförmlichkeiten
 betreffen, in Kraft zu setzen.
 
 (3) (weggefallen)
-
 
 ### § 29 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit
 
@@ -1210,7 +1156,6 @@ Ursprung oder Herkunft aus Ländern, die keine Gegenseitigkeit
 gewähren, die Begünstigungen nach Absatz 1 Nr. 1 Buchstabe a bis d
 ausschließen oder einschränken.
 
-
 ### § 30 Rechtsverordnungsermächtigung für die Anordnung außertariflicher Zollfreiheit zur Förderung der Luft- und Schiffahrt
 
 Das Bundesministerium der Finanzen kann zur Förderung der Luftfahrt
@@ -1219,10 +1164,7 @@ anderen als in § 29 geregelten Fällen vom Zoll befreien, wenn sie
 unter zollamtlicher Überwachung für Luftfahrzeuge oder Schiffe
 verwendet werden.
 
-
 ## Teil IX - Steuerordnungswidrigkeiten, Steuerstraftaten und Steuerordnungswidrigkeiten im Reiseverkehr
-
-
 
 ### § 31 Steuerordnungswidrigkeiten
 
@@ -1300,10 +1242,6 @@ handelt, wer vorsätzlich oder fahrlässig
     als Schiffs- oder Reisebedarf bestimmt sind, ohne schriftliche
     Erlaubnis des Hauptzollamts betreibt.
 
-
-
-
-
 ### § 31a Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
@@ -1323,7 +1261,6 @@ nach Absatz 1 dieselben Rechte und Pflichten wie die Behörden und
 Beamten des Polizeidienstes nach der Strafprozessordnung; die Beamten
 sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
 
-
 ### § 31b Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -1342,7 +1279,6 @@ Million Euro geahndet werden.
 nach Absatz 1 dieselben Rechte und Pflichten wie Behörden und Beamte
 des Polizeidienstes nach dem Gesetz über Ordnungswidrigkeiten; die
 Beamten sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
-
 
 ### § 32 Nichtverfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten, Erhebung eines Zuschlags
 

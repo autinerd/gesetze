@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 3 G v. 16.5.2003 I 660
 
-
 ## Erster Teil - Allgemeine Vorschriften zu dem zweiten bis siebten Teil
-
-
 
 ### § 1 Anwendungsbereich des zweiten bis siebten Teils
 
@@ -58,7 +55,6 @@ und 2 des Umwandlungsgesetzes die §§ 15 und 19.
 (5) Die Absätze 1 bis 4 gelten nur für Körperschaften, die nach § 1
 des Körperschaftsteuergesetzes unbeschränkt steuerpflichtig sind.
 
-
 ### § 2 Steuerliche Rückwirkung
 
 (1)
@@ -74,10 +70,7 @@ Bemessungsgrundlagen bei der Gewerbesteuer.
 (2) Ist die Übernehmerin eine Personengesellschaft, so gilt Absatz 1
 Satz 1 für das Einkommen und das Vermögen der Gesellschafter.
 
-
 ## Zweiter Teil - Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person
-
-
 
 ### § 3 Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
@@ -94,7 +87,6 @@ werden muss.
 steuerrechtlichen Vorschriften über die Gewinnermittlung ergibt.
 4             Die Teilwerte der einzelnen Wirtschaftsgüter dürfen
 nicht überschritten werden.
-
 
 ### § 4 Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft
 
@@ -156,7 +148,6 @@ eine Körperschaft, Personenvereinigung oder Vermögensmasse als
 Mitunternehmerin der Personengesellschaft entfällt.
 2             In den übrigen Fällen ist er zur Hälfte anzusetzen.
 
-
 ### § 5 Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft in Sonderfällen
 
 (1) Hat die übernehmende Personengesellschaft Anteile an der
@@ -201,7 +192,6 @@ des § 21 gelten als an dem steuerlichen Übertragungsstichtag in das
 Betriebsvermögen der Personengesellschaft mit den Anschaffungskosten
 eingelegt.
 
-
 ### § 6 Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
 
 (1)
@@ -240,7 +230,6 @@ dass infolge des Vermögensübergangs eine Rückstellung aufzulösen ist.
 Eintragung des Umwandlungsbeschlusses in das Handelsregister an der
 Personengesellschaft beteiligt sind.
 
-
 ### § 7 Ermittlung der Einkünfte bei Anteilseignern, die nicht im Sinne des § 17 des Einkommensteuergesetzes beteiligt sind
 
 1             Haben Anteile an der übertragenden Körperschaft zum
@@ -259,7 +248,6 @@ Veräußerungsverlust nach § 17 Abs. 2 Satz 4 des
 Einkommensteuergesetzes nicht zu berücksichtigen wäre, gilt Satz 1
 entsprechend.
 
-
 ### § 8 Vermögensübergang auf eine Personengesellschaft ohne Betriebsvermögen
 
 (1)
@@ -273,7 +261,6 @@ entsprechend.
 (2) In den Fällen des Absatzes 1 sind § 17 Abs. 3, § 22 Nr. 2 und § 34
 Abs. 1 und 3 des Einkommensteuergesetzes nicht anzuwenden.
 
-
 ### § 9 Entsprechende Anwendung von Vorschriften beim Vermögensübergang auf eine natürliche Person
 
 (1) Wird das Vermögen der übertragenden Körperschaft Betriebsvermögen
@@ -283,7 +270,6 @@ anzuwenden.
 (2) Wird das Vermögen der übertragenden Körperschaft Privatvermögen
 einer natürlichen Person, so sind § 4 Abs. 2 Satz 1 und 2 und Abs. 3
 sowie § 5 Abs. 1, § 7 und § 8 Abs. 2 sinngemäß anzuwenden.
-
 
 ### § 10 Körperschaftsteuerminderung und Körperschaftsteuererhöhung
 
@@ -300,10 +286,7 @@ verwendet gelten würde.
 Fassung des Artikels 2 des Gesetzes vom 16. Mai 2003 (BGBl. I S. 660)
 ist nicht anzuwenden.
 
-
 ## Dritter Teil - Verschmelzung oder Vermögensübertragung (Vollübertragung) auf eine andere Körperschaft
-
-
 
 ### § 11 Auswirkungen auf den Gewinn der übertragenden Körperschaft
 
@@ -334,7 +317,6 @@ vor, sind die übergegangenen Wirtschaftsgüter mit dem Wert der für die
 Übertragung gewährten Gegenleistung anzusetzen.
 2             Wird eine Gegenleistung nicht gewährt, sind die
 Wirtschaftsgüter mit dem Teilwert anzusetzen.
-
 
 ### § 12 Auswirkungen auf den Gewinn der übernehmenden Körperschaft
 
@@ -394,7 +376,6 @@ Abs. 1 des Körperschaftsteuergesetzes ergibt, als Bezug im Sinne des §
 verbleibenden Verlustvortrag im Sinne des § 10d Abs. 4 Satz 2 des
 Einkommensteuergesetzes.
 
-
 ### § 13 Besteuerung der Gesellschafter der übertragenden Körperschaft
 
 (1) Die Anteile an der übertragenden Körperschaft, die zu einem
@@ -423,10 +404,7 @@ hingegebenen Anteile.
 der den Anteilen an der übertragenden Körperschaft anhaftet, verlagert
 sich auf die Anteile an der übernehmenden Körperschaft.
 
-
 ## Vierter Teil - Formwechsel einer Kapitalgesellschaft und einer Genossenschaft in eine Personengesellschaft
-
-
 
 ### § 14 Entsprechende Anwendung von Vorschriften, Eröffnungsbilanz
 
@@ -445,10 +423,7 @@ Formwechsels zur Eintragung in das Handelsregister liegt
 eingetragenen Genossenschaft in eine Personengesellschaft im Sinne des
 § 38a des Landwirtschaftsanpassungsgesetzes.
 
-
 ## Fünfter Teil - Aufspaltung, Abspaltung und Vermögensübertragung (Teilübertragung)
-
-
 
 ### § 15 Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
 
@@ -505,7 +480,6 @@ dem vor der Spaltung vorhandenen Vermögen maßgebend.
 Spaltung keine Anteile, sondern Mitgliedschaften an der übernehmenden
 Körperschaft erworben werden.
 
-
 ### § 16 Aufspaltung oder Abspaltung auf eine Personengesellschaft
 
 1             Soweit Vermögen einer Körperschaft durch Aufspaltung
@@ -518,19 +492,13 @@ Körperschaftsteuergesetzes bezeichneten Teil der Beträge im Sinne der
 Kapitalgesellschaft mindert sich in dem Verhältnis, in dem das
 Vermögen auf eine Personengesellschaft übergeht.
 
-
 ## Sechster Teil - Barabfindung des Minderheitsgesellschafters
-
-
 
 ### § 17
 
 (weggefallen)
 
-
 ## Siebter Teil - Gewerbesteuer
-
-
 
 ### § 18 Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
 
@@ -560,7 +528,6 @@ Sätze 1 und 2 beruhende Teil des Gewerbesteuer-Messbetrags ist bei der
 Ermäßigung der Einkommensteuer nach § 35 des Einkommensteuergesetzes
 nicht zu berücksichtigen.
 
-
 ### § 19 Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
 
 (1) Geht das Vermögen der übertragenden Körperschaft auf eine andere
@@ -571,10 +538,7 @@ Ermittlung des Gewerbeertrags.
 im Sinne des § 10a des Gewerbesteuergesetzes gelten § 12 Abs. 3 Satz 2
 sowie Abs. 5 Satz 3, § 15 Abs. 4 und § 16 Satz 3 entsprechend.
 
-
 ## Achter Teil - Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils in eine Kapitalgesellschaft gegen Gewährung von Gesellschaftsanteilen
-
-
 
 ### § 20 Bewertung des eingebrachten Betriebsvermögens und der Gesellschaftsanteile
 
@@ -689,7 +653,6 @@ Tag des Abschlusses des Einbringungsvertrags liegt und höchstens acht
 Monate vor dem Zeitpunkt liegt, an dem das eingebrachte
 Betriebsvermögen auf die Kapitalgesellschaft übergeht.
 
-
 ### § 21 Besteuerung des Anteilseigners
 
 (1)
@@ -771,7 +734,6 @@ ist dieser anzusetzen; der Unterschiedsbetrag zwischen den
 Anschaffungskosten und dem niedrigeren Teilwert ist außerhalb der
 Bilanz vom Gewinn abzusetzen.
 
-
 ### § 22 Auswirkungen bei der übernehmenden Kapitalgesellschaft
 
 (1) Setzt die Kapitalgesellschaft das eingebrachte Betriebsvermögen
@@ -811,7 +773,6 @@ kann nicht um die vortragsfähigen Fehlbeträge des Einbringenden im
 Sinne des § 10a des Gewerbesteuergesetzes gekürzt werden.
 
 (5) § 6 Abs. 1 und 2 gilt entsprechend.
-
 
 ### § 23 Einbringung in der Europäischen Union
 
@@ -876,10 +837,7 @@ Abs. 2 Satz 5 und für die Bewertung der Anteile, die der Einbringende
 erhält, auch § 20 Abs. 4 Satz 2 entsprechend anzuwenden.
 5             § 20 Abs. 5 gilt entsprechend.
 
-
 ## Neunter Teil - Einbringung eines Betriebs, Teilbetriebs oder Mitunternehmeranteils in eine Personengesellschaft
-
-
 
 ### § 24 Einbringung von Betriebsvermögen in eine Personengesellschaft
 
@@ -921,10 +879,7 @@ Mitunternehmeranteils nicht anzuwenden.
 Einbringung in eine Personengesellschaft im Wege der
 Gesamtrechtsnachfolge gilt auch § 20 Abs. 7 und 8 entsprechend.
 
-
 ## Zehnter Teil - Formwechsel einer Personengesellschaft in eine Kapitalgesellschaft
-
-
 
 ### § 25 Entsprechende Anwendung des achten Teils
 
@@ -934,10 +889,7 @@ des Umwandlungsgesetzes entsprechend.
 2             Die übertragende Gesellschaft hat eine Steuerbilanz auf
 den steuerlichen Übertragungsstichtag aufzustellen.
 
-
 ## Elfter Teil - Verhinderung von Missbräuchen
-
-
 
 ### § 26 Wegfall von Steuererleichterungen
 
@@ -974,10 +926,7 @@ internationalen Verkehr oder von Schiffen, die der Binnenschifffahrt
 dienen, nach einem Abkommen zur Vermeidung der Doppelbesteuerung in
 der Bundesrepublik Deutschland nicht besteuert werden können.
 
-
 ## Zwölfter Teil - Übergangs-, Schluss- und Ermächtigungsvorschriften
-
-
 
 ### § 27 Anwendungsvorschriften
 
@@ -1092,7 +1041,6 @@ Gesetzes vom 20. Dezember 2001 (BGBl. I S. 3858) ist erstmals auf
 Veräußerungen oder Übertragungen anzuwenden, die nach dem 15. August
 2001 erfolgen.
 
-
 ### § 28 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
@@ -1100,7 +1048,6 @@ dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen
 in der jeweils geltenden Fassung satzweise nummeriert mit neuem Datum
 und in neuer Paragraphenfolge bekannt zu machen und dabei
 Unstimmigkeiten im Wortlaut zu beseitigen.
-
 
 ### Anlage (zu § 23)
 

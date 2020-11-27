@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2253
 
-
 ## (XXXX)
 
 Auf Grund des § 6a Absatz 2 des Gebrauchsmustergesetzes, der durch
@@ -33,10 +32,6 @@ Ausstellungen gewährt:
 
 2.  „EXPO 2012 – The Living Ocean and Coast“
     vom 12. Mai bis 12. August 2012 in Yeosu/Republik Korea
-
-
-
-
 
 ## Schlussformel
 

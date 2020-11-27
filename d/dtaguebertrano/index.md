@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1363
 
-
 ## Eingangsformel
 
 Der Vorstand der Deutschen Telekom AG ordnet nach
@@ -46,7 +45,6 @@ Der Vorstand der Deutschen Telekom AG ordnet nach
 
 
 an:
-
 
 ## I. Befugnisse und Zuständigkeiten im Bereich des allgemeinen Beamtenrechts und des Besoldungsrechts einschließlich der Entscheidung über Widersprüche und der Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
 
@@ -88,10 +86,6 @@ an:
 3.  Die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
     wird dem Betrieb Sozialstrategie, Beamten- und Dienstrecht übertragen.
 
-
-
-
-
 ## II. Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
 
 
@@ -113,10 +107,6 @@ an:
     Ruhestandsbeamten sowie früheren Beamtinnen und Beamten werden der
     Sprecherin oder dem Sprecher der Leitung des Betriebs Sozialstrategie,
     Beamten- und Dienstrecht übertragen.
-
-
-
-
 
 ## III. Zuständigkeiten im Bereich des Versorgungsrechts
 
@@ -143,10 +133,6 @@ an:
     Beamtinnen und Beamten mit Versorgungsbezügen in
     versorgungsrechtlichen Angelegenheiten wird dem Betrieb Personal-
     Service-Telekom, Bereich Rechtsstreite Versorgung, übertragen.
-
-
-
-
 
 ## IV. Zuständigkeiten im Bereich des Beihilferechts
 
@@ -175,10 +161,6 @@ an:
     Dienstrecht übertragen, soweit diese Stellen den mit dem Widerspruch
     angefochtenen Verwaltungsakt erlassen haben.
 
-
-
-
-
 ## V. Betrieb Vivento
 
 Die Befugnis, Beamtinnen und Beamten, deren Arbeitsposten weggefallen
@@ -190,14 +172,12 @@ Vivento übertragen. Der Betrieb Vivento ist insoweit Teil der
 Personalverwaltung im Sinne des § 107 Absatz 1 Satz 1 des
 Bundesbeamtengesetzes.
 
-
 ## VI. Vorbehaltsklausel
 
 Der Vorstand der Deutschen Telekom AG behält sich vor, die nach den
 Abschnitten I bis V übertragenen Befugnisse im Einzelfall oder in
 bestimmten Gruppen von Fällen und in jedem Stadium des Verfahrens
 selbst wahrzunehmen.
-
 
 ## VII. Inkrafttreten, Außerkrafttreten
 

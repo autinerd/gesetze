@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4637, 4641
 
-
-
 ## § 1 Beitrag in der Alterssicherung der Landwirte
 
 (1) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
@@ -25,7 +23,6 @@ Kalenderjahr 2003 monatlich 198 Euro.
 
 (2) Der Beitrag in der Alterssicherung der Landwirte beträgt für das
 Beitrittsgebiet für das Kalenderjahr 2003 monatlich 166 Euro.
-
 
 ## § 2 Beitragszuschuss in der Alterssicherung der Landwirte
 

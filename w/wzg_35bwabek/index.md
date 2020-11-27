@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 2288
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 1 und Abs. 3 Satz 2 des Warenzeichengesetzes
@@ -31,7 +29,6 @@ Umfang wie inländische zum gesetzlichen Schutz zugelassen.
 Botsuana anmelden, brauchen nicht den Nachweis zu erbringen, daß sie
 für das Zeichen in dem Staat, in dem sich ihre Niederlassung befindet,
 den Markenschutz nachgesucht und erhalten haben.
-
 
 ## Schlussformel
 

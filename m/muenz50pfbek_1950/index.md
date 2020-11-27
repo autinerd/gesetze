@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 694
 
-
-
 ## (XXXX)
 
 Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8.

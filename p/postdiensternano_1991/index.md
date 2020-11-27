@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1060
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -29,17 +27,14 @@ zur Ernennung und Entlassung der Bundesbeamten der Besoldungsgruppen A
 Oberpostdirektionen, den Direktionen Postdienst und dem
 Posttechnischen Zentralamt.
 
-
 ## II.
 
 Für besondere Fälle behalten wir uns die Ernennung und Entlassung der
 in Abschnitt I genannten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am 1. Juli 1991 in Kraft.
-
 
 ## Schlußformel
 

@@ -19,11 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 4 G v. 26. 1.1998 I 164
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Dem in Wien am 13. Juni 1980 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen vom 26. Oktober 1979 über den physischen
 Schutz von Kernmaterial wird zugestimmt. Das Übereinkommen wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -42,17 +39,14 @@ einer Genehmigung und Untersagung im Sinne des § 328 Abs. 1 Nr. 1
 stehen eine entsprechende ausländische verwaltungsrechtliche Pflicht,
 Genehmigung und Untersagung gleich.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

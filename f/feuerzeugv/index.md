@@ -24,7 +24,6 @@ treffen, damit nur kindergesicherte Feuerzeuge in Verkehr gebracht
 werden und das Inverkehrbringen von "Feuerzeugen mit
 Unterhaltungseffekten" untersagt wird (ABl. EU Nr. L 198 S. 41).
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 des Geräte- und Produktsicherheitsgesetzes
@@ -39,7 +38,6 @@ Reaktorsicherheit, dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung und dem Bundesministerium der Verteidigung nach
 Anhörung des Ausschusses für technische Arbeitsmittel und
 Verbraucherprodukte:
-
 
 ## § 1 Anwendungsbereich
 
@@ -76,7 +74,6 @@ Feuerzeuge, wenn
 
 (3) Absatz 2 gilt nicht für Feuerzeuge mit Unterhaltungseffekt.
 
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
@@ -111,10 +108,6 @@ Im Sinne dieser Verordnung ist
 4.  "Feuerzeug-Modell-Reihe": Feuerzeuge desselben Herstellers, die weder
     von der Formgebung her noch aufgrund anderer Merkmale so voneinander
     abweichen, dass sich dies auf die Kindersicherheit auswirken kann.
-
-
-
-
 
 ## § 3 Voraussetzungen für die Bereitstellung auf dem Markt
 
@@ -181,10 +174,6 @@ können, die die von ihnen angebotenen Feuerzeuge geliefert haben.
 \*) Amtlicher Hinweis: Deutsche Fassung DIN EN 13869:2002, Ausgabe Oktober
     2002, zu beziehen bei Beuth Verlag, 10772 Berlin.
 
-
-
-
-
 ## § 4 Anforderungen an Prüfberichte
 
 (1) Der in § 3 Abs. 2 Nr. 1 genannte Prüfbericht muss insbesondere
@@ -250,10 +239,6 @@ Prüfstelle anzufertigen,
 \*) Amtlicher Hinweis: Deutsche Fassung DIN EN 17025:2005, Ausgabe August
     2005, zu beziehen bei Beuth Verlag, 10772 Berlin.
 
-
-
-
-
 ## § 5 Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
@@ -266,11 +251,9 @@ wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
 Gesundheit eines Anderen oder fremde Sachen von bedeutendem Wert
 gefährdet, ist nach § 40 des Produktsicherheitsgesetzes strafbar.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

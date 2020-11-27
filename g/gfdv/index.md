@@ -22,15 +22,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 3.4.1981 I 342
 
-
 ## 1. Abschnitt - Umfang und Dauer der Förderung
-
-
 
 ### § 1 Höhe des Grundstipendiums
 
 Das Grundstipendium beträgt 800 Deutsche Mark monatlich.
-
 
 ### § 2 Familienzuschlag
 
@@ -54,7 +50,6 @@ Erhalten beide Ehegatten Stipendien nach dem Gesetz oder erhält der
 Ehegatte des Stipendiaten ein Stipendium nach Vorschriften, deren
 Zielsetzung der des Gesetzes entspricht, so wird der Familienzuschlag
 nicht gewährt.
-
 
 ### § 3 Zuschläge für Sachkosten und Reisekosten im Inland
 
@@ -92,7 +87,6 @@ Verheiratetenzuschlag gewährt werden.
 
 (5) Sachkosten und Fahrkosten sind nachzuweisen, soweit für sie kein
 Pauschbetrag gewährt wird.
-
 
 ### § 4 Förderung von Auslandsaufenthalten
 
@@ -200,7 +194,6 @@ wenn sie zu einer Erhöhung oder Verminderung des Grundstipendiums
 sowie der Auslandszulage und des Kaufkraftausgleichs um insgesamt mehr
 als 20 vom Hundert führen würden.
 
-
 ### § 5 Einkommen des Stipendiaten und seines Ehegatten
 
 (1) Das Einkommen des Stipendiaten wird auf das Stipendium
@@ -278,7 +271,6 @@ des Monats an zu zahlen, in dem die Veränderungen wirksam werden; das
 verminderte Stipendium ist vom Ersten des Monats an zu zahlen, der auf
 den Monat folgt, in dem die Veränderungen wirksam geworden sind.
 
-
 ### § 6 Anrechnungsfreie Beträge
 
 (1) Vom Einkommen des Stipendiaten und seines Ehegatten wird die
@@ -314,10 +306,6 @@ anrechnungsfrei:
     zur Höhe des Unterschiedsbetrages zwischen dem bisherigen Einkommen
     und dem gewährten Stipendium anrechnungsfrei.
 
-
-
-
-
 ### § 7 Vermögen des Stipendiaten
 
 (1) Hat der Stipendiat für das Kalenderjahr der Antragstellung, die
@@ -329,7 +317,6 @@ steuerpflichtigen Vermögens.
 Neuveranlagung oder Nachveranlagung zur Vermögensteuer führt, so ist
 das Stipendium entsprechend dem Betrag, für den Vermögensteuer künftig
 zu entrichten ist, neu festzusetzen.
-
 
 ### § 8 Durchführung der Anrechnung
 
@@ -363,7 +350,6 @@ ist auf volle Deutsche Mark aufzurunden; bleibt der ermittelte
 Stipendienbetrag unter 50 Deutsche Mark, so entfällt eine
 Stipendiengewährung.
 
-
 ### § 9 Auskunftspflichten
 
 (1) Die Finanzbehörden erteilen der Hochschule Auskünfte über die
@@ -385,7 +371,6 @@ Einwilligung dieser Personen über deren persönliche und
 wirtschaftliche Verhältnisse die Auskünfte zu erteilen und die
 Urkunden vorzulegen, die zur Entscheidung über einen Antrag auf
 Gewährung eines Stipendiums von Bedeutung sind.
-
 
 ### § 10 Dauer der Förderung in besonderen Fällen
 
@@ -410,10 +395,7 @@ um den Zeitraum, in dem der Stipendiat aus einem der in Satz 2
 genannten Gründe an der Fortsetzung der Arbeit verhindert war,
 verlängert werden.
 
-
 ## 2. Abschnitt - Vergabe der Stipendien und Verteilung der Förderungsmittel
-
-
 
 ### § 11 Vergabe der Stipendien
 
@@ -446,7 +428,6 @@ werden.
 
 (5) Die Stipendien werden hochschulöffentlich ausgeschrieben.
 
-
 ### § 12 Verteilung der Förderungsmittel
 
 (1) Die für die Verteilung zuständige Stelle bestimmt die auf die
@@ -465,7 +446,6 @@ und Zuschlägen vorgesehenen Beträge als Einheit zu behandeln.
 weiteren Studiums im Sinne des § 3 des Gesetzes werden von der nach
 Absatz 1 zuständigen Stelle getrennt verteilt.
 
-
 ### § 13 Erstmalige Gewährung des Stipendiums
 
 (1) Der Bewerber fügt seinem Antrag einen Arbeitsplan bei, in welchem
@@ -480,7 +460,6 @@ des Bewerbers hat die Hochschule Gutachter zu benennen.
 (2) Bei der Auswahl der Bewerber sind Studien- und Prüfungsleistungen,
 Arbeitsplan sowie Gutachten in einem ausgewogenen Verhältnis
 heranzuziehen.
-
 
 ### § 14 Verlängerung des Stipendiums
 
@@ -500,7 +479,6 @@ nicht ausgesprochen werden.
 (3) Abweichungen vom Arbeitsplan nach § 13 sind darzulegen und zu
 begründen.
 
-
 ### § 15 Abschlußbericht
 
 (1) Nach Beendigung der Förderung legt der Stipendiat den beteiligten
@@ -519,16 +497,12 @@ Jahren nach Abschluß der Förderung, jährlich der zentralen Kommission
 zu einem von ihr festzusetzenden Termin schriftlich über den Stand der
 Arbeit.
 
-
 ### § 16 Aufhebung des Bewilligungsbescheides und Rückzahlung
 
 Die Entscheidung nach § 7b des Gesetzes trifft die für die Vergabe
 zuständige Stelle nach Anhörung des Stipendiaten.
 
-
 ## 3. Abschnitt - Rückzahlung des Stipendiums
-
-
 
 ### § 17 Datenermittlung, Zwischenbescheid
 
@@ -556,7 +530,6 @@ unverzüglich zu erteilen.
 nach Beendigung der Gewährung des Stipendiums die für den
 Darlehenseinzug erforderlichen Akten dem Bundesverwaltungsamt.
 
-
 ### § 18 Bescheid des Bundesverwaltungsamtes
 
 Das Bundesverwaltungsamt erteilt dem Stipendiaten einen Bescheid, in
@@ -564,13 +537,11 @@ dem die Höhe des Darlehensbetrages festgestellt und der Zeitpunkt des
 Beginns der Rückzahlung des Darlehens sowie die Höhe der monatlichen
 Raten festgesetzt werden.
 
-
 ### § 19 Rückzahlungsbedingungen
 
 Die Rückzahlungsrate ist am Ende eines jeden Monats für den
 Lastschrifteinzug bereitzustellen oder auf das vom
 Bundesverwaltungsamt bestimmte Konto zu überweisen.
-
 
 ### § 20 Freistellung von der Rückzahlungsverpflichtung
 
@@ -590,7 +561,6 @@ entsprechend.
 (4) Der Rückzahlungszeitraum verlängert sich um den Zeitraum der
 Freistellung.
 
-
 ### § 21 Verzug
 
 (1) Die Verzinsung nach § 7a Abs. 2 des Gesetzes beginnt mit dem
@@ -603,10 +573,6 @@ Ersten des auf den Fälligkeitstag folgenden Kalendermonats.
 
 2.  Aufwendungen für die Geltendmachung der Darlehensforderung.
 
-
-
-
-
 ### § 22 Veränderungen von Ansprüchen
 
 Stirbt der Stipendiat, bevor das Stipendium zurückgezahlt ist, wird
@@ -616,7 +582,6 @@ Stundung, Niederschlagung und zum Erlaß von Ansprüchen nach den §§ 58
 und 59 der Bundeshaushaltsordnung vom 19. August 1969 (Bundesgesetzbl.
 I S. 1284), geändert durch
 Gesetz vom 23. Dezember 1971 (Bundesgesetzbl. I S. 2133).
-
 
 ### § 23 Mitteilungspflichten
 
@@ -634,7 +599,6 @@ Anforderung zu erstatten. Das Bundesverwaltungsamt kann höhere
 Aufwendungen unter Darlegung der hierfür maßgeblichen Gründe geltend
 machen.
 
-
 ### § 24 Rückleitung der eingezogenen Beträge
 
 (1) Das Bundesverwaltungsamt führt bis zum 31. März von dem
@@ -646,10 +610,7 @@ Finanzierungsanteil dieses Landes an der Summe aller für die Jahre
 (2) Kostenerstattungen nach § 21 Abs. 2 Nr. 2 und 3 und § 23 Abs. 2
 verbleiben in voller Höhe dem Bund.
 
-
 ## 4. Abschnitt - Schlußbestimmungen
-
-
 
 ### § 25 Berlin-Klausel
 

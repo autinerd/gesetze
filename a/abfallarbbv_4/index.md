@@ -30,7 +30,6 @@ Tarifverträgen in der Branche mit zumindest teilweise demselben
 fachlichen Geltungsbereich Gelegenheit zur schriftlichen Stellungnahme
 gegeben hat:
 
-
 ## § 1 Zwingende Arbeitsbedingungen
 
 Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des
@@ -60,12 +59,10 @@ hat der Verleiher ihm oder ihr nach § 8 Absatz 3 des Arbeitnehmer-
 Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen
 Arbeitsbedingungen zu gewähren.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2012 in Kraft und am 31. Dezember
 2012 außer Kraft.
-
 
 ## Anlage (zu § 1) Rechtsnormen des Mindestlohntarifvertrags für die Branche der Abfallwirtschaft vom 7. Januar 2009 in der Fassung der Änderungstarifverträge vom 12. August 2009, 19. August 2010, 16. Juni 2011 und 6. März 2012
 

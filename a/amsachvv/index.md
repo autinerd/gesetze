@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 352 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 des Arzneimittelgesetzes vom 24. August 1976 (BGBl.
 I S. 2445, 2448) wird verordnet:
-
 
 ## § 1
 
@@ -48,7 +46,6 @@ an. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei
 Tieren bestimmt sind, tritt in den Fällen des Satzes 1 Nr. 2 und 3 an
 die Stelle des Bundesministeriums das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz.
-
 
 ## § 2
 
@@ -203,7 +200,6 @@ davon einer aus dem Fach Veterinärmedizin
 
 (4) Jedes Mitglied der Ausschüsse hat einen Stellvertreter.
 
-
 ## § 3
 
 (1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden
@@ -221,7 +217,6 @@ beenden.
 
 (4) Die Tätigkeit in den Ausschüssen wird ehrenamtlich ausgeübt.
 
-
 ## § 4
 
 Die Mitglieder der Ausschüsse und deren Stellvertreter haben, auch
@@ -229,7 +224,6 @@ nach Beendigung ihrer ehrenamtlichen Tätigkeit, über die ihnen dabei
 bekanntgewordenen Angelegenheiten Verschwiegenheit zu wahren. Dies
 gilt nicht für Mitteilungen über Tatsachen, die offenkundig sind oder
 ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
-
 
 ## § 5
 
@@ -239,12 +233,10 @@ Professor des Bundesinstitutes für Arzneimittel und Medizinprodukte.
 (2) Die Geschäfte der Ausschüsse führt das Bundesinstitut für
 Arzneimittel und Medizinprodukte.
 
-
 ## § 6
 
 Die Ausschüsse verfahren nach der Geschäftsordnung, die der Verordnung
 als Anlage beigefügt ist.
-
 
 ## § 7
 
@@ -253,11 +245,9 @@ Verbindung mit Artikel 8 des Gesetzes zur Neuordnung des
 Arzneimittelrechts vom 24. August 1976 (BGBl. I S. 2445) auch im Land
 Berlin.
 
-
 ## § 8
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

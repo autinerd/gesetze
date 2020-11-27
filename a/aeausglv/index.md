@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Nr. 2 G v. 23.3.2005 I 931
 
-
 ## Eingangsformel
 
 Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2441)
 eingefügten § 6e Abs. 1 des Allgemeinen Eisenbahngesetzes in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 930-1, veröffentlichen
 bereinigten Fassung wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Ausbildungsverkehr
 
@@ -110,7 +108,6 @@ jeweiligen sozialen Dienste. In der Bescheinigung ist zu bestätigen,
 daß die Voraussetzung des Absatzes 1 Nr. 2 gegeben ist. Die
 Bescheinigung gilt längstens ein Jahr.
 
-
 ## § 2 Kostenbestandteile für die Festlegung der Kostensätze
 
 Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung
@@ -122,7 +119,6 @@ Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November
 1953 (BAnz. Nr. 244 vom 18. Dezember 1953), zu verfahren; hierbei
 bleiben kalkulatorische Kosten, soweit sie in der Anlage nicht
 ausdrücklich aufgeführt sind, außer Ansatz.
-
 
 ## § 3 Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
 
@@ -179,14 +175,12 @@ nachzuweisen
 
 (6) (weggefallen)
 
-
 ## § 4 Ermittlung der Erträge
 
 Als Erträge im Sinne von § 6a Abs. 1 und 2 des Gesetzes sind die
 Fahrgeldeinnahmen aus dem Verkauf von Zeitfahrausweisen im
 Ausbildungsverkehr und die Einnahmen aus Fahrpreiszuschlägen
 anzusetzen.
-
 
 ## § 5 Sonderregelung bei Einnahmeaufteilungsverträgen
 
@@ -209,7 +203,6 @@ ergibt.
 andere geeignete Schlüsselung vereinbaren. Die Vereinbarung bedarf der
 Zustimmung der obersten Landesverkehrsbehörde.
 
-
 ## § 6 Länderüberschreitender Verkehr
 
 (1) Erstreckt sich die Beförderung von Auszubildenden mit
@@ -221,7 +214,6 @@ zu legen, die in dem jeweiligen Land erbracht werden.
 sie entfallenden Anteile an der Ausgleichsleistung nach den im
 jeweiligen Land erbrachten Achs-Kilometern oder nach einer anderen
 geeigneten Schlüsselung aufteilen.
-
 
 ## § 7 Antrag
 
@@ -247,7 +239,6 @@ Bestehen Zweifel an der Richtigkeit der Angaben und
 Ausgleichsberechnungen, kann die oberste Landesverkehrsbehörde weitere
 Nachweise verlangen.
 
-
 ## § 8 Entscheidung
 
 Die Entscheidung ist schriftlich zu erlassen und dem Antragsteller
@@ -255,13 +246,11 @@ zuzustellen. Wird dem Antrag nicht in vollem Umfang entsprochen, ist
 die Entscheidung schriftlich zu begründen und mit einer
 Rechtsbehelfsbelehrung zu versehen.
 
-
 ## § 9 Änderung der Voraussetzungen
 
 Jede Änderung der Tatsachen, die der Berechnung des Ausgleichs
 zugrunde liegen, ist unverzüglich der obersten Landesverkehrsbehörde
 anzuzeigen.
-
 
 ## § 10 Vorauszahlungen
 
@@ -273,16 +262,13 @@ geleistet.
 
 (2) und (3) (weggefallen)
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage (zu § 2)
 
@@ -497,7 +483,6 @@ Kostenermittlungsbogen
 
 ---------------------------------------------------------
 Summe 1 - 9
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

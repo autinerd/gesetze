@@ -18,10 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 8.10.2012 I 2126
 
-
 ## Erster Abschnitt - Förderungsfähige Maßnahmen
-
-
 
 ### § 1 Ziel der Förderung
 
@@ -31,7 +28,6 @@ Aufstiegsfortbildung durch Beiträge zu den Kosten der Maßnahme und zum
 Lebensunterhalt finanziell zu unterstützen. Leistungen zum
 Lebensunterhalt werden gewährt, soweit die dafür erforderlichen Mittel
 anderweitig nicht zur Verfügung stehen.
-
 
 ### § 2 Anforderungen an Maßnahmen beruflicher Aufstiegsfortbildungen
 
@@ -146,7 +142,6 @@ Abschnitten (Maßnahmeabschnitte) bestehen.
 individuelle Verkürzungen der Maßnahme durch Anrechnung bereits
 absolvierter Aus- oder Fortbildungen bleiben außer Betracht.
 
-
 ### § 2a Anforderungen an Träger der Maßnahmen
 
 Der Träger muss für die Durchführung der Fortbildungsmaßnahme geeignet
@@ -165,7 +160,6 @@ wird, dass der Träger oder die Einrichtung
 
 auch im Übrigen keine Umstände vorliegen, die der Eignung des Trägers
 oder der Einrichtung entgegenstehen.
-
 
 ### § 3 Ausschluss der Förderung
 
@@ -204,7 +198,6 @@ zum Lebensunterhalt beschränkt, wenn die Kosten der Maßnahme nach dem
 Dritten Buch Sozialgesetzbuch für Personen ohne Vorbeschäftigungszeit
 übernommen werden.
 
-
 ### § 4 Fernunterricht
 
 Die Teilnahme an einem Fernunterrichtslehrgang ist förderfähig, wenn
@@ -217,7 +210,6 @@ Förderungshöchstdauer nach § 11 Absatz 1 sind nach der Anzahl der
 durchschnittlich für die Bearbeitung der Fernlehrbriefe benötigten
 Zeitstunden und der Anzahl der für Präsenzphasen vorgesehenen
 Unterrichtsstunden zu bemessen.
-
 
 ### § 4a Mediengestützter Unterricht
 
@@ -237,7 +229,6 @@ diesen Fällen nach der Anzahl der für den Präsenzunterricht und den
 für die mediengestützte Kommunikation vorgesehenen Unterrichtsstunden
 im Sinne des § 2 Absatz 3.
 
-
 ### § 5 Fortbildung im In- und Ausland
 
 (1) Förderfähig ist vorbehaltlich des Absatzes 2 die Teilnahme an
@@ -248,7 +239,6 @@ anderen Mitgliedstaaten der Europäischen Union durchgeführt werden,
 wird gefördert, wenn sie auf der Grundlage von Vereinbarungen der in
 den jeweiligen Mitgliedstaaten für die Fortbildungsprüfungen
 zuständigen Stellen durchgeführt wird.
-
 
 ### § 6 Förderfähige Fortbildung, Fortbildungsplan
 
@@ -301,7 +291,6 @@ des Einzelfalls dies rechtfertigen. Besondere Umstände des Einzelfalls
 sind insbesondere dann gegeben, wenn ein wichtiger Grund der Ausübung
 des Berufs entgegensteht, zu dem die erste Fortbildung qualifiziert
 hat.
-
 
 ### § 7 Kündigung, Abbruch, Unterbrechung und Wiederholung
 
@@ -356,10 +345,7 @@ entsprechend.
 des früheren Fortbildungsziels die Fortbildungsstätte, so gelten die
 Absätze 5 bis 7 entsprechend.
 
-
 ## Zweiter Abschnitt - Persönliche Voraussetzungen
-
-
 
 ### § 8 Staatsangehörigkeit
 
@@ -459,7 +445,6 @@ sich weiterhin rechtmäßig in Deutschland aufhalten.
 (5) Rechts- und Verwaltungsvorschriften, nach denen anderen Ausländern
 Förderung zu leisten ist, bleiben unberührt.
 
-
 ### § 9 Eignung
 
 Die Leistungen des Teilnehmers oder der Teilnehmerin müssen erwarten
@@ -478,10 +463,7 @@ weitere Teilnahmenachweise gefordert werden. Die Förderung wird
 insoweit unter dem Vorbehalt der Einstellung und Rückforderung
 geleistet.
 
-
 ## Dritter Abschnitt - Leistungen
-
-
 
 ### § 10 Umfang der Förderung
 
@@ -513,7 +495,6 @@ Kindern leben, erhalten bei Voll- und Teilzeitmaßnahmen bis zum Ablauf
 des Monats, in dem planmäßig der letzte Unterricht abgehalten wird,
 einen Kinderbetreuungszuschlag in Höhe von 113 Euro für jeden Monat je
 Kind.
-
 
 ### § 11 Förderungsdauer
 
@@ -564,7 +545,6 @@ neue Abschnitt als bereits zu Beginn dieses Monats aufgenommen.
 (4) Die Förderungsdauer umfasst bei Maßnahmen in Vollzeitform auch
 Ferienzeiten bis zu 77 Ferienwerktagen im Maßnahmejahr.
 
-
 ### § 12 Förderungsart
 
 (1) Der Maßnahmebeitrag nach § 10 Absatz 1 besteht aus einem Anspruch
@@ -610,7 +590,6 @@ Kreditanstalt für Wiederaufbau nach Maßgabe des § 13.
 (4) Der Teilnehmer oder die Teilnehmerin kann den Abschluss eines
 Darlehensvertrags innerhalb von drei Monaten verlangen. Die Frist
 beginnt mit dem auf die Bekanntgabe des Bescheids folgenden Monat.
-
 
 ### § 13 Darlehensbedingungen
 
@@ -700,7 +679,6 @@ auf Eröffnung des Insolvenzverfahrens mangels Masse werden die
 Darlehensrestschuld und Zinsschuld zur sofortigen Rückzahlung fällig.
 Die Absätze 3, 5 und 6 sowie § 13b finden keine Anwendung.
 
-
 ### § 13a Einkommensabhängige Rückzahlung
 
 Von der Verpflichtung zur Rückzahlung ist der Darlehensnehmer oder die
@@ -714,7 +692,6 @@ Freistellung ist in diesen Fällen auf die Differenz zwischen dem
 übersteigenden Betrag und der Mindestrate beschränkt. § 18a Absatz 2
 bis 5 des Bundesausbildungsförderungsgesetzes ist entsprechend
 anzuwenden.
-
 
 ### § 13b Erlass und Stundung
 
@@ -820,7 +797,6 @@ Sinne des § 32 Absatz 4 Nummer 3 des Einkommensteuergesetzes oder des
 auf Stundung und Erlass entscheidet in den Fällen der Absätze 1 bis 3
 die Kreditanstalt für Wiederaufbau.
 
-
 ### § 14 Kreditanstalt für Wiederaufbau
 
 (1) Bis zum Ende des vierten Jahres nach Beginn der
@@ -893,13 +869,11 @@ Rechtsverfolgung jeweils für zwölf Monate eine
 Verwaltungskostenpauschale in Höhe von 2,5 vom Hundert des
 Restdarlehens, höchstens jedoch 128 Euro.
 
-
 ### § 15 Aufrechnung
 
 Mit einem Anspruch auf Erstattung von Zuschüssen kann gegen den
 Anspruch auf entsprechende Leistungen in voller Höhe aufgerechnet
 werden.
-
 
 ### § 16 Rückzahlungspflicht
 
@@ -925,10 +899,7 @@ Kalendermonats zurückzuzahlen, in dem der Teilnehmer oder die
 Teilnehmerin die Maßnahme aus einem von ihm oder ihr zu vertretenden
 Grund unterbrochen hat.
 
-
 ## Vierter Abschnitt - Einkommens- und Vermögensanrechnung
-
-
 
 ### § 17 Einkommens- und Vermögensanrechnung
 
@@ -950,7 +921,6 @@ Bundesausbildungsförderungsgesetzes ist entsprechend anzuwenden.
 nicht dauerhaft getrennt lebende Ehegatte oder Lebenspartner, sofern
 dieses Gesetz nichts anderes bestimmt.
 
-
 ### § 17a Freibeträge vom Vermögen
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
@@ -969,10 +939,7 @@ dieses Gesetz nichts anderes bestimmt.
 (2) Zur Vermeidung unbilliger Härten kann ein weiterer Teil des
 Vermögens anrechnungsfrei bleiben.
 
-
 ## Fünfter Abschnitt - Organisation
-
-
 
 ### § 18 Übergegangene Darlehensforderungen
 
@@ -980,10 +947,7 @@ Die nach § 14 Absatz 1 auf den Bund übergegangenen
 Darlehensforderungen werden von der Kreditanstalt für Wiederaufbau
 verwaltet und eingezogen.
 
-
 ## Sechster Abschnitt - Verfahren
-
-
 
 ### § 19 Antrag
 
@@ -997,7 +961,6 @@ jeweiligen Maßnahmeabschnittes beantragt werden.
 erforderlichen Tatsachen Vordrucke vorgesehen sind, sind diese zu
 benutzen.
 
-
 ### § 19a Örtliche Zuständigkeit
 
 Für die Entscheidung über die Förderungsleistungen ist die von den
@@ -1007,7 +970,6 @@ oder ihren ständigen Wohnsitz hat. Hat der Teilnehmer oder die
 Teilnehmerin im Inland keinen ständigen Wohnsitz, so ist die Behörde
 zuständig, in deren Bezirk die Fortbildungsstätte liegt.
 
-
 ### § 20 Mitteilungspflicht
 
 Die Kreditanstalt für Wiederaufbau unterrichtet die zuständige Behörde
@@ -1015,7 +977,6 @@ Die Kreditanstalt für Wiederaufbau unterrichtet die zuständige Behörde
 zuständige Behörde unterrichtet in diesen Fällen die Kreditanstalt für
 Wiederaufbau über Änderungen des Bescheids, die zu einer Verringerung
 der Leistungen nach diesem Gesetz führen.
-
 
 ### § 21 Auskunftspflichten
 
@@ -1066,7 +1027,6 @@ besondere gesetzliche Verwendungsregelungen entgegenstehen.
 bezeichneten Institutionen und Personen eine angemessene Frist zur
 Erteilung von Auskünften und Vorlage von Urkunden setzen.
 
-
 ### § 22 Ersatzpflicht des Ehegatten oder Lebenspartners
 
 Hat der Ehegatte oder Lebenspartner des Teilnehmers oder der
@@ -1078,7 +1038,6 @@ geleisteten Förderungsbetrag zu ersetzen. Der Betrag ist vom Zeitpunkt
 der zu Unrecht erfolgten Leistung an mit 3 vom Hundert über dem
 Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs für das Jahr zu
 verzinsen.
-
 
 ### § 23 Bescheid
 
@@ -1172,7 +1131,6 @@ zuständige Behörde ist an die Entscheidung nicht mehr gebunden, wenn
 mit der Maßnahme nicht binnen eines Jahres nach Antragstellung
 begonnen wird.
 
-
 ### § 24 Zahlweise
 
 (1) Die Zuschussanteile am Unterhaltsbeitrag nach § 12 Absatz 2 und
@@ -1195,7 +1153,6 @@ abgerundet und bei Restbeträgen ab 0,50 Euro auf volle Euro
 aufgerundet.
 
 (3) Monatliche Zuschussbeträge unter 16 Euro werden nicht geleistet.
-
 
 ### § 25 Änderung des Bescheides
 
@@ -1227,13 +1184,11 @@ Lebenspartners oder in den Fällen des § 25 Absatz 6 des
 Bundesausbildungsförderungsgesetzes eine Änderung des Freibetrags
 eingetreten ist.
 
-
 ### § 26 Rechtsweg
 
 Für öffentlich-rechtliche Streitigkeiten nach diesem Gesetz ist der
 Verwaltungsrechtsweg, für Streitigkeiten aus dem Darlehensvertrag der
 ordentliche Rechtsweg gegeben.
-
 
 ### § 27 Statistik
 
@@ -1291,7 +1246,6 @@ folgende Erhebungsmerkmale:
 Auskunftspflichtig sind die zuständigen Behörden und die Kreditanstalt
 für Wiederaufbau.
 
-
 ### § 27a Anwendung des Sozialgesetzbuches
 
 Soweit dieses Gesetz keine abweichenden Regelungen enthält, finden die
@@ -1301,10 +1255,7 @@ das Konto des Teilnehmers bei einem Kreditinstitut überwiesen, gilt
 bei fehlender Deckung des Kontos § 850k Absatz 6 der
 Zivilprozessordnung entsprechend.
 
-
 ## Siebter Abschnitt - Aufbringung der Mittel
-
-
 
 ### § 28 Aufbringung der Mittel
 
@@ -1317,10 +1268,7 @@ ihr nach § 18 für den Bund eingezogenen Darlehensbetrages an das Land
 ab, in dem der Darlehensnehmer oder die Darlehensnehmerin seinen oder
 ihren Wohnsitz hat.
 
-
 ## Achter Abschnitt - Bußgeld-, Übergangs- und Schlussvorschriften
-
-
 
 ### § 29 Bußgeldvorschriften
 
@@ -1344,7 +1292,6 @@ ihren Wohnsitz hat.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
-
 
 ### § 30 Übergangsvorschriften
 

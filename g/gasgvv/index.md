@@ -19,11 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 30.4.2012 I 1002
 
-
-
 ## Teil 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
 
@@ -45,7 +41,6 @@ Rahmen der Ersatzversorgung der Letztverbraucher.
 Gasversorgungsunternehmen, das nach § 36 Abs. 1 des
 Energiewirtschaftsgesetzes in einem Netzgebiet die Grundversorgung mit
 Gas durchführt.
-
 
 ### § 2 Vertragsschluss
 
@@ -132,7 +127,6 @@ Internetseite zu veröffentlichen.
 abhängig gemacht werden, dass Zahlungsrückstände eines vorherigen
 Anschlussnutzers beglichen werden.
 
-
 ### § 3 Ersatzversorgung
 
 (1) Für die Ersatzversorgung nach § 38 des Energiewirtschaftsgesetzes
@@ -150,10 +144,7 @@ spätestens nach dem Ende der Ersatzversorgung zur Fortsetzung des
 Gasbezugs der Abschluss eines Bezugsvertrages durch den Kunden
 erforderlich ist; auf § 2 Abs. 2 ist hinzuweisen.
 
-
 ## Teil 2 - Versorgung
-
-
 
 ### § 4 Bedarfsdeckung
 
@@ -162,7 +153,6 @@ verpflichtet, seinen gesamten leitungsgebundenen Gasbedarf aus den
 Gaslieferungen des Grundversorgers zu decken. Ausgenommen ist die
 Bedarfsdeckung durch Eigenanlagen zur Nutzung regenerativer
 Energiequellen.
-
 
 ### § 5 Art der Versorgung
 
@@ -192,7 +182,6 @@ Bedingungen werden gegenüber demjenigen Kunden nicht wirksam, der bei
 einer Kündigung des Vertrages mit dem Grundversorger die Einleitung
 eines Wechsels des Versorgers durch entsprechenden Vertragsschluss
 innerhalb eines Monats nach Zugang der Kündigung nachweist.
-
 
 ### § 6 Umfang der Grundversorgung
 
@@ -241,7 +230,6 @@ Netzbetreiber zusammenhängenden Tatsachen insoweit Auskunft zu geben,
 als sie ihm bekannt sind oder von ihm in zumutbarer Weise aufgeklärt
 werden können.
 
-
 ### § 7 Erweiterung und Änderung von Anlagen und Verbrauchsgeräten; Mitteilungspflichten
 
 Erweiterungen und Änderungen von Kundenanlagen sowie die Verwendung
@@ -250,10 +238,7 @@ sich dadurch preisliche Bemessungsgrößen ändern. Nähere Einzelheiten
 über den Inhalt der Mitteilung kann der Grundversorger in ergänzenden
 Bedingungen regeln.
 
-
 ## Teil 3 - Aufgaben und Rechte des Grundversorgers
-
-
 
 ### § 8 Messeinrichtungen
 
@@ -270,7 +255,6 @@ mit der Antragstellung zu benachrichtigen. Die Kosten der Prüfung nach
 Satz 1 fallen dem Grundversorger zur Last, falls die Abweichung die
 gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst dem Kunden.
 
-
 ### § 9 Zutrittsrecht
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis
@@ -284,7 +268,6 @@ an              oder im jeweiligen Haus erfolgen. Sie muss mindestens
 eine Woche vor dem Betretungstermin erfolgen; mindestens ein
 Ersatztermin ist anzubieten. Der Kunde hat dafür Sorge zu tragen, dass
 die Messeinrichtungen zugänglich sind.
-
 
 ### § 10 Vertragsstrafe
 
@@ -310,10 +293,7 @@ Mitteilungspflicht nicht festzustellen, so kann die Vertragsstrafe in
 entsprechender Anwendung der Absätze 1 und 2 über einen geschätzten
 Zeitraum, der längstens sechs Monate betragen darf, erhoben werden.
 
-
 ## Teil 4 - Abrechnung der Energielieferung
-
-
 
 ### § 11 Ablesung
 
@@ -349,7 +329,6 @@ Kunden unter angemessener Berücksichtigung der tatsächlichen
 Verhältnisse schätzen. Dasselbe gilt, wenn der Kunde eine vereinbarte
 Selbstablesung nicht oder verspätet vornimmt.
 
-
 ### § 12 Abrechnung
 
 (1) Der Gasverbrauch wird nach Maßgabe des § 40 Absatz 3 des
@@ -367,7 +346,6 @@ erlösabhängiger Abgabensätze.
 2 Satz 1 eine pauschale zeitanteilige Berechnung des Verbrauchs
 zulässig, es sei denn, der Kunde kann einen geringeren als den von dem
 Grundversorger angesetzten Verbrauch nachweisen.
-
 
 ### § 13 Abschlagszahlungen
 
@@ -390,7 +368,6 @@ verlangt wurden, so ist der übersteigende Betrag unverzüglich zu
 erstatten, spätestens aber mit der nächsten Abschlagsforderung zu
 verrechnen. Nach Beendigung des Versorgungsverhältnisses sind zu viel
 gezahlte Abschläge unverzüglich zu erstatten.
-
 
 ### § 14 Vorauszahlungen
 
@@ -416,7 +393,6 @@ Vorauszahlung ist bei der nächsten Rechnungserteilung zu verrechnen.
 beim Kunden einen Bargeld- oder Chipkartenzähler oder sonstige
 vergleichbare Vorkassensysteme einrichten.
 
-
 ### § 15 Sicherheitsleistung
 
 (1) Ist der Kunde zur Vorauszahlung nach § 14 nicht bereit oder nicht
@@ -436,7 +412,6 @@ Lasten des Kunden.
 (4) Die Sicherheit ist unverzüglich zurückzugeben, wenn keine
 Vorauszahlung mehr verlangt werden kann.
 
-
 ### § 16 Rechnungen und Abschläge
 
 (1) Vordrucke für Rechnungen und Abschläge müssen einfach verständlich
@@ -445,7 +420,6 @@ vollständig und in allgemein verständlicher Form auszuweisen.
 
 (2) Der Grundversorger hat in den ergänzenden Bedingungen mindestens
 zwei mögliche Zahlungsweisen anzugeben.
-
 
 ### § 17 Zahlung, Verzug
 
@@ -490,7 +464,6 @@ Auf Verlangen des Kunden ist die Berechnungsgrundlage nachzuweisen.
 unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen
 aufgerechnet werden.
 
-
 ### § 18 Berechnungsfehler
 
 (1) Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der
@@ -514,10 +487,7 @@ vorhergehenden Ablesezeitraum beschränkt, es sei denn, die Auswirkung
 des Fehlers kann über einen größeren Zeitraum festgestellt werden; in
 diesem Fall ist der Anspruch auf längstens drei Jahre beschränkt.
 
-
 ## Teil 5 - Beendigung des Grundversorgungsverhältnisses
-
-
 
 ### § 19 Unterbrechung der Versorgung
 
@@ -555,7 +525,6 @@ nicht übersteigen. Auf Verlangen des Kunden ist die
 Berechnungsgrundlage nachzuweisen. Der Nachweis geringerer Kosten ist
 dem Kunden zu gestatten.
 
-
 ### § 20 Kündigung
 
 (1) Der Grundversorgungsvertrag kann mit einer Frist von zwei Wochen
@@ -570,7 +539,6 @@ Kündigung des Kunden unverzüglich nach Eingang in Textform bestätigen.
 einer Kündigung des Vertrages, insbesondere wegen eines Wechsels des
 Lieferanten, verlangen.
 
-
 ### § 21 Fristlose Kündigung
 
 Der Grundversorger ist in den Fällen des § 19 Abs. 1 berechtigt, das
@@ -580,16 +548,12 @@ wiederholten Zuwiderhandlungen nach § 19 Abs. 2 ist der Grundversorger
 zur fristlosen Kündigung berechtigt, wenn sie zwei Wochen vorher
 angedroht wurde; § 19 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
-
 ## Teil 6 - Schlussbestimmungen
-
-
 
 ### § 22 Gerichtsstand
 
 Gerichtsstand für die beiderseitigen Verpflichtungen aus dem
 Grundversorgungsvertrag ist der Ort der Gasabnahme durch den Kunden.
-
 
 ### § 23 Übergangsregelung
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 22 Abs. 5 G v. 12.12.2007 I 2861
 
-
 ## Eingangsformel
 
 Auf Grund des § 352 Abs. 2 Nr. 1 des Dritten Buches Sozialgesetzbuch -
@@ -30,7 +29,6 @@ für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium
 der Finanzen, dem Bundesministerium der Verteidigung und dem
 Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
-
 ## § 1 Grundsatz
 
 Der Bund entrichtet für die versicherungspflichtigen
@@ -38,7 +36,6 @@ Wehrdienstleistenden und für die versicherungspflichtigen
 Zivildienstleistenden (§ 25 Abs. 2 Satz 2 und 3, § 26 Abs. 1 Nr. 2 des
 Dritten Buches Sozialgesetzbuch) je einen Gesamtbeitrag für das
 Kalenderjahr, in dem der Dienst geleistet worden ist (Beitragsjahr).
-
 
 ## § 2 Berechnungsgrundlage
 
@@ -69,11 +66,9 @@ BE    BS
 -- x --- DT = Euro.
 30   100
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4 Zahlung und Fälligkeit
 
@@ -85,7 +80,6 @@ Abschläge auf den Gesamtbeitrag zu leisten.
 
 (2) Abweichend von Absatz 1 Satz 1 ist der Gesamtbeitrag für das
 Beitragsjahr 2002 bis zum 31. März 2004 zu zahlen.
-
 
 ## § 5 Inkrafttreten
 

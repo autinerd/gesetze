@@ -21,15 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 29.7.2008 I 1509
 
-
 ## 1. - Beiträge an Bausparkassen zur Erlangung von Baudarlehen
-
-
 
 ### § 1
 
 (weggefallen)
-
 
 ### § 1a Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -81,7 +77,6 @@ unberührt.
 Aufzeichnungen mitzuteilen und die für die Festsetzung der Prämie
 erforderlichen Unterlagen auszuhändigen.
 
-
 ### § 1b Übertragung von Bausparverträgen auf eine andere Bausparkasse
 
 Werden Bausparverträge auf eine andere Bausparkasse übertragen und
@@ -91,7 +86,6 @@ Pflichten aus dem Vertrag einzutreten, so gilt die Übertragung nicht
 als Rückzahlung. Das Bausparguthaben muß von der übertragenden
 Bausparkasse unmittelbar an die übernehmende Bausparkasse überwiesen
 werden.
-
 
 ### § 2 Wegfall des Prämienanspruchs und Rückzahlung der Prämien
 
@@ -124,10 +118,7 @@ Abtretenden auszuzahlen oder die Rückforderung bereits ausgezahlter
 Prämien auszusetzen, wenn der Abtretende eine Erklärung des
 Abtretungsempfängers über die Verwendungsabsicht beibringt.
 
-
 ## 2. - Bau- und Wohnungsgenossenschaften
-
-
 
 ### § 3
 
@@ -136,10 +127,7 @@ Gesetzes sind Genossenschaften, deren Zweck auf den Bau und die
 Finanzierung sowie die Verwaltung oder Veräußerung von Wohnungen oder
 auf die wohnungswirtschaftliche Betreuung gerichtet ist.
 
-
 ## 3. - Wohnbau-Sparverträge
-
-
 
 ### § 4 Allgemeine Sparverträge
 
@@ -169,7 +157,6 @@ kann zwischen dem Prämienberechtigten und dem Unternehmen vereinbart
 werden. Die Vereinbarung über die Verlängerung ist vor Ablauf der
 Festlegungsfrist zu treffen.
 
-
 ### § 5 Rückzahlungsfrist bei allgemeinen Sparverträgen
 
 Die Sparbeiträge dürfen erst nach Ablauf der vereinbarten
@@ -177,7 +164,6 @@ Festlegungsfrist (§ 4) zurückgezahlt werden. Die Festlegungsfrist
 beginnt am 1. Januar, wenn der Vertrag vor dem 1. Juli, und am 1.
 Juli, wenn der Vertrag nach dem 30. Juni des betreffenden
 Kalenderjahrs abgeschlossen worden ist.
-
 
 ### § 6 Sparverträge mit festgelegten Sparraten
 
@@ -208,17 +194,12 @@ Einzahlung zu treffen.
     bis zur Höhe des nach dem Fünften Vermögensbildungsgesetz geförderten
     Betrags.
 
-
-
-
-
 ### § 7 Rückzahlungsfrist bei Sparverträgen mit festgelegten Sparraten
 
 Die auf Grund eines Sparvertrags mit festgelegten Sparraten
 eingezahlten Sparbeiträge dürfen ein Jahr nach dem Tag der letzten
 Einzahlung, jedoch nicht vor Ablauf eines Jahres nach dem letzten
 regelmäßigen Fälligkeitstag, zurückgezahlt werden.
-
 
 ### § 8 Unterbrechung von Sparverträgen mit festgelegten Sparraten
 
@@ -247,7 +228,6 @@ der ununterbrochen in gleichbleibender Höhe geleistet worden ist.
 Dieser Betrag ist auch maßgebend für die zusätzlichen Einzahlungen,
 die nach § 6 Abs. 3 Nr. 1 erbracht werden können.
 
-
 ### § 9 Vorzeitige Rückzahlung
 
 Soweit vor Ablauf der in den §§ 5 und 7 bezeichneten Fristen, außer in
@@ -257,7 +237,6 @@ ausgezahlte Prämien sind an das Finanzamt zurückzuzahlen. Das gilt
 nicht, wenn der Prämienberechtigte oder die im Vertrag bezeichnete
 andere Person stirbt oder nach Vertragsabschluß völlig erwerbsunfähig
 wird.
-
 
 ### § 10 Verwendung der Sparbeiträge
 
@@ -283,10 +262,6 @@ verwendet werden
     eigentumsähnlichen Dauerwohnrechts durch den Prämienberechtigten, die
     in dem Vertrag bezeichnete andere Person oder die in § 15 der
     Abgabenordnung bezeichneten Angehörigen dieser Personen.
-
-
-
-
 
 ### § 11 Anzeigepflicht
 
@@ -314,7 +289,6 @@ mitzuteilen, in denen
 Die Anzeige kann auch von der Niederlassung eines Unternehmens an das
 Finanzamt gerichtet werden, in dessen Bezirk sich die Niederlassung
 befindet.
-
 
 ### § 12 Übertragung und Umwandlung von Sparverträgen
 
@@ -348,10 +322,7 @@ Vertrags mit dem Wohnungs- oder Siedlungsunternehmen oder mit dem am
 31\. Dezember 1989 anerkannten Organ der staatlichen Wohnungspolitik
 behandelt werden.
 
-
 ## 4. - Verträge mit Wohnungs- und Siedlungsunternehmen und Organen der staatlichen Wohnungspolitik (Baufinanzierungsverträge)
-
-
 
 ### § 13 Inhalt der Verträge
 
@@ -390,10 +361,6 @@ dritter Personen abgeschlossen werden.
     bis zur Höhe des nach dem Fünften Vermögensbildungsgesetz geförderten
     Betrags.
 
-
-
-
-
 ### § 14 Wohnungs- und Siedlungsunternehmen
 
 Wohnungs- und Siedlungsunternehmen im Sinne des § 13 sind
@@ -429,13 +396,6 @@ Wohnungs- und Siedlungsunternehmen im Sinne des § 13 sind
         seine Gesellschafter an anderen Unternehmen gleicher Art beteiligt
         sind, muß sich die Überprüfung zugleich auf diese erstrecken.
 
-
-
-
-
-
-
-
 ### § 15 Unterbrechung und Rückzahlung der Einzahlungen
 
 (1) Sparraten, die nicht rechtzeitig geleistet worden sind, können
@@ -469,7 +429,6 @@ ausgezahlte Prämien sind an das Finanzamt zurückzuzahlen. Das gilt
 nicht, wenn der Prämienberechtigte oder die im Vertrag bezeichnete
 andere Person stirbt oder nach Vertragsabschluß völlig erwerbsunfähig
 wird.
-
 
 ### § 16 Verwendung der angesammelten Beträge
 
@@ -507,7 +466,6 @@ Prämien verwendet werden
 angesammelte Betrag und die Prämien nur zur Leistung des bar zu
 zahlenden Teils des Kaufpreises verwendet werden.
 
-
 ### § 17 Anzeigepflicht
 
 Das Wohnungs- oder Siedlungsunternehmen oder das am 31. Dezember 1989
@@ -537,7 +495,6 @@ Siedlungsunternehmens oder eines am 31. Dezember 1989 anerkannten
 Organs der staatlichen Wohnungspolitik an das Finanzamt gerichtet
 werden, in dessen Bezirk sich die Niederlassung befindet.
 
-
 ### § 18 Übertragung und Umwandlung von Verträgen mit Wohnungs- und Siedlungsunternehmen und Organen der staatlichen Wohnungspolitik
 
 (1) Prämien werden auch ausgezahlt und bereits ausgezahlte Prämien
@@ -561,10 +518,7 @@ staatlichen Wohnungspolitik (§ 13) während ihrer Laufzeit unter
 
 (2) § 12 Abs. 2 ist entsprechend anzuwenden.
 
-
 ## 5. - Änderung der Voraussetzungen für den Prämienanspruch in besonderen Fällen
-
-
 
 ### § 19 Änderung des zu versteuernden Einkommens
 
@@ -597,13 +551,7 @@ Leistungen darstellen,
     damit der Prämienanspruch, so ist die Prämie neu zu ermitteln oder
     festzusetzen; ausgezahlte Prämien sind zurückzufordern.
 
-
-
-
-
 ## 6. - Anwendungszeitraum
-
-
 
 ### § 20 Anwendungsvorschrift
 

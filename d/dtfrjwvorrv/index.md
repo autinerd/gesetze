@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1979, 1213
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,7 +27,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 S. 187) neu gefaßt wurde, verordnet die Bundesregierung mit Zustimmung
 des Bundesrates:
 
-
 ## § 1
 
 Für die Gewährung von Vorrechten und Immunitäten an das Deutsch-
@@ -39,7 +36,6 @@ Bundesrepublik Deutschland und der Regierung der Französischen
 Republik über die Errichtung des Deutsch-Französischen Jugendwerks
 (BGBl. 1973 II S. 1458).
 
-
 ## § 2
 
 Unbeschadet der in dem Abkommen vom 22. Juni 1973 vorgesehenen
@@ -48,13 +44,11 @@ Französischen Jugendwerks sowie die mit ihnen in gemeinsamen Haushalt
 lebenden Familienmitglieder, die nicht Deutsche sind, von dem
 Erfordernis der Aufenthaltserlaubnis befreit.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 auch im Land
 Berlin.
-
 
 ## § 4
 

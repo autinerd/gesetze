@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 46 G v. 22.9.2005 I 2809
 
-
 ## § 1
 
 (1) Die Prüfbehörde Währungsumstellung wird in das Bundesamt für
@@ -30,7 +29,6 @@ diesem Gesetz eine Außenstelle in Berlin.
 (2) Die Zuständigkeit für Rücknahme- und Rückforderungsverfahren geht
 auf das Bundesamt für Finanzen über. Dies gilt auch für Verfahren, die
 im Zeitpunkt des Inkrafttretens dieses Gesetzes anhängig sind.
-
 
 ## § 2
 
@@ -77,7 +75,6 @@ Geldinstitute sind verpflichtet, die Umstellungsanträge sowie die
 Buchungsbelege aus dem Jahre 1990 bis zu diesem Zeitpunkt im Original
 aufzubewahren.
 
-
 ## § 3
 
 Die zurückzufordernden Beträge sind ab dem Zeitpunkt der
@@ -86,24 +83,20 @@ Ausgleichsforderungen im Sinne der Anlage I Artikel 8 § 4 Abs. 1 des
 Staatsvertrages vom 18. Mai 1990 (BGBl. 1990 II S. 518, 550) zu
 verzinsen.
 
-
 ## § 4
 
 Die zurückzufordernden Beträge einschließlich der Zinsen sind an den
 Ausgleichsfonds Währungsumstellung zu zahlen.
-
 
 ## § 5
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen nach § 2 haben keine
 aufschiebende Wirkung.
 
-
 ## § 6
 
 Für alle Streitigkeiten nach diesem Gesetz ist das Verwaltungsgericht
 Berlin örtlich zuständig.
-
 
 ## § 7
 

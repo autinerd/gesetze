@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 51
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -26,17 +24,14 @@ Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
 Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung,
 Wissenschaft, Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bankkaufmann/Bankkauffrau wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -117,10 +112,6 @@ Fertigkeiten und Kenntnisse:
 
 6.2 Steuerung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -138,12 +129,10 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -151,7 +140,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -176,10 +164,6 @@ durchzuführen:
 
 
 3.  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 8 Abschlußprüfung
 
@@ -281,7 +265,6 @@ Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in
 einem Prüfungsfach mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -289,11 +272,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau - Sachliche Gliederung -
 
@@ -975,10 +956,6 @@ Diese Verordnung tritt am 1. August 1998 in Kraft.
 *    *   b)
 
     *   statistische Daten aufbereiten und auswerten
-
-
-
-
 
 ## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bankkaufmann/zur Bankkauffrau - Zeitliche Gliederung -
 

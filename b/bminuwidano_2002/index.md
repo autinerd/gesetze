@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3515
 
-
-
 ## I.
 
 Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
@@ -34,7 +32,6 @@ Trennungsgeld bei Versetzungen und Abordnungen im Inland
 (Trennungsgeldverordnung - TGV) und der Verordnung über das
 Auslandstrennungsgeld (Auslandstrennungsgeldverordnung - ATGV) in der
 jeweils geltenden Fassung.
-
 
 ## II.
 
@@ -56,7 +53,6 @@ Auslandstrennungsgeld (Auslandstrennungsgeldverordnung - ATGV) in der
 jeweils geltenden Fassung zu entscheiden, soweit es zum Erlass des
 Verwaltungsaktes oder zur Ablehnung des Anspruchs zuständig war.
 
-
 ## III.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -66,14 +62,12 @@ Finanzen die Vertretung des Bundesministeriums für Umwelt, Naturschutz
 und Reaktorsicherheit bei Klagen, soweit es nach dieser Anordnung zur
 Entscheidung über Widersprüche zuständig ist.
 
-
 ## IV.
 
 Diese Anordnung tritt mit Wirkung vom 1. September 2002 in Kraft. Sie
 findet keine Anwendung auf Widersprüche, die vor dem Inkrafttreten
 eingelegt, oder auf Klagen, die vor dem Inkrafttreten erhoben worden
 sind.
-
 
 ## Schlussformel
 

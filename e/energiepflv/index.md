@@ -23,7 +23,6 @@ Geändert durch
 Die v tritt gem. § 2 satz 2 dieser v am 20.10.2007 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 2 satz 2 aufgeh. durch
 :   Art. 1 Nr. 2 V v. 9.10.2007 I 2338; dadurch ist die Geltung der V über den 20.10.2007 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 2 in Verbindung mit Abs. 4 des Gesetzes
@@ -36,7 +35,6 @@ verordnet das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit den Bundesministerien der
 Finanzen und für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbeginn
 
 Kapitel 8 Abschnitt 7 der Verordnung (EG) Nr. 1973/2004 der Kommission
@@ -47,7 +45,6 @@ Stilllegungsflächen für die Erzeugung von Rohstoffen (ABl. EU Nr. L
 345 S. 1) in der durch die Verordnung (EG) Nr. 270/2007 der Kommission
 vom 13. März 2007 (ABl. EU Nr. L 75 S. 8) geänderten Fassung ist vom
 1\. Januar 2008 an anzuwenden.
-
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 

@@ -15,23 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 157
 
-
-
 ## I.
 
 Es wird ein Bundesministerium für Gesundheit errichtet.
-
 
 ## II.
 
 Es wird ein Bundesministerium für Familie und Senioren errichtet.
 
-
 ## III.
 
 Das Bundesministerium für Jugend, Familie, Frauen und Gesundheit führt
 künftig die Bezeichnung Bundesministerium für Frauen und Jugend.
-
 
 ## IV.
 
@@ -45,10 +40,6 @@ folgt übertragen:
 
 -   auf das Bundesministerium des Innern alle übrigen personellen und
     materiellen Mittel.
-
-
-
-
 
 ## V.
 

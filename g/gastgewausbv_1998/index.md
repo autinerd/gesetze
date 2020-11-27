@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 351
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -26,10 +24,7 @@ Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -49,15 +44,10 @@ Folgende Ausbildungsberufe werden staatlich anerkannt:
 
 5.  Fachmann für Systemgastronomie/Fachfrau für Systemgastronomie.
 
-
-
-
-
 ### § 2 Ausbildungsdauer
 
 Die Berufsausbildung dauert im Ausbildungsberuf des § 1 Nr. 1 zwei
 Jahre und in den Ausbildungsberufen des § 1 Nr. 2 bis 5 drei Jahre.
-
 
 ### § 3 Fortsetzung der Berufsausbildung
 
@@ -65,10 +55,7 @@ Die Berufsausbildung im Ausbildungsberuf des § 1 Nr. 1 kann in den
 Ausbildungsberufen des § 1 Nr. 2 bis 5 jeweils nach den Vorschriften
 für das dritte Ausbildungsjahr fortgesetzt werden.
 
-
 ## Zweiter Teil - Ausbildungsberufsbilder, Ausbildungsrahmenplan
-
-
 
 ### § 4 Ausbildungsberufsbild für die Fachkraft im Gastgewerbe und gemeinsamer Teil der Ausbildungsberufsbilder für den Restaurantfachmann/die Restaurantfachfrau, den Hotelfachmann/die Hotelfachfrau, den Hotelkaufmann/die Hotelkauffrau und den Fachmann für Systemgastronomie/die Fachfrau für Systemgastronomie
 
@@ -113,10 +100,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Wirtschaftsdienst.
 
-
-
-
-
 ### § 5 Besonderer Teil des Ausbildungsberufsbildes für den Restaurantfachmann/die Restaurantfachfrau
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
@@ -133,10 +116,6 @@ Fertigkeiten und Kenntnisse:
 
 4.  Führen einer Station.
 
-
-
-
-
 ### § 6 Besonderer Teil des Ausbildungsberufsbildes für den Hotelfachmann/die Hotelfachfrau
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
@@ -152,10 +131,6 @@ Fertigkeiten und Kenntnisse:
 
 
 4.  Wirtschaftsdienst.
-
-
-
-
 
 ### § 7 Besonderer Teil des Ausbildungsberufsbildes für den Hotelkaufmann/die Hotelkauffrau
 
@@ -176,10 +151,6 @@ Fertigkeiten und Kenntnisse:
 
 5.  Umgang mit Gästen, Beratung und Verkauf.
 
-
-
-
-
 ### § 8 Besonderer Teil des Ausbildungsberufsbildes für den Fachmann für Systemgastronomie/die Fachfrau für Systemgastronomie
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden
@@ -199,10 +170,6 @@ Fertigkeiten und Kenntnisse:
 
 5.  Steuerung und Kontrolle der betrieblichen Leistungserstellung.
 
-
-
-
-
 ### § 9 Ausbildungsrahmenplan
 
 (1) Die in den §§ 4 bis 8 genannten Fertigkeiten und Kenntnisse sollen
@@ -221,16 +188,12 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 12 bis 17 nachzuweisen.
 
-
 ## Dritter Teil - Ausbildungsplan und Berichtsheft
-
-
 
 ### § 10 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 11 Berichtsheft
 
@@ -239,10 +202,7 @@ Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
 
-
 ## Vierter Teil - Prüfungen
-
-
 
 ### § 12 Zwischenprüfung
 
@@ -269,10 +229,6 @@ insbesondere folgende Gebiete in Betracht:
 
 
 3.  Präsentieren von Produkten.
-
-
-
-
 
 ### § 13 Abschlußprüfung für den Ausbildungsberuf Fachkraft im Gastgewerbe
 
@@ -409,7 +365,6 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 schriftlichen Prüfung mindestens ausreichende Leistungen erbracht
 sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit
 "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
-
 
 ### § 14 Abschlußprüfung für den Ausbildungsberuf Restaurantfachmann/Restaurantfachfrau
 
@@ -548,7 +503,6 @@ schriftlichen Prüfung mindestens ausreichende Leistungen erbracht
 sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit
 "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
 ### § 15 Abschlußprüfung für den Ausbildungsberuf Hotelfachmann/Hotelfachfrau
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I, II und
@@ -685,7 +639,6 @@ schriftlichen Prüfung mindestens ausreichende Leistungen erbracht
 sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit
 "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
 ### § 16 Abschlußprüfung für den Ausbildungsberuf Hotelkaufmann/Hotelkauffrau
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I, II und
@@ -796,7 +749,6 @@ Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 Prüfung und der praktischen Übung mindestens ausreichende Leistungen
 erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich
 mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
-
 
 ### § 17 Abschlußprüfung für den Ausbildungsberuf Fachmann für Systemgastronomie/Fachfrau für Systemgastronomie
 
@@ -910,10 +862,7 @@ Prüfung und der praktischen Übung mindestens ausreichende Leistungen
 erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich
 mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## Fünfter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 18 Aufhebung von Vorschriften
 
@@ -922,7 +871,6 @@ Prüfungsanforderungen für den Ausbildungsberuf Kaufmannsgehilfe im
 Hotel- und Gaststättengewerbe/Kaufmannsgehilfin im Hotel- und
 Gaststättengewerbe sind nicht mehr anzuwenden.
 
-
 ### § 19 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -930,11 +878,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ### § 20 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ### Anlage (zu § 9) Ausbildungsrahmenplan für die Berufsausbildung im Gastgewerbe
 

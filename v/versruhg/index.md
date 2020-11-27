@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 20.4.2007 I 554
 
-
 ## § 1
 
 (1) Die Ansprüche auf Leistungen aus Sonder- oder
@@ -47,7 +46,6 @@ und der freiwilligen Zusatzrentenversicherung des Beitrittsgebiets aus
 Versicherungszeiten zwischen dem 7. Oktober 1949 und dem 30. Juni 1990
 beziehen.
 
-
 ## § 2
 
 (1) Über das Ruhen entscheidet das Bundesversicherungsamt auf
@@ -65,7 +63,6 @@ Im sozialgerichtlichen Verfahren gilt § 86b des Sozialgerichtsgesetzes
 entsprechend.
 
 (4) Im gerichtlichen Verfahren ist die Kommission beizuladen.
-
 
 ## § 3
 
@@ -100,7 +97,6 @@ Schranken unabhängig und an Weisungen nicht gebunden.
 festzusetzendes Sitzungsgeld. Verdienstausfall und Auslagen werden
 ersetzt.
 
-
 ## § 4
 
 (1) Die Staatsanwaltschaft teilt der Kommission mit, wenn sich der
@@ -123,7 +119,6 @@ entsprechend.
 gelten die für die übermittelnde oder Einsicht gewährende Stelle
 jeweils maßgebenden Regelungen.
 
-
 ## § 5
 
 (1) Für das Verfahren der Kommission gelten die §§ 8 bis 25 des
@@ -134,7 +129,6 @@ sie nach außen vertritt. Sie gibt sich eine Geschäftsordnung.
 
 (3) Für die Kommission wird eine Geschäftsstelle beim
 Bundesversicherungsamt eingerichtet.
-
 
 ## § 6
 

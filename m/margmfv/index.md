@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 17.12.2010 I 2132
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -38,25 +37,21 @@ Fassung der Bekanntmachung vom 22. Februar 1985 (BGBl. I S. 410) im
 Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft und
 Forsten, für Jugend, Familie, Frauen und Gesundheit und der Finanzen:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 über die Normen für Streichfette mit Ausnahme der Milchstreichfette.
 
-
 ## § 2
 
 (weggefallen)
-
 
 ## § 3
 
 Margarineschmalz oder Mischfettschmalz, das den in der Anlage
 vorgeschriebenen Anforderungen nicht entspricht, darf nicht in den
 Verkehr gebracht werden.
-
 
 ## § 4 Kennzeichnungsvorschriften
 
@@ -78,7 +73,6 @@ Kennzeichnungsverordnung an Verbraucher abgegeben werden, sind die
 Angaben nach den Absätzen 2 und 3 auf einem Schild bei der Ware
 deutlich sichtbar und in leicht lesbarer Schrift in deutscher Sprache
 zu machen.
-
 
 ## § 5
 
@@ -117,7 +111,6 @@ Der Hinweis ist in Verbindung mit der Verkehrsbezeichnung anzugeben,
 sofern nicht durch eine Angabe im Zutatenverzeichnis eine Irreführung
 des Verbrauchers ausgeschlossen werden kann. Zusätzlich darf auch die
 Verkehrsbezeichnung des Herstellungslandes verwendet werden.
-
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
 
@@ -163,19 +156,13 @@ er
     dort genanntes Erzeugnis betrifft und einen anderen Fettgehalt nennt,
     bedingt oder vermuten lässt.
 
-
-
-
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 3)
 

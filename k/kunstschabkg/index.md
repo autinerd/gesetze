@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1965, 1243
 
-
-
 ## Art 1
 
 Dem in Rom am 26. Oktober 1961 von der Bundesrepublik Deutschland
@@ -25,7 +23,6 @@ unterzeichneten Internationalen Abkommen über den Schutz der
 ausübenden Künstler, der Hersteller von Tonträgern und der
 Sendeunternehmen wird mit den sich aus Artikel 2 ergebenden
 Vorbehalten zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -46,10 +43,6 @@ Gebrauch:
     gewährt, die erstmals von einem deutschen Staatsangehörigen festgelegt
     worden sind.
 
-
-
-
-
 ## Art 3
 
 Der in Artikel 13 Buchstabe d des Abkommens vorgesehene Schutz gegen
@@ -58,7 +51,6 @@ Fernsehsendungen eines Sendeunternehmens mit Sitz im Gebiet eines
 Staates, der von dem Vorbehalt des Artikels 16 Abs. 1 Buchstabe b des
 Abkommens Gebrauch gemacht hat, nicht gewährt.
 
-
 ## Art 4
 
 Die Bestimmungen des Abkommens sind auf Darbietungen oder
@@ -66,12 +58,10 @@ Funksendungen, die stattgefunden haben, bevor das Abkommen für die
 Bundesrepublik Deutschland in Kraft getreten ist, und Tonträger, die
 vor diesem Zeitpunkt festgelegt sind, nicht anzuwenden.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2315
 
-
 ## Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
@@ -24,14 +23,12 @@ S. 1341) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Gegenstand
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen.
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
 Prüfung in den Teilen I und II der Meisterprüfung im
 Schneidwerkzeugmechaniker-Handwerk.
-
 
 ## § 2 Meisterprüfungsberufsbild
 
@@ -110,10 +107,6 @@ beruflichen Handlungskompetenz zu berücksichtigen:
 14. Leistungen abnehmen und dokumentieren, Prüfprotokolle erstellen sowie
     Nachkalkulation durchführen.
 
-
-
-
-
 ## § 3 Ziel und Gliederung des Teils I
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche
@@ -127,10 +120,6 @@ Schneidwerkzeugmechaniker-Handwerks meisterhaft verrichten kann.
 
 
 2.  eine Situationsaufgabe.
-
-
-
-
 
 ## § 4 Meisterprüfungsprojekt
 
@@ -161,7 +150,6 @@ Dokumentationen mit Prüfprotokollen zu erstellen.
 Schneidwerkzeuge mit 40 Prozent und die Dokumentationsunterlagen mit
 20 Prozent gewichtet.
 
-
 ## § 5 Fachgespräch
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in
@@ -177,10 +165,6 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
 3.  mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme
     sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu
     berücksichtigen.
-
-
-
-
 
 ## § 6 Situationsaufgabe
 
@@ -199,7 +183,6 @@ Ergebnisse zu dokumentieren.
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem
 arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
-
 ## § 7 Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert fünf Arbeitstage. Das
@@ -217,7 +200,6 @@ Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei
 die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch
 in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden
 sein darf.
-
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
 
@@ -387,13 +369,6 @@ handlungsfeldübergreifend verknüpft werden können.
         Konsequenzen, insbesondere für die betriebsinterne Organisation sowie
         das betriebliche Personalwesen, aufzeigen und bewerten.
 
-
-
-
-
-
-
-
 ## § 9 Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in
@@ -420,10 +395,6 @@ Prüfung des Teils II ist nicht bestanden, wenn
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
 
-
-
-
-
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17.
@@ -433,7 +404,6 @@ bleiben unberührt.
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt
 sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober
 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
-
 
 ## § 11 Übergangsvorschrift
 
@@ -448,7 +418,6 @@ geltenden Vorschriften nicht bestanden haben und sich bis zum 31.
 Dezember 2013 zu einer Wiederholungsprüfung anmelden, können auf
 Verlangen die Wiederholungsprüfung nach den bis zum 31. Dezember 2011
 geltenden Vorschriften ablegen.
-
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 10.12.2012 I 2630
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Abs. 1 Nr. 2 bis 7 des Geschmacksmustergesetzes vom
@@ -26,10 +25,7 @@ Auf Grund des § 26 Abs. 1 Nr. 2 bis 7 des Geschmacksmustergesetzes vom
 Verordnung vom 1. April 2004 (BGBl. I S. 514) verordnet das Deutsche
 Patent- und Markenamt:
 
-
 ## Abschnitt 1 - Allgemeines
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -38,17 +34,13 @@ Deutschen Patent- und Markenamt (Geschmacksmusterangelegenheiten)
 gelten ergänzend zu den Bestimmungen des Geschmacksmustergesetzes und
 der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 
-
 ### § 2 DIN-Normen
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im
 Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
 ## Abschnitt 2 - Eintragungsverfahren
-
-
 
 ### § 3 Inhalt der Anmeldung
 
@@ -93,10 +85,6 @@ Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
     ausländischen Anmeldung desselben Geschmacksmusters oder einer
     Ausstellungspriorität (§ 10).
 
-
-
-
-
 ### § 4 Antrag auf Eintragung
 
 (1) Die Anmeldung zur Eintragung eines Geschmacksmusters muss unter
@@ -137,7 +125,6 @@ herausgegebene Formblatt verwendet werden.
 Wiedergabe aufzuschieben (§ 21 Abs. 1 Satz 1 des
 Geschmacksmustergesetzes), so bezieht sich dieser Antrag auf alle in
 der Sammelanmeldung zusammengefassten Muster.
-
 
 ### § 5 Angaben zum Anmelder, Vertreter und Entwerfer
 
@@ -190,7 +177,6 @@ entsprechend.
 (6) Absatz 1 Nr. 1 und 3 sowie die Absätze 2 bis 4 gelten für die
 Benennung des Entwerfers entsprechend.
 
-
 ### § 6 Wiedergabe des Musters
 
 (1) Die Wiedergabe besteht aus bis zu zehn fotografischen oder
@@ -241,7 +227,6 @@ umfassen.
 
 (7) (weggefallen)
 
-
 ### § 7 Flächenmäßige Musterabschnitte
 
 (1) Flächenmäßige Musterabschnitte (§ 11 Abs. 2 Satz 2 des
@@ -261,7 +246,6 @@ wiederholenden Flächenmuster besteht, muss der Musterabschnitt das
 vollständige Muster und einen der Länge und Breite nach ausreichenden
 Teil der Fläche mit dem sich wiederholenden Muster zeigen. Es gelten
 die in Absatz 1 Satz 2 festgelegten Größenbeschränkungen.
-
 
 ### § 8 Angabe der Erzeugnisse, Klassifizierung, Warenliste
 
@@ -286,7 +270,6 @@ Geschmacksmusters, so wird die Klassifizierung der Erzeugnisse auf
 Antrag des Rechtsinhabers oder bei der Eintragung der
 Aufrechterhaltung des Schutzes von Amts wegen angepasst.
 
-
 ### § 9 Beschreibung zur Erläuterung der Wiedergabe
 
 (1) Wird zur Erläuterung der Wiedergabe eine Beschreibung eingereicht
@@ -305,7 +288,6 @@ Musternummern geordnet in einem Dokument zusammengefasst werden.
 Wiedergabe (§ 6 Abs. 2) kann die Beschreibung im Format „\*.txt“ auf
 dem Datenträger gespeichert werden. Bei Sammelanmeldungen sind die
 Beschreibungen entsprechend Absatz 2 Satz 3 zusammenzufassen.
-
 
 ### § 10 Angaben bei Inanspruchnahme einer Priorität
 
@@ -338,7 +320,6 @@ innerhalb von 16 Monaten nach dem Prioritätstag oder dem Tag der
 erstmaligen Zurschaustellung abzugeben (§ 14 Abs. 1 Satz 1, § 15 Abs.
 3 Satz 1 des Geschmacksmustergesetzes), bleibt unberührt.
 
-
 ### § 11 Teilung einer Sammelanmeldung
 
 (1) Eine Sammelanmeldung kann nach § 12 Abs. 2 des
@@ -364,7 +345,6 @@ geteilt.
 Geschmacksmustergesetzes zu entrichtende Differenzbetrag gezahlt
 wurde.
 
-
 ### § 12 Weiterbehandlung
 
 Ein Antrag nach § 17 Abs. 1 des Geschmacksmustergesetzes muss folgende
@@ -377,10 +357,6 @@ Angaben enthalten:
 
 
 3.  das Datum des Beschlusses, auf den sich der Antrag bezieht.
-
-
-
-
 
 ### § 13 Eintragung der Anmeldung
 
@@ -496,21 +472,15 @@ die übrigen Angaben eingetragen.
 (5) Auf die Eintragung von typografischen Schriftzeichen finden Absatz
 1 Nummer 7 und 8 und Absatz 2 Nummer 8 keine Anwendung.
 
-
 ### § 14 Bekanntmachung
 
 Das Deutsche Patent- und Markenamt veröffentlicht regelmäßig
 erscheinende Übersichten über die in das Geschmacksmusterregister nach
 § 13 eingetragenen Tatsachen.
 
-
 ### § 15 (weggefallen)
 
-
-
 ## Abschnitt 3 - Sonstige Verfahren
-
-
 
 ### § 16 Teilung einer Sammeleintragung
 
@@ -523,7 +493,6 @@ enthaltenen Geschmacksmuster, so sind diese Geschmacksmuster in dem
 Antrag anzugeben. Die Geschmacksmuster, die von dem Rechtsübergang
 erfasst sind, werden abgetrennt und in einer Teilungsakte
 weitergeführt.
-
 
 ### § 17 Angaben bei Erstreckung und Aufrechterhaltung
 
@@ -574,7 +543,6 @@ Geschmacksmustergesetzes, sind in dem Antrag anzugeben:
 (4) Bei der Zahlung der Aufrechterhaltungsgebühr sind die Absätze 1
 und 2 entsprechend anzuwenden.
 
-
 ### § 17a Schutzverweigerung bei internationalen Eintragungen
 
 Der Inhaber einer internationalen Eintragung nach § 66 des
@@ -582,7 +550,6 @@ Geschmacksmustergesetzes kann zu der Mitteilung über die
 Schutzverweigerung (§ 69 Absatz 2 des Geschmacksmustergesetzes)
 innerhalb einer Frist von vier Monaten ab dem Tag, an dem das
 Internationale Büro die Mitteilung absendet, Stellung nehmen.
-
 
 ### § 17b Umschreibung internationaler Eintragungen
 
@@ -594,10 +561,7 @@ internationalen Eintragung, sofern der neue Eigentümer die
 Rechtsnachfolge nachweist. § 28 Absatz 3 der DPMA-Verordnung gilt
 entsprechend.
 
-
 ## Abschnitt 4 - Verzicht, Löschung
-
-
 
 ### § 18 Verzicht
 
@@ -633,16 +597,12 @@ dieser Person oder ihrem Vertreter unterschriebenen
 Zustimmungserklärung aus. Eine Beglaubigung der Erklärung oder der
 Unterschrift ist nicht erforderlich.
 
-
 ### § 19 Löschung der Eintragung
 
 Die Eintragung wird durch einen Vermerk im Geschmacksmusterregister
 gelöscht (§ 36 Abs. 1 des Geschmacksmustergesetzes).
 
-
 ## Abschnitt 5 - Weitere Registereintragungen, Übersetzungen
-
-
 
 ### § 20 Weitere Eintragungen in das Geschmacksmusterregister
 
@@ -675,10 +635,6 @@ Geschmacksmusterregister eingetragen:
 
 6.  der Tag und der Grund der Löschung der Eintragung des
     Geschmacksmusters (§ 36 Abs. 1 des Geschmacksmustergesetzes).
-
-
-
-
 
 ### § 21 Deutsche Übersetzungen
 
@@ -728,10 +684,7 @@ bestellten Übersetzer angefertigt sein. Wird die Übersetzung nicht
 fristgerecht eingereicht, so gilt das fremdsprachige Schriftstück als
 zum Zeitpunkt des Eingangs der Übersetzung zugegangen.
 
-
 ## Abschnitt 6 - Schlussvorschriften
-
-
 
 ### § 22 Aufbewahrung der Wiedergabe des Musters
 
@@ -739,11 +692,9 @@ Das Deutsche Patent- und Markenamt bewahrt die Wiedergabe des Musters
 (§ 6) auch nach der Löschung der Eintragung im
 Geschmacksmusterregister dauernd auf.
 
-
 ### § 23 Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
 ...
-
 
 ### § 24 Übergangsregelung für künftige Änderungen
 
@@ -751,7 +702,6 @@ Für Geschmacksmusteranmeldungen, die vor Inkrafttreten von Änderungen
 dieser Verordnung eingereicht worden sind und noch nicht eingetragen
 sind, gelten die Vorschriften dieser Verordnung in ihrer bis dahin
 geltenden Fassung.
-
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 

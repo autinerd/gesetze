@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2445
 
-
-
 ## Art 1
 
 Dem in Washington am 29. Januar 1998 von der Bundesrepublik
@@ -32,14 +30,12 @@ Raumstation und dem Briefwechsel der Verhandlungsleiter vom 26. Januar
 1998 zur Auslegung des Übereinkommens wird zugestimmt. Das
 Übereinkommen und der Briefwechsel werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Eine Tätigkeit, die in oder an einem von der Europäischen
 Weltraumorganisation registrierten Element durchgeführt wird, gilt für
 das Gebiet des gewerblichen Rechtsschutzes und des Urheberrechts als
 im Geltungsbereich dieses Gesetzes durchgeführt.
-
 
 ## Art 3
 
@@ -55,10 +51,6 @@ begangen werden, wenn
 
 3.  sich die Tat gegen ein von der Europäischen Weltraumorganisation
     registriertes Flugelement richtet.
-
-
-
-
 
 ## Art 4
 

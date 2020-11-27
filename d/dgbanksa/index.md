@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2114
 
-
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### § 1
 
@@ -38,10 +34,6 @@ Fundstelle
     selbständigen und eigenverantwortlich tätigen genossenschaftlichen
     Kreditinstituten neben einem marktgeforderten Leistungsangebot die
     erforderliche Präsenz zu gewährleisten.
-
-
-
-
 
 ### § 2
 
@@ -82,13 +74,7 @@ Fundstelle
     von drei Viertel des stimmberechtigten vertretenen Kapitals gegeben
     werden.
 
-
-
-
-
 ## II. - Grundkapital und Aktien
-
-
 
 ### § 3
 
@@ -108,10 +94,6 @@ Fundstelle
     auch auszuschließen. Der Vorstand wird ermächtigt, mit Zustimmung des
     Aufsichtsrates die sonstigen Bedingungen der Kapitalerhöhung
     festzulegen.
-
-
-
-
 
 ### § 4
 
@@ -134,13 +116,7 @@ Fundstelle
     hinsichtlich der Ausübung der Rechte aus den Namensaktien und der
     Anschrift der Aktionäre ausschließlich maßgebend.
 
-
-
-
-
 ## III. - Organe der Aktiengesellschaft
-
-
 
 ### § 5
 
@@ -154,13 +130,7 @@ b)  der Aufsichtsrat,
 
 c)  die Hauptversammlung.
 
-
-
-
-
 ## IV. - Der Vorstand
-
-
 
 ### § 6
 
@@ -176,10 +146,6 @@ c)  die Hauptversammlung.
     Vorstandes; er kann einen oder mehrere Stellvertreter ernennen. Er
     kann stellvertretende Vorstandsmitglieder bestellen.
 
-
-
-
-
 ### § 7
 
 
@@ -188,10 +154,6 @@ c)  die Hauptversammlung.
 
 
 2.  Die Prokuristen werden vom Vorstand bestellt.
-
-
-
-
 
 ### § 8
 
@@ -203,13 +165,7 @@ c)  die Hauptversammlung.
 2.  Der Vorstand gibt sich mit Zustimmung des Aufsichtsrates eine
     Geschäftsordnung.
 
-
-
-
-
 ## V. - Aufsichtsrat
-
-
 
 ### § 9
 
@@ -276,10 +232,6 @@ c)  die Hauptversammlung.
     durch einen mit einfacher Mehrheit zu fassenden
     Hauptversammlungsbeschluß abberufen werden.
 
-
-
-
-
 ### § 10
 
 
@@ -288,10 +240,6 @@ c)  die Hauptversammlung.
 
 2.  Für den Aufsichtsrat gelten im übrigen die Befugnisse nach dem
     Mitbestimmungsgesetz.
-
-
-
-
 
 ### § 11
 
@@ -310,10 +258,6 @@ c)  die Hauptversammlung.
 
 3.  Willenserklärungen des Aufsichtsrates und seiner Ausschüsse sind im
     Namen des Aufsichtsrates von dessen Vorsitzendem abzugeben.
-
-
-
-
 
 ### § 12
 
@@ -336,10 +280,6 @@ c)  die Hauptversammlung.
     sämtliche Unterlagen übersandt werden, die für eine sachgemäße
     Vorbereitung im Hinblick auf die anstehenden Beschlüsse des
     Aufsichtsrates erforderlich sind.
-
-
-
-
 
 ### § 13
 
@@ -396,15 +336,10 @@ c)  die Hauptversammlung.
     Niederschriften anzufertigen, die vom Vorsitzenden - auch bei
     Abstimmungen außerhalb der Sitzungen - zu unterzeichnen sind.
 
-
-
-
-
 ### § 14
 
 Der Aufsichtsrat gibt sich im Rahmen von Gesetz und Satzung eine
 Geschäftsordnung.
-
 
 ### § 15
 
@@ -420,10 +355,6 @@ Geschäftsordnung.
     Abstimmung über denselben Gegenstand, wenn auch sie Stimmengleichheit
     ergibt, der Vorsitzende des Ausschusses zwei Stimmen.
 
-
-
-
-
 ### § 16
 
 Die Mitglieder des Aufsichtsrates haben über die ihnen bei ihrer
@@ -435,7 +366,6 @@ Beendigung ihres Amtes. Dem Gebot der Schweigepflicht unterliegen
 insbesondere die Stimmabgabe, der Verlauf der Debatte, die
 Stellungnahmen der einzelnen Aufsichtsratsmitglieder sowie sonstige
 persönliche Äußerungen.
-
 
 ### § 17
 
@@ -467,25 +397,17 @@ vorgeschriebenen Fällen:
 6.  sonstige in den Geschäftsordnungen für den Vorstand und Aufsichtsrat
     genannten Geschäfte.
 
-
-
-
-
 ### § 18
 
 Die Mitglieder des Aufsichtsrates erhalten eine Vergütung, die die
 Hauptversammlung festsetzt, sowie Ersatz aller sonstigen Auslagen.
-
 
 ### § 19
 
 Der Aufsichtsrat ist befugt, Änderungen der Satzung, die nur deren
 Fassung betreffen, zu beschließen.
 
-
 ## VI. - Hauptversammlung
-
-
 
 ### § 20
 
@@ -510,10 +432,6 @@ Fassung betreffen, zu beschließen.
     Hauptversammlung), findet innerhalb der ersten sechs Monate eines
     jeden Geschäftsjahres statt.
 
-
-
-
-
 ### § 21
 
 
@@ -527,10 +445,6 @@ Fassung betreffen, zu beschließen.
     zur Vertretung der eigenen und/oder fremden Aktien auf Organmitglieder
     oder einen Mitarbeiter der juristischen Person lauten.
 
-
-
-
-
 ### § 22
 
 
@@ -538,10 +452,6 @@ Fassung betreffen, zu beschließen.
 
 
 2.  Das Stimmrecht beginnt mit der vollständigen Leistung der Einlage.
-
-
-
-
 
 ### § 23
 
@@ -558,10 +468,6 @@ Fassung betreffen, zu beschließen.
 2.  Der Vorsitzende leitet die Verhandlung und bestimmt die Reihenfolge,
     in der die Gegenstände der Tagesordnung erledigt werden, sowie die Art
     und Form der Abstimmung.
-
-
-
-
 
 ### § 24
 
@@ -587,16 +493,11 @@ Fassung betreffen, zu beschließen.
     denen die beiden höchsten Stimmenzahlen zugefallen sind. Bei der
     engeren Wahl entscheidet die höchste Stimmenzahl.
 
-
-
-
-
 ### § 25
 
 Die Verhandlungen in der Hauptversammlung sind durch eine notariell
 aufgenommene Niederschrift zu beurkunden. Die Niederschrift ist von
 dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
-
 
 ### § 26
 
@@ -631,10 +532,6 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
     Einberufung an in den Geschäftsräumen der Aktiengesellschaft zur
     Einsicht der Aktionäre auszulegen.
 
-
-
-
-
 ### § 27
 
 
@@ -655,10 +552,6 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
     einzustellenden Teils des Jahresüberschusses sind vorweg Zuweisungen
     zur gesetzlichen Rücklage und Verlustvorträge abzuziehen.
 
-
-
-
-
 ### § 28
 
 
@@ -669,13 +562,7 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
 2.  Junge Aktien aus Kapitalerhöhungen können mit Vorzügen bei der
     Gewinnverwendung versehen werden.
 
-
-
-
-
 ## VII. - Beiräte
-
-
 
 ### § 29
 
@@ -694,22 +581,13 @@ dem Notar und dem Vorsitzenden der Hauptversammlung zu unterschreiben.
     Hauptverwaltung durch den Vorstand erfolgt im Benehmen mit dem
     jeweiligen Beirat.
 
-
-
-
-
 ## VIII. - Geschäftsjahr
-
-
 
 ### § 30
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
-
 ## IX. - Sonstiges
-
-
 
 ### § 31
 

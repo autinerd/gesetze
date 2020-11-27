@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   § 1 V v. 10.12.1970 BAnz 1970, Nr. 234
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 2 des Tarifvertragsgesetzes vom 9. April 1949
@@ -26,7 +25,6 @@ Auf Grund des § 9 Abs. 2 des Tarifvertragsgesetzes vom 9. April 1949
 in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird nach
 Anhörung der Obersten Arbeitsbehörden der Länder und des
 Tarifausschusses verordnet:
-
 
 ## § 1
 
@@ -46,14 +44,9 @@ Aufhebung werden ausgenommen:
     der Tarifordnung für die Mitglieder von Kurkapellen vom 1. August 1939
     (Reichsarbeitsblatt S. VI 1343).
 
-
-
-
-
 ## § 2
 
 Diese Verordnung tritt am 1. Januar 1971 in Kraft.
-
 
 ## Schlußformel
 

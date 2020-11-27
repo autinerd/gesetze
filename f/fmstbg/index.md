@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 24.2.2012 I 206
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz findet Anwendung auf Unternehmen des Finanzsektors im
@@ -31,7 +30,6 @@ die zum Zweck der Einhaltung von Eigenmittelanforderungen nach § 10
 Absatz 1b Satz 2 des Kreditwesengesetzes Kapitalmaßnahmen durchführen.
 Die §§ 7 bis 7d finden auch dann Anwendung, wenn die Einberufung der
 Hauptversammlung vor Inkrafttreten dieses Gesetzes erfolgt ist.
-
 
 ## § 2 Verpflichtungserklärung
 
@@ -53,10 +51,7 @@ werden. § 254 Abs. 2 des Aktiengesetzes gilt entsprechend.
 (3) Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors
 in einer anderen Rechtsform als der Aktiengesellschaft entsprechend.
 
-
 ## (XXXX) §§ 3 und 4 (weggefallen)
-
-
 
 ## § 5 Ausgestaltung der Aktien
 
@@ -86,7 +81,6 @@ Dritten. Der Fonds kann bestimmen, dass die an ihn ausgegebenen
 Vorzugsaktien bei der Übertragung an einen Dritten in stimmberechtigte
 Stammaktien umgewandelt werden.
 
-
 ## § 6 Bericht an die Hauptversammlung
 
 Der Vorstand hat der nächsten ordentlichen Hauptversammlung einen
@@ -94,7 +88,6 @@ schriftlichen Bericht über die Kapitalerhöhung und Ausgabe neuer
 Aktien vorzulegen, in dem insbesondere der Umfang der Kapitalerhöhung
 sowie der Ausgabebetrag sowie ein Gewinnvorzug und Liquidationsvorrang
 der Aktien rechtlich und wirtschaftlich erläutert werden.
-
 
 ## § 7 Kapitalerhöhung gegen Einlagen und Kapitalherabsetzung
 
@@ -182,7 +175,6 @@ dass seine Stimmrechtsausübung für das Beschlussergebnis deshalb nicht
 ursächlich war, weil auch andere Aktionäre ihr Stimmrecht in gleicher
 Weise ausgeübt haben.
 
-
 ## § 7a Bedingtes Kapital
 
 (1) Eine bedingte Kapitalerhöhung im Zusammenhang mit einer
@@ -206,7 +198,6 @@ und 2 Satz 2 entsprechend anzuwenden.
 (3) Für bedingtes Kapital nach Absatz 1 gilt § 218 des Aktiengesetzes
 entsprechend.
 
-
 ## § 7b Schaffung eines genehmigten Kapitals durch die Hauptversammlung
 
 (1) Der Beschluss der Hauptversammlung, mit dem der Vorstand
@@ -226,7 +217,6 @@ entsprechend.
 
 (3) Für die Ausgabe der neuen Aktien gilt § 5 entsprechend.
 
-
 ## § 7c Eintragung von Hauptversammlungsbeschlüssen
 
 Ein Beschluss der Hauptversammlung nach den §§ 7, 7a und 7b ist
@@ -241,7 +231,6 @@ eintragungspflichtigen Beschlüssen nach den §§ 7f und 15 entgegen. §
 die Beschlussfassungen von Vorstand und Aufsichtsrat auf Grund einer
 Ermächtigung nach § 7b.
 
-
 ## § 7d Ausschluss der aktienrechtlichen Vorschriften über verbundene Unternehmen
 
 Die Vorschriften des Aktiengesetzes über herrschende Unternehmen sind
@@ -251,7 +240,6 @@ oder sonstige von ihnen mittelbar oder unmittelbar abhängigen
 Unternehmen nicht anzuwenden. Dies gilt nicht für die Anwendung von
 Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat
 eines vom Fonds beherrschten Unternehmens.
-
 
 ## § 7e Kapitalmaßnahmen durch Dritte im Zusammenhang mit einer Stabilisierungsmaßnahme
 
@@ -265,7 +253,6 @@ Kapitalmaßnahme auch oder ausschließlich durch Dritte gezeichnet
 werden. Dies gilt insbesondere, wenn durch die Kapitalmaßnahmen die
 Voraussetzung für eine Maßnahme nach § 6 des
 Finanzmarktstabilisierungsfondsgesetzes geschaffen werden soll.
-
 
 ## § 7f Zusammenhang mit Stabilisierungsmaßnahmen
 
@@ -310,7 +297,6 @@ Unternehmen zufließenden Mittel überwiegend für eine Rückzahlung von
 dem Unternehmen durch den Fonds zur Verfügung gestelltem Kapital zu
 verwenden.
 
-
 ## § 8 Genussrechte
 
 (1) Der Vorstand eines als Aktiengesellschaft verfassten Unternehmens
@@ -322,7 +308,6 @@ mit Zustimmung des Aufsichtsrates Gebrauch machen.
 Hauptversammlung.
 
 (3) Das Bezugsrecht der Aktionäre ist ausgeschlossen.
-
 
 ## § 9 Sinngemäße Anwendung
 
@@ -343,25 +328,21 @@ Genussrechte im Sinne des § 53c Abs. 3a des
 Versicherungsaufsichtsgesetzes, so gilt für das Beschlussverfahren § 7
 Abs. 1 entsprechend.
 
-
 ## § 10 Keine Informationspflicht gegenüber dem Wirtschaftsausschuss
 
 § 106 Abs. 2 Satz 2 und Abs. 3 Nr. 9a sowie § 109a des
 Betriebsverfassungsgesetzes finden keine Anwendung auf den Erwerb von
 Anteilen durch den Fonds.
 
-
 ## § 11 Keine Mitteilungspflicht für wesentliche Beteiligung
 
 § 27a des Wertpapierhandelsgesetzes findet keine Anwendung auf den
 Erwerb von Anteilen durch den Fonds.
 
-
 ## § 11a Keine Anzeigepflicht für bedeutende Beteiligung
 
 § 2c des Kreditwesengesetzes findet keine Anwendung auf den Erwerb von
 bedeutenden Beteiligungen durch den Fonds.
-
 
 ## § 12 Wertpapiererwerbs- und Übernahmeangebote; Ausschluss von Minderheitsaktionären
 
@@ -444,10 +425,7 @@ Klage begründet, hat der Fonds den Aktionären ihre Aktien Zug um Zug
 gegen Erstattung einer bereits gezahlten Abfindung zurückzuübertragen.
 Im Übrigen sind die §§ 327a bis 327f des Aktiengesetzes anzuwenden.
 
-
 ## § 13 (weggefallen)
-
-
 
 ## § 14 Keine Börsenzulassung
 
@@ -457,7 +435,6 @@ Anwendung. Nach einer Übertragung der Aktien an einen Dritten sind die
 vorstehenden Vorschriften anzuwenden. Die Frist des § 69 Abs. 2 der
 Börsenzulassungs-Verordnung beginnt mit der Übertragung an den Dritten
 zu laufen.
-
 
 ## § 15 Stille Gesellschaft
 
@@ -492,7 +469,6 @@ einvernehmliche Aufhebung einer stillen Gesellschaft nach Absatz 1
 gilt nicht als Rückgewähr von Einlagen im Sinne des § 57 des
 Aktiengesetzes.
 
-
 ## § 16 Erwerb von Risikopositionen
 
 (1) Übertragungen von Risikopositionen und Sicherheiten auf den Fonds
@@ -523,12 +499,10 @@ Treuhänders.
 Zweckgesellschaften im Sinne des § 1 Absatz 26 des
 Kreditwesengesetzes.
 
-
 ## § 17 Wettbewerbsrecht
 
 Die Vorschriften des Ersten bis Dritten Teils des Gesetzes gegen
 Wettbewerbsbeschränkungen finden keine Anwendung auf den Fonds.
-
 
 ## § 18 Anfechtung, Gesellschafterdarlehen und wirtschaftlich vergleichbare Forderungen, verdeckte Sacheinlage
 
@@ -555,7 +529,6 @@ gegen Hingabe von Einlagen aus von dem Fonds eingegangenen stillen
 Gesellschaften oder von sonstigen Verbindlichkeiten des Unternehmens
 gegenüber dem Fonds.
 
-
 ## § 19 Keine Kündigung bei Übernahme einer Beteiligung
 
 Die Übernahme, Umstrukturierung, Veränderung oder Veräußerung einer
@@ -571,7 +544,6 @@ Vertragsbeendigung aus Anlass der Übernahme einer Beteiligung des
 Fonds, aus Anlass einer Veränderung der Höhe dieser Beteiligung oder
 aus Anlass der Wahrnehmung von Rechten aus dieser Beteiligung gewähren
 würde.
-
 
 ## § 20 Veränderung und Beendigung von Rekapitalisierungsmaßnahmen
 

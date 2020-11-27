@@ -18,7 +18,6 @@ Fundstelle
 
 Stand: G in Kraft gem. Bek. v. 4.2.1999 II 87 mWv 15.2.1999
 
-
 ## Artikel 1 - Zustimmung zum Vertrag
 
 Dem in Paris am 17. Dezember 1997 von der Bundesrepublik Deutschland
@@ -27,10 +26,7 @@ ausländischer Amtsträger im internationalen Geschäftsverkehr wird
 zugestimmt. Das Übereinkommen wird nachstehend mit einer amtlichen
 deutschen Übersetzung veröffentlicht.
 
-
 ## Art 2 - Durchführungsbestimmungen
-
-
 
 ## § 1 Gleichstellung von ausländischen mit inländischen Amtsträgern bei Bestechungshandlungen
 
@@ -79,13 +75,6 @@ verschaffen oder zu sichern, stehen gleich:
     b)  ein Soldat, der beauftragt ist, Aufgaben einer internationalen
         Organisation wahrzunehmen.
 
-
-
-
-
-
-
-
 ## § 2 Bestechung ausländischer Abgeordneter im Zusammenhang mit internationalem geschäftlichen Verkehr
 
 (1) Wer in der Absicht, sich oder einem Dritten einen Auftrag oder
@@ -101,7 +90,6 @@ Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 ## § 3 Auslandstaten
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
@@ -115,16 +103,11 @@ folgende Taten, die von einem Deutschen im Ausland begangen werden:
 2.  Bestechung ausländischer Abgeordneter im Zusammenhang mit
     internationalem geschäftlichen Verkehr (§ 2).
 
-
-
-
-
 ## § 4 Anwendung des § 261 des Strafgesetzbuches
 
 In den Fällen des § 261 Abs. 1 Satz 2 Nr. 2 Buchstabe a des
 Strafgesetzbuches ist § 334 des Strafgesetzbuches auch in Verbindung
 mit § 1 anzuwenden.
-
 
 ## Art 3 - Inkrafttreten
 

@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 1400
 
-
-
 ## Eingangsformel
 
 Auf Grund der §§ 18e Satz 3 und 18a des Wohnungsbindungsgesetzes in
 der Fassung der Bekanntmachung vom 22. Juli 1982 (BGBl. I S. 972)
 verordnet der Bundesminister für Raumordnung, Bauwesen und Städtebau
 mit Zustimmung des Bundesrates:
-
 
 ## § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ Kaufeigentumswohnungen oder von Wohnungen in der Rechtsform eines
 eigentumsähnlichen Dauerwohnrechts aus dem Treuhandvermögen des Bundes
 nach dem Gesetz zur Förderung des Bergarbeiterwohnungsbaues im
 Kohlenbergbau bewilligt worden sind.
-
 
 ## § 2 Verzinsung
 
@@ -50,7 +46,6 @@ Hundert jährlich zu verzinsen.
 (3) Die Verzinsung beginnt mit dem ersten Zahlungsabschnitt, der auf
 den 31. Dezember 1982 folgt, soweit sich aus § 18b Abs. 4 des
 Wohnungsbindungsgesetzes nichts anderes ergibt.
-
 
 ## § 3 Begrenzung der Verzinsung
 
@@ -77,19 +72,16 @@ Absatz 1 erlassen, können die Einwendungen nur innerhalb einer
 Ausschlußfrist von 4 Monaten nach dem Verkündungstage der
 Rechtsvorschrift geltend gemacht werden.
 
-
 ## § 4 Sonderregelung für gemischte Förderung
 
 Die darlehnsverwaltende Stelle hat bei der Begrenzung der Verzinsung
 den § 18c Abs. 1 des Wohnungsbindungsgesetzes anzuwenden; an die
 Stelle der Durchschnittsmiete tritt die Kappungsgrenze.
 
-
 ## § 5 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 33a des Wohnungsbindungsgesetzes auch im Land Berlin.
-
 
 ## § 6 Inkrafttreten
 

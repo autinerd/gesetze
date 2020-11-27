@@ -94,13 +94,7 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
     Nr. L 91 S. 78), zuletzt geändert durch Richtlinie 97/46/EG der
     Kommission (ABl. EG Nr. L 204 S. 43).
 
-
-
-
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -176,7 +170,6 @@ geänderten oder angepassten und im Amtsblatt der Europäischen Union
 veröffentlichten Fassung mit Beginn des in der Änderungs- oder
 Anpassungsrichtlinie festgelegten Anwendungstages anzuwenden.
 
-
 ### § 1a Anzeigepflichten
 
 (1) Wer im Rahmen seines beruflichen oder gewerblichen Umgangs mit
@@ -222,7 +215,6 @@ des Auftretens eines Schadorganismus nach Absatz 1 erhalten.
 
 (3) (weggefallen)
 
-
 ### § 1b Anzeigepflichten in besonderen Fällen
 
 Wer Kartoffeln mit Ursprung in Polen zu beruflichen oder gewerblichen
@@ -235,7 +227,6 @@ der Kartoffeln anzuzeigen und eine Untersuchung durch die zuständige
 Behörde zu ermöglichen. Die zuständige Behörde kann eine Untersuchung
 der Kartoffeln durchführen.
 
-
 ### § 1c Durchführung von Untersuchungen
 
 Soweit es zur Feststellung von Schadorganismen erforderlich ist,
@@ -243,16 +234,12 @@ können bei den Untersuchungen, die durch diese Verordnung
 vorgeschrieben oder nach dieser Verordnung zulässig sind, auch
 Befallsgegenstände zerstört werden.
 
-
 ## Zweiter Abschnitt - Einfuhr aus einem Drittland und Durchfuhr, Ausfuhr
-
-
 
 ### § 2 Einfuhrverbot für Schadorganismen
 
 Die in Anhang I Teil A der Richtlinie 2000/29/EG aufgeführten
 Schadorganismen dürfen aus einem Drittland nicht eingeführt werden.
-
 
 ### § 3 Einfuhrverbot für befallene Pflanzen, Pflanzenerzeugnisse und sonstige Gegenstände
 
@@ -282,7 +269,6 @@ Richtlinie 2000/29/EG eine Ausnahme bestimmt hat. Das Julius Kühn-
 Institut, Bundesforschungsinstitut für Kulturpflanzen, macht
 Rechtsakte nach Satz 1 im Bundesanzeiger bekannt.
 
-
 ### § 4 Einfuhrverbot für Pflanzen, Pflanzenerzeugnisse und sonstige Gegenstände
 
 Die in Anhang III Teil A der Richtlinie 2000/29/EG aufgeführten
@@ -292,7 +278,6 @@ einem Drittland nicht eingeführt werden. Soweit in Anhang III Teil A
 der Richtlinie 2000/29/EG jeweils Voraussetzungen für das
 Einfuhrverbot aufgeführt sind, gilt dies nur bei Vorliegen dieser
 Voraussetzungen.
-
 
 ### § 4a Neue Schadorganismen
 
@@ -363,7 +348,6 @@ Staaten oder von internationalen Pflanzenschutzorganisationen sowie
 Art und Verwendungszweck der befallenen Pflanzen oder
 Pflanzenerzeugnisse oder sonstigen Gegenstände.
 
-
 ### § 5 Anforderungen
 
 Die in Anhang IV Teil A Kapitel I der Richtlinie 2000/29/EG genannten
@@ -373,7 +357,6 @@ aufgeführten Anforderungen entsprechen. Die zuständige Behörde kann
 die Einhaltung dieser Anforderungen überprüfen. Satz 1 gilt nicht,
 soweit besondere zwischenstaatliche Vereinbarungen oder Abkommen der
 Europäischen Gemeinschaft oder der Europäischen Union dies vorsehen.
-
 
 ### § 6 Zeugnisse
 
@@ -464,7 +447,6 @@ soweit die Vereinbarungen oder Abkommen dies vorsehen.
 
 (6) § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung.
 
-
 ### § 7 Eingangsort
 
 (1) Die in Anhang V Teil B der Richtlinie 2000/29/EG aufgeführten
@@ -481,7 +463,6 @@ worden ist.
 Benehmen mit der zuständigen Oberfinanzdirektion die Einfuhr über eine
 andere Zollstelle zulassen, wenn eine Einfuhr über eine Zollstelle
 nach Absatz 1 in wirtschaftlich vertretbarer Weise nicht möglich ist.
-
 
 ### § 7a Angaben bei de Einfuhr
 
@@ -513,7 +494,6 @@ Angaben zu machen:
 
 Mit der Einfuhr unterliegen die Pflanzen, Pflanzenerzeugnisse und
 sonstigen Gegenstände der Überwachung durch die zuständige Behörde.
-
 
 ### § 7b Kontrolle von hölzernem Verpackungsmaterial
 
@@ -548,7 +528,6 @@ auf eine Kontrolle verzichtet wird. Über die Durchführung der
 Kontrolle einschließlich gegebenenfalls ergriffener Maßnahmen oder den
 Verzicht auf eine Kontrolle stellt die zuständige Behörde dem
 Einführer eine Bescheinigung zur Vorlage bei den Zollbehörden aus.
-
 
 ### § 8 Untersuchung
 
@@ -629,7 +608,6 @@ ordnungsgemäß vorgenommen werden kann, oder wenn er von der
 zuständigen Behörde angeordnete, für die Untersuchung erforderliche
 Maßnahmen unterlässt.
 
-
 ### § 8a Genehmigter Kontrollort
 
 (1) Wer nach § 13n registriert ist, kann bei der für den
@@ -685,7 +663,6 @@ Rücknahme und Widerruf unberührt.
 (5) Die zuständige Behörde teilt Genehmigungen nach Absatz 2 sowie
 jede Änderung einer solchen Genehmigung dem Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz mit.
-
 
 ### § 8b Untersuchung am genehmigten Kontrollort
 
@@ -774,7 +751,6 @@ das Ergebnis der Untersuchung im phytosanitären Transportdokument und
 nimmt das Dokument oder dessen Abschrift für die Dauer von zwei Jahren
 nach Abschluss des Zollverfahrens in Verwahrung.
 
-
 ### § 8c Pflichten des Einführers
 
 Wer in Anhang V Teil B der Richtlinie 2000/29/EG aufgeführte Pflanzen,
@@ -807,7 +783,6 @@ Sendung folgende Angaben zu machen:
 Der Einführer hat der für den genehmigten Kontrollort zuständigen
 Behörde jede Änderung der Angaben nach Satz 1 Nr. 1 bis 5 unverzüglich
 mitzuteilen.
-
 
 ### § 9 Maßnahmen
 
@@ -845,7 +820,6 @@ die Wiederausfuhr auf der ersten Seite mit einem roten
 Dreiecksstempel, der den Vermerk "UNGÜLTIG" sowie die Angabe der
 zurückweisenden Behörde und des Datums der Zurückweisung enthält.
 
-
 ### § 10 Einfuhrerleichterungen
 
 Die §§ 5 bis 8 gelten nicht für die Einfuhr von bis zu 50
@@ -860,10 +834,6 @@ in Europa und dem angrenzenden Mittelmeerraum,
     1 in Verbindung mit Anhang V Teil B Kapitel I Nr. 1 und Kapitel II Nr.
     5 und 6 der Richtlinie 2000/29/EG unberührt.
 
-
-
-
-
 ### § 11 Vorratsschutz
 
 Die in Anlage 1 aufgeführten lebenden Teile von Pflanzen und
@@ -876,7 +846,6 @@ Untersuchung einen Befall, so kann die zuständige Behörde anordnen,
 dass die lebenden Teile von Pflanzen und Pflanzenerzeugnisse
 entseucht, verarbeitet oder wieder ausgeführt werden; sie kann hierfür
 nähere Bestimmungen treffen.
-
 
 ### § 12 Ausfuhruntersuchung
 
@@ -929,7 +898,6 @@ sind, um einen Befall der in Satz 1 genannten Pflanzen,
 Pflanzenerzeugnisse und sonstigen Gegenstände mit Schadorganismen zu
 verhindern.
 
-
 ### § 13 Durchfuhr
 
 Die §§ 2 bis 8c gelten bei der Durchfuhr von Pflanzen,
@@ -943,14 +911,9 @@ geeignete Maßnahmen die Gefahr einer Einschleppung von Schadorganismen
 verhindert wird. Im Übrigen sind die Vorschriften dieser Verordnung im
 Falle der Durchfuhr nicht anzuwenden.
 
-
 ## Dritter Abschnitt - Innergemeinschaftliches Verbringen
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften für das innergemeinschaftliche Verbringen
-
-
 
 #### § 13a Verbringungsverbot
 
@@ -990,14 +953,12 @@ innergemeinschaftlich nicht verbracht werden; soweit in Anhang III
 Teil A der Richtlinie 2000/29/EG jeweils Voraussetzungen aufgeführt
 sind, gilt dies nur bei Vorliegen dieser Voraussetzungen.
 
-
 #### § 13b Anforderungen
 
 Die in Anhang IV Teil A Kapitel II der Richtlinie 2000/29/EG
 aufgeführten Pflanzen und Pflanzenerzeugnisse dürfen
 innergemeinschaftlich nur verbracht werden, wenn sie den in dort
 jeweils aufgeführten Anforderungen entsprechen.
-
 
 #### § 13c Pflanzenpass
 
@@ -1126,7 +1087,6 @@ Verfahren des Artikels 16 Absatz 3 in Verbindung mit Artikel 18 Absatz
 Amtsblatt der Europäischen Union veröffentlichten Rechtsakt festgelegt
 hat.
 
-
 #### § 13d Genehmigung
 
 (1) Auf Antrag kann die zuständige Behörde das Ausstellen von
@@ -1181,7 +1141,6 @@ vorzulegen. Pflanzen, Pflanzenerzeugnisse und sonstige Gegenstände,
 die der Untersuchung unterliegen, sind so zugänglich zu machen, dass
 die Untersuchung ordnungsgemäß vorgenommen werden kann.
 
-
 #### § 13e Aufbewahrung
 
 Wer in Anhang V Teil A der Richtlinie 2000/29/EG aufgeführte Pflanzen,
@@ -1202,7 +1161,6 @@ Besteht der Pflanzenpass aus einem Etikett und ist eine Aufbewahrung
 nicht möglich, so ist eine Abschrift des Pflanzenpasses aufzubewahren.
 Die Aufzeichnungen nach Satz 1 Nr. 2 sind für die Dauer von mindestens
 drei Jahren aufzubewahren.
-
 
 #### § 13f Untersuchung
 
@@ -1256,7 +1214,6 @@ Schadorganismen im Sinne des § 4a Absatz 1 Nummer 1 schließen lassen.
 
 (4) § 13d Abs. 2 Satz 3 und Abs. 3 gilt entsprechend.
 
-
 #### § 13g Maßnahmen
 
 (1) Stellt die zuständige Behörde bei Untersuchungen nach § 13d Abs. 2
@@ -1298,10 +1255,7 @@ der in Anhang I Teil A der Richtlinie 2000/29/EG oder Anhang II Teil A
 der Richtlinie 2000/29/EG aufgeführten Schadorganismen nicht mehr
 besteht.
 
-
 ### Unterabschnitt 2 - Besondere Vorschriften für das Verbringen in Schutzgebiete
-
-
 
 #### § 13h Verbringungsverbot
 
@@ -1332,14 +1286,12 @@ Voraussetzungen. Das Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz macht die Liste der Schutzgebiete im
 Bundesanzeiger bekannt.
 
-
 #### § 13i Besondere Anforderungen an das Verbringen
 
 Die in Anhang IV Teil B der Richtlinie 2000/29/EG aufgeführten
 Pflanzen, Pflanzenerzeugnisse und sonstigen Gegenstände dürfen in die
 dort genannten Schutzgebiete nur verbracht werden, wenn die jeweiligen
 Anforderungen erfüllt werden.
-
 
 #### § 13j Pflanzenpass
 
@@ -1363,7 +1315,6 @@ Anhang der Richtlinie 2001/32/EG in der jeweils geltenden Fassung für
 das jeweilige Schutzgebiet geforderten Angaben enthalten. Besteht der
 Pflanzenpass aus einem Etikett und einem Warenbegleitpapier, müssen
 die Angaben nach Satz 1 im Warenbegleitpapier enthalten sein.
-
 
 #### § 13k Genehmigung
 
@@ -1403,10 +1354,6 @@ Hinblick auf das Ausstellen von Pflanzenpässen, auch nach § 13g Abs.
     Pflanzenerzeugnisse und sonstige dort aufgeführte Gegenstände handelt,
     ob sie den dort jeweils aufgeführten Anforderungen entsprechen.
 
-
-
-
-
 #### § 13l Maßnahmen
 
 Stellt die zuständige Behörde bei Untersuchungen nach § 13k Abs. 2
@@ -1418,7 +1365,6 @@ Schutzgebiet die nach den Umständen erforderlichen Maßnahmen zur
 Abwehr dieser Gefahr anordnen. Sie kann ferner die erforderlichen
 Maßnahmen anordnen, um die Einhaltung der in § 13i aufgeführten
 Anforderungen sicherzustellen.
-
 
 #### § 13m Befördern durch ein Schutzgebiet
 
@@ -1462,10 +1408,7 @@ seinen Betrieb zuständigen Behörde so rechtzeitig vor der Beförderung
 anzuzeigen, dass die zuständige Behörde Maßnahmen nach Satz 1 anordnen
 kann.
 
-
 ## Vierter Abschnitt - Registrierung, Kennzeichnung und Behandlung von Holz
-
-
 
 ### § 13n Registrierung
 
@@ -1583,10 +1526,6 @@ Tätigkeit nach Satz 1 ausüben, unverzüglich anzuzeigen.
     aufgeführten Schadorganismen durchzuführen, soweit die zuständige
     Behörde dies anordnet.
 
-
-
-
-
 ### § 13o Ruhen der Registrierung
 
 Stellt die zuständige Behörde bei registrierten Betrieben fest, dass
@@ -1597,7 +1536,6 @@ festgestellten Mängel an. Mit dem Ruhen der Registrierung erlöschen
 die dem Betrieb nach § 13d Abs. 1 Satz 1 und § 13k Abs. 1 Satz 1
 erteilten Genehmigungen. Die zuständige Behörde kann das Ruhen der
 Registrierung auch auf Antrag des registrierten Betriebes anordnen.
-
 
 ### § 13p Registrierung bei der Behandlung und Kennzeichnung von Verpackungen aus Holz
 
@@ -1679,7 +1617,6 @@ anzuzeigen. Der Verpflichtete nach Satz 1 hat Aufzeichnungen über
 Herkunft und Verbleib des von ihm in Verkehr gebrachten Holzes zu
 führen.
 
-
 ### § 13q Kennzeichnung
 
 (1) Die Kennzeichnung nach dem in § 13p Absatz 1 Nummer 1 genannten
@@ -1757,7 +1694,6 @@ Rechteck nicht enthalten sein.
 Das Verwenden von roter oder oranger Farbe für die Kennzeichnung ist
 unzulässig.
 
-
 ### § 13r Ausbesserung und Aufarbeitung von hölzernem Verpackungsmaterial
 
 (1) Hölzernes Verpackungsmaterial, das entsprechend dem in § 13p
@@ -1792,10 +1728,7 @@ Bestandteile des hölzernen Verpackungsmaterials ersetzt werden.
 genannten Materialien ausgebessert oder aufgearbeitet, so sind alle
 ursprünglichen Kennzeichnungen dauerhaft zu entfernen.
 
-
 ## Fünfter Abschnitt - Schlussbestimmungen
-
-
 
 ### § 14 Ausnahmen
 
@@ -1856,10 +1789,6 @@ a)  Verbringungsverbote nach § 13a nicht entgegenstehen und
 
 b)  die Befallsgegenstände nicht zu erwerbsmäßigen, züchterischen oder
     wissenschaftlichen Zwecken innergemeinschaftlich verbracht werden.
-
-
-
-
 
 ### § 14a Ausnahmen für Versuchs- und Züchtungszwecke
 
@@ -1922,7 +1851,6 @@ Quarantänebedingungen können auf Antrag oder nach negativem Ergebnis
 der Untersuchungen nach Anhang III der Richtlinie 2008/61/EG von der
 zuständigen Behörde aufgehoben werden.
 
-
 ### § 14b Mitteilungen
 
 Dem Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
@@ -1957,10 +1885,6 @@ zuständigen Behörden anderer Mitgliedstaaten in folgenden Fällen
 
 5.  Mitteilungen über die genehmigten Kontrollorte nach § 8a.
 
-
-
-
-
 ### § 14c Forderungsübergang
 
 Soweit sich die Europäische Union an der Leistung eines Landes an
@@ -1971,7 +1895,6 @@ zusteht, in Höhe der anteiligen Finanzierung der Europäischen Union
 auf diese über; im Übrigen geht die Forderung auf das Land über,
 soweit dieses sich an der Finanzierung mit einem eigenen Anteil
 beteiligt hat.
-
 
 ### § 15 Ordnungswidrigkeiten
 
@@ -2067,21 +1990,17 @@ vorgeschriebene Dauer aufbewahrt.
 5 oder Nummer 7 gelten auch für die Durchfuhr im Sinne des § 13 Satz
 1\.
 
-
 ### § 16
 
 (weggefallen)
-
 
 ### § 17
 
 (weggefallen)
 
-
 ### § 18
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 11) Vorratsschutz, lebende Teile von Pflanzen und Pflanzenerzeugnisse
 
@@ -2129,10 +2048,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 7   Ölkuchen und andere Rückstände der Gewinnung pflanzlicher Öle, auch
     zerkleinert, außer Öldraß
-
-
-
-
 
 ### Anlage 2 (zu § 11) Vorratsschutz, Schadorganismen
 
@@ -2210,10 +2125,6 @@ Fundstelle des Originaltextes: BGBl. I 2000, 439
 
     *   Khaprakäfer
 
-
-
-
-
 ### Anlage 3 (zu § 12 Abs. 3 Satz 2)
 
 Das Pflanzengesundheitszeugnis oder das Pflanzengesundheitszeugnis für
@@ -2253,16 +2164,11 @@ die Wiederausfuhr muss mindestens folgende Angaben enthalten:
 
 11. amtlicher Stempel.
 
-
-
-
-
 ### Anlage 4 (zu § 12 Abs. 3 Satz 3)
 
 Muster eines Stempels
 (... nicht darstellbares Muster
 Fundstelle: BGBl. I 2005, 2923)
-
 
 ### Anlage 5 (zu § 13q) Kennzeichnung für behandeltes Holz nach § 13q
 

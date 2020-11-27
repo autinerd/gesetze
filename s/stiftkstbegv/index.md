@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1926, 101
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 108 Abs. 2 der Reichsabgabenordnung wird mit
 Zustimmung des Reichsrats folgendes bestimmt:
-
 
 ## § 1
 
@@ -35,14 +32,12 @@ Einkünfte außer Ansatz, die an die nach der Stiftungssatzung
 bezugsberechtigten, unbeschränkt einkommensteuerpflichtigen
 Familienmitglieder verteilt werden.
 
-
 ## § 2
 
 Diese Verordnung gilt erstmalig für den ersten Steuerabschnitt, für
 den nach dem Körperschaftsteuergesetz vom 10. August 1925
 (Reichsgesetzbl. I S. 208) eine Stiftung der in § 1 bezeichneten Art
 zur Körperschaftsteuer zu veranlagen ist.
-
 
 ## Schlußformel
 

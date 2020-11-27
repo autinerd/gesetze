@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 20 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der
@@ -27,10 +26,7 @@ Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) verordnet die
 Bundesregierung nach Anhören der Bundessteuerberaterkammer mit
 Zustimmung des Bundesrates:
 
-
 ## Erster Teil - Prüfungsordnung für Steuerberater und Steuerbevollmächtigte
-
-
 
 ### § 1 Zulassungsverfahren
 
@@ -49,16 +45,13 @@ erforderlichenfalls weitere Ermittlungen anstellen.
 (4) Über die Entscheidung hat die zuständige Steuerberaterkammer einen
 schriftlichen Bescheid zu erteilen.
 
-
 ### § 2
 
 (weggefallen)
 
-
 ### § 3
 
 -
-
 
 ### § 4 Antrag auf Zulassung zur Prüfung
 
@@ -107,7 +100,6 @@ vorgeschriebenem Vordruck zu stellen.
 
 
 (4) u. (5) (weggefallen)
-
 
 ### § 5 Sonstige Nachweise
 
@@ -158,7 +150,6 @@ Der Antrag und die beizufügenden Unterlagen, soweit sie vom Bewerber
 stammen, sind in deutscher Sprache einzureichen; sonstige Unterlagen
 sind mit einer beglaubigten Übersetzung vorzulegen.
 
-
 ### § 6 Zulassung zur Prüfung
 
 (1) Die Zulassung gilt nur für die Teilnahme an der nächsten Prüfung.
@@ -172,7 +163,6 @@ ausgesprochen werden, daß der Bewerber diese Zulassungsvoraussetzung
 spätestens bei Beginn der schriftlichen Prüfung erfüllt hat. Der
 Nachweis ist bis zu dem von der zuständigen Steuerberaterkammer zu
 bestimmenden Zeitpunkt zu erbringen.
-
 
 ### § 7 Antrag auf Erteilung einer verbindlichen Auskunft
 
@@ -192,7 +182,6 @@ Rechtsvorschriften, auf denen sie beruht, geändert werden.
 
 (5) Für das Verfahren sind die §§ 1, 4, 5 und 8 entsprechend
 anzuwenden.
-
 
 ### § 8 Antrag auf Befreiung von der Prüfung
 
@@ -226,14 +215,9 @@ Stelle der in § 4 Abs. 3 Nr. 2 und 3 genannten Nachweise beizufügen
     über Art und Dauer seiner Tätigkeit auf dem Gebiet der von den Bundes-
     oder Landesfinanzbehörden verwalteten Steuern.
 
-
-
-
-
 ### § 9
 
 (weggefallen)
-
 
 ### § 10 Prüfungsausschuß
 
@@ -269,21 +253,17 @@ verpflichten.
 (5) Die Mitglieder des Prüfungsausschusses sind nicht
 weisungsgebunden. Sie sind aus dem Gebührenaufkommen zu entschädigen.
 
-
 ### § 11
 
 -
-
 
 ### § 12
 
 -
 
-
 ### § 13
 
 -
-
 
 ### § 14 Durchführung der Prüfungen
 
@@ -298,7 +278,6 @@ die Finanzverwaltung zuständigen obersten Landesbehörde und des
 Vorstandes der zuständigen Steuerberaterkammer teilnehmen. Anderen
 Personen kann der Vorsitzende des Prüfungsausschusses die Anwesenheit
 gestatten.
-
 
 ### § 15 Prüfungsnoten, Gesamtnoten
 
@@ -345,7 +324,6 @@ Die Bewertung mit halben Zwischennoten ist zulässig.
 geteilt durch deren Zahl. Das Ergebnis ist auf zwei Dezimalstellen zu
 berechnen; die dritte Dezimalstelle bleibt unberücksichtigt.
 
-
 ### § 16 Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus drei Aufsichtsarbeiten.
@@ -360,13 +338,11 @@ erstrecken.
 sind die Aufsichtsarbeiten den Prüfungsgebieten nach § 37 Abs. 3 Nr. 1
 bis 4 des Gesetzes zu entnehmen. Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 17 Ladung zur schriftlichen Prüfung
 
 Die zuständige Steuerberaterkammer lädt die Bewerber, die
 Aufsichtsarbeiten zu fertigen haben, spätestens einen Monat vor dem
 Tag der ersten Aufsichtsarbeit.
-
 
 ### § 18 Fertigung der Aufsichtsarbeiten
 
@@ -392,7 +368,6 @@ mit dem Antrag auf Zulassung zur Prüfung gestellt werden. Die
 zuständige Steuerberaterkammer kann die Vorlage eines amtsärztlichen
 Zeugnisses verlangen.
 
-
 ### § 19 Aufsicht
 
 (1) Die zuständige Steuerberaterkammer veranlaßt, daß die
@@ -415,7 +390,6 @@ aus dem Prüfungsraum weisen. Der Bewerber ist von der Fortsetzung der
 an diesem Prüfungstag anzufertigenden Aufsichtsarbeit ausgeschlossen.
 
 (5) (weggefallen)
-
 
 ### § 20 Verhalten während der schriftlichen Prüfung
 
@@ -441,7 +415,6 @@ spätestens bis zum Ende der Bearbeitungszeit der jeweiligen
 Aufsichtsarbeit, durch Erklärung gegenüber dem Aufsichtführenden
 geltend zu machen.
 
-
 ### § 21 Rücktritt von der Prüfung
 
 (1) Der Bewerber kann bis zum Ende der Bearbeitungszeit der letzten
@@ -452,7 +425,6 @@ Aufsichtsarbeiten nicht erscheint. In diesem Fall gilt die Prüfung als
 nicht abgelegt.
 
 (2) Im Falle des Rücktritts ist die gesamte Prüfung erneut abzulegen.
-
 
 ### § 22 Niederschrift über die Aufsichtsarbeit
 
@@ -476,10 +448,6 @@ Niederschrift zu fertigen, in der insbesondere zu vermerken sind
 
 5.  etwaige Rücktritte von Bewerbern,
 
-
-
-
-
 ### § 23 Täuschungsversuche, Ordnungsverstöße
 
 (1) Unternimmt es ein Bewerber, das Ergebnis einer schriftlichen
@@ -493,7 +461,6 @@ Prüfungsausschuß den Bewerber von der Prüfung ausschließen.
 
 (3) Im Fall des Ausschlusses gilt die Prüfung als nicht bestanden,
 auch wenn der Bewerber von der Prüfung zurückgetreten ist.
-
 
 ### § 24 Bewertung der Aufsichtsarbeiten
 
@@ -520,7 +487,6 @@ allen Fällen die Note festsetzen.
 (6) Eine vom Bewerber nicht abgegebene Arbeit ist mit "ungenügend" zu
 bewerten.
 
-
 ### § 25 Ergebnis der schriftlichen Prüfung, Ausschluß von der mündlichen Prüfung
 
 (1) Für die schriftliche Prüfung wird eine Gesamtnote gebildet.
@@ -533,7 +499,6 @@ er hat die Prüfung nicht bestanden.
 vertreten durch die zuständige Steuerberaterkammer, hat Bewerber, die
 die Prüfung nach Absatz 2 nicht bestanden haben, schriftlich zu
 bescheiden.
-
 
 ### § 26 Mündliche Prüfung
 
@@ -577,7 +542,6 @@ Aufsichtführenden oder dem Vorsitzenden des Prüfungsausschusses
 geltend zu machen. § 23 ist auf die mündliche Prüfung entsprechend
 anzuwenden.
 
-
 ### § 27 Bewertung der mündlichen Prüfung
 
 (1) In der mündlichen Prüfung werden der Vortrag und jeder
@@ -586,7 +550,6 @@ Prüfungsabschnitt gesondert bewertet.
 (2) Die Noten werden vom Prüfungsausschuß festgesetzt.
 
 (3) Für die mündliche Prüfung wird eine Gesamtnote gebildet.
-
 
 ### § 28 Ergebnis der Prüfung, Wiederholung der Prüfung
 
@@ -604,7 +567,6 @@ Bekanntgabe der tragenden Gründe der Entscheidung verlangen.
 
 (3) Für die Wiederholung bedarf es einer erneuten Zulassung.
 
-
 ### § 29 Überdenken der Prüfungsbewertung
 
 (1) Die Prüfer sind verpflichtet, ihre Bewertung der
@@ -617,7 +579,6 @@ Finanzgerichtsordnung wird dadurch nicht berührt.
 
 (2) Das Ergebnis des Überdenkens teilt die zuständige
 Steuerberaterkammer dem Antragsteller schriftlich mit.
-
 
 ### § 30 Nichtteilnahme an der mündlichen Prüfung
 
@@ -632,7 +593,6 @@ werden.
 
 (3) Versäumt ein Bewerber die mündliche Prüfung ohne ausreichende
 Entschuldigung, so gilt die Prüfung als nicht bestanden.
-
 
 ### § 31 Niederschrift über die mündliche Prüfung
 
@@ -657,7 +617,6 @@ müssen ersichtlich sein
 (2) Ein Auszug aus der Niederschrift ist zu den Akten des Bewerbers zu
 nehmen.
 
-
 ### § 32 Aufbewahrungsfristen
 
 (1) Die Aufsichtsarbeiten sind bei der zuständigen Steuerberaterkammer
@@ -679,15 +638,11 @@ Verwaltungsentscheidung aufzubewahren.
 
 (4) Unterlagen können auch in elektronischer Form aufbewahrt werden.
 
-
 ### § 33
 
 -
 
-
 ## Zweiter Teil - Bestellung als Steuerberater oder Steuerbevollmächtigter
-
-
 
 ### § 34 Bestellungsverfahren
 
@@ -763,7 +718,6 @@ gegen ihn rechtfertigen.
 Vollständigkeit und Richtigkeit. Sie kann vor einer Entscheidung
 erforderlichenfalls weitere Ermittlungen anstellen.
 
-
 ### § 35 Berufsurkunde
 
 Die Berufsurkunde enthält
@@ -792,16 +746,13 @@ Weitere Berufsbezeichnungen des Bewerbers sind in die Berufsurkunde
 nicht aufzunehmen. Akademische Grade oder staatlich verliehene
 Graduierungen sind nur aufzunehmen, wenn sie nachgewiesen worden sind.
 
-
 ### § 36
 
 (weggefallen)
 
-
 ### § 37
 
 (weggefallen)
-
 
 ### § 38 Wiederbestellung
 
@@ -823,15 +774,11 @@ Eigenschaft als Steuerberater oder Steuerbevollmächtigter erlangt
 hatten (§ 154 Abs. 1 und 3 des Gesetzes in der bis zum 30. Juni 2000
 geltenden Fassung).
 
-
 ### § 39
 
 (weggefallen)
 
-
 ## Dritter Teil - Anerkennung als Steuerberatungsgesellschaft
-
-
 
 ### § 40 Verfahren
 
@@ -859,7 +806,6 @@ Eintragung in das Handels- oder Partnerschaftsregister alle
 Voraussetzungen für die Anerkennung vorliegen. Über die Ablehnung des
 Antrags auf Anerkennung ist ein schriftlicher Bescheid zu erteilen.
 
-
 ### § 41 Anerkennungsurkunde
 
 Die Anerkennungsurkunde enthält
@@ -886,10 +832,7 @@ Die Anerkennungsurkunde enthält
 Außer der Firma oder dem Namen sind keine weiteren Bezeichnungen der
 Gesellschaft in die Anerkennungsurkunde aufzunehmen.
 
-
 ## Vierter Teil - Verleihung der Berechtigung zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle"
-
-
 
 ### § 42 Nachweis der besonderen Sachkunde
 
@@ -980,7 +923,6 @@ Rechtsanwaltskammer zur Stellungnahme zuzuleiten.
 (9) Über die Ablehnung eines Antrags auf Befreiung von der mündlichen
 Prüfung ist ein schriftlicher Bescheid zu erteilen.
 
-
 ### § 43 Sachkunde-Ausschuss
 
 (1) Die mündliche Prüfung wird vor einem Sachkunde-Ausschuss abgelegt,
@@ -1017,7 +959,6 @@ Abs. 4 bis 6 gilt sinngemäß.
 
 (5) Der Ausschuss entscheidet mit Stimmenmehrheit.
 
-
 ### § 44 Verleihung, Verleihungsurkunde
 
 (1) Über die Verleihung der Berechtigung zur Führung der Bezeichnung
@@ -1049,10 +990,7 @@ Abs. 4 bis 6 gilt sinngemäß.
 
 (3) (weggefallen)
 
-
 ## Fünfter Teil - Berufsregister
-
-
 
 ### § 45 Registerführende Stelle
 
@@ -1068,7 +1006,6 @@ Registergericht mitzuteilen.
 
 (3) Die Einsicht in das Berufsregister ist jedem gestattet, der ein
 berechtigtes Interesse darlegt.
-
 
 ### § 46 Eintragung
 
@@ -1184,10 +1121,6 @@ In das Berufsregister sind einzutragen:
 
     sowie alle Veränderungen zu den Buchstaben a bis d.
 
-
-
-
-
 ### § 47 Löschung
 
 (1) Im Berufsregister sind zu löschen
@@ -1227,7 +1160,6 @@ Steuerberatungsgesellschaft die in § 44 Abs. 3 des Gesetzes
 bezeichneten Voraussetzungen weggefallen sind. Die Eintragung von
 Bezeichnungen nach der Fachberaterordnung ist zu löschen, wenn die
 Bezeichnung nicht mehr geführt werden darf.
-
 
 ### § 48 Mitteilungspflichten
 
@@ -1276,10 +1208,6 @@ Steuerberaterkammer mitzuteilen
     Vertretung berufenen Organs oder den vertretungsberechtigten
     Gesellschaftern der Steuerberatungsgesellschaft.
 
-
-
-
-
 ### § 49 Vereine, Personenvereinigungen und Körperschaften, die zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle" befugt sind
 
 (1) In das Berufsregister sind ferner einzutragen
@@ -1319,7 +1247,6 @@ c)  wenn der Sitz des Vereins im Sinne des § 44 Abs. 4 des Gesetzes oder
 des Vereins, Personenvereinigung oder Körperschaft zu beantragen. Die
 Löschung kann auch von Amts wegen vorgenommen werden.
 
-
 ### § 50 Anzeigepflichten
 
 (1) Alljährlich im Monat Januar haben die Mitglieder des zur
@@ -1339,10 +1266,7 @@ genügt die Einreichung einer entsprechenden Erklärung.
 (2) Absatz 1 gilt entsprechend in den Fällen des § 154 Abs. 2 Satz 1
 des Gesetzes.
 
-
 ## Sechster Teil - Berufshaftpflichtversicherung
-
-
 
 ### § 51 Versicherungspflicht
 
@@ -1375,7 +1299,6 @@ befugten Versicherungsunternehmen zu den nach Maßgabe des
 Versicherungsaufsichtsgesetzes eingereichten allgemeinen
 Versicherungsbedingungen genommen werden.
 
-
 ### § 52 Mindestversicherungssumme
 
 (1) Die Mindestversicherungssumme muß für den einzelnen
@@ -1390,7 +1313,6 @@ Steuerberatungsgesellschaft erloschen ist.
 (3) Wird eine Jahreshöchstleistung für alle in einem Versicherungsjahr
 verursachten Schäden vereinbart, muß sie mindestens eine Million Euro
 betragen.
-
 
 ### § 53 Weiterer Inhalt des Versicherungsvertrages
 
@@ -1442,10 +1364,6 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches,
     Zusammenhang stehen. In diesem Fall kann die Leistung des Versicherers
     auf das Fünffache der Mindestversicherungssumme begrenzt werden.
 
-
-
-
-
 ### § 53a Ausschlüsse
 
 (1) Von der Versicherung kann die Haftung ausgeschlossen werden für
@@ -1488,7 +1406,6 @@ Weißrußland nur insoweit ausgeschlossen werden, als die Ansprüche
 nicht bei der das Abgabenrecht dieser Staaten betreffenden
 geschäftsmäßigen Hilfeleistung in Steuersachen entstehen.
 
-
 ### § 54 Anerkennung anderer Berufshaftpflichtversicherungen
 
 (1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt,
@@ -1524,7 +1441,6 @@ Steuerberater der zuständigen Steuerberaterkammer jährlich eine
 Bescheinigung des Versicherers vorzulegen, aus der sich die
 Versicherungsbedingungen und der Deckungsumfang ergeben.
 
-
 ### § 55 Nachweis des Versicherungsabschlusses vor der Bestellung
 
 (1) Bewerber, die ihre Bestellung zum Steuerberater oder zum
@@ -1544,7 +1460,6 @@ nachzuweisen.
 (2) Absatz 1 gilt sinngemäß für die Anerkennung als
 Steuerberatungsgesellschaft.
 
-
 ### § 56 Anzeige von Veränderungen
 
 (1) Die Beendigung oder Kündigung des Versicherungsvertrages, jede
@@ -1563,15 +1478,11 @@ Versicherungsschutz beeinträchtigt, und den Widerruf einer vorläufigen
 Deckungszusage mitzuteilen. Die zuständige Steuerberaterkammer ist
 berechtigt, entsprechende Auskünfte bei dem Versicherer einzuholen.
 
-
 ### § 57
 
 (weggefallen)
 
-
 ## Siebter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 58 Übergangsregelung
 
@@ -1597,7 +1508,6 @@ Prüfung oder auf Erteilung einer verbindlichen Auskunft über die
 Erfüllung einzelner Voraussetzungen für die Zulassung zur Prüfung oder
 über die Befreiung von der Prüfung, die nach dem 31. Dezember 2008
 gestellt werden.
-
 
 ### § 59
 

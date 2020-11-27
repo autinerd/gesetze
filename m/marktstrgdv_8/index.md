@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 5.11.1997 I 2642
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 1 und 2 und des § 6 Abs. 2 Nr. 1 und 2
 des Marktstrukturgesetzes vom 16. Mai 1969 (Bundesgesetzbl. I S. 423)
 wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -63,10 +61,6 @@ können zusammengefaßt werden:
 *    *   5. Erzeugnisse aus verschiedenen der unter den Nummern 1 bis 4
         aufgeführten Gruppen.
 
-
-
-
-
 ## § 2
 
 (1) Die Mindesterzeugungsmenge (§ 3 Abs. 1 Nr. 6 des Gesetzes) wird
@@ -90,7 +84,6 @@ festgesetzt
 (2) Das erste Jahr beginnt mit dem Tag, an dem der Antrag auf
 Anerkennung als Erzeugergemeinschaft gestellt wird.
 
-
 ## § 3
 
 (1) Die Mindestmenge eines Liefervertrages (§ 6 Abs. 1 Nr. 4 des
@@ -106,17 +99,14 @@ als ein Liefervertrag.
 Gesetzes) wird für Lieferverträge nach Absatz 1 auf drei Jahre
 festgesetzt.
 
-
 ## § 4
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

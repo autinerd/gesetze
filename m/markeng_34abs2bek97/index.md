@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 801
 
-
-
 ## (XXXX)
 
 Auf Grund des § 34 Abs. 2 des Markengesetzes vom 25. Oktober 1994

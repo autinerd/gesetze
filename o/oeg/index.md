@@ -192,7 +192,6 @@ bis 4 nicht gelten.
 Behandlung, heilgymnastische und bewegungstherapeutische Übungen zu
 gewähren, wenn diese bei der Heilbehandlung notwendig sind.
 
-
 ## § 2 Versagungsgründe
 
 (1) Leistungen sind zu versagen, wenn der Geschädigte die Schädigung
@@ -225,7 +224,6 @@ zur Verfolgung des Täters beizutragen, insbesondere unverzüglich
 Anzeige bei einer für die Strafverfolgung zuständigen Behörde zu
 erstatten.
 
-
 ## § 3 Zusammentreffen von Ansprüchen
 
 (1) Treffen Ansprüche aus diesem Gesetz mit Ansprüchen aus § 1 des
@@ -248,7 +246,6 @@ Gesetzbuchs nicht dadurch ausgeschlossen, daß die Voraussetzungen des
 
 (4) Bei Schäden nach diesem Gesetz gilt § 4 Abs. 1 Nr. 2 des Siebten
 Buches Sozialgesetzbuch nicht.
-
 
 ## § 3a Leistungen bei Gewalttaten im Ausland
 
@@ -332,7 +329,6 @@ vorliegt.
 wenn ein Ausschlussgrund nach Absatz 5 in ihrer Person oder bei der
 getöteten Person vorliegt.
 
-
 ## § 4 Kostenträger
 
 (1) Zur Gewährung der Versorgung ist das Land verpflichtet, in dem die
@@ -361,14 +357,12 @@ Hinzutreten der weiteren Schädigung verursacht werden, von dem
 Leistungsträger zu übernehmen, der für die Versorgung wegen der
 weiteren Schädigung zuständig ist.
 
-
 ## § 5 Übergang gesetzlicher Schadensersatzansprüche
 
 Ist ein Land Kostenträger (§ 4), so gilt § 81a des
 Bundesversorgungsgesetzes mit der Maßgabe, daß der gegen Dritte
 bestehende gesetzliche Schadensersatzanspruch auf das zur Gewährung
 der Leistungen nach diesem Gesetz verpflichtete Land übergeht.
-
 
 ## § 6 Zuständigkeit und Verfahren
 
@@ -405,7 +399,6 @@ das Vorverfahren sind anzuwenden.
 Leistungen besteht, die den Leistungen der Kriegsopferfürsorge nach
 den §§ 25 bis 27h des Bundesversorgungsgesetzes entsprechen.
 
-
 ## § 6a Zuständigkeiten des Bundesministeriums für Arbeit und Soziales
 
 (1) Das Bundesministerium für Arbeit und Soziales nimmt die Aufgaben
@@ -418,7 +411,6 @@ Aufgaben der Unterstützungsbehörde im Sinne des Artikels 3 Abs. 1 und
 der zentralen Kontaktstelle im Sinne des Artikels 16 der Richtlinie
 2004/80/EG des Rates vom 29. April 2004 zur Entschädigung der Opfer
 von Straftaten (ABl. EU Nr. L 261 S. 15) wahr.
-
 
 ## § 7 Rechtsweg
 
@@ -434,16 +426,13 @@ den Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27h des
 Bundesversorgungsgesetzes entsprechen, ist der Verwaltungsrechtsweg
 gegeben.
 
-
 ## § 8 (Änderung der Reichsversicherungsordnung)
 
 -
 
-
 ## § 9 (Änderung des Pflichtversicherungsgesetzes)
 
 -
-
 
 ## § 10 Übergangsvorschriften
 
@@ -463,7 +452,6 @@ genannten Gebiet in der Zeit vom 7. Oktober 1949 bis zum 2. Oktober
 1990 begangen worden sind, nach Maßgabe der §§ 10a und 10c. In den
 Fällen des § 3a gilt dieses Gesetz erst für Ansprüche aus Taten, die
 nach dem 30. Juni 2009 begangen worden sind.
-
 
 ## § 10a Härteregelung
 
@@ -518,7 +506,6 @@ geltenden Fassung maßgebend.
 vorgesehenen Leistungen mit Ausnahme von Berufsschadens- und
 Schadensausgleich.
 
-
 ## § 10b Härteausgleich
 
 Soweit sich im Einzelfall aus der Anwendung des § 1 Abs. 5 und 6 eine
@@ -531,7 +518,6 @@ Zehnfachen der Hinterbliebenengrundrente einer Witwe gewährt werden.
 Das gilt für einen Geschädigten nur dann, wenn er durch die Schädigung
 schwerbeschädigt ist.
 
-
 ## § 10c Übergangsregelung
 
 Neue Ansprüche, die sich auf Grund einer Änderung dieses Gesetzes
@@ -539,7 +525,6 @@ ergeben, werden nur auf Antrag festgestellt. Wird der Antrag binnen
 eines Jahres nach Verkündung des Änderungsgesetzes gestellt, so
 beginnt die Zahlung mit dem Zeitpunkt des Inkrafttretens, frühestens
 jedoch mit dem Monat, in dem die Voraussetzungen erfüllt sind.
-
 
 ## § 10d Übergangsvorschrift
 
@@ -557,11 +542,9 @@ Fassung und abzüglich der Erstattungen nach § 19 Abs. 4 des
 Bundesversorgungsgesetzes in der bis zum 31. Dezember 1993 geltenden
 Fassung, wird der Jahresdurchschnitt ermittelt.
 
-
 ## § 11 (Inkrafttreten)
 
 -
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet K Abschnitt III (BGBl. II 1990, 889, 1069) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

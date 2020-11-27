@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 971
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,17 +24,14 @@ zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003
 für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Baustoffprüfer/Baustoffprüferin wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -49,7 +44,6 @@ selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10
 nachzuweisen.
-
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -65,10 +59,6 @@ sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
 2.  in den zweiten 18 Monaten der Berufsausbildung  während fünf Wochen
     Fertigkeiten und Kenntnisse aus Abschnitt I laufende Nummer 12 und 14.
-
-
-
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -123,10 +113,6 @@ Fertigkeiten und Kenntnisse:
 
 16. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter
@@ -138,13 +124,11 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -152,7 +136,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -210,7 +193,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie
 Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum
 Umweltschutz und zur Qualitätssicherung berücksichtigen kann.
-
 
 ## § 10 Abschlussprüfung
 
@@ -378,7 +360,6 @@ ausreichende Leistungen, in dem weiteren Prüfungsbereich des
 Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden
 sein.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -386,11 +367,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
 

@@ -21,15 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2011 I 2959
 
-
 ## Erster Abschnitt - Rechtsform und Aufgabe
-
-
 
 ### § 1
 
 (weggefallen)
-
 
 ### § 2 Rechtsform, Grundkapital und Sitz
 
@@ -37,7 +33,6 @@ Die Deutsche Bundesbank ist eine bundesunmittelbare juristische Person
 des öffentlichen Rechts. Ihr Grundkapital im Betrage von 2,5
 Milliarden Euro steht dem Bund zu. Die Bank hat ihren Sitz in
 Frankfurt am Main.
-
 
 ### § 3 Aufgaben
 
@@ -51,7 +46,6 @@ dem Ausland und trägt zur Stabilität der Zahlungs- und
 Verrechnungssysteme bei. Sie nimmt darüber hinaus die ihr nach diesem
 Gesetz oder anderen Rechtsvorschriften übertragenen Aufgaben wahr.
 
-
 ### § 4 Beteiligungen
 
 Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der
@@ -63,14 +57,9 @@ Bundesregierung an anderen Einrichtungen zu beteiligen, die einer
 Kreditverkehr dienen oder sonst geeignet sind, die Erfüllung ihrer
 Aufgabe zu fördern.
 
-
 ## Zweiter Abschnitt - Organisation
 
-
-
 ### (XXXX) §§ 5 und 6 (weggefallen)
-
-
 
 ### § 7 Vorstand
 
@@ -109,7 +98,6 @@ abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des
 Vorsitzenden den Ausschlag. Bei der Verteilung der Zuständigkeiten
 innerhalb des Vorstands kann nicht gegen den Präsidenten entschieden
 werden.
-
 
 ### § 8 Hauptverwaltungen
 
@@ -153,7 +141,6 @@ tragen die Bezeichnung Präsident der Hauptverwaltung.
 
 (3) bis (5) (weggefallen)
 
-
 ### § 9 Beiräte bei den Hauptverwaltungen
 
 (1) Bei jeder Hauptverwaltung besteht ein Beirat, der regelmäßig mit
@@ -178,12 +165,10 @@ der Vorsitzende ausdrücklich als vertraulich bezeichnet hat, sind die
 Teilnehmer an den Sitzungen des Beirats zur Verschwiegenheit
 verpflichtet.
 
-
 ### § 10 Filialen
 
 Die Deutsche Bundesbank darf Filialen unterhalten, die der zuständigen
 Hauptverwaltung unterstehen.
-
 
 ### § 11 Vertretung
 
@@ -204,10 +189,7 @@ Urkundsbeamten der Deutschen Bundesbank nachgewiesen werden.
 einer Hauptverwaltung oder einer Filiale Bezug haben, können auch bei
 dem Gericht des Sitzes der Hauptverwaltung erhoben werden.
 
-
 ## Dritter Abschnitt - Bundesregierung und Bundesbank
-
-
 
 ### § 12 Verhältnis der Bank zur Bundesregierung
 
@@ -216,7 +198,6 @@ nach diesem Gesetz zustehen, von Weisungen der Bundesregierung
 unabhängig. Soweit dies unter Wahrung ihrer Aufgabe als Bestandteil
 des Europäischen Systems der Zentralbanken möglich ist, unterstützt
 sie die allgemeine Wirtschaftspolitik der Bundesregierung.
-
 
 ### § 13 Zusammenarbeit
 
@@ -228,10 +209,7 @@ Verlangen Auskunft zu geben.
 zu ihren Beratungen über Angelegenheiten von währungspolitischer
 Bedeutung zuziehen.
 
-
 ## Vierter Abschnitt - Währungspolitische Befugnisse
-
-
 
 ### § 14 Notenausgabe
 
@@ -248,15 +226,11 @@ des Vertrages über die Arbeitsweise der Europäischen Union Noten zur
 Einziehung aufrufen. Aufgerufene Noten werden nach Ablauf der beim
 Aufruf bestimmten Umtauschfrist ungültig.
 
-
 ### (XXXX) §§ 15 und 16 (weggefallen)
-
-
 
 ### § 17
 
 -
-
 
 ### § 18 Statistische Erhebungen
 
@@ -271,10 +245,7 @@ Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten
 dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der
 Anordnung über die Statistik vorgesehen ist.
 
-
 ## Fünfter Abschnitt - Geschäftskreis
-
-
 
 ### § 19 Geschäfte mit Kreditinstituten und anderen Marktteilnehmern
 
@@ -326,10 +297,6 @@ betreiben:
 
 7.  alle Bankgeschäfte im Verkehr mit dem Ausland vornehmen.
 
-
-
-
-
 ### § 20 Geschäfte mit öffentlichen Verwaltungen
 
 Die Deutsche Bundesbank darf mit dem Bund, den Sondervermögen des
@@ -339,18 +306,15 @@ Verlauf eines Tages Kontoüberziehungen zulassen. Für diese Geschäfte
 darf die Bank dem Bund, den Sondervermögen des Bundes und den Ländern
 keine Kosten und Gebühren berechnen.
 
-
 ### § 21
 
 (weggefallen)
-
 
 ### § 22 Geschäfte mit jedermann
 
 Die Deutsche Bundesbank darf mit natürlichen und juristischen Personen
 im In- und Ausland die in § 19 Nr. 2 bis 7 bezeichneten Geschäfte
 betreiben.
-
 
 ### § 23 Bestätigung von Schecks
 
@@ -375,11 +339,9 @@ Ablauf der Vorlegungsfrist an.
 Bestätigung sind die für Wechselsachen geltenden Zuständigkeits- und
 Verfahrensvorschriften entsprechend anzuwenden.
 
-
 ### § 24
 
 (weggefallen)
-
 
 ### § 25 Andere Geschäfte
 
@@ -389,18 +351,13 @@ Zentralbanken und der Europäischen Zentralbank zugelassenen Geschäfte
 nur zur Durchführung und Abwicklung zugelassener Geschäfte oder für
 den eigenen Betrieb oder für ihre Betriebsangehörigen vornehmen.
 
-
 ## Abschnitt 5a
 
 -
 
-
 ### (XXXX) §§ 25a bis 25d (weggefallen)
 
-
 ## Sechster Abschnitt - Jahresabschluss, Kostenrechnung, Gewinnverteilung
-
-
 
 ### § 26 Jahresabschluss, Kostenrechnung
 
@@ -445,7 +402,6 @@ Plan/Ist-Analyse und die Prüfungsberichte des Wirtschaftsprüfers.
 (6) Der Bundesrechnungshof berichtet dem Deutschen Bundestag über
 seine Feststellungen nach Absatz 3.
 
-
 ### § 27 Gewinnverteilung
 
 Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
@@ -459,18 +415,11 @@ Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
 2.  der Restbetrag ist an den Bund abzuführen.
 
-
-
-
-
 ### § 28
 
 (weggefallen)
 
-
 ## Siebenter Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 29 Sonderstellung der Deutschen Bundesbank
 
@@ -487,13 +436,11 @@ das Handelsregister sowie die Vorschriften über die Zugehörigkeit zu
 den Industrie- und Handelskammern sind auf die Deutsche Bundesbank
 nicht anzuwenden.
 
-
 ### § 30 Urkundsbeamte
 
 Der Präsident der Deutschen Bundesbank kann für die Zwecke des § 11
 Abs. 3 Urkundsbeamte bestellen. Sie müssen die Befähigung zum
 Richteramt besitzen.
-
 
 ### § 31 Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank
 
@@ -616,7 +563,6 @@ Bundesministeriums der Finanzen; Rechtsverordnungen über die einzelnen
 Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) bedürfen
 des Einvernehmens des Bundesministeriums des Innern.
 
-
 ### § 32 Schweigepflicht
 
 Sämtliche Personen im Dienste der Deutschen Bundesbank haben über die
@@ -633,22 +579,17 @@ ein Mitglied des Vorstands mit der Möglichkeit der Weiterübertragung
 nur versagt werden, wenn es das Wohl des Bundes oder die Interessen
 der Allgemeinheit erfordern.
 
-
 ### § 33 Veröffentlichungen
 
 Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten
 Bekanntmachungen, insbesondere den Aufruf von Noten sowie die
 Anordnung von Statistiken im Bundesanzeiger zu veröffentlichen.
 
-
 ### § 34
 
 (weggefallen)
 
-
 ## Achter Abschnitt - Strafbestimmungen und Vorschriften über das Anhalten von Falschgeld
-
-
 
 ### § 35 Unbefugte Ausgabe und Verwendung von Geldzeichen
 
@@ -673,7 +614,6 @@ bestraft,
 (3) Handelt der Täter in den Fällen des Absatzes 1 Nr. 2 fahrlässig,
 so ist die Strafe Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe
 bis zu einhundertachtzig Tagessätzen.
-
 
 ### § 36 Anhalten von Falschgeld sowie unbefugt ausgegebener Geldzeichen
 
@@ -737,7 +677,6 @@ einhunderttausend Euro geahndet werden.
 (6) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Deutsche Bundesbank.
 
-
 ### § 36a Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit
@@ -760,7 +699,6 @@ Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstandes der
 Deutschen Bundesbank bedürfen des Einvernehmens des Bundesministeriums
 der Finanzen.
 
-
 ### § 37 Einziehung
 
 (1) Unbefugt ausgegebene Gegenstände der in § 35 genannten Art können
@@ -772,7 +710,6 @@ Bundesbank aufzubewahren. Sie können, wenn der Täter ermittelt worden
 ist, nach Ablauf von zehn Jahren und, wenn der Täter nicht ermittelt
 worden ist, nach Ablauf von zwanzig Jahren nach Rechtskraft des die
 Einziehung aussprechenden Urteils vernichtet werden.
-
 
 ### § 37a Auskünfte und Prüfungen, Untersagung der Wiederausgabe von Banknoten
 
@@ -803,10 +740,7 @@ Verpflichteten untersagen, Banknoten oder bestimmte
 Banknotenstückelungen wieder in den Umlauf zu geben oder mittels
 bestimmter Systeme zur Banknotenbearbeitung zu prüfen.
 
-
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 38 Übergangsvorschrift für die Mitglieder der Organe der Bank
 
@@ -832,7 +766,6 @@ Vorstandsmitglieder werden für die restliche Dauer ihrer vertraglich
 vorgesehenen Amtszeit unter Fortgeltung ihrer Verträge im Übrigen
 unter Beachtung von § 8 dieses Gesetzes übernommen.
 
-
 ### § 39 Übergangsvorschrift für die Vorstände der Landeszentralbanken und die Beiräte
 
 (1) Die Mitglieder der Vorstände der am 1. November 1992 bestehenden
@@ -844,7 +777,6 @@ vertragliche Regelversorgung.
 
 (2) Die am 1. November 1992 bestehenden Beiräte bei den
 Landeszentralbanken werden aufgelöst.
-
 
 ### § 40 Änderung der Dienstverhältnisse
 
@@ -921,7 +853,6 @@ dieses Gesetzes.
 
 (7) (gegenstandslose Überleitungsvorschrift)
 
-
 ### § 41 Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
 
 (1) Die Deutsche Bundesbank ist entsprechende Einrichtung im Sinne des
@@ -981,7 +912,6 @@ und den danach anzuwendenden beamtenrechtlichen Vorschriften die
 Mitwirkung des Bundesministeriums der Finanzen vorgesehen ist, an
 dessen Stelle.
 
-
 ### § 42 Ausgabe von Liquiditätspapieren offenen Markt
 
 (1) Der Bund hat der Deutschen Bundesbank auf Verlangen Schatzwechsel
@@ -1004,17 +934,14 @@ Liquiditätspapiere gemäß Absatz 1 zu begeben.
 Schuldverschreibungen in einer Stückelung und Ausstattung nach ihrer
 Wahl begeben.
 
-
 ### § 43
 
 (Aufhebung und Änderung von Rechtsvorschriften)
-
 
 ### § 44 Auflösung
 
 Die Deutsche Bundesbank kann nur durch Gesetz aufgelöst werden. Das
 Auflösungsgesetz bestimmt über die Verwendung des Vermögens.
-
 
 ### § 45 Weitere Übergangsvorschriften
 
@@ -1061,7 +988,6 @@ bestehen.
 geltenden Fassung erlassene Personalstatut gilt bis zum Inkrafttreten
 einer das Personalstatut ersetzenden Rechtsverordnung nach § 31 Abs. 4
 weiter, längstens jedoch bis zum 30. Juni 2009.
-
 
 ### § 47
 

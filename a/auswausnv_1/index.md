@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2079
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 4 des Auswandererschutzgesetzes vom 26. März
 1975 (Bundesgesetzbl. I S. 774) wird verordnet:
-
 
 ## § 1
 
@@ -33,7 +30,6 @@ Wanderung vom 21. Juni 1965 (Bundesgesetzbl. II S. 1103) der
 Beförderungspreis ganz oder teilweise gezahlt wird oder Darlehen zur
 Zahlung des Beförderungspreises gewährt werden, sind erlaubt.
 
-
 ## § 2
 
 Die Beförderung und der Abschluß von Verträgen über die Beförderung
@@ -44,18 +40,15 @@ S. 1318) der Beförderungspreis ganz oder teilweise gezahlt wird oder
 Darlehen zur Zahlung des Beförderungspreises gewährt werden, sind
 erlaubt.
 
-
 ## § 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 11 des
 Auswandererschutzgesetzes auch im Land Berlin.
 
-
 ## § 4
 
 Diese Verordnung tritt mit Wirkung vom 1. Mai 1975 in Kraft.
-
 
 ## Schlußformel
 

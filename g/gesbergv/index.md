@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 6 V v. 26.11.2010 I 1643
 
-
 ## Eingangsformel
 
 Auf Grund des § 65 Nr. 3, des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und
@@ -30,10 +29,7 @@ der Bundesminister für Wirtschaft im Einvernehmen mit dem
 Bundesminister für Arbeit und Sozialordnung und für den Bereich der
 Küstengewässer im Einvernehmen mit dem Bundesminister für Verkehr:
 
-
 ## 1. Abschnitt - Anwendungsbereich
-
-
 
 ### § 1 Räumliche und sachliche Anwendung
 
@@ -43,10 +39,7 @@ Untergrundspeicherung auf dem Festland und in den Küstengewässern, bei
 der Aufsuchung und Gewinnung mineralischer Rohstoffe in Halden sowie
 in bergbaulichen Versuchsgruben und Ausbildungsstätten.
 
-
 ## 2. Abschnitt - Arbeitsmedizinische Vorsorgeuntersuchungen
-
-
 
 ### § 2 Voraussetzung für die Beschäftigung
 
@@ -123,7 +116,6 @@ Beschäftigten eine Gesundheitsstörung auf, so hat der Unternehmer zu
 ermöglichen, daß der Beschäftigte sich unverzüglich einem zur
 Durchführung arbeitsmedizinischer Vorsorgeuntersuchungen ermächtigten
 Arzt, in Notfällen auch einem anderen Arzt, vorstellt.
-
 
 ### § 3 Durchführung
 
@@ -218,14 +210,9 @@ Häufigkeit und Aufzeichnungen die Anforderungen der Absätze 2 und 3
 und des § 2 Abs. 2 bis 4 erfüllen, gelten als arbeitsmedizinische
 Vorsorgeuntersuchungen im Sinne des § 2 Abs. 1.
 
-
 ## 3. Abschnitt - Besondere Vorschriften für Gefahrstoffe einschließlich fibrogener Grubenstäube
 
-
-
 ### 1. Unterabschnitt - Bestimmungen für alle Arten untertägiger Betriebe
-
-
 
 #### § 4 Verbot oder Einschränkung für Gefahrstoffe und vergleichbare Stoffe
 
@@ -333,10 +320,7 @@ wenn die Durchführung der Vorschrift im Einzelfall zu einer
 unverhältnismäßigen Härte führen würde und die Abweichung mit dem
 Schutz der Beschäftigten vereinbar ist.
 
-
 ### 2. Unterabschnitt - Besondere Bestimmungen für den untertägigen Steinkohlenbergbau
-
-
 
 #### § 5 Ermittlung der persönlichen Belastung durch fibrogene Grubenstäube
 
@@ -354,7 +338,6 @@ anhydrit- oder zementhaltigen Baustoffen enthalten, sind wie fibrogene
 Grubenstäube zu bewerten, sofern nicht die MAK-Werte einzelner
 Bestandteile kleiner als 4
 mg/cbm sind.
-
 
 #### § 6 Zulässige persönliche Staubbelastungswerte
 
@@ -393,7 +376,6 @@ oder 21 Jahre alt werden, verliert die bisherige Zuordnung mit dem Tag
 der Bekanntgabe der neuen Zuordnung durch den Unternehmer oder am Tag
 vor demjenigen, an dem sie 21 Jahre alt werden, ihre Gültigkeit.
 
-
 #### § 7 Einstufung der Betriebspunkte
 
 (1) Der Unternehmer hat die Betriebspunkte den in Anlage 7
@@ -402,7 +384,6 @@ festgelegten Staubbelastungsstufen zuzuordnen.
 (2) Oberhalb der für die Staubbelastungsstufe 3 geltenden
 Konzentrationswerte dürfen, vorbehaltlich der Übergangsregelung (§ 18
 Abs. 3), Personen nicht beschäftigt werden.
-
 
 #### § 8 Staubmessungen
 
@@ -475,7 +456,6 @@ Gemeinschaften oder anderer Vertragsstaaten des Abkommens über den
 Europäischen Wirtschaftsraum, die nachweislich ein gleichwertiges
 Sicherheitsniveau gewährleisten, allgemein zugelassen sind.
 
-
 #### § 9 Überwachung der staubexponierten Personen
 
 (1) Für jede beschäftigte Person hat der Unternehmer
@@ -506,10 +486,7 @@ Jahr sind möglichst kurzfristig auszugleichen. Ein Ausgleich außerhalb
 des Beurteilungszeitraumes nach § 6 Abs. 1 Satz 1 von zwei Jahren ist
 unzulässig.
 
-
 ### 3. Unterabschnitt - Besondere Bestimmungen für den untertägigen Nichtsteinkohlenbergbau
-
-
 
 #### § 10 Begrenzung der Belastung durch fibrogene Grubenstäube
 
@@ -583,10 +560,7 @@ der Unternehmer
 § 3 Abs. 3 Satz 2 und § 9 Abs. 1 Satz 3 und 4 gelten für die
 Aufzeichnungen nach Nummer 2 entsprechend.
 
-
 ## 4. Abschnitt - Schutz vor anderen gesundheitlichen Schäden
-
-
 
 ### § 11 Lärm
 
@@ -706,7 +680,6 @@ Messung nach Absatz 3 Satz 2 hat der Unternehmer Aufzeichnungen zu
 führen. § 3 Abs. 3 Satz 2 gilt entsprechend. Die Aufzeichnungen hat er
 mindestens 15 Jahre aufzubewahren.
 
-
 ### § 12 Mechanische Schwingungen
 
 (1) Der Unternehmer darf Personen mit Tätigkeiten, bei denen diese
@@ -808,7 +781,6 @@ vor dem 6. Juli 2007 zur Verfügung gestellt wurden und die
 Expositionsgrenzwerte überschreiten, können noch bis 6. Juli 2011
 verwendet werden.
 
-
 ### § 13 Bildschirmgeräte
 
 Der Unternehmer darf Personen an stationären Bildschirmgeräten
@@ -844,13 +816,6 @@ regelmäßig nur beschäftigen, wenn er
         andere Tätigkeiten unterbrochen wird, die die Belastung durch die
         Arbeit an Bildschirmgeräten verringern.
 
-
-
-
-
-
-
-
 ### § 14 Manuelle Handhabung von Lasten
 
 Der Unternehmer darf Personen mit der manuellen Handhabung von Lasten,
@@ -872,13 +837,7 @@ bringt, nur beschäftigen, wenn er
     und Lage der Last, des körperlichen Kraftaufwands und der
     betrieblichen Gegebenheiten auf ein Mindestmaß beschränkt.
 
-
-
-
-
 ## 5. Abschnitt - Schlußvorschriften
-
-
 
 ### § 15 Bekanntmachung
 
@@ -890,13 +849,11 @@ auf den Umgang mit den jeweils in Betracht kommenden Stoffen
 ausgerichtete und von ihm aufgestellte Betriebsanweisung
 auszuhändigen.
 
-
 ### § 16 Übertragung der Verantwortlichkeit
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser
 Verordnung ergeben, ganz oder teilweise auf zur Leitung des Betriebes
 bestellte verantwortliche Personen übertragen.
-
 
 ### § 17 Ordnungswidrigkeiten
 
@@ -978,7 +935,6 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
 zuwiderhandelt.
 
-
 ### § 18 Übergangsvorschriften
 
 (1) Bescheinigungen über arbeitsmedizinische Vorsorgeuntersuchungen,
@@ -1022,7 +978,6 @@ die Staubbelastungsstufe 3 zulässigen Werte gemessen, hat der
 Unternehmer der zuständigen Behörde unverzüglich die Meßergebnisse
 sowie die vorgesehenen technischen und organisatorischen Maßnahmen zur
 Verringerung der Staubbelastung anzuzeigen.
-
 
 ### § 19 Inkrafttreten, abgelöste Vorschriften
 
@@ -1392,11 +1347,9 @@ Abschnitt III Nr. 1 des Einigungsvertrages aufrechterhalten worden
 sind, soweit außer Kraft, wie deren Gegenstände in dieser Verordnung
 geregelt sind oder ihr widersprechen.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 2) Einteilung der Eignungsgruppen
 
@@ -1520,7 +1473,6 @@ In der Bescheinigung über arbeitsmedizinische Vorsorgeuntersuchungen
 ist grundsätzlich die Eignungsgruppe 1, 2, 3 oder 4 anzugeben; die
 Untergruppen (1.1 bis 1.3, 2.11 bis 2.25) sind zu verwenden, soweit
 dies zur Kennzeichnung von Staublungenveränderungen erforderlich ist.
-
 
 ### Anlage 2 (zu § 2) Nachuntersuchungen
 
@@ -1739,7 +1691,6 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1761
 Nachuntersuchungen und deren Fristen nach anderen Rechtsvorschriften
 bleiben unberührt.
 
-
 ### Anlage 3 (zu § 3) Rahmen für arbeitsmedizinische Vorsorgeuntersuchungen
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1762
@@ -1800,13 +1751,6 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1762
         nach ärztlichem Urteil von einzelnen Untersuchungsinhalten abgewichen
         werden; maßgebend hierfür ist die spezifische Organbelastung.
 
-
-
-
-
-
-
-
 ### Anlage 4 (zu § 3) Ärztliche Bescheinigung über arbeitsmedizinische Erst- und Nachuntersuchungen
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1762
@@ -1859,13 +1803,6 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1762
 
 
     6   Bemerkungen
-
-
-
-
-
-
-
 
 ### Anlage 5 (zu § 4) Allgemein zulassungspflichtige Stoffe nach § 4 Abs. 1 Nr. 2 Buchstabe b
 
@@ -1924,13 +1861,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
     6.  flüssige Kunststoffe und Anstrichstoffe.
-
-
-
-
-
-
-
 
 ### Anlage 6 (zu § 5) Ermittlung der persönlichen Staubbelastungswerte nach § 5 Abs. 1
 
@@ -2116,13 +2046,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         +- 10 Minuten voneinander abweichen, ist eine Wichtung nach
         Zeitanteilen vorzunehmen.
 
-
-
-
-
-
-
-
 ### Anlage 7 (zu § 7) Zuordnung der Betriebspunkte zu Staubbelastungsstufen nach § 7 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765
@@ -2173,7 +2096,6 @@ Quarzanteil in dem Feinstaubgemisch von größer 5/k Massen-% maßgebend.
 In den Fällen der Anlage 6 Nr. 2.2 oder 2.3 sind die
 Konzentrationswerte für den Quarzfeinstaub mit dem Faktor 0,7 oder 0,3
 umzurechnen.
-
 
 ### Anlage 8 (zu § 8) Höchstzulässige zeitliche Abstände für Wiederholungsmessungen nach § 8 Abs. 2 Satz 2
 
@@ -2254,10 +2176,6 @@ Die Wiederholungsmessungen sind längstens durchzuführen:
     dokumentiert, dass aufgrund der betrieblichen Rahmenbedingungen die
     Staubsituation unverändert geblieben ist.
 
-
-
-
-
 ### Anlage 9 (zu § 9) Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1 Satz 1 Nr. 2
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1766
@@ -2300,13 +2218,6 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1766
         personenbezogen gemessen, gelten die auf diese Weise ermittelten
         Werte.
 
-
-
-
-
-
-
-
 ### Anlage 10 (zu § 10) Staubgrenzwerte für fibrogene Grubenstäube nach § 10 Abs. 2 Satz 1
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1766)
@@ -2338,10 +2249,6 @@ Es gelten folgende Staubgrenzwerte
 
 
 *    *   Q = Quarzanteil in Massen-%
-
-
-
-
 
 ### Anlage 11
 

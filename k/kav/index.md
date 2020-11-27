@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 4 V v. 1.11.2006 I 2477
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 und des § 12 des Energiewirtschaftsgesetzes
 in der im Bundesgesetzblatt III, Gliederungsnummer 752-1,
 veröffentlichten bereinigten Fassung in Verbindung mit Artikel 129
 Abs. 1 des Grundgesetzes verordnet der Bundesminister für Wirtschaft:
-
 
 ## § 1 Anwendungsbereich
 
@@ -46,7 +44,6 @@ nach diesen Bestimmungen sind Tarife im Sinne dieser Verordnung.
 
 (4) Sondervertragskunden im Sinne dieser Verordnung sind Kunden, die
 nicht Tarifkunden sind.
-
 
 ## § 2 Bemessung und zulässige Höhe der Konzessionsabgaben
 
@@ -266,7 +263,6 @@ Belieferung Konzessionsabgaben bis zu der Höhe vereinbart oder gezahlt
 werden, in der dies auch ohne seine Einschaltung zulässig wäre. Absatz
 6 Satz 2 und 3 gelten entsprechend.
 
-
 ## § 3 Andere Leistungen als Konzessionsabgaben
 
 (1) Neben oder anstelle von Konzessionsabgaben dürfen
@@ -310,10 +306,6 @@ genannten Leistungen vereinbart oder gewährt werden.
 2.  Verpflichtungen zur Übertragung von Versorgungseinrichtungen ohne
     wirtschaftlich angemessenes Entgelt.
 
-
-
-
-
 ## § 4 Tarifgestaltung
 
 (1) Konzessionsabgaben sind in den Entgelten für den Netzzugang und
@@ -334,7 +326,6 @@ Tarife in dieser Gemeinde entsprechend herabzusetzen.
 erst von dem Zeitpunkt an, zu dem eine nach dem 1. Januar 1992
 erteilte Tarifgenehmigung wirksam wird.
 
-
 ## § 5 Abschlagszahlungen, Vorauszahlungen
 
 (1) Abschlagszahlungen auf Konzessionsabgaben sind nur für abgelaufene
@@ -342,7 +333,6 @@ Zeitabschnitte zulässig. Eine Verzinsung findet außer im Fall des
 Verzuges nicht statt.
 
 (2) Vorauszahlungen dürfen nicht geleistet werden.
-
 
 ## § 6 Aufsichtsrechte und -maßnahmen
 
@@ -352,7 +342,6 @@ Einhaltung dieser Verordnung erforderlich sind.
 
 (2) §§ 65 und 69 Energiewirtschaftsgesetz findet entsprechende
 Anwendung.
-
 
 ## § 7 Landkreise
 
@@ -366,7 +355,6 @@ Abs. 2 sind die Einwohnerzahlen der jeweiligen Gemeinde des
 Landkreises maßgebend. Diese Höchstbeträge sind auch einzuhalten,
 soweit Konzessionsabgaben sowohl mit Landkreisen als auch mit
 Gemeinden vereinbart sind.
-
 
 ## § 8 Übergangsvorschrift
 
@@ -394,11 +382,9 @@ Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
 Thüringen vor dem 1. Januar 1999 keine Konzessionsabgaben vereinbart
 oder gezahlt werden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
-
 
 ## Schlußformel
 

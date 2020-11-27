@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 31.7.2010 I 1052
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 1 des Wehrsoldgesetzes in der Fassung der
@@ -29,7 +28,6 @@ besoldungs- und wehrsoldrechtlicher Vorschriften vom 21. Februar 1989
 (BGBl. I S. 240) geändert worden ist, wird im Einvernehmen mit dem
 Bundesminister der Verteidigung und dem Bundesminister der Finanzen
 verordnet:
-
 
 ## § 1 Anspruchsvoraussetzungen
 
@@ -59,7 +57,6 @@ zusammenhängenden Dienst leisten, erhalten einen erhöhten Wehrsold.
 
 Während des vierten bis sechsten Dienstmonats seit dem Dienstantritt
 wird in der Regel der erhöhte Wehrsold gewährt.
-
 
 ## § 2 Erhöhter Wehrsold
 
@@ -91,10 +88,6 @@ beträgt der erhöhte Wehrsold für jede Dienstleistung nach § 1 Abs. 1
 
     *   15,85 Euro.
 
-
-
-
-
 ## § 3 Ausschluß des Anspruchs
 
 Der erhöhte Wehrsold wird nicht gewährt
@@ -123,14 +116,9 @@ Der erhöhte Wehrsold wird nicht gewährt
     Reaktionsfähigkeit der Streitkräfte zur Wahrnehmung ihrer Aufgaben
     herzustellen.
 
-
-
-
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juni 1989 in Kraft.
-
 
 ## Schlußformel
 

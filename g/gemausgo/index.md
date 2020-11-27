@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Bek. v. 20.7.1993 I 1500
 
-
 ## Eingangsformel
 
 Zur Ausführung des Artikels 53a des Grundgesetzes hat der Bundestag
 mit Zustimmung des Bundesrates für den Gemeinsamen Ausschuß die
 folgende Geschäftsordnung beschlossen:
 
-
 ## I. Abschnitt - Zusammensetzung und Einberufung
-
-
 
 ### § 1 Zusammensetzung
 
@@ -46,7 +42,6 @@ Fraktionen nach deren Vorschlägen aus den anwesenden oder erreichbaren
 Abgeordneten ergänzt. Der Vorsitzende ersucht für diesen Fall die
 betroffenen Landesregierungen, weitere Mitglieder zu bestimmen.
 
-
 ### § 2 Bestimmung der Mitglieder des Bundestages
 
 (1) Die dem Gemeinsamen Ausschuß angehörenden Abgeordneten und ihre
@@ -59,7 +54,6 @@ eine entsprechende Anzahl von Mitgliedern und Stellvertretern vor.
 Gemeinsamen Ausschusses. Er ist der Fraktion, der er angehört,
 anzurechnen.
 
-
 ### § 3 Ausscheiden von Abgeordneten
 
 Ein dem Gemeinsamen Ausschuß angehörender Abgeordneter scheidet aus
@@ -67,7 +61,6 @@ diesem zu dem Zeitpunkt aus, zu dem er den Verzicht auf seine
 Mitgliedschaft im Gemeinsamen Ausschuß dem Präsidenten des Bundestages
 gegenüber erklärt, die Mitgliedschaft im Bundestag verliert oder aus
 der Fraktion ausscheidet, die ihn vorgeschlagen hat.
-
 
 ### § 4 Bestimmung der Mitglieder des Bundesrates
 
@@ -80,7 +73,6 @@ teilt diese und jeden Wechsel dem Präsidenten des Bundesrates mit.
 Bundestages die vom Bundesrat entsandten Mitglieder, deren
 Stellvertreter und jeden Wechsel mit.
 
-
 ### § 5 Rechte der Vertreter
 
 (1) Die Stellvertreter haben die gleichen Rechte und Pflichten wie die
@@ -91,7 +83,6 @@ sie nur im Falle der Vertretung.
 ihrer Fraktion vertreten. Die Stellvertreter treten in der Reihenfolge
 ein, in der sie von der Fraktion vorgeschlagen worden sind.
 
-
 ### § 6 Präsenzpflicht
 
 (1) Die Mitglieder des Gemeinsamen Ausschusses und die Stellvertreter
@@ -101,7 +92,6 @@ Sitzungen des Gemeinsamen Ausschusses teilnehmen können.
 
 (2) Das Nähere regeln die Präsidenten des Bundestages und des
 Bundesrates jeweils für ihren Bereich.
-
 
 ### § 7 Vorsitz des Gemeinsamen Ausschusses
 
@@ -114,7 +104,6 @@ Ausschuß kann weitere stellvertretende Vorsitzende wählen.
 
 (3) Die Stellvertreter vertreten den Vorsitzenden nach Maßgabe ihrer
 Reihenfolge.
-
 
 ### § 8 Einberufung
 
@@ -129,7 +118,6 @@ Artikel 115a Abs. 2 des Grundgesetzes vorliegen.
 (3) Der Vorsitzende des Gemeinsamen Ausschusses unterrichtet die
 Bundesregierung unverzüglich über die Einberufung.
 
-
 ### § 9 Feststellung nach Artikel 115a Abs. 2 und 115e Abs. 1 des Grundgesetzes
 
 Der Gemeinsame Ausschuß soll eine Feststellung nach Artikel 115a Abs.
@@ -138,10 +126,7 @@ amtierende Präsident des Bundestages mitgeteilt hat, daß einem
 rechtzeitigen Zusammentritt des Bundestages unüberwindliche
 Hindernisse entgegenstehen oder daß dieser nicht beschlußfähig ist.
 
-
 ## II. Abschnitt - Verfahrensbestimmungen
-
-
 
 ### § 10 Nichtöffentlichkeit
 
@@ -149,7 +134,6 @@ Die Beratungen des Gemeinsamen Ausschusses sind nicht öffentlich. § 69
 Abs. 2 Satz 1 und Abs. 7 der Geschäftsordnung des Bundestages, die
 Geheimschutzordnung des Bundestages und die Ausführungsbestimmungen
 dazu finden entsprechende Anwendung.
-
 
 ### § 11 Teilnahme an den Sitzungen
 
@@ -169,12 +153,10 @@ Sitzung teilnehmen. Dasselbe gilt für Informationssitzungen (Artikel
 (4) Der Gemeinsame Ausschuß kann anderen Personen die Teilnahme an
 seinen Sitzungen gestatten.
 
-
 ### § 12 Beschlußfähigkeit
 
 Der Gemeinsame Ausschuß ist beschlußfähig, wenn mehr als die Hälfte
 der Mitglieder oder der Stellvertreter anwesend ist.
-
 
 ### § 13 Beschlußmehrheiten
 
@@ -185,7 +167,6 @@ bestimmt.
 (2) Bei Schlußabstimmungen über Gesetze ist das Ergebnis der
 Abstimmung durch Zählen der Stimmen festzustellen.
 
-
 ### § 14 Beratung von Gesetzentwürfen
 
 Gesetzentwürfe werden in einer Beratung verabschiedet. Mindestens
@@ -195,18 +176,15 @@ Mitglieder des Gemeinsamen Ausschusses die sofortige Beratung
 beschließt. Beschlossene Gesetze leitet der Vorsitzende unverzüglich
 dem Bundeskanzler zu.
 
-
 ### § 15 Wahlen
 
 Wahlen werden mit verdeckten Stimmzetteln durchgeführt.
-
 
 ### § 16 Anträge nach Artikel 115h Abs. 2 des Grundgesetzes (Mißtrauensvotum)
 
 Ein Antrag nach Artikel 115h Abs. 2 Satz 2 des Grundgesetzes muß von
 mindestens neun Mitgliedern des Gemeinsamen Ausschusses gestellt
 werden.
-
 
 ### § 17 Sitzungsprotokolle
 
@@ -222,7 +200,6 @@ Anwendung.
 (2) Über Einsprüche gegen das Protokoll entscheidet der Gemeinsame
 Ausschuß.
 
-
 ### § 18 Anwendbarkeit der Geschäftsordnung des Bundestages
 
 (1) Im übrigen finden auf das Verfahren des Ausschusses die
@@ -233,7 +210,6 @@ im Bundestag entsprechende Anwendung.
 Geschäftsordnung des Bundestages bestimmte Rechte nur von einer
 Mehrzahl von Mitgliedern ausgeübt werden, so können diese Rechte im
 Gemeinsamen Ausschuß von zwei Mitgliedern ausgeübt werden.
-
 
 ### § 19 Änderung der Geschäftsordnung und Abweichungen von der Geschäftsordnung
 

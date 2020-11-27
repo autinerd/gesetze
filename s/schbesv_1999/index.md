@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 524 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 142 Abs. 1 Satz 1 Nr. 1 und Satz 3, des § 143 Abs. 1
@@ -32,12 +31,10 @@ eingefügt worden sind, verordnen das Bundesministerium für Verkehr und
 das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit
 dem Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die Besetzung der Kauffahrteischiffe, die
 berechtigt sind, die Bundesflagge zu führen.
-
 
 ## § 2 Verpflichtungen des Reeders
 
@@ -79,10 +76,6 @@ und die Art der zu befördernden Ladung zu berücksichtigen.
 
 3.  das Schiffsbesatzungszeugnis an Bord mitgeführt wird.
 
-
-
-
-
 ## § 2a Kapitän
 
 Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän
@@ -101,7 +94,6 @@ Befähigungszeugnissen der Mitgliedstaaten für Seeleute und zur
 Kenntnisse der deutschen Sprache nachweisen. Die Sprachkenntnisse
 können auch durch die Teilnahme an dem Lehrgang nach Satz 2
 nachgewiesen werden.
-
 
 ## § 2b Schiffsoffiziere und Schiffsmechaniker
 
@@ -177,7 +169,6 @@ anderes wachbefähigtes Besatzungsmitglied, das Unionsbürger sein muss,
 ersetzt werden. Das Nähere wird in den Verwaltungsvorschriften nach §
 4 Abs. 4 geregelt.
 
-
 ## § 3 Verpflichtungen des Kapitäns
 
 Der Kapitän hat dafür zu sorgen, daß
@@ -206,10 +197,6 @@ Der Kapitän hat dafür zu sorgen, daß
 4.  ein Abdruck des Schiffsbesatzungszeugnisses an geeigneter Stelle an
     Bord ausgehängt wird.
 
-
-
-
-
 ## § 4 Schiffsbesatzungszeugnis
 
 (1) Die See-Berufsgenossenschaft erteilt auf Antrag des Reeders ein
@@ -236,7 +223,6 @@ Schiffahrtsverbände allgemeine Verwaltungsvorschriften über die
 Voraussetzungen für die Erteilung des Schiffsbesatzungszeugnisses
 durch die See-Berufsgenossenschaft.
 
-
 ## § 5 Überwachung
 
 (1) Die See-Berufsgenossenschaft überwacht die Einhaltung der
@@ -258,7 +244,6 @@ Personen gewährleistet wird. Von einem Auslauf- oder
 Weiterfahrtverbot, das in Häfen ausgesprochen wird, unterrichtet die
 See-Berufsgenossenschaft unverzüglich die zuständige Hafenbehörde.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 125 Nr. 8 des Seemannsgesetzes
@@ -271,13 +256,11 @@ handelt, wer als Reeder vorsätzlich oder fahrlässig einer Vorschrift
 des § 2 Abs. 3 über eine dort genannte Sorgfaltspflicht
 zuwiderhandelt.
 
-
 ## § 7 Übergangsvorschrift
 
 Die Wirksamkeit eines vor Inkrafttreten dieser Verordnung
 ausgestellten Schiffsbesatzungszeugnisses wird durch das Inkrafttreten
 dieser Verordnung nicht berührt.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
@@ -285,11 +268,9 @@ dieser Verordnung nicht berührt.
 
 (2)
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage
 

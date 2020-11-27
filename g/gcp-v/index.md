@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 19.10.2012 I 2192
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1b Nr. 2 und des § 42 Abs. 3 des
@@ -31,10 +30,7 @@ vom 30. Juli 2004 (BGBl. I S. 2031) neu gefasst worden sind, verordnet
 das Bundesministerium für Gesundheit und Soziale Sicherung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck der Verordnung
 
@@ -51,7 +47,6 @@ gentechnisch veränderten Organismen bestehen oder solche enthalten,
 bezweckt diese Verordnung darüber hinaus den Schutz der Gesundheit
 nicht betroffener Personen und der Umwelt in ihrem Wirkungsgefüge.
 
-
 ### § 2 Anwendungsbereich
 
 Die Verordnung regelt die Aufgaben, Verantwortungsbereiche und
@@ -65,7 +60,6 @@ umweltbezogene Anforderungen bei klinischen Prüfungen mit
 Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder
 einer Kombination von gentechnisch veränderten Organismen bestehen
 oder solche enthalten.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -159,10 +153,7 @@ des Prüfplanes.
 (11) Entblindung ist die Offenlegung der Identität eines verblindeten
 Prüfpräparates.
 
-
 ## Abschnitt 2 - Anforderungen an Prüfpräparate
-
-
 
 ### § 4 Herstellung und Einfuhr
 
@@ -180,7 +171,6 @@ Ausübung berechtigt sind. Bei Verwendung zugelassener Arzneimittel im
 Sinne des § 5 Abs. 8 gelten die Anforderungen als erfüllt, soweit der
 Sponsor bis auf die Kennzeichnung keine weiteren Herstellungsvorgänge
 unternimmt.
-
 
 ### § 5 Kennzeichnung von Prüfpräparaten
 
@@ -318,7 +308,6 @@ den Absätzen 2 bis 7 verzichtet werden, soweit es das Konzept der
 klinischen Prüfung erlaubt. Angaben nach Absatz 1 können auch in einem
 Begleitdokument aufgeführt werden.
 
-
 ### § 6 Entblindung in Notfallsituationen und Rücknahme
 
 Bei verblindeten Prüfpräparaten muss der Sponsor ein Verfahren zur
@@ -328,10 +317,7 @@ der Prüfpräparate ermöglicht. Dabei ist sicherzustellen, dass die
 Identität eines verblindeten Prüfpräparates nur so weit offen gelegt
 wird, wie dies erforderlich ist.
 
-
 ## Abschnitt 3 - Genehmigung durch die Bundesoberbehörde und Bewertung durch die Ethik-Kommission
-
-
 
 ### § 7 Antragstellung
 
@@ -650,7 +636,6 @@ genommenen Unterlagen zum Prüfpräparat sind, so sind diese vorzulegen.
 Inhalt des Dossiers zum Prüfpräparat auf die Angaben nach Absatz 4 Nr.
 1 Buchstabe a.
 
-
 ### § 8 Bewertung durch die Ethik-Kommission
 
 (1) Die nach § 42 Abs. 1 Satz 1 oder 2 des Arzneimittelgesetzes
@@ -700,7 +685,6 @@ prüfen die Qualifikation der Prüfer und die Geeignetheit der
 Prüfstellen in ihrem Zuständigkeitsbereich. Ihre diesbezügliche
 Bewertung muss der federführenden Ethik-Kommission innerhalb von 30
 Tagen nach Eingang des ordnungsgemäßen Antrags vorliegen.
-
 
 ### § 9 Genehmigung durch die zuständige Bundesoberbehörde
 
@@ -765,7 +749,6 @@ im Benehmen mit der zuständigen Behörde Betriebs- und Geschäftsräume
 zu den üblichen Geschäftszeiten betreten, Unterlagen einsehen und,
 soweit es sich nicht um personenbezogene Daten handelt, hieraus
 Abschriften oder Ablichtungen anfertigen sowie Auskünfte verlangen.
-
 
 ### § 10 Nachträgliche Änderungen
 
@@ -859,7 +842,6 @@ von 30 Tagen nach Eingang des ordnungsgemäßen Antrags begründete
 Bedenken übermittelt. Die federführende Ethik-Kommission unterrichtet
 die zuständige Bundesoberbehörde über die Bewertung.
 
-
 ### § 11 Maßnahmen zum Schutz vor unmittelbarer Gefahr
 
 (1) Unbeschadet des § 10 treffen der Sponsor und der Prüfer
@@ -874,10 +856,7 @@ treffen der Sponsor und der Prüfer unbeschadet des § 10 alle gebotenen
 Maßnahmen zum Schutz der Gesundheit nicht betroffener Personen und der
 Umwelt.
 
-
 ## Abschnitt 4 - Dokumentations- und Mitteilungspflichten, Datenbanken, Inspektionen
-
-
 
 ### § 12 Anzeige-, Dokumentations- und Mitteilungspflichten des Prüfers
 
@@ -990,7 +969,6 @@ hat der Prüfer den Sponsor unverzüglich über Beobachtungen von in der
 Risikobewertung nicht vorgesehenen etwaigen schädlichen Auswirkungen
 auf die Gesundheit nicht betroffener Personen und die Umwelt zu
 unterrichten.
-
 
 ### § 13 Dokumentations- und Mitteilungspflichten des Sponsors
 
@@ -1118,7 +1096,6 @@ oder dem Abbruch der Prüfung mindestens zehn Jahre aufbewahrt werden.
 Andere Vorschriften zur Aufbewahrung von medizinischen Unterlagen
 bleiben unberührt.
 
-
 ### § 14 Mitteilungspflichten der zuständigen Bundesoberbehörde
 
 (1) Die zuständige Bundesoberbehörde unterrichtet die für die
@@ -1202,7 +1179,6 @@ Abs. 2 Satz 2 und 3, Abs. 3 und 4 des Gentechnikgesetzes in der
 Fassung der Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066),
 das zuletzt durch Artikel 1 des Gesetzes vom 17. März 2006 (BGBl. I S.
 534) geändert worden ist, gelten entsprechend.
-
 
 ### § 15 Inspektionen
 
@@ -1303,10 +1279,7 @@ Den mit der Überwachung beauftragten Personen soll Gelegenheit gegeben
 werden, regelmäßig an fachlichen Fortbildungsveranstaltungen
 teilzunehmen. Die Qualifikation des Personals ist zu überprüfen.
 
-
 ## Abschnitt 5 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 16 Ordnungswidrigkeiten
 
@@ -1329,10 +1302,6 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 4.  entgegen § 13 Abs. 7 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht.
 
-
-
-
-
 ### § 17 Übergangsbestimmungen
 
 Für klinische Prüfungen von Arzneimitteln, für die vor dem 6. August
@@ -1342,11 +1311,9 @@ den Leiter der klinischen Prüfung zuständigen Ethik-Kommission
 vorgelegt worden sind, finden die Vorschriften dieser Verordnung keine
 Anwendung.
 
-
 ### § 18 Inkrafttreten
 
 Die Verordnung tritt am zweiten Tage nach der Verkündung in Kraft.
-
 
 ### Schlussformel
 

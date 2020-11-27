@@ -23,7 +23,6 @@ Fundstelle
     Berufsschule werden demnächst im amtlichen Teil des Bundesanzeigers
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -33,7 +32,6 @@ geändert worden ist, verordnet das Bundesministerium für Arbeit und
 Soziales im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Fachangestellten für
@@ -41,11 +39,9 @@ Arbeitsmarktdienstleistungen und der Fachangestellten für
 Arbeitsmarktdienstleistungen wird nach § 4 Absatz 1 des
 Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -160,13 +156,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
     2.5 Datenschutz und Datensicherheit.
 
-
-
-
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -195,7 +184,6 @@ insbesondere Fertigkeiten, Kenntnisse und Fähigkeiten in Betracht, die
 nicht in allen Ausbildungsbetrieben vermittelt werden können. Die
 überbetriebliche Ausbildung ist inhaltlich und zeitlich mit dem
 Berufsschulunterricht abzustimmen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -269,10 +257,6 @@ folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt höchstens 15 Minuten.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -459,14 +443,12 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
 bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
@@ -475,7 +457,6 @@ die Verordnung über die Berufsausbildung zum/zur Fachangestellten für
 Arbeitsförderung vom 15. April 1999 (BGBl. I S. 739), die durch
 Artikel 55 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2954)
 geändert worden ist, außer Kraft.
-
 
 ## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
 
@@ -1101,12 +1082,6 @@ Fähigkeiten**
 
 
         b)  betriebliche Vorschriften der Datensicherheit einhalten
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
 

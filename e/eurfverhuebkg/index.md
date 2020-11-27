@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 6 G v. 29.7.2009 I 2274
 
-
 ## Art 1
 
 Dem in Straßburg am 6. Dezember 1965 von der Bundesrepublik
@@ -28,7 +27,6 @@ Deutschland unterzeichneten Europäischen Übereinkommen zur Verhütung
 von Rundfunksendungen, die von Sendestellen außerhalb der staatlichen
 Hoheitsgebiete gesendet werden, wird zugestimmt. Das Übereinkommen
 wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -45,12 +43,10 @@ durchführt.
 Artikeln 1 und 4 Buchstabe b des Übereinkommens bezeichneten
 Sendestellen.
 
-
 ## Art 3
 
 Werden Taten nach Artikel 2 nicht im Inland begangen, so gilt das
 deutsche Strafrecht unabhängig vom Recht des Tatorts.
-
 
 ## Art 4
 
@@ -60,12 +56,10 @@ Strafprozeßordnung oder § 157 des Gerichtsverfassungsgesetzes im
 Geltungsbereich dieses Gesetzes nicht begründet, so ist Hamburg
 Gerichtsstand; zuständiges Amtsgericht ist das Amtsgericht Hamburg.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

@@ -22,7 +22,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -33,7 +32,6 @@ Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31.
 Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -50,11 +48,9 @@ Der Ausbildungsberuf des Bootsbauers und der Bootsbauerin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -65,10 +61,6 @@ und in die Ausbildung in einer der Fachrichtungen
 
 
 2.  Technik.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -217,10 +209,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 10. Kundenorientierung und Serviceleistungen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -240,7 +228,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Gesellenprüfung, Abschlussprüfung
 
@@ -262,7 +249,6 @@ ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Gesellen-
 oder Abschlussprüfung mit 25 Prozent und Teil 2 der Gesellen- oder
 Abschlussprüfung mit 75 Prozent gewichtet.
-
 
 ## § 7 Teil 1 der Gesellen- oder Abschlussprüfung
 
@@ -337,10 +323,6 @@ Vorgaben:
     Zeit soll das auftragsbezogene Fachgespräch in höchstens 15 Minuten
     sowie die schriftliche Bearbeitung der Aufgaben in 60 Minuten
     durchgeführt werden.
-
-
-
-
 
 ## § 8 Teil 2 der Gesellen- oder Abschlussprüfung in der Fachrichtung Neu-, Aus- und Umbau
 
@@ -516,10 +498,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 9 Gewichtungs- und Bestehensregelung in der Fachrichtung Neu-, Aus- und Umbau
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -592,7 +570,6 @@ Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
 Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
-
 
 ## § 10 Teil 2 der Gesellen- oder Abschlussprüfung in der Fachrichtung Technik
 
@@ -770,10 +747,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 11 Gewichtungs- und Bestehensregelung in der Fachrichtung Technik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -847,7 +820,6 @@ Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
 bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
 im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 12 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -855,13 +827,11 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 13 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Bootsbauer/zur
 Bootsbauerin vom 26. Juni 2000 (BGBl. I S. 987) außer Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Bootsbauer und zur Bootsbauerin
 

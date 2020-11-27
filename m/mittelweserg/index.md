@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 103 G v. 8.12.2010 I 1864
 
-
 ## - - Allgemeine Bestimmungen
-
-
 
 ### § 1
 
@@ -44,7 +41,6 @@ Beschaffung von Entschädigungsland dürfen
 Erbhöfe und andere              Betriebe in ihrem Bestand nicht
 gefährdet werden.
 
-
 ### § 2
 
 (1) Das preußische Enteignungsgesetz vom 11. Juni 1874 (Preuß.
@@ -60,26 +56,19 @@ fremden Grundstücken zur Ausführung von Vorarbeiten trifft der
 Bundesminister für Verkehr, Bau und Stadtentwicklung nach Anhörung der
 zuständigen Landesbehörden.
 
-
 ### § 3
 
 Die Entschädigung für entzogenes oder beschränktes Grundeigentum wird
 in Land gewährt, soweit geeignetes Land für diesen Zweck zur Verfügung
 steht und eine Entschädigung in Land tunlich erscheint.
 
-
 ### § 4
 
 (weggefallen)
 
-
 ## - - Besondere Bestimmungen
 
-
-
 ### I. - Enteignung mit Landentschädigungsplan
-
-
 
 #### § 5
 
@@ -95,7 +84,6 @@ Preußische              Kulturamtsvorsteher nach Anhörung der
 Beteiligten
 und des Landesbauernführers              auf.
 
-
 #### § 6
 
 Der Kulturamtsvorsteher hat zur Durchführung seiner Aufgaben die ihm
@@ -105,7 +93,6 @@ Durchführung des Unternehmens dienen, mit Ausnahme der Auflassung
 befugt. Die von ihm vorgenommenen Beurkundungen stehen gerichtlichen
 Urkunden gleich, wenn sie in der für die Gerichte vorgeschriebenen
 Form und unter Bezugnahme auf diese Bestimmung aufgenommen werden.
-
 
 #### § 7
 
@@ -121,7 +108,6 @@ Beteiligte Einwendungen gegen den Landentschädigungsplan erheben.
 (4) Die Bekanntmachung hat die Stelle zu bezeichnen, bei der die
 Einwendungen schriftlich einzureichen oder mündlich zu Protokoll zu
 geben sind.
-
 
 #### § 8
 
@@ -145,7 +131,6 @@ Enteignungsbehörde festgesetzt, gegen deren Entscheidungen den
 Beteiligten der Rechtsweg nach den Bestimmungen des § 30 des
 preußischen Enteignungsgesetzes offensteht.
 
-
 #### § 9
 
 In der Entscheidung über die Entschädigung legt die
@@ -156,7 +141,6 @@ zugrunde und entscheidet, ob und gegebenenfalls in welcher Höhe neben
 der Landentschädigung eine zusätzliche Entschädigung in Geld zu
 gewähren ist.
 
-
 #### § 10
 
 Den Beteiligten bleibt der nach § 30 des preußischen
@@ -166,7 +150,6 @@ nur über eine Entschädigung in Geld entschieden werden. Bei der
 Bemessung der Geldentschädigung sind die Gerichte in der Bewertung der
 Landentschädigung frei.
 
-
 #### § 11
 
 Die Enteignung der Grundstücke und der Rechte an Grundstücken wird auf
@@ -174,7 +157,6 @@ Antrag des Unternehmers von der Enteignungsbehörde ausgesprochen,
 sobald die Entscheidung über die Entschädigung den zu Enteignenden
 zugestellt ist und die in ihr festgestellten Geldentschädigungen
 gezahlt oder hinterlegt sind.
-
 
 #### § 12
 
@@ -187,7 +169,6 @@ anderes bestimmt ist, auf das Entschädigungsland über.
 
 (2) Die Enteignungsbehörde ersucht das Grundbuchamt um Eintragung der
 aus dem Landentschädigungsplan ersichtlichen Rechtsänderungen.
-
 
 #### § 13
 
@@ -205,10 +186,7 @@ ohne weitere Nachprüfung zugestanden werden, wenn der
 Kulturamtsvorsteher versichert, daß die betreffende Rechtshandlung dem
 in Absatz 1 genannten Zweck dient.
 
-
 ### II. - Umlegung
-
-
 
 #### § 14
 
@@ -225,14 +203,12 @@ Teilnehmer wirtschaftlich tragbaren Maß aufzubringen.
 angegebenen Begrenzung, die zur Erzielung einer wirtschaftlich
 zweckmäßigen Planung zugezogen werden.
 
-
 #### § 15
 
 Die beteiligten Grundeigentümer müssen auch eine Veränderung der
 bisherigen Art ihres Wirtschaftsbetriebs dulden. Ist für die
 Veränderung ein Gebäude umzubauen oder neu zu errichten, so gelten die
 Kosten als Folgeeinrichtungskosten (§ 16).
-
 
 #### § 16
 
@@ -247,16 +223,12 @@ Artikel 2 § 2, Artikel 3 des preußischen Gesetzes vom 21. April 1934
 21\. September 1920 (Preuß. Gesetzsamml. S. 453) finden keine
 Anwendung.
 
-
 ## - - Schlußbestimmungen
-
-
 
 ### § 17
 
 Dieses Gesetz findet auch auf die zur Zeit des Inkrafttretens
 eingeleiteten Enteignungen Anwendung.
-
 
 ### § 18
 

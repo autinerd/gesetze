@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3704
 
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes; Anwendungsbereich
 
@@ -31,7 +27,6 @@ schaffen.
 (2) Dieses Gesetz gilt für informationspflichtige Stellen des Bundes
 und der bundesunmittelbaren juristischen Personen des öffentlichen
 Rechts.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -150,10 +145,7 @@ informationspflichtige Stelle ist, Umweltinformationen für eine
 informationspflichtige Stelle im Sinne des Absatzes 1 aufbewahrt, auf
 die diese Stelle einen Übermittlungsanspruch hat.
 
-
 ## Abschnitt 2 - Informationszugang auf Antrag
-
-
 
 ### § 3 Anspruch auf Zugang zu Umweltinformationen
 
@@ -188,10 +180,6 @@ Stelle, die über die Informationen verfügt, und endet
     die in Nummer 1 genannte Frist nicht eingehalten werden kann, mit
     Ablauf von zwei Monaten.
 
-
-
-
-
 ### § 4 Antrag und Verfahren
 
 (1) Umweltinformationen werden von einer informationspflichtigen
@@ -223,7 +211,6 @@ Abs. 3 Satz 2 Nr. 1 unter Angabe der Gründe mitzuteilen.
 ist die antragstellende Person spätestens mit Ablauf der Frist nach §
 3 Abs. 3 Satz 2 Nr. 1 unter Angabe der Gründe zu unterrichten.
 
-
 ### § 5 Ablehnung des Antrags
 
 (1) Wird der Antrag ganz oder teilweise nach den §§ 8 und 9 abgelehnt,
@@ -252,7 +239,6 @@ teilweisen Ablehnung eines Antrags auch über die
 Rechtsschutzmöglichkeiten gegen die Entscheidung sowie darüber zu
 belehren, bei welcher Stelle und innerhalb welcher Frist um
 Rechtsschutz nachgesucht werden kann.
-
 
 ### § 6 Rechtsschutz
 
@@ -285,7 +271,6 @@ zu übermitteln.
 private informationspflichtige Stellen auf Grund von landesrechtlichen
 Vorschriften über den Zugang zu Umweltinformationen der
 Verwaltungsrechtsweg vorgesehen werden.
-
 
 ### § 7 Unterstützung des Zugangs zu Umweltinformationen
 
@@ -323,10 +308,7 @@ dass alle Umweltinformationen, die von ihnen oder für sie
 zusammengestellt werden, auf dem gegenwärtigen Stand, exakt und
 vergleichbar sind.
 
-
 ## Abschnitt 3 - Ablehnungsgründe
-
-
 
 ### § 8 Schutz öffentlicher Belange
 
@@ -385,7 +367,6 @@ genannten Gründe abgelehnt werden.
 ist er abzulehnen, es sei denn, das öffentliche Interesse an der
 Bekanntgabe überwiegt.
 
-
 ### § 9 Schutz sonstiger Belange
 
 (1) Soweit
@@ -428,10 +409,7 @@ Bekanntgabe überwiegt. Der Zugang zu Umweltinformationen über
 Emissionen kann nicht unter Berufung auf die in Satz 1 genannten
 Gründe abgelehnt werden.
 
-
 ## Abschnitt 4 - Verbreitung von Umweltinformationen
-
-
 
 ### § 10 Unterrichtung der Öffentlichkeit
 
@@ -510,7 +488,6 @@ Anwendung.
 (7) Die Wahrnehmung der Aufgaben des § 10 kann auf bestimmte Stellen
 der öffentlichen Verwaltung oder private Stellen übertragen werden.
 
-
 ### § 11 Umweltzustandsbericht
 
 Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht
@@ -520,10 +497,7 @@ Bericht enthält Informationen über die Umweltqualität und vorhandene
 Umweltbelastungen. Der erste Bericht nach Inkrafttreten dieses
 Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
 
-
 ## Abschnitt 5 - Schlussvorschriften
-
-
 
 ### § 12 Kosten
 
@@ -555,7 +529,6 @@ Rechtsverordnung nach Absatz 3 festgelegten Kostensätzen für
 Amtshandlungen von informationspflichtigen Stellen des Bundes und der
 bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
-
 ### § 13 Überwachung
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die
@@ -578,7 +551,6 @@ ergreifen oder Anordnungen treffen.
 nicht der Zustimmung des Bundesrates bedarf, die Aufgaben nach den
 Absätzen 1 bis 3 abweichend von Absatz 1 auf andere Stellen der
 öffentlichen Verwaltung zu übertragen.
-
 
 ### § 14 Ordnungswidrigkeiten
 

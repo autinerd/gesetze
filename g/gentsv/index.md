@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 V v. 18.12.2008 I 2768
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ Arbeiten in gentechnischen Anlagen einschließlich der Tätigkeiten im
 Gefahrenbereich. Die Regelungen des Vierten, des Fünften und des
 Sechsten Abschnitts gelten auch für Freisetzungen. Nach anderen
 Vorschriften erforderliche Sicherheitsmaßnahmen bleiben unberührt.
-
 
 ### § 2 Sicherheitsstufen und Sicherheitsmaßnahmen
 
@@ -56,10 +52,6 @@ sicherheitsrelevanten Umstände einer gentechnischen Arbeit
 2.  von bestimmten Sicherheitsmaßnahmen abgesehen werden, wenn der Schutz
     der Rechtsgüter nach § 1 Nr. 1 Gentechnikgesetz auch ohne diese
     Maßnahmen auf andere Weise gewährleistet ist.
-
-
-
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -141,13 +133,7 @@ Im Sinne dieser Verordnung bedeutet:
     Substanzen gewonnen werden, wobei der Umgang mit diesen Organismen in
     weitgehend geschlossenen Apparaturen stattfindet.
 
-
-
-
-
 ## Zweiter Abschnitt - Grundlagen und Durchführung der Sicherheitseinstufung
-
-
 
 ### § 4 Grundlagen der Risikobewertung und der Sicherheitseinstufung
 
@@ -185,10 +171,6 @@ Grundlage einer Gesamtbewertung folgender Punkte:
 
 3.  Schwere und Wahrscheinlichkeit einer Gefährdung für die in § 1 Nr. 1
     des Gentechnikgesetzes genannten Rechtsgüter.
-
-
-
-
 
 ### § 5 Risikobewertung von Organismen
 
@@ -258,7 +240,6 @@ eine Liste mit Legaleinstufungen von Mikroorganismen nach dem
 geltenden EG-Arbeitsschutzrecht sowie von Organismen, die den
 Risikogruppen nach den allgemeinen Kriterien gemäß Absatz 1 Satz 1
 zugeordnet wurden.
-
 
 ### § 6 Biologische Sicherheitsmaßnahmen
 
@@ -335,7 +316,6 @@ veröffentlicht im Bundesanzeiger die jeweils im letzten Jahr neu
 anerkannten und von der Zentralen Kommission für die Biologische
 Sicherheit der Öffentlichkeit bekanntgemachten biologischen
 Sicherheitsmaßnahmen.
-
 
 ### § 7 Sicherheitseinstufung
 
@@ -618,10 +598,7 @@ zu Forschungszwecken              sind
 die Anwendung biologischer Sicherheitsmaßnahmen im Sinne des § 5 Abs.
 5 zu berücksichtigen.
 
-
 ## Dritter Abschnitt - Sicherheitsmaßnahmen
-
-
 
 ### § 8 Allgemeine Schutzpflicht, Arbeitsschutz
 
@@ -665,7 +642,6 @@ nur diese durchführen.
 (6) Welche Maßnahmen zur Abwehr von Gefahren zu treffen sind, hat der
 Betreiber zu regeln, bevor er die gentechnischen Arbeiten aufnimmt.
 
-
 ### § 9 Technische und organisatorische Sicherheitsmaßnahmen für Labor- und Produktionsbereich
 
 (1) Gentechnische Arbeiten der Sicherheitsstufen 1 bis 4 nach § 7 Abs.
@@ -685,7 +661,6 @@ sind in der Regel so zu gestalten, daß die persönlichen
 Schutzausrüstungen der Beschäftigten nur als Ergänzung zu diesen
 Maßnahmen erforderlich sind.
 
-
 ### § 10 Haltung von Pflanzen in Gewächshäusern
 
 (1) Werden in Gewächshäusern Pflanzen gehalten, die durch
@@ -701,7 +676,6 @@ Mikroorganismen gearbeitet wird, gelten sinngemäß zusätzlich die
 Anforderungen des Anhangs III für Laboratorien der entsprechenden
 Sicherheitsstufe.
 
-
 ### § 11 Haltung von Versuchstieren in Tierhaltungsräumen
 
 (1) Werden in Tierhaltungsräumen Tiere gehalten, die durch
@@ -715,7 +689,6 @@ niedrigeren Stufen werden von den höheren eingeschlossen.
 Mikroorganismen gearbeitet wird, gelten sinngemäß zusätzlich die
 Anforderungen des Anhangs III für Laboratorien der entsprechenden
 Sicherheitsstufe.
-
 
 ### § 12 Arbeitssicherheitsmaßnahmen
 
@@ -792,7 +765,6 @@ durch geeignete Maßnahmen zu überwachen.
 (8) Bei gentechnischen Arbeiten sind zum Schutz der Beschäftigten
 ferner die in Anhang VI enthaltenen Maßnahmen zu beachten.
 
-
 ### § 12a Unterrichtung der Beschäftigten
 
 (1) Der Betreiber hat den betroffenen Beschäftigten und, wenn ein
@@ -828,7 +800,6 @@ Rechtsvorschriften bleiben unberührt.
 oder Personalrat sowie den Beschäftigten bestehen nur insoweit, als
 die Betroffenen Beschäftigte im Sinne des Betriebsverfassungsgesetzes
 oder der Personalvertretungsgesetze sind.
-
 
 ### § 13 Anforderungen an die Abwasser- und Abfallbehandlung
 
@@ -981,10 +952,7 @@ gekennzeichneten und außen desinfizierten Behältern in eine andere
 gentechnische Anlage zu überführen, wenn sie wegen ihrer Art oder
 Größe nicht in der Anlage sterilisiert werden können.
 
-
 ## Vierter Abschnitt - Projektleiter
-
-
 
 ### § 14 Verantwortlichkeiten des Projektleiters
 
@@ -1048,7 +1016,6 @@ Er ist verantwortlich
 (2) Wird eine gentechnische Arbeit oder eine Freisetzung mehreren
 Projektleitern gemeinsam zugeordnet, sind die Verantwortlichkeiten der
 einzelnen Projektleiter eindeutig festzulegen.
-
 
 ### § 15 Sachkunde des Projektleiters
 
@@ -1134,10 +1101,7 @@ wesentlichen Grundzüge folgender Themenbereiche umfassen:
 Die Behörde kann geeignete Veranstaltungen als
 Fortbildungsveranstaltungen im Sinne des Satzes 1 anerkennen.
 
-
 ## Fünfter Abschnitt - Beauftragter für die Biologische Sicherheit
-
-
 
 ### § 16 Bestellung eines Beauftragten
 
@@ -1157,7 +1121,6 @@ Biologische Sicherheit gestatten, wenn hierdurch die sachgerechte
 Erfüllung der in § 18 bezeichneten Aufgaben in gleicher Weise
 sichergestellt ist.
 
-
 ### § 17 Sachkunde des Beauftragten
 
 (1) Zum Beauftragten für die Biologische Sicherheit darf nur eine
@@ -1166,7 +1129,6 @@ erforderliche Sachkunde und deren Nachweis richten sich nach den für
 den Projektleiter geltende Vorschrift des § 15.
 
 (2)
-
 
 ### § 18 Aufgaben des Beauftragten
 
@@ -1213,7 +1175,6 @@ verpflichtet,
 Betreiber jährlich einen schriftlichen Bericht über die nach Absatz 1
 getroffenen und beabsichtigten Maßnahmen.
 
-
 ### § 19 Pflichten des Betreibers
 
 (1) Der Betreiber hat den Beauftragten für die Biologische Sicherheit
@@ -1244,10 +1205,7 @@ Projektleiter nicht einigen konnte und der Beauftragte für die
 Biologische Sicherheit wegen der besonderen Bedeutung der Sache eine
 Entscheidung dieser Stelle für erforderlich hält.
 
-
 ## Sechster Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 20 Ordnungswidrigkeiten
 
@@ -1309,13 +1267,7 @@ handelt, wer als Betreiber vorsätzlich oder fahrlässig
 8.  entgegen § 16 Abs. 1 Satz 1 einen Beauftragten für die Biologische
     Sicherheit nicht bestellt.
 
-
-
-
-
 ## Siebter Abschnitt - Schlußvorschriften
-
-
 
 ### § 21 Übergangsvorschrift
 
@@ -1323,11 +1275,9 @@ Die vor dem 22. März 1995 erworbenen Bescheinigungen nach § 15 Abs. 2
 Nr. 3 gelten auch als Nachweis der erforderlichen Sachkunde für
 Freisetzungen.
 
-
 ### § 22
 
 (Inkrafttreten)
-
 
 ### Anhang I Risikogruppen der Spender- und Empfängerorganismen/Allgemeine Kriterien für die Sicherheitsbewertung
 
@@ -1635,13 +1585,6 @@ Bewertungskriterien bei gentechnischen Arbeiten, sofern relevant
     i)  Verfügbarkeit von Methoden zur Dekontamination des Gebiets im Falle
         eines Austretens von Organismen in die Umwelt.
 
-
-
-
-
-
-
-
 ### Anhang II Biologische Sicherheitsmaßnahmen
 
 Fundstelle des Originaltextes: BGBL. I 1995, 310 **A. Maßnahmen nach
@@ -1747,13 +1690,6 @@ Biologische Sicherheitsmaßnahmen:
     d)  Verwendung von Tieren, die obligate Verbindungen nur mit Pflanzen
         besitzen, die außerhalb des Verbreitungsbereichs der Organismen
         vorkommen.
-
-
-
-
-
-
-
 
 ### Anhang III Sicherheitsmaßnahmen für Labor- und Produktionsbereich
 
@@ -2648,10 +2584,6 @@ IV. Stufe 4
 12. Das Gebäude muß so ausgeführt werden, daß im Brandfall
     Feuerlöschwasser nicht in das Kanalsystem gelangen kann.
 
-
-
-
-
 ### Anhang IV Sicherheitsmaßnahmen für Gewächshäuser
 
 Fundstelle des Originaltextes: BGBl. I 1995, 316 - 318;
@@ -3016,10 +2948,6 @@ IV. Stufe 4
     Umkleideraum aufzubewahren. Die Beschäftigten haben sich bei jedem
     Verlassen der Anlage zu duschen. Alle Schutzkleidungen sind vor der
     Reinigung zu sterilisieren.
-
-
-
-
 
 ### Anhang V Sicherheitsmaßnahmen für Tierhaltungsräume
 
@@ -3457,10 +3385,6 @@ IV. Stufe 4
 
 11. Im übrigen müssen die Sicherheitsmaßnahmen denjenigen für ein Labor
     der Sicherheitsstufe 4 entsprechen.
-
-
-
-
 
 ### Anhang VI (zu § 12) Arbeitsmedizinische Präventionsmaßnahmen
 

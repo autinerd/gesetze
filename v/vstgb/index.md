@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2254
 
-
-
 ## Teil 1 - Allgemeine Regelungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -28,13 +24,11 @@ Völkerrecht, für die in ihm bezeichneten Verbrechen auch dann, wenn
 die Tat im Ausland begangen wurde und keinen Bezug zum Inland
 aufweist.
 
-
 ### § 2 Anwendung des allgemeinen Rechts
 
 Auf Taten nach diesem Gesetz findet das allgemeine Strafrecht
 Anwendung, soweit dieses Gesetz nicht in den §§ 1 und 3 bis 5
 besondere Bestimmungen trifft.
-
 
 ### § 3 Handeln auf Befehl oder Anordnung
 
@@ -43,7 +37,6 @@ eines militärischen Befehls oder einer Anordnung von vergleichbarer
 tatsächlicher Bindungswirkung begeht, sofern der Täter nicht erkennt,
 dass der Befehl oder die Anordnung rechtswidrig ist und deren
 Rechtswidrigkeit auch nicht offensichtlich ist.
-
 
 ### § 4 Verantwortlichkeit militärischer Befehlshaber und anderer Vorgesetzter
 
@@ -59,20 +52,14 @@ ausübt. Einem zivilen Vorgesetzten steht eine Person gleich, die in
 einer zivilen Organisation oder einem Unternehmen tatsächliche
 Führungsgewalt und Kontrolle ausübt.
 
-
 ### § 5 Unverjährbarkeit
 
 Die Verfolgung von Verbrechen nach diesem Gesetz und die Vollstreckung
 der wegen ihnen verhängten Strafen verjähren nicht.
 
-
 ## Teil 2 - Straftaten gegen das Völkerrecht
 
-
-
 ### Abschnitt 1 - Völkermord und Verbrechen gegen die Menschlichkeit
-
-
 
 #### § 6 Völkermord
 
@@ -103,7 +90,6 @@ wird mit lebenslanger Freiheitsstrafe bestraft.
 
 (2) In minder schweren Fällen des Absatzes 1 Nr. 2 bis 5 ist die
 Strafe Freiheitsstrafe nicht unter fünf Jahren.
-
 
 #### § 7 Verbrechen gegen die Menschlichkeit
 
@@ -213,10 +199,7 @@ schwererer Strafe bedroht ist. In minder schweren Fällen ist die
 Strafe Freiheitsstrafe nicht unter drei Jahren, soweit nicht die Tat
 nach Absatz 2 oder Absatz 4 mit schwererer Strafe bedroht ist.
 
-
 ### Abschnitt 2 - Kriegsverbrechen
-
-
 
 #### § 8 Kriegsverbrechen gegen Personen
 
@@ -365,10 +348,6 @@ Absatzes 3 Nr. 1 Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
     welche die Waffen gestreckt haben oder in sonstiger Weise wehrlos
     sind.
 
-
-
-
-
 #### § 9 Kriegsverbrechen gegen Eigentum und sonstige Rechte
 
 (1) Wer im Zusammenhang mit einem internationalen oder
@@ -385,7 +364,6 @@ eines wesentlichen Teils der Angehörigen der gegnerischen Partei
 aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar
 sind, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren
 bestraft.
-
 
 #### § 10 Kriegsverbrechen gegen humanitäre Operationen und Embleme
 
@@ -419,7 +397,6 @@ Abzeichen oder die Uniform des Feindes oder der Vereinten Nationen
 missbraucht und dadurch den Tod oder die schwere Verletzung eines
 Menschen (§ 226 des Strafgesetzbuches) verursacht, wird mit
 Freiheitsstrafe nicht unter fünf Jahren bestraft.
-
 
 #### § 11 Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
 
@@ -488,7 +465,6 @@ Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren
 militärischen Vorteil stehen, wird mit Freiheitsstrafe nicht unter
 drei Jahren bestraft.
 
-
 #### § 12 Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
 
 (1) Wer im Zusammenhang mit einem internationalen oder
@@ -515,10 +491,7 @@ wird er mit Freiheitsstrafe nicht unter fünf Jahren bestraft. Führt
 der Täter den Tod vorsätzlich herbei, ist die Strafe lebenslange
 Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
-
 ### Abschnitt 3 - Sonstige Straftaten
-
-
 
 #### § 13 Verletzung der Aufsichtspflicht
 
@@ -543,7 +516,6 @@ können.
 Freiheitsstrafe bis zu fünf Jahren, die fahrlässige Verletzung der
 Aufsichtspflicht wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
-
 #### § 14 Unterlassen der Meldung einer Straftat
 
 (1) Ein militärischer Befehlshaber oder ein ziviler Vorgesetzter, der
@@ -553,7 +525,6 @@ solcher Taten zuständigen Stelle zur Kenntnis zu bringen, wird mit
 Freiheitsstrafe bis zu fünf Jahren bestraft.
 
 (2) § 4 Abs. 2 gilt entsprechend.
-
 
 #### Anlage (zu § 8 Abs. 6 Nr. 1)
 

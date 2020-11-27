@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1767
 
-
 ## I. Erlass von beamtenrechtlichen Widerspruchsbescheiden
 
 (1) Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
@@ -45,7 +44,6 @@ selbständigen Niederlassungen, Geschäftsbereiche und Shared Service
 Center den mit dem Widerspruch angefochtenen Verwaltungsakt erlassen
 oder den Erlass eines Verwaltungsakts abgelehnt haben.
 
-
 ## II. Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung
@@ -62,11 +60,9 @@ Einrichtungen, soweit sie nach Abschnitt I dieser Anordnung für den
 Erlass von Widerspruchsbescheiden zuständig sind. Für besondere Fälle
 behalten wir uns die Vertretung des Dienstherrn vor.
 
-
 ## III. Schlussvorschriften
 
 Diese Anordnung tritt mit Wirkung vom 1. August 2007 in Kraft.
-
 
 ## Schlussformel
 

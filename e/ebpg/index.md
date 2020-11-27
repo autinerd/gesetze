@@ -26,7 +26,6 @@ Geändert durch
     2000/55/EG des Europäischen Parlaments und des Rates (ABl. EU Nr. L
     191 S. 29).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für das Inverkehrbringen, die Inbetriebnahme
@@ -40,7 +39,6 @@ Zwecke bestimmt sind.
 (2) Rechtsvorschriften für die Abfallbewirtschaftung und für
 Chemikalien einschließlich solcher für fluorierte Treibhausgase
 bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -188,7 +186,6 @@ des Herstellers und des Importeurs.
 (19) Wirtschaftsakteure sind Hersteller, Bevollmächtigter, Importeur
 und Händler.
 
-
 ## § 3 Ermächtigung zum Erlass von Rechtsverordnungen
 
 Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die
@@ -223,7 +220,6 @@ Bauteile oder Baugruppen zu machen, soweit dabei Betriebs- und
 Geschäftsgeheimnisse gewahrt bleiben. Satz 4 gilt entsprechend für den
 Importeur, wenn der Hersteller nicht im Europäischen Wirtschaftsraum
 niedergelassen ist und keinen Bevollmächtigten hat.
-
 
 ## § 4 Inverkehrbringen, Inbetriebnahme und Ausstellen
 
@@ -341,7 +337,6 @@ auf dem Markt bereitstellen, von dem er weiß oder auf Grund der ihm
 vorliegenden Informationen oder seiner Erfahrung wissen muss, dass es
 nicht die Anforderungen nach Absatz 1 Satz 1 erfüllt.
 
-
 ## § 5 Informationspflichten
 
 (1) Der Hersteller, sein Bevollmächtigter und der Importeur eines
@@ -366,7 +361,6 @@ voraussichtlichen Benutzer des Produkts verständlich sein.
 Schriftliche Angaben müssen zumindest auch auf Deutsch verfasst sein,
 wenn das Produkt dem Endnutzer übergeben wird und der Endnutzer das
 Produkt nicht gewerblich nutzt.
-
 
 ## § 6 CE-Kennzeichnung
 
@@ -395,7 +389,6 @@ angebracht werden, durch die Dritte hinsichtlich der Bedeutung und der
 Gestalt der CE-Kennzeichnung irregeführt werden können. Jede andere
 Kennzeichnung darf angebracht werden, wenn sie die Sichtbarkeit und
 Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
-
 
 ## § 7 Marktüberwachung
 
@@ -547,7 +540,6 @@ Aussteller gehört wurde, wird ihm so schnell wie möglich Gelegenheit
 gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend
 überprüft.
 
-
 ## § 8 Meldeverfahren
 
 (1) Trifft die zuständige Behörde Maßnahmen nach § 7 Abs. 3 Nr. 6 und
@@ -583,7 +575,6 @@ und ihr bekannt werden.
 (4) Für den Informationsaustausch sind so weit wie möglich
 elektronische Kommunikationsmittel zu benutzen.
 
-
 ## § 9 Veröffentlichung von Informationen
 
 (1) Die beauftragte Stelle macht Anordnungen nach § 7 Abs. 3 Nr. 6 und
@@ -616,12 +607,10 @@ den Anforderungen nach § 4 Abs. 1 nur geringfügig abweicht. Bei
 Veröffentlichungen nach Satz 1 gilt Absatz 2 für die zuständige
 Behörde und die beauftragte Stelle entsprechend.
 
-
 ## § 10 Beauftragte Stelle
 
 Beauftragte Stelle ist die Bundesanstalt für Materialforschung und
 -prüfung.
-
 
 ## § 11 Zugelassene Stellen
 
@@ -670,7 +659,6 @@ Werden sie nach Satz 1 tätig, haben sie die für das
 Anerkennungsverfahren nach Absatz 2 zuständige Behörde zu
 unterrichten.
 
-
 ## § 12 Weitere Aufgaben der beauftragten Stelle
 
 (1) Die beauftragte Stelle stellt ein umfassendes Informationsangebot
@@ -690,7 +678,6 @@ Satz 2 sowie bei technischen und wissenschaftlichen Fragestellungen.
 arbeitet die beauftragte Stelle mit dem Umweltbundesamt zusammen. Über
 die dabei gesammelten Erfahrungen tauschen sich beauftragte Stelle und
 Umweltbundesamt einmal jährlich aus.
-
 
 ## § 13 Bußgeldvorschriften
 
@@ -774,16 +761,13 @@ Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu
 bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 6 geahndet
 werden können.
 
-
 ## § 14
 
 -
 
-
 ## § 15 Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 4 Abs. 1 Nr. 3)
 

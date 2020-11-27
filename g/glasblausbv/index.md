@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 27.3.2001 I 471
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -32,7 +31,6 @@ S. 1), der zuletzt durch Artikel 1 Nr. 9 des Gesetzes vom 25. März
 Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und
 Technologie:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -48,7 +46,6 @@ Der Ausbildungsberuf Glasbläser/Glasbläserin wird
 
 
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -66,7 +63,6 @@ Jahre. Es kann zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -144,10 +140,6 @@ sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 2.  Herstellen der Augenform.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -165,12 +157,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -178,7 +168,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -225,10 +214,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 5.  berufsbezogene Berechnungen.
-
-
-
-
 
 ## § 8 Abschlussprüfung/Gesellenprüfung
 
@@ -488,11 +473,9 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Technologie mindestens ausreichende
 Leistungen erbracht sind.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum/zur Glasbläser/zur Glasbläserin
 

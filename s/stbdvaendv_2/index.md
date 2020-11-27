@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1168
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der
@@ -26,11 +24,9 @@ durch Gesetz vom 24. Juni 1994 (BGBl. I S. 1387) geändert worden ist,
 verordnet die Bundesregierung nach Anhörung der
 Bundessteuerberaterkammer:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -48,11 +44,9 @@ Steuerberatungsgesellschaften haben bis zum 31. August 1997 der
 zuständigen Steuerberaterkammer das Bestehen einer dieser Verordnung
 entsprechenden Berufshaftpflichtversicherung nachzuweisen.
 
-
 ## Art 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

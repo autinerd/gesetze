@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1980, 813
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem in Brüssel am 13. Mai 1975 unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und dem Königreich Belgien über die
 Befreiung öffentlicher Urkunden von der Legalisation wird zugestimmt.
 Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -42,7 +38,6 @@ eines Gerichts bestimmt werden.
 
 (2) Rechtsverordnungen der Bundesregierung nach Absatz 1 bedürfen
 nicht der Zustimmung des Bundesrates.
-
 
 ## Art 3
 
@@ -66,7 +61,6 @@ durch
 Siegel           Unterschrift
 Stempel
 
-
 ## Art 4
 
 Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 6 des
@@ -75,7 +69,6 @@ Abkommens aus dem Königreich Belgien zugeleitet, so führt es eine
 errichtet haben soll, und übermittelt diese Äußerung der ersuchenden
 Stelle. Die Person, Stelle oder Behörde ist verpflichtet, eine
 Äußerung abzugeben.
-
 
 ## Art 5
 
@@ -91,14 +84,12 @@ durch den Präsidenten des Landgerichts Berlin zu übermitteln.
 (2) Der Präsident des Landgerichts prüft, ob die in dem Abkommen
 geregelten Voraussetzungen vorliegen.
 
-
 ## Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 7
 

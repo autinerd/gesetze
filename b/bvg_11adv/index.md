@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 15.11.2000 I 1572
 
-
 ## Eingangsformel
 
 Auf Grund des § 24a Buchstabe c des Bundesversorgungsgesetzes in der
@@ -27,14 +26,12 @@ zuletzt geändert durch Artikel II § 15 des Gesetzes vom 18. August
 1980 (BGBl. I S. 1469), verordnet die Bundesregierung mit Zustimmung
 des Bundesrates:
 
-
 ## § 1
 
 Ziel der Versehrtenleibesübungen ist es, durch Übungen, die auf die
 Art und die Schwere der Schädigungsfolgen und den gesundheitlichen
 Allgemeinzustand des Beschädigten abgestellt sind, die körperliche
 Leistungsfähigkeit des Beschädigten zu erhalten oder wiederzugewinnen.
-
 
 ## § 2
 
@@ -56,10 +53,6 @@ c)  Sportarten, bei denen eine erhöhte Verletzungsgefahr oder ein anderes
 d)  Sportarten, soweit sie gemessen an dem Ziel der
     Versehrtenleibesübungen einen unverhältnismäßig hohen finanziellen
     Aufwand erfordern.
-
-
-
-
 
 ## § 3
 
@@ -84,14 +77,12 @@ von Absatz 1 nicht betreibt.
 (3) Hin- und Rückfahrt zu einer Übungsveranstaltung dürfen zusammen
 höchstens drei Stunden dauern.
 
-
 ## § 4
 
 Beschädigte haben Anspruch auf Teilnahme an höchstens drei
 Übungsveranstaltungen in der Woche. Die Dauer der
 Übungsveranstaltungen ist so zu bemessen, daß keine Überlastung der
 Beschädigten eintritt.
-
 
 ## § 5
 
@@ -102,7 +93,6 @@ oder andere Schwerstbehinderte Versehrtenleibesübungen in
 geschlossenen Übungsgruppen durchführen, sollen diesen Gruppen nicht
 mehr als sieben Behinderte angehören.
 
-
 ## § 6
 
 Beschädigte, die an Versehrtenleibesübungen teilnehmen wollen, müssen
@@ -112,7 +102,6 @@ unterziehen. Die Untersuchungsbefunde sind schriftlich niederzulegen.
 Der Arzt bestimmt, welche Übungsarten für den Beschädigten geeignet
 sind.
 
-
 ## § 7
 
 Die ärztliche Betreuung erfordert grundsätzlich die persönliche
@@ -121,14 +110,12 @@ ständigen Anwesenheit des betreuenden Arztes kann abgesehen werden,
 sofern dieser seine telefonische Rufbereitschaft für ausreichend hält
 und er die Übungsveranstaltung in angemessener Zeit erreichen kann.
 
-
 ## § 8
 
 Zur Durchführung der Versehrtenleibesübungen schließt die
 Verwaltungsbehörde Verträge mit Sportorganisationen oder
 Sportgemeinschaften. Gleichzeitige vertragliche Beziehungen mit
 Sportorganisationen und Sportgemeinschaften sind unzulässig.
-
 
 ## § 9
 
@@ -180,7 +167,6 @@ Jahres, für das der erste Pauschalbetrag gelten soll, von der Zahl am
 Folgejahr der Höchstbetrag im Sinne von Absatz 2. Der Höchstbetrag
 verändert sich jährlich um den in Absatz 3 genannten Vomhundertsatz im
 jeweiligen Land.
-
 
 ## § 10
 
@@ -236,7 +222,6 @@ Aufwendungen abhängig.
 jeweils nach Ablauf des Kalendervierteljahrs mit der
 Verwaltungsbehörde abgerechnet.
 
-
 ## § 11
 
 Sportgeräte und den Versehrtenleibesübungen eigentümliche
@@ -245,7 +230,6 @@ Stelle sonst benutzter orthopädischer Hilfsmittel treten, sowie deren
 Instandsetzungen werden den Beschädigten als Sachleistung gewährt. Das
 gleiche gilt für Geräte und Bekleidungsstücke, die aus sonstigen
 Gründen einer orthopädie-ärztlichen Verordnung oder Abnahme bedürfen.
-
 
 ## § 12
 

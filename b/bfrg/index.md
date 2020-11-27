@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 6.2.2012 I 148
 
-
 ## § 1 Rechtsform, Name
 
 Im Geschäftsbereich des Bundesministeriums für Verbraucherschutz,
@@ -26,7 +25,6 @@ Ernährung und Landwirtschaft (Bundesministerium) wird ein
 "Bundesinstitut für Risikobewertung" (Bundesinstitut) als
 bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts
 errichtet.
-
 
 ## § 2 Tätigkeiten
 
@@ -125,7 +123,6 @@ vertrauensvollen Zusammenarbeit einzubeziehen.
 (3) Bei seinen wissenschaftlichen Bewertungen und Forschungen ist das
 Bundesinstitut vorbehaltlich des § 8 Abs. 1 weisungsunabhängig.
 
-
 ## § 3 Aufgabendurchführung
 
 (1) Das Bundesinstitut erledigt im Rahmen der ihm durch § 2 Abs. 1
@@ -138,7 +135,6 @@ gesetzlich festgelegt ist, Aufgaben des Bundes in seinem
 Tätigkeitsbereich, mit deren Durchführung das Bundesinstitut vom
 Bundesministerium beauftragt wird.
 
-
 ## § 4 Organe
 
 (1) Organe des Bundesinstitutes sind die Präsidentin oder der
@@ -146,7 +142,6 @@ Präsident und das Direktorium.
 
 (2) Aufgaben und Befugnisse der Organe bestimmt die Satzung, soweit
 sie nicht durch dieses Gesetz geregelt sind.
-
 
 ## § 5 Präsidentin oder Präsident
 
@@ -156,7 +151,6 @@ er vertritt das Bundesinstitut gerichtlich und außergerichtlich.
 
 (2) Die Präsidentin oder der Präsident hat eine ständige Vertreterin
 (Vizepräsidentin) oder einen ständigen Vertreter (Vizepräsident).
-
 
 ## § 6 Direktorium
 
@@ -195,7 +189,6 @@ Direktorium regelmäßig zur Beratung einzuberufen.
 (4) Bei Meinungsverschiedenheiten entscheidet die Präsidentin oder der
 Präsident.
 
-
 ## § 7 Satzung
 
 Das Direktorium erlässt mit der Mehrheit seiner Mitglieder eine
@@ -216,10 +209,6 @@ erforderlich, insbesondere Bestimmungen aufzunehmen über
 
 4.  die Haushaltsführung und Rechnungslegung.
 
-
-
-
-
 ## § 8 Aufsicht
 
 (1) Das Bundesinstitut untersteht der Aufsicht des Bundesministeriums,
@@ -237,7 +226,6 @@ des Direktoriums teilzunehmen; ihnen ist jederzeit Gehör zu gewähren.
 
 (4) In Fällen des Absatzes 1 Satz 2 gelten die Absätze 2 und 3
 entsprechend.
-
 
 ## § 9 Haushaltsplan
 
@@ -257,7 +245,6 @@ jeweiligen Haushaltsgesetzes.
 Haushaltsjahres ist eine Rechnung über die Einnahmen und Ausgaben
 aufzustellen. Die Rechnung ist vom Bundesministerium zu prüfen.
 
-
 ## § 10 Beamtinnen und Beamte
 
 (1) Das Bundesinstitut hat Dienstherrenfähigkeit. Seine Beamtinnen und
@@ -273,14 +260,12 @@ das Bundesministerium. Für die übrigen Beamtinnen und Beamten ist die
 oberste Dienstbehörde die Präsidentin oder der Präsident des
 Bundesinstitutes.
 
-
 ## § 11 Angestellte, Arbeiterinnen und Arbeiter
 
 Auf die Angestellten und Arbeiterinnen und Arbeiter des
 Bundesinstitutes sind die für Arbeitnehmerinnen und Arbeitnehmer des
 Bundes jeweils geltenden Tarifverträge und sonstige Bestimmungen
 anzuwenden.
-
 
 ## § 12 Übernahme der Beamtinnen und Beamten und der Arbeitnehmerinnen und Arbeitnehmer
 
@@ -296,7 +281,6 @@ Veterinärmedizin tätigen Arbeitnehmerinnen und Arbeitnehmer sind
 vorbehaltlich des § 7 Abs. 3 und 4 des BVL-Gesetzes und des § 86 Abs.
 2 des Tierseuchengesetzes mit dem Inkrafttreten dieses Gesetzes in den
 Dienst des Bundesinstitutes übernommen.
-
 
 ## § 13 Übergangsmaßnahmen
 

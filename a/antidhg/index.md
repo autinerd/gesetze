@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 13.12.2007 I 2904
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anspruch auf Hilfe
 
@@ -50,17 +48,12 @@ erhalten auch die Hinterbliebenen eines nach Satz 1 Berechtigten.
     Lebenspartner, die mit den in Satz 1 genannten Frauen nicht nur
     vorübergehend in häuslicher Gemeinschaft gelebt haben oder leben.
 
-
-
-
-
 ## § 2 Heil- und Krankenbehandlung
 
 Berechtigte nach § 1 Abs. 1 Satz 1 erhalten für die durch die
 Hepatitis-C-Virus-Infektion verursachten gesundheitlichen Folgen Heil-
 und Krankenbehandlung in entsprechender Anwendung der §§ 10 bis 24a
 des Bundesversorgungsgesetzes.
-
 
 ## § 3 Finanzielle Hilfe
 
@@ -107,7 +100,6 @@ Verbindung mit dem Bundesversorgungsgesetz im Antrags-, Widerspruchs-
 oder Klageverfahren anhängig, so gilt für das vorliegende Gesetz deren
 rechtskräftiger Abschluss.
 
-
 ## § 4 Hilfe für Hinterbliebene
 
 (1) Stirbt ein nach § 1 Abs. 1 Satz 1 Berechtigter an den Folgen einer
@@ -135,10 +127,6 @@ Vollendung des 27. Lebensjahres. Als Waisen gelten auch
 2.  Pflegekinder im Sinne des § 2 Abs. 1 Nr. 2 des
     Bundeskindergeldgesetzes.
 
-
-
-
-
 ## § 5 Hilfe bei Wohnsitz im Ausland, Härteausgleich
 
 Die §§ 64, 64a Abs. 1 und Abs. 3 Satz 1, §§ 64d sowie 64f und 89 des
@@ -146,7 +134,6 @@ Bundesversorgungsgesetzes sind entsprechend anzuwenden mit der
 Maßgabe, dass an die Stelle der Zustimmung des Bundesministeriums für
 Arbeit und Soziales die Zustimmung der zuständigen obersten
 Landesbehörde tritt.
-
 
 ## § 6 Zusammentreffen mit anderen Ansprüchen, Übertragbarkeit
 
@@ -162,7 +149,6 @@ Vermögen nicht berücksichtigt.
 
 (3) Ansprüche auf Hilfen nach diesem Gesetz können nicht übertragen,
 verpfändet oder gepfändet werden.
-
 
 ## § 7 Beginn, Änderung und Zahlung der Hilfe
 
@@ -183,7 +169,6 @@ und 4 von Amts wegen entschieden, wenn bereits eine Anerkennung nach
 dem Bundes-Seuchengesetz vorliegt oder beantragt ist, die auf einem
 Tatbestand des § 1 beruht.
 
-
 ## § 8 Anpassung
 
 (1) Die Hilfen nach § 3 Abs. 2 und § 4 ändern sich entsprechend dem
@@ -197,7 +182,6 @@ Bundesministerium für Gesundheit im Bundesanzeiger bekannt gemacht.
 zum 1. Juli 2000 entsprechend dem Vomhundertsatz angepasst, um den
 sich die Renten der gesetzlichen Rentenversicherung verändern.
 
-
 ## § 9 Übergang gesetzlicher Schadensersatzansprüche
 
 (1) § 81a des Bundesversorgungsgesetzes gilt mit der Maßgabe, dass der
@@ -208,7 +192,6 @@ zuständige Land übergeht.
 (2) Die eingezogenen Beträge führt das Land an den Bund und die in §
 10 Abs. 3 genannten Länder in dem Verhältnis ab, in dem diese sich an
 der Kostenlast beteiligt haben.
-
 
 ## § 10 Kostenträger
 
@@ -228,7 +211,6 @@ verpflichteten Ländern wird zu zwei Dritteln nach dem Verhältnis ihrer
 Steuereinnahmen und zu einem Drittel nach dem Verhältnis ihrer
 Bevölkerungszahl bestimmt.
 
-
 ## § 11 Zuständigkeit, Verfahren
 
 (1) Die Gewährung von Leistungen nach diesem Gesetz obliegt den für
@@ -243,7 +225,6 @@ Kriegsopferversorgung, mit Ausnahme der §§ 3 und 4, das Erste und
 Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des
 Sozialgerichtsgesetzes über das Vorverfahren sind anzuwenden.
 
-
 ## § 12 Rechtsweg
 
 Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses
@@ -251,7 +232,6 @@ Gesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit
 gegeben. Soweit das Sozialgerichtsgesetz besondere Vorschriften für
 die Kriegsopferversorgung enthält, gelten diese auch für die
 Streitigkeiten nach Satz 1.
-
 
 ## § 13 Übergangsvorschriften
 
@@ -273,11 +253,9 @@ Abs. 2 in Verbindung mit Abs. 1 und § 4 für denselben Zeitraum
 anzurechnen. Dies gilt entsprechend für bisher gewährte Heil- und
 Krankenbehandlung.
 
-
 ## (XXXX) §§ 14 und 15 (weggefallen)
 
 -
-
 
 ## § 16 Inkrafttreten
 

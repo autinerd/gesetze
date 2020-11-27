@@ -19,9 +19,7 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 8.7.2009 I 1781
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
 
 ### § 1 Anwendungsbereich
 
@@ -32,9 +30,7 @@ und anderen Verwaltungsregistern gespeicherten Daten sowie im Wege
 ergänzender Befragungen (registergestützter Zensus) im Jahre 2011
 durchgeführt werden soll.
 
-
 ## Abschnitt 2 - Aufbau des Anschriften- und Gebäuderegisters sowie eines Verzeichnisses zum Geburtsort und Geburtsstaat
-
 
 ### § 2 Anschriften- und Gebäuderegister
 
@@ -183,7 +179,6 @@ Auskunftspflichtige für die Gebäude- und Wohnungszählung:
 (4) Das Anschriften- und Gebäuderegister muss für die Durchführung des
 Zensus spätestens ab dem 31. Dezember 2010 nutzbar sein.
 
-
 ### § 3 Ortsverzeichnis
 
 (1) Das Statistische Bundesamt erstellt und führt ein von dem Register
@@ -203,10 +198,6 @@ der Länder für die Durchführung des Zensus genutzt.
 
 
 4.  Staaten, aus denen Zuzüge erfolgt sind.
-
-
-
-
 
 ### § 4 Übermittlung von Daten durch die Vermessungsbehörden
 
@@ -261,7 +252,6 @@ bis 2010 an das Bundesamt für Kartographie und Geodäsie.
 nach den Absätzen 1 und 2 auf Vollzähligkeit, ergänzt Datenlücken und
 übermittelt die vollständigen Angaben elektronisch an das Statistische
 Bundesamt.
-
 
 ### § 5 Übermittlung von Daten durch die Meldebehörden
 
@@ -338,7 +328,6 @@ gespeichert. Sie wird von den statistischen Ämtern des Bundes und der
 Länder für die Entwicklung von Stichprobenplänen und
 Hochrechnungsverfahren verwendet.
 
-
 ### § 6 Übermittlung von Daten durch die Bundesagentur für Arbeit
 
 Die Bundesagentur für Arbeit übermittelt für die am 30. September 2007
@@ -357,10 +346,6 @@ Merkmalen:
 
 
 4.  Status (beschäftigt oder arbeitslos).
-
-
-
-
 
 ### § 7 Zusammenführung der Angaben
 
@@ -383,7 +368,6 @@ Anschriftenbereiche. Das Ergebnis der Überprüfung wird von den
 statistischen Ämtern der Länder an das Statistische Bundesamt
 übermittelt.
 
-
 ### § 8 Ordnungsnummern
 
 (1) Für jede Anschrift, jedes Gebäude und jede Wohnung wird eine
@@ -396,7 +380,6 @@ das Merkmal „Schlüssel der Straße“ nach § 2 Abs. 3 Nr. 11 enthalten.
 sowie bei den beim Zensus erforderlichen Zusammenführungen der Daten
 der Registerauswertungen und der Daten der ergänzenden Befragungen
 verwendet.
-
 
 ### § 9 Sondergebäude
 
@@ -426,9 +409,7 @@ Unterbringung und Versorgung einer Gruppe von Personen dienen. Als
 Notunterkünfte gelten auch Anschriften, an denen Wohnungslose gemeldet
 sind.
 
-
 ## Abschnitt 3 - Übermittlung von Daten zur Vorbereitung einer Gebäude- und Wohnungszählung
-
 
 ### § 10 Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung
 
@@ -462,22 +443,18 @@ vier Wochen die Änderungen der Angaben zu den Merkmalen nach Absatz 1
 Satz 1, die gegenüber der Meldung nach Absatz 1 Satz 2 seit dem 1.
 April 2009 eingetreten sind.
 
-
 ## Abschnitt 4 - Gemeinsame Vorschriften, Inkrafttreten
-
 
 ### § 11 Geheimhaltung
 
 Für die Geheimhaltung der Einzelangaben über persönliche und sachliche
 Verhältnisse gilt § 16 des Bundesstatistikgesetzes.
 
-
 ### § 12 Nutzung allgemein zugänglicher Quellen
 
 Für Zwecke dieses Gesetzes können die statistischen Ämter des Bundes
 und der Länder auch Angaben aus allgemein zugänglichen Quellen
 verwenden.
-
 
 ### § 13 Datenübermittlungen
 
@@ -490,12 +467,10 @@ der elektronischen Übermittlung oder während ihres Transports oder
 ihrer Speicherung auf Datenträger nicht unbefugt gelesen, kopiert,
 verändert oder entfernt werden können.
 
-
 ### § 14 Kosten
 
 Eine Erstattung der Kosten von Datenübermittlungen an das Statistische
 Bundesamt erfolgt nicht.
-
 
 ### § 15 Löschung
 
@@ -512,7 +487,6 @@ frühestmöglichen Zeitpunkt, spätestens am Zensusstichtag gelöscht.
 frühestmöglichen Zeitpunkt nach Abschluss der Auswertung des Zensus,
 spätestens jedoch sechs Jahre nach dem Zensusstichtag, aufgelöst und
 die darin gespeicherten Daten gelöscht.
-
 
 ### § 16 Umwelt- und wohnungsstatistische Stichprobenerhebungen
 

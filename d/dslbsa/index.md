@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2441, 2444
 
-
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### § 1 Firma, Sitz und Geschäftsjahr
 
@@ -30,7 +26,6 @@ führt die Firma DSL Bank Aktiengesellschaft.
 (2) Die Gesellschaft hat ihren Sitz in Bonn.
 
 (3) Geschäftsjahr ist das Kalenderjahr.
-
 
 ### § 2 Gegenstand des Unternehmens
 
@@ -46,15 +41,11 @@ zu dienen. Sie kann auch andere Unternehmen gründen, erwerben und sich
 an ihnen beteiligen sowie solche Unternehmen leiten oder sich auf die
 Verwaltung der Beteiligung beschränken.
 
-
 ### § 3 Bekanntmachungen
 
 Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.
 
-
 ## II. - Grundkapital und Aktien
-
-
 
 ### § 4 Höhe und Einteilung des Grundkapitals
 
@@ -70,10 +61,7 @@ Die Form der Aktienurkunden und der Gewinnanteil- und
 Erneuerungsscheine bestimmt der Vorstand. Das Gleiche gilt für sonst
 von der Gesellschaft ausgegebene Wertpapiere.
 
-
 ## III. - Der Vorstand
-
-
 
 ### § 5 Zusammensetzung
 
@@ -87,14 +75,12 @@ ernennen.
 (3) Der Aufsichtsrat kann stellvertretende Vorstandsmitglieder
 bestellen.
 
-
 ### § 6 Vertretung der Gesellschaft
 
 Die Gesellschaft wird durch zwei Vorstandsmitglieder oder durch ein
 Vorstandsmitglied gemeinsam mit einem Prokuristen gesetzlich
 vertreten. Stellvertretende Vorstandsmitglieder vertreten die
 Gesellschaft nach außen wie ordentliche Vorstandsmitglieder.
-
 
 ### § 7 Geschäftsführung
 
@@ -104,7 +90,6 @@ Gesetze, der Satzung und der Geschäftsordnung des Vorstands.
 (2) Der Vorstand gibt sich durch einstimmigen Beschluss aller
 Vorstandsmitglieder eine Geschäftsordnung, die der Zustimmung des
 Aufsichtsrats bedarf.
-
 
 ### § 8 Zustimmungspflichtige Geschäfte
 
@@ -118,10 +103,7 @@ einem bestimmten Kreis von Geschäften allgemein oder für den Fall,
 dass das einzelne Geschäft bestimmten Bedingungen genügt, im Voraus
 erteilen.
 
-
 ## IV. - Aufsichtsrat
-
-
 
 ### § 9 Zusammensetzung, Amtsdauer, Amtsniederlegung
 
@@ -162,7 +144,6 @@ eines wichtigen Grundes bleibt unberührt.
 können durch einen mit einfacher Mehrheit zu fassenden
 Hauptversammlungsbeschluss abberufen werden.
 
-
 ### § 10 Vorsitzender und Stellvertreter
 
 (1) Der Aufsichtsrat wählt aus seiner Mitte einen Vorsitzenden und
@@ -175,13 +156,11 @@ ohne besondere Einberufung stattfindenden Sitzung.
 Amtszeit aus seinem Amt aus, so hat der Aufsichtsrat eine Neuwahl für
 die restliche Amtszeit des Ausgeschiedenen vorzunehmen.
 
-
 ### § 11 Geschäftsordnung
 
 Im Rahmen der zwingenden gesetzlichen Vorschriften und den
 Bestimmungen dieser Satzung gibt sich der Aufsichtsrat seine
 Geschäftsordnung.
-
 
 ### § 12 Einberufung
 
@@ -206,7 +185,6 @@ aufheben oder verlegen. Er ist berechtigt, eine begonnene Sitzung
 kurzfristig zu unterbrechen. Über längerfristige Unterbrechungen
 entscheidet der Vorsitzende vorbehaltlich einer abweichenden
 Mehrheitsentscheidung des Aufsichtsrats.
-
 
 ### § 13 Beschlussfassung
 
@@ -268,7 +246,6 @@ Aktionäre und der Arbeitnehmer teilnehmen würde oder sonst ein
 erheblicher Grund für die Vertagung vorliegt. Zu einer erneuten
 Vertagung ist der Vorsitzende nicht befugt.
 
-
 ### § 14 Ausschüsse
 
 (1) Der Aufsichtsrat kann aus seiner Mitte Ausschüsse bilden und deren
@@ -280,14 +257,12 @@ wenn nicht der Aufsichtsrat einen Vorsitzenden bestimmt. Für das
 Verfahren der Ausschüsse gelten die Regelungen in den §§ 12 Abs. 2 bis
 4 und 13 - mit Ausnahme des Zweitstimmrechts - entsprechend.
 
-
 ### § 15 Schweigepflicht
 
 Die Mitglieder des Aufsichtsrats haben - auch nach dem Ausscheiden aus
 dem Amt - über vertrauliche Angaben und Geheimnisse der Gesellschaft,
 namentlich Betriebs- und Geschäftsgeheimnisse, die ihnen durch ihre
 Tätigkeit im Aufsichtsrat bekannt werden, Stillschweigen zu bewahren.
-
 
 ### § 16 Vergütungen
 
@@ -303,10 +278,7 @@ Verhältnis der Zeit geringere Vergütung.
 (2) Die auf die Vergütung und Auslagen zu zahlende Umsatzsteuer wird
 von der Gesellschaft erstattet.
 
-
 ## V. - Hauptversammlung
-
-
 
 ### § 17 Ort der Einberufung
 
@@ -318,7 +290,6 @@ Einwohnerzahl 100.000 übersteigt.
 Hinterlegungstag (§ 18 Abs. 2) im Bundesanzeiger bekannt gemacht
 werden. Dabei werden der Tag der Bekanntmachung und der letzte
 Hinterlegungstag nicht mitgerechnet.
-
 
 ### § 18 Teilnahmerecht und Stimmrecht
 
@@ -344,7 +315,6 @@ Wertpapiersammelbank ist die hierüber auszustellende Bescheinigung
 spätestens am ersten Werktag - ausgenommen der Sonnabend - nach Ablauf
 der Hinterlegungsfrist bei der Gesellschaft einzureichen.
 
-
 ### § 19 Beschlussfassung
 
 (1) Jede Stückaktie gewährt in der Hauptversammlung eine Stimme.
@@ -354,7 +324,6 @@ Vorschriften entgegenstehen, mit einfacher Mehrheit der abgegebenen
 Stimmen und, soweit das Gesetz außer der Stimmenmehrheit eine
 Kapitalmehrheit vorschreibt, mit der einfachen Mehrheit des bei der
 Beschlussfassung vertretenen Grundkapitals gefasst.
-
 
 ### § 20 Vorsitz in der Hauptversammlung
 
@@ -371,10 +340,7 @@ gewählt.
 Reihenfolge, in der die Gegenstände der Tagesordnung verhandelt
 werden, sowie die Art und Reihenfolge der Abstimmungen.
 
-
 ## VI. - Beirat
-
-
 
 ### § 21 Einrichtung, Zusammensetzung, Amtsperiode
 
@@ -387,7 +353,6 @@ Zugehörigkeit zum Beirat.
 
 (3) Die Ernennung zum Mitglied des Beirats erfolgt für jeweils drei
 Jahre. Wiederholte Ernennungen sind möglich.
-
 
 ### § 22 Aufgabe, Stimmrechte, Vergütung
 
@@ -409,10 +374,7 @@ so erhält es die Vergütung zeitanteilig gewährt.
 (5) Die Vergütung wird fällig einen Tag nach der Hauptversammlung für
 das jeweils vorangegangene Geschäftsjahr.
 
-
 ## VII. - Jahresabschluß und Gewinnverwendung
-
-
 
 ### § 23 Jahresabschluss und ordentliche Hauptversammlung
 
@@ -440,7 +402,6 @@ stattzufinden hat. Sie beschließt über die Entlastung des Vorstands
 und des Aufsichtsrats, über die Wahl des Abschlussprüfers und über die
 Verwendung des Bilanzgewinns.
 
-
 ### § 24 Gewinnverwendung
 
 (1) Vorstand und Aufsichtsrat sind ermächtigt, bei der Feststellung
@@ -461,7 +422,6 @@ vorweg Zuweisungen zu gesetzlichen Rücklagen und Verlustvorträge
 abzuziehen.
 Der Bilanzgewinn wird an die Aktionäre verteilt, soweit die
 Hauptversammlung nicht eine andere Verwendung beschließt.
-
 
 ### § 25 Bundesrechnungshof
 

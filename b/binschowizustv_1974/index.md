@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 56 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten vom
 24\. Mai 1968 (Bundesgesetzbl. I S. 481), zuletzt geändert durch
 Artikel 29 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März
 1974 (Bundesgesetzbl. I S. 469), wird verordnet:
-
 
 ## § 1
 
@@ -67,18 +65,15 @@ Ordnungswidrigkeiten nach
 
 wird auf die Wasser- und Schiffahrtsdirektionen übertragen.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 134 Satz 2
 des Gesetzes über Ordnungswidrigkeiten auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am 1. Januar 1975 in Kraft.
-
 
 ## Schlußformel
 

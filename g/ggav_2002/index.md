@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 16.12.2011 I 2803
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 und § 6 in Verbindung mit § 7a nach Anhörung
@@ -29,7 +28,6 @@ der Bekanntmachung vom 29. September 1998 (BGBl. I S. 3114), die durch
 Artikel 250 Nr. 1 und 2 der Verordnung vom 29. Oktober 2001 (BGBl. I
 S. 2785) geändert worden sind, verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen:
-
 
 ## § 1 Geltungsbereich
 
@@ -73,10 +71,6 @@ Buchstaben haben folgende Bedeutung:
     Eisenbahn und Binnenschifffahrt nach § 1 Absatz 1 Satz 1 Nummer 1 für
     Beförderungen auf der Straße mit Fahrzeugen (Straßenverkehr).
 
-
-
-
-
 ## § 2 Geltungsbereich von Ausnahmegenehmigungen nach § 5 Absatz 1 Nummer 2 und Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
 
 Für Beförderungen zum und vom nächstgelegenen geeigneten Bahnhof
@@ -85,7 +79,6 @@ der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt auch
 bei Beförderungen im Straßenverkehr. In diesen Fällen ist ein Abdruck
 der jeweiligen Ausnahmegenehmigung dem Beförderungspapier beizufügen.
 
-
 ## § 3 Grenzüberschreitende Beförderung
 
 Soweit in einer Ausnahme in der Anlage zu dieser Verordnung nicht
@@ -93,21 +86,17 @@ ausdrücklich etwas anderes bestimmt ist, darf bei
 grenzüberschreitenden Beförderungen der innerstaatliche Teil der
 Beförderung nach den Vorschriften dieser Verordnung erfolgen.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2002 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1 Absatz 2)
 
@@ -269,9 +258,6 @@ In dieser Anlage bedeuten:
 *    *   VMBl
 
     *   Ministerialblatt des Bundesministeriums der Verteidigung
-
-
-
 
 ## **Inhaltsverzeichnis**
 
@@ -445,8 +431,6 @@ In dieser Anlage bedeuten:
 
     *   Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt
         betreiben
-
-
 
 ## **Ausnahme 1**
 
@@ -801,9 +785,6 @@ In dieser Anlage bedeuten:
     Dezember 2008 (BGBl. I S. 2868; 2010 S. 380) geändert worden ist,
     bleiben unberührt.
 
-
-
-
 ## **Ausnahme 9 (B, E, S)**
 
 ## **Tanks aus glasfaserverstärktem Kunststoff**
@@ -848,9 +829,6 @@ In dieser Anlage bedeuten:
 
     Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken:
     „Ausnahme 9” .
-
-
-
 
 ## **Ausnahme 10**
 
@@ -911,9 +889,6 @@ GGVSEB**
     Bescheinigungen nach der Ausnahme Nr. 40 der GGAV vom 23. Juni 1993
     dürfen weiterhin für diese Ausnahme verwendet werden.
 
-
-
-
 ## **Ausnahme 14 (S)**
 
 **Beförderung von bestimmten Stoffen**
@@ -958,9 +933,6 @@ GGVSEB**
 
     Bescheinigungen nach der Ausnahme Nr. 47 der GGAV vom 23. Juni 1993
     dürfen weiterhin für diese Ausnahme verwendet werden.
-
-
-
 
 ## **Ausnahme 15**
 
@@ -1067,9 +1039,6 @@ GGVSEB**
 **5** **Befristung**
 
     Die Ausnahme 18 ist bis zum 30. Juni 2015 befristet.
-
-
-
 
 ## **Ausnahme 19 (B, E, S)**
 
@@ -1716,9 +1685,6 @@ GGVSEB**
 
 7.2 Zusätzlich zu den sonst vorgeschriebenen Angaben ist zu vermerken:
     „Ausnahme 19”.
-
-
-
 
 ## Ausnahme 20 (B, E, S)
 
@@ -3345,9 +3311,6 @@ GGVSEB**
 
     Die Ausnahme 20 ist bis zum 30. Juni 2015 befristet.
 
-
-
-
 ## Ausnahme 21 (B, E, S)
 
 ## **Zusammenpacken von Patronen mit Waffenpflegemitteln**
@@ -3418,9 +3381,6 @@ GGVSEB**
 
     Die Ausnahme 21 ist bis zum 30. Juni 2015 befristet.
 
-
-
-
 ## Ausnahme 22 (E, S)
 
 ## **Saug-Druck-Tanks**
@@ -3486,9 +3446,6 @@ GGVSEB**
 
     Bei Beförderungen in Tankcontainern ist im Beförderungspapier nach
     Abschnitt 5.4.1 ADR/RID zusätzlich zu vermerken: „Ausnahme 22”.
-
-
-
 
 ## Ausnahme 23
 
@@ -3625,9 +3582,6 @@ GGVSEB**
 **5** **Befristung**
 
     Die Ausnahme 24 ist bis zum 30. Juni 2015 befristet.
-
-
-
 
 ## Ausnahme 25
 
@@ -3936,9 +3890,6 @@ gefährlichen Gütern**
 
     Die Ausnahme 28 ist bis zum 30. Juni 2015 befristet.
 
-
-
-
 ## Ausnahme 29
 
 ## – offen –
@@ -3972,9 +3923,6 @@ gefährlichen Gütern**
 **3** **Befristung**
 
     Die Ausnahme ist bis zum 30. Juni 2015 befristet.
-
-
-
 
 ## Ausnahme 32 (S)
 
@@ -4081,9 +4029,6 @@ Verantwortung der Bundeswehr**
     „Ausnahme 32 (BwXX)“, wobei XX der Nummer der Allgemeinen
     Ausnahmegenehmigung der Bundeswehr gemäß Nummer 1 Buchstabe a bis h
     entspricht.
-
-
-
 
 ## Ausnahme 33 (M)
 

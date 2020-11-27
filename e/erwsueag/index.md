@@ -21,17 +21,13 @@ Geändert durch
 
 Stand: Das G ist gem. Bek. v. 12.12.2008; 2009 II 39 mWv 1.1.2009 in Kraft getreten
 
-
 ## Abschnitt 1 - Zentrale Behörde
-
-
 
 ### § 1 Bestimmung der Zentralen Behörde
 
 Zentrale Behörde nach Artikel 28 des Haager Übereinkommens vom 13.
 Januar 2000 über den internationalen Schutz von Erwachsenen (BGBl.
 2007 II S. 323 - Übereinkommen) ist das Bundesamt für Justiz.
-
 
 ### § 2 Übersetzungen bei eingehenden Ersuchen
 
@@ -44,13 +40,11 @@ einer Übersetzung in die englische Sprache begleitet ist.
 (2) Die Zentrale Behörde kann erforderliche Übersetzungen selbst in
 Auftrag geben.
 
-
 ### § 3 Übersetzungen bei ausgehenden Ersuchen
 
 Beschafft ein Antragsteller erforderliche Übersetzungen für Anträge,
 die in einem anderen Vertragsstaat zu erledigen sind, nicht selbst,
 veranlasst die Zentrale Behörde die Übersetzungen.
-
 
 ### § 4 Maßnahmen der Zentralen Behörde
 
@@ -79,7 +73,6 @@ Behörde andere Stellen zur Aufenthaltsermittlung einschaltet,
 erforderlichen personenbezogenen Daten; diese dürfen nur für den Zweck
 verwendet werden, für den sie übermittelt worden sind.
 
-
 ### § 5 Justizverwaltungsverfahren; Vergütung für Übersetzungen
 
 Die Tätigkeit der Zentralen Behörde gilt als
@@ -87,10 +80,7 @@ Justizverwaltungsverfahren. Die Höhe der Vergütung für die von der
 Zentralen Behörde veranlassten Übersetzungen richtet sich nach dem
 Justizvergütungs- und -entschädigungsgesetz.
 
-
 ## Abschnitt 2 - Gerichtliche Zuständigkeit und Zuständigkeitskonzentration
-
-
 
 ### § 6 Sachliche und örtliche Zuständigkeit; Zuständigkeitskonzentration
 
@@ -137,7 +127,6 @@ untergebracht werden soll.
 (4) Artikel 147 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 gilt entsprechend.
 
-
 ### § 7 Zuständigkeitskonzentration für andere Betreuungssachen
 
 (1) Das Betreuungsgericht, bei dem ein in § 6 Abs. 1 Satz 1 genanntes
@@ -178,10 +167,7 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit bleibt unberührt.
 (5) Artikel 147 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 gilt entsprechend.
 
-
 ## Abschnitt 3 - Anerkennungsfeststellung, Vollstreckbarerklärung, Konsultationsverfahren und Bescheinigungen
-
-
 
 ### § 8 Allgemeine Verfahrensvorschriften für die Anerkennungsfeststellung und Vollstreckbarerklärung
 
@@ -229,13 +215,11 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit gelten entsprechend.
 im Verzug kann das Gericht die sofortige Wirksamkeit des Beschlusses
 anordnen.
 
-
 ### § 9 Bindungswirkung der Anerkennungsfeststellung
 
 Die Feststellung nach Artikel 23 des Übereinkommens, dass die
 Voraussetzungen für die Anerkennung vorliegen oder nicht vorliegen,
 ist für Gerichte und Verwaltungsbehörden bindend.
-
 
 ### § 10 Vollstreckungsklausel
 
@@ -246,7 +230,6 @@ auf Antrag mit einer Vollstreckungsklausel versehen wird.
 
 (2) § 20 Abs. 1 Satz 1 und 2 sowie § 23 des Internationalen
 Familienrechtsverfahrensgesetzes gelten entsprechend.
-
 
 ### § 11 Aufhebung oder Änderung von Entscheidungen über die Anerkennungsfeststellung oder Vollstreckbarerklärung
 
@@ -261,7 +244,6 @@ Vollstreckbarerklärung in einem besonderen Verfahren beantragen. Die
 (2) Für die Entscheidung über den Antrag ist das Betreuungsgericht
 ausschließlich zuständig, das im ersten Rechtszug über die
 Anerkennungsfeststellung oder Vollstreckbarerklärung entschieden hat.
-
 
 ### § 12 Widerspruch im Konsultationsverfahren
 
@@ -328,7 +310,6 @@ Abs. 4, 5, §§ 318, 325 Abs. 1 und § 338 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit sowie § 8 Abs. 1 Satz 1, Abs. 3 und 4
 entsprechend anzuwenden.
-
 
 ### § 13 Bescheinigungen über inländische Schutzmaßnahmen
 

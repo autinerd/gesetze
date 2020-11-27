@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1754
 
-
 ## (XXXX)
 
 Die nicht geringe Menge der Stoffe im Sinne des § 6a Absatz 2a Satz 1
 des Arzneimittelgesetzes ist die in der Anlage bestimmte Menge. Die
 nicht geringe Menge wird für die freie Verbindung des betreffenden
 Stoffes angegeben.
-
 
 ## Anlage
 

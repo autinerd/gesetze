@@ -19,8 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 13.12.2010 I 2108
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Satz 1 Nr. 2 des Postpersonalrechtsgesetzes
@@ -31,13 +29,11 @@ der Finanzen im Einvernehmen mit dem Bundesministerium des Innern auf
 Vorschlag des Vorstands der Deutschen Postbank AG und nach Anhörung
 der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost:
 
-
 ## § 1 Anwendung der Arbeitszeitverordnung
 
 Für die bei der Deutschen Postbank AG beschäftigten Beamtinnen und
 Beamten gelten die Vorschriften der Arbeitszeitverordnung, soweit in
 den §§ 2 bis 7 nichts anderes bestimmt ist.
-
 
 ## § 2 Regelmäßige Arbeitszeit
 
@@ -50,7 +46,6 @@ des § 3 der Arbeitszeitverordnung möglich. Darüber hinaus darf die
 Arbeitszeit an Sonn- und Feiertagen auf bis zu zwölf Stunden
 verlängert werden, wenn dadurch zusätzliche freie Schichten an Sonn-
 und Feiertagen erreicht werden.
-
 
 ## § 3 Gleitende Arbeitszeit
 
@@ -97,7 +92,6 @@ im Sinne des § 3 Abs. 1 des Postpersonalrechtsgesetzes kann festlegen,
 dass an bestimmten Tagen allgemein kein Dienst zu leisten und die
 ausfallende Zeit vor- oder nachzuarbeiten ist.
 
-
 ## § 4 Ruhepausen
 
 (1) Die Arbeit ist spätestens nach Überschreiten einer Arbeitszeit von
@@ -109,7 +103,6 @@ werden.
 
 (2) Ruhepausen werden nicht auf die Arbeitszeit angerechnet.
 
-
 ## § 5 Ort und Zeit der Dienstleistung
 
 Der Dienst ist grundsätzlich an der Dienststelle und innerhalb der
@@ -117,7 +110,6 @@ betriebsüblichen Arbeitszeit zu leisten, soweit nicht eine andere
 Regelung erforderlich oder zweckmäßig ist. Die Arbeitszeit beginnt und
 endet grundsätzlich am Arbeitsplatz. Bei Telearbeit kann von Satz 1
 abgewichen werden, soweit betriebliche Belange nicht entgegenstehen.
-
 
 ## § 6 Erprobung neuer Arbeitszeitmodelle
 
@@ -138,7 +130,6 @@ dem Zeitpunkt des Ausgleichs beginnt der nächste Ausgleichszeitraum.
 
 (3) Im Rahmen dieser Regelungen ist § 3 Abs. 3 und 4 nicht anzuwenden.
 
-
 ## § 7 Arbeitszeit bei einem anderen Unternehmen
 
 Der Vorstand der Deutschen Postbank AG kann die durchschnittliche
@@ -153,7 +144,6 @@ Bundesministerium der Finanzen über den Erlass solcher Anordnungen
 unverzüglich zu unterrichten. Das Bundesministerium der Finanzen kann
 die Anordnungen im Rahmen der Rechtsaufsicht ändern oder aufheben.
 Satz 1 gilt entsprechend für die Festlegung dienstfreier Tage.
-
 
 ## § 8 Inkrafttreten
 

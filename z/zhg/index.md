@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 33 G v. 6.12.2011 I 2515
 
-
 ## I. - Die Approbation als Zahnarzt
-
-
 
 ### § 1
 
@@ -85,7 +82,6 @@ nach Bracketentfernung durch den Zahnarzt.
 (7) Ausübung des zahnärztlichen Berufs ist die Ausübung der
 Zahnheilkunde unter der Berufsbezeichnung „Zahnarzt“ oder
 „Zahnärztin“.
-
 
 ### § 2
 
@@ -398,7 +394,6 @@ des § 17 keine Anwendung.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 3
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung
@@ -429,7 +424,6 @@ Berufserlaubnis nach § 13 vorzusehen.
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ### § 4
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die
@@ -459,7 +453,6 @@ Eignungsprüfung tatsächlich nicht nachgewiesen worden sind.
 Voraussetzung nach § 2 Abs. 1 Satz 1 Nr. 2 weggefallen ist. Sie kann
 widerrufen werden, wenn nachträglich eine der Voraussetzungen nach § 2
 Abs. 1 Satz 1 Nr. 3 weggefallen ist.
-
 
 ### § 5
 
@@ -494,18 +487,15 @@ vorliegen.
 (3) Der Zahnarzt, dessen Approbation ruht, darf den zahnärztlichen
 Beruf nicht ausüben.
 
-
 ### § 6
 
 (weggefallen)
-
 
 ### § 7
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
 Bedingung erklärt wird, ist unwirksam.
-
 
 ### § 7a
 
@@ -518,10 +508,7 @@ zurückgestellt und zunächst eine Erlaubnis zur Ausübung des
 zahnärztlichen Berufs nach § 13 Abs. 1 bis zu einer Dauer von zwei
 Jahren erteilt werden.
 
-
 ## II. - Eingliederung der Dentisten
-
-
 
 ### § 8
 
@@ -538,7 +525,6 @@ der eine ausländische Bestallung als Zahnarzt besitzt, die Bestallung
 als Zahnarzt unter Befreiung von der Teilnahme an einem
 Fortbildungskursus erteilt werden kann.
 
-
 ### § 9
 
 (1) Dentistenassistenten, die bei Inkrafttreten dieses Gesetzes ein
@@ -550,7 +536,6 @@ Fortbildungskursus nach § 8 teilgenommen haben.
 
 (2) In besonderen Fällen kann die in Absatz 1 bezeichnete Frist
 verlängert werden.
-
 
 ### § 10
 
@@ -564,13 +549,11 @@ vor einer staatlichen Prüfungskommission bestanden haben.
 (2) Die Prüfungsordnung erlässt das Bundesministerium für Gesundheit
 mit Zustimmung des Bundesrates durch Rechtsverordnung.
 
-
 ### § 11
 
 Die Approbation als Zahnarzt darf in den Fällen der §§ 8 bis 10 nur
 erteilt werden, wenn der Bewerber das 25. Lebensjahr vollendet hat und
 kein Versagungsgrund nach § 2 Abs. 1 Satz 1 Nr. 2 und 3 vorliegt.
-
 
 ### § 11a
 
@@ -579,15 +562,11 @@ alle in diesen Vorschriften vorgesehenen besonderen Voraussetzungen
 für eine Erteilung der Approbation als Zahnarzt am 27. Januar 1980
 erfüllt hatten.
 
-
 ## III. - Sonderbestimmungen
-
-
 
 ### § 12
 
 (weggefallen)
-
 
 ### § 13
 
@@ -636,7 +615,6 @@ Gemeinschaft eine Gleichstellung ergibt, keine Anwendung.
 (4) (weggefallen)
 
 (5) (weggefallen)
-
 
 ### § 13a
 
@@ -760,16 +738,11 @@ darüber auszustellen, daß
 
 3.  er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-
-
-
 ### § 14
 
 Für die Ausübung der Zahnheilkunde in Grenzgebieten durch Zahnärzte,
 die im Geltungsbereich dieses Gesetzes keine Niederlassung haben,
 gelten die hierfür abgeschlossenen zwischenstaatlichen Verträge.
-
 
 ### § 15
 
@@ -780,10 +753,7 @@ Mindest- und Höchstsätze für die zahnärztlichen Leistungen
 festzusetzen. Dabei ist den berechtigten Interessen der Zahnärzte und
 der zur Zahlung der Entgelte Verpflichteten Rechnung zu tragen.
 
-
 ## IV. - Zuständigkeiten
-
-
 
 ### § 16
 
@@ -840,7 +810,6 @@ Monaten zu erfolgen.
 
 (6) (weggefallen)
 
-
 ### § 17
 
 Das Bundesministerium für Gesundheit erlässt im Einvernehmen mit dem
@@ -848,10 +817,7 @@ Bundesministerium für Wirtschaft und Technologie durch
 Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung
 von § 8 Abs. 1 erforderlichen Bestimmungen.
 
-
 ## V. - Straf-, Übergangs- und Schlußbestimmungen
-
-
 
 ### § 18
 
@@ -866,17 +832,12 @@ bestraft,
 2.  wer die Zahnheilkunde ausübt, solange durch vollziehbare Verfügung das
     Ruhen der Approbation angeordnet ist.
 
-
-
-
-
 ### § 19
 
 Wer vor dem Inkrafttreten dieses Gesetzes die Zahnheilkunde ausgeübt
 hat, ohne im Besitz einer Bestallung als Arzt oder Zahnarzt zu sein,
 darf sie im bisherigen Umfange weiter ausüben. Die §§ 4 und 5 sind
 entsprechend anzuwenden.
-
 
 ### § 20
 
@@ -934,7 +895,6 @@ dieser Verordnung soll bis zum 31. Dezember 1992 geregelt werden, daß
 das Studium der Zahnheilkunde künftig eine
 Pflichtunterrichtsveranstaltung in der Kinderzahnheilkunde zu umfassen
 und sich die zahnärztliche Prüfung auf dieses Fach zu erstrecken hat.
-
 
 ### § 20a
 
@@ -1070,16 +1030,13 @@ gegenüber der Ausbildung aufweist, die in diesem Gesetz und in der
 Rechtsverordnung nach § 3 Absatz 1 geregelt ist. § 2 Absatz 2 Satz 3
 bis 8 gilt entsprechend.
 
-
 ### § 21 (weggefallen)
 
 -
 
-
 ### § 22
 
 (vollzogene Änderungsvorschrift)
-
 
 ### § 23
 
@@ -1087,11 +1044,9 @@ Alle entgegenstehenden Vorschriften, insbesondere die §§ 29, 40, 53,
 54 und 147 der Gewerbeordnung treten insoweit außer Kraft, als sie
 sich auf Zahnärzte und Dentisten beziehen.
 
-
 ### § 24
 
 (Inkrafttreten)
-
 
 ### Anlage (zu § 2 Abs. 1 Satz 4)
 

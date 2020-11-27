@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 6.10.2011 I 1986
 
-
 ## Abschnitt 1 - Bundeswasserstraßen
-
-
 
 ### § 1 Binnenwasserstraßen, Seewasserstraßen
 
@@ -112,7 +109,6 @@ mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte
 Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt,
 Bezeichnungen für sie festgesetzt oder geändert werden.
 
-
 ### § 2 Bestandsänderung
 
 (1) Soll ein Gewässer Bundeswasserstraße werden oder soll ein Gewässer
@@ -125,7 +121,6 @@ ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen den
 Bedeutung durch Rechtsverordnung zu bewirken.
 
 (2) In Rechtsvorschriften nach Absatz 1 ist die Anlage 1 zu ändern.
-
 
 ### § 3 Erweiterung und Durchstiche
 
@@ -140,10 +135,7 @@ hat, den bisherigen Eigentümer zu entschädigen.
 (3) Die Absätze 1 und 2 gelten auch für Durchstiche an
 Bundeswasserstraßen.
 
-
 ## Abschnitt 2 - Wahrung der Bedürfnisse der Landeskultur und der Wasserwirtschaft
-
-
 
 ### § 4 Einvernehmen mit den Ländern
 
@@ -151,10 +143,7 @@ Bei der Verwaltung, dem Ausbau und dem Neubau von Bundeswasserstraßen
 sind die Bedürfnisse der Landeskultur und der Wasserwirtschaft im
 Einvernehmen mit den Ländern zu wahren.
 
-
 ## Abschnitt 3 - Befahren mit Wasserfahrzeugen und Gemeingebrauch
-
-
 
 ### § 5 Befahren mit Wasserfahrzeugen
 
@@ -171,7 +160,6 @@ Umwelt, Naturschutz und Reaktorsicherheit erlässt, geregelt,
 eingeschränkt oder untersagt werden, soweit dies zur Erreichung des
 Schutzzweckes erforderlich ist.
 
-
 ### § 6 Gemeingebrauch
 
 Durch Rechtsverordnung nach § 46 Nr. 3 kann der Gemeingebrauch
@@ -181,10 +169,7 @@ Zustand notwendig ist. Unter der gleichen Voraussetzung können die
 Behörden der Wasser- und Schifffahrtsverwaltung des Bundes durch
 Verfügung den Gemeingebrauch regeln, beschränken oder untersagen.
 
-
 ## Abschnitt 4 - Unterhaltung der Bundeswasserstraßen und Betrieb der bundeseigenen Schifffahrtsanlagen
-
-
 
 ### § 7 Allgemeine Vorschriften über Unterhaltung und Betrieb
 
@@ -206,7 +191,6 @@ bleiben hiervon unberührt.
 (4) Bei der Unterhaltung der Bundeswasserstraßen sowie der Errichtung
 und dem Betrieb der bundeseigenen Schifffahrtsanlagen sind die
 Erfordernisse des Denkmalschutzes zu berücksichtigen.
-
 
 ### § 8 Umfang der Unterhaltung
 
@@ -250,7 +234,6 @@ zu dem Gesetz über den Staatsvertrag betreffend den Übergang der
 Wasserstraßen von den Ländern auf das Reich vom 18. Februar 1922
 (RGBl. I S. 222) bleiben unberührt.
 
-
 ### § 9 Maßnahmen in Landflächen an Bundeswasserstraßen
 
 (1) Maßnahmen in Landflächen an Bundeswasserstraßen, die notwendig
@@ -260,7 +243,6 @@ vorherigen Planfeststellung. Die §§ 14 bis 21 sind anzuwenden.
 
 (2) (aufgehoben)
 
-
 ### § 10 Anlagen und Einrichtungen Dritter
 
 Anlagen und Einrichtungen in, über oder unter einer Bundeswasserstraße
@@ -269,7 +251,6 @@ unterhalten und zu betreiben, dass die Unterhaltung der
 Bundeswasserstraße, der Betrieb der bundeseigenen Schifffahrtsanlagen
 oder der Schifffahrtszeichen sowie die Schifffahrt nicht
 beeinträchtigt werden.
-
 
 ### § 11 Besondere Pflichten im Interesse der Unterhaltung
 
@@ -297,10 +278,7 @@ Ausübung der Genehmigung durch Arbeiten zur Unterhaltung vorübergehend
 behindert oder unterbrochen wird. Auf die Interessen des zur Duldung
 Verpflichteten ist Rücksicht zu nehmen.
 
-
 ## Abschnitt 5 - Ausbau und Neubau der Bundeswasserstraßen
-
-
 
 ### § 12 Allgemeine Vorschriften über Ausbau und Neubau
 
@@ -344,7 +322,6 @@ Bewirtschaftungsziele berücksichtigen. Ausbau- oder Neubaumaßnahmen
 werden so durchgeführt, dass mehr als nur geringfügige Auswirkungen
 auf den Hochwasserschutz vermieden werden.
 
-
 ### § 13 Planungen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
@@ -362,7 +339,6 @@ Aufwendungen für Entschädigungen, so sind sie ihr vom Träger der
 Maßnahmen zu ersetzen. Muss infolge dieser Maßnahmen ein Bebauungsplan
 aufgestellt, geändert, ergänzt oder aufgehoben werden, so sind ihr
 auch die dadurch entstandenen Kosten zu ersetzen.
-
 
 ### § 14 Planfeststellung, vorläufige Anordnung
 
@@ -410,7 +386,6 @@ Genehmigung und die vorläufige Anordnung des Einvernehmens mit der
 zuständigen Landesbehörde. Über die Erteilung des Einvernehmens ist
 innerhalb von drei Monaten nach Übermittlung des Entscheidungsentwurfs
 zu entscheiden.
-
 
 ### § 14a Anhörungsverfahren
 
@@ -481,10 +456,6 @@ mit folgenden Maßgaben:
     Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder
     hätten bekannt sein müssen oder für die Rechtmäßigkeit der
     Entscheidung von Bedeutung sind.
-
-
-
-
 
 ### § 14b Planfeststellungsbeschluss, Plangenehmigung
 
@@ -571,13 +542,6 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
         Einwendungen erhoben hat und der Ausbau oder Neubau nicht dem Wohl der
         Allgemeinheit dient.
 
-
-
-
-
-
-
-
 ### § 14c Rechtswirkungen der Planfeststellung und der Plangenehmigung
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
@@ -605,10 +569,6 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
     nicht.
 
-
-
-
-
 ### § 14d Planänderung vor Fertigstellung des Vorhabens
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
@@ -620,7 +580,6 @@ des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
-
 
 ### § 14e Rechtsbehelfe
 
@@ -692,7 +651,6 @@ durch Planergänzung oder durch ein ergänzendes Verfahren behoben
 werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
 bleiben unberührt.
 
-
 ### § 15 Veränderungssperre, Vorkaufsrecht
 
 (1) Sobald der Plan ausgelegt oder andere Gelegenheit gegeben ist, den
@@ -715,10 +673,7 @@ Entschädigung verlangen.
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Bund an den
 betroffenen Flächen ein Vorkaufsrecht zu.
 
-
 ### (XXXX) §§ 17 bis 19 (weggefallen)
-
-
 
 ### § 16 Besondere Pflichten im Interesse des Vorhabens
 
@@ -742,7 +697,6 @@ Entschädigung verlangen, wenn ihm durch eine Maßnahme nach Absatz 1
 unmittelbare Vermögensnachteile entstehen.
 
 (4) § 11 Abs. 4 gilt entsprechend.
-
 
 ### § 20 Vorzeitige Besitzeinweisung
 
@@ -805,7 +759,6 @@ Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann
 nur innerhalb eines Monats nach der Zustellung des
 Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
-
 ### § 21 Ausschluss von Ansprüchen
 
 (1) Dient der Ausbau oder der Neubau dem Wohl der Allgemeinheit und
@@ -820,20 +773,15 @@ festgesteöllten Plans angeordnete Auflagen nicht erfüllt hat.
 
 (2) Absatz 1 Satz 1 gilt nicht für vertragliche Ansprüche.
 
-
 ### § 22
 
 (weggefallen)
-
 
 ### § 23
 
 (weggefallen)
 
-
 ## Abschnitt 6 - Ordnungsvorschriften
-
-
 
 ### § 24 Strompolizei
 
@@ -849,7 +797,6 @@ Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des
 Grundgesetzes) wird insoweit eingeschränkt.
 
 (3) Die Hafenaufsicht (Hafenpolizei) bleibt unberührt.
-
 
 ### § 25 Verantwortliche Personen
 
@@ -872,7 +819,6 @@ die tatsächliche Gewalt gegen den Willen des Eigentümers oder eines
 anderen Verfügungsberechtigten ausübt, oder wenn er auf einen im
 Einverständnis mit dem Eigentümer schriftlich gestellten Antrag als
 allein verantwortlich anerkannt worden ist.
-
 
 ### § 26 Inanspruchnahme nicht verantwortlicher Personen
 
@@ -904,7 +850,6 @@ Schaden eine angemessene Entschädigung in Geld verlangen.
 und aufrechterhalten werden, als nicht andere Maßnahmen zur
 Beseitigung der Gefahr oder der Störung getroffen werden können.
 
-
 ### § 27 Strompolizeiverordnungen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -920,7 +865,6 @@ und Schifffahrtsdirektionen übertragen.
 (4) Zuständig für die Änderung oder Aufhebung einer
 Strompolizeiverordnung ist die im Zeitpunkt der Änderung oder
 Aufhebung für ihren Erlass zuständige Behörde.
-
 
 ### § 28 Strompolizeiliche Verfügungen
 
@@ -942,7 +886,6 @@ können sie ihm auferlegt werden.
 (4) Die Vorschriften der §§ 486 bis 487e des Handelsgesetzbuchs sowie
 der §§ 4 bis 5m des Binnenschifffahrtsgesetzes bleiben unberührt.
 
-
 ### § 29 Verhältnismäßigkeit, Wahl der Mittel
 
 (1) Eine strompolizeiliche Verfügung darf nicht zu einem Schaden
@@ -963,7 +906,6 @@ Antrag kann nur bis zum Ablauf einer Frist gestellt werden, die dem
 Betroffenen zur Ausführung der Verfügung gesetzt wird, spätestens bis
 zum Ablauf der Frist für die Erhebung der verwaltungsgerichtlichen
 Anfechtungsklage.
-
 
 ### § 30 Besondere Befugnisse zur Beseitigung von Schifffahrtshindernissen
 
@@ -1048,7 +990,6 @@ Mehrere Verpflichtete haften als Gesamtschuldner. Die Vorschriften der
 §§ 486 bis 487e des Handelsgesetzbuchs sowie der §§ 4 bis 5m des
 Binnenschifffahrtsgesetzes bleiben unberührt.
 
-
 ### § 31 Strom- und schifffahrtspolizeiliche Genehmigung
 
 (1) Einer strom- und schifffahrtspolizeilichen Genehmigung des Wasser-
@@ -1126,7 +1067,6 @@ gleichwohl aus Gründen des Wohls der Allgemeinheit erteilt werden.
 (6) Die Genehmigung ersetzt nicht die nach anderen Rechtsvorschriften
 erforderlichen Verwaltungsakte.
 
-
 ### § 32 Rücknahme und Widerruf der strom- und schifffahrtspolizeilichen Genehmigung
 
 (1) Das Wasser- und Schifffahrtsamt kann die strom- und
@@ -1155,10 +1095,6 @@ Entschädigung widerrufen, wenn der Unternehmer
 2.  ihre Ausübung binnen einer ihm gesetzten angemessenen Frist nicht
     begonnen oder die Genehmigung drei Jahre ununterbrochen nicht ausgeübt
     hat.
-
-
-
-
 
 ### § 33 Besondere Pflichten im Interesse der Überwachung
 
@@ -1191,10 +1127,7 @@ Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
 es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
 der für ihn tätigen Personen handelt.
 
-
 ## Abschnitt 7 - Besondere Aufgaben
-
-
 
 ### § 34 Schifffahrtszeichen
 
@@ -1239,7 +1172,6 @@ Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Wirtschaft und Technologie festgelegten
 Vergütungssätze fest.
 
-
 ### § 35 Wasserstands- und Hochwassermeldedienst, Eisbekämpfung und Feuerschutz
 
 (1) Die Wasser- und Schifffahrtsverwaltung des Bundes unterhält neben
@@ -1256,10 +1188,7 @@ Mündungstrichtern der Binnenwasserstraßen den Verkehr behindern
 können, ist der Bund zur Unterhaltung des Feuerschutzes nach Maßgabe
 einer mit den Ländern zu schließenden Vereinbarung zuständig.
 
-
 ## Abschnitt 8 - Entschädigung
-
-
 
 ### § 36 Allgemeine Vorschriften über Entschädigung
 
@@ -1297,7 +1226,6 @@ nicht mehr zweckmäßig genutzt werden, kann der Grundstückseigentümer
 statt einer Entschädigung verlangen, dass der Entschädigungspflichtige
 das Grundstück zum Verkehrswert erwirbt.
 
-
 ### § 37 Einigung, Festsetzungsbescheid
 
 (1) Zuständig für die Festsetzung der Entschädigung ist die Wasser-
@@ -1329,7 +1257,6 @@ aufzunehmen. Er ist zu begründen und den Beteiligten mit einer
 Belehrung über den Rechtsweg (§ 39) zuzustellen; § 58 der
 Verwaltungsgerichtsordnung gilt entsprechend.
 
-
 ### § 38 Vollstreckung
 
 (1) Die Zwangsvollstreckung nach der Zivilprozessordnung findet statt
@@ -1352,7 +1279,6 @@ in Satz 1 bezeichnete Gericht.
 
 (3) Die vollstreckbare Ausfertigung des Festsetzungsbescheides wird
 nur erteilt, wenn und soweit er für die Beteiligten unanfechtbar ist.
-
 
 ### § 39 Rechtsweg
 
@@ -1381,10 +1307,7 @@ festgesetzt wird.
 (4) Das Gericht kann im Falle des Absatzes 3 Satz 2 auf Antrag des
 Berechtigten den Bescheid für vorläufig vollstreckbar erklären.
 
-
 ## Abschnitt 9 - Kreuzungen mit öffentlichen Verkehrswegen
-
-
 
 ### § 40 Duldungspflicht
 
@@ -1408,10 +1331,6 @@ Kreuzungsanlagen.
 
 
 3.  die sonstigen öffentlichen Bahnen auf besonderen Bahnkörpern.
-
-
-
-
 
 ### § 41 Kosten der Herstellung von Kreuzungsanlagen
 
@@ -1467,10 +1386,6 @@ mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
     Absatz 5 entstehenden Kosten unter Anwendung von Erfahrungswerten für
     die Baukosten in vereinfachter Form ermittelt werden.
 
-
-
-
-
 ### § 42 Unterhaltung der Kreuzungsanlagen
 
 (1) Die Kreuzungsanlagen im Zuge öffentlicher Verkehrswege hat der
@@ -1516,7 +1431,6 @@ dieses Gesetzes die Tragung der Kosten nach bestehenden
 Rechtsverhältnissen anders geregelt ist oder wenn etwas anderes
 vereinbart wird.
 
-
 ### § 43 Durchfahrten unter Brücken im Zuge öffentlicher Verkehrswege
 
 (1) Ist die Durchfahrt unter Brücken im Zuge öffentlicher Verkehrswege
@@ -1558,10 +1472,7 @@ wahrnimmt. Durch die Vereinbarung werden die Obliegenheiten der
 Wasser- und Schifffahrtsverwaltung des Bundes nach den Absätzen 2 bis
 4 nicht berührt.
 
-
 ## Abschnitt 10 - Durchführung des Gesetzes
-
-
 
 ### § 44 Enteignung für Zwecke der Bundeswasserstraßen
 
@@ -1579,7 +1490,6 @@ zugrunde zu legen; er ist für die Enteignungsbehörde bindend.
 
 (3) Die Enteignung wird von den zuständigen Landesbehörden nach
 Landesrecht durchgeführt.
-
 
 ### § 45 Zuständigkeiten
 
@@ -1620,7 +1530,6 @@ Verwaltung der Elbe und anderer Reichswasserstraßen durch die
 Hansestadt Hamburg vom 31. Dezember 1938 (RGBl. 1939 I S. 3) - bleiben
 unberührt.
 
-
 ### § 46 Rechtsverordnungen
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -1647,7 +1556,6 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch
 Rechtsverordnung diese Ermächtigung auf die Wasser- und
 Schifffahrtsdirektionen übertragen.
 
-
 ### § 47 Kostenregelung
 
 (1) Für Amtshandlungen nach den §§ 14, 14b, 14d, 28, 31, 32, 34, 37
@@ -1666,7 +1574,6 @@ gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die
 Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
-
 ### § 48 Anforderungen der Sicherheit und Ordnung
 
 Die Wasser- und Schifffahrtsverwaltung des Bundes ist dafür
@@ -1675,15 +1582,11 @@ Schifffahrtszeichen sowie die bundeseigenen wasserbaulichen Anlagen
 allen Anforderungen der Sicherheit und Ordnung genügen. Behördlicher
 Genehmigungen, Erlaubnisse und Abnahmen bedarf es nicht.
 
-
 ## Abschnitt 11 - Bußgeldvorschriften, Schlussvorschriften
-
-
 
 ### § 49
 
 (weggefallen)
-
 
 ### § 50 Ordnungswidrigkeiten
 
@@ -1744,10 +1647,7 @@ Euro geahndet werden.
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Wasser- und Schifffahrtsdirektion.
 
-
 ### (XXXX) §§ 51 bis 55 (weggefallen)
-
-
 
 ### § 56 Überleitungsbestimmungen
 
@@ -1782,21 +1682,17 @@ Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
 Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
 soweit der Plan noch nicht außer Kraft getreten ist.
 
-
 ### § 57
 
 (weggefallen)
-
 
 ### § 58
 
 (weggefallen)
 
-
 ### § 59
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2) Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 
@@ -2626,10 +2522,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Nordsee, Verbindungslinie zwischen dem Kirchturm von Langwarden und
         der Mündung des Arenschen Baches
 
-
-
-
-
 ### Anlage 2 (zu § 14e Abs. 1) Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
 Fundstelle des Originaltextes: BGBl. I 2007, 985
@@ -2668,10 +2560,6 @@ Fundstelle des Originaltextes: BGBl. I 2007, 985
 *    *   6
 
     *   Unter- und Außenweser
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1111) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

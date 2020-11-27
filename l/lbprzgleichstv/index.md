@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1987, 1233
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -31,7 +29,6 @@ Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981
 für Wirtschaft und vom Bundesminister für Verkehr im Einvernehmen mit
 dem Bundesminister für Bildung und Wissenschaft mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1
 
@@ -47,17 +44,14 @@ werden, werden mit den Zeugnissen über das Bestehen der
 Abschlußprüfung in dem Ausbildungsberuf
 Verwaltungsfachangestellter/Verwaltungsfachangestellte gleichgestellt.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

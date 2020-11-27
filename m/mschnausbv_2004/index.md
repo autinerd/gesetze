@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 9. 5.2005 I 1292
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -28,14 +27,12 @@ Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist,
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Maßschneider/Maßschneiderin wird gemäß § 25 der
 Handwerksordnung zur Ausbildung für das Gewerbe Nummer 19, Damen- und
 Herrenschneider, der Anlage B Abschnitt 1 der Handwerksordnung
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -46,7 +43,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes
 Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche
 Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -60,7 +56,6 @@ betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 10 und
 11 nachzuweisen.
 
-
 ## § 4 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -68,7 +63,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -121,10 +115,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse
@@ -136,13 +126,11 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -150,7 +138,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -189,7 +176,6 @@ festlegen, technische Unterlagen nutzen, Grundsätze der
 Kundenorientierung sowie Anforderungen des Sicherheits- und
 Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der
 Wirtschaftlichkeit berücksichtigen kann.
-
 
 ## § 10 Gesellenprüfung
 
@@ -333,7 +319,6 @@ mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich
 des schriftlichen Teils der Prüfung dürfen keine ungenügenden
 Leistungen erbracht worden sein.
 
-
 ## § 10a Anrechnungsregelung
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem
@@ -343,7 +328,6 @@ und Fähigkeiten bis zum vollen Umfang der dort zurückgelegten
 Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2 des
 Berufsbildungsgesetzes bleibt unberührt.
 
-
 ## § 11 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -351,11 +335,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Maßschneider/zur Maßschneiderin
 

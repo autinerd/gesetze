@@ -22,12 +22,10 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 5.4.2011 I 554
 
-
 ## § 1 Finanzhilfen des Bundes
 
 Der Bund gewährt den Ländern Finanzhilfen für Investitionen zur
 Verbesserung der Verkehrsverhältnisse der Gemeinden.
-
 
 ## § 2 Förderungsfähige Vorhaben
 
@@ -130,7 +128,6 @@ Sachsen, Sachsen-Anhalt und Thüringen Maßnahmen der Grunderneuerung
 bis zum 31. Dezember 2003 gefördert werden, soweit sie Straßenbrücken
 über Schienenwege der ehemaligen Deutschen Reichsbahn betreffen.
 
-
 ## § 3 Voraussetzungen der Förderung
 
 Voraussetzung für die Förderung nach § 2 ist, daß
@@ -170,7 +167,6 @@ Voraussetzung für die Förderung nach § 2 ist, daß
 
 3\. (weggefallen)
 
-
 ## § 4 Höhe und Umfang der Förderung
 
 (1) Aus den Finanzhilfen des Bundes ist die Förderung von Vorhaben
@@ -201,13 +197,6 @@ Grunderwerb sind nur die Gestehungskosten zuwendungsfähig.
 
     b)  vor dem 1. Januar 1961 erworben worden sind.
 
-
-
-
-
-
-
-
 ## § 5 Programme
 
 (1) Für Vorhaben, die aus den Finanzhilfen gefördert werden sollen,
@@ -225,7 +214,6 @@ aufzunehmen.
 (3) Die Programme sind abzustellen auf die voraussichtlich zur
 Verfügung stehenden Mittel. Weitere Vorhaben können nachrichtlich
 aufgenommen werden.
-
 
 ## § 6 Aufstellung der Programme
 
@@ -290,12 +278,10 @@ auf der Grundlage der Programme den Ländern die Finanzhilfen zu.
 (7) Für Maßnahmen nach § 2 Abs. 3 Satz 3 stellen die dort genannten
 Länder ein gemeinsames Programm auf.
 
-
 ## § 7 Wirkung der Programme
 
 Die Finanzhilfen dürfen nur für Vorhaben verwendet werden, die in die
 Programme aufgenommen sind.
-
 
 ## § 8 Mitteilung über die Durchführung der Programme
 
@@ -307,7 +293,6 @@ enthält. Die Berichterstattung der Länder erstreckt sich außerdem auf
 den Nachweis, inwieweit die geförderten Vorhaben dem Ziel der
 Barrierefreiheit nach § 3 Nr. 1 Buchstabe d entsprechen.
 
-
 ## § 9 Vereinfachter Verwendungsnachweis
 
 (1) Die Länder weisen dem Bundesministerium für Verkehr, Bau und
@@ -318,7 +303,6 @@ zuwendungsfähigen Kosten sowie der Summe der aus den Finanzhilfen
 ausgezahlten Zuwendungen.
 
 (2) Ein weitergehender Verwendungsnachweis der Länder entfällt.
-
 
 ## § 10 Zweckbindung und Verteilung der Mittel
 
@@ -367,7 +351,6 @@ Mittel nach den Absätzen 1 und 2 zu verwenden
 
 (4) (weggefallen)
 
-
 ## § 11 Vorhaben der Eisenbahnen des Bundes
 
 (1) Führen die Eisenbahnen des Bundes oder andere Unternehmen, die
@@ -381,7 +364,6 @@ und 14 gelten sinngemäß. Für Anlagen vorhandener S-Bahnen gilt auch §
 
 (2) Die Förderung von Vorhaben nach Absatz 1 bedarf der Zustimmung des
 beteiligten Landes.
-
 
 ## § 12 Öffentliche Schutzräume
 
@@ -406,11 +388,9 @@ nachkommt.
 Sachsen, Sachsen-Anhalt und Thüringen finden die Absätze 1 bis 3 keine
 Anwendung.
 
-
 ## § 13
 
 (weggefallen)
-
 
 ## § 14 Übergangsvorschrift
 
@@ -446,16 +426,13 @@ Kraftfahrzeuge im ehemaligen Zonenrandgebiet.
 (5) Vorhaben nach § 11, die vor dem 1. Januar 1992 begonnen wurden,
 werden als Teil der Programme nach § 6 Abs. 1 abgewickelt.
 
-
 ## § 15
 
 (Änderung des Bundesfernstraßengesetzes)
 
-
 ## § 16
 
 (weggefallen)
-
 
 ## § 17
 

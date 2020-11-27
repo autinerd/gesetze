@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1309
 
-
 ## I.
 
 Nach Artikel 1 Abs. 1 Satz 2 der Anordnung des Bundespräsidenten über
@@ -53,14 +52,12 @@ widerruflich
 
 jeweils für ihren oder seinen Geschäftsbereich übertragen.
 
-
 ## II.
 
 Für besondere Fälle bleibt die Ernennung und Entlassung der unter
 Abschnitt I genannten Bundesbeamtinnen und Bundesbeamten der
 Bundesministerin oder dem Bundesminister für Wirtschaft und
 Technologie vorbehalten.
-
 
 ## III.
 
@@ -69,7 +66,6 @@ diesem Zeitpunkt an ist die Anordnung über die Ernennung und
 Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich
 des Bundesministeriums für Wirtschaft und Arbeit vom 7. August 2003
 (BGBl. I S. 1685) nicht mehr anzuwenden.
-
 
 ## Schlussformel
 

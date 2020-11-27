@@ -19,36 +19,22 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 209 Abs. 5 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 -
-
-
 
 ## Art 2 -
 
-
-
 ## Art 3 -
-
-
 
 ## Art 4 - (weggefallen)
 
-
-
 ## Art 5 -
 
-
-
 ## Art 6 - Verbot der Zweckentfremdung von Wohnraum
-
-
 
 ## § 1
 
@@ -78,7 +64,6 @@ b)  die anderweitige Verwendung von Wohnraum, der nach dem 31. Mai 1990
 erteilt werden. Ist die Wirksamkeit der Genehmigung erloschen, so ist
 der Raum wieder als Wohnraum zu behandeln.
 
-
 ## § 2
 
 (1) Ordnungswidrig handelt, wer ohne die erforderliche Genehmigung
@@ -88,7 +73,6 @@ oder überläßt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ## § 3
 
 § 27 Abs. 7 des Wohnraumförderungsgesetzes und § 7 Abs. 3 des
@@ -96,26 +80,15 @@ Wohnungsbindungsgesetzes in Verbindung mit § 27 Abs. 7 des
 Wohnraumförderungsgesetzes sowie die landesrechtlichen Vorschriften
 über Belegungsbindungen bleiben unberührt.
 
-
 ## Art 7 -
-
-
 
 ## Art 8 -
 
-
-
 ## Art 9 - Gesetz zur Regelung der Wohnungsvermittlung
-
-
 
 ## Art 10 - Gesetz zur Regelung von Ingenieur- und Architektenleistungen
 
-
-
 ## Art 11 - Schlußvorschriften
-
-
 
 ## § 1
 
@@ -124,7 +97,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 2
 

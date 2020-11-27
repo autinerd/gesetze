@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 1008
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -71,7 +69,6 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 "WIDERSTAND GEGEN DEN NATIONALSOZIALISMUS".
 Zwischen Ende und Anfang der Randschrift befindet sich ein Punkt. Der
 Entwurf der Münze stammt von Paul Effert, Kaarst.
-
 
 ## (XXXX) Abbildung der Münze
 

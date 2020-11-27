@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1993, 707
 
-
-
 ## Art 1
 
 (1) Dem in Wien am 3. April 1989 unterzeichneten Vertrag zwischen der
@@ -37,7 +35,6 @@ in dem die jeweiligen Grenzabschnitte betreffenden Umfang - bei den
 für diese Grenzabschnitte jeweils zuständigen bayerischen
 Vermessungsämtern zur Einsicht bereit.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach den Artikel 2 und 3 des Vertrages der
@@ -46,7 +43,6 @@ Inkrafttretens des Vertrages die in den Regierungsbezirken
 Niederbayern und Oberbayern geltenden Vorschriften des Bundesrechts in
 Kraft. Gleichzeitig tritt das österreichische Recht in diesen
 Gebietsteilen außer Kraft.
-
 
 ## Art 3
 
@@ -68,7 +64,6 @@ durch Rechtsverordnung
 
 (2) Die Regierung des Freistaates Bayern kann die Ermächtigung auf die
 Landesjustizverwaltung übertragen.
-
 
 ## Art 4
 

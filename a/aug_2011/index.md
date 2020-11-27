@@ -16,12 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 898
 
-
 ## Kapitel 1 - Allgemeiner Teil
 
-
 ### Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
-
 
 #### § 1 Anwendungsbereich
 
@@ -92,13 +89,11 @@ Vorschriften dieses Gesetzes vor. Die Regelungen der in Absatz 1 Satz
 geltendes Recht der Europäischen Union durch die
 Durchführungsbestimmungen dieses Gesetzes nicht berührt.
 
-
 #### § 2 Allgemeine gerichtliche Verfahrensvorschriften
 
 Soweit in diesem Gesetz nichts anderes geregelt ist, werden die
 Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
 den Angelegenheiten der freiwilligen Gerichtsbarkeit angewendet.
-
 
 #### § 3 Begriffsbestimmungen
 
@@ -142,12 +137,7 @@ Im Sinne dieses Gesetzes
 7.  ist ein Exequaturverfahren das Verfahren, mit dem ein ausländischer
     Titel zur Zwangsvollstreckung im Inland zugelassen wird.
 
-
-
-
-
 ### Abschnitt 2 - Zentrale Behörde
-
 
 #### § 4 Zentrale Behörde
 
@@ -172,7 +162,6 @@ Justiz fest. Die Übertragung ist vom Bundesministerium der Justiz im
 Bundesanzeiger bekannt zu geben. Die Beliehene unterliegt der
 Fachaufsicht des Bundesministeriums der Justiz. § 5 Absatz 5 und die
 §§ 7 und 9 werden auf die Tätigkeit der Beliehenen nicht angewendet.
-
 
 #### § 5 Aufgaben und Befugnisse der zentralen Behörde
 
@@ -203,7 +192,6 @@ Rückübermittlung überzahlter Beträge oder für andere bei der
 Wahrnehmung der Aufgaben der zentralen Behörde erforderlich werdende
 Zahlungen entsprechend.
 
-
 #### § 6 Unterstützung durch das Jugendamt
 
 Wird die zentrale Behörde tätig, um Unterhaltsansprüche Minderjähriger
@@ -211,12 +199,9 @@ und junger Volljähriger, die das 21. Lebensjahr noch nicht vollendet
 haben, geltend zu machen und durchzusetzen, kann sie das Jugendamt um
 Unterstützung ersuchen.
 
-
 ### Abschnitt 3 - Ersuchen um Unterstützung in Unterhaltssachen
 
-
 #### Unterabschnitt 1 - Ausgehende Ersuchen
-
 
 ##### § 7 Vorprüfung durch das Amtsgericht; Zuständigkeitskonzentration
 
@@ -229,7 +214,6 @@ des Kammergerichts entscheidet das Amtsgericht Pankow-Weißensee.
 (2) Das Vorprüfungsverfahren ist ein Justizverwaltungsverfahren.
 
 (3) Für das Vorprüfungsverfahren werden keine Kosten erhoben.
-
 
 ##### § 8 Inhalt und Form des Antrages
 
@@ -296,7 +280,6 @@ deutschen Rechts entgegenstehen.
 des Staates zu richten, in dem der Anspruch geltend gemacht werden
 soll.
 
-
 ##### § 9 Umfang der Vorprüfung
 
 (1) Der Vorstand des Amtsgerichts oder der im Rahmen der Verteilung
@@ -335,7 +318,6 @@ beglaubigten Abschriften unmittelbar an die zentrale Behörde.
 Satz 1 den Antrag der zentralen Behörde zur Entscheidung über die
 Weiterleitung des Antrages vor.
 
-
 ##### § 10 Übersetzung des Antrages
 
 (1) Der Antragsteller hat dem Antrag nebst Anlagen von einem
@@ -363,7 +345,6 @@ Zivilprozessordnung erfüllt.
 
 (4) § 1077 Absatz 4 der Zivilprozessordnung bleibt unberührt.
 
-
 ##### § 11 Weiterleitung des Antrages durch die zentrale Behörde
 
 (1) Die zentrale Behörde prüft, ob der Antrag den förmlichen
@@ -378,7 +359,6 @@ Ersuchens.
 (3) Lehnt die zentrale Behörde die Weiterleitung des Antrages ab, ist
 § 9 Absatz 2 Satz 2 und 3 entsprechend anzuwenden.
 
-
 ##### § 12 Registrierung eines bestehenden Titels im Ausland
 
 Liegt über den Unterhaltsanspruch bereits eine inländische
@@ -389,9 +369,7 @@ geltende Recht dies vorsieht. Die §§ 7 bis 11 sind entsprechend
 anzuwenden; eine Prüfung der Gesetzmäßigkeit des vorgelegten
 inländischen Titels findet nicht statt.
 
-
 #### Unterabschnitt 2 - Eingehende Ersuchen
-
 
 ##### § 13 Übersetzung des Antrages
 
@@ -428,7 +406,6 @@ Gegenseitigkeit (§ 1 Absatz 1 Satz 1 Nummer 3) im Verkehr mit
 bestimmten Staaten oder im Einzelfall von dem Erfordernis einer
 Übersetzung absehen und die Übersetzung selbst besorgen.
 
-
 ##### § 14 Inhalt und Form des Antrages
 
 (1) Der Inhalt eines Antrages aus einem anderen Mitgliedstaat mit
@@ -461,7 +438,6 @@ zugehörigen Personenstandsurkunden und andere sachdienliche
 Schriftstücke sollen beigefügt und sonstige Beweismittel genau
 bezeichnet sein.
 
-
 ##### § 15 Behandlung einer vorläufigen Entscheidung
 
 In Verfahren mit förmlicher Gegenseitigkeit (§ 1 Absatz 1 Satz 1
@@ -471,9 +447,7 @@ das ersuchte Gericht ergangen ist, als eingehendes Ersuchen auf
 Erwirkung eines Unterhaltstitels. § 8 Absatz 2 und § 14 Absatz 2 Satz
 1 gelten entsprechend.
 
-
 ### Abschnitt 4 - Datenerhebung durch die zentrale Behörde
-
 
 #### § 16 Auskunftsrecht der zentralen Behörde zur Herbeiführung oder Änderung eines Titels
 
@@ -505,7 +479,6 @@ darf die zentrale Behörde folgende Daten erheben:
 (3) Kann die zentrale Behörde den Aufenthaltsort des Verpflichteten
 nach den Absätzen 1 und 2 nicht ermitteln, darf sie einen Suchvermerk
 im Zentralregister veranlassen.
-
 
 #### § 17 Auskunftsrecht zum Zweck der Anerkennung, Vollstreckbarerklärung und Vollstreckung eines Titels
 
@@ -544,7 +517,6 @@ zu. Die zentrale Behörde darf nach vorheriger Androhung außerdem
 (2) Daten über das Vermögen des Schuldners darf die zentrale Behörde
 nur erheben, wenn dies für die Vollstreckung erforderlich ist.
 
-
 #### § 18 Benachrichtigung über die Datenerhebung
 
 (1) Die zentrale Behörde benachrichtigt den Antragsteller
@@ -557,7 +529,6 @@ denn, die Vollstreckung des Titels würde dadurch vereitelt oder
 wesentlich erschwert werden. Ungeachtet des Satzes 1 hat die
 Benachrichtigung spätestens 90 Tage nach Erhalt der Auskunft zu
 erfolgen.
-
 
 #### § 19 Übermittlung und Löschung von Daten
 
@@ -573,9 +544,7 @@ zentrale Behörde unverzüglich zu löschen. Die Löschung ist zu
 protokollieren. § 35 Absatz 3 des Bundesdatenschutzgesetzes bleibt
 unberührt.
 
-
 ### Abschnitt 5 - Verfahrenskostenhilfe
-
 
 #### § 20 Voraussetzungen für die Bewilligung von Verfahrenskostenhilfe
 
@@ -584,7 +553,6 @@ Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit den
 §§ 114 bis 127 der Zivilprozessordnung entsprechend anzuwenden, soweit
 in diesem Gesetz nichts anderes bestimmt ist.
-
 
 #### § 21 Zuständigkeit für Anträge auf Verfahrenskostenhilfe nach der Richtlinie 2003/8/EG
 
@@ -599,7 +567,6 @@ Amtsgericht Pankow-Weißensee.
 
 (2) Für eingehende Ersuchen gilt § 1078 Absatz 1 Satz 1 der
 Zivilprozessordnung.
-
 
 #### § 22 Verfahrenskostenhilfe nach Artikel 46 der Verordnung (EG) Nr. 4/2009
 
@@ -622,7 +589,6 @@ Erstattung der im Wege der Verfahrenskostenhilfe verauslagten Kosten
 verlangen, wenn dies unter Berücksichtigung der finanziellen
 Verhältnisse des Antragstellers der Billigkeit entspricht.
 
-
 #### § 23 Verfahrenskostenhilfe für die Anerkennung, Vollstreckbarerklärung und Vollstreckung von unterhaltsrechtlichen Titeln
 
 Hat der Antragsteller im Ursprungsstaat für das Erkenntnisverfahren
@@ -633,7 +599,6 @@ Bewilligung von Verfahrenskostenhilfe wird der Antragsteller endgültig
 von der Zahlung der in § 122 Absatz 1 der Zivilprozessordnung
 genannten Kosten befreit. Dies gilt nicht, wenn die Bewilligung nach §
 124 Nummer 1 der Zivilprozessordnung aufgehoben wird.
-
 
 #### § 24 Verfahrenskostenhilfe für Verfahren mit förmlicher Gegenseitigkeit
 
@@ -648,9 +613,7 @@ der in § 122 Absatz 1 der Zivilprozessordnung genannten Kosten
 befreit, sofern die Bewilligung nicht nach § 124 Nummer 1 der
 Zivilprozessordnung aufgehoben wird.
 
-
 ### Abschnitt 6 - Ergänzende Zuständigkeitsregelungen; Zuständigkeitskonzentration
-
 
 #### § 25 Internationale Zuständigkeit nach Artikel 3 Buchstabe c der Verordnung (EG) Nr. 4/2009
 
@@ -705,7 +668,6 @@ Nr. 4/2009              zuständig, wenn
 deutsche Gerichte auf Grund der deutschen Staatsangehörigkeit nur
 eines der Beteiligten zuständig sind.
 
-
 #### § 26 Örtliche Zuständigkeit
 
 (1) Örtlich zuständig nach Artikel 3 Buchstabe c der Verordnung (EG)
@@ -730,13 +692,11 @@ Gerichtsbarkeit.
 (2) § 233 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit bleibt unberührt.
 
-
 #### § 27 Örtliche Zuständigkeit für die Auffang- und Notzuständigkeit
 
 Sind die deutschen Gerichte nach den Artikeln 6 oder 7 der Verordnung
 (EG) Nr. 4/2009 international zuständig, ist ausschließlich das
 Amtsgericht Pankow-Weißensee in Berlin örtlich zuständig.
-
 
 #### § 28 Zuständigkeitskonzentration; Verordnungsermächtigung
 
@@ -756,7 +716,6 @@ aller oder mehrerer Oberlandesgerichte zuzuweisen. Die
 Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltungen übertragen.
 
-
 #### § 29 Zuständigkeit im Anwendungsbereich der Verordnung (EG) Nr. 1896/2006
 
 In Bezug auf die Zuständigkeit im Anwendungsbereich der Verordnung
@@ -765,12 +724,9 @@ Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. L
 399 vom 30.12.2006, S. 1) bleibt § 1087 der Zivilprozessordnung
 unberührt.
 
-
 ## Kapitel 2 - Anerkennung und Vollstreckung von Entscheidungen
 
-
 ### Abschnitt 1 - Verfahren ohne Exequatur nach der Verordnung (EG) Nr. 4/2009
-
 
 #### § 30 Verzicht auf Vollstreckungsklausel; Unterlagen
 
@@ -788,7 +744,6 @@ Verordnung (EG) Nr. 4/2009 eine Übersetzung oder ein Transkript
 vorzulegen, so sind diese Unterlagen von einer Person, die in einem
 der Mitgliedstaaten hierzu befugt ist, in die deutsche Sprache zu
 übersetzen.
-
 
 #### § 31 Anträge auf Verweigerung, Beschränkung oder Aussetzung der Vollstreckung nach Artikel 21 der Verordnung (EG) Nr. 4/2009
 
@@ -810,7 +765,6 @@ Zwangsvollstreckung (Artikel 21 Absatz 3 der Verordnung (EG) Nr.
 4/2009) entscheidet das Gericht durch einstweilige Anordnung. Die
 Entscheidung ist unanfechtbar.
 
-
 #### § 32 Einstellung der Zwangsvollstreckung
 
 Die Zwangsvollstreckung ist entsprechend § 775 Nummer 1 und 2 und §
@@ -822,7 +776,6 @@ Beschränkung der Vollstreckbarkeit vorlegt. Auf Verlangen ist eine
 Entscheidung von einer Person, die in einem Mitgliedstaat hierzu
 befugt ist, in die deutsche Sprache zu übersetzen.
 
-
 #### § 33 Einstweilige Einstellung bei Wiedereinsetzung, Rechtsmittel und Einspruch
 
 (1) Hat der Schuldner im Ursprungsstaat Wiedereinsetzung beantragt
@@ -833,7 +786,6 @@ das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
 
 (2) Zuständig ist das in § 35 Absatz 1 und 2 bestimmte Gericht.
-
 
 #### § 34 Bestimmung des vollstreckungsfähigen Inhalts eines ausländischen Titels
 
@@ -860,9 +812,7 @@ freiwilligen Gerichtsbarkeit statthaft. § 61 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 
-
 ### Abschnitt 2 - Gerichtliche Zuständigkeit für Verfahren zur Anerkennung und Vollstreckbarerklärung ausländischer Entscheidungen
-
 
 #### § 35 Gerichtliche Zuständigkeit; Zuständigkeitskonzentration; Verordnungsermächtigung
 
@@ -907,12 +857,9 @@ einem Notar für vollstreckbar erklärt werden im Anwendungsbereich
 Die Vorschriften für das Verfahren der Vollstreckbarerklärung durch
 ein Gericht gelten sinngemäß.
 
-
 ### Abschnitt 3 - Verfahren mit Exequatur nach der Verordnung (EG) Nr. 4/2009 und den Abkommen der Europäischen Union
 
-
 #### Unterabschnitt 1 - Zulassung der Zwangsvollstreckung aus ausländischen Titeln
-
 
 ##### § 36 Antragstellung
 
@@ -944,7 +891,6 @@ befugt ist:
 versehen werden soll, und seiner Übersetzung, soweit eine solche
 vorgelegt wird, sollen je zwei Abschriften beigefügt werden.
 
-
 ##### § 37 Zustellungsempfänger
 
 (1) Hat der Antragsteller in dem Antrag keinen
@@ -960,7 +906,6 @@ Inland zugestellt werden kann.
 (3) Die Absätze 1 und 2 sind auf Verfahren nach der Verordnung (EG)
 Nr. 4/2009 nicht anzuwenden.
 
-
 ##### § 38 Verfahren
 
 (1) Die Entscheidung ergeht ohne mündliche Verhandlung. Jedoch kann
@@ -971,7 +916,6 @@ Beschleunigung dient.
 
 (2) Im ersten Rechtszug ist die Vertretung durch einen Rechtsanwalt
 nicht erforderlich.
-
 
 ##### § 39 Vollstreckbarkeit ausländischer Titel in Sonderfällen
 
@@ -992,7 +936,6 @@ Antrag des Antragstellers der Antragsgegner zu hören. In diesem Fall
 sind alle Beweismittel zulässig. Das Gericht kann auch die mündliche
 Verhandlung anordnen.
 
-
 ##### § 40 Entscheidung
 
 (1) Ist die Zwangsvollstreckung aus dem Titel zuzulassen, so
@@ -1010,7 +953,6 @@ das Gericht durch mit Gründen versehenen Beschluss ab. Die Kosten sind
 dem Antragsteller aufzuerlegen.
 
 (3) Der Beschluss wird mit Bekanntgabe an die Beteiligten wirksam.
-
 
 ##### § 41 Vollstreckungsklausel
 
@@ -1051,7 +993,6 @@ versehen. Sie ist entweder auf die Ausfertigung des Titels oder auf
 ein damit zu verbindendes Blatt zu setzen. Falls eine Übersetzung des
 Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
-
 ##### § 42 Bekanntgabe der Entscheidung
 
 (1) Lässt das Gericht die Zwangsvollstreckung zu (§ 40 Absatz 1), sind
@@ -1068,9 +1009,7 @@ des Titels sowie eine Bescheinigung über die bewirkte Zustellung zu
 Vollstreckungsklausel ab (§ 40 Absatz 2), ist der Beschluss dem
 Antragsteller zuzustellen.
 
-
 #### Unterabschnitt 2 - Beschwerde, Rechtsbeschwerde
-
 
 ##### § 43 Beschwerdegericht; Einlegung der Beschwerde; Beschwerdefrist
 
@@ -1121,7 +1060,6 @@ ausgeschlossen.
 (5) Die Beschwerde ist dem Beschwerdegegner von Amts wegen
 zuzustellen.
 
-
 ##### § 44 Einwendungen gegen den zu vollstreckenden Anspruch im Beschwerdeverfahren
 
 (1) Der Schuldner kann mit der Beschwerde, die sich gegen die
@@ -1135,7 +1073,6 @@ Zwangsvollstreckung aus einem gerichtlichen Vergleich oder einer
 öffentlichen Urkunde richtet, kann der Schuldner die Einwendungen
 gegen den Anspruch selbst ungeachtet der in Absatz 1 enthaltenen
 Beschränkung geltend machen.
-
 
 ##### § 45 Verfahren und Entscheidung über die Beschwerde
 
@@ -1162,7 +1099,6 @@ darf, ist nur aufzunehmen, wenn das Beschwerdegericht eine Anordnung
 nach § 52 Absatz 2 erlassen hat. Der Inhalt des Zusatzes bestimmt sich
 nach dem Inhalt der Anordnung.
 
-
 ##### § 46 Statthaftigkeit und Frist der Rechtsbeschwerde
 
 (1) Gegen den Beschluss des Beschwerdegerichts findet die
@@ -1176,7 +1112,6 @@ Beschlusses (§ 45 Absatz 3).
 (4) § 75 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 
-
 ##### § 47 Einlegung und Begründung der Rechtsbeschwerde
 
 (1) Die Rechtsbeschwerde wird durch Einreichen der Beschwerdeschrift
@@ -1189,7 +1124,6 @@ Soweit die Rechtsbeschwerde darauf gestützt wird, dass das
 Beschwerdegericht von einer Entscheidung des Gerichtshofs der
 Europäischen Union abgewichen sei, muss die Entscheidung, von der der
 angefochtene Beschluss abweicht, bezeichnet werden.
-
 
 ##### § 48 Verfahren und Entscheidung über die Rechtsbeschwerde
 
@@ -1211,9 +1145,7 @@ Geschäftsstelle dieses Gerichts die Vollstreckungsklausel. § 40 Absatz
 1 Satz 2 und 4, §§ 41 und 42 Absatz 1 gelten entsprechend. Ein Zusatz
 über die Beschränkung der Zwangsvollstreckung entfällt.
 
-
 #### Unterabschnitt 3 - Beschränkung der Zwangsvollstreckung auf Sicherungsmaßregeln und unbeschränkte Fortsetzung der Zwangsvollstreckung
-
 
 ##### § 49 Prüfung der Beschränkung
 
@@ -1226,7 +1158,6 @@ bestimmte Maßnahme der Zwangsvollstreckung mit dieser Beschränkung
 vereinbar sei, sind im Wege der Erinnerung nach § 766 der
 Zivilprozessordnung bei dem Vollstreckungsgericht (§ 764 der
 Zivilprozessordnung) geltend zu machen.
-
 
 ##### § 50 Sicherheitsleistung durch den Schuldner
 
@@ -1241,7 +1172,6 @@ Vollstreckungsmaßregeln sind aufzuheben, wenn der Schuldner durch eine
 öffentliche Urkunde die zur Abwendung der Zwangsvollstreckung
 erforderliche Sicherheitsleistung nachweist.
 
-
 ##### § 51 Versteigerung beweglicher Sachen
 
 Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
@@ -1250,7 +1180,6 @@ Vollstreckungsgericht auf Antrag anordnen, dass die Sache versteigert
 und der Erlös hinterlegt werde, wenn sie der Gefahr einer
 beträchtlichen Wertminderung ausgesetzt ist oder wenn ihre
 Aufbewahrung unverhältnismäßige Kosten verursachen würde.
-
 
 ##### § 52 Unbeschränkte Fortsetzung der Zwangsvollstreckung; besondere gerichtliche Anordnungen
 
@@ -1273,7 +1202,6 @@ Zivilprozessordnung ist entsprechend anzuwenden.
 Antrag des Schuldners eine Anordnung nach Absatz 2 erlassen. Der
 Bundesgerichtshof kann auf Antrag des Gläubigers eine nach Absatz 2
 erlassene Anordnung des Beschwerdegerichts abändern oder aufheben.
-
 
 ##### § 53 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
 
@@ -1310,7 +1238,6 @@ ein Beschluss des Beschwerdegerichts, dass der Titel zur
 Zwangsvollstreckung nicht zugelassen werde, verkündet oder zugestellt
 ist.
 
-
 ##### § 54 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
 
 (1) Die Zwangsvollstreckung aus dem Titel, zu dem der Urkundsbeamte
@@ -1336,12 +1263,7 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 3.  wenn der Bundesgerichtshof die Rechtsbeschwerde des Schuldners
     zurückgewiesen hat.
 
-
-
-
-
 #### Unterabschnitt 4 - Feststellung der Anerkennung einer ausländischen Entscheidung
-
 
 ##### § 55 Verfahren
 
@@ -1353,7 +1275,6 @@ eine Entscheidung aus einem anderen Staat anzuerkennen ist, sind die
 (2) Ist der Antrag auf Feststellung begründet, so beschließt das
 Gericht, die Entscheidung anzuerkennen.
 
-
 ##### § 56 Kostenentscheidung
 
 In den Fällen des § 55 Absatz 2 sind die Kosten dem Antragsgegner
@@ -1363,12 +1284,9 @@ Antragsteller aufzuerlegen, wenn der Antragsgegner durch sein
 Verhalten keine Veranlassung zu dem Antrag auf Feststellung gegeben
 hat.
 
-
 ### Abschnitt 4 - Anerkennung und Vollstreckung von Unterhaltstiteln nach völkerrechtlichen Verträgen
 
-
 #### Unterabschnitt 1 - Allgemeines
-
 
 ##### § 57 Anwendung von Vorschriften
 
@@ -1378,12 +1296,10 @@ völkerrechtlichen Verträgen sind die Vorschriften der §§ 36 bis 56
 entsprechend anzuwenden, soweit in diesem Abschnitt nichts anderes
 bestimmt ist.
 
-
 ##### § 58 Anhörung
 
 Das Gericht entscheidet in dem Verfahren nach § 36 ohne Anhörung des
 Antragsgegners.
-
 
 ##### § 59 Beschwerdefrist
 
@@ -1402,16 +1318,13 @@ Satz 2) zu vermerken. Die Bestimmungen über den Beginn der
 Beschwerdefrist bleiben auch im Fall der nachträglichen Festsetzung
 unberührt.
 
-
 ##### § 60 Beschränkung der Zwangsvollstreckung kraft Gesetzes
 
 Die Zwangsvollstreckung ist auf Sicherungsmaßregeln beschränkt,
 solange die Frist zur Einlegung der Beschwerde noch läuft und solange
 über die Beschwerde noch nicht entschieden ist.
 
-
 #### Unterabschnitt 2 - Anerkennung und Vollstreckung von Unterhaltstiteln nach dem Haager Übereinkommen vom 2. Oktober 1973 über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen
-
 
 ##### § 61 Einschränkung der Anerkennung und Vollstreckung
 
@@ -1434,10 +1347,6 @@ Antragsgegners zu versagen, wenn
     gewöhnlichen Aufenthaltsort des Verpflichteten geltenden Recht
     besteht.
 
-
-
-
-
 ##### § 62 Beschwerdeverfahren im Anwendungsbereich des Haager Übereinkommens
 
 (1) Abweichend von § 59 Absatz 2 Satz 1 beträgt die Frist für die
@@ -1457,9 +1366,7 @@ Sicherheitsleistung abhängig machen.
 (3) Absatz 2 ist in Verfahren auf Feststellung der Anerkennung einer
 Entscheidung entsprechend anwendbar.
 
-
 #### Unterabschnitt 3 - Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen vom 16. September 1988
-
 
 ##### § 63 Sonderregelungen für das Beschwerdeverfahren
 
@@ -1474,9 +1381,7 @@ Verlängerung dieser Frist wegen weiter Entfernung ist ausgeschlossen.
 
 (2) § 62 Absatz 2 und 3 ist entsprechend anzuwenden.
 
-
 ### Abschnitt 5 - Verfahren bei förmlicher Gegenseitigkeit
-
 
 #### § 64 Vollstreckbarkeit ausländischer Titel
 
@@ -1496,12 +1401,9 @@ nur nach Maßgabe des § 238 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit zulässig.
 
-
 ## Kapitel 3 - Vollstreckung, Vollstreckungsabwehrantrag, besonderes Verfahren; Schadensersatz
 
-
 ### Abschnitt 1 - Vollstreckung, Vollstreckungsabwehrantrag, besonderes Verfahren
-
 
 #### § 65 Vollstreckung
 
@@ -1510,7 +1412,6 @@ Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit, soweit in der
 Verordnung (EG) Nr. 4/2009 und in diesem Gesetz nichts anderes
 bestimmt ist.
-
 
 #### § 66 Vollstreckungsabwehrantrag
 
@@ -1544,7 +1445,6 @@ zu stellen, das über den Antrag auf Erteilung der
 Vollstreckungsklausel entschieden hat. In den Fällen des Absatzes 1
 richtet sich die Zuständigkeit nach § 35 Absatz 1 und 2.
 
-
 #### § 67 Verfahren nach Aufhebung oder Änderung eines für vollstreckbar erklärten ausländischen Titels im Ursprungsstaat
 
 (1) Wird der Titel in dem Staat, in dem er errichtet worden ist,
@@ -1574,7 +1474,6 @@ bereits getroffener Vollstreckungsmaßregeln sind die §§ 769 und 770
 der Zivilprozessordnung entsprechend anzuwenden. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 #### § 68 Aufhebung oder Änderung ausländischer Entscheidungen, deren Anerkennung festgestellt ist
 
 Wird die Entscheidung in dem Staat, in dem sie ergangen ist,
@@ -1583,9 +1482,7 @@ Tatsache nicht mehr in dem Verfahren über den Antrag auf Feststellung
 der Anerkennung geltend machen, so ist § 67 Absatz 1 bis 4
 entsprechend anzuwenden.
 
-
 ### Abschnitt 2 - Schadensersatz wegen ungerechtfertigter Vollstreckung
-
 
 #### § 69 Schadensersatz wegen ungerechtfertigter Vollstreckung
 
@@ -1619,9 +1516,7 @@ Titel mit der Vollstreckungsklausel zu versehen, entschieden hat. In
 den Fällen des Absatzes 2 Nummer 2 richtet sich die Zuständigkeit nach
 § 35 Absatz 1 und 2.
 
-
 ## Kapitel 4 - Entscheidungen deutscher Gerichte; Mahnverfahren
-
 
 ### § 70 Antrag des Schuldners nach Artikel 19 der Verordnung (EG) Nr. 4/2009
 
@@ -1644,7 +1539,6 @@ zurückversetzt, in der es sich vor Eintritt der Versäumnis befand. Die
 §§ 343 bis 346 der Zivilprozessordnung werden entsprechend angewendet.
 Auf Antrag des Schuldners ist die Zwangsvollstreckung auch ohne
 Sicherheitsleistung einzustellen.
-
 
 ### § 71 Bescheinigungen zu inländischen Titeln
 
@@ -1681,7 +1575,6 @@ b und Artikel 48 Absatz 3 der Verordnung (EG) Nr. 4/2009 schließt das
 Recht auf Erteilung einer Klausel nach § 724 der Zivilprozessordnung
 nicht aus.
 
-
 ### § 72 Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland
 
 Soll ein Unterhaltstitel, der den Unterhalt nach § 1612a des
@@ -1689,7 +1582,6 @@ Bürgerlichen Gesetzbuchs als Prozentsatz des Mindestunterhalts
 festsetzt, im Ausland vollstreckt werden, gilt § 245 des Gesetzes über
 das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
-
 
 ### § 73 Vervollständigung inländischer Entscheidungen zur Verwendung im Ausland
 
@@ -1722,7 +1614,6 @@ Vervollständigung von Arrestbefehlen und einstweiligen Anordnungen,
 die in einem anderen Vertrags- oder Mitgliedstaat geltend gemacht
 werden sollen und nicht mit einer Begründung versehen sind.
 
-
 ### § 74 Vollstreckungsklausel zur Verwendung im Ausland
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Anordnungen,
@@ -1733,7 +1624,6 @@ Zwangsvollstreckung im Inland nach § 796 Absatz 1, § 929 Absatz 1 der
 Zivilprozessordnung und nach § 53 Absatz 1 und § 119 des Gesetzes über
 das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit nicht erforderlich wäre.
-
 
 ### § 75 Mahnverfahren mit Zustellung im Ausland
 
@@ -1750,12 +1640,9 @@ beizufügen.
 (3) Die Widerspruchsfrist (§ 692 Absatz 1 Nummer 3 der
 Zivilprozessordnung) beträgt einen Monat.
 
-
 ## Kapitel 5 - Kosten; Übergangsvorschriften
 
-
 ### Abschnitt 1 - Kosten
-
 
 #### § 76 Übersetzungen
 
@@ -1763,9 +1650,7 @@ Die Höhe der Vergütung für die von der zentralen Behörde veranlassten
 Übersetzungen richtet sich nach dem Justizvergütungs- und
 Entschädigungsgesetz.
 
-
 ### Abschnitt 2 - Übergangsvorschriften
-
 
 #### § 77 Übergangsvorschriften
 

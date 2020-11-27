@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2702, 2704
 
-
 ## § 1 Kreditermächtigungen
 
 Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das
@@ -35,7 +34,6 @@ Kassenverstärkungskredite dürfen nicht später als sechs Monate nach
 Ablauf des Haushaltsjahres, für das sie aufgenommen worden sind,
 fällig werden.
 
-
 ## § 2 Grundsätze für die Veranschlagung von Kreditaufnahmen zur Deckung von Ausgaben
 
 (1) Einnahmen und Ausgaben sind bei der Veranschlagung in einer
@@ -52,7 +50,6 @@ Konjunkturkomponente um diejenigen Einnahmen aus Krediten oder um die
 Haushaltsüberschüsse, die der erwarteten Wirkung der konjunkturellen
 Entwicklung auf den Haushalt entsprechen.
 
-
 ## § 3 Bereinigung um finanzielle Transaktionen
 
 Aus den Ausgaben nach § 2 Absatz 1 erster Halbsatz sind die Ausgaben
@@ -62,7 +59,6 @@ Einnahmen nach § 2 Absatz 1 erster Halbsatz diejenigen aus der
 Veräußerung von Beteiligungen, aus der Kreditaufnahme beim
 öffentlichen Bereich sowie aus Darlehensrückflüssen.
 
-
 ## § 4 Grundlagen zur Bestimmung einer zulässigen strukturellen Kreditaufnahme
 
 Das zur Bestimmung der zulässigen strukturellen Kreditaufnahme nach §
@@ -70,7 +66,6 @@ Das zur Bestimmung der zulässigen strukturellen Kreditaufnahme nach §
 Statistische Bundesamt ermittelt. Zugrunde zu legen ist das nominale
 Bruttoinlandsprodukt des der Aufstellung des Haushalts vorangegangenen
 Jahres.
-
 
 ## § 5 Konjunkturkomponente
 
@@ -101,7 +96,6 @@ ohne Zustimmung des Bundesrates fest. Das Verfahren ist regelmäßig
 unter Berücksichtigung des Standes der Wissenschaft zu überprüfen und
 fortzuentwickeln.
 
-
 ## § 6 Ausnahmesituationen
 
 Im Falle von Naturkatastrophen oder außergewöhnlichen Notsituationen,
@@ -112,7 +106,6 @@ Satz 6 des Grundgesetzes überschritten werden. Dieser Beschluss ist
 mit einem Tilgungsplan zu verbinden. Die Rückführung der nach Satz 1
 aufgenommenen Kredite hat binnen eines angemessenen Zeitraumes zu
 erfolgen.
-
 
 ## § 7 Kontrollkonto
 
@@ -143,7 +136,6 @@ Betrag, höchstens aber um 0,35 Prozent im Verhältnis zum nominalen
 Bruttoinlandsprodukt; die Verringerung wird nur wirksam in Jahren mit
 positiver Veränderung der Produktionslücke.
 
-
 ## § 8 Abweichungsrechte bei Nachträgen zum Haushaltsgesetz und zum Haushaltsplan
 
 Bei Nachträgen zum Haushaltsgesetz und zum Haushaltsplan kann die nach
@@ -154,7 +146,6 @@ veranschlagt werden, die zu Mehrausgaben oder zu Mindereinnahmen
 führen. Zur Ermittlung der Konjunkturkomponente wird ausschließlich
 die erwartete wirtschaftliche Entwicklung aktualisiert. Die Regelungen
 des § 7 bleiben unberührt.
-
 
 ## § 9 Übergangsregelung
 

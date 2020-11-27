@@ -25,7 +25,6 @@ in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -35,10 +34,7 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## Teil 1 - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -63,11 +59,9 @@ Die Ausbildungsberufe
 werden gemäß § 4 Abs. 1 des Berufsbildungsgesetzes staatlich
 anerkannt.
 
-
 ### § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ### § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -98,12 +92,10 @@ Qualifikationen zu erweitern und zu vertiefen, die im jeweiligen
 Geschäftsprozess zur ganzheitlichen Durchführung komplexer Aufgaben
 befähigt.
 
-
 ### § 4 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ### § 5 Schriftlicher Ausbildungsnachweis
 
@@ -112,7 +104,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ### § 6 Abschlussprüfung
 
@@ -128,10 +119,7 @@ Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit
 einbezogen werden, als es für die Feststellung der Berufsfähigkeit
 nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
 ## Teil 2 - Vorschriften für den Ausbildungsberuf Anlagenmechaniker/ Anlagenmechanikerin
-
-
 
 ### § 7 Ausbildungsberufsbild
 
@@ -215,7 +203,6 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
 Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
 Absatz 1 vermittelt werden können.
 
-
 ### § 8 Ausbildungsrahmenplan
 
 Die in § 7 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
@@ -225,7 +212,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
-
 
 ### § 9 Teil 1 der Abschlussprüfung
 
@@ -274,7 +260,6 @@ Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
 Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
 Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
 zeitlichen Umfang von höchstens 90 Minuten haben.
-
 
 ### § 10 Teil 2 der Abschlussprüfung
 
@@ -407,9 +392,7 @@ handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
 allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
 ## Teil 3 - Vorschriften für den Ausbildungsberuf Industriemechaniker/Industriemechanikerin
-
 
 ### § 11 Ausbildungsberufsbild
 
@@ -491,7 +474,6 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
 Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
 Absatz 1 vermittelt werden können.
 
-
 ### § 12 Ausbildungsrahmenplan
 
 Die in § 11 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
@@ -501,7 +483,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
-
 
 ### § 13 Teil 1 der Abschlussprüfung
 
@@ -547,7 +528,6 @@ Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
 Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
 Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
 zeitlichen Umfang von höchstens 90 Minuten haben.
-
 
 ### § 14 Teil 2 der Abschlussprüfung
 
@@ -670,9 +650,7 @@ handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
 allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
 ## Teil 4 - Vorschriften für den Ausbildungsberuf Konstruktionsmechaniker/Konstruktionsmechanikerin
-
 
 ### § 15 Ausbildungsberufsbild
 
@@ -764,7 +742,6 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
 Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
 Absatz 1 vermittelt werden können.
 
-
 ### § 16 Ausbildungsrahmenplan
 
 Die in § 15 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
@@ -774,7 +751,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
-
 
 ### § 17 Teil 1 der Abschlussprüfung
 
@@ -822,7 +798,6 @@ Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
 Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
 Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
 zeitlichen Umfang von höchstens 90 Minuten haben.
-
 
 ### § 18 Teil 2 der Abschlussprüfung
 
@@ -957,9 +932,7 @@ handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
 allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Werkzeugmechaniker/ Werkzeugmechanikerin
-
 
 ### § 19 Ausbildungsberufsbild
 
@@ -1045,7 +1018,6 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
 Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
 Absatz 1 vermittelt werden können.
 
-
 ### § 20 Ausbildungsrahmenplan
 
 Die in § 19 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
@@ -1055,7 +1027,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
-
 
 ### § 21 Teil 1 der Abschlussprüfung
 
@@ -1102,7 +1073,6 @@ Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
 Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
 Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
 zeitlichen Umfang von höchstens 90 Minuten haben.
-
 
 ### § 22 Teil 2 der Abschlussprüfung
 
@@ -1227,9 +1197,7 @@ handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
 allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
 ## Teil 6 - Vorschriften für den Ausbildungsberuf Zerspanungsmechaniker/Zerspanungsmechanikerin
-
 
 ### § 23 Ausbildungsberufsbild
 
@@ -1313,7 +1281,6 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
 Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
 Absatz 1 vermittelt werden können.
 
-
 ### § 24 Ausbildungsrahmenplan
 
 Die in § 23 Abs. 1 genannten Qualifikationen sollen nach der in Anlage
@@ -1323,7 +1290,6 @@ werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und
 zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
-
 
 ### § 25 Teil 1 der Abschlussprüfung
 
@@ -1370,7 +1336,6 @@ Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
 Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
 Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
 zeitlichen Umfang von höchstens 90 Minuten haben.
-
 
 ### § 26 Teil 2 der Abschlussprüfung
 
@@ -1492,9 +1457,7 @@ handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
 allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
 ## Teil 7 - Gemeinsame Bestehensregelungen, Übergangs- und Schlussbestimmungen
-
 
 ### § 27 Bestehensregelung
 
@@ -1539,7 +1502,6 @@ Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
 ### § 28 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -1547,11 +1509,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ### § 29 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ### Anlage 1 (zu den §§ 8, 12, 16, 20 und 24) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
 
@@ -1941,13 +1901,6 @@ Diese Verordnung tritt am 1. August 2007 in Kraft.
 
         b)  Kunden auf auftragsspezifische Besonderheiten und
             Sicherheitsvorschriften hinweisen
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
 
@@ -3428,9 +3381,6 @@ Teil B: Zeitliche Gliederung ****
 
 
     *   10 bis 12
-
-
-
 
 ### Anlage 3 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
 
@@ -5329,8 +5279,6 @@ Teil B: Zeitliche Gliederung ****
 
 *    *
 
-
-
 ### Anlage 4 (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
 
    (Fundstelle: BGBl. I 2007, 1637 - 1648)
@@ -7052,9 +7000,6 @@ Teil B: Zeitliche Gliederung ****
 
 
     *   10 bis 12
-
-
-
 
 ### Anlage 5 (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
 
@@ -8851,9 +8796,6 @@ Teil B: Zeitliche Gliederung ****
 
 
     *   10 bis 12
-
-
-
 
 ### Anlage 6 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
 

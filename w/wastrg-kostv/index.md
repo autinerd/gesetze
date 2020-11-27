@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 9.12.2006 I 2833 (2007, 691)
 
-
 ## Eingangsformel
 
 Auf Grund des § 47 Abs. 2 des Bundeswasserstraßengesetzes in der
@@ -26,7 +25,6 @@ Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) in
 Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verkehr
 im Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -53,13 +51,11 @@ Gebührensätze ergeben sich aus dem anliegenden Gebührenverzeichnis,
 soweit nichts anderes bestimmt ist. Neben den Gebühren werden Auslagen
 gesondert erhoben.
 
-
 ## § 2
 
 Erfordert die Amtshandlung besonderen Verwaltungsaufwand oder
 umfangreiche Untersuchungen, zum Beispiel Messungen oder Berechnungen,
 so kann die Gebühr bis auf das Doppelte erhöht werden.
-
 
 ## § 3
 
@@ -67,11 +63,9 @@ Bei Amtshandlungen nach den Nummern 6, 7, 15 und 15a des
 Gebührenverzeichnisses ist Kostenschuldner (§ 13 des
 Verwaltungskostengesetzes) der Träger des Vorhabens.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1 Abs. 4) Gebührenverzeichnis
 

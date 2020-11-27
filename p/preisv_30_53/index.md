@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 70 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen
@@ -30,7 +29,6 @@ Preisgesetzes vom 10. April 1948 (WiGBl. S. 27)/3. Februar 1949
 (Bundesgesetzbl. I S. 223) in der sich aus § 37 des Gesetzes über die
 Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar 1952
 (Bundesgesetzbl. I S. 7) ergebenden Fassung verordnet:
-
 
 ## § 1 Grundsatz
 
@@ -46,7 +44,6 @@ festgelegt werden.
 Preise nicht gefordert, versprochen, vereinbart, angenommen oder
 gewährt werden, als nach den Bestimmungen dieser Verordnung zulässig
 ist.
-
 
 ## § 2 Geltungsbereich
 
@@ -95,12 +92,10 @@ Anlagen dienen. Montagearbeiten einschließlich der
 Installationsarbeiten der Elektroindustrie und des Maschinenbaus
 stellen keine Bauleistungen dar.
 
-
 ## § 3 Geltung der Preisvorschriften
 
 Öffentliche Aufträge unterliegen den allgemeinen und besonderen
 Preisvorschriften.
-
 
 ## § 4 Preise für marktgängige Leistungen
 
@@ -122,7 +117,6 @@ gewährt werden würden.
 (4) Die Preise nach den Absätzen 1 bis 3 sind zu unterschreiten oder
 können überschritten werden, wenn es die bei dem Auftrag vorliegenden
 besonderen Verhältnisse kostenmäßig rechtfertigen.
-
 
 ## § 5 Selbstkostenpreise
 
@@ -180,10 +174,6 @@ betreffende Leistung Preise gemäß § 4 vereinbart werden können.
 
 2.  Selbstkostenerstattungspreise gemäß § 7.
 
-
-
-
-
 ## § 6 Selbstkostenfestpreise und Selbstkostenrichtpreise
 
 (1) Selbstkostenpreise sind möglichst als Selbstkostenfestpreise zu
@@ -200,7 +190,6 @@ ist vor Beendigung der Fertigung, sobald die Grundlagen der
 Kalkulation übersehbar sind, möglichst in einen Selbstkostenfestpreis
 umzuwandeln.
 
-
 ## § 7 Selbstkostenerstattungspreise
 
 (1) Selbstkostenerstattungspreise dürfen nur vereinbart werden, wenn
@@ -212,13 +201,11 @@ begrenzt werden.
 Vereinbarungen über Selbstkostenerstattungspreise vorgesehen werden,
 daß für einzelne Kalkulationsbereiche feste Sätze gelten.
 
-
 ## § 8 Ermittlung der Selbstkostenpreise
 
 Werden Selbstkostenpreise (§§ 5 bis 7) vereinbart, so sind die als
 Anlage beigefügten Leitsätze für die Preisermittlung auf Grund von
 Selbstkosten anzuwenden.
-
 
 ## § 9 Prüfung der Preise
 
@@ -238,7 +225,6 @@ diesem Zweck erforderlichen Auskünfte zu erteilen.
 (3) Die für die Preisbildung und Preisüberwachung zuständigen Behörden
 können die Unterlagen einsehen, Abschriften oder Auszüge aus diesen
 Unterlagen anfertigen lassen und die Betriebe besichtigen.
-
 
 ## § 10 Feststellung der Angemessenheit von Selbstkostenpreisen durch öffentliche Auftraggeber
 
@@ -272,7 +258,6 @@ fest.
 
 (5) u. (6) (weggefallen)
 
-
 ## § 11 Zuwiderhandlungen
 
 Zuwiderhandlungen gegen die Bestimmungen dieser Verordnung werden nach
@@ -281,7 +266,6 @@ Wirtschaftsstrafrechts (Wirtschaftsstrafgesetz) vom 26. Juli 1949
 (WiGBl. S. 193) in der Fassung des Gesetzes vom 25. März 1952
 (Bundesgesetzbl. I S. 188)/17. Dezember 1952 (Bundesgesetzbl. I S.
 805) geahndet.
-
 
 ## § 12 Inkrafttreten
 
@@ -311,11 +295,9 @@ gilt folgendes:
 
 (4) (weggefallen)
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage Leitsätze für die Preisermittlung auf Grund von Selbstkosten
 

@@ -27,7 +27,6 @@ Ausarbeitung bestimmter umweltbezogener Pläne und Programme und zur
 auf die Öffentlichkeitsbeteiligung und den Zugang zu Gerichten (ABl.
 EU Nr. L 156 S. 17).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz findet Anwendung für Rechtsbehelfe gegen
@@ -77,7 +76,6 @@ einem verwaltungsgerichtlichen Streitverfahren erlassen worden ist.
 Wirtschaftszone oder des Festlandsockels im Rahmen der Vorgaben des
 Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982
 (BGBl. 1994 II S. 1799, 1995 II S. 602).
-
 
 ## § 2 Rechtsbehelfe von Vereinigungen
 
@@ -163,7 +161,6 @@ Verwaltungsgerichtsordnung.
 Bei Entscheidungen nach § 1 Abs. 1 Nr. 1 muss zudem eine Pflicht zur
 Durchführung einer Umweltverträglichkeitsprüfung bestehen.
 
-
 ## § 3 Anerkennung von Vereinigungen
 
 (1) Auf Antrag wird einer inländischen oder ausländischen Vereinigung
@@ -218,7 +215,6 @@ diese Anerkennung im Einvernehmen mit dem Bundesamt für Naturschutz.
 nicht über das Gebiet eines Landes hinausgeht, wird die Anerkennung
 durch die zuständige Behörde des Landes ausgesprochen.
 
-
 ## § 4 Fehler bei der Anwendung von Verfahrensvorschriften
 
 (1) Die Aufhebung einer Entscheidung über die Zulässigkeit eines
@@ -250,7 +246,6 @@ Baugesetzbuchs sowie die einschlägigen landesrechtlichen Vorschriften.
 (3) Die Absätze 1 und 2 gelten entsprechend für Rechtsbehelfe von
 Beteiligten nach § 61 Nr. 1 und 2 der Verwaltungsgerichtsordnung.
 
-
 ## § 5 Übergangs- und Überleitungsvorschrift
 
 (1) Dieses Gesetz gilt für Verfahren nach § 1 Absatz 1 Satz 1, die
@@ -272,7 +267,6 @@ Fassung gelten als Anerkennungen im Sinne dieses Gesetzes fort.
 (3) Bereits begonnene Anerkennungsverfahren, die auf dieses Gesetz
 gestützt werden, sind nach den bis zum 1. März 2010 geltenden
 Rechtsvorschriften vom Umweltbundesamt zu Ende zu führen.
-
 
 ## § 6 Inkrafttreten
 

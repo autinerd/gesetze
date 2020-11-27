@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 120 G v. 21.6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2 des Gesetzes über die Aufgaben des Bundes auf
@@ -28,7 +27,6 @@ Juni 1977 (BGBl. I S. 1314), der durch Artikel 3 Nr. 2 des Gesetzes
 vom 23. Dezember 1981 (BGBl. 1982 II S. 2) geändert worden ist, wird
 im Einvernehmen mit dem Bundesminister des Innern und dem
 Bundesminister der Finanzen verordnet:
-
 
 ## § 1
 
@@ -103,18 +101,15 @@ Maßgabe der Vereinbarungen zwischen dem Bund und den Küstenländern
 Wasserschutzpolizei der Länder ausgeübt werden oder diese nicht
 erreichbar ist.
 
-
 ## § 2
 
 Die Bundespolizei und die Zollverwaltung nehmen die Aufgaben nach den
 von den zuständigen Behörden erteilten fachlichen Weisungen wahr.
 
-
 ## § 3
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 13 Abs. 29 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 sowie des Absatzes 3 des
@@ -27,7 +26,6 @@ Dezember 1952 (Bundesgesetzbl. I S. 837), zuletzt geändert durch § 13
 Abs. 3 des Gesetzes über die Beförderung gefährlicher Güter vom 6.
 August 1975 (Bundesgesetzbl. I S. 2121), wird nach Anhören der
 zuständigen obersten Landesbehörden verordnet:
-
 
 ## § 1
 
@@ -60,10 +58,6 @@ die landwirtschaftliche Unfallversicherung angebracht wird.
     Prüfung aushändigt oder die Anbringung der Vorrichtung in den
     Fahrzeugpapieren vermerkt ist.
 
-
-
-
-
 ## § 2
 
 Abweichend von § 19 Abs. 2 StVZO erlischt bei Kraftfahrzeugen, die in
@@ -77,11 +71,9 @@ Betriebserlaubnis der Halter zuständigen Personen den Zeitpunkt der
 Anbringung der Vorrichtung nachweist, zum Beispiel durch eine
 Bescheinigung der ausführenden Werkstatt.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
@@ -90,11 +82,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Abs. 2 des Kostenermächtigungs-Änderungsgesetzes vom 23. Juni 1970
 (Bundesgesetzbl. I S. 805) auch im Land Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

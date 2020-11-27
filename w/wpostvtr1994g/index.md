@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 274 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -65,7 +63,6 @@ Wortlaut der Satzung in der vom Inkrafttreten des Fünften
 Zusatzprotokolls an geltenden Fassung im Bundesgesetzblatt
 bekanntmachen.
 
-
 ## Art 2
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -75,7 +72,6 @@ Nummern 3 bis 7 genannten Verträgen sowie Änderungen, die der Rat für
 Postbetrieb des Weltpostvereins vor Zusammentreten des nächsten
 Weltpostkongresses zu diesen Vollzugsordnungen beschließt, in Kraft zu
 setzen.
-
 
 ## Art 3
 
@@ -115,7 +111,6 @@ durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 Vorschriften über Inhalt, Umfang und Verfahren der Einschränkungen
 nach Maßgabe des Artikels 25 des Weltpostvertrages zu erlassen.
 
-
 ## Art 4
 
 Für die Bundesrepublik Deutschland nimmt die Deutsche Postbank AG die
@@ -124,7 +119,6 @@ Verhältnis zu den Benutzern und zu anderen Postverwaltungen aus dem
 Postanweisungs- und dem Postgiroübereinkommen sowie den dazugehörigen
 Vollzugsordnungen und Schlußprotokollen ergeben. Die Vorschriften des
 Artikels 3 Abs. 2 Satz 1, 3 bis 6 gelten entsprechend.
-
 
 ## Art 5
 
@@ -148,7 +142,6 @@ Stellt die überwachende Behörde einen derartigen Verstoß fest, so kann
 sie diejenigen Anordnungen erlassen, die erforderlich sind, um weitere
 Verstöße zu verhindern und die Folgen begangener Verstöße zu beheben.
 
-
 ## Art 6
 
 (1) Die Umrechnung des in den Verträgen des Weltpostvereins genannten
@@ -163,7 +156,6 @@ Durchschnittswert festgesetzt. Der Durchschnittswert wird aus den
 Tageskursen des Sonderziehungsrechts der zwölf Monate berechnet, die
 am 30. September vor der jeweiligen Festsetzung enden. Der jeweils
 festgesetzte Durchschnittswert ist im Bundesanzeiger bekanntzugeben.
-
 
 ## Art 7
 

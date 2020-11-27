@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 3, der §§ 9 und 11 Abs. 2 des Gesetzes zur
@@ -29,20 +28,17 @@ März 1975 (BGBl. I S. 705) geändert worden sind sowie auf Grund des §
 Marktorganisationen wird im Einvernehmen mit den Bundesministern der
 Finanzen und für Wirtschaft verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union
 hinsichtlich der öffentlichen Lagerhaltung von Magermilchpulver.
 
-
 ## § 2 Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 bezeichneten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt).
-
 
 ## § 3 Anerkennung der Betriebsstätten
 
@@ -76,7 +72,6 @@ vom 30. März 1978 (ABl. EG Nr. L 84, S. 19) verstoßen, so kann die
 Anerkennung befristet entzogen oder widerrufen werden. Im Falle des
 Widerrufs kann die Anerkennung nicht vor Ablauf von mindestens drei
 Monaten neu erteilt werden.
-
 
 ## § 4 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -126,7 +121,6 @@ genannten Unterlagen und die sich darauf beziehenden geschäftlichen
 Belege sieben Jahre lang aufzubewahren, soweit nicht längere
 Aufbewahrungsfristen nach anderen Vorschriften bestehen.
 
-
 ## § 5 Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung hat der Beteiligte den Beauftragten der
@@ -142,16 +136,13 @@ Unterstützung zu gewähren. Der Beteiligte hat im Falle automatischer
 Buchführung auf seine Kosten auf Verlangen Listen mit den
 erforderlichen Angaben auszudrucken.
 
-
 ## § 6 (weggefallen)
 
 -
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1978 in Kraft.
-
 
 ## Schlußformel
 

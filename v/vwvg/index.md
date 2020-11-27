@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 1 G v. 29.7.2009 I 2258
 
-
 ## Erster Abschnitt - Vollstreckung wegen Geldforderungen
-
-
 
 ### § 1 Vollstreckbare Geldforderungen
 
@@ -39,7 +36,6 @@ begründet ist.
 einschließlich der Arbeitslosenversicherung und der
 Justizbeitreibungsordnung bleiben unberührt.
 
-
 ### § 2 Vollstreckungsschuldner
 
 (1) Als Vollstreckungsschuldner kann in Anspruch genommen werden,
@@ -55,7 +51,6 @@ b)  wer für die Leistung, die ein anderer schuldet, persönlich haftet.
 (2) Wer zur Duldung der Zwangsvollstreckung verpflichtet ist, wird dem
 Vollstreckungsschuldner gleichgestellt, soweit die Duldungspflicht
 reicht.
-
 
 ### § 3 Vollstreckungsanordnung
 
@@ -85,7 +80,6 @@ einer Zahlungsfrist von einer weiteren Woche besonders gemahnt werden.
 (4) Die Vollstreckungsanordnung wird von der Behörde erlassen, die den
 Anspruch geltend machen darf.
 
-
 ### § 4 Vollstreckungsbehörden
 
 Vollstreckungsbehörden sind:
@@ -98,10 +92,6 @@ a)  die von einer obersten Bundesbehörde im Einvernehmen mit dem
 b)  die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine
     Bestimmung nach Buchstabe a nicht getroffen worden ist.
 
-
-
-
-
 ### § 5 Anzuwendende Vollstreckungsvorschriften
 
 (1) Das Verwaltungszwangsverfahren und der Vollstreckungsschutz
@@ -113,10 +103,7 @@ richten sich im Falle des § 4 nach den Vorschriften der Abgabenordnung
 Länder vorgenommen, so ist sie nach landesrechtlichen Bestimmungen
 durchzuführen.
 
-
 ## Zweiter Abschnitt - Erzwingung von Handlungen, Duldungen oder Unterlassungen
-
-
 
 ### § 6 Zulässigkeit des Verwaltungszwanges
 
@@ -134,7 +121,6 @@ verwirklicht, oder zur Abwendung einer drohenden Gefahr notwendig ist
 und die Behörde hierbei innerhalb ihrer gesetzlichen Befugnisse
 handelt.
 
-
 ### § 7 Vollzugsbehörden
 
 (1) Ein Verwaltungsakt wird von der Behörde vollzogen, die ihn
@@ -143,14 +129,12 @@ erlassen hat; sie vollzieht auch Beschwerdeentscheidungen.
 (2) Die Behörde der unteren Verwaltungsstufe kann für den Einzelfall
 oder allgemein mit dem Vollzug beauftragt werden.
 
-
 ### § 8 Örtliche Zuständigkeit
 
 Muß eine Zwangsmaßnahme außerhalb des Bezirks der Vollzugsbehörde
 ausgeführt werden, so hat die entsprechende Bundesbehörde des Bezirks,
 in dem sie ausgeführt werden soll, auf Ersuchen der Vollzugsbehörde
 den Verwaltungszwang durchzuführen.
-
 
 ### § 9 Zwangsmittel
 
@@ -172,14 +156,12 @@ Zweck stehen. Dabei ist das Zwangsmittel möglichst so zu bestimmen,
 daß der Betroffene und die Allgemeinheit am wenigsten beeinträchtigt
 werden.
 
-
 ### § 10 Ersatzvornahme
 
 Wird die Verpflichtung, eine Handlung vorzunehmen, deren Vornahme
 durch einen anderen möglich ist (vertretbare Handlung), nicht erfüllt,
 so kann die Vollzugsbehörde einen anderen mit der Vornahme der
 Handlung auf Kosten des Pflichtigen beauftragen.
-
 
 ### § 11 Zwangsgeld
 
@@ -198,14 +180,12 @@ unterlassen.
 (3) Die Höhe des Zwangsgeldes beträgt mindestens drei Deutsche Mark
 und höchstens zweitausend Deutsche Mark.
 
-
 ### § 12 Unmittelbarer Zwang
 
 Führt die Ersatzvornahme oder das Zwangsgeld nicht zum Ziel oder sind
 sie untunlich, so kann die Vollzugsbehörde den Pflichtigen zur
 Handlung, Duldung oder Unterlassung zwingen oder die Handlung selbst
 vornehmen.
-
 
 ### § 13 Androhung der Zwangsmittel
 
@@ -241,14 +221,12 @@ Zwangsmittel erfolglos ist.
 dem zugrunde liegenden Verwaltungsakt verbunden ist und für ihn keine
 Zustellung vorgeschrieben ist.
 
-
 ### § 14 Festsetzung der Zwangsmittel
 
 Wird die Verpflichtung innerhalb der Frist, die in der Androhung
 bestimmt ist, nicht erfüllt, so setzt die Vollzugsbehörde das
 Zwangsmittel fest. Bei sofortigem Vollzug (§ 6 Abs. 2) fällt die
 Festsetzung weg.
-
 
 ### § 15 Anwendung der Zwangsmittel
 
@@ -260,7 +238,6 @@ werden. Die Polizei hat auf Verlangen der Vollzugsbehörde Amtshilfe zu
 leisten.
 
 (3) Der Vollzug ist einzustellen, sobald sein Zweck erreicht ist.
-
 
 ### § 16 Ersatzzwangshaft
 
@@ -278,12 +255,10 @@ Wochen.
 Justizverwaltung nach den Bestimmungen der §§ 901, 904 bis 911 der
 Zivilprozeßordnung zu vollstrecken.
 
-
 ### § 17 Vollzug gegen Behörden
 
 Gegen Behörden und juristische Personen des öffentlichen Rechts sind
 Zwangsmittel unzulässig, soweit nicht etwas anderes bestimmt ist.
-
 
 ### § 18 Rechtsmittel
 
@@ -302,10 +277,7 @@ Androhung selbst behauptet wird.
 angewendet (§ 6 Abs. 2), so sind hiergegen die Rechtsmittel zulässig,
 die gegen Verwaltungsakte allgemein gegeben sind.
 
-
 ## Dritter Abschnitt - Kosten
-
-
 
 ### § 19 Kosten
 
@@ -321,10 +293,7 @@ einschließlich, ein halbes vom Hundert von dem Mehrbetrag, mindestens
 jedoch 1,50 Deutsche Mark und höchstens 100 Deutsche Mark. Die
 Mahngebühr wird auf volle 10 Deutsche Pfennige aufgerundet.
 
-
 ## Vierter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 20 Außerkrafttreten früherer Bestimmungen
 
@@ -333,13 +302,11 @@ Gesetz geregelt ist, sind für Bundesbehörden und bundesunmittelbare
 juristische Personen des öffentlichen Rechts die Bestimmungen dieses
 Gesetzes anzuwenden; § 1 Abs. 3 bleibt unberührt.
 
-
 ### § 21 Berlin
 
 Dieses Gesetz gilt nach Maßgabe der §§ 13 und 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Lande Berlin.
-
 
 ### § 22 Inkrafttreten
 

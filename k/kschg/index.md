@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 26.3.2008 I 444
 
-
 ## Erster Abschnitt - Allgemeiner Kündigungsschutz
-
-
 
 ### § 1 Sozial ungerechtfertigte Kündigungen
 
@@ -124,7 +121,6 @@ Interessenausgleichs wesentlich geändert hat. Der Interessenausgleich
 nach Satz 1 ersetzt die Stellungnahme des Betriebsrates nach § 17 Abs.
 3 Satz 2.
 
-
 ### § 1a Abfindungsanspruch bei betriebsbedingter Kündigung
 
 (1) Kündigt der Arbeitgeber wegen dringender betrieblicher
@@ -142,7 +138,6 @@ des Bestehens des Arbeitsverhältnisses. § 10 Abs. 3 gilt entsprechend.
 Bei der Ermittlung der Dauer des Arbeitsverhältnisses ist ein Zeitraum
 von mehr als sechs Monaten auf ein volles Jahr aufzurunden.
 
-
 ### § 2 Änderungskündigung
 
 Kündigt der Arbeitgeber das Arbeitsverhältnis und bietet er dem
@@ -154,7 +149,6 @@ Abs. 2 Satz 1 bis 3, Abs. 3 Satz 1 und 2). Diesen Vorbehalt muß der
 Arbeitnehmer dem Arbeitgeber innerhalb der Kündigungsfrist, spätestens
 jedoch innerhalb von drei Wochen nach Zugang der Kündigung erklären.
 
-
 ### § 3 Kündigungseinspruch
 
 Hält der Arbeitnehmer eine Kündigung für sozial ungerechtfertigt, so
@@ -164,7 +158,6 @@ begründet, so hat er zu versuchen, eine Verständigung mit dem
 Arbeitgeber herbeizuführen. Er hat seine Stellungnahme zu dem
 Einspruch dem Arbeitnehmer und dem Arbeitgeber auf Verlangen
 schriftlich mitzuteilen.
-
 
 ### § 4 Anrufung des Arbeitsgerichts
 
@@ -181,7 +174,6 @@ des Betriebsrats beifügen. Soweit die Kündigung der Zustimmung einer
 Behörde bedarf, läuft die Frist zur Anrufung des Arbeitsgerichts erst
 von der Bekanntgabe der Entscheidung der Behörde an den Arbeitnehmer
 ab.
-
 
 ### § 5 Zulassung verspäteter Klagen
 
@@ -215,7 +207,6 @@ Klagezulassung nicht entschieden oder wird ein solcher Antrag erstmals
 vor dem Landesarbeitsgericht gestellt, entscheidet hierüber die Kammer
 des Landesarbeitsgerichts. Absatz 4 gilt entsprechend.
 
-
 ### § 6 Verlängerte Anrufungsfrist
 
 Hat ein Arbeitnehmer innerhalb von drei Wochen nach Zugang der
@@ -226,7 +217,6 @@ zur Begründung der Unwirksamkeit der Kündigung auch auf innerhalb der
 Klagefrist nicht geltend gemachte Gründe berufen. Das Arbeitsgericht
 soll ihn hierauf hinweisen.
 
-
 ### § 7 Wirksamwerden der Kündigung
 
 Wird die Rechtsunwirksamkeit einer Kündigung nicht rechtzeitig geltend
@@ -234,13 +224,11 @@ gemacht (§ 4 Satz 1, §§ 5 und 6), so gilt die Kündigung als von Anfang
 an rechtswirksam; ein vom Arbeitnehmer nach § 2 erklärter Vorbehalt
 erlischt.
 
-
 ### § 8 Wiederherstellung der früheren Arbeitsbedingungen
 
 Stellt das Gericht im Falle des § 2 fest, daß die Änderung der
 Arbeitsbedingungen sozial ungerechtfertigt ist, so gilt die
 Änderungskündigung als von Anfang an rechtsunwirksam.
-
 
 ### § 9 Auflösung des Arbeitsverhältnisses durch Urteil des Gerichts, Abfindung des Arbeitnehmers
 
@@ -261,7 +249,6 @@ stellen.
 Zeitpunkt festzusetzen, an dem es bei sozial gerechtfertigter
 Kündigung geendet hätte.
 
-
 ### § 10 Höhe der Abfindung
 
 (1) Als Abfindung ist ein Betrag bis zu zwölf Monatsverdiensten
@@ -281,7 +268,6 @@ Lebensalter erreicht hat.
 (3) Als Monatsverdienst gilt, was dem Arbeitnehmer bei der für ihn
 maßgebenden regelmäßigen Arbeitszeit in dem Monat, in dem das
 Arbeitsverhältnis endet (§ 9 Abs. 2), an Geld und Sachbezügen zusteht.
-
 
 ### § 11 Anrechnung auf entgangenen Zwischenverdienst
 
@@ -304,10 +290,6 @@ lassen,
     Beträge hat der Arbeitgeber der Stelle zu erstatten, die sie geleistet
     hat.
 
-
-
-
-
 ### § 12 Neues Arbeitsverhältnis des Arbeitnehmers, Auflösung des alten Arbeitsverhältnisses
 
 Besteht nach der Entscheidung des Gerichts das Arbeitsverhältnis fort,
@@ -321,7 +303,6 @@ Arbeitsverhältnis. Macht der Arbeitnehmer von seinem
 Verweigerungsrecht Gebrauch, so ist ihm entgangener Verdienst nur für
 die Zeit zwischen der Entlassung und dem Tag des Eintritts in das neue
 Arbeitsverhältnis zu gewähren. § 11 findet entsprechende Anwendung.
-
 
 ### § 13 Außerordentliche, sittenwidrige und sonstige Kündigungen
 
@@ -347,7 +328,6 @@ der §§ 4 bis 7 auf eine Kündigung, die bereits aus anderen als den in
 § 1 Abs. 2 und 3 bezeichneten Gründen rechtsunwirksam ist, keine
 Anwendung.
 
-
 ### § 14 Angestellte in leitender Stellung
 
 (1) Die Vorschriften dieses Abschnitts gelten nicht
@@ -370,10 +350,7 @@ dieses Abschnitts mit Ausnahme des § 3 Anwendung. § 9 Abs. 1 Satz 2
 findet mit der Maßgabe Anwendung, daß der Antrag des Arbeitgebers auf
 Auflösung des Arbeitsverhältnisses keiner Begründung bedarf.
 
-
 ## Zweiter Abschnitt - Kündigungsschutz im Rahmen der Betriebsverfassung und Personalvertretung
-
-
 
 ### § 15 Unzulässigkeit der Kündigung
 
@@ -451,7 +428,6 @@ betrieblichen Gründen nicht möglich, so findet auf ihre Kündigung die
 Vorschrift des Absatzes 4 über die Kündigung bei Stillegung des
 Betriebs sinngemäß Anwendung.
 
-
 ### § 16 Neues Arbeitsverhältnis, Auflösung des alten Arbeitsverhältnisses
 
 Stellt das Gericht die Unwirksamkeit der Kündigung einer der in § 15
@@ -462,10 +438,7 @@ Arbeitgeber die Weiterbeschäftigung bei diesem verweigern. Im übrigen
 finden die Vorschriften des § 11 und des § 12 Satz 2 bis 4
 entsprechende Anwendung.
 
-
 ## Dritter Abschnitt - Anzeigepflichtige Entlassungen
-
-
 
 ### § 17 Anzeigepflicht
 
@@ -569,10 +542,6 @@ nach Absatz 1 nicht mitgerechnet.
     diese zur selbständigen Einstellung oder Entlassung von Arbeitnehmern
     berechtigt sind.
 
-
-
-
-
 ### § 18 Entlassungssperre
 
 (1) Entlassungen, die nach § 17 anzuzeigen sind, werden vor Ablauf
@@ -591,7 +560,6 @@ Zeitpunkt, zu dem sie nach den Absätzen 1 und 2 zulässig sind,
 durchgeführt werden, bedarf es unter den Voraussetzungen des § 17 Abs.
 1 einer erneuten Anzeige.
 
-
 ### § 19 Zulässigkeit von Kurzarbeit
 
 (1) Ist der Arbeitgeber nicht in der Lage, die Arbeitnehmer bis zu dem
@@ -609,7 +577,6 @@ würde.
 (3) Tarifvertragliche Bestimmungen über die Einführung, das Ausmaß und
 die Bezahlung von Kurzarbeit werden durch die Absätze 1 und 2 nicht
 berührt.
-
 
 ### § 20 Entscheidungen der Agentur für Arbeit
 
@@ -639,7 +606,6 @@ Interesse und die Lage des gesamten Arbeitsmarktes unter besonderer
 Beachtung des Wirtschaftszweiges, dem der Betrieb angehört, zu
 berücksichtigen.
 
-
 ### § 21 Entscheidungen der Zentrale der Bundesagentur für Arbeit
 
 Für Betriebe, die zum Geschäftsbereich des Bundesministers für Verkehr
@@ -651,7 +617,6 @@ zuständige Bundesminister kann zwei Vertreter mit beratender Stimme in
 den Ausschuß entsenden. Die Anzeigen nach § 17 sind in diesem Falle an
 die Zentrale der Bundesagentur für Arbeit zu erstatten. Im übrigen
 gilt § 20 Abs. 1 bis 3 entsprechend.
-
 
 ### § 22 Ausnahmebetriebe
 
@@ -666,10 +631,7 @@ und Soziales wird ermächtigt, durch Rechtsverordnung Vorschriften zu
 erlassen, welche Betriebe als Saisonbetriebe oder Kampagne-Betriebe im
 Sinne des Absatzes 1 gelten.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 23 Geltungsbereich
 
@@ -698,7 +660,6 @@ Arbeitszeit von nicht mehr als 20 Stunden mit 0,5 und nicht mehr als
 Verwaltungen des privaten Rechts sowie für Betriebe, die von einer
 öffentlichen Verwaltung geführt werden, soweit sie wirtschaftliche
 Zwecke verfolgen. Sie gelten nicht für Seeschiffe und ihre Besatzung.
-
 
 ### § 24 Anwendung des Gesetzes auf Betriebe der Schiffahrt und des Luftverkehrs
 
@@ -736,7 +697,6 @@ Gesetz keine Anwendung.
 14, auch für den Kapitän und die übrigen als leitende Angestellte im
 Sinne des § 14 anzusehenden Angehörigen der Besatzung.
 
-
 ### § 25 Kündigung in Arbeitskämpfen
 
 Die Vorschriften dieses Gesetzes finden keine Anwendung auf
@@ -744,14 +704,12 @@ Kündigungen und Entlassungen, die lediglich als Maßnahmen in
 wirtschaftlichen Kämpfen zwischen Arbeitgebern und Arbeitnehmern
 vorgenommen werden.
 
-
 ### § 25a Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ### § 26 Inkrafttreten
 

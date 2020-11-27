@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 22.12.2011 I 2959
 
-
 ## Eingangsformel
 
 Auf Grund des § 29 Absatz 4 des Kreditwesengesetzes, der durch Artikel
@@ -37,9 +36,7 @@ Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
 dem Bundesministerium der Justiz und nach Anhörung der Deutschen
 Bundesbank:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Anwendungsbereich
 
@@ -47,14 +44,12 @@ Diese Verordnung regelt Gegenstand und Zeitpunkt der Prüfung der
 Institute nach § 29 Absatz 1 und 2 des Kreditwesengesetzes, nach § 20
 Absatz 3 des Investmentgesetzes sowie den Inhalt der Prüfungsberichte.
 
-
 ### § 2 Risikoorientierung und Wesentlichkeit
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit
 ist Rechnung zu tragen. Dabei sind insbesondere die Größe des
 Instituts, der Geschäftsumfang, die Komplexität der betriebenen
 Geschäfte sowie der Risikogehalt zu berücksichtigen.
-
 
 ### § 3 Art und Umfang der Berichterstattung
 
@@ -93,7 +88,6 @@ berichten. Jeder Teilprüfungsbericht ist unverzüglich nach
 Fertigstellung der Bundesanstalt sowie der Deutschen Bundesbank
 einzureichen.
 
-
 ### § 4 Anlagen
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung
@@ -102,7 +96,6 @@ Verbesserung der Lesbarkeit in Form von Anlagen zum Prüfungsbericht
 vorgelegt werden, wenn im Prüfungsbericht selbst eine hinreichende
 Beurteilung erfolgt und die Berichterstattung in Anlagen den
 Prüfungsbericht nicht unübersichtlich macht.
-
 
 ### § 5 Berichtszeitraum
 
@@ -118,7 +111,6 @@ Darlegung der Gründe anzugeben.
 (2) Bestandsbezogene Angaben im Prüfungsbericht haben sich, soweit
 sich aus dieser Verordnung nichts anderes ergibt, auf den
 Bilanzstichtag zu beziehen.
-
 
 ### § 6 Zusammenfassende Schlussbemerkung
 
@@ -145,16 +137,13 @@ wesentlichen Beanstandungen sich auf Grund der Prüfung ergeben haben.
 (2) Der Prüfungsbericht ist unter Angabe von Ort und Datum zu
 unterzeichnen.
 
-
 ### § 7 Berichtsturnus
 
 Soweit der Prüfer nach dieser Verordnung verpflichtet ist, nur über
 Änderungen zu berichten, hat der Prüfer in angemessenen Abständen über
 die Darstellung der Änderungen hinausgehend vollständig zu berichten.
 
-
 ## Abschnitt 2 - Angaben zum Institut
-
 
 ### § 8 Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
@@ -225,7 +214,6 @@ bei dem Institut vorliegenden Informationen ist zu berichten.
 Darzustellen ist auch, wie das Institut die fachliche Eignung und
 Zuverlässigkeit der vertraglich gebundenen Vermittler sicherstellt.
 
-
 ### § 9 Zweigniederlassungen
 
 Der Abschlussprüfer hat über die wesentlichen ausländischen
@@ -235,12 +223,9 @@ Risikoprofil sowie die Risikolage und die Risikovorsorge des
 Gesamtinstituts sowie deren Einbindung in das Risikomanagement des
 Gesamtinstituts zu beurteilen.
 
-
 ## Abschnitt 3 - Aufsichtliche Vorgaben
 
-
 ### Unterabschnitt 1 - Risikomanagement und Geschäftsorganisation
-
 
 #### § 10 Angemessenheit des Risikomanagements und der Geschäftsorganisation
 
@@ -257,7 +242,6 @@ die Einhaltung des § 27 des Pfandbriefgesetzes zu berichten.
 
 (2) Die Angemessenheit der Internen Revision des Instituts ist zu
 beurteilen.
-
 
 #### § 11 Zinsänderungsrisiken im Anlagebuch
 
@@ -277,9 +261,7 @@ sind darzustellen.
 (3) Die Absätze 1 und 2 sind auf Wohnungsgenossenschaften mit
 Spareinrichtung nicht anzuwenden.
 
-
 ### Unterabschnitt 2 - Handels- und Anlagebuch
-
 
 #### § 12 Zuordnung von Geschäften zum Handels- oder Anlagebuch
 
@@ -288,7 +270,6 @@ gegebenenfalls Umwidmung der Positionen zum Anlagebuch oder
 Handelsbuch während des Berichtszeitraums jeweils den gesetzlichen
 Vorgaben nach § 1a des Kreditwesengesetzes und den institutsintern
 festgelegten Kriterien entsprach.
-
 
 #### § 13 Nichthandelsbuchinstitute
 
@@ -303,9 +284,7 @@ Kreditwesengesetzes ist einzugehen. Überschreitungen der Grenzen nach
 dem Bericht nach Höhe des Betrags und Prozentsatzes sowie der Dauer
 der Überschreitung festzuhalten.
 
-
 ### Unterabschnitt 3 - Eigenmittel, Solvenzanforderungen und Liquiditätslage
-
 
 #### § 14 Ermittlung der Eigenmittel
 
@@ -318,7 +297,6 @@ Verfahrensänderungen während des Berichtszeitraums sind darzustellen.
 (2) Kredite im Sinne des § 10 Absatz 2a Satz 2 Nummer 4 und 5 des
 Kreditwesengesetzes sind auch danach zu beurteilen, ob sie zu
 marktmäßigen Bedingungen gewährt werden und banküblich besichert sind.
-
 
 #### § 15 Eigenmittel
 
@@ -371,7 +349,6 @@ beurteilen und zu erläutern; über die in der Bilanz nicht erfassten
 Verbindlichkeiten und freien Vermögenswerte eines Inhabers oder
 persönlich haftenden Gesellschafters ist zu berichten.
 
-
 #### § 16 Solvabilitätskennzahl
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen
@@ -382,7 +359,6 @@ Berichtszeitraum einzugehen.
 (2) Die Ermittlung der Solvabilitätskennzahl zum Bilanzstichtag ist
 gegliedert nach den jeweiligen Anrechnungsbeträgen darzustellen. Die
 Entwicklung der Eigenkapitalquote ist darzustellen.
-
 
 #### § 17 Liquiditätslage
 
@@ -395,9 +371,7 @@ zur ordnungsgemäßen Ermittlung der Liquiditätskennziffer angemessen
 sind. Dabei ist insbesondere auf Änderungen gegenüber dem letzten
 Berichtszeitraum einzugehen.
 
-
 ### Unterabschnitt 4 - Offenlegung
-
 
 #### § 18 Prüfung der Offenlegungsanforderungen nach der Solvabilitätsverordnung
 
@@ -407,9 +381,7 @@ Solvabilitätsverordnung zu beurteilen. Im Prüfungsbericht ist darauf
 einzugehen, ob die in den §§ 319 bis 337 der Solvabilitätsverordnung
 geforderten Offenlegungspflichten vom Institut eingehalten wurden.
 
-
 ### Unterabschnitt 5 - Anzeigewesen
-
 
 #### § 19 Anzeigewesen
 
@@ -417,9 +389,7 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf
 die Vollständigkeit und Richtigkeit der Anzeigen und Meldungen ist
 einzugehen, festgestellte wesentliche Verstöße sind aufzuführen.
 
-
 ### Unterabschnitt 6 - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von betrügerischen Handlungen zu Lasten des Instituts
-
 
 #### § 20 Zeitpunkt der Prüfung und Berichtszeitraum
 
@@ -447,7 +417,6 @@ Gleiches gilt für Wertpapierhandelsunternehmen, die nicht befugt sind,
 sich Besitz oder Eigentum an Geldern oder Wertpapieren von Kunden zu
 verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten
 handeln.
-
 
 #### § 21 Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen
 
@@ -545,9 +514,7 @@ einzureichen, wenn bei verbandsgeprüften Kreditinstituten für das
 betreffende Jahr ein Prüfungsbericht nicht angefordert wird. § 20
 Absatz 4 bleibt unberührt.
 
-
 ### Unterabschnitt 7 - Gruppenangehörige Institute
-
 
 #### § 22 Ausnahmen für gruppenangehörige Institute
 
@@ -565,9 +532,7 @@ Liquiditätsverordnung keine Anwendung.
 (3) Der Abschlussprüfer hat über das Vorliegen der Voraussetzungen
 gemäß § 2a des Kreditwesengesetzes zu berichten.
 
-
 ## Abschnitt 4 - Angaben zum Kreditgeschäft
-
 
 ### § 23 Berichterstattung über das Kreditgeschäft
 
@@ -596,7 +561,6 @@ ausreichend.
 einschließlich ihrer Einbindung in die Risikostrategie und das
 Risikomanagement ist einzugehen.
 
-
 ### § 24 Länderrisiko
 
 Der Umfang der von dem Institut eingegangenen Länderrisiken insgesamt
@@ -604,7 +568,6 @@ sowie die Methode zu ihrer Steuerung und Überwachung sind zu
 beurteilen. Insbesondere ist dazu Stellung zu nehmen, ob die
 Einschätzung der Länderrisiken auf der Grundlage von geeigneten
 Analysen erfolgt.
-
 
 ### § 25 Bemerkenswerte Kredite
 
@@ -648,7 +611,6 @@ Inanspruchnahme, Sicherheiten sowie allen weiteren für die Beurteilung
 wichtigen Angaben darzustellen. Besonders risikorelevante Aspekte sind
 hervorzuheben.
 
-
 ### § 26 Beurteilung der Werthaltigkeit von Krediten
 
 (1) Die Beurteilung der Werthaltigkeit der Kredite im Sinne des § 25
@@ -663,19 +625,15 @@ voraussichtliche Realisationswert anzugeben.
 (3) Bei bemerkenswerten Krediten an ausländische Schuldner ist auch
 das damit verbundene Länderrisiko zu beurteilen.
 
-
 ### § 27 Einhaltung der Offenlegungsvorschriften des § 18 des Kreditwesengesetzes
 
 Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des
 Kreditwesengesetzes beachtet wurde. Der Abschlussprüfer hat die
 Angemessenheit der institutsspezifischen Verfahren zu beurteilen.
 
-
 ## Abschnitt 5 - Abschlussorientierte Berichterstattung
 
-
 ### Unterabschnitt 1 - Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)
-
 
 #### § 28 Geschäftliche Entwicklung im Berichtsjahr
 
@@ -698,7 +656,6 @@ Kreditinstitute oder von Gruppen vergleichbarer Kreditinstitute des
 betreffenden Prüfungsverbandes oder des Bereiches der betreffenden
 Prüfungsstelle (Durchschnittskennziffern) heranzuziehen.
 
-
 #### § 29 Beurteilung der Vermögenslage
 
 (1) Die Entwicklung der Vermögenslage ist zu beurteilen.
@@ -719,10 +676,6 @@ Ansprüche und Verpflichtungen, sind hervorzuheben.
 3.  alle abgegebenen Patronatserklärungen unter Darstellung des Inhalts
     und Beurteilung ihrer Rechtsverbindlichkeit.
 
-
-
-
-
 #### § 30 Beurteilung der Ertragslage
 
 (1) Die Entwicklung der Ertragslage ist zu beurteilen.
@@ -736,7 +689,6 @@ darzustellen.
 Ertragslage sind darzustellen; dies gilt insbesondere für
 Zinsänderungsrisiken.
 
-
 #### § 31 Risikolage und Risikovorsorge
 
 (1) Die Risikolage des Instituts ist zu beurteilen.
@@ -747,9 +699,7 @@ zu erläutern und die Angemessenheit der Risikovorsorge ist zu
 beurteilen. Ist für den Zeitraum nach dem Bilanzstichtag neuer
 Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
-
 ### Unterabschnitt 2 - Feststellungen, Erläuterungen zur Rechnungslegung
-
 
 #### § 32 Erläuterungen
 
@@ -777,12 +727,7 @@ Werden Angaben gemacht, ist Folgendes zu berücksichtigen:
     der Art der in Pension gegebenen Gegenstände und nach Fristen zu
     gliedern.
 
-
-
-
-
 ## Abschnitt 6 - Angaben zu Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomeraten sowie Konzernprüfungsberichten
-
 
 ### § 33 Regelungsbereich
 
@@ -801,7 +746,6 @@ Basis die Bundesanstalt zuständig ist, hat der Abschlussprüfer die
 Zusammenfassung lediglich im Prüfungsbericht des obersten inländischen
 übergeordneten Unternehmens zu beurteilen.
 
-
 ### § 34 Ort der Berichterstattung
 
 Die Berichterstattung nach diesem Abschnitt kann statt im
@@ -809,7 +753,6 @@ Prüfungsbericht des übergeordneten Unternehmens der Institutsgruppe
 beziehungsweise der Finanzholding-Gruppe im Konzernprüfungsbericht
 erfolgen, wenn beide Berichte im Berichtszeitraum von demselben
 Abschlussprüfer erstellt werden.
-
 
 ### § 35 In die aufsichtliche Zusammenfassung einzubeziehende Unternehmen
 
@@ -829,7 +772,6 @@ Abschlussprüfer das Vorliegen der Voraussetzungen zu beurteilen.
 für den Konzernabschluss und der Zusammenfassung nach § 10a des
 Kreditwesengesetzes bestehen, sind diese zu erläutern.
 
-
 ### § 36 Berichterstattung bei aufsichtsrechtlichen Gruppen
 
 (1) Der Bericht über die Prüfung muss Ausführungen enthalten, die
@@ -842,7 +784,6 @@ die Anforderungen der §§ 13b und 13c des Kreditwesengesetzes einhält.
 Diese Berichterstattung umfasst auch die Einhaltung der
 Anzeigevorschriften gemäß § 13b Absatz 1 und § 13c Absatz 1 Satz 1 des
 Kreditwesengesetzes.
-
 
 ### § 37 Zusammengefasste Eigenmittel
 
@@ -881,7 +822,6 @@ gelegt werden, ist auch zu berichten:
 übergeordneten Instituts auf Ebene der Institutsgruppe beziehungsweise
 Finanzholding-Gruppe.
 
-
 ### § 38 Zusätzliche Angaben
 
 Vorbehaltlich der §§ 36 und 37 ist bei übergeordneten Unternehmen
@@ -907,10 +847,6 @@ des übergeordneten Unternehmens zusätzlich einzugehen auf:
     dieses von der Ausnahme nach § 2a Absatz 6 des Kreditwesengesetzes
     Gebrauch macht.
 
-
-
-
-
 ### § 39 Mindestangaben im Konzernprüfungsbericht
 
 (1) Unabhängig von der Ausübung des Wahlrechts nach § 34 gelten für
@@ -930,7 +866,6 @@ Konzerns durch dieses ganz überwiegend bestimmt wird und der
 Gegenstand des Verweises im Konzernprüfungsbericht selbst hinreichend
 dargestellt ist.
 
-
 ### § 40 Ergänzende Vorschriften für Finanzkonglomeratsunternehmen (§§ 10b und 13d des Kreditwesengesetzes)
 
 (1) Ist das Institut übergeordnetes Finanzkonglomeratsunternehmen im
@@ -947,12 +882,9 @@ Kreditwesengesetzes einhält. Diese Berichterstattung umfasst auch die
 Einhaltung der Anzeigevorschriften gemäß § 13d Absatz 2 in Verbindung
 mit § 64g Absatz 1 und § 13d Absatz 4 Satz 4 des Kreditwesengesetzes.
 
-
 ## Abschnitt 7 - Sondergeschäfte
 
-
 ### Unterabschnitt 1 - Pfandbriefgeschäft
-
 
 #### § 41 Angaben zur Ertragslage im Pfandbriefgeschäft
 
@@ -964,13 +896,11 @@ und Flugzeugpfandbriefen, anzugeben.
 (2) Die Untergliederung ist entbehrlich, soweit sich diese Angaben aus
 dem Anhang oder einer Anlage zum Prüfungsbericht ergeben.
 
-
 #### § 42 Angaben zu den Transparenzvorschriften nach § 28 des Pfandbriefgesetzes
 
 Bei Instituten, die das Pfandbriefgeschäft betreiben, ist über die
 Einhaltung des § 28 des Pfandbriefgesetzes zu berichten, insbesondere
 über die Vollständigkeit und Richtigkeit der dort genannten Angaben.
-
 
 #### § 43 Zusatzangaben bei Instituten, die das Pfandbriefgeschäft betreiben
 
@@ -1009,12 +939,7 @@ Deckungsprüfung durch die Bundesanstalt stützen. Satz 3 gilt nicht für
     Ertrag im Wesentlichen sichergestellt ist, sowie von bereits
     verkauften Eigenheimen außer Ansatz bleiben.
 
-
-
-
-
 ### Unterabschnitt 2 - Bausparkassen
-
 
 #### § 44 Organisation und Auflagen
 
@@ -1038,7 +963,6 @@ die betragsmäßige Inanspruchnahme anzugeben.
 (3) In die Berichterstattung gemäß § 18 sind die
 bausparkassenrechtlichen Meldungen und Anzeigen einzubeziehen.
 
-
 #### § 45 Angaben zum Kreditgeschäft von Bausparkassen
 
 (1) Die Beurteilung gemäß § 44 umfasst auch die Sicherung der
@@ -1053,7 +977,6 @@ der Darlehen, der Gesamtbetrag der Darlehen und deren prozentualer
 Anteil am Gesamtbestand der Baudarlehen anzugeben. Hierbei ist nach
 Bauspardarlehen, Vor- und Zwischenfinanzierungskrediten sowie nach
 sonstigen Baudarlehen zu gliedern.
-
 
 #### § 46 Angaben zur geschäftlichen Entwicklung von Bausparkassen
 
@@ -1087,15 +1010,10 @@ darzustellen. Anzugeben und zu beurteilen
 4.  sind Anzahl und Bausparsumme der nicht oder nicht voll eingelösten und
     bisher nicht stornierten Verträge.
 
-
-
-
-
 #### § 47 Angaben zur Liquiditätslage von Bausparkassen
 
 Das Volumen und die Verwendung der aufgenommenen Fremdmittel am Geld-
 und Kapitalmarkt sind darzustellen.
-
 
 #### § 48 Einsatz von Derivaten
 
@@ -1107,7 +1025,6 @@ geeignet sind, den jeweiligen Sicherungszweck zu erreichen.
 (2) Werden vom Institut derivative Sicherungsinstrumente eingesetzt,
 ist vom Prüfer zu beurteilen, ob dies im Risikomanagement angemessen
 berücksichtigt ist.
-
 
 #### § 49 Angaben zur Ertragslage von Bausparkassen
 
@@ -1139,7 +1056,6 @@ Die Berechnung ist vereinfachend auf der Basis durchschnittlicher
 Bestände und durchschnittlicher Zinssätze vorzunehmen. Über das
 Vorhandensein und die Handhabung von Zinsanpassungsklauseln bei den
 Vor- und Zwischenfinanzierungskrediten ist zu berichten.
-
 
 #### § 50 Darstellung des Kollektivgeschäfts sowie der Vor- und Zwischenfinanzierung von Bausparkassen
 
@@ -1204,9 +1120,7 @@ Bausparkassen-Verordnung bei abgelösten sowie bei laufenden Darlehen
 die als voraussichtlich angenommenen Laufzeiten wesentlich
 überschritten hat (§ 1 Absatz 3 der Bausparkassen-Verordnung).
 
-
 ### Unterabschnitt 3 - Finanzdienstleistungsinstitute
-
 
 #### § 51 Relation gemäß § 10 Absatz 9 des Kreditwesengesetzes
 
@@ -1218,7 +1132,6 @@ Berichtszeitraum sowie am Bilanzstichtag eingehalten wurde. Über die
 Inanspruchnahme sowie Einhaltung der Voraussetzung des § 2 Absatz 8a
 in Verbindung mit § 64h Absatz 7 des Kreditwesengesetzes ist zu
 berichten.
-
 
 #### § 52 Vorschriften für einzelne Finanzdienstleistungsinstitute
 
@@ -1264,7 +1177,6 @@ auf eigene Rechnung handeln, ist über die Struktur der im Eigenbestand
 gehaltenen Finanzinstrumente zu berichten. Dabei sind Umsatzvolumina
 und Anzahl der Geschäfte im Berichtszeitraum anzugeben.
 
-
 #### § 53 Ausnahmeregelung
 
 (1) Die Vorschriften der §§ 15, 16 Absatz 2 und des § 18 sind nicht
@@ -1284,9 +1196,7 @@ Kreditwesengesetzes betreiben und die nicht befugt sind, sich Eigentum
 oder Besitz an Kundengeldern oder -wertpapieren zu verschaffen, und
 die nicht auf eigene Rechnung mit Finanzinstrumenten handeln.
 
-
 ### Unterabschnitt 4 - Factoring
-
 
 #### § 54 Angaben bei Instituten, die das Factoring-Geschäft betreiben
 
@@ -1294,9 +1204,7 @@ Bei Instituten, die das Factoring-Geschäft betreiben, ist über die
 Konzentration auf eine oder wenige Anschlussfirmen oder Branchen zu
 berichten.
 
-
 ### Unterabschnitt 5 - Leasing
-
 
 #### § 55 Angaben bei Instituten, die das Leasing-Geschäft betreiben
 
@@ -1305,9 +1213,7 @@ Zusammensetzung der Leasinggüter, Vertragstypen,
 Abschreibungsmethoden, Abgrenzung von Mietsonderzahlungen,
 Veräußerungsverluste und Vorsorgen anzugeben.
 
-
 ### Unterabschnitt 6 - Depotprüfung
-
 
 #### § 56 Prüfungsgegenstand
 
@@ -1324,7 +1230,6 @@ zurückgegeben, in deren Auftrag an Dritte ausgeliefert oder die
 Depotverhältnisse mit Zustimmung der Kunden auf ein anderes
 Kreditinstitut übertragen worden sind.
 
-
 #### § 57 Zeitpunkt der Prüfung und Berichtszeitraum
 
 (1) Die Prüfung findet einmal jährlich statt. Der Prüfer legt den
@@ -1339,7 +1244,6 @@ Prüfung und dem Stichtag der folgenden Prüfung.
 
 (3) Die Prüfung muss spätestens 15 Monate nach dem Anfang des für sie
 maßgeblichen Berichtszeitraums begonnen worden sein.
-
 
 #### § 58 Besondere Anforderungen an den Depotprüfungsbericht
 
@@ -1364,7 +1268,6 @@ geprüfte Geschäft ordnungsgemäß betrieben und die geprüften Aufgaben
 ordnungsgemäß erfüllt wurden. Zusammenfassend ist darzulegen, welche
 erwähnenswerten Beanstandungen sich auf Grund der Prüfung ergeben
 haben.
-
 
 #### § 59 Prüfung von Depotbanken im Sinne des Investmentgesetzes
 
@@ -1391,9 +1294,7 @@ Depotbank gegenüber einer Kapitalanlagegesellschaft Ansprüche nach §
 28 des Investmentgesetzes geltend gemacht wurden, ist auch hierüber zu
 berichten.
 
-
 ## Abschnitt 8 - Datenübersichten
-
 
 ### § 60 Datenübersichten
 
@@ -1402,9 +1303,7 @@ anwendbaren Formblätter in den Anlagen 1 bis 5 auszufüllen und
 beizufügen. Die Formblätter in den Anlagen 1 bis 4 sind um die Angabe
 entsprechender Vorjahresdaten zu ergänzen.
 
-
 ## Abschnitt 9 - Schlussvorschriften
-
 
 ### § 61 Erstmalige Anwendung
 
@@ -1421,11 +1320,9 @@ beginnende Geschäftsjahr treten in Anlage 1 Position 4 Nummer 4
 jeweils an die Stelle der Wörter „des Handelsbestands“ die Wörter „aus
 Finanzgeschäften“.
 
-
 ### § 62 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1 (zu § 60) SON01
 
@@ -4831,9 +4728,6 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *
 
-
-
-
 ### Anlage 4 (zu § 60) SON04
 
    (Fundstelle: BGBl. 2009, 3817 - 3818)
@@ -5346,9 +5240,6 @@ Institut:
     *
     *
     *
-
-
-
 
 ### Anlage 6 (zu § 21)
 

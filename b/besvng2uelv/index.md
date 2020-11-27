@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 24.3.1997 I 590
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels IX § 4 Abs. 2, 3, 5, § 8 Abs. 2, 3, 5 des
@@ -28,7 +27,6 @@ Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
 Besoldungsrechts in Bund und Ländern (2. BesVNG) vom 23. Mai 1975
 (Bundesgesetzbl. I S. 1173) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -48,7 +46,6 @@ Ländern erfaßten künftig wegfallenden Ämter, in denen die bei
 Inkrafttreten des Gesetzes vorhandenen Amtsinhaber verbleiben können,
 sind in der Übersicht in Anlage 2 aufgeführt.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -56,17 +53,14 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 § 2 Satz 2 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung
 des Besoldungsrechts in Bund und Ländern auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
-
 
 ## Anlage 1
 
 (Anlage 1 ist als Anlagenband zum BGBl. I Nr. 113 v. 8.10.1975
 erschienen.)
-
 
 ## Anlage 2 Übersicht zu § 1 Abs. 2 (künftig wegfallende Ämter und Amtsbezeichnungen)
 

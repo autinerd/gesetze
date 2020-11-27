@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 2321
 
-
-
 ## Art 1 Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht
 
 (1)
@@ -43,7 +41,6 @@ Schiedsstelle eingeleiteten Verfahren Regelungen treffen.
 Kündigungsverbot nach Absatz 5 längstens bis zum Ablauf des 31.
 Dezember 1993 gilt.
 
-
 ## Art 2 Gleichstellungsklausel
 
 Soweit in dem Gesetz über die Errichtung und das Verfahren der
@@ -53,11 +50,9 @@ ist, treten in den in Artikel 1 Abs. 1 des Einigungsvertrages
 genannten Ländern, in denen eine selbständige Arbeitsgerichtsbarkeit
 errichtet ist, an die Stelle der Kreisgerichte die Arbeitsgerichte.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4 Inkrafttreten
 

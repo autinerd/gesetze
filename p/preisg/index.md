@@ -18,11 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 22 G v. 18. 2.1986 I 265
 
-
 ## Eingangsformel
 
 Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
-
 
 ## § 1
 
@@ -38,7 +36,6 @@ wenn die Veränderung der Preise nur zu dem Zweck erfolgt, um auf dem
 Markt bestehende offensichtliche Mißstände zu beseitigen, ohne daß
 dadurch der gesamte Preisstand, insbesondere die Lebenshaltung
 ungünstig beeinflußt wird.
-
 
 ## § 2
 
@@ -60,10 +57,6 @@ a)  der Direktor der Verwaltung für Wirtschaft des Vereinigten
 b)  die obersten Landesbehörden, soweit nicht
     der Direktor für Wirtschaft                    zuständig ist.
 
-
-
-
-
 ## § 3
 
 (1) Anordnungen nach § 2 Abs. 2a erläßt
@@ -77,14 +70,12 @@ Einigung zustande, so entscheidet
 der Vorsitzende des Verwaltungsrates,              der auch über die
 sachliche Zuständigkeit die Entscheidung trifft.
 
-
 ## § 4
 
 Der Direktor für Wirtschaft              kann Anordnungen oder
 Verfügungen aufheben, die eine oberste Landesbehörde nach § 2 Abs. 2b
 erlassen hat. Er kann der obersten Landesbehörde bindende Weisungen
 erteilen. § 3 gilt entsprechend.
-
 
 ## § 5
 
@@ -93,7 +84,6 @@ erteilen. § 3 gilt entsprechend.
 (2)
 Der Direktor für Wirtschaft              kann den Erlaß von
 Ausführungsanordnungen den obersten Landesbehörden übertragen.
-
 
 ## § 6
 
@@ -131,7 +121,6 @@ Wirtschaftsrat              zur Kenntnis zu bringen.
 (4) Die Anordnungen und Tarife treten am Tage nach der Verkündung in
 Kraft, soweit nichts anderes bestimmt wird.
 
-
 ## § 7
 
 (1) Anordnungen
@@ -147,7 +136,6 @@ ausgeführt.
 obliegt, überwacht sie
 der Direktor für Wirtschaft.
 
-
 ## § 8
 
 (1) Die Preisüberwachung üben die obersten Landesbehörden aus.
@@ -161,11 +149,9 @@ Fernmeldewesens. Diese werden von
 dem Direktor              der sachlich zuständigen
 Verwaltung des Vereinigten Wirtschaftsgebietes              überwacht.
 
-
 ## § 9
 
 -
-
 
 ## § 10
 
@@ -174,7 +160,6 @@ nachgeordnete Behörden übertragen. Entsprechendes gilt für die
 dem Direktor für Wirtschaft              zustehenden Befugnisse. Die
 Übertragung von Befugnissen, die vor Inkrafttreten dieses Gesetzes
 vorgenommen worden ist, bleibt unberührt.
-
 
 ## § 11
 
@@ -185,12 +170,10 @@ Gesetzes zuständigen Behörden sind auskunftsberechtigte Stellen im
 Sinne der Verordnung über Auskunftspflicht vom 13. Juli 1923 (RGBl. I
 S. 723).
 
-
 ## § 12
 
 Die Behörden und Gerichte leisten den in § 11 bezeichneten
 Direktoren              und Behörden Amts- und Rechtshilfe.
-
 
 ## § 13
 
@@ -202,13 +185,11 @@ Strafverfahren bei Zuwiderhandlungen gegen die Preisvorschriften vom
 Fassung bestraft. Eine Umwandlung von Ordnungsstrafen in
 Gefängnisstrafen findet nicht statt.
 
-
 ## § 14
 
 Die Durchführungsbestimmungen zu diesem Gesetz erläßt
 der Direktor für Wirtschaft              mit Zustimmung
 des Verwaltungsrates.
-
 
 ## § 15
 
@@ -220,7 +201,6 @@ des Verwaltungsrates.
 1945 bis zum Inkrafttreten dieses Gesetzes erlassen hat und die in
 einem Amtsblatt oder in anderer Weise veröffentlicht worden sind,
 gelten als von Anfang an rechtswirksam erlassen.
-
 
 ## § 16
 

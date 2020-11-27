@@ -16,33 +16,26 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 1053
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
 -
 
-
 ## Art 3
 
 -
 
-
 ## Art 4
 
 -
-
 
 ## Art 5 Rechtliche Behandlung stillgelegter Flächen
 
@@ -64,7 +57,6 @@ Flächen aufgeforstet oder so umgestaltet worden sind, daß sie später
 nur mit unverhältnismäßig großem Aufwand land- oder
 forstwirtschaftlich genutzt werden können.
 
-
 ## Art 6
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten kann den
@@ -72,12 +64,10 @@ Wortlaut des Gesetzes über die Gemeinschaftsaufgabe "Verbesserung der
 Agrarstruktur und des Küstenschutzes" in der vom 1. Juli 1988 an
 geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
-
 ## Art 7 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 8 Inkrafttreten
 

@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 9.9.2001 I 2331
 
-
 ## Art 1
 
 Dem in Bonn am 23. Juni 1979 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen zur Erhaltung der wandernden
 wildlebenden Tierarten wird zugestimmt. Das Übereinkommen wird
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -35,7 +33,6 @@ wird ermächtigt, Änderungen der Anhänge I und II des Übereinkommens
 nach Maßgabe von dessen Artikel XI, die sich im Rahmen der Ziele des
 Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates in Kraft zu setzen.
-
 
 ## Art 3
 
@@ -69,7 +66,6 @@ Erhaltung der betreffenden Art nicht gefährden.
 entnehmen, jagen, fischen, fangen, beunruhigen, töten oder jeder
 derartige Versuch.
 
-
 ## Art 4
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
@@ -87,7 +83,6 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
-
 
 ## Art 5
 

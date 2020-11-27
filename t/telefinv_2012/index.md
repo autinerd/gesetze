@@ -26,7 +26,6 @@ Artikel 1 Nummer 195 Buchstabe b Doppelbuchstabe cc des Gesetzes vom
 26\. März 2007 (BGBl. I S. 378) eingefügt worden ist, verordnet das
 Bundesministerium für Gesundheit:
 
-
 ## § 1 Betrag zur Finanzierung der Gesellschaft für Telematik
 
 Abweichend von § 291a Absatz 7 Satz 5 des Fünften Buches
@@ -35,7 +34,6 @@ Gesellschaft für Telematik vom Spitzenverband Bund der Krankenkassen
 zu zahlen ist, für den Zeitraum vom 1. Januar 2012 bis zum 31.
 Dezember 2012 auf 0,00 Euro je Mitglied der gesetzlichen
 Krankenversicherung festgesetzt.
-
 
 ## § 2 Inkrafttreten, Außerkrafttreten
 

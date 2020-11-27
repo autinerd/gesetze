@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 Abs. 6 G v. 12.12.2007 I 2840
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 2 Nr. 8 des Gesetzes vom 24. Juni 1985
 (BGBl. I S. 1137) neugefaßten § 15 des
 Urheberrechtswahrnehmungsgesetzes wird verordnet:
-
 
 ## § 1 Einleitung des Verfahrens
 
@@ -44,7 +42,6 @@ ist das Verfahren einzustellen; das Verfahren ist auch einzustellen,
 wenn er sich innerhalb eines Monats nicht erklärt. Der Antragsgegner
 ist hierüber zu belehren.
 
-
 ## § 2 Zurücknahme des Antrags
 
 (1) Der Antrag kann zurückgenommen werden, in Verfahren mit mündlicher
@@ -55,14 +52,12 @@ Beginn der mündlichen Verhandlung.
 Kosten des Verfahrens und die notwendigen Auslagen des Antragsgegners
 zu tragen.
 
-
 ## § 3 Mündliche Verhandlung
 
 Bei Streitfällen, die den Abschluß oder die Änderung eines
 Gesamtvertrags betreffen, entscheidet die Schiedsstelle auf Grund
 mündlicher Verhandlung. Von der mündlichen Verhandlung kann mit
 Einverständnis der Beteiligten abgesehen werden.
-
 
 ## § 4 Schriftliches Verfahren
 
@@ -73,7 +68,6 @@ mündlicher Verhandlung, wenn einer der Beteiligten es beantragt und
 der andere zustimmt oder wenn sie es ausnahmsweise zur Aufklärung des
 Sachverhalts für erforderlich hält.
 
-
 ## § 5 Vorbereitung der Verhandlung
 
 Bei Streitfällen, die den Abschluß oder die Änderung eines
@@ -81,7 +75,6 @@ Gesamtvertrags betreffen, kann der Vorsitzende die Beteiligten mit
 ihrem Einverständnis vor der mündlichen Verhandlung zu einem
 Vergleichsversuch ohne Zuziehung der Beisitzer laden. Er ist dazu
 verpflichtet, wenn beide Beteiligten es beantragen.
-
 
 ## § 6 Verfahren bei mündlicher Verhandlung
 
@@ -103,7 +96,6 @@ Vorsitzenden und vom Schriftführer zu unterzeichnen ist.
 (5) Der Einigungsvorschlag braucht den Beteiligten nicht mündlich
 verkündet zu werden.
 
-
 ## § 7 Ausbleiben in der mündlichen Verhandlung
 
 (1) Erscheint der Antragsteller nicht zur mündlichen Verhandlung, so
@@ -120,7 +112,6 @@ Ausbleiben verursachten Kosten zu tragen.
 
 (4) Die Beteiligten sind in der Ladung zur mündlichen Verhandlung auf
 die Folgen ihres Ausbleibens hinzuweisen.
-
 
 ## § 8 Ermittlung von Amts wegen
 
@@ -147,7 +138,6 @@ vorzunehmen, in dessen Bezirk die Schiedsstelle ihren Sitz hat.
 über die Rechtshilfe, und die Vorschriften der Zivilprozeßordnung sind
 entsprechend anzuwenden.
 
-
 ## § 9 Ablehnung von Mitgliedern der Schiedsstelle
 
 Über die Ausschließung und Ablehnung von Mitgliedern der Schiedsstelle
@@ -155,12 +145,10 @@ entscheidet das Amtsgericht, in dessen Bezirk die Schiedsstelle ihren
 Sitz hat. Das Ablehnungsgesuch ist bei der Schiedsstelle anzubringen.
 Die Vorschriften der Zivilprozeßordnung sind entsprechend anzuwenden.
 
-
 ## § 10 Verfahrensermessen
 
 Im übrigen verfährt die Schiedsstelle nach billigem Ermessen. Sie soll
 sich dabei an die Vorschriften der Zivilprozeßordnung anlehnen.
-
 
 ## § 11 Ehrenamtliche Mitglieder
 
@@ -177,7 +165,6 @@ Aufsichtsbehörde einzureichen oder zu Protokoll der Geschäftsstelle zu
 erklären. Die Aufsichtsbehörde kann dem Antrag abhelfen. Kosten werden
 nicht erstattet.
 
-
 ## § 12 Entschädigung von Zeugen und Sachverständigen
 
 (1) Zeugen und Sachverständige erhalten eine Entschädigung oder
@@ -188,7 +175,6 @@ Abs. 2 Satz 1 bis 3 dieses Gesetzes sind entsprechend anzuwenden.
 (2) § 11 Abs. 2 und 3 ist entsprechend anzuwenden.
 
 (3) Die Festsetzung wirkt nicht zu Lasten des Kostenschuldners.
-
 
 ## § 13 Kosten des Verfahrens
 
@@ -238,7 +224,6 @@ zu erheben. § 19 Abs. 5 und § 66 Abs. 5 Satz 1, 3 und 4, Abs. 7 Satz 1
 und Abs. 8 des Gerichtskostengesetzes sind entsprechend anzuwenden;
 über die Beschwerde entscheidet das im Rechtszug nächsthöhere Gericht.
 
-
 ## § 14 Verteilung der Kosten
 
 (1) Die Schiedsstelle entscheidet über die Verteilung der Kosten des
@@ -253,7 +238,6 @@ Einigungsvorschlag der Schiedsstelle angenommen wird. Über den Antrag
 entscheidet in Verfahren, die den Abschluß oder die Änderung eines
 Gesamtvertrags betreffen, das Oberlandesgericht, sonst das
 Amtsgericht, in dessen Bezirk die Schiedsstelle ihren Sitz hat.
-
 
 ## § 15 Festsetzung der Kosten
 
@@ -275,13 +259,11 @@ Aufsichtsbehörde kann dem Antrag abhelfen.
 (3) Aus dem Kostenfestsetzungsbeschluß findet die Zwangsvollstreckung
 in entsprechender Anwendung der Zivilprozeßordnung statt.
 
-
 ## § 16 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 27 des Urheberrechtswahrnehmungsgesetzes auch im Land
 Berlin.
-
 
 ## § 17 Inkrafttreten, abgelöste Vorschrift
 
@@ -290,7 +272,6 @@ Gleichzeitig tritt die Verordnung über die Schiedsstelle nach dem
 Gesetz über die Wahrnehmung von Urheberrechten und verwandten
 Schutzrechten vom 18. Dezember 1965 (BGBl. I s. 2106), geändert durch
 Verordnung vom 26. Juni 1970 (BGBl. I S. 840), außer Kraft;
-
 
 ## Schlußformel
 

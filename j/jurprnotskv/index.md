@@ -19,13 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 209 Abs. 4 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 3 des Gesetzes vom 16. August 1980
 (BGBl. I S. 1451) neu gefaßten § 5d Abs. 1 Satz 5 des Deutschen
 Richtergesetzes wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Notenstufen und Punktzahlen
 
@@ -84,10 +82,6 @@ einer der folgenden Noten und Punktzahlen zu bewerten:
 
     *   = 0 Punkte.
 
-
-
-
-
 ## § 2 Bildung von Gesamtnoten
 
 (1) Soweit Einzelbewertungen zu einer Gesamtbewertung zusammengefaßt
@@ -131,10 +125,6 @@ Notenbezeichnungen:
 
     *   ungenügend.
 
-
-
-
-
 ## § 3 Übergangsvorschrift
 
 (1) Die §§ 1 und 2 sind auf Prüfungen anzuwenden, die nach dem 1.
@@ -146,16 +136,13 @@ nicht als Beginn der Prüfung.
 (2) Für Wiederholungsprüfungen kann das Landesrecht abweichende
 Regelungen vorsehen.
 
-
 ## § 4
 
 (weggefallen)
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

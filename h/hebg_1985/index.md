@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 39 G v. 6.12.2011 I 2515
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## I. Abschnitt - Erlaubnis
-
-
 
 ### § 1
 
@@ -46,7 +42,6 @@ Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften
 eine Gleichstellung ergibt.
 
 (3) (weggefallen)
-
 
 ### § 2
 
@@ -182,7 +177,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ### § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf der Hebamme
@@ -218,7 +212,6 @@ die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
-
 ### § 3
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die
@@ -232,10 +225,7 @@ Voraussetzung nach § 2 Abs. 1 Nr. 2 weggefallen ist.
 (3) Die Erlaubnis kann widerrufen werden, wenn nachträglich eine der
 Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
-
 ## II. Abschnitt - Vorbehaltene Tätigkeiten
-
-
 
 ### § 4
 
@@ -251,10 +241,7 @@ wird.
 Geburtsvorgangs von Beginn der Wehen an, Hilfe bei der Geburt und
 Überwachung des Wochenbettverlaufs.
 
-
 ## III. Abschnitt - Ausbildung
-
-
 
 ### § 5
 
@@ -264,7 +251,6 @@ notwendige Fürsorge zu gewähren, normale Geburten zu leiten,
 Komplikationen des Geburtsverlaufs frühzeitig zu erkennen, Neugeborene
 zu versorgen, den Wochenbettverlauf zu überwachen und eine
 Dokumentation über den Geburtsverlauf anzufertigen (Ausbildungsziel).
-
 
 ### § 6
 
@@ -335,7 +321,6 @@ entsprechend. Die Länder übermitteln dem Bundesministerium für
 Gesundheit die für die Erstellung dieses Berichts erforderlichen
 Ergebnisse der Auswertung.
 
-
 ### § 7
 
 Voraussetzung für den Zugang zu einer Ausbildung nach § 6 Abs. 1 ist
@@ -364,10 +349,6 @@ Voraussetzung:
 
 3.  die Erlaubnis als Krankenpflegehelferin oder Krankenpflegehelfer.
 
-
-
-
-
 ### § 8
 
 Die zuständige Behörde kann auf Antrag eine andere Ausbildung im
@@ -376,7 +357,6 @@ wenn die Durchführung der Ausbildung und die Erreichung des
 Ausbildungsziels dadurch nicht gefährdet werden. Eine Ausbildung als
 Krankenschwester, Krankenpfleger, Kinderkrankenschwester oder
 Kinderkrankenpfleger ist mit zwölf Monaten anzurechnen.
-
 
 ### § 9
 
@@ -396,7 +376,6 @@ Auf die Dauer der Ausbildung werden angerechnet
 Auf Antrag kann die zuständige Behörde auch darüber hinausgehende
 Fehlzeiten berücksichtigen, soweit eine besondere Härte vorliegt und
 das Ausbildungsziel durch die Anrechnung nicht gefährdet wird.
-
 
 ### § 10
 
@@ -437,10 +416,7 @@ Verbindung mit § 2 Absatz 2, 2a, 3 oder 5 beantragen, zu regeln:
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## IV. Abschnitt - Ausbildungsverhältnis
-
-
 
 ### § 11
 
@@ -485,7 +461,6 @@ gesetzlichem Vertreter auszuhändigen.
 
 (4) Änderungen des Ausbildungsvertrags bedürfen der Schriftform.
 
-
 ### § 12
 
 (1) Eine Vereinbarung, die die Schülerin oder den Schüler für die Zeit
@@ -509,10 +484,6 @@ Arbeitsverhältnis auf unbestimmte Zeit eingeht.
 
 4.  die Festsetzung der Höhe eines Schadensersatzes in Pauschbeträgen.
 
-
-
-
-
 ### § 13
 
 (1) Der Träger der Ausbildung hat
@@ -534,7 +505,6 @@ Arbeitsverhältnis auf unbestimmte Zeit eingeht.
 werden, die dem Ausbildungszweck dienen; sie sollen ihren körperlichen
 Kräften angemessen sein.
 
-
 ### § 14
 
 Die Schülerin und der Schüler haben sich zu bemühen, die in § 5
@@ -553,10 +523,6 @@ insbesondere verpflichtet,
     Schweigepflicht einzuhalten und über Betriebsgeheimnisse
     Stillschweigen zu wahren.
 
-
-
-
-
 ### § 15
 
 (1) Der Träger der Ausbildung hat der Schülerin und dem Schüler eine
@@ -574,12 +540,10 @@ Sachbezugswerten abzugelten.
 Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise
 zulässig und besonders zu vergüten.
 
-
 ### § 16
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit
 beträgt sechs Monate.
-
 
 ### § 17
 
@@ -590,7 +554,6 @@ Ausbildungszeit.
 nicht, so verlängert sich das Ausbildungsverhältnis auf ihren
 schriftlichen Antrag bis zur nächstmöglichen Wiederholungsprüfung,
 höchstens jedoch um ein Jahr.
-
 
 ### § 18
 
@@ -627,7 +590,6 @@ als zwei Wochen bekannt sind. Ist ein vorgesehenes Güteverfahren vor
 einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen
 Beendigung der Lauf dieser Frist gehemmt.
 
-
 ### § 19
 
 Werden die Schülerin und der Schüler im Anschluß an das
@@ -635,13 +597,11 @@ Ausbildungsverhältnis beschäftigt, ohne daß hierüber ausdrücklich
 etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf
 unbestimmte Zeit als begründet.
 
-
 ### § 20
 
 Eine Vereinbarung, die zuungunsten der Schülerin oder des Schülers von
 den Vorschriften des IV. Abschnitts dieses Gesetzes abweicht, ist
 nichtig.
-
 
 ### § 20a
 
@@ -649,17 +609,13 @@ Die §§ 11 bis 20 sind nicht auf Ausbildungsteilnehmerinnen und
 Ausbildungsteilnehmer anzuwenden, die im Rahmen von Modellvorhaben
 nach § 6 Absatz 3 die Ausbildung an einer Hochschule ableisten.
 
-
 ### § 21
 
 Die §§ 11 bis 20 finden keine Anwendung auf Schülerinnen und Schüler,
 die Mitglieder geistlicher Gemeinschaften oder Diakonissen oder
 Diakonieschwestern sind.
 
-
 ## V. Abschnitt - Erbringen von Dienstleistungen, zwischenstaatliche Verträge
-
-
 
 ### § 22
 
@@ -735,7 +691,6 @@ Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich
 hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht
 der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
 ### § 22a
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -751,7 +706,6 @@ und die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-
 ### § 22b
 
 Hebammen oder Entbindungspfleger im Sinne des § 22 haben beim
@@ -761,16 +715,12 @@ Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde
 unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats
 dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
 ### § 23
 
 Zwischenstaatliche Verträge über die Tätigkeit der Hebammen in den
 Grenzgebieten bleiben unberührt.
 
-
 ## VI. Abschnitt - Zuständigkeiten
-
-
 
 ### § 24
 
@@ -796,10 +746,7 @@ den Beruf der Hebamme ausübt.
 (3) Die Länder bestimmen die zur Durchführung dieses Gesetzes
 zuständigen Behörden.
 
-
 ## VII. Abschnitt - Bußgeldvorschriften
-
-
 
 ### § 25
 
@@ -816,20 +763,14 @@ Ordnungswidrig handelt, wer
 Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ## VIII. Abschnitt - Anwendung des Berufsbildungsgesetzes
-
-
 
 ### § 26
 
 Für die Ausbildung der Hebamme und des Entbindungspflegers findet das
 Berufsbildungsgesetz keine Anwendung.
 
-
 ## IX. Abschnitt - Übergangsvorschriften
-
-
 
 ### § 27
 
@@ -846,7 +787,6 @@ Nach Abschluß der Ausbildung erhält der Antragsteller, wenn die
 Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis
 nach § 1 Abs. 1.
 
-
 ### § 27a
 
 (1) Eine vor dem Wirksamwerden des Beitritts nach den Vorschriften der
@@ -858,7 +798,6 @@ Deutschen Demokratischen Republik begonnene Ausbildung als Hebamme
 wird nach diesen Vorschriften abgeschlossen. Nach Abschluß der
 Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des § 2
 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1 Abs. 1.
-
 
 ### § 28
 
@@ -1016,7 +955,6 @@ Pflege verantwortlich sind, voraussetzt, abgeleistet haben, gilt Satz
 1 mit der Maßgabe, dass eine zusätzliche Bescheinigung über eine
 berufliche Tätigkeit im Beruf der Hebamme nicht erforderlich ist.
 
-
 ### § 29
 
 (1) Eine im Zeitpunkt des Inkrafttretens dieses Gesetzes wirksame
@@ -1035,7 +973,6 @@ sichergestellt ist.
 (3) Die Niederlassungserlaubnis darf nicht vor Ablauf von drei Jahren
 nach Inkrafttreten dieses Gesetzes widerrufen werden.
 
-
 ### § 30
 
 (1) Eine Anerkennung als Wochenpflegerin nach § 1 Abs. 2 der
@@ -1050,10 +987,7 @@ Wochenpflegerin wird nach den bisher geltenden Vorschriften
 abgeschlossen. Nach Abschluß der Ausbildung erhält die Antragstellerin
 eine Anerkennung nach diesen Vorschriften.
 
-
 ## IXa. Abschnitt - Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
-
-
 
 ### § 30a
 
@@ -1100,10 +1034,7 @@ innerhalb von drei Jahren nach dem Wirksamwerden des Beitritts
 nachgewiesen wird, daß die Voraussetzungen des § 6 Abs. 2 erfüllt
 sind.
 
-
 ## X. Abschnitt - Schlußvorschriften
-
-
 
 ### § 31
 
@@ -1112,18 +1043,15 @@ Rechtsvorschriften finden auch auf "Entbindungspfleger" Anwendung.
 
 (2)
 
-
 ### § 32
 
 (weggefallen)
-
 
 ### § 33
 
 § 6 Absatz 3 bis 5 tritt am 31. Dezember 2017 außer Kraft.
 Ausbildungen nach § 6 Absatz 3, die vor dem 31. Dezember 2017 begonnen
 worden sind, werden nach dieser Vorschrift abgeschlossen.
-
 
 ### Anlage (zu § 2 Abs. 2 Satz 1)
 

@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1663
 
-
 ## Eingangsformel
 
 Auf Grund des § 802k Absatz 4 der Zivilprozessordnung, der durch
 Artikel 3 Nummer 4 Buchstabe b des Gesetzes vom 22. Dezember 2011
 (BGBl. I S. 3044) geändert worden ist, verordnet das Bundesministerium
 der Justiz:
-
 
 ## § 1 Anwendungsbereich
 
@@ -34,13 +32,11 @@ landesgesetzlichen Regelung errichtet worden sind, die § 284 Absatz 1
 bis 7 der Abgabenordnung gleichwertig ist, soweit diese die
 Hinterlegung anordnet.
 
-
 ## § 2 Vermögensverzeichnisregister
 
 Die Vermögensverzeichnisse werden in jedem Land von einem zentralen
 Vollstreckungsgericht in elektronischer Form in einem
 Vermögensverzeichnisregister verwaltet.
-
 
 ## § 3 Errichtung und Form der Vermögensverzeichnisse
 
@@ -70,10 +66,6 @@ Vermögensverzeichnis elektronisch nach § 4 Absatz 1 Satz 3 beizufügen.
 3.  an welchem Tag die Versicherung an Eides statt für das
     Vermögensverzeichnis erstmals erfolgt ist, wenn die Vermögensauskunft
     ergänzt oder nachgebessert worden ist.
-
-
-
-
 
 ## § 4 Elektronische Übermittlung der Vermögensverzeichnisse
 
@@ -121,7 +113,6 @@ gewährleisten, dass
 Werden zur Übermittlung der Daten öffentliche Telekommunikationsnetze
 genutzt, ist ein geeignetes Verschlüsselungsverfahren zu verwenden.
 
-
 ## § 5 Hinterlegung der Vermögensverzeichnisse
 
 (1) Das zentrale Vollstreckungsgericht prüft, ob die elektronische
@@ -159,7 +150,6 @@ Vermögensverzeichnis als elektronisches Dokument übermittelt werden,
 wenn dieses mit einer qualifizierten elektronischen Signatur versehen
 ist. § 4 Absatz 2 gilt entsprechend.
 
-
 ## § 6 Löschung der Vermögensverzeichnisse
 
 (1) Das zentrale Vollstreckungsgericht löscht das hinterlegte
@@ -179,7 +169,6 @@ Vorschriften handelt.
 benachrichtigt das zentrale Vollstreckungsgericht das zentrale
 Vollstreckungsgericht, bei dem ein älteres Vermögensverzeichnis
 verwaltet wird.
-
 
 ## § 7 Einsichtnahme in das Vermögensverzeichnis
 
@@ -226,7 +215,6 @@ Verfahren zur Datenschutzkontrolle, einem gerichtlichen Verfahren oder
 Strafverfahren benötigt werden, sind nach dem endgültigen Abschluss
 dieser Verfahren zu löschen.
 
-
 ## § 8 Registrierung
 
 (1) Die Registrierung der Errichtungsberechtigten für die Übermittlung
@@ -252,7 +240,6 @@ Absatz 4 in einem bundeseinheitlichen Verfahren ermöglicht.
 Absatz 1 und 3 und § 49 Absatz 2 und 5 des
 Verwaltungsverfahrensgesetzes entsprechend. Zuständig ist das zentrale
 Vollstreckungsgericht, das die Registrierung vorgenommen hat.
-
 
 ## § 9 Ende der Nutzungsberechtigung
 
@@ -288,11 +275,9 @@ Absatz 2 der Zivilprozessordnung) endet, wenn die dem
 Einsichtsberechtigten obliegenden Aufgaben keine Einsichtnahme mehr
 erfordern. Die Absätze 1 bis 3 gelten entsprechend.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
-
 
 ## Schlussformel
 

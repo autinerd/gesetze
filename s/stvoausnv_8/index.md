@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1130
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes
@@ -28,7 +26,6 @@ eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974
 vom 26. November 1986 (BGBl. I S. 2089), verordnet das
 Bundesministerium für Verkehr nach Anhörung der zuständigen obersten
 Landesbehörden:
-
 
 ## § 1
 
@@ -44,14 +41,9 @@ Schutzhelm zu tragen, wenn
 
 2.  die vorhandenen Rückhaltesysteme angelegt sind.
 
-
-
-
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage
 

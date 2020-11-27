@@ -18,15 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 G v. 6.12.2011 I 2515
 
-
-
 ## Erster Teil - Das Amt des Notars
 
-
-
 ### 1. Abschnitt - Bestellung zum Notar
-
-
 
 #### § 1
 
@@ -34,14 +28,12 @@ Als unabhängige Träger eines öffentlichen Amtes werden für die
 Beurkundung von Rechtsvorgängen und andere Aufgaben auf dem Gebiet der
 vorsorgenden Rechtspflege in den Ländern Notare bestellt.
 
-
 #### § 2
 
 Die Notare unterstehen, soweit nichts anderes bestimmt ist,
 ausschließlich den Vorschriften dieses Gesetzes. Sie führen ein
 Amtssiegel und tragen die Amtsbezeichnung Notarin oder Notar. Ihr
 Beruf ist kein Gewerbe.
-
 
 #### § 3
 
@@ -57,7 +49,6 @@ bestellt (Anwaltsnotare).
 
 (3) (weggefallen)
 
-
 #### § 4
 
 Es werden so viele Notare bestellt, wie es den Erfordernissen einer
@@ -66,13 +57,11 @@ Bedürfnis nach einer angemessenen Versorgung der Rechtsuchenden mit
 notariellen Leistungen und die Wahrung einer geordneten Altersstruktur
 des Notarberufs zu berücksichtigen.
 
-
 #### § 5
 
 Zum Notar darf nur bestellt werden, wer die Befähigung zum Richteramt
 nach dem Deutschen Richtergesetz erlangt hat. Das
 Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
-
 
 #### § 6
 
@@ -151,13 +140,11 @@ Amtsniederlegung nach § 48b auf die bisherige Amtstätigkeit zu
 treffen. Sie können die Ermächtigung durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen.
 
-
 #### § 6a
 
 Die Bestellung muß versagt werden, wenn der Bewerber weder nachweist,
 daß eine Berufshaftpflichtversicherung (§ 19a) besteht, noch eine
 vorläufige Deckungszusage vorlegt.
-
 
 #### § 6b
 
@@ -180,7 +167,6 @@ Antragsfrist nachzuholen.
 solche Umstände zu berücksichtigen, die bei Ablauf der Bewerbungsfrist
 vorlagen. Die Landesjustizverwaltung kann für den Fall des § 7 Abs. 1
 einen hiervon abweichenden Zeitpunkt bestimmen.
-
 
 #### § 7
 
@@ -246,10 +232,6 @@ Entlassung beantragt. Er kann entlassen werden, wenn er
     angebotene Notarstelle nicht bewirbt, die zuvor ausgeschrieben worden
     ist und die mangels geeigneter Bewerber nicht besetzt werden konnte.
 
-
-
-
-
 #### § 7a
 
 (1) Zur notariellen Fachprüfung wird auf Antrag zugelassen, wer seit
@@ -289,7 +271,6 @@ kann frühestens nach drei Jahren ab Bekanntgabe des Bescheides über
 das Ergebnis der notariellen Fachprüfung mit dem Ziel der
 Notenverbesserung einmal wiederholt werden.
 
-
 #### § 7b
 
 (1) Die schriftliche Prüfung umfasst vier fünfstündige
@@ -316,7 +297,6 @@ Aufsichtsarbeit mit weniger als 4,00 Punkten bewertet oder liegt der
 Gesamtdurchschnitt aller Aufsichtsarbeiten unter 3,50 Punkten, so ist
 der Prüfling von der mündlichen Prüfung ausgeschlossen und hat die
 notarielle Fachprüfung nicht bestanden.
-
 
 #### § 7c
 
@@ -350,7 +330,6 @@ Prüfungsausschuss dem Prüfling die Bewertungen bekannt. Eine nähere
 Erläuterung der Bewertungen kann nur sofort verlangt werden und
 erfolgt nur mündlich.
 
-
 #### § 7d
 
 (1) Der Bescheid über das Ergebnis der notariellen Fachprüfung ist dem
@@ -363,7 +342,6 @@ Notenverbesserung erteilt.
 (2) Über einen Widerspruch entscheidet der Leiter des Prüfungsamtes.
 
 (3) (weggefallen)
-
 
 #### § 7e
 
@@ -380,7 +358,6 @@ erneut anfertigen; die bereits erbrachten Prüfungsleistungen bleiben
 unberührt. Wer nachweist, dass er aus einem von ihm nicht zu
 vertretenden Grund die mündliche Prüfung ganz oder teilweise versäumt
 hat, kann diese nachholen.
-
 
 #### § 7f
 
@@ -403,7 +380,6 @@ gilt diese als mit null Punkten bewertet. Im Fall eines wiederholten
 Ausschlusses von der Anfertigung einer Aufsichtsarbeit oder des
 Ausschlusses von der mündlichen Prüfung gilt die notarielle
 Fachprüfung als nicht bestanden.
-
 
 #### § 7g
 
@@ -475,7 +451,6 @@ an Weisungen nicht gebunden. Im Übrigen unterstehen sie in ihrer
 Eigenschaft als Prüfer der Aufsicht des Prüfungsamtes. Für ihre
 Tätigkeit erhalten sie eine angemessene Vergütung.
 
-
 #### § 7h
 
 (1) Für die Prüfung und für das erfolglose Widerspruchsverfahren sind
@@ -493,7 +468,6 @@ Leiters und der Bediensteten des Prüfungsamtes, der Mitglieder der
 Aufgabenkommission und der Prüfer durch Satzung, die der Genehmigung
 des Bundesministeriums der Justiz bedarf.
 
-
 #### § 7i
 
 Das Bundesministerium der Justiz regelt durch Rechtsverordnung mit
@@ -501,7 +475,6 @@ Zustimmung des Bundesrates nähere Einzelheiten der Organisation und
 des Geschäftsablaufs des Prüfungsamtes, der Auswahl und der Berufung
 der Prüfer, des Prüfungsverfahrens sowie des Verfahrens zur
 Beschlussfassung im Verwaltungsrat.
-
 
 #### § 8
 
@@ -540,7 +513,6 @@ Vormund oder einer ähnlichen auf behördlicher Anordnung beruhenden
 Stellung sowie eine wissenschaftliche, künstlerische oder
 Vortragstätigkeit.
 
-
 #### § 9
 
 (1) Zur hauptberuflichen Amtsausübung bestellte Notare dürfen sich nur
@@ -577,7 +549,6 @@ Nutzung der Geschäftsräume ist nur zulässig, soweit hierdurch die
 persönliche und eigenverantwortliche Amtsführung, Unabhängigkeit und
 Unparteilichkeit des Notars nicht beeinträchtigt wird.
 
-
 #### § 10
 
 (1) Dem Notar wird ein bestimmter Ort als Amtssitz zugewiesen. In
@@ -608,7 +579,6 @@ und mit dem Vorbehalt des Widerrufs erteilt sowie befristet werden.
 Vor der Erteilung oder der Aufhebung der Genehmigung ist die
 Notarkammer zu hören.
 
-
 #### § 10a
 
 (1) Der Amtsbereich des Notars ist der Bezirk des Amtsgerichts, in dem
@@ -627,7 +597,6 @@ Amtsbereichs gebieten.
 Aufsichtsbehörde oder nach deren Bestimmung der Notarkammer, der er
 angehört, unverzüglich und unter Angabe der Gründe mitzuteilen.
 
-
 #### § 11
 
 (1) Der Amtsbezirk des Notars ist der Oberlandesgerichtsbezirk, in dem
@@ -641,7 +610,6 @@ genehmigt hat.
 auch wenn der Notar die Urkundstätigkeit außerhalb des Landes
 vornimmt, in dem er zum Notar bestellt ist.
 
-
 #### § 11a
 
 Der Notar ist befugt, einen im Ausland bestellten Notar auf dessen
@@ -654,14 +622,12 @@ Geltungsbereich dieses Gesetzes kollegiale Hilfe leisten; Satz 1 gilt
 entsprechend. Er hat hierbei die für einen deutschen Notar geltenden
 Pflichten zu beachten.
 
-
 #### § 12
 
 Die Notare werden von der Landesjustizverwaltung nach Anhörung der
 Notarkammer durch Aushändigung einer Bestallungsurkunde bestellt. Die
 Urkunde soll den Amtsbezirk und den Amtssitz des Notars bezeichnen und
 die Dauer der Bestellung (§ 3 Abs. 1 und 2) angeben.
-
 
 #### § 13
 
@@ -687,10 +653,7 @@ kann auch ohne religiöse Beteuerung geleistet werden.
 dessen Bezirk er seinen Amtssitz hat. Vor der Eidesleistung soll er
 keine Amtshandlung vornehmen.
 
-
 ### 2. Abschnitt - Ausübung des Amtes
-
-
 
 #### § 14
 
@@ -730,7 +693,6 @@ einen beherrschenden Einfluß ausübt.
 (6) Der Notar hat sich in dem für seine Amtstätigkeit erforderlichen
 Umfang fortzubilden.
 
-
 #### § 15
 
 (1) Der Notar darf seine Urkundstätigkeit nicht ohne ausreichenden
@@ -751,7 +713,6 @@ technischen Einrichtungen verfügt. Der Notar muss jedoch spätestens ab
 dem 1. April 2006 über zumindest eine Einrichtung verfügen, die
 Verfahren nach Satz 1 ermöglicht.
 
-
 #### § 16
 
 (1) Soweit es sich bei Amtstätigkeiten des Notars nicht um
@@ -760,7 +721,6 @@ Beurkundungsgesetzes entsprechend.
 
 (2) Der Notar kann sich der Ausübung des Amtes wegen Befangenheit
 enthalten.
-
 
 #### § 17
 
@@ -783,7 +743,6 @@ Notar seine Urkundstätigkeit in sinngemäßer Anwendung der Vorschriften
 der Zivilprozeßordnung vorläufig gebührenfrei oder gegen Zahlung der
 Gebühren in Monatsraten zu gewähren.
 
-
 #### § 18
 
 (1) Der Notar ist zur Verschwiegenheit verpflichtet. Diese Pflicht
@@ -805,7 +764,6 @@ hergeleitet werden.
 
 (4) Die Pflicht zur Verschwiegenheit bleibt auch nach dem Erlöschen
 des Amtes bestehen.
-
 
 #### § 19
 
@@ -834,7 +792,6 @@ des Notars tätig gewesen, so bestimmt sich die Haftung nach § 46.
 (3) Für Schadensersatzansprüche nach Absatz 1 und 2 sind die
 Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes
 ausschließlich zuständig.
-
 
 #### § 19a
 
@@ -915,10 +872,7 @@ anders festzusetzen, wenn dies erforderlich ist, um bei einer Änderung
 der wirtschaftlichen Verhältnisse einen hinreichenden Schutz der
 Geschädigten sicherzustellen.
 
-
 ### 3. Abschnitt - Die Amtstätigkeit
-
-
 
 #### § 20
 
@@ -949,7 +903,6 @@ Nachlaßverzeichnissen und Nachlaßinventaren sowie zur Anlegung und
 Abnahme von Siegeln im Rahmen eines Nachlaßsicherungsverfahrens
 zuständig sind, bestimmt sich nach den landesrechtlichen Vorschriften.
 
-
 #### § 21
 
 (1) Die Notare sind zuständig,
@@ -974,7 +927,6 @@ hiervon beruhen muß. Er hat den Tag der Einsichtnahme in das Register
 oder den Tag der Ausstellung der Abschrift in der Bescheinigung
 anzugeben.
 
-
 #### § 22
 
 (1) Zur Abnahme von Eiden sowie zu eidlichen Vernehmungen sind die
@@ -988,14 +940,12 @@ allen Fällen zu, in denen einer Behörde oder sonstigen Dienststelle
 eine tatsächliche Behauptung oder Aussage glaubhaft gemacht werden
 soll.
 
-
 #### § 23
 
 Die Notare sind auch zuständig, Geld, Wertpapiere und Kostbarkeiten,
 die ihnen von den Beteiligten übergeben sind, zur Aufbewahrung oder
 zur Ablieferung an Dritte zu übernehmen; §§ 54a bis 54d des
 Beurkundungsgesetzes bleiben unberührt.
-
 
 #### § 24
 
@@ -1023,10 +973,7 @@ Anträge zurückzunehmen. Die Rücknahmeerklärung ist wirksam, wenn sie
 mit der Unterschrift und dem Amtssiegel des Notars versehen ist; eine
 Beglaubigung der Unterschrift ist nicht erforderlich.
 
-
 ### 4. Abschnitt - Sonstige Pflichten des Notars
-
-
 
 #### § 25
 
@@ -1044,7 +991,6 @@ wenn die Aufsichtsbehörde dies nach Anhörung der Notarkammer genehmigt
 hat. Die Genehmigung kann mit Auflagen verbunden und mit dem Vorbehalt
 des Widerrufs erteilt sowie befristet werden.
 
-
 #### § 26
 
 Der Notar hat die bei ihm beschäftigten Personen mit Ausnahme der
@@ -1054,7 +1000,6 @@ verpflichten. Hierbei ist auf die Bestimmungen in § 14 Abs. 4 und § 18
 besonders hinzuweisen. Besteht ein einheitliches
 Beschäftigungsverhältnis zu mehreren Notaren, so genügt es, wenn einer
 von ihnen die Verpflichtung vornimmt.
-
 
 #### § 27
 
@@ -1070,7 +1015,6 @@ unberührt.
 Notarkammer die Vereinbarung über die gemeinsame Berufsausübung oder
 die gemeinsame Nutzung der Geschäftsräume vorzulegen.
 
-
 #### § 28
 
 Der Notar hat durch geeignete Vorkehrungen die Wahrung der
@@ -1078,7 +1022,6 @@ Unabhängigkeit und Unparteilichkeit seiner Amtsführung, insbesondere
 die Einhaltung der Mitwirkungsverbote und weiterer Pflichten nach den
 Bestimmungen dieses Gesetzes, des Beurkundungsgesetzes und der
 Kostenordnung sicherzustellen.
-
 
 #### § 29
 
@@ -1098,7 +1041,6 @@ Geschäftsstelle hinweist. In überörtlich verwendeten Verzeichnissen
 ist der Angabe der Amtsbezeichnung ein Hinweis auf den Amtssitz
 hinzuzufügen.
 
-
 #### § 30
 
 (1) Der Notar hat bei der Ausbildung des beruflichen Nachwuchses und
@@ -1107,13 +1049,11 @@ von Referendaren nach besten Kräften mitzuwirken.
 (2) Der Notar hat den von ihm beschäftigten Auszubildenden eine
 sorgfältige Fachausbildung zu vermitteln.
 
-
 #### § 31
 
 Der Notar hat sich gegenüber Kollegen, Gerichten, Behörden,
 Rechtsanwälten und anderen Beratern seiner Auftraggeber in der seinem
 Amt entsprechenden Weise zu verhalten.
-
 
 #### § 32
 
@@ -1123,14 +1063,9 @@ Verkündungsblatt der Bundesnotarkammer zu halten. Sind mehrere Notare
 zu gemeinsamer Berufsausübung verbunden, so genügt der
 gemeinschaftliche Bezug je eines Stücks.
 
-
 #### (XXXX) §§ 33 bis 37 (weggefallen)
 
-
-
 ### 5. Abschnitt - Abwesenheit und Verhinderung des Notars. Notarvertreter
-
-
 
 #### § 38
 
@@ -1140,7 +1075,6 @@ an der Ausübung seines Amtes verhindert, so hat er dies der
 Aufsichtsbehörde unverzüglich anzuzeigen. Er bedarf der Genehmigung
 der Aufsichtsbehörde, wenn die Abwesenheit von dem Amtssitz länger als
 einen Monat dauern soll.
-
 
 #### § 39
 
@@ -1172,7 +1106,6 @@ Pfleger den Antrag stellen und den Vertreter vorschlagen.
 mit Ausnahme des § 19a entsprechend anzuwenden, soweit nicht
 nachstehend etwas anderes bestimmt ist.
 
-
 #### § 40
 
 (1) Der Vertreter wird durch schriftliche Verfügung bestellt. Er hat,
@@ -1184,7 +1117,6 @@ hingewiesen wird.
 
 (2) Die Bestellung des Vertreters kann jederzeit widerrufen werden.
 
-
 #### § 41
 
 (1) Der Vertreter versieht das Amt auf Kosten des Notars. Er hat
@@ -1194,7 +1126,6 @@ beizufügen und Siegel und Stempel des Notars zu gebrauchen.
 (2) Er soll sich der Ausübung des Amtes auch insoweit enthalten, als
 dem von ihm vertretenen Notar die Amtsausübung untersagt wäre.
 
-
 #### § 42
 
 Für vermögensrechtliche Streitigkeiten zwischen dem Notar und dem
@@ -1203,12 +1134,10 @@ Amtspflichtverletzungen betreffen, sind die Landgerichte ohne
 Rücksicht auf den Wert des Streitgegenstandes ausschließlich
 zuständig.
 
-
 #### § 43
 
 Der Notar hat dem ihm von Amts wegen bestellten Vertreter (§ 39 Abs.
 2) eine angemessene Vergütung zu zahlen.
-
 
 #### § 44
 
@@ -1220,7 +1149,6 @@ der Notar der Ausübung seines Amtes enthalten.
 (2) Die Amtshandlungen des Vertreters sind nicht deshalb ungültig,
 weil die für seine Bestellung nach § 39 erforderlichen Voraussetzungen
 nicht vorhanden waren oder später weggefallen sind.
-
 
 #### § 45
 
@@ -1256,7 +1184,6 @@ stehen, wenn die Akten durch einen Notar verwahrt werden, diesem und,
 wenn die Akten durch das Amtsgericht verwahrt werden, der Staatskasse
 zu.
 
-
 #### § 46
 
 Für eine Amtspflichtverletzung des Vertreters haftet der Notar dem
@@ -1264,10 +1191,7 @@ Geschädigten neben dem Vertreter als Gesamtschuldner. Im Verhältnis
 zwischen dem Notar und dem Vertreter ist der Vertreter allein
 verpflichtet.
 
-
 ### 6. Abschnitt - Erlöschen des Amtes. Vorläufige Amtsenthebung. Notariatsverwalter
-
-
 
 #### § 47
 
@@ -1294,10 +1218,6 @@ Das Amt des Notars erlischt durch
 
 7.  vorübergehende Amtsniederlegung (§§ 48b, 48c).
 
-
-
-
-
 #### § 48
 
 Der Notar kann jederzeit seine Entlassung aus dem Amt verlangen. Das
@@ -1305,12 +1225,10 @@ Verlangen muß der Landesjustizverwaltung schriftlich erklärt werden.
 Die Entlassung ist von der Landesjustizverwaltung für den beantragten
 Zeitpunkt auszusprechen.
 
-
 #### § 48a
 
 Die Notare erreichen mit dem Ende des Monats, in dem sie das
 siebzigste Lebensjahr vollenden, die Altersgrenze.
-
 
 #### § 48b
 
@@ -1331,7 +1249,6 @@ Aufsichtsbehörde vorübergehend niederlegen.
 Verbindung mit der Amtsniederlegung nach § 48c zwölf Jahre nicht
 überschreiten.
 
-
 #### § 48c
 
 (1) Erklärt der Notar mit dem Antrag auf Genehmigung der
@@ -1346,12 +1263,10 @@ beiden Jahre ausgeschlossen; § 48b bleibt unberührt. Die Dauer
 mehrfacher Amtsniederlegungen nach Absatz 1 darf drei Jahre nicht
 überschreiten.
 
-
 #### § 49
 
 Eine strafgerichtliche Verurteilung hat für den Notar den Amtsverlust
 in gleicher Weise zur Folge wie für einen Landesjustizbeamten.
-
 
 #### § 50
 
@@ -1427,7 +1342,6 @@ Notar bestellt werden. Die in diesen Vorschriften dem
 Dienstvorgesetzten zugewiesenen Aufgaben nimmt die
 Landesjustizverwaltung wahr.
 
-
 #### § 51
 
 (1) Ist das Amt eines Notars erloschen oder wird sein Amtssitz in
@@ -1462,7 +1376,6 @@ Amtsgericht erteilt, in dessen Bezirk der Notar seinen Sitz hatte. Die
 Vorschriften des § 45 Abs. 4 und 5 dieses Gesetzes sowie des § 797
 Abs. 3 der Zivilprozeßordnung gelten entsprechend.
 
-
 #### § 52
 
 (1) Mit dem Erlöschen des Amtes erlischt die Befugnis, die Bezeichnung
@@ -1490,7 +1403,6 @@ zur Rechtsanwaltschaft zugelassen, so erlischt die Befugnis nach
 Absatz 2 Satz 1, wenn er sich nach dem Wegfall seiner Zulassung nicht
 weiterhin Rechtsanwalt nennen darf.
 
-
 #### § 53
 
 (1) Ist das Amt eines zur hauptberuflichen Amtsausübung bestellten
@@ -1505,7 +1417,6 @@ Interesse der Rechtspflege geboten ist.
 (2) Die Gültigkeit der aus Anlaß der Übernahme oder Anstellung
 abgeschlossenen Rechtsgeschäfte wird durch einen Verstoß gegen die
 Vorschrift des Absatzes 1 nicht berührt.
-
 
 #### § 54
 
@@ -1568,7 +1479,6 @@ ein,
 (5) Die Vorschriften über die vorläufige Amtsenthebung eines Notars
 nach Einleitung eines Disziplinarverfahrens bleiben unberührt.
 
-
 #### § 55
 
 (1) Im Fall der vorläufigen Amtsenthebung hat das Amtsgericht, wenn
@@ -1581,7 +1491,6 @@ entsprechend.
 jeder Amtshandlung zu enthalten. Ein Verstoß berührt jedoch die
 Gültigkeit der Amtshandlung nicht. Amtsgeschäfte nach § 23 kann der
 Notar nicht mehr vornehmen.
-
 
 #### § 56
 
@@ -1614,7 +1523,6 @@ Notarvertreters (§ 39 Abs. 2 Satz 1) nicht zweckmäßig erscheint.
 (5) Notarassessoren sind verpflichtet, das Amt eines
 Notariatsverwalters zu übernehmen.
 
-
 #### § 57
 
 (1) Der Notariatsverwalter untersteht, soweit nichts anderes bestimmt
@@ -1625,7 +1533,6 @@ Anhörung der Notarkammer durch Aushändigung einer Bestallungsurkunde
 bestellt. Er hat, sofern er nicht schon als Notar vereidigt ist, vor
 der Übernahme seines Amtes vor dem Präsidenten des Landgerichts den
 Amtseid (§ 13) zu leisten. § 40 Abs. 1 Satz 3 gilt entsprechend.
-
 
 #### § 58
 
@@ -1654,7 +1561,6 @@ der vollstreckbaren Ausfertigung befugt. Der Notariatsverwalter hat
 ihm Einsicht in die Bücher und Akten zu gewähren; die dadurch
 entstehenden Kosten trägt der Notar.
 
-
 #### § 59
 
 (1) Der Notariatsverwalter führt sein Amt auf Rechnung der Notarkammer
@@ -1673,7 +1579,6 @@ wegen vorsätzlicher unerlaubter Handlung hat.
 1 Satz 1 und 2 abweichende Regelung treffen. Absatz 2 ist in diesem
 Fall nicht anwendbar.
 
-
 #### § 60
 
 (1) Die Überschüsse aus den auf Rechnung der Notarkammer
@@ -1685,7 +1590,6 @@ werden.
 nach § 67 Abs. 4 Nr. 2 eingerichtet sind, diesen zuzuwenden. Bestehen
 Versorgungseinrichtungen nicht, fließen verbleibende Überschüsse der
 Notarkammer zu.
-
 
 #### § 61
 
@@ -1710,7 +1614,6 @@ Namen geltend machen können.
 (3) Eine Haftung des Staates für Amtspflichtverletzungen des
 Notariatsverwalters besteht nicht.
 
-
 #### § 62
 
 Für vermögensrechtliche Streitigkeiten zwischen der Notarkammer und
@@ -1719,7 +1622,6 @@ oder die Haftung für Amtspflichtverletzungen betreffen, sind die
 Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes
 ausschließlich zuständig.
 
-
 #### § 63
 
 (1) Der Notariatsverwalter ist verpflichtet, einem Beauftragten der
@@ -1727,7 +1629,6 @@ Notarkammer Akten und Bücher sowie die in seiner Verwahrung
 befindlichen Urkunden zur Einsicht vorzulegen.
 
 (2) Die Prüfungsbefugnisse der Aufsichtsbehörde bleiben unberührt.
-
 
 #### § 64
 
@@ -1760,10 +1661,7 @@ Notarkammer kann den neu bestellten oder wieder in sein Amt
 eingesetzten Notar damit beauftragen, die ausstehenden Forderungen auf
 ihre Kosten einzuziehen.
 
-
 ### 7. Abschnitt - Allgemeinen Vorschriften für das Verwaltungsverfahren
-
-
 
 #### § 64a
 
@@ -1790,14 +1688,9 @@ oder Nr. 8 übermittelt werden; die zuständige Stelle darf die ihr
 übermittelten Steuerdaten nur für den Zweck verwenden, für den ihr
 diese übermittelt worden sind.
 
-
 ## Zweiter Teil - Notarkammern und Bundesnotarkammer
 
-
-
 ### 1. Abschnitt - Notarkammern
-
-
 
 #### § 65
 
@@ -1812,7 +1705,6 @@ Notarkammer bilden.
 (2) Die Notarkammer hat ihren Sitz am Ort des Oberlandesgerichts. Im
 Fall des Absatzes 1 Satz 2 bestimmt die Landesregierung oder die von
 ihr bestimmte Stelle den Sitz der Notarkammer.
-
 
 #### § 66
 
@@ -1831,7 +1723,6 @@ Aufgaben erfüllt werden.
 Landesjustizverwaltung einen Bericht über ihre Tätigkeit im
 abgelaufenen Jahr und über die Lage der im Bereich der Kammer tätigen
 Notare und Notarassessoren vor.
-
 
 #### § 67
 
@@ -1966,12 +1857,10 @@ Landes in Angelegenheiten der Notare anfordert.
 
 (7) (weggefallen)
 
-
 #### § 68
 
 Die Organe der Notarkammer sind der Vorstand und die Versammlung der
 Kammer.
-
 
 #### § 69
 
@@ -1987,7 +1876,6 @@ Versammlung der Kammer auf vier Jahre gewählt.
 Amtsausübung bestellte Notare und Anwaltsnotare bestellt, so müssen
 der Präsident und mindestens die Hälfte der übrigen Mitglieder des
 Vorstands zur hauptberuflichen Amtsausübung bestellte Notare sein.
-
 
 #### § 69a
 
@@ -2012,7 +1900,6 @@ oder die Aufgaben der Notarkammer oder berechtigte Belange der
 Personen, über welche die Tatsachen bekanntgeworden sind, es
 unabwendbar erfordern. § 28 Abs. 2 des Gesetzes über das
 Bundesverfassungsgericht bleibt unberührt.
-
 
 #### § 69b
 
@@ -2042,7 +1929,6 @@ und Pflichten des Vorstandes.
 angemessen hält oder wenn die Abteilung oder ihr Vorsitzender es
 beantragt.
 
-
 #### § 70
 
 (1) Der Präsident vertritt die Kammer gerichtlich und
@@ -2056,7 +1942,6 @@ Versammlung der Kammer den Vorsitz.
 
 (4) Durch die Satzung können dem Präsidenten weitere Aufgaben
 übertragen werden.
-
 
 #### § 71
 
@@ -2094,15 +1979,10 @@ Frist einberufen.
     Kammer sowie über die Verwaltung des Vermögens zu prüfen und über die
     Entlastung zu beschließen.
 
-
-
-
-
 #### § 72
 
 Die näheren Bestimmungen über die Organe der Notarkammer und ihre
 Zuständigkeiten trifft die Satzung.
-
 
 #### § 73
 
@@ -2114,7 +1994,6 @@ der Notarkammer ausgestellten, mit der Bescheinigung der
 Vollstreckbarkeit und dem Siegel der Kammer versehenen
 Zahlungsaufforderung nach den Vorschriften über die Vollstreckung der
 Urteile in bürgerlichen Rechtsstreitigkeiten eingezogen werden.
-
 
 #### § 74
 
@@ -2131,7 +2010,6 @@ schriftlicher Androhung, auch zu wiederholten Malen, Zwangsgeld
 festsetzen. Das einzelne Zwangsgeld darf eintausend Euro nicht
 übersteigen. Das Zwangsgeld fließt der Notarkammer zu; es wird wie ein
 rückständiger Beitrag beigetrieben.
-
 
 #### § 75
 
@@ -2176,10 +2054,7 @@ Disziplinarbefugnis wegen desselben Verhaltens nur auf Grund solcher
 Tatsachen oder Beweismittel zulässig, die dem Gericht bei seiner
 Entscheidung nicht bekannt waren.
 
-
 ### 2. Abschnitt - Bundesnotarkammer
-
-
 
 #### § 76
 
@@ -2187,7 +2062,6 @@ Entscheidung nicht bekannt waren.
 zusammengeschlossen.
 
 (2) Der Sitz der Bundesnotarkammer wird durch ihre Satzung bestimmt.
-
 
 #### § 77
 
@@ -2202,7 +2076,6 @@ Aufgaben erfüllt werden.
 (3) Die Satzung der Bundesnotarkammer und ihre Änderungen, die von der
 Vertreterversammlung beschlossen werden, bedürfen der Genehmigung des
 Bundesministeriums der Justiz.
-
 
 #### § 78
 
@@ -2292,14 +2165,12 @@ Fortbildung des beruflichen Nachwuchses und der Hilfskräfte der Notare
 dienen sowie Notardaten verwalten und die elektronische Kommunikation
 der Notare mit Gerichten, Behörden und sonstigen Dritten unterstützen.
 
-
 #### § 78a
 
 In das Zentrale Vorsorgeregister dürfen Angaben über Vollmachtgeber,
 Bevollmächtigte, die Vollmacht und deren Inhalt sowie über Vorschläge
 zur Auswahl des Betreuers, Wünsche zur Wahrnehmung der Betreuung und
 über den Vorschlagenden aufgenommen werden.
-
 
 #### § 78b
 
@@ -2338,7 +2209,6 @@ Testamentsregister führende Registerbehörde nach Maßgabe der nach § 78
 Absatz 2 Satz 2 bis 5 erlassenen Rechtsverordnung. Der Erblasser teilt
 dem Gericht die zur Registrierung erforderlichen Daten mit.
 
-
 #### § 78c
 
 Ab 1. Januar 2012 teilt das zuständige Standesamt der Registerbehörde
@@ -2349,7 +2219,6 @@ vorliegen. Sie benachrichtigt, soweit erforderlich, unverzüglich das
 zuständige Nachlassgericht und die verwahrenden Stellen über den
 Sterbefall und etwaige Verwahrangaben. Die Benachrichtigung erfolgt
 elektronisch.
-
 
 #### § 78d
 
@@ -2381,7 +2250,6 @@ von Todes wegen sind nach § 347 Absatz 1 Satz 1 des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit an das Zentrale Testamentsregister zu
 melden.
-
 
 #### § 78e
 
@@ -2444,7 +2312,6 @@ Höhe der Gebühren ist regelmäßig zu überprüfen.
 (5) Gerichte und Notare können die nach Absatz 3 bestimmten Gebühren
 für die Registerbehörde entgegennehmen.
 
-
 #### § 78f
 
 (1) Gegen Entscheidungen der Registerbehörde nach den §§ 78a bis 78e
@@ -2459,12 +2326,10 @@ sie dem Landgericht am Sitz der Bundesnotarkammer vor.
 
 (3) Die Rechtsbeschwerde ist nicht zulässig.
 
-
 #### § 79
 
 Die Organe der Bundesnotarkammer sind das Präsidium und die
 Vertreterversammlung.
-
 
 #### § 80
 
@@ -2474,7 +2339,6 @@ hauptberuflichen Amtsausübung bestellte Notare sein, drei Mitglieder
 müssen Anwaltsnotare sein. Ein Stellvertreter muß ein zur
 hauptberuflichen Amtsausübung bestellter Notar, ein Stellvertreter
 Anwaltsnotar sein.
-
 
 #### § 81
 
@@ -2486,14 +2350,12 @@ Scheidet ein Mitglied vorzeitig aus, so ist in der auf sein
 Ausscheiden folgenden Vertreterversammlung für den Rest seiner
 Wahlzeit ein neues Mitglied zu wählen.
 
-
 #### § 81a
 
 Für die Pflicht der Mitglieder des Präsidiums der Bundesnotarkammer,
 der von ihr zur Mitarbeit herangezogenen Notare und Notarassessoren
 sowie der Angestellten der Bundesnotarkammer zur Verschwiegenheit gilt
 § 69a entsprechend.
-
 
 #### § 82
 
@@ -2507,7 +2369,6 @@ einen schriftlichen Bericht über die Tätigkeit der Bundesnotarkammer
 und des Präsidiums. Es zeigt ihm ferner das Ergebnis der Wahlen zum
 Präsidium an.
 
-
 #### § 83
 
 (1) Die Bundesnotarkammer faßt ihre Beschlüsse regelmäßig auf
@@ -2519,12 +2380,10 @@ Vertreterversammlung. In dringenden Fällen kann die Anhörung
 unterbleiben; die Mitglieder sind jedoch unverzüglich von den
 getroffenen Maßnahmen zu unterrichten.
 
-
 #### § 84
 
 Die Notarkammern werden in der Vertreterversammlung durch ihre
 Präsidenten oder durch ein anderes Mitglied vertreten.
-
 
 #### § 85
 
@@ -2542,7 +2401,6 @@ gefaßt werden soll, braucht in diesem Fall nicht angegeben zu werden.
 
 (3) Beschlüsse der Vertreterversammlung können auch in Textform gefaßt
 werden, wenn nicht mehr als drei Notarkammern widersprechen.
-
 
 #### § 86
 
@@ -2571,31 +2429,26 @@ von mindestens drei Vierteln der Vertreter, die hauptberufliche Notare
 sind, oder von mindestens drei Vierteln der Vertreter, die
 Anwaltsnotare sind, widerspricht.
 
-
 #### § 87
 
 Das Präsidium hat der Vertreterversammlung über alle wichtigen
 Angelegenheiten zu berichten.
-
 
 #### § 88
 
 Die Mitglieder des Präsidiums und der Vertreterversammlung sind
 ehrenamtlich tätig.
 
-
 #### § 89
 
 Die näheren Bestimmungen über die Organe der Bundesnotarkammer und
 ihre Befugnisse trifft die Satzung.
-
 
 #### § 90
 
 Die Bundesnotarkammer ist befugt, zur Erfüllung der ihr durch Gesetz
 oder Satzung zugewiesenen Aufgaben von den Notarkammern Berichte und
 Gutachten einzufordern.
-
 
 #### § 91
 
@@ -2605,14 +2458,9 @@ zur Deckung des persönlichen und sachlichen Bedarfs bestimmt sind.
 (2) Die Höhe der Beiträge wird von der Vertreterversammlung
 festgesetzt.
 
-
 ## Dritter Teil - Aufsicht. Disziplinarverfahren
 
-
-
 ### 1. Abschnitt - Aufsicht
-
-
 
 #### § 92
 
@@ -2628,10 +2476,6 @@ Das Recht der Aufsicht steht zu
 
 3.  der Landesjustizverwaltung über sämtliche Notare und Notarassessoren
     des Landes.
-
-
-
-
 
 #### § 93
 
@@ -2677,7 +2521,6 @@ dies für die Prüfung der Einhaltung der Mitwirkungsverbote
 erforderlich ist. Dies gilt auch für Dritte, mit denen eine berufliche
 Verbindung im Sinne von § 27 Abs. 1 Satz 2 besteht oder bestanden hat.
 
-
 #### § 94
 
 (1) Die Aufsichtsbehörden sind befugt, Notaren und Notarassessoren bei
@@ -2705,16 +2548,12 @@ der Disziplinarbefugnis wegen desselben Sachverhalts nur auf Grund
 solcher Tatsachen oder Beweismittel zulässig, die dem Gericht bei
 seiner Entscheidung nicht bekannt waren.
 
-
 ### 2. Abschnitt - Disziplinarverfahren
-
-
 
 #### § 95
 
 Notare und Notarassessoren, die schuldhaft die ihnen obliegenden
 Amtspflichten verletzen, begehen ein Dienstvergehen.
-
 
 #### § 95a
 
@@ -2732,7 +2571,6 @@ Bundesdisziplinargesetzes gehemmt.
 (2) Ist vor Ablauf der Frist wegen desselben Sachverhalts ein
 Strafverfahren eingeleitet worden, so ist die Frist für die Dauer des
 Strafverfahrens gehemmt.
-
 
 #### § 96
 
@@ -2768,7 +2606,6 @@ Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
 anzuwenden. Die Vorschriften dieses Gesetzes, die die Besetzung des
 Oberlandesgerichts und des Bundesgerichtshofs in Disziplinarsachen
 gegen Notare regeln, sind nicht anzuwenden.
-
 
 #### § 97
 
@@ -2810,7 +2647,6 @@ werden.
 zugleich Rechtsanwalt ist, zugleich die Ausschließung aus der
 Rechtsanwaltschaft zur Folge.
 
-
 #### § 98
 
 (1) Verweis und Geldbuße können durch Disziplinarverfügung der
@@ -2826,13 +2662,11 @@ entsprechende Anwendung.
 zu zehntausend Euro, gegen Notarassessoren nur bis zu eintausend Euro
 verhängen.
 
-
 #### § 99
 
 Als Disziplinargerichte für Notare sind im ersten Rechtszug das
 Oberlandesgericht und im zweiten Rechtszug der Bundesgerichtshof
 zuständig.
-
 
 #### § 100
 
@@ -2844,13 +2678,11 @@ einigen der Oberlandesgerichte oder dem obersten Landesgericht
 übertragen, wenn dies der Sicherung einer einheitlichen Rechtsprechung
 dienlich ist.
 
-
 #### § 101
 
 Das Oberlandesgericht entscheidet in Disziplinarsachen gegen Notare in
 der Besetzung mit dem Vorsitzenden, einem Beisitzer, der planmäßig
 angestellter Richter ist, und einem Beisitzer, der Notar ist.
-
 
 #### § 102
 
@@ -2862,7 +2694,6 @@ des Oberlandesgerichts auf die Dauer von fünf Jahren bestellt. Im
 übrigen gelten die Vorschriften des Zweiten Titels des
 Gerichtsverfassungsgesetzes und § 6 des Einführungsgesetzes zum
 Gerichtsverfassungsgesetz entsprechend.
-
 
 #### § 103
 
@@ -2934,7 +2765,6 @@ können nach Ablauf ihrer Amtszeit wieder berufen werden. Scheidet ein
 Beisitzer vorzeitig aus, so wird für den Rest der Amtszeit ein
 Nachfolger ernannt.
 
-
 #### § 104
 
 (1) Die Beisitzer aus den Reihen der Notare haben als solche während
@@ -2985,20 +2815,17 @@ aus dem Amt entlassen, wenn er aus gesundheitlichen Gründen auf nicht
 absehbare Zeit gehindert oder es ihm aus gewichtigen persönlichen
 Gründen nicht zuzumuten ist, sein Amt weiter auszuüben.
 
-
 #### § 105
 
 Für die Anfechtung von Entscheidungen des Oberlandesgerichts gelten
 die Vorschriften des Bundesdisziplinargesetzes über die Anfechtung von
 Entscheidungen des Verwaltungsgerichts entsprechend.
 
-
 #### § 106
 
 Der Bundesgerichtshof entscheidet in Disziplinarsachen gegen Notare in
 der Besetzung mit dem Vorsitzenden, zwei Richtern und zwei Notaren als
 Beisitzern.
-
 
 #### § 107
 
@@ -3010,7 +2837,6 @@ Mitglieder des Bundesgerichtshofes auf die Dauer von fünf Jahren
 bestellt. Im übrigen gelten die Vorschriften des Zweiten Titels des
 Gerichtsverfassungsgesetzes und § 6 des Einführungsgesetzes zum
 Gerichtsverfassungsgesetz entsprechend.
-
 
 #### § 108
 
@@ -3044,14 +2870,12 @@ in der Reihenfolge einer Liste heranzuziehen, die der Vorsitzende des
 Senats nach Anhörung der beiden ältesten der zu Beisitzern berufenen
 Notare vor Beginn des Geschäftsjahres aufstellt.
 
-
 #### § 109
 
 Auf das Verfahren des Bundesgerichtshofs in Disziplinarsachen gegen
 Notare sind die Vorschriften des Bundesdisziplinargesetzes über das
 Disziplinarverfahren vor dem Oberverwaltungsgericht entsprechend
 anzuwenden.
-
 
 #### § 110
 
@@ -3067,7 +2891,6 @@ Rechtsanwälte, andernfalls im Disziplinarverfahren zu entscheiden.
 (2) Hat ein Anwaltsgericht oder ein Disziplinargericht sich zuvor
 rechtskräftig für zuständig oder unzuständig erklärt, so ist das
 andere Gericht an diese Entscheidung gebunden.
-
 
 #### § 110a
 
@@ -3102,10 +2925,7 @@ Amtspflichten, die nicht zu einer Disziplinarmaßnahme, einer Ermahnung
 oder Mißbilligung geführt haben, sind auf Antrag des Notars nach fünf
 Jahren zu tilgen. Absatz 1 Satz 2, Absatz 2 und 3 gelten entsprechend.
 
-
 ## Vierter Teil - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 111
 
@@ -3142,7 +2962,6 @@ zugewiesen sind (verwaltungsrechtliche Notarsachen).
 (4) Das Oberlandesgericht und der Bundesgerichtshof entscheiden in der
 für Disziplinarsachen gegen Notare vorgeschriebenen Besetzung.
 
-
 ### § 111a
 
 Örtlich zuständig ist das Oberlandesgericht, in dessen Bezirk der
@@ -3156,7 +2975,6 @@ so kann die Landesregierung durch Rechtsverordnung die Zuständigkeit
 eines oder mehrerer Oberlandesgerichte abweichend regeln. Die
 Landesregierungen können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
-
 
 ### § 111b
 
@@ -3176,7 +2994,6 @@ betragen jeweils fünf Wochen.
 (4) Die aufschiebende Wirkung der Anfechtungsklage endet abweichend
 von § 80b der Verwaltungsgerichtsordnung mit der Unanfechtbarkeit des
 Verwaltungsaktes.
-
 
 ### § 111c
 
@@ -3199,7 +3016,6 @@ Vorstandes und der Notarkammer wird die Notarkammer durch eines ihrer
 Mitglieder vertreten, das der Präsident des zuständigen Gerichts
 besonders bestellt.
 
-
 ### § 111d
 
 Gegen Endurteile einschließlich der Teilurteile, Grundurteile und
@@ -3209,7 +3025,6 @@ zugelassen wird. Für das Berufungsverfahren gilt der Zwölfte Abschnitt
 der Verwaltungsgerichtsordnung mit der Maßgabe, dass das
 Oberlandesgericht an die Stelle des Verwaltungsgerichts und der
 Bundesgerichtshof an die Stelle des Oberverwaltungsgerichts tritt.
-
 
 ### § 111e
 
@@ -3229,7 +3044,6 @@ sein.
 (3) Ein Mitglied der Kammer kann den Antrag nur innerhalb eines Monats
 nach der Wahl oder Beschlussfassung stellen.
 
-
 ### § 111f
 
 In verwaltungsrechtlichen Notarsachen werden Gebühren nach dem
@@ -3238,7 +3052,6 @@ sind die für Kosten in Verfahren vor den Gerichten der
 Verwaltungsgerichtsbarkeit geltenden Vorschriften des
 Gerichtskostengesetzes entsprechend anzuwenden, soweit in diesem
 Gesetz nichts anderes bestimmt ist.
-
 
 ### § 111g
 
@@ -3257,7 +3070,6 @@ einen höheren oder einen niedrigeren Wert festsetzen.
 (3) Die Festsetzung ist unanfechtbar; § 63 Abs. 3 des
 Gerichtskostengesetzes bleibt unberührt.
 
-
 ### § 111h
 
 Auf den Rechtsschutz bei überlangen Gerichtsverfahren sind die
@@ -3266,7 +3078,6 @@ anzuwenden. Die Vorschriften dieses Gesetzes, die die Besetzung des
 Oberlandesgerichts und des Bundesgerichtshofs in
 verwaltungsrechtlichen Notarsachen regeln, sind nicht anzuwenden.
 
-
 ### § 112
 
 Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse,
@@ -3274,7 +3085,6 @@ die den Landesjustizverwaltungen nach diesem Gesetz zustehen, durch
 Rechtsverordnung auf diesen nachgeordnete Behörden zu übertragen. Die
 Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltungen übertragen.
-
 
 ### § 113
 
@@ -3518,11 +3328,9 @@ Bekanntmachung. Für die Notarkasse erfolgt die Bekanntmachung im
 Notarkasse". Für die Ländernotarkasse erfolgt die Bekanntmachung im
 "Amtlichen Mitteilungsblatt der Ländernotarkasse".
 
-
 ### § 113a
 
 (weggefallen)
-
 
 ### § 113b
 
@@ -3542,10 +3350,6 @@ Amtsausübung bestellt sind, können:
 
 3.  außerordentliche Beiträge von einem Notar erheben, der eine Verbindung
     zur gemeinsamen Berufsausübung mit dem Amtsnachfolger nicht fortsetzt.
-
-
-
-
 
 ### § 114
 
@@ -3598,11 +3402,9 @@ abgelaufen ist, gilt § 6b Abs. 3 nicht für Bezirksnotare und für
 Personen, die die Voraussetzungen für die Ernennung zum Bezirksnotar
 erfüllen.
 
-
 ### § 115
 
 (weggefallen)
-
 
 ### § 116
 
@@ -3622,7 +3424,6 @@ der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete nach
 Niedersachsen genannten Gebiet werden ausschließlich Anwaltsnotare
 bestellt.
 
-
 ### § 117
 
 Besteht für mehrere Länder ein gemeinschaftliches Oberlandesgericht,
@@ -3638,13 +3439,6 @@ so gilt folgendes:
     2.  Die Notare eines jeden Landes bilden eine Notarkammer. § 86 Abs. 1
         Satz 2 ist nicht anzuwenden.
 
-
-
-
-
-
-
-
 ### § 117a
 
 (1) Im Bereich des Oberlandesgerichtsbezirks Frankfurt am Main können
@@ -3654,7 +3448,6 @@ abweichend von § 65 Abs. 1 Satz 1 zwei Notarkammern bestehen.
 Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen bestehenden
 Notarkammern, deren Sitz sich abweichend von § 65 Abs. 2 nicht am Sitz
 des Oberlandesgerichts befindet, bleiben bestehen.
-
 
 ### § 117b
 
@@ -3672,7 +3465,6 @@ nachweist.
 Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen
 bestellte Notare, die am 8. September 1998 das 58. Lebensjahr
 vollendet haben, bis zum Ablauf des 7. September 2010 im Amt bleiben.
-
 
 ### § 118
 
@@ -3694,11 +3486,9 @@ in verwaltungsrechtlichen Notarsachen werden nach den bis zu diesem
 Tag geltenden Bestimmungen einschließlich der kostenrechtlichen
 Regelungen fortgeführt.
 
-
 ### § 119
 
 (weggefallen)
-
 
 ### § 120
 
@@ -3719,7 +3509,6 @@ erlassen. Bewerber können die Praxisausbildung gemäß § 6 Absatz 2 Satz
 Grundlage der von der Notarkammer erlassenen und von der
 Landesjustizverwaltung genehmigten Ausbildungsordnung bereits vor dem
 1\. Mai 2011 durchlaufen.
-
 
 ### § 121
 
@@ -3751,7 +3540,6 @@ Tag geltenden Rechts.
 (5) Die bis zum 31. Dezember 2009 in einem Disziplinarverfahren
 ergangenen Entscheidungen sind nach dem bis zu diesem Tag geltenden
 Recht zu vollstrecken, wenn sie unanfechtbar geworden sind.
-
 
 ### Anlage (zu § 111f Satz 1) Gebührenverzeichnis
 
@@ -4208,9 +3996,6 @@ Abschnitt 4 Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör
         Die Rüge wird in vollem Umfang verworfen oder zurückgewiesen
 
     *   50,00 EUR
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte I und IV (BGBl. II 1990, 889, 921, 938) Abschnitt I - Vom Inkrafttreten im beigetretenen Gebiet ausgenommene Vorschriften - Abschnitt IV - Sonderregelung für das Land Berlin -
 

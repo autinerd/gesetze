@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1979, 377
 
-
-
 ## Art 1
 
 (1) Dem in Bonn am 20. April 1977 unterzeichneten Vertrag zwischen der
@@ -39,7 +37,6 @@ Grenzabschnitte betreffenden Umfang - bei den für diese
 Grenzabschnitte jeweils zuständigen staatlichen Vermessungsämtern zur
 Einsicht bereit.
 
-
 ## Art 2
 
 In den Gebietsteilen, die nach Artikel 1 Abs. 1 des Vertrages der
@@ -48,7 +45,6 @@ Inkrafttretens des Vertrages die in den Regierungsbezirken Oberbayern
 und Niederbayern geltenden Vorschriften des Bundesrechts in Kraft.
 Gleichzeitig tritt das österreichische Recht in diesen Gebietsteilen
 außer Kraft.
-
 
 ## Art 3
 
@@ -71,12 +67,10 @@ Rechtsverordnung
 (2) Die Regierung des Landes Bayern kann die Ermächtigung auf die
 Landesjustizverwaltung übertragen.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

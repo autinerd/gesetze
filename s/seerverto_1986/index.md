@@ -26,11 +26,7 @@ Stand: In Kraft gem. Bek. v. 30.7.1987 I 2083 mWv 1.9.1987
 
 ## Erster Teil - Seerechtliches Verteilungsverfahren
 
-
-
 ### Erster Abschnitt - Allgemeine Bestimmungen. Zuständigkeit
-
-
 
 #### § 1 Einleitung des Verteilungsverfahrens
 
@@ -166,10 +162,6 @@ gelten die folgenden besonderen Vorschriften:
     Haftungsbeschränkungsübereinkommens bestimmten Haftungshöchstbetrag
     voraussichtlich übersteigt.
 
-
-
-
-
 #### § 2 Zuständigkeit
 
 (1) Betrifft das Verteilungsverfahren ein Schiff, das in einem
@@ -212,7 +204,6 @@ Landesjustizverwaltungen übertragen.
 (4) Die Länder können vereinbaren, daß die Verteilungsverfahren eines
 Landes den Gerichten eines anderen Landes zugewiesen werden.
 
-
 #### § 3 Anwendung der Zivilprozeßordnung
 
 (1) Auf das Verteilungsverfahren finden, soweit dieses Gesetz nichts
@@ -226,10 +217,7 @@ bestimmt ist. Die Frist zur Einlegung der sofortigen Beschwerde
 beträgt einen Monat. Gegen Entscheidungen des Beschwerdegerichts
 findet die Rechtsbeschwerde statt.
 
-
 ### Zweiter Abschnitt - Eröffnungsverfahren und öffentliche Aufforderung
-
-
 
 #### § 4 Antrag
 
@@ -284,7 +272,6 @@ des § 1 Abs. 5 vorliegen.
 (4) Der Antrag kann bis zum Beginn des allgemeinen Prüfungstermins
 zurückgenommen werden.
 
-
 #### § 5 Festsetzung der Haftungssumme. Zulassung von Sicherheiten
 
 (1) Das Gericht setzt durch Beschluß die Summe fest, die zur
@@ -309,7 +296,6 @@ gemacht werden.
 ist das Verfahren auf Grund der Einzahlung der ursprünglich
 festgesetzten Haftungssumme bereits eröffnet worden, so bestimmt das
 Gericht eine Frist, innerhalb deren der Mehrbetrag einzuzahlen ist.
-
 
 #### § 6 Einzahlung der Haftungssumme
 
@@ -386,7 +372,6 @@ eröffnet, so ordnet das Gericht an, daß der Mehrbetrag an den
 Einzahler zurückgezahlt wird. Die Anordnung darf erst nach Rechtskraft
 vollzogen werden.
 
-
 #### § 7 Eröffnung des Verfahrens
 
 (1) Das Gericht beschließt über die Eröffnung des
@@ -445,7 +430,6 @@ wenn die festzusetzende Haftungssumme bereits eingezahlt worden ist.
 jeder, der glaubhaft macht, daß gegen ihn wegen eines Anspruchs, mit
 dem der Gläubiger an dem Verfahren teilnimmt, eine Klage anhängig ist
 oder die Zwangsvollstreckung betrieben wird.
-
 
 #### § 8 Wirkungen der Eröffnung
 
@@ -518,7 +502,6 @@ Verteilungsverfahrens nicht mehr aufrechnen. Er ist verpflichtet, für
 den Anspruch bestehende Sicherungsrechte nicht mehr zu verwerten.
 Artikel 5 des Haftungsbeschränkungsübereinkommens bleibt unberührt.
 
-
 #### § 9 Sachwalter
 
 (1) Bei der Eröffnung des Verteilungsverfahrens bestellt das Gericht
@@ -569,7 +552,6 @@ Schuldner, jeder an dem Verfahren teilnehmende Gläubiger und ein etwa
 nachfolgender Sachwalter sind berechtigt, Einwendungen gegen die
 Rechnung zu erheben. Soweit binnen einer Woche nach der Niederlegung
 Einwendungen nicht erhoben werden, gilt die Rechnung als anerkannt.
-
 
 #### § 10 Öffentliche Aufforderung
 
@@ -639,7 +621,6 @@ welche die Haftung des Schuldners beschränkt worden wäre, wenn das
 Verfahren auch mit Wirkung für Ansprüche wegen Personenschäden
 eröffnet worden wäre.
 
-
 #### § 11 Bekanntmachung
 
 (1) Nach der Eröffnung des Verteilungsverfahrens hat das Gericht den
@@ -669,7 +650,6 @@ das Gericht den Inhalt der öffentlichen Bekanntmachung besonders
 mitzuteilen. Der Mitteilung ist der volle Wortlaut des Beschlusses
 über die Festsetzung der Haftungssumme und des Beschlusses über die
 Eröffnung des Verteilungsverfahrens beizufügen.
-
 
 #### § 12 Rechtsmittel
 
@@ -723,10 +703,7 @@ Gläubiger an dem Verteilungsverfahren teilnimmt, bis zur Entscheidung
 über die Erinnerung insoweit betrieben wird, wie dies zur Vollziehung
 eines Arrests statthaft ist.
 
-
 ### Dritter Abschnitt - Feststellung der Ansprüche. Erlöschen von Sicherungsrechten
-
-
 
 #### § 13 Anmeldung von Ansprüchen
 
@@ -757,7 +734,6 @@ Zivilprozessordnung entspricht.
 Anspruch und das Recht seines Gläubigers auf Teilnahme an dem
 Verfahren festgestellt worden sind. Die Rücknahme kann schriftlich
 oder zu Protokoll der Geschäftsstelle erklärt werden.
-
 
 #### § 14 Gegenstand der Anmeldung
 
@@ -793,7 +769,6 @@ zu seiner vollen Befriedigung in jedem Verteilungsverfahren den Betrag
 in voller Höhe geltend machen, den er zur Zeit der Eröffnung des
 Verfahrens zu fordern hatte.
 
-
 #### § 15 Anmeldung von Ansprüchen durch Schuldner
 
 Der Schuldner eines Anspruchs, mit dem der Gläubiger an dem
@@ -801,7 +776,6 @@ Verteilungsverfahren hätte teilnehmen können, kann den Anspruch in dem
 Verfahren geltend machen, soweit er ihn erfüllt hat. Hatte der
 Gläubiger den Anspruch bereits im Verteilungsverfahren geltend
 gemacht, so tritt der Schuldner in die Stellung des Gläubigers ein.
-
 
 #### § 16 Erweiterung des Verfahrens auf Ansprüche wegen Personenschäden
 
@@ -825,7 +799,6 @@ Mehrbetrags.
 nach Absatz 1 erhöht worden ist, beschließt das Gericht, daß das
 Verteilungsverfahren auch mit Wirkung für Ansprüche wegen
 Personenschäden eröffnet wird.
-
 
 #### § 17 Einstellung des Verfahrens
 
@@ -878,7 +851,6 @@ Einstellungsbeschluß unanfechtbar geworden ist, von mehreren
 Gläubigern gepfändet, so sind die Gläubiger nach dem Verhältnis ihrer
 Ansprüche zu befriedigen.
 
-
 #### § 18 Prüfungsverfahren
 
 Die angemeldeten Ansprüche werden hinsichtlich ihres Betrags und
@@ -886,7 +858,6 @@ hinsichtlich des Rechts ihrer Gläubiger auf Teilnahme an dem
 Verteilungsverfahren in einem allgemeinen Prüfungstermin einzeln
 erörtert. In diesem Termin hat sich der Schuldner zu den Ansprüchen zu
 erklären. § 177 der Insolvenzordnung gilt entsprechend.
-
 
 #### § 19 Feststellung der Ansprüche
 
@@ -948,7 +919,6 @@ vorliegen. Wird die Weigerung vom Prozeßgericht für begründet erklärt,
 so hat der Gläubiger seinen Anspruch gegen den Widersprechenden im
 Wege einer neuen Klage zu verfolgen.
 
-
 #### § 20 Erlöschen von Sicherungsrechten
 
 (1) Werden ein Anspruch und das Recht seines Gläubigers auf Teilnahme
@@ -1000,7 +970,6 @@ Ansprüche gegen den Antragsteller, so gelten die Absätze 1 bis 4 nur,
 soweit das Sicherungsrecht ausschließlich für einen Anspruch gegen den
 Antragsteller besteht oder bestanden hat.
 
-
 #### § 21 Endgültige Einstellung der Zwangsvollstreckung
 
 Werden ein Anspruch und das Recht seines Gläubigers auf Teilnahme an
@@ -1009,7 +978,6 @@ Vollstreckungsgericht auf Antrag des Schuldners die endgültige
 Einstellung der Zwangsvollstreckung und die Aufhebung von
 Zwangsvollstreckungsmaßnahmen wegen des Anspruchs an. Die Anordnung
 darf erst nach Rechtskraft vollzogen werden.
-
 
 #### § 22 Erlöschen von Sicherungsrechten und endgültige Einstellung der Zwangsvollstreckung bei nicht angemeldeten Ansprüchen
 
@@ -1032,10 +1000,7 @@ Zivilprozeßordnung sind anzuwenden.
 (3) Das Verteilungsgericht hat dem Schuldner eine Bescheinigung über
 die Beendigung des allgemeinen Prüfungstermins zu erteilen.
 
-
 ### Vierter Abschnitt - Verteilung
-
-
 
 #### § 23 Verteilungsgrundsätze
 
@@ -1077,7 +1042,6 @@ gesamten Haftungssumme verbleibender Überschuß wird an den Einzahler
 zurückgezahlt, an mehrere Einzahler im Verhältnis der Beträge ihrer
 Einzahlungen.
 
-
 #### § 24 Erlöschen der persönlichen Haftung
 
 Einem Gläubiger, der bei der Verteilung der Haftungssumme den auf
@@ -1090,7 +1054,6 @@ gerichtlich geltend gemacht und sein Begehren darauf gestützt hat, daß
 der Schuldner für den Anspruch außerhalb des Verteilungsverfahrens
 haftet.
 
-
 #### § 25 Rechtskräftige Feststellung der persönlichen Haftung
 
 Steht zwischen dem Gläubiger und dem Schuldner eines Anspruchs
@@ -1101,7 +1064,6 @@ Verfahren teilnimmt. Tritt die Rechtskraft erst ein, nachdem der
 Anspruch in dem Verteilungsverfahren festgestellt worden ist, so ist
 der Anspruch trotz seiner Feststellung bei der Verteilung nicht zu
 berücksichtigen. § 24 Satz 1 bleibt unberührt.
-
 
 #### § 26 Verfahren bei der Verteilung
 
@@ -1165,7 +1127,6 @@ Betrag der Haftungssumme verlangen, soweit dieser reicht und nicht
 infolge des Ablaufs einer Ausschlußfrist für eine neue Verteilung zu
 verwenden ist.
 
-
 #### § 27 Verfahren in besonderen Fällen
 
 Soweit ein Anspruch, für den nach § 19 Abs. 4 zunächst nur das Recht
@@ -1178,13 +1139,11 @@ erreichen wird, kann jeder an dem Verfahren teilnehmende Gläubiger und
 Schuldner sowie der Sachwalter auf Feststellung klagen, daß der
 Anspruch insoweit bei der Verteilung nicht zu berücksichtigen ist.
 
-
 #### § 28 Weitere Verteilung
 
 Sobald nach einer ersten Verteilung ein weiterer hinreichender Betrag
 der Haftungssumme verfügbar wird, soll eine weitere Verteilung
 erfolgen.
-
 
 #### § 29 Aufhebung des Verfahrens. Nachtragsverteilung
 
@@ -1201,10 +1160,7 @@ Verfahren festgestellt oder ergibt sich, daß ein solcher Anspruch oder
 eine Zurückbehaltung wegen der Kosten nach § 33 nicht mehr zu
 berücksichtigen ist, so findet eine Nachtragsverteilung statt.
 
-
 ### Fünfter Abschnitt - Nachträgliche Erweiterung des Verfahrens bei Ansprüchen der Anspruchsklasse A auf Antrag eines Schuldners
-
-
 
 #### § 30
 
@@ -1236,10 +1192,7 @@ Prüfungstermins ist die Erweiterung des Verfahrens ausgeschlossen.
 Haftungssumme gilt derjenige, der die Erweiterung des Verfahrens nach
 Absatz 1 beantragt, als Antragsteller im Sinne dieses Gesetzes.
 
-
 ### Sechster Abschnitt - Kosten aus der Bestellung eines Sachwalters und aus Rechtsstreitigkeiten über angemeldete Ansprüche
-
-
 
 #### § 31 Kostentragung
 
@@ -1266,10 +1219,6 @@ Absatz 1 beantragt, als Antragsteller im Sinne dieses Gesetzes.
     Gesetzes in Verbindung mit § 183 Abs. 3 der Insolvenzordnung der
     Haftungssumme zur Last fallen.
 
-
-
-
-
 #### § 32 Zahlung der vom Antragsteller zu tragenden Kosten
 
 (1) Das Gericht ordnet von Amts wegen die Zahlung der vom
@@ -1287,7 +1236,6 @@ Erfolg versucht worden ist. In diesem Fall ist § 23 Abs. 1 bis 4 nur
 auf den Betrag anzuwenden, der nach Abzug dieser Kosten von der
 festgesetzten Haftungssumme verbleibt.
 
-
 #### § 33 Zurückbehaltung bei der Verteilung
 
 Ist bei dem Beginn der Verteilung ungewiß, ob im Verlauf des
@@ -1297,10 +1245,7 @@ bei der Verteilung einen angemessenen Anteil für diese Kosten
 zurückbehalten. Die Entscheidung ist unanfechtbar; das Gericht kann
 sie jedoch wegen veränderter Umstände abändern.
 
-
 ## Zweiter Teil - Binnenschiffahrtsrechtliches Verteilungsverfahren
-
-
 
 ### § 34 Einleitung des Verteilungsverfahrens. Anwendbare Vorschriften
 
@@ -1314,7 +1259,6 @@ Teils dieses Gesetzes anzuwenden, soweit in den Vorschriften des
 Zweiten Teils nichts anderes bestimmt ist. § 1 Abs. 1 bis 4, §§ 2, 4
 Abs. 1 bis 3, § 7 Abs. 2 Nr. 2, 3 und 5 sowie § 23 Abs. 2 und 3 Satz
 2, Abs. 4 Satz 2 sind nicht anzuwenden.
-
 
 ### § 35 Antragsberechtigung
 
@@ -1347,7 +1291,6 @@ Gesetzes eingeleitet wird oder eingeleitet werden kann. Der Antrag
 kann auch von einem Versicherer gestellt werden, der die Haftung in
 bezug auf Ansprüche versichert, für welche die in Satz 1 genannten
 Personen ihre Haftung beschränken können.
-
 
 ### § 36 Anspruchsklassen
 
@@ -1409,7 +1352,6 @@ entstandenen und zu derselben Anspruchsklasse gehörenden Ansprüche ein
 Verteilungsverfahren auf Antrag eines anderen, demselben Personenkreis
 im Sinne des § 35 Satz 1 angehörenden Schuldners eröffnet worden ist.
 
-
 ### § 37 Zuständigkeit
 
 (1) Betrifft das Binnenschiffahrtsrechtliche Verteilungsverfahren ein
@@ -1451,7 +1393,6 @@ die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 (4) Die Länder können vereinbaren, daß die
 Binnenschiffahrtsrechtlichen Verteilungsverfahren eines Landes den
 Gerichten eines anderen Landes zugewiesen werden.
-
 
 ### § 38 Antrag
 
@@ -1517,13 +1458,11 @@ Abschrift der Eintragung in diesem Register beizufügen.
 (3) Der Antragsteller hat glaubhaft zu machen, daß die Voraussetzungen
 des § 1 Abs. 5 in Verbindung mit § 36 Abs. 2 vorliegen.
 
-
 ### § 39 Festsetzung der Haftungssumme
 
 Die vom Gericht festzusetzende Haftungssumme ist vom Zeitpunkt des zur
 Haftung führenden Ereignisses bis zum Zeitpunkt der Errichtung des
 Fonds mit vier vom Hundert für das Jahr zu verzinsen.
-
 
 ### § 40 Inhalt des Eröffnungsbeschlusses
 
@@ -1547,10 +1486,6 @@ und 7 erforderlichen Feststellungen und Angaben insbesondere:
     nicht in einem Schiffsregister eingetragen ist, über den Heimatort des
     Binnenschiffes.
 
-
-
-
-
 ### § 41 Wirkungen der Eröffnung
 
 Auf die Eröffnung des Binnenschiffahrtsrechtlichen
@@ -1568,17 +1503,12 @@ Stelle
     in Verbindung mit § 36 Abs. 2 zu den Ansprüchen wegen Sachschäden
     gehören.
 
-
-
-
-
 ### § 42 Öffentliche Aufforderung bei Verfahren nur mit Wirkung für Ansprüche wegen Sachschäden
 
 Die öffentliche Aufforderung hat, sofern das Verfahren nach § 1 Abs. 5
 in Verbindung mit § 36 Abs. 2 nur mit Wirkung für Ansprüche wegen
 Sachschäden eröffnet worden ist, auch den in § 10 Abs. 3 genannten
 Inhalt.
-
 
 ### § 43 Eintragung von angemeldeten Ansprüchen
 
@@ -1587,7 +1517,6 @@ wegen Personenschäden und Ansprüche wegen Sachschäden entsprechend §
 13 Abs. 3 getrennt ein, wenn das Verteilungsverfahren im Rahmen der
 Anspruchsklasse A oder D für beide Arten von Ansprüchen eröffnet
 worden ist.
-
 
 ### § 44 Erweiterung des Verfahrens auf Ansprüche wegen Personenschäden
 
@@ -1606,10 +1535,6 @@ Haftungshöchstbetrages folgender Betrag tritt:
     Abs. 2 Nr. 1 des Binnenschiffahrtsgesetzes bestimmte
     Haftungshöchstbetrag.
 
-
-
-
-
 ### § 45 Feststellung der Ansprüche
 
 Die Eintragung festgestellter Ansprüche nach § 19 Abs. 2 gilt, wenn
@@ -1620,7 +1545,6 @@ Ansprüchen wegen Sachschäden sowie hinsichtlich des Rechts ihrer
 Gläubiger auf Teilnahme an dem Verfahren wie ein rechtskräftiges
 Urteil gegen alle Gläubiger und Schuldner von Ansprüchen, die an dem
 Verfahren teilnehmen, sowie gegen den Sachwalter.
-
 
 ### § 46 Verteilung
 
@@ -1657,7 +1581,6 @@ bestimmten Teilsumme und Kosten, die aus einem Rechtsstreit über
 Ansprüche wegen Sachschäden entstanden sind, aus der für diese
 Ansprüche bestimmten Teilsumme berichtigt.
 
-
 ### § 47 Verzeichnis der Ansprüche
 
 Das vom Urkundsbeamten vor der Vornahme einer Verteilung nach § 26
@@ -1665,7 +1588,6 @@ Abs. 2 vorzulegende Verzeichnis ist sowohl bei Ansprüchen der
 Anspruchsklasse A als auch bei Ansprüchen der Anspruchsklasse D
 gegliedert nach Ansprüchen wegen Personenschäden und Ansprüchen wegen
 Sachschäden.
-
 
 ### § 48 Nachträgliche Erweiterung des Verfahrens bei Ansprüchen der Anspruchsklasse A oder D
 
@@ -1690,7 +1612,6 @@ folgender Betrag tritt:
 Antragsberechtigt im Sinne des § 30 ist jedoch nur der Schuldner, der
 demselben Personenkreis im Sinne des § 35 Satz 1 angehört.
 
-
 ### § 49 Kosten
 
 Die nach § 32 Abs. 3 der Haftungssumme endgültig zur Last fallenden
@@ -1698,10 +1619,7 @@ Kosten sind auch dann mit Vorrang vor den festgestellten Ansprüchen zu
 berichtigen, wenn aus der Haftungssumme Teilsummen nach § 46 Abs. 2
 gebildet werden.
 
-
 ## Dritter Teil - Wirkungen der Errichtung eines Fonds in einem anderen Vertragsstaat
-
-
 
 ### § 50 Errichtung eines Fonds nach dem Haftungsbeschränkungsübereinkommen
 
@@ -1721,7 +1639,6 @@ gegen den Fonds vor dem Gericht geltend machen kann, das den Fonds
 verwaltet, und wenn der Fonds für den Anspruch tatsächlich zur
 Verfügung steht und frei transferierbar ist.
 
-
 ### § 51 Errichtung eines Fonds nach dem Haftungsübereinkommen von 1992
 
 (1) Ist der Eigentümer eines Schiffes berechtigt, seine Haftung für
@@ -1740,7 +1657,6 @@ Rechtsfolgen beilegt.
 (2) Absatz 1 ist nur anzuwenden, wenn der Gläubiger Zugang zu dem
 Gericht hat, das den Fonds verwaltet, und wenn der Fonds tatsächlich
 zur Befriedigung seines Anspruchs verwendet werden kann.
-
 
 ### § 52 Errichtung eines Fonds nach dem Straßburger Übereinkommen
 
@@ -1768,7 +1684,6 @@ eines solchen Anspruchs geleistete Sicherheiten sind freizugeben.
 Anspruch gegen den Fonds vor dem Gericht geltend machen kann, das den
 Fonds verwaltet, und wenn der Fonds für den Anspruch tatsächlich zur
 Verfügung steht und frei transferierbar ist.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960)
 

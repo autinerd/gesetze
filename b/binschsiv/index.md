@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 492 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 2, der §§ 3 und 5
@@ -28,10 +27,7 @@ Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom
 Zustimmung des Bundesrates,
 auf Grund des § 5 Abs. 1 Satz 2 dieses Gesetzes die Bundesregierung:
 
-
 ## Erster Abschnitt - Meldungen
-
-
 
 ### § 1 Meldepflicht
 
@@ -64,7 +60,6 @@ für den Eigentümer oder Ausrüster abgeben.
 richten, in deren Bezirk das Binnenschiff seinen Heimatort hat. Sie
 kann bei jeder Wasser- und Schiffahrtsdirektion und jedem Wasser- und
 Schiffahrtsamt erstattet werden.
-
 
 ### § 2 Meldeverfahren
 
@@ -113,10 +108,6 @@ Heimatort hat, einzelne Eigentümer oder Ausrüster verpflichten, ihr
 2.  regelmäßig oder unter bestimmten Voraussetzungen weitere Meldungen zu
     erstatten.
 
-
-
-
-
 ### § 3 Ermächtigung
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -131,10 +122,6 @@ ermächtigt, durch Rechtsverordnung
 3.  den Inhalt der Meldungen (§ 2 Abs. 1) einzuschränken oder, soweit dies
     wegen des weiteren Einsatzes der Binnenschiffe erforderlich ist, zu
     erweitern.
-
-
-
-
 
 ### § 4 Sonstige Meldungen
 
@@ -159,13 +146,7 @@ unter bestimmten Voraussetzungen Meldungen zu erstatten über
 2.  den Zustand und die Leistungsfähigkeit der Hafen- und Umschlaganlagen
     und -einrichtungen.
 
-
-
-
-
 ## Zweiter Abschnitt - Lenkungsmaßnahmen
-
-
 
 ### § 5 Erlaubnispflicht
 
@@ -184,10 +165,6 @@ Binnenschiffen dringend geboten ist.
 
 2.  zur Erfüllung einer auf Gesetz, Rechtsverordnung oder behördlicher
     Verfügung beruhenden Verpflichtung.
-
-
-
-
 
 ### § 6 Erteilung, Rücknahme und Widerruf der Erlaubnis
 
@@ -214,7 +191,6 @@ mitgeteilten Erlaubnisnummer zu erbringen.
 Erlaubnis ist die Wasser- und Schiffahrtsdirektion, die die Anordnung
 nach § 5 erlassen hat.
 
-
 ### § 7 Zulassung von Binnenschiffen in Sonderfällen
 
 (1) Die Wasser- und Schiffahrtsdirektion kann ein Binnenschiff, das
@@ -228,7 +204,6 @@ befindlichen Personen und für die Schiffahrt nicht besteht.
 Schiffahrtsdirektion, in deren Bezirk das Schiff seinen Heimatort hat,
 in dringenden Fällen auch die Wasser- und Schiffahrtsdirektion, in
 deren Bezirk sich das Binnenschiff befindet.
-
 
 ### § 8 Maßnahmen für den Umschlag
 
@@ -247,10 +222,7 @@ die Hafenbehörde oder, soweit eine solche nicht besteht, die
 Hafenaufsichtsbehörde. Besteht auch keine Hafenaufsichtsbehörde, ist
 die untere Verwaltungsbehörde zuständig.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 9 Ausnahmen
 
@@ -259,7 +231,6 @@ Binnenschiffe, die im Eigentum des Bundes, der Länder, der Gemeinden
 und der Gemeindeverbände stehen. Dies gilt auch hinsichtlich der für
 sie auf Grund des Bundesleistungsgesetzes oder eines Vertrages zum
 Gebrauch in Anspruch genommenen Binnenschiffe.
-
 
 ### § 10 Zuwiderhandlungen
 
@@ -321,7 +292,6 @@ Verkehrssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1
 Buchstabe b, soweit § 4 Abs. 2 anzuwenden ist, und Nummer 5 die
 Landesbehörde, die den Verwaltungsakt erlassen hat, im übrigen die
 Wasser- und Schiffahrtsdirektion.
-
 
 ### § 11 Inkrafttreten
 

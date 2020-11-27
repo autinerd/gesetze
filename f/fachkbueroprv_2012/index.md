@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 268
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30
@@ -27,7 +26,6 @@ Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006
 für Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -85,7 +83,6 @@ Fortbildungsabschluss „Geprüfter Fachkaufmann für Büro- und
 Projektorganisation“ oder „Geprüfte Fachkauffrau für Büro- und
 Projektorganisation“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
@@ -114,7 +111,6 @@ Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung
 rechtfertigen.
-
 
 ## § 3 Gliederung und Durchführung der Prüfung
 
@@ -178,7 +174,6 @@ und sachgerechte Lösungen vorgeschlagen werden können. Hierbei ist der
 Nachweis zu erbringen, dass dieses in eine Ausbildungssituation
 übertragen werden kann. Das Fachgespräch soll in der Regel 40 Minuten
 dauern.
-
 
 ## § 4 Inhalte der Prüfung
 
@@ -301,10 +296,6 @@ folgende Qualifikationsinhalte geprüft werden:
 4.  im Rahmen des Wissensmanagements Erfahrungen und Informationen sichern
     sowie einen Austausch ermöglichen.
 
-
-
-
-
 ## § 5 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -314,7 +305,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 6 Bewerten der Prüfungsleistungen und Bestehen der Prüfung
 
@@ -331,7 +321,6 @@ Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 5 sind
 Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
 des Prüfungsgremiums anzugeben.
 
-
 ## § 7 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -345,14 +334,12 @@ Leistung mindestens ausreichend ist. Der Antrag kann sich auch darauf
 richten, die bestandene Prüfungsleistung einmal zu wiederholen. In
 diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
 ## § 8 Ausbildereignung
 
 Mit der erfolgreich abgelegten Fortbildungsprüfung nach dieser
 Verordnung wurden auch die berufs- und arbeitspädagogischen
 Fertigkeiten, Kenntnisse und Fähigkeiten nach § 30 Absatz 5 des
 Berufsbildungsgesetzes nachgewiesen.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -368,14 +355,12 @@ der Prüfungsteilnehmerin eine erforderliche Wiederholungsprüfung für
 Prüfungen nach Absatz 1 nach dieser Verordnung durchführen; § 7 Absatz
 2 findet in diesem Fall keine Anwendung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
 Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für
 Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
-
 
 ## Anlage 1 (zu § 6 Absatz 3) Muster
 
@@ -386,8 +371,6 @@ Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 
@@ -433,9 +416,6 @@ Berufsbildungsgesetzes nachgewiesen.
 
 *    *   (Siegel der zuständigen Stelle)
 
-
-
-
 ## Anlage 2 (zu § 6 Absatz 3) Muster
 
 (Fundstelle: BGBl. I 2012, 272 - 273)
@@ -446,8 +426,6 @@ Berufsbildungsgesetzes nachgewiesen.
 
 
 *    *   (Bezeichnung der zuständigen Stelle)
-
-
 
 ## Zeugnis
 

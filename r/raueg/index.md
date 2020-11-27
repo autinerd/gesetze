@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 22.8.1998 I 2510
 
-
 ## § 1 Aufgabenübertragung
 
 (1) Die für Raumfahrtangelegenheiten zuständigen obersten
@@ -49,20 +48,17 @@ ihm übertragenen Befugnisse erlassen hat, entscheidet dieses selbst.
 Verwaltungsaufgaben auf dem Gebiet der Raumfahrt der Aufsicht der
 auftraggebenden obersten Bundesbehörden.
 
-
 ## § 2
 
 Soweit das DLR im Rahmen der von ihm wahrgenommenen Aufgaben
 Haushaltsmittel weiterleitet, sollen ihm diese Mittel zur
 Bewirtschaftung übertragen werden.
 
-
 ## § 3 Prüfungsrecht des Bundesrechnungshofes
 
 Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung des
 DLR. Für das Prüfungsverfahren gelten die §§ 89, 90, 91, 94, 95, 96
 und 100 der Bundeshaushaltsordnung entsprechend.
-
 
 ## § 4 (Inkrafttreten)
 

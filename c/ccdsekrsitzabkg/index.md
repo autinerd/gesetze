@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1999, 218
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -35,7 +32,6 @@ Bekämpfung der Wüstenbildung über den Sitz des Ständigen Sekretariats
 des Übereinkommens einschließlich des begleitenden Notenwechsels vom
 gleichen Tag wird zugestimmt. Das Abkommen und der begleitende
 Notenwechsel werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -48,7 +44,6 @@ des Notenwechsels zum Abkommen zwischen der Bundesrepublik Deutschland
 und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der
 Vereinten Nationen (BGBl. 1996 II S. 903, 917) vereinbart werden.
 
-
 ## Art 3
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zum Abkommen vom 10. November
@@ -60,7 +55,6 @@ der Wüstenbildung beziehungsweise deren Familienmitglieder im Sinne
 des Artikels 24 Abs. 2 des entsprechend anzuwendenden Abkommens über
 den Sitz des Freiwilligenprogramms der Vereinten Nationen.
 
-
 ## Art 4
 
 Artikel 5 des Abkommens gilt auch für Personen im Sinne des Artikels
@@ -71,7 +65,6 @@ schwer betroffenen Ländern, insbesondere in Afrika (BGBl. 1997 II S.
 ihrer Nebenorgane teilnehmen bzw. die zur Teilnahme daran zugelassen
 worden sind, soweit diese Personen nicht bereits nach anderen
 Bestimmungen des Abkommens Vorrechte und Immunitäten genießen.
-
 
 ## Art 5
 

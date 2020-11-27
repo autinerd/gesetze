@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 25.7.2012 I 1702
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 1 in Verbindung mit Abs. 2 des
@@ -27,7 +26,6 @@ Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325,
 2353) verordnet das Bundesministerium für Post und Telekommunikation
 im Einvernehmen mit dem Bundesministerium des Innern nach Anhörung der
 Bundesanstalt für Post und Telekommunikation Deutsche Bundespost:
-
 
 ## § 1 Anwendungsbereich
 
@@ -43,7 +41,6 @@ sind nicht ruhegehaltfähig.
 einer anderen gesetzlichen Regelung gezahlt, die denselben Zweck
 verfolgen, so sind diese auf Leistungszulagen nach den §§ 4 und 6
 anzurechnen.
-
 
 ## § 2 Ausschlußregelung
 
@@ -68,7 +65,6 @@ denselben Bewilligungszeitraum aus. Eine Leistungszulage nach § 7 oder
 (4) Durch eine Leistungszulage wird ein allgemeiner mit der Leistung
 verbundener Aufwand mit abgegolten.
 
-
 ## § 3 Höchstbeträge, Zahlungsweise
 
 (1) Leistungszulagen dürfen zusammen den Höchstbetrag nach § 5 Abs. 1
@@ -80,7 +76,6 @@ Besoldungsgruppe des Beamten nicht überschreiten.
 (2) Die Leistungszulagen können monatlich, vierteljährlich,
 halbjährlich oder als Jahresprämie gezahlt werden. Die Jahresprämie
 wird für Leistungen im abgelaufenen Kalenderjahr gewährt.
-
 
 ## § 4 Leistungszulage für besondere Güte der Leistung
 
@@ -96,7 +91,6 @@ die Zukunft muß eine entsprechende Leistung zu erwarten sein.
 
 (2) Die Entscheidung über die Gewährung der Gütezulage ist unter
 Angabe der zugrunde liegenden Tatsachen und Bewertungen zu begründen.
-
 
 ## § 5 Höhe und Berechnung der Gütezulage
 
@@ -169,7 +163,6 @@ entsprechend anzuwenden.
 gewährt werden. Die Zulage ist für jedes Gruppenmitglied in derselben
 Stufe, höchstens jedoch nach Stufe 2, zu gewähren.
 
-
 ## § 6 Leistungszulage für besonderen betriebswirtschaftlichen Erfolg
 
 (1) Beamte und Gruppen können eine Leistungszulage erhalten, wenn sie
@@ -188,7 +181,6 @@ anzuwenden. Die Bedeutung der Leistung für das Unternehmen bestimmt
 sich nach der Höhe des betriebswirtschaftlichen Erfolges. § 5 Abs. 1
 Satz 3 und 4 ist anzuwenden.
 
-
 ## § 7 Leistungszulage für besonderen Erfolg bei der Vermittlung von Verträgen
 
 (1) Beamte können eine Leistungszulage erhalten, wenn sie im
@@ -200,7 +192,6 @@ Leistungen, die der Vorstand bestimmt, vermittelt haben
 (2) Die Höhe der Akquisitionszulage richtet sich nach dem
 wirtschaftlichen Vorteil, den das Unternehmen aus den Verträgen
 erlangt. § 5 Abs. 1 Satz 3 und 4 ist anzuwenden.
-
 
 ## § 7a Leistungszulage für Tätigkeiten im Filialvertrieb
 
@@ -227,7 +218,6 @@ Bundesbesoldungsgesetzes gilt entsprechend.
 (4) Die Filialzulage darf letztmalig für den Monat Juni 2013 gewährt
 werden.
 
-
 ## § 8 Leistungszulage für besondere Arbeitsmengen
 
 (1) Beamte können eine auf den Einzelfall bezogene Leistungszulage
@@ -240,7 +230,6 @@ zu bestimmten Zeiten für kurze Zeiträume anfallen.
 Berücksichtigung des Zeitaufwandes. § 3 Abs. 1 und § 5 Abs. 1 Satz 3
 und 4 sind anzuwenden.
 
-
 ## § 9 Übergangsregelung
 
 (1) Werden bis zum 31. Dezember 1996 stückbezogene Vergütungen auf
@@ -250,7 +239,6 @@ anzurechnen.
 
 (2) Soweit für das Jahr 1996 eine Jahresprämie gewährt wird, richtet
 sich die Berechnung nach dieser Verordnung.
-
 
 ## § 10 Inkrafttreten
 

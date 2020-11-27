@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 18 G v. 3.4.2009 I 700
 
-
 ## Erstes Kapitel - Allgemeine Vorschriften
-
-
 
 ### § 1 Grundsatz
 
@@ -40,7 +37,6 @@ Hüttenknappschaftlichen Zusatzversicherung pflichtversichert waren.
 die bisherige umlagefinanzierte Hüttenknappschaftliche
 Zusatzversicherung nach Maßgabe dieses Gesetzes weitergeführt.
 
-
 ### § 2 Träger der Hüttenknappschaftlichen Zusatzversicherung
 
 (1) Träger der Hüttenknappschaftlichen Zusatzversicherung ist die
@@ -56,7 +52,6 @@ Verbindlichkeiten aus der Hüttenknappschaftlichen Zusatzversicherung
 ist auf das jeweilige Sondervermögen beschränkt; dieses haftet nicht
 für Verbindlichkeiten der Deutschen Rentenversicherung Saarland als
 Träger der allgemeinen Rentenversicherung.
-
 
 ### § 3 Versicherte Arbeitnehmer
 
@@ -105,7 +100,6 @@ auf gleich gelagerte Fälle zu berücksichtigen.
 (5) Die Hüttenknappschaftliche Zusatzversicherung ist eine
 Versicherung im Sinne der §§ 14a, 14b des Arbeitsplatzschutzgesetzes.
 
-
 ### § 4 Freiwillige Weiterversicherung
 
 Wer aus einer Beschäftigung ausscheidet, welche die
@@ -116,7 +110,6 @@ fortsetzen. Nach bindender Bewilligung einer Leistung wegen Alters
 oder für Zeiten des Bezuges einer solchen Leistung ist eine
 freiwillige Versicherung nicht zulässig; das gilt nicht bei einer
 Teilleistung wegen Alters.
-
 
 ### § 5 Beiträge
 
@@ -188,7 +181,6 @@ Betrag zwischen 400 Euro und der Beitragsbemessungsgrenze nach Absatz
 (8) Freiwillige Beiträge zur Hüttenknappschaftlichen
 Zusatzversicherung sind wirksam, wenn sie bis zum Ablauf des
 Fälligkeitszeitpunktes eines Pflichtbeitrages gezahlt werden.
-
 
 ### § 6 Beitragszahlung, Meldepflicht und Beitragsmitteilung
 
@@ -315,7 +307,6 @@ zurückliegende Kalenderjahr die Höhe der geleisteten Beiträge
 schriftlich mitzuteilen. Näheres zum Verfahren regelt der
 Versicherungsträger durch Satzung.
 
-
 ### § 7 Prüfung bei den Arbeitgebern
 
 (1) Der Versicherungsträger der Hüttenknappschaftlichen
@@ -329,13 +320,11 @@ mindestens alle vier Jahre.
 (2) Näheres zum Verfahren regelt der Versicherungsträger durch
 Satzung.
 
-
 ### § 8 Anwendung anderer Vorschriften
 
 Auf die öffentlich-rechtlichen Rechtsbeziehungen finden die
 Vorschriften des Dritten Abschnitts des Ersten Buches sowie des
 Zehnten Buches Sozialgesetzbuch entsprechend Anwendung.
-
 
 ### § 9 Rechtsweg
 
@@ -343,10 +332,7 @@ Zehnten Buches Sozialgesetzbuch entsprechend Anwendung.
 Gesetzes sind Streitigkeiten in Angelegenheiten der
 Sozialversicherung.
 
-
 ## Zweites Kapitel - Kapitaldeckungsverfahren
-
-
 
 ### § 10 Durchführung über eine Pensionskasse
 
@@ -365,14 +351,12 @@ Beauftragung nicht zustande kommt.
 (3) Die Interessen der Arbeitnehmer und deren Arbeitgeber werden durch
 den Versicherungsträger in den Organen der Pensionskasse wahrgenommen.
 
-
 ### § 11 Freiwillige Weiterversicherung
 
 Scheidet ein Arbeitnehmer aus der Versicherungspflicht in der
 Hüttenknappschaftlichen Zusatzversicherung aus, muss dem Arbeitnehmer
 das Recht zur Fortsetzung der betrieblichen Altersversorgung mit
 eigenen Beiträgen ermöglicht werden.
-
 
 ### § 12 Leistungen
 
@@ -400,7 +384,6 @@ Hüttenknappschaftlichen Zusatzversicherung werden angerechnet.
 Voraussetzung gebunden werden, dass ein Anspruch auf vergleichbare
 Leistungen aus der gesetzlichen Rentenversicherung besteht.
 
-
 ### § 13 Verfahren
 
 Der Versicherungsträger stellt sicher, dass die von ihm eingezogenen
@@ -408,7 +391,6 @@ Beiträge und sonstige Einnahmen unverzüglich und unmittelbar an die
 Pensionskasse weitergeleitet werden. Die Erstattung der
 Verwaltungskosten wird zwischen dem Versicherungsträger und der
 Pensionskasse vereinbart.
-
 
 ### § 14 Anspruch auf betriebliche Altersversorgung durch Entgeltumwandlung
 
@@ -425,7 +407,6 @@ die Pensionskasse übernehmen. Die Erstattung der Verwaltungskosten
 wird zwischen dem Versicherungsträger und der Pensionskasse
 vereinbart.
 
-
 ### § 15 Anwendung anderer Vorschriften
 
 (1) Soweit in den Vorschriften dieses Gesetzes nichts Abweichendes
@@ -437,10 +418,7 @@ Zusatzversicherung gelten die Vorschriften für die steuerliche
 Förderung der betrieblichen Altersversorgung nach dem
 Einkommensteuergesetz.
 
-
 ## Drittes Kapitel - Sonderregelungen
-
-
 
 ### § 16 Personenkreis
 
@@ -460,7 +438,6 @@ Für Versicherte, die
 wird die Hüttenknappschaftliche Zusatzversicherung im Umlageverfahren
 weitergeführt.
 
-
 ### § 17 Weitere Personenkreise
 
 (1) Für Personen, die am 30. Juni 2002 Anspruch auf eine Zusatzrente
@@ -471,7 +448,6 @@ Anspruch nach Maßgabe dieses Kapitels weiter.
 nicht im Umlageverfahren weiterzuführen ist, haben auch Anspruch auf
 Leistungen nach Maßgabe der Vorschriften dieses Kapitels aus Zeiten
 zur Hüttenknappschaftlichen Zusatzversicherung vor dem 1. Januar 2003.
-
 
 ### § 18 Freiwillige Weiterversicherung
 
@@ -497,7 +473,6 @@ Beitrag zur gesetzlichen Rentenversicherung gezahlt werden.
 Hüttenknappschaftlichen Zusatzversicherung sind auch wirksam, wenn sie
 bis zum 31. März des Jahres, das dem Jahr folgt, für das sie gelten
 sollen, gezahlt werden.
-
 
 ### § 19 Leistungen
 
@@ -575,7 +550,6 @@ gesetzlichen Rentenversicherung vorzeitig erfüllt, wenn
 (4) Die besondere Wartezeit ist auch erfüllt, wenn Anrechte durch eine
 interne Teilung nach § 10 Abs. 1 des Versorgungsausgleichsgesetzes
 übertragen wurden.
-
 
 ### § 20 Zusatzrentenberechnung
 
@@ -785,7 +759,6 @@ Sechsten Buches Sozialgesetzbuch.
 
 (6) Bei Waisenzusatzrenten wird ein Zuschlag nicht gezahlt.
 
-
 ### § 21 Ermittlung des Rentenartfaktors in Sonderfällen
 
 (1) Hat ein Versicherter eine Zusatzrente wegen Alters bezogen, wird
@@ -800,7 +773,6 @@ gelegt.
 Hinterbliebene bezogen und beginnt spätestens innerhalb von 24
 Kalendermonaten nach Ende des Bezugs dieser Rente erneut eine solche
 Rente, wird ihr der bisherige Rentenartfaktor zugrunde gelegt.
-
 
 ### § 22 Bewertung von Zeiten
 
@@ -825,7 +797,6 @@ der Betrag des Entgelts, soweit er der Beitragsbemessung zugrunde lag,
 mit dem Wert 0,0001949 vervielfältigt wird. Entgelte in französischen
 Franken sind im Verhältnis 100 : 1 Deutsche Mark umzurechnen.
 
-
 ### § 23 Zusammentreffen von Zusatzrenten und von Einkommen
 
 (1) Die Zusatzrente wird neben einer entsprechenden Rente aus der
@@ -844,7 +815,6 @@ Zusatzrente anrechenbare Einkommen mindert sich um den Betrag, der
 bereits zu einer Einkommensanrechnung auf eine vorrangige Rente
 geführt hat.
 
-
 ### § 24 Anpassung der Zusatzrenten
 
 (1) Zum 1. Juli eines jeden Jahres werden Zusatzrenten um den
@@ -854,7 +824,6 @@ gesetzlichen Rentenversicherung verändert.
 (2) Das Bundesministerium für Arbeit und Soziales gibt jeweils zum 30.
 Juni eines Kalenderjahres den Vomhundertsatz nach Absatz 1 im
 Bundesanzeiger bekannt.
-
 
 ### § 25 Abfindung
 
@@ -874,7 +843,6 @@ Anlage 1 zu entnehmen ist.
 Sechsten Buches Sozialgesetzbuch über Zahlung einer Rentenabfindung
 Anwendung.
 
-
 ### § 26 Beginn und Erstattung
 
 (1) Die Zusatzrente beginnt mit der Rente aus der gesetzlichen
@@ -893,7 +861,6 @@ Minderung von Renten, über Leistungen an Berechtigte im Ausland sowie
 Rentenversicherung maßgebenden Vorschriften des Sechsten Buches
 Sozialgesetzbuch entsprechend Anwendung. Beiträge, die für die Zeit
 vor dem 20. November 1947 gezahlt worden sind, werden nicht erstattet.
-
 
 ### § 27 Wahlrecht auf Übertragung von Anwartschaften
 
@@ -962,7 +929,6 @@ genommen, werden nur die später gezahlten Beiträge übertragen. Mit der
 Übertragung sind sämtliche Rechtsansprüche aus der umlagefinanzierten
 Hüttenknappschaftlichen Zusatzversicherung abgegolten.
 
-
 ### § 28 Übertragung von Anwartschaften
 
 (1) Anwartschaften eines Versicherten, für den die
@@ -982,7 +948,6 @@ Anspruch genommen, werden nur die später gezahlten Beiträge
 übertragen. Mit der Übertragung sind sämtliche Rechtsansprüche aus der
 umlagefinanzierten Hüttenknappschaftlichen Zusatzversicherung
 abgegolten.
-
 
 ### § 29 Durchführung der Übertragung von Anwartschaften
 
@@ -1014,7 +979,6 @@ Zeitpunkt der Bekanntgabe des Verwaltungsaktes unmittelbar an die
 Pensionskasse weiter. Widerspruch und Klage gegen den Verwaltungsakt
 haben keine aufschiebende Wirkung.
 
-
 ### § 30 Beteiligung des Bundes im Umlageverfahren
 
 (1) Die Mittel für die Ausgaben der umlagefinanzierten
@@ -1028,19 +992,16 @@ der umlagefinanzierten Hüttenknappschaftlichen Zusatzversicherung
 sicher. Der Zuschuss des Bundes wird in bedarfsgerechten Raten
 zugewiesen.
 
-
 ### § 31 Vermögensübertragung
 
 Das Vermögen der Hüttenknappschaftlichen Zusatzversicherung wird
 innerhalb eines Monats nach Inkrafttreten dieser Vorschrift auf den
 Bund übertragen.
 
-
 ### § 32 Steuer- und beitragsrechtliche Behandlung der Beiträge
 
 Beiträge im Umlageverfahren werden steuer- und beitragsrechtlich wie
 Beiträge zur Sozialversicherung behandelt.
-
 
 ### § 33 Übergangsregelung
 
@@ -1049,7 +1010,6 @@ Dezember 2002 für alle Versicherten im Umlageverfahren fortgeführt.
 Beiträge werden für die kapitalgedeckte Hüttenknappschaftliche
 Zusatzversicherung erstmals für den Monat Januar 2003 an die
 Pensionskasse weitergeleitet.
-
 
 ### Anlage 1 (zu § 25 Abs. 1)
 
@@ -1404,10 +1364,6 @@ Pensionskasse weitergeleitet.
 *    *   17 Jahre und mehr
 
     *   1
-
-
-
-
 
 ### Anlage 2 (zu § 29 Abs. 2)
 

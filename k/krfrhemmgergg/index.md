@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 213
 
-
-
 ## § 1
 
 (1) Bürgerlich-rechtliche Ansprüche gelten als vor dem 9. Mai 1945
@@ -34,7 +32,6 @@ Bestimmung des Absatzes 1 über die Verjährung entsprechend, wenn
 derjenige, der die befristete Rechtshandlung vorzunehmen hatte, einem
 mit dem Deutschen Reich im Kriegszustand befindlichen Land angehörte
 oder in einem solchen Land seinen gewöhnlichen Aufenthalt hatte.
-
 
 ## § 2
 
@@ -62,11 +59,9 @@ Sondergenehmigung oder eine Sondergenehmigung nach Artikel 1 Abs. 1
 Buchstabe f der Gesetze Nr. 52 der Militärregierungen erforderlich
 ist.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 

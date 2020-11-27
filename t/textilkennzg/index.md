@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 26.8.2010 I 1248
 
-
 ## § 1
 
 (1) Textilerzeugnisse dürfen gewerbsmäßig nur
@@ -50,7 +49,6 @@ entspricht.
 
 (3) Die Absätze 1 und 2 sind auf die Tätigkeit von Genossenschaften
 auch dann anzuwenden, wenn sie nicht gewerbsmäßig betrieben wird.
-
 
 ## § 2
 
@@ -96,7 +94,6 @@ Form oder, bei nicht einheitlicher Breite, die Durchschnittsbreite.
 
 (3) Inverkehrbringen ist jedes Überlassen an andere.
 
-
 ## § 3
 
 (1) In der Rohstoffgehaltsangabe sind die in Anlage 1 festgelegten
@@ -116,7 +113,6 @@ dürfen, auch in Wortverbindungen oder als Eigenschaftswort, für andere
 Fasern nicht verwendet werden. Insbesondere darf die Bezeichnung
 "Seide" nicht zur Angabe der Form oder besonderen Aufmachung von
 textilen Rohstoffen als Endlosfasern verwendet werden.
-
 
 ## § 4
 
@@ -145,7 +141,6 @@ enthaltene Wolle verwendet werden, wenn
 
 In diesem Falle sind die Gewichtsanteile aller verwendeten textilen
 Rohstoffe in Vomhundertsätzen anzugeben.
-
 
 ## § 5
 
@@ -196,7 +191,6 @@ ausmacht, können als "Halbleinen" bezeichnet werden, wobei die Angabe
 unbestimmter Zusammensetzung" dürfen für Textilerzeugnisse verwendet
 werden, deren Rohstoffgehalt zum Zeitpunkt der Herstellung nur mit
 Schwierigkeiten bestimmt werden kann.
-
 
 ## § 6
 
@@ -271,7 +265,6 @@ Wirtschaftsgemeinschaft erforderlich ist und der Anpassung an die
 technische Entwicklung oder der Vereinheitlichung und Verbesserung der
 Messung dient.
 
-
 ## § 7
 
 (1) Bei Angabe der Gewichtsanteile sind die im Verlauf des
@@ -318,7 +311,6 @@ Abweichungen erfordern als in den Absätzen 1 und 3 angegeben, sind
 höhere Toleranzen nur in Ausnahmefällen und bei entsprechendem
 Nachweis durch den Hersteller zulässig.
 3\. Absatz 4 findet keine Anwendung auf Absatz 3 letzter Satz.
-
 
 ## § 8
 
@@ -382,10 +374,6 @@ Bestandteile angegeben werden:
     braucht die Zusammensetzung nur für die Nutzschicht angegeben zu
     werden.
 
-
-
-
-
 ## § 9
 
 (1) Die Rohstoffgehaltsangabe muß leicht lesbar sein und ein
@@ -410,7 +398,6 @@ Rohstoffgehaltsangabe muß auch neben den in den Sätzen 2 und 3
 zugelassenen Zeichen leicht lesbar und deutlich sichtbar sein. Die
 Vorschriften des Rechts gegen den unlauteren Wettbewerb und des
 Markenrechts bleiben unberührt.
-
 
 ## § 10
 
@@ -437,7 +424,6 @@ Rohstoffe im Lieferschein, in der Rechnung oder in anderen
 Handelsdokumenten angegeben werden. Die Verwendung von Abkürzungen ist
 nicht zulässig. Verschlüsselungen dürfen verwendet werden, wenn ihre
 Bedeutung in demselben Dokument erläutert wird.
-
 
 ## § 11
 
@@ -507,7 +493,6 @@ Richtlinien der Europäischen Wirtschaftsgemeinschaft erforderlich ist
 sowie dem Schutze des Verbrauchers und der Vereinfachung des
 Warenverkehrs entspricht.
 
-
 ## § 12
 
 Unterlagen über Tatsachen, auf deren Kenntnis die
@@ -515,7 +500,6 @@ Rohstoffgehaltsangabe beruht, sind zwei Jahre lang aufzubewahren. Die
 Frist beginnt mit Ablauf des Kalenderjahres, in welchem das letzte der
 Erzeugnisse, auf die sich die Unterlagen beziehen, von deren Besitzer
 in den Verkehr gebracht worden ist.
-
 
 ## § 13
 
@@ -540,10 +524,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 3.  die Anpassungen dieses Gesetzes vorzunehmen, die bei Inkrafttreten des
     Vertrages über den Beitritt Portugals und des Königreichs Spanien zur
     Europäischen Wirtschaftsgemeinschaft erforderlich werden.
-
-
-
-
 
 ## § 14
 
@@ -596,7 +576,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 ## § 15
 
 § 1 Abs. 1 Nr. 2 steht der Abfertigung durch die Zolldienststellen
@@ -604,11 +583,9 @@ nicht entgegen. Die Zolldienststellen sind befugt, Verstöße gegen die
 Vorschriften dieses Gesetzes, die sie bei der Abfertigung feststellen,
 den zuständigen Verwaltungsbehörden mitzuteilen.
 
-
 ## § 15a
 
 -
-
 
 ## § 16
 
@@ -617,11 +594,9 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach
 Maßgabe des § 14 des Dritten Überleitungsgesetzes.
 
-
 ## § 17
 
 (Inkrafttreten)
-
 
 ## Anlage 1 Bezeichnung der Textilfasern
 
@@ -1108,10 +1083,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *   Unter "organischem Lösungsmittel" ist im wesentlichen ein Gemisch aus
     organischen Chemikalien und Wasser zu verstehen.
 
-
-
-
-
 ## Anlage 2 Vereinbarte Zuschläge, die zur Berechnung des Gewichts der in einem Textilerzeugnis enthaltenen Fasern verwendet werden müssen
 
 (Fundstelle des Originaltextes: BGBl. I 1986, 1293;
@@ -1563,10 +1534,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7,00
 
-
-
-
-
 ## Anlage 3 Erzeugnisse, die nicht mit einer Rohstoffgehaltsangabe versehen werden müssen
 
 
@@ -1731,10 +1698,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 43. Fahnen und Banner.
-
-
-
-
 
 ## Anlage 4 Erzeugnisse, für die lediglich eine globale Kennzeichnung vorgeschrieben ist (§ 11 Abs. 3)
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 657
 
-
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der
@@ -45,11 +43,9 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 24.
 Oktober 1988 (BGBl. I S. 2107).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage
 

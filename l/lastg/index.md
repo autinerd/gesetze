@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2098, 2105
 
-
-
 ## § 1 Grundsätze der Lastentragung
 
 (1) Verpflichtungen der Bundesrepublik Deutschland zu finanzwirksamen
@@ -34,7 +32,6 @@ Länder, tragen Bund und Länder die Lasten in dem Verhältnis des
 Umfangs, in dem ihre Pflichtverletzungen zur Entstehung der
 Leistungspflicht beigetragen haben, soweit dieses Gesetz nicht etwas
 anderes bestimmt.
-
 
 ## § 2 Länderübergreifende Finanzkorrekturen der Europäischen Gemeinschaften
 
@@ -71,7 +68,6 @@ Der auf die Ländergesamtheit entfallende Anteil nach Satz 1 Nr. 2 wird
 auf die einzelnen Länder nach dem Königsteiner Schlüssel verteilt.
 Eine weitergehende Lastentragung des Bundes ist ausgeschlossen.
 
-
 ## § 3 Sanktionen auf Grund von Artikel 228 des Vertrags zur Gründung der Europäischen Gemeinschaft
 
 Verurteilt der Gerichtshof der Europäischen Gemeinschaften die
@@ -80,7 +76,6 @@ Zwangsgeldes wegen gleichartiger Verstöße im Zuständigkeits- und
 Aufgabenbereich mehrerer Länder, so bemisst sich der Anteil der
 Lastentragung der betroffenen Länder nach deren Verhältnis zueinander
 im Königsteiner Schlüssel.
-
 
 ## § 4 Verletzungen von Verpflichtungen durch die Gerichte
 
@@ -95,7 +90,6 @@ das betroffene Land die Lasten je zur Hälfte.
 Anhängigkeit sowohl bei Gerichten des Bundes als auch eines Landes
 werden die Lasten im Verhältnis der Anteile der beteiligten Gerichte
 an der Verfahrensdauer getragen.
-
 
 ## § 5 Erstattung durch die Länder
 

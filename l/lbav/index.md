@@ -22,14 +22,12 @@ Fundstelle
     3\.2.2009, S. 49), die zuletzt durch die Verordnung (EG) Nr. 279/2009
     (ABl. L 93 vom 7.4.2009, S. 11) geändert worden ist.
 
-
 ## Eingangsformel
 
 Auf Grund des § 18 Absatz 4 des Bundesbeamtengesetzes vom 5. Februar
 2009 (BGBl. I S. 160) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern:
-
 
 ## § 1 Geltungsbereich
 
@@ -47,7 +45,6 @@ Berufsqualifikation in einem dieser Staaten erworben oder anerkannt
 worden ist (Qualifikationsstaat) und dort für den unmittelbaren Zugang
 zu einer Tätigkeit im öffentlichen Dienst erforderlich ist, die der
 angestrebten Laufbahn vergleichbar ist.
-
 
 ## § 2 Anerkennungsvoraussetzungen
 
@@ -105,10 +102,6 @@ vorbereitet worden ist.
 2.  eine in Artikel 12 der Richtlinie 2005/36/EG aufgeführte
     Qualifikation.
 
-
-
-
-
 ## § 3 Antrag
 
 (1) Die Anerkennung ist unter Angabe der angestrebten Tätigkeit oder
@@ -149,7 +142,6 @@ Stelle des Qualifikationsstaats um Übermittlung der Angaben.
 sich um fremdsprachige Unterlagen, ist eine beglaubigte Übersetzung
 beizufügen.
 
-
 ## § 4 Zuständige Stelle
 
 (1) Über die Anerkennung entscheidet das Bundesverwaltungsamt.
@@ -158,7 +150,6 @@ beizufügen.
 Bundesverwaltungsamts, die in dieser Verordnung geregelt sind, im
 Einvernehmen mit einer obersten Dienstbehörde ganz oder teilweise auf
 diese oder eine Behörde ihres Geschäftsbereichs übertragen.
-
 
 ## § 5 Ausgleichsmaßnahmen
 
@@ -202,13 +193,6 @@ Antragssteller wählen.
 
     c)  die Kenntnis dieser Inhalte eine wesentliche Voraussetzung für den
         Erwerb der Laufbahnbefähigung ist.
-
-
-
-
-
-
-
 
 ## § 6 Eignungsprüfung
 
@@ -296,7 +280,6 @@ Eignungsprüfung bekannt. Die Antragstellerin oder der Antragsteller
 erhält über das Ergebnis der Prüfung zeitnah einen schriftlichen
 Bescheid.
 
-
 ## § 7 Anpassungslehrgang
 
 (1) Das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
@@ -318,7 +301,6 @@ beauftragten Behörde festgelegt.
 Leistungen ab, in der festgestellt wird, ob die wesentlichen
 Unterschiede ausgeglichen sind. Die Antragstellerin oder der
 Antragsteller erhält über das Ergebnis einen schriftlichen Bescheid.
-
 
 ## § 8 Verfahren
 
@@ -342,7 +324,6 @@ versehen.
 (3) Die Anerkennung der Qualifikation als Laufbahnbefähigung begründet
 keinen Anspruch auf Einstellung.
 
-
 ## § 9 Gebühren
 
 Für die Entscheidung über den Antrag sowie für die Durchführung einer
@@ -351,14 +332,12 @@ Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte Behörde
 bei der Antragstellerin oder dem Antragsteller eine Gebühr in Höhe von
 jeweils 60 Euro.
 
-
 ## § 10 Verwaltungszusammenarbeit
 
 Das Bundesverwaltungsamt arbeitet mit den zuständigen Behörden der
 Qualifikationsstaaten sowie mit den nach Artikel 57 der Richtlinie
 2005/36/EG eingerichteten Kontaktstellen zusammen und leistet
 Amtshilfe, um die Anwendung der Richtlinie 2005/36/EG zu erleichtern.
-
 
 ## § 11 Übermittlung personenbezogener Daten
 
@@ -385,10 +364,6 @@ der empfangende Staat zusichert,
 
 2.  die nach deutschem Recht geltenden Löschungs- oder Tilgungsfristen zu
     beachten.
-
-
-
-
 
 ## § 12 Inkrafttreten, Außerkrafttreten
 

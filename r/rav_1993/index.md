@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 917
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -57,7 +55,6 @@ verordnet die Bundesregierung und auf Grund des
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1993 an 44,49 Deutsche
@@ -65,7 +62,6 @@ Mark.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 1993 an 32,17
 Deutsche Mark.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -78,7 +74,6 @@ Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
 Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Juli
 1993 eingetreten sind, werden zum 1. Juli 1993 angepaßt. Der
 Anpassungsfaktor beträgt 1,1412.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -94,10 +89,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     anzuwenden ist, zwischen 363 Deutsche Mark und 1.453 Deutsche Mark
     monatlich.
 
-
-
-
-
 ## § 4 Anpassung in der Altershilfe für Landwirte
 
 Die in § 4 Abs. 1 Satz 1 des Gesetzes über eine Altershilfe für
@@ -108,10 +99,6 @@ Altersgeld betragen vom 1. Juli 1993 an
 
 
 2.  für den unverheirateten Berechtigten 469,50 Deutsche Mark monatlich.
-
-
-
-
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -168,14 +155,9 @@ Juni 1993
 
     *   1,0934751.
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
-
 
 ## Schlußformel
 

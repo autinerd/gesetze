@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Nr. 2 V v. 7.10.1981 I 1129
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 4 in Verbindung mit § 72 Abs. 2 des
 Soldatengesetzes vom 19. März 1956 (Bundesgesetzbl. I S. 114) wird
 verordnet:
 
-
 ## I. - Vorgesetztenverhältnis auf Grund der Dienststellung
-
-
 
 ### § 1 Unmittelbare Vorgesetzte
 
@@ -41,13 +37,11 @@ und außer Dienst Befehle zu erteilen.
 Dienstaufsicht von Fachvorgesetzten unterstehen, soll der unmittelbare
 Vorgesetzte nicht eingreifen.
 
-
 ### § 2 Fachvorgesetzte
 
 Ein Soldat, dem nach seiner Dienststellung die Leitung des Fachdiensts
 von Soldaten obliegt, hat die Befugnis, ihnen im Dienst zu
 fachdienstlichen Zwecken Befehle zu erteilen.
-
 
 ### § 3 Vorgesetzte mit besonderem Aufgabenbereich
 
@@ -58,10 +52,7 @@ notwendig sind. Wenn sich dies aus seinem Aufgabenbereich ergibt, hat
 er Befehlsbefugnis auch gegenüber Soldaten, die sich nicht im Dienst
 befinden.
 
-
 ## II. - Vorgesetztenverhältnis auf Grund des Dienstgrads
-
-
 
 ### § 4
 
@@ -96,10 +87,7 @@ der Dienststelle beschränken.
 einer höheren Dienstgradgruppe den Soldaten einer niedrigeren
 Dienstgradgruppe in und außer Dienst Befehle erteilen.
 
-
 ## III. - Vorgesetztenverhältnis auf Grund besonderer Anordnung
-
-
 
 ### § 5
 
@@ -114,10 +102,7 @@ dienstlich bekanntzugeben ist, erhält der Soldat die Befugnis, den
 unterstellten Soldaten Befehle zu erteilen, die zur Erfüllung seiner
 Aufgabe notwendig sind.
 
-
 ## IV. - Vorgesetztenverhältnis auf Grund eigener Erklärung
-
-
 
 ### § 6
 
@@ -148,15 +133,11 @@ zu erteilen, die nach der Lage erforderlich sind. In eine fachliche
 Tätigkeit soll nur ein facherfahrener Offizier oder Unteroffizier
 eingreifen.
 
-
 ## V. - Inkrafttreten
-
-
 
 ### § 7
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ### Schlußformel
 

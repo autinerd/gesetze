@@ -20,8 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.7.2009 I 2126
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10a Abs. 9 Satz 1 und 3 des Kreditwesengesetzes, der
@@ -29,7 +27,6 @@ durch Artikel 1 Nr. 13 des Gesetzes vom 17. November 2006 (BGBl. I S.
 2606) neu gefasst worden ist, verordnet das Bundesministerium der
 Finanzen im Benehmen mit der Deutschen Bundesbank nach Anhörung der
 Spitzenverbände der Institute:
-
 
 ## § 1 Anwendungsbereich
 
@@ -54,7 +51,6 @@ Verordnung (EG) Nr. 1606/2002, aufgestellt wurden.
 (2) § 7 ist auch anwendbar, wenn ein Abschluss nicht nach den in
 Absatz 1 genannten internationalen Rechnungslegungsstandards
 aufgestellt wurde.
-
 
 ## § 2 Behandlung von Zeitwertgewinnen bei Eigenkapital- und Fremdkapitalinstrumenten von zur Veräußerung verfügbaren finanziellen Vermögenswerten
 
@@ -84,7 +80,6 @@ Schuldverschreibungen und andere festverzinsliche Wertpapiere dieser
 Kategorie bleiben bei der Ermittlung des haftenden Eigenkapitals nach
 § 10a Absatz 7 in Verbindung mit § 10 Absatz 2 Satz 2 des
 Kreditwesengesetzes unberücksichtigt.
-
 
 ## § 3 Behandlung selbst genutzter und als Finanzinvestitionen gehaltener Grundstücke und Gebäude
 
@@ -122,7 +117,6 @@ geltenden Fassung der Verordnung (EG) Nr. 1725/2003 verwendet wird,
 sind die Anrechnungsmechanismen nach § 10 Abs. 2b Satz 1 Nr. 6 in
 Verbindung mit § 10 Abs. 4b des Kreditwesengesetzes anzuwenden.
 
-
 ## § 4 Behandlung von bis zur Endfälligkeit gehaltenen Finanzinvestitionen
 
 Bei bis zur Endfälligkeit gehaltenen Finanzinvestitionen nach IAS
@@ -131,7 +125,6 @@ der Verordnung (EG) Nr. 1725/2003 dürfen die im letzten Abschluss per
 Saldo ausgewiesenen, nicht realisierten Reserven in Höhe von 45
 Prozent des Unterschiedsbetrags zwischen dem Buchwert und dem
 beizulegenden Zeitwert im Ergänzungskapital berücksichtigt werden.
-
 
 ## § 5 Behandlung der Eigenkapitaleffekte aus der Absicherung von Zahlungsströmen
 
@@ -148,7 +141,6 @@ Eigenkapitaleffekte aus Grund- und Sicherungsgeschäft, bezogen auf das
 abgesicherte Risiko, jeweils im Kern- und Ergänzungskapital zu
 verrechnen.
 
-
 ## § 6 Behandlung der Eigenkapitaleffekte aus einer Veränderung des eigenen Kreditrisikos
 
 Nach IAS 39.47 in der jeweils geltenden Fassung der Verordnung (EG)
@@ -159,7 +151,6 @@ IFRS 7.10 in der jeweils geltenden Fassung der Verordnung (EG) Nr.
 1725/2003 offenzulegen sind, sind nicht in die Ermittlung der
 zusammengefassten Eigenmittel nach § 10a Abs. 7 des
 Kreditwesengesetzes einzubeziehen.
-
 
 ## § 7 Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwendung des Verfahrens nach § 10a Abs. 7 des Kreditwesengesetzes
 
@@ -199,13 +190,11 @@ angerechnet werden darf.
 nicht nach Maßgabe der in § 1 Abs. 1 genannten internationalen
 Rechnungslegungsstandards aufgestellt wurde, entsprechend.
 
-
 ## § 7a Anwendungsbestimmung
 
 § 2 Absatz 3 in der ab dem 25. Juli 2009 geltenden Fassung ist
 erstmals bereits für die aufsichtlichen Meldungen zum Stichtag 30.
 Juni 2009 anzuwenden.
-
 
 ## § 8 Inkrafttreten
 

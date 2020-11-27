@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 772
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -60,7 +58,6 @@ verordnet die Bundesregierung und auf Grund
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 1995 an 46,23 Deutsche
@@ -68,7 +65,6 @@ Mark.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 1995 an 36,33
 Deutsche Mark.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -81,7 +77,6 @@ Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
 Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Juli
 1995 eingetreten sind, werden zum 1. Juli 1995 angepaßt. Der
 Anpassungsfaktor beträgt 1,0258.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -97,10 +92,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     anzuwenden ist, zwischen 410 Deutsche Mark und 1.642 Deutsche Mark
     monatlich.
 
-
-
-
-
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
@@ -108,7 +99,6 @@ beträgt vom 1. Juli 1995 an 21,35 DM.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 1995 an 16,78 DM.
-
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
@@ -172,14 +162,9 @@ Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 
     *   vom 1. Januar 1995 bis 30. Juni 1995
 
-
-
-
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1995 in Kraft.
-
 
 ## Schlußformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 12.4.2011 I 619
 
-
 ## § 1 Zweck des Gesetzes
 
 Als Beitrag zur Darstellung des Energieangebots und der
@@ -36,7 +35,6 @@ und der Länder, für Zwecke
 
 werden die in § 2 genannten statistischen Erhebungen als
 Bundesstatistik durchgeführt.
-
 
 ## § 2 Erhebungen
 
@@ -58,10 +56,6 @@ Die Statistik umfasst die Erhebungen
 
 
 6.  über die Energieverwendung (§ 8).
-
-
-
-
 
 ## § 3 Erhebungen in der Elektrizitätswirtschaft
 
@@ -190,7 +184,6 @@ Erhebungsmerkmalen:
 Zeitraum von 24 Stunden an einem Stichtag zu machen. Die Angaben nach
 Absatz 2 Nr. 1 und 3 sind auch nach Ländern unterteilt zu melden.
 
-
 ## § 4 Erhebungen in der Gaswirtschaft
 
 (1) Die Erhebung erfasst bei höchstens 100 Betreibern von Anlagen zur
@@ -264,7 +257,6 @@ Betreibern zu erheben, die nicht nach Absatz 1 erfasst sind. Die
 Angaben nach Absatz 2 Nr. 5 und 9 sowie Absatz 3 sind auch nach
 Ländern unterteilt zu melden.
 
-
 ## § 5 Erhebung in der Wärmewirtschaft
 
 Die Erhebung erfasst bei höchstens 1 000 Betreibern von Anlagen zur
@@ -300,7 +292,6 @@ Die Angaben nach Nummer 3 sind auch nach Ländern unterteilt zu melden.
 Die Abnehmergruppen nach Nummer 3 umfassen die Sektoren Industrie,
 Verkehr, private Haushalte und sonstige Sektoren.
 
-
 ## § 6 Erhebung über Kohleimporte und -exporte
 
 Die Erhebung erfasst bei allen Unternehmen, die Braunkohle,
@@ -317,10 +308,6 @@ oder ausführen, monatlich Angaben zu folgenden Erhebungsmerkmalen:
 
 
 3.  Abgabe, jeweils auch nach Kohlearten und inländischen Abnehmergruppen.
-
-
-
-
 
 ## § 7 Erhebungen über erneuerbare Energieträger
 
@@ -407,10 +394,6 @@ Die Erhebungen erfassen jährlich für das Vorjahr
     2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16) in seiner
     jeweils geltenden Fassung.
 
-
-
-
-
 ## § 8 Erhebung über die Energieverwendung
 
 Die Erhebung erfasst bei höchstens 60.000 Betrieben des Bergbaus, der
@@ -421,10 +404,6 @@ jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
 
 2.  energetische und nichtenergetische Verwendung der Energieträger.
-
-
-
-
 
 ## § 9 Hilfsmerkmale
 
@@ -439,10 +418,6 @@ Hilfsmerkmale sind:
 
 
 3.  Art und Standort der Anlagen.
-
-
-
-
 
 ## § 10 Auskunftspflicht
 
@@ -519,16 +494,11 @@ Auskunftspflicht.
 
 7.  für die Erhebung nach § 8 die Leitungen der Betriebe.
 
-
-
-
-
 ## § 11 Anschriftenübermittlung
 
 Die für die Genehmigung oder Förderung der in den §§ 3 bis 8 genannten
 Anlagen zuständigen Behörden übermitteln den statistischen Ämtern der
 Länder auf Ersuchen Namen und Anschriften der Betreiber.
-
 
 ## § 12 Erhebung und Aufbereitung
 
@@ -539,7 +509,6 @@ vom Statistischen Bundesamt aufbereitet.
 Statistischen Bundesamt die von ihnen erhobenen Einzelangaben für
 Zusatz- und Sonderaufbereitungen des Bundes.
 
-
 ## § 13 Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
@@ -547,7 +516,6 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates für die
 Erhebungen nach den §§ 3 bis 8 die Zahl der Auskunftspflichtigen
 einzuschränken, wenn dies die Zuverlässigkeit der Ergebnisse nicht
 beeinträchtigt.
-
 
 ## § 14 Übermittlungsregelung
 

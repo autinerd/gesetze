@@ -44,7 +44,6 @@ Dieser Tarifvertrag gilt für Arbeitnehmerinnen und Arbeitnehmer, die
 in Betrieben oder selbstständigen Betriebsabteilungen im Sinne des
 Absatzes 2 tätig sind.
 
-
 ## § 2 Mindestlohn
 
 (1) Der Mindestlohn beträgt ab 1. September 2011 8,33 Euro je Stunde.

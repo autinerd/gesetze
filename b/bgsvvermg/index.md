@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 29.4.1997 I 968
 
-
 ## Erster Abschnitt - Regelungsgegenstand
-
-
 
 ### § 1
 
@@ -38,10 +35,7 @@ gelangt sind. Diese Grundstücke und Gebäude sind nicht als der
 Sowjetisch-Deutschen Aktiengesellschaft Wismut sachlich zugeordnet
 anzusehen.
 
-
 ## Zweiter Abschnitt - Unbewegliches Vermögen
-
-
 
 ### § 2 Eigentumsaufteilung
 
@@ -105,7 +99,6 @@ Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben. Das
 Landessozialgericht Berlin entscheidet im ersten Rechtszug. Absatz 6
 Satz 4 gilt entsprechend.
 
-
 ### § 3 Klärung der Eigentumsverhältnisse, Mitwirkungspflichten der Überleitungsanstalt Sozialversicherung
 
 Die Überleitungsanstalt Sozialversicherung hat bei den Grundstücken
@@ -114,14 +107,12 @@ Gesamthandsvermögen oder zum Vermögen des Gesundheitswesens Wismut
 nach § 1 Abs. 2 gehören, eine Klärung der Eigentumsverhältnisse
 herbeizuführen.
 
-
 ### § 4 Rechte früherer Eigentümer
 
 Grundstücke und Gebäude, die nach Maßgabe von § 2 übertragen werden,
 unterliegen der Rückübertragung nach Maßgabe des Vermögensgesetzes,
 wenn sie Gegenstand von Maßnahmen im Sinne des § 1 Vermögensgesetz
 waren. Das Investitionsvorranggesetz ist anzuwenden.
-
 
 ### § 5 Verwaltung und Nutzung
 
@@ -175,7 +166,6 @@ Sozialversicherung oder einen Verband der Sozialversicherungsträger
 im Verhältnis zu einem anderen Träger der Sozialversicherung oder
 Verband der Sozialversicherungsträger keine Anwendung.
 
-
 ### § 6 Erwerbspreis
 
 Die Sozialversicherungsträger oder ihre Verbände haben den
@@ -189,10 +179,7 @@ weiteres, von der Überleitungsanstalt Sozialversicherung
 einzurichtendes Sonderkonto zu zahlen. Die Auslagen für die Ermittlung
 des Verkehrswertes hat der Erwerber zu tragen.
 
-
 ## Dritter Abschnitt - Bewegliche Sachen, Forderungen, Verbindlichkeiten
-
-
 
 ### § 7 Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut
 
@@ -326,7 +313,6 @@ Arbeitsschutz und Arbeitsmedizin über die Erforderlichkeit der
 Rechtsvorschrift im Sinne des § 67d Abs. 1 des Zehnten Buches
 Sozialgesetzbuch.
 
-
 ### § 8 Forderungen und sonstige Rechte
 
 (1) Forderungen, die aufgrund einer öffentlich-rechtlichen Vorschrift
@@ -369,7 +355,6 @@ dem Gesundheitswesen Wismut zuzuführen.
 (6) Für die Feststellung im Streitverfahren gilt § 2 Abs. 6 und 7
 entsprechend.
 
-
 ### § 9 Verbindlichkeiten
 
 (1) Für Verbindlichkeiten, die zu dem in Anlage I Kapitel VIII
@@ -388,10 +373,7 @@ stellen. Entsprechendes gilt für die Verbindlichkeiten des
 Gesundheitswesens Wismut nach § 1 Abs. 2 für die Länder Sachsen und
 Thüringen.
 
-
 ## Vierter Abschnitt - Anteile am Gesamthandsvermögen
-
-
 
 ### § 10
 
@@ -418,10 +400,7 @@ Spitzenverbände der Sozialversicherungsträger für die Gesamthänder dem
 Träger oder Verband einen gemäß § 6 gezahlten Erwerbspreis
 entsprechend der Aufteilung nach Absatz 1 zu erstatten.
 
-
 ## Fünfter Abschnitt - Vollmachtsregelung
-
-
 
 ### § 11 Vertretungsbefugnis
 
@@ -450,10 +429,7 @@ Sozialversicherung vor dem Inkrafttreten dieses Gesetzes abgeschlossen
 hat, gelten als genehmigt, wenn die Verträge im Benehmen mit den
 Spitzenverbänden abgeschlossen worden sind.
 
-
 ## Sechster Abschnitt - Altvermögen der Sozialversicherungsträger
-
-
 
 ### § 12 Feststellung des Eigentumsübergangs
 
@@ -494,10 +470,7 @@ Wenn der örtlich zuständige Medizinische Dienst das Grundstück oder
 Gebäude zu seiner Aufgabenerfüllung benötigt, ist es vom Land auf
 diesen unentgeltlich zu übertragen.
 
-
 ## Siebter Abschnitt - Schlußvorschriften
-
-
 
 ### § 13 Auflösung der Sonderkonten
 
@@ -510,7 +483,6 @@ entsprechend.
 (2) Der Saldo aus dem Sonderkonto für das Immobiliarvermögen aus dem
 Gesundheitswesen Wismut ist auf die Länder Sachsen und Thüringen zu
 gleichen Teilen zu übertragen.
-
 
 ### § 14 Nachfolge
 

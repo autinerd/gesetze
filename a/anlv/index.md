@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 11.2.2011 I 250
 
-
 ## Eingangsformel
 
 Auf Grund des § 54 Abs. 3 des Versicherungsaufsichtsgesetzes, zuletzt
 geändert durch das Gesetz vom 21. Dezember 2000 (BGBl. I S. 1857),
 verordnet die Bundesregierung:
-
 
 ## § 1 Anlagegrundsätze und Anlagemanagement
 
@@ -61,7 +59,6 @@ prüfen.
 Vorgaben zu den besonderen Vorschriften dieser Verordnung und die
 Darlegungs- und Anzeigepflichten der Versicherungsunternehmen bestimmt
 die Aufsichtsbehörde durch ein Rundschreiben.
-
 
 ## § 2 Anlageformen
 
@@ -434,7 +431,6 @@ Lebensversicherungen zulassen können.
 die Staaten der Europäischen Gemeinschaften sowie die Staaten des
 Abkommens über den Europäischen Wirtschaftsraum.
 
-
 ## § 3 Quantitative Beschränkungen (Mischung)
 
 (1) Direkte und indirekte Anlagen nach § 2 Abs. 1 Nr. 2 Buchstabe a
@@ -529,7 +525,6 @@ Versicherten erforderlich ist. Die gleiche Befugnis steht der
 Aufsichtsbehörde in den Fällen des § 81b Abs. 2 Satz 1 des
 Versicherungsaufsichtsgesetzes zu.
 
-
 ## § 4 Schuldnerbezogene Beschränkungen (Streuung)
 
 (1) Vorbehaltlich des Absatzes 2 dürfen alle auf ein und denselben
@@ -614,7 +609,6 @@ Pensionskasse von mehr als zwei Unternehmen getragen, sind Anlagen in
 diese Unternehmen auf insgesamt 15 vom Hundert des gesamten Vermögens
 begrenzt; Satz 1 bleibt unberührt.
 
-
 ## § 5 Kongruenz
 
 Das gebundene Vermögen ist nach Maßgabe der Anlage Teil C des
@@ -628,7 +622,6 @@ einen organisierten Markt einbezogene Aktien und Anteile gelten als in
 der Währung des Landes angelegt, in dem der Aussteller der Wertpapiere
 oder Anteile seinen Sitz hat.
 
-
 ## § 6 Übergangsregelung
 
 Die Einhaltung der Quoten nach § 4 Absatz 1 Satz 2, Absatz 2 Satz 2,
@@ -640,11 +633,9 @@ ordnungsgemäß getätigte Anlagen, die die geänderten Begrenzungen des §
 können bis zu ihrer Fälligkeit im Sicherungsvermögen und sonstigen
 gebundenen Vermögen verbleiben.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
-
 
 ## Schlussformel
 

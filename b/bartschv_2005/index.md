@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 3.10.2012 I 2108
 
-
 ## Abschnitt 1 - Unterschutzstellung, Ausnahmen und Verbote
-
-
 
 ### § 1 Besonders geschützte und streng geschützte Tier- und Pflanzenarten
 
@@ -29,7 +26,6 @@ Die in Anlage 1 Spalte 2 mit einem Kreuz (+) bezeichneten Tier- und
 Pflanzenarten werden unter besonderen Schutz gestellt. Die in Anlage 1
 Spalte 3 mit einem Kreuz (+) bezeichneten Tier- und Pflanzenarten
 werden unter strengen Schutz gestellt.
-
 
 ### § 2 Ausnahmen
 
@@ -78,7 +74,6 @@ gelten nicht für
 Die in Satz 1 genannten Formen sind auch von den Verboten des § 44
 Absatz 1 Nummer 1 und 3 des Bundesnaturschutzgesetzes ausgenommen.
 
-
 ### § 3 Verbote für nicht besonders geschützte Tierarten
 
 (1) Die Besitz- und Vermarktungsverbote des § 44 Absatz 2 Satz 1 des
@@ -123,7 +118,6 @@ Bundesnaturschutzgesetzes bleibt unberührt.
 (3) Absatz 2 Nr. 2 gilt nicht für Tierhaltungen unter zoologisch
 fachkundiger Leitung, die ganz oder überwiegend juristischen Personen
 des öffentlichen Rechts gehören.
-
 
 ### § 4 Verbotene Handlungen, Verfahren und Geräte
 
@@ -216,10 +210,7 @@ die Tellereisen oder den internationalen humanen Fangnormen nicht
 entsprechende Fangmethoden anwenden (ABl. EG Nr. L 308 S. 1), bleibt
 unberührt.
 
-
 ## Abschnitt 2 - Teile und Erzeugnisse, Aufzeichnungspflichten
-
-
 
 ### § 5 Teile und Erzeugnisse
 
@@ -241,10 +232,6 @@ des Bundesnaturschutzgesetzes sind
     hervorgeht, dass es sich um Teile von Tieren und Pflanzen der
     besonders geschützten Arten oder aus ihnen gewonnene Erzeugnisse
     handelt.
-
-
-
-
 
 ### § 6 Aufnahme- und Auslieferungsbuch
 
@@ -338,14 +325,9 @@ abgeschlossenes Geschäftsjahr gemacht worden ist. Andere gesetzliche
 Vorschriften, die eine längere Aufbewahrungspflicht vorsehen, bleiben
 unberührt.
 
-
 ## Abschnitt 3 - Haltung und Zucht, Anzeigepflichten
 
-
-
 ### Unterabschnitt 1 - Haltung und Anzeigepflichten
-
-
 
 #### § 7 Haltung von Wirbeltieren
 
@@ -385,17 +367,13 @@ zuständige Behörde kann für andere Tierhaltungen unter zoologisch
 fachkundiger Leitung Ausnahmen von Absatz 2 zulassen, sofern Belange
 des Artenschutzes nicht entgegenstehen.
 
-
 ### Unterabschnitt 2 - Zucht und Haltung von Greifvogelhybriden
-
-
 
 #### § 8 Begriffsbestimmungen
 
 Greifvogelhybriden im Sinne dieser Verordnung sind Greifvögel, die
 genetische Anteile von mindestens einer heimischen sowie einer
 weiteren Greifvogelart enthalten.
-
 
 #### § 9 Zuchtverbot
 
@@ -405,7 +383,6 @@ weiteren Greifvogelart enthalten.
 Absatzes 1 Züchter, die vor dem 25. Februar 2005 mit der Zucht von
 Greifvogelhybriden begonnen haben.
 
-
 #### § 10 Haltungsverbot
 
 Es ist verboten, Greifvogelhybriden zu halten. Ausgenommen von dem
@@ -413,7 +390,6 @@ Verbot sind Tiere, die vor dem 25. Februar 2005 in Übereinstimmung mit
 den zu ihrem Schutz geltenden Vorschriften gehalten werden, sowie, im
 Falle der Zucht, Jungvögel bis zur Abgabe an Dritte mit Wohnsitz oder
 Sitz im Ausland.
-
 
 #### § 11 Flugverbot, Entweichen
 
@@ -437,10 +413,7 @@ zuständige Naturschutzbehörde zu informieren.
 (4) Für Halter eines Greifvogelhybriden, der aus einem Gehege
 entwichen ist, gilt Absatz 3 entsprechend.
 
-
 ## Abschnitt 4 - Kennzeichnung
-
-
 
 ### § 12 Kennzeichnungspflicht
 
@@ -457,7 +430,6 @@ Kennzeichnung hat nach Maßgabe
 
 
 zu erfolgen.
-
 
 ### § 13 Kennzeichnungsmethoden
 
@@ -531,7 +503,6 @@ Dokumentation hat der Halter der Anzeige nach § 7 Abs. 2 beizufügen,
 weitere Dokumentationen sind den nach Landesrecht zuständigen Behörden
 auf Verlangen vorzulegen.
 
-
 ### § 14 Ausnahmen von der Kennzeichnungspflicht
 
 (1) Die Kennzeichnungspflicht nach § 12 entfällt, wenn ein verletztes,
@@ -551,7 +522,6 @@ Kennzeichnungen, die nicht unter Satz 1 fallen, kann die nach
 Landesrecht zuständige Behörde als Kennzeichnung im Sinne des § 12
 anerkennen, soweit eine gleichwertige Individualisierung
 sichergestellt ist.
-
 
 ### § 15 Ausgabe von Kennzeichen
 
@@ -607,13 +577,7 @@ Angaben zu machen.
 
 \*) Vertrieb: Beuth Verlag, Burggrafenstraße 6, 10787 Berlin.
 
-
-
-
-
 ## Abschnitt 5 - Ordnungswidrigkeiten
-
-
 
 ### § 16 Ordnungswidrigkeiten
 
@@ -672,13 +636,7 @@ des Bundesnaturschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 12. entgegen § 13 Abs. 3 Satz 4 eine dort genannte Unterlage nicht beifügt
     oder nicht oder nicht rechtzeitig vorlegt.
 
-
-
-
-
 ## Abschnitt 6 - Ländervorbehalt
-
-
 
 ### § 17 Ländervorbehalt
 
@@ -686,7 +644,6 @@ Die nach Landesrecht zuständigen Behörden können nach § 2 Abs. 1 Satz
 2 und Abs. 2, § 4 Abs. 3, § 6 Abs. 1 Satz 4, § 7 Abs. 3 Satz 2 und §
 14 Abs. 1 Satz 2 unter den jeweils genannten Voraussetzungen Ausnahmen
 auch allgemein zulassen.
-
 
 ### Anlage 1 (zu § 1) Schutzstatus wild lebender Tier- und Pflanzenarten Erläuterungen zur Anlage 1
 
@@ -7446,10 +7403,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 8)  Nur wild lebende Populationen.
 
-
-
-
-
 ### Anlage 2 (zu § 2 Abs. 3 Nr. 2) Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;
@@ -8071,10 +8024,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Kretische Zelkove
 
-
-
-
-
 ### Anlage 3 (zu § 5 Nr. 2) Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
@@ -8119,10 +8068,6 @@ gelten:
 2.  getrocknete Stoffe pflanzlichen Ursprungs und aus ihnen gewonnene
     Rohprodukte wie Fette und ätherische Öle, Harze, Balsame und Gummen.
 
-
-
-
-
 ### Anlage 4 (zu § 6 Abs. 1 Satz 2) Muster für das Aufnahme- und Auslieferungsbuch nach § 6 Abs. 1 Satz 2
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
@@ -8142,10 +8087,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
     *   Name und  genaue  Anschrift  des  Empfängers  oder Art  des  sonstigen
         Abganges
-
-
-
-
 
 ### Anlage 5 (zu § 7 Abs. 2) Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
 
@@ -8579,16 +8520,11 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
     *   Störartige
 
-
-
-
-
 ### Anlage 6 (zu § 12 Satz 1 und § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
 
 Fundstelle des Originaltextes: BGBl. I 2005, 292 - 316
 
 (Inhalt: nicht darstellbare Tabelle)
-
 
 ### Anlage 7 (zu § 15 Abs. 3 Satz 1) Anforderungen an die Beschriftung von Ringen
 

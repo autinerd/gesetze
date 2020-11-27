@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10 G v. 5.12.2012 I 2474
 
-
 ## Erster Abschnitt - Allgemeines
-
-
 
 ### § 1 Grundsatz
 
@@ -38,7 +35,6 @@ Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches
 Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils
 beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten
 .
-
 
 ### § 2 Meldepflichtige
 
@@ -59,10 +55,6 @@ Meldungen sind zu erstatten von
 
 
 5.  den Leistungsträgern.
-
-
-
-
 
 ### § 3 Zu meldender Personenkreis
 
@@ -92,11 +84,9 @@ Meldungen sind zu erstatten für
 Den Beschäftigten stehen Personen gleich, für die ein anderer wie ein
 Arbeitgeber Beiträge auf Grund gesetzlicher Vorschriften zahlt.
 
-
 ### § 4
 
 (weggefallen)
-
 
 ### § 5 Allgemeine Vorschriften
 
@@ -158,21 +148,15 @@ Beschäftigten ist gesondert zu kennzeichnen und zu melden; die Meldung
 kann auch in Verbindung mit einer anderen zum gleichen Zeitpunkt zu
 erstattenden Meldung erfolgen.
 
-
 ## Zweiter Abschnitt - Allgemeine Vorschriften für Meldungen der Arbeitgeber
 
-
-
 ### Erster Unterabschnitt - Meldungen
-
-
 
 #### § 6 Anmeldung
 
 Der Beginn einer versicherungspflichtigen Beschäftigung ist mit der
 ersten folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von
 sechs Wochen nach ihrem Beginn, zu melden.
-
 
 #### § 7 Sofortmeldung
 
@@ -181,7 +165,6 @@ Der Tag des Beginns eines Beschäftigungsverhältnisses ist in den in §
 Wirtschaftsbereichen oder Wirtschaftszweigen spätestens bei
 Beschäftigungsaufnahme an die Datenstelle der Träger der
 Rentenversicherung zu melden.
-
 
 #### § 8 Abmeldung
 
@@ -198,7 +181,6 @@ Sozialgesetzbuch bezeichneten Änderung des Arbeitsentgelts sind eine
 Ab- und eine Anmeldung innerhalb der Frist des § 6 zusammen zu
 erstatten.
 
-
 #### § 8a Meldung bei Eintritt eines Insolvenzereignisses
 
 Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person
@@ -206,7 +188,6 @@ hat für freigestellte Beschäftigte für den Zeitraum bis zum Tag vor
 Eröffnung eines Insolvenzverfahrens oder Nichteröffnung mangels Masse
 eine Abmeldung mit der nächsten folgenden Lohn- und Gehaltsabrechnung,
 spätestens aber nach sechs Wochen abzugeben.
-
 
 #### § 9 Unterbrechungsmeldung
 
@@ -226,7 +207,6 @@ Zeitraum bis zum Wegfall innerhalb von sechs Wochen nach dem Ende der
 Beschäftigung eine Unterbrechungsmeldung zu erstatten. Das Ende der
 Beschäftigung ist nach § 8 zu melden.
 
-
 #### § 10 Jahresmeldung
 
 (1) Eine Jahresmeldung ist für jeden am 31. Dezember eines Jahres
@@ -237,7 +217,6 @@ Dezember eine Meldung nach §§ 8, 9 oder § 12 zu erstatten ist.
 
 (2) Arbeitsentgelt ist nur insoweit zu melden, als es nicht schon
 gemeldet wurde.
-
 
 #### § 11 Meldung von einmalig gezahltem Arbeitsentgelt
 
@@ -275,7 +254,6 @@ gesondert zu melden, wenn eine Meldung aus anderem Grund für das
 Kalenderjahr, dem das Arbeitsentgelt zuzuordnen ist, nicht mehr
 erfolgt.
 
-
 #### § 11a Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
 
 (1) Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches
@@ -294,7 +272,6 @@ der Angabe, ob es im Beitritts- oder im übrigen Bundesgebiet erzielt
 worden ist, zu melden, wenn nicht beide zusammen im Beitrittsgebiet
 oder zusammen im übrigen Bundesgebiet erzielt worden sind.
 
-
 #### § 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung sowie bei Bezug von weiteren beitragspflichtigen Einnahmen
 
 Teilt der oder die Beschäftigte oder die zuständige Krankenkasse dem
@@ -308,7 +285,6 @@ Sozialgesetzbuch an die zuständige Krankenkasse zu melden, erstmals
 spätestens innerhalb von sechs Wochen nach diesem Zeitpunkt. Die
 Meldepflicht besteht, solange die Voraussetzungen nach § 28a Absatz 1
 Satz 1 Nummer 10 des Vierten Buches Sozialgesetzbuch vorliegen.
-
 
 #### § 12 Sonstige Meldungen
 
@@ -339,17 +315,13 @@ mit der nächsten Lohn und Gehaltsabrechnung zu erstatten. Ist zu
 diesem Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese
 zum gleichen Zeitpunkt zu erstatten.
 
-
 #### § 13 Meldungen für geringfügig Beschäftigte
 
 Für die Meldungen einer geringfügigen Beschäftigung nach § 8 des
 Vierten Buches Sozialgesetzbuch gelten § 5 Abs. 1 bis 7 und 9 und die
 §§ 6 und 8 bis 12 entsprechend.
 
-
 ### Zweiter Unterabschnitt - Korrektur von Meldungen
-
-
 
 #### § 14 Stornierung
 
@@ -369,19 +341,13 @@ anzuwendenden Gefahrtarifstelle in der Meldung enthalten sind.
 nicht bekannt, hat die Stornierung die für die Vergabe der
 Versicherungsnummer notwendigen Angaben zu enthalten.
 
-
 #### § 15 (weggefallen)
 
 -
 
-
 ## Dritter Abschnitt - Meldungen der Arbeitgeber durch Datenübertragung
 
-
-
 ### Erster Unterabschnitt - Allgemeines
-
-
 
 #### § 16 Grundsatz
 
@@ -390,7 +356,6 @@ Datenübertragung. Es sind geeignete Maßnahmen zur Sicherstellung von
 Datenschutz und Datensicherheit nach dem jeweiligen Stand der Technik
 vorzusehen. Bei der Nutzung allgemein zugänglicher Netze sind
 Verschlüsselungsverfahren anzuwenden.
-
 
 #### § 17 Datenübertragung
 
@@ -416,10 +381,7 @@ gebräuchliche Datenübertragungstechniken verwendet werden, die die
 gleiche Datensicherheit gewährleisten, und die Weiterverarbeitung
 durch die Annahmestelle wirtschaftlich zumutbar ist.
 
-
 ### Zweiter Unterabschnitt - Systemprüfung
-
-
 
 #### § 18 Grundsatz
 
@@ -433,7 +395,6 @@ eine vergleichbare Einrichtung für mehrere Arbeitgeber oder für
 mehrere Betriebe eines Arbeitgebers die Lohn- und Gehaltsunterlagen
 führt.
 
-
 #### § 19 Antrag
 
 Für maschinell geführte Lohn- und Gehaltsabrechnungsprogramme und
@@ -442,7 +403,6 @@ eine Systemprüfung zu beantragen. Der Antrag auf Systemprüfung ist an
 die von dem Spitzenverband Bund der Krankenkassen bestimmte Stelle zu
 richten. Das Nähere zum Antragsverfahren regeln die gemeinsamen
 Grundsätze nach § 22.
-
 
 #### § 20 Systemprüfung
 
@@ -474,7 +434,6 @@ Grundsätze nach § 22.
 (5) Die Absätze 1 bis 4 gelten für maschinell erstellte Ausfüllhilfen
 entsprechend.
 
-
 #### § 21 Zulassungsbescheid
 
 Der Antragsteller erhält das Prüfprotokoll und einen
@@ -483,7 +442,6 @@ sind vom Antragsteller aufzubewahren. Die Zulassung legt die für die
 ordnungsgemäße Durchführung der Datenübertragung einzuhaltenden
 Voraussetzungen fest. Einzelheiten regeln die gemeinsamen Grundsätze
 nach § 22.
-
 
 #### § 22 Gemeinsame Grundsätze
 
@@ -495,10 +453,7 @@ Krankenkassen, die Deutsche Rentenversicherung Bund und die
 Bundesagentur für Arbeit einvernehmlich in gemeinsamen Grundsätzen.
 Die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
 
-
 ### Dritter Unterabschnitt - Durchführung der Datenübertragung
-
-
 
 #### § 23 Annahmestelle, Zeitpunkt
 
@@ -514,11 +469,9 @@ Meldungen erneut zu erstatten.
 
 (3) Die Einzelheiten regeln die gemeinsamen Grundsätze nach § 22.
 
-
 #### § 24
 
 (weggefallen)
-
 
 #### § 25 Unterrichtung des Arbeitnehmers
 
@@ -537,10 +490,7 @@ Bescheinigung wie Lohnunterlagen zu behandeln und bis zum Ablauf des
 auf die letzte Prüfung nach § 28p des Vierten Buches Sozialgesetzbuch
 folgenden Kalenderjahres aufzubewahren.
 
-
 ## Vierter Abschnitt - Beitragsnachweisverfahren
-
-
 
 ### § 26 Beitragsnachweise
 
@@ -549,18 +499,11 @@ Sozialgesetzbuch ist rechtzeitig einzureichen. Die §§ 2, 3, 5 Abs. 1,
 §§ 14, 16 bis 23, 31 Abs. 1 und 3 bis 5, §§ 32, 33 Abs. 1, 2 und 6, §
 38 Abs. 1, 2 und 4 und § 40 Abs. 1 bis 3 gelten entsprechend.
 
-
 ### (XXXX) §§ 27 und 28 (weggefallen)
-
-
 
 ## Fünfter Abschnitt - Sonderregelungen
 
-
-
 ### (XXXX) §§ 29 und 30 (weggefallen)
-
-
 
 ### § 31 Sonderregelungen
 
@@ -587,10 +530,7 @@ Regelungen zur Systemprüfung im Sinne der §§ 18 bis 21.
 nach Absatz 1 erstattet werden, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See.
 
-
 ## Sechster Abschnitt - Übernahme und Weiterleitung der Meldungen durch die Sozialversicherungsträger
-
-
 
 ### § 32 Weiterleitung von Daten
 
@@ -602,7 +542,6 @@ für Arbeit erfolgt durch Datenübertragung.
 (2) § 16 Satz 2 und 3 und § 17 Abs. 1 gilt entsprechend.
 
 (3) Die Einzelheiten regeln die gemeinsamen Grundsätze nach § 22.
-
 
 ### § 33 Übernahme und Prüfung der Daten durch die Einzugsstellen
 
@@ -639,7 +578,6 @@ bis 3, das Verfahren der Fehlerbehandlung und die Überwachung der
 erneuten Erstattung zurückgewiesener Meldungen regeln die gemeinsamen
 Grundsätze nach § 22.
 
-
 ### § 34 Datenweiterleitung
 
 (1) Die Einzugsstelle hat die geprüften Daten innerhalb von fünf
@@ -649,11 +587,9 @@ Rentenversicherung weiterzuleiten.
 (2) In den Fällen des § 33 Abs. 4 unterbleibt die Weiterleitung, bis
 die Versicherungsnummer mitgeteilt wird.
 
-
 ### § 35
 
 (weggefallen)
-
 
 ### § 36 Aufgaben der Datenstelle der Träger der Rentenversicherung
 
@@ -673,15 +609,11 @@ mit den beteiligten Stellen aufzuklären.
 Aufgabenerfüllung der Bundesagentur für Arbeit erforderlichen Daten
 unverzüglich weiterzuleiten.
 
-
 ### § 37 (weggefallen)
 
 -
 
-
 ## Siebter Abschnitt - Meldung von Entgeltersatzleistungen, Anrechnungszeiten, Zeiten des Wehr- und Zivildienstes und Zeiten einer besonderen Auslandsverwendung
-
-
 
 ### § 38 Entgeltersatzleistungen
 
@@ -713,7 +645,6 @@ Jahres eine Bescheinigung über den Inhalt der Meldungen des
 vergangenen Kalenderjahres zu erteilen. Die Bescheinigung ist zu einem
 früheren Zeitpunkt zu erteilen, wenn der Versicherte sie vorher
 benötigt.
-
 
 ### § 39 Anrechnungszeiten, Sperrzeiten
 
@@ -753,7 +684,6 @@ Anrechnungszeit nicht feststellen kann.
 Erklärungen der Rentenversicherungsträger zu Rechtsfragen von
 grundsätzlicher Bedeutung gebunden.
 
-
 ### § 40 Zeiten des Wehr- und Zivildienstes
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmten
@@ -784,7 +714,6 @@ Rentenversicherung weiterzuleiten.
 
 (5) Die §§ 25 und 38 Abs. 5 gelten entsprechend.
 
-
 ### § 40a Zeiten einer besonderen Auslandsverwendung
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmte
@@ -794,10 +723,7 @@ an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung nach
 
 (2) § 5 Absatz 3 und § 38 Absatz 2, 4 und 5 gelten entsprechend.
 
-
 ## Achter Abschnitt - Ordnungswidrigkeiten
-
-
 
 ### § 41 Ordnungswidrigkeiten
 
@@ -818,13 +744,7 @@ Sozialgesetzbuch handelt, wer vorsätzlich oder leichtfertig
 4.  entgegen § 25 Abs. 2 Satz 2 den Inhalt der Bescheinigung nicht oder
     nicht für die vorgeschriebene Dauer aufbewahrt.
 
-
-
-
-
 ## Neunter Abschnitt - Beitragsnachweisverfahren für sonstige Beiträge
-
-
 
 ### § 42 Beitragsnachweisverfahren für sonstige Beiträge
 

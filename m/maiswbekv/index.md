@@ -21,7 +21,6 @@ Zuletzt geändert durch
 V tritt gem. § 10 satz 2 am 11.1.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 10 satz 2 mit zustimmung des bundesrates aufgeh. durch
 :   Art. 1 Nr. 5 V v. 19.12.2008 I 2865; dadurch ist die Geltung dieser V über den 11.1.2009 hinaus verlängert worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1 bis 3 und 5 bis 15 und des § 4 Abs. 1
@@ -35,19 +34,16 @@ geändert worden ist und § 5 Abs. 1a durch Artikel 1 des Gesetzes vom
 5\. März 2008 eingefügt worden ist, verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
 ## § 1 Zweck
 
 Diese Verordnung dient der Bekämpfung des Westlichen Maiswurzelbohrers
 (Diabrotica virgifera virgifera Le Conte).
-
 
 ## § 2 Züchtungs- und Haltungsverbot
 
 Das Züchten und das Halten des Westlichen Maiswurzelbohrers
 (Schadorganismus) sowie das Arbeiten mit diesem Schadorganismus sind
 verboten.
-
 
 ## § 3 Überwachung
 
@@ -65,7 +61,6 @@ Absatz 1 bezeichneten Gebieten sind verpflichtet, die Untersuchungen
 durch die zuständige Behörde und insbesondere das Aufstellen der
 Fallen zu dulden
 
-
 ## § 4 Anzeigepflichten
 
 (1) Verfügungsberechtigte und Besitzer von Grundstücken, auf denen
@@ -78,7 +73,6 @@ gewerblichen Umgangs mit Pflanzen oder Pflanzenerzeugnissen Kenntnis
 über das Auftreten oder den Verdacht des Auftretens des
 Schadorganismus erhält, hat dies unverzüglich der zuständigen Behörde
 anzuzeigen
-
 
 ## § 5 Festsetzung und Aufhebung von Befalls- und Sicherheitszonen
 
@@ -103,7 +97,6 @@ entsprechend zu erweitern.
 Sicherheitszone auf, wenn zwei Jahre nach dem Jahr, in dem zuletzt der
 Schadorganismus festgestellt worden ist, der Schadorganismus nicht
 mehr nachgewiesen wird.
-
 
 ## § 6 Maßnahmen in der Befallszone
 
@@ -162,7 +155,6 @@ alle zur Bekämpfung des Schadorganismus erforderlichen Anordnungen
 treffen, insbesondere bestimmte Verfahren des Pflanzenschutzes
 vorschreiben oder verbieten.
 
-
 ## § 7 Maßnahmen in der Sicherheitszone
 
 (1) In der Sicherheitszone darf auf den Flächen, auf denen im Jahr der
@@ -174,7 +166,6 @@ folgenden Jahren nur einmal Mais angebaut werden.
 alle zur Bekämpfung des Schadorganismus erforderlichen Anordnungen
 treffen, insbesondere bestimmte Verfahren des Pflanzenschutzes
 vorschreiben oder verbieten.
-
 
 ## § 8 Ausnahmen
 
@@ -269,7 +260,6 @@ zur Bekämpfung des Schadorganismus erforderlich ist.
 § 2 für wissenschaftliche Untersuchungen und Versuche erteilen, wenn
 hierdurch die Bekämpfung des Schadorganismus nicht beeinträchtigt wird
 und keine Gefahr einer Ausbreitung des Schadorganismus besteht.
-
 
 ## § 8a Eingrenzungsprogramme
 
@@ -390,7 +380,6 @@ seiner Bekämpfung erforderlichen Anordnungen treffen, insbesondere den
 Anbau bestimmter Pflanzenarten sowie bestimmte Verfahren des
 Pflanzenschutzes vorschreiben oder verbieten.
 
-
 ## § 9 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
@@ -430,10 +419,6 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 9.  einer vollziehbaren Auflage nach § 8 Absatz 6 zuwiderhandelt.
-
-
-
-
 
 ## § 10 Inkrafttreten
 

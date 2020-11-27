@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2315
 
-
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -45,11 +43,9 @@ Jahreszahl 2004, das jeweilige Münzzeichen ("A", "D", "F", "G" oder
 "100 EURO".
 Der Entwurf der Münze stammt von Herrn Prof. Ulrich Böhme, Stuttgart.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

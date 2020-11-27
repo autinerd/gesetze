@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2706
 
-
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
 
 (1) Der Bund errichtet zur Verbindung der informationstechnischen
@@ -46,7 +45,6 @@ die Aufgaben des Koordinierungsgremiums nach Maßgabe dieses Gesetzes.
 Die in der Vereinbarung getroffenen Regelungen finden in diesem Fall
 ergänzend Anwendung, soweit sie diesem Gesetz nicht widersprechen.
 
-
 ## § 2 Begriffsbestimmungen
 
 (1) Informationstechnische Netze im Sinne dieses Gesetzes sind die
@@ -60,12 +58,10 @@ informationstechnische Netz, welches die informationstechnischen Netze
 des Bundes und der Länder verbindet. Die Übergabepunkte zu den jeweils
 verbundenen Netzen werden gemeinsam vereinbart.
 
-
 ## § 3 Datenaustausch über das Verbindungsnetz
 
 Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über das
 Verbindungsnetz.
-
 
 ## § 4 Beschlüsse über das Verbindungsnetz
 
@@ -102,7 +98,6 @@ einer Mehrheit von elf Ländern zustande, welche mindestens zwei
 Drittel ihrer Finanzierungsanteile nach dem Königsteiner Schlüssel
 abbildet.
 
-
 ## § 5 Vergabe
 
 (1) Hinsichtlich des Verbindungsnetzes ist gemeinsame Vergabestelle
@@ -118,7 +113,6 @@ rechtzeitig vor der Veröffentlichung der Vergabeunterlagen Einsicht in
 die Entwürfe der Vergabeunterlagen gewährt; dabei ist der Schutz
 vertraulicher Dokumente durch geeignete Maßnahmen sicherzustellen.
 
-
 ## § 6 Betrieb
 
 (1) Der Bund betreibt das Verbindungsnetz. Er setzt dabei die
@@ -128,7 +122,6 @@ gemeinsamen Festlegungen nach § 4 Absatz 1 um.
 Festlegungen und beauftragt hierzu ein von ihm eingesetztes
 Arbeitsgremium aus drei Ländervertretern, bei der Steuerung des
 Betriebs des Verbindungsnetzes die Interessen der Länder einzubringen.
-
 
 ## § 7 Kosten
 
@@ -142,7 +135,6 @@ jeweiligen Anschluss ihres Netzes an das Verbindungsnetz.
 (3) Entstehen durch Anforderungen des Bundes, die über die gemeinsamen
 Festlegungen hinausgehen, zusätzliche Anschlusskosten, sind diese vom
 Bund zu tragen.
-
 
 ## § 8 Übergangsregelung
 

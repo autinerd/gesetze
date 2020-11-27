@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 962
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 6 des Aufbauhilfefondsgesetzes vom 19.
 September 2002 (BGBl. I S. 3651, 3652) verordnet die Bundesregierung:
-
 
 ## § 1 Mittelverteilung
 
@@ -124,7 +121,6 @@ eingesetzt wird - auf die einzelnen Maßnahmen nach § 2 Abs. 2 des
 Aufbauhilfefondsgesetzes nach Maßgabe des gemäß § 5 des
 Aufbauhilfefondsgesetzes aufzustellenden Wirtschaftsplans.
 
-
 ## § 2 Mittelverwendung
 
 (1) Nach der Verteilung der Mittel des Fonds im Rahmen seines
@@ -192,10 +188,6 @@ alle selbständig ausgeübten beruflichen Betätigungen.
     Anforderungen von Nachweisen insbesondere bei Schäden von großem
     Umfang nicht aus.
 
-
-
-
-
 ## § 3 Zweckentsprechende Mittelverwendung, Rückforderung
 
 (1) Die Länder sind für die bestimmungsgemäße Verwendung der Mittel
@@ -244,7 +236,6 @@ Gesamtaufwand zur Beseitigung des entstandenen Hochwasserschadens
 (6) Rückzahlungen von Fondsmitteln fließen den jeweiligen
 Ausgabetiteln des Wirtschaftsplans des Fonds zu.
 
-
 ## § 4 Mittelanforderung
 
 (1) Soweit nicht der Bund eigene Maßnahmen und Programme aus den
@@ -258,13 +249,11 @@ der Schadensbeseitigungsmaßnahmen beim Bund an.
 (2) Überzahlungen oder nicht bedarfsgerecht abgeforderte Mittel sind
 unverzüglich an den Fonds zurückzuzahlen.
 
-
 ## § 5 Liquidität des Fonds
 
 Die Liquidität des Fonds ist durch den Bund auf seine Kosten
 sicherzustellen. Eine Zwischenanlage eventuell überschießender Mittel
 zugunsten des Fonds erfolgt nicht.
-
 
 ## § 6 Fondsverwaltung
 
@@ -272,11 +261,9 @@ Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen;
 dieses stellt den erforderlichen Wirtschaftsplan zu seiner
 Bewirtschaftung auf.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
-
 
 ## Schlussformel
 

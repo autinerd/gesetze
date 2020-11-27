@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 74 G v. 8.12.2010 I 1864
 
-
 ## § 1 Zweck des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es,
@@ -54,7 +53,6 @@ des Übereinkommens, des Durchführungsübereinkommens, den Bestimmungen
 und Anordnungen der Behörde und den Regelungen der von ihnen mit der
 Behörde abgeschlossenen Verträge die Vorschriften dieses Gesetzes und
 der auf Grund von § 7 erlassenen Rechtsverordnungen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -141,10 +139,6 @@ Im Sinne dieses Gesetzes sind
     Vertrag über Tätigkeiten im Gebiet einschließlich des bestätigten
     Arbeitsplanes.
 
-
-
-
-
 ## § 3 Ausführung durch das Landesamt
 
 Dieses Gesetz wird vom Landesamt für Bergbau, Energie und Geologie
@@ -152,7 +146,6 @@ Dieses Gesetz wird vom Landesamt für Bergbau, Energie und Geologie
 diese Aufgabe vom Land Niedersachsen entliehenen Organ des Bundes
 ausgeführt. Das Landesamt unterliegt insoweit der Fach- und
 Rechtsaufsicht des Bundes.
-
 
 ## § 4 Zugangsbedingungen
 
@@ -246,7 +239,6 @@ Behörde weiterleitet.
 
 (11) Die Befürwortung ist nicht übertragbar.
 
-
 ## § 5 Verantwortlichkeit
 
 Prospektoren und Vertragsnehmer sind verantwortlich für
@@ -264,10 +256,6 @@ Prospektoren und Vertragsnehmer sind verantwortlich für
 
 
 3.  den Umweltschutz bei einer Prospektion oder Tätigkeit im Gebiet.
-
-
-
-
 
 ## § 6 Verantwortliche Personen
 
@@ -306,7 +294,6 @@ ihnen übertragenen Aufgaben und Befugnisse verantwortlich gemäß § 5.
 Verantwortlichkeit von Prospektoren und Vertragsnehmern gemäß § 5
 nicht auf.
 
-
 ## § 7 Ermächtigung zum Erlaß von Rechtsverordnungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
@@ -326,7 +313,6 @@ Fragen des Umweltschutzes betreffen, im Einvernehmen mit dem
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit zu
 erlassen. Die Ermächtigungen nach dem Seeaufgabengesetz bleiben
 unberührt.
-
 
 ## § 8 Bergaufsicht
 
@@ -378,7 +364,6 @@ Gesetzes und den auf Grund des § 7 erlassenen Rechtsverordnungen
 erfolgen. Insbesondere kann es zu diesem Zweck Melde-, Aufzeichnungs-
 und Aufbewahrungspflichten anordnen.
 
-
 ## § 9 Archäologische und historische Gegenstände
 
 Im Gebiet gefundene Gegenstände archäologischer oder historischer Art
@@ -386,7 +371,6 @@ sind dem Landesamt anzuzeigen und nach dessen Anweisung zu behandeln.
 Diese Anweisungen haben Artikel 149 des Übereinkommens zu
 berücksichtigen und werden im Einvernehmen mit dem Bundesministerium
 des Innern erlassen.
-
 
 ## § 10 Kosten
 
@@ -397,7 +381,6 @@ Auslagen) erhoben.
 (2) Das Bundesministerium für Wirtschaft und Technologie wird
 ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände
 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
-
 
 ## § 11 Bußgeldvorschriften
 
@@ -453,7 +436,6 @@ die Behörde wegen derselben Tat ein Verfahren mit dem Ziel der
 Verhängung einer Sanktion gemäß Artikel 18 Abs. 2 der Anlage III des
 Übereinkommens durchführt oder durchgeführt hat.
 
-
 ## § 12 Strafvorschriften
 
 (1) Wer vorsätzlich eine in § 11 Abs. 1 Nr. 1, 3, 4 oder 5 bezeichnete
@@ -476,7 +458,6 @@ Jahren oder mit Geldstrafe bestraft.
 (3) Die Absätze 1 und 2 gelten nicht, wenn die Tat nach § 324, 326,
 330 oder 330a des Strafgesetzbuches mit gleicher oder schwererer
 Strafe bedroht ist.
-
 
 ## § 13 Übergangsvorschriften
 

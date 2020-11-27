@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 11 V v. 12.2.2009 I 320
 
-
 ## Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
@@ -30,10 +29,7 @@ Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I
 S. 706) neu gefasst worden ist, verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium des Innern:
 
-
 ## Abschnitt 1 - Laufbahnen
-
-
 
 ### § 1 Laufbahnen
 
@@ -156,7 +152,6 @@ b)  in der Laufbahn des Wasserzolldienstes
 
 (3) Die Ämter der jeweiligen Laufbahn sind regelmäßig zu durchlaufen.
 
-
 ### § 2 Ziel der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im
@@ -182,14 +177,9 @@ Ausbildung zu übertragen sind.
 eigenständig weiterzubilden. Sie sind zur eigenverantwortlichen
 Wissensaneignung verpflichtet.
 
-
 ## Abschnitt 2 - Ausbildungsordnung
 
-
-
 ### Kapitel 1 - Allgemeines
-
-
 
 #### § 3 Einstellungsbehörde; Ausbildungsbehörde
 
@@ -205,7 +195,6 @@ beamtenrechtlichen Entscheidungen zuständigen Dienstbehörden.
 (2) Die Bundesfinanzdirektionen bestimmen jeweils mindestens ein
 Hauptzollamt ihres Bezirks zur Ausbildungsbehörde
 (Ausbildungshauptzollamt).
-
 
 #### § 4 Einstellungsvoraussetzungen
 
@@ -238,7 +227,6 @@ eingestellt werden, wer das nach den Schiffsbesetzungsvorschriften
 geforderte nautische oder maschinentechnische Befähigungszeugnis
 nachweist.
 
-
 #### § 5 Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung
@@ -269,10 +257,6 @@ Bewerbung sind beizufügen:
 6.  gegebenenfalls eine Ablichtung des Zulassungs- oder
     Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des
     Soldatenversorgungsgesetzes.
-
-
-
-
 
 #### § 6 Auswahlverfahren
 
@@ -323,7 +307,6 @@ Rangfolge aller Bewerberinnen und Bewerber festgelegt. Für
 Bewerberinnen und Bewerber, die nicht eingestellt werden, gilt Absatz
 3 entsprechend.
 
-
 #### § 7 Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörde entscheidet unter Berücksichtigung des
@@ -356,7 +339,6 @@ ausgewählten und für die Einstellung vorgesehenen Bewerberinnen und
 Bewerber eine ärztliche Einstellungsuntersuchung; die Kosten hierfür
 trägt die Einstellungsbehörde.
 
-
 #### § 8 Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das
@@ -369,7 +351,6 @@ Ausbildung beim Bildungs- und Wissenschaftszentrum der
 Bundesfinanzverwaltung unterstehen sie der Dienstaufsicht der
 Präsidentin oder des Präsidenten des Bildungs- und
 Wissenschaftszentrums der Bundesfinanzverwaltung.
-
 
 #### § 9 Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
@@ -424,19 +405,16 @@ kann.
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
 Verlängerung des Vorbereitungsdienstes nach § 42 Abs. 2.
 
-
 #### § 10 Urlaub während des Vorbereitungsdienstes
 
 Erholungsurlaub wird in der Regel während der praktischen Ausbildung
 gewährt und auf den Vorbereitungsdienst angerechnet.
-
 
 #### § 11 Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Ausbildungsakten zu führen, in
 die der Ausbildungsplan sowie alle Leistungsnachweise und Bewertungen
 aufzunehmen sind.
-
 
 #### § 12 Schwerbehinderte Menschen
 
@@ -453,10 +431,7 @@ vorübergehenden aktuellen Behinderungen, die nicht unter den Schutz
 des Neunten Buches Sozialgesetzbuch fallen, angewandt. Entscheidungen
 über Prüfungserleichterungen trifft das Prüfungsamt.
 
-
 ### Kapitel 2 - Ausbildung
-
-
 
 #### § 13 Gliederung des Vorbereitungsdienstes
 
@@ -476,10 +451,7 @@ durchgeführt.
 
 (2) Der Einführungslehrgang schließt mit der Zwischenprüfung ab.
 
-
 #### Teil 1, Fachtheoretische Ausbildung
-
-
 
 ##### § 14 Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung
 
@@ -488,7 +460,6 @@ Wissenschaftszentrum der Bundesfinanzverwaltung durchgeführt. Die
 Einstellungsbehörde weist die Anwärterinnen und Anwärter dem Bildungs-
 und Wissenschaftszentrum der Bundesfinanzverwaltung zum Einführungs-
 und Abschlusslehrgang zu.
-
 
 ##### § 15 Grundsätze
 
@@ -508,7 +479,6 @@ Lehrveranstaltungen besteht aus Übungen.
 Abschlusslehrgang - die Lernziele, die ihnen und ihren
 Intensitätsstufen entsprechenden Lerninhalte, die Stundenzahlen und
 die Art der Leistungsnachweise.
-
 
 ##### § 16 Einführungslehrgang
 
@@ -550,7 +520,6 @@ Die Einzelheiten regeln die Lehrpläne.
 der berufspraktischen Ausbildung das Verständnis für
 Verwaltungszusammenhänge und Verwaltungshandeln ermöglichen.
 
-
 ##### § 17 Abschlusslehrgang
 
 (1) Der Abschlusslehrgang baut ergänzend und vertiefend auf den
@@ -565,10 +534,7 @@ anzuwenden.
 (3) Schwerpunkte des Abschlusslehrgangs bilden die in § 16 Abs. 1 Satz
 1 Nr. 1 bis 9 aufgeführten Fachgebiete.
 
-
 #### Teil 2, Berufspraktische Ausbildung
-
-
 
 ##### § 18 Grundsätze
 
@@ -578,7 +544,6 @@ fachtheoretische Ausbildung erwerben sowie die in der
 fachtheoretischen Ausbildung erworbenen Kenntnisse und Fähigkeiten
 vertiefen und lernen, sie in der Praxis anzuwenden. Für die
 berufspraktische Ausbildung wird ein Ausbildungsrahmenplan erstellt.
-
 
 ##### § 19 Praktische Ausbildung
 
@@ -599,7 +564,6 @@ die ihrer Ausbildung förderlich sind, teilnehmen.
 (2) Tätigkeiten, die nicht dem Zweck der Ausbildung entsprechen,
 dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
 ##### § 20 Durchführung der praktischen Ausbildung
 
 (1) Die Ausbildungsbehörde ist verantwortlich für die Gestaltung,
@@ -617,7 +581,6 @@ weitgehend selbständig und eigenverantwortlich zu arbeiten.
 
 (4) Teile der praktischen Ausbildung können auch im Ausland und
 außerhalb des öffentlichen Dienstes durchgeführt werden.
-
 
 ##### § 21 Leitung und Durchführung der Ausbildung
 
@@ -646,7 +609,6 @@ Ausbildungsleitung für jede Anwärterin und jeden Anwärter ein
 Ausbildungsplan aufgestellt. Dieser Plan wird der Einstellungsbehörde
 vorgelegt; die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
 ##### § 22 Praxisbezogene Lehrveranstaltungen
 
 (1) Die praxisbezogenen Lehrveranstaltungen betragen mindestens 300
@@ -664,10 +626,7 @@ praxisbezogenen Lehrveranstaltungen ergeben sich aus § 16 Abs. 1..
 Bildungsstätte zur Durchführung der praxisbezogenen
 Lehrveranstaltungen zu.
 
-
 #### Teil 3, Leistungsnachweise; Bewertungen
-
-
 
 ##### § 23 Leistungsnachweise während der fachtheoretischen Ausbildung
 
@@ -731,7 +690,6 @@ Ordnungsverstößen sind die §§ 36 und 37 entsprechend anzuwenden. Über
 die Folgen entscheidet die Stelle, die die Aufgabe des
 Leistungsnachweises bestimmt hat.
 
-
 ##### § 24 Bewertungen während der berufspraktischen Ausbildung
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
@@ -760,14 +718,9 @@ bewerteten Ausbildungsabschnitte und der Leistungsnachweise geteilt.
 Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des
 Zeugnisses.
 
-
 ## Abschnitt 3 - Aufstieg
 
-
-
 ### Kapitel 1 - Ausbildungsaufstieg
-
-
 
 #### § 25 Zulassung zum Ausbildungsaufstieg
 
@@ -806,7 +759,6 @@ bestanden, ist die Aufstiegsausbildung beendet.
 Beamten bis zur Verleihung des Eingangsamtes der neuen Laufbahn in
 ihrer bisherigen Rechtsstellung.
 
-
 #### § 26 Verkürzung der Ausbildung beim Ausbildungsaufstieg
 
 (1) Soweit die Beamtinnen und Beamten während ihrer bisherigen
@@ -820,10 +772,7 @@ Ausbildungsrahmenplan zugelassen werden. Die Beamtinnen und Beamten
 sollen der Ausbildung nicht innerhalb zusammenhängender Teilabschnitte
 der praktischen Ausbildung entzogen werden.
 
-
 ### Kapitel 2 - Praxisaufstieg
-
-
 
 #### § 27 Zulassung zum Praxisaufstieg
 
@@ -836,7 +785,6 @@ genannten Voraussetzungen zum Praxisaufstieg in die Laufbahn des
 mittleren Zolldienstes des Bundes zugelassen werden. § 25 Abs. 2 gilt
 entsprechend.
 
-
 #### § 28 Einführung in die Aufgaben des mittleren Zolldienstes
 
 Die Einführung in die Aufgaben des mittleren Zolldienstes des Bundes
@@ -844,7 +792,6 @@ dauert ein Jahr und sechs Monate. Sie erfolgt durch Wahrnehmung der
 Aufgaben des mittleren Zolldienstes und umfasst einen Lehrgang von
 sechs Wochen. Über die während der Einführung erbrachten Leistungen
 und den Befähigungsstand wird eine schriftliche Bewertung abgegeben.
-
 
 #### § 29 Feststellungsverfahren
 
@@ -870,14 +817,9 @@ erste Beförderungsamt darf frühestens nach Ablauf einer Dienstzeit von
 einem Jahr seit der ersten Verleihung eines Amtes der neuen
 Laufbahngruppe verliehen werden.
 
-
 ## Abschnitt 4 - Prüfungen
 
-
-
 ### Kapitel 1 - Zwischenprüfung
-
-
 
 #### § 30 Zwischenprüfung
 
@@ -944,10 +886,7 @@ schriftlich mit. Das Zeugnis nach Satz 1 und die Mitteilung nach Satz
 
 (9) § 41 Abs. 2 gilt entsprechend.
 
-
 ### Kapitel 2 - Laufbahnprüfung
-
-
 
 #### § 31 Prüfungsamt
 
@@ -958,7 +897,6 @@ vollzieht die sonstigen Entscheidungen der Prüfungskommission. Die
 Aufgaben des Prüfungsamtes können ganz oder teilweise auf das
 Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung
 übertragen werden.
-
 
 #### § 32 Prüfungskommission
 
@@ -1024,7 +962,6 @@ Viertel ihrer Mitglieder anwesend sind. Sie entscheidet mit
 Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des
 Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
 #### § 33 Prüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und
@@ -1057,7 +994,6 @@ sie dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei
 den Beratungen der Prüfungskommission dürfen nur deren Mitglieder
 anwesend sein.
 
-
 #### § 34 Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt im Einvernehmen mit dem Bundesministerium
@@ -1070,7 +1006,6 @@ Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein.
 
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern Ort und Zeit
 der schriftlichen und der mündlichen Prüfung rechtzeitig mit.
-
 
 #### § 35 Schriftliche Prüfung
 
@@ -1128,7 +1063,6 @@ die Niederschrift.
 Aufsichtsarbeit und wird nicht nach § 36 verfahren, gilt die versäumte
 Zeit als Bearbeitungszeit.
 
-
 #### § 36 Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen
@@ -1144,7 +1078,6 @@ ihnen in den einzelnen schriftlichen Aufsichtsarbeiten erzielten
 Rangpunkte mitgeteilt werden, wenn sie dies beantragen. Die
 Nichtzulassung bedarf der Schriftform; sie wird mit einer
 Rechtsbehelfsbelehrung versehen.
-
 
 #### § 37 Mündliche Prüfung
 
@@ -1172,7 +1105,6 @@ Durchschnittspunktzahl.
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
 die Mitglieder der Prüfungskommission unterschreiben.
 
-
 #### § 38 Verhinderung, Rücktritt, Säumnis
 
 (1) Sind Anwärterinnen oder Anwärter durch Krankheit oder sonstige von
@@ -1196,7 +1128,6 @@ Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte
 Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt
 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
 Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
-
 
 #### § 39 Täuschung, Ordnungsverstoß
 
@@ -1230,7 +1161,6 @@ ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Die oder der Betroffene wird vor der Entscheidung nach den
 Absätzen 2 und 3 gehört.
-
 
 #### § 40 Bewertung von Prüfungsleistungen
 
@@ -1431,7 +1361,6 @@ aus wird die Erteilung des der Leistung entsprechenden Rangpunktes
 begründet. Für die Bewertung mündlicher Leistungen gelten diese
 Grundsätze sinngemäß.
 
-
 #### § 41 Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission
@@ -1470,7 +1399,6 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-
 #### § 42 Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die
@@ -1493,7 +1421,6 @@ Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt
 berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den
 Fällen des § 37 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
 #### § 43 Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfung,
@@ -1508,7 +1435,6 @@ aufbewahrt.
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der
 Laufbahnprüfung Einsicht in die sie betreffenden Teile der
 Prüfungsakten nehmen.
-
 
 #### § 44 Wiederholung
 
@@ -1527,10 +1453,7 @@ erreichten Rangpunkte und Noten ersetzen die bisherigen. Der
 Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
-
 ## Abschnitt 5 - Sonstige Vorschriften
-
-
 
 ### § 45 Übergangsvorschrift
 
@@ -1542,7 +1465,6 @@ Begriffe „Oberfinanzdirektion“ und „Bildungszentrum der
 Bundesfinanzverwaltung“ mit den Begriffen „Bundesfinanzdirektion“ und
 „Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung“
 gleichzusetzen sind.
-
 
 ### § 46 Inkrafttreten
 

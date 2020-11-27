@@ -18,13 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 2.4.2008 I 647
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 17 Abs. 1 des Luftsicherheitsgesetzes vom 11. Januar
 2005 (BGBl. I S. 78) verordnet das Bundesministerium des Innern:
-
 
 ## § 1
 
@@ -60,10 +57,6 @@ Verordnung.
     Luftfahrer nach § 4 Abs. 1 des Luftverkehrsgesetzes oder vor der
     Anerkennung ausländischer Erlaubnisse für Luftfahrer, soweit nicht
     Nummer 1 Anwendung findet.
-
-
-
-
 
 ## § 2
 
@@ -108,7 +101,6 @@ Zuverlässigkeitsüberprüfung der in den abhängigen Unternehmen
 Beschäftigten der Sitz des herrschenden Unternehmens maßgeblich. Die
 Zuständigkeit für die Erteilung der Zugangsberechtigung nach § 10 des
 Luftsicherheitsgesetzes bleibt davon unberührt.
-
 
 ## § 3
 
@@ -248,7 +240,6 @@ Mitteilung des letzten Überprüfungsergebnisses gestellt werden; dies
 gilt nicht, wenn der Betroffene nachweist, dass die Gründe für die
 Verneinung der Zuverlässigkeit entfallen sind.
 
-
 ## § 4
 
 (1) Die Luftsicherheitsbehörde soll über den Antrag auf Überprüfung
@@ -341,7 +332,6 @@ Strafverfolgungsbehörden einholen. Sie darf vom Betroffenen selbst
 weitere Informationen einholen und die Vorlage geeigneter Nachweise
 verlangen.
 
-
 ## § 5
 
 (1) Die Zuverlässigkeit eines Betroffenen ist zu verneinen, wenn daran
@@ -365,7 +355,6 @@ nach § 7 Abs. 1 Nr. 1 bis 3 und 5 des Luftsicherheitsgesetzes der
 Zugang zu nicht allgemein zugänglichen Bereichen oder die Tätigkeit
 unter Berücksichtigung der Umstände und Erkenntnisse des Einzelfalls
 versagt werden.
-
 
 ## § 6
 
@@ -448,7 +437,6 @@ Angaben.
 (5) Das Ergebnis einer nach dieser Verordnung durchgeführten
 Zuverlässigkeitsüberprüfung gilt im gesamten Bundesgebiet.
 
-
 ## § 7
 
 (1) Werden den nach § 7 Abs. 3 Satz 1 Nr. 2 und 5 des
@@ -476,7 +464,6 @@ oder widerrufen, gelten die Mitteilungspflichten des § 6 Abs. 1 bis 4
 entsprechend. Bei Luftfahrern ist auch die für die Aufhebung der
 Erlaubnis für Luftfahrer zuständige Luftfahrtbehörde zu unterrichten.
 
-
 ## § 8
 
 Von der Zuverlässigkeitsüberprüfung sind ausgenommen:
@@ -490,21 +477,15 @@ Von der Zuverlässigkeitsüberprüfung sind ausgenommen:
 
 2.  Beamte des Polizeivollzugsdienstes und der Zollverwaltung.
 
-
-
-
-
 ## § 9
 
 Bis zum 31. Dezember 2008 ist § 3 Abs. 5 Satz 1 und § 5 Abs. 2 Satz 1
 mit der Maßgabe anzuwenden, dass anstelle der Frist von fünf Jahren
 die Frist von zwei Jahren tritt.
 
-
 ## § 10
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

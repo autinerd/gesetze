@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1693
 
-
 ## (XXXX)
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in
@@ -42,14 +41,9 @@ Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
     Besoldungsüberleitungsgesetzes für Beamtinnen und Beamte bei den
     Postnachfolgeunternehmen.
 
-
-
-
-
 ## Schlussformel
 
 Der Bundesminister des Innern
-
 
 ## Anlage 1
 
@@ -229,8 +223,6 @@ Gültig ab 1. Januar 2010
     *   6 653,96
 
     *   6 842,45
-
-
 
 ## Amtszulagen, Stellenzulagen, Zulagen
 
@@ -537,8 +529,6 @@ Gültig ab 1. Januar 2010
 
     *   6 883,50
 
-
-
 ## Amtszulagen, Stellenzulagen, Zulagen
 
 (Monatsbeträge)
@@ -843,8 +833,6 @@ Gültig ab 1. Januar 2010
     *   6 713,96
 
     *   6 904,15
-
-
 
 ## Amtszulagen, Stellenzulagen, Zulagen
 

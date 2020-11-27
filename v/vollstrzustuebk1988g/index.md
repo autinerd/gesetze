@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 2658 (3772)
 
-
-
 ## Art 1
 
 Dem in Bern am 23. Oktober 1989 von der Bundesrepublik Deutschland
@@ -28,16 +26,13 @@ zugestimmt, daß der in Artikel IV des Protokolls Nr. 1 zum
 Übereinkommen vorgesehene Widerspruch eingelegt wird. Das
 Übereinkommen wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Aufgaben der zuständigen nationalen Behörde nach Artikel 2 Abs. 1
 Satz 2 des Protokolls Nr. 2 über die einheitliche Auslegung des
 Übereinkommens nimmt das Bundesministerium der Justiz wahr.
 
-
 ## (XXXX) Art 3 und 4 (weggefallen)
-
 
 ## Art 5
 

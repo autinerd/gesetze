@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 936
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der
@@ -27,11 +25,9 @@ das im Königreich Spanien für gewerbliche Waren eingeführt ist.
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom
 23\. Juni 1983 (BGBl. I S. 833).
 
-
 ## Schlussformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage Prüf- und Gewährzeichen des Königreichs Spanien für gewerbliche Waren
 

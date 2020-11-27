@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 3662
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -32,7 +29,6 @@ Bundesrepublik Deutschland und der Republik Polen über den
 Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig sowie dem
 dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen
 und das Protokoll werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -45,7 +41,6 @@ der Einfuhr für die öffentlichen Bauverwaltungen.
 
 (3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen
 Bestimmungen sind mit Wirkung vom 23. April 1993 anzuwenden.
-
 
 ## Art 3
 

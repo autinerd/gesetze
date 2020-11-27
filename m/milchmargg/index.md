@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 G v. 9.12.2010 I 1934
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -56,7 +52,6 @@ Seeschiffen bestimmt sind. Zu diesem Zweck bestimmte Erzeugnisse
 müssen, wenn sie nicht den Vorschriften dieses Gesetzes entsprechen,
 von den für den Geltungsbereich dieses Gesetzes bestimmten
 Erzeugnissen getrennt gehalten und kenntlich gemacht werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -130,10 +125,7 @@ zur Verwendung im eigenen Haushalt abgegeben werden. Dem Verbraucher
 stehen gleich Gaststätten und Einrichtungen zur
 Gemeinschaftsverpflegung.
 
-
 ## Zweiter Abschnitt - Ermächtigungen, Zulassung von Ausnahmen
-
-
 
 ### § 3 Ermächtigungen
 
@@ -178,7 +170,6 @@ im Falle des Nichterfüllens bestimmter Anforderungen oder des nicht
 ausreichenden Nachweises der Sachkunde dem Verantwortlichen das Führen
 eines milchwirtschaftlichen Betriebes ganz oder teilweise untersagt
 oder nur unter Auflagen gestattet werden kann.
-
 
 ### § 4 Zulassung von Ausnahmen
 
@@ -236,10 +227,7 @@ fortdauern.
 (4) Die Zulassung einer Ausnahme kann jederzeit aus wichtigem Grund
 widerrufen werden.
 
-
 ## Dritter Abschnitt - Überwachung, Lebensmittel-Monitoring, Befugnisse der Länder
-
-
 
 ### § 5 Überwachung; Monitoring
 
@@ -251,14 +239,12 @@ Futtermittelgesetzbuches hinausgehen. Die §§ 50 bis 52 des
 Lebensmittel- und Futtermittelgesetzbuches finden im Bereich dieses
 Gesetzes Anwendung.
 
-
 ### § 6 Erlaß von allgemeinen Verwaltungsvorschriften
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz erläßt mit Zustimmung des Bundesrates die zur
 Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften.
-
 
 ### § 7 Befugnisse der Länder
 
@@ -269,10 +255,7 @@ Regelung bestimmter Gegenstände nicht ausdrücklich vorbehält. Die
 Landesregierungen sind befugt, die Ermächtigung durch Rechtsverordnung
 auf andere Behörden zu übertragen.
 
-
 ## Vierter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 8 Strafvorschriften
 
@@ -292,7 +275,6 @@ bestraft, wer
 
 
 zuwiderhandelt.
-
 
 ### § 9 Bußgeldvorschriften
 
@@ -328,7 +310,6 @@ Handlung begeht.
 Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes
 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ### § 10 Ermächtigung
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -342,10 +323,6 @@ Bundesrates die Tatbestände zu bezeichnen, die
 
 2.  als Ordnungswidrigkeit nach § 9 Abs. 2 Nr. 4 geahndet werden können.
 
-
-
-
-
 ### § 11 Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 8 oder eine
@@ -353,10 +330,7 @@ Ordnungswidrigkeit nach § 9 bezieht, können eingezogen werden. § 74a
 des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten
 sind anzuwenden.
 
-
 ## Fünfter Abschnitt - Schlussbestimmungen
-
-
 
 ### § 12 Angleichung an Unionsrecht
 
@@ -367,19 +341,16 @@ zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder
 der Europäischen Union, die Sachbereiche dieses Gesetzes betreffen,
 erforderlich ist.
 
-
 ### § 13 Anhörung von Sachkennern
 
 Vor Erlaß von Rechtsverordnungen nach diesem Gesetz soll ein jeweils
 auszuwählender Kreis von Sachkennern aus der Wissenschaft, der
 Verbraucherschaft und der beteiligten Wirtschaft gehört werden.
 
-
 ### § 14 Geltung lebensmittelrechtlicher Vorschriften
 
 Unberührt bleiben die Vorschriften des Lebensmittelrechts, soweit
 nicht Vorschriften dieses Gesetzes entgegenstehen.
-
 
 ### § 15 Übergangsregelung
 
@@ -387,7 +358,6 @@ Bis zum Erlaß einer Rechtsverordnung nach § 15 Nr. 1 sind § 13 Abs. 1
 Nr. 2 und § 14 Abs. 1, dieser in Verbindung mit § 13 Abs. 1 Nr. 2 und
 § 14 Abs. 3, in der bis zum 14. Juli 1998 geltenden Fassung weiter
 anzuwenden.
-
 
 ### § 16 Inkrafttreten, abgelöste Vorschriften
 

@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 15 Abs. 83 G v. 5.2.2009 I 160
 
-
-
 ## § 1 Errichtung, Zweck, Sitz
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine
@@ -38,7 +36,6 @@ Grundlage des Wirtschaftsplanes.
 
 (2) Die Bundesanstalt hat ihren Sitz in Bonn. Sie hat das Recht,
 Außenstellen als Haupt- oder Nebenstellen einzurichten.
-
 
 ## § 2 Aufgaben, Vermögen, Zielsetzung
 
@@ -105,7 +102,6 @@ Aufgaben übertragen und diese wieder entziehen. Andere
 Bundesministerien können der Bundesanstalt durch öffentlich-
 rechtlichen Vertrag weitere Aufgaben übertragen.
 
-
 ## § 3 Aufsicht
 
 (1) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
@@ -116,7 +112,6 @@ anderen Bundesministeriums erledigt, übt dieses die Rechts- und
 Fachaufsicht aus. Fachliche Weisungen mit wesentlichen finanziellen
 oder organisatorischen Auswirkungen auf die Bundesanstalt ergehen im
 Einvernehmen mit dem Bundesministerium der Finanzen.
-
 
 ## § 4 Organe, Satzung
 
@@ -160,7 +155,6 @@ aufzunehmen über
 
 
 Die Satzung wird im Bundesanzeiger veröffentlicht.
-
 
 ## § 5 Rechtsstellung der Vorstandsmitglieder
 
@@ -238,7 +232,6 @@ sind sinngemäß anzuwenden.
 (7) Die Absätze 5 und 6 gelten für Richterinnen und Richter und für
 Berufssoldatinnen und Berufssoldaten entsprechend.
 
-
 ## § 6 Finanzierung
 
 (1) Die Anstalt deckt ihren Aufwand für die ihr nach § 2 übertragenen
@@ -257,7 +250,6 @@ Kredite gewährt der Bund nach Maßgabe des Haushaltsgesetzes.
 nicht statt. § 12 Abs. 2 der Insolvenzordnung ist entsprechend in der
 Weise anzuwenden, dass sich die Ansprüche der Arbeitnehmer gegen den
 Bund richten.
-
 
 ## § 7 Wirtschaftsplan
 
@@ -285,7 +277,6 @@ Kalenderjahr. Einzelheiten regelt die Satzung.
 der Finanzen. Übersichten über die Einnahmen und Ausgaben und ein
 Stellenplan sind dem Haushaltsplan des Bundes als Anlagen beizufügen.
 
-
 ## § 8 Buchung, Jahresabschluss
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen
@@ -306,12 +297,10 @@ die Satzung und die vom Bundesministerium der Finanzen zu erlassenden
 Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der
 Bundeshaushaltsordnung ist anzuwenden.
 
-
 ## § 9 Prüfungsrecht des Bundesrechnungshofes
 
 Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der
 Bundeshaushaltsordnung.
-
 
 ## § 10 Anwendung des Haushaltsrechts
 
@@ -333,7 +322,6 @@ ermächtigen, Teile des Bundeshaushaltes zu bewirtschaften. Insoweit
 gelten die Vorschriften der Bundeshaushaltsordnung einschließlich der
 dazu ergangenen Verwaltungsvorschriften in der jeweils geltenden
 Fassung.
-
 
 ## § 11 Beamtinnen und Beamte
 
@@ -360,7 +348,6 @@ teilweise gegen Erstattung der Verwaltungskosten auf Behörden der
 Bundesfinanzverwaltung übertragen. Die Übertragung ist im
 Bundesgesetzblatt zu veröffentlichen.
 
-
 ## § 12 Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
 
 (1) Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der
@@ -374,7 +361,6 @@ beschäftigt werden, soweit dies für die Durchführung der Aufgaben
 erforderlich ist. Satz 1 gilt für die sonstige Gewährung von
 übertariflichen und außertariflichen Leistungen entsprechend.
 
-
 ## § 13 Auflösung von Organisationseinheiten der Bundesvermögensverwaltung
 
 Die Bundesvermögensämter, die Bundesforstämter und die
@@ -382,14 +368,12 @@ Bundesvermögensabteilungen der Oberfinanzdirektionen als
 Organisationseinheiten der Bundesvermögensverwaltung sind mit Ablauf
 des 31. Dezember 2004 aufgelöst.
 
-
 ## § 14 Überleitung von Verfahren
 
 Bei den in § 13 genannten Organisationseinheiten am 31. Dezember 2004
 anhängige Verwaltungsverfahren werden von der Bundesanstalt
 fortgeführt. Die Bundesanstalt handelt als zuständige Stelle des
 Bundes und vertritt ihn auch vor Gericht.
-
 
 ## § 15 Übergangsregelung Personalvertretung
 
@@ -424,7 +408,6 @@ Bereich der Bundesvermögensverwaltung gelten bis zu einer Neuregelung
 für die Bundesanstalt fort, längstens aber für die Dauer von 18
 Monaten.
 
-
 ## § 16 Übergangsregelung Schwerbehindertenvertretung
 
 (1) Die erstmaligen Wahlen zur Schwerbehindertenvertretung nach dem
@@ -442,7 +425,6 @@ jeweils einfacher Mehrheit bestimmt.
 (3) Die Vorsitzende oder der Vorsitzende der
 Übergangsschwerbehindertenvertretung bestellt unverzüglich den
 Wahlvorstand für die erstmaligen Wahlen nach Absatz 1.
-
 
 ## § 17 Übergangsregelung Gleichstellungsbeauftragte
 
@@ -466,7 +448,6 @@ keine Gleichstellungsbeauftragte auf die Bundesanstalt übergeleitet
 wird, nimmt die am Tag vor der Gründung der Bundesanstalt zuständige
 Gleichstellungsbeauftragte das Übergangsmandat wahr.
 
-
 ## § 18 Überleitung von Beschäftigten
 
 (1) Die Beamtinnen und Beamten der in § 13 genannten
@@ -485,7 +466,6 @@ vom 1. Januar 2005 in den Dienst der Bundesanstalt übernommen. Die
 Bundesanstalt tritt unbeschadet des § 12 Abs. 1 in die Rechte und
 Pflichten der im Zeitpunkt der Übernahme bestehenden Arbeits- und
 Ausbildungsverhältnisse ein.
-
 
 ## § 19 Verteilung der Versorgungslasten
 

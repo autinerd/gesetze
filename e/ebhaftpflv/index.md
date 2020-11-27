@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 19 G v. 23.11.2007 I 2631
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Abs. 1 Nr. 8 des Allgemeinen Eisenbahngesetzes vom
 27\. Dezember 1993 (BGBl. I S. 2378, 2396) verordnet das
 Bundesministerium für Verkehr:
-
 
 ## § 1 Versicherungspflicht
 
@@ -105,16 +103,11 @@ Deutschland.
     Eisenbahninfrastruktur teilnehmen, die nicht dem öffentlichen Verkehr
     dient.
 
-
-
-
-
 ## § 2 Deckungssumme
 
 Die Mindesthöhe der Versicherungssumme beträgt insgesamt 20 Millionen
 Deutsche Mark je Schadensereignis und muß für jede
 Versicherungsperiode mindestens zweimal zur Verfügung stehen.
-
 
 ## § 3 Nachweis- und Anzeigepflichten
 
@@ -134,7 +127,6 @@ Gebiet der Bundesrepublik Deutschland dem Eisenbahn-Bundesamt
 nachzuweisen. Dieses ist zuständige Stelle im Sinne des § 117 Abs. 2
 Satz 1 des Versicherungsvertragsgesetzes.
 
-
 ## § 4 Auskunftspflicht
 
 Eisenbahnverkehrsunternehmen müssen auf Verlangen des
@@ -144,11 +136,9 @@ Eisenbahn eine Bestätigung der nach § 3 Abs. 1 oder 2 zuständigen
 Behörde über das Bestehen einer Versicherung nach den §§ 1 und 2
 vorlegen.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## § 5 Inkrafttreten
 

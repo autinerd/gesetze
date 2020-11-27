@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2868 (2010 I 380)
 
-
 ## Eingangsformel
 
 Es verordnen
@@ -70,25 +69,18 @@ Es verordnen
     1 und 3 und Satz 2 des Bundeswasserstraßengesetzes in der Fassung der
     Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980):
 
-
-
-
-
 ## Art 1 Inkrafttreten der Binnenschiffsuntersuchungsordnung
 
 Die Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl I S.
 2450) tritt am 1. Januar 2009 in Kraft.
 
-
 ## Art 2 Aufhebung von Rechtsvorschriften
 
 -
 
-
 ## Art 3 Änderung von Rechtsvorschriften
 
 -
-
 
 ## Art 4 Inkrafttreten
 

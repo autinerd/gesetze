@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2387
 
-
 ## § 1 Feststellung des Wirtschaftsplans des ERP-Sondervermögens
 
 Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2013, der
@@ -32,13 +31,11 @@ aufgestellt worden ist, wird in Einnahmen und Ausgaben auf
 
    festgestellt.
 
-
 ## § 2 Ermächtigung zur Kreditaufnahme
 
 Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
 Kredite bei der Kreditanstalt für Wiederaufbau bis zur Höhe von 30
 Prozent des in § 1 festgestellten Betrages aufzunehmen.
-
 
 ## § 3 Zulässige Mehrausgaben ohne Nachtragswirtschaftsplan
 
@@ -47,7 +44,6 @@ und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel
 112 des Grundgesetzes), so bedarf es keines Nachtragswirtschaftsplans,
 wenn die Mehrausgabe im Einzelfall einen Betrag von 5 000 000 Euro
 nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
-
 
 ## § 4 Übernahme von Gewährleistungen
 
@@ -77,24 +73,20 @@ Haftung frei wird oder Ersatz für erbrachte Leistungen erlangt hat,
 ist eine übernommene Gewährleistung auf den Höchstbetrag nicht mehr
 anzurechnen.
 
-
 ## § 5 Vom Verwendungszweck ausgenommene Beträge
 
 Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und
 Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des
 ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
 
-
 ## § 6 Befristung
 
 Die §§ 2 bis 5 treten am Tag der Verkündung des ERP-
 Wirtschaftsplangesetzes 2014 außer Kraft.
 
-
 ## § 7 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2013 in Kraft.
-
 
 ## Anlage (zu § 1) Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
 
@@ -132,8 +124,6 @@ Dieses Gesetz tritt am 1. Januar 2013 in Kraft.
     *   Bericht der KfW gemäß § 8 des ERP-Verwaltungsgesetzes über die
         Verwendung des eingebrachten Eigenkapitals und des gewährten
         Nachrangdarlehens
-
-
 
 ## Kapitel 1
 
@@ -1572,9 +1562,6 @@ Veranschlagt sind Tilgungen von ERP-Darlehen:
 *    *   Summe
 
     *   34 587 T€
-
-
-
 
 ## Zu Tit. 129 01
 

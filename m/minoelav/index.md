@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 49 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit §
@@ -26,10 +25,7 @@ Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit §
 (BGBl. I S. 3681) verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
 
-
 ## 1. Abschnitt - Versorgungsausgleich zwischen Primäraufkommensträgern
-
-
 
 ### § 1 Verpflichtung zum Versorgungsausgleich, Grundsatz und Beteiligte
 
@@ -56,7 +52,6 @@ Produktgruppen (leicht, mittel, schwer) statt. Unterscheidet sich das
 Ergebnis dieser Berechnung von der Summe der Ergebnisse für die
 Einzelprodukte in der jeweiligen Produktgruppe, so ist das
 Produktgruppenergebnis für die auszugleichende Menge maßgebend.
-
 
 ### § 2 Berechnungsgrundlagen des Versorgungsausgleichs
 
@@ -123,7 +118,6 @@ bekanntgegeben. Die Festlegung hat unter Beachtung der von den
 zuständigen Stellen durch Verbrauchseinschränkungsmaßnahmen oder auf
 andere Weise angestrebten Einsparziele zu erfolgen.
 
-
 ### § 3 Inhalt der Verpflichtung zum Versorgungsausgleich
 
 (1) Ein Versorgungsausgleich findet jeweils für den laufenden und den
@@ -179,7 +173,6 @@ auch der Vermittlung eines aus Sachverständigen der
 Mineralölwirtschaft gebildeten Organs (Koordinierungsgruppe
 Versorgung) bedienen.
 
-
 ### § 4 Konditionen für im Versorgungsausgleich abzugebende Mengen
 
 Die Abgabe von Mengen im Versorgungsausgleich erfolgt zu Marktpreisen.
@@ -189,10 +182,7 @@ mittelbar unbillig behindert oder gegenüber gleichartigen Unternehmen
 ohne sachlich gerechtfertigten Grund unmittelbar oder mittelbar
 unterschiedlich behandelt werden.
 
-
 ## 2. Abschnitt - Absicherung traditioneller Lieferbeziehungen
-
-
 
 ### § 5 Verpflichtung zur Einhaltung der Vertriebsstruktur
 
@@ -206,10 +196,7 @@ anzubieten. Die Konditionen dieser Angebote haben den Anforderungen
 des § 20 Abs. 1 und 2 des Gesetzes gegen Wettbewerbsbeschränkungen zu
 entsprechen.
 
-
 ## 3. Abschnitt - Administrative Maßnahmen
-
-
 
 ### § 6 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) beim nationalen Versorgungsausgleich nach den §§ 1 bis 3
 
@@ -274,7 +261,6 @@ letzten vier Quartalen vor Inkraftsetzung von Notstandsmaßnahmen der
 Internationalen Energieagentur auch höhere Mengen als die
 Ausgleichsmengen für den laufenden und den folgenden Monat zuweisen.
 
-
 ### § 7 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der Einhaltung der historischen Vertriebsstruktur nach § 5
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
@@ -287,7 +273,6 @@ Antragsteller hat in seinem Antrag zu begründen, inwieweit er die in
 Satz 1 geforderten materiellen Voraussetzungen für ein Tätigwerden des
 Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) als gegeben
 ansieht.
-
 
 ### § 8 Inhalt einer Verfügung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
@@ -311,7 +296,6 @@ sich nicht ernsthaft um einen Vertragsabschluß bemüht hat oder
 offensichtlich unvertretbare Forderungen stellt, soll das Bundesamt
 für Wirtschaft und Ausfuhrkontrolle (BAFA) keine weiteren Maßnahmen
 zugunsten einer Versorgung dieses Unternehmens ergreifen.
-
 
 ### § 9 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) im internationalen Versorgungsausgleich
 
@@ -349,10 +333,7 @@ Ausfuhrkontrolle (BAFA) kann die Konditionen festlegen, soweit dies
 zur Erfüllung der Abgabepflicht der Bundesrepublik Deutschland
 erforderlich wird.
 
-
 ## 4. Abschnitt - Beratende Mitwirkung der Koordinierungsgruppe Versorgung
-
-
 
 ### § 10 Beratung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
@@ -360,10 +341,7 @@ Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird bei
 seiner Tätigkeit nach den §§ 6 bis 9 und bei Auswertungen von Daten
 von der Koordinierungsgruppe Versorgung beraten.
 
-
 ## 5. Abschnitt - Meldepflichten und Ordnungswidrigkeiten
-
-
 
 ### § 11 Meldepflichten
 
@@ -417,7 +395,6 @@ zu melden.
 für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebene Vordrucke zu
 verwenden.
 
-
 ### § 12 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des
@@ -435,20 +412,13 @@ fahrlässig
 3.  entgegen § 11 Abs. 1, 2, 3 oder 4 die geforderten Meldungen nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-
-
-
 ## 6. Abschnitt - Schlußvorschriften
-
-
 
 ### § 13 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 17 des Energiesicherungsgesetzes 1975 auch im Land
 Berlin.
-
 
 ### § 14 Inkrafttreten und Anwendbarkeit der Verordnung
 

@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3964
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Absatz 2 des Akkreditierungsstellengesetzes vom 31.
@@ -23,7 +22,6 @@ Juli 2009 (BGBl. I S. 2625), in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821),
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Finanzen:
-
 
 ## § 1 Gebühren
 
@@ -35,16 +33,13 @@ und Auslagen nach dieser Verordnung erhoben.
 (2) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben
 sich aus der Anlage dieser Verordnung.
 
-
 ## § 2 Auslagen
 
 Die Auslagen richten sich nach § 10 des Verwaltungskostengesetzes.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1)
 

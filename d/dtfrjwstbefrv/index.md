@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1983, 434
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,13 +27,11 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 August 1980 (BGBl. 1980 II S. 941) neugefaßt wurde, verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Die vom Deutsch-Französischen Jugendwerk an seine französischen
 Bediensteten gezahlte Auslandszulage ist von der Einkommensteuer
 befreit.
-
 
 ## § 2
 
@@ -43,7 +39,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
 vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 1964 II S. 187) neugefaßt wurde, auch im Land Berlin.
-
 
 ## § 3
 

@@ -15,32 +15,23 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2978
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
 ## Art 1
 
-
-
 ## Art 2 -
-
-
 
 ## (XXXX) §§ 1 bis 12
 
 -
-
 
 ## § 13 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf Artikel 2 beruhenden Teile der dort geänderten
 Rechtsverordnungen können auf Grund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ## Art 3 - Inkrafttretens-, Außerkrafttretens- und Anwendungsbestimmungen
 

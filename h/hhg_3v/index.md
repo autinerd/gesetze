@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 21.12.1992 I 2094
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Buchstabe b des Häftlingshilfegesetzes in der
 Fassung der Bekanntmachung vom 25. Juli 1960 (Bundesgesetzbl. I S.
 578) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -48,13 +46,11 @@ Häftlingshilfegesetzes.
 (3) Die §§ 2, 6, 10 Abs. 1, 3 bis 6, §§ 12, 13 und 18 des
 Häftlingshilfegesetzes sind sinngemäß anzuwenden.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 15 des
 Häftlingshilfegesetzes auch im Land Berlin.
-
 
 ## § 3
 

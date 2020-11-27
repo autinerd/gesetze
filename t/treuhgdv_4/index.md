@@ -15,15 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1465
 
-
-
 ## Eingangsformel
 
 Auf der Grundlage des § 1 Abs. 2 und § 24 Abs. 4 des Gesetzes vom 17.
 Juni 1990 zur Privatisierung und Reorganisation des volkseigenen
 Vermögens (Treuhandgesetz) (GBl. I Nr. 33 S. 300) wird folgendes
 verordnet:
-
 
 ## § 1
 
@@ -37,11 +34,9 @@ das Komitee zur Auflösung des Amtes für Nationale Sicherheit die
 Entscheidung zur Übertragung an Dritte für soziale und öffentliche
 Zwecke ergangen ist.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 
@@ -55,12 +50,10 @@ vorzunehmen.
 Treuhandanstalt. Dem Antrag ist eine Ausfertigung des
 Übergabe-/Übernahmeprotokolls beizufügen.
 
-
 ## § 4
 
 Diese Durchführungsverordnung tritt mit ihrer Veröffentlichung in
 Kraft.
-
 
 ## Schlußformel
 

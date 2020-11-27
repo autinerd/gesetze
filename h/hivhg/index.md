@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 79 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -37,7 +33,6 @@ Leistungen an Personen, die durch Blutprodukte unmittelbar oder
 mittelbar mit dem Human Immundeficiency Virus (HIV) oder infolge davon
 an AIDS erkrankt sind, und an deren unterhaltsberechtigte Angehörige
 finanzielle Hilfe zu leisten.
-
 
 ### § 2 Mittel für finanzielle Hilfe
 
@@ -71,17 +66,9 @@ aufgebracht:
     innerhalb von vier Jahren, beginnend mit dem Jahr 1995, in jeweils
     gleichen Teilbeträgen zur Verfügung gestellt.
 
-
-
-
-
 ## Teil 2 - Stiftung des Bundes
 
-
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 3 Errichtung und Sitz
 
@@ -92,12 +79,10 @@ Gesetzes entstanden.
 
 (2) Der Sitz der Stiftung ist Bonn.
 
-
 #### § 4 Stiftungszweck
 
 Zweck der Stiftung ist es, die Zwecksetzung nach § 1 durch Auszahlung
 der Leistungen an die anspruchsberechtigten Personen zu erfüllen.
-
 
 #### § 5 Stifter, Stiftungsvermögen
 
@@ -109,7 +94,6 @@ Blutspendedienste des Deutschen Roten Kreuzes nach § 2 Nr. 1 bis 3.
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen.
 
-
 #### § 6 Satzung
 
 Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit den
@@ -119,11 +103,9 @@ dem Bundesministerium der Justiz bedarf. Der Stiftungsrat kann die
 Satzung mit Genehmigung des Bundesministeriums für Gesundheit im
 Einvernehmen mit dem Bundesministerium der Justiz ändern.
 
-
 #### § 7 Organe
 
 Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
-
 
 #### § 8 Stiftungsrat
 
@@ -155,7 +137,6 @@ beschlußfähig, wenn die Hälfte der Mitglieder anwesend ist.
 zum Aufgabenbereich der Stiftung gehören. Er überwacht die Tätigkeit
 des Stiftungsvorstandes. Das Nähere regelt die Satzung.
 
-
 #### § 9 Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus dem vorsitzenden Mitglied und
@@ -171,12 +152,10 @@ gerichtlich und außergerichtlich.
 
 (4) Das Nähere regelt die Satzung.
 
-
 #### § 10 Verwaltungskosten
 
 Die Kosten für die Durchführung der Aufgaben der Stiftung sind aus den
 Stiftungsmitteln zu tragen.
-
 
 #### § 11 Aufsicht, Haushalt, Rechnungslegung, Rechnungsprüfung
 
@@ -196,7 +175,6 @@ Jahres, vorgelegt.
 
 (4) Rechnungsprüfungsbehörde ist der Bundesrechnungshof.
 
-
 #### § 12 Verschwiegenheitspflicht
 
 Die Mitglieder des Stiftungsrates, des Stiftungsvorstandes und der
@@ -210,7 +188,6 @@ sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469,
 547) auf die gewissenhafte Erfüllung ihrer Obliegenheiten zu
 verpflichten, soweit sie nicht Amtsträger sind.
 
-
 #### § 13 Datenschutz
 
 Die Antragsunterlagen dürfen nur für die Erfüllung des
@@ -218,16 +195,12 @@ Stiftungszweckes verwendet werden. Für die Verarbeitung und Nutzung
 der darin enthaltenen personenbezogenen Daten gelten - mit Ausnahme
 des § 14 Abs. 2 - die Bestimmungen des Bundesdatenschutzgesetzes.
 
-
 #### § 14 Aufhebung der Stiftung
 
 Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist oder
 die Mittel für die finanzielle Hilfe erschöpft sind.
 
-
 ### Abschnitt 2 - Leistungen
-
-
 
 #### § 15 Anspruchsberechtigte Personen
 
@@ -298,7 +271,6 @@ Infektion der Mutter entsprechend.
 durch entsprechende Urkunden nachzuweisen. Im übrigen gelten die
 Absätze 5 bis 7 entsprechend.
 
-
 #### § 16 Leistungen
 
 (1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe
@@ -332,7 +304,6 @@ Kindern oder Eltern ausgezahlt, soweit sie erben.
 entsprechend der Aufbringung der Mittel für die finanzielle Hilfe nach
 § 2 zusammen.
 
-
 #### § 17 Steuerfreiheit, Anrechnung auf andere Leistungen
 
 (1) Die Leistungen der Stiftung werden nicht auf andere Leistungen aus
@@ -341,7 +312,6 @@ vorgesehenen Ermittlung von Einkommen und Vermögen berücksichtigt.
 
 (2) Die Ansprüche auf Leistungen der Stiftung können nicht übertragen,
 verpfändet oder gepfändet werden.
-
 
 #### § 18 Verfahren
 
@@ -366,7 +336,6 @@ berechtigt, Vorschläge zu unterbreiten.
 (5) Im übrigen findet das Verwaltungsverfahrensgesetz des Bundes
 Anwendung.
 
-
 #### § 19 Rechtsweg
 
 Für Rechtsstreitigkeiten in Anwendung dieses Gesetzes ist der
@@ -374,10 +343,7 @@ Verwaltungsrechtsweg gegeben. Vor Klageerhebung ist gegen den Bescheid
 gemäß § 18 Widerspruch zu erheben, über den der Stiftungsvorstand
 entscheidet.
 
-
 ### Abschnitt 3 - Andere Ansprüche
-
-
 
 #### § 20 Ausschluß von Ansprüchen
 
@@ -393,7 +359,6 @@ auf andere übertragen worden sind.
 des Arzneimittelgesetzes, sofern hierauf nicht bereits abschließende
 Leistungen erbracht worden sind.
 
-
 #### § 21 Anhängige Rechtsstreitigkeiten
 
 Werden anhängige Rechtsstreitigkeiten über nach § 20 Abs. 1 erloschene
@@ -401,10 +366,7 @@ Ansprüche für erledigt erklärt, so trägt jede Partei die ihr
 entstandenen außergerichtlichen Kosten. Gerichtskosten werden nicht
 erhoben.
 
-
 ## Teil 3 - Ländermittel
-
-
 
 ### § 22 Stiftung als Organ der Länder
 
@@ -424,7 +386,6 @@ Ausgabenrechnung sowie die Mitteilung über die Gesamtkosten der
 Stiftung werden den Ländern jeweils nach Abschluß des Kalenderjahres,
 spätestens bis zum 31. März des folgenden Jahres, vorgelegt.
 
-
 ### § 23 Ausschluß von Ansprüchen
 
 Ansprüche von Personen, die nach § 22 Leistungen erhalten, gegen die
@@ -433,16 +394,12 @@ Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft Gesetzes,
 kraft Überleitung oder durch Rechtsgeschäft auf einen anderen
 übertragen worden sind.
 
-
 ### § 24 Verbleibende Mittel
 
 Bei Aufhebung der Stiftung nicht verwendete Mittel der Länder werden
 anteilsmäßig an diese zurückgezahlt.
 
-
 ## Teil 4 - Schlußvorschriften
-
-
 
 ### § 25 Programm "Humanitäre Soforthilfe"
 
@@ -451,7 +408,6 @@ Blutprodukte HIV-infizierte oder an AIDS erkrankte Personen durch das
 Programm "Humanitäre Soforthilfe" vom 16. März 1995 (BAnz. S. 3309)
 wird aufgehoben. Vorgänge, die noch nicht abgeschlossen sind, werden
 nach Maßgabe der Bestimmungen der genannten Richtlinie abgewickelt.
-
 
 ### § 26 Inkrafttreten
 

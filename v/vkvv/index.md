@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 76 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Auf Grund des § 152 Nr. 1 bis 6 des Sechsten Buches Sozialgesetzbuch -
@@ -27,10 +26,7 @@ Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
 Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
 
-
 ## 1. Kapitel - Versicherungsnummer
-
-
 
 ### § 1 Vergabe und Zuordnung der Versicherungsnummer
 
@@ -42,7 +38,6 @@ vergeben werden, soweit dies zur Aufgabenerfüllung der
 Rentenversicherung erforderlich ist. Gleichzeitig ordnet die
 Datenstelle gemäß § 127 des Sechsten Buches Sozialgesetzbuch jeden
 Versicherten einem Rentenversicherungsträger zu.
-
 
 ### § 2 Aufbau der Versicherungsnummer
 
@@ -105,7 +100,6 @@ der ersten Stelle beginnend - mit den Faktoren 2, 1, 2, 5, 7, 1, 2, 1,
 gebildet. Die Quersummen werden addiert. Die Summe wird durch 10
 dividiert. Der verbleibende Rest ist die Prüfziffer.
 
-
 ### § 3 Berichtigung der Versicherungsnummer
 
 (1) Eine Versicherungsnummer wird nur einmal vergeben und nicht
@@ -127,10 +121,7 @@ darf diese nicht mehr verwendet werden. Die Versicherten erhalten eine
 neue Versicherungsnummer. Die gespeicherten Daten werden durch die
 Rentenversicherungsträger dem richtigen Versicherungskonto zugeordnet.
 
-
 ## 2. Kapitel - Kontoführung
-
-
 
 ### § 4 Zuständigkeit für die Kontoführung
 
@@ -138,14 +129,12 @@ Zuständig für die Kontoführung ist der Träger der Rentenversicherung,
 der nach den Bestimmungen des Sechsten Buches Sozialgesetzbuch für die
 Erfüllung der Aufgaben der Rentenversicherung zuständig ist.
 
-
 ### § 5 Aufgaben der Datenstelle im Rahmen der Kontoführung
 
 Die Datenstelle der Rentenversicherungsträger ist zur
 Aufgabenerfüllung nach § 150 des Sechsten Buches Sozialgesetzbuch von
 den Rentenversicherungsträgern über Änderungen in den in der
 Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
-
 
 ### § 6 Wechsel der Kontoführung
 
@@ -159,10 +148,7 @@ der Kontoführung vorliegen, ist der neu zuständige
 Rentenversicherungsträger zur Übernahme des Versicherungskontos
 aufzufordern.
 
-
 ## 3. Kapitel - Unterrichtung der Versicherten
-
-
 
 ### § 7 Versendung eines Versicherungsverlaufs
 
@@ -182,10 +168,7 @@ für die rentenerhebliche Tatsache nicht gespeichert sind, ist
 hinzuweisen. Die folgenden Versicherungsverläufe können auf bisher
 noch nicht bindend festgestellte Daten beschränkt werden.
 
-
 ## 4. Kapitel - Schlussvorschriften
-
-
 
 ### § 8 Inkrafttreten, Außerkrafttreten
 
@@ -193,11 +176,9 @@ noch nicht bindend festgestellte Daten beschränkt werden.
 
 (2)
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage (zu § 2 Abs. 2) Bereichsnummern
 

@@ -19,11 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. II G v. 14.9.1965 1315
 
-
 ## Art I Neufassung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
 
 -
-
 
 ## Art II Begriffsbestimmungen
 
@@ -51,13 +49,6 @@ In diesem Gesetz werden bezeichnet
     nationalsozialistischen Verfolgung
 
     *   als Bundesergänzungsgesetz.
-
-
-
-
-
-
-
 
 ## Art III Übergangsvorschriften
 
@@ -225,7 +216,6 @@ In diesem Gesetz werden bezeichnet
 
 18\.
 
-
 ## Art IIIa
 
 Wiederkehrende Leistungen nach dem Bundesentschädigungsgesetz sind bei
@@ -235,13 +225,11 @@ Rentenversicherungsneuregelung und die Änderung und Ergänzung des
 Bundesversorgungsgesetzes höchstens um den Monatsbetrag zu kürzen, um
 den diese Geldleistungen sich monatlich erhöht haben oder erhöhen.
 
-
 ## Art IV Geltung im Land Berlin
 
 Das Änderungsgesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ## Art V Inkrafttreten
 

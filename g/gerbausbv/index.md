@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 838
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -28,22 +26,18 @@ vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Gerber/Gerberin wird staatlich anerkannt.
-
 
 ## § 2 Anwendungsbereich
 
 Die nachstehenden Vorschriften gelten auch für den Ausbildungsberuf
 Gerber/Gerberin nach der Handwerksordnung.
 
-
 ## § 3 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -81,10 +75,6 @@ Fertigkeiten und Kenntnisse:
 
 10. Sortieren und Einlagern fertiger Leder sowie Herrichten zum Versand.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -94,12 +84,10 @@ Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
 des Ausbildungsinhalts ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -107,7 +95,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -170,7 +157,6 @@ berücksichtigen.
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die schriftliche Prüfung in
 programmierter Form durchgeführt wird.
-
 
 ## § 9 Abschlußprüfung und Gesellenprüfung
 
@@ -313,11 +299,9 @@ der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im
 Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht
 sind.
 
-
 ## § 10
 
 -
-
 
 ## § 11 Berlin-Klausel
 
@@ -325,16 +309,13 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der
 Handwerksordnung auch im Land Berlin.
 
-
 ## § 12 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1982 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Gerber/zur Gerberin
 
@@ -803,10 +784,6 @@ Der Bundesminister für Wirtschaft
 *    *   c)
 
     *   Leder zum Versand herrichten
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III und Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 998, 1135)
 

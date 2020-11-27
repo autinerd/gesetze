@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl I: 1934, 827
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 7 des - nachstehend Notverordnung genannten - Kapitels
 V des Ersten Teils der Verordnung des Reichspräsidenten über Maßnahmen
 auf dem Gebiete der Rechtspflege und Verwaltung vom 14. Juni 1932
 (Reichsgesetzbl. I S. 285, 288) wird verordnet:
-
 
 ## Art 1
 
@@ -35,14 +32,12 @@ Bausparers aus einem Bausparvertrag, besonders solche auf Rückzahlung
 des Bausparguthabens, vor Anordnung der vereinfachten Abwicklung
 fällig geworden sind.
 
-
 ## Art 2
 
 Diese Verordnung tritt mit Wirkung vom 16. Juni 1932 in Kraft.
 Unberührt durch diese Rückwirkung bleiben nur Urteile, die nach
 Anordnung der vereinfachten Abwicklung ergangen sind; Entsprechendes
 gilt für Vergleiche und Anerkenntnisse.
-
 
 ## Schlußformel
 

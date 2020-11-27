@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 30. 7.2004 I 1950
 
-
 ## Kapitel I - Allgemeine Vorschriften
-
-
 
 ### § 1
 
@@ -48,7 +45,6 @@ c)  am 30. Juni 1950 seinen Aufenthalt im Geltungsbereich des
 ableitet und am 1. Januar 1991 rechtmäßig seinen gewöhnlichen
 Aufenthalt im Geltungsbereich dieses Gesetzes hatte, steht einem
 heimatlosen Ausländer im Sinne dieses Gesetzes gleich.
-
 
 ### § 2
 
@@ -77,7 +73,6 @@ Geltungsbereich des Grundgesetzes oder aus Berlin (West) rechtmäßig
 seinen Wohnsitz oder dauernden Aufenthalt in den Geltungsbereich des
 Grundgesetzes oder nach Berlin (West) zurückverlegt.
 
-
 ### § 3
 
 (1) Ein heimatloser Ausländer darf wegen seiner Abstammung, seiner
@@ -85,7 +80,6 @@ Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens
 oder wegen seiner Flüchtlingseigenschaft nicht benachteiligt werden.
 
 (2) Die ungestörte Religionsausübung wird gewährleistet.
-
 
 ### § 4
 
@@ -96,7 +90,6 @@ ergriffenen Maßnahmen unterworfen.
 
 (2) Sie unterstehen der deutschen Gerichtsbarkeit.
 
-
 ### § 5
 
 Rechte und Vergünstigungen, die allgemein Angehörigen fremder Staaten
@@ -104,13 +97,11 @@ nur unter der Bedingung der Gegenseitigkeit gewährt werden, sind
 heimatlosen Ausländern auch dann nicht zu versagen, wenn die
 Gegenseitigkeit nicht verbürgt ist.
 
-
 ### § 6
 
 Ausnahmemaßnahmen, die sich gegen Angehörige des früheren
 Heimatstaates eines heimatlosen Ausländers richten, dürfen gegen
 diesen nicht angewandt werden.
-
 
 ### § 7
 
@@ -120,10 +111,7 @@ Berlin (West) abhängig ist, ist die Zeit des Zwangsaufenthalts einer
 Person im Falle einer Verschleppung in der Zeit vom 1. September 1939
 bis zum 8. Mai 1945 anzurechnen.
 
-
 ## Kapitel II - Bürgerliches Recht
-
-
 
 ### § 8
 
@@ -133,18 +121,15 @@ diese, sofern die Gesetze des Ortes beobachtet sind, an dem das
 Rechtsgeschäft vorgenommen ist. Dies gilt insbesondere für eine vor
 Inkrafttreten dieses Gesetzes geschlossene Ehe.
 
-
 ### § 9
 
 Heimatlose Ausländer können unter den gleichen Voraussetzungen wie
 deutsche Staatsangehörige Eigentum und andere Rechte an Grundstücken
 und beweglichen Sachen erwerben.
 
-
 ### § 10
 
 -
-
 
 ### § 11
 
@@ -155,10 +140,7 @@ Prozeßkostenhilfe und sind von den besonderen Pflichten der
 Angehörigen fremder Staaten und der Staatenlosen zur
 Sicherheitsleistung befreit.
 
-
 ## Kapitel III - Öffentliches Recht
-
-
 
 ### § 12
 
@@ -168,7 +150,6 @@ Staatsangehörigen gleichgestellt. Sie bedürfen keines
 Aufenthaltstitels. Ausländischen Familienangehörigen heimatloser
 Ausländer wird nach den für ausländische Familienangehörige Deutscher
 geltenden Vorschriften eine Aufenthaltserlaubnis erteilt.
-
 
 ### § 13
 
@@ -181,7 +162,6 @@ Vereinigungen mit politischen Zwecken.
 (2) Heimatlose Ausländer haben das Recht, sich in Gewerkschaften
 zusammenzuschließen oder ihre Aufnahme in deutsche Gewerkschaften zu
 beantragen.
-
 
 ### § 14
 
@@ -199,7 +179,6 @@ Bedingungen ablegen wie deutsche Staatsangehörige.
 Ausländer wird nach Maßgabe des Artikels 7 Abs. 4 und 5 des
 Grundgesetzes gewährleistet.
 
-
 ### § 15
 
 (1) Ausländische Prüfungen heimatloser Ausländer werden im
@@ -210,14 +189,12 @@ Prüfungen gleichzuachten sind.
 inländischen Prüfungen gleichzuachten sind, wird von den Obersten
 Landesbehörden getroffen.
 
-
 ### § 16
 
 Heimatlose Ausländer, die Prüfungen gemäß § 14 abgelegt haben oder
 deren ausländische Prüfungen gemäß § 15 anerkannt werden, sind zur
 Ausübung eines freien Berufes im Bundesgebiet unter den gleichen
 Bedingungen zuzulassen wie deutsche Staatsangehörige.
-
 
 ### § 17
 
@@ -233,19 +210,16 @@ Straßenhandel. Für die Ausübung dieser Gewerbe verbleibt es für
 heimatlose Ausländer bei der in § 56d und § 42b Abs. 4 der
 Gewerbeordnung für Ausländer getroffenen Regelung.
 
-
 ### § 18
 
 Heimatlose Ausländer sind in der Sozialversicherung, der
 Arbeitslosenversicherung und der Arbeitslosenfürsorge den deutschen
 Staatsangehörigen gleichgestellt.
 
-
 ### § 19
 
 Heimatlose Ausländer erhalten in der öffentlichen Fürsorge Leistungen
 in gleicher Höhe wie deutsche Staatsangehörige.
-
 
 ### § 20
 
@@ -253,10 +227,7 @@ Die Erhebung von Steuern, Abgaben und Gebühren richtet sich für
 heimatlose Ausländer nach den für deutsche Staatsangehörige geltenden
 Vorschriften.
 
-
 ## Kapitel IV - Verwaltungsmaßnahmen
-
-
 
 ### § 21
 
@@ -282,12 +253,10 @@ Einbürgerung wird eine Gebühr in Höhe von 51 Euro erhoben.
 (2) Im übrigen gelten für heimatlose Ausländer die allgemeinen
 Vorschriften über die Einbürgerung.
 
-
 ### § 22
 
 Einem heimatlosen Ausländer darf die Rückkehr in seine Heimat oder die
 Auswanderung nicht versagt werden.
-
 
 ### § 23
 
@@ -309,10 +278,7 @@ Aufenthaltsgesetzes findet entsprechende Anwendung.
 
 (4)
 
-
 ## Kapitel V - Rechtsschutz
-
-
 
 ### § 24
 
@@ -339,16 +305,12 @@ günstigeren Behandlung für minderbemittelte heimatlose Ausländer,
 keine höheren Gebühren erhoben werden als von deutschen
 Staatsangehörigen.
 
-
 ## Kapitel VI - Schluß- und Übergangsvorschriften
-
-
 
 ### § 25
 
 Die aus der Durchführung dieses Gesetzes erwachsenden Kosten trägt der
 Bund nach Maßgabe eines Gesetzes gemäß Artikel 120 des Grundgesetzes.
-
 
 ### § 26
 
@@ -356,11 +318,9 @@ Dieses Gesetz findet keine Anwendung auf Personen, die in Umsiedlung
 begriffen sind und von der Internationalen Flüchtlings-Organisation
 (IRO) Fürsorge und Unterhalt erhalten.
 
-
 ### § 27
 
 (weggefallen)
-
 
 ### § 28
 

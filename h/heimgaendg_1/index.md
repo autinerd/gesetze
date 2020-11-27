@@ -15,23 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 758
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Berlin-Klausel
 
@@ -39,7 +34,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes.
-
 
 ## Art 4 Anwendung auf bestehende Heimverhältnisse
 
@@ -55,7 +49,6 @@ abgeschlossen worden sind.
 Heimverhältnisse anzuwenden, die vor dem Inkrafttreten des Gesetzes
 vereinbart worden sind, wenn der Ausschluß der Verzinsung ausdrücklich
 vereinbart worden ist.
-
 
 ## Art 5 Inkrafttreten
 

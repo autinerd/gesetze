@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 16.3.2011 I 420
 
-
-
 ## § 1 Einsetzung eines Nationalen Normenkontrollrates
 
 (1) Beim Bundeskanzleramt wird ein Nationaler Normenkontrollrat mit
@@ -39,7 +37,6 @@ Wirtschaft, insbesondere für die mittelständischen Unternehmen.
 
 (4) Die angestrebten Ziele und Zwecke von Regelungen sind nicht
 Gegenstand der Prüfungen des Nationalen Normenkontrollrates.
-
 
 ## § 2 Erfüllungsaufwand
 
@@ -70,7 +67,6 @@ Messung bei Unternehmen notwendigen Kennziffern (Kosten pro Einheit,
 Zeit pro einzelner durch das Gesetz ausgelöster Aktivität sowie deren
 Häufigkeit pro Jahr und Anzahl der betroffenen Unternehmen) sind alle
 Bürokratiekosten zu berücksichtigen, die auf Bundesrecht beruhen.
-
 
 ## § 3 Zusammensetzung und Organisation des Nationalen Normenkontrollrates
 
@@ -147,7 +143,6 @@ einverstanden sind, nur im Einvernehmen mit dem Vorsitzenden des
 Nationalen Normenkontrollrates versetzt, abgeordnet oder umgesetzt
 werden.
 
-
 ## § 4 Aufgaben des Nationalen Normenkontrollrates
 
 (1) Dem Prüfungsrecht des Nationalen Normenkontrollrates unterliegen:
@@ -220,7 +215,6 @@ worden sind.
 und des Bundesbeauftragten für die Wirtschaftlichkeit in der
 Verwaltung.
 
-
 ## § 5 Befugnisse des Nationalen Normenkontrollrates
 
 (1) Der Nationale Normenkontrollrat ist berechtigt,
@@ -243,7 +237,6 @@ Verwaltung.
 (2) Behörden des Bundes und die Länder leisten dem Normenkontrollrat
 Amtshilfe.
 
-
 ## § 6 Pflichten des Nationalen Normenkontrollrates
 
 (1) Der Nationale Normenkontrollrat gibt seine Stellungnahmen zu den
@@ -259,7 +252,6 @@ beifügen.
 (3) Der Nationale Normenkontrollrat steht den federführenden und den
 mitberatenden ständigen Ausschüssen des Bundestages und des
 Bundesrates zur Beratung zur Verfügung.
-
 
 ## § 7 Pflichten der Bundesregierung
 
@@ -280,10 +272,6 @@ Bericht über
 4.  die Ergebnisse und Fortentwicklung auf dem Gebiet der besseren
     Rechtsetzung.
 
-
-
-
-
 ## § 8 Aufgaben des Statistischen Bundesamtes
 
 Das Statistische Bundesamt unterstützt bei Bedarf Bundesregierung,
@@ -292,7 +280,6 @@ Aufgaben, insbesondere durch Auswertung vorliegender Daten und die
 Durchführung von Aufwandsschätzungen. Es ist für den Aufbau und die
 Pflege der Datenbanken zuständig, die für Berichterstattung und
 Erfolgskontrolle im Sinne dieses Gesetzes erforderlich sind.
-
 
 ## § 9 Inkrafttreten
 

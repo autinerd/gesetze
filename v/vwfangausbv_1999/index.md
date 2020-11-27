@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1029
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -30,13 +28,11 @@ Wirtschaft und Technologie, das Bundesministerium für Verkehr, Bau-
 und Wohnungswesen im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf
 Verwaltungsfachangestellter/Verwaltungsfachangestellte wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -64,7 +60,6 @@ jeweils 12 Monate.
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -182,10 +177,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
 5.3 Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen in der gemeinsamen
@@ -225,12 +216,10 @@ nach § 3 Abs. 1 Nr. 3, 5 bis 7 und § 3 Abs. 2 Nr. 1 bis 3 und 5 in
 Betracht. Die dienstbegleitende Unterweisung ist inhaltlich und
 zeitlich mit dem Berufsschulunterricht abzustimmen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -238,7 +227,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -264,10 +252,6 @@ b)  Haushaltswesen und Beschaffung,
 
 
 c)  Wirtschafts- und Sozialkunde.
-
-
-
-
 
 ## § 8 Abschlußprüfung
 
@@ -374,7 +358,6 @@ Gesamtergebnis mindestens ausreichende Leistungen erbracht werden.
 Wird ein Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung
 nicht bestanden.
 
-
 ## § 9 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -382,11 +365,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
-
 
 ## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Sachliche Gliederung -
 
@@ -975,10 +956,6 @@ Diese Verordnung tritt am 1. August 1999 in Kraft.
     *   bei der Ermittlung des Fortbildungsbedarfs mitwirken,
         Bildungsmaßnahmen ausschreiben, Entscheidungen über die
         Bewerberauswahl vorbereiten und umsetzen
-
-
-
-
 
 ## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Zeitliche Gliederung -
 

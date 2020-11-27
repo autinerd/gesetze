@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 226 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt -
-
-
 
 ### § 1 Grundsatz
 
@@ -49,13 +45,7 @@ erreicht werden, daß
 3.  die dem Arbeitsschutz und der Unfallverhütung dienenden Maßnahmen
     einen möglichst hohen Wirkungsgrad erreichen.
 
-
-
-
-
 ## Zweiter Abschnitt - Betriebsärzte
-
-
 
 ### § 2 Bestellung von Betriebsärzten
 
@@ -96,7 +86,6 @@ Kosten der Fortbildung trägt der Arbeitgeber. Ist der Betriebsarzt
 nicht als Arbeitnehmer eingestellt, so ist er für die Zeit der
 Fortbildung von der Erfüllung der ihm übertragenen Aufgaben
 freizustellen.
-
 
 ### § 3 Aufgaben der Betriebsärzte
 
@@ -187,7 +176,6 @@ Satz 3 bleibt unberührt.
 (3) Zu den Aufgaben der Betriebsärzte gehört es nicht, Krankmeldungen
 der Arbeitnehmer auf ihre Berechtigung zu überprüfen.
 
-
 ### § 4 Anforderungen an Betriebsärzte
 
 Der Arbeitgeber darf als Betriebsärzte nur Personen bestellen, die
@@ -195,10 +183,7 @@ berechtigt sind, den ärztlichen Beruf auszuüben, und die über die zur
 Erfüllung der ihnen übertragenen Aufgaben erforderliche
 arbeitsmedizinische Fachkunde verfügen.
 
-
 ## Dritter Abschnitt - Fachkräfte für Arbeitssicherheit
-
-
 
 ### § 5 Bestellung von Fachkräften für Arbeitssicherheit
 
@@ -246,7 +231,6 @@ Fortbildung trägt der Arbeitgeber. Ist die Fachkraft für
 Arbeitssicherheit nicht als Arbeitnehmer eingestellt, so ist sie für
 die Zeit der Fortbildung von der Erfüllung der ihr übertragenen
 Aufgaben freizustellen.
-
 
 ### § 6 Aufgaben der Fachkräfte für Arbeitssicherheit
 
@@ -313,10 +297,6 @@ Gestaltung der Arbeit zu unterstützen. Sie haben insbesondere
     und Maßnahmen zur Abwendung dieser Gefahren zu belehren und bei der
     Schulung der Sicherheitsbeauftragten mitzuwirken.
 
-
-
-
-
 ### § 7 Anforderungen an Fachkräfte für Arbeitssicherheit
 
 (1) Der Arbeitgeber darf als Fachkräfte für Arbeitssicherheit nur
@@ -334,10 +314,7 @@ Berufsbezeichnung Ingenieur zu führen, jemand bestellt werden darf,
 der zur Erfüllung der sich aus § 6 ergebenden Aufgaben über
 entsprechende Fachkenntnisse verfügt.
 
-
 ## Vierter Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 8 Unabhängigkeit bei der Anwendung der Fachkunde
 
@@ -368,7 +345,6 @@ Vertretung berufenen Organs den Vorschlag ab, so ist dies den
 Vorschlagenden schriftlich mitzuteilen und zu begründen; der
 Betriebsrat erhält eine Abschrift.
 
-
 ### § 9 Zusammenarbeit mit dem Betriebsrat
 
 (1) Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit haben
@@ -392,7 +368,6 @@ eines freiberuflich tätigen Arztes, einer freiberuflich tätigen
 Fachkraft für Arbeitssicherheit oder eines überbetrieblichen Dienstes
 ist der Betriebsrat zu hören.
 
-
 ### § 10 Zusammenarbeit der Betriebsärzte und der Fachkräfte für Arbeitssicherheit
 
 Die Betriebsärzte und die Fachkräfte für Arbeitssicherheit haben bei
@@ -402,7 +377,6 @@ Betriebsärzte und die Fachkräfte für Arbeitssicherheit arbeiten bei
 der Erfüllung ihrer Aufgaben mit den anderen im Betrieb für
 Angelegenheiten der technischen Sicherheit, des Gesundheits- und des
 Umweltschutzes beauftragten Personen zusammen.
-
 
 ### § 11 Arbeitsschutzausschuß
 
@@ -430,7 +404,6 @@ Der Arbeitsschutzausschuß hat die Aufgabe, Anliegen des
 Arbeitsschutzes und der Unfallverhütung zu beraten. Der
 Arbeitsschutzausschuß tritt mindestens einmal vierteljährlich
 zusammen.
-
 
 ### § 12 Behördliche Anordnungen
 
@@ -461,7 +434,6 @@ Anordnung eine angemessene Frist zu setzen.
 (4) Die zuständige Behörde hat den Betriebsrat über eine gegenüber dem
 Arbeitgeber getroffene Anordnung schriftlich in Kenntnis zu setzen.
 
-
 ### § 13 Auskunfts- und Besichtigungsrechte
 
 (1) Der Arbeitgeber hat der zuständigen Behörde auf deren Verlangen
@@ -481,7 +453,6 @@ betreten und besichtigt werden. Das Grundrecht der Unverletzlichkeit
 der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit
 eingeschränkt.
 
-
 ### § 14 Ermächtigung zum Erlaß von Rechtsverordnungen
 
 (1) Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung
@@ -498,13 +469,11 @@ gewordene Unfallverhütungsvorschrift nicht ändert.
 
 (2) (weggefallen)
 
-
 ### § 15 Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
 
 Das Bundesministerium für Arbeit und Soziales erläßt mit Zustimmung
 des Bundesrates allgemeine Verwaltungsvorschriften zu diesem Gesetz
 und den auf Grund des Gesetzes erlassenen Rechtsverordnungen.
-
 
 ### § 16 Öffentliche Verwaltung
 
@@ -513,7 +482,6 @@ und der sonstigen Körperschaften, Anstalten und Stiftungen des
 öffentlichen Rechts ist ein den Grundsätzen dieses Gesetzes
 gleichwertiger arbeitsmedizinischer und sicherheitstechnischer
 Arbeitsschutz zu gewährleisten.
-
 
 ### § 17 Nichtanwendung des Gesetzes
 
@@ -531,7 +499,6 @@ ist, wird das Nähere durch Rechtsverordnung geregelt.
 (3) Soweit das Bergrecht diesem Gesetz gleichwertige Regelungen
 enthält, gelten diese Regelungen. Im übrigen gilt dieses Gesetz.
 
-
 ### § 18 Ausnahmen
 
 Die zuständige Behörde kann dem Arbeitgeber gestatten, auch solche
@@ -541,7 +508,6 @@ verfügen, wenn der Arbeitgeber sich verpflichtet, in einer
 festzulegenden Frist den Betriebsarzt oder die Fachkraft für
 Arbeitssicherheit entsprechend fortbilden zu lassen.
 
-
 ### § 19 Überbetriebliche Dienste
 
 Die Verpflichtung des Arbeitgebers, Betriebsärzte und Fachkräfte für
@@ -549,7 +515,6 @@ Arbeitssicherheit zu bestellen, kann auch dadurch erfüllt werden, daß
 der Arbeitgeber einen überbetrieblichen Dienst von Betriebsärzten oder
 Fachkräften für Arbeitssicherheit zur Wahrnehmung der Aufgaben nach §
 3 oder § 6 verpflichtet.
-
 
 ### § 20 Ordnungswidrigkeiten
 
@@ -572,11 +537,9 @@ Geldbuße bis zu fünfundzwanzigtausend Euro, eine Ordnungswidrigkeit
 nach Absatz 1 Nr. 2 und 3 mit einer Geldbuße bis zu fünfhundert Euro
 geahndet werden.
 
-
 ### § 21
 
 -
-
 
 ### § 22 Berlin-Klausel
 
@@ -585,7 +548,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ### § 23 Inkrafttreten
 
@@ -596,7 +558,6 @@ folgenden zwölften Kalendermonats in Kraft. § 14 und
 Kraft.
 
 (2)
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1029) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

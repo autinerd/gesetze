@@ -20,11 +20,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 27 G v. 18.12.1989 I 2261
 
-
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -38,7 +36,6 @@ Sozialversicherungsträger handelt und nicht nach diesem Gesetz die
 Bundesregierung oder der Bundesminister für Arbeit zuständig ist.
 
 (3)
-
 
 ## § 3
 
@@ -54,7 +51,6 @@ Sozialversicherungsträger handelt und nicht nach diesem Gesetz die
 Bundesregierung, der Bundesminister für Arbeit oder das
 Bundesversicherungsamt zuständig ist.
 
-
 ## § 4
 
 Soweit das frühere Reichsversicherungsamt zum Erlaß von allgemeinen
@@ -63,11 +59,9 @@ von der Bundesregierung mit Zustimmung des Bundesrates ausgeübt. Der
 Zustimmung des Bundesrates bedarf es nicht, soweit es sich nur um
 bundesunmittelbare Sozialversicherungsträger handelt.
 
-
 ## § 5
 
 -
-
 
 ## § 6
 
@@ -79,7 +73,6 @@ obersten Verwaltungsbehörden der Länder über. Soweit es sich nur um
 bundesunmittelbare Sozialversicherungsträger handelt, gehen sie auf
 das Bundesversicherungsamt über.
 
-
 ## § 7
 
 Soweit in sozialversicherungsrechtlichen Vorschriften
@@ -88,10 +81,7 @@ vorgesehen sind, treten an deren Stelle die entsprechenden amtlichen
 Verkündungsblätter des Bundes oder der Länder. Die Veröffentlichungen
 des Bundesversicherungsamts erfolgen im Bundesarbeitsblatt.
 
-
 ## (XXXX) §§ 8 bis 10
-
-
 
 ## § 11
 
@@ -101,14 +91,12 @@ betrieblichen Altersfürsorge vom 17. Oktober 1951 (Bundesanzeiger Nr.
 204 vom 20. Oktober 1951) bisher dem Bundesminister für Arbeit
 zustehenden Aufgaben und Befugnisse.
 
-
 ## § 12
 
 Die nach diesem Gesetz dem Bundesversicherungsamt zustehenden Aufgaben
 und Befugnisse gehen zu einem vom Bundesminister für Arbeit zu
 bestimmenden Zeitpunkt auf das Bundesversicherungsamt über. Der
 Zeitpunkt des Übergangs ist im Bundesanzeiger bekanntzumachen.
-
 
 ## § 13
 
@@ -117,7 +105,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 14
 

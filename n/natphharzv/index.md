@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1990, SDr 1469
 
-
-
 ## Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12 und 14 des
 Bundesnaturschutzgesetzes wird verordnet:
-
 
 ## § 1 Festsetzung
 
@@ -30,7 +27,6 @@ Bundesnaturschutzgesetzes wird verordnet:
 Nationalpark festgesetzt.
 
 (2) Der Nationalpark erhält die Bezeichnung "Nationalpark Hochharz".
-
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
@@ -98,7 +94,6 @@ der Kreisverwaltung Wernigerode und bei der Nationalparkverwaltung.
 Bei den genannten Behörden sind die Karten während der Sprechzeiten
 allgemein zugänglich.
 
-
 ## § 3 Schutzzweck
 
 (1) Mit der Festsetzung zum Nationalpark Hochharz wird bezweckt, eine
@@ -126,7 +121,6 @@ sie den vorangehenden Schutzzielen nicht zuwiderlaufen.
 (6) In dem Nationalpark wird keine wirtschaftsbestimmte Nutzung
 bezweckt; er soll aber zur Strukturverbesserung der außerhalb des
 Nationalparks gelegenen Region (Nationalparkregion) beitragen.
-
 
 ## § 4 Schutzzonen
 
@@ -202,7 +196,6 @@ Flächen des Nationalparks. Es sind die Forstabteilungen:
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 4 genannten
 Karten eingetragen.
 
-
 ## § 5 Gebote
 
 (1) Im Nationalpark ist es geboten,
@@ -249,7 +242,6 @@ Karten eingetragen.
 (2) Zur Umsetzung der in Abs. 1 genannten Gebote sowie zur Erhaltung,
 Pflege und Entwicklung des Nationalparkes soll in angemessener Frist
 ein Pflege- und Entwicklungsplan erstellt werden.
-
 
 ## § 6 Verbote
 
@@ -391,7 +383,6 @@ verboten,
 
 (2) In der Schutzzone I ist jegliche Nutzung verboten.
 
-
 ## § 7 Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
@@ -428,7 +419,6 @@ unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des
 Nationalparks (§ 3) nicht vereinbar sind, sollen sie im Rahmen der
 rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
 ## § 8 Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
@@ -456,7 +446,6 @@ gewährt werden, wenn
 der Nationalparkverwaltung; die Aufsichtsbehörde kann diese Aufgabe
 ganz oder teilweise delegieren.
 
-
 ## § 9 Einvernehmen
 
 Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei
@@ -469,10 +458,6 @@ Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei
 
 3.  der Aufstellung von Bauleitplänen.
 
-
-
-
-
 ## § 10 Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
@@ -483,29 +468,24 @@ haben sie Anspruch auf Entschädigung. Diese muß die
 Vermögensnachteile, die durch die Maßnahmen verursacht wurden,
 angemessen ausgleichen.
 
-
 ## § 11 Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
 Anordnungen für dieses Gebiet vor.
 
-
 ## § 12 Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ## Anlage
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1469)
-
 
 ## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
 

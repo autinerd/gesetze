@@ -16,12 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 18
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -41,7 +39,6 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 
 
 Die Vereinbarungen werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -66,10 +63,6 @@ Gegenstände Regelungen getroffen werden:
 
 3.  die Zuständigkeit der Versicherungsträger oder anderer in der
     Vereinbarung genannter Stellen und Behörden.
-
-
-
-
 
 ## Art 3
 

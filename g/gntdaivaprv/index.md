@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1214
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
@@ -24,9 +23,7 @@ Februar 2009 (BGBl. I S. 160) und des § 10 der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium des Innern:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Diplomstudium
 
@@ -34,7 +31,6 @@ Der Diplom-Studiengang „Verwaltungsmanagement“ an der Fachhochschule
 des Bundes für öffentliche Verwaltung (Fachhochschule) ist der
 Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen
 Dienstes in der allgemeinen und inneren Verwaltung des Bundes.
-
 
 ### § 2 Ziele des Studiums
 
@@ -49,7 +45,6 @@ Zusammenarbeit im föderalen und europäischen Raum. Die Studierenden
 sollen ihre Kompetenzen weiterentwickeln, um den sich ständig
 wandelnden Herausforderungen der Bundesverwaltung gerecht zu werden.
 
-
 ### § 3 Dienstbehörden
 
 (1) Die Fachhochschule ist als Einstellungsbehörde der Studierenden
@@ -59,7 +54,6 @@ für die dienstrechtlichen Entscheidungen zuständig.
 Ausbildungsbehörden des Bundes unterstehen die Studierenden neben der
 Dienstaufsicht der Präsidentin oder des Präsidenten der Fachhochschule
 auch der Dienstaufsicht der Leitungen dieser Behörden.
-
 
 ### § 4 Auswahlverfahren
 
@@ -120,16 +114,13 @@ Jahren bestellt. Wiederbestellung ist zulässig.
 diesen Fällen ist sicherzustellen, dass gleiche Auswahlmaßstäbe
 angelegt werden.
 
-
 ### § 5 Urlaub
 
 Die Fachhochschule bestimmt die Zeiten des Erholungsurlaubs. Er ist
 auf die Fachstudien und die berufspraktischen Studienzeiten
 gleichmäßig zu verteilen.
 
-
 ## Abschnitt 2 - Studienordnung
-
 
 ### § 6 Dauer und Aufbau des Studiums
 
@@ -166,7 +157,6 @@ Lehrstunden.
 Points) nach dem Europäischen System zur Übertragung und Akkumulierung
 von Studienleistungen (ECTS). Die Leistungspunkte je Modul ergeben
 sich aus dem Modulhandbuch.
-
 
 ### § 7 Studieninhalte, Module
 
@@ -300,7 +290,6 @@ Qualitätsmanagements und werden regelmäßig evaluiert.
 
 (5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
-
 ### § 8 Berufspraktische Studienzeiten
 
 (1) Die Fachhochschule bestimmt und überwacht die Gestaltung und die
@@ -327,9 +316,7 @@ Ausbildenden für jede Studierende und jeden Studierenden eine
 Praktikumsbeurteilung. Die Praktikumsbeurteilungen sind mit den
 Studierenden zu besprechen.
 
-
 ## Abschnitt 3 - Prüfungen
-
 
 ### § 9 Laufbahnprüfung
 
@@ -337,12 +324,10 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der
 Zwischenprüfung, den Modulprüfungen in den Modulen 5 bis 22, der
 Diplomarbeit und der mündlichen Abschlussprüfung.
 
-
 ### § 10 Prüfungsamt
 
 Für die Organisation und Durchführung der Laufbahnprüfung richtet die
 Fachhochschule ein Prüfungsamt ein.
-
 
 ### § 11 Prüfende, Prüfungskommissionen
 
@@ -422,7 +407,6 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet
 die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
-
 ### § 12 Modulprüfungen
 
 (1) In jedem Modul ist eine Prüfung abzulegen.
@@ -468,7 +452,6 @@ Praktikum I und aus einer schriftlichen Ausarbeitung im Praktikum II.
 Daneben fließt in die Bewertung des Moduls auch die
 Praktikumsbeurteilung ein.
 
-
 ### § 13 Zwischenprüfung
 
 (1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen.
@@ -493,7 +476,6 @@ Zwischenprüfung sowie eine Bescheinigung über die erbrachten
 Studienleistungen, aus der hervorgeht, welche Module absolviert
 wurden, wie sie bewertet wurden und wie viele Leistungspunkte erworben
 wurden.
-
 
 ### § 14 Diplomarbeit
 
@@ -532,7 +514,6 @@ einer Dienstbehörde vorgeschlagen worden, ist eine hauptamtliche
 Lehrkraft, die das entsprechende Fachgebiet unterrichtet, Erstprüferin
 oder Erstprüfer. Die Dauer des Bewertungsverfahrens soll sechs Wochen
 nicht überschreiten.
-
 
 ### § 15 Mündliche Abschlussprüfung
 
@@ -591,7 +572,6 @@ sein.
 Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission
 zu unterschreiben. Die Prüfung muss bis zum Ende des
 Vorbereitungsdienstes abgeschlossen sein.
-
 
 ### § 16 Bewertung von Prüfungen und Prüfungsteilen
 
@@ -716,7 +696,6 @@ Rangpunktzahlen für die Prüfungsteile.
 (5) Eine Prüfung ist bestanden, wenn sie mit mindestens fünf
 Rangpunkten bewertet ist.
 
-
 ### § 17 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der Zwischenprüfung, einer
@@ -734,7 +713,6 @@ unverzüglich ein ärztliches Zeugnis vorgelegt wird. Auf Verlangen des
 Prüfungsamtes oder der Fachbereichsleitung ist ein amtsärztliches
 Zeugnis oder das Zeugnis einer Ärztin oder eines Arztes vorzulegen,
 die oder der von der Fachhochschule beauftragt worden ist.
-
 
 ### § 18 Täuschung, Ordnungsverstoß
 
@@ -768,7 +746,6 @@ mündlichen Abschlussprüfung für nicht bestanden erklären.
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis
 4 anzuhören.
 
-
 ### § 19 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb eines Monats
@@ -800,7 +777,6 @@ die gesamte mündliche Abschlussprüfung zu wiederholen. Absatz 1 Satz 2
 gilt entsprechend.
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 20 Bestehen der Laufbahnprüfung, Gesamtnote
 
@@ -868,7 +844,6 @@ Abschlussprüfung teilt die oder der Vorsitzende den
 Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten
 Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-
 ### § 21 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
@@ -898,7 +873,6 @@ sowie eine Bescheinigung über die erbrachten Studienleistungen, aus
 der die absolvierten Module, deren Bewertung und die erworbenen
 Leistungspunkte hervorgehen.
 
-
 ### § 22 Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen nach § 12 Absatz 2 Satz 1 und
@@ -914,9 +888,7 @@ nehmen. Satz 1 gilt entsprechend, wenn die Laufbahnprüfung nicht
 bestanden ist oder wenn keine Übernahme in das Beamtenverhältnis
 erfolgt ist.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 23 Übergangsvorschriften
 
@@ -936,7 +908,6 @@ Bundes vom 12. Juli 2001 (BGBl. I S. 1578), die zuletzt durch § 56
 Absatz 8 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert
 worden ist, weiter anzuwenden.
 
-
 ### § 24 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -945,7 +916,6 @@ Prüfung für den gehobenen nichttechnischen Dienst in der allgemeinen
 und inneren Verwaltung des Bundes vom 12. Juli 2001 (BGBl. I S. 1578),
 die zuletzt durch § 56 Absatz 8 der Verordnung vom 12. Februar 2009
 (BGBl. I S. 284) geändert worden ist, außer Kraft.
-
 
 ### Anlage (zu § 21 Absatz 1) Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
 

@@ -19,8 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 16 G v. 9.12.2010 I 1900
 
-
-
 ## § 1 Grundsatz
 
 (1) Rechtshandlungen eines Schuldners, die seine Gläubiger
@@ -29,7 +27,6 @@ der folgenden Bestimmungen angefochten werden.
 
 (2) Eine Unterlassung steht einer Rechtshandlung gleich.
 
-
 ## § 2 Anfechtungsberechtigte
 
 Zur Anfechtung ist jeder Gläubiger berechtigt, der einen
@@ -37,7 +34,6 @@ vollstreckbaren Schuldtitel erlangt hat und dessen Forderung fällig
 ist, wenn die Zwangsvollstreckung in das Vermögen des Schuldners nicht
 zu einer vollständigen Befriedigung des Gläubigers geführt hat oder
 wenn anzunehmen ist, daß sie nicht dazu führen würde.
-
 
 ## § 3 Vorsätzliche Benachteiligung
 
@@ -57,7 +53,6 @@ Anfechtung geschlossen worden ist oder wenn dem anderen Teil zur Zeit
 des Vertragsschlusses ein Vorsatz des Schuldners, die Gläubiger zu
 benachteiligen, nicht bekannt war.
 
-
 ## § 4 Unentgeltliche Leistung
 
 (1) Anfechtbar ist eine unentgeltliche Leistung des Schuldners, es sei
@@ -67,7 +62,6 @@ worden.
 (2) Richtet sich die Leistung auf ein gebräuchliches
 Gelegenheitsgeschenk geringen Werts, so ist sie nicht anfechtbar.
 
-
 ## § 5 Rechtshandlungen des Erben
 
 Hat der Erbe aus dem Nachlaß Pflichtteilsansprüche, Vermächtnisse oder
@@ -75,7 +69,6 @@ Auflagen erfüllt, so kann ein Nachlaßgläubiger, der im
 Insolvenzverfahren über den Nachlaß dem Empfänger der Leistung im Rang
 vorgehen oder gleichstehen würde, die Leistung in gleicher Weise
 anfechten wie eine unentgeltliche Leistung des Erben.
-
 
 ## § 6 Gesellschafterdarlehen
 
@@ -106,7 +99,6 @@ hat, drei Jahre verstrichen sind. Wurde die Handlung später
 vorgenommen, so ist die Anfechtung drei Jahre nach dem Schluss des
 Jahres ausgeschlossen, in dem die Handlung vorgenommen worden ist.
 
-
 ## § 6a Gesicherte Darlehen
 
 Anfechtbar ist eine Rechtshandlung, mit der eine Gesellschaft einem
@@ -117,7 +109,6 @@ eine Sicherheit bestellt hatte oder als Bürge haftete; dies gilt
 sinngemäß für Leistungen auf Forderungen, die einem Darlehen
 wirtschaftlich entsprechen. § 39 Abs. 4 und 5 der Insolvenzordnung und
 § 6 Abs. 2 gelten entsprechend.
-
 
 ## § 7 Berechnung der Fristen
 
@@ -137,7 +128,6 @@ wird.
 (3) In die Fristen wird die Zeit nicht eingerechnet, während der
 Maßnahmen nach § 46 Absatz 1 Satz 2 Nummer 4 bis 6 des
 Kreditwesengesetzes angeordnet waren.
-
 
 ## § 8 Zeitpunkt der Vornahme einer Rechtshandlung
 
@@ -159,7 +149,6 @@ Rechtsänderung tritt.
 (3) Bei einer bedingten oder befristeten Rechtshandlung bleibt der
 Eintritt der Bedingung oder des Termins außer Betracht.
 
-
 ## § 9 Anfechtung durch Einrede
 
 Die Anfechtbarkeit kann im Wege der Einrede geltend gemacht werden,
@@ -167,13 +156,11 @@ bevor ein vollstreckbarer Schuldtitel für die Forderung erlangt ist;
 der Gläubiger hat diesen jedoch vor der Entscheidung binnen einer vom
 Gericht zu bestimmenden Frist beizubringen.
 
-
 ## § 10 Vollstreckbarer Titel
 
 Die Anfechtung wird nicht dadurch ausgeschlossen, daß für die
 Rechtshandlung ein vollstreckbarer Schuldtitel erlangt oder daß die
 Handlung durch Zwangsvollstreckung erwirkt worden ist.
-
 
 ## § 11 Rechtsfolgen
 
@@ -199,13 +186,11 @@ Gesellschafter wird von der Verpflichtung frei, wenn er die
 Gegenstände, die dem Gläubiger als Sicherheit gedient hatten, dem
 Gläubiger zur Verfügung stellt.
 
-
 ## § 12 Ansprüche des Anfechtungsgegners
 
 Wegen der Erstattung einer Gegenleistung oder wegen eines Anspruchs,
 der infolge der Anfechtung wiederauflebt, kann sich der
 Anfechtungsgegner nur an den Schuldner halten.
-
 
 ## § 13 Bestimmter Klageantrag
 
@@ -214,7 +199,6 @@ der Klageantrag bestimmt zu bezeichnen, in welchem Umfang und in
 welcher Weise der Anfechtungsgegner das Erlangte zur Verfügung stellen
 soll.
 
-
 ## § 14 Vorläufig vollstreckbarer Schuldtitel. Vorbehaltsurteil
 
 Liegt ein nur vorläufig vollstreckbarer Schuldtitel des Gläubigers
@@ -222,7 +206,6 @@ oder ein unter Vorbehalt ergangenes Urteil vor, so ist in dem Urteil,
 das den Anfechtungsanspruch für begründet erklärt, die Vollstreckung
 davon abhängig zu machen, daß die gegen den Schuldner ergangene
 Entscheidung rechtskräftig oder vorbehaltlos wird.
-
 
 ## § 15 Anfechtung gegen Rechtsnachfolger
 
@@ -253,7 +236,6 @@ geltend gemacht werden:
 schriftliche Mitteilung an den Rechtsnachfolger, gegen den die
 Anfechtung erfolgen soll.
 
-
 ## § 16 Eröffnung des Insolvenzverfahrens
 
 (1) Wird über das Vermögen des Schuldners das Insolvenzverfahren
@@ -266,7 +248,6 @@ vorweg zu erstatten.
 Insolvenzverfahrens auf Grund seines Anfechtungsanspruchs Sicherung
 oder Befriedigung erlangt, so gilt § 130 der Insolvenzordnung
 entsprechend.
-
 
 ## § 17 Unterbrechung des Verfahrens
 
@@ -284,7 +265,6 @@ kann dieser hinsichtlich der Kosten von jeder Partei aufgenommen
 werden. Durch die Ablehnung der Aufnahme wird das Recht des
 Insolvenzverwalters, nach den Vorschriften der Insolvenzordnung den
 Anfechtungsanspruch geltend zu machen, nicht ausgeschlossen.
-
 
 ## § 18 Beendigung des Insolvenzverfahrens
 
@@ -304,13 +284,11 @@ Maßgabe, dass an die Stelle der gerichtlichen Geltendmachung des
 Anfechtungsanspruchs die Erlangung des vollstreckbaren Schuldtitels
 tritt.
 
-
 ## § 19 Internationales Anfechtungsrecht
 
 Bei Sachverhalten mit Auslandsberührung ist für die Anfechtbarkeit
 einer Rechtshandlung das Recht maßgeblich, dem die Wirkungen der
 Rechtshandlung unterliegen.
-
 
 ## § 20 Übergangsregeln
 

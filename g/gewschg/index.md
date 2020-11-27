@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3513
 
-
-
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
 
 (1) Hat eine Person vorsätzlich den Körper, die Gesundheit oder die
@@ -81,7 +79,6 @@ Zustand krankhafter Störung der Geistestätigkeit begangen hat, in den
 sie sich durch geistige Getränke oder ähnliche Mittel vorübergehend
 versetzt hat.
 
-
 ## § 2 Überlassung einer gemeinsam genutzten Wohnung
 
 (1) Hat die verletzte Person zum Zeitpunkt einer Tat nach § 1 Abs. 1
@@ -140,7 +137,6 @@ Härte kann auch dann gegeben sein, wenn das Wohl von im Haushalt
 lebenden Kindern beeinträchtigt ist. Im Übrigen gelten die Absätze 2
 bis 5 entsprechend.
 
-
 ## § 3 Geltungsbereich, Konkurrenzen
 
 (1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat
@@ -152,7 +148,6 @@ maßgebenden Vorschriften.
 
 (2) Weitergehende Ansprüche der verletzten Person werden durch dieses
 Gesetz nicht berührt.
-
 
 ## § 4 Strafvorschriften
 

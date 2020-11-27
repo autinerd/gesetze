@@ -23,7 +23,6 @@ Geändert durch
     Anerkennung beruflicher Befähigungsnachweise in Ergänzung zur
     Richtlinie 89/48/EWG (ABl. L 209 vom 24.7.1992, S. 25).
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -53,12 +52,7 @@ Auf Grund
     Bundesministerium für Verkehr, Bau und Stadtentwicklung im
     Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-
-
-
 ## Erster Abschnitt - Anforderungen an Fahrlehrer und Fahrschulen
-
 
 ### § 1 Sprachtest; Anpassungslehrgang und Eignungsprüfung
 
@@ -187,10 +181,6 @@ Stadtentwicklung
     1 Nummer 4 und 5 des Fahrlehrergesetzes enthaltenen Anforderungen,
     vorliegen.
 
-
-
-
-
 ### § 2 Fahrlehrerschein
 
 (1) Der Fahrlehrerschein muss den Mustern nach Anlage 1.1 und 1.2
@@ -213,14 +203,12 @@ Ausbildungsleistung nach Weisung und unter Aufsicht des Inhabers der
 Fahrschulerlaubnis oder gegebenenfalls des verantwortlichen Leiters
 des Ausbildungsbetriebes verpflichtet.
 
-
 ### § 3 Unterrichtsräume
 
 In den Fahrschulen und deren Zweigstellen darf Unterricht nur in
 ortsfesten Gebäuden erteilt werden. Die Unterrichtsräume müssen nach
 Größe, Beschaffenheit und Einrichtung einen sachgerechten
 Ausbildungsbetrieb zulassen und der Anlage 2 entsprechen.
-
 
 ### § 4 Lehrmittel
 
@@ -231,7 +219,6 @@ die Ausstattung der Fahrschulen mit Lehrmitteln, die vom
 Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Einvernehmen mit den zuständigen obersten Landesbehörden in der
 jeweils geltenden Fassung im Verkehrsblatt bekannt gemacht wird.
-
 
 ### § 5 Ausbildungsfahrzeuge
 
@@ -280,7 +267,6 @@ Schild Anlass geben oder dessen Wirkung beeinträchtigen können, dürfen
 im Straßenverkehr nicht verwendet werden; auf eine Kraftradausbildung
 darf zusätzlich hingewiesen werden.
 
-
 ### § 6 Ausbildungsnachweis für Fahrschüler (§ 18 Absatz 1 des Fahrlehrergesetzes) Tagesnachweis für Fahrlehrer (§ 18 Absatz 2 des Fahrlehrergesetzes)
 
 (1) Der Ausbildungsnachweis für den Fahrschüler muss dem Muster nach
@@ -307,14 +293,11 @@ personenbezogenen Daten dürfen nur für diesen Zweck verarbeitet und
 genutzt werden und sind fünf Jahre nach Abschluss der jeweiligen
 Ausbildung zu löschen.
 
-
 ### § 7 Preisaushang nach § 19 des Fahrlehrergesetzes
 
 Für den Aushang ist das Muster nach Anlage 5 zu verwenden.
 
-
 ## Zweiter Abschnitt - Anforderungen an Fahrlehrerausbildungsstätten
-
 
 ### § 8 Verantwortlicher Leiter
 
@@ -348,7 +331,6 @@ unzuverlässig erscheinen lassen.
 keine Fahrerlaubnis der Klasse CE, genügt es, dass er mindestens
 einmal die entsprechende Fahrerlaubnis erworben hatte. Absatz 1 Satz 1
 Nummer 2 bleibt unberührt.
-
 
 ### § 9 Lehrkräfte
 
@@ -394,13 +376,11 @@ die Fahrlehrerlaubnis bleiben unberührt.
 (3) Mindestens zwei der in Absatz 1 genannten Lehrkräfte müssen bei
 der Fahrlehrerausbildungsstätte hauptberuflich tätig sein.
 
-
 ### § 10 Unterrichtsräume
 
 Die Unterrichtsräume müssen nach Größe, Beschaffenheit und Einrichtung
 einen sachgerechten Ausbildungsbetrieb zulassen. § 3 Satz 1 ist
 anzuwenden.
-
 
 ### § 11 Lehrmittel
 
@@ -441,15 +421,12 @@ vorhanden sein:
 Die Lehrmittel müssen dem geltenden Recht und dem Stand der Technik
 entsprechen.
 
-
 ### § 12 Lehrfahrzeuge
 
 Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den
 Anforderungen des § 5 entsprechen.
 
-
 ## Dritter Abschnitt - Anforderungen an Einweisungslehrgänge zum Erwerb der Seminarerlaubnis
-
 
 ### § 13 Inhalt der Einweisungslehrgänge
 
@@ -480,10 +457,6 @@ von Seminaren von Bedeutung sind, einüben.
 3.  Einweisung in die Durchführung von Seminaren nach § 4 des
     Straßenverkehrsgesetzes.
 
-
-
-
-
 ### § 14 Dauer und Leitung der Lehrgänge
 
 (1) Die Lehrgangsabschnitte nach § 13 Absatz 3 sind jeweils in vier
@@ -512,9 +485,7 @@ Fahrlehrergesetzes zuständigen Behörde oder Stelle anerkannten
 Einführungsseminaren für Lehrgangsleiter in den Lehrgangsabschnitten
 nach § 13 Absatz 3 teilgenommen hat.
 
-
 ## Vierter Abschnitt -
-
 
 ### § 15 Fortbildung
 
@@ -574,9 +545,7 @@ der Lage sind, die in Absatz 1 genannten Inhalte zu vermitteln. Für
 Fortbildungslehrgänge nach Absatz 2 dürfen vom Träger nur Lehrkräfte
 nach § 14 Absatz 2 eingesetzt werden.
 
-
 ## Fünfter Abschnitt -
-
 
 ### § 16 Inhalt der Registrierung nach § 39 Absatz 3 des Fahrlehrergesetzes
 
@@ -626,12 +595,7 @@ Fahrlehrergesetzes einzutragen:
     § 42 Absatz 2 des Fahrlehrergesetzes übermittelten Daten nach § 59
     Absatz 1 und 2 der Fahrerlaubnis-Verordnung.
 
-
-
-
-
 ## Sechster Abschnitt - Übergangs-, Bußgeld- und Schlussvorschriften
-
 
 ### § 17 Übergangsbestimmungen
 
@@ -678,7 +642,6 @@ der ab 1. Januar 1999 geltenden Fassung durchführen.
 (5) Nachweise, die der bis zum 1. September 2002 geltenden Fassung der
 Anlagen 3 und 4 entsprechen, dürfen bis 31. Dezember 2002 verwendet
 werden.
-
 
 ### § 18 Ordnungswidrigkeiten
 
@@ -727,10 +690,6 @@ Fahrlehrerausbildungsstätte vorsätzlich oder fahrlässig
 3.  entgegen § 12 für die Fahrlehrerausbildung Fahrzeuge verwendet oder
     verwenden lässt, die nicht den Vorschriften des § 5 entsprechen.
 
-
-
-
-
 ### § 19 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -739,11 +698,9 @@ vom 18. August 1998 (BGBl. I S. 2307), die zuletzt durch Artikel 59
 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515) geändert worden
 ist, außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1.1 (zu § 2 Absatz 1) Unbefristeter Fahrlehrerschein
 
@@ -756,11 +713,6 @@ insbesondere der Reißlänge, der Bruchdehnung, der Nassfestigkeit, der
 Abriebfestigkeit und der Doppelfalzzahl, mindestens dem Leinwandpapier
 entsprechen und gut bedruckt und beschriftet werden können.
 
-
-
-
-
-
 ### Anlage 1.2 (zu § 2 Absatz 1) Befristeter Fahrlehrerschein der Klasse BE
 
 (Fundstelle: BGBl. I 2012, 1357)
@@ -771,8 +723,6 @@ verwendet werden, die hinsichtlich der Gebrauchsfähigkeit,
 insbesondere der Reißlänge, der Bruchdehnung, der Nassfestigkeit, der
 Abriebfestigkeit und der Doppelfalzzahl, mindestens dem Leinwandpapier
 entsprechen und gut bedruckt und beschriftet werden können.
-
-
 
 ### Anlage 2 (zu § 3) Unterrichtsräume
 
@@ -842,18 +792,13 @@ Schreibunterlage (Mindestgröße DIN A 4) vorhanden sein. Weitergehende
 Anforderungen können sich insbesondere aus sicherheits- und
 ordnungsrechtlichen Vorschriften ergeben.
 
-
 ### Anlage 3 (zu § 6 Absatz 1)
 
 (Fundstelle: BGBl. I 2012, 1359)
 
-
-
 ### Anlage 4 (zu § 6 Absatz 2)
 
 (Fundstelle: BGBl. I 2012, 1360)
-
-
 
 ### Anlage 5 (zu § 7)
 

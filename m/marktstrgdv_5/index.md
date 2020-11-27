@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 2 Nr. 3 G v. 26. 6.1992 I 1159
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 1 und 2, des § 6 Abs. 2 Nr. 1 und 2 und
 des § 12 des Marktstrukturgesetzes vom 16. Mai 1969 (Bundesgesetzbl. I
 S. 423) wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit
 Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -52,10 +50,6 @@ können mehrere der folgenden Erzeugnisse zusammengefaßt werden:
 
     *   Wein aus frischen Weintrauben.
 
-
-
-
-
 ## § 2
 
 (1) Die Mindestanbaufläche (§ 3 Abs. 1 Nr. 6 des Gesetzes) wird auf
@@ -65,7 +59,6 @@ können mehrere der folgenden Erzeugnisse zusammengefaßt werden:
 Erzeugergemeinschaften, die aus den von ihren Mitgliedern geernteten
 Trauben verbrauchsfertigen Wein nicht herstellen, die
 Mindestanbaufläche bis auf 30 Hektar Rebfläche herabsetzen.
-
 
 ## § 3
 
@@ -92,17 +85,14 @@ Berechnung der Mindestmenge nach Satz 1 als ein Liefervertrag.
 Gesetzes) wird für Lieferverträge nach Absatz 1 auf fünf Jahre
 festgesetzt.
 
-
 ## § 4
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

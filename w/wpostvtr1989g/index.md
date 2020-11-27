@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1992, 749
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -54,7 +51,6 @@ Weltpostvereins
 nebst Schlußprotokollen wird zugestimmt. Die Verträge nebst
 Schlußprotokollen werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Der Bundesminister für Post und Telekommunikation wird ermächtigt,
@@ -64,7 +60,6 @@ Nummer 3 bis 7 genannten Verträgen sowie Änderungen, die der
 Vollzugsrat des Weltpostvereins vor Zusammentreten des nächsten
 Weltpostkongresses zu diesen Vollzugsordnungen beschließt, in Kraft zu
 setzen.
-
 
 ## Art 3
 
@@ -81,7 +76,6 @@ aus den Tageskursen des Sonderziehungsrechts der zwölf Monate
 berechnet, die am 30. September vor der jeweiligen Festsetzung enden.
 Der jeweils festgesetzte Durchschnittswert ist im Bundesanzeiger
 bekanntzugeben.
-
 
 ## Art 4
 

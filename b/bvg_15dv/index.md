@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 105
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 24a Buchstabe c des Bundesversorgungsgesetzes in der
@@ -25,7 +23,6 @@ Fassung der Bekanntmachung vom 20. Januar 1967 (Bundesgesetzbl. I S.
 der Leistungen des Bundesversorgungsgesetzes vom 16. Dezember 1971
 (Bundesgesetzbl. I S. 1985), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -727,17 +724,12 @@ wie folgt bewertet:
 
     *   48
 
-
-
-
-
 ## § 2
 
 Ist für das Zusammentreffen von Tatbeständen, die in § 1 geregelt
 sind, keine Bewertungszahl vorgesehen, so ist unter Berücksichtigung
 der Bewertungszahlen für die einzelnen Tatbestände eine
 Gesamtbewertungszahl festzusetzen, die 65 nicht überschreiten darf.
-
 
 ## § 3
 
@@ -748,7 +740,6 @@ Einzelfalls bemessene Bewertungszahl von 10 bis 65 festzusetzen.
 Entsprechend ist zu verfahren, wenn Tatbestände, die in § 1 geregelt
 sind, mit solchen Tatbeständen zusammentreffen. Dabei ist die
 Bewertung der in § 1 geregelten Tatbestände zu berücksichtigen.
-
 
 ## § 4
 
@@ -766,23 +757,19 @@ mit Urin- und Stuhlabgang
 sowie
 Beschädigten mit gleichzuachtenden Schädigungsfolgen.
 
-
 ## § 5
 
 -
 
-
 ## § 6
 
 -
-
 
 ## § 7 Berlin-Klausel
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
 Verbindung mit § 91 des Bundesversorgungsgesetzes auch im Land Berlin.
-
 
 ## § 8 Inkrafttreten
 

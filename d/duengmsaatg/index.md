@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   WiGBl: 1949, 8
 
-
-
 ## Eingangsformel
 
 Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
-
 
 ## § 1
 
@@ -41,7 +38,6 @@ unterworfenen Früchte.
 Darlehen, die von dem Eigentümer, Eigenbesitzer, Nutznießer oder
 Pächter zur Bezahlung dieser Lieferung in der für derartige Geschäfte
 üblichen Art aufgenommen werden.
-
 
 ## § 2
 
@@ -71,7 +67,6 @@ Rechten im Rang vor.
 (5) Sind mehrere Gläubiger der in § 1 bezeichneten Art vorhanden, so
 haben ihre Ansprüche untereinander gleichen Rang.
 
-
 ## § 3
 
 (1) Sowohl der Pfandgläubiger als auch der Schuldner kann nach Beginn
@@ -90,13 +85,11 @@ einer einstweiligen Verfügung geltend gemacht werden; der
 Glaubhaftmachung einer Gefährdung im Sinne des § 935 der
 Zivilprozeßordnung bedarf es nicht.
 
-
 ## § 4
 
 Das Pfandrecht erlischt mit dem 1. April des auf die Ernte folgenden
 Jahres, wenn es nicht vorher gerichtlich, insbesondere nach § 805 der
 Zivilprozeßordnung, geltend gemacht worden ist.
-
 
 ## § 5
 
@@ -109,11 +102,9 @@ sind auf die Zwangsvollstreckung wegen Forderungen der in § 1
 bezeichneten Art in die dem Pfandrecht unterliegenden Früchte nicht
 anzuwenden.
 
-
 ## § 6
 
 -
-
 
 ## § 7
 

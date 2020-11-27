@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 17 G v. 20.12.2011 I 2854
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Begriff des Verfolgten
 
@@ -62,7 +59,6 @@ sein oder die Aufhebung oder Feststellung der Rechtsstaatswidrigkeit
 der Maßnahme nach dem Verwaltungsrechtlichen Rehabilitierungsgesetz
 erfolgt sein.
 
-
 ### § 2 Verfolgungszeit
 
 (1) Verfolgungszeit ist
@@ -85,7 +81,6 @@ Beitrittsgebiets, spätestens mit Ablauf des 2. Oktober 1990.
 (2) Die Zeit, während derer der Verfolgte das Fortwirken der
 beruflichen Benachteiligung zu vertreten hat, ist keine
 Verfolgungszeit.
-
 
 ### § 3 Verfolgte Schüler
 
@@ -118,14 +113,12 @@ anzuwenden.
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
-
 ### § 4 Ausschließungsgründe
 
 Leistungen nach diesem Gesetz werden nicht gewährt, wenn der Verfolgte
 gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit
 verstoßen oder in schwerwiegendem Maße seine Stellung zum eigenen
 Vorteil oder zum Nachteil anderer mißbraucht hat.
-
 
 ### § 5 Ausschluß von Ansprüchen
 
@@ -134,10 +127,7 @@ Benachteiligung im Beruf oder in der Ausbildung sind ausgeschlossen,
 wenn sie Verbindlichkeiten im Sinne des Artikels 135a Abs. 2 des
 Grundgesetzes betreffen.
 
-
 ## Zweiter Abschnitt - Bevorzugte berufliche Fortbildung und Umschulung
-
-
 
 ### § 6 Arbeitslosengeld bei beruflicher Weiterbildung
 
@@ -164,7 +154,6 @@ Sozialgesetzbuch sowie das Einkommensteuergesetz und sonstige Gesetze,
 die das Arbeitslosengeld bei beruflicher Weiterbildung oder Bezieher
 dieser Leistung betreffen, entsprechend anzuwenden.
 
-
 ### § 7 Erstattung von Kosten
 
 Verfolgte, die an nach den Vorschriften des Dritten Buches
@@ -175,10 +164,7 @@ Weiterbildungskosten nicht nach dem Dritten Buch Sozialgesetzbuch
 entsprechender Anwendung der §§ 83 bis 87 des Dritten Buches
 Sozialgesetzbuch erstattet.
 
-
 ## Dritter Abschnitt - Ausgleichsleistungen
-
-
 
 ### § 8 Anspruchsvoraussetzungen
 
@@ -228,7 +214,6 @@ Ausgleichsleistungen in Höhe des Differenzbetrages.
 (5) Die Ausgleichsleistungen werden monatlich im voraus, beginnend mit
 dem auf die Antragstellung folgenden Monat, gezahlt.
 
-
 ### § 9 Anrechnungsfreiheit, Unpfändbarkeit
 
 (1) Ausgleichsleistungen nach diesem Abschnitt werden bei
@@ -237,14 +222,9 @@ als Einkommen angerechnet.
 
 (2) Der Anspruch auf die Ausgleichsleistungen ist unpfändbar.
 
-
 ## Vierter Abschnitt - Ausgleich von Nachteilen in der Rentenversicherung
 
-
-
 ### Erster Unterabschnitt - Allgemeines
-
-
 
 #### § 10 Allgemeines
 
@@ -253,10 +233,7 @@ die allgemein anzuwendenden rentenrechtlichen Vorschriften. Leistungen
 nach diesem Abschnitt werden auf Antrag erbracht; im Einzelfall können
 sie auch von Amts wegen erbracht werden.
 
-
 ### Zweiter Unterabschnitt - Renten nach den Vorschriften des Sechsten Buches Sozialgesetzbuch
-
-
 
 #### § 11 Verfolgungszeiten als Pflichtbeitragszeiten
 
@@ -271,7 +248,6 @@ Abs. 2 Satz 1 zugrunde zu legen sind, insgesamt nur insoweit als
 beitragsgeminderte Zeiten, als sich für die Summe aller Entgeltpunkte
 ein höherer Wert ergibt.
 
-
 #### § 12 Verfolgungszeiten als Anrechnungszeiten
 
 (1) Hat der Verfolgte wegen einer Verfolgungsmaßnahme seine
@@ -285,7 +261,6 @@ später wieder aufgenommen und abgeschlossen oder eine neue Ausbildung
 begonnen und abgeschlossen worden, sind die Ausbildungszeiten als
 Anrechnungszeiten bis zum Doppelten der allgemein geltenden
 Höchstdauer anzuerkennen.
-
 
 #### § 13 Entgeltpunkte für Verfolgungszeiten als Pflichtbeitragszeiten
 
@@ -384,10 +359,7 @@ Anwartschaftsüberführungsgesetzes anzuwenden.
 (4) Für jeden Teilzeitraum wird der entsprechende Anteil der Werte
 nach den Absätzen 1 bis 3 zugrunde gelegt.
 
-
 ### Dritter Unterabschnitt - Renten nach den Vorschriften des Beitrittsgebiets
-
-
 
 #### § 14 Verfolgungszeiten als rentenrechtliche Zeiten
 
@@ -434,7 +406,6 @@ zugeordnet, wenn zu Beginn der Verfolgung eine Beschäftigung oder
 selbständige Tätigkeit im Sinne der Nummern 1 bis 5 ausgeübt worden
 ist.
 
-
 #### § 15 Durchschnittseinkommen für Verfolgungszeiten
 
 (1) Bei der Ermittlung des beitragspflichtigen Durchschnittseinkommens
@@ -453,10 +424,7 @@ soweit sie 600 Mark monatlich übersteigen.
 (3) § 309 Abs. 1a des Sechsten Buches Sozialgesetzbuch findet
 entsprechende Anwendung.
 
-
 ### Vierter Unterabschnitt - Übergangsregelungen
-
-
 
 #### § 16 Rentenleistungen vor dem 1. Juli 1994
 
@@ -465,10 +433,7 @@ oder besteht auf Grund der Anerkennung als Verfolgter erstmals
 Anspruch auf eine Rente, ist die Rente in neuer Höhe für die Zeit des
 Bezugs, frühestens für die Zeit vom 1. Juli 1990 an, zu leisten.
 
-
 ## Fünfter Abschnitt - Zuständigkeit und Verfahren
-
-
 
 ### § 17 Rehabilitierungsbescheinigung und Behördenzuständigkeit
 
@@ -487,7 +452,6 @@ ausgegangen ist. Sind hiernach Rehabilitierungsbehörden mehrerer
 Länder zuständig, so entscheidet die Behörde, die zuerst mit der Sache
 befaßt worden ist.
 
-
 ### § 18 Vorläufige Rehabilitierungsbescheinigung
 
 (1) Erfordert die Erteilung einer Bescheinigung nach § 17 Abs. 1
@@ -503,14 +467,12 @@ die Verfolgung als Schüler glaubhaft zu machen. Die
 Rehabilitierungsbehörde kann zu diesem Zweck auch eine Versicherung an
 Eides Statt verlangen und abnehmen.
 
-
 ### § 19 Verwendung personenbezogener Daten
 
 Personenbezogene Daten aus einem beruflichen Rehabilitierungsverfahren
 dürfen auch für andere Verfahren zur Rehabilitierung, Wiedergutmachung
 oder Gewährung von Leistungen nach dem Häftlingshilfegesetz soweit
 erforderlich verarbeitet und genutzt werden.
-
 
 ### § 20 Antrag
 
@@ -529,7 +491,6 @@ erforderlichen Entscheidung gestellt werden.
 stellen. Die Antragsfrist gilt auch dann als gewahrt, wenn der Antrag
 fristgemäß bei einer anderen inländischen Behörde oder bei einem
 deutschen Gericht gestellt worden ist.
-
 
 ### § 21 Inhalt des Antrags
 
@@ -552,10 +513,6 @@ Der Antrag soll enthalten
 
 6.  eine Erklärung, ob und wo der Antragsteller schon früher einen Antrag
     gestellt hat.
-
-
-
-
 
 ### § 22 Inhalt der Bescheinigung
 
@@ -632,7 +589,6 @@ erforderlich.
 § 60 des Bundesausbildungsförderungsgesetzes zuständigen Behörden sind
 an die in der Bescheinigung enthaltenen Feststellungen gebunden.
 
-
 ### § 23 Antragsfrist für Leistungen nach dem Zweiten und Dritten Abschnitt
 
 Der Antrag auf Leistungen nach dem Zweiten oder Dritten Abschnitt kann
@@ -641,7 +597,6 @@ Leistungen nach dem Dritten Abschnitt kann auch noch innerhalb von
 sechs Monaten nach dem Zeitpunkt gestellt werden, von dem an der
 Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus
 eigener Versicherung bezieht.
-
 
 ### § 24 Zuständigkeit für Leistungen nach dem Zweiten und Dritten Abschnitt
 
@@ -652,7 +607,6 @@ in dem der Betroffene seinen Wohnsitz hat, gewährt.
 (2) Für die Gewährung von Ausgleichsleistungen nach dem Dritten
 Abschnitt sind die örtlichen Träger der Sozialhilfe (§ 3 Abs. 2, §§ 98
 und 99 Abs. 1 des Zwölften Buches Sozialgesetzbuch) zuständig.
-
 
 ### § 25 Verwaltungsverfahren
 
@@ -679,7 +633,6 @@ Vollstreckungsgesetzes.
 (4) Für das Verfahren nach dem Zweiten und Dritten Abschnitt gelten
 das Erste und Zehnte Buch Sozialgesetzbuch.
 
-
 ### § 26 Kosten
 
 Das Verwaltungsverfahren vor den Rehabilitierungsbehörden
@@ -687,7 +640,6 @@ einschließlich des Widerspruchsverfahrens ist kostenfrei. Wurde ein
 Antrag im Verwaltungsverfahren oder ein Widerspruch als offensichtlich
 unbegründet zurückgewiesen, so können dem Antragsteller die Kosten
 auferlegt werden.
-
 
 ### § 27 Rechtsweg
 
@@ -706,10 +658,7 @@ Arbeit oder die Träger der Rentenversicherung tätig werden,
 entscheiden über öffentlich-rechtliche Streitigkeiten die Gerichte der
 Sozialgerichtsbarkeit.
 
-
 ## Sechster Abschnitt - Kostenregelung
-
-
 
 ### § 28 Kosten für Leistungen nach dem Zweiten Abschnitt
 
@@ -718,16 +667,12 @@ dem Zweiten Abschnitt entstehen, trägt der Bund 60 vom Hundert.
 
 (2) Verwaltungskosten werden nicht erstattet.
 
-
 ### § 29 Kosten für Leistungen nach dem Dritten Abschnitt
 
 Von den Aufwendungen, die den Ländern durch Leistungen nach dem
 Dritten Abschnitt entstehen, trägt der Bund 60 vom Hundert.
 
-
 ## Siebter Abschnitt - Übergangsregelungen
-
-
 
 ### § 30
 

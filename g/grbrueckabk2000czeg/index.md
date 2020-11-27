@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 2344
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -34,7 +31,6 @@ Zusammenschluss der deutschen Autobahn A 17 und der tschechischen
 Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung einer
 Grenzbrücke wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +45,6 @@ Tschechischen Republik.
 (2) Für die in Artikel 9 Abs. 2 Satz 1 des Vertrages genannten Waren
 werden außer Zöllen keine Einfuhrabgaben erhoben. Dies gilt nicht bei
 der Einfuhr von Waren für die öffentlichen Bauverwaltungen.
-
 
 ## Art 3
 

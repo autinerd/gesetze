@@ -20,8 +20,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 1246
 
-
-
 ## Präambel
 
 In der Erwägung, daß mit der Wiederherstellung der Einheit
@@ -49,7 +47,6 @@ werden,
 hat der Bundestag mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 (1) Den Streitkräften der Union der Sozialistischen Sowjetrepubliken
@@ -66,7 +63,6 @@ Suspendierung oder beim Wegfall der besonderen Rechte und
 Verantwortlichkeiten dieser Staaten in bezug auf Berlin vorläufig bis
 zum Inkrafttreten endgültiger Abkommen der weitere befristete
 Aufenthalt in Berlin gestattet.
-
 
 ## Art 2
 
@@ -151,10 +147,6 @@ q)  die Vereinbarung, daß ein Vertrag unter Berücksichtigung des
     erreichten Verhandlungsstandes baldmöglichst unterzeichnet und
     ratifiziert wird.
 
-
-
-
-
 ## Art 3
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
@@ -192,10 +184,6 @@ c)  Regelungen betreffend die Bewegungen der Streitkräfte der
 
 d)  Modalitäten des befristeten Aufenthalts und Abzugs.
 
-
-
-
-
 ## Art 4
 
 (1) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung
@@ -229,17 +217,12 @@ e)  Beendigung besatzungsrechtlicher Besitz- und Nutzungsverhältnisse,
 f)  Abwicklung der persönlichen Angelegenheiten von Mitgliedern der
     alliierten Streitkräfte sowie deren Angehörigen.
 
-
-
-
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die aufgrund
 dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des
 Dritten Überleitungsgesetzes.
-
 
 ## Art 6
 

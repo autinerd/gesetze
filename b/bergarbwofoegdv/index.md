@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1966, 549
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 Buchstabe d Satz 3 des Gesetzes zur Förderung
@@ -28,7 +26,6 @@ Bergarbeiterwohnungsbaus im Kohlenbergbau vom 24. August 1965
 Wohnungswesen und Städtebau im Einvernehmen mit dem Bundesminister für
 Wirtschaft und dem Bundesminister für Arbeit und Sozialordnung sowie
 mit Zustimmung des Bundesrates:
-
 
 ## § 1 Zumutbare Bedingungen für eine Weiterbeschäftigung im Kohlenbergbau zur Erhaltung der Wohnungsberechtigung
 
@@ -78,7 +75,6 @@ Arbeitsplatzes verbunden sind, bleiben außer Betracht, soweit sie
 durch Anpassungsbeihilfen oder sonstige Hilfsmaßnahmen ausgeglichen
 werden.
 
-
 ## § 2 Geltung in Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -87,11 +83,9 @@ des Dritten Gesetzes zur Änderung des Gesetzes zur Förderung des
 Bergarbeiterwohnungsbaus im Kohlenbergbau vom 24. August 1965
 (Bundesgesetzbl. I S. 909) auch im Land Berlin.
 
-
 ## § 3 Geltung im Saarland
 
 Diese Verordnung gilt nicht im Saarland.
-
 
 ## § 4 Inkrafttreten
 

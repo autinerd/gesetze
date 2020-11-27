@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 784
 
-
-
 ## Eingangsformel
 
 Auf Grund
@@ -52,14 +50,12 @@ Auf Grund
 
 verordnet die Bundesregierung:
 
-
 ## § 1 Anpassung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2003 an 26,13 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2003 an 22,97
 Euro.
-
 
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
@@ -73,7 +69,6 @@ Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs.
 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor
 dem 1. Juli 2003 eingetreten sind, werden zum 1. Juli 2003 angepasst.
 Der Anpassungsfaktor beträgt 1,0119.
-
 
 ## § 3 Pflegegeld in der Unfallversicherung
 
@@ -89,10 +84,6 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     Sozialgesetzbuch anzuwenden ist, zwischen 256 Euro und 1.023 Euro
     monatlich.
 
-
-
-
-
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte
@@ -101,11 +92,9 @@ beträgt vom 1. Juli 2003 an 12,06 Euro.
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der
 Landwirte beträgt vom 1. Juli 2003 an 10,60 Euro.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2003 in Kraft.
-
 
 ## Schlussformel
 

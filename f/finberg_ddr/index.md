@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 463
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Grundsätze der Finanzbereinigung
 
@@ -91,7 +88,6 @@ Vermögensgesetz) bleiben unberührt.
 Rechtsnachfolger der in Absatz 2 genannten Unternehmen, wenn die
 Rechtsnachfolge nach dem 24. Juni 1992 stattgefunden hat. In allen
 übrigen Fällen der Rechtsnachfolge gelten die Absätze 1 und 3 bis 5.
-
 
 ## § 2 Vorschriften im Sinne des § 1
 
@@ -218,10 +214,6 @@ der ehemaligen Deutschen Demokratischen Republik:
     Januar 1987 (herausgegeben vom Sekretariat des Ministerrats der DDR
     1987).
 
-
-
-
-
 ## § 3 Bilanzrechtliche Folgen
 
 Sind Forderungen und Verbindlichkeiten im Sinne des § 1 in einer gemäß
@@ -230,7 +222,6 @@ gilt die Eröffnungsbilanz entsprechend § 36 Abs. 1, 2 und 4 Satz 1 und
 2 D-Markbilanzgesetz insoweit als geändert, als diese Forderungen und
 Verbindlichkeiten auf Grund dieses Gesetzes erlöschen. § 50 Abs. 3
 D-Markbilanzgesetz ist entsprechend anzuwenden.
-
 
 ## § 4 Verfahrensvorschriften
 
@@ -266,7 +257,6 @@ verlangen. § 162 der Abgabenordnung findet entsprechende Anwendung.
 der Finanzen unter Anrechnung der Verbindlichkeiten des Unternehmens
 im Sinne des § 1 Abs. 1. Überwiegen die Verbindlichkeiten, bleibt das
 Unternehmen zu ihrer Erfüllung verpflichtet.
-
 
 ## § 5 Kosten
 
@@ -331,7 +321,6 @@ die Einnahmen für diesen Zweck nicht benötigt werden, erhalten die in
 Absatz 2 Satz 1 genannten Länder davon einen Anteil nach dem in Absatz
 3 genannten Verhältnis.
 
-
 ## § 6 Von der Anwendung des Gesetzes ausgeschlossene Unternehmen
 
 Dieses Gesetz findet keine Anwendung auf Geldinstitute,
@@ -344,7 +333,6 @@ Massenorganisationen der ehemaligen Deutschen Demokratischen Republik
 sowie auf Unternehmen, die bis zum 31. März 1990 oder zu einem
 früheren Zeitpunkt zum Bereich "Kommerzielle Koordinierung" gehört
 haben.
-
 
 ## § 7 Inkrafttreten
 

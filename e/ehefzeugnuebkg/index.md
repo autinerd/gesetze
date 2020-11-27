@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1997, 1086
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -30,7 +27,6 @@ Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
 München vom 5. September 1980 über die Ausstellung von
 Ehefähigkeitszeugnissen wird zugestimmt. Das Übereinkommen wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -43,7 +39,6 @@ aufzunehmenden Angaben zu erlassen.
 Verwaltungsvorschriften erläßt das Bundesministerium des Innern im
 Benehmen mit dem Bundesministerium der Justiz und mit Zustimmung des
 Bundesrates.
-
 
 ## Art 3
 

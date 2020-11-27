@@ -22,7 +22,6 @@ Neugefasst durch
 Geändert durch
 :   Art. 8 G v. 19.6.2006 I 1305
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für die nicht in die Rentenversicherung
@@ -31,7 +30,6 @@ des Anspruchs- und Anwartschaftsüberführungsgesetzes. Erfaßt sind die
 Leistungen nach § 9 Abs. 1 Nr. 1 und 2 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes (Versorgungsleistungen) sowie
 Empfänger solcher Leistungen (Versorgungsempfänger).
-
 
 ## § 2 Einkommensanrechnung
 
@@ -46,7 +44,6 @@ Sozialgesetzbuch und damit vergleichbares Erwerbsersatzeinkommen im
 Beitrittsgebiet. § 18a Abs. 3 Satz 2 und 3 des Vierten Buches
 Sozialgesetzbuch gilt entsprechend. Außer Betracht bleiben
 Entgeltersatzleistungen nach dem Dritten Buch Sozialgesetzbuch.
-
 
 ## § 3 Anrechenbares Einkommen
 
@@ -81,7 +78,6 @@ findet auch Anwendung, wenn vor Begründung eines neuen
 Arbeitsverhältnisses mindestens in einem Kalendermonat kein Einkommen
 erzielt wurde.
 
-
 ## § 4 Einkommensänderung
 
 (1) Einkommensänderungen sind vom 1. Januar eines jeden Kalenderjahres
@@ -95,7 +91,6 @@ werden.
 
 (3) Bei Einkommensminderung gilt § 18d Abs 2 Satz 1 des Vierten Buches
 Sozialgesetzbuch entsprechend.
-
 
 ## § 5 Anrechnungsfreibetrag
 
@@ -141,7 +136,6 @@ mindestens jedoch der Betrag, der bei Anspruch auf diese Leistung nach
 § 11 Abs. 7 des Anspruchs- und Anwartschaftsüberführungsgesetzes am 1.
 Januar 1992 anrechnungsfrei war oder gewesen wäre.
 
-
 ## § 6 Ruhen der Versorgungsleistung
 
 Die Versorgungsleistung ruht in Höhe des Betrages, um den das
@@ -149,7 +143,6 @@ anrechenbare Einkommen den Anrechnungsfreibetrag übersteigt. Die
 Anrechnung von Einkommen hat Vorrang vor einer Anrechnung von Renten
 wegen verminderter Erwerbsfähigkeit nach § 11 Abs. 1 Satz 2 des
 Anspruchs- und Anwartschaftsüberführungsgesetzes.
-
 
 ## § 7 Vorbehalt
 
@@ -160,7 +153,6 @@ wegen verminderter Erwerbsfähigkeit und für den Wegfall der
 Versorgungsleistung mit Beginn einer Rente wegen Alters oder wegen
 Vollendung des 65. Lebensjahres sowie für den Wegfall aufgrund des §
 13 des Anspruchs- und Anwartschaftsüberführungsgesetzes.
-
 
 ## § 8 Mitwirkungspflichten, Verfahren
 
@@ -194,13 +186,11 @@ es nicht der vorherigen Anhörung des Versorgungsempfängers.
 (5) Die Auskunftspflichten Dritter nach § 9 Abs. 4 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes bleiben unberührt.
 
-
 ## § 8a Leistungen öffentlich-rechtlicher Art
 
 Den Renten wegen Alters oder wegen verminderter Erwerbsfähigkeit im
 Sinne der §§ 6 bis 8 stehen ähnliche Leistungen öffentlich-rechtlicher
 Art gleich.
-
 
 ## § 9 Rückforderung von Versorgungsleistungen
 
@@ -211,11 +201,9 @@ Rückforderung kann aus Billigkeitsgründen mit Zustimmung der obersten
 Dienstbehörde oder einer von ihr bestimmten Stelle ganz oder teilweise
 abgesehen werden.
 
-
 ## § 10
 
 (weggefallen)
-
 
 ## § 11
 

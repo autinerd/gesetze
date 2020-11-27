@@ -23,7 +23,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 35 G v. 25.6.2001 I 1215
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -31,7 +30,6 @@ Verordnungen des Rates und der Kommission der Europäischen
 Gemeinschaften über Vermarktungsnormen, die im Rahmen der Gemeinsamen
 Marktorganisation für Fischereierzeugnisse und Erzeugnisse der
 Aquakultur erlassen worden sind.
-
 
 ## § 2 Marktnotierungen
 
@@ -45,7 +43,6 @@ zugrunde zu legen, die in der Verordnung (EG) Nr. 2406/96 des Rates
 vom 26. November 1996 über gemeinsame Vermarktungsnormen für bestimmte
 Fischereierzeugnisse (ABl. EG Nr. L 334 S. 1) in der jeweils geltenden
 Fassung festgelegt sind.
-
 
 ## § 3 Überwachung
 
@@ -62,7 +59,6 @@ zuständig für die Überwachung der Einhaltung der Vorschriften
 
 bei der Einfuhr von Fischereierzeugnissen aus dritten Ländern in das
 Inland, solange die Fischereierzeugnisse Nichtgemeinschaftswaren sind.
-
 
 ## § 4 Ordnungswidrigkeiten
 
@@ -177,7 +173,6 @@ Inland, solange die Fischereierzeugnisse Nichtgemeinschaftswaren sind.
 (2) Die Ordnungswidrigkeit kann nach § 1 Abs. 3 Satz 1 Nr. 2 des
 Handelsklassengesetzes mit einer Geldbuße bis zu zehntausend Euro
 geahndet werden.
-
 
 ## § 5 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
 

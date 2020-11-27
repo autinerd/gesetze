@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3694
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 2 Satz 2 des Bundespolizeibeamtengesetzes,
@@ -24,9 +23,7 @@ der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
 S. 1666) neu gefasst worden ist, verordnet das Bundesministerium des
 Innern:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Bachelorstudium
 
@@ -34,7 +31,6 @@ Das Bachelorstudium „Kriminalvollzugsdienst im Bundeskriminalamt“ an
 der Fachhochschule des Bundes für öffentliche Verwaltung
 (Fachhochschule) ist der Vorbereitungsdienst für die Laufbahn des
 gehobenen Kriminaldienstes des Bundes.
-
 
 ### § 2 Ziele des Studiums
 
@@ -49,14 +45,12 @@ und internationalen Raum. Die Studierenden sollen ihre Kompetenzen
 weiterentwickeln, um den ständig wachsenden Herausforderungen des
 Polizeivollzugsdienstes gerecht zu werden.
 
-
 ### § 3 Laufbahnbefähigung, Hochschulgrad
 
 Der erfolgreiche Abschluss des Studiums vermittelt die
 Laufbahnbefähigung für den gehobenen Kriminaldienst des Bundes.
 Zugleich wird der akademische Grad „Bachelor of Arts“ (B. A.)
 verliehen.
-
 
 ### § 4 Dienstbehörden
 
@@ -69,7 +63,6 @@ neben der Dienstaufsicht der Präsidentin oder des Präsidenten des
 Bundeskriminalamts auch der Dienstaufsicht der Leitungen dieser
 Behörden.
 
-
 ### § 5 Einstellungsvoraussetzungen
 
 Bewerberinnen und Bewerber können eingestellt werden, wenn sie die
@@ -80,7 +73,6 @@ Beamte im Polizeivollzugsdienst gestellt werden. Zusätzlich sollen die
 Bewerberinnen und Bewerber ausreichende Englischkenntnisse (Niveau B1
 des Gemeinsamen Europäischen Referenzrahmens für Sprachen) nachweisen
 und die Fahrerlaubnis der Klasse B besitzen.
-
 
 ### § 6 Auswahlverfahren
 
@@ -137,14 +129,11 @@ Wiederbestellung ist zulässig.
 (5) Bei Bedarf können mehrere Kommissionen eingerichtet werden. In
 diesen Fällen sind gleiche Auswahlmaßstäbe sicherzustellen.
 
-
 ### § 7 Urlaub
 
 Die Fachhochschule bestimmt die Zeiten des Erholungsurlaubs.
 
-
 ## Abschnitt 2 - Studienordnung
-
 
 ### § 8 Dauer und Aufbau des Studiums
 
@@ -210,7 +199,6 @@ Bundeskriminalamt und bei Kriminalpolizeidienststellen der Länder.
    (3) Je Semester erwerben die Studierenden 30 Leistungspunkte (Credit
 Points) nach dem Europäischen System zur Übertragung und Akkumulierung
 von Studienleistungen (ECTS).
-
 
 ### § 9 Studieninhalte, Module
 
@@ -334,7 +322,6 @@ Bundeskriminalamt“.
 (4) Die Teilnahme an den Lehrveranstaltungen und Trainingsübungen der
 Module ist verpflichtend.
 
-
 ### § 10 Berufspraktische Studienzeiten
 
 (1) Die Fachhochschule bestimmt und überwacht die Gestaltung und die
@@ -356,9 +343,7 @@ Dienstgeschäften entlastet, soweit dies erforderlich ist. Die
 Ausbildenden informieren die Ausbildungsverantwortlichen regelmäßig
 über den erreichten Ausbildungsstand.
 
-
 ## Abschnitt 3 - Prüfungen
-
 
 ### § 11 Laufbahnprüfung
 
@@ -368,7 +353,6 @@ Abschlussprüfung. Die Laufbahnprüfung dient dazu, die Eignung und
 Befähigung der Studierenden für den gehobenen Kriminaldienst des
 Bundes festzustellen.
 
-
 ### § 12 Zuständigkeit
 
 (1) Für die Organisation und Durchführung der Laufbahnprüfung ist das
@@ -377,7 +361,6 @@ Fachhochschule übertragen werden.
 
 (2) Für die Prüfungen in den Modulen 1 bis 5 ist die Fachhochschule
 zuständig.
-
 
 ### § 13 Prüfende, Prüfungskommissionen
 
@@ -436,7 +419,6 @@ Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Eine
 Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
 Stimme der oder des Vorsitzenden den Ausschlag.
 
-
 ### § 14 Modulprüfungen
 
 (1) In jedem Modul ist eine Prüfung abzulegen (Modulprüfung).
@@ -486,7 +468,6 @@ den Studierenden zu besprechen.
 (5) Die Modulprüfungen sollen spätestens eine Woche vor der
 Präsentation der Bachelorarbeit abgeschlossen sein.
 
-
 ### § 15 Bachelorarbeit
 
 (1) Durch die Bachelorarbeit sollen die Studierenden nachweisen, dass
@@ -520,7 +501,6 @@ Abgabe müssen die Studierenden schriftlich versichern, dass sie die
 Bachelorarbeit selbständig und ohne fremde Mitwirkung verfasst und nur
 die angegebenen Quellen und Hilfsmittel benutzt haben. Das
 Bewertungsverfahren darf insgesamt höchstens sechs Wochen dauern.
-
 
 ### § 16 Mündliche Abschlussprüfung
 
@@ -562,7 +542,6 @@ zugelassen werden.
 Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission
 zu unterschreiben. Die Prüfung muss bis zum Ende des
 Vorbereitungsdienstes abgeschlossen sein.
-
 
 ### § 17 Bewertung der Prüfungen und Prüfungsteile
 
@@ -716,7 +695,6 @@ diese für die Bewertung der Module wie folgt gewichtet:
 (5) Eine Prüfung ist bestanden, wenn sie mit mindestens fünf
 Rangpunkten bewertet ist.
 
-
 ### § 18 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem
@@ -731,7 +709,6 @@ unverzüglich ein ärztliches Zeugnis vorgelegt wird. Auf Verlangen der
 nach § 12 zuständigen Stelle ist ein amtsärztliches Zeugnis oder das
 Zeugnis einer Ärztin oder eines Arztes vorzulegen, die oder der von
 der Dienstbehörde beauftragt worden ist.
-
 
 ### § 19 Täuschung, Ordnungsverstoß
 
@@ -765,7 +742,6 @@ Tag der mündlichen Abschlussprüfung für nicht bestanden erklären.
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 bis 4
 anzuhören.
 
-
 ### § 20 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Prüfung in den Modulen 1 bis 11 und 13 bis
@@ -796,7 +772,6 @@ Absatz 1 Satz 2 und Absatz 3 Satz 5 gelten entsprechend.
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
 ### § 21 Bestehen der Laufbahnprüfung, Gesamtnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die Modulprüfungen, die
@@ -825,7 +800,6 @@ Rangpunktzahl mit Dezimalstellen von 50 bis 99 für die Bildung der
 Gesamtnote aufgerundet. Im Übrigen bleiben Dezimalstellen für die
 Bildung der Gesamtnote unberücksichtigt. Die Gesamtnote wird nach § 17
 Absatz 2 Spalte 2 und 3 festgelegt.
-
 
 ### § 22 Abschlusszeugnis, Diploma Supplement
 
@@ -886,7 +860,6 @@ bestandene Laufbahnprüfung sowie eine Bescheinigung über die
 erbrachten Studienleistungen, aus der die absolvierten Module, deren
 Bewertung und die erworbenen Leistungspunkte hervorgehen.
 
-
 ### § 23 Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen nach § 14 Absatz 2 Satz 1,
@@ -899,9 +872,7 @@ mindestens fünf und höchstens zehn Jahre aufzubewahren.
 (2) Die Beamtinnen und Beamten können nach Abschluss der
 Laufbahnprüfung Einsicht in ihre Prüfungsakten nehmen.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
 
 ### § 24 Übergangsregelung
 
@@ -911,7 +882,6 @@ Laufbahn, Ausbildung und Prüfung für den gehobenen Kriminaldienst des
 Bundes vom 7. September 2005 (BGBl. I S. 2758), die zuletzt durch
 Artikel 3 Absatz 4 der Verordnung vom 12. Februar 2009 (BGBl. I S.
 320) geändert worden ist, weiter anzuwenden.
-
 
 ### § 25 Inkrafttreten, Außerkrafttreten
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 96 G v. 22.12.2011 I 3044
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1, des § 15 Satz 1, des § 16 und des § 17
@@ -29,7 +28,6 @@ Bekanntmachung vom 27. August 1986 (BGBl. I S. 1397) verordnet das
 Bundesministerium für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit den Bundesministerien der Finanzen und für
 Wirtschaft:
-
 
 ## § 1 Anwendungsbereich
 
@@ -48,7 +46,6 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung
 
 
 in der jeweils geltenden Fassung.
-
 
 ## § 2 Zuständigkeit
 
@@ -86,7 +83,6 @@ Abs. 4 der Verordnung (EG) Nr. 1359/2007.
 Verfahrens bei der Ausfuhrerstattung die Vorschriften der
 Ausfuhrerstattungsverordnung.
 
-
 ## § 3 Mindestmenge
 
 Die Bundesanstalt trifft die in § 2 Abs. 1 genannten Maßnahmen nur,
@@ -95,7 +91,6 @@ falls je Schlachtstätte wenigstens 120 Viertel, 60
 bereitgehalten werden und dies der Bundesanstalt rechtzeitig
 mitgeteilt worden ist. Die Bundesanstalt kann Ausnahmen von Satz 1
 zulassen.
-
 
 ## § 4 Gewinnung, Verpackung und Nämlichkeitssicherung der Teilstücke
 
@@ -134,7 +129,6 @@ Beilegung eines Etiketts in die Einzelverpackung jedes Teilstücks
 gekennzeichnet werden. Das Etikett hat einem von der Bundesanstalt im
 Bundesanzeiger bekannt gemachten Muster zu entsprechen.
 
-
 ## § 5 Pflichten des Zerlegebetriebes
 
 Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
@@ -155,14 +149,9 @@ Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
     Bundesanstalt im Bundesanzeiger veröffentlichten Muster angefertigt
     wird.
 
-
-
-
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7 Inkrafttreten
 
@@ -174,7 +163,6 @@ Die in Satz 2 genannte Verordnung ist für die Gewährung der
 Sondererstattung nach den in § 1 genannten Rechtsakten weiter
 anzuwenden, die vor dem Tage des Inkrafttretens der in Satz 1
 genannten Verordnung beantragt worden ist.
-
 
 ## Anlage
 

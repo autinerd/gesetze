@@ -22,14 +22,12 @@ Neugefasst durch
 Geändert durch
 :   Art. 1 V v. 12.9.2012 I 2014
 
-
 ## Eingangsformel
 
 Auf Grund des § 62 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26.
 April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
 
@@ -71,10 +69,6 @@ Verfügungsberechtigter über Schlachttiere vorsätzlich oder fahrlässig
 2.  entgegen Anhang V Nummer 11.3 Satz 1 in Verbindung mit Satz 2
     Buchstabe a oder b ein Kontrollsystem für die Entfernung der
     Wirbelsäule nicht oder nicht richtig einrichtet.
-
-
-
-
 
 ## § 2 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 852/2004
 
@@ -137,10 +131,6 @@ fahrlässig
 8.  entgegen Artikel 4 Absatz 2 in Verbindung mit Anhang II Kapitel IX
     Nummer 2 oder 8 einen Rohstoff, eine Zutat oder einen dort genannten
     Stoff nicht richtig lagert.
-
-
-
-
 
 ## § 3 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 853/2004
 
@@ -639,10 +629,6 @@ fahrlässig
     5 und 7 der Verordnung (EG) Nr. 854/2004, ein
     Genusstauglichkeitskennzeichen entfernt.
 
-
-
-
-
 ## § 4 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 854/2004
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
@@ -650,7 +636,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig einer vollziehbaren Anordnung nach Artikel 8 in
 Verbindung mit Anhang IV Kapitel II Nummer 2 Satz 1 der Verordnung
 (EG) Nr. 854/2004 zuwiderhandelt.
-
 
 ## § 5 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2073/2005
 
@@ -666,7 +651,6 @@ Verbindung mit Absatz 2 Satz 1 der Verordnung (EG) Nr. 2073/2005 ein
 Erzeugnis oder eine Partie Lebensmittel nicht oder nicht rechtzeitig
 vom Markt nimmt oder nicht oder nicht rechtzeitig zurückruft.
 
-
 ## § 6 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2074/2005
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
@@ -675,7 +659,6 @@ oder fahrlässig entgegen Anhang II Abschnitt I Kapitel II Nummer 1
 Satz 3 in Verbindung mit Satz 4 oder Nummer 2 Satz 1 der Verordnung
 (EG) Nr. 2074/2005 Fisch oder Fischfilets nicht, nicht richtig oder
 nicht rechtzeitig einer Sichtkontrolle unterzieht.
-
 
 ## § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2075/2005
 
@@ -692,7 +675,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Artikel 2 Absatz 2 Satz 1 der Verordnung (EG)
 Nr. 2075/2005 einen Schlachtkörper zerschneidet.
 
-
 ## § 8 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 669/2009
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
@@ -702,14 +684,12 @@ Nr. 669/2009 als Lebensmittelunternehmer oder als sein Vertreter das
 dort genannte Dokument nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig übermittelt.
 
-
 ## § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1135/2009
 
 Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 2 Absatz
 1 der Verordnung (EG) Nr. 1135/2009 ein dort genanntes Erzeugnis
 einführt.
-
 
 ## § 10 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1151/2009
 
@@ -720,7 +700,6 @@ oder fahrlässig entgegen Artikel 3 Absatz 6 der Verordnung (EG) Nr.
 Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
 macht.
 
-
 ## § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1152/2009
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
@@ -728,7 +707,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen Artikel 5 Unterabsatz 2 der Verordnung (EG)
 Nr. 1152/2009 das dort genannte Dokument nicht, nicht richtig, nicht
 vollständig oder nicht rechtzeitig übermittelt.
-
 
 ## § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 931/2011
 
@@ -739,7 +717,6 @@ Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 931/2011 nicht
 sicherstellt, dass der zuständigen Behörde eine dort genannte
 Information zur Verfügung gestellt wird.
 
-
 ## § 13 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 284/2012
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
@@ -748,18 +725,15 @@ oder fahrlässig entgegen Artikel 9 der Verordnung (EU) Nr. 284/2012
 als Lebensmittelunternehmer oder als sein Vertreter eine Mitteilung
 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
 ## § 14 Verweisungen auf Vorschriften der Europäischen Gemeinschaft
 
 Verweisungen in dieser Verordnung auf Rechtsakte der Europäischen
 Gemeinschaft beziehen sich auf die in der Anlage jeweils angegebene
 Fassung.
 
-
 ## § 15 Inkrafttreten; Außerkrafttreten
 
 (Inkrafttreten; Außerkrafttreten)
-
 
 ## Anlage (zu § 14) Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
 

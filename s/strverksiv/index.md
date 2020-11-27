@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 491 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 3 und 4, des § 5
@@ -26,7 +25,6 @@ Abs. 1 Satz 1, des § 19 Abs. 8 und des § 29 Nr. 2 des
 Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom
 8\. Oktober 1968 (BGBl. I S. 1082) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
-
 
 ## § 1 Verkehr geschlossener Verbände
 
@@ -37,7 +35,6 @@ Annäherung freie Bahn zu schaffen. Der Vorrang nach § 38 Abs. 1 der
 Straßenverkehrs-Ordnung mit blauem Blinklicht und Einsatzhorn gilt
 auch gegenüber diesen Verbänden. Im übrigen bleiben die Vorschriften
 der Straßenverkehrs-Ordnung unberührt.
-
 
 ## § 2 Beschränkung der Benutzung von Straßen oder Straßenstrecken
 
@@ -70,15 +67,10 @@ treffen, wenn dies der Sicherstellung des weiträumigen Verkehrs dient.
 3.  die in § 35 Abs. 5a und 6 der Straßenverkehrs-Ordnung genannten
     Fahrzeuge, soweit ihr Einsatz dies erfordert.
 
-
-
-
-
 ## § 3 Erlaubnispflicht
 
 Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis,
 soweit § 4 nichts anderes bestimmt.
-
 
 ## § 4 Erlaubnisfreie Fahrten
 
@@ -153,7 +145,6 @@ der Verkehrslage dringend geboten ist. In dringenden Fällen kann auch
 die untere Straßenverkehrsbehörde dies vorübergehend für Fahrten
 anordnen, die in ihrem Bezirk angetreten werden.
 
-
 ## § 5 Erteilung der Erlaubnis
 
 (1) Die Erlaubnis nach § 3 wird erteilt, wenn die Benutzung regelmäßig
@@ -178,7 +169,6 @@ Satz 1 genannten Behörde nicht oder nicht rechtzeitig erteilt werden
 kann, ist auch die untere Straßenverkehrsbehörde des Aufenthaltsortes
 zuständig.
 
-
 ## § 6 Erlaubnis für Fahrten mit Nutzfahrzeugen
 
 (1) Die untere Verkehrsbehörde kann mit Zustimmung der höheren
@@ -197,7 +187,6 @@ Fahrzeugen, ausgenommen die nach der Straßenverkehrs-Zulassungs-
 Ordnung von den Vorschriften über das Zulassungsverfahren befreiten
 Fahrzeuge sowie die Zugmaschinen in der Land- und Forstwirtschaft, die
 von der Kraftfahrzeugsteuer befreit sind.
-
 
 ## § 7 Erteilung der Erlaubnis für Fahrten mit Nutzfahrzeugen
 
@@ -219,7 +208,6 @@ auszustellen. Absatz 2 Satz 2 gilt entsprechend.
 
 (5) Zuständig für die Erteilung der Erlaubnis ist die untere
 Verkehrsbehörde, die die Anordnung nach § 6 Abs. 1 erlassen hat.
-
 
 ## § 8 Betriebs- und Beförderungspflichten im Linienverkehr
 
@@ -269,7 +257,6 @@ betroffenen Verkehrsraum erhoben werden.
 
 (5) Im übrigen gilt, soweit sich aus den Absätzen 1 bis 4 nichts
 anderes ergibt, das Personenbeförderungsgesetz entsprechend.
-
 
 ## § 9 Zuwiderhandlungen
 
@@ -341,7 +328,6 @@ bis 5 die untere Straßenverkehrsbehörde, in den Fällen des Absatzes 1
 Nr. 6 bis 9 die untere Verkehrsbehörde, in den Fällen des Absatzes 1
 Nr. 10 die höhere Verkehrsbehörde.
 
-
 ## § 10 Zuständigkeiten
 
 (1) In Ländern, in denen höhere Verkehrsbehörden oder höhere
@@ -362,7 +348,6 @@ Verkehrsbehörde.
 
 wahrgenommen werden.
 
-
 ## § 11 Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
@@ -372,7 +357,6 @@ folgenden Kalendermonats in Kraft.
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn und soweit dies das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung bestimmt.
-
 
 ## Anlage 1 (zu § 5 Abs. 2)
 
@@ -401,7 +385,6 @@ Auflagen:
 der unteren Straßenverkehrsbehörde)
 -------------
 \*) Nichtzutreffendes streichen
-
 
 ## Anlage 2 (zu § 7 Abs. 2)
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 26.6.2012 I 1375
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Absatz 10 Satz 2 bis 7 in Verbindung mit Absatz 2
@@ -26,7 +25,6 @@ Satz 2 und Absatz 11 des Restrukturierungsfondsgesetzes, der durch
 Artikel 6 des Gesetzes vom 22. Juni 2011 (BGBl. I S. 1126) geändert
 worden ist, verordnet die Bundesregierung unter Wahrung der Rechte des
 Bundestages:
-
 
 ## § 1 Jahresbeitrag
 
@@ -144,7 +142,6 @@ um 50 Prozent. Die Beitragspflicht eines Kreditinstituts endet mit
 Ablauf des Kalenderjahres, in dem die Erlaubnis des Kreditinstituts
 aufgehoben oder zurückgegeben worden ist.
 
-
 ## § 2 Sonderbeiträge
 
 (1) Sonderbeiträge gemäß § 12 Absatz 3 Satz 2 des
@@ -200,7 +197,6 @@ oder der fällige Sonderbeitrag innerhalb eines Jahres von einem
 Kreditinstitut nicht geleistet wird, stellt die Anstalt eine Erhöhung
 des Mittelbedarfs fest. Im letzteren Fall bleibt die Verpflichtung des
 Kreditinstituts zur Leistung unberührt.
-
 
 ## § 3 Zumutbarkeitsgrenze, Mindestbeitrag und Belastungsobergrenze
 
@@ -277,7 +273,6 @@ zusammen ein Jahr, ergeben sich die für die Berechnung der
 Jahresbeiträge maßgeblichen Zahlen aus der Addition der in den
 Jahresabschlüssen der Rumpfgeschäftsjahre angegebenen Zahlen.
 
-
 ## § 4 Mitteilungspflichten
 
 (1) Die Kreditinstitute haben der Anstalt die in § 1 Absatz 2 Satz 2
@@ -343,7 +338,6 @@ und 2a des Handelsgesetzbuchs sowie bei einer Sparkasse die
 Prüfungsstelle eines Sparkassen- und Giroverbandes nach § 340k Absatz
 3 des Handelsgesetzbuchs.
 
-
 ## § 5 Berichtspflichten bei Erreichen der Zielgröße, Aussetzung der Beiträge
 
 Soweit der Fonds Mittel in Höhe von mehr als 70 Milliarden Euro
@@ -354,7 +348,6 @@ Benehmen mit der Bundesanstalt für Finanzdienstleistungsaufsicht und
 der Deutschen Bundesbank dem Bundesministerium der Finanzen Vorschläge
 zur eventuellen Anpassung der Höhe der zu erhebenden Jahresbeiträge
 vor.
-
 
 ## § 6 Fälligkeit der Beitragsforderungen, Säumniszuschläge, Beitreibung
 
@@ -376,13 +369,11 @@ des Vollstreckungsschuldners zuständige Hauptzollamt.
 stunden, wenn die Einziehung bei Fälligkeit eine nicht unerhebliche
 Härte für das Kreditinstitut bedeuten würde.
 
-
 ## § 7 Festsetzungs- und Zahlungsverjährung
 
 Hinsichtlich der Festsetzungs- und Zahlungsverjährung sind die §§ 169
 bis 171 und 228 bis 232 der Abgabenordnung anzuwenden. Die
 Festsetzungsfrist beträgt vier Jahre.
-
 
 ## § 8 Übergangsregelungen
 
@@ -415,11 +406,9 @@ mehr zu erheben.
 (4) § 1 Absatz 2 Satz 2 Nummer 1 in der ab dem 30. Juni 2012 geltenden
 Fassung ist erstmals für das Beitragsjahr 2012 anzuwenden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

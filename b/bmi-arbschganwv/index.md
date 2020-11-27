@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 87 G v. 21.6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom
@@ -28,12 +27,10 @@ Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom
 Innern im Einvernehmen mit dem Bundesministerium für Arbeit und
 Sozialordnung:
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für den Geschäftsbereich des Bundesministeriums
 des Innern.
-
 
 ## § 2 Pflichten des Dienstherrn
 
@@ -42,7 +39,6 @@ Arbeitsschutzes für die Beschäftigten im Geschäftsbereich des
 Bundesministeriums des Innern auch dann zu treffen, wenn die Ausübung
 der in dieser Verordnung genannten Tätigkeiten nicht ohne ein
 Abweichen von Vorschriften des Arbeitsschutzgesetzes möglich ist.
-
 
 ## § 3 Tätigkeiten
 
@@ -56,7 +52,6 @@ erforderlichen Tätigkeiten (Einsatzvorbereitungstätigkeiten), z. B.
 Übungen unter Einsatzbedingungen, sind Tätigkeiten im Sinne dieser
 Verordnung.
 
-
 ## § 4 Voraussetzungen für ein Abweichen von Vorschriften des Arbeitsschutzgesetzes
 
 (1) Soweit öffentliche Belange dies zwingend erfordern, insbesondere
@@ -67,7 +62,6 @@ Abweichen ist nur solange gestattet, wie diese Sachlage gegeben ist.
 
 (2) Die näheren Voraussetzungen für ein Abweichen nach Absatz 1 werden
 in den jeweiligen Dienstvorschriften festgelegt.
-
 
 ## § 5 Gewährleistung der Sicherheit und des Gesundheitsschutzes
 
@@ -95,7 +89,6 @@ sicherheitstechnischen und arbeitsmedizinischen Regeln zu
 berücksichtigen. Dasselbe gilt für Entscheidungen der vor Ort
 Verantwortlichen, wenn die zu leistende Einsatztätigkeit in
 Dienstvorschriften nicht erfasst ist.
-
 
 ## § 6 Inkrafttreten
 

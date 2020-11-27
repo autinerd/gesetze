@@ -18,27 +18,19 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 284 V v. 31.10.2006 I 2407
 
-
 ## Abschnitt I -
-
-
 
 ## (XXXX) Art 1 bis 3 (weggefallen)
 
-
 ## Abschnitt II - Änderung des Beförderungssteuergesetzes
-
-
 
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
@@ -73,18 +65,13 @@ als Personenkraftwagen behandelt werden.
 
 (3)
 
-
 ## Art 4
 
 -
 
-
 ## Abschnitt III - Änderung des Mineralölsteuergesetzes
 
-
-
 ## (XXXX) Art 1 bis 3 (weggefallen)
-
 
 ## Art 4
 
@@ -148,10 +135,7 @@ Verfahren auch Selbstverwaltungsorganen, z. B. Berufsgenossenschaften,
 
 (5)
 
-
 ## Abschnitt IV - Finanzierung des Baues von Bundesautobahnen
-
-
 
 ## Art 1 Gesellschaft für Autobahnfinanzierung
 
@@ -168,11 +152,9 @@ Bundesautobahnen eingegangenen Verpflichtungen übernimmt.
 Bundesfernstraßen im Sinne des Bundesfernstraßengesetzes vom 6. August
 1953 (Bundesgesetzbl. I S. 903).
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Bürgschaftsermächtigung
 
@@ -182,7 +164,6 @@ des Baues von Bundesautobahnen eingeht, Sicherheitsleistungen oder
 Gewährleistungen bis zum Betrag oder Gegenwert von fünfhundert
 Millionen Deutsche Mark in inländischer oder ausländischer Währung zu
 übernehmen.
-
 
 ## Art 4 Mittelverwendung und Kostenerstattung
 
@@ -206,7 +187,6 @@ verpflichten,
 Bundesautobahnen den nach Artikel 90 des Grundgesetzes für die
 Baudurchführung zuständigen Stellen als Zuschuß zur Verfügung.
 
-
 ## Art 5 Rechnungslegung
 
 (1) Die Gesellschaft rechnet die ihr zugewiesenen Mittel mit der
@@ -217,7 +197,6 @@ Baumittel mit der Gesellschaft unmittelbar ab.
 (2) Die Rechnung und die Verwendung der Baumittel werden durch den
 Bundesrechnungshof geprüft.
 
-
 ## Art 6 Steuerliche Behandlung
 
 (1) Auf Schuldverpflichtungen, welche die Gesellschaft für die
@@ -226,10 +205,7 @@ und § 12 Abs. 2 Ziff. 1 des Gewerbesteuergesetzes nicht anzuwenden.
 
 (2)
 
-
 ## Abschnitt V - Finanzierung der Erneuerung von Anlagen der Deutschen Bundesbahn
-
-
 
 ## Art 1 Gesellschaft für Bundesbahnfinanzierungen
 
@@ -248,11 +224,9 @@ eingegangenen Verpflichtungen übernimmt.
 dem Bundesbahngesetz vom 13. Dezember 1951 (Bundesgesetzbl. I S. 955)
 werden hierdurch nicht berührt.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Bürgschaftsermächtigung
 
@@ -262,7 +236,6 @@ von Verkehrsanlagen und rollendem Material der Deutschen Bundesbahn
 eingeht, Sicherheitsleistungen oder Gewährleistungen bis zum Betrag
 oder Gegenwert von siebenhundertfünfzig Millionen Deutsche Mark in
 inländischer oder ausländischer Währung zu übernehmen.
-
 
 ## Art 4 Mittelverwendung und Kostenerstattung
 
@@ -296,14 +269,12 @@ ist und der Genehmigung durch das Bundesministerium für Verkehr, Bau
 und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der
 Finanzen bedarf.
 
-
 ## Art 5 Rechnungslegung
 
 Die Gesellschaft rechnet die ihr zugewiesenen Mittel mit der
 überweisenden Stelle des Bundes ab. Die Rechnung und die Verwendung
 der Darlehnsmittel durch die Deutsche Bundesbahn werden vom
 Bundesrechnungshof geprüft.
-
 
 ## Art 6 Übergang von Ansprüchen auf den Bund
 
@@ -320,7 +291,6 @@ die auf den Bund übergegangenen Forderungen gegen die Deutsche
 Bundesbahn teilweise oder ganz zu erlassen, soweit dies zur Gesundung
 der Finanzen der Deutschen Bundesbahn erforderlich ist.
 
-
 ## Art 7 Steuerliche Behandlung
 
 (1) Auf Schuldverpflichtungen, welche die Gesellschaft für die
@@ -329,7 +299,6 @@ Bundesbahn eingeht, sind § 8 Ziffer 1 und § 12 Abs. 2 Ziffer 1 des
 Gewerbesteuergesetzes nicht anzuwenden.
 
 (2)
-
 
 ## Art 8 Übergangsregelung
 
@@ -341,29 +310,21 @@ Bundesbahn.
 (2) Die Bestimmungen der Artikel 4, 5 und 6 Abs. 2 gelten
 entsprechend.
 
-
 ## Abschnitt VI -
-
-
 
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
 -
 
-
 ## Abschnitt VII -
-
-
 
 ## Abschnitt VIII - Geltung im Land Berlin
 
@@ -373,10 +334,7 @@ S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## Abschnitt IX - Inkrafttreten
-
-
 
 ## Art 1
 
@@ -384,17 +342,14 @@ Das Gesetz tritt - soweit nicht in den Artikeln 2 bis 4 für die
 Abschnitte I bis III etwas anderes bestimmt ist - am Tage nach seiner
 Verkündung in Kraft.
 
-
 ## Art 2
 
 -
-
 
 ## Art 3
 
 Abschnitt II dieses Gesetzes tritt mit dem Beginn des auf seine
 Verkündung folgenden zweiten Kalendermonats in Kraft.
-
 
 ## Art 4
 

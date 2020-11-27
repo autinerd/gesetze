@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 30.8.1971 I 1426
 
-
 ## § 1
 
 Die bisherigen Reichsautobahnen sind mit Wirkung vom 24. Mai 1949 als
@@ -30,12 +29,10 @@ Reichsautobahnen begründet oder bestimmt worden sind. Dies gilt auch
 für Rechte, die durch Gesetz für unübertragbar oder nur auf Grund
 besonderer Vereinbarung für übertragbar erklärt sind.
 
-
 ## § 2
 
 Treuhandschaften der Länder an diesem Eigentum und diesen
 Vermögensrechten erlöschen mit dem Inkrafttreten dieses Gesetzes.
-
 
 ## § 3
 
@@ -46,7 +43,6 @@ Reichsstraßen zu dienen bestimmt waren, und der Forderungen des
 Reiches auf Übertragung oder Beschränkung des Eigentums an einem
 Grundstück zugunsten von Reichsstraßen. § 1 Satz 3 ist anzuwenden.
 
-
 ## § 4
 
 Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über
@@ -54,14 +50,12 @@ Eigentum und Vermögensrechte der in § 1 und § 3 bezeichneten Art vor
 dem Inkrafttreten dieses Gesetzes getroffen worden sind, bleibt
 unberührt.
 
-
 ## § 5
 
 § 1 und § 3 gelten nicht für Eigentum und Vermögensrechte, die nach
 dem 30. Januar 1933 einer Gewerkschaft, Genossenschaft, politischen
 Partei oder sonstigen demokratischen Organisation weggenommen worden
 sind.
-
 
 ## § 6
 
@@ -80,7 +74,6 @@ entstehen, durch die Zahlung einer Pauschale ab, die für Kosten der
 Entwurfsbearbeitung 2 v. H. der Baukosten, für Kosten der Bauaufsicht
 1 v. H. der Baukosten beträgt.
 
-
 ## § 7
 
 (1) Die Bestimmungen des § 3 und des § 6 Abs. 1 gelten nicht für
@@ -92,7 +85,6 @@ war.
 
 (2)
 
-
 ## § 8
 
 (1) Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten,
@@ -100,7 +92,6 @@ die unter § 1 oder § 3 fallen, bleiben bestehen.
 
 (2) Die Regelung der schuldrechtlichen Verbindlichkeiten des
 Unternehmens "Reichsautobahnen" bleibt vorbehalten.
-
 
 ## § 9
 
@@ -117,13 +108,11 @@ Deutschland (Bundesstraßenverwaltung)".
 (2) Dies gilt für sonstige im Grundbuch eingetragene Rechte
 entsprechend.
 
-
 ## § 10
 
 Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung
 dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben
 außer Ansatz.
-
 
 ## § 11
 

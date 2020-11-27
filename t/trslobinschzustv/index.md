@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 879
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 5 Satz 2 des Gesetzes vom 14. Dezember 1989 zu
@@ -25,7 +23,6 @@ dem Abkommen vom 26. Januar 1988 zwischen der Regierung der
 Bundesrepublik Deutschland und der Regierung der Tschechoslowakischen
 Sozialistischen Republik über den Binnenschiffsverkehr (BGBl. 1989 II
 S. 1035) verordnet das Bundesministerium für Verkehr:
-
 
 ## § 1
 
@@ -37,7 +34,6 @@ Gesetzes vom 14. Dezember 1989 zu dem Abkommen vom 26. Januar 1988
 zwischen der Regierung der Bundesrepublik Deutschland und der
 Regierung der Tschechoslowakischen Sozialistischen Republik über den
 Binnenschiffsverkehr (BGBl. 1989 II S. 1035).
-
 
 ## § 2
 

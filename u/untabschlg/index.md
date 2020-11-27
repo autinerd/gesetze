@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 Abs. 10 G v. 20.6.2011 I 1114
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anspruch auf Unterstützung
 
@@ -71,7 +69,6 @@ durch die Schädigung bedingten wirtschaftlichen Folgen.
 (3) Ein Anspruch auf Unterstützung besteht nicht, wenn dem
 Geschädigten ein zivilrechtlicher Schadensersatzanspruch zusteht.
 
-
 ## § 2 Begriffsbestimmungen
 
 (1) Soweit in diesem Gesetz der Begriff Grad der Schädigungsfolgen
@@ -81,11 +78,9 @@ Bundesversorgungsgesetzes.
 (2) Das Bruttoeinkommen im Sinne dieses Gesetzes bemißt sich nach § 9
 der Berufsschadensausgleichsverordnung.
 
-
 ## § 3 Umfang der Unterstützung
 
 Die Unterstützung besteht aus laufenden und einmaligen Zahlungen.
-
 
 ## § 4 Laufende Zahlungen
 
@@ -158,7 +153,6 @@ weiter gewährt, bis sie durch Anpassungen erreicht sind. Soweit
 Leistungen nach diesem Gesetz mit dem Folgemonat der Bekanntgabe nicht
 mehr zustehen, sind bereits gewährte Leistungen nicht zu erstatten.
 
-
 ## § 5 Einmalige Zahlungen
 
 (1) Eine einmalige Zahlung erhalten Geschädigte, die wegen der
@@ -195,14 +189,12 @@ Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August
 Abschlagszahlungen sind anzurechnen, vor dem 1. Juli 1990 gezahlte
 Beträge im Verhältnis 2:1.
 
-
 ## § 6 Härteregelung
 
 Soweit sich aus den Vorschriften dieses Gesetzes eine besondere Härte
 ergibt, kann  mit Zustimmung der obersten Landesbehörde ein Ausgleich
 gewährt werden. Eine Härte kann insbesondere vorliegen, wenn eine
 bisherige Dauerleistung durch die Anwendung dieses Gesetzes wegfällt.
-
 
 ## § 7 Antragstellung, Änderung, Beendigung und Zahlung
 
@@ -227,7 +219,6 @@ S. 885, 1220) mit Maßgaben fortgilt, bis zum 31. Dezember 1990
 abschließend geregelte Ansprüche können nicht wieder aufgenommen
 werden.
 
-
 ## § 8 Zuständige Behörde
 
 (1) Die Unterstützung nach diesem Gesetz obliegt den für die
@@ -237,7 +228,6 @@ Durchführung des Bundesversorgungsgesetzes zuständigen Behörden. Die
 (2) Zur Gewährung der Unterstützung ist das Land verpflichtet, in dem
 der Geschädigte zum Zeitpunkt der medizinischen Betreuungsmaßnahme
 seinen Wohnsitz oder gewöhnlichen Aufenthalt hatte.
-
 
 ## § 9 Verfahren, Rechtsweg
 
@@ -249,7 +239,6 @@ anzuwenden.
 
 (2) Über Streitigkeiten auf Grund dieses Gesetzes entscheiden die
 Gerichte der Sozialgerichtsbarkeit.
-
 
 ## § 10 Schlußbestimmungen, Inkrafttreten
 

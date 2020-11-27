@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 29.8.2008 I 1793
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 3 in Verbindung mit § 54 des Atomgesetzes in
@@ -26,14 +25,12 @@ der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053),
 zuletzt geändert durch Gesetz vom 20. August 1980 (BGBl. I S. 1556),
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1 Anwendungsbereich
 
 Die nach den §§ 23, 23a, 23b und 24 des Atomgesetzes zuständigen
 Behörden erheben Kosten (Gebühren und Auslagen) nach § 21 des
 Atomgesetzes und nach dieser Verordnung. Ergänzend gelten die
 Vorschriften des Verwaltungskostengesetzes.
-
 
 ## § 2 Höhe der Gebühren
 
@@ -96,7 +93,6 @@ In den Fällen des Satzes 1 Nr. 1 kann für eine Teilgenehmigung eine
 anteilige Gebühr, orientiert an den Kosten der Teilerrichtung, erhoben
 werden.
 
-
 ## § 3 Gebührenbemessung
 
 (1) Kosten der Errichtung sind die Aufwendungen des Antragstellers für
@@ -105,11 +101,9 @@ die nach dem Atomgesetz genehmigungsbedürftigen Anlagenteile.
 (2) Aufwendungen für den Grunderwerb, die Entwicklung und Vorplanung
 gehören nicht zu den Kosten der Errichtung.
 
-
 ## § 4
 
 (weggefallen)
-
 
 ## § 5 Kosten der Aufsicht
 
@@ -188,7 +182,6 @@ nachfolgenden Gebührenfestsetzung zu verrechnen sind.
 (4) Zur Abgeltung mehrfacher gleichartiger Amtshandlungen nach Absatz
 1 Nr. 1 bis 7 können Pauschgebühren festgesetzt werden.
 
-
 ## § 5a Kosten der staatlichen Verwahrung
 
 (1) Die Gebühr für die staatliche Verwahrung von Kernbrennstoffen nach
@@ -242,7 +235,6 @@ des gesamten Jahres in feststehender Höhe entstehen, können zur
 Deckung dieses Aufwands Gebühren bereits am Ende eines jeden Monats
 erhoben werden.
 
-
 ## § 6 Befreiung und Ermäßigung
 
 (1) Von der Erhebung einer Gebühr kann ganz oder teilweise abgesehen
@@ -253,18 +245,15 @@ Interesses oder der Billigkeit geboten ist.
 das Bundesamt für Strahlenschutz von der Zahlung der Gebühren nach § 2
 Satz 1 Nr. 7 nicht befreit.
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## § 8 Verjährung
 
 Der Anspruch auf Zahlung von Kosten verjährt in drei Jahren nach
 Bekanntgabe der Kostenentscheidung, spätestens mit dem Ablauf des
 dreißigsten Jahres nach der Entstehung.
-
 
 ## § 9 Übergangsregelung
 
@@ -278,12 +267,10 @@ Vorschriften sind auch auf die am 21. Dezember 2004 anhängigen
 Verwaltungsverfahren anzuwenden, soweit in diesem Zeitpunkt die Kosten
 nicht bereits festgesetzt sind.
 
-
 ## § 10 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 58 des Atomgesetzes auch im Land Berlin.
-
 
 ## § 11 Inkrafttreten
 

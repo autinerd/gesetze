@@ -19,17 +19,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 216 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -88,7 +85,6 @@ Landesbehörden unterrichten das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz über die Zuteilung der
 Kennzeichen an die Fischereifahrzeuge.
 
-
 ## Art 3
 
 Die Vorschriften der Anlage II des Übereinkommens in der jeweils
@@ -99,7 +95,6 @@ Seeschiffahrtstraßen-Ordnung vom 3. Mai 1971 (Bundesgesetzbl. I S.
 641), geändert durch die Erste Verordnung zur Änderung der
 Seeschiffahrtstraßen-Ordnung vom 7. Juli 1972 (Bundesgesetzbl. I S.
 1169), sowie in den Häfen anzuwenden.
-
 
 ## Art 4
 
@@ -134,12 +129,10 @@ Strafgesetzbuches gleich.
 (4) Wohnräume dürfen nur zur Verhütung dringender Gefahren für die
 öffentliche Sicherheit und Ordnung betreten werden.
 
-
 ## Art 5
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
-
 
 ## Art 6
 
@@ -210,10 +203,6 @@ Euro geahndet werden.
     ohne Zustimmung des Bundesrates auf nachgeordnete Behörden seines
     Bereiches übertragen.
 
-
-
-
-
 ## Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -221,7 +210,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 8
 

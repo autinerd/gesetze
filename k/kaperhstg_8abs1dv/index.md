@@ -20,7 +20,6 @@ Fundstelle
 V aufgeh. durch
 :   Art. 4 Abs. 2 Satz 1 G v. 22.12.1983 I 1592 mWv 29.12.1983
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 2 des Gesetzes über steuerrechtliche Maßnahmen
@@ -28,7 +27,6 @@ bei Erhöhung des Nennkapitals aus Gesellschaftsmitteln und bei
 Überlassung von eigenen Aktien an Arbeitnehmer in der Fassung der
 Bekanntmachung vom 2. November 1961 (Bundesgesetzbl. I S. 1917)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Festlegung
 
@@ -39,7 +37,6 @@ Vermeidung einer Nachversteuerung auf den Namen des Arbeitnehmers
 dadurch festzulegen, daß sie für die Dauer der Sperrfrist in
 Verwahrung gegeben werden.
 
-
 ## § 2 Sperrfrist
 
 Die Sperrfrist beginnt für Aktien, die vor dem 1. Juli eines
@@ -47,7 +44,6 @@ Kalenderjahrs überlassen worden sind, am 1. Januar und für Aktien, die
 nach dem 30. Juni eines Kalenderjahrs überlassen worden sind, am 1.
 Juli dieses Kalenderjahrs. Die Sperrfrist endet mit Ablauf von fünf
 Jahren seit Beginn des Tages, an dem die Sperrfrist begonnen hat.
-
 
 ## § 3 Verwahrung
 
@@ -87,7 +83,6 @@ in Verwahrung genommen worden sind.
 
 (4) Ein Wechsel des Verwahrers innerhalb der Sperrfrist ist zulässig.
 
-
 ## § 4 Anzeigepflichten
 
 (1) Legt der Arbeitnehmer die Bescheinigung nach § 3 Abs. 3 nicht
@@ -106,7 +101,6 @@ und 2 erneut in Verwahrung gegeben worden sind.
 (3) Veräußert der Arbeitnehmer Aktien vor Ablauf der Sperrfrist, so
 hat er dies seinem Wohnsitzfinanzamt innerhalb eines Monats
 anzuzeigen.
-
 
 ## § 5 Nachversteuerung
 
@@ -135,7 +129,6 @@ Einkommensteuer gehört der steuerfrei gebliebene Vorteil zum
 Arbeitslohn des Kalenderjahrs, in das die Veräußerung (Absätze 1 und
 2) fällt.
 
-
 ## § 6 Anwendungsbereich und Übergangsregelung
 
 (1) Diese Verordnung ist in allen Fällen anzuwenden, in denen Aktien
@@ -152,13 +145,11 @@ Kreditinstitut verwahrt, so ist die Bescheinigung nach § 3 Abs. 3
 innerhalb von drei Monaten nach dem Inkrafttreten dieser Verordnung
 vorzulegen.
 
-
 ## § 7 Anwendung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 9 des
 Gesetzes auch im Land Berlin.
-
 
 ## § 8 Inkrafttreten
 

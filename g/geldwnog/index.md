@@ -17,11 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1953, 127
 
-
-
 ## Abschnitt I - Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens
-
-
 
 ### § 1
 
@@ -56,7 +52,6 @@ Vorschriften insoweit ändern, als diese Vorschriften das von den
 Geldinstituten, Versicherungsunternehmen und Bausparkassen zu
 beachtende Verfahren, insbesondere die Dauer von Fristen, betreffen.
 
-
 ### § 2
 
 Die Bundesregierung wird ermächtigt, die von der Bank deutscher Länder
@@ -68,7 +63,6 @@ Dreiunddreißigsten Durchführungsverordnung zum Umstellungsgesetz
 (Bausparkassenverordnung) erlassenen Vorschriften durch
 Rechtsverordnung zu ändern, zu ergänzen und aufzuheben.
 
-
 ### § 3
 
 Die Bundesregierung wird ermächtigt, die Abwicklung der Deutschen
@@ -78,12 +72,10 @@ unter einer vom Reich gegebenen Garantie oder einer sonstigen
 Haftungsbeteiligung des Reiches abgeschlossen haben, durch
 Rechtsverordnung zu regeln.
 
-
 ### § 4
 
 Auf Grund dieses Gesetzes ergehende Rechtsverordnungen, die von den
 Ländern ausgeführt werden, bedürfen der Zustimmung des Bundesrates.
-
 
 ### § 5
 
@@ -93,20 +85,15 @@ in der geltenden Fassung mit neuem Datum, unter neuer Überschrift und
 in neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten
 des Wortlauts zu beseitigen.
 
-
 ### § 6
 
 -
 
-
 ## Abschnitt II - Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften
-
-
 
 ### § 7
 
 -
-
 
 ### § 8
 
@@ -179,10 +166,7 @@ verbleiben, nach §
 wenn die Neufestsetzung des Nennkapitals vor Ablauf des 30. September
 1953 zur Eintragung in das Handelsregister angemeldet worden ist.
 
-
 ## Abschnitt III - Schlußvorschriften
-
-
 
 ### § 9
 
@@ -196,7 +180,6 @@ entsprechenden Vorschriften.
 
 (2) In den auf Grund des Gesetzes zu erlassenden Rechtsverordnungen
 ist zu bestimmen, mit welcher Maßgabe diese in Berlin anzuwenden sind.
-
 
 ### § 10
 

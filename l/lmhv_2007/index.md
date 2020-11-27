@@ -19,15 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 14.7.2010 I 929
 
-
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung dient der Regelung spezifischer
 lebensmittelhygienischer Fragen sowie der Umsetzung und Durchführung
 von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen
 Union auf dem Gebiet der Lebensmittelhygiene.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -71,7 +68,6 @@ Union auf dem Gebiet der Lebensmittelhygiene.
 
 entsprechend.
 
-
 ## § 3 Allgemeine Hygieneanforderungen
 
 Lebensmittel dürfen nur so hergestellt, behandelt oder in den Verkehr
@@ -82,7 +78,6 @@ Futtermittelgesetzbuches darf nur so umgegangen werden, dass von ihnen
 zu gewinnende Lebensmittel bei Beachtung der im Verkehr erforderlichen
 Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt
 sind.
-
 
 ## § 4 Schulung
 
@@ -110,10 +105,6 @@ Tätigkeit
 
 
 2.  über nach Absatz 1 erforderliche Fachkenntnisse verfügen.
-
-
-
-
 
 ## § 5 Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse
 
@@ -150,10 +141,6 @@ Wildes gelegen sind.
 3.  Eiern: Eier aus eigener Erzeugung von Betrieben mit weniger als 350
     Legehennen.
 
-
-
-
-
 ## § 6 Herstellung bestimmter traditioneller Lebensmittel
 
 Für Lebensmittelunternehmer, die ein in Anlage 3 Spalte 1 genanntes
@@ -161,7 +148,6 @@ Lebensmittel herstellen, gelten die in Anlage 3 Spalte 2 jeweils
 bezeichneten Anforderungen des Anhangs II der Verordnung (EG) Nr.
 852/2004 nicht hinsichtlich der in Anlage 3 Spalte 3 jeweils
 bezeichneten Räume oder Geräte und Ausrüstungen.
-
 
 ## § 6a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
 
@@ -171,7 +157,6 @@ jeweils mehr als 60 Tagen herstellen, gelten die in Anlage 3a Spalte 2
 jeweils bezeichneten Anforderungen der Verordnung (EG) Nr. 852/2004
 nicht, soweit die in Anlage 3a Spalte 3 jeweils bezeichneten
 Anforderungen erfüllt werden.
-
 
 ## § 7 Hygienische Anforderungen an die Beförderung von flüssigen Ölen und Fetten in Seeschiffen
 
@@ -196,7 +181,6 @@ der Anlage 4 entsprach, mit sich zu führen.
 
 (4) Die in den Absätzen 2 und 3 vorgeschriebenen Nachweise sind der
 zuständigen Behörde auf Verlangen vorzulegen.
-
 
 ## § 8 Hygienische Anforderungen an die Beförderung von Rohzucker in Seeschiffen
 
@@ -246,7 +230,6 @@ nach Absatz 2 Satz 1 der für die Raffination verantwortlichen Person
 (5) Die in den Absätzen 2 und 3 vorgeschriebenen Nachweise sind der
 zuständigen Behörde auf Verlangen vorzulegen.
 
-
 ## § 9 Zulassung zur Ausfuhr
 
 (1) Soweit ein Drittland die Einfuhr von Lebensmitteln von einer
@@ -274,7 +257,6 @@ werden, dass die Zulassung widerrufen werden kann, wenn der Betrieb
 die Anforderungen nach Absatz 2 nicht erfüllt. Im Übrigen bleiben die
 verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und
 Widerruf unberührt.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -319,10 +301,6 @@ oder fahrlässig
 9.  entgegen § 8 Abs. 4 Satz 1 oder 3 einen dort genannten Nachweis nicht
     oder nicht mindestens ein Jahr aufbewahrt.
 
-
-
-
-
 ## Anlage 1 (zu § 4 Abs. 1 Satz 1) Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
 
 ( Fundstelle: BGBl. I 2008, 107 )
@@ -358,10 +336,6 @@ oder fahrlässig
 
 
 10. Reinigung und Desinfektion
-
-
-
-
 
 ## Anlage 2 (zu § 5 Abs. 1 Satz 1) Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
 
@@ -451,13 +425,6 @@ oder fahrlässig
         mit Primärerzeugnissen umgehen, wenn nicht ausgeschlossen werden kann,
         dass Primärerzeugnisse direkt oder indirekt kontaminiert werden
         können.
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu § 6) Traditionelle Lebensmittel
 
@@ -606,9 +573,6 @@ oder fahrlässig
     *   Geräte und Ausrüstungen aus Holz, Eisen oder offenporigem Stein, die
         zur Herstellung der Erzeugnisse verwendet werden
 
-
-
-
 ## Anlage 3a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft (zu § 6a)
 
 (Fundstelle : BGBl. I 2010, 612 - 613)
@@ -665,9 +629,6 @@ oder fahrlässig
     *   Ausreichende Verfügbarkeit von Wasser, das einmal jährlich auf die
         Einhaltungen der Anforderungen der Trinkwasserverordnung untersucht
         wird.
-
-
-
 
 ## Anlage 4 (zu § 7 Abs. 1 und 3) Hygienische Anforderungen an die Beförderung von Ölen und Fetten in Seeschiffen
 

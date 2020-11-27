@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 6.12.2011 I 2515
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 11a Abs. 5, des § 34d Abs. 8 und des § 34e Abs. 3 Satz
@@ -31,10 +29,7 @@ mit dem Bundesministerium der Justiz, dem Bundesministerium der
 Finanzen und dem Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz:
 
-
 ## Abschnitt 1 - Sachkundeprüfung
-
-
 
 ### § 1 Grundsatz
 
@@ -102,7 +97,6 @@ die Sachkundeprüfung sind an den Vorgaben der Anlage 1 auszurichten.
 unselbständig ununterbrochen als Versicherungsvermittler oder als
 Versicherungsberater tätig waren, bedürfen keiner Sachkundeprüfung.
 
-
 ### § 2 Zuständige Stelle und Prüfungsausschuss
 
 (1) Der Prüfling kann bei jeder Industrie- und Handelskammer zur
@@ -123,7 +117,6 @@ Industrie- und Handelskammern können einen gemeinsamen
 Prüfungsausschuss errichten. § 1 Abs. 4a des Gesetzes zur vorläufigen
 Regelung des Rechts der Industrie- und Handelskammern bleibt
 unberührt.
-
 
 ### § 3 Verfahren
 
@@ -215,7 +208,6 @@ Möglichkeit der Wiederholungsprüfung hinzuweisen ist.
 (9) Die Einzelheiten des Prüfungsverfahrens regelt die Kammer durch
 Satzung.
 
-
 ### § 4 Gleichstellung anderer Berufsqualifikationen
 
 (1) Folgende Berufsqualifikationen oder deren Nachfolgeberufe werden
@@ -290,7 +282,6 @@ der Regel voraus, dass zusätzlich eine mindestens dreijährige
 Berufserfahrung im Bereich Versicherungsvermittlung oder -beratung
 nachgewiesen wird.
 
-
 ### § 4a Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
 (1) Unterscheiden sich die den Nachweisen nach § 13c Absatz 1 der
@@ -308,10 +299,7 @@ einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung
 
 (4) (weggefallen)
 
-
 ## Abschnitt 2 - Vermittlerregister
-
-
 
 ### § 5 Bestandteile und Inhalt des Registers
 
@@ -392,7 +380,6 @@ der Familienname und Vornamen der natürlichen Personen, die innerhalb
 des für die Geschäftsführung verantwortlichen Organs für die
 Vermittlertätigkeiten zuständig sind, gespeichert.
 
-
 ### § 6 Eintragung
 
 (1) Der Eintragungspflichtige hat der Registerbehörde die Angaben nach
@@ -414,7 +401,6 @@ Fall des § 80 Abs. 4 des Versicherungsaufsichtsgesetzes zusätzlich das
 Versicherungsunternehmen unverzüglich über eine Datenlöschung nach §
 11a Abs. 3 Satz 2 der Gewerbeordnung.
 
-
 ### § 7 Eingeschränkter Zugang
 
 Hinsichtlich der Angaben nach § 5 Satz 1 Nr. 2 und 8 ist ein
@@ -422,10 +408,7 @@ automatisierter Abruf nicht zulässig. Schriftlich darf die
 Registerbehörde insoweit nur den in § 11a Abs. 7 der Gewerbeordnung
 genannten Behörden Auskunft erteilen.
 
-
 ## Abschnitt 3 - Anforderungen an die Haftpflichtversicherung nach § 34d Abs. 2 Nr. 3 der Gewerbeordnung
-
-
 
 ### § 8 Geltungsbereich
 
@@ -433,7 +416,6 @@ Die Haftpflichtversicherung nach § 34d Abs. 2 Nr. 3 der Gewerbeordnung
 muss für das gesamte Gebiet der Mitgliedstaaten der Europäischen Union
 und der anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum gelten.
-
 
 ### § 9 Umfang der Versicherung
 
@@ -479,7 +461,6 @@ wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere
 Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und
 dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
-
 ### § 10 Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen nach § 113 des
@@ -502,10 +483,7 @@ Versicherungsunternehmen das Datum des Eingangs der Anzeige nach Satz
 Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach
 § 34d Abs. 1 und § 34e Abs. 1 der Gewerbeordnung zuständige Behörde.
 
-
 ## Abschnitt 4 - Informationspflichten
-
-
 
 ### § 11 Information des Versicherungsnehmers
 
@@ -588,10 +566,7 @@ spätestens mit dem Versicherungsschein dem Versicherungsnehmer in
 Textform zur Verfügung zu stellen; dies gilt nicht für Verträge über
 die vorläufige Deckung bei Pflichtversicherungen.
 
-
 ## Abschnitt 5 - Zahlungssicherung des Gewerbetreibenden zugunsten des Versicherungsnehmers; Überwachung des Provisionsannahmeverbots für Versicherungsberater
-
-
 
 ### § 12 Sicherheitsleistung, Versicherung
 
@@ -666,13 +641,11 @@ vom 9. Dezember 2002 über Versicherungsvermittlung (ABl. EG Nr. L 9 S.
 3) notwendige Schutz des Versicherungsnehmers durch die Vorschriften
 des anderen Staates sichergestellt ist.
 
-
 ### § 13 Nachweis
 
 Soweit der Gewerbetreibende nach § 12 Abs. 1 oder Abs. 6 Sicherheiten
 zu leisten oder Versicherungen abzuschließen hat, hat er diese dem
 Versicherungsnehmer auf Verlangen nachzuweisen.
-
 
 ### § 14 Aufzeichnungspflicht
 
@@ -721,7 +694,6 @@ sammeln.
 Pflichten zur Buchführung ergeben, die mit den Pflichten nach den
 Absätzen 1 bis 3 vergleichbar sind, kann der Aufzeichnungspflichtige
 auf diese Buchführung verweisen.
-
 
 ### § 15 Prüfungen
 
@@ -776,7 +748,6 @@ Lage sind, eine ordnungsgemäße Prüfung in dem jeweiligen
 Gewerbebetrieb durchzuführen sowie deren Zusammenschlüsse können als
 Prüfer nach Absatz 1 Satz 2 bestimmt werden.
 
-
 ### § 16 Rechte und Pflichten der an der Prüfung Beteiligten
 
 (1) Der Aufzeichnungspflichtige hat dem Prüfer die Einsicht in die
@@ -792,7 +763,6 @@ Pflichten verletzt, ist dem Aufzeichnungspflichtigen zum Ersatz des
 daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als
 Gesamtschuldner.
 
-
 ### § 17 Rückversicherungsvermittlung und Großrisiken
 
 Die §§ 11 bis 16 gelten nicht für die Rückversicherungsvermittlung. §
@@ -800,10 +770,7 @@ Die §§ 11 bis 16 gelten nicht für die Rückversicherungsvermittlung. §
 Großrisiken im Sinne des § 210 Absatz 2 des
 Versicherungsvertragsgesetzes sowie für die laufenden Versicherungen.
 
-
 ## Abschnitt 6 - Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 18 Straftaten und Ordnungswidrigkeiten
 
@@ -847,15 +814,11 @@ begeht.
 Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
 gefährdet, wird nach § 148 Nr. 2 der Gewerbeordnung bestraft.
 
-
 ## Abschnitt 7 - Schlussbestimmungen
-
-
 
 ### § 18a (weggefallen)
 
 -
-
 
 ### § 19 Übergangsregelungen
 
@@ -869,16 +832,13 @@ Gewerbeordnung registriert sind oder bis zum 31. März 2009 registriert
 werden, haben die erforderlichen neuen Angaben nach § 5 Satz 1 Nr. 1
 spätestens bis zum 1. April 2009 der Registerbehörde mitzuteilen.
 
-
 ### § 20 Inkrafttreten
 
 Diese Verordnung tritt am 22. Mai 2007 in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 1 Abs. 3 Satz 2) Inhaltliche Anforderungen an die Sachkundeprüfung
 
@@ -1252,13 +1212,6 @@ Der Bundesrat hat zugestimmt.
 
 
     4.5.4 Versicherungsfall
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 3 Abs. 8) Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung "Geprüfter Versicherungsfachmann/-frau IHK" nach § 34d Abs. 2 Nr. 4 / § 34e Abs. 2 der Gewerbeordnung
 

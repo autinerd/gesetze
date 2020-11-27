@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 9.3.2010 I 264
 
-
-
 ## § 1 Versteigerungsauftrag
 
 Der Versteigerer darf nur auf Grund eines schriftlichen Vertrags mit
@@ -56,13 +54,6 @@ dem Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten:
     c)  ob Gold- und Silbersachen unter dem Gold- oder Silberwert zugeschlagen
         werden können.
 
-
-
-
-
-
-
-
 ## § 2 Verzeichnis
 
 (1) Der Versteigerer hat bis spätestens zwei Wochen vor der
@@ -82,7 +73,6 @@ gesetzlicher Vorschrift (§ 383 Abs. 3 des Bürgerlichen Gesetzbuchs).
 Bei freiwilligen Hausrat- und Nachlassversteigerungen können durch die
 am Ort der Versteigerung zuständige Behörde Ausnahmen von den
 Anforderungen nach Absatz 1 zugelassen werden.
-
 
 ## § 3 Anzeige
 
@@ -141,7 +131,6 @@ vor der Versteigerung eine Stellungnahme abzugeben.
 (5) Auf Versteigerungen im Reisegewerbe findet § 56a Abs. 2 der
 Gewerbeordnung keine Anwendung.
 
-
 ## § 4 Besichtigung
 
 Der Versteigerer hat für die Dauer von mindestens zwei Stunden
@@ -150,11 +139,9 @@ zuständige Behörde kann Ausnahmen zulassen, wenn der Versteigerer den
 Bietern in anderer Weise hinreichend Gelegenheit gibt, das
 Versteigerungsgut zu beurteilen.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Ausnahme von den verbotenen Tätigkeiten
 
@@ -199,13 +186,11 @@ versteigern, wenn
 Die für den Versteigerungsort zuständige Behörde kann im Einzelfall
 unter den Voraussetzungen des Absatzes 1 Satz 2 Ausnahmen zulassen.
 
-
 ## § 7 Zuschlag
 
 Der Versteigerer darf den Zuschlag erst erteilen, wenn nach
 dreimaligem Wiederholen des Höchstgebots kein Übergebot abgegeben
 wird.
-
 
 ## § 8 Buchführung
 
@@ -226,7 +211,6 @@ vergleichbar sind, kann der Gewerbetreibende auf diese Buchführung
 verweisen; die Aufbewahrungspflichten nach Absatz 2 gelten in diesem
 Fall entsprechend.
 
-
 ## § 9 Untersagung, Aufhebung und Unterbrechung der Versteigerung
 
 Die zuständige Behörde kann die Versteigerung ganz oder teilweise
@@ -234,7 +218,6 @@ untersagen oder eine begonnene Versteigerung aufheben oder
 unterbrechen, wenn der Versteigerer gegen § 34b Abs. 6 oder 7 der
 Gewerbeordnung oder gegen § 2 Abs. 1 oder §§ 3, 4 oder § 6 Abs. 2
 dieser Verordnung verstößt oder verstoßen hat.
-
 
 ## § 10 Straftaten und Ordnungswidrigkeiten
 
@@ -289,7 +272,6 @@ begeht.
 (4) Wer durch eine in Absatz 1 bezeichnete Handlung Leben oder
 Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
 gefährdet, ist nach § 148 Nr. 2 der Gewerbeordnung strafbar.
-
 
 ## § 11 Anwendung bei grenzüberschreitender Dienstleistungserbringung
 

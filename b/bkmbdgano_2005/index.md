@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 454
 
-
-
 ## I.
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1
@@ -45,10 +43,6 @@ Republik
 4.  die Disziplinarbefugnis bei Ruhestandsbeamtinnen und Ruhestandsbeamten
     gemäß § 84 Satz 1 des Bundesdisziplinargesetzes.
 
-
-
-
-
 ## II.
 
 Die Präsidentin oder der Präsident des Bundesarchivs und
@@ -61,12 +55,10 @@ Bundesbeamtinnen und Bundesbeamten erhoben werden, insoweit zuständig,
 als ihnen jeweils die Ausübung des Rechtes zur Ernennung und
 Entlassung der Bundesbeamtinnen und Bundesbeamten übertragen ist.
 
-
 ## III.
 
 Diese allgemeine Anordnung tritt am Tage nach der Veröffentlichung in
 Kraft.
-
 
 ## Schlussformel
 

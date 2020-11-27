@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 42 G v. 5.2.2009 I 160
 
-
 ## § 1 Anwendungsbereich
 
 (1) Dieses Gesetz regelt Art und Umfang der Erstattung von Auslagen
@@ -60,7 +59,6 @@ Gemeinschaft des Verstorbenen gehört haben.
 Zusammenleben in gemeinsamer Wohnung oder in enger
 Betreuungsgemeinschaft in demselben Hause voraus.
 
-
 ## § 2 Anspruch auf Umzugskostenvergütung
 
 (1) Voraussetzung für den Anspruch auf Umzugskostenvergütung ist die
@@ -80,7 +78,6 @@ fünf Jahren nach Wirksamwerden der Zusage der Umzugskostenvergütung
 umgezogen wird. Die oberste Dienstbehörde kann diese Frist in
 besonders begründeten Ausnahmefällen um längstens zwei Jahre
 verlängern. § 4 Abs. 3 Satz 2 bleibt unberührt.
-
 
 ## § 3 Zusage der Umzugskostenvergütung
 
@@ -135,10 +132,6 @@ verlängern. § 4 Abs. 3 Satz 2 bleibt unberührt.
 3.  der Übertragung eines anderen Richteramtes nach § 32 Abs. 2 des
     Deutschen Richtergesetzes oder eines weiteren Richteramtes nach § 27
     Abs. 2 des vorgenannten Gesetzes.
-
-
-
-
 
 ## § 4 Zusage der Umzugskostenvergütung in besonderen Fällen
 
@@ -218,7 +211,6 @@ oder zur Aufnahme einer anderen Tätigkeit beendet wurde.
 des Bundesbeamtengesetzes oder nach § 20 des Beamtenstatusgesetzes
 gleich.
 
-
 ## § 5 Umzugskostenvergütung
 
 (1) Die Umzugskostenvergütung umfaßt
@@ -258,7 +250,6 @@ zu einem anderen öffentlich-rechtlichen Dienstherrn im Geltungsbereich
 dieses Gesetzes oder zu einer in § 40 Abs. 6 Satz 2 und 3 des
 Bundesbesoldungsgesetzes bezeichneten Einrichtung übertritt.
 
-
 ## § 6 Beförderungsauslagen
 
 (1) Die notwendigen Auslagen für das Befördern des Umzugsgutes von der
@@ -284,7 +275,6 @@ Personen aus gesetzlicher oder sittlicher Verpflichtung nicht nur
 vorübergehend Unterkunft und Unterhalt gewährt, sowie Hausangestellte
 und solche Personen, deren Hilfe der Berechtigte aus beruflichen oder
 gesundheitlichen Gründen nicht nur vorübergehend bedarf.
-
 
 ## § 7 Reisekosten
 
@@ -321,7 +311,6 @@ bisherigen Wohnung, gemäß Absatz 2 Satz 1 erstattet.
 
 (4) § 6 Abs. 1 Satz 2 gilt entsprechend.
 
-
 ## § 8 Mietentschädigung
 
 (1) Miete für die bisherige Wohnung wird bis zu dem Zeitpunkt, zu dem
@@ -351,7 +340,6 @@ Eigentumswohnung wird Mietentschädigung nicht gewährt.
 erstattet, in der die Wohnung oder die Garage ganz oder teilweise
 anderweitig vermietet oder benutzt worden ist.
 
-
 ## § 9 Andere Auslagen
 
 (1) Die notwendigen ortsüblichen Maklergebühren für die Vermittlung
@@ -371,7 +359,6 @@ Deutsche Mark erstattet, wenn seine Beschaffung beim Bezug der neuen
 Wohnung notwendig ist. Sofern die neue Wohnung eine Mietwohnung ist,
 werden unter den gleichen Voraussetzungen auch die Auslagen für Öfen
 bis zu einem Betrag von 320 Deutsche Mark für jedes Zimmer erstattet.
-
 
 ## § 10 Pauschvergütung für sonstige Umzugsauslagen
 
@@ -429,7 +416,6 @@ Absatzes 1 Satz 1 vorgelegen haben.
 eine davon gewährt; sind die Pauschvergütungen unterschiedlich hoch,
 so wird die höhere gewährt.
 
-
 ## § 11 Umzugskostenvergütung in Sonderfällen
 
 (1) Ein Beamter mit Wohnung im Sinne des § 10 Abs. 3, dem
@@ -461,7 +447,6 @@ gewährt; Satz 1 bleibt unberührt. Die Sätze 1 und 2 gelten
 entsprechend, wenn die Zusage der Umzugskostenvergütung
 zurückgenommen, anderweitig aufgehoben wird oder sich auf andere Weise
 erledigt.
-
 
 ## § 12 Trennungsgeld
 
@@ -554,7 +539,6 @@ längstens ein Jahr Reisebeihilfen für Heimfahrten erhält.
 
 (5) (weggefallen)
 
-
 ## § 13 Auslandsumzüge
 
 (1) Auslandsumzüge sind Umzüge zwischen Inland und Ausland sowie im
@@ -585,7 +569,6 @@ Ausland.
 In den Fällen des Satzes 1 Nr. 2 bis 4 wird für die Umzugsreise (§ 7
 Abs. 1) Tage- und Übernachtungsgeld nur für die notwendige Reisedauer
 gewährt; § 7 Abs. 2 und 3 findet keine Anwendung.
-
 
 ## § 14 Sondervorschriften für Auslandsumzüge
 
@@ -749,7 +732,6 @@ geleistete Zahlungen berücksichtigt werden.
 oder im Einzelfall ermäßigen, soweit besondere Verhältnisse es
 rechtfertigen.
 
-
 ## § 15 Dienstortbestimmung, Verwaltungsvorschriften
 
 (1) Die oberste Dienstbehörde wird ermächtigt, im Einvernehmen mit dem
@@ -760,7 +742,6 @@ Gebiet mehrerer Gemeinden erstrecken.
 (2) Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz erläßt
 der Bundesminister des Innern im Einvernehmen mit dem Bundesminister
 der Justiz und dem Bundesminister der Verteidigung.
-
 
 ## § 16 Übergangsvorschrift
 

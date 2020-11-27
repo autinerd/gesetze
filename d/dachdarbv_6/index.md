@@ -29,7 +29,6 @@ Tarifverträgen in der Branche mit zumindest teilweise demselben
 fachlichen Geltungsbereich Gelegenheit zur schriftlichen Stellungnahme
 gegeben hat:
 
-
 ## § 1 Zwingende Arbeitsbedingungen
 
 Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des
@@ -55,12 +54,10 @@ fallen, so hat der Verleiher ihm oder ihr nach § 8 Absatz 3 des
 Arbeitnehmer-Entsendegesetzes zumindest die nach dieser Verordnung
 vorgeschriebenen Arbeitsbedingungen zu gewähren.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft und am 31. Dezember
 2013 außer Kraft.
-
 
 ## Anlage (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 

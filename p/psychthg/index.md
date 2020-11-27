@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 34a G v. 6.12.2011 I 2515
 
-
 ## § 1 Berufsausübung
 
 (1) Wer die heilkundliche Psychotherapie unter der Berufsbezeichnung
@@ -74,7 +73,6 @@ Abklärung herbeizuführen. Zur Ausübung von Psychotherapie gehören
 nicht psychologische Tätigkeiten, die die Aufarbeitung und Überwindung
 sozialer Konflikte oder sonstige Zwecke außerhalb der Heilkunde zum
 Gegenstand haben.
-
 
 ## § 2 Approbation
 
@@ -231,7 +229,6 @@ wahrgenommen werden.
 Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
 drei Jahren dem Deutschen Bundestag.
 
-
 ## § 2a Unterrichtungspflichten
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
@@ -269,7 +266,6 @@ statistische Aufstellungen über die getroffenen Entscheidungen, die
 die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
-
 
 ## § 3 Rücknahme, Widerruf und Ruhen der Approbation, Verzicht
 
@@ -321,7 +317,6 @@ Jugendlichenpsychotherapeuten weitergeführt werden darf.
 der zuständigen Behörde verzichtet werden. Ein Verzicht, der unter
 einer Bedingung erklärt wird, ist unwirksam.
 
-
 ## § 4 Erlaubnis
 
 (1) Eine befristete Erlaubnis zur Berufsausübung kann auf Antrag
@@ -365,7 +360,6 @@ Europäischen Union oder eines anderen Vertragsstaates des Abkommens
 Ausbildungsnachweis nach Absatz 1 Satz 2 oder 3 verfügen, sowie auf
 Drittstaatsangehörige, soweit sich nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt, keine Anwendung.
-
 
 ## § 5 Ausbildung und staatliche Prüfung
 
@@ -430,7 +424,6 @@ Ausbildung im Umfang ihrer Gleichwertigkeit auf die Ausbildung nach
 Absatz 1 anrechnen, wenn die Durchführung der Ausbildung und die
 Erreichung des Ausbildungszieles dadurch nicht gefährdet werden.
 
-
 ## § 6 Ausbildungsstätten
 
 (1) Die Ausbildungen nach § 5 Abs. 1 werden an Hochschulen oder an
@@ -481,12 +474,10 @@ hat sie sicherzustellen, daß eine andere geeignete Einrichtung diese
 Aufgabe in dem erforderlichen Umfang übernimmt. Absatz 2 Nr. 4 gilt
 entsprechend.
 
-
 ## § 7 Ausschluß der Geltung des Berufsbildungsgesetzes
 
 Auf die Ausbildungen nach diesem Gesetz findet das
 Berufsbildungsgesetz keine Anwendung.
-
 
 ## § 8 Ermächtigung zum Erlaß von Rechtsverordnungen
 
@@ -592,7 +583,6 @@ und Verlängerung der Berufserlaubnis nach § 4 vorzusehen.
 Grundlage erlassenen Rechtsverordnungen enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 
-
 ## § 9 Gebührenordnung bei Privatbehandlung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch
@@ -603,7 +593,6 @@ Rechtsverordnung sind Mindest- und Höchstsätze für die
 psychotherapeutischen Leistungen festzusetzen. Dabei ist den
 berechtigten Interessen der Leistungserbringer und der zur Zahlung der
 Entgelte Verpflichteten Rechnung zu tragen.
-
 
 ## § 9a Dienstleistungserbringer
 
@@ -717,7 +706,6 @@ dass
 
 § 1a Satz 3 gilt entsprechend.
 
-
 ## § 9b Verwaltungszusammenarbeit
 
 Die zuständigen Behörden sind berechtigt, für jede
@@ -733,7 +721,6 @@ anfordernden Behörde alle Informationen über die Rechtmäßigkeit der
 Niederlassung und die gute Führung des Dienstleisters sowie
 Informationen darüber, dass keine berufsbezogenen disziplinarischen
 oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
-
 
 ## § 9c Pflichten des Dienstleistungserbringers
 
@@ -764,7 +751,6 @@ in Satz 3 genannten Sanktionen oder Maßnahmen, die sich auf die
 Ausübung der von der Richtlinie 2005/36/EG erfassten Tätigkeiten
 auswirken könnten. Dabei sind die Vorschriften zum Schutz
 personenbezogener Daten einzuhalten.
-
 
 ## § 10 Zuständigkeiten
 
@@ -801,7 +787,6 @@ zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf
 des Psychologischen Psychotherapeuten oder des Kinder- und
 Jugendlichenpsychotherapeuten ausübt.
 
-
 ## § 11 Wissenschaftliche Anerkennung
 
 Soweit nach diesem Gesetz die wissenschaftliche Anerkennung eines
@@ -814,7 +799,6 @@ Jugendlichenpsychotherapeuten sowie der ärztlichen Psychotherapeuten
 in der Bundesärztekammer gebildet wird. Ist der Beirat am 31. Dezember
 1998 noch nicht gebildet, kann seine Zusammensetzung durch das
 Bundesministerium für Gesundheit bestimmt werden.
-
 
 ## § 12 Übergangsvorschriften
 

@@ -25,7 +25,6 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 5 G v. 20.12.2011 I 2842 berücksichtigt
 
-
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung regelt die Versorgung im Sinne des
@@ -47,7 +46,6 @@ unmittelbarem zeitlichen Anschluß (§ 85 Abs. 9 des
 Beamtenversorgungsgesetzes in der ab 1. Januar 1992 geltenden Fassung)
 an ein öffentlich-rechtliches Dienstverhältnis im früheren
 Bundesgebiet erfolgt.
-
 
 ## § 2 Maßgaben
 
@@ -204,10 +202,6 @@ weiteren Maßgaben:
     Beamter zu einem Dienstherrn mit Sitz im bisherigen Geltungsbereich
     des Bundesrechts übertritt.
 
-
-
-
-
 ## § 3 Verwendung von Beamten und Richtern
 
 (1) Die Zeit der Verwendung eines Beamten oder eines Richters aus dem
@@ -218,7 +212,6 @@ ununterbrochen mindestens ein Jahr gedauert hat.
 (2) Die Regelung des Absatzes 1 ist bis zum 31. Dezember 1995
 befristet. Sie gilt nicht für eine Verwendung, die nach dem 31.
 Dezember 1994 beginnt.
-
 
 ## § 4 Verwendung von Beamten und Richtern im Ruhestand
 
@@ -252,11 +245,9 @@ Verwendung im Beitrittsgebiet neben seinem früheren Versorgungsbezug
 einen neuen Versorgungsbezug, kann er unwiderruflich auf den neuen
 Versorgungsbezug verzichten.
 
-
 ## § 5 (Inkrafttreten)
 
 -
-
 
 ## Anlage (zu § 1 Abs. 1) Verzeichnis der zum Beamtenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften
 

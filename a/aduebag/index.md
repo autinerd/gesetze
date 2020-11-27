@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 17 G v. 17.12.2006 I 3171
 
-
 ## Abschnitt 1 - Begriffsbestimmungen, Zuständigkeiten und Verfahren
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -57,10 +54,6 @@ Vertragsstaaten des Übereinkommens zugelassen sind (§ 2a Abs. 3 Nr. 3,
     jeweils in Betracht kommende Aufgabe einer zentralen Behörde
     wahrnimmt.
 
-
-
-
-
 ### § 2 Sachliche Zuständigkeiten
 
 (1) Die in § 1 Abs. 2 und 3 genannten Adoptionsvermittlungsstellen
@@ -90,7 +83,6 @@ Abs. 1 des Übereinkommens obliegt jedoch die Verständigung mit der
 zentralen Behörde des Heimatstaates den nach den Absätzen 1 oder 2
 zuständigen Stellen.
 
-
 ### § 3 Verfahren
 
 (1) Die Bundeszentralstelle und die Auslandsvermittlungsstellen können
@@ -112,10 +104,7 @@ Bundeszentralstelle kann erforderliche Übersetzungen selbst in Auftrag
 geben; die Höhe der Vergütung für die Übersetzungen richtet sich nach
 dem Justizvergütungs- und -entschädigungsgesetz.
 
-
 ## Abschnitt 2 - Internationale Adoptionsvermittlung im Verhältnis zu anderen Vertragsstaaten
-
-
 
 ### § 4 Adoptionsbewerbung
 
@@ -167,7 +156,6 @@ Bewerbung betreffender Mitteilungen an die zentrale Behörde des
 Heimatstaates mit. Sie soll ihre Mitwirkung versagen, wenn die
 beantragte Übermittlung nach Form oder Inhalt den Bestimmungen des
 Übereinkommens oder des Heimatstaates erkennbar nicht genügt.
-
 
 ### § 5 Aufnahme eines Kindes
 
@@ -222,7 +210,6 @@ Aufenthaltsort der Adoptionsbewerber zuständigen örtlichen
 Adoptionsvermittlungsstelle ins Benehmen setzen. Sie unterrichtet
 diese über die Abgabe der Erklärungen gemäß Absatz 3 Satz 2.
 
-
 ### § 6 Einreise und Aufenthalt
 
 (1) Zum Zwecke der Herstellung und Wahrung einer familiären
@@ -256,7 +243,6 @@ Voraussetzungen für die Erteilung einer Niederlassungserlaubnis
 vorliegen oder die zuständige Stelle nach Artikel 21 Abs. 1 Buchstabe
 c des Übereinkommens die Rückkehr des Kindes in seinen Heimatstaat
 veranlasst.
-
 
 ### § 7 Bereiterklärung zur Adoption; Verantwortlichkeiten für ein Adoptivpflegekind
 
@@ -311,10 +297,7 @@ aufgenommene Kind betreffenden Verfahren zu beteiligen; eine wegen
 Gefahr im Verzug unterbliebene Beteiligung ist unverzüglich
 nachzuholen.
 
-
 ## Abschnitt 3 - Bescheinigungen über das Zustandekommen oder die Umwandlung eines Annahmeverhältnisses
-
-
 
 ### § 8 Bescheinigungen über eine im Inland vollzogene Annahme oder Umwandlung eines Annahmeverhältnisses
 
@@ -327,7 +310,6 @@ Zustimmung erteilt, so ist die zentrale Adoptionsstelle zuständig, zu
 deren Bereich das Jugendamt gehört oder in deren Bereich die
 anerkannte Auslandsvermittlungsstelle ihren Sitz hat.
 
-
 ### § 9 Überprüfung ausländischer Bescheinigungen über den Vollzug einer Annahme oder die Umwandlung eines Annahmeverhältnisses
 
 Auf Antrag desjenigen, der ein rechtliches Interesse hat, prüft und
@@ -339,10 +321,7 @@ die Zuständigkeit der erteilenden Stelle. Die Bestätigung erbringt
 Beweis für die in Satz 1 genannten Umstände; der Nachweis ihrer
 Unrichtigkeit ist zulässig.
 
-
 ## Abschnitt 4 - Zeitlicher Anwendungsbereich
-
-
 
 ### § 10 Anwendung des Abschnitts 2
 
@@ -360,7 +339,6 @@ vor dem in Absatz 1 genannten Zeitpunkt zugegangen sind. Die
 Vereinbarung kann zeitlich oder sachliche beschränkt werden. Auf einen
 Vermittlungsfall, der einer Vereinbarung nach den Sätzen 1 und 2
 unterfällt, sind die Bestimmungen des Abschnitts 2 anzuwenden.
-
 
 ### § 11 Anwendung des Abschnitts 3
 

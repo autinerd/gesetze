@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 10. 1.2000 I 38
 
-
 ## § 1
 
 Die Gebühren für Amtshandlungen, Prüfungen und Untersuchungen nach dem
@@ -29,7 +28,6 @@ Waffengesetz (Gesetz) und nach den auf dem Gesetz beruhenden
 Rechtsvorschriften bestimmen sich nach dem Gebührenverzeichnis der
 Anlage, sofern die Gebühr nicht gemäß § 2 nach dem Verwaltungsaufwand
 berechnet wird.
-
 
 ## § 2
 
@@ -118,7 +116,6 @@ Stundensätze des § 3 Abs. 1 der Kostenordnung für Nutzleistungen der
 Physikalisch-Technischen Bundesanstalt vom 17. Dezember 1970 (BGBl. I
 S. 1745) in der jeweils geltenden Fassung zugrunde zu legen.
 
-
 ## § 3
 
 (1) Bei der Beschußprüfung nach Abschnitt II Nr. 28 der Anlage ist die
@@ -163,7 +160,6 @@ Nr. 28 der Anlage um 15 vom Hundert.
 
 (5) und (6) (weggefallen)
 
-
 ## § 4
 
 Die Gebühr für die Abnahme der Prüfung nach § 9, § 31 oder § 44 Abs. 1
@@ -171,7 +167,6 @@ des Gesetzes wird auch erhoben, wenn die Prüfung ohne Verschulden der
 Prüfbehörde und ohne ausreichende Entschuldigung des Bewerbers am
 festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden
 mußte.
-
 
 ## § 5
 
@@ -203,10 +198,6 @@ gesondert erhoben.
     Versuchstiere und der für diese während der Versuchs- und
     Nachbeobachtungszeit erforderlichen Futtermittel.
 
-
-
-
-
 ## § 6
 
 (1) Folgende Amtshandlungen sind gebührenfrei:
@@ -237,18 +228,15 @@ Nr. 1, 2 und 4 des Gesetzes) ist der Gebührenschuldner von der Zahlung
 der Gebühren befreit, wenn der betreffende Staat die Gegenseitigkeit
 gewährleistet.
 
-
 ## § 7
 
 Das Bundeskriminalamt kann das Fraunhofer-Institut für Umweltchemie
 und Ökotoxikologie ermächtigen, die Gebühren und Auslagen für die nach
 § 10 der 1. WaffV durchzuführenden Prüfungen einzuziehen.
 
-
 ## § 8
 
 (Inkrafttreten, Außerkrafttreten von Rechtsvorschriften) in Kraft.
-
 
 ## Anlage Gebührenverzeichnis
 

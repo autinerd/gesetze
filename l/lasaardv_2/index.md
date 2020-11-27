@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 5 V v. 26.5.1975 I 1275
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 2 und des § 37 Abs. 1 und 3 des Gesetzes zur
@@ -29,10 +28,7 @@ Sechzehnten Gesetzes zur Änderung des Lastenausgleichsgesetzes vom 23.
 Mai 1963 (BGBl. I S. 360), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## Erster Titel - Zusammentreffen saarländischer Vorauszahlungen mit saarländischer Unterhaltshilfe und mit Kriegsschadenrente
-
-
 
 ### § 1 Behandlung der saarländischen Vorauszahlungen bei der Umstellung der saarländischen Unterhaltshilfe (§ 27 LA-EG-Saar)
 
@@ -86,7 +82,6 @@ Vorauszahlungen auch dann zu berücksichtigen, wenn ihnen ein Anspruch
 auf Hauptentschädigung nach dem Lastenausgleichsgesetz nicht
 gegenübersteht.
 
-
 ### § 2 Behandlung der saarländischen Vorauszahlungen bei der Zuerkennung von Kriegsschadenrente
 
 (1) Die saarländischen Vorauszahlungen sind bei der Zuerkennung von
@@ -104,13 +99,11 @@ Jahres nach der Zuerkennung gestellter Antrag, die Erfüllung
 rückgängig zu machen, auf den Zeitpunkt des ersten Antrags zurück; die
 Jahresfrist endet nicht vor dem 31. Mai 1972.
 
-
 ### § 3 Gewährung des Mindesterfüllungsbetrags
 
 Sind saarländische Vorauszahlungen gewährt worden, wird der
 Mindesterfüllungsbetrag (§ 278a Abs. 4, § 283a Abs. 1 Nr. 3 LAG) nur
 gewährt, soweit er die Vorauszahlungen übersteigt.
-
 
 ### § 4 Reihenfolge der Anrechnung
 
@@ -140,10 +133,7 @@ Wird außer den Vorauszahlungen noch ein Teil des
 Mindesterfüllungsbetrags nach § 3 gewährt, ist dieser in den Fällen
 der Nummer 1 Satz 2 im Anschluß an die Vorauszahlungen anzurechnen.
 
-
 ## Zweiter Titel - Zusammentreffen von Aufbaudarlehen mit saarländischen Vorauszahlungen, saarländischer Unterhaltshilfe und Kriegsschadenrente
-
-
 
 ### § 5 Reihenfolge der Anrechnung von Aufbaudarlehen und saarländischen Vorauszahlungen
 
@@ -162,7 +152,6 @@ der Hauptentschädigung und den Zinszuschlag in dem Verhältnis
 angerechnet, in dem Grundbetrag und Zinszuschlag im Zeitpunkt der
 Zahlung zueinander stehen.
 
-
 ### § 6 Reihenfolge der Anrechnung von Darlehen, saarländischen Vorauszahlungen, saarländischer Unterhaltshilfe und Kriegsschadenrente
 
 Sind neben Aufbaudarlehen, saarländischer Unterhaltshilfe und
@@ -172,10 +161,7 @@ Anrechnung § 4 dieser Verordnung in Verbindung mit § 258 Abs. 4 des
 Lastenausgleichsgesetzes; für das Verhältnis der Anrechnung von
 Aufbaudarlehen und saarländischen Vorauszahlungen zueinander gilt § 5.
 
-
 ## Dritter Titel - Anrechnung von saarländischen Vorauszahlungen in Erbfällen
-
-
 
 ### § 7 Anrechnung von saarländischen Vorauszahlungen an den Erblasser
 
@@ -199,7 +185,6 @@ Verhältnis der Erbteile anzurechnen. In gleicher Weise sind
 saarländische Vorauszahlungen an nach dem 31. März 1952 verstorbene
 Erben des Berechtigten bei deren Erben anzurechnen.
 
-
 ### § 8 Anrechnung von saarländischen Vorauszahlungen an Erben
 
 (1) Saarländische Vorauszahlungen, die an einen Erben für Schäden des
@@ -219,7 +204,6 @@ angerechnet,
 
 (2)
 
-
 ### § 9 Anrechnung von saarländischen Vorauszahlungen auf mehrere Ansprüche auf Hauptentschädigung
 
 Sind in der Person eines am 1. April 1952 Berechtigten Ansprüche auf
@@ -231,10 +215,7 @@ Das gleiche gilt, wenn in der Person des Berechtigten Ansprüche auf
 Hauptentschädigung nur aus Schäden mehrerer vor dem 1. April 1952
 verstorbener unmittelbar Geschädigter entstanden sind.
 
-
 ## Vierter Titel - Sonstige und Schlußvorschriften
-
-
 
 ### § 10 Ausschlußfristen für Anträge nach saarländischen Vorschriften
 
@@ -250,7 +231,6 @@ Abs. 2 des Gesetzes zur Einführung von Vorschriften des
 Lastenausgleichsrechts im Saarland) können nur bis zum 31. Dezember
 1972 gestellt werden.
 
-
 ### § 11 Anwendungszeitpunkt
 
 Die Vorschriften der §§ 1 bis 9 sind mit Wirkung vom Inkrafttreten des
@@ -258,14 +238,12 @@ Gesetzes zur Einführung von Vorschriften des Lastenausgleichsrechts im
 Saarland, § 2 Abs. 2 jedoch mit Wirkung vom 1. Juni 1961 ab
 anzuwenden.
 
-
 ### § 12 Anwendung im Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (BGBl. I S. 1) in Verbindung mit § 39 des Gesetzes zur
 Einführung von Vorschriften des Lastenausgleichsrechts im Saarland
 auch im Land Berlin.
-
 
 ### § 13 Inkrafttreten
 

@@ -18,10 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 3. 5.2000 I 636
 
-
 ## Art 1 - Errichtung eines Bundesamtes für Strahlenschutz
-
-
 
 ### § 1 Errichtung und Sitz
 
@@ -30,7 +27,6 @@ und Reaktorsicherheit wird ein "Bundesamt für Strahlenschutz" als
 selbständige Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Strahlenschutz hat seinen Sitz in Salzgitter.
-
 
 ### § 2 Aufgaben
 
@@ -72,7 +68,6 @@ Behörden diese Maßnahmen aus tatsächlichen Gründen ohne diese
 Unterstützung nicht oder nur unter erheblichen Schwierigkeiten
 vornehmen können.
 
-
 ### § 3 Fachaufsicht
 
 Soweit das Bundesamt für Strahlenschutz Aufgaben aus einem anderen
@@ -80,10 +75,7 @@ Geschäftsbereich als dem des Bundesministers für Umwelt, Naturschutz
 und Reaktorsicherheit wahrnimmt, untersteht es den fachlichen
 Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-
 ## Art 2 und 3 -
-
-
 
 ### § 4 Kosten
 
@@ -97,12 +89,10 @@ Verwaltungskostengesetz findet Anwendung. Kostenvorschriften des
 Atomgesetzes oder einer auf Grund des Atomgesetzes erlassenen
 Rechtsverordnung bleiben unberührt.
 
-
 ## Art 4 - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 5 - Inkrafttreten
 

@@ -19,7 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2397
 
-
 ## Art 1
 
 (1) Dem in Berlin am 3. März 2008 unterzeichneten Vertrag zwischen der
@@ -30,7 +29,6 @@ Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen
 Rechts – (BGBl. I S. 1597) wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend veröffentlicht.
-
 
 ## Art 2
 

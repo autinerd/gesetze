@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 31 G v. 20.12.2011 I 2854
 
-
 ## § 1 Grundsatz
 
 Auf individuelle Ausbildungsförderung besteht für eine der Neigung,
@@ -30,10 +29,7 @@ Maßgabe dieses Gesetzes, wenn dem Auszubildenden die für seinen
 Lebensunterhalt und seine Ausbildung erforderlichen Mittel anderweitig
 nicht zur Verfügung stehen.
 
-
 ## Abschnitt I - Förderungsfähige Ausbildung
-
-
 
 ### § 2 Ausbildungsstätten
 
@@ -155,10 +151,6 @@ aufbaut, in jedem Fall als eigener Ausbildungsabschnitt.
 4.  als Gefangener Anspruch auf Ausbildungsbeihilfe nach den §§ 44, 176
     Absatz 4 des Strafvollzugsgesetzes hat.
 
-
-
-
-
 ### § 3 Fernunterricht
 
 (1) Ausbildungsförderung wird für die Teilnahme an
@@ -217,12 +209,10 @@ gleichgestellt.
 
 (5) § 2 Absatz 4 und 6 ist entsprechend anzuwenden.
 
-
 ### § 4 Ausbildung im Inland
 
 Ausbildungsförderung wird vorbehaltlich der §§ 5 und 6 für die
 Ausbildung im Inland geleistet.
-
 
 ### § 5 Ausbildung im Ausland
 
@@ -311,7 +301,6 @@ Durchführung des Praktikums zwingend im Ausland vorgeschrieben sein.
 Das Praktikum im Ausland muss der Ausbildung nach dem Ausbildungsstand
 förderlich sein und mindestens zwölf Wochen dauern.
 
-
 ### § 5a Unberücksichtigte Ausbildungszeiten
 
 Bei der Leistung von Ausbildungsförderung für eine Ausbildung im
@@ -328,7 +317,6 @@ gelten nicht, wenn der Auslandsaufenthalt in Ausbildungsbestimmungen
 als ein notwendig im Ausland durchzuführender Teil der Ausbildung
 vorgeschrieben ist.
 
-
 ### § 6 Förderung der Deutschen im Ausland
 
 Deutschen im Sinne des Grundgesetzes, die ihren ständigen Wohnsitz in
@@ -339,7 +327,6 @@ des Einzelfalles dies rechtfertigen. Art und Dauer der Leistungen
 sowie die Anrechnung des Einkommens und Vermögens richten sich nach
 den besonderen Verhältnissen im Aufenthaltsland. § 9 Absatz 1 und 2
 sowie § 48 sind entsprechend, die §§ 36 bis 38 sind nicht anzuwenden.
-
 
 ### § 7 Erstausbildung, weitere Ausbildung
 
@@ -459,10 +446,7 @@ Ausbildung in der dem Fachrichtungswechsel vorausgegangenen
 Fachrichtung vor dem 1. August 1996 begonnen haben, findet Absatz 3
 Satz 1 in der am 31. Juli 1996 geltenden Fassung Anwendung.
 
-
 ## Abschnitt II - Persönliche Voraussetzungen
-
-
 
 ### § 8 Staatsangehörigkeit
 
@@ -571,7 +555,6 @@ ist, wenn sie sich weiterhin rechtmäßig in Deutschland aufhalten.
 (5) Rechts- und Verwaltungsvorschriften, nach denen anderen Ausländern
 Ausbildungsförderung zu leisten ist, bleiben unberührt.
 
-
 ### § 9 Eignung
 
 (1) Die Ausbildung wird gefördert, wenn die Leistungen des
@@ -588,7 +571,6 @@ erforderlichen Nachweise zu erbringen.
 (3) Bei der Teilnahme an Fernunterrichtslehrgängen wird dies
 angenommen, wenn der Auszubildende die Bescheinigung nach § 3 Absatz 3
 beigebracht hat.
-
 
 ### § 10 Alter
 
@@ -645,10 +627,7 @@ Wegfall der Hinderungsgründe oder dem Eintritt einer Bedürftigkeit
 infolge einschneidender Veränderungen seiner persönlichen Verhältnisse
 aufnimmt.
 
-
 ## Abschnitt III - Leistungen
-
-
 
 ### § 11 Umfang der Ausbildungsförderung
 
@@ -707,7 +686,6 @@ Universität der Bundeswehr oder Verwaltungsfachhochschule besuchen,
 sofern diese als Beschäftigte im öffentlichen Dienst Anwärterbezüge
 oder ähnliche Leistungen aus öffentlichen Mitteln erhalten.
 
-
 ### § 12 Bedarf für Schüler
 
 (1) Als monatlicher Bedarf gelten für Schüler
@@ -750,7 +728,6 @@ Reise innerhalb Europas, sonst jeweils 500 Euro. In besonderen
 Härtefällen können die notwendigen Aufwendungen für eine weitere Hin-
 und Rückreise geleistet werden.
 
-
 ### § 13 Bedarf für Studierende
 
 (1) Als monatlicher Bedarf gelten für Auszubildende in
@@ -785,7 +762,6 @@ Lebens- und Ausbildungsverhältnisse im Ausbildungsland dies erfordern,
 bei dem Bedarf ein Zu- oder Abschlag vorgenommen, dessen Höhe die
 Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates
 bestimmt.
-
 
 ### § 13a Kranken- und Pflegeversicherungszuschlag
 
@@ -829,14 +805,12 @@ im Zeitpunkt der Antragstellung.
 
 versichert sind, erhöht sich der Bedarf um monatlich 11 Euro.
 
-
 ### § 14 Bedarf für Praktikanten
 
 Als monatlicher Bedarf für Praktikanten gelten die Beträge, die für
 Schüler und Studenten der Ausbildungsstätten geleistet werden, mit
 deren Besuch das Praktikum im Zusammenhang steht. § 13 Absatz 4 ist
 entsprechend anzuwenden.
-
 
 ### § 14a Zusatzleistungen in Härtefällen
 
@@ -876,10 +850,6 @@ werden über
 5.  die Höhe oder die Höchstbeträge des zusätzlichen Bedarfs und die Höhe
     einer Selbstbeteiligung.
 
-
-
-
-
 ### § 14b Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)
 
 (1) Für Auszubildende, die mit mindestens einem eigenen Kind, das das
@@ -895,7 +865,6 @@ Sozialleistungen unberücksichtigt. Für die Ermittlung eines
 Kostenbeitrags nach § 90 des Achten Buches Sozialgesetzbuch gilt dies
 jedoch nur, soweit der Kostenbeitrag für eine Kindertagesbetreuung an
 Wochentagen während der regulären Betreuungszeiten erhoben wird.
-
 
 ### § 15 Förderungsdauer
 
@@ -953,7 +922,6 @@ Satz 1 unter der Voraussetzung, dass der Auszubildende eine
 Bestätigung der Ausbildungsstätte darüber vorlegt, dass er die
 Ausbildung innerhalb der Abschlusshilfedauer abschließen kann.
 
-
 ### § 15a Förderungshöchstdauer
 
 (1) Die Förderungshöchstdauer entspricht der Regelstudienzeit nach §
@@ -1002,7 +970,6 @@ Maßgabe, dass auch der Erwerb erforderlicher Lateinkenntnisse während
 des Besuchs der Hochschule zu einer Verlängerung der
 Förderungshöchstdauer führt.
 
-
 ### § 15b Aufnahme und Beendigung der Ausbildung
 
 (1) Die Ausbildung gilt im Sinne dieses Gesetzes als mit dem Anfang
@@ -1035,7 +1002,6 @@ Prüfungsteils maßgebend.
 Ausbildung abbricht (§ 7 Absatz 3 Satz 2) und sie nicht an einer
 Ausbildungsstätte einer anderen Ausbildungsstättenart weiterführt.
 
-
 ### § 16 Förderungsdauer im Ausland
 
 (1) Für eine Ausbildung im Ausland nach § 5 Absatz 2 Nummer 1 oder
@@ -1057,7 +1023,6 @@ geleistet, in den Fällen des § 5 Absatz 2 Nummer 3 jedoch nur dann
 über ein Jahr hinaus, wenn der Auszubildende bei Beginn eines nach dem
 31\. Dezember 2007 aufgenommenen Auslandsaufenthalts bereits seit
 mindestens drei Jahren seinen ständigen Wohnsitz im Inland hatte.
-
 
 ### § 17 Förderungsarten
 
@@ -1111,7 +1076,6 @@ Fachrichtung gewechselt hat. Satz 1 gilt nicht für den
 Kinderbetreuungszuschlag nach § 14b und die Ausbildungsförderung, die
 nach § 15 Absatz 3 Nummer 5 über die Förderungshöchstdauer hinaus
 geleistet wird.
-
 
 ### § 18 Darlehensbedingungen
 
@@ -1179,10 +1143,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
 3.  die pauschale Erhebung der Kosten für die Ermittlung der Anschrift des
     Darlehensnehmers und für das Mahnverfahren.
 
-
-
-
-
 ### § 18a Einkommensabhängige Rückzahlung
 
 (1) Von der Verpflichtung zur Rückzahlung ist der Darlehensnehmer auf
@@ -1239,7 +1199,6 @@ höchstens jedoch bis zu 10 Jahren, durch Zeiten gehemmt, in denen der
 Darlehensnehmer von der Rückzahlungspflicht freigestellt worden ist.
 Dies gilt nicht, soweit das Darlehen nach § 18b Absatz 5 in der bis
 zum 31. Dezember 2009 geltenden Fassung erlassen worden ist.
-
 
 ### § 18b Teilerlass des Darlehens
 
@@ -1349,7 +1308,6 @@ Verfahren, insbesondere über die Mitwirkung der Prüfungsstellen. Diese
 sind zur Auskunft und Mitwirkung verpflichtet, soweit dies für die
 Durchführung dieses Gesetzes erforderlich ist.
 
-
 ### § 18c Bankdarlehen
 
 (1) Die Kreditanstalt für Wiederaufbau schließt in den Fällen des § 17
@@ -1457,7 +1415,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
 Anpassung der Höhe der Aufschläge nach den Absätzen 3 und 4 an die
 tatsächlichen Kosten.
 
-
 ### § 18d Kreditanstalt für Wiederaufbau
 
 (1) Die nach § 18c Absatz 10 auf den Bund übergegangenen
@@ -1488,7 +1445,6 @@ jeweiligen Kalenderjahres jedem Land einen Abschlag in Höhe des ihm
 voraussichtlich zustehenden Betrages, bis zum 30. Juni des folgenden
 Jahres den Restbetrag.
 
-
 ### § 19 Aufrechnung
 
 Mit einem Anspruch auf Erstattung von Ausbildungsförderung (§ 50 des
@@ -1501,7 +1457,6 @@ abgetreten worden, kann das Amt für Ausbildungsförderung gegenüber dem
 Träger der Sozialhilfe mit einem Anspruch auf Erstattung von
 Ausbildungsförderung nicht aufrechnen. Die Sätze 1 und 2 gelten nicht
 für Bankdarlehen nach § 18c.
-
 
 ### § 20 Rückzahlungspflicht
 
@@ -1537,10 +1492,7 @@ Kalendermonats zurückzuzahlen, in dem der Auszubildende die Ausbildung
 aus einem von ihm zu vertretenden Grund unterbrochen hat. Die Regelung
 über die Erstattungspflicht gilt nicht für Bankdarlehen nach § 18c.
 
-
 ## Abschnitt IV - Einkommensanrechnung
-
-
 
 ### § 21 Einkommensbegriff
 
@@ -1686,10 +1638,6 @@ des Bundesversorgungsgesetzes), gilt als Einkommen des Kindes.
     anderen Zweck als für die Deckung des Bedarfs im Sinne dieses Gesetzes
     bestimmt sind.
 
-
-
-
-
 ### § 22 Berechnungszeitraum für das Einkommen des Auszubildenden
 
 (1) Für die Anrechnung des Einkommens des Auszubildenden sind die
@@ -1713,10 +1661,6 @@ des Einkommens
 
 2.  der Kinder, der in § 25 Absatz 5 Nummer 1 bis 3 bezeichneten Personen
     und der sonstigen Unterhaltsberechtigten nach § 25 Absatz 3.
-
-
-
-
 
 ### § 23 Freibeträge vom Einkommen des Auszubildenden
 
@@ -1785,7 +1729,6 @@ besonderer Kosten der Ausbildung erforderlich ist, die nicht durch den
 Bedarfssatz gedeckt sind, höchstens jedoch bis zu einem Betrag von 205
 Euro monatlich.
 
-
 ### § 24 Berechnungszeitraum für das Einkommen der Eltern und des Ehegatten oder Lebenspartners
 
 (1) Für die Anrechnung des Einkommens der Eltern und des Ehegatten
@@ -1821,7 +1764,6 @@ Monatseinkommen des Bewilligungszeitraums durch die Zahl der
 Kalendermonate des Bewilligungszeitraums geteilt wird; als
 Monatseinkommen gilt ein Zwölftel des jeweiligen
 Kalenderjahreseinkommens.
-
 
 ### § 25 Freibeträge vom Einkommen der Eltern und des Ehegatten oder Lebenspartners
 
@@ -1899,16 +1841,12 @@ Einkommensteuergesetzes sowie Aufwendungen für behinderte Personen,
 denen der Einkommensbezieher nach dem bürgerlichen Recht
 unterhaltspflichtig ist.
 
-
 ## Abschnitt V - Vermögensanrechnung
-
-
 
 ### § 26 Umfang der Vermögensanrechnung
 
 Vermögen des Auszubildenden wird nach Maßgabe der §§ 27 bis 30
 angerechnet.
-
 
 ### § 27 Vermögensbegriff
 
@@ -1947,10 +1885,6 @@ rechtlichen Gründen nicht verwerten kann.
 
 4.  Haushaltsgegenstände.
 
-
-
-
-
 ### § 28 Wertbestimmung des Vermögens
 
 (1) Der Wert eines Gegenstandes ist zu bestimmen
@@ -1973,7 +1907,6 @@ Darlehen.
 (4) Veränderungen zwischen Antragstellung und Ende des
 Bewilligungszeitraums bleiben unberücksichtigt.
 
-
 ### § 29 Freibeträge vom Vermögen
 
 (1) Von dem Vermögen bleiben anrechnungsfrei
@@ -1995,7 +1928,6 @@ Maßgebend sind die Verhältnisse im Zeitpunkt der Antragstellung.
 (3) Zur Vermeidung unbilliger Härten kann ein weiterer Teil des
 Vermögens anrechnungsfrei bleiben.
 
-
 ### § 30 Monatlicher Anrechnungsbetrag
 
 Auf den monatlichen Bedarf des Auszubildenden ist der Betrag
@@ -2003,15 +1935,11 @@ anzurechnen, der sich ergibt, wenn der Betrag des anzurechnenden
 Vermögens durch die Zahl der Kalendermonate des Bewilligungszeitraums
 geteilt wird.
 
-
 ### (XXXX) §§ 31 bis 34 (weggefallen)
 
 -
 
-
 ## Abschnitt VI -
-
-
 
 ### § 35 Anpassung der Bedarfssätze und Freibeträge
 
@@ -2024,10 +1952,7 @@ finanzwirtschaftlichen Entwicklung Rechnung zu tragen. Die
 Bundesregierung hat hierüber dem Deutschen Bundestag und dem Bundesrat
 zu berichten.
 
-
 ## Abschnitt VII - Vorausleistung und Anspruchsübergang
-
-
 
 ### § 36 Vorausleistung von Ausbildungsförderung
 
@@ -2065,7 +1990,6 @@ Bürgerlichen Gesetzbuches getroffenen Bestimmung zu leisten.
 der Auszubildende in demselben Ausbildungsabschnitt für den
 vorhergehenden Bewilligungszeitraum Leistungen nach Absatz 1 oder 2
 erhalten hat, abgesehen werden.
-
 
 ### § 37 Übergang von Unterhaltsansprüchen
 
@@ -2106,7 +2030,6 @@ verzinsen. Zinsen werden jedoch erst vom Beginn des Monats an erhoben,
 der auf die Mitteilung des Amtes für Ausbildungsförderung über den
 erfolgten Anspruchsübergang folgt.
 
-
 ### § 38 Übergang von anderen Ansprüchen
 
 Hat der Auszubildende für die Zeit, für die ihm Ausbildungsförderung
@@ -2117,10 +2040,7 @@ geht dieser mit der Zahlung in Höhe der geleisteten Aufwendungen auf
 das Land über. Die §§ 104 und 115 des Zehnten Buches Sozialgesetzbuch
 bleiben unberührt.
 
-
 ## Abschnitt VIII - Organisation
-
-
 
 ### § 39 Auftragsverwaltung
 
@@ -2142,7 +2062,6 @@ mit Zustimmung des Bundesrates eine einheitliche maschinelle
 Berechnung, Rückrechnung und Abrechnung der Leistungen nach diesem
 Gesetz in Form einer algorithmischen Darstellung materiellrechtlicher
 Regelungen (Programmablaufplan) regeln.
-
 
 ### § 40 Ämter für Ausbildungsförderung
 
@@ -2179,7 +2098,6 @@ besuchen, können die Länder abweichend von Absatz 1 Ämter für
 Ausbildungsförderung bei staatlichen Hochschulen, Studentenwerken oder
 Landesämtern für Ausbildungsförderung einrichten.
 
-
 ### § 40a Landesämter für Ausbildungsförderung
 
 Die Länder können Landesämter für Ausbildungsförderung errichten.
@@ -2187,7 +2105,6 @@ Mehrere Länder können ein gemeinsames Landesamt für
 Ausbildungsförderung errichten. Im Falle der Errichtung eines
 Landesamtes für Ausbildungsförderung nach Satz 1 findet § 40 Absatz 2
 Satz 3 Nummer 2 keine Anwendung.
-
 
 ### § 41 Aufgaben der Ämter für Ausbildungsförderung
 
@@ -2225,16 +2142,13 @@ für Ausbildungsförderung dürfen die ihnen übermittelten Daten nur zur
 bei denen die Überprüfung zu keinen abweichenden Feststellungen führt,
 sind unverzüglich zu löschen.
 
-
 ### § 42 (weggefallen)
 
 -
 
-
 ### § 43 (weggefallen)
 
 -
-
 
 ### § 44 Beirat für Ausbildungsförderung
 
@@ -2262,10 +2176,7 @@ der Ausbildungsstätten, der Auszubildenden, der Elternschaft, der
 Rechts-, Wirtschafts- oder Sozialwissenschaften, der Arbeitgeber sowie
 der Arbeitnehmer zu berufen.
 
-
 ## Abschnitt IX - Verfahren
-
-
 
 ### § 45 Örtliche Zuständigkeit
 
@@ -2339,7 +2250,6 @@ welches Land das für alle Auszubildenden, die die in einem anderen
 Staat gelegenen Ausbildungsstätten besuchen, örtlich zuständige Amt
 bestimmt.
 
-
 ### § 45a Wechsel in der Zuständigkeit
 
 (1) Wird ein anderes Amt für Ausbildungsförderung zuständig, so tritt
@@ -2354,7 +2264,6 @@ nunmehr zuständigen Amt fortgesetzt werden.
 (3) Sobald ein Amt zuständig ist, das in einem anderen Land liegt,
 gehen die Ansprüche nach § 50 Absatz 1 des Zehnten Buches
 Sozialgesetzbuch und § 20 auf dieses Land über.
-
 
 ### § 46 Antrag
 
@@ -2394,7 +2303,6 @@ vorliegen. Die Entscheidung nach den Nummern 2 bis 4 ist für den
 ganzen Ausbildungsabschnitt zu treffen. Das Amt ist an die
 Entscheidung nicht mehr gebunden, wenn der Auszubildende die
 Ausbildung nicht binnen eines Jahres nach Antragstellung beginnt.
-
 
 ### § 47 Auskunftspflichten
 
@@ -2447,7 +2355,6 @@ lebenden, des Auszubildenden.
 5 bezeichneten Institutionen und Personen eine angemessene Frist zur
 Erteilung von Auskünften und Vorlage von Urkunden setzen.
 
-
 ### § 47a Ersatzpflicht des Ehegatten oder Lebenspartners und der Eltern
 
 Haben der Ehegatte oder Lebenspartner oder die Eltern des
@@ -2460,7 +2367,6 @@ unterlassen haben, so haben sie den Betrag, der nach § 17 Absatz 1 und
 worden ist, dem Land zu ersetzen. Der Betrag ist vom Zeitpunkt der zu
 Unrecht erfolgten Leistung an mit 6 vom Hundert für das Jahr zu
 verzinsen.
-
 
 ### § 48 Mitwirkung von Ausbildungsstätten
 
@@ -2523,7 +2429,6 @@ Ausbildungsstätte einholen.
 Stellungnahme nur aus wichtigem Grund abweichen, der dem
 Auszubildenden schriftlich mitzuteilen ist.
 
-
 ### § 49 Feststellung der Voraussetzungen der Förderung im Ausland
 
 (1) Der Auszubildende hat auf Verlangen des Amtes für
@@ -2551,7 +2456,6 @@ Prüfungsstelle darüber beizubringen, dass das von ihm beabsichtigte
 Auslandspraktikum den Erfordernissen des § 5 Absatz 5 entspricht.
 
 (2) § 48 Absatz 6 ist anzuwenden.
-
 
 ### § 50 Bescheid
 
@@ -2625,7 +2529,6 @@ der neue Antrag im Wesentlichen vollständig zwei Kalendermonate vor
 Ablauf des Bewilligungszeitraums gestellt war und ihm die
 erforderlichen Nachweise beigefügt wurden.
 
-
 ### § 51 Zahlweise
 
 (1) Der Förderungsbetrag ist unbar monatlich im Voraus zu zahlen. Die
@@ -2646,11 +2549,9 @@ aufzurunden.
 
 (4) Nicht geleistet werden monatliche Förderungsbeträge unter 10 Euro.
 
-
 ### § 52 (weggefallen)
 
 -
-
 
 ### § 53 Änderung des Bescheides
 
@@ -2680,12 +2581,10 @@ Zeitpunkt, ab dem der Bescheid zu ändern ist, durch die Zahl der
 verbleibenden Kalendermonate des Bewilligungszeitraums geteilt und auf
 diese angerechnet wird.
 
-
 ### § 54 Rechtsweg
 
 Für öffentlich-rechtliche Streitigkeiten aus diesem Gesetz ist der
 Verwaltungsrechtsweg gegeben.
-
 
 ### § 55 Statistik
 
@@ -2742,10 +2641,7 @@ Ausbildungsförderung.
 (4) Für die Durchführung der Statistik besteht Auskunftspflicht.
 Auskunftspflichtig sind die Ämter für Ausbildungsförderung.
 
-
 ## Abschnitt X -
-
-
 
 ### § 56 Aufbringung der Mittel
 
@@ -2782,15 +2678,11 @@ Land, in dem der Auszubildende seinen ständigen Wohnsitz hat, dem nach
 der Rechtsverordnung auf Grund des § 45 Absatz 4 Satz 2 zuständigen
 Land 35 vom Hundert der Ausgaben.
 
-
 ## Abschnitt XI - Bußgeldvorschriften, Übergangs- und Schlussvorschriften
-
-
 
 ### § 57 (weggefallen)
 
 -
-
 
 ### § 58 Ordnungswidrigkeiten
 
@@ -2828,11 +2720,9 @@ Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
 Nummer 1, 2 und 2a das Amt für Ausbildungsförderung, in den Fällen des
 Absatzes 1 Nummer 3 das Bundesverwaltungsamt.
 
-
 ### § 59 (weggefallen)
 
 -
-
 
 ### § 60 Opfer politischer Verfolgung durch SED-Unrecht
 
@@ -2861,24 +2751,17 @@ Ausbildungsabschnitte, die vor dem 1. Januar 2003 beginnen,
     Antrag ist innerhalb eines Monats nach Erhalt der Mitteilung nach §
     18c Absatz 8 an die Kreditanstalt für Wiederaufbau zu richten.
 
-
-
-
-
 ### (XXXX) §§ 61 und 62 (weggefallen)
 
 -
-
 
 ### § 63 (weggefallen)
 
 -
 
-
 ### § 64 (weggefallen)
 
 -
-
 
 ### § 65 Weitergeltende Vorschriften
 
@@ -2908,11 +2791,9 @@ werden durch dieses Gesetz nicht berührt.
 (2) Die in Absatz 1 bezeichneten Vorschriften haben Vorrang vor diesem
 Gesetz.
 
-
 ### § 66 (weggefallen)
 
 -
-
 
 ### § 66a Übergangs- und Anwendungsvorschrift aus Anlass des Zweiundzwanzigsten und des Dreiundzwanzigsten Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes
 
@@ -2947,11 +2828,9 @@ zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach §
 21 Absatz 3 Nummer 4 des Bundesausbildungsförderungsgesetzes in der ab
 dem 28. Oktober 2010 geltenden Fassung anzuwenden.
 
-
 ### § 67 (weggefallen)
 
 -
-
 
 ### § 68 Inkrafttreten
 

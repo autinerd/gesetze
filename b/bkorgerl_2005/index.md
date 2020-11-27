@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3197
 
-
-
 ## Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit
 sofortiger Wirkung an:
-
 
 ## I.
 
@@ -53,10 +50,6 @@ sofortiger Wirkung an:
 
 3.  Der Chef des Bundeskanzleramtes wird zum Bundesminister für besondere
     Aufgaben bestellt.
-
-
-
-
 
 ## II.
 
@@ -106,7 +99,6 @@ Dem Bundesministerium für Wirtschaft und Technologie werden
 Die Zuständigkeitsübertragung schließt deren europäische und
 internationale Bezüge sowie deren Grundsatz- und
 Planungsangelegenheiten ein.
-
 
 ## III.
 
@@ -162,10 +154,6 @@ Planungsangelegenheiten ein.
     die Belange der Behinderten und der Bundesbeauftragte für die
     Sozialversicherungswahlen.
 
-
-
-
-
 ## IV.
 
 Aus dem Geschäftsbereich des Bundesministeriums für Familie, Senioren,
@@ -173,13 +161,11 @@ Frauen und Jugend wird dem Bundeskanzleramt die Beauftragte der
 Bundesregierung für Migration, Flüchtlinge und Integration zugeordnet,
 die Aufgabe von einer Staatsministerin wahrgenommen.
 
-
 ## V.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten
 Mitgliedern der Bundesregierung geregelt und dem Chef des
 Bundeskanzleramtes mitgeteilt.
-
 
 ## Schlussformel
 

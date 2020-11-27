@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2806
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 4 in Verbindung mit § 72 Abs. 1 Nr. 5 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 14. Februar
 2001 (BGBl. I S. 232, 478) verordnet die Bundesregierung:
-
 
 ## § 1
 
@@ -31,7 +28,6 @@ im Dienstverhältnis eines Berufssoldaten oder eines Soldaten auf Zeit
 gelten die Vorschriften für Bundesbeamtinnen und Bundesbeamte
 entsprechend, soweit sich aus den folgenden Vorschriften nichts
 anderes ergibt.
-
 
 ## § 2
 
@@ -53,12 +49,10 @@ Satz 1 gilt auch, wenn die Disziplinarmaßnahme nur im Hinblick auf §
 Fall beginnt die Frist mit dem Tag, an dem die Entscheidung über die
 Einstellung des Disziplinarverfahrens wirksam geworden ist.
 
-
 ## § 3
 
 Die zur Durchführung dieser Verordnung erforderlichen Bestimmungen
 erlässt das Bundesministerium der Verteidigung.
-
 
 ## § 4
 

@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1992, 1251
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen; Artikel 79 Abs. 2 des Grundgesetzes ist eingehalten:
-
 
 ## Art 1
 
@@ -31,7 +28,6 @@ einschließlich der 17 Protokolle sowie den Erklärungen, wie sie in der
 Schlußakte vom selben Tage aufgeführt sind, wird zugestimmt. Der
 Vertrag, die Protokolle und die Schlußakte einschließlich der
 Erklärungen werden nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -43,7 +39,6 @@ gemäß der ihnen nach Artikel 109 Abs. 2 des Grundgesetzes obliegenden
 Berücksichtigung der Erfordernisse des gesamtwirtschaftlichen
 Gleichgewichts auf der Grundlage einer Abstimmung zwischen Bund und
 Ländern zu erfüllen.
-
 
 ## Art 3
 

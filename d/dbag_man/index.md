@@ -17,12 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2010, 968
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Regierung der Bundesrepublik Deutschland und der Regierung der Insel
 Man zur Vermeidung der Doppelbesteuerung von im internationalen
 Verkehr tätigen Schifffahrtsunternehmen wird zugestimmt. Das Abkommen
 wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -42,7 +39,6 @@ sowie ihre Aufhebung und Änderung sind insoweit auch zulässig, wenn
 die Festsetzungsfrist abgelaufen ist; dies gilt nur bis zum Ablauf des
 vierten Kalenderjahrs, das auf das Kalenderjahr folgt, in dem das
 Abkommen in Kraft getreten ist.
-
 
 ## Art 3
 

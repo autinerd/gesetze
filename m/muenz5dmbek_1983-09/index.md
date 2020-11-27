@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 1216
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -77,7 +75,6 @@ eingeprägt.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

@@ -19,10 +19,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 20.12.2005 I 3520
 
-
 ## Abschnitt 1 - Begriffsbestimmungen
-
-
 
 ### § 1
 
@@ -203,17 +200,9 @@ weitergehender Untersuchungen nicht zu befürchten ist.
 
     nachgewiesen worden sind.
 
-
-
-
-
 ## Abschnitt 2 - Schutzmaßregeln gegen die BHV1-Infektion
 
-
-
 ### Unterabschnitt 1 - Allgemeine Schutzmaßregeln
-
-
 
 #### § 2 Impfungen
 
@@ -259,7 +248,6 @@ bestimmten Gebiet von einer Genehmigung abhängig machen.
 eine BHV1-Infektion, über die Ohrmarkennummern der geimpften Rinder
 sowie über den verwendeten BHV1-Impfstoff zu erteilen.
 
-
 #### § 2a Untersuchungen
 
 (1) Der Besitzer hat, soweit sein Bestand nicht bereits ein
@@ -304,7 +292,6 @@ Entnahme von Blutproben anordnen.
 durchgeführten Untersuchungen sowie das Ergebnis dieser Untersuchungen
 zu erteilen.
 
-
 #### § 2b Mitteilungspflicht
 
 Die zuständigen obersten Landesbehörden übermitteln dem
@@ -314,7 +301,6 @@ Kommission vom 10. Dezember 2003 zur Festlegung der Kriterien für die
 Übermittlung der Angaben gemäß der Richtlinie 64/432/EWG des Rates
 (ABl. EU Nr. L 332 S. 53) in der jeweils geltenden Fassung den Stand
 der BHV1-Sanierung.
-
 
 #### § 3 Verbringen von Rindern
 
@@ -397,7 +383,6 @@ Zuständigkeitsbereichs Ausnahmen von Absatz 1 Satz 1 im Hinblick auf
 die amtstierärztliche Bescheinigung zulassen, sofern Belange der
 Seuchenbekämpfung nicht entgegenstehen.
 
-
 #### § 4 Weitergehende Befugnisse der zuständigen Behörde
 
 (1) Die zuständige Behörde kann das Treiben von Rindern, die nicht die
@@ -428,14 +413,9 @@ werden.
 (4) Die zuständige Behörde kann anordnen, dass Reagenten sowie
 geimpfte Rinder dauerhaft zu kennzeichnen sind.
 
-
 ### Unterabschnitt 2 - Besondere Schutzmaßregeln
 
-
-
 #### Titel 1 - Vor amtlicher Feststellung der BHV1-Infektion oder des Verdachts der BHV1-Infektion
-
-
 
 ##### § 5 Schutzmaßregeln
 
@@ -487,10 +467,7 @@ entsprechend den Empfehlungen des Impfstoffherstellers) auf
 betriebseigene Weiden verbracht werden, wobei Kontakte zu Rindern
 anderer Besitzer zu verhindern sind.
 
-
 #### Titel 2 - Nach amtlicher Feststellung der BHV1-Infektion oder des Verdachts der BHV1-Infektion
-
-
 
 ##### § 6 Sperre
 
@@ -583,14 +560,12 @@ mit Rindern anderer Bestände Kontakt haben können, verbracht werden.
 Früchte, tot geborene Kälber oder Nachgeburten für Untersuchungen
 benötigt werden.
 
-
 ##### § 7 Tötung
 
 Ist der Verdacht des Ausbruchs oder der Ausbruch der BHV1-Infektion in
 einem Gehöft oder an einem sonstigen Standort amtlich festgestellt,
 kann die zuständige Behörde die Tötung der seuchenkranken und
 seuchenverdächtigen Rinder anordnen.
-
 
 ##### § 8 Sperrbezirk
 
@@ -604,7 +579,6 @@ Proben zur Untersuchung auf eine BHV1-Infektion, sowie die Impfung von
 Rindern im Sperrbezirk anordnen. Die zuständige Behörde kann ferner
 anordnen, dass Rinder nur mit Genehmigung aus dem Sperrbezirk
 verbracht werden dürfen.
-
 
 ##### § 9 Ansteckungsverdacht
 
@@ -627,7 +601,6 @@ Impfung anordnen.
 
 (2) Die zuständige Behörde kann im Falle des Verdachts des Ausbruchs
 der BHV1-Infektion Maßnahmen nach Absatz 1 anordnen.
-
 
 ##### § 10 Reinigung und Desinfektion
 
@@ -661,7 +634,6 @@ lagern. Abweichend von den Sätzen 2 und 3 kann die zuständige Behörde
 kürzere Lagerzeiten genehmigen, wenn Belange der Seuchenbekämpfung
 nicht entgegenstehen.
 
-
 ##### § 11 Ausstellungen, Märkte
 
 Wird bei Rindern, die sich auf Ausstellungen, Märkten und
@@ -670,10 +642,7 @@ festgestellt oder liegt ein Seuchen- oder Ansteckungsverdacht vor, so
 kann die zuständige Behörde entsprechend den §§ 5 bis 10 Anordnungen
 treffen.
 
-
 ## Abschnitt 3 - Aufhebung der Schutzmaßregeln
-
-
 
 ### § 12 Aufhebung der Schutzmaßregeln
 
@@ -751,13 +720,7 @@ beseitigt ist.
     innerhalb von 30 Tagen nach der Impfung keine auf eine BHV1-Infektion
     hinweisenden klinischen Erscheinungen zeigen.
 
-
-
-
-
 ## Abschnitt 4 - Ordnungswidrigkeiten, Übergangsvorschriften
-
-
 
 ### § 13 Ordnungswidrigkeiten
 
@@ -852,15 +815,10 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
     das Packen, die Desinfektion oder das Lagern von Futter, Einstreu,
     Dung oder flüssigem Stallabgang zuwiderhandelt.
 
-
-
-
-
 ### § 14 Übergangsvorschriften
 
 § 3 Abs. 1 Satz 3 ist mit Ablauf des 31. Dezember 2005 nicht mehr
 anzuwenden.
-
 
 ### Anlage 1 (zu § 1 Abs. 2 Nr. 1 Buchstabe a und b) Voraussetzungen, unter denen ein Rinderbestand als frei von einer BHV1-Infektion gilt
 
@@ -1128,13 +1086,6 @@ nachfolgenden Anforderungen erfüllt sind:
         Bestände mit maximal 50 laktierenden Kühen beschränkt, größere
         Bestände müssen hinsichtlich dieser Untersuchung geteilt werden.
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 3 Abs. 1 Satz 1) Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rindes
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3529
@@ -1179,10 +1130,6 @@ zuständigen Behörde              ...................................
     Gültigkeit sind nur für Rinder im Sinne des § 1 Abs. 2 Nr. 2 Buchstabe
     a und b auszustellen, die jünger als neun Monate und noch nicht
     untersucht worden sind).
-
-
-
-
 
 ### Anlage 3 (zu § 3 Abs. 1 Satz 1) Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rinderbestandes
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   AnO v. 26.10.2012 I 2280
 
-
 ## Eingangsformel
 
 Nach § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung
@@ -28,9 +27,7 @@ des Bundespräsidenten über die Ernennung und Entlassung der Soldaten
 vom 10. Juli 1969 (BGBl. I S. 775), die durch die Anordnung vom 17.
 März 1972 (BGBl. I S. 499) geändert worden ist, ordne ich an:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### Art 1 Dienstgradbezeichnungen
 
@@ -38,7 +35,6 @@ Soweit in dieser Anordnung Dienstgradbezeichnungen des Heeres und der
 Luftwaffe verwendet werden, gelten die jeweiligen Bestimmungen auch
 für die entsprechenden Dienstgrade der Marine und des
 Sanitätsdienstes.
-
 
 ### Art 2 Vorbehaltene Ernennungen und Entlassungen
 
@@ -64,10 +60,6 @@ Dem Bundesministerium der Verteidigung behalte ich vor
 
 5.  Ernennungen und Entlassungen in sonstigen besonderen Fällen.
 
-
-
-
-
 ### Art 3 Ausschließliche Zuständigkeit der Dienststellenleitung
 
 Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und
@@ -77,9 +69,7 @@ Ermächtigung durch das Bundesministerium der Verteidigung Gebrauch
 macht, die Vollziehung von Ernennungs- und Entlassungsurkunden auf
 andere Angehörige der Dienststelle zu übertragen.
 
-
 ## Abschnitt 2 - Zuständigkeiten für Berufssoldatinnen, Berufssoldaten, Soldatinnen auf Zeit, Soldaten auf Zeit und Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des Wehrpflichtgesetzes leisten
-
 
 ### Art 4 Zuständigkeit des Personalamtes der Bundeswehr und des Bundesamtes für das Personalmanagement der Bundeswehr
 
@@ -155,10 +145,6 @@ Mannschaften, die
     einer Berufssoldatin oder eines Berufssoldaten berufen werden oder
     worden sind.
 
-
-
-
-
 ### Art 5 Zuständigkeiten im Heer
 
 (1) Die Kompanien, Batterien, Staffeln, Inspektionen, Stabsquartiere,
@@ -217,7 +203,6 @@ ihnen unterstellte Mannschaften entlassen.
 Mannschaften durch das Bundesamt für das Personalmanagement der
 Bundeswehr ernannt und entlassen.
 
-
 ### Art 6 Zuständigkeiten in der Luftwaffe
 
 (1) Die Staffeln, Kompanien, Inspektionen, Ausbildungsgruppen,
@@ -275,7 +260,6 @@ ihnen unterstellte Mannschaften entlassen.
 (4) In nicht von den Absätzen 1 bis 3 erfassten Fällen werden
 Mannschaften durch das Bundesamt für das Personalmanagement der
 Bundeswehr ernannt und entlassen.
-
 
 ### Art 7 Zuständigkeiten in der Streitkräftebasis
 
@@ -346,9 +330,7 @@ ihnen unterstellte Mannschaften entlassen.
 Mannschaften durch das Bundesamt für das Personalmanagement der
 Bundeswehr ernannt und entlassen.
 
-
 ## Abschnitt 3 - Zuständigkeiten für Reservistinnen und Reservisten
-
 
 ### Art 8 Beförderungen und Entlassungen
 
@@ -368,9 +350,7 @@ die nächsthöhere Dienststelle entlassen. In ein
 Reservewehrdienstverhältnis berufene Reservistinnen und Reservisten
 entlässt das Bundesamt für das Personalmanagement der Bundeswehr.
 
-
 ## Abschnitt 4 - Schlussbestimmungen
-
 
 ### Art 9 Entlassungen nach § 61 in Verbindung mit § 29 Abs. 1 Satz 3 Nr. 4 des Wehrpflichtgesetzes
 
@@ -378,18 +358,15 @@ Die Zuständigkeit der nächsten Disziplinarvorgesetzten nach § 61 in
 Verbindung mit § 29 Abs. 1 Satz 3 Nr. 4 des Wehrpflichtgesetzes bleibt
 unberührt.
 
-
 ### Art 10 (weggefallen)
 
 -
-
 
 ### Art 11 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Anordnung tritt am 1. Januar 2009 in Kraft.
 
 (2) Der Gesamtvertrauenspersonenausschuss ist beteiligt worden.
-
 
 ### Schlussformel
 

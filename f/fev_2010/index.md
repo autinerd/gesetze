@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 26.6.2012 I 1394
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet
@@ -41,19 +40,13 @@ auf Grund des
     worden ist, gemeinsam mit dem Bundesministerium für Umwelt,
     Naturschutz und Reaktorsicherheit:
 
-
-
-
-
 ## I. - Allgemeine Regelungen für die Teilnahme am Straßenverkehr
-
 
 ### § 1 Grundregel der Zulassung
 
 Zum Verkehr auf öffentlichen Straßen ist jeder zugelassen, soweit
 nicht für die Zulassung zu einzelnen Verkehrsarten eine Erlaubnis
 vorgeschrieben ist.
-
 
 ### § 2 Eingeschränkte Zulassung
 
@@ -77,7 +70,6 @@ Führgeschirr und gelbe Abzeichen nach Satz 1 kenntlich machen.
 (3) Andere Verkehrsteilnehmer dürfen die in Absatz 2 genannten
 Kennzeichen im Straßenverkehr nicht verwenden.
 
-
 ### § 3 Einschränkung und Entziehung der Zulassung
 
 (1) Erweist sich jemand als ungeeignet oder nur noch bedingt geeignet
@@ -97,12 +89,9 @@ Fahrzeugs oder Tieres zum Führen ungeeignet oder nur noch bedingt
 geeignet ist, finden die Vorschriften der §§ 11 bis 14 entsprechend
 Anwendung.
 
-
 ## II. - Führen von Kraftfahrzeugen
 
-
 ### 1. - Allgemeine Regelungen
-
 
 #### § 4 Erlaubnispflicht und Ausweispflicht für das Führen von Kraftfahrzeugen
 
@@ -146,7 +135,6 @@ Prüfung auszuhändigen. Der Internationale Führerschein oder der
 nationale ausländische Führerschein und eine mit diesem nach § 29
 Absatz 2 Satz 2 verbundene Übersetzung ist mitzuführen und zuständigen
 Personen auf Verlangen zur Prüfung auszuhändigen.
-
 
 #### § 5 Sonderbestimmungen für das Führen von Mofas
 
@@ -197,7 +185,6 @@ Fahrerlaubnis gilt § 4 Absatz 2 Satz 2 entsprechend.
 öffentlichen Straßen führen, wenn er von einem zur Mofa-Ausbildung
 berechtigten Fahrlehrer beaufsichtigt wird; der Fahrlehrer gilt als
 Führer des Mofas.
-
 
 #### § 6 Einteilung der Fahrerlaubnisklassen
 
@@ -451,9 +438,7 @@ Umfang geführt werden, sofern sie der Fahrerlaubnispflicht
 unterliegen. Die Bestimmungen in § 76 zu den §§ 4 bis 6 bleiben
 unberührt.
 
-
 ### 2. - Voraussetzungen für die Erteilung einer Fahrerlaubnis
-
 
 #### § 7 Ordentlicher Wohnsitz im Inland
 
@@ -487,7 +472,6 @@ Inland aufhalten, begründen keinen ordentlichen Wohnsitz im Inland.
 Ihnen wird die Fahrerlaubnis erteilt, wenn die Dauer des Aufenthalts
 mindestens sechs Monate beträgt.
 
-
 #### § 8 Ausschluss des Vorbesitzes einer Fahrerlaubnis der beantragten Klasse
 
 Eine Fahrerlaubnis der beantragten Klasse darf nur erteilt werden,
@@ -495,7 +479,6 @@ wenn der Bewerber keine in einem Mitgliedstaat der Europäischen Union
 oder einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum erteilte Fahrerlaubnis (EU- oder EWR-Fahrerlaubnis)
 dieser Klasse besitzt.
-
 
 #### § 9 Vorbesitz einer Fahrerlaubnis anderer Klassen
 
@@ -510,7 +493,6 @@ bereits die Fahrerlaubnis für das ziehende Fahrzeug besitzt oder die
 Voraussetzungen für deren Erteilung erfüllt hat; in diesem Fall darf
 die Fahrerlaubnis der Klasse E frühestens mit der Fahrerlaubnis für
 das ziehende Fahrzeug erteilt werden.
-
 
 #### § 10 Mindestalter
 
@@ -609,7 +591,6 @@ Menschen.
 (4) Wird ein Kind unter sieben Jahren auf einem Mofa (§ 4 Absatz 1
 Satz 2 Nummer 1) mitgenommen, muss der Fahrzeugführer mindestens 16
 Jahre alt sein.
-
 
 #### § 11 Eignung
 
@@ -823,7 +804,6 @@ Teilnahmebescheinigung ist vom Kursleiter zu verweigern, wenn der
 Teilnehmer nicht an allen Sitzungen des Kurses teilgenommen oder die
 Anfertigung von Kursaufgaben verweigert hat.
 
-
 #### § 12 Sehvermögen
 
 (1) Zum Führen von Kraftfahrzeugen sind die in der Anlage 6 genannten
@@ -882,7 +862,6 @@ Beurteilung, ob Beeinträchtigungen des Sehvermögens bestehen, die die
 Eignung zum Führen von Kraftfahrzeugen beeinträchtigen, erforderlich
 sind.
 
-
 #### § 13 Klärung von Eignungszweifeln bei Alkoholproblematik
 
 Zur Vorbereitung von Entscheidungen über die Erteilung oder
@@ -924,7 +903,6 @@ Beschränkungen oder Auflagen ordnet die Fahrerlaubnisbehörde an, dass
 Im Falle des Satzes 1 Nummer 2 Buchstabe b sind Zuwiderhandlungen, die
 ausschließlich gegen § 24c des Straßenverkehrsgesetzes begangen worden
 sind, nicht zu berücksichtigen.
-
 
 #### § 14 Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
 
@@ -973,10 +951,6 @@ für die Zwecke nach Absatz 1 anzuordnen, wenn
     Straßenverkehrsgesetzes begangen wurden. § 13 Nummer 2 Buchstabe b
     bleibt unberührt.
 
-
-
-
-
 #### § 15 Fahrerlaubnisprüfung
 
 Der Bewerber um eine Fahrerlaubnis hat seine Befähigung in einer
@@ -989,7 +963,6 @@ Klasse C1 auf die Klasse C1E, der Klasse D auf die Klasse DE und der
 Klasse D1 auf die Klasse D1E jeweils nur einer praktischen Prüfung.
 Die Prüfungen werden von einem amtlich anerkannten Sachverständigen
 oder Prüfer für den Kraftfahrzeugverkehr abgenommen.
-
 
 #### § 16 Theoretische Prüfung
 
@@ -1030,7 +1003,6 @@ zum Umfang der Ausbildung mindestens dem nach der Fahrschüler-
 Ausbildungsordnung vorgeschriebenen Umfang entsprechen. Ergibt sich
 dies nicht aus der Ausbildungsbescheinigung, darf die Prüfung nicht
 durchgeführt werden.
-
 
 #### § 17 Praktische Prüfung
 
@@ -1099,7 +1071,6 @@ dass er zur sicheren Führung eines mit einem Schaltgetriebe
 ausgestatteten Kraftfahrzeugs der betreffenden oder einer
 entsprechenden höheren Klasse befähigt ist.
 
-
 #### § 18 Gemeinsame Vorschriften für die theoretische und die praktische Prüfung
 
 (1) Bei Täuschungshandlungen gilt die theoretische Prüfung als nicht
@@ -1120,7 +1091,6 @@ ihre Gültigkeit.
 Zweifel über die körperliche oder geistige Eignung des Bewerbers
 begründen, hat er der Fahrerlaubnisbehörde Mitteilung zu machen und
 den Bewerber hierüber zu unterrichten.
-
 
 #### § 19 Unterweisung in lebensrettenden Sofortmaßnahmen, Ausbildung in Erster Hilfe
 
@@ -1174,10 +1144,6 @@ gilt auch die Vorlage
     Rettungsschwimmer (Deutsches Rettungsschwimmer-Abzeichen in Silber
     oder Gold).
 
-
-
-
-
 #### § 20 Neuerteilung einer Fahrerlaubnis
 
 (1) Für die Neuerteilung einer Fahrerlaubnis nach vorangegangener
@@ -1193,9 +1159,7 @@ Fähigkeiten nicht mehr besitzt.
 (3) Unberührt bleibt die Anordnung einer medizinisch-psychologischen
 Untersuchung nach § 11 Absatz 3 Satz 1 Nummer 9.
 
-
 ### 3. - Verfahren bei der Erteilung einer Fahrerlaubnis
-
 
 #### § 21 Antrag auf Erteilung einer Fahrerlaubnis
 
@@ -1267,7 +1231,6 @@ Fahrerlaubnis dieser Klasse aus einem solchen Staat verzichtet.
 
 Die Fahrerlaubnisbehörde kann Ausnahmen von der in Satz 1 Nummer 2
 vorgeschriebenen Gestaltung des Lichtbildes zulassen.
-
 
 #### § 22 Verfahren bei der Behörde und der Technischen Prüfstelle
 
@@ -1346,10 +1309,6 @@ Fahrerlaubnisbehörde zurückgeben, wenn
     die praktische Prüfung nicht innerhalb von zwölf Monaten nach Eingang
     des Prüfauftrags bestanden ist.
 
-
-
-
-
 #### § 23 Geltungsdauer der Fahrerlaubnis, Beschränkungen und Auflagen
 
 (1) Die Fahrerlaubnis der Klassen A, A1, B, BE, M, S, L und T wird
@@ -1376,7 +1335,6 @@ geeignet, kann die Fahrerlaubnisbehörde die Fahrerlaubnis soweit wie
 notwendig beschränken oder unter den erforderlichen Auflagen erteilen.
 Die Beschränkung kann sich insbesondere auf eine bestimmte Fahrzeugart
 oder ein bestimmtes Fahrzeug mit besonderen Einrichtungen erstrecken.
-
 
 #### § 24 Verlängerung von Fahrerlaubnissen
 
@@ -1410,7 +1368,6 @@ Antragstellung abgelaufen ist.
 Fahrerlaubnis seinen ordentlichen Wohnsitz in einen nicht zur
 Europäischen Union oder zum Abkommen über den Europäischen
 Wirtschaftsraum gehörenden Staat verlegt hat.
-
 
 #### § 25 Ausfertigung des Führerscheins
 
@@ -1465,7 +1422,6 @@ Aushändigung des neuen Führerscheins seine Gültigkeit. Wird der
 bisherige Führerschein nach Aushändigung des neuen wieder aufgefunden,
 ist er unverzüglich der zuständigen Fahrerlaubnisbehörde abzuliefern.
 
-
 #### § 25a Antrag auf Ausstellung eines Internationalen Führerscheins
 
 (1) Kraftfahrzeugführer erhalten auf Antrag den Internationalen
@@ -1481,7 +1437,6 @@ November 1968 ist.
 
 (2) Dem Antrag sind ein Lichtbild, das den Bestimmungen der
 Passverordnung entspricht, und der Führerschein beizufügen.
-
 
 #### § 25b Ausstellung des Internationalen Führerscheins
 
@@ -1547,9 +1502,7 @@ Zeitpunkt ihrer Ausstellung. Die Gültigkeitsdauer darf nicht über die
 Gültigkeitsdauer des nationalen Führerscheins hinausgehen; dessen
 Nummer muss auf dem Internationalen Führerschein vermerkt sein.
 
-
 ### 4. - Sonderbestimmungen für das Führen von Dienstfahrzeugen
-
 
 #### § 26 Dienstfahrerlaubnis
 
@@ -1579,7 +1532,6 @@ Voraussetzungen des § 24 Absatz 1 neu erteilt werden.
 Erteilung oder Neuerteilung der betreffenden Klasse der
 Dienstfahrerlaubnis ist dem Inhaber auf Antrag zu bescheinigen, für
 welche Klasse von Kraftfahrzeugen ihm die Erlaubnis erteilt war.
-
 
 #### § 27 Verhältnis von allgemeiner Fahrerlaubnis und Dienstfahrerlaubnis
 
@@ -1637,9 +1589,7 @@ Zentrale Militärkraftfahrtstelle die Aufgaben wahr.
 (4) Die Dienstfahrerlaubnis erlischt mit der Entziehung der
 allgemeinen Fahrerlaubnis.
 
-
 ### 5. - Sonderbestimmungen für Inhaber ausländischer Fahrerlaubnisse
-
 
 #### § 28 Anerkennung von Fahrerlaubnissen aus Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -1746,7 +1696,6 @@ machen, wird auf Antrag erteilt, wenn die Gründe für die Entziehung
 oder die Sperre nicht mehr bestehen. Absatz 4 Satz 3 sowie § 20 Absatz
 1 und 3 gelten entsprechend.
 
-
 #### § 29 Ausländische Fahrerlaubnisse
 
 (1) Inhaber einer ausländischen Fahrerlaubnis dürfen im Umfang ihrer
@@ -1848,7 +1797,6 @@ Absatz 3 Nummer 3 und 4 genannten Entscheidungen im Inland Gebrauch zu
 machen, wird auf Antrag erteilt, wenn die Gründe für die Entziehung
 nicht mehr bestehen.
 
-
 #### § 30 Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Beantragt der Inhaber einer EU- oder EWR-Fahrerlaubnis, die zum
@@ -1919,7 +1867,6 @@ April 1963 über konsularische Beziehungen (BGBl. 1969 II S. 1585) in
 der jeweils geltenden Fassung sowie die zu ihrem Haushalt gehörenden
 Familienmitglieder.
 
-
 #### § 30a Rücktausch von Führerscheinen
 
 (1) Wird ein auf Grund einer deutschen Fahrerlaubnis ausgestellter
@@ -1935,7 +1882,6 @@ Führerscheins auszuhändigen. Die nach Landesrecht zuständige Behörde
 (Fahrerlaubnisbehörde) sendet den Führerschein unter Angabe der Gründe
 über das Kraftfahrt-Bundesamt an die Behörde zurück, die sie jeweils
 ausgestellt hatte.
-
 
 #### § 31 Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Staat außerhalb des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -2016,9 +1962,7 @@ Personenkreis, sofern Gegenseitigkeit besteht. Der Vermerk nach Absatz
 4 Satz 1 ist einzutragen. Absatz 4 Satz 2 bis 7 findet keine
 Anwendung.
 
-
 ### 6. - Fahrerlaubnis auf Probe
-
 
 #### § 32 Ausnahmen von der Probezeit
 
@@ -2027,7 +1971,6 @@ Straßenverkehrsgesetzes sind Fahrerlaubnisse der Klassen M, S, L und
 T. Bei erstmaliger Erweiterung einer Fahrerlaubnis der Klassen M, S, L
 oder T auf eine der anderen Klassen ist die Fahrerlaubnis der Klasse,
 auf die erweitert wird, auf Probe zu erteilen.
-
 
 #### § 33 Berechnung der Probezeit bei Inhabern von Dienstfahrerlaubnissen und Fahrerlaubnissen aus Staaten außerhalb des Abkommens über den Europäischen Wirtschaftsraum
 
@@ -2046,7 +1989,6 @@ erteilt, wird bei der Berechnung der Probezeit der Zeitraum nicht
 berücksichtigt, in welchem er im Inland zum Führen von Kraftfahrzeugen
 nicht berechtigt war.
 
-
 #### § 34 Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe und Anordnung des Aufbauseminars
 
 (1) Die Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen
@@ -2058,7 +2000,6 @@ der Verkehrszuwiderhandlungen, die zu der Anordnung geführt haben;
 dabei ist eine angemessene Frist zu setzen. Die schriftliche Anordnung
 ist bei der Anmeldung zu einem Aufbauseminar dem Kursleiter
 vorzulegen.
-
 
 #### § 35 Aufbauseminare
 
@@ -2093,7 +2034,6 @@ gefördert und die Gefahrenerkennung verbessert werden.
 Straßenverkehrsgesetzes gelten die Absätze 1 und 2 mit der Maßgabe,
 dass die Gespräche in vier Sitzungen von jeweils 60 Minuten Dauer
 durchzuführen sind.
-
 
 #### § 36 Besondere Aufbauseminare nach § 2b Absatz 2 Satz 2 des Straßenverkehrsgesetzes
 
@@ -2186,7 +2126,6 @@ verbunden werden.
 zuständigen Behörden oder Stellen; diese können sich hierbei
 geeigneter Personen oder Stellen bedienen.
 
-
 #### § 37 Teilnahmebescheinigung
 
 (1) Über die Teilnahme an einem Aufbauseminar nach § 35 oder § 36 ist
@@ -2221,7 +2160,6 @@ Qualitätssicherung oder Aufsicht erforderlich sind. Diese Daten sind
 zu sperren und spätestens bis zum Ablauf des fünften des auf den
 Abschluss der jeweiligen Seminare folgenden Jahres zu löschen.
 
-
 #### § 38 Verkehrspsychologische Beratung
 
 In der verkehrspsychologischen Beratung soll der Inhaber der
@@ -2237,7 +2175,6 @@ jedoch eine Bescheinigung über die Teilnahme zur Vorlage bei der
 Fahrerlaubnisbehörde; diese Bescheinigung muss eine Bezugnahme auf die
 Bestätigung nach § 71 Absatz 2 enthalten.
 
-
 #### § 39 Anordnung der Teilnahme an einem Aufbauseminar und weiterer Maßnahmen bei Inhabern einer Dienstfahrerlaubnis
 
 Bei Inhabern von Dienstfahrerlaubnissen, die keine allgemeine
@@ -2250,15 +2187,12 @@ allgemeine Fahrerlaubnis, ausgenommen die Klassen M, S, L und T,
 treffen die Anordnungen ausschließlich die nach Landesrecht
 zuständigen Verwaltungsbehörden.
 
-
 ### 7. - Punktsystem
-
 
 #### § 40 Punktbewertung nach dem Punktsystem
 
 Die im Verkehrszentralregister erfassten Entscheidungen sind nach
 Anlage 13 zu bewerten.
-
 
 #### § 41 Maßnahmen der Fahrerlaubnisbehörde
 
@@ -2278,12 +2212,10 @@ Anmeldung zu einem Aufbauseminar dem Kursleiter vorzulegen.
 (4) Die Anordnung eines Verkehrsunterrichts nach § 48 der
 Straßenverkehrs-Ordnung bleibt unberührt.
 
-
 #### § 42 Aufbauseminare
 
 Hinsichtlich der Zielsetzung, des Inhalts, der Dauer und der
 Gestaltung der Aufbauseminare ist § 35 entsprechend anzuwenden.
-
 
 #### § 43 Besondere Aufbauseminare nach § 4 Absatz 8 Satz 4 des Straßenverkehrsgesetzes
 
@@ -2294,13 +2226,11 @@ Aufbauseminar teilzunehmen haben, sind, auch wenn sie noch andere
 Verkehrszuwiderhandlungen begangen haben, einem besonderen
 Aufbauseminar nach § 36 zuzuweisen.
 
-
 #### § 44 Teilnahmebescheinigung
 
 Hinsichtlich der Bescheinigung über die Teilnahme an einem
 angeordneten Aufbauseminar sowie der Verarbeitung und Nutzung der
 Teilnehmerdaten ist § 37 entsprechend anzuwenden.
-
 
 #### § 45 Punkterabatt auf Grund freiwilliger Teilnahme an einem Aufbauseminar oder an einer verkehrspsychologischen Beratung
 
@@ -2314,9 +2244,7 @@ Bundesamt.
 begangen, wird ein Punkteabzug nur gewährt, wenn er an einem
 besonderen Aufbauseminar gemäß § 36 teilgenommen hat.
 
-
 ### 8. - Entziehung oder Beschränkung der Fahrerlaubnis, Anordnung von Auflagen
-
 
 #### § 46 Entziehung, Beschränkung, Auflagen
 
@@ -2357,7 +2285,6 @@ Gebrauch zu machen.
 ausländischen Fahrerlaubnis erlischt das Recht zum Führen von
 Kraftfahrzeugen im Inland.
 
-
 #### § 47 Verfahrensregelungen
 
 (1) Nach der Entziehung sind von einer deutschen Behörde ausgestellte
@@ -2397,9 +2324,7 @@ ist auf diesem die Entziehung oder die Feststellung der fehlenden
 Fahrberechtigung zu vermerken. Der Betroffene ist verpflichtet, der
 Fahrerlaubnisbehörde den Führerschein zur Eintragung vorzulegen.
 
-
 ### 9. - Sonderbestimmungen für das Führen von Taxen, Mietwagen und Krankenkraftwagen sowie von Personenkraftwagen im Linienverkehr und bei gewerbsmäßigen Ausflugsfahrten und Ferienziel-Reisen
-
 
 #### § 48 Fahrerlaubnis zur Fahrgastbeförderung
 
@@ -2545,9 +2470,7 @@ Erlaubnis erlischt mit der Entziehung sowie mit der Entziehung der in
 Absatz 4 Nummer 1 genannten Fahrerlaubnis. § 47 Absatz 1 ist
 entsprechend anzuwenden.
 
-
 ### 10. - Begleitetes Fahren ab 17 Jahre
-
 
 #### § 48a Voraussetzungen
 
@@ -2636,7 +2559,6 @@ Krankheitsfall verschriebenen Arzneimittels herrührt.
 händigt die Fahrerlaubnisbehörde dem Fahrerlaubnisinhaber auf Antrag
 einen Führerschein nach Muster 1 der Anlage 8 aus.
 
-
 #### § 48b Evaluation
 
 Die für Zwecke der Evaluation erhobenen personenbezogene Daten der
@@ -2645,12 +2567,9 @@ Dezember 2015 zu löschen oder so zu anonymisieren oder zu
 pseudonymisieren, dass ein Personenbezug nicht mehr hergestellt werden
 kann.
 
-
 ## III. - Register
 
-
 ### 1. - Zentrales Fahrerlaubnisregister und örtliche Fahrerlaubnisregister
-
 
 #### § 49 Speicherung der Daten im Zentralen Fahrerlaubnisregister
 
@@ -2739,7 +2658,6 @@ Straßenverkehrsgesetzes folgende Daten zu speichern:
 der Tag des Beginns und Ablaufs der Probezeit und die
 Fahrerlaubnisnummer gespeichert.
 
-
 #### § 50 Übermittlung der Daten vom Kraftfahrt-Bundesamt an die Fahrerlaubnisbehörden nach § 2c des Straßenverkehrsgesetzes
 
 Das Kraftfahrt-Bundesamt unterrichtet die zuständige
@@ -2774,10 +2692,6 @@ Daten:
     innerhalb der Probezeit begangenen Straftaten und
     Ordnungswidrigkeiten.
 
-
-
-
-
 #### § 51 Übermittlung von Daten aus dem Zentralen Fahrerlaubnisregister nach den §§ 52 und 55 des Straßenverkehrsgesetzes
 
 (1) Übermittelt werden dürfen
@@ -2806,7 +2720,6 @@ gegen Rechtsvorschriften auf dem Gebiet des Straßenverkehrs oder für
 die Verfolgung von Straftaten den Polizei- und Justizbehörden
 unmittelbar übermittelt werden, wenn nicht der Empfängerstaat
 mitgeteilt hat, dass andere Behörden zuständig sind.
-
 
 #### § 52 Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Inland nach § 53 des Straßenverkehrsgesetzes
 
@@ -2870,10 +2783,6 @@ für
 
 4.  die Polizeibehörden der Länder.
 
-
-
-
-
 #### § 53 Automatisiertes Anfrage- und Auskunftsverfahren beim Zentralen Fahrerlaubnisregister nach § 54 des Straßenverkehrsgesetzes
 
 (1) Übermittelt werden dürfen nur die Daten nach § 51 unter den dort
@@ -2898,7 +2807,6 @@ sind.
 Aufzeichnungen nach § 54 Satz 2 des Straßenverkehrsgesetzes
 selbsttätig vorgenommen werden und die Übermittlung bei nicht
 ordnungsgemäßer Aufzeichnung unterbrochen wird.
-
 
 #### § 54 Sicherung gegen Missbrauch
 
@@ -2944,7 +2852,6 @@ unterliegen auch versuchte Abrufe, die unter Verwendung von
 fehlerhaften Kennungen mehr als einmal vorgenommen wurden. Satz 1 gilt
 entsprechend für die weiteren Aufzeichnungen nach § 53 Absatz 4 des
 Straßenverkehrsgesetzes.
-
 
 #### § 55 Aufzeichnung der Abrufe
 
@@ -3002,7 +2909,6 @@ insbesondere:
 vorgeschriebenen weiteren Aufzeichnungen ist § 53 Absatz 3 Satz 2 und
 3 des Straßenverkehrsgesetzes entsprechend anzuwenden.
 
-
 #### § 56 Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Ausland nach § 56 des Straßenverkehrsgesetzes
 
 (1) Zur Übermittlung aus dem Zentralen Fahrerlaubnisregister dürfen
@@ -3024,7 +2930,6 @@ bereitgehalten werden.
 (2) § 51 Absatz 2 (Empfänger der Daten), § 52 Absatz 2 (für den Abruf
 zu verwendende Daten), § 54 (Sicherung gegen Missbrauch) und § 55
 (Aufzeichnung der Abrufe) sind entsprechend anzuwenden.
-
 
 #### § 57 Speicherung der Daten in den örtlichen Fahrerlaubnisregistern
 
@@ -3165,10 +3070,6 @@ Daten zu speichern:
     verkehrspsychologischen Beratung und der Tag der Ausstellung der
     Teilnahmebescheinigung.
 
-
-
-
-
 #### § 58 Übermittlung von Daten aus den örtlichen Fahrerlaubnisregistern
 
 (1) Für die Verfolgung von Straftaten, zur Vollstreckung und zum
@@ -3211,9 +3112,7 @@ genannten Zwecke aus dem örtlichen Fahrerlaubnisregister im
 automatisierten Verfahren abgerufen werden. § 52 Absatz 2, 3 und 5, §§
 53, 54 und 55 Absatz 1 bis 3 sind entsprechend anzuwenden.
 
-
 ### 2. - Verkehrszentralregister
-
 
 #### § 59 Speicherung der Daten im Verkehrszentralregister
 
@@ -3373,7 +3272,6 @@ begründet hätte. In Fällen der Tatmehrheit (§ 20 des Gesetzes über
 Ordnungswidrigkeiten) sind nur die registerpflichtigen Teile
 einzutragen.
 
-
 #### § 60 Übermittlung von Daten nach § 30 des Straßenverkehrsgesetzes
 
 (1) Für Maßnahmen wegen Straftaten oder Ordnungswidrigkeiten werden
@@ -3492,7 +3390,6 @@ gespeicherten Daten
 unmittelbar übermittelt, wenn nicht der Empfängerstaat mitgeteilt hat,
 dass andere Behörden zuständig sind.
 
-
 #### § 61 Abruf im automatisierten Verfahren nach § 30a des Straßenverkehrsgesetzes
 
 (1) Zur Übermittlung nach § 30a Absatz 1 und 3 des
@@ -3609,14 +3506,12 @@ in § 60 Absatz 6 genannten Stellen in einem Mitgliedstaat der
 Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum übermittelt werden.
 
-
 #### § 62 Automatisiertes Anfrage- und Auskunftsverfahren nach § 30b des Straßenverkehrsgesetzes
 
 (1) Die Übermittlung der Daten nach § 60 Absatz 1, 2, 5 und 6 ist auch
 in einem automatisierten Anfrage- und Auskunftsverfahren zulässig.
 
 (2) § 53 ist anzuwenden.
-
 
 #### § 63 Vorzeitige Tilgung
 
@@ -3631,7 +3526,6 @@ Entziehung der Fahrerlaubnis, von anfechtbaren Entscheidungen der
 Fahrerlaubnisbehörden sowie von Maßnahmen nach § 94 der
 Strafprozessordnung sind zu tilgen, wenn die betreffenden
 Entscheidungen aufgehoben wurden.
-
 
 #### § 64 Identitätsnachweis
 
@@ -3654,9 +3548,7 @@ des Straßenverkehrsgesetzes werden anerkannt
 Vorlage einer entsprechenden Vollmachtserklärung oder einer Fotokopie
 hiervon erforderlich.
 
-
 ## IV. - Anerkennung und Akkreditierung für bestimmte Aufgaben
-
 
 ### § 65 Ärztliche Gutachter
 
@@ -3668,7 +3560,6 @@ der zuständigen Ärztekammer. Abweichend von Satz 1 und 2 reicht auch
 eine mindestens einjährige Zugehörigkeit zu einer Begutachtungsstelle
 für Fahreignung (Anlage 14) aus.
 
-
 ### § 66 Begutachtungsstelle für Fahreignung
 
 (1) Begutachtungsstellen für Fahreignung bedürfen der amtlichen
@@ -3677,7 +3568,6 @@ von ihr bestimmte oder nach Landesrecht zuständige Stelle.
 
 (2) Die Anerkennung kann erteilt werden, wenn insbesondere die
 Voraussetzungen nach Anlage 14 vorliegen.
-
 
 ### § 67 Sehteststelle
 
@@ -3749,7 +3639,6 @@ Augenoptikerinnung oder deren Landesverbände nach Landesrecht
 
 als amtlich anerkannte Sehteststelle. Absatz 4 ist anzuwenden.
 
-
 ### § 68 Stellen für die Unterweisung in lebensrettenden Sofortmaßnahmen und die Ausbildung in Erster Hilfe
 
 (1) Stellen, die Unterweisungen in lebensrettenden Sofortmaßnahmen
@@ -3801,7 +3690,6 @@ Unterweisungen und Ausbildungen ordnungsgemäß durchgeführt und ob die
 sich sonst aus der Anerkennung oder den Auflagen ergebenden Pflichten
 erfüllt werden.
 
-
 ### § 69 Stellen zur Durchführung der Fahrerlaubnisprüfung
 
 (1) Die Durchführung der Fahrerlaubnisprüfung obliegt den amtlich
@@ -3817,7 +3705,6 @@ Kraftfahrsachverständigengesetzes.
 (3) Die für die Durchführung der Fahrerlaubnisprüfung erhobenen
 personenbezogenen Daten sind nach Ablauf des fünften Kalenderjahres
 nach Erledigung des Prüfauftrags zu löschen.
-
 
 ### § 70 Kurse zur Wiederherstellung der Kraftfahreignung
 
@@ -3874,7 +3761,6 @@ wenn
 von 15 Jahren nachzuevaluieren.
 
 (3) § 37 Absatz 3 ist entsprechend anzuwenden.
-
 
 ### § 71 Verkehrspsychologische Beratung
 
@@ -3995,7 +3881,6 @@ zuständige Stelle. Diese führt auch die Aufsicht über die
 verkehrspsychologischen Berater; sie kann sich hierbei geeigneter
 Personen oder Stellen bedienen.
 
-
 ### § 72 Akkreditierung
 
 (1) Träger von
@@ -4020,9 +3905,7 @@ akkreditiert sein.
 Straßenwesen nach der Norm DIN EN ISO/IEC 17011, Ausgabe Februar 2005,
 wahr.
 
-
 ## V. - Durchführungs-, Bußgeld-, Übergangs- und Schlussvorschriften
-
 
 ### § 73 Zuständigkeiten
 
@@ -4063,7 +3946,6 @@ Verwaltungsbehörden und der obersten Landesbehörden werden für die
 Dienstbereiche der Bundeswehr, der Bundespolizei und der Polizei durch
 deren Dienststellen nach Bestimmung der Fachministerien wahrgenommen.
 
-
 ### § 74 Ausnahmen
 
 (1) Ausnahmen können genehmigen
@@ -4103,7 +3985,6 @@ der Zolldienst sind von den Vorschriften dieser Verordnung befreit,
 soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender
 Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend
 geboten ist.
-
 
 ### § 75 Ordnungswidrigkeiten
 
@@ -4179,10 +4060,6 @@ wer vorsätzlich oder fahrlässig
 
 
 15. einer vollziehbaren Auflage nach § 48a Absatz 2 Satz 1 zuwiderhandelt.
-
-
-
-
 
 ### § 76 Übergangsrecht
 
@@ -4448,17 +4325,12 @@ Bestimmungen:
     Landesbehörden anerkannt und die von ihrem Träger durchgeführt wurden,
     müssen bis zum 31. Dezember 2009 erneut evaluiert sein.
 
-
-
-
-
 ### § 77 Verweis auf technische Regelwerke
 
 Soweit in dieser Verordnung auf DIN-, EN- oder ISO/IEC-Normen Bezug
 genommen wird, sind diese im Beuth Verlag GmbH, 10772 Berlin,
 erschienen. Sie sind beim Deutschen Patentamt archivmäßig gesichert
 niedergelegt.
-
 
 ### § 78 Inkrafttreten
 
@@ -4467,11 +4339,9 @@ Gleichzeitig tritt die Fahrerlaubnis-Verordnung vom 18. August 1998
 (BGBl. I S. 2214), die zuletzt durch Artikel 3 der Verordnung vom 5.
 August 2009 (BGBl. I S. 2631) geändert worden ist, außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 5 Absatz 2) Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas nach § 5 Absatz 2 durch Fahrlehrer
 
@@ -4586,10 +4456,6 @@ praktische Ausbildung durchlaufen.
 2.6 Die Übungen sind außerhalb öffentlicher Straßen oder auf verkehrsarmen
     Flächen durchzuführen.
 
-
-
-
-
 ### Anlage 2 (zu § 5 Absatz 2 und 4) Ausbildungs- und Prüfbescheinigungen für Mofas
 
 (Fundstelle: BGBl. I 2010, 2016 - 2017)
@@ -4628,12 +4494,6 @@ praktische Ausbildung durchlaufen.
         *
         *
         *
-
-
-
-
-
-
 
 ### Anlage 3 (zu § 6 Absatz 7) Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
 
@@ -7050,16 +6910,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *
 
-
-
 ### Anlage 5
 
    (Fundstelle: BGBl. I 2010, 2030 - 2033
-
-
-
-
-
 
 ### Anlage 6 (zu den §§ 12, 48 Absatz 4 und 5) Anforderungen an das Sehvermögen
 
@@ -7486,12 +7339,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Blendungsempfindlichkeit beim Fahren in der Dämmerung und in der Nacht
         hinzuweisen.
 
-
-
-
-
-
-
 ## Muster
 
 Bescheinigung über die ärztliche Untersuchung
@@ -7574,9 +7421,6 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 *    *   *                        ja
 
     *   *                        nein
-
-
-
 
 ## – Rückseite –
 
@@ -7973,12 +7817,6 @@ Fahrerlaubnis-Verordnung ist erforderlich:
         Blendungsempfindlichkeit beim Fahren in der Dämmerung und in der Nacht
         hinzuweisen.
 
-
-
-
-
-
-
 ## Muster
 
 Bescheinigung über die ärztliche Untersuchung
@@ -8065,9 +7903,6 @@ Die Identität des Untersuchten wurde geprüft.
     *   ..........
         Stempel und Unterschrift des Arztes
         mit den oben stehenden beruflichen Angaben
-
-
-
 
 ## Muster
 
@@ -8538,9 +8373,6 @@ Auflagen/Beschränkungen erforderlich:
     durch geminderte Dämmerungssehschärfe und erhöhte
     Blendungsempfindlichkeit beim Fahren in der Dämmerung und in der Nacht
     hinzuweisen.
-
-
-
 
 ## Muster
 
@@ -10423,10 +10255,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Rückseite
 
-
-
-
-
 ## II. Muster des Dienstführerscheins der Bundeswehr (Muster 2)
 
 ## Farbe: hellgrau; dreifach gefaltet, Breite 4 x 74 mm, Höhe 105 mm;
@@ -10437,15 +10265,11 @@ Typdruck
 
 **Rückseite**
 
-
 ## III. Muster des Dienstführerscheins der Bundespolizei und der
 Polizei
 
 Farbe: grün; Material: Neobond — 200 g/m
 ## 2
-
-
-
 
 ## IV. Muster für den Führerschein zur Fahrgastbeförderung (Muster 4)
 
@@ -10483,8 +10307,6 @@ Farbe: grün; Material: Neobond — 200 g/m
 *    *
     *
 
-
-
 ### Anlage 8a (zu § 48a) Muster der Prüfungsbescheinigung zum „Begleiteten Fahren ab 17 Jahre“
 
    (Fundstelle: BGBl. I 2010, 2063;
@@ -10495,8 +10317,6 @@ Material: rosa Neobond-Papier
 Abweichungen vom Muster sind zulässig soweit Besonderheiten des
 Verfahrens, insbesondere der Einsatz maschineller Datenverarbeitung,
 dies erfordern.
-
-
 
 ### Anlage 8b (zu § 25b Absatz 2) Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
 
@@ -10528,9 +10348,6 @@ dies erfordern.
 
 
 (Rückseite des ersten Umschlagblattes)
-
-
-
 
 ### Anlage 8c (zu § 25b Absatz 3) Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968
 
@@ -10637,9 +10454,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 
 
 (Rückseite des ersten Umschlagblattes)
-
-
-
 
 ### Anlage 9 (zu § 25 Absatz 3) Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
 
@@ -11006,7 +10820,6 @@ b) nationale Schlüsselzahlen
 Die Schlüsselzahlen 171 bis 175 sowie 178 und 179 dürfen nur bei der
 Umstellung von Fahrerlaubnissen, die bis zum 31. Dezember 1998 erteilt
 worden sind, verwendet werden.
-
 
 ### Anlage 10 (zu den §§ 26 und 27) Dienstfahrerlaubnisse der Bundeswehr
 
@@ -12038,10 +11851,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     nur zum Führen von Fahrzeugen mit einer zulässigen Masse von nicht
     mehr als 7 500 kg berechtigt.
 
-
-
-
-
 ### Anlage 12 (zu § 34) Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
 
 (Fundstelle: BGBl. I 2010, 2098 - 2099;
@@ -12628,10 +12437,6 @@ bewerten:
 
 7   mit einem Punkt alle übrigen Ordnungswidrigkeiten.
 
-
-
-
-
 ### Anlage 14 (zu § 66 Absatz 2) Voraussetzungen für die amtliche Anerkennung als Begutachtungsstelle für Fahreignung
 
 (Fundstelle: BGBl. I 2010, 2103)
@@ -12698,7 +12503,6 @@ mindestens zweijährige praktische Berufstätigkeit (in der Regel in der
 klinischen Psychologie, Arbeitspsychologie) und mindestens eine
 einjährige Praxis in der Begutachtung der Eignung von Kraftfahrern in
 einer Begutachtungsstelle für Fahreignung.
-
 
 ### Anlage 15 (zu § 11 Absatz 5) Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
 

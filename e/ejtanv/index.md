@@ -25,12 +25,10 @@ Bereich der polizeilichen und justiziellen Zusammenarbeit bei der
 Bekämpfung des Terrorismus gemäß Artikel 4 des Gemeinsamen Standpunkts
 2001/931/GASP (ABl. EG 2003 Nr. 16 S. 68).
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 1 des Eurojust-Gesetzes vom 12. Mai 2004 (BGBl.
 I S. 902) verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Nationale Anlaufstelle für Terrorismusfragen
 
@@ -44,7 +42,6 @@ Artikel 2 Abs. 2 des Beschlusses 2005/671/JI des Rates vom 20.
 September 2005 über den Informationsaustausch und die Zusammenarbeit
 betreffend terroristische Straftaten (ABl. EU Nr. L 253 S. 22)
 (nationale Anlaufstelle).
-
 
 ## § 2 Verarbeitung der durch den Generalbundesanwalt erhobenen Informationen
 
@@ -67,7 +64,6 @@ Absatz 1 Satz 1 von den sonstigen bei ihm geführten Dateien und
 Registern zu gewährleisten. § 9 des Bundesdatenschutzgesetzes bleibt
 unberührt.
 
-
 ## § 3 Übermittlung von Informationen durch die Staatsanwaltschaften der Länder und deren Prüfung
 
 (1) Soweit die Informationen nach dem Kenntnisstand der
@@ -84,7 +80,6 @@ Strafverfolgungsbehörden erhoben haben.
 und 5 des Beschlusses 2005/671/JI entsprechen. Soweit die Daten diesen
 Anforderungen entsprechen, speichert er sie in der Datei nach § 2 Abs.
 1 Satz 1.
-
 
 ## § 4 Befugnisse des Generalbundesanwalts in seiner Eigenschaft als nationale Anlaufstelle, Zweckbindung
 
@@ -103,7 +98,6 @@ Informationen an Eurojust nach Absatz 3 übermittelt werden.
 
 (3) Die Übermittlung von Informationen an Eurojust erfolgt nach § 4
 des Eurojust-Gesetzes.
-
 
 ## § 5 Schutz personenbezogener Informationen
 
@@ -126,18 +120,15 @@ worden ist. Satz 3 gilt nicht, wenn sich die Informationen auf eine
 terroristische Vereinigung im Sinne von Artikel 2 des
 Rahmenbeschlusses 2002/475/JI beziehen.
 
-
 ## § 6 Aufsicht
 
 Bei der Erfüllung der ihm nach dieser Verordnung übertragenen Aufgaben
 unterliegt der Generalbundesanwalt der fachlichen Aufsicht des
 Bundesministeriums der Justiz.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

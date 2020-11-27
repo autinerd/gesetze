@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 1.3.2011 I 345
 
-
 ## Eingangsformel
 
 Auf Grund des § 116 Abs. 1 Satz 1 und Abs. 2 des
@@ -26,7 +25,6 @@ Versicherungsaufsichtsgesetzes, eingefügt durch Artikel 10 Nr. 4 des
 Gesetzes vom 26. Juni 2001 (BGBl. I S. 1310), verordnet das
 Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium der Justiz:
-
 
 ## § 1 Versicherungsförmige Garantien
 
@@ -91,7 +89,6 @@ Zeitpunkt ist der Zeitpunkt des Rentenbeginns.
 
 (6) und (7) (weggefallen)
 
-
 ## § 2 Versicherungsmathematische Rechnungsgrundlagen bei versicherungsförmigen Garantien
 
 (1) Bei der nach versicherungsmathematischen Methoden vorzunehmenden
@@ -148,7 +145,6 @@ Rechnungszins zu verwenden.
 werden, als die den Annahmen zugrunde liegenden rechtlichen oder
 wirtschaftlichen Rahmenbedingungen dies erfordern oder rechtfertigen.
 
-
 ## § 3 Zusagen ohne versicherungsförmige Garantien
 
 (1) Soweit ein leistungsbezogener Pensionsplan die periodische
@@ -181,7 +177,6 @@ Vermögenswerte sowie den Ertrag künftiger Vermögenswerte angemessen
 berücksichtigen. § 2 Abs. 1 ist mit der Maßgabe anzuwenden, dass die
 Rechnungsgrundlagen auf Basis eines besten Schätzwertes unter
 Einbeziehung ihrer künftigen Veränderungen abgeleitet werden.
-
 
 ## Schlussformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 26.9.2011 I 1914
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3 Satz 1 und des § 2 des
@@ -28,7 +27,6 @@ gemäß Artikel 54 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278)
 geändert worden ist, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien
 für Gesundheit und für Wirtschaft:
-
 
 ## § 1 Gesetzliche Handelsklassen und Kennzeichnung
 
@@ -56,7 +54,6 @@ der Keulen in folgender Reihenfolge angebracht werden:
 Kategoriebezeichnung, Buchstabe und Ziffer der Handelsklasse. Die
 Kennzeichnung muß mindestens 1,5 cm hoch und deutlich erkennbar sein.
 
-
 ## § 2 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 Nr. 3 des
@@ -70,14 +67,9 @@ Handelsklassengesetzes handelt, wer
 2.  entgegen § 1 Abs. 1 Satz 3 eine andere als in Satz 1 genannte
     Handelsklasse verwendet.
 
-
-
-
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
-
 
 ## Schlußformel
 

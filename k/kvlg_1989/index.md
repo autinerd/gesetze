@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 23.10.2012 I 2246
 
-
 ## Erster Abschnitt - Aufgaben der landwirtschaftlichen Krankenkassen, versicherter Personenkreis
-
-
 
 ### § 1 Aufgaben der Krankenversicherung für Landwirte
 
@@ -34,7 +31,6 @@ arbeitsbedingter Gefahren, zur Förderung der Selbsthilfe, zur
 Früherkennung von Krankheiten sowie bei Krankheit. Die §§ 1 bis 2a und
 4 Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch gelten
 entsprechend.
-
 
 ### § 2 Pflichtversicherte
 
@@ -217,7 +213,6 @@ bereits dann vor, wenn ein Anspruch auf Leistungen bei Krankheit,
 Schwangerschaft und Geburt nach § 4 des Asylbewerberleistungsgesetzes
 dem Grunde nach besteht.
 
-
 ### § 3 Verhältnis der Versicherungspflicht nach diesem Gesetz zur Versicherungspflicht nach anderen Gesetzen
 
 (1) Nach diesem Gesetz ist nicht versichert, wer
@@ -314,7 +309,6 @@ befreit, wer
 
 von der Versicherungspflicht befreit ist.
 
-
 ### § 3a Versicherungsfreiheit
 
 Versicherungsfrei ist, wer
@@ -327,10 +321,6 @@ Versicherungsfrei ist, wer
 2.  Mitglied des Deutschen Bundestages oder eines Landtages oder
     Versorgungsempfänger nach den Abgeordnetengesetzen des Bundes oder der
     Länder ist.
-
-
-
-
 
 ### § 4 Befreiung von der Versicherungspflicht
 
@@ -372,7 +362,6 @@ Sozialgesetzbuch gelten entsprechend. Der Anspruch entfällt, solange
 Anspruch auf den Zuschuß nach § 257 des Fünften Buches
 Sozialgesetzbuch besteht.
 
-
 ### § 5 Befristete Befreiung von der Versicherungspflicht
 
 Unternehmer der Binnenfischerei, der Imkerei und der Wanderschäferei,
@@ -383,7 +372,6 @@ Krankengeld versichert sind. Die Befreiung wirkt vom Beginn der
 Versicherungspflicht an, wenn der Antrag innerhalb eines Monats
 gestellt wird. Wird der Antrag später gestellt, wird die Befreiung zum
 Ersten des Kalendermonats wirksam, der auf die Antragstellung folgt.
-
 
 ### § 6 Freiwillige Versicherung
 
@@ -420,10 +408,6 @@ anzuzeigen,
 2.  im Falle des Absatzes 1 Nr. 2 nach Beendigung der Versicherung oder
     nach dem Beginn der Unterhaltsberechtigung gegenüber dem Mitglied.
 
-
-
-
-
 ### § 7 Familienversicherung
 
 (1) Für die Familienversicherung gilt § 10 des Fünften Buches
@@ -453,10 +437,7 @@ Teil berücksichtigt; für geringfügig Beschäftigte nach § 8 Abs. 1 Nr.
 Gesamteinkommen 400 Euro. § 309 Abs. 6 des Fünften Buches
 Sozialgesetzbuch gilt.
 
-
 ## Zweiter Abschnitt - Leistungen
-
-
 
 ### § 8 Grundsatz
 
@@ -502,7 +483,6 @@ anteilig zu tragen.
 der Maßgabe, dass Absatz 6 und Absatz 8 Satz 2 und 3 nicht anzuwenden
 sind.
 
-
 ### § 9 Betriebshilfe
 
 (1) Nach § 2 versicherungspflichtige landwirtschaftliche Unternehmer
@@ -542,10 +522,6 @@ Mutterschutzgesetzes entsprechend anzuwenden.
 3.  Unternehmen, in denen Arbeitnehmer oder versicherungspflichtige
     mitarbeitende Familienangehörige ständig beschäftigt werden.
 
-
-
-
-
 ### § 10 Haushaltshilfe
 
 (1) Die Satzung kann bestimmen, daß für landwirtschaftliche
@@ -563,7 +539,6 @@ möglich und diese auf andere Weise nicht sicherzustellen ist.
 Versicherten mit eigenem Haushalt gelten die §§ 24h und 38 des Fünften
 Buches Sozialgesetzbuch.
 
-
 ### § 11 Ersatzkraft bei Betriebs- und Haushaltshilfe
 
 Als Betriebs- oder Haushaltshilfe ist eine Ersatzkraft zu stellen.
@@ -577,7 +552,6 @@ werden keine Kosten erstattet; die Krankenkasse kann jedoch die
 erforderlichen Fahrkosten und den Verdienstausfall erstatten, wenn die
 Erstattung in einem angemessenen Verhältnis zu den sonst für eine
 Ersatzkraft entstehenden Kosten steht.
-
 
 ### § 12 Krankengeld
 
@@ -608,7 +582,6 @@ Krankengeldes nur das Arbeitsentgelt zugrunde gelegt; die Gewährung
 von Krankengeld schließt die Gewährung von Leistungen nach § 9 nicht
 aus.
 
-
 ### § 13 Krankengeld für nicht rentenversicherungspflichtige mitarbeitende Familienangehörige
 
 (1) Die nach § 2 Abs. 1 Nr. 3 versicherungspflichtigen mitarbeitenden
@@ -630,7 +603,6 @@ gezahltes Arbeitsentgelt (§ 23a des Vierten Buches Sozialgesetzbuch).
 (4) § 44 Abs. 1, § 44a Satz 1, § 46 Satz 1, § 47 Abs. 1 Satz 6 und 7,
 § 48 Abs. 3 und die §§ 49 bis 51 des Fünften Buches Sozialgesetzbuch
 gelten entsprechend.
-
 
 ### § 14 Mutterschaftsgeld
 
@@ -664,20 +636,13 @@ Sozialgesetzbuch
 3.  die in § 2 Absatz 1 Nummer 6 in Verbindung mit § 5 Absatz 1 Nummer 2
     des Fünften Buches Sozialgesetzbuch genannten Personen.
 
-
-
-
-
 ## Dritter Abschnitt - Beziehungen der Krankenkassen zu den Leistungserbringern
-
-
 
 ### § 15 Vertragsrecht
 
 Für die Beziehungen der landwirtschaftlichen Krankenkassen zu den
 Leistungserbringern gelten die Vorschriften des Vierten Kapitels des
 Fünften Buches Sozialgesetzbuch entsprechend.
-
 
 ### § 16 Anstellung von Personen zur Gewährung von häuslicher Krankenpflege, Betriebs- und Haushaltshilfe
 
@@ -690,10 +655,7 @@ Einrichtungen oder Unternehmen in Anspruch nimmt, hat sie über Inhalt,
 Umfang, Vergütung sowie Prüfung der Qualität und Wirtschaftlichkeit
 der Dienstleistungen Verträge zu schließen.
 
-
 ## Vierter Abschnitt - Organisation der Krankenkassen
-
-
 
 ### § 17 Träger der Versicherung, Aufsicht
 
@@ -713,7 +675,6 @@ Buchstabe f Doppelbuchstabe aa Satz 2 bis 4, Doppelbuchstabe bb und
 Doppelbuchstabe cc Satz 2 und 3 des Einigungsvertrages vom 31. August
 1990 (BGBl. 1990 II S. 885, 1055) aufgeführten Maßgaben sind nicht
 mehr anzuwenden.
-
 
 ### § 18 Verwaltungsstellen, Versichertenälteste
 
@@ -753,7 +714,6 @@ Versichertenältesten auch von diesen wahrzunehmende Aufgaben
 Die Vertreterversammlung kann feste Sätze für den Ersatz der
 Aufwendungen beschließen. Der Beschluß bedarf der Genehmigung der
 Aufsichtsbehörde.
-
 
 ### § 18a Reduzierung der Kosten für Verwaltung und Verfahren
 
@@ -801,7 +761,6 @@ Aufsichtsbehörden unterrichten das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz über die Entscheidungen nach Satz
 1\.
 
-
 ### § 19 Zuständigkeit
 
 (1) Versicherungspflichtige landwirtschaftliche Unternehmer sind
@@ -822,7 +781,6 @@ Versicherungspflichtige, Antragsteller nach § 23 Abs. 1 und
 Versicherungsberechtigte Mitglieder der Krankenkasse, in deren Bezirk
 sie ihren Wohnort haben.
 
-
 ### § 20 Versicherung besonderer Personengruppen
 
 Für Versicherungspflichtige nach § 2 Abs. 1 Nr. 6 und 7 sind für die
@@ -830,7 +788,6 @@ Durchführung dieser Versicherung die Vorschriften des Fünften Buches
 Sozialgesetzbuch über die Versicherung, die Mitgliedschaft, die
 Meldungen und die Beiträge mit Ausnahme des § 173 entsprechend
 anzuwenden.
-
 
 ### § 21 Wahlrecht der Studenten und Praktikanten
 
@@ -857,7 +814,6 @@ der Mittel für die in § 5 Abs. 1 Nr. 9 und 10 des Fünften Buches
 Sozialgesetzbuch genannten Personen gelten; § 254 Satz 2 des Fünften
 Buches Sozialgesetzbuch gilt mit der Maßgabe, dass die Satzung der
 Krankenkasse andere Zahlungsweisen vorsehen kann.
-
 
 ### § 22 Beginn der Mitgliedschaft
 
@@ -900,7 +856,6 @@ Nr. 1 und 2 genannten Versicherungsberechtigten beginnt mit dem Tag
 nach dem Ausscheiden aus der Versicherungspflicht oder mit dem Tag
 nach dem Ende der Versicherung nach § 7.
 
-
 ### § 23 Mitgliedschaft von Antragstellern
 
 (1) Als Mitglieder gelten Personen, die eine der in § 2 Abs. 1 Nr. 4
@@ -924,7 +879,6 @@ Abs. 3 gilt entsprechend.
 Mitgliedschaft nach § 189 des Fünften Buches Sozialgesetzbuch, wenn
 für die Person die Voraussetzungen des § 3 Abs. 2 Nr. 2 für eine
 vorrangige Versicherungspflicht nach diesem Gesetz vorliegen.
-
 
 ### § 24 Ende der Mitgliedschaft
 
@@ -993,7 +947,6 @@ vorrangige Versicherungspflicht nach diesem Gesetz vorliegen.
 (2) Für das Ende der Mitgliedschaft freiwilliger Mitglieder gilt § 191
 des Fünften Buches Sozialgesetzbuch.
 
-
 ### § 25 Fortbestehen der Mitgliedschaft
 
 (1) Die Mitgliedschaft der in § 2 Abs. 1 Nr. 1 bis 3 genannten
@@ -1020,7 +973,6 @@ sei denn, es besteht eine Mitgliedschaft nach anderen Vorschriften.
 (3) Bei Wehr- und Zivildienst gilt § 193 des Fünften Buches
 Sozialgesetzbuch entsprechend.
 
-
 ### § 26 Satzung, Organe, Aufgabenerledigung
 
 (1) Soweit nicht die Vorschriften des Vierten Buches Sozialgesetzbuch
@@ -1040,7 +992,6 @@ Berufsgenossenschaft, bei der sie errichtet ist.
 (3) Für die Aufgabenerledigung durch Dritte ist § 197b des Fünften
 Buches Sozialgesetzbuch entsprechend anzuwenden.
 
-
 ### § 27 Meldepflichten landwirtschaftlicher Unternehmer und früherer Versicherter
 
 (1) Versicherungspflichtige landwirtschaftliche Unternehmer haben die
@@ -1059,12 +1010,10 @@ Sozialgesetzbuch gelten entsprechend.
 (3) Personen, die die Voraussetzungen nach § 2 Abs. 1 Nr. 5 erfüllen,
 haben sich bei der landwirtschaftlichen Krankenkasse zu melden.
 
-
 ### § 28 Meldepflichten bei Wehrdienst und Zivildienst
 
 Für die Meldepflicht bei Einberufung zum Wehrdienst oder Zivildienst
 gilt § 204 des Fünften Buches Sozialgesetzbuch entsprechend.
-
 
 ### § 29 Meldepflichten bei Bezug einer Rente nach dem Gesetz über die Alterssicherung der Landwirte oder einer Rente der gesetzlichen Rentenversicherung
 
@@ -1126,14 +1075,12 @@ genannten Personen nach anderen gesetzlichen Vorschriften
 versicherungspflichtig geworden ist; dies gilt entsprechend, wenn die
 Versicherungspflicht nach anderen gesetzlichen Vorschriften endet.
 
-
 ### § 30 Meldepflichten bei Leistungen zur Teilhabe am Arbeitsleben, Bezug von Vorruhestandsgeld, Versorgungsbezügen und Erziehungsgeld oder Elterngeld
 
 Für die Meldepflichten bei Teilnahme an Leistungen zur Teilhabe am
 Arbeitsleben sowie bei Bezug von Vorruhestandsgeld, Versorgungsbezügen
 und Erziehungsgeld oder Elterngeld gelten § 200 Abs. 1 Nr. 2 und 3, §
 202 und § 203 des Fünften Buches Sozialgesetzbuch.
-
 
 ### § 31 Meldepflichten bestimmter Versicherungspflichtiger
 
@@ -1151,16 +1098,11 @@ Krankenkasse unverzüglich zu melden
 
 3.  Beginn, Höhe und Veränderungen des Arbeitseinkommens.
 
-
-
-
-
 ### § 32 Auskunftspflicht
 
 Für Versicherte und landwirtschaftliche Unternehmer, bei denen
 versicherungspflichtige Familienangehörige mitarbeiten, gilt § 206 des
 Fünften Buches Sozialgesetzbuch entsprechend.
-
 
 ### § 33 Prüfpflicht
 
@@ -1168,10 +1110,7 @@ Die landwirtschaftlichen Krankenkassen prüfen mindestens alle vier
 Jahre die für die Versicherung und die Erhebung der Beiträge
 maßgebenden Tatsachen.
 
-
 ## Fünfter Abschnitt - Wahrnehmung von Verbandsaufgaben
-
-
 
 ### § 34 Verbandsaufgaben in der landwirtschaftlichen Krankenversicherung
 
@@ -1251,14 +1190,9 @@ für die Erfüllung folgender Aufgaben:
 5.  Verwaltung der liquiden Mittel der Rücklage für die
     landwirtschaftlichen Krankenkassen.
 
-
-
-
-
 ### § 35 (weggefallen)
 
 -
-
 
 ### § 36 Wahrnehmung von Aufgaben der Landesverbände der Krankenkassen
 
@@ -1284,10 +1218,7 @@ Verträgen nach § 116b des Fünften Buches Sozialgesetzbuch nur, wenn
 die betroffenen Krankenkassen dies vereinbaren. Vereinbarungen nach
 Satz 2 und 3 sind den zuständigen Aufsichtsbehörden mitzuteilen.
 
-
 ## Sechster Abschnitt - Finanzierung
-
-
 
 ### § 37 Grundsatz
 
@@ -1315,7 +1246,6 @@ gedeckt sind.
 
 (4) Für die Beteiligung des Bundes an Aufwendungen ist § 221 des
 Fünften Buches Sozialgesetzbuch entsprechend anzuwenden.
-
 
 ### § 38 Festsetzung der Beiträge
 
@@ -1365,7 +1295,6 @@ landwirtschaftlichen Krankenkassen fest; das Nähere zum Verfahren
 regelt der Spitzenverband der landwirtschaftlichen Sozialversicherung
 in der Satzung.
 
-
 ### § 39 Beitragsberechnung für versicherungspflichtige landwirtschaftliche Unternehmer
 
 (1) Bei versicherungspflichtigen landwirtschaftlichen Unternehmern
@@ -1410,7 +1339,6 @@ landwirtschaftliche Krankenkasse den Beitrag, den der Arbeitgeber bei
 einer Versicherungspflicht nach dem Fünften Buch Sozialgesetzbuch
 entsprechend § 249 Absatz 1 oder 2 des Fünften Buches Sozialgesetzbuch
 zu tragen hätte.
-
 
 ### § 40 Beitragsberechnung bei Einkommen aus Land- und Forstwirtschaft
 
@@ -1500,10 +1428,6 @@ dann aufzuheben, wenn
     oder wegen unterlassener Angaben des Unternehmers auf einer Schätzung
     beruht.
 
-
-
-
-
 ### § 41 Auskunftspflicht des Beitragspflichtigen
 
 Macht der Beitragspflichtige trotz Aufforderung der Krankenkasse die
@@ -1512,7 +1436,6 @@ Arbeitseinkommens erforderlichen Angaben nicht, nicht vollständig oder
 nicht rechtzeitig, kann der Beitrag bis zur ordnungsgemäßen Meldung
 nach dem von der Krankenkasse geschätzten außerland- und
 außerforstwirtschaftlichen Arbeitseinkommen festgesetzt werden.
-
 
 ### § 42 Beitragsberechnung für versicherungspflichtige mitarbeitende Familienangehörige
 
@@ -1549,7 +1472,6 @@ oder Mutterschaftsgeld erhalten oder Erziehungsgeld oder Elterngeld
 beziehen. Durch die Beitragsfreiheit wird ein Anspruch auf
 Schadensersatz nicht ausgeschlossen oder gemindert.
 
-
 ### § 43 Beitragsberechnung für besondere Personengruppen
 
 (1) Die Beitragsberechnung bei Wehr- und Zivildienst richtet sich nach
@@ -1561,7 +1483,6 @@ Schadensersatz nicht ausgeschlossen oder gemindert.
 (3) Für die Beitragsberechnung versicherungspflichtiger Rückkehrer in
 die gesetzliche Krankenversicherung oder bisher nicht Versicherter
 gilt § 46 entsprechend.
-
 
 ### § 44 Beitragsberechnung für Antragsteller
 
@@ -1595,10 +1516,6 @@ Abs. 1
     Antragsteller Arbeitseinkommen oder Versorgungsbezüge erhält. § 39
     Abs. 2 gilt.
 
-
-
-
-
 ### § 45 Beitragsberechnung für Altenteiler
 
 (1) Bei den nach § 2 Abs. 1 Nr. 4 oder 5 Versicherungspflichtigen
@@ -1629,7 +1546,6 @@ sich nach § 39 Abs. 2 Satz 2 und 3; für die Rente gilt § 39 Abs. 3.
 Für das außerland- und außerforstwirtschaftliche Arbeitseinkommen gilt
 § 41.
 
-
 ### § 46 Beitragsberechnung für freiwillige Mitglieder
 
 (1) Für freiwillige Mitglieder wird die Beitragsbemessung durch die
@@ -1643,7 +1559,6 @@ Krankengeld, Mutterschaftsgeld, Erziehungsgeld oder Elterngeld gilt §
 
 (2) Die Satzung kann auch Beitragsklassen vorsehen.
 
-
 ### § 47 Tragung der Beiträge
 
 (1) Vorbehaltlich des § 48 tragen versicherungspflichtige und
@@ -1653,7 +1568,6 @@ Antragsteller die Beiträge allein.
 (2) Versicherungspflichtige nach § 2 Abs. 1 Nr. 7 tragen ihre Beiträge
 mit Ausnahme der aus Arbeitsentgelt und aus Renten der gesetzlichen
 Rentenversicherung zu tragenden Beiträge allein.
-
 
 ### § 48 Tragung der Beiträge durch Dritte
 
@@ -1689,12 +1603,10 @@ Zivildienstleistende im Falle des § 43 Abs. 1.
 In den Fällen des Absatzes 4 ist das Bundesversicherungsamt zur
 Prüfung der Beitragszahlung berechtigt.
 
-
 ### § 49 Zahlung der Beiträge
 
 Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die Beiträge
 von demjenigen zu zahlen, der sie zu tragen hat.
-
 
 ### § 50 Beitragszahlung aus der Rente und aus Versorgungsbezügen
 
@@ -1710,7 +1622,6 @@ zahlen haben, sind von den Zahlstellen der Versorgungsbezüge
 einzubehalten und an die zuständige landwirtschaftliche Krankenkasse
 zu zahlen. § 256 Abs. 1 Satz 2 bis 5 und Abs. 2 bis 4 des Fünften
 Buches Sozialgesetzbuch gilt.
-
 
 ### § 51 Verwendung und Verwaltung der Mittel, Rücklage und Gesamtrücklage
 
@@ -1734,13 +1645,11 @@ in § 2 Abs. 1 Nr. 4 und 5 genannten Personen außer Ansatz.
 (3) Beim Spitzenverband der landwirtschaftlichen Sozialversicherung
 kann eine Gesamtrücklage gebildet werden.
 
-
 ### § 51a Übernahme der Krankenbehandlung gegen Kostenerstattung
 
 Für die Übernahme der Krankenbehandlung für nicht
 Versicherungspflichtige gegen Kostenerstattung ist § 264 Abs. 2 bis 7
 des Fünften Buches Sozialgesetzbuch entsprechend anzuwenden.
-
 
 ### § 52 Erstattung der Verwaltungskosten
 
@@ -1752,7 +1661,6 @@ erstatten. Verwaltungskosten, die der landwirtschaftlichen
 Krankenkasse durch die Wahrnehmung von Verwaltungsaufgaben der
 landwirtschaftlichen Berufsgenossenschaft oder der
 landwirtschaftlichen Alterskasse entstehen, sind ihr zu erstatten.
-
 
 ### § 53 Verordnungsermächtigung
 
@@ -1768,10 +1676,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates Näheres bestimmen über
 
 2.  die Zahlung der Beiträge nach den §§ 44 und 45.
 
-
-
-
-
 ### § 54 Finanzausgleich für aufwändige Leistungsfälle
 
 Die Satzung des Spitzenverbandes der landwirtschaftlichen
@@ -1780,17 +1684,13 @@ um die Kosten für aufwändige Leistungsfälle und andere aufwändige
 Belastungen ganz oder teilweise zu decken; § 265 des Fünften Buches
 Sozialgesetzbuch ist entsprechend anzuwenden.
 
-
 ### § 55 Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
 
 Für die Prüfung der Geschäfts-, Rechnungs- und Betriebsführung der
 landwirtschaftlichen Krankenkassen gilt § 274 des Fünften Buches
 Sozialgesetzbuch entsprechend.
 
-
 ## Siebter Abschnitt - Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
-
-
 
 ### § 56 Medizinischer Dienst, Versicherungs- und Leistungsdaten, Datenschutz, Datentransparenz
 
@@ -1798,10 +1698,7 @@ Für den Medizinischen Dienst, die Versicherungs- und Leistungsdaten
 sowie den Datenschutz und die Datentransparenz sind die §§ 275 bis
 305b des Fünften Buches Sozialgesetzbuch entsprechend anzuwenden.
 
-
 ## Achter Abschnitt - Straf- und Bußgeldvorschriften, Anwendung sonstiger Vorschriften
-
-
 
 ### § 57 Straf- und Bußgeldvorschriften, Zusammenarbeit
 
@@ -1869,17 +1766,13 @@ Geldbuße bis zu 2.500 Euro geahndet werden.
 (7) Für die Zusammenarbeit zur Verfolgung und Ahndung von
 Ordnungswidrigkeiten gilt § 306 des Fünften Buches Sozialgesetzbuch.
 
-
 ### § 58 Anwendung sonstiger Vorschriften
 
 Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten für die
 landwirtschaftlichen Krankenkassen §§ 144 bis 147 des Siebten Buches
 Sozialgesetzbuch entsprechend.
 
-
 ## Neunter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 59
 
@@ -1909,7 +1802,6 @@ die Befreiung nach Absatz 1 festgestellt hat. Der Anspruch entfällt,
 solange Anspruch auf den Zuschuß nach § 257 des Fünften Buches
 Sozialgesetzbuch besteht.
 
-
 ### § 60
 
 (1) Die in § 2 Abs. 1 Nr. 1 bis 3 genannten Versicherten, die im Monat
@@ -1925,7 +1817,6 @@ Rentenbezugs einen Beitragsnachlaß in Höhe des für den Monat Dezember
 Beiträge auszugleichen, die von Versicherungspflichtigen nach § 2 Abs.
 1 Nr. 4 oder 5 aus der Rente der gesetzlichen Rentenversicherung
 gezahlt werden.
-
 
 ### § 61
 
@@ -1976,13 +1867,11 @@ erstatten, der dem Verhältnis entspricht, in dem die Mitglieder der
 Landkrankenkassen Mitglieder der Ortskrankenkassen geworden sind.
 Absatz 2 und Absatz 3 Satz 2 und 3 gelten.
 
-
 ### § 62
 
 Rechtsverordnungen und allgemeine Verwaltungsvorschriften, die auf
 Grund von Vorschriften erlassen worden sind, auf die dieses Gesetz
 verweist, gelten auch für die Krankenversicherung der Landwirte.
-
 
 ### § 63 Überleitungsvorschrift
 
@@ -2005,7 +1894,6 @@ versicherungspflichtig. Wer nach Satz 1 versicherungspflichtig ist,
 kann die Befreiung von der Versicherungspflicht bis zum 31. März 1995
 beantragen. Die Befreiung wirkt vom 1. April 1995 an und kann nicht
 widerrufen werden.
-
 
 ### § 64 Bundesmittel im Jahr 2000
 
@@ -2033,7 +1921,6 @@ Krankenkassen zwischen den Leistungsaufwendungen für die in § 2 Abs. 1
 Nr. 4 und 5 genannten Personen und den Beiträgen nach §§ 44 und 45 im
 Jahr 1999 entspricht.
 
-
 ### § 65 Maßnahmen zur Stabilisierung des Beitrages im Jahr 2003
 
 (1) Das Gesetz zur Begrenzung der Ausgaben der gesetzlichen
@@ -2053,7 +1940,6 @@ Durchführung und Evaluation von strukturierten Behandlungsprogrammen
 entstehen und sie nicht im Rahmen der vorgegebenen Höhe der
 Verwaltungsausgaben ausgeglichen werden können.
 
-
 ### § 66 Maßnahmen zur Senkung des Beitrages in den Jahren 2009 und 2010
 
 (1) Zum 1. Juli 2009 und zum 1. Januar 2010 haben die
@@ -2072,7 +1958,6 @@ der Satzung soll abweichend von § 64 Absatz 3 Satz 2 des Vierten
 Buches Sozialgesetzbuch ohne Sitzung in schriftlicher Abstimmung
 erfolgen. Die beschlossene Satzungsänderung ist der zuständigen
 Aufsichtsbehörde bis zum 30. April 2009 zur Genehmigung vorzulegen.
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III (BGBl. II 1990, 889, 1055) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

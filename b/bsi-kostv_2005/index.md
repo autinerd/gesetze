@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 519
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 2 des BSI-Errichtungsgesetzes vom 17. Dezember
@@ -26,13 +24,11 @@ ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes
 vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium des
 Innern im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
 ## § 1 Anwendungsbereich
 
 Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt)
 erhebt für Amtshandlungen nach § 3 Abs. 1 Nr. 3, 5, 6 und 7 des BSI-
 Errichtungsgesetzes Kosten nach dieser Verordnung.
-
 
 ## § 2 Kosten
 
@@ -54,7 +50,6 @@ wird.
 
 (4) Kosten, die bei fachgerechter Behandlung der Sache nicht
 entstanden wären, werden nicht erhoben.
-
 
 ## § 3 Berechnung der Gebühren
 
@@ -83,7 +78,6 @@ Gebührenverzeichnis angegebenen Stundensätzen berechnet.
 Bundesamtes auf Zeit an den Kostenschuldner ist entsprechend dem
 Sachaufwand zu berechnen.
 
-
 ## § 4 Ausnahmen von der Kostenpflicht
 
 Das Bundesministerium des Innern ordnet zeitlich befristete Ausnahmen
@@ -91,11 +85,9 @@ von der Kostenpflichtigkeit für Amtshandlungen des Bundesamtes an,
 soweit dies zur Förderung der Sicherheit in der Informationstechnik
 geboten erscheint.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 2 Abs. 1)
 

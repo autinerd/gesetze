@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3819
 
-
 ## (XXXX)
 
 Der Deutsche Bundestag hat in seiner konstituierenden Sitzung am 27.
@@ -26,7 +25,6 @@ Bundestag zu beschließen sind, in der Fassung der Bekanntmachung vom
 vom 6. Juli 2009 (BGBl. I S. 2128), mit der Maßgabe zu übernehmen, sie
 bis zum 31. Juli 2010 insbesondere im Lichte jüngster Rechtsprechung
 anzupassen.
-
 
 ## Schlussformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 24.1.1995 I 134
 
-
 ## § 1
 
 Für die gemäß § 7 Abs. 1, § 8 Abs. 2 des Wohnungseigentumsgesetzes vom
@@ -30,7 +29,6 @@ Teilerbbaugrundbücher gelten die Vorschriften der Grundbuchverfügung
 entsprechend, soweit sich nicht aus den §§ 2 bis 5, 8 und 9 etwas
 anderes ergibt.
 
-
 ## § 2
 
 In der Aufschrift ist unter die Blattnummer in Klammern das Wort
@@ -41,7 +39,6 @@ Sondereigentum sowohl an einer Wohnung als auch an nicht zu
 Wohnzwecken dienenden Räumen verbunden und überwiegt nicht einer
 dieser Zwecke offensichtlich, so ist das Grundbuchblatt als "Wohnungs-
 und Teileigentumsgrundbuch" zu bezeichnen.
-
 
 ## § 3
 
@@ -102,7 +99,6 @@ herrschenden Grundstück angelegten Wohnungs- und
 Teileigentumsgrundbücher einzutragen. Hierauf ist in dem in Spalte 6
 einzutragenden Vermerk hinzuweisen.
 
-
 ## § 4
 
 (1) Rechte, die ihrer Natur nach nicht an dem Wohnungseigentum als
@@ -116,13 +112,11 @@ und Teileigentumsgrundbüchern einzutragen, wobei jeweils auf die
 (2) Absatz 1 gilt entsprechend für Verfügungsbeschränkungen, die sich
 auf das Grundstück als Ganzes beziehen.
 
-
 ## § 5
 
 Bei der Bildung von Hypotheken-, Grundschuld- und Rentenschuldbriefen
 ist kenntlich zu machen, daß der belastete Gegenstand ein
 Wohnungseigentum (Teileigentum) ist.
-
 
 ## § 6
 
@@ -134,7 +128,6 @@ Grundstücks abgeschrieben. Die Schließung des Grundbuchblatts gemäß §
 7 Abs. 1 Satz 3 des Wohnungseigentumsgesetzes unterbleibt, wenn auf
 dem Grundbuchblatt von der Abschreibung nicht betroffene Grundstücke
 eingetragen sind.
-
 
 ## § 7
 
@@ -150,12 +143,10 @@ Sinne des § 47 der Grundbuchordnung gemäß § 9 Buchstabe b der
 Grundbuchverfügung in den Spalten 2 und 4 der ersten Abteilung
 einzutragen.
 
-
 ## § 8
 
 Die Vorschriften der §§ 2 bis 7 gelten für Wohnungs- und
 Teilerbbaugrundbücher entsprechend.
-
 
 ## § 9
 
@@ -167,7 +158,6 @@ Grundstück in Wohnungseigentumsrechte nach § 8 des
 Wohnungseigentumsgesetzes dient die Anlage 4 als Muster. Die in den
 Anlagen befindlichen Probeeintragungen sind als Beispiele nicht Teil
 dieser Verfügung.
-
 
 ## § 10
 
@@ -188,11 +178,9 @@ Bestand einzutragen.
 2 erwähnte Bezeichnung an vergleichbarer Stelle im Kopf der ersten
 Seite des Grundbuchblatts anzubringen.
 
-
 ## § 11
 
 (Inkrafttreten)
-
 
 ## Anlage 1 (zu § 9) (Wohnungs- und Teileigentumsgrundbuch)
 
@@ -200,20 +188,17 @@ Seite des Grundbuchblatts anzubringen.
 Teileigentumsgrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 70 - 76)
 
-
 ## Anlage 2 (zu § 9) (Erste Abteilung eines gemeinschaftlichen Wohnungsgrundbuchs)
 
 (Inhalt: nicht darstellbares Muster der Ersten Abteilung eines
 gemeinschaftlichen Wohnungsgrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 77)
 
-
 ## Anlage 3 (zu § 9) (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
 
 (Inhalt: nicht darstellbares Muster einer Aufschrift und
 Bestandsverzeichnis eines Wohnungserbbaugrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 78 - 80)
-
 
 ## Anlage 4 (zu § 9) (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
 

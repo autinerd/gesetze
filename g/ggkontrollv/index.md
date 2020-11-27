@@ -27,7 +27,6 @@ Rates vom 6. Oktober 1995 über einheitliche Verfahren für die
 Kontrolle von Gefahrguttransporten auf der Straße
 (ABl. EG Nr. L 249 S. 35).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung gelten für die Kontrollen von
@@ -43,7 +42,6 @@ die Streitkräfte gemeinsam durchgeführt werden.
 
 (3) Das Bundesamt für Güterverkehr wendet die §§ 2 bis 6 entsprechend
 an.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -86,10 +84,6 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
     Sicherheitsgründen auf der Straße oder in den Unternehmen im
     Zusammenhang mit der Beförderung gefährlicher Güter von den
     zuständigen Behörden durchgeführt wird.
-
-
-
-
 
 ## § 3 Kontrollen auf der Straße
 
@@ -148,7 +142,6 @@ gehören insbesondere die Verweigerung der Einfahrt in die Europäische
 Gemeinschaft und das Abstellen des Fahrzeugs an Ort und Stelle oder
 auf einem hierfür geeigneten Platz.
 
-
 ## § 4 Kontrollen in den Unternehmen
 
 (1) Die nach § 9 Abs. 1 des Gesetzes über die Beförderung gefährlicher
@@ -167,7 +160,6 @@ Beförderung vorschriftsmäßig durchgeführt werden kann; sie kann auch
 andere geeignete Maßnahmen ergreifen.
 
 (3) § 3 Abs. 3 Satz 4 und Abs. 4 bis 7 gilt entsprechend.
-
 
 ## § 5 Berichtswesen
 
@@ -198,7 +190,6 @@ dieser Verordnung mit folgenden Angaben:
 Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem
 Bundesministerium für Verkehr, Bau und Stadtentwicklung zur
 Weiterleitung an die Kommission der Europäischen Gemeinschaften.
-
 
 ## Anlage 1 (zu § 3 Abs. 3 Satz 1) Prüfliste
 
@@ -326,11 +317,9 @@ die/der die Kontrolle
 2) Bei Sammelbeförderungen unter "Bemerkungen" angeben.
 3) Prüfung auf sichtbare Verstöße.
 
-
 ## Anlage 2
 
 (weggefallen)
-
 
 ## Anlage 3 (zu § 3 Abs. 7) Verstöße
 
@@ -529,17 +518,9 @@ dieser Verordnung angegeben) angewandt.
     3.  die Schulungsbescheinigung befindet sich nicht an Bord des Fahrzeugs,
         es gibt jedoch Belege dafür, dass der Fahrer sie besitzt.
 
-
-
-
-
-
-
-
 ## Anlage 4
 
 (weggefallen)
-
 
 ## Anlage 5 (zu § 5 Abs. 1) Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 

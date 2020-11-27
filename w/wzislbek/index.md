@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1923, 179
 
-
-
 ## (XXXX)
 
 (1) Zwischen dem Deutschen Reich und Island ist durch Notenaustausch

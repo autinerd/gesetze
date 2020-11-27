@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 281
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 der Verordnung vom 16. Mai 1990 über die Einführung
 gesetzlicher Feiertage (GBl. I Nr. 27 S. 248) wird folgendes bestimmt:
-
 
 ## § 1
 
@@ -35,14 +32,12 @@ gesetzliche Feiertage sind.
 (2) Die Regierungsbevollmächtigten für die Bezirke haben die gemäß
 Absatz 1 getroffenen Vereinbarungen bekanntzumachen.
 
-
 ## § 2
 
 Für die Arbeitnehmer gilt als Feiertag der für das Territorium
 festgelegte Feiertag, in dem der Beschäftigungsbetrieb seinen Sitz hat
 oder in dem sich der mit den Arbeitnehmern vereinbarte Arbeitsort
 befindet.
-
 
 ## § 3
 
@@ -96,12 +91,10 @@ Sie haben das Recht auf Freistellung vom Schulunterricht, Studium bzw.
 von der Ausbildung. Für Minderjährige erfolgt die Freistellung auf der
 Grundlage einer Mitteilung der Erziehungsberechtigten.
 
-
 ## § 4
 
 Diese Durchführungsbestimmung tritt mit ihrer Veröffentlichung in
 Kraft.
-
 
 ## Schlußformel
 

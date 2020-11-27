@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 276 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 Den in Kopenhagen am 1. September 1995 von der Versammlung der
@@ -28,7 +27,6 @@ Internationale Fernmeldesatellitenorganisation "INTELSAT", geändert am
 31\. August 1995 (BGBl. 1973 II S. 249; 1997 II S. 537), wird
 zugestimmt. Die Änderungen werden nachstehend mit einer amtlichen
 deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -43,14 +41,12 @@ Bundesministerium der Finanzen, die gebührenpflichtigen Tatbestände,
 die Höhe der Gebühr und die Erstattung von Auslagen durch
 Rechtsverordnung zu regeln.
 
-
 ## Art 3
 
 Das Bundesministerium für Wirtschaft und Technologie kann das
 INTELSAT-Übereinkommen in der durch die vereinbarten Änderungen vom 1.
 September 1995 geänderten Fassung mit einer amtlichen deutschen
 Übersetzung in der Neufassung bekanntmachen.
-
 
 ## Art 4
 

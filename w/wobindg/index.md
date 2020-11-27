@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 9.11.2012 I 2291
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -34,7 +31,6 @@ des § 2 des Wohnraumförderung-Überleitungsgesetzes vom 5. September
 2006 (BGBl. I S. 2098, 2100) für den in dessen Absatz 2 genannten
 Wohnraum, der öffentlich gefördert ist oder als öffentlich gefördert
 gilt.
-
 
 ### § 2 Sicherung der Zweckbestimmung
 
@@ -47,19 +43,14 @@ von Mietverhältnissen bei der Veräußerung und Umwandlung von
 öffentlich geförderten Wohnungen ist § 32 Abs. 2 bis 4 des
 Wohnraumförderungsgesetzes entsprechend anzuwenden.
 
-
 ### (XXXX) §§ 2a und 2b (weggefallen)
-
 
 ### § 3 Zuständige Stelle
 
 Zuständige Stelle im Sinne dieses Gesetzes ist die Stelle, die von der
 Landesregierung bestimmt wird oder die nach Landesrecht zuständig ist.
 
-
 ## Zweiter Abschnitt - Bindungen des Verfügungsberechtigten
-
-
 
 ### § 4 Überlassung an Wohnberechtigte
 
@@ -136,13 +127,11 @@ verlangen; dies gilt nicht, wenn der Inhaber der Wohnung vor dem Bezug
 eine Bestätigung nach § 18 Abs. 2 erhalten hat, dass die Wohnung nicht
 eine öffentlich geförderte Wohnung sei.
 
-
 ### § 5 Ausstellung der Bescheinigung über die Wohnberechtigung
 
 Die Bescheinigung über die Wohnberechtigung (Wohnberechtigungsschein)
 wird in entsprechender Anwendung des § 27 Abs. 1 bis 5 des
 Wohnraumförderungsgesetzes erteilt.
-
 
 ### § 5a Sondervorschriften für Gebiete mit erhöhtem Wohnungsbedarf
 
@@ -166,11 +155,9 @@ Abs. 3 sinngemäß; im Übrigen können in der Rechtsverordnung nähere
 Bestimmungen darüber getroffen werden, nach welchen weiteren
 Gesichtspunkten die Benennung erfolgen soll.
 
-
 ### § 6
 
 (weggefallen)
-
 
 ### § 7 Freistellung von Belegungsbindungen, Übertragung von Belegungs- und Mietbindungen, Erhaltung der Mietwohnnutzung, Kooperationsverträge
 
@@ -192,7 +179,6 @@ Gesamteinkommen die maßgebliche Einkommensgrenze übersteigt.
 
 (4) Kooperationsverträge können in entsprechender Anwendung der §§ 14
 und 15 des Wohnraumförderungsgesetzes abgeschlossen werden.
-
 
 ### § 8 Kostenmiete
 
@@ -229,7 +215,6 @@ Miete mitzuteilen, soweit diese sich aus ihren Unterlagen ergibt.
 
 (5) Die diesem Gesetz unterliegenden Wohnungen sind preisgebundener
 Wohnraum.
-
 
 ### § 8a Ermittlung der Kostenmiete und der Vergleichsmiete
 
@@ -298,7 +283,6 @@ Vergütungen ist das zulässige Entgelt im Sinne des § 8 Abs. 1 oder 3.
 (8) Das Nähere über die Ermittlung des zulässigen Entgelts bestimmt
 die Rechtsverordnung nach § 28.
 
-
 ### § 8b Ermittlung der Kostenmiete in besonderen Fällen
 
 (1) Wird die Kostenmiete nach Ablauf von sechs Jahren seit
@@ -329,7 +313,6 @@ geförderten Wohnungen einer Wirtschaftseinheit oder eines Gebäudes
 begründet worden, sind Wirtschaftlichkeitsberechnungen jeweils für die
 neuen Wirtschaftseinheiten, für die Gebäude oder für die einzelnen
 Wohnungen aufzustellen. Absatz 2 Satz 2 bis 4 gilt entsprechend.
-
 
 ### § 9 Einmalige Leistungen
 
@@ -396,7 +379,6 @@ kreisfreien Städten, Landkreisen oder Gemeinden eines Landkreises
 getroffen worden sind, in denen zu diesem Zeitpunkt die
 Mietpreisfreigabe bereits erfolgt war.
 
-
 ### § 10 Einseitige Mieterhöhung
 
 (1) Ist der Mieter nur zur Entrichtung eines niedrigeren als des nach
@@ -440,7 +422,6 @@ zu, soweit und solange eine Erhöhung der Miete durch ausdrückliche
 Vereinbarung mit dem Mieter oder einem Dritten ausgeschlossen ist oder
 der Ausschluss sich aus den Umständen ergibt.
 
-
 ### § 11 Kündigungsrecht des Mieters
 
 (1) Der Mieter ist im Falle einer Erklärung des Vermieters nach § 10
@@ -454,15 +435,11 @@ Ablauf des nächsten Kalendermonats zu kündigen.
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ### § 12
 
 (weggefallen)
 
-
 ## Dritter Abschnitt - Beginn und Ende der Eigenschaft "öffentlich gefördert"
-
-
 
 ### § 13 Beginn der Eigenschaft "öffentlich gefördert"
 
@@ -496,7 +473,6 @@ Wiederaufbau geschaffene Wohnung bezugsfertig geworden ist;
 Entsprechendes gilt im Falle der Wiederherstellung, des Ausbaus oder
 der Erweiterung.
 
-
 ### § 14 Einbeziehung von Zubehörräumen, Wohnungsvergrößerung, Umbau
 
 (1) Werden die Zubehörräume einer öffentlich geförderten Wohnung ohne
@@ -514,7 +490,6 @@ weiterhin als öffentlich gefördert. Dies gilt nicht, wenn vor dem
 Umbau die für die Wohnung als Darlehen bewilligten öffentlichen Mittel
 zurückgezahlt und die für sie als Zuschüsse bewilligten öffentlichen
 Mittel letztmalig gezahlt worden sind.
-
 
 ### § 15 Ende der Eigenschaft "öffentlich gefördert"
 
@@ -572,7 +547,6 @@ aller Gebäude. Die Sätze 1 und 2 sind insoweit nicht anzuwenden, als
 sind, die durch Ausbau oder Erweiterung in einem Gebäude oder einer
 Wirtschaftseinheit mit öffentlich geförderten Wohnungen geschaffen
 werden.
-
 
 ### § 16 Ende der Eigenschaft "öffentlich gefördert" bei freiwilliger vorzeitiger Rückzahlung
 
@@ -632,7 +606,6 @@ entsprechend für Rückzahlungen und Ablösungen bei Eigentumswohnungen,
 wenn die öffentlichen Mittel für mehrere Wohnungen eines Gebäudes oder
 einheitlich für Wohnungen mehrerer Gebäude bewilligt worden sind.
 
-
 ### § 17 Ende der Eigenschaft "öffentlich gefördert" bei Zwangsversteigerung
 
 (1) Bei einer Zwangsversteigerung des Grundstücks gelten die
@@ -655,7 +628,6 @@ Grundpfandrechte mit dem Zuschlag nicht erloschen, so gelten die
 Wohnungen bis zu dem sich aus § 15 oder § 16 ergebenden Zeitpunkt als
 öffentlich gefördert.
 
-
 ### § 18 Bestätigung
 
 (1) Die zuständige Stelle hat dem Verfügungsberechtigten und bei
@@ -670,10 +642,7 @@ will, eine neu geschaffene öffentlich geförderte Wohnung ist. Absatz 1
 Satz 1 gilt bei berechtigtem Interesse für den Wohnungssuchenden
 entsprechend.
 
-
 ## Vierter Abschnitt - Einschränkung von Zinsvergünstigungen bei öffentlich geförderten Wohnungen
-
-
 
 ### § 18a Höhere Verzinsung der öffentlichen Baudarlehen
 
@@ -721,7 +690,6 @@ Absatz 3 Satz 3 gilt entsprechend.
 
 (6) Die Absätze 1 bis 5 gelten für Annuitätsdarlehen entsprechend.
 
-
 ### § 18b Berechnung der neuen Jahresleistung
 
 (1) Die für das Wohnungs- und Siedlungswesen zuständigen obersten
@@ -748,7 +716,6 @@ frühestens nach Ablauf von zwei Monaten nach dem Zugang der in Absatz
 3 bezeichneten Mitteilung beginnt. Der Zeitpunkt der Fälligkeit
 bestimmt sich nach dem Darlehnsvertrag.
 
-
 ### § 18c Öffentliche Baudarlehen verschiedener Gläubiger
 
 (1) Sind für die Wohnungen des Gebäudes oder der Wirtschaftseinheit
@@ -772,7 +739,6 @@ dem an die spätere Zinserhöhung wirksam werden soll.
 Landesbehörden treffen die näheren Bestimmungen über die Festsetzung
 der Zinssätze nach Absatz 1. Im Übrigen gelten die Vorschriften des §
 18b sinngemäß.
-
 
 ### § 18d Zins- und Tilgungshilfen sowie Zuschüsse und Darlehen zur Deckung der laufenden Aufwendungen
 
@@ -816,7 +782,6 @@ Zeitpunkt oder in diesem Umfang nicht vorgesehen oder vertraglich
 ausdrücklich ausgeschlossen ist. Die Vorschriften des § 18a Abs. 3 bis
 5 gelten entsprechend.
 
-
 ### § 18e Entsprechende Anwendung für öffentliche Mittel im Bereich des Bergarbeiterwohnungsbaus
 
 Die Vorschriften der §§ 18a bis 18d gelten entsprechend für
@@ -830,7 +795,6 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, die Bestimmungen nach § 18a Abs. 1 bis 3 und 5 sowie nach
 § 18d durch Rechtsverordnung mit Zustimmung des Bundesrates zu
 treffen.
-
 
 ### § 18f Mieterhöhung
 
@@ -850,10 +814,7 @@ ist, auch in diese zu gewähren.
 vertragliche Vereinbarung, wonach eine höhere Miete für eine
 zurückliegende Zeit verlangt werden kann, unwirksam.
 
-
 ## Fünfter Abschnitt - Schlussvorschriften
-
-
 
 ### § 19 Gleichstellungen
 
@@ -876,12 +837,10 @@ steht der Bewerber gleich, wenn diesem die öffentlichen Mittel nach
 den Vorschriften des Zweiten Wohnungsbaugesetzes bewilligt worden
 sind.
 
-
 ### § 20 Wohnheime
 
 Die Vorschriften dieses Gesetzes gelten nicht für öffentlich
 geförderte Wohnheime.
-
 
 ### § 21 Untermietverhältnisse
 
@@ -901,7 +860,6 @@ in Verbindung mit § 27 Abs. 7 Satz 1 Nr. 1 und 2 des
 Wohnraumförderungsgesetzes finden jedoch keine Anwendung.
 
 (3) (weggefallen)
-
 
 ### § 22 Bergarbeiterwohnungen
 
@@ -946,7 +904,6 @@ jedoch auch einem Wohnungsberechtigten im Sinne des § 4 Abs. 1
 Buchstabe a bis c des Gesetzes zur Förderung des
 Bergarbeiterwohnungsbaus im Kohlenbergbau vermieten oder überlassen.
 
-
 ### § 23 Erweiterter Anwendungsbereich
 
 Die Vorschriften der §§ 13 bis 18 über den Beginn und das Ende der
@@ -954,12 +911,10 @@ Eigenschaft "öffentlich gefördert" gelten auch für die Anwendung von
 Rechtsvorschriften außerhalb dieses Gesetzes, sofern nicht in jenen
 Rechtsvorschriften ausdrücklich etwas anderes bestimmt ist.
 
-
 ### § 24 Verwaltungszwang
 
 Verwaltungsakte der zuständigen Stelle können im Wege des
 Verwaltungszwangs vollzogen werden.
-
 
 ### § 25 Maßnahmen bei Gesetzesverstößen
 
@@ -992,7 +947,6 @@ unbillig sein würde.
 Geldleistungen an die Stelle abzuführen, welche die für das Wohnungs-
 und Siedlungswesen zuständige oberste Landesbehörde bestimmt; sie sind
 für den öffentlich geförderten sozialen Wohnungsbau einzusetzen.
-
 
 ### § 26 Ordnungswidrigkeiten
 
@@ -1036,7 +990,6 @@ bis zu fünfzigtausend Euro geahndet werden, wenn jemand vorsätzlich
 oder leichtfertig ein wesentlich höheres Entgelt fordert, sich
 versprechen lässt oder annimmt, als nach den §§ 8 bis 9 zulässig ist.
 
-
 ### § 27 Weitergehende Verpflichtungen
 
 Weitergehende vertragliche Verpflichtungen der in diesem Gesetz
@@ -1048,7 +1001,6 @@ unberührt. Satz 1 gilt nicht für Strafversprechen und Ansprüche auf
 erhöhte Verzinsung wegen eines Verstoßes gegen die in § 25 Abs. 1
 bezeichneten Vorschriften, sofern Geldleistungen nach § 25 Abs. 1
 entrichtet worden sind.
-
 
 ### § 28 Ermächtigungen
 
@@ -1106,17 +1058,14 @@ Berechnungsverordnung entsprechend geändert und ergänzt werden.
 (3) Die Landesregierungen können die Ermächtigung nach Absatz 1 durch
 Rechtsverordnung auf eine oberste Landesbehörde übertragen.
 
-
 ### § 29 Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
 
 Durch dieses Gesetz wird das Grundrecht der Unverletzlichkeit der
 Wohnung (Artikel 13 des Grundgesetzes) eingeschränkt.
 
-
 ### § 30 Geltung im Saarland
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ### (XXXX) §§ 31 bis 33a und 34 (weggefallen)
 

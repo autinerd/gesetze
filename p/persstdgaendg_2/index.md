@@ -15,12 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1957, 518
 
-
-
 ## Art I
 
 -
-
 
 ## Art II
 
@@ -37,10 +34,6 @@ Fundstelle
     rassisch und politisch Verfolgter vom 23. Juni 1950 (Bundesgesetzbl.
     S. 226) und nach dem Gesetz über die Anerkennung von Nottrauungen vom
     2\. Dezember 1950 (Bundesgesetzbl. S. 778) bleiben unberührt.
-
-
-
-
 
 ## Art III
 
@@ -117,14 +110,9 @@ Fundstelle
     wenn die Anwendbarkeit der in Nummer 1 bezeichneten Vorschriften
     stillschweigend vorausgesetzt wird.
 
-
-
-
-
 ## Art IV
 
 -
-
 
 ## Art V
 
@@ -136,7 +124,6 @@ in der gemäß Artikel IV dieses Gesetzes bekanntgemachten Fassung oder
 auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach
 § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
 (Bundesgesetzbl. I S. 1).
-
 
 ## Art VI
 

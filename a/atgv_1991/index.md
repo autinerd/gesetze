@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 15 Abs. 41 G v. 5.2.2009 I 160
 
-
 ## § 1 Anwendungsbereich, Zweckbestimmung
 
 (1) Ansprüche auf Auslandstrennungsgeld entstehen aus Anlaß von
@@ -71,7 +70,6 @@ Umzugskostenvergütung und ist aus dienstlichen Gründen ein Umzug nicht
 erforderlich, werden als Auslandstrennungsgeld nur Reisebeihilfen nach
 § 13 für längstens ein Jahr gezahlt.
 
-
 ## § 2 Berechtigte
 
 (1) Berechtigt sind
@@ -102,10 +100,6 @@ erforderlich, werden als Auslandstrennungsgeld nur Reisebeihilfen nach
 
 3.  ehrenamtliche Richter.
 
-
-
-
-
 ## § 3 Arten des Auslandstrennungsgeldes
 
 Als Auslandstrennungsgeld werden gezahlt:
@@ -126,10 +120,6 @@ Als Auslandstrennungsgeld werden gezahlt:
 5.  Entschädigung im Einzelfall aus Sicherheitsgründen oder wegen anderer
     außergewöhnlicher Verhältnisse im Ausland (Auslandstrennungsgeld in
     Krisenfällen; § 12 Abs. 8).
-
-
-
-
 
 ## § 4 Entschädigung für getrennte Haushaltsführung
 
@@ -161,7 +151,6 @@ Bundesumzugskostengesetzes) zugesagt, wird Auslandstrennungsgeld nach
 den §§ 6 bis 8 nur gezahlt, wenn die Voraussetzungen des § 5
 vorliegen.
 
-
 ## § 5 Auslandstrennungsgeld nach Zusage der Umzugskostenvergütung
 
 (1) Nach Zusage der Umzugskostenvergütung (§§ 3 und 4 des
@@ -192,7 +181,6 @@ weggefallen sind.
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn Umzugskostenvergütung nach
 § 17 der Auslandsumzugskostenverordnung gezahlt wird.
-
 
 ## § 6 Versetzungen und Abordnungen vom Inland in das Ausland
 
@@ -226,7 +214,6 @@ erneuten Versetzung oder Abordnung in das Ausland mit Zusage der
 Umzugskostenvergütung anstelle der Abfindung nach § 8 Abs. 1 und 2
 Auslandstrennungsgeld nach § 7 gezahlt. § 12 Abs. 3 findet Anwendung.
 
-
 ## § 7 Versetzungen und Abordnungen im Ausland
 
 (1) Bei Versetzungen und Abordnungen im Ausland wird
@@ -240,7 +227,6 @@ Trennungsgeldverordnung zustünde, wenn die zu seiner häuslichen
 Gemeinschaft gehörenden Personen (§ 4 Abs. 1) weder am bisherigen
 Dienstort noch im Einzugsgebiet (§ 3 Abs. 1 Nr. 1 Buchstabe c des
 Bundesumzugskostengesetzes) eine Unterkunft beziehen.
-
 
 ## § 8 Versetzungen und Abordnungen vom Ausland in das Inland
 
@@ -290,11 +276,9 @@ Lebenspartner. Das besondere Auslandstrennungsgeld wird auch
 alleinstehenden Berechtigten gezahlt, und zwar in Höhe des
 Trennungsgeldes nach § 3 Abs. 3 Satz 1 der Trennungsgeldverordnung.
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 10 Vorwegumzüge
 
@@ -303,7 +287,6 @@ einer Maßnahme nach § 1 Abs. 1 vor deren Wirksamwerden durchgeführt,
 wird Auslandstrennungsgeld nach § 6 Abs. 1, § 7 Abs. 1 oder § 8 Abs. 1
 bis zum Ablauf des Tages der Beendigung der Dienstantrittsreise,
 längstens jedoch für drei Monate gezahlt.
-
 
 ## § 11 Entschädigung bei täglicher Rückkehr zum Wohnort
 
@@ -330,7 +313,6 @@ Wohnung und Dienststätte und zurück mehr als 3 Stunden beträgt.
 (3) Muß der Berechtigte aus dienstlichen Gründen am Dienstort
 übernachten, werden die nachgewiesenen notwendigen Mehraufwendungen
 erstattet.
-
 
 ## § 12 Auslandstrennungsgeld in Sonderfällen
 
@@ -388,7 +370,6 @@ bestimmt das Auswärtige Amt das Auslandstrennungsgeld für alle an
 diesem Dienstort tätigen und von der Maßnahme betroffenen
 Berechtigten.
 
-
 ## § 13 Reisebeihilfen für Heimfahrten
 
 (1) Ein Berechtigter, dem Auslandstrennungsgeld nach den §§ 6 bis 8
@@ -444,7 +425,6 @@ genannten Personen gezahlt. Mögliche Fahrpreisermäßigungen sind zu
 berücksichtigen. Soweit dienstliche Beförderungsmittel unentgeltlich
 benutzt werden können, werden Fahrkosten nicht erstattet.
 
-
 ## § 14 Sonderbestimmungen bei auswärtigem Verbleiben
 
 (1) Für volle Kalendertage
@@ -467,7 +447,6 @@ unbillig wäre.
 
 (2) Absatz 1 gilt nicht in den Fällen, in denen Auslandstrennungsgeld
 nach § 8 Abs. 3 und 4 gezahlt wird.
-
 
 ## § 15 Zahlungsvorschriften
 
@@ -531,7 +510,6 @@ Dienstort für längstens zwölf Monate, können nachgewiesene notwendige
 Kosten für das Beibehalten der Unterkunft im Inland erstattet werden,
 wenn dem Berechtigten die Aufgabe der Unterkunft nicht zuzumuten ist.
 
-
 ## § 16 Verfahrensvorschriften
 
 (1) Das Auslandstrennungsgeld ist innerhalb einer Ausschlußfrist von
@@ -551,13 +529,11 @@ sein können.
 (4) Die oberste Dienstbehörde bestimmt die zuständige Behörde für die
 Bewilligung und Zahlung des Auslandstrennungsgeldes.
 
-
 ## § 17 Übergangsvorschrift
 
 Ein vor dem Inkrafttreten dieser Änderungsverordnung bewilligtes
 Auslandstrennungsgeld nach § 1 Abs. 3 Satz 2 wird nach den bisherigen
 Vorschriften weitergewährt.
-
 
 ## § 18 (Inkrafttreten, Außerkrafttreten)
 

@@ -21,10 +21,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 G v. 27. 7.2001 I 1887
 
-
 ## Erster Abschnitt - Vollstreckbarerklärung gerichtlicher Entscheidungen
-
-
 
 ### § 1
 
@@ -35,7 +32,6 @@ Abkommens) ist sachlich das Landgericht zuständig.
 (2) Örtlich zuständig ist das Landgericht, in dessen Bezirk der
 Schuldner seinen gewöhnlichen Aufenthalt hat oder sich Vermögen des
 Schuldners befindet.
-
 
 ### § 2
 
@@ -56,7 +52,6 @@ gelten entsprechend.
 
 (5) (weggefallen)
 
-
 ### § 3
 
 Hängt die Vollstreckung nach dem Inhalt der gerichtlichen Entscheidung
@@ -73,7 +68,6 @@ durch öffentliche oder öffentlich beglaubigte Urkunden zu führen,
 sofern nicht die Tatsachen bei dem Gericht offenkundig sind. Kann er
 in dieser Form nicht erbracht werden, so ist mündliche Verhandlung
 anzuordnen.
-
 
 ### § 4
 
@@ -98,7 +92,6 @@ die Gründe, auf denen sie beruhen, erst
 
 entstanden sind.
 
-
 ### § 5
 
 (1) Macht der Schuldner gegenüber dem Antrag auf
@@ -119,7 +112,6 @@ entscheiden hat, dem Schuldner eine Frist setzen, innerhalb deren er
 nachzuweisen hat, daß er den Rechtsbehelf eingelegt hat. Das Gericht
 kann aber auch das Verfahren sogleich aussetzen oder fortsetzen.
 
-
 ### § 6
 
 Aus den für vollstreckbar erklärten gerichtlichen Entscheidungen
@@ -127,10 +119,7 @@ findet die Zwangsvollstreckung statt, sofern die Entscheidung über die
 Vollstreckbarkeit rechtskräftig oder für vorläufig vollstreckbar
 erklärt ist.
 
-
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
-
-
 
 ### § 7
 
@@ -155,10 +144,7 @@ bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
 Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
-
 
 ### § 8
 
@@ -166,7 +152,6 @@ Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in dem
 Vereinigten Königreich Großbritannien und Nordirland geltend gemacht
 werden soll, so darf das Urteil nicht in abgekürzter Form (§ 313b der
 Zivilprozeßordnung) hergestellt werden.
-
 
 ### § 9
 
@@ -193,22 +178,17 @@ Tatbestandes nicht mitgewirkt haben.
 (4) Für die Vervollständigung des Urteils werden Gerichtsgebühren
 nicht erhoben.
 
-
 ## Vierter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 10
 
 -
-
 
 ### § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 12
 

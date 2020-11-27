@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 17 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Steuern vom Einkommen
-
-
 
 ### § 1 Steuerfreie Rücklage für neue Kraftwerke
 
@@ -75,7 +71,6 @@ ausgewiesen wird.
 
 (5) Die Vorschriften der Absätze 1 bis 4 sind erstmals für
 Wirtschaftsjahre anzuwenden, die nach dem 30. Juni 1964 enden.
-
 
 ### § 2 Sondervorschriften beim Betrieb mehrerer Kraftwerke
 
@@ -141,7 +136,6 @@ Gemeinschaftskohle zu berücksichtigen, die seit Inbetriebnahme des
 Kraftwerks, für das eine steuerfreie Rücklage nach § 1 in Anspruch
 genommen wird, vorgenommen worden sind.
 
-
 ### § 3 Auflösung der steuerfreien Rücklage
 
 (1) Ist ein Kraftwerk, für das eine steuerfreie Rücklage nach § 1 in
@@ -191,7 +185,6 @@ Rücklage ergeben. Für diese Fälle ist vorzusehen, daß die steuerfreie
 Rücklage am Schluß des zehnten auf den Betriebsbeginn folgenden
 Wirtschaftsjahres erfolgsneutral aufzulösen ist.
 
-
 ### § 4 Erweiterung, Kesselerneuerung und Umstellung bestehender Kraftwerke
 
 (1) Die Vorschriften der §§ 1 bis 3 sind entsprechend anzuwenden, wenn
@@ -213,10 +206,7 @@ berücksichtigungsfähigen Kosten des Kraftwerks die Summe der
 Anschaffungs- oder Herstellungskosten, die für die Umstellung des
 Kraftwerks aufgewendet worden sind.
 
-
 ## Zweiter Abschnitt - Vermögensteuer und Gewerbesteuer
-
-
 
 ### § 5
 
@@ -237,15 +227,11 @@ Gewerbeertrag von 3 vom Hundert der aufgelösten steuerfreien Rücklage
 erhoben. Für die Gewerbesteuer nach dem Gewerbekapital gilt Absatz 1
 Satz 2 entsprechend.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 6
 
 (weggefallen)
-
 
 ### § 7 Inkrafttreten
 

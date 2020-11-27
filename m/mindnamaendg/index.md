@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 3 G v. 19.2.2007 I 122
 
-
 ## § 1
 
 (1) Eine Person, auf die sowohl das Rahmenübereinkommen zum Schutz
@@ -62,7 +61,6 @@ bleiben für den nach Absatz 1 angenommenen Namen maßgebend.
 beurkundet werden; sie können auch von den Standesbeamten beglaubigt
 oder beurkundet werden.
 
-
 ## § 2
 
 Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen oder
@@ -73,12 +71,10 @@ Abs. 4 gilt entsprechend. Auf Kinder oder deren Ehegatten oder
 Lebenspartner erstreckt sich eine Namensänderung nur nach Maßgabe der
 Vorschriften des Bürgerlichen Gesetzbuchs.
 
-
 ## § 3
 
 Für die Entgegennahme der Erklärungen und ihre Beglaubigung oder
 Beurkundung werden Gebühren nicht erhoben.
-
 
 ## § 4
 

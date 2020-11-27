@@ -17,15 +17,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 180
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 127 des Grundgesetzes für die Bundesrepublik
 Deutschland verordnet die Bundesregierung mit Zustimmung der
 Regierungen der Länder Baden, Rheinland-Pfalz, Württemberg-
 Hohenzollern und des Kreispräsidenten von Lindau:
-
 
 ## § 1
 
@@ -57,11 +54,9 @@ bis zum 1. Oktober 1949 ausgestellt worden ist oder auf Grund eines
 bis zum 31. Januar 1950 gestellten Antrags bis zum 30. September 1950
 ausgestellt wird.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 

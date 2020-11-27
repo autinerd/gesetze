@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 14. G v. 29. 6.1998 I 1666
 
-
 ## Art 1 - Bundesbesoldungsgesetz
 
 1\.
@@ -75,15 +74,11 @@ Gesetzes vom 20. August 1980 (BGBl. I S. 1509) geändert worden ist,
 wird für das Zweite Haushaltsstrukturgesetz auf 0,7 vom Hundert
 festgestellt.
 
-
 ## Art 2 - Beamtenversorgungsgesetz
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Übergangsvorschrift
 
@@ -206,27 +201,21 @@ ergeben, werden auf Antrag vorgenommen, frühestens ab Inkrafttreten
 dieser Vorschrift. Ein Ausgleich nach Absatz 1 wird nicht gewährt.
 Absatz 4 ist vom Ersten des Monats der Antragstellung an anzuwenden.
 
-
 ## § 3 Rückforderungsvorbehalt
 
 Ab 1. Januar 1982 werden die Versorgungsbezüge unter dem Vorbehalt
 gezahlt, daß Überzahlungen auf Grund der Rechtsänderungen durch die §§
 1 und 2 zurückgefordert werden.
 
-
 ## Art 3
-
-
 
 ## § 1
 
 -
 
-
 ## § 2
 
 -
-
 
 ## § 3 Übergangsvorschriften
 
@@ -359,27 +348,21 @@ ergeben, werden auf Antrag vorgenommen, frühestens ab dem 1. Januar
 1999\. Ein Ausgleich nach Absatz 2 wird nicht gewährt. Absatz 5 ist vom
 Ersten des Monats der Antragstellung an anzuwenden.
 
-
 ## § 4 Rückforderungsvorbehalt
 
 Ab 1. Januar 1982 werden die Versorgungsbezüge unter dem Vorbehalt
 gezahlt, daß Überzahlungen auf Grund der Rechtsänderungen durch die §§
 1 bis 3 zurückgefordert werden.
 
-
 ## § 5
 
 Die §§ 1 bis 4 gelten nicht im Land Berlin.
 
-
 ## Art 4 - Gesetz zu Art 131 des Grundgesetzes
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -387,15 +370,11 @@ Artikel 2 §§ 2 und 3 gelten entsprechend für Versorgungsempfänger nach
 dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131
 des Grundgesetzes fallenden Personen.
 
-
 ## Art 5 - Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes
-
-
 
 ## § 1
 
 -
-
 
 ## § 2
 
@@ -403,14 +382,9 @@ Artikel 2 §§ 2 und 3 gelten entsprechend für Versorgungsempfänger nach
 dem Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen
 Unrechts für Angehörige des öffentlichen Dienstes.
 
-
 ## Art 6 - Schwerbehindertengesetz
 
-
-
 ## Art 7 - Gesetz zur Personaleinsparung in der mittelbaren Bundesverwaltung
-
-
 
 ## Art 8 - Bundesausbildungsförderungsrecht
 
@@ -419,150 +393,77 @@ Unrechts für Angehörige des öffentlichen Dienstes.
 (4) Die nach § 35 des Bundesausbildungsförderungsgesetzes für das Jahr
 1982 vorgeschriebene Überprüfung erfolgt im Jahre 1983.
 
-
 ## Art 9 - Reichsversicherungsordnung
-
-
 
 ## Art 10 - Gesetz über Krankenversicherung der Studenten
 
-
-
 ## Art 11 - Reichsknappschaftsgesetz
-
-
 
 ## Art 12 - Angestelltenversicherungsgesetz
 
-
-
 ## Art 13 - Gesetz über eine Altershilfe für Landwirte
-
-
 
 ## Art 14 - Gesetz zur Neuregelung der Altershilfe für Landwirte
 
-
-
 ## Art 15 - Mutterschutzgesetz
-
-
 
 ## Art 16 - Bundesversorgungsgesetz
 
-
-
 ## Art 17 - Rehabilitationsangleichungsgesetz
-
-
 
 ## Art 18 - Unterhaltssicherungsgesetz
 
-
-
 ## Art 19 - Entwicklungshelfer-Gesetz
-
-
 
 ## Art 20 - Wohngeldgesetz
 
-
-
 ## Art 21 - Bundessozialhilfegesetz
-
-
 
 ## Art 22 - Strafvollzugsgesetz
 
-
-
 ## Art 23 - Straßenbaufinanzierungsgesetz
-
-
 
 ## Art 24 - Selbstverwaltungs- und Krankenversicherungsangleichungsgesetz Berlin
 
-
-
 ## Art 25 - Gesetz über die verbilligte Veräußerung, Vermietung und Verpachtung von bundeseigenen Grundstücken
-
-
 
 ## Art 26 - Einkommensteuergesetz
 
-
-
 ## Art 27 - Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen
-
-
 
 ### Unterartikel 1 - Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen (AFWoG)
 
-
-
 ### Unterartikel 2 - Änderung des Wohnungsbindungsgesetzes
-
-
 
 ### Unterartikel 3 - Änderung des Zweiten Wohnungsbaugesetzes
 
-
-
 ### Unterartikel 4 - Änderung des Wohnungsbaugesetzes für das Saarland
-
-
 
 ### Unterartikel 5 - Schlußvorschriften
 
-
-
 ## Art 28 - Wohnungsbau-Prämiengesetz
-
-
 
 ## Art 29 - Drittes Vermögensbildungsgesetz
 
-
-
 ## Art 30 - Kapitalerhöhungsteuergesetz
-
-
 
 ## Art 31 - Gewerbesteuergesetz
 
-
-
 ## Art 32 - Berlinförderungsgesetz
-
-
 
 ## Art 33 - Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft
 
-
-
 ## Art 34 - Entwicklungsländer-Steuergesetz
-
-
 
 ## Art 35 - Investitionszulagengesetz
 
-
-
 ## Art 36 - Umsatzsteuergesetz
-
-
 
 ## Art 37 - Abgabenordnung
 
-
-
 ## Art 38 - Bewertungsgesetz
 
-
-
 ## Art 39 - Gesetz über eine Investitionszulage für Investitionen in der Eisen- und Stahlindustrie
-
-
 
 ## Art 40 - Berlin-Klausel
 
@@ -571,7 +472,6 @@ des Dritten Überleitungsgesetzes auch im Land Berlin.
 Rechtsverordnungen, die auf Grund des Einkommensteuergesetzes erlassen
 werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## Art 41 - Inkrafttreten
 

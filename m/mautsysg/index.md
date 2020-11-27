@@ -23,12 +23,10 @@ Europäischen Parlaments und des Rates vom 29. April 2004 über die
 Interoperabilität elektronischer Mautsysteme in der Gemeinschaft (ABl.
 EU Nr. L 200 S. 50).
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -58,10 +56,6 @@ mit Kraftfahrzeugen (elektronische Mautsysteme).
     Anpassung an die Anforderungen nach diesem Gesetz außer Verhältnis zu
     dem erzielten Nutzen stünden.
 
-
-
-
-
 ## § 2 Technische Anforderungen
 
 Elektronische Mautsysteme, die ab dem 1. Januar 2007 in Betrieb
@@ -75,10 +69,6 @@ der folgenden Techniken verwenden:
 
 
 3.  Mikrowellentechnik (5,8 GHz).
-
-
-
-
 
 ## § 3 Europäischer elektronischer Mautdienst
 
@@ -121,7 +111,6 @@ des Nutzers oder zu einer Ungleichbehandlung einzelner Nutzer führt.
 Das Fahrzeuggerät darf auch mit dem digitalen Fahrtenschreiber des
 Fahrzeuges verbunden sein.
 
-
 ## § 4 Rechtsverordnungsermächtigung
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
@@ -142,7 +131,6 @@ des europäischen elektronischen Mautdienstes
 zu bestimmen. Die Rechtsverordnung nach Satz 1 Nr. 2 bedarf des
 Einvernehmens des Bundesministeriums des Innern.
 
-
 ## § 5 Überleitungsvorschrift
 
 Beim Betrieb elektronischer Mautsysteme ist die Verpflichtung, den
@@ -162,7 +150,6 @@ Artikel 4 Abs. 4 der Richtlinie 2004/52/ EG getroffen hat, zu
 erfüllen. Der nach Satz 1 maßgebliche Zeitpunkt ist vom
 Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Bundesanzeiger bekannt zu geben.
-
 
 ## § 6 Inkrafttreten
 

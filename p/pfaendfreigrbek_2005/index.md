@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 493
 
-
-
 ## (XXXX)
 
 Auf Grund des § 850c Abs. 2a Satz 2 der Zivilprozessordnung, der durch
@@ -84,7 +82,6 @@ in Absatz 2 Satz 2
 
 Die ab 1. Juli 2005 geltenden Pfändungsfreibeträge ergeben sich im
 Übrigen aus den als Anhang abgedruckten Tabellen.
-
 
 ## Anhang
 

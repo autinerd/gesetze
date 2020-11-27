@@ -18,11 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 23.5.2012 I 1166
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
-
 
 ## § 1 Gewährleistungsermächtigung
 
@@ -83,7 +81,6 @@ mit Einwilligung des Haushaltsausschusses des Deutschen Bundestages um
 bis zu 20 Prozent der in Absatz 1 genannten Summe überschritten
 werden.
 
-
 ## § 2 Haushalts- und Stabilitätsverantwortung
 
 (1) Der Deutsche Bundestag nimmt in Angelegenheiten der Europäischen
@@ -97,7 +94,6 @@ folgenden Bestimmungen wahr.
 diesem Gesetz in angemessener Frist. Dabei berücksichtigt er die für
 die Beschlussfassung auf der Ebene des Euro-Währungsgebietes
 maßgeblichen Fristvorgaben.
-
 
 ## § 3 Parlamentsvorbehalt für Entscheidungen in der Europäischen Finanzstabilisierungsfazilität
 
@@ -158,7 +154,6 @@ Sondergremium berichtet dem Deutschen Bundestag über Inhalt und
 Ergebnis seiner Beratungen unverzüglich nach Fortfall der besonderen
 Vertraulichkeit.
 
-
 ## § 4 Beteiligung des Haushaltsausschusses des Deutschen Bundestages
 
 (1) In allen die Haushaltsverantwortung des Deutschen Bundestages
@@ -206,7 +201,6 @@ wobei das Verlangen eines Viertels der Mitglieder des
 Haushaltsausschusses von mindestens zwei Fraktionen im Ausschuss
 unterstützt werden muss.
 
-
 ## § 5 Unterrichtung durch die Bundesregierung
 
 (1) Die Bundesregierung hat den Deutschen Bundestag in Angelegenheiten
@@ -244,7 +238,6 @@ beteiligten Mitglieder des Haushaltsausschusses beschränkt werden,
 solange die Gründe für die besondere Vertraulichkeit bestehen. Nach
 Fortfall dieser Gründe holt die Bundesregierung die Unterrichtung des
 Deutschen Bundestages unverzüglich nach.
-
 
 ## § 6 Inkrafttreten
 

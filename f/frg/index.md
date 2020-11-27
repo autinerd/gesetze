@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 9 G v. 12.4.2012 I 579
 
-
 ## Inhaltsverzeichnis
 
 
@@ -51,13 +50,7 @@ Zuletzt geändert durch
 
     *   101
 
-
-
-
-
 ## I. - Gemeinsame Vorschriften
-
-
 
 ### § 1
 
@@ -92,10 +85,6 @@ d)  heimatlose Ausländer im Sinne des Gesetzes über die Rechtsstellung
 
 e)  Hinterbliebene der in Buchstaben a bis d genannten Personen bezüglich
     der Gewährung von Leistungen an Hinterbliebene.
-
-
-
-
 
 ### § 2
 
@@ -149,7 +138,6 @@ Rechtsvorschriften über Leistungen für nach diesem Gesetz anrechenbare
 Versicherungszeiten oder zu entschädigende Arbeitsunfälle und
 Berufskrankheiten unberührt bleiben.
 
-
 ### § 3
 
 (1) Als deutsche Versicherungsträger im Sinne dieses Gesetzes sind
@@ -162,7 +150,6 @@ der Reichsversicherungsgesetze durchgeführt haben.
 1991 im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet
 (§ 18 Abs. 3 Viertes Buch Sozialgesetzbuch) geltende Recht und ab 1.
 Januar 1992 das Recht der Bundesrepublik Deutschland.
-
 
 ### § 4
 
@@ -182,10 +169,7 @@ Verfahrens befaßte Versicherungsträger ist für die Abnahme
 eidesstattlicher Versicherungen zuständig; er gilt als Behörde im
 Sinne des § 156 des Strafgesetzbuchs.
 
-
 ## II. - Gesetzliche Unfallversicherung
-
-
 
 ### § 5
 
@@ -234,13 +218,11 @@ oder die Berufskrankheit entstandenen Verpflichtungen nach den
 Vorschriften der Reichsversicherungsgesetze auf einen deutschen Träger
 der gesetzlichen Unfallversicherung übergegangen sind.
 
-
 ### § 6
 
 Als gesetzliche Unfallversicherung gelten auf Gesetz beruhende
 Versicherungen gegen Arbeitsunfälle und Berufskrankheiten oder eines
 dieser Wagnisse.
-
 
 ### § 7
 
@@ -249,7 +231,6 @@ Vorschriften der gesetzlichen Unfallversicherung, die anzuwenden
 wären, wenn sich der Unfall an dem Ort ereignet hätte, an dem der
 zuständige Träger der Unfallversicherung (§ 9) am 1. Januar 1992
 seinen Sitz hat.
-
 
 ### § 8
 
@@ -307,7 +288,6 @@ und 3 des Siebten Buches Sozialgesetzbuch findet keine Anwendung.
 (3) Der nach den Absätzen 1 und 2 ermittelte Jahresarbeitsverdienst
 ist mit dem Faktor 0,5 zu vervielfältigen.
 
-
 ### § 8a
 
 (1) Bei Berechtigten nach diesem Gesetz, die
@@ -360,7 +340,6 @@ August 1991 eine Rente bereits festgestellt ist, es sei denn, es wird
 im Einzelfall festgestellt, daß die Rente aufgrund von Arbeitsunfällen
 und Berufskrankheiten nach Absätzen 1 und 2 gezahlt wird.
 
-
 ### § 9
 
 (1) Zuständig für die Feststellung und Gewährung der Leistungen ist
@@ -386,11 +365,9 @@ des Bundesvertriebenengesetzes, die einen Anspruch auf Zahlung einer
 Rente aus der gesetzlichen Unfallversicherung ihres Herkunftslands
 haben.
 
-
 ### § 10
 
 (weggefallen)
-
 
 ### § 11
 
@@ -409,7 +386,6 @@ gewährt.
 
 (3)
 
-
 ### § 12
 
 (1) Die Rente, die für einen Arbeitsunfall oder eine Berufskrankheit
@@ -427,7 +403,6 @@ des Unternehmens, in dem sich der Arbeitsunfall ereignet hat; § 9 Abs.
 2 und 3 gilt entsprechend. Mehrere sachlich zuständige
 Versicherungsträger bestimmen durch Vereinbarung, welcher von ihnen
 örtlich zuständig ist.
-
 
 ### § 13
 
@@ -464,10 +439,7 @@ dem gewöhnlichen Aufenthalt im Gebiet eines auswärtigen Staates
 gleichsteht, in dem die Bundesrepublik Deutschland eine amtliche
 Vertretung hat.
 
-
 ## III. - Gesetzliche Rentenversicherungen
-
-
 
 ### § 14
 
@@ -475,7 +447,6 @@ Soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt,
 richten sich die Rechte und Pflichten der nach diesem Abschnitt
 Berechtigten nach den in der Bundesrepublik Deutschland geltenden
 allgemeinen Vorschriften.
-
 
 ### § 14a
 
@@ -485,7 +456,6 @@ nicht angerechnet. Dies gilt nicht für Berechtigte, die vor dem 1.
 Januar 2002 ihren gewöhnlichen Aufenthalt in der Bundesrepublik
 Deutschland genommen haben und deren Ehegatte vor diesem Zeitpunkt
 verstorben ist.
-
 
 ### § 15
 
@@ -541,10 +511,6 @@ c)  für die Entgeltpunkte nicht ermittelt werden,
 d)  die von Zeit- oder Berufssoldaten oder vergleichbaren Personen
     zurückgelegt worden sind.
 
-
-
-
-
 ### § 16
 
 (1) Eine nach vollendetem 17. Lebensjahr vor der Vertreibung in Polen,
@@ -570,7 +536,6 @@ die Beiträge erstattet worden sind.
 (2) Absatz 1 gilt auch für Zeiten einer Beschäftigung von Zeit- oder
 Berufssoldaten und vergleichbaren Personen.
 
-
 ### § 17
 
 (1)
@@ -587,7 +552,6 @@ genannten Personen und deren Hinterbliebene findet § 16 keine
 Anwendung.
 
 (3)
-
 
 ### § 17a
 
@@ -618,10 +582,6 @@ a)  Personen, die bis zu dem Zeitpunkt, in dem der nationalsozialistische
 b)  Hinterbliebene der in Buchstabe a genannten Personen bezüglich der
     Gewährung von Leistungen an Hinterbliebene.
 
-
-
-
-
 ### § 18
 
 (1) § 15 findet keine Anwendung, wenn die Beiträge als einmalige
@@ -650,7 +610,6 @@ sind.
 
 (4) (weggefallen)
 
-
 ### § 19
 
 (1) Die Beitragszeit wird in ihrem ursprünglichen Umfang angerechnet,
@@ -668,7 +627,6 @@ erbracht wird.
 (4) Sind Tagesbeiträge entrichtet, so wird für je sieben Tagesbeiträge
 eine Woche als Beitragszeit angerechnet; ein verbleibender Rest gilt
 als volle Beitragswoche.
-
 
 ### § 20
 
@@ -728,7 +686,6 @@ der Rentenversicherung der Angestellten zugeordnet. Die Sätze 1 bis 3
 gelten nur für die Zuordnung von Zeiten der freiwilligen Versicherung,
 die vor dem 1. März 1957 zurückgelegt wurden.
 
-
 ### § 21
 
 Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen
@@ -737,7 +694,6 @@ vollendeten 14. Lebensjahr in Gewahrsam genommen worden sind oder im
 Anschluß daran wegen Krankheit arbeitsunfähig oder unverschuldet
 arbeitslos gewesen sind, wenn sie zum Personenkreis des § 1 des
 Häftlingshilfegesetzes gehören.
-
 
 ### § 22
 
@@ -777,7 +733,6 @@ sind, werden die ermittelten Entgeltpunkte um ein Sechstel gekürzt.
 (4) Die nach den Absätzen 1 und 3 maßgeblichen Entgeltpunkte werden
 mit dem Faktor 0,6 vervielfältigt.
 
-
 ### § 22a
 
 (1) (weggefallen)
@@ -794,7 +749,6 @@ zugrunde gelegt.
 eine Rente bereits festgestellt ist, es sei denn, es wird im
 Einzelfall festgestellt, daß Zeiten nach Absatz 2 bei Feststellung der
 Rente berücksichtigt wurden.
-
 
 ### § 22b
 
@@ -819,7 +773,6 @@ Verhältnis aufgeteilt, in dem die sich nach Anwendung von den Absätzen
 1 und 2 jeweils ergebenden Entgeltpunkte zueinander stehen, höchstens
 jedoch 25 Entgeltpunkte für einen Berechtigten.
 
-
 ### § 23
 
 (1) Bei pflichtversicherten Selbständigen ist für die Zuordnung der
@@ -840,10 +793,7 @@ Mindestbeitragsbemessungsgrundlage im Gebiet der Bundesrepublik
 Deutschland ohne das Beitrittsgebiet entspricht. § 22 Abs. 3 ist
 anzuwenden.
 
-
 ### (XXXX) §§ 24 und 25 (weggefallen)
-
-
 
 ### § 26
 
@@ -861,10 +811,7 @@ Woche Entgeltpunkte nicht ermittelt. Die Sätze 1 bis 4 gelten
 entsprechend, soweit anstelle einer Beschäftigung eine selbständige
 Tätigkeit ausgeübt worden ist.
 
-
 ### (XXXX) §§ 27 und 28 (weggefallen)
-
-
 
 ### § 28a
 
@@ -874,7 +821,6 @@ Alters oder anstelle einer solchen Leistung eine andere Leistung
 bezogen hat, stehen Rentenbezugszeiten nach dem Sechsten Buch
 Sozialgesetzbuch gleich, wenn der Rente Zeiten zugrunde liegen, die
 nach diesem Gesetz anrechenbar sind.
-
 
 ### § 28b
 
@@ -888,7 +834,6 @@ Jahres nach Zuzug in die Bundesrepublik Deutschland abzugeben. Die
 Zuordnung nach § 56 des Sechsten Buches Sozialgesetzbuch kann für
 Kinder, die im Zeitpunkt des Zuzugs geboren sind, rückwirkend auch für
 mehr als zwei Kalendermonate erfolgen.
-
 
 ### § 29
 
@@ -911,14 +856,12 @@ Arbeitsunfähigkeit wegen Krankheit nach dem 31. Dezember 1983 werden
 wie entsprechende Zeiten ohne Leistungsbezug oder ohne Beitragszahlung
 bewertet.
 
-
 ### § 30
 
 Für den Beginn einer Rente gilt § 99 Abs. 1 des Sechsten Buches
 Sozialgesetzbuch mit der Maßgabe, daß die Rente frühestens vom Tage
 des Zuzugs an geleistet wird. Die dreimonatige Antragsfrist ist zu
 beachten; sie beginnt mit dem Tage des Zuzugs.
-
 
 ### § 31
 
@@ -938,7 +881,6 @@ Absatz 1 genannten Stellen eine Rente oder eine andere Leistung
 gewährt.
 
 (3)
-
 
 ### Anlage 1 Definitionen der Leistungsgruppen
 
@@ -1834,7 +1776,6 @@ Verwaltungen üblicherweise vorkommenden Arbeiten besteht.
 Angestellte, deren Tätigkeit in der Erledigung einfacher Arbeiten
 besteht.
 
-
 ### Anlage 2
 
 Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 14;
@@ -1876,9 +1817,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   1955 bis 30. Juni 1965
 
     *
-
-
-
 
 ### Anlage 3
 
@@ -1938,10 +1876,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *
     *   1948 bis 1967
-
-
-
-
 
 ### Anlage 4
 
@@ -2108,10 +2042,6 @@ Rentenversicherung der Arbeiter
     *   VI
 
     *   V
-
-
-
-
 
 ### Anlage 5
 
@@ -2981,10 +2911,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31.116
 
-
-
-
-
 ### Anlage 6
 
 (Fundstelle: BGBl. Teil III 824-2, S. 16)
@@ -3204,10 +3130,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   III
 
     *   III
-
-
-
-
 
 ### Anlage 7
 
@@ -3976,10 +3898,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21.912
 
-
-
-
-
 ### Anlage 8
 
 (Fundstelle: BGBl. Teil III 824-2, S. 17)
@@ -4170,10 +4088,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   D
 
     *   C
-
-
-
-
 
 ### Anlage 9
 
@@ -4839,10 +4753,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30.420
 
-
-
-
-
 ### Anlage 10
 
 (Fundstelle: BGBl. Teil III 824-2, S. 18)
@@ -5033,10 +4943,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   C
 
     *   C
-
-
-
-
 
 ### Anlage 11
 
@@ -5701,10 +5607,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26.568
 
-
-
-
-
 ### Anlage 12
 
 (Fundstelle: BGBl. Teil III 824-2, S. 19)
@@ -5771,10 +5673,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   VI
 
     *   V
-
-
-
-
 
 ### Anlage 13
 
@@ -6432,22 +6330,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   32.304
 
-
-
-
-
 ### Anlage 14
 
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle BGBl Teil III 824-2, S. 20)
-
 
 ### Anlage 15
 
 ( Inhalt: nicht darstellbare Tabelle,
 Fundstelle BGBl I 2006 S. 1888 - 1890;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
-
 
 ### Anlage 16
 
@@ -6530,10 +6422,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
     *   7,70
 
     *   11,82
-
-
-
-
 
 ### Anlage 17 Entgeltpunkte für jedes volle Kalenderjahr unterteilt nach Wirtschaftsbereichen und Leistungsgruppen
 

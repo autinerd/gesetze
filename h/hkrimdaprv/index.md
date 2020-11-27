@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 43
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 2 Satz 2 des Bundespolizeibeamtengesetzes,
 der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
 S. 1666) neu gefasst worden ist, verordnet das Bundesministerium des
 Innern:
-
 
 ## § 1 Ziele des Vorbereitungsdienstes
 
@@ -39,7 +37,6 @@ Beamtinnen und Beamten sollen ihre Kenntnisse und Fähigkeiten
 weiterentwickeln, um den ständig wachsenden Herausforderungen des
 Polizeivollzugsdienstes gerecht zu werden.
 
-
 ## § 2 Einstellungsvoraussetzungen
 
 Bewerberinnen und Bewerber können eingestellt werden, wenn sie die
@@ -48,7 +45,6 @@ Kriminallaufbahnverordnung erfüllen und den besonderen
 gesundheitlichen Anforderungen gerecht werden, die an Beamtinnen und
 Beamte im Polizeivollzugsdienst gestellt werden. Eingestellt werden
 soll nur, wer die Fahrerlaubnis der Klasse B besitzt.
-
 
 ## § 3 Auswahlverfahren
 
@@ -99,7 +95,6 @@ Wiederbestellung ist zulässig.
 (5) Bei Bedarf können mehrere Kommissionen eingerichtet werden. In
 diesem Fall sind gleiche Auswahlmaßstäbe sicherzustellen.
 
-
 ## § 4 Dienstaufsicht
 
 Während des Studiums an der Deutschen Hochschule der Polizei sowie der
@@ -108,12 +103,10 @@ die Beamtinnen und Beamten neben der Dienstaufsicht der Präsidentin
 oder des Präsidenten des Bundeskriminalamts auch der Dienstaufsicht
 der Leitungen dieser Behörden.
 
-
 ## § 5 Urlaub
 
 Das Bundeskriminalamt legt die Zeiten fest, in denen Erholungsurlaub
 genommen werden kann.
-
 
 ## § 6 Dauer und Aufbau des Vorbereitungsdienstes
 
@@ -123,7 +116,6 @@ Kriminalpolizeidienststellen der Länder sowie dem in der Regel
 24-monatigen Masterstudiengang „Öffentliche Verwaltung –
 Polizeimanagement (Public Administration – Police Management)“ an der
 Deutschen Hochschule der Polizei.
-
 
 ## § 7 Fachpraktische Ausbildungsphase
 
@@ -143,7 +135,6 @@ Ausbildungsverantwortlichen sind für den ordnungsgemäßen Ablauf der
 fachpraktischen Ausbildungsphase verantwortlich. Sie beraten die
 Beamtinnen und Beamten sowie die Ausbildenden.
 
-
 ## § 8 Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“
 
 Studium und Prüfungen richten sich nach der Prüfungsordnung für den
@@ -152,12 +143,10 @@ Administration – Police Management)“ an der Deutschen Hochschule der
 Polizei. Das erste Studienjahr wird beim Bundeskriminalamt
 durchgeführt.
 
-
 ## § 9 Laufbahnprüfung
 
 Die Masterprüfung an der Deutschen Hochschule der Polizei ist die
 Laufbahnprüfung.
-
 
 ## § 10 Übergangsvorschriften
 
@@ -175,10 +164,6 @@ höheren Kriminaldienst des Bundes vom 3. September 2001 (BGBl. I S.
     Laufbahnverordnung vom 20. April 2004 (BGBl. I S. 682), die zuletzt
     durch § 56 Absatz 4 der Verordnung vom 12. Februar 2009 (BGBl. I S.
     284) geändert worden ist, begonnen haben.
-
-
-
-
 
 ## § 11 Inkrafttreten, Außerkrafttreten
 

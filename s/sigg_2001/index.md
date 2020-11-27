@@ -25,10 +25,7 @@ Vorschriften (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Erster Abschnitt - Allgemeine Bestimmungen
-
-
 
 ### § 1 Zweck und Anwendungsbereich
 
@@ -45,7 +42,6 @@ elektronischer Signaturen zusätzlichen Anforderungen unterworfen wird.
 Diese Anforderungen müssen objektiv, verhältnismäßig und
 nichtdiskriminierend sein und dürfen sich nur auf die spezifischen
 Merkmale der betreffenden Anwendung beziehen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -179,20 +175,13 @@ Im Sinne dieses Gesetzes sind
     für den Betrieb eines Zertifizierungsdienstes, mit der besondere
     Rechte und Pflichten verbunden sind.
 
-
-
-
-
 ### § 3 Zuständige Behörde
 
 Die Aufgaben der zuständigen Behörde nach diesem Gesetz und der
 Rechtsverordnung nach § 24 obliegen der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
-
 ## Zweiter Abschnitt - Zertifizierungsdiensteanbieter
-
-
 
 ### § 4 Allgemeine Anforderungen
 
@@ -229,7 +218,6 @@ zuständigen Behörde unverzüglich anzuzeigen.
 (5) Der Zertifizierungsdiensteanbieter kann unter Einbeziehung in sein
 Sicherheitskonzept nach Absatz 2 Satz 4 Aufgaben nach diesem Gesetz
 und der Rechtsverordnung nach § 24 an Dritte übertragen.
-
 
 ### § 5 Vergabe von qualifizierten Zertifikaten
 
@@ -287,7 +275,6 @@ Gesetzes und der Rechtsverordnung nach § 24 erfüllen, einzusetzen.
 überzeugen, dass der Antragsteller die zugehörige sichere
 Signaturerstellungseinheit besitzt.
 
-
 ### § 6 Unterrichtungspflicht
 
 (1) Der Zertifizierungsdiensteanbieter hat den Antragsteller nach § 5
@@ -309,7 +296,6 @@ Voraussetzung für die Ausstellung des qualifizierten Zertifikats in
 Textform zu bestätigen hat. Soweit ein Antragsteller bereits zu einem
 früheren Zeitpunkt nach den Absätzen 1 und 2 unterrichtet worden ist,
 kann eine erneute Unterrichtung unterbleiben.
-
 
 ### § 7 Inhalt von qualifizierten Zertifikaten
 
@@ -359,7 +345,6 @@ durch eindeutige Referenzdaten des qualifizierten Zertifikates, auf
 das sie Bezug nehmen, ersetzt werden, soweit sie nicht für die Nutzung
 des qualifizierten Attribut-Zertifikates benötigt werden.
 
-
 ### § 8 Sperrung von qualifizierten Zertifikaten
 
 (1) Der Zertifizierungsdiensteanbieter hat ein qualifiziertes
@@ -382,12 +367,10 @@ Voraussetzungen für die berufsbezogenen oder sonstigen Angaben zur
 Person nach Aufnahme in das qualifizierte Zertifikat entfallen, eine
 Sperrung des betreffenden Zertifikates nach Absatz 1 verlangen.
 
-
 ### § 9 Qualifizierte Zeitstempel
 
 Stellt ein Zertifizierungsdiensteanbieter qualifizierte Zeitstempel
 aus, so gilt § 5 Abs. 5 entsprechend.
-
 
 ### § 10 Dokumentation
 
@@ -402,7 +385,6 @@ Sperrung von qualifizierten Zertifikaten.
 
 (2) Dem Signaturschlüssel-Inhaber ist auf Verlangen Einsicht in die
 ihn betreffenden Daten und Verfahrensschritte zu gewähren.
-
 
 ### § 11 Haftung
 
@@ -429,7 +411,6 @@ nach § 4 Abs. 5 und beim Einstehen für ausländische Zertifikate nach §
 23 Abs. 1 Nr. 2 wie für eigenes Handeln. § 831 Abs. 1 Satz 2 des
 Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
-
 ### § 12 Deckungsvorsorge
 
 Der Zertifizierungsdiensteanbieter ist verpflichtet, eine geeignete
@@ -441,7 +422,6 @@ qualifizierte elektronische Signaturen oder sonstige technische
 Sicherungseinrichtungen versagen. Die Mindestsumme beträgt jeweils
 250\.000 Euro für einen durch ein haftungsauslösendes Ereignis der in
 Satz 1 bezeichneten Art verursachten Schaden.
-
 
 ### § 13 Einstellung der Tätigkeit
 
@@ -467,7 +447,6 @@ Aufwand möglich ist.
 (3) Der Zertifizierungsdiensteanbieter hat einen Antrag auf Eröffnung
 eines Insolvenzverfahrens der zuständigen Behörde unverzüglich
 anzuzeigen.
-
 
 ### § 14 Datenschutz
 
@@ -499,10 +478,7 @@ Unterrichtung überwiegt.
 Zertifizierungsdiensteanbieter Zertifikate für elektronische
 Signaturen ausstellen, gelten die Absätze 1 und 2 entsprechend.
 
-
 ## Dritter Abschnitt - Freiwillige Akkreditierung
-
-
 
 ### § 15 Freiwillige Akkreditierung von Zertifizierungsdiensteanbietern
 
@@ -577,10 +553,6 @@ akkreditierte Zertifizierungsdiensteanbieter hat
     1 geprüfte und bestätigte Signaturanwendungskomponenten zu
     unterrichten.
 
-
-
-
-
 ### § 16 Zertifikate der zuständigen Behörde
 
 (1) Die zuständige Behörde stellt den akkreditierten
@@ -619,10 +591,7 @@ Zertifizierungsdiensteanbietern oder Herstellern benötigten
 elektronischen Bescheinigungen für die automatische Authentifizierung
 von Produkten nach § 15 Abs. 7 aus.
 
-
 ## Vierter Abschnitt - Technische Sicherheit
-
-
 
 ### § 17 Produkte für qualifizierte elektronische Signaturen
 
@@ -701,7 +670,6 @@ entsprechen, werden im Amtsblatt der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 veröffentlicht.
 
-
 ### § 18 Anerkennung von Prüf- und Bestätigungsstellen
 
 (1) Die zuständige Behörde erkennt eine natürliche oder juristische
@@ -722,10 +690,7 @@ Prüfungen und Bestätigungen zu dokumentieren und die Dokumentation im
 Falle der Einstellung ihrer Tätigkeit an die zuständige Behörde zu
 übergeben.
 
-
 ## Fünfter Abschnitt - Aufsicht
-
-
 
 ### § 19 Aufsichtsmaßnahmen
 
@@ -786,7 +751,6 @@ eingestellt haben oder deren Betrieb nach § 19 Abs. 3 untersagt wurde,
 für jeden über öffentlich erreichbare Kommunikationsverbindungen
 abrufbar zu halten.
 
-
 ### § 20 Mitwirkungspflicht
 
 (1) Die Zertifizierungsdiensteanbieter und die für diese nach § 4 Abs.
@@ -806,10 +770,7 @@ Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach
 dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf
 dieses Recht hinzuweisen.
 
-
 ## Sechster Abschnitt - Schlussbestimmungen
-
-
 
 ### § 20a Verfahren über eine einheitliche Stelle
 
@@ -817,7 +778,6 @@ Verwaltungsverfahren nach diesem Gesetz oder nach einer auf Grund
 dieses Gesetzes erlassenen Rechtsverordnung können über eine
 einheitliche Stelle nach den Vorschriften des
 Verwaltungsverfahrensgesetzes abgewickelt werden.
-
 
 ### § 21 Bußgeldvorschriften
 
@@ -886,7 +846,6 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 über Ordnungswidrigkeiten ist die Bundesnetzagentur für Elektrizität,
 Gas, Telekommunikation, Post und Eisenbahnen.
 
-
 ### § 22 Kosten und Beiträge
 
 (1) Die zuständige Behörde erhebt für ihre folgenden Amtshandlungen
@@ -925,7 +884,6 @@ akkreditiert sind, haben zur Abgeltung des Verwaltungsaufwands für die
 ständige Erfüllung der Voraussetzungen nach § 16 Abs. 2 eine Abgabe an
 die zuständige Behörde zu entrichten, die als Jahresbeitrag erhoben
 wird.
-
 
 ### § 23 Ausländische elektronische Signaturen und Produkte für elektronische Signaturen
 
@@ -979,7 +937,6 @@ aus einem in Satz 1 genannten Staat oder aus einem Drittstaat
 gleichgestellt, wenn sie nachweislich gleichwertige Sicherheit
 aufweisen.
 
-
 ### § 24 Rechtsverordnung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die zur
@@ -1027,10 +984,6 @@ erlassen über
 8.  das Verfahren zur Feststellung der gleichwertigen Sicherheit von
     ausländischen elektronischen Signaturen und ausländischen Produkten
     für elektronische Signaturen nach § 23.
-
-
-
-
 
 ### § 25 Übergangsvorschriften
 

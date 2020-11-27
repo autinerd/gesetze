@@ -19,7 +19,6 @@ Diese Rechtsverordnung dient der Umsetzung der Richtlinie 1999/105/EG
 des Rates vom 22. Dezember 1999 über den Verkehr mit forstlichem
 Vermehrungsgut (ABl. EG 2000 Nr. L 11 S. 17, 2001 Nr. L 121 S. 48).
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -33,10 +32,6 @@ Landwirtschaft verordnet
 -   auf Grund des § 19 Abs. 3 Satz 1 des Forstvermehrungsgutgesetzes vom
     22\. Mai 2002 (BGBl. I S. 1658) im Einvernehmen mit dem
     Bundesministerium der Finanzen:
-
-
-
-
 
 ## § 1 Stammzertifikate
 
@@ -56,7 +51,6 @@ Die Stammzertifikate für Vermehrungsgut von
 
 
 müssen den aus den Anlagen 1 bis 4 ersichtlichen Mustern entsprechen.
-
 
 ## § 2 Kennzeichnung von forstlichem Vermehrungsgut
 
@@ -112,10 +106,6 @@ Abs. 1 des Forstvermehrungsgutgesetzes muss folgende Angaben umfassen:
 13. Hinweis "enthält gentechnisch veränderte Organismen", wenn die Partie
     gentechnisch verändertes Material enthält.
 
-
-
-
-
 ## § 3 Mischung von forstlichem Saatgut
 
 (1) Partien von Saatgut einer einzigen Zulassungseinheit aus
@@ -137,7 +127,6 @@ Mischungsvorgang überwachen kann.
 
 (3) Die aus der Mischung entstandene Partie muss so durchmischt sein,
 dass sie in sich homogen ist.
-
 
 ## § 4 Lieferpapiere
 
@@ -222,7 +211,6 @@ Lieferpapiere für die Kategorie "Quellengesichert" gelb, für die
 Kategorie "Ausgewählt" grün, für die Kategorie "Qualifiziert" rosa und
 für die Kategorie "Geprüft" blau sein.
 
-
 ## § 5 Anforderungen an die Saatgutprüfung
 
 Die Saatgutprüfung nach § 14 Abs. 2 des Forstvermehrungsgutgesetzes
@@ -233,7 +221,6 @@ ordnungsgemäße Lagerung und Prüfung erforderlichen technischen
 Einrichtungen verfügen. Die mit der Prüfung betrauten Personen müssen
 über die erforderlichen fachlichen Kenntnisse und Erfahrungen verfügen
 und dürfen am Ergebnis der Prüfung kein persönliches Interesse haben.
-
 
 ## § 6 Bücher und Belege
 
@@ -262,7 +249,6 @@ Forstpflanzenbetrieb Ablichtungen oder Ausdrucke auf seine Kosten
 unverzüglich zur Verfügung zu stellen oder Bücher und Belege zur
 Anfertigung von Ablichtungen oder Ausdrucken zu überlassen.
 
-
 ## § 7 Lieferung in andere Mitgliedstaaten der Europäischen Union
 
 Der Forstsamen- oder Forstpflanzenbetrieb hat den Versand von
@@ -273,7 +259,6 @@ unverzüglich anzuzeigen. Die Landesstelle leitet die Informationen an
 die Bundesanstalt weiter. Sofern die Landesstelle oder die
 Bundesanstalt Unregelmäßigkeiten feststellen, so informieren sie
 unmittelbar die zuständige Stelle des beteiligten Mitgliedstaates.
-
 
 ## § 8 Einfuhr von forstlichem Vermehrungsgut
 
@@ -345,23 +330,19 @@ unverzüglich der Bundesanstalt zurückzugeben.
 (5) Einlassstellen sind die Zollstellen nach § 36 des
 Pflanzenschutzgesetzes.
 
-
 ## § 9 Abkürzungen
 
 Im Falle der Verwendung von Abkürzungen für die Angaben nach § 2 sowie
 für die Angaben in den Lieferpapieren nach § 4 und den Büchern und
 Belegen nach § 6 sind nur die Abkürzungen nach Anlage 5 zulässig.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Nr. 1) Stammzertifikat für Vermehrungsgut von Saatgutquellen und Erntebeständen
 
@@ -370,14 +351,12 @@ Fundstelle des Originaltextes: BGBl. I 2002, S. 4714
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Vermehrungsgut von Saatgutquellen und Erntebeständen)
 
-
 ## Anlage 2 (zu § 1 Nr. 2) Stammzertifikat für Mischungen
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4715 u. 4716
 
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Mischungen)
-
 
 ## Anlage 3 (zu § 1 Nr. 3) Stammzertifikat für Vermehrungsgut von Samenplantagen und Familieneltern
 
@@ -386,14 +365,12 @@ Fundstelle des Originaltextes: BGBl. I 2002, S. 4717; 2003 I 61
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Vermehrungsgut von Samenplantagen und Familieneltern)
 
-
 ## Anlage 4 (zu § 1 Nr. 4) Stammzertifikat für Vermehrungsgut von Klonen und Klonmischungen
 
 Fundstelle des Originaltextes: BGBl. I 2002, S. 4718 u. 4719
 
 ... (nicht darstellbares Muster eines Stammzertifikates für
 Vermehrungsgut von Klonen und Klonmischungen)
-
 
 ## Anlage 5 (zu § 9) Liste zulässiger Abkürzungen
 

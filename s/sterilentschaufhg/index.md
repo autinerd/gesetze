@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2501
 
-
-
 ## § 1
 
 (1) Die eine Unfruchtbarmachung anordnenden und noch rechtskräftigen
@@ -29,7 +27,6 @@ worden sind, werden aufgehoben.
 
 (2) Die Aufhebung kann nicht zum Nachteil eines Dritten geltend
 gemacht werden.
-
 
 ## § 2
 

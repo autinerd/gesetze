@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 21.7.2012 I 1613
 
-
 ## Eingangsformel
 
 Auf Grund des § 16 Satz 1 des Krankenhausfinanzierungsgesetzes vom 29.
 Juni 1972 (BGBl. I S. 1009), der durch Artikel 1 Nr. 15 des Gesetzes
 vom 20. Dezember 1984 (BGBl. I S. 1716) neu gefaßt worden ist,
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Anwendungsbereich
 
@@ -45,10 +43,6 @@ richtet sich nach dieser Verordnung.
     Krankenhausfinanzierungsgesetzes nicht gefördert werden, es sei denn,
     daß diese Krankenhäuser auf Grund Landesrechts nach § 5 Abs. 2 des
     Krankenhausfinanzierungsgesetzes gefördert werden.
-
-
-
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -74,10 +68,6 @@ Im Sinne dieser Verordnung sind
     beweglichen Anlagegüter, die einer selbständigen Nutzung fähig sind
     und deren Anschaffungs- oder Herstellungskosten für das einzelne
     Anlagegut ohne Umsatzsteuer 150 Euro nicht übersteigen.
-
-
-
-
 
 ## § 3 Zuordnungsgrundsätze
 
@@ -136,7 +126,6 @@ Grundlage der Nutzungsdauer bei einschichtigem Betrieb zu ermitteln.
 zuzurechnen, die üblicherweise notwendig sind, um das Wirtschaftsgut
 anzuschaffen oder herzustellen und in Benutzung zu nehmen.
 
-
 ## § 4 Instandhaltungskosten
 
 (1) Instandhaltungskosten sind die Kosten der Erhaltung oder
@@ -164,11 +153,9 @@ Zeitraum bis zu drei Jahren durchgeführt werden, zusammenzurechnen.
 Die nach Satz 1 abgegrenzten Kosten werden nach § 17 Absatz 4b Satz 3
 des Krankenhausfinanzierungsgesetzes pauschal finanziert.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Inkrafttreten und Übergangsvorschrift
 
@@ -189,11 +176,9 @@ worden sind, verbleibt es bei der für diese Wirtschaftsgüter
 vorgenommenen Abgrenzung und Zuordnung sowie angenommenen
 Nutzungsdauer.
 
-
 ## Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung
-
 
 ## Anlage
 

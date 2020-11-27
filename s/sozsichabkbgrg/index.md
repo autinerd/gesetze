@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2011
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -41,7 +38,6 @@ Den folgenden, in Sofia am 17. Dezember 1997 unterzeichneten
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -72,10 +68,6 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
-
 
 ## Art 3
 

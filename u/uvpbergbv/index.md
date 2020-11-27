@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 V v. 3.9.2010 I 1261
 
-
 ## Eingangsformel
 
 Auf Grund des § 57c des Bundesberggesetzes vom 13. August 1980 (BGBl.
@@ -26,7 +25,6 @@ I S. 1310), der durch Artikel 1 des Gesetzes vom 12. Februar 1990
 (BGBl. I S. 215) eingefügt worden ist, verordnet der Bundesminister
 für Wirtschaft im Einvernehmen mit dem Bundesminister für Umwelt,
 Naturschutz und Reaktorsicherheit:
-
 
 ## § 1 Vorhaben
 
@@ -195,10 +193,6 @@ aufgeführten betriebsplanpflichtigen Vorhaben:
     Umweltverträglichkeitsprüfung bedürfen und ihrer Art oder Gruppe nach
     nicht unter die Nummern 1 bis 8 fallen.
 
-
-
-
-
 ## § 2 Angaben
 
 (1) Entscheidungserhebliche Angaben im Sinne des § 57a Abs. 2 Satz 2
@@ -228,7 +222,6 @@ Durchführung eines Verfahrens nach § 52 Abs. 2a Satz 2 des
 Bundesberggesetzes hat die zuständige Behörde vor Abgabe ihrer
 Stellungnahme zu den Angaben den Unternehmer und in ihrem
 Aufgabenbereich betroffene Behörden anzuhören.
-
 
 ## § 3 Grenzüberschreitende Beteiligung
 
@@ -272,7 +265,6 @@ Begründung und einer Rechtsbehelfsbelehrung zugänglich gemacht wird.
 (4) Völkerrechtliche Verpflichtungen von Bund und Ländern bleiben
 unberührt.
 
-
 ## § 4 Übergangsvorschrift
 
 (1) Die am 20. August 2005 bereits begonnenen Verfahren betreffend
@@ -291,11 +283,9 @@ bisher geltenden Vorschriften zu Ende zu führen.
 betriebsplanpflichtige Vorhaben im Sinne des § 1 Nummer 6a sind nach
 den bisher geltenden Vorschriften zu Ende zu führen.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1990 in Kraft.
-
 
 ## Schlußformel
 

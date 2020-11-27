@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 21 G v. 6.12.2011 I 2515
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften
 
@@ -39,7 +36,6 @@ ist kein Gewerbe.
 (3) Wirtschaftsprüfungsgesellschaften bedürfen der Anerkennung. Die
 Anerkennung setzt den Nachweis voraus, daß die Gesellschaft von
 Wirtschaftsprüfern verantwortlich geführt wird.
-
 
 ### § 2 Inhalt der Tätigkeit
 
@@ -65,10 +61,6 @@ und zu vertreten.
 
 3.  zur treuhänderischen Verwaltung.
 
-
-
-
-
 ### § 3 Berufliche Niederlassung
 
 (1) Berufsangehörige müssen unmittelbar nach der Bestellung eine
@@ -89,7 +81,6 @@ Hauptniederlassung der Sitz der Gesellschaft.
 (3) Wirtschaftsprüfer und Wirtschaftsprüfungsgesellschaften dürfen
 Zweigniederlassungen nach den Vorschriften dieses Gesetzes begründen.
 
-
 ### § 4 Wirtschaftsprüferkammer
 
 (1) Zur Erfüllung der beruflichen Selbstverwaltungsaufgaben wird eine
@@ -105,7 +96,6 @@ Rechts. Ihr Sitz bestimmt sich nach ihrer Satzung.
 
 (3) Die Wirtschaftsprüferkammer kann Landesgeschäftsstellen errichten.
 
-
 ### § 4a Verfahren über eine einheitliche Stelle
 
 Die Verwaltungsverfahren in öffentlich-rechtlichen und
@@ -113,7 +103,6 @@ berufsrechtlichen Angelegenheiten, die in diesem Gesetz oder in einer
 auf Grund dieses Gesetzes erlassenen Rechtsverordnung geregelt werden,
 können über eine einheitliche Stelle nach den Vorschriften des
 Verwaltungsverfahrensgesetzes abgewickelt werden.
-
 
 ### § 4b Frist für den Erlass von Verwaltungsakten
 
@@ -124,14 +113,9 @@ Satz 2 bis 4 des Verwaltungsverfahrensgesetzes gilt entsprechend. In
 den Fällen des § 16a und des § 20a beginnt die Frist erst mit der
 Vorlage des ärztlichen Gutachtens.
 
-
 ## Zweiter Teil - Voraussetzung für die Berufsausübung
 
-
-
 ### Erster Abschnitt - Zulassung zur Prüfung
-
-
 
 #### § 5 Prüfungsstelle, Rechtsschutz
 
@@ -157,7 +141,6 @@ Prüfungskommission und die Widerspruchskommission.
 Zulassungs- und Prüfungsverfahrens erlassen worden sind, entscheidet
 die Widerspruchskommission.
 
-
 #### § 6 Verbindliche Auskunft
 
 Auf Antrag erteilt die Prüfungsstelle eine verbindliche Auskunft über
@@ -165,12 +148,10 @@ die Erfüllung einzelner Voraussetzungen für die Zulassung zur Prüfung,
 für die Befreiung von Zulassungsvoraussetzungen und für die Anrechung
 von Prüfungsleistungen.
 
-
 #### § 7 Antrag auf Zulassung zur Prüfung
 
 Der Antrag auf Zulassung zur Prüfung ist in schriftlicher Form an die
 Prüfungsstelle zu richten.
-
 
 #### § 8 Voraussetzungen für die Zulassung (Vorbildung)
 
@@ -199,7 +180,6 @@ verzichtet werden, wenn die Bewerbenden
 (3) Wurde die Hochschulausbildung außerhalb des Geltungsbereiches
 dieses Gesetzes abgeschlossen, so muss das Abschlusszeugnis
 gleichwertig sein.
-
 
 #### § 8a Anerkannte Hochschulausbildungsgänge, Rechtsverordnung
 
@@ -246,10 +226,6 @@ Anerkennung zuständige Stelle. In der Rechtsverordnung kann es ferner
 3.  die Voraussetzungen der frühzeitigen Zulassung zur Prüfung nach § 9
     Abs. 6 Satz 2, insbesondere die dem Antrag beizufügenden Unterlagen,
     bestimmen.
-
-
-
-
 
 #### § 9 Voraussetzungen für die Zulassung (Prüfungstätigkeit)
 
@@ -325,18 +301,13 @@ zu einer Höchstdauer von einem Jahr auf die Tätigkeit nach Absatz 1
 angerechnet werden. Zudem kann die Zulassung zur Prüfung abweichend
 von Absatz 1 bereits zu einem früheren Zeitpunkt erfolgen.
 
-
 #### (XXXX) §§ 10, 10a und 11 (weggefallen)
-
 
 #### § 11a
 
 (weggefallen)
 
-
 ### Zweiter Abschnitt - Prüfung
-
-
 
 #### § 12 Prüfungskommission und Gliederung der Prüfung
 
@@ -348,14 +319,12 @@ Prüfung.
 (3) An alle Bewerber sind ohne Rücksicht auf ihren beruflichen
 Werdegang gleiche Anforderungen zu stellen.
 
-
 #### § 13 Verkürzte Prüfung für Steuerberater
 
 Steuerberater und Bewerber, die die Prüfung als Steuerberater
 bestanden haben, können die Prüfung in verkürzter Form ablegen. Bei
 der Prüfung in verkürzter Form entfällt die schriftliche und mündliche
 Prüfung im Steuerrecht.
-
 
 #### § 13a Verkürzte Prüfung für vereidigte Buchprüfer
 
@@ -378,7 +347,6 @@ Wiederholungsprüfungen nach den §§ 21, 22, 32 und 33 der
 Wirtschaftsprüferprüfungsverordnung; nach Ablauf der Frist nach Satz 2
 besteht kein Anspruch mehr auf deren Durchführung.
 
-
 #### § 13b Verkürzte Prüfung nach Anrechnung gleichwertiger Prüfungsleistungen, Rechtsverordnung
 
 Prüfungsleistungen, die im Rahmen einer Hochschulausbildung erbracht
@@ -393,7 +361,6 @@ für Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung
 mit Zustimmung des Bundesrates die inhaltlichen und formalen
 Voraussetzungen für die Feststellung der Gleichwertigkeit und das
 Verfahren festzulegen.
-
 
 #### § 14 Einzelheiten des Prüfungsverfahrens
 
@@ -420,7 +387,6 @@ Rechtsverordnung
 
 Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-
 #### § 14a Zulassungsgebühr, Prüfungsgebühr
 
 Für alle Zulassungs- und Prüfungsverfahren und für erfolglose
@@ -429,13 +395,9 @@ zahlen; die Wirtschaftsprüferkammer kann die Erhebung der Gebühren
 sowie deren Höhe und Fälligkeit bestimmen. Näheres regelt die
 Gebührenordnung der Wirtschaftsprüferkammer (§ 61 Abs. 2).
 
-
 #### (XXXX) §§ 14b und 14c (weggefallen)
 
-
 ### Dritter Abschnitt - Bestellung
-
-
 
 #### § 15 Bestellungsbehörde und Gebühren
 
@@ -449,7 +411,6 @@ Prüfung gestellt, so finden auf die Bestellung die Vorschriften des §
 zugelassen wurde, hat vor der Bestellung den Nachweis der insgesamt
 dreijährigen Tätigkeit nach § 9 Abs. 1, einschließlich der
 Prüfungstätigkeit nach § 9 Abs. 2, vorzulegen.
-
 
 #### § 16 Versagung der Bestellung
 
@@ -500,7 +461,6 @@ Berufspflichten als Wirtschaftsprüfer nicht genügen.
 (3) Über die Versagung der Bestellung entscheidet die
 Wirtschaftsprüferkammer.
 
-
 #### § 16a Ärztliches Gutachten im Bestellungsverfahren
 
 (1) Wenn es zur Entscheidung über den Versagungsgrund des § 16 Abs. 1
@@ -522,7 +482,6 @@ Entscheidung gestellt werden.
 der Anordnung der Wirtschaftsprüferkammer nicht nach, gilt der Antrag
 auf Bestellung als zurückgenommen.
 
-
 #### § 17 Berufsurkunde und Berufseid
 
 (1) Bewerber haben vor Aushändigung der Urkunde den Berufseid vor der
@@ -540,7 +499,6 @@ helfe".
 an Stelle des Eides andere Beteuerungsformeln zu gebrauchen, so kann
 der Bewerber, der Mitglied einer solchen Religionsgesellschaft ist,
 diese Beteuerungsformel sprechen.
-
 
 #### § 18 Berufsbezeichnung
 
@@ -579,7 +537,6 @@ Bestellung nach sich ziehen würden oder zur Ablehnung der Erlaubnis
 hätten führen können. Vor der Rücknahme oder dem Widerruf der
 Erlaubnis ist der oder die Betroffene zu hören.
 
-
 #### § 19 Erlöschen der Bestellung
 
 (1) Die Bestellung erlischt durch
@@ -597,7 +554,6 @@ Erlaubnis ist der oder die Betroffene zu hören.
 
 (2) Der Verzicht ist schriftlich gegenüber der Wirtschaftsprüferkammer
 zu erklären.
-
 
 #### § 20 Rücknahme und Widerruf der Bestellung
 
@@ -692,7 +648,6 @@ bestellt werden.
 Anfechtungsklage gegen einen Widerruf aus den Gründen des Absatzes 2
 Nr. 4 hat keine aufschiebende Wirkung.
 
-
 #### § 20a Ärztliches Gutachten im Widerrufsverfahren
 
 Im Verfahren wegen des Widerrufs der Bestellung nach § 20 Abs. 2 Nr. 3
@@ -703,17 +658,14 @@ der Wirtschaftsprüfer aus dem Grund des § 20 Abs. 2 Nr. 3, der durch
 das Gutachten geklärt werden soll, nicht nur vorübergehend unfähig
 ist, seinen Beruf ordnungsgemäß auszuüben.
 
-
 #### § 21 Zuständigkeit
 
 Über die Rücknahme und den Widerruf der Bestellung entscheidet die
 Wirtschaftsprüferkammer.
 
-
 #### § 22
 
 (weggefallen)
-
 
 #### § 23 Wiederbestellung
 
@@ -745,29 +697,21 @@ erscheint. Für das Prüfungsverfahren gelten die §§ 7 und 12 sinngemäß.
 die Wiederbestellung unter sinngemäßer Anwendung des § 16 nicht
 vorliegen.
 
-
 #### § 24
 
 (weggefallen)
 
-
 ### Vierter Abschnitt
-
-
 
 #### § 25
 
 (weggefallen)
 
-
 #### § 26
 
 (weggefallen)
 
-
 ### Fünfter Abschnitt - Wirtschaftsprüfungsgesellschaften
-
-
 
 #### § 27 Rechtsform
 
@@ -782,7 +726,6 @@ werden.
 als Wirtschaftsprüfungsgesellschaften anerkannt werden, wenn sie wegen
 ihrer Treuhandtätigkeit als Handelsgesellschaften in das
 Handelsregister eingetragen worden sind.
-
 
 #### § 28 Voraussetzungen für die Anerkennung
 
@@ -951,7 +894,6 @@ Grund- oder Stammkapitals entspricht.
 Deckungszusage auf den Antrag zum Abschluß einer
 Berufshaftpflichtversicherung vorliegt.
 
-
 #### § 29 Zuständigkeit und Verfahren
 
 (1) Zuständig für die Anerkennung als Wirtschaftsprüfungsgesellschaft
@@ -966,7 +908,6 @@ beizufügen.
 Urkunde ausgestellt. § 3a des Verwaltungsverfahrensgesetzes findet
 keine Anwendung.
 
-
 #### § 30 Änderungsanzeige
 
 Jede Änderung des Gesellschaftsvertrages oder der Satzung oder in der
@@ -976,7 +917,6 @@ beglaubigte Abschrift der jeweiligen Urkunde beizufügen. Wird die
 Änderung im Handelsregister oder Partnerschaftsregister eingetragen,
 ist eine öffentlich beglaubigte Abschrift der Eintragung
 nachzureichen.
-
 
 #### § 31 Bezeichnung "Wirtschaftsprüfungsgesellschaft"
 
@@ -988,7 +928,6 @@ Partnerschaftsgesellschaftsgesetzes vom 25. Juli 1994 (BGBl. I S.
 1744), zusätzlich die Berufsbezeichnungen aller in der Partnerschaft
 vertretenen Berufe in den Namen aufzunehmen.
 
-
 #### § 32 Bestätigungsvermerke
 
 Erteilen Wirtschaftsprüfungsgesellschaften gesetzlich vorgeschriebene
@@ -998,7 +937,6 @@ unterzeichnet werden, soweit diese gesetzlich befugt sind,
 Bestätigungsvermerke zu erteilen. Gleiches gilt für sonstige
 Erklärungen im Rahmen von Tätigkeiten, die den Berufsangehörigen
 gesetzlich vorbehalten sind.
-
 
 #### § 33 Erlöschen der Anerkennung
 
@@ -1015,7 +953,6 @@ gesetzlich vorbehalten sind.
 (2) Der Verzicht ist schriftlich gegenüber der Wirtschaftsprüferkammer
 zu erklären. Die Auflösung der Gesellschaft ist der
 Wirtschaftsprüferkammer unverzüglich anzuzeigen.
-
 
 #### § 34 Rücknahme und Widerruf der Anerkennung
 
@@ -1060,20 +997,15 @@ der Auftraggeber oder anderer Personen nicht gefährdet sind.
 (3) Für die Rücknahme und den Widerruf der Anerkennung entscheidet die
 Wirtschaftsprüferkammer.
 
-
 #### § 35
 
 (weggefallen)
-
 
 #### § 36
 
 (weggefallen)
 
-
 ### Sechster Abschnitt - Allgemeine Vorschriften für das Verwaltungsverfahren
-
-
 
 #### § 36a Untersuchungsgrundsatz, Mitwirkungspflicht, Übermittlung personenbezogener Daten
 
@@ -1137,10 +1069,7 @@ vereidigten Buchprüfer übermitteln, soweit sie für die Feststellung
 der Mitgliedschaft sowie von Art und Umfang der Beitragspflicht oder
 der Versorgungsleistung erforderlich sind.
 
-
 ### Siebenter Abschnitt - Berufsregister
-
-
 
 #### § 37 Registerführende Stelle
 
@@ -1160,7 +1089,6 @@ kann.
 (3) Auf Verlangen des Mitgliedes muß die Eintragung in das
 Mitgliederverzeichnis unterbleiben. Das Mitglied ist von der
 Wirtschaftsprüferkammer auf sein Widerspruchsrecht hinzuweisen.
-
 
 #### § 38 Eintragung
 
@@ -1301,10 +1229,6 @@ einzutragen
     Abschlussprüfungsgesellschaften aus Drittstaaten gemäß § 134; die
     Nummern 1 bis 3 gelten entsprechend.
 
-
-
-
-
 #### § 39 Löschung
 
 (1) Im Berufsregister sind zu löschen
@@ -1349,7 +1273,6 @@ zurückgenommen oder widerrufen oder durch Fristablauf erloschen ist.
 Die Angaben zu § 38 Nr. 1 Buchstabe k sind zu löschen, wenn die
 Tätigkeits- oder Berufsverbote erloschen sind.
 
-
 #### § 40 Verfahren
 
 (1) Eintragungen und Löschungen werden von der Wirtschaftsprüferkammer
@@ -1360,7 +1283,6 @@ Tatsachen, die eine Eintragung, ihre Veränderung oder eine Löschung
 erforderlich machen, der Wirtschaftsprüferkammer unverzüglich in einer
 den §§ 126, 126a des Bürgerlichen Gesetzbuchs entsprechenden Form
 mitzuteilen. § 62a gilt entsprechend.
-
 
 #### § 40a Register für genossenschaftliche Prüfungsverbände und Prüfungsstellen der Sparkassen- und Giroverbände
 
@@ -1428,10 +1350,7 @@ verpflichtet der Wirtschaftsprüferkammer mitzuteilen, wenn ihr
 Prüfungsrecht unanfechtbar entzogen worden ist. In diesen Fällen hat
 die Wirtschaftsprüferkammer die Eintragung zu löschen.
 
-
 ### Achter Abschnitt - Verwaltungsgerichtliches Verfahren
-
-
 
 #### § 41 Unmittelbare Klage gegen Bescheide der Wirtschaftsprüferkammer
 
@@ -1440,15 +1359,11 @@ die aufgrund von Vorschriften des Dritten und Fünften Abschnitts des
 Zweiten Teils und § 134a Abs. 1 und 2 dieses Gesetzes erlassen worden
 sind, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
-
 #### § 42
 
 (weggefallen)
 
-
 ## Dritter Teil - Rechte und Pflichten der Wirtschaftsprüfer
-
-
 
 ### § 43 Allgemeine Berufspflichten
 
@@ -1473,7 +1388,6 @@ tätig war, darf dort innerhalb von zwei Jahren nach der Beendigung der
 Prüfungstätigkeit keine wichtige Führungstätigkeit ausüben.
 
 (4) (weggefallen)
-
 
 ### § 43a Regeln der Berufsausübung
 
@@ -1585,10 +1499,6 @@ des Steuerberatungsgesetzes im Wesentlichen entsprechen.
 8.  die Tätigkeit als Angestellter eines Prüfungsverbands nach § 26 Abs. 2
     des Gesetzes über das Kreditwesen.
 
-
-
-
-
 ### § 44 Eigenverantwortliche Tätigkeit
 
 (1) Eine eigenverantwortliche Tätigkeit übt nicht aus, wer sich als
@@ -1614,7 +1524,6 @@ für Körperschaften und Anstalten des öffentlichen Rechts durch einen
 zeichnungsberechtigten Vertreter des Prüfungsverbandes, der
 Prüfungsstelle oder der Prüfungseinrichtung vereinbart ist.
 
-
 ### § 44a Wirtschaftsprüfer im öffentlich-rechtlichen Dienst- oder Amtsverhältnis
 
 Ist ein Wirtschaftsprüfer ein öffentlich-rechtliches Dienstverhältnis
@@ -1626,7 +1535,6 @@ Wirtschaftsprüferkammer kann dem Wirtschaftsprüfer auf seinen Antrag
 einen Vertreter bestellen oder ihm gestatten, seinen Beruf selbst
 auszuüben, wenn die Einhaltung der allgemeinen Berufspflichten dadurch
 nicht gefährdet wird.
-
 
 ### § 44b Gemeinsame Berufsausübung, Außen- und Scheinsozietät
 
@@ -1681,14 +1589,12 @@ nachkommen können.
 kundgemacht, sind die Vorschriften der Absätze 4 und 5 entsprechend
 anzuwenden.
 
-
 ### § 45 Prokuristen
 
 Wirtschaftsprüfer sollen als Angestellte von
 Wirtschaftsprüfungsgesellschaften die Rechtsstellung von Prokuristen
 haben. Angestellte Wirtschaftsprüfer gelten als leitende Angestellte
 im Sinne des § 5 Abs. 3 des Betriebsverfassungsgesetzes.
-
 
 ### § 46 Beurlaubung
 
@@ -1703,7 +1609,6 @@ höchstens für ein Jahr gewährt und jeweils höchstens um ein Jahr
 verlängert werden. Die Gesamtzeit der Beurlaubung soll drei
 aufeinanderfolgende Jahre nicht überschreiten.
 
-
 ### § 47 Zweigniederlassungen
 
 Zweigniederlassungen müssen jeweils von wenigstens einem
@@ -1711,7 +1616,6 @@ Wirtschaftsprüfer geleitet werden, der seine berufliche Niederlassung
 am Ort der Zweigniederlassung hat. Für Zweigniederlassungen von in
 eigener Praxis tätigen Wirtschaftsprüfern kann die
 Wirtschaftsprüferkammer Ausnahmen zulassen.
-
 
 ### § 48 Siegel
 
@@ -1725,7 +1629,6 @@ Prüfungsergebnisse abgeben oder Gutachten erstatten.
 näheren Bestimmungen über die Gestaltung des Siegels und die Führung
 des Siegels.
 
-
 ### § 49 Versagung der Tätigkeit
 
 Der Wirtschaftsprüfer hat seine Tätigkeit zu versagen, wenn sie für
@@ -1733,13 +1636,11 @@ eine pflichtwidrige Handlung in Anspruch genommen werden soll oder die
 Besorgnis der Befangenheit bei der Durchführung eines Auftrages
 besteht.
 
-
 ### § 50 Verschwiegenheitspflicht der Gehilfen
 
 Der Wirtschaftsprüfer hat seine Gehilfen und Mitarbeiter, soweit sie
 nicht bereits durch Gesetz zur Verschwiegenheit verpflichtet sind, zur
 Verschwiegenheit zu verpflichten.
-
 
 ### § 51 Mitteilung der Ablehnung eines Auftrages
 
@@ -1747,11 +1648,9 @@ Der Wirtschaftsprüfer, der einen Auftrag nicht annehmen will, hat die
 Ablehnung unverzüglich zu erklären. Er hat den Schaden zu ersetzen,
 der aus einer schuldhaften Verzögerung dieser Erklärung entsteht.
 
-
 ### § 51a
 
 (weggefallen)
-
 
 ### § 51b Handakten
 
@@ -1804,11 +1703,9 @@ Datenverarbeitung bedient. In anderen Gesetzen getroffene Regelungen
 über die Pflichten zur Aufbewahrung von Geschäftsunterlagen bleiben
 unberührt.
 
-
 ### § 52 Werbung
 
 Werbung ist zulässig, es sei denn, sie ist unlauter.
-
 
 ### § 53 Wechsel des Auftraggebers
 
@@ -1818,7 +1715,6 @@ oder eine Personengesellschaft, mit der sie ihren Beruf gemeinsam
 ausüben, bereits tätig waren, für andere Auftraggebende nur tätig
 werden, wenn die bisherigen und die neuen Auftraggebenden
 einverstanden sind.
-
 
 ### § 54 Berufshaftpflichtversicherung
 
@@ -1845,7 +1741,6 @@ zulässige Versicherungsausschlüsse wie etwa für Ersatzansprüche bei
 wissentlicher Pflichtverletzung, den Versicherungsnachweis, das
 Anzeigeverfahren und die Überwachung der Versicherungspflicht.
 
-
 ### § 54a Vertragliche Begrenzung von Ersatzansprüchen
 
 (1) Der Anspruch des Auftraggebers aus dem zwischen ihm und dem
@@ -1867,7 +1762,6 @@ fahrlässig verursachten Schadens kann beschränkt werden
 Schadensersatz kann auch durch vorformulierte Vertragsbedingungen auf
 einzelne namentlich bezeichnete Mitglieder der Sozietät beschränkt
 werden, die die vertragliche Leistung erbringen sollen.
-
 
 ### § 55 Vergütung
 
@@ -1901,7 +1795,6 @@ Vergütungsforderungen oder die Übertragung ihrer Einziehung an andere
 Personen ist entweder bei rechtskräftiger Feststellung der
 Vergütungsforderung oder mit Zustimmung der auftraggebenden Person
 zulässig.
-
 
 ### § 55a Erfolgshonorar für Hilfeleistung in Steuersachen
 
@@ -1950,7 +1843,6 @@ als eine nach den Vorschriften des bürgerlichen Rechts bemessene
 Vergütung. Die Vorschriften des bürgerlichen Rechts über die
 ungerechtfertigte Bereicherung bleiben unberührt.
 
-
 ### § 55b Qualitätssicherungssystem
 
 Der Wirtschaftsprüfer oder die Wirtschaftsprüferin hat die Regelungen,
@@ -1958,7 +1850,6 @@ die zur Einhaltung der Berufspflichten erforderlich sind, zu schaffen
 sowie ihre Anwendung zu überwachen und durchzusetzen
 (Qualitätssicherungssystem). Das Qualitätssicherungssystem ist zu
 dokumentieren.
-
 
 ### § 55c Transparenzbericht
 
@@ -2031,7 +1922,6 @@ Transparenzberichtes möglich, kann der Transparenzbericht bei der
 Wirtschaftsprüferkammer hinterlegt und auf Nachfrage von Dritten dort
 eingesehen werden.
 
-
 ### § 56 Anwendung der Vorschriften über die Rechte und Pflichten der Wirtschaftsprüfer auf Wirtschaftsprüfungsgesellschaften
 
 (1) § 43, § 43a Abs. 3 und 4, § 44b, §§ 49 bis 53, § 54a, §§ 55a und
@@ -2044,10 +1934,7 @@ Wirtschaftsprüfer sind.
 vorgesehenen Aufsichtsorgane der Gesellschaften sind zur
 Verschwiegenheit verpflichtet.
 
-
 ## Vierter Teil - Organisation des Berufs
-
-
 
 ### § 57 Aufgaben der Wirtschaftsprüferkammer
 
@@ -2334,10 +2221,6 @@ Stelle an diese herausgeben, wenn
     Zusammenarbeit zwischen der Wirtschaftsprüferkammer und der jeweiligen
     Stelle getroffen wurde.
 
-
-
-
-
 ### § 57a Qualitätskontrolle
 
 Berufsangehörige in eigener Praxis und
@@ -2499,7 +2382,6 @@ Rechtsstreits über Maßnahmen der Kommission für Qualitätskontrolle
 verlängert sich die in Satz 1 bestimmte Frist bis zur Rechtskraft des
 Urteils.
 
-
 ### § 57b Verschwiegenheitspflicht und Verantwortlichkeit
 
 (1) Der Prüfer für Qualitätskontrolle und seine Gehilfen, die
@@ -2528,7 +2410,6 @@ Praxis ausüben, eingeschränkt.
 
 (4) § 323 des Handelsgesetzbuchs gilt vorbehaltlich des Absatzes 3
 entsprechend.
-
 
 ### § 57c Satzung für Qualitätskontrolle
 
@@ -2571,10 +2452,6 @@ dieses Gesetzes näher zu regeln:
     Abs. 3 Satz 2 Nr. 4 sowie das Verfahren zum Nachweis der Erfüllung
     dieser Verpflichtung.
 
-
-
-
-
 ### § 57d Mitwirkungspflichten
 
 Wirtschaftsprüfer in eigener Praxis, Wirtschaftsprüfungsgesellschaften
@@ -2584,7 +2461,6 @@ Aufklärungen zu geben sowie die verlangten Nachweise vorzulegen,
 soweit dies für eine sorgfältige Prüfung erforderlich ist. Die
 Mitwirkung kann nicht im Wege des Verwaltungszwangs nach § 57e Abs. 3
 erzwungen werden.
-
 
 ### § 57e Kommission für Qualitätskontrolle
 
@@ -2680,11 +2556,9 @@ Wirtschaftsprüfungsgesellschaft ergeben. Die Kommission für
 Qualitätskontrolle ist dabei an die im Verfahren nach § 62b
 getroffenen Feststellungen gebunden.
 
-
 ### § 57f (weggefallen)
 
 -
-
 
 ### § 57g Freiwillige Qualitätskontrolle
 
@@ -2692,7 +2566,6 @@ getroffenen Feststellungen gebunden.
 freiwillige Durchführung einer Qualitätskontrolle bei
 Wirtschaftsprüfern in eigener Praxis und
 Wirtschaftsprüfungsgesellschaften.
-
 
 ### § 57h Qualitätskontrolle bei Prüfungsstellen der Sparkassen- und Giroverbände
 
@@ -2729,7 +2602,6 @@ verantwortliche berufsangehörige Person der Leiter oder die Leiterin
 der Prüfungsstelle des Sparkassen- und Giroverbandes sein und nach §
 57a Abs. 3 Satz 2 registriert sein.
 
-
 ### § 58 Mitgliedschaft
 
 (1) Mitglieder der Wirtschaftsprüferkammer sind die Wirtschaftsprüfer,
@@ -2748,7 +2620,6 @@ Prüfungseinrichtungen für öffentliche Körperschaften können die
 Mitgliedschaft bei der Wirtschaftsprüferkammer erwerben. Die
 Vorschriften des § 57 Abs. 1 bis 4 sind auf diese Mitglieder nicht
 anzuwenden.
-
 
 ### § 59 Organe, Kammerversammlungen
 
@@ -2801,7 +2672,6 @@ Mitglieder eingeladen werden.
 (5) Das Nähere regelt die Wirtschaftsprüferkammer in der Satzung und
 in der Wahlordnung gemäß § 60 Absatz 1.
 
-
 ### § 59a Abteilungen des Vorstandes und der Kommission für Qualitätskontrolle
 
 (1) Der Vorstand kann mehrere Abteilungen bilden, wenn die Satzung der
@@ -2835,7 +2705,6 @@ Absätze 2 bis 5 gelten entsprechend. Über Widersprüche (§ 57e Abs. 1
 Satz 5 Nr. 6) gegen Beschlüsse von Abteilungen entscheidet die
 Kommission für Qualitätskontrolle.
 
-
 ### § 60 Satzung, Wirtschaftsplan
 
 (1) Die Organisation und Verwaltung der Wirtschaftsprüferkammer,
@@ -2852,7 +2721,6 @@ Qualitätskontrolle und die Arbeit der Berufsaufsicht und der
 Abschlussprüferaufsichtskommission bezogenen Teile des
 Wirtschaftsplans bedürfen der Genehmigung des Bundesministeriums für
 Wirtschaft und Technologie.
-
 
 ### § 61 Beiträge und Gebühren
 
@@ -2880,10 +2748,7 @@ Verwaltungskostengesetzes ist sinngemäß anzuwenden. Beiträge und
 Gebühren werden nach Maßgabe der Vorschriften des
 Verwaltungsvollstreckungsgesetzes beigetrieben.
 
-
 ## Fünfter Teil - Berufsaufsicht
-
-
 
 ### § 61a Zuständigkeit
 
@@ -2913,7 +2778,6 @@ Wirtschaftsprüferkammer, ein Verfahren nach Satz 2 einzustellen, weil
 keine Berufspflichtverletzung vorliegt oder diese keiner Sanktion
 bedarf, legen sie den Vorgang vor Bekanntgabe der Entscheidung der
 Abschlussprüferaufsichtskommission vor.
-
 
 ### § 62 Pflicht zum Erscheinen vor der Wirtschaftsprüferkammer; Auskunfts- und Vorlagepflichten; Betretens- und Einsichtsrecht
 
@@ -2961,7 +2825,6 @@ der Vorlage zugrunde liegenden Ermittlungen in Aufsichts- und
 Beschwerdesachen verwertet werden; sobald die Unterlagen nicht mehr
 erforderlich sind, sind sie unverzüglich zurückzugeben.
 
-
 ### § 62a Zwangsgeld bei Verletzung von Mitwirkungspflichten
 
 (1) Um persönliche Mitglieder der Wirtschaftsprüferkammer zur
@@ -2991,7 +2854,6 @@ Es wird auf Grund einer von ihr erteilten, mit der Bescheinigung der
 Vollstreckbarkeit versehenen beglaubigten Abschrift des
 Festsetzungsbescheids entsprechend § 61 Abs. 3 Satz 3 beigetrieben.
 
-
 ### § 62b Anlassunabhängige Sonderuntersuchungen
 
 (1) Stichprobenartig und ohne besonderen Anlass durchgeführte
@@ -3013,7 +2875,6 @@ anderer berufsrechtlicher Kontrollen nach den von der
 Wirtschaftsprüferkammer im Einvernehmen mit der
 Abschlussprüferaufsichtskommission festgelegten Grundsätzen
 berücksichtigt werden.
-
 
 ### § 63 Rügerecht des Vorstandes
 
@@ -3052,7 +2913,6 @@ entscheidet der Vorstand; Absatz 4 ist entsprechend anzuwenden.
 (6) Die Wirtschaftsprüferkammer veröffentlicht zusammengefasste
 Angaben über die von ihr und von den Berufsgerichten verhängten
 Sanktionsmaßnahmen mindestens einmal jährlich in angemessener Weise.
-
 
 ### § 63a Antrag auf berufsgerichtliche Entscheidung
 
@@ -3104,7 +2964,6 @@ bis zum rechtskräftigen Abschluß des berufsgerichtlichen Verfahrens
 ausgesetzt. In den Fällen des § 69 Abs. 2 stellt das Landgericht nach
 Beendigung der Aussetzung fest, daß die Rüge unwirksam ist.
 
-
 ### § 64 Pflicht der Mitglieder des Vorstandes, des Beirates und der Ausschüsse zur Verschwiegenheit
 
 (1) Die Mitglieder des Vorstandes, des Beirates, der Abteilungen und
@@ -3143,7 +3002,6 @@ genannten ehren- und hauptamtlich für die Wirtschaftsprüferkammer
 tätigen Personen berechtigt, Nichtkammerangehörige um Auskunft zu
 bitten; diese sind nicht zur Auskunft verpflichtet.
 
-
 ### § 65 Arbeitsgemeinschaft für das wirtschaftliche Prüfungswesen
 
 (1) Zur Behandlung von Fragen des wirtschaftlichen Prüfungs- und
@@ -3156,7 +3014,6 @@ gemeinsamer Geschäftsstelle.
 
 (2) Die Arbeitsgemeinschaft gibt sich ihre Satzung selbst.
 
-
 ### § 66 Staatsaufsicht
 
 Das Bundesministerium für Wirtschaft und Technologie führt die
@@ -3165,7 +3022,6 @@ Prüfungsstelle und die Abschlussprüferaufsichtskommission. Es hat
 darüber zu wachen, daß die Wirtschaftsprüferkammer einschließlich der
 Prüfungsstelle und die Abschlussprüferaufsichtskommission ihre
 Aufgaben im Rahmen der geltenden Gesetze und Satzungen erfüllen.
-
 
 ### § 66a Abschlussprüferaufsicht
 
@@ -3291,7 +3147,6 @@ Stelle herausgeben, wenn sie die Abschlussprüferaufsichtskommission
 über die Anfrage informiert haben und die in § 57 Abs. 9 Satz 5
 genannten Bedingungen erfüllt sind.
 
-
 ### § 66b Verschwiegenheit; Schutz von Privatgeheimnissen
 
 (1) Die Mitglieder der Abschlussprüferaufsichtskommission sind zur
@@ -3304,14 +3159,9 @@ nach Beendigung ihrer Tätigkeit, ein fremdes Geheimnis, namentlich ein
 Geschäfts- oder Betriebsgeheimnis, das ihnen bei ihrer Tätigkeit
 bekannt geworden ist, nicht offenbaren und nicht verwerten.
 
-
 ## Sechster Teil - Berufsgerichtsbarkeit
 
-
-
 ### Erster Abschnitt - Die berufsgerichtliche Ahndung von Pflichtverletzungen
-
-
 
 #### § 67 Ahndung einer Pflichtverletzung
 
@@ -3328,7 +3178,6 @@ bedeutsamen Weise zu beeinträchtigen.
 (3) Eine berufsgerichtliche Maßnahme kann nicht verhängt werden, wenn
 der Wirtschaftsprüfer zur Zeit der Tat der Berufsgerichtsbarkeit nicht
 unterstand.
-
 
 #### § 68 Berufsgerichtliche Maßnahmen
 
@@ -3351,7 +3200,6 @@ unterstand.
 
 (2) Die berufsgerichtlichen Maßnahmen der Geldbuße und des Tätigkeits-
 oder Berufsverbotes können nebeneinander verhängt werden.
-
 
 #### § 68a Untersagungsverfügung, Verfahren
 
@@ -3390,7 +3238,6 @@ Beschwerde hat keine aufschiebende Wirkung. Gegen den Beschluss, durch
 den das Gericht es ablehnt, ein Ordnungsgeld zu verhängen oder
 anzudrohen, steht der Staatsanwaltschaft die sofortige Beschwerde zu.
 
-
 #### § 69 Rüge und berufsgerichtliche Maßnahme
 
 (1) Der Einleitung eines berufsgerichtlichen Verfahrens gegen einen
@@ -3410,7 +3257,6 @@ berufsgerichtliche Maßnahme lautet. Die Rüge wird auch unwirksam, wenn
 rechtskräftig die Eröffnung des Hauptverfahrens abgelehnt ist, weil
 eine schuldhafte Pflichtverletzung nicht festzustellen ist.
 
-
 #### § 69a Anderweitige Ahndung
 
 Ist durch ein Gericht oder eine Behörde eine Strafe, eine
@@ -3421,7 +3267,6 @@ nicht eine berufsgerichtliche Maßnahme zusätzlich erforderlich ist, um
 den Wirtschaftsprüfer zur Erfüllung seiner Pflichten anzuhalten und
 das Ansehen des Berufs zu wahren. Der Ausschließung steht eine
 anderweitig verhängte Strafe oder Maßnahme nicht entgegen.
-
 
 #### § 70 Verjährung der Verfolgung einer Pflichtverletzung
 
@@ -3436,7 +3281,6 @@ durch die Wirtschaftsprüferkammer (§ 63 Abs. 3) gleich.
 desselben Sachverhalts ein Strafverfahren eingeleitet worden, ist der
 Ablauf der Verjährungsfrist für die Dauer des Strafverfahrens gehemmt.
 
-
 #### § 71 Vorschriften für Mitglieder der Wirtschaftsprüferkammer, die nicht Wirtschaftsprüfer sind
 
 Die Vorschriften des Fünften und Sechsten Teils gelten entsprechend
@@ -3447,10 +3291,7 @@ tritt die Aberkennung der Eignung, eine
 Wirtschaftsprüfungsgesellschaft zu vertreten und ihre Geschäfte zu
 führen.
 
-
 ### Zweiter Abschnitt - Die Gerichte
-
-
 
 #### § 72 Kammer für Wirtschaftsprüfersachen
 
@@ -3464,7 +3305,6 @@ Hauptverhandlung in der Besetzung von drei Mitgliedern mit Einschluß
 des Vorsitzenden. In der Hauptverhandlung ist sie mit dem Vorsitzenden
 und zwei Wirtschaftsprüfern als Beisitzern besetzt.
 
-
 #### § 73 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im zweiten
@@ -3476,7 +3316,6 @@ entscheidet außerhalb der Hauptverhandlung in der Besetzung von drei
 Mitgliedern mit Einschluß des Vorsitzenden. In der Hauptverhandlung
 wirken außerdem als Beisitzer zwei Wirtschaftsprüfer mit.
 
-
 #### § 74 Senat für Wirtschaftsprüfersachen beim Bundesgerichtshof
 
 (1) In dem berufsgerichtlichen Verfahren entscheidet im dritten
@@ -3487,7 +3326,6 @@ Strafsenat im Sinne des § 132 des Gerichtsverfassungsgesetzes.
 (2) Der Senat für Wirtschaftsprüfersachen beim Bundesgerichtshof
 besteht aus einem Vorsitzenden sowie zwei Mitgliedern des
 Bundesgerichtshofs und zwei Wirtschaftsprüfern als Beisitzer.
-
 
 #### § 75 Wirtschaftsprüfer als Beisitzer
 
@@ -3525,7 +3363,6 @@ nicht absehbare Zeit gehindert ist, sein Amt ordnungsgemäß auszuüben.
 Richter bei einem Gericht des höheren Rechtszuges berufen wird, endet
 mit seiner Ernennung.
 
-
 #### § 76 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
 
 (1) Zum ehrenamtlichen Richter kann nur ein Wirtschaftsprüfer berufen
@@ -3549,10 +3386,6 @@ Wirtschaftsprüferkammer im Haupt- oder Nebenberuf tätig sein.
 
 
 3.  wer in gesundheitlicher Hinsicht beeinträchtigt ist.
-
-
-
-
 
 #### § 77 Enthebung vom Amt des Beisitzers
 
@@ -3582,7 +3415,6 @@ Wirtschaftsprüfersachen nicht mitwirken.
 (3) Vor der Entscheidung ist der ehrenamtliche Richter zu hören. Die
 Entscheidung ist endgültig.
 
-
 #### § 78 Stellung der ehrenamtlichen Richter und Pflicht zur Verschwiegenheit
 
 (1) Die ehrenamtlichen Richter haben in der Sitzung, zu der sie
@@ -3592,7 +3424,6 @@ herangezogen werden, die Stellung eines Berufsrichters.
 bei ihrer Tätigkeit bekannt werden, Verschwiegenheit gegen jedermann
 zu bewahren. § 64 Abs. 2 und 3 ist entsprechend anzuwenden. Die
 Genehmigung zur Aussage erteilt der Präsident des Gerichts.
-
 
 #### § 79 Reihenfolge der Teilnahme an den Sitzungen
 
@@ -3605,26 +3436,19 @@ Beginn des Geschäftsjahres aufstellt.
 Dienstleistung an bestimmten Sitzungstagen gilt § 54 des
 Gerichtsverfassungsgesetzes sinngemäß.
 
-
 #### § 80 Entschädigung der ehrenamtlichen Richter
 
 Die ehrenamtlichen Richter erhalten eine Entschädigung nach dem
 Justizvergütungs- und -entschädigungsgesetz.
 
-
 ### Dritter Abschnitt - Verfahrensvorschriften
 
-
-
 #### 1. - Allgemeines
-
-
 
 ##### § 81 Vorschriften für das Verfahren
 
 Für das berufsgerichtliche Verfahren gelten die nachstehenden
 Vorschriften sowie § 62 entsprechend.
-
 
 ##### § 82 Keine Verhaftung des Wirtschaftsprüfers
 
@@ -3633,7 +3457,6 @@ Verfahrens weder vorläufig festgenommen noch verhaftet oder vorgeführt
 werden. Er kann nicht zur Vorbereitung eines Gutachtens über seinen
 psychischen Zustand in ein psychiatrisches Krankenhaus gebracht
 werden.
-
 
 ##### § 82a Verteidigung
 
@@ -3644,7 +3467,6 @@ Wirtschaftsprüfer gewählt werden.
 
 (2) § 140 Abs. 1 Nr. 1 bis 3, 6 und 7 der Strafprozeßordnung ist auf
 die Verteidigung im berufsgerichtlichen Verfahren nicht anzuwenden.
-
 
 ##### § 82b Akteneinsicht; Beteiligung der Wirtschaftsprüferkammer
 
@@ -3658,7 +3480,6 @@ anzuwenden.
 (2) Der Wirtschaftsprüferkammer sind Ort und Zeit der Hauptverhandlung
 mitzuteilen; die von dort entsandten Personen erhalten auf Verlangen
 das Wort. § 99 Abs. 2 Satz 1 bleibt unberührt.
-
 
 ##### § 83 Verhältnis des berufsgerichtlichen Verfahrens zum Straf- oder Bußgeldverfahren
 
@@ -3678,7 +3499,6 @@ die nochmalige Prüfung solcher Feststellungen beschließen, deren
 Richtigkeit seine Mitglieder mit Stimmenmehrheit bezweifeln; dies ist
 in den Gründen der berufsgerichtlichen Entscheidung zum Ausdruck zu
 bringen.
-
 
 ##### § 83a Verhältnis des berufsgerichtlichen Verfahrens zu den Verfahren anderer Berufsgerichtsbarkeiten
 
@@ -3713,7 +3533,6 @@ Entscheidung gebunden.
 Beruf als Wirtschaftsprüfer nicht ausüben dürfen (§ 44a), nicht
 anzuwenden.
 
-
 ##### § 83b Aussetzung des berufsgerichtlichen Verfahrens
 
 Das berufsgerichtliche Verfahren kann nur ausgesetzt werden, wenn
@@ -3730,10 +3549,6 @@ Das berufsgerichtliche Verfahren kann nur ausgesetzt werden, wenn
     berufsgerichtlichen Verfahren von Bedeutung ist, innerhalb von sechs
     Monaten zu erwarten ist.
 
-
-
-
-
 ##### § 83c Wiederaufnahme des berufsgerichtlichen Verfahrens
 
 Die Wiederaufnahme eines rechtskräftig abgeschlossenen
@@ -3746,10 +3561,7 @@ Staatsanwaltschaft oder die betroffenen Berufsangehörigen binnen eines
 Monats nach Rechtskraft des Urteils im strafgerichtlichen Verfahren
 stellen.
 
-
 #### 2. - Das Verfahren im ersten Rechtszug
-
-
 
 ##### § 84 Mitwirkung der Staatsanwaltschaft
 
@@ -3757,7 +3569,6 @@ Die Staatsanwaltschaft bei dem Oberlandesgericht, bei dem der Senat
 für Wirtschaftsprüfersachen besteht, nimmt in den Verfahren vor der
 Kammer für Wirtschaftsprüfersachen die Aufgaben der Staatsanwaltschaft
 wahr.
-
 
 ##### § 84a Unterrichtung der Staatsanwaltschaft und der Wirtschaftsprüferkammer
 
@@ -3786,13 +3597,11 @@ unterliegt, teilt sie die Tatsachen der Wirtschaftsprüferkammer mit
 und gibt ihr vor der Einleitung eines berufsgerichtlichen Verfahrens
 Gelegenheit zur Stellungnahme.
 
-
 ##### § 85 Einleitung des berufsgerichtlichen Verfahrens
 
 Das berufsgerichtliche Verfahren wird dadurch eingeleitet, daß die
 Staatsanwaltschaft eine Anschuldigungsschrift bei dem Landgericht
 einreicht.
-
 
 ##### § 86 Gerichtliche Entscheidung über die Einleitung des Verfahrens
 
@@ -3814,7 +3623,6 @@ angeben.
 Strafprozeßordnung entsprechend anzuwenden.
 
 (4) § 172 der Strafprozeßordnung ist nicht anzuwenden.
-
 
 ##### § 87 Antrag des Wirtschaftsprüfers auf Einleitung des berufsgerichtlichen Verfahrens
 
@@ -3853,9 +3661,7 @@ Beweismittel wegen desselben Verhaltens ein Antrag auf Einleitung des
 berufsgerichtlichen Verfahrens gestellt oder eine Rüge durch den
 Vorstand der Wirtschaftsprüferkammer erteilt werden.
 
-
 ##### (XXXX) §§ 88 bis 93 (weggefallen)
-
 
 ##### § 94 Inhalt der Anschuldigungsschrift
 
@@ -3866,7 +3672,6 @@ bezeichnen (Anschuldigungssatz). Ferner sind die Beweismittel
 anzugeben, wenn in der Hauptverhandlung Beweise erhoben werden sollen.
 Die Anschuldigungsschrift enthält den Antrag, das Hauptverfahren vor
 der Kammer für Wirtschaftsprüfersachen zu eröffnen.
-
 
 ##### § 95 Entscheidung über die Eröffnung des Hauptverfahrens
 
@@ -3881,7 +3686,6 @@ kann von dem Wirtschaftsprüfer nicht angefochten werden.
 abgelehnt wird, ist zu begründen. Gegen den Beschluß steht der
 Staatsanwaltschaft die sofortige Beschwerde zu.
 
-
 ##### § 96 Rechtskraftwirkung eines ablehnenden Beschlusses
 
 Ist die Eröffnung des Hauptverfahrens durch einen nicht mehr
@@ -3890,7 +3694,6 @@ berufsgerichtlichen Verfahrens nur auf Grund neuer Tatsachen oder
 Beweismittel und nur innerhalb von fünf Jahren, seitdem der Beschluß
 rechtskräftig geworden ist, erneut gestellt werden.
 
-
 ##### § 97 Zustellung des Eröffnungsbeschlusses
 
 Der Beschluß über die Eröffnung des Hauptverfahrens ist dem
@@ -3898,14 +3701,12 @@ Wirtschaftsprüfer spätestens mit der Ladung zuzustellen.
 Entsprechendes gilt in den Fällen des § 207 Abs. 3 der
 Strafprozeßordnung für die nachgereichte Anschuldigungsschrift.
 
-
 ##### § 98 Hauptverhandlung trotz Ausbleibens des Wirtschaftsprüfers
 
 Die Hauptverhandlung kann gegen einen Wirtschaftsprüfer, der nicht
 erschienen ist, durchgeführt werden, wenn er ordnungsmäßig geladen und
 in der Ladung darauf hingewiesen ist, daß in seiner Abwesenheit
 verhandelt werden kann. Eine öffentliche Ladung ist nicht zulässig.
-
 
 ##### § 99 Nichtöffentliche Hauptverhandlung
 
@@ -3928,11 +3729,9 @@ Wirtschaftsprüfern der Zutritt gestattet. Die Kammer für
 Wirtschaftsprüfersachen kann nach Anhörung der Beteiligten auch andere
 Personen als Zuhörer zulassen.
 
-
 ##### § 100
 
 (weggefallen)
-
 
 ##### § 101 Beweisaufnahme durch einen ersuchten Richter
 
@@ -3943,7 +3742,6 @@ Wirtschaftsprüfers in der Hauptverhandlung zu vernehmen, es sei denn,
 daß er voraussichtlich am Erscheinen in der Hauptverhandlung
 verhindert ist oder ihm das Erscheinen wegen großer Entfernung nicht
 zugemutet werden kann.
-
 
 ##### § 102 Verlesen von Protokollen
 
@@ -3969,7 +3767,6 @@ jedoch der Verlesung widersprechen, wenn ein Antrag gemäß § 101 Satz 2
 abgelehnt worden ist und Gründe für eine Ablehnung des Antrags jetzt
 nicht mehr bestehen.
 
-
 ##### § 103 Entscheidung
 
 (1) Die Hauptverhandlung schließt mit der auf die Beratung folgenden
@@ -3987,19 +3784,12 @@ des Verfahrens.
 
 2.  wenn nach § 69a von einer berufsgerichtlichen Ahndung abzusehen ist.
 
-
-
-
-
 #### 3. - Die Rechtsmittel
-
-
 
 ##### § 104 Beschwerde
 
 Für die Verhandlung und Entscheidung über Beschwerden ist der Senat
 für Wirtschaftsprüfersachen beim Oberlandesgericht zuständig.
-
 
 ##### § 105 Berufung
 
@@ -4017,13 +3807,11 @@ verkündet worden, so beginnt für diesen die Frist mit der Zustellung.
 Strafprozeßordnung über die Berufung die §§ 98, 99, 101 bis 103 dieses
 Gesetzes sinngemäß anzuwenden.
 
-
 ##### § 106 Mitwirkung der Staatsanwaltschaft vor dem Senat für Wirtschaftsprüfersachen
 
 Die Aufgaben der Staatsanwaltschaft in dem Verfahren vor dem Senat für
 Wirtschaftsprüfersachen werden von der Staatsanwaltschaft bei dem
 Oberlandesgericht wahrgenommen, bei dem der Senat besteht.
-
 
 ##### § 107 Revision
 
@@ -4065,7 +3853,6 @@ Bundesgerichtshof wird das Urteil rechtskräftig. Wird der Beschwerde
 stattgegeben, so beginnt mit Zustellung des Beschwerdebescheids die
 Revisionsfrist.
 
-
 ##### § 107a Einlegung der Revision und Verfahren
 
 (1) Die Revision ist binnen einer Woche bei dem Oberlandesgericht
@@ -4083,16 +3870,12 @@ den Vorschriften der Strafprozeßordnung über die Revision § 99 und §
 Senat für Wirtschaftsprüfersachen beim Oberlandesgericht
 zurückzuverweisen.
 
-
 ##### § 108 Mitwirkung der Staatsanwaltschaft vor dem Bundesgerichtshof
 
 Die Aufgaben der Staatsanwaltschaft in den Verfahren vor dem
 Bundesgerichtshof werden von dem Generalbundesanwalt wahrgenommen.
 
-
 #### 4. - Die Sicherung von Beweisen
-
-
 
 ##### § 109 Anordnung der Beweissicherung
 
@@ -4106,7 +3889,6 @@ erkannt worden wäre. Die Anordnung kann nicht angefochten werden.
 (2) Die Beweise werden von der Kammer für Wirtschaftsprüfersachen beim
 Landgericht aufgenommen. Die Kammer kann eines ihrer
 berufsrichterlichen Mitglieder mit der Beweisaufnahme beauftragen.
-
 
 ##### § 110 Verfahren
 
@@ -4127,9 +3909,7 @@ Terminen, die zum Zwecke der Beweissicherung anberaumt werden, steht
 dem früheren Wirtschaftsprüfer nur zu, wenn er sich im Inland aufhält
 und seine Anschrift dem Landgericht angezeigt hat.
 
-
 #### 5. - Das vorläufige Tätigkeits- und Berufsverbot
-
 
 ##### § 111 Voraussetzung des Verbotes
 
@@ -4148,7 +3928,6 @@ anzugeben.
 das über die Eröffnung des Hauptverfahrens gegen den Wirtschaftsprüfer
 zu entscheiden hat oder vor dem das berufsgerichtliche Verfahren
 anhängig ist.
-
 
 ##### § 112 Mündliche Verhandlung
 
@@ -4171,12 +3950,10 @@ Anschuldigungsschrift bereits mitgeteilt worden ist.
 pflichtmäßigem Ermessen, ohne an Anträge der Staatsanwaltschaft oder
 des Wirtschaftsprüfers gebunden zu sein.
 
-
 ##### § 113 Abstimmung über das Verbot
 
 Zur Verhängung des vorläufigen Tätigkeits- oder Berufsverbots ist eine
 Mehrheit von zwei Dritteln der Stimmen erforderlich.
-
 
 ##### § 114 Verbot im Anschluß an die Hauptverhandlung
 
@@ -4186,14 +3963,12 @@ vorläufigen Tätigkeits- oder Berufsverbots verhandeln und entscheiden.
 Dies gilt auch dann, wenn der Wirtschaftsprüfer zu der
 Hauptverhandlung nicht erschienen ist.
 
-
 ##### § 115 Zustellung des Beschlusses
 
 Der Beschluß ist mit Gründen zu versehen. Er ist dem Wirtschaftsprüfer
 zuzustellen. War der Wirtschaftsprüfer bei der Verkündung des
 Beschlusses nicht anwesend, ist ihm zusätzlich der Beschluß ohne
 Gründe unverzüglich nach der Verkündung zuzustellen.
-
 
 ##### § 116 Wirkungen des Verbotes
 
@@ -4213,7 +3988,6 @@ vornimmt, wird durch das vorläufige Tätigkeits- oder Berufsverbot
 nicht berührt. Das gleiche gilt für Rechtshandlungen, die ihm
 gegenüber vorgenommen werden.
 
-
 ##### § 117 Zuwiderhandlungen gegen das Verbot
 
 (1) Der Wirtschaftsprüfer, der einem gegen ihn ergangenen vorläufigen
@@ -4224,7 +3998,6 @@ mildere berufsgerichtliche Maßnahme ausreichend erscheint.
 (2) Gerichte oder Behörden sollen einen Wirtschaftsprüfer, der
 entgegen einem vorläufigen Tätigkeits- oder Berufsverbot vor ihnen
 auftritt, zurückweisen.
-
 
 ##### § 118 Beschwerde
 
@@ -4245,7 +4018,6 @@ Bundesgerichtshof. Für das Verfahren gelten neben den Vorschriften der
 Strafprozeßordnung über die Beschwerde § 112 Abs. 1, 2 und 4 sowie §§
 113 und 115 dieses Gesetzes entsprechend.
 
-
 ##### § 119 Außerkrafttreten des Verbotes
 
 (1) Das Berufsverbot tritt außer Kraft, wenn ein nicht auf
@@ -4258,7 +4030,6 @@ wenn ein Urteil ergeht, das auf Geldbuße, ein befristetes
 Tätigkeitsverbot oder ein befristetes Berufsverbot lautet, oder wenn
 die Eröffnung des Hauptverfahrens vor der Kammer für
 Wirtschaftsprüfersachen abgelehnt wird.
-
 
 ##### § 120 Aufhebung des Verbotes
 
@@ -4276,7 +4047,6 @@ Wirtschaftsprüfers nach § 118 Abs. 1 noch nicht entschieden ist. Gegen
 den Beschluß, durch den der Antrag abgelehnt wird, ist eine Beschwerde
 nicht zulässig.
 
-
 ##### § 120a Mitteilung des Verbotes
 
 (1) Der Beschluß, durch den ein vorläufiges Tätigkeits- oder
@@ -4285,7 +4055,6 @@ beglaubigter Abschrift mitzuteilen.
 
 (2) Tritt das vorläufige Tätigkeits- oder Berufsverbot außer Kraft
 oder wird es aufgehoben, so gilt Absatz 1 entsprechend.
-
 
 ##### § 121 Bestellung eines Vertreters
 
@@ -4313,10 +4082,7 @@ ist befugt, Vorschüsse auf die vereinbarte oder festgesetzte Vergütung
 zu entnehmen. Für die festgesetzte Vergütung haftet die
 Wirtschaftsprüferkammer wie ein Bürge.
 
-
 #### 6. - Das vorläufige Untersagungsverfahren
-
-
 
 ##### § 121a Voraussetzung des Verfahrens
 
@@ -4328,10 +4094,7 @@ sie durch Beschluss eine vorläufige Untersagung ausgesprochen werden.
 (2) Für das weitere Verfahren gelten § 111 Abs. 2 bis § 120a
 sinngemäß.
 
-
 ### Vierter Abschnitt - Die Kosten in dem berufsgerichtlichen Verfahren und in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge. Die Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten. Die Tilgung
-
-
 
 #### § 122 Gerichtskosten
 
@@ -4342,7 +4105,6 @@ Androhung oder die Festsetzung eines Zwangsgelds (§ 62a Abs. 3) werden
 Gebühren nach dem Gebührenverzeichnis der Anlage zu diesem Gesetz
 erhoben. Im Übrigen sind die für Kosten in Strafsachen geltenden
 Vorschriften des Gerichtskostengesetzes entsprechend anzuwenden.
-
 
 #### § 123 Kosten bei Anträgen auf Einleitung des berufsgerichtlichen Verfahrens
 
@@ -4355,7 +4117,6 @@ aufzuerlegen.
 gerichtliche Entscheidung in dem Fall des § 86 Abs. 2 verworfen, so
 sind die durch das Verfahren über den Antrag veranlaßten Kosten der
 Wirtschaftsprüferkammer aufzuerlegen.
-
 
 #### § 124 Kostenpflicht des Verurteilten
 
@@ -4383,7 +4144,6 @@ ein angemessener Teil dieser Kosten auferlegt werden.
 durch ein rechtskräftiges Urteil abgeschlossenen Verfahrens verursacht
 worden sind, ist Absatz 2 entsprechend anzuwenden.
 
-
 #### § 124a Kostenpflicht in dem Verfahren bei Anträgen auf berufsgerichtliche Entscheidung über die Rüge
 
 (1) Wird der Antrag auf berufsgerichtliche Entscheidung über die Rüge
@@ -4406,13 +4166,11 @@ Verfahren oder aus den Gründen des § 69 Abs. 2 Satz 2 festgestellt (§
 63a Abs. 5 Satz 2), so sind die notwendigen Auslagen des
 Wirtschaftsprüfers der Wirtschaftsprüferkammer aufzuerlegen.
 
-
 #### § 125 Haftung der Wirtschaftsprüferkammer
 
 Auslagen, die weder dem Wirtschaftsprüfer noch einem Dritten auferlegt
 oder von dem Wirtschaftsprüfer nicht eingezogen werden können, fallen
 der Wirtschaftsprüferkammer zur Last.
-
 
 #### § 126 Vollstreckung der berufsgerichtlichen Maßnahmen und der Kosten
 
@@ -4427,7 +4185,6 @@ rechtskräftigem Abschluß des Verfahrens aus dem Beruf ausgeschieden
 ist. Werden zusammen mit einer Geldbuße die Kosten des Verfahrens
 beigetrieben, so gelten auch für die Kosten die Vorschriften über die
 Vollstreckung der Geldbuße.
-
 
 #### § 126a Tilgung
 
@@ -4462,10 +4219,7 @@ sowie über Belehrungen der Wirtschaftsprüferkammer sind auf Antrag des
 Wirtschaftsprüfers nach fünf Jahren zu tilgen. Absatz 1 Satz 2,
 Absätze 2 und 3 gelten entsprechend.
 
-
 ### Fünfter Abschnitt - Anzuwendende Vorschriften
-
-
 
 #### § 127
 
@@ -4473,10 +4227,7 @@ Für die Berufsgerichtsbarkeit sind ergänzend das
 Gerichtsverfassungsgesetz und die Strafprozeßordnung sinngemäß
 anzuwenden.
 
-
 ## Siebenter Teil - Vereidigte Buchprüfer und Buchprüfungsgesellschaften
-
-
 
 ### § 128 Berufszugehörigkeit und Berufsbezeichnung
 
@@ -4497,7 +4248,6 @@ die Berufsbezeichnung "vereidigte Buchprüferin" führen.
 (3) Vereidigte Buchprüfer und Buchprüfungsgesellschaften sind
 Mitglieder der Wirtschaftsprüferkammer. Im übrigen gilt § 58 Abs. 1
 entsprechend.
-
 
 ### § 129 Inhalt der Tätigkeit
 
@@ -4532,10 +4282,6 @@ unberührt.
 
 3.  zur treuhänderischen Verwaltung.
 
-
-
-
-
 ### § 130 Anwendung von Vorschriften des Gesetzes
 
 (1) Auf vereidigte Buchprüfer finden § 1 Abs. 2 und § 3 sowie die
@@ -4568,25 +4314,17 @@ und Buchprüfungsgesellschaften durchführen. Für die Registrierung von
 vereidigten Buchprüfern oder Buchprüfungsgesellschaften gilt § 57a
 Abs. 3 entsprechend.
 
-
 ### § 131
 
 (weggefallen)
 
-
 ### (XXXX) §§ 131a bis 131d (weggefallen)
-
 
 ## Achter Teil
 
-
-
 ### (XXXX) §§ 131c bis 131f (weggefallen)
 
-
 ## Neunter Teil - Eignungsprüfung als Wirtschaftsprüfer
-
-
 
 ### § 131g Zulassung zur Eignungsprüfung als Wirtschaftsprüfer
 
@@ -4625,7 +4363,6 @@ bescheinigt wird, der das Diplom ausgestellt oder anerkannt hat.
 Prüfungsstelle; der Antrag ist schriftlich einzureichen. Die §§ 13 bis
 13b finden entsprechende Anwendung.
 
-
 ### § 131h Eignungsprüfung als Wirtschaftsprüfer
 
 (1) Bewerbende, die zugelassen worden sind, legen die Eignungsprüfung
@@ -4651,22 +4388,18 @@ Wirtschaftsprüfer.
 
 (4) (weggefallen)
 
-
 ### (XXXX) §§ 131i und 131j (weggefallen)
-
 
 ### § 131i Anwendung des Berufsqualifikationsfeststellungsgesetzes
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 17 keine Anwendung.
 
-
 ### § 131k Bestellung
 
 Auf die Bestellung der Personen, die die Prüfung nach § 131h bestanden
 haben, als Wirtschaftsprüfer findet der Dritte Abschnitt des Zweiten
 Teils entsprechende Anwendung.
-
 
 ### § 131l Rechtsverordnung
 
@@ -4680,7 +4413,6 @@ sowie die Zulassung zur Eignungsprüfung von Bewerbenden, welche die
 Voraussetzungen des Artikels 3 Buchstabe b der Richtlinie (§ 131g Abs.
 2 Satz 1) erfüllen. Die Rechtsverordnung bedarf nicht der Zustimmung
 des Bundesrates.
-
 
 ### § 131m Bescheinigungen des Heimat- oder Herkunftsmitgliedstaats
 
@@ -4708,15 +4440,11 @@ des Heimat- oder Herkunftsmitgliedstaats bedarf, genügt eine
 Bescheinigung oder Urkunde im Sinne des Artikels 6 der Richtlinie des
 Rates vom 21. Dezember 1988 (§ 131g Abs. 2 Satz 1).
 
-
 ### § 131n
 
 (weggefallen)
 
-
 ## Zehnter Teil - Straf- und Bußgeldvorschriften
-
-
 
 ### § 132 Verbot verwechselungsfähiger Berufsbezeichnungen; Siegelimitate
 
@@ -4751,7 +4479,6 @@ Berufssatzung nach § 48 Abs. 2 entsprechen.
 (4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 5 000 Euro
 geahndet werden.
 
-
 ### § 133 Schutz der Bezeichnung "Wirtschaftsprüfungsgesellschaft" und "Buchprüfungsgesellschaft"
 
 (1) Ordnungswidrig handelt, wer die Bezeichnung
@@ -4764,7 +4491,6 @@ geahndet werden.
 
 (3) (weggefallen)
 
-
 ### § 133a Unbefugte Ausübung einer Führungsposition bei dem geprüften Unternehmen
 
 (1) Ordnungswidrig handelt, wer entgegen § 43 Abs. 3 eine wichtige
@@ -4773,14 +4499,12 @@ Führungsposition ausübt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-
 ### § 133b Unbefugte Verwertung fremder Betriebs- oder Geschäftsgeheimnisse
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 66b Abs. 2 ein fremdes Geheimnis verwertet.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
-
 
 ### § 133c Unbefugte Offenbarung fremder Betriebs- oder Geschäftsgeheimnisse
 
@@ -4793,7 +4517,6 @@ Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
 (3) Die Tat wird nur auf Antrag verfolgt.
 
-
 ### § 133d Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
@@ -4803,7 +4526,6 @@ Wirtschaftsprüferkammer. Das Gleiche gilt für durch Mitglieder der
 Wirtschaftsprüferkammer im Sinne des § 58 Absatz 1 Satz 1 begangene
 Ordnungswidrigkeiten nach § 17 des Geldwäschegesetzes und nach § 6 der
 Dienstleistungs-Informationspflichten-Verordnung.
-
 
 ### § 133e Verwendung der Geldbußen
 
@@ -4817,10 +4539,7 @@ Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen
 Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des
 Gesetzes über Ordnungswidrigkeiten.
 
-
 ## Elfter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 134 Anwendung von Vorschriften dieses Gesetzes auf Abschlussprüfer, Abschlussprüferinnen und Abschlussprüfungsgesellschaften aus Drittstaaten
 
@@ -4930,7 +4649,6 @@ schriftlich.
 und 2 nicht mehr vor, erfolgt eine Löschung der Eintragung von Amts
 wegen.
 
-
 ### § 134a Übergangsregelung
 
 (1) Wirtschaftsprüfer und vereidigte Buchprüfer, die am 31. Dezember
@@ -4961,14 +4679,12 @@ ist entsprechend anzuwenden.
 
 (4) (weggefallen)
 
-
 ### § 135 Übergangsregelung für § 14a
 
 § 14a ist in der ab 1. Januar 2004 geltenden Fassung anzuwenden,
 sofern der erste Prüfungsabschnitt oder eine Ergänzungsprüfung nach
 Inkrafttreten des Gesetzes zur Reform des Zulassungs- und
 Prüfungsverfahrens des Wirtschaftsprüfungsexamens abgelegt wird.
-
 
 ### § 136 Übergangsregelung für § 57a Abs. 6 Satz 8
 
@@ -4991,11 +4707,9 @@ Teilnahmebescheinigung durchführen, innerhalb von sechs Monaten nach
 Annahme des Prüfungsauftrages eine Qualitätskontrolle durchführen zu
 lassen.
 
-
 ### § 136a (weggefallen)
 
 -
-
 
 ### § 137 Übergangsregelung für § 57 Abs. 4 Nr. 1 Buchstabe e und i
 
@@ -5004,11 +4718,9 @@ und die Vorschriften über die Berufshaftpflichtversicherung nach § 57
 Abs. 4 Nr. 1 Buchstabe e und i nicht in die Berufssatzung aufgenommen
 hat, ist das am 5. September 2007 geltende Recht anzuwenden.
 
-
 ### § 137a
 
 (weggefallen)
-
 
 ### § 138 Behandlung schwebender Anträge und Verfahren
 
@@ -5018,7 +4730,6 @@ Landesbehörden auf die Wirtschaftsprüferkammer übergehen würde,
 verbleiben bis zu ihrer Entscheidung in der Zuständigkeit der obersten
 Landesbehörden. Die Vorgänge sind nach der Entscheidung der
 Wirtschaftsprüferkammer zuzuleiten.
-
 
 ### § 139 Übergangsregelung zur Behandlung schwebender Anträge und Verfahren im Rahmen des Zuständigkeitswechsels zum 1. Januar 2004
 
@@ -5052,7 +4763,6 @@ Prüfungsverfahren für Wirtschaftsprüfer und vereidigte Buchprüfer
 wahrzunehmenden Aufgaben auf die Berufskammer vom 5. Juli 2001 bleibt
 unberührt.
 
-
 ### § 139a Übergangsregelung zur Behandlung schwebender Anträge und Verfahren im Rahmen des Zulassungs- und Prüfungsverfahrens nach den bis zum 31. Dezember 2003 geltenden §§ 131 bis 131d, 131i und 131j
 
 (1) Anträge auf Zulassung zur Prüfung als vereidigter Buchprüfer oder
@@ -5084,7 +4794,6 @@ erhalten, so muss die Bestellung bis spätestens ein Jahr nach
 Prüfungsablegung beantragt werden. In Härtefällen kann die
 Wirtschaftsprüferkammer auf Antrag Ausnahmen gewähren.
 
-
 ### § 139b Übergangsregelung für den bis zum 31. Dezember 2003 geltenden § 51a
 
 (1) Die regelmäßige Verjährungsfrist nach § 195 des Bürgerlichen
@@ -5100,14 +4809,12 @@ regelmäßige Verjährungsfrist nach § 195 des Bürgerlichen Gesetzbuchs
 ab, so ist die Verjährung mit dem Ablauf der bis zu diesem Tag
 geltenden Verjährungsfrist des § 51a vollendet.
 
-
 ### § 140 Übergangsregelung für § 43 Abs. 3, § 133a
 
 § 43 Abs. 3 und § 133a gelten nicht für solche Personen, die ihre
 Prüfungstätigkeit bei den Unternehmen vor dem Inkrafttreten des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
 aufgegeben haben.
-
 
 ### § 141 Inkrafttreten
 
@@ -5116,7 +4823,6 @@ Verkündung folgenden Kalendermonats in Kraft.
 
 (2) Die §§ 14, 48, 54, 131 Abs. 4 treten am Tage der Verkündung in
 Kraft.
-
 
 ### Anlage (zu § 122 Satz 1) Gebührenverzeichnis
 
@@ -5443,10 +5149,6 @@ Kraft.
         ........................
 
     *   50,00 EUR
-
-
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1000) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

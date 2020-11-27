@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +31,6 @@ unterzeichneten Abkommen zur Erhaltung der afrikanisch-eurasischen
 wandernden Wasservögel vom 16. Juni 1995 wird zugestimmt. Das Abkommen
 wird nachstehend mit einer amtlichen deutschen Übersetzung
 veröffentlicht.
-
 
 ## Art 2
 
@@ -46,7 +43,6 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens mit dem
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
 soweit sie sich auf Tierarten, die dem Jagdrecht unterliegen,
 beziehen.
-
 
 ## Art 3
 
@@ -76,10 +72,6 @@ der Verteidigung sind von den Verboten des Absatzes 1 ausgenommen.
 
 2.  absichtlich beunruhigen oder absichtlich töten.
 
-
-
-
-
 ## Art 4
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen Artikel 3 Abs. 1
@@ -99,7 +91,6 @@ Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
-
 
 ## Art 5
 

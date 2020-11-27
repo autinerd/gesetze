@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 579
 
-
 ## § 1 Errichtung
 
 Zum 1. Januar 2013 wird als Träger für die landwirtschaftliche
 Sozialversicherung eine bundesunmittelbare Körperschaft des
 öffentlichen Rechts mit Selbstverwaltung errichtet. Sie trägt den
 Namen „Sozialversicherung für Landwirtschaft, Forsten und Gartenbau“.
-
 
 ## § 2 Zuständigkeit
 
@@ -32,7 +30,6 @@ zuständig für die Durchführung der landwirtschaftlichen
 Unfallversicherung, der Alterssicherung der Landwirte, der
 landwirtschaftlichen Krankenversicherung und der landwirtschaftlichen
 Pflegeversicherung.
-
 
 ## § 3 Eingliederung der Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
@@ -53,7 +50,6 @@ Sozialversicherung für Landwirtschaft, Forsten und Gartenbau über.
 und der Spitzenverband der landwirtschaftlichen Sozialversicherung
 werden zum 1. Januar 2013 aufgelöst.
 
-
 ## § 4 Sitz, Aufbau und Satzung
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
@@ -66,7 +62,6 @@ Versicherten sicherzustellen.
 (2) Die Satzung der Sozialversicherung für Landwirtschaft, Forsten und
 Gartenbau bedarf der Genehmigung des Bundesversicherungsamtes.
 
-
 ## § 5 Dienstherrnfähigkeit, Dienstrecht
 
 Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat
@@ -74,7 +69,6 @@ das Recht, Beamtinnen und Beamte zu haben. Für die
 Dienstordnungsangestellten der Sozialversicherung für Landwirtschaft,
 Forsten und Gartenbau gelten § 144 Satz 1 sowie die §§ 145 bis 147 des
 Siebten Buches Sozialgesetzbuch entsprechend.
-
 
 ## § 6 Kosten bei Errichtung
 
@@ -89,7 +83,6 @@ Gerichtskosten nach dem Ersten Teil der Kostenordnung nicht erhoben.
 Stelle ohne Nachprüfung anzuerkennen, wenn die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau bestätigt, dass die Maßnahme der
 Durchführung dieses Gesetzes dient.
-
 
 ## § 7 Altersrückstellungen, Verordnungsermächtigung
 
@@ -149,7 +142,6 @@ die ab dem Jahr 2040 entstehen, sowie Ausgaben, die anstelle von
 Versorgungsausgaben für diese Personenkreise geleistet werden, sind
 aus dem Altersrückstellungsvermögen zu leisten; die Aufsichtsbehörde
 kann eine frühere oder spätere Entnahme genehmigen.
-
 
 ## § 8 Zusammenarbeit mit Dritten
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 467
 
-
-
 ## § 1
 
 (1) Soweit nach dem 19. April 1949 Eigentum oder sonstige
@@ -43,10 +41,6 @@ Vermögensrechte,
 2.  die der früheren Reichspost zustanden und von der Überleitung auf die
     Deutsche Bundespost ausgenommen sind oder ausgenommen werden.
 
-
-
-
-
 ## § 2
 
 Soweit Eigentum und sonstige Vermögensrechte eines Unternehmens mit
@@ -60,7 +54,6 @@ Reich oder das ehemalige Land Preußen am 8. Mai 1945 unmittelbar oder
 mittelbar eine Beteiligung besaßen, nach dem 19. April 1949 auf Grund
 gesetzlicher Vorschriften der Verwaltung eines Landes übergeben worden
 sind, gilt die Verwaltungsbefugnis als beendet.
-
 
 ## § 3
 
@@ -94,7 +87,6 @@ soweit es für die Durchführung einer ordnungsmäßigen Verwaltung oder
 zur Abwendung von Nachteilen für die Gesamtheit der Gläubiger
 notwendig ist.
 
-
 ## § 4
 
 (1) Die Wirksamkeit rechtsgeschäftlicher Verfügungen über Eigentum und
@@ -108,7 +100,6 @@ oder eine juristische Person des privaten Rechts übertragen hat, auf
 die das Land maßgeblichen Einfluß hat. Diese Verfügungen werden
 wirksam, wenn sie der Bundesminister der Finanzen genehmigt.
 
-
 ## § 5
 
 Die endgültige Auseinandersetzung über die unter die Bestimmungen des
@@ -117,7 +108,6 @@ die Regelung der Verbindlichkeiten des Deutschen Reichs und des
 ehemaligen Landes Preußen erfolgen durch die gemäß Artikel 134 Abs. 4
 und 135 Abs. 5 und 6 des Grundgesetzes für die Bundesrepublik
 Deutschland zu erlassenden Bundesgesetze.
-
 
 ## § 6
 
@@ -162,11 +152,9 @@ Absatzes 2 von den Ländern, sonstigen Aufgabenträgern oder Gemeinden
 Bestimmungen der Länder, der sonstigen Aufgabenträger oder der
 Gemeinden (Gemeindeverbände) anzuwenden.
 
-
 ## § 7
 
 Der bayerische Kreis Lindau gilt als Land im Sinne des Gesetzes.
-
 
 ## § 8
 

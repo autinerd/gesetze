@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 222
 
-
-
 ## (XXXX)
 
 
@@ -142,16 +140,11 @@ Fundstelle
     amtliche Vertretung der Bundesrepublik Deutschland in dem betreffenden
     Land.
 
-
-
-
-
 ## Schlußformel
 
 Der Bundespräsident
 Der Bundeskanzler
 Der Bundesminister des Innern
-
 
 ## (XXXX)
 

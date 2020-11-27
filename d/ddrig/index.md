@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Anlage I Kap IV B II Nr. 22 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 978
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in eine Kapitalgesellschaft oder Erwerbs- oder Wirtschaftsgenossenschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 
@@ -91,7 +89,6 @@ Anlagevermögen eines inländischen Betriebs gehörenden abnutzbaren
 Wirtschaftsgütern in eine Erwerbs- oder Wirtschaftsgenossenschaft mit
 Sitz und Geschäftsleitung in der Deutschen Demokratischen Republik
 einschließlich Berlin (Ost) sinngemäß anzuwenden.
-
 
 ## § 2 Steuerfreie Rücklage für Verluste einer Tochtergesellschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 
@@ -225,22 +222,17 @@ Wirtschaftsgenossenschaft mit Sitz und Geschäftsleitung in der
 Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 sinngemäß anzuwenden.
 
-
 ## § 3 Gewerbesteuer
 
 Die Vorschriften der §§ 1 und 2 gelten auch für die Ermittlung des
 Gewerbeertrags nach § 7 des Gewerbesteuergesetzes.
 
-
 ## (XXXX) §§ 4 und 5
-
-
 
 ## § 6 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 7 Inkrafttreten, Anwendungszeitraum
 

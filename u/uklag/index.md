@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 6.2.2012 I 146
 
-
 ## Abschnitt 1 - Ansprüche bei Verbraucherrechts- und anderen Verstößen
-
-
 
 ### § 1 Unterlassungs- und Widerrufsanspruch bei Allgemeinen Geschäftsbedingungen
 
@@ -33,7 +30,6 @@ Wer in Allgemeinen Geschäftsbedingungen Bestimmungen, die nach den §§
 oder für den rechtsgeschäftlichen Verkehr empfiehlt, kann auf
 Unterlassung und im Fall des Empfehlens auch auf Widerruf in Anspruch
 genommen werden.
-
 
 ### § 2 Unterlassungsanspruch bei verbraucherschutzgesetzwidrigen Praktiken
 
@@ -134,7 +130,6 @@ missbräuchlich ist, insbesondere wenn sie vorwiegend dazu dient, gegen
 den Zuwiderhandelnden einen Anspruch auf Ersatz von Aufwendungen oder
 Kosten der Rechtsverfolgung entstehen zu lassen.
 
-
 ### § 2a Unterlassungsanspruch nach dem Urheberrechtsgesetz
 
 (1) Wer gegen § 95b Abs. 1 des Urheberrechtsgesetzes verstößt, kann
@@ -146,7 +141,6 @@ Weise zugänglich gemacht werden, dass sie Mitgliedern der
 Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich sind.
 
 (3) § 2 Abs. 3 gilt entsprechend.
-
 
 ### § 3 Anspruchsberechtigte Stellen
 
@@ -188,7 +182,6 @@ Bürgerlichen Gesetzbuchs) verwendet oder wenn Allgemeine
 Geschäftsbedingungen zur ausschließlichen Verwendung zwischen
 Unternehmern empfohlen werden.
 
-
 ### § 3a Anspruchsberechtigte Verbände nach § 2a
 
 Der in § 2a Abs. 1 bezeichnete Anspruch auf Unterlassung steht
@@ -196,7 +189,6 @@ rechtsfähigen Verbänden zur nicht gewerbsmäßigen und nicht nur
 vorübergehenden Förderung der Interessen derjenigen zu, die durch §
 95b Abs. 1 Satz 1 des Urheberrechtsgesetzes begünstigt werden. Der
 Anspruch kann nur an Verbände im Sinne des Satzes 1 abgetreten werden.
-
 
 ### § 4 Qualifizierte Einrichtungen
 
@@ -256,7 +248,6 @@ Einzelheiten des Eintragungsverfahrens, insbesondere die zur Prüfung
 der Eintragungsvoraussetzungen erforderlichen Ermittlungen, sowie die
 Einzelheiten der Führung der Liste zu regeln.
 
-
 ### § 4a Unterlassungsanspruch bei innergemeinschaftlichen Verstößen
 
 (1) Wer innergemeinschaftlich gegen Gesetze zum Schutz der
@@ -276,21 +267,15 @@ Verbraucherschutzdurchsetzungsgesetzes beauftragter Dritter eine
 Stelle nach Satz 1 ist. § 3 Absatz 1 Satz 2 ist entsprechend
 anzuwenden.
 
-
 ## Abschnitt 2 - Verfahrensvorschriften
 
-
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 5 Anwendung der Zivilprozessordnung und anderer Vorschriften
 
 Auf das Verfahren sind die Vorschriften der Zivilprozessordnung und §
 12 Abs. 1, 2 und 4 des Gesetzes gegen den unlauteren Wettbewerb
 anzuwenden, soweit sich aus diesem Gesetz nicht etwas anderes ergibt.
-
 
 #### § 6 Zuständigkeit
 
@@ -323,7 +308,6 @@ die Landesjustizverwaltungen übertragen.
 (3) Die vorstehenden Absätze gelten nicht für Klagen, die einen
 Anspruch der in § 13 bezeichneten Art zum Gegenstand haben.
 
-
 #### § 7 Veröffentlichungsbefugnis
 
 Wird der Klage stattgegeben, so kann dem Kläger auf Antrag die
@@ -332,10 +316,7 @@ des verurteilten Beklagten auf dessen Kosten im Bundesanzeiger, im
 Übrigen auf eigene Kosten bekannt zu machen. Das Gericht kann die
 Befugnis zeitlich begrenzen.
 
-
 ### Unterabschnitt 2 - Besondere Vorschriften für Klagen nach § 1
-
-
 
 #### § 8 Klageantrag und Anhörung
 
@@ -362,10 +343,6 @@ hören, wenn Gegenstand der Klage
     Bundesanstalt nach Maßgabe des Gesetzes über Bausparkassen oder des
     Investmentgesetzes zu genehmigen hat.
 
-
-
-
-
 #### § 9 Besonderheiten der Urteilsformel
 
 Erachtet das Gericht die Klage nach § 1 für begründet, so enthält die
@@ -387,10 +364,6 @@ Urteilsformel auch:
 4.  für den Fall der Verurteilung zum Widerruf das Gebot, das Urteil in
     gleicher Weise bekannt zu geben, wie die Empfehlung verbreitet wurde.
 
-
-
-
-
 #### § 10 Einwendung wegen abweichender Entscheidung
 
 Der Verwender, dem die Verwendung einer Bestimmung untersagt worden
@@ -402,7 +375,6 @@ von Rechtsgeschäften nicht untersagt, und dass die Zwangsvollstreckung
 aus dem Urteil gegen ihn in unzumutbarer Weise seinen Geschäftsbetrieb
 beeinträchtigen würde.
 
-
 #### § 11 Wirkungen des Urteils
 
 Handelt der verurteilte Verwender einem auf § 1 beruhenden
@@ -413,10 +385,7 @@ beruft. Er kann sich jedoch auf die Wirkung des Unterlassungsurteils
 nicht berufen, wenn der verurteilte Verwender gegen das Urteil die
 Klage nach § 10 erheben könnte.
 
-
 ### Unterabschnitt 3 - Besondere Vorschriften für Klagen nach § 2
-
-
 
 #### § 12 Einigungsstelle
 
@@ -424,10 +393,7 @@ Für Klagen nach § 2 gelten § 15 des Gesetzes gegen den unlauteren
 Wettbewerb und die darin enthaltene Verordnungsermächtigung
 entsprechend.
 
-
 ## Abschnitt 3 - Auskunft zur Durchführung von Unterlassungsklagen
-
-
 
 ### § 13 Auskunftsanspruch der anspruchsberechtigten Stellen
 
@@ -467,7 +433,6 @@ Beteiligte hat, wenn der gegen ihn geltend gemachte Anspruch nach § 1
 oder § 2 begründet ist, dem Anspruchsberechtigten den gezahlten
 Ausgleich zu erstatten.
 
-
 ### § 13a Auskunftsanspruch sonstiger Betroffener
 
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen,
@@ -477,10 +442,7 @@ die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle des
 Anspruchs nach § 1 oder § 2 sein Anspruch auf Unterlassung nach
 allgemeinen Vorschriften tritt.
 
-
 ## Abschnitt 4 - Außergerichtliche Schlichtung
-
-
 
 ### § 14 Schlichtungsverfahren
 
@@ -541,19 +503,13 @@ Streitschlichtungsaufgaben nach Absatz 1 auf eine oder mehrere
 geeignete private Stellen zu übertragen, wenn die Aufgaben dort
 zweckmäßiger erledigt werden können.
 
-
 ## Abschnitt 5 - Anwendungsbereich
-
-
 
 ### § 15 Ausnahme für das Arbeitsrecht
 
 Dieses Gesetz findet auf das Arbeitsrecht keine Anwendung.
 
-
 ## Abschnitt 6 - Überleitungsvorschriften
-
-
 
 ### § 16 Überleitungsvorschrift zur Aufhebung des AGB-Gesetzes
 

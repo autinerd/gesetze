@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 28.2.2000 I 177
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 7 und 19 und der §§ 15 und 16, jeweils in
@@ -34,7 +33,6 @@ des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S.
 und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und
 für Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Im Wirtschaftsjahr 1999/2000 kommt die in Artikel 2 Abs. 7 der
@@ -46,7 +44,6 @@ durch Artikel 1 Nr. 2 der Verordnung (EG) Nr. 1422/97 des Rates vom
 Nr. 1 der Verordnung (EG) Nr. 1624/98 des Rates vom 20. Juli 1998
 (ABl. EG Nr. L 210 S. 3) geändert worden ist, vorgesehene Regelung zur
 Anwendung.
-
 
 ## § 2 Definitionen
 
@@ -93,10 +90,6 @@ neuen deutschen Bundesländern (ABl. EG Nr. L 260 S. 17) ausgewiesenen
 
 3.  Grundflächen insgesamt im Fall des Absatzes 1 Nr. 3.
 
-
-
-
-
 ## § 3 Konzentration der Sanktionen
 
 Im Falle der Überschreitung einer nationalen Grundfläche sind die in
@@ -104,7 +97,6 @@ Artikel 2 Abs. 6 der Verordnung (EWG) Nr. 1765/92, der durch Artikel 1
 Nr. 1 der Verordnung (EG) Nr. 1422/97 neu gefasst worden ist,
 vorgesehenen Maßnahmen auf die Teilgrundflächen anzuwenden, deren
 Überschreitung festgestellt wurde.
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

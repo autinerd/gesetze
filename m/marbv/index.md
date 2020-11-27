@@ -21,12 +21,10 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 10, 11 u. 12 G v. 15.8.2012 I 1670
 
-
 ## § 1
 
 Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen
 nur nach Maßgabe dieser Verordnung gezahlt werden.
-
 
 ## § 2
 
@@ -120,7 +118,6 @@ ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach
 Wegfall der Zulage gewährte Ausgleichszulage, solange diese noch nicht
 bis zur Hälfte aufgezehrt ist.
 
-
 ## § 3
 
 (1) Die Vergütung wird nur gewährt, wenn die Mehrarbeit
@@ -154,7 +151,6 @@ regelmäßigen wöchentlichen Arbeitszeit für eine volle Woche ermittelt
 werden kann, so ist Mehrarbeit innerhalb einer Kalenderwoche, wenn
 diese zum Teil auf den laufenden, zum Teil auf den folgenden
 Kalendermonat fällt, diesem zuzurechnen.
-
 
 ## § 4
 
@@ -210,7 +206,6 @@ Fachschulen des Bundes
 für Mehrarbeit, die nach dem Inkrafttreten dieser Sätze geleistet
 wird.
 
-
 ## § 4a
 
 (1) Teilzeitbeschäftigte erhalten bis zur Erreichung der regelmäßigen
@@ -227,7 +222,6 @@ bleiben unberücksichtigt.
 
 (3) Mehrarbeit, die über die Arbeitszeit von Vollzeitbeschäftigten
 hinausgeht, wird nach § 4 Absatz 1 und 3 vergütet.
-
 
 ## § 5
 
@@ -247,16 +241,13 @@ entsprechend.
 Bruchteil einer Stunde, so werden 30 Minuten und mehr auf eine volle
 Stunde aufgerundet, weniger als 30 Minuten bleiben unberücksichtigt.
 
-
 ## § 6 (weggefallen)
 
 -
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## § 8 (Inkrafttreten)
 

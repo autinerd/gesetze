@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 7.6.2012 I 1275
 
-
 ## Erster Abschnitt - Ausweis für schwerbehinderte Menschen
-
-
 
 ### § 1 Gestaltung des Ausweises
 
@@ -55,7 +52,6 @@ Merkzeichen nach § 3 zu kennzeichnen.
 auch als Identifikationskarte nach dem in der Anlage zu dieser
 Verordnung abgedruckten Muster 5 ausgestellt werden. Ab dem 1. Januar
 2015 ist der Ausweis nur noch in dieser Form auszustellen.
-
 
 ### § 2 Zugehörigkeit zu Sondergruppen
 
@@ -104,7 +100,6 @@ Bezeichnung nach Absatz 1 und des Merkzeichens nach Satz 1 Nr. 2 ist
 die Bezeichnung "Kriegsbeschädigt" einzutragen, es sei denn, der
 schwerbehinderte Mensch beantragt die Eintragung des Merkzeichens
 "EB".
-
 
 ### § 3 Weitere Merkzeichen
 
@@ -200,7 +195,6 @@ berechtigt, sind auf der Vorderseite des Ausweises das Merkzeichen „B“
 und der Satz „Die Berechtigung zur Mitnahme einer Begleitperson ist
 nachgewiesen“ einzutragen.
 
-
 ### § 3a Beiblatt
 
 (1) Zum Ausweis für schwerbehinderte Menschen, die das Recht auf
@@ -245,7 +239,6 @@ einzutragen.
 
 (5) (weggefallen)
 
-
 ### § 4 Sonstige Eintragungen
 
 (1) Die Eintragung von Sondervermerken zum Nachweis von weiteren
@@ -256,7 +249,6 @@ landesrechtlichen Vorschriften zustehen, ist zulässig.
 (2) Die Eintragung von Merkzeichen oder sonstigen Vermerken, die in
 dieser Verordnung (§§ 2, 3, 4 Abs. 1 und § 5 Abs. 3) nicht vorgesehen
 sind, ist unzulässig.
-
 
 ### § 5 Lichtbild
 
@@ -271,7 +263,6 @@ ohne Lichtbild auszustellen.
 
 (3) In Ausweisen ohne Lichtbild ist in dem für das Lichtbild
 vorgesehenen Raum der Vermerk "Ohne Lichtbild gültig" einzutragen.
-
 
 ### § 6 Gültigkeitsdauer
 
@@ -316,7 +307,6 @@ zum Ablauf des Monats der Frist zu befristen.
 Ausweis gültig sein soll, sind auf der Vorderseite des Ausweises
 einzutragen.
 
-
 ### § 7 Verwaltungsverfahren
 
 Für die Ausstellung und Einziehung des Ausweises sind die für die
@@ -324,10 +314,7 @@ Kriegsopferversorgung maßgebenden Verwaltungsverfahrensvorschriften
 entsprechend anzuwenden, soweit sich aus § 69 Abs. 5 des Neunten
 Buches Sozialgesetzbuch nichts Abweichendes ergibt.
 
-
 ## Zweiter Abschnitt - Ausweis für sonstige Personen zur unentgeltlichen Beförderung im öffentlichen Personenverkehr
-
-
 
 ### § 8 Ausweis für sonstige freifahrtberechtigte Personen
 
@@ -350,10 +337,7 @@ entsprechend, soweit sich aus Artikel 2 Abs. 2 und 3 des Gesetzes über
 die unentgeltliche Beförderung Schwerbehinderter im öffentlichen
 Personenverkehr nichts Besonderes ergibt.
 
-
 ## Dritter Abschnitt - Übergangsregelung
-
-
 
 ### § 9 Übergangsregelung
 
@@ -363,7 +347,6 @@ ihrer Gültigkeitsdauer gültig, es sei denn, sie sind einzuziehen. Sie
 können gegen eine Identifikationskarte umgetauscht werden.
 Ausgestellte Beiblätter bleiben bis zum Ablauf ihrer Gültigkeit
 gültig.
-
 
 ### Muster 1
 
@@ -384,7 +367,6 @@ ist der Ausweis, der Eigentum der ausstellenden Behörde bleibt, zum
 Zwecke der Berichtigung oder Einziehung vorzulegen. Die mißbräuchliche
 Verwendung ist strafbar.
 
-
 ### Muster 2
 
 (Fundstelle: BGBl. I 2012, 1276)
@@ -397,7 +379,6 @@ Verwendung ist strafbar.
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl I 1991, 1744)
-
 
 ### Muster 4
 
@@ -436,7 +417,6 @@ der ausstellenden Behörde unverzüglich mitzuteilen. Nach Aufforderung
 ist der Ausweis, der Eigentum der ausstellenden Behörde bleibt, zum
 Zwecke der Berichtigung oder Einziehung vorzulegen. Die mißbräuchliche
 Verwendung ist strafbar.
-
 
 ### Muster 5
 

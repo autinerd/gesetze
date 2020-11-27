@@ -23,7 +23,6 @@ Konferenz der Kultusminister der Länder in der Bundesrepublik
 Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
 demnächst als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -39,7 +38,6 @@ worden ist, verordnet das Bundesministerium für Wirtschaft und
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Brauer und Mälzer/Brauerin und Mälzerin wird
@@ -54,11 +52,9 @@ Der Ausbildungsberuf Brauer und Mälzer/Brauerin und Mälzerin wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -126,10 +122,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  Information und Kommunikation.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -149,7 +141,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -232,10 +223,6 @@ zum Umweltschutz durchführen kann.
 
 
 3.  die Prüfungszeit beträgt höchstens drei Stunden.
-
-
-
-
 
 ## § 6 Gesellenprüfung/Abschlussprüfung
 
@@ -458,7 +445,6 @@ Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
 bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
 im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 7 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -466,11 +452,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
 

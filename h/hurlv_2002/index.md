@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 Nr. 1 bis 4 V v. 15.6.2010 I 792
 
-
 ## Eingangsformel
 
 Auf Grund des § 18 Abs. 2 des Gesetzes über den Auswärtigen Dienst vom
@@ -26,14 +25,12 @@ Auf Grund des § 18 Abs. 2 des Gesetzes über den Auswärtigen Dienst vom
 Einvernehmen mit dem Bundesministerium des Innern und dem
 Bundesministerium der Finanzen:
 
-
 ## § 1 Zusatzurlaub
 
 Beamtinnen und Beamte des Auswärtigen Dienstes an außereuropäischen
 Dienstorten sowie an europäischen Dienstorten mit besonders
 schwierigen Lebens- und Arbeitsbedingungen erhalten jährlich bis zu 18
 zusätzliche Urlaubstage.
-
 
 ## § 2 Wartezeit, Urlaubsabwicklung
 
@@ -63,7 +60,6 @@ errechnet sich der Zusatzurlaub anteilig nach Satz 1. Bei einem
 Wechsel im Laufe eines Monats gilt dieser Monat als voller Monat am
 neuen Dienstort.
 
-
 ## § 3 Reisetage
 
 (1) Für die Reise von einem Dienstort außerhalb Europas ins Inland
@@ -75,7 +71,6 @@ Arbeitstage.
 
 (2) Reisetage werden für jedes Urlaubsjahr nur einmal gewährt. Sie
 verfallen mit dem Erholungsurlaub.
-
 
 ## § 4 Fahrkostenzuschuss
 
@@ -150,10 +145,6 @@ gewährt, wenn
 2.  im letzten angefangenen Jahr des dienstlichen Auslandsaufenthalts
     dieser mindestens sechs Monate dauert.
 
-
-
-
-
 ## § 5 Ausschluss des Fahrkostenzuschusses
 
 (1) Der Fahrkostenzuschuss wird nicht gewährt
@@ -186,7 +177,6 @@ unterrichtet wurden, dass sie im Anschluss an diesen Heimaturlaub
 versetzt oder abgeordnet werden und an den bisherigen Dienstort aus
 dienstlichen Gründen nicht zurückzukehren brauchen.
 
-
 ## § 6 Abschlagszahlung und Abrechnung der Fahrkosten
 
 Der Fahrkostenzuschuss ist rechtzeitig schriftlich vor Antritt der
@@ -196,21 +186,17 @@ Höhe des nach § 4 Abs. 2 voraussichtlich zustehenden Betrages zu
 gewähren. Der Fahrkostenzuschuss ist innerhalb einer Ausschlussfrist
 von sechs Monaten nach Beendigung der Urlaubsreise abzurechnen.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
-
 ## Anlage 1 (weggefallen)
 
 -
-
 
 ## Anlage 2 (weggefallen)
 

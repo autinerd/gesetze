@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1550
 
-
 ## (XXXX)
 
 Auf Grund des § 158 Absatz 4 des Sechsten Buches Sozialgesetzbuch –
@@ -27,7 +26,6 @@ worden ist, wird bekannt gemacht:
 Der Beitragssatz für das Jahr 2011 beträgt in der allgemeinen
 Rentenversicherung 19,9 Prozent und in der knappschaftlichen
 Rentenversicherung 26,4 Prozent.
-
 
 ## Schlussformel
 

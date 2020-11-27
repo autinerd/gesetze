@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1917
 
-
-
 ## (XXXX)
 
 Das Bundesministerium für Wirtschaft und Technologie gibt gemäß § 9

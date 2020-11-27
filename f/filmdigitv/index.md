@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 125
 
-
 ## Eingangsformel
 
 Auf Grund des § 56 Absatz 1 Satz 2 des Filmförderungsgesetzes, der
 durch Artikel 1 Nummer 52 des Gesetzes vom 22. Dezember 2008 (BGBl. I
 S. 3000) neu gefasst worden ist, verordnet die Bundeskanzlerin:
-
 
 ## § 1 Anwendungsbereich
 
@@ -30,7 +28,6 @@ Diese Verordnung regelt die Gewährung von Zuschüssen durch die
 Filmförderungsanstalt für die erstmalige technische Umstellung eines
 Filmtheaters mit Sitz in der Bundesrepublik Deutschland auf digitales
 Filmabspiel (Digitalisierung).
-
 
 ## § 2 Gegenstand der Förderung
 
@@ -45,7 +42,6 @@ Filmtheaters sicherzustellen.
 technische Umrüstung auf eine 2D-Digitaltechnik. Diese umfasst den
 erstmaligen Erwerb eines entsprechenden Servers und Projektors sowie
 die Installation.
-
 
 ## § 3 Zuwendungsempfänger
 
@@ -77,7 +73,6 @@ Deutschland mit mehr als sechs Leinwänden pro Betriebsstätte
 förderberechtigt, wenn sie die übrigen Voraussetzungen nach Satz 1
 erfüllen und in einem Ort mit weniger als 50 000 Einwohnern liegen.
 
-
 ## § 4 Art und Umfang, Höhe der Zuwendung
 
 (1) Der Zuschuss wird auf Antrag einmalig in Höhe von bis zu 15
@@ -108,12 +103,10 @@ zweckentsprechenden Nutzung berücksichtigt.
 Anwendung der Artikel 87 und 88 EG-Vertrag auf De-minimis-Beihilfen
 (ABl. L 379 vom 28.12.2006, S. 5) gewährt.
 
-
 ## § 5 Verfahren
 
 Für den Erlass von Richtlinien durch die Filmförderungsanstalt gilt §
 63 des Filmförderungsgesetzes.
-
 
 ## § 6 Inkrafttreten
 

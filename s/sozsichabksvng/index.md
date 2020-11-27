@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 11 G v. 27. 4.2002 I 1464
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -44,11 +42,9 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 (weggefallen)
-
 
 ## Art 3
 
@@ -80,10 +76,6 @@ insbesondere über folgende Gegenstände Regelungen getroffen werden:
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
 
-
-
-
-
 ## Art 4
 
 Die Aufgaben der zuständigen Behörde nach
@@ -112,7 +104,6 @@ Die Aufgaben der zuständigen Behörde nach
 
 werden vom Inkrafttreten dieses Gesetzes an auf die Deutsche
 Verbindungsstelle Krankenversicherung-Ausland, Bonn, übertragen.
-
 
 ## Art 5
 

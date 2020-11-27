@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3001
 
-
 ## Eingangsformel
 
 Auf Grund des § 178 Absatz 3 der Abgabenordnung in der Fassung der
@@ -25,7 +24,6 @@ Branntweinmonopolgesetzes durch Artikel 7 des Gesetzes vom 24. Juni
 1994 (BGBl. I S. 1395) neu gefasst worden ist, verordnet das
 Bundesministerium der Finanzen:
 
-
 ## § 1 Regelungsgegenstand
 
 Von den Behörden der Bundeszollverwaltung und den Behörden, denen die
@@ -34,7 +32,6 @@ ist, sowie von der Bundesmonopolverwaltung für Branntwein und den mit
 der Ausführung des Gesetzes über das Branntweinmonopol beauftragten
 Finanzbehörden und sonstigen Behörden werden nach Maßgabe dieser
 Verordnung Kosten (Gebühren und Auslagen) erhoben.
-
 
 ## § 2 Kostenpflichtige Amtshandlungen
 
@@ -172,7 +169,6 @@ wenn die jeweilige Dauer der kostenpflichtigen Amtshandlungen oder des
 kostenpflichtigen Teils der Amtshandlungen eine Viertelstunde nicht
 übersteigt.
 
-
 ## § 3 Stunden- und Monatsgebühren
 
 (1) Die Stundengebühr beträgt:
@@ -220,7 +216,6 @@ Unterstützung oder Hilfeleistung eingesetzt werden, sind Gebühren in
 der Höhe der Gebühren für Begleitung und Bewachung nach dem zeitlichen
 Aufwand zu erheben. § 4 Absatz 1 gilt entsprechend.
 
-
 ## § 4 Kostenberechnung
 
 (1) Die in Form von Stundengebühren zu erhebenden Kosten sind für
@@ -263,7 +258,6 @@ vereinfachten Verfahren außerhalb der Öffnungszeiten der
 Grenzzollstellen wird an Stelle der Stundengebühr nach Absatz 1 eine
 ermäßigte Gebühr von 6 Euro erhoben.
 
-
 ## § 5 Zusätzliche Kosten
 
 (1) In den Fällen des § 3 Absatz 2 werden für kostenpflichtige
@@ -283,7 +277,6 @@ geringeren Kosten verbundene Regelung nicht möglich ist.
 ständig zugeteilten Beamten in Anspruch und ist es möglich, den
 Beamten für andere Verwaltungstätigkeiten zu verwenden, so wird die
 Monatsgebühr um einen entsprechenden Anteil herabgesetzt.
-
 
 ## § 6 Untersuchung von Waren
 
@@ -344,7 +337,6 @@ die kostenpflichtige Untersuchung nicht durch eine Dienststelle der
 Bundesfinanzverwaltung durchgeführt, trägt der Antragsteller die
 dadurch entstehenden Gebühren und Auslagen.
 
-
 ## § 7 Lagerkosten
 
 (1) Für die Lagerung von Nichtgemeinschaftswaren durch die Zollstelle
@@ -381,7 +373,6 @@ wird eine Verwahrungsgebühr erhoben. Sie beträgt pro Tag:
 (3) Werden die Waren von der Zollstelle einem anderen in Verwahrung
 gegeben, so werden die hierdurch entstandenen Auslagen erhoben.
 
-
 ## § 8 Schreibauslagen
 
 (1) Schreibauslagen in zoll- und steuerlichen Angelegenheiten werden
@@ -391,7 +382,6 @@ werden.
 (2) Die Schreibauslagen betragen unabhängig von der Art der
 Herstellung für die ersten 50 Seiten 0,50 Euro je Seite und für jede
 weitere Seite 0,15 Euro.
-
 
 ## § 9 Kosten für Aussetzung der Überlassung, Zurückhaltung und Beschlagnahme von Waren
 
@@ -417,7 +407,6 @@ entstanden sind.
 werden vom Rechtsinhaber oder demjenigen, der den Antrag auf
 Tätigwerden gestellt hat, erhoben.
 
-
 ## § 10 Kostenbescheid
 
 (1) Die Zollstelle kann bei Kostenschuldnern, für die mehrere
@@ -426,17 +415,14 @@ Kosten für diesen Monat in einem Kostenbescheid zusammenfassen.
 
 (2) Die Monatsgebühren sind mit Ablauf eines jeden Monats anzufordern.
 
-
 ## § 11 Absehen von der Kostenerhebung
 
 Von der Erhebung der Kosten ist abzusehen, wenn diese im Einzelfall
 weniger als 5 Euro betragen.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2009 in Kraft.
-
 
 ## Anlage (zu § 6 Absatz 1) Gebührentarif für Untersuchungen
 

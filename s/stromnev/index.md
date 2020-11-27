@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 28.7.2011 I 1690
 
-
 ## Eingangsformel
 
 Auf Grund des § 24 Satz 1 Nr. 1 bis 3 in Verbindung mit Satz 2 Nr. 1,
@@ -26,10 +25,7 @@ Auf Grund des § 24 Satz 1 Nr. 1 bis 3 in Verbindung mit Satz 2 Nr. 1,
 Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970)
 verordnet die Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -37,7 +33,6 @@ Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der
 Entgelte für den Zugang zu den Elektrizitätsübertragungs- und
 Elektrizitätsverteilernetzen (Netzentgelte) einschließlich der
 Ermittlung der Entgelte für dezentrale Einspeisungen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -96,10 +91,6 @@ Im Sinne dieser Verordnung bedeutet
     Entnahmen aus einer Netz- oder Umspannebene oder einer Anzahl von
     Einspeisungen in eine Netz- oder Umspannebene im Verlauf eines Jahres.
 
-
-
-
-
 ### § 3 Grundsätze der Entgeltbestimmung
 
 (1) Für die Ermittlung der Netzentgelte sind die Netzkosten nach den
@@ -125,14 +116,9 @@ oder Umspannebene des jeweiligen Betreibers des
 Elektrizitätsversorgungsnetzes, an die der Netznutzer angeschlossen
 ist, und aller vorgelagerten Netz- und Umspannebenen abgegolten.
 
-
 ## Teil 2 - Methode zur Ermittlung der Netzentgelte
 
-
-
 ### Abschnitt 1 - Kostenartenrechnung
-
-
 
 #### § 4 Grundsätze der Netzkostenermittlung
 
@@ -194,7 +180,6 @@ Stromversorgungsnetzes hat die erforderlichen Nachweise zu führen.
 einer Kalkulationsperiode beeinflussen, sind diese der
 Regulierungsbehörde unverzüglich anzuzeigen.
 
-
 #### § 5 Aufwandsgleiche Kostenpositionen
 
 (1) Aufwandsgleiche Kostenpositionen sind den nach § 10 Abs. 3 des
@@ -230,10 +215,6 @@ Leitung und nur bis zu der angegebenen Höhe einmalig möglich:
 
 2.  Gleichstrom-Hochspannungsfreileitungen ab 300 Kilovolt 40 000 Euro pro
     Kilometer.
-
-
-
-
 
 #### § 6 Kalkulatorische Abschreibungen
 
@@ -326,10 +307,6 @@ Schuldverhältnissen.
 
 \*) Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt,
     Wiesbaden.
-
-
-
-
 
 #### § 7 Kalkulatorische Eigenkapitalverzinsung
 
@@ -445,7 +422,6 @@ Anreizregulierungsverordnung. Bis zur erstmaligen Festlegung durch die
 Regulierungsbehörde beträgt der Eigenkapitalzinssatz bei Neuanlagen
 7,91 Prozent vor Steuern und bei Altanlagen 6,5 Prozent vor Steuern.
 
-
 #### § 8 Kalkulatorische Steuern
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich
@@ -453,7 +429,6 @@ sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
 Kostenposition in Ansatz gebracht werden. Bei der Ermittlung der
 Gewerbesteuer ist die Abzugsfähigkeit der Gewerbesteuer bei sich
 selbst zu berücksichtigen.
-
 
 #### § 9 Kostenmindernde Erlöse und Erträge
 
@@ -492,7 +467,6 @@ zwischen nationalen Übertragungsnetzen verfügbaren Kapazitäten sowie
 die Verwendung dieser Einnahmen sind durch den jeweiligen
 Übertragungsnetzbetreiber schriftlich zu dokumentieren.
 
-
 #### § 10 Behandlung von Netzverlusten
 
 (1) Die Kosten der Beschaffung von Energie zum Ausgleich physikalisch
@@ -506,7 +480,6 @@ Vorjahres sowie die durchschnittlichen Beschaffungskosten der
 Verlustenergie im Vorjahr in Cent pro Kilowattstunde sind von
 Betreibern von Elektrizitätsversorgungsnetzen zum 1. April eines
 Jahres auf ihrer Internetseite zu veröffentlichen.
-
 
 #### § 11 Periodenübergreifende Saldierung
 
@@ -537,10 +510,7 @@ durchschnittliche Differenzbetrag nach Satz 3 ist die Hälfte der
 Differenz aus den zu deckenden Kosten nach Satz 1 Nr. 2 und den
 erzielten Erlösen nach Satz 1 Nr. 1.
 
-
 ### Abschnitt 2 - Kostenstellenrechnung
-
-
 
 #### § 12 Grundsätze der Kostenverteilung
 
@@ -558,7 +528,6 @@ geboten sind. Die sachlichen Gründe für diese Änderungen sind in einer
 für sachkundige Dritte nachvollziehbaren Weise und vollständig
 schriftlich zu dokumentieren.
 
-
 #### § 13 Kostenstellen
 
 Für die Ermittlung der Netzentgelte haben Betreiber von
@@ -566,7 +535,6 @@ Elektrizitätsversorgungsnetzen als Maßgrößen der Kostenverursachung
 Haupt- und Nebenkostenstellen nach Anlage 2 zu bilden. Die Netzkosten
 nach § 4 sind vollständig auf die Kostenstellen nach Anlage 2 zu
 verteilen. Die Bildung von Hilfskostenstellen ist zulässig.
-
 
 #### § 14 Kostenwälzung
 
@@ -606,10 +574,7 @@ jeweiligen Netz- und Umspannebenen. Soweit sich Kosten dieser
 Kostenstellen nicht direkt einer Netz- oder Umspannebene zuordnen
 lassen, sind diese Kosten verursachungsgerecht zuzuordnen.
 
-
 ### Abschnitt 3 - Kostenträgerrechnung
-
-
 
 #### § 15 Grundsätze der Entgeltermittlung
 
@@ -624,7 +589,6 @@ dem Ende einer bevorstehenden Kalkulationsperiode die Differenz
 zwischen den aus Netzentgelten tatsächlich erzielten Erlösen und den
 nach § 4 ermittelten und in der bevorstehenden Kalkulationsperiode zu
 deckenden Netzkosten möglichst gering ist.
-
 
 #### § 16 Gleichzeitigkeitsgrad
 
@@ -641,7 +605,6 @@ Umspannebene.
 Jahreskosten einer Netz- oder Umspannebene auf die Netzkunden dieser
 Netz- oder Umspannebene wird für alle Netz- und Umspannebenen jeweils
 eine Gleichzeitigkeitsfunktion nach Anlage 4 ermittelt.
-
 
 #### § 17 Ermittlung der Netzentgelte
 
@@ -705,7 +668,6 @@ und für nicht leistungsgemessene Entnahmestellen zu bilden.
 (8) Andere als in dieser Verordnung genannte Entgelte sind nicht
 zulässig.
 
-
 #### § 18 Entgelt für dezentrale Einspeisung
 
 (1) Betreiber von dezentralen Erzeugungsanlagen erhalten vom Betreiber
@@ -765,7 +727,6 @@ der vorgelagerten Netz- oder Umspannebene zu ermitteln. Der
 Differenzbetrag ist zuzüglich einer angemessenen Verzinsung in der
 nächsten Kalkulationsperiode in Ansatz zu bringen.
 
-
 #### § 19 Sonderformen der Netznutzung
 
 (1) Für Letztverbraucher mit einer zeitlich begrenzten hohen
@@ -823,7 +784,6 @@ Netzbetreiber nachzuweisen. Der Letztverbraucher ist bezüglich seines
 Entgelts im Übrigen so zu stellen, als sei er direkt an die
 vorgelagerte Netz- oder Umspannebene angeschlossen.
 
-
 #### § 20 Verprobung
 
 (1) Netzbetreiber haben im Rahmen der Ermittlung der Netzentgelte und
@@ -849,7 +809,6 @@ die Anwendung
 sachkundige Dritte nachvollziehbaren Weise schriftlich zu
 dokumentieren und in den Bericht nach § 28 aufzunehmen.
 
-
 #### § 21 Änderungen der Netzentgelte
 
 Ist ein Antrag nach § 23a Abs. 3 des Energiewirtschaftsgesetzes
@@ -857,10 +816,7 @@ gestellt worden, hat der betreffende Betreiber von
 Elektrizitätsversorgungsnetzen dies unverzüglich auf seiner
 Internetseite bekannt zu geben.
 
-
 ## Teil 3 - Vergleichsverfahren
-
-
 
 ### § 22 Verfahren
 
@@ -884,7 +840,6 @@ berücksichtigen.
 nach § 30 Abs. 3 auch Feststellungen treffen über die Erlöse oder
 Kosten von Betreibern von Elektrizitätsversorgungsnetzen in anderen
 Mitgliedstaaten der Europäischen Union.
-
 
 ### § 23 Vergleich
 
@@ -926,7 +881,6 @@ Kostenwälzungsprinzips die Höhe des Netzentgelts oder der Erlöse
 beeinflusst, kann durch den Prozentsatz erfolgen, der sich aus dem
 Quotienten Kosten der Netz- oder Umspannebene nach § 13 geteilt durch
 Erlös der Netz- oder Umspannebene ergibt.
-
 
 ### § 24 Strukturklassen
 
@@ -1000,7 +954,6 @@ Die Frist nach Satz 1 kann im Einzelfall auf Antrag des Betreibers von
 Elektrizitätsversorgungsnetzen von der Regulierungsbehörde um bis zu
 drei Monate verlängert werden.
 
-
 ### § 25 Kostenstruktur
 
 Die Regulierungsbehörde kann im Rahmen von Vergleichen ermitteln, ob
@@ -1009,7 +962,6 @@ Elektrizitätsverteilung entfallenden Gemeinkosten des
 Gesamtunternehmens an den Kosten nach § 4 Abs. 1 sachgerecht ist. Die
 Regulierungsbehörde kann insbesondere überprüfen, ob die in Anwendung
 gebrachten Schlüssel sachgerecht sind.
-
 
 ### § 26 Mitteilungspflichten gegenüber der Regulierungsbehörde
 
@@ -1044,10 +996,7 @@ zur Durchführung des Vergleichsverfahrens erforderlich ist.
 die für ihr Netz geltenden Netzentgelte und deren Änderungen der
 Regulierungsbehörde unverzüglich mitzuteilen.
 
-
 ## Teil 4 - Pflichten der Netzbetreiber
-
-
 
 ### § 27 Veröffentlichungspflichten
 
@@ -1090,10 +1039,6 @@ ihrer Internetseite zu veröffentlichen:
 
 7.  die geographische Fläche des Netzgebietes zum 31. Dezember des
     Vorjahres.
-
-
-
-
 
 ### § 28 Dokumentation
 
@@ -1159,10 +1104,6 @@ Anhang muss enthalten:
 9.  im Vorjahr nach § 35 Abs. 2 des Erneuerbare-Energien-Gesetzes in Abzug
     gebrachten Netzentgelte.
 
-
-
-
-
 ### § 29 Mitteilungen gegenüber der Regulierungsbehörde
 
 Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch
@@ -1171,10 +1112,7 @@ Entscheidungen treffen zu Umfang, Zeitpunkt und Form der ihr zu
 übermittelnden Informationen, insbesondere zu den zulässigen
 Datenträgern und Übertragungswegen.
 
-
 ## Teil 5 - Sonstige Bestimmungen
-
-
 
 ### § 30 Festlegungen der Regulierungsbehörde
 
@@ -1259,7 +1197,6 @@ Gewährleistung
 (3) Die Absätze 1 und 2 gelten für die Durchführung eines
 Vergleichsverfahrens entsprechend.
 
-
 ### § 31 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des
@@ -1291,10 +1228,6 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 6.  einer vollziehbaren Anordnung nach § 65 Abs. 2 des
     Energiewirtschaftsgesetzes in Verbindung mit § 28 Abs. 1 Satz 1
     zuwiderhandelt.
-
-
-
-
 
 ### § 32 Übergangsregelungen
 
@@ -1356,16 +1289,13 @@ keine Anwendung. § 19 Abs. 2 Satz 4 findet für den
 Verlängerungszeitraum in seiner ab dem 26. August 2009 geltenden
 Fassung Anwendung.
 
-
 ### § 33 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 6 Abs. 5 Satz 1) Betriebsgewöhnliche Nutzungsdauern
 
@@ -1745,10 +1675,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15-25
 
-
-
-
-
 ### Anlage 2 (zu § 13) Haupt- und Nebenkostenstellen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
@@ -1938,13 +1864,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
 
     11.7 Nebenkostenstelle "Abrechnung Niederspannung".
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 14 Abs. 3) Kostenträger
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2240
@@ -1985,10 +1904,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2240
     der Hauptkostenstellen "Niederspannungsnetz" und
     "Hausanschlussleitungen und Hausanschlüsse" abzüglich der Kosten der
     Nebenkostenstelle "Anlagen der Straßenbeleuchtung".
-
-
-
-
 
 ### Anlage 4 (zu § 16 Abs. 2) Gleichzeitigkeitsfunktion und -grad
 
@@ -2054,13 +1969,6 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
     -   der Gleichzeitigkeitsgrad bei einer Jahresbenutzungsdauer von 8.760
         Stunden beträgt 1.
-
-
-
-
-
-
-
 
 ### Anlage 5 (zu § 28 Abs. 2 Nr. 6) Absatzstruktur
 

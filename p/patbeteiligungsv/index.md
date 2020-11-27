@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 457 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 140g in Verbindung mit § 140f Abs. 2 Satz 3 des
@@ -28,7 +27,6 @@ Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung -
 die durch Artikel 1 Nr. 118 des Gesetzes vom 14. November 2003 (BGBl.
 I S. 2190) eingefügt worden sind, verordnet das Bundesministerium für
 Gesundheit und Soziale Sicherung:
-
 
 ## § 1 Anforderungen an maßgebliche Organisationen auf Bundesebene
 
@@ -63,10 +61,6 @@ Buches Sozialgesetzbuch sind Organisationen, die
 
 
 7.  gemeinnützige Zwecke verfolgen.
-
-
-
-
 
 ## § 2 Anerkannte Organisationen
 
@@ -105,7 +99,6 @@ Bundesausschuss berechtigte Zweifel hat, dass eine der in Absatz 1
 genannten oder nach § 3 anerkannten Organisationen die in § 1 Nr. 1
 bis 7 genannten Kriterien noch erfüllt.
 
-
 ## § 3 Anerkennung weiterer Organisationen
 
 Das Bundesministerium für Gesundheit kann auf Antrag weitere
@@ -114,7 +107,6 @@ Verbände sind, als maßgebliche Organisation auf Bundesebene
 anerkennen, wenn die antragstellende Organisation die in § 1 Nr. 1 bis
 7 aufgeführten Kriterien erfüllt und diese nachweist. Die Anerkennung
 erfolgt durch Verwaltungsakt.
-
 
 ## § 4 Verfahren der Beteiligung
 
@@ -142,11 +134,9 @@ erforderlichen Unterlagen rechtzeitig und vollständig zur Verfügung
 gestellt und ihnen eine angemessene Frist zur Stellungnahme
 eingeräumt.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

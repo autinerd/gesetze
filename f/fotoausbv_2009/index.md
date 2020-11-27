@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der
@@ -34,7 +33,6 @@ S. 2407) geändert und § 26 durch Artikel 2 Nummer 4 des Gesetzes vom
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf des Fotografen und der Fotografin wird nach § 25
@@ -42,11 +40,9 @@ der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 38,
 Fotograf, der Anlage B Abschnitt 1 der Handwerksordnung staatlich
 anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur der Berufsausbildung
 
@@ -63,10 +59,6 @@ C.  Industrie- und Architekturfotografie oder
 
 
 D.  Wissenschaftsfotografie.
-
-
-
-
 
 ## § 4 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -130,10 +122,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  wirtschaftliche Aspekte und rechtliche Grundlagen.
 
-
-
-
-
 ## § 5 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -153,7 +141,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 6 Zwischenprüfung
 
@@ -211,10 +198,6 @@ Vorgaben:
 
 4.  die Prüfungszeit beträgt 210 Minuten. Innerhalb dieser Zeit sollen die
     schriftlichen Aufgaben in 90 Minuten bearbeitet werden.
-
-
-
-
 
 ## § 7 Gesellenprüfung
 
@@ -474,7 +457,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -482,11 +464,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Fotografen und zur Fotografin
 

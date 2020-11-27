@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1910, 989
 
-
-
 ## Eingangsformel
 
 Wir Wilhelm, ... Deutscher Kaiser, König von Preußen usw.
@@ -26,7 +24,6 @@ Gesetzes zur Ausführung der revidierten Berner Übereinkunft zum
 Schutze von Werken der Literatur und Kunst vom 13. November 1908
 (Reichsgesetzbl. 1910 S. 793), nach erfolgter Zustimmung des
 Bundesrats, was folgt:\*
-
 
 ## § 1
 
@@ -90,10 +87,6 @@ mechanischen Musikinstrumenten, den nachstehenden Einschränkungen.
     Deutschland erlaubterweise vervielfältigt, verbreitet oder öffentlich
     vorgeführt haben.
 
-
-
-
-
 ## § 2
 
 Im Verhältnis zu einem Staate, demgegenüber die revidierte
@@ -103,7 +96,6 @@ Anwendung. Soweit danach der Zeitpunkt des Inkrafttretens der
 Übereinkunft entscheidet, ist der Zeitpunkt maßgebend, in dem die
 revidierte Übereinkunft im Verhältnisse zu diesem Staate Geltung
 erlangt.
-
 
 ## § 3
 

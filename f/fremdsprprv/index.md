@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 10
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für
 Bildung und Forschung nach Anhörung des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung
 
@@ -59,7 +56,6 @@ Fremdsprachenkorrespondenten wahrzunehmen:
 Geprüfter Fremdsprachenkorrespondent/Geprüfte
 Fremdsprachenkorrespondentin.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen,
@@ -88,7 +84,6 @@ Kommunikationssituationen genügen.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat,
 die eine Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung der Prüfung
 
@@ -141,7 +136,6 @@ durchzuführen.
 (4) Die Prüfung im Handlungsbereich "Mündliche Kommunikation" ist erst
 nach erfolgreichem Abschluss der Prüfung in den Handlungsbereichen
 "Übersetzung" und "Korrespondenz" durchzuführen.
-
 
 ## § 4 Prüfungsanforderungen
 
@@ -227,7 +221,6 @@ Die Prüfung im Handlungsbereich "Mündliche Kommunikation" soll
 insgesamt (einschließlich Vorbereitung) nicht länger als 30 Minuten
 dauern.
 
-
 ## § 5 Prüfung in zwei Fremdsprachen
 
 (1) Die zuständige Stelle kann die Prüfung auch in zwei Fremdsprachen
@@ -242,13 +235,11 @@ Qualifikationsschwerpunkte in beiden Fremdsprachen zu prüfen.
 obliegt dem für diese Sprache errichteten Prüfungsausschuss. Es können
 auch doppelfremdsprachliche Prüfungsausschüsse errichtet werden.
 
-
 ## § 6 Deutsch als Fremdsprache
 
 Prüfungsteilnehmer, deren Hauptsprache nicht Deutsch ist, können in
 Deutsch als Fremdsprache geprüft werden. Eine Prüfung in zwei
 Fremdsprachen gemäß § 5 ist dann nicht möglich.
-
 
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
@@ -260,7 +251,6 @@ oder vor einem staatlichen Prüfungsausschuss eine Prüfung in den
 letzten fünf Jahren vor Antragstellung bestanden hat, die den
 Anforderungen dieser Handlungsbereiche oder Qualifikationsschwerpunkte
 entspricht. Eine vollständige Freistellung ist nicht möglich.
-
 
 ## § 8 Bestehen der Prüfung
 
@@ -284,7 +274,6 @@ doppelfremdsprachlicher Prüfungsausschuss errichtet wurde, stellt der
 für die jeweilige Fremdsprache errichtete Prüfungsausschuss die
 Prüfungsleistungen in dieser Fremdsprache fest. Das Zeugnis wird von
 den Vorsitzenden beider Prüfungsausschüsse unterschrieben.
-
 
 ## § 9 Wiederholung der Prüfung
 
@@ -310,7 +299,6 @@ zur Wiederholungsprüfung angemeldet hat. Der Prüfungsteilnehmer kann
 beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In
 diesem Fall gilt das letzte Ergebnis.
 
-
 ## § 10 Übergangsvorschriften
 
 (1) Mit dem Inkrafttreten dieser Verordnung treten die
@@ -322,11 +310,9 @@ Fremdsprachenkundigen Korrespondenten außer Kraft.
 (2) Begonnene Prüfungsverfahren können nach den bisher geltenden
 Regelungen zu Ende geführt werden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2000 in Kraft.
-
 
 ## Anlage 1 (zu § 8 Abs. 2)
 
@@ -388,7 +374,6 @@ Unterschrift(en) ...................................
 gut; unter 81-67 Punkte = Note 3 = befriedigend; unter 67-50 Punkte =
 Note 4 = ausreichend; unter 50-30 Punkte = Note 5 = mangelhaft;
 unter 30-0 Punkte = Note 6 = ungenügend.
-
 
 ## Anlage 2 (zu § 8 Abs. 2)
 

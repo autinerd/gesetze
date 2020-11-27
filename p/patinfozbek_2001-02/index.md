@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 341
 
-
-
 ## (XXXX)
 
 Nach § 34 Abs. 2 und § 35 Abs. 2 Nr. 2 des Patentgesetzes, die durch
@@ -42,7 +40,6 @@ II S. 649), zuletzt geändert durch Artikel 6 des Gesetzes vom 16. Juli
 Der Präsident des Deutschen Patent- und Markenamts veröffentlicht im
 Blatt für Patent-, Muster- und Zeichenwesen weitere Einzelheiten zur
 Entgegennahme der Anmeldungen.
-
 
 ## Schlussformel
 

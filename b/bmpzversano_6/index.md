@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   AnO v. 13. 9.1977 I 1870
 
-
 ## Eingangsformel
 
 Die Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet
@@ -36,11 +35,9 @@ Oktober 1972, AmtsblVfg Nr. 741/1972, S. 1722), wird in Anwendung des
 § 155 Abs. 1 Satz 2 des Bundesbeamtengesetzes im Einvernehmen mit dem
 Bundesminister des Innern wie folgt geändert:
 
-
 ## (XXXX) 1. bis 8. (weggefallen)
 
 -
-
 
 ## 9.
 
@@ -88,7 +85,6 @@ in Satz 2 genannten Zeitpunkt auf das Sozialamt der Deutschen
 Bundespost über. Für die Landespostdirektion Berlin und die in Satz 2
 nicht genannten Oberpostdirektionen gilt die ZOVers in der am 30.
 September 1976 gültigen Fassung bis auf weiteres weiter.
-
 
 ## Schlußformel
 

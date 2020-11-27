@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 6.6.2007 I 1045
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Straßenverkehrsunfallstatistikgesetzes, der
 durch Artikel 1 Nr. 5 des Gesetzes vom 23. November 1994 (BGBl. I S.
 3491) neu gefaßt worden ist, verordnet das Bundesministerium für
 Verkehr:
-
 
 ## § 1
 
@@ -63,11 +61,9 @@ Rücksicht auf Art des Sachschadens ein Unfallbeteiligter unter der
 Einwirkung von Alkohol oder anderen berauschenden Mitteln gestanden
 hat.
 
-
 ## § 2 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
-
 
 ## Schlußformel
 

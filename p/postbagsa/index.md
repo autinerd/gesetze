@@ -16,11 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2325, 2339, 2346
 
-
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### § 1 Firma, Sitz und Geschäftsjahr
 
@@ -28,7 +24,6 @@ Fundstelle
 führt die Firma Deutsche Postbank AG. (2) Sie hat ihren Sitz in Bonn.
 
 (3) Geschäftsjahr ist das Kalenderjahr.
-
 
 ### § 2 Gegenstand des Unternehmens
 
@@ -44,7 +39,6 @@ sowie solche Unternehmen leiten oder sich auf die Verwaltung der
 Beteiligung beschränken. Sie kann ihren Betrieb ganz oder teilweise in
 verbundene Unternehmen ausgliedern.
 
-
 ### § 3 Beauftragung der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 
 Die Gesellschaft läßt Angelegenheiten im Sinne des § 3 Abs. 2 des
@@ -53,16 +47,12 @@ Telekommunikation Deutsche Bundespost wahrnehmen. Sie schließt zu
 diesem Zweck entgeltliche Geschäftsbesorgungsverträge mit der
 Bundesanstalt.
 
-
 ### § 4 Bekanntmachungen
 
 Die Bekanntmachungen der Gesellschaft werden im Bundesanzeiger
 veröffentlicht.
 
-
 ## II. - Grundkapital und Aktien
-
-
 
 ### § 5 Höhe und Einteilung des Grundkapitals
 
@@ -83,10 +73,7 @@ Aktionärs kann eine Urkunde ausgestellt werden.
 (5) Bei einer Kapitalerhöhung kann die Gewinnbeteiligung neuer Aktien
 abweichend von § 60 des Aktiengesetzes bestimmt werden.
 
-
 ## III. - Vorstand
-
-
 
 ### § 6 Zusammensetzung und Geschäftsordnung
 
@@ -109,7 +96,6 @@ stellvertretende Vorstandsmitglieder bestellt werden.
 Vorstandsmitglieder eine Geschäftsordnung, die der Zustimmung des
 Aufsichtsrats bedarf.
 
-
 ### § 7 Vertretung der Gesellschaft
 
 Die Gesellschaft wird gesetzlich vertreten durch zwei Mitglieder des
@@ -118,12 +104,10 @@ einem Prokuristen. Stellvertretende Vorstandsmitglieder stehen
 hinsichtlich der Vertretungsmacht ordentlichen Vorstandsmitgliedern
 gleich.
 
-
 ### § 8 Geschäftsführung
 
 Der Vorstand führt die Geschäfte unter Beachtung der Geschäftsordnung
 und des vom Aufsichtsrat gebilligten Geschäftsverteilungsplans.
-
 
 ### § 9 Zustimmungspflichtige Geschäfte
 
@@ -137,10 +121,7 @@ einem bestimmten Kreis von Geschäften allgemein oder für den Fall, daß
 das einzelne Geschäft bestimmten Bedingungen genügt, im voraus
 erteilen.
 
-
 ## IV. - Aufsichtsrat
-
-
 
 ### § 10 Zusammensetzung, Amtsdauer, Amtsniederlegung
 
@@ -176,7 +157,6 @@ ihr Amt durch eine an den Vorsitzenden des Aufsichtsrats oder an den
 Vorstand zu richtende schriftliche Erklärung unter Einhaltung einer
 Frist von vier Wochen niederlegen.
 
-
 ### § 11 Vorsitzender und Stellvertreter
 
 (1) Der Aufsichtsrat wählt nach Maßgabe des § 27 Abs. 1 und 2 des
@@ -197,13 +177,11 @@ dem der Vorsitzende, sein Stellvertreter sowie je ein von den
 Mitgliedern der Arbeitnehmer und von den Mitgliedern der Aktionäre mit
 der Mehrheit der abgegebenen Stimmen gewähltes Mitglied angehören.
 
-
 ### § 12 Geschäftsordnung
 
 Im Rahmen der zwingenden gesetzlichen Vorschriften und der
 Bestimmungen dieser Satzung gibt sich der Aufsichtsrat eine
 Geschäftsordnung.
-
 
 ### § 13 Einberufung
 
@@ -225,7 +203,6 @@ aufheben oder verlegen. Er ist berechtigt, eine begonnene Sitzung
 kurzfristig zu unterbrechen. Über längerfristige Unterbrechungen
 entscheidet der Vorsitzende vorbehaltlich einer abweichenden
 Mehrheitsentscheidung des Aufsichtsrats.
-
 
 ### § 14 Beschlußfassung
 
@@ -281,7 +258,6 @@ Durchführung der Beschlüsse des Aufsichtsrats und seiner Ausschüsse
 erforderlichen Willenserklärungen abzugeben sowie Erklärungen für den
 Aufsichtsrat entgegenzunehmen.
 
-
 ### § 15 Ausschüsse
 
 (1) Der Aufsichtsrat bestellt aus seiner Mitte - neben dem in § 11
@@ -299,14 +275,12 @@ Personalausschuß wird durch ein Aufsichtsratsmitglied der
 Arbeitnehmer, der Vorsitz im Ausschuß für sonstige Angelegenheiten
 durch ein Aufsichtsratsmitglied der Aktionäre geführt.
 
-
 ### § 16 Schweigepflicht
 
 Die Mitglieder des Aufsichtsrats haben - auch nach dem Ausscheiden aus
 dem Amt - über vertrauliche Angaben und Geheimnisse der Gesellschaft,
 namentlich Betriebs- und Geschäftsgeheimnisse, die ihnen durch ihre
 Tätigkeit im Aufsichtsrat bekannt werden, Stillschweigen zu bewahren.
-
 
 ### § 17 Vergütung
 
@@ -322,10 +296,7 @@ Verhältnis der Zeit geringere Vergütung.
 (2) Die auf die Vergütung und Auslagen zu zahlende Umsatzsteuer wird
 von der Gesellschaft erstattet.
 
-
 ## V. - Hauptversammlung
-
-
 
 ### § 18 Ort und Einberufung
 
@@ -336,7 +307,6 @@ deutschen Börsenplatz statt.
 Hinterlegungstag (§ 19 Abs. 2) im Bundesanzeiger bekanntgemacht
 werden; dabei werden der Tag der Bekanntmachung und der letzte
 Hinterlegungstag nicht mitgerechnet.
-
 
 ### § 19 Teilnahmerecht und Stimmrecht
 
@@ -362,7 +332,6 @@ Wertpapiersammelbank ist die hierüber auszustellende Bescheinigung
 spätestens am ersten Werktag - ausgenommen der Sonnabend - nach Ablauf
 der Hinterlegungsfrist bei der Gesellschaft einzureichen.
 
-
 ### § 20 Vorsitz in der Hauptversammlung
 
 (1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende des
@@ -377,7 +346,6 @@ gewählt.
 Reihenfolge, in der die Gegenstände der Tagesordnung verhandelt
 werden, sowie die Art und Reihenfolge der Abstimmungen.
 
-
 ### § 21 Beschlußfassung
 
 (1) Je fünfzig Deutsche Mark Nennbetrag der Stammaktien gewähren in
@@ -389,10 +357,7 @@ Stimmen und, soweit das Gesetz außer der Stimmenmehrheit eine
 Kapitalmehrheit vorschreibt, mit der einfachen Mehrheit des bei der
 Beschlußfassung vertretenen Grundkapitals gefaßt.
 
-
 ## VI. - Jahresabschluß und Gewinnverwendung
-
-
 
 ### § 22 Jahresabschluß und ordentliche Hauptversammlung
 
@@ -421,20 +386,14 @@ Einstellung die Hälfte des Grundkapitals übersteigen würden.
 (4) Der Bilanzgewinn wird an die Aktionäre verteilt, soweit die
 Hauptversammlung nicht eine andere Verwendung beschließt.
 
-
 ## VII. - Bundesrechnungshof
-
-
 
 ### § 23 Bundesrechnungshof
 
 Der Bundesrechnungshof hat die Befugnisse nach § 54 des
 Haushaltsgrundsätzegesetzes.
 
-
 ## VIII. - Geschäftsaufnahme
-
-
 
 ### § 24 Geschäftsaufnahme
 

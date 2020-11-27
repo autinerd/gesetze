@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 10.5.2012 I 1084
 
-
 ## I. Teil - Wohnungseigentum
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -49,16 +46,12 @@ die nicht im Sondereigentum oder im Eigentum eines Dritten stehen.
 (6) Für das Teileigentum gelten die Vorschriften über das
 Wohnungseigentum entsprechend.
 
-
 ### 1. Abschnitt - Begründung des Wohnungseigentums
-
-
 
 #### § 2 Arten der Begründung
 
 Wohnungseigentum wird durch die vertragliche Einräumung von
 Sondereigentum (§ 3) oder durch Teilung (§ 8) begründet.
-
 
 #### § 3 Vertragliche Einräumung von Sondereigentum
 
@@ -77,7 +70,6 @@ Markierungen ersichtlich sind.
 
 (3) (weggefallen)
 
-
 #### § 4 Formvorschriften
 
 (1) Zur Einräumung und zur Aufhebung des Sondereigentums ist die
@@ -91,7 +83,6 @@ eingeräumt oder aufgehoben werden.
 (3) Für einen Vertrag, durch den sich ein Teil verpflichtet,
 Sondereigentum einzuräumen, zu erwerben oder aufzuheben, gilt § 311b
 Abs. 1 des Bürgerlichen Gesetzbuchs entsprechend.
-
 
 #### § 5 Gegenstand und Inhalt des Sondereigentums
 
@@ -126,7 +117,6 @@ ist die Zustimmung des Dritten nicht erforderlich, wenn durch die
 Vereinbarung gleichzeitig das zu seinen Gunsten belastete
 Wohnungseigentum mit einem Sondernutzungsrecht verbunden wird.
 
-
 #### § 6 Unselbständigkeit des Sondereigentums
 
 (1) Das Sondereigentum kann ohne den Miteigentumsanteil, zu dem es
@@ -134,7 +124,6 @@ gehört, nicht veräußert oder belastet werden.
 
 (2) Rechte an dem Miteigentumsanteil erstrecken sich auf das zu ihm
 gehörende Sondereigentum.
-
 
 #### § 7 Grundbuchvorschriften
 
@@ -190,7 +179,6 @@ die Landesbauverwaltungen übertragen.
 (5) Für Teileigentumsgrundbücher gelten die Vorschriften über
 Wohnungsgrundbücher entsprechend.
 
-
 #### § 8 Teilung durch den Eigentümer
 
 (1) Der Eigentümer eines Grundstücks kann durch Erklärung gegenüber
@@ -203,7 +191,6 @@ Gebäude verbunden ist.
 (2) Im Falle des Absatzes 1 gelten die Vorschriften des § 3 Abs. 2 und
 der §§ 5, 6, § 7 Abs. 1, 3 bis 5 entsprechend. Die Teilung wird mit
 der Anlegung der Wohnungsgrundbücher wirksam.
-
 
 #### § 9 Schließung der Wohnungsgrundbücher
 
@@ -235,10 +222,7 @@ Grundstück ein Grundbuchblatt nach den allgemeinen Vorschriften
 angelegt; die Sondereigentumsrechte erlöschen, soweit sie nicht
 bereits aufgehoben sind, mit der Anlegung des Grundbuchblatts.
 
-
 ### 2. Abschnitt - Gemeinschaft der Wohnungseigentümer
-
-
 
 #### § 10 Allgemeine Grundsätze
 
@@ -319,7 +303,6 @@ Gesetzbuches entsprechend anzuwenden. Die Haftung eines
 Wohnungseigentümers gegenüber der Gemeinschaft wegen nicht
 ordnungsmäßiger Verwaltung bestimmt sich nach Satz 1.
 
-
 #### § 11 Unauflöslichkeit der Gemeinschaft
 
 (1) Kein Wohnungseigentümer kann die Aufhebung der Gemeinschaft
@@ -335,7 +318,6 @@ verlangen, ist ausgeschlossen.
 
 (3) Ein Insolvenzverfahren über das Verwaltungsvermögen der
 Gemeinschaft findet nicht statt.
-
 
 #### § 12 Veräußerungsbeschränkung
 
@@ -364,7 +346,6 @@ werden. Der Bewilligung gemäß § 19 der Grundbuchordnung bedarf es
 nicht, wenn der Beschluss gemäß Satz 1 nachgewiesen wird. Für diesen
 Nachweis ist § 26 Abs. 3 entsprechend anzuwenden.
 
-
 #### § 13 Rechte des Wohnungseigentümers
 
 (1) Jeder Wohnungseigentümer kann, soweit nicht das Gesetz oder Rechte
@@ -377,7 +358,6 @@ Einwirkungen ausschließen.
 gemeinschaftlichen Eigentums nach Maßgabe der §§ 14, 15 berechtigt. An
 den sonstigen Nutzungen des gemeinschaftlichen Eigentums gebührt jedem
 Wohnungseigentümer ein Anteil nach Maßgabe des § 16.
-
 
 #### § 14 Pflichten des Wohnungseigentümers
 
@@ -406,10 +386,6 @@ Jeder Wohnungseigentümer ist verpflichtet:
     Instandsetzung des gemeinschaftlichen Eigentums erforderlich ist; der
     hierdurch entstehende Schaden ist zu ersetzen.
 
-
-
-
-
 #### § 15 Gebrauchsregelung
 
 (1) Die Wohnungseigentümer können den Gebrauch des Sondereigentums und
@@ -426,7 +402,6 @@ stehenden Gebäudeteile und des gemeinschaftlichen Eigentums verlangen,
 der dem Gesetz, den Vereinbarungen und Beschlüssen und, soweit sich
 die Regelung hieraus nicht ergibt, dem Interesse der Gesamtheit der
 Wohnungseigentümer nach billigem Ermessen entspricht.
-
 
 #### § 16 Nutzungen, Lasten und Kosten
 
@@ -482,7 +457,6 @@ Mehrkosten gegenüber der gesetzlichen Vergütung eines Rechtsanwalts
 aufgrund einer Vereinbarung über die Vergütung (§ 27 Abs. 2 Nr. 4,
 Abs. 3 Nr. 6) handelt.
 
-
 #### § 17 Anteil bei Aufhebung der Gemeinschaft
 
 Im Falle der Aufhebung der Gemeinschaft bestimmt sich der Anteil der
@@ -492,7 +466,6 @@ sich der Wert eines Miteigentumsanteils durch Maßnahmen verändert,
 deren Kosten der Wohnungseigentümer nicht getragen hat, so bleibt eine
 solche Veränderung bei der Berechnung des Wertes dieses Anteils außer
 Betracht.
-
 
 #### § 18 Entziehung des Wohnungseigentums
 
@@ -532,7 +505,6 @@ Fall nicht anzuwenden.
 (4) Der in Absatz 1 bestimmte Anspruch kann durch Vereinbarung der
 Wohnungseigentümer nicht eingeschränkt oder ausgeschlossen werden.
 
-
 #### § 19 Wirkung des Urteils
 
 (1) Das Urteil, durch das ein Wohnungseigentümer zur Veräußerung
@@ -556,10 +528,7 @@ Vergleich, durch den sich der Wohnungseigentümer zur Veräußerung
 seines Wohnungseigentums verpflichtet, steht dem in Absatz 1
 bezeichneten Urteil gleich.
 
-
 ### 3. Abschnitt - Verwaltung
-
-
 
 #### § 20 Gliederung der Verwaltung
 
@@ -569,7 +538,6 @@ nach Maßgabe der §§ 26 bis 28, im Falle der Bestellung eines
 Verwaltungsbeirats auch diesem nach Maßgabe des § 29.
 
 (2) Die Bestellung eines Verwalters kann nicht ausgeschlossen werden.
-
 
 #### § 21 Verwaltung durch die Wohnungseigentümer
 
@@ -638,7 +606,6 @@ Rechtsstreit gemäß § 43 nach billigem Ermessen entscheiden, soweit
 sich die Maßnahme nicht aus dem Gesetz, einer Vereinbarung oder einem
 Beschluss der Wohnungseigentümer ergibt.
 
-
 #### § 22 Besondere Aufwendungen, Wiederaufbau
 
 (1) Bauliche Veränderungen und Aufwendungen, die über die
@@ -670,7 +637,6 @@ ist der Schaden nicht durch eine Versicherung oder in anderer Weise
 gedeckt, so kann der Wiederaufbau nicht gemäß § 21 Abs. 3 beschlossen
 oder gemäß § 21 Abs. 4 verlangt werden.
 
-
 #### § 23 Wohnungseigentümerversammlung
 
 (1) Angelegenheiten, über die nach diesem Gesetz oder nach einer
@@ -689,7 +655,6 @@ erklären.
 Einhaltung rechtswirksam nicht verzichtet werden kann, ist nichtig. Im
 Übrigen ist ein Beschluss gültig, solange er nicht durch
 rechtskräftiges Urteil für ungültig erklärt ist.
-
 
 #### § 24 Einberufung, Vorsitz, Niederschrift
 
@@ -757,7 +722,6 @@ verpflichtet, die Beschluss-Sammlung zu führen, sofern die
 Wohnungseigentümer durch Stimmenmehrheit keinen anderen für diese
 Aufgabe bestellt haben.
 
-
 #### § 25 Mehrheitsbeschluß
 
 (1) Für die Beschlußfassung in Angelegenheiten, über die die
@@ -785,7 +749,6 @@ die Einleitung oder Erledigung eines Rechtsstreits der anderen
 Wohnungseigentümer gegen ihn betrifft oder wenn er nach § 18
 rechtskräftig verurteilt ist.
 
-
 #### § 26 Bestellung und Abberufung des Verwalters
 
 (1) Über die Bestellung und Abberufung des Verwalters beschließen die
@@ -806,7 +769,6 @@ der Bestellungszeit gefaßt werden kann.
 Urkunde nachgewiesen werden muß, genügt die Vorlage einer
 Niederschrift über den Bestellungsbeschluß, bei der die Unterschriften
 der in § 24 Abs. 6 bezeichneten Personen öffentlich beglaubigt sind.
-
 
 #### § 27 Aufgaben und Befugnisse des Verwalters
 
@@ -927,7 +889,6 @@ eines Dritten abhängig gemacht werden.
 einer Vollmachts- und Ermächtigungsurkunde verlangen, aus der der
 Umfang seiner Vertretungsmacht ersichtlich ist.
 
-
 #### § 28 Wirtschaftsplan, Rechnungslegung
 
 (1) Der Verwalter hat jeweils für ein Kalenderjahr einen
@@ -961,7 +922,6 @@ von dem Verwalter Rechnungslegung verlangen.
 des Verwalters beschließen die Wohnungseigentümer durch
 Stimmenmehrheit.
 
-
 #### § 29 Verwaltungsbeirat
 
 (1) Die Wohnungseigentümer können durch Stimmenmehrheit die Bestellung
@@ -980,10 +940,7 @@ geprüft und mit dessen Stellungnahme versehen werden.
 (4) Der Verwaltungsbeirat wird von dem Vorsitzenden nach Bedarf
 einberufen.
 
-
 ### 4. Abschnitt - Wohnungserbbaurecht
-
-
 
 #### § 30
 
@@ -1003,10 +960,7 @@ Teilerbbaugrundbuch). Im übrigen gelten für das Wohnungserbbaurecht
 (Teilerbbaurecht) die Vorschriften über das Wohnungseigentum
 (Teileigentum) entsprechend.
 
-
 ## II. Teil - Dauerwohnrecht
-
-
 
 ### § 31 Begriffsbestimmungen
 
@@ -1027,7 +981,6 @@ Gebäude zu nutzen (Dauernutzungsrecht).
 
 (3) Für das Dauernutzungsrecht gelten die Vorschriften über das
 Dauerwohnrecht entsprechend.
-
 
 ### § 32 Voraussetzungen der Eintragung
 
@@ -1073,7 +1026,6 @@ wenn über die in § 33 Abs. 4 Nr. 1 bis 4 bezeichneten Angelegenheiten,
 die Entschädigung beim Heimfall (§ 36 Abs. 4) keine Vereinbarungen
 getroffen sind.
 
-
 ### § 33 Inhalt des Dauerwohnrechts
 
 (1) Das Dauerwohnrecht ist veräußerlich und vererblich. Es kann nicht
@@ -1107,10 +1059,6 @@ werden über:
 5.  das Recht des Eigentümers, bei Vorliegen bestimmter Voraussetzungen
     Sicherheitsleistung zu verlangen.
 
-
-
-
-
 ### § 34 Ansprüche des Eigentümers und der Dauerwohnberechtigten
 
 (1) Auf die Ersatzansprüche des Eigentümers wegen Veränderungen oder
@@ -1123,14 +1071,12 @@ entsprechend anzuwenden.
 des Berechtigten die für die Ansprüche aus dem Eigentum geltenden
 Vorschriften entsprechend anzuwenden.
 
-
 ### § 35 Veräußerungsbeschränkung
 
 Als Inhalt des Dauerwohnrechts kann vereinbart werden, daß der
 Berechtigte zur Veräußerung des Dauerwohnrechts der Zustimmung des
 Eigentümers oder eines Dritten bedarf. Die Vorschriften des § 12
 gelten in diesem Fall entsprechend.
-
 
 ### § 36 Heimfallanspruch
 
@@ -1157,7 +1103,6 @@ er von dem Heimfallanspruch Gebrauch macht. Als Inhalt des
 Dauerwohnrechts können Vereinbarungen über die Berechnung oder Höhe
 der Entschädigung oder die Art ihrer Zahlung getroffen werden.
 
-
 ### § 37 Vermietung
 
 (1) Hat der Dauerwohnberechtigte die dem Dauerwohnrecht unterliegenden
@@ -1175,7 +1120,6 @@ veräußert, so steht dem Erwerber ein Kündigungsrecht in entsprechender
 Anwendung des § 57a des Gesetzes über die Zwangsversteigerung und die
 Zwangsverwaltung zu.
 
-
 ### § 38 Eintritt in das Rechtsverhältnis
 
 (1) Wird das Dauerwohnrecht veräußert, so tritt der Erwerber an Stelle
@@ -1188,7 +1132,6 @@ Rechtsverhältnis zu dem Dauerwohnberechtigten ergebenden Rechte ein.
 Das gleiche gilt für den Erwerb auf Grund Zuschlages in der
 Zwangsversteigerung, wenn das Dauerwohnrecht durch den Zuschlag nicht
 erlischt.
-
 
 ### § 39 Zwangsversteigerung
 
@@ -1212,7 +1155,6 @@ gegenüber dem Eigentümer erfüllt hat; in Ergänzung einer Vereinbarung
 nach Absatz 1 kann vereinbart werden, daß das Fortbestehen des
 Dauerwohnrechts vom Vorliegen weiterer Voraussetzungen abhängig ist.
 
-
 ### § 40 Haftung des Entgelts
 
 (1) Hypotheken, Grundschulden, Rentenschulden und Reallasten, die dem
@@ -1229,7 +1171,6 @@ wiederkehrenden Leistungen ausbedungen ist, gegenüber dem Gläubiger
 einer dem Dauerwohnrecht im Range vorgehenden oder gleichstehenden
 Hypothek, Grundschuld, Rentenschuld oder Reallast wirksam sind. Für
 eine solche Vereinbarung gilt § 39 Abs. 2 entsprechend.
-
 
 ### § 41 Besondere Vorschriften für langfristige Dauerwohnrechte
 
@@ -1248,7 +1189,6 @@ Grundbuch zu bewilligen.
 angemessene Entschädigung zu gewähren, wenn er von dem
 Heimfallanspruch Gebrauch macht.
 
-
 ### § 42 Belastung eines Erbbaurechts
 
 (1) Die Vorschriften der §§ 31 bis 41 gelten für die Belastung eines
@@ -1256,10 +1196,7 @@ Erbbaurechts mit einem Dauerwohnrecht entsprechend.
 
 (2) Beim Heimfall des Erbbaurechts bleibt das Dauerwohnrecht bestehen.
 
-
 ## III. Teil - Verfahrensvorschriften
-
-
 
 ### § 43 Zuständigkeit
 
@@ -1294,10 +1231,6 @@ zuständig für
     Antragstellerin ist. Insoweit ist § 689 Abs. 2 der Zivilprozessordnung
     nicht anzuwenden.
 
-
-
-
-
 ### § 44 Bezeichnung der Wohnungseigentümer in der Klageschrift
 
 (1) Wird die Klage durch oder gegen alle Wohnungseigentümer mit
@@ -1314,7 +1247,6 @@ beteiligt, so sind die übrigen Wohnungseigentümer entsprechend Absatz
 1 von dem Kläger zu bezeichnen. Der namentlichen Bezeichnung der
 übrigen Wohnungseigentümer bedarf es nicht, wenn das Gericht von ihrer
 Beiladung gemäß § 48 Abs. 1 Satz 1 absieht.
-
 
 ### § 45 Zustellung
 
@@ -1339,7 +1271,6 @@ Ersatzzustellungsvertreter bestellt oder ist die Zustellung nach den
 Absätzen 1 und 2 aus sonstigen Gründen nicht ausführbar, kann das
 Gericht einen Ersatzzustellungsvertreter bestellen.
 
-
 ### § 46 Anfechtungsklage
 
 (1) Die Klage eines oder mehrerer Wohnungseigentümer auf Erklärung der
@@ -1354,7 +1285,6 @@ Zivilprozessordnung gelten entsprechend.
 ergibt, dass der Beschluss nichtig ist, so hat das Gericht darauf
 hinzuweisen.
 
-
 ### § 47 Prozessverbindung
 
 Mehrere Prozesse, in denen Klagen auf Erklärung oder Feststellung der
@@ -1362,7 +1292,6 @@ Ungültigkeit desselben Beschlusses der Wohnungseigentümer erhoben
 werden, sind zur gleichzeitigen Verhandlung und Entscheidung zu
 verbinden. Die Verbindung bewirkt, dass die Kläger der vorher
 selbständigen Prozesse als Streitgenossen anzusehen sind.
-
 
 ### § 48 Beiladung, Wirkung des Urteils
 
@@ -1391,7 +1320,6 @@ beigeladenen Verwalter.
 abgewiesen, so kann auch nicht mehr geltend gemacht werden, der
 Beschluss sei nichtig.
 
-
 ### § 49 Kostenentscheidung
 
 (1) Wird gemäß § 21 Abs. 8 nach billigem Ermessen entschieden, so
@@ -1400,7 +1328,6 @@ können auch die Prozesskosten nach billigem Ermessen verteilt werden.
 (2) Dem Verwalter können Prozesskosten auferlegt werden, soweit die
 Tätigkeit des Gerichts durch ihn veranlasst wurde und ihn ein grobes
 Verschulden trifft, auch wenn er nicht Partei des Rechtsstreits ist.
-
 
 ### § 50 Kostenerstattung
 
@@ -1411,28 +1338,19 @@ aus Gründen, die mit dem Gegenstand des Rechtsstreits zusammenhängen,
 eine Vertretung durch mehrere bevollmächtigte Rechtsanwälte geboten
 war.
 
-
 ### (XXXX) §§ 51 und 52 (weggefallen)
-
-
 
 ### (XXXX) §§ 53 bis 58 (weggefallen)
 
-
-
 ## IV. Teil - Ergänzende Bestimmungen
-
-
 
 ### § 59 (weggefallen)
 
 -
 
-
 ### § 60 (weggefallen)
 
 -
-
 
 ### § 61
 
@@ -1448,7 +1366,6 @@ Rechtsfolgen des § 878 Bürgerlichen Gesetzbuchs nicht entgegen. Die
 Sätze 1 und 2 gelten entsprechend in den Fällen der §§ 30 und 35 des
 Wohnungseigentumsgesetzes.
 
-
 ### § 62 Übergangsvorschrift
 
 (1) Für die am 1. Juli 2007 bei Gericht anhängigen Verfahren in
@@ -1463,7 +1380,6 @@ ihrer bis dahin geltenden Fassung weiter anzuwenden.
 Bestimmungen über die Nichtzulassungsbeschwerde (§ 543 Abs. 1 Nr. 2, §
 544 der Zivilprozessordnung) keine Anwendung, soweit die anzufechtende
 Entscheidung vor dem 31. Dezember 2014 verkündet worden ist.
-
 
 ### § 63 Überleitung bestehender Rechtsverhältnisse
 
@@ -1481,7 +1397,6 @@ anzunehmen.
 (3) Durch Landesgesetz können Vorschriften zur Überleitung
 bestehender, auf Landesrecht beruhender Rechtsverhältnisse in die
 durch dieses Gesetz geschaffenen Rechtsformen getroffen werden.
-
 
 ### § 64 Inkrafttreten
 

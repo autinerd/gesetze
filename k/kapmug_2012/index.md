@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 9 G v. 19.10.2012 I 2182
 
-
 ## Abschnitt 1 - Musterverfahrensantrag; Vorlageverfahren
-
 
 ### § 1 Anwendungsbereich
 
@@ -77,10 +75,6 @@ Vermögensanlagen betreffen. Dies sind insbesondere Angaben in
 6.  Angebotsunterlagen im Sinne des § 11 Absatz 1 Satz 1 des
     Wertpapiererwerbs- und Übernahmegesetzes.
 
-
-
-
-
 ### § 2 Musterverfahrensantrag
 
 (1) Durch Musterverfahrensantrag kann im ersten Rechtszug die
@@ -101,7 +95,6 @@ Entscheidung über die Feststellungsziele im Musterverfahren
 andere gleichgelagerte Rechtsstreitigkeiten zukommen kann.
 
 (4) Dem Antragsgegner ist Gelegenheit zur Stellungnahme zu geben.
-
 
 ### § 3 Zulässigkeit des Musterverfahrensantrags
 
@@ -168,7 +161,6 @@ Klageregister öffentlich bekannt zu machen, wenn die Voraussetzungen
 zur Einleitung eines Musterverfahrens nach § 6 Absatz 1 Satz 1 bereits
 vorliegen.
 
-
 ### § 4 Klageregister; Verordnungsermächtigung
 
 (1) Musterverfahrensanträge, deren Feststellungsziele den gleichen
@@ -200,15 +192,10 @@ die sicherstellen, dass die Bekanntmachungen
 
 2.  jederzeit ihrem Ursprung nach zugeordnet werden können.
 
-
-
-
-
 ### § 5 Unterbrechung des Verfahrens
 
 Mit der Bekanntmachung des Musterverfahrensantrags im Klageregister
 wird das Verfahren unterbrochen.
-
 
 ### § 6 Vorlage an das Oberlandesgericht; Verordnungsermächtigung
 
@@ -252,14 +239,12 @@ Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 Zuständigkeit eines Oberlandesgerichts für einzelne Bezirke oder für
 das gesamte Gebiet mehrerer Länder begründet werden.
 
-
 ### § 7 Sperrwirkung des Vorlagebeschlusses
 
 Mit Erlass des Vorlagebeschlusses ist die Einleitung eines weiteren
 Musterverfahrens für die gemäß § 8 Absatz 1 auszusetzenden Verfahren
 unzulässig. Ein gleichwohl ergangener Vorlagebeschluss ist nicht
 bindend.
-
 
 ### § 8 Aussetzung
 
@@ -296,9 +281,7 @@ Musterverfahren führt, unverzüglich über die Aussetzung zu
 unterrichten, wobei die Höhe des Anspruchs, soweit er von den
 Feststellungszielen des Musterverfahrens betroffen ist, anzugeben ist.
 
-
 ## Abschnitt 2 - Durchführung des Musterverfahrens
-
 
 ### § 9 Beteiligte des Musterverfahrens
 
@@ -342,7 +325,6 @@ Absatzes 2 bestimmen, wenn der Musterkläger das Musterverfahren nicht
 angemessen führt.
 
 (5) Musterbeklagte sind alle Beklagten der ausgesetzten Verfahren.
-
 
 ### § 10 Bekanntmachung des Musterverfahrens; Anmeldung eines Anspruchs
 
@@ -391,7 +373,6 @@ Bekanntmachung nach Absatz 1 zu belehren.
 
 (4) Die Anmeldung ist den darin bezeichneten Musterbeklagten
 zuzustellen.
-
 
 ### § 11 Allgemeine Verfahrensregeln; Verordnungsermächtigung
 
@@ -446,7 +427,6 @@ Bereich durch Rechtsverordnung bestimmen,
 Die Landesregierungen können die Ermächtigung durch Rechtsverordnung
 auf die Landesjustizverwaltungen übertragen.
 
-
 ### § 12 Vorbereitung des Termins; Schriftsätze
 
 (1) Zur Vorbereitung des Termins kann der Vorsitzende oder ein von ihm
@@ -460,7 +440,6 @@ mitgeteilt. Schriftsätze der Beigeladenen werden den übrigen
 Beigeladenen nicht mitgeteilt. Schriftsätze des Musterklägers und der
 Musterbeklagten werden den Beigeladenen nur mitgeteilt, wenn sie dies
 gegenüber dem Oberlandesgericht schriftlich beantragt haben.
-
 
 ### § 13 Wirkung von Rücknahmen; Verfahrensbeendigung
 
@@ -504,7 +483,6 @@ die Beendigung des Musterverfahrens durch Beschluss fest. Der
 Beschluss ist unanfechtbar und wird öffentlich bekannt gemacht. § 11
 Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 14 Rechtsstellung der Beigeladenen
 
 Die Beigeladenen müssen das Musterverfahren in der Lage annehmen, in
@@ -514,7 +492,6 @@ Verteidigungsmittel geltend zu machen und alle Prozesshandlungen
 wirksam vorzunehmen, soweit ihre Erklärungen und Handlungen mit
 Erklärungen und Handlungen des Musterklägers nicht in Widerspruch
 stehen.
-
 
 ### § 15 Erweiterung des Musterverfahrens
 
@@ -541,7 +518,6 @@ stellen.
 (2) Das Oberlandesgericht macht die Erweiterung des Musterverfahrens
 im Klageregister öffentlich bekannt.
 
-
 ### § 16 Musterentscheid
 
 (1) Das Oberlandesgericht erlässt auf Grund mündlicher Verhandlung den
@@ -553,7 +529,6 @@ gilt entsprechend.
 
 (2) Über die im Musterverfahren angefallenen Kosten entscheidet das
 Prozessgericht.
-
 
 ### § 17 Vergleichsvorschlag
 
@@ -583,10 +558,6 @@ enthalten:
 
 4.  die Verteilung der Kosten des Musterverfahrens auf die Beteiligten.
 
-
-
-
-
 ### § 18 Genehmigung des Vergleichs
 
 (1) Das Gericht genehmigt den Vergleich durch unanfechtbaren
@@ -597,7 +568,6 @@ Rechtsstreitigkeiten erachtet.
 
 (2) Nach der Genehmigung kann der Vergleich nicht mehr widerrufen
 werden.
-
 
 ### § 19 Bekanntmachung des Vergleichs; Austritt
 
@@ -611,7 +581,6 @@ kann vor der Geschäftsstelle zu Protokoll erklärt werden.
 (3) Die Beigeladenen sind über ihr Recht zum Austritt aus dem
 Vergleich, über die einzuhaltende Form und Frist sowie über die
 Wirkung des Vergleichs zu belehren.
-
 
 ### § 20 Rechtsbeschwerde
 
@@ -647,7 +616,6 @@ anzuwenden.
 und den Anmeldern zugestellt. Die Zustellung kann durch öffentliche
 Bekanntmachung ersetzt werden. § 11 Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 21 Musterrechtsbeschwerdeführer
 
 (1) Legt der Musterkläger Rechtsbeschwerde gegen den Musterentscheid
@@ -678,9 +646,7 @@ Beteiligten, die dem Rechtsbeschwerdeverfahren auf der Seite des
 Musterrechtsbeschwerdeführers beigetreten sind, es sei denn, diese
 verzichten ebenfalls auf die Fortführung der Rechtsbeschwerde.
 
-
 ## Abschnitt 3 - Wirkung des Musterentscheids und des Vergleichs; Kosten
-
 
 ### § 22 Wirkung des Musterentscheids
 
@@ -721,7 +687,6 @@ wieder aufgenommen.
 (5) Der Musterentscheid wirkt auch für und gegen die Beteiligten, die
 dem Rechtsbeschwerdeverfahren nicht beigetreten sind.
 
-
 ### § 23 Wirkung des Vergleichs
 
 (1) Das Oberlandesgericht stellt durch unanfechtbaren Beschluss fest,
@@ -745,7 +710,6 @@ hören.
 das Verfahren auf seinen Antrag wieder eröffnet. Wird die Klage
 nunmehr auf Erfüllung des Vergleichs gerichtet, ist die Klageänderung
 zulässig.
-
 
 ### § 24 Gegenstand der Kostenentscheidung im Ausgangsverfahren
 
@@ -772,7 +736,6 @@ zurückgenommen worden ist.
 
 (4) § 96 der Zivilprozessordnung gilt entsprechend.
 
-
 ### § 25 Verstoß gegen die Vorlagevoraussetzungen an das Oberlandesgericht
 
 Das Rechtsmittel gegen die verfahrensabschließende Entscheidung des
@@ -780,7 +743,6 @@ Prozessgerichts im Ausgangsverfahren kann nicht darauf gestützt
 werden, dass das Oberlandesgericht für den Erlass eines
 Musterentscheids nicht zuständig gewesen ist oder die Voraussetzungen
 für den Erlass eines Vorlagebeschlusses nicht vorgelegen haben.
-
 
 ### § 26 Kostenentscheidung im Rechtsbeschwerdeverfahren
 
@@ -817,14 +779,12 @@ erstatten, der sich aus den von ihnen in ihren eigenen
 Ausgangsverfahren geltend gemachten Ansprüchen, soweit sie von den
 Feststellungszielen des Musterverfahrens betroffen sind, ergibt.
 
-
 ### § 27 Übergangsvorschrift
 
 Auf Musterverfahren, in denen vor dem 1. November 2012 bereits
 mündlich verhandelt worden ist, ist das Kapitalanleger-
 Musterverfahrensgesetz in seiner bis zum 1. November 2012 geltenden
 Fassung weiterhin anzuwenden.
-
 
 ### § 28 Außerkrafttreten
 

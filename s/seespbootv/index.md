@@ -42,10 +42,7 @@ von Sportbooten wird die Richtlinie 94/25/EG durch die Verordnung über
 das Inverkehrbringen von Sportbooten vom 18. Dezember 1995 (BGBl. I
 S. 1936) umgesetzt.
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Geltungsbereich
 
@@ -86,7 +83,6 @@ Selbstkontrolle, die besonderen Regelungen bei internationalem
 schiffsbezogenen Sicherheitsstandard, den Sicherheitsstandard in
 besonderen Fällen und die Überwachung von Funkstellen sowie
 Verhaltenspflichten bleiben unberührt.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -156,10 +152,7 @@ Sportseeschifferscheinverordnung in der Fassung der Bekanntmachung vom
 Verordnung vom 7. April 2010 (BGBl. I S. 399) geändert worden ist, in
 der jeweils geltenden Fassung anzuwenden.
 
-
 ## Abschnitt 2 - Inbetriebnahme von Sportbooten oder Wassermotorrädern
-
-
 
 ### § 3 CE-Kennzeichnung
 
@@ -173,7 +166,6 @@ Artikel 20 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178)
 geändert worden ist, kennzeichnungspflichtig sind, dürfen sie nur in
 Betrieb genommen werden, wenn sie mit der CE-Kennzeichnung im Sinne
 des § 4 Abs. 1 und 2 der vorgenannten Verordnung versehen sind.
-
 
 ### § 4 Kennzeichnung von Wassermotorrädern im Inland
 
@@ -197,10 +189,7 @@ zulässig.
 Verordnung über die Kennzeichnung von auf Binnenschifffahrtsstraßen
 verkehrenden Kleinfahrzeugen entsprechend.
 
-
 ## Abschnitt 3 - Vermietung von Sportbooten oder Wassermotorrädern im Inland
-
-
 
 ### § 5 Bootszeugnis
 
@@ -239,7 +228,6 @@ hat oder in dem sich die Betriebsstätte des Unternehmers befindet.
 
 (6) Für Sportboote oder Wassermotorräder, die nicht vermietet werden,
 kann auf Antrag ein Bootszeugnis erteilt werden.
-
 
 ### § 6 Zulassungsverfahren
 
@@ -326,7 +314,6 @@ eine entsprechende Versicherung zu enthalten.
 (7) Die Zulassungsbehörde kann im Einzelfall Unterlagen zum Nachweis
 der Angaben nach den Absätzen 4 und 6 verlangen.
 
-
 ### § 7 Vermietung
 
 Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
@@ -344,10 +331,6 @@ Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 
 4.  die in dem Bootszeugnis nach Nummer 2 vorgeschriebene Ausrüstung an
     Bord hat.
-
-
-
-
 
 ### § 8 Amtliche Kennzeichen
 
@@ -377,7 +360,6 @@ I S. 2785), in der jeweils geltenden Fassung.
 Inbetriebnahme deutlich sicht- und lesbar Name und Wohnsitz oder Sitz
 des Unternehmers dauerhaft anbringen.
 
-
 ### § 9 Unterhaltung
 
 (1) Der Unternehmer hat das Sportboot oder Wassermotorrad und seine
@@ -405,7 +387,6 @@ diesem Fall die Untersuchungsbescheinigung der See-
 Berufsgenossenschaft oder der anerkannten Klassifikationsgesellschaft
 beizufügen. § 6 Abs. 3 Satz 2 und 3 ist entsprechend anzuwenden.
 
-
 ### § 10 Besichtigung der Betriebsstätte und der Sportboote oder Wassermotorräder
 
 (1) Der Unternehmer hat die Betriebsstätte, an der er Sportboote oder
@@ -426,7 +407,6 @@ erteilen und Unterlagen vorzulegen.
 vermietet, hat der Zulassungsbehörde vor Aufnahme des Betriebes seine
 Anschrift und den Liegeplatz des Sportbootes mit der Angabe des
 Hafens, der Brücke und der Nummer des Liegeplatzes anzuzeigen.
-
 
 ### § 11 Pflichten des Unternehmers
 
@@ -508,7 +488,6 @@ geeignetes fahrbereites motorisiertes Boot und einen Rettungsring mit
 einer Tragfähigkeit von mindestens 14,5 Kilogramm bereitzuhalten. Dies
 gilt nicht im Falle des § 10 Abs. 2.
 
-
 ### § 12 Pflichten der Mieter und Bootsführer
 
 (1) Ein Mieter darf ein Sportboot oder Wassermotorrad nicht Personen
@@ -540,7 +519,6 @@ dass bei einsetzendem Nebel, Sturm oder aufziehendem Gewitter das
 Sportboot sofort zur Betriebsstätte zurückkehrt oder, soweit dies
 nicht möglich ist, an einer geschützten Stelle des Ufers anlegt.
 
-
 ### § 13 Beschränkungen und Ausnahmen
 
 Wenn die örtlichen Verhältnisse der Gewässer oder die Sicherheit und
@@ -550,10 +528,7 @@ Schifffahrtsdirektion auch durch allgemeine Anordnungen, für
 Unternehmer, Mieter und Bootsführer Verbote und Gebote erlassen oder
 Ausnahmen zulassen.
 
-
 ## Abschnitt 4 - Gewerbsmäßige Nutzung von Sportbooten im Inland
-
-
 
 ### § 14 Sicherheitszeugnis
 
@@ -573,7 +548,6 @@ Schiffssicherheitsverordnung 1997 (Richtlinie für
 Ausbildungsfahrzeuge) vom 25. August 1997 (VkBl. 1997 S. 572) ist für
 Sportboote, die für ähnliche Sport- und Freizeitzwecke im Sinne des §
 2 Nr. 6 gewerbsmäßig genutzt werden, entsprechend anzuwenden.
-
 
 ### § 15 Fahrerlaubnis
 
@@ -613,10 +587,7 @@ Sportboote entsprechend ihrer Antriebsart mindestens die sich aus der
 Anlage 4 ergebende Besetzung mit Inhabern von Fahrerlaubnissen nach
 Absatz 1 haben.
 
-
 ## Abschnitt 5 - Schlussvorschriften für Sportboote und Wassermotorräder im Inland
-
-
 
 ### § 16 Ordnungswidrigkeiten
 
@@ -748,7 +719,6 @@ Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
 Schifffahrtsdirektionen Nord und Nordwest jeweils für ihren Bezirk
 übertragen.
 
-
 ### § 17 Überwachung
 
 Für die Überwachung der §§ 3 bis 15 dieser Verordnung sind die
@@ -759,10 +729,7 @@ zwischen dem Bund und den Ländern über die Ausübung
 schifffahrtspolizeilicher Vollzugsaufgaben (§ 20 Abs. 1 Nr. 5 des
 Seeaufgabengesetzes) sowie der Bundespolizei und der Zollverwaltung.
 
-
 ## Abschnitt 6 - Sportboote unter deutscher Flagge im Ausland
-
-
 
 ### § 18 Vermietung im Ausland
 
@@ -793,7 +760,6 @@ anerkannten Klassifikationsgesellschaft durchgeführt werden.
 der jeweilige Staat für Sportboote unter deutscher Flagge ein eigenes
 Sicherheitszeugnis vorschreibt.
 
-
 ### § 19 Gewerbsmäßige Nutzung im Ausland
 
 (1) Für Sportboote unter deutscher Flagge, die im Ausland gewerbsmäßig
@@ -808,7 +774,6 @@ Buchstabe d der Verordnung über Seefunkzeugnisse oder das Beschränkt
 Gültige Funkbetriebszeugnis (SRC) im Sinne des Abschnitts A Nr. 1
 Buchstabe b Doppelbuchstabe bb der Anlage 3 zu § 13 Abs. 4a der
 Schiffssicherheitsverordnung.
-
 
 ### Anlage 1 (zu § 5)
 
@@ -1312,13 +1277,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 
         +++) baumustergeprüft
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 6 Abs. 1) Untersuchungsumfang
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3467
@@ -1448,7 +1406,6 @@ Merkmale:
 Die in dem Bootszeugnis vorzuschreibende Mindestausrüstung richtet
 sich nach den Sicherheitsrichtlinien der Kreuzer-Abteilung des
 Deutschen Segler-Verbandes in der jeweils neuesten Fassung.
-
 
 ### Anlage 3 (zu § 6 Abs. 2)
 
@@ -1989,7 +1946,6 @@ I
 \*) erforderlich, wenn ausgefüllt
 ++) Prüfungsnachweis
 +++) baumustergeprüft
-
 
 ### Anlage 4 (zu § 15 Abs. 2) Besetzung von gewerbsmäßig genutzten Sportbooten
 

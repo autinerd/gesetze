@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 V v. 20.12.2005 I 3499
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 Nr. 1 und des § 79 Abs. 1 Nr. 2 in
 Verbindung mit den §§ 18 und 20 Abs. 1 bis 3 sowie den §§ 22 und 30
 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 28. März
 1980 (BGBl. I S. 386) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -43,7 +41,6 @@ verbracht werden. Fleisch von Schweinen aus Betrieben oder sonstigen
 Standorten im Sperrbezirk darf nur mit Genehmigung der zuständigen
 Behörde aus dem Sperrbezirk verbracht werden.
 
-
 ## § 2
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn
@@ -51,7 +48,6 @@ die Ansteckende Schweinelähmung erloschen ist.
 
 (2) Für das Erlöschen der Ansteckenden Schweinelähmung gilt § 29 Abs.
 1 Satz 1, Abs. 2 und 3 der MKS-Verordnung sinngemäß.
-
 
 ## § 3
 
@@ -65,12 +61,10 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 § 1 Abs. 2 Satz 1 Schweine oder entgegen § 1 Abs. 2 Satz 2 Fleisch
 ohne Genehmigung aus dem Sperrbezirk verbringt.
 
-
 ## § 4
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
-
 
 ## Schlußformel
 

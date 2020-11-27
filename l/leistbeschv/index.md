@@ -16,21 +16,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1962, 725
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Satz 3 des Bundesleistungsgesetzes in der
 Fassung vom 27. September 1961 (Bundesgesetzbl. I S. 1769) verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Sachverständige Stellen der gewerblichen Wirtschaft im Sinne des § 3
 Abs. 3 Satz 3 des Bundesleistungsgesetzes sind die Industrie- und
 Handelskammern und die Handwerkskammern.
-
 
 ## § 2
 
@@ -52,10 +48,6 @@ b)  die Versorgung der Bevölkerung oder der Streitkräfte mit Gütern und
     Leistungen oder die notwendige Lagerhaltung und Bevorratung gefährdet
     werden.
 
-
-
-
-
 ## § 3
 
 Für die Durchführung der in § 2 bezeichneten Aufgaben ist diejenige
@@ -63,7 +55,6 @@ Industrie- und Handelskammer oder Handwerkskammer zuständig, in deren
 Bezirk das Unternehmen, das zu einer Leistung herangezogen wurde oder
 werden soll, seinen Sitz oder eine gewerbliche Niederlassung,
 Betriebstätte oder Verkaufsstelle hat.
-
 
 ## § 4
 

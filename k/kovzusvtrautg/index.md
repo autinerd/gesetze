@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1970, 197
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -34,7 +31,6 @@ Kriegsopferversorgung und Beschäftigung
 Schwerbeschädigter              (Bundesgesetzbl. 1964 II S. 220) wird
 zugestimmt. Der Zusatzvertrag wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6 Abs.
@@ -43,11 +39,9 @@ Verwaltungsbehörden mit der Bestätigung ihrer Vollstreckbarkeit zu
 versehen haben, werden die Landesversorgungsämter und in Fällen der
 Berufsförderung die Hauptfürsorgestellen bestimmt.
 
-
 ## Art 3
 
 -
-
 
 ## Art 4
 
@@ -58,12 +52,10 @@ Mittelberg (politischer Bezirk Bregenz) der Republik Österreich haben,
 erhalten Versorgung wie Berechtigte mit Wohnsitz oder gewöhnlichem
 Aufenthalt im Gebiet der Bundesrepublik Deutschland.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

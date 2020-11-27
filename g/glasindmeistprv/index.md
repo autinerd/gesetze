@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -28,7 +27,6 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, und unter
 Berücksichtigung des § 28 des Ausbildungsplatzförderungsgesetzes vom
 7\. September 1976 (BGBl. I S. 2658) wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -78,7 +76,6 @@ und Ausführung in dem ihm übertragenen Aufgabenbereich wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Industriemeister - Fachrichtung Glas.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Industriemeisterprüfung ist zuzulassen, wer
@@ -103,7 +100,6 @@ nachweist.
 zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere
 Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen
 erworben hat, die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Gliederung und Inhalt der Prüfung
 
@@ -134,7 +130,6 @@ vergleichbare Prüfung vor einer öffentlichen oder staatlich
 anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn
 der letzten Prüfungsleistung zu erbringen.
-
 
 ## § 4 Fachrichtungsübergreifender Teil
 
@@ -349,7 +344,6 @@ dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der
 mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst.
 Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt
 gewichtet.
-
 
 ## § 5 Fachrichtungsspezifischer Teil der Fachrichtung Glas
 
@@ -634,7 +628,6 @@ schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer ist auf Antrag von der Ablegung einzelner
@@ -644,7 +637,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuss erfolgreich abgelegt wurde und die Anmeldung zur
 Fortbildungsprüfung innerhalb von fünf Jahren nach der Bekanntgabe des
 Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bestehen der Prüfung
 
@@ -669,7 +661,6 @@ Im Fall der Freistellung nach § 6 sind - anstelle der Noten - Ort,
 Datum sowie Bezeichnung des Prüfungsgremiums der anderweitig
 abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -685,22 +676,18 @@ Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen
 zu wiederholen. In diesem Fall wird das letzte Ergebnis
 berücksichtigt.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1980 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage
 
@@ -772,7 +759,6 @@ Der Prüfungsteilnehmer hat nach § 3 Absatz 3 den Nachweis
 über den Erwerb der berufs- und arbeitspädagogischen
 Eignung durch die Prüfung am .......... in ..........
 vor .......... erbracht.
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

@@ -19,19 +19,14 @@ Fundstelle
 Geändert durch
 :   Art. 57 G v. 19.2.2006 I 334
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 - Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
 
-
-
 ## (XXXX) §§ 1 bis 5 (weggefallen)
-
 
 ## § 6
 
@@ -58,38 +53,27 @@ Beamtenversorgungsgesetzes. Satz 1 gilt entsprechend in den Fällen des
 § 55c Abs. 2 Satz 2 und des § 55d Abs. 2 Satz 1 des
 Soldatenversorgungsgesetzes.
 
-
 ## Art 2 - Sonstige Änderungen des Besoldungsrechts
-
-
 
 ## (XXXX) §§ 1 und 2 (weggefallen)
 
 -
 
-
 ## § 3 (weggefallen)
 
 -
 
-
 ## Art 3 bis 9 -
 
-
-
 ## Art 10 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
 -
 
-
 ## § 2 (weggefallen)
 
 (weggefallen)
-
 
 ## § 3 Rückkehr zum einheitlichen Verordnungsrang
 
@@ -98,11 +82,9 @@ beruhenden Teile der dort geänderten Verordnungen können auf Grund der
 jeweils einschlägigen Ermächtigung in Verbindung mit dieser Vorschrift
 durch Verordnung geändert oder aufgehoben werden.
 
-
 ## § 4
 
 -
-
 
 ## § 5 Inkrafttreten
 
@@ -117,12 +99,10 @@ Stellenumwandlungen können in den jeweiligen Besoldungsgruppen zu
 einem Viertel im Jahr 1992 und zu je einem weiteren Viertel in den
 Folgejahren vorgenommen werden.
 
-
 ## Schlußformel
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113
 des Grundgesetzes erforderliche Zustimmung erteilt.
-
 
 ## Anlagen 1 bis 3i, 4 und 5
 

@@ -18,15 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 30.6.1989 I 1290
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 3 (weggefallen)
-
 
 ## Art 4 Übergangsvorschrift
 
@@ -41,11 +38,9 @@ Kriegsdienstverweigerer anerkannt worden sind, leisten abweichend von
 § 24 Abs. 2 des Zivildienstgesetzes einen Zivildienst von sechzehn
 Monaten.
 
-
 ## Art 5
 
 -
-
 
 ## Art 6 Schlußvorschriften
 

@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 Abs. 24 G v. 7.7.2005 I 1970
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Satz 3 des Postgesetzes vom 22. Dezember 1997 (BGBl.
@@ -28,7 +27,6 @@ Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S.
 821) verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium des Innern, dem
 Bundesministerium der Finanzen und dem Bundesministerium der Justiz:
-
 
 ## § 1 Gebühren
 
@@ -54,7 +52,6 @@ erhoben. Dies gilt auch, wenn der Lizenznehmer seinen Verzicht vor der
 Verkündung der Verordnung erklärt und die Lizenzurkunde zurückgegeben
 hat.
 
-
 ## § 2 Gebührenhöhe
 
 (1) Die Gebühr für die Erteilung einer Lizenz zur Beförderung von
@@ -63,11 +60,9 @@ Briefsendungen beträgt mindestens 175 Euro und höchstens 700 Euro.
 (2) Die Gebühr für die Zustimmung zur Übertragung einer Lizenz beträgt
 50 Prozent der nach Absatz 1 festgesetzten Gebühr.
 
-
 ## § 3 Anrechnung von Auslagen
 
 Auslagen sind in die Gebühren einbezogen.
-
 
 ## § 4 Inkrafttreten
 

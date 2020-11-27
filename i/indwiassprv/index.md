@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 1571
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -26,7 +24,6 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, und unter
 Berücksichtigung des § 28 des Ausbildungsplatzförderungsgesetzes vom
 7\. September 1976 (BGBl. I S. 2658), wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft verordnet:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -53,7 +50,6 @@ Aufgaben als Wirtschaftsassistent - Industrie wahrzunehmen:
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß
 Geprüfter Wirtschaftsassistent - Industrie.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer eine erfolgreich abgelegte
@@ -70,7 +66,6 @@ Zulassung zur Prüfung rechtfertigen.
 wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, daß er Kenntnisse und Fertigkeiten erworben hat, die die
 Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 3 Inhalt und Dauer der Prüfung
 
@@ -126,7 +121,6 @@ letzten Prüfungsteil spätestens ein Jahr nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen. Die mündliche Prüfung gemäß den
 Absätzen 5 und 6 ist in einem Prüfungstermin nach der letzten
 schriftlichen Prüfung durchzuführen.
-
 
 ## § 4 Industriebetriebslehre einschließlich Rechtsfragen
 
@@ -297,13 +291,6 @@ geprüft werden:
 
     f)  Organisationsmethodik.
 
-
-
-
-
-
-
-
 ## § 5 Rechnungswesen und Finanzwirtschaft einschließlich Rechtsfragen, automatisierte Datenverarbeitung, Mathematik und Statistik
 
 (1) Im Prüfungsteil "Rechnungswesen und Finanzwirtschaft
@@ -464,13 +451,6 @@ Statistik" können geprüft werden:
 
     g)  Methoden des Operations Research.
 
-
-
-
-
-
-
-
 ## § 6 Volkswirtschaftslehre und Fremdsprache
 
 (1) Im Prüfungsteil "Volkswirtschaftslehre und Fremdsprache" ist in
@@ -527,7 +507,6 @@ staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
 Prüfungsausschuß eine Prüfung bestanden hat, deren Inhalt den
 Anforderungen des Absatzes 3 entspricht.
 
-
 ## § 7 Bestehen der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in den
@@ -547,7 +526,6 @@ Abschlußarbeit hervorgehen müssen. Im Falle der Freistellung nach § 6
 Abs. 4 sind - anstelle der Note - Ort, Datum und Bezeichnung des
 Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt
@@ -560,22 +538,18 @@ und er sich innerhalb von zwei Jahren, gerechnet vom Tag der
 Beendigung der nichtbestandenen Prüfung an, zur Wiederholungsprüfung
 anmeldet.
 
-
 ## § 9 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. September 1977 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
-
 
 ## Anlage 1
 
@@ -604,7 +578,6 @@ Datum
 Unterschrift
 .................................................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2
 
@@ -664,7 +637,6 @@ Datum
 Unterschrift
 .................................................................
 (Siegel der zuständigen Stelle)
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

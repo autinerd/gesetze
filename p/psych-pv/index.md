@@ -22,17 +22,13 @@ Geändert durch
 V aufgeh. durch
 :   Art. 7 G v. 21.7.2012 I 1613 mWv 1.1.2017
 
-
 ## Eingangsformel
 
 Auf Grund des § 16 Satz 1 in Verbindung mit § 19 Abs. 2 des
 Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom
 23\. Dezember 1985 (BGBl. 1986 I S. 33) verordnet die Bundesregierung:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -59,7 +55,6 @@ soweit auf sie die Pflegesatzvorschriften des
 Krankenhausfinanzierungsgesetzes und die Bundespflegesatzverordnung
 Anwendung finden.
 
-
 ### § 2 Pflegesatzvereinbarung
 
 (1) Die in § 18 Abs. 2 des Krankenhausfinanzierungsgesetzes genannten
@@ -71,7 +66,6 @@ zugrunde zu legen.
 
 (2) Die sonstigen Vorschriften der Bundespflegesatzverordnung für die
 Vereinbarung des Budgets und der Pflegesätze bleiben unberührt.
-
 
 ### § 3 Grundsätze
 
@@ -127,10 +121,7 @@ Leistungsfähigkeit oder Wirtschaftlichkeit erforderlich oder
 ausreichend ist. Die Notwendigkeit einer Abweichung ist in der
 Pflegesatzvereinbarung zu begründen.
 
-
 ## Zweiter Abschnitt - Psychiatrische Einrichtungen für Erwachsene
-
-
 
 ### § 4 Behandlungsbereiche
 
@@ -265,7 +256,6 @@ Bundespflegesatzverordnung Rahmenvereinbarungen, die
 
 
 § 19 Abs. 1 der Bundespflegesatzverordnung gilt entsprechend.
-
 
 ### § 5 Minutenwerte
 
@@ -569,7 +559,6 @@ vermindern ist. Station im Sinne des Satzes 1 ist eine eigenständige
 bauliche und organisatorische Einheit, die alle für einen
 Stationsbetrieb erforderlichen Funktionen umfaßt.
 
-
 ### § 6 Ermittlung der Personalstellen
 
 (1) Die Personalstellen für eine psychiatrische Einrichtung werden
@@ -595,7 +584,6 @@ das der Verordnung zugrundeliegende therapeutische Konzept erfüllt
 wird und die nach dieser Verordnung vereinbarten Personalkosten nicht
 überschritten werden.
 
-
 ### § 7 Leitungskräfte
 
 (1) Die Personalbemessung für leitende Ärzte richtet sich nach der
@@ -609,10 +597,7 @@ errechneten Zahl der leitenden Ärzte nach Absatz 1.
 
 (3) § 3 Abs. 4 gilt entsprechend.
 
-
 ## Dritter Abschnitt - Einrichtungen für die Kinder- und Jugendpsychiatrie
-
-
 
 ### § 8 Behandlungsbereiche
 
@@ -648,7 +633,6 @@ folgenden Behandlungsbereichen zugeordnet:
 
 
 § 4 Abs. 2 bis 4 gilt entsprechend.
-
 
 ### § 9 Minutenwerte
 
@@ -806,10 +790,7 @@ entsprechend.
 Personalbemessung für leitende Ärzte sowie für Leitungskräfte des
 Pflege- und Erziehungsdienstes § 7 entsprechend.
 
-
 ## Vierter Abschnitt - Schlußvorschriften
-
-
 
 ### § 10 Inkrafttreten und Übergangsvorschriften
 
@@ -844,11 +825,9 @@ vorauskalkuliert entstanden, sind Budgetanteile in Höhe der nicht
 entstandenen Personalkosten zu erstatten. Der Erstattungsbetrag ist
 über das Budget des folgenden Pflegesatzzeitraums zu verrechnen.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 4 Abs. 1)
 
@@ -1214,15 +1193,7 @@ Der Bundesrat hat zugestimmt.
             teilstationären Status auf der Station, die ihn auch vollstationär
             behandeln würde.
 
-
-
-
-
-
-
-
 ### Anlage 2 (zu § 8)
-
 
 ## Einrichtungen für Kinder- und Jugendpsychiatrie Inhaltliche
 Beschreibung der aufgabentypischen Schwerpunkte

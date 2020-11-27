@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 26.6.2012 I 1375
 
-
 ## Kapitel 1 - Allgemeine Bestimmungen
 
-
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 1 Anwendungsbereich
 
@@ -60,7 +55,6 @@ Investmentvermögen im Sinne des Satzes 1 sind Vermögen zur
 gemeinschaftlichen Kapitalanlage, die nach dem Grundsatz der
 Risikomischung in Vermögensgegenständen im Sinne des § 2 Abs. 4
 angelegt sind.
-
 
 #### § 2 Begriffsbestimmungen
 
@@ -393,7 +387,6 @@ Medium, das den Anlegern gestattet, Informationen für eine ihrem Zweck
 angemessene Dauer zu speichern, einzusehen und unverändert
 wiederzugeben.
 
-
 #### § 2a Inhaber bedeutender Beteiligungen
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen
@@ -481,7 +474,6 @@ sowie über die Unterlagen, die mit der Anzeige vorzulegen sind. Es
 kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 übertragen.
 
-
 #### § 3 Bezeichnungsschutz
 
 (1) Die Bezeichnung "Kapitalanlagegesellschaft", Investmentvermögen,
@@ -510,7 +502,6 @@ vorschreiben, wenn die Gefahr einer Verwechslung besteht.
 (4) Die §§ 42 und 43 des Kreditwesengesetzes sind entsprechend
 anzuwenden.
 
-
 #### § 4 Namensgebung, Fondskategorien
 
 (1) Die Bezeichnung des Sondervermögens oder der
@@ -520,7 +511,6 @@ Investmentaktiengesellschaft darf nicht irreführen.
 festlegen, welcher Fondskategorie das Investmentvermögen nach den
 Vertragsbedingungen, insbesondere nach den dort genannten
 Anlagegrenzen, oder der Satzung entspricht.
-
 
 #### § 5 Aufsicht, Anordnungsbefugnis
 
@@ -578,7 +568,6 @@ Nebendienstleistungen im Sinne des § 7 Abs. 2 Nr. 1, 3 und 4 erbringt,
 gelten die §§ 31 bis 31b, § 31d sowie die §§ 33 bis 34a des
 Wertpapierhandelsgesetzes entsprechend.
 
-
 #### § 5a Besondere Aufgaben
 
 § 6a des Kreditwesengesetzes findet entsprechend Anwendung, wenn
@@ -590,7 +579,6 @@ Verbindung mit § 129b des Strafgesetzbuches dienen oder im Falle der
 Durchführung einer Finanztransaktion dienen würden. Widerspruch und
 Anfechtungsklage gegen die Maßnahmen der Bundesanstalt haben keine
 aufschiebende Wirkung.
-
 
 #### § 5b Verschwiegenheitspflicht
 
@@ -606,10 +594,7 @@ verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit
 beendet ist; § 9 des Kreditwesengesetzes findet entsprechend
 Anwendung.
 
-
 ### Abschnitt 2 - Kapitalanlagegesellschaften
-
-
 
 #### § 6 Kapitalanlagegesellschaften
 
@@ -654,7 +639,6 @@ Vorschriften des Betriebsverfassungsgesetzes gewählt werden.
 (5) § 24c und die §§ 25c bis 25h des Kreditwesengesetzes und § 93 Abs.
 7 und 8 in Verbindung mit § 93b der Abgabenordnung gelten für die
 Kapitalanlagegesellschaften entsprechend.
-
 
 #### § 7 Erlaubnis zum Geschäftsbetrieb
 
@@ -726,7 +710,6 @@ werden.
 (5) Die Kapitalanlagegesellschaft hat der Bundesanstalt
 Satzungsänderungen unverzüglich anzuzeigen.
 
-
 #### § 7a Erlaubnisantrag und Erlaubniserteilung
 
 (1) Der Erlaubnisantrag muss enthalten:
@@ -773,7 +756,6 @@ Entschädigungseinrichtung mitzuteilen, der sie zugeordnet ist.
 (4) Die Bundesanstalt hat die Erteilung der Erlaubnis im
 Bundesanzeiger bekannt zu machen.
 
-
 #### § 7b Versagung der Erlaubnis
 
 Die Erlaubnis ist zu versagen, wenn
@@ -818,10 +800,6 @@ Die Erlaubnis ist zu versagen, wenn
     Betreiben der Geschäfte, für die sie die Erlaubnis beantragt, zu
     schaffen.
 
-
-
-
-
 #### § 8 Anhörung der zuständigen Stellen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum; Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz in einem Drittstaat
 
 (1) Soll eine Erlaubnis für die in § 7 genannten Geschäfte einer
@@ -853,7 +831,6 @@ Stellen des Herkunftsstaates anzuhören.
 Entscheidung über einen Antrag auf Erlaubnis von
 Verwaltungsgesellschaften mit Sitz in einem Drittstaat oder die
 Beschränkung dieser Erlaubnis entsprechend anzuwenden.
-
 
 #### § 9 Allgemeine Verhaltensregeln
 
@@ -973,7 +950,6 @@ erlassen
 Das Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 #### § 9a Organisationspflichten
 
 (1) Die Kapitalanlagegesellschaft muss über eine ordnungsgemäße
@@ -1044,11 +1020,9 @@ Kapitalanlagegesellschaft Feederfonds oder Masterfonds verwaltet, zu
 erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung
 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 #### § 10 (weggefallen)
 
 -
-
 
 #### § 11 Kapitalanforderungen
 
@@ -1099,7 +1073,6 @@ entsprechend anzuwenden.
 oder Mindestzahlungszusagen nach § 7 Abs. 2 Nr. 6a abgegeben, ist
 insoweit § 10 Abs. 1 Satz 1 des Kreditwesengesetzes entsprechend
 anzuwenden.
-
 
 #### § 12 Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr
 
@@ -1222,7 +1195,6 @@ einem Drittstaat entsprechend anzuwenden sind, soweit dies im Bereich
 des Niederlassungsrechts auf Grund von Abkommen der Europäischen Union
 mit Drittstaaten erforderlich ist.
 
-
 #### § 12a Besonderheiten für die Verwaltung von EU-Investmentvermögen durch Kapitalanlagegesellschaften
 
 (1) Beabsichtigt eine Kapitalanlagegesellschaft über eine
@@ -1274,7 +1246,6 @@ die Artikel 19 Absatz 3 und 4 der Richtlinie 2009/65/EG umsetzen,
 entsprechend anzuwenden. Soweit diese Tätigkeit über eine
 Zweigniederlassung ausgeübt wird, ist § 9 Absatz 2 in Verbindung mit
 einer Rechtsverordnung nach § 9 Absatz 5 nicht anzuwenden.
-
 
 #### § 13 Inländische Zweigniederlassungen und grenzüberschreitender Dienstleistungsverkehr von EU-Verwaltungsgesellschaften
 
@@ -1399,7 +1370,6 @@ Abs. 2 des Verwaltungsverfahrensgesetzes über die Grenzen der
 Amtshilfe gilt entsprechend. Die Verwaltungsgesellschaften im Sinne
 des Absatzes 1 Satz 1 haben die Prüfung zu dulden.
 
-
 #### § 13a Besonderheiten für die Verwaltung richtlinienkonformer Sondervermögen durch EU-Verwaltungsgesellschaften
 
 (1) Beabsichtigt eine EU-Verwaltungsgesellschaft über eine
@@ -1475,7 +1445,6 @@ Anforderungen nach § 13 Absatz 4 die §§ 20 bis 65, 121, 127, 128 und
 „Kapitalanlagegesellschaft“ das Wort „EU-Verwaltungsgesellschaft“
 tritt.
 
-
 #### § 14 Verwaltungsgesellschaften mit Sitz in einem Drittstaat
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -1515,7 +1484,6 @@ Rechtsverordnung
 
 
 Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
-
 
 #### § 15 Meldungen an die Europäische Kommission und die Europäische Wertpapier- und Marktaufsichtsbehörde
 
@@ -1566,7 +1534,6 @@ Marktaufsichtsbehörde unverzüglich zu melden. Ferner hat die
 Bundesanstalt die Europäische Wertpapier- und Marktaufsichtsbehörde
 über jede erteilte Erlaubnis nach § 7 Absatz 1 zu unterrichten.
 
-
 #### § 16 Auslagerung
 
 (1) Die Aufgaben, die für die Durchführung der Geschäfte der
@@ -1614,7 +1581,6 @@ sind in dem Verkaufsprospekt nach § 42 Absatz 1 aufzulisten.
 sind der Bundesanstalt sämtliche in dem jeweiligen Geschäftsjahr
 bestehenden Auslagerungen unverzüglich und gesammelt anzuzeigen.
 
-
 #### § 17 Erlöschen und Aufhebung der Erlaubnis
 
 (1) Die Erlaubnis erlischt, wenn die Kapitalanlagegesellschaft
@@ -1661,7 +1627,6 @@ des Verwaltungsverfahrensgesetzes aufheben, wenn
 
 Widerspruch und Anfechtungsklage haben keine aufschiebende Wirkung.
 
-
 #### § 17a Abberufung von Geschäftsleitern; Übertragung von Organbefugnissen auf Sonderbeauftragte
 
 (1) In den Fällen des § 17 Abs. 2 kann die Bundesanstalt statt der
@@ -1678,13 +1643,11 @@ genügen; Widerspruch und Anfechtungsklage haben keine aufschiebende
 Wirkung. § 45c Absatz 6 und 7 des Kreditwesengesetzes findet
 entsprechend Anwendung.
 
-
 #### § 17b Folgen der Aufhebung und des Erlöschens der Erlaubnis; Maßnahmen bei der Abwicklung
 
 § 38 des Kreditwesengesetzes findet entsprechend Anwendung, wenn die
 Bundesanstalt die Erlaubnis der Kapitalanlagegesellschaft aufhebt oder
 die Erlaubnis erlischt.
-
 
 #### § 17c Einschreiten gegen ungesetzliche Geschäfte
 
@@ -1695,7 +1658,6 @@ gegenüber der Kapitalanlagegesellschaft und den Mitgliedern ihrer
 Organe anordnen; § 37 des Kreditwesengesetzes findet entsprechend
 Anwendung. Widerspruch und Anfechtungsklage gegen die Maßnahmen der
 Bundesanstalt haben keine aufschiebende Wirkung.
-
 
 #### § 18 Informationsaustausch mit der Deutschen Bundesbank
 
@@ -1727,7 +1689,6 @@ vereinbaren, dass gegenseitig die bei der anderen Stelle jeweils
 gespeicherten Daten im automatisierten Verfahren abgerufen werden
 dürfen. Im Übrigen gilt § 7 Abs. 4 und 5 des Kreditwesengesetzes
 entsprechend.
-
 
 #### § 19 Zusammenarbeit mit anderen Stellen und der Europäischen Wertpapier- und Marktaufsichtsbehörde
 
@@ -1890,12 +1851,10 @@ Behörden für die Anzeige und die Verfahren für Überprüfungen vor Ort
 und Ermittlungen sowie für den Informationsaustausch zwischen
 zuständigen Behörden (ABl. L 176 vom 10.7.2010, S. 16).
 
-
 #### § 19a Werbung
 
 Auf die Werbung von Kapitalanlagegesellschaften findet § 23 des
 Kreditwesengesetzes entsprechend Anwendung.
-
 
 #### § 19b Sicherungseinrichtung
 
@@ -1906,7 +1865,6 @@ Zugehörigkeit zu einer Einrichtung zur Sicherung der Ansprüche der
 Kunden (Sicherungseinrichtung) in geeigneter Weise zu informieren; §
 23a Abs. 1 Satz 2 und 5 sowie Abs. 2 des Kreditwesengesetzes findet
 entsprechend Anwendung.
-
 
 #### § 19c Anzeigen
 
@@ -1983,7 +1941,6 @@ anzuzeigen
 Bundesanstalt unverzüglich die in § 24 Abs. 3 Satz 1 Nr. 1 und 2 des
 Kreditwesengesetzes genannten Tatsachen anzuzeigen.
 
-
 #### § 19d Jahresabschluss, Lagebericht und Prüfungsbericht
 
 Für den Jahresabschluss, den Lagebericht und den Prüfungsbericht einer
@@ -1992,14 +1949,12 @@ Handelsgesetzbuchs entsprechend. § 26 des Kreditwesengesetzes ist mit
 der Maßgabe entsprechend anzuwenden, dass die dort geregelten
 Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
 
-
 #### § 19e Bestellung eines Abschlussprüfers in besonderen Fällen
 
 Auf die Bestellung eines Abschlussprüfers findet § 28 des
 Kreditwesengesetzes mit der Maßgabe entsprechend Anwendung, dass die
 dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht
 gelten.
-
 
 #### § 19f Besondere Pflichten des Abschlussprüfers
 
@@ -2037,7 +1992,6 @@ der Kapitalanlagegesellschaft zu erhalten. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
 
-
 #### § 19g Auskünfte und Prüfungen der Kapitalanlagegesellschaften und der an ihr bedeutend beteiligten Inhaber
 
 Die Kapitalanlagegesellschaften und die an ihr bedeutend beteiligten
@@ -2048,7 +2002,6 @@ Prüfungsbefugnisse entsprechend zu. Widerspruch und Anfechtungsklage
 gegen die Maßnahmen der Bundesanstalt haben keine aufschiebende
 Wirkung.
 
-
 #### § 19h Auskünfte und Prüfungen zur Verfolgung unerlaubt betriebener Investmentgeschäfte
 
 Auf die Verfolgung unerlaubt betriebener Geschäfte im Sinne des § 17c
@@ -2056,7 +2009,6 @@ findet § 44c des Kreditwesengesetzes mit der Maßgabe entsprechend
 Anwendung, dass die dort geregelten Pflichten gegenüber der Deutschen
 Bundesbank nicht gelten. Widerspruch und Anfechtungsklage gegen die
 Maßnahmen der Bundesanstalt haben keine aufschiebende Wirkung.
-
 
 #### § 19i Maßnahmen bei unzureichenden Eigenmitteln
 
@@ -2071,7 +2023,6 @@ insoweit nichtig, als sie einer Anordnung nach Satz 1 widersprechen. §
 45 Absatz 5 Satz 1 des Kreditwesengesetzes findet entsprechend
 Anwendung.
 
-
 #### § 19j Maßnahmen bei Gefahr
 
 Besteht die Gefahr für die Erfüllung der Verpflichtungen einer
@@ -2082,13 +2033,11 @@ möglich ist, kann die Bundesanstalt zur Abwendung dieser Gefahr
 geeignete und erforderliche Maßnahmen ergreifen; Widerspruch und
 Anfechtungsklage haben keine aufschiebende Wirkung.
 
-
 #### § 19k Insolvenzantrag
 
 Auf den Fall der Zahlungsunfähigkeit, der Überschuldung oder der
 drohenden Zahlungsunfähigkeit einer Kapitalanlagegesellschaft findet §
 46b Abs. 1 des Kreditwesengesetzes entsprechend Anwendung.
-
 
 #### § 19l Unterrichtung der Gläubiger im Insolvenzverfahren
 
@@ -2096,10 +2045,7 @@ Die Gläubiger sind über die Eröffnung des Insolvenzverfahrens in
 entsprechender Anwendung des § 46f des Kreditwesengesetzes zu
 unterrichten.
 
-
 ### Abschnitt 3 - Depotbank
-
-
 
 #### § 20 Beauftragung und jährliche Prüfung
 
@@ -2181,7 +2127,6 @@ die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 
 (6) (weggefallen)
 
-
 #### § 21 Aufsicht
 
 (1) Die Auswahl sowie jeder Wechsel der Depotbank bedürfen der
@@ -2220,14 +2165,12 @@ anderen Kreditinstitut im Sinne des § 20 Absatz 1 und 2 ein Sperrkonto
 errichten, über das die Kapitalanlagegesellschaft Zahlungen für
 Rechnung des Sondervermögens tätigen oder entgegennehmen kann.
 
-
 #### § 21a Vorausgenehmigung der Depotbank-Auswahl
 
 Erteilt die Bundesanstalt eine Vorausgenehmigung im Sinne des § 43a,
 kann die Auswahl der Depotbank für die von der Vorausgenehmigung
 umfassten Sondervermögen oder Teilfonds ebenfalls im Voraus genehmigt
 werden.
-
 
 #### § 22 Interessenkollision
 
@@ -2249,7 +2192,6 @@ Geschäftsleiter, Prokuristen und die zum gesamten Geschäftsbetrieb
 ermächtigten Handlungsbevollmächtigten der Kapitalanlagegesellschaft
 dürfen nicht gleichzeitig Angestellte der Depotbank sein.
 
-
 #### § 23 Ausgabe und Rücknahme von Anteilen eines Sondervermögens
 
 (1) Die Depotbank hat die Ausgabe und die Rücknahme von Anteilen eines
@@ -2270,7 +2212,6 @@ Rücknahmepreis ist, abzüglich des Abschlags, von dem gesperrten Konto
 an den Anleger zu zahlen. Der Ausgabeaufschlag und Rücknahmeabschlag
 nach Maßgabe der Sätze 1 und 3 können an die Gesellschaft ausgezahlt
 werden.
-
 
 #### § 24 Verwahrung
 
@@ -2320,7 +2261,6 @@ denjenigen des Rechts der Europäischen Union gleichwertig sind,
 Gesellschaften und weitere nicht verwahrfähige Vermögensgegenstände
 sind laufend zu überwachen.
 
-
 #### § 25 Zahlung und Lieferung
 
 Der Kaufpreis aus dem Verkauf von Vermögensgegenständen des
@@ -2350,10 +2290,6 @@ Kapitalanlagegesellschaft nach Maßgabe von § 16 Abs. 2 wahrnimmt,
 3.  die Ausschüttung der Gewinnanteile an die Anleger
 
     durch.
-
-
-
-
 
 #### § 26 Zustimmungspflichtige Geschäfte
 
@@ -2394,7 +2330,6 @@ Fall ist, berührt dies nicht die Wirksamkeit der Verfügung oder
 den Anlegern unwirksam. Die Vorschriften zugunsten derjenigen, welche
 Rechte von einem Nichtberechtigten herleiten, finden entsprechende
 Anwendung.
-
 
 #### § 27 Kontrollfunktion
 
@@ -2449,7 +2384,6 @@ Gesellschaft hält, hat die Depotbank
 26 Abs. 1 Nr. 3 in das Grundbuch oder bei ausländischen Immobilien die
 Sicherstellung der Wirksamkeit der Verfügungsbeschränkung zu
 überwachen.
-
 
 #### § 28 Geltendmachung von Ansprüchen der Anleger
 
@@ -2527,7 +2461,6 @@ Durchführung zu erlassen, insbesondere zu
 Das Bundesministerium der Finanzen kann diese Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 #### § 29 Vergütung, Aufwendungsersatz
 
 (1) Die Depotbank darf der Kapitalanlagegesellschaft aus den zu einem
@@ -2540,14 +2473,9 @@ und die Wahrnehmung der Aufgaben nach Maßgabe dieses Gesetzes
 zustehende Vergütung nur mit Zustimmung der Kapitalanlagegesellschaft
 entnehmen.
 
-
 ## Kapitel 2 - Sondervermögen
 
-
-
 ### Abschnitt 1 - Allgemeine Vorschriften für Sondervermögen
-
-
 
 #### § 30 Sondervermögen
 
@@ -2573,7 +2501,6 @@ Kapitalanlagegesellschaft ist das Depotgesetz nicht anzuwenden.
 
 (5) Vermögen, die von der Kapitalanlagegesellschaft gemäß § 7 Abs. 2
 Nr. 1 und 2 verwaltet werden, bilden keine Sondervermögen.
-
 
 #### § 31 Verfügungsbefugnis, Treuhänderschaft, Sicherheitsvorschriften
 
@@ -2628,7 +2555,6 @@ Ausgleichsforderung ersetzt werden.
 (7) Werden nicht voll eingezahlte Aktien in ein Sondervermögen
 aufgenommen, so haftet die Kapitalanlagegesellschaft für die Leistung
 der ausstehenden Einlagen nur mit dem eigenen Vermögen.
-
 
 #### § 32 Stimmrechtsausübung
 
@@ -2735,10 +2661,6 @@ erlassen über
 2.  die Gleichwertigkeit von Regeln eines Drittstaates zur Unabhängigkeit
     von Kapitalanlagegesellschaften vom Mutterunternehmen.
 
-
-
-
-
 #### § 33 Anteilscheine
 
 (1) Die Anteile an Sondervermögen werden in Anteilscheinen verbrieft.
@@ -2758,7 +2680,6 @@ Entsprechendes gilt für sonstige rechtsgeschäftliche Verfügungen sowie
 für Verfügungen, die im Wege der Zwangsvollstreckung oder
 Arrestvollziehung erfolgen. In anderer Weise kann über den Anteil an
 den zum Sondervermögen gehörenden Gegenständen nicht verfügt werden.
-
 
 #### § 34 Anteilklassen und Teilfonds
 
@@ -2802,7 +2723,6 @@ Zustimmung des Bundesrates. Das Bundesministerium der Finanzen kann
 die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt
 übertragen.
 
-
 #### § 35 Sammelverwahrung, Verlust von Anteilscheinen
 
 (1) Anteilscheine dürfen in Sammelverwahrung im Sinne des
@@ -2829,7 +2749,6 @@ Erneuerungsscheins nicht ausgeben werden, wenn der Besitzer des
 Anteilscheins der Ausgabe widerspricht. In diesem Fall sind die
 Scheine dem Besitzer des Anteilscheins auszuhändigen, wenn er die
 Haupturkunde vorlegt.
-
 
 #### § 36 Ermittlung des Anteilwertes, Veröffentlichung des Ausgabe- und Rücknahmepreises
 
@@ -2930,7 +2849,6 @@ Sondervermögen zugeflossen ist, so hat die Kapitalanlagegesellschaft
 aus ihrem eigenen Vermögen den fehlenden Betrag in das Sondervermögen
 einzulegen.
 
-
 #### § 37 Rücknahme von Anteilen, Aussetzung
 
 (1) Jeder Anleger kann verlangen, dass ihm gegen Rückgabe des Anteils
@@ -2972,7 +2890,6 @@ des Absatzes 2 Satz 1 die Aussetzung nicht vornimmt oder im Fall des §
 81 der Verpflichtung zur Aussetzung nicht nachkommt. Absatz 2 Satz 2
 und 4 ist entsprechend anzuwenden.
 
-
 #### § 38 Kündigung und Verlust des Verwaltungsrechts
 
 (1) Die Kapitalanlagegesellschaft ist berechtigt, die Verwaltung eines
@@ -3008,7 +2925,6 @@ solches Recht steht auch nicht einem Pfandgläubiger oder
 Pfändungsgläubiger oder dem Insolvenzverwalter über das Vermögen eines
 Anlegers zu.
 
-
 #### § 39 Abwicklung des Sondervermögens
 
 (1) Erlischt das Recht der Kapitalanlagegesellschaft, ein
@@ -3026,7 +2942,6 @@ Kapitalanlagegesellschaft die Verwaltung des Sondervermögens nach
 Maßgabe der bisherigen Vertragsbedingungen übertragen. Die
 Bundesanstalt kann die Genehmigung mit Nebenbestimmungen verbinden. §
 415 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
-
 
 #### § 40 Genehmigung der Verschmelzung
 
@@ -3163,7 +3078,6 @@ geänderte Angaben oder Unterlagen angefordert, beginnt der Lauf der in
 Absatz 6 Satz 1 genannten Frist mit dem Eingang der angeforderten
 Angaben oder Unterlagen erneut.
 
-
 #### § 40a Verschmelzung eines EU-Investmentvermögens auf ein richtlinienkonformes Sondervermögen
 
 (1) Werden der Bundesanstalt bei einer geplanten Verschmelzung eines
@@ -3192,7 +3106,6 @@ Verschmelzungsinformationen erhalten hat, teilt sie dies den
 zuständigen Stellen des Herkunftsstaates des übertragenden EU-
 Investmentvermögens mit, spätestens jedoch innerhalb von 20
 Arbeitstagen.
-
 
 #### § 40b Verschmelzungsplan
 
@@ -3243,7 +3156,6 @@ folgenden Angaben enthalten:
 Weitere Angaben sind zulässig, können aber nicht von der Bundesanstalt
 verlangt werden.
 
-
 #### § 40c Prüfung der Verschmelzung
 
 (1) Die Depotbanken des übertragenden Sondervermögens und des
@@ -3285,7 +3197,6 @@ Darstellungen des Prüfungsberichts zu erlassen, soweit dies zur
 Erfüllung der Aufgaben der Bundesanstalt erforderlich ist. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
-
 
 #### § 40d Verschmelzungsinformationen
 
@@ -3374,7 +3285,6 @@ die Kapitalanlagegesellschaft, die diese Informationen zu übermitteln
 hat, ist verantwortlich für die Übersetzung. Die Übersetzung hat den
 Inhalt des Originals richtig und vollständig wiederzugeben.
 
-
 #### § 40e Rechte der Anleger
 
 (1) Die Anleger des übertragenden Sondervermögens und des
@@ -3427,14 +3337,12 @@ Investmentvermögens sowie der Bundesanstalt auf Anfrage kostenlos eine
 Abschrift der Erklärung des Prüfers gemäß § 40c Absatz 2 zur Verfügung
 zu stellen.
 
-
 #### § 40f Kosten der Verschmelzung
 
 Eine Kapitalanlagegesellschaft darf jegliche Kosten, die mit der
 Vorbereitung und Durchführung der Verschmelzung verbunden sind, weder
 dem übertragenden Sondervermögen noch dem übernehmenden Sondervermögen
 oder EU-Investmentvermögen noch ihren Anlegern in Rechnung stellen.
-
 
 #### § 40g Wirksamwerden der Verschmelzung
 
@@ -3492,7 +3400,6 @@ unterrichten.
 (5) Eine Verschmelzung, die nach Absatz 1 oder Absatz 2 wirksam
 geworden ist, kann nicht mehr für nichtig erklärt werden.
 
-
 #### § 40h Rechtsfolgen der Verschmelzung
 
 (1) Eine Verschmelzung durch Aufnahme hat folgende Auswirkungen:
@@ -3543,7 +3450,6 @@ geworden ist, kann nicht mehr für nichtig erklärt werden.
 Beginn des Tages, der dem Übertragungsstichtag folgt, als bei den
 Anlegern des übertragenden Sondervermögens oder EU-Investmentvermögens
 ausgegeben.
-
 
 #### § 41 Kosten und Kostentransparenz
 
@@ -3638,7 +3544,6 @@ gehaltenen Anteile berechnet wird.
 (7) Der Jahresbericht eines Feederfonds muss zusätzlich zu den in § 44
 Absatz 1 vorgesehenen Informationen eine Erklärung zu den
 zusammengefassten Gebühren von Feederfonds und Masterfonds enthalten.
-
 
 #### § 42 Verkaufsprospekt und wesentliche Anlegerinformationen
 
@@ -4015,7 +3920,6 @@ vorbehaltlich der Einreichungspflicht nach § 45a Absatz 2 auch
 Anlegerinformationen des Masterfonds unverzüglich nach erstmaliger
 Verwendung einzureichen.
 
-
 #### § 42a Information mittels eines dauerhaften Datenträgers
 
 (1) Ist für die Übermittlung von Informationen nach diesem Gesetz die
@@ -4047,7 +3951,6 @@ erstatten. Für die Höhe des Aufwendungsersatzanspruchs gilt die
 Verordnung über den Ersatz von Aufwendungen der Kreditinstitute vom
 17\. Juni 2003 (BGBl. I S. 885) in der jeweils geltenden Fassung
 entsprechend.
-
 
 #### § 43 Vertragsbedingungen
 
@@ -4214,7 +4117,6 @@ nicht in Sondervermögen nach Maßgabe der §§ 66 bis 95 oder nach
 Maßgabe der §§ 112 und 113 sowie in Spezial-Sondervermögen umgewandelt
 werden.
 
-
 #### § 43a Vorausgenehmigung
 
 (1) Die Bundesanstalt kann Genehmigungen im Voraus (Vorausgenehmigung)
@@ -4254,7 +4156,6 @@ Anzeige hat unverzüglich nach der Änderung zu erfolgen.
 (4) Die Absätze 1 bis 3 gelten entsprechend für richtlinienkonforme
 Sondervermögen in der Form der Umbrella-Konstruktion, die von einer
 Kapitalanlagegesellschaft aufgelegt werden.
-
 
 #### § 44 Rechnungslegung
 
@@ -4413,7 +4314,6 @@ zu erhalten. Die Rechtsverordnung bedarf nicht der Zustimmung des
 Bundesrates. Das Bundesministerium der Finanzen kann die Ermächtigung
 durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 #### § 45 Veröffentlichung des Jahres-, Halbjahres-, Zwischen-, Auflösungs- und Abwicklungsberichts
 
 (1) Der Jahresbericht ist spätestens vier Monate nach Ablauf des
@@ -4439,10 +4339,7 @@ einzureichen.
 im Verkaufsprospekt und in den wesentlichen Anlegerinformationen
 angegebenen Stellen zugänglich sein.
 
-
 ### Abschnitt 1a - Master-Feeder-Strukturen
-
-
 
 #### § 45a Genehmigung des Feederfonds
 
@@ -4550,7 +4447,6 @@ Zum Nachweis, dass keine Anteile an einem Feederfonds gehalten werden,
 hat die Depotbank eine Bestätigung auszustellen, die bei
 Antragstellung nicht älter als zwei Wochen ist.
 
-
 #### § 45b Vereinbarungen bei Master-Feeder-Strukturen
 
 (1) Die Investmentgesellschaft des inländischen Masterfonds hat der
@@ -4579,7 +4475,6 @@ den Artikeln 27 bis 28 der Richtlinie 2010/44/EU über den
 Informationsaustausch und der Pflichten nach § 44 Absatz 5a Satz 1 bis
 3 abzuschließen, um sicherzustellen, dass beide Abschlussprüfer ihre
 Pflichten erfüllen (Abschlussprüfervereinbarung).
-
 
 #### § 45c Pflichten und Besonderheiten für Kapitalanlagegesellschaft und Depotbank
 
@@ -4650,7 +4545,6 @@ von Informationen einschränken oder die den Datenschutz betreffen.
 Eine Haftung der Depotbank oder einer für sie handelnden Person aus
 diesem Grund ist ausgeschlossen.
 
-
 #### § 45d Mitteilungspflichten der Bundesanstalt
 
 (1) Sind die Vertragsbedingungen sowohl des Masterfonds als auch des
@@ -4705,7 +4599,6 @@ Bundesanstalt Informationen entsprechend Absatz 2 von den zuständigen
 Stellen des Herkunftsstaates des ausländischen Masterfonds,
 unterrichtet sie die Kapitalanlagegesellschaft, die den Feederfonds
 verwaltet, unverzüglich darüber.
-
 
 #### § 45e Abwicklung eines Masterfonds
 
@@ -4822,7 +4715,6 @@ Absatz 2 Satz 2 Nummer 1 oder Nummer 2 lediglich zum Zwecke eines
 effizienten Liquiditätsmanagements angelegt werden. Die
 Kapitalanlagegesellschaft darf erhaltene Vermögensgegenstände nach
 Satz 1 Nummer 2 jederzeit gegen Barzahlung veräußern.
-
 
 #### § 45f Verschmelzung oder Spaltung des Masterfonds
 
@@ -4991,7 +4883,6 @@ erhalten hat, vor einer Wiederanlage gemäß Absatz 2 Satz 2 Nummer 2
 oder Nummer 3 lediglich für eine effiziente Liquiditätssteuerung
 anlegen.
 
-
 #### § 45g Umwandlung in Feederfonds oder Änderung des Masterfonds
 
 (1) Werden die Vertragsbedingungen eines Sondervermögens im Rahmen der
@@ -5049,10 +4940,7 @@ ist die Übertragung aller Vermögensgegenstände des in den Feederfonds
 umgewandelten Sondervermögens an den Masterfonds gegen Ausgabe von
 Anteilen am Masterfonds zulässig.
 
-
 ### Abschnitt 2 - Richtlinienkonforme Sondervermögen
-
-
 
 #### § 46 Zulässige Vermögensgegenstände
 
@@ -5061,7 +4949,6 @@ den §§ 47 bis 52 genannten Vermögensgegenstände erwerben. Edelmetalle
 und Zertifikate über Edelmetalle dürfen von der
 Kapitalanlagegesellschaft für ein Sondervermögen nicht erworben
 werden.
-
 
 #### § 47 Wertpapiere
 
@@ -5133,7 +5020,6 @@ Richtlinie 2007/16/EG erfüllt sind.
 (2) Wertpapiere nach Maßgabe des Absatzes 1 sind auch Bezugsrechte,
 sofern sich die Wertpapiere aus denen die Bezugsrechte herrühren, im
 Sondervermögen befinden können.
-
 
 #### § 48 Geldmarktinstrumente
 
@@ -5244,7 +5130,6 @@ der Bundesanstalt denjenigen des Rechts der Europäischen Union
 gleichwertig sind, unterliegt und diese einhält, begeben oder
 garantiert werden, Artikel 6 der Richtlinie 2007/16/EG.
 
-
 #### § 49 Bankguthaben
 
 Die Kapitalanlagegesellschaft darf für Rechnung eines Sondervermögens
@@ -5256,7 +5141,6 @@ Wirtschaftsraum unterhalten werden; die Guthaben können auch bei einem
 Kreditinstitut mit Sitz in einem Drittstaat, dessen
 Aufsichtsbestimmungen nach Auffassung der Bundesanstalt denjenigen des
 Gemeinschaftsrechts gleichwertig sind, gehalten werden.
-
 
 #### § 50 Investmentanteile
 
@@ -5314,7 +5198,6 @@ und Rücknahmeabschläge berechnen.
 
 (3) Die Kapitalanlagegesellschaft darf für Rechnung eines Masterfonds
 keine Anteile an einem Feederfonds halten.
-
 
 #### § 51 Gesamtgrenze, Derivate
 
@@ -5389,7 +5272,6 @@ Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 #### § 52 Sonstige Anlageinstrumente
 
 Die Kapitalanlagegesellschaft darf nur bis zu 10 Prozent des Wertes
@@ -5448,13 +5330,6 @@ des Sondervermögens insgesamt anlegen in
     e)  gegen Übernahme der Gewährleistung für die Verzinsung und Rückzahlung
         durch eine der in den Buchstaben a bis c bezeichneten Stellen.
 
-
-
-
-
-
-
-
 #### § 53 Kreditaufnahme
 
 Die Kapitalanlagegesellschaft darf für gemeinschaftliche Rechnung der
@@ -5462,7 +5337,6 @@ Anleger kurzfristige Kredite nur bis zur Höhe von 10 Prozent des
 Sondervermögens und nur aufnehmen, wenn die Bedingungen der
 Kreditaufnahme marktüblich sind und dies in den Vertragsbedingungen
 vorgesehen ist.
-
 
 #### § 54 Wertpapierdarlehen, Sicherheiten
 
@@ -5546,7 +5420,6 @@ ausreichen.
 die Unterschreitung des Wertes der Sicherheitsleistung unter den
 Sicherungswert unter Darlegung des Sachverhalts anzuzeigen.
 
-
 #### § 55 Wertpapier-Darlehensvertrag
 
 In dem Darlehensvertrag zwischen der Kapitalanlagegesellschaft und dem
@@ -5570,10 +5443,6 @@ erforderlichen Regelungen insbesondere festzulegen:
 3.  die Rechte der Kapitalanlagegesellschaft bei nicht rechtzeitiger
     Erfüllung der Verpflichtungen des Wertpapier-Darlehensnehmers.
 
-
-
-
-
 #### § 56 Organisierte Wertpapier-Darlehenssysteme
 
 Die Kapitalanlagegesellschaft kann sich eines von einer
@@ -5584,7 +5453,6 @@ genannt ist, organisierten Systems zur Vermittlung und Abwicklung von
 Wertpapier-Darlehen bedienen, das von den Anforderungen nach den §§ 54
 und 55 abweicht, wenn durch die Bedingungen dieses Systems die Wahrung
 der Interessen der Anleger gewährleistet ist.
-
 
 #### § 57 Pensionsgeschäfte
 
@@ -5599,7 +5467,6 @@ Pensionsgeschäfte dürfen höchstens eine Laufzeit von zwölf Monaten
 haben. Die in Pension genommenen Wertpapiere sind auf die
 Anlagegrenzen des § 60 Abs. 1 und 2 anzurechnen.
 
-
 #### § 58 Verweisung
 
 (1) Für die weiteren in den §§ 46 bis 65 genannten
@@ -5607,7 +5474,6 @@ Vermögensgegenstände gelten die §§ 54 bis 57 sinngemäß.
 
 (2) Die in den §§ 54 und 57 genannten Geschäfte müssen die in Artikel
 11 Abs. 1 der Richtlinie 2007/16/EG genannten Kriterien erfüllen.
-
 
 #### § 59 Leerverkäufe
 
@@ -5617,7 +5483,6 @@ verkaufen, wenn die jeweiligen Vermögensgegenstände im Zeitpunkt des
 Geschäftsabschlusses nicht zum Sondervermögen gehören; § 51 bleibt
 unberührt. Die Wirksamkeit des Rechtsgeschäfts wird durch einen
 Verstoß gegen Satz 1 nicht berührt.
-
 
 #### § 60 Ausstellergrenzen
 
@@ -5704,7 +5569,6 @@ der Regelung in Absatz 5 nicht kumuliert werden.
 demselben Konzern im Sinne des § 290 des Handelsgesetzbuchs angehören,
 gelten als Wertpapiere desselben Ausstellers (Schuldners).
 
-
 #### § 61 Erwerb von Anteilen an Investmentvermögen
 
 Die Kapitalanlagegesellschaft darf in Anteilen an einem einzigen
@@ -5713,7 +5577,6 @@ des Wertes des Sondervermögens anlegen. In Anteilen an
 Investmentvermögen nach Maßgabe des § 50 Abs. 1 Satz 2 darf die
 Kapitalanlagegesellschaft insgesamt nur bis zu 30 Prozent des Wertes
 des Sondervermögens anlegen.
-
 
 #### § 62 Erweiterte Anlagegrenzen
 
@@ -5726,7 +5589,6 @@ Aussteller vorgesehen ist und die für Rechnung des Sondervermögens
 gehaltenen Wertpapiere und Geldmarktinstrumente aus mindestens sechs
 verschiedenen Emissionen stammen, wobei nicht mehr als 30 Prozent des
 Wertes des Sondervermögens in einer Emission gehalten werden dürfen.
-
 
 #### § 63 Wertpapierindex-Sondervermögen
 
@@ -5763,7 +5625,6 @@ Sondervermögens angehoben werden, wenn die Anforderungen nach Maßgabe
 des Absatzes 1 erfüllt sind. Eine Anlage bis zu der Grenze nach Satz 1
 ist nur bei einem einzigen Aussteller (Schuldner) zulässig.
 
-
 #### § 63a Anlagegrenzen und Anlagebeschränkungen für Feederfonds
 
 Die Kapitalanlagegesellschaft hat für einen Feederfonds ungeachtet der
@@ -5787,7 +5648,6 @@ Feederfonds anlegen in
 
 
 § 99 Absatz 3 Satz 2 und 3 bleibt unberührt.
-
 
 #### § 64 Emittentenbezogene Anlagegrenzen
 
@@ -5824,7 +5684,6 @@ Sondervermögens nicht mehr als 25 Prozent der ausgegebenen Anteile
 eines anderen inländischen oder ausländischen Investmentvermögens
 erwerben.
 
-
 #### § 65 Überschreiten von Anlagegrenzen
 
 Die in den §§ 52, 60 und 64 bestimmten Grenzen dürfen überschritten
@@ -5842,10 +5701,7 @@ ersten sechs Monaten seit Errichtung eines Sondervermögens sowie nach
 vollzogener Verschmelzung durch das übernehmende Sondervermögen unter
 Beachtung des Grundsatzes der Risikostreuung überschritten werden.
 
-
 ### Abschnitt 3 - Immobilien-Sondervermögen
-
-
 
 #### § 66 Immobilien-Sondervermögen
 
@@ -5854,7 +5710,6 @@ Vertragsbedingungen das bei ihnen eingelegte Geld in Immobilien
 anlegen (Immobilien-Sondervermögen), gelten die Vorschriften der §§ 46
 bis 65 sinngemäß, soweit sich aus den §§ 67 bis 82 nichts anderes
 ergibt.
-
 
 #### § 67 Zulässige Vermögensgegenstände, Anlagegrenzen
 
@@ -5978,7 +5833,6 @@ gebildet werden. § 43 Abs. 4 Nr. 7 ist nicht anzuwenden.
 Nr. 2 und 3, Absatz 2 Satz 2 und Absatz 7 Satz 4 sowie bei der Angabe
 des Anteils des Sondervermögens gemäß Absatz 3 Nr. 3 sind die
 aufgenommenen Darlehen nicht abzuziehen.
-
 
 #### § 68 Beteiligung an Immobilien-Gesellschaften
 
@@ -6121,7 +5975,6 @@ Interessen der Anleger anzustreben.
 Immobilien-Gesellschaften gelten die Absätze 2 und 4 bis 7
 entsprechend.
 
-
 #### § 68a Erwerbs- und Veräußerungsverbot
 
 (1) Ein Vermögensgegenstand nach § 67 Abs. 1 oder Abs. 2 oder nach §
@@ -6138,7 +5991,6 @@ Bundesanstalt einen für Rechnung eines Immobilien-Sondervermögens
 gehaltenen Vermögensgegenstand im Sinne des Absatzes 1 Satz 1 für
 eigene Rechnung erwerben oder an ein Unternehmen im Sinne des Absatzes
 1 Satz 2 veräußern.
-
 
 #### § 69 Darlehensgewährung an Immobilien-Gesellschaften
 
@@ -6164,7 +6016,6 @@ Darlehen nicht abzuziehen.
 Dritter im Auftrag der Kapitalanlagegesellschaft der Immobilien-
 Gesellschaft ein Darlehen im eigenen Namen für Rechnung des
 Immobilien-Sondervermögens gewährt.
-
 
 #### § 70 Monatliche Vermögensaufstellung, Bewertung
 
@@ -6193,7 +6044,6 @@ Immobilien-Gesellschaft mindestens einmal jährlich.
 
 (3) (weggefallen)
 
-
 #### § 71 Zahlungen, Überwachung durch die Depotbank
 
 Die Kapitalanlagegesellschaft hat mit der Immobilien-Gesellschaft zu
@@ -6205,12 +6055,10 @@ unverzüglich auf ein Konto nach § 24 Abs. 2 einzuzahlen sind. Satz 1
 gilt entsprechend für Immobilien-Gesellschaften, die Beteiligungen an
 anderen Immobilien-Gesellschaften erwerben oder halten.
 
-
 #### § 72 Wirksamkeit eines Rechtsgeschäfts
 
 Die Wirksamkeit eines Rechtsgeschäfts wird durch einen Verstoß gegen
 die Vorschriften der §§ 68 bis 71 nicht berührt.
-
 
 #### § 73 Risikomischung
 
@@ -6225,7 +6073,6 @@ nicht abgezogen.
 (2) Als Immobilie im Sinne des Absatzes 1 ist auch eine aus mehreren
 Immobilien bestehende wirtschaftliche Einheit anzusehen.
 
-
 #### § 74 Anlaufzeit
 
 Die Anlagebegrenzungen in § 67 Abs. 1 Nr. 3, § 68 Abs. 6 sowie den §§
@@ -6236,13 +6083,11 @@ ist. Für den in Satz 1 genannten Zeitraum kann die Bundesanstalt von
 den weiteren Begrenzungen in den §§ 67 und 68 eine Ausnahmegenehmigung
 erteilen.
 
-
 #### § 75 Treuhandverhältnis
 
 Abweichend von § 30 Abs. 1 können zum Immobilien-Sondervermögen
 gehörende Vermögensgegenstände nur im Eigentum der
 Kapitalanlagegesellschaft stehen.
-
 
 #### § 76 Verfügungsbeschränkung
 
@@ -6259,7 +6104,6 @@ ergibt, dass die Bundesanstalt die Auswahl dieses Kreditinstitutes als
 Depotbank genehmigt hat und von ihrem Recht nicht Gebrauch gemacht
 hat, der Kapitalanlagegesellschaft einen Wechsel der Depotbank
 aufzuerlegen.
-
 
 #### § 77 Sachverständigenausschuss
 
@@ -6357,7 +6201,6 @@ Voraussetzungen nach Absatz 2 ist hierbei darzulegen. Wenn diese
 Voraussetzungen fehlen oder wegfallen, kann die Bundesanstalt
 verlangen, dass ein anderer Sachverständiger bestellt wird.
 
-
 #### § 78 Ertragsverwendung
 
 (1) Die Vertragsbedingungen müssen vorsehen, dass Erträge des
@@ -6375,7 +6218,6 @@ angeben, ob und in welchem Umfang Erträge zum Ausgleich von
 Wertminderungen der Vermögensgegenstände des Sondervermögens und für
 künftige erforderliche Instandsetzungen nach Absatz 1 einbehalten
 werden.
-
 
 #### § 79 Vermögensaufstellung, Anteilwertermittlung
 
@@ -6462,7 +6304,6 @@ gesetzlichen Feiertagen im Geltungsbereich dieses Gesetzes, die
 Börsentage sind, sowie am 24. und 31. Dezember jeden Jahres kann von
 der Ermittlung abgesehen werden.
 
-
 #### § 80 Liquiditätsvorschriften
 
 (1) Die Kapitalanlagegesellschaft darf für ein Immobilien-
@@ -6539,7 +6380,6 @@ folgende gebundene Mittel des Immobilien-Sondervermögens abzuziehen:
 (3) Die Kapitalanlagegesellschaft darf für Rechnung eines Immobilien-
 Sondervermögens Wertpapier-Darlehen nur auf unbestimmte Zeit gewähren.
 
-
 #### § 80a Kreditaufnahme
 
 Die Kapitalanlagegesellschaft darf unbeschadet des § 53 für
@@ -6551,7 +6391,6 @@ Wirtschaftsführung vereinbar ist, die Bedingungen der Kreditaufnahme
 marktüblich sind und die Grenze nach § 82 Abs. 3 Satz 2 nicht
 überschritten wird. Eine Kreditaufnahme zur Finanzierung der Rücknahme
 von Anteilen ist nur nach Maßgabe des § 53 zulässig.
-
 
 #### § 80b Risikomanagement
 
@@ -6593,7 +6432,6 @@ organisatorisch und bis auf Ebene der Geschäftsleitung unabhängigen
 Stelle innerhalb der Kapitalanlagegesellschaft zu übertragen. Das
 Risikomanagement ist ausführlich und nachvollziehbar zu dokumentieren.
 
-
 #### § 80c Sonderregelungen für die Ausgabe und Rücknahme von Anteilen
 
 (1) Die Kapitalanlagegesellschaft hat die Ausgabe von Anteilen
@@ -6625,7 +6463,6 @@ der Kapitalanlagegesellschaft zu erklären. § 116 Satz 4 bis 6 gilt
 entsprechend; die Vertragsbedingungen können eine andere Form für den
 Nachweis vorsehen, dass die Rückgabe in Einklang mit Satz 1 erfolgt.
 
-
 #### § 80d Angaben im Verkaufsprospekt und in den Vertragsbedingungen
 
 (1) Der Verkaufsprospekt muss zusätzlich zu den Angaben nach § 42 Abs.
@@ -6646,7 +6483,6 @@ Nachweis vorsehen, dass die Rückgabe in Einklang mit Satz 1 erfolgt.
 
 (2) Die Angaben nach Absatz 1 Nr. 2 sind in die Vertragsbedingungen
 aufzunehmen.
-
 
 #### § 81 Aussetzung der Rücknahme
 
@@ -6698,7 +6534,6 @@ Jahr vorsehen, nur zu einem Rücknahmetermin wieder aufgenommen hatte,
 aber zum darauf folgenden Rücknahmetermin die Anteilrücknahme erneut
 unter Berufung auf Absatz 1 Satz 1 verweigert.
 
-
 #### § 81a Aussetzung nach Kündigung
 
 (1) Außergewöhnliche Umstände im Sinne des § 37 Absatz 2 Satz 1 liegen
@@ -6727,7 +6562,6 @@ soweit nicht Gewährleistungszusagen aus den Veräußerungsgeschäften
 oder zu erwartende Auseinandersetzungskosten den Einbehalt im
 Sondervermögen verlangen.
 
-
 #### § 81b Beschlüsse der Anleger
 
 (1) Die Vertragsbedingungen eines Immobilien-Sondervermögens haben für
@@ -6754,7 +6588,6 @@ der Wiederaufnahme der Anteilrücknahme unberührt.
 (3) Die Abstimmung soll ohne Versammlung durchgeführt werden, wenn
 nicht außergewöhnliche Umstände eine Versammlung zum Zweck der
 Information der Anleger erforderlich machen.
-
 
 #### § 82 Veräußerung und Belastung von Grundstückswerten
 
@@ -6800,10 +6633,7 @@ Zulässigkeit als solche im Sinne der Absätze 1 und 3.
 (5) Die Wirksamkeit einer Verfügung wird durch einen Verstoß gegen die
 Vorschriften der Absätze 1 und 3 nicht berührt.
 
-
 ### Abschnitt 4 - Gemischte Sondervermögen
-
-
 
 #### § 83 Gemischte Sondervermögen
 
@@ -6817,7 +6647,6 @@ dessen Vertragsbedingungen erlauben, dass es seine Mittel zu mehr als
 50 Prozent des Wertes seines Vermögens in Anteile an Publikums-
 Sondervermögen nach Maßgabe der §§ 66 bis 82 sowie Anteile an
 vergleichbaren ausländischen Investmentvermögen anlegt, entsprechend.
-
 
 #### § 84 Zulässige Vermögensgegenstände
 
@@ -6885,7 +6714,6 @@ Absatz 1 Nr. 2 Buchstabe b und c sowie Aktien nach Absatz 1 Nr. 3
 Buchstabe b und c zu erwerben, gelten § 113 Abs. 3 und 4 Satz 2 und 3,
 § 117 Abs. 1 Satz 2 und § 118 Satz 2 entsprechend.
 
-
 #### § 85 Anlagegrenzen
 
 Die Kapitalanlagegesellschaft darf in Anteilen nach § 84 Abs. 1 Nr. 2
@@ -6897,7 +6725,6 @@ Investmentvermögen nach § 84 Absatz 1 Nummer 2 Buchstabe a sowie § 50
 Absatz 1 Satz 1 und 2 insgesamt nur in Höhe von bis zu 20 Prozent des
 Wertes des Sondervermögens anlegen; § 61 Satz 2 ist nicht anzuwenden.
 
-
 #### § 86 Erweiterte Anlagegrenzen
 
 Die Kapitalanlagegesellschaft kann die in § 63 bestimmten Grenzen für
@@ -6908,10 +6735,7 @@ angemessenen Risikomischung einen bestimmten, allgemein und von der
 Bundesanstalt anerkannten Wertpapierindex nachzubilden. § 63 Abs. 1
 Satz 2 gilt entsprechend.
 
-
 ### Abschnitt 5 - Altersvorsorge-Sondervermögen
-
-
 
 #### § 87 Altersvorsorge-Sondervermögen
 
@@ -6923,7 +6747,6 @@ den nachfolgenden Vorschriften nichts anderes ergibt.
 
 (2) Erträge des Altersvorsorge-Sondervermögens dürfen nicht
 ausgeschüttet werden.
-
 
 #### § 88 Zulässige Vermögensgegenstände, Anlagegrenzen
 
@@ -6993,12 +6816,10 @@ unterliegen, als der Wert der einem solchen Risiko unterliegenden
 Vermögensgegenstände 30 Prozent des Wertes des Sondervermögens nicht
 übersteigt.
 
-
 #### § 89 Verbot von Laufzeitfonds
 
 Das Altersvorsorge-Sondervermögen darf nicht für eine begrenzte Dauer
 angelegt werden. § 43 Abs. 4 Nr. 7 ist nicht anzuwenden.
-
 
 #### § 90 Altersvorsorge-Sparplan
 
@@ -7050,10 +6871,7 @@ Sondervermögens verpflichtet, nach Beendigung des Altersvorsorge-
 Sparplans dem Altersvorsorge-Sparer gegen Rückgabe von Anteilen nach §
 37 Abs. 1 regelmäßig einen bestimmten Geldbetrag auszuzahlen.
 
-
 ### Abschnitt 6 - Infrastruktur-Sondervermögen
-
-
 
 #### § 90a Infrastruktur-Sondervermögen
 
@@ -7061,7 +6879,6 @@ Auf die Verwaltung von Infrastruktur-Sondervermögen nach Maßgabe der
 §§ 90b bis 90f finden die Vorschriften der §§ 66 bis 82 so weit
 entsprechende Anwendung, als sich aus den nachfolgenden Vorschriften
 nichts anderes ergibt.
-
 
 #### § 90b Zulässige Vermögensgegenstände, Anlagegrenzen
 
@@ -7132,7 +6949,6 @@ des Wertes des Sondervermögens beträgt.
 Absicherung von im Infrastruktur-Sondervermögen gehaltenen
 Vermögensgegenständen gegen einen Wertverlust getätigt werden.
 
-
 #### § 90c Anlaufzeit
 
 Die in § 90b Abs. 3 bis 7 genannten Anlagegrenzen sind für das
@@ -7142,7 +6958,6 @@ Die Frist nach Satz 1 kann auf Antrag von der Bundesanstalt um ein
 Jahr verlängert werden, wenn Umstände außerhalb des
 Verantwortungsbereiches der Kapitalanlagegesellschaft eine
 Verlängerung rechtfertigen.
-
 
 #### § 90d Ermittlung des Anteilwertes, Ausgabe und Rücknahme von Anteilen
 
@@ -7167,7 +6982,6 @@ Anteils an dem Infrastruktur-Sondervermögen an einem Rücknahmetermin
 nur verlangen, wenn der Wert der zurückgegebenen Anteile im Zeitpunkt
 des Zugangs der Rückgabeerklärung den Betrag von 1 Million Euro nicht
 überschreitet.
-
 
 #### § 90e Angaben im Verkaufsprospekt und in den Vertragsbedingungen
 
@@ -7223,7 +7037,6 @@ zusätzlich folgende Angaben enthalten:
 und 43 Abs. 4 zusätzlich die Angaben nach Absatz 2 Nr. 1 bis 3 und 6
 enthalten.
 
-
 #### § 90f Anforderungen an die für Anlageentscheidungen verantwortlichen Personen von Infrastruktur-Sondervermögen
 
 Personen, die für die Anlageentscheidungen von Infrastruktur-
@@ -7232,10 +7045,7 @@ allgemeinen fachlichen Eignung für die Durchführung von
 Investmentgeschäften ausreichendes Erfahrungswissen auf dem Gebiet von
 Projekten Öffentlich Privater Partnerschaften haben.
 
-
 ### Abschnitt 7 - Sonstige Sondervermögen
-
-
 
 #### § 90g Sonstige Sondervermögen
 
@@ -7243,7 +7053,6 @@ Auf die Verwaltung von Sonstigen Sondervermögen nach Maßgabe der §§
 90h bis 90k finden die Vorschriften der §§ 46 bis 59 so weit
 Anwendung, als sich aus den nachfolgenden Vorschriften nichts anderes
 ergibt.
-
 
 #### § 90h Zulässige Vermögensgegenstände, Anlagegrenzen, Kreditaufnahme
 
@@ -7357,7 +7166,6 @@ der allgemeinen fachlichen Eignung für die Durchführung von
 Investmentgeschäften ausreichendes Erfahrungswissen in Bezug auf die
 in Absatz 7 genannten Anlagemöglichkeiten haben.
 
-
 #### § 90i Sonderregelungen für die Ausgabe und Rücknahme von Anteilen
 
 (1) Die Vertragsbedingungen von Sonstigen Sondervermögen können
@@ -7388,7 +7196,6 @@ erfolgt. Die Rückgabe von Anteilen ist nur durch eine unwiderrufliche
 Rückgabeerklärung unter Einhaltung einer Rückgabefrist zulässig, die
 zwischen einem und 24 Monaten betragen muss; § 116 Satz 4 bis 6 gilt
 entsprechend.
-
 
 #### § 90j Angaben im Verkaufsprospekt und in den Vertragsbedingungen
 
@@ -7472,18 +7279,11 @@ enthalten:
 4.  alle Voraussetzungen und Bedingungen der Rücknahme und Auszahlung von
     Anteilen aus dem Sondervermögen Zug um Zug gegen Rückgabe der Anteile.
 
-
-
-
-
 #### § 90k Risikomanagement
 
 § 80b ist entsprechend anzuwenden.
 
-
 ### Abschnitt 7a - Mitarbeiterbeteiligungs-Sondervermögen
-
-
 
 #### § 90l Mitarbeiterbeteiligungs-Sondervermögen
 
@@ -7496,7 +7296,6 @@ gewähren.
 (2) Auf die Verwaltung von Mitarbeiterbeteiligungs-Sondervermögen
 finden die Vorschriften der §§ 46 bis 59 so weit Anwendung, als sich
 aus den nachfolgenden Vorschriften nichts anderes ergibt.
-
 
 #### § 90m Zulässige Vermögensgegenstände, Anlagegrenzen
 
@@ -7576,14 +7375,12 @@ unbeabsichtigt von der Kapitalanlagegesellschaft überschritten, ist
 eine Wiedereinhaltung dieser Grenzen anzustreben, soweit dies den
 Interessen der Anleger nicht zuwiderläuft.
 
-
 #### § 90n Anlaufzeit
 
 Die in § 90m Abs. 2 und 4 genannten Anlagegrenzen sind für das
 Mitarbeiterbeteiligungs-Sondervermögen einer Kapitalanlagegesellschaft
 erst nach Ablauf einer Frist von drei Jahren seit dem Zeitpunkt der
 Auflegung des Sondervermögens anzuwenden.
-
 
 #### § 90o Sonderregelungen für die Ausgabe und Rücknahme von Anteilen
 
@@ -7611,7 +7408,6 @@ zurückzunehmen, wenn sie die Vermögensgegenstände unter Wahrung der
 Interessen der Anleger veräußert hat, spätestens jedoch nach einem
 Zeitraum von vier Jahren nach dem Rücknahmetermin. Die Einzelheiten
 sind in den Vertragsbedingungen zu regeln.
-
 
 #### § 90p Angaben im Verkaufsprospekt und in den Vertragsbedingungen
 
@@ -7669,15 +7465,10 @@ folgende Angaben enthalten:
 2.  alle Voraussetzungen und Bedingungen der Rücknahme und Auszahlung von
     Anteilen aus dem Sondervermögen Zug um Zug gegen Rückgabe der Anteile.
 
-
-
-
-
 #### § 90q Verbot von Laufzeitfonds
 
 Das Mitarbeiterbeteiligungs-Sondervermögen darf nicht für eine
 begrenzte Dauer aufgelegt werden.
-
 
 #### § 90r Erklärungspflicht
 
@@ -7689,10 +7480,7 @@ Einzelheiten zur Abwicklung des Erwerbs der Anteile nach Satz 1 können
 zwischen den Unternehmen und der Kapitalanlagegesellschaft vertraglich
 vereinbart werden.
 
-
 ### Abschnitt 8 - Spezial-Sondervermögen
-
-
 
 #### § 91 Spezial-Sondervermögen
 
@@ -7739,14 +7527,12 @@ mit der Maßgabe, dass für gemeinschaftliche Rechnung der Anleger
 Kredite bis zur Höhe von 50 Prozent des Verkehrswertes der im
 Sondervermögen befindlichen Immobilien aufgenommen werden dürfen.
 
-
 #### § 92 Übertragung der Anteile
 
 Die Kapitalanlagegesellschaft hat in einer schriftlichen Vereinbarung
 mit den Anlegern sicherzustellen, dass die Anteile nur mit Zustimmung
 der Kapitalanlagegesellschaft von den Anlegern übertragen werden
 dürfen.
-
 
 #### § 93 Vertragsbedingungen und Verkaufsprospekt
 
@@ -7769,7 +7555,6 @@ Depotbank sowie das Geschäftsjahr anzugeben.
 
 (3) § 42 ist auf Spezial-Sondervermögen nicht anzuwenden.
 
-
 #### § 94 Rechnungslegung für Spezial-Sondervermögen
 
 Die Kapitalanlagegesellschaft hat für jedes Spezial-Sondervermögen für
@@ -7784,7 +7569,6 @@ die Prüfung der Berichte sind der Bundesanstalt nur auf Anforderung
 einzureichen. Die Prüfung von Spezial-Sondervermögen gemäß § 44 Abs. 5
 ist zusätzlich auf die Übereinstimmung der Vertragsbedingungen mit den
 Vorschriften dieses Gesetzes zu erstrecken.
-
 
 #### § 95 Weitere Ausnahmeregelungen
 
@@ -7863,14 +7647,9 @@ Masterfonds oder Feederfonds derselben Master-Feeder-Struktur sind.
 (9) § 23 Absatz 1 Satz 3, die §§ 41 und 43 Absatz 3 bis 5 sowie die §§
 45 und 68a sind auf Spezial-Sondervermögen nicht anzuwenden.
 
-
 ## Kapitel 3 - Investmentaktiengesellschaft
 
-
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 96 Rechtsform, Begriff
 
@@ -7971,7 +7750,6 @@ Betrag von 300 000 Euro unterschreitet. Das Gleiche gilt für den
 Eintritt der Zahlungsunfähigkeit oder der Überschuldung der
 Investmentaktiengesellschaft. Mit der Anzeige gegenüber den Aktionären
 ist durch den Vorstand eine Hauptversammlung einzuberufen.
-
 
 #### § 97 Erlaubnis
 
@@ -8091,7 +7869,6 @@ in anderer Weise zur Verfügung gestellt werden muss, ist auf die
 jeweiligen Anlagebedingungen zu verweisen und sind diese ebenfalls zu
 veröffentlichen oder zur Verfügung zu stellen.
 
-
 #### § 98 Bezeichnung und Angabe auf Geschäftsbriefen
 
 (1) Die Firma einer Investmentaktiengesellschaft muss abweichend von §
@@ -8109,7 +7886,6 @@ Teilgesellschaftsvermögen im Rechtsverkehr lediglich für ein oder
 mehrere Teilgesellschaftsvermögen tätig, so ist sie verpflichtet, dies
 offenzulegen und auf die haftungsrechtliche Trennung der
 Teilgesellschaftsvermögen hinzuweisen.
-
 
 #### § 99 Anwendbare Vorschriften
 
@@ -8211,7 +7987,6 @@ einer Verschmelzung nicht mehr als 75 Prozent der tatsächlich
 abgegebenen Stimmen der bei der Hauptversammlung anwesenden oder
 vertretenen Aktionäre verlangen.
 
-
 #### § 99a Sondervorschriften für selbstverwaltende Investmentaktiengesellschaften
 
 (1) § 99 Absatz 3 gilt für selbstverwaltende
@@ -8222,7 +7997,6 @@ erlassene Rechtsverordnung entsprechend anzuwenden sind.
 
 (2) Die Kosten einer Verschmelzung dürfen entsprechend den Vorgaben
 des § 40f nicht den Anlageaktionären zugerechnet werden.
-
 
 #### § 100 Sondervorschriften für Investmentaktiengesellschaften in Form einer Umbrella-Konstruktion
 
@@ -8284,10 +8058,7 @@ anwesenden oder vertretenen Aktionäre verlangen. Auf die in Satz 1
 genannten Fälle sind die Vorschriften des Umwandlungsgesetzes nicht
 anzuwenden.
 
-
 ### Abschnitt 2 - Vertriebsverbot; Sacheinlageverbot
-
-
 
 #### § 101 Verbot des öffentlichen Vertriebs
 
@@ -8297,21 +8068,16 @@ dem § 112 Abs. 1 vergleichbare Anlageform vorsieht, dürfen nicht
 öffentlich vertrieben werden. § 112 Absatz 2 Satz 2 ist entsprechend
 anzuwenden.
 
-
 #### § 102 (weggefallen)
 
 -
-
 
 #### § 103 Ausgabe der Aktien
 
 Aktien dürfen nur gegen volle Leistung des Ausgabepreises ausgegeben
 werden.
 
-
 ### Abschnitt 3 - Kapitalvorschriften
-
-
 
 #### § 104 Gesellschaftskapital
 
@@ -8322,7 +8088,6 @@ ein Bezugsrecht entsprechend § 186 des Aktiengesetzes; Anlageaktionäre
 jedoch nur dann, wenn ihnen nach Maßgabe des § 96 Abs. 1c Satz 2 ein
 Stimmrecht zusteht. Mit der Ausgabe der Aktien ist das
 Gesellschaftskapital erhöht.
-
 
 #### § 105 Veränderliches Kapital, Rücknahme von Aktien
 
@@ -8353,10 +8118,7 @@ herabgesetzt.
 
 (4) bis (6) (weggefallen)
 
-
 ### Abschnitt 4 - Besondere Vorschriften über die Verfassung der Investmentaktiengesellschaft
-
-
 
 #### § 106 Vorstand
 
@@ -8382,7 +8144,6 @@ zwei Personen. Er ist verpflichtet,
 Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von
 der Depotbank zu handeln.
 
-
 #### § 106a Aufsichtsrat
 
 Die Mitglieder des Aufsichtsrats sollen ihrer Persönlichkeit und ihrer
@@ -8390,7 +8151,6 @@ Sachkunde nach die Wahrung der Interessen der Aktionäre gewährleisten.
 Für die Zusammensetzung des Aufsichtsrates gilt § 6 Abs. 2a
 entsprechend. Die Bestellung und das Ausscheiden von Mitgliedern des
 Aufsichtsrates ist der Bundesanstalt unverzüglich anzuzeigen.
-
 
 #### § 106b Geschäftsverbote für Vorstand und Aufsichtsrat
 
@@ -8401,14 +8161,9 @@ Erwerb und Veräußerung von Aktien der Investmentaktiengesellschaft
 durch die Mitglieder des Vorstands und des Aufsichtsrates sind davon
 nicht erfasst.
 
-
 #### (XXXX) §§ 107 bis 109 (weggefallen)
 
-
-
 ### Abschnitt 5 - Rechnungslegung
-
-
 
 #### § 110 Jahresabschluss und Lagebericht
 
@@ -8451,7 +8206,6 @@ Unterlagen zur Beurteilung der Tätigkeit der
 Investmentaktiengesellschaften zu erhalten. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung
 des Bundesrates auf die Bundesanstalt übertragen.
-
 
 #### § 110a Prüfung des Jahresabschlusses und des Lageberichts
 
@@ -8500,7 +8254,6 @@ Investmentaktiengesellschaften zu erhalten. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung
 des Bundesrates auf die Bundesanstalt übertragen.
 
-
 #### § 111 Halbjahresbericht, Liquidationsrechnungslegung
 
 (1) Soweit die Investmentaktiengesellschaft zur Aufstellung eines
@@ -8518,7 +8271,6 @@ Investmentaktiengesellschaft ist sind die §§ 110 und 110a entsprechend
 anzuwenden.
 
 (3) (weggefallen)
-
 
 #### § 111a Offenlegung und Vorlage von Berichten bei der Bundesanstalt
 
@@ -8540,10 +8292,7 @@ Jahresabschluss und den Lagebericht unverzüglich nach der Feststellung
 und den Halbjahresbericht unverzüglich nach der Erstellung
 einzureichen.
 
-
 ## Kapitel 4 - Sondervermögen mit zusätzlichen Risiken (Hedgefonds)
-
-
 
 ### § 112 Sondervermögen mit zusätzlichen Risiken
 
@@ -8602,7 +8351,6 @@ Integrität des Marktes erforderlich ist. Die Rechtsverordnung bedarf
 nicht der Zustimmung des Bundesrates. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung
 des Bundesrates auf die Bundesanstalt übertragen.
-
 
 ### § 113 Dach-Sondervermögen mit zusätzlichen Risiken
 
@@ -8677,7 +8425,6 @@ von dem jeweiligen Zielfonds angegeben und erläutert werden. Die
 Depotbank der Zielfonds oder eine vergleichbare Einrichtung hat eine
 Bestätigung des Wertes des Zielfonds vorzulegen.
 
-
 ### § 114 Verwaltung von Sondervermögen mit zusätzlichen Risiken
 
 Für die Verwaltung von Sondervermögen nach Maßgabe der §§ 112 und 113
@@ -8685,13 +8432,11 @@ gelten die Vorschriften dieses Gesetzes mit Ausnahme der §§ 46 bis 52
 und 54 bis 90r sinngemäß, soweit sich aus den Vorschriften dieses
 Kapitels nichts anderes ergibt.
 
-
 ### § 115 Auskunftsrecht der Bundesanstalt
 
 Kapitalanlagegesellschaften, die Sondervermögen nach Maßgabe des § 113
 verwalten, haben der Bundesanstalt auf Anforderung alle ihnen nach
 Maßgabe des § 113 Abs. 5 vorliegenden Unterlagen vorzulegen.
-
 
 ### § 116 Rücknahme
 
@@ -8714,7 +8459,6 @@ depotführenden Stelle zu sperren. Im Falle von nicht im Inland in
 einem Depot verwahrten Anteilen wird die Erklärung erst wirksam und
 beginnt die Frist erst zu laufen, wenn von der Depotbank die
 zurückzugebenden Anteile in ein Sperrdepot übertragen worden sind.
-
 
 ### § 117 Verkaufsprospekt
 
@@ -8785,7 +8529,6 @@ diese Tatsache hingewiesen werden, verbunden mit dem Hinweis, dass der
 Prime Broker nicht der staatlichen Aufsicht durch die Bundesanstalt
 untersteht.
 
-
 ### § 118 Vertragsbedingungen
 
 (1) Die Vertragsbedingungen von Kapitalanlagegesellschaften, die
@@ -8821,7 +8564,6 @@ dem § 112 Abs. 1 vergleichbare Anlageform vorsieht, müssen Angaben
 darüber enthalten, ob die Vermögensgegenstände bei einer Depotbank
 oder einem Prime Broker verwahrt werden.
 
-
 ### § 119 Risiko-Messsysteme
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
@@ -8832,7 +8574,6 @@ nicht der Zustimmung des Bundesrates. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
 
-
 ### § 120 Anforderungen an die für die Anlageentscheidungen verantwortlichen Personen von Sondervermögen nach den §§ 112 und 113
 
 Personen, die für die Anlageentscheidungen von Sondervermögen nach den
@@ -8842,14 +8583,9 @@ ausreichendes Erfahrungswissen und praktische Kenntnisse in Bezug auf
 die Anlage in Sondervermögen mit zusätzlichen Risiken und
 vergleichbaren ausländischen Investmentvermögen haben.
 
-
 ## Kapitel 5 - Vertriebsvorschriften
 
-
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 #### § 121 Verkaufsunterlagen und Hinweispflichten
 
@@ -8918,7 +8654,6 @@ Risiken und Renditen der wichtigsten Kategorien von
 Vermögensgegenständen des Sondervermögens informieren. Im
 Verkaufsprospekt ist hierauf hinzuweisen sowie anzugeben, an welcher
 Stelle und in welcher Form diese Informationen erhältlich sind.
-
 
 #### § 122 Veröffentlichungspflichten
 
@@ -9088,7 +8823,6 @@ Investmentvermögen im Sinne des § 136 Abs. 3 dürfen der Kurs der
 Anteile und der Nettoinventarwert des Investmentvermögens nur
 gemeinsam genannt werden.
 
-
 #### § 123 Maßgebliche Sprachfassung
 
 (1) Sämtliche Veröffentlichungen und Werbeschriften, die sich auf
@@ -9105,7 +8839,6 @@ maßgeblich; für die übrigen in § 122 Absatz 1 Satz 1 genannten
 Unterlagen ist die im Geltungsbereich dieses Gesetzes veröffentlichte
 Sprachfassung zugrunde zu legen. Erfolgt die Veröffentlichung auch in
 deutscher Sprache, so ist der deutsche Wortlaut maßgeblich.
-
 
 #### § 124 Werbung
 
@@ -9183,7 +8916,6 @@ Investmentanteile im Geltungsbereich dieses Gesetzes öffentlich zu
 vertreiben, erst wieder anzeigen, wenn seit dem Tag der Untersagung
 ein Jahr verstrichen ist.
 
-
 #### § 125 Kostenvorausbelastung
 
 Wurde die Abnahme von Anteilen für einen mehrjährigen Zeitraum
@@ -9191,7 +8923,6 @@ vereinbart, so darf von jeder der für das erste Jahr vereinbarten
 Zahlungen höchstens ein Drittel für die Deckung von Kosten verwendet
 werden, die restlichen Kosten müssen auf alle späteren Zahlungen
 gleichmäßig verteilt werden.
-
 
 #### § 126 Widerrufsrecht
 
@@ -9242,7 +8973,6 @@ Tage nach dem Eingang der Widerrufserklärung entspricht.
 
 (6) Die Vorschrift ist auf den Verkauf von Anteilen durch den Anleger
 entsprechend anwendbar.
-
 
 #### § 127 Prospekthaftung und Haftung für die wesentlichen Anlegerinformationen
 
@@ -9296,10 +9026,7 @@ gekannt hat.
 
 (5) (weggefallen)
 
-
 ### Abschnitt 2 - Vertrieb in anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-
-
 
 #### § 128 Anzeigepflicht
 
@@ -9388,7 +9115,6 @@ und über die zulässigen Datenträger und Übertragungswege erlassen. Das
 Bundesministerium der Finanzen kann die Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
 #### § 129 Veröffentlichungspflichten
 
 (1) Die Kapitalanlagegesellschaft hat sämtliche in § 128 Absatz 1
@@ -9416,10 +9142,7 @@ der Verordnung (EU) Nr. 584/2010 oder die vertriebenen Anteilklassen
 des Aufnahmestaates vor Umsetzung der Änderung in Textform
 mitzuteilen.
 
-
 ### Abschnitt 3 - Öffentlicher Vertrieb von EU-Investmentanteilen im Geltungsbereich dieses Gesetzes
-
-
 
 #### § 130 Auf den öffentlichen Vertrieb von EU-Investmentanteilen anwendbare Vorschriften
 
@@ -9432,7 +9155,6 @@ Investmentanteile Anwendung finden, anzuwenden.
 Artikel 30 der Richtlinie 2010/44/EU die Anforderungen, die bei
 öffentlichem Vertrieb von EU-Investmentanteilen im Geltungsbereich
 dieses Gesetzes zu beachten sind.
-
 
 #### § 131 Pflichten bei öffentlichem Vertrieb von EU-Investmentanteilen im Inland
 
@@ -9468,7 +9190,6 @@ hinzuweisen, dass für die weiteren Teilfonds keine Anzeige erstattet
 wurde und Anteile dieser Teilfonds im Geltungsbereich dieses Gesetzes
 nicht öffentlich vertrieben werden dürfen; diese weiteren Teilfonds
 sind namentlich zu bezeichnen.
-
 
 #### § 132 Anzeige von EU-Investmentanteilen zum öffentlichen Vertrieb im Inland
 
@@ -9542,7 +9263,6 @@ mitgeteilten Modalitäten der Vermarktung oder einer Änderung der
 vertriebenen Anteilklassen teilt die EU-Investmentgesellschaft oder
 die Kapitalanlagegesellschaft der Bundesanstalt vor Umsetzung der
 Änderung diese Änderung in Textform mit.
-
 
 #### § 133 Untersagung und Einstellung des öffentlichen Vertriebs
 
@@ -9640,15 +9360,11 @@ Veröffentlichung auf Kosten der EU-Investmentgesellschaft oder der
 Kapitalanlagegesellschaft vornehmen, wenn die Veröffentlichungspflicht
 auch nach Fristsetzung nicht erfüllt wird.
 
-
 #### § 134 (weggefallen)
 
 -
 
-
 ### Abschnitt 4 - Öffentlicher Vertrieb von ausländischen Investmentanteilen im Geltungsbereich dieses Gesetzes
-
-
 
 #### § 135 Anwendbare Vorschriften auf den öffentlichen Vertrieb ausländischer Investmentanteile
 
@@ -9661,7 +9377,6 @@ finden. Der öffentliche Vertrieb von Anteilen an einem ausländischen
 Investmentvermögen, das hinsichtlich der Anlagepolitik Anforderungen
 unterliegt, die denen nach § 112 Abs. 1 vergleichbar sind, ist nicht
 gestattet.
-
 
 #### § 136 Zulässigkeit des öffentlichen Vertriebs
 
@@ -9812,7 +9527,6 @@ Sitz in einem solchen Staat ausgegeben werden, entsprechend Anwendung
 finden, wenn die Voraussetzungen nach Absatz 1 Nr. 1 sowie der
 Richtlinie 2009/65/EG entsprechend erfüllt sind.
 
-
 #### § 137 Verkaufsprospekt
 
 (1) Der Verkaufsprospekt der ausländischen Investmentgesellschaft muss
@@ -9899,7 +9613,6 @@ enthalten. Der Verkaufsprospekt von ausländischen Investmentvermögen,
 die denen nach § 90g vergleichbar sind, muss darüber hinaus Angaben
 nach § 90j Abs. 2 in entsprechender Weise enthalten.
 
-
 #### § 138 Vertretung der Gesellschaft, Gerichtsstand
 
 (1) Der Repräsentant vertritt die ausländische Investmentgesellschaft
@@ -9919,7 +9632,6 @@ durch Vereinbarung nicht ausgeschlossen werden.
 sind von der Bundesanstalt im Bundesanzeiger bekannt zu machen.
 Entstehen der Bundesanstalt durch die Bekanntmachung nach Satz 1
 Kosten, sind diese Kosten der Bundesanstalt zu erstatten.
-
 
 #### § 139 Anzeigepflicht
 
@@ -10007,7 +9719,6 @@ beziehungsweise der letzten Ergänzungsanzeige einzureichen;
 anderenfalls gilt der öffentliche Vertrieb wegen nicht ordnungsgemäßer
 Anzeigenerstattung als untersagt. Die Frist nach Satz 3 ist eine
 Ausschlussfrist.
-
 
 #### § 140 Aufnahme, Untersagung und Einstellung des öffentlichen Vertriebs
 
@@ -10133,10 +9844,7 @@ Bundesanstalt kann die Veröffentlichung auf Kosten der ausländischen
 Investmentgesellschaft vornehmen, wenn die Veröffentlichungspflicht
 auch nach Fristsetzung nicht erfüllt wird.
 
-
 ### Abschnitt 5 - Vertriebsüberwachung
-
-
 
 #### § 141 Zuständigkeit der Bundesanstalt
 
@@ -10150,7 +9858,6 @@ und die Vorlage der Verkaufsunterlagen von Personen und Unternehmen
 verlangen, bei denen Tatsachen die Annahme rechtfertigen, dass sie
 ausländische Investmentanteile vertreiben, ohne dass die nach § 132
 Abs. 1 oder § 139 Abs. 1 erforderliche Anzeige erstattet worden ist.
-
 
 #### § 142 Zusammenarbeit mit anderen Stellen
 
@@ -10177,13 +9884,7 @@ werden:
 
 3.  für Zwecke nach Maßgabe des § 19 Abs. 1 Satz 2 Nr. 2 bis 4.
 
-
-
-
-
 ## Kapitel 6 - Straf-, Bußgeld- und Übergangsvorschriften
-
-
 
 ### § 143 Bußgeldvorschriften
 
@@ -10465,20 +10166,17 @@ Euro geahndet werden.
 (6) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
 ### § 143a Strafvorschriften
 
 Wer ohne die Erlaubnis nach § 7 Abs. 1 Satz 1 das Geschäft einer
 Kapitalanlagegesellschaft betreibt, wird mit Freiheitsstrafe bis zu
 drei Jahren oder Geldstrafe bestraft.
 
-
 ### § 143b Mitteilungen in Strafsachen
 
 Für die Mitteilungspflichten der Gerichte, der Strafverfolgungs- oder
 der Strafvollstreckungsbehörden gegenüber der Bundesanstalt findet §
 60a des Kreditwesengesetzes entsprechend Anwendung.
-
 
 ### § 143c Beschwerde- und Schlichtungsverfahren
 
@@ -10545,7 +10243,6 @@ geeignete private Stellen zu übertragen, wenn die Aufgaben dort
 zweckmäßiger erledigt werden können. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt übertragen.
-
 
 ### § 144 Allgemeine Übergangsvorschriften
 
@@ -10620,7 +10317,6 @@ Vertragsbedingungen verbunden ist, ist die Bekanntmachung gemäß § 43
 Absatz 5 Satz 6 und 7 so zu veranlassen, dass die geänderten
 Vertragsbedingungen spätestens am 30. Juni 2013 in Kraft treten.
 
-
 ### § 145 Übergangsvorschriften für Sondervermögen
 
 (1) Eine Kapitalanlagegesellschaft hat die Vertragsbedingungen der von
@@ -10688,7 +10384,6 @@ werden.
 darf § 83 in der bis zum 7. April 2011 geltenden Fassung noch bis zum
 31\. Dezember 2012 weiter angewendet werden.
 
-
 ### § 146 Übergangsvorschriften für Investmentaktiengesellschaften
 
 (1) Eine richtlinienkonforme Investmentaktiengesellschaft hat ihre
@@ -10742,7 +10437,6 @@ ausdrücklich sämtliche Rechte und Pflichten der Unternehmensaktionäre
 
 (4) (weggefallen)
 
-
 ### § 147 Übergangsvorschrift zur Verwahrung und Verwaltung von Anteilscheinen
 
 Für Kapitalanlagegesellschaften, die am 29. Juni 2009 die Erlaubnis
@@ -10752,7 +10446,6 @@ Erlaubnis zum Erbringen der individuellen Vermögensverwaltung nach § 7
 Abs. 2 Nr. 1 als zu diesem Zeitpunkt erteilt, wenn sie bis zum 29.
 Juli 2009 der Bundesanstalt anzeigen, dass sie weiterhin die
 Nebendienstleistungen nach § 7 Abs. 2 Nr. 4 erbringen wollen.
-
 
 ### § 148 Übergangsvorschrift zur Aufhebung des § 127 Absatz 5
 

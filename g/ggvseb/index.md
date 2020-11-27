@@ -27,7 +27,6 @@ Neugefasst durch
     Beförderung gefährlicher Güter im Binnenland (ABl. L 260 vom
     30\.9.2008, S. 13).
 
-
 ## Inhaltsverzeichnis
 
 
@@ -258,9 +257,6 @@ Neugefasst durch
         bis 9 des ADN für innerstaatliche und grenzüberschreitende
         Beförderungen
 
-
-
-
 ## § 1 Geltungsbereich
 
 (1) Diese Verordnung regelt die innerstaatliche und
@@ -374,7 +370,6 @@ anstelle des Begriffes „Vertragspartei” jeweils der Begriff
 (5) Die in dieser Verordnung für die Teile 4 und 6 ADR/RID getroffenen
 Regelungen sind nach Maßgabe der Abschnitte 4.1.1 bis 4.1.4 und 6.1.1
 bis 6.1.6 ADN auch für die Binnenschifffahrt anzuwenden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -554,7 +549,6 @@ verwendet:
     29\. November 2011 (BGBl. I S. 2349) werden die Nummern 8 und 9 am 1.
     Januar 2015 aufgehoben.
 
-
 ## § 3 Zulassung zur Beförderung
 
 Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden,
@@ -564,7 +558,6 @@ wenn deren Beförderung nach den Unterabschnitten 2.2.1.2, 2.2.2.2,
 ADR/RID/ADN oder nach Anlage 2 nicht ausgeschlossen ist und die
 Beförderung unter Einhaltung der anwendbaren Vorschriften des
 ADR/RID/ADN erfolgt.
-
 
 ## § 4 Allgemeine Sicherheitspflichten
 
@@ -611,7 +604,6 @@ Beförderung beeinträchtigen könnte, hat
 die Sendung möglichst rasch anzuhalten. Er darf die Beförderung erst
 fortsetzen, wenn die anzuwendenden Vorschriften erfüllt oder die
 Anweisungen oder Genehmigungen der zuständigen Behörden erteilt sind.
-
 
 ## § 5 Ausnahmen
 
@@ -724,7 +716,6 @@ die Beförderung auf der innerdeutschen Teilstrecke einer
 innergemeinschaftlichen oder grenzüberschreitenden Beförderung, soweit
 in der Ausnahme nicht ausdrücklich etwas anderes bestimmt ist.
 
-
 ## § 6 Zuständigkeiten des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ist
@@ -762,10 +753,6 @@ zuständige Behörde für
 
 6.  den Erlass von Vorschriften für Druckbehälter nach den Absätzen
     9\.3.1.23.1, 9.3.2.23.5 und 9.3.3.23.5 ADN.
-
-
-
-
 
 ## § 7 Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern bestellten Sachverständigen oder Dienststellen
 
@@ -835,7 +822,6 @@ oder durch ausländische Streitkräfte, auch wenn sich die Bundeswehr
 ziviler Unternehmen bedient, sind die nach Absatz 1 bestellten
 Dienststellen neben den nach Landesrecht zuständigen Behörden zur
 Überwachung befugt.
-
 
 ## § 8 Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
 
@@ -973,10 +959,6 @@ Behörde für
 
 14. die Zulassung von Gasspüranlagen nach Unterabschnitt 7.2.2.6 ADN.
 
-
-
-
-
 ## § 9 Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen
 
 Die von der Bundesanstalt für Materialforschung und -prüfung nach § 6
@@ -987,7 +969,6 @@ mit mehreren Elementen (MEGC) nach Kapitel 6.7 und von Tankcontainern,
 Tankwechselaufbauten (Tankwechselbehältern) und MEGC nach Kapitel 6.8
 ADR/RID. Satz 1 gilt nicht für Tanks und MEGC, die als ortsbewegliche
 Druckgeräte nach ODV mit der Pi-Kennzeichnung zu versehen sind.
-
 
 ## § 10 Zuständigkeiten des Bundesamtes für Wehrtechnik und Beschaffung
 
@@ -1009,10 +990,6 @@ nach
 
 4.  Unterabschnitt 7.5.2.2 Fußnote a ADR/RID in Bezug auf explosive Stoffe
     und Gegenstände mit Explosivstoff.
-
-
-
-
 
 ## § 11 Zuständigkeiten des Bundesamtes für Strahlenschutz
 
@@ -1045,10 +1022,6 @@ Das Bundesamt für Strahlenschutz ist zuständige Behörde für
 6.  die Genehmigung des Strahlenschutzprogramms für die Beförderung von
     radioaktiven Stoffen mit einem Spezialschiff nach Absatz
     7\.1.4.14.7.3.7 ADN.
-
-
-
-
 
 ## § 12 Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
 
@@ -1114,14 +1087,12 @@ Satz 1 Nummer 1 und 2, jeweils Buchstabe a und b, gilt nicht, soweit
 die aufgeführten Tanks als ortsbewegliche Druckgeräte nach ODV mit der
 Pi-Kennzeichnung zu versehen sind.
 
-
 ## § 13 Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
 Die Benannten Stellen nach § 16 der ODV sind zuständig für die
 Zulassung und Prüfung der Gefäße nach den Unterabschnitten 6.2.1.4 und
 6\.2.1.6 ADR/RID, die nicht als ortsbewegliche Druckgeräte nach der ODV
 mit der Pi-Kennzeichnung zu versehen sind.
-
 
 ## § 14 Besondere Zuständigkeiten im Straßenverkehr
 
@@ -1171,7 +1142,6 @@ oder der von ihr bestimmten Stelle benannt oder die bei einer nach
 Landesrecht zuständigen Stelle tätig sind, sind zuständig für die
 jährliche technische Untersuchung und die Verlängerung der Gültigkeit
 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.2.3 ADR.
-
 
 ## § 15 Besondere Zuständigkeiten im Eisenbahnverkehr
 
@@ -1250,7 +1220,6 @@ versehen sind.
 (3) Die nach Landesrecht zuständigen Behörden sind zuständig für
 Beförderungen im Bereich der nichtbundeseigenen Eisenbahnen, soweit in
 dieser Verordnung nichts anderes bestimmt ist.
-
 
 ## § 16 Besondere Zuständigkeiten in der Binnenschifffahrt
 
@@ -1396,7 +1365,6 @@ Intaktstabilität aller Schiffstypen“ in der Fassung der Bekanntmachung
 vom 18. März 1999 (VkBl. S. 164) für die Prüfung der
 Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
 
-
 ## § 17 Pflichten des Auftraggebers des Absenders
 
 (1) Der Auftraggeber des Absenders im Straßen- und Eisenbahnverkehr
@@ -1422,7 +1390,6 @@ sowie in der Binnenschifffahrt hat dafür zu sorgen,
 (2) Der Auftraggeber des Absenders im Eisenbahnverkehr hat dafür zu
 sorgen, dass dem Absender die Angaben nach Absatz 1.1.4.4.5 RID
 schriftlich mitgeteilt werden.
-
 
 ## § 18 Pflichten des Absenders
 
@@ -1559,13 +1526,6 @@ Absatz 1 Satz 1 Nummer 1, Absatz 6 oder 7 übergeben wird.
 
 
     b)  die orangefarbene Tafel nach Absatz 5.3.2.1.7 ADN angebracht wird.
-
-
-
-
-
-
-
 
 ## § 19 Pflichten des Beförderers
 
@@ -1804,10 +1764,6 @@ Binnenschifffahrt
     Sachkundiger mit einer gültigen Bescheinigung nach den
     Unterabschnitten 8.2.1.2, 8.2.1.5 oder 8.2.1.7 ADN an Bord ist.
 
-
-
-
-
 ## § 20 Pflichten des Empfängers
 
 (1) Der Empfänger im Straßen- und Eisenbahnverkehr sowie in der
@@ -1858,7 +1814,6 @@ sind.
 Absatz 1 Nummer 1 Buchstabe b einen Verstoß gegen die Vorschriften des
 ADN aufzeigt, dem Beförderer den Container, das Fahrzeug oder den
 Wagen erst dann zurückstellen, wenn der Verstoß behoben worden ist.
-
 
 ## § 21 Pflichten des Verladers
 
@@ -2028,10 +1983,6 @@ Binnenschifffahrt
 3.  dafür zu sorgen, dass die Vorschriften über das Laden, Befördern und
     die Handhabung nach Abschnitt 7.1.4 ADN beachtet werden.
 
-
-
-
-
 ## § 22 Pflichten des Verpackers
 
 (1) Der Verpacker im Straßen- und Eisenbahnverkehr sowie in der
@@ -2090,7 +2041,6 @@ Verwendung von Umverpackungen nach Abschnitt 5.1.2 ADR zu beachten.
 
 (3) Der Verpacker im Eisenbahnverkehr hat die Vorschriften über die
 Verwendung von Umverpackungen nach Abschnitt 5.1.2 RID zu beachten.
-
 
 ## § 23 Pflichten des Befüllers
 
@@ -2317,10 +2267,6 @@ Binnenschifffahrt
     Unterabschnitt 8.1.8.4 Satz 2 ADN im Zulassungszeugnis für das
     Tankschiff nicht überschritten ist.
 
-
-
-
-
 ## § 23a Pflichten des Entladers
 
 (1) Der Entlader im Straßen- und Eisenbahnverkehr sowie in der
@@ -2439,10 +2385,6 @@ Binnenschifffahrt hat
     Bereich des Vor- und des Hinterschiffes geeignete Mittel vorhanden
     sind, um das Schiff in Notfällen zu verlassen.
 
-
-
-
-
 ## § 24 Pflichten des Betreibers eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU
 
 Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC,
@@ -2491,10 +2433,6 @@ in der Binnenschifffahrt hat dafür zu sorgen, dass
 
 8.  die MEMU nach Absatz 6.12.3.2.6 ADR untersucht und geprüft werden.
 
-
-
-
-
 ## § 25 Pflichten des Herstellers und des Rekonditionierers von Verpackungen und der Stellen für Inspektionen und Prüfungen von IBC
 
 (1) Der Hersteller im Straßen- und Eisenbahnverkehr sowie in der
@@ -2536,7 +2474,6 @@ nach einem anerkannten Qualitätssicherungsprogramm untersucht wurden
 und die im Anerkennungsbescheid des Qualitätssicherungsprogramms
 genannten Nebenbestimmungen erfüllt sind.
 
-
 ## § 26 Sonstige Pflichten
 
 (1) Wer ungereinigte leere Tanks zur Beförderung übergibt, versendet
@@ -2557,7 +2494,6 @@ oder selbst befördert, hat dafür zu sorgen, dass
 dass keine offensichtlichen Undichtigkeiten vorliegen, kann davon
 ausgegangen werden, dass beim vorherigen Entleerungsvorgang nicht
 betätigte Füll- und Entleerungseinrichtungen unverändert dicht sind.
-
 
 ## § 27 Pflichten mehrerer Beteiligter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
@@ -2657,7 +2593,6 @@ Binnenschifffahrt haben dafür zu sorgen, dass
 Binnenschifffahrt haben dafür zu sorgen, dass die mit der Handhabung
 von begasten Güterbeförderungseinheiten befassten Personen nach
 Unterabschnitt 5.5.2.2 ADR/RID/ADN unterwiesen sind.
-
 
 ## § 28 Pflichten des Fahrzeugführers im Straßenverkehr
 
@@ -2785,10 +2720,6 @@ Der Fahrzeugführer im Straßenverkehr hat
 
 16. die Vorschriften nach Kapitel 8.3 ADR zu beachten.
 
-
-
-
-
 ## § 29 Pflichten mehrerer Beteiligter im Straßenverkehr
 
 (1) Der Verlader und der Fahrzeugführer im Straßenverkehr haben die
@@ -2834,7 +2765,6 @@ Fahrzeuge oder über das Anbringen der Kennzeichnung nach Abschnitt
 Unterweisung aller an der Beförderung gefährlicher Güter beteiligten
 Personen nach Abschnitt 8.2.3 ADR erfolgt.
 
-
 ## § 30 Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr
 
 Der Betreiber eines Kesselwagens, abnehmbaren Tanks und Batteriewagens
@@ -2866,10 +2796,6 @@ im Eisenbahnverkehr hat dafür zu sorgen, dass
     oder Betreiber übergeben, auf Anforderung zuständigen Behörden
     vorgelegt und dem Sachverständigen zur Verfügung gestellt wird.
 
-
-
-
-
 ## § 31 Pflichten des Eisenbahninfrastrukturunternehmers im Eisenbahnverkehr
 
 Der Eisenbahninfrastrukturunternehmer im Eisenbahnverkehr
@@ -2888,20 +2814,12 @@ Der Eisenbahninfrastrukturunternehmer im Eisenbahnverkehr
         uneingeschränkten Zugriff zu den Informationen nach Unterabschnitt
         1\.4.3.6 Buchstabe b RID hat.
 
-
-
-
-
-
-
-
 ## § 32 Pflichten des Reisenden im Eisenbahnverkehr
 
 Der Reisende darf im Eisenbahnverkehr gefährliche Güter als Handgepäck
 oder Reisegepäck nur mitführen oder in oder auf Fahrzeugen (Auto im
 Reisezug) nur befördern lassen, wenn die Vorschriften nach Kapitel 7.7
 RID beachtet sind.
-
 
 ## § 33 Pflichten des Schiffsführers in der Binnenschifffahrt
 
@@ -2963,10 +2881,6 @@ Der Schiffsführer in der Binnenschifffahrt
     Nummern 1 bis 9 feststellt, die Sendung so lange nicht befördern, bis
     die Vorschriften erfüllt sind.
 
-
-
-
-
 ## § 34 Pflichten des Eigentümers oder Ausrüsters in der Binnenschifffahrt
 
 Der Eigentümer oder, sofern ein Ausrüsterverhältnis besteht, der
@@ -2990,17 +2904,12 @@ Ausrüster in der Binnenschifffahrt hat dafür zu sorgen, dass
 
 5.  die Vorschriften des Teils 9 ADN eingehalten werden.
 
-
-
-
-
 ## § 34a Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt
 
 Die Besatzung sowie alle sonstigen an Bord befindlichen Personen haben
 den Anweisungen des Schiffsführers Folge zu leisten. Die Besatzung
 hat, im Rahmen des Satzes 1, zur Einhaltung dieser Verordnung
 ihrerseits beizutragen.
-
 
 ## § 35 Fahrweg und Verlagerung im Straßenverkehr
 
@@ -3136,11 +3045,9 @@ oder das Beförderungspapier für den Bahntransport während der
 Beförderung mitführen und zuständigen Personen auf Verlangen zur
 Prüfung aushändigen.
 
-
 ## § 36 (weggefallen)
 
 -
-
 
 ## § 37 Ordnungswidrigkeiten
 
@@ -4103,7 +4010,6 @@ Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 Geldbußen auf dem Rhein bis zu fünfundzwanzigtausend Euro bleibt
 unberührt.
 
-
 ## § 38 Übergangsbestimmungen
 
 Zugelassene Überwachungsstellen nach § 37 Absatz 5 des
@@ -4189,7 +4095,6 @@ Satz 1 Nummer 2 und 3, jeweils Buchstabe a und b, gilt nicht, soweit
 die aufgeführten Tanks als ortsbewegliche Druckgeräte nach ODV mit der
 Pi-Kennzeichnung versehen sind.
 
-
 ## Anlage 1 (zu § 35) Gefährliche Güter, für deren innerstaatliche und grenzüberschreitende Beförderung § 35 gilt
 
 (Fundstelle: BGBl. I 2011, 2760 - 2772)
@@ -4204,10 +4109,6 @@ Pi-Kennzeichnung versehen sind.
     einer Beförderungseinheit befördert, so ist § 35 ab 1 000 kg
     Gesamtmasse (Nettoexplosivstoffmasse) dieser Güter in der
     Beförderungseinheit anzuwenden.
-
-
-
-
 
 ## **Tabelle 1**
 
@@ -4866,10 +4767,6 @@ Pi-Kennzeichnung versehen sind.
 2.1 Für die in der Tabelle 2.1 genannten Stoffe gilt § 35 ab jeweils 6 000
     kg Nettomasse in einer Beförderungseinheit.
 
-
-
-
-
 ## **Tabelle 2.1**
 
 *    *   UN-Nummer und offizielle Benennung der Stoffe
@@ -5000,10 +4897,6 @@ Bemerkungen:
 
 2.2 Für die in der Tabelle 2.2 genannten Stoffe gilt § 35 ab jeweils 1 000
     kg Nettomasse in einer Beförderungseinheit.
-
-
-
-
 
 ## **Tabelle 2.2**
 
@@ -5265,10 +5158,6 @@ Bemerkungen:
     kg Nettomasse, sofern diese Stoffe in festverbundenen Tanks oder
     Aufsetztanks oder Tankcontainern oder ortsbeweglichen Tanks mit einem
     Einzelfassungsraum von mehr als 3 000 Liter befördert werden.
-
-
-
-
 
 ## **Tabelle 3**
 
@@ -5608,10 +5497,6 @@ Bemerkungen:
 4.  Für die nachfolgend genannten entzündbaren flüssigen Stoffe der Klasse
     3, die unter die Verpackungsgruppe I oder II fallen, gelten unter der
     Maßgabe des § 35 Absatz 1 die Absätze 2 und 3.
-
-
-
-
 
 ## **Tabelle 4**
 

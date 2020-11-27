@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   AnO v. 22.11.2005 I 3181
 
-
 ## Eingangsformel
 
 Auf Vorschlag der Bundesregierung bestimme ich zur Form und Führung
 der deutschen Flaggen:
-
 
 ## I.
 
@@ -56,10 +54,6 @@ der deutschen Flaggen:
 
 4.  Die Muster zu den Nummern 1 bis 3 sind in Anhang 1 wiedergegeben.
 
-
-
-
-
 ## II.
 
 Alle Stellen des Bundes führen die Bundesdienstflagge. Der
@@ -67,7 +61,6 @@ Bundespräsident oder die Bundespräsidentin führt die Standarte am
 jeweiligen Amtssitz. Dienstgebäude des Bundes können mit der
 Bundesflagge oder mit der Bundesdienstflagge beflaggt werden; dies
 gilt auch für Wasserfahrzeuge im öffentlichen Dienst des Bundes.
-
 
 ## III.
 
@@ -77,7 +70,6 @@ Amtsinhaber oder die Amtsinhaberin oder in den in Nummer 2 des Anhangs
 2 bezeichneten Fällen der Stellvertreter oder die Stellvertreterin im
 Fahrzeug befindet. Die Flagge ist am rechten Kotflügel anzubringen.
 
-
 ## IV.
 
 Über Änderungen des Anhangs 2 sowie bei Zweifeln hinsichtlich der
@@ -85,7 +77,6 @@ Berechtigung zum Führen der Bundesdienstflagge oder des anzuwendenden
 Musters nach Anhang 3 entscheidet das Bundesministerium des Innern im
 Benehmen mit dem jeweils zuständigen Verfassungsorgan oder
 Bundesministerium.
-
 
 ## V.
 
@@ -97,19 +88,13 @@ Bundesministerium.
 2.  Die Flaggenführung bei der Bundeswehr und bei der Bundespolizei wird
     besonders geregelt.
 
-
-
-
-
 ## VI.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundespräsident
-
 
 ## Anhang 1 Flaggen der Bundesrepublik Deutschland
 
@@ -139,9 +124,6 @@ Der Bundespräsident
 *    *   Bundesflagge in Bannerform
 
     *   Bundesdienstflagge in Bannerform
-
-
-
 
 ## Anhang 2
 
@@ -320,7 +302,6 @@ Der Bundespräsident
 (2) Absatz 1 Nr. 3 Buchstabe c bis f und Nr. 4 Buchstabe a, c und d
 gilt entsprechend für die Stellvertreter und Stellvertreterinnen, wenn
 sie die Vertretung ausüben.
-
 
 ## Anhang 3 Flaggen für Dienstkraftfahrzeuge
 

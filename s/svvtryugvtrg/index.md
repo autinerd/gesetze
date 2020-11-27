@@ -20,11 +20,9 @@ Fundstelle
 Geändert durch
 :   Art. 21 G v. 21.6.2002 I 2167
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -33,12 +31,10 @@ Vertrags ist die in der Bundesrepublik Deutschland und im Land Berlin
 geltende Gesetzgebung über Sozialversicherung, soweit sie den
 Bestimmungen des Vertrags und dieses Gesetzes nicht entgegensteht.
 
-
 ## Art 3
 
 Das Fremdrenten- und Auslandsrenten-Neuregelungsgesetz vom 25. Februar
 1960 (Bundesgesetzbl. I S. 93) gilt entsprechend.
-
 
 ## Art 4
 
@@ -55,7 +51,6 @@ Gesetzgebung wären.
 vorgesehenen Fristen beginnen frühestens mit dem Tage des
 Inkrafttretens des Vertrags.
 
-
 ## Art 5
 
 (1) Zeiten, die von den in Artikel 1 Abs. 1 Buchstabe a des Vertrags
@@ -71,7 +66,6 @@ Bundesgebiet zurückgelegt worden sind.
 (2) Die Wartezeit ist auch erfüllt, wenn die nach jugoslawischem Recht
 für den Erwerb des Leistungsanspruchs vorgeschriebene
 Mindestbeitragszeit zurückgelegt worden ist.
-
 
 ## Art 6
 
@@ -94,7 +88,6 @@ Leistung nach diesem Gesetz mit Ablauf des Kalendermonats, in dem der
 Vertrag in Kraft getreten ist, falls der Antrag spätestens innerhalb
 von zwei Jahren nach Inkrafttreten des Vertrags gestellt wird.
 
-
 ## Art 7
 
 Die Aufwendungen, die den Versicherungsträgern im Bundesgebiet und im
@@ -103,7 +96,6 @@ Vertrags übernommenen Verpflichtungen erwachsen, werden teils vom Bund
 (Artikel 8), teils von den Versicherungsträgern im Bundesgebiet und im
 Land Berlin (Artikel 9) getragen.
 
-
 ## Art 8
 
 Der Bund trägt die Aufwendungen für die Leistungen, die in
@@ -111,14 +103,12 @@ entsprechender Anwendung des Fremdrenten- und Auslandsrenten-
 Neuregelungsgesetzes vom 25. Februar 1960 (Bundesgesetzbl. I S. 93)
 von der Unfallkasse des Bundes gewährt werden.
 
-
 ## Art 9
 
 Aufwendungen, die nicht nach Artikel 8 vom Bund getragen werden, sind
 von den verpflichteten Versicherungsträgern im Bundesgebiet und im
 Land Berlin zu tragen, soweit sie nicht nach anderen Vorschriften vom
 Bund zu tragen sind.
-
 
 ## Art 10
 
@@ -153,10 +143,6 @@ Bundesrates
 3.  bestimmen, welche Zeiten als Beitrags- und Ersatzzeiten der
     jugoslawischen gesetzlichen Rentenversicherung anzusehen sind.
 
-
-
-
-
 ## Art 11
 
 Der Bundesminister für Arbeit und Sozialordnung bestimmt im Benehmen
@@ -176,7 +162,6 @@ auch geregelt werden, wie die von der gesetzlichen Unfallversicherung
 und von den gesetzlichen Rentenversicherungen nach Satz 1 zu tragenden
 Anteile auf die Versicherungsträger zu verteilen sind.
 
-
 ## Art 12
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -185,11 +170,9 @@ Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
 
-
 ## Art 13
 
 Dieses Gesetz gilt nicht im Saarland.
-
 
 ## Art 14
 

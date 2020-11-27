@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2757
 
-
 ## Abschnitt 1 - Allgemeine Ermächtigungen
-
 
 ### § 1 Feststellung des Haushaltsplans
 
@@ -30,7 +28,6 @@ das Haushaltsjahr 2013 wird in Einnahmen und Ausgaben auf 302 000 000
 Haushaltsjahr 2013 als Anlage 3 beigefügte Wirtschaftsplan des
 Sondervermögens „Energie- und Klimafonds“ wird für das Jahr 2013 in
 Einnahmen und Ausgaben auf 2 046 500 000 Euro festgestellt.
-
 
 ### § 2 Kreditermächtigungen
 
@@ -142,7 +139,6 @@ obliegenden Aufgabe Kassenverstärkungskredite bis zur Höhe von 7 000
 000 000 Euro aufzunehmen. Auf die Kreditermächtigung sind die Beträge
 anzurechnen, die auf Grund von Ermächtigungen früherer
 Haushaltsgesetze aufgenommen worden sind.
-
 
 ### § 3 Gewährleistungsermächtigungen
 
@@ -269,7 +265,6 @@ Eventualverpflichtung von 1 000 000 000 Euro oder mehr vorsehen, ist
 der Haushaltsausschuss des Deutschen Bundestages zu unterrichten,
 sofern nicht aus zwingenden Gründen eine Ausnahme geboten ist.
 
-
 ### § 4 Über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen
 
 (1) Der Betrag nach § 37 Absatz 1 Satz 4 der Bundeshaushaltsordnung
@@ -308,9 +303,7 @@ genehmigten Kapital im Sinne des § 202 des Aktiengesetzes zuzustimmen
 und sich zur Leistung des auf den Bundesanteil entfallenden
 Erhöhungsbetrages zu verpflichten.
 
-
 ## Abschnitt 2 - Bewirtschaftung von Einnahmen, Ausgaben und Verpflichtungsermächtigungen
-
 
 ### § 5 Flexibilisierte Ausgaben
 
@@ -395,7 +388,6 @@ die Ausgabereste des deckungsberechtigten Titels vollständig für
 dessen Zweck verfügt ist.
 
 (7) Das Nähere bestimmt das Bundesministerium der Finanzen.
-
 
 ### § 6 Verstärkungsmöglichkeiten, Deckungsfähigkeit, Zweckbindung
 
@@ -494,7 +486,6 @@ zuletzt durch Artikel 99 des Gesetzes vom 8. Dezember 2010 (BGBl. I S.
 ist auch für sonstige verkehrspolitische Zwecke im Bereich des
 Bundesministeriums für Verkehr, Bau und Stadtentwicklung zu verwenden.
 
-
 ### § 7 Überlassung und Veräußerung von Vermögensgegenständen
 
 (1) Nach § 63 Absatz 3 Satz 2 der Bundeshaushaltsordnung wird
@@ -509,7 +500,6 @@ Standardsoftware ist die jeweilige Lizenzvereinbarung maßgebend.
 zugelassen, dass Vorschriften in elektronischer Form, beispielsweise
 über das Internet, unentgeltlich oder gegen ermäßigtes Entgelt
 bereitgestellt werden können.
-
 
 ### § 8 Bewilligung von Zuwendungen
 
@@ -548,7 +538,6 @@ sonstige im wissenschaftsrelevanten Bereich Beschäftigte, wenn sie im
 Rahmen der Planung, Vorbereitung, Durchführung, Auswertung oder
 Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
 
-
 ### § 9 Baumaßnahmen der Bundesanstalt für Immobilienaufgaben
 
 Die §§ 24 und 54 der Bundeshaushaltsordnung bleiben für Baumaßnahmen
@@ -558,7 +547,6 @@ Dezember 2004 (BGBl. I S. 3235), das durch Artikel 15 Absatz 83 des
 Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, die
 im Wirtschaftsplan der Bundesanstalt für Immobilienaufgaben
 veranschlagt werden, unberührt.
-
 
 ### § 10 Bezüge
 
@@ -583,7 +571,6 @@ veranschlagten Ausgaben des Titels 423 01 geleistet werden.
 gezahlt sowie ihnen Leistungsstufen gewährt werden, sind die Titel der
 Gruppe 423 der Kapitel 1401 und 1403 gegenseitig deckungsfähig.
 
-
 ### § 11 Verbriefung von Verpflichtungen
 
 Das zuständige Bundesministerium wird ermächtigt, die Beteiligungen,
@@ -592,7 +579,6 @@ Kapitel 0904 Titel 687 04, Kapitel 1604 Titel 896 02, Kapitel 2302
 Titel 687 52, 687 53, 687 54, 687 55, 687 57, 687 58 und 896 09 des
 Bundeshaushaltsplans erwähnten internationalen Finanzinstitutionen und
 Fonds durch Hingabe unverzinslicher Schuldscheine zu erbringen.
-
 
 ### § 12 Liquiditätshilfen, Fälligkeit von Zuschüssen und Leistungen des Bundes an die Rentenversicherung
 
@@ -644,7 +630,6 @@ Verfügung gestellt sind. Die Liquiditätshilfen sind so bald wie
 möglich zurückzuzahlen, spätestens jedoch mit Erhalt der
 Mittelzuweisungen aus dem Haushalt der Europäischen Union.
 
-
 ### § 13 Rückzahlung, Titelverwechslung
 
 (1) Die Rückzahlung zu viel erhobener Einnahmen kann aus dem
@@ -660,9 +645,7 @@ Personalausgaben ist stets beim jeweiligen Ausgabetitel abzusetzen.
 (3) Titelverwechslungen dürfen nur berichtigt werden, solange die
 Bücher noch nicht abgeschlossen sind.
 
-
 ## Abschnitt 3 - Bewirtschaftung der Planstellen und Stellen
-
 
 ### § 14 Verbindlichkeit des Stellenplans
 
@@ -687,7 +670,6 @@ Finanzen. Für die Fälle unvorhergesehener und tarifrechtlich
 unabweisbarer Höhergruppierungsansprüche kann das Bundesministerium
 der Finanzen seine Befugnisse auf die obersten Bundesbehörden
 übertragen.
-
 
 ### § 15 Ausbringung von Planstellen und Stellen
 
@@ -717,7 +699,6 @@ Stellen auf Dauer sichergestellt ist und die Übernahme der
 Bediensteten zu einer Entlastung des Bundeshaushalts an anderer Stelle
 führt.
 
-
 ### § 16 Ausbringung und Umsetzung von Planstellen und Stellen für Überhangpersonal
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, Planstellen
@@ -733,7 +714,6 @@ zum Zeitpunkt der Übernahme weg.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Arbeitnehmerinnen und
 Arbeitnehmer.
-
 
 ### § 17 Ausbringung von Ersatzplanstellen und Ersatzstellen
 
@@ -765,7 +745,6 @@ Dienstpostens wird nicht überschritten.
 
 (2) Absatz 1 gilt entsprechend für Richterinnen und Richter,
 Soldatinnen und Soldaten sowie für Arbeitnehmerinnen und Arbeitnehmer.
-
 
 ### § 18 Ausbringung von Leerstellen
 
@@ -865,13 +844,11 @@ oder der Bedienstete auf einer Planstelle oder Stelle des
 Bundeskanzleramtes oder des Bundespräsidialamtes befördert oder
 höhergruppiert worden ist.
 
-
 ### § 19 Umwandlung von Planstellen und Stellen
 
 Die obersten Bundesbehörden werden ermächtigt, Planstellen in
 gleichwertige Stellen und Stellen in gleichwertige Planstellen
 umzuwandeln, soweit dafür ein unabweisbarer Bedarf besteht.
-
 
 ### § 20 Sonderregelungen bei kw-Vermerken
 
@@ -899,7 +876,6 @@ Aufgabe“ trägt sowie für Ersatzplanstellen und Ersatzstellen, die nach
 § 17 oder auf Grund der entsprechenden Regelungen früherer
 Haushaltsgesetze ausgebracht wurden oder als ausgebracht gelten.
 
-
 ### § 21 Überhangpersonal
 
 Freie Planstellen und Stellen sind vorrangig mit Bediensteten zu
@@ -907,9 +883,7 @@ besetzen, die bei anderen Behörden der Bundesverwaltung wegen
 Aufgabenrückgangs oder wegen Auflösung der Behörde nicht mehr benötigt
 werden.
 
-
 ## Abschnitt 4 - Übergangs- und Schlussvorschriften
-
 
 ### § 22 Stelleneinsparung auf Grund der Verlängerung der Wochenarbeitszeit für Beamtinnen und Beamte
 
@@ -935,18 +909,15 @@ erbracht sein. Die betroffenen Planstellen fallen an diesem Tag weg.
 
 (5) Das Nähere bestimmt das Bundesministerium der Finanzen.
 
-
 ### § 23 Fortgeltung
 
 § 2 Absatz 2 Satz 3 bis 5, Absatz 4, 5 und 8 sowie die §§ 3 bis 22
 gelten bis zum Tag der Verkündung des Haushaltsgesetzes des folgenden
 Haushaltsjahres weiter.
 
-
 ### § 24 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2013 in Kraft.
-
 
 ### (XXXX) Gesamtplan des Bundeshaushaltsplans 2013
 
@@ -997,8 +968,6 @@ Dieses Gesetz tritt am 1. Januar 2013 in Kraft.
 *    *   **Teil IV:**
 
     *   **Kreditfinanzierungsplan**
-
-
 
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
@@ -1298,9 +1267,6 @@ Zu Spalte 3: Darin enthalten sind
     – Steuereinnahmen in Höhe von 260 611 000 T€,
     – Einnahmen aus Krediten in Höhe von 17 100 000 T€ sowie
     – sonstige Einnahmen in Höhe von 24 289 000 T€.
-
-
-
 
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
@@ -1618,8 +1584,6 @@ Zu Spalte 3: Darin enthalten sind
 
     *   **–15 281 073**
 
-
-
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
 ## **Ausgaben**
@@ -1910,8 +1874,6 @@ Zu Spalte 3: Darin enthalten sind
     *   **311 600 000**
 
     *   **–9 600 000**
-
-
 
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
@@ -2289,8 +2251,6 @@ Zu Spalte 3: Darin enthalten sind
 
     *   **+308 598**
 
-
-
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
 ## **Ausgaben**
@@ -2609,8 +2569,6 @@ Zu Spalte 3: Darin enthalten sind
     *   **–2 665 613**
 
     *   **–159 674**
-
-
 
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
@@ -3011,8 +2969,6 @@ Zu Spalte 3: Darin enthalten sind
 
     *   **6 970 310**
 
-
-
 ## Gesamtplan – Teil I: Haushaltsübersicht
 
 ## **Flexibilisierte Ausgaben nach § 5 des Haushaltsgesetzes**
@@ -3332,8 +3288,6 @@ Zu Spalte 3: Darin enthalten sind
 
     *   **+1 019 527**
 
-
-
 ## Gesamtplan – Teil II:
 
 Berechnung der zulässigen Kreditaufnahme
@@ -3648,8 +3602,6 @@ Differenzen durch Rundung möglich.
     *   **17 410 000**
 
     *   **28 463 000**
-
-
 
 ## Gesamtplan – Teil IV:
 

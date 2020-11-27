@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 18.5.2004 I 992
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -30,12 +29,10 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft,
 Forschung und Technologie:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fluggerätmechaniker/Fluggerätmechanikerin wird
 staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -53,7 +50,6 @@ Ausbildungsjahr kann zwischen den Fachrichtungen:
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -199,10 +195,6 @@ Kenntnisse:
 
 39. Qualitätssicherung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der
@@ -221,12 +213,10 @@ orientiert sich an den Anforderungen des Berufes mit der jeweiligen
 Fachrichtung. Die in Satz 1 beschriebene Befähigung ist auch in den
 Prüfungen nach den §§ 7 bis 10 nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -234,7 +224,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -284,13 +273,6 @@ Prüfungsstücke anfertigen. Hierfür kommen insbesondere in Betracht:
 
 
     e)  Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz.
-
-
-
-
-
-
-
 
 ## § 8 Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin Fachrichtung Triebwerkstechnik
 
@@ -443,7 +425,6 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Fertigung und Instandhaltung mindestens
 ausreichende Leistungen erbracht sind.
 
-
 ## § 9 Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin Fachrichtung Instandhaltungstechnik
 
 (1) Die Abschlußprüfung in der Fachrichtung Instandhaltungstechnik
@@ -585,7 +566,6 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Fertigung und Instandhaltung mindestens
 ausreichende Leistungen erbracht sind.
 
-
 ## § 10 Abschlußprüfung zum Fluggerätmechaniker/zur Fluggerätmechanikerin Fachrichtung Fertigungstechnik
 
 (1) Die Abschlußprüfung in der Fachrichtung Fertigungstechnik
@@ -722,7 +702,6 @@ schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils
 der Prüfung im Prüfungsbereich Fertigung und Instandhaltung mindestens
 ausreichende Leistungen erbracht sind.
 
-
 ## § 11 Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -735,11 +714,9 @@ ist § 9 Abs. 2 in der bis zum 27. Mai 2004 geltenden Fassung weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Verordnung in der am 28. Mai 2004 geltenden Fassung.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker/zur Fluggerätmechanikerin
 

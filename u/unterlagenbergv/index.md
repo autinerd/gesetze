@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 10. 8.2005 I 2452
 
-
 ## 1. Abschnitt - Karten und Lagerisse für Bergbauberechtigungen
-
-
 
 ### § 1 Allgemeine Anforderungen
 
@@ -54,7 +51,6 @@ Anlage entsprechen. Die zeichnerische Darstellung muß dauerhaft sein.
 (3) Für amtliche Vermerke ist auf den Karten und Lagerissen eine
 ausreichende Fläche freizuhalten.
 
-
 ### § 2 Änderungen der Karten und Lagerisse
 
 (1) Eintragungen, die für die Nachprüfung der richtigen und
@@ -64,7 +60,6 @@ sie in ihrer ursprünglichen Form nicht mehr erkennbar sind.
 
 (2) Änderungen sind mit Datum und Unterschrift dessen, der sie
 vorgenommen hat, kenntlich zu machen.
-
 
 ### § 3 Maßstab der Karten und Lagerisse
 
@@ -80,7 +75,6 @@ Die Karten und Lagerisse sollen
 angefertigt werden. Die Wahl des Maßstabes richtet sich nach der Größe
 des Feldes sowie nach der erforderlichen Genauigkeit,
 Übersichtlichkeit und Lesbarkeit der Darstellung.
-
 
 ### § 4 Titel der Karten und Lagerisse
 
@@ -99,10 +93,6 @@ Der Titel der Karten und Lagerisse muß enthalten
 
 
 5.  den Anfertigungsvermerk.
-
-
-
-
 
 ### § 5 Begrenzung und Flächeninhalt einer Bergbauberechtigung
 
@@ -141,7 +131,6 @@ Bergwerksfeldern sowie für den Austausch von Feldesteilen sind auch
 die bisherigen Begrenzungen und Bezeichnungen der Bergwerksfelder
 einzutragen.
 
-
 ### § 6 Fundstellen
 
 (1) Bei einem Antrag auf Bewilligung ist die Lage der Stellen, an
@@ -168,7 +157,6 @@ sind
 einzutragen. Liegen die Fundstellen nicht an der Oberfläche, ist ihre
 Lage auch in einem Schnitt darzustellen.
 
-
 ### § 7 Unterlagen
 
 Den Karten und Lagerissen sind die ihnen zugrunde liegenden
@@ -176,7 +164,6 @@ Berechnungen und Vermessungsunterlagen mit erläuternden
 Handzeichnungen beizufügen. Sofern sie nicht in Urschrift oder in
 amtlich beglaubigter Abschrift beigefügt werden, sind sie mit Datum
 und Unterschrift dessen zu versehen, der sie angefertigt hat.
-
 
 ### § 8 Sondervorschrift für den Festlandsockel und die Küstengewässer
 
@@ -224,10 +211,7 @@ anzugeben. § 6 Abs. 2 gilt mit der Maßgabe, daß die nächstgelegenen
 festen Gegenstände einzutragen sind. Liegt die Fundstelle in der Nähe
 der Grenze des Festlandsockels, so ist auch deren Verlauf einzutragen.
 
-
 ## 2. Abschnitt - Mitteilungen und Nachweise durch bergbauliche Unternehmer
-
-
 
 ### § 9 Mitteilungen über Beschäftigte und betriebliche Vorgänge
 
@@ -304,7 +288,6 @@ dieser herausgegebenen Vordrucke zu melden
 Die Meldungen können auch von Gemeinschaftsorganisationen der
 Unternehmer in deren Auftrag abgegeben werden.
 
-
 ### § 10 Mitteilung von Unfällen
 
 Die Unternehmer haben einen Unfall, der sich in ihrem Aufsuchungs-,
@@ -313,7 +296,6 @@ bei dem eine Person mehr als drei Tage ganz oder teilweise
 arbeitsunfähig geworden ist, der zuständigen Behörde mitzuteilen. Dies
 gilt nicht, wenn der Unfall der zuständigen Behörde bereits auf Grund
 anderer Rechtsvorschriften mitzuteilen ist.
-
 
 ### § 11 Nachweis über Beschäftigte
 
@@ -337,15 +319,11 @@ der in ihren Betrieben Beschäftigten.
 (2) Der Nachweis ist zwei Jahre nach Beendigung des
 Arbeitsverhältnisses aufzubewahren.
 
-
 ## 3. Abschnitt - Schlußvorschriften
-
-
 
 ### § 12
 
 (weggefallen)
-
 
 ### § 13 Ablösung von Vorschriften
 
@@ -403,10 +381,6 @@ außer Kraft:
     und die technische Ausführung der Markscheiderarbeiten vom 3.
     September 1968 (Amtsblatt des Saarlandes S. 655, 660), geändert durch
     Verordnung vom 11. August 1972 (Amtsblatt des Saarlandes S. 478).
-
-
-
-
 
 ### Anlage (zu § 1) Zeichen, Farben und Beschriftungen für Karten und Lagerisse der Bergbauberechtigungen
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 3 Nr. 4 G v. 26. 6.1992 I 1159
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 3 Nr. 2 und des § 12 des Marktstrukturgesetzes
@@ -28,7 +27,6 @@ Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
 (Bundesgesetzbl. I S. 469), wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1
 
@@ -51,7 +49,6 @@ bestimmt sind.
 (5) Das erste Jahre beginnt mit dem Tag, an dem der Antrag auf
 Anerkennung als Erzeugergemeinschaft gestellt wird.
 
-
 ## § 2
 
 Die Landesregierungen können durch Rechtsverordnung die
@@ -60,17 +57,14 @@ Stück und für Edelreiser bis auf jährlich 2.000.000 Rutenteile
 herabsetzen, wenn die in § 1 Abs. 1 bzw. Abs. 3 festgelegte
 Mindesterzeugungsmenge nicht erreichbar ist.
 
-
 ## § 3
 
 Diese Verordnung tritt in dem in Artikel 3 des Einigungsvertrages
 genannten Gebiet am 1. Juli 1992 in Kraft.
 
-
 ## § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

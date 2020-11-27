@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3205
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 1 des Hufbeschlaggesetzes vom 19. April 2006
@@ -25,10 +23,7 @@ Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium für Wirtschaft und Technologie und dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## Abschnitt 1 - Staatliche Anerkennung
-
-
 
 ### § 1 Staatlich anerkannter Hufbeschlagschmied/Staatlich anerkannte Hufbeschlagschmiedin
 
@@ -49,7 +44,6 @@ auszustellen.
 Prüfung zugelassen worden sind, sind für die staatliche Anerkennung
 von dem Einhalten der Voraussetzungen des § 4 Abs. 1 Nr. 1 und 2 des
 Hufbeschlaggesetzes befreit.
-
 
 ### § 2 Staatlich anerkannter Hufbeschlaglehrschmied/Staatlich anerkannte Hufbeschlaglehrschmiedin
 
@@ -74,7 +68,6 @@ auszustellen.
 sind für die staatliche Anerkennung von dem Einhalten der
 Voraussetzung des § 5 Abs. 1 Nr. 2 des Hufbeschlaggesetzes befreit.
 
-
 ### § 3 Staatlich anerkannte Hufbeschlagschule
 
 Eine Bildungseinrichtung ist durch die nach Landesrecht zuständige
@@ -83,16 +76,12 @@ entsprechenden Unterlagen die Erfüllung der Voraussetzungen des § 6
 Abs. 2 des Hufbeschlaggesetzes nachweist. Über die Anerkennung ist
 eine Urkunde nach dem Muster der Anlage 3 auszustellen.
 
-
 ## Abschnitt 2 - Ausbildung und Prüfung zum Hufbeschlagschmied/zur Hufbeschlagschmiedin und erforderliche Lehrgänge
-
-
 
 ### § 4 Ziel der Prüfung
 
 Durch die Prüfung ist festzustellen, ob der Prüfling befähigt ist, den
 Anforderungen des § 4 Abs. 2 des Hufbeschlaggesetzes zu entsprechen.
-
 
 ### § 5 Zulassung zur Prüfung
 
@@ -181,7 +170,6 @@ vorzulegen.
 
 (8) Über die Zulassung zur Prüfung entscheidet die zuständige Behörde.
 
-
 ### § 6 Einführungslehrgang
 
 (1) Der Einführungslehrgang dient der Vermittlung der notwendigen
@@ -220,7 +208,6 @@ maßgeblichen Gründe ist die Anerkennung zurückzunehmen.
 (5) Die Teilnahme an dem Lehrgang ist von dem Veranstalter zu
 bestätigen. In der Bestätigung ist die Anerkennungsnummer des
 Lehrgangs anzugeben.
-
 
 ### § 7 Praktische Tätigkeit
 
@@ -286,7 +273,6 @@ Haftung, verwirklicht werden.
 (2) Die während der praktischen Tätigkeit erworbene berufliche
 Handlungsfähigkeit ist durch einen Tätigkeitsnachweis zu dokumentieren
 und durch die Unterschrift des Arbeitgebers zu bestätigen.
-
 
 ### § 8 Vorbereitungslehrgang
 
@@ -439,12 +425,10 @@ Gebieten
 
 zu vermitteln.
 
-
 ### § 9 Prüfungsteile
 
 Die Prüfung besteht aus einem praktischen Teil nach Maßgabe des § 10
 und einem theoretischen Teil nach Maßgabe des § 11.
-
 
 ### § 10 Praktischer Teil der Prüfung
 
@@ -524,7 +508,6 @@ Einbeziehung zeitgemäßer Techniken Bezug zur gängigen Berufspraxis
 aufweisen. Für die Durchführung der Aufgabe stehen bis zu 90 Minuten
 zur Verfügung.
 
-
 ### § 11 Theoretischer Teil der Prüfung
 
 (1) Der theoretische Teil der Prüfung besteht aus den
@@ -599,7 +582,6 @@ Bestehen der Prüfung oder für die eindeutige Beurteilung der
 Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je
 Prüfling nicht länger als 30 Minuten dauern.
 
-
 ### § 12 Prüfungsausschuss
 
 (1) Die Prüfung wird vor einem Prüfungsausschuss der zuständigen
@@ -643,7 +625,6 @@ Verstöße gegen die Prüfungsbestimmungen festgestellt werden, für
 ungültig erklären. Wird die Prüfung für ungültig erklärt, so ist das
 Prüfungszeugnis einzuziehen.
 
-
 ### § 13 Prüfungsverfahren
 
 (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet
@@ -668,7 +649,6 @@ Vorsitz führende Mitglied des Prüfungsausschusses.
 (5) Die Ergebnisse der einzelnen Prüfungsleistungen nach § 10 Abs. 1
 und § 11 Abs. 1 sind in der Niederschrift des Prüfungsausschusses
 auszuweisen.
-
 
 ### § 14 Bewerten und Bestehen der Prüfung
 
@@ -696,7 +676,6 @@ nicht bestanden.
 (4) Über das Ergebnis der Prüfung ist dem Prüfling ein Prüfungszeugnis
 nach dem in der Anlage 5 enthaltenen Muster auszustellen.
 
-
 ### § 15 Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann in einem Zeitraum von
@@ -715,10 +694,7 @@ zu stellen, bei der die vorausgegangene Prüfung erfolgte. In
 begründeten Fällen kann diese Behörde mit Zustimmung des
 Antragstellers die Prüfung bei einer anderen Behörde zulassen.
 
-
 ## Abschnitt 3 - Prüfung zum Hufbeschlaglehrschmied/zur Hufbeschlaglehrschmiedin
-
-
 
 ### § 16 Ziel der Prüfung
 
@@ -726,7 +702,6 @@ Durch die Prüfung zum Hufbeschlaglehrschmied/zur
 Hufbeschlaglehrschmiedin ist festzustellen, ob der Prüfling befähigt
 ist, den Anforderungen des § 5 Abs. 2 des Hufbeschlaggesetzes zu
 entsprechen.
-
 
 ### § 17 Zulassung zur Prüfung
 
@@ -779,7 +754,6 @@ zuständige Behörde zu richten. Dem Antrag sind beizufügen:
 vorzulegen.
 
 (5) Über die Zulassung zur Prüfung entscheidet die zuständige Behörde.
-
 
 ### § 18 Prüfung
 
@@ -857,7 +831,6 @@ einem Prüfungsgespräch zu erläutern. Die Dauer der einzelnen
 Unterweisung soll 45 Minuten betragen. Für das jeweilige
 Prüfungsgespräch stehen bis zu 15 Minuten zur Verfügung.
 
-
 ### § 19 Prüfungsausschuss
 
 (1) Die Hufbeschlaglehrschmiedprüfung wird vor einem Prüfungsausschuss
@@ -899,7 +872,6 @@ Verstöße gegen die Prüfungsbestimmungen festgestellt werden, für
 ungültig erklären. Wird die Prüfung für ungültig erklärt, so ist das
 Prüfungszeugnis einzuziehen.
 
-
 ### § 20 Prüfungsverfahren
 
 (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet
@@ -926,7 +898,6 @@ Mitglied des Prüfungsausschusses.
 (5) Die Ergebnisse der einzelnen Prüfungsleistungen nach § 18 Abs. 1
 sind in der Niederschrift des Prüfungsausschusses auszuweisen.
 
-
 ### § 21 Bewerten und Bestehen der Prüfung
 
 (1) Für die Bewertung der Leistungen in den Prüfungsteilen nach § 18
@@ -944,7 +915,6 @@ Prüfung insgesamt nicht bestanden.
 
 (4) Über das Ergebnis der Prüfung ist dem Prüfling ein Prüfungszeugnis
 nach dem in der Anlage 6 enthaltenen Muster auszustellen.
-
 
 ### § 22 Wiederholung der Prüfung
 
@@ -965,10 +935,7 @@ erfolgte. In besonderen Fällen kann diese Behörde mit Zustimmung des
 Antragstellers die Prüfung bei einer anderen zuständigen Behörde
 zulassen.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 23 Übergangsvorschriften
 
@@ -989,16 +956,13 @@ Besuch eines Vorbereitungslehrgangs nach § 8 nachweisen und ihre
 Tätigkeit seit mindestens zwei Jahren ununterbrochen gewerblich
 ausüben.
 
-
 ### § 24 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 1 Abs. 1)
 
@@ -1025,7 +989,6 @@ berechtigt.
 -----
 \*) Geschlechtsspezifische Bezeichnung verwenden.
 
-
 ### Anlage 2 (zu § 2 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3214
@@ -1048,7 +1011,6 @@ staatlich anerkannt.
 (Unterschrift/Siegel)
 -----
 \*) Geschlechtsspezifische Bezeichnung verwenden.
-
 
 ### Anlage 3 (zu § 3)
 
@@ -1074,7 +1036,6 @@ staatlich anerkannt.
 (Unterschrift/Siegel)
 -----
 \*) Bezeichnung der Einrichtung und Anschrift einfügen.
-
 
 ### Anlage 4 (zu § 14 Abs. 1 und § 21 Abs. 1) Bewertungsskala für die Bildung der Noten in den einzelnen Prüfungsleistungen der Prüfungen nach § 10 Abs. 1, § 11 Abs. 1 und § 18 Abs. 1
 
@@ -1117,10 +1078,6 @@ Hufbeschlaggesetzes zu bewerten:
 
     *   eine Leistung, die den Anforderungen nicht entspricht und bei der
         selbst Grundlagen für die berufliche Handlungsfähigkeit fehlen.
-
-
-
-
 
 ### Anlage 5 (zu § 14 Abs. 4)
 
@@ -1170,7 +1127,6 @@ Der/Die Vorsitzende des Prüfungsausschusses
 2) Noten (sehr gut, gut, befriedigend, ausreichend, mangelhaft,
 ungenügend).
 3) Nichtzutreffendes bitte streichen.
-
 
 ### Anlage 6 (zu § 21 Abs. 4)
 

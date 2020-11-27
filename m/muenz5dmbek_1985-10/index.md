@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1985, 2003
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -74,7 +72,6 @@ sich je eine Arabeske.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

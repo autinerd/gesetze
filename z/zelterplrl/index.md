@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 740
 
-
-
 ## (XXXX)
 
 
@@ -117,10 +115,6 @@ Fundstelle
     Die Überreichung der Urkunde und der Ehrenplakette erfolgt durch die
     amtliche Vertretung der Bundesrepublik Deutschland in dem betreffenden
     Land.\*
-
-
-
-
 
 ## Schlußformel
 

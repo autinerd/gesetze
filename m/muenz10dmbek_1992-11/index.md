@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1880
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -58,7 +56,6 @@ Zwischen Ende und Anfang der Randschrift ist eine liegende Raute
 eingeprägt.
 Der Entwurf der Münze stammt von Werner Godec, Pforzheim.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX) Abbildung der Münze
 

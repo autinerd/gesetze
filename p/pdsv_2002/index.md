@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2494
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 41 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S.
 3294) verordnet die Bundesregierung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -35,7 +32,6 @@ juristische Personen stehen personenbezogenen Daten gleich.
 (2) Soweit das Postgesetz, diese Verordnung oder andere besondere
 Rechtsvorschriften keine anderen Regelungen enthalten, gelten die
 Vorschriften des Bundesdatenschutzgesetzes.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -55,13 +51,6 @@ Im Sinne dieser Verordnung sind
 
     b)  Personen, die Postdienste eines Diensteanbieters nutzen,
         einschließlich der Empfänger und Ersatzempfänger von Postsendungen.
-
-
-
-
-
-
-
 
 ## § 3 Zulässigkeit der Datenerhebung, -verarbeitung und -nutzung
 
@@ -97,7 +86,6 @@ Verwendung dieser Daten ausdrücklich vorsieht oder der Beteiligte eine
 Einwilligung erteilt hat, die den Vorschriften des
 Bundesdatenschutzgesetzes und dieser Verordnung entspricht.
 
-
 ## § 4 Einwilligung im elektronischen Verfahren
 
 Die Einwilligung kann elektronisch erklärt werden, wenn der
@@ -121,7 +109,6 @@ Diensteanbieter sicherstellt, dass
 
 Das Recht der Beteiligten, die Einwilligung jederzeit mit Wirkung für
 die Zukunft zu widerrufen, bleibt unberührt.
-
 
 ## § 5 Datenverarbeitung aus Vertragsverhältnissen und sonstigen Beziehungen
 
@@ -162,7 +149,6 @@ weder hinreichende Absender- oder Empfängerangaben auf dem Umschlag
 erkennbar sind noch eine Übergabe der Postsendung an den vom Kunden
 gewählten Diensteanbieter möglich ist.
 
-
 ## § 6 Zweckänderung
 
 Soweit der Kunde eingewilligt hat, dürfen Diensteanbieter insbesondere
@@ -176,10 +162,6 @@ Soweit der Kunde eingewilligt hat, dürfen Diensteanbieter insbesondere
     Beendigung des Vertragsverhältnisses verarbeiten und nutzen, soweit
     dies zur Werbung oder Marktforschung für die Diensteanbieter
     erforderlich ist.
-
-
-
-
 
 ## § 7 Adressdaten
 
@@ -242,7 +224,6 @@ postalischen Leitangaben. Schreibfehler und ähnliche offenbare
 Unrichtigkeiten bei der Angabe einer gegenwärtig bestehenden Anschrift
 dürfen berichtigt werden.
 
-
 ## § 8 Ausweisdaten
 
 (1) Diensteanbieter können von am Postverkehr Beteiligten verlangen,
@@ -265,7 +246,6 @@ Dateien möglich ist.
 (4) Die Daten sind spätestens sechs Monate nach Ablauf der
 gesetzlichen und vertraglichen Verjährungsfristen zu löschen.
 
-
 ## § 9 Erklärungen auf elektronischem Wege
 
 Verwendet der Diensteanbieter Datenverarbeitungsgeräte zur Aufnahme
@@ -275,12 +255,10 @@ erkennbar sein. Sofern in der Erklärung nicht ausschließlich der
 Empfang einer Postsendung bestätigt wird, kann der Beteiligte eine
 Ausfertigung der Erklärung verlangen.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. ... § 9
 Satz 1 tritt am 1. Mai 2003 in Kraft.
-
 
 ## Schlussformel
 

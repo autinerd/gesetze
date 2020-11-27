@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 22.6.2011 I 1202
 
-
 ## Abschnitt 1 - Rehabilitierung und Folgeansprüche
-
-
 
 ### § 1 Aufhebung rechtsstaatswidriger Entscheidungen
 
@@ -134,7 +131,6 @@ entschieden worden ist. Dies gilt nicht, soweit dargelegt wird, dass
 der frühere Antrag nach den Vorschriften dieses Gesetzes Erfolg gehabt
 hätte.
 
-
 ### § 2 Rechtsstaatswidrige Entscheidungen über Freiheitsentzug außerhalb eines Strafverfahrens
 
 (1) Die Vorschriften dieses Gesetzes finden auf eine außerhalb eines
@@ -149,7 +145,6 @@ oder sonst sachfremden Zwecken gedient hat.
 Bedingungen oder Zwangsarbeit unter haftähnlichen Bedingungen
 gleichgestellt.
 
-
 ### § 3 Folgeansprüche
 
 (1) Die Aufhebung einer Entscheidung nach § 1 begründet Ansprüche nach
@@ -159,7 +154,6 @@ Maßgabe dieses Gesetzes.
 Vermögenseinziehung aufgehoben, richtet sich die Rückübertragung oder
 Rückgabe von Vermögenswerten nach dem Vermögensgesetz und dem
 Investitionsvorranggesetz.
-
 
 ### § 4 Beendigung der Vollstreckung
 
@@ -174,7 +168,6 @@ Vollstreckung anordnen.
 Vollstreckung für erledigt zu erklären, wenn ihre Fortsetzung unter
 Berücksichtigung der bereits vollstreckten Rechtsfolgen
 unverhältnismäßig wäre.
-
 
 ### § 5 Bundeszentralregister
 
@@ -216,7 +209,6 @@ unberührt.
 (5) Für die Fristberechnung gelten § 36 Nr. 3, § 64a Abs. 5 des
 Bundeszentralregistergesetzes entsprechend.
 
-
 ### § 6 Erstattung von Geldstrafen, Kosten des Verfahrens und notwendigen Auslagen des Betroffenen
 
 (1) Soweit eine Entscheidung aufgehoben wird, besteht ein Anspruch auf
@@ -231,10 +223,7 @@ unverhältnismäßigem Aufwand möglich wäre.
 
 (3) § 17 Abs. 4 und § 25 Abs. 1 gelten entsprechend.
 
-
 ## Abschnitt 2 - Gerichtliches Verfahren
-
-
 
 ### § 7 Antrag
 
@@ -274,7 +263,6 @@ dieselben Vorschriften wie in bürgerlichen Rechtsstreitigkeiten.
 Absatz 1 Nr. 2 oder 3 Antragsberechtigten binnen sechs Monaten die
 Fortsetzung des Verfahrens beantragen.
 
-
 ### § 8 Zuständiges Gericht
 
 (1) Für die Entscheidung nach § 1 ist das Bezirksgericht oder das an
@@ -290,7 +278,6 @@ Entscheidung geändert, bleibt das Gericht örtlich zuständig, das zum
 Zeitpunkt des Ergehens der angegriffenen Entscheidung nach Absatz 1
 zuständig gewesen wäre.
 
-
 ### § 9 Besetzung der Rehabilitierungssenate oder Rehabilitierungskammern
 
 (1) Das Bezirksgericht entscheidet durch Rehabilitierungssenate, das
@@ -305,7 +292,6 @@ ergangenen Maßgaben des Einigungsvertrages in ein Richterverhältnis
 berufen worden ist. An einer Rehabilitierungsentscheidung darf nicht
 mehr als ein Richter mitwirken, der vor dem 3. Oktober 1990 im
 Beitrittsgebiet als Berufsrichter oder Staatsanwalt tätig war.
-
 
 ### § 10 Ermittlung des Sachverhalts
 
@@ -325,7 +311,6 @@ diese zugänglich sind.
 
 (4) Das Gericht kann die Durchführung einzelner Ermittlungen der
 Staatsanwaltschaft übertragen.
-
 
 ### § 11 Gerichtliches Verfahren
 
@@ -350,7 +335,6 @@ binnen sechs Monaten die Fortsetzung des Verfahrens beantragen.
 unmittelbare Wirkung auf die Rechte eines Dritten haben wird, so ist
 auch dieser an dem Verfahren zu beteiligen. Absatz 1 und Absatz 3 Satz
 1 gelten insoweit entsprechend.
-
 
 ### § 12 Rehabilitierungsentscheidung
 
@@ -383,7 +367,6 @@ anfechtbar ist.
 
 (4) Der Beschluss ist mit einer Rechtsmittelbelehrung zu versehen und
 den Verfahrensbeteiligten zuzustellen.
-
 
 ### § 13 Beschwerde
 
@@ -426,7 +409,6 @@ Oberlandesgerichts oder des Bundesgerichtshofes abweichen, hat er die
 Sache dem Bundesgerichtshof in entsprechender Anwendung von § 121 Abs.
 2 des Gerichtsverfassungsgesetzes vorzulegen.
 
-
 ### § 14 Kosten des Verfahrens und notwendige Auslagen
 
 (1) Kosten des Verfahrens werden nicht erhoben.
@@ -443,17 +425,13 @@ den Antragsteller damit zu belasten.
 Beschwerdeverfahren gilt § 473 Abs. 1 bis 4 der Strafprozessordnung
 entsprechend.
 
-
 ### § 15 Anwendbarkeit des Gerichtsverfassungsgesetzes und der Strafprozessordnung
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die
 Vorschriften des Gerichtsverfassungsgesetzes und der
 Strafprozessordnung entsprechend.
 
-
 ## Abschnitt 3 - Soziale Ausgleichsleistungen
-
-
 
 ### § 16 Soziale Ausgleichsleistungen
 
@@ -476,7 +454,6 @@ Versorgung nach Maßgabe der §§ 21 bis 24 gewährt.
 (4) Die Leistungen nach den §§ 17 bis 19 bleiben als Einkommen bei
 Sozialleistungen, deren Gewährung von anderen Einkommen abhängig ist,
 unberücksichtigt.
-
 
 ### § 17 Kapitalentschädigung
 
@@ -510,7 +487,6 @@ Ordnung unvereinbaren Freiheitsentziehung. Der Anspruch auf
 Nachzahlung ist übertragbar und vererblich, soweit auch die
 Kapitalentschädigung gemäß Absatz 3 übertragbar und vererblich ist.
 Absatz 4 Satz 1 gilt entsprechend.
-
 
 ### § 17a Besondere Zuwendung für Haftopfer
 
@@ -595,7 +571,6 @@ gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer
 vorsätzlichen Straftat rechtskräftig verhängt worden ist, sofern die
 Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
 
-
 ### § 18 Unterstützungsleistungen
 
 (1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage
@@ -647,19 +622,16 @@ Juni 1953 im Beitrittsgebiet ihr Leben verloren haben, soweit eine
 Entscheidung nach § 12 des Verwaltungsrechtlichen
 Rehabilitierungsgesetzes ergangen ist.
 
-
 ### § 19 Härteregelung
 
 Ergibt sich eine besondere Härte daraus, dass keine
 Kapitalentschädigung oder keine besondere Zuwendung gezahlt wird, kann
 die zuständige Behörde dem Antragsteller diese Leistung zuerkennen.
 
-
 ### § 20 Kostenregelung
 
 Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch
 Leistungen nach diesem Gesetz entstehen.
-
 
 ### § 21 Beschädigtenversorgung
 
@@ -699,7 +671,6 @@ des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung
 als Folge einer Schädigung anerkannt werden; die Zustimmung kann
 allgemein erteilt werden.
 
-
 ### § 22 Hinterbliebenenversorgung
 
 (1) Ist der Betroffene an den Folgen der Schädigung gestorben,
@@ -714,7 +685,6 @@ Bundesversorgungsgesetzes sind entsprechend anzuwenden.
 (2) Ist ein Todesurteil infolge einer strafrechtlichen Entscheidung
 nach § 1 am Betroffenen vollstreckt worden, gilt Absatz 1
 entsprechend.
-
 
 ### § 23 Zusammentreffen von Ansprüchen
 
@@ -741,7 +711,6 @@ entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen; § 51
 Abs. 2 Satz 2 des Bundesversorgungsgesetzes ist entsprechend
 anzuwenden.
 
-
 ### § 24 Anwendung des Bundesversorgungsgesetzes
 
 Die Bestimmungen über die entsprechende Anwendung des
@@ -749,7 +718,6 @@ Bundesversorgungsgesetzes und der zu seiner Durchführung erlassenen
 Vorschriften gelten mit den in Anlage I Kapitel VIII Sachgebiet K
 Abschnitt III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990
 II S. 885, 1067) aufgeführten Maßgaben.
-
 
 ### § 25 Zuständigkeiten
 
@@ -810,7 +778,6 @@ Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung
 maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt
 unberührt.
 
-
 ### § 25a Verwendung personenbezogener Daten
 
 Personenbezogene Daten aus einem strafrechtlichen
@@ -819,10 +786,7 @@ Rehabilitierung, Wiedergutmachung oder Gewährung von Leistungen nach
 dem Häftlingshilfegesetz soweit erforderlich verarbeitet und genutzt
 werden.
 
-
 ## Abschnitt 4 - Überleitungs- und Schlussvorschriften
-
-
 
 ### § 26 Übergangsvorschrift
 
@@ -840,7 +804,6 @@ dieses Gesetzes entsprechend. Ist ein Kassationsverfahren nach den vom
 Vorschriften abgeschlossen, treten an die Stelle von
 Entschädigungsansprüchen die Folgeansprüche nach den Vorschriften
 dieses Gesetzes.
-
 
 ### § 27 (Aufhebung und Änderung anderer Vorschriften)
 

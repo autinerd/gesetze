@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 31.7.2009 I 2585
 
-
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
 
 (1) Bundesstraßen des Fernverkehrs (Bundesfernstraßen) sind
@@ -82,7 +81,6 @@ Fahrbahnen für den Richtungsverkehr haben.
 (5) Für die Bundesfernstraßen werden Straßenverzeichnisse geführt. Das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt die
 Nummerung und Bezeichnung der Bundesfernstraßen.
-
 
 ## § 2 Widmung, Umstufung, Einziehung
 
@@ -151,7 +149,6 @@ Bekanntmachung (Absatz 6).
 (7) Mit der Einziehung entfallen Gemeingebrauch (§ 7) und
 widerrufliche Sondernutzungen (§ 8). Bei Umstufung gilt § 6 Abs. 1.
 
-
 ## § 3 Straßenbaulast
 
 (1) Die Straßenbaulast umfasst alle mit dem Bau und der Unterhaltung
@@ -177,7 +174,6 @@ bei Schnee- und Eisglätte räumen und streuen. Landesrechtliche
 Vorschriften über die Pflichten Dritter zum Schneeräumen und Streuen
 sowie zur polizeimäßigen Reinigung bleiben unberührt.
 
-
 ## § 4 Sicherheitsvorschriften
 
 Die Träger der Straßenbaulast haben dafür einzustehen, dass ihre
@@ -185,7 +181,6 @@ Bauten allen Anforderungen der Sicherheit und Ordnung genügen.
 Behördlicher Genehmigungen, Erlaubnisse und Abnahmen durch andere als
 die Straßenbaubehörden bedarf es nicht. Für Baudenkmäler gilt Satz 2
 nur, soweit ein Planfeststellungsverfahren durchgeführt worden ist.
-
 
 ## § 5 Träger der Straßenbaulast
 
@@ -244,7 +239,6 @@ Stelle der höheren Verwaltungsbehörde eine andere Behörde zuständig
 ist. Sie können diese Ermächtigung auf oberste Landesbehörden
 übertragen.
 
-
 ## § 5a Zuwendungen für fremde Träger der Straßenbaulast
 
 Zum Bau oder Ausbau von Ortsdurchfahrten im Zuge von Bundesstraßen und
@@ -253,7 +247,6 @@ Bundesfernstraßen in der Baulast des Bundes sind, kann der Bund
 Zuwendungen gewähren. Im Saarland werden die Straßen, für die das Land
 auf Grund des § 46 des Saarländischen Straßengesetzes an Stelle von
 Landkreisen Träger der Baulast ist, den Kreisstraßen gleichgestellt.
-
 
 ## § 6 Eigentum und andere Rechte
 
@@ -304,7 +297,6 @@ Träger der Straßenbaulast zusteht.
 (4) Das Eigentum des Bundes ist einzutragen für die "Bundesrepublik
 Deutschland (Bundesstraßenverwaltung)".
 
-
 ## § 7 Gemeingebrauch
 
 (1) Der Gebrauch der Bundesfernstraßen ist jedermann im Rahmen der
@@ -333,7 +325,6 @@ Straßenbaulast selbst übernimmt.
 Aufforderung unverzüglich zu beseitigen; andernfalls kann die
 Straßenbaubehörde die Verunreinigung auf seine Kosten beseitigen.
 
-
 ## § 7a Vergütung von Mehrkosten
 
 Wenn eine Bundesfernstraße wegen der Art des Gebrauchs durch einen
@@ -343,7 +334,6 @@ der Straßenbaulast die Mehrkosten für den Bau und die Unterhaltung zu
 vergüten. Das gilt nicht für Haltestellenbuchten für den
 Linienverkehr. Der Träger der Straßenbaulast kann angemessene
 Vorschüsse oder Sicherheiten verlangen.
-
 
 ## § 8 Sondernutzungen
 
@@ -425,7 +415,6 @@ Gemeingebrauch nicht beeinträchtigt, wobei eine Beeinträchtigung von
 nur kurzer Dauer für Zwecke der öffentlichen Versorgung außer Betracht
 bleibt.
 
-
 ## § 8a Straßenanlieger
 
 (1) Zufahrten und Zugänge zu Bundesstraßen außerhalb der zur
@@ -496,7 +485,6 @@ Entschädigung in Geld zu gewähren.
 (8) Hat der Entschädigungsberechtigte die Entstehung eines
 Vermögensnachteils mitverursacht, so gilt § 254 des Bürgerlichen
 Gesetzbuchs entsprechend.
-
 
 ## § 9 Bauliche Anlagen an Bundesfernstraßen
 
@@ -605,7 +593,6 @@ Ausführung begonnen worden ist, spätestens jedoch nach Ablauf von vier
 Jahren, nachdem die Beschränkungen der Absätze 1 und 2 in Kraft
 getreten sind.
 
-
 ## § 9a Veränderungssperre, Vorkaufsrecht
 
 (1) Vom Beginn der Auslegung der Pläne im Planfeststellungsverfahren
@@ -653,7 +640,6 @@ nicht entgegenstehen.
 (6) In den Fällen des Absatzes 1 Satz 1 steht dem Träger der
 Straßenbaulast an den betroffenen Flächen ein Vorkaufsrecht zu.
 
-
 ## § 10 Schutzwaldungen
 
 (1) Waldungen und Gehölze längs der Bundesfernstraßen können von der
@@ -665,7 +651,6 @@ erklärt werden.
 (2) Die Schutzwaldungen sind vom Eigentümer oder Nutznießer zu
 erhalten und ordnungsgemäß zu unterhalten. Die Aufsicht hierüber liegt
 der nach Landesrecht für Schutzwaldungen zuständigen Behörde ob.
-
 
 ## § 11 Schutzmaßnahmen
 
@@ -689,7 +674,6 @@ mit der Straßenbaubehörde selbst durchführen.
 (5) Der Träger der Straßenbaulast hat den Eigentümern oder Besitzern
 die hierdurch verursachten Aufwendungen und Schäden in Geld zu
 ersetzen.
-
 
 ## § 12 Kreuzungen und Einmündungen öffentlicher Straßen
 
@@ -748,7 +732,6 @@ Diese soll zugleich die Aufteilung der Kosten regeln.
 Straßen an einer Stelle in eine andere Straße ein, so gelten diese
 Einmündungen als Kreuzung aller beteiligten Straßen.
 
-
 ## § 12a Kreuzungen mit Gewässern
 
 (1) Werden Bundesfernstraßen neu angelegt oder ausgebaut und müssen
@@ -781,7 +764,6 @@ die Kosten der Kreuzung je zur Hälfte zu tragen.
 zustande, so ist darüber durch Planfeststellung zu entscheiden.
 
 (5) § 41 des Bundeswasserstraßengesetzes bleibt unberührt.
-
 
 ## § 13 Unterhaltung der Straßenkreuzungen
 
@@ -816,7 +798,6 @@ anderes vereinbart wird.
 
 (8) § 12 Abs. 6 gilt entsprechend.
 
-
 ## § 13a Unterhaltung der Kreuzungen mit Gewässern
 
 (1) Der Träger der Straßenbaulast hat die Kreuzungsanlagen von
@@ -844,7 +825,6 @@ Rechts anders geregelt ist.
 (4) Die §§ 42 und 43 des Bundeswasserstraßengesetzes bleiben
 unberührt.
 
-
 ## § 13b Ermächtigung zu Rechtsverordnungen
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann mit
@@ -860,10 +840,6 @@ Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 3.  die Berechnung und die Zahlung von Ablösungsbeträgen nach § 13 Abs. 3
     und nach § 13a Abs. 2 näher bestimmt sowie dazu ein Verfahren zur
     gütlichen Beilegung von Streitigkeiten festgelegt werden.
-
-
-
-
 
 ## § 14 Umleitungen
 
@@ -895,7 +871,6 @@ Zustand des Weges wiederherzustellen.
 (5) Die Absätze 1 bis 4 gelten entsprechend, wenn neue
 Bundesfernstraßen vorübergehend über andere öffentliche Straßen an das
 Bundesfernstraßennetz angeschlossen werden müssen.
-
 
 ## § 15 Nebenbetriebe an den Bundesautobahnen
 
@@ -937,7 +912,6 @@ Konzessionsabgabe ist an das Bundesamt für Güterverkehr zu entrichten.
 Alkoholhaltige Getränke dürfen in der Zeit von 0.00 Uhr bis 7.00 Uhr
 weder ausgeschenkt noch verkauft werden.
 
-
 ## § 16 Planungen
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
@@ -959,7 +933,6 @@ oder die Schaffung neuer Bundesfernstraßen zur Folge haben können, ist
 die Straßenbaubehörde zu beteiligen. Sie hat die Belange der
 Bundesfernstraßen in dem Verfahren zu vertreten. Bundesplanungen haben
 grundsätzlich Vorrang vor Orts- und Landesplanungen.
-
 
 ## § 16a Vorarbeiten
 
@@ -985,7 +958,6 @@ zustande, so setzt die nach Landesrecht zuständige Behörde auf Antrag
 der Straßenbaubehörde oder des Berechtigten die Entschädigung fest.
 Vor der Entscheidung sind die Beteiligten zu hören.
 
-
 ## § 17 Erfordernis der Planfeststellung
 
 Bundesfernstraßen dürfen nur gebaut oder geändert werden, wenn der
@@ -996,7 +968,6 @@ berücksichtigen. Für das Planfeststellungsverfahren gelten die §§ 72
 bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
 Die Maßgaben gelten entsprechend, soweit das Verfahren landesrechtlich
 durch ein Verwaltungsverfahrensgesetz geregelt ist.
-
 
 ## § 17a Anhörungsverfahren
 
@@ -1077,10 +1048,6 @@ mit folgenden Maßgaben:
     hätten bekannt sein müssen oder für die Rechtmäßigkeit der
     Entscheidung von Bedeutung sind.
 
-
-
-
-
 ## § 17b Planfeststellungsbeschluss, Plangenehmigung
 
 (1) Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
@@ -1146,7 +1113,6 @@ Planfeststellung insoweit zusätzlich durchzuführen. In diesen Fällen
 gelten die §§ 40, 43 Abs. 1, 2, 4 und 5 sowie § 44 Abs. 1 bis 4 des
 Baugesetzbuchs.
 
-
 ## § 17c Rechtswirkungen der Planfeststellung und der Plangenehmigung
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
@@ -1174,10 +1140,6 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
     nicht.
 
-
-
-
-
 ## § 17d Planänderung vor Fertigstellung des Vorhabens
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
@@ -1189,7 +1151,6 @@ des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
-
 
 ## § 17e Rechtsbehelfe
 
@@ -1263,7 +1224,6 @@ durch Planergänzung oder durch ein ergänzendes Verfahren behoben
 werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
 bleiben unberührt.
 
-
 ## § 17f Anlagen der Verkehrsüberwachung, der Unfallhilfe und des Zolls
 
 Die der Sicherheit und Ordnung dienenden Anlagen an Bundesfernstraßen,
@@ -1273,9 +1233,7 @@ den Bundesfernstraßen haben, zur Festsetzung der Flächen in die
 Planfeststellung einbezogen werden. Das Gleiche gilt für Zollanlagen
 an Bundesfernstraßen.
 
-
 ## (XXXX) §§ 18 bis 18e (weggefallen)
-
 
 ## § 18f Vorzeitige Besitzeinweisung
 
@@ -1341,7 +1299,6 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 (7) Die Absätze 1 bis 6a gelten entsprechend für Grundstücke, die für
 die in § 17f genannten Anlagen benötigt werden.
 
-
 ## § 19 Enteignung
 
 (1) Die Träger der Straßenbaulast der Bundesfernstraßen haben zur
@@ -1369,7 +1326,6 @@ entsprechend.
 (5) Im Übrigen gelten die für öffentliche Straßen geltenden
 Enteignungsgesetze der Länder.
 
-
 ## § 19a Entschädigungsverfahren
 
 Soweit der Träger der Straßenbaulast nach §§ 8a, 9 oder auf Grund
@@ -1381,7 +1337,6 @@ Betroffenen und dem Träger der Straßenbaulast zustande kommt,
 entscheidet auf Antrag eines der Beteiligten die nach Landesrecht
 zuständige Behörde; für das Verfahren und den Rechtsweg gelten die
 Enteignungsgesetze der Länder entsprechend.
-
 
 ## § 20 Straßenaufsicht
 
@@ -1398,14 +1353,12 @@ ausgeführt werden. Kommt ein Träger der Straßenbaulast der Anordnung
 nicht nach, kann die Straßenaufsichtsbehörde die notwendigen Maßnahmen
 an seiner Stelle und auf seine Kosten verfügen und vollziehen.
 
-
 ## § 21 Verwaltung der Bundesstraßen in den Ortsdurchfahrten
 
 Soweit die Gemeinden nach § 5 Abs. 2 und 3 Träger der Straßenbaulast
 sind, richtet sich die Zuständigkeit zur Verwaltung der
 Ortsdurchfahrten nach Landesrecht. Dieses regelt auch, wer insoweit
 zuständige Straßenbaubehörde im Sinne dieses Gesetzes ist.
-
 
 ## § 22 Zuständigkeit
 
@@ -1439,7 +1392,6 @@ Stadtentwicklung ist hiervon zu unterrichten.
 tätig werden (Artikel 90 Abs. 2 des Grundgesetzes), sind ihre Behörden
 nach Maßgabe des Landesrechts an Stelle der Behörden des Landes
 zuständig.
-
 
 ## § 23 Ordnungswidrigkeiten
 
@@ -1514,7 +1466,6 @@ können mit einer Geldbuße bis zu fünfhundert Euro,
 Ordnungswidrigkeiten nach Absatz 1 Nr. 7 bis 10 können mit einer
 Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
 ## § 24 Übergangs- und Schlussbestimmungen
 
 (1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
@@ -1572,21 +1523,17 @@ bürgerlich-rechtliche Verträge vereinbart sind, gelten die
 Vorschriften über Sondernutzungen (§ 8) von dem Zeitpunkt an, zu dem
 die Verträge erstmals nach Inkrafttreten dieses Gesetzes kündbar sind.
 
-
 ## § 25 (Aufhebung von Vorschriften)
 
 -
-
 
 ## § 26 (weggefallen)
 
 -
 
-
 ## § 27 (Inkrafttreten)
 
 -
-
 
 ## Anlage (zu § 17e Abs. 1) Bundesfernstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
@@ -1896,10 +1843,6 @@ bestehenden Straßennetz verbunden sind.
 *    *   57
 
     *   B 246n B 112 – Grenze Deutschland/Polen
-
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kap. XI Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1111)
 

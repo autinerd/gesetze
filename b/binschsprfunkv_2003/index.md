@@ -24,7 +24,6 @@ Zuletzt geändert durch
 über Funkanlagen und Telekommunikationsendeinrichtungen und die
 gegenseitige Anerkennung ihrer Konformität (ABl. EG Nr. L 91 S. 10).
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet
@@ -40,13 +39,7 @@ auf Grund
     (BGBl. I S. 821) im Einvernehmen mit dem Bundesministerium der
     Finanzen:
 
-
-
-
-
 ## 1. Abschnitt - Gemeinsame Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -59,10 +52,6 @@ Diese Verordnung regelt
 2.  den Erwerb eines UKW-Sprechfunkzeugnisses für den
     Binnenschifffahrtsfunk (UKW-Sprechfunkzeugnis
     (UBI)).
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -137,13 +126,7 @@ Im Sinne dieser Verordnung sind
     mobile Funkstelle des Binnenschifffahrtsfunks, die sich an Bord eines
     Fahrzeuges befindet, das nicht ständig festgemacht ist.
 
-
-
-
-
 ## 2. Abschnitt - Betriebsvorschriften
-
-
 
 ### § 3 Grundregeln
 
@@ -162,7 +145,6 @@ einen Wert zwischen 6 Watt und 25 Watt eingestellt sein.
 Automatisches Senderidentifizierungssystem in der Binnenschifffahrt
 (Automatic Transmitter Identification System
 (ATIS)) verfügen.
-
 
 ### § 4 Erlaubnis
 
@@ -193,10 +175,6 @@ Schifffahrtsamt Koblenz.
 4.  Funkzeugnisses, das vor Inkrafttreten dieser Verordnung erteilt worden
     ist und zur Teilnahme am Binnenschifffahrtsfunk berechtigt.
 
-
-
-
-
 ### § 5 Besondere Pflichten
 
 In den Verkehrskreisen Schiff - Schiff, Nautische Information und
@@ -204,17 +182,13 @@ Schiff - Hafenbehörde dürfen nur Nachrichten übermittelt werden, die
 sich auf den Schutz des menschlichen Lebens, die Fahrt oder die
 Sicherheit von Fahrzeugen beziehen.
 
-
 ## 3. Abschnitt - Erwerb der Erlaubnis; Funkzeugnisse
-
-
 
 ### § 6 Anforderungen für den Erwerb der Erlaubnis
 
 Der Bewerber muss für die Erteilung der Erlaubnis das 15. Lebensjahr
 vollendet und die erforderliche Befähigung in einer Prüfung
 nachgewiesen haben.
-
 
 ### § 7 Prüfungsvoraussetzungen
 
@@ -261,7 +235,6 @@ Behörde über den Prüfungsausschuss zu richten:
 Abweichend von Satz 1 Nr. 1 darf ein Bewerber zur Prüfung auch drei
 Monate vor Erreichen des Mindestalters zugelassen werden.
 
-
 ### § 8 Prüfungsausschüsse
 
 (1) Die zuständige Behörde richtet Prüfungsausschüsse ein und bestellt
@@ -276,7 +249,6 @@ Seefunkdienst verfügen.
 
 (3) Ein Prüfungsausschuss besteht bei der Wasserschutzpolizeischule in
 Hamburg.
-
 
 ### § 9 Prüfung
 
@@ -340,7 +312,6 @@ haben.
 
 (7) (weggefallen)
 
-
 ### § 10 Erteilung ohne Prüfung
 
 Gegen Vorlage eines der in § 4 Abs. 3 Nr. 3 und 4 genannten Zeugnisse
@@ -350,7 +321,6 @@ Binnenschifffahrtsfunk erteilt die zuständige Behörde dem Inhaber auf
 Antrag ohne erneute Prüfung die Erlaubnis und stellt ein UKW-
 Sprechfunkzeugnis (UBI) aus.
 
-
 ### § 11 Ersatzausfertigung
 
 Ist ein UKW-Sprechfunkzeugnis (UBI) oder ein Funkzeugnis nach § 4 Abs.
@@ -359,7 +329,6 @@ gekommen, stellt die zuständige Behörde auf Antrag eine
 Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Ein
 unbrauchbar gewordenes oder wieder aufgefundenes Zeugnis ist bei der
 zuständigen Behörde abzuliefern.
-
 
 ### § 12 Entziehung
 
@@ -423,7 +392,6 @@ einer Schiffsfunkstelle oder Seefunkstelle auf den Wasserstraßen der
 Zonen 3 und 4 verbieten. Sie teilt die Untersagung der Stelle, die das
 Zeugnis ausgestellt hat, unverzüglich mit.
 
-
 ### § 13 Auskünfte
 
 Die zuständige Behörde darf die gespeicherten personenbezogenen Daten
@@ -451,7 +419,6 @@ Erlaubnisse, soweit dies erforderlich ist, zum Zwecke der
 
 übermitteln.
 
-
 ### § 14 Amtlich anerkanntes UKW-Sprechfunkzeugnis (UBI)
 
 Das amtlich anerkannte UKW-Sprechfunkzeugnis (UBI) wird nach dem
@@ -466,10 +433,7 @@ rechtfertigen, dass sie, ihre Prüfungsausschüsse oder ihre Prüfer
 wiederholt oder grob pflichtwidrig gegen die Bestimmungen des Satzes 2
 verstoßen haben.
 
-
 ## 4. Abschnitt - Schlussvorschriften
-
-
 
 ### § 15 Ordnungswidrigkeiten
 
@@ -495,36 +459,27 @@ fahrlässig
 5.  entgegen einem vollziehbaren Verbot nach § 12 Abs. 8 Satz 1 eine
     Schiffsfunkstelle oder Seefunkstelle bedient.
 
-
-
-
-
 ### § 16
 
 -
-
 
 ### § 17
 
 -
 
-
 ### § 18 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
-
 
 ### Anlage 1 (zu § 4 Abs. 2, § 9 Abs. 4) UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4575
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
 
-
 ### Anlage 2 (zu § 4 Abs. 3 Nr. 1, § 14) UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4576
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
-
 
 ### Anlage 3 (zu § 9 Abs. 1) Prüfungsprogramm
 
@@ -1038,9 +993,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
     *   X
 
     *
-
-
-
 
 ### Anlage 4 (zu § 9 Abs. 3) Vorschriften für den Prüfungsverlauf
 

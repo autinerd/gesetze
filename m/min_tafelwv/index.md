@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.12.2006 I 2762
 
-
 ## Eingangsformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit verordnet
@@ -36,10 +35,7 @@ auf Grund des § 11 Abs. 2 des Bundes-Seuchengesetzes in der Fassung
 der Bekanntmachung vom 18. Dezember 1979 (BGBl. I S. 2262)
 mit Zustimmung des Bundesrates:
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
@@ -56,10 +52,7 @@ Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
 Erzeugnisse im Sinne des Absatzes 1 Satz 1 zum Verbrauch in ihrer
 Betriebsstätte beziehen, gleich.
 
-
 ## 2. Abschnitt - Natürliches Mineralwasser
-
-
 
 ### § 2 Begriffsbestimmung
 
@@ -83,10 +76,6 @@ Anforderungen erfüllt:
 
 
 4.  (weggefallen)
-
-
-
-
 
 ### § 3 Amtliche Anerkennung
 
@@ -140,7 +129,6 @@ zuständigen Behörde eingegangen ist.
 und dem Ort der Quellnutzung vom Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit im Bundesanzeiger bekanntgemacht.
 
-
 ### § 4 Mikrobiologische Anforderungen
 
 (1) Natürliches Mineralwasser muß frei sein von Krankheitserregern.
@@ -169,7 +157,6 @@ geben.
 eingehalten werden, sind die in der Anlage 2 angegebenen
 Untersuchungsverfahren anzuwenden.
 
-
 ### § 5 Gewinnung
 
 (1) Ein natürliches Mineralwasser darf vorbehaltlich anderer
@@ -188,7 +175,6 @@ Abfüller unverzüglich jede Gewinnung und Abfüllung zum Zweck des
 Inverkehrbringens solange unterlassen, bis die Ursache für die
 Verunreinigung beseitigt ist und das Wasser wieder den
 mikrobiologischen und chemischen Anforderungen entspricht.
-
 
 ### § 6 Herstellungsverfahren
 
@@ -271,7 +257,6 @@ Stoffe zugesetzt werden. Es dürfen keine Verfahren zu dem Zweck
 durchgeführt werden, den Keimgehalt im natürlichen Mineralwasser zu
 verändern.
 
-
 ### § 6a Höchstgehalte und Analyseverfahren
 
 (1) Bei der Abfüllung natürlicher Mineralwässer sind die Höchstgehalte
@@ -286,7 +271,6 @@ Bestandteilen natürlicher Mineralwässer sind nach Methoden
 durchzuführen, die hinreichend zuverlässige Messwerte liefern und
 dabei die in Anlage 5 genannten Leistungsmerkmale einhalten.
 
-
 ### § 7 Abfüllung und Verpackung
 
 (1) Natürliches Mineralwasser, das nicht unmittelbar nach seiner
@@ -298,7 +282,6 @@ bestimmten Fertigpackungen in den Verkehr gebracht werden.
 (2) Die zur Abfüllung von natürlichem Mineralwasser verwendeten
 Fertigpackungen müssen mit einem Verschluß versehen sein, der geeignet
 ist, Verfälschungen oder Verunreinigungen zu vermeiden.
-
 
 ### § 8 Kennzeichnung
 
@@ -408,7 +391,6 @@ mit Kohlensäure versetzt ist, das Kohlendioxid nicht im Verzeichnis
 der Zutaten angegeben zu werden, wenn auf die zugesetzte Kohlensäure
 in der Verkehrsbezeichnung hingewiesen wird.
 
-
 ### § 9 Irreführende Angaben
 
 (1) Ein natürliches Mineralwasser, das aus ein und derselben
@@ -432,10 +414,7 @@ besondere Eignung des Wassers hingewiesen, so sind bei den in Anlage 6
 aufgeführten oder bei gleichsinnigen Angaben die dort genannten
 Anforderungen einzuhalten.
 
-
 ## 3. Abschnitt - Quellwasser, Tafelwasser
-
-
 
 ### § 10 Begriffsbestimmungen
 
@@ -455,7 +434,6 @@ Anforderungen einzuhalten.
 
 (2) Tafelwasser ist Wasser, das eine oder mehrere der von § 11 Abs. 1
 erfaßten Zutaten enthält.
-
 
 ### § 11 Herstellung
 
@@ -487,7 +465,6 @@ festgelegten Grenzwerte für chemische Stoffe eingehalten sind.
 
 (4) (weggefallen)
 
-
 ### § 12 Gewinnung, Abfüllung
 
 (1) Quellwasser darf nur aus Quellen gewonnen oder abgefüllt werden,
@@ -505,7 +482,6 @@ entspricht.
 (3) Quellwasser darf in die zur Abgabe an den Verbraucher bestimmten
 Fertigpackungen nur am Quellort abgefüllt werden.
 
-
 ### § 13 Mikrobiologische Anforderungen
 
 (1) Für Quellwasser und Tafelwasser gilt § 4 Abs. 1 Satz 1 und 2
@@ -517,7 +493,6 @@ sein. Für Quellwasser gilt darüber hinaus § 4 Abs. 2 entsprechend.
 (2) Zur Feststellung, ob die Bestimmungen des Absatzes 1 eingehalten
 werden, sind die in der Anlage 2 angegebenen Untersuchungsverfahren
 anzuwenden.
-
 
 ### § 14 Kennzeichnung
 
@@ -554,7 +529,6 @@ unverwischbar die Angabe "Dieses Wasser ist einem zugelassenen
 Oxidationsverfahren mit ozonangereicherter Luft unterzogen worden"
 angebracht ist, sofern eine Behandlung mit ozonangereicherter Luft
 stattgefunden hat.
-
 
 ### § 15 Irreführende Angaben
 
@@ -600,10 +574,7 @@ ausgedrückt in Vonhundertteilen der zulässigen Höchstkonzentration,
 dort genannten Bezeichnungen, Angaben, sonstigen Hinweise oder
 Aufmachungen in der Werbung für Quellwasser und Tafelwasser.
 
-
 ## 4. Abschnitt - Verkehrsverbote, Straftaten und Ordnungswidrigkeiten
-
-
 
 ### § 16 Verkehrsverbote
 
@@ -665,10 +636,6 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 9.  Quellwasser, das nach § 12 Abs. 2 nicht gewonnen oder abgefüllt werden
     darf.
-
-
-
-
 
 ### § 17 Straftaten und Ordnungswidrigkeiten
 
@@ -773,10 +740,7 @@ in den Verkehr bringt, das nicht amtlich anerkannt ist.
 
 (7) (weggefallen)
 
-
 ## 5. Abschnitt - Schlußbestimmungen
-
-
 
 ### § 18 Trinkwasser
 
@@ -784,11 +748,9 @@ Für Trinkwasser, das nicht die Anforderungen des § 2 oder des § 10
 erfüllt und in zur Abgabe an den Verbraucher bestimmten
 Fertigpackungen in den Verkehr gebracht wird, gilt § 15 entsprechend.
 
-
 ### § 19
 
 (weggefallen)
-
 
 ### § 20 Übergangsregelung
 
@@ -813,11 +775,9 @@ werden.
 
 (4) § 8 Abs. 8 Nr. 3 ist ab dem 1. Januar 2008 nicht mehr anzuwenden.
 
-
 ### § 21 Inkrafttreten, abgelöste Vorschrift
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ### Anlage 1 (zu § 3 Abs. 3, § 5 Abs. 2 und § 12 Abs. 1)
 
@@ -849,10 +809,6 @@ müssen
 4.  die Behältnisse so behandelt oder hergestellt sein, daß sie die
     mikrobiologischen und chemischen Merkmale des Mineralwassers nicht
     verändern.
-
-
-
-
 
 ### Anlage 2 (zu § 4 Abs. 3)
 
@@ -1116,10 +1072,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     hindeuten, so ist an mindestens 4 weiteren Proben festzustellen, daß
     die Grenzwerte im Wasser nicht überschritten werden.
 
-
-
-
-
 ### Anlage 3 (zu § 6 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1033
@@ -1145,10 +1097,6 @@ Mineralwässer und Quellwässer mit ozonangereicherter Luft
 *    *   Bromoforme
 
     *   1
-
-
-
-
 
 ### Anlage 4 (zu § 6a Abs. 1)
 
@@ -1338,14 +1286,9 @@ natürlichem Mineralwasser
 
     *   0,070
 
-
-
-
-
 ### Anlage 5
 
 -
-
 
 ### Anlage 5 (zu § 6a Abs. 2)
 
@@ -1594,10 +1537,6 @@ Höchstgehalt.
 
 4)  Mit dem Verfahren soll der Gesamtzyanidgehalt in allen Formen bestimmt
     werden können.
-
-
-
-
 
 ### Anlage 6 (zu § 9 Abs. 3)
 

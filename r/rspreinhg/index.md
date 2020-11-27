@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 5.12.2012 I 2418
 
-
 ## Erster Abschnitt - Gemeinsamer Senat der obersten Gerichtshöfe
-
-
 
 ### § 1 Bildung des Gemeinsamen Senats
 
@@ -31,7 +28,6 @@ Zuletzt geändert durch
 wird ein Gemeinsamer Senat dieser obersten Gerichtshöfe gebildet.
 
 (2) Der Gemeinsame Senat hat seinen Sitz in Karlsruhe.
-
 
 ### § 2 Zuständigkeit
 
@@ -45,7 +41,6 @@ Gerichtshofs anzurufen, so entscheidet der Gemeinsame Senat erst, wenn
 der Große Senat oder die Vereinigten Großen Senate von der
 Entscheidung eines anderen obersten Gerichtshofs oder des Gemeinsamen
 Senats abweichen wollen.
-
 
 ### § 3 Zusammensetzung
 
@@ -75,7 +70,6 @@ Stelle.
 Vertreter werden von den Präsidien der obersten Gerichtshöfe für die
 Dauer von zwei Geschäftsjahren bestimmt.
 
-
 ### § 4 Beteiligte Senate
 
 (1) Beteiligt sind der vorlegende Senat und der Senat des obersten
@@ -94,7 +88,6 @@ Entscheidung des Großen Senats eines anderen obersten Gerichtshofs
 abweichen, so ist der Große Senat der beteiligte Senat. Entsprechendes
 gilt für die Vereinigten Großen Senate eines obersten Gerichtshofs.
 
-
 ### § 5 Vorsitz
 
 Den Vorsitz führt der lebensälteste Präsident der nichtbeteiligten
@@ -104,41 +97,33 @@ der anwesenden Präsidenten der anderen obersten Gerichtshöfe, bei den
 übrigen Geschäften des Vorsitzenden durch seinen Vertreter im Großen
 Senat vertreten.
 
-
 ### § 6 Abstimmung
 
 Der Gemeinsame Senat entscheidet mit der Mehrheit der Stimmen seiner
 Mitglieder.
-
 
 ### § 7 Vorrang der Amtsgeschäfte im Gemeinsamen Senat
 
 Die Tätigkeit im Gemeinsamen Senat geht der Tätigkeit an dem obersten
 Gerichtshof vor.
 
-
 ### § 8 Geschäftsstelle
 
 Für den Gemeinsamen Senat wird eine Geschäftsstelle eingerichtet. Das
 Nähere bestimmt der Bundesminister der Justiz.
-
 
 ### § 9 Rechts- und Amtshilfe
 
 Alle Gerichte und Verwaltungsbehörden leisten dem Gemeinsamen Senat
 Rechts- und Amtshilfe.
 
-
 ## Zweiter Abschnitt - Verfahrensvorschriften
-
-
 
 ### § 10 Grundsatz
 
 Soweit in den §§ 11 bis 17 nichts anderes bestimmt ist, gelten für das
 Verfahren vor dem Gemeinsamen Senat die Vorschriften für das Verfahren
 vor dem vorlegenden Senat entsprechend.
-
 
 ### § 11 Vorlegungsverfahren
 
@@ -158,7 +143,6 @@ ist nur zulässig, wenn der Senat, von dessen Entscheidung abgewichen
 werden soll, auf die zu begründende Anfrage des erkennenden Senats
 erklärt hat, dass er an seiner Rechtsauffassung festhält. § 4 gilt
 entsprechend.
-
 
 ### § 12 Stellungnahmen der obersten Gerichtshöfe
 
@@ -181,7 +165,6 @@ Rechtsfrage vorlegen.
 
 (3) Der Vorsitzende des Gemeinsamen Senats teilt die eingegangenen
 Äußerungen den am Verfahren Beteiligten mit.
-
 
 ### § 13 Beteiligte am Verfahren
 
@@ -206,7 +189,6 @@ mitzuteilen.
 beim Bundesverwaltungsgericht und den Bundeswehrdisziplinaranwalt
 entsprechend.
 
-
 ### § 14 Aufgabe der früheren Rechtsprechung
 
 Schließt sich der Senat des obersten Gerichtshofs, von dessen
@@ -217,7 +199,6 @@ Vorlegungsbeschlusses bei dem obersten Gerichtshof, von dessen
 Entscheidung abgewichen werden soll. Sie kann von dem Vorsitzenden des
 Gemeinsamen Senats verlängert werden.
 
-
 ### § 15 Gegenstand der Entscheidung
 
 (1) Der Gemeinsame Senat entscheidet nur über die Rechtsfrage. Die
@@ -227,12 +208,10 @@ Verfahren Beteiligten Gelegenheit zur Äußerung zu geben.
 
 (2) Die Entscheidung ist zu begründen und den Beteiligten zuzustellen.
 
-
 ### § 16 Wirkung der Entscheidung
 
 Die Entscheidung des Gemeinsamen Senats ist in der vorliegenden Sache
 für das erkennende Gericht bindend.
-
 
 ### § 17 Kosten
 
@@ -240,10 +219,7 @@ für das erkennende Gericht bindend.
 
 (2) Außergerichtliche Kosten werden nicht erstattet.
 
-
 ## Dritter Abschnitt - Schlußvorschriften
-
-
 
 ### § 18 Erweiterung der Revisions- und Vorlegungsgründe
 
@@ -262,11 +238,9 @@ wenn es von dessen Entscheidung abweichen will, so hat das Gericht die
 Sache dem obersten Gerichtshof auch vorzulegen, wenn es von einer
 Entscheidung des Gemeinsamen Senats abweichen will.
 
-
 ### (XXXX) §§ 19 und 20
 
 -
-
 
 ### § 21 Änderung von Bezeichnungen
 
@@ -274,13 +248,11 @@ Soweit in anderen Gesetzen und in Verordnungen die Bezeichnung "oberes
 Bundesgericht" verwendet wird, tritt an ihre Stelle die Bezeichnung
 "oberster Gerichtshof des Bundes".
 
-
 ### § 22 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
-
 
 ### § 23 Inkrafttreten
 

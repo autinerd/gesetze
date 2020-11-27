@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 13.1.2009 I 42
 
-
 ## Eingangsformel
 
 Auf Grund des § 366a Abs. 4 Satz 3 und 5 des Dritten Buches
@@ -33,7 +32,6 @@ auf den Vorstand der Bundesagentur für Arbeit vom 15. Januar 2008
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem
 Bundesministerium der Finanzen:
 
-
 ## § 1 Höhe des Zuweisungssatzes
 
 Der für die Höhe der regelmäßigen Zuweisungen nach § 366a Abs. 2 Nr. 3
@@ -42,7 +40,6 @@ des Dritten Buches Sozialgesetzbuch an das Sondervermögen
 der ruhegehaltfähigen Dienstbezüge oder Entgeltzahlungen
 (Zuweisungssatz) beträgt für die Beamtinnen und Beamten der
 Bundesagentur für Arbeit 60 Prozent.
-
 
 ## § 2 Verrechnung
 
@@ -59,7 +56,6 @@ Versorgungsausgaben und Zuweisungen sowie Ungenauigkeiten durch die
 nach Absatz 1 durchgeführten Rundungen werden bei der Ermittlung der
 ersten Zahlung im darauffolgenden Kalenderjahr berücksichtigt.
 
-
 ## § 3 Zahlverfahren
 
 (1) Die Zahlung des nach § 2 ermittelten Betrages erfolgt
@@ -68,7 +64,6 @@ Quartals.
 
 (2) Die weiteren Einzelheiten des Zahlverfahrens vereinbaren die
 Bundesagentur für Arbeit und die Deutsche Bundesbank.
-
 
 ## § 4 Revision
 
@@ -87,7 +82,6 @@ Soziales und dem Bundesministerium der Finanzen festgestellt.
 oder Überfinanzierung des Fonds in Höhe von mindestens 50 Millionen
 Euro, ist der Zuweisungssatz mit Wirkung ab dem folgenden
 Haushaltsjahr anzupassen.
-
 
 ## § 5 Inkrafttreten
 

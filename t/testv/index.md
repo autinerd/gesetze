@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst mit ausnahme der anlage durch
 :   Bek. v. 23.9.2009 I 3162; geändert durch V v. 11.1.2011 I 39
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung legt die Rahmenbedingungen für die Testmaßnahmen
@@ -26,7 +25,6 @@ fest, mit denen die elektronische Gesundheitskarte einschließlich der
 erforderlichen Telematikinfrastruktur erprobt werden soll, und
 verpflichtet die Gesellschaft für Telematik, die Testmaßnahmen nach
 den folgenden Regelungen durchzuführen.
-
 
 ## § 2 Ziel der Testmaßnahmen
 
@@ -47,7 +45,6 @@ sicherzustellen.
 Anwendung der elektronischen Gesundheitskarte erforderliche
 Telematikinfrastruktur in die flächendeckende Versorgung zu
 überführen.
-
 
 ## § 3 Inhalt der Testmaßnahmen
 
@@ -97,7 +94,6 @@ und 291a des Fünften Buches Sozialgesetzbuch erforderlichen Vorgaben
 fest und veröffentlicht sie auf ihrer Internetseite; § 6 gilt
 entsprechend.
 
-
 ## § 3a Zulassung der Komponenten und Dienste der Telematikinfrastruktur
 
 (1) Spätestens dann, wenn personenbezogene Daten verwendet werden,
@@ -121,7 +117,6 @@ befristete vorläufige Zulassung erteilen.
 (4) Näheres zum Zulassungsverfahren wird von der Gesellschaft für
 Telematik festgelegt und auf ihrer Internetseite veröffentlicht; § 6
 gilt entsprechend.
-
 
 ## § 4 Funktionsumfang der Testung
 
@@ -174,7 +169,6 @@ technikoffen zu testen; die Gesellschaft für Telematik legt hierzu die
 Anforderungen für die Umsetzung sowie für den Schutz der
 personenbezogenen Daten fest und veröffentlicht sie auf ihrer
 Internetseite; § 6 gilt entsprechend.
-
 
 ## § 5 Vorgaben zur Organisation der Testung durch die Gesellschaft für Telematik
 
@@ -250,7 +244,6 @@ Landesbehörden benannt werden.
 die daraus gewonnenen Erkenntnisse sowohl für andere Testmaßnahmen als
 auch für die Einführung weiterer Anwendungen genutzt werden können.
 
-
 ## § 5a Betriebsverantwortung für die Testinfrastruktur
 
 (1) Die Gesellschaft für Telematik hat die Betriebsverantwortung für
@@ -322,7 +315,6 @@ Zertifizierungsdiensteanbietern für die elektronischen
 Heilberufsausweise und die elektronischen Berufsausweise Verträge
 schließen.
 
-
 ## § 6 Projektorganisation
 
 (1) Zur Durchführung der Testung hat die Gesellschaft für Telematik
@@ -388,7 +380,6 @@ und Vertreter der Gesellschaft für Telematik, der beauftragten
 Gesellschafter oder des Projektausschusses und weitere Sachverständige
 einladen.
 
-
 ## § 7 Schlichtungsverfahren
 
 (1) Die Gesellschaft für Telematik hat zur Durchführung dieser
@@ -422,7 +413,6 @@ der Stimmen ersetzt werden.
 beauftragten Gesellschafter sind verpflichtet, der Schlichtungsstelle
 nach deren Weisungen unverzüglich zuzuarbeiten, damit die
 Schlichtungsstelle ihre Entscheidungen vorbereiten kann.
-
 
 ## § 8 Finanzierung
 
@@ -493,7 +483,6 @@ sind die Kosten aus den Mitteln der Gesellschaft für Telematik zu
 tragen. Das Gleiche gilt für elektronische Gesundheitskarten, die im
 Rahmen der Testung verwendet werden und ersetzt werden müssen.
 
-
 ## § 9 Ausnahmen
 
 Das Bundesministerium für Gesundheit kann im Benehmen mit den
@@ -501,7 +490,6 @@ zuständigen obersten Landesbehörden Ausnahmen von den Regelungen der
 §§ 3 bis 5 zulassen. Dabei ist der oder dem Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit Gelegenheit zur Stellungnahme
 zu geben.
-
 
 ## § 10 (Inkrafttreten)
 

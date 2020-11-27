@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 401
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 - Änderung des Ehenamens
-
-
 
 ## § 1
 
@@ -36,7 +31,6 @@ Ehenamen führen wollen.
 
 (2) Absatz 1 gilt nicht, wenn die Ehe aufgelöst oder für nichtig
 erklärt ist.
-
 
 ## § 2
 
@@ -55,7 +49,6 @@ abgeben.
 (3) Die Erklärungen nach Absatz 1 und 2 sind innerhalb eines Jahres
 abzugeben; die Frist beginnt mit der Abgabe der Erklärung nach § 1.
 
-
 ## § 3
 
 (1) Die Erklärungen bedürfen der öffentlichen Beglaubigung. Sie sind
@@ -63,7 +56,6 @@ dem für ihre Entgegennahme zuständigen Standesbeamten zu übersenden.
 
 (2) Die Erklärungen können auch von den Standesbeamten beglaubigt oder
 beurkundet werden.
-
 
 ## § 4
 
@@ -95,12 +87,10 @@ Durchführung dieses Gesetzes Verwaltungsvorschriften über die nähere
 Behandlung der Erklärungen und die Mitteilungspflichten der
 Standesbeamten zu erlassen.
 
-
 ## Art 2 - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 3 - Inkrafttreten
 

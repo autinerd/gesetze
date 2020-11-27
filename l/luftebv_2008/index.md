@@ -25,7 +25,6 @@ Satz 2 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom
 10\. Mai 2007 (BGBl. I S. 698) verordnet das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung:
 
-
 ## § 1 Verbotsausnahmen gemäß § 27 Abs. 3 des Luftverkehrsgesetzes
 
 (1) Ausgenommen von dem Verbot des Betriebs elektronischer Geräte in
@@ -70,7 +69,6 @@ Ausstrahlung von elektromagnetischen Wellen im Frequenzbereich bis 300
 Gigahertz; die Ausstrahlung von Licht oder Wärme wie etwa bei einer
 Infrarotschnittstelle ist darin nicht eingeschlossen.
 
-
 ## § 2 Weitergehende Freistellungen
 
 (1) Der Luftfahrzeughalter kann von den Beschränkungen des § 1 Abs. 1
@@ -98,12 +96,10 @@ anzusehen, die zu Verfälschungen oder Ausfällen von Anzeigen,
 Kommunikationseinrichtungen, Kontroll- oder Steuersignalen des
 Luftfahrzeuges führt.
 
-
 ## § 3 Befugnisse des verantwortlichen Luftfahrzeugführers
 
 Die Befugnisse des verantwortlichen Luftfahrzeugführers gemäß § 12 des
 Luftsicherheitsgesetzes bleiben unberührt.
-
 
 ## § 4 Hinweispflicht
 
@@ -113,13 +109,11 @@ Luftfahrzeughalter oder von der Luftfahrzeugbesatzung in geeigneter
 Weise über die für elektronische Geräte geltenden
 Betriebseinschränkungen und Verbote zu unterrichten.
 
-
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2) -
-
 
 ## Schlussformel
 

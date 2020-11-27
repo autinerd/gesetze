@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1304
 
-
 ## Eingangsformel
 
 Auf Grund des § 18 Absatz 5 Nummer 2 und 3 des Arbeitnehmer-
 Entsendegesetzes vom 20. April 2009 (BGBl. I S. 799) verordnet das
 Bundesministerium der Finanzen im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales:
-
 
 ## § 1 Abwandlung der Anmeldung
 
@@ -88,7 +86,6 @@ nach der Vorgabe des Absatzes 3 zu machen.
 auf Grund des § 18 Absatz 3 Satz 1 Nummer 2 und 3 des Arbeitnehmer-
 Entsendegesetzes.
 
-
 ## § 2 Entfallen der Änderungsmeldung
 
 Eine Beschäftigung, die von der gemeldeten Einsatzplanung nach § 1
@@ -105,10 +102,6 @@ zu werden, wenn
     Einsatzplanung abweicht und alle eingesetzten entsandten Arbeitnehmer
     und Arbeitnehmerinnen im Rahmen einer anderen aktuellen Einsatzplanung
     gemeldet wurden.
-
-
-
-
 
 ## § 3 Inkrafttreten, Außerkrafttreten
 

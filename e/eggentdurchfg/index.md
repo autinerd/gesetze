@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 9.12.2010 I 1934
 
-
 ## § 1 Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
@@ -84,7 +83,6 @@ Protokolls von Cartagena über die biologische Sicherheit zum
 Übereinkommen über die biologische Vielfalt, soweit die
 Mitgliedstaaten zuständig sind.
 
-
 ## § 2 Aufgaben des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -92,7 +90,6 @@ Verbraucherschutz ist Anlaufstelle im Sinne des Artikels 19 Abs. 1
 Satz 1 des Protokolls von Cartagena über die biologische Sicherheit
 zum Übereinkommen über die biologische Vielfalt und des Artikels 17
 Abs. 2 der Verordnung (EG) Nr. 1946/2003.
-
 
 ## § 3 Beteiligung anderer Behörden des Bundes
 
@@ -108,7 +105,6 @@ veränderte Wirbeltiere oder gentechnisch veränderte Mikroorganismen,
 die an Wirbeltieren angewendet werden, betroffen sind, des Friedrich-
 Loeffler-Instituts, Bundesforschungsinstitut für Tiergesundheit,
 einzuholen.
-
 
 ## § 3a Voraussetzungen für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
 
@@ -184,10 +180,6 @@ zugelassen ist.
     Begriffsbestimmung in Artikel 2 Buchstabe y der Verordnung (EG) Nr.
     834/2007.
 
-
-
-
-
 ## § 3b Nachweise für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
 
 Derjenige, der Lebensmittel mit der Angabe nach § 3a Abs. 1 in den
@@ -214,7 +206,6 @@ Geeignete Nachweise sind insbesondere
 Die Kennzeichnung eines Lebensmittels mit einer Angabe im Sinne des §
 3a Abs. 1 ist unzulässig, soweit die Nachweise nach Satz 1 nicht
 geführt werden können.
-
 
 ## § 4 Überwachung
 
@@ -278,7 +269,6 @@ untersagen.
 
 entsprechend.
 
-
 ## § 5 Mitwirkung von Zollstellen
 
 Im Falle der Einfuhr, der Ausfuhr oder der Durchfuhr von Erzeugnissen,
@@ -286,7 +276,6 @@ die in den Anwendungsbereich der in § 4 Abs. 1 genannten Rechtsakte
 fallen, wirken das Bundesministerium der Finanzen und die von ihm
 bestimmten Zolldienststellen bei der Überwachung in entsprechender
 Anwendung des § 55 des Lebensmittel- und Futtermittelgesetzbuches mit.
-
 
 ## § 5a Erlass von Rechtsverordnungen
 
@@ -323,7 +312,6 @@ des Bundesrates verlängert werden.
 
 (3) § 73 des Lebensmittel- und Futtermittelgesetzbuches gilt
 entsprechend.
-
 
 ## § 6 Strafvorschriften
 
@@ -391,7 +379,6 @@ Jahren oder mit Geldstrafe bestraft.
 (8) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49
 Abs. 2 des Strafgesetzbuches) oder von Strafe absehen, wenn der Täter
 nicht zu erwerbswirtschaftlichen Zwecken handelt.
-
 
 ## § 7 Bußgeldvorschriften
 
@@ -489,7 +476,6 @@ bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 (7) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 6 Nr.
 2 und 3 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen
 Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
-
 
 ## Anlage (zu § 3a Abs. 4 Satz 2) Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
 

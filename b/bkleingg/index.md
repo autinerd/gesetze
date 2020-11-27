@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 19.9.2006 I 2146
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Begriffsbestimmungen
 
@@ -73,7 +69,6 @@ beschlossen:
 (3) Ein Dauerkleingarten ist ein Kleingarten auf einer Fläche, die im
 Bebauungsplan für Dauerkleingärten festgesetzt ist.
 
-
 ### § 2 Kleingärtnerische Gemeinnützigkeit
 
 Eine Kleingärtnerorganisation wird von der zuständigen Landesbehörde
@@ -92,10 +87,6 @@ wenn die Satzung bestimmt, daß
 3.  bei der Auflösung der Organisation deren Vermögen für
     kleingärtnerische Zwecke verwendet wird.
 
-
-
-
-
 ### § 3 Kleingarten und Gartenlaube
 
 (1) Ein Kleingarten soll nicht größer als 400 Quadratmeter sein. Die
@@ -111,10 +102,7 @@ Ausstattung und Einrichtung, nicht zum dauernden Wohnen geeignet sein.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Eigentümergärten.
 
-
 ## Zweiter Abschnitt - Kleingartenpachtverhältnisse
-
-
 
 ### § 4 Kleingartenpachtverträge
 
@@ -137,7 +125,6 @@ ordnungsgemäße Bewirtschaftung oder Nutzung der Kleingärten oder der
 Kleingartenanlage nicht mehr gewährleistet ist, hat der Verpächter die
 Verwaltung der Kleingartenanlage einer in Absatz 2 Satz 2 bezeichneten
 Kleingärtnerorganisation zu übertragen.
-
 
 ### § 5 Pacht
 
@@ -199,19 +186,16 @@ Absatz 4 Satz 2 ist entsprechend anzuwenden. Der Pächter ist
 berechtigt, den Erstattungsbetrag einer einmalig erhobenen Abgabe in
 Teilleistungen, höchstens in fünf Jahresleistungen, zu entrichten.
 
-
 ### § 6 Vertragsdauer
 
 Kleingartenpachtverträge über Dauerkleingärten können nur auf
 unbestimmte Zeit geschlossen werden; befristete Verträge gelten als
 auf unbestimmte Zeit geschlossen.
 
-
 ### § 7 Schriftform der Kündigung
 
 Die Kündigung des Kleingartenpachtvertrages bedarf der schriftlichen
 Form.
-
 
 ### § 8 Kündigung ohne Einhaltung einer Kündigungsfrist
 
@@ -228,10 +212,6 @@ Kündigungsfrist kündigen, wenn
     den Frieden in der Kleingärtnergemeinschaft so nachhaltig stören, daß
     dem Verpächter die Fortsetzung des Vertragsverhältnisses nicht
     zugemutet werden kann.
-
-
-
-
 
 ### § 9 Ordentliche Kündigung
 
@@ -315,7 +295,6 @@ eines Kalendermonats für den Ablauf des nächsten Monats zulässig.
 (3) Ist der Kleingartenpachtvertrag auf bestimmte Zeit eingegangen,
 ist die Kündigung nach Absatz 1 Nr. 3 oder 4 unzulässig.
 
-
 ### § 10 Kündigung von Zwischenpachtverträgen
 
 (1) Der Verpächter kann einen Zwischenpachtvertrag auch kündigen, wenn
@@ -338,7 +317,6 @@ der Kleingartenanlage betrifft, wird der Zwischenpachtvertrag auf die
 (3) Wird ein Zwischenpachtvertrag durch eine Kündigung des Verpächters
 beendet, tritt der Verpächter in die Verträge des Zwischenpächters mit
 den Kleingärtnern ein.
-
 
 ### § 11 Kündigungsentschädigung
 
@@ -363,7 +341,6 @@ nimmt.
 (3) Der Anspruch ist fällig, sobald das Pachtverhältnis beendet und
 der Kleingarten geräumt ist.
 
-
 ### § 12 Beendigung des Kleingartenpachtvertrages bei Tod des Kleingärtners
 
 (1) Stirbt der Kleingärtner, endet der Kleingartenpachtvertrag mit dem
@@ -381,16 +358,12 @@ gilt Absatz 1 entsprechend.
 § 563b Abs. 1 und 2              über die Haftung und über die
 Anrechnung der gezahlten Miete entsprechend anzuwenden.
 
-
 ### § 13 Abweichende Vereinbarungen
 
 Vereinbarungen, durch die zum Nachteil des Pächters von den
 Vorschriften dieses Abschnitts abgewichen wird, sind nichtig.
 
-
 ## Dritter Abschnitt - Dauerkleingärten
-
-
 
 ### § 14 Bereitstellung und Beschaffung von Ersatzland
 
@@ -406,7 +379,6 @@ kleingärtnerisch genutzten Fläche und dem Ersatzland entspricht.
 
 (3) Das Ersatzland soll im Zeitpunkt der Räumung des Dauerkleingartens
 für die kleingärtnerische Nutzung zur Verfügung stehen.
-
 
 ### § 15 Begründung von Kleingartenpachtverträgen durch Enteignung
 
@@ -435,10 +407,7 @@ zugunsten Pachtwilliger begründet werden.
 
 (4) Im übrigen gilt das Landesenteignungsrecht.
 
-
 ## Vierter Abschnitt - Überleitungs- und Schlußvorschriften
-
-
 
 ### § 16 Überleitungsvorschriften für bestehende Kleingärten
 
@@ -471,13 +440,11 @@ abgelaufene Zeitraum ist hierbei anzurechnen. Vom Zeitpunkt der
 Rechtsverbindlichkeit des Bebauungsplans an sind die Vorschriften über
 Dauerkleingärten anzuwenden.
 
-
 ### § 17 Überleitungsvorschrift für die kleingärtnerische Gemeinnützigkeit
 
 Anerkennungen der kleingärtnerischen Gemeinnützigkeit, die vor
 Inkrafttreten dieses Gesetzes ausgesprochen worden sind, bleiben
 unberührt.
-
 
 ### § 18 Überleitungsvorschriften für Lauben
 
@@ -491,12 +458,10 @@ soweit andere Vorschriften der Wohnnutzung nicht entgegenstehen. Für
 die Nutzung der Laube kann der Verpächter zusätzlich ein angemessenes
 Entgelt verlangen.
 
-
 ### § 19 Stadtstaatenklausel
 
 Die Freie und Hansestadt Hamburg gilt für die Anwendung des Gesetzes
 auch als Gemeinde.
-
 
 ### § 20 Aufhebung von Vorschriften
 
@@ -518,7 +483,6 @@ persönliche Dienstbarkeiten, die aufgrund von § 5 Abs. 1 Satz 5 des
 nach Absatz 1 Nr. 12 außer Kraft tretenden Kleingartengesetzes von
 Schleswig-Holstein im Grundbuch eingetragen worden sind. Für die
 Berichtigung des Grundbuchs werden Kosten nicht erhoben.
-
 
 ### § 20a Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
@@ -605,10 +569,6 @@ Gesetz mit folgenden Maßgaben anzuwenden:
     entgegenstehen. Für die dauernde Nutzung der Laube kann der Verpächter
     zusätzlich ein angemessenes Entgelt verlangen.
 
-
-
-
-
 ### § 20b Sonderregelungen für Zwischenpachtverhältnisse im Beitrittsgebiet
 
 Auf Zwischenpachtverträge über Grundstücke in dem in Artikel 3 des
@@ -616,11 +576,9 @@ Einigungsvertrages genannten Gebiet, die innerhalb von
 Kleingartenanlagen genutzt werden, sind die §§ 8 bis 10 und § 19 des
 Schuldrechtsanpassungsgesetzes entsprechend anzuwenden.
 
-
 ### § 21 (weggefallen)
 
 -
-
 
 ### § 22 Inkrafttreten
 

@@ -19,15 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.2.2011 I 316
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 66 Abs. 2 des Lebensmittel- und
 Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26.
 April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für
 Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Erhebungsmerkmale, Berichtszeitraum, Periodizität
 
@@ -82,7 +79,6 @@ führende Statistik erfasst
 Die Statistik wird für die Jahre 2007 und 2008 jeweils für das
 Kalenderjahr, danach jeweils für die Kalenderhalbjahre durchgeführt.
 
-
 ## § 2 Übermittlung der Erhebungskataloge
 
 Das Statistische Bundesamt stellt den für die Durchführung der in § 1
@@ -92,7 +88,6 @@ Satz 2 einen Katalog der nach § 1 Satz 1 zu übermittelnden Angaben
 (Erhebungskatalog) zur Verfügung. Der Erhebungskatalog wird für die
 Jahre 2007 und 2008 in Papierform und elektronisch, danach nur
 elektronisch zur Verfügung gestellt.
-
 
 ## § 3 Auskunftspflichtige, ergänzende Angaben, Form der Übermittlung an das Statistische Bundesamt
 
@@ -110,7 +105,6 @@ Erhebung.
 ausschließlich elektronisch. Das Statistische Bundesamt kann die
 Datensatzformate, die technischen Übermittlungsformate und die
 Übermittlungsverfahren festlegen.
-
 
 ## § 4 Aufbereitung der Ergebnisse
 
@@ -136,11 +130,9 @@ an das Bundesinstitut für Risikobewertung zur Erstellung von
 wissenschaftlichen Ausarbeitungen, Gutachten und Stellungnahmen im
 Rahmen der Risikobewertung übermitteln.
 
-
 ## § 5 Inkrafttreten
 
 Die Verordnung tritt am 1. März 2007 in Kraft.
-
 
 ## Schlussformel
 

@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 8.11.2011 I 2178
 
-
 ## § 1 Zweck der Verordnung
 
 Zweck der Verordnung ist es, eine Beeinträchtigung des Wohls der
 Allgemeinheit zu vermeiden, insbesondere den Menschen und die Umwelt
 vor schädlichen Einwirkungen durch die Errichtung, die Beschaffenheit
 und den Betrieb von Rohrfernleitungsanlagen zu schützen.
-
 
 ## § 2 Anwendungsbereich
 
@@ -89,7 +87,6 @@ unberührt. Das Bundesministerium der Verteidigung unterrichtet das
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 jährlich über die Anwendung dieses Absatzes.
 
-
 ## § 3 Grundsätzliche Anforderungen
 
 (1) Rohrfernleitungsanlagen müssen so beschaffen sein und betrieben
@@ -106,7 +103,6 @@ Vorschriften anderer Mitgliedstaaten der Europäischen Gemeinschaft
 oder anderer Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum, sofern das geforderte Schutzniveau gleichermaßen
 dauerhaft erreicht wird.
-
 
 ## § 4 Sonstige Anforderungen
 
@@ -164,7 +160,6 @@ Mitarbeitern zugänglich zu machen.
 kann die zuständige Behörde die im Einzelfall erforderlichen
 Anordnungen treffen.
 
-
 ## § 4a Anzeigepflicht
 
 (1) Wer die Errichtung einer Rohrfernleitungsanlage im Sinne von § 2
@@ -204,7 +199,6 @@ bei einer Beanstandung erst nach Behebung des Mangels begonnen werden.
 Soweit Teile der Rohrfernleitungsanlage durch eine Beanstandung nicht
 betroffen sind, kann mit ihrer Errichtung unabhängig von der
 Beanstandung begonnen werden.
-
 
 ## § 5 Prüfung von Rohrfernleitungsanlagen
 
@@ -255,7 +249,6 @@ Nr. 6 auf bis zu drei Jahre verlängert werden.
 
 (2) Die zuständige Behörde kann in besonderen Fällen über Absatz 1
 hinaus zusätzliche Prüfungen anordnen.
-
 
 ## § 6 Prüfstellen für Rohrfernleitungsanlagen
 
@@ -355,7 +348,6 @@ zweieinhalb Millionen Euro nachzuweisen.
 2012 auch die Sachverständigen heranziehen, die nach Maßgabe des § 6
 in der bis zum 10. Oktober 2008 geltenden Fassung heranzuziehen waren.
 
-
 ## § 7 Schadensfall
 
 (1) Im Schadensfall hat der Betreiber unverzüglich Maßnahmen zur
@@ -404,10 +396,6 @@ erstrecken,
 3.  ob neue Erkenntnisse vorliegen, die andere oder zusätzliche
     Schutzvorkehrungen erfordern.
 
-
-
-
-
 ## § 8 Schadensfallvorsorge
 
 (1) Der Betreiber einer Rohrfernleitungsanlage hat Alarm- und
@@ -425,7 +413,6 @@ Rahmen der Schadensfallvorsorge die betroffenen Gemeinden, Feuerwehr,
 Polizei und andere Hilfsorganisationen entlang der Trasse über Art,
 Zweckbestimmung und Verlauf der Rohrfernleitungsanlage, über Gefahren
 sowie über die transportierten Stoffe zu informieren.
-
 
 ## § 9 Ausschuss für Rohrfernleitungen
 
@@ -472,7 +459,6 @@ Reaktorsicherheit.
 (5) Technische Regeln und das Anforderungsprofil nach Absatz 2 Nr. 3
 werden vom Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit im Bundesanzeiger veröffentlicht.
-
 
 ## § 10 Ordnungswidrigkeiten
 
@@ -528,10 +514,6 @@ vorsätzlich oder fahrlässig
 
 2.  entgegen § 8 Abs. 3 eine Information nicht, nicht richtig oder nicht
     vollständig gibt.
-
-
-
-
 
 ## § 11 Übergangsvorschriften
 

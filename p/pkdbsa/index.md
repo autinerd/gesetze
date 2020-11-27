@@ -17,11 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 167
 
-
-
 ## I. - Allgemeines
-
-
 
 ### § 1 Rechtsform und Sitz der Kasse
 
@@ -31,7 +27,6 @@ Versicherungsverein auf Gegenseitigkeit im Sinne des § 53 des
 Versicherungsaufsichtsgesetzes.
 
 (2) Geschäftsgebiet ist die Bundesrepublik Deutschland.
-
 
 ### § 2 Zweck der Kasse
 
@@ -64,7 +59,6 @@ Aufgaben sind vertraglich festzulegen; dabei ist die Verwaltung zu
 verpflichten, die der Pensionskasse durch die Betreuung entstehenden
 zusätzlichen Verwaltungskosten durch eine angemessene Pauschale
 abzugelten.
-
 
 ### § 2a Mitgliedschaft
 
@@ -118,7 +112,6 @@ d)  Rentner, deren Arbeitgeber aus der Mitgliedschaft in der Kasse
 Mitgliedschaft mit der Aushändigung des Aufnahmescheins an den
 Arbeitnehmer bzw. sonstigen Versicherten.
 
-
 ### § 2b Begriffe
 
 (1) Soweit in der Satzung der Begriff Arbeitnehmer verwendet wird,
@@ -129,7 +122,6 @@ ausdrücklich etwas anderes geregelt ist.
 umfasst dieser alle ordentlichen und alle außerordentlichen Mitglieder
 der Kasse (§ 2a Abs. 2 und 3) mit Ausnahme der beteiligten
 Arbeitgeber.
-
 
 ### § 3 Verhältnis der Kasse zu anderen Versorgungseinrichtungen
 
@@ -158,10 +150,7 @@ Aufsichtsbehörde.
 (3) Verträge nach Absatz 1 und 2 bedürfen der Genehmigung des
 Kuratoriums und der Aufsichtsbehörde.
 
-
 ## II. - Die beteiligten Arbeitgeber
-
-
 
 ### § 4 Beitrittsrecht
 
@@ -208,7 +197,6 @@ Voraussetzungen des Absatzes 1 Satz 2 erfüllt sind, auf den
 beteiligten Arbeitgeber (Abs. 1) tätigen Verbände beitreten.
 
 (5) Der Beitrittsvertrag bedarf der Genehmigung des Kuratoriums.
-
 
 ### § 5 Pflichten der beteiligten Arbeitgeber
 
@@ -268,13 +256,6 @@ der Kasse vorgeschriebenen Form zu melden,
 
     c)  aus pauschal versteuertem Einkommen (§ 40b EStG) erbracht wurden.
 
-
-
-
-
-
-
-
 ### § 6 Ausscheiden von Arbeitgebern
 
 (1) Das Kuratorium kann einen Arbeitgeber von der Verpflichtung zur
@@ -306,7 +287,6 @@ Eröffnungsantrags mangels Masse.
 (6) Kommt ein beteiligter Arbeitgeber seinen satzungsmäßigen
 Verpflichtungen trotz Mahnung nicht nach, so kann die Mitgliedschaft
 mit Zustimmung des Kuratoriums fristlos gekündigt werden.
-
 
 ### § 6a Auseinandersetzung mit ausscheidenden Arbeitgebern
 
@@ -360,10 +340,7 @@ Absatzes 3 hat der Arbeitgeber zusätzlich den Barwert des ungedeckten
 Teils der Anwartschaften und Renten des aus ihr hervorgegangenen
 Versicherungsbestandes an die Kasse zu zahlen.
 
-
 ## III. - Die Arbeitnehmer
-
-
 
 ### § 7 Versicherungspflicht
 
@@ -405,7 +382,6 @@ festgelegt, der der Genehmigung der Aufsichtsbehörde bedarf.
 werden, können auf Antrag des Arbeitnehmers von der Zuführungspflicht
 befreit werden.
 
-
 ### § 8 Versicherungsberechtigung
 
 Der Kasse können außerdem zugeführt werden
@@ -424,7 +400,6 @@ c)  die Arbeitnehmer der für die beteiligten Arbeitgeber tätigen Verbände.
 Soweit Arbeitnehmer der Kasse oder von Verbänden versichert werden,
 haben die Kasse oder der Verband für diese Versicherungsverhältnisse
 die Rechte und Pflichten eines beteiligten Arbeitgebers.
-
 
 ### § 9 Ende der ordentlichen Mitgliedschaft
 
@@ -458,7 +433,6 @@ Arbeitsverhältnis ausscheidet, solange dem Arbeitnehmer ununterbrochen
 ein Anspruch auf Vorruhestandsleistungen zusteht; ein Ruhen des
 Anspruchs bis zu 150 Tagen ist unschädlich.
 
-
 ### § 10 Versicherungsarten
 
 (1) Die am 31. Dezember 1999 vorhandenen Mitglieder der Abteilung A
@@ -481,7 +455,6 @@ andererseits werden die Kassenleistungen nicht an den Arbeitnehmer,
 sondern an den Arbeitgeber gezahlt. Weist der Arbeitnehmer nach, dass
 der Arbeitgeber sein eigenes Versorgungsversprechen nicht erfüllt, so
 hat die Kasse die Kassenleistungen an den Arbeitnehmer auszuzahlen.
-
 
 ### § 11 Ärztliche Untersuchung bei der Aufnahme und Risikozuschlag
 
@@ -515,14 +488,9 @@ Gesundheitsrisiken von einer eventuell bestehenden
 Geheimhaltungspflicht zu befreien; erfolgt diese Befreiung nicht, ist
 dieser Umstand der Kasse von dem Arbeitgeber mitzuteilen.
 
-
 ## IV. - Die Versicherungsbedingungen der Abteilung A
 
-
-
 ### 1. - Die Versicherungsleistungen
-
-
 
 #### § 12 Voraussetzungen des Rentenanspruchs
 
@@ -746,7 +714,6 @@ eine Hinterbliebenenrente haben würden, so kann der Vorstand nach
 Anhörung des Arbeitgebers und der Arbeitnehmervertretung diesen die
 Rente ganz oder teilweise bewilligen.
 
-
 #### § 13 Gehaltszuschuss
 
 (1) Ein Arbeitnehmer, der nach einer Wartezeit von 60 Beitragsmonaten
@@ -786,7 +753,6 @@ entsprechend anzuwenden. Der Gehaltszuschuss fällt außerdem fort,
 sobald der Arbeitnehmer wieder seine alte Gehalts- oder Lohngruppe
 oder den alten Monatstabellenlohn erreicht.
 
-
 #### § 14 Sterbegeld
 
 (1) Stirbt der Arbeitnehmer vor Vollendung der Wartezeit, erhalten
@@ -817,7 +783,6 @@ wenn sie zur Zeit des Todes zur häuslichen Gemeinschaft des
 Rentenempfängers gehört haben. Das Sterbegeld wird in Höhe von zwei
 Monatsbeträgen der im Sterbemonat zustehenden Rente, höchstens aber in
 Höhe der gewöhnlichen Bestattungskosten, in einer Summe gezahlt.
-
 
 #### § 15 Anspruchsberechtigte Hinterbliebene
 
@@ -907,7 +872,6 @@ Arbeitnehmervertretung die Waisenrente ganz oder teilweise bewilligen.
 (6) Für die am 31. Dezember 2005 bestehenden Versicherungsverhältnisse
 gilt weiterhin Absatz 1 Buchstabe f) in der bis zum 31. Dezember 2005
 gültigen Fassung dieses Paragraphen.
-
 
 #### § 16 Höhe der Versichertenrente
 
@@ -1057,13 +1021,6 @@ entrichteten Beträgen.
         wenn die anerkannte Schwerbehinderung, Berufs- oder Erwerbsunfähigkeit
         bei Rentenbeginn vorliegt.
 
-
-
-
-
-
-
-
 #### § 16a Versichertenrente auf Grund des Betriebsrentengesetzes
 
 (1) War ein Rentenberechtigter nach dem 21. Dezember 1974 aber vor dem
@@ -1106,7 +1063,6 @@ Betrag der Rente nach § 36 Abs. 2, ist diese Rente maßgebend.
 (3) Der Rentenanspruch nach Absatz 1 oder 2 besteht, wenn die
 Voraussetzungen nach § 35 Abs. 3 Buchstaben a) bis c) gegeben sind.
 
-
 #### § 16b Versichertenrente auf Grund des Betriebsrentengesetzes
 
 Scheidet ein Arbeitnehmer nach dem 31. Dezember 2001 und nach
@@ -1119,7 +1075,6 @@ Arbeitsverhältnisses nach § 36 Abs. 2, sofern er Mitglied in der
 Abteilung A ist, oder nach § 24 Abs. 2, sofern er Mitglied in der
 Abteilung A 2000 ist, berechnet.
 
-
 #### § 17 Erhöhung laufender Renten durch Kapitaleinzahlung
 
 Die laufenden Renten können jederzeit durch Einzahlung des notwendigen
@@ -1127,7 +1082,6 @@ Deckungskapitals um einen unveränderlichen Jahresbetrag erhöht werden.
 Die Grundsätze für die Berechnung des Deckungskapitals setzt das
 Kuratorium nach Anhörung eines Sachverständigen fest. Der Beschluss
 bedarf der Genehmigung durch die Aufsichtsbehörde.
-
 
 #### § 18 Laufzeit der Versichertenrenten
 
@@ -1196,10 +1150,6 @@ c)  wenn die dem Rentner aus der gesetzlichen Rentenversicherung
     zu dem Zeitpunkt, von dem ab erneut eine Rente aus der gesetzlichen
     Rentenversicherung bewilligt wird.
 
-
-
-
-
 #### § 19 Höhe der Hinterbliebenenrenten
 
 (1) Die Witwen- oder Witwerrente beträgt 60 v. H., die Waisenrente
@@ -1218,7 +1168,6 @@ werden für jedes angefangene Jahr ihrer weiteren Dauer dem gekürzten
 Betrag 5 v. H. der Witwen- bzw. Witwerrente hinzugesetzt, bis der
 volle Betrag wieder erreicht ist. Die Kürzung entfällt, wenn aus der
 Ehe ein Kind hervorgegangen ist.
-
 
 #### § 20 Laufzeit der Hinterbliebenenrenten
 
@@ -1283,7 +1232,6 @@ Abfindung nach Absatz 4 erhalten, so ruht die Zahlung der Witwen- oder
 Witwerrente bis zum Ablauf von fünf Jahren nach dem Monat der
 Wiederverheiratung.
 
-
 #### § 20a Abfindung
 
 (1) Auf gemeinsamen schriftlichen Antrag des Arbeitnehmers und des
@@ -1323,10 +1271,6 @@ geltenden Fassung weiterhin Anwendung.
 \*) Im Jahr 2005: 24,15
     EUR monatlich (West), 20,30 EUR (Ost).
 
-
-
-
-
 #### § 20b Versorgungsausgleich
 
 Ist durch Entscheidung des Familiengerichts in sinngemäßer Anwendung
@@ -1339,7 +1283,6 @@ besonderen Richtlinien zur Durchführung des Versorgungsausgleichs, die
 das Kuratorium aufzustellen hat. Die Richtlinien und ihre Änderungen
 bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
 
-
 #### § 20c Verjährungsfrist
 
 Der Anspruch auf Rente, der Anspruch auf Gehaltszuschuss sowie der
@@ -1348,11 +1291,9 @@ beginnt mit dem Schluss des Jahres, in welchem die Leistung verlangt
 werden kann. § 12 Abs. 2 und 3 des Versicherungsvertragsgesetzes gilt
 entsprechend.
 
-
 #### § 20d Auszubildende
 
 Als Arbeitnehmer im Sinne dieser Satzung gelten auch Auszubildende.
-
 
 #### § 20e Änderung der Rentenhöhe wegen Zulagenrückforderung
 
@@ -1376,10 +1317,7 @@ Empfänger oder seine Erben nach § 94 Abs. 2 EStG von der zentralen
 Stelle auf Rückzahlung der Zulage in Anspruch genommen werden und den
 Rückzahlungsbetrag entrichtet haben.
 
-
 ### 2. - Die Finanzierung der Versicherungsleistungen
-
-
 
 #### § 21 Die Beiträge
 
@@ -1474,7 +1412,6 @@ entrichten gewesen wären, wenn eine Versicherungspflicht bestanden
 hätte. Zu diesen Beiträgen sind Zins und Zinseszins in Höhe von 5 v.
 H. jährlich zu zahlen.
 
-
 #### § 21a Altersvorsorgezulage
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten
@@ -1508,7 +1445,6 @@ ergebenden Pflichten des Anbieters zu erfüllen.
 Einzelfall steuer- und sozialversicherungsrechtlich günstigste
 Gestaltung ihrer Altersvorsorge zu beraten.
 
-
 #### § 22 Erstattungspflichten der Arbeitgeber
 
 (1) Lehnt ein Arbeitgeber die Beschäftigung eines dienstunfähig
@@ -1535,14 +1471,9 @@ beschäftigt war, verpflichtet, der Kasse den Rententeil zu ersetzen,
 der den nach den übrigen Vorschriften der Satzung zustehenden
 Rententeil übersteigt.
 
-
 ## IVa. - Die Versicherungsbedingungen der Abteilung A 2000
 
-
-
 ### 1. - Die Versicherungsleistungen
-
-
 
 #### § 23 Voraussetzungen des Rentenanspruchs
 
@@ -1662,7 +1593,6 @@ Arbeitseinkommen gleich der Bezug von
 
 Bei der Anrechnung ist das der Sozialleistung zugrunde liegende
 monatliche Arbeitsentgelt oder Arbeitseinkommen zu berücksichtigen.
-
 
 #### § 24 Höhe der Alters- und Erwerbsminderungsrente des Versicherten
 
@@ -1951,7 +1881,6 @@ die Anrechnung unterbleibt insoweit, wie das Arbeitslosengeld bereits
 auf eine gesetzliche Rente wegen teilweiser oder voller
 Erwerbsminderung angerechnet wird.
 
-
 #### § 25 Laufzeit der Alters- und Erwerbsminderungsrente des Versicherten
 
 (1) Die Rente wird auf Antrag von dem Kalendermonat an geleistet, zu
@@ -1962,12 +1891,10 @@ Zeitpunkt beantragen.
 (2) Für den Fortfall und das Ruhen der Rente gelten § 18 Abs. 2 und 3
 entsprechend.
 
-
 #### § 26 Höhe und Laufzeit der Hinterbliebenenrente
 
 Für Höhe und Laufzeit der Hinterbliebenenrente gelten § 19 und § 20
 entsprechend.
-
 
 #### § 27 Sonstige Vorschriften
 
@@ -1978,10 +1905,7 @@ entsprechend.
 Stelle des 65. Lebensjahres das 60. Lebensjahr tritt und anstelle des
 Versicherungsfalles nach § 12 der Versicherungsfall nach § 23 tritt.
 
-
 ### 2. - Die Finanzierung der Versicherungsleistungen
-
-
 
 #### § 28 Beiträge
 
@@ -2053,7 +1977,6 @@ entsprechend.
 (8) Zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG) stehen
 Beiträgen gleich, soweit sie nicht zurückgefordert werden.
 
-
 #### § 28a Übertragung externer Übertragungswerte auf die Kasse
 
 (1) Die Vorschriften dieses Paragrafen gelten nur
@@ -2097,13 +2020,11 @@ eingeht.
 Anwartschaft gelten die Regelungen über Entgeltumwandlung
 entsprechend.
 
-
 #### § 28b Einvernehmliche Übertragung
 
 Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse
 gemäß § 4 Abs. 2 des Gesetzes zur Verbesserung der betrieblichen
 Altersversorgung (BetrAVG) ist ausgeschlossen.
-
 
 #### § 28c Altersvorsorgezulage
 
@@ -2138,14 +2059,9 @@ ergebenden Pflichten des Anbieters zu erfüllen.
 Einzelfall steuer- und sozialversicherungsrechtlich günstigste
 Gestaltung ihrer Altersvorsorge zu beraten.
 
-
 ## IVb. - Die Versicherungsbedingungen der Abteilung Z 2002
 
-
-
 ### 1. - Mitgliedschaft, allgemeine Pflichten
-
-
 
 #### § 29 Mitgliedschaft, allgemeine Pflichten
 
@@ -2270,10 +2186,7 @@ innerhalb einer von der Kasse zu setzenden Frist auf Anforderung der
 Kasse Auskünfte zu erteilen und Nachweise sowie Lebensbescheinigungen
 vorzulegen.
 
-
 ### 2. - Versicherungsleistungen
-
-
 
 #### § 29a Umfang des Versicherungsschutzes, Wahlmöglichkeiten
 
@@ -2312,7 +2225,6 @@ ausschließlich aus Beiträgen, die nach dem Wirksamwerden der
 Erweiterung geleistet werden. Aus Altersvorsorgezulagen (§§ 79 ff.
 EStG) entstehen Anwartschaften nach Maßgabe des Versicherungsschutzes,
 der für das Kalenderjahr ihres Zuflusses an die Kasse gewählt wurde.
-
 
 #### § 29b Altersrente, Voraussetzungen und Höhe, Sterbegeld
 
@@ -3474,10 +3386,6 @@ X = Lebensjahr, das der Versicherte im Kalenderjahr der
 
     *   93,37%
 
-
-
-
-
 #### § 29c Hinterbliebenenrente
 
 (1) Die in Absatz 2 aufgezählten Hinterbliebenen der Arbeitnehmer der
@@ -3678,7 +3586,6 @@ Jahresbetrages der ihnen zustehenden Rente; Anspruch auf die Abfindung
 besteht nicht, wenn die Heirat erfolgt, nachdem die Witwe oder der
 Witwer das 75. Lebensjahr vollendet hat.
 
-
 #### § 29d Rente wegen teilweiser oder voller Erwerbsminderung
 
 (1) Arbeitnehmer der Abteilung Z 2002 haben vor Vollendung des 60.
@@ -3869,7 +3776,6 @@ Monate und drei Jahresmindestbeiträge) teilweise oder voll
 erwerbsgemindert und besteht deshalb kein Rentenanspruch nach diesem
 Paragrafen, so gilt § 29 Abs. 7.
 
-
 #### § 29e Anpassung der Verrentungstabellen
 
 (1) Die für die Verrentung der Beiträge in der Abteilung Z 2002
@@ -3891,7 +3797,6 @@ Einheitstarif zu ersetzen; soweit das Gesetz oder die Rechtsprechung
 Rückwirkung entfaltet, ist dieser genehmigte Einheitstarif auch
 rückwirkend anwendbar. Für bereits laufende Rentenverhältnisse bleibt
 es aus Vertrauensschutzgesichtspunkten bei der bewilligten Rentenhöhe.
-
 
 #### § 29f Abfindung
 
@@ -3932,10 +3837,6 @@ geltenden Fassung weiterhin Anwendung.
 \*) Im Jahr 2005: 24,15
     EUR monatlich (West), 20,30 EUR (Ost).
 
-
-
-
-
 #### § 29g Versorgungsausgleich
 
 Ist durch Entscheidung des Familiengerichts in sinngemäßer Anwendung
@@ -3947,7 +3848,6 @@ Hinterbliebenen gekürzt. Die Einzelheiten der Kürzung ergeben sich aus
 besonderen Richtlinien zur Durchführung des Versorgungsausgleichs, die
 das Kuratorium aufzustellen hat. Die Richtlinien und ihre Änderungen
 bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
-
 
 #### § 29h Änderung der Rentenhöhe wegen Zulagenrückforderung
 
@@ -3971,7 +3871,6 @@ Empfänger oder seine Erben nach § 94 Abs. 2 EStG von der zentralen
 Stelle auf Rückzahlung der Zulage in Anspruch genommen werden und den
 Rückzahlungsbetrag entrichtet haben.
 
-
 #### § 29i Verjährungsfrist
 
 Der Anspruch auf Rente sowie der Anspruch auf Sterbegeld verjähren in
@@ -3979,10 +3878,7 @@ fünf Jahren. Die Verjährung beginnt mit dem Schluss des Jahres, in
 welchem die Leistung verlangt werden kann. § 12 Abs. 2 und 3 des
 Versicherungsvertragsgesetzes gilt entsprechend.
 
-
 ### 3. - Finanzierung der Versicherungsleistungen, Altersvorsorgezulage
-
-
 
 #### § 30 Mindest- und Höchstbeitrag, Beitragsleistung und Beitragsmeldung
 
@@ -4040,10 +3936,7 @@ vorgeschriebenen Form die Meldung nach § 5 Abs. 5 abzugeben.
 Beide Werte gelten einheitlich für die alten und die neuen
 Bundesländer.
 
-
 ### 4. - Rechte der Arbeitnehmer der Abteilung Z 2002
-
-
 
 #### § 30a Rechte bei Entgeltumwandlung
 
@@ -4094,7 +3987,6 @@ Arbeitgeber erlischt die Verpflichtung des alten Arbeitgebers; mit der
 gegenüber dem Arbeitnehmer. Entstehen der Kasse bei der Berechnung des
 Barwerts Aufwendungen, hat der Arbeitnehmer diese zu erstatten.
 
-
 #### § 30b Rechte bei sonstigen Beiträgen
 
 Soweit die Beiträge zur Abteilung Z 2002 nicht im Wege der
@@ -4129,7 +4021,6 @@ gilt für die von einem Dritten an die Kasse geleisteten sonstigen
 Beiträge, sofern der Dritte keinen Antrag auf Beitragserstattung
 stellt.
 
-
 #### § 30c Freiwillige Weiterversicherung
 
 (1) Soweit dem aus dem Arbeitsverhältnis bei einem beteiligten
@@ -4163,7 +4054,6 @@ Wirksamwerdens der Kündigung erreichten Umfang bestehen (beitragsfreie
 Versicherung). Eine Beitragsrückerstattung ist ausgeschlossen. Eine
 erneute freiwillige Weiterversicherung ist ebenfalls ausgeschlossen.
 
-
 #### § 30d Beitragserstattung
 
 (1) Scheidet ein Arbeitnehmer der Abteilung Z 2002 vor Erreichen der
@@ -4190,7 +4080,6 @@ das Recht auf freiwillige Weiterversicherung (§ 30c) ausgeschlossen.
 
 (6) Mit der Beitragserstattung erlöschen die auf die erstatteten
 Beiträge entfallenden Anwartschaften.
-
 
 #### § 30e Verfahren beim Ausscheiden
 
@@ -4230,7 +4119,6 @@ dem zur Zeit des Fristablaufs erreichten Umfang auch insoweit bestehen
 freiwillige Weiterversicherung mit eigenen Beiträgen (§ 30c)
 beantragt. Eine Beitragsrückerstattung ist ausgeschlossen.
 
-
 #### § 30f Altersvorsorgezulage
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten
@@ -4266,7 +4154,6 @@ ergebenden Pflichten des Anbieters zu erfüllen.
 Einzelfall steuer- und sozialversicherungsrechtlich günstigste
 Gestaltung ihrer Altersvorsorge zu beraten.
 
-
 #### § 30g Auskunftsanspruch des Arbeitnehmers
 
 (1) Die Kasse hat einem versicherten Arbeitnehmer bei einem
@@ -4295,7 +4182,6 @@ Auskunftsanspruch entfällt, wenn die Beendigung des
 Arbeitsverhältnisses bei dem ehemaligen Arbeitgeber mehr als ein Jahr
 zurückliegt.
 
-
 #### § 30h Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
 
 Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein
@@ -4306,7 +4192,6 @@ Arbeitsverhältnisses bei der Kasse gestellt werden; § 30c Abs. 3 bis 6
 gilt entsprechend. Der Arbeitgeber steht auch für die Leistungen aus
 diesen Beiträgen ein. Die Regelungen über Entgeltumwandlung gelten für
 diese Beiträge entsprechend.
-
 
 #### § 30i Anspruch auf Anwartschaftsübertragung
 
@@ -4349,13 +4234,11 @@ Einjahresfrist hinzuweisen.
 Übertragungswerten von der Kasse auf einen anderen Versorgungsträger
 gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen.
 
-
 #### § 30j Einvernehmliche Übertragung
 
 Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse
 gemäß § 4 Abs. 2 des Gesetzes zur Verbesserung der betrieblichen
 Altersversorgung (BetrAVG) ist ausgeschlossen.
-
 
 #### § 30k Übertragung externer Übertragungswerte auf die Kasse
 
@@ -4398,10 +4281,7 @@ dem der Betrag auf dem Konto der Kasse eingeht.
 Anwartschaft gelten die Regelungen über die Entgeltumwandlung
 entsprechend.
 
-
 ## V. - Die Versicherungsbedingungen der Abteilung B
-
-
 
 ### § 31 Allgemeiner Grundsatz
 
@@ -4425,10 +4305,7 @@ weitergezahlt. Für die Gewährung und Berechnung von
 Hinterbliebenenrenten aus den übergeleiteten
 Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
-
 ## VI. - Bestimmungen über die Abwicklung von Versicherungsverhältnissen
-
-
 
 ### § 32 Überleitungsbestimmungen und Versicherungsbedingungen der Abteilung C
 
@@ -4492,7 +4369,6 @@ Bruttorente gewährt wird. Für die Gewährung und Berechnung von
 Hinterbliebenenrenten aus den übergeleiteten
 Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
-
 ### § 33 Versicherungsbedingungen der Abteilungen G und H
 
 (1) Die von der Werkspensionskasse der Essener Verkehrs-AG
@@ -4507,14 +4383,9 @@ abgewickelt. Für diese Versicherungsverhältnisse gelten die in der
 Anlage XV festgesetzten Versicherungsbedingungen. Die Anlage ist
 Bestandteil dieser Satzung.
 
-
 ## VII. - Gemeinsame Bestimmungen für die Versicherten der Abteilungen A und A 2000
 
-
-
 ### 1. - Pflichten der Versicherten und Hinterbliebenen, Auskunftsanspruch und Rechte bei ruhendem Arbeitsverhältnis
-
-
 
 #### § 34 Anzeige-, Abtretungs- und Auskunftspflichten
 
@@ -4539,7 +4410,6 @@ sind ferner verpflichtet, innerhalb einer von der Kasse zu setzenden
 Frist auf Anforderung der Kasse Auskünfte zu erteilen und Nachweise
 sowie Lebensbescheinigungen vorzulegen sowie unaufgefordert jede
 Verlegung ihres Wohnsitzes unverzüglich mitzuteilen.
-
 
 #### § 34a Auskunftsanspruch des Arbeitnehmers
 
@@ -4569,7 +4439,6 @@ Auskunftsanspruch entfällt, wenn die Beendigung des
 Arbeitsverhältnisses bei dem ehemaligen Arbeitgeber mehr als ein Jahr
 zurückliegt.
 
-
 #### § 34b Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
 
 Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein
@@ -4580,10 +4449,7 @@ Arbeitsverhältnisses bei der Kasse gestellt werden; § 35 Abs. 1 Satz 2
 bis 5 gilt entsprechend. Der Arbeitgeber steht auch für die Leistungen
 aus diesen Beiträgen ein.
 
-
 ### 2. - Rechte der Versicherten beim Ausscheiden aus dem Dienst eines beteiligten Arbeitgebers
-
-
 
 #### § 35 Freiwillige Weiterversicherung
 
@@ -4653,7 +4519,6 @@ gelten entsprechend.
 (5) Für freiwillig Versicherte in der Abteilung A 2000 besteht ein
 Rentenanspruch unter den Voraussetzungen des § 23. In Abteilung A 2000
 errechnet sich die Rente der freiwillig Versicherten nach § 24.
-
 
 #### § 36 Beitragsfreie Versicherung
 
@@ -5067,7 +4932,6 @@ Abteilung A 2000 unter den Voraussetzungen des § 23. In Abteilung A
 kündigen. Endet die beitragsfreie Versicherung durch Kündigung, so
 erfolgt Beitragserstattung nach § 37.
 
-
 #### § 37 Beitragserstattung
 
 (1) Macht ein aus der ordentlichen Mitgliedschaft ausgeschiedener
@@ -5141,7 +5005,6 @@ pflichtversichert gewesen wäre.
 erstatteten Beiträge sämtliche Rechte und Pflichten aus dem
 Versicherungsverhältnis.
 
-
 #### § 37a Verfahren beim Ausscheiden
 
 (1) Scheidet ein Versicherter aus dem Dienst eines beteiligten
@@ -5167,7 +5030,6 @@ Abteilung A, der die Voraussetzungen des § 16b oder die Wartezeit von
 60 Beitragsmonaten nicht erfüllt hat und für dessen Beiträge die Kasse
 keine Altersvorsorgezulagen erhalten hat, erfolgt in diesem Fall
 Beitragserstattung nach § 37.
-
 
 #### § 37b Anspruch auf Anwartschaftsübertragung
 
@@ -5214,13 +5076,7 @@ gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen.
 \*) Im Jahr 2005: 62.400
     EUR.
 
-
-
-
-
 ## VIII. - Die Organe
-
-
 
 ### § 38 Organe
 
@@ -5237,13 +5093,7 @@ Die Organe der Pensionskasse sind
 
 4.  der Vorstand.
 
-
-
-
-
 ### 1. - Die Arbeitnehmervertretung
-
-
 
 #### § 39 Zusammensetzung und Wahl
 
@@ -5284,7 +5134,6 @@ Arbeitnehmervertretung nicht. Kann die Arbeitnehmervertretung durch
 Ersatzpersonen nicht mehr ergänzt werden, so ist eine Neuwahl
 durchzuführen.
 
-
 #### § 40 Aufgaben
 
 Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von
@@ -5295,7 +5144,6 @@ Arbeitgeber beratend oder begutachtend mitzuwirken, wenn die Satzung
 es bestimmt oder der Arbeitgeber oder die Kasse es fordern. Sie sollen
 außerdem die von ihnen vertretenen Arbeitnehmer und deren
 Hinterbliebene in Pensionskassenangelegenheiten beraten.
-
 
 #### § 41 Geschäftsordnung
 
@@ -5321,10 +5169,7 @@ treten die Ersatzpersonen in der Reihenfolge der bei der Wahl
 erhaltenen Stimmen, bei Stimmengleichheit nach der Entscheidung durch
 das Los, ein.
 
-
 ### 2. - Die Hauptversammlung
-
-
 
 #### § 42 Zusammensetzung und Wahl
 
@@ -5351,7 +5196,6 @@ Arbeitnehmervertreter spätestens zwei Wochen vor der Hauptversammlung
 dem Vorstand anzuzeigen und die etwa erforderlichen Vollmachten
 einzureichen. Nicht rechtzeitig gemeldete Vertreter können von der
 Hauptversammlung ausgeschlossen werden.
-
 
 #### § 43 Aufgaben
 
@@ -5393,7 +5237,6 @@ machen.
 (4) Satzungsänderungen bedürfen zu ihrer Wirksamkeit der Genehmigung
 der Aufsichtsbehörde.
 
-
 #### § 44 Geschäftsordnung
 
 (1) Der Vorstand beruft die Hauptversammlung mittels besonderen
@@ -5415,7 +5258,6 @@ Hauptversammlung an den Vorstand gerichtet werden. Die
 Hauptversammlung kann aus wichtigem Grund weitere Anträge zur
 Verhandlung zulassen.
 
-
 #### § 45 Leitung
 
 (1) Der Vorsitzende des Kuratoriums oder dessen Stellvertreter oder
@@ -5424,7 +5266,6 @@ ein anderes Mitglied des Kuratoriums leitet die Hauptversammlung.
 (2) Über die Versammlung ist eine Niederschrift anzufertigen, die von
 dem Leiter der Hauptversammlung und einem Kuratoriumsmitglied zu
 unterzeichnen ist.
-
 
 #### § 46 Stimmrecht
 
@@ -5461,10 +5302,7 @@ Satzungsänderungen können nur bei einer Mehrheit von 2/3 der
 abgegebenen Stimmen, die Auflösung der Kasse nur mit einer Mehrheit
 von 3/4 aller vorhandenen Stimmen beschlossen werden.
 
-
 ### 3. - Das Kuratorium
-
-
 
 #### § 47 Zusammensetzung und Wahl
 
@@ -5509,7 +5347,6 @@ ein Stellvertreter gewählt. Die Wahl erfolgt mit Stimmenmehrheit.
 (8) Scheidet während der Wahlzeit der Vorsitzende oder sein
 Stellvertreter aus, hat das Kuratorium unverzüglich gemäß Absatz 7 den
 Nachfolger zu wählen.
-
 
 #### § 48 Aufgaben
 
@@ -5576,7 +5413,6 @@ der Aufsichtsbehörde.
 beteiligten Arbeitgeber und Arbeitnehmervertretungen bekannt zu
 machen.
 
-
 #### § 49 Geschäftsordnung
 
 (1) Die Sitzungen des Kuratoriums werden einberufen, wenn dieses vom
@@ -5607,10 +5443,7 @@ soweit das Kuratorium nicht etwas anderes beschließt.
 
 (5) Über jede Sitzung ist eine Niederschrift anzufertigen.
 
-
 ### 4. - Der Vorstand
-
-
 
 #### § 50 Zusammensetzung und Wahl
 
@@ -5634,7 +5467,6 @@ Abs. 1 des Aktiengesetzes ist sinngemäß anzuwenden.
 Wahlzeit aus dem Vorstand aus, hat das Kuratorium unverzüglich gemäß
 Absatz 2 den Nachfolger zu wählen.
 
-
 #### § 51 Aufgaben
 
 (1) Der Vorstand führt die Verwaltung der Kasse nach den Vorschriften
@@ -5649,7 +5481,6 @@ Kasse Vertretungsvollmacht in der Weise erteilen, dass sie
 gemeinschaftlich mit einem Vorstandsmitglied verpflichtende
 Erklärungen für die Kasse abgeben können.
 
-
 #### § 52 Auskunfts- und Prüfungsrecht
 
 Der Vorstand ist berechtigt, von den Arbeitgebern alle für seine
@@ -5659,15 +5490,11 @@ Verpflichtungen an Ort und Stelle nachzuprüfen und zu diesem Zweck
 auch Einsicht in alle in Betracht kommenden Unterlagen zu nehmen. Er
 kann mit der Nachprüfung auch Angestellte der Kasse beauftragen.
 
-
 ### 5. - Gemeinsame Bestimmungen
-
-
 
 #### § 53 Wahlordnung
 
 Die Einzelheiten der Wahl zu den Kassenorganen regelt das Kuratorium.
-
 
 #### § 54 Aufwandsentschädigungen
 
@@ -5684,10 +5511,7 @@ Arbeitnehmer zu der Hauptversammlung sind Tagegelder und, soweit sie
 nicht freie Fahrt haben, Reisekosten von ihren Arbeitgebern nach den
 bei ihnen geltenden Bestimmungen zu gewähren.
 
-
 ## IX. - Verwaltungsvorschriften
-
-
 
 ### § 55 Rechnungsführung
 
@@ -5697,7 +5521,6 @@ bei ihnen geltenden Bestimmungen zu gewähren.
 (2) Die Kasse kann Versicherungsbestände, die sie gemäß § 3 Abs. 2
 übernimmt, in besonderen Abteilungen zusammenfassen; in diesem Fall
 sind die Einnahmen und Ausgaben der Abteilung gesondert auszuweisen.
-
 
 ### § 55a Rücklage
 
@@ -5713,10 +5536,6 @@ a)  zum 31. Dezember 2004 auf 2 v. H. der Deckungsrückstellung,
 b)  ab dem 31. Dezember 2007 auf mindestens 4,5 v. H. der
     Deckungsrückstellung.
 
-
-
-
-
 ### § 56 Vermögensanlage
 
 (1) Das nicht zur Bestreitung der laufenden Ausgaben benötigte
@@ -5728,7 +5547,6 @@ anzulegen.
 (2) Im Falle der Übernahme des Vermögens einer anderen Pensionskasse
 oder Versorgungseinrichtung kann die Kasse dieses Vermögen als
 Sondervermögen des übernommenen Versicherungsbestandes abwickeln.
-
 
 ### § 57 Versicherungstechnische Prüfung
 
@@ -5768,7 +5586,6 @@ Wirkung für bestehende Versicherungsverhältnisse, die Herabsetzung der
 Leistungen auch für laufende Renten. Die Erhebung von Nachschüssen ist
 ausgeschlossen.
 
-
 ### § 58 Jahresabschluss
 
 (1) Das Rechnungsjahr der Kasse ist das Kalenderjahr.
@@ -5785,7 +5602,6 @@ Aufsichtsbehörde binnen eines Monats nach Eingang der Prüferanzeige
 keine gegenteilige Äußerung abgegeben, wird der Prüfungsauftrag
 erteilt.
 
-
 ### § 59 Leistungsverfahren
 
 (1) Die Kasse ist berechtigt, vor der Entscheidung über
@@ -5797,7 +5613,6 @@ Gehaltszuschuss darf erst nach Ablauf eines Jahres seit der Ablehnung
 oder Zurückziehung wiederholt werden, falls nicht inzwischen
 außergewöhnliche Umstände eingetreten sind, welche die dauernde
 Dienst- oder Arbeitsunfähigkeit des Arbeitnehmers erweisen.
-
 
 ### § 60 Beitragsverfahren
 
@@ -5816,12 +5631,10 @@ gekürzt werden.
 spätestens zum 10. Tage einzuzahlen. Bei verspäteter Zahlung sind
 Verzugszinsen zu entrichten.
 
-
 ### § 61 Erfüllungsort und Gerichtsstand
 
 Erfüllungsort und Gerichtsstand für alle Beitrags- und
 Erstattungsforderungen sowie für alle Kassenleistungen ist Köln.
-
 
 ### § 62 Auszahlung der Kassenleistungen
 
@@ -5873,7 +5686,6 @@ der Mangel so offensichtlich war, dass der Empfänger ihn hätte
 erkennen müssen. Von der Rückforderung kann aus Billigkeitsgründen
 ganz oder teilweise abgesehen werden.
 
-
 ### § 63 Abrechnungsverfahren
 
 (1) Das Abrechnungsverfahren regelt der Vorstand der Kasse. Die
@@ -5883,7 +5695,6 @@ Verzugszinsen von 6 v. H. zu entrichten.
 (2) Auf die Abrechnung sind auf Antrag des Abrechnungsgläubigers von
 dem Abrechnungsschuldner monatliche Vorschüsse in ungefährer Höhe des
 Abrechnungssaldos zu zahlen.
-
 
 ### § 64 Berufung oder Klage
 
@@ -5900,7 +5711,6 @@ ein und wird binnen dieser Frist der Anspruch auf die Leistung auch
 nicht gerichtlich geltend gemacht, so ist die Entscheidung
 rechtskräftig.
 
-
 ### § 65 Berufungsentscheidung, Klagefrist
 
 (1) Entscheidungen des Kuratoriums sind schriftlich auszufertigen und
@@ -5916,7 +5726,6 @@ Bescheides zulässig. Zur Vermeidung von Rechtsstreitigkeiten kann das
 Kuratorium in geeigneten Fällen die Ausschlussfrist ausnahmsweise
 verlängern. Wird binnen dieser Frist keine Klage erhoben, so ist die
 Entscheidung rechtskräftig.
-
 
 ### § 66 Rechtskraftwirkung
 
@@ -5935,10 +5744,7 @@ Bescheide zu widerrufen, wenn diese der Rechtslage nicht entsprechen.
 Bescheide nur noch möglich, soweit es sich um Rechen- oder
 Schreibfehler handelt.
 
-
 ## X. - Schlussbestimmungen
-
-
 
 ### § 67 Die Auflösung der Kasse
 
@@ -5967,12 +5773,10 @@ Vermögen, so ist dieses an die im Zeitpunkt der Auflösung vorhandenen
 aktiven Arbeitnehmer und Rentner im Verhältnis der in den einzelnen
 Versicherungsverhältnissen entrichteten Beiträge aufzuteilen.
 
-
 ### § 68 Inkrafttreten
 
 Diese Fassung der Satzung tritt mit Wirkung vom 1. Januar 2006 in
 Kraft.
-
 
 ## XI. - Anhang
 
@@ -7063,7 +6867,6 @@ die Verwaltung zulassen, wenn diese trotz der Stilllegung des
 Betriebes fortbesteht und die Erfüllung der Erstattungspflicht
 gesichert ist.
 
-
 ## XII. - Anlage zu § 57 der Satzung
 
 **1. Beschluss der außerordentlichen Hauptversammlung vom 28. März
@@ -7264,10 +7067,6 @@ f)  die am 31. Dezember 2001 laufenden Renten und bestehenden
     Anwartschaften der Abteilung H 2 werden zum 1. Januar 2003 um 5,75 v.
     H. erhöht.
 
-
-
-
-
 ## XIII. - Anlage zu § 20b und zu § 29g der Satzung
 
 **Richtlinien der Pensionskasse Deutscher Eisenbahnen und
@@ -7442,10 +7241,6 @@ entsprechend anzuwenden.
 
 
 *    *   - VA 53-2248-2/02 -
-
-
-
-
 
 ## XIV. - Anlage zu § 33 Abs. 1 der Satzung
 
@@ -7676,7 +7471,6 @@ Durch Bescheid vom 6. Januar 1971 (V A/7 – Vers 2900 – 79/70 II) hat
 der Herr Bundesminister der Finanzen die vorstehenden von dem
 Kuratorium beschlossenen Versicherungsbedingungen genehmigt.
 
-
 ## XV. - Anlage zu § 33 Abs. 2 der Satzung
 
 
@@ -7892,7 +7686,6 @@ gültigen Fassung gezahlt.
 
 (3) Beitragszeiten zur Ruhegeldkasse sind auf die Wartezeit nach der
 Satzung der Pensionskasse anzurechnen.
-
 
 ## XVI. - Weitergeltende Bestimmungen der bis zum 31. Dezember 2005 gültigen Satzungsfassung
 

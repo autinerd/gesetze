@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 11.7.2011 I 1344
 
-
 ## § 1 Zweck
 
 (1) Die subventionierte Förderung der Steinkohle in Deutschland wird
@@ -49,7 +48,6 @@ d)  des sozialverträglichen Anpassungsprozesses für ältere Arbeitnehmer
 (3) Ansprüche auf Zuschusszahlungen werden durch dieses Gesetz nicht
 begründet.
 
-
 ## § 2 Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
@@ -64,10 +62,6 @@ Im Sinne dieses Gesetzes ist
 
 2.  Drittlandskohle die außerhalb des Bereichs der Europäischen Union
     gewonnene Steinkohle.
-
-
-
-
 
 ## § 3 Finanzplafonds
 
@@ -123,7 +117,6 @@ zweckentsprechend verwendet werden.
 (5) Näheres bestimmt das Bundesministerium für Wirtschaft und
 Technologie durch Richtlinien.
 
-
 ## § 4 Verpflichtungen der Bergbauunternehmen nach Beendigung des subventionierten Steinkohlenbergbaus
 
 (1) Für die ab dem Zeitpunkt der Beendigung des subventionierten
@@ -152,7 +145,6 @@ aus Mitteln des Bundeshaushalts Beträge in Höhe von einem Drittel
 dieser Verpflichtungen geleistet werden, wenn das Vermögen der RAG-
 Stiftung zur Erfüllung der Verpflichtungen nicht ausreicht.
 
-
 ## § 5 Anpassungsgeld
 
 (1) Zur sozialverträglichen Beendigung des subventionierten
@@ -173,7 +165,6 @@ Anpassungsgeldleistungen nicht überschreiten.
 (2) Das Bundesamt entscheidet über die Gewährung eines Zuschusses nach
 Absatz 1 im Rahmen der dafür zur Verfügung stehenden haushaltsmäßigen
 Ermächtigungen.
-
 
 ## § 6 Melde-, Aufbewahrungs- und Auskunftspflichten
 
@@ -220,7 +211,6 @@ Ordnungswidrigkeiten aussetzen würde.
 entsprechende Unterlagen vorzulegen, kann das Bundesamt die
 erforderliche Festsetzung im Wege der Schätzung treffen.
 
-
 ## § 7 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -250,7 +240,6 @@ zehntausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist das Bundesamt.
-
 
 ## § 8 Inkrafttreten
 

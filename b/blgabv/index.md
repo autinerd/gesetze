@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 370 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 1, des § 7 Abs. 2 sowie der §§ 79 und 80 des
@@ -26,13 +25,11 @@ Bundesleistungsgesetzes in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 54-1, veröffentlichten bereinigten Fassung verordnet
 die Bundesregierung:
 
-
 ## § 1 Allgemeine Anforderungsbehörden
 
 Anforderungsbehörden gemäß § 5 Abs. 1 und § 79 Satz 1 des
 Bundesleistungsgesetzes sind, soweit in § 2 nichts anderes bestimmt
 ist, die Behörden der allgemeinen Verwaltung auf der Kreisstufe.
-
 
 ## § 2 Besondere Anforderungsbehörden
 
@@ -237,7 +234,6 @@ der in § 2 Abs. 2 des Bundesleistungsgesetzes bezeichneten technischen
 Anlagen und Einrichtungen der Rundfunkanstalten ist das Bundesamt für
 Post und Telekommunikation:
 
-
 ## § 3 Örtliche Zuständigkeit
 
 (1) Örtlich zuständig ist die Anforderungsbehörde, in deren Bezirk
@@ -259,7 +255,6 @@ Anhängern, die nicht im Geltungsbereich dieser Verordnung zugelassen
 sind, ist auch die Anforderungsbehörde zuständig, in deren Bezirk sich
 das Fahrzeug im Zeitpunkt der Anforderung befindet.
 
-
 ## § 4 Örtliche Zuständigkeit bei Schiffen
 
 (1) Betrifft die Anforderung Schiffe, so ist die Anforderungsbehörde
@@ -273,7 +268,6 @@ befindet. § 3 Abs. 2 Satz 2 gilt sinngemäß.
 Verordnung umfaßt die Bundeswasserstraßen ihres Verwaltungsbereichs
 und die mit diesen zusammenhängenden Gewässer.
 
-
 ## § 5 Ersatzzuständigkeit
 
 Solange Anforderungsbehörden aus tatsächlichen Gründen nicht in der
@@ -284,7 +278,6 @@ Satz 1 genannten Voraussetzungen von den unmittelbar nachgeordneten
 Behörden desselben Verwaltungszweiges wahrgenommen werden, wenn dies
 zur Abwendung einer drohenden Gefahr notwendig ist und die
 übergeordneten Behörden nicht rechtzeitig handeln können.
-
 
 ## § 6 Bedarfsträger
 
@@ -308,10 +301,6 @@ Bedarfsträger gemäß § 7 Abs. 2 des Bundesleistungsgesetzes sind
     Gas, Wasser oder der Abwasserbeseitigung dienen oder Krankenhäuser
     unterhalten.
 
-
-
-
-
 ## § 7 Bedarfsträger für Manöver oder andere Übungen
 
 Bedarfsträger für Manöver oder andere Übungen von Truppen oder
@@ -326,10 +315,6 @@ Bundesleistungsgesetzes) sind
 
 
 3.  die Gemeinden und Gemeindeverbände.
-
-
-
-
 
 ## § 8 Zuständigkeit in Stadtstaaten
 
@@ -434,14 +419,12 @@ Bundesleistungsgesetzes) sind
 
 zuständige Fachbehörde.
 
-
 ## § 9 Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

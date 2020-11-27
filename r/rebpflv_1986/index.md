@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 25.10.2012 I 2270
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 3 Nr. 1, des § 5 Abs. 1 Nr. 1, 5 und 6, des § 9
@@ -26,15 +25,11 @@ Abs. 1, des § 10 Abs. 3, des § 22 Abs. 1 Nr. 1, 4 und 5 und Abs. 2 und
 der §§ 25 und 61 des Saatgutverkehrsgesetzes vom 20. August 1985
 (BGBl. I S. 1633) wird mit Zustimmung des Bundesrates verordnet:
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für Pflanzgut von Rebe.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -144,16 +139,7 @@ Im Sinne dieser Verordnung sind
     b)  bei Wurzelreben und Pfropfreben die vom Erzeuger verwendete Nummer der
         Partie (Seriennummer).
 
-
-
-
-
-
-
-
 ## Abschnitt 2 - Anerkennung von Pflanzgut
-
-
 
 ### § 3 Anerkennungsstelle
 
@@ -173,7 +159,6 @@ das Pflanzgut aufbereitet wird.
 (3) Der Antrag auf Anerkennung von Pflanzgut nach § 10 Abs. 1 des
 Saatgutverkehrsgesetzes ist bei der Anerkennungsstelle zu stellen, die
 für den Betriebssitz des Antragstellers zuständig ist.
-
 
 ### § 4 Antrag
 
@@ -248,7 +233,6 @@ vorgenommenen Prüfung des Rebenbestandes und ein Nachweis der
 Genehmigung der Pflanzguteinfuhr nach § 18 Abs. 2 Nr. 4 des
 Saatgutverkehrsgesetzes beizufügen.
 
-
 ### § 5 Anforderungen an die Vermehrungsfläche
 
 (1) Pflanzgut wird nur anerkannt, wenn der Kulturzustand der
@@ -258,13 +242,11 @@ erkennen lässt.
 (2) Die Vermehrungsflächen sind zu kennzeichnen und von anderen
 Rebenbeständen abzugrenzen.
 
-
 ### § 6 Anforderungen an den Rebenbestand und an die Beschaffenheit des Pflanzgutes
 
 Die Anforderungen an den Rebenbestand ergeben sich aus Anlage 1. Die
 Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich aus
 Anlage 2.
-
 
 ### § 7 Rebenbestandsprüfung
 
@@ -318,7 +300,6 @@ nur berücksichtigt, wenn er deutlich abgegrenzt worden ist.
 
 (5) (weggefallen)
 
-
 ### § 8 Mängel des Rebenbestandes
 
 Soweit Mängel des Rebenbestandes behoben werden können, wird auf einen
@@ -331,14 +312,12 @@ unterzogen, muss für das Bestehen der Nachbesichtigung unter Anwendung
 eines geeigneten Testverfahrens festgestellt werden, dass diese
 Virosen nicht mehr nachweisbar sind.
 
-
 ### § 9 Mitteilung des Ergebnisses der Rebenbestandsprüfung
 
 Das Ergebnis der Rebenbestandsprüfung wird dem Antragsteller und dem
 Vermehrer schriftlich mitgeteilt; im Falle mehrfacher
 Bestandsbesichtigung oder mehrfacher Nachbesichtigung jedoch erst nach
 der letzten Besichtigung oder Nachbesichtigung.
-
 
 ### § 10 Wiederholungsbesichtigung
 
@@ -353,7 +332,6 @@ Verhältnissen entspricht.
 vorgenommen werden. In der Zeit zwischen der letzten Besichtigung und
 der Wiederholungsbesichtigung darf der Rebenbestand nicht verändert
 werden. § 9 gilt entsprechend.
-
 
 ### § 11 Beschaffenheitsprüfung
 
@@ -393,7 +371,6 @@ Maßgabe der Anlage 3 enthalten.
 gestattet die Anerkennungsstelle auf Antrag eine weitere
 Beschaffenheitsprüfung, wenn durch Darlegung von Umständen glaubhaft
 gemacht wird, daß der festgestellte Mangel beseitigt ist.
-
 
 ### § 12 Bescheid
 
@@ -461,7 +438,6 @@ Antrag als Zertifiziertes Pflanzgut anerkannt, wenn es aus anerkanntem
 Vorstufenpflanzgut erwachsen ist und die Anforderungen für
 Zertifiziertes Pflanzgut erfüllt.
 
-
 ### § 13 Nachprüfung
 
 (1) Die Anerkennungsstelle prüft, soweit sie dies für erforderlich
@@ -487,13 +463,11 @@ der Europäischen Gemeinschaften verpflichtet ist,
 (3) Die Anerkennungsstelle leitet die erforderlichen Proben in den
 Fällen des Absatzes 2 dem Bundessortenamt zu.
 
-
 ### § 14 Verfahren für die Nachprüfung durch Anbau
 
 Die Nachprüfung durch Anbau soll in der der Probenahme folgenden
 Vegetationsperiode durchgeführt werden. Die Proben für die Nachprüfung
 durch Anbau sind zusammen mit Vergleichsproben anzubauen.
-
 
 ### § 15 Rücknahme der Anerkennung
 
@@ -508,10 +482,7 @@ Angabe der Pflanzgutart (§ 2 Nr. 1), der Sortenbezeichnung und der
 Bezeichnung des Klones sowie der Anerkennungsnummer oder
 Betriebsnummer des Erzeugers von der Rücknahme zu unterrichten.
 
-
 ## Abschnitt 3 - Verpackung, Kennzeichnung und Verschließung
-
-
 
 ### § 16 Verpackung
 
@@ -520,7 +491,6 @@ Wurzelreben und Pfropfreben zu gewerblichen Zwecken in den Verkehr
 bringt oder zu gewerblichen Zwecken oder sonst zu Erwerbszwecken
 einführt, hat dafür zu sorgen, dass sie in Packungen oder Bündeln
 entsprechend den Anforderungen der Anlage 3 verpackt sind.
-
 
 ### § 17 Etikett
 
@@ -534,7 +504,6 @@ jeweiligen Angaben nach Anlage 4 enthalten; sie können auch zusätzlich
 in anderen Sprachen gemacht werden.
 
 (3) (weggefallen)
-
 
 ### § 18 Angaben in besonderen Fällen
 
@@ -560,7 +529,6 @@ einem Zusatzetikett zu versehen, das die Angaben des Originaletikettes
 in deutscher Sprache enthält. Die Sätze 1 und 2 gelten nicht, wenn am
 ersten Bestimmungsort im Inland das Pflanzgut veredelt, bewurzelt oder
 in kleinen Mengen an Letztverbraucher abgegeben werden soll.
-
 
 ### § 19 Schließung der Packungen und Bündel
 
@@ -592,14 +560,12 @@ Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich
 aus den Buchstaben DE, einer Zahl und dem Kennzeichen der
 Anerkennungsstelle zusammen.
 
-
 ### § 19a Aufbewahrungspflicht
 
 Der Erwerber von Rebenpflanzgut hat, soweit er der Letztverbraucher
 ist, je Pflanzgutpartie ein amtliches Etikett ein Jahr lang nach dem
 Empfang der Partie aufzubewahren. Satz 1 gilt nicht in den Fällen der
 §§ 20 und 21.
-
 
 ### § 20 Topfreben und Kartonagereben
 
@@ -620,7 +586,6 @@ die Vorschriften der §§ 17 und 18 über die Kennzeichnung und des § 19
 Kartonagereben nach Satz 1 in den Verkehr bringt, hat das Pflanzgut in
 nach Sorten oder Klonen sowie nach Stückzahlen je Packung getrennten
 und entsprechend bezeichneten Partien aufzubewahren.
-
 
 ### § 21 Abgabe in kleinen Mengen
 
@@ -644,10 +609,6 @@ auf Verlangen bei der Übergabe schriftlich angegeben werden:
 
 
 5.  die Anerkennungsnummer oder die Betriebsnummer des Erzeugers.
-
-
-
-
 
 ### § 22 Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
 
@@ -702,10 +663,7 @@ Satz 1 gilt nicht für Topfreben oder Kartonagereben, wenn die in Satz
 2 vorgeschriebenen Angaben schriftlich gegenüber dem Erwerber bei der
 Übergabe gemacht werden.
 
-
 ## Abschnitt 4 - Schlußvorschriften
-
-
 
 ### § 23 Übergangsvorschriften
 
@@ -741,16 +699,13 @@ von Rebe bis zum 31. Mai 2010 jeweils mit einem Etikett versehen sein,
 das die Angaben nach Anlage 4 in ihrer bis zum 13. Juli 2006 geltenden
 Fassung enthält.
 
-
 ### § 24 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ### Anlage 1 (zu § 4 Abs. 3, § 6 Satz 1) Anforderungen an den Rebenbestand
 
@@ -889,10 +844,6 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
     Das Pflanzgut muss deutlich getrennt nach den jeweiligen Kombinationen
     vorgestellt werden.
-
-
-
-
 
 ### Anlage 2 (zu § 6 Satz 2) Anforderungen an die Beschaffenheit des Pflanzgutes
 
@@ -1034,13 +985,6 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
         dieses nicht beschädigt wird, darf jedoch nicht mehr als 1 cm darunter
         liegen.
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 11 Abs. 1, § 16, § 21 Abs. 1) Verpackung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1442)
@@ -1130,10 +1074,6 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
     *   Topfreben und Kartonagereben
         Die in der Tabelle nach Nummer 1 aufgeführten Stückzahlen und
         Höchstmengen finden keine Anwendung.
-
-
-
-
 
 ### Anlage 4 (zu § 17 Abs. 2, § 19 Abs. 4) Angaben auf dem Etikett
 

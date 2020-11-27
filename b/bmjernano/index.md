@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 2625
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -44,17 +42,14 @@ jeweils für ihren Geschäftsbereich,
 dem Präsidenten des Bundesverwaltungsgerichts auch für das
 Bundesdisziplinargericht.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 unter Abschnitt I bezeichneten Beamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

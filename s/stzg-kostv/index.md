@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3115
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 3 des Stammzellgesetzes vom 28. Juni 2002
@@ -27,12 +25,10 @@ dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 Soziale Sicherung im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung:
 
-
 ## § 1 Anwendungsbereich
 
 Für Amtshandlungen nach dem Stammzellgesetz erhebt das Robert Koch-
 Institut Gebühren nach dieser Verordnung.
-
 
 ## § 2 Genehmigung
 
@@ -47,7 +43,6 @@ rechnen ist.
 
 (3) Erfordert die Genehmigung im Einzelfall einen außergewöhnlich
 niedrigen Aufwand, kann die Gebühr bis auf 100 Euro ermäßigt werden.
-
 
 ## § 3 Gebühren in besonderen Fällen
 
@@ -89,7 +84,6 @@ gegen die Kostenentscheidung, beträgt die Gebühr mindestens 30 Euro,
 höchstens 10 vom Hundert des Betrages, der mit der Kostenentscheidung
 geltend gemacht wurde.
 
-
 ## § 4 Gebührenermäßigung und -befreiung auf Antrag
 
 Die nach § 2 zu erhebenden Gebühren können auf Antrag des
@@ -103,7 +97,6 @@ Antragsteller um eine natürliche Person handelt, die im Hauptberuf an
 einer gemäß § 7 Abs. 2 Satz 3 des Stammzellgesetzes von der
 Gebührenzahlung befreiten Einrichtung tätig ist.
 
-
 ## § 5 Übergangsregelung
 
 Für nach dieser Verordnung kostenpflichtige Amtshandlungen, die vor
@@ -111,7 +104,6 @@ Inkrafttreten dieser Verordnung vorgenommen worden sind, können
 Gebühren nach Maßgabe der vorstehenden Vorschriften erhoben werden,
 soweit bei den Amtshandlungen eine Kostenentscheidung ausdrücklich
 vorbehalten worden ist.
-
 
 ## § 6 Inkrafttreten
 

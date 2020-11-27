@@ -23,7 +23,6 @@ Fundstelle
     Deutschland beschlossene Rahmenlehrplan für die Berufsschule werden
     demnächst als Beilage im Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 und auf Grund des § 6
@@ -38,7 +37,6 @@ Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel 2 Nr. 4
 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind,
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
@@ -56,11 +54,9 @@ wird
 
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan und Ausbildungsberufsbild
 
@@ -154,10 +150,6 @@ Abweichung erfordern.
 
 25. Übergeben von Fahrzeugen, Maschinen, Geräten und Anlagen an Kunden.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in § 3 genannten Fertigkeiten, Kenntnisse und Fähigkeiten
@@ -176,7 +168,6 @@ zu erstellen.
 zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
-
 
 ## § 5 Abschlussprüfung/Gesellenprüfung
 
@@ -197,7 +188,6 @@ Berufsbefähigung erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung/Gesellenprüfung mit 30 Prozent, Teil 2 der
 Abschlussprüfung/Gesellenprüfung mit 70 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung/Gesellenprüfung
 
@@ -278,10 +268,6 @@ Prüfungsbereich Arbeitsauftrag.
 5.  die Prüfungszeit beträgt acht Stunden; innerhalb dieser Zeit soll das
     Fachgespräch in insgesamt höchstens 15 Minuten und die Bearbeitung der
     schriftlichen Aufgaben in zwei Stunden durchgeführt werden.
-
-
-
-
 
 ## § 7 Teil 2 der Abschlussprüfung/Gesellenprüfung
 
@@ -495,10 +481,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt eine Stunde.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -562,7 +544,6 @@ Leistungen
 
 bewertet worden sind.
 
-
 ## § 9 Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der
@@ -575,7 +556,6 @@ des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis
 und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2
 : 1 zu gewichten.
 
-
 ## § 10 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -586,11 +566,9 @@ Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse,
 die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in §
 11 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 3)   Ausbildungsrahmenplan für die Berufsausbildung in der Land- und Baumaschinentechnik
 

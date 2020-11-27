@@ -22,7 +22,6 @@ Stand: Die V tritt gem. § 14 am 31.7.2013 außer Kraft
     in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
     Berufsschule werden als Beilage zum Bundesanzeiger veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl.
@@ -32,13 +31,11 @@ Bundesministerium für Wirtschaft und Technologie nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Ausnahmeregelung
 
 Abweichend von § 4 Abs. 3 des Berufsbildungsgesetzes dürfen
 Jugendliche unter 18 Jahren nach den folgenden Vorschriften
 ausgebildet werden.
-
 
 ## § 2 Zweck der Entwicklung und Erprobung
 
@@ -50,7 +47,6 @@ aufbauenden Ausbildungsberufes Automatenfachmann/Automatenfachfrau auf
 die Möglichkeiten ihrer Vermittlung in den Ausbildungsbetrieben
 erprobt werden.
 
-
 ## § 3 Sachverständigenbeirat
 
 Aus Vertretern der beteiligten Bundesministerien, des Bundesinstituts
@@ -61,13 +57,11 @@ zur Beobachtung der Erprobung zu bilden. Dieser kann auch an der
 Vorbereitung einer Ausbildungsordnung nach § 4 Abs. 1 des
 Berufsbildungsgesetzes beteiligt werden.
 
-
 ## § 4 Dauer der Berufsausbildung
 
 Die Ausbildung dauert im Ausbildungsberuf Fachkraft für
 Automatenservice zwei Jahre und im Ausbildungsberuf
 Automatenfachmann/Automatenfachfrau drei Jahre.
-
 
 ## § 5 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -194,10 +188,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  Unternehmerisches Handeln.
 
-
-
-
-
 ## § 6 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -217,7 +207,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 7 Zwischenprüfung für den Ausbildungsberuf Fachkraft für Automatenservice
 
@@ -246,10 +235,6 @@ folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 8 Abschlussprüfung für den Ausbildungsberuf Fachkraft für Automatenservice
 
@@ -450,7 +435,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
 ## § 9 Abschlussprüfung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinander
@@ -469,7 +453,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
 Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60
 Prozent gewichtet.
-
 
 ## § 10 Teil 1 der Abschlussprüfung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau
 
@@ -600,10 +583,6 @@ Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 11 Teil 2 der Abschlussprüfung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
@@ -674,10 +653,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 12 Gewichtungs- und Bestehensregelung für den Ausbildungsberuf Automatenfachmann/Automatenfachfrau
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -741,7 +716,6 @@ Prüfungsbereich Wirtschafts- und Sozialkunde nach § 11 Abs. 4 die
 Anforderungen nach § 8, so hat der Prüfling den Abschluss Fachkraft
 für Automatenservice erreicht.
 
-
 ## § 13 Fortsetzung der Berufsausbildung
 
 (1) Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft
@@ -756,12 +730,10 @@ erzielten Leistungen mit Ausnahmen der Leistungen im Prüfungsbereich
 Wirtschafts- und Sozialkunde als Teil 1 der Abschlussprüfung nach §
 10\.
 
-
 ## § 14 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft und am 31. Juli 2013
 außer Kraft.
-
 
 ## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Automatenservice
 
@@ -1222,9 +1194,6 @@ Fähigkeiten**
 
     *
     *   4
-
-
-
 
 ## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Automatenfachmann/zur Automatenfachfrau
 

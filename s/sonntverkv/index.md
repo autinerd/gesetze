@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 30.7.1996 I 1186
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1 des Gesetzes über den Ladenschluß vom 28.
@@ -26,7 +25,6 @@ November 1956 (Bundesgesetzbl. I S. 875) in der Fassung des Gesetzes
 vom 17. Juli 1957 (Bundesgesetzbl. I S. 722) wird im Einvernehmen mit
 den Bundesministern für Wirtschaft und für Ernährung, Landwirtschaft
 und Forsten mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1
 
@@ -67,16 +65,13 @@ Oster- und Pfingstfeiertag.
 13              bis 15 des Gesetzes über den Ladenschluß bleiben
 unberührt.
 
-
 ## § 2
 
 -
 
-
 ## § 3
 
 Diese Verordnung tritt am 1. Januar 1958 in Kraft.
-
 
 ## Schlußformel
 

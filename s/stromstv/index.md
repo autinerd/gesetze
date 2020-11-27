@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 20.9.2011 I 1890
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Nr. 1 bis 6 und 11 bis 14 des Stromsteuergesetzes
@@ -29,10 +28,7 @@ Dezember 1999 (BGBl. I S. 2432, 2000 I S. 440) geändert und § 11 Nr.
 Dezember 1999 (BGBl. I S. 2432, 2000 I S. 440) angefügt worden sind,
 verordnet das Bundesministerium der Finanzen:
 
-
 ## - - Allgemeines
-
-
 
 ### § 1 Zuständiges Hauptzollamt
 
@@ -46,10 +42,7 @@ betrieben werden, oder für Personen ohne Wohnsitz im Steuergebiet ist
 das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmalig
 steuerlich in Erscheinung treten.
 
-
 ## - - zu § 2 des Gesetzes
-
-
 
 ### § 1a Versorger
 
@@ -88,7 +81,6 @@ befreit ist. Wer Strom leistet, der nach § 9 Abs. 1 Nr. 4 oder Nr. 5
 des Gesetzes von der Steuer befreit ist, gilt insoweit nicht als
 Versorger.
 
-
 ### § 1b Strom aus erneuerbaren Energieträgern
 
 Soweit eine Stromerzeugung aus Deponiegas, Klärgas oder Biomasse nur
@@ -96,10 +88,7 @@ durch eine Zünd- oder Stützfeuerung mit anderen als den vorgenannten
 Stoffen technisch möglich ist, wird auf das Erfordernis der
 Ausschließlichkeit in § 2 Nummer 7 des Gesetzes verzichtet.
 
-
 ## - - zu § 4 des Gesetzes
-
-
 
 ### § 2 Antrag auf Erlaubnis
 
@@ -151,14 +140,12 @@ für die Steueraufsicht erforderlich erscheinen. Es kann auf Angaben
 und Unterlagen verzichten, soweit die Steuerbelange dadurch nicht
 beeinträchtigt werden.
 
-
 ### § 3 Erteilung der Erlaubnis
 
 Das Hauptzollamt erteilt die Erlaubnis schriftlich und stellt
 Versorgern einen Erlaubnisschein als Nachweis über die erteilte
 Erlaubnis aus. Die Erlaubnis kann mit Nebenbestimmungen nach § 120
 Absatz 2 der Abgabenordnung verbunden werden.
-
 
 ### § 4 Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers
 
@@ -220,16 +207,12 @@ neuen Erlaubnisschein aus.
 (6) Die Absätze 1 bis 4 gelten sinngemäß für Eigenerzeuger und
 Letztverbraucher nach § 4 Abs. 1 des Gesetzes.
 
-
 ## - - zu § 8 des Gesetzes
-
-
 
 ### § 5 Anmeldung der Steuer
 
 Die Steueranmeldung ist nach amtlich vorgeschriebenem Vordruck
 abzugeben.
-
 
 ### § 6 Vorauszahlungen
 
@@ -252,7 +235,6 @@ Steuerbelange dadurch nicht gefährdet sind.
 200 Euro, kann das Hauptzollamt auf die Festsetzung von
 Vorauszahlungen verzichten.
 
-
 ### § 7 Mengenermittlung
 
 Wird die durch Mieter, Pächter oder vergleichbare Vertragsparteien des
@@ -261,10 +243,7 @@ sachgerechte, von einem Dritten nachvollziehbare Schätzung zulässig,
 soweit eine genaue Ermittlung nur mit unvertretbarem Aufwand möglich
 ist.
 
-
 ## - - Zu § 9 des Gesetzes
-
-
 
 ### § 8 Antrag auf Erteilung einer Erlaubnis zur steuerbegünstigten Entnahme
 
@@ -307,7 +286,6 @@ für die Steueraufsicht erforderlich erscheinen. Es kann auf Angaben
 und Unterlagen verzichten, soweit die Steuerbelange dadurch nicht
 beeinträchtigt werden.
 
-
 ### § 9 Erteilung der Erlaubnis
 
 Das zuständige Hauptzollamt erteilt die Erlaubnis nach § 9 Absatz 4
@@ -315,7 +293,6 @@ des Gesetzes schriftlich (förmliche Einzelerlaubnis) und stellt als
 Nachweis der Bezugsberechtigung einen Erlaubnisschein aus. Die
 Erlaubnis kann mit Nebenbestimmungen nach § 120 Absatz 2 der
 Abgabenordnung verbunden werden.
-
 
 ### § 10 Allgemeine Erlaubnis
 
@@ -325,7 +302,6 @@ Gesetzes allgemein erlaubt. Dies gilt nicht für die Entnahme von Strom
 für Wasserfahrzeuge der Haupterwerbsfischerei auf Binnengewässern und
 für Wasserfahrzeuge der Position 8903 der Kombinierten Nomenklatur (§
 1 Absatz 2 des Gesetzes).
-
 
 ### § 11 Pflichten des Erlaubnisinhabers
 
@@ -367,7 +343,6 @@ die Aufzeichnungen dem Hauptzollamt vorlegt.
 
 (8) (weggefallen)
 
-
 ### § 12 Strom zur Stromerzeugung
 
 (1) Zur Stromerzeugung entnommen im Sinne von § 9 Abs. 1 Nr. 2 des
@@ -389,7 +364,6 @@ zur Erzeugung von Strom im technischen Sinne verbraucht wird.
 Nichtvorhandenseins von Mess- oder Zähleinrichtungen nicht ermittelt
 werden kann, ist eine sachgerechte, von einem Dritten nachvollziehbare
 Schätzung zulässig.
-
 
 ### § 12a Steuerentlastung für Strom zur Stromerzeugung
 
@@ -425,7 +399,6 @@ Einzelfällen die Steuerentlastung unverzüglich gewähren.
 dem sich für den Entlastungsabschnitt die Menge und der genaue
 Verwendungszweck des Stroms ergeben müssen.
 
-
 ### § 12b Anlage zur Stromerzeugung und elektrische Nennleistung
 
 (1) Mehrere unmittelbar miteinander verbundene
@@ -446,7 +419,6 @@ zumindest teilweise in das Versorgungsnetz eingespeist werden soll.
 Nennleistungen der einzelnen Stromerzeugungseinheiten als elektrische
 Nennleistung im Sinn des § 9 Absatz 1 Nummer 3 des Gesetzes.
 
-
 ### § 13 Verkehr mit Oberleitungsomnibussen oder Schienenbahnen
 
 Für steuerbegünstigte Zwecke im Sinne von § 9 Absatz 2 des Gesetzes
@@ -455,7 +427,6 @@ Schienenbahnen zum Antrieb der Fahrzeuge sowie zum Betrieb ihrer
 sonstigen elektrischen Anlagen und der im Verkehr mit Schienenbahnen
 für die Zugbildung, Zugvorbereitung sowie für die Bereitstellung und
 Sicherung der Fahrtrassen und Fahrwege verbraucht wird.
-
 
 ### § 13a Differenzversteuerung
 
@@ -494,7 +465,6 @@ ist der Erlaubnisinhaber, dem die Zulassung nach Satz 1 erteilt wurde.
 den die Steuer entstanden ist, eine Steuererklärung abzugeben und
 darin die Steuer selbst zu berechnen (Steueranmeldung). § 8 Absatz 2
 bis 7 und 10 des Gesetzes sowie § 4 Absatz 2 bis 4 gelten sinngemäß.
-
 
 ### § 14 Wasserfahrzeuge und Schifffahrt
 
@@ -573,10 +543,6 @@ sind, mit Ausnahme
     durch Artikel 4 des Gesetzes vom 6. Oktober 2005 (HmbGVBl. I S. 424)
     geändert worden ist, in der jeweils geltenden Fassung genannt werden.
 
-
-
-
-
 ### § 14a Steuerentlastung für die Landstromversorgung
 
 (1) Auf Antrag wird eine Steuerentlastung für nachweislich nach § 3
@@ -617,10 +583,7 @@ Kalenderjahr. Das Hauptzollamt kann auf Antrag einen Zeitraum von
 einem Kalendermonat als Entlastungsabschnitt zulassen oder in
 Einzelfällen die Steuerentlastung unverzüglich gewähren.
 
-
 ## - - Zu § 2 Nummer 3 bis 6 und den §§ 9a bis 10 des Gesetzes
-
-
 
 ### § 15 Zuordnung von Unternehmen
 
@@ -736,17 +699,11 @@ andere Rechtsvorschriften dem Produzierenden Gewerbe oder der Land-
 und Forstwirtschaft nach § 2 Nummer 3 oder Nummer 5 des Gesetzes
 zuzuordnen ist.
 
-
 ### § 16 (weggefallen)
-
-
 
 ### § 17 (weggefallen)
 
-
 ## - - Zu § 9a des Gesetzes
-
-
 
 ### § 17a Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
 
@@ -804,10 +761,7 @@ Verwendungszweck des Stroms ergeben müssen.
 gelten nicht als Elektrolyse oder chemisches Reduktionsverfahren im
 Sinn des § 9a Absatz 1 Nummer 1 oder Nummer 4 des Gesetzes.
 
-
 ## - - Zu § 9b des Gesetzes
-
-
 
 ### § 17b Steuerentlastung für Unternehmen
 
@@ -891,7 +845,6 @@ dem sich für den jeweiligen Entlastungsabschnitt ergeben müssen:
 Druckluft, ausgenommen Druckluft, die in Druckflaschen oder anderen
 Behältern abgegeben wird.
 
-
 ### § 17c Verwendung von Nutzenergie durch andere Unternehmen
 
 (1) Soweit eine Steuerentlastung für die Erzeugung von Nutzenergie,
@@ -962,13 +915,7 @@ anderes Unternehmen verwendet, wenn
 3.  der Empfänger der unter Verwendung der Nutzenergie erbrachten
     Leistungen der Antragsteller ist.
 
-
-
-
-
 ## - - zu § 10 des Gesetzes
-
-
 
 ### § 18 Erlass, Erstattung oder Vergütung der Steuer in Sonderfällen
 
@@ -1014,10 +961,7 @@ vergütete Steuer zurück.
 
 (4) § 17b Absatz 3 bis 6 und § 17c gelten entsprechend.
 
-
 ## - - Zu § 381 Absatz 1 der Abgabenordnung
-
-
 
 ### § 19 Ordnungswidrigkeiten
 

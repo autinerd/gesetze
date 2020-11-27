@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 935
 
-
 ## Eingangsformel
 
 Auf Grund des § 80 Satz 1 Nummer 3a in Verbindung mit Satz 3 und 4 und
@@ -24,7 +23,6 @@ in Verbindung mit § 83 des Arzneimittelgesetzes, von denen § 83
 zuletzt durch Artikel 1 Nummer 70 des Gesetzes vom 17. Juli 2009
 (BGBl. I S. 1990) geändert worden ist, verordnet das Bundesministerium
 für Gesundheit:
-
 
 ## § 1 Anwendungsbereich
 
@@ -50,7 +48,6 @@ Einsatz eines nicht genehmigten oder nicht zugelassenen Arzneimittels
 bei nur einer Patientin oder einem Patienten unter der unmittelbaren
 Verantwortung einer Ärztin oder eines Arztes.
 
-
 ## § 2 Begriffsbestimmungen
 
 (1) Ein Härtefallprogramm ist ein „compassionate-use“-Programm nach
@@ -70,7 +67,6 @@ leiden, welche zu einer schweren Behinderung führen würde oder
 lebensbedrohend ist, nicht mit einem Arzneimittel zufriedenstellend
 behandelt werden kann, das zum Inverkehrbringen im Geltungsbereich des
 Arzneimittelgesetzes genehmigt oder zugelassen ist.
-
 
 ## § 3 Anzeige des Härtefallprogramms
 
@@ -214,7 +210,6 @@ ausgenommen sind die Unterlagen nach Absatz 2 Nummer 14.
 (4) Die zuständige Bundesoberbehörde veröffentlicht Hinweise zur
 Einreichung der Angaben und Unterlagen auf ihrer Website.
 
-
 ## § 4 Beginn des Härtefallprogramms, Widerspruch
 
 (1) Die zuständige Bundesoberbehörde bestätigt der verantwortlichen
@@ -267,7 +262,6 @@ mit Arzneimitteln, für die eine Risikobewertung nach Satz 2
 erforderlich ist, erst mit Zugang der hierfür erforderlichen
 Genehmigung begonnen werden.
 
-
 ## § 5 Dauer des Härtefallprogramms, erneute Anzeige
 
 (1) Das Härtefallprogramm endet unbeschadet von § 4 Absatz 3 mit dem
@@ -279,7 +273,6 @@ erforderlichen Genehmigung.
 (2) Eine erneute Anzeige ist zulässig. Dabei kann auf bereits
 vorgelegte Unterlagen Bezug genommen werden, soweit sich keine
 Änderungen hierzu ergeben haben.
-
 
 ## § 6 Mitteilungspflichten der verantwortlichen Person
 
@@ -326,7 +319,6 @@ einer erneuten bestätigten Anzeige nach § 4 vollzogen werden.
 Arzneimittelrisiken der zuständigen Bundesoberbehörde unverzüglich
 mitgeteilt werden. Sie hat die zur Risikoabwehr erforderlichen
 Maßnahmen unverzüglich zu ergreifen.
-
 
 ## § 7 Verantwortungsbereich der verantwortlichen Person
 
@@ -383,10 +375,6 @@ Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
     andere Vorschriften zur Aufbewahrung von medizinischen Unterlagen
     bleiben unberührt.
 
-
-
-
-
 ## § 8 Informationspflichten der zuständigen Bundesoberbehörde
 
 (1) Bei Arzneimitteln, die aus einem gentechnisch veränderten
@@ -406,13 +394,11 @@ innerhalb von 15 Tagen nach Erhalt der Information mitgeteilt wird.
 (4) Die zuständige Bundesoberbehörde stellt der Öffentlichkeit
 Informationen über ihr angezeigte Härtefallprogramme zur Verfügung.
 
-
 ## § 9 Übergangsregelung
 
 Härtefallprogramme, die bei Inkrafttreten der Verordnung durchgeführt
 werden, können unabhängig von den Vorgaben dieser Verordnung
 weitergeführt werden.
-
 
 ## § 10 Inkrafttreten
 

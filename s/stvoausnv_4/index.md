@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1124
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes
@@ -28,7 +26,6 @@ eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974
 vom 26. November 1986 (BGBl. I S. 2089), verordnet der Bundesminister
 für Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
-
 ## § 1
 
 Abweichend von § 53 Abs. 9 Satz 2 der Straßenverkehrs-Ordnung vom 16.
@@ -39,7 +36,6 @@ können Verkehrszeichen und Verkehrseinrichtungen, die vor dem 1. Juli
 Fassung der Straßenverkehrs-Ordnung hergestellt worden sind, bis zum
 1\. Juli 1994 anstelle von Verkehrszeichen und Verkehrseinrichtungen
 mit den neuen Symbolen angeordnet und aufgestellt werden.
-
 
 ## § 2
 

@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1990, SDr 1474
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29.
 Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit den §§ 12, 13 und
 15 des Bundesnaturschutzgesetzes wird verordnet:
-
 
 ## § 1 Festsetzung
 
@@ -33,7 +30,6 @@ zentraler Bedeutung festgesetzt.
 
 (2) Das Gesamtgebiet erhält die Bezeichnung "Biosphärenreservat
 Mittlere Elbe".
-
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
@@ -221,7 +217,6 @@ Ausfertigungen befinden sich bei der Reservatsverwaltung und der
 Kreisverwaltung. Bei den bezeichneten Behörden sind die Karten während
 der Sprechzeiten allgemein zugänglich.
 
-
 ## § 3 Schutzzweck
 
 (1) Das Biosphärenreservat dient der Erhaltung der gebietsspezifischen
@@ -251,7 +246,6 @@ Gebietscharakter ein.
 (6) Die Teile der harmonischen Kulturlandschaft des
 Biosphärenreservates sind für landschaftsökologisch vertretbare Formen
 der Bildung und Erholung zu erschließen und zu sichern.
-
 
 ## § 4 Schutzzonen
 
@@ -602,7 +596,6 @@ Der Grenzverlauf führt, beginnend im Südosten bei Groß Kühnau
 (6) Die Grenzen der Schutzzonen I bis IV sind in den in § 2 Abs. 3
 genannten Karten eingetragen.
 
-
 ## § 5 Gebote
 
 (1) **Schutzzone I:**
@@ -733,10 +726,6 @@ genannten Karten eingetragen.
     Greifvögeln und Koloniebrütern sowie 100 m-Bereiche um Horststandorte
     vom Aussterben bedrohter Großvögel.
 
-
-
-
-
 ## § 6 Verbote
 
 (1) In **Schutzzone III und IV**              ist es nicht gestattet,
@@ -817,10 +806,6 @@ in der **Schutzzone I**              folgende Verbote:
 
     Das Betreten der Schutzzone I außerhalb markierter Wege ist verboten.
 
-
-
-
-
 ## § 7 Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
@@ -872,7 +857,6 @@ unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Reservats (§
 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen
 Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
 ## § 8 Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
@@ -900,7 +884,6 @@ gewährt werden, wenn
 (2) Zuständig für die Erteilung der Befreiung ist die
 Biosphärenreservatsverwaltung.
 
-
 ## § 9 Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
@@ -913,10 +896,6 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
 3.  der Aufstellung von Bauleitplänen.
 
-
-
-
-
 ## § 10 Entschädigung
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch Maßnahmen
@@ -926,29 +905,24 @@ Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese
 muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden,
 angemessen ausgleichen.
 
-
 ## § 11 Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
 Anordnungen für dieses Gebiet voraus.
 
-
 ## § 12 Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ## Anlage
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1474)
-
 
 ## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
 

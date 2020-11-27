@@ -20,15 +20,12 @@ Fundstelle
     Waffen (ABl. L 256 vom 13.9.1991, S. 51), die durch die Richtlinie
     2008/51/EG (ABl. L 179 vom 8.7.2008, S. 5) geändert worden ist.
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Kapitel 1 - Zweck des Nationalen Waffenregisters, Datenbestand
-
 
 ### § 1 Zweck des Nationalen Waffenregisters; Registerbehörde
 
@@ -45,7 +42,6 @@ Erfüllung der dort genannten Aufgaben.
 
 (4) Die Registerbehörde verwendet die ihr nach diesem Gesetz
 übermittelten Daten nur nach Maßgabe dieses Gesetzes.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -110,13 +106,6 @@ Im Sinne dieses Gesetzes sind:
 
     d)  das Bundesamt für Wirtschafts- und Ausfuhrkontrolle im Fall des § 57
         Absatz 1 des Waffengesetzes.
-
-
-
-
-
-
-
 
 ### § 3 Anlass der Speicherung
 
@@ -264,10 +253,6 @@ gespeichert:
 24. Ausstellung einer Ersatzausfertigung für eine verloren gegangene
     waffenrechtliche Erlaubnis.
 
-
-
-
-
 ### § 4 Inhalt des Nationalen Waffenregisters; Ordnungsnummern
 
 (1) Im Nationalen Waffenregister werden gespeichert:
@@ -360,12 +345,9 @@ Absätzen 1 und 3 jeweils die Ordnungsnummern gespeichert, die von der
 Registerbehörde vergeben werden. Diese dürfen keine personenbezogenen
 Angaben enthalten.
 
-
 ## Kapitel 2 - Datenübermittlungen, Verantwortlichkeiten
 
-
 ### Unterkapitel 1 - Datenübermittlung an das Nationale Waffenregister
-
 
 #### § 5 Datenübermittlung durch die Waffenbehörden
 
@@ -373,7 +355,6 @@ Die zuständigen Waffenbehörden übermitteln der Registerbehörde im
 Anschluss an das den Anlass der Speicherung nach § 3 begründende
 Ereignis unverzüglich die nach § 4 zu speichernden oder zu einer
 Änderung oder Löschung einer Eintragung im Register führenden Daten.
-
 
 #### § 6 Datenzuordnung beim Überlassen und Erwerben registrierter Waffen
 
@@ -406,7 +387,6 @@ für den Überlasser zuständigen Waffenbehörde übermittelt.
 (4) Auf den erlaubnisfreien Erwerb und Besitz einer Waffe nach § 12
 Absatz 1 des Waffengesetzes sind die Absätze 1 bis 3 nicht anzuwenden.
 
-
 #### § 7 Datenzuordnung bei Wohnortwechsel des Inhabers einer waffenrechtlichen Erlaubnis
 
 (1) Im Fall des Zuzugs eines Inhabers einer waffenrechtlichen
@@ -428,7 +408,6 @@ Anschrift des Inhabers einer waffenrechtlichen Erlaubnis mit.
 Zuzugsort zuständigen Waffenbehörde einen automatischen
 Datenaktualisierungshinweis und übermittelt ihn auf elektronischem Weg
 der bisher zuständigen Waffenbehörde.
-
 
 #### § 8 Verantwortung für die Datenübermittlung und die Datenrichtigkeit
 
@@ -469,7 +448,6 @@ Unversehrtheit der von ihnen gespeicherten und übermittelten Daten
 gewährleisten. Die Datenübermittlung ist nach dem jeweiligen Stand der
 Technik zu verschlüsseln.
 
-
 #### § 9 Protokollierungspflicht bei der Speicherung
 
 (1) Die Registerbehörde als speichernde Stelle erstellt bei
@@ -501,9 +479,7 @@ mindestens zwölf Monate vorzuhalten und nach 18 Monaten zu löschen.
 Dies gilt nicht, soweit sie für ein bereits eingeleitetes
 Kontrollverfahren benötigt werden.
 
-
 ### Unterkapitel 2 - Datenübermittlung aus dem Nationalen Waffenregister
-
 
 #### § 10 Übermittlung von Daten an Waffenbehörden, Polizeien des Bundes und der Länder, Justiz- und Zollbehörden, Steuerfahndung sowie Nachrichtendienste
 
@@ -570,10 +546,6 @@ Aufgaben erforderlich ist:
     nicht aus allgemein zugänglichen Quellen, nur mit übermäßigem Aufwand
     oder nur durch eine den Betroffenen stärker belastende Maßnahme
     erhoben werden können.
-
-
-
-
 
 #### § 11 Weitere Voraussetzungen für die Datenübermittlung
 
@@ -663,7 +635,6 @@ Unversehrtheit der von ihr übermittelten Daten gewährleistet. Die
 Datenübermittlung ist nach dem jeweiligen Stand der Technik zu
 verschlüsseln.
 
-
 #### § 12 Gruppenauskunft
 
 (1) In einem Übermittlungsersuchen kann um die Übermittlung mehrerer
@@ -696,7 +667,6 @@ entsprechend.
 
 (3) Die ersuchende Stelle hat die übermittelten Daten, die nicht mehr
 zur Aufgabenerfüllung erforderlich sind, zu löschen.
-
 
 #### § 13 Datenabruf im automatisierten Verfahren
 
@@ -743,7 +713,6 @@ automatisierten Verfahren nur Daten abgerufen werden können, wenn die
 abrufende Stelle einen Verwendungszweck angibt, der ihr den Abruf der
 Daten erlaubt.
 
-
 #### § 14 Gruppenauskünfte im automatisierten Verfahren
 
 Gruppenauskünfte nach § 12 sind im automatisierten Verfahren nach § 13
@@ -752,7 +721,6 @@ Gesundheit oder Freiheit einer Person nicht anders abgewendet werden
 kann. Die abrufende Stelle ist für die Zulässigkeit des Abrufs
 verantwortlich. Sie hat auch die Voraussetzungen für den Abruf nach
 Satz 1 zu dokumentieren und mindestens zwölf Monate vorzuhalten.
-
 
 #### § 15 Datenübermittlung für statistische Zwecke
 
@@ -769,7 +737,6 @@ bestimmbaren Person ermöglichen.
 Zuständigkeitsbereich übermittelt werden. Ergänzend hierzu können für
 Vergleichszwecke auf Antrag die korrespondierenden Gesamtzahlen im
 Bundesgebiet übermittelt werden.
-
 
 #### § 16 Protokollierungspflicht bei der Datenübermittlung auf Ersuchen und im automatisierten Abrufverfahren
 
@@ -802,9 +769,7 @@ der Treffer zu protokollieren.
 
 (2) § 9 Absatz 2 ist anzuwenden.
 
-
 ## Kapitel 3 - Zweckbindung, Schutzrechte
-
 
 ### § 17 Zweckbindung bei der Datenverarbeitung und Datennutzung
 
@@ -813,7 +778,6 @@ nichts anderes bestimmt ist, nur für die Zwecke verarbeiten und
 nutzen, zu deren Erfüllung sie ihnen übermittelt wurden. Sie darf die
 übermittelten Daten auch für andere Zwecke verarbeiten und nutzen,
 soweit sie ihr auch für diese Zwecke hätten übermittelt werden dürfen.
-
 
 ### § 18 Löschung von Daten
 
@@ -860,10 +824,6 @@ Daten auf Veranlassung der zuständigen Waffenbehörde gelöscht:
 
 9.  im Fall des § 3 Nummer 18 nach bestandskräftiger oder rechtskräftiger
     Aufhebung des Waffenverbotes.
-
-
-
-
 
 ### § 19 Auskunft an den Betroffenen; Berichtigung von Daten
 
@@ -919,9 +879,7 @@ Registerbehörde unverzüglich einen entsprechenden Hinweis an die
 zuständige Waffenbehörde zu übermitteln. § 8 Absatz 2 gilt
 entsprechend.
 
-
 ## Kapitel 4 - Schlussvorschriften
-
 
 ### § 20 Verordnungsermächtigung
 
@@ -956,13 +914,11 @@ Bekanntmachung, die Fundstelle und die Bezugsquelle der Bekanntmachung
 anzugeben. Die Bekanntmachung ist beim Bundesarchiv niederzulegen; in
 der Rechtsverordnung ist darauf hinzuweisen.
 
-
 ### § 21 Ausschluss abweichenden Landesrechts
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen
 Regelungen des Verwaltungsverfahrens kann nicht durch Landesrecht
 abgewichen werden.
-
 
 ### § 22 Erstmalige Übermittlung des Datenbestandes
 
@@ -990,7 +946,6 @@ ergangenen Rechtsverordnung an, spätestens jedoch bis zum 31. Dezember
 2017\. Sie übermittelt die angepassten Datensätze unverzüglich der
 Registerbehörde.
 
-
 ### § 23 Einführungsbestimmung; Probebetrieb
 
 (1) Die §§ 1 bis 21 sind bis zum 31. Dezember 2012 nur von den
@@ -1006,7 +961,6 @@ im Rahmen ihrer Zuständigkeit bestimmt und im Bundesanzeiger bekannt
 gegeben. Voraussetzung für die Teilnahme am Probebetrieb ist, dass die
 Behörden die hierfür erforderlichen technischen und organisatorischen
 Voraussetzungen geschaffen haben.
-
 
 ### § 24 Inkrafttreten
 

@@ -20,16 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 19.5.2009 I 1090
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Teil I - Beitritt und Zustimmung
-
-
 
 ### Art 1
 
@@ -69,14 +65,9 @@ C.  Übereinkommen über die Überlassung von Liegenschaften an
 (3) Das Protokoll über die NATO-Hauptquartiere und die in Absatz 2
 aufgeführten Vereinbarungen werden nachstehend veröffentlicht.
 
-
 ## Teil II - Ausführungsbestimmungen
 
-
-
 ### Kapitel 1 - Ausführungsbestimmungen zu Art 1 in Verbindung mit Art 10 des Protokolls über die NATO-Hauptquartiere
-
-
 
 #### Art 2
 
@@ -86,10 +77,7 @@ internationalen militärischen Hauptquartiers in der Bundesrepublik
 Deutschland ist das Gericht zuständig, in dessen Bezirk dieses
 Hauptquartier seinen Sitz hat.
 
-
 ### Kapitel 2 - Ausführungsbestimmungen zu Art 2 und 4 des Protokolls über die NATO-Hauptquartiere in Verbindung mit Art VII des NATO-Truppenstatuts
-
-
 
 #### Art 3
 
@@ -108,15 +96,11 @@ ersuchen.
 Vorschriften des Gerichtsverfassungs- und Strafprozeßrechts
 entsprechend.
 
-
 ### Kapitel 3 - Ausführungsbestimmungen zu Art 8 des Protokolls über die NATO-Hauptquartiere, zu den Art 14, 15 und 16 des Ergänzungsabkommens und zu Art 2 des Statusübereinkommens sowie ergänzende Bestimmungen
-
-
 
 #### Art 4 (weggefallen)
 
 -
-
 
 #### Art 5
 
@@ -127,7 +111,6 @@ noch Angehörige deutscher Staatsangehöriger sind, werden bei der Ein-
 und Ausfuhr und dem Bezug von Waren dieselben Vergünstigungen gewährt,
 wie den durch das Statusübereinkommen begünstigten Personen.
 
-
 #### Art 6
 
 Berechtigte Personen im Sinne des Artikels 16 Abs. 2 Buchstabe b des
@@ -135,19 +118,13 @@ Ergänzungsabkommens sind nicht die Angehörigen der in Artikel 3 Abs. 1
 Buchstabe a des Protokolls über die NATO-Hauptquartiere bezeichneten
 Personen deutscher Staatsangehörigkeit.
 
-
 ### Kapitel 4 - Ausführungsbestimmungen zu Art 14 Abs. 2 des Ergänzungsabkommens
-
-
 
 #### Art 7
 
 -
 
-
 ### Kapitel 5 - Ausführungsbestimmungen zu Art 2, 4 und 6 des Protokolls über die NATO-Hauptquartiere in Verbindung mit Art VIII des NATO-Truppenstatuts sowie zu Art 22 des Ergänzungsabkommens
-
-
 
 #### Art 8
 
@@ -177,10 +154,7 @@ Zusatzabkommens zum NATO-Truppenstatut eine Entscheidung des
 Schiedsrichters nach Artikel VIII Abs. 8 des NATO-Truppenstatuts in
 Verbindung mit Artikel 22 Abs. 2 des Ergänzungsabkommens tritt.
 
-
 ## Teil III - Inkrafttreten
-
-
 
 ### Art 9
 

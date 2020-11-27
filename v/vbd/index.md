@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2652
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Behindertengleichstellungsgesetzes vom
 27\. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des
 Innern im Einvernehmen mit dem Bundesministerium für Arbeit und
 Sozialordnung:
-
 
 ## § 1 Anwendungsbereich
 
@@ -39,14 +36,12 @@ wahrnehmbaren Form zugänglich gemacht werden (Berechtigte).
 Behindertengleichstellungsgesetzes gegenüber jeder Behörde der
 Bundesverwaltung geltend machen.
 
-
 ## § 2 Gegenstand der Zugänglichmachung
 
 Der Anspruch nach § 10 Abs. 1 Satz 2 des
 Behindertengleichstellungsgesetzes umfasst Bescheide, öffentlich-
 rechtliche Verträge und Vordrucke (Dokumente), einschließlich der
 Anlagen, die die Dokumente in Bezug nehmen.
-
 
 ## § 3 Formen der Zugänglichmachung
 
@@ -63,13 +58,11 @@ ausreichend berücksichtigen.
 die Standards der Barrierefreie Informationstechnik-Verordnung
 maßgebend.
 
-
 ## § 4 Bekanntgabe
 
 Die Dokumente sollen den Berechtigten, soweit möglich, gleichzeitig
 mit der Bekanntgabe auch in der für sie wahrnehmbaren Form zugänglich
 gemacht werden.
-
 
 ## § 5 Umfang des Anspruchs
 
@@ -97,7 +90,6 @@ auf ihr Recht, dass ihnen Dokumente in einer für sie wahrnehmbaren
 Form zugänglich gemacht werden, und auf ihr Wahlrecht nach Absatz 2
 Satz 1 hinzuweisen.
 
-
 ## § 6 Organisation und Kosten
 
 (1) Die Dokumente können den Berechtigten durch die Behörde selbst,
@@ -114,12 +106,10 @@ Auslagen für besondere Aufwendungen, die dadurch entstehen, dass den
 Berechtigten Dokumente in einer für sie wahrnehmbaren Form zugänglich
 gemacht werden, werden nicht erhoben.
 
-
 ## § 7 Folgenabschätzung
 
 Diese Verordnung wird spätestens nach Ablauf von drei Jahren nach
 ihrem Inkrafttreten auf ihre Wirkung überprüft.
-
 
 ## § 8 Inkrafttreten
 

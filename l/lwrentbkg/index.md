@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 25.6.2009 I 1506
 
-
 ## § 1 Rechtsform, Sitz
 
 (1) Die Landwirtschaftliche Rentenbank, nachstehend Bank genannt, ist
@@ -29,7 +28,6 @@ eine bundesunmittelbare Anstalt des öffentlichen Rechts.
 
 (2) Die Bank hat ihren Sitz in Frankfurt am Main. Sie unterhält keine
 Zweigniederlassungen.
-
 
 ## § 2 Kapital
 
@@ -47,7 +45,6 @@ Schuldverschreibungen. Die Deckungsrücklage darf 5 vom Hundert des
 Nennbetrages der jeweils im Umlauf befindlichen gedeckten
 Schuldverschreibungen nicht überschreiten. Ihr dürfen nicht mehr als
 50 vom Hundert des Jahresüberschusses zugewiesen werden.
-
 
 ## § 3 Geschäftsaufgaben
 
@@ -109,7 +106,6 @@ aufnehmen, ungedeckte und gedeckte Schuldverschreibungen ausgeben,
 Gewährleistungen übernehmen sowie alle sonstigen banküblichen
 Finanzierungsinstrumente einsetzen.
 
-
 ## § 4 Sonstige Geschäfte
 
 (1) Die Bank kann ferner alle Geschäfte und Dienstleistungen
@@ -125,7 +121,6 @@ Sinne des § 1 Abs. 2 des Zahlungsdiensteaufsichtsgesetzes sind der
 Bank nur für eigene Rechnung und nur insoweit gestattet, als sie mit
 der Erfüllung der öffentlichen Förderaufgaben in direktem Zusammenhang
 stehen.
-
 
 ## § 5 Organe
 
@@ -145,7 +140,6 @@ stehen.
 (2) Die Aufgaben und Befugnisse der Organe regelt, soweit sie nicht im
 Gesetz bestimmt sind, die Satzung.
 
-
 ## § 6 Vorstand
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die
@@ -164,7 +158,6 @@ abzugeben, so genügt die Abgabe gegenüber einem Mitglied des
 Vorstandes. Auf die Vertretung der Bank gegenüber ihren Organen sind
 die für Aktiengesellschaften geltenden Vorschriften entsprechend
 anzuwenden.
-
 
 ## § 7 Verwaltungsrat
 
@@ -226,7 +219,6 @@ Beschlussfassung zuzuleiten.
 (6) Der Verwaltungsrat beschließt die Satzung und ihre Änderungen. Sie
 bedürfen der Genehmigung der Aufsichtsbehörde (§ 11 Abs. 1).
 
-
 ## § 8 Anstaltsversammlung
 
 (1) Die Anstaltsversammlung ist die Vertretung der Eigentümer und
@@ -248,7 +240,6 @@ Förderung der Landwirtschaft und des ländlichen Raumes sowie bei
 allgemeinen agrar- und geschäftspolitischen Fragen. Sie beschließt
 über die Gewinnverwendung gemäß § 9 Abs. 2.
 
-
 ## § 9 Gewinnverwendung
 
 (1) Der Bilanzgewinn darf nur für eine das Allgemeininteresse wahrende
@@ -267,14 +258,12 @@ des Bundes bei der Landwirtschaftlichen Rentenbank vom 12. August 2005
 verwaltet wird und solange die Bank von allen Steuern vom Vermögen,
 vom Einkommen und vom Gewerbebetrieb befreit ist.
 
-
 ## § 10 Besondere Pflicht der Organe
 
 Sorgfaltspflicht und Verantwortlichkeit der Mitglieder des Vorstandes
 und des Verwaltungsrates richten sich nach den entsprechenden
 Vorschriften für Vorstands- und Aufsichtsratsmitglieder der
 Aktiengesellschaften.
-
 
 ## § 11 Aufsicht
 
@@ -303,7 +292,6 @@ Raumes oder gegen die Gesetze oder die Satzung verstoßen.
 (4) Im Übrigen ist die Bank in der Verwaltung und Geschäftsführung
 selbständig, desgleichen in der Anstellung des Personals.
 
-
 ## § 12 Dienstsiegel und öffentliche Urkunden
 
 Die Bank ist berechtigt, ein Dienstsiegel zu führen. § 39a des
@@ -311,7 +299,6 @@ Beurkundungsgesetzes ist entsprechend anzuwenden. Ordnungsgemäß
 unterschriebene und mit dem Abdruck des Dienstsiegels versehene
 Erklärungen der Bank haben die Eigenschaft öffentlich beglaubigter
 Urkunden.
-
 
 ## § 13 Gedeckte Schuldverschreibungen
 
@@ -365,12 +352,10 @@ genannte Aufsichtsbehörde tritt.
 
 (5) (weggefallen)
 
-
 ## § 13a Mündelsicherheit
 
 Die Schuldverschreibungen der Bank, die nicht auf ausländische
 Zahlungsmittel lauten, sind zur Anlegung von Mündelgeldern geeignet.
-
 
 ## § 14 Arreste und Zwangsvollstreckungen
 
@@ -378,13 +363,11 @@ Auf Arreste und Zwangsvollstreckungen in Vermögenswerte, die in das
 Deckungsregister nach § 13 Abs. 3 eingetragen sind, ist § 29 des
 Pfandbriefgesetzes entsprechend anzuwenden.
 
-
 ## § 15 Sondervorschrift für Refinanzierungskredite
 
 Kreditinstitute können sich bei der Gewährung von Darlehen aus
 Mitteln, die sie von der Bank erhalten, die Verzinsung rückständiger
 Zinsen im Voraus versprechen lassen.
-
 
 ## § 16 Auflösung
 
@@ -400,7 +383,6 @@ vor. Soweit diese Werte nicht zur Befriedigung der Gläubiger der
 gedeckten Schuldverschreibungen notwendig sind, stehen sie den übrigen
 Gläubigern der Bank zur Verfügung.
 
-
 ## § 17 Übergangsregelungen
 
 Die bisherigen Deckungsregister der Bank bleiben nach Inkrafttreten
@@ -410,16 +392,13 @@ dem Deckungsregister nach § 13 Abs. 3 bestehen. Die Aufgaben des
 Treuhänders nach § 13 Abs. 4 erstrecken sich auch auf diese
 Deckungsregister.
 
-
 ## § 18
 
 (weggefallen)
 
-
 ## § 19
 
 (weggefallen)
-
 
 ## § 20
 

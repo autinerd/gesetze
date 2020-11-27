@@ -15,11 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 580
 
-
-
 ## (XXXX) §§ 1 bis 3, 5 bis 13, 15 bis 44, 45 bis 69 (weggefallen)
-
-
 
 ## § 70 Güterfernverkehr
 
@@ -35,7 +31,6 @@ die nach Inkrafttreten dieser Verordnung Güterfernverkehr aufnehmen.
 Abs. 1 bestimmten Zeitpunkt setzt die rechtzeitige Einholung der
 Genehmigung nach § 9 dieser Verordnung voraus.
 
-
 ## § 71 Speditioneller Abfertigungsdienst, Umzugsverkehr und Güternahverkehr
 
 (1) Unternehmer, die zum Zeitpunkt des Inkrafttretens dieser
@@ -50,15 +45,11 @@ aufnehmen.
 bestimmten Zeitpunkt setzt die rechtzeitige Einholung der Zulassung
 bzw. Erlaubnis nach dieser Verordnung voraus.
 
-
 ## (XXXX) §§ 72 bis 75 (weggefallen)
-
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 885, 1223)
 

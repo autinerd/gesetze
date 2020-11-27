@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 Abs. 1 G v. 19.6.2001 I 1149
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 5 des Gesetzes über die Rechtsverhältnisse der
@@ -27,10 +26,7 @@ Mitglieder der Bundesregierung (Bundesministergesetz) vom 17. Juni
 1953 (Bundesgesetzbl. I S. 407) werden nach gutachtlicher Äußerung des
 Präsidenten des Bundesrechnungshofs folgende Bestimmungen erlassen:
 
-
 ## I. - Amtswohnungen
-
-
 
 ### § 1
 
@@ -68,7 +64,6 @@ seiner Mietwohnung auf Antrag höchstens zwei Räume gemäß Absatz 1 Satz
 3 ausgestattet werden. Die Miete für diese Räume trägt der
 Bundesminister.
 
-
 ### § 2
 
 (1) Ist für einen Bundesminister eine Amtswohnung in einem
@@ -89,7 +84,6 @@ so ist im Mietvertrag eine dreimonatige Kündigung zum Monatsende zu
 vereinbaren. Bei der Entlassung des Bundesministers aus seinem Amt ist
 die Kündigung sofort auszusprechen.
 
-
 ### § 3
 
 (1) Eine Amtswohnung darf nur ungeteilt zugewiesen werden.
@@ -97,7 +91,6 @@ die Kündigung sofort auszusprechen.
 (2) Der Wohnungsinhaber ist nicht berechtigt, die Amtswohnung ganz
 oder teilweise einem anderen zu überlassen oder zu vermieten. Ihre
 Verwendung zu Dienstzwecken wird hierdurch nicht berührt.
-
 
 ### § 4
 
@@ -164,16 +157,12 @@ Amtsverhältnisses nach § 9 des Bundesministergesetzes die
 bundeseigenen Einrichtungsgegenstände bis zum Ablauf des auf die
 Beendigung folgenden Monats an den Bund zurückzugeben.
 
-
 ### § 5
 
 Die Amtswohnungen sind nach den Vorschriften der Anlage zu verwalten
 und zu bewirtschaften.
 
-
 ## II. - Umzugskostenentschädigung
-
-
 
 ### § 6
 
@@ -195,7 +184,6 @@ bis zum Grenzbahnhof oder zum Hafen des Inlandes gewährt.
 (3) Absatz 2 gilt auch für Hinterbliebene im Sinne des § 1 Abs. 2 des
 Bundesumzugskostengesetzes.
 
-
 ### § 7
 
 Kann einem Bundesminister, der nach § 11 Abs. 1 Buchstabe d des
@@ -208,14 +196,9 @@ Umfang aus Bundesmitteln instand zu setzen. Der Vermieter und der
 Wohnungsinhaber müssen jedoch zusammen mindestens ein Viertel der
 erwachsenen notwendigen Instandsetzungskosten selbst tragen.
 
-
 ### (XXXX) §§ 8 und 9 (weggefallen)
 
-
-
 ## III. - Tagegelder und Entschädigung für Reisekosten
-
-
 
 ### § 10
 
@@ -256,16 +239,12 @@ Abgang zu und von den Verkehrsmitteln und für sonstige notwendige
 Nebenkosten. Bei der Benutzung von Flugzeugen werden die erwachsenen
 Auslagen erstattet.
 
-
 ### § 11
 
 Bei amtlicher Tätigkeit im Ausland gelten die für die Bundesbeamten
 der höchsten Reisekostenstufe maßgebenden Bestimmungen entsprechend.
 
-
 ## IV. - Allgemeines
-
-
 
 ### § 12
 
@@ -276,14 +255,12 @@ dieser nicht selbst betroffen ist.
 (2) Ergeben sich bei der Anwendung dieser Bestimmungen Zweifel, so ist
 mit dem Bundesminister des Innern in Verbindung zu treten.
 
-
 ### § 13
 
 (1) Diese Bestimmungen treten mit Wirkung vom 1. April 1953 ab in
 Kraft.
 
 (2)
-
 
 ### Schlußformel
 

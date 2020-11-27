@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2136
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
@@ -25,7 +24,6 @@ Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
 9 Satz 1 des Einführungsgesetzes zur Abgabenordnung, der durch Artikel
 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
 angefügt worden ist, verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Abkommen
 
@@ -36,7 +34,6 @@ und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern
 vom Einkommen und vom Vermögen und einiger anderer Steuern in der
 Fassung der Bekanntmachung vom 4. Juni 2008 (BGBl. 2008 II S. 611,
 612; 2008 II S. 851, 852) in der jeweils geltenden Fassung.
-
 
 ## § 2 Besteuerung des Gehalts bestimmter Ortskräfte konsularischer Vertretungen
 
@@ -60,17 +57,14 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 27-4, veröffentlichten
 bereinigten Fassung; Artikel 19 Absatz 1 Buchstabe b des Abkommens ist
 nicht anzuwenden.
 
-
 ## § 3 Anwendungsregelung
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

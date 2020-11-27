@@ -18,16 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 94 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## Inhaltsverzeichnis
 
@@ -431,17 +427,9 @@ beschlossen:
 
     *   Beginn, Änderung und Ende von Renten
 
-
-
-
-
 ## Art 2 - Übergangsrecht für Renten nach den Vorschriften des Beitrittsgebiets
 
-
-
 ### Erstes Kapitel - Allgemeines
-
-
 
 ### § 1 Allgemeines
 
@@ -470,14 +458,9 @@ Rentenbeginn rentenrechtliche Zeiten haben.
 (3) Die Vorschriften des Ersten und Zehnten Buches Sozialgesetzbuch
 sind entsprechend anzuwenden.
 
-
 ### Zweites Kapitel - Rentenanspruch
 
-
-
 #### Erster Abschnitt - Rentenarten und Voraussetzungen für einen Rentenanspruch
-
-
 
 #### § 2 Rentenarten
 
@@ -531,10 +514,6 @@ Erwerbsfähigkeit oder wegen Todes.
 
 5.  Waisenrente und Zusatzwaisenrente.
 
-
-
-
-
 #### § 3 Voraussetzungen für einen Rentenanspruch
 
 Personen haben Anspruch auf Rente, wenn die für die jeweilige Rente
@@ -542,14 +521,9 @@ erforderliche Mindestversicherungszeit (Wartezeit) erfüllt ist und die
 jeweiligen besonderen versicherungsrechtlichen und persönlichen
 Voraussetzungen vorliegen.
 
-
 #### Zweiter Abschnitt - Anspruchsvoraussetzungen für einzelne Renten
 
-
-
 ##### Erster Unterabschnitt - Renten wegen Alters
-
-
 
 ##### § 4 Altersrente
 
@@ -576,7 +550,6 @@ für Männer bei Vollendung des 65. Lebensjahres.
 
 
 haben.
-
 
 ##### § 5 Bergmannsaltersrente
 
@@ -618,7 +591,6 @@ Bergwerksbetrieben nicht mehr ausüben können.
 Anspruch auf Zusatzaltersrente, wenn sie rentenrechtliche Zeiten zur
 FZR haben.
 
-
 ##### § 6 Bergmannsvollrente
 
 (1) Versicherte haben Anspruch auf Bergmannsvollrente, wenn sie
@@ -641,10 +613,7 @@ Buchstabe b genannten Gründen aufgeben mußten, entsteht der Anspruch
 auf Bergmannsvollrente um die Anzahl der Monate später, die an einer
 15jährigen Untertagetätigkeit fehlen.
 
-
 ##### Zweiter Unterabschnitt - Renten wegen verminderter Erwerbsfähigkeit
-
-
 
 ##### § 7 Invalidenrente
 
@@ -796,7 +765,6 @@ Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch auf
 Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus einer
 versicherungspflichtigen Tätigkeit.
 
-
 ##### § 8 Bergmannsinvalidenrente
 
 (1) Versicherte haben Anspruch auf Bergmannsinvalidenrente, wenn sie
@@ -817,7 +785,6 @@ und Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch
 auf Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus
 einer versicherungspflichtigen Tätigkeit.
 
-
 ##### § 9 Bergmannsrente
 
 Versicherte haben Anspruch auf Bergmannsrente, wenn sie
@@ -830,10 +797,6 @@ Versicherte haben Anspruch auf Bergmannsrente, wenn sie
     wesentlichen gleichartige und wirtschaftlich gleichwertige Tätigkeit
     in Bergwerksbetrieben infolge einer Krankheit oder eines Unfalls nicht
     mehr ausüben können.
-
-
-
-
 
 ##### § 10 Invalidenrente für Behinderte
 
@@ -851,10 +814,7 @@ vorübergehend nicht möglich sind oder angebotene berufsfördernde
 Leistungen zur Rehabilitation genutzt werden und das dabei erzielte
 Einkommen 205 Euro nicht übersteigt.
 
-
 ##### Dritter Unterabschnitt - Renten wegen Todes
-
-
 
 ##### § 11 Witwenrente und Witwerrente
 
@@ -953,7 +913,6 @@ Zusatzwitwerrente, wenn sie die persönlichen Voraussetzungen für den
 Anspruch auf eine Witwenrente oder Witwerrente erfüllen und der
 Verstorbene rentenrechtliche Zeiten zur FZR hat.
 
-
 ##### § 12 Bergmannswitwenrente und Bergmannswitwerrente
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach
@@ -996,7 +955,6 @@ Bergmannswitwerrente allein deshalb nicht besteht, weil der
 Verstorbene die finanziellen Aufwendungen für die Familie nicht
 überwiegend erbracht hatte.
 
-
 ##### § 13 Übergangshinterbliebenenrente
 
 (1) Witwen oder Witwer haben Anspruch auf
@@ -1013,7 +971,6 @@ Jahren die genannten Altersgrenzen.
 (2) Neben dem Anspruch auf Übergangshinterbliebenenrente besteht
 Anspruch auf Zusatzübergangshinterbliebenenrente, wenn der Verstorbene
 rentenrechtliche Zeiten zur FZR hatte.
-
 
 ##### § 14 Unterhaltsrente
 
@@ -1042,10 +999,6 @@ der gerichtlich festgelegten Unterhaltszahlung, wenn
 
 2.  der Verstorbene zum Zeitpunkt seines Todes die Voraussetzungen für den
     Bezug einer Rente erfüllt hatte.
-
-
-
-
 
 ##### § 15 Waisenrente
 
@@ -1116,10 +1069,7 @@ der verstorbene Elternteil zum Zeitpunkt seines Todes die
 Voraussetzungen für den Bezug einer Rente aus der
 Sozialpflichtversicherung nicht erfüllt hatte.
 
-
 ##### Vierter Unterabschnitt - Wartezeiterfüllung
-
-
 
 ##### § 16 Wartezeiten
 
@@ -1148,10 +1098,6 @@ Voraussetzung für einen Anspruch auf
 
 2.  von fünf Jahren ist Voraussetzung für einen Anspruch auf
     Bergmannsrente.
-
-
-
-
 
 ##### § 17 Anrechenbare Zeiten
 
@@ -1220,10 +1166,7 @@ werden angerechnet
 Auf die Wartezeit einer bergbaulichen Versicherung von fünf Jahren
 werden die Zeiten nach Nummer 1 und 2 angerechnet.
 
-
 ##### Fünfter Unterabschnitt - Rentenrechtliche Zeiten
-
-
 
 ##### § 18 Begriffsbestimmungen
 
@@ -1254,13 +1197,6 @@ Rentenrechtliche Zeiten sind
 
 
     b)  Zurechnungszeiten zur FZR.
-
-
-
-
-
-
-
 
 ##### § 19 Zeiten einer versicherungspflichtigen Tätigkeit
 
@@ -1453,7 +1389,6 @@ Zeiten der freiwilligen Rentenversicherung nach den Bestimmungen des §
 21 des Gesetzes über die Sozialversicherung vom 28. Juni 1990 (GBl. I
 Nr. 38 S. 486).
 
-
 ##### § 20 Zurechnungszeiten
 
 (1) Bei der Berechnung von Renten aus der Sozialpflichtversicherung
@@ -1524,7 +1459,6 @@ insgesamt 50 Jahre nicht überschritten werden. Die Begrenzung nach
 Satz 1 gilt nicht für die in Absatz 1 Nr. 3 Buchstabe b genannte
 Zurechnungszeit.
 
-
 ##### § 21 Zeiten der freiwilligen Rentenversicherung
 
 (1) Zeiten der freiwilligen Rentenversicherung sind Zeiten, in denen
@@ -1547,7 +1481,6 @@ gezahlt worden sind.
 einer gleichartigen freiwilligen Versicherung außerhalb des
 Beitrittsgebiets.
 
-
 ##### § 22 Zuordnung von Zeiten zur bergbaulichen Versicherung
 
 Den Zeiten der bergbaulichen Versicherung werden Dienstzeiten
@@ -1566,7 +1499,6 @@ militärähnlichen Dienstes und der sich anschließenden
 Kriegsgefangenschaft gelten als Zeiten einer bergbaulichen
 Versicherung, wenn unmittelbar vorher eine bergbauliche Versicherung
 bestanden hat.
-
 
 ##### § 23 Bergmännische Tätigkeiten
 
@@ -1633,7 +1565,6 @@ gelten auch Zeiten der
 
 wenn sie sich unmittelbar an solche Zeiten anschließen.
 
-
 ##### § 24 Beitragszeiten zur FZR
 
 (1) Beitragszeiten zur FZR sind Zeiten, in denen neben einer
@@ -1697,7 +1628,6 @@ Versorgungsordnungen nach Anlage 2 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes gezahlt worden sind, wenn danach der
 Beitritt zur FZR erfolgt ist.
 
-
 ##### § 25 Zurechnungszeiten zur FZR
 
 Bei der Berechnung von Zusatzrenten aus der FZR werden als
@@ -1709,10 +1639,6 @@ Zurechnungszeiten angerechnet
 
 
 2.  Zeiten des früheren Bezugs einer Zusatzinvalidenrente.
-
-
-
-
 
 ##### § 26 Ermittlung von rentenrechtlichen Zeiten
 
@@ -1759,14 +1685,9 @@ der Glaubhaftmachung können auch Versicherungen an Eides Statt
 zugelassen werden. Der Träger der Rentenversicherung ist für die
 Abnahme eidesstattlicher Versicherungen zuständig.
 
-
 ### Drittes Kapitel - Rentenhöhe
 
-
-
 #### Erster Abschnitt - Grundsatz
-
-
 
 #### § 27 Grundsatz
 
@@ -1779,14 +1700,9 @@ Arbeitseinkommen errechnete Rente unter der Mindestrente oder einem
 Mindestbetrag, wird an Stelle der errechneten Rente die jeweilige
 Mindestrente oder der jeweilige Mindestbetrag geleistet.
 
-
 #### Zweiter Abschnitt - Renten aus der Sozialpflichtversicherung
 
-
-
 ##### Erster Unterabschnitt - Berechnung der Renten
-
-
 
 ##### § 28 Rentenformel für Monatsbetrag der Renten
 
@@ -1834,7 +1750,6 @@ Unterhaltsrente wird in Höhe des gerichtlich festgelegten
 Unterhaltsbetrags, höchstens in Höhe von 330 Deutsche Mark gezahlt;
 eine Rente der Unfallversicherung ist darauf anzurechnen.
 
-
 ##### § 29 Festbetrag
 
 Der Festbetrag beträgt bei
@@ -1873,10 +1788,6 @@ Der Festbetrag beträgt bei
 
     *   210 Deutsche Mark.
 
-
-
-
-
 ##### § 30 Steigerungsbetrag
 
 Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
@@ -1888,10 +1799,6 @@ Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
 
 
 3.  Steigerungssatz.
-
-
-
-
 
 ##### § 31 Beitragspflichtiges Durchschnittseinkommen
 
@@ -2004,7 +1911,6 @@ Verdienst zugrunde gelegt; für Zeiten bis zum 30. Juni 1990 wird
 höchstens das beitragspflichtige Einkommen bis 600 Mark monatlich
 berücksichtigt.
 
-
 ##### § 32 Steigerungssatz
 
 (1) Der Steigerungssatz für jedes Arbeitsjahr beträgt bei
@@ -2036,7 +1942,6 @@ beträgt bei
 
 zwei vom Hundert.
 
-
 ##### § 33 Zuschlag für Untertagetätigkeiten
 
 Bergleute, die mehr als zehn Jahre Untertagetätigkeiten ausgeübt
@@ -2066,7 +1971,6 @@ haben, erhalten für jedes Jahr mit solchen Tätigkeiten
 
 als Zuschlag zu ihrer Rente. Dies gilt nicht für Zeiten des Bezugs
 einer solchen Rente.
-
 
 ##### § 34 Mindestrenten und Mindestbeträge
 
@@ -2149,10 +2053,7 @@ Lebensjahres in den Haushalt aufgenommen haben.
 
 geleistet.
 
-
 ##### Zweiter Unterabschnitt - Sonderbestimmungen
-
-
 
 ##### § 35 Besonderer Steigerungssatz
 
@@ -2183,7 +2084,6 @@ Der Steigerungssatz beträgt für jedes Jahr der Beschäftigung
 mindestens zehn Jahre oder bei Eintritt von Invalidität in den Fällen
 der Nummer 2 oder 3 mindestens fünf Jahre ununterbrochen ausgeübt
 worden ist.
-
 
 ##### § 36 Zusätzlicher Steigerungsbetrag
 
@@ -2223,10 +2123,7 @@ angewandt wird. Der von einem zusätzlichen Steigerungsbetrag für
 Beiträge nach Absatz 1 abzuleitende Steigerungsbetrag wird zusätzlich
 zur errechneten Hinterbliebenenrente geleistet.
 
-
 #### Dritter Abschnitt - Renten aus der freiwilligen Zusatzrentenversicherung
-
-
 
 #### § 37 Rentenformel für Monatsbetrag der Zusatzrenten
 
@@ -2262,7 +2159,6 @@ des durch Beiträge zur FZR versicherten Durchschnittseinkommens.
 
 
 der nach Absatz 1 ermittelten Zusatzrente des Verstorbenen.
-
 
 #### § 38 Durchschnittseinkommen für Zusatzrenten
 
@@ -2356,10 +2252,7 @@ selbständig Tätige entsprechend anzuwenden.
 
 (6) § 31 Abs. 2 ist entsprechend anzuwenden.
 
-
 #### Vierter Abschnitt - Erhöhung auf den Stand 31. Dezember 1991
-
-
 
 #### § 39 Erhöhung auf den Stand 31. Dezember 1991
 
@@ -2404,10 +2297,7 @@ Hundert erhöhte Zusatzrenten nach der Verordnung über die freiwillige
 Versicherung auf Zusatzrente bei der Sozialversicherung vom 15. März
 1968 (GBl. II Nr. 29 S. 154) geleistet.
 
-
 #### Fünfter Abschnitt - Berechnung von Geldleistungen
-
-
 
 #### § 40 Berechnung von Geldleistungen
 
@@ -2431,10 +2321,7 @@ Bei der Berechnung des
 
 ist auf volle Deutsche Mark aufzurunden.
 
-
 ### Viertes Kapitel - Zusammentreffen von Renten
-
-
 
 ### § 41 Mehrere Rentenansprüche
 
@@ -2518,7 +2405,6 @@ Artikels Anspruch auf eine Rente, die von einem ausländischen
 Versicherungsträger geleistet wird, wird diese auf Rentenbeträge, die
 zusätzlich zu einer errechneten Rente geleistet werden, angerechnet.
 
-
 ### § 42 Mehrere Renten wegen Todes
 
 Besteht aus der Versicherung eines Verstorbenen für mehrere
@@ -2527,7 +2413,6 @@ Gesamthöhe der Renten auf die Rente des Verstorbenen einschließlich
 Zuschlag für Untertagetätigkeiten begrenzt. Die Renten wegen Todes
 werden proportional gekürzt, mindestens jedoch in Höhe der mit dem
 Faktor 1,4130 vervielfältigten Mindestrente geleistet.
-
 
 ### § 43 Rente und Leistungen aus der Unfallversicherung
 
@@ -2589,10 +2474,7 @@ niedrigere Rente, wird sie in Höhe von 50 vom Hundert geleistet. Die
 übrigen Renten werden nicht geleistet. Die Bestimmungen des § 41 Abs.
 2 Satz 2 sind entsprechend anzuwenden.
 
-
 ### Fünftes Kapitel - Beginn, Änderung und Ende von Renten
-
-
 
 ### § 44 Beginn, Änderung und Ende von Renten
 
@@ -2621,15 +2503,11 @@ Bergmannswitwerrente lebt wieder auf, wenn
 wenn im übrigen die Voraussetzungen des § 11 Abs. 1 Nr. 1 erfüllt
 sind.
 
-
 ### Sechstes Kapitel
-
-
 
 ### § 45
 
 -
-
 
 ### Anlage (zu § 39) Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
 
@@ -5339,24 +5217,11 @@ sind.
 
         ++) und mehr
 
-
-
-
-
-
-
-
 ## Art 3 - Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets (Anspruchs- und Anwartschaftsüberführungsgesetz - AAÜG)
-
-
 
 ## Art 4 - Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen (Versorgungsruhensgesetz)
 
-
-
 ## Art 5 bis 23
-
-
 
 ## Art 24 - Maßgabe zum Arbeitsförderungsgesetz vom 22. Juni 1990
 
@@ -5371,10 +5236,7 @@ Sonderversorgungssystemen im Sinne der Anlage II Kapitel VIII
 Sachgebiet H Abschnitt III Nr. 9 des Einigungsvertrages vom 31. August
 1990 ist Satz 2 nicht anzuwenden.
 
-
 ## Art 25 und 26
-
-
 
 ## Art 27 - Versicherungsschutz von Arbeitnehmern in knappschaftlich versicherten Betrieben
 
@@ -5386,18 +5248,11 @@ sind, bleibt die Deutschen Rentenversicherung Knappschaft-Bahn-See als
 Träger der knappschaftlichen Rentenversicherung zuständig, solange das
 Beschäftigungsverhältnis andauert.
 
-
 ## Art 28 bis 30
-
-
 
 ## Art 31 - Gesetz zur Überleitung des Versorgungsausgleichs auf das Beitrittsgebiet (Versorgungsausgleichs-Überleitungsgesetz - VAÜG)
 
-
-
 ## Art 32 bis 34
-
-
 
 ## Art 35 - Geltung sozialversicherungsrechtlicher Vorschriften im Beitrittsgebiet
 
@@ -5476,10 +5331,7 @@ November 1979 (GBl. I Nr. 43 S. 401) wird angefügt:
 Personen, die bereits eine Rente beziehen. Eine Neufeststellung der
 Rente erfolgt auf Antrag.
 
-
 ## Art 36
-
-
 
 ## Art 37 - Anrechnung von Exportleistungen auf Renten im Beitrittsgebiet
 
@@ -5539,10 +5391,6 @@ Rente erfolgt auf Antrag.
     Unrechts in der Sozialversicherung, die Leistungen auf der Grundlage
     der in Nummer 1 genannten Abkommen erhalten.
 
-
-
-
-
 ## Art 38 - Überprüfung von Feststellungsbescheiden nach der Versicherungsunterlagen-Verordnung und dem Fremdrentenrecht
 
 Bescheide, die außerhalb einer Rentenbewilligung aufgrund der
@@ -5566,7 +5414,6 @@ und Unfallversicherung nebst der Vereinbarung hierzu vom 9. Oktober
 Rentenreformgesetzes 1992 vom 18. Dezember 1989 (BGBl. I S. 2261; 1990
 I S. 1337), ergangen sind.
 
-
 ## Art 39 - Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikeln 32 bis 34 beruhenden Teile der dort geänderten
@@ -5574,14 +5421,9 @@ Verordnungen können aufgrund der jeweils einschlägigen Ermächtigung in
 Verbindung mit diesem Artikel durch Rechtsverordnung geändert oder
 aufgehoben werden.
 
-
 ## Art 40 - Gesetz zur Zahlung eines Sozialzuschlags zu Renten im Beitrittsgebiet
 
-
-
 ## Art 41
-
-
 
 ## Art 42 - Inkrafttreten
 

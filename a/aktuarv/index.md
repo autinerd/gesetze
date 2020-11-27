@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.10.2011 I 2099
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 10 des Gesetzes vom 21. Juli 1994
 (BGBl. I S. 1630) eingefügten § 11a Abs. 6 des
 Versicherungsaufsichtsgesetzes verordnet das Bundesministerium der
 Finanzen:
-
 
 ## § 1 Versicherungsmathematische Bestätigung bei Lebensversicherungsunternehmen mit Ausnahme der Pensions- und Sterbekassen
 
@@ -53,7 +51,6 @@ wird. In beiden Fällen ist sie um zusätzliche Bemerkungen derart zu
 ergänzen, daß die Gründe für die Versagung oder Inhalt und Tragweite
 der Einschränkung klar umrissen werden.
 
-
 ## § 2 Versicherungsmathematische Bestätigung bei nicht regulierten Pensionskassen
 
 (1) Bei Pensionskassen, die nicht nach § 118b Absatz 3 oder Absatz 4
@@ -77,7 +74,6 @@ stattdessen:
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
-
 ## § 3 Versicherungsmathematische Bestätigung bei regulierten Pensionskassen
 
 (1) Bei regulierten Pensionskassen hat der Verantwortliche Aktuar,
@@ -98,7 +94,6 @@ genehmigten Tarifen abgeschlossen worden sind, entfällt der zweite
 Halbsatz der vorstehenden Bestätigung.
 
 (2) § 1 Abs. 2 gilt entsprechend.
-
 
 ## § 4 Versicherungsmathematische Bestätigung bei Versicherungsunternehmen, die die Unfallversicherung mit Prämienrückgewähr, die Allgemeine Haftpflichtversicherung, die Kraftfahrzeug-Haftpflichtversicherung, die Kraftfahrt-Unfallversicherung oder die Allgemeine Unfallversicherung betreiben
 
@@ -127,11 +122,9 @@ stattdessen:
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
-
 ## § 5
 
 (weggefallen)
-
 
 ## § 6 Erläuterungsbericht
 
@@ -231,7 +224,6 @@ genehmigten Geschäftsplan ergeben, auf diesen unter Angabe der
 maßgeblichen Fassung verwiesen werden. Absatz 4 Satz 2 bleibt hiervon
 unberührt.
 
-
 ## § 6a Angemessenheitsbericht
 
 (1) Der Verantwortliche Aktuar hat im Angemessenheitsbericht
@@ -293,7 +285,6 @@ den vorgelegten Vorschlägen für eine angemessene Beteiligung am
 Überschuss oder dem Erläuterungsbericht ergeben, kann auf sie
 verwiesen werden.
 
-
 ## § 7 Vorlagefrist
 
 Der Erläuterungsbericht und der Angemessenheitsbericht sind bei Abgabe
@@ -308,13 +299,11 @@ entsprechenden Sitzung des obersten Organs vorzulegen; er ist der
 Aufsichtsbehörde unverzüglich nach der Beschlussfassung über den
 Vorschlag für die Beteiligung am Überschuss einzureichen.
 
-
 ## § 8 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft und ist
 erstmals für nach dem 31. Dezember 1994 beginnende Geschäftsjahre
 anzuwenden.
-
 
 ## Schlußformel
 

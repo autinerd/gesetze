@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 33 G v. 9.12.2010 I 1934
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 834/2007
@@ -28,7 +27,6 @@ Produktion und die Kennzeichnung von ökologischen/biologischen
 Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl.
 EU Nr. L 189 S. 1) sowie der zu ihrer Durchführung erlassenen
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
-
 
 ## § 2 Durchführung
 
@@ -81,7 +79,6 @@ Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch
 Rechtsverordnung ganz oder teilweise auf andere Behörden des Landes zu
 übertragen.
 
-
 ## § 3 Kontrollsystem
 
 (1) Vorbehaltlich einer Verordnung nach § 2 Abs. 3 Satz 1 Nr. 1 wird
@@ -99,7 +96,6 @@ soweit sie diese Erzeugnisse nicht selbst erzeugen oder erzeugen
 lassen, aufbereiten oder aufbereiten lassen, an einem anderen Ort als
 einem Ort in Verbindung mit der Verkaufsstelle lagern oder lagern
 lassen oder aus einem Drittland einführen oder einführen lassen.
-
 
 ## § 4 Zulassung der Kontrollstellen und Entzug der Zulassung
 
@@ -181,7 +177,6 @@ zur Kenntnis, so hat sie die Bundesanstalt für Landwirtschaft und
 Ernährung unter Mitteilung dieser Tatsachen zu ersuchen, ein Verfahren
 zum Entzug der Zulassung oder zur Aufnahme oder Änderung von Auflagen
 einzuleiten.
-
 
 ## § 5 Pflichten der Kontrollstellen
 
@@ -277,7 +272,6 @@ darf, soweit insolvenzrechtliche Vorschriften nicht entgegenstehen,
 ihre Tätigkeit erst einstellen, wenn für alle von ihr kontrollierten
 Unternehmen das weitere Durchführen der Kontrollen sichergestellt ist.
 
-
 ## § 6 Vorschriften für gemeinschaftliche Verpflegungseinrichtungen
 
 (1) Die Vorschriften der Verordnung (EG) Nr. 834/2007 und der zu deren
@@ -312,7 +306,6 @@ Ausgangsstoffe, Zutaten oder Komponenten die Vorschriften der
 Verordnung (EG) Nr. 834/2007 und der zu deren Durchführung erlassenen
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 erfüllen.
-
 
 ## § 7 Mitwirkung der Zollbehörden
 
@@ -350,7 +343,6 @@ Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der
 Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur
 Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster
 und Proben vorsehen.
-
 
 ## § 8 Überwachung
 
@@ -400,7 +392,6 @@ verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ## § 9 Datenübermittlung, Außenverkehr
 
 (1) Die zuständigen Behörden erteilen einander die zur Überwachung der
@@ -423,7 +414,6 @@ Bundesrates auf die Bundesanstalt für Landwirtschaft und Ernährung
 Zustimmung des Bundesrates auf die nach Landesrecht zuständigen
 Behörden übertragen.
 
-
 ## § 10 Gebühren und Auslagen
 
 (1) Für Amtshandlungen der zuständigen Behörden, die nach den Artikeln
@@ -440,7 +430,6 @@ mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die
 Gebührenhöhe und die Auslagenerstattung zu bestimmen und dabei feste
 Sätze oder Rahmensätze vorzusehen.
-
 
 ## § 11 Ermächtigungen
 
@@ -499,10 +488,6 @@ Zustimmung des Bundesrates
     Erlass entsprechender Vorschriften in Verordnungen der Europäischen
     Union unanwendbar geworden sind.
 
-
-
-
-
 ## § 12 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -538,7 +523,6 @@ verstößt, indem er
 
 (2) Ebenso wird bestraft, wer entgegen § 6 Abs. 3 ein Erzeugnis in den
 Verkehr bringt.
-
 
 ## § 13 Bußgeldvorschriften
 
@@ -614,7 +598,6 @@ verstößt, indem er vorsätzlich oder fahrlässig
 Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer
 Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
 ## § 14 Einziehung
 
 Ist eine Straftat nach § 12 oder eine Ordnungswidrigkeit nach § 13
@@ -623,7 +606,6 @@ die Straftat oder die Ordnungswidrigkeit bezieht, und Gegenstände, die
 zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt
 gewesen sind, eingezogen werden. § 74a des Strafgesetzbuchs und § 23
 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
-
 
 ## § 15 Übergangsvorschriften
 
@@ -640,10 +622,6 @@ vorläufige Zulassung erlischt,
 
 2.  im Falle rechtzeitiger Antragstellung mit Eintritt der
     Unanfechtbarkeit der Entscheidung über den Antrag.
-
-
-
-
 
 ## § 16 Ausschluss des Abweichungsrechts
 

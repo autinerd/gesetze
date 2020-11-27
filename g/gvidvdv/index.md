@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2622
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
@@ -24,9 +23,7 @@ Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium des Innern:
 
-
 ## Abschnitt 1 - Allgemeines
-
 
 ### § 1 Diplomstudium
 
@@ -39,7 +36,6 @@ Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule)
 ist der Vorbereitungsdienst für den gehobenen
 Verwaltungsinformatikdienst des Bundes.
 
-
 ### § 2 Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
@@ -51,7 +47,6 @@ Handeln in einem freiheitlichen, demokratischen und sozialen
 Rechtsstaat sowie zur Zusammenarbeit im föderalen und europäischen
 Raum befähigen.
 
-
 ### § 3 Dienstbehörden
 
 (1) Einstellungsbehörden sind Einrichtungen der Bundesverwaltung,
@@ -60,7 +55,6 @@ institutionelle Zuwendungsempfänger des Bundes und die Fachhochschule.
 (2) Die Studierenden unterstehen neben der Dienstaufsicht der Leitung
 der jeweiligen Einstellungsbehörde auch der Dienstaufsicht der
 Präsidentin oder des Präsidenten der Fachhochschule.
-
 
 ### § 4 Auswahlverfahren
 
@@ -88,7 +82,6 @@ wenn sie die in der Ausschreibung bestimmten Voraussetzungen erfüllen.
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder daran
 erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über
 die Ablehnung.
-
 
 ### § 5 Auswahlkommission
 
@@ -126,16 +119,13 @@ unabhängig und nicht weisungsgebunden.
 Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
 Stimme der oder des Vorsitzenden den Ausschlag.
 
-
 ### § 6 Urlaub
 
 Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die
 Fachhochschule und während der berufspraktischen Studien (Praktika)
 die Einstellungsbehörde.
 
-
 ## Abschnitt 2 - Studienordnung
-
 
 ### § 7 Dauer und Aufbau des Studiums
 
@@ -169,7 +159,6 @@ Fachstudien an der Fachhochschule und zwölf Monate Praktika.
 
 (3) Den Studienverlauf im Einzelnen und die Inhalte der Module legt
 die Fachhochschule in einem Modulhandbuch fest.
-
 
 ### § 8 Fachstudien
 
@@ -206,7 +195,6 @@ vermittelt, die folgenden Modulgruppen zugeordnet sind:
 (2) Die Module sind Gegenstand eines systematischen
 Qualitätsmanagements und werden regelmäßig evaluiert.
 
-
 ### § 9 Praktika
 
 (1) Die Einstellungsbehörde bestimmt und überwacht die Gestaltung und
@@ -231,15 +219,12 @@ entlastet, soweit dies erforderlich ist.
 für jeden Praktikumsteil eine Beurteilung einschließlich einer
 Bewertung nach § 19 und bespricht sie mit der oder dem Studierenden.
 
-
 ## Abschnitt 3 - Prüfungen
-
 
 ### § 10 Laufbahnprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der
 Zwischenprüfung, den Modulprüfungen und der Diplomarbeit.
-
 
 ### § 11 Zuständigkeiten, Prüfungserleichterungen
 
@@ -260,7 +245,6 @@ den Anwendungsbereich des Neunten Buches Sozialgesetzbuch fallen,
 gewährt das jeweils zuständige Prüfungsamt angemessene
 Erleichterungen. Die Erleichterungen dürfen jedoch nicht dazu führen,
 dass die Anforderungen herabgesetzt werden.
-
 
 ### § 12 Prüfende
 
@@ -301,7 +285,6 @@ Erstprüferin oder des Erstprüfers haben.
 (5) Prüfende können auch Tarifbeschäftigte sein, die über
 entsprechende Kenntnisse verfügen.
 
-
 ### § 13 Zwischenprüfung
 
 (1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen. In
@@ -327,7 +310,6 @@ Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung nicht
 bestanden hat, erhält vom Prüfungsamt am Zentralbereich einen
 schriftlichen Bescheid, aus dem das Ergebnis der Zwischenprüfung und
 die absolvierten Module hervorgehen. § 26 Absatz 3 gilt entsprechend.
-
 
 ### § 14 Modulprüfungen
 
@@ -365,7 +347,6 @@ Prüfung durchgeführt werden. In diesem Fall ist ein Protokoll über den
 Prüfungsverlauf anzufertigen und die erreichte Note im Protokoll zu
 begründen.
 
-
 ### § 15 Klausuren
 
 (1) Eine Klausur ist eine unter Aufsicht anzufertigende, schriftliche
@@ -381,7 +362,6 @@ versehen. Dafür erstellt das Prüfungsamt eine Übersicht, in der die
 Kennziffern den Namen der Studierenden zugeordnet sind. Die Übersicht
 ist geheim zu halten und darf den Prüfenden erst nach der endgültigen
 Bewertung der Klausuren bekannt gegeben werden.
-
 
 ### § 16 Diplomarbeit
 
@@ -409,10 +389,6 @@ oder geändert werden.
 
 3.  die Bewertung der Disputation mit 15 Prozent.
 
-
-
-
-
 ### § 17 Schriftliche Ausarbeitung
 
 (1) Mit der schriftlichen Ausarbeitung sollen die Studierenden
@@ -437,7 +413,6 @@ angegebenen Quellen und Hilfsmittel benutzt haben.
 
 (5) Die schriftliche Ausarbeitung soll innerhalb von zehn Wochen nach
 Abgabe bewertet werden.
-
 
 ### § 18 Präsentation und Disputation
 
@@ -471,7 +446,6 @@ zu unterschreiben.
 
 (6) Die Präsentation und Disputation sind bestanden, wenn jeder
 Prüfungsteil mit mindestens fünf Rangpunkten bewertet worden ist.
-
 
 ### § 19 Bewertung der Prüfungsleistungen
 
@@ -593,7 +567,6 @@ ist.
 
 (4) Durchschnittsrangpunktzahlen werden auf zwei Dezimalstellen ohne
 Rundung berechnet.
-
 
 ### § 20 Multiple-Choice-Aufgaben
 
@@ -741,7 +714,6 @@ der Klausur berechnet, und zwar auf zwei Dezimalstellen ohne Rundung.
 und ausgewertet werden. Die Integrität der Daten und die
 automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
-
 ### § 21 Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem
@@ -777,7 +749,6 @@ entsprechend.
 (7) Erscheinen Studierende verspätet zu einer Prüfung, gilt die
 versäumte Zeit als Bearbeitungszeit.
 
-
 ### § 22 Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil
@@ -810,7 +781,6 @@ erklären. In diesem Fall ist das Abschlusszeugnis zurückzugeben.
 (5) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2
 bis 4 anzuhören.
 
-
 ### § 23 Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb von drei Monaten
@@ -840,7 +810,6 @@ von zwei Monaten nach Bekanntgabe des Ergebnisses einmal wiederholt
 werden.
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
-
 
 ### § 24 Bestehen der Laufbahnprüfung, Abschlussnote
 
@@ -885,7 +854,6 @@ Laufbahnprüfung für die Ermittlung der Abschlussnote bei
 Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten
 abgerundet. § 19 Absatz 1 ist anzuwenden.
 
-
 ### § 25 Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
@@ -916,7 +884,6 @@ Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung
 sowie eine Bescheinigung über die erbrachten Studienleistungen, aus
 der das Ergebnis der Zwischenprüfung, die absolvierten Module und
 deren Bewertung hervorgehen.
-
 
 ### § 26 Prüfungsakte, Einsichtnahme
 
@@ -961,14 +928,11 @@ die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag
 Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der
 Akte zu vermerken.
 
-
 ## Abschnitt 4 - Schlussvorschrift
-
 
 ### § 27 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 2012 in Kraft.
-
 
 ### Anlage (zu § 25 Absatz 1 Satz 2) Noten als Dezimalzahlen
 

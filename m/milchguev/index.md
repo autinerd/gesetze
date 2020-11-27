@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 17.12.2010 I 2132
 
-
 ## Eingangsformel
 
 Auf Grund des § 10 Abs. 1 des Milch- und Fettgesetzes in der im
@@ -29,7 +28,6 @@ für Jugend, Familie und Gesundheit und auf Grund des § 20 Abs. 1 Nr.
 1, Abs. 4 und 5 des Milch- und Fettgesetzes im Einvernehmen mit dem
 Bundesminister für Wirtschaft mit Zustimmung des Bundesrates und nach
 Bekanntgabe an den Deutschen Bundestag verordnet:
-
 
 ## § 1 Gütemerkmale
 
@@ -65,7 +63,6 @@ gelieferte Milch als Anlieferungsmilch.
 (3) Abnehmer im Sinne dieser Verordnung ist, wer Anlieferungsmilch von
 Milcherzeugern erwirbt, soweit im Durchschnitt eines Jahres täglich
 500 Liter Anlieferungsmilch oder mehr erworben und angeliefert werden.
-
 
 ## § 2 Untersuchungen
 
@@ -154,7 +151,6 @@ in der Anlieferungsmilch Hemmstoffe oder einen Keimgehalt von mehr als
 ccm oder einen Gehalt an somatischen Zellen von mehr als 400 000 je
 ccm feststellt, dies dem Milcherzeuger unverzüglich mitzuteilen.
 
-
 ## § 3 Einstufung der Anlieferungsmilch
 
 (1) Die Anlieferungsmilch ist auf Grund der Untersuchungsergebnisse
@@ -229,7 +225,6 @@ Zuschlag für eine Klasse S bezahlen:
 Das Bezahlen eines Zuschlages ist der nach Landesrecht zuständigen
 Stelle mitzuteilen.
 
-
 ## § 4 Berechnung des Auszahlungspreises
 
 (1) Die Anlieferungsmilch ist monatlich, auch bei Abschlagszahlungen,
@@ -290,7 +285,6 @@ von Bedeutung sind. Sie sind in der Milchgeldabrechnung gesondert
 auszuweisen. Sonstige Zu- und Abschläge sind ebenfalls gesondert
 auszuweisen.
 
-
 ## § 5 Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Der Abnehmer hat die Ergebnisse der Untersuchungen nach § 2 und
@@ -303,7 +297,6 @@ die Untersuchungsmethode aufzuzeichnen.
 
 (3) Die Aufzeichnungen sind drei Jahre aufzubewahren und der nach
 Landesrecht zuständigen Stelle auf Verlangen vorzulegen.
-
 
 ## § 6 Befugnisse der Länder
 
@@ -323,10 +316,6 @@ insbesondere über
 3.  die Beratung der Milcherzeuger, einschließlich der hierfür
     erforderlichen Übermittlung der Untersuchungsergebnisse nach § 2.
 
-
-
-
-
 ## § 6a Bezugsquelle von Untersuchungsverfahren
 
 Bestimmungen der Amtlichen Sammlung von Untersuchungsverfahren nach §
@@ -336,7 +325,6 @@ Thielallee 88 - 92, 14195 Berlin, veröffentlicht und erscheinen im
 Beuth Verlag GmbH, Berlin und Köln. DIN-Normen sind im Beuth Verlag
 GmbH, Berlin, erschienen und beim Deutschen Patent- und Markenamt in
 München archivmäßig gesichert niedergelegt.
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -359,19 +347,13 @@ Fettgesetzes handelt, wer vorsätzlich oder fahrlässig
     richtig oder nicht vollständig macht, nicht aufbewahrt oder der
     zuständigen Stelle nicht vorlegt.
 
-
-
-
-
 ## § 8 Inkrafttreten, Übergangsvorschriften
 
 Diese Verordnung tritt am 1. Januar 1981 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
-
 
 ## Anlage
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 527 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 2, der §§ 53 und 58 Abs. 1 Nr. 1 und 3 des
@@ -26,7 +25,6 @@ Gesetzes über das Seelotswesen in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 9515-1, veröffentlichten bereinigten Fassung,
 zuletzt geändert durch Artikel 2 des Gesetzes vom 10. Mai 1978 (BGBl.
 I S. 613), wird verordnet:
-
 
 ## § 1
 
@@ -56,7 +54,6 @@ Anforderungen an den Grad des Befähigungszeugnisses aus:
 
 (3) In besonderen Fällen kann die Aufsichtsbehörde zeitlich begrenzte
 Ausnahmen von den Bestimmungen der Absätze 1 und 2 zulassen.
-
 
 ## § 2
 
@@ -140,7 +137,6 @@ soll nicht länger als 12 Monate zurückliegen; sie ist nicht
 erforderlich, wenn der Bewerber gleichwertige Berufserfahrungen
 nachweist.
 
-
 ## § 3
 
 (1) Das Ergebnis der Prüfung ist mit "bestanden" oder "nicht
@@ -150,7 +146,6 @@ fertigen.
 
 (2) Besteht ein Bewerber die Prüfung nicht, so kann diese einmal
 wiederholt werden, und zwar frühestens nach Ablauf eines Monats.
-
 
 ## § 4
 
@@ -165,14 +160,12 @@ Anlage 1 oder 2 auszuhändigen.
 (2) Der Lotsenausweis ist der Schiffsführung auf Verlangen jederzeit
 vorzulegen.
 
-
 ## § 5
 
 Entgelte für Leistungen der Seelotsen außerhalb der Reviere bedürfen
 der Genehmigung des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung. Die Genehmigung kann mit Auflagen verbunden und mit
 einem Vorbehalt des Widerrufs erteilt werden.
-
 
 ## § 6
 
@@ -184,14 +177,12 @@ Zuständigkeitsbereiches.
 
 (2)
 
-
 ## § 7
 
 Vor dem Inkrafttreten dieser Verordnung erteilte Erlaubnisse zur
 gewerbsmäßigen Ausübung der Tätigkeit eines Seelotsen außerhalb der
 Reviere sowie vorher ausgestellte Ausweise für Überseelotsen bleiben
 gültig. Ein Umtausch der Ausweise ist möglich.
-
 
 ## § 8
 
@@ -200,22 +191,18 @@ Verbindung mit §
 61              des Gesetzes über das Seelotswesen auch im Land
 Berlin.
 
-
 ## § 9
 
 Diese Verordnung tritt am 1. September 1978 in Kraft.
-
 
 ## Schlußformel
 
 Der Bundesminister für Verkehr
 
-
 ## Anlage 1 (zu § 4 Abs. 1) Ausweis für Überseelotsen
 
 (Inhalt: nicht darstellbares Muster eines Ausweises,
 Fundstelle: BGBl. I 1978, 1517)
-
 
 ## Anlage 2 (zu § 4 Abs. 1) Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
 

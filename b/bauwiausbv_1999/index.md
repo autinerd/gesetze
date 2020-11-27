@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 20.2.2009 I 399
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -33,10 +32,7 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
 Forschung:
 
-
 ## Erster Teil - Gemeinsame Vorschriften
-
-
 
 ### § 1 Staatliche Anerkennung der Ausbildungsberufe
 
@@ -141,13 +137,6 @@ Bereich der Industrie staatlich anerkannt:
 
     d)  Gleisbauer/Gleisbauerin.
 
-
-
-
-
-
-
-
 ### § 2 Ausbildungsdauer
 
 (1) Die Stufenausbildung in der Bauwirtschaft dauert insgesamt 36
@@ -167,7 +156,6 @@ gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der
 Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung
 im zweiten Ausbildungsjahr.
 
-
 ### § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -183,7 +171,6 @@ Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in der Zwischenprüfung und in der Abschlussprüfung
 nachzuweisen.
-
 
 ### § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -213,14 +200,9 @@ Dauer des Berufsausbildungsverhältnisses verbindlich.
 (4) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
 
-
 ## Zweiter Teil - Vorschriften für die Ausbildungsberufe Hochbaufacharbeiter/Hochbaufacharbeiterin, Ausbaufacharbeiter/Ausbaufacharbeiterin und Tiefbaufacharbeiter/Tiefbaufacharbeiterin
 
-
-
 ### 1. Abschnitt - Hochbaufacharbeiter/Hochbaufacharbeiterin
-
-
 
 #### § 5 Ausbildungsberufsbild
 
@@ -290,10 +272,6 @@ Fertigkeiten und Kenntnisse:
 
 21. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter
@@ -308,12 +286,10 @@ abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes
 ist insbesondere zulässig, soweit betriebspraktische Besonderheiten
 die Abweichung erfordern.
 
-
 #### § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 8 Berichtsheft
 
@@ -321,7 +297,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 9 Zwischenprüfung
 
@@ -370,7 +345,6 @@ Ausbildungsjahres stattfinden.
 
 (6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5
 ergeben sich aus § 10 Abs. 1 bis 4.
-
 
 #### § 10 Abschlussprüfung
 
@@ -626,10 +600,7 @@ Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 2
 und Abs. 2 Nr. 1 als Zwischenprüfung nach § 42 des
 Berufsbildungsgesetzes.
 
-
 ### 2. Abschnitt - Ausbaufacharbeiter/Ausbaufacharbeiterin
-
-
 
 #### § 11 Ausbildungsberufsbild
 
@@ -693,10 +664,6 @@ Fertigkeiten und Kenntnisse:
 
 19. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 12 Ausbildungsrahmenplan
 
 Die in § 11 genannten Fertigkeiten und Kenntnisse sollen unter
@@ -713,12 +680,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 13 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 14 Berichtsheft
 
@@ -726,7 +691,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 15 Zwischenprüfung
 
@@ -785,7 +749,6 @@ Ausbildungsjahres stattfinden.
 
 (6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5
 ergeben sich aus § 16 Abs. 1 bis 4.
-
 
 #### § 16 Abschlußprüfung
 
@@ -1125,10 +1088,7 @@ Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 3
 oder Abs. 2 Nr. 2 als Zwischenprüfung nach § 42 des
 Berufsbildungsgesetzes.
 
-
 ### 3. Abschnitt - Tiefbaufacharbeiter/Tiefbaufacharbeiterin
-
-
 
 #### § 17 Ausbildungsberufsbild
 
@@ -1182,10 +1142,6 @@ Fertigkeiten und Kenntnisse:
 
 16. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 18 Ausbildungsrahmenplan
 
 Die in § 17 genannten Fertigkeiten und Kenntnisse sollen unter
@@ -1201,12 +1157,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 #### § 19 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 20 Berichtsheft
 
@@ -1214,7 +1168,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 21 Zwischenprüfung
 
@@ -1270,7 +1223,6 @@ Ausbildungsjahres stattfinden.
 
 (6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5
 ergeben sich aus § 22 Abs. 1 bis 4.
-
 
 #### § 22 Abschlußprüfung
 
@@ -1576,14 +1528,9 @@ Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 4
 oder Abs. 2 Nr. 3 als Zwischenprüfung nach § 42 des
 Berufsbildungsgesetzes.
 
-
 ## Dritter Teil - Vorschriften für die aufbauenden Ausbildungsberufe nach § 1 Abs. 1 Nr. 2 bis 4 sowie Abs. 2 Nr. 1 bis 3
 
-
-
 ### 1. Abschnitt - Maurer/Maurerin
-
-
 
 #### § 23 Ausbildungsberufsbild
 
@@ -1626,10 +1573,6 @@ Fertigkeiten und Kenntnisse:
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 24 Ausbildungsrahmenplan
 
 Die in § 23 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -1640,12 +1583,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 25 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 26 Berichtsheft
 
@@ -1653,7 +1594,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 27 Abschlußprüfung/Gesellenprüfung
 
@@ -1849,10 +1789,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 2. Abschnitt - Beton- und Stahlbetonbauer/Beton- und Stahlbetonbauerin
-
-
 
 #### § 28 Ausbildungsberufsbild
 
@@ -1889,10 +1826,6 @@ Fertigkeiten und Kenntnisse:
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 29 Ausbildungsrahmenplan
 
 Die in § 28 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -1903,12 +1836,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 30 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 31 Berichtsheft
 
@@ -1916,7 +1847,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 32 Abschlußprüfung/Gesellenprüfung
 
@@ -2100,10 +2030,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 3. Abschnitt - Feuerungs- und Schornsteinbauer/Feuerungs- und Schornsteinbauerin
-
-
 
 #### § 33 Ausbildungsberufsbild
 
@@ -2146,10 +2073,6 @@ Fertigkeiten und Kenntnisse:
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 34 Ausbildungsrahmenplan
 
 Die in § 33 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -2160,12 +2083,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 35 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 36 Berichtsheft
 
@@ -2173,7 +2094,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 37 Abschlußprüfung/Gesellenprüfung
 
@@ -2345,10 +2265,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### Abschnitt 3a - Bauwerksmechaniker für Abbruch und Betontrenntechnik/Bauwerksmechanikerin für Abbruch und Betontrenntechnik
-
-
 
 #### § 37a Ausbildungsberufsbild
 
@@ -2387,10 +2304,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 37b Ausbildungsrahmenplan
 
 Die in § 37a genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -2402,12 +2315,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 #### § 37c Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 37d Berichtsheft
 
@@ -2415,7 +2326,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 37e Abschlussprüfung
 
@@ -2563,10 +2473,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 4. Abschnitt - Zimmerer/Zimmerin
-
-
 
 #### § 38 Ausbildungsberufsbild
 
@@ -2612,10 +2519,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 39 Ausbildungsrahmenplan
 
 Die in § 38 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -2626,12 +2529,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 40 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 41 Berichtsheft
 
@@ -2639,7 +2540,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 42 Abschlußprüfung/Gesellenprüfung
 
@@ -2800,10 +2700,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 5. Abschnitt - Stukkateur/Stukkateurin
-
-
 
 #### § 43 Ausbildungsberufsbild
 
@@ -2848,10 +2745,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 44 Ausbildungsrahmenplan
 
 Die in § 43 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -2862,12 +2755,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 45 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 46 Berichtsheft
 
@@ -2875,7 +2766,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 47 Abschlußprüfung/Gesellenprüfung
 
@@ -3023,10 +2913,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 6. Abschnitt - Fliesen-, Platten- und Mosaikleger/Fliesen-, Platten- und Mosaiklegerin
-
-
 
 #### § 48 Ausbildungsberufsbild
 
@@ -3064,10 +2951,6 @@ Fertigkeiten und Kenntnisse:
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 49 Ausbildungsrahmenplan
 
 Die in § 48 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -3078,12 +2961,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 50 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 51 Berichtsheft
 
@@ -3091,7 +2972,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 52 Abschlußprüfung/Gesellenprüfung
 
@@ -3276,10 +3156,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 7. Abschnitt - Estrichleger/Estrichlegerin
-
-
 
 #### § 53 Ausbildungsberufsbild
 
@@ -3325,10 +3202,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 54 Ausbildungsrahmenplan
 
 Die in § 53 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -3339,12 +3212,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 55 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 56 Berichtsheft
 
@@ -3352,7 +3223,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 57 Abschlußprüfung/Gesellenprüfung
 
@@ -3527,10 +3397,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keiner der praktischen Aufgaben und in keinem der fachbezogenen
 Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
 ### 8. Abschnitt - Wärme-, Kälte- und Schallschutzisolierer/Wärme-, Kälte- und Schallschutzisoliererin
-
-
 
 #### § 58 Ausbildungsberufsbild
 
@@ -3578,10 +3445,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 59 Ausbildungsrahmenplan
 
 Die in § 58 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -3593,12 +3456,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 #### § 60 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 61 Berichtsheft
 
@@ -3606,7 +3467,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 62 Abschlußprüfung/Gesellenprüfung
 
@@ -3791,10 +3651,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keiner der praktischen Aufgaben und in keinem der fachbezogenen
 Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
 ### 9. Abschnitt - Trockenbaumonteur/Trockenbaumonteurin
-
-
 
 #### § 63 Ausbildungsberufsbild
 
@@ -3830,10 +3687,6 @@ Fertigkeiten und Kenntnisse:
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 64 Ausbildungsrahmenplan
 
 Die in § 63 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -3844,12 +3697,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 65 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 66 Berichtsheft
 
@@ -3857,7 +3708,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 67 Abschlußprüfung
 
@@ -4011,10 +3861,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 10. Abschnitt - Straßenbauer/Straßenbauerin
-
-
 
 #### § 68 Ausbildungsberufsbild
 
@@ -4059,10 +3906,6 @@ Fertigkeiten und Kenntnisse:
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 69 Ausbildungsrahmenplan
 
 Die in § 68 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -4073,12 +3916,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 70 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 71 Berichtsheft
 
@@ -4086,7 +3927,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 72 Abschlußprüfung/Gesellenprüfung
 
@@ -4272,10 +4112,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 11. Abschnitt - Rohrleitungsbauer/Rohrleitungsbauerin
-
-
 
 #### § 73 Ausbildungsberufsbild
 
@@ -4317,10 +4154,6 @@ Fertigkeiten und Kenntnisse:
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 74 Ausbildungsrahmenplan
 
 Die in § 73 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -4331,12 +4164,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 75 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 76 Berichtsheft
 
@@ -4344,7 +4175,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 77 Abschlußprüfung
 
@@ -4519,10 +4349,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 12. Abschnitt - Kanalbauer/Kanalbauerin
-
-
 
 #### § 78 Ausbildungsberufsbild
 
@@ -4564,10 +4391,6 @@ Fertigkeiten und Kenntnisse:
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 79 Ausbildungsrahmenplan
 
 Die in § 78 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -4578,12 +4401,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 80 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 81 Berichtsheft
 
@@ -4591,7 +4412,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 82 Abschlußprüfung
 
@@ -4764,10 +4584,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 13. Abschnitt - Brunnenbauer/Brunnenbauerin
-
-
 
 #### § 83 Ausbildungsberufsbild
 
@@ -4818,10 +4635,6 @@ Fertigkeiten und Kenntnisse:
 
 15. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 84 Ausbildungsrahmenplan
 
 Die in § 83 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -4832,12 +4645,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 85 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 86 Berichtsheft
 
@@ -4845,7 +4656,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 87 Abschlußprüfung/Gesellenprüfung
 
@@ -5013,10 +4823,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 14. Abschnitt - Spezialtiefbauer/Spezialtiefbauerin
-
-
 
 #### § 88 Ausbildungsberufsbild
 
@@ -5073,10 +4880,6 @@ Fertigkeiten und Kenntnisse:
 
 17. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 89 Ausbildungsrahmenplan
 
 Die in § 88 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -5087,12 +4890,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 90 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 91 Berichtsheft
 
@@ -5100,7 +4901,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 92 Abschlußprüfung
 
@@ -5274,10 +5074,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung
 erbracht worden sein.
 
-
 ### 15. Abschnitt - Gleisbauer/Gleisbauerin
-
-
 
 #### § 93 Ausbildungsberufsbild
 
@@ -5316,10 +5113,6 @@ Fertigkeiten und Kenntnisse:
 
 11. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-
-
-
 #### § 94 Ausbildungsrahmenplan
 
 Die in § 93 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -5330,12 +5123,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 #### § 95 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 #### § 96 Berichtsheft
 
@@ -5343,7 +5134,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 #### § 97 Abschlußprüfung
 
@@ -5519,10 +5309,7 @@ mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in
 keiner der praktischen Aufgaben und in keinem der fachbezogenen
 Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
 ## Vierter Teil - Übergangs- und Schlußvorschriften
-
-
 
 ### § 98 Übergangsregelung
 
@@ -5531,11 +5318,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ### § 99 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
-
 
 ### Anlage 1 (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Hochbaufacharbeiter/zur Hochbaufacharbeiterin
 
@@ -7269,13 +7054,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 2 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Ausbaufacharbeiter/zur Ausbaufacharbeiterin
 
@@ -10192,13 +9970,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
-
-
-
 ### Anlage 3 (zu § 18) Ausbildungsrahmenplan für die Berufsausbildung zum Tiefbaufacharbeiter/zur Tiefbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1169 - 1189)
@@ -12822,13 +12593,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
-
-
-
 ### Anlage 4 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Maurer/zur Maurerin
 
 (Fundstelle: BGBl. I 1999, 1190 - 1192)
@@ -13197,13 +12961,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
-
-
-
 ### Anlage 5 (zu § 29) Ausbildungsrahmenplan für die Berufsausbildung zum Beton- und Stahlbetonbauer/zur Beton- und Stahlbetonbauerin
 
 (Fundstelle: BGBl. I 1999, 1193 - 1195)
@@ -13527,13 +13284,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 6 (zu § 34) Ausbildungsrahmenplan für die Berufsausbildung zum Feuerungs- und Schornsteinbauer/zur Feuerungs- und Schornsteinbauerin
 
@@ -13891,13 +13641,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
-
-
-
 ### Anlage 6a (zu § 37b) Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerkmechaniker für Abbruch und Betontrenntechnik/zur Bauwerksmechanikerin für Abbruch und Betontrenntechnik
 
 (Fundstelle: BGBl. I 2004, 539 - 541;
@@ -14247,7 +13990,6 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und
 Kenntnisse aus den laufenden Nummern 7 bis 10 zu ergänzen und zu
 vertiefen.
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
 
 ### Anlage 7 (zu § 39) Ausbildungsrahmenplan für die Berufsausbildung zum Zimmerer/zur Zimmerin
 
@@ -14602,13 +14344,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 8 (zu § 44) Ausbildungsrahmenplan für die Berufsausbildung zum Stukkateur/zur Stukkateurin
 
@@ -14988,13 +14723,6 @@ vertiefen.
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
-
-
-
 ### Anlage 9 (zu § 49) Ausbildungsrahmenplan für die Berufsausbildung zum Fliesen-, Platten- und Mosaikleger/zur Fliesen-, Platten- und Mosaiklegerin
 
 (Fundstelle: BGBl. I 1999, 1205 - 1207)
@@ -15307,13 +15035,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 10 (zu § 54) Ausbildungsrahmenplan für die Berufsausbildung zum Estrichleger/zur Estrichlegerin
 
@@ -15657,13 +15378,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 11 (zu § 59) Ausbildungsrahmenplan für die Berufsausbildung zum Wärme-, Kälte- und Schallschutzisolierer/zur Wärme-, Kälte- und Schallschutzisoliererin
 
@@ -16064,13 +15778,6 @@ vertiefen.
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-
-
-
-
-
-
 ### Anlage 12 (zu § 64) Ausbildungsrahmenplan für die Berufsausbildung zum Trockenbaumonteur/zur Trockenbaumonteurin
 
 (Fundstelle: BGBl. I 1999, 1214 - 1216)
@@ -16410,13 +16117,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 13 (zu § 69) Ausbildungsrahmenplan für die Berufsausbildung zum Straßenbauer/zur Straßenbauerin
 
@@ -16771,13 +16471,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 14 (zu § 74) Ausbildungsrahmenplan für die Berufsausbildung zum Rohrleitungsbauer/zur Rohrleitungsbauerin
 
@@ -17135,13 +16828,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 15 (zu § 79) Ausbildungsrahmenplan für die Berufsausbildung zum Kanalbauer/zur Kanalbauerin
 
@@ -17501,13 +17187,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 16 (zu § 84) Ausbildungsrahmenplan für die Berufsausbildung zum Brunnenbauer/zur Brunnenbauerin
 
@@ -17936,13 +17615,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 17 (zu § 89) Ausbildungsrahmenplan für die Berufsausbildung zum Spezialtiefbauer/zur Spezialtiefbauerin
 
@@ -18385,13 +18057,6 @@ vertiefen.
 
 *    *
         \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-
-
-
-
-
-
-
 
 ### Anlage 18 (zu § 94) Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
 

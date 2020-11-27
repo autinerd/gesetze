@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 107 G v. 29.10.2001 I 2785
 
-
 ## I. - Steuerpflicht, Bemessungsgrundlage
-
-
 
 ### § 1 Unbeschränkte Steuerpflicht
 
@@ -100,7 +97,6 @@ Bundesrepublik Deutschland zustehende Anteil am Festlandsockel, soweit
 dort Naturschätze des Meeresgrundes und des Meeresuntergrundes
 erforscht oder ausgebeutet werden.
 
-
 ### § 2 Beschränkte Steuerpflicht
 
 (1) Beschränkt steuerpflichtig sind
@@ -131,7 +127,6 @@ Aufenthalt, Sitz oder Ort der Geschäftsleitung im Inland eine
 entsprechende Steuerbefreiung für derartiges Vermögen gewährt und daß
 das Bundesministerium für Verkehr, Bau- und Wohnungswesen die
 Steuerbefreiung für verkehrspolitisch unbedenklich erklärt hat.
-
 
 ### § 3 Befreiungen
 
@@ -417,7 +412,6 @@ Steuerbefreiung für verkehrspolitisch unbedenklich erklärt hat.
 (2) Die Befreiungen nach Absatz 1 sind auf beschränkt Steuerpflichtige
 (§ 2) nicht anzuwenden.
 
-
 ### § 4 Bemessungsgrundlage
 
 (1) Der Vermögensteuer unterliegt
@@ -435,7 +429,6 @@ Steuerbefreiung für verkehrspolitisch unbedenklich erklärt hat.
 (2) Der Wert des Gesamtvermögens oder des Inlandsvermögens wird auf
 volle tausend Deutsche Mark nach unten abgerundet.
 
-
 ### § 5 Stichtag für die Festsetzung der Vermögensteuer, Entstehung der Steuer
 
 (1) Die Vermögensteuer wird nach den Verhältnissen zu Beginn des
@@ -444,10 +437,7 @@ Kalenderjahrs (Veranlagungszeitpunkt, §§ 15 bis 17) festgesetzt.
 (2) Die Steuer entsteht mit Beginn des Kalenderjahrs, für das die
 Steuer festzusetzen ist.
 
-
 ## II. - Steuerberechnung
-
-
 
 ### § 6 Freibeträge für natürliche Personen
 
@@ -472,7 +462,6 @@ veranlagten Steuerpflichtigen, bei denen die Voraussetzungen des
 Satzes 1 vorliegen, vervielfacht.
 
 (4)
-
 
 ### § 7 Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
 
@@ -514,7 +503,6 @@ Wirtschaftsgenossenschaften sowie für inländische Vereine, die eine
 gemeinschaftliche Tierhaltung im Sinne des § 51a des
 Bewertungsgesetzes betreiben.
 
-
 ### § 8 Besteuerungsgrenze bei Körperschaften und bei beschränkt Steuerpflichtigen
 
 (1) Von den unbeschränkt steuerpflichtigen Körperschaften,
@@ -525,7 +513,6 @@ mindestens 20.000 Deutsche Mark beträgt.
 (2) Von den beschränkt Steuerpflichtigen wird die Vermögensteuer nur
 erhoben, wenn das Inlandsvermögen (§ 4) mindestens 20.000 Deutsche
 Mark beträgt.
-
 
 ### § 9 Steuerpflichtiges Vermögen
 
@@ -550,10 +537,6 @@ Steuerpflichtiges Vermögen ist
 2.  bei beschränkt Steuerpflichtigen mit mindestens 20.000 Deutsche Mark
     Inlandsvermögen das Inlandsvermögen (§ 4).
 
-
-
-
-
 ### § 10 Steuersatz
 
 Die Vermögensteuer beträgt jährlich
@@ -569,10 +552,6 @@ Die Vermögensteuer beträgt jährlich
 2.  für die in § 1 Abs. 1 Nr. 2 und § 2 Abs. 1 Nr. 2 bezeichneten
     Körperschaften, Personenvereinigungen und Vermögensmassen 0,6 vom
     Hundert des steuerpflichtigen Vermögens.
-
-
-
-
 
 ### § 11 Anrechnung ausländischer Steuern
 
@@ -619,7 +598,6 @@ eines beschränkt Steuerpflichtigen gehört, entsprechend anzuwenden,
 soweit darin nicht Vermögen enthalten ist, mit dem der beschränkt
 Steuerpflichtige dort in einem der unbeschränkten Steuerpflicht
 ähnlichen Umfang zu einer Steuer vom Vermögen herangezogen wird.
-
 
 ### § 12 Steuerermäßigung bei Auslandsvermögen
 
@@ -670,7 +648,6 @@ zweckmäßig oder die Anwendung von § 11 Abs. 1 besonders schwierig ist.
 
 (4)
 
-
 ### § 13 Pauschbesteuerung bei beschränkter Steuerpflicht
 
 Die obersten Finanzbehörden der Länder oder die von ihnen beauftragten
@@ -680,10 +657,7 @@ zum Teil erlassen oder in einem Pauschbetrag festsetzen, wenn es aus
 volkswirtschaftlichen Gründen zweckmäßig oder die Ermittlung der
 Vermögensteuer besonders schwierig ist.
 
-
 ## III. - Veranlagung
-
-
 
 ### § 14 Zusammenveranlagung
 
@@ -724,10 +698,6 @@ veranlagt
 2.  mit Kindern, wenn diese wegen körperlicher, geistiger oder seelischer
     Behinderung dauernd außerstande sind, sich selbst zu unterhalten.
 
-
-
-
-
 ### § 15 Hauptveranlagung
 
 (1) Die Vermögensteuer wird für drei Kalenderjahre allgemein
@@ -745,7 +715,6 @@ abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der
 Verhältnisse des Hauptveranlagungszeitpunkts mit Wirkung für einen
 späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist
 noch nicht abgelaufen ist.
-
 
 ### § 16 Neuveranlagung
 
@@ -793,7 +762,6 @@ Entscheidung eines obersten Gerichts des Bundes liegen.
 Der Beginn des maßgebenden Kalenderjahrs ist der
 Neuveranlagungszeitpunkt. § 15 Abs. 3 ist entsprechend anzuwenden.
 
-
 ### § 17 Nachveranlagung
 
 (1) Die Vermögensteuer wird nachträglich festgesetzt
@@ -815,7 +783,6 @@ Neuveranlagungszeitpunkt. § 15 Abs. 3 ist entsprechend anzuwenden.
 der dem maßgebenden Ereignis folgt. Der Beginn dieses Kalenderjahrs
 ist der Nachveranlagungszeitpunkt. § 15 Abs. 3 ist entsprechend
 anzuwenden.
-
 
 ### § 18 Aufhebung der Veranlagung
 
@@ -845,7 +812,6 @@ so ist die Veranlagung aufzuheben.
 
 Der Beginn des maßgebenden Kalenderjahrs ist der Aufhebungszeitpunkt.
 § 15 Abs. 3 ist entsprechend anzuwenden.
-
 
 ### § 19 Pflicht zur Abgabe von Vermögensteuererklärungen
 
@@ -893,10 +859,7 @@ zur Hauptveranlagung oder zu einer anderen Veranlagung besonders auf
 (§ 149 Abs. 1 Satz 2 der Abgabenordnung), hat sie eine besondere Frist
 zu bestimmen, die mindestens einen Monat betragen soll.
 
-
 ## IV. - Steuerentrichtung
-
-
 
 ### § 20 Entrichtung der Jahressteuer
 
@@ -907,7 +870,6 @@ November zu entrichten.
 
 (2) Von der Festsetzung der Vermögensteuer ist abzusehen, wenn die
 Jahressteuer den Betrag von 50 Deutsche Mark nicht übersteigt.
-
 
 ### § 21 Vorauszahlungen
 
@@ -923,7 +885,6 @@ November zu entrichten.
 
 (3) Das Finanzamt kann die Vorauszahlungen der Steuer anpassen, die
 sich für das Kalenderjahr voraussichtlich ergeben wird.
-
 
 ### § 22 Abrechnung über die Vorauszahlungen
 
@@ -946,7 +907,6 @@ ausgeglichen.
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Steuerbescheid
 aufgehoben oder geändert wird.
 
-
 ### § 23 Nachentrichtung der Steuer
 
 Hatte der Steuerpflichtige bis zur Bekanntgabe der Jahressteuer keine
@@ -955,10 +915,7 @@ sich nach dem bekanntgegebenen Steuerbescheid für die vorangegangenen
 Fälligkeitstage ergibt (§ 20), innerhalb eines Monats nach Bekanntgabe
 des Steuerbescheids zu entrichten.
 
-
 ## V. - Schlußvorschriften
-
-
 
 ### § 24 Neufassung
 
@@ -968,11 +925,9 @@ unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen
 und dabei offenbare Unrichtigkeiten und Unstimmigkeiten im Wortlaut zu
 beseitigen.
 
-
 ### § 24a
 
 -
-
 
 ### § 24b Verzicht auf die Vermögensteuer der umgewandelten ehemaligen volkseigenen Kombinate, Betriebe und Einrichtungen für das zweite Halbjahr 1990
 
@@ -987,7 +942,6 @@ Betriebe und Einrichtungen im 2. Halbjahr 1990 vom 27. Juni 1990 (GBl.
 I Nr. 41 S. 618) sind nicht anzuwenden, soweit dort Regelungen zur
 Festsetzung und Erhebung der Vermögensteuer für das zweite Halbjahr
 1990 getroffen worden sind.
-
 
 ### § 24c Zeitlich befristete Sondervorschrift für die Besteuerung nach dem Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
@@ -1050,10 +1004,6 @@ Artikel 3 des Einigungsvertrages genannten Gebiet folgendes:
     121 des Bewertungsgesetzes genannten Art, das auf das Inland mit
     Ausnahme des in Artikel 3 des Einigungsvertrages genannten Gebietes
     entfällt.
-
-
-
-
 
 ### § 25 Anwendung des Gesetzes
 

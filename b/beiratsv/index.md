@@ -18,19 +18,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 29 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des § 44 Abs. 1 des Bundesausbildungsförderungsgesetzes vom
 26\. August 1971 (Bundesgesetzbl. I S. 1409) wird mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## § 1 Errichtung des Beirates
 
 Bei dem Bundesministerium für Bildung und Forschung wird ein Beirat
 für Ausbildungsförderung errichtet.
-
 
 ## § 2 Mitglieder des Beirates
 
@@ -62,10 +59,6 @@ Dem Beirat gehören an
 
 9.  ein Vertreter des Deutschen Studentenwerkes e.V..
 
-
-
-
-
 ## § 3 Berufung und Dauer der Mitgliedschaft
 
 (1) Die Mitglieder des Beirates werden von dem Bundesministerium für
@@ -81,30 +74,25 @@ dessen Mitgliedschaft vorzeitig beenden, wenn sich die Verhältnisse
 wesentlich verändert haben, die für die Berufung in den Beirat
 maßgebend waren.
 
-
 ## § 4 Aufgaben des Beirates
 
 Der Beirat berät das Bundesministerium für Bildung und Forschung nach
 Maßgabe des § 44 Abs. 1 des Gesetzes durch gutachtliche
 Stellungnahmen.
 
-
 ## § 5 Geschäftsordnung
 
 Der Beirat gibt sich eine Geschäftsordnung, die der Zustimmung des
 Bundesministeriums für Bildung und Forschung bedarf.
-
 
 ## § 6 Geschäftsführung
 
 Die Geschäfte des Beirates führt das Bundesministerium für Bildung und
 Forschung.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

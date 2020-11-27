@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 38 Abs. 7 V v. 16.12.2011; 2012 I 2 (1717)
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -42,10 +41,6 @@ Auf Grund
 -   des § 3 Abs. 5 Satz 2 des Binnenschiffahrtsaufgabengesetzes verordnet
     das Bundesministerium für Verkehr im Einvernehmen mit dem
     Bundesministerium für Arbeit und Sozialordnung:
-
-
-
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -104,10 +99,6 @@ Im Sinne dieser Verordnung sind
     "Wasserscooter", "Jetbike" oder "Jetski" bezeichnet werden, und
     sonstige gleichartige Fahrzeuge.
 
-
-
-
-
 ## § 2 Sonstige anwendbare Vorschriften
 
 Sofern in dieser Verordnung nichts Abweichendes bestimmt ist, gelten
@@ -133,7 +124,6 @@ für das Fahren mit Wassermotorrädern
 
 
 in ihrer jeweils geltenden Fassung.
-
 
 ## § 3 Wassermotorradfahren
 
@@ -166,7 +156,6 @@ eingehalten wird.
 des Wassermotorrads kein anderer gefährdet oder mehr als nach den
 Umständen unvermeidbar behindert oder belästigt werden.
 
-
 ## § 4 Wassermotorradflächen
 
 (1) Auf den durch das Tafelzeichen E.22 freigegebenen Wasserflächen
@@ -188,13 +177,11 @@ an.
 freigegebenen Wasserflächen wird vom Bundesministerium für Verkehr,
 Bau und Stadtentwicklung im Verkehrsblatt veröffentlicht.
 
-
 ## § 5 Zuwasserlassen, Herausnehmen aus dem Wasser
 
 Wassermotorräder dürfen nur auf befestigten Zugängen, wie Slipanlagen
 oder Rampen, oder mittels geeigneter Kranvorrichtungen zu Wasser
 gelassen oder aus dem Wasser herausgenommen werden.
-
 
 ## § 6 Beschränkungen
 
@@ -225,7 +212,6 @@ beziehen.
 zulassen, daß das Wassermotorrad unter Verletzung der in Absatz 1
 genannten Verpflichtungen geführt wird.
 
-
 ## § 7 Übertragung von Befugnissen
 
 Die Wasser- und Schiffahrtsdirektionen werden ermächtigt, durch
@@ -246,10 +232,6 @@ Regelungen zu treffen, insbesondere
     Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880), zuletzt geändert
     durch Artikel 2 Abs. 5 des Gesetzes vom 23. November 1994 (BGBl. I S.
     3486), nicht hervorgerufen werden.
-
-
-
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -283,14 +265,9 @@ fahrlässig
 2.  als Eigentümer eines Wassermotorrades entgegen § 6 Abs. 2 anordnet
     oder zuläßt, daß der Fahrzeugführer ein Wassermotorrad führt.
 
-
-
-
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 10 Inkrafttreten
 

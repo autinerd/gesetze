@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1535
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 80 Abs. 9 und 10 des Gesetzes gegen
@@ -26,10 +24,7 @@ Vorschriften vom 22. Juli 1969 (Bundesgesetzbl. I S. 901) und der
 Bekanntmachung vom 3. Januar 1966 (Bundesgesetzbl. I S. 37) verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Erster Abschnitt - Kosten der Kartellbehörden
-
-
 
 ### § 1
 
@@ -44,7 +39,6 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (Bundesgesetzbl. I S.
 kann auch verlangt werden, wenn Gebührenfreiheit besteht oder von der
 Gebührenerhebung abgesehen wird.
 
-
 ### § 2
 
 (1) Die Gebührenschuld entsteht, soweit ein Antrag oder eine Anmeldung
@@ -55,7 +49,6 @@ gebührenpflichtigen Handlung.
 (2) Die Verpflichtung zur Erstattung von Auslagen entsteht mit der
 Aufwendung des zu erstattenden Betrages.
 
-
 ### § 3
 
 Wegen irrigen Ansatzes dürfen Kosten nur nachgefordert werden, wenn
@@ -63,7 +56,6 @@ der berichtigte Ansatz dem Kostenschuldner in dem Kalenderjahr, in dem
 die in der Sache ergangene Entscheidung unanfechtbar geworden ist oder
 das Verfahren sich anderweitig erledigt hat, oder im folgenden
 Kalenderjahr mitgeteilt worden ist.
-
 
 ### § 4
 
@@ -94,7 +86,6 @@ schriftlich zu bestätigen. Soweit sie schriftlich ergeht oder
 schriftlich bestätigt wird, ist auch die Rechtsgrundlage für die
 Erhebung der Kosten sowie deren Berechnung anzugeben.
 
-
 ### § 5
 
 (1) Mit dem Ablauf der in § 80 Abs. 8 des Gesetzes bestimmten
@@ -123,7 +114,6 @@ aus ihr nicht vor Ablauf von sechs Monaten, nachdem die
 Kostenentscheidung unanfechtbar geworden ist oder das Verfahren sich
 auf andere Weise erledigt hat.
 
-
 ### § 6
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu
@@ -137,7 +127,6 @@ nicht bis zum Ablauf des vierten Kalenderjahres geltend gemacht wird,
 das auf die Entstehung des Anspruchs folgt; die Verjährung beginnt
 jedoch nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
-
 ### § 7
 
 (1) Kostenentscheidungen der Kartellbehörden und Anforderungen von
@@ -149,10 +138,7 @@ des Gesetzes.
 Kostenforderung auf Antrag des Kostenschuldners gestundet werden, bis
 die Kostenentscheidung unanfechtbar geworden ist.
 
-
 ## Zweiter Abschnitt - Erstattung von Kosten durch Beteiligte
-
-
 
 ### § 8
 
@@ -176,7 +162,6 @@ entsprechende Anwendung.
 der Kosten nach Absatz 2 sind Verfügungen im Sinne des § 62 Abs. 1 des
 Gesetzes.
 
-
 ### § 9
 
 Aus der Festsetzung der Kosten nach § 8 Abs. 2 findet die
@@ -191,17 +176,13 @@ wenn der Streitgegenstand die Zuständigkeit des Amtsgerichts
 übersteigt, das Landgericht, in dessen Bezirk die Kartellbehörde ihren
 Sitz hat, an die Stelle des Prozeßgerichts.
 
-
 ## Dritter Abschnitt - Schlußbestimmungen
-
-
 
 ### § 10
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 107 des
 Gesetzes auch im Land Berlin.
-
 
 ### § 11
 

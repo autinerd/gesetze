@@ -29,7 +29,6 @@ Tarifverträgen in der Branche mit zumindest teilweise demselben
 fachlichen Geltungsbereich Gelegenheit zur schriftlichen Stellungnahme
 gegeben hat:
 
-
 ## § 1 Zwingende Arbeitsbedingungen
 
 Die in der Anlage zu dieser Verordnung aufgeführten Rechtsnormen des
@@ -59,12 +58,10 @@ fallen, so hat der Verleiher ihm oder ihr nach § 8 Absatz 3 des
 Arbeitnehmer-Entsendegesetzes zumindest die nach dieser Verordnung
 vorgeschriebenen Arbeitsbedingungen zu gewähren.
 
-
 ## § 2 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2012 in Kraft und am 30. April 2013
 außer Kraft.
-
 
 ## Anlage (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk vom 25. November 2011 in der Fassung des Änderungstarifvertrags vom 8. Februar 2012 (TV Mindestlohn)
 

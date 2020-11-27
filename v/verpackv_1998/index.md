@@ -28,7 +28,6 @@ durch die Richtlinie 94/10/EG des Europäischen Parlaments und des
 Rates vom 23. März 1994 (ABl. EG Nr. L 100 S. 30), sind beachtet
 worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Satz 4, des § 23 Nr. 1, 2 und 6, des § 24
@@ -38,10 +37,7 @@ des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994
 (BGBl. I S. 2705) verordnet die Bundesregierung nach Anhörung der
 beteiligten Kreise unter Berücksichtigung der Rechte des Bundestages:
 
-
 ## Abschnitt I - Abfallwirtschaftliche Ziele, Anwendungsbereich und Begriffsbestimmungen
-
-
 
 ### § 1 Abfallwirtschaftliche Ziele
 
@@ -87,7 +83,6 @@ Verwertung oder die stoffliche Verwertung unter Bedingungen erfolgt
 ist, die im Wesentlichen denen entsprechen, die in den einschlägigen
 Gemeinschaftsvorschriften vorgesehen sind.
 
-
 ### § 2 Anwendungsbereich
 
 (1) Die Verordnung gilt für alle im Geltungsbereich des
@@ -106,7 +101,6 @@ oder von Verpackungsabfällen bestehen, bleiben diese unberührt.
 Nutzung ihrer Einrichtungen oder Grundstücke sowie der Sondernutzung
 öffentlicher Straßen zur Vermeidung und Verwertung von Abfällen zu
 verpflichten, bleibt unberührt.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -248,10 +242,7 @@ Abfuhrrhythmus entsorgt werden können.
 
 (12) (weggefallen)
 
-
 ## Abschnitt II - Rücknahme-, Pfanderhebungs- und Verwertungspflichten
-
-
 
 ### § 4 Rücknahmepflichten für Transportverpackungen
 
@@ -267,7 +258,6 @@ ein Markt vorhanden ist oder geschaffen werden kann. Bei
 Transportverpackungen, die unmittelbar aus nachwachsenden Rohstoffen
 herstellt sind, ist die energetische Verwertung der stofflichen
 Verwertung gleichgestellt.
-
 
 ### § 5 Rücknahmepflichten für Umverpackungen
 
@@ -296,7 +286,6 @@ einzelner Wertstoffgruppen sicherzustellen, soweit dies ohne
 Kennzeichnung möglich ist. Der Vertreiber ist verpflichtet,
 Umverpackungen einer erneuten Verwendung oder einer stofflichen
 Verwertung zuzuführen. § 4 Abs. 2 gilt entsprechend.
-
 
 ### § 6 Pflicht zur Gewährleistung der flächendeckenden Rücknahme von Verkaufsverpackungen, die beim privaten Endverbraucher anfallen
 
@@ -494,7 +483,6 @@ bleibt unberührt.
 
 (10) Diese Vorschrift gilt nicht für Mehrwegverpackungen.
 
-
 ### § 7 Rücknahmepflichten für Verkaufsverpackungen, die nicht beim privaten Endverbraucher anfallen
 
 (1) Letztvertreiber von Verkaufsverpackungen, die nicht beim privaten
@@ -515,7 +503,6 @@ Verwertung zuzuführen. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
 (3) Hersteller und Vertreiber nach den Absätzen 1 und 2 können bei der
 Erfüllung ihrer Pflichten nach dieser Verordnung zusammenwirken.
-
 
 ### § 8 Rücknahmepflichten für Verkaufsverpackungen schadstoffhaltiger Füllgüter
 
@@ -542,7 +529,6 @@ Dokumentation ist der für den Vollzug des Abfallrechts zuständigen
 Behörde, auf deren Gebiet der Hersteller oder Vertreiber ansässig ist,
 auf Verlangen vorzulegen. Anhang I Nr. 4 Satz 13 und 14 gilt
 entsprechend.
-
 
 ### § 9 Pfanderhebungs- und Rücknahmepflicht für Einweggetränkeverpackungen
 
@@ -628,7 +614,6 @@ Einweggetränkeverpackungen sowie von Einweggetränkeverpackungen, die
 nach Absatz 2 keiner Pfandpflicht unterliegen, sind verpflichtet, sich
 an einem System nach § 6 Abs. 3 zu beteiligen, soweit es sich um
 Verpackungen handelt, die beim privaten Endverbraucher anfallen.
-
 
 ### § 10 Vollständigkeitserklärung für Verkaufsverpackungen, die in den Verkehr gebracht werden
 
@@ -716,7 +701,6 @@ dem Verhältnis der Anzahl der von ihnen nach Absatz 6 jeweils
 übermittelten Systembeteiligungen. Die Systeme nach § 6 Abs. 3 haften
 insoweit gesamtschuldnerisch.
 
-
 ### § 11 Beauftragung Dritter
 
 Hersteller und Vertreiber können sich zur Erfüllung ihrer Pflichten
@@ -725,10 +709,7 @@ und die Erstattung von Pfandbeträgen kann auch über Automaten
 erfolgen. § 22 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes gilt
 entsprechend.
 
-
 ## Abschnitt III - Herstellen, Inverkehrbringen und Kennzeichnen von Verpackungen
-
-
 
 ### § 12 Allgemeine Anforderungen
 
@@ -747,10 +728,6 @@ Verpackungen sind so herzustellen und zu vertreiben, daß
 3.  schädliche und gefährliche Stoffe und Materialien bei der Beseitigung
     von Verpackungen oder Verpackungsbestandteilen in Emissionen, Asche
     oder Sickerwasser auf ein Mindestmaß beschränkt sind.
-
-
-
-
 
 ### § 13 Konzentration von Schwermetallen
 
@@ -777,7 +754,6 @@ und Chrom VI kumulativ 100 Milligramm je Kilogramm nicht
 die die Bedingungen des Anhangs III erfüllen, ein Grenzwert von 250
 Milligramm je Kilogramm.
 
-
 ### § 14 Kennzeichnung
 
 Verpackungen können zur Identifizierung des Materials mit den im
@@ -785,10 +761,7 @@ Anhang IV festgelegten Nummern und Abkürzungen gekennzeichnet werden.
 Die Verwendung anderer Nummern und Abkürzungen zur Identifizierung der
 gleichen Materialien ist nicht zulässig.
 
-
 ## Abschnitt IV - Ordnungswidrigkeiten, Übergangs- und Schlußbestimmungen
-
-
 
 ### § 15 Ordnungswidrigkeiten
 
@@ -941,10 +914,6 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 14. entgegen § 10 Absatz 6 Satz 1 eine Information nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig hinterlegt.
 
-
-
-
-
 ### § 16 Übergangsvorschriften
 
 (1) Verpackungen, die vor dem Inkrafttreten der Verordnung für eine
@@ -978,16 +947,13 @@ Endverbraucher anfallen.
 erstmals zum 1. Mai 2009 für die im Jahr 2008 ab dem 5. April 2008 in
 Verkehr gebrachten Verpackungen zu hinterlegen ist.
 
-
 ### § 17
 
 (weggefallen)
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang I (zu § 6)
 
@@ -1222,10 +1188,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     und Vertreibern mit mehreren Filialbetrieben die Gesamtfläche aller
     Betriebe.
 
-
-
-
-
 ### Anhang II (zu § 13 Abs. 2) Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
 
 ( Fundstelle des Originaltextes: BGBl. I 2000, 1344 - 1345;
@@ -1322,7 +1284,6 @@ Geltungsbereich der Verordnung niedergelassen, so geht die
 Verpflichtung zur Bereithaltung dieser Unterlagen auf denjenigen über,
 der das Produkt im Geltungsbereich der Verordnung in Verkehr bringt.
 
-
 ### Anhang III (zu § 13 Abs. 3) Festlegung der Bedingungen, unter denen der in § 13 Abs. 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 1572 - 1573;
@@ -1370,7 +1331,6 @@ zuständigen Behörde auf Verlangen vorzulegen.
 Geltungsbereich der Verordnung niedergelassen, so gehen die
 Verpflichtungen aus den Absätzen 1 und 2 auf denjenigen über, der das
 Produkt im Geltungsbereich der Verordnung in Verkehr bringt.
-
 
 ### Anhang IV (zu § 14)
 
@@ -2129,10 +2089,6 @@ Gegenstände, die als Teil der Verpackung gelten:
 
 -   Dosierhilfe als Bestandteil des Verpackungsverschlusses von
     Waschmitteln
-
-
-
-
 
 ### Anhang VI (zu § 10 Abs. 5)
 

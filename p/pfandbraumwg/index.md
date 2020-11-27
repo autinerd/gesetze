@@ -15,13 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 2310
 
-
-
 ## § 1 Umwandlung
 
 Die Deutsche Pfandbriefanstalt kann in eine Aktiengesellschaft
 umgewandelt werden.
-
 
 ## § 2 Umwandlungsbeschluß
 
@@ -33,7 +30,6 @@ die mindestens zwei Drittel der vertretenen Stammeinlagen umfaßt.
 (2) Der Beschluß bedarf der Genehmigung des Bundesministers der
 Finanzen.
 
-
 ## § 3 Gründer der Aktiengesellschaft
 
 (1) Als Gründer der Aktiengesellschaft gelten die Anteilseigner der
@@ -43,13 +39,11 @@ Deutschen Pfandbriefanstalt.
 
 (2) § 383 des Aktiengesetzes ist entsprechend anzuwenden.
 
-
 ## § 4 Satzungsfeststellung
 
 Die Satzung der Aktiengesellschaft wird durch Beschluß der
 Hauptversammlung der Deutschen Pfandbriefanstalt festgestellt. § 2
 Abs. 1 Satz 2 und 3 ist anzuwenden.
-
 
 ## § 5 Gewährleistung für Altverpflichtungen
 
@@ -60,7 +54,6 @@ Handelsgesetzbuchs als bekanntgemacht gilt. Die Gläubiger der
 Aktiengesellschaft können den Bund nur in Anspruch nehmen, soweit sie
 aus dem Vermögen der Aktiengesellschaft nicht befriedigt werden
 können.
-
 
 ## § 6 Sonstige Übergangsvorschriften
 
@@ -115,17 +108,14 @@ Immobilienfonds nicht anzuwenden.
 vorläufige Übernahme von Aktien durch den Ausgleichsfonds nach § 3
 Abs. 1 nicht berührt.
 
-
 ## § 7
 
 -
-
 
 ## § 8 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## § 9 Inkrafttreten
 

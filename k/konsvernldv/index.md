@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2183
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch
@@ -25,7 +24,6 @@ Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010
 9 Satz 1 des Einführungsgesetzes zur Abgabenordnung, der durch Artikel
 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
 angefügt worden ist, verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Abkommen
 
@@ -38,7 +36,6 @@ zur Regelung anderer Fragen auf steuerlichem Gebiete vom 16. Juni 1959
 Juni 2004 (BGBl. 2004 II S. 1653, 1655) geändert worden ist, in der
 jeweils geltenden Fassung.
 
-
 ## § 2 Anwendungsbereich
 
 Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf
@@ -46,7 +43,6 @@ die Umsetzung entsprechender Konsultationsvereinbarungen im Sinn des §
 2 Absatz 2 Satz 2 der Abgabenordnung, die von den obersten
 Finanzbehörden im Sinn des Artikels 2 Absatz 1 Nummer 3 des Abkommens
 getroffen worden sind, richtet sich nach dieser Verordnung.
-
 
 ## § 3 Territorialer Geltungsbereich des Abkommens
 
@@ -58,7 +54,6 @@ unter der Nordsee gelegenen Teil des Meeresgrundes und des
 Meeresuntergrundes, soweit die beiden Staaten auf Grund
 internationalen Rechts über Hoheitsrechte in Bezug auf die Erforschung
 und Ausbeutung der Naturschätze in diesem Gebiet verfügen.
-
 
 ## § 4 Anwendung des Artikels 10 des Abkommens
 
@@ -76,7 +71,6 @@ Artikel 10 des Abkommens anzuwenden. Wird die Tätigkeit in einem
 Drittstaat ausgeübt, können die Vergütungen im Wohnsitzstaat besteuert
 werden, es sei denn, das Besteuerungsrecht wird auf Grund eines mit
 dem Drittstaat bestehenden Abkommens diesem zugewiesen.
-
 
 ## § 5 Aufteilung der Gewinne land- und forstwirtschaftlicher Betriebe mit Grundstücken im jeweils anderen Staat
 
@@ -112,7 +106,6 @@ Regel
 Sollten diese Berechnungen nachweislich zu Unbilligkeiten führen, kann
 hiervon abgewichen werden.
 
-
 ## § 6 Besteuerung der Gewinne von in den Niederlanden ansässigen Blumenhändlern mit Umsätzen in Deutschland
 
 (1) Der Arbeitnehmer (Fahrer) eines in den Niederlanden ansässigen
@@ -142,7 +135,6 @@ die deutsche Betriebstätte für diejenigen Jahre auf der Grundlage
 einer gesonderten Betriebstättenbuchführung vorzunehmen, für die eine
 solche vorliegt.
 
-
 ## § 7 Abfindungen an Arbeitnehmer
 
 (1) Für Abfindungen, die hauptsächlich für das vorzeitige Ausscheiden
@@ -171,17 +163,14 @@ Erlangung von Vorteilen aus ihren Bestimmungen bezweckt wird, nach
 gehöriger Konsultation der zuständigen Behörde des anderen Staates,
 nicht anzuwenden.
 
-
 ## § 8 Anwendungsregelung
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1.
 Januar 2010 anzuwenden.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

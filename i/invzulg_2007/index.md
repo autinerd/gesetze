@@ -43,7 +43,6 @@ dieses Gesetz nur anzuwenden bei Investitionen, die zu
 Erstinvestitionsvorhaben gehören, die der Anspruchsberechtigte vor dem
 1\. Januar 2007 begonnen hat.
 
-
 ## § 2 Begünstigte Investitionen
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung
@@ -210,10 +209,6 @@ Wirtschaftsgütern bei
     worden wäre, wenn der Betrieb nicht übernommen worden wäre und wenn
     die Übernahme durch einen unabhängigen Investor erfolgt.
 
-
-
-
-
 ## § 3 Investitionszeitraum
 
 (1) Investitionen sind begünstigt, wenn sie zu einem
@@ -274,7 +269,6 @@ Aufnahme von Bauarbeiten. Investitionen sind in dem Zeitpunkt
 abgeschlossen, in dem die Wirtschaftsgüter angeschafft oder
 hergestellt sind.
 
-
 ## § 4 Bemessungsgrundlage
 
 Bemessungsgrundlage der Investitionszulage ist die Summe der
@@ -301,7 +295,6 @@ entstandene Teilherstellungskosten und Anschaffungskosten für vor dem
 1\. Januar 2007 erfolgte Teillieferungen gelten nur, soweit ein
 Anspruch auf Investitionszulage nach dem Investitionszulagengesetz
 2005 besteht.
-
 
 ## § 5 Höhe der Investitionszulage
 
@@ -351,7 +344,6 @@ Empfehlung der Kommission vom 6. Mai 2003 erfüllt, auf
 
 
 Absatz 1 Satz 2 gilt entsprechend.
-
 
 ## § 5a Begünstigte Investitionen, Investitionszeitraum und Höhe der Investitionszulage in dem nicht zum Fördergebiet im Sinne des § 1 Abs. 2 gehörenden Teil des Landes Berlin
 
@@ -445,7 +437,6 @@ Auflage obliegt dem jeweils anderen Beihilfegeber.
 (6) §§ 4, 6 bis 9, 10 Abs. 3 und 4 sowie §§ 11 bis 14 gelten
 sinngemäß.
 
-
 ## § 6 Antrag auf Investitionszulage
 
 (1) Der Antrag ist bei dem für die Besteuerung des
@@ -461,7 +452,6 @@ sind die Investitionen, für die eine Investitionszulage beansprucht
 wird, so genau zu bezeichnen, dass ihre Feststellung bei einer
 Nachprüfung möglich ist.
 
-
 ## § 7 Gesonderte Feststellung
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach
@@ -471,7 +461,6 @@ Investitionszulage für Wirtschaftsgüter, die zum Anlagevermögen dieses
 Betriebs gehören, von dem für die gesonderte Feststellung zuständigen
 Finanzamt gesondert festzustellen. Die für die Feststellung
 erforderlichen Angaben sind in den Antrag nach § 6 Abs. 2 aufzunehmen.
-
 
 ## § 8 Einzelnotifizierungspflichten, Genehmigungsvorbehalte und anzuwendende Rechtsvorschriften der Kommission der Europäischen Gemeinschaften
 
@@ -552,14 +541,12 @@ denen die Kommission die Förderfähigkeit ganz oder teilweise
 ausgeschlossen hat (Anlage 2), durch Rechtsverordnung mit Zustimmung
 des Bundesrates anzupassen.
 
-
 ## § 9 Festsetzung und Auszahlung
 
 Die Investitionszulage ist nach Ablauf des Wirtschaftsjahrs oder
 Kalenderjahrs festzusetzen und innerhalb eines Monats nach Bekanntgabe
 des Bescheids aus den Einnahmen an Einkommensteuer oder
 Körperschaftsteuer auszuzahlen.
-
 
 ## § 10 Zusammentreffen mit anderen Regionalbeihilfen
 
@@ -598,7 +585,6 @@ Beihilfehöchstsatzes eintritt.
 für die Feststellung der Voraussetzungen der Absätze 1 bis 3
 erforderlich sind.
 
-
 ## § 11 Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
@@ -610,13 +596,11 @@ Ereignisses an, zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf
 des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden
 ist.
 
-
 ## § 12 Ertragsteuerrechtliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
 Anschaffungs- und Herstellungskosten.
-
 
 ## § 13 Anwendung der Abgabenordnung
 
@@ -626,7 +610,6 @@ rechtlichen Streitigkeiten über die aufgrund dieses Gesetzes
 ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg
 gegeben.
 
-
 ## § 14 Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des
@@ -635,18 +618,15 @@ der Begünstigung einer Person, die eine solche Straftat begangen hat,
 gelten die Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
 
-
 ## § 15 Bekanntmachungserlaubnis
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum
 bekannt zu machen.
 
-
 ## § 16 (Inkrafttreten)
 
 -
-
 
 ## Anlage 1 (zu § 1 Abs. 2)
 
@@ -718,10 +698,6 @@ zum D-Fördergebiet gehören:
 
     *   089 3; 089 4; 089 5; 090 1; 091 2; 092 1; 092 2; 093 1; 093 2; 095 1
 
-
-
-
-
 ## Anlage 2 (zu § 2 Abs. 1 Satz 3)
 
 Fundstelle des Originaltextes: BGBl. I 2007, 287
@@ -767,10 +743,6 @@ Sensible Sektoren sind:
     Anwendung der Artikel 92 und 93 des EG-Vertrages sowie des Artikels 61
     des EWR-Abkommens auf staatliche Beihilfen im Luftverkehr (ABl. EG Nr.
     C 350 S. 5) vom 10. Dezember 1994).
-
-
-
-
 
 ## Anlage 3 (zu § 5 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Satz 1 Nr. 2)
 

@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2104
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -32,7 +30,6 @@ Anspruchs in Angelegenheiten nach den Beihilfevorschriften des Bundes
 zu entscheiden, soweit das Bundesverwaltungsamt für den Erlass des
 Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
-
 ## II.
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes in Verbindung mit § 46 des
@@ -42,13 +39,11 @@ verwaltungsgerichtlichen Verfahren der Beschäftigten der in Abschnitt
 I bezeichneten Einrichtungen in Angelegenheiten nach den
 Beihilfevorschriften des Bundes übertragen.
 
-
 ## III.
 
 Diese Anordnung wird, soweit sie das Bundessozialgericht und das
 Bundesversicherungsamt betrifft, am 1. Juli 2004 und, soweit sie das
 Robert Koch-Institut betrifft, am 15. Juli 2004 wirksam.
-
 
 ## Schlussformel
 

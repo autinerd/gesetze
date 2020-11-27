@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 6 Erlass v. 29. 1.1979 I 142
 
-
 ## Art 1
 
 Der Verdienstorden der Bundesrepublik Deutschland wird vom
 Bundespräsidenten verliehen und kann als Zeichen der allgemeinen
 Anerkennung in Form eines Ordenszeichens getragen werden.
-
 
 ## Art 2
 
@@ -48,7 +46,6 @@ werden.
 
 (3) Außerdem wird die Verdienstmedaille verliehen.
 
-
 ## Art 3
 
 (1) Das Ordenszeichen ist ein rot-emailliertes, golden gefaßtes,
@@ -56,7 +53,6 @@ schlankes Kreuz. In seiner Mitte ist der Bundesadler in schwarz auf
 einem runden Schild aufgesetzt.
 
 (2) Das Band des Ordens ist rot mit gold-schwarz-goldenem Saum.
-
 
 ## Art 4
 
@@ -121,7 +117,6 @@ Bundesrepublik Deutschland wird die früher verliehene Ordensstufe
 nicht abgelegt; jedoch wird nur ein Schulterband und ein Stern
 getragen.
 
-
 ## Art 5
 
 (1) Vorschlagsberechtigt für die Verleihung des Verdienstordens sind
@@ -161,7 +156,6 @@ getragen.
 (2) Die Vorschläge sind dem Chef des Bundespräsidialamtes zuzuleiten,
 der sie dem Bundespräsidenten zur Entscheidung vorlegt.
 
-
 ## Art 6
 
 (1) Das Großkreuz, das Große Verdienstkreuz mit Stern und Schulterband
@@ -181,7 +175,6 @@ den Bundesminister des Innern oder den Bundesminister des Auswärtigen
 und unter Mitzeichnung durch den Chef des Bundespräsidialamtes
 vollzogen.
 
-
 ## Art 7
 
 (1) Alle Beliehenen erhalten eine Urkunde mit der Unterschrift des
@@ -200,11 +193,9 @@ Auszeichnung unwürdig oder wird ein solches Verhalten nachträglich
 bekannt, so kann ihm die Befugnis zum Tragen des Verdienstordens
 entzogen werden.
 
-
 ## Art 8
 
 Die Geschäfte der Ordenskanzlei nimmt das Bundespräsidialamt wahr.
-
 
 ## Schlußformel
 

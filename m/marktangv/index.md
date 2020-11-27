@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 24.10.2007 I 2498
 
-
 ## Eingangsformel
 
 Auf Grund des § 37i Abs. 1 Satz 3 und 4 und des § 37m Satz 3 und 4 des
@@ -31,20 +30,14 @@ Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt
 für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I
 S. 3), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
 ## Abschnitt 1 - Anwendungsbereich
-
-
 
 ### § 1 Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf Anträge auf Erteilung einer
 Erlaubnis nach § 37i des Wertpapierhandelsgesetzes.
 
-
 ## Abschnitt 2 - Erlaubnisantrag nach § 37i des Wertpapierhandelsgesetzes
-
-
 
 ### § 2 Name und Anschrift
 
@@ -53,7 +46,6 @@ des Betreibers und der jeweiligen Geschäftsleitung enthalten. Bei
 juristischen Personen sind zusätzlich Rechtsform, Sitz sowie
 gegebenenfalls eine Eintragung in einem öffentlichen Handels- oder
 Gewerberegister anzugeben.
-
 
 ### § 3 Zuverlässigkeit der Geschäftsleitung
 
@@ -70,7 +62,6 @@ Geschäftsleiter bisher tätig gewesen sind, und die Angabe der Art der
 jeweiligen Tätigkeit enthalten muss. Die Sätze 1 und 2 gelten auch für
 die Bestellung eines Vertreters, der im Falle der Verhinderung eines
 Geschäftsleiters dessen Funktion ausüben soll.
-
 
 ### § 4 Geschäftsplan
 
@@ -115,10 +106,6 @@ enthalten muss:
     getroffen werden und wie fehlerhafte Handelsabschlüsse erkannt und
     korrigiert werden.
 
-
-
-
-
 ### § 5 Zustellungsbevollmächtigter
 
 Der Antragsteller hat Namen und Anschrift eines Bevollmächtigten im
@@ -127,7 +114,6 @@ Zustellungen der Bundesanstalt für Finanzdienstleistungsaufsicht
 (Bundesanstalt) mit Wirkung für den Antragsteller entgegenzunehmen.
 Die Bevollmächtigung ist durch die Beifügung einer Abschrift der
 entsprechenden Urkunde nachzuweisen.
-
 
 ### § 6 Zuständige Überwachungsstellen und Befugnisse
 
@@ -156,7 +142,6 @@ Aufsicht über den Markt hervorgeht.
 (3) Der Text der Rechtsnormen oder Vereinbarungen, auf denen die
 Befugnisse nach den Absätzen 1 und 2 beruhen, ist beizufügen.
 
-
 ### § 7 Gehandelte Finanzinstrumente
 
 Der Antragsteller hat anzugeben, welche Arten von Finanzinstrumenten
@@ -167,7 +152,6 @@ Finanzinstrumente, die in § 2 des Wertpapierhandelsgesetzes nicht
 gesondert aufgeführt sind, sind mit ihrer Ausstattung und
 Funktionsweise zu beschreiben.
 
-
 ### § 8 Handelsteilnehmer
 
 Dem Antrag ist eine Liste mit Name oder Firma und jeweils der
@@ -175,14 +159,12 @@ Anschrift der Handelsteilnehmer mit Sitz im Inland beizufügen, denen
 ein unmittelbarer Marktzugang gewährt werden soll. Bei juristischen
 Personen sind zusätzlich Rechtsform und Sitz anzugeben.
 
-
 ### § 9 Zusätzliche Angaben und Unterlagen
 
 Die Bundesanstalt kann zusätzliche Angaben und Unterlagen verlangen,
 soweit diese im Rahmen des § 37i Abs. 1 Satz 2 des
 Wertpapierhandelsgesetzes im Einzelfall für die Entscheidung über den
 Antrag erforderlich sind.
-
 
 ### § 10 Form des Antrags
 
@@ -193,24 +175,16 @@ doppelter Ausfertigung zu übersenden. Angaben und Unterlagen nach den
 ist vom Antragsteller jedoch auf Verlangen der Bundesanstalt eine
 deutsche Übersetzung zur Verfügung zu stellen.
 
-
 ## Abschnitt 3 - (weggefallen)
-
-
 
 ### (XXXX) §§ 11 bis 13 (weggefallen)
 
-
-
 ## Abschnitt 4 - Übergangs- und Schlussbestimmungen
-
-
 
 ### § 14 Übergangsbestimmung
 
 Diese Verordnung ist nicht auf Anträge und Anzeigen anzuwenden, die
 bei der Bundesanstalt vor dem 16. Oktober 2004 eingegangen sind.
-
 
 ### § 15 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1971, 1841 (1876)
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -57,14 +55,9 @@ zur zuständigen Stelle für die eigene Behörde sowie für
 
 8.  die Bundesausführungsbehörde für Unfallversicherung.
 
-
-
-
-
 ## II.
 
 Diese Anordnung tritt am Tag nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

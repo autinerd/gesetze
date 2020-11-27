@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2369
 
-
 ## § 1 Wahrung der Finanzstabilität
 
 (1) Die Deutsche Bundesbank trägt im Inland zur Wahrung der Stabilität
@@ -45,7 +44,6 @@ des Finanzsystems (Finanzstabilität) bei, indem sie insbesondere
 (2) Die Befugnisse der Deutschen Bundesbank nach anderen Vorschriften
 bleiben unberührt. § 12 des Gesetzes über die Deutsche Bundesbank gilt
 entsprechend.
-
 
 ## § 2 Ausschuss für Finanzstabilität
 
@@ -141,7 +139,6 @@ sowie über seine Tätigkeit nach diesem Gesetz.
 (10) Der Ausschuss wird durch den Vorsitzenden und bei dessen
 Verhinderung durch dessen Stellvertreter vertreten.
 
-
 ## § 3 Warnungen und Empfehlungen
 
 (1) Der Ausschuss für Finanzstabilität kann in Warnungen an einen
@@ -175,7 +172,6 @@ Empfehlungen veröffentlichen. Über die beabsichtigte Veröffentlichung
 einer Empfehlung hat er den jeweiligen Adressaten vorab zu
 unterrichten und diesem Gelegenheit zur Stellungnahme zu geben.
 
-
 ## § 4 Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
 
 (1) Der Ausschuss für Finanzstabilität arbeitet eng mit dem
@@ -195,7 +191,6 @@ Soweit von Warnungen oder Empfehlungen wesentliche
 grenzüberschreitende Auswirkungen zu erwarten sind, informiert der
 Ausschuss für Finanzstabilität den Europäischen Ausschuss für
 Systemrisiken, bevor er die Warnung oder Empfehlung abgibt.
-
 
 ## § 5 Zusammenarbeit der Deutschen Bundesbank mit der Bundesanstalt
 
@@ -225,7 +220,6 @@ vereinbaren, dass gegenseitig die jeweils bei der anderen Stelle
 gespeicherten Daten im automatisierten Verfahren abgerufen werden
 dürfen. Im Übrigen gilt § 7 Absatz 4 und 5 des Kreditwesengesetzes
 entsprechend.
-
 
 ## § 6 Mitteilungspflichten; Verordnungsermächtigung
 
@@ -270,10 +264,6 @@ sind insbesondere nähere Bestimmungen zu erlassen über
 3.  die näheren Einzelheiten der Erhebung, Verarbeitung und Nutzung
     personenbezogener Daten sowie die Frist für die Löschung oder
     Anonymisierung personenbezogener Daten.
-
-
-
-
 
 ## § 7 Verschwiegenheitspflicht
 

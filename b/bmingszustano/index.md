@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1737
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
@@ -32,7 +30,6 @@ einschließlich der hierzu ergangenen Trennungsgeldverordnung und nach
 den Beihilfevorschriften des Bundes zu entscheiden, soweit es für den
 Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig
 war.
-
 
 ## II.
 
@@ -46,11 +43,9 @@ Trennungsgeldverordnung und nach den Beihilfevorschriften des Bundes
 behält sich vor, im Einzelfall die Prozessvertretung selbst
 wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung wird am 1. Mai 2004 wirksam.
-
 
 ## Schlussformel
 

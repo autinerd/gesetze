@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 4 Abs. 3 G v. 22.9.2005 I 2809
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -31,7 +30,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 August 1980 (BGBl. II S. 941) neu gefaßt wurde, verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## § 1
 
 Die in Anwendung des Protokolls vom 13. April 1962 über die Gründung
@@ -41,7 +39,6 @@ Dezember 1975 zum vorbezeichneten Protokoll (BGBl. 1978 II S. 993)
 gegründete Europäische Schule in München werden auf steuerlichem
 Gebiet vorbehaltlich der nachfolgenden Abweichungen den öffentlichen
 Unterrichtsanstalten in der Bundesrepublik Deutschland gleichgestellt.
-
 
 ## § 2
 
@@ -74,14 +71,12 @@ Bekanntwerden der Minderung zurückzuzahlen. Er kann mit den
 Vergütungsansprüchen auf Grund eines in diesem Zeitraum abgegebenen
 Antrags verrechnet werden.
 
-
 ## § 3
 
 Die Einfuhr von Gegenständen, die ausschließlich für den
 satzungsgemäßen Bedarf der Europäischen Schulen bestimmt sind, ist
 einfuhrumsatzsteuerfrei. Dies gilt nicht für die Einfuhr von
 Lebensmitteln und Tabakerzeugnissen. § 2 Abs. 2 gilt entsprechend.
-
 
 ## § 4
 
@@ -95,7 +90,6 @@ abzuführen. Der abzuführende Steuerbetrag kann aus
 Vereinfachungsgründen durch Anwendung des im Zeitpunkt der Veräußerung
 für die Lieferung des Gegenstands geltenden Steuersatzes (§ 12 des
 Umsatzsteuergesetzes) ermittelt werden. § 2 Abs. 4 gilt entsprechend.
-
 
 ## § 5
 
@@ -120,7 +114,6 @@ vom 5. Oktober 1973 (BGBl. 1976 II S. 649, 826) den von ihm an die
 Europäische Schule in München entsandten Lehrkräften einschließlich
 des Direktors für ihre Tätigkeit an dieser Schule zahlt.
 
-
 ## § 6
 
 Die ausländischen Bediensteten der Europäischen Schulen in Karlsruhe
@@ -129,13 +122,11 @@ unterhaltenen Familienmitglieder unterliegen nicht dem Erfordernis der
 Aufenthaltserlaubnis. Die Bestimmungen über die allgemeine
 Meldepflicht nach den Meldegesetzen der Länder bleiben unberührt.
 
-
 ## § 7
 
 § 2 ist auf Steuerbeträge anzuwenden, denen Lieferungen und sonstige
 Leistungen zugrunde liegen, die nach dem 31. Dezember 1984 bewirkt
 werden.
-
 
 ## § 8
 
@@ -143,7 +134,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes,
 der durch Gesetz vom 28. Februar 1964 (BGBl. II S. 187) neu gefaßt
 wurde, auch im Land Berlin.
-
 
 ## § 9
 

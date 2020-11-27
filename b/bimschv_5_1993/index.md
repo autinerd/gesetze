@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 12 V v. 9.11.2010 I 1504
 
-
 ## Eingangsformel
 
 Aufgrund des § 58a Abs. 1 Satz 2 des Bundes-Immissionsschutzgesetzes
@@ -28,10 +27,7 @@ des § 55 Abs. 2 Satz 3 in Verbindung mit § 58c Abs. 1 dieses Gesetzes
 verordnet das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit, jeweils nach Anhörung der beteiligten Kreise:
 
-
 ## Abschnitt 1 - Bestellung von Beauftragten
-
-
 
 ### § 1 Pflicht zur Bestellung
 
@@ -53,7 +49,6 @@ Gefahr eines Störfalls ausgehen kann.
 Störfallbeauftragten bestellen, soweit hierdurch die sachgemäße
 Erfüllung der Aufgaben nicht beeinträchtigt wird.
 
-
 ### § 2 Mehrere Beauftragte
 
 Die zuständige Behörde kann anordnen, daß der Betreiber einer Anlage
@@ -61,7 +56,6 @@ im Sinne des § 1 mehrere Immissionsschutz- oder Störfallbeauftragte zu
 bestellen hat; die Zahl der Beauftragten ist so zu bemessen, daß eine
 sachgemäße Erfüllung der in den §§ 54 und 58b des Bundes-
 Immissionsschutzgesetzes bezeichneten Aufgaben gewährleistet ist.
-
 
 ### § 3 Gemeinsamer Beauftragter
 
@@ -71,7 +65,6 @@ Störfallbeauftragten bestellen, wenn hierdurch eine sachgemäße
 Erfüllung der in den §§ 54 und 58b des Bundes-Immissionsschutzgesetzes
 bezeichneten Aufgaben nicht gefährdet wird. § 1 Abs. 3 gilt
 entsprechend.
-
 
 ### § 4 Beauftragter für Konzerne
 
@@ -92,10 +85,6 @@ Störfallbeauftragten für den Konzernbereich gestatten, wenn
     Aufgaben eines betriebsangehörigen Immissionsschutz- oder
     Störfallbeauftragten gewährleistet.
 
-
-
-
-
 ### § 5 Nicht betriebsangehörige Beauftragte
 
 (1) Betreibern von Anlagen im Sinne des § 1 Abs. 1 soll die zuständige
@@ -110,7 +99,6 @@ betriebsangehöriger Störfallbeauftragter gestatten, wenn hierdurch
 eine sachgemäße Erfüllung der in § 58b des Bundes-
 Immissionsschutzgesetzes bezeichneten Aufgaben nicht gefährdet wird.
 
-
 ### § 6 Ausnahmen
 
 Die zuständige Behörde hat auf Antrag den Betreiber einer Anlage im
@@ -120,10 +108,7 @@ Bestellung im Einzelfall aus den in § 53 Abs. 1 Satz 1 und § 58a Abs.
 1 Satz 1 des Bundes-Immissionsschutzgesetzes genannten Gesichtspunkten
 nicht erforderlich ist.
 
-
 ## Abschnitt 2 - Fachkunde und Zuverlässigkeit von Beauftragten
-
-
 
 ### § 7 Anforderungen an die Fachkunde
 
@@ -144,10 +129,6 @@ Bundes-Immissionsschutzgesetzes erfordert
     über die Anlage, für die der Beauftragte bestellt werden soll, oder
     über Anlagen, die im Hinblick auf die Aufgaben des Beauftragten
     vergleichbar sind.
-
-
-
-
 
 ### § 8 Voraussetzung der Fachkunde in Einzelfällen
 
@@ -176,7 +157,6 @@ anerkennen:
 die Ausbildung in diesem Fach im Hinblick auf die Aufgabenstellung im
 Einzelfall als gleichwertig anzusehen ist.
 
-
 ### § 9 Anforderungen an die Fortbildung
 
 (1) Der Betreiber hat dafür Sorge zu tragen, daß der Beauftragte
@@ -189,7 +169,6 @@ Anhang II zu dieser Verordnung genannten Sachbereiche. Auf Verlangen
 der zuständigen Behörde ist die Teilnahme des Beauftragten an im
 Betrieb durchgeführten Fortbildungsmaßnahmen oder an Lehrgängen
 nachzuweisen.
-
 
 ### § 10 Anforderungen an die Zuverlässigkeit
 
@@ -236,10 +215,6 @@ wenn der Immissionsschutzbeauftragte oder der Störfallbeauftragte
     Störfallbeauftragter oder als Betriebsbeauftragter nach anderen
     Vorschriften verletzt hat.
 
-
-
-
-
 ### § 10a Nachweise nicht betriebsangehöriger Personen
 
 Nachweise nicht betriebsangehöriger Personen aus einem anderen
@@ -263,17 +238,13 @@ Niederlassung eines solchen Staatsangehörigen gilt hinsichtlich der
 erforderlichen Fachkunde § 36a Absatz 1 Satz 2 und Absatz 2 der
 Gewerbeordnung entsprechend.
 
-
 ## Abschnitt 3 - Schlußvorschriften
-
-
 
 ### § 11 Übergangsregelung
 
 Die Anforderungen der §§ 7 und 8 gelten nicht für
 Immissionsschutzbeauftragte, die in Übereinstimmung mit den bisher
 geltenden Vorschriften bestellt worden sind.
-
 
 ### § 12 Inkrafttreten, Außerkrafttreten
 
@@ -284,11 +255,9 @@ Fünften und der bisherigen Sechsten Verordnung zur Durchführung des
 Bundes-Immissionsschutzgesetzes gelten als Entscheidungen nach dieser
 Verordnung fort.
 
-
 ### Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anhang I
 
@@ -707,10 +676,6 @@ Immissionsschutzbeauftragter zu bestellen ist:
 
 46. Anlagen zur Kompostierung mit einer Durchsatzleistung von mehr als 10
     Tonnen je Stunde (Kompostwerke).
-
-
-
-
 
 ### Anhang II
 

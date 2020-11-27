@@ -22,13 +22,11 @@ Diese Verordnung dient der Umsetzung der Richtlinie 97/67/EG des
 Europäischen Parlaments und des Rates vom 15. Dezember 1997 (ABl. EG
 1998 Nr. L 15 S. 14).
 
-
 ## Eingangsformel
 
 Auf Grund des § 11 Abs. 2 des Postgesetzes vom 22. Dezember 1997
 (BGBl. I S. 3294) verordnet die Bundesregierung unter Wahrung der
 Rechte des Bundestages:
-
 
 ## § 1 Universaldienst
 
@@ -102,7 +100,6 @@ Sendungen beziehen,
 
 (4) Die Universaldienstleistungen umfassen sowohl
 Inlandsdienstleistungen als auch grenzüberschreitende Leistungen.
-
 
 ## § 2 Qualitätsmerkmale der Briefbeförderung
 
@@ -182,10 +179,6 @@ die folgenden Qualitätsmerkmale:
 
 5.  Die Zustellung hat mindestens einmal werktäglich zu erfolgen.
 
-
-
-
-
 ## § 3 Qualitätsmerkmale der Paketbeförderung
 
 Für den Universaldienst im Bereich der Paketdienstleistungen gelten
@@ -218,15 +211,10 @@ die folgenden Qualitätsmerkmale:
 
 4.  Die Zustellung hat mindestens einmal werktäglich zu erfolgen.
 
-
-
-
-
 ## § 4 Qualitätsmerkmale der Beförderung von Zeitungen und Zeitschriften
 
 Zeitungen und Zeitschriften sind im Rahmen des betrieblich Zumutbaren
 bedarfsgerecht zu befördern. § 2 Nr. 4 und 5 gilt entsprechend.
-
 
 ## § 5 Bürgereingabe
 
@@ -234,7 +222,6 @@ Jedermann ist berechtigt, Maßnahmen zur Sicherstellung der in den §§ 2
 bis 4 genannten Qualitätsvorgaben bei der Bundesnetzagentur für
 Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen anzuregen.
 Diese ist verpflichtet, auf die Bürgereingabe zu antworten.
-
 
 ## § 6 Entgelte
 
@@ -260,11 +247,9 @@ voraussetzen. Satz 1 berührt nicht das Recht des
 Universaldienstanbieters, mit Kunden individuelle Preisabsprachen zu
 treffen.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
-
 
 ## Schlussformel
 

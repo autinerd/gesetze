@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 17.12.2010 I 2295
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 4, der §§ 9 und 10 Abs. 1 sowie der §§ 12
@@ -29,14 +28,12 @@ Zollgesetzes vom 3. August 1973 (Bundesgesetzbl. I S. 940), wird im
 Einvernehmen mit den Bundesministern für Wirtschaft und der Finanzen
 verordnet:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaften oder Europäischen Union,
 die hinsichtlich der Denaturierung von Weiß- und Rohzucker aus
 Position 1701 der Kombinierten Nomenklatur erlassen sind.
-
 
 ## § 2 Zuständige Stellen
 
@@ -45,7 +42,6 @@ genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt); zuständig für die Überwachung der
 Denaturierung und der Verwendung des denaturierten Zuckers sind jedoch
 die Zolldienststellen.
-
 
 ## § 3 Anerkannte Betriebe
 
@@ -67,7 +63,6 @@ Verordnung
 
 wenn sie täglich mindestens fünf Tonnen Zucker denaturieren können.
 
-
 ## § 4 Anträge
 
 (1) Die Erteilung eines Prämienbescheides ist nach vorgeschriebenem
@@ -78,11 +73,9 @@ Prämienbescheid ergebenden Rechtes auf einen Dritten ist unter
 gleichzeitiger Vorlage des Prämienbescheides an die Bundesanstalt zu
 richten.
 
-
 ## § 5
 
 -
-
 
 ## § 6 Denaturierung
 
@@ -131,14 +124,12 @@ Satz 1, ob die Denaturierung nach den Vorschriften dieser Verordnung
 und den in § 1 genannten Rechtsakten durchgeführt worden ist und
 sendet die Mitteilung an die Bundesanstalt.
 
-
 ## § 7 Auszahlungsbetrag
 
 (1) Die Bundesanstalt erteilt dem aus dem Prämienbescheid Berechtigten
 einen Bescheid über die Zahlung der Prämie.
 
 (2) Forderungen auf Prämien sind unverzinslich.
-
 
 ## § 8 Überwachung
 
@@ -153,13 +144,11 @@ Lieferschein zu vermerken: "Denaturierter Zucker"; außerdem sind Art
 und Menge des je 100 Kilogramm verwendeten Denaturierungsmittels
 anzugeben.
 
-
 ## § 9 Inkrafttreten und Überleitung
 
 (1) Diese Verordnung tritt am 15. September 1973 in Kraft.
 
 (2)
-
 
 ## Schlußformel
 

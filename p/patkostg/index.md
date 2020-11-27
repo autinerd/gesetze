@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 31.7.2009 I 2521
 
-
 ## § 1 Geltungsbereich, Verordnungsermächtigungen
 
 (1) Die Gebühren des Deutschen Patent- und Markenamts und des
@@ -41,10 +40,6 @@ bestimmen,
     das Bundespatentgericht zu zahlenden Kosten (Gebühren und Auslagen)
     gelten und Bestimmungen über den Zahlungstag zu treffen.
 
-
-
-
-
 ## § 2 Höhe der Gebühren
 
 (1) Gebühren werden nach dem Gebührenverzeichnis der Anlage zu diesem
@@ -58,7 +53,6 @@ des Streitwerts gelten die Vorschriften des Gerichtskostengesetzes
 entsprechend. Die Regelungen über die Streitwertherabsetzung (§ 144
 des Patentgesetzes und § 26 des Gebrauchsmustergesetzes) sind
 entsprechend anzuwenden.
-
 
 ## § 3 Fälligkeit der Gebühren
 
@@ -106,7 +100,6 @@ ersten oder einer folgenden Schutzfrist eingetragen, so ist die
 Aufrechterhaltungsgebühr am letzten Tag des Monats fällig, in dem die
 Eintragung im Register bekannt gemacht ist.
 
-
 ## § 4 Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
@@ -141,7 +134,6 @@ Nr. 2 haftet, Verfahrenskostenhilfe bewilligt ist, soll die Haftung
 eines anderen Kostenschuldners nicht geltend gemacht werden. Bereits
 gezahlte Beträge sind zu erstatten.
 
-
 ## § 5 Vorauszahlung, Vorschuss
 
 (1) In Verfahren vor dem Deutschen Patent- und Markenamt soll die
@@ -166,7 +158,6 @@ Aufrechterhaltungsgebühren für Gebrauchsmuster und Geschmacksmuster
 dürfen frühestens ein Jahr vor Eintritt der Fälligkeit vorausgezahlt
 werden, soweit nichts anderes bestimmt ist.
 
-
 ## § 6 Zahlungsfristen, Folgen der Nichtzahlung
 
 (1) Ist für die Stellung eines Antrags oder die Vornahme einer
@@ -187,7 +178,6 @@ und 345 100) nicht anwendbar.
 Erinnerungsverfahren nicht, nicht rechtzeitig oder nicht vollständig,
 so gilt auch die von ihm nach § 64 Abs. 6 Satz 2 des Markengesetzes
 eingelegte Beschwerde als zurückgenommen.
-
 
 ## § 7 Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag
 
@@ -211,7 +201,6 @@ Absatzes 1 nachgezahlt werden, wenn die Verlängerungsgebühr fristgemäß
 gezahlt wurde. Die Nachzahlungsfrist endet nach Ablauf des 18. Monats
 nach Fälligkeit der Verlängerungsgebühr. Ein Verspätungszuschlag ist
 nicht zu zahlen.
-
 
 ## § 8 Kostenansatz
 
@@ -265,12 +254,10 @@ entstanden sind.
 (2) Die Stelle, die die Kosten angesetzt hat, trifft auch die
 Entscheidungen nach den §§ 9 und 10.
 
-
 ## § 9 Unrichtige Sachbehandlung
 
 Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären,
 werden nicht erhoben.
-
 
 ## § 10 Rückzahlung von Kosten, Wegfall der Gebühr
 
@@ -284,7 +271,6 @@ Rückerstattung von Teilbeträgen der Jahresgebühr Nummer 312 205 bis
 oder erlischt ein Schutzrecht, weil die Gebühr nicht oder nicht
 vollständig gezahlt wurde, so entfällt die Gebühr, wenn die beantragte
 Amtshandlung nicht vorgenommen wurde.
-
 
 ## § 11 Erinnerung, Beschwerde
 
@@ -305,13 +291,11 @@ abgeholfen, so ist sie dem Bundespatentgericht vorzulegen.
 (3) Eine Beschwerde gegen die Entscheidungen des Bundespatentgerichts
 über den Kostenansatz findet nicht statt.
 
-
 ## § 12 Verjährung, Verzinsung
 
 Für die Verjährung und Verzinsung der Kostenforderungen und der
 Ansprüche auf Erstattung von Kosten gilt § 5 des
 Gerichtskostengesetzes entsprechend.
-
 
 ## § 13 Anwendung der bisherigen Gebührensätze
 
@@ -355,7 +339,6 @@ diesen Fällen nicht erhoben.
 wirken sich nicht auf die Höhe der Gebühr aus, wenn die Gebühr zur
 Zeit des verfahrenseinleitenden Antrages nicht nach dessen Umfang
 bemessen wurde.
-
 
 ## § 14 Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes
 
@@ -417,7 +400,6 @@ Frist nachgezahlt werden. Wird der Unterschiedsbetrag innerhalb der
 gesetzten Frist nachgezahlt, so gilt die Gebühr als rechtzeitig
 gezahlt. Ein Verspätungszuschlag wird in diesen Fällen nicht erhoben.
 
-
 ## § 15 Übergangsvorschriften aus Anlass des Inkrafttretens des Geschmacksmusterreformgesetzes
 
 (1) In den Fällen, in denen am 31. Mai 2004 die Erstreckungsgebühren
@@ -434,7 +416,6 @@ Geschmacksmustergesetzes in der bis zum Ablauf des 31. Mai 2004
 geltenden Fassung gezahlt werden können, wird die Frist zur Zahlung
 bis zum Ende der Aufschiebungsfrist nach § 21 Abs. 1 Satz 1 des
 Geschmacksmustergesetzes verlängert.
-
 
 ## Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 

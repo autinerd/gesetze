@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 68 G v. 17.12.2008 I 2586
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieses Gesetzes gelten für eine Annahme als Kind, die
 auf einer ausländischen Entscheidung oder auf ausländischen
 Sachvorschriften beruht. Sie gelten nicht, wenn der Angenommene zur
 Zeit der Annahme das 18. Lebensjahr vollendet hatte.
-
 
 ## § 2 Anerkennungs- und Wirkungsfeststellung
 
@@ -57,7 +55,6 @@ Absätzen 1 und 2 vorgesehenen Feststellungen von Amts wegen zu
 treffen. Eine Feststellung über Anerkennung oder Wirksamkeit der
 Annahme ergeht nicht.
 
-
 ## § 3 Umwandlungsausspruch
 
 (1) In den Fällen des § 2 Abs. 2 Satz 1 Nr. 2 kann das Familiengericht
@@ -88,7 +85,6 @@ Voraussetzung nach Satz 1 Nr. 1.
 (2) Absatz 1 gilt in den Fällen des § 2 Abs. 2 Satz 1 Nr. 1
 entsprechend, wenn die Wirkungen der Annahme von den nach den
 deutschen Sachvorschriften vorgesehenen Wirkungen abweichen.
-
 
 ## § 4 Antragstellung; Reichweite der Entscheidungswirkungen
 
@@ -132,7 +128,6 @@ dieser das Verfahren eingeleitet hat oder auf Antrag eines nach Absatz
 Beteiligung eines bisherigen Elternteils und der erweiterte
 Wirkungsausspruch nach Satz 3 können in einem gesonderten Verfahren
 beantragt werden.
-
 
 ## § 5 Zuständigkeit und Verfahren
 

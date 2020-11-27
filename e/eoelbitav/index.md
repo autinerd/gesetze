@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 2034
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und des § 9 Abs. 4 des Gesetzes über
@@ -25,7 +23,6 @@ Mindestvorräte an Erdölerzeugnissen vom 9. September 1965
 (Bundesgesetzbl. I S. 1217), geändert durch das Einführungsgesetz zum
 Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I
 S. 503), wird verordnet:
-
 
 ## § 1
 
@@ -59,7 +56,6 @@ zum Löschen abgeschlossen worden sind.
 Besitzers der Bestände beizufügen, aus der hervorgeht, daß die
 Voraussetzungen des Absatzes 1 Nr. 2 und 3 vorliegen.
 
-
 ## § 2
 
 Mit Beständen, die von den italienischen Behörden nach Artikel 2
@@ -68,7 +64,6 @@ befindlichen Bestände an Erdöl und Erdölerzeugnissen vom 17. Juli 1969
 (Bundesanzeiger Nr. 197 vom 22. Oktober 1969) beanstandet werden, kann
 die Pflicht zur Vorratshaltung nicht erfüllt werden.
 
-
 ## § 3
 
 Die Möglichkeit der Erfüllung der Vorratspflicht mit in Italien
@@ -76,18 +71,15 @@ befindlichen Beständen kann vorübergehend beschränkt oder aufgehoben
 werden, wenn die italienische Regierung von ihren Rechten nach Artikel
 3 des genannten Abkommens Gebrauch macht.
 
-
 ## § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 22 des
 Gesetzes auch im Land Berlin.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

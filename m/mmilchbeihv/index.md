@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 24 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 4, 12 und 13 und der §§ 9 und 11 Abs. 2
@@ -29,7 +28,6 @@ sowie auf Grund des § 10 Abs. 1 und der §§ 12 und 26 Abs. 2 Nr. 1 des
 Gesetzes zur Durchführung der gemeinsamen Marktorganisationen, wird im
 Einvernehmen mit den Bundesministern der Finanzen und für Wirtschaft
 verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -60,10 +58,6 @@ hinsichtlich
 2.  der Wiedereinziehung der Beihilfen für Magermilchpulver für
     Futterzwecke und für zu Mischfutter verarbeitete Magermilch bei der
     Ausfuhr nach dritten Ländern.
-
-
-
-
 
 ## § 2 Zuständigkeit
 
@@ -114,13 +108,6 @@ bezeichneten Rechtsakte sind
         Mitgliedstaat nach einem Verarbeitungsbetrieb im Geltungsbereich
         dieser Verordnung.
 
-
-
-
-
-
-
-
 ## § 3 Zulassung der Herstellungs- und der Verarbeitungsbetriebe
 
 (1) Zulassungen nach den in § 1 genannten Rechtsakten werden auf
@@ -160,7 +147,6 @@ diese Verordnung oder die in § 1 genannten Rechtsakte festgestellt
 wird. Im übrigen kann sie unter den Voraussetzungen des § 49 Abs. 2
 des Verwaltungsverfahrensgesetzes widerrufen werden.
 
-
 ## § 3a Anzeigepflicht
 
 Wer, außer als Tierhalter, der Magermilch aus eigener Erzeugung
@@ -169,7 +155,6 @@ Beihilfeempfänger beteiligen will, hat dies vor Beginn seiner für die
 Gewährung der Beihilfe maßgeblichen Tätigkeit der zuständigen Stelle
 anzuzeigen. Die Anzeige ist entbehrlich, wenn der Beteiligte einer
 Zulassung nach den in § 1 genannten Rechtsakten bedarf.
-
 
 ## § 4 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -191,7 +176,6 @@ sind, sind Aufzeichnungen zu machen, die das Vorliegen der
 Beihilfenvoraussetzungen erkennen lassen. Absatz 1 Satz 2 und 3 gilt
 insoweit entsprechend.
 
-
 ## § 4a Sachkundige Person
 
 Der Beteiligte hat der jeweils zuständigen Stelle mindestens eine
@@ -199,7 +183,6 @@ sachkundige Person schriftlich zu benennen, die befugt ist, gegenüber
 den zuständigen Stellen alle Auskünfte zu erteilen und Handlungen
 vorzunehmen, die nach den in § 1 genannten Rechtsakten oder nach
 dieser Verordnung vom Beteiligten gefordert werden können.
-
 
 ## § 5 Anträge auf Gewährung der Beihilfe
 
@@ -209,7 +192,6 @@ einzureichen. Anträge können nur in Abständen von mindestens einem
 Monat gestellt werden.
 
 (2)
-
 
 ## § 6 Sonderbeihilfe für Magermilch
 
@@ -234,11 +216,9 @@ beantragen will, an Tierhalter erst nach Ablauf des Monats liefern, in
 dem deren Verpflichtungserklärungen bei der zuständigen Stelle
 hinterlegt worden sind.
 
-
 ## § 7
 
 -
-
 
 ## § 8 Duldungs- und Mitwirkungspflichten
 
@@ -253,7 +233,6 @@ zu gewähren. Die in § 2 genannten Betriebe und Personen haben im Falle
 automatischer Buchführung auf ihre Kosten den Beauftragten der
 prüfungsberechtigten Stellen auf Verlangen Listen mit den
 erforderlichen Angaben auszudrucken.
-
 
 ## § 9 Verbringen von Magermilchpulver oder Magermilch-Mischfutter nach einem anderen Mitgliedstaat
 
@@ -275,7 +254,6 @@ gestellen oder anzumelden. Dabei ist ein Kontrollexemplar in zwei
 Stücken mit den nach den in § 1 genannten Rechtsakten vorgeschriebenen
 Eintragungen vorzulegen.
 
-
 ## § 10 Verarbeitung teilentrahmten Milchpulvers aus anderen Mitgliedstaaten
 
 (1) Teilentrahmtes Milchpulver, das aus einem anderen Mitgliedstaat in
@@ -294,7 +272,6 @@ vorzuführen. Antrag und Anmeldung sind in drei Stücken abzugeben. Wird
 dem Antrag entsprochen, so überläßt die Zollstelle das teilentrahmte
 Milchpulver zur zweck- und fristgerechten Verwendung.
 
-
 ## § 11 Wiedereinziehung der Beihilfe bei der Ausfuhr nach dritten Ländern
 
 (1) Soll denaturiertes Magermilchpulver oder Magermilchpulver
@@ -311,16 +288,13 @@ Stücken. Die erste Ausfertigung ist der für die zollamtliche
 Behandlung der Ausfuhrsendung nach § 10 der Außenwirtschaftsverordnung
 zuständigen Versandzollstelle vorzulegen.
 
-
 ## § 12 (weggefallen)
 
 -
 
-
 ## § 13 Inkrafttreten
 
 Diese Verordnung tritt am 6. Juni 1977 in Kraft.
-
 
 ## Schlußformel
 

@@ -16,13 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 473
 
-
-
 ## Eingangsformel
 
 Der Freistaat Bayern und das Land Baden-Württemberg, beide vertreten
 durch ihre Ministerpräsidenten, schließen folgenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ Länder zur Anpassung des Grenzverlaufs an die durch den Ausbau von
 Straßen und Gewässern und durch Flurbereinigungen geänderten
 Verhältnisse die in Artikel 3 bis 26 bezeichneten Änderungen ihrer
 gemeinsamen Landesgrenze.
-
 
 ## Art 2
 
@@ -46,10 +42,6 @@ Württemberg maßgebend.
 
 \*) Vom Abdruck wird abgesehen, siehe Artikel 29 des Vertrages.
 
-
-
-
-
 ## Art 3
 
 Zwischen der Gemeinde Neunkirchen, Landkreis Miltenberg, Freistaat
@@ -57,7 +49,6 @@ Bayern, und der Gemeinde Freudenberg, Main-Tauber-Kreis, Land Baden-
 Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 176
 bis zum Landesgrenzpunkt 182 nach Maßgabe der Anlage 3, Seiten 1 und
 2\.
-
 
 ## Art 4
 
@@ -72,10 +63,6 @@ verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 939/1 bis zum Landesgrenzpunkt 943/2 nach Maßgabe
     der Anlage 4, Seiten 1 und 2.
 
-
-
-
-
 ## Art 5
 
 Zwischen dem Markt Neubrunn, Landkreis Würzburg, Freistaat Bayern, und
@@ -88,10 +75,6 @@ verläuft die neue Landesgrenze
 
 2.  vom Landesgrenzpunkt 860 bis zum Landesgrenzpunkt 863 nach Maßgabe der
     Anlage 5, Seiten 1 und 2.
-
-
-
-
 
 ## Art 6
 
@@ -106,10 +89,6 @@ Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 745/1 bis zum Landesgrenzpunkt 750/2 nach Maßgabe
     der Anlage 6, Seiten 1 und 3.
 
-
-
-
-
 ## Art 7
 
 Zwischen der Gemeinde Altertheim, Landkreis Würzburg, Freistaat
@@ -117,7 +96,6 @@ Bayern, und den Gemeinden Großrinderfeld und Werbach, Main-Tauber-
 Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze vom
 Landesgrenzpunkt 695 bis zum Landesgrenzpunkt 715 nach Maßgabe der
 Anlage 7, Seiten 1 bis 4.
-
 
 ## Art 8
 
@@ -127,7 +105,6 @@ Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt
 646 bis zum Landesgrenzpunkt 648 nach Maßgabe der Anlage 8, Seiten 1
 und 2.
 
-
 ## Art 9
 
 Zwischen dem gemeindefreien Gebiet Irtenberger Wald, Landkreis
@@ -135,7 +112,6 @@ Würzburg, Freistaat Bayern, und der Gemeinde Großrinderfeld, Main-
 Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 vom Landesgrenzpunkt 622 bis zum Landesgrenzpunkt 624 nach Maßgabe der
 Anlage 9, Seiten 1 und 2.
-
 
 ## Art 10
 
@@ -150,10 +126,6 @@ Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 430 bis zum Landesgrenzpunkt 431 nach Maßgabe der
     Anlage 10, Seiten 2 und 3.
 
-
-
-
-
 ## Art 11
 
 Zwischen der Gemeinde Tauberrettersheim, Landkreis Würzburg, Freistaat
@@ -161,7 +133,6 @@ Bayern, und der Gemeinde Weikersheim, Main-Tauber-Kreis, Land Baden-
 Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 194
 bis zum Landesgrenzpunkt 199 nach Maßgabe der Anlage 11, Seiten 1 und
 2\.
-
 
 ## Art 12
 
@@ -184,10 +155,6 @@ Württemberg, verläuft die neue Landesgrenze
 4.  vom Landesgrenzpunkt 153 bis zum Landesgrenzpunkt 164 nach Maßgabe der
     Anlage 12, Seiten 1 und 3.
 
-
-
-
-
 ## Art 13
 
 Zwischen der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat
@@ -200,10 +167,6 @@ Württemberg, verläuft die neue Landesgrenze
 
 2.  vom Landesgrenzpunkt 105 bis zum Landesgrenzpunkt 106 nach Maßgabe der
     Anlage 13, Seiten 2 und 3.
-
-
-
-
 
 ## Art 14
 
@@ -239,10 +202,6 @@ Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 7.  vom Landesgrenzpunkt 94/1 bis zum Landesgrenzpunkt 97 nach Maßgabe der
     Anlage 14, Seiten 8 und 10.
 
-
-
-
-
 ## Art 15
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a.d. Aisch-Bad
@@ -250,7 +209,6 @@ Windsheim, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-
 Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze vom
 Landesgrenzpunkt 961 bis zum Landesgrenzpunkt 963 (alt) nach Maßgabe
 der Anlage 15, Seiten 1 und 2.
-
 
 ## Art 16
 
@@ -260,7 +218,6 @@ Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 63
 bis zum Landesgrenzpunkt 65 nach Maßgabe der Anlage 16, Seiten 1 und
 2\.
 
-
 ## Art 17
 
 Zwischen der Gemeinde Fremdingen, Landkreis Donau-Ries, Freistaat
@@ -268,7 +225,6 @@ Bayern, und der Gemeinde Tannhausen, Ostalbkreis, Land Baden-
 Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 678/3
 bis zum Landesgrenzpunkt 678/9 nach Maßgabe der Anlage 17, Seiten 1
 und 2.
-
 
 ## Art 18
 
@@ -278,7 +234,6 @@ Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze vom
 Landesgrenzpunkt 501 bis zum Landesgrenzpunkt 504 nach Maßgabe der
 Anlage 18, Seiten 1 und 2.
 
-
 ## Art 19
 
 Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d.
@@ -287,7 +242,6 @@ Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue
 Landesgrenze vom Landesgrenzpunkt 391 bis zum Landesgrenzpunkt 392
 (alt) nach Maßgabe der Anlage 19, Seiten 1 und 2.
 
-
 ## Art 20
 
 Zwischen der Gemeinde Bächingen a.d. Brenz, Landkreis Dillingen a.d.
@@ -295,7 +249,6 @@ Donau, Freistaat Bayern, und der Gemeinde Sontheim an der Brenz,
 Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue
 Landesgrenze vom Landesgrenzpunkt 390 bis zum Landesgrenzpunkt 391
 nach Maßgabe der Anlage 20, Seiten 1 und 2.
-
 
 ## Art 21
 
@@ -311,17 +264,12 @@ Landesgrenze
 2.  vom Landesgrenzpunkt 377 bis zum Landesgrenzpunkt 383 nach Maßgabe der
     Anlage 21, Seiten 1 und 2.
 
-
-
-
-
 ## Art 22
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern,
 und der Stadt Ulm, Land Baden-Württemberg, verläuft die neue
 Landesgrenze vom Landesgrenzpunkt 14 bis zum Landesgrenzpunkt 18 nach
 Maßgabe der Anlage 21a, Seiten 1 und 2.
-
 
 ## Art 23
 
@@ -330,7 +278,6 @@ Bayern, und der Gemeinde Aitrach, Landkreis Ravensburg, Land Baden-
 Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 662
 bis zum Landesgrenzpunkt 665 nach Maßgabe der Anlage 22, Seiten 1 und
 2\.
-
 
 ## Art 24
 
@@ -345,10 +292,6 @@ Württemberg, verläuft die neue Landesgrenze
 2.  vom Landesgrenzpunkt 454/2 bis zum Landesgrenzpunkt 454/3 nach Maßgabe
     der Anlage 23, Seiten 1 und 2.
 
-
-
-
-
 ## Art 25
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern,
@@ -357,7 +300,6 @@ Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt
 318/10 bis zum Landesgrenzpunkt 319/5 nach Maßgabe der Anlage 24,
 Seiten 1 und 2.
 
-
 ## Art 26
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern,
@@ -365,7 +307,6 @@ und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-
 Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 314
 bis zum Landesgrenzpunkt 316/1 nach Maßgabe der Anlage 25, Seiten 1
 und 2.
-
 
 ## Art 27
 
@@ -389,7 +330,6 @@ aufgenommenen Gebiete die zuständige Regierung und das zuständige
 Regierungspräsidium im Benehmen mit den beteiligten
 Gebietskörperschaften.
 
-
 ## Art 28
 
 Hinsichtlich des Übergangs von Verwaltungsvermögen gilt § 4 des
@@ -397,7 +337,6 @@ Gesetzes über das Verfahren bei sonstigen Änderungen des
 Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes
 vom 30. Juli 1979 (BGBl. I S. 1325) mit der Maßgabe, daß
 Entschädigungen nicht zu leisten sind.
-
 
 ## Art 29
 
@@ -411,7 +350,6 @@ Aalen, Heidenheim, Ravensburg, Schwäbisch Hall und Tauberbischofsheim
 des Landes Baden-Württemberg sowie beim Stadtmessungsamt Ulm
 aufbewahrt und können dort von jedermann während der Sprechzeiten
 kostenlos eingesehen werden.
-
 
 ## Art 30
 

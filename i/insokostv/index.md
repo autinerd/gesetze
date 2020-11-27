@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 43 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 362 des Dritten Buches Sozialgesetzbuch -
@@ -28,12 +27,10 @@ Bundesministerium für Arbeit und Sozialordnung nach Anhörung der
 Bundesanstalt für Arbeit und der Verbände der
 Unfallversicherungsträger:
 
-
 ## § 1 Pauschalierung sonstiger Kosten
 
 Die sonstigen Kosten, die mit der Erbringung des Insolvenzgeldes
 zusammenhängen, werden pauschaliert.
-
 
 ## § 2 Bemessung der Pauschale
 
@@ -54,11 +51,9 @@ Geldinstitut. Zahlungen der Unfallversicherungsträger sind zunächst
 auf die zu verzinsenden Beträge und dann auf die Verwaltungskosten und
 sonstigen Kosten anzurechnen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1999 in Kraft.
-
 
 ## Schlußformel
 

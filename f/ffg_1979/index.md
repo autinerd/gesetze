@@ -21,14 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 31.7.2010 I 1048
 
-
 ## 1. Kapitel - Filmförderungsanstalt
 
-
-
 ### 1. Abschnitt - Errichtung, Aufgaben
-
-
 
 #### § 1 Filmförderungsanstalt
 
@@ -39,7 +34,6 @@ Voraussetzung für seinen Erfolg im Inland und im Ausland. Sie ist eine
 bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts.
 
 (2) Die FFA hat ihren Sitz in Berlin.
-
 
 #### § 2 Aufgaben der FFA
 
@@ -98,10 +92,7 @@ supranationalen Organisationen ergeben.
 (4) Die FFA gewährt darüber hinaus Förderungshilfen nach Maßgabe des
 2\. Kapitels.
 
-
 ### 2. Abschnitt - Organe, ständige Kommissionen
-
-
 
 #### § 3 Organe der FFA
 
@@ -114,10 +105,6 @@ Organe der FFA sind
 
 
 3.  der Verwaltungsrat.
-
-
-
-
 
 #### § 4 Vorstand
 
@@ -152,7 +139,6 @@ auf dem Gebiet der Filmwirtschaft tätig ist.
 Geschäftsordnung. In der Geschäftsordnung kann vorgesehen werden, dass
 die FFA auch durch zwei vom Vorstand Bevollmächtigte gemeinsam
 vertreten werden kann.
-
 
 #### § 5 Präsidium
 
@@ -194,7 +180,6 @@ Sitzung teilzunehmen, kann ein anderes Mitglied des Präsidiums
 schriftlich zur Stimmabgabe bevollmächtigen.
 
 (7) Das Präsidium gibt sich eine Geschäftsordnung.
-
 
 #### § 6 Verwaltungsrat
 
@@ -324,7 +309,6 @@ entscheidet die Stimme des Vorsitzes.
 (8) Der Verwaltungsrat ist auf Verlangen von sieben seiner Mitglieder
 oder des Präsidiums unverzüglich einzuberufen.
 
-
 #### § 7 Vergabekommission
 
 (1) Als ständige Kommission wird eine Vergabekommission eingerichtet.
@@ -359,7 +343,6 @@ Genehmigung des Verwaltungsrates bedarf.
 (6) Die Vergabekommission ist bei Anwesenheit von sieben Mitgliedern
 beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit ihrer
 Mitglieder.
-
 
 #### § 8 Zusammensetzung der Vergabekommission
 
@@ -416,7 +399,6 @@ Scheidet ein Mitglied oder eine Stellvertretung aus, ist die Nachfolge
 zu benennen. Das Nähere regelt die Geschäftsordnung. § 5 Abs. 3 ist
 entsprechend anzuwenden.
 
-
 #### § 8a Unterkommissionen
 
 (1) Die Vergabekommission kann Unterkommissionen insbesondere für
@@ -451,7 +433,6 @@ mindestens ein Mitglied in der jeweiligen Unterkommission. Die
 Vorsitzenden der Unterkommissionen müssen der Vergabekommission
 angehören.
 
-
 #### § 9 Befangenheit
 
 (1) Stehen Mitglieder der Organe und Kommissionen zu einem Dritten in
@@ -465,10 +446,7 @@ mitwirken. § 20 des Verwaltungsverfahrensgesetzes bleibt unberührt.
 haben, sind unwirksam, wenn nicht ausgeschlossen werden kann, dass die
 Stimme dieses Mitgliedes den Ausschlag gegeben hat.
 
-
 ### 3. Abschnitt - Satzung, Haushalt, Aufsicht
-
-
 
 #### § 10 Satzung, Geschäftsordnungen
 
@@ -503,7 +481,6 @@ entgegenstehen, das Nähere über die Aufstellung und Ausführung des
 Wirtschaftsplanes, das Rechnungswesen, die Rechnungslegung und die
 Prüfung der Rechnung der FFA.
 
-
 #### § 11 Haushalts- und Wirtschaftsführung
 
 (1) Der Verwaltungsrat stellt jährlich vor Beginn des
@@ -531,7 +508,6 @@ bedürfen Ausgaben der Zustimmung des Verwaltungsrates.
 
 (3) Das Wirtschaftsjahr ist das Kalenderjahr.
 
-
 #### § 12 Rechnungslegung
 
 (1) Der Vorstand hat über alle Einnahmen und Ausgaben sowie über das
@@ -553,7 +529,6 @@ Bundesbehörde erlässt. Der Prüfungsbericht ist dem Verwaltungsrat, der
 für Kultur und Medien zuständigen obersten Bundesbehörde und dem
 Bundesrechnungshof vorzulegen.
 
-
 #### § 13 Aufsicht
 
 (1) Die FFA untersteht der Rechtsaufsicht der für Kultur und Medien
@@ -568,14 +543,9 @@ geltenden Recht in Einklang zu halten.
 ist die Aufsichtsbehörde befugt, die Aufgaben durch einen besonderen
 Beauftragten durchführen zu lassen oder sie selbst durchzuführen.
 
-
 ## 2. Kapitel - Filmförderung
 
-
-
 ### 1. Abschnitt - Allgemeine Bestimmungen
-
-
 
 #### § 14 Zweckbindung der Förderungsmittel
 
@@ -584,7 +554,6 @@ Förderungszweck zu verwenden. Ansprüche auf Gewährung oder Auszahlung
 von Förderungsmitteln sind nur zur Zwischenfinanzierung der jeweils
 geförderten Maßnahme an Banken oder sonstige Kreditinstitute abtretbar
 oder verpfändbar.
-
 
 #### § 14a Begriffsbestimmungen
 
@@ -615,7 +584,6 @@ vorgeführt wurde.
 Kommunikationsdienst, bei dem einzelne Filme für den Empfang zu einem
 vom Nutzer oder von der Nutzerin gewählten Zeitpunkt auf dessen oder
 deren individuellen Abruf hin bereitgestellt werden.
-
 
 #### § 15 Allgemeine Förderungsvoraussetzungen
 
@@ -731,7 +699,6 @@ programmfüllend ist, sowie von den Voraussetzungen des Absatzes 1 Satz
 1 Nr. 1 und 2 zulassen, wenn die Gesamtwürdigung des Films dies
 rechtfertigt.
 
-
 #### § 16 Internationale Koproduktionen
 
 (1) Förderungshilfen werden auch für programmfüllende Filme gewährt,
@@ -828,13 +795,6 @@ und 3 werden nur gewährt, wenn die Voraussetzung des § 15 Abs. 1 Satz
     g)  die Handlung oder die Stoffvorlage befasst sich mit wissenschaftlichen
         Themen oder natürlichen Phänomenen.
 
-
-
-
-
-
-
-
 #### § 16a Internationale Kofinanzierung
 
 Förderungshilfen werden auch für programmfüllende Filme gewährt, die
@@ -848,7 +808,6 @@ Bundesrepublik Deutschland abgeschlossenes Abkommen eine solche
 Beteiligung vorsieht und sofern der Beitrag des Herstellers im Sinne
 des § 15 Abs. 1 Satz 1 Nr. 1 dem in dem Abkommen festgelegten
 Mindestanteil entspricht (internationale Kofinanzierung).
-
 
 #### § 17 Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
@@ -878,7 +837,6 @@ werden.
 
 (3) Eine Aussage über die Förderungsfähigkeit des Films enthält die
 Bescheinigung nach Absatz 1 oder 2 nicht.
-
 
 #### § 17a Förderungsfähigkeit von internationalen Gemeinschaftsvorhaben
 
@@ -956,7 +914,6 @@ Bemessung der Förderung unberücksichtigt.
 (6) Die Förderungshilfe darf in keinem Fall den finanziellen Beitrag
 des Herstellers im Sinne des § 15 Abs. 1 Satz 1 Nr. 1 überschreiten.
 
-
 #### § 18 Herstellung der Kopien
 
 Förderungshilfen dürfen nur gewährt werden, wenn die Kopien, die für
@@ -974,7 +931,6 @@ Europäischen Kommission, Förderungshilfen bei einer Benutzung
 inländischer Kopierwerke bis zu einer Obergrenze von 80 vom Hundert
 der für den Film zu ziehenden Kopien gewährt werden.
 
-
 #### § 19 Nicht förderungsfähige Filme
 
 Förderungshilfen dürfen nicht gewährt werden, wenn der Referenzfilm,
@@ -987,7 +943,6 @@ Kameraführung oder des Bildschnitts nach dem Gesamteindruck von
 geringer Qualität sind. Nicht zu fördern sind ferner Referenzfilme,
 neue Filme und Filmvorhaben, die sexuelle Vorgänge oder Brutalitäten
 in aufdringlich vergröbernder spekulativer Form darstellen.
-
 
 #### § 20 Sperrfristen
 
@@ -1101,7 +1056,6 @@ Einzelheiten kann der Verwaltungsrat durch eine Richtlinie regeln.
 (9) Eine geringfügige ausschnittsweise Nutzung, insbesondere zu
 Werbezwecken, gilt nicht als Sperrfristverletzung.
 
-
 #### § 21 Archivierung
 
 (1) Der Hersteller eines nach den Vorschriften dieses Gesetzes
@@ -1115,14 +1069,9 @@ Bundesarchivs.
 Sinne dieses Gesetzes verwahrt. Sie können für die filmkundliche
 Auswertung zur Verfügung gestellt werden.
 
-
 ### 2. Abschnitt - Förderung der Filmproduktion
 
-
-
 #### 1. Unterabschnitt - Referenzfilmförderung
-
-
 
 ##### § 22 Referenzfilmförderung
 
@@ -1201,7 +1150,6 @@ Kalenderjahren, die nach Absatz 2 Satz 1, Absatz 3 Satz 5 oder § 23
 Abs. 1 Satz 2 maßgeblich sind, mindestens 10 000 Referenzpunkte
 ergeben.
 
-
 ##### § 23 Dokumentar-, Kinder-, Erstlingsfilme und Filme mit niedrigen Herstellungskosten
 
 (1) Bei Kinder- und Erstlingsfilmen sowie Filmen mit
@@ -1228,7 +1176,6 @@ festgelegten Erfolgen zu berücksichtigen sind. Dabei ist der
 Festivalpraxis bei Kinder- und Dokumentarfilmen ausreichend Rechnung
 zu tragen.
 
-
 ##### § 24 Antrag
 
 (1) Referenzfilmförderung wird auf Antrag gewährt. Antragsberechtigt
@@ -1241,7 +1188,6 @@ Zeiträume gemäß § 22 Abs. 2 Satz 1, Abs. 3 Satz 5 und § 23 Abs. 1 Satz
 (3) Der Antragsteller oder die Antragstellerin hat nachzuweisen, dass
 der Referenzfilm die Voraussetzungen des § 15 und der §§ 18 und 19
 oder der §§ 16, 17a, 18 und 19 erfüllt.
-
 
 ##### § 25 Zuerkennung
 
@@ -1313,10 +1259,6 @@ verbinden, um sicherzustellen, dass
     für die Außenvertretung des deutschen Films leistet; der Beitrag
     beträgt 1,5 vom Hundert der Nettoerlöse.
 
-
-
-
-
 ##### § 26 Auszahlungsgrundsätze
 
 (1) Die FFA zahlt die Förderungshilfen bedarfsgerecht aus, sobald
@@ -1384,10 +1326,7 @@ Schlussrate erfolgt nach Vorlage des Verwendungsnachweises und Prüfung
 der Schlusskosten. Der Förderungsempfänger hat der FFA die Auslagen
 für die Schlusskostenprüfung zu erstatten.
 
-
 ##### § 27 (weggefallen)
-
-
 
 ##### § 28 Verwendung
 
@@ -1426,7 +1365,6 @@ Zwecke verwendet werden:
 Sofern Mittel zur Kapitalaufstockung verwendet werden sollen, muss der
 Hersteller mit Antragstellung nachprüfbare Unterlagen über den
 wirtschaftlichen Zustand seines Unternehmens vorlegen.
-
 
 ##### § 29 Rückzahlung
 
@@ -1479,17 +1417,12 @@ einzelnen Förderbeträge.
     für die Erstattung oder Anrechnung von geleisteten Beträgen und für
     die Freigabe von Sicherheiten.
 
-
-
-
-
 ##### § 30 Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union
 
 Ist die Gegenseitigkeit verbürgt, so können in die Förderung nach den
 §§ 22 und 23 jährlich bis zu drei Filme aus anderen Mitgliedstaaten
 der Europäischen Union einbezogen werden. Dabei ist nur die im Inland
 erreichte Besucherzahl maßgebend.
-
 
 ##### § 31 Bürgschaften
 
@@ -1513,10 +1446,7 @@ der FFA einzuplanen.
 (5) Die Einzelheiten der Rückerstattungspflicht des Herstellers an die
 FFA werden durch Richtlinie des Verwaltungsrates geregelt.
 
-
 #### 2. Unterabschnitt - Projektfilmförderung
-
-
 
 ##### § 32 Förderungshilfen
 
@@ -1559,7 +1489,6 @@ ermächtigt, nach Anhörung der FFA durch Rechtsverordnung die Art und
 Zahl der Filmvorhaben sowie die Art und Höhe der Förderungshilfe zu
 bestimmen.
 
-
 ##### § 33 Antrag
 
 (1) Projektfilmförderung wird auf Antrag gewährt. Antragsberechtigt
@@ -1575,7 +1504,6 @@ beizufügen. Dem Antrag auf Förderung nach § 32 Abs. 3 ist insbesondere
 das zu überarbeitende Drehbuch beizufügen.
 
 (3) (weggefallen)
-
 
 ##### § 34 Eigenanteil des Herstellers
 
@@ -1623,12 +1551,10 @@ wenn die Höhe der Herstellungskosten das Zweifache des Durchschnitts
 der Herstellungskosten aller im Vorjahr nach § 32 geförderten
 Filmvorhaben übersteigt.
 
-
 ##### § 35 Bewilligungsbescheid
 
 Für den Bescheid über die Bewilligung von Förderungshilfen nach § 32
 Abs. 2 gilt § 25 Abs. 3 entsprechend.
-
 
 ##### § 36 Förderungszusage
 
@@ -1654,7 +1580,6 @@ der Antragstellung eine angemessene Beteiligung des Verleihers
 nachgewiesen wird.
 
 (4) Die Förderungszusage bedarf der Schriftform.
-
 
 ##### § 37 Auszahlungsgrundsätze
 
@@ -1714,7 +1639,6 @@ Schlusskostenprüfung zu erstatten.
 Hälfte nach ihrer Zuerkennung, im Übrigen nach Prüfung und Abnahme des
 fortentwickelten Drehbuchs.
 
-
 ##### § 38 Schlussprüfung
 
 (1) Die FFA prüft, ob
@@ -1742,7 +1666,6 @@ davon der FFA 13 Kopien des Films auf digitalen Bildträgern zur
 Prüfung vorzulegen. Die FFA kann die Frist um höchstens ein Jahr
 verlängern, wenn der Hersteller nachweist, dass er die Frist aus von
 ihm nicht zu vertretenden Gründen nicht einhalten kann.
-
 
 ##### § 39 Rückzahlung
 
@@ -1795,14 +1718,9 @@ Vorschriften, insbesondere § 28 Abs. 4, entsprechend anzuwenden.
 (5) Zehn Jahre nach der Erstaufführung des Films erlischt die
 Verpflichtung zur Rückzahlung.
 
-
 ##### § 40 (weggefallen)
 
-
-
 #### 3. Unterabschnitt - Förderung von Kurzfilmen
-
-
 
 ##### § 41 Referenzförderung
 
@@ -1851,7 +1769,6 @@ Verfügung stehenden Haushaltsmittel werden nach dem Verhältnis
 verteilt, in dem die Referenzpunkte der einzelnen Filme zueinander
 stehen.
 
-
 ##### § 42 Antrag
 
 (1) Die Förderungshilfe wird auf Antrag gewährt. Antragsberechtigt ist
@@ -1867,10 +1784,7 @@ werden, können erst in dem darauf folgenden Jahr beschieden werden.
 Dem Antrag ist der Nachweis beizufügen, dass die Voraussetzungen des §
 41 erfüllt sind.
 
-
 ##### § 43 (weggefallen)
-
-
 
 ##### § 44 Zuerkennung, Auszahlung
 
@@ -1887,7 +1801,6 @@ fahrlässig unrichtige Angaben über wesentliche
 Auszahlungsvoraussetzungen gemacht hat. Satz 1 gilt nicht, wenn mehr
 als fünf Jahre seit Eintritt des Versagungsgrundes vergangen sind.
 
-
 ##### § 45 Verwendung
 
 Die Förderungshilfe ist spätestens bis zum Ablauf von zwei Jahren seit
@@ -1897,7 +1810,6 @@ der §§ 16 und 17a zu verwenden. Der Vorstand kann auf Antrag
 gestatten, dass die Beträge für Maßnahmen der Stoffbeschaffung, der
 Drehbuchbeschaffung oder -entwicklung oder in sonstiger Weise für die
 Vorbereitung eines neuen Films nach Satz 1 verwendet werden.
-
 
 ##### § 46 Rückzahlung
 
@@ -1919,10 +1831,7 @@ Vorbereitung eines neuen Films nach Satz 1 verwendet werden.
 
 (2) § 29 Abs. 2 ist entsprechend anzuwenden.
 
-
 #### 4. Unterabschnitt - Förderung von Drehbüchern
-
-
 
 ##### § 47 Förderungshilfen
 
@@ -1954,7 +1863,6 @@ gewährt.
 
 (5) § 32 Abs. 4 Satz 1 gilt entsprechend.
 
-
 ##### § 48 Antrag
 
 (1) Die Förderungshilfen werden auf Antrag gewährt.
@@ -1973,7 +1881,6 @@ wurde.
 (3) Dem Antrag ist eine Beschreibung des nach § 47 Abs. 1 oder 2 zu
 fördernden Vorhabens beizufügen.
 
-
 ##### § 49 Auszahlung
 
 (1) Die Auszahlung der Förderungshilfe nach § 47 Abs. 1 und 2 erfolgt
@@ -1986,7 +1893,6 @@ Antrag auf Förderung nach diesem Gesetz vorsätzlich oder grob
 fahrlässig unrichtige Angaben über wesentliche
 Auszahlungsvoraussetzungen gemacht hat. Satz 1 gilt nicht, wenn mehr
 als fünf Jahre seit Eintritt des Versagungsgrundes vergangen sind.
-
 
 ##### § 50 Verwendung
 
@@ -2008,7 +1914,6 @@ Antragstellerin oder des Antragstellers, das Treatment, die
 vergleichbare Darstellung oder die erste Drehbuchfassung zu anderen
 Zwecken zu verwerten, bleibt unberührt.
 
-
 ##### § 51 Schlussprüfung
 
 (1) Die FFA prüft, ob das Drehbuch, das Treatment, die vergleichbare
@@ -2020,7 +1925,6 @@ Drehbuch, das Treatment, die vergleichbare Darstellung oder die erste
 Drehbuchfassung nach Ablauf von zwei Jahren nach Erlass des
 Förderungsbescheids zur Prüfung vorzulegen. Der Vorstand der FFA kann
 auf Antrag die Frist verlängern.
-
 
 ##### § 52 Rückzahlung
 
@@ -2044,10 +1948,7 @@ auf Antrag die Frist verlängern.
 
 (2) § 29 Abs. 2 ist entsprechend anzuwenden.
 
-
 ### 3. Abschnitt - Förderung des Absatzes
-
-
 
 #### § 53 Referenzförderung für Verleih- und Vertriebsunternehmen
 
@@ -2105,7 +2006,6 @@ berücksichtigt. Die für die Referenzabsatzförderung zur Verfügung
 stehenden Mittel werden auf die berechtigten Verleiher nach dem
 Verhältnis verteilt, in dem die Referenzpunkte der einzelnen Filme
 zueinander stehen.
-
 
 #### § 53a Projektförderung für Verleih- und Vertriebsunternehmen
 
@@ -2176,7 +2076,6 @@ Video- oder Kinowirtschaft kann der Vorstand der FFA im Einzelfall der
 Entscheidung der zuständigen Unterkommission widersprechen und eine
 Entscheidung des Präsidiums herbeiführen.
 
-
 #### § 53b Projektförderung der Videowirtschaft
 
 (1) Die FFA kann Förderungshilfen für den Absatz von mit
@@ -2237,7 +2136,6 @@ Antrag kann nur bis zum Ablauf von zwei Jahren nach Rückzahlung der
 Förderungsmittel gestellt werden. Näheres regelt eine Richtlinie des
 Verwaltungsrates.
 
-
 #### § 54 Antrag
 
 (1) Die Förderungshilfen werden auf Antrag gewährt. Antragsberechtigt
@@ -2265,7 +2163,6 @@ oder Vertriebsunternehmen, die Förderungsmittel zur Kapitalaufstockung
 nach § 53 Abs. 4 Satz 1 verwenden wollen, müssen mit dem Antrag
 nachprüfbare Unterlagen über den wirtschaftlichen Zustand des
 Unternehmens vorlegen.
-
 
 #### § 55 Auszahlung und Rückzahlung
 
@@ -2302,10 +2199,7 @@ als fünf Jahre vergangen sind.
 
 (4) § 29 Abs. 2 und § 39 Abs. 5 ist entsprechend anzuwenden.
 
-
 ### 4. Abschnitt - Förderung des Filmabspiels
-
-
 
 #### § 56 Förderungshilfen
 
@@ -2438,7 +2332,6 @@ erbringt.
 
 (7) § 32 Abs. 4 Satz 1 gilt entsprechend.
 
-
 #### § 56a Förderung von Videotheken
 
 (1) Die FFA gewährt Förderungshilfen
@@ -2477,7 +2370,6 @@ Maßnahmen nach Absatz 1 Nr. 4 dürfen höchstens 200 000 Euro und nach
 Absatz 1 Nr. 5 höchstens 2 500 Euro betragen. § 32 Abs. 4 Satz 1 ist
 entsprechend anzuwenden.
 
-
 #### § 57 Antrag
 
 (1) Die Förderungshilfen werden auf Antrag gewährt. Antragsberechtigt
@@ -2493,7 +2385,6 @@ Filmtheater im Inland.
 Kosten- und Finanzierungsplan ist beizufügen.
 
 (3) (weggefallen)
-
 
 #### § 58 Auszahlung, Rückzahlung
 
@@ -2531,10 +2422,7 @@ als fünf Jahre vergangen sind.
 
 (4) § 29 Abs. 2 ist entsprechend anzuwenden.
 
-
 ### 5. Abschnitt - Sonstige Förderungsmaßnahmen
-
-
 
 #### § 59 Förderung der Weiterbildung
 
@@ -2553,7 +2441,6 @@ anzuwenden.
 
 (4) § 32 Abs. 4 Satz 1 ist entsprechend anzuwenden.
 
-
 #### § 60 Förderung von Forschung, Rationalisierung und Innovation
 
 (1) Die FFA kann Förderungshilfen für die Forschung, Rationalisierung
@@ -2568,7 +2455,6 @@ anzuwenden.
 
 (3) § 32 Abs. 4 Satz 1 ist entsprechend anzuwenden.
 
-
 #### § 61 Antrag
 
 (1) Förderungshilfen nach §§ 59 und 60 werden auf Antrag gewährt.
@@ -2579,7 +2465,6 @@ hierzu geeignet ist.
 ihres Inhalts, Zwecks sowie Art und Dauer ihrer Durchführung
 enthalten. Ein Kosten- und Finanzierungsplan ist beizufügen, sofern er
 nicht nach Art und Umfang der Maßnahme entbehrlich ist.
-
 
 #### § 62 Rückzahlung
 
@@ -2597,10 +2482,7 @@ nicht nach Art und Umfang der Maßnahme entbehrlich ist.
 
 (2) § 29 Abs. 2 ist entsprechend anzuwenden.
 
-
 ### 6. Abschnitt - Allgemeine Verfahrensvorschriften
-
-
 
 #### § 63 Verfahrensregelungen
 
@@ -2615,7 +2497,6 @@ Rechnung getragen wird.
 Mehrheit von zwei Dritteln, mindestens aber der Mehrheit seiner
 Mitglieder beschlossen. Sie bedürfen der Genehmigung der für Kultur
 und Medien zuständigen obersten Bundesbehörde.
-
 
 #### § 64 Entscheidungszuständigkeiten
 
@@ -2642,7 +2523,6 @@ nach Eingang der Mitteilung des Vorstandes schriftlich die
 Entscheidung des Verwaltungsrates bei dessen Vorsitz, entscheidet der
 Verwaltungsrat an Stelle des Vorstandes.
 
-
 #### § 65 Widerspruchsentscheidungen
 
 (1) Über Widersprüche gegen seine eigenen Entscheidungen sowie gegen
@@ -2662,14 +2542,9 @@ derselben Mehrheit, mit der die angegriffene Entscheidung zu treffen
 ist. Kommt diese Mehrheit nicht zustande, gilt der Widerspruch als
 abgelehnt.
 
-
 ## 3. Kapitel - Finanzierung, Verwendung der Mittel
 
-
-
 ### 1. Abschnitt - Finanzierung
-
-
 
 #### § 66 Filmabgabe der Filmtheater
 
@@ -2699,7 +2574,6 @@ Mieter oder Pächter eines Filmtheaters und die Höhe seines Umsatzes
 Grundlage für die Berechnung der Miete oder Pacht ist, für die
 Berechnung der Miete oder Pacht ist die Berechnungsgrundlage um die
 Filmabgabe zu vermindern.
-
 
 #### § 66a Filmabgabe der Videowirtschaft
 
@@ -2737,12 +2611,10 @@ Monats an die FFA zu zahlen.
 (6) Die Abgabepflicht nach den Absätzen 1 und 2 besteht unbeschadet
 von Abgaben und sonstigen Leistungen des Abgabepflichtigen nach § 67.
 
-
 #### § 66b Rechtsbehelfe gegen Bescheide
 
 Widerspruch und Anfechtungsklage gegen Bescheide zur Erhebung der
 Abgabe nach §§ 66 und 66a haben keine aufschiebende Wirkung.
-
 
 #### § 67 Filmabgabe der Fernsehveranstalter und sonstige Zuwendungen
 
@@ -2847,10 +2719,7 @@ Zuwendungen sind den Einnahmen der FFA zuzuführen und nach Maßgabe des
 § 68 zu verwenden, es sei denn, dass der Zuwendungsgeber etwas anderes
 bestimmt.
 
-
 ### 2. Abschnitt - Verwendung der Einnahmen
-
-
 
 #### § 67a Verwendung der Filmabgabe der Videowirtschaft
 
@@ -2877,7 +2746,6 @@ Wahrnehmung der Aufgaben nach § 2 Abs. 1 und 2 wie folgt zu verwenden:
 (2) Die übrigen Einnahmen sind nach Maßgabe von § 68 Abs. 1 Nr. 1 bis
 4 und 8 zu verwenden.
 
-
 #### § 67b Verwendung der Filmabgabe der Fernsehveranstalter
 
 (1) Die Einnahmen der FFA aus der Filmabgabe nach § 67 Absatz 1, 2 und
@@ -2894,7 +2762,6 @@ erwarten lässt, der geeignet erscheint, die Qualität und
 Publikumsattraktivität von deutschen Fernsehprogrammen zu verbessern.
 Diese Mittel können für die Projektfilmförderung und die
 Drehbuchförderung verwendet werden.
-
 
 #### § 68 Aufteilung der Mittel auf die Förderungsarten
 
@@ -2953,14 +2820,12 @@ Hundert der Mittel nach Absatz 1 Nr. 6 verwendet werden. Nicht in
 Anspruch genommene Mittel sind den Mitteln nach Absatz 1 Nr. 6
 zuzuführen.
 
-
 #### § 68a Verwendung für sonstige Aufgaben
 
 Von den Einnahmen der FFA dürfen nicht mehr als 10 vom Hundert für die
 Aufgaben nach § 2 Abs. 1 und 2 verwendet werden. Über die konkrete
 Aufteilung der Mittel entscheidet das Präsidium auf Vorschlag des
 Vorstandes.
-
 
 #### § 69 Ermächtigung des Verwaltungsrates
 
@@ -3000,10 +2865,7 @@ Anwendung.
 ergehen mit einer Mehrheit von zwei Dritteln, mindestens aber der
 Mehrheit der Mitglieder.
 
-
 ## 4. Kapitel - Auskünfte
-
-
 
 ### § 70 Auskünfte
 
@@ -3088,21 +2950,15 @@ Namens der auskunftspflichtigen Person zulässig. Einzelangaben über
 die Besucherzahlen von Filmen im Inland oder einem Land dürfen
 veröffentlicht werden.
 
-
 ### § 71 Förderungsbericht
 
 Die FFA erstellt anhand der Angaben nach § 70 jährlich einen
 Förderungsbericht und leitet diesen der für Kultur und Medien
 zuständigen obersten Bundesbehörde zu.
 
-
 ### § 72 (weggefallen)
 
-
-
 ## 5. Kapitel - Übergangs- und Schlussvorschriften
-
-
 
 ### § 73 Übergangsregelungen
 
@@ -3152,10 +3008,7 @@ vertraglich vereinbart, werden diese von der FFA nicht nachgefordert.
 (8) Die §§ 20, 25 und 66a gelten mit Wirkung vom Beginn des 1. Januar
 2009\.
 
-
 ### § 74 (weggefallen)
-
-
 
 ### § 75 Beendigung der Filmförderung
 
@@ -3183,14 +3036,9 @@ Wirtschaft und Ausfuhrkontrolle (BAFA) nimmt die verbleibenden
 Aufgaben der FFA wahr. Das verbleibende Vermögen ist für die Förderung
 der Filmwirtschaft zu verwenden.
 
-
 ### § 76 (weggefallen)
 
-
-
 ### § 77 Inkrafttreten
-
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1002) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

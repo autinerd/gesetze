@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 10a G v. 22.12.2011 I 3057
 
-
 ## § 1 Aufgabe
 
 Aufgabe der Versorgungsausgleichskasse ist es ausschließlich, die
@@ -28,7 +27,6 @@ die ausgleichsberechtigte Person ihr Wahlrecht hinsichtlich der
 Zielversorgung nach § 15 des Versorgungsausgleichsgesetzes nicht
 ausübt.
 
-
 ## § 2 Rechtsform, anzuwendendes Recht
 
 (1) Die Versorgungsausgleichskasse ist eine Pensionskasse im Sinne des
@@ -37,7 +35,6 @@ Versicherungsvereins auf Gegenseitigkeit.
 
 (2) Auf sie ist das Versicherungsaufsichtsgesetz anzuwenden, sofern
 dieses Gesetz nichts anderes bestimmt.
-
 
 ## § 3 Besondere Bestimmungen
 
@@ -67,7 +64,6 @@ Vertriebskosten eingerechnet werden.
 (4) Die Versorgungsausgleichskasse gehört einem Sicherungsfonds nach §
 124 Absatz 1 des Versicherungsaufsichtsgesetzes an.
 
-
 ## § 4 Leistungsumfang
 
 (1) Die von der Versorgungsausgleichskasse durchgeführte Versicherung
@@ -88,7 +84,6 @@ verwendet werden.
 in Abzug bringen. Abschluss- und Vertriebskosten dürfen nicht erhoben
 werden.
 
-
 ## § 5 Beschränkung des Anrechts
 
 (1) Ein bei der Versorgungsausgleichskasse bestehendes Anrecht ist
@@ -100,7 +95,6 @@ Satz 1 des Betriebsrentengesetzes abfinden.
 
 (2) Eine Fortsetzung der Versorgung mit eigenen Beiträgen ist nicht
 möglich.
-
 
 ## § 6 Bilanzierung von Rückdeckungsversicherungen
 

@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1374
 
-
 ## Eingangsformel
 
 Auf Grund des § 25a Absatz 5 Satz 1 bis 3 und 5 des
@@ -25,7 +24,6 @@ Gesetzes vom 21. Juli 2010 (BGBl. I S. 950) eingefügt worden ist,
 verordnet das Bundesministerium der Finanzen im Benehmen mit der
 Deutschen Bundesbank und nach Anhörung der Spitzenverbände der
 Institute:
-
 
 ## § 1 Anwendungsbereich
 
@@ -59,7 +57,6 @@ in seinem Geltungsbereich durch Vereinbarung der
 Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen
 Regelungen oder aufgrund eines Tarifvertrages in einer Betriebs- oder
 Dienstvereinbarung vereinbart sind, nicht anzuwenden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -136,10 +133,6 @@ Im Sinne dieser Verordnung ist oder sind
     überwachen. Hierzu zählen insbesondere die Bereiche Marktfolge,
     Risikocontrolling und Einheiten mit Compliance-Funktion. Die Interne
     Revision gilt als Kontrolleinheit im Sinne dieser Verordnung.
-
-
-
-
 
 ## § 3 Allgemeine Anforderungen an Vergütungssysteme
 
@@ -241,7 +234,6 @@ Zusammensetzung der Vergütung. Die Vergütungssysteme sind von dem
 Institut zumindest einmal jährlich auf ihre Angemessenheit zu
 überprüfen und gegebenenfalls anzupassen.
 
-
 ## § 4 Sicherung einer angemessenen Eigenmittelausstattung
 
 Der Gesamtbetrag der variablen Vergütung von Geschäftsleitern,
@@ -249,7 +241,6 @@ Geschäftsleiterinnen, Mitarbeitern und Mitarbeiterinnen darf nicht die
 Fähigkeit des Instituts einschränken, eine angemessene
 Eigenmittelausstattung dauerhaft aufrechtzuerhalten oder wieder
 herzustellen.
-
 
 ## § 5 Vergütungssysteme bedeutender Institute
 
@@ -391,10 +382,6 @@ werden, müssen
     Verstreichen frühestens über die ermessensabhängigen Leistungen zur
     Altersversorgung verfügt werden darf.
 
-
-
-
-
 ## § 6 Vergütungsausschuss in bedeutenden Instituten
 
 (1) Unbeschadet ihrer Verantwortung hat die Geschäftsleitung eines
@@ -421,7 +408,6 @@ Geschäftsleitung und dem Verwaltungs- oder Aufsichtsorgan vorzulegen
 auch anlassbezogen Bericht zu erstatten. Dem Vorsitzenden des
 Verwaltungs- oder Aufsichtsorgans ist ein direktes Auskunftsrecht
 gegenüber dem Vergütungsausschuss einzuräumen.
-
 
 ## § 7 Offenlegung durch Institute
 
@@ -454,7 +440,6 @@ inhaltlich die Übereinstimmung der Vergütungssysteme mit den
 Anforderungen dieser Verordnung nachvollziehen zu können. Auf die
 etwaige Einbindung externer Berater und Interessengruppen ist
 einzugehen.
-
 
 ## § 8 Weitergehende Offenlegung durch bedeutende Institute
 
@@ -500,10 +485,6 @@ relevanten Mitarbeitern und Mitarbeiterinnen zu trennen sind:
     für die Beendigung der Tätigkeit sowie die Anzahl der Begünstigten pro
     Geschäftsjahr unter Ausweis der höchsten geleisteten Abfindung.
 
-
-
-
-
 ## § 9 Besondere Vorschriften für Gruppen
 
 Die in § 1 Absatz 2 des Kreditwesengesetzes bezeichneten Personen des
@@ -523,7 +504,6 @@ Finanzkonglomeratsunternehmen einer Institutsgruppe, einer
 Finanzholding-Gruppe oder eines Finanzkonglomerats hat die
 Einschätzung hierüber schriftlich zu dokumentieren.
 
-
 ## § 10 Anpassung bestehender Vereinbarungen
 
 Das Institut hat darauf hinzuwirken, dass die mit Geschäftsleitern,
@@ -533,7 +513,6 @@ vereinbar sind, soweit rechtlich zulässig auf Grundlage einer für
 Dritte nachvollziehbaren fundierten juristischen Begutachtung der
 Rechtslage und unter Berücksichtigung der konkreten Erfolgsaussichten
 angepasst werden.
-
 
 ## § 11 Inkrafttreten
 

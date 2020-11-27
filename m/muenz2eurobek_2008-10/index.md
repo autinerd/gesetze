@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2206
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -52,11 +51,9 @@ Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn
 George Stamatopoulos, einem für die griechische Zentralbank tätigen
 Bildhauer.
 
-
 ## Schlussformel
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

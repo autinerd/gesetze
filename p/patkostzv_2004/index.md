@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2083
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 Nr. 2 des Patentkostengesetzes vom 13.
 Dezember 2001 (BGBl. I S. 3656) verordnet das Bundesministerium der
 Justiz:
-
 
 ## § 1 Zahlungswege
 
@@ -55,7 +52,6 @@ Sammelzahlungen auf ein Konto bei der zuständigen Bundeskasse für das
 Deutsche Patent- und Markenamt zulässig und welche Angaben bei der
 Zahlung erforderlich sind.
 
-
 ## § 2 Zahlungstag
 
 Als Zahlungstag gilt
@@ -79,10 +75,6 @@ Als Zahlungstag gilt
     zuständigen Bundeskasse für das Deutsche Patent- und Markenamt
     erfolgt.
 
-
-
-
-
 ## § 3 Übergangsregelung
 
 Abbuchungsaufträge, die nach § 1 Nr. 4 der
@@ -91,7 +83,6 @@ für künftig fällig werdende Gebühren erteilt worden sind, werden am 1.
 Januar 2004 gegenstandslos. Für Einziehungsaufträge, die nach § 1 Nr.
 5 der in Satz 1 genannten Verordnung für künftig fällig werdende
 Gebühren erteilt worden sind, gilt § 2 Nr. 4 entsprechend.
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

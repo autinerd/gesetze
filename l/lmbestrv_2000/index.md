@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 V v. 13.12.2011 I 2720
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
@@ -54,10 +53,6 @@ sowie
 
 -   des § 44 Abs. 1 Nr. 2 des Lebensmittel- und
     Bedarfsgegenständegesetzes:
-
-
-
-
 
 ## § 1 Zulassungen
 
@@ -111,7 +106,6 @@ Strahlen ist zugelassen zur Entkeimung
 (5) Die bei der Entkeimung von Luft durch ultraviolette Strahlen
 auftretende indirekte Einwirkung auf Lebensmittel ist zugelassen.
 
-
 ## § 2 Lebensmittel aus Drittländern
 
 (1) Bestrahlte getrocknete aromatische Kräuter und Gewürze sowie
@@ -161,10 +155,6 @@ die Aufschluss geben über
 
 9.  Hinweise auf die vor der Bestrahlung durchgeführten
     Validierungsmessungen.
-
-
-
-
 
 ## § 3 Kenntlichmachung
 
@@ -250,7 +240,6 @@ erfolgen:
 
 (7) (weggefallen)
 
-
 ## § 4 Zulassung von Einrichtungen zur Bestrahlung
 
 (1) Einrichtungen zur Bestrahlung im Sinne des § 1 Abs. 1
@@ -278,7 +267,6 @@ rechtlicher Vorschriften für solche Einrichtungen.
 Referenznummer.
 ---------------
 \*) UNO-Verlag, Am Hofgarten 10, D 53113 Bonn.
-
 
 ## § 5 Aufzeichnungspflichten
 
@@ -325,7 +313,6 @@ Bestrahlungsanlage fünf Jahre aufzubewahren; die Aufbewahrungsfrist
 beginnt mit dem Ablauf des Kalenderjahres, in dem die Bestrahlung
 durchgeführt worden ist.
 
-
 ## § 6 Analysenmethoden
 
 Die zum Nachweis einer Bestrahlung angewandten Methoden müssen
@@ -334,7 +321,6 @@ hinsichtlich der im Anhang unter den Nummern 1 und 2 der Richtlinie
 gemeinschaftlicher Probenahmeverfahren und Analysemethoden für die
 Kontrolle von Lebensmitteln (ABl. EG Nr. L 372 S. 50) aufgeführten
 erforderlichen Kriterien getestet sein.
-
 
 ## § 7 Mitteilungen, Berichte
 
@@ -359,10 +345,6 @@ eines Jahres für das vorhergehende Kalenderjahr über
 2.  die Ergebnisse der Kontrollen, die auf der Stufe des Inverkehrbringens
     von Lebensmitteln zum Nachweis der Bestrahlung durchgeführt werden,
     einschließlich der jeweils angewandten Analysemethode.
-
-
-
-
 
 ## § 8 Straftaten, Ordnungswidrigkeiten
 
@@ -399,25 +381,18 @@ oder fahrlässig
     vollständig führt oder nicht oder nicht mindestens fünf Jahre
     aufbewahrt.
 
-
-
-
-
 ## § 9 Übergangsfrist
 
 Bis zum 31. Dezember 2000 dürfen Lebensmittel noch nach den bis zum
 21\. Dezember 2000 geltenden Vorschriften bestrahlt werden.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 997
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -28,12 +26,10 @@ und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288)
 verordnet das Bundesministerium für Wirtschaft und Technologie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fassadenmonteur/Fassadenmonteurin wird staatlich
 anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -44,7 +40,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -60,7 +55,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
-
 
 ## § 4 Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
@@ -95,7 +89,6 @@ Dauer des Berufsausbildungsverhältnisses verbindlich.
 
 (4) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der
 betrieblichen Ausbildungsstätte anzurechnen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -176,10 +169,6 @@ Fertigkeiten und Kenntnisse:
 
 23. Qualitätssichernde Maßnahmen, Anfertigen von Baudokumenten.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -192,12 +181,10 @@ sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
 Abweichung erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Berichtsheft
 
@@ -205,7 +192,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -241,10 +227,6 @@ beziehen sollen, aus folgenden Gebieten lösen:
 
 
 4.  Fassadenbekleidungen.
-
-
-
-
 
 ## § 10 Abschlußprüfung
 
@@ -401,11 +383,9 @@ ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
 Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin
 

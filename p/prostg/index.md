@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3983
 
-
-
 ## § 1
 
 Sind sexuelle Handlungen gegen ein vorher vereinbartes Entgelt
@@ -25,7 +23,6 @@ rechtswirksame Forderung. Das Gleiche gilt, wenn sich eine Person,
 insbesondere im Rahmen eines Beschäftigungsverhältnisses, für die
 Erbringung derartiger Handlungen gegen ein vorher vereinbartes Entgelt
 für eine bestimmte Zeitdauer bereithält.
-
 
 ## § 2
 
@@ -36,7 +33,6 @@ Nichterfüllung, soweit sie die vereinbarte Zeitdauer betrifft,
 eingewendet werden. Mit Ausnahme des Erfüllungseinwandes gemäß des §
 362 des Bürgerlichen Gesetzbuchs und der Einrede der Verjährung sind
 weitere Einwendungen und Einreden ausgeschlossen.
-
 
 ## § 3
 

@@ -18,12 +18,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland
 unterzeichneten Internationalen Übereinkommen vom 2. Dezember 1972
 über sichere Container (CSC) wird zugestimmt. Das Übereinkommen wird
 mit seinen Anlagen nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -62,7 +59,6 @@ Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr, Bau
 und Stadtentwicklung mit Zustimmung des Bundesrates. Der Zustimmung
 des Bundesrates bedarf es nicht, soweit die Allgemeinen
 Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
-
 
 ## Art 3
 
@@ -121,7 +117,6 @@ von den Behörden und Stellen wahrgenommen, die für die entsprechenden
 Aufgaben nach den Vorschriften über die Beförderung gefährlicher Güter
 zuständig sind.
 
-
 ## Art 4
 
 (1) Die Kontrollbehörden prüfen nach Artikel VI des Übereinkommens, ob
@@ -147,7 +142,6 @@ zuständige Stellen der Zollverwaltung die Container zurückweisen.
 Rechtsverordnung nach Artikel 2 Abs. 3. Dies gilt nicht für Container,
 deren Zustand eine offensichtliche Gefährdung der Sicherheit
 darstellt.
-
 
 ## Art 5
 
@@ -200,7 +194,6 @@ aufgegeben werden, die seiner Unterhaltungspflicht unterliegenden
 Container unter Angabe von Zulassungsland und Zulassungsbezeichnung
 der Kontrollbehörde mitzuteilen; es kann verlangt werden, daß sich die
 Sichtkontrolle auch auf das Innere des Containers zu erstrecken hat.
-
 
 ## Art 6
 
@@ -432,7 +425,6 @@ Zeile 9 (Monat, Jahr der erneuten Überprüfungen), wenn diese Daten
 möglichst nahe des CSC-Sicherheits-Zulassungsschildes angegeben sind
 (Regel 2 Abs. 3 der Anlage I des Übereinkommens).
 
-
 ## Art 7
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -482,7 +474,6 @@ Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36
 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für
 Güterverkehr.
 
-
 ## Art 8
 
 (1) Für Amtshandlungen, Prüfungen und Besichtigungen nach diesem
@@ -515,16 +506,13 @@ Gesetzes soweit die Gegenseitigkeit verbürgt ist, sowie das
 Erhebungsverfahren abweichend vom Verwaltungskostengesetz geregelt
 werden.
 
-
 ## Art 9
 
 -
 
-
 ## Art 10
 
 -
-
 
 ## Art 11
 

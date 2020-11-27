@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 935
 
-
-
 ## (XXXX)
 
 Als Auszeichnung für Gebirgs- und Wandervereine, die sich in

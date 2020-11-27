@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 5 G v. 25.5.2009 I 1102
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 161 und 278 Abs. 3 des Aktiengesetzes sowie des § 33g
@@ -26,7 +25,6 @@ des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften
 in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird im
 Einvernehmen mit dem Bundesminister für Wirtschaft und dem
 Bundesminister für Städtebau und Wohnungswesen verordnet:
-
 
 ## § 1
 
@@ -99,7 +97,6 @@ Eigentumswohnungen im Sinne des Ersten Teils des
 Wohnungseigentumsgesetzes vom 15. März 1951 (Bundesgesetzbl. I S. 175,
 209) errichtet und veräußert.
 
-
 ## § 2
 
 (1) § 265 Abs. 7 Nr. 1 des Handelsgesetzbuchs darf angewendet werden.
@@ -125,7 +122,6 @@ Umsatzerlöse zusammengefaßt ausgewiesen werden; in diesem Falle
 müssen, soweit nicht § 276 des Handelsgesetzbuchs angewendet wird, die
 Unterposten Nummer 1 Buchstabe a bis d im Anhang gesondert ausgewiesen
 werden.
-
 
 ## § 2a
 
@@ -219,16 +215,6 @@ Auf der Passivseite
         C. 8. Verbindlichkeiten gegenüber Unternehmen, mit denen ein
             Beteiligungsverhältnis besteht.
 
-
-
-
-
-
-
-
-
-
-
 ## § 2b
 
 Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs
@@ -239,7 +225,6 @@ Haftung ist, den Vorschriften des § 1 Abs. 1 oder des § 2 Abs. 2, 3
 oder 4, jeweils in Verbindung mit dem anliegenden Formblatt, über
 Gliederung, Form oder Inhalt des Jahresabschlusses oder im Anhang zu
 machende Angaben zuwiderhandelt.
-
 
 ## § 3
 
@@ -277,26 +262,21 @@ ist erstmals auf den Jahresabschluss für das nach dem 31. Dezember
 28\. Mai 2009 geltenden Fassung ist letztmals auf den Jahresabschluss
 für das vor dem 1. Januar 2010 beginnende Geschäftsjahr anzuwenden.
 
-
 ## § 4
 
 -
-
 
 ## § 5
 
 (weggefallen)
 
-
 ## § 6
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage Formblatt (Muster)
 
@@ -841,10 +821,6 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *   E.
 
     *   Passive latente Steuern
-
-
-
-
 
 ## Muster 1 u. 2
 

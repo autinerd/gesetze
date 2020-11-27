@@ -17,21 +17,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 778
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Abschnitt 1 - Seeschiffahrt
 
-
-
 ### (XXXX) Art 1 bis 4
-
-
 
 ### Art 5
 
@@ -41,7 +34,6 @@ beschlossen:
 Schiffsregisterordnung und der Grundbuchordnung in der vom
 Inkrafttreten dieses Artikels an geltenden Fassung im
 Bundesgesetzblatt bekanntmachen.
-
 
 ### Art 6
 
@@ -55,43 +47,31 @@ I S. 1554), wird wie folgt geändert: ...
 Übereinkommens und des Protokolls in der vom Inkrafttreten dieses
 Artikels an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
-
 ### Art 7
 
 -
 
-
 ## Abschnitt 2 - Meeresbergbau
-
-
 
 ### Art 8
 
 -
 
-
 ### Art 9
 
 -
 
-
 ## Abschnitt 3 - Wissenschaftliche Meeresforschung
-
-
 
 ### Art 10
 
 -
 
-
 ## Abschnitt 4 - Umweltstrafrecht
-
-
 
 ### Art 11
 
 -
-
 
 ### Art 12 Erweiterung des Geltungsbereichs des deutschen Strafrechts
 
@@ -109,7 +89,6 @@ bedroht ist. Für die Abgrenzung der Nordsee ist Artikel 2 des
 der Nordsee durch Öl und andere Schadstoffe vom 13. September 1983
 (BGBl. 1990 II S. 70) maßgebend.
 
-
 ### Art 13 Mitteilungspflichten
 
 Die Erfüllung einer in Artikel 73 Abs. 4, Artikel 217 Abs. 7, Artikel
@@ -119,19 +98,13 @@ Vereinten Nationen vom 10. Dezember 1982 genannten Mitteilungs- und
 Verfahren handelt, der mit diesem Verfahren befaßten Justizbehörde.
 Die Übermittlung erfolgt auf diplomatischem Weg.
 
-
 ## Abschnitt 5 - Vollstreckung seegerichtlicher Entscheidungen
-
-
 
 ### Art 14
 
 -
 
-
 ## Abschnitt 6 - Schlußvorschrift
-
-
 
 ### Art 15 Inkrafttreten
 

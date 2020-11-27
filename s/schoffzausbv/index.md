@@ -20,7 +20,6 @@ Stand: Neufassung vom 15.1.1992 I 22, 227,
 Zuletzt geändert durch
 :   Art. 1 V v. 2.5.2011 I 746
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Ausbildung und Befähigung von Kapitänen
@@ -28,7 +27,6 @@ und Schiffsoffizieren des nautischen und technischen Schiffsdienstes,
 die Befähigung von Schiffsleuten, die Brückenwache und Maschinenwache
 gehen, sowie die zusätzliche Ausbildung und Befähigung von Kapitänen,
 Offizieren und Schiffsleuten auf bestimmten Schiffstypen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -76,7 +74,6 @@ Klarstellungen werden angewendet.
 Bekanntmachung vom 3. September 1997 (BGBl. I S. 2217) werden
 angewendet.
 
-
 ## § 3 Befähigungszeugnisse für den nautischen Dienst auf Kauffahrteischiffen mit Ausnahme der Fischereifahrzeuge
 
 (1) Für den nautischen Dienst auf Kauffahrteischiffen aller Größen in
@@ -102,10 +99,6 @@ Fischereifahrzeuge gibt es die Befähigungszeugnisse:
 
 
 2.  Kapitän.
-
-
-
-
 
 ## § 4 Befähigungszeugnisse für den nautischen Dienst auf Fischereifahrzeugen
 
@@ -160,13 +153,6 @@ Dienstes auf Fischereifahrzeugen sind
         Wahrnehmen der Aufgaben eines nautischen Schiffsoffiziers auf
         Fischereifahrzeugen in der Kleinen Hochseefischerei.
 
-
-
-
-
-
-
-
 ## § 5 Befähigungszeugnisse für den technischen Dienst auf Kauffahrteischiffen
 
 (1) Für den technischen Dienst auf Schiffen mit jeder Antriebsleistung
@@ -187,20 +173,17 @@ gibt es die Befähigungszeugnisse:
 bis zu 750 Kilowatt gibt es das Befähigungszeugnis für
 Schiffsmaschinisten.
 
-
 ## § 5a Befähigungszeugnisse für Schiffsleute, die auf Kauffahrteischiffen Brückenwache und Maschinenwache gehen
 
 Für Schiffsleute, die auf Kauffahrteischiffen Brückenwache und
 Maschinenwache gehen, gibt es das Zeugnis über die Wachbefähigung auf
 Schiffen aller Größen und mit jeder Antriebsleistung.
 
-
 ## § 6 Wertigkeit der Befähigungszeugnisse
 
 Das Befähigungszeugnis BKW schließt die Befugnisse des
 Befähigungszeugnisses BKü ein, wenn der Inhaber das 20. Lebensjahr
 vollendet hat.
-
 
 ## § 7 Allgemeine Voraussetzungen für den Erwerb von Befähigungszeugnissen
 
@@ -250,7 +233,6 @@ Personen, die nicht Unionsbürger sind, nicht dazu, Schiffe unter der
 Bundesflagge zu führen. Dies ist in dem Befähigungszeugnis zu
 vermerken.
 
-
 ## § 8 Persönliche Eignung
 
 (1) Die persönliche Eignung für den Erwerb eines Befähigungszeugnisses
@@ -290,7 +272,6 @@ angesehen werden,
 eines Führungszeugnisses nach § 30 des Bundeszentralregistergesetzes
 verlangt werden.
 
-
 ## § 9 Mindestalter
 
 Das Mindestalter für den Erwerb der Zeugnisse über die Befähigung zum
@@ -299,7 +280,6 @@ nach § 3 Abs. 2, des Zeugnisses nach § 5 Abs. 2 sowie zum
 Rettungsbootmann beträgt 18 Jahre, für den Erwerb der
 Befähigungszeugnisse für Schiffsleute, die Brücken- und Maschinenwache
 gehen, 16 Jahre.
-
 
 ## § 10 Ausbildung und Seefahrtzeiten zum Erwerb der Befähigungszeugnisse für den nautischen Schiffsdienst
 
@@ -373,10 +353,7 @@ Schiffen mit einer Bruttoraumzahl bis zu 500 in der Nationalen Fahrt
 hat der Bewerber eine Seefahrtzeit von mindestens zwölf Monaten als
 Offizier nachzuweisen.
 
-
 ## (XXXX) §§ 11 bis 13 (weggefallen)
-
-
 
 ## § 14 Praktische Ausbildung und Seefahrtzeiten zum Erwerb der Befähigungszeugnisse BGW, BG, BKW, BK und BKü
 
@@ -410,7 +387,6 @@ Seefischerei nachzuweisen.
 Kapitän BK hat der Bewerber eine Seefahrtzeit von vierundzwanzig
 Monaten als Schiffsoffizier auf Fahrzeugen der Seefischerei
 nachzuweisen.
-
 
 ## § 15 Ausbildung und Seefahrtzeiten zum Erwerb der Befähigungszeugnisse für den technischen Schiffsdienst
 
@@ -485,19 +461,13 @@ Schiffsdienst nach § 5 Abs. 2 hat der Bewerber nachzuweisen
     in der Regel einem Schulhalbjahr an einer nach Landesrecht
     eingerichteten Ausbildungsstätte.
 
-
-
-
-
 ## § 16 (weggefallen)
 
 -
 
-
 ## § 17
 
 (weggefallen)
-
 
 ## § 18 Berufseingangsprüfung
 
@@ -554,14 +524,12 @@ c)  BKü ein halbes Halbjahr.
 
 (5) (weggefallen)
 
-
 ## § 18a Sicherheitsgrundausbildung und Unterweisung für Seeleute
 
 Alle Seeleute, die erstmalig eine Beschäftigung an Bord eines Schiffes
 aufnehmen, müssen die Teilnahme an einer zugelassenen Einführungs- und
 Sicherheitsgrundausbildung oder -unterweisung nach Maßgabe der
 Anforderungen in Abschnitt A-VI/1 des STCW-Codes nachweisen.
-
 
 ## § 18b Anforderungen an die Qualifikation der wachbefähigten Schiffsleute
 
@@ -584,7 +552,6 @@ erfüllen.
 (3) Auszubildende zum Schiffsmechaniker/zur Schiffsmechanikerin im
 zweiten und dritten Ausbildungsjahr erfüllen die Anforderungen an den
 Erwerb des Befähigungszeugnisses für wachbefähigte Schiffsleute.
-
 
 ## § 18c Zusätzliche Anforderungen an die Ausbildung und Befähigung von Kapitänen, Offizieren und Schiffsleuten auf Tankschiffen
 
@@ -632,7 +599,6 @@ erfüllen und darüber hinaus
 
 (4) (weggefallen)
 
-
 ## § 18d Zusätzliche Anforderungen für die Ausbildung und Befähigung von Kapitänen, Offizieren, Schiffsleuten und sonstigem Personal auf Ro-Ro-Fahrgastschiffen
 
 (1) Für den Erwerb des Befähigungsnachweises für den Dienst auf Ro-Ro-
@@ -677,7 +643,6 @@ Verantwortung tragen, müssen eine zugelassene Ausbildung in
 Krisenbewältigung und menschlichem Verhalten entsprechend den
 Anforderungen des Abschnittes A-V/2 Abs. 5 des STCW-Codes abgeschossen
 haben.
-
 
 ## § 18e Zusätzliche Anforderungen für die Ausbildung und Befähigung von Kapitänen, Offizieren, Schiffsleuten und sonstigem Personal auf Fahrgastschiffen, die keine Ro-Ro-Fahrgastschiffe sind
 
@@ -725,7 +690,6 @@ Ausbildung in Krisenbewältigung und menschlichem Verhalten
 entsprechend den Anforderungen des Abschnittes A-V/3 Abs. 5 des STCW-
 Codes abgeschlossen haben.
 
-
 ## § 18f Zusätzliche Anforderungen für die Ausbildung und Befähigung von Beauftragten für die Gefahrenabwehr auf dem Schiff
 
 Für den Erwerb des Befähigungsnachweises für den Beauftragten für die
@@ -740,10 +704,6 @@ Gefahrenabwehr auf dem Schiff müssen die Bewerber
     zugelassenen Fortbildungslehrgang teilgenommen haben, der mindestens
     die Anforderungen von Abschnitt A-VI/5 des STCW-Codes erfüllt.
 
-
-
-
-
 ## § 19
 
 Soweit durch diese Rechtsverordnung Schriftform einschließlich für
@@ -753,11 +713,9 @@ andere Dokumente ausgestellt werden, deren Ausstellung schriftlich zu
 beantragen ist, sie auszuhändigen, vorzulegen oder mitzuführen sind,
 ist die elektronische Form ausgeschlossen.
 
-
 ## § 19a
 
 (weggefallen)
-
 
 ## § 20 Ausstellung der Befähigungszeugnisse
 
@@ -789,7 +747,6 @@ Landes.
 ist ein Befähigungszeugnis niedrigerer Ordnung einzuziehen, soweit
 seine Befugnisse von dem Befähigungszeugnis höherer Ordnung umfaßt
 werden.
-
 
 ## § 21 Befähigungszeugnisse anderer Mitgliedstaaten der Europäischen Union
 
@@ -839,7 +796,6 @@ Qualifikationen für die Schifffahrt, deren Inhaber einen Anspruch auf
 Anerkennung haben. Ein Anpassungslehrgang oder angemessene berufliche
 Erfahrungen können im Einzelfall verlangt werden.
 
-
 ## § 21a Befähigungszeugnisse aus Drittstaaten
 
 Befähigungszeugnisse aus anderen als den in § 21 bezeichneten Staaten
@@ -847,7 +803,6 @@ können unter Anwendung des Verfahrens nach den Artikeln 19 und 20 und
 des Anhangs II der Richtlinie 2008/106/EG anerkannt werden. Zuständig
 für die Erteilung der Anerkennungsvermerke ist das Bundesamt für
 Seeschifffahrt und Hydrographie.
-
 
 ## § 21b Bekämpfung von Betrug und sonstigen rechtswidrigen Praktiken im Zusammenhang mit Befähigungszeugnissen
 
@@ -864,11 +819,9 @@ ausländischen Stellen im Sinne von Artikel 7a Abs. 2 der Richtlinie
 2001/25/EG unter Beachtung der Vorschriften nach § 9f Abs. 4 und 5 des
 Seeaufgabengesetzes.
 
-
 ## § 21c (weggefallen)
 
 -
-
 
 ## § 22 Ersatz von Befähigungszeugnissen
 
@@ -877,7 +830,6 @@ auf Antrag von der ausstellenden Behörde eine weitere Ausfertigung,
 wenn die Unterlagen für die Ausstellung des Befähigungszeugnisses
 vorhanden sind. Die Behörde kann eine Versicherung an Eides Statt
 abnehmen.
-
 
 ## § 23 Entzug von Befähigungszeugnissen
 
@@ -924,11 +876,9 @@ personenbezogenen Daten einschließlich der Fristen und Bedingungen
 gemäß Absatz 3 über die Entziehung eines Befähigungszeugnisses
 unverzüglich in das Seeleute-Befähigungs-Verzeichnis ein.
 
-
 ## § 24 (weggefallen)
 
 -
-
 
 ## § 25 Fortbestand der Befähigung
 
@@ -964,7 +914,6 @@ ausstellen, besondere Zulassungen erteilen.
 
 (3) Absatz 1 gilt nicht für den Dienst auf Fischereifahrzeugen.
 
-
 ## § 26 Befähigung zur Durchführung der medizinischen Fürsorge an Bord
 
 Kapitäne oder Schiffsoffiziere des nautischen Schiffsdienstes, die für
@@ -973,7 +922,6 @@ sind, müssen in regelmäßigen Abständen, die fünf Jahre nicht
 überschreiten, an einem von der jeweils zuständigen Behörde der Länder
 anerkannten medizinischen Wiederholungslehrgang teilnehmen. Der
 Nachweis wird durch eine Teilnahmebescheinigung erbracht.
-
 
 ## § 26a Zulassung von Kapitänen BKü als Leiter von Maschinenanlagen auf Fischereifahrzeugen in der Küstenfischerei
 
@@ -987,7 +935,6 @@ Befähigungszeugnis BKü:
 Berechtigt auch zum Leiten von automatisierten Maschinenanlagen mit
 einer Leistung bis zu 300 kW auf Fischereifahrzeugen in der
 Küstenfischerei.
-
 
 ## § 27 Abweichungen vom Ausbildungsgang
 
@@ -1010,11 +957,9 @@ für den Erwerb der Befähigungszeugnisse nach § 3 Abs. 2 und nach § 5
 Abs. 2 anerkennen, sofern sie den Anforderungen dieser Verordnung
 entsprechen.
 
-
 ## § 28
 
 (weggefallen)
-
 
 ## § 29 Überwachung der Ausbildung
 
@@ -1022,7 +967,6 @@ Die Berufsbildungsstelle Seeschiffahrt e.V. überwacht die Durchführung
 der praktischen Ausbildung der Offiziersassistenten. Sie untersteht
 hierbei der Fachaufsicht des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung oder der von ihm bestimmten Stelle.
-
 
 ## § 30 Weitergelten und Umtausch bisheriger Befähigungszeugnisse
 
@@ -1139,21 +1083,17 @@ gebührenpflichtig in Befähigungszeugnisse nach § 3 Abs. 2 oder nach §
 (6) Befähigungszeugnisse für die Fischerei dienende Kauffahrteischiffe
 bleiben unberührt.
 
-
 ## § 31 (weggefallen)
 
 -
-
 
 ## § 32
 
 (weggefallen)
 
-
 ## § 33 (Inkrafttreten und Außerkrafttreten)
 
 -
-
 
 ## Anlage 1 (zu § 10 Abs. 4 und § 18 Abs. 2) Anforderungen für den Nachweis der fachlichen Eignung für den Erwerb der Befähigungszeugnissen nach § 3 Abs. 2
 
@@ -1184,10 +1124,6 @@ folgenden Gebieten nachzuweisen:
 
 
 8.  Personalführung
-
-
-
-
 
 ## Anlage 2 (zu § 18 Abs. 2) Anforderungen für den Nachweis der fachlichen Eignung zum Erwerb von Befähigungszeugnissen nach § 4
 
@@ -2803,9 +2739,6 @@ an nach Landesrecht eingerichteten Ausbildungsstätten.
     *
     *
 
-
-
-
 ## Anlage 3 (zu § 15 Abs. 4 und § 18 Abs. 2) Anforderungen für den Nachweis der fachlichen Eignung für den Erwerb der Befähigungszeugnisse nach § 5 Abs. 2
 
    Für den Erwerb des Befähigungszeugnisses für Schiffsmaschinisten auf
@@ -2837,13 +2770,7 @@ nachzuweisen:
 7.  Vorschriften für die ordnungsgemäße Führung des
     Schiffsmotorenbetriebes.
 
-
-
-
-
 ## (XXXX) Anlagen 4 bis 12 (weggefallen)
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1109)
 

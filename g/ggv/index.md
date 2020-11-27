@@ -18,8 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 Abs. 3 G v. 11.8.2009 I 2713
 
-
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung regelt
@@ -46,17 +44,12 @@ Diese Verordnung regelt
 
     in das Grundbuchblatt des betroffenen Grundstücks.
 
-
-
-
-
 ## § 2 Grundsatz für vorhandene Grundbuchblätter
 
 Die Führung von vorhandenen Gebäudegrundbuchblättern richtet sich nach
 den in § 150 Abs. 1 Nr. 4 Satz 1 und 2 der Grundbuchordnung
 bezeichneten Vorschriften. Diese Grundbuchblätter können auch gemäß §
 3 fortgeführt, umgeschrieben oder neu gefaßt werden.
-
 
 ## § 3 Gestaltung und Führung neu anzulegender Gebäudegrundbuchblätter
 
@@ -133,7 +126,6 @@ Gebäude tritt. An die Stelle des Vermerks "Gebäudeeigentum auf Grund
 eines dinglichen Nutzungsrechts auf ..." tritt der Vermerk
 "Gebäudeeigentum gemäß Artikel 233 § 2b EGBGB auf ..." oder
 "Gebäudeeigentum gemäß Artikel 233 § 8 EGBGB auf...".
-
 
 ## § 4 Nachweis des Gebäudeeigentums oder des Rechts zum Besitz gemäß Artikel 233 § 2a EGBGB
 
@@ -221,7 +213,6 @@ Bürgerlichen Gesetzbuche genügt:
 Gebäudegrundbuchblattes oder, wenn dieses nicht besteht, zu den
 Grundakten des belasteten oder betroffenen Grundstücks zu nehmen.
 
-
 ## § 5 Eintragung des dinglichen Nutzungsrechts
 
 (1) In den Fällen des Artikels 233 § 4 Abs. 1 Satz 2 des
@@ -255,7 +246,6 @@ vermerkt ist.
 (3) Bezieht sich das Nutzungsrecht auf mehrere Grundstücke oder
 Flurstücke, ist § 48 der Grundbuchordnung anzuwenden.
 
-
 ## § 6 Eintragung des Gebäudeeigentums gemäß Artikel 233 §§ 2b und 8 EGBGB
 
 Vor Anlegung des Gebäudegrundbuchblattes ist das Gebäudeeigentum von
@@ -267,7 +257,6 @@ Gebäude tritt. An die Stelle des Vermerks "Dingliches Nutzungsrecht
 ..." tritt der Vermerk "Gebäudeeigentum gemäß Artikel 233 § 2b EGBGB
 ..." oder "Gebäudeeigentum gemäß Artikel 233 § 8 EGBGB ...". § 5 Abs 1
 gilt entsprechend.
-
 
 ## § 7 Vermerk zur Sicherung der Ansprüche aus der Sachenrechtsbereinigung aus dem Recht zum Besitz gemäß Artikel 233 § 2a EGBGB
 
@@ -297,7 +286,6 @@ Eintragungen in den Spalten 5 und 7 ist in den Spalten 4 und 6 die
 laufende Nummer anzugeben, unter der die betroffene Eintragung in der
 Spalte 1 vermerkt ist.
 
-
 ## § 8 Nutzungsrecht, Gebäudeeigentum oder Recht zum Besitz für mehrere Berechtigte
 
 Soll ein dingliches Nutzungsrecht oder ein Gebäudeeigentum als
@@ -314,7 +302,6 @@ Grundbuchordnung. Für die bereits ohne Beachtung der Vorschrift des §
 234 § 4a Abs. 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 entsprechend mit der Maßgabe, daß die Eintragung des maßgeblichen
 Verhältnisses nur auf Antrag eines Antragsberechtigten erfolgen soll.
-
 
 ## § 9 Nutzungsrecht oder Gebäudeeigentum auf bestimmten Grundstücksteilen
 
@@ -344,7 +331,6 @@ grundbuchmäßigen Bezeichnung des oder der Grundstücke die laufende
 Nummer anzugeben ist, unter der das oder die Grundstücke im
 Bestandsverzeichnis eingetragen sind.
 
-
 ## § 10 Nutzungsrecht, Gebäudeeigentum oder Recht zum Besitz auf nicht bestimmten Grundstücken oder Grundstücksteilen
 
 (1) Besteht ein dingliches Nutzungsrecht, ein Gebäudeeigentum oder ein
@@ -371,7 +357,6 @@ Nutzungsrecht, das Gebäudeeigentum oder das Recht zum Besitz lastet.
 Vervielfältigungen dieser anderen amtlichen Unterlagen sowie dieser
 Bestätigungen hat das Grundbuchamt der für die Führung des amtlichen
 Verzeichnisses zuständigen Stelle zur Verfügung zu stellen.
-
 
 ## § 11 Widerspruch
 
@@ -447,7 +432,6 @@ Nutzungsrechts erhoben und dies bis zu dem genannten Zeitpunkt dem
 Grundbuchamt in der Form des § 29 der Grundbuchordnung nachgewiesen
 wird. Absatz 4 gilt entsprechend.
 
-
 ## § 12 Aufhebung des Gebäudeeigentums
 
 (1) Die Aufhebung eines Nutzungsrechts oder Gebäudeeigentums nach
@@ -485,7 +469,6 @@ vorgenommenen Eintragungen zu bestätigen; Absatz 2 Satz 2 gilt
 entsprechend. Wird die Erklärung nicht abgegeben, werden Grundstück
 und Gebäude in der Regel wieder getrennt gebucht.
 
-
 ## § 13 Bekanntmachungen
 
 Auf die Bekanntmachungen bei Eintragungen im Grundbuch des mit einem
@@ -497,7 +480,6 @@ Bekanntmachungen gegenüber dem Eigentümer des belasteten oder
 betroffenen Grundstücks jedoch nur dann vorzunehmen, wenn das Recht
 dort eingetragen ist oder gleichzeitig eingetragen wird und der
 Eigentümer bekannt ist.
-
 
 ## § 14 Begriffsbestimmungen, Teilung von Grundstück und von Gebäudeeigentum
 
@@ -532,7 +514,6 @@ kann auch durch die Bestätigung der für die Führung des
 Liegenschaftskatasters zuständigen Stelle oder eines öffentlich
 bestellten Vermessungsingenieurs, daß die in Satz 1 genannten
 Voraussetzungen gegeben sind, erbracht werden.
-
 
 ## § 15 Überleitungsvorschrift
 

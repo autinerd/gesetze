@@ -18,8 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 29.10.2008 I 2155
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +27,6 @@ verordnet das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft nach Anhören des Ständigen Ausschusses des
 Bundesinstituts für Berufsbildung im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -80,7 +77,6 @@ Forstwirtschaftsmeisterin als Fach- und Führungskraft wahrzunehmen:
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss
 Forstwirtschaftsmeister/Forstwirtschaftsmeisterin.
 
-
 ## § 1a Zulassungsvoraussetzungen zur Meisterprüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -111,7 +107,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung
 rechtfertigen.
 
-
 ## § 2 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Teile:
@@ -128,7 +123,6 @@ rechtfertigen.
 
 
 (2) Die Meisterprüfung ist nach Maßgabe der §§ 3 bis 5 durchzuführen.
-
 
 ## § 3 Prüfungsanforderungen im Teil "Produktion und Dienstleistungen"
 
@@ -201,7 +195,6 @@ wenn diese für das Bestehen der Prüfung oder für die eindeutige
 Beurteilung der Prüfungsleistung von Bedeutung ist. Die
 Ergänzungsprüfung soll für jeden Prüfungsteilnehmer nicht länger als
 30 Minuten dauern.
-
 
 ## § 4 Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
@@ -276,7 +269,6 @@ wenn diese für das Bestehen der Prüfung oder für die eindeutige
 Beurteilung der Prüfungsleistung von Bedeutung ist. Die
 Ergänzungsprüfung soll für jeden Prüfungsteilnehmer nicht länger als
 30 Minuten dauern.
-
 
 ## § 5 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
@@ -493,7 +485,6 @@ Bestehen der Prüfung oder für die eindeutige Beurteilung der
 Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll für
 jeden Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -504,7 +495,6 @@ einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
 vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 7 Bestehen der Meisterprüfung
 
@@ -532,7 +522,6 @@ nicht bestanden, wenn in der gesamten Prüfung mindestens eine der
 Leistungen in den Prüfungen gemäß Absatz 1 mit "ungenügend" oder mehr
 als eine dieser Leistungen mit "mangelhaft" benotet worden ist.
 
-
 ## § 8 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -545,12 +534,10 @@ mindestens mit der Note "ausreichend" bewertet worden sind und er sich
 innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht
 bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
-
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 

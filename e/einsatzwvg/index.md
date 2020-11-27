@@ -18,9 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.9.2012 I 2070
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Begriffsbestimmung
 
@@ -48,7 +46,6 @@ die eine nicht nur geringfügige gesundheitliche Schädigung durch einen
 Einsatzunfall im Sinne von § 63c des Soldatenversorgungsgesetzes oder
 § 31a des Beamtenversorgungsgesetzes erlitten haben.
 
-
 ### § 2 Anwendungsbereich
 
 (1) Dieses Gesetz gilt entsprechend für Einsatzgeschädigte, die zur
@@ -67,7 +64,6 @@ anzuwenden.
 
 (3) § 63c Absatz 6 des Soldatenversorgungsgesetzes und § 31a Absatz 4
 des Beamtenversorgungsgesetzes gelten entsprechend.
-
 
 ### § 3 Berufliche Qualifizierung
 
@@ -122,7 +118,6 @@ oder deren Fortsetzung keinen Erfolg mehr verspricht.
 
 (6) Die oberste Dienstbehörde kann die in den Absätzen 3 bis 5
 genannten Aufgaben einer ihr nachgeordneten Behörde übertragen.
-
 
 ### § 4 Schutzzeit
 
@@ -182,7 +177,6 @@ die für die Kündigung, Entlassung oder Versetzung in den Ruhestand
 zuständig ist. Für Einsatzgeschädigte nach § 1 Nummer 5 trifft die
 Feststellung die Bundesanstalt Technisches Hilfswerk.
 
-
 ### § 5 Einbeziehung in Personalauswahlentscheidungen
 
 (1) Der Bezug von Leistungen nach § 4 Absatz 1 darf nicht zur
@@ -193,9 +187,7 @@ Personalauswahlentscheidungen einzubeziehen.
 (2) Absatz 1 gilt bei Einsatzgeschädigten nach § 2 Absatz 2 Satz 1
 auch für deren zivilberuflichen Werdegang beim Bund.
 
-
 ## Abschnitt 2 - Regelungen für Soldatinnen und Soldaten sowie frühere Soldatinnen und frühere Soldaten
-
 
 ### § 6 Wehrdienstverhältnis besonderer Art
 
@@ -302,7 +294,6 @@ begründenden Folge des Unfalls gerechnet werden konnte oder das
 Hindernis für den Antrag weggefallen ist, innerhalb von sechs Monaten
 gestellt werden.
 
-
 ### § 7 Weiterverwendung als Berufssoldatin oder Berufssoldat
 
 (1) Einsatzgeschädigte nach § 1 Nummer 1, deren Erwerbsfähigkeit
@@ -336,7 +327,6 @@ Dienstfähigkeit tritt.
 
 (3) Für Mannschaften gilt als Altersgrenze im Sinne des § 45 Absatz 2
 des Soldatengesetzes die Vollendung des 54. Lebensjahres.
-
 
 ### § 8 Weiterverwendung als Beamtin, Beamter, Arbeitnehmerin oder Arbeitnehmer
 
@@ -392,7 +382,6 @@ sind, haben einen Weiterbeschäftigungsanspruch nach Absatz 1 nur dann,
 wenn sie aufgrund der gesundheitlichen Schädigung nicht in ihrem
 bisherigen Dienst- oder Arbeitsverhältnis weiterverwendet werden
 können.
-
 
 ### § 9 Versorgung der Soldatinnen und Soldaten und ihrer Hinterbliebenen
 
@@ -453,12 +442,7 @@ dem Soldatenversorgungsgesetz mit folgenden Maßgaben:
     Einsatzgeschädigten nach § 1 Nummer 1, die während des
     Wehrdienstverhältnisses besonderer Art verstorben sind.
 
-
-
-
-
 ## Abschnitt 3 - Regelungen für Beamtinnen, Beamte, Richterinnen und Richter sowie für frühere Beamtinnen, Beamte, Richterinnen und Richter
-
 
 ### § 10 Verlängerung des Dienstverhältnisses, erneute Berufung
 
@@ -526,10 +510,6 @@ wenn
 
 3.  ein Fall des § 34 Absatz 1 Satz 1 Nummer 1 des Bundesbeamtengesetzes
     vorliegt.
-
-
-
-
 
 ### § 11 Weiterverwendung nach der Schutzzeit
 
@@ -610,9 +590,7 @@ entsprechend.
 (4) Die Absätze 1 und 2 gelten für Einsatzgeschädigte nach § 1 Nummer
 3 entsprechend.
 
-
 ## Abschnitt 4 - Regelungen für Arbeitnehmerinnen und Arbeitnehmer sowie frühere Arbeitnehmerinnen und frühere Arbeitnehmer
-
 
 ### § 12 Verlängerung von Arbeitsverhältnissen, erneute Einstellung
 
@@ -649,10 +627,6 @@ Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. §
 
 5.  eine Einstellung nach Satz 1 bereits zu einem inzwischen wieder
     beendeten Arbeitsverhältnis geführt hat.
-
-
-
-
 
 ### § 13 Ausgleichsbetrag während der Schutzzeit
 
@@ -697,7 +671,6 @@ Leistungsentgelte, Jahressonderzahlungen sowie sonstige besondere
 Zahlungen. Entgeltbestandteile, die ausschließlich aufgrund der
 Beschäftigung im Ausland gezahlt werden, bleiben außer Ansatz.
 
-
 ### § 14 Weiterbeschäftigung einsatzgeschädigter Arbeitnehmerinnen und einsatzgeschädigter Arbeitnehmer nach der Schutzzeit
 
 Einsatzgeschädigte nach § 1 Nummer 4, deren Erwerbsfähigkeit infolge
@@ -712,7 +685,6 @@ die Weiterbeschäftigung zu einer niedrigeren Entgeltgruppe, wird der
 Unterschiedsbetrag zwischen dem jeweiligen Tabellenentgelt der
 bisherigen und der neuen Entgeltgruppe als persönliche Zulage gezahlt.
 
-
 ### § 15 Befristete Arbeitsverhältnisse
 
 Einsatzgeschädigte nach § 1 Nummer 4, deren Erwerbsfähigkeit infolge
@@ -722,9 +694,7 @@ unmittelbar anschließende Weiterverwendung entsprechend § 8
 beanspruchen. Erfolgt die Weiterverwendung in einem Arbeitsverhältnis,
 gilt § 14 Satz 3 entsprechend.
 
-
 ## Abschnitt 5 - Regelungen für Helferinnen und Helfer des Technischen Hilfswerks
-
 
 ### § 16 Beschäftigungsanspruch für einsatzgeschädigte Helferinnen und Helfer des Technischen Hilfswerks
 
@@ -760,7 +730,6 @@ gestanden haben und deren gesundheitliche Schädigung erst nach
 Beendigung dieses Beschäftigungsverhältnisses erkannt worden ist. § 6
 Absatz 6 und § 10 Absatz 2 gelten entsprechend.
 
-
 ### § 17 Erstattungsanspruch
 
 Soweit ein Dienstherr oder Arbeitgeber das Beschäftigungsverhältnis
@@ -769,7 +738,6 @@ Maßgabe der §§ 4 und 5 fortführt, ohne nach diesen Vorschriften hierzu
 verpflichtet zu sein, hat er Anspruch auf Erstattung der ihm durch die
 Weiterbeschäftigung während der Schutzzeit entstehenden
 Mehraufwendungen durch die Bundesanstalt Technisches Hilfswerk.
-
 
 ### § 18 Entschädigung
 
@@ -800,9 +768,7 @@ beruflichen Werdegang von Einsatzgeschädigten nach § 1 Nummer 5,
 erhalten diese einen angemessenen Ausgleich ihrer Nachteile von der
 Bundesanstalt Technisches Hilfswerk.
 
-
 ## Abschnitt 6 - Besondere Personengruppen
-
 
 ### § 19 Vorübergehend im Auswärtigen Dienst verwendete Beschäftigte des Bundes
 
@@ -818,7 +784,6 @@ zu gewähren und Feststellungen zu treffen sind sowie über Anträge zu
 entscheiden ist, ist der Geschäftsbereich zuständig, dem die in Absatz
 1 genannten Personen vor der Verwendung im Auswärtigen Dienst angehört
 haben.
-
 
 ### § 20 Zum Bund abgeordnete Beschäftigte
 
@@ -866,9 +831,7 @@ Arbeitgeber nicht erhalten, wird ihren Hinterbliebenen eine einmalige
 Unfallentschädigung nach Maßgabe des § 43 Absatz 2 des
 Beamtenversorgungsgesetzes gewährt.
 
-
 ## Abschnitt 7 - Schlussvorschriften
-
 
 ### § 21 Umzüge aus gesundheitlichen Gründen
 
@@ -876,7 +839,6 @@ Wird die Zusage der Umzugskostenvergütung nach § 4 Absatz 2 Nummer 3
 des Bundesumzugskostengesetzes wegen des Gesundheitszustandes infolge
 des Einsatzunfalls erteilt, ist § 8 des Bundesumzugskostengesetzes
 entsprechend anzuwenden.
-
 
 ### § 22 Übergangsregelung
 
@@ -956,7 +918,6 @@ Dezember 2011 entstanden, beträgt die Entschädigung
 
 Aus gleichem Anlass bereits gewährte Leistungen nach § 20 Absatz 4
 oder Absatz 5 sind anzurechnen.
-
 
 ### § 23 Zuständiger Geschäftsbereich
 

@@ -21,10 +21,7 @@ Neugefasst durch
 Geändert durch
 :   Art. 12 G v. 17.7.2009 I 1990
 
-
 ## Erster Abschnitt - Zweck des Gesetzes, Begriffsbestimmungen
-
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -35,7 +32,6 @@ Blut und Blutbestandteilen und für eine gesicherte und sichere
 Versorgung der Bevölkerung mit Blutprodukten zu sorgen und deshalb die
 Selbstversorgung mit Blut und Plasma auf der Basis der freiwilligen
 und unentgeltlichen Blutspende zu fördern.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -58,13 +54,7 @@ Im Sinne dieses Gesetzes
     3 des Arzneimittelgesetzes und Blutbestandteile, die zur Herstellung
     von Wirkstoffen oder Arzneimitteln bestimmt sind.
 
-
-
-
-
 ## Zweiter Abschnitt - Gewinnung von Blut und Blutbestandteilen
-
-
 
 ### § 3 Versorgungsauftrag
 
@@ -86,7 +76,6 @@ betreuen.
 gesundheitliche Aufklärung zuständige Bundesoberbehörde sollen die
 Aufklärung der Bevölkerung über die freiwillige und unentgeltliche
 Blut- und Plasmaspende fördern.
-
 
 ### § 4 Anforderungen an die Spendeeinrichtungen
 
@@ -111,7 +100,6 @@ Die leitende ärztliche Person nach Satz 1 Nr. 2 kann zugleich die
 Persönlichkeitssphäre der spendenden Personen, eine ordnungsgemäße
 Spendeentnahme und die Voraussetzungen für eine notfallmedizinische
 Versorgung der spendenden Personen sind sicherzustellen.
-
 
 ### § 5 Auswahl der spendenden Personen
 
@@ -138,7 +126,6 @@ Eigenblutentnahmen sind diese Untersuchungen nach den Besonderheiten
 dieser Entnahmen durchzuführen. Anordnungen der zuständigen
 Bundesoberbehörde bleiben unberührt.
 
-
 ### § 6 Aufklärung, Einwilligung
 
 (1) Eine Spendeentnahme darf nur durchgeführt werden, wenn die
@@ -156,7 +143,6 @@ verbundene Erhebung, Verarbeitung und Nutzung personenbezogener Daten
 aufzuklären. Die Aufklärung ist von der spendenden Person schriftlich
 zu bestätigen.
 
-
 ### § 7 Anforderungen zur Entnahme der Spende
 
 (1) Die anlässlich der Spendeentnahme vorzunehmende Feststellung der
@@ -167,7 +153,6 @@ der medizinischen Wissenschaft und Technik zu erfolgen.
 (2) Die Entnahme der Spende darf nur durch eine ärztliche Person oder
 durch anderes qualifiziertes Personal unter der Verantwortung einer
 ärztlichen Person erfolgen.
-
 
 ### § 8 Spenderimmunisierung
 
@@ -236,7 +221,6 @@ Unternehmer des zur Immunisierung verwendeten Arzneimittels
 unverzüglich mitzuteilen. Von betroffenen immunisierten Personen
 werden das Geburtsdatum und die Angabe des Geschlechtes übermittelt.
 
-
 ### § 9 Blutstammzellen und andere Blutbestandteile
 
 (1) Die für die Separation von Blutstammzellen und anderen
@@ -265,13 +249,11 @@ Rechtsverordnung kann auch eine Übermittlung der Angaben an
 Einrichtungen und Behörden innerhalb und außerhalb des
 Geltungsbereiches dieses Gesetzes vorgesehen werden.
 
-
 ### § 10 Aufwandsentschädigung
 
 (1) Die Spendeentnahme soll unentgeltlich erfolgen. Der spendenden
 Person kann eine Aufwandsentschädigung gewährt werden, die sich an dem
 unmittelbaren Aufwand je nach Spendeart orientieren soll.
-
 
 ### § 11 Spenderdokumentation, Datenschutz
 
@@ -300,7 +282,6 @@ Zusammenhang mit der Spendeentnahme stehen, erforderlich ist. Zur
 Risikoerfassung nach dem Arzneimittelgesetz sind das Geburtsdatum und
 das Geschlecht der spendenden Person anzugeben.
 
-
 ### § 11a Blutdepots
 
 Für Blutdepots der Einrichtungen der Krankenversorgung, die
@@ -310,7 +291,6 @@ Blutprodukte lagern und abgeben, gelten die Vorschriften des § 3 Abs.
 und 4 und § 20 Abs. 2 der Arzneimittel- und
 Wirkstoffherstellungsverordnung sowie § 16 Abs. 2 und § 19 Abs. 3
 entsprechend.
-
 
 ### § 12 Verordnungsermächtigung
 
@@ -347,7 +327,6 @@ geregelt werden. Das Bundesministerium für Gesundheit kann die
 Ermächtigung nach Satz 1 durch Rechtsverordnung ohne Zustimmung des
 Bundesrates auf die zuständige Bundesoberbehörde übertragen.
 
-
 ### § 12a Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft und Technik zur Gewinnung von Blut und Blutbestandteilen
 
 (1) Die Bundesärztekammer kann den allgemein anerkannten Stand der
@@ -364,10 +343,7 @@ zuständigen Bundesoberbehörde im Bundesanzeiger bekannt gemacht.
 Wissenschaft und Technik wird vermutet, wenn die Richtlinien der
 Bundesärztekammer nach Absatz 1 beachtet worden sind.
 
-
 ## Dritter Abschnitt - Anwendung von Blutprodukten
-
-
 
 ### § 13 Anforderungen an die Durchführung
 
@@ -386,7 +362,6 @@ Möglichkeit der Anwendung von Eigenblut aufzuklären.
 
 (2) Die ärztlichen Personen, die eigenverantwortlich Blutprodukte
 anwenden, müssen ausreichende Erfahrung in dieser Tätigkeit besitzen.
-
 
 ### § 14 Dokumentation, Datenschutz
 
@@ -455,7 +430,6 @@ Anwendung von Blutprodukten stehen, erforderlich ist. Zur
 Risikoerfassung nach dem Arzneimittelgesetz sind das Geburtsdatum und
 das Geschlecht der zu behandelnden Person anzugeben.
 
-
 ### § 15 Qualitätssicherung
 
 (1) Einrichtungen der Krankenversorgung, die Blutprodukte anwenden,
@@ -487,7 +461,6 @@ Anwendung, die anwendungsbezogenen Wirkungen, Nebenwirkungen und
 unerwünschten Reaktionen und zusätzlich erforderliche therapeutische
 Maßnahmen festzulegen.
 
-
 ### § 16 Unterrichtungspflichten
 
 (1) Treten im Zusammenhang mit der Anwendung von Blutprodukten und
@@ -513,7 +486,6 @@ und das Geschlecht anzugeben.
 
 (3) Die berufsrechtlichen Mitteilungspflichten bleiben unberührt.
 
-
 ### § 17 Nicht angewendete Blutprodukte
 
 (1) Nicht angewendete Blutprodukte sind innerhalb der Einrichtungen
@@ -525,7 +497,6 @@ festgelegten Verfahren erfolgen. Nicht angewendete Eigenblutentnahmen
 dürfen nicht an anderen Personen angewendet werden.
 
 (2) Der Verbleib nicht angewendeter Blutprodukte ist zu dokumentieren.
-
 
 ### § 18 Stand der medizinischen Wissenschaft und Technik zur Anwendung von Blutprodukten
 
@@ -570,10 +541,7 @@ medizinischen Wissenschaft und Technik zu den Anforderungen nach
 diesem Abschnitt eingehalten worden ist, wenn und soweit die
 Richtlinien der Bundesärztekammer nach Absatz 1 beachtet worden sind.
 
-
 ## Vierter Abschnitt - Rückverfolgung
-
-
 
 ### § 19 Verfahren
 
@@ -651,7 +619,6 @@ erteilen. § 16 Abs. 2 Satz 3 gilt entsprechend.
 weiterer Rückverfolgungsverfahren und der Risikoerfassung nach dem
 Arzneimittelgesetz zu dokumentieren.
 
-
 ### § 20 Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, nach Anhörung
@@ -665,10 +632,7 @@ Personen, zur Dokumentation und Übermittlung von Daten zu Zwecken der
 Rückverfolgung, zum Zeitraum der Rückverfolgung sowie zu Sperrung und
 Lagerung von Blutprodukten erlassen werden.
 
-
 ## Fünfter Abschnitt - Meldewesen
-
-
 
 ### § 21 Koordiniertes Meldewesen
 
@@ -692,7 +656,6 @@ hat melderbezogene Daten streng vertraulich zu behandeln.
 jährlich eine Liste der belieferten Einrichtungen der
 Krankenversorgung und stellen diese Liste auf Anfrage der zuständigen
 Bundesoberbehörde zur Verfügung.
-
 
 ### § 22 Epidemiologische Daten
 
@@ -721,7 +684,6 @@ Angaben in anonymisierter Form übersichtlich zusammen und macht eine
 jährliche Gesamtübersicht bis zum 30. September des folgenden Jahres
 bekannt. Melderbezogene Daten sind streng vertraulich zu behandeln.
 
-
 ### § 23 Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, nach Anhörung
@@ -729,10 +691,7 @@ von Sachverständigen eine Rechtsverordnung mit Zustimmung des
 Bundesrates zur Regelung von Art, Umfang und Darstellungsweise der
 Angaben nach diesem Abschnitt zu erlassen.
 
-
 ## Sechster Abschnitt - Sachverständige
-
-
 
 ### § 24 Arbeitskreis Blut
 
@@ -756,10 +715,7 @@ beruft die leitende Person des Arbeitskreises. Es kann eine
 Bundesoberbehörde mit der Geschäftsführung des Arbeitskreises
 beauftragen.
 
-
 ## Siebter Abschnitt - Pflichten der Behörden
-
-
 
 ### § 25 Mitteilungspflichten der Behörden
 
@@ -769,10 +725,7 @@ gegenseitig ihnen bekannt gewordene Verdachtsfälle schwerwiegender
 unerwünschter Reaktionen oder Nebenwirkungen von Blutprodukten
 unverzüglich mit. § 16 Abs. 2 Satz 3 gilt entsprechend.
 
-
 ## Achter Abschnitt - Sondervorschriften
-
-
 
 ### § 26 Bundeswehr
 
@@ -790,10 +743,7 @@ dieses Gesetzes erlassenen Rechtsverordnungen zulassen, wenn dies zur
 Durchführung der besonderen Aufgaben gerechtfertigt ist und der Schutz
 der Gesundheit gewahrt bleibt.
 
-
 ## Neunter Abschnitt - Bestimmung der zuständigen Bundesoberbehörden und sonstige Bestimmungen
-
-
 
 ### § 27 Zuständige Bundesoberbehörden
 
@@ -810,7 +760,6 @@ Aufklärung.
 Bundesbehörde ist das Deutsche Institut für Medizinische Dokumentation
 und Information.
 
-
 ### § 28 Ausnahmen vom Anwendungsbereich
 
 Dieses Gesetz findet keine Anwendung auf die Entnahme einer
@@ -823,14 +772,12 @@ Grundlage des von der Bundeszahnärztekammer festgestellten und in den
 Zahnärztlichen Mitteilungen veröffentlichten Standes der medizinischen
 Wissenschaft und Technik hergestellt und angewendet werden.
 
-
 ### § 29 Verhältnis zu anderen Rechtsbereichen
 
 Die Vorschriften des Arzneimittelrechts, des Medizinprodukterechts und
 des Seuchenrechts bleiben unberührt, soweit in diesem Gesetz nicht
 etwas anderes vorgeschrieben ist. Das Transplantationsrecht findet
 keine Anwendung.
-
 
 ### § 30 Angleichung an Gemeinschaftsrecht
 
@@ -848,10 +795,7 @@ Europäischen Union oder der Kommission der Europäischen Gemeinschaften
 in nationales Recht dienen, bedürfen nicht der Zustimmung des
 Bundesrates.
 
-
 ## Zehnter Abschnitt - Straf- und Bußgeldvorschriften
-
-
 
 ### § 31 Strafvorschriften
 
@@ -859,7 +803,6 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer entgegen § 5 Abs. 3 Satz 1 nicht dafür sorgt, dass die
 spendende Person vor der Freigabe der Spende auf die dort genannten
 Infektionsmarker untersucht wird.
-
 
 ### § 32 Bußgeldvorschriften
 
@@ -888,10 +831,7 @@ fahrlässig begeht.
 Geldbuße bis zu fünfundzwanzigtausend Euro und in den Fällen des
 Absatzes 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
 ## Elfter Abschnitt - Übergangsvorschriften
-
-
 
 ### § 33
 
@@ -899,22 +839,17 @@ Wer bei Inkrafttreten dieses Gesetzes die Tätigkeit der Anwendung von
 Blutprodukten ausübt und die Voraussetzungen der in diesem Zeitpunkt
 geltenden Vorschriften erfüllt, darf diese Tätigkeit weiter ausüben.
 
-
 ## Zwölfter Abschnitt - Schlussvorschriften
-
-
 
 ### (XXXX) §§ 34 bis 37 (weggefallen)
 
 -
-
 
 ### § 38 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den §§ 35 bis 37 beruhenden Teile der dort geänderten
 Rechtsverordnungen können aufgrund der jeweils einschlägigen
 Ermächtigung durch Rechtsverordnung geändert werden.
-
 
 ### § 39 (Inkrafttreten)
 

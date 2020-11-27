@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1984, 771
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -26,10 +24,7 @@ durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705)
 geändert worden ist, wird im Einvernehmen mit dem Bundesminister für
 Bildung und Wissenschaft verordnet:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -186,13 +181,7 @@ Fertigkeiten zuzurechnen:
 22. Auswählen, Vorbereiten, Handhaben, Pflegen und Instandsetzen von
     Arbeits-, Reinigungs-, Meß- und Prüfgeräten.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -209,7 +198,6 @@ Arbeitsprobe. Innerhalb der Arbeitsprobe müssen die Arbeiten nach § 4
 Nr. 1, 3, 5, 6 und 7 ebenfalls mit mindestens ausreichend bewertet
 sein.
 
-
 ### § 3 Meisterprüfungsarbeit
 
 Als Meisterprüfungsarbeit sind zwei der nachstehenden Arbeiten, davon
@@ -225,10 +213,6 @@ in jedem Fall die nach Nummer 1, anzufertigen:
 
 3.  Bestimmen der Abmessungen von Schornsteinen mit unterschiedlicher
     Ausführung von Schornstein, Verbindungsstück und Feuerstätte.
-
-
-
-
 
 ### § 4 Arbeitsprobe
 
@@ -264,10 +248,6 @@ in jedem Fall die nach den Nummern 1, 3, 5, 6 und 7, auszuführen:
 
 9.  Erfassen von Daten als Arbeitsunterlagen für die Führung und
     Verwaltung eines Kehrbezirks.
-
-
-
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -452,15 +432,11 @@ Leistungen erbracht hat.
 ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2,
 3, 6 und 8.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6
 
 -
-
 
 ### § 7 Weitere Anforderungen
 
@@ -469,12 +445,10 @@ der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
 Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils
 geltenden Fassung.
 
-
 ### § 8 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
-
 
 ### § 9 Inkrafttreten
 
@@ -483,7 +457,6 @@ Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden
 Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln,
 nicht mehr anzuwenden.
-
 
 ### Schlußformel
 

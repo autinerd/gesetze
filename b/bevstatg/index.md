@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 18.7.2008 I 1290
 
-
 ## § 1
 
 Um die Veränderungen in Zahl und Zusammensetzung der Bevölkerung und
@@ -40,10 +39,6 @@ eine Bundesstatistik durchgeführt. Sie umfaßt
 
 
 4.  die Fortschreibung des Bevölkerungsstandes.
-
-
-
-
 
 ## § 2
 
@@ -137,7 +132,6 @@ Körperlänge bei der Geburt sind in den Fällen, in denen sie
 hinzugezogen wurden, der Arzt oder die Hebamme, in den übrigen Fällen
 die Anzeigenden auskunftspflichtig.
 
-
 ## § 3
 
 (1) Für die Statistik der rechtskräftigen Urteile in Ehesachen werden
@@ -165,7 +159,6 @@ erfaßt:
 des Gerichts erster Instanz nach Rechtskraft des Urteils auf Grund der
 Gerichtsakten ausgefüllt.
 
-
 ## § 4
 
 Für die Wanderungsstatistik werden bei der An- und Abmeldung die Zu-
@@ -189,10 +182,6 @@ folgenden Tatbeständen laufend erfaßt:
 5.  bei Zuzug aus dem Ausland: Datum des dem Zuzug vorangegangenen
     Fortzugs vom Inland ins Ausland.
 
-
-
-
-
 ## § 5
 
 Bei der Fortschreibung des Bevölkerungsstandes sind auf der Grundlage
@@ -200,7 +189,6 @@ der jeweils letzten allgemeinen Zählung der Bevölkerung nach den
 Ergebnissen der Statistik der natürlichen Bevölkerungsbewegung und der
 Wanderungsstatistik die Bevölkerung insgesamt sowie die deutsche
 Bevölkerung nach Geschlecht, Alter und Familienstand festzustellen.
-
 
 ## § 6
 
@@ -221,11 +209,9 @@ Eheschließung, der Geburt, des Sterbefalls und des Wohnungswechsels
 von den Statistischen Ämtern des Bundes und der Länder veröffentlicht
 werden.
 
-
 ## § 7
 
 (weggefallen)
-
 
 ## § 8
 

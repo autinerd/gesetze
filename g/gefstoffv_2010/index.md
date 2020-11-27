@@ -104,12 +104,7 @@ Geändert durch
     die durch die Richtlinie 2007/30/EG (ABl. L 165 vom 27.6.2007, S. 21)
     geändert worden ist.
 
-
-
-
-
 ## Abschnitt 1 - Zielsetzung, Anwendungsbereich und Begriffsbestimmungen
-
 
 ### § 1 Zielsetzung und Anwendungsbereich
 
@@ -198,7 +193,6 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem
 Bundesberggesetz unterliegen, soweit dort oder in Rechtsverordnungen,
 die auf Grund dieses Gesetzes erlassen worden sind, entsprechende
 Rechtsvorschriften bestehen.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -374,9 +368,7 @@ abzuschließen. Sachkundig ist ferner, wer über eine von der
 zuständigen Behörde als gleichwertig anerkannte oder in dieser
 Verordnung als gleichwertig bestimmte Qualifikation verfügt.
 
-
 ## Abschnitt 2 - Gefahrstoffinformation
-
 
 ### § 3 Gefährlichkeitsmerkmale
 
@@ -496,10 +488,6 @@ Stoffe und Zubereitungen sind
     zu verändern, dass dadurch sofort oder später Gefahren für die Umwelt
     herbeigeführt werden können.
 
-
-
-
-
 ### § 4 Einstufung, Kennzeichnung und Verpackung
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und
@@ -611,7 +599,6 @@ Zubereitung oder des Stoffs den anderen Herstellern auf Anfrage
 unverzüglich alle Informationen zur Verfügung zu stellen, die für eine
 ordnungsgemäße Einstufung neuer Zubereitungen erforderlich sind.
 
-
 ### § 5 Sicherheitsdatenblatt und sonstige Informationspflichten
 
 (1) Die vom Hersteller, Einführer und erneuten Inverkehrbringer
@@ -640,9 +627,7 @@ sind, nach Maßgabe des Anhangs V Buchstabe A Nummer 1.2 der Richtlinie
 angebracht werden. Falls dies technisch nicht möglich ist, muss die
 Gebrauchsanweisung der Verpackung beigefügt werden.
 
-
 ## Abschnitt 3 - Gefährdungsbeurteilung und Grundpflichten
-
 
 ### § 6 Informationsermittlung und Gefährdungsbeurteilung
 
@@ -847,7 +832,6 @@ zur Wirkung bei wiederholter Exposition vorliegen, sind die Stoffe
 oder Zubereitungen bei der Gefährdungsbeurteilung wie Gefahrstoffe mit
 entsprechenden Wirkungen zu behandeln.
 
-
 ### § 7 Grundpflichten
 
 (1) Der Arbeitgeber darf eine Tätigkeit mit Gefahrstoffen erst
@@ -979,12 +963,7 @@ Richtlinien berücksichtigt worden sind:
     Gefährdung durch Asbest am Arbeitsplatz (ABl. L 330 vom 16.12.2009, S.
     28).
 
-
-
-
-
 ## Abschnitt 4 - Schutzmaßnahmen
-
 
 ### § 8 Allgemeine Schutzmaßnahmen
 
@@ -1097,7 +1076,6 @@ Die Sätze 1 und 2 gelten nicht für Kraftstoffe an Tankstellen.
 I Nummer 2 bis 5 sowohl die §§ 6 bis 18 als auch die betreffenden
 Vorschriften des Anhangs I Nummer 2 bis 5 zu beachten.
 
-
 ### § 9 Zusätzliche Schutzmaßnahmen
 
 (1) Sind die allgemeinen Schutzmaßnahmen nach § 8 nicht ausreichend,
@@ -1173,7 +1151,6 @@ Schutzmaßnahmen zu ergreifen oder eine angemessene Aufsicht zu
 gewährleisten. Dies kann auch durch den Einsatz technischer Mittel
 sichergestellt werden.
 
-
 ### § 10 Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und fruchtbarkeitsgefährdenden Gefahrstoffen
 
 (1) Bei Tätigkeiten mit krebserzeugenden, erbgutverändernden und
@@ -1244,7 +1221,6 @@ geführt oder gereinigt werden, dass krebserzeugende, erbgutverändernde
 oder fruchtbarkeitsgefährdende Stoffe nicht in die Atemluft anderer
 Beschäftigter gelangen.
 
-
 ### § 11 Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung
@@ -1282,7 +1258,6 @@ Arbeitgeber Maßnahmen in der nachstehenden Rangfolge ergreifen:
 (3) Über die Bestimmungen der Absätze 1 und 2 hinaus hat der
 Arbeitgeber Anhang I Nummer 1 zu beachten.
 
-
 ### § 12 Tätigkeiten mit explosionsgefährlichen Stoffen und organischen Peroxiden
 
 Bei Tätigkeiten mit explosionsgefährlichen Stoffen oder organischen
@@ -1293,7 +1268,6 @@ ergreifen, insbesondere verfahrenstechnische, organisatorische und
 bauliche Schutzmaßnahmen, einschließlich einzuhaltender Abstände. Die
 Vorschriften des Sprengstoffgesetzes und der darauf gestützten
 Rechtsvorschriften bleiben unberührt.
-
 
 ### § 13 Betriebsstörungen, Unfälle und Notfälle
 
@@ -1357,10 +1331,6 @@ diesen Informationen zählen:
     einem Unfall oder Notfall auftreten oder auftreten können,
     einschließlich der Informationen über die Verfahren nach den Absätzen
     1 bis 4.
-
-
-
-
 
 ### § 14 Unterrichtung und Unterweisung der Beschäftigten
 
@@ -1489,10 +1459,6 @@ Kategorie 1 oder 2 sicherzustellen, dass
     personenbezogenen Informationen allgemeiner Art in dem Verzeichnis
     haben.
 
-
-
-
-
 ### § 15 Zusammenarbeit verschiedener Firmen
 
 (1) Sollen in einem Betrieb Fremdfirmen Tätigkeiten mit Gefahrstoffen
@@ -1538,9 +1504,7 @@ Informations-, Schutz- und Überwachungspflichten, die sich für den
 Auftraggeber oder Bauherrn nach anderen Rechtsvorschriften ergeben,
 bleiben unberührt.
 
-
 ## Abschnitt 5 - Verbote und Beschränkungen
-
 
 ### § 16 Herstellungs- und Verwendungsbeschränkungen
 
@@ -1579,7 +1543,6 @@ Die Sätze 1 bis 3 gelten auch für private Haushalte.
 Tätigkeiten mit geringer Gefährdung im Sinne des § 6 Absatz 11 ausüben
 lassen.
 
-
 ### § 17 Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
 
 (1) Die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII
@@ -1609,9 +1572,7 @@ historischen Bestandteilen oder von Einrichtungen denkmalgeschützter
 Gebäude bestimmt sind, wenn die Verwendung von Ersatzstoffen nicht
 möglich ist.
 
-
 ## Abschnitt 6 - Vollzugsregelungen und Ausschuss für Gefahrstoffe
-
 
 ### § 18 Unterrichtung der Behörde
 
@@ -1694,7 +1655,6 @@ Folgendes mitzuteilen:
 Verordnung (EG) Nr. 1907/2006 geforderte Fachkunde für die Erstellung
 von Sicherheitsdatenblättern nachzuweisen.
 
-
 ### § 19 Behördliche Ausnahmen, Anordnungen und Befugnisse
 
 (1) Die zuständige Behörde kann auf schriftlichen Antrag des
@@ -1774,7 +1734,6 @@ insbesondere eine Stilllegung der betroffenen Arbeitsbereiche
 anordnen, wenn der Arbeitgeber der Mitteilungspflicht nach § 18 Absatz
 2 Nummer 1 nicht nachkommt.
 
-
 ### § 20 Ausschuss für Gefahrstoffe
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss
@@ -1843,9 +1802,7 @@ Auf Verlangen ist diesen in der Sitzung das Wort zu erteilen.
 (6) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin führt die
 Geschäfte des Ausschusses.
 
-
 ## Abschnitt 7 - Ordnungswidrigkeiten und Straftaten
-
 
 ### § 21 Chemikaliengesetz – Anzeigen
 
@@ -1895,10 +1852,6 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 10. entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht.
-
-
-
-
 
 ### § 22 Chemikaliengesetz – Tätigkeiten
 
@@ -2037,7 +1990,6 @@ Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
 gefährdet, ist nach § 27 Absatz 2 bis 4 des Chemikaliengesetzes
 strafbar.
 
-
 ### § 23 Chemikaliengesetz – EG-Rechtsakte
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satz 1 des
@@ -2084,10 +2036,6 @@ durch die Verordnung (EG) Nr. 453/2010 (ABl. L 133 vom 31.5.2010, S.
     nicht rechtzeitig zur Verfügung stellt oder nicht, nicht in der
     vorgeschriebenen Weise oder nicht rechtzeitig übermittelt oder nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert.
-
-
-
-
 
 ### § 24 Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen
 
@@ -2162,10 +2110,6 @@ Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
     die dort aufgeführten Stoffe außerhalb geschlossener Anlagen herstellt
     oder verwendet.
 
-
-
-
-
 ### Anhang I (zu § 8 Absatz 8, § 11 Absatz 3) Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
 (Fundstelle: BGBl. I 2010, 1660 - 1673)
@@ -2196,8 +2140,6 @@ Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 *    *   Nummer 5
 
     *   Ammoniumnitrat
-
-
 
 ## Nummer 1
 
@@ -2707,9 +2649,6 @@ Tätigkeit zu unterweisen. Hierbei ist der Arbeitsplan nach Nummer
 
 7.  arbeitsmedizinische Vorsorgeuntersuchungen nach der Verordnung zur
     arbeitsmedizinischen Vorsorge.
-
-
-
 
 ## Nummer 3
 
@@ -4100,8 +4039,6 @@ Bundesanstalt für Materialforschung und -prüfung.
 *    *   Nummer 6
 
     *   Besonders gefährliche krebserzeugende Stoffe
-
-
 
 ## Nummer 1
 

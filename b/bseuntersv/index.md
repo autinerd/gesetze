@@ -22,7 +22,6 @@ Neugefasst durch
 Diese v tritt gem. § 4 abs. 2 am 5.6.2001 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes geregelt wird. § 4 abs. 2 aufgeh. durch
 :   Art. 1 V v. 23.5.2001 I 982 mWv 29.5.2001; dadurch ist die Geltung dieser V über den 5.6.2001 hinaus verlängert worden.
 
-
 ## § 1 Durchführung von BSE-Tests
 
 (1) Die Untersuchung von Rindern, einschließlich Wasserbüffeln und
@@ -61,12 +60,10 @@ negatives Ergebnis der Untersuchung nach Absatz 1 vorliegt, sofern
 sichergestellt ist, dass das Fleisch erst nach Vorliegen des negativen
 Ergebnisses aus dem Schlachtbetrieb befördert wird.
 
-
 ## § 2 Probenahme
 
 Die Probenahme hat so zu erfolgen, dass eine nachteilige Beeinflussung
 des Fleisches ausgeschlossen ist.
-
 
 ## § 3 Betriebseigene Kontrollen
 
@@ -99,10 +96,6 @@ genehmigen, wenn folgende Voraussetzungen vorliegen:
     Genusstauglichkeitskennzeichnung nach Artikel 5 Nummer 2 Satz 2 der
     Verordnung (EG) Nr. 854/2004 bis zum Vorliegen des
     Untersuchungsergebnisses zu verzichten.
-
-
-
-
 
 ## § 4 Maßnahmen nach Feststellung von BSE
 
@@ -163,7 +156,6 @@ Desinfektionsverfahren gestatten, die in ihrer Wirksamkeit der nach
 Satz 1 in Verbindung mit Satz 2 durchgeführten Desinfektion
 entsprechen.
 
-
 ## § 5 Nachweise über die Abgabe von Fleisch
 
 (1) Wer in einem Schlachthof im Sinne des Anhangs I Nummer 1.16 der
@@ -181,7 +173,6 @@ fortlaufender Weise zu führen. Sie sind zwei Jahre lang, beginnend mit
 dem Tag der Schlachtung, aufzubewahren und der zuständigen Behörde auf
 Verlangen vorzulegen.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des
@@ -196,13 +187,7 @@ oder fahrlässig
     mindestens zwei Jahre aufbewahrt oder nicht oder nicht rechtzeitig
     vorlegt.
 
-
-
-
-
 ## § 7 (Inkrafttreten, Außerkrafttreten)
-
-
 
 ## Anlage (zu § 1 Absatz 1a und 1b)
 

@@ -21,17 +21,13 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Bek. v. 8.6.2007 I 1057
 
-
 ## I. - Allgemeine Bestimmungen
-
-
 
 ### - - *Ku Artikel 50 GG *KE
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und
 Verwaltung des Bundes und in Angelegenheiten der Europäischen Union
 mit.
-
 
 ### - - *Ku Artikel 51 GG *KE
 
@@ -46,14 +42,12 @@ Jedes Land kann so viele Mitglieder entsenden, wie es Stimmen hat. Die
 Stimmen eines Landes können nur einheitlich und nur durch anwesende
 Mitglieder oder deren Vertreter abgegeben werden.
 
-
 #### § 1 Mitglieder
 
 Die Regierungen der Länder teilen dem Präsidenten des Bundesrates die
 Namen der Mitglieder des Bundesrates, den Zeitpunkt ihrer Bestellung
 als Mitglieder des Bundesrates und der Landesregierungen und den
 Zeitpunkt des Erlöschens ihrer Mitgliedschaft mit.
-
 
 #### § 2 Inkompatibilität
 
@@ -62,12 +56,10 @@ angehören. Wird ein Mitglied des Bundesrates in den Bundestag gewählt,
 so muß es dem Präsidenten des Bundesrates in angemessener Frist
 mitteilen, welches der beiden Ämter es niederlegt.
 
-
 #### § 3 Geschäftsjahr
 
 Das Geschäftsjahr des Bundesrates beginnt am 1. November eines jeden
 Jahres und endet am 31. Oktober des folgenden Jahres.
-
 
 #### § 4 Ausweise, Fahrkarten
 
@@ -78,15 +70,11 @@ erhalten außerdem Fahrkarten für die Bundesbahn und die Bundespost.
 (2) Ausweise und Fahrkarten sind eine Woche nach Erlöschen der
 Mitgliedschaft zurückzugeben.
 
-
 ## II. - Organe und Einrichtungen des Bundesrates
-
-
 
 ### - - *Ku Artikel 52 Abs. 1 GG *KE
 
 Der Bundesrat wählt seinen Präsidenten auf ein Jahr.
-
 
 #### § 5 Wahl des Präsidenten und der Vizepräsidenten
 
@@ -96,7 +84,6 @@ Mitgliedern einen Präsidenten und zwei Vizepräsidenten.
 (2) Endet das Amt des Präsidenten oder eines Vizepräsidenten
 vorzeitig, so soll innerhalb von vier Wochen eine Nachwahl
 stattfinden.
-
 
 #### § 6 Stellung des Präsidenten
 
@@ -114,7 +101,6 @@ Vergütungsgruppe BAT II a an aufwärts.
 (3) Der Präsident übt das Hausrecht für die der Verwaltung des
 Bundesrates unterstehenden Gebäude, Gebäudeteile und Grundstücke aus.
 
-
 #### § 7 Stellung der Vizepräsidenten
 
 (1) Die Vizepräsidenten vertreten den Präsidenten im Falle seiner
@@ -125,7 +111,6 @@ Befugnisse des Bundespräsidenten wahrnimmt.
 
 (2) Die Vizepräsidenten beraten und unterstützen den Präsidenten bei
 der Erledigung seiner Aufgaben.
-
 
 #### § 8 Präsidium
 
@@ -149,7 +134,6 @@ im Wege der Umfrage herbeiführen.
 fertigen. Diese muß mindestens die Namen der Teilnehmer, die Anträge,
 das Ergebnis der Beratungen und bei Beschlüssen das Stimmverhältnis
 enthalten.
-
 
 #### § 9 Ständiger Beirat
 
@@ -189,7 +173,6 @@ Beirates teil.
 in Betracht, so führt das Mitglied des Ständigen Beirates den Vorsitz,
 das ihm ohne Unterbrechung am längsten angehört.
 
-
 #### § 10 Schriftführer
 
 (1) Der Bundesrat wählt aus seinen Mitgliedern für jedes Geschäftsjahr
@@ -200,12 +183,10 @@ beide Schriftführer zu einer Sitzung des Bundesrates nicht erschienen,
 so bestellt der Präsident ein anderes Mitglied des Bundesrates für
 diese Sitzung zum Schriftführer.
 
-
 ### - - *Ku Artikel 52 Abs. 4 GG *KE
 
 Den Ausschüssen des Bundesrates können andere Mitglieder oder
 Beauftragte der Regierungen der Länder angehören.
-
 
 #### § 11 Ausschüsse
 
@@ -225,7 +206,6 @@ Vermittlungsausschusses. Der Präsident oder in seinem Auftrag der
 Direktor des Bundesrates teilt die Namen der Mitglieder und der
 Stellvertreter dem Vorsitzenden des Vermittlungsausschusses mit.
 
-
 #### § 12 Wahl der Vorsitzenden der Ausschüsse
 
 (1) Der Bundesrat wählt für jedes Geschäftsjahr die Vorsitzenden der
@@ -239,7 +219,6 @@ Vorsitzende.
 Vorsitzenden vorzeitig, so soll für den Rest seiner Amtszeit ein
 Nachfolger gewählt werden.
 
-
 #### § 13 Vertreter des Bundesrates in anderen Organen
 
 Bestellt der Bundesrat Mitglieder von Organen einer juristischen
@@ -247,7 +226,6 @@ Person des öffentlichen oder des privaten Rechts, von Beiräten einer
 Dienststelle der Bundesregierung, von Verwaltungsräten oder ähnlichen
 Einrichtungen, so können der Bundesrat oder seine Ausschüsse
 verlangen, daß diese Mitglieder über ihre Tätigkeit berichten.
-
 
 #### § 14 Sekretariat
 
@@ -259,21 +237,15 @@ Präsidenten mit Unterstützung des Stellvertretenden Direktors. Der
 Direktor unterstützt den Präsidenten bei der Führung seiner
 Amtsgeschäfte.
 
-
 ## III. - Die Sitzungen des Bundesrates
 
-
-
 ### 1. - Vorbereitung der Sitzungen
-
-
 
 #### - - *Ku Artikel 52 Abs. 2 GG *KE
 
 Der Präsident beruft den Bundesrat ein. Er hat ihn einzuberufen, wenn
 die Vertreter von mindestens zwei Ländern oder die Bundesregierung es
 verlangen.
-
 
 ##### § 15 Einberufung und Bekanntgabe
 
@@ -298,22 +270,17 @@ zuzustellen.
 Bundesregierung mitgeteilt. Die Sitzungen des Bundesrates werden durch
 Anschlag im Sitzungsgebäude bekanntgegeben.
 
-
 ##### § 16 Anwesenheitsliste
 
 Für jede Sitzung des Bundesrates wird eine Anwesenheitsliste
 ausgelegt, in die sich die Teilnehmer der Sitzung eintragen.
 
-
 ### 2. - Allgemeine Verfahrensgrundsätze
-
-
 
 #### - - *Ku Artikel 52 Abs. 3 Satz 3 und 4 GG *KE
 
 Er (der Bundesrat) verhandelt öffentlich. Die Öffentlichkeit kann
 ausgeschlossen werden.
-
 
 ##### § 17 Ausschluß der Öffentlichkeit
 
@@ -325,13 +292,11 @@ bekanntzugeben.
 (2) Die Verhandlungen in nichtöffentlicher Sitzung sind vertraulich,
 soweit der Bundesrat nichts anderes beschließt.
 
-
 #### - - *Ku Artikel 53 Satz 1 und 2 GG *KE
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen
 die Pflicht, an den Verhandlungen des Bundesrates und seiner
 Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden.
-
 
 ##### § 18 Teilnahme an den Verhandlungen
 
@@ -344,12 +309,10 @@ zuläßt.
 Bundesregierung sowie der anderen Teilnehmer an den Verhandlungen
 können Beauftragte der Länder und des Bundes zugezogen werden.
 
-
 #### - - *Ku Artikel 53 Satz 3 GG *KE
 
 Der Bundesrat ist von der Bundesregierung über die Führung der
 Geschäfte auf dem laufenden zu halten.
-
 
 ##### § 19 Fragerecht
 
@@ -382,7 +345,6 @@ das fragestellende Land mit schriftlicher Beantwortung einverstanden
 erklärt hat. Die Antwort der Bundesregierung ist allen Ländern
 mitzuteilen.
 
-
 ##### § 20 Leitung der Sitzung
 
 (1) Der Präsident leitet die Sitzungen des Bundesrates.
@@ -391,12 +353,10 @@ mitzuteilen.
 Sitzung zu leiten, so übernimmt der dem Lebensalter nach älteste
 Regierungschef die Leitung der Sitzung.
 
-
 ##### § 21 Beteiligung des Präsidenten an den Verhandlungen
 
 Beabsichtigt der Präsident, sich als Redner an den Verhandlungen zu
 beteiligen, so gibt er für diese Zeit die Leitung der Sitzung ab.
-
 
 ##### § 22 Ordnungsgewalt des Präsidenten
 
@@ -408,10 +368,7 @@ und Anstand verletzt, kann auf Anordnung des Präsidenten sofort
 entfernt werden. Der Präsident kann die Tribüne wegen störender Unruhe
 räumen lassen.
 
-
 ### 3. - Der Geschäftsgang im Bundesrat
-
-
 
 #### § 23 Feststellung und Durchführung der Tagesordnung
 
@@ -439,7 +396,6 @@ um einen Eilfall EG-Vorlage gemäß § 45d Abs. 1 handelt.
 (5) Über Gegenstände, die nicht auf der Tagesordnung stehen, darf
 nicht verhandelt und beschlossen werden, wenn ein Land widerspricht.
 
-
 #### § 24 Verhandlungen
 
 Der Präsident soll darauf hinwirken, daß unabhängig von der
@@ -447,7 +403,6 @@ Berichterstattung der Ausschüsse bei Beratungsgegenständen von
 allgemeinem Interesse oder von besonderer Bedeutung die Gründe
 dargelegt werden, die für die Entscheidung über die
 Ausschußempfehlungen oder Anträge von Bedeutung sind.
-
 
 #### § 25 Berichterstattung
 
@@ -461,7 +416,6 @@ Ergebnis kann mit Zustimmung des Präsidenten ein schriftlicher Bericht
 unter Verzicht auf seinen Vortrag zu dem Bericht über die Sitzung
 gegeben werden.
 
-
 #### § 26 Anträge und Empfehlungen
 
 (1) Jedes Land hat das Recht, im Bundesrat Anträge zu stellen.
@@ -474,14 +428,12 @@ Beratungsgegenständen Empfehlungen vor. Empfiehlt ein Ausschuß dem
 Bundesrat die Änderung oder Ablehnung einer Vorlage, so hat er eine
 Begründung mit vorzulegen.
 
-
 #### - - *Ku Artikel 51 Abs. 2 GG *KE
 
 (2) Jedes Land hat mindestens drei Stimmen, Länder mit mehr als zwei
 Millionen Einwohner haben vier, Länder mit mehr als sechs Millionen
 Einwohner fünf, Länder mit mehr als sieben Millionen Einwohnern sechs
 Stimmen.
-
 
 ##### § 27 Anzahl der Stimmen
 
@@ -490,12 +442,10 @@ Grundgesetzes zusteht, bemißt sich nach den Ergebnissen der amtlichen
 Bevölkerungsfortschreibung, sofern nicht die Ergebnisse einer
 amtlichen Volkszählung vorliegen.
 
-
 #### - - *Ku Artikel 52 Abs. 3 Satz 1 GG *KE
 
 Der Bundesrat faßt seine Beschlüsse mit mindestens der Mehrheit seiner
 Stimmen.
-
 
 ##### § 28 Beschlußfähigkeit
 
@@ -509,12 +459,10 @@ und den Zeitpunkt der nächsten Sitzung bekanntzugeben.
 84 Abs. 3 und 4 und Artikel 91 Abs. 2 des Grundgesetzes ist das
 betroffene Land stimmberechtigt.
 
-
 #### - - *Ku Artikel 51 Abs. 3 Satz 2 GG *KE
 
 Die Stimmen eines Landes können nur einheitlich und nur durch
 anwesende Mitglieder oder deren Vertreter abgegeben werden.
-
 
 ##### § 29 Abstimmung
 
@@ -534,7 +482,6 @@ zusammenfassen. Satz 1 gilt für die Feststellung der Tagesordnung nach
 Tagesordnung oder dazu vorliegende Anträge bis spätestens zum Schluß
 der Sitzung zurückstellen. Die Abstimmung muß zurückgestellt werden,
 wenn mindestens zwei Länder es verlangen.
-
 
 ##### § 30 Abstimmungsregeln
 
@@ -571,7 +518,6 @@ Beschlußfassung über die Zustimmung abzustimmen.
 (3) Absatz 1 Satz 3 und Absatz 2 gelten für die Empfehlungen der
 Ausschüsse entsprechend.
 
-
 ##### § 31 Verfahren bei Beschlüssen nach Artikel 77 Abs. 2 Satz 1 des Grundgesetzes
 
 Im Verfahren nach Artikel 77 Abs. 2 Satz 1 des Grundgesetzes stellt
@@ -584,7 +530,6 @@ Vermittlungsausschuß unter Zugrundelegung aller gefaßten
 Einzelbeschlüsse angerufen werden soll; er hat abstimmen zu lassen,
 wenn ein Land es verlangt.
 
-
 ##### § 32 Wirksamwerden der Beschlüsse
 
 Die Beschlüsse des Bundesrates werden mit dem Ende der Sitzung
@@ -592,20 +537,17 @@ wirksam. Über Gegenstände, deren Behandlung abgeschlossen ist, darf
 nicht erneut beraten und abgestimmt werden, wenn ein Land
 widerspricht.
 
-
 #### - - *Ku Artikel 43 Abs. 2 GG *KE
 
 Die Mitglieder des Bundesrates und der Bundesregierung sowie ihre
 Beauftragten haben zu allen Sitzungen des Bundestages und seiner
 Ausschüsse Zutritt. Sie müssen jederzeit gehört werden.
 
-
 ##### § 33 Teilnahme an den Verhandlungen des Bundestages
 
 Der Bundesrat kann seine Mitglieder beauftragen, seine Beschlüsse im
 Bundestag und in dessen Ausschüssen zu vertreten. Die Ausschüsse
 können Vorschläge hierzu machen.
-
 
 ##### § 34 Sitzungsbericht
 
@@ -621,7 +563,6 @@ Wochen nach seiner Ausgabe Einspruch beim Präsidenten eingelegt wird.
 Gibt der Präsident dem Einspruch nicht statt, so entscheidet der
 Bundesrat.
 
-
 ##### § 35 Vereinfachtes Verfahren
 
 Bei Vorlagen, die dem Bundesrat lediglich zur Kenntnisnahme zugeleitet
@@ -631,10 +572,7 @@ keine Bedenken erheben, als Stellungnahme des Bundesrates, sofern bis
 zur nächsten Sitzung des Bundesrates kein Land den Antrag auf
 Behandlung dieser Vorlage stellt.
 
-
 ## IV. - Das Verfahren in den Ausschüssen
-
-
 
 ### § 36 Zuweisung der Vorlagen
 
@@ -648,7 +586,6 @@ Ausschusses beauftragen.
 (2) Der Präsident hat Vorlagen eines Landes auf dessen Verlangen
 unmittelbar auf die vorläufige Tagesordnung des Bundesrates zu setzen.
 
-
 ### § 37 Tagungsort, Öffentlichkeit, Anwesenheitsliste
 
 (1) Die Ausschüsse tagen am Sitz des Bundesrates. Ausnahmen bedürfen
@@ -661,7 +598,6 @@ beschließt.
 
 (3) Für jede Ausschußsitzung wird eine Anwesenheitsliste ausgelegt, in
 die sich die Teilnehmer der Sitzung eintragen.
-
 
 ### § 38 Einberufung, Leitung, Tagesordnung
 
@@ -677,7 +613,6 @@ Mitgliedern des Ausschusses mitzuteilen.
 
 (3) Soweit der Ausschuß nicht federführend ist, soll die Tagesordnung
 den Zweck der Beratung der einzelnen Gegenstände angeben.
-
 
 ### § 39 Beratung
 
@@ -696,13 +631,11 @@ anordnen.
 (5) Die Ausschüsse sollen ihre Beratungen am achten Tag vor der
 nächsten Sitzung des Bundesrates abgeschlossen haben.
 
-
 ### - - *Ku Artikel 53 Satz 1 und 2 GG *KE
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen
 die Pflicht, an den Verhandlungen des Bundesrates und seiner
 Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden.
-
 
 #### § 40 Teilnahme und Fragerecht
 
@@ -718,14 +651,12 @@ Bundesregierung und deren Beauftragte Fragen stellen.
 (3) Die Ausschüsse können Sachverständige oder andere Personen, deren
 Teilnahme sie für erforderlich halten, anhören.
 
-
 #### § 41 Berichterstattung im Ausschuß
 
 Der Ausschuß bestellt, soweit dies für seine Beratungen erforderlich
 ist, für die einzelnen Beratungsgegenstände Berichterstatter. Die
 Berichte werden mündlich erstattet, soweit der Ausschuß nichts anderes
 beschließt.
-
 
 #### § 42 Beschlüsse
 
@@ -736,7 +667,6 @@ Länder vertreten ist.
 
 (3) Die Ausschüsse fassen ihre Beschlüsse mit einfacher Mehrheit.
 
-
 #### § 43 Umfrageverfahren
 
 Hält der Vorsitzende die mündliche Beratung einer Vorlage für
@@ -744,7 +674,6 @@ entbehrlich, so kann die Stellungnahme der Mitglieder des Ausschusses
 im Wege der Umfrage eingeholt werden. Die Umfrage soll so frühzeitig
 erfolgen, daß auf Antrag eines Landes noch rechtzeitig eine Sitzung
 einberufen werden kann.
-
 
 #### § 44 Sitzungsniederschrift
 
@@ -765,17 +694,13 @@ hat.
 dazu formulierten Begründungen können der Öffentlichkeit zugänglich
 gemacht werden, soweit der Ausschuß nichts anderes beschließt.
 
-
 #### § 45 Mitteilung der Empfehlungen der Ausschüsse
 
 Der Sekretär des federführenden Ausschusses stellt die Empfehlungen
 der Ausschüsse zu jeder Vorlage zusammen und leitet sie den
 Vertretungen der Länder zu.
 
-
 ## IVa. - Das Verfahren in Angelegenheiten der Europäischen Union
-
-
 
 ### - - *Ku Artikel 23 Abs. 2, 4 bis 6 GG *KE
 
@@ -809,7 +734,6 @@ Länder übertragen werden. Die Wahrnehmung der Rechte erfolgt unter
 Beteiligung und in Abstimmung mit der Bundesregierung; dabei ist die
 gesamtstaatliche Verantwortung des Bundes zu wahren.
 
-
 ### - - *Ku § 2 EUZBLG *KE
 
 (1) Die Bundesregierung unterrichtet den Bundesrat unbeschadet des
@@ -818,7 +742,6 @@ Gründung der Europäischen Wirtschaftsgemeinschaft und der Europäischen
 Atomgemeinschaft vom 27. Juli 1957 (BGBl. II S. 753) umfassend und zum
 frühestmöglichen Zeitpunkt über alle Vorhaben im Rahmen der
 Europäischen Union, die für die Länder von Interesse sein könnten.
-
 
 #### § 45a Zuweisung von Unterrichtungen über Vorhaben im Rahmen der Europäischen Union an die Ausschüsse
 
@@ -846,13 +769,11 @@ Aufgabe, die Vertreter der Länder fachlich zu begleiten, zu den
 Stellungnahmen des Bundesrates die Erfolgskontrolle durchzuführen und
 dem Bundesrat etwa notwendige Folgebeschlüsse vorzuschlagen.
 
-
 ### - - *Ku Artikel 52 Abs. 3a GG *KE
 
 Für Angelegenheiten der Europäischen Union kann der Bundesrat eine
 Europakammer bilden, deren Beschlüsse als Beschlüsse des Bundesrates
 gelten; Artikel 51 Abs. 2 und 3 Satz 2 gilt entsprechend.
-
 
 #### § 45b Europakammer
 
@@ -868,7 +789,6 @@ sind stellvertretende Mitglieder der Europakammer.
 der Bestellung und Abberufung des Mitgliedes der Europakammer
 schriftlich mit. Die Mitteilung wird der Europakammer bekanntgegeben.
 
-
 #### § 45c Vorsitzende der Europakammer
 
 (1) Der Bundesrat wählt ohne Aussprache den Vorsitzenden, den ersten
@@ -879,14 +799,12 @@ ein Jahr aus der Mitte der Mitglieder der Europakammer.
 Vorsitzenden vorzeitig, so soll für den Rest seiner Amtszeit ein
 Nachfolger gewählt werden.
 
-
 ### - - *Ku § 3 EUZBLG *KE
 
 Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der
 Europäischen Union gibt die Bundesregierung dem Bundesrat rechtzeitig
 Gelegenheit zur Stellungnahme binnen angemessener Frist, soweit
 Interessen der Länder berührt sind.
-
 
 ### - - *Ku § 4 Abs. 1 EUZBLG *KE
 
@@ -895,7 +813,6 @@ mitzuwirken hätte, oder soweit die Länder innerstaatlich zuständig
 wären, beteiligt die Bundesregierung vom Bundesrat benannte Vertreter
 der Länder an Beratungen zur Festlegung der Verhandlungsposition zu
 dem Vorhaben.
-
 
 ### - - *Ku § 5 EUZBLG *KE
 
@@ -929,7 +846,6 @@ gestützt werden, stellt die Bundesregierung das Einvernehmen mit dem
 Bundesrat her, soweit dessen Zustimmung nach innerstaatlichem Recht
 erforderlich wäre oder soweit die Länder zuständig wären.
 
-
 ### - - *Ku § 6 Abs 1 S 1 und Abs 2 S 1 und 2 EUZBLG *KE
 
 (1) Bei einem Vorhaben, bei dem der Bundesrat an einer entsprechenden
@@ -946,7 +862,6 @@ Rates und bei Ratstagungen in der Zusammensetzung der Minister auf
 einen Vertreter der Länder übertragen. Für diese Ratstagungen kann vom
 Bundesrat nur ein Mitglied einer Landesregierung im Ministerrang
 benannt werden.
-
 
 ### - - *Ku § 7 EUZBLG *KE
 
@@ -968,7 +883,6 @@ Fällen sowie für Vertragsverletzungsverfahren, in denen die
 Bundesrepublik Deutschland Partei ist, mit dem Bundesrat Einvernehmen
 her, soweit Gesetzgebungsbefugnisse der Länder betroffen sind und der
 Bund kein Recht zur Gesetzgebung hat.
-
 
 #### § 45d Zuständigkeit der Europakammer
 
@@ -1016,25 +930,6 @@ Europakammer zuzuweisen.
                         der Verhandlung und Beschlußfassung durch den Bundesrat nicht
                         entgegen.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### § 45e Vorbereitung der Sitzungen der Europakammer
 
 (1) Die Sitzungen der Europakammer sollen durch die Ausschüsse
@@ -1048,7 +943,6 @@ Europakammer zu einer ihr zugewiesenen Vorlage verlangen.
 verkürzt werden, wie es der Beratungsstand erfordert. Die Einberufung
 erfolgt durch Übermittlung der vorläufigen Tagesordnung.
 
-
 #### § 45f Öffentlichkeit
 
 (1) Die Europakammer verhandelt öffentlich. Die Öffentlichkeit kann
@@ -1060,13 +954,11 @@ anzuwenden.
 (2) Beschlüsse der Europakammer und ihre Begründungen werden
 veröffentlicht, soweit die Europakammer nichts anderes beschließt.
 
-
 #### § 45g
 
 An den Verhandlungen der Europakammer können auch Mitglieder und
 Beauftragte der Bundesregierung und Beauftragte der Landesregierungen
 teilnehmen; andere Personen nur, soweit der Vorsitzende dies zuläßt.
-
 
 #### § 45h Beschlussfassung
 
@@ -1080,7 +972,6 @@ Sitzung aufzuheben.
 (3) Die Europakammer faßt ihre Beschlüsse mit mindestens der Mehrheit
 ihrer Stimmen.
 
-
 #### § 45i Umfrageverfahren
 
 (1) Hält der Vorsitzende die mündliche Beratung einer EU-Vorlage für
@@ -1093,7 +984,6 @@ aufgehoben, leitet der Vorsitzende ein Umfrageverfahren ein.
 (3) Außer im Fall des Absatzes 2 kann jedes Land der Beschlussfassung
 im Umfrageverfahren widersprechen.
 
-
 #### § 45j Sitzungsbericht
 
 Über die Sitzungen der Europakammer ist eine Niederschrift zu
@@ -1102,13 +992,11 @@ und das Ergebnis der Beratungen enthalten. Der Bericht ist
 vertraulich, soweit die Verhandlungen vertraulich sind (§ 45f Abs. 1
 Satz 2 bis 4).
 
-
 #### § 45k Anwendung von Verfahrensvorschriften
 
 § 15 Abs. 3 und 5, §§ 16, 18 Abs. 2, § 19 Abs. 1, §§ 22, 23 Abs. 2
 Satz 1 und Abs. 5, § 26 Abs. 3, §§ 29, 30 und 32 sind entsprechend
 anzuwenden.
-
 
 #### § 45l Vertreter der Länder
 
@@ -1127,10 +1015,7 @@ schriftlich erstattet. Die Vertreter berichten darüber hinaus, wenn im
 Hinblick auf die Verhandlungen erneuter Beratungsbedarf besteht, oder
 wenn ein Land oder ein beteiligter Ausschuß dies verlangen.
 
-
 ## V. - Schlußbestimmungen
-
-
 
 ### - - *Ku Artikel 51 Abs. 1 GG *KE
 
@@ -1138,18 +1023,15 @@ Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder, die
 sie bestellen und abberufen. Sie können durch andere Mitglieder ihrer
 Regierungen vertreten werden.
 
-
 ### - - *Ku Artikel 52 Abs. 4 GG *KE
 
 Den Ausschüssen des Bundesrates können andere Mitglieder oder
 Beauftragte der Regierungen der Länder angehören.
 
-
 #### § 46 Stellvertreter
 
 Mitglieder des Bundesrates und seiner Ausschüsse im Sinne dieser
 Geschäftsordnung sind auch die stellvertretenden Mitglieder.
-
 
 #### § 47 Auslegung der Geschäftsordnung
 
@@ -1160,12 +1042,10 @@ diese Sitzung.
 (2) Im übrigen entscheidet auf Verlangen des Präsidenten oder eines
 Landes der Bundesrat.
 
-
 #### § 48 Abweichung von der Geschäftsordnung
 
 Will der Bundesrat im einzelnen Fall von der Geschäftsordnung
 abweichen, so bedarf es eines einstimmigen Beschlusses.
-
 
 #### § 49 Inkrafttreten
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 275 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 Den in Paris am 13. Februar 1997 von der Versammlung der
@@ -28,7 +27,6 @@ Gründung der Europäischen Fernmeldesatellitenorganisation "EUTELSAT",
 geändert am 18. Mai 1995 (BGBl. 1984 II S. 682; 1997 II S. 695), wird
 zugestimmt. Die Änderungen werden nachstehend mit einer amtlichen
 deutschen Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -43,14 +41,12 @@ Bundesministerium der Finanzen die gebührenpflichtigen Tatbestände,
 die Höhe der Gebühr und die Erstattung von Auslagen durch
 Rechtsverordnung zu regeln.
 
-
 ## Art 3
 
 Das Bundesministerium für Wirtschaft und Technologie kann das
 EUTELSAT-Übereinkommen in der durch die vereinbarten Änderungen vom
 13\. Februar 1997 geänderten Fassung mit einer amtlichen deutschen
 Übersetzung in der Neufassung bekanntmachen.
-
 
 ## Art 4
 

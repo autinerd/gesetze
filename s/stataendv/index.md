@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1804
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 5 Abs. 4 des Bundesstatistikgesetzes vom 22. Januar
@@ -31,15 +29,11 @@ Bundes-Seuchengesetzes, der durch Artikel 25 der Verordnung vom 26.
 Februar 1993 (BGBl. I S. 278) geändert worden ist, verordnet der
 Bundesminister für Gesundheit:
 
-
 ## Art 1 -
 
 (weggefallen)
 
-
 ## Art 2 - Gesetz über die Statistik im Produzierenden Gewerbe
-
-
 
 ## § 1
 
@@ -50,32 +44,25 @@ vom 30. Mai 1980 (BGBl. I S. 641), das zuletzt durch Artikel 3 der
 Verordnung vom 26. März 1991 (BGBl. I S. 846) geändert worden ist,
 wird ausgesetzt.
 
-
 ## § 2
 
 Die Periodizität der Erhebung nach § 4 Buchstabe C Ziffer I Nr. 1 des
 Gesetzes wird ab 1. Januar 1997 von monatlich auf vierteljährlich
 verlängert.
 
-
 ## Art 3 -
 
 (weggefallen)
-
 
 ## Art 4 -
 
 (weggefallen)
 
-
 ## Art 5 -
-
-
 
 ## Art 6 -
 
 (weggefallen)
-
 
 ## Art 7 - Bundes-Seuchengesetz
 
@@ -86,22 +73,18 @@ Dezember 1979 (BGBl. I S. 2262, 1980 I S. 151), das zuletzt durch
 Artikel 10 des Gesetzes vom 7. August 1996 (BGBl. I S. 1254) geändert
 worden ist, wird auf jährlich verlängert.
 
-
 ## Art 8 bis 12 -
 
 (weggefallen)
-
 
 ## Art 13 - Außerkrafttreten
 
 Die Artikel 1, 3, 4, 6 und 8 bis 12 treten am 30. Juni 2000 außer
 Kraft.
 
-
 ## Art 14 - Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

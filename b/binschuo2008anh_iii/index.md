@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 477 - 499]
 
-
 ## Inhaltsverzeichnis
 
 Teil I
@@ -281,15 +280,9 @@ Kapitel 11
     *   Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21
         sowie nach Anhang XII Artikel 5
 
-
-
-
-
 ## Teil I - Wasserstraßen der Zone 2-Binnen
 
-
 ### Kapitel I - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 2-Binnen
-
 
 #### § 1.01 Allgemeines
 
@@ -329,10 +322,6 @@ Kapitel 11
 
     erforderlich.
 
-
-
-
-
 #### § 1.02 Sonderbestimmungen für Fahrgastschiffe
 
 Für Fahrgastschiffe auf Wasserstraßen der Zone 2-Binnen gelten
@@ -346,15 +335,9 @@ b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
     Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5 ersetzt
     werden.
 
-
-
-
-
 ## Teil II - Wasserstraßen der Zone 2-See
 
-
 ### Kapitel 2 - Allgemeines
-
 
 #### § 2.01 Allgemeines
 
@@ -371,17 +354,11 @@ b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
     von Delfzijl für Güterschiffe bei geschlossenen Ladeluken, für
     Schleppboote und Schubboote.
 
-
-
-
-
 ### Kapitel 3 - Festigkeit
 
 (ohne Inhalt)
 
-
 ### Kapitel 4 - Sicherheitsabstand und Freibord
-
 
 #### § 4.01 Sicherheitsabstand
 
@@ -396,10 +373,6 @@ b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
 
 3.  Zu Öffnungen, die offen sind, muss der Sicherheitsabstand mindestens
     1,00 m betragen.
-
-
-
-
 
 #### § 4.02 Freibord
 
@@ -518,15 +491,7 @@ b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
 
     b)  Die durchschnittliche Breite des Gangbords beträgt höchstens 0,125 B.
 
-
-
-
-
-
-
-
 ### Kapitel 5 - Verschlusszustand der Öffnungen des Schiffskörpers und der Aufbauten
-
 
 #### § 5.01 Aufbauten
 
@@ -544,16 +509,11 @@ b)  Einzelrettungsmittel nach Anhang II § 15.09. Nr. 4 können durch
     Verschraubungen gesichert sind, müssen sie durch Scharniere fest mit
     dem Schiff verbunden sein.
 
-
-
-
-
 #### § 5.02 Türen
 
 Alle äußeren Türen, die Zugang zu Räumen unter dem Freiborddeck
 gewähren, müssen mindestens sprühwasser- und wetterdicht verschließbar
 und von ausreichender Festigkeit sein.
-
 
 #### § 5.03 Fenster und Oberlichter
 
@@ -586,13 +546,6 @@ und von ausreichender Festigkeit sein.
 
     c)  offen, wenn ihre Ausführung den in den Buchstaben a und b genannten
         Normen nicht entspricht.
-
-
-
-
-
-
-
 
 #### § 5.04 Abdeckung der Laderäume
 
@@ -652,18 +605,12 @@ und von ausreichender Festigkeit sein.
 3.  Laderäume ohne Lukendeckel und mit Lukendeckeln, die den Bestimmungen
     nach Nummer 1 oder 2 nicht entsprechen, gelten als offen.
 
-
-
-
-
 ### Kapitel 6 - Ausrüstung
-
 
 #### § 6.01 Ankerketten
 
 Abweichend von Anhang II § 10.01 Nr. 10 muss jede Bugankerkette
 mindestens 60 m lang sein.
-
 
 #### § 6.02 Kompass
 
@@ -727,10 +674,6 @@ mindestens 60 m lang sein.
     Regulierung und Kompensierung anerkennen; der Bescheid der zuständigen
     Behörde über die Anerkennung ist an Bord mitzuführen.
 
-
-
-
-
 #### § 6.03 Radar
 
 
@@ -742,17 +685,12 @@ mindestens 60 m lang sein.
     baumustergeprüft, zugelassen und eingebaut sowie einer
     Funktionsprüfung unterzogen sein.
 
-
-
-
-
 #### § 6.04 Sende- und Empfangsanlagen
 
 Fahrzeuge mit eigener Triebkraft müssen mit einer Funkanlage für die
 Teilnahme am Binnenschifffahrtsfunk nach den Bestimmungen der
 Regionalen Vereinbarung über den Binnenschifffahrtsfunk ausgerüstet
 sein.
-
 
 #### § 6.05 Rettungsmittel
 
@@ -767,10 +705,6 @@ sein.
 2.  Zusätzlich zu Anhang II § 10.05 muss für jede an Bord befindliche
     Person ein Platz in einem Sammelrettungsmittel nach Anhang XII Artikel
     4 § 15.09 Nr. 5 vorhanden sein.
-
-
-
-
 
 #### § 6.06 Sonstige Ausrüstung
 
@@ -791,18 +725,12 @@ c)  an Bord von Fahrzeugen mit Besatzung müssen zusätzlich die in § 13 Nr.
     2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen
     Seekarten vorhanden sein.
 
-
-
-
-
 ### Kapitel 7 - Sonderbestimmungen für Fahrgastschiffe
-
 
 #### § 7.01 Allgemeines
 
 Für Fahrgastschiffe auf Wasserstraßen der Zone 2-See gelten Kapitel 3
 und 4 sowie die Bestimmungen des § 6.05 nicht.
-
 
 #### § 7.02 Festigkeit
 
@@ -812,7 +740,6 @@ Zone 2-See entsprechen. Als Nachweis genügt eine Bescheinigung einer
 anerkannten Klassifikationsgesellschaft, aus der hervorgeht, dass das
 Schiff nach den Bauvorschriften für die Zone 2-See gebaut oder
 umgebaut worden ist.
-
 
 #### § 7.03 Stabilität, Sicherheitsabstand und Freibord
 
@@ -850,16 +777,11 @@ umgebaut worden ist.
     in Anhang II § 15.04 Nr. 3 unter Berücksichtigung der Nr. 1 und 2
     festzusetzen.
 
-
-
-
-
 #### § 7.04 Höchstzulässige Zahl der Fahrgäste
 
 Die höchstzulässige Zahl der Fahrgäste ist nach den Bestimmungen des
 Anhangs II § 15.05 Nr. 2 Buchstabe b unter Berücksichtigung des § 7.03
 zu ermitteln.
-
 
 #### § 7.05 Anker
 
@@ -883,31 +805,23 @@ In dieser Formel bedeuten:
     *   frontale Windangriffsfläche im m
         2
 
-
-
-
 #### § 7.06 Rettungsmittel
 
 Abweichend von Anhang II § 15.09 Nr. 4 können Einzelrettungsmittel
 durch Sammelrettungsmittel nach Anhang XII Artikel 4 § 15.09 Nr. 5
 ersetzt werden.
 
-
 ### Kapitel 8 - Sonderbestimmungen für Verbände und Containerverkehr
 
 (ohne Inhalt)
-
 
 ### Kapitel 9 - Sonderbestimmungen für schwimmende Geräte
 
 (ohne Inhalt)
 
-
 ## Teil III - Wasserstraßen der Zone 1
 
-
 ### Kapitel 10 - Sonderbestimmungen für Fahrzeuge auf Wasserstraßen der Zone 1
-
 
 #### § 10.01 Allgemeines
 
@@ -920,19 +834,13 @@ ersetzt werden.
 2.  Die Bestimmungen aus den Kapiteln 2 bis 6 und die Bestimmungen der §§
     10\.02 bis 10.07 sind zu erfüllen.
 
-
-
-
-
 #### § 10.02 Sicherheitsabstand
 
 Der Sicherheitsabstand muss mindestens 1,20 m betragen.
 
-
 #### § 10.03 Freibord
 
 Der Freibord muss mindestens 0,50 m betragen.
-
 
 #### § 10.04 Verschlusszustand
 
@@ -946,10 +854,6 @@ Der Freibord muss mindestens 0,50 m betragen.
 2.  Die Festsetzung der höchstzulässigen Einsenkung für die Fahrt mit
     ungedeckten Laderäumen ist nicht zulässig.
 
-
-
-
-
 #### § 10.05 Festigkeit
 
 Eine anerkannte Klassifikationsgesellschaft muss bescheinigen, dass
@@ -957,7 +861,6 @@ das Fahrzeug zur Fahrt auf Wasserstraßen der Zone 1 ausreichende
 Festigkeit und einen angemessenen Freibord und Verschlusszustand
 aufweist. Die vorzulegende Bescheinigung muss die zulässigen
 Fahrtbedingungen der Fahrzeuge gemäß § 10.06 angeben.
-
 
 #### § 10.06 Zulässige Fahrtbedingungen
 
@@ -969,7 +872,6 @@ annehmbaren Witterungs- und Wetterverhältnissen oder auf Fahrten von
 begrenzter Dauer – festgelegt. Die zulässigen Fahrtbedingungen sind im
 Gemeinschaftszeugnis oder im zusätzlichen Gemeinschaftszeugnis zu
 bescheinigen.
-
 
 #### § 10.07 Zusätzliche Ausrüstung
 
@@ -1011,10 +913,6 @@ bescheinigen.
     Fahrzeuge mit Besatzung die nach Nr. 1 Buchstabe b bis Buchstabe f
     geforderten Ausrüstungsgegenstände an Bord mitführen.
 
-
-
-
-
 #### § 10.08 Sonderbestimmungen für Fahrgastschiffe
 
 
@@ -1027,15 +925,9 @@ bescheinigen.
     Stabilität aufweist. Die vorzulegende Bescheinigung muss die
     zulässigen Fahrtbedingungen der Fahrzeuge gemäß § 10.06 angeben.
 
-
-
-
-
 ## Teil 4 -
 
-
 ### Kapitel 11 - Übergangs- und Sonderbestimmungen
-
 
 #### § 11.01 Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind, und Gültigkeit der bisherigen Zusätzlicher Gemeinschaftszeugnisse
 
@@ -1054,10 +946,6 @@ bescheinigen.
 3.  Die Zusätzliche Gemeinschaftszeugnisse, die vor dem 30. Dezember 2008
     erteilt worden sind, bleiben bis zu dem eingetragenen Ablaufdatum
     gültig. Anhang II § 2.09 Nummer 2 bleibt unberührt.
-
-
-
-
 
 #### § 11.02 Abweichungen für Fahrzeuge, die schon in Betrieb sind
 
@@ -1193,10 +1081,6 @@ bescheinigen.
     *   N.E.U., spätestens bei Erteilung oder Erneuerung des
         Gemeinschaftszeugnisses nach dem 30.12.2049
 
-
-
-
-
 #### § 11.03 Sonstige Abweichungen
 
 Falls die Anwendung der in diesem Kapitel genannten Bestimmungen nach
@@ -1205,7 +1089,6 @@ unzumutbar hohe Kosten verursacht, kann die Untersuchungskommission
 aufgrund von Empfehlungen des Ausschusses Abweichungen von diesen
 Vorschriften gestatten. Diese Abweichungen sind in das Zusätzliche
 Gemeinschaftszeugnis einzutragen.
-
 
 #### § 11.04 Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21 sowie nach Anhang XII Artikel 5
 

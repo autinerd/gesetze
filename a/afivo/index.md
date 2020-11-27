@@ -22,7 +22,6 @@ Geändert durch
 Die v tritt nach ihrem § 6 abs. 2 mit ablauf des 12.6.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 abs. 2 aufgeh. durch
 :   Art. 1 Nr. 2 V v. 2.6.2009 eBAnz AT 59 V1, dadurch ist die Geltung der V über den 12.6.2009 hinaus verlängert worden
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 in Verbindung mit Abs. 2 des Agrar- und
@@ -31,12 +30,10 @@ S. 2330) verordnet das Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz im Einvernehmen mit dem Bundesministerium der
 Finanzen:
 
-
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für Veröffentlichungen nach dem Agrar- und
 Fischereifonds-Informationen-Gesetz.
-
 
 ## § 2 Inhalt und Aufbau der Internetseite
 
@@ -67,7 +64,6 @@ Landwirtschaft betreffenden Informationen eine Suchfunktion
 vorzusehen, die eine Suche nach den genannten Informationen
 ermöglicht.
 
-
 ## § 3 Berichtigung, Sperrung und Löschung von Informationen
 
 (1) Soweit nach den für die veröffentlichende Stelle geltenden
@@ -89,7 +85,6 @@ unverzüglich zu sperren.
 (3) Die jeweils veröffentlichende Stelle löscht die veröffentlichten
 Daten zwei Jahre nach dem ersten Tag ihrer Veröffentlichung.
 
-
 ## § 4 Einsichtnahme
 
 (1) Die Informationen über die Zahlung von Mitteln aus den
@@ -98,7 +93,6 @@ ausschließlich über das Internet einsehbar.
 
 (2) Die Barrierefreie Informationstechnik-Verordnung vom 17. Juli 2002
 (BGBl. I S. 2654) in der jeweils geltenden Fassung gilt entsprechend.
-
 
 ## § 5 Datensicherheit
 

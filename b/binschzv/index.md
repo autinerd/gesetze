@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 30.10.1997 I 2622
 
-
 ## § 1
 
 (1) Beruf des Unternehmers im Binnenschiffsgüterverkehr im Sinne
@@ -32,7 +31,6 @@ im gewerblichen Verkehr Güter befördern.
 ohne Rechtspersönlichkeit, sowie jede andere Personenvereinigung
 einschließlich einer Binnenschiffervereinigung und -genossenschaft,
 die bei den Verladern Ladung beschafft.
-
 
 ## § 2
 
@@ -66,7 +64,6 @@ Unternehmens oder wechseln die für die Führung der Geschäfte
 bestellten Personen, ist die Erlaubnisurkunde der Erlaubnisbehörde zur
 Berichtigung vorzulegen.
 
-
 ## § 3
 
 Eine Erlaubnis ist nicht erforderlich
@@ -85,10 +82,6 @@ Eine Erlaubnis ist nicht erforderlich
     Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
     haben.
 
-
-
-
-
 ## § 4
 
 (1) Die Erlaubnis zum innerstaatlichen oder grenzüberschreitenden
@@ -100,7 +93,6 @@ geeignet ist.
 innerstaatlichen oder grenzüberschreitenden Binnenschiffsgüterverkehrs
 jeweils erforderlichen Kenntnisse auf den in der Anlage zu dieser
 Verordnung genannten Sachgebieten hat.
-
 
 ## § 5
 
@@ -133,7 +125,6 @@ Erlaubnisbehörde die vorgelegten Nachweise. Bejaht die
 Erlaubnisbehörde die fachliche Eignung, stellt sie auf Antrag nach § 2
 Abs. 4 eine Erlaubnisurkunde aus.
 
-
 ## § 6
 
 (1) Bei Personen, die
@@ -159,7 +150,6 @@ waren.
 
 (2) Auf Antrag wird diesen Personen eine Erlaubnisurkunde ausgestellt.
 
-
 ## § 7
 
 Als ausreichender Nachweis der fachlichen Eignung gilt auch eine
@@ -174,7 +164,6 @@ und sonstigen Befähigungsnachweise für diesen Beruf (ABl. EG Nr. L 322
 S. 20) ausgestellt wurde. Auf die in Österreich ausgestellten
 Bescheinigungen ist Satz 1 ab 1. Juli 1994 und auf die in der Schweiz
 ausgestellten Bescheinigungen ist Satz 1 ab 1. Januar 1995 anzuwenden.
-
 
 ## § 8
 
@@ -193,7 +182,6 @@ Bezirk der Prüfungsteilnehmer seinen Wohnsitz hat. Die Verweisung des
 Prüfungsteilnehmers an den bei einer anderen Industrie- und
 Handelskammer gebildeten Prüfungsausschuß ist zulässig.
 
-
 ## § 9
 
 (1) Gegenstand der Prüfung sind die in den Abschnitten A und B der
@@ -208,7 +196,6 @@ Sachgebiete des Abschnitts B der Anlage begrenzt.
 Antragstellers kann die zuständige Industrie- und Handelskammer eine
 Befreiung von der Verpflichtung zum Ablegen der Prüfung auf einem oder
 mehreren Sachgebieten nach Absatz 1 erteilen.
-
 
 ## § 10
 
@@ -228,7 +215,6 @@ wiederholt werden darf.
 Prüfungsleistungen regeln die Industrie- und Handelskammern durch
 Prüfungsordnungen.
 
-
 ## § 11
 
 Bei Unternehmern, die nachweislich bis zum Zeitpunkt des
@@ -239,11 +225,9 @@ innerhalb von 12 Monaten nach Inkrafttreten der Verordnung zu
 erbringen. Eine Erlaubnisurkunde wird auf Antrag des Unternehmers
 ausgestellt.
 
-
 ## § 12
 
 (Weggefallen)
-
 
 ## § 13
 
@@ -276,14 +260,12 @@ Geschäftsführung des Unternehmens nachweisen, kann die Erlaubnis zur
 Fortführung des Betriebes ausnahmsweise zeitlich unbeschränkt erteilt
 werden, ohne daß die Voraussetzungen des § 4 Abs. 1 festgestellt sind.
 
-
 ## § 14
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig ohne Erlaubnis nach § 2 Abs. 1 eine dort genannte Tätigkeit
 gewerbsmäßig ausübt.
-
 
 ## Anlage (zu § 4 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 Nr. 2, § 9 Abs. 1 und § 10 Abs. 2)
 

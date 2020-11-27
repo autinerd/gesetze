@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 845 - 899]
 
-
 ## Artikel 1 - Allgemeines
 
 
@@ -56,13 +55,6 @@ Fundstelle
 
 
     j)  Anlage Q Dienstanweisungen Nr. 4, 6, 10, 14, 16, 19, 23.
-
-
-
-
-
-
-
 
 ## Artikel 2 - Begriffsbestimmungen
 
@@ -194,13 +186,6 @@ Fundstelle
         Ebene der größten Einsenkung des Schiffskörpers in m einschließlich
         eines Kiels oder anderer fester Anhänge.
 
-
-
-
-
-
-
-
 ## Artikel 3 - Abweichende Übergangsbestimmungen
 
 
@@ -275,25 +260,16 @@ Fundstelle
 
         *   30.12.2008
 
-
-
-
-
-
-
-
 ## Artikel 4 - Abweichende Mindestanforderungen zu Anhang II für Wasserstraßen der Zonen 1 bis 4
 
 Die folgenden Vorschriften des Anhangs II sind in jeweils
 nachstehender Fassung anzuwenden:
-
 
 ## § 1.03 Gemeinschaftszeugnis
 
 Fahrzeuge nach § 1.02 Nr. 1 und 2 müssen ein Gemeinschaftszeugnis
 besitzen, das von einer zuständigen Behörde eines der Mitgliedstaaten
 im Anwendungsbereich der Richtlinie 2006/87/EG erteilt worden ist.
-
 
 ## § 1.06 Anordnungen vorübergehender Art
 
@@ -304,14 +280,12 @@ notwendig erscheint, in dringenden Fällen Abweichungen von
 Bestimmungen dieser Richtlinie schon vor der zu erwartenden Änderung
 derselben zuzulassen oder Versuche zu ermöglichen.
 
-
 ## § 1.07 Dienstanweisungen
 
 Zur Erleichterung und Vereinheitlichung der Anwendung dieser
 Verordnung können nach dem in Artikel 19 Abs. 2 der Richtlinie
 2006/87/EG genannten Verfahren für die Untersuchung verbindliche
 Verwaltungsvorschriften beschlossen werden.
-
 
 ## § 4.04 Einsenkungsmarken
 
@@ -379,10 +353,6 @@ Verwaltungsvorschriften beschlossen werden.
 
     Abbildung in Bearbeitung
 
-
-
-
-
 ## § 4.05 Höchstzulässige Einsenkung der Schiffe, deren Laderäume nicht immer sprühwasser- und wetterdicht geschlossen sind
 
 Ist die Ebene der größten Einsenkung für Zone 3 unter der
@@ -395,7 +365,6 @@ Gemeinschaftszeugnis ist einzutragen:
 „Wenn die Luken der Laderäume ganz oder teilweise geöffnet sind, darf
 das Schiff höchstens bis zu .... mm unter die Einsenkungsmarken für
 Zone 3 abgeladen sein.“
-
 
 ## § 7.02 Freie Sicht
 
@@ -448,10 +417,6 @@ Zone 3 abgeladen sein.“
     Vertikalebene geneigt sind und oben um mindestens 10 Grad und
     höchstens 25 Grad nach außen gestellt sind.
 
-
-
-
-
 ## § 7.05 Signallichter, Lichtzeichen und Schallzeichen
 
 
@@ -497,12 +462,7 @@ Zone 3 abgeladen sein.“
 5.  Signallichter müssen den Anforderungen des Anhangs IX Teil I
     entsprechen.
 
-
-
-
-
 ### Kapitel 8a - Vorschriften für den Einbau typgeprüfter Motoren in Fahrzeuge
-
 
 ### § 8a.01 Begrifffsbestimmungen
 
@@ -637,10 +597,6 @@ Im Sinne dieser Vorschrift gilt als:
     mit Anhang II dieser Verordnung auf der Bundeswasserstraße Rhein in
     Kraft gesetzt ist.
 
-
-
-
-
 ### § 8a.02 Grundregel
 
 Für alle Motoren gelten folgende allgemeine Bestimmungen:
@@ -743,10 +699,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
 
 8.  Die zuständige Behörde kann sich zur Erfüllung von Aufgaben nach
     dieser Vorschrift eines Technischen Dienstes bedienen.
-
-
-
-
 
 ### § 8a.03 Typgenehmigungen
 
@@ -981,10 +933,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
     durch motorexterne Maßnahmen auf die für die Anwendung notwendige
     Leistung reduziert werden.
 
-
-
-
-
 ### § 8a.05 Einbau-, Zwischen- und Sonderprüfungen
 
 
@@ -1056,10 +1004,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
     gleiche Betriebsverhalten wie der untersuchte Zylinder und/oder Motor
     haben.
 
-
-
-
-
 ### § 8a.06 Technische Dienste
 
 
@@ -1087,10 +1031,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
     Europäischen Union und dem Drittland als anerkannter technischer
     Dienst benannt werden.
 
-
-
-
-
 ### § 10.03 Tragbare Feuerlöscher
 
 
@@ -1115,13 +1055,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
     e)  an geeigneten Stellen im Unterdecksteil von Maschinen- und
         Kesselräumen, so angeordnet, dass der Weg zu einem Feuerlöschgerät von
         keinem Punkt des Raumes aus mehr als zehn Meter beträgt.
-
-
-
-
-
-
-
 
 ### § 15.09 Rettungsmittel
 
@@ -1274,10 +1207,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
 
 11. Eine geeignete Krankentrage muss vorhanden sein.
 
-
-
-
-
 ### § 17.03 Sonstige Bestimmungen
 
 
@@ -1308,10 +1237,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
     Hubvermögen durch Ankuppeln von zusätzlichen Schwimmkörpern vergrößert
     werden, müssen die Werte mit und ohne Zusatzschwimmkörper angegeben
     sein.
-
-
-
-
 
 ### § 22a.05 Zusätzliche Anforderungen
 
@@ -1403,10 +1328,6 @@ Für alle Motoren gelten folgende allgemeine Bestimmungen:
     ist im Gemeinschaftszeugnis unter Nummer 52 einzutragen, dass sie
     allen Anforderungen der Buchstaben a bis d entsprechen.
 
-
-
-
-
 ### § 24.08 Übergangsbesimmungen zu § 2.18
 
 Bei Fahrzeugen, die nach dem 31. März 2007 im Besitz eines gültigen
@@ -1415,16 +1336,13 @@ bei Erteilung eines Gemeinschaftszeugnisses die bereits zugeteilte
 einheitliche europäische Schiffsnummer zu verwenden und gegebenenfalls
 durch Voranstellung der Ziffer „0“ zu vervollständigen.
 
-
 ## Artikel 5 - Ergängende Mindestanforderungen für Segelfahrgastschiffe
-
 
 ## § 1 Anwendung des Anhang II
 
 Zusätzlich zu den Bestimmungen des Anhanges II in Verbindung mit
 Artikel 4 gelten für Segelfahrgastschiffe auf den Wasserstraßen der
 Zonen 1 bis 4 folgenden die Bestimmungen.
-
 
 ## § 2 Ausnahmen für bestimmte Segelfahrgastschiffe
 
@@ -1454,10 +1372,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
     1,5-fache L
     WL                    in ganzen Metern erhöht werden, wenn die
     Besegelung und die Deckseinrichtung dies zulassen.
-
-
-
-
 
 ## § 3 Stabilitätsanforderungen für Schiffe unter Segeln
 
@@ -1526,13 +1440,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 
         nicht unter 0,03 m·rad liegen.
 
-
-
-
-
-
-
-
 ## § 4 Schiffbau- und maschinenbauliche Anforderungen
 
 
@@ -1566,10 +1473,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 6.  Kann während der Segelfahrt die Schraube leer mitdrehen, sind
     gefährdete Antriebsteile vor Schäden zu schützen.
 
-
-
-
-
 ## § 5 Takelage im Allgemeinen
 
 
@@ -1595,10 +1498,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 
 
     Der Nachweis muss der Untersuchungskommission vorgelegt werden.
-
-
-
-
 
 ## § 6 Masten und Rundhölzer im Allgemeinen
 
@@ -1656,10 +1555,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 
 8.  In den Tabellen der §§ 7 bis 12 und 14 sind mögliche Zwischenwerte zu
     interpolieren.
-
-
-
-
 
 ## § 7 Besondere Vorschriften für Masten
 
@@ -2368,10 +2263,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 4.  Seile sind so zu führen, dass Behinderungen von Ein- und Niedergängen
     vermieden werden.
 
-
-
-
-
 ## § 14 Besondere Vorschriften für stehendes Gut
 
 
@@ -2747,10 +2638,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
     eingehalten werden. Faserseile aus Polyethylen dürfen nicht verwendet
     werden.
 
-
-
-
-
 ## § 16 Beschläge und Teile der Takelage
 
 
@@ -2839,10 +2726,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 7.  Die Befestigungen der Augenbolzen, Klampen, Belegnägel und Nagelbänke
     müssen für die darauf ausgeübten Kräfte ausgelegt sein.
 
-
-
-
-
 ## § 17 Segel
 
 
@@ -2851,10 +2734,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 
 
 2.  Die Segelfläche muss zum Schiffstyp und zur Wasserverdrängung passen.
-
-
-
-
 
 ## § 18 Ausrüstung
 
@@ -2871,10 +2750,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 
 
 3.  Für Arbeiten in der Takelage ist ein Bootsmannsstuhl vorzuhalten.
-
-
-
-
 
 ## § 19 Prüfung
 
@@ -2930,12 +2805,7 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
     datiertes und unterschriebenes Zeugnis der letzten nach Nummer 1
     durchgeführten Prüfung mitgeführt werden.
 
-
-
-
-
 ## Artikel 6 - Übergangsbestimmungen für Fahrzeuge, die nicht auf dem Rhein verkehren
-
 
 ## § 1 Übergangsbestimmungen für Fahrzeuge, die nicht auf dem Rhein verkehren
 
@@ -2964,10 +2834,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 3.  Die Gemeinschaftszeugnisse, die vor dem 30. Dezember 2008 erteilt
     worden sind, bleiben bis zu dem eingetragenen Ablaufdatum gültig.
     Anhang II § 2.09 Nr. 2 bleibt unberührt.
-
-
-
-
 
 ## § 2 Abweichungen für Fahrzeuge, die schon in Betrieb sind
 
@@ -4079,10 +3945,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
     0,90 m oder die lichte Breite darüber nicht unterschritten werden,
     wenn diese Maße kleiner sind als die nach Artikel 11.04.
 
-
-
-
-
 ## § 3 Abweichungen für Fahrzeuge, die vor dem 1. Januar 1985 auf Kiel gelegt worden sind
 
 
@@ -4434,13 +4296,6 @@ Zonen 1 bis 4 folgenden die Bestimmungen.
 
         *   N.E.U.
 
-
-
-
-
-
-
-
 ## § 4 Sonstige Abweichungen
 
 Soweit die Anwendung der in diesem Artikel genannten Bestimmungen nach
@@ -4451,11 +4306,9 @@ nach dem in Artikel 19 Abs. 2 der Richtlinie 2006/87/EG genannten
 Verfahren Abweichungen von diesen Vorschriften gestatten. Diese
 Abweichungen sind in das Gemeinschaftszeugnis einzutragen.
 
-
 ## § 5 Übergangsbestimmung zu Anhang II § 2.18
 
 Anhang II § 24.08 gilt sinngemäß.
-
 
 ## § 6 Übergangsbestimmung für Fahrzeuge nach Anhang II Kapitel 15, 17 und 21 sowie nach Artikel Artikel 5 dieses Anhangs
 
@@ -4495,10 +4348,6 @@ Anhang II § 24.08 gilt sinngemäß.
     gleichwertiger Technologie und Bauart während routinemäßig
     durchgeführter Instandsetzungs- und Wartungsarbeiten gilt nicht als
     Ersatz im Sinne der Nummer 2.
-
-
-
-
 
 ## Anlage I - gilt nur für Fahrzeuge mit Schiffszeugnis -
 

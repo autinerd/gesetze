@@ -18,14 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 11.2.1983 I 85
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 16 Abs. 1 Nr. 1 des Eisenbahnkreuzungsgesetzes vom 14.
 August 1963 (Bundesgesetzbl. I S. 681) wird mit Zustimmung des
 Bundesrates verordnet:
-
 
 ## § 1 Umfang der Kostenmasse
 
@@ -63,7 +60,6 @@ bisherigen Kreuzungsstelle eine Maßnahme nach § 3 des Gesetzes mit
 geringeren Kosten verkehrsgerecht möglich wäre, so ist die Kostenmasse
 auf die Höhe dieser Kosten beschränkt.
 
-
 ## § 2 Zusammensetzung der Kostenmasse
 
 Die Kostenmasse setzt sich zusammen aus
@@ -75,10 +71,6 @@ Die Kostenmasse setzt sich zusammen aus
 
 
 3.  Verwaltungskosten.
-
-
-
-
 
 ## § 3 Grunderwerbskosten
 
@@ -102,7 +94,6 @@ Duldungspflichtigen gehören.
 (3) Der Erlös aus der Veräußerung oder der Verkehrswert der für die
 Kreuzung nicht oder nicht mehr benötigten Grundstücke ist von den
 Grunderwerbskosten abzuziehen.
-
 
 ## § 4 Baukosten
 
@@ -168,7 +159,6 @@ bestehen, sind diese anzuwenden.
 (5) Der Erlös aus der Verwertung oder der Wert der nicht mehr
 benötigten Anlagen der Kreuzung ist von den Baukosten abzuziehen.
 
-
 ## § 5 Verwaltungskosten
 
 Jeder Beteiligte kann Verwaltungskosten in Höhe von 10 vom Hundert der
@@ -182,11 +172,9 @@ Hilfsfahrzeugen für die Bauaufsicht und Bauleitung und Fahrzeugen für
 die Probebelastung sowie sonstige Verwaltungstätigkeiten
 einschließlich des Rechnungs- und Kassendiensts.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1964 in Kraft.
-
 
 ## Schlußformel
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 7.2.2012 I 183
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung der
@@ -27,7 +26,6 @@ Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit dem
 S. 821) verordnet das Bundesministerium für Wirtschaft und Technologie
 im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung:
-
 
 ## § 1 Allgemeines
 
@@ -67,10 +65,6 @@ gleichwertigen Bescheinigung.
 
 
 7.  nach Maßgabe des § 2 Abs. 3 dieser Verordnung.
-
-
-
-
 
 ## § 2 Arten der Flugfunkzeugnisse
 
@@ -140,10 +134,6 @@ gilt Folgendes:
     Sichtflugregeln fliegt, oder bei einer Bodenfunkstelle mit
     Luftfunkstellen der vorgenannten Art ausüben.
 
-
-
-
-
 ## § 3 Voraussetzungen für den Erwerb von Flugfunkzeugnissen
 
 Voraussetzungen für den Erwerb von Flugfunkzeugnissen sind:
@@ -167,10 +157,6 @@ Voraussetzungen für den Erwerb von Flugfunkzeugnissen sind:
 
 4.  das Bestehen der vorgeschriebenen Prüfung.
 
-
-
-
-
 ## § 4 Prüfungsbehörde
 
 (1) Prüfungsbehörde ist die Bundesnetzagentur für Elektrizität, Gas,
@@ -182,13 +168,11 @@ in ihrem Amtsblatt bekannt.
 Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung weitere Behörden als Prüfungsbehörden benennen.
 
-
 ## § 5 Anmeldung zur Prüfung
 
 Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses
 muss schriftlich unter Angabe der beantragten Zeugnisart spätestens 14
 Tage vor dem Prüfungstermin bei der Prüfungsbehörde erfolgen.
-
 
 ## § 6 Zulassung zur Prüfung
 
@@ -211,7 +195,6 @@ erfolgten Zulassung nach Absatz 1 die Zulassungsentscheidung auf eine
 andere Flugfunkzeugnisart ändern. Einzelheiten veröffentlicht die
 Bundesnetzagentur in ihrem Amtsblatt.
 
-
 ## § 7 Prüfungsausschuss
 
 (1) Der Prüfungsausschuss für die Prüfung zum Erwerb eines
@@ -222,7 +205,6 @@ Beisitzer.
 Beisitzer. Die Beisitzer sollen fachkundige Personen, insbesondere aus
 dem Bereich des Flugsicherungspersonals oder des Luftfahrtpersonals
 sein.
-
 
 ## § 8 Prüfung
 
@@ -260,7 +242,6 @@ Aushändigung erteilt.
 berechtigtes Interesse nachweisen, die Anwesenheit bei der Prüfung
 gestatten.
 
-
 ## § 9 Wiederholungsprüfung
 
 (1) Hat der Bewerber die Prüfung nicht bestanden, so kann er diese
@@ -276,7 +257,6 @@ Bewerber innerhalb dieses Zeitraums nicht an, so erlischt der Anspruch
 auf Zulassung zur Wiederholungsprüfung. Für die Wiederholungsprüfung
 sind die Bestimmungen des § 8 entsprechend anzuwenden.
 
-
 ## § 10 Zusatzprüfung
 
 (1) Inhaber gültiger Sprechfunkzeugnisse für den Flugfunkdienst können
@@ -291,7 +271,6 @@ anzuwenden.
 (3) Hat der Bewerber die Zusatzprüfung nicht bestanden, so kann er
 diese erneut ablegen.
 
-
 ## § 11 Nachprüfung
 
 (1) Der Inhaber eines gültigen Flugfunkzeugnisses, dessen
@@ -303,7 +282,6 @@ unterziehen. Inhalt und Umfang der Nachprüfung werden nach Maßgabe der
 Anlage 1 im Einzelfall von der Bundesnetzagentur festgelegt.
 
 (2) § 8 gilt entsprechend.
-
 
 ## § 12 Anerkennung von Prüfungen zum Erwerb einer Erlaubnis für Luftfahrzeugführer oder zum Erwerb der Instrumentenflugberechtigung
 
@@ -343,7 +321,6 @@ Verkehr, Bau und Stadtentwicklung festlegen, dass die Berechtigung zur
 Ausübung des Flugfunkdienstes von den zuständigen Luftfahrtbehörden
 erteilt und im Luftfahrerschein eingetragen wird.
 
-
 ## § 13 Erwerb von Flugfunkzeugnissen durch Inhaber einer Bescheinigung der Bundeswehr
 
 (1) Inhabern einer Bescheinigung der Bundeswehr über den Besitz eines
@@ -367,7 +344,6 @@ Antrag ausgestellt:
 (3) Dem Antrag auf Ausstellen eines Flugfunkzeugnisses ist unter
 Angabe der beantragten Zeugnisart die Bescheinigung der Bundeswehr
 nach Absatz 1 beizufügen.
-
 
 ## § 14 Anerkennung von Flugfunkzeugnissen
 
@@ -417,7 +393,6 @@ Sprechfunks in englischer Sprache berechtigen, werden in dem vom
 jeweiligen Mitgliedstaat festgelegten Umfang allgemein und formlos
 anerkannt.
 
-
 ## § 15 Prüfung von Kenntnissen der englischen Sprache
 
 (1) Bei der Prüfungsbehörde können auch die Sprachprüfung und die
@@ -464,7 +439,6 @@ Bundesamt Einzelheiten fest zu
 Die Festlegungen werden im Amtsblatt der Bundesnetzagentur
 veröffentlicht.
 
-
 ## § 16 Zweitschriften
 
 Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust
@@ -474,7 +448,6 @@ werden. Dasselbe gilt, wenn das Zeugnis, der Berechtigungsausweis oder
 die Bescheinigung der Sprachprüfung unbrauchbar geworden ist. Im Fall
 der Unbrauchbarkeit ist die Urschrift vor dem Ausstellen der
 Zweitschrift zurückzugeben.
-
 
 ## § 17 Entziehung eines Flugfunkzeugnisses
 
@@ -504,7 +477,6 @@ an die Bundesnetzagentur zurückzugeben.
 (4) Für den Berechtigungsausweis nach § 14 Absatz 3 sind die Absätze 1
 bis 3 entsprechend anzuwenden.
 
-
 ## § 18 Gebühren und Auslagen
 
 (1) Die für Amtshandlungen nach dieser Verordnung zu erhebenden
@@ -521,7 +493,6 @@ glaubhaft macht.
 
 (4) (weggefallen)
 
-
 ## § 19 Zurückziehen einer Anmeldung zur Prüfung
 
 Zieht der Bewerber seine Anmeldung nach der Zulassung zur Prüfung
@@ -529,7 +500,6 @@ zurück, so ermäßigt sich die vorgesehene Prüfungsgebühr um ein
 Viertel; sie kann bis zu einem Viertel der vorgesehenen Gebühr
 ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies
 der Billigkeit entspricht.
-
 
 ## § 20 Übergangsbestimmungen
 
@@ -560,14 +530,12 @@ umgetauscht. Hierbei entsprechen
 
 Der Antrag ist an eine Außenstelle der Bundesnetzagentur zu richten.
 
-
 ## § 21 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 30. August 2008 in Kraft, soweit im
 folgenden Absatz nichts Abweichendes bestimmt ist.
 
 (2) § 15 tritt am 29. November 2008 in Kraft.
-
 
 ## Anlage 1 (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2) Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
 
@@ -787,10 +755,6 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
 
 
 5.2 Fertigkeiten                    gemäß 4.2.1 und 4.2.2
-
-
-
-
 
 ## Anlage 2 (zu § 18) Gebührenverzeichnis
 

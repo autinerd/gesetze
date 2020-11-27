@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 24.2.2012 I 206
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 Satz 1 in Verbindung mit § 3a Abs. 5 Satz 1,
 des § 4 Abs. 4 Satz 1, des § 6 Abs. 4, des § 7 Abs. 3, des § 8 Abs. 2
 und des § 10 Abs. 2 des Finanzmarktstabilisierungsfondsgesetzes vom
 17\. Oktober 2008 (BGBl. I S. 1982) verordnet die Bundesregierung:
-
 
 ## § 1 Verwaltung des Finanzmarktstabilisierungsfonds
 
@@ -119,7 +117,6 @@ ist.
 Gewährung von Stabilisierungsmaßnahmen werden von der Anstalt nach
 Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
-
 ## § 2 Garantieübernahme
 
 (1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors
@@ -187,10 +184,6 @@ Hierbei gelten folgende Maßgaben:
     Unternehmen des Finanzsektors und seine verbundenen Unternehmen
     orientiert sich an dessen Eigenmittelausstattung.
 
-
-
-
-
 ## § 3 Rekapitalisierung
 
 (1) Der Fonds kann sich auf Antrag eines Unternehmens des
@@ -234,7 +227,6 @@ Einzelfall fest. Hierbei gelten folgende Maßgaben:
 
 
 (3) (weggefallen)
-
 
 ## § 4 Risikoübernahme
 
@@ -299,10 +291,6 @@ Einzelfall fest. Hierbei gelten folgende Maßgaben:
     Unternehmen des Finanzsektors und seine verbundenen Unternehmen, liegt
     vorbehaltlich einer Entscheidung des Lenkungsausschusses im Einzelfall
     bei 5 Milliarden Euro.
-
-
-
-
 
 ## § 5 Bedingungen für Stabilisierungsmaßnahmen
 
@@ -453,7 +441,6 @@ Vertragsbedingungen in Kenntnis zu setzen.
 
 (9) Laufzeit, Art und Umfang der konkreten Maßnahme sollen unter
 Berücksichtigung des Andauerns der Finanzmarktkrise gestaltet werden.
-
 
 ## § 6 Inkrafttreten
 

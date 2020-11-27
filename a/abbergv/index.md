@@ -63,10 +63,6 @@ folgender EG-Richtlinien:
     Einzelrichtlinie im Sinne des Artikels 16 Abs. 1 der Richtlinie
     89/391/EWG) (ABl. EG Nr. L 245 S. 23).
 
-
-
-
-
 ## Eingangsformel
 
 Auf Grund des § 66 Satz 1 Nr. 1 Buchstabe b, Nr. 2, 4 Buchstabe a und
@@ -79,7 +75,6 @@ verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem
 Bundesministerium für Arbeit und Sozialordnung und für den Bereich des
 Festlandsockels und der Küstengewässer im Einvernehmen mit dem
 Bundesministerium für Verkehr:
-
 
 ## § 1 Sachliche und räumliche Anwendung
 
@@ -107,7 +102,6 @@ den Umweltschutz bei
 
 auf dem Festland sowie im Bereich des Festlandsockels und der
 Küstengewässer.
-
 
 ## § 2 Allgemeine Pflichten
 
@@ -216,7 +210,6 @@ im Betrieb nicht ausreichen. Sachverständige oder sachverständige
 Stellen müssen alle für ihre jeweilige Tätigkeit erforderlichen
 Informationen erhalten.
 
-
 ## § 3 Sicherheits- und Gesundheitsschutzdokument
 
 (1) Der Unternehmer hat dafür zu sorgen, daß als Maßnahme nach § 2
@@ -295,7 +288,6 @@ nach Absatz 1 Satz 1 in dem jeweils erforderlichen Umfang zu
 auf der Grundlage des Sicherheits- und Gesundheitsschutzdokuments
 getroffenen Maßnahmen schriftlich festzuhalten.
 
-
 ## § 4 Zusammenarbeit der Unternehmer
 
 (1) Werden Beschäftigte mehrerer Unternehmer zeitlich und örtlich
@@ -316,7 +308,6 @@ Einzelheiten festzulegen.
 (3) Absatz 1 gilt entsprechend für die Zusammenarbeit mit natürlichen
 und juristischen Personen und Personenhandelsgesellschaften, die nicht
 die Voraussetzungen des § 4 Abs. 5 des Bundesberggesetzes erfüllen.
-
 
 ## § 5 Beaufsichtigung durch verantwortliche Personen
 
@@ -394,7 +385,6 @@ erteilen darf.
 er die hierfür erforderlichen Voraussetzungen nach § 59 Abs. 1 des
 Bundesberggesetzes erfüllt.
 
-
 ## § 6 Unterrichtung, Unterweisung, Anhörung
 
 (1) Der Unternehmer hat Beschäftigte vor Beginn der Beschäftigung und
@@ -430,7 +420,6 @@ auch zu für sie wichtigen Festlegungen im Sicherheits- und
 Gesundheitsschutzdokument nach § 3 sowie zu Fragen der Unterrichtung
 und Unterweisung nach den Absätzen 1 und 2.
 
-
 ## § 7 Schriftliche Anweisungen
 
 Für jede Arbeitsstätte oder einen Betrieb hat der Unternehmer
@@ -444,7 +433,6 @@ sind. Diese Anweisungen haben auch Informationen über den Einsatz von
 Notfallausrüstungen sowie darüber zu enthalten, wie bei einem Notfall
 in oder in der Nähe der Arbeitsstätte oder des Betriebes vorzugehen
 ist.
-
 
 ## § 8 Übertragung von Arbeiten
 
@@ -466,7 +454,6 @@ Unternehmer zu berücksichtigen, daß die Beschäftigten
 übertragenen Aufgaben eine ausreichende Anzahl nach Absatz 1
 geeigneter Beschäftigter zur Verfügung stehen.
 
-
 ## § 9 Arbeitsfreigabe
 
 Der Unternehmer hat entsprechend dem Ergebnis der Beurteilung von
@@ -486,7 +473,6 @@ Beginn freigegeben hat. Die Vorgehensweise sowie die vor, während und
 nach Abschluß der Arbeiten einzuhaltenden Sicherheitsvorkehrungen
 müssen in der Arbeitsfreigabe oder auf andere Weise schriftlich
 geregelt und den jeweiligen Beschäftigten bekannt sein.
-
 
 ## § 10 Vorkehrungen bei erheblichen Gefahren
 
@@ -526,7 +512,6 @@ solange eine unmittelbare erhebliche Gefahr fortbesteht.
 (4) Den Beschäftigten dürfen aus einem Handeln nach Absatz 2 Nr. 2
 keine Nachteile entstehen, es sei denn, sie haben vorsätzlich oder
 grob fahrlässig ungeeignete Maßnahmen getroffen.
-
 
 ## § 11 Spezifische Schutzmaßnahmen
 
@@ -592,7 +577,6 @@ sorgen, daß
 Satz 1 Nr. 3 gilt insbesondere für grubengasführende untertägige
 Betriebe und untertägige Betriebe mit brennbaren Stäuben.
 
-
 ## § 12 Allgemeine Anforderungen an Arbeitsstätten und sanitäre Einrichtungen
 
 (1) Bei der Gestaltung der Arbeitsstätten hat der Unternehmer für
@@ -638,7 +622,6 @@ einem untertägigen Betrieb anwesenden Personen muß bekannt sein.
 entsprechend der Art der Betriebe und der Tätigkeiten einzuhalten.
 Anhang 2 gilt zusätzlich für Tagesanlagen im Zusammenhang mit
 Tätigkeiten und Einrichtungen nach § 1.
-
 
 ## § 13 Arbeitsstätten zur Aufsuchung und Gewinnung durch Bohrungen einschließlich der Aufbereitung, Untergrundspeicherung, Wiedernutzbarmachung
 
@@ -722,7 +705,6 @@ der Beschäftigte anwesend sind.
 (8) Für den Bereich des Festlandsockels und der Küstengewässer gelten
 zusätzlich die Anforderungen des Anhangs 3.
 
-
 ## § 14 Arbeitsstätten zur übertägigen Aufsuchung, Gewinnung und Aufbereitung, Wiedernutzbarmachung
 
 (1) Der Unternehmer hat Arbeitsstätten, in denen
@@ -764,7 +746,6 @@ Sicherheit eines übertägigen Betriebes nicht gefährdet wird.
 für die eingesetzten Arbeitsmittel angemessen ist. Insbesondere müssen
 sie so angelegt und unterhalten werden, daß ein sicheres Fahren von
 Maschinen, Geräten und Fahrzeugen gegeben ist.
-
 
 ## § 15 Untertägige Arbeitsstätten
 
@@ -911,7 +892,6 @@ muß eine ausreichende Anzahl im Grubenrettungswesen theoretisch und
 praktisch unterwiesener Personen mit den erforderlichen sachlichen
 Mitteln verfügbar sein.
 
-
 ## § 16 Bewetterung untertägiger Arbeitsstätten
 
 (1) Der Unternehmer hat dafür zu sorgen, daß alle untertägigen
@@ -976,7 +956,6 @@ Gefährdungen nach § 3 Abs. 1 Satz 5 Nr. 1 festzulegen.
 (6) Ein Bewetterungsplan mit den wesentlichen Merkmalen der
 Bewetterung ist von dem Unternehmer anzufertigen, regelmäßig auf den
 neuesten Stand zu bringen und im Betrieb verfügbar zu halten.
-
 
 ## § 17 Bereitstellung und Benutzung von Arbeitsmitteln
 
@@ -1065,7 +1044,6 @@ Anforderungen als den in Absatz 2 Satz 1 Nr. 1 festgelegten
 entsprechen dürfen, müssen spätestens zum 5. Dezember 2002 den
 Anforderungen des Anhangs I dieser Richtlinie entsprechen.
 
-
 ## § 18 Bereitstellung und Benutzung von persönlichen Schutzausrüstungen
 
 (1) Der Unternehmer hat dafür zu sorgen, daß persönliche
@@ -1129,7 +1107,6 @@ Belastungen ausgesetzt, hat der Unternehmer zu prüfen, ob zur
 Gewährleistung ihres Gesundheitsschutzes weitere Maßnahmen
 erforderlich sind.
 
-
 ## § 19 Sicherheits- oder Gesundheitsschutzkennzeichnung
 
 (1) Der Unternehmer hat zu gewährleisten, daß Risiken und Gefahren für
@@ -1151,7 +1128,6 @@ vor dem 24. Juni 1994 an Arbeitsplätzen verwendet wurde, muß
 spätestens bis zum 24. Dezember 1996 den Mindestvorschriften nach
 Absatz 1 Satz 2 entsprechen.
 
-
 ## § 20 Präventivmedizinische Überwachung
 
 Der Unternehmer hat zu gewährleisten, daß die Gesundheit der
@@ -1160,7 +1136,6 @@ Gesundheitsrisiken am Arbeitsplatz in geeigneter Weise überwacht wird.
 Für die arbeitsmedizinischen Vorsorgeuntersuchungen sind die §§ 2 und
 3 der Gesundheitsschutz-Bergverordnung oder die §§ 2 und 18 Abs. 1 der
 Festlandsockel-Bergverordnung maßgebend.
-
 
 ## § 21 Pflichten der Beschäftigten
 
@@ -1203,7 +1178,6 @@ nachkommen kann, die Sicherheit und den Gesundheitsschutz der
 Beschäftigten bei der Arbeit zu gewährleisten und entsprechend den
 behördlichen Auflagen zu erfüllen.
 
-
 ## § 22 Rechte der Beschäftigten
 
 Die Beschäftigten sind berechtigt,
@@ -1229,7 +1203,6 @@ Die Beschäftigten sind berechtigt,
 
 Den Beschäftigten dürfen durch die Inanspruchnahme der Rechte nach
 Satz 1 keine Nachteile entstehen.
-
 
 ## § 22a Anforderungen an die Entsorgung von bergbaulichen Abfällen
 
@@ -1401,16 +1374,11 @@ Anforderungen gemäß Anhang 6 Nr. 2 und 3 sind einzuhalten.
     an dem Ort, an dem sie ausgehoben wurden, für Bauzwecke verwendet
     werden.
 
-
-
-
-
 ## § 23 Übertragung der Verantwortlichkeit
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser
 Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen
 übertragen.
-
 
 ## § 24 Ordnungswidrigkeiten
 
@@ -1495,25 +1463,18 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 17. entgegen § 22a Abs. 2 Satz 1 oder 3 eine Anzeige nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-
-
-
 ## § 25 Gegenstandslose landesrechtliche Vorschriften
 
 Das Bundesministerium für Wirtschaft gibt im Bundesanzeiger bekannt,
 welche landesrechtlichen Vorschriften gegenstandslos werden.
 
-
 ## § 26 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anhang 1 (zu den §§ 11 und 12) Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
 
@@ -2069,16 +2030,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
             Schutzmaßnahmen nach Nummer 11.3.1 nur insoweit zu treffen, als die
             Natur des Betriebes und die Art der Beschäftigung es zulassen.
 
-
-
-
-
-
-
-
-
-
-
 ## Anhang 2 (zu § 12) Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1480 - 1481;
@@ -2257,13 +2208,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         sind andere Räume zur Verfügung zu stellen, in denen sich die
         Beschäftigten während der Dauer der Arbeitsbereitschaft aufhalten
         können.
-
-
-
-
-
-
-
 
 ## Anhang 3 (zu § 13) Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 1 und 2 im Bereich des Festlandsockels und der Küstengewässer
 
@@ -2589,13 +2533,6 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1482 - 1484
         müssen so ausgeführt werden, daß Sicherheit und Stabilität der
         Plattformen nicht beeinträchtigt werden.
 
-
-
-
-
-
-
-
 ## Anhang 4 (zu § 19) Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
@@ -2836,16 +2773,6 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
             Gesundheitsschutzkennzeichnung den Anforderungen der Anhänge II bis IX
             der Richtlinie 92/58/EWG entsprechen.
 
-
-
-
-
-
-
-
-
-
-
 ## Anhang 5 (zu § 22a Abs. 2) Abfallbewirtschaftungsplan
 
 (Fundstelle des Originaltextes: BGBl. I 2008, 87)
@@ -2949,10 +2876,6 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
     zuzuordnen sind, eine Einschätzung der möglichen Gefährdung durch
     Unfälle.
 
-
-
-
-
 ## Anhang 6 (zu § 22a Abs. 3 Satz 1) Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 88 )
@@ -3055,10 +2978,6 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
     Anlage beeinträchtigen können, der zuständigen Behörde unverzüglich
     mitzuteilen sowie alle erforderlichen Messergebnisse, Daten und
     Prüfberichte zu übermitteln.
-
-
-
-
 
 ## Anhang 7 (zu § 22a Abs. 3 Satz 4) Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
 

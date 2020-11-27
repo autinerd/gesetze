@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,12 +31,10 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBI. I S. 931), von denen §
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bergbautechnologe/Bergbautechnologin wird nach §
 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
-
 
 ## § 2 Dauer und Struktur der Berufsausbildung
 
@@ -46,7 +43,6 @@ Der Ausbildungsberuf Bergbautechnologe/Bergbautechnologin wird nach §
 (2) Die Berufsausbildung gliedert sich in gemeinsame
 Ausbildungsinhalte und die Ausbildung in einer der Fachrichtungen
 Tiefbautechnik oder Tiefbohrtechnik.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -157,10 +153,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7.  Qualitätssicherung.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -181,7 +173,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -201,7 +192,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung
 
@@ -298,10 +288,6 @@ Berufsausbildung wesentlich ist.
 
 
 3.  die Prüfungszeit beträgt 120 Minuten.
-
-
-
-
 
 ## § 7 Teil 2 der Abschlussprüfung in der Fachrichtung Tiefbautechnik
 
@@ -420,10 +406,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelungen
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -490,7 +472,6 @@ der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
 Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
-
 
 ## § 9 Teil 2 der Abschlussprüfung in der Fachrichtung Tiefbohrtechnik
 
@@ -605,10 +586,6 @@ folgende Vorgaben:
 
 3.  die Prüfungszeit beträgt 60 Minuten.
 
-
-
-
-
 ## § 10 Gewichtungs- und Bestehensregelungen
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
@@ -667,7 +644,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 11 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -676,11 +652,9 @@ der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser
 Verordnung fortgesetzt werden, wenn die Vertragsparteien dies
 vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
 
 ## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Sachliche Gliederung –
 
@@ -1460,13 +1434,6 @@ und Fähigkeiten in der Fachrichtung Tiefbohrtechnik**
 
 
         d)  Betriebsstörungen systematisch bearbeiten
-
-
-
-
-
-
-
 
 ## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Zeitliche Gliederung –
 

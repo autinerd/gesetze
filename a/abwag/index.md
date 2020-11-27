@@ -21,17 +21,13 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 11.8.2010 I 1163
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Grundsatz
 
 Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer
 1 bis 3 des Wasserhaushaltsgesetzes ist eine Abgabe zu entrichten
 (Abwasserabgabe). Sie wird durch die Länder erhoben.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -54,7 +50,6 @@ Einrichtung, die dazu dient, die Schädlichkeit des Abwassers zu
 vermindern oder zu beseitigen; ihr steht eine Einrichtung gleich, die
 dazu dient, die Entstehung von Abwasser ganz oder teilweise zu
 verhindern.
-
 
 ### § 3 Bewertungsgrundlage
 
@@ -86,10 +81,7 @@ Zustimmung des Bundesrates die in der Anlage festgelegten Vorschriften
 Stand der Wissenschaft und Technik anzupassen, wenn dadurch die
 Bewertung der Schädlichkeit nicht wesentlich verändert wird.
 
-
 ## Zweiter Abschnitt - Ermittlung der Schädlichkeit
-
-
 
 ### § 4 Ermittlung auf Grund des Bescheides
 
@@ -177,11 +169,9 @@ Absatz 1 der Abgabenberechnung zugrunde zu legender Überwachungswert
 oder eine Festlegung nach Absatz 4 Satz 6 nicht eingehalten ist oder
 nicht als eingehalten gilt, finden die Absätze 1 bis 4 Anwendung.
 
-
 ### § 5
 
 (weggefallen)
-
 
 ### § 6 Ermittlung in sonstigen Fällen
 
@@ -200,7 +190,6 @@ der Ermittlung der Schadeinheiten geschätzt.
 
 (2) § 4 Abs. 2 bis 5 gilt entsprechend.
 
-
 ### § 7 Pauschalierung bei Einleitung von verschmutztem Niederschlagswasser
 
 (1) Die Zahl der Schadeinheiten von Niederschlagswasser, das über eine
@@ -215,7 +204,6 @@ Einwohner oder die Größe der befestigten Fläche kann geschätzt werden.
 (2) Die Länder können bestimmen, unter welchen Voraussetzungen die
 Einleitung von Niederschlagswasser ganz oder zum Teil abgabefrei
 bleibt.
-
 
 ### § 8 Pauschalierung bei Kleineinleitungen von Schmutzwasser aus Haushaltungen und ähnlichem Schmutzwasser
 
@@ -233,10 +221,7 @@ Bau der Abwasserbehandlungsanlage mindestens den allgemein anerkannten
 Regeln der Technik entspricht und die ordnungsgemäße
 Schlammbeseitigung sichergestellt ist.
 
-
 ## Dritter Abschnitt - Abgabepflicht
-
-
 
 ### § 9 Abgabepflicht, Abgabesatz
 
@@ -337,7 +322,6 @@ Ermäßigung nach dem erklärten Wert, wenn der Bescheid im Anschluss an
 die Erklärung an den erklärten Wert angepasst wird und dieser die
 Voraussetzungen des Absatzes 5 erfüllt.
 
-
 ### § 10 Ausnahmen von der Abgabepflicht
 
 (1) Nicht abgabepflichtig ist das Einleiten von
@@ -399,10 +383,7 @@ oder Leistungen hierzu nach Maßgabe der Absätze 3 und 4 auch mit
 Abwasserabgaben verrechnet werden, die der Abgabepflichtige für andere
 Einleitungen in diesem Gebiet bis zum Veranlagungsjahr 2005 schuldet.
 
-
 ## Vierter Abschnitt - Festsetzung, Erhebung und Verwendung der Abgabe
-
-
 
 ### § 11 Veranlagungszeitraum, Erklärungspflicht
 
@@ -421,7 +402,6 @@ die für eine Schätzung erforderlichen Angaben zu machen und die
 dazugehörigen Unterlagen der zuständigen Behörde vorzulegen hat.
 Absatz 2 Satz 2 gilt entsprechend.
 
-
 ### § 12 Verletzung der Erklärungspflicht
 
 (1) Kommt der Abgabepflichtige seinen Verpflichtungen nach § 11 Abs. 2
@@ -435,13 +415,11 @@ er seinen Verpflichtungen nach § 11 Abs. 2 Satz 2 und den ergänzenden
 Vorschriften der Länder nicht nachkommt. In diesem Fall haften der
 Abgabepflichtige und der Einleiter als Gesamtschuldner.
 
-
 ### § 12a Rechtsbehelfe gegen die Heranziehung
 
 Widerspruch und Anfechtungsklage gegen die Anforderung der Abgabe
 haben keine aufschiebende Wirkung. Satz 1 ist auch auf Bescheide
 anzuwenden, die vor dem 19. Dezember 1984 erlassen worden sind.
-
 
 ### § 13 Verwendung
 
@@ -482,13 +460,7 @@ gedeckt wird.
     Abwasserbehandlungsanlagen und andere Anlagen zur Erhaltung und
     Verbesserung der Gewässergüte.
 
-
-
-
-
 ## Fünfter Abschnitt - Gemeinsame Vorschriften; Schlussvorschriften
-
-
 
 ### § 14 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
 
@@ -496,7 +468,6 @@ Für die Hinterziehung von Abwasserabgaben gelten die Strafvorschriften
 des § 370 Abs. 1, 2 und 4 und des § 371 der Abgabenordnung (AO 1977)
 entsprechend, für die Verkürzung von Abwasserabgaben gilt die
 Bußgeldvorschrift des § 378 der Abgabenordnung (AO 1977) entsprechend.
-
 
 ### § 15 Ordnungswidrigkeiten
 
@@ -516,7 +487,6 @@ Bußgeldvorschrift des § 378 der Abgabenordnung (AO 1977) entsprechend.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro geahndet werden.
 
-
 ### § 16 Stadtstaaten-Klausel
 
 § 1 findet auch Anwendung, wenn die Länder Berlin und Hamburg selbst
@@ -524,16 +494,13 @@ abgabepflichtig sind. § 9 Abs. 2 Satz 1 und 2 gilt für die Länder
 Berlin und Hamburg mit der Maßgabe, dass sie sich auch selbst als
 abgabepflichtig bestimmen können.
 
-
 ### § 17
 
 (weggefallen)
 
-
 ### § 18
 
 (Inkrafttreten)
-
 
 ### Anlage (zu § 3)
 

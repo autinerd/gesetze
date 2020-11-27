@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 9.12.2010 I 1885
 
-
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
-
-
 
 ### § 1 Feststellung des Haushaltsplans
 
@@ -29,7 +26,6 @@ Der Haushaltsplan wird für ein oder zwei Rechnungsjahre, nach Jahren
 getrennt, vor Beginn des ersten Rechnungsjahres durch das
 Haushaltsgesetz festgestellt. Mit dem Haushaltsgesetz wird nur der
 Gesamtplan (§ 13 Abs. 4) verkündet.
-
 
 ### § 2 Bedeutung des Haushaltsplans
 
@@ -40,7 +36,6 @@ ist Grundlage für die Haushalts- und Wirtschaftsführung. Bei seiner
 Aufstellung und Ausführung ist den Erfordernissen des
 gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.
 
-
 ### § 3 Wirkungen des Haushaltsplans
 
 (1) Der Haushaltsplan ermächtigt die Verwaltung, Ausgaben zu leisten
@@ -49,20 +44,17 @@ und Verpflichtungen einzugehen.
 (2) Durch den Haushaltsplan werden Ansprüche oder Verbindlichkeiten
 weder begründet noch aufgehoben.
 
-
 ### § 4 Haushaltsjahr
 
 Rechnungsjahr (Haushaltsjahr) ist das Kalenderjahr. Das
 Bundesministerium der Finanzen kann für einzelne Bereiche etwas
 anderes bestimmen.
 
-
 ### § 5 Allgemeine Verwaltungsvorschriften, vorläufige und endgültige Haushalts- und Wirtschaftsführung
 
 Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz sowie zur
 vorläufigen und endgültigen Haushalts- und Wirtschaftsführung erläßt
 das Bundesministerium der Finanzen.
-
 
 ### § 6 Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen
 
@@ -71,7 +63,6 @@ Ausgaben und die Ermächtigungen zum Eingehen von Verpflichtungen zur
 Leistung von Ausgaben in künftigen Jahren
 (Verpflichtungsermächtigungen) zu berücksichtigen, die zur Erfüllung
 der Aufgaben des Bundes notwendig sind.
-
 
 ### § 7 Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung
 
@@ -93,14 +84,12 @@ besser erbringen können (Interessenbekundungsverfahren).
 (3) In geeigneten Bereichen ist eine Kosten- und Leistungsrechnung
 einzuführen.
 
-
 ### § 8 Grundsatz der Gesamtdeckung
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die
 Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden,
 soweit dies durch Gesetz vorgeschrieben oder im Haushaltsplan
 zugelassen ist.
-
 
 ### § 9 Beauftragter für den Haushalt
 
@@ -116,7 +105,6 @@ Finanzplanung und der Unterlagen für den Entwurf des Haushaltsplans
 der Beauftragte bei allen Maßnahmen von finanzieller Bedeutung zu
 beteiligen. Er kann Aufgaben bei der Ausführung des Haushaltsplans
 übertragen.
-
 
 ### § 10 Unterrichtung des Bundestages und des Bundesrates
 
@@ -137,7 +125,6 @@ Auswirkung auf die Finanzplanung.
 (3) Die Bundesregierung leistet den Mitgliedern des Bundestages, die
 einen einnahmemindernden oder ausgabeerhöhenden Antrag zu stellen
 beabsichtigen, Hilfe bei der Ermittlung der finanziellen Auswirkungen.
-
 
 ### § 10a Geheimhaltungsbedürftige Angelegenheiten
 
@@ -182,10 +169,7 @@ Haushalts- und Wirtschaftsführung. Der Präsident des Bundesrates ist
 auf Verlangen durch die zuständige oberste Bundesbehörde zu
 unterrichten. § 97 Abs. 4 bleibt unberührt.
 
-
 ## Teil II - Aufstellung des Haushaltsplans
-
-
 
 ### § 11 Vollständigkeit und Einheit, Fälligkeitsprinzip
 
@@ -200,10 +184,6 @@ unterrichten. § 97 Abs. 4 bleibt unberührt.
 
 
 3.  voraussichtlich benötigten Verpflichtungsermächtigungen.
-
-
-
-
 
 ### § 12 Geltungsdauer der Haushaltspläne
 
@@ -228,10 +208,6 @@ Finanzhaushalt gegliedert, enthält der Verwaltungshaushalt
 
 3.  die voraussichtlich benötigten Verpflichtungsermächtigungen zur
     Leistung von Verwaltungsausgaben.
-
-
-
-
 
 ### § 13 Einzelpläne, Gesamtplan, Gruppierungsplan
 
@@ -316,10 +292,6 @@ Ausgaben des Haushaltsplans nach Arten (Gruppierungsplan).
 4.  eine Darstellung der Einnahmen aus Krediten und der Tilgungsausgaben
     (Kreditfinanzierungsplan).
 
-
-
-
-
 ### § 14 Übersichten zum Haushaltsplan, Funktionenplan
 
 (1) Der Haushaltsplan hat folgende Anlagen:
@@ -355,7 +327,6 @@ Die Anlagen sind dem Entwurf des Haushaltsplans beizufügen.
 über die Gliederung der Einnahmen und Ausgaben des Haushaltsplans nach
 Aufgabengebieten (Funktionenplan).
 
-
 ### § 15 Bruttoveranschlagung, Selbstbewirtschaftungsmittel
 
 (1) Die Einnahmen und Ausgaben sind in voller Höhe und getrennt
@@ -376,14 +347,12 @@ fließen den Selbstbewirtschaftungsmitteln zu. Bei der Rechnungslegung
 ist nur die Zuweisung der Mittel an die beteiligten Stellen als
 Ausgabe nachzuweisen.
 
-
 ### § 16 Verpflichtungsermächtigungen
 
 Die Verpflichtungsermächtigungen sind bei den jeweiligen Ausgaben
 gesondert zu veranschlagen. Wenn Verpflichtungen zu Lasten mehrerer
 Haushaltsjahre eingegangen werden können, sollen die Jahresbeträge im
 Haushaltsplan angegeben werden.
-
 
 ### § 17 Einzelveranschlagung, Erläuterungen, Planstellen
 
@@ -411,7 +380,6 @@ zulässig ist und die in der Regel Daueraufgaben sind.
 
 (6) Andere Stellen als Planstellen sind in den Erläuterungen
 auszuweisen.
-
 
 ### § 18 Kreditermächtigungen
 
@@ -444,7 +412,6 @@ Nr. 2 gelten bis zum Ende des laufenden Haushaltsjahres und, wenn das
 Haushaltsgesetz für das nächste Haushaltsjahr nicht rechtzeitig
 verkündet wird, bis zur Verkündung dieses Haushaltsgesetzes.
 
-
 ### § 19 Übertragbarkeit
 
 (1) Ausgaben für Investitionen und Ausgaben aus zweckgebundenen
@@ -459,7 +426,6 @@ ausreichen, deren Verausgabung im nächsten Haushaltsjahr erforderlich
 ist; nicht zu berücksichtigen sind Ausgabereste, für die Mittel aus
 kassenmäßigen Minderausgaben im nächsten Haushaltsjahr voraussichtlich
 bereitgestellt werden können.
-
 
 ### § 20 Deckungsfähigkeit
 
@@ -493,7 +459,6 @@ eine wirtschaftliche und sparsame Verwendung gefördert wird.
 des Verwendungszwecks veranschlagt sind, dürfen nicht für
 deckungsfähig erklärt werden.
 
-
 ### § 21 Wegfall- und Umwandlungsvermerke
 
 (1) Ausgaben und Planstellen sind als künftig wegfallend zu
@@ -505,7 +470,6 @@ in den folgenden Haushaltsjahren voraussichtlich in Planstellen einer
 niedrigeren Besoldungsgruppe oder in Stellen für Angestellte oder
 Arbeiter umgewandelt werden können.
 
-
 ### § 22 Sperrvermerk
 
 Ausgaben, die aus besonderen Gründen zunächst noch nicht geleistet
@@ -516,7 +480,6 @@ Ausnahmefällen kann durch Sperrvermerk bestimmt werden, daß die
 Leistung von Ausgaben oder die Inanspruchnahme von
 Verpflichtungsermächtigungen der Einwilligung des Bundestages bedarf.
 
-
 ### § 23 Zuwendungen
 
 Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen
@@ -525,7 +488,6 @@ außerhalb der Bundesverwaltung zur Erfüllung bestimmter Zwecke
 Erfüllung durch solche Stellen ein erhebliches Interesse hat, das ohne
 die Zuwendungen nicht oder nicht im notwendigen Umfang befriedigt
 werden kann.
-
 
 ### § 24 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
@@ -556,7 +518,6 @@ entsprechend anzuwenden, wenn insgesamt mehr als 50 vom Hundert der
 Kosten durch Zuwendungen von Bund, Ländern und Gemeinden gedeckt
 werden. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.
 
-
 ### § 25 Überschuß, Fehlbetrag
 
 (1) Der Überschuß oder der Fehlbetrag ist der Unterschied zwischen den
@@ -576,7 +537,6 @@ Stabilität und des Wachstums der Wirtschaft vom 8. Juni 1967
 zweitnächste Haushaltsjahr einzustellen. Er darf durch Einnahmen aus
 Krediten nur gedeckt werden, soweit die Möglichkeiten einer
 Kreditaufnahme nicht ausgeschöpft sind.
-
 
 ### § 26 Bundesbetriebe, Sondervermögen, Zuwendungsempfänger
 
@@ -611,7 +571,6 @@ sind Übersichten dem Haushaltsplan als Anlagen beizufügen oder in die
 Erläuterungen aufzunehmen. Das Bundesministerium der Finanzen kann
 Ausnahmen zulassen.
 
-
 ### § 27 Voranschläge
 
 (1) Die Voranschläge sind von der für den Einzelplan zuständigen
@@ -623,7 +582,6 @@ Stellenpläne beigefügt werden.
 (2) Die für den Einzelplan zuständige Stelle übersendet die
 Voranschläge auch dem Bundesrechnungshof. Er kann hierzu Stellung
 nehmen.
-
 
 ### § 28 Aufstellung des Entwurfs des Haushaltsplans
 
@@ -643,7 +601,6 @@ Präsidenten des Bundestages, des Bundesrates, des
 Bundesverfassungsgerichts und des Bundesrechnungshofes sind vom
 Bundesministerium der Finanzen der Bundesregierung mitzuteilen, soweit
 den Änderungen nicht zugestimmt worden ist.
-
 
 ### § 29 Beschluß über den Entwurf des Haushaltsplans
 
@@ -667,14 +624,12 @@ Bundesrechnungshofes ab und ist der Änderung nicht zugestimmt worden,
 so sind die Teile, über die kein Einvernehmen erzielt worden ist,
 unverändert dem Entwurf des Haushaltsplans beizufügen.
 
-
 ### § 30 Vorlagefrist
 
 Der Entwurf des Haushaltsgesetzes ist mit dem Entwurf des
 Haushaltsplans vor Beginn des Haushaltsjahres dem Bundesrat zuzuleiten
 und beim Bundestag einzubringen, in der Regel spätestens in der ersten
 Sitzungswoche des Bundestages nach dem 1. September.
-
 
 ### § 31 Finanzbericht
 
@@ -683,12 +638,10 @@ Bundesministerium der Finanzen einen Bericht über den Stand und die
 voraussichtliche Entwicklung der Finanzwirtschaft auch im Zusammenhang
 mit der gesamtwirtschaftlichen Entwicklung zu erstatten.
 
-
 ### § 32 Ergänzungen zum Entwurf des Haushaltsplans
 
 Auf Ergänzungen zum Entwurf des Haushaltsgesetzes und des
 Haushaltsplans sind die Teile I und II entsprechend anzuwenden.
-
 
 ### § 33 Nachtragshaushaltsgesetze
 
@@ -696,10 +649,7 @@ Auf Nachträge zum Haushaltsgesetz und zum Haushaltsplan sind die Teile
 I und II entsprechend anzuwenden. Der Entwurf ist bis zum Ende des
 Haushaltsjahres einzubringen.
 
-
 ## Teil III - Ausführung des Haushaltsplans
-
-
 
 ### § 34 Erhebung der Einnahmen, Bewirtschaftung der Ausgaben
 
@@ -713,7 +663,6 @@ Ausgaben ausreichen, die unter die einzelne Zweckbestimmung fallen.
 (3) Absatz 2 gilt für die Inanspruchnahme von
 Verpflichtungsermächtigungen entsprechend.
 
-
 ### § 35 Bruttonachweis, Einzelnachweis
 
 (1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei dem
@@ -724,7 +673,6 @@ hierfür vorgesehenen Titel zu buchen, soweit sich aus § 15 Abs. 1 Satz
 geleistet werden, soweit der Haushaltsplan dies zuläßt. Entsprechendes
 gilt für die Inanspruchnahme von Verpflichtungsermächtigungen.
 
-
 ### § 36 Aufhebung der Sperre
 
 Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums
@@ -733,7 +681,6 @@ als gesperrt bezeichnet sind, geleistet sowie Verpflichtungen zur
 Leistung solcher Ausgaben eingegangen werden. In den Fällen des § 22
 Satz 3 hat das Bundesministerium der Finanzen die Einwilligung des
 Bundestages einzuholen.
-
 
 ### § 37 Über- und außerplanmäßige Ausgaben
 
@@ -768,7 +715,6 @@ veranschlagt sind, dürfen nicht überschritten werden.
 Voraussetzungen des Absatzes 1 Satz 1 und 2 auf die nächstjährige
 Bewilligung für den gleichen Zweck anzurechnen. Das Bundesministerium
 der Finanzen kann Ausnahmen zulassen.
-
 
 ### § 38 Verpflichtungsermächtigungen
 
@@ -811,7 +757,6 @@ Bundesministerium der Finanzen.
 (5) Die Absätze 1 bis 4 sind auf Verträge im Sinne des Artikels 59
 Abs. 2 Satz 1 des Grundgesetzes nicht anzuwenden.
 
-
 ### § 39 Gewährleistungen, Kreditzusagen
 
 (1) Die Übernahme von Bürgschaften, Garantien oder sonstigen
@@ -841,7 +786,6 @@ jederzeit prüfen können,
 Von der Ausbedingung eines Prüfungsrechts kann ausnahmsweise mit
 Einwilligung des Bundesministeriums der Finanzen abgesehen werden.
 
-
 ### § 40 Andere Maßnahmen von finanzieller Bedeutung
 
 (1) Der Erlaß von Rechtsverordnungen und Verwaltungsvorschriften, der
@@ -860,7 +804,6 @@ können.
 zwischenstaatlicher Einrichtungen ist Absatz 1 Satz 1 entsprechend
 anzuwenden.
 
-
 ### § 41 Haushaltswirtschaftliche Sperre
 
 Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann
@@ -868,13 +811,11 @@ das Bundesministerium der Finanzen nach Benehmen mit dem zuständigen
 Bundesministerium es von seiner Einwilligung abhängig machen, ob
 Verpflichtungen eingegangen oder Ausgaben geleistet werden.
 
-
 ### § 42 Konjunkturpolitisch bedingte zusätzliche Ausgaben
 
 Bei Vorlagen, die dem Bundestag und dem Bundesrat nach § 8 Abs. 1 des
 Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft
 zugeleitet werden, kann der Bundestag die Ausgaben kürzen.
-
 
 ### § 43 Kassenmittel, Betriebsmittel
 
@@ -886,7 +827,6 @@ Auszahlungen bis zur Höhe eines bestimmten Betrages leisten zu lassen
 
 (2) Das Bundesministerium der Finanzen soll nicht sofort benötigte
 Kassenmittel so anlegen, daß über sie bei Bedarf verfügt werden kann.
-
 
 ### § 44 Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen
 
@@ -914,11 +854,9 @@ Finanzen. Die Beliehene unterliegt der Aufsicht des zuständigen
 Bundesministeriums; dieses kann die Aufsicht auf nachgeordnete
 Behörden übertragen.
 
-
 ### § 44a
 
 -
-
 
 ### § 45 Sachliche und zeitliche Bindung
 
@@ -950,13 +888,11 @@ Einzelfällen die Übertragbarkeit von Ausgaben zulassen, soweit
 Ausgaben für bereits bewilligte Maßnahmen noch im nächsten
 Haushaltsjahr zu leisten sind.
 
-
 ### § 46 Deckungsfähigkeit
 
 Deckungsfähige Ausgaben dürfen, solange sie verfügbar sind, nach
 Maßgabe des § 20 Abs. 1 oder des Deckungsvermerks zugunsten einer
 anderen Ausgabe verwendet werden.
-
 
 ### § 47 Wegfall- und Umwandlungsvermerke
 
@@ -979,14 +915,12 @@ umgewandelt, die in dem Umwandlungsvermerk angegeben ist.
 (4) Die Absätze 1 bis 3 gelten für Stellen der Angestellten und
 Arbeiter entsprechend.
 
-
 ### § 48 Einstellung und Versetzung von Beamten
 
 Einstellung und Versetzung von Beamten in den Bundesdienst bedürfen
 der Einwilligung des Bundesministeriums der Finanzen, wenn der
 Bewerber ein vom Bundesministerium der Finanzen allgemein
 festzusetzendes Lebensalter überschritten hat.
-
 
 ### § 49 Einweisung in eine Planstelle
 
@@ -1001,7 +935,6 @@ eines Monats, in eine besetzbare Planstelle eingewiesen werden, wenn
 er während dieser Zeit die Obliegenheiten dieses oder eines
 gleichwertigen Amtes wahrgenommen und die beamtenrechtlichen
 Voraussetzungen für die Beförderung erfüllt hat.
-
 
 ### § 50 Umsetzung von Mitteln und Planstellen
 
@@ -1030,13 +963,11 @@ verwendet werden, kann das Bundesministerium der Finanzen in besonders
 begründeten Ausnahmefällen für die Dauer von höchstens sechs Monaten
 eine Leerstelle schaffen.
 
-
 ### § 51 Besondere Personalausgaben
 
 Personalausgaben, die nicht auf Gesetz oder Tarifvertrag beruhen,
 dürfen nur geleistet werden, wenn dafür Ausgabemittel besonders zur
 Verfügung gestellt sind.
-
 
 ### § 52 Nutzungen und Sachbezüge
 
@@ -1050,12 +981,10 @@ Bundesministerium der Finanzen. Die Dienstwohnungen mit Ausnahme der
 Dienstwohnungen für Angestellte und Arbeiter sind im Haushaltsplan
 auszubringen.
 
-
 ### § 53 Billigkeitsleistungen
 
 Leistungen aus Gründen der Billigkeit dürfen nur gewährt werden, wenn
 dafür Ausgabemittel besonders zur Verfügung gestellt sind.
-
 
 ### § 54 Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
@@ -1071,7 +1000,6 @@ Finanzen.
 ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt
 entsprechend.
 
-
 ### § 55 Öffentliche Ausschreibung
 
 (1) Dem Abschluß von Verträgen über Lieferungen und Leistungen muß
@@ -1080,7 +1008,6 @@ Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen.
 
 (2) Beim Abschluß von Verträgen ist nach einheitlichen Richtlinien zu
 verfahren.
-
 
 ### § 56 Vorleistungen
 
@@ -1092,7 +1019,6 @@ besondere Umstände gerechtfertigt ist.
 Richtlinien des Bundesministeriums der Finanzen ein angemessener Abzug
 gewährt werden.
 
-
 ### § 57 Verträge mit Angehörigen des öffentlichen Dienstes
 
 Zwischen Angehörigen des öffentlichen Dienstes und ihrer Dienststelle
@@ -1101,7 +1027,6 @@ Bundesministeriums abgeschlossen werden. Dieses kann seine Befugnis
 auf nachgeordnete Dienststellen übertragen. Satz 1 gilt nicht bei
 öffentlichen Ausschreibungen und Versteigerungen sowie in Fällen, für
 die allgemein Entgelte festgesetzt sind.
-
 
 ### § 58 Änderung von Verträgen, Vergleiche
 
@@ -1120,7 +1045,6 @@ Das zuständige Bundesministerium kann seine Befugnisse übertragen.
 
 (2) Maßnahmen nach Absatz 1 bedürfen der Einwilligung des
 Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
-
 
 ### § 59 Veränderung von Ansprüchen
 
@@ -1151,7 +1075,6 @@ Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.
 
 (3) Andere Regelungen in Rechtsvorschriften bleiben unberührt.
 
-
 ### § 60 Vorschüsse, Verwahrungen
 
 (1) Als Vorschuß darf eine Ausgabe nur gebucht werden, wenn die
@@ -1167,7 +1090,6 @@ nur die mit ihnen im Zusammenhang stehenden Auszahlungen geleistet
 werden.
 
 (3) Kassenverstärkungskredite sind wie Verwahrungen zu behandeln.
-
 
 ### § 61 Interne Verrechnungen
 
@@ -1195,7 +1117,6 @@ dringend geboten sind.
 (4) Für die Nutzung von Vermögensgegenständen gelten die Absätze 1 bis
 3 entsprechend.
 
-
 ### § 62 Kassenverstärkungsrücklage
 
 Zur Aufrechterhaltung einer ordnungsmäßigen Kassenwirtschaft ohne
@@ -1203,7 +1124,6 @@ Inanspruchnahme von Kreditermächtigungen (§ 18 Abs. 2 Nr. 2) soll
 durch möglichst regelmäßige Zuführung von Haushaltsmitteln eine
 Kassenverstärkungsrücklage bei der Deutschen Bundesbank angesammelt
 werden.
-
 
 ### § 63 Erwerb und Veräußerung von Vermögensgegenständen
 
@@ -1226,7 +1146,6 @@ Bundesministerium der Finanzen Ausnahmen zulassen.
 
 (4) Für die Überlassung der Nutzung eines Vermögensgegenstandes gelten
 die Absätze 2 und 3 entsprechend.
-
 
 ### § 64 Grundstücke
 
@@ -1255,7 +1174,6 @@ können auf ihre Mitwirkung verzichten.
 (5) Beim Erwerb von Grundstücken können Hypotheken, Grund- und
 Rentenschulden unter Anrechnung auf den Kaufpreis ohne die
 Voraussetzungen des § 38 Abs. 1 übernommen werden.
-
 
 ### § 65 Beteiligung an privatrechtlichen Unternehmen
 
@@ -1328,14 +1246,12 @@ soweit nicht aus zwingenden Gründen eine Ausnahme geboten ist. Ist die
 Zustimmung nicht eingeholt worden, so sind der Bundestag und der
 Bundesrat alsbald von der Veräußerung zu unterrichten.
 
-
 ### § 66 Unterrichtung des Bundesrechnungshofes
 
 Besteht eine Mehrheitsbeteiligung im Sinne des § 53 des
 Haushaltsgrundsätzegesetzes, so hat das zuständige Bundesministerium
 darauf hinzuwirken, daß dem Bundesrechnungshof die in § 54 des
 Haushaltsgrundsätzegesetzes bestimmten Befugnisse eingeräumt werden.
-
 
 ### § 67 Prüfungsrecht durch Vereinbarung
 
@@ -1351,7 +1267,6 @@ Anteile übersteigt und einem Unternehmen zusteht, an dem der Bund
 allein oder zusammen mit anderen Gebietskörperschaften mit Mehrheit im
 Sinne des § 53 des Haushaltgrundsätzegesetzes beteiligt ist.
 
-
 ### § 68 Zuständigkeitsregelungen
 
 (1) Die Rechte nach § 53 Abs. 1 des Haushaltsgrundsätzegesetzes übt
@@ -1365,7 +1280,6 @@ Haushaltsgrundsätzegesetzes erklärt das zuständige Bundesministerium
 im Einvernehmen mit dem Bundesministerium der Finanzen, dem für das
 Bundesvermögen zuständigen Bundesministerium und dem Präsidenten des
 Bundesrechnungshofes.
-
 
 ### § 69 Unterrichtung des Bundesrechnungshofes
 
@@ -1390,7 +1304,6 @@ Geschäftsjahr entgegennimmt oder festzustellen hat,
 
 
 Es teilt dabei das Ergebnis seiner Prüfung mit.
-
 
 ### § 69a Parlamentarische Kontrolle von Bundesbeteiligungen
 
@@ -1417,10 +1330,7 @@ Absatz 2 zeitnah unterrichtet werden. Die Vorschriften des § 65 Absatz
 (4) Die Rechte des Deutschen Bundestages und seiner Ausschüsse bleiben
 unberührt.
 
-
 ## Teil IV - Zahlungen, Buchführung und Rechnungslegung
-
-
 
 ### § 70 Zahlungen
 
@@ -1429,7 +1339,6 @@ geleistet werden. Die Anordnung der Zahlung muß durch das zuständige
 Ministerium oder die von ihm ermächtigte Dienststelle schriftlich oder
 auf elektronischem Wege erteilt werden. Das Bundesministerium der
 Finanzen kann Ausnahmen zulassen.
-
 
 ### § 71 Buchführung
 
@@ -1457,7 +1366,6 @@ Buchführung anordnen.
 
 (3) Absatz 2 Nr. 2 gilt entsprechend für außerplanmäßige Einnahmen und
 Ausgaben.
-
 
 ### § 72 Buchung nach Haushaltsjahren
 
@@ -1498,7 +1406,6 @@ Kosten.
 (6) Ausnahmen von den Absätzen 2 bis 4 können im Haushaltsplan
 zugelassen werden.
 
-
 ### § 73 Vermögensbuchführung, integrierte Buchführung
 
 (1) Über das Vermögen und die Schulden ist Buch zu führen oder ein
@@ -1507,7 +1414,6 @@ der Finanzen im Einvernehmen mit dem Bundesrechnungshof.
 
 (2) Die Buchführung über das Vermögen und die Schulden ist mit der
 Buchführung über die Einnahmen und Ausgaben zu verbinden.
-
 
 ### § 74 Buchführung bei Bundesbetrieben
 
@@ -1526,11 +1432,9 @@ zweckmäßig ist.
 Bundesministerium im Einvernehmen mit dem Bundesministerium der
 Finanzen zulassen.
 
-
 ### § 75 Belegpflicht
 
 Alle Buchungen sind zu belegen.
-
 
 ### § 76 Abschluß der Bücher
 
@@ -1540,7 +1444,6 @@ Finanzen bestimmt den Zeitpunkt des Abschlusses.
 (2) Nach dem Abschluß der Bücher dürfen Einnahmen oder Ausgaben nicht
 mehr für den abgelaufenen Zeitraum gebucht werden.
 
-
 ### § 77 Kassensicherheit
 
 Wer Anordnungen im Sinne des § 70 erteilt oder an ihnen verantwortlich
@@ -1548,14 +1451,12 @@ mitwirkt, darf an Zahlungen oder Buchungen nicht beteiligt sein. Das
 Bundesministerium der Finanzen kann zulassen, daß die Kassensicherheit
 auf andere Weise gewährleistet wird.
 
-
 ### § 78 Unvermutete Prüfungen
 
 Für Zahlungen oder Buchungen zuständige Stellen sind mindestens
 jährlich, für die Verwaltung von Vorräten zuständige Stellen
 mindestens alle zwei Jahre unvermutet zu prüfen. Das Bundesministerium
 der Finanzen kann Ausnahmen zulassen.
-
 
 ### § 79 Bundeskassen, Verwaltungsvorschriften
 
@@ -1591,7 +1492,6 @@ Belegung der Buchungen allgemein anordnen. Der Bundesrechnungshof kann
 im Einvernehmen mit dem zuständigen Bundesministerium im Einzelfall
 Vereinfachungen zulassen.
 
-
 ### § 80 Rechnungslegung
 
 (1) Die zuständigen Stellen haben für jedes Haushaltsjahr auf der
@@ -1605,7 +1505,6 @@ zu legen ist.
 (3) Auf der Grundlage der abgeschlossenen Bücher stellt das
 Bundesministerium der Finanzen für jedes Haushaltsjahr die
 Haushaltsrechnung und die Vermögensrechnung auf.
-
 
 ### § 81 Gliederung der Haushaltsrechnung
 
@@ -1695,7 +1594,6 @@ Sinne des § 71 Abs. 1 Satz 2 besonders anzugeben.
 (4) In den Fällen des § 25 Abs. 2 ist die Verminderung des
 Kreditbedarfs zugleich mit dem Nachweis des Überschusses darzustellen.
 
-
 ### § 82 Kassenmäßiger Abschluß
 
 In dem kassenmäßigen Abschluß sind nachzuweisen:
@@ -1733,13 +1631,6 @@ In dem kassenmäßigen Abschluß sind nachzuweisen:
 
 
     c)  der Finanzierungssaldo aus Buchstabe a und Buchstabe b.
-
-
-
-
-
-
-
 
 ### § 83 Haushaltsabschluß
 
@@ -1780,15 +1671,10 @@ In dem Haushaltsabschluß sind nachzuweisen:
 3.  die Höhe der eingegangenen Verpflichtungen und der Geldforderungen im
     Sinne des § 71 Abs. 1 Satz 2.
 
-
-
-
-
 ### § 84 Abschlußbericht
 
 Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem
 Bericht zu erläutern.
-
 
 ### § 85 Übersichten zur Haushaltsrechnung
 
@@ -1812,17 +1698,12 @@ Der Haushaltsrechnung sind Übersichten beizufügen über
 5.  die nicht veranschlagten Einnahmen aus der Veräußerung von
     Vermögensgegenständen.
 
-
-
-
-
 ### § 86 Vermögensrechnung
 
 In der Vermögensrechnung sind der Bestand des Vermögens und der
 Schulden zu Beginn des Haushaltsjahres, die Veränderungen während des
 Haushaltsjahres und der Bestand zum Ende des Haushaltsjahres
 nachzuweisen.
-
 
 ### § 87 Rechnungslegung der Bundesbetriebe
 
@@ -1839,10 +1720,7 @@ doppelten Buchführung zu vereinbaren sind.
 Betriebsergebnisabrechnung dem Bundesministerium der Finanzen und dem
 Bundesrechnungshof zu übersenden.
 
-
 ## Teil V - Rechnungsprüfung
-
-
 
 ### § 88 Aufgaben des Bundesrechnungshofes
 
@@ -1855,7 +1733,6 @@ Bundestag, den Bundesrat, die Bundesregierung und einzelne
 Bundesministerien beraten. Soweit der Bundesrechnungshof den Bundestag
 oder den Bundesrat berät, unterrichtet er gleichzeitig die
 Bundesregierung.
-
 
 ### § 89 Prüfung
 
@@ -1880,7 +1757,6 @@ Bundesregierung.
 (2) Der Bundesrechnungshof kann nach seinem Ermessen die Prüfung
 beschränken und Rechnungen ungeprüft lassen.
 
-
 ### § 90 Inhalt der Prüfung
 
 Die Prüfung erstreckt sich auf die Einhaltung der für die Haushalts-
@@ -1900,10 +1776,6 @@ insbesondere darauf, ob
 
 4.  die Aufgabe mit geringerem Personal- oder Sachaufwand oder auf andere
     Weise wirksamer erfüllt werden kann.
-
-
-
-
 
 ### § 91 Prüfung bei Stellen außerhalb der Bundesverwaltung
 
@@ -1953,7 +1825,6 @@ privaten Rechts im Sinne des Absatzes 1 Satz 1 Nr. 4 um ein
 Unternehmen, erfolgt die Prüfung unter Beachtung kaufmännischer
 Grundsätze.
 
-
 ### § 92 Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen
 
 (1) Der Bundesrechnungshof prüft die Betätigung des Bundes bei
@@ -1963,7 +1834,6 @@ kaufmännischer Grundsätze.
 
 (2) Absatz 1 gilt entsprechend bei Genossenschaften, in denen der Bund
 Mitglied ist.
-
 
 ### § 93 Gemeinsame Prüfung
 
@@ -1982,7 +1852,6 @@ für über- oder zwischenstaatliche Einrichtungen übernehmen, wenn er
 durch völkerrechtliche Verträge oder Verwaltungsabkommen oder durch
 die Bundesregierung dazu ermächtigt wird.
 
-
 ### § 94 Zeit und Art der Prüfung
 
 (1) Der Bundesrechnungshof bestimmt Zeit und Art der Prüfung und läßt
@@ -1992,7 +1861,6 @@ erforderliche örtliche Erhebungen durch Beauftragte vornehmen.
 
 (3)
 
-
 ### § 95 Auskunftspflicht
 
 (1) Unterlagen, die der Bundesrechnungshof zur Erfüllung seiner
@@ -2001,7 +1869,6 @@ bestimmten Frist zu übersenden oder seinen Beauftragten vorzulegen.
 
 (2) Dem Bundesrechnungshof und seinen Beauftragten sind die erbetenen
 Auskünfte zu erteilen.
-
 
 ### § 96 Prüfungsergebnis
 
@@ -2018,7 +1885,6 @@ Bundesministerium der Finanzen mit.
 (3) Der Bundesrechnungshof ist zu hören, wenn die Verwaltung Ansprüche
 des Bundes, die in Prüfungsmitteilungen erörtert worden sind, nicht
 verfolgen will. Er kann auf die Anhörung verzichten.
-
 
 ### § 97 Bemerkungen
 
@@ -2056,13 +1922,11 @@ frühere Haushaltsjahre aufgenommen werden.
 Präsidenten des Bundestages und des Bundesrates sowie dem
 Bundeskanzler und dem Bundesministerium der Finanzen mitgeteilt.
 
-
 ### § 98 Aufforderung zum Schadenausgleich
 
 Der Bundesrechnungshof macht der zuständigen Stelle unverzüglich
 Mitteilung, wenn nach seiner Auffassung ein Schadenersatzanspruch
 geltend zu machen ist.
-
 
 ### § 99 Angelegenheiten von besonderer Bedeutung
 
@@ -2070,7 +1934,6 @@ geltend zu machen ist.
 Bundesrechnungshof den Bundestag, den Bundesrat und die
 Bundesregierung jederzeit unterrichten. Berichtet er dem Bundestag und
 dem Bundesrat, so unterrichtet er gleichzeitig die Bundesregierung.
-
 
 ### § 100 Prüfungsämter
 
@@ -2081,12 +1944,10 @@ wahrnehmen lassen. Diese führen die Prüfungsaufgaben in entsprechender
 Anwendung der für den Bundesrechnungshof geltenden Bestimmungen nach
 den Weisungen des Bundesrechnungshofes durch.
 
-
 ### § 101 Rechnung des Bundesrechnungshofes
 
 Die Rechnung des Bundesrechnungshofes wird von dem Bundestag und dem
 Bundesrat geprüft, die auch die Entlastung erteilen.
-
 
 ### § 102 Unterrichtung des Bundesrechnungshofes
 
@@ -2124,7 +1985,6 @@ mitzuteilen, wenn andere Stellen des Bundes sie erlassen.
 (3) Der Bundesrechnungshof kann sich jederzeit zu den in den Absätzen
 1 und 2 genannten Maßnahmen äußern.
 
-
 ### § 103 Anhörung des Bundesrechnungshofes
 
 (1) Der Bundesrechnungshof ist vor dem Erlaß von
@@ -2140,7 +2000,6 @@ Vorschriften über das Haushaltswesen einschließlich der
 Rechnungsprüfung bei über- oder zwischenstaatlichen Einrichtungen,
 deren Mitglied die Bundesrepublik Deutschland ist, soll das zuständige
 Bundesministerium den Bundesrechnungshof hören.
-
 
 ### § 104 Prüfung der juristischen Personen des privaten Rechts
 
@@ -2173,10 +2032,7 @@ Bundesrechnungshof den Abschluß und die Geschäftsführung daraufhin, ob
 die Interessen des Bundes nach den bestehenden Bestimmungen gewahrt
 worden sind.
 
-
 ## Teil VI - Bundesunmittelbare juristische Personen des öffentlichen Rechts
-
-
 
 ### § 105 Grundsatz
 
@@ -2199,7 +2055,6 @@ Bundesministerium der Finanzen und dem Bundesrechnungshof Ausnahmen
 von den in Absatz 1 bezeichneten Vorschriften zulassen, soweit kein
 erhebliches finanzielles Interesse des Bundes besteht.
 
-
 ### § 106 Haushaltsplan
 
 (1) Das zur Geschäftsführung berufene Organ einer bundesunmittelbaren
@@ -2219,14 +2074,12 @@ Geschäftsführung zu überwachen hat, so hat dieses den Haushaltsplan
 festzustellen. Das zur Geschäftsführung berufene Organ hat den Entwurf
 dem Beschlußorgan vorzulegen.
 
-
 ### § 107 Umlagen, Beiträge
 
 Ist die bundesunmittelbare juristische Person des öffentlichen Rechts
 berechtigt, von ihren Mitgliedern Umlagen oder Beiträge zu erheben, so
 ist die Höhe der Umlagen oder der Beiträge für das neue Haushaltsjahr
 gleichzeitig mit der Feststellung des Haushaltsplans festzusetzen.
-
 
 ### § 108 Genehmigung des Haushaltsplans
 
@@ -2240,7 +2093,6 @@ oder der Beiträge sind dem zuständigen Bundesministerium spätestens
 einen Monat vor Beginn des Haushaltsjahres vorzulegen. Der
 Haushaltsplan und der Beschluß können nur gleichzeitig in Kraft
 treten.
-
 
 ### § 109 Rechnungslegung, Prüfung, Entlastung
 
@@ -2264,7 +2116,6 @@ besonderes Beschlußorgan vorhanden, obliegt ihm die Entlastung; die
 Entlastung bedarf dann der Genehmigung des zuständigen
 Bundesministeriums und des Bundesministeriums der Finanzen.
 
-
 ### § 110 Wirtschaftsplan
 
 Bundesunmittelbare juristische Personen des öffentlichen Rechts, bei
@@ -2274,7 +2125,6 @@ sie nach den Regeln der kaufmännischen doppelten Buchführung, stellen
 sie einen Jahresabschluß sowie einen Lagebericht in entsprechender
 Anwendung der Vorschrift des § 264 Abs. 1 Satz 1 des
 Handelsgesetzbuchs auf.
-
 
 ### § 111 Prüfung durch den Bundesrechnungshof
 
@@ -2288,7 +2138,6 @@ Bundesministerium der Finanzen und dem Bundesrechnungshof Ausnahmen
 von Absatz 1 zulassen, soweit kein erhebliches finanzielles Interesse
 des Bundes besteht. Die nach bisherigem Recht zugelassenen Ausnahmen
 bleiben unberührt.
-
 
 ### § 112 Sonderregelungen
 
@@ -2316,10 +2165,7 @@ Unternehmen unmittelbar oder mittelbar mit Mehrheit beteiligt sind,
 gelten die §§ 53 und 54 des Haushaltsgrundsätzegesetzes und die §§ 65
 bis 69 entsprechend.
 
-
 ## Teil VII - Sondervermögen
-
-
 
 ### § 113 Grundsatz
 
@@ -2329,10 +2175,7 @@ oder auf Grund eines Gesetzes etwas anderes bestimmt ist. Der
 Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung der
 Sondervermögen, Teil V dieses Gesetzes ist entsprechend anzuwenden.
 
-
 ## Teil VIII - Entlastung
-
-
 
 ### § 114 Entlastung
 
@@ -2359,10 +2202,7 @@ aufgreifen.
 (5) Der Bundestag oder der Bundesrat kann bestimmte Sachverhalte
 ausdrücklich mißbilligen.
 
-
 ## Teil IX - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 115 Öffentlich-rechtliche Dienst- oder Amtsverhältnisse
 
@@ -2370,7 +2210,6 @@ Vorschriften dieses Gesetzes für Beamte sind auf andere öffentlich-
 rechtliche Dienst- oder Amtsverhältnisse entsprechend anzuwenden. § 48
 gilt nicht bei der Berufung zum Richter an einem obersten
 Bundesgericht.
-
 
 ### § 116 Endgültige Entscheidung
 
@@ -2392,18 +2231,15 @@ Einwilligung nicht rechtzeitig eingeholt werden kann. Zu den
 getroffenen Maßnahmen ist die Genehmigung des Bundesministeriums der
 Finanzen unverzüglich einzuholen.
 
-
 ### § 117 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
 
-
 ### § 118
 
 -
-
 
 ### § 119 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 837
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -25,11 +23,9 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Berg- und Maschinenmann wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer, Fachrichtungen
 
@@ -43,7 +39,6 @@ Die Ausbildung dauert zwei Jahre. Es kann zwischen den Fachrichtungen
 
 
 gewählt werden.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -167,13 +162,6 @@ mindestens die folgenden Fertigkeiten und Kenntnisse:
 
     d)  Instandhalten von Rohr- und Schlauchleitungen.
 
-
-
-
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage
@@ -184,12 +172,10 @@ des Ausbildungsinhalts ist insbesondere zulässig, soweit eine
 berufsfeldbezogene Grundbildung vorausgegangen ist oder
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -197,7 +183,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -219,7 +204,6 @@ Aufgaben aus den Prüfungsfächern Technologie und Technische Mathematik
 in insgesamt höchstens 90 Minuten schriftlich lösen. Soweit die
 schriftliche Kenntnisprüfung programmiert durchgeführt wird, kann von
 dieser Prüfungsdauer abgewichen werden.
-
 
 ## § 8 Abschlußprüfung
 
@@ -457,7 +441,6 @@ Widerspruch zum bisherigen Prüfungsergebnis stehen.
 (8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und
 der Kenntnisprüfung mindestens ausreichende Leistungen erbracht sind.
 
-
 ## § 9 Übergangsregelung
 
 (1)
@@ -475,22 +458,18 @@ Maschinenmann - Förderung und Transport - vom 4. Mai 1977 (BGBl. I S.
 676) erworbenen Abschlüsse gelten als Abschluß in dem Ausbildungsberuf
 Berg- und Maschinenmann dieser Verordnung.
 
-
 ## § 10 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Berg- und Maschinenmann
 
@@ -1400,9 +1379,6 @@ Der Bundesminister für Wirtschaft
     *   x
 
     *
-
-
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
 

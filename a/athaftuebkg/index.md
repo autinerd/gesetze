@@ -22,7 +22,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 30 G v. 9.9.2001 I 2331
 
-
 ## Art 1
 
 Den folgenden Übereinkommen wird zugestimmt:
@@ -64,7 +63,6 @@ Den folgenden Übereinkommen wird zugestimmt:
 
 Die Übereinkommen werden nachstehend veröffentlicht.
 
-
 ## Art 1a
 
 Die Umrechnung der in Artikel III Abs. 4 Satz 1 des Übereinkommens vom
@@ -76,7 +74,6 @@ Werteinheiten einem Sonderziehungsrecht entsprechen. Der in
 Sonderziehungsrechten ausgedrückte Wert des Euro wird nach der
 Berechnungsmethode ermittelt, die der Internationale Währungsfonds für
 seine Operationen und Transaktionen anwendet.
-
 
 ## Art 2
 
@@ -109,10 +106,6 @@ die folgende Voraussetzungen erfüllen:
     Beschränkung der Reederhaftung auf die Haftung nach der Vereinbarung
     muß ausgeschlossen sein.
 
-
-
-
-
 ## Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
@@ -120,7 +113,6 @@ Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf
 Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
 S. 1).
-
 
 ## Art 4
 

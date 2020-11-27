@@ -21,12 +21,10 @@ Fundstelle
 
 Stand: Vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -41,7 +39,6 @@ Vertrages vom 1. Juli 1968 über die Nichtverbreitung von Kernwaffen
 (Verifikationsabkommen; BGBl. 1974 II S. 794) wird zugestimmt. Das
 Zusatzprotokoll wird nachstehend veröffentlicht.
 
-
 ## Art 2
 
 Die Bundesregierung wird ermächtigt, Änderungen des Verzeichnisses der
@@ -49,7 +46,6 @@ Tätigkeiten in Anlage I sowie des Verzeichnisses der
 Ausrüstungsgegenstände und nichtnuklearen Materialien in Anlage II
 nach Artikel 16 Abschnitt b des Zusatzprotokolls durch
 Rechtsverordnung in Kraft zu setzen.
-
 
 ## Art 3
 

@@ -20,13 +20,10 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 7.6.2012 I 1270
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Nationales Mitglied
 
@@ -68,7 +65,6 @@ von auf Absatz 1 Satz 1 und Absatz 3 beruhenden Entscheidungen des
 Bundesministeriums der Justiz sicherzustellen, soweit nicht eine
 abweichende Vereinbarung getroffen worden ist.
 
-
 ## § 2 Unterstützende Personen
 
 (1) § 1 Abs. 1 gilt hinsichtlich der unterstützenden Personen nach
@@ -107,7 +103,6 @@ unterliegen bei der Erfüllung der ihnen übertragenen Aufgaben nach
 Maßgabe der Durchführungsbestimmungen von Eurojust den fachlichen
 Weisungen des nationalen Mitglieds. Absatz 4 Satz 2 und 3 gilt
 entsprechend.
-
 
 ## § 3 Aufgaben des nationalen Mitglieds; Dienstverkehr
 
@@ -174,7 +169,6 @@ es gleichzeitig die zuständige Staatsanwaltschaft, soweit diese
 bekannt ist, und parallel die zuständigen polizeilichen
 Zentralstellen. Die Bestimmungen zum Schutz personenbezogener Daten
 bleiben unberührt.
-
 
 ## § 4 Informationsübermittlung
 
@@ -294,7 +288,6 @@ bezeichnete öffentliche Stelle, bevor es seine Zustimmung nach Artikel
 Informationen an Stellen im Sinne von Artikel 26a Absatz 1 des
 Eurojust-Beschlusses erteilt.
 
-
 ## § 4a Verwaltung von Arbeitsdateien und Index durch das nationale Mitglied
 
 (1) Das nationale Mitglied legt für jeden Fall, zu dem ihm
@@ -312,7 +305,6 @@ entsprechend. Informationen, die dem nationalen Mitglied nach § 6
 Absatz 1 Satz 2 ohne Ersuchen an Eurojust übermittelt werden, dürfen
 nur in den Index aufgenommen werden, soweit die übermittelnde Stelle
 dem zugestimmt hat.
-
 
 ## § 4b Zugang zu Index und Arbeitsdateien durch Eurojust-Anlaufstellen; Verordnungsermächtigung
 
@@ -353,14 +345,12 @@ Fallbearbeitungssystem angebunden sind, Zugang zu Index und
 Arbeitsdateien und Zugriff auf die darin enthaltenen Datensätze
 gewährt wird.
 
-
 ## § 4c Weitergabe von Informationen durch Eurojust-Anlaufstellen
 
 Die Eurojust-Anlaufstellen nach § 4b Absatz 1 sind berechtigt,
 Informationen aus dem Index und den Arbeitsdateien an die zuständigen
 deutschen Strafverfolgungsbehörden weiterzugeben, wenn dies für Zwecke
 der Strafrechtspflege erforderlich ist.
-
 
 ## § 4d Zugriff auf Indexdatensätze und Arbeitsdateien des nationalen Mitglieds durch andere als deutsche Stellen
 
@@ -387,7 +377,6 @@ Fallbearbeitungssystem angebunden sind, im Einzelfall auf Ersuchen
 Zugriff auf die von ihm angelegten Arbeitsdateien gewähren, wenn der
 Zugriff für Zwecke der Strafrechtspflege erforderlich ist. Absatz 2
 Satz 2 gilt entsprechend.
-
 
 ## § 5 Ersuchen und schriftliche Stellungnahmen des Kollegiums und Ersuchen des nationalen Mitglieds
 
@@ -426,7 +415,6 @@ folgen.
 (5) Absatz 3 gilt entsprechend, wenn die zuständige Behörde
 beabsichtigt, einem Ersuchen des nationalen Mitglieds nach Artikel 6
 Absatz 1 Buchstabe a des Eurojust-Beschlusses nicht nachzukommen.
-
 
 ## § 6 Unterrichtung des nationalen Mitglieds durch die zuständigen deutschen Behörden
 
@@ -512,7 +500,6 @@ Bedingungen zur Verwendung der von ihnen übermittelten Informationen.
 
 (4) § 4 Absatz 5 gilt entsprechend.
 
-
 ## § 7 Nationale Anlaufstellen und Festlegung von Befugnissen
 
 (1) Für die Zwecke der Strafverfolgung kann das Bundesministerium der
@@ -545,7 +532,6 @@ zu tragen.
 Beschlusses ohne Gesetz oder Verordnung ergehen können, trifft das
 Bundesministerium der Justiz diese im Einvernehmen mit den Ländern.
 
-
 ## § 8 Auskunft, Berichtigung, Sperrung und Löschung
 
 (1) Soweit Ansprüche von Betroffenen nach Artikel 19 Abs. 1 und
@@ -561,7 +547,6 @@ Mitgliedstaats das ihr in Artikel 19 Abs. 3 Satz 2 des Eurojust-
 Beschlusses eingeräumte Recht ausübt. Für die Geltendmachung eines
 Anspruchs auf Berichtigung, Sperrung oder Löschung gilt § 20 Abs. 1
 bis 4, 6 und 7 des Bundesdatenschutzgesetzes entsprechend.
-
 
 ## § 9 Gemeinsame Kontrollinstanz
 
@@ -589,7 +574,6 @@ Bundesregierung zuständige Oberverwaltungsgericht.
 Kontrollinstanz entstehenden Kosten werden, soweit sie nicht von
 Eurojust übernommen werden, vom Bund getragen.
 
-
 ## § 10 Schadenersatz wegen unzulässiger oder unrichtiger Datenerhebung oder -verwendung
 
 Die Verpflichtung zum Schadenersatz wegen unzulässiger oder
@@ -600,7 +584,6 @@ der aus einer unzulässigen oder unrichtigen Erhebung oder Verwendung
 von Daten durch Eurojust herrührt, sind vor den Gerichten des
 Sitzstaats zu erheben.
 
-
 ## § 11 Zusammenarbeit mit OLAF
 
 Für die Zwecke der Entgegennahme und Übermittlung von Informationen
@@ -609,7 +592,6 @@ das nationale Mitglied zuständige deutsche Behörde im Sinne der
 Verordnungen (EG) Nr. 1073/1999 und (Euratom) Nr. 1074/1999 des Rates
 über die Untersuchungen des Europäischen Amtes für Betrugsbekämpfung
 (OLAF) vom 25. Mai 1999 (ABl. EG Nr. L 136 S. 1 und S. 8).
-
 
 ## § 12 Tätigwerden des nationalen Mitglieds nach Artikel 26a Absatz 9 des Eurojust-Beschlusses
 
@@ -642,12 +624,10 @@ Satz 3 des Eurojust-Beschlusses hat das nationale Mitglied die nach
 Artikel 26a Absatz 9 Satz 4 des Eurojust-Beschlusses erforderliche
 Zusage des Empfängers in geeigneter Weise zu dokumentieren.
 
-
 ## § 13 Anwendung des Eurojust-Beschlusses
 
 Der Eurojust-Beschluss findet mit dem Inkrafttreten dieses Gesetzes
 uneingeschränkte Anwendung.
-
 
 ## § 14 Europäisches Justizielles Netz in Strafsachen
 

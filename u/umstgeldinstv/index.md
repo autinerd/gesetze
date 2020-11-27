@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1958, 589
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen
@@ -26,10 +24,7 @@ Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform
 von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S.
 127) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
 ## Abschnitt I - Allgemeine Vorschriften
-
-
 
 ### § 1 Allgemeine Vorschriften für den Ansatz der Aktiven und der Passiven
 
@@ -70,7 +65,6 @@ Durchführungsverordnung zum Umstellungsgesetz sowie
 Ausgleichsforderungen, die nicht auf § 11 des Umstellungsgesetzes und
 § 8 der Bankenverordnung beruhen.
 
-
 ### § 2 Rückbezüglichkeit später eintretender Umstände
 
 Waren die für die Bewertung von Aktiven oder Passiven maßgebenden
@@ -80,10 +74,7 @@ berücksichtigen, wenn die tatsächlichen oder rechtlichen Umstände, die
 zur Klärung geführt haben, erst nach dem 21. Juni 1948 eingetreten
 sind.
 
-
 ## Abschnitt II - Aktiven
-
-
 
 ### § 3 Gebietsmäßige Abgrenzung
 
@@ -113,7 +104,6 @@ Verwaltungsvereinbarungen über die Abgrenzung zwischen den in die
 Umstellungsrechnung und in die Altbankenrechnung einzustellenden
 Vermögenswerten etwas anderes ergibt.
 
-
 ### § 4 Nichtbewertungsfähige Vermögensgegenstände
 
 Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist
@@ -122,7 +112,6 @@ möglich ist. Solange eine Bewertung überhaupt nicht möglich ist, ist
 er mit einem Merkposten von einer Deutschen Mark anzusetzen. Mehrere
 Vermögensgegenstände derselben Art können zu einem Merkposten von
 einer Deutschen Mark zusammengefaßt werden.
-
 
 ### § 5 Verfügungsbeschränkungen
 
@@ -139,7 +128,6 @@ Vermögensgegenstand freigegeben, so ist er mit dem ihm zukommenden
 Wert anzusetzen. Erlangt das Geldinstitut für einen ihm entzogenen
 Vermögensgegenstand einen anderen Vermögensgegenstand, so gilt Satz 2
 entsprechend.
-
 
 ### § 6 Wertpapiere und unverbriefte Anteilsrechte an Kapitalgesellschaften
 
@@ -241,7 +229,6 @@ Umstellungsrechnung.
 dem Ansatz für die Anteilsrechte ein entsprechender Zuschlag zu
 machen.
 
-
 ### § 7 Anteile an Personengesellschaften
 
 (1) Ist ein Geldinstitut an einer Personengesellschaft in der Weise
@@ -256,7 +243,6 @@ Nennbetrage in Deutscher Mark anzusetzen, es sei denn, daß besondere
 Umstände einen höheren oder geringeren Wert begründen.
 
 (3) § 6 Abs. 7 gilt entsprechend.
-
 
 ### § 8 Eigene Aktien und eigene Schuldverschreibungen
 
@@ -280,10 +266,6 @@ sind. Der Bestand an eigenen Schuldverschreibungen ist
     Teiles der Ausgleichsforderung von den Verbindlichkeiten abzusetzen
     und nicht in die deckungsfähigen Forderungen einzubeziehen.
 
-
-
-
-
 ### § 9 Konsortialkredite
 
 (1) Ist ein Geldinstitut an einem Konsortialkredit beteiligt, so hat
@@ -304,7 +286,6 @@ Innenverhältnis wirksamen ein- oder mehrstufigen Beteiligung oder
 Unterbeteiligung anderer Geldinstitute gewährt, so gelten die Absätze
 1 und 2 entsprechend.
 
-
 ### § 10 Grundstücke
 
 Grundstücke im Bundesgebiet und in Berlin (West) sind mit einer
@@ -313,7 +294,6 @@ Deutschen Mark für je eine Reichsmark des zuletzt vor dem 21. Juni
 nach dem 20. Juni 1948 sind insoweit zu berücksichtigen, als sie im
 Hinblick auf die Verhältnisse des Grundstücks vorgenommen wurden oder
 werden, die am 21. Juni 1948 bestanden haben.
-
 
 ### § 11 Einrichtungsgegenstände
 
@@ -344,7 +324,6 @@ Panzer- und Gittertüren) nicht zu berücksichtigen. Soweit sie nicht
 bei der Festsetzung des Einheitswertes des Grundstücks berücksichtigt
 sind, sind sie nach Absatz 1 anzusetzen.
 
-
 ### § 12 Warenvorräte
 
 Warenvorräte sind mit den am 31. August 1948 geltenden gewöhnlichen
@@ -352,7 +331,6 @@ Wiederbeschaffungs- oder Herstellungskosten für Waren dieser Art
 anzusetzen. Soweit Warenvorräte vor dem 1. September 1948 veräußert
 wurden, sind sie mit dem Veräußerungserlös unter Abzug der
 handelsüblichen Verdienstspanne anzusetzen.
-
 
 ### § 13 Unterverzinsliche Forderungen
 
@@ -399,17 +377,13 @@ mindert sich insoweit, als in der Zeit vor dem 21. Juni 1948 eine
 geringere Zinsspanne oder ein geringerer Verwaltungskostenbeitrag
 vereinbart oder festgesetzt worden war.
 
-
 ## Abschnitt III - Passiven
-
-
 
 ### § 14 Unklagbare und einredebehaftete Verbindlichkeiten
 
 Unklagbare Verbindlichkeiten und Verbindlichkeiten mit einem dauernden
 Leistungsverweigerungsrecht dürfen in die Umstellungsrechnung nicht
 eingestellt werden.
-
 
 ### § 15 Überverzinsliche Verbindlichkeiten
 
@@ -440,14 +414,12 @@ Bildung eines entsprechenden Zusatzpostens zu berücksichtigen. Dieser
 Zusatzposten gilt nicht als Passivposten im Sinne des § 5 Abs. 2 der
 Bankenverordnung.
 
-
 ### § 16 Ausstehende Kapitaleinlagen
 
 Eine Verpflichtung zur Leistung von ausstehenden Kapitaleinlagen oder
 von Nachschüssen darf nur insoweit berücksichtigt werden, als sie am
 21\. Juni 1948 zum Ausgleich einer Überschuldung diente oder für
 eingezogene Anteile bestand.
-
 
 ### § 17 Rückstellungen
 
@@ -463,7 +435,6 @@ Veranlassung der
 Bankaufsichtsbehörde              durchgeführten Rechtsverfolgung
 wegen eines Vermögenswertes, der in die Umstellungsrechnung
 einzustellen wäre.
-
 
 ### § 18 Pensionsrückstellungen
 
@@ -671,7 +642,6 @@ weiteren Aufbesserung von Leistungen aus Renten- und
 Pensionsversicherungen sowie aus Kapitalzwangsversicherungen vom 19.
 März 1963.
 
-
 ### § 19 Rückstellungen für Verpflichtungen auf Grund des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
 
 (1) Für Verpflichtungen
@@ -751,17 +721,13 @@ von Personen, die am 8. Mai 1945 im öffentlichen Dienst standen oder
 versorgungsberechtigt waren, ergeben, tritt an die Stelle des 1. April
 1951 der 1. Oktober 1951.
 
-
 ### § 20 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten
 
 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten dürfen erst
 berücksichtigt werden, wenn ihr Umfang durch Entscheidung oder
 Vergleich festgestellt ist.
 
-
 ## Abschnitt IV - Gemeinsame Vorschriften für Aktiven und Passiven
-
-
 
 ### § 21 Forderungen und Verbindlichkeiten in ausländischer Währung
 
@@ -774,7 +740,6 @@ dieser Verordnung erfüllt worden, so ist sie zum Erfüllungskurs in
 Deutsche Mark umzurechnen. Der Erfüllung einer Forderung oder
 Verbindlichkeit steht ihre Umwandlung in eine auf Deutsche Mark
 lautende Forderung oder Verbindlichkeit gleich.
-
 
 ### § 22 Geldwertschuldverhältnisse
 
@@ -792,7 +757,6 @@ Deutscher Mark anzusetzen, der sich nach den Vorschriften des
 Umstellungsgesetzes für den durch den Preis von 2.790 Reichsmark für
 ein Kilogramm Feingold bestimmten Reichsmarkbetrag ergibt.
 
-
 ### § 23 Durchlaufende Kredite
 
 Durchlaufende Kredite aus Treuhandgeschäften sind auf der Aktivseite
@@ -809,7 +773,6 @@ und auf der Passivseite mit dem gleichen Betrag anzusetzen und
 
 abzusetzen.
 
-
 ### § 24 Wertberichtigungen
 
 Falls eine Forderung mit einem unter dem Nennbetrag liegenden Wert
@@ -820,7 +783,6 @@ Bei Berechnung des vorläufigen Eigenkapitals nach § 5 Abs. 2 der
 Bankenverordnung gilt nur der Unterschiedsbetrag zwischen dem
 Nennbetrag der Forderung und dem Wertberichtigungsposten als
 Aktivposten; der Wertberichtigungsposten gilt nicht als Passivposten.
-
 
 ### § 25 Abgrenzungsposten
 
@@ -888,7 +850,6 @@ vorläufigen Eigenkapitals nach § 5 Abs. 3 der Bankenverordnung gelten
 die unter Absatz 1 Nr. 2 fallenden Abgrenzungsposten als
 Verbindlichkeiten.
 
-
 ### § 26 Berichtigung der Umstellungsrechnung
 
 (1) Die Umstellungsrechnung unterliegt der Berichtigung (§ 3 Abs. 6
@@ -922,15 +883,11 @@ Sie darf berichtigt werden, wenn die Berichtigung eine Erhöhung der
 Ausgleichsforderung oder eine Verminderung des nach § 8 Satz 3 der
 Bankenverordnung abzuführenden Überschusses zur Folge hat.
 
-
 ## Abschnitt V - Schlußvorschriften
-
-
 
 ### § 27
 
 -
-
 
 ### § 28 Berlin-Klausel
 
@@ -1050,14 +1007,9 @@ April 1953 (Bundesgesetzbl. I S. 127) mit folgenden Maßgaben:
     Sinne des § 54 Abs. 2 Satz 1 Halbsatz 1 des Bereinigungsgesetzes für
     deutsche Auslandsbonds gilt § 6 Abs. 4 entsprechend.
 
-
-
-
-
 ### § 29
 
 -
-
 
 ### Anlage (zu § 21)
 

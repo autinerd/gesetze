@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 19.12.1998 I 3779
 
-
 ## § 1 Anspruchsberechtigter, Fördergebiet
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des
@@ -36,7 +35,6 @@ die Gesellschaft als Anspruchsberechtigte.
 (2) Fördergebiet sind die Länder Berlin, Brandenburg, Mecklenburg-
 Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem
 Gebietsstand vom 3. Oktober 1990.
-
 
 ## § 2 Art der Investitionen
 
@@ -77,10 +75,6 @@ Nicht begünstigt sind
     forstwirtschaftliche Erzeugnisse und zur Aufhebung der Entscheidung
     90/342/EWG - ABl. EG Nr. L 79 S. 29 - (Land- und
     Forstwirtschaftsentscheidung) genannt sind.
-
-
-
-
 
 ## § 3 Investitionszeiträume
 
@@ -124,7 +118,6 @@ Wirtschaftsgüter angeschafft oder hergestellt werden. Investitionen
 sind in dem Zeitpunkt begonnen, in dem die Wirtschaftsgüter bestellt
 oder herzustellen begonnen worden sind.
 
-
 ## § 4 Bemessungsgrundlage
 
 Bemessungsgrundlage für die Investitionszulage ist die Summe der
@@ -138,7 +131,6 @@ oder Herstellungskosten bei der Bemessung der Investitionszulage nur
 berücksichtigt werden, soweit sie die Anzahlungen oder
 Teilherstellungskosten übersteigen. § 7a Abs. 2 Satz 3 bis 5 des
 Einkommensteuergesetzes gilt entsprechend.
-
 
 ## § 5 Höhe der Investitionszulage
 
@@ -286,7 +278,6 @@ Bemessungsgrundlage im Wirtschaftsjahr 250.000 Deutsche Mark nicht
 Satz 1 gilt nicht bei Investitionen, bei denen die Voraussetzungen des
 Absatzes 3 vorliegen.
 
-
 ## § 6 Antrag auf Investitionszulage
 
 (1) Der Antrag auf Investitionszulage ist bis zum 30. September des
@@ -307,7 +298,6 @@ sind die Investitionen, für die eine Investitionszulage beansprucht
 wird, innerhalb der Antragsfrist so genau zu bezeichnen, daß ihre
 Feststellung bei einer Nachprüfung möglich ist.
 
-
 ## § 7 Anwendung der Abgabenordnung, Festsetzung und Auszahlung
 
 (1) Die für Steuervergütungen geltenden Vorschriften der
@@ -326,7 +316,6 @@ Investitionsvorhaben (ABl. EG 1998 Nr. C 107 S. 7) erfüllt, ist erst
 festzusetzen, wenn die Europäische Kommission die höchstzulässige
 Beihilfeintensität festgelegt hat.
 
-
 ## § 8 Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder
@@ -338,7 +327,6 @@ Ereignisses an, zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf
 des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden
 ist.
 
-
 ## § 9 Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach § 264 des Strafgesetzbuches,
@@ -347,13 +335,11 @@ einer Person, die eine solche Straftat begangen hat, gelten die
 Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
 
-
 ## § 10 Ertragsteuerliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes. Sie mindert nicht die steuerlichen
 Anschaffungs- und Herstellungskosten.
-
 
 ## § 10a Ermächtigung
 
@@ -361,7 +347,6 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum,
 unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen
 und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
-
 
 ## § 11 Anwendungsbereich
 

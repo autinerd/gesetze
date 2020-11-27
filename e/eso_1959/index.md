@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 498 V v. 31.10.2006 I 2407
 
-
 ## Inhaltsverzeichnis
 
 
@@ -871,10 +870,6 @@ Zuletzt geändert durch
 
     *   Signal Zs V
 
-
-
-
-
 ## (XXXX)
 
 **ABSCHNITT A: ALLGEMEINES**
@@ -1501,11 +1496,9 @@ Hi 13 (§ 5 Abs. 22 bis 24 DV 301) und
 Sv 4 (§ 6 Abs. 8 bis 10 DV 301)
 nicht mehr anzuwenden.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1099) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

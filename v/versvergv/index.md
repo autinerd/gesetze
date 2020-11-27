@@ -16,14 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1379
 
-
 ## Eingangsformel
 
 Auf Grund des § 64b Absatz 5 Satz 1 bis 4 des
 Versicherungsaufsichtsgesetzes, der durch Artikel 2 Nummer 4 des
 Gesetzes vom 21. Juli 2010 (BGBl. I S. 950) eingefügt worden ist,
 verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Geltungsbereich
 
@@ -95,7 +93,6 @@ in seinem Geltungsbereich durch Vereinbarung der
 Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen
 Regelungen oder aufgrund eines Tarifvertrages in einer Betriebs- oder
 Dienstvereinbarung vereinbart sind, nicht anzuwenden.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -173,10 +170,6 @@ Im Sinne dieser Verordnung ist beziehungsweise sind:
     Organisationseinheiten, die die geschäftsinitiierenden
     Organisationseinheiten überwachen, einschließlich der internen
     Revision.
-
-
-
-
 
 ## § 3 Allgemeine Anforderungen
 
@@ -273,7 +266,6 @@ Versicherungsverträge für das Unternehmen vermitteln.
 (7) Die Vergütung der Aufsichtsratstätigkeit gegenüber angestellten
 Arbeitnehmervertretern neben der Zahlung von Arbeitsentgelt wird durch
 diese Verordnung nicht untersagt.
-
 
 ## § 4 Besondere Anforderungen
 
@@ -407,7 +399,6 @@ Vergütungsbericht zu veröffentlichen, der insbesondere Angaben zur
 Vergütungspolitik und zu den Vergütungsstrukturen einschließlich des
 Anteils der variablen Vergütung enthält.
 
-
 ## § 5 Anforderungen auf Versicherungsgruppen- und Finanzkonglomeratsebene
 
 (1) Übergeordnete Unternehmen einer Versicherungsgruppe im Sinne des §
@@ -438,7 +429,6 @@ innerhalb der Gruppe oder des Konglomerats erfüllt werden. Das
 übergeordnete Unternehmen hat die Einschätzung hierüber schriftlich zu
 dokumentieren.
 
-
 ## § 6 Anpassung bestehender Vereinbarungen
 
 Die Unternehmen haben darauf hinzuwirken, dass die mit
@@ -449,7 +439,6 @@ nicht vereinbar sind, soweit rechtlich zulässig auf Grundlage einer
 für Dritte nachvollziehbaren fundierten juristischen Begutachtung der
 Rechtslage und unter Berücksichtigung der konkreten Erfolgsaussichten
 angepasst werden.
-
 
 ## § 7 Inkrafttreten
 

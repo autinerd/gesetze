@@ -18,8 +18,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 521
 
-
-
 ## I.
 
 Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der
@@ -35,7 +33,6 @@ der hierzu ergangenen Trennungsgeldverordnung zu entscheiden, soweit
 es für den Erlass des Verwaltungsaktes oder die Ablehnung des
 Anspruchs zuständig war.
 
-
 ## II.
 
 Nach § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der
@@ -47,12 +44,10 @@ einschließlich der hierzu ergangenen Trennungsgeldverordnung
 übertragen. Das Bundesministerium für Arbeit und Soziales behält sich
 vor, im Einzelfall die Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist für das Bundesversicherungsamt mit Wirkung vom 1.
 Oktober 2005 anzuwenden.
-
 
 ## Schlussformel
 

@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1993, 2123
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis 9
-
-
 
 ## Art 10 Übergangsregelungen
 
@@ -38,11 +33,9 @@ in der Fassung dieses Gesetzes sind auch in verwaltungsgerichtlichen
 Verfahren anzuwenden, bei denen die angefochtene Entscheidung vor dem
 Inkrafttreten dieses Gesetzes erlassen worden ist.
 
-
 ## Art 11 Neubekanntmachung
 
 -
-
 
 ## Art 12 Inkrafttreten
 

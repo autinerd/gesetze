@@ -18,13 +18,11 @@ Fundstelle
 Geändert durch
 :   Art. 15 G v. 21.12.1993 I 2310
 
-
 ## Eingangsformel
 
 Auf Grund des § 122 Abs. 3 und des § 123 Abs. 1 des Bewertungsgesetzes
 in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1
 
@@ -34,11 +32,9 @@ belegenen bebauten Grundstücken die nach den §§ 78 bis 94 des Gesetzes
 ermittelten Grundstückswerte für Feststellungszeitpunkte vor dem 1.
 Januar 1994 um 20 vom Hundert zu ermäßigen.
 
-
 ## § 2
 
 -
-
 
 ## § 3
 

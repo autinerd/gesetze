@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1098
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 222 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
@@ -26,7 +24,6 @@ Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom
 Nr. 1 des Gesetzes vom 25. November 2003 (BGBl. I S. 2304) geändert
 worden ist, verordnet das Bundesministerium für Gesundheit und Soziale
 Sicherung im Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Zulässigkeit der Wohnungsfürsorge
 
@@ -49,7 +46,6 @@ soweit die Dienstwohnungen für den Klinikbetrieb unentbehrlich sind.
 funktionsbezogenen Dienstwohnungen sind ohne das Vorliegen der
 Voraussetzungen nach Absatz 1 zulässig.
 
-
 ## § 2 Umfang der Wohnungsfürsorge
 
 (1) Wohnungsfürsorge ist auf angemessenen Wohnraum zu beschränken.
@@ -66,12 +62,10 @@ Wohnungen entsprechende Anwendung.
 (3) Als Miete soll grundsätzlich die örtliche Vergleichsmiete
 vereinbart werden.
 
-
 ## § 3 Beteiligung der Aufsichtsbehörde
 
 Maßnahmen der Wohnungsfürsorge sind im Einvernehmen mit der
 zuständigen Aufsichtsbehörde vorzunehmen.
-
 
 ## § 4 Befristung
 
@@ -81,18 +75,15 @@ den Umbau und die Modernisierung von funktionsbezogenen
 Dienstwohnungen sowie von Dienstwohnungen für Klinikpersonal in
 Rehabilitationseinrichtungen.
 
-
 ## § 5 Übergangsregelung
 
 Wohnungsfürsorgemaßnahmen, die bis zum 25. April 2005 eingeleitet
 worden sind, bleiben mit Ausnahme der Regelung in § 2 Abs. 3
 unberührt.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

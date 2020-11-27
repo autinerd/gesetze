@@ -15,18 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 2482
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## (XXXX) Art 1 bis Art 6 (weggefallen)
 
 -
-
 
 ## Art 7 Rechtsstellung der Beamten, Versorgungsempfänger und anderen Beschäftigten
 
@@ -35,7 +31,6 @@ Verteidigungslastenverwaltung befassten Beamten und anderen
 Beschäftigten in den Dienst des Bundes und die Übernahme der
 Versorgungsempfänger aus dem Bereich der Verteidigungslastenverwaltung
 durch den Bund werden ausgeschlossen.
-
 
 ## Art 8 Inkrafttreten
 

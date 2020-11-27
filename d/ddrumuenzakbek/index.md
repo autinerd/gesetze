@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1200
 
-
-
 ## (XXXX)
 
 Gemäß Artikel 1 Abs. 4 der Anlage I des Vertrages über die Schaffung

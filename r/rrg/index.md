@@ -20,24 +20,16 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 93 G v. 8.12.2010 I 1864
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1 bis 4
-
-
 
 ## Art 5 - Fünfzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Fünfzehntes Rentenanpassungsgesetz - 15.RAG)
 
-
-
 ## Art 6 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -46,12 +38,9 @@ Gesetzes gilt auch für Arbeitsunfälle, die vor seinem Inkrafttreten
 eingetreten sind, wenn die neue Ehe nach dem 30. Juni 1963 aufgelöst
 oder für nichtig erklärt ist.
 
-
 ## § 2 (weggefallen)
 
-
 ## § 3 (weggefallen)
-
 
 ## § 4
 
@@ -77,14 +66,11 @@ verwenden sind, von dem Einzahler mitgeteilt werden.
 Absatzes 1 bis zum 30. Juni 1973 das Verfahren über die Wirksamkeit
 der Beiträge einleiten.
 
-
 ## § 5
 
 -
 
-
 ## § 6 (weggefallen)
-
 
 ## § 7
 
@@ -93,7 +79,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
-
 
 ## § 8
 

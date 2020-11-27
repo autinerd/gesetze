@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 420 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Forsten
 verordnet auf Grund des § 16c in Verbindung mit § 16b Abs. 1 Satz 2
 des Tierschutzgesetzes in der Fassung der Bekanntmachung vom 25. Mai
 1998 (BGBl. I S. 1105, 1818) nach Anhörung der Tierschutzkommission:
-
 
 ## § 1 Meldeverfahren
 
@@ -45,14 +43,12 @@ folgenden Jahres mit dem Inhalt nach dem Muster der Anlage zu
 erstatten. In Abstimmung mit der zuständigen Behörde können die
 Meldungen auch in elektronischer Form erfolgen.
 
-
 ## § 2 Übermittlungsverfahren
 
 Die zuständige Behörde übermittelt alle in einem Land für ein
 Kalenderjahr gemachten Meldungen in anonymisierter Form jeweils bis
 zum 31. Mai dem Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz.
-
 
 ## § 3 Ordnungswidrigkeiten
 
@@ -61,16 +57,13 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 1 Abs. 1 eine Meldung nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig macht.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2000 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1 Abs. 2)
 

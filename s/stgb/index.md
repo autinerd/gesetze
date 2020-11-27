@@ -21,24 +21,16 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 5.12.2012 I 2425
 
-
 ## Allgemeiner Teil -
-
-
 
 ### Erster Abschnitt - Das Strafgesetz
 
-
-
 #### Erster Titel - Geltungsbereich
-
-
 
 ##### § 1 Keine Strafe ohne Gesetz
 
 Eine Tat kann nur bestraft werden, wenn die Strafbarkeit gesetzlich
 bestimmt war, bevor die Tat begangen wurde.
-
 
 ##### § 2 Zeitliche Geltung
 
@@ -63,11 +55,9 @@ etwas anderes bestimmt.
 nichts anderes bestimmt ist, nach dem Gesetz zu entscheiden, das zur
 Zeit der Entscheidung gilt.
 
-
 ##### § 3 Geltung für Inlandstaten
 
 Das deutsche Strafrecht gilt für Taten, die im Inland begangen werden.
-
 
 ##### § 4 Geltung für Taten auf deutschen Schiffen und Luftfahrzeugen
 
@@ -75,7 +65,6 @@ Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
 Taten, die auf einem Schiff oder in einem Luftfahrzeug begangen
 werden, das berechtigt ist, die Bundesflagge oder das
 Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen.
-
 
 ##### § 5 Auslandstaten gegen inländische Rechtsgüter
 
@@ -193,10 +182,6 @@ folgende Taten, die im Ausland begangen werden:
 15. Organ- und Gewebehandel (§ 18 des Transplantationsgesetzes), wenn der
     Täter zur Zeit der Tat Deutscher ist.
 
-
-
-
-
 ##### § 6 Auslandstaten gegen international geschützte Rechtsgüter
 
 Das deutsche Strafrecht gilt weiter, unabhängig vom Recht des Tatorts,
@@ -238,10 +223,6 @@ für folgende Taten, die im Ausland begangen werden:
     verbindlichen zwischenstaatlichen Abkommens auch dann zu verfolgen
     sind, wenn sie im Ausland begangen werden.
 
-
-
-
-
 ##### § 7 Geltung für Auslandstaten in anderen Fällen
 
 (1) Das deutsche Strafrecht gilt für Taten, die im Ausland gegen einen
@@ -261,16 +242,11 @@ oder der Tatort keiner Strafgewalt unterliegt und wenn der Täter
     angemessener Frist nicht gestellt oder abgelehnt wird oder die
     Auslieferung nicht ausführbar ist.
 
-
-
-
-
 ##### § 8 Zeit der Tat
 
 Eine Tat ist zu der Zeit begangen, zu welcher der Täter oder der
 Teilnehmer gehandelt hat oder im Falle des Unterlassens hätte handeln
 müssen. Wann der Erfolg eintritt, ist nicht maßgebend.
-
 
 ##### § 9 Ort der Tat
 
@@ -287,16 +263,12 @@ Teilnehmer an einer Auslandstat im Inland gehandelt, so gilt für die
 Teilnahme das deutsche Strafrecht, auch wenn die Tat nach dem Recht
 des Tatorts nicht mit Strafe bedroht ist.
 
-
 ##### § 10 Sondervorschriften für Jugendliche und Heranwachsende
 
 Für Taten von Jugendlichen und Heranwachsenden gilt dieses Gesetz nur,
 soweit im Jugendgerichtsgesetz nichts anderes bestimmt ist.
 
-
 #### Zweiter Titel - Sprachgebrauch
-
-
 
 ##### § 11 Personen- und Sachbegriffe
 
@@ -404,7 +376,6 @@ besonderen Folge jedoch Fahrlässigkeit ausreichen läßt.
 Abbildungen und andere Darstellungen in denjenigen Vorschriften
 gleich, die auf diesen Absatz verweisen.
 
-
 ##### § 12 Verbrechen und Vergehen
 
 (1) Verbrechen sind rechtswidrige Taten, die im Mindestmaß mit
@@ -417,14 +388,9 @@ geringeren Freiheitsstrafe oder die mit Geldstrafe bedroht sind.
 Allgemeinen Teils oder für besonders schwere oder minder schwere Fälle
 vorgesehen sind, bleiben für die Einteilung außer Betracht.
 
-
 ### Zweiter Abschnitt - Die Tat
 
-
-
 #### Erster Titel - Grundlagen der Strafbarkeit
-
-
 
 ##### § 13 Begehen durch Unterlassen
 
@@ -435,7 +401,6 @@ eintritt, und wenn das Unterlassen der Verwirklichung des gesetzlichen
 Tatbestandes durch ein Tun entspricht.
 
 (2) Die Strafe kann nach § 49 Abs. 1 gemildert werden.
-
 
 ##### § 14 Handeln für einen anderen
 
@@ -481,12 +446,10 @@ Verwaltung wahrnimmt, so ist Satz 1 sinngemäß anzuwenden.
 Rechtshandlung, welche die Vertretungsbefugnis oder das
 Auftragsverhältnis begründen sollte, unwirksam ist.
 
-
 ##### § 15 Vorsätzliches und fahrlässiges Handeln
 
 Strafbar ist nur vorsätzliches Handeln, wenn nicht das Gesetz
 fahrlässiges Handeln ausdrücklich mit Strafe bedroht.
-
 
 ##### § 16 Irrtum über Tatumstände
 
@@ -498,7 +461,6 @@ Strafbarkeit wegen fahrlässiger Begehung bleibt unberührt.
 Tatbestand eines milderen Gesetzes verwirklichen würden, kann wegen
 vorsätzlicher Begehung nur nach dem milderen Gesetz bestraft werden.
 
-
 ##### § 17 Verbotsirrtum
 
 Fehlt dem Täter bei Begehung der Tat die Einsicht, Unrecht zu tun, so
@@ -506,19 +468,16 @@ handelt er ohne Schuld, wenn er diesen Irrtum nicht vermeiden konnte.
 Konnte der Täter den Irrtum vermeiden, so kann die Strafe nach § 49
 Abs. 1 gemildert werden.
 
-
 ##### § 18 Schwerere Strafe bei besonderen Tatfolgen
 
 Knüpft das Gesetz an eine besondere Folge der Tat eine schwerere
 Strafe, so trifft sie den Täter oder den Teilnehmer nur, wenn ihm
 hinsichtlich dieser Folge wenigstens Fahrlässigkeit zur Last fällt.
 
-
 ##### § 19 Schuldunfähigkeit des Kindes
 
 Schuldunfähig ist, wer bei Begehung der Tat noch nicht vierzehn Jahre
 alt ist.
-
 
 ##### § 20 Schuldunfähigkeit wegen seelischer Störungen
 
@@ -528,7 +487,6 @@ wegen Schwachsinns oder einer schweren anderen seelischen Abartigkeit
 unfähig ist, das Unrecht der Tat einzusehen oder nach dieser Einsicht
 zu handeln.
 
-
 ##### § 21 Verminderte Schuldfähigkeit
 
 Ist die Fähigkeit des Täters, das Unrecht der Tat einzusehen oder nach
@@ -536,16 +494,12 @@ dieser Einsicht zu handeln, aus einem der in § 20 bezeichneten Gründe
 bei Begehung der Tat erheblich vermindert, so kann die Strafe nach §
 49 Abs. 1 gemildert werden.
 
-
 #### Zweiter Titel - Versuch
-
-
 
 ##### § 22 Begriffsbestimmung
 
 Eine Straftat versucht, wer nach seiner Vorstellung von der Tat zur
 Verwirklichung des Tatbestandes unmittelbar ansetzt.
-
 
 ##### § 23 Strafbarkeit des Versuchs
 
@@ -560,7 +514,6 @@ der Art des Gegenstandes, an dem, oder des Mittels, mit dem die Tat
 begangen werden sollte, überhaupt nicht zur Vollendung führen konnte,
 so kann das Gericht von Strafe absehen oder die Strafe nach seinem
 Ermessen mildern (§ 49 Abs. 2).
-
 
 ##### § 24 Rücktritt
 
@@ -577,10 +530,7 @@ Vollendung der Tat zu verhindern, wenn sie ohne sein Zutun nicht
 vollendet oder unabhängig von seinem früheren Tatbeitrag begangen
 wird.
 
-
 #### Dritter Titel - Täterschaft und Teilnahme
-
-
 
 ##### § 25 Täterschaft
 
@@ -590,13 +540,11 @@ anderen begeht.
 (2) Begehen mehrere die Straftat gemeinschaftlich, so wird jeder als
 Täter bestraft (Mittäter).
 
-
 ##### § 26 Anstiftung
 
 Als Anstifter wird gleich einem Täter bestraft, wer vorsätzlich einen
 anderen zu dessen vorsätzlich begangener rechtswidriger Tat bestimmt
 hat.
-
 
 ##### § 27 Beihilfe
 
@@ -605,7 +553,6 @@ vorsätzlich begangener rechtswidriger Tat Hilfe geleistet hat.
 
 (2) Die Strafe für den Gehilfen richtet sich nach der Strafdrohung für
 den Täter. Sie ist nach § 49 Abs. 1 zu mildern.
-
 
 ##### § 28 Besondere persönliche Merkmale
 
@@ -617,12 +564,10 @@ Gehilfe), so ist dessen Strafe nach § 49 Abs. 1 zu mildern.
 schärfen, mildern oder ausschließen, so gilt das nur für den
 Beteiligten (Täter oder Teilnehmer), bei dem sie vorliegen.
 
-
 ##### § 29 Selbständige Strafbarkeit des Beteiligten
 
 Jeder Beteiligte wird ohne Rücksicht auf die Schuld des anderen nach
 seiner Schuld bestraft.
-
 
 ##### § 30 Versuch der Beteiligung
 
@@ -634,7 +579,6 @@ mildern. § 23 Abs. 3 gilt entsprechend.
 (2) Ebenso wird bestraft, wer sich bereit erklärt, wer das Erbieten
 eines anderen annimmt oder wer mit einem anderen verabredet, ein
 Verbrechen zu begehen oder zu ihm anzustiften.
-
 
 ##### § 31 Rücktritt vom Versuch der Beteiligung
 
@@ -660,10 +604,7 @@ unabhängig von seinem früheren Verhalten begangen, so genügt zu seiner
 Straflosigkeit sein freiwilliges und ernsthaftes Bemühen, die Tat zu
 verhindern.
 
-
 #### Vierter Titel - Notwehr und Notstand
-
-
 
 ##### § 32 Notwehr
 
@@ -674,12 +615,10 @@ rechtswidrig.
 gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen
 abzuwenden.
 
-
 ##### § 33 Überschreitung der Notwehr
 
 Überschreitet der Täter die Grenzen der Notwehr aus Verwirrung, Furcht
 oder Schrecken, so wird er nicht bestraft.
-
 
 ##### § 34 Rechtfertigender Notstand
 
@@ -691,7 +630,6 @@ namentlich der betroffenen Rechtsgüter und des Grades der ihnen
 drohenden Gefahren, das geschützte Interesse das beeinträchtigte
 wesentlich überwiegt. Dies gilt jedoch nur, soweit die Tat ein
 angemessenes Mittel ist, die Gefahr abzuwenden.
-
 
 ##### § 35 Entschuldigender Notstand
 
@@ -711,10 +649,7 @@ nach Absatz 1 entschuldigen würden, so wird er nur dann bestraft, wenn
 er den Irrtum vermeiden konnte. Die Strafe ist nach § 49 Abs. 1 zu
 mildern.
 
-
 #### Fünfter Titel - Straflosigkeit parlamentarischer Äußerungen und Berichte
-
-
 
 ##### § 36 Parlamentarische Äußerungen
 
@@ -725,25 +660,17 @@ in einem ihrer Ausschüsse getan haben, außerhalb der Körperschaft zur
 Verantwortung gezogen werden. Dies gilt nicht für verleumderische
 Beleidigungen.
 
-
 ##### § 37 Parlamentarische Berichte
 
 Wahrheitsgetreue Berichte über die öffentlichen Sitzungen der in § 36
 bezeichneten Körperschaften oder ihrer Ausschüsse bleiben von jeder
 Verantwortlichkeit frei.
 
-
 ### Dritter Abschnitt - Rechtsfolgen der Tat
-
-
 
 #### Erster Titel - Strafen
 
-
-
 ##### Freiheitsstrafe -
-
-
 
 ###### § 38 Dauer der Freiheitsstrafe
 
@@ -753,17 +680,13 @@ Freiheitsstrafe androht.
 (2) Das Höchstmaß der zeitigen Freiheitsstrafe ist fünfzehn Jahre, ihr
 Mindestmaß ein Monat.
 
-
 ###### § 39 Bemessung der Freiheitsstrafe
 
 Freiheitsstrafe unter einem Jahr wird nach vollen Wochen und Monaten,
 Freiheitsstrafe von längerer Dauer nach vollen Monaten und Jahren
 bemessen.
 
-
 ##### Geldstrafe -
-
-
 
 ###### § 40 Verhängung in Tagessätzen
 
@@ -783,7 +706,6 @@ die Bemessung eines Tagessatzes können geschätzt werden.
 
 (4) In der Entscheidung werden Zahl und Höhe der Tagessätze angegeben.
 
-
 ###### § 41 Geldstrafe neben Freiheitsstrafe
 
 Hat der Täter sich durch die Tat bereichert oder zu bereichern
@@ -792,7 +714,6 @@ nur wahlweise angedrohte Geldstrafe verhängt werden, wenn dies auch
 unter Berücksichtigung der persönlichen und wirtschaftlichen
 Verhältnisse des Täters angebracht ist. Dies gilt nicht, wenn das
 Gericht nach § 43a eine Vermögensstrafe verhängt.
-
 
 ###### § 42 Zahlungserleichterungen
 
@@ -808,17 +729,13 @@ Wiedergutmachung des durch die Straftat verursachten Schadens durch
 den Verurteilten erheblich gefährdet wäre; dabei kann dem Verurteilten
 der Nachweis der Wiedergutmachung auferlegt werden.
 
-
 ###### § 43 Ersatzfreiheitsstrafe
 
 An die Stelle einer uneinbringlichen Geldstrafe tritt Freiheitsstrafe.
 Einem Tagessatz entspricht ein Tag Freiheitsstrafe. Das Mindestmaß der
 Ersatzfreiheitsstrafe ist ein Tag.
 
-
 ##### Vermögensstrafe -
-
-
 
 ###### § 43a Verhängung der Vermögensstrafe
 
@@ -837,10 +754,7 @@ Uneinbringlichkeit an die Stelle der Vermögensstrafe tritt
 (Ersatzfreiheitsstrafe). Das Höchstmaß der Ersatzfreiheitsstrafe ist
 zwei Jahre, ihr Mindestmaß ein Monat.
 
-
 ##### Nebenstrafe -
-
-
 
 ###### § 44 Fahrverbot
 
@@ -869,10 +783,7 @@ Verbotsfrist erst von dem Tage an gerechnet, an dem dies geschieht. In
 die Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der
 Täter auf behördliche Anordnung in einer Anstalt verwahrt worden ist.
 
-
 ##### Nebenfolgen -
-
-
 
 ###### § 45 Verlust der Amtsfähigkeit, der Wählbarkeit und des Stimmrechts
 
@@ -898,7 +809,6 @@ anderes bestimmt.
 fünf Jahren das Recht, in öffentlichen Angelegenheiten zu wählen oder
 zu stimmen, aberkennen, soweit das Gesetz es besonders vorsieht.
 
-
 ###### § 45a Eintritt und Berechnung des Verlustes
 
 (1) Der Verlust der Fähigkeiten, Rechtsstellungen und Rechte wird mit
@@ -916,7 +826,6 @@ Maßregel zur Bewährung oder im Gnadenweg ausgesetzt, so wird in die
 Frist die Bewährungszeit eingerechnet, wenn nach deren Ablauf die
 Strafe oder der Strafrest erlassen wird oder die Maßregel erledigt
 ist.
-
 
 ###### § 45b Wiederverleihung von Fähigkeiten und Rechten
 
@@ -937,10 +846,7 @@ nach § 45 Abs. 5 verlorene Rechte wiederverleihen, wenn
 Verurteilte auf behördliche Anordnung in einer Anstalt verwahrt worden
 ist.
 
-
 #### Zweiter Titel - Strafbemessung
-
-
 
 ##### § 46 Grundsätze der Strafzumessung
 
@@ -974,7 +880,6 @@ Betracht:
 (3) Umstände, die schon Merkmale des gesetzlichen Tatbestandes sind,
 dürfen nicht berücksichtigt werden.
 
-
 ##### § 46a Täter-Opfer-Ausgleich, Schadenswiedergutmachung
 
 Hat der Täter
@@ -994,7 +899,6 @@ so kann das Gericht die Strafe nach § 49 Abs. 1 mildern oder, wenn
 keine höhere Strafe als Freiheitsstrafe bis zu einem Jahr oder
 Geldstrafe bis zu dreihundertsechzig Tagessätzen verwirkt ist, von
 Strafe absehen.
-
 
 ##### § 46b Hilfe zur Aufklärung oder Verhinderung von schweren Straftaten
 
@@ -1046,7 +950,6 @@ ausgeschlossen, wenn der Täter sein Wissen erst offenbart, nachdem die
 Eröffnung des Hauptverfahrens (§ 207 der Strafprozessordnung) gegen
 ihn beschlossen worden ist.
 
-
 ##### § 47 Kurze Freiheitsstrafe nur in Ausnahmefällen
 
 (1) Eine Freiheitsstrafe unter sechs Monaten verhängt das Gericht nur,
@@ -1063,11 +966,9 @@ Mindestmaß der Geldstrafe in den Fällen des Satzes 1 nach dem
 Mindestmaß der angedrohten Freiheitsstrafe; dabei entsprechen dreißig
 Tagessätze einem Monat Freiheitsstrafe.
 
-
 ##### § 48 (weggefallen)
 
 -
-
 
 ##### § 49 Besondere gesetzliche Milderungsgründe
 
@@ -1102,14 +1003,12 @@ verweist, die Strafe nach seinem Ermessen mildern, so kann es bis zum
 gesetzlichen Mindestmaß der angedrohten Strafe herabgehen oder statt
 auf Freiheitsstrafe auf Geldstrafe erkennen.
 
-
 ##### § 50 Zusammentreffen von Milderungsgründen
 
 Ein Umstand, der allein oder mit anderen Umständen die Annahme eines
 minder schweren Falles begründet und der zugleich ein besonderer
 gesetzlicher Milderungsgrund nach § 49 ist, darf nur einmal
 berücksichtigt werden.
-
 
 ##### § 51 Anrechnung
 
@@ -1142,10 +1041,7 @@ Fahrerlaubnis (§ 111a der Strafprozeßordnung) auf das Fahrverbot nach
 Entziehung der Fahrerlaubnis die Verwahrung, Sicherstellung oder
 Beschlagnahme des Führerscheins (§ 94 der Strafprozeßordnung) gleich.
 
-
 #### Dritter Titel - Strafbemessung bei mehreren Gesetzesverletzungen
-
-
 
 ##### § 52 Tateinheit
 
@@ -1165,7 +1061,6 @@ Freiheitsstrafe von mehr als zwei Jahren gesondert erkennen. Im
 übrigen muß oder kann auf Nebenstrafen, Nebenfolgen und Maßnahmen (§
 11 Abs. 1 Nr. 8) erkannt werden, wenn eines der anwendbaren Gesetze
 sie vorschreibt oder zuläßt.
-
 
 ##### § 53 Tatmehrheit
 
@@ -1190,7 +1085,6 @@ gilt entsprechend.
 
 (4) § 52 Abs. 3 und 4 Satz 2 gilt sinngemäß.
 
-
 ##### § 54 Bildung der Gesamtstrafe
 
 (1) Ist eine der Einzelstrafen eine lebenslange Freiheitsstrafe, so
@@ -1211,7 +1105,6 @@ gilt entsprechend.
 entspricht bei der Bestimmung der Summe der Einzelstrafen ein
 Tagessatz einem Tag Freiheitsstrafe.
 
-
 ##### § 55 Nachträgliche Bildung der Gesamtstrafe
 
 (1) Die §§ 53 und 54 sind auch anzuwenden, wenn ein rechtskräftig
@@ -1230,10 +1123,7 @@ Vermögensstrafe, auf die in der früheren Entscheidung erkannt war, den
 Wert des Vermögens des Täters zum Zeitpunkt der neuen Entscheidung
 übersteigt.
 
-
 #### Vierter Titel - Strafaussetzung zur Bewährung
-
-
 
 ##### § 56 Strafaussetzung
 
@@ -1264,7 +1154,6 @@ beschränkt werden. Sie wird durch eine Anrechnung von
 Untersuchungshaft oder einer anderen Freiheitsentziehung nicht
 ausgeschlossen.
 
-
 ##### § 56a Bewährungszeit
 
 (1) Das Gericht bestimmt die Dauer der Bewährungszeit. Sie darf fünf
@@ -1274,7 +1163,6 @@ Jahre nicht überschreiten und zwei Jahre nicht unterschreiten.
 über die Strafaussetzung. Sie kann nachträglich bis auf das Mindestmaß
 verkürzt oder vor ihrem Ablauf bis auf das Höchstmaß verlängert
 werden.
-
 
 ##### § 56b Auflagen
 
@@ -1307,7 +1195,6 @@ nicht entgegensteht.
 Genugtuung für das begangene Unrecht dienen, so sieht das Gericht in
 der Regel von Auflagen vorläufig ab, wenn die Erfüllung des
 Anerbietens zu erwarten ist.
-
 
 ##### § 56c Weisungen
 
@@ -1361,7 +1248,6 @@ darf nur mit Einwilligung des Verurteilten erteilt werden.
 Lebensführung, so sieht das Gericht in der Regel von Weisungen
 vorläufig ab, wenn die Einhaltung der Zusagen zu erwarten ist.
 
-
 ##### § 56d Bewährungshilfe
 
 (1) Das Gericht unterstellt die verurteilte Person für die Dauer oder
@@ -1389,12 +1275,10 @@ die Tätigkeit nach Absatz 3 Anweisungen erteilen.
 (5) Die Tätigkeit der Bewährungshelferin oder des Bewährungshelfers
 wird haupt- oder ehrenamtlich ausgeübt.
 
-
 ##### § 56e Nachträgliche Entscheidungen
 
 Das Gericht kann Entscheidungen nach den §§ 56b bis 56d auch
 nachträglich treffen, ändern oder aufheben.
-
 
 ##### § 56f Widerruf der Strafaussetzung
 
@@ -1444,7 +1328,6 @@ widerruft, Leistungen, die die verurteilte Person zur Erfüllung von
 Auflagen nach § 56b Abs. 2 Satz 1 Nr. 2 bis 4 oder entsprechenden
 Anerbieten nach § 56b Abs. 3 erbracht hat, auf die Strafe anrechnen.
 
-
 ##### § 56g Straferlaß
 
 (1) Widerruft das Gericht die Strafaussetzung nicht, so erläßt es die
@@ -1457,7 +1340,6 @@ Freiheitsstrafe von mindestens sechs Monaten verurteilt wird. Der
 Widerruf ist nur innerhalb von einem Jahr nach Ablauf der
 Bewährungszeit und von sechs Monaten nach Rechtskraft der Verurteilung
 zulässig. § 56f Abs. 1 Satz 2 und Abs. 3 gilt entsprechend.
-
 
 ##### § 57 Aussetzung des Strafrestes bei zeitiger Freiheitsstrafe
 
@@ -1531,7 +1413,6 @@ Anspruch der in § 73 Abs. 1 Satz 2 bezeichneten Art erwachsen ist.
 vor deren Ablauf ein Antrag der verurteilten Person, den Strafrest zur
 Bewährung auszusetzen, unzulässig ist.
 
-
 ##### § 57a Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe
 
 (1) Das Gericht setzt die Vollstreckung des Restes einer lebenslangen
@@ -1562,14 +1443,12 @@ entsprechend.
 deren Ablauf ein Antrag des Verurteilten, den Strafrest zur Bewährung
 auszusetzen, unzulässig ist.
 
-
 ##### § 57b Aussetzung des Strafrestes bei lebenslanger Freiheitsstrafe als Gesamtstrafe
 
 Ist auf lebenslange Freiheitsstrafe als Gesamtstrafe erkannt, so
 werden bei der Feststellung der besonderen Schwere der Schuld (§ 57a
 Abs. 1 Satz 1 Nr. 2) die einzelnen Straftaten zusammenfassend
 gewürdigt.
-
 
 ##### § 58 Gesamtstrafe und Strafaussetzung
 
@@ -1584,10 +1463,7 @@ Bewährungszeit um die bereits abgelaufene Bewährungszeit, jedoch nicht
 auf weniger als ein Jahr. Wird die Gesamtstrafe nicht zur Bewährung
 ausgesetzt, so gilt § 56f Abs. 3 entsprechend.
 
-
 #### Fünfter Titel - Verwarnung mit Strafvorbehalt Absehen von Strafe
-
-
 
 ##### § 59 Voraussetzungen der Verwarnung mit Strafvorbehalt
 
@@ -1615,7 +1491,6 @@ vorbehalten, wenn
 (2) Neben der Verwarnung kann auf Verfall, Einziehung oder
 Unbrauchbarmachung erkannt werden. Neben Maßregeln der Besserung und
 Sicherung ist die Verwarnung mit Strafvorbehalt nicht zulässig.
-
 
 ##### § 59a Bewährungszeit, Auflagen und Weisungen
 
@@ -1649,7 +1524,6 @@ nach Satz 1 Nr. 3 bis 5 zur Bedeutung der vom Täter begangenen Tat
 nicht außer Verhältnis stehen. § 56c Abs. 3 und 4 und § 56e gelten
 entsprechend.
 
-
 ##### § 59b Verurteilung zu der vorbehaltenen Strafe
 
 (1) Für die Verurteilung zu der vorbehaltenen Strafe gilt § 56f
@@ -1658,7 +1532,6 @@ entsprechend.
 (2) Wird der Verwarnte nicht zu der vorbehaltenen Strafe verurteilt,
 so stellt das Gericht nach Ablauf der Bewährungszeit fest, daß es bei
 der Verwarnung sein Bewenden hat.
-
 
 ##### § 59c Gesamtstrafe und Verwarnung mit Strafvorbehalt
 
@@ -1672,7 +1545,6 @@ Straftat nachträglich zu Strafe verurteilt, so sind die Vorschriften
 Maßgabe anzuwenden, daß die vorbehaltene Strafe in den Fällen des § 55
 einer erkannten Strafe gleichsteht.
 
-
 ##### § 60 Absehen von Strafe
 
 Das Gericht sieht von Strafe ab, wenn die Folgen der Tat, die den
@@ -1680,10 +1552,7 @@ Täter getroffen haben, so schwer sind, daß die Verhängung einer Strafe
 offensichtlich verfehlt wäre. Dies gilt nicht, wenn der Täter für die
 Tat eine Freiheitsstrafe von mehr als einem Jahr verwirkt hat.
 
-
 #### Sechster Titel - Maßregeln der Besserung und Sicherung
-
-
 
 ##### § 61 Übersicht
 
@@ -1706,10 +1575,6 @@ Maßregeln der Besserung und Sicherung sind
 
 6.  das Berufsverbot.
 
-
-
-
-
 ##### § 62 Grundsatz der Verhältnismäßigkeit
 
 Eine Maßregel der Besserung und Sicherung darf nicht angeordnet
@@ -1717,10 +1582,7 @@ werden, wenn sie zur Bedeutung der vom Täter begangenen und zu
 erwartenden Taten sowie zu dem Grad der von ihm ausgehenden Gefahr
 außer Verhältnis steht.
 
-
 ##### Freiheitsentziehende Maßregeln -
-
-
 
 ###### § 63 Unterbringung in einem psychiatrischen Krankenhaus
 
@@ -1730,7 +1592,6 @@ das Gericht die Unterbringung in einem psychiatrischen Krankenhaus an,
 wenn die Gesamtwürdigung des Täters und seiner Tat ergibt, daß von ihm
 infolge seines Zustandes erhebliche rechtswidrige Taten zu erwarten
 sind und er deshalb für die Allgemeinheit gefährlich ist.
-
 
 ###### § 64 Unterbringung in einer Entziehungsanstalt
 
@@ -1748,11 +1609,9 @@ erhebliche Zeit vor dem Rückfall in den Hang zu bewahren und von der
 Begehung erheblicher rechtswidriger Taten abzuhalten, die auf ihren
 Hang zurückgehen.
 
-
 ###### § 65 (weggefallen)
 
 -
-
 
 ###### § 66 Unterbringung in der Sicherungsverwahrung
 
@@ -1849,7 +1708,6 @@ abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine
 Straftat der in Absatz 1 Satz 1 Nummer 1, in den Fällen des Absatzes 3
 der in Absatz 3 Satz 1 bezeichneten Art wäre.
 
-
 ###### § 66a Vorbehalt der Unterbringung in der Sicherungsverwahrung
 
 (1) Das Gericht kann im Urteil die Anordnung der Sicherungsverwahrung
@@ -1901,7 +1759,6 @@ Zeitpunkt der Entscheidung ergibt, dass von ihm erhebliche Straftaten
 zu erwarten sind, durch welche die Opfer seelisch oder körperlich
 schwer geschädigt werden.
 
-
 ###### § 66b Nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung
 
 Ist die Unterbringung in einem psychiatrischen Krankenhaus nach § 67d
@@ -1929,7 +1786,6 @@ nachträglich anordnen, wenn
 Dies gilt auch, wenn im Anschluss an die Unterbringung nach § 63 noch
 eine daneben angeordnete Freiheitsstrafe ganz oder teilweise zu
 vollstrecken ist.
-
 
 ###### § 67 Reihenfolge der Vollstreckung
 
@@ -1972,7 +1828,6 @@ nicht ausgesetzt, so wird der Vollzug der Maßregel fortgesetzt; das
 Gericht kann jedoch den Vollzug der Strafe anordnen, wenn Umstände in
 der Person des Verurteilten es angezeigt erscheinen lassen.
 
-
 ###### § 67a Überweisung in den Vollzug einer anderen Maßregel
 
 (1) Ist die Unterbringung in einem psychiatrischen Krankenhaus oder
@@ -2003,7 +1858,6 @@ Beginn der Vollstreckung der Unterbringung jeweils spätestens vor
 Ablauf von weiteren zwei Jahren zu prüfen, ob die Voraussetzungen für
 eine Entscheidung nach Absatz 3 Satz 2 vorliegen.
 
-
 ###### § 67b Aussetzung zugleich mit der Anordnung
 
 (1) Ordnet das Gericht die Unterbringung in einem psychiatrischen
@@ -2015,7 +1869,6 @@ Freiheitsstrafe zu verbüßen hat, die gleichzeitig mit der Maßregel
 verhängt und nicht zur Bewährung ausgesetzt wird.
 
 (2) Mit der Aussetzung tritt Führungsaufsicht ein.
-
 
 ###### § 67c Späterer Beginn der Unterbringung
 
@@ -2038,7 +1891,6 @@ Erwartung, daß er auch durch die Aussetzung erreicht werden kann, so
 setzt das Gericht die Vollstreckung der Unterbringung zur Bewährung
 aus; mit der Aussetzung tritt Führungsaufsicht ein. Ist der Zweck der
 Maßregel erreicht, so erklärt das Gericht sie für erledigt.
-
 
 ###### § 67d Dauer der Unterbringung
 
@@ -2081,7 +1933,6 @@ Führungsaufsicht ein. Das Gericht ordnet den Nichteintritt der
 Führungsaufsicht an, wenn zu erwarten ist, dass der Betroffene auch
 ohne sie keine Straftaten mehr begehen wird.
 
-
 ###### § 67e Überprüfung
 
 (1) Das Gericht kann jederzeit prüfen, ob die weitere Vollstreckung
@@ -2101,12 +1952,10 @@ ein Antrag auf Prüfung unzulässig ist.
 Gericht die Aussetzung oder Erledigungserklärung ab, so beginnen die
 Fristen mit der Entscheidung von neuem.
 
-
 ###### § 67f Mehrfache Anordnung der Maßregel
 
 Ordnet das Gericht die Unterbringung in einer Entziehungsanstalt an,
 so ist eine frühere Anordnung der Maßregel erledigt.
-
 
 ###### § 67g Widerruf der Aussetzung
 
@@ -2149,7 +1998,6 @@ ist die Maßregel mit dem Ende der Führungsaufsicht erledigt.
 (6) Leistungen, die die verurteilte Person zur Erfüllung von Weisungen
 erbracht hat, werden nicht erstattet.
 
-
 ###### § 67h Befristete Wiederinvollzugsetzung; Krisenintervention
 
 (1) Während der Dauer der Führungsaufsicht kann das Gericht die
@@ -2166,10 +2014,7 @@ entsprechend.
 (2) Das Gericht hebt die Maßnahme vor Ablauf der nach Absatz 1
 gesetzten Frist auf, wenn ihr Zweck erreicht ist.
 
-
 ##### Führungsaufsicht -
-
-
 
 ###### § 68 Voraussetzungen der Führungsaufsicht
 
@@ -2181,7 +2026,6 @@ weitere Straftaten begehen wird.
 
 (2) Die Vorschriften über die Führungsaufsicht kraft Gesetzes (§§ 67b,
 67c, 67d Abs. 2 bis 6 und § 68f) bleiben unberührt.
-
 
 ###### § 68a Aufsichtsstelle, Bewährungshilfe, forensische Ambulanz
 
@@ -2248,7 +2092,6 @@ In den Fällen der Sätze 1 und 2 Nr. 2 und 3 dürfen Tatsachen im Sinne
 von § 203 Abs. 1, die von Mitarbeiterinnen und Mitarbeitern der
 forensischen Ambulanz offenbart wurden, nur zu den dort genannten
 Zwecken verwendet werden.
-
 
 ###### § 68b Weisungen
 
@@ -2374,7 +2217,6 @@ Absatzes 1 Nr. 11 oder ihre Behandlung in den Fällen des Absatzes 2
 nicht durch eine forensische Ambulanz erfolgt, gilt § 68a Abs. 8
 entsprechend.
 
-
 ###### § 68c Dauer der Führungsaufsicht
 
 (1) Die Führungsaufsicht dauert mindestens zwei und höchstens fünf
@@ -2444,7 +2286,6 @@ eingerechnet, in welcher die verurteilte Person flüchtig ist, sich
 verborgen hält oder auf behördliche Anordnung in einer Anstalt
 verwahrt wird.
 
-
 ###### § 68d Nachträgliche Entscheidungen; Überprüfungsfrist
 
 (1) Das Gericht kann Entscheidungen nach § 68a Abs. 1 und 5, den §§
@@ -2454,7 +2295,6 @@ verwahrt wird.
 (2) Bei einer Weisung gemäß § 68b Absatz 1 Satz 1 Nummer 12 prüft das
 Gericht spätestens vor Ablauf von zwei Jahren, ob sie aufzuheben ist.
 § 67e Absatz 3 und 4 gilt entsprechend.
-
 
 ###### § 68e Beendigung oder Ruhen der Führungsaufsicht
 
@@ -2507,7 +2347,6 @@ Gericht eine Aufhebung der Führungsaufsicht ab, hat es vor Ablauf von
 zwei Jahren von neuem über eine Aufhebung der Führungsaufsicht zu
 entscheiden.
 
-
 ###### § 68f Führungsaufsicht bei Nichtaussetzung des Strafrestes
 
 (1) Ist eine Freiheitsstrafe oder Gesamtfreiheitsstrafe von mindestens
@@ -2522,7 +2361,6 @@ Sicherung vollzogen wird.
 (2) Ist zu erwarten, dass die verurteilte Person auch ohne die
 Führungsaufsicht keine Straftaten mehr begehen wird, ordnet das
 Gericht an, dass die Maßregel entfällt.
-
 
 ###### § 68g Führungsaufsicht und Aussetzung zur Bewährung
 
@@ -2545,10 +2383,7 @@ auch eine wegen derselben Tat angeordnete Führungsaufsicht. Dies gilt
 nicht, wenn die Führungsaufsicht unbefristet ist (§ 68c Abs. 2 Satz 1
 oder Abs. 3).
 
-
 ##### Entziehung der Fahrerlaubnis -
-
-
 
 ###### § 69 Entziehung der Fahrerlaubnis
 
@@ -2587,7 +2422,6 @@ Kraftfahrzeugen anzusehen.
 (3) Die Fahrerlaubnis erlischt mit der Rechtskraft des Urteils. Ein
 von einer deutschen Behörde ausgestellter Führerschein wird im Urteil
 eingezogen.
-
 
 ###### § 69a Sperre für die Erteilung einer Fahrerlaubnis
 
@@ -2629,7 +2463,6 @@ Sperre vorzeitig aufheben. Die Aufhebung ist frühestens zulässig, wenn
 die Sperre drei Monate, in den Fällen des Absatzes 3 ein Jahr gedauert
 hat; Absatz 5 Satz 2 und Absatz 6 gelten entsprechend.
 
-
 ###### § 69b Wirkung der Entziehung bei einer ausländischen Fahrerlaubnis
 
 (1) Darf der Täter auf Grund einer im Ausland erteilten Fahrerlaubnis
@@ -2651,10 +2484,7 @@ ausstellende Behörde zurückgesandt. In anderen Fällen werden die
 Entziehung der Fahrerlaubnis und die Sperre in den ausländischen
 Führerscheinen vermerkt.
 
-
 ##### Berufsverbot -
-
-
 
 ###### § 70 Anordnung des Berufsverbots
 
@@ -2691,7 +2521,6 @@ tatsächlichen Feststellungen letztmals geprüft werden konnten. Die
 Zeit, in welcher der Täter auf behördliche Anordnung in einer Anstalt
 verwahrt worden ist, wird nicht eingerechnet.
 
-
 ###### § 70a Aussetzung des Berufsverbots
 
 (1) Ergibt sich nach Anordnung des Berufsverbots Grund zu der Annahme,
@@ -2710,7 +2539,6 @@ worden ist, wird nicht eingerechnet.
 jedoch um die Zeit, in der eine Freiheitsstrafe oder eine
 freiheitsentziehende Maßregel vollzogen wird, die gegen den
 Verurteilten wegen der Tat verhängt oder angeordnet worden ist.
-
 
 ###### § 70b Widerruf der Aussetzung und Erledigung des Berufsverbots
 
@@ -2747,10 +2575,7 @@ oder Zusagen erbracht hat, werden nicht erstattet.
 (5) Nach Ablauf der Bewährungszeit erklärt das Gericht das
 Berufsverbot für erledigt.
 
-
 ##### Gemeinsame Vorschriften -
-
-
 
 ###### § 71 Selbständige Anordnung
 
@@ -2761,7 +2586,6 @@ Verhandlungsunfähigkeit des Täters undurchführbar ist.
 
 (2) Dasselbe gilt für die Entziehung der Fahrerlaubnis und das
 Berufsverbot.
-
 
 ###### § 72 Verbindung von Maßregeln
 
@@ -2779,10 +2603,7 @@ des Vollzugs einer Maßregel ordnet das Gericht jeweils den Vollzug der
 nächsten an, wenn deren Zweck die Unterbringung noch erfordert. § 67c
 Abs. 2 Satz 4 und 5 ist anzuwenden.
 
-
 #### Siebenter Titel - Verfall und Einziehung
-
-
 
 ##### § 73 Voraussetzungen des Verfalls
 
@@ -2806,7 +2627,6 @@ Verfalls nach den Absätzen 1 und 2 gegen ihn.
 Dritten gehört oder zusteht, der ihn für die Tat oder sonst in
 Kenntnis der Tatumstände gewährt hat.
 
-
 ##### § 73a Verfall des Wertersatzes
 
 Soweit der Verfall eines bestimmten Gegenstandes wegen der
@@ -2818,13 +2638,11 @@ Anordnung trifft das Gericht auch neben dem Verfall eines
 Gegenstandes, soweit dessen Wert hinter dem Wert des zunächst
 Erlangten zurückbleibt.
 
-
 ##### § 73b Schätzung
 
 Der Umfang des Erlangten und dessen Wert sowie die Höhe des Anspruchs,
 dessen Erfüllung dem Täter oder Teilnehmer das aus der Tat Erlangte
 entziehen würde, können geschätzt werden.
-
 
 ##### § 73c Härtevorschrift
 
@@ -2836,7 +2654,6 @@ geringen Wert hat.
 
 (2) Für die Bewilligung von Zahlungserleichterungen gilt § 42
 entsprechend.
-
 
 ##### § 73d Erweiterter Verfall
 
@@ -2862,7 +2679,6 @@ bereits ergangene Anordnung.
 
 (4) § 73c gilt entsprechend.
 
-
 ##### § 73e Wirkung des Verfalls
 
 (1) Wird der Verfall eines Gegenstandes angeordnet, so geht das
@@ -2874,7 +2690,6 @@ bleiben bestehen.
 (2) Vor der Rechtskraft wirkt die Anordnung als Veräußerungsverbot im
 Sinne des § 136 des Bürgerlichen Gesetzbuches; das Verbot umfaßt auch
 andere Verfügungen als Veräußerungen.
-
 
 ##### § 74 Voraussetzungen der Einziehung
 
@@ -2904,7 +2719,6 @@ hat.
 hinaus vorgeschrieben oder zugelassen, so gelten die Absätze 2 und 3
 entsprechend.
 
-
 ##### § 74a Erweiterte Voraussetzungen der Einziehung
 
 Verweist das Gesetz auf diese Vorschrift, so dürfen die Gegenstände
@@ -2918,10 +2732,6 @@ derjenige, dem sie zur Zeit der Entscheidung gehören oder zustehen,
 
 2.  die Gegenstände in Kenntnis der Umstände, welche die Einziehung
     zugelassen hätten, in verwerflicher Weise erworben hat.
-
-
-
-
 
 ##### § 74b Grundsatz der Verhältnismäßigkeit
 
@@ -2954,7 +2764,6 @@ an.
 (3) Ist die Einziehung nicht vorgeschrieben, so kann sie auf einen
 Teil der Gegenstände beschränkt werden.
 
-
 ##### § 74c Einziehung des Wertersatzes
 
 (1) Hat der Täter oder Teilnehmer den Gegenstand, der ihm zur Zeit der
@@ -2977,7 +2786,6 @@ Wertersatzes nach dem Wert der Belastung des Gegenstandes.
 (3) Der Wert des Gegenstandes und der Belastung kann geschätzt werden.
 
 (4) Für die Bewilligung von Zahlungserleichterungen gilt § 42.
-
 
 ##### § 74d Einziehung von Schriften und Unbrauchbarmachung
 
@@ -3020,7 +2828,6 @@ zugänglich gemacht wird.
 
 (5) § 74b Abs. 2 und 3 gilt entsprechend.
 
-
 ##### § 74e Wirkung der Einziehung
 
 (1) Wird ein Gegenstand eingezogen, so geht das Eigentum an der Sache
@@ -3037,7 +2844,6 @@ anordnen, wenn diesem eine Entschädigung nach § 74f Abs. 2 Nr. 1 oder
 (3) § 73e Abs. 2 gilt entsprechend für die Anordnung der Einziehung
 und die Anordnung des Vorbehalts der Einziehung, auch wenn sie noch
 nicht rechtskräftig ist.
-
 
 ##### § 74f Entschädigung
 
@@ -3070,7 +2876,6 @@ Berücksichtigung des Verkehrswertes angemessen in Geld entschädigt.
 
 (3) In den Fällen des Absatzes 2 kann eine Entschädigung gewährt
 werden, soweit es eine unbillige Härte wäre, sie zu versagen.
-
 
 ##### § 75 Sondervorschrift für Organe und Vertreter
 
@@ -3108,10 +2913,7 @@ Entschädigung begründen würde, so wird seine Handlung bei Anwendung
 dieser Vorschriften dem Vertretenen zugerechnet. § 14 Abs. 3 gilt
 entsprechend.
 
-
 ##### Gemeinsame Vorschriften -
-
-
 
 ###### § 76 Nachträgliche Anordnung von Verfall oder Einziehung des Wertersatzes
 
@@ -3120,7 +2922,6 @@ nicht ausführbar oder unzureichend, weil nach der Anordnung eine der
 in §§ 73a, 73d Abs. 2 oder § 74c bezeichneten Voraussetzungen
 eingetreten oder bekanntgeworden ist, so kann das Gericht den Verfall
 oder die Einziehung des Wertersatzes nachträglich anordnen.
-
 
 ###### § 76a Selbständige Anordnung
 
@@ -3150,10 +2951,7 @@ oder wenn das Verfahren nach einer Vorschrift eingestellt wird, die
 dies nach dem Ermessen der Staatsanwaltschaft oder des Gerichts oder
 im Einvernehmen beider zuläßt.
 
-
 ### Vierter Abschnitt - Strafantrag, Ermächtigung, Strafverlangen
-
-
 
 #### § 77 Antragsberechtigte
 
@@ -3179,7 +2977,6 @@ Person des Antragsberechtigten zusteht, den Antrag stellen.
 (4) Sind mehrere antragsberechtigt, so kann jeder den Antrag
 selbständig stellen.
 
-
 #### § 77a Antrag des Dienstvorgesetzten
 
 (1) Ist die Tat von einem Amtsträger, einem für den öffentlichen
@@ -3202,7 +2999,6 @@ antragsberechtigt.
 (4) Bei Mitgliedern der Bundesregierung ist die Bundesregierung, bei
 Mitgliedern einer Landesregierung die Landesregierung
 antragsberechtigt.
-
 
 #### § 77b Antragsfrist
 
@@ -3232,7 +3028,6 @@ Sühneversuchs gemäß § 380 der Strafprozeßordnung bei der
 Vergleichsbehörde eingeht, bis zur Ausstellung der Bescheinigung nach
 § 380 Abs. 1 Satz 3 der Strafprozeßordnung.
 
-
 #### § 77c Wechselseitig begangene Taten
 
 Hat bei wechselseitig begangenen Taten, die miteinander zusammenhängen
@@ -3241,7 +3036,6 @@ Strafverfolgung des anderen beantragt, so erlischt das Antragsrecht
 des anderen, wenn er es nicht bis zur Beendigung des letzten Wortes im
 ersten Rechtszug ausübt. Er kann den Antrag auch dann noch stellen,
 wenn für ihn die Antragsfrist schon verstrichen ist.
-
 
 #### § 77d Zurücknahme des Antrags
 
@@ -3257,20 +3051,14 @@ zurücknehmen. Mehrere Angehörige des gleichen Ranges können das Recht
 nur gemeinsam ausüben. Wer an der Tat beteiligt ist, kann den Antrag
 nicht zurücknehmen.
 
-
 #### § 77e Ermächtigung und Strafverlangen
 
 Ist eine Tat nur mit Ermächtigung oder auf Strafverlangen verfolgbar,
 so gelten die §§ 77 und 77d entsprechend.
 
-
 ### Fünfter Abschnitt - Verjährung
 
-
-
 #### Erster Titel - Verfolgungsverjährung
-
-
 
 ##### § 78 Verjährungsfrist
 
@@ -3308,13 +3096,11 @@ Tatbestand die Tat verwirklicht, ohne Rücksicht auf Schärfungen oder
 Milderungen, die nach den Vorschriften des Allgemeinen Teils oder für
 besonders schwere oder minder schwere Fälle vorgesehen sind.
 
-
 ##### § 78a Beginn
 
 Die Verjährung beginnt, sobald die Tat beendet ist. Tritt ein zum
 Tatbestand gehörender Erfolg erst später ein, so beginnt die
 Verjährung mit diesem Zeitpunkt.
-
 
 ##### § 78b Ruhen
 
@@ -3393,7 +3179,6 @@ Mitgliedstaaten (ABl. EG Nr. L 190 S. 1) oder auf Grund
 völkerrechtlicher Vereinbarung eine § 83c des Gesetzes über die
 internationale Rechtshilfe in Strafsachen vergleichbare
 Fristenregelung besteht.
-
 
 ##### § 78c Unterbrechung
 
@@ -3481,10 +3266,7 @@ Inkrafttreten des neuen Rechts vorgenommen worden sind, wirksam, auch
 wenn im Zeitpunkt der Unterbrechung die Verfolgung nach dem neuen
 Recht bereits verjährt gewesen wäre.
 
-
 #### Zweiter Titel - Vollstreckungsverjährung
-
-
 
 ##### § 79 Verjährungsfrist
 
@@ -3540,7 +3322,6 @@ nicht.
 
 (6) Die Verjährung beginnt mit der Rechtskraft der Entscheidung.
 
-
 ##### § 79a Ruhen
 
 Die Verjährung ruht,
@@ -3569,10 +3350,6 @@ Die Verjährung ruht,
 3.  solange der Verurteilte im In- oder Ausland auf behördliche Anordnung
     in einer Anstalt verwahrt wird.
 
-
-
-
-
 ##### § 79b Verlängerung
 
 Das Gericht kann die Verjährungsfrist vor ihrem Ablauf auf Antrag der
@@ -3581,18 +3358,11 @@ Verjährungsfrist verlängern, wenn der Verurteilte sich in einem Gebiet
 aufhält, aus dem seine Auslieferung oder Überstellung nicht erreicht
 werden kann.
 
-
 ## Besonderer Teil -
-
-
 
 ### Erster Abschnitt - Friedensverrat, Hochverrat und Gefährdung des demokratischen Rechtsstaates
 
-
-
 #### Erster Titel - Friedensverrat
-
-
 
 ##### § 80 Vorbereitung eines Angriffskrieges
 
@@ -3602,7 +3372,6 @@ dadurch die Gefahr eines Krieges für die Bundesrepublik Deutschland
 herbeiführt, wird mit lebenslanger Freiheitsstrafe oder mit
 Freiheitsstrafe nicht unter zehn Jahren bestraft.
 
-
 ##### § 80a Aufstacheln zum Angriffskrieg
 
 Wer im räumlichen Geltungsbereich dieses Gesetzes öffentlich, in einer
@@ -3610,10 +3379,7 @@ Versammlung oder durch Verbreiten von Schriften (§ 11 Abs. 3) zum
 Angriffskrieg (§ 80) aufstachelt, wird mit Freiheitsstrafe von drei
 Monaten bis zu fünf Jahren bestraft.
 
-
 #### Zweiter Titel - Hochverrat
-
-
 
 ##### § 81 Hochverrat gegen den Bund
 
@@ -3632,7 +3398,6 @@ unter zehn Jahren bestraft.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von einem
 Jahr bis zu zehn Jahren.
-
 
 ##### § 82 Hochverrat gegen ein Land
 
@@ -3653,7 +3418,6 @@ wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
 
-
 ##### § 83 Vorbereitung eines hochverräterischen Unternehmens
 
 (1) Wer ein bestimmtes hochverräterisches Unternehmen gegen den Bund
@@ -3664,7 +3428,6 @@ bis zu fünf Jahren bestraft.
 (2) Wer ein bestimmtes hochverräterisches Unternehmen gegen ein Land
 vorbereitet, wird mit Freiheitsstrafe von drei Monaten bis zu fünf
 Jahren bestraft.
-
 
 ##### § 83a Tätige Reue
 
@@ -3685,10 +3448,7 @@ wenn er freiwillig die Vollendung der Tat verhindert.
 wesentlich gemindert oder die Vollendung der Tat verhindert, so genügt
 sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
-
 #### Dritter Titel - Gefährdung des demokratischen Rechtsstaates
-
-
 
 ##### § 84 Fortführung einer für verfassungswidrig erklärten Partei
 
@@ -3734,7 +3494,6 @@ freiwillig und ernsthaft bemüht, das Fortbestehen der Partei zu
 verhindern; erreicht er dieses Ziel oder wird es ohne sein Bemühen
 erreicht, so wird der Täter nicht bestraft.
 
-
 ##### § 85 Verstoß gegen ein Vereinigungsverbot
 
 (1) Wer als Rädelsführer oder Hintermann im räumlichen Geltungsbereich
@@ -3762,7 +3521,6 @@ organisatorischen Zusammenhalt unterstützt, wird mit Freiheitsstrafe
 bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (3) § 84 Abs. 4 und 5 gilt entsprechend.
-
 
 ##### § 86 Verbreiten von Propagandamitteln verfassungswidriger Organisationen
 
@@ -3810,7 +3568,6 @@ Geschichte oder ähnlichen Zwecken dient.
 (4) Ist die Schuld gering, so kann das Gericht von einer Bestrafung
 nach dieser Vorschrift absehen.
 
-
 ##### § 86a Verwenden von Kennzeichen verfassungswidriger Organisationen
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
@@ -3836,7 +3593,6 @@ genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln
 ähnlich sind.
 
 (3) § 86 Abs. 3 und 4 gilt entsprechend.
-
 
 ##### § 87 Agententätigkeit zu Sabotagezwecken
 
@@ -3897,7 +3653,6 @@ Wissen so rechtzeitig einer Dienststelle offenbart, daß
 Sabotagehandlungen, deren Planung er kennt, noch verhindert werden
 können.
 
-
 ##### § 88 Verfassungsfeindliche Sabotage
 
 (1) Wer als Rädelsführer oder Hintermann einer Gruppe oder, ohne mit
@@ -3930,7 +3685,6 @@ bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 ##### § 89 Verfassungsfeindliche Einwirkung auf Bundeswehr und öffentliche Sicherheitsorgane
 
 (1) Wer auf Angehörige der Bundeswehr oder eines öffentlichen
@@ -3945,7 +3699,6 @@ bestraft.
 (2) Der Versuch ist strafbar.
 
 (3) § 86 Abs. 4 gilt entsprechend.
-
 
 ##### § 89a Vorbereitung einer schweren staatsgefährdenden Gewalttat
 
@@ -4023,7 +3776,6 @@ Vollendung der schweren staatsgefährdenden Gewalttat verhindert,
 genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu
 erreichen.
 
-
 ##### § 89b Aufnahme von Beziehungen zur Begehung einer schweren staatsgefährdenden Gewalttat
 
 (1) Wer in der Absicht, sich in der Begehung einer schweren
@@ -4057,7 +3809,6 @@ der Justiz
 (5) Ist die Schuld gering, so kann das Gericht von einer Bestrafung
 nach dieser Vorschrift absehen.
 
-
 ##### § 90 Verunglimpfung des Bundespräsidenten
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten von
@@ -4074,7 +3825,6 @@ sich durch die Tat absichtlich für Bestrebungen gegen den Bestand der
 Bundesrepublik Deutschland oder gegen Verfassungsgrundsätze einsetzt.
 
 (4) Die Tat wird nur mit Ermächtigung des Bundespräsidenten verfolgt.
-
 
 ##### § 90a Verunglimpfung des Staates und seiner Symbole
 
@@ -4106,7 +3856,6 @@ wenn der Täter sich durch die Tat absichtlich für Bestrebungen gegen
 den Bestand der Bundesrepublik Deutschland oder gegen
 Verfassungsgrundsätze einsetzt.
 
-
 ##### § 90b Verfassungsfeindliche Verunglimpfung von Verfassungsorganen
 
 (1) Wer öffentlich, in einer Versammlung oder durch Verbreiten von
@@ -4120,7 +3869,6 @@ drei Monaten bis zu fünf Jahren bestraft.
 
 (2) Die Tat wird nur mit Ermächtigung des betroffenen
 Verfassungsorgans oder Mitglieds verfolgt.
-
 
 ##### § 91 Anleitung zur Begehung einer schweren staatsgefährdenden Gewalttat
 
@@ -4158,17 +3906,13 @@ bestraft, wer
 (3) Ist die Schuld gering, so kann das Gericht von einer Bestrafung
 nach dieser Vorschrift absehen.
 
-
 ##### § 91a Anwendungsbereich
 
 Die §§ 84, 85 und 87 gelten nur für Taten, die durch eine im
 räumlichen Geltungsbereich dieses Gesetzes ausgeübte Tätigkeit
 begangen werden.
 
-
 #### Vierter Titel - Gemeinsame Vorschriften
-
-
 
 ##### § 92 Begriffsbestimmungen
 
@@ -4222,10 +3966,6 @@ Gebiet abtrennt.
     Träger darauf hinarbeiten, einen Verfassungsgrundsatz (Absatz 2) zu
     beseitigen, außer Geltung zu setzen oder zu untergraben.
 
-
-
-
-
 ##### § 92a Nebenfolgen
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
@@ -4233,7 +3973,6 @@ Straftat nach diesem Abschnitt kann das Gericht die Fähigkeit,
 öffentliche Ämter zu bekleiden, die Fähigkeit, Rechte aus öffentlichen
 Wahlen zu erlangen, und das Recht, in öffentlichen Angelegenheiten zu
 wählen oder zu stimmen, aberkennen (§ 45 Abs. 2 und 5).
-
 
 ##### § 92b Einziehung
 
@@ -4250,10 +3989,7 @@ Ist eine Straftat nach diesem Abschnitt begangen worden, so können
 
 eingezogen werden. § 74a ist anzuwenden.
 
-
 ### Zweiter Abschnitt - Landesverrat und Gefährdung der äußeren Sicherheit
-
-
 
 #### § 93 Begriff des Staatsgeheimnisses
 
@@ -4267,7 +4003,6 @@ Deutschland abzuwenden.
 oder unter Geheimhaltung gegenüber den Vertragspartnern der
 Bundesrepublik Deutschland gegen zwischenstaatlich vereinbarte
 Rüstungsbeschränkungen verstoßen, sind keine Staatsgeheimnisse.
-
 
 #### § 94 Landesverrat
 
@@ -4297,10 +4032,6 @@ besonders schwerer Fall liegt in der Regel vor, wenn der Täter
 2.  durch die Tat die Gefahr eines besonders schweren Nachteils für die
     äußere Sicherheit der Bundesrepublik Deutschland herbeiführt.
 
-
-
-
-
 #### § 95 Offenbaren von Staatsgeheimnissen
 
 (1) Wer ein Staatsgeheimnis, das von einer amtlichen Stelle oder auf
@@ -4316,7 +4047,6 @@ bedroht ist.
 (3) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von
 einem Jahr bis zu zehn Jahren. § 94 Abs. 2 Satz 2 ist anzuwenden.
 
-
 #### § 96 Landesverräterische Ausspähung; Auskundschaften von Staatsgeheimnissen
 
 (1) Wer sich ein Staatsgeheimnis verschafft, um es zu verraten (§ 94),
@@ -4326,7 +4056,6 @@ wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 auf deren Veranlassung geheimgehalten wird, verschafft, um es zu
 offenbaren (§ 95), wird mit Freiheitsstrafe von sechs Monaten bis zu
 fünf Jahren bestraft. Der Versuch ist strafbar.
-
 
 #### § 97 Preisgabe von Staatsgeheimnissen
 
@@ -4347,7 +4076,6 @@ mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (3) Die Tat wird nur mit Ermächtigung der Bundesregierung verfolgt.
 
-
 #### § 97a Verrat illegaler Geheimnisse
 
 Wer ein Geheimnis, das wegen eines der in § 93 Abs. 2 bezeichneten
@@ -4357,7 +4085,6 @@ Nachteils für die äußere Sicherheit der Bundesrepublik Deutschland
 herbeiführt, wird wie ein Landesverräter (§ 94) bestraft. § 96 Abs. 1
 in Verbindung mit § 94 Abs. 1 Nr. 1 ist auf Geheimnisse der in Satz 1
 bezeichneten Art entsprechend anzuwenden.
-
 
 #### § 97b Verrat in irriger Annahme eines illegalen Geheimnisses
 
@@ -4389,7 +4116,6 @@ Abhilfe angerufen hat. Dies gilt für die für den öffentlichen Dienst
 besonders Verpflichteten und für Personen, die im Sinne des § 353b
 Abs. 2 verpflichtet worden sind, sinngemäß.
 
-
 #### § 98 Landesverräterische Agententätigkeit
 
 (1) Wer
@@ -4417,7 +4143,6 @@ Satz 1 von der fremden Macht oder einem ihrer Mittelsmänner zu seinem
 Verhalten gedrängt worden, so wird er nach dieser Vorschrift nicht
 bestraft, wenn er freiwillig sein Verhalten aufgibt und sein Wissen
 unverzüglich einer Dienststelle offenbart.
-
 
 #### § 99 Geheimdienstliche Agententätigkeit
 
@@ -4457,7 +4182,6 @@ Veranlassung geheimgehalten werden, mitteilt oder liefert und wenn er
 
 (3) § 98 Abs. 2 gilt entsprechend.
 
-
 #### § 100 Friedensgefährdende Beziehungen
 
 (1) Wer als Deutscher, der seine Lebensgrundlage im räumlichen
@@ -4476,7 +4200,6 @@ Deutschland herbeiführt.
 
 (3) In minder schweren Fällen ist die Strafe Freiheitsstrafe von einem
 Jahr bis zu fünf Jahren.
-
 
 #### § 100a Landesverräterische Fälschung
 
@@ -4508,7 +4231,6 @@ wenn der Täter durch die Tat einen besonders schweren Nachteil für die
 äußere Sicherheit oder die Beziehungen der Bundesrepublik Deutschland
 zu einer fremden Macht herbeiführt.
 
-
 #### § 101 Nebenfolgen
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
@@ -4517,7 +4239,6 @@ Fähigkeit, öffentliche Ämter zu bekleiden, die Fähigkeit, Rechte aus
 öffentlichen Wahlen zu erlangen, und das Recht, in öffentlichen
 Angelegenheiten zu wählen oder zu stimmen, aberkennen (§ 45 Abs. 2 und
 5).
-
 
 #### § 101a Einziehung
 
@@ -4539,10 +4260,7 @@ Nachteils für die äußere Sicherheit der Bundesrepublik Deutschland
 abzuwenden; dies gilt auch dann, wenn der Täter ohne Schuld gehandelt
 hat.
 
-
 ### Dritter Abschnitt - Straftaten gegen ausländische Staaten
-
-
 
 #### § 102 Angriff gegen Organe und Vertreter ausländischer Staaten
 
@@ -4560,7 +4278,6 @@ Rechte aus öffentlichen Wahlen zu erlangen, und das Recht, in
 öffentlichen Angelegenheiten zu wählen oder zu stimmen, aberkennen (§
 45 Abs. 2 und 5).
 
-
 #### § 103 Beleidigung von Organen und Vertretern ausländischer Staaten
 
 (1) Wer ein ausländisches Staatsoberhaupt oder wer mit Beziehung auf
@@ -4576,7 +4293,6 @@ von Schriften (§ 11 Abs. 3) begangen, so ist § 200 anzuwenden. Den
 Antrag auf Bekanntgabe der Verurteilung kann auch der Staatsanwalt
 stellen.
 
-
 #### § 104 Verletzung von Flaggen und Hoheitszeichen ausländischer Staaten
 
 (1) Wer eine auf Grund von Rechtsvorschriften oder nach anerkanntem
@@ -4589,7 +4305,6 @@ mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 #### § 104a Voraussetzungen der Strafverfolgung
 
 Straftaten nach diesem Abschnitt werden nur verfolgt, wenn die
@@ -4599,10 +4314,7 @@ Zeit der Tat verbürgt war, ein Strafverlangen der ausländischen
 Regierung vorliegt und die Bundesregierung die Ermächtigung zur
 Strafverfolgung erteilt.
 
-
 ### Vierter Abschnitt - Straftaten gegen Verfassungsorgane sowie bei Wahlen und Abstimmungen
-
-
 
 #### § 105 Nötigung von Verfassungsorganen
 
@@ -4625,7 +4337,6 @@ Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
-
 
 #### § 106 Nötigung des Bundespräsidenten und von Mitgliedern eines Verfassungsorgans
 
@@ -4660,11 +4371,9 @@ Jahren bestraft.
 (3) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von
 einem Jahr bis zu zehn Jahren.
 
-
 #### § 106a (weggefallen)
 
 -
-
 
 #### § 106b Störung der Tätigkeit eines Gesetzgebungsorgans
 
@@ -4683,7 +4392,6 @@ Gesetzgebungsorgans eines Landes oder seines Präsidenten weder für die
 Mitglieder der Gesetzgebungsorgane dieses Landes noch für die
 Mitglieder der Landesregierung und ihre Beauftragten.
 
-
 #### § 107 Wahlbehinderung
 
 (1) Wer mit Gewalt oder durch Drohung mit Gewalt eine Wahl oder die
@@ -4692,7 +4400,6 @@ Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe, in besonders
 schweren Fällen mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 107a Wahlfälschung
 
@@ -4704,7 +4411,6 @@ zu fünf Jahren oder mit Geldstrafe bestraft.
 verkündet oder verkünden läßt.
 
 (3) Der Versuch ist strafbar.
-
 
 #### § 107b Fälschung von Wahlunterlagen
 
@@ -4735,14 +4441,12 @@ anderen Vorschriften mit schwererer Strafe bedroht ist.
 Ausstellung der Wahlunterlagen für die Urwahlen in der
 Sozialversicherung.
 
-
 #### § 107c Verletzung des Wahlgeheimnisses
 
 Wer einer dem Schutz des Wahlgeheimnisses dienenden Vorschrift in der
 Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu
 verschaffen, wie jemand gewählt hat, wird mit Freiheitsstrafe bis zu
 zwei Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 108 Wählernötigung
 
@@ -4756,7 +4460,6 @@ Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 #### § 108a Wählertäuschung
 
 (1) Wer durch Täuschung bewirkt, daß jemand bei der Stimmabgabe über
@@ -4765,7 +4468,6 @@ ungültig wählt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
 Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 108b Wählerbestechung
 
@@ -4778,7 +4480,6 @@ Geldstrafe bestraft.
 bestimmten Sinne wähle, Geschenke oder andere Vorteile fordert, sich
 versprechen läßt oder annimmt.
 
-
 #### § 108c Nebenfolgen
 
 Neben einer Freiheitsstrafe von mindestens sechs Monaten wegen einer
@@ -4786,7 +4487,6 @@ Straftat nach den §§ 107, 107a, 108 und 108b kann das Gericht die
 Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, und das Recht,
 in öffentlichen Angelegenheiten zu wählen oder zu stimmen, aberkennen
 (§ 45 Abs. 2 und 5).
-
 
 #### § 108d Geltungsbereich
 
@@ -4796,7 +4496,6 @@ Wahlen und Abstimmungen des Volkes im Bund, in den Ländern, Gemeinden
 und Gemeindeverbänden sowie für Urwahlen in der Sozialversicherung.
 Einer Wahl oder Abstimmung steht das Unterschreiben eines
 Wahlvorschlags oder das Unterschreiben für ein Volksbegehren gleich.
-
 
 #### § 108e Abgeordnetenbestechung
 
@@ -4811,10 +4510,7 @@ einer Straftat nach Absatz 1 kann das Gericht die Fähigkeit, Rechte
 aus öffentlichen Wahlen zu erlangen, und das Recht, in öffentlichen
 Angelegenheiten zu wählen oder zu stimmen, aberkennen.
 
-
 ### Fünfter Abschnitt - Straftaten gegen die Landesverteidigung
-
-
 
 #### § 109 Wehrpflichtentziehung durch Verstümmelung
 
@@ -4829,7 +4525,6 @@ Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 109a Wehrpflichtentziehung durch Täuschung
 
 (1) Wer sich oder einen anderen durch arglistige, auf Täuschung
@@ -4840,9 +4535,7 @@ Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 #### (XXXX) §§ 109b und 109c (weggefallen)
-
 
 #### § 109d Störpropaganda gegen die Bundeswehr
 
@@ -4855,7 +4548,6 @@ zu behindern, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
 Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 109e Sabotagehandlungen an Verteidigungsmitteln
 
@@ -4883,7 +4575,6 @@ fahrlässig herbeiführt, wird mit Freiheitsstrafe bis zu fünf Jahren
 oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen
 Vorschriften mit schwererer Strafe bedroht ist.
 
-
 #### § 109f Sicherheitsgefährdender Nachrichtendienst
 
 (1) Wer für eine Dienststelle, eine Partei oder eine andere
@@ -4910,7 +4601,6 @@ Strafe bedroht ist. Ausgenommen ist eine zur Unterrichtung der
 Funkberichterstattung ausgeübte Tätigkeit.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 109g Sicherheitsgefährdendes Abbilden
 
@@ -4940,7 +4630,6 @@ Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft. Die
 Tat ist jedoch nicht strafbar, wenn der Täter mit Erlaubnis der
 zuständigen Dienststelle gehandelt hat.
 
-
 #### § 109h Anwerben für fremden Wehrdienst
 
 (1) Wer zugunsten einer ausländischen Macht einen Deutschen zum
@@ -4951,7 +4640,6 @@ fünf Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 #### § 109i Nebenfolgen
 
 Neben einer Freiheitsstrafe von mindestens einem Jahr wegen einer
@@ -4959,7 +4647,6 @@ Straftat nach den §§ 109e und 109f kann das Gericht die Fähigkeit,
 öffentliche Ämter zu bekleiden, die Fähigkeit, Rechte aus öffentlichen
 Wahlen zu erlangen, und das Recht, in öffentlichen Angelegenheiten zu
 wählen oder zu stimmen, aberkennen (§ 45 Abs. 2 und 5).
-
 
 #### § 109k Einziehung
 
@@ -4979,15 +4666,11 @@ eingezogen werden. § 74a ist anzuwenden. Gegenstände der in Satz 1 Nr.
 2 eingezogen, wenn das Interesse der Landesverteidigung es erfordert;
 dies gilt auch dann, wenn der Täter ohne Schuld gehandelt hat.
 
-
 ### Sechster Abschnitt - Widerstand gegen die Staatsgewalt
-
-
 
 #### § 110 (weggefallen)
 
 -
-
 
 #### § 111 Öffentliche Aufforderung zu Straftaten
 
@@ -5000,11 +4683,9 @@ Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. Die Strafe darf
 nicht schwerer sein als die, die für den Fall angedroht ist, daß die
 Aufforderung Erfolg hat (Absatz 1); § 49 Abs. 1 Nr. 2 ist anzuwenden.
 
-
 #### § 112 (weggefallen)
 
 -
-
 
 #### § 113 Widerstand gegen Vollstreckungsbeamte
 
@@ -5045,7 +4726,6 @@ die Tat nicht nach dieser Vorschrift strafbar; war ihm dies zuzumuten,
 so kann das Gericht die Strafe nach seinem Ermessen mildern (§ 49 Abs.
 2) oder von einer Bestrafung nach dieser Vorschrift absehen.
 
-
 #### § 114 Widerstand gegen Personen, die Vollstreckungsbeamten gleichstehen
 
 (1) Der Diensthandlung eines Amtsträgers im Sinne des § 113 stehen
@@ -5061,10 +4741,7 @@ gemeiner Gefahr oder Not Hilfeleistende der Feuerwehr, des
 Katastrophenschutzes oder eines Rettungsdienstes durch Gewalt oder
 durch Drohung mit Gewalt behindert oder sie dabei tätlich angreift.
 
-
 #### (XXXX) §§ 115 bis 119 (weggefallen)
-
-
 
 #### § 120 Gefangenenbefreiung
 
@@ -5081,7 +4758,6 @@ Geldstrafe.
 
 (4) Einem Gefangenen im Sinne der Absätze 1 und 2 steht gleich, wer
 sonst auf behördliche Anordnung in einer Anstalt verwahrt wird.
-
 
 #### § 121 Gefangenenmeuterei
 
@@ -5126,15 +4802,11 @@ Beteiligter
 (4) Gefangener im Sinne der Absätze 1 bis 3 ist auch, wer in der
 Sicherungsverwahrung untergebracht ist.
 
-
 #### § 122 (weggefallen)
 
 -
 
-
 ### Siebenter Abschnitt - Straftaten gegen die öffentliche Ordnung
-
-
 
 #### § 123 Hausfriedensbruch
 
@@ -5147,7 +4819,6 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
 
-
 #### § 124 Schwerer Hausfriedensbruch
 
 Wenn sich eine Menschenmenge öffentlich zusammenrottet und in der
@@ -5157,7 +4828,6 @@ befriedete Besitztum eines anderen oder in abgeschlossene Räume,
 welche zum öffentlichen Dienst bestimmt sind, widerrechtlich
 eindringt, so wird jeder, welcher an diesen Handlungen teilnimmt, mit
 Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 125 Landfriedensbruch
 
@@ -5181,7 +4851,6 @@ ist.
 (2) Soweit die in Absatz 1 Nr. 1, 2 bezeichneten Handlungen in § 113
 mit Strafe bedroht sind, gilt § 113 Abs. 3, 4 sinngemäß.
 
-
 #### § 125a Besonders schwerer Fall des Landfriedensbruchs
 
 In besonders schweren Fällen des § 125 Abs. 1 ist die Strafe
@@ -5200,10 +4869,6 @@ schwerer Fall liegt in der Regel vor, wenn der Täter
 
 
 4.  plündert oder bedeutenden Schaden an fremden Sachen anrichtet.
-
-
-
-
 
 #### § 126 Störung des öffentlichen Friedens durch Androhung von Straftaten
 
@@ -5250,7 +4915,6 @@ Geldstrafe bestraft.
 Verwirklichung einer der in Absatz 1 genannten rechtswidrigen Taten
 stehe bevor.
 
-
 #### § 127 Bildung bewaffneter Gruppen
 
 Wer unbefugt eine Gruppe, die über Waffen oder andere gefährliche
@@ -5259,11 +4923,9 @@ Gruppe anschließt, sie mit Waffen oder Geld versorgt oder sonst
 unterstützt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
 Geldstrafe bestraft.
 
-
 #### § 128 (weggefallen)
 
 -
-
 
 #### § 129 Bildung krimineller Vereinigungen
 
@@ -5323,7 +4985,6 @@ wenn der Täter
 erreicht der Täter sein Ziel, das Fortbestehen der Vereinigung zu
 verhindern, oder wird es ohne sein Bemühen erreicht, so wird er nicht
 bestraft.
-
 
 #### § 129a Bildung terroristischer Vereinigungen
 
@@ -5419,7 +5080,6 @@ Fähigkeit, Rechte aus öffentlichen Wahlen zu erlangen, aberkennen (§
 (9) In den Fällen der Absätze 1, 2 und 4 kann das Gericht
 Führungsaufsicht anordnen (§ 68 Abs. 1).
 
-
 #### § 129b Kriminelle und terroristische Vereinigungen im Ausland; Erweiterter Verfall und Einziehung
 
 (1) Die §§ 129 und 129a gelten auch für Vereinigungen im Ausland.
@@ -5439,7 +5099,6 @@ sind und bei Abwägung aller Umstände als verwerflich erscheinen.
 
 (2) In den Fällen der §§ 129 und 129a, jeweils auch in Verbindung mit
 Absatz 1, sind die §§ 73d und 74a anzuwenden.
-
 
 #### § 130 Volksverhetzung
 
@@ -5517,7 +5176,6 @@ billigt, verherrlicht oder rechtfertigt.
 (6) In den Fällen des Absatzes 2, auch in Verbindung mit Absatz 5, und
 in den Fällen der Absätze 3 und 4 gilt § 86 Abs. 3 entsprechend.
 
-
 #### § 130a Anleitung zu Straftaten
 
 (1) Wer eine Schrift (§ 11 Abs. 3), die geeignet ist, als Anleitung zu
@@ -5544,7 +5202,6 @@ um die Bereitschaft anderer zu fördern oder zu wecken, eine solche Tat
 zu begehen.
 
 (3) § 86 Abs. 3 gilt entsprechend.
-
 
 #### § 131 Gewaltdarstellung
 
@@ -5587,14 +5244,12 @@ Person Berechtigte handelt; dies gilt nicht, wenn der Sorgeberechtigte
 durch das Anbieten, Überlassen oder Zugänglichmachen seine
 Erziehungspflicht gröblich verletzt.
 
-
 #### § 132 Amtsanmaßung
 
 Wer unbefugt sich mit der Ausübung eines öffentlichen Amtes befaßt
 oder eine Handlung vornimmt, welche nur kraft eines öffentlichen Amtes
 vorgenommen werden darf, wird mit Freiheitsstrafe bis zu zwei Jahren
 oder mit Geldstrafe bestraft.
-
 
 #### § 132a Mißbrauch von Titeln, Berufsbezeichnungen und Abzeichen
 
@@ -5633,7 +5288,6 @@ Religionsgesellschaften des öffentlichen Rechts.
 allein oder in Verbindung mit Absatz 2 oder 3, bezieht, können
 eingezogen werden.
 
-
 #### § 133 Verwahrungsbruch
 
 (1) Wer Schriftstücke oder andere bewegliche Sachen, die sich in
@@ -5653,7 +5307,6 @@ den öffentlichen Dienst besonders Verpflichteten anvertraut worden
 oder zugänglich geworden ist, wird mit Freiheitsstrafe bis zu fünf
 Jahren oder mit Geldstrafe bestraft.
 
-
 #### § 134 Verletzung amtlicher Bekanntmachungen
 
 Wer wissentlich ein dienstliches Schriftstück, das zur Bekanntmachung
@@ -5661,11 +5314,9 @@ Wer wissentlich ein dienstliches Schriftstück, das zur Bekanntmachung
 verunstaltet, unkenntlich macht oder in seinem Sinn entstellt, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 135 (weggefallen)
 
 -
-
 
 #### § 136 Verstrickungsbruch; Siegelbruch
 
@@ -5687,11 +5338,9 @@ wenn der Täter irrig annimmt, die Diensthandlung sei rechtmäßig.
 
 (4) § 113 Abs. 4 gilt sinngemäß.
 
-
 #### § 137 (weggefallen)
 
 -
-
 
 #### § 138 Nichtanzeige geplanter Straftaten
 
@@ -5760,7 +5409,6 @@ oder der Ausführung der rechtswidrigen Tat glaubhaft erfahren hat,
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-
 #### § 139 Straflosigkeit der Nichtanzeige geplanter Straftaten
 
 (1) Ist in den Fällen des § 138 die Tat nicht versucht worden, so kann
@@ -5805,7 +5453,6 @@ als durch Anzeige abwendet. Unterbleibt die Ausführung oder der Erfolg
 der Tat ohne Zutun des zur Anzeige Verpflichteten, so genügt zu seiner
 Straflosigkeit sein ernsthaftes Bemühen, den Erfolg abzuwenden.
 
-
 #### § 140 Belohnung und Billigung von Straftaten
 
 Wer eine der in § 138 Abs. 1 Nr. 1 bis 4 und in § 126 Abs. 1 genannten
@@ -5826,11 +5473,9 @@ versucht worden ist,
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 141 (weggefallen)
 
 -
-
 
 #### § 142 Unerlaubtes Entfernen vom Unfallort
 
@@ -5882,16 +5527,13 @@ Feststellungen nachträglich ermöglicht (Absatz 3).
 (5) Unfallbeteiligter ist jeder, dessen Verhalten nach den Umständen
 zur Verursachung des Unfalls beigetragen haben kann.
 
-
 #### § 143 (weggefallen)
 
 -
 
-
 #### § 144 (weggefallen)
 
 -
-
 
 #### § 145 Mißbrauch von Notrufen und Beeinträchtigung von Unfallverhütungs- und Nothilfemitteln
 
@@ -5926,7 +5568,6 @@ wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft, wenn die Tat nicht in § 303 oder § 304 mit Strafe bedroht
 ist.
 
-
 #### § 145a Verstoß gegen Weisungen während der Führungsaufsicht
 
 Wer während der Führungsaufsicht gegen eine bestimmte Weisung der in §
@@ -5935,11 +5576,9 @@ Maßregel gefährdet, wird mit Freiheitsstrafe bis zu drei Jahren oder
 mit Geldstrafe bestraft. Die Tat wird nur auf Antrag der
 Aufsichtsstelle (§ 68a) verfolgt.
 
-
 #### § 145b (weggefallen)
 
 -
-
 
 #### § 145c Verstoß gegen das Berufsverbot
 
@@ -5948,7 +5587,6 @@ Gewerbezweig für sich oder einen anderen ausübt oder durch einen
 anderen für sich ausüben läßt, obwohl dies ihm oder dem anderen
 strafgerichtlich untersagt ist, wird mit Freiheitsstrafe bis zu einem
 Jahr oder mit Geldstrafe bestraft.
-
 
 #### § 145d Vortäuschen einer Straftat
 
@@ -6003,10 +5641,7 @@ Gesetzes oder § 31 des Betäubungsmittelgesetzes zu erlangen.
 (4) In minder schweren Fällen des Absatzes 3 ist die Strafe
 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
 ### Achter Abschnitt - Geld- und Wertzeichenfälschung
-
-
 
 #### § 146 Geldfälschung
 
@@ -6037,7 +5672,6 @@ von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des
 Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu
 erkennen.
 
-
 #### § 147 Inverkehrbringen von Falschgeld
 
 (1) Wer, abgesehen von den Fällen des § 146, falsches Geld als echt in
@@ -6045,7 +5679,6 @@ Verkehr bringt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
 Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 148 Wertzeichenfälschung
 
@@ -6074,7 +5707,6 @@ Verkehr bringt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit
 Geldstrafe bestraft.
 
 (3) Der Versuch ist strafbar.
-
 
 #### § 149 Vorbereitung der Fälschung von Geld und Wertzeichen
 
@@ -6120,7 +5752,6 @@ verhindert, so genügt an Stelle der Voraussetzungen des Absatzes 2 Nr.
 1 das freiwillige und ernsthafte Bemühen des Täters, dieses Ziel zu
 erreichen.
 
-
 #### § 150 Erweiterter Verfall und Einziehung
 
 (1) In den Fällen der §§ 146, 148 Abs. 1, der Vorbereitung einer
@@ -6132,7 +5763,6 @@ hat.
 (2) Ist eine Straftat nach diesem Abschnitt begangen worden, so werden
 das falsche Geld, die falschen oder entwerteten Wertzeichen und die in
 § 149 bezeichneten Fälschungsmittel eingezogen.
-
 
 #### § 151 Wertpapiere
 
@@ -6158,15 +5788,10 @@ Nachahmung besonders gesichert sind:
 
 5.  Reiseschecks.
 
-
-
-
-
 #### § 152 Geld, Wertzeichen und Wertpapiere eines fremden Währungsgebiets
 
 Die §§ 146 bis 151 sind auch auf Geld, Wertzeichen und Wertpapiere
 eines fremden Währungsgebiets anzuwenden.
-
 
 #### § 152a Fälschung von Zahlungskarten, Schecks und Wechseln
 
@@ -6207,7 +5832,6 @@ Jahren.
 (5) § 149, soweit er sich auf die Fälschung von Wertzeichen bezieht,
 und § 150 Abs. 2 gelten entsprechend.
 
-
 #### § 152b Fälschung von Zahlungskarten mit Garantiefunktion und Vordrucken für Euroschecks
 
 (1) Wer eine der in § 152a Abs. 1 bezeichneten Handlungen in Bezug auf
@@ -6239,10 +5863,7 @@ Kreditkarten, Euroscheckkarten und sonstige Karten,
 (5) § 149, soweit er sich auf die Fälschung von Geld bezieht, und §
 150 Abs. 2 gelten entsprechend.
 
-
 ### Neunter Abschnitt - Falsche uneidliche Aussage und Meineid
-
-
 
 #### § 153 Falsche uneidliche Aussage
 
@@ -6250,7 +5871,6 @@ Wer vor Gericht oder vor einer anderen zur eidlichen Vernehmung von
 Zeugen oder Sachverständigen zuständigen Stelle als Zeuge oder
 Sachverständiger uneidlich falsch aussagt, wird mit Freiheitsstrafe
 von drei Monaten bis zu fünf Jahren bestraft.
-
 
 #### § 154 Meineid
 
@@ -6260,7 +5880,6 @@ unter einem Jahr bestraft.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
-
 
 #### § 155 Eidesgleiche Bekräftigungen
 
@@ -6272,17 +5891,12 @@ Dem Eid stehen gleich
 2.  die Berufung auf einen früheren Eid oder auf eine frühere
     Bekräftigung.
 
-
-
-
-
 #### § 156 Falsche Versicherung an Eides Statt
 
 Wer vor einer zur Abnahme einer Versicherung an Eides Statt
 zuständigen Behörde eine solche Versicherung falsch abgibt oder unter
 Berufung auf eine solche Versicherung falsch aussagt, wird mit
 Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 157 Aussagenotstand
 
@@ -6297,7 +5911,6 @@ Maßregel der Besserung und Sicherung unterworfen zu werden.
 (2) Das Gericht kann auch dann die Strafe nach seinem Ermessen mildern
 (§ 49 Abs. 2) oder ganz von Strafe absehen, wenn ein noch nicht
 Eidesmündiger uneidlich falsch ausgesagt hat.
-
 
 #### § 158 Berichtigung einer falschen Angabe
 
@@ -6315,13 +5928,11 @@ Anzeige erstattet oder eine Untersuchung eingeleitet worden ist.
 gemacht worden ist oder die sie im Verfahren zu prüfen hat, sowie bei
 einem Gericht, einem Staatsanwalt oder einer Polizeibehörde erfolgen.
 
-
 #### § 159 Versuch der Anstiftung zur Falschaussage
 
 Für den Versuch der Anstiftung zu einer falschen uneidlichen Aussage
 (§ 153) und einer falschen Versicherung an Eides Statt (§ 156) gelten
 § 30 Abs. 1 und § 31 Abs. 1 Nr. 1 und Abs. 2 entsprechend.
-
 
 #### § 160 Verleitung zur Falschaussage
 
@@ -6334,7 +5945,6 @@ einhundertachtzig Tagessätzen bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 #### § 161 Fahrlässiger Falscheid; fahrlässige falsche Versicherung an Eides Statt
 
 (1) Wenn eine der in den §§ 154 bis 156 bezeichneten Handlungen aus
@@ -6344,7 +5954,6 @@ einem Jahr oder Geldstrafe ein.
 (2) Straflosigkeit tritt ein, wenn der Täter die falsche Angabe
 rechtzeitig berichtigt. Die Vorschriften des § 158 Abs. 2 und 3 gelten
 entsprechend.
-
 
 #### § 162 Internationale Gerichte; nationale Untersuchungsausschüsse
 
@@ -6358,15 +5967,11 @@ Aussagen beziehen, sind auch auf falsche Angaben vor einem
 Untersuchungsausschuss eines Gesetzgebungsorgans des Bundes oder eines
 Landes anzuwenden.
 
-
 #### § 163 (weggefallen)
 
 -
 
-
 ### Zehnter Abschnitt - Falsche Verdächtigung
-
-
 
 #### § 164 Falsche Verdächtigung
 
@@ -6390,7 +5995,6 @@ oder ein Absehen von Strafe nach § 46b dieses Gesetzes oder § 31 des
 Betäubungsmittelgesetzes zu erlangen. In minder schweren Fällen ist
 die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-
 #### § 165 Bekanntgabe der Verurteilung
 
 (1) Ist die Tat nach § 164 öffentlich oder durch Verbreiten von
@@ -6403,10 +6007,7 @@ auf die in § 77 Abs. 2 bezeichneten Angehörigen über. § 77 Abs. 2 bis
 
 (2) Für die Art der Bekanntmachung gilt § 200 Abs. 2 entsprechend.
 
-
 ### Elfter Abschnitt - Straftaten, welche sich auf Religion und Weltanschauung beziehen
-
-
 
 #### § 166 Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigungen
 
@@ -6421,7 +6022,6 @@ Schriften (§ 11 Abs. 3) eine im Inland bestehende Kirche oder andere
 Religionsgesellschaft oder Weltanschauungsvereinigung, ihre
 Einrichtungen oder Gebräuche in einer Weise beschimpft, die geeignet
 ist, den öffentlichen Frieden zu stören.
-
 
 #### § 167 Störung der Religionsausübung
 
@@ -6443,12 +6043,10 @@ bestraft.
 (2) Dem Gottesdienst stehen entsprechende Feiern einer im Inland
 bestehenden Weltanschauungsvereinigung gleich.
 
-
 #### § 167a Störung einer Bestattungsfeier
 
 Wer eine Bestattungsfeier absichtlich oder wissentlich stört, wird mit
 Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 168 Störung der Totenruhe
 
@@ -6464,10 +6062,7 @@ beschädigt oder wer dort beschimpfenden Unfug verübt.
 
 (3) Der Versuch ist strafbar.
 
-
 ### Zwölfter Abschnitt - Straftaten gegen den Personenstand, die Ehe und die Familie
-
-
 
 #### § 169 Personenstandsfälschung
 
@@ -6478,7 +6073,6 @@ unterdrückt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
 Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 170 Verletzung der Unterhaltspflicht
 
@@ -6492,7 +6086,6 @@ diesen Unterhalt in verwerflicher Weise vorenthält und dadurch den
 Schwangerschaftsabbruch bewirkt, wird mit Freiheitsstrafe bis zu fünf
 Jahren oder mit Geldstrafe bestraft.
 
-
 #### § 171 Verletzung der Fürsorge- oder Erziehungspflicht
 
 Wer seine Fürsorge- oder Erziehungspflicht gegenüber einer Person
@@ -6503,13 +6096,11 @@ kriminellen Lebenswandel zu führen oder der Prostitution nachzugehen,
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 172 Doppelehe
 
 Wer eine Ehe schließt, obwohl er verheiratet ist, oder wer mit einem
 Verheirateten eine Ehe schließt, wird mit Freiheitsstrafe bis zu drei
 Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 173 Beischlaf zwischen Verwandten
 
@@ -6526,10 +6117,7 @@ Geschwister bestraft, die miteinander den Beischlaf vollziehen.
 bestraft, wenn sie zur Zeit der Tat noch nicht achtzehn Jahre alt
 waren.
 
-
 ### Dreizehnter Abschnitt - Straftaten gegen die sexuelle Selbstbestimmung
-
-
 
 #### § 174 Sexueller Mißbrauch von Schutzbefohlenen
 
@@ -6574,7 +6162,6 @@ Verbindung mit Absatz 1 Nr. 1 kann das Gericht von einer Bestrafung
 nach dieser Vorschrift absehen, wenn bei Berücksichtigung des
 Verhaltens des Schutzbefohlenen das Unrecht der Tat gering ist.
 
-
 #### § 174a Sexueller Mißbrauch von Gefangenen, behördlich Verwahrten oder Kranken und Hilfsbedürftigen in Einrichtungen
 
 (1) Wer sexuelle Handlungen an einer gefangenen oder auf behördliche
@@ -6593,7 +6180,6 @@ vornehmen läßt.
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 174b Sexueller Mißbrauch unter Ausnutzung einer Amtsstellung
 
 (1) Wer als Amtsträger, der zur Mitwirkung an einem Strafverfahren
@@ -6606,7 +6192,6 @@ vornehmen läßt, wird mit Freiheitsstrafe von drei Monaten bis zu fünf
 Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 174c Sexueller Mißbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses
 
@@ -6625,11 +6210,9 @@ vornehmen läßt.
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 175 (weggefallen)
 
 -
-
 
 #### § 176 Sexueller Mißbrauch von Kindern
 
@@ -6674,7 +6257,6 @@ solchen Tat verabredet.
 
 (6) Der Versuch ist strafbar; dies gilt nicht für Taten nach Absatz 4
 Nr. 3 und 4 und Absatz 5.
-
 
 #### § 176a Schwerer sexueller Mißbrauch von Kindern
 
@@ -6725,14 +6307,12 @@ worden ist, steht in den Fällen des Absatzes 1 einer im Inland
 abgeurteilten Tat gleich, wenn sie nach deutschem Strafrecht eine
 solche nach § 176 Abs. 1 oder 2 wäre.
 
-
 #### § 176b Sexueller Mißbrauch von Kindern mit Todesfolge
 
 Verursacht der Täter durch den sexuellen Mißbrauch (§§ 176 und 176a)
 wenigstens leichtfertig den Tod des Kindes, so ist die Strafe
 lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn
 Jahren.
-
 
 #### § 177 Sexuelle Nötigung; Vergewaltigung
 
@@ -6814,14 +6394,12 @@ von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen der
 Absätze 3 und 4 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren
 zu erkennen.
 
-
 #### § 178 Sexuelle Nötigung und Vergewaltigung mit Todesfolge
 
 Verursacht der Täter durch die sexuelle Nötigung oder Vergewaltigung
 (§ 177) wenigstens leichtfertig den Tod des Opfers, so ist die Strafe
 lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn
 Jahren.
-
 
 #### § 179 Sexueller Mißbrauch widerstandsunfähiger Personen
 
@@ -6874,7 +6452,6 @@ von einem Jahr bis zu zehn Jahren zu erkennen.
 
 (7) § 177 Abs. 4 Nr. 2 und § 178 gelten entsprechend.
 
-
 #### § 180 Förderung sexueller Handlungen Minderjähriger
 
 (1) Wer sexuellen Handlungen einer Person unter sechzehn Jahren an
@@ -6911,7 +6488,6 @@ bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (4) In den Fällen der Absätze 2 und 3 ist der Versuch strafbar.
 
-
 #### § 180a Ausbeutung von Prostituierten
 
 (1) Wer gewerbsmäßig einen Betrieb unterhält oder leitet, in dem
@@ -6929,12 +6505,7 @@ Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 2.  eine andere Person, der er zur Ausübung der Prostitution Wohnung
     gewährt, zur Prostitution anhält oder im Hinblick auf sie ausbeutet.
 
-
-
-
-
 #### (XXXX) §§ 180b und 181 (weggefallen)
-
 
 #### § 181a Zuhälterei
 
@@ -6965,12 +6536,10 @@ die über den Einzelfall hinausgehen.
 Nr. 1 und 2 genannten Handlungen oder die in Absatz 2 bezeichnete
 Förderung gegenüber seinem Ehegatten vornimmt.
 
-
 #### § 181b Führungsaufsicht
 
 In den Fällen der §§ 174 bis 174c, 176 bis 180, 181a und 182 kann das
 Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
-
 
 #### § 181c Vermögensstrafe und Erweiterter Verfall
 
@@ -6978,7 +6547,6 @@ In den Fällen des § 181a Abs. 1 Nr. 2 sind die §§ 43a, 73d anzuwenden,
 wenn der Täter als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch
 dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
-
 
 #### § 182 Sexueller Mißbrauch von Jugendlichen
 
@@ -7030,7 +6598,6 @@ diesen Vorschriften absehen, wenn bei Berücksichtigung des Verhaltens
 der Person, gegen die sich die Tat richtet, das Unrecht der Tat gering
 ist.
 
-
 #### § 183 Exhibitionistische Handlungen
 
 (1) Ein Mann, der eine andere Person durch eine exhibitionistische
@@ -7060,14 +6627,12 @@ exhibitionistischen Handlung
 
 bestraft wird.
 
-
 #### § 183a Erregung öffentlichen Ärgernisses
 
 Wer öffentlich sexuelle Handlungen vornimmt und dadurch absichtlich
 oder wissentlich ein Ärgernis erregt, wird mit Freiheitsstrafe bis zu
 einem Jahr oder mit Geldstrafe bestraft, wenn die Tat nicht in § 183
 mit Strafe bedroht ist.
-
 
 #### § 184 Verbreitung pornographischer Schriften
 
@@ -7135,7 +6700,6 @@ die Handlung im Geschäftsverkehr mit gewerblichen Entleihern erfolgt.
 
 (3) bis (7) (weggefallen)
 
-
 #### § 184a Verbreitung gewalt- oder tierpornographischer Schriften
 
 Wer pornographische Schriften (§ 11 Abs. 3), die Gewalttätigkeiten
@@ -7157,7 +6721,6 @@ oder sexuelle Handlungen von Menschen mit Tieren zum Gegenstand haben,
 
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
-
 
 #### § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Schriften
 
@@ -7206,7 +6769,6 @@ beruflicher Pflichten dienen.
 auf die sich eine Straftat nach Absatz 2 oder Absatz 4 bezieht, werden
 eingezogen. § 74a ist anzuwenden.
 
-
 #### § 184c Verbreitung, Erwerb und Besitz jugendpornographischer Schriften
 
 (1) Wer pornographische Schriften (§ 11 Abs. 3), die sexuelle
@@ -7251,7 +6813,6 @@ der dargestellten Personen hergestellt haben.
 
 (5) § 184b Abs. 5 und 6 gilt entsprechend.
 
-
 #### § 184d Verbreitung pornographischer Darbietungen durch Rundfunk, Medien- oder Teledienste
 
 Nach den §§ 184 bis 184c wird auch bestraft, wer eine pornographische
@@ -7261,7 +6822,6 @@ oder Teledienste nicht anzuwenden, wenn durch technische oder sonstige
 Vorkehrungen sichergestellt ist, dass die pornographische Darbietung
 Personen unter achtzehn Jahren nicht zugänglich ist.
 
-
 #### § 184e Ausübung der verbotenen Prostitution
 
 Wer einem durch Rechtsverordnung erlassenen Verbot, der Prostitution
@@ -7269,7 +6829,6 @@ an bestimmten Orten überhaupt oder zu bestimmten Tageszeiten
 nachzugehen, beharrlich zuwiderhandelt, wird mit Freiheitsstrafe bis
 zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig
 Tagessätzen bestraft.
-
 
 #### § 184f Jugendgefährdende Prostitution
 
@@ -7286,7 +6845,6 @@ Wer der Prostitution
 in einer Weise nachgeht, die diese Personen sittlich gefährdet, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 184g Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
@@ -7302,13 +6860,7 @@ Im Sinne dieses Gesetzes sind
     nur solche, die vor einem anderen vorgenommen werden, der den Vorgang
     wahrnimmt.
 
-
-
-
-
 ### Vierzehnter Abschnitt - Beleidigung
-
-
 
 #### § 185 Beleidigung
 
@@ -7316,7 +6868,6 @@ Die Beleidigung wird mit Freiheitsstrafe bis zu einem Jahr oder mit
 Geldstrafe und, wenn die Beleidigung mittels einer Tätlichkeit
 begangen wird, mit Freiheitsstrafe bis zu zwei Jahren oder mit
 Geldstrafe bestraft.
-
 
 #### § 186 Üble Nachrede
 
@@ -7328,7 +6879,6 @@ Jahr oder mit Geldstrafe und, wenn die Tat öffentlich oder durch
 Verbreiten von Schriften (§ 11 Abs. 3) begangen ist, mit
 Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
-
 #### § 187 Verleumdung
 
 Wer wider besseres Wissen in Beziehung auf einen anderen eine unwahre
@@ -7339,7 +6889,6 @@ Jahren oder mit Geldstrafe und, wenn die Tat öffentlich, in einer
 Versammlung oder durch Verbreiten von Schriften (§ 11 Abs. 3) begangen
 ist, mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 bestraft.
-
 
 #### § 188 Üble Nachrede und Verleumdung gegen Personen des politischen Lebens
 
@@ -7354,12 +6903,10 @@ Monaten bis zu fünf Jahren.
 (2) Eine Verleumdung (§ 187) wird unter den gleichen Voraussetzungen
 mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
 
-
 #### § 189 Verunglimpfung des Andenkens Verstorbener
 
 Wer das Andenken eines Verstorbenen verunglimpft, wird mit
 Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 190 Wahrheitsbeweis durch Strafurteil
 
@@ -7369,11 +6916,9 @@ dieser Tat rechtskräftig verurteilt worden ist. Der Beweis der
 Wahrheit ist dagegen ausgeschlossen, wenn der Beleidigte vor der
 Behauptung oder Verbreitung rechtskräftig freigesprochen worden ist.
 
-
 #### § 191 (weggefallen)
 
 -
-
 
 #### § 192 Beleidigung trotz Wahrheitsbeweises
 
@@ -7381,7 +6926,6 @@ Der Beweis der Wahrheit der behaupteten oder verbreiteten Tatsache
 schließt die Bestrafung nach § 185 nicht aus, wenn das Vorhandensein
 einer Beleidigung aus der Form der Behauptung oder Verbreitung oder
 aus den Umständen, unter welchen sie geschah, hervorgeht.
-
 
 #### § 193 Wahrnehmung berechtigter Interessen
 
@@ -7394,7 +6938,6 @@ Urteile von seiten eines Beamten und ähnliche Fälle sind nur insofern
 strafbar, als das Vorhandensein einer Beleidigung aus der Form der
 Äußerung oder aus den Umständen, unter welchen sie geschah,
 hervorgeht.
-
 
 #### § 194 Strafantrag
 
@@ -7438,16 +6981,12 @@ eines Landes oder eine andere politische Körperschaft im räumlichen
 Geltungsbereich dieses Gesetzes, so wird sie nur mit Ermächtigung der
 betroffenen Körperschaft verfolgt.
 
-
 #### (XXXX) §§ 195 bis 198 (weggefallen)
-
-
 
 #### § 199 Wechselseitig begangene Beleidigungen
 
 Wenn eine Beleidigung auf der Stelle erwidert wird, so kann der
 Richter beide Beleidiger oder einen derselben für straffrei erklären.
-
 
 #### § 200 Bekanntgabe der Verurteilung
 
@@ -7464,10 +7003,7 @@ Zeitschrift aufzunehmen, und zwar, wenn möglich, in dieselbe, in der
 die Beleidigung enthalten war; dies gilt entsprechend, wenn die
 Beleidigung durch Veröffentlichung im Rundfunk begangen ist.
 
-
 ### Fünfzehnter Abschnitt - Verletzung des persönlichen Lebens- und Geheimbereichs
-
-
 
 #### § 201 Verletzung der Vertraulichkeit des Wortes
 
@@ -7512,7 +7048,6 @@ besonders Verpflichteter die Vertraulichkeit des Wortes verletzt
 (5) Die Tonträger und Abhörgeräte, die der Täter oder Teilnehmer
 verwendet hat, können eingezogen werden. § 74a ist anzuwenden.
 
-
 #### § 201a Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen
 
 (1) Wer von einer anderen Person, die sich in einer Wohnung oder einem
@@ -7535,7 +7070,6 @@ Geldstrafe bestraft.
 (4) Die Bildträger sowie Bildaufnahmegeräte oder andere technische
 Mittel, die der Täter oder Teilnehmer verwendet hat, können eingezogen
 werden. § 74a ist anzuwenden.
-
 
 #### § 202 Verletzung des Briefgeheimnisses
 
@@ -7561,7 +7095,6 @@ Kenntnis verschafft, nachdem er dazu das Behältnis geöffnet hat.
 (3) Einem Schriftstück im Sinne der Absätze 1 und 2 steht eine
 Abbildung gleich.
 
-
 #### § 202a Ausspähen von Daten
 
 (1) Wer unbefugt sich oder einem anderen Zugang zu Daten, die nicht
@@ -7574,7 +7107,6 @@ bestraft.
 magnetisch oder sonst nicht unmittelbar wahrnehmbar gespeichert sind
 oder übermittelt werden.
 
-
 #### § 202b Abfangen von Daten
 
 Wer unbefugt sich oder einem anderen unter Anwendung von technischen
@@ -7584,7 +7116,6 @@ Abstrahlung einer Datenverarbeitungsanlage verschafft, wird mit
 Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft, wenn
 die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht
 ist.
-
 
 #### § 202c Vorbereiten des Ausspähens und Abfangens von Daten
 
@@ -7603,7 +7134,6 @@ herstellt, sich oder einem anderen verschafft, verkauft, einem anderen
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (2) § 149 Abs. 2 und 3 gilt entsprechend.
-
 
 #### § 203 Verletzung von Privatgeheimnissen
 
@@ -7712,7 +7242,6 @@ fremde Geheimnis nach dem Tod des Betroffenen unbefugt offenbart.
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist
 die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
 
-
 #### § 204 Verwertung fremder Geheimnisse
 
 (1) Wer unbefugt ein fremdes Geheimnis, namentlich ein Betriebs- oder
@@ -7721,7 +7250,6 @@ ist, verwertet, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit
 Geldstrafe bestraft.
 
 (2) § 203 Abs. 4 gilt entsprechend.
-
 
 #### § 205 Strafantrag
 
@@ -7738,7 +7266,6 @@ des Verletzten, so geht das Antragsrecht bei Straftaten nach den §§
 203 und 204 auf die Erben über. Offenbart oder verwertet der Täter in
 den Fällen der §§ 203 und 204 das Geheimnis nach dem Tod des
 Betroffenen, so gelten die Sätze 1 und 2 sinngemäß.
-
 
 #### § 206 Verletzung des Post- oder Fernmeldegeheimnisses
 
@@ -7798,14 +7325,9 @@ einem Telekommunikationsvorgang beteiligt ist oder war. Das
 Fernmeldegeheimnis erstreckt sich auch auf die näheren Umstände
 erfolgloser Verbindungsversuche.
 
-
 #### (XXXX) §§ 207 bis 210 (weggefallen)
 
-
-
 ### Sechzehnter Abschnitt - Straftaten gegen das Leben
-
-
 
 #### § 211 Mord
 
@@ -7818,7 +7340,6 @@ heimtückisch oder grausam oder mit gemeingefährlichen Mitteln oder
 um eine andere Straftat zu ermöglichen oder zu verdecken,
 einen Menschen tötet.
 
-
 #### § 212 Totschlag
 
 (1) Wer einen Menschen tötet, ohne Mörder zu sein, wird als
@@ -7826,7 +7347,6 @@ Totschläger mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
 
 (2) In besonders schweren Fällen ist auf lebenslange Freiheitsstrafe
 zu erkennen.
-
 
 #### § 213 Minder schwerer Fall des Totschlags
 
@@ -7836,10 +7356,7 @@ getöteten Menschen zum Zorn gereizt und hierdurch auf der Stelle zur
 Tat hingerissen worden oder liegt sonst ein minder schwerer Fall vor,
 so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 
-
 #### (XXXX) §§ 214 und 215 (weggefallen)
-
-
 
 #### § 216 Tötung auf Verlangen
 
@@ -7849,11 +7366,9 @@ sechs Monaten bis zu fünf Jahren zu erkennen.
 
 (2) Der Versuch ist strafbar.
 
-
 #### § 217 (weggefallen)
 
 -
-
 
 #### § 218 Schwangerschaftsabbruch
 
@@ -7881,7 +7396,6 @@ bis zu einem Jahr oder Geldstrafe.
 
 (4) Der Versuch ist strafbar. Die Schwangere wird nicht wegen Versuchs
 bestraft.
-
 
 #### § 218a Straflosigkeit des Schwangerschaftsabbruchs
 
@@ -7925,7 +7439,6 @@ zweiundzwanzig Wochen verstrichen sind. Das Gericht kann von Strafe
 nach § 218 absehen, wenn die Schwangere sich zur Zeit des Eingriffs in
 besonderer Bedrängnis befunden hat.
 
-
 #### § 218b Schwangerschaftsabbruch ohne ärztliche Feststellung; unrichtige ärztliche Feststellung
 
 (1) Wer in den Fällen des § 218a Abs. 2 oder 3 eine Schwangerschaft
@@ -7950,7 +7463,6 @@ Arzt vorläufig untersagen, Feststellungen nach § 218a Abs. 2 und 3 zu
 treffen, wenn gegen ihn wegen des Verdachts einer der in Satz 1
 bezeichneten rechtswidrigen Taten das Hauptverfahren eröffnet worden
 ist.
-
 
 #### § 218c Ärztliche Pflichtverletzung bei einem Schwangerschaftsabbruch
 
@@ -7980,7 +7492,6 @@ bestraft, wenn die Tat nicht in § 218 mit Strafe bedroht ist.
 
 (2) Die Schwangere ist nicht nach Absatz 1 strafbar.
 
-
 #### § 219 Beratung der Schwangeren in einer Not- und Konfliktlage
 
 (1) Die Beratung dient dem Schutz des ungeborenen Lebens. Sie hat sich
@@ -8005,7 +7516,6 @@ hierüber eine mit dem Datum des letzten Beratungsgesprächs und dem
 Namen der Schwangeren versehene Bescheinigung nach Maßgabe des
 Schwangerschaftskonfliktgesetzes auszustellen. Der Arzt, der den
 Abbruch der Schwangerschaft vornimmt, ist als Berater ausgeschlossen.
-
 
 #### § 219a Werbung für den Abbruch der Schwangerschaft
 
@@ -8037,7 +7547,6 @@ Personen, die zum Handel mit den in Absatz 1 Nr. 2 erwähnten Mitteln
 oder Gegenständen befugt sind, oder durch eine Veröffentlichung in
 ärztlichen oder pharmazeutischen Fachblättern begangen wird.
 
-
 #### § 219b Inverkehrbringen von Mitteln zum Abbruch der Schwangerschaft
 
 (1) Wer in der Absicht, rechtswidrige Taten nach § 218 zu fördern,
@@ -8051,26 +7560,21 @@ vorbereitet, ist nicht nach Absatz 1 strafbar.
 (3) Mittel oder Gegenstände, auf die sich die Tat bezieht, können
 eingezogen werden.
 
-
 #### § 219c (weggefallen)
 
 -
-
 
 #### § 219d (weggefallen)
 
 -
 
-
 #### § 220 (weggefallen)
 
 -
 
-
 #### § 220a (weggefallen)
 
 -
-
 
 #### § 221 Aussetzung
 
@@ -8109,16 +7613,12 @@ von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des
 Absatzes 3 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu
 erkennen.
 
-
 #### § 222 Fahrlässige Tötung
 
 Wer durch Fahrlässigkeit den Tod eines Menschen verursacht, wird mit
 Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-
 ### Siebzehnter Abschnitt - Straftaten gegen die körperliche Unversehrtheit
-
-
 
 #### § 223 Körperverletzung
 
@@ -8127,7 +7627,6 @@ Gesundheit schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder
 mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 224 Gefährliche Körperverletzung
 
@@ -8155,7 +7654,6 @@ in minder schweren Fällen mit Freiheitsstrafe von drei Monaten bis zu
 fünf Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 225 Mißhandlung von Schutzbefohlenen
 
@@ -8201,7 +7699,6 @@ von drei Monaten bis zu fünf Jahren, in minder schweren Fällen des
 Absatzes 3 auf Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu
 erkennen.
 
-
 #### § 226 Schwere Körperverletzung
 
 (1) Hat die Körperverletzung zur Folge, daß die verletzte Person
@@ -8230,7 +7727,6 @@ von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des
 Absatzes 2 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu
 erkennen.
 
-
 #### § 227 Körperverletzung mit Todesfolge
 
 (1) Verursacht der Täter durch die Körperverletzung (§§ 223 bis 226)
@@ -8240,20 +7736,17 @@ unter drei Jahren.
 (2) In minder schweren Fällen ist auf Freiheitsstrafe von einem Jahr
 bis zu zehn Jahren zu erkennen.
 
-
 #### § 228 Einwilligung
 
 Wer eine Körperverletzung mit Einwilligung der verletzten Person
 vornimmt, handelt nur dann rechtswidrig, wenn die Tat trotz der
 Einwilligung gegen die guten Sitten verstößt.
 
-
 #### § 229 Fahrlässige Körperverletzung
 
 Wer durch Fahrlässigkeit die Körperverletzung einer anderen Person
 verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit
 Geldstrafe bestraft.
-
 
 #### § 230 Strafantrag
 
@@ -8272,7 +7765,6 @@ Dienst begangen, so wird sie auch auf Antrag des Dienstvorgesetzten
 verfolgt. Dasselbe gilt für Träger von Ämtern der Kirchen und anderen
 Religionsgesellschaften des öffentlichen Rechts.
 
-
 #### § 231 Beteiligung an einer Schlägerei
 
 (1) Wer sich an einer Schlägerei oder an einem von mehreren verübten
@@ -8284,10 +7776,7 @@ schwere Körperverletzung (§ 226) verursacht worden ist.
 (2) Nach Absatz 1 ist nicht strafbar, wer an der Schlägerei oder dem
 Angriff beteiligt war, ohne daß ihm dies vorzuwerfen ist.
 
-
 ### Achtzehnter Abschnitt - Straftaten gegen die persönliche Freiheit
-
-
 
 #### § 232 Menschenhandel zum Zweck der sexuellen Ausbeutung
 
@@ -8341,7 +7830,6 @@ von drei Monaten bis zu fünf Jahren, in minder schweren Fällen der
 Absätze 3 und 4 ist auf Freiheitsstrafe von sechs Monaten bis zu fünf
 Jahren zu erkennen.
 
-
 #### § 233 Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
 
 (1) Wer eine andere Person unter Ausnutzung einer Zwangslage oder der
@@ -8360,7 +7848,6 @@ bezeichneten Beschäftigung bringt.
 (2) Der Versuch ist strafbar.
 
 (3) § 232 Abs. 3 bis 5 gilt entsprechend.
-
 
 #### § 233a Förderung des Menschenhandels
 
@@ -8389,7 +7876,6 @@ erkennen, wenn
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 233b Führungsaufsicht, Erweiterter Verfall
 
 (1) In den Fällen der §§ 232 bis § 233a kann das Gericht
@@ -8398,7 +7884,6 @@ Führungsaufsicht anordnen (§ 68 Abs. 1).
 (2) In den Fällen der §§ 232 bis 233a ist § 73d anzuwenden, wenn der
 Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Taten verbunden hat.
-
 
 #### § 234 Menschenraub
 
@@ -8410,7 +7895,6 @@ Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
-
 
 #### § 234a Verschleppung
 
@@ -8430,7 +7914,6 @@ Monaten bis zu fünf Jahren.
 
 (3) Wer eine solche Tat vorbereitet, wird mit Freiheitsstrafe bis zu
 fünf Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 235 Entziehung Minderjähriger
 
@@ -8491,7 +7974,6 @@ Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses
 an der Strafverfolgung ein Einschreiten von Amts wegen für geboten
 hält.
 
-
 #### § 236 Kinderhandel
 
 (1) Wer sein noch nicht achtzehn Jahre altes Kind oder seinen noch
@@ -8547,7 +8029,6 @@ Kindes oder der vermittelten Person gering ist, die Strafe nach seinem
 Ermessen mildern (§ 49 Abs. 2) oder von Strafe nach den Absätzen 1 bis
 3 absehen.
 
-
 #### § 237 Zwangsheirat
 
 (1) Wer einen Menschen rechtswidrig mit Gewalt oder durch Drohung mit
@@ -8567,7 +8048,6 @@ davon abhält, von dort zurückzukehren.
 
 (4) In minder schweren Fällen ist die Strafe Freiheitsstrafe bis zu
 drei Jahren oder Geldstrafe.
-
 
 #### § 238 Nachstellung
 
@@ -8613,7 +8093,6 @@ es sei denn, dass die Strafverfolgungsbehörde wegen des besonderen
 öffentlichen Interesses an der Strafverfolgung ein Einschreiten von
 Amts wegen für geboten hält.
 
-
 #### § 239 Freiheitsberaubung
 
 (1) Wer einen Menschen einsperrt oder auf andere Weise der Freiheit
@@ -8643,7 +8122,6 @@ von sechs Monaten bis zu fünf Jahren, in minder schweren Fällen des
 Absatzes 4 auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren zu
 erkennen.
 
-
 #### § 239a Erpresserischer Menschenraub
 
 (1) Wer einen Menschen entführt oder sich eines Menschen bemächtigt,
@@ -8666,7 +8144,6 @@ Lebenskreis zurückgelangen läßt. Tritt dieser Erfolg ohne Zutun des
 Täters ein, so genügt sein ernsthaftes Bemühen, den Erfolg zu
 erreichen.
 
-
 #### § 239b Geiselnahme
 
 (1) Wer einen Menschen entführt oder sich eines Menschen bemächtigt,
@@ -8680,12 +8157,10 @@ bestraft.
 
 (2) § 239a Abs. 2 bis 4 gilt entsprechend.
 
-
 #### § 239c Führungsaufsicht
 
 In den Fällen der §§ 239a und 239b kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
-
 
 #### § 240 Nötigung
 
@@ -8712,10 +8187,6 @@ der Regel vor, wenn der Täter
 
 3.  seine Befugnisse oder seine Stellung als Amtsträger mißbraucht.
 
-
-
-
-
 #### § 241 Bedrohung
 
 (1) Wer einen Menschen mit der Begehung eines gegen ihn oder eine ihm
@@ -8725,7 +8196,6 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 (2) Ebenso wird bestraft, wer wider besseres Wissen einem Menschen
 vortäuscht, daß die Verwirklichung eines gegen ihn oder eine ihm
 nahestehende Person gerichteten Verbrechens bevorstehe.
-
 
 #### § 241a Politische Verdächtigung
 
@@ -8750,10 +8220,7 @@ herbeizuführen, oder liegt sonst ein besonders schwerer Fall vor, so
 kann auf Freiheitsstrafe von einem Jahr bis zu zehn Jahren erkannt
 werden.
 
-
 ### Neunzehnter Abschnitt - Diebstahl und Unterschlagung
-
-
 
 #### § 242 Diebstahl
 
@@ -8763,7 +8230,6 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe
 bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 243 Besonders schwerer Fall des Diebstahls
 
@@ -8812,7 +8278,6 @@ besonders schwerer Fall liegt in der Regel vor, wenn der Täter
 schwerer Fall ausgeschlossen, wenn sich die Tat auf eine geringwertige
 Sache bezieht.
 
-
 #### § 244 Diebstahl mit Waffen; Bandendiebstahl; Wohnungseinbruchdiebstahl
 
 (1) Mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren wird
@@ -8851,7 +8316,6 @@ Monaten bis zu fünf Jahren.
 
 (4) In den Fällen des Absatzes 1 Nummer 2 ist § 73d anzuwenden.
 
-
 #### § 244a Schwerer Bandendiebstahl
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
@@ -8866,12 +8330,10 @@ Monaten bis zu fünf Jahren.
 
 (3) Die §§ 43a, 73d sind anzuwenden.
 
-
 #### § 245 Führungsaufsicht
 
 In den Fällen der §§ 242 bis 244a kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
-
 
 #### § 246 Unterschlagung
 
@@ -8885,7 +8347,6 @@ so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 247 Haus- und Familiendiebstahl
 
 Ist durch einen Diebstahl oder eine Unterschlagung ein Angehöriger,
@@ -8893,11 +8354,9 @@ der Vormund oder der Betreuer verletzt oder lebt der Verletzte mit dem
 Täter in häuslicher Gemeinschaft, so wird die Tat nur auf Antrag
 verfolgt.
 
-
 #### § 248 (weggefallen)
 
 -
-
 
 #### § 248a Diebstahl und Unterschlagung geringwertiger Sachen
 
@@ -8906,7 +8365,6 @@ den Fällen der §§ 242 und 246 nur auf Antrag verfolgt, es sei denn,
 daß die Strafverfolgungsbehörde wegen des besonderen öffentlichen
 Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für
 geboten hält.
-
 
 #### § 248b Unbefugter Gebrauch eines Fahrzeugs
 
@@ -8922,7 +8380,6 @@ Vorschriften mit schwererer Strafe bedroht ist.
 (4) Kraftfahrzeuge im Sinne dieser Vorschrift sind die Fahrzeuge, die
 durch Maschinenkraft bewegt werden, Landkraftfahrzeuge nur insoweit,
 als sie nicht an Bahngleise gebunden sind.
-
 
 #### § 248c Entziehung elektrischer Energie
 
@@ -8942,10 +8399,7 @@ einem anderen rechtswidrig Schaden zuzufügen, so ist die Strafe
 Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Die Tat wird nur
 auf Antrag verfolgt.
 
-
 ### Zwanzigster Abschnitt - Raub und Erpressung
-
-
 
 #### § 249 Raub
 
@@ -8957,7 +8411,6 @@ nicht unter einem Jahr bestraft.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
-
 
 #### § 250 Schwerer Raub
 
@@ -9013,7 +8466,6 @@ der Täter oder ein anderer Beteiligter am Raub
 (3) In minder schweren Fällen der Absätze 1 und 2 ist die Strafe
 Freiheitsstrafe von einem Jahr bis zu zehn Jahren.
 
-
 #### § 251 Raub mit Todesfolge
 
 Verursacht der Täter durch den Raub (§§ 249 und 250) wenigstens
@@ -9021,14 +8473,12 @@ leichtfertig den Tod eines anderen Menschen, so ist die Strafe
 lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn
 Jahren.
 
-
 #### § 252 Räuberischer Diebstahl
 
 Wer, bei einem Diebstahl auf frischer Tat betroffen, gegen eine Person
 Gewalt verübt oder Drohungen mit gegenwärtiger Gefahr für Leib oder
 Leben anwendet, um sich im Besitz des gestohlenen Gutes zu erhalten,
 ist gleich einem Räuber zu bestrafen.
-
 
 #### § 253 Erpressung
 
@@ -9050,18 +8500,15 @@ unter einem Jahr. Ein besonders schwerer Fall liegt in der Regel vor,
 wenn der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die
 sich zur fortgesetzten Begehung einer Erpressung verbunden hat.
 
-
 #### § 254 (weggefallen)
 
 -
-
 
 #### § 255 Räuberische Erpressung
 
 Wird die Erpressung durch Gewalt gegen eine Person oder unter
 Anwendung von Drohungen mit gegenwärtiger Gefahr für Leib oder Leben
 begangen, so ist der Täter gleich einem Räuber zu bestrafen.
-
 
 #### § 256 Führungsaufsicht, Vermögensstrafe und Erweiterter Verfall
 
@@ -9073,10 +8520,7 @@ wenn der Täter als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch
 dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
 
-
 ### Einundzwanzigster Abschnitt - Begünstigung und Hehlerei
-
-
 
 #### § 257 Begünstigung
 
@@ -9095,7 +8539,6 @@ der Vortat Unbeteiligten zur Begünstigung anstiftet.
 Strafverlangen verfolgt, wenn der Begünstiger als Täter oder
 Teilnehmer der Vortat nur auf Antrag, mit Ermächtigung oder auf
 Strafverlangen verfolgt werden könnte. § 248a gilt sinngemäß.
-
 
 #### § 258 Strafvereitelung
 
@@ -9121,7 +8564,6 @@ Strafe oder Maßnahme vollstreckt wird.
 
 (6) Wer die Tat zugunsten eines Angehörigen begeht, ist straffrei.
 
-
 #### § 258a Strafvereitelung im Amt
 
 (1) Ist in den Fällen des § 258 Abs. 1 der Täter als Amtsträger zur
@@ -9136,7 +8578,6 @@ drei Jahren oder Geldstrafe.
 
 (3) § 258 Abs. 3 und 6 ist nicht anzuwenden.
 
-
 #### § 259 Hehlerei
 
 (1) Wer eine Sache, die ein anderer gestohlen oder sonst durch eine
@@ -9148,7 +8589,6 @@ mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 (2) Die §§ 247 und 248a gelten sinngemäß.
 
 (3) Der Versuch ist strafbar.
-
 
 #### § 260 Gewerbsmäßige Hehlerei; Bandenhehlerei
 
@@ -9171,7 +8611,6 @@ begeht.
 anzuwenden. § 73d ist auch in den Fällen des Absatzes 1 Nr. 1
 anzuwenden.
 
-
 #### § 260a Gewerbsmäßige Bandenhehlerei
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird
@@ -9183,7 +8622,6 @@ hat, gewerbsmäßig begeht.
 Monaten bis zu fünf Jahren.
 
 (3) Die §§ 43a, 73d sind anzuwenden.
-
 
 #### § 261 Geldwäsche; Verschleierung unrechtmäßig erlangter Vermögenswerte
 
@@ -9309,16 +8747,12 @@ Beteiligung an der Vortat strafbar ist.
 
 (10) (weggefallen)
 
-
 #### § 262 Führungsaufsicht
 
 In den Fällen der §§ 259 bis 261 kann das Gericht Führungsaufsicht
 anordnen (§ 68 Abs. 1).
 
-
 ### Zweiundzwanzigster Abschnitt - Betrug und Untreue
-
-
 
 #### § 263 Betrug
 
@@ -9375,7 +8809,6 @@ einer Bande handelt, die sich zur fortgesetzten Begehung von
 Straftaten nach den §§ 263 bis 264 oder 267 bis 269 verbunden hat. §
 73d ist auch dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
 
-
 #### § 263a Computerbetrug
 
 (1) Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen
@@ -9395,7 +8828,6 @@ einem anderen überlässt, wird mit Freiheitsstrafe bis zu drei Jahren
 oder mit Geldstrafe bestraft.
 
 (4) In den Fällen des Absatzes 3 gilt § 149 Abs. 2 und 3 entsprechend.
-
 
 #### § 264 Subventionsbetrug
 
@@ -9498,10 +8930,6 @@ Betrieb oder Unternehmen im Sinne des Satzes 1 Nr. 1 ist auch das
     oder das Belassen einer Subvention oder eines Subventionsvorteils
     gesetzlich abhängig ist.
 
-
-
-
-
 #### § 264a Kapitalanlagebetrug
 
 (1) Wer im Zusammenhang mit
@@ -9533,7 +8961,6 @@ des Täters nicht erbracht, so wird er straflos, wenn er sich
 freiwillig und ernsthaft bemüht, das Erbringen der Leistung zu
 verhindern.
 
-
 #### § 265 Versicherungsmißbrauch
 
 (1) Wer eine gegen Untergang, Beschädigung, Beeinträchtigung der
@@ -9545,7 +8972,6 @@ Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in § 263 mit
 Strafe bedroht ist.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 265a Erschleichen von Leistungen
 
@@ -9560,7 +8986,6 @@ schwererer Strafe bedroht ist.
 (2) Der Versuch ist strafbar.
 
 (3) Die §§ 247 und 248a gelten entsprechend.
-
 
 #### § 265b Kreditbetrug
 
@@ -9613,10 +9038,6 @@ der Leistung zu verhindern.
     und Schecks und die Übernahme von Bürgschaften, Garantien und
     sonstigen Gewährleistungen.
 
-
-
-
-
 #### § 266 Untreue
 
 (1) Wer die ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft
@@ -9630,7 +9051,6 @@ Geldstrafe bestraft.
 
 (2) § 243 Abs. 2 und die §§ 247, 248a und 263 Abs. 3 gelten
 entsprechend.
-
 
 #### § 266a Vorenthalten und Veruntreuen von Arbeitsentgelt
 
@@ -9704,7 +9124,6 @@ dann nachträglich innerhalb der von der Einzugsstelle bestimmten
 angemessenen Frist entrichtet, wird der Täter insoweit nicht bestraft.
 In den Fällen des Absatzes 3 gelten die Sätze 1 und 2 entsprechend.
 
-
 #### § 266b Mißbrauch von Scheck- und Kreditkarten
 
 (1) Wer die ihm durch die Überlassung einer Scheckkarte oder einer
@@ -9714,10 +9133,7 @@ Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
 (2) § 248a gilt entsprechend.
 
-
 ### Dreiundzwanzigster Abschnitt - Urkundenfälschung
-
-
 
 #### § 267 Urkundenfälschung
 
@@ -9755,7 +9171,6 @@ Jahren wird bestraft, wer die Urkundenfälschung als Mitglied einer
 Bande, die sich zur fortgesetzten Begehung von Straftaten nach den §§
 263 bis 264 oder 267 bis 269 verbunden hat, gewerbsmäßig begeht.
 
-
 #### § 268 Fälschung technischer Aufzeichnungen
 
 (1) Wer zur Täuschung im Rechtsverkehr
@@ -9787,7 +9202,6 @@ Aufzeichnungsvorgang das Ergebnis der Aufzeichnung beeinflußt.
 
 (5) § 267 Abs. 3 und 4 gilt entsprechend.
 
-
 #### § 269 Fälschung beweiserheblicher Daten
 
 (1) Wer zur Täuschung im Rechtsverkehr beweiserhebliche Daten so
@@ -9800,12 +9214,10 @@ Jahren oder mit Geldstrafe bestraft.
 
 (3) § 267 Abs. 3 und 4 gilt entsprechend.
 
-
 #### § 270 Täuschung im Rechtsverkehr bei Datenverarbeitung
 
 Der Täuschung im Rechtsverkehr steht die fälschliche Beeinflussung
 einer Datenverarbeitung im Rechtsverkehr gleich.
-
 
 #### § 271 Mittelbare Falschbeurkundung
 
@@ -9828,11 +9240,9 @@ ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 (4) Der Versuch ist strafbar.
 
-
 #### § 272 (weggefallen)
 
 -
-
 
 #### § 273 Verändern von amtlichen Ausweisen
 
@@ -9852,7 +9262,6 @@ bestraft, wenn die Tat nicht in § 267 oder § 274 mit Strafe bedroht
 ist.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 274 Urkundenunterdrückung; Veränderung einer Grenzbezeichnung
 
@@ -9879,7 +9288,6 @@ bestraft, wer
 
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 275 Vorbereitung der Fälschung von amtlichen Ausweisen
 
@@ -9911,7 +9319,6 @@ Jahren.
 
 (3) § 149 Abs. 2 und 3 gilt entsprechend.
 
-
 #### § 276 Verschaffen von falschen amtlichen Ausweisen
 
 (1) Wer einen unechten oder verfälschten amtlichen Ausweis oder einen
@@ -9935,13 +9342,11 @@ sich zur fortgesetzten Begehung von Straftaten nach Absatz 1 verbunden
 hat, so ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf
 Jahren.
 
-
 #### § 276a Aufenthaltsrechtliche Papiere; Fahrzeugpapiere
 
 Die §§ 275 und 276 gelten auch für aufenthaltsrechtliche Papiere,
 namentlich Aufenthaltstitel und Duldungen, sowie für Fahrzeugpapiere,
 namentlich Fahrzeugscheine und Fahrzeugbriefe.
-
 
 #### § 277 Fälschung von Gesundheitszeugnissen
 
@@ -9953,7 +9358,6 @@ verfälscht und davon zur Täuschung von Behörden oder
 Versicherungsgesellschaften Gebrauch macht, wird mit Freiheitsstrafe
 bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 278 Ausstellen unrichtiger Gesundheitszeugnisse
 
 Ärzte und andere approbierte Medizinalpersonen, welche ein unrichtiges
@@ -9962,7 +9366,6 @@ einer Behörde oder Versicherungsgesellschaft wider besseres Wissen
 ausstellen, werden mit Freiheitsstrafe bis zu zwei Jahren oder mit
 Geldstrafe bestraft.
 
-
 #### § 279 Gebrauch unrichtiger Gesundheitszeugnisse
 
 Wer, um eine Behörde oder eine Versicherungsgesellschaft über seinen
@@ -9970,11 +9373,9 @@ oder eines anderen Gesundheitszustand zu täuschen, von einem Zeugnis
 der in den §§ 277 und 278 bezeichneten Art Gebrauch macht, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 280 (weggefallen)
 
 -
-
 
 #### § 281 Mißbrauch von Ausweispapieren
 
@@ -9986,7 +9387,6 @@ oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
 (2) Einem Ausweispapier stehen Zeugnisse und andere Urkunden gleich,
 die im Verkehr als Ausweis verwendet werden.
-
 
 #### § 282 Vermögensstrafe, Erweiterter Verfall und Einziehung
 
@@ -10001,10 +9401,7 @@ oder nach § 279 bezieht, können eingezogen werden. In den Fällen des §
 275, auch in Verbindung mit § 276a, werden die dort bezeichneten
 Fälschungsmittel eingezogen.
 
-
 ### Vierundzwanzigster Abschnitt - Insolvenzstraftaten
-
-
 
 #### § 283 Bankrott
 
@@ -10108,7 +9505,6 @@ eingestellt hat oder über sein Vermögen das Insolvenzverfahren
 eröffnet oder der Eröffnungsantrag mangels Masse abgewiesen worden
 ist.
 
-
 #### § 283a Besonders schwerer Fall des Bankrotts
 
 In besonders schweren Fällen des § 283 Abs. 1 bis 3 wird der Bankrott
@@ -10120,10 +9516,6 @@ besonders schwerer Fall liegt in der Regel vor, wenn der Täter
 
 2.  wissentlich viele Personen in die Gefahr des Verlustes ihrer ihm
     anvertrauten Vermögenswerte oder in wirtschaftliche Not bringt.
-
-
-
-
 
 #### § 283b Verletzung der Buchführungspflicht
 
@@ -10163,7 +9555,6 @@ bestraft.
 
 (3) § 283 Abs. 6 gilt entsprechend.
 
-
 #### § 283c Gläubigerbegünstigung
 
 (1) Wer in Kenntnis seiner Zahlungsunfähigkeit einem Gläubiger eine
@@ -10176,7 +9567,6 @@ bestraft.
 (2) Der Versuch ist strafbar.
 
 (3) § 283 Abs. 6 gilt entsprechend.
-
 
 #### § 283d Schuldnerbegünstigung
 
@@ -10219,10 +9609,7 @@ eingestellt hat oder über sein Vermögen das Insolvenzverfahren
 eröffnet oder der Eröffnungsantrag mangels Masse abgewiesen worden
 ist.
 
-
 ### Fünfundzwanzigster Abschnitt - Strafbarer Eigennutz
-
-
 
 #### § 284 Unerlaubte Veranstaltung eines Glücksspiels
 
@@ -10250,13 +9637,11 @@ wird mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren bestraft.
 (4) Wer für ein öffentliches Glücksspiel (Absätze 1 und 2) wirbt, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 285 Beteiligung am unerlaubten Glücksspiel
 
 Wer sich an einem öffentlichen Glücksspiel (§ 284) beteiligt, wird mit
 Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu
 einhundertachtzig Tagessätzen bestraft.
-
 
 #### § 286 Vermögensstrafe, Erweiterter Verfall und Einziehung
 
@@ -10269,7 +9654,6 @@ das auf dem Spieltisch oder in der Bank vorgefundene Geld eingezogen,
 wenn sie dem Täter oder Teilnehmer zur Zeit der Entscheidung gehören.
 Andernfalls können die Gegenstände eingezogen werden; § 74a ist
 anzuwenden.
-
 
 #### § 287 Unerlaubte Veranstaltung einer Lotterie oder einer Ausspielung
 
@@ -10284,7 +9668,6 @@ bis zu zwei Jahren oder mit Geldstrafe bestraft.
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-
 #### § 288 Vereiteln der Zwangsvollstreckung
 
 (1) Wer bei einer ihm drohenden Zwangsvollstreckung in der Absicht,
@@ -10293,7 +9676,6 @@ Vermögens veräußert oder beiseite schafft, wird mit Freiheitsstrafe
 bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
-
 
 #### § 289 Pfandkehr
 
@@ -10308,13 +9690,11 @@ Geldstrafe bestraft.
 
 (3) Die Tat wird nur auf Antrag verfolgt.
 
-
 #### § 290 Unbefugter Gebrauch von Pfandsachen
 
 Öffentliche Pfandleiher, welche die von ihnen in Pfand genommenen
 Gegenstände unbefugt in Gebrauch nehmen, werden mit Freiheitsstrafe
 bis zu einem Jahr oder mit Geldstrafe bestraft.
-
 
 #### § 291 Wucher
 
@@ -10358,10 +9738,6 @@ der Regel vor, wenn der Täter
 
 3.  sich durch Wechsel wucherische Vermögensvorteile versprechen läßt.
 
-
-
-
-
 #### § 292 Jagdwilderei
 
 (1) Wer unter Verletzung fremden Jagdrechts oder Jagdausübungsrechts
@@ -10396,7 +9772,6 @@ der Regel vor, wenn die Tat
 
 begangen wird.
 
-
 #### § 293 Fischwilderei
 
 Wer unter Verletzung fremden Fischereirechts oder
@@ -10413,7 +9788,6 @@ Fischereiausübungsrechts
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 294 Strafantrag
 
 In den Fällen des § 292 Abs. 1 und des § 293 wird die Tat nur auf
@@ -10421,18 +9795,15 @@ Antrag des Verletzten verfolgt, wenn sie von einem Angehörigen oder an
 einem Ort begangen worden ist, wo der Täter die Jagd oder die
 Fischerei in beschränktem Umfang ausüben durfte.
 
-
 #### § 295 Einziehung
 
 Jagd- und Fischereigeräte, Hunde und andere Tiere, die der Täter oder
 Teilnehmer bei der Tat mit sich geführt oder verwendet hat, können
 eingezogen werden. § 74a ist anzuwenden.
 
-
 #### § 296 (weggefallen)
 
 -
-
 
 #### § 297 Gefährdung von Schiffen, Kraft- und Luftfahrzeugen durch Bannware
 
@@ -10464,10 +9835,7 @@ Kraft- oder Luftfahrzeuge gebracht oder genommen werden. An die Stelle
 des Reeders und des Schiffsführers treten der Halter und der Führer
 des Kraft- oder Luftfahrzeuges.
 
-
 ### Sechsundzwanzigster Abschnitt - Straftaten gegen den Wettbewerb
-
-
 
 #### § 298 Wettbewerbsbeschränkende Absprachen bei Ausschreibungen
 
@@ -10489,7 +9857,6 @@ Veranstalters nicht erbracht, so wird er straflos, wenn er sich
 freiwillig und ernsthaft bemüht, die Annahme des Angebots oder das
 Erbringen der Leistung zu verhindern.
 
-
 #### § 299 Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
 (1) Wer als Angestellter oder Beauftragter eines geschäftlichen
@@ -10510,7 +9877,6 @@ unlauterer Weise bevorzuge.
 (3) Die Absätze 1 und 2 gelten auch für Handlungen im ausländischen
 Wettbewerb.
 
-
 #### § 300 Besonders schwere Fälle der Bestechlichkeit und Bestechung im geschäftlichen Verkehr
 
 In besonders schweren Fällen wird eine Tat nach § 299 mit
@@ -10522,10 +9888,6 @@ besonders schwerer Fall liegt in der Regel vor, wenn
 
 2.  der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich
     zur fortgesetzten Begehung solcher Taten verbunden hat.
-
-
-
-
 
 #### § 301 Strafantrag
 
@@ -10540,7 +9902,6 @@ Verletzten jeder der in § 8 Abs. 3 Nr. 1, 2 und 4 des Gesetzes gegen
 den unlauteren Wettbewerb bezeichneten Gewerbetreibenden, Verbände und
 Kammern.
 
-
 #### § 302 Vermögensstrafe und Erweiterter Verfall
 
 (1) In den Fällen des § 299 Abs. 1 ist § 73d anzuwenden, wenn der
@@ -10552,10 +9913,7 @@ wenn der Täter als Mitglied einer Bande handelt, die sich zur
 fortgesetzten Begehung solcher Taten verbunden hat. § 73d ist auch
 dann anzuwenden, wenn der Täter gewerbsmäßig handelt.
 
-
 ### Siebenundzwanzigster Abschnitt - Sachbeschädigung
-
-
 
 #### § 303 Sachbeschädigung
 
@@ -10568,7 +9926,6 @@ verändert.
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 303a Datenveränderung
 
 (1) Wer rechtswidrig Daten (§ 202a Abs. 2) löscht, unterdrückt,
@@ -10579,7 +9936,6 @@ Jahren oder mit Geldstrafe bestraft.
 
 (3) Für die Vorbereitung einer Straftat nach Absatz 1 gilt § 202c
 entsprechend.
-
 
 #### § 303b Computersabotage
 
@@ -10629,7 +9985,6 @@ schwerer Fall liegt in der Regel vor, wenn der Täter
 (5) Für die Vorbereitung einer Straftat nach Absatz 1 gilt § 202c
 entsprechend.
 
-
 #### § 303c Strafantrag
 
 In den Fällen der §§ 303, 303a Abs. 1 und 2 sowie § 303b Abs. 1 bis 3
@@ -10637,7 +9992,6 @@ wird die Tat nur auf Antrag verfolgt, es sei denn, daß die
 Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses
 an der Strafverfolgung ein Einschreiten von Amts wegen für geboten
 hält.
-
 
 #### § 304 Gemeinschädliche Sachbeschädigung
 
@@ -10657,7 +10011,6 @@ nicht nur unerheblich und nicht nur vorübergehend verändert.
 
 (3) Der Versuch ist strafbar.
 
-
 #### § 305 Zerstörung von Bauwerken
 
 (1) Wer rechtswidrig ein Gebäude, ein Schiff, eine Brücke, einen Damm,
@@ -10666,7 +10019,6 @@ fremdes Eigentum sind, ganz oder teilweise zerstört, wird mit
 Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 305a Zerstörung wichtiger Arbeitsmittel
 
@@ -10694,10 +10046,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 ### Achtundzwanzigster Abschnitt - Gemeingefährliche Straftaten
-
-
 
 #### § 306 Brandstiftung
 
@@ -10729,7 +10078,6 @@ bestraft.
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
 
-
 #### § 306a Schwere Brandstiftung
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
@@ -10758,7 +10106,6 @@ einer Gesundheitsschädigung bringt.
 (3) In minder schweren Fällen der Absätze 1 und 2 ist die Strafe
 Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
-
 #### § 306b Besonders schwere Brandstiftung
 
 (1) Wer durch eine Brandstiftung nach § 306 oder § 306a eine schwere
@@ -10778,17 +10125,12 @@ der Täter in den Fällen des § 306a
 
 3.  das Löschen des Brandes verhindert oder erschwert.
 
-
-
-
-
 #### § 306c Brandstiftung mit Todesfolge
 
 Verursacht der Täter durch eine Brandstiftung nach den §§ 306 bis 306b
 wenigstens leichtfertig den Tod eines anderen Menschen, so ist die
 Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter
 zehn Jahren.
-
 
 #### § 306d Fahrlässige Brandstiftung
 
@@ -10800,7 +10142,6 @@ oder mit Geldstrafe bestraft.
 (2) Wer in den Fällen des § 306a Abs. 2 fahrlässig handelt und die
 Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei
 Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 306e Tätige Reue
 
@@ -10815,7 +10156,6 @@ bevor ein erheblicher Schaden entsteht.
 (3) Wird der Brand ohne Zutun des Täters gelöscht, bevor ein
 erheblicher Schaden entstanden ist, so genügt sein freiwilliges und
 ernsthaftes Bemühen, dieses Ziel zu erreichen.
-
 
 #### § 306f Herbeiführen einer Brandgefahr
 
@@ -10849,7 +10189,6 @@ Menschen oder fremde Sachen von bedeutendem Wert gefährdet.
 Fällen des Absatzes 2 die Gefahr fahrlässig verursacht, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 #### § 307 Herbeiführen einer Explosion durch Kernenergie
 
 (1) Wer es unternimmt, durch Freisetzen von Kernenergie eine Explosion
@@ -10877,7 +10216,6 @@ eines anderen Menschen, so ist die Strafe
 (4) Wer in den Fällen des Absatzes 2 fahrlässig handelt und die Gefahr
 fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren
 oder mit Geldstrafe bestraft.
-
 
 #### § 308 Herbeiführen einer Sprengstoffexplosion
 
@@ -10907,7 +10245,6 @@ bestraft.
 (6) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
 fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren
 oder mit Geldstrafe bestraft.
-
 
 #### § 309 Mißbrauch ionisierender Strahlen
 
@@ -10951,10 +10288,6 @@ erkennen.
     hervorzurufen, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
     Geldstrafe bestraft. Der Versuch ist strafbar.
 
-
-
-
-
 #### § 310 Vorbereitung eines Explosions- oder Strahlungsverbrechens
 
 (1) Wer zur Vorbereitung
@@ -10987,7 +10320,6 @@ mit Geldstrafe bestraft.
 Freiheitsstrafe von sechs Monaten bis zu fünf Jahren.
 
 (3) In den Fällen des Absatzes 1 Nr. 3 und 4 ist der Versuch strafbar.
-
 
 #### § 311 Freisetzen ionisierender Strahlen
 
@@ -11024,7 +10356,6 @@ Geldstrafe bestraft.
 
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft.
-
 
 #### § 312 Fehlerhafte Herstellung einer kerntechnischen Anlage
 
@@ -11064,7 +10395,6 @@ erkennen.
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 313 Herbeiführen einer Überschwemmung
 
 (1) Wer eine Überschwemmung herbeiführt und dadurch Leib oder Leben
@@ -11073,7 +10403,6 @@ gefährdet, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren
 bestraft.
 
 (2) § 308 Abs. 2 bis 6 gilt entsprechend.
-
 
 #### § 314 Gemeingefährliche Vergiftung
 
@@ -11095,7 +10424,6 @@ Gegenstände im Sinne der Nummer 2 verkauft, feilhält oder sonst in den
 Verkehr bringt.
 
 (2) § 308 Abs. 2 bis 4 gilt entsprechend.
-
 
 #### § 314a Tätige Reue
 
@@ -11174,7 +10502,6 @@ diesen Vorschriften absehen, wenn der Täter
 (4) Wird ohne Zutun des Täters die Gefahr abgewendet, so genügt sein
 freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
 
-
 #### § 315 Gefährliche Eingriffe in den Bahn-, Schiffs- und Luftverkehr
 
 (1) Wer die Sicherheit des Schienenbahn-, Schwebebahn-, Schiffs- oder
@@ -11233,7 +10560,6 @@ bestraft.
 fahrlässig verursacht, wird mit Freiheitsstrafe bis zu zwei Jahren
 oder mit Geldstrafe bestraft.
 
-
 #### § 315a Gefährdung des Bahn-, Schiffs- und Luftverkehrs
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
@@ -11270,7 +10596,6 @@ von bedeutendem Wert gefährdet.
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 315b Gefährliche Eingriffe in den Straßenverkehr
 
 (1) Wer die Sicherheit des Straßenverkehrs dadurch beeinträchtigt, daß
@@ -11304,7 +10629,6 @@ bestraft.
 (5) Wer in den Fällen des Absatzes 1 fahrlässig handelt und die Gefahr
 fahrlässig verursacht, wird mit Freiheitsstrafe bis zu zwei Jahren
 oder mit Geldstrafe bestraft.
-
 
 #### § 315c Gefährdung des Straßenverkehrs
 
@@ -11374,13 +10698,11 @@ Jahren oder mit Geldstrafe bestraft.
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 315d Schienenbahnen im Straßenverkehr
 
 Soweit Schienenbahnen am Straßenverkehr teilnehmen, sind nur die
 Vorschriften zum Schutz des Straßenverkehrs (§§ 315b und 315c)
 anzuwenden.
-
 
 #### § 316 Trunkenheit im Verkehr
 
@@ -11391,7 +10713,6 @@ Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn
 die Tat nicht in § 315a oder § 315c mit Strafe bedroht ist.
 
 (2) Nach Absatz 1 wird auch bestraft, wer die Tat fahrlässig begeht.
-
 
 #### § 316a Räuberischer Angriff auf Kraftfahrer
 
@@ -11408,7 +10729,6 @@ Jahr bis zu zehn Jahren.
 (3) Verursacht der Täter durch die Tat wenigstens leichtfertig den Tod
 eines anderen Menschen, so ist die Strafe lebenslange Freiheitsstrafe
 oder Freiheitsstrafe nicht unter zehn Jahren.
-
 
 #### § 316b Störung öffentlicher Betriebe
 
@@ -11440,7 +10760,6 @@ sechs Monaten bis zu zehn Jahren. Ein besonders schwerer Fall liegt in
 der Regel vor, wenn der Täter durch die Tat die Versorgung der
 Bevölkerung mit lebenswichtigen Gütern, insbesondere mit Wasser,
 Licht, Wärme oder Kraft, beeinträchtigt.
-
 
 #### § 316c Angriffe auf den Luft- und Seeverkehr
 
@@ -11487,7 +10806,6 @@ Brandes bestimmte Stoffe oder Vorrichtungen herstellt, sich oder einem
 anderen verschafft, verwahrt oder einem anderen überläßt, wird mit
 Freiheitsstrafe von sechs Monaten bis zu fünf Jahren bestraft.
 
-
 #### § 317 Störung von Telekommunikationsanlagen
 
 (1) Wer den Betrieb einer öffentlichen Zwecken dienenden
@@ -11501,7 +10819,6 @@ Jahren oder mit Geldstrafe bestraft.
 
 (3) Wer die Tat fahrlässig begeht, wird mit Freiheitsstrafe bis zu
 einem Jahr oder mit Geldstrafe bestraft.
-
 
 #### § 318 Beschädigung wichtiger Anlagen
 
@@ -11540,7 +10857,6 @@ erkennen.
 wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
 bestraft.
 
-
 #### § 319 Baugefährdung
 
 (1) Wer bei der Planung, Leitung oder Ausführung eines Baues oder des
@@ -11562,7 +10878,6 @@ zu drei Jahren oder mit Geldstrafe bestraft.
 (4) Wer in den Fällen der Absätze 1 und 2 fahrlässig handelt und die
 Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu zwei
 Jahren oder mit Geldstrafe bestraft.
-
 
 #### § 320 Tätige Reue
 
@@ -11623,13 +10938,11 @@ entsteht.
 so genügt sein freiwilliges und ernsthaftes Bemühen, dieses Ziel zu
 erreichen.
 
-
 #### § 321 Führungsaufsicht
 
 In den Fällen der §§ 306 bis 306c und 307 Abs. 1 bis 3, des § 308 Abs.
 1 bis 3, des § 309 Abs. 1 bis 4, des § 310 Abs. 1 und des § 316c Abs.
 1 Nr. 2 kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1).
-
 
 #### § 322 Einziehung
 
@@ -11647,11 +10960,9 @@ begangen worden, so können
 
 eingezogen werden.
 
-
 #### § 323 (weggefallen)
 
 -
-
 
 #### § 323a Vollrausch
 
@@ -11669,7 +10980,6 @@ Rausch begangene Tat angedroht ist.
 Strafverlangen verfolgt, wenn die Rauschtat nur auf Antrag, mit
 Ermächtigung oder auf Strafverlangen verfolgt werden könnte.
 
-
 #### § 323b Gefährdung einer Entziehungskur
 
 Wer wissentlich einem anderen, der auf Grund behördlicher Anordnung
@@ -11680,7 +10990,6 @@ verschafft oder überläßt oder ihn zum Genuß solcher Mittel verleitet,
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-
 #### § 323c Unterlassene Hilfeleistung
 
 Wer bei Unglücksfällen oder gemeiner Gefahr oder Not nicht Hilfe
@@ -11689,10 +10998,7 @@ zuzumuten, insbesondere ohne erhebliche eigene Gefahr und ohne
 Verletzung anderer wichtiger Pflichten möglich ist, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
 ### Neunundzwanzigster Abschnitt - Straftaten gegen die Umwelt
-
-
 
 #### § 324 Gewässerverunreinigung
 
@@ -11704,7 +11010,6 @@ fünf Jahren oder mit Geldstrafe bestraft.
 
 (3) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu drei Jahren oder Geldstrafe.
-
 
 #### § 324a Bodenverunreinigung
 
@@ -11727,7 +11032,6 @@ bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (3) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe
 bis zu drei Jahren oder Geldstrafe.
-
 
 #### § 325 Luftverunreinigung
 
@@ -11772,7 +11076,6 @@ sind,
 (7) Absatz 1, auch in Verbindung mit Absatz 4, gilt nicht für
 Kraftfahrzeuge, Schienen-, Luft- oder Wasserfahrzeuge.
 
-
 #### § 325a Verursachen von Lärm, Erschütterungen und nichtionisierenden Strahlen
 
 (1) Wer beim Betrieb einer Anlage, insbesondere einer Betriebsstätte
@@ -11802,7 +11105,6 @@ bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (4) Die Absätze 1 bis 3 gelten nicht für Kraftfahrzeuge, Schienen-,
 Luft- oder Wasserfahrzeuge.
-
 
 #### § 326 Unerlaubter Umgang mit Abfällen
 
@@ -11882,7 +11184,6 @@ die Umwelt, insbesondere auf Menschen, Gewässer, die Luft, den Boden,
 Nutztiere oder Nutzpflanzen, wegen der geringen Menge der Abfälle
 offensichtlich ausgeschlossen sind.
 
-
 #### § 327 Unerlaubtes Betreiben von Anlagen
 
 (1) Wer ohne die erforderliche Genehmigung oder entgegen einer
@@ -11939,10 +11240,6 @@ Gewässern, der Luft oder dem Boden herbeizuführen.
 
 2.  in den Fällen des Absatzes 2 Freiheitsstrafe bis zu zwei Jahren oder
     Geldstrafe.
-
-
-
-
 
 #### § 328 Unerlaubter Umgang mit radioaktiven Stoffen und anderen gefährlichen Stoffen und Gütern
 
@@ -12014,7 +11311,6 @@ Wert gefährdet.
 bis zu drei Jahren oder Geldstrafe.
 
 (6) Die Absätze 4 und 5 gelten nicht für Taten nach Absatz 2 Nr. 4.
-
 
 #### § 329 Gefährdung schutzbedürftiger Gebiete
 
@@ -12129,7 +11425,6 @@ mit Geldstrafe bestraft.
 (6) Handelt der Täter in den Fällen des Absatzes 4 leichtfertig, so
 ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
 #### § 330 Besonders schwerer Fall einer Umweltstraftat
 
 (1) In besonders schweren Fällen wird eine vorsätzliche Tat nach den
@@ -12176,7 +11471,6 @@ Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, in minder
 schweren Fällen des Absatzes 2 Nr. 2 auf Freiheitsstrafe von einem
 Jahr bis zu zehn Jahren zu erkennen.
 
-
 #### § 330a Schwere Gefährdung durch Freisetzen von Giften
 
 (1) Wer Stoffe, die Gifte enthalten oder hervorbringen können,
@@ -12201,7 +11495,6 @@ bestraft.
 Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei
 Jahren oder mit Geldstrafe bestraft.
 
-
 #### § 330b Tätige Reue
 
 (1) Das Gericht kann in den Fällen des § 325a Abs. 2, des § 326 Abs. 1
@@ -12216,7 +11509,6 @@ Täter nicht nach § 325a Abs. 3 Nr. 2, § 326 Abs. 5, § 328 Abs. 5 und §
 (2) Wird ohne Zutun des Täters die Gefahr abgewendet oder der
 rechtswidrig verursachte Zustand beseitigt, so genügt sein
 freiwilliges und ernsthaftes Bemühen, dieses Ziel zu erreichen.
-
 
 #### § 330c Einziehung
 
@@ -12234,7 +11526,6 @@ worden, so können
 
 
 eingezogen werden. § 74a ist anzuwenden.
-
 
 #### § 330d Begriffsbestimmungen
 
@@ -12334,10 +11625,7 @@ Gefahren oder schädlichen Einwirkungen auf die Umwelt, insbesondere
 auf Menschen, Tiere oder Pflanzen, Gewässer, die Luft oder den Boden,
 dient.
 
-
 ### Dreißigster Abschnitt - Straftaten im Amt
-
-
 
 #### § 331 Vorteilsannahme
 
@@ -12357,7 +11645,6 @@ nicht von ihm geforderten Vorteil sich versprechen läßt oder annimmt
 und die zuständige Behörde im Rahmen ihrer Befugnisse entweder die
 Annahme vorher genehmigt hat oder der Täter unverzüglich bei ihr
 Anzeige erstattet und sie die Annahme genehmigt.
-
 
 #### § 332 Bestechlichkeit
 
@@ -12389,10 +11676,6 @@ gegenüber bereit gezeigt hat,
 2.  soweit die Handlung in seinem Ermessen steht, sich bei Ausübung des
     Ermessens durch den Vorteil beeinflussen zu lassen.
 
-
-
-
-
 #### § 333 Vorteilsgewährung
 
 (1) Wer einem Amtsträger, einem für den öffentlichen Dienst besonders
@@ -12411,7 +11694,6 @@ Geldstrafe bestraft.
 Behörde im Rahmen ihrer Befugnisse entweder die Annahme des Vorteils
 durch den Empfänger vorher genehmigt hat oder sie auf unverzügliche
 Anzeige des Empfängers genehmigt.
-
 
 #### § 334 Bestechung
 
@@ -12452,10 +11734,6 @@ daß dieser
 2.  soweit die Handlung in seinem Ermessen steht, sich bei der Ausübung
     des Ermessens durch den Vorteil beeinflussen läßt.
 
-
-
-
-
 #### § 335 Besonders schwere Fälle der Bestechlichkeit und Bestechung
 
 (1) In besonders schweren Fällen wird
@@ -12493,15 +11771,10 @@ Regel vor, wenn
 3.  der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich
     zur fortgesetzten Begehung solcher Taten verbunden hat.
 
-
-
-
-
 #### § 336 Unterlassen der Diensthandlung
 
 Der Vornahme einer Diensthandlung oder einer richterlichen Handlung im
 Sinne der §§ 331 bis 335 steht das Unterlassen der Handlung gleich.
-
 
 #### § 337 Schiedsrichtervergütung
 
@@ -12510,7 +11783,6 @@ der §§ 331 bis 335, wenn der Schiedsrichter sie von einer Partei
 hinter dem Rücken der anderen fordert, sich versprechen läßt oder
 annimmt oder wenn sie ihm eine Partei hinter dem Rücken der anderen
 anbietet, verspricht oder gewährt.
-
 
 #### § 338 Vermögensstrafe und Erweiterter Verfall
 
@@ -12525,7 +11797,6 @@ einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten
 verbunden hat. § 73d ist auch dann anzuwenden, wenn der Täter
 gewerbsmäßig handelt.
 
-
 #### § 339 Rechtsbeugung
 
 Ein Richter, ein anderer Amtsträger oder ein Schiedsrichter, welcher
@@ -12533,7 +11804,6 @@ sich bei der Leitung oder Entscheidung einer Rechtssache zugunsten
 oder zum Nachteil einer Partei einer Beugung des Rechts schuldig
 macht, wird mit Freiheitsstrafe von einem Jahr bis zu fünf Jahren
 bestraft.
-
 
 #### § 340 Körperverletzung im Amt
 
@@ -12548,10 +11818,7 @@ zu fünf Jahren oder Geldstrafe.
 (3) Die §§ 224 bis 229 gelten für Straftaten nach Absatz 1 Satz 1
 entsprechend.
 
-
 #### (XXXX) §§ 341 und 342 (weggefallen)
-
-
 
 #### § 343 Aussageerpressung
 
@@ -12577,7 +11844,6 @@ Jahren bestraft.
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs
 Monaten bis zu fünf Jahren.
-
 
 #### § 344 Verfolgung Unschuldiger
 
@@ -12610,7 +11876,6 @@ gilt sinngemäß für einen Amtsträger, der zur Mitwirkung an
 
 
 berufen ist. Der Versuch ist strafbar.
-
 
 #### § 345 Vollstreckung gegen Unschuldige
 
@@ -12650,10 +11915,7 @@ Vollstreckung
 berufen ist, eine solche Rechtsfolge vollstreckt, obwohl sie nach dem
 Gesetz nicht vollstreckt werden darf. Der Versuch ist strafbar.
 
-
 #### (XXXX) §§ 346 und 347 (weggefallen)
-
-
 
 #### § 348 Falschbeurkundung im Amt
 
@@ -12665,10 +11927,7 @@ Jahren oder mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
-
 #### (XXXX) §§ 349 bis 351 (weggefallen)
-
-
 
 #### § 352 Gebührenüberhebung
 
@@ -12680,7 +11939,6 @@ nur in geringerem Betrag schuldet, mit Freiheitsstrafe bis zu einem
 Jahr oder mit Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
-
 
 #### § 353 Abgabenüberhebung; Leistungskürzung
 
@@ -12695,7 +11953,6 @@ zu fünf Jahren bestraft.
 Geld oder Naturalien dem Empfänger rechtswidrig Abzüge macht und die
 Ausgaben als vollständig geleistet in Rechnung stellt.
 
-
 #### § 353a Vertrauensbruch im auswärtigen Dienst
 
 (1) Wer bei der Vertretung der Bundesrepublik Deutschland gegenüber
@@ -12706,7 +11963,6 @@ unwahre Berichte tatsächlicher Art erstattet, wird mit Freiheitsstrafe
 bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
 (2) Die Tat wird nur mit Ermächtigung der Bundesregierung verfolgt.
-
 
 #### § 353b Verletzung des Dienstgeheimnisses und einer besonderen Geheimhaltungspflicht
 
@@ -12789,14 +12045,9 @@ erteilt
 3.  von der obersten Landesbehörde in allen übrigen Fällen der Absätze 1
     und 2 Nr. 2.
 
-
-
-
-
 #### § 353c (weggefallen)
 
 -
-
 
 #### § 353d Verbotene Mitteilungen über Gerichtsverhandlungen
 
@@ -12822,14 +12073,9 @@ bestraft, wer
     öffentlich mitteilt, bevor sie in öffentlicher Verhandlung erörtert
     worden sind oder das Verfahren abgeschlossen ist.
 
-
-
-
-
 #### § 354 (weggefallen)
 
 -
-
 
 #### § 355 Verletzung des Steuergeheimnisses
 
@@ -12882,7 +12128,6 @@ Verletzten verfolgt. Bei Taten amtlich zugezogener Sachverständiger
 ist der Leiter der Behörde, deren Verfahren betroffen ist, neben dem
 Verletzten antragsberechtigt.
 
-
 #### § 356 Parteiverrat
 
 (1) Ein Anwalt oder ein anderer Rechtsbeistand, welcher bei den ihm in
@@ -12894,7 +12139,6 @@ bestraft.
 (2) Handelt derselbe im Einverständnis mit der Gegenpartei zum
 Nachteil seiner Partei, so tritt Freiheitsstrafe von einem Jahr bis zu
 fünf Jahren ein.
-
 
 #### § 357 Verleitung eines Untergebenen zu einer Straftat
 
@@ -12908,7 +12152,6 @@ eine Aufsicht oder Kontrolle über die Dienstgeschäfte eines anderen
 Amtsträgers übertragen ist, sofern die von diesem letzteren Amtsträger
 begangene rechtswidrige Tat die zur Aufsicht oder Kontrolle gehörenden
 Geschäfte betrifft.
-
 
 #### § 358 Nebenfolgen
 

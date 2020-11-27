@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 8.4.2009 I 809
 
-
 ## § 1 Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
 
 Auslandsverwendungszuschlag wird regelmäßig nur gezahlt bei
@@ -27,7 +26,6 @@ polizeilichen Einzeldienst. Bei sonstigen Einzelverwendungen darf
 Auslandsverwendungszuschlag nur gezahlt werden, wenn fachspezifische
 Besonderheiten einer besonderen Verwendung im Ausland eine Ausnahme
 rechtfertigen.
-
 
 ## § 2 Materielle Mehraufwendungen und immaterielle Belastungen
 
@@ -85,10 +83,6 @@ berücksichtigt:
     Verwendungsgebiet, insbesondere durch Mängel und erschwerende Umstände
     bei Versorgung und Kommunikation entstehen, soweit keine
     reisekostenrechtlichen Ansprüche bestehen.
-
-
-
-
 
 ## § 3 Höhe und Festsetzung des Auslandsverwendungszuschlags
 
@@ -200,7 +194,6 @@ der Tagessatz neu festgesetzt.
 (4) Der Auslandsverwendungszuschlag unterliegt nicht dem
 Kaufkraftausgleich.
 
-
 ## § 4 Dauer des Anspruchs
 
 (1) Der Auslandsverwendungszuschlag steht für die Dauer der besonderen
@@ -220,7 +213,6 @@ Tage der Verwendung außerhalb dieses Bereichs gezahlt. Insbesondere
 wird Auslandsverwendungszuschlag nicht gezahlt für Zeiten der Hin- und
 Rückreise (Fahrt, Flug) zum oder vom ausländischen Ort oder Gebiet der
 besonderen Verwendung.
-
 
 ## § 5 Anrechnung anderer Bezüge
 

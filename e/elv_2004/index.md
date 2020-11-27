@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   § 56 Abs. 45 V v. 12.2.2009 I 284
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 4 Nr. 1 und Abs. 5 des
@@ -30,7 +29,6 @@ Absatz 5 durch Artikel 263 Nr. 2 der Verordnung vom 29. Oktober 2001
 Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen
 mit dem Bundesministerium des Innern und dem Bundesministerium der
 Finanzen:
-
 
 ## § 1 Geltungsbereich
 
@@ -44,14 +42,12 @@ Gründungsgesetzes fallende Gesellschaft) zugewiesen sind, gelten die
 Vorschriften der Bundeslaufbahnverordnung in ihrer jeweils geltenden
 Fassung, soweit sich aus dieser Verordnung nichts anderes ergibt.
 
-
 ## § 2 Zuständigkeiten
 
 Soweit die Bundeslaufbahnverordnung dem Bundesministerium des Innern
 Zuständigkeiten zuweist, werden sie im Geltungsbereich dieser
 Verordnung vom Bundesministerium für Verkehr, Bau und Stadtentwicklung
 wahrgenommen.
-
 
 ## § 3 Leistungsgrundsatz, Förderung der Leistungsfähigkeit
 
@@ -62,7 +58,6 @@ Anforderungen der Gesellschaft gemessen werden.
 (2) Personalführungs- und Personalentwicklungsmaßnahmen zur Förderung
 der Leistungsfähigkeit und die Ausgestaltung von
 Personalentwicklungskonzepten obliegen der Gesellschaft.
-
 
 ## § 4 Laufbahnen, Ämter
 
@@ -78,7 +73,6 @@ fachlicher Leistung alle Ämter im Geltungsbereich und nach Maßgabe
 dieser Verordnung offen.
 
 (3) Die Ämter einer Laufbahn sind regelmäßig zu durchlaufen.
-
 
 ## § 5 Laufbahn des höheren allgemeinen Verwaltungsdienstes und Laufbahn des höheren bautechnischen Verwaltungsdienstes
 
@@ -176,7 +170,6 @@ Bundesbahninspektoren in die Laufbahn des höheren bautechnischen
 Verwaltungsdienstes nach den §§ 18 und 19 oder durch Übernahme nach §
 20\.
 
-
 ## § 6 Laufbahn der Bundesbahninspektorinnen und Bundesbahninspektoren
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des gehobenen Dienstes und
@@ -249,7 +242,6 @@ Bundesbahninspektoren erfolgt ausschließlich durch einen
 Laufbahnwechsel nach § 14, durch Aufstieg von Beamtinnen und Beamten
 der Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre nach
 den §§ 18 und 19 oder durch Übernahme nach § 20.
-
 
 ## § 7 Laufbahn der technischen Bundesbahninspektorinnen und technischen Bundesbahninspektoren
 
@@ -331,7 +323,6 @@ Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre, der
 Lokomotivführerinnen und Lokomotivführer und der Werkmeisterinnen und
 Werkmeister nach den §§ 18 und 19 oder durch Übernahme nach § 20.
 
-
 ## § 8 Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
@@ -404,7 +395,6 @@ nach § 14, durch Aufstieg von Beamtinnen und Beamten der Laufbahn der
 Betriebsaufseherinnen und Betriebsaufseher nach den §§ 18 und 19 oder
 durch Übernahme nach § 20.
 
-
 ## § 9 Laufbahn der technischen Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
@@ -476,7 +466,6 @@ stehen oder sonst dem mittleren Dienst zugeordnet werden können.
 Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre erfolgt
 durch einen Laufbahnwechsel nach § 14.
 
-
 ## § 10 Laufbahn der Lokomotivführerinnen und Lokomotivführer
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und
@@ -535,7 +524,6 @@ stehen oder sonst dem mittleren Dienst zugeordnet werden können.
 
 (4) Die Übernahme in die Laufbahn der Lokomotivführerinnen und
 Lokomotivführer erfolgt durch einen Laufbahnwechsel nach § 14.
-
 
 ## § 11 Laufbahn der Werkmeisterinnen und Werkmeister
 
@@ -602,7 +590,6 @@ stehen oder sonst dem mittleren Dienst zugeordnet werden können.
 (4) Die Übernahme in die Laufbahn der Werkmeisterinnen und Werkmeister
 erfolgt durch einen Laufbahnwechsel nach § 14.
 
-
 ## § 12 Laufbahn der Betriebsaufseherinnen und Betriebsaufseher
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des einfachen Dienstes und
@@ -655,7 +642,6 @@ Nach entsprechender Verwendungsfortbildung können auch andere
 Funktionen übertragen werden, soweit diese im Funktionszusammenhang
 stehen oder sonst dem einfachen Dienst zugeordnet werden können.
 
-
 ## § 13 Stellenausschreibung
 
 (1) Arbeitsplätze, die bei der Gesellschaft besetzt werden sollen,
@@ -667,7 +653,6 @@ Entscheidungen und Maßnahmen regelt die Gesellschaft Art und Umfang
 der Ausschreibung sowie das Stellenbesetzungsverfahren unter Wahrung
 der beamtenrechtlichen Grundsätze im Einvernehmen mit der obersten
 Dienstbehörde. § 93 des Betriebsverfassungsgesetzes bleibt unberührt.
-
 
 ## § 14 Laufbahnwechsel
 
@@ -694,7 +679,6 @@ Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671),
 die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar
 2009 (BGBl. I S. 160) geändert worden ist.
 
-
 ## § 15 Probezeit
 
 Dienstzeiten der in § 1 genannten Beamtinnen und Beamten bei der
@@ -702,7 +686,6 @@ Gesellschaft gelten als Probezeit, wenn eine den Laufbahnanforderungen
 gleichwertige Tätigkeit ausgeübt wird. Die Feststellung über die
 Bewährung in der Probezeit trifft die oberste Dienstbehörde oder die
 von ihr bestimmte Stelle im Einvernehmen mit der Gesellschaft.
-
 
 ## § 16 Übertragung von höher bewerteten Dienstposten, Erprobung
 
@@ -731,7 +714,6 @@ haben, kann die oberste Dienstbehörde im Einvernehmen mit der
 Gesellschaft Ausnahmen vom Erfordernis und von der Dauer der
 Erprobungszeit auf höher bewerteten Dienstposten zulassen.
 
-
 ## § 17 Beförderung
 
 (1) Beurlaubung und Zuweisung stehen einer Beförderung im Rahmen einer
@@ -743,7 +725,6 @@ durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I
 S. 160) geändert worden ist, gilt mit der Maßgabe, dass Zeiten einer
 Beurlaubung und Zuweisung zu einer Gesellschaft als Dienstzeiten
 gelten.
-
 
 ## § 18 Aufstieg
 
@@ -794,7 +775,6 @@ Beamtinnen und Beamten im Rahmen der besetzbaren Planstellen ein Amt
 der neuen Laufbahn verliehen. Das erste Beförderungsamt darf
 frühestens nach Ablauf einer Dienstzeit von einem Jahr seit der ersten
 Verleihung eines Amtes der höheren Laufbahngruppe verliehen werden.
-
 
 ## § 19 Praxisaufstieg
 
@@ -850,7 +830,6 @@ oder des Beamten fest. Die oberste Dienstbehörde regelt das
 Feststellungsverfahren nach Anhörung der Gesellschaft. Das
 Feststellungsverfahren kann einmal wiederholt werden.
 
-
 ## § 20 Andere Bewerberinnen und Bewerber
 
 Beamtinnen und Beamte können in die nächsthöhere Laufbahn auch
@@ -870,7 +849,6 @@ in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459,
 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5.
 Februar 2009 (BGBl. I S. 160) geändert worden ist, bleibt unberührt.
 
-
 ## § 21 Dienstliche Beurteilung
 
 (1) Die Gesellschaft beurteilt die Beamtinnen und Beamten.
@@ -878,7 +856,6 @@ Februar 2009 (BGBl. I S. 160) geändert worden ist, bleibt unberührt.
 (2) Die Grundsätze der dienstlichen Beurteilung werden zwischen der
 Gesellschaft und dem zuständigen Betriebsrat im Einvernehmen mit der
 obersten Dienstbehörde abgestimmt.
-
 
 ## § 22 Fortbildung
 
@@ -907,7 +884,6 @@ von der Gesellschaft zu fördern. Vor allem ist ihnen nach Möglichkeit
 Gelegenheit zu geben, ihre Fähigkeiten und Fachkenntnisse in höher
 bewerteten Dienstgeschäften anzuwenden und hierbei ihre besondere
 fachliche Eignung nachzuweisen.
-
 
 ## § 23 Inkrafttreten, Außerkrafttreten
 

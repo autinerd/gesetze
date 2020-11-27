@@ -18,7 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.7.2011 I 1404
 
-
 ## § 1 Anzeigepflichtige Tierseuchen
 
 Folgende Tierseuchen sind anzeigepflichtig:
@@ -202,10 +201,6 @@ Folgende Tierseuchen sind anzeigepflichtig:
 
 
 41. Yellowhead Disease.
-
-
-
-
 
 ## § 2 (Inkrafttreten)
 

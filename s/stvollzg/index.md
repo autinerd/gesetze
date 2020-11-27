@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 5.12.2012 I 2425
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Anwendungsbereich
-
-
 
 ### § 1
 
@@ -36,14 +32,9 @@ Dieses Gesetz regelt den Vollzug der Freiheitsstrafe in
 Justizvollzugsanstalten und der freiheitsentziehenden Maßregeln der
 Besserung und Sicherung.
 
-
 ## Zweiter Abschnitt - Vollzug der Freiheitsstrafe
 
-
-
 ### Erster Titel - Grundsätze
-
-
 
 #### § 2 Aufgaben des Vollzuges
 
@@ -51,7 +42,6 @@ Im Vollzug der Freiheitsstrafe soll der Gefangene fähig werden,
 künftig in sozialer Verantwortung ein Leben ohne Straftaten zu führen
 (Vollzugsziel). Der Vollzug der Freiheitsstrafe dient auch dem Schutz
 der Allgemeinheit vor weiteren Straftaten.
-
 
 #### § 3 Gestaltung des Vollzuges
 
@@ -62,7 +52,6 @@ soweit als möglich angeglichen werden.
 
 (3) Der Vollzug ist darauf auszurichten, daß er dem Gefangenen hilft,
 sich in das Leben in Freiheit einzugliedern.
-
 
 #### § 4 Stellung des Gefangenen
 
@@ -77,10 +66,7 @@ werden, die zur Aufrechterhaltung der Sicherheit oder zur Abwendung
 einer schwerwiegenden Störung der Ordnung der Anstalt unerläßlich
 sind.
 
-
 ### Zweiter Titel - Planung des Vollzuges
-
-
 
 #### § 5 Aufnahmeverfahren
 
@@ -90,7 +76,6 @@ sind.
 
 (3) Nach der Aufnahme wird der Gefangene alsbald ärztlich untersucht
 und dem Leiter der Anstalt oder der Aufnahmeabteilung vorgestellt.
-
 
 #### § 6 Behandlungsuntersuchung. Beteiligung des Gefangenen
 
@@ -108,7 +93,6 @@ prüfen, ob die Verlegung in eine sozialtherapeutische Anstalt
 angezeigt ist.
 
 (3) Die Planung der Behandlung wird mit dem Gefangenen erörtert.
-
 
 #### § 7 Vollzugsplan
 
@@ -155,7 +139,6 @@ Jahren verurteilt worden sind, ist über eine Verlegung in eine
 sozialtherapeutische Anstalt jeweils nach Ablauf von sechs Monaten neu
 zu entscheiden.
 
-
 #### § 8 Verlegung. Überstellung
 
 (1) Der Gefangene kann abweichend vom Vollstreckungsplan in eine
@@ -174,7 +157,6 @@ werden,
 
 (2) Der Gefangene darf aus wichtigem Grund in eine andere
 Vollzugsanstalt überstellt werden.
-
 
 #### § 9 Verlegung in eine sozialtherapeutische Anstalt
 
@@ -195,7 +177,6 @@ der Zustimmung des Leiters der sozialtherapeutischen Anstalt.
 
 (3) Die §§ 8 und 85 bleiben unberührt.
 
-
 #### § 10 Offener und geschlossener Vollzug
 
 (1) Ein Gefangener soll mit seiner Zustimmung in einer Anstalt oder
@@ -209,7 +190,6 @@ mißbrauchen werde.
 unterzubringen. Ein Gefangener kann auch dann im geschlossenen Vollzug
 untergebracht oder dorthin zurückverlegt werden, wenn dies zu seiner
 Behandlung notwendig ist.
-
 
 #### § 11 Lockerungen des Vollzuges
 
@@ -233,12 +213,10 @@ werden, wenn nicht zu befürchten ist, daß der Gefangene sich dem
 Vollzug der Freiheitsstrafe entziehen oder die Lockerungen des
 Vollzuges zu Straftaten mißbrauchen werde.
 
-
 #### § 12 Ausführung aus besonderen Gründen
 
 Ein Gefangener darf auch ohne seine Zustimmung ausgeführt werden, wenn
 dies aus besonderen Gründen notwendig ist.
-
 
 #### § 13 Urlaub aus der Haft
 
@@ -260,7 +238,6 @@ sind, kann nach den für den offenen Vollzug geltenden Vorschriften
 Urlaub erteilt werden.
 
 (5) Durch den Urlaub wird die Strafvollstreckung nicht unterbrochen.
-
 
 #### § 14 Weisungen, Aufhebung von Lockerungen und Urlaub
 
@@ -284,7 +261,6 @@ Er kann Lockerungen und Urlaub mit Wirkung für die Zukunft
 zurücknehmen, wenn die Voraussetzungen für ihre Bewilligung nicht
 vorgelegen haben.
 
-
 #### § 15 Entlassungsvorbereitung
 
 (1) Um die Entlassung vorzubereiten, soll der Vollzug gelockert werden
@@ -302,7 +278,6 @@ vor der Entlassung Sonderurlaub bis zu sechs Tagen im Monat gewährt
 werden. § 11 Abs. 2, § 13 Abs. 5 und § 14 gelten entsprechend. Absatz
 3 Satz 1 findet keine Anwendung.
 
-
 #### § 16 Entlassungszeitpunkt
 
 (1) Der Gefangene soll am letzten Tag seiner Strafzeit möglichst
@@ -319,10 +294,7 @@ ist und fürsorgerische Gründe nicht entgegenstehen.
 wenn dringende Gründe dafür vorliegen, daß der Gefangene zu seiner
 Eingliederung hierauf angewiesen ist.
 
-
 ### Dritter Titel - Unterbringung und Ernährung des Gefangenen
-
-
 
 #### § 17 Unterbringung während der Arbeit und Freizeit
 
@@ -351,10 +323,6 @@ Freizeit kann eingeschränkt werden,
 
 4.  wenn der Gefangene zustimmt.
 
-
-
-
-
 #### § 18 Unterbringung während der Ruhezeit
 
 (1) Gefangene werden während der Ruhezeit allein in ihren Hafträumen
@@ -368,7 +336,6 @@ Beeinflussung nicht zu befürchten ist. Im geschlossenen Vollzug ist
 eine gemeinschaftliche Unterbringung zur Ruhezeit außer in den Fällen
 des Absatzes 1 nur vorübergehend und aus zwingenden Gründen zulässig.
 
-
 #### § 19 Ausstattung des Haftraumes durch den Gefangenen und sein persönlicher Besitz
 
 (1) Der Gefangene darf seinen Haftraum in angemessenem Umfang mit
@@ -378,7 +345,6 @@ Erinnerungsstücke von persönlichem Wert werden ihm belassen.
 (2) Vorkehrungen und Gegenstände, die die Übersichtlichkeit des
 Haftraumes behindern oder in anderer Weise Sicherheit oder Ordnung der
 Anstalt gefährden, können ausgeschlossen werden.
-
 
 #### § 20 Kleidung
 
@@ -391,14 +357,12 @@ entweichen wird. Er kann dies auch sonst gestatten, sofern der
 Gefangene für Reinigung, Instandsetzung und regelmäßigen Wechsel auf
 eigene Kosten sorgt.
 
-
 #### § 21 Anstaltsverpflegung
 
 Zusammensetzung und Nährwert der Anstaltsverpflegung werden ärztlich
 überwacht. Auf ärztliche Anordnung wird besondere Verpflegung gewährt.
 Dem Gefangenen ist zu ermöglichen, Speisevorschriften seiner
 Religionsgemeinschaft zu befolgen.
-
 
 #### § 22 Einkauf
 
@@ -421,17 +385,13 @@ eingeschränkt werden.
 oder Taschengeld, wird ihm gestattet, in angemessenem Umfang vom
 Eigengeld einzukaufen.
 
-
 ### Vierter Titel - Besuche, Schriftwechsel sowie Urlaub, Ausgang und Ausführung aus besonderem Anlaß
-
-
 
 #### § 23 Grundsatz
 
 Der Gefangene hat das Recht, mit Personen außerhalb der Anstalt im
 Rahmen der Vorschriften dieses Gesetzes zu verkehren. Der Verkehr mit
 Personen außerhalb der Anstalt ist zu fördern.
-
 
 #### § 24 Recht auf Besuch
 
@@ -449,7 +409,6 @@ werden können.
 (3) Aus Gründen der Sicherheit kann ein Besuch davon abhängig gemacht
 werden, daß sich der Besucher durchsuchen läßt.
 
-
 #### § 25 Besuchsverbot
 
 Der Anstaltsleiter kann Besuche untersagen,
@@ -462,10 +421,6 @@ Der Anstaltsleiter kann Besuche untersagen,
     schädlichen Einfluß auf den Gefangenen haben oder seine Eingliederung
     behindern würden.
 
-
-
-
-
 #### § 26 Besuche von Verteidigern, Rechtsanwälten und Notaren
 
 Besuche von Verteidigern sowie von Rechtsanwälten oder Notaren in
@@ -473,7 +428,6 @@ einer den Gefangenen betreffenden Rechtssache sind zu gestatten. § 24
 Abs. 3 gilt entsprechend. Eine inhaltliche Überprüfung der vom
 Verteidiger mitgeführten Schriftstücke und sonstigen Unterlagen ist
 nicht zulässig. § 29 Abs. 1 Satz 2 und 3 bleibt unberührt.
-
 
 #### § 27 Überwachung der Besuche
 
@@ -501,7 +455,6 @@ Unterlagen; bei dem Besuch eines Rechtsanwalts oder Notars kann die
 Erlaubnis abhängig gemacht werden. § 29 Abs. 1 Satz 2 und 3 bleibt
 unberührt.
 
-
 #### § 28 Recht auf Schriftwechsel
 
 (1) Der Gefangene hat das Recht, unbeschränkt Schreiben abzusenden und
@@ -517,10 +470,6 @@ untersagen,
     Strafgesetzbuches sind, wenn zu befürchten ist, daß der Schriftwechsel
     einen schädlichen Einfluß auf den Gefangenen haben oder seine
     Eingliederung behindern würde.
-
-
-
-
 
 #### § 29 Überwachung des Schriftwechsels
 
@@ -557,7 +506,6 @@ Identität des Absenders zweifelsfrei feststeht.
 Gründen der Behandlung oder der Sicherheit oder Ordnung der Anstalt
 erforderlich ist.
 
-
 #### § 30 Weiterleitung von Schreiben. Aufbewahrung
 
 (1) Der Gefangene hat Absendung und Empfang seiner Schreiben durch die
@@ -569,7 +517,6 @@ weiterzuleiten.
 (3) Der Gefangene hat eingehende Schreiben unverschlossen zu
 verwahren, sofern nichts anderes gestattet wird; er kann sie
 verschlossen zu seiner Habe geben.
-
 
 #### § 31 Anhalten von Schreiben
 
@@ -612,7 +559,6 @@ behördlich verwahrt.
 (4) Schreiben, deren Überwachung nach § 29 Abs. 1 und 2 ausgeschlossen
 ist, dürfen nicht angehalten werden.
 
-
 #### § 32 Ferngespräche und Telegramme
 
 Dem Gefangenen kann gestattet werden, Ferngespräche zu führen oder
@@ -625,7 +571,6 @@ Herstellung der Verbindung durch die Vollzugsbehörde oder den
 Gefangenen mitzuteilen. Der Gefangene ist rechtzeitig vor Beginn der
 fernmündlichen Unterhaltung über die beabsichtigte Überwachung und die
 Mitteilungspflicht nach Satz 3 zu unterrichten.
-
 
 #### § 33 Pakete
 
@@ -651,11 +596,9 @@ unerläßlich ist.
 Vollzugsbehörde kann ihren Inhalt aus Gründen der Sicherheit oder
 Ordnung der Anstalt überprüfen.
 
-
 #### § 34 Verwertung von Kenntnissen
 
 (weggefallen)
-
 
 #### § 35 Urlaub, Ausgang und Ausführung aus wichtigem Anlaß
 
@@ -674,7 +617,6 @@ lassen. Die Aufwendungen hierfür hat der Gefangene zu tragen. Der
 Anspruch ist nicht geltend zu machen, wenn dies die Behandlung oder
 die Eingliederung behindern würde.
 
-
 #### § 36 Gerichtliche Termine
 
 (1) Der Anstaltsleiter kann einem Gefangenen zur Teilnahme an einem
@@ -692,10 +634,7 @@ Gefangenen vorführen, sofern ein Vorführungsbefehl vorliegt.
 
 (3) Die Vollzugsbehörde unterrichtet das Gericht über das Veranlaßte.
 
-
 ### Fünfter Titel - Arbeit, Ausbildung und Weiterbildung
-
-
 
 #### § 37 Zuweisung
 
@@ -719,7 +658,6 @@ zugewiesen werden, wird ihm eine angemessene Beschäftigung zugeteilt.
 (5) Ist ein Gefangener zu wirtschaftlich ergiebiger Arbeit nicht
 fähig, soll er arbeitstherapeutisch beschäftigt werden.
 
-
 #### § 38 Unterricht
 
 (1) Für geeignete Gefangene, die den Abschluß der Hauptschule nicht
@@ -730,7 +668,6 @@ Unterricht vorzusehen; dies gilt auch für die berufliche
 Weiterbildung, soweit die Art der Maßnahme es erfordert.
 
 (2) Unterricht soll während der Arbeitszeit stattfinden.
-
 
 #### § 39 Freies Beschäftigungsverhältnis, Selbstbeschäftigung
 
@@ -748,13 +685,11 @@ bleiben unberührt.
 (3) Die Vollzugsbehörde kann verlangen, daß ihr das Entgelt zur
 Gutschrift für den Gefangenen überwiesen wird.
 
-
 #### § 40 Abschlußzeugnis
 
 Aus dem Abschlußzeugnis über eine ausbildende oder weiterbildende
 Maßnahme darf die Gefangenschaft eines Teilnehmers nicht erkennbar
 sein.
-
 
 #### § 41 Arbeitspflicht
 
@@ -773,7 +708,6 @@ Zustimmung des Gefangenen. Die Zustimmung darf nicht zur Unzeit
 widerrufen werden.
 
 (3)
-
 
 #### § 42 Freistellung von der Arbeitspflicht
 
@@ -794,7 +728,6 @@ gezahlten Bezüge weiter.
 
 (4) Urlaubsregelungen der Beschäftigungsverhältnisse außerhalb des
 Strafvollzuges bleiben unberührt.
-
 
 #### § 43 Arbeitsentgelt, Arbeitsurlaub und Anrechnung der Freistellung auf den Entlassungszeitpunkt
 
@@ -888,7 +821,6 @@ Freiheitsstrafe oder Sicherungsverwahrung zum Eigengeld (§ 52)
 gutgeschrieben, soweit er nicht vor diesem Zeitpunkt entlassen wird; §
 57 Abs. 4 des Strafgesetzbuches gilt entsprechend.
 
-
 #### § 44 Ausbildungsbeihilfe
 
 (1) Nimmt der Gefangene an einer Berufsausbildung, beruflichen
@@ -907,18 +839,15 @@ tageweise am Unterricht oder an anderen zugewiesenen Maßnahmen gemäß §
 37 Abs. 3 teil, so erhält er in Höhe des ihm dadurch entgehenden
 Arbeitsentgelts eine Ausbildungsbeihilfe.
 
-
 #### § 45 Ausfallentschädigung
 
 (zukünftig in Kraft)
-
 
 #### § 46 Taschengeld
 
 Wenn ein Gefangener ohne sein Verschulden kein Arbeitsentgelt und
 keine Ausbildungsbeihilfe erhält, wird ihm ein angemessenes
 Taschengeld gewährt, falls er bedürftig ist.
-
 
 #### § 47 Hausgeld
 
@@ -931,7 +860,6 @@ Einkauf (§ 22 Abs. 1) oder anderweitig verwenden.
 39 Abs. 2), wird aus ihren Bezügen ein angemessenes Hausgeld
 festgesetzt.
 
-
 #### § 48 Rechtsverordnung
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
@@ -939,11 +867,9 @@ dem Bundesministerium für Wirtschaft und Technologie mit Zustimmung
 des Bundesrates zur Durchführung der §§ 43 bis 45 Rechtsverordnungen
 über die Vergütungsstufen zu erlassen.
 
-
 #### § 49 Unterhaltsbeitrag
 
 (zukünftig in Kraft)
-
 
 #### § 50 Haftkostenbeitrag
 
@@ -1001,7 +927,6 @@ begründen. Auch in diesem Fall ist der Haftkostenbeitrag eine
 Justizverwaltungsabgabe; auf das gerichtliche Verfahren finden die §§
 109 bis 121 entsprechende Anwendung.
 
-
 #### § 51 Überbrückungsgeld
 
 (1) Aus den in diesem Gesetz geregelten Bezügen und aus den Bezügen
@@ -1043,17 +968,13 @@ seinen notwendigen Unterhalt und zur Erfüllung seiner sonstigen
 gesetzlichen Unterhaltspflichten für die Zeit von der Pfändung bis zum
 Ablauf von vier Wochen seit der Entlassung bedarf.
 
-
 #### § 52 Eigengeld
 
 Bezüge des Gefangenen, die nicht als Hausgeld, Haftkostenbeitrag,
 Unterhaltsbeitrag oder Überbrückungsgeld in Anspruch genommen werden,
 sind dem Gefangenen zum Eigengeld gutzuschreiben.
 
-
 ### Sechster Titel - Religionsausübung
-
-
 
 #### § 53 Seelsorge
 
@@ -1067,7 +988,6 @@ dürfen ihm nur bei grobem Mißbrauch entzogen werden.
 
 (3) Dem Gefangenen sind Gegenstände des religiösen Gebrauchs in
 angemessenem Umfang zu belassen.
-
 
 #### § 54 Religiöse Veranstaltungen
 
@@ -1083,16 +1003,12 @@ religiösen Veranstaltungen ausgeschlossen werden, wenn dies aus
 überwiegenden Gründen der Sicherheit oder Ordnung geboten ist; der
 Seelsorger soll vorher gehört werden.
 
-
 #### § 55 Weltanschauungsgemeinschaften
 
 Für Angehörige weltanschaulicher Bekenntnisse gelten die §§ 53 und 54
 entsprechend.
 
-
 ### Siebter Titel - Gesundheitsfürsorge
-
-
 
 #### § 56 Allgemeine Regeln
 
@@ -1101,7 +1017,6 @@ sorgen. § 101 bleibt unberührt.
 
 (2) Der Gefangene hat die notwendigen Maßnahmen zum Gesundheitsschutz
 und zur Hygiene zu unterstützen.
-
 
 #### § 57 Gesundheitsuntersuchungen, medizinische Vorsorgeleistungen
 
@@ -1167,10 +1082,6 @@ sind,
 
 3.  Pflegebedürftigkeit zu vermeiden.
 
-
-
-
-
 #### § 58 Krankenbehandlung
 
 Gefangene haben Anspruch auf Krankenbehandlung, wenn sie notwendig
@@ -1191,10 +1102,6 @@ umfaßt insbesondere
     Belastungserprobung und Arbeitstherapie, soweit die Belange des
     Vollzuges dem nicht entgegenstehen.
 
-
-
-
-
 #### § 59 Versorgung mit Hilfsmitteln
 
 Gefangene haben Anspruch auf Versorgung mit Seh- und Hörhilfen,
@@ -1212,13 +1119,11 @@ Sehfähigkeit um mindestens 0,5 Dioptrien. Anspruch auf Versorgung mit
 Kontaktlinsen besteht nur in medizinisch zwingend erforderlichen
 Ausnahmefällen.
 
-
 #### § 60 Krankenbehandlung im Urlaub
 
 Während eines Urlaubs oder Ausgangs hat der Gefangene gegen die
 Vollzugsbehörde nur einen Anspruch auf Krankenbehandlung in der für
 ihn zuständigen Vollzugsanstalt.
-
 
 #### § 61 Art und Umfang der Leistungen
 
@@ -1229,7 +1134,6 @@ Hilfsmitteln gelten die entsprechenden Vorschriften des
 Sozialgesetzbuchs und die auf Grund dieser Vorschriften getroffenen
 Regelungen.
 
-
 #### § 62 Zuschüsse zu Zahnersatz und Zahnkronen
 
 Die Landesjustizverwaltungen bestimmen durch allgemeine
@@ -1238,13 +1142,11 @@ zahnärztlichen Behandlung und der zahntechnischen Leistungen bei der
 Versorgung mit Zahnersatz. Sie können bestimmen, daß die gesamten
 Kosten übernommen werden.
 
-
 #### § 62a Ruhen der Ansprüche
 
 Der Anspruch auf Leistungen nach den §§ 57 bis 59 ruht, solange der
 Gefangene auf Grund eines freien Beschäftigungsverhältnisses (§ 39
 Abs. 1) krankenversichert ist.
-
 
 #### § 63 Ärztliche Behandlung zur sozialen Eingliederung
 
@@ -1255,13 +1157,11 @@ den Kosten zu beteiligen, wenn dies nach seinen wirtschaftlichen
 Verhältnissen gerechtfertigt ist und der Zweck der Behandlung dadurch
 nicht in Frage gestellt wird.
 
-
 #### § 64 Aufenthalt im Freien
 
 Arbeitet ein Gefangener nicht im Freien, so wird ihm täglich
 mindestens eine Stunde Aufenthalt im Freien ermöglicht, wenn die
 Witterung dies zu der festgesetzten Zeit zuläßt.
-
 
 #### § 65 Verlegung
 
@@ -1275,7 +1175,6 @@ es nicht möglich, den Gefangenen rechtzeitig in ein
 Anstaltskrankenhaus zu verlegen, ist dieser in ein Krankenhaus
 außerhalb des Vollzuges zu bringen.
 
-
 #### § 66 Benachrichtigung bei Erkrankung oder Todesfall
 
 (1) Wird ein Gefangener schwer krank, so ist ein Angehöriger, eine
@@ -1285,10 +1184,7 @@ zu benachrichtigen. Dasselbe gilt, wenn ein Gefangener stirbt.
 (2) Dem Wunsch des Gefangenen, auch andere Personen zu
 benachrichtigen, soll nach Möglichkeit entsprochen werden.
 
-
 ### Achter Titel - Freizeit
-
-
 
 #### § 67 Allgemeines
 
@@ -1298,7 +1194,6 @@ einschließlich Sport, an Fernunterricht, Lehrgängen und sonstigen
 Veranstaltungen der Weiterbildung, an Freizeitgruppen,
 Gruppengesprächen sowie an Sportveranstaltungen teilzunehmen und eine
 Bücherei zu benutzen.
-
 
 #### § 68 Zeitungen und Zeitschriften
 
@@ -1310,7 +1205,6 @@ mit Strafe oder Geldbuße bedroht ist. Einzelne Ausgaben oder Teile von
 Zeitungen oder Zeitschriften können dem Gefangenen vorenthalten
 werden, wenn sie das Ziel des Vollzuges oder die Sicherheit oder
 Ordnung der Anstalt erheblich gefährden würden.
-
 
 #### § 69 Hörfunk und Fernsehen
 
@@ -1325,7 +1219,6 @@ ist.
 
 (2) Eigene Hörfunk- und Fernsehgeräte werden unter den Voraussetzungen
 des § 70 zugelassen.
-
 
 #### § 70 Besitz von Gegenständen für die Freizeitbeschäftigung
 
@@ -1347,10 +1240,7 @@ Benutzung des Gegenstands
 (3) Die Erlaubnis kann unter den Voraussetzungen des Absatzes 2
 widerrufen werden.
 
-
 ### Neunter Titel - Soziale Hilfe
-
-
 
 #### § 71 Grundsatz
 
@@ -1358,7 +1248,6 @@ Der Gefangene kann die soziale Hilfe der Anstalt in Anspruch nehmen,
 um seine persönlichen Schwierigkeiten zu lösen. Die Hilfe soll darauf
 gerichtet sein, den Gefangenen in die Lage zu versetzen, seine
 Angelegenheiten selbst zu ordnen und zu regeln.
-
 
 #### § 72 Hilfe bei der Aufnahme
 
@@ -1369,14 +1258,12 @@ außerhalb der Anstalt sicherzustellen.
 (2) Der Gefangene ist über die Aufrechterhaltung einer
 Sozialversicherung zu beraten.
 
-
 #### § 73 Hilfe während des Vollzuges
 
 Der Gefangene wird in dem Bemühen unterstützt, seine Rechte und
 Pflichten wahrzunehmen, namentlich sein Wahlrecht auszuüben sowie für
 Unterhaltsberechtigte zu sorgen und einen durch seine Straftat
 verursachten Schaden zu regeln.
-
 
 #### § 74 Hilfe zur Entlassung
 
@@ -1386,7 +1273,6 @@ beraten. Die Beratung erstreckt sich auch auf die Benennung der für
 Sozialleistungen zuständigen Stellen. Dem Gefangenen ist zu helfen,
 Arbeit, Unterkunft und persönlichen Beistand für die Zeit nach der
 Entlassung zu finden.
-
 
 #### § 75 Entlassungsbeihilfe
 
@@ -1408,10 +1294,7 @@ Reisebeihilfe sind unpfändbar. Für den Anspruch auf
 Überbrückungsbeihilfe an den Gefangenen gilt § 51 Abs. 4 Satz 1 und 3,
 Abs. 5 entsprechend.
 
-
 ### Zehnter Titel - Besondere Vorschriften für den Frauenstrafvollzug
-
-
 
 #### § 76 Leistungen bei Schwangerschaft und Mutterschaft
 
@@ -1433,25 +1316,21 @@ so ist die Entbindung in einer Vollzugsanstalt mit
 Entbindungsabteilung vorzunehmen. Bei der Entbindung wird Hilfe durch
 eine Hebamme und, falls erforderlich, durch einen Arzt gewährt.
 
-
 #### § 77 Arznei-, Verband- und Heilmittel
 
 Bei Schwangerschaftsbeschwerden und im Zusammenhang mit der Entbindung
 werden Arznei-, Verband- und Heilmittel geleistet.
-
 
 #### § 78 Art, Umfang und Ruhen der Leistungen bei Schwangerschaft und Mutterschaft
 
 Die §§ 60, 61, 62a und 65 gelten für die Leistungen nach den §§ 76 und
 77 entsprechend.
 
-
 #### § 79 Geburtsanzeige
 
 In der Anzeige der Geburt an das Standesamt dürfen die Anstalt als
 Geburtsstätte des Kindes, das Verhältnis des Anzeigenden zur Anstalt
 und die Gefangenschaft der Mutter nicht vermerkt sein.
-
 
 #### § 80 Mütter mit Kindern
 
@@ -1466,10 +1345,7 @@ Unterhaltspflichtigen. Von der Geltendmachung des
 Kostenersatzanspruchs kann abgesehen werden, wenn hierdurch die
 gemeinsame Unterbringung von Mutter und Kind gefährdet würde.
 
-
 ### Elfter Titel - Sicherheit und Ordnung
-
-
 
 #### § 81 Grundsatz
 
@@ -1481,7 +1357,6 @@ Aufrechterhaltung der Sicherheit oder Ordnung der Anstalt auferlegt
 werden, sind so zu wählen, daß sie in einem angemessenen Verhältnis zu
 ihrem Zweck stehen und den Gefangenen nicht mehr und nicht länger als
 notwendig beeinträchtigen.
-
 
 #### § 82 Verhaltensvorschriften
 
@@ -1500,7 +1375,6 @@ hat er in Ordnung zu halten und schonend zu behandeln.
 (4) Der Gefangene hat Umstände, die eine Gefahr für das Leben oder
 eine erhebliche Gefahr für die Gesundheit einer Person bedeuten,
 unverzüglich zu melden.
-
 
 #### § 83 Persönlicher Gewahrsam. Eigengeld
 
@@ -1527,7 +1401,6 @@ auf Kosten des Gefangenen aus der Anstalt entfernen zu lassen.
 Sicherungsvorkehrungen der Anstalt vermitteln, dürfen von der
 Vollzugsbehörde vernichtet oder unbrauchbar gemacht werden.
 
-
 #### § 84 Durchsuchung
 
 (1) Gefangene, ihre Sachen und die Hafträume dürfen durchsucht werden.
@@ -1546,14 +1419,12 @@ durchzuführen. Andere Gefangene dürfen nicht anwesend sein.
 Aufnahme, nach Kontakten mit Besuchern und nach jeder Abwesenheit von
 der Anstalt nach Absatz 2 zu durchsuchen sind.
 
-
 #### § 85 Sichere Unterbringung
 
 Ein Gefangener kann in eine Anstalt verlegt werden, die zu seiner
 sicheren Unterbringung besser geeignet ist, wenn in erhöhtem Maß
 Fluchtgefahr gegeben ist oder sonst sein Verhalten oder sein Zustand
 eine Gefahr für die Sicherheit oder Ordnung der Anstalt darstellt.
-
 
 #### § 86 Erkennungsdienstliche Maßnahmen
 
@@ -1589,7 +1460,6 @@ richterlichen Entscheidung, die dem Vollzug zugrunde gelegen hat,
 abgeschlossen ist. Sie sind über dieses Recht bei der
 erkennungsdienstlichen Behandlung und bei der Entlassung aufzuklären.
 
-
 #### § 86a Lichtbilder
 
 (1) Unbeschadet des § 86 dürfen zur Aufrechterhaltung der Sicherheit
@@ -1624,7 +1494,6 @@ aufgenommen werden.
 Vollzug oder nach ihrer Verlegung in eine andere Anstalt zu vernichten
 oder zu löschen.
 
-
 #### § 87 Festnahmerecht
 
 (1) Ein Gefangener, der entwichen ist oder sich sonst ohne Erlaubnis
@@ -1638,7 +1507,6 @@ Vollstreckungs- und Strafverfolgungsbehörden übermittelt werden,
 soweit dies für Zwecke der Fahndung und Festnahme des entwichenen oder
 sich sonst ohne Erlaubnis außerhalb der Anstalt aufhaltenden
 Gefangenen erforderlich ist.
-
 
 #### § 88 Besondere Sicherungsmaßnahmen
 
@@ -1682,7 +1550,6 @@ Absatzes 1 in erhöhtem Maß Fluchtgefahr besteht.
 (5) Besondere Sicherungsmaßnahmen dürfen nur soweit aufrechterhalten
 werden, als es ihr Zweck erfordert.
 
-
 #### § 89 Einzelhaft
 
 (1) Die unausgesetzte Absonderung eines Gefangenen (Einzelhaft) ist
@@ -1694,14 +1561,12 @@ bedarf der Zustimmung der Aufsichtsbehörde. Diese Frist wird nicht
 dadurch unterbrochen, daß der Gefangene am Gottesdienst oder an der
 Freistunde teilnimmt.
 
-
 #### § 90 Fesselung
 
 In der Regel dürfen Fesseln nur an den Händen oder an den Füßen
 angelegt werden. Im Interesse des Gefangenen kann der Anstaltsleiter
 eine andere Art der Fesselung anordnen. Die Fesselung wird zeitweise
 gelockert, soweit dies notwendig ist.
-
 
 #### § 91 Anordnung besonderer Sicherungsmaßnahmen
 
@@ -1715,7 +1580,6 @@ sein seelischer Zustand den Anlaß der Maßnahme, ist vorher der Arzt zu
 hören. Ist dies wegen Gefahr im Verzug nicht möglich, wird seine
 Stellungnahme unverzüglich eingeholt.
 
-
 #### § 92 Ärztliche Überwachung
 
 (1) Ist ein Gefangener in einem besonders gesicherten Haftraum
@@ -1726,7 +1590,6 @@ oder eines Transportes (§ 88 Abs. 4).
 
 (2) Der Arzt ist regelmäßig zu hören, solange einem Gefangenen der
 tägliche Aufenthalt im Freien entzogen wird.
-
 
 #### § 93 Ersatz von Aufwendungen
 
@@ -1746,10 +1609,7 @@ Rechtsweg gegeben.
 genannten Forderungen ist abzusehen, wenn hierdurch die Behandlung des
 Gefangenen oder seine Eingliederung behindert würde.
 
-
 ### Zwölfter Titel - Unmittelbarer Zwang
-
-
 
 #### § 94 Allgemeine Voraussetzungen
 
@@ -1766,7 +1626,6 @@ unbefugt darin aufhalten.
 (3) Das Recht zu unmittelbarem Zwang auf Grund anderer Regelungen
 bleibt unberührt.
 
-
 #### § 95 Begriffsbestimmungen
 
 (1) Unmittelbarer Zwang ist die Einwirkung auf Personen oder Sachen
@@ -1780,7 +1639,6 @@ auf Personen oder Sachen.
 (4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen
 sowie Reizstoffe.
 
-
 #### § 96 Grundsatz der Verhältnismäßigkeit
 
 (1) Unter mehreren möglichen und geeigneten Maßnahmen des
@@ -1789,7 +1647,6 @@ die Allgemeinheit voraussichtlich am wenigsten beeinträchtigen.
 
 (2) Unmittelbarer Zwang unterbleibt, wenn ein durch ihn zu erwartender
 Schaden erkennbar außer Verhältnis zu dem angestrebten Erfolg steht.
-
 
 #### § 97 Handeln auf Anordnung
 
@@ -1811,7 +1668,6 @@ allgemeinen Beamtenrechts über die Mitteilung solcher Bedenken an
 einen Vorgesetzten (§ 36 Abs. 2 und 3 des Beamtenstatusgesetzes) sind
 nicht anzuwenden.
 
-
 #### § 98 Androhung
 
 Unmittelbarer Zwang ist vorher anzudrohen. Die Androhung darf nur dann
@@ -1819,7 +1675,6 @@ unterbleiben, wenn die Umstände sie nicht zulassen oder unmittelbarer
 Zwang sofort angewendet werden muß, um eine rechtswidrige Tat, die den
 Tatbestand eines Strafgesetzes erfüllt, zu verhindern oder eine
 gegenwärtige Gefahr abzuwenden.
-
 
 #### § 99 Allgemeine Vorschriften für den Schußwaffengebrauch
 
@@ -1837,7 +1692,6 @@ Wahrscheinlichkeit gefährdet würden.
 gilt auch ein Warnschuß. Ohne Androhung dürfen Schußwaffen nur dann
 gebraucht werden, wenn das zur Abwehr einer gegenwärtigen Gefahr für
 Leib oder Leben erforderlich ist.
-
 
 #### § 100 Besondere Vorschriften für den Schußwaffengebrauch
 
@@ -1861,7 +1715,6 @@ Schußwaffen gebraucht werden.
 sie es unternehmen, Gefangene gewaltsam zu befreien oder gewaltsam in
 eine Anstalt einzudringen.
 
-
 #### § 101 Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
 
 (1) Medizinische Untersuchung und Behandlung sowie Ernährung sind
@@ -1882,10 +1735,7 @@ Arztes durchgeführt werden, unbeschadet der Leistung erster Hilfe für
 den Fall, daß ein Arzt nicht rechtzeitig erreichbar und mit einem
 Aufschub Lebensgefahr verbunden ist.
 
-
 ### Dreizehnter Titel - Disziplinarmaßnahmen
-
-
 
 #### § 102 Voraussetzungen
 
@@ -1898,7 +1748,6 @@ Gefangenen zu verwarnen.
 
 (3) Eine Disziplinarmaßnahme ist auch zulässig, wenn wegen derselben
 Verfehlung ein Straf- oder Bußgeldverfahren eingeleitet wird.
-
 
 #### § 103 Arten der Disziplinarmaßnahmen
 
@@ -1950,7 +1799,6 @@ angeordnet werden, wenn die Verfehlung mit den zu beschränkenden oder
 zu entziehenden Befugnissen im Zusammenhang steht. Dies gilt nicht bei
 einer Verbindung mit Arrest.
 
-
 #### § 104 Vollzug der Disziplinarmaßnahmen. Aussetzung zur Bewährung
 
 (1) Disziplinarmaßnahmen werden in der Regel sofort vollstreckt.
@@ -1977,7 +1825,6 @@ bestimmten Haftraum gestellt werden. Soweit nichts anderes angeordnet
 wird, ruhen die Befugnisse des Gefangenen aus den §§ 19, 20, 22, 37,
 38, 68 bis 70.
 
-
 #### § 105 Disziplinarbefugnis
 
 (1) Disziplinarmaßnahmen ordnet der Anstaltsleiter an. Bei einer
@@ -1990,7 +1837,6 @@ Gefangenen gegen den Anstaltsleiter richtet.
 (3) Disziplinarmaßnahmen, die gegen einen Gefangenen in einer anderen
 Vollzugsanstalt oder während einer Untersuchungshaft angeordnet worden
 sind, werden auf Ersuchen vollstreckt. § 104 Abs. 2 bleibt unberührt.
-
 
 #### § 106 Verfahren
 
@@ -2008,7 +1854,6 @@ Mutter ist der Anstaltsarzt zu hören.
 (3) Die Entscheidung wird dem Gefangenen vom Anstaltsleiter mündlich
 eröffnet und mit einer kurzen Begründung schriftlich abgefaßt.
 
-
 #### § 107 Mitwirkung des Arztes
 
 (1) Bevor der Arrest vollzogen wird, ist der Arzt zu hören. Während
@@ -2017,10 +1862,7 @@ des Arrestes steht der Gefangene unter ärztlicher Aufsicht.
 (2) Der Vollzug des Arrestes unterbleibt oder wird unterbrochen, wenn
 die Gesundheit des Gefangenen gefährdet würde.
 
-
 ### Vierzehnter Titel - Rechtsbehelfe
-
-
 
 #### § 108 Beschwerderecht
 
@@ -2033,7 +1875,6 @@ zu gewährleisten, daß ein Gefangener sich in Angelegenheiten, die ihn
 selbst betreffen, an ihn wenden kann.
 
 (3) Die Möglichkeit der Dienstaufsichtsbeschwerde bleibt unberührt.
-
 
 #### § 109 Antrag auf gerichtliche Entscheidung
 
@@ -2049,14 +1890,12 @@ Ablehnung oder Unterlassung in seinen Rechten verletzt zu sein.
 (3) Das Landesrecht kann vorsehen, daß der Antrag erst nach
 vorausgegangenem Verwaltungsvorverfahren gestellt werden kann.
 
-
 #### § 110 Zuständigkeit
 
 Über den Antrag entscheidet die Strafvollstreckungskammer, in deren
 Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat. Durch die
 Entscheidung in einem Verwaltungsvorverfahren nach § 109 Abs. 3 ändert
 sich die Zuständigkeit der Strafvollstreckungskammer nicht.
-
 
 #### § 111 Beteiligte
 
@@ -2074,7 +1913,6 @@ sich die Zuständigkeit der Strafvollstreckungskammer nicht.
 (2) In dem Verfahren vor dem Oberlandesgericht oder dem
 Bundesgerichtshof ist Beteiligte nach Absatz 1 Nr. 2 die zuständige
 Aufsichtsbehörde.
-
 
 #### § 112 Antragsfrist. Wiedereinsetzung
 
@@ -2100,7 +1938,6 @@ Wiedereinsetzung auch ohne Antrag gewährt werden.
 auf Wiedereinsetzung unzulässig, außer wenn der Antrag vor Ablauf der
 Jahresfrist infolge höherer Gewalt unmöglich war.
 
-
 #### § 113 Vornahmeantrag
 
 (1) Wendet sich der Antragsteller gegen das Unterlassen einer
@@ -2121,7 +1958,6 @@ wenn die Antragstellung vor Ablauf der Jahresfrist infolge höherer
 Gewalt unmöglich war oder unter den besonderen Verhältnissen des
 Einzelfalles unterblieben ist.
 
-
 #### § 114 Aussetzung der Maßnahme
 
 (1) Der Antrag auf gerichtliche Entscheidung hat keine aufschiebende
@@ -2138,7 +1974,6 @@ Gericht jederzeit geändert oder aufgehoben werden.
 
 (3) Der Antrag auf eine Entscheidung nach Absatz 2 ist schon vor
 Stellung des Antrags auf gerichtliche Entscheidung zulässig.
-
 
 #### § 115 Gerichtliche Entscheidung
 
@@ -2177,7 +2012,6 @@ oder Unterlassung rechtswidrig ist, weil die gesetzlichen Grenzen des
 Ermessens überschritten sind oder von dem Ermessen in einer dem Zweck
 der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht ist.
 
-
 #### § 116 Rechtsbeschwerde
 
 (1) Gegen die gerichtliche Entscheidung der Strafvollstreckungskammer
@@ -2197,13 +2031,11 @@ gilt entsprechend.
 Strafprozeßordnung über die Beschwerde entsprechend, soweit dieses
 Gesetz nichts anderes bestimmt.
 
-
 #### § 117 Zuständigkeit für die Rechtsbeschwerde
 
 Über die Rechtsbeschwerde entscheidet ein Strafsenat des
 Oberlandesgerichts, in dessen Bezirk die Strafvollstreckungskammer
 ihren Sitz hat.
-
 
 #### § 118 Form. Frist. Begründung
 
@@ -2222,7 +2054,6 @@ den Mangel enthaltenden Tatsachen angegeben werden.
 (3) Der Antragsteller als Beschwerdeführer kann dies nur in einer von
 einem Rechtsanwalt unterzeichneten Schrift oder zur Niederschrift der
 Geschäftsstelle tun.
-
 
 #### § 119 Entscheidung über die Rechtsbeschwerde
 
@@ -2246,7 +2077,6 @@ Strafvollstreckungskammer zurückzuverweisen.
 
 (5) Die Entscheidung des Strafsenats ist endgültig.
 
-
 #### § 120 Entsprechende Anwendung anderer Vorschriften
 
 (1) Soweit sich aus diesem Gesetz nichts anderes ergibt, sind die
@@ -2254,7 +2084,6 @@ Vorschriften der Strafprozeßordnung entsprechend anzuwenden.
 
 (2) Auf die Bewilligung der Prozeßkostenhilfe sind die Vorschriften
 der Zivilprozeßordnung entsprechend anzuwenden.
-
 
 #### § 121 Kosten des Verfahrens
 
@@ -2278,19 +2107,13 @@ entsprechend.
 dreifachen Tagessatz der Eckvergütung nach § 43 Abs. 2 übersteigender
 Teil des Hausgeldes (§ 47) in Anspruch genommen werden.
 
-
 ### Fünfzehnter Titel - Strafvollstreckung und Untersuchungshaft
-
-
 
 #### § 122
 
 (weggefallen)
 
-
 ### Sechzehnter Titel - Sozialtherapeutische Anstalten
-
-
 
 #### § 123 Sozialtherapeutische Anstalten und Abteilungen
 
@@ -2301,7 +2124,6 @@ getrennte sozialtherapeutische Anstalten vorzusehen.
 Abteilungen in anderen Vollzugsanstalten eingerichtet werden. Für
 diese Abteilungen gelten die Vorschriften über die
 sozialtherapeutische Anstalt entsprechend.
-
 
 #### § 124 Urlaub zur Vorbereitung der Entlassung
 
@@ -2317,7 +2139,6 @@ in die Anstalt zurückzukehren.
 (3) § 14 Abs. 2 gilt entsprechend. Der Urlaub wird widerrufen, wenn
 dies für die Behandlung des Gefangenen notwendig ist.
 
-
 #### § 125 Aufnahme auf freiwilliger Grundlage
 
 (1) Ein früherer Gefangener kann auf seinen Antrag vorübergehend
@@ -2331,7 +2152,6 @@ unmittelbarem Zwang durchgesetzt werden.
 
 (3) Auf seinen Antrag ist der Aufgenommene unverzüglich zu entlassen.
 
-
 #### § 126 Nachgehende Betreuung
 
 Die Zahl der Fachkräfte für die sozialtherapeutische Anstalt ist so zu
@@ -2339,19 +2159,13 @@ bemessen, daß auch eine nachgehende Betreuung der Gefangenen
 gewährleistet ist, soweit diese anderweitig nicht sichergestellt
 werden kann.
 
-
 #### (XXXX) §§ 127 und 128
 
 -
 
-
 ## Dritter Abschnitt - Besondere Vorschriften über den Vollzug der freiheitsentziehenden Maßregeln der Besserung und Sicherung
 
-
-
 ### Erster Titel - Sicherungsverwahrung
-
-
 
 #### § 129 Ziel der Unterbringung
 
@@ -2359,13 +2173,11 @@ Der Sicherungsverwahrte wird zum Schutz der Allgemeinheit sicher
 untergebracht. Ihm soll geholfen werden, sich in das Leben in Freiheit
 einzugliedern.
 
-
 #### § 130 Anwendung anderer Vorschriften
 
 Für die Sicherungsverwahrung gelten die Vorschriften über den Vollzug
 der Freiheitsstrafe (§§ 3 bis 126, 179 bis 187) entsprechend, soweit
 im folgenden nichts anderes bestimmt ist.
-
 
 #### § 131 Ausstattung
 
@@ -2376,14 +2188,12 @@ gestalten, und ihn vor Schäden eines langen Freiheitsentzuges
 bewahren. Seinen persönlichen Bedürfnissen ist nach Möglichkeit
 Rechnung zu tragen.
 
-
 #### § 132 Kleidung
 
 Der Untergebrachte darf eigene Kleidung, Wäsche und eigenes Bettzeug
 benutzen, wenn Gründe der Sicherheit nicht entgegenstehen und der
 Untergebrachte für Reinigung, Instandsetzung und regelmäßigen Wechsel
 auf eigene Kosten sorgt.
-
 
 #### § 133 Selbstbeschäftigung. Taschengeld
 
@@ -2395,7 +2205,6 @@ zu fördern.
 (2) Das Taschengeld (§ 46) darf den dreifachen Tagessatz der
 Eckvergütung nach § 43 Abs. 2 im Monat nicht unterschreiten.
 
-
 #### § 134 Entlassungsvorbereitung
 
 Um die Entlassung zu erproben und vorzubereiten, kann der Vollzug
@@ -2403,17 +2212,13 @@ gelockert und Sonderurlaub bis zu einem Monat gewährt werden. Bei
 Untergebrachten in einer sozialtherapeutischen Anstalt bleibt § 124
 unberührt.
 
-
 #### § 135 Sicherungsverwahrung in Frauenanstalten
 
 Die Sicherungsverwahrung einer Frau kann auch in einer für den Vollzug
 der Freiheitsstrafe bestimmten Frauenanstalt durchgeführt werden, wenn
 diese Anstalt für die Sicherungsverwahrung eingerichtet ist.
 
-
 ### Zweiter Titel - Unterbringung in einem psychiatrischen Krankenhaus und in einer Entziehungsanstalt
-
-
 
 #### § 136 Unterbringung in einem psychiatrischen Krankenhaus
 
@@ -2423,13 +2228,11 @@ möglich, soll er geheilt oder sein Zustand so weit gebessert werden,
 daß er nicht mehr gefährlich ist. Ihm wird die nötige Aufsicht,
 Betreuung und Pflege zuteil.
 
-
 #### § 137 Unterbringung in einer Entziehungsanstalt
 
 Ziel der Behandlung des Untergebrachten in einer Entziehungsanstalt
 ist es, ihn von seinem Hang zu heilen und die zugrunde liegende
 Fehlhaltung zu beheben.
-
 
 #### § 138 Anwendung anderer Vorschriften
 
@@ -2455,21 +2258,15 @@ begründen. Die Kosten werden als Justizverwaltungsabgabe erhoben.
 (3) Für das gerichtliche Verfahren gelten die §§ 109 bis 121
 entsprechend.
 
-
 ## Vierter Abschnitt - Vollzugsbehörden
 
-
-
 ### Erster Titel - Arten und Einrichtung der Justizvollzugsanstalten
-
-
 
 #### § 139 Justizvollzugsanstalten
 
 Die Freiheitsstrafe sowie die Unterbringung in der
 Sicherungsverwahrung werden in Anstalten der Landesjustizverwaltungen
 (Justizvollzugsanstalten) vollzogen.
-
 
 #### § 140 Trennung des Vollzuges
 
@@ -2486,7 +2283,6 @@ abgewichen werden, um dem Gefangenen die Teilnahme an
 Behandlungsmaßnahmen in einer anderen Anstalt oder in einer anderen
 Abteilung zu ermöglichen.
 
-
 #### § 141 Differenzierung
 
 (1) Für den Vollzug der Freiheitsstrafe sind Haftplätze vorzusehen in
@@ -2498,12 +2294,10 @@ gewährleistet ist.
 Unterbringung vor, Anstalten des offenen Vollzuges keine oder nur
 verminderte Vorkehrungen gegen Entweichungen.
 
-
 #### § 142 Einrichtungen für Mütter mit Kindern
 
 In Anstalten für Frauen sollen Einrichtungen vorgesehen werden, in
 denen Mütter mit ihren Kindern untergebracht werden können.
-
 
 #### § 143 Größe und Gestaltung der Anstalten
 
@@ -2518,7 +2312,6 @@ werden können.
 Justizvollzugsanstalten für Frauen vorgesehene Belegung soll
 zweihundert Plätze nicht übersteigen.
 
-
 #### § 144 Größe und Ausgestaltung der Räume
 
 (1) Räume für den Aufenthalt während der Ruhe- und Freizeit sowie
@@ -2532,7 +2325,6 @@ des Bundesrates durch Rechtsverordnung Näheres über den Luftinhalt,
 die Lüftung, die Boden- und Fensterfläche sowie die Heizung und
 Einrichtung der Räume zu bestimmen.
 
-
 #### § 145 Festsetzung der Belegungsfähigkeit
 
 Die Aufsichtsbehörde setzt die Belegungsfähigkeit für jede Anstalt so
@@ -2542,7 +2334,6 @@ Anzahl von Plätzen für Arbeit, Ausbildung und Weiterbildung sowie von
 Räumen für Seelsorge, Freizeit, Sport, therapeutische Maßnahmen und
 Besuche zur Verfügung steht.
 
-
 #### § 146 Verbot der Überbelegung
 
 (1) Hafträume dürfen nicht mit mehr Personen als zugelassen belegt
@@ -2551,13 +2342,11 @@ werden.
 (2) Ausnahmen hiervon sind nur vorübergehend und nur mit Zustimmung
 der Aufsichtsbehörde zulässig.
 
-
 #### § 147 Einrichtungen für die Entlassung
 
 Um die Entlassung vorzubereiten, sollen den geschlossenen Anstalten
 offene Einrichtungen angegliedert oder gesonderte offene Anstalten
 vorgesehen werden.
-
 
 #### § 148 Arbeitsbeschaffung, Gelegenheit zur beruflichen Bildung
 
@@ -2571,7 +2360,6 @@ wird.
 Maßnahmen sicher, daß die Bundesagentur für Arbeit die ihr obliegenden
 Aufgaben wie Berufsberatung, Ausbildungsvermittlung und
 Arbeitsvermittlung durchführen kann.
-
 
 #### § 149 Arbeitsbetriebe, Einrichtungen zur beruflichen Bildung
 
@@ -2591,16 +2379,12 @@ können auch in geeigneten Einrichtungen privater Unternehmen erfolgen.
 sonstigen Einrichtungen kann die technische und fachliche Leitung
 Angehörigen dieser Unternehmen übertragen werden.
 
-
 #### § 150 Vollzugsgemeinschaften
 
 Für Vollzugsanstalten nach den §§ 139 bis 149 können die Länder
 Vollzugsgemeinschaften bilden.
 
-
 ### Zweiter Titel - Aufsicht über die Justizvollzugsanstalten
-
-
 
 #### § 151 Aufsichtsbehörden
 
@@ -2613,7 +2397,6 @@ die Weiterbildung, die Gesundheitsfürsorge und die sonstige fachlich
 begründete Behandlung der Gefangenen sind eigene Fachkräfte zu
 beteiligen; soweit die Aufsichtsbehörde nicht über eigene Fachkräfte
 verfügt, ist fachliche Beratung sicherzustellen.
-
 
 #### § 152 Vollstreckungsplan
 
@@ -2628,16 +2411,12 @@ Eingliederung entschieden werden.
 (3) Im übrigen ist die Zuständigkeit nach allgemeinen Merkmalen zu
 bestimmen.
 
-
 #### § 153 Zuständigkeit für Verlegungen
 
 Die Landesjustizverwaltung kann sich Entscheidungen über Verlegungen
 vorbehalten oder sie einer zentralen Stelle übertragen.
 
-
 ### Dritter Titel - Innerer Aufbau der Justizvollzugsanstalten
-
-
 
 #### § 154 Zusammenarbeit
 
@@ -2652,7 +2431,6 @@ der freien Wohlfahrtspflege ist eng zusammenzuarbeiten. Die
 Vollzugsbehörden sollen mit Personen und Vereinen, deren Einfluß die
 Eingliederung des Gefangenen fördern kann, zusammenarbeiten.
 
-
 #### § 155 Vollzugsbedienstete
 
 (1) Die Aufgaben der Justizvollzugsanstalten werden von
@@ -2665,7 +2443,6 @@ Anzahl von Bediensteten der verschiedenen Berufsgruppen, namentlich
 des allgemeinen Vollzugsdienstes, des Verwaltungsdienstes und des
 Werkdienstes, sowie von Seelsorgern, Ärzten, Pädagogen, Psychologen
 und Sozialarbeitern vorzusehen.
-
 
 #### § 156 Anstaltsleitung
 
@@ -2684,7 +2461,6 @@ Sicherungsmaßnahmen nach § 88 und die Disziplinarmaßnahmen nach § 103
 anzuordnen, darf nur mit Zustimmung der Aufsichtsbehörde übertragen
 werden.
 
-
 #### § 157 Seelsorge
 
 (1) Seelsorger werden im Einvernehmen mit der jeweiligen
@@ -2699,7 +2475,6 @@ seelsorgerische Betreuung auf andere Weise zuzulassen.
 sich freier Seelsorgehelfer bedienen und für Gottesdienste sowie für
 andere religiöse Veranstaltungen Seelsorger von außen zuziehen.
 
-
 #### § 158 Ärztliche Versorgung
 
 (1) Die ärztliche Versorgung ist durch hauptamtliche Ärzte
@@ -2712,7 +2487,6 @@ Sinne von Satz 1 nicht zur Verfügung stehen, können auch Bedienstete
 des allgemeinen Vollzugsdienstes eingesetzt werden, die eine sonstige
 Ausbildung in der Krankenpflege erfahren haben.
 
-
 #### § 159 Konferenzen
 
 Zur Aufstellung und Überprüfung des Vollzugsplanes und zur
@@ -2720,14 +2494,12 @@ Vorbereitung wichtiger Entscheidungen im Vollzug führt der
 Anstaltsleiter Konferenzen mit an der Behandlung maßgeblich
 Beteiligten durch.
 
-
 #### § 160 Gefangenenmitverantwortung
 
 Den Gefangenen und Untergebrachten soll ermöglicht werden, an der
 Verantwortung für Angelegenheiten von gemeinsamem Interesse
 teilzunehmen, die sich ihrer Eigenart und der Aufgabe der Anstalt nach
 für ihre Mitwirkung eignen.
-
 
 #### § 161 Hausordnung
 
@@ -2751,10 +2523,7 @@ Zustimmung der Aufsichtsbehörde.
 
 (3) Ein Abdruck der Hausordnung ist in jedem Haftraum auszulegen.
 
-
 ### Vierter Titel - Anstaltsbeiräte
-
-
 
 #### § 162 Bildung der Beiräte
 
@@ -2764,14 +2533,12 @@ Zustimmung der Aufsichtsbehörde.
 
 (3) Das Nähere regeln die Länder.
 
-
 #### § 163 Aufgabe der Beiräte
 
 Die Mitglieder des Beirats wirken bei der Gestaltung des Vollzuges und
 bei der Betreuung der Gefangenen mit. Sie unterstützen den
 Anstaltsleiter durch Anregungen und Verbesserungsvorschläge und helfen
 bei der Eingliederung der Gefangenen nach der Entlassung.
-
 
 #### § 164 Befugnisse
 
@@ -2785,7 +2552,6 @@ ihre Einrichtungen besichtigen.
 Untergebrachten in ihren Räumen aufsuchen. Aussprache und
 Schriftwechsel werden nicht überwacht.
 
-
 #### § 165 Pflicht zur Verschwiegenheit
 
 Die Mitglieder des Beirats sind verpflichtet, außerhalb ihres Amtes
@@ -2794,10 +2560,7 @@ besonders über Namen und Persönlichkeit der Gefangenen und
 Untergebrachten, Verschwiegenheit zu bewahren. Dies gilt auch nach
 Beendigung ihres Amtes.
 
-
 ### Fünfter Titel - Kriminologische Forschung im Strafvollzug
-
-
 
 #### § 166
 
@@ -2808,14 +2571,9 @@ Ergebnisse für Zwecke der Strafrechtspflege nutzbar zu machen.
 
 (2) Die Vorschriften des § 186 gelten entsprechend.
 
-
 ## Fünfter Abschnitt - Vollzug weiterer freiheitsentziehender Maßnahmen in Justizvollzugsanstalten, Datenschutz, Sozial- und Arbeitslosenversicherung, Schlußvorschriften
 
-
-
 ### Erster Titel - Vollzug des Strafarrestes in Justizvollzugsanstalten
-
-
 
 #### § 167 Grundsatz
 
@@ -2825,7 +2583,6 @@ den Vollzug der Freiheitsstrafe (§§ 2 bis 121, 179 bis 187)
 entsprechend, soweit im folgenden nichts anderes bestimmt ist. § 50
 findet nur in den Fällen einer in § 39 erwähnten Beschäftigung
 Anwendung.
-
 
 #### § 168 Unterbringung, Besuche und Schriftverkehr
 
@@ -2843,7 +2600,6 @@ empfangen.
 werden, wenn dies aus Gründen der Sicherheit oder Ordnung der Anstalt
 notwendig ist.
 
-
 #### § 169 Kleidung, Wäsche und Bettzeug
 
 Der Gefangene darf eigene Kleidung, Wäsche und eigenes Bettzeug
@@ -2851,17 +2607,13 @@ benutzen, wenn Gründe der Sicherheit nicht entgegenstehen und der
 Gefangene für Reinigung, Instandsetzung und regelmäßigen Wechsel auf
 eigene Kosten sorgt.
 
-
 #### § 170 Einkauf
 
 Der Gefangene darf Nahrungs- und Genußmittel sowie Mittel zur
 Körperpflege in angemessenem Umfang durch Vermittlung der Anstalt auf
 eigene Kosten erwerben.
 
-
 ### Zweiter Titel - Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft
-
-
 
 #### § 171 Grundsatz
 
@@ -2872,7 +2624,6 @@ Freiheitsstrafe (§§ 3 bis 49, 51 bis 121, 179 bis 187) entsprechend,
 soweit nicht Eigenart und Zweck der Haft entgegenstehen oder im
 folgenden etwas anderes bestimmt ist.
 
-
 #### § 172 Unterbringung
 
 Eine gemeinsame Unterbringung während der Arbeit, Freizeit und
@@ -2882,7 +2633,6 @@ Strafhaft oder einer Unterbringung im Vollzug einer
 freiheitsentziehenden Maßregel der Besserung und Sicherung vollzogen
 wird.
 
-
 #### § 173 Kleidung, Wäsche und Bettzeug
 
 Der Gefangene darf eigene Kleidung, Wäsche und eigenes Bettzeug
@@ -2890,23 +2640,18 @@ benutzen, wenn Gründe der Sicherheit nicht entgegenstehen und der
 Gefangene für Reinigung, Instandsetzung und regelmäßigen Wechsel auf
 eigene Kosten sorgt.
 
-
 #### § 174 Einkauf
 
 Der Gefangene darf Nahrungs- und Genußmittel sowie Mittel zur
 Körperpflege in angemessenem Umfang durch Vermittlung der Anstalt auf
 eigene Kosten erwerben.
 
-
 #### § 175 Arbeit
 
 Der Gefangene ist zu einer Arbeit, Beschäftigung oder Hilfstätigkeit
 nicht verpflichtet.
 
-
 ### Dritter Titel - Arbeitsentgelt in Jugendstrafanstalten und im Vollzug der Untersuchungshaft
-
-
 
 #### § 176 Jugendstrafanstalten
 
@@ -2927,7 +2672,6 @@ Taschengeld gewährt, falls er bedürftig ist.
 
 (4) Im übrigen gelten § 44 und die §§ 49 bis 52 entsprechend.
 
-
 #### § 177 Untersuchungshaft
 
 Übt der Untersuchungsgefangene eine ihm zugewiesene Arbeit,
@@ -2939,10 +2683,7 @@ zu Grunde zu legen (Eckvergütung). § 43 Abs. 6 bis 11 findet keine
 Anwendung. Für junge und heranwachsende Untersuchungsgefangene gilt §
 176 Abs. 1 Satz 1 und 2 entsprechend.
 
-
 ### Vierter Titel - Unmittelbarer Zwang in Justizvollzugsanstalten
-
-
 
 #### § 178
 
@@ -2962,10 +2703,7 @@ Besserung und Sicherung vollzogen wird.
 (3) Das Landesrecht kann, namentlich beim Vollzug der Jugendstrafe,
 weitere Einschränkungen des Rechtes zum Schußwaffengebrauch vorsehen.
 
-
 ### Fünfter Titel - Datenschutz
-
-
 
 #### § 179 Datenerhebung
 
@@ -2999,10 +2737,6 @@ erhoben worden, kann die Unterrichtung unterbleiben, wenn
 2.  der Aufwand der Unterrichtung außer Verhältnis zum Schutzzweck steht
     und keine Anhaltspunkte dafür bestehen, daß überwiegende schutzwürdige
     Interessen des Betroffenen beeinträchtigt werden.
-
-
-
-
 
 #### § 180 Verarbeitung und Nutzung
 
@@ -3173,7 +2907,6 @@ der Aufgaben des Empfängers liegt und die Absätze 8 bis 10 der
 Übermittlung nicht entgegenstehen, es sei denn, daß besonderer Anlaß
 zur Prüfung der Zulässigkeit der Übermittlung besteht.
 
-
 #### § 181 Zweckbindung
 
 Von der Vollzugsbehörde übermittelte personenbezogene Daten dürfen nur
@@ -3184,7 +2917,6 @@ Zwecke hätten übermittelt werden dürfen, und wenn im Falle einer
 Übermittlung an nicht-öffentliche Stellen die übermittelnde
 Vollzugsbehörde zugestimmt hat. Die Vollzugsbehörde hat den nicht-
 öffentlichen Empfänger auf die Zweckbindung nach Satz 1 hinzuweisen.
-
 
 #### § 182 Schutz besonderer Daten
 
@@ -3229,7 +2961,6 @@ Psychologe auch zur Unterrichtung des Anstaltsarztes oder des in der
 Anstalt mit der Behandlung des Gefangenen betrauten Psychologen befugt
 sind.
 
-
 #### § 183 Schutz der Daten in Akten und Dateien
 
 (1) Der einzelne Vollzugsbedienstete darf sich von personenbezogenen
@@ -3244,7 +2975,6 @@ Gesundheitsakten und Krankenblätter sind getrennt von anderen
 Unterlagen zu führen und besonders zu sichern. Im übrigen gilt für die
 Art und den Umfang der Schutzvorkehrungen § 9 des
 Bundesdatenschutzgesetzes.
-
 
 #### § 184 Berichtigung, Löschung und Sperrung
 
@@ -3309,7 +3039,6 @@ schutzwürdiger Interessen des Betroffenen erforderlich ist.
 personenbezogener Daten § 20 Abs. 1 bis 4 und 6 bis 8 des
 Bundesdatenschutzgesetzes.
 
-
 #### § 185 Auskunft an den Betroffenen, Akteneinsicht
 
 Der Betroffene erhält nach Maßgabe des § 19 des
@@ -3321,12 +3050,10 @@ des Bundesdatenschutzgesetzes tritt der Landesbeauftragte für den
 Datenschutz, an die Stelle der obersten Bundesbehörde tritt die
 entsprechende Landesbehörde.
 
-
 #### § 186 Auskunft und Akteneinsicht für wissenschaftliche Zwecke
 
 Für die Auskunft und Akteneinsicht für wissenschaftliche Zwecke gilt §
 476 der Strafprozessordnung entsprechend.
-
 
 #### § 187 Anwendung des Bundesdatenschutzgesetzes
 
@@ -3340,49 +3067,37 @@ Schadensersatz-, Straf- und Bußgeldvorschriften sowie die Bestimmungen
 über die Kontrolle durch die Landesbeauftragten für den Datenschutz
 unberührt.
 
-
 ### Sechster Titel - Anpassung des Bundesrechts
-
-
 
 #### § 188
 
 (weggefallen)
 
-
 #### § 189 Verordnung über Kosten im Bereich der Justizverwaltung
 
 -
 
-
 ### Siebter Titel - Sozial- und Arbeitslosenversicherung
-
-
 
 #### § 190 Reichsversicherungsordnung
 
 -
 
-
 #### § 191 Angestelltenversicherungsgesetz
 
 -
-
 
 #### § 192 Reichsknappschaftsgesetz
 
 -
 
-
 #### § 193 Gesetz über die Krankenversicherung der Landwirte
 
 -
 
-
 #### § 194
 
 (weggefallen)
-
 
 #### § 195 Einbehaltung von Beitragsteilen
 
@@ -3393,10 +3108,7 @@ Ausfallentschädigung einen Betrag einbehalten, der dem Anteil des
 Gefangenen am Beitrag entsprechen würde, wenn er diese Bezüge als
 Arbeitnehmer erhielte.
 
-
 ### Achter Titel - Einschränkung von Grundrechten, Inkrafttreten
-
-
 
 #### § 196 Einschränkung von Grundrechten
 
@@ -3405,11 +3117,9 @@ und 2 (körperliche Unversehrtheit und Freiheit der Person) und Artikel
 10 Abs. 1 (Brief-, Post- und Fernmeldegeheimnis) des Grundgesetzes
 eingeschränkt.
 
-
 #### § 197
 
 (weggefallen)
-
 
 #### § 198 Inkrafttreten
 
@@ -3533,7 +3243,6 @@ bei Beschäftigung in Unternehmerbetrieben - wird zum 31. Dezember 1983
 und über die Fortgeltung des § 201 Nr. 1 - Unterbringung im offenen
 Vollzug - wird zum 31. Dezember 1985 befunden.
 
-
 #### § 199 Übergangsfassungen
 
 (1) Bis zum Inkrafttreten des besonderen Bundesgesetzes nach § 198
@@ -3591,13 +3300,11 @@ Jahren verurteilt worden ist und die Behandlung in einer
 sozialtherapeutischen Anstalt nach § 6 Abs. 2 Satz 2 oder § 7 Abs. 4
 angezeigt ist."
 
-
 #### § 200 Höhe des Arbeitsentgelts
 
 Der Bemessung des Arbeitsentgelts nach § 43 sind 9 vom Hundert der
 Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch zu Grunde zu
 legen.
-
 
 #### § 201 Übergangsbestimmungen für bestehende Anstalten
 
@@ -3633,10 +3340,6 @@ begonnen wurde, gilt folgendes:
 
 5.  Abweichend von § 145 kann die Belegungsfähigkeit einer Anstalt nach
     Maßgabe der Nummern 2 und 3 festgesetzt werden.
-
-
-
-
 
 #### § 202 Freiheitsstrafe und Jugendhaft der Deutschen Demokratischen Republik
 

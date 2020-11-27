@@ -27,17 +27,13 @@ Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), geändert durch die
 Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
 Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 110 Abs. 2, 6 Satz 2 und Abs. 8 Satz 2 des
 Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190)
 verordnet die Bundesregierung:
 
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Gegenstand der Verordnung
 
@@ -100,10 +96,6 @@ Diese Verordnung regelt
 8.  die Anforderungen an das Übermittlungsverfahren und das Datenformat
     für Auskunftsersuchen über Verkehrsdaten und der zugehörigen
     Ergebnisse.
-
-
-
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -250,17 +242,9 @@ Im Sinne dieser Verordnung ist
     Grund dessen diese Teile einander zweifelsfrei zugeordnet werden
     können.
 
-
-
-
-
 ## Teil 2 - Maßnahmen nach den §§ 100a, 100b der Strafprozessordnung, § 3 des Artikel 10-Gesetzes, den §§ 23a bis 23c und 23e des Zollfahndungsdienstgesetzes oder nach Landesrecht
 
-
-
 ### Abschnitt 1 - Kreis der Verpflichteten, Grundsätze
-
-
 
 #### § 3 Kreis der Verpflichteten
 
@@ -310,7 +294,6 @@ Abs. 8 des Zollfahndungsdienstgesetzes sowie die Vorschriften des
 Landesrechts über Maßnahmen zur Überwachung der Telekommunikation
 bleiben unberührt.
 
-
 #### § 4 Grenzen des Anwendungsbereichs
 
 (1) Telekommunikation, bei der die Telekommunikationsanlage im Rahmen
@@ -330,7 +313,6 @@ der Überwachungseinrichtung und des Übergabepunktes von § 5 Abs. 1 Nr.
 1 und 4, § 6 Abs. 3, § 7 Abs. 1 Satz 1 Nr. 2, 4 und 7 und Abs. 2 bis 4
 sowie § 12 Abs. 1 Satz 1, 3 und 4 abgewichen werden kann. § 22 ist im
 Rahmen von Überwachungsmaßnahmen nach Satz 1 nicht anzuwenden.
-
 
 #### § 5 Grundsätze
 
@@ -399,10 +381,7 @@ Beendigung einer Überwachungsmaßnahme.
 Durchführung mehrerer Überwachungsmaßnahmen auftreten, unverzüglich zu
 beseitigen.
 
-
 ### Abschnitt 2 - Technische Anforderungen
-
-
 
 #### § 6 Grundlegende Anforderungen an die technischen Einrichtungen
 
@@ -432,7 +411,6 @@ Benutzerkennung bereitzustellen.
 (4) Der Verpflichtete muss sicherstellen, dass er die Überwachung
 derselben zu überwachenden Kennung gleichzeitig für mehr als eine
 berechtigte Stelle ermöglichen kann.
-
 
 #### § 7 Bereitzustellende Daten
 
@@ -577,7 +555,6 @@ der der jeweiligen Telekommunikationsanlage zu Grunde liegenden
 Technologie. Die Gestaltung hat der Verpflichtete entsprechend seiner
 Telekommunikationsanlage festzulegen.
 
-
 #### § 8 Übergabepunkt
 
 (1) Der Verpflichtete hat seine Überwachungseinrichtungen so zu
@@ -663,7 +640,6 @@ Telekommunikation angewendeten Schutzvorkehrungen bei der an dem
 gilt entsprechend bei der Anwendung von Komprimierungsverfahren. § 14
 Abs. 2 bleibt unberührt.
 
-
 #### § 9 Übermittlung der Überwachungskopie
 
 (1) Die Übermittlung der Überwachungskopie einschließlich der Daten
@@ -705,7 +681,6 @@ Bundesnetzagentur im Verfahren nach § 19 abschließend entscheidet.
 (3) Maßnahmen zum Schutz der zu übermittelnden Überwachungskopie
 richten sich nach § 14.
 
-
 #### § 10 Zeitweilige Übermittlungshindernisse
 
 Der Verpflichtete hat seine Überwachungseinrichtungen so zu gestalten,
@@ -719,7 +694,6 @@ Gründen ist nicht zulässig. Eine für den ungestörten Funktionsablauf
 aus technischen, insbesondere übermittlungstechnischen Gründen
 erforderliche Pufferung der Überwachungskopie bleibt von Satz 2
 unberührt.
-
 
 #### § 11 Technische Richtlinie
 
@@ -751,10 +725,7 @@ technische Entwicklungen nicht in der Technischen Richtlinie
 berücksichtigt sind, hat der Verpflichtete die Gestaltung seiner
 Überwachungseinrichtungen mit der Bundesnetzagentur abzustimmen.
 
-
 ### Abschnitt 3 - Organisatorische Anforderungen, Schutzanforderungen
-
-
 
 #### § 12 Entgegennahme der Anordnung, Rückfragen
 
@@ -796,7 +767,6 @@ Rückfragen fordern können, bleiben unberührt. Für die Angabe und
 Erreichbarkeit der die Rückfragen entgegennehmenden Stelle des
 Verpflichteten gilt Absatz 1 Satz 5 entsprechend.
 
-
 #### § 13 Störung und Unterbrechung
 
 Während einer Überwachungsmaßnahme hat der Verpflichtete die
@@ -822,7 +792,6 @@ Telekommunikationsanschlüssen anderer Teilnehmer zu entstören. In
 Mobilfunknetzen sind die Angaben über Störungen, die sich nur in
 regional begrenzten Bereichen des Netzes auswirken, nur auf Nachfrage
 der berechtigten Stelle zu machen.
-
 
 #### § 14 Schutzanforderungen
 
@@ -871,7 +840,6 @@ hinsichtlich der Sicherheit und Verfügbarkeit zentralisierter oder
 teilzentralisierter Einrichtungen, sofern Überwachungsmaßnahmen
 mittels solcher Einrichtungen eingerichtet und verwaltet werden.
 
-
 #### § 15 Verschwiegenheit
 
 (1) Der Verpflichtete darf Informationen über die Art und Weise, wie
@@ -897,7 +865,6 @@ Kenntnis von einer Überwachungsmaßnahme erlangt hat, hat der
 Verpflichtete die betroffene berechtigte Stelle und die
 Bundesnetzagentur unverzüglich und umfassend über das Vorkommnis zu
 informieren.
-
 
 #### § 16 Protokollierung
 
@@ -974,10 +941,6 @@ Anforderungen eingehalten werden:
     Datensatz erfolgen, der frühestens zwei Jahre nach seiner Erhebung
     gelöscht oder überschrieben werden darf.
 
-
-
-
-
 #### § 17 Prüfung und Löschung der Protokolldaten, Vernichtung von Unterlagen
 
 (1) Der Verpflichtete hat zu Beginn eines jeden Kalendervierteljahres
@@ -1052,15 +1015,11 @@ muss für die Kontrollen nach den Sätzen 1 und 2 die Möglichkeit
 bestehen, diese sowohl nach ihrer Entstehungszeit als auch nach den
 betroffenen Kennungen sortiert auszugeben.
 
-
 ### Abschnitt 4 - Verfahren zum Nachweis nach § 110 Abs. 1 Satz 1 Nr. 3 des Telekommunikationsgesetzes
-
-
 
 #### § 18
 
 (weggefallen)
-
 
 #### § 19 Nachweis
 
@@ -1199,7 +1158,6 @@ Bundesnetzagentur entsprechend geänderte Unterlagen zusammen mit einer
 Liste der jeweils insgesamt gültigen Dokumente vorzulegen; die Absätze
 1 bis 7 gelten entsprechend.
 
-
 #### § 20 Änderungen der Telekommunikationsanlage oder der Überwachungseinrichtung
 
 § 19 gilt entsprechend bei jeder Änderung der
@@ -1211,15 +1169,11 @@ Aufzeichnungs- oder Auswertungseinrichtungen der berechtigten Stellen
 haben, dürfen erst nach Abstimmung mit der Bundesnetzagentur
 vorgenommen werden.
 
-
 ### Abschnitt 5 - Abweichungen
-
-
 
 #### § 21 (weggefallen)
 
 -
-
 
 #### § 22 Abweichungen, Feldversuche, Probebetriebe
 
@@ -1285,10 +1239,7 @@ Richtlinie nach § 11 verzichten, sofern
 
 Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-
 ### Abschnitt 6 - Sonstige Vorschriften
-
-
 
 #### § 23 Funktionsprüfungen der Überwachungseinrichtungen oder der Aufzeichnungs- und Auswertungseinrichtungen der berechtigten Stellen
 
@@ -1346,7 +1297,6 @@ Telekommunikationsanschlüsse seiner Telekommunikationsanlage zu den
 einzurichten und zu überlassen, damit die ordnungsgemäße Funktion der
 Aufzeichnungs- und Auswertungseinrichtungen geprüft werden kann.
 
-
 #### § 24 Anforderungen an Aufzeichnungsanschlüsse
 
 (1) Der nach § 110 Abs. 6 des Telekommunikationsgesetzes verpflichtete
@@ -1361,15 +1311,11 @@ vorzusehen.
 Betreiber hat im Störungsfall die unverzügliche und vorrangige
 Entstörung der Anschlüsse nach Absatz 1 sicherzustellen.
 
-
 #### § 25 (weggefallen)
 
 -
 
-
 ## Teil 3 - Maßnahmen nach den §§ 5 und 8 des Artikel 10-Gesetzes
-
-
 
 ### § 26 Kreis der Verpflichteten
 
@@ -1393,7 +1339,6 @@ sechs Wochen entscheiden. Im Falle einer Beendigung der Befreiung hat
 der Verpflichtete die nach den §§ 27 und 28 erforderlichen technischen
 und organisatorischen Vorkehrungen innerhalb von sechs Monaten nach
 Ablauf der bisherigen Befreiungsfrist zu treffen.
-
 
 ### § 27 Grundsätze, technische und organisatorische Umsetzung von Anordnungen, Verschwiegenheit
 
@@ -1491,7 +1436,6 @@ für derartige Funktionsprüfungen ist abweichend von § 23 Abs. 1 Satz 5
 bis 9 eine Anordnung nach § 5 oder § 8 des Artikel 10-Gesetzes
 erforderlich.
 
-
 ### § 28 Verfahren
 
 (1) Sofern der Verpflichtete für die technische Umsetzung von
@@ -1520,7 +1464,6 @@ gilt § 19 entsprechend mit folgenden Maßgaben:
 Verpflichteten oder an den Überwachungseinrichtungen gilt § 20
 entsprechend.
 
-
 ### § 29 Bereitstellung von Übertragungswegen zum Bundesnachrichtendienst
 
 Für die Bereitstellung der Übertragungswege, die zur Übermittlung der
@@ -1528,10 +1471,7 @@ gemäß § 27 Abs. 3 Nr. 1 und 2 aufbereiteten Kopie an den
 Bundesnachrichtendienst erforderlich sind, gilt § 24 Abs. 1 Satz 1 und
 Abs. 2 entsprechend.
 
-
 ## Teil 4 - Übergangsvorschriften, Schlussbestimmungen
-
-
 
 ### § 30 Übergangsvorschriften
 
@@ -1565,16 +1505,13 @@ Jahresstatistik nach § 25 sind auch die Daten zu berücksichtigen, die
 vor Inkrafttreten dieser Verordnung auf Grund der bisherigen
 Vorschriften zu erheben waren.
 
-
 ### § 31 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage (weggefallen)
 

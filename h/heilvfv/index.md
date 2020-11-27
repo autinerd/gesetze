@@ -18,17 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 30 G v. 5.2.2009 I 160
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 5 des Beamtenversorgungsgesetzes vom 24.
 August 1976 (BGBl. I S. 2485) verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
 
-
 ## Abschnitt I - Allgemeines
-
-
 
 ### § 1
 
@@ -41,17 +37,13 @@ Heilverfahren nicht selbst durchführt oder durchführen läßt.
 bleiben unberührt, soweit diese Verordnung nicht umfassendere
 Leistungen vorsieht.
 
-
 ### § 2
 
 Der Verletzte ist verpflichtet, sich nach Weisung der Dienstbehörde
 ärztlich untersuchen und, wenn einer der in § 15 bezeichneten Ärzte
 dies für erforderlich hält, auch beobachten zu lassen.
 
-
 ## Abschnitt II - Heilbehandlung
-
-
 
 ### § 3
 
@@ -94,7 +86,6 @@ eingetreten sind.
 (4) Die Dienstbehörde kann bei Zweifel über die Notwendigkeit einer
 Maßnahme im Sinne des Absatzes 1 das Gutachten eines der in § 15
 bezeichneten Ärzte einholen.
-
 
 ### § 4
 
@@ -143,7 +134,6 @@ zu erstatten, der nach Absatz 3 zu erstatten wäre, wenn der Verletzte
 in ein Krankenhaus im Sinne des Absatzes 3 am dienstlichen Wohnsitz
 aufgenommen worden wäre. Absatz 4 Satz 2 gilt entsprechend.
 
-
 ### § 5
 
 Eine Krankenhausbehandlung ist zur Sicherung des Heilerfolges
@@ -156,10 +146,6 @@ a)  die Art der Verletzung eine Behandlung oder Pflege verlangt, die auf
 
 b)  der Zustand oder das Verhalten des Verletzten eine Pflege oder eine
     fortgesetzte Beobachtung erfordert.
-
-
-
-
 
 ### § 6
 
@@ -194,7 +180,6 @@ b)  einem Aufenthalt in einem Kurkrankenhaus oder in einem Sanatorium bis
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Kosten für einen
 der Heilbehandlung dienenden Aufenthalt außerhalb des Dienst- oder
 Wohnortes.
-
 
 ### § 7
 
@@ -232,7 +217,6 @@ Bekanntmachung vom 19. Januar 1971 (BGBl. I S. 43) sind in der jeweils
 geltenden Fassung entsprechend anzuwenden, soweit sich aus dieser
 Verordnung nichts anderes ergibt.
 
-
 ### § 8
 
 (1) Die Kosten für die Benutzung von Beförderungsmitteln werden
@@ -264,7 +248,6 @@ durch einen der in § 15 bezeichneten Ärzte zur Sicherung des
 Heilerfolges dringend erforderlich war. Absatz 1 Satz 2 und 3 sowie
 Absatz 2 Satz 1 gelten entsprechend.
 
-
 ### § 9
 
 (1) Ist der Verletzte an den Folgen des Dienstunfalles verstorben,
@@ -285,7 +268,6 @@ des Beamtenversorgungsgesetzes in voller Höhe anzurechnen. Satz 1 gilt
 nicht, wenn die Kosten der Überführung und Bestattung von einem Erben
 zu tragen sind, der keinen Anspruch auf Sterbegeld hat.
 
-
 ### § 10
 
 Einem früheren Beamten oder früheren Ruhestandsbeamten, der
@@ -304,7 +286,6 @@ Erwerbsunfähigkeit nicht übersteigen. Ehrenbeamten (§ 68 des
 Beamtenversorgungsgesetzes) kann ein Verdienstausfall nach billigem
 Ermessen erstattet werden.
 
-
 ### § 11
 
 Die Kosten für eine Heilbehandlung werden in der Regel nach ihrem
@@ -314,10 +295,7 @@ Zustimmung des Verletzten die Kosten für eine Heilbehandlung durch
 eine jederzeit widerrufliche laufende Zahlung ganz oder teilweise
 abgegolten werden.
 
-
 ## Abschnitt III - Erstattung der Pflegekosten
-
-
 
 ### § 12
 
@@ -384,7 +362,6 @@ Monat folgt, in dem dem Verletzten der Bescheid zugestellt worden ist.
 Verhältnissen, die für die Erstattung der Pflegekosten maßgebend sind,
 der Dienstbehörde unverzüglich anzuzeigen.
 
-
 ### § 13
 
 (1) Der Zuschlag zum Unfallruhegehalt ist im Rahmen des Höchstbetrages
@@ -413,10 +390,7 @@ Zeitraum gezahlter Zuschlag ist anzurechnen.
 gelten bei einer durch Dienstunfall verursachten Hilflosigkeit des
 Verletzten die Absätze 1 bis 3 entsprechend.
 
-
 ## Abschnitt IV - Kleider- und Wäscheverschleiß
-
-
 
 ### § 14
 
@@ -433,10 +407,7 @@ Satz 2, 3 und § 13 Abs. 2 gelten sinngemäß. Die in Sonderfällen den
 Höchstsatz des Pauschbetrages übersteigenden Aufwendungen werden
 jeweils für das abgelaufene Kalenderjahr erstattet.
 
-
 ## Abschnitt V - Schlußvorschriften
-
-
 
 ### § 15
 
@@ -447,7 +418,6 @@ gefordert werden. Wird Heilfürsorge gewährt (§ 1 Abs. 2), treten an
 die Stelle der in dieser Verordnung bezeichneten Ärzte die jeweils für
 die Durchführung der Heilfürsorge bestimmten Ärzte.
 
-
 ### § 16
 
 Die Zuständigkeit der Dienstbehörden nach dieser Verordnung richtet
@@ -457,13 +427,11 @@ und Stiftungen des öffentlichen Rechts, die Behörden nicht besitzen,
 nach § 144 Abs. 2 des Bundesbeamtengesetzes oder den entsprechenden
 landesrechtlichen Vorschriften.
 
-
 ### § 17
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit § 108 Satz 2 des Beamtenversorgungsgesetzes auch im
 Land Berlin.
-
 
 ### § 18
 

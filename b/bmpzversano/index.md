@@ -20,20 +20,15 @@ Fundstelle
 Geändert durch
 :   Abs. 3 Buchst. d AnO v. 12.8.1967 BAnz. 1967, Nr. 157
 
-
 ## A und B
 
 -
 
-
 ## C. - Sonstige Zuständigkeitsvorschriften
-
-
 
 ### (XXXX) I. und II. (weggefallen)
 
 -
-
 
 ### III.
 
@@ -52,10 +47,6 @@ b)  die im Postdienst wiederverwendet werden, die Präsidenten der OPD, LPD
     wiederverwendet wird. Für die Beamten der übrigen Besoldungsgruppen
     behalte ich mir die erforderlichen Entscheidungen vor.
 
-
-
-
-
 ### IV.
 
 Die nach Abschnitt A Abs. I zuständige OPD bzw. die LPD Berlin wird je
@@ -71,10 +62,6 @@ b)  nach § 4 Abs. 2 G 131 und § 4b Abs. 1 G 131 Personen den in § 4 Abs. 1
 
 c)  nach § 35 Abs. 1 Satz 2 G 131 die Dienstunfähigkeit eines Beamten zur
     Wiederverwendung festzustellen.
-
-
-
-
 
 ### Schlußformel
 

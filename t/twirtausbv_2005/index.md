@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 23.2.2006 I 465
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -27,11 +26,9 @@ das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Tierwirt/Tierwirtin wird staatlich anerkannt.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -63,7 +60,6 @@ der Berufsgrundbildungsjahr-Anrechnungs-Verordnung Landwirtschaft vom
 anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten
 Ausbildungsjahr.
 
-
 ## § 3 Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine
@@ -71,7 +67,6 @@ berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach
 dieser Verordnung und die Ausbildung in der Berufsschule nach den
 landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr
 erfolgen.
-
 
 ## § 4 Zielsetzung der Berufsausbildung
 
@@ -84,7 +79,6 @@ selbstständiges Planen, Durchführen und Kontrollieren sowie das
 Handeln im betrieblichen Gesamtzusammenhang einschließen. Diese
 Befähigung ist auch in den Prüfungen nach den §§ 9 bis 14
 nachzuweisen.
-
 
 ## § 5 Ausbildungsberufsbild
 
@@ -261,10 +255,6 @@ mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6.  Betriebsmittel zur Bienenhaltung.
 
-
-
-
-
 ## § 6 Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 5 sollen nach der
@@ -275,12 +265,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 7 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 8 Schriftlicher Ausbildungsnachweis
 
@@ -289,7 +277,6 @@ führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 9 Zwischenprüfung
 
@@ -362,10 +349,6 @@ werden. Für die Aufgaben kommen insbesondere in Betracht:
 
 
 8.  tierische Produkte.
-
-
-
-
 
 ## § 10 Abschlussprüfung in der Fachrichtung Rinderhaltung
 
@@ -593,7 +576,6 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 11 Abschlussprüfung in der Fachrichtung Schweinehaltung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
@@ -783,7 +765,6 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
-
 
 ## § 12 Abschlussprüfung in der Fachrichtung Geflügelhaltung
 
@@ -1004,7 +985,6 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
-
 
 ## § 13 Abschlussprüfung in der Fachrichtung Schäferei
 
@@ -1233,7 +1213,6 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 14 Abschlussprüfung in der Fachrichtung Imkerei
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage
@@ -1442,7 +1421,6 @@ schriftlichen Prüfungsteil das doppelte Gewicht.
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend
 bewertet, so ist die Prüfung nicht bestanden.
 
-
 ## § 15 Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -1450,11 +1428,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 16 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
-
 
 ## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 

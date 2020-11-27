@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2116
 
-
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -88,7 +86,6 @@ Reinnickelkern.
 
 (7) Der Entwurf der Bildseite stammt von Erich Ott, München.
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

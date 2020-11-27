@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 19.3.2009 I 648
 
-
 ## § 1 Erhebung von Gebühren und Auslagen
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und das
@@ -33,7 +32,6 @@ Verordnung. Das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit erhebt darüber hinaus für berichterstattende
 Tätigkeiten im Sinne des § 37 Abs. 1 Satz 1 Nr. 2 des
 Pflanzenschutzgesetzes Gebühren und Auslagen nach dieser Verordnung.
-
 
 ## § 2 Berechnung der Gebühren
 
@@ -66,7 +64,6 @@ Höchstbetrages erhöht werden. Satz 1 gilt nicht für den
 Gebührentatbestand Nummer 2100. Der Gebührenschuldner ist zu hören,
 wenn mit einer solchen Erhöhung zu rechnen ist.
 
-
 ## § 3 Rücknahme, Widerruf, Widerspruch
 
 (1) Wird ein Antrag auf Vornahme einer gebührenpflichtigen
@@ -90,7 +87,6 @@ richtet, beträgt die Gebühr höchstens 10 vom Hundert des streitigen
 Betrages. Wird ein Widerspruch nach Beginn seiner sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
 Gebühr höchstens 75 vom Hundert der Widerspruchsgebühr.
-
 
 ## § 4 Auslagen
 
@@ -162,13 +158,6 @@ bezeichneten Auslagen hinaus Aufwendungen im Zusammenhang mit der
 
     d)  Verbrauchsmaterial.
 
-
-
-
-
-
-
-
 ## § 5 Ermäßigung und Befreiung von Gebühren und Auslagen
 
 (1) Die nach Maßgabe der §§ 1 und 2 berechneten Gebühren sind auf
@@ -217,19 +206,13 @@ unbillig wäre.
     Anforderungen nach § 31 Abs. 1 Nr. 1 des Pflanzenschutzgesetzes
     entspricht.
 
-
-
-
-
 ## § 6 (weggefallen)
 
 -
 
-
 ## § 7
 
 (Inkrafttreten, Außerkrafttreten)
-
 
 ## Anlage (zu § 2 Abs. 1) Gebührenverzeichnis
 

@@ -15,17 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 821
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art I bis IV -
-
-
 
 ## Art V - Änderung des Wohnungsbaugesetzes für das Saarland
 
@@ -166,13 +161,7 @@ Finanzänderungsgesetz vom 21. Dezember 1967 (Bundesgesetzbl. I S.
     § 43 Abs. 5 nicht anzuwenden, wenn die Wohnflächengrenzen des § 42 in
     der vom 1. August 1968 an geltenden Fassung eingehalten sind".
 
-
-
-
-
 ## Art VI - Schlußvorschriften
-
-
 
 ## § 1
 
@@ -182,7 +171,6 @@ im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
 erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ## § 2
 
 (1) Die Artikel I, II, III und IV gelten nicht im Saarland.
@@ -191,11 +179,9 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 für das Saarland in der sich aus Artikel V ergebenden Fassung
 bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 

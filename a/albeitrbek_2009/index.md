@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2342
 
-
 ## (XXXX)
 
 Auf Grund des § 33 Abs. 1 und der §§ 68, 114 und 120 des Gesetzes über
@@ -204,13 +203,6 @@ sind, wird bekannt gemacht:
     *        *   14 981 bis 15 500 Euro
 
         *   7 Euro.
-
-
-
-
-
-
-
 
 ## Schlussformel
 

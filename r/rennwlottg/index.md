@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 u. 4 G v. 29.6.2012 I 1424
 
-
 ## I. - Rennwetten
 
-
-
 ### 1. - Allgemeine Vorschriften
-
-
 
 #### § 1
 
@@ -53,7 +48,6 @@ von Totalisatoren ist diesen Vereinen auch in Kooperation mit anderen
 Rennvereinen und Totalisatorveranstaltern grenzüberschreitend
 gestattet.
 
-
 #### § 2
 
 (1) Wer gewerbsmäßig Wetten bei öffentlichen Leistungsprüfungen für
@@ -71,7 +65,6 @@ nachträglichen Aufnahme, Änderung oder Ergänzung einer Auflage
 verbunden werden.
 
 (3)
-
 
 #### § 3
 
@@ -106,7 +99,6 @@ Tierzucht mit Pferden
 
 zu regeln.
 
-
 #### § 4
 
 (1) Der Unternehmer des Totalisators und der Buchmacher haben über die
@@ -129,7 +121,6 @@ gestattet.
 (4) Auf den Rennplätzen dürfen von den Buchmachern nur Wetteinsätze im
 Betrag von mindestens fünfzehn Euro angenommen werden.
 
-
 #### § 5
 
 (1) Wer ohne Erlaubnis ein Totalisatorunternehmen betreibt oder
@@ -137,7 +128,6 @@ gewerbsmäßig Wetten abschließt oder vermittelt, wird mit
 Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2)
-
 
 #### § 6
 
@@ -153,7 +143,6 @@ Wetten bedienen, soweit diese Personen bei der Abwicklung von
 Wettgeschäften im Auftrag des Wettunternehmers handeln.
 
 (2)
-
 
 #### § 7
 
@@ -189,20 +178,15 @@ ausschließlich oder überwiegend der Verbreitung von Voraussagen dient.
 (4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
-
 #### § 8
 
 -
-
 
 #### § 9
 
 -
 
-
 ### 2. - Steuervorschriften
-
-
 
 #### § 10
 
@@ -215,7 +199,6 @@ Mitglieder bestimmter Vereine zum Wetten zugelassen werden.
 (3) Die Steuerschuld entsteht mit dem Schluß der Annahme von
 Wetteinsätzen.
 
-
 #### § 11
 
 (1) Der Buchmacher hat von jeder bei ihm abgeschlossenen Wette eine
@@ -225,12 +208,10 @@ Steuer von 5 vom Hundert des Wetteinsatzes zu entrichten.
 (§ 4 Abs. 2), spätestens jedoch mit der Entscheidung des Rennens, auf
 das sich die Wette bezieht.
 
-
 #### § 12
 
 Die Steuerschuld entsteht ohne Rücksicht darauf, ob das
 Totalisatorunternehmen erlaubt oder der Buchmacher zugelassen war.
-
 
 #### § 13
 
@@ -244,16 +225,13 @@ Reichsminister der Finanzen              bestimmt, wie die Steuer
 entrichtet wird, insbesondere ob und in welcher Weise Stempelzeichen
 zu verwenden sind.
 
-
 #### § 14
 
 -
 
-
 #### § 15
 
 -
-
 
 #### § 16
 
@@ -271,10 +249,7 @@ werden.
 Totalisatorsteuer nach § 10, das mittels Erlaubnissen nach § 1 Absatz
 4 erzielt wird.
 
-
 ## II. - Besteuerung von Lotterien, Ausspielungen und Sportwetten
-
-
 
 ### § 17
 
@@ -305,7 +280,6 @@ unterliegen einer Steuer, wenn
 
 Die Steuer beträgt 5 vom Hundert des Nennwertes der Wettscheine
 beziehungsweise des Spieleinsatzes.
-
 
 ### § 18
 
@@ -340,10 +314,6 @@ Von der Besteuerung ausgenommen sind
 
 
     nicht übersteigt.
-
-
-
-
 
 ### § 19
 
@@ -381,7 +351,6 @@ Sportwetten keine Zuständigkeit im Inland, kann das Bundesministerium
 der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates ein
 zuständiges Finanzamt bestimmen.
 
-
 ### § 20
 
 (1) Der Veranstalter einer Sportwette (§ 17 Absatz 2) ist
@@ -415,10 +384,6 @@ diesem die Aufzeichnungen nach Satz 1 monatlich zu übermitteln.
 
 7.  Höhe der Steuer.
 
-
-
-
-
 ### § 21
 
 (1) Die Steuer für ausländische Lose und Ausweise über Spieleinlagen
@@ -436,7 +401,6 @@ in das Inland verbringt oder als Erster im Inland empfängt.
 binnen drei Tagen nach dem Tage des Einbringens oder des Empfanges zu
 entrichten.
 
-
 ### § 22
 
 Der
@@ -444,17 +408,13 @@ Reichsminister der Finanzen              bestimmt, wie die Steuer zu
 entrichten ist, insbesondere ob und in welcher Weise Stempelzeichen zu
 verwenden sind.
 
-
 ### § 23
 
 Wegen Hinterziehung wird auch bestraft, wer im Inland den Vertrieb
 unversteuerter (§ 21) ausländischer Lose oder ausländischer Ausweise
 über Ausspielungen besorgt.
 
-
 ## III. - Schlußvorschriften
-
-
 
 ### § 24
 
@@ -488,7 +448,6 @@ Finanzen kann durch Rechtsverordnung mit Zustimmung des Bundesrates
 die Aufgabe der Zerlegung einer für die Finanzverwaltung zuständigen
 Finanzbehörde übertragen.
 
-
 ### § 25
 
 (1) Die Bestimmungen zur Ausführung dieses Gesetzes erläßt der
@@ -509,14 +468,12 @@ Die landesrechtlichen Vorschriften können auch Regelungen zum Schutz
 der Allgemeinheit, insbesondere die Gefahrenaufklärung der
 Öffentlichkeit, umfassen.
 
-
 ### § 26
 
 Die Offenbarung der nach § 30 der Abgabenordnung geschützten
 Verhältnisse des Betroffenen durch die Finanzbehörde gegenüber der
 zuständigen Glücksspielaufsichtsbehörde ist zulässig, soweit es dem
 Verfahren der Glücksspielaufsicht dient.
-
 
 ### § 27
 

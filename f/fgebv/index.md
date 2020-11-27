@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 6.2.2012 I 130
 
-
 ## Eingangsformel
 
 Auf Grund des § 48 Abs. 1 Satz 2 des Telekommunikationsgesetzes vom
@@ -28,7 +27,6 @@ das Bundesministerium für Post und Telekommunikation im Einvernehmen
 mit dem Bundesministerium des Innern, dem Bundesministerium der
 Finanzen, dem Bundesministerium der Justiz und dem Bundesministerium
 für Wirtschaft:
-
 
 ## § 1 Erheben von Gebühren
 
@@ -54,7 +52,6 @@ Frequenzgebührenverordnung vom 21. Mai 1997 (BGBl. I S. 1226),
 geändert durch die Dritte Verordnung zur Änderung der
 Frequenzgebührenverordnung vom 13. Dezember 2001 (BGBl. I S. 3624),
 festgelegten Gebührentatbeständen und Gebührenhöhen erhoben.
-
 
 ## § 2 Gebührenbefreiungen
 
@@ -83,11 +80,9 @@ solche zugeteilten Frequenzen gewährt werden, die die Begünstigten
 oder durch öffentlich-rechtliche Vereinbarungen übertragen worden
 sind.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
-
 
 ## Anlage (zu § 1 Abs. 1)
 

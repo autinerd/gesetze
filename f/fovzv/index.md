@@ -19,14 +19,12 @@ Diese Rechtsverordnung dient der Umsetzung der Richtlinie 1999/105/EG
 des Rates vom 22. Dezember 1999 über den Verkehr mit forstlichem
 Vermehrungsgut (ABl. EG 2000 Nr. L 11 S. 17, 2001 Nr. L 121 S. 48).
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 7 Satz 1 und des § 6 Abs. 3 des
 Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658)
 verordnet das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft:
-
 
 ## § 1
 
@@ -58,23 +56,19 @@ zuletzt geändert durch Artikel 201 der Verordnung vom 29. Oktober 2001
 (BGBl. I S. 2785), zugelassen waren, können ohne weitere Überprüfung
 unter der Kategorie "Qualifiziert" registriert werden.
 
-
 ## § 2
 
 Im Register über zugelassenes Ausgangsmaterial nach § 6 Abs. 1 des
 Forstvermehrungsgutgesetzes sind die in Anlage 3 dieser Verordnung
 festgelegten Angaben zu machen.
 
-
 ## § 3
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Anforderungen an die Zulassung von Ausgangsmaterial unter den Kategorien "Ausgewählt", "Qualifiziert" und "Geprüft"
 
@@ -186,10 +180,6 @@ Mindestanforderungen für die Zulassung unter der Kategorie
     Rechnung zu tragen. Erntebestände, die zu einem besonderen Zweck
     zugelassen werden sollen, müssen für diesen besonderen Zweck
     überdurchschnittlich gut geeignet sein.
-
-
-
-
 
 ## Tabelle zu Nummern 4 und 5
 
@@ -919,10 +909,6 @@ Mindestanforderungen für die Zulassung unter der Kategorie "Geprüft"
     geprüft worden wären, ein enger Zusammenhang besteht. Die anderen zu
     prüfenden Merkmale müssen die Anforderungen nach Nummer 3 erfüllen.
 
-
-
-
-
 ## Anlage 2 (zu § 1 Abs. 2) Anforderungen an die Zulassung von Ausgangsmaterial unter der Kategorie "Quellengesichert"
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4727
@@ -935,10 +921,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4727
 
 2.  Zweck: Die Zulassung darf nur der Erzeugung von Vermehrungsgut dienen,
     das nicht für forstliche Zwecke verwendet werden soll.
-
-
-
-
 
 ## Anlage 3 (zu § 2) Angaben im Register über zugelassenes Ausgangsmaterial gemäß § 6 Abs. 1 des Forstvermehrungsgutgesetzes (FoVG)
 

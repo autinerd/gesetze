@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1865
 
-
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 5 in Verbindung mit Absatz 1 des
@@ -24,12 +23,10 @@ Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
 verordnet das Bundesministerium für Arbeit und Soziales im
 Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
 ## § 1
 
 Der Prozentsatz der Künstlersozialabgabe im Jahr 2013 beträgt 4,1
 Prozent.
-
 
 ## § 2
 

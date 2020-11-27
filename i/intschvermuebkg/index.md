@@ -19,11 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 329 V v. 31.10.2006 I 2407
 
-
 ## Art 1
 
 -
-
 
 ## Art 2
 
@@ -35,10 +33,7 @@ den Vertragsregierungen nach Artikel 18 des Übereinkommens angenommen
 wurden und die sich im Rahmen der Ziele des Übereinkommens halten, in
 Kraft zu setzen.
 
-
 ## (XXXX) Art 3 u. 4
-
-
 
 ## Art 5
 
@@ -50,16 +45,13 @@ Zahl der Bruttoregistertonnen (BRT) der Bruttoraumzahl, die Zahl der
 Nettoregistertonnen (NRT) der Nettoraumzahl entspricht, sofern diese
 Vorschriften nichts anderes bestimmen.
 
-
 ## Art 6
 
 -
 
-
 ## Art 7
 
 (weggefallen)
-
 
 ## Art 8
 

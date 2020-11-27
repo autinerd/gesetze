@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1972, 1726
 
-
-
 ## (XXXX)
 
 (1) Die auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
@@ -34,7 +32,6 @@ Mai 1950 - Bundesanzeiger Nr. 88 vom 9. Mai 1950 - und Bekanntmachung
 vom 14. September 1950 - Bundesgesetzblatt S. 694 -).
 
 (3) Dies wird namens der Bundesregierung bekanntgemacht.
-
 
 ## Schlußformel
 

@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1867
 
-
-
 ## (XXXX)
 
 Zwischen dem Land Niedersachsen und dem Land Nordrhein-Westfalen wurde

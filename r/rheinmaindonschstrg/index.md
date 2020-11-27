@@ -19,16 +19,13 @@ Fundstelle
 Geändert durch
 :   Art. 40 G v. 19.9.2006 I 2146
 
-
 ## § 1 (weggefallen)
 
 -
 
-
 ## § 2 (weggefallen)
 
 -
-
 
 ## § 3 Durchleiten von Wasser
 
@@ -36,7 +33,6 @@ Geändert durch
 oder landeskulturelle Zwecke durch die Bundeswasserstraße über den
 normalen Wasserabfluß hinaus und die damit zusammenhängenden Fragen
 bleibt eine Vereinbarung zwischen dem Bund und Bayern vorbehalten.
-
 
 ## § 4 Eigentumsverhältnisse
 
@@ -53,18 +49,15 @@ Bayern zu.
 Bundes und Bayerns berichtigt. Ein Übergang des Eigentums und der
 anderen Rechte ist von Abgaben und Kosten befreit.
 
-
 ## § 5 Sperrtor bei Bug
 
 Das Sperrtor im linken Regnitzarm bei Bug gehört zur
 Bundeswasserstraße. Die Betriebsordnung wird im Einvernehmen zwischen
 dem Bund und Bayern aufgestellt.
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7 Inkrafttreten
 

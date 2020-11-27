@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 764
 
-
-
 ## (XXXX)
 
 Der Bundesminister der Verteidigung hat am 18. Februar 1991 den Erlaß

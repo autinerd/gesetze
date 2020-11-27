@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1291
 
-
 ## Eingangsformel
 
 Auf Grund des § 121e Abs. 2 des Versicherungsaufsichtsgesetzes, der
 durch Artikel 1 Nr. 46 des Gesetzes vom 28. Mai 2007 (BGBl. I S. 923)
 neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -34,7 +32,6 @@ Vorschriften dieser Verordnung entsprechend anzuwenden. Kleinere
 Vereine im Sinne des § 53 Abs. 1 Satz 1 des
 Versicherungsaufsichtsgesetzes sind von der Anwendung der Verordnung
 ausgenommen.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -91,7 +88,6 @@ Rückversicherungsleistung anders als vom Rückversicherer angenommen
 und für diesen unter Berücksichtigung des Zeitwerts des Geldes
 wirtschaftlich nachteilig entwickeln.
 
-
 ## § 3 Unternehmensinterne Kriterien für Finanzrückversicherungsverträge
 
 Die Versicherungsunternehmen haben geeignete Kriterien zu entwickeln,
@@ -111,7 +107,6 @@ Kriterien anordnen, wenn die vom Unternehmen verwendeten Kriterien
 nicht geeignet sind, Rückversicherungsverträge zu identifizieren, die
 die Merkmale des § 121e Abs. 1 Satz 1 des
 Versicherungsaufsichtsgesetzes erfüllen.
-
 
 ## § 4 Allgemeine Anforderungen an den hinreichenden Risikotransfer
 
@@ -226,7 +221,6 @@ des hinreichenden Risikotransfers unter dem Vertrag allein nach dem
 anderen Teil. In allen anderen Fällen richtet sich die Prüfung des
 hinreichenden Risikotransfers nach Absatz 3.
 
-
 ## § 5 Durchführung des Risikotransfertests
 
 (1) Ein nach § 4 Abs. 1 erforderlicher Risikotransfertest ist zum
@@ -267,7 +261,6 @@ mangels ausreichender oder verlässlicher auf Erfahrungsbasis
 beruhender Daten nicht berechnen lassen, ist der Risikotransfertest
 anhand von Schätzungen und auf der Grundlage geeigneter realistischer
 Szenarien durchzuführen.
-
 
 ## § 6 Mindestbestimmungen in Finanzrückversicherungsverträgen
 
@@ -311,7 +304,6 @@ gesondert zu dokumentieren, wie es die Einhaltung der in Absatz 1
 genannten Inhalte der Mindestbestimmung sicherstellt; § 7 bleibt
 unberührt.
 
-
 ## § 7 Interne Verwaltungs- und Rechnungslegungsverfahren
 
 (1) Das Versicherungsunternehmen hat im Rahmen des internen
@@ -349,7 +341,6 @@ Hauptvertrag erkennbar ist. Auch im Falle einer ausschließlich
 elektronischen Bestandsverwaltung müssen nachträgliche Veränderungen
 in jedem Fall erkennbar sein.
 
-
 ## § 8 Berichtspflichten
 
 Das Versicherungsunternehmen hat der Aufsichtsbehörde jährlich
@@ -367,7 +358,6 @@ lassen. Die Übersicht über Verträge ohne hinreichenden Risikotransfer
 muss den Umfang und die zu erwartende Laufzeit der Finanzierung
 erkennen lassen.
 
-
 ## § 9 Übergangsregelungen
 
 Die §§ 4 bis 6, 7 Abs. 2 finden nur auf solche
@@ -378,7 +368,6 @@ Verträge, bei denen die vertraglich vereinbarte Risikotragungsdauer am
 Tag des Inkrafttretens der Verordnung abgelaufen ist. Der Bericht nach
 § 8 für das erste Geschäftsjahr, das nach dem Inkrafttreten der
 Verordnung endet, ist frühestens am 1. Juli 2009 einzureichen.
-
 
 ## § 10 Inkrafttreten
 

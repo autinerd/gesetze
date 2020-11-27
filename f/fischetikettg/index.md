@@ -19,12 +19,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 207 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -38,7 +36,6 @@ geltenden Fassung.
 
 (2) Sonstige Vorschriften über die Kennzeichnung oder Etikettierung
 von Fischen und Fischereierzeugnissen bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -69,10 +66,6 @@ Im Sinne dieses Gesetzes sind
 
     Fang von Fischen in der See oder in Binnengewässern oder Erzeugung von
     Fischen in der Aquakultur.
-
-
-
-
 
 ## § 3 Ermächtigungen
 
@@ -138,7 +131,6 @@ und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens
 sechs Monaten begrenzt wird. Ihre Geltungsdauer kann nur mit
 Zustimmung des Bundesrates verlängert werden.
 
-
 ## § 4 Zuständigkeit für die Überwachung
 
 Die Überwachung der Einhaltung der Rechtsakte der Europäischen
@@ -157,7 +149,6 @@ Gesetz erlassenen Rechtsverordnungen obliegt
 
 
 § 3 Abs. 1 Satz 2 bleibt unberührt.
-
 
 ## § 5 Befugnisse
 
@@ -242,7 +233,6 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 zu regeln.
 
-
 ## § 6 Mitwirkung der Zollstellen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten
@@ -262,7 +252,6 @@ Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur
 Duldung der Einsichtnahme in Unterlagen und zur Duldung von
 Besichtigungen vorsehen.
 
-
 ## § 7 Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
@@ -272,7 +261,6 @@ Landwirtschaft und Ernährung übertragen. Es kann diese Befugnis durch
 Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen
 obersten Landesbehörden übertragen. Die obersten Landesbehörden können
 diese Befugnis nach Satz 3 auf andere Behörden übertragen.
-
 
 ## § 8 Bußgeldvorschriften
 
@@ -325,7 +313,6 @@ ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1
 Nr. 4 geahndet werden können.
 
-
 ## § 9 Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 8 Abs. 1 begangen worden, so können
@@ -333,7 +320,6 @@ Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
 Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden
 oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über
 Ordnungswidrigkeiten ist anzuwenden.
-
 
 ## § 10 Inkrafttreten
 

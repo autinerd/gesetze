@@ -24,10 +24,7 @@ Zuletzt geändert durch
 V aufgeh. mit ausnahme der bezeichnung der v, der §§ 3, 8 satz 2 bis 4, der §§ 16 bis 19, § 20 abs. 1 satz 2 u. §§ 21 u. 22 abs. 1 sowie der überschr. vor § 16 durch
 :   § 28 Satz 1 G 612-6-3 (BierStG 1993) v. 21.12.1992 I 2150, 2158 mWv 1.1.1993
 
-
 ## (XXXX) §§ 1 und 2 (weggefallen)
-
-
 
 ## § 3
 
@@ -37,10 +34,7 @@ Länder Württemberg und Baden nach Maßgabe der Gesetze vom 27. März
 S. 599) in der durch das Gesetz vom 9. April 1927 (Reichsgesetzbl. I
 S. 94) geänderten Fassung.
 
-
 ## (XXXX) §§ 4 bis 7 (weggefallen)
-
-
 
 ## § 8
 
@@ -52,10 +46,7 @@ nicht flüchtigen gelösten Stoffen) und dem Alkoholgehalt des Bieres
 errechnet. Nachträgliche Verminderungen des Alkoholgehalts werden
 dabei nicht berücksichtigt.
 
-
 ## (XXXX) §§ 9 bis 15 (weggefallen)
-
-
 
 ## § 16
 
@@ -64,7 +55,6 @@ weitesten Sinn zu verstehen. Sie umfassen alle Teile der Herstellung
 und Behandlung des Bieres in der Brauerei selbst wie außerhalb dieser
 - beim Bierverleger, Wirt und dergleichen - bis zur Abgabe des Bieres
 an den Verbraucher.
-
 
 ## § 17
 
@@ -86,7 +76,6 @@ gedarrt und geröstet verwendet werden.
 Getreide als Gerste verwendet werden. Reis, Mais oder Dari gelten
 nicht als Getreide im Sinne des § 9 Abs. 3 des Gesetzes.
 
-
 ## § 18
 
 Rüben-, Rohr- oder Invertzucker ist technisch rein, wenn er mindestens
@@ -94,7 +83,6 @@ Rüben-, Rohr- oder Invertzucker ist technisch rein, wenn er mindestens
 enthält. Stärkezucker ist der aus natürlicher Stärke gewonnene Zucker.
 Es ist zulässig, den Zucker auch in der Form von wäßrigen Lösungen zu
 verwenden.
-
 
 ## § 19
 
@@ -106,7 +94,6 @@ Maische oder Würze darf mit auf dem Malz natürlich vorkommenden
 Milchsäurebakterien, auch wenn sie vermehrt worden sind, angereichert
 werden.
 
-
 ## § 20
 
 (1) Die Verwendung von Rückständen, die bei der Bereitung obergärigen
@@ -117,16 +104,11 @@ nicht zulässig.
 
 (2) bis (4) (weggefallen)
 
-
-
-
-
 ## § 21
 
 Als obergärig gelten die mit obergäriger, Auftrieb gebender Hefe
 hergestellten, als untergärig die mit untergäriger, ausschließlich zu
 Boden gehender Hefe bereiteten Biere.
-
 
 ## § 22
 

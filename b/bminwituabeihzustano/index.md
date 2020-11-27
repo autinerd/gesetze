@@ -20,7 +20,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3659
 
-
 ## I.
 
 Nach § 126 Absatz 3 Satz 2 des Bundesbeamtengesetzes wird der
@@ -35,7 +34,6 @@ sowie die Ablehnung eines Anspruchs in Angelegenheiten nach den
 Beihilfevorschriften des Bundes zu entscheiden, soweit sie zum Erlass
 des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
-
 ## II.
 
 Nach § 127 Absatz 3 des Bundesbeamtengesetzes wird der
@@ -47,11 +45,9 @@ den Beihilfevorschriften des Bundes übertragen. Das Bundesministerium
 für Wirtschaft und Technologie behält sich vor, im Einzelfall die
 Prozessvertretung selbst wahrzunehmen.
 
-
 ## III.
 
 Diese Anordnung ist mit Wirkung vom 5. Februar 2009 anzuwenden.
-
 
 ## Schlussformel
 

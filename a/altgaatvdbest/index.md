@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 906
 
-
-
 ## Eingangsformel
 
 Zum § 2 der Verordnung über die Tilgung der Anteilrechte von Inhabern
@@ -26,19 +24,16 @@ vom 27. Juni 1990 (GBl. I Nr. 39 S. 543) wird für Bürger mit Wohnsitz
 in der Bundesrepublik Deutschland und Berlin (West) folgendes
 geregelt:
 
-
 ## § 1
 
 Die Tilgung der Anteilrechte ist durch den Inhaber oder dessen Erben
 auf amtlichem Formblatt (Anlage) in zweifacher Ausfertigung zu
 beantragen.
 
-
 ## § 2
 
 Das amtliche Formblatt ist bei den Ausgleichsämtern der Bundesrepublik
 Deutschland und Berlin (West) oder der Staatsbank Berlin erhältlich.
-
 
 ## § 3
 
@@ -50,17 +45,14 @@ Bundesausgleichsamtes oder den von ihm benannten nachgeordneten
 Stellen zur Durchführung deren Aufgaben durch Übersendung einer
 Ausfertigung des Formblattes mitzuteilen.
 
-
 ## § 4
 
 Diese Durchführungsbestimmung tritt mit ihrer Veröffentlichung in
 Kraft.
 
-
 ## Schlußformel
 
 **Der Minister der Finanzen**
-
 
 ## Anlage
 

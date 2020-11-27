@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 10.8.1998 I 2093
 
-
 ## Eingangsformel
 
 Auf Grund des § 67 Nr. 1 bis 6 und 8, des § 68 Abs. 2 Nr. 1 und 2
@@ -29,7 +28,6 @@ sowie des § 176 Abs. 3 Satz 3 des Bundesberggesetzes vom 13. August
 Küstengewässer im Einvernehmen mit dem Bundesminister für Verkehr, und
 auf Grund des § 125 Abs. 4 des Bundesberggesetzes wird mit Zustimmung
 des Bundesrates verordnet:
-
 
 ## § 1 Anwendungsbereich
 
@@ -42,10 +40,6 @@ Diese Verordnung gilt für
 
 2.  Messungen zur Erfassung von Bodenbewegungen nach § 125 des
     Bundesberggesetzes.
-
-
-
-
 
 ## § 2 Grundsätze für Arbeiten nach § 1 Nr. 1
 
@@ -83,7 +77,6 @@ mit Datum und Unterschrift zu bestätigen. Sind mehrere Personen an den
 Arbeiten beteiligt, muß erkennbar sein, für welche Teile sie
 verantwortlich unterzeichnen.
 
-
 ## § 3 Bezugssysteme
 
 (1) Den Arbeiten nach § 1 Nr. 1 sind die Gauß-Krüger-Koordinaten und
@@ -103,7 +96,6 @@ des Bundesamtes für Seeschiffahrt und Hydrographie vermerkt sind. Für
 die Küstengewässer dürfen auch Bezugssysteme nach Absatz 1 Satz 1 oder
 2 verwendet werden, wenn eine Zuordnung zu den Bezugssystemen nach
 Satz 1 gegeben ist.
-
 
 ## § 4 Vermessungen über Tage
 
@@ -132,7 +124,6 @@ von Festpunkten grundlegender Vermessungen und von Messungsdifferenzen
 zu ergänzen, wenn die Übersicht über das Vermessungsnetz anders nicht
 sicherzustellen ist.
 
-
 ## § 5 Vermessungen unter Tage
 
 (1) Vermessungen unter Tage sind auf der Grundlage eines
@@ -147,7 +138,6 @@ ersetzen. § 4 Abs. 1, 3 und 4 gilt entsprechend.
 können Nebenzüge angelegt werden, die an das Hauptzugnetz
 anzuschließen sind und nicht länger als 1.000 m sein dürfen.
 
-
 ## § 6 Meßgenauigkeiten
 
 (1) Die Genauigkeit der Messungen richtet sich nach dem jeweiligen
@@ -160,7 +150,6 @@ den anderen Fällen sowie im Bereich des Festlandsockels ist das für
 das jeweilige Vermessungsgebiet genaueste Verfahren nach § 4 Abs. 2
 Satz 2 anzuwenden. Die erzielte Meßgenauigkeit ist anzugeben.
 
-
 ## § 7 Niederschriften
 
 (1) Über Messungen und Berechnungen sind Niederschriften zu führen,
@@ -170,7 +159,6 @@ geophysikalische Messungen und andere Sonderverfahren.
 (2) Die Niederschriften müssen dauerhaft sein. Sie sind so zu
 gestalten, daß sie in allen Teilen auch von anderen fachkundigen
 Personen nachvollzogen werden können.
-
 
 ## § 8 Übernahme fremder Unterlagen
 
@@ -195,7 +183,6 @@ fachkundige Stellen dürfen übernommen werden.
 (4) Übernommene fremde Unterlagen sind, soweit möglich und
 erforderlich, in die eigenen Vermessungen und Darstellungen
 einzupassen; sie sind als solche zu kennzeichnen.
-
 
 ## § 9 Anforderungen an das Rißwerk
 
@@ -242,7 +229,6 @@ von Gasen, Laugen oder Schlämmen und Gebirgsschlagstellen sowie für
 die dazugehörenden Verzeichnisse nach Anlage 3 Teil 2 Nr. 16.1 bis
 16\.3, 16.5 und 16.6.
 
-
 ## § 10 Nachtragungsfristen für das Rißwerk
 
 (1) Der Unternehmer hat das Rißwerk innerhalb der in Anlage 4 Teil 1
@@ -282,7 +268,6 @@ Interesse der persönlichen Sicherheit oder des öffentlichen Verkehrs,
 auch unter Berücksichtigung des Abbaufortschritts, dies erfordert oder
 zuläßt.
 
-
 ## § 11 Mitteilungen, nachträgliche Vermessung
 
 Der Unternehmer hat sicherzustellen, daß
@@ -300,10 +285,6 @@ Der Unternehmer hat sicherzustellen, daß
 
 3.  Grubenbaue oder andere Gegenstände nach Nummer 2 unverzüglich
     vermessen und dargestellt werden, sobald dies wieder möglich wird.
-
-
-
-
 
 ## § 12 Ausnahmen von dem Erfordernis des Grubenbildes
 
@@ -379,10 +360,6 @@ nachtragen zu lassen bei
 3.  einem Betrieb zur Gewinnung in alten Halden die Angaben nach Anlage 3
     Teil 2 Nr. 12.1.
 
-
-
-
-
 ## § 13 Anerkennung anderer Personen
 
 (1) Die zuständige Behörde kann zur Anfertigung und Nachtragung
@@ -418,7 +395,6 @@ Eignung nicht gegeben ist.
 (3) Die Anerkennung kann widerrufen werden, wenn Arbeiten nach § 1 Nr.
 1 wiederholt oder gröblich nicht entsprechend dieser Verordnung
 ausgeführt werden.
-
 
 ## § 14 Anzeigen, Aufzeichnungen
 
@@ -475,13 +451,6 @@ Personen nach § 2 Abs. 4 Satz 1 sind verpflichtet,
     d)  Anzahl der Mitarbeiter mit Angabe der fachlichen Ausbildung und der
         von ihnen wahrgenommenen Aufgaben.
 
-
-
-
-
-
-
-
 ## § 15 Anforderungen an Messungen nach § 125 Abs. 1 des Bundesberggesetzes
 
 (1) Als Messungen nach § 125 Abs. 1 des Bundesberggesetzes können
@@ -505,7 +474,6 @@ durchzuführen und die Ergebnisse der Messungen so darzustellen, daß
 
 Für die Messungen gelten die §§ 2 bis 4 und 6 bis 8 entsprechend. § 70
 Abs. 1 bis 3 des Bundesberggesetzes ist entsprechend anzuwenden.
-
 
 ## § 16 Anforderungen an Gebiete nach § 125 Abs. 2 des Bundesberggesetzes
 
@@ -532,11 +500,9 @@ Oberfläche besonders empfindlich sind, beeinträchtigt werden und daß
 im Zusammenhang damit Gefahren für Leben, Gesundheit oder bedeutende
 Sachgüter entstehen.
 
-
 ## § 17
 
 (weggefallen)
-
 
 ## § 18 Inkrafttreten, abgelöste Vorschriften
 
@@ -763,14 +729,9 @@ Schleswig-Holstein
     Oktober 1981 (Gesetz- und Verordnungsblatt für Schleswig-Holstein S.
     264).
 
-
-
-
-
 ## Schlußformel
 
 Der Bundesminister für Wirtschaft
-
 
 ## Anlage 1 (zu § 6)
 
@@ -1330,10 +1291,6 @@ Der Bundesminister für Wirtschaft
 
     *   III
 
-
-
-
-
 ## Anlage 2 (zu § 7)
 
 Fundstelle des Originaltextes: BGBl. I 1986, 2640 - 2641
@@ -1484,13 +1441,6 @@ Fundstelle des Originaltextes: BGBl. I 1986, 2640 - 2641
         oder Berechnungsergebnisse auf maschinenlesbaren Datenträgern
         gesichert gespeichert sind und ein Ausdrucken unverzüglich möglich
         ist.
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu den §§ 9 und 12)
 
@@ -2775,16 +2725,6 @@ Fundstelle des Originaltextes: BGBl. I 1986, 2640 - 2641
         16.7.2 bei sonstigen Aussolungen die während des vorangegangenen
             Nachtragungszeitraums gewonnene Solemenge und die in ihr enthaltene
             Salzmenge sowie deren Summen über die Betriebszeit.
-
-
-
-
-
-
-
-
-
-
 
 ## Anlage 4 (zu § 10)
 

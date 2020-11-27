@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 286
 
-
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -30,17 +28,14 @@ Geschäftsbereichs sowie dem Leiter der Zentralstelle für
 Agrardokumentation und -information für ihren jeweiligen
 Geschäftsbereich.
 
-
 ## II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der
 in Nr. I genannten Bundesbeamten vor.
 
-
 ## III.
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
-
 
 ## Schlußformel
 

@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 703
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 305 Abs. 5 Satz 1 der Insolvenzordnung vom 5. Oktober
 1994 (BGBl. I S. 2866), der durch Artikel 2 Nr. 16 des Gesetzes vom
 19\. Dezember 1998 (BGBl. I S. 3836) eingefügt worden ist, verordnet
 das Bundesministerium der Justiz:
-
 
 ## § 1 Vordrucke
 
@@ -81,7 +78,6 @@ folgenden, in der Anlage bestimmten Vordrucke eingeführt:
 (2) Den Vordrucken ist ein Hinweisblatt beizufügen, das deren
 wesentlichen Inhalt kurz erläutert.
 
-
 ## § 2 Zulässige Abweichungen
 
 Folgende Abweichungen von den in der Anlage bestimmten Vordrucken und
@@ -94,19 +90,13 @@ dem Hinweisblatt sind zulässig:
     soweit solche mit Rücksicht auf die Erfahrungen mit den Vordrucken
     geboten sind.
 
-
-
-
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. März 2002 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage
 
@@ -163,9 +153,6 @@ bei Ihren Verfahrensunterlagen behalten.**
         wurden. Solche Beträge **müssen Sie nach dem amtlichen
         Umrechnungskurs**                        (1 EUR = 1,95583 DM)
         **umrechnen.**
-
-
-
 
 ## **Hauptblatt**
 
@@ -273,8 +260,6 @@ bei Ihren Verfahrensunterlagen behalten.**
         nämlich die Abtretungserklärung, die Vermögensübersicht, das
         Vermögensverzeichnis sowie das Gläubiger- und Forderungsverzeichnis.
 
-
-
 ## **Anlage 1**
 
 ### **(Personalbogen: Angaben zur Person)**
@@ -335,8 +320,6 @@ bei Ihren Verfahrensunterlagen behalten.**
         Bevollmächtigung ergibt**                     , beifügen. Die
         Vollmacht kann auch nachgereicht werden.
 
-
-
 ## **Anlage 2**
 
 ### **(Bescheinigung über das Scheitern des außergerichtlichen
@@ -391,8 +374,6 @@ Einigungsversuchs)**
         . Sofern ein Stempel vorhanden ist, sollte dieser zusätzlich zu der
         Unterschrift verwendet werden.
 
-
-
 ## **Anlage 2 A**
 
 ### **(Gründe für das Scheitern des außergerichtlichen
@@ -444,8 +425,6 @@ Schuldenbereinigungsplans)**
         erscheint**                     , für die Entscheidung des Gerichts
         von Bedeutung sein.
 
-
-
 ## **Anlage 3**
 
 ### **(Abtretungserklärung nach § 287 Abs. 2 InsO)**
@@ -478,8 +457,6 @@ Schuldenbereinigungsplans)**
         ![bgbl1_2002_j0737_0070.jpg](bgbl1_2002_j0737_0070.jpg)        anzugeben. Dort können Sie auch ggf. Kopien der
         Abtretungsvereinbarungen beifügen.
 
-
-
 ## **Anlage 3 A**
 
 ### **(Erklärung zur Abkürzung der Wohlverhaltensperiode)**
@@ -495,8 +472,6 @@ Schuldenbereinigungsplans)**
         Jahre beträgt. Dass Sie bereits vor 1997 zahlungsunfähig waren, müssen
         Sie **durch Vorlage geeigneter Belege glaubhaft machen**
         .
-
-
 
 ## **Anlage 4**
 
@@ -624,8 +599,6 @@ Schuldenbereinigungsplans)**
         Vermögensvorteil (z. B. die Restschuldbefreiung) zu erlangen, macht
         sich **wegen Betruges strafbar**                     .
 
-
-
 ## **Anlage 5**
 
 ### **(Vermögensverzeichnis)**
@@ -642,8 +615,6 @@ Schuldenbereinigungsplans)**
         , weil Sie die entsprechenden Fragen in der Vermögensübersicht mit
         „Nein“ beantwortet haben, **brauchen Sie nicht beizufügen**
         .
-
-
 
 ## **Ergänzungsblatt 5 A**
 
@@ -692,8 +663,6 @@ Darlehensforderungen)**
         bitte die **Depot-Nr.**                      und den Namen der Bank
         oder Einrichtung an, die das Depot führt.
 
-
-
 ## **Ergänzungsblatt 5 B**
 
 ### **(Hausrat, Mobiliar, Wertgegenstände und Fahrzeuge)**
@@ -731,8 +700,6 @@ Darlehensforderungen)**
     *   Sofern Sie die aufgeführten Gegenstände zur **Fortsetzung Ihrer
         Erwerbstätigkeit**                      benötigen, können Sie dies
         hier angeben und kurz begründen.
-
-
 
 ## **Ergänzungsblatt 5 C**
 
@@ -799,8 +766,6 @@ Darlehensforderungen)**
         Sie bitte die Art und den ungefähren Wert Ihres Anspruchs auch dann
         mit, wenn die Rechtsnachfolge noch ungeklärt ist.
 
-
-
 ## **Ergänzungsblatt 5 D**
 
 ### **(Grundstücke, Eigentumswohnungen, Rechte an Grundstücken)**
@@ -843,8 +808,6 @@ Darlehensforderungen)**
         Grundvermögens betrieben wird oder falls **Zwangsverwaltung**
         angeordnet wurde, sind hier das zuständige **Amtsgericht**
         und das **Geschäftszeichen**                      anzugeben.
-
-
 
 ## **Ergänzungsblatt 5 E**
 
@@ -889,8 +852,6 @@ Darlehensforderungen)**
         zu diesem Zweck einen **Geschäftsanteil**
         erworben haben.
 
-
-
 ## **Ergänzungsblatt 5 F**
 
 ### **(Immaterielle Vermögensgegenstände und sonstiges Vermögen)**
@@ -909,8 +870,6 @@ Darlehensforderungen)**
     *   Bitte geben Sie hier Ihr **sonstiges Vermögen**
         an, soweit dies nicht bereits in einer anderen Rubrik erfragt worden
         ist.
-
-
 
 ## **Ergänzungsblatt 5 G**
 
@@ -1043,8 +1002,6 @@ Darlehensforderungen)**
         Raum für **weitere laufenden Einkünfte**                     , die
         nicht in einer anderen Rubrik erfasst sind.
 
-
-
 ## **Ergänzungsblatt 5 H**
 
 ### **(Laufendes Einkommen)**
@@ -1098,8 +1055,6 @@ Darlehensforderungen)**
         Ihnen zugestellten Ausfertigung des Pfändungs- und
         Überweisungsbeschlusses.
 
-
-
 ## **Ergänzungsblatt 5 J**
 
 ### **(Regelmäßig wiederkehrende Verpflichtungen)**
@@ -1140,8 +1095,6 @@ Darlehensforderungen)**
         Mehraufwendungen bei Vorliegen einer Behinderung, regelmäßige Pflege-
         und Krankheitsaufwendungen usw.).
 
-
-
 ## **Ergänzungsblatt 5 K**
 
 ### **(Schenkungen und entgeltliche Veräußerungen)**
@@ -1164,8 +1117,6 @@ Darlehensforderungen)**
         müssen Sie ebenfalls den Empfänger, den veräußerten Gegenstand und den
         Wert dieses Gegenstandes bzw. der von Ihnen erhaltenen Gegenleistung
         mitteilen.
-
-
 
 ## **Anlage 6**
 
@@ -1288,8 +1239,6 @@ Darlehensforderungen)**
         dem Computer ausgefüllt wird, dürfen hier nach Aufhebung des
         Dokumentschutzes Zeilen eingefügt oder gelöscht werden.
 
-
-
 ## **Anlage 7**
 
 ### **(Schuldenbereinigungsplan für das gerichtliche Verfahren -
@@ -1388,8 +1337,6 @@ Allgemeiner Teil)**
         Besonderen Teil des Schuldenbereinigungsplans
         ![bgbl1_2002_j0743_0050.jpg](bgbl1_2002_j0743_0050.jpg)        **einheitlich verwenden**                     .
 
-
-
 ## **Anlage 7 A**
 
 ### **(Schuldenbereinigungsplan für das gerichtliche Verfahren
@@ -1471,8 +1418,6 @@ Besonderer Teil - Musterplan mit Einmalzahlung oder festen Raten)**
         unterschiedlich sein (etwa wegen nur teilweise bestehender
         Sicherungsrechte oder bei einer Forderung, deren Berechtigung Sie
         nicht oder nur teilweise anerkennen).
-
-
 
 ## **Anlage 7 A**
 
@@ -1563,8 +1508,6 @@ Besonderer Teil - Musterplan mit flexiblen Raten)**
         Sicherungsrechte oder bei einer Forderung, deren Berechtigung Sie
         nicht oder nur teilweise anerkennen).
 
-
-
 ## **Anlage 7 B**
 
 ### **(Schuldenbereinigungsplan für das gerichtliche Verfahren
@@ -1611,8 +1554,6 @@ Besonderer Teil – Ergänzende Regelungen)**
         Gesamtforderung Ihrer Gläubiger für den Fall, dass Sie Ihre
         Zahlungspflichten aus dem Plan nicht erfüllen, unter bestimmten
         Voraussetzungen wieder in voller Höhe auflebt.
-
-
 
 ## **Anlage 7 C**
 

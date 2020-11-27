@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1955, 749
 
-
-
 ## (XXXX)
 
 Das Statut des "Verdienstordens der Bundesrepublik Deutschland" vom 7.

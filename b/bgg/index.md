@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 19.12.2007 I 3024
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
-
 
 ### § 1 Gesetzesziel
 
@@ -30,7 +27,6 @@ Menschen zu beseitigen und zu verhindern sowie die gleichberechtigte
 Teilhabe von behinderten Menschen am Leben in der Gesellschaft zu
 gewährleisten und ihnen eine selbstbestimmte Lebensführung zu
 ermöglichen. Dabei wird besonderen Bedürfnissen Rechnung getragen.
-
 
 ### § 2 Behinderte Frauen
 
@@ -41,7 +37,6 @@ Maßnahmen zur Förderung der tatsächlichen Durchsetzung der
 Gleichberechtigung von behinderten Frauen und zur Beseitigung
 bestehender Benachteiligungen zulässig.
 
-
 ### § 3 Behinderung
 
 Menschen sind behindert, wenn ihre körperliche Funktion, geistige
@@ -49,7 +44,6 @@ Fähigkeit oder seelische Gesundheit mit hoher Wahrscheinlichkeit
 länger als sechs Monate von dem für das Lebensalter typischen Zustand
 abweichen und daher ihre Teilhabe am Leben in der Gesellschaft
 beeinträchtigt ist.
-
 
 ### § 4 Barrierefreiheit
 
@@ -60,7 +54,6 @@ Kommunikationseinrichtungen sowie andere gestaltete Lebensbereiche,
 wenn sie für behinderte Menschen in der allgemein üblichen Weise, ohne
 besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich
 und nutzbar sind.
-
 
 ### § 5 Zielvereinbarungen
 
@@ -137,7 +130,6 @@ als beglaubigte Abschrift und in informationstechnisch erfassbarer
 Form zu übersenden sowie eine Änderung oder Aufhebung innerhalb eines
 Monats mitzuteilen.
 
-
 ### § 6 Gebärdensprache und andere Kommunikationshilfen
 
 (1) Die Deutsche Gebärdensprache ist als eigenständige Sprache
@@ -154,10 +146,7 @@ Gebärdensprache oder mit lautsprachbegleitenden Gebärden verständigen,
 haben sie nach Maßgabe der einschlägigen Gesetze das Recht, andere
 geeignete Kommunikationshilfen zu verwenden.
 
-
 ## Abschnitt 2 - Verpflichtung zur Gleichstellung und Barrierefreiheit
-
-
 
 ### § 7 Benachteiligungsverbot für Träger öffentlicher Gewalt
 
@@ -187,7 +176,6 @@ unmittelbar oder mittelbar beeinträchtigt werden.
 Menschen in anderen Rechtsvorschriften, insbesondere im Neunten Buch
 Sozialgesetzbuch, bleiben unberührt.
 
-
 ### § 8 Herstellung von Barrierefreiheit in den Bereichen Bau und Verkehr
 
 (1) Zivile Neubauten sowie große zivile Um- oder Erweiterungsbauten
@@ -205,7 +193,6 @@ Beförderungsmittel im öffentlichen Personenverkehr sind nach Maßgabe
 der einschlägigen Rechtsvorschriften des Bundes barrierefrei zu
 gestalten. Weitergehende landesrechtliche Vorschriften bleiben
 unberührt.
-
 
 ### § 9 Recht auf Verwendung von Gebärdensprache und anderen Kommunikationshilfen
 
@@ -241,10 +228,6 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 4.  welche Kommunikationsformen als andere geeignete Kommunikationshilfen
     im Sinne des Absatzes 1 anzusehen sind.
 
-
-
-
-
 ### § 10 Gestaltung von Bescheiden und Vordrucken
 
 (1) Träger öffentlicher Gewalt im Sinne des § 7 Abs. 1 Satz 1 haben
@@ -262,7 +245,6 @@ Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bei
 welchen Anlässen und in welcher Art und Weise die in Absatz 1
 genannten Dokumente blinden und sehbehinderten Menschen zugänglich
 gemacht werden.
-
 
 ### § 11 Barrierefreie Informationstechnik
 
@@ -296,10 +278,7 @@ die mit Mitteln der Informationstechnik dargestellt werden, durch
 Zielvereinbarungen nach § 5 ihre Produkte entsprechend den technischen
 Standards nach Absatz 1 gestalten.
 
-
 ## Abschnitt 3 - Rechtsbehelfe
-
-
 
 ### § 12 Vertretungsbefugnisse in verwaltungs- oder sozialrechtlichen Verfahren
 
@@ -313,7 +292,6 @@ oder auf Verwendung von Gebärden oder anderen Kommunikationshilfen im
 Sinne des § 6 Abs. 3 vorsehen. In diesen Fällen müssen alle
 Verfahrensvoraussetzungen wie bei einem Rechtsschutzersuchen durch den
 behinderten Menschen selbst vorliegen.
-
 
 ### § 13 Verbandsklagerecht
 
@@ -393,13 +371,7 @@ Verband
 5.  wegen Verfolgung gemeinnütziger Zwecke nach § 5 Abs. 1 Nr. 9 des
     Körperschaftsteuergesetzes von der Körperschaftsteuer befreit ist.
 
-
-
-
-
 ## Abschnitt 4 - Beauftragte oder Beauftragter der Bundesregierung für die Belange behinderter Menschen
-
-
 
 ### § 14 Amt der oder des Beauftragten für die Belange behinderter Menschen
 
@@ -411,7 +383,6 @@ notwendige Personal- und Sachausstattung zur Verfügung zu stellen.
 
 (3) Das Amt endet, außer im Fall der Entlassung, mit dem
 Zusammentreten eines neuen Bundestages.
-
 
 ### § 15 Aufgabe und Befugnisse
 

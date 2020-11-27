@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12 G v. 7.9.2007 I 2246
 
-
 ## § 1
 
 In der gewerblichen Wirtschaft sowie bei sonstigen Arbeitsstätten (mit
@@ -52,14 +51,12 @@ In den folgenden Jahren wiederholen sich die Erhebungen bei den unter
 den Nummern 1 bis 4 bezeichneten Bereichen in der gleichen
 Reihenfolge.
 
-
 ## § 2
 
 Das Bundesministerium für Wirtschaft und Technologie kann zum Zweck
 einer zeitlichen Anpassung der Kostenstrukturerhebungen an andere
 statistische Erhebungen durch Rechtsverordnung die Reihenfolge der
 Erhebungen bei den vier in § 1 bezeichneten Bereichen abändern.
-
 
 ## § 3
 
@@ -101,13 +98,11 @@ werden Angaben zur Kennzeichnung der Art der Unternehmen und sonstigen
 Arbeitsstätten erhoben, die zu einer zutreffenden Beurteilung der
 statistischen Zuordnung erforderlich sind.
 
-
 ## § 4
 
 Die Angaben zu den in § 3 Abs. 1 und 2 bezeichneten Tatbeständen
 beziehen sich jeweils auf ein dem Erhebungsjahr vorangegangenes
 Kalenderjahr oder Geschäftsjahr.
-
 
 ## § 5
 
@@ -129,21 +124,16 @@ Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
 Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
 von weniger als 500.000 Euro erwirtschaftet hat.
 
-
 ## § 6 (weggefallen)
 
 -
-
 
 ## § 7
 
 Die Kostenstrukturstatistik wird vom Statistischen Bundesamt
 durchgeführt.
 
-
 ## (XXXX) §§ 8 und 9 (weggefallen)
-
-
 
 ## § 10
 

@@ -25,10 +25,7 @@ Diese Verordnung dient der Umsetzung folgender Richtlinie: 91/414/EWG
 Nr. L 230 S. 1), zuletzt geändert durch die Richtlinie 2004/99/EG der
 Kommission vom 1. Oktober 2004 (ABl. EU Nr. L 309 S. 6).
 
-
 ## Erster Abschnitt - Pflanzenschutzmittel
-
-
 
 ### § 1 Zulassungsantrag
 
@@ -94,7 +91,6 @@ Wirkstoff müssen nicht vorgelegt werden, wenn
 Bezeichnung des Pflanzenschutzmittels oder eine andere Bezeichnung,
 die die Zugehörigkeit zu dem Antrag eindeutig angibt, fest angebracht
 sowie der Entwurf der Gebrauchsanleitung beigefügt sein.
-
 
 ### § 1a Untersuchungen
 
@@ -165,7 +161,6 @@ des Rates vom 14. März 2005 zur Änderung des Anhangs VI der Richtlinie
 Wirkstoffe Mikroorganismen enthalten (ABl. EU Nr. L 99 S. 1), zu
 erfolgen.
 
-
 ### § 1b Antrag für eine Genehmigung nach § 18 des Pflanzenschutzgesetzes
 
 (1) Der Antrag auf Genehmigung der Anwendung eines zugelassenen
@@ -208,7 +203,6 @@ Angaben und Unterlagen zurückgegriffen werden, die im Rahmen der
 Zulassung des Pflanzenschutzmittels verwendet worden sind.
 
 (3) § 1 Abs. 4 ist entsprechend anzuwenden.
-
 
 ### § 1c Antrag auf Feststellung nach § 16c des Pflanzenschutzgesetzes
 
@@ -322,10 +316,6 @@ soweit
 
 \*) Amtlicher Hinweis: www.ebundesanzeiger.de
 
-
-
-
-
 ### § 1d Amtliche Anerkennung einer Versuchseinrichtung
 
 (1) Versuchseinrichtung im Sinne dieser Verordnung ist eine amtliche
@@ -408,7 +398,6 @@ Versuchseinrichtung verlangen, dass ihr Auskunft über laufende und
 geplante Versuche, insbesondere über das zu prüfende
 Pflanzenschutzmittel und den Versuchsstandort, erteilt wird.
 
-
 ### § 1e Kennzeichnung
 
 (1) Ist es auf Grund der Größe der abgabefertigen Packung nicht
@@ -434,7 +423,6 @@ Fassung anzugeben, für die das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit das Vorliegen der Zuteilungskriterien der
 Anhänge IV und V der Richtlinie 91/414/EWG für das jeweilige
 Pflanzenschutzmittel festgestellt hat.
-
 
 ### § 2 Sachverständigenausschuss
 
@@ -472,7 +460,6 @@ Landwirtschaft und Verbraucherschutz, das seine Entscheidung im
 Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit trifft.
 
-
 ### § 3 Meldung
 
 (1) Die Meldung der Wirkstoffe nach § 19 Abs. 1 des
@@ -484,14 +471,12 @@ Pflanzenschutzmittel enthalten.
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im
 Bundesanzeiger bekannt gegebenen Muster zu machen.
 
-
 ### § 3a Verkehr mit Pflanzenschutzmittelwirkstoffen
 
 Die nach § 31d Abs. 1 Nr. 2 des Pflanzenschutzgesetzes erforderlichen
 Angaben und Unterlagen sind dem Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit eine Woche vor dem Inverkehrbringen oder der
 Einfuhr von Pflanzenschutzmittelwirkstoffen vorzulegen.
-
 
 ### § 3b Aufnahme in die Liste über Pflanzenstärkungsmittel; Aufnahme in die Liste über Zusatzstoffe
 
@@ -505,7 +490,6 @@ erstellen.
 (2) Für den Antrag auf Aufnahme eines Zusatzstoffs in die Liste nach §
 31c des Pflanzenschutzgesetzes gilt Absatz 1 entsprechend.
 
-
 ### § 3c Ein- und Ausfuhr von Pflanzenschutzmitteln
 
 Pflanzenschutzmittel aus Staaten, die nicht Mitgliedstaaten sind,
@@ -515,10 +499,7 @@ gegebenen Zollstellen eingeführt werden. Für die Ausfuhr von
 Pflanzenschutzmitteln in Staaten, die nicht Mitgliedstaaten sind, gilt
 Satz 1 entsprechend.
 
-
 ## Zweiter Abschnitt - Pflanzenschutzgeräte
-
-
 
 ### § 4 Anforderungen
 
@@ -530,7 +511,6 @@ sich aus Anlage 1.
 Kulturpflanzen, kann Merkmale im Bundesanzeiger bekanntmachen, die sie
 als notwendig zur Beurteilung der Einhaltung der Anforderungen
 ansieht.
-
 
 ### § 5 Kleingeräte
 
@@ -549,7 +529,6 @@ Kleingeräte sind Pflanzenschutzgeräte,
 
 
 und die nach ihrer Konstruktion von einer Person getragen werden.
-
 
 ### § 6 Erklärung
 
@@ -594,7 +573,6 @@ gehören Angaben
 (6) Bei Pflanzenschutzgeräten, die für die Ausfuhr bestimmt und
 entsprechend kenntlich gemacht sind, sind Absatz 2 in Verbindung mit
 Anlage 2 Nr. 4, 8, 9, 11 und 12 sowie Absatz 5 Nr. 2 nicht anzuwenden.
-
 
 ### § 7 Prüfung
 
@@ -676,13 +654,11 @@ im Gebrauch befinden, sind vom Besitzer erstmals,
 
 nach Absatz 1 prüfen zu lassen.
 
-
 ### § 7a Verwendungsverbot
 
 Pflanzenschutzgeräte im Sinne des § 7 Abs. 1 Satz 2 und 3, die keiner
 vorgeschriebenen Prüfung unterzogen worden oder nicht mit einer
 gültigen Prüfplakette versehen sind, dürfen nicht verwendet werden.
-
 
 ### § 7b Ordnungswidrigkeiten
 
@@ -690,22 +666,17 @@ Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 7a ein Pflanzenschutzgerät verwendet.
 
-
 ### § 7c Übergangsvorschrift
 
 Die Amtszeit der am 4. Dezember 2003 berufenen Mitglieder des
 Sachverständigenausschusses nach § 33a Abs. 4 des
 Pflanzenschutzgesetzes endet am 31. Dezember 2003.
 
-
 ## Dritter Abschnitt - Schlussvorschriften
-
-
 
 ### § 8 Inkrafttreten
 
 (Inkrafttreten)
-
 
 ### Anlage 1 (zu § 4 Abs. 1 und § 7 Abs. 2 Satz 1) Beschaffenheit der Pflanzenschutzgeräte
 
@@ -786,7 +757,6 @@ Zugehörigkeit zum Gerätetyp anzugeben und das Baujahr zu kennzeichnen.
 Zerstäuber sind so zu kennzeichnen, dass Bauart, Größe und wichtige
 Betriebsdaten erkennbar sind.
 
-
 ### Anlage 2 (zu § 6 Abs. 2) Gebrauchsanleitung
 
 Fundstelle des Originaltextes: BGBl. I 2005, 741
@@ -834,10 +804,6 @@ Die Gebrauchsanleitung muss Angaben enthalten
 
 
 12. für die Prüfung des Pflanzenschutzgerätes.
-
-
-
-
 
 ### Anlage 3 (zu § 7 Abs. 2 Satz 2)
 
@@ -894,10 +860,6 @@ Zu prüfende Teile
 
     *   Gebläse (Pflanzenschutzgeräte für Raumkulturen).
 
-
-
-
-
 ### Anlage 4 (zu § 7 Abs. 4 Satz 1) Muster der Prüfplakette
 
 (Inhalt: nicht darstellbares Muster,
@@ -906,7 +868,6 @@ Wird die Prüfung durch eine nach Landesrecht amtlich anerkannte
 Kontrollwerkstätte durchgeführt, so treten an die Stelle der Wörter
 "Amtliche Kontrollstelle" die Wörter "Amtlich anerkannte
 Kontrollwerkstätte".
-
 
 ### Anlage 5 (zu § 1c Abs. 5) Anerkennungsbescheinigung
 

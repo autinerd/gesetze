@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 23.4.2004 I 619
 
-
 ## Eingangsformel
 
 Auf Grund des § 24a des Gesetzes betreffend die Einführung der
 Zivilprozessordnung, der durch Artikel 5 Abs. 2a Nr. 1 des Gesetzes
 vom 26. November 2001 (BGBl. I S. 3138) eingefügt worden ist,
 verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Vordrucke
 
@@ -48,10 +46,6 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 4.  der in Anlage 4 bestimmte Vordruck für die schriftliche Mitteilung
     über die Zustellung durch Niederlegung nach § 181 Abs. 1 Satz 2 der
     Zivilprozessordnung (Benachrichtigung).
-
-
-
-
 
 ## § 2 Zulässige Abweichungen
 
@@ -84,44 +78,34 @@ der Vorausverfügungen auf dem inneren Umschlag nicht.
     erschweren, ermöglichen, technische Einrichtungen der üblichen
     Briefbeförderung für das Zustellungsverfahren zu nutzen.
 
-
-
-
-
 ## § 3 Überleitungsvorschrift
 
 Der Vordruck nach Anlage 1 zu § 1 Nr. 1 in der bis zum 30. April 2004
 geltenden Fassung kann bis zum 31. Dezember 2004 weiterverwendet
 werden.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Nr. 1) Zustellungsurkunde
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2004, 620 u. 621)
 
-
 ## Anlage 2 (zu § 1 Nr. 2) Innerer Umschlag
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2002, 674)
 
-
 ## Anlage 3 (zu § 1 Nr. 3) Äußerer Umschlag/Auftrag
 
 (Inhalt: Nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 2002, 675)
-
 
 ## Anlage 4 (zu § 1 Nr. 4) Benachrichtigung
 

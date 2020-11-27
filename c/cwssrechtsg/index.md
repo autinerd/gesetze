@@ -18,7 +18,6 @@ Fundstelle
 
 Textnachweis ab: 15.12.2011
 
-
 ## Artikel 1 Rechtsfähigkeit des Gemeinsamen Wattenmeersekretariats
 
 (1) Das Gemeinsame Wattenmeersekretariat (Common Wadden Sea
@@ -42,7 +41,6 @@ Bundesrepublik Deutschland die Rechtsfähigkeit
 
 (2) Für die Zwecke dieses Artikels wird das Sekretariat durch den
 Sekretär oder die Sekretärin vertreten.
-
 
 ## Artikel 2 Inkrafttreten
 

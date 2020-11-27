@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 934, 952
 
-
-
 ## Art 8 Gesetz über die weitere Anwendbarkeit des § 25 des Lebensmittel- und Bedarfsgegenständegesetzes
 
 § 25 des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung

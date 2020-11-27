@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 179
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -30,7 +28,6 @@ Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem
 Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie
 nach Anhörung des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung:
-
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
 
@@ -75,14 +72,12 @@ und ausgestattet ist.
 Vermögen des Inhabers ein Konkurs- oder Vergleichsverfahren eröffnet
 ist.
 
-
 ## § 2 Mindestanforderung an die Größe
 
 Die Ausbildungsstätte soll ein hauptberuflich bewirtschafteter Betrieb
 sein und mindestens das Vierfache der Mindestgröße nach § 1 Abs. 2 des
 Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994
 (BGBl. I S. 1890, 1891) erreichen.
-
 
 ## § 3 Ausnahmeregelungen
 
@@ -91,7 +86,6 @@ in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden,
 wenn sichergestellt ist, daß eine erforderliche Ausbildungsmaßnahme
 außerhalb der Ausbildungsstätte oder in einer anderen anerkannten
 Ausbildungsstätte durchgeführt werden kann.
-
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 

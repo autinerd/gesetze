@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 128 V v. 29.10.2001 I 2785
 
-
 ## § 1 Investitionszulage für Investitionen in der Eisen- und Stahlindustrie
 
 (1) Steuerpflichtigen im Sinne des Einkommensteuergesetzes und des
@@ -98,7 +97,6 @@ Herstellungskosten bei der Bemessung der Investitionszulage nur
 berücksichtigt werden, soweit sie die Anzahlungen oder
 Teilherstellungskosten übersteigen. § 7a Abs. 2 Satz 3 bis 5 des
 Einkommensteuergesetzes gilt entsprechend.
-
 
 ## § 2 Nachweis der Förderungswürdigkeit
 
@@ -180,7 +178,6 @@ tatsächlich durchgeführten Investitionsvorhaben die Voraussetzungen
 der Absätze 2 und 4 nicht vorliegen, kann die Bescheinigung
 zurückgenommen werden.
 
-
 ## § 3 Kumulierungsvorschrift
 
 Die Inanspruchnahme der Investitionszulage im Sinne dieses Gesetzes
@@ -194,7 +191,6 @@ sowie einer Investitionszulage nach § 1 Abs. 2, §§ 4, 4a oder 4b des
 Investitionszulagengesetzes oder nach § 19 des
 Berlinförderungsgesetzes für dasselbe Wirtschaftsgut, denselben Ausbau
 oder dieselbe Erweiterung zulässig.
-
 
 ## § 4 Ergänzende Vorschriften
 
@@ -280,7 +276,6 @@ Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der
 Finanzrechtsweg, gegen die Versagung von Bescheinigungen nach § 2 der
 Verwaltungsrechtsweg gegeben.
 
-
 ## § 5 Anwendungszeitraum
 
 (1) Dieses Gesetz ist anzuwenden
@@ -313,7 +308,6 @@ Steuerpflichtige durch die vorstehende Fassung der Vorschrift
 schlechtergestellt würde und dies in der Bescheinigung nach § 2
 festgestellt wird.
 
-
 ## § 6 Verfolgung von Straftaten nach § 264 des Strafgesetzbuches
 
 Für die Verfolgung einer Straftat nach § 264 des Strafgesetzbuches,
@@ -321,7 +315,6 @@ die sich auf die Investitionszulage bezieht, sowie der Begünstigung
 einer Person, die eine solche Straftat begangen hat, gelten die
 Vorschriften der Abgabenordnung über die Verfolgung von
 Steuerstraftaten entsprechend.
-
 
 ## § 7 Berlin-Klausel
 

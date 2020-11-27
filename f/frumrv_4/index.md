@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1973, 1815
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 2 des Gesetzes zur Durchführung des Ersten
@@ -27,14 +25,12 @@ Gesetzes über Maßnahmen auf dem Gebiete des Verkehrsrechts und
 Verkehrshaftpflichtrechts vom 16. Juli 1957 (Bundesgesetzbl. I S. 710)
 wird verordnet:
 
-
 ## § 1
 
 Bei Anwendung des Artikels 22 des Ersten Abkommens zur
 Vereinheitlichung von Regeln über die Beförderung im internationalen
 Luftverkehr vom 12. Oktober 1929 (Reichsgesetzbl. 1933 II S. 1039)
 sind 100 französische Franken mit 21,40 Deutsche Mark zu bewerten.
-
 
 ## § 2
 
@@ -44,11 +40,9 @@ Verbindung mit Artikel 9 des Gesetzes über Maßnahmen auf dem Gebiete
 des Verkehrsrechts und Verkehrshaftpflichtrechts vom 16. Juli 1957
 (Bundesgesetzbl. I S. 710) auch im Land Berlin.
 
-
 ## § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
-
 
 ## Schlußformel
 

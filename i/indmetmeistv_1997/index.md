@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 V v. 23.7.2010 I 1010
 
-
 ## Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August
@@ -29,7 +28,6 @@ Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S.
 Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des
 Ständigen Ausschusses des Bundesinstituts für Berufsbildung im
 Einvernehmen mit dem Bundesministerium für Wirtschaft:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Abschlusses
 
@@ -124,7 +122,6 @@ Fachrichtung Metall wahrnehmen zu können:
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Metall.
 
-
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Industriemeister umfaßt:
@@ -164,7 +161,6 @@ anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen, im
 Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich in Form von
 handlungsspezifischen, integrierten Situationsaufgaben und mündlich in
 Form eines situationsbezogenen Fachgesprächs gemäß § 5 zu prüfen.
-
 
 ## § 3 Zulassungsvoraussetzungen
 
@@ -206,7 +202,6 @@ Voraussetzungen kann zur Prüfung in den Prüfungsteilen auch zugelassen
 werden, wer durch Vorlage von Zeugnissen oder auf andere Weise
 glaubhaft macht, daß er berufspraktische Qualifikationen erworben hat,
 die die Zulassung zur Prüfung rechtfertigen.
-
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
 
@@ -428,7 +423,6 @@ Prüfungsteilnehmer nicht länger als 20 Minuten dauern. Die Bewertung
 der schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -916,7 +910,6 @@ Bewertung der schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die
 Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -926,7 +919,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -965,7 +957,6 @@ anderweitig abgelegten Prüfung anzugeben. Der Nachweis über den Erwerb
 der berufs- und arbeitspädagogischen Kenntnisse ist im Zeugnis
 einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -979,17 +970,14 @@ und er sich innerhalb von zwei Jahren, gerechnet vom Tage der
 Beendigung des nicht bestandenen Prüfungsteils an, zur
 Wiederholungsprüfung anmeldet.
 
-
 ## § 9 Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren
 können nach den bisherigen Vorschriften zu Ende geführt werden.
 
-
 ## § 10 Inkrafttreten/Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 7 Abs. 5) Muster
 
@@ -1019,7 +1007,6 @@ bestanden.
 Datum .......................
 Unterschrift ................
 (Siegel der zuständigen Stelle)
-
 
 ## Anlage 2 (zu § 7 Abs. 5) Muster
 

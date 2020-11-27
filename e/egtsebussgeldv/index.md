@@ -20,14 +20,11 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 18.12.2008 I 2791
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 76 Abs. 4 des Tierseuchengesetzes in der Fassung der
 Bekanntmachung vom 11. April 2001 (BGBl. I S. 506) verordnet das
 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
-
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
 
@@ -93,10 +90,6 @@ oder fahrlässig
 
 
     einführt.
-
-
-
-
 
 ## § 2 Inkrafttreten
 

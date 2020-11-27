@@ -15,14 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3591
 
-
 ## Eingangsformel
 
 Auf Grund des § 29a Absatz 3 Satz 1 des
 Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506)
 verordnet das Bundesministerium der Finanzen im Benehmen mit der
 Deutschen Bundesbank:
-
 
 ## § 1 Anwendungsbereich; Befugnisse der Bundesanstalt
 
@@ -35,14 +33,12 @@ erforderlich ist, gegenüber den Zahlungsinstituten Anordnungen über
 die Aufstellung und den Inhalt der Monatsausweise sowie über die
 weiteren Angaben nach § 3 dieser Verordnung erlassen.
 
-
 ## § 2 Art und Umfang des Monatsausweises
 
 Der Monatsausweis besteht aus einem Vermögensstatus bezogen auf das
 Ende des jeweiligen Berichtszeitraums und einer Gewinn- und
 Verlustrechnung, die den Zeitraum seit dem Ende des letzten
 Geschäftsjahres umfasst.
-
 
 ## § 3 Zahlungsvolumen
 
@@ -54,14 +50,12 @@ Nummer 6 des Zahlungsdiensteaufsichtsgesetzes betreffen, sind sie
 zusätzlich, bezogen auf den Zahlungsempfänger, in die verschiedenen
 Zahlungsrichtungen zu untergliedern.
 
-
 ## § 4 Berichtszeitraum
 
 Berichtszeitraum ist das Kalendervierteljahr. Die Bundesanstalt kann
 durch Entscheidung im Einzelfall den Berichtszeitraum auf einen
 Kalendermonat verkürzen, soweit dies zur Erfüllung der Aufgaben der
 Bundesanstalt erforderlich ist.
-
 
 ## § 5 Einreichungsverfahren und Einreichungstermin
 
@@ -106,11 +100,9 @@ Deutsche Bundesbank veröffentlicht auf ihrer Internetseite die für
 eine Dateneinreichung im Wege der Datenfernübertragung zu verwendenden
 Satzformate und den Einreichungsweg.
 
-
 ## § 6 Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
-
 
 ## Anlage 1 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Vermögensstatus –
 
@@ -3208,7 +3200,6 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
 
-
 ## Anlage 4 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Vermögensstatus –
 
 (Fundstelle: BGBl. I 2009, 3599 - 3600)
@@ -4018,7 +4009,6 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     sind Fremdwährungsbeträge direkt, das heißt ohne Zwischenumrechnung in
     die Währung des Sitzlandes, in die Währung umzurechnen, in der die
     Meldung erstellt wird.
-
 
 ## Anlage 5 Monatsausweis gemäß § 29a Absatz 1 Satz 1 ZAG – Gewinn- und Verlustrechnung –
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 42 G v. 20.12.2011 I 2854
 
-
 ## Eingangsformel
 
 Auf Grund des § 288 Abs. 1 Nr. 1 und 2 sowie Nr. 4 bis 8 des Dritten
@@ -26,7 +25,6 @@ Buches Sozialgesetzbuch - Arbeitsförderung - (Artikel 1 des Gesetzes
 vom 24. März 1997, BGBl. I S. 594) in Verbindung mit Artikel 81 Satz 1
 des Arbeitsförderungs-Reformgesetzes vom 24. März 1997 (BGBl. I S.
 594) verordnet das Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Arbeitserlaubnis
 
@@ -61,7 +59,6 @@ Die Höchstgrenzen für die Geltungsdauer von Arbeitserlaubnissen nach
 der Anwerbestoppausnahmeverordnung vom 17. September 1998 (BGBl. I S.
 2893) oder auf Grund einer zwischenstaatlichen Vereinbarung bleiben
 unberührt.
-
 
 ## § 2 Arbeitsberechtigung
 
@@ -141,7 +138,6 @@ Auslandsaufenthaltes nach Satz 1 bis zur Dauer von drei Monaten und
 Zeiten des Wehrdienstes nach Satz 2 bis zur Dauer von sechs Monaten
 angerechnet.
 
-
 ## § 3 Wartezeit
 
 Die Erteilung einer Arbeitserlaubnis für eine erstmalige Beschäftigung
@@ -161,7 +157,6 @@ hat (Wartezeit). Die Wartezeit gilt nicht für Ehegatten, Lebenspartner
 und Kinder eines Ausländers, der eine unbefristete
 Aufenthaltserlaubnis oder eine Aufenthaltsberechtigung besitzt.
 
-
 ## § 4 Räumlicher Geltungsbereich und Geltungsdauer der Arbeitsgenehmigung
 
 (1) Die Arbeitserlaubnis gilt für den Bezirk die Agentur für Arbeit,
@@ -171,7 +166,6 @@ längstens auf drei Jahre befristet.
 
 (2) Die Arbeitsberechtigung nach § 2 Abs. 3 Nr. 3 wird auf die Dauer
 der Ausbildung befristet.
-
 
 ## § 5 Verhältnis zum aufenthaltsrechtlichen Status
 
@@ -208,10 +202,6 @@ Buches Sozialgesetzbuch auch Ausländern erteilt werden,
 
 6.  deren Abschiebung durch eine richterliche Anordnung ausgesetzt ist.
 
-
-
-
-
 ## § 6 Versagungsgründe
 
 (1) Die Arbeitserlaubnis ist zu versagen, wenn
@@ -241,10 +231,6 @@ Buches Sozialgesetzbuch auch Ausländern erteilt werden,
 
 3.  wichtige Gründe in der Person des Arbeitnehmers vorliegen.
 
-
-
-
-
 ## § 7 Widerruf
 
 (1) Die Arbeitserlaubnis kann widerrufen werden, wenn der Ausländer zu
@@ -267,7 +253,6 @@ zweiten Jahres ihrer Geltungsdauer zugeht.
 
 (3) Wird die Arbeitserlaubnis widerrufen, so kann sie von der Behörde
 zurückgefordert werden.
-
 
 ## § 8 Erlöschen
 
@@ -312,7 +297,6 @@ hatte.
 
 (4) Erlischt die Arbeitsgenehmigung, so kann sie von der Behörde
 zurückgefordert werden.
-
 
 ## § 9 Arbeitsgenehmigungsfreie Beschäftigung
 
@@ -470,10 +454,6 @@ Keiner Arbeitsgenehmigung bedürfen
     Beschäftigung im Einvernehmen mit der Zentralstelle für
     Arbeitsvermittlung der Bundesagentur für Arbeit erfolgt.
 
-
-
-
-
 ## § 10 Arbeitserlaubnisersatz
 
 Die Arbeitserlaubnis wird durch die Zulassungsbescheinigungen für
@@ -481,7 +461,6 @@ Gastarbeitnehmer ersetzt, die im Rahmen eines mit anderen Staaten
 vereinbarten Austauschs von Gastarbeitnehmern zum Zwecke der
 beruflichen und sprachlichen Fortbildung von einer Dienststelle der
 Bundesagentur für Arbeit ausgestellt sind.
-
 
 ## § 11 Zuständigkeit
 
@@ -508,7 +487,6 @@ Antrag, die Erteilung und den Widerruf, die Rücknahme und die
 Aufhebung abweichend von den Absätzen 1 und 4 auf andere Dienststellen
 übertragen.
 
-
 ## § 12 Form
 
 (1) Die Arbeitsgenehmigung ist dem Arbeitnehmer schriftlich zu
@@ -519,7 +497,6 @@ kennzeichnen.
 
 (3) Der Widerruf, die Rücknahme und die Aufhebung der
 Arbeitsgenehmigung sind dem Arbeitnehmer schriftlich mitzuteilen.
-
 
 ## § 12a Erweiterung der Europäischen Union
 
@@ -546,7 +523,6 @@ Aufenthaltserlaubnis-EG erlischt oder aufgehoben wird.
 
 (4) (weggefallen)
 
-
 ## § 12b Fachkräfte aus den neuen EU-Mitgliedstaaten und deren Familienangehörige
 
 (1) Keiner Arbeitsgenehmigung-EU bedürfen Fachkräfte, die eine
@@ -560,18 +536,15 @@ eine qualifizierte Berufsausbildung voraussetzen, sowie ihren
 freizügigkeitsberechtigten Familienangehörigen ohne Prüfung nach § 39
 Absatz 2 Satz 1 Nummer 1 des Aufenthaltsgesetzes erteilt.
 
-
 ## § 12c Auszubildende aus den neuen EU-Mitgliedstaaten
 
 Keiner Arbeitsgenehmigung-EU bedürfen Auszubildende für eine
 qualifizierte betriebliche Ausbildung in einem staatlich anerkannten
 oder vergleichbar geregelten Ausbildungsberuf.
 
-
 ## § 12d (weggefallen)
 
 —
-
 
 ## § 12e Saisonarbeitskräfte aus Bulgarien und Rumänien
 
@@ -579,14 +552,12 @@ Keiner Arbeitsgenehmigung-EU bedürfen Staatsangehörige der Republik
 Bulgarien und der Republik Rumänien für eine Saisonbeschäftigung nach
 § 18 der Beschäftigungsverordnung.
 
-
 ## § 13 Assoziierungsabkommen EWG - Türkei
 
 Günstigere Regelungen des Beschlusses Nr. 1/80 des Assoziationsrates
 EWG - Türkei (Amtliche Nachrichten der Bundesanstalt für Arbeit Nr.
 1/1981 S. 2) über den Zugang türkischer Arbeitnehmer und ihrer
 Familienangehörigen zum Arbeitsmarkt bleiben unberührt.
-
 
 ## § 14 Übergangsvorschriften
 
@@ -608,7 +579,6 @@ Flugnavigatoren bei sonstigen Unternehmen, deren Arbeitsverhältnis vor
 dem 1. August 1976 begründet worden ist, bedürfen abweichend von § 284
 Abs. 1 Satz 1 des Dritten Buches Sozialgesetzbuch in Verbindung mit §
 9 Nr. 4 keiner Arbeitsgenehmigung.
-
 
 ## § 15 Inkrafttreten
 

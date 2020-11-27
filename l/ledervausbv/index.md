@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage im Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ geändert worden ist, verordnet das Bundesministerium für Wirtschaft
 und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf zur Fachkraft für Lederverarbeitung wird nach § 4
 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert zwei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -107,10 +103,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 8.  Durchführen von qualitätssichernden Maßnahmen.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -130,7 +122,6 @@ zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
 Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
-
 
 ## § 5 Zwischenprüfung
 
@@ -190,10 +181,6 @@ Vorgaben:
 3.  die Prüfungszeit beträgt insgesamt drei Stunden; innerhalb dieser Zeit
     soll die Bearbeitung der schriftlichen Aufgabenstellungen in 60
     Minuten durchgeführt werden.
-
-
-
-
 
 ## § 6 Abschlussprüfung
 
@@ -380,7 +367,6 @@ kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
 ## § 7 Anrechnungsregelung
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für
@@ -400,10 +386,6 @@ Berufsausbildung
     (BGBl. I S. 263) geändert worden ist, zu einer Verkürzung der
     Ausbildungsdauer um ein Jahr.
 
-
-
-
-
 ## § 8 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -411,11 +393,9 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren.
 
-
 ## § 9 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft.
-
 
 ## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Lederverarbeitung
 

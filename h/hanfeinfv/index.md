@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 11.12.2012 I 2653
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 2, der §§ 15, 16 und 21 Nr. 1 und 3 sowie des §
@@ -32,7 +31,6 @@ Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft
 im Einvernehmen mit den Bundesministerien der Finanzen und für
 Wirtschaft und Technologie:
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
@@ -40,14 +38,12 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 hinsichtlich der Einfuhr von Hanf aus Drittländern im Rahmen der
 gemeinsamen Organisation der Agrarmärkte.
 
-
 ## § 2 Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
 Ernährung (Bundesanstalt), soweit nicht nach § 4 Abs. 6 oder § 5 Abs.
 1 die Bundesfinanzverwaltung zuständig ist.
-
 
 ## § 3 Zulassung
 
@@ -107,7 +103,6 @@ Veränderungen sind unverzüglich schriftlich zu melden, wenn nicht nach
 anderen Rechtsvorschriften für die Anzeige eine andere Form oder eine
 andere Frist vorgeschrieben ist.
 
-
 ## § 4 Lizenz
 
 (1) Die EWG-Lizenzverordnung findet keine Anwendung.
@@ -142,7 +137,6 @@ wenn die Zulassung des Einführers nach § 3 widerrufen wird oder
 Zweifel an der Richtigkeit der vom Lizenznehmer gemachten Angaben in
 der Lizenz bestehen.
 
-
 ## § 5 Prüfung von Einfuhrbedingungen
 
 (1) Bei der Einfuhr von Rohhanf ist der Lizenzantrag zusammen mit der
@@ -167,14 +161,12 @@ Tetrahydrocannabinolgehalt der Sorte beizufügen. Bei Sorten, die die
 Voraussetzungen für die Erteilung des in Satz 1 genannten Zertifikats
 nicht erfüllen, genügt die Vorlage des in Satz 2 genannten Attestes.
 
-
 ## § 6 Behandlung
 
 Auf begründeten Antrag des zugelassenen Einführers kann die Frist zur
 Behandlung der nicht zur Aussaat bestimmten Hanfsamen von der
 Bundesanstalt um einen oder zwei Sechsmonatszeiträume verlängert
 werden.
-
 
 ## § 7 Bescheinigung
 
@@ -185,7 +177,6 @@ die Bescheinigung nach Artikel 17 Absatz 2 der Verordnung (EG) Nr.
 Einführer durch seine Unterschrift zu bestätigen und einer Lizenz
 durch Angabe der Registriernummer der Lizenz zuzuordnen.
 
-
 ## § 8 Muster, Formulare
 
 (1) Für die nach den in § 1 genannten Rechtsakten oder dieser
@@ -195,7 +186,6 @@ bereithalten.
 
 (2) Soweit Muster bekannt gegeben oder Formulare bereitgehalten
 werden, sind diese zu verwenden.
-
 
 ## § 9 Ordnungswidrigkeiten
 
@@ -209,10 +199,6 @@ Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
 2.  entgegen § 7 Satz 1 eine Bescheinigung nicht oder nicht rechtzeitig
     vorlegt.
-
-
-
-
 
 ## § 10 Inkrafttreten
 

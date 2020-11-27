@@ -18,16 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 21 G v. 20.12.2001 I 4013
 
-
 ## Art 1
 
 -
 
-
 ## (XXXX) Art 2 bis Art 13 (weggefallen)
 
 -
-
 
 ## Art 14 Änderung der Verwaltungsgerichtsordnung
 
@@ -40,21 +37,15 @@ Zuletzt geändert durch
     abgegeben worden sind, werden von dem Vertreter des Bundesinteresses
     beim Bundesverwaltungsgericht weiterverfolgt.
 
-
-
-
-
 ## (XXXX) Art 15 bis Art 25 (weggefallen)
 
 -
-
 
 ## Art 26 Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf den Artikel 4 bis 6, 8 und 25 beruhenden Teile der dort
 geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigungen durch Rechtsverordnung geändert werden.
-
 
 ## Art 27 Inkrafttreten, Außerkrafttreten
 

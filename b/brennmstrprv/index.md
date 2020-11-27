@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2065
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 des
@@ -27,7 +26,6 @@ sind, verordnet das Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
@@ -88,7 +86,6 @@ Anforderungen und Rahmenbedingungen zu reagieren:
 „Landwirtschaftlicher Brennmeister/Landwirtschaftliche
 Brennmeisterin“.
 
-
 ## § 2 Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
@@ -119,7 +116,6 @@ Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
 Handlungsfähigkeit) erworben worden sind, die die Zulassung zur
 Prüfung rechtfertigen.
 
-
 ## § 3 Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung beinhaltet die Prüfungsteile
@@ -136,7 +132,6 @@ Prüfung rechtfertigen.
 
 
 (2) Die Meisterprüfung ist nach den §§ 4 bis 6 durchzuführen.
-
 
 ## § 4 Prüfungsanforderungen im Prüfungsteil „Brennereitechnologie, Betriebs- und Verfahrenstechnik, Vermarktung“
 
@@ -230,7 +225,6 @@ vorgestellt werden. Für diese Prüfungsleistung, einschließlich der
 Vorstellung der Brennereierzeugnisse, stehen bis zu 120 Minuten zur
 Verfügung.
 
-
 ## § 5 Prüfungsanforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
 
 (1) Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin soll
@@ -317,7 +311,6 @@ zu geben, den Betrieb unmittelbar kennenzulernen. Für die
 Betriebsbeurteilung stehen einschließlich der Vorbereitung auf das
 Prüfungsgespräch bis zu vier Stunden zur Verfügung. Das anschließende
 Prüfungsgespräch soll jeweils nicht länger als 60 Minuten dauern.
-
 
 ## § 6 Prüfungsanforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
 
@@ -534,7 +527,6 @@ ergänzen, wenn diese für das Bestehen der Prüfung oder für die
 eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die
 Ergänzungsprüfung soll jeweils nicht länger als 30 Minuten dauern.
 
-
 ## § 7 Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die
@@ -545,7 +537,6 @@ einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder
 vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg
 abgelegt wurde, die den Anforderungen der entsprechenden
 Prüfungsinhalte nach dieser Verordnung entspricht.
-
 
 ## § 8 Bestehen der Meisterprüfung
 
@@ -574,7 +565,6 @@ wenn in der gesamten Prüfung mindestens eine der Leistungen in den
 Prüfungen nach Absatz 1 mit „ungenügend“ oder mehr als eine dieser
 Leistungen mit „mangelhaft“ benotet worden ist.
 
-
 ## § 9 Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal
@@ -588,7 +578,6 @@ mindestens mit der Note „ausreichend“ bewertet worden sind und der
 Prüfungsteilnehmer oder die Prüfungsteilnehmerin sich innerhalb von
 zwei Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen
 Prüfung an, zur Wiederholungsprüfung anmeldet.
-
 
 ## § 10 Inkrafttreten
 

@@ -19,15 +19,11 @@ Fundstelle
 Geändert durch
 :   Art. 48 G v. 19.4.2006 I 866
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
 ## Erster Abschnitt - Begriffsbestimmung
-
-
 
 ### § 1
 
@@ -55,13 +51,7 @@ Gerichtsbarkeit nicht mehr ausgeübt wird, anzusehen:
     ehemaligen Generalgouvernement und in den ehemaligen
     Reichskommissariaten Ostland und Ukraine.
 
-
-
-
-
 ## Zweiter Abschnitt - Bürgerliches Recht
-
-
 
 ### § 6
 
@@ -85,18 +75,11 @@ bei ihm nicht eingegangen ist. Ist ein Gericht vor Inkrafttreten
 dieses Gesetzes im Sinne des Absatzes 1 tätig geworden, so zeigt es
 dies dem Amtsgericht Schöneberg in Berlin-Schöneberg unverzüglich an.
 
-
 ## Dritter Abschnitt -
-
-
 
 ### (XXXX) §§ 14 bis 16 (weggefallen)
 
-
-
 ## Vierter Abschnitt - Strafrecht
-
-
 
 ### § 17
 
@@ -120,7 +103,6 @@ Strafvollstreckungsbehörde bei dem Landgericht, in dessen Bezirk der
 Verurteilte seinen Wohnsitz oder in Ermangelung eines im Bereich
 deutscher Gerichtsbarkeit gelegenen Wohnsitzes seinen gewöhnlichen
 Aufenthalt hat.
-
 
 ### § 18
 
@@ -152,7 +134,6 @@ Inkrafttretens dieses Gesetzes seinen Wohnsitz oder in Ermangelung
 eines im Bereich deutscher Gerichtsbarkeit gelegenen Wohnsitzes seinen
 gewöhnlichen Aufenthalt hat.
 
-
 ### § 19
 
 (1) Ergibt sich nach den Vorschriften der §§ 17 und 18 keine
@@ -178,10 +159,7 @@ Strafprozeßordnung berechtigten Antragstellers; die Absätze 1 und 2
 gelten entsprechend. Sind hiernach mehrere Gerichte zuständig, so
 gebührt dem Gericht der Vorzug, das zuerst mit der Sache befaßt wird.
 
-
 ## Fünfter Abschnitt -
-
-
 
 ### (XXXX) §§ 20 bis 24 (weggefallen)
 

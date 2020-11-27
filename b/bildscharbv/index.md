@@ -25,7 +25,6 @@ Mindestvorschriften bezüglich der Sicherheit und des
 Gesundheitsschutzes
 bei der Arbeit an Bildschirmgeräten (ABl. EG Nr. L 156 S. 14).
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Arbeit an Bildschirmgeräten.
@@ -77,7 +76,6 @@ Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die
 Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser
 Verordnung auf andere Weise gewährleistet werden.
 
-
 ## § 2 Begriffsbestimmungen
 
 (1) Bildschirmgerät im Sinne dieser Verordnung ist ein Bildschirm zur
@@ -108,7 +106,6 @@ sowie die unmittelbare Arbeitsumgebung.
 gewöhnlich bei einem nicht unwesentlichen Teil ihrer normalen Arbeit
 ein Bildschirmgerät benutzen.
 
-
 ## § 3 Beurteilung der Arbeitsbedingungen
 
 Bei der Beurteilung der Arbeitsbedingungen nach § 5 des
@@ -116,7 +113,6 @@ Arbeitsschutzgesetzes hat der Arbeitgeber bei Bildschirmarbeitsplätzen
 die Sicherheits- und Gesundheitsbedingungen insbesondere hinsichtlich
 einer möglichen Gefährdung des Sehvermögens sowie körperlicher
 Probleme und psychischer Belastungen zu ermitteln und zu beurteilen.
-
 
 ## § 4 Anforderungen an die Gestaltung
 
@@ -154,14 +150,12 @@ spätestens jedoch bis zum 31. Dezember 1999.
 und dabei Sicherheit und Gesundheitsschutz auf andere Weise
 gewährleistet sind.
 
-
 ## § 5 Täglicher Arbeitsablauf
 
 Der Arbeitgeber hat die Tätigkeit der Beschäftigten so zu
 organisieren, daß die tägliche Arbeit an Bildschirmgeräten regelmäßig
 durch andere Tätigkeiten oder durch Pausen unterbrochen wird, die
 jeweils die Belastung durch die Arbeit am Bildschirmgerät verringern.
-
 
 ## § 6 Untersuchung der Augen und des Sehvermögens
 
@@ -171,11 +165,9 @@ arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S. 2768),
 die im Anhang Teil 4 einen Anlass für Angebotsuntersuchungen enthält,
 in der jeweils geltenden Fassung.
 
-
 ## § 7 (weggefallen)
 
 -
-
 
 ## Anhang über an Bildschirmarbeitsplätze zu stellende Anforderungen
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 222
 
-
-
 ## (XXXX)
 
 Als Auszeichnung für Vereinigungen von Musikliebhabern, die sich in
@@ -30,7 +28,6 @@ Lebens erworben haben, stifte ich die
 
 Die Einzelheiten der Verleihung werden durch besondere Richtlinien
 festgelegt.
-
 
 ## Schlußformel
 

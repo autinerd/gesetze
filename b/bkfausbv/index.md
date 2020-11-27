@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 425
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969
@@ -25,17 +23,14 @@ August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der
 Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister
 für Bildung und Wissenschaft:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bürokaufmann/Bürokauffrau wird staatlich
 anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsberufsbild
 
@@ -125,10 +120,6 @@ Fertigkeiten und Kenntnisse:
 
 8.2 Lagerhaltung.
 
-
-
-
-
 ## § 4 Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den
@@ -146,12 +137,10 @@ Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere
 selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese
 Befähigung ist auch in den Prüfungen nachzuweisen.
 
-
 ## § 5 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 6 Berichtsheft
 
@@ -159,7 +148,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 7 Zwischenprüfung
 
@@ -191,7 +179,6 @@ Prüfungsfächern durchzuführen:
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere
 unterschritten werden, soweit die Prüfung in programmierter Form
 durchgeführt wird.
-
 
 ## § 8 Abschlußprüfung
 
@@ -309,14 +296,12 @@ ausreichende Prüfungsleistungen erbracht werden. Werden die
 Prüfungsleistungen in einem Prüfungsfach mit ungenügend bewertet, ist
 die Prüfung nicht bestanden.
 
-
 ## § 9 Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
 Prüfungsanforderungen für den Ausbildungsberuf
 Bürokaufmann/Bürokauffrau sind vorbehaltlich des § 10 nicht mehr
 anzuwenden.
-
 
 ## § 10 Übergangsregelung
 
@@ -326,11 +311,9 @@ anzuwenden, es sei denn, die Vertragsparteien vereinbaren während des
 ersten Ausbildungsjahres die Anwendung der Vorschriften dieser
 Verordnung.
 
-
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1991 in Kraft.
-
 
 ## Anlage I (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau - Sachliche Gliederung -
 
@@ -832,7 +815,6 @@ Sicherheitsvorschriften
 I                            I    beachten
 ----------------------------------------------------------------------
 ---------
-
 
 ## Anlage II (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bürokaufmann/zur Bürokauffrau - Zeitliche Gliederung -
 

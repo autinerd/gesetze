@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 128
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 und 2 des Gesetzes zum Schutz gegen Fluglärm
@@ -27,7 +25,6 @@ worden ist, verordnet das Bundesministerium für Umwelt, Naturschutz
 und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der
 Verteidigung:
 
-
 ## § 1
 
 Zum Schutz der Allgemeinheit vor Gefahren, erheblichen Nachteilen und
@@ -35,14 +32,12 @@ erheblichen Belästigungen durch Fluglärm in der Umgebung des
 militärischen Flugplatzes Spangdahlem wird der in § 2 bestimmte
 Lärmschutzbereich festgesetzt.
 
-
 ## § 2
 
 Der Lärmschutzbereich mit seinen zwei Schutzzonen wird nach Anlage 1
 bestimmt durch die interpolierten Verbindungslinien zwischen den
 Kurvenpunkten, soweit diese Linien außerhalb des Flugplatzgeländes
 verlaufen.
-
 
 ## § 3
 
@@ -54,7 +49,6 @@ dieser Schutzzone gelegen.
 (2) Auf die Errichtung einer baulichen Anlage ist Absatz 1
 entsprechend anzuwenden.
 
-
 ## § 4
 
 Der nach § 2 bestimmte Lärmschutzbereich ist in einer topographischen
@@ -65,16 +59,13 @@ und die Karten im Maßstab 1:5.000 sind bei der Kreisverwaltung
 Bitburg-Prüm, Trierer Str. 1, 54634 Bitburg, zu jedermanns Einsicht
 archivmäßig gesichert niedergelegt.
 
-
 ## § 5
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 2 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Spangdahlem vom 16. Februar 2000)
 
@@ -7070,9 +7061,6 @@ Der Bundesrat hat zugestimmt.
     *
     *
     *
-
-
-
 
 ## Anlage 2 (zu § 4 der Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Spangdahlem vom 16. Februar 2000)
 

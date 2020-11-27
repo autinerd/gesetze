@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1969, 814
 
-
-
 ## (XXXX)
 
 Das Ordenskapitel des Ordens Pour le
@@ -28,7 +26,6 @@ und Verleihung von Orden und Ehrenzeichen und über die Anerkennung als
 Ehrenzeichen vom 4. Juli 1958 (Bundesgesetzbl. I S. 422) genehmige ich
 die Satzungsänderungen. Die neue Fassung der Satzung wird vom
 Bundesminister des Innern im Bundesanzeiger veröffentlicht.
-
 
 ## Schlußformel
 

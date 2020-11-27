@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1249
 
-
 ## Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des
@@ -27,7 +26,6 @@ Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie:
-
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
@@ -115,7 +113,6 @@ Fortbildungsabschluss „Geprüfter Industriemeister – Fachrichtung
 Pharmazie“ oder “Geprüfte Industriemeisterin – Fachrichtung
 Pharmazie“.
 
-
 ## § 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum „Geprüften Industriemeister – Fachrichtung
@@ -163,7 +160,6 @@ prüfen. Die Situationsaufgabe I wird schriftlich geprüft; die
 Situationsaufgabe II besteht aus einer schriftlichen Aufgabenstellung
 und einem Fachgespräch.
 
-
 ## § 3 Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende
@@ -207,7 +203,6 @@ Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch
 Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht,
 berufspraktische Qualifikationen erworben zu haben, die die Zulassung
 zur Prüfung rechtfertigen.
-
 
 ## § 4 Fachrichtungsübergreifende Basisqualifikationen
 
@@ -391,7 +386,6 @@ Bewertung der schriftlichen Prüfungsleistung und die der mündlichen
 Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
-
 
 ## § 5 Handlungsspezifische Qualifikationen
 
@@ -915,7 +909,6 @@ Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung
 zusammengefasst. Dabei wird die Bewertung der schriftlichen
 Prüfungsleistung doppelt gewichtet.
 
-
 ## § 6 Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin ist auf Antrag
@@ -925,7 +918,6 @@ Stelle zu befreien, wenn eine andere vergleichbare Prüfung vor einer
 einem staatlichen Prüfungsausschuss erfolgreich abgelegt wurde und die
 Anmeldung zur Fortbildungsprüfung innerhalb von fünf Jahren nach der
 Bekanntgabe des Bestehens der anderen Prüfung erfolgt.
-
 
 ## § 7 Bewerten der Prüfungsteile und Bestehen der Prüfung
 
@@ -975,7 +967,6 @@ des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben. Der
 Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Qualifikationen nach § 2 Absatz 2 ist im Zeugnis einzutragen.
 
-
 ## § 8 Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt
@@ -989,14 +980,12 @@ prüfenden Situationsaufgaben I und II und der schriftlichen
 Ausarbeitung zu befreien, wenn die darin in einer vorangegangenen
 Prüfung erbrachten Leistungen ausgereicht haben.
 
-
 ## § 9 Zusatzqualifikationen
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, kann beantragen,
 die Prüfung in weiteren Spezialisierungsgebieten nach § 5 Absatz 4
 abzulegen. Über die bestandene Prüfung ist eine Bescheinigung
 auszustellen. § 8 Absatz 1 gilt entsprechend.
-
 
 ## § 10 Übergangsvorschrift
 
@@ -1006,7 +995,6 @@ Antrag kann die zuständige Stelle die Wiederholungsprüfung auch nach
 dieser Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall
 keine Anwendung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2010 in Kraft. Gleichzeitig tritt
@@ -1015,7 +1003,6 @@ Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Pharmazie
 vom 19. Mai 1989 (BGBl. I S. 982), die zuletzt durch Artikel 22 der
 Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
 außer Kraft.
-
 
 ## Anlage 1 (zu § 7 Absatz 6) Muster
 
@@ -1081,8 +1068,6 @@ Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie vom
     *   (Siegel der zuständigen Stelle)
 
     *
-
-
 
 ## Anlage 2 (zu § 7 Absatz 6) Muster
 

@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 29.11.2010 I 1731
 
-
 ## Eingangsformel
 
 Auf Grund des § 79a der Kostenordnung, der durch Artikel 1 Nr. 7 des
 Gesetzes vom 3. Juli 2004 (BGBl. I S. 1410) eingefügt worden ist,
 verordnet das Bundesministerium der Justiz:
-
 
 ## § 1 Gebührenverzeichnis
 
@@ -36,7 +34,6 @@ elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs und
 Artikel 61 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch werden
 Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung
 erhoben.
-
 
 ## § 2 Allgemeine Vorschriften
 
@@ -88,13 +85,11 @@ Person eine besondere Tatsache.
 sind und dasselbe Unternehmen betreffen, werden als eine Anmeldung
 behandelt.
 
-
 ## § 2a Recht der Europäischen Union
 
 Umwandlungen und Verschmelzungen nach dem Recht der Europäischen Union
 stehen hinsichtlich der Gebühren den Umwandlungen nach dem
 Umwandlungsgesetz gleich.
-
 
 ## § 3 Zurücknahme
 
@@ -121,7 +116,6 @@ betragen in den Fällen der Sätze 1 und 2 die auf die zurückgenommenen
 Teile der Anmeldung entfallenden Gebühren insgesamt höchstens 250
 Euro.
 
-
 ## § 4 Zurückweisung
 
 Wird eine Anmeldung zurückgewiesen, sind 170 Prozent der für die
@@ -129,7 +123,6 @@ Eintragung bestimmten Gebühren zu erheben. Bei der Zurückweisung einer
 angemeldeten Ersteintragung bleiben die Gebühren für die gleichzeitig
 angemeldete Eintragung der Errichtung einer Zweigniederlassung und für
 die Eintragung einer Prokura unberücksichtigt.
-
 
 ## § 5 Zurücknahme oder Zurückweisung in besonderen Fällen
 
@@ -139,12 +132,10 @@ zurückgewiesen, ist für jeden zurückgenommenen oder zurückgewiesenen
 Teil von den Gebühren 1503, 2501 und 3501 des Gebührenverzeichnisses
 auszugehen. § 3 Absatz 2 bleibt unberührt.
 
-
 ## § 5a Übergangsvorschrift
 
 Für Kosten, die vor dem Inkrafttreten einer Änderung der
 Rechtsverordnung fällig geworden sind, gilt das bisherige Recht.
-
 
 ## § 6 Übergangsvorschrift zum Gesetz über elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister
 
@@ -155,11 +146,9 @@ und 5001 des Gebührenverzeichnisses in der vor dem 1. Januar 2007
 geltenden Fassung erhoben, auch wenn die Unterlagen erst nach dem 31.
 Dezember 2006 zum Handelsregister eingereicht werden.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 1)
 

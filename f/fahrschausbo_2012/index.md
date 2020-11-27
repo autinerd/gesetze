@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 3 V v. 26.6.2012 I 1394
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -36,10 +35,6 @@ Auf Grund
     2007 (BGBl. I S. 1270), verordnet das Bundesministerium für Verkehr,
     Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für
     Arbeit und Soziales:
-
-
-
-
 
 ## § 1 Ziel und Inhalt der Ausbildung
 
@@ -75,7 +70,6 @@ Ausbildung ist außerdem die Vorbereitung auf die Fahrerlaubnisprüfung.
 
 einschließt.
 
-
 ## § 2 Art und Umfang der Ausbildung
 
 (1) Die Ausbildung erfolgt in einem theoretischen und einem
@@ -90,7 +84,6 @@ sind die für die Ausbildung zuständigen Stellen der Bundeswehr oder
 der Polizei befugt, auf Teile der vorgeschriebenen praktischen
 Ausbildung zu verzichten, wenn die Ausbildungsziele in gleicher Weise
 durch die Verwendung von Fahrsimulatoren erreicht werden.
-
 
 ## § 3 Allgemeine Ausbildungsgrundsätze
 
@@ -108,7 +101,6 @@ dem Erwerb der Fahrerlaubnis fördern. Der Fahrlehrer soll gegenüber
 dem Fahrschüler sachlich, aufgeschlossen und geduldig auftreten. Die
 Mitarbeit des Schülers ist insbesondere durch Fragen und Diskussionen
 anzustreben.
-
 
 ## § 4 Theoretischer Unterricht
 
@@ -145,7 +137,6 @@ Rahmenplan zu richten und ist durch Aushang oder Auslegen in den
 Geschäftsräumen der Fahrschule bekannt zu geben. Der Unterricht hat
 sich nach dem Ausbildungsplan zu richten und soll zwei Doppelstunden
 täglich nicht überschreiten.
-
 
 ## § 5 Praktischer Unterricht
 
@@ -227,7 +218,6 @@ Ausbildungsplan aufzustellen. Der Unterricht hat sich nach dem
 Ausbildungsplan zu richten. Er ist durch Aushang oder Auslegen in den
 Geschäftsräumen der Fahrschule bekannt zu geben.
 
-
 ## § 6 Abschluss der Ausbildung
 
 (1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung
@@ -243,7 +233,6 @@ Bescheinigungen über die durchgeführte theoretische und praktische
 Ausbildung nach den Anlagen 7.1 bis 7.3 auszustellen. Wird die
 Ausbildung nicht abgeschlossen, sind dem Fahrschüler die durchlaufenen
 Ausbildungsteile schriftlich zu bestätigen.
-
 
 ## § 7 Ausnahmen
 
@@ -292,7 +281,6 @@ Absatz 1 Nummer 4.
 
 (3) Ausnahmen von § 5 Absatz 2 Satz 3 und § 6 Absatz 2 können bei der
 Ausbildung für Dienstfahrerlaubnisse erteilt werden.
-
 
 ## § 8 Ordnungswidrigkeiten
 
@@ -373,10 +361,6 @@ fahrlässig
     der Mindestumfang des praktischen Unterrichts nach § 5 nicht
     durchgeführt wurde.
 
-
-
-
-
 ## § 9 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -385,11 +369,9 @@ Gleichzeitig tritt die Fahrschüler-Ausbildungsordnung vom 18. August
 Verordnung vom 18. Juli 2008 (BGBl. I S. 1338) geändert worden ist,
 außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 4) Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
 
@@ -856,13 +838,6 @@ Der Bundesrat hat zugestimmt.
 
 
     **f)** **Kurse zur umweltschonenden Fahrweise.**
-
-
-
-
-
-
-
 
 ## Anlage 2.1 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A1 (4 Doppelstunden), in der Klasse M (2 Doppelstunden)
 
@@ -1429,13 +1404,6 @@ Der Bundesrat hat zugestimmt.
 
     **f)** **Kartenlesen, Streckenplanung, Navigationssysteme.**
 
-
-
-
-
-
-
-
 ## Anlage 2.4 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse CE (4 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1328)
@@ -1523,13 +1491,6 @@ Der Bundesrat hat zugestimmt.
 
 
     **j)** **toter Winkel.**
-
-
-
-
-
-
-
 
 ## Anlage 2.5 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
 
@@ -2034,10 +1995,6 @@ Der Bundesrat hat zugestimmt.
 
     **Ladung.**
 
-
-
-
-
 ## Anlage 2.7 (zu § 4) Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse T (6 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1332)
@@ -2191,13 +2148,6 @@ Der Bundesrat hat zugestimmt.
 
     **d)** **Beleuchtungseinrichtungen an Anhängern.**
 
-
-
-
-
-
-
-
 ## Anlage 2.8 (zu § 4 Absatz 4) Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
 
 (Fundstelle: BGBl. I 2012, 1333)
@@ -2306,9 +2256,6 @@ Der Bundesrat hat zugestimmt.
 *    *   T
 
     *   6 Doppelstunden
-
-
-
 
 ## Anlage 3 (zu § 5 Absatz 1) Sachgebiete für den praktischen Unterricht für alle Klassen
 
@@ -3624,9 +3571,6 @@ Der Bundesrat hat zugestimmt.
 
     *   1
 
-
-
-
 ## Anlage 6 (zu § 5 Absatz 5) Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und T Funktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit
 
 (Fundstelle: BGBl. I 2012, 1341 - 1342)
@@ -3854,10 +3798,6 @@ Der Bundesrat hat zugestimmt.
 
     Kontrolle von Aufbau, Planen, Bordwänden und sonstigen Einrichtungen
     zur Sicherung der Ladung
-
-
-
-
 
 ## Anlage 7.1 (zu § 6 Absatz 2) Ausbildungsbescheinigung für den theoretischen Mindestunterricht (§ 2 Abs. 2 Nr. 4 StVG)
 
@@ -4173,8 +4113,6 @@ Mindestunterrichts gemäß § 4 FahrschAusbO
     *
     *
 
-
-
 ## Anlage 7.2 (zu § 6 Absatz 2) Ausbildungsbescheinigung für den praktischen Unterricht der Klassen M, A, A1, B, BE, C1, C1E, C, CE und T (§ 2 Abs. 2 Nr. 4 StVG)
 
    (Fundstelle: BGBl. I 2012, 1344)
@@ -4422,9 +4360,6 @@ Mindestunterrichts gemäß § 4 FahrschAusbO
     *   3
 
     *   3
-
-
-
 
 ## Anlage 7.3 (zu § 6 Absatz 2) Ausbildungsbescheinigung für den praktischen Unterricht der Klassen D1, D1E, D und DE (§ 2 Abs. 2 Nr. 4 StVG)
 

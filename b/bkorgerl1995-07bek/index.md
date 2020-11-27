@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1085
 
-
-
 ## (XXXX)
 
 Nachstehend mache ich in Vertretung des Chefs des Bundeskanzleramtes

@@ -30,7 +30,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 (BGBl. 1980 II S. 941) neu gefasst worden ist, verordnet die
 Bundesregierung:
 
-
 ## Art 1 Zweck der Verordnung und Begriffsbestimmungen
 
 (1) Dem Wirtschafts- und Handelsbüro der Sonderverwaltungsregion
@@ -66,10 +65,6 @@ e)  Der Ausdruck „entsandter Mitarbeiter des Büros“ bezeichnet im Range
     Leiters des Büros, die weder deutsche Staatsangehörige noch in der
     Bundesrepublik Deutschland ständig ansässig sind.
 
-
-
-
-
 ## Art 2 Rechtsstellung
 
 (1) Das Büro besitzt in der Bundesrepublik Deutschland volle
@@ -89,7 +84,6 @@ c)  vor Gericht stehen.
 (2) Für die Zwecke dieses Artikels wird das Büro durch seinen Leiter
 vertreten.
 
-
 ## Art 3 Unverletzlichkeit der Geschäftsräume
 
 (1) Die Geschäftsräume des Büros sind in dem in diesem Artikel
@@ -107,12 +101,10 @@ jedem Eindringen und jeder Beschädigung zu schützen und zu verhindern,
 dass der Friede des Büros gestört oder seine Würde beeinträchtigt
 wird.
 
-
 ## Art 4 Unverletzlichkeit der amtlichen Archive und Schriftstücke
 
 Die amtlichen Archive und Schriftstücke des Büros sind jederzeit
 unverletzlich, wo immer sie sich befinden.
-
 
 ## Art 5 Verkehrsfreiheit
 
@@ -139,7 +131,6 @@ können sie verlangen, dass ein Vertreter des Büros die Gepäckstücke in
 ihrer Gegenwart öffnet.Wird dieses Verlangen abgelehnt, wird das
 Gepäckstück an seinen Ursprungsort zurückbefördert.
 
-
 ## Art 6 Immunität von der Gerichtsbarkeit und Eingriffen der Verwaltungsbehörden
 
 (1) Entsandte Mitarbeiter des Büros genießen für Handlungen, die in
@@ -158,10 +149,6 @@ b)  wenn diese von einem Dritten wegen eines Schadens angestrengt werden,
     der aus einem durch ein Land-, Wasser- oder Luftfahrzeug verursachten
     Unfall entstanden ist.
 
-
-
-
-
 ## Art 7 Zeugnispflicht
 
 (1) Entsandte Mitarbeiter des Büros können in einem Gerichts- oder
@@ -171,8 +158,6 @@ Verwaltungsverfahren als Zeugen geladen werden.
 über Angelegenheiten zu geben, die mit der Wahrnehmung ihrer Aufgaben
 zusammenhängen, oder die darauf bezüglichen amtlichen Korrespondenzen
 und Schriftstücke vorzulegen.
-
-
 
 ## Art 8 Verzicht auf Vorrechte und Immunitäten
 
@@ -188,7 +173,6 @@ Zivil- oder Verwaltungsgerichtsverfahren gilt nicht als Verzicht auf
 die Immunität von der Urteilsvollstreckung; hierfür ist ein besonderer
 Verzicht erforderlich.
 
-
 ## Art 9 Befreiung der Räumlichkeiten des Büros von der Besteuerung
 
 Die Räumlichkeiten des Büros in Berlin, die in seinem Eigentum oder
@@ -202,14 +186,12 @@ ist von der Grunderwerbsteuer befreit. Die Befreiungen nach den Sätzen
 entrichten sind, die mit dem Büro oder einer für das Büro handelnden
 Person Verträge geschlossen hat.
 
-
 ## Art 10 Befreiung der Dienstkraftfahrzeuge des Büros und bestimmter Privatfahrzeuge der entsandten Mitarbeiter von der Kraftfahrzeugsteuer und der Versicherungsteuer
 
 Die Dienstfahrzeuge des Büros und bis zu zwei Privatfahrzeuge jedes
 entsandten Mitarbeiters des Büros sind von der Kraftfahrzeugsteuer und
 der Versicherungsteuer befreit, sofern diese nicht von einer anderen
 Person zu entrichten sind.
-
 
 ## Art 11 Befreiung von Zöllen und Zollkontrollen
 
@@ -244,7 +226,6 @@ unterliegen. In solchen Fällen darf die Kontrolle nur in Anwesenheit
 des Mitarbeiters oder des betreffenden Familienangehörigen
 stattfinden.
 
-
 ## Art 12 Weitere steuerliche Regelungen
 
 (1) Die entsandten Mitarbeiter des Büros sind von der Einkommensteuer
@@ -261,7 +242,6 @@ ausländische ständige berufskonsularische Vertretungen und deren
 Mitglieder in der Bundesrepublik Deutschland geltenden Regelungen
 erstattet.
 
-
 ## Art 13 Befreiung vom System der sozialen Sicherheit
 
 (1) Vorbehaltlich des Absatzes 2 sind die entsandten Mitarbeiter des
@@ -274,7 +254,6 @@ Mitarbeiter des Büros und ihre Familienangehörigen die Verpflichtungen
 für Arbeitgeber in Bezug auf die Vorschriften über soziale Sicherheit
 einzuhalten.
 
-
 ## Art 14 Befreiung von der Ausländermeldepflicht, der Aufenthaltsgenehmigung und der Arbeitserlaubnis
 
 Auf die entsandten Mitarbeiter des Büros und die mit ihnen im
@@ -283,13 +262,11 @@ Bestimmungen des deutschen Aufenthaltsrechts keine Anwendung. Für die
 Einreise dieser Personen kann ein Visum de Courtoisie verlangt werden.
 Sie sind zu der Beschäftigung in dem Büro berechtigt.
 
-
 ## Art 15 Ausweise
 
 Für die entsandten Mitarbeiter des Büros und die mit ihnen im
 gemeinsamen Haushalt lebenden Familienangehörigen werden
 Protokollausweise ausgestellt, die Angaben zu ihrem Status enthalten.
-
 
 ## Art 16 Beachtung der deutschen Gesetze und sonstigen Rechtsvorschriften
 
@@ -300,7 +277,6 @@ deutschen Gesetze und sonstigen Rechtsvorschriften zu beachten.
 (2) Die Geschäftsräume des Büros dürfen nicht in einer Weise benutzt
 werden, die mit der Wahrnehmung seiner Aufgaben unvereinbar ist.
 
-
 ## Art 17 Haftpflichtversicherung
 
 Die entsandten Mitarbeiter des Büros und die mit ihnen im gemeinsamen
@@ -308,7 +284,6 @@ Haushalt lebenden Familienangehörigen haben allen Verpflichtungen
 nachzukommen, die in den in Deutschland gültigen Gesetzen und
 Rechtsvorschriften in Bezug auf die Haftpflichtversicherung für die
 von ihnen benutzten Land-, Wasser- oder Luftfahrzeuge vorgesehen sind.
-
 
 ## Art 18 Private Erwerbstätigkeit
 
@@ -321,7 +296,6 @@ der Bundesrepublik Deutschland eine Erwerbstätigkeit aus, werden ihnen
 die in dieser Verordnung vorgesehenen Vorrechte und Immunitäten nicht
 gewährt.
 
-
 ## Art 19 Deutsche Staatsangehörige und Personen, die ständig in Deutschland ansässig sind
 
 Deutsche Staatsangehörige und Personen, die ständig in Deutschland
@@ -329,7 +303,6 @@ ansässig sind Familienangehörigen von entsandten Mitarbeitern des
 Büros, die deutsche Staatsangehörige oder im Bundesgebiet ständig
 ansässig sind, stehen Erleichterungen, Vorrechte und Immunitäten nicht
 zu.
-
 
 ## Art 20 Inkrafttreten und Außerkrafttreten der Verordnung
 
@@ -340,7 +313,6 @@ das Büro geschlossen wird.
 
 (3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind
 im Bundesgesetzblatt bekannt zu geben.
-
 
 ## Schlussformel
 

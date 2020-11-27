@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1990, 94
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -29,7 +27,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. 1980
 II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
-
 ## § 1
 
 Für die Gewährung von Vorrechten und Immunitäten an die Internationale
@@ -39,14 +36,12 @@ des Internationalen Kaffeerates vom 4. Juli 1989 zur Verlängerung des
 Internationalen Kaffe-Übereinkommens von 1983. Die Entschließung wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
 vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 1964 II S. 187) neu gefaßt wurde, auch im Land Berlin.
-
 
 ## § 3
 
@@ -64,7 +59,6 @@ die Bundesrepublik Deutschland außer Kraft tritt.
 
 (3) Der Tag des Inkrafttretens und des Außerkrafttretens ist im
 Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

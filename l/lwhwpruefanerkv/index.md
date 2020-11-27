@@ -20,8 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 V v. 11.8.2011 I 1723
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 30 Abs. 3 und 4 Nr. 1 des Berufsbildungsgesetzes vom
@@ -30,7 +28,6 @@ Verbraucherschutz, Ernährung und Landwirtschaft und das
 Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
-
 
 ## § 1 Anforderungen an die fachliche Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft
 
@@ -52,7 +49,6 @@ beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten nur, wenn sie
 
 und eine angemessene Zeit in ihrem Beruf praktisch tätig gewesen sind.
 
-
 ## § 2 Anerkennungen von Prüfungen
 
 (1) Als Prüfung gemäß § 1 Nr. 1 werden anerkannt:
@@ -73,7 +69,6 @@ Berufsbildungsausschusses die Gleichwertigkeit mit den Prüfungen gemäß
 Absatz 1 Nr. 1 oder 2 bescheinigt. § 30 Abs. 6 des
 Berufsbildungsgesetzes bleibt unberührt.
 
-
 ## § 3 Anforderungen an die Fachschulen und Bildungsgänge
 
 (1) Errichtung, Betrieb und Einrichtung der Schulen müssen den für sie
@@ -93,11 +88,9 @@ Bildungsgängen an Fachschulen im Fachbereich Agrarwirtschaft muss
 insgesamt mindestens 2.400 Unterrichtsstunden umfassen. Absatz 3 gilt
 entsprechend.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 2 Abs. 1 Nr. 1) Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte Meisterprüfungen
 
@@ -174,10 +167,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 \*) Einschließlich der Abschlüsse Meister/Meisterin der städtischen
     Hauswirtschaft und Meister/Meisterin der ländlichen Hauswirtschaft.
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 1 Nr. 2) Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte fachschulische Bildungsgänge
 

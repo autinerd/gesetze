@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2152
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 2 Satz 1 in Verbindung mit Satz 3 und 4 des
@@ -25,7 +24,6 @@ Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli
 31\. Oktober 2006 (BGBl. I S. 2407), verordnet das Bundesministerium
 für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem
 Bundesministerium der Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -46,10 +44,6 @@ Holtenau und Brunsbüttel.
     und Bauhafen Borkum in den Grenzen der Hafenordnung Borkum vom 7. März
     1991 (BAnz. S. 2713).
 
-
-
-
-
 ## § 2 Abgaben
 
 (1) Für die Benutzung des Hafens ist ein Hafengeld nach der Anlage zu
@@ -58,7 +52,6 @@ entrichten.
 (2) Wird der Hafen ausnahmsweise zum Umschlag oder zur Lagerung in
 Anspruch genommen, so bleibt die Entrichtung eines privatrechtlichen
 Entgeltes unberührt.
-
 
 ## § 3 Berechnungsgrundlagen
 
@@ -108,7 +101,6 @@ als Bemessungseinheit zugrunde zu legen:
 (2) Angefangene Bemessungseinheiten sind auf volle Einheiten
 aufzurunden.
 
-
 ## § 4 Abgabenerhebung und Fälligkeit
 
 Das Hafengeld wird durch das örtlich zuständige Wasser- und
@@ -119,7 +111,6 @@ Abgabenschuldner oder die Abgabenschuldnerin fällig, wenn nicht das
 Wasser- und Schifffahrtsamt einen späteren Zeitpunkt bestimmt. Das
 Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften der
 §§ 286, 288 und 247 des Bürgerlichen Gesetzbuches zu verzinsen.
-
 
 ## § 5 Befreiungen und Ermäßigungen
 
@@ -166,7 +157,6 @@ auf 25 Prozent.
 und Schifffahrtsdirektion im Einzelfall zulassen, wenn das öffentliche
 Interesse es erfordert.
 
-
 ## § 6 Pauschalen
 
 Auf Antrag kann, außer für Häfen am Nord-Ostsee-Kanal und für
@@ -178,18 +168,15 @@ Ersatzfahrzeug desjenigen, dem das erste Wasserfahrzeug gehört oder
 gehört hat, anzurechnen. In diesem Fall ist die Pauschale nach dem
 größeren Fahrzeug zu berechnen.
 
-
 ## § 7 Anmeldung
 
 Wer den Hafen benutzt, hat dies unverzüglich dem Wasser- und
 Schifffahrtsamt anzuzeigen; dabei sind die für die Abgabenberechnung
 oder -befreiung erforderlichen Unterlagen vorzulegen.
 
-
 ## § 8 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu den §§ 2 und 6) Hafengeld und Pauschalen
 

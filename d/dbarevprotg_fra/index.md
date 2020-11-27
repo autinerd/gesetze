@@ -19,8 +19,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1970, 717
 
-
-
 ## Art 1
 
 Dem in Bonn am 9. Juni 1969 unterzeichneten Revisionsprotokoll zu dem
@@ -32,7 +30,6 @@ sowie der Gewerbesteuern und der Grundsteuern (Bundesgesetzbl. 1961 II
 S. 397) wird zugestimmt. Das Revisionsprotokoll wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 Der Bundesminister der Finanzen wird ermächtigt, das Abkommen vom 21.
@@ -43,7 +40,6 @@ Einkommen und vom Vermögen sowie der Gewerbesteuern und der
 Grundsteuern in der Fassung des Revisionsprotokolls vom 9. Juni 1969
 nach Abstimmung mit dem Ministere de l'Economie et des Finances der
 Französischen Republik neu bekanntzumachen.
-
 
 ## Art 3
 
@@ -75,7 +71,6 @@ Unterabs. bb) des Abkommens in der Neufassung und des Absatzes 1
 dieses Artikels stattfindet, sondern der Besteuerung der Bruttobetrag
 der Dividende ohne die Steuergutschrift zugrunde gelegt wird.
 
-
 ## Art 4
 
 (1) Soweit das Revisionsprotokoll auf Grund seines Artikels 7 Abs. 2
@@ -94,12 +89,10 @@ Besteuerung insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor Inkrafttreten des Revisionsprotokolls bestand,
 wird der Steuermehrbetrag nicht erhoben.
 
-
 ## Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 6
 

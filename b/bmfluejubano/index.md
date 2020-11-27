@@ -17,8 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1963, Nr 105
 
-
-
 ## I.
 
 Auf Grund des § 8 Abs. 1 der Verordnung über die Gewährung von
@@ -40,12 +38,10 @@ Jubiläumszuwendungen an Beamte von der Besoldungsgruppe A 16 der
 Bundesbesoldungsordnung abwärts zu gewähren oder über ihre Versagung
 zu entscheiden.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage der Verkündung im Bundesanzeiger in
 Kraft.
-
 
 ## Schlußformel
 

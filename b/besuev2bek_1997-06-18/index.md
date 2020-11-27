@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1411
 
-
-
 ## (XXXX)
 
 Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der
@@ -35,7 +33,6 @@ ergebenden Dienst- und Anwärterbezüge für die Zeit ab 1. September
 1997 bekanntgemacht.
 
 Der Bundesminister des Innern
-
 
 ## Anlage IA (Anlage IV des BBesG) Gültig ab 1. Juli 1997
 
@@ -972,9 +969,6 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1412 - 1414
     *
     *
 
-
-
-
 ## Anlage IB (Anlage V des BBesG) Gültig ab 1. Juli 1997
 
    (Fundstelle des Originaltextes: BGBl. I 1997, 1415)
@@ -1025,10 +1019,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   - in den Besoldungsgruppen A 9 bis A 12:
 
     *   143,17 DM
-
-
-
-
 
 ## Anlage IC (Anlage IX des BBesG) Gültig ab 1. Juli 1997
 
@@ -2273,13 +2263,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
             Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S.
             1345).
 
-
-
-
-
-
-
-
 ## Anlage IIA (Anlage IV des BBesG) Gültig ab 1. September 1997
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1419 - 1421)
@@ -3261,10 +3244,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
     *   8.061,09
 
-
-
-
-
 ## Anlage IIB (Anlage V des BBesG) Gültig ab 1. September 1997
 
 (Fundstelle des Originaltextes: BGBl. I 1997, 1422)
@@ -3315,10 +3294,6 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 *    *   - in den Besoldungsgruppen A 9 bis A 12:
 
     *   144,87 DM
-
-
-
-
 
 ## Anlage IIC (Anlage VIII des BBesG) Gültig ab 1. September 1997
 
@@ -3415,10 +3390,6 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1422
     *   437
 
     *   97
-
-
-
-
 
 ## Anlage IID (Anlage IX des BBesG) Gültig ab 1. September 1997
 

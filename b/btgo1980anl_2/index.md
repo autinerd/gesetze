@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 1237, 1256
 
-
-
 ## (XXXX) Registrierung von Verbänden und deren Vertreter
 
 (1) Der Präsident des Bundestages führt eine öffentliche Liste, in der

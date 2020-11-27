@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 66 G v. 8.12.2010 I 1864
 
-
 ## Inhalt
 
 
@@ -1541,21 +1540,11 @@ Zuletzt geändert durch
 
     *   § 237
 
-
-
-
-
 ## Erstes Buch - Herstellung und Reinigung des Branntweins
-
-
 
 ### 1. Abschnitt - Herstellung des Branntweins
 
-
-
 #### 1. - Einteilung der Brennereien
-
-
 
 ##### § 1
 
@@ -1567,10 +1556,7 @@ den Monopolbrennereien gehören.
 betrieben werden, finden die Bestimmungen der Brennereiordnung nur
 insoweit Anwendung, als dies vom Bundesmonopolamt angeordnet wird.
 
-
 #### 2. - Rohstoffe der Branntweinerzeugung in Eigenbrennereien
-
-
 
 ##### § 2
 
@@ -1638,10 +1624,7 @@ Erzeugnisse, die bei ihrer Verarbeitung oder bei der Verarbeitung
 verzuckerter Stärke gewonnen worden sind, Abfälle und Rückstände mit
 Ausnahme der Rüben- und Zellstoffe.
 
-
 #### 3. - Landwirtschaftliche Brennereien
-
-
 
 ##### § 3
 
@@ -1667,7 +1650,6 @@ Zukühlwasser auch nichtmehlige Rückstände der Bierbereitung
 (Faßgeläger, Glattwasser, Kühltrub usw.) in angemessenen Mengen
 verwendet werden.
 
-
 ##### § 4
 
 Das Hauptzollamt kann aus besonderen Gründen, zum Beispiel wegen
@@ -1677,7 +1659,6 @@ genehmigen, dass Rückstände oder Dünger veräußert oder in anderer
 Weise, als in § 25 des Gesetzes vorgeschrieben worden ist, verwendet
 werden, ohne dass die Brennerei die landwirtschaftliche Eigenschaft
 verliert.
-
 
 ##### § 5
 
@@ -1703,10 +1684,7 @@ Brennereiklasse selbstgewonnene Obststoffe verarbeiten.
 (3) Das Hauptzollamt kann von der Beschränkung des Absatzes 1 Nr. 1
 Ausnahmen zulassen.
 
-
 #### 4. - Obstbrennereien
-
-
 
 ##### § 6
 
@@ -1715,10 +1693,7 @@ oder dergleichen zugesetzt worden ist (z.B. gezuckertes Obst,
 überzuckerter Wein), dürfen in Obstbrennereien nicht verarbeitet
 werden.
 
-
 #### 5. - Gewerbliche Brennereien
-
-
 
 ##### § 7
 
@@ -1763,10 +1738,7 @@ Betriebsjahrs ab, in dem sie die Bedingungen nicht mehr erfüllen oder
 den Verzicht erklären, zu den gewerblichen Brennereien zu rechnen. Auf
 das Brennrecht bleibt der Wechsel der Brennereiklasse ohne Einfluß.
 
-
 #### 6. - Kleinbrennereien
-
-
 
 ##### § 8
 
@@ -1777,10 +1749,7 @@ Eigenschaft als Kleinbrennerei.
 (2) Eine Brennerei, die zur Abfindung zugelassen ist, wird als
 Kleinbrennerei behandelt.
 
-
 #### 7. - Stoffbesitzer
-
-
 
 ##### § 9
 
@@ -1861,13 +1830,7 @@ durch Stoffbesitzer nach § 36 Abs. 1 des Gesetzes zulässig ist, sind:
 9.  der Oberfinanzbezirk
     Würzburg.
 
-
-
-
-
 #### 8. - Bestimmung und Änderung der Brennereiklasse
-
-
 
 ##### § 10
 
@@ -1893,10 +1856,7 @@ ihr Besitzer nicht selbst gewonnen hat.
 Betriebsjahr die Bedingungen ihrer Brennereiklasse nicht erfüllen,
 gelten vom Beginn dieses Betriebsjahrs ab als gewerbliche Brennereien.
 
-
 #### 9. - Stammblatt
-
-
 
 ##### § 11
 
@@ -1911,22 +1871,13 @@ nach einzelnen Vorschriften des Gesetzes von Bedeutung sind. Bei
 Änderungen hat die Zollstelle die Berichtigung des Stammblatts zu
 veranlassen.
 
-
 ### 2. Abschnitt - Reinigung des Branntweins
-
-
 
 #### 1. - Zulässigkeit
 
-
-
 ##### (XXXX) §§ 12 bis 14 (weggefallen)
 
-
-
 #### 2. - Ausnahmen
-
-
 
 ##### § 15
 
@@ -1939,12 +1890,10 @@ verwendeten Rohstoffe erkennen lässt.
 Berücksichtigung des Feinbrandes besonders festgesetzt worden ist,
 muss das gesamte Erzeugnis wiederholt abgetrieben werden.
 
-
 ##### § 16
 
 In Verschlussbrennereien ist zum Feinbrand ein besonderes Brenngerät
 (Feinbrenngerät) zu benutzen.
-
 
 ##### § 17
 
@@ -1962,14 +1911,9 @@ beschränken.
 handelt, wer vorsätzlich oder leichtfertig der Anmeldepflicht nach
 Absatz 1 Satz 1 zuwiderhandelt.
 
-
 ## Zweites Buch - Brennrecht
 
-
-
 ### 1. - Allgemeines
-
-
 
 #### § 18
 
@@ -1981,74 +1925,39 @@ Betriebsjahr 1922/23 festgesetzt wurde.
 das Jahresbrennrecht. Es ist für die Festsetzung des
 Branntweinübernahmegeldes maßgebend.
 
-
 ### 2. - Veranlagung von anderen Brennereien als Kartoffelgemeinschaftsbrennereien zum Brennrecht
-
-
 
 #### a) - Antrag auf Veranlagung zum Brennrecht
 
-
-
 ##### (XXXX) §§ 19 bis 32 (weggefallen)
-
-
 
 #### b) - Bemessungsmaßstäbe für die Festsetzung von Grundziffer und Brennrecht
 
-
-
 #### c) - Veranlagungsausschüsse
-
-
 
 #### d) - Unterausschüsse
 
-
-
 #### e) - Beschlußfähigkeit der Veranlagungsausschüsse
-
-
 
 #### f) - Aufgaben des Vorsitzenden
 
-
-
 #### g) - Sachverständige
-
-
 
 #### h) - Vergleichsbrennereien
 
-
-
 #### i) - Entscheidungen der Oberfinanzdirektion
-
-
 
 ##### (XXXX) §§ 33 bis 37 (weggefallen)
 
-
-
 #### k) - Zuweisung eines vorläufigen Brennrechts
-
-
 
 ##### (XXXX) §§ 38 und 39 (weggefallen)
 
-
-
 ### 3. - Veranlagung von Kartoffelgemeinschaftsbrennereien zum Brennrecht
-
-
 
 #### (XXXX) §§ 40 und 41 (weggefallen)
 
-
-
 ### 4. - Obstgemeinschaftsbrennereien
-
-
 
 #### § 42
 
@@ -2078,14 +1987,9 @@ bestimmten Ort aufzubewahren.
 Obstgemeinschaftsbrennerei herzustellen, wieder zuzuerkennen,
 entscheidet das Hauptzollamt.
 
-
 ### 5. - Verlust des Brennrechts
 
-
-
 #### a) - Verlegung von Brennereien auf ein anderes Grundstück
-
-
 
 ##### § 43
 
@@ -2098,28 +2002,19 @@ neuen Brennerei fortleben wird. Eine solche Fortsetzung des früheren
 Betriebs ist im allgemeinen dann nicht mehr anzunehmen, wenn es sich
 um eine Verlegung auf weite Entfernung handelt.
 
-
 #### b) - Malz aus Korn als Hilfsstoff
-
-
 
 ##### § 44 (weggefallen)
 
 -
 
-
 #### c) - Übergang zur Verarbeitung von Rübenstoffen
-
-
 
 ##### § 45
 
 (weggefallen)
 
-
 ### 6. - Jahresbrennrecht
-
-
 
 #### § 46
 
@@ -2139,23 +2034,15 @@ Weingeist hätten.
 
 (3) (weggefallen)
 
-
 #### § 47
 
 (weggefallen)
 
-
 ## Drittes Buch - Überwachung der Herstellung und Reinigung von Branntwein
-
-
 
 ### 1. Abschnitt - Errichtung, Anmeldung und Erlöschen der Brennereien
 
-
-
 #### 1. - Errichtung von Brennereien
-
-
 
 ##### § 48
 
@@ -2182,7 +2069,6 @@ Brennereigebäude oder die Brennereiräume nicht hergerichtet und die
 Betriebseinrichtung, insbesondere die Brenngeräte, weder angeschafft
 noch bestellt werden.
 
-
 ##### § 49
 
 Auf einem Grundstück darf nicht mehr als eine Brennerei betrieben
@@ -2195,10 +2081,7 @@ Hefesatzbereitung, die Vergärung der Rohstoffe (soweit
 produktionsbedingt erforderlich), die Destillation, die Reinigung und
 die Branntweinlagerung besitzen.
 
-
 #### 2. - Erstmalige Betriebsanmeldung
-
-
 
 ##### § 50
 
@@ -2226,10 +2109,6 @@ Ausfertigung einzureichen
     lassen. Auf Verlangen sind für die einzelnen Teile besondere Ansichts-
     und Schnittzeichnungen beizufügen.
 
-
-
-
-
 ##### § 51
 
 Im Grund- und Aufriß sind die Stellung der angemeldeten Teile der
@@ -2237,7 +2116,6 @@ Betriebseinrichtung und der Gang der Rohre, welche Wasser,
 Wasserdampf, Luft (Gebläseluft, Druckluft), Maische, weingeisthaltige
 Dämpfe, Branntwein, Methylalkohol, Fuselöl, Wasserentziehungsmittel,
 Schlempe oder Lutterrückstände führen, genau einzuzeichnen.
-
 
 ##### § 52
 
@@ -2254,14 +2132,9 @@ gelb, für Branntwein rot (karmin), für Methylalkohol grau und grün
 und blau (abwechselnd), für Schlempe schwarz und weiß (abwechselnd),
 für Lutterrückstände schwarz.
 
-
 ##### (XXXX) §§ 53 bis 55 (weggefallen)
 
-
-
 #### 3. - Brennereibelegheft
-
-
 
 ##### § 56
 
@@ -2270,15 +2143,11 @@ Schriftstücke und Unterlagen, die amtlich an ihn gelangen, nach
 Weisung des Hauptzollamts zu einem Belegheft zu vereinigen, das nach
 Anordnung des Oberbeamten des Aufsichtsdienstes aufzubewahren ist.
 
-
 ##### § 57
 
 (weggefallen)
 
-
 #### 4. - Vermessung von Geräten und Gefäßen
-
-
 
 ##### § 58
 
@@ -2292,32 +2161,25 @@ haben.
 einzelnen Fällen eine frühere Inhaltsermittlung anerkennen, wenn gegen
 ihre Richtigkeit keine Bedenken bestehen.
 
-
 ##### § 59
 
 (1) Andere Gefäße und Geräte können naß oder trocken vermessen werden.
 
 (2) Der Brennereibesitzer ist zu den Vermessungen zuzuziehen.
 
-
 ##### § 60
 
 (weggefallen)
-
 
 ##### § 61
 
 (weggefallen)
 
-
 ##### § 62
 
 (weggefallen)
 
-
 #### 5. - Bezeichnung der Geräte und Gefäße
-
-
 
 ##### § 63
 
@@ -2338,10 +2200,7 @@ Aufsichtsdienstes. Dieser kann auch vorschreiben, daß bei Geräten und
 Gefäßen, die durch mehrere Stockwerke gehen, die Bezeichnung in jedem
 Stockwerk angebracht wird.
 
-
 #### 6. - Aufbewahrung der Geräte und Gefäße
-
-
 
 ##### § 64
 
@@ -2363,10 +2222,7 @@ dienen, dürfen in den Brennereiräumen aufbewahrt werden.
 dürfen sich in den Brennereiräumen nicht befinden. Der
 Aufsichtsoberbeamte kann Ausnahmen zulassen.
 
-
 #### 7. - Änderungen
-
-
 
 ##### § 65
 
@@ -2378,7 +2234,6 @@ Eichscheine - und der Vermessungsverhandlungen schriftlich
 anzuerkennen oder neue Unterlagen einzureichen oder neue Vermessungen
 zu veranlassen. Das Hauptzollamt kann die Vorlage weiterer Unterlagen
 verlangen.
-
 
 ##### § 66
 
@@ -2413,11 +2268,9 @@ hinzugekommenen Teile der Betriebseinrichtung dürfen nicht in Gebrauch
 genommen werden, bevor die Zollstelle auf der Zweitausfertigung der
 Anzeige bescheinigt hat, daß ihr die Änderung angezeigt worden ist.
 
-
 ##### § 67
 
 (weggefallen)
-
 
 ##### § 68
 
@@ -2426,17 +2279,13 @@ unübersichtlich oder sonst unbrauchbar geworden, so hat der
 Brennereibesitzer auf Verlangen des Oberbeamten des Aufsichtsdienstes
 neue Ausfertigungen einzureichen.
 
-
 ##### § 69
 
 Erlischt eine Brennerei (§ 70), so sind die vorhandenen amtlichen
 Verschlüsse zu entfernen; im übrigen ist nach den §§ 226 bis 233 zu
 verfahren.
 
-
 #### 8. - Erlöschen der Brennereien
-
-
 
 ##### § 70
 
@@ -2469,14 +2318,9 @@ aufnimmt.
 (3) Die Brennerei erlischt nicht in den Fällen des § 64 Abs. 1 Satz 2
 und des § 175.
 
-
 ### 2. Abschnitt - Sicherungsmaßnahmen in den Verschlußbrennereien
 
-
-
 #### 1. - Allgemeines
-
-
 
 ##### § 71
 
@@ -2485,7 +2329,6 @@ weingeisthaltigen Dämpfe innerhalb der Branntweingewinnungs- und
 Branntweinreinigungsanlagen zu Branntwein verdichtet werden und der
 gesamte Branntwein in die zu seiner Erfassung bestimmten Vorrichtungen
 fließt.
-
 
 ##### § 72
 
@@ -2512,7 +2355,6 @@ Stelle von Hauptsammelgefäßen die Verwendung von Hauptmeßuhren (§ 106)
 genehmigen. Es kann auch anordnen, daß außer Hauptsammelgefäßen oder
 Hauptmeßuhren zur besseren Überwachung der Brennereien noch besondere
 Meßuhren (Nebenmeßuhren; § 107) aufgestellt werden.
-
 
 ##### § 73
 
@@ -2549,7 +2391,6 @@ Prüfungen verbraucht werden, werden auf Antrag des Brennereibesitzers
 entweder versteuert oder unter amtlicher Aufsicht dem Brennereibetrieb
 wieder zugeführt oder vernichtet.
 
-
 ##### § 74
 
 (1) Die Branntweingewinnungs- und Branntweinreinigungsanlagen bestehen
@@ -2576,14 +2417,9 @@ Dephlegmatoren), Kühler, Vorlagen, Pumpen, Fuselölabscheider,
 Branntweinmischgeräte, Probenmeßvorrichtungen, Meßuhren,
 Dampfdruckregler.
 
-
 #### 2. - Anforderungen, die allgemein an Geräte, Gefäße und Rohre zu stellen sind
 
-
-
 ##### a) - Beschaffenheit
-
-
 
 ###### § 75
 
@@ -2612,7 +2448,6 @@ Draht- oder Hartglasschutzhüllen oder dergleichen verlangen.
 Standgläser dürfen oben nicht offen sein. Für jeden Glasteil hat der
 Brennereibesitzer ein Ersatzstück bereitzuhalten.
 
-
 ###### § 76
 
 (1) Alle Gefäße (§ 74 Abs. 3) und von den Geräten (§ 74 Abs. 4) die
@@ -2627,16 +2462,12 @@ oder Schaugläsern haben.
 
 (4) Alle Gefäße müssen sich restlos entleeren lassen.
 
-
 ###### § 77
 
 Alle Rohre (§ 74 Abs. 2) müssen eine ihrem Zweck entsprechende lichte
 Weite haben.
 
-
 ##### b) - Aufstellung
-
-
 
 ###### § 78
 
@@ -2660,10 +2491,7 @@ werden kann.
 
 (4) Lange Branntweinrohre sind durch Rohrhalter zu befestigen.
 
-
 ##### c) - Verbindung
-
-
 
 ###### § 79
 
@@ -2692,14 +2520,9 @@ besorgen ist, und daß bei einer durch Anziehen von Schrauben
 hergestellten Abdichtung die Metallteile auf die Glasteile keinen
 unmittelbaren Druck ausüben.
 
-
 #### 3. - Verschlußmaßnahmen
 
-
-
 ##### a) - Allgemeines
-
-
 
 ###### § 80 Allgemeines
 
@@ -2721,10 +2544,7 @@ hindurchgeführt, die sonst keiner amtlichen Sicherung bedürfen, müssen
 diese Geräte und Gefäße von allen Seiten vollständig geschlossen sein
 und entsprechend Absatz 2 amtlich gesichert werden.
 
-
 ##### b) - Einfache Verschlüsse
-
-
 
 ###### § 81 Plombenverschlüsse
 
@@ -2737,10 +2557,7 @@ angebracht sein, die ein zweckentsprechendes und leichtes Anlegen der
 Verschlüsse zulassen. Ösen müssen angeschweißt oder hart angelötet
 sein.
 
-
 ##### c) - Doppelverschlüsse
-
-
 
 ###### § 82 Kappenverschlüsse
 
@@ -2764,7 +2581,6 @@ sein. Die Innenseiten solcher Kappen sind mit einer hellen, deckenden
 Farbe zu streichen. Für die Außenseiten gilt § 75 Abs. 2 uns 3.
 Betriebsnotwendige Ausschnitte in Kappen müssen durch eine auf der
 Innenseite fest angebrachte Glasscheibe geschützt sein.
-
 
 ###### § 83 Raumverschlüsse
 
@@ -2802,7 +2618,6 @@ haben. Eine Maschenweite bzw. Lochgröße von 225 Quadratmillimeter soll
 nicht überschritten werden, und die Drahtdicke bzw. der Lochabstand
 soll wenigstens 2 Millimeter betragen.
 
-
 ###### § 83a Übergangsregelung
 
 Ein nach den § 80 Abs. 1 und § 82 in der bis zum 30. September 2000
@@ -2810,14 +2625,9 @@ geltenden Fassung angelegter Doppelverschluss bleibt bestehen. Das
 Hauptzollamt kann ihn bei Umbauten der Brennerei oder anlässlich einer
 Verschlussprüfung (§ 135) aufheben.
 
-
 #### 4. - Anforderungen, die an einzelne Geräte, Gefäße und Rohre hinsichtlich ihrer Beschaffenheit, Aufstellung, Verbindung oder Verschließung noch besonders zu stellen sind, und Abweichungen von den allgemeinen Anforderungen
 
-
-
 ##### a) - Brenngeräte
-
-
 
 ###### § 84
 
@@ -2877,10 +2687,7 @@ Lutterrückständerohr in die Grube münden.
 Vorrichtungen, die dem Zusatz von Geschmackstoffen und
 Reinigungsmitteln dienen, gestattet.
 
-
 ##### b) - Vorlagen
-
-
 
 ###### § 85
 
@@ -2894,10 +2701,7 @@ Glasglocke lüften lassen.
 müssen mit einer Filtervorrichtung, für die ein Ersatzstück vorhanden
 sein muß, versehen sein.
 
-
 ##### c) - Pumpen
-
-
 
 ###### § 86
 
@@ -2911,10 +2715,7 @@ durch welche die Packung in die Büchse gedrückt wird, zwar ohne
 Mitwirkung von  Zollbeamten nachgezogen, aber nicht gelockert werden
 kann.
 
-
 ##### d) - Branntweinmischgeräte
-
-
 
 ###### § 87
 
@@ -2925,10 +2726,7 @@ Brennereibesitzer die Einschaltung von Branntweinmischgeräten zwischen
 Vorlage und Meßuhr fordern. Die Einrichtung der Mischgeräte ordnet in
 jedem Fall das Bundesmonopolamt an.
 
-
 ##### e) - Absperrvorrichtungen
-
-
 
 ###### § 88
 
@@ -2945,10 +2743,7 @@ lichten Weite der Rohre (siehe § 77) entsprechen.
 (3) Hähne müssen so eingerichtet sein, daß sich ihre Stellung sofort
 deutlich erkennen läßt.
 
-
 ##### f) - Stauungsanzeiger
-
-
 
 ###### § 89
 
@@ -2965,10 +2760,7 @@ vereinfachter Form (Stauungsgläschen) müssen sich an den Luftröhrchen
 befinden, die zur Lüftung von Vorlagen dienen und über die Branntwein
 aus den Vorlagen austreten kann.
 
-
 ##### g) - Klärgefäße
-
-
 
 ###### § 90
 
@@ -2978,10 +2770,7 @@ kann das Bundesmonopolamt zur mechanischen Reinigung des Branntweins
 fordern, daß Klärgefäße in die Branntweinleitung eingeschaltet werden.
 Die Gefäße sind nach Anordnung des Bundesmonopolamts einzurichten.
 
-
 ##### h) - Tagessammelgefäße
-
-
 
 ###### § 91
 
@@ -2991,10 +2780,7 @@ Tagessammelgefäße in das Branntweinrohr eingeschaltet werden. Die
 Tagessammelgefäße müssen die Branntweinmenge aufnehmen können, die an
 einem Tag erzeugt werden kann.
 
-
 ##### i) - Hilfssammelgefäße
-
-
 
 ###### § 92
 
@@ -3004,10 +2790,7 @@ Branntweinrohr eingeschaltet werden. Die Hilfssammelgefäße müssen die
 Branntweinmenge aufnehmen können, die an einem Tag erzeugt werden
 kann.
 
-
 ##### k) - Zwischensammelgefäße
-
-
 
 ###### § 93
 
@@ -3032,10 +2815,7 @@ von Feinbranntwein abgenommen, so gelten die Zwischensammelgefäße für
 Rohbranntwein als amtliche Sammelgefäße (§ 72 Abs. 2); ihre Größe
 richtet sich nach § 94 Abs. 2.
 
-
 ##### l) - Hauptsammelgefäße
-
-
 
 ###### § 94
 
@@ -3054,10 +2834,7 @@ wenn dadurch nicht die Abfertigungsbeamten übermäßig in Anspruch
 genommen werden und bei Branntwein, der an die Bundesmonopolverwaltung
 abgeliefert wird, der Frachtraum noch lohnend ausgenutzt werden kann.
 
-
 ##### m) - Sauermaischerohre
-
-
 
 ###### § 95
 
@@ -3076,10 +2853,7 @@ gesichert sein.
 Maische weingeisthaltige Dämpfe entwickeln, ist eine der Maßnahmen des
 Absatzes 1 anzuwenden.
 
-
 ##### n) - Branntweinrohre
-
-
 
 ###### § 96
 
@@ -3089,10 +2863,7 @@ Branntwein auf das Feinbrenngerät verbracht wird, muß so eingerichtet
 oder ausgerüstet sein, daß durch dieses Rohr weingeisthaltige Dämpfe
 aus dem Feinbrenngerät nicht entweichen können.
 
-
 ##### o) - Wasser- und Dampfrohre
-
-
 
 ###### § 97
 
@@ -3112,10 +2883,7 @@ führenden Rohre einschließlich der daran befindlichen Armaturen durch
 einfachen Verschluß so zu sichern, daß nicht mehr zu besorgen ist, daß
 die Wirksamkeit der Vorrichtungen beeinflußt wird.
 
-
 ##### p) - Lüftungsvorrichtungen
-
-
 
 ###### § 98
 
@@ -3151,10 +2919,7 @@ Rohr, das mit dem zum Kühler führenden Geistrohr zu verbinden ist,
 derart einzubauen, daß die heraustretenden Dämpfe nach dem Kühler hin
 entweichen.
 
-
 ##### q) - Überlaufvorrichtungen
-
-
 
 ###### § 99
 
@@ -3169,10 +2934,7 @@ Unter Umständen kann überlaufender Branntwein auch in besondere Gefäße
 geführt werden als der niedrigste der oberen Ränder der Luftrohre, die
 mit ihnen verbunden sind.
 
-
 ##### r) - Übersteigrohre
-
-
 
 ###### § 100
 
@@ -3185,20 +2947,14 @@ als der niedrigste der oberen Ränder der Luftrohre, die mit ihnen
 verbunden sind. In besonderen Fällen kann das Übersteigrohr in ein
 Überlaufgefäß (§ 99) geführt werden.
 
-
 #### 5. - Meßuhren
 
-
-
 ##### a) - Amtliche Meßuhren
-
-
 
 ###### § 101
 
 Amtliche Meßuhren sind die von der Bundesmonopolverwaltung
 zugelassenen Weingeistzähler, Weingeistmesser und Probenehmer.
-
 
 ###### § 102
 
@@ -3216,7 +2972,6 @@ welche Art von Meßuhr zu verwenden ist und welche besonderen
 Einrichtungen nach der Eigenart des Betriebs etwa anzubringen sind.
 Dasselbe hat zu geschehen, wenn die Betriebsverhältnisse einer
 Brennerei, nach denen eine Meßuhr bestimmt wurde, sich ändern.
-
 
 ###### § 103
 
@@ -3247,13 +3002,11 @@ Es kann auch, wenn die amtlichen Verschlüsse unverletzt waren,
 zulassen, daß solche Meßuhren vor erneuter Prüfung in Betrieb genommen
 werden.
 
-
 ###### § 104
 
 Der Brennereibesitzer hat die Meßuhr auf seine Kosten in
 ordnungsmäßigem Zustand zu erhalten. Er hat vom Bundesmonopolamt näher
 zu bezeichnende Ersatzteile anzuschaffen und bereitzuhalten.
-
 
 ###### § 105
 
@@ -3263,20 +3016,14 @@ Ersatzteile sind dem Brennereibesitzer unter amtlichem Verschluß zu
 Aufsichtsoberbeamten anzuzeigen und den Verschluß unverletzt zu
 erhalten.
 
-
 ###### 1. - Hauptmeßuhren
-
-
 
 ###### § 106
 
 Hauptmeßuhren sind die amtlichen Meßuhren, die zur Erfassung des
 Branntweins dienen (§§ 101 bis 105).
 
-
 ###### 2. - Nebenmeßuhren
-
-
 
 ###### § 107
 
@@ -3290,10 +3037,7 @@ Weingeistmengen zu vergleichen.
 (3) Im Einverständnis mit dem Bundesmonopolamt können in besonderen
 Fällen Hauptmeßuhren zugleich als Nebenmeßuhren benutzt werden.
 
-
 ##### b) - Privatmeßuhren
-
-
 
 ###### § 108
 
@@ -3302,10 +3046,7 @@ Privatmeßuhren mit Genehmigung des Hauptzollamts eingeschaltet werden.
 Sie müssen einen ungehinderten Durchfluß des Branntweins gewährleisten
 und dürfen keine Absonderung von Proben zulassen.
 
-
 #### 6. - Ausnahmen
-
-
 
 ##### § 109
 
@@ -3321,10 +3062,6 @@ b)  im Einvernehmen mit dem Bundesmonopolamt in einzelnen Fällen
     teilweise nicht eingehalten werden. Hierbei können besondere
     Aufsichtsmaßnahmen angeordnet werden.
 
-
-
-
-
 ##### § 110
 
 Wenn Branntweingewinnungs- oder Branntweinreinigungsanlagen oder Teile
@@ -3334,41 +3071,27 @@ Ansprüchen der §§ 71 bis 108 zu entsprechen. In besonderen Fällen kann
 das Hauptzollamt im Einvernehmen mit dem Bundesmonopolamt auch davon
 Ausnahmen zulassen.
 
-
 #### 7. - Erstattung von Kosten für Sicherungsmaßnahmen
 
-
-
 ##### a) - Allgemeines
-
-
 
 ###### § 111
 
 (weggefallen)
 
-
 ##### b) - Verfahren
-
-
 
 ###### § 112
 
 (weggefallen)
 
-
 ###### § 113
 
 (weggefallen)
 
-
 ### 3. Abschnitt - Abfindung der Brennereien
 
-
-
 #### 1. - Begriff und Arten der Abfindung
-
-
 
 ##### § 114
 
@@ -3395,7 +3118,6 @@ erzeugte Branntwein ohne amtliche Abfertigung sofort in den freien
 Verkehr; bei der Abfindung auf die Mindestmenge unterliegt der
 erzeugte Branntwein der amtlichen Überwachung nach § 132 Abs. 2.
 
-
 ##### § 115
 
 (1) Auf einen bestimmten Abgabenbetrag (§ 114 Abs. 1 unter a) sind,
@@ -3414,13 +3136,7 @@ b)  vom Hauptzollamt in Fällen des § 118,
 
 c)  vom Aufsichtsoberbeamten in Fällen des § 153 Abs. 1.
 
-
-
-
-
 #### 2. - Zulässigkeit der Abfindung
-
-
 
 ##### § 116
 
@@ -3464,10 +3180,7 @@ Erzeugungshöchstmenge angerechnet.
 Antrag genehmigen, daß Stoffbesitzer in der Brennerei unter eigener
 Anmeldung des Betriebs unter Abfindung brennen.
 
-
 #### 3. - Verlust der Abfindung
-
-
 
 ##### § 116a
 
@@ -3538,10 +3251,7 @@ des Absatzes 1 Nrn. 1 bis 8 mit dem Eintritt der dort genannten
 Tatsachen, im Fall des Absatzes 1 Nr. 9 mit dem Zeitpunkt verloren, in
 dem die Steuerstraftat begangen worden ist.
 
-
 #### 3 a. - Dauer des Verlustes und Wiederzulassung zur Abfindung
-
-
 
 ##### § 116b
 
@@ -3578,10 +3288,7 @@ der Bundesmonopolverwaltung für Branntwein auf überzahltes
 Übernahmegeld getilgt sind, soweit der Brennereibesitzer sie schuldet
 oder für sie haftet.
 
-
 #### 4. - Ausschluß von der Abfindung
-
-
 
 ##### § 117
 
@@ -3599,10 +3306,7 @@ Ausschluß auf Antrag nach einer angemessenen Wartefrist oder unter
 entsprechender Anwendung des § 116b Abs. 2 Satz 2 aufheben. § 116b
 Abs. 3 ist entsprechend anzuwenden.
 
-
 #### 5. - Versagung und Entziehung der Abfindung
-
-
 
 ##### § 117a
 
@@ -3616,10 +3320,7 @@ Abfindung zu brennen, auf Zeit oder auf Dauer entziehen, wenn diese zu
 gewerblichen Zwecken Abfindungsbranntwein in andere Mitgliedstaaten
 der Europäischen Union verbringen oder verbringen lassen.
 
-
 #### 6. - Abfindung bei Verschlußbrennereien
-
-
 
 ##### § 118
 
@@ -3630,10 +3331,7 @@ amtlichen Erfassung des Branntweins erforderlich sind, nicht
 rechtzeitig aufgestellt werden können und ein Aufschub des
 Brennereibetriebs mit erheblichen Nachteilen verbunden wäre.
 
-
 #### 7. - Grenzzahl der Obstabfindungsbrennereien
-
-
 
 ##### § 119
 
@@ -3649,14 +3347,9 @@ wird. Das Hauptzollamt meldet dem Hauptzollamt Stuttgart jede
 Veränderung im Bestand der zur Abfindung zugelassenen Obstbrennereien,
 die eine Eintragung in der Grenzzahlnachweisung erforderlich macht.
 
-
 #### 8. - Ausbeutesätze
 
-
-
 ##### a) - Allgemeines
-
-
 
 ###### § 120
 
@@ -3671,10 +3364,7 @@ Litern festzusetzen; dabei sind Bruchteile eines zehntel Liters, wenn
 sie ein halbes Zehntel oder mehr betragen, für ein volles zehntel
 Liter zu rechnen, geringere Bruchteile aber wegzulassen.
 
-
 ##### b) - Regelmäßige Ausbeutesätze
-
-
 
 ###### § 121
 
@@ -3696,7 +3386,6 @@ Betracht. Übersteigt der Malzzusatz diese Grenzen, so ist die
 Mehrmenge bei Berechnung der Ausbeute als geschrotetes Getreide
 anzusetzen; Bruchteile eines Kilogramms werden hierbei nicht
 berücksichtigt.
-
 
 ###### § 122
 
@@ -3848,20 +3537,13 @@ Hektoliter Material folgende regelmäßige Ausbeuten:
 
     *   2,0 l A.
 
-
-
-
-
 ###### § 123
 
 Die regelmäßigen Ausbeutesätze (§§ 121, 122) sollen jeweils zum Ende
 des Abschnitts (§ 41 des Gesetzes) überprüft werden. Sie werden wegen
 Vornahme des Feinbrandes nicht ermäßigt.
 
-
 ##### c) - Besondere Ausbeutesätze
-
-
 
 ###### § 124
 
@@ -3886,7 +3568,6 @@ regelmäßige oder besonders festgesetzte Ausbeutesatz die wirkliche
 Ausbeute übersteigt, oder wenn bei einer von Amts wegen vorgenommenen
 Ausbeuteermittlung die wirkliche Ausbeute geringer ist als der
 regelmäßige oder besonders festgesetzte Ausbeutesatz.
-
 
 ###### § 125
 
@@ -3917,11 +3598,9 @@ Liter gekürzt werden. Der Kürzungsbetrag ist durch Probebrennen (§
 
 (5)
 
-
 ###### § 125a
 
 (weggefallen)
-
 
 ###### § 126
 
@@ -3934,7 +3613,6 @@ Fall des § 170a Abs. 4 Satz 1 ist der festgesetzte Ausbeutesatz auch
 bei Steuer- oder Ablieferungsbescheiden anzuwenden, für die in der
 Brenngenehmigung die Berechnung der abgabenpflichtigen Weingeistmenge
 vorbehalten ist.
-
 
 ###### § 127
 
@@ -3952,7 +3630,6 @@ geändert haben. Weicht die Ausbeute von dem festgesetzten Ausbeutesatz
 um mehr als ein zehntel Liter ab, so hat das Hauptzollamt den
 Ausbeutesatz anderweit festzusetzen.
 
-
 ###### § 128
 
 (1) Die Ausbeute ist durch Probebrennen zu ermitteln.
@@ -3961,7 +3638,6 @@ Ausbeutesatz anderweit festzusetzen.
 Stoffen durch den Abtrieb von Maischeproben und bei nichtmehligen
 Stoffen, soweit sie sich hierzu eignen, durch den Abtrieb von
 Stoffproben ermittelt wird.
-
 
 ###### § 129
 
@@ -3973,7 +3649,6 @@ Anleitung auszuführen.
 unter Hinzuziehung eines zweiten Beamten vorzunehmen. Der
 Brennereibesitzer ist aufzufordern, den Ermittlungen und der Entnahme
 der Proben beizuwohnen.
-
 
 ###### § 130
 
@@ -3989,15 +3664,11 @@ Ermittlung der tatsächlichen Ausbeute notwendig sind; es kann
 vorschreiben, daß das Ergebnis der Roh- und Feinbrände vom
 Brennereibesitzer aufzuzeichnen ist.
 
-
 ###### § 131
 
 (weggefallen)
 
-
 #### 9. - Abfindung auf die Mindestmenge
-
-
 
 ##### § 132
 
@@ -4024,7 +3695,6 @@ statt verwogen mit geeichten Gefäßen vermessen wird. Für diesen Fall
 ist die Weingeistmenge nach der vom Bundesmonopolamt herausgegebenen
 Anleitung festzustellen.
 
-
 ##### § 133
 
 (1) Übersteigt die Weingeistmenge, die zur amtlichen Feststellung
@@ -4038,18 +3708,11 @@ Beträgt die Fehlmenge nicht mehr als 1 vom Hundert der festgesetzten
 Mindestmenge, so steht die Entscheidung den Abfertigungsbeamten, sonst
 dem Hauptzollamt zu.
 
-
 ### 4. Abschnitt - Betriebsbestimmungen
-
-
 
 #### A. - Verschlußbrennereien
 
-
-
 ##### 1. - Betriebseröffnung, Betriebseinstellung
-
-
 
 ###### § 134
 
@@ -4075,10 +3738,7 @@ sind dem Aufsichtsoberbeamten rechtzeitig vorher anzuzeigen.
 
 (4)
 
-
 ##### 2. - Prüfung der Sicherungsmaßnahmen vor der Betriebseröffnung
-
-
 
 ###### § 135
 
@@ -4115,10 +3775,6 @@ a)  bei Brennereien mit ununterbrochenem Betrieb zu einem vom Oberbeamten
 
 b)  bei anderen Brennereien vor der Betriebseröffnung (§ 134).
 
-
-
-
-
 ###### § 136
 
 Über das Ergebnis der Prüfung nach § 135 Abs. 1 ist mit dem
@@ -4126,10 +3782,7 @@ Brennereibesitzer eine Verhandlung aufzunehmen. Werden andere oder
 neue Sicherungsmaßnahmen erforderlich, so ist eine
 Nachtragsverhandlung aufzunehmen.
 
-
 ##### 3. - Betriebserklärung
-
-
 
 ###### § 137
 
@@ -4177,19 +3830,13 @@ Genehmigungsverfügungen anzuführen.
 (5) Änderungen der Betriebsweise sind durch Nachtragserklärungen
 mitzuteilen.
 
-
 ###### § 138
 
 (weggefallen)
 
-
 ##### 4. - Betriebsführung
 
-
-
 ###### a) - Bereitung, Aufbewahrung und Behandlung der Maische
-
-
 
 ###### § 139
 
@@ -4211,13 +3858,11 @@ ausdehnen.
 handelt, wer vorsätzlich oder leichtfertig außerhalb der Maischfrist
 des Absatzes 1 einmaischt.
 
-
 ###### § 140
 
 Die Maische darf nur in den angemeldeten Geräten oder Gefäßen (§ 50
 Nr. 1) bereitet und vergoren werden. Die Behandlung der Maische
 während der Gärung unterliegt keinen Beschränkungen.
-
 
 ###### § 141
 
@@ -4242,10 +3887,7 @@ Kohlensäurewäsche versehen sind, so muß das weingeisthaltige
 Waschwasser zusammen mit der Maische des Gärbottichs (Gärkessels)
 abgebrannt werden.
 
-
 ###### b) - Brennfrist, Roh- und Feinbrennen
-
-
 
 ###### § 142
 
@@ -4255,16 +3897,12 @@ Brennfrist dürfen Roh- und Feinbrenngeräte, abgesehen von dem Fall des
 § 93 Abs. 2, nicht mit Abbrennstoffen befüllt werden. Der
 Aufsichtsoberbeamte kann Ausnahmen zulassen.
 
-
 ###### § 143
 
 Tages- und Hilfssammelgefäß (§§ 91, 92) müssen sogleich nach
 Beendigung des Tagesabtriebs entleert werden.
 
-
 ###### c) - Benutzung der Betriebseinrichtung zu anderen als Brennereizwecken
-
-
 
 ###### § 144
 
@@ -4277,10 +3915,7 @@ Feinbrenngeräte ist dies nur dann statthaft, wenn ein Zutritt zu den
 Zwischensammelgefäßen verhindert werden kann und vorhandene
 Verstärkungsvorrichtungen keinen Branntwein enthalten.
 
-
 ##### 5. - Brennvorrichtungen zur Untersuchung von Proben
-
-
 
 ###### § 145
 
@@ -4297,29 +3932,19 @@ a)  Der Raumgehalt des Kochkolbens muß so bemessen sein, daß darin auf
 b)  Enthält das Abtriebserzeugnis Weingeist, so ist es zu vernichten oder
     der Flüssigkeit, der die Probe entnommen war, wieder zuzusetzen.
 
-
-
-
-
 ##### 6. - *Ku Ausländischer Wein *KE
-
-
 
 ###### § 146
 
 (weggefallen)
 
-
 ##### 7. - Buchführung
-
-
 
 ###### § 147
 
 Der Brennereibesitzer hat ein Betriebsbuch und, wenn amtliche Meßuhren
 vorhanden sind, außerdem für jede Meßuhr ein Meßuhrbuch nach
 vorgeschriebenen Mustern zu führen.
-
 
 ###### § 148
 
@@ -4334,10 +3959,7 @@ zurückgelieferte und von ihr nachgerechnete Betriebsbuch in gleicher
 Weise nach und berichtigt die Berechnung des Branntweinübernahmegeldes
 oder Branntweinaufschlags, wenn hierzu Anlaß besteht.
 
-
 ##### 8. - Ablieferung von ablieferungsfreiem Branntwein
-
-
 
 ###### § 149
 
@@ -4351,10 +3973,7 @@ vorgeschriebenem Muster einzureichen und die Raummenge und die
 Rohstoffe des Branntweins anzugeben, der von der
 Bundesmonopolverwaltung übernommen werden soll.
 
-
 ##### 9. - Branntweinaufbewahrung in Meßuhrbrennereien
-
-
 
 ###### § 150
 
@@ -4364,10 +3983,7 @@ er bis zur Ablieferung (Übernahme) in einem Branntweinlager (§ 135 des
 Gesetzes) des Brennereibesitzers aufzubewahren. Der Branntwein ist zum
 Zweck des Versandes amtlich abzufertigen.
 
-
 ##### 10. - In Meßuhren enthaltener Branntwein
-
-
 
 ###### § 151
 
@@ -4380,10 +3996,7 @@ oder unter amtlicher Aufsicht zu vernichten. Er darf auch zunächst
 unter amtlichen Verschluß genommen werden, um später dem Betrieb
 wieder zugeführt oder amtlich vernichtet zu werden.
 
-
 ##### 11. - Störungen und Gefährdungen der Sicherungsmaßnahmen. Störungen im Gange amtlicher Meßuhren
-
-
 
 ###### § 152
 
@@ -4402,7 +4015,6 @@ Branntwein ist aufzubewahren und vorzuführen.
 Meßuhren (§ 101) fest, so hat er nach Absatz 1 zu verfahren. Er darf
 die Meßuhr nicht öffnen. Der Vermerk ist im Meßuhrbuch (§ 147) zu
 machen.
-
 
 ###### § 153
 
@@ -4430,7 +4042,6 @@ Ort und Stelle nachprüfen.
 
 (3) Die Verhandlung ist dem Hauptzollamt vorzulegen.
 
-
 ###### § 154
 
 (1) Ist Branntwein entnommen worden, ohne daß Anlaß zur Einleitung
@@ -4450,14 +4061,9 @@ zweimal vollständig befüllt vorgefunden, so hat das Hauptzollamt
 Sicherungsmaßnahmen im Einvernehmen mit dem Bundesmonopolamt
 anzuordnen.
 
-
 #### B. - Abfindungsbrennereien
 
-
-
 ##### 1. - Betriebserklärung
-
-
 
 ###### § 155
 
@@ -4469,10 +4075,7 @@ gilt entsprechend.
 
 (2) Hefenährpräparate dürfen nicht verwendet werden.
 
-
 ##### 2. - Materialüberwachung
-
-
 
 ###### § 156
 
@@ -4483,18 +4086,11 @@ Materialüberwachung unterworfenen Brennerei hat über das zu
 Brennzwecken bestimmte Material ein Materialüberwachungsbuch nach
 vorgeschriebenem Muster zu führen.
 
-
 ###### (XXXX) §§ 157 bis 160 (weggefallen)
-
-
 
 ##### 3. - Betriebsführung
 
-
-
 ###### a) - Aufbewahrung der Rohstoffe
-
-
 
 ###### § 161
 
@@ -4530,10 +4126,7 @@ handelt, wer vorsätzlich oder leichtfertig einer Vorschrift des
 Absatzes 1 oder des Absatzes 4 Satz 1 oder 2 über die Aufbewahrung der
 Rohstoffe oder Kennzeichnung der Aufbewahrungsgefäße zuwiderhandelt.
 
-
 ###### b) - Maischfrist, Bereitung und Behandlung der Maische
-
-
 
 ###### § 162
 
@@ -4552,10 +4145,7 @@ handelt, wer vorsätzlich oder leichtfertig einer Vorschrift des
 Absatzes 1 oder 2 über die Maischfrist, das Einmaischen oder die
 Behandlung der Maische zuwiderhandelt.
 
-
 ###### c) - Brennfrist, Roh- und Feinbrennen
-
-
 
 ###### § 163
 
@@ -4573,7 +4163,6 @@ handelt, wer vorsätzlich oder leichtfertig entgegen Absatz 1 Satz 1
 außerhalb der Brennfrist brennt oder entgegen Absatz 1 Satz 2 Roh-
 oder Feinbrenngeräte außerhalb der in der Brenngenehmigung
 vorgeschriebenen Betriebszeit benutzt.
-
 
 ###### § 164
 
@@ -4594,7 +4183,6 @@ verwendet werden. Bei Brennblasen mit abnehmbarem Helm oder
 Schlußstück sind diese Geräteteile während der bezeichneten Benutzung
 zu entfernen.
 
-
 ###### § 165
 
 Die Roh- und Feinbrenngeräte sind mit Vorrichtungen zu versehen, die
@@ -4602,10 +4190,7 @@ eine Prüfung des Inhalts gestatten (z.B. Ablaßhähne). Für bestehende
 Brennereien kann das Hauptzollamt die Weiterbenutzung der Brenngeräte
 zulassen, die eine solche Vorrichtung nicht besitzen.
 
-
 ###### d) - Brennbuch
-
-
 
 ###### § 166
 
@@ -4623,19 +4208,13 @@ befreien.
 handelt, wer vorsätzlich oder leichtfertig entgegen Absatz 1 Satz 1
 ein Brennbuch nicht, nicht richtig oder nicht vollständig führt.
 
-
 ###### e) - Benutzung der Betriebseinrichtung zu anderen als Brennereizwecken
-
-
 
 ###### § 167
 
 Die Bestimmungen in § 144 finden entsprechende Anwendung.
 
-
 ##### 4. - Abfindungsanmeldung
-
-
 
 ###### § 168
 
@@ -4667,7 +4246,6 @@ die Zweitausfertigung der Abfindungsanmeldung oder die
 Brenngenehmigung nicht bereithält, einer Erklärungspflicht nach Absatz
 2 Satz 1 oder 2 oder einer Anmeldepflicht nach Absatz 2 Satz 3 oder 4
 zuwiderhandelt.
-
 
 ###### § 169
 
@@ -4707,7 +4285,6 @@ Absatz 2, 3 Satz 1 bis 3 oder Absatz 4 Satz 1 zuwiderhandelt oder
 entgegen Absatz 3 Satz 4 den Zusatz von Branntwein nicht in der
 Brennblase vornimmt.
 
-
 ###### § 170
 
 (1) Auf Grund der Abfindungsanmeldung erteilt das Hauptzollamt
@@ -4724,7 +4301,6 @@ ausübt, zu.
 zurück. Das Gleiche gilt, wenn der angemeldete Betrieb wegen Art oder
 Menge der Rohstoffe nach § 9 Abs. 4 oder § 116a Abs. 1 zum Verlust der
 Abfindungsvergünstigung führen würde.
-
 
 ###### § 170a
 
@@ -4758,7 +4334,6 @@ machen, wenn der Steuerschuldner die Zahlungsfrist nach § 138 Abs. 3
 des Gesetzes wiederholt versäumt hat oder wenn andere Gründe
 vorliegen, die die Entrichtung der Branntweinsteuer gefährdet
 erscheinen lassen.
-
 
 ###### § 171
 
@@ -4799,7 +4374,6 @@ Gründen, die er nicht zu vertreten hat, zurückgewiesen worden.
 handelt, wer vorsätzlich oder leichtfertig einer Anzeigepflicht nach
 Absatz 1 Satz 2 oder Absatz 2 Satz 1 zuwiderhandelt.
 
-
 ###### § 172
 
 Wird Branntwein, für den ein Ablieferungsbescheid (§ 170a Abs. 1)
@@ -4810,15 +4384,11 @@ abgeliefert, wird die nach § 50 Abs. 3 der Abgabenordnung unbedingt
 gewordene Branntweinsteuer festgesetzt, es sei denn, der Branntwein
 ist nachweislich untergegangen.
 
-
 ###### § 173
 
 (weggefallen)
 
-
 ##### 5. - Branntweinerzeugung durch Stoffbesitzer
-
-
 
 ###### § 174
 
@@ -4845,7 +4415,6 @@ handelt, wer vorsätzlich oder leichtfertig entgegen Absatz 2 Satz 1
 die Abfindungsanmeldung nicht oder nicht richtig abgibt oder entgegen
 Absatz 3 die Rohstoffe nicht getrennt lagert oder abbrennt.
 
-
 ###### § 175
 
 (1) Soll eine Brennvorrichtung außerhalb des angemeldeten
@@ -4861,10 +4430,7 @@ nachdem die Brennvorrichtung an ihn zurückgelangt ist, an die
 Dienststelle des Hauptzollamts, die die Steueraufsicht ausübt,
 zurückzusenden.
 
-
 ### 5. Abschnitt - Sicherungsmaßnahmen in der betriebslosen Zeit
-
-
 
 #### § 176
 
@@ -4877,7 +4443,6 @@ Branntweinreinigungsanlage dürfen nur freigegeben werden, wenn
 hierdurch kein Zutritt zu dem in der Anlage vorhandenen Branntwein
 geschaffen wird.
 
-
 #### § 177
 
 Amtliche Meßuhren (§§ 101 bis 107) sind nach der von der
@@ -4885,7 +4450,6 @@ Bundesmonopolverwaltung herausgegebenen Anweisung (§ 102 Abs. 1) außer
 Betrieb zu setzen, wenn sie für länger als einen Monat außer Betrieb
 treten sollen. Die hierbei abgenommenen Verschlüsse sind wieder
 anzulegen.
-
 
 #### § 178
 
@@ -4900,10 +4464,7 @@ Dienststelle des Hauptzollamts, die die Steueraufsicht ausübt,
 entfernt werden, darf sie der Brennereibesitzer selbst entfernen. Er
 hat dies im Befundbuch (§ 185) zu vermerken.
 
-
 ### 6. Abschnitt - Amtliche Aufsicht
-
-
 
 #### § 179
 
@@ -4923,10 +4484,7 @@ gestatten, daß einzelne Zugänge verschlossen gehalten werden.
 dürfen keine Maßnahmen getroffen werden, welche die Ausübung der
 Aufsicht erschweren oder hindern.
 
-
 #### (XXXX) §§ 180 bis 183 (weggefallen)
-
-
 
 #### § 184
 
@@ -4938,24 +4496,16 @@ hat der Brennereibesitzer für ihre Schließung und ordnungsmäßige
 Wiederverschließung zu sorgen. Absperrhähne an Standgläsern dürfen auf
 Antrag des Brennereibesitzers offen gehalten werden.
 
-
 #### § 185
 
 In der Brennerei wird ein Befundbuch nach vorgeschriebenem Muster
 ausgelegt.
 
-
 ## Viertes Buch - Ablieferung und Übernahme des Branntweins
-
-
 
 ### 1. Abschnitt - Ablieferung
 
-
-
 #### 1. - Abnahmefristen
-
-
 
 ##### § 186
 
@@ -4985,10 +4535,7 @@ Rechnung der Bundesmonopolverwaltung zu übernehmen (§§ 187, 190, 192
 und 208), wenn nicht der Brennereibesitzer den Branntwein bei der
 nächsten Monopolsammelstelle vorführen muß.
 
-
 #### 2. - Abnahmetage
-
-
 
 ##### § 187
 
@@ -5017,10 +4564,7 @@ der verwendeten Rohstoffe anzugeben. Für Brennereien, die den
 Branntweinaufschlag entrichten, ist die Anzeige an die
 Verwertungsstelle nicht notwendig.
 
-
 #### 3. - Maßnahmen der Bundesmonopolverwaltung
-
-
 
 ##### § 188
 
@@ -5043,10 +4587,7 @@ können. Die Lieferung erfolgt frachtfrei.
 werden soll, werden diese von der Bundesmonopolverwaltung rechtzeitig
 und frachtfrei bis zur Umfüllstelle geliefert.
 
-
 #### 4. - Verpflichtungen des Brennereibesitzers
-
-
 
 ##### § 189
 
@@ -5064,10 +4605,7 @@ unentgeltlich zu leisten. Er muß der Abnahme beiwohnen und in
 Brennereien mit amtlichen Sammelgefäßen dafür sorgen, daß die
 Sammelgefäße wieder richtig verschlossen werden.
 
-
 #### 5. - Abfertigungsanträge
-
-
 
 ##### § 190
 
@@ -5078,19 +4616,13 @@ Zollstelle eine Anmeldung nach vorgeschriebenem Muster einzureichen.
 Abnahmeergebnisses in das Abnahmebuch (§ 205) bewilligen, daß der
 Abfertigungsantrag geändert wird.
 
-
 ##### § 191
 
 (weggefallen)
 
-
 #### 6. Ausführung der Abnahme -
 
-
-
 ##### a) - im allgemeinen
-
-
 
 ###### § 192
 
@@ -5141,10 +4673,7 @@ Sammelgefäßen belassen werden. Die unabgefertigt gebliebenen
 Alkoholmengen sind in den Branntweinabnahmebescheinigungen und in den
 "Anschreibungen über die Alkoholausbeuteverhältnisse" zu vermerken.
 
-
 ##### b) - in Brennereien mit Hauptmeßuhren
-
-
 
 ###### § 193
 
@@ -5162,41 +4691,27 @@ Brennereibesitzers die Proben entweder unter amtlicher Aufsicht
 vernichtet oder dem Brennereibetrieb wieder zugeführt werden. Die
 Behandlung der Proben ist im Abfertigungspapier zu vermerken.
 
-
 ###### (XXXX) §§ 194 bis 196 (weggefallen)
-
-
 
 ###### § 197
 
 (weggefallen)
 
-
 ##### c) - in wiederholt abtreibenden Brennereien
-
-
 
 ###### § 198
 
 (weggefallen)
 
-
 ###### § 199
 
 (weggefallen)
 
-
 ###### (XXXX) §§ 200 bis 203 (weggefallen)
-
-
 
 #### 7. - Aufschub der Abfertigung
 
-
-
 #### 8. - Nebenerzeugnisse
-
-
 
 ##### § 204
 
@@ -5207,10 +4722,7 @@ außer Anspruch gelassen werden, wenn ihr Gehalt an Fuselöl mindestens
 Reichsmonopolamt              herausgegebenen Anleitung festzustellen.
 Die Abfertigung der Nebenerzeugnisse ist im Abnahmebuch zu vermerken.
 
-
 #### 9. - Buchführung
-
-
 
 ##### § 205
 
@@ -5234,7 +4746,6 @@ Antrag in beide Abnahmehauptbücher einzutragen; das Ergebnis der
 Abnahme ist nach § 192 Abs. 4 zu teilen und in die Abnahmebücher jedes
 Jahres die in ihm hergestellte Weingeistmenge einzutragen.
 
-
 ##### § 206
 
 (1) Die bei der Abnahme festgestellten Weingeistmengen dürfen in den
@@ -5247,23 +4758,15 @@ haben. Über spätere Änderungen und die zum Ausgleich erforderlichen
 Maßnahmen entscheidet das
 Reichsmonopolamt.
 
-
 #### 10. - Ablieferung bei nicht ordnungsmäßiger Herstellung
-
-
 
 ##### § 207
 
 (weggefallen)
 
-
 ### 2. Abschnitt - Übernahme
 
-
-
 #### 1. - Verpflichtungen der Abfertigungsbeamten
-
-
 
 ##### § 208
 
@@ -5273,10 +4776,7 @@ die Frachtpapiere und - in den Fällen des § 209 Abs. 3 Satz 1 - eine
 weitere Ausfertigung der Übernahmebescheinigung für die Empfangsstelle
 des Branntweins zu übergeben.
 
-
 #### 2. - Verpflichtungen des Brennereibesitzers
-
-
 
 ##### § 209
 
@@ -5322,15 +4822,11 @@ den Fällen des § 75 Abs. 1 Satz 2 des Gesetzes - nicht mit Ablauf der
 zweiten Woche nach der Abfertigung des Branntweins bei seiner
 Zahlstelle eingegangen ist.
 
-
 ##### § 210
 
 (weggefallen)
 
-
 #### 3. - Verpflichtungen der Bundesmonopolverwaltung
-
-
 
 ##### § 211
 
@@ -5347,10 +4843,7 @@ Empfangsbescheinigung verlorengegangen, so ist das Übernahmegeld nebst
 Zinsen spätestens dann zu zahlen, wenn die Empfangsstelle den Eingang
 des Branntweins bestätigt hat.
 
-
 ### 3. Abschnitt - Ablieferung und Übernahme von Branntwein bei Monopolsammelstellen
-
-
 
 #### § 212
 
@@ -5365,14 +4858,9 @@ verpflichteten Personen stellen die Weingeistmenge fest, übernehmen
 den Branntwein und bestätigen dies in der Ablieferungsbescheinigung.
 Die Sammelstelle übersendet diese der zuständigen Zollstelle.
 
-
 ## Fünftes Buch - Branntweinübernahmepreise
 
-
-
 ### 1. - Im allgemeinen
-
-
 
 #### § 213 Übernahmepreis
 
@@ -5384,7 +4872,6 @@ berechnet.
 Festsetzung der Übernahmepreise bilden, können durch
 Selbstkostenprüfungen, Kostenfortrechnungen oder nach Anhörung der
 Brennereiverbände auf andere geeignete Weise ermittelt werden.
-
 
 #### § 213a Selbstkostenprüfungen
 
@@ -5421,7 +4908,6 @@ Prüfbetrieben belegt werden.
 durch Verwaltungsvorschrift des Bundesministeriums der Finanzen oder
 die von diesem bestimmten Stelle bestimmt.
 
-
 #### § 213b Ermittlung der Fertigungs- und Rohstoffkosten für die einzelnen Betriebsjahre des Kalkulationszeitraums
 
 (1) Für das erste Betriebsjahr des Vorkalkulationszeitraums werden von
@@ -5440,7 +4926,6 @@ werden nicht berücksichtigt.
 
 (3) Für Selbstkostenprüfungen nach § 213a Abs. 2 Satz 2 und 3 gelten
 die Absätze 1 und 2 entsprechend.
-
 
 #### § 213c Verfahren zur Ermittlung des Betriebsabzugs nach § 66 des Gesetzes
 
@@ -5488,7 +4973,6 @@ das gesamte Jahresbrennrecht festgesetzt.
 das durchschnittliche Jahresbrennrecht dieser Abzugstufe, gilt der
 zuletzt festgesetzte Betriebsabzug.
 
-
 #### § 213d Ermittlung des Betriebsabzugs bei der Nutzungsüberlassung von Brennrechten, der Zusammenlegung von Brennereien sowie der Übertragung von Brennrechten nach § 42 Abs. 1, 3 und § 42a des Gesetzes
 
 (1) Wird nach § 42a des Gesetzes das Brennrecht einer Brennerei auf
@@ -5518,18 +5002,15 @@ Brennereien zusammengelegt oder das Brennrecht erneut nach § 42 Abs. 3
 des Gesetzes übertragen oder nach § 42a des Gesetzes zur Nutzung
 überlassen wird.
 
-
 #### § 214
 
 Die Bundesmonopolverwaltung gibt den Grundpreis (§ 65 des Gesetzes)
 und die Abzüge und Zuschläge (§§ 66 bis 74 des Gesetzes) im
 Bundesanzeiger und durch Rundschreiben bekannt.
 
-
 #### § 215
 
 (weggefallen)
-
 
 #### § 216
 
@@ -5542,10 +5023,7 @@ voraussichtlichen Umfang der Branntweinherstellung und über die Mengen
 und Preise der außer dem Branntwein gewonnenen Nebenerzeugnisse und
 Abfallstoffe.
 
-
 ### 2. - Betriebszuschlag nach § 68 des Gesetzes
-
-
 
 #### § 217
 
@@ -5566,10 +5044,7 @@ ist die Zahlung des Übernahmegeldes solange auszusetzen, bis die nach
 
 (3)
 
-
 ### 3. - Neuberechnung des Übernahmegeldes
-
-
 
 #### § 218
 
@@ -5579,10 +5054,7 @@ ursprünglich angesetzt war. Brennereibesitzer und Stoffbesitzer haben
 Beträge, die sie zuviel erhalten haben, zurückzuzahlen. Beträge, die
 sie zuwenig erhalten haben, werden ihnen nachgezahlt.
 
-
 ### 4. - Betriebswechsel
-
-
 
 #### § 219
 
@@ -5591,32 +5063,21 @@ sie zuwenig erhalten haben, werden ihnen nachgezahlt.
 gezahltes Übernahmegeld zurückzuzahlen. § 217 Abs. 2 ist entsprechend
 anzuwenden.
 
-
 ### 5. - *Ku Angaben der Zollstellen *KE
-
-
 
 #### § 220
 
 (weggefallen)
 
-
 ## Sechstes Buch - Branntweinsteuer
 
-
-
 ### 1. - Festsetzung der ersparten Kosten
-
-
 
 #### § 221
 
 (weggefallen)
 
-
 ### 2. - Festsetzung der Branntweinsteuer
-
-
 
 #### § 222
 
@@ -5627,16 +5088,13 @@ freien Verkehr entnommen wird.
 
 (2)
 
-
 #### § 223
 
 (weggefallen)
 
-
 #### § 223a
 
 (weggefallen)
-
 
 #### § 223b
 
@@ -5646,28 +5104,19 @@ ursprünglich angesetzt war. Beträge, die der Steuerschuldner zu wenig
 gezahlt hat, werden nacherhoben, Beträge, die er zuviel gezahlt hat,
 werden ihm erstattet.
 
-
 #### § 224
 
 (weggefallen)
 
-
 ### 3. - Vereinigungen nach § 82 des Gesetzes
-
-
 
 #### § 225
 
 (weggefallen)
 
-
 ## Siebentes Buch - Besondere Bestimmungen für einzelne Betriebe
 
-
-
 ### 1. - Geräte zur Herstellung oder Reinigung von Branntwein außerhalb der Brennereien
-
-
 
 #### § 226
 
@@ -5678,14 +5127,12 @@ Brennerei aufgestellt sind, aber nicht Brennereizwecken dienen,
 unterliegen gleich den Räumen, in denen sie aufgestellt sind, der
 amtlichen Überwachung.
 
-
 #### § 227
 
 Wer Brenngeräte oder sonstige zur Herstellung oder Reinigung von
 Branntwein geeignete Geräte mit einem Raumgehalt von mehr als einem
 halben Liter oder Teile davon abgeben will, hat dies unter Angabe des
 Erwerbers der Zollstelle vor der Abgabe schriftlich anzuzeigen.
-
 
 #### § 228
 
@@ -5730,7 +5177,6 @@ geeignete Destilliergeräte mit einem Fassungsvermögen der Blase von
 mehr als einem halben Liter bis zu fünf Liter herstellen oder
 vertreiben.
 
-
 #### § 229
 
 (1) Wer ein Brenngerät oder ein sonstiges zur Herstellung oder
@@ -5762,11 +5208,9 @@ Brenngerät oder ein sonstiges dort genanntes Gerät nicht, nicht
 richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
 nicht rechtzeitig anmeldet.
 
-
 #### § 230
 
 (weggefallen)
-
 
 #### § 231
 
@@ -5784,7 +5228,6 @@ Zwecken als zur Verarbeitung von Branntwein verwendet werden oder die
 weniger als 25 Liter Raumgehalt haben, kann das Hauptzollamt von der
 Prüfung absehen oder die Zahl der Besuche herabsetzen.
 
-
 #### § 232
 
 (1) Geräte, die in öffentlichen Lehr-, Forschungs- und
@@ -5799,7 +5242,6 @@ so kann das Hauptzollamt im Einvernehmen mit dem Bundesmonopolamt
 Ausnahmen von den für Brennereien gegebenen Überwachungsbestimmungen
 zulassen.
 
-
 #### § 233
 
 Das Hauptzollamt kann für den Gebrauch der Geräte oder einzelner
@@ -5808,10 +5250,7 @@ und Anschreibungen über Art und Zeit der Benutzung verlangen, auch
 Sicherungen dagegen treffen, daß die Geräte außerhalb der angemeldeten
 Zeit benutzt werden können.
 
-
 ### 2. - Hefenbetriebe ohne Branntweingewinnung
-
-
 
 #### (XXXX) §§ 234 bis 236 (weggefallen)
 

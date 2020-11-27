@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2853
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -86,7 +84,6 @@ Zwischen Ende und Anfang der Randschrift befindet sich eine liegende
 Raute. Der Entwurf der Münze stammt von Wolfgang Th. Doehm, Stuttgart.
 
 Der Bundesminister der Finanzen
-
 
 ## (XXXX)
 

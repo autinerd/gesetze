@@ -21,10 +21,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 11 G v. 5.2.2009 I 160
 
-
 ## Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Beteiligung, Grundsatz
 
@@ -38,14 +35,9 @@ Vertrauenspersonen oder Personalvertretungen vertreten.
 (3) Das Recht des Soldaten, sich in dienstlichen und persönlichen
 Angelegenheiten an seine Vorgesetzten zu wenden, bleibt unberührt.
 
-
 ## Kapitel 2 - Beteiligung der Soldaten durch Vertrauenspersonen
 
-
-
 ### Abschnitt 1 - Wahl der Vertrauenspersonen
-
-
 
 #### § 2 Wählergruppen
 
@@ -124,7 +116,6 @@ die Wählergruppen der Offiziere, Unteroffiziere und Mannschaften
 gewählt, soweit die nach Absatz 1 gewählten Vertrauenspersonen der
 jeweiligen Wählergruppe nicht an dem Einsatz teilnehmen.
 
-
 #### § 3 Wahlberechtigung
 
 (1) Wahlberechtigt sind alle Soldaten, die am Wahltage der
@@ -145,7 +136,6 @@ der Verbände kommandiert werden, sind abweichend von Absatz 1 vom Tage
 ihrer Kommandierung an wahlberechtigt. Das gleiche gilt für Soldaten
 von Teileinheiten, die für die Dauer der besonderen Auslandsverwendung
 einer anderen Einheit in jeder Hinsicht unterstellt werden.
-
 
 #### § 4 Wählbarkeit, Grundsätze der Wahl
 
@@ -199,7 +189,6 @@ Wahlberechtigter in der Ausübung des aktiven oder passiven Wahlrechts
 beschränkt werden. Die Wahl darf nicht durch Versprechen von Vorteilen
 oder durch Androhung von Nachteilen beeinflußt werden.
 
-
 #### § 5 Anfechtung der Wahl
 
 (1) Drei Wahlberechtigte oder der Disziplinarvorgesetzte können die
@@ -218,10 +207,7 @@ dem Dienstgrad der Vertrauenspersonen. Auf Antrag kann der Vorsitzende
 den Beginn der Amtszeit der Vertrauenspersonen bis zur Entscheidung
 des Truppendienstgerichts aussetzen.
 
-
 ### Abschnitt 2 - Geschäftsführung und Rechtsstellung
-
-
 
 #### § 6 Geschäftsführung
 
@@ -248,7 +234,6 @@ Geschäftsführung werden ihr im erforderlichen Umfang Räume,
 Geschäftsbedarf sowie geeignete Aushangmöglichkeiten für
 Bekanntmachungen zur Verfügung gestellt.
 
-
 #### § 7 Beurteilung
 
 (1) Die Vertrauensperson und die eingetretenen Vertreter werden
@@ -264,7 +249,6 @@ auf dessen nächsten Disziplinarvorgesetzten über.
 Viertel des Beurteilungszeitraumes als Vertrauensperson oder als
 eingetretener Vertreter tätig gewesen sind.
 
-
 #### § 8 Schweigepflicht
 
 (1) Die Vertrauensperson hat über die ihr in Ausübung ihrer Tätigkeit
@@ -274,7 +258,6 @@ gegenüber Dritten Stillschweigen zu bewahren.
 (2) Die Schweigepflicht besteht nicht für Angelegenheiten oder
 Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner
 Geheimhaltung bedürfen.
-
 
 #### § 9 Amtszeit
 
@@ -308,16 +291,11 @@ jedoch höchstens um zwei Monate.
 
 7.  Auflösung des Verbandes, der Einheit oder Dienststelle.
 
-
-
-
-
 #### § 10 Niederlegung des Amtes
 
 Die Vertrauensperson kann durch schriftliche Erklärung gegenüber dem
 Disziplinarvorgesetzten ihr Amt niederlegen. Dieser gibt die
 Niederlegung des Amtes dienstlich bekannt.
-
 
 #### § 11 Abberufung der Vertrauensperson
 
@@ -336,7 +314,6 @@ Bereichs, für den sie gewählt sind, ernsthaft zu beeinträchtigen.
 Verhandlung unter entsprechender Anwendung der Verfahrensvorschriften
 der Wehrbeschwerdeordnung.
 
-
 #### § 12 Ruhen des Amtes
 
 (1) Das Amt der Vertrauensperson ruht, solange ihr die Ausübung des
@@ -347,7 +324,6 @@ Abberufungsantrag nach § 11 Abs. 1 das Ruhen des Amtes anordnen.
 (2) Das Amt der Vertrauensperson ruht, wenn über ihren Antrag auf
 Anerkennung als Kriegsdienstverweigerer noch nicht unanfechtbar
 entschieden worden ist.
-
 
 #### § 13 Eintritt des Stellvertreters
 
@@ -365,7 +341,6 @@ Diese Vertrauensperson wird im vereinfachten Wahlverfahren gewählt.
 Die Amtszeit der Vertrauensperson mit befristeter Amtszeit endet mit
 Ablauf des Tages, an dem die Verhinderung der Vertrauensperson oder
 eines ihrer Stellvertreter entfällt.
-
 
 #### § 14 Schutz der Vertrauensperson, Unfallschutz
 
@@ -387,7 +362,6 @@ Soldatenversorgungsgesetzes ein Dienstunfall oder eine
 Wehrdienstbeschädigung wäre, finden die Vorschriften dieses Gesetzes
 entsprechende Anwendung.
 
-
 #### § 15 Versetzung der Vertrauensperson
 
 (1) Die Vertrauensperson darf während der Dauer ihres Amtes gegen
@@ -398,7 +372,6 @@ gilt für die zur Wahl vorgeschlagenen Soldaten bis zum Wahltag.
 
 (2) Absatz 1 gilt nicht bei Versetzungen aus dem Ausland.
 
-
 #### § 16 Beschwerderecht der Vertrauensperson
 
 Die Vertrauensperson kann sich entsprechend § 1 Abs. 1 der
@@ -406,21 +379,15 @@ Wehrbeschwerdeordnung auch dann beschweren, wenn sie glaubt, in der
 Ausübung ihrer Befugnisse behindert oder wegen ihrer Tätigkeit
 benachteiligt zu werden.
 
-
 #### § 17 Beschwerden gegen die Vertrauensperson
 
 Über Beschwerden nach der Wehrbeschwerdeordnung gegen die
 Vertrauensperson oder den nach § 13 eingetretenen Stellvertreter
 entscheidet deren nächsthöherer Disziplinarvorgesetzter.
 
-
 ### Abschnitt 3 - Beteiligung der Vertrauensperson
 
-
-
 #### Unterabschnitt 1 - Allgemeines
-
-
 
 ##### § 18 Grundsätze für die Zusammenarbeit
 
@@ -439,7 +406,6 @@ Erfüllung ihrer Aufgaben zu unterstützen. Die Vertrauensperson ist
 umfassend zu unterrichten. Hierzu ist ihr auch die Möglichkeit der
 Einsichtnahme in die erforderlichen Unterlagen zu eröffnen, in
 Personalakten jedoch nur mit Einwilligung des Betroffenen.
-
 
 ##### § 19 Besondere Pflichten des Disziplinarvorgesetzten
 
@@ -463,10 +429,7 @@ besonderen Auslandsverwendungen gewählten (§ 2 Abs. 6), sind alsbald
 nach ihrer Wahl für ihre Aufgaben auszubilden. Diese Ausbildung soll
 auf Brigade- oder vergleichbarer Ebene in Seminarform stattfinden.
 
-
 #### Unterabschnitt 2 - Formen der Beteiligung
-
-
 
 ##### § 20 Anhörung
 
@@ -475,7 +438,6 @@ Entscheidungen, zu denen sie anzuhören ist, rechtzeitig und umfassend
 zu unterrichten. Der Vertrauensperson ist zu den beabsichtigten
 Maßnahmen Gelegenheit zur Stellungnahme zu geben. Diese ist mit ihr zu
 erörtern.
-
 
 ##### § 21 Vorschlagsrecht
 
@@ -507,7 +469,6 @@ Disziplinarvorgesetzte bis zur endgültigen Entscheidung vorläufige
 Regelungen treffen. Er teilt dem nächsthöheren Disziplinarvorgesetzten
 und der Vertrauensperson die vorläufige Regelung unter Angabe der
 Gründe mit.
-
 
 ##### § 22 Mitbestimmung
 
@@ -541,10 +502,7 @@ vorläufige Regelungen treffen. Er hat der Vertrauensperson die
 vorläufige Regelung mitzuteilen und zu begründen und unverzüglich das
 Verfahren nach Absatz 2 einzuleiten.
 
-
 #### Unterabschnitt 3 - Aufgabengebiete
-
-
 
 ##### § 23 Personalangelegenheiten
 
@@ -603,7 +561,6 @@ Beförderungen von der Besoldungsgruppe A 16 an aufwärts.
 
 (4) Über die Anhörung ist eine Niederschrift anzufertigen, die zu den
 Akten zu nehmen ist.
-
 
 ##### § 24 Dienstbetrieb
 
@@ -685,10 +642,6 @@ ferner mitzubestimmen bei
 3.  Maßnahmen zur Verhütung von Dienst- und Arbeitsunfällen und sonstigen
     Gesundheitsschädigungen.
 
-
-
-
-
 ##### § 25 Betreuung und Fürsorge
 
 (1) Der Disziplinarvorgesetzte beruft die Vertrauensperson oder einen
@@ -722,7 +675,6 @@ Mitbestimmungsrecht bei
 (4) In anderen Fragen der Betreuung und Fürsorge ist die
 Vertrauensperson anzuhören. Sie kann auch Vorschläge machen.
 
-
 ##### § 26 Berufsförderung
 
 (1) Die Vertrauensperson kann dem Disziplinarvorgesetzten Vorschläge
@@ -749,7 +701,6 @@ zur Berufsförderung machen, insbesondere
 Förderungsmaßnahmen insbesondere nach dem Soldatenversorgungsgesetz
 und sonstige berufsfördernde und berufsbildende Maßnahmen.
 
-
 ##### § 27 Ahndung von Dienstvergehen
 
 (1) Will der Disziplinarvorgesetzte Disziplinarmaßnahmen verhängen,
@@ -769,7 +720,6 @@ nur mit Einwilligung der Betroffenen.
 (4) Über die Anhörung der Vertrauensperson ist eine Niederschrift
 anzufertigen, die zu den Akten zu nehmen ist.
 
-
 ##### § 28 Förmliche Anerkennungen
 
 (1) Die Vertrauensperson hat das Recht, Soldaten ihrer Wählergruppe
@@ -782,7 +732,6 @@ Erteilung einer förmlichen Anerkennung anzuhören.
 (3) Vor der Rücknahme einer förmlichen Anerkennung gemäß § 14 der
 Wehrdisziplinarordnung ist die Vertrauensperson anzuhören.
 
-
 ##### § 29 Auszeichnungen
 
 Die Vertrauensperson soll angehört werden, wenn ein Soldat ihrer
@@ -790,7 +739,6 @@ Wählergruppe für einen Bestpreis, die Verleihung des Ehrenzeichens der
 Bundeswehr oder einen Orden vorgeschlagen werden soll. Die Anhörung
 erfolgt regelmäßig durch den nächsten Disziplinarvorgesetzten des
 Soldaten, dem eine Auszeichnung verliehen werden soll.
-
 
 ##### § 30 Beschwerdeverfahren
 
@@ -805,7 +753,6 @@ angehört werden. Bei Beschwerden in Personalangelegenheiten im Sinne
 des § 23 Abs. 1 ist die Vertrauensperson auf Antrag des
 Beschwerdeführers anzuhören.
 
-
 ##### § 31 Vertrauensperson als Vermittler
 
 (1) Die Vertrauensperson kann im Verfahren nach der
@@ -816,14 +763,9 @@ werden.
 Wehrbeschwerdeordnung tätig geworden, gilt sie für das
 Anhörungsverfahren nach § 30 Satz 2 als verhindert.
 
-
 ## Kapitel 3 - Gremien der Vertrauenspersonen
 
-
-
 ### Abschnitt 1 - Versammlungen der Vertrauenspersonen
-
-
 
 #### § 32 Versammlungen der Vertrauenspersonen des Verbandes, des Kasernenbereichs und des Standortes
 
@@ -877,7 +819,6 @@ Fortbildungsveranstaltung zusammenzuziehen. Die Inspekteure
 entscheiden über die Ebene, in der die Fortbildungsveranstaltungen
 durchzuführen sind.
 
-
 #### § 33 Sprecher
 
 (1) Die Mitglieder der Versammlungen der Vertrauenspersonen wählen in
@@ -893,7 +834,6 @@ des Kasernenkommandanten oder des Standortältesten.
 (3) § 11 gilt mit der Maßgabe, daß anstelle des
 Disziplinarvorgesetzten der Führer des Verbandes, der
 Kasernenkommandant oder der Standortälteste antragsberechtigt ist.
-
 
 #### § 34 Sitzungen, Beschlußfähigkeit
 
@@ -925,10 +865,7 @@ berührt sind. Satz 1 gilt entsprechend für die Teilnahme des Sprechers
 der Versammlung der Vertrauenspersonen an den Sitzungen des
 Personalrates.
 
-
 ### Abschnitt 2 - Gesamtvertrauenspersonenausschuß
-
-
 
 #### § 35 Bildung des Gesamtvertrauenspersonenausschusses
 
@@ -965,7 +902,6 @@ Organisationsbereichen dezentrale Wahlvorstände gebildet. Der zentrale
 Wahlvorstand besteht aus fünf Mitgliedern, die das Bundesministerium
 der Verteidigung auf Vorschlag des Gesamtvertrauenspersonenausschusses
 in ihr Amt beruft.
-
 
 #### § 36 Amtszeit, Rechtsstellung der Mitglieder des Gesamtvertrauenspersonenausschusses
 
@@ -1034,7 +970,6 @@ der Vorschriften der Wehrdisziplinarordnung.
 (5) Auf die Mitglieder des Gesamtvertrauenspersonenausschusses finden
 die §§ 8, 12, 14, 16 entsprechende Anwendung.
 
-
 #### § 37 Arbeit des Gesamtvertrauenspersonenausschusses
 
 (1) Der Gesamtvertrauenspersonenausschuß wird bei Grundsatzregelungen
@@ -1056,7 +991,6 @@ endgültig entscheidet.
 der Verteidigung und vom Gesamtvertrauenspersonenausschuß bestimmten
 Beisitzern sowie einem unparteiischen Vorsitzenden, der einvernehmlich
 berufen wird.
-
 
 #### § 38 Pflichten des Bundesministeriums der Verteidigung
 
@@ -1093,7 +1027,6 @@ Ansprechpartner dieser Gruppe der jeweilige Inspekteur oder der
 Vorgesetzte, der diese Funktion ausübt. Dieser kann sich vertreten
 lassen.
 
-
 #### § 39 Nachrücken
 
 (1) Scheidet ein Mitglied aus, rückt an dessen Stelle der Bewerber aus
@@ -1122,7 +1055,6 @@ mit.
 regelmäßige Amtszeit des Gesamtvertrauenspersonenausschusses weniger
 als vier Monate, finden die Absätze 1 und 2 keine Anwendung.
 
-
 #### § 40 Geschäftsführung
 
 (1) In der ersten Sitzung wählt der Gesamtvertrauenspersonenausschuß
@@ -1141,7 +1073,6 @@ jeweiligen Bereichssprecher.
 (3) Der Gesamtvertrauenspersonenausschuß gibt sich eine
 Geschäftsordnung, die er mit der Mehrheit der Mitglieder beschließt.
 
-
 #### § 41 Einberufung von Sitzungen
 
 (1) Der Gesamtvertrauenspersonenausschuß soll regelmäßig alle zwei
@@ -1156,7 +1087,6 @@ der Tagesordnung rechtzeitig zu laden und die Sitzungen zu leiten.
 Bundesministerium der Verteidigung rechtzeitig bekanntzugeben;
 dienstliche Belange sind bei der Terminierung zu berücksichtigen.
 
-
 #### § 42 Nichtöffentlichkeit
 
 Die Sitzungen des Gesamtvertrauenspersonenausschusses sind nicht
@@ -1166,7 +1096,6 @@ der Verteidigung zu seinen Sitzungen einladen. Auf Antrag eines
 Drittels der Mitglieder des Gesamtvertrauenspersonenausschusses können
 jeweils ein Beauftragter von Berufsorganisationen der Soldaten und
 deren Gewerkschaften an der Sitzung beratend teilnehmen.
-
 
 #### § 43 Beschlußfassung
 
@@ -1179,7 +1108,6 @@ Stimmengleichheit ist der Antrag abgelehnt.
 (3) In Angelegenheiten der Organisationsbereiche wirken nur die
 Mitglieder der jeweiligen Gruppe mit. Dies gilt nicht, wenn eine
 Gruppe nicht oder nicht mehr vertreten ist.
-
 
 #### § 44 Niederschrift
 
@@ -1195,7 +1123,6 @@ Vertreter oder Beauftragte von Berufsorganisationen und Gewerkschaften
 an der Sitzung teilgenommen, ist ihnen der entsprechende Auszug der
 Niederschrift zuzuleiten. Einwendungen gegen die Niederschrift sind
 unverzüglich schriftlich zu erheben und dieser beizufügen.
-
 
 #### § 45 Kosten, Geschäftsbedarf, Fortbildung
 
@@ -1213,7 +1140,6 @@ Geschäftsbedarf und Büropersonal zur Verfügung.
 Bundesministerium der Verteidigung unverzüglich nach ihrer Wahl für
 ihre Aufgaben auszubilden.
 
-
 #### § 46 Beteiligung bei Verschlußsachen
 
 Soweit eine Angelegenheit, an der der Gesamtvertrauenspersonenausschuß
@@ -1224,7 +1150,6 @@ Ausschusses werden aus der Mitte des
 Gesamtvertrauenspersonenausschusses gewählt und müssen ermächtigt
 sein, Kenntnis von Verschlußsachen des in Betracht kommenden
 Geheimhaltungsgrades zu erhalten.
-
 
 #### § 47 Anfechtung der Wahl
 
@@ -1245,17 +1170,13 @@ Wehrdisziplinarordnung gehören jeweils ein ehrenamtlicher Richter aus
 den Laufbahngruppen der Offiziere, Unteroffiziere und Mannschaften dem
 Senat an, die aus der Mitte der Vertrauenspersonen zu berufen sind.
 
-
 ## Kapitel 4 - Beteiligung der Soldaten durch Personalvertretungen
-
-
 
 ### § 48 Geltungsbereich
 
 Für Soldaten gilt nach Maßgabe der §§ 48 bis 51 das
 Bundespersonalvertretungsgesetz. Insoweit werden die Streitkräfte der
 Verwaltung gleichgestellt.
-
 
 ### § 49 Personalvertretung der Soldaten
 
@@ -1286,7 +1207,6 @@ Interessen ihrer Wählergruppe berührt sind.
 erstmals die Voraussetzungen des Absatzes 1 Satz 1, ist eine Nachwahl
 der Gruppe der Soldaten zulässig.
 
-
 ### § 50 Dienststellen ohne Personalrat
 
 In Dienststellen und Einrichtungen der Bundeswehr, in denen für die
@@ -1294,7 +1214,6 @@ Beamten, Angestellten und Arbeiter auch im Falle einer Zuteilung zu
 einer benachbarten Dienststelle nach § 12 Abs. 2 des
 Bundespersonalvertretungsgesetzes ein Personalrat nicht gebildet ist,
 wählen die Soldaten Vertrauenspersonen nach § 2.
-
 
 ### § 51 Wahl und Rechtsstellung der Soldatenvertreter
 
@@ -1331,7 +1250,6 @@ Amtes. Auf die in Satz 1 genannten Soldaten findet § 47 Abs. 2 des
 Bundespersonalvertretungsgesetzes keine Anwendung; § 2 Abs. 1 Nr. 8
 ist nicht anzuwenden.
 
-
 ### § 52 Angelegenheiten der Soldaten
 
 (1) In Angelegenheiten, die nur die Soldaten betreffen, haben die
@@ -1354,10 +1272,7 @@ Bundespersonalvertretungsgesetzes in den Vorstand der
 Personalvertretung gewählt ist, im Falle seiner Verhinderung durch
 dessen Vertreter im Amt.
 
-
 ## Kapitel 5 - Schlußvorschriften
-
-
 
 ### § 53 Rechtsverordnungen
 
@@ -1391,7 +1306,6 @@ Rechtsverordnung die den Behörden der Mittelstufe nach § 6 Abs. 2 Satz
 2 des Bundespersonalvertretungsgesetzes entsprechenden militärischen
 Dienststellen zu bestimmen, bei denen Bezirkspersonalräte gebildet
 werden.
-
 
 ### § 54 Übergangsvorschrift
 

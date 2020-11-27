@@ -18,12 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 93 G v. 2. 3.1974 I 469
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## § 1
 
@@ -33,7 +31,6 @@ Unternehmen (Arbeitsstättenzählung) durchgeführt.
 
 (2) Gebäudevorerhebungen und Wiederholungsbefragungen zur Prüfung der
 Zuverlässigkeit der Ergebnisse sind zulässig.
-
 
 ## § 2
 
@@ -60,10 +57,6 @@ Die Volks- und Berufszählung erfaßt bei der gesamten Bevölkerung:
     Erwerbsleben, Geschäftszweig des ausgeübten Erwerbs, Stellung im
     Beruf, Wehrdienstverhältnis, landwirtschaftliche und
     nichtlandwirtschaftliche Nebentätigkeit, wöchentliche Arbeitszeit.
-
-
-
-
 
 ## § 3
 
@@ -97,10 +90,6 @@ werden im Rahmen der Volks- und Berufszählung ferner ermittelt:
 6.  Besitz von Bodenflächen, die vom unmittelbaren Besitzer
     landwirtschaftlich oder ab 0,5 ha gärtnerisch genutzt werden.
 
-
-
-
-
 ## § 4
 
 Die Arbeitsstättenzählung erfaßt
@@ -133,10 +122,6 @@ Die Arbeitsstättenzählung erfaßt
     Anzahl der Zweigniederlassungen und Art der in ihr ausgeübten
     Tätigkeit.
 
-
-
-
-
 ## § 5
 
 Auskunftspflichtig sind
@@ -155,10 +140,6 @@ Auskunftspflichtig sind
 
     die Inhaber oder Leiter der Arbeitsstätten und Unternehmen.
 
-
-
-
-
 ## § 6
 
 (1) Zur Übernahme der ehrenamtlichen Zählertätigkeit ist jeder
@@ -171,7 +152,6 @@ kann.
 vorzunehmen, soweit dies zur Erfüllung des Zwecks der Zählung
 erforderlich ist und die Auskunftspflichtigen einverstanden sind.
 
-
 ## § 7
 
 (1) Bund, Länder, Gemeinden, Gemeindeverbände und sonstige
@@ -181,7 +161,6 @@ Zählertätigkeit zur Verfügung zu stellen.
 
 (2) Lebenswichtige Tätigkeiten öffentlicher Dienste dürfen durch diese
 Verpflichtung nicht unterbrochen werden.
-
 
 ## § 8
 
@@ -215,7 +194,6 @@ werden.
 Bundeszwecke ist auf Personen, die bei Stellen beschäftigt sind, denen
 Einzelangaben zugeleitet werden, entsprechend anzuwenden.
 
-
 ## § 9
 
 Der Bund gewährt den Ländern zum Ausgleich der Mehrbelastungen, die
@@ -225,14 +203,12 @@ Wohnbevölkerung, die das Statistische Bundesamt für den 27. Mai 1970
 feststellt. Die Finanzzuweisung ist in drei gleichen Teilbeträgen am
 1\. Juli 1970, 1. Juli 1971 und 1. Juli 1972 zu zahlen.
 
-
 ## § 10
 
 Dieses Gesetz gilt mit Ausnahme der in § 2 Nr. 5 aufgeführten Frage
 nach dem Wehrdienstverhältnis nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1)
 auch im Land Berlin.
-
 
 ## § 11
 

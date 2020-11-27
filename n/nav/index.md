@@ -19,11 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 3.9.2010 I 1261
 
-
-
 ## Teil 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Anwendungsbereich, Begriffsbestimmungen
 
@@ -54,7 +50,6 @@ Niederspannungsnetz zur Entnahme von Elektrizität nutzt.
 (4) Netzbetreiber im Sinne dieser Verordnung ist der Betreiber eines
 Elektrizitätsversorgungsnetzes der allgemeinen Versorgung im Sinne des
 § 18 Abs. 1 Satz 1 des Energiewirtschaftsgesetzes.
-
 
 ### § 2 Netzanschlussverhältnis
 
@@ -94,7 +89,6 @@ Bestätigung nach Satz 1 ist auf die Allgemeinen Bedingungen
 einschließlich der ergänzenden Bedingungen des Netzbetreibers
 hinzuweisen.
 
-
 ### § 3 Anschlussnutzungsverhältnis
 
 (1) Inhalt der Anschlussnutzung ist das Recht zur Nutzung des
@@ -133,7 +127,6 @@ die Mitteilung unverzüglich in Textform zu bestätigen. In der
 Bestätigung ist auf die Allgemeinen Bedingungen einschließlich der
 ergänzenden Bedingungen des Netzbetreibers und auf die Haftung des
 Netzbetreibers nach § 18 hinzuweisen.
-
 
 ### § 4 Inhalt des Vertrages und der Bestätigung des Netzbetreibers
 
@@ -180,10 +173,7 @@ die Regulierungsbehörde wirksam. Der Netzbetreiber ist verpflichtet,
 die Änderungen am Tage der öffentlichen Bekanntgabe auf seiner
 Internetseite zu veröffentlichen.
 
-
 ## Teil 2 - Netzanschluss
-
-
 
 ### § 5 Netzanschluss
 
@@ -194,7 +184,6 @@ Niederspannungsnetzes und endet mit der Hausanschlusssicherung, es sei
 denn, dass eine abweichende Vereinbarung getroffen wird; in jedem Fall
 sind auf die Hausanschlusssicherung die Bestimmungen über den
 Netzanschluss anzuwenden.
-
 
 ### § 6 Herstellung des Netzanschlusses
 
@@ -234,10 +223,6 @@ November 2000)\*) eingehalten sind.
 
 \*) Amtlicher Hinweis: Zu beziehen beim Beuth Verlag GmbH, Berlin.
 
-
-
-
-
 ### § 7 Art des Netzanschlusses
 
 Die Spannung beträgt am Ende des Netzanschlusses bei Drehstrom etwa
@@ -248,7 +233,6 @@ welche Stromart und Spannung die Anlage des Anschlussnehmers
 angeschlossen ist oder angeschlossen werden soll. Bei der Wahl der
 Stromart sind die Belange des Anschlussnehmers im Rahmen der
 jeweiligen technischen Möglichkeiten angemessen zu berücksichtigen.
-
 
 ### § 8 Betrieb des Netzanschlusses
 
@@ -269,7 +253,6 @@ Netzbetreiber unverzüglich mitzuteilen.
 (3) Änderungen des Netzanschlusses werden nach Anhörung des
 Anschlussnehmers und unter Wahrung seiner berechtigten Interessen vom
 Netzbetreiber bestimmt.
-
 
 ### § 9 Kostenerstattung für die Herstellung oder Änderung des Netzanschlusses
 
@@ -309,7 +292,6 @@ dadurch teilweise zum Bestandteil des Verteilernetzes, so hat der
 Netzbetreiber die Kosten neu aufzuteilen und dem Anschlussnehmer einen
 zu viel gezahlten Betrag zu erstatten.
 
-
 ### § 10 Transformatorenanlage
 
 (1) Muss zum Netzanschluss eines Grundstücks eine besondere
@@ -330,7 +312,6 @@ andere geeignete Stelle verlangen, wenn ihm ihr Verbleiben an der
 bisherigen Stelle nicht mehr zugemutet werden kann. Die Kosten der
 Verlegung hat der Netzbetreiber zu tragen; dies gilt nicht, soweit die
 Anlage ausschließlich dem Netzanschluss des Grundstücks dient.
-
 
 ### § 11 Baukostenzuschüsse
 
@@ -368,7 +349,6 @@ Netzanschlusskosten sind getrennt zu errechnen und dem Anschlussnehmer
 aufgegliedert auszuweisen.
 
 (6) § 9 Abs. 2 gilt entsprechend.
-
 
 ### § 12 Grundstücksbenutzung
 
@@ -419,7 +399,6 @@ werden kann.
 Verkehrsflächen sowie für Grundstücke, die durch Planfeststellung für
 den Bau von öffentlichen Verkehrswegen und Verkehrsflächen bestimmt
 sind.
-
 
 ### § 13 Elektrische Anlage
 
@@ -476,7 +455,6 @@ Anschlussnehmer zu veranlassen.
 Zähler darf der Spannungsfall unter Zugrundelegung der Nennstromstärke
 der vorgeschalteten Sicherung nicht mehr als 0,5 vom Hundert betragen.
 
-
 ### § 14 Inbetriebsetzung der elektrischen Anlage
 
 (1) Der Netzbetreiber oder dessen Beauftragter hat die Anlage über den
@@ -503,7 +481,6 @@ Kosten pauschal berechnet werden. Die Kosten sind so darzustellen,
 dass der Anschlussnehmer die Anwendung des pauschalierten
 Berechnungsverfahrens einfach nachvollziehen kann.
 
-
 ### § 15 Überprüfung der elektrischen Anlage
 
 (1) Der Netzbetreiber ist berechtigt, die Anlage vor und, um
@@ -524,10 +501,7 @@ keine Haftung für die Mängelfreiheit der Anlage. Dies gilt nicht, wenn
 er bei einer Überprüfung Mängel festgestellt hat, die eine Gefahr für
 Leib oder Leben darstellen.
 
-
 ## Teil 3 - Anschlussnutzung
-
-
 
 ### § 16 Nutzung des Anschlusses
 
@@ -557,7 +531,6 @@ störungsfreien Betrieb seiner Geräte und Anlagen zu treffen.
 (4) Zwischen Anschlussnutzer und Netzbetreiber gelten die §§ 7, 8, 12
 und 13 Abs. 1 und 2, § 14 Abs. 1 Satz 1, Abs. 2 und 3 sowie § 15
 entsprechend.
-
 
 ### § 17 Unterbrechung der Anschlussnutzung
 
@@ -590,7 +563,6 @@ Unterrichtung
 In den Fällen des Satzes 3 ist der Netzbetreiber verpflichtet, dem
 Anschlussnutzer auf Nachfrage nachträglich mitzuteilen, aus welchem
 Grund die Unterbrechung vorgenommen worden ist.
-
 
 ### § 18 Haftung bei Störungen der Anschlussnutzung
 
@@ -693,14 +665,9 @@ vorsätzlich noch grob fahrlässig verursacht worden sind.
 Netzbetreiber oder, wenn dieses feststeht, dem ersatzpflichtigen
 Unternehmen mitzuteilen.
 
-
 ## Teil 4 - Gemeinsame Vorschriften
 
-
-
 ### Abschnitt 1 - Anlagenbetrieb und Rechte des Netzbetreibers
-
-
 
 #### § 19 Betrieb von elektrischen Anlagen und Verbrauchsgeräten, Eigenerzeugung
 
@@ -724,7 +691,6 @@ Eigenanlagen ist mit dem Netzbetreiber abzustimmen. Dieser kann den
 Anschluss von der Einhaltung der von ihm nach § 20 festzulegenden
 Maßnahmen zum Schutz vor Rückspannungen abhängig machen.
 
-
 #### § 20 Technische Anschlussbedingungen
 
 Der Netzbetreiber ist berechtigt, in Form von Technischen
@@ -739,7 +705,6 @@ Technischen Anschlussbedingungen von der vorherigen Zustimmung des
 Netzbetreibers abhängig gemacht werden. Die Zustimmung darf nur
 verweigert werden, wenn der Anschluss eine sichere und störungsfreie
 Versorgung gefährden würde.
-
 
 #### § 21 Zutrittsrecht
 
@@ -757,7 +722,6 @@ Haus erfolgen. Im Falle der Ablesung der Messeinrichtungen muss die
 Benachrichtigung mindestens drei Wochen vor dem Betretungstermin
 erfolgen; mindestens ein Ersatztermin ist anzubieten. Eine vorherige
 Benachrichtigung ist in den Fällen des § 24 Abs. 1 nicht erforderlich.
-
 
 #### § 22 Mess- und Steuereinrichtungen
 
@@ -789,10 +753,7 @@ die Mess- und Steuereinrichtungen zugänglich sind. Er hat den Verlust,
 Beschädigungen und Störungen von Mess- und Steuereinrichtungen dem
 Netzbetreiber und dem Messstellenbetreiber unverzüglich mitzuteilen.
 
-
 ### Abschnitt 2 - Fälligkeit, Folge von Zuwiderhandlungen, Beendigung der Rechtsverhältnisse
-
-
 
 #### § 23 Zahlung, Verzug
 
@@ -816,7 +777,6 @@ Berechnungsgrundlage nachzuweisen.
 (3) Gegen Ansprüche des Netzbetreibers kann vom Anschlussnehmer oder
 -nutzer nur mit unbestrittenen oder rechtskräftig festgestellten
 Gegenansprüchen aufgerechnet werden.
-
 
 #### § 24 Unterbrechung des Anschlusses und der Anschlussnutzung
 
@@ -880,7 +840,6 @@ nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten nicht
 nachzuweisen. Der Nachweis geringerer Kosten ist dem Kunden zu
 gestatten.
 
-
 #### § 25 Kündigung des Netzanschlussverhältnisses
 
 (1) Das Netzanschlussverhältnis kann mit einer Frist von einem Monat
@@ -898,7 +857,6 @@ veröffentlichen.
 
 (3) Die Kündigung bedarf der Textform.
 
-
 #### § 26 Beendigung des Anschlussnutzungsverhältnisses
 
 (1) Das Anschlussnutzungsverhältnis besteht, bis der Anschlussnutzer
@@ -908,7 +866,6 @@ Netzbetreiber unverzüglich mitzuteilen.
 (2) Im Falle einer Kündigung des Netzanschlussvertrages nach § 25 oder
 § 27 endet das Anschlussnutzungsverhältnis mit der Beendigung des
 Netzanschlussvertrages.
-
 
 #### § 27 Fristlose Kündigung oder Beendigung
 
@@ -920,16 +877,12 @@ wiederholten Zuwiderhandlungen nach § 24 Abs. 2 ist der Netzbetreiber
 zur fristlosen Kündigung berechtigt, wenn sie zwei Wochen vorher
 angedroht wurde; § 24 Abs. 2 Satz 2 gilt entsprechend.
 
-
 ## Teil 5 - Schlussbestimmungen
-
-
 
 ### § 28 Gerichtsstand
 
 Gerichtsstand ist der Ort des Netzanschlusses und der
 Anschlussnutzung.
-
 
 ### § 29 Übergangsregelung
 

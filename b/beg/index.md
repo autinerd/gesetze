@@ -18,14 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 63 G v. 5.2.2009 I 160
 
-
 ## Erster Abschnitt - Allgemeine Vorschriften
 
-
-
 ### Erster Titel - Anspruch auf Entschädigung
-
-
 
 #### (XXXX)
 
@@ -43,7 +38,6 @@ durch die nationalsozialistische Gewaltherrschaft rechtswidrig
 geschädigt worden sind,
 hat der Bundestag mit Zustimmung des Bundesrates das nachstehende
 Gesetz beschlossen:
-
 
 #### § 1
 
@@ -98,10 +92,6 @@ durch nationalsozialistische Gewaltmaßnahmen verfolgt worden ist,
     für sie nach dem bis zum 31. Dezember 1974 geltenden Beamtenrecht
     Kinderzuschläge gewährt werden können.
 
-
-
-
-
 #### § 2
 
 (1) Nationalsozialistische Gewaltmaßnahmen sind solche Maßnahmen, die
@@ -116,11 +106,9 @@ entgegen, daß sie auf gesetzlichen Vorschriften beruht haben oder in
 mißbräuchlicher Anwendung gesetzlicher Vorschriften gegen den
 Verfolgten gerichtet worden sind.
 
-
 #### § 3
 
 Der Verfolgte hat Anspruch auf Entschädigung nach diesem Gesetz.
-
 
 #### § 4
 
@@ -225,7 +213,6 @@ Aufenthalt im Sinne dieses Gesetzes.
 ohne Rücksicht auf Wohnsitz oder dauernden Aufenthalt des Verfolgten,
 wenn das Grundstück im Geltungsbereich dieses Gesetzes belegen ist.
 
-
 #### § 4a
 
 (1) Ist ein Verfolgter vor dem 31. Dezember 1952 verstorben und hatte
@@ -246,7 +233,6 @@ Anspruch ist weder übertragbar noch vererblich.
 
 (3) Absätze 1 und 2 gelten sinngemäß zugunsten des Witwers einer
 Verfolgten.
-
 
 #### § 5
 
@@ -281,7 +267,6 @@ seinen Anspruch auf Grund besonderer Rechtsvorschriften im Sinne des
 Absatzes 1 wegen Fristversäumnis nicht mehr geltend machen kann.
 
 (3)
-
 
 #### § 6
 
@@ -318,7 +303,6 @@ Ausschließungsgründe des Absatzes 1 Nr. 2 und 3 eintritt. Die nach
 Eintritt eines Verwirkungsgrundes bewirkten Leistungen können
 zurückgefordert werden.
 
-
 #### § 7
 
 (1) Der Anspruch auf Entschädigung kann ganz oder teilweise versagt
@@ -335,7 +319,6 @@ Verhältnisse beruht.
 
 (3) Bereits bewirkte Leistungen können zurückgefordert werden.
 
-
 #### § 8
 
 (1) Ansprüche gegen das Deutsche Reich, die Bundesrepublik Deutschland
@@ -351,7 +334,6 @@ durch dieses Gesetz nicht berührt. Sie gehen, soweit nach diesem
 Gesetz Entschädigung geleistet ist, auf das leistende Land über. Der
 Übergang kann nicht zum Nachteil des Berechtigten geltend gemacht
 werden.
-
 
 #### § 9
 
@@ -375,7 +357,6 @@ der Schaden durch diese Leistungen ausgeglichen wird.
 (5) Für Schäden, der mit an Sicherheit grenzender Wahrscheinlichkeit
 auch ohne die Verfolgung entstanden wäre, wird keine Entschädigung
 geleistet.
-
 
 #### § 10
 
@@ -407,7 +388,6 @@ Leistungen aus der Arbeitslosenfürsorge erhalten hat, ist die
 Überleitung des Anspruchs auf Entschädigung auf den Bund
 ausgeschlossen.
 
-
 #### § 11
 
 (1) Geldansprüche für die Zeit vor dem 1. Juli 1948 werden in
@@ -419,12 +399,10 @@ anzurechnenden Leistungen, sofern diese in Reichsmark bewirkt worden
 sind, und für Reichsmarkbeträge, die nach anderen Vorschriften dieses
 Gesetzes auf die Entschädigung anzurechnen sind.
 
-
 #### § 12
 
 Renten werden frühestens vom 1. November 1953 an in monatlich
 vorauszahlbaren Beträgen gezahlt.
-
 
 #### § 12a
 
@@ -435,10 +413,7 @@ Monatsbetrag, um den sich die wiederkehrenden Leistungen monatlich
 erhöht haben oder erhöhen. Dies gilt sinngemäß im Falle der
 erstmaligen Festsetzung einer Rente nach diesem Gesetz.
 
-
 ### Zweiter Titel - Übergang und Übertragung des Anspruchs auf Entschädigung
-
-
 
 #### § 13
 
@@ -463,21 +438,15 @@ Vermächtnisse geltenden Vorschriften anzuwenden.
 
 (5) (weggefallen)
 
-
 #### § 14
 
 Der Anspruch auf Entschädigung kann abgetreten, verpfändet oder
 gepfändet werden. Die Abtretung, Verpfändung oder Pfändung ist nur mit
 Genehmigung der Entschädigungsbehörde zulässig.
 
-
 ## Zweiter Abschnitt - Schadenstatbestände
 
-
-
 ### Erster Titel - Schaden an Leben
-
-
 
 #### § 15
 
@@ -494,7 +463,6 @@ Monaten nach Beendigung der Deportation oder der Freiheitsentziehung
 verstorben, so wird vermutet, daß die in Absatz 1 Satz 1 für den
 Anspruch genannten Voraussetzungen vorliegen.
 
-
 #### § 16
 
 Als Entschädigung werden geleistet
@@ -506,10 +474,6 @@ Als Entschädigung werden geleistet
 
 
 3.  Kapitalentschädigung.
-
-
-
-
 
 #### § 17
 
@@ -572,7 +536,6 @@ Absatzes 1 Nr. 1 oder 2 gleichgestellt
 der sich aus Gründen, die den Verfolgungsgründen des § 1 entsprechen,
 von dem verfolgten Ehegatten abgewandt hat.
 
-
 #### § 18
 
 (1) Die Rente wird nach Maßgabe der Versorgungsbezüge festgesetzt, die
@@ -599,7 +562,6 @@ erwerben unterläßt, obwohl ihm der Erwerb zuzumuten ist.
 (3) Bei der Berechnung der Rente ist die jeweilige Höhe der
 gesetzlichen Versorgungsbezüge vergleichbarer Beamtengruppen im Sinne
 des Absatzes 1 zugrunde zu legen.
-
 
 #### § 19
 
@@ -765,10 +727,6 @@ Der monatliche Mindestbetrag der Rente beträgt für
 
     *   147 DM.
 
-
-
-
-
 #### § 20
 
 (1) Die Renten nach § 18 dürfen zusammen das Unfallruhegehalt des
@@ -788,7 +746,6 @@ mehrerer Rentenansprüche nach § 17 erfüllt, so wird bei Renten in
 gleicher Höhe nur eine und bei Renten in verschiedener Höhe die
 höchste Rente gezahlt.
 
-
 #### § 21
 
 (1) Haben sich die Verhältnisse, die der Bemessung der Rente zugrunde
@@ -802,11 +759,9 @@ Rente nur dann neu festzusetzen, wenn die auf Grund der veränderten
 Verhältnisse errechnete Rente jeweils um mindestens 30 vom Hundert von
 der festgesetzten Rente abweicht.
 
-
 #### § 22
 
 -
-
 
 #### § 23
 
@@ -822,12 +777,10 @@ infolge der Auflösung oder Nichtigerklärung der Ehe erworbenen
 Versorgungs- oder Unterhaltsanspruchs zustehen, sind auf die Rente
 anzurechnen.
 
-
 #### § 24
 
 Für die Zeit vor dem 1. November 1953 steht den Hinterbliebenen (§ 17)
 vom Tode des Verfolgten an eine Kapitalentschädigung zu.
-
 
 #### § 25
 
@@ -845,7 +798,6 @@ Anspruch auf Rente erfüllt waren.
 zugrunde zu legende Monatsbetrag zwei Zehnteile des in Deutscher Mark
 berechneten Monatsbetrages.
 
-
 #### § 26
 
 (1) Der Anspruch auf die laufende Rente ist weder übertragbar noch
@@ -857,7 +809,6 @@ die Kapitalentschädigung ist vor Festsetzung oder vor rechtskräftiger
 gerichtlicher Entscheidung nur vererblich, wenn der Hinterbliebene von
 seinem Ehegatten oder seinen oder des Verfolgten Kindern, Enkeln oder
 Eltern beerbt wird. § 13 Abs. 3 findet entsprechende Anwendung.
-
 
 #### § 27
 
@@ -876,10 +827,7 @@ die monatlichen Mindestbeträge der Rente (§ 19) angemessen zu erhöhen,
 wenn sich die Dienst- und Versorgungsbezüge der Bundesbeamten auf
 Grund gesetzlicher Vorschriften erhöhen.
 
-
 ### Zweiter Titel - Schaden an Körper oder Gesundheit
-
-
 
 #### § 28
 
@@ -894,7 +842,6 @@ an Körper oder Gesundheit und der Verfolgung wahrscheinlich ist.
 die körperliche Leistungsfähigkeit des Verfolgten nachhaltig
 beeinträchtigt hat und voraussichtlich auch nicht beeinträchtigen
 wird.
-
 
 #### § 29
 
@@ -917,10 +864,6 @@ Als Entschädigung werden geleistet
 
 6.  Versorgung der Hinterbliebenen.
 
-
-
-
-
 #### § 30
 
 (1) Umfang und Erfüllung des Anspruchs auf ein Heilverfahren richten
@@ -932,7 +875,6 @@ Verordnung zur Durchführung des § 33 des Beamtenversorgungsgesetzes
 (2) Der Anspruch wird nicht dadurch ausgeschlossen, daß das
 Heilverfahren vor Inkrafttreten dieses Gesetzes durchgeführt worden
 ist.
-
 
 #### § 31
 
@@ -1007,7 +949,6 @@ zugrunde zu legen.
 des Diensteinkommens, das dem Verfolgten bei der Einreihung in eine
 vergleichbare Beamtengruppe nach seinem Lebensalter am 1. Mai 1949
 zugestanden hätte.
-
 
 #### § 32
 
@@ -1132,7 +1073,6 @@ monatlichen Mindestbetrag setzt nicht voraus, daß die Minderung der
 Erwerbsfähigkeit um 50 vom Hundert ausschließlich auf der Verfolgung
 beruht.
 
-
 #### § 33
 
 (1) Der Grad der Minderung und der Beeinträchtigung der
@@ -1148,7 +1088,6 @@ Beeinträchtigung der Erwerbsfähigkeit nach dem Grade zu bemessen, der
 sich bei Erwachsenen mit gleicher Schädigung an Körper oder Gesundheit
 ergeben würde.
 
-
 #### § 34
 
 Ist die Erwerbsfähigkeit des Verfolgten neben der Beeinträchtigung
@@ -1156,7 +1095,6 @@ durch die verfolgungsbedingte Schädigung auch durch andere Ursachen
 gemindert, so wird bei der Bemessung der Höhe der Rente nur die durch
 die verfolgungsbedingte Schädigung herbeigeführte Beeinträchtigung der
 Erwerbsfähigkeit zugrunde gelegt. § 33 Abs. 1 Satz 2 gilt sinngemäß.
-
 
 #### § 35
 
@@ -1173,13 +1111,11 @@ der festgesetzten Rente abweicht.
 
 (3) § 32 Abs. 2 bleibt unberührt.
 
-
 #### § 36
 
 Für die Zeit vor dem 1. November 1953 steht dem Verfolgten vom Beginn
 der Beeinträchtigung der Erwerbsfähigkeit um mindestens 25 vom Hundert
 an eine Kapitalentschädigung zu.
-
 
 #### § 37
 
@@ -1199,7 +1135,6 @@ berechneten Monatsbetrages.
 
 (4) § 32 Abs. 2 findet keine Anwendung.
 
-
 #### § 38
 
 Dem Verfolgten steht ein Hausgeld zu, wenn er durch das Heilverfahren
@@ -1214,7 +1149,6 @@ Verfolgten verbleibenden Einkünften und der nach Satz 1 zu
 berechnenden Rente, jedoch nicht über die Höhe des Verdienstausfalls
 hinaus, zu zahlen.
 
-
 #### § 39
 
 (1) Der Anspruch auf die laufende Rente ist weder übertragbar noch
@@ -1226,14 +1160,12 @@ vor rechtskräftiger gerichtlicher Entscheidung nur vererblich, wenn
 der Verfolgte von seinem Ehegatten, seinen Kindern, seinen Enkeln oder
 seinen Eltern beerbt wird. § 13 Abs. 3 findet entsprechende Anwendung.
 
-
 #### § 40
 
 Dem Verfolgten, der zu einer Umschulung für einen anderen Beruf bereit
 ist, können Beihilfen zu den entstehenden Kosten bewilligt werden,
 wenn mit Wahrscheinlichkeit zu erwarten ist, daß die Umschulung seine
 Leistungsfähigkeit wiederherstellen oder bessern wird.
-
 
 #### § 41
 
@@ -1254,7 +1186,6 @@ Rente nach Absatz 1 als Versorgung die dem Verfolgten für seinen
 Schaden an Körper oder Gesundheit zuletzt gezahlte Rente zu, sofern
 dies für die Hinterbliebenen günstiger ist.
 
-
 #### § 41a
 
 (1) Ist ein Verfolgter, der bis zum Tode eine Rente wegen einer
@@ -1270,7 +1201,6 @@ der Witwe und den Kindern im Falle des § 41 zustehen würde.
 
 (3) Absätze 1 und 2 gelten sinngemäß für den Witwer unter den
 Voraussetzungen des § 17 Abs. 1 Nr. 2.
-
 
 #### § 42
 
@@ -1294,14 +1224,9 @@ die monatlichen Mindestbeträge der Rente (§ 32) angemessen zu erhöhen,
 wenn sich die Dienst- und Versorgungsbezüge der Bundesbeamten auf
 Grund gesetzlicher Vorschriften erhöhen.
 
-
 ### Dritter Titel - Schaden an Freiheit
 
-
-
 #### I. - Freiheitsentziehung
-
-
 
 ##### § 43
 
@@ -1335,7 +1260,6 @@ Bedingungen, Zwangsarbeit unter haftähnlichen Bedingungen und
 Zugehörigkeit zu einer Straf- oder Bewährungseinheit der Wehrmacht
 gleichgeachtet.
 
-
 ##### § 44
 
 (1) Ist die Freiheit im Zusammenhang mit einer strafgerichtlichen
@@ -1352,7 +1276,6 @@ Falle der Aufhebung oder der Änderung kraft Gesetzes ist eine
 Bescheinigung der nach den in Absatz 1 genannten Rechtsvorschriften
 zuständigen Gerichte oder Behörden vorzulegen.
 
-
 ##### § 45
 
 Die Entschädigung nach § 43 wird als Kapitalentschädigung geleistet.
@@ -1361,7 +1284,6 @@ Freiheitsentziehung. Zugrunde zu legen sind die Kalendermonate,
 während deren die Freiheit entzogen war sowie je 30 Tage der Monate,
 in denen die Freiheit nur zeitweise entzogen war; mehrere Zeiten der
 Freiheitsentziehung werden zusammengerechnet.
-
 
 ##### § 46
 
@@ -1378,10 +1300,7 @@ beerbt wird. § 13 Abs. 3 findet entsprechende Anwendung.
 Kinder, die Enkel oder die Eltern des Verfolgten von der
 Erbschaftsteuer befreit.
 
-
 #### II. - Freiheitsbeschränkung
-
-
 
 ##### § 47
 
@@ -1393,13 +1312,11 @@ unter menschenunwürdigen Bedingungen in der Illegalität gelebt hat.
 daß er in der Illegalität unter menschenunwürdigen Bedingungen gelebt
 hat.
 
-
 ##### § 48
 
 Die Entschädigung nach § 47 wird als Kapitalentschädigung geleistet.
 Sie beträgt 150 Deutsche Mark für jeden vollen Monat der
 Freiheitsbeschränkung. § 45 Satz 3 findet entsprechende Anwendung.
-
 
 ##### § 49
 
@@ -1409,17 +1326,13 @@ Anspruch auf Entschädigung für Freiheitsentziehung nach § 43, so
 entfällt insoweit der Anspruch auf Entschädigung für
 Freiheitsbeschränkung.
 
-
 ##### § 50
 
 Der Anspruch auf Entschädigung für Freiheitsbeschränkung ist nach
 Maßgabe des § 46 übertragbar und vererblich. Für die Befreiung von der
 Erbschaftsteuer findet § 46 Abs. 3 entsprechende Anwendung.
 
-
 ### Vierter Titel - Schaden an Eigentum
-
-
 
 #### § 51
 
@@ -1460,7 +1373,6 @@ auszuschließen beabsichtigte, so wird vermutet, daß der Schaden an
 Eigentum durch nationalsozialistische Gewaltmaßnahmen verursacht
 worden ist.
 
-
 #### § 52
 
 (1) Die Entschädigung nach § 51 wird in Deutscher Mark berechnet.
@@ -1477,7 +1389,6 @@ im Zeitpunkt der Entscheidung zur Wiederherstellung aufzuwenden wären.
 Das gleiche gilt im Falle der Zerstörung einer Sache, wenn ihre
 Wiederherstellung möglich ist.
 
-
 #### § 53
 
 Steht einer auf Grund rückerstattungsrechtlicher Vorschriften
@@ -1492,7 +1403,6 @@ rechtskräftiger gerichtlicher Entscheidung über diesen Anspruch den
 gleichen Entschädigungsanspruch geltend, so geht der
 Entschädigungsanspruch der Nachfolgeorganisation im Zeitpunkt der
 Geltendmachung auf den Verfolgten oder seine Erben über.
-
 
 #### § 54
 
@@ -1513,7 +1423,6 @@ dem überlebenden Ehegatten zu. Leben die Ehegatten im Zeitpunkt der
 Entscheidung getrennt oder sind sie geschieden, so kann jeder Ehegatte
 die Hälfte der Pauschalabgeltung verlangen.
 
-
 #### § 55
 
 (1) Die Entschädigung nach §§ 51, 54 darf für den einzelnen Verfolgten
@@ -1529,10 +1438,7 @@ auf Entschädigung geltend gemacht, so gilt der Höchstbetrag des
 Absatzes 1 für die Entschädigung, die der Nachfolgeorganisation an
 Stelle des einzelnen Verfolgten zusteht.
 
-
 ### Fünfter Titel - Schaden an Vermögen
-
-
 
 #### § 56
 
@@ -1570,7 +1476,6 @@ auszuschließen beabsichtigte, so wird vermutet, daß der Schaden an
 Vermögen durch nationalsozialistische Gewaltmaßnahmen verursacht
 worden ist.
 
-
 #### § 57
 
 (1) Der Verfolgte, der aus den Verfolgungsgründen des § 1 in der Zeit
@@ -1594,17 +1499,13 @@ der Entscheidung berechnet.
 Verfolgten insgesamt den Betrag von 5.000 Deutsche Mark nicht
 übersteigen.
 
-
 #### § 58
 
 Die Entschädigung nach §§ 56, 57 darf für den einzelnen Verfolgten
 insgesamt den Betrag von 75.000 Deutsche Mark nicht übersteigen. Im
 übrigen findet § 55 entsprechende Anwendung.
 
-
 ### Sechster Titel - Schaden durch Zahlung von Sonderabgaben, Geldstrafen, Bußen und Kosten
-
-
 
 #### § 59
 
@@ -1635,7 +1536,6 @@ Abgaben an die Deutsche Golddiskontbank und Entrichtung von
 Reichsfluchtsteuer gelten als Sonderabgaben nur, wenn der Verfolgte
 aus den Verfolgungsgründen des § 1 zur Auswanderung genötigt gewesen
 ist.
-
 
 #### § 60
 
@@ -1668,7 +1568,6 @@ zurückerhält, aber weder den Kaufpreis zurückgewährt noch den
 Wiedergutmachungsanspruch wegen des nicht erlangten oder des nicht in
 seine freie Verfügung gelangten Kaufpreises abgetreten hat.
 
-
 #### § 61
 
 (1) Der Verfolgte hat Anspruch auf Entschädigung für entrichtete
@@ -1685,7 +1584,6 @@ beigetrieben worden ist. § 44 gilt sinngemäß.
 
 (2) § 60 findet entsprechende Anwendung.
 
-
 #### § 62
 
 Der Verfolgte hat Anspruch auf Entschädigung für gerichtliche und
@@ -1701,7 +1599,6 @@ des § 1 des Bundesvertriebenengesetzes, so besteht der Anspruch auch
 dann, wenn das Verfahren im Vertreibungsgebiet anhängig gewesen ist. §
 44 gilt sinngemäß.
 
-
 #### § 63
 
 Gehört der Verfolgte zu einem Personenkreis, den in seiner Gesamtheit
@@ -1711,14 +1608,9 @@ beabsichtigte, so wird vermutet, daß der Schaden durch Zahlung von
 Sonderabgaben, Geldstrafen, Bußen und Kosten durch
 nationalsozialistische Gewaltmaßnahmen verursacht worden ist.
 
-
 ### Siebenter Titel - Schaden im beruflichen und im wirtschaftlichen Fortkommen
 
-
-
 #### I. - Grundsatz
-
-
 
 ##### § 64
 
@@ -1738,24 +1630,16 @@ auszuschließen beabsichtigte, so wird vermutet, daß der Schaden im
 beruflichen und im wirtschaftlichen Fortkommen durch
 nationalsozialistische Gewaltmaßnahmen verursacht worden ist.
 
-
 #### II. - Schaden im beruflichen Fortkommen
 
-
-
 ##### 1. - Begriff
-
-
 
 ###### § 65
 
 Ein Schaden im beruflichen Fortkommen liegt vor, wenn der Verfolgte in
 der Nutzung seiner Arbeitskraft geschädigt worden ist.
 
-
 ##### 2. - Selbständige Berufe
-
-
 
 ###### § 66
 
@@ -1773,7 +1657,6 @@ Gesellschaft beteiligt war.
 Erwerbstätigkeit, wenn die Beschränkung in der Gesamtzeit der
 Schädigung zu einer Einkommensminderung von mehr als 25 vom Hundert
 geführt hat.
-
 
 ###### § 67
 
@@ -1804,7 +1687,6 @@ Befähigungsnachweis befreit wird. Der Anspruch besteht nicht, wenn die
 Prüfung oder der Befähigungsnachweis für alle in diesem Beruf bisher
 Erwerbstätigen vorgeschrieben ist.
 
-
 ###### § 68
 
 (1) Verfolgte sind bei der Vergabe von öffentlichen Aufträgen
@@ -1816,7 +1698,6 @@ maßgeblich beteiligt sind.
 Aufträgen entfällt, wenn der Verfolgte in das wirtschaftliche und
 soziale Leben in einem seinen früheren wirtschaftlichen und sozialen
 Verhältnissen entsprechenden Maße eingegliedert ist.
-
 
 ###### § 69
 
@@ -1836,7 +1717,6 @@ Erwerbstätigkeit benötigt.
 
 (3) Der Höchstbetrag des Darlehens beträgt 30.000 Deutsche Mark.
 
-
 ###### § 70
 
 (1) Hat der Verfolgte bei Beginn der Verfolgung mehrere selbständige
@@ -1845,7 +1725,6 @@ Darlehen zur Wiederaufnahme jeder früheren Erwerbstätigkeit zu.
 
 (2) Der Gesamtbetrag mehrerer Darlehen darf den Höchstbetrag des § 69
 Abs. 3 nicht übersteigen.
-
 
 ###### § 71
 
@@ -1877,10 +1756,6 @@ abzuschließen:
     Verhältnissen des Darlehnsnehmers liegenden wichtigen Grund fristlos
     gekündigt werden.
 
-
-
-
-
 ###### § 72
 
 (1) Muß der Verfolgte seine frühere oder eine gleichwertige
@@ -1907,7 +1782,6 @@ Deutsche Mark.
 (4) § 71 gilt sinngemäß mit der Maßgabe, daß das zusätzliche Darlehen
 stets zinslos zu gewähren ist.
 
-
 ###### § 73
 
 (1) § 69 Abs. 1 und 2, §§ 70, 71, 72 Abs. 1, 2 und 4 finden auf den
@@ -1920,14 +1794,12 @@ beabsichtigen.
 die in § 69 Abs. 3, § 72 Abs. 3 genannten Höchstbeträge nicht
 übersteigen.
 
-
 ###### § 74
 
 Der Verfolgte hat für die Zeit der Verdrängung aus oder der
 wesentlichen Beschränkung in seiner selbständigen Erwerbstätigkeit
 Anspruch auf Entschädigung. Die Entschädigung besteht in einer
 Kapitalentschädigung oder in einer Rente.
-
 
 ###### § 75
 
@@ -1964,7 +1836,6 @@ oder Beschränkung eingetretenen Einkommensverlust erhalten oder ist
 ihm ein solcher Anspruch durch unanfechtbaren Bescheid, rechtskräftige
 gerichtliche Entscheidung oder Vergleich zuerkannt worden, so entfällt
 insoweit der Anspruch auf Kapitalentschädigung.
-
 
 ###### § 76
 
@@ -2011,7 +1882,6 @@ gleiche gilt für einzelne Zeitabschnitte, während deren der Verfolgte
 aus seiner Erwerbstätigkeit verdrängt oder in ihrer Ausübung
 wesentlich beschränkt war.
 
-
 ###### § 77
 
 Von dem nach § 76 Abs. 1, 3 und 4 errechneten Betrag ist das während
@@ -2022,7 +1892,6 @@ eines vergleichbaren Bundesbeamten übersteigt. § 76 Abs. 2 Satz 2
 findet Anwendung. Dabei ist Einkommen, das vor dem 1. Juli 1948
 erzielt worden ist, nicht zu berücksichtigen.
 
-
 ###### § 78
 
 Die Kapitalentschädigung wird nach vollen Monaten berechnet. Zugrunde
@@ -2031,7 +1900,6 @@ seiner Erwerbstätigkeit verdrängt oder in ihrer Ausübung wesentlich
 beschränkt war, sowie je 30 Tage der Monate, in denen der Verfolgte
 nur zeitweise aus seiner Erwerbstätigkeit verdrängt oder in ihrer
 Ausübung wesentlich beschränkt war.
-
 
 ###### § 79
 
@@ -2043,7 +1911,6 @@ wenn der Verfolgte das 70. Lebensjahr vollendet hat.
 (2) Absatz 1 gilt nicht, wenn die Arbeitsunfähigkeit in Höhe von
 mindestens 50 vom Hundert verfolgungsbedingt ist.
 
-
 ###### § 80
 
 Bestehen nach Festsetzung oder nach rechtskräftiger gerichtlicher
@@ -2053,13 +1920,11 @@ Kapitalentschädigung nach § 76 zugrunde gelegte Jahresbetrag in
 monatlichen Teilbeträgen solange weitergezahlt, bis der Höchstbetrag
 der Kapitalentschädigung (§ 123) erreicht ist.
 
-
 ###### § 81
 
 Der Verfolgte kann an Stelle der Kapitalentschädigung eine Rente
 wählen. Die Rente wird ohne Rücksicht auf die Höhe der
 Kapitalentschädigung auf Lebenszeit geleistet.
-
 
 ###### § 82
 
@@ -2077,7 +1942,6 @@ Lebensjahr.
 (3) Der Ausübung einer Erwerbstätigkeit, die dem Verfolgten eine
 ausreichende Lebensgrundlage bietet, ist eine Versorgung aus einer
 früher ausgeübten Erwerbstätigkeit gleichzuachten.
-
 
 ###### § 83
 
@@ -2131,7 +1995,6 @@ dieses Gesetzes auszugehen ist.
 dem 1. November 1953 eine Entschädigung in Höhe der Rentenbezüge eines
 Jahres.
 
-
 ###### § 84
 
 Das Wahlrecht nach § 81 ist bis zum Ablauf einer Frist von drei
@@ -2142,7 +2005,6 @@ dem Tage, an dem der Bescheid der Entschädigungsbehörde unanfechtbar
 oder die gerichtliche Entscheidung rechtskräftig geworden ist. Die
 Wahl ist endgültig.
 
-
 ###### § 84a
 
 Sind auf den Anspruch des Verfolgten wegen Schadens im beruflichen
@@ -2151,7 +2013,6 @@ rechtskräftiger gerichtlicher Zuerkennung der Rente bereits Leistungen
 bewirkt worden, so sind diese auf die Entschädigung für die Zeit vor
 dem 1. November 1953 und auf die Rente voll anzurechnen; sie können
 auch auf andere Ansprüche angerechnet oder zurückgefordert werden.
-
 
 ###### § 85
 
@@ -2181,7 +2042,6 @@ zueinander stehen.
 (4) Absätze 1 bis 3 gelten sinngemäß für den Witwer unter den
 Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
-
 ###### § 85a
 
 (1) Ist der Verfolgte nach Ausübung des Wahlrechts, aber vor
@@ -2203,7 +2063,6 @@ Rente voll anzurechnen. Dies gilt auch dann, wenn diese Leistungen an
 einen Dritten bewirkt worden sind. Bei der Anrechnung auf die laufende
 Rente soll der anzurechnende Betrag derart verteilt werden, daß dem
 Berechtigten drei Viertel des Monatsbetrages der Rente verbleiben.
-
 
 ###### § 86
 
@@ -2249,14 +2108,9 @@ Viertel des Monatsbetrages der Rente verbleiben.
 (7) Absätze 1 bis 6 gelten sinngemäß für den Witwer unter den
 Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
-
 ##### 3. - Unselbständige Berufe
 
-
-
 ###### A. - Privater Dienst
-
-
 
 ###### § 87
 
@@ -2269,7 +2123,6 @@ ist.
 liegt in der Regel vor, wenn die Versetzung in der Gesamtzeit der
 Schädigung zu einer Einkommensminderung von mehr als 25 vom Hundert
 geführt hat.
-
 
 ###### § 88
 
@@ -2312,10 +2165,6 @@ geführt hat.
     Verfolgungsgründen des § 1 von der allgemeinen Übernahme in den Dienst
     dieses Verbandes ausgeschlossen geblieben ist.
 
-
-
-
-
 ###### § 89
 
 (1) Der Verfolgte hat Anspruch auf Einräumung seines früheren oder
@@ -2351,14 +2200,12 @@ gleichwertigen Arbeitsplatzes durch unanfechtbaren Bescheid oder durch
 rechtskräftige gerichtliche Entscheidung festgestellt, so gilt das
 Arbeitsverhältnis als wiederhergestellt.
 
-
 ###### § 89a
 
 Verfolgte, die ohne ihr Verschulden eine ständige Tätigkeit in dem
 bisherigen oder angestrebten Beruf noch nicht aufgenommen haben,
 sollen von den Agenturen für Arbeit bevorzugt in freie Arbeitsstellen
 vermittelt werden.
-
 
 ###### § 90
 
@@ -2367,12 +2214,10 @@ weist er nach, daß er die Voraussetzungen für die erfolgreiche
 Aufnahme einer solchen Tätigkeit erfüllt, so finden §§ 69, 71
 entsprechende Anwendung. § 72 gilt sinngemäß.
 
-
 ###### § 90a
 
 Hat der Verfolgte eine selbständige Erwerbstätigkeit aufgenommen, so
 findet § 68 entsprechende Anwendung.
-
 
 ###### § 91
 
@@ -2381,7 +2226,6 @@ durch Entlassung, vorzeitiges Ausscheiden oder durch Versetzung in
 eine erheblich geringer entlohnte Beschäftigung entstanden ist. Die
 Entschädigung besteht in einer Kapitalentschädigung oder in einer
 Rente.
-
 
 ###### § 92
 
@@ -2403,7 +2247,6 @@ Leistungen anzurechnen sind, die der Verfolgte aus einer vor der
 Verfolgung ausgeübten Tätigkeit im privaten Dienst von einem früheren
 Arbeitgeber oder dessen Rechtsnachfolger erhalten hat oder erhält.
 
-
 ###### § 93
 
 Der Verfolgte kann an Stelle der Kapitalentschädigung eine Rente
@@ -2411,14 +2254,12 @@ wählen. Bei Bemessung der Rente sind das Lebensalter des Verfolgten
 und die ihm nach § 92 zustehende Kapitalentschädigung angemessen zu
 berücksichtigen.
 
-
 ###### § 94
 
 Voraussetzung für das Wahlrecht nach § 93 ist, daß der Verfolgte im
 Zeitpunkt der Entscheidung das 65. Lebensjahr vollendet hat oder in
 seinem Beruf nicht mehr als 50 vom Hundert arbeitsfähig ist; bei
 Frauen tritt an Stelle des 65. das 60. Lebensjahr.
-
 
 ###### § 95
 
@@ -2479,7 +2320,6 @@ Mark auf 100 Deutsche Mark und der Betrag von 30 Deutsche Mark auf 40
 Deutsche Mark. Der Verfolgte erhält jedoch mindestens den Betrag der
 nach § 93 errechneten Rente.
 
-
 ###### § 96
 
 (1) Das Wahlrecht nach § 93 ist bis zum Ablauf einer Frist von drei
@@ -2491,7 +2331,6 @@ oder die gerichtliche Entscheidung rechtskräftig geworden ist. Die
 Wahl ist endgültig.
 
 (2) § 84a findet entsprechende Anwendung.
-
 
 ###### § 97
 
@@ -2509,7 +2348,6 @@ Betrag als der Mindestbetrag der Rente des Verfolgten, so werden die
 einzelnen Mindestbeträge der Renten in dem Verhältnis gekürzt, in dem
 sie ihrer Höhe nach zueinander stehen.
 
-
 ###### § 97a
 
 Ist der Verfolgte nach Ausübung des Wahlrechts, aber vor Festsetzung
@@ -2517,20 +2355,14 @@ oder rechtskräftiger gerichtlicher Zuerkennung der Rente verstorben,
 so findet § 85a entsprechende Anwendung. Die Rente ist nach § 97 zu
 berechnen.
 
-
 ###### § 98
 
 Ist der Verfolgte vor Ausübung des Wahlrechtes verstorben, so findet §
 86 entsprechende Anwendung. Die Rente ist nach § 97 zu berechnen.
 
-
 ###### B. - Öffentlicher Dienst
 
-
-
 ###### a) - Gemeinsame Vorschriften
-
-
 
 ###### § 99
 
@@ -2615,7 +2447,6 @@ außerplanmäßiger Beamter.
 
 (3) §§ 1 bis 14, 64 finden Anwendung.
 
-
 ###### § 100
 
 Anspruch auf Entschädigung besteht nicht, wenn eine gleiche Maßnahme
@@ -2624,7 +2455,6 @@ nationalsozialistischen Gewaltmaßnahmen im Zusammenhang stehen, nach
 heutiger Rechtsauffassung gerechtfertigt gewesen wäre. Die
 Verheiratung einer verfolgten Angehörigen des öffentlichen Dienstes
 ist kein beamten- oder tarifrechtlicher Grund im Sinne des Satzes 1.
-
 
 ###### § 101
 
@@ -2635,10 +2465,7 @@ Anwendung. Der Aufhebung des Urteils steht die Beseitigung der
 beamten- oder versorgungsrechtlichen Folgen des Urteils im Gnadenwege
 gleich.
 
-
 ###### b) - Beamte
-
-
 
 ###### § 102
 
@@ -2685,14 +2512,12 @@ außerplanmäßiger Beamter (§ 99 Abs. 2 Satz 2).
 
 (5) § 75 Abs. 1 und 2 findet entsprechende Anwendung.
 
-
 ###### § 103
 
 Ruhestandsbeamte, Witwen und Waisen, denen Versorgungsbezüge ganz oder
 teilweise vorenthalten worden sind (§ 99 Abs. 1 Nr. 2), haben Anspruch
 auf eine Kapitalentschädigung in Höhe der entgangenen
 Versorgungsbezüge.
-
 
 ###### § 104
 
@@ -2709,7 +2534,6 @@ den §§ 102, 103 zugestanden hätte.
 Voraussetzungen des § 4 erfüllt. Im übrigen finden §§ 5 bis 14
 entsprechende Anwendung.
 
-
 ###### § 105
 
 Bei einem Beamten oder Versorgungsempfänger, der auf Grund mehrerer
@@ -2721,7 +2545,6 @@ Rechtsstellung wiederverwendet, so bemißt sich die
 Kapitalentschädigung für die Folgezeit nach dem letzten
 Dienstverhältnis.
 
-
 ###### § 106
 
 Für die Bemessung der Entschädigung nach §§ 102 bis 105 sind die
@@ -2729,7 +2552,6 @@ Vorschriften des für die Bundesbeamten am 1. April 1951 geltenden
 Besoldungs- und Versorgungsrechts anzuwenden. Dabei sind die
 Dienstbezüge, soweit sie ruhegehaltfähig wären, und die
 Kinderzuschläge zugrunde zu legen.
-
 
 ###### § 107
 
@@ -2766,10 +2588,7 @@ und den in Absatz 1 genannten Leistungen
 nicht übersteigt. Dabei ist Einkommen, das vor dem 1. Juli 1948
 erzielt worden ist, nicht zu berücksichtigen.
 
-
 ###### c) - Berufssoldaten
-
-
 
 ###### § 108
 
@@ -2793,10 +2612,7 @@ Dienstes.
 Wehrgesetzes vom 21. Mai 1935 (Reichsgesetzbl. I S. 609), die
 Reichswehr und die alte Wehrmacht (Heer, Marine, Schutztruppe).
 
-
 ###### d) - Angestellte und Arbeiter
-
-
 
 ###### § 109
 
@@ -2805,7 +2621,6 @@ Reichswehr und die alte Wehrmacht (Heer, Marine, Schutztruppe).
 Versorgung nach beamtenrechtlichen Grundsätzen oder auf Ruhelohn
 hatten oder die einen solchen Anspruch ohne die Schädigung erlangt
 haben würden, sowie auf ihre Hinterbliebenen entsprechende Anwendung.
-
 
 ###### § 110
 
@@ -2823,10 +2638,7 @@ jedoch bis zu dem Zeitpunkt, von dem an sie laufende Bezüge nach § 21a
 des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen
 Unrechts für Angehörige des öffentlichen Dienstes erhalten.
 
-
 ###### e) - Nichtbeamtete außerordentliche Professoren und Privatdozenten an den wissenschaftlichen Hochschulen
-
-
 
 ###### § 111
 
@@ -2841,10 +2653,7 @@ gewesen wäre.
 
 (2) §§ 104 bis 107 finden entsprechende Anwendung.
 
-
 ###### C. - Dienst bei Religionsgesellschaften
-
-
 
 ###### § 112
 
@@ -2858,10 +2667,7 @@ Grund des Gesetzes zur Regelung der Wiedergutmachung
 nationalsozialistischen Unrechts für Angehörige des öffentlichen
 Dienstes gezahlt werden.
 
-
 ##### 4. - Schädigung in selbständiger und unselbständiger Erwerbstätigkeit
-
-
 
 ###### § 113
 
@@ -2881,10 +2687,7 @@ seiner unselbständigen Erwerbstätigkeit annähernd gleich gewesen, so
 ist sein Anspruch auf Kapitalentschädigung oder auf Rente wie der
 eines nur selbständig Erwerbstätigen zu behandeln.
 
-
 ##### 5. - Nichtaufnahme einer Erwerbstätigkeit trotz abgeschlossener Berufsausbildung
-
-
 
 ###### § 114
 
@@ -2914,7 +2717,6 @@ mutmaßlichen Einkommen.
 seine Hinterbliebenen eine Entschädigung nach § 102 Abs. 4 Satz 2, §§
 104 bis 107 erhalten.
 
-
 ###### § 114a
 
 (1) § 114 Abs. 1 findet entsprechende Anwendung, wenn dem Verfolgten,
@@ -2930,10 +2732,7 @@ erstrebten Beruf hätte aufnehmen können.
 
 (3) § 114 Abs. 4 und 5 findet entsprechende Anwendung.
 
-
 ##### 6. - Schaden in der Ausbildung
-
-
 
 ###### § 115
 
@@ -2944,12 +2743,10 @@ Ausbildung oder durch deren erzwungene Unterbrechung erlitten hat.
 
 (2) § 67 Abs. 1, 3 und 4 gilt sinngemäß.
 
-
 ###### § 116
 
 Der Verfolgte hat Anspruch auf eine Kapitalentschädigung in Höhe von
 10\.000 Deutsche Mark.
-
 
 ###### § 117
 
@@ -2959,11 +2756,9 @@ Anspruch auf ein Darlehen. § 69 Abs. 1 und 2 gilt sinngemäß.
 (2) Der Höchstbetrag des Darlehens beträgt 10.000 Deutsche Mark. § 71
 findet entsprechende Anwendung.
 
-
 ###### § 118
 
 -
-
 
 ###### § 119
 
@@ -2989,19 +2784,13 @@ anderen Gesetzen wegen eines erlittenen Schadens für seine Ausbildung
 aus deutschen öffentlichen Mitteln erhalten hat. § 10 bleibt
 unberührt.
 
-
 ##### 7. - Zusammentreffen von Ansprüchen auf Entschädigung für Schaden im beruflichen Fortkommen mit Ansprüchen auf Entschädigung für Schaden an Leben, Körper oder Gesundheit
-
-
 
 ###### (XXXX) §§ 120 - 122 (weggefallen)
 
 -
 
-
 ##### 7. - Höchstbetrag der Kapitalentschädigung
-
-
 
 ###### § 123
 
@@ -3014,7 +2803,6 @@ sowie die Entschädigung nach § 19 des Gesetzes zur Regelung der
 Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des
 öffentlichen Dienstes sind in den Höchstbetrag einzurechnen.
 
-
 ###### § 124
 
 Soweit nach §§ 99 bis 109, 111 ein versorgungsberechtigter
@@ -3024,17 +2812,13 @@ versorgungsrechtlichen Vorschriften die Hinterbliebenenbezüge zu dem
 Ruhegehalt oder Ruhelohn des verstorbenen Angehörigen des öffentlichen
 Dienstes stehen.
 
-
 ###### § 125
 
 Der Höchstbetrag des § 123 gilt auch dann, wenn Kapitalentschädigungen
 nach §§ 99 bis 109, 111 aus einem Dienstverhältnis zugunsten mehrerer
 Berechtigter zu zahlen sind.
 
-
 ##### 8. - Zusammentreffen mit Ansprüchen nach den Rechtsvorschriften zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes
-
-
 
 ###### § 125a
 
@@ -3047,10 +2831,7 @@ Dienstes, so steht ihm der Anspruch auf Rente für Schaden im
 beruflichen Fortkommen nur insoweit zu, als dieser den Anspruch auf
 Wiedergutmachung nach den genannten Rechtsvorschriften übersteigt.
 
-
 ##### 9. - Ermächtigung der Bundesregierung zum Erlaß von Rechtsverordnungen
-
-
 
 ###### § 126
 
@@ -3085,14 +2866,9 @@ der in §§ 93 bis 98 bezeichneten Renten treffen.
 angemessen zu erhöhen, wenn sich die Dienst- und Versorgungsbezüge der
 Bundesbeamten auf Grund gesetzlicher Vorschriften erhöhen.
 
-
 #### III. - Schaden im wirtschaftlichen Fortkommen
 
-
-
 ##### 1. - Schaden an einer Versicherung außerhalb der Sozialversicherung
-
-
 
 ###### § 127
 
@@ -3112,7 +2888,6 @@ gesetzlichen Erbfolge zu den Erben der ersten oder zweiten Ordnung
 gehören würde. Es genügt, daß der Bezugsberechtigte die
 Voraussetzungen des § 4 erfüllt. Im übrigen finden die §§ 5 bis 14
 entsprechende Anwendung.
-
 
 ###### § 128
 
@@ -3153,7 +2928,6 @@ Mark umzurechnen. Leistungen des Versicherers werden auf die
 Kapitalentschädigung mit der Maßgabe angerechnet, daß
 Reichsmarkbeträge im Verhältnis 10:1 in Deutsche Mark umgerechnet
 werden.
-
 
 ###### § 129
 
@@ -3200,7 +2974,6 @@ kapitalisierten Betrag abzugelten.
 waren und seit Eintritt des Versicherungsfalles rückständig sind,
 werden in einer Summe unverzinst nachgezahlt.
 
-
 ###### § 130
 
 (1) Stehen dem Berechtigten nach den Rechtsvorschriften zur
@@ -3223,7 +2996,6 @@ Verrechnung nach Regelung der rückerstattungsrechtlichen
 Geldverbindlichkeiten des Deutschen Reiches und gleichgestellter
 Rechtsträger gewährt worden sind.
 
-
 ###### § 131
 
 Hat der Versicherer fällige Ansprüche im Zuge der Verfolgung nicht
@@ -3234,12 +3006,10 @@ soweit die Verfolgung dazu geführt hat, daß er die Erfüllung eines
 Anspruchs auf eine Kapital- oder eine Rentenleistung durch den
 Versicherer nicht mehr erlangen kann.
 
-
 ###### § 132
 
 Für Schäden an anderen als den in §§ 127 bis 129 behandelten
 Versicherungen wird keine Entschädigung nach diesem Gesetz geleistet.
-
 
 ###### § 133
 
@@ -3252,10 +3022,7 @@ Versicherungen geschädigt worden ist.
 (2) Der Kapitalwert der Rente ist unter entsprechender Anwendung des
 Bewertungsgesetzes zu errechnen.
 
-
 ##### 2. - Versorgungsschäden
-
-
 
 ###### § 134
 
@@ -3271,7 +3038,6 @@ nationalsozialistischen Gewaltmaßnahme keine oder nur eine gekürzte
 Versorgung erhalten hat oder erhält. Es genügt, daß der Hinterbliebene
 die Voraussetzungen des § 4 erfüllt. Im übrigen finden §§ 5 bis 14
 entsprechende Anwendung.
-
 
 ###### § 135
 
@@ -3304,7 +3070,6 @@ selbständigen und unselbständigen Erwerbstätigkeit geschädigt worden
 ist, aber als selbständig Erwerbstätiger entschädigt wird; das gleiche
 gilt für die Hinterbliebenen eines solchen Verfolgten.
 
-
 ###### § 136
 
 (1) Als Entschädigung erhält der Berechtigte die Leistungen, die ihm
@@ -3320,7 +3085,6 @@ Rentenbezüge eines Jahres.
 dem Bewertungsgesetz zu kapitalisieren; sie sind mit dem
 kapitalisierten Betrage abzugelten.
 
-
 ###### § 137
 
 (1) Die Entschädigung nach §§ 134 bis 136 darf für den einzelnen
@@ -3330,10 +3094,7 @@ Mark nicht übersteigen.
 (2) Der Kapitalwert der Rente ist unter entsprechender Anwendung des
 Bewertungsgesetzes zu errechnen.
 
-
 ##### 3. - Schaden in der Sozialversicherung
-
-
 
 ###### § 138
 
@@ -3346,10 +3107,7 @@ der Sozialversicherung;              befristete Anträge nach diesen
 Rechtsvorschriften können bis zum Ablauf des 30. September 1966
 gestellt werden.
 
-
 ##### 4. - Schaden in der Kriegsopferversorgung
-
-
 
 ###### § 139
 
@@ -3360,10 +3118,7 @@ nationalsozialistischen Unrechts in der Kriegsopferversorgung und nach
 dem Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in
 der Kriegsopferversorgung für Berechtigte im Ausland.
 
-
 #### IV. - Gemeinsame Vorschriften über Vererblichkeit und Übertragbarkeit
-
-
 
 ##### § 140
 
@@ -3389,10 +3144,7 @@ Anwendung.
 (5) Der Anspruch auf Darlehen und der Anspruch auf Beihilfe für
 Schaden in der Ausbildung sind weder übertragbar noch vererblich.
 
-
 ### Achter Titel - Soforthilfe für Rückwanderer
-
-
 
 #### § 141
 
@@ -3453,10 +3205,7 @@ Verfolgten ein Anspruch auf Soforthilfe nach Absatz 1 oder 3 zusteht.
 rechtskräftiger gerichtlicher Entscheidung weder übertragbar noch
 vererblich.
 
-
 ### Neunter Titel - Krankenversorgung
-
-
 
 #### § 141a
 
@@ -3498,11 +3247,9 @@ sinngemäß.
 (4) Der Anspruch nach den Absätzen 1 und 2 ist weder übertragbar noch
 vererblich.
 
-
 #### § 141b
 
 -
-
 
 #### § 141c
 
@@ -3552,14 +3299,9 @@ für Krankenversorgung gemacht hat und sich nachträglich ergibt, daß
 die Krankenversorgung nicht für das verfolgungsbedingte Leiden
 erforderlich war. § 141a Abs. 4 findet entsprechende Anwendung.
 
-
 ### Zehnter Titel - Zusammentreffen von Ansprüchen auf Entschädigung für Schaden an Leben, Schaden an Körper oder Gesundheit und Schaden im beruflichen Fortkommen
 
-
-
 #### 1. - Zusammentreffen von zwei Ansprüchen
-
-
 
 ##### § 141d
 
@@ -3588,7 +3330,6 @@ Entschädigung für Schaden an Leben Anspruch auf Rente für Schaden im
 beruflichen Fortkommen nach §§ 85, 85a, 86 oder §§ 97, 97a, 98, so
 erhält er die höhere Rente in voller Höhe und 25 vom Hundert der
 niedrigeren Rente.
-
 
 ##### § 141e
 
@@ -3624,7 +3365,6 @@ Kapitalentschädigung oder Rente für Schaden an Körper oder Gesundheit
 zu verrechnen, die auf das dem Beginn der Rentenzahlung nach § 86 oder
 § 98 vorangehende Jahr entfällt.
 
-
 ##### § 141f
 
 Hat der Verfolgte Anspruch auf Rente für Schaden im beruflichen
@@ -3635,10 +3375,7 @@ Abs. 2 Satz 2 angerechnet. Insofern bleiben § 95 Abs. 3 und § 97 Abs.
 2 außer Betracht; dies gilt auch dann, wenn sich bei Anwendung des §
 85 Abs. 2 keine Kürzung der Rente ergibt.
 
-
 #### 2. - Zusammentreffen von drei Ansprüchen
-
-
 
 ##### § 141g
 
@@ -3650,7 +3387,6 @@ Fortkommen, so sind die letztgenannten Ansprüche nach Maßgabe des §
 beiden Ansprüche ist bei der Bemessung des Hundertsatzes der Rente für
 Schaden an Leben gemäß § 18 Abs. 2 zu berücksichtigen. Dies gilt
 sinngemäß für die Berechnung der Kapitalentschädigung gemäß § 25.
-
 
 ##### § 141h
 
@@ -3683,10 +3419,7 @@ entsprechend.
 (4) In den Fällen des Absatzes 1 bleibt § 85 Abs. 2 Satz 2 insoweit
 außer Betracht.
 
-
 #### 3. - Zusammentreffen von vier Ansprüchen
-
-
 
 ##### § 141i
 
@@ -3697,20 +3430,14 @@ Fortkommen nach §§ 85, 85a, 86 oder §§ 97, 97a, 98, so entfällt dieser
 Anspruch. Die erstgenannten Ansprüche sind nach Maßgabe des § 141g zu
 berechnen.
 
-
 #### 4. - Anwendbarkeit in den Fällen der §§ 41, 41a, 110, 112, 114 und 114a
-
-
 
 ##### § 141k
 
 In den Fällen der §§ 41, 41a, 110, 112, 114 und 114a finden die §§
 141d bis 141i entsprechende Anwendung.
 
-
 ## Dritter Abschnitt - Besondere Vorschriften für juristische Personen, Anstalten oder Personenvereinigungen
-
-
 
 ### § 142
 
@@ -3729,7 +3456,6 @@ tatsächlichen Betätigung als Zwecknachfolger anzusehen ist.
 Rechtsnachfolger im Sinne des Satzes 1 ist für Ansprüche nach § 51
 auch eine auf Grund rückerstattungsrechtlicher Vorschriften errichtete
 Nachfolgeorganisation.
-
 
 ### § 143
 
@@ -3756,7 +3482,6 @@ gehabt hat und wenn sich der Sitz oder der Ort der Verwaltung eines
 Rechts- oder Zwecknachfolgers am 31. Dezember 1952 im Geltungsbereich
 dieses Gesetzes befunden hat.
 
-
 ### § 144
 
 Der Anspruch auf Entschädigung besteht nicht, wenn mit
@@ -3765,7 +3490,6 @@ oder Personenvereinigung oder deren Rechts- oder Zwecknachfolger nach
 der jetzigen Verfassung, Zweckbestimmung, Zusammensetzung,
 organisatorischen Stellung oder tatsächlichen Betätigung nicht
 verfolgt worden wäre.
-
 
 ### § 145
 
@@ -3792,7 +3516,6 @@ werden.
 (3) Absätze 1 und 2 finden auf den Rechts- oder Zwecknachfolger einer
 juristischen Person, Anstalt oder Personenvereinigung Anwendung.
 
-
 ### § 146
 
 (1) Anspruch auf Entschädigung besteht nur für Schaden an Eigentum und
@@ -3817,7 +3540,6 @@ Gemeinschaft hierfür Entschädigung nach Satz 1 erhalten hat.
 (3) Für Ausfälle an Beiträgen, Spenden und ähnlichen Einnahmen wird
 eine Entschädigung nicht geleistet.
 
-
 ### § 147
 
 Hat eine juristische Person, Anstalt oder Personenvereinigung oder
@@ -3825,7 +3547,6 @@ deren Rechts- oder Zwecknachfolger nach den Rechtsvorschriften für die
 Übertragung von Organisationsvermögen Leistungen erhalten, so besteht
 der Anspruch auf Entschädigung nur insoweit, als der Schaden durch
 diese Leistungen nicht ausgeglichen ist.
-
 
 ### § 148
 
@@ -3854,7 +3575,6 @@ leisten. § 142 Abs. 2 Satz 2 findet keine Anwendung.
 
 (4) § 55 Abs. 2 findet entsprechende Anwendung.
 
-
 ### § 148a
 
 (1) Ist eine durch nationalsozialistische Gewaltmaßnahmen an ihrem
@@ -3872,14 +3592,9 @@ zum 31. Dezember 1965 zu stellen.
 von 10 Millionen Deutsche Mark gebildet, der vom Land Baden-
 Württemberg verwaltet wird.
 
-
 ## Vierter Abschnitt - Besondere Gruppen von Verfolgten
 
-
-
 ### Erster Titel - Grundsatz
-
-
 
 #### § 149
 
@@ -3889,10 +3604,7 @@ Hinterbliebenen solcher Verfolgten die Voraussetzungen des § 4 nicht,
 so haben sie einen nach Art und Umfang beschränkten Anspruch auf
 Entschädigung.
 
-
 ### Zweiter Titel - Verfolgte aus den Vertreibungsgebieten
-
-
 
 #### § 150
 
@@ -3916,18 +3628,15 @@ Entschädigung für Schaden an Leben. Der Anspruch besteht auch dann,
 wenn der Hinterbliebene zu dem in den Absätzen 1 und 2 bezeichneten
 Personenkreis gehört.
 
-
 #### § 151
 
 Die Entschädigung für Schaden an Körper oder Gesundheit wird nach
 Maßgabe der §§ 28 bis 40 geleistet.
 
-
 #### § 152
 
 Die Entschädigung für Schaden an Freiheit wird nach Maßgabe der §§ 43
 bis 50 geleistet.
-
 
 #### § 153
 
@@ -3947,7 +3656,6 @@ Verfolgten ist oder im Falle der gesetzlichen Erbfolge zu den Erben
 der ersten oder zweiten Ordnung gehören würde. § 13 Abs. 3 findet
 entsprechende Anwendung.
 
-
 #### § 154
 
 (1) Die Entschädigung für Schaden im beruflichen Fortkommen wird nach
@@ -3964,11 +3672,9 @@ Bundesvertriebenengesetzes genannten Gebiete endgültig verlassen hat.
 (3) Die Entschädigung besteht in einer Kapitalentschädigung oder in
 einer Rente.
 
-
 #### § 155
 
 Die Kapitalentschädigung beträgt 10.000 Deutsche Mark.
-
 
 #### § 156
 
@@ -3982,7 +3688,6 @@ Frauen tritt an Stelle des 65. das 60. Lebensjahr.
 
 (3) Der Monatsbetrag der Rente beträgt 200 Deutsche Mark, ab 1. Januar
 1961 250 Deutsche Mark.
-
 
 #### § 157
 
@@ -4006,7 +3711,6 @@ nach dem 29. Juni 1956 geschlossen worden ist.
 (4) Absätze 1 bis 3 gelten sinngemäß für den Witwer unter den
 Voraussetzungen des § 17 Abs. 1 Nr. 2.
 
-
 #### § 157a
 
 (1) Ist der Verfolgte nach Ausübung des Wahlrechts, aber vor
@@ -4027,20 +3731,17 @@ Fortkommen bereits Leistungen bewirkt worden, so sind diese auf die
 Rente voll anzurechnen. Dies gilt auch dann, wenn diese Leistungen an
 einen Dritten bewirkt worden sind.
 
-
 #### § 158
 
 Für die Vererblichkeit und Übertragbarkeit des Anspruchs auf
 Entschädigung nach §§ 154 bis 157a findet § 140 Abs. 1 bis 4
 entsprechende Anwendung.
 
-
 #### § 159
 
 Die Entschädigung für Schaden an Leben wird nach Maßgabe der §§ 15 bis
 26, 41 geleistet. Der Anspruch auf die Kapitalentschädigung besteht
 nur für die Zeit vom 1. Januar 1949 an.
-
 
 #### § 159a
 
@@ -4049,10 +3750,7 @@ wenn der Verfolgte nach dem 1. Januar 1945 und nach dem endgültigen
 Verlassen der in § 1 Abs. 2 Nr. 3 des Bundesvertriebenengesetzes
 genannten Gebiete verstorben ist.
 
-
 ### Dritter Titel - Staatenlose und Flüchtlinge im Sinne der Genfer Konvention
-
-
 
 #### § 160
 
@@ -4077,7 +3775,6 @@ gehört.
 (4) Soweit Ansprüche nach §§ 150 bis 159a bestehen, verbleibt es bei
 dieser Regelung.
 
-
 #### § 161
 
 Die Entschädigung für Schaden an Körper oder Gesundheit wird nach
@@ -4085,12 +3782,10 @@ Maßgabe der §§ 28, 29 Nr. 1 bis 3, §§ 30 bis 37, 39 geleistet. Der
 Anspruch auf die Kapitalentschädigung besteht nur für die Zeit vom 1.
 Januar 1949 an.
 
-
 #### § 162
 
 Die Entschädigung für Schaden an Freiheit wird nach Maßgabe der §§ 43
 bis 50 geleistet.
-
 
 #### § 163
 
@@ -4104,7 +3799,6 @@ vererblich. Der Anspruch auf die Summe der rückständigen Rentenbeträge
 und auf die Kapitalentschädigung ist vor Festsetzung oder vor
 rechtskräftiger gerichtlicher Entscheidung weder übertragbar noch
 vererblich.
-
 
 #### § 164
 
@@ -4120,7 +3814,6 @@ Staatsangehöriger eines Staates ist, der von der Bundesrepublik
 Deutschland Ersatz für Eingliederungskosten erhält, hat Anspruch auf
 Entschädigung für Schaden an Leben nach Maßgabe des § 163.
 
-
 #### § 165
 
 (1) Reicht die dem Verfolgten gewährte Entschädigung in Verbindung mit
@@ -4132,17 +3825,13 @@ Härteausgleich gewährt.
 gehört, für den Fonds mit besonderer Zweckbestimmung anderweitig
 vorgesehen sind.
 
-
 #### § 166
 
 §§ 160 bis 165 finden auf Staatenlose, die nach Artikel 1 F der Genfer
 Konvention von der Anerkennung als Flüchtlinge ausgeschlossen wären,
 keine Anwendung.
 
-
 ### Vierter Titel - Gemeinsame Vorschriften
-
-
 
 #### § 166a
 
@@ -4150,14 +3839,12 @@ Treffen Ansprüche auf Entschädigung für Schaden an Leben, Schaden an
 Körper oder Gesundheit und Schaden im beruflichen Fortkommen zusammen,
 so finden §§ 141d bis 141k entsprechende Anwendung.
 
-
 #### § 166b
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 Rentenbeträge nach § 156 Abs. 3, § 157 Abs. 2 angemessen zu erhöhen,
 wenn sich die Dienst- und Versorgungsbezüge der Bundesbeamten auf
 Grund gesetzlicher Vorschriften erhöhen.
-
 
 #### § 166c
 
@@ -4169,19 +3856,13 @@ Vertrages in der Form einer ausdrücklichen Beteiligung beiträgt, es
 sei denn, daß der Verfolgte diese Staatsangehörigkeit erst nach
 Beendigung der Verfolgung erworben hat.
 
-
 ## Fünfter Abschnitt -
-
-
 
 ### (XXXX) §§ 167 und 168 (weggefallen)
 
 -
 
-
 ## Sechster Abschnitt - Befriedigung der Entschädigungsansprüche
-
-
 
 ### § 169
 
@@ -4207,7 +3888,6 @@ ausgeschlossen.
 Antragsteller oder sein Bevollmächtigter die verspätete Zuerkennung
 des Anspruchs offensichtlich zu vertreten hat.
 
-
 ### § 169a
 
 In den Fällen des § 13 Abs. 3 kann die Entschädigungsbehörde die
@@ -4215,7 +3895,6 @@ Entschädigung an die nicht ausgeschlossenen Erben mit befreiender
 Wirkung auszahlen. Entsprechendes gilt in den Fällen des § 26 Abs. 2,
 § 39 Abs. 2, § 46 Abs. 2, §§ 50, 140 Abs. 1 und 3, § 153 Abs. 3 sowie
 der §§ 158, 161 und 162.
-
 
 ### § 170
 
@@ -4231,10 +3910,7 @@ bestehen.
 dies nicht möglich, so kann der Vorschuß auch auf andere Ansprüche
 angerechnet oder zurückgefordert werden.
 
-
 ## Siebenter Abschnitt - Härteausgleich
-
-
 
 ### § 171
 
@@ -4316,10 +3992,7 @@ Einrichtungen zugunsten von Verfolgten erforderlich erscheint. Dies
 gilt nicht für Organisationen oder karitativ tätige Stellen, für die
 Fonds mit besonderer Zweckbestimmung anderweitig vorgesehen sind.
 
-
 ## Achter Abschnitt - Verteilung der Entschädigungslast
-
-
 
 ### § 172
 
@@ -4356,14 +4029,9 @@ Rechtsverordnung.
 Überleitungsgesetzes vom 27. April 1955 (Bundesgesetzbl. I S. 189)
 gelten entsprechend.
 
-
 ## Neunter Abschnitt - Entschädigungsorgane und Verfahren
 
-
-
 ### Erster Titel - Entschädigungsorgane
-
-
 
 #### § 173
 
@@ -4373,10 +4041,6 @@ Entschädigungsorgane sind
 
 
 2.  die Entschädigungsgerichte.
-
-
-
-
 
 #### § 174
 
@@ -4388,13 +4052,7 @@ Das Entschädigungsverfahren gliedert sich in
 2.  das Verfahren vor den Entschädigungsgerichten, soweit das Verfahren
     bei den Entschädigungsbehörden keine Erledigung gefunden hat.
 
-
-
-
-
 ### Zweiter Titel - Gemeinsame Verfahrensvorschriften
-
-
 
 #### § 175
 
@@ -4420,7 +4078,6 @@ Krankenversorgung nach § 141a und über die Erstattungsansprüche nach §
 Krankenversicherung. Im übrigen bestimmt sich das Verfahren nach §§
 227a bis 227d.
 
-
 #### § 175a
 
 Hat eine Behörde, die für Ansprüche nach § 5 Abs. 1 zuständig ist,
@@ -4435,7 +4092,6 @@ Entschädigungsbehörde auf Verlangen des Antragstellers verpflichtet,
 einen neuen Bescheid über den Anspruch auf Entschädigung zu erlassen.
 Die Rechtskraft einer gerichtlichen Entscheidung steht dabei nicht
 entgegen.
-
 
 #### § 176
 
@@ -4453,11 +4109,9 @@ unauffindbar sind oder wenn die Vernehmung des Antragstellers oder
 eines Zeugen mit Schwierigkeiten verbunden ist, die in keinem
 Verhältnis zu der Bedeutung der Aussage stehen.
 
-
 #### § 177
 
 Vergleiche sind zulässig.
-
 
 #### § 177a
 
@@ -4466,7 +4120,6 @@ in seinem Bestand oder in seiner Höhe von Umständen abhängig ist,
 deren Eintritt noch ungewiß ist oder die sich in Zukunft ändern
 können.
 
-
 #### § 178
 
 Für die Anspruchsberechtigung nach diesem Gesetz oder nach
@@ -4474,7 +4127,6 @@ weitergehendem Landesrecht im Sinne des § 228 Abs. 2 ist eine auf
 Landesrecht beruhende Anerkennung als Verfolgter nicht erforderlich.
 Die Entscheidung der für die Anerkennung zuständigen Behörden ist für
 die Entschädigungsorgane nicht bindend.
-
 
 #### § 179
 
@@ -4485,7 +4137,6 @@ durchzuführen.
 oder durch Krankheit oder durch Gebrechen in ihrer Erwerbsfähigkeit um
 mindestens 50 vom Hundert gemindert sind, sollen mit Vorrang vor allen
 anderen Ansprüchen behandelt werden.
-
 
 #### § 180
 
@@ -4503,7 +4154,6 @@ Entschädigungsverfahren ein anderer Zeitpunkt als der des 8. Mai 1945
 festgestellt werden, wenn nach den Umständen des Einzelfalles, ohne
 daß es weiterer Ermittlungen bedarf, ein anderer Zeitpunkt des Todes
 wahrscheinlich ist.
-
 
 #### § 181
 
@@ -4526,7 +4176,6 @@ Feststellung maßgebend.
 einschließlich des vorausgegangenen Verfahrens ist gebühren- und
 auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
 
-
 #### § 182
 
 (1) Bei der Regelung der Ansprüche auf Entschädigung für Schaden an
@@ -4547,7 +4196,6 @@ zu erstatten, die das Bundesministerium für Wirtschaft und Technologie
 durch Rechtsverordnung festsetzt; das Bundesministerium für Wirtschaft
 und Technologie kann diese Ermächtigung weiter übertragen.
 
-
 #### § 183
 
 Personen, die im Ausland ihren Wohnsitz oder dauernden Aufenthalt
@@ -4559,10 +4207,7 @@ Entschädigungsbehörden und vor den Entschädigungsgerichten erster
 Instanz berechtigt. § 157 Abs. 2 der Zivilprozeßordnung findet keine
 Anwendung.
 
-
 ### Dritter Titel - Entschädigungsbehörden
-
-
 
 #### § 184
 
@@ -4575,7 +4220,6 @@ anzugleichen.
 
 (2) Die Entschädigungsbehörden müssen den Weisungen einer obersten
 Landesbehörde unterstehen.
-
 
 #### § 185
 
@@ -4705,14 +4349,12 @@ Stelle des verstorbenen Verfolgten der verstorbene Berechtigte.
 (8) Durch den dauernden Aufenthalt wird nur in Ermangelung eines
 Wohnsitzes eine örtliche Zuständigkeit begründet.
 
-
 #### § 186
 
 § 185 findet auf juristische Personen, Anstalten oder
 Personenvereinigungen oder deren Rechts- oder Zwecknachfolger mit der
 Maßgabe Anwendung, daß an die Stelle des Wohnsitzes der Sitz und an
 die Stelle des dauernden Aufenthaltes der Ort der Verwaltung tritt.
-
 
 #### § 187
 
@@ -4726,13 +4368,11 @@ zuständig wären.
 
 (3)
 
-
 #### § 188
 
 Der Anspruch auf Entschädigung ist gegen das Land, dessen
 Entschädigungsbehörden nach §§ 185, 186 zuständig sind, und im Falle
 des § 89 auch gegen den Arbeitgeber zu richten.
-
 
 #### § 189
 
@@ -4752,7 +4392,6 @@ ausdrücklich oder stillschweigend Wiedereinsetzung in den vorigen
 Stand gewährt, so sind die Entschädigungsgerichte an diese
 Entscheidung gebunden.
 
-
 #### § 189a
 
 (1) Ist ein Antrag auf Entschädigung nach § 189 rechtswirksam gestellt
@@ -4764,7 +4403,6 @@ angemeldet werden, als der Anspruch auf Tatsachen gestützt wird, die
 erst nach dem 31. Dezember 1964 eingetreten sind. In diesem Falle ist
 der Anspruch innerhalb eines Jahres nach Eintritt dieser Tatsachen
 anzumelden. § 189 Abs. 3 findet entsprechende Anwendung.
-
 
 #### § 189b
 
@@ -4778,7 +4416,6 @@ seinen Anspruch auf Entschädigung als Hinterbliebener.
 
 (2) Absatz 1 findet im Falle des § 189a Abs. 1 entsprechende
 Anwendung.
-
 
 #### § 190
 
@@ -4811,10 +4448,6 @@ Der Antrag soll enthalten
     Rechtsvorgänger vor der Entziehung gehörenden Vermögensgegenstandes
     anhängig gemacht worden ist.
 
-
-
-
-
 #### § 190a
 
 (1) Ist ein Antrag auf Entschädigung nach § 189 rechtswirksam, aber
@@ -4825,7 +4458,6 @@ bezeichneten Angaben bei Vermeidung des Ausschlusses bis zum 31. März
 
 (2) Absatz 1 findet in den Fällen der §§ 189a und 189b entsprechende
 Anwendung.
-
 
 #### § 191
 
@@ -4873,7 +4505,6 @@ Zivilprozeßordnung über den Beweis durch Parteivernehmung, über den
 Zeugenbeweis, über den Beweis durch Sachverständige und über das
 Verfahren bei der Abnahme von Eiden sinngemäß.
 
-
 #### § 192
 
 (1) Mit Einverständnis des Antragstellers kann die
@@ -4890,7 +4521,6 @@ Entschädigungsbehörde von privaten Ärzten, die den Verfolgten
 behandelt haben oder behandeln, Auskünfte einholen und
 Untersuchungsunterlagen zur Einsicht beiziehen.
 
-
 #### § 193
 
 (1) Der Antragsteller und sein Bevollmächtigter können die Akten der
@@ -4906,14 +4536,12 @@ Auszügen und Abschriften versagt werden.
 Versendung von Akten oder Aktenteilen in Gebiete außerhalb des
 Geltungsbereichs dieses Gesetzes findet nicht statt.
 
-
 #### § 194
 
 Die Entschädigungsbehörde hat dem nach § 89 in Anspruch genommenen
 Arbeitgeber eine beglaubigte Abschrift des Antrages zuzustellen und
 den Arbeitgeber vor der Entscheidung zu dem Anspruch, den Angaben des
 Antragstellers und dem Ergebnis der Ermittlungen zu hören.
-
 
 #### § 195
 
@@ -4948,10 +4576,6 @@ Teilbescheide sind zulässig.
 
 3.  die Entscheidungsgründe.
 
-
-
-
-
 #### § 196
 
 (1) Der Bescheid ist dem Antragsteller zuzustellen. Ist ein
@@ -4960,7 +4584,6 @@ Bevollmächtigter bestellt, so ist der Bescheid diesem zuzustellen.
 (2) In den Fällen der §§ 85a, 86 Abs. 2, §§ 97a, 98 und 157a ist der
 Bescheid der Witwe oder dem Witwer auch dann zuzustellen, wenn diese
 nicht Erben sind.
-
 
 #### § 197
 
@@ -4971,13 +4594,11 @@ Verwaltungszustellungsgesetzes.
 Gesetzes, so findet auch §§ 184 der Zivilprozeßordnung entsprechende
 Anwendung. Die Zustellung kann auch mit Postrückschein erfolgen.
 
-
 #### § 197a
 
 Als Zeitpunkt der Festsetzung im Sinne dieses Gesetzes gilt der Tag
 der Zustellung des Bescheids oder des Abschlusses des Vergleichs, in
 dem der Anspruch auf Entschädigung zuerkannt worden ist.
-
 
 #### § 198
 
@@ -4987,7 +4608,6 @@ Bescheid zu entscheiden.
 
 (2) Der Bescheid ist auch dem Arbeitgeber zuzustellen. § 197 Abs. 1
 findet Anwendung.
-
 
 #### § 199
 
@@ -5013,7 +4633,6 @@ worden ist, daß ein Rentenwahlrecht nicht besteht.
 (3) Absatz 1 findet keine Anwendung, wenn das Wahlrecht vor
 Entscheidung über den Anspruch bereits ausgeübt worden ist.
 
-
 #### § 200
 
 (1) Die Entschädigungsbehörde hat einen zugunsten des Antragstellers
@@ -5025,7 +4644,6 @@ vorliegt.
 Entschädigungsbehörden abgeschlossen worden sind, entsprechende
 Anwendung.
 
-
 #### § 201
 
 (1) Die Entschädigungsbehörde kann einen zugunsten des Antragstellers
@@ -5036,14 +4654,12 @@ herausstellt, daß ein Entziehungsgrund nach § 7 Abs. 2  vorliegt.
 Entschädigungsbehörden abgeschlossen worden sind, entsprechende
 Anwendung.
 
-
 #### § 202
 
 Ein Leistungsvorbehalt, der in einem zugunsten des Antragstellers
 ergangenen Bescheid enthalten ist, kann auch dann geltend gemacht
 werden, wenn die Voraussetzungen der §§ 200, 201 nicht vorliegen. Der
 Leistungsvorbehalt ist durch Widerruf geltend zu machen.
-
 
 #### § 203
 
@@ -5052,7 +4668,6 @@ Leistungsvorbehalt ist durch Widerruf geltend zu machen.
 (2) Die Widerrufsfrist beträgt sechs Monate. Sie beginnt mit dem Tage,
 an dem die Entschädigungsbehörde von dem Widerrufsgrund Kenntnis
 erlangt hat.
-
 
 #### § 204
 
@@ -5066,7 +4681,6 @@ Widerrufsbescheid auszusprechen.
 Entschädigungsbehörde in den Fällen der §§ 201, 202 von der
 Möglichkeit der Rückforderung bereits bewirkter Leistungen Gebrauch
 machen will.
-
 
 #### § 205
 
@@ -5083,7 +4697,6 @@ Entschädigungsbehörde erteilt.
 geltend gemacht werden (§ 767 der Zivilprozeßordnung), ist das
 Entschädigungsgericht erster Instanz zuständig, in dessen Bezirk die
 Entschädigungsbehörde ihren Sitz hat.
-
 
 #### § 206
 
@@ -5106,7 +4719,6 @@ worden sind, entsprechende Anwendung.
 (4) Absätze 1 bis 3 finden für den Anspruch auf Krankenversorgung nach
 § 141a entsprechende Anwendung.
 
-
 #### § 206a
 
 (1) In den Fällen der §§ 141d bis 141k kann die Entschädigungsbehörde
@@ -5123,7 +4735,6 @@ erhöhen oder mindern.
 Entschädigungsbehörden oder im gerichtlichen Verfahren abgeschlossen
 worden sind, entsprechende Anwendung.
 
-
 #### § 207
 
 (1) Verfahren bei den Entschädigungsbehörden sind gebühren- und
@@ -5138,10 +4749,7 @@ entsprechende Anwendung.
 (3) Personenstandsurkunden zur Vorlage bei den Entschädigungsbehörden
 sind gebühren- und auslagenfrei auszustellen.
 
-
 ### Vierter Titel - Entschädigungsgerichte
-
-
 
 #### § 208
 
@@ -5162,7 +4770,6 @@ Entschädigungssenate ist dem Wesen der Wiedergutmachung in geeigneter
 Weise Rechnung zu tragen. Der Vorsitzende oder einer der Beisitzer der
 Entschädigungskammer und der Entschädigungssenate soll dem Kreis der
 Verfolgten angehören.
-
 
 #### § 209
 
@@ -5190,7 +4797,6 @@ zuständige Entschädigungsbehörde ihren Sitz hat.
 
 (6) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
 
-
 #### § 210
 
 (1) Soweit durch den Bescheid der Entschädigungsbehörde der geltend
@@ -5204,7 +4810,6 @@ Stelle der Frist von drei Monaten eine Frist von sechs Monaten.
 
 (3) Die Fristen nach Absatz 1 und 2 sind Notfristen; sie beginnen mit
 der Zustellung des Bescheides.
-
 
 #### § 211
 
@@ -5221,7 +4826,6 @@ die oberste Entschädigungsbehörde des Landes ihren Sitz hat.
 (3) Im Falle des § 183 ist das Landgericht zuständig, in dessen Bezirk
 die Landesjustizverwaltung ihren Sitz hat.
 
-
 #### § 212
 
 (1) Ist ein Bescheid oder ein Vergleich nach §§ 200 bis 205
@@ -5235,7 +4839,6 @@ zuständigen Landgericht erheben.
 (3) Soweit der Bescheid die Verpflichtung zur Rückzahlung bereits
 bewirkter Leistungen enthält, findet § 707 der Zivilprozeßordnung
 entsprechende Anwendung.
-
 
 #### § 213
 
@@ -5257,7 +4860,6 @@ werden. Die Frist beginnt mit dem Tage, an dem die
 Entschädigungsbehörde von dem Verwirkungs- oder Entziehungsgrund
 Kenntnis erlangt hat.
 
-
 #### § 214
 
 (1) Ist durch Bescheid der Entschädigungsbehörde der Anspruch gegen
@@ -5272,7 +4874,6 @@ oder eines gleichwertigen Arbeitsplatzes verpflichtet ist.
 
 (3) Der Antragsteller ist verpflichtet, dem Land gerichtlich den
 Streit zu verkünden.
-
 
 #### § 215
 
@@ -5289,7 +4890,6 @@ früheren oder eines gleichwertigen Arbeitsplatzes besteht.
 (3) Der Antragsteller ist verpflichtet, dem Land gerichtlich den
 Streit zu verkünden.
 
-
 #### § 216
 
 Hat die Entschädigungsbehörde binnen einer Frist von einem Jahr seit
@@ -5297,12 +4897,10 @@ Eingang des Antrages ohne zureichenden Grund keine Entscheidung über
 den Anspruch getroffen, so kann der Antragsteller vor dem für den Sitz
 der Entschädigungsbehörde zuständigen Landgericht Klage erheben.
 
-
 #### § 217
 
 Die Gerichtsstände der §§ 210 bis 216 sind ausschließliche
 Gerichtsstände.
-
 
 #### § 218
 
@@ -5315,7 +4913,6 @@ einzulegen. Wohnt der Berufungskläger im außereuropäischen Ausland, so
 tritt für ihn an Stelle der Frist von drei Monaten eine Frist von
 sechs Monaten. Die Frist für die Begründung der Berufung beginnt mit
 dem Ablauf der Frist für die Einlegung der Berufung.
-
 
 #### § 219
 
@@ -5349,7 +4946,6 @@ zu befinden. Die Nichtzulassung ist zu begründen.
 (4) Für die Einlegung und Begründung der Revision gilt § 218 Abs. 2
 entsprechend.
 
-
 #### § 220
 
 (1) Die Nichtzulassung der Revision kann selbständig durch sofortige
@@ -5367,7 +4963,6 @@ innerhalb einer Frist von einem Monat einzulegen. Die Frist beginnt
 mit der Zustellung des Beschlusses, durch den die Revision zugelassen
 wird. Sie ist eine Notfrist.
 
-
 #### § 221
 
 (1) Ohne Zulassung findet die Revision statt, soweit es sich um die
@@ -5376,12 +4971,10 @@ handelt.
 
 (2) § 566 der Zivilprozeßordnung findet keine Anwendung.
 
-
 #### § 222
 
 Die Revision kann nicht darauf gestützt werden, daß die Entscheidung
 auf der Verletzung landesrechtlicher Vorschriften beruht.
-
 
 #### § 223
 
@@ -5392,7 +4985,6 @@ tritt für ihn an Stelle der Frist von drei Monaten eine Frist von
 sechs Monaten. Für die Frist zur Einlegung der Rechtsbeschwerde und
 die Frist zur Begründung der Rechtsbeschwerde gelten die Sätze 1 und 2
 entsprechend.
-
 
 #### § 224
 
@@ -5410,7 +5002,6 @@ niedergelassen ist.
 der Maßgabe, daß sich die Parteien auch durch einen nicht bei dem
 Bundesgerichtshof zugelassenen Rechtsanwalt vertreten lassen können.
 
-
 #### § 225
 
 (1) Verfahren vor den Entschädigungsgerichten sowie
@@ -5425,7 +5016,6 @@ des Gerichtskostengesetzes zu berechnen.
 
 (4) § 207 Abs. 3 findet entsprechende Anwendung.
 
-
 #### § 226
 
 Ist die Klage erhoben worden, weil die Entschädigungsbehörde ohne
@@ -5434,7 +5024,6 @@ Anspruch getroffen hat, so sind Auslagen, die dem Kläger durch
 Erfüllung einer Auflage des Entschädigungsgerichtes notwendig
 erwachsen sind, dem beklagten Land ohne Rücksicht auf den Ausgang des
 Verfahrens aufzuerlegen.
-
 
 #### § 227
 
@@ -5454,10 +5043,7 @@ anzuwenden.
 (4) Absätze 1 und 3 finden auf die Gebühren der in § 183 Abs. 1
 bezeichneten Personen entsprechende Anwendung.
 
-
 ### Fünfter Titel - Verfahrensvorschriften für den Anspruch auf Krankenversorgung
-
-
 
 #### § 227a
 
@@ -5480,7 +5066,6 @@ auf das nach § 185 zuständige Land über, als nach diesem Gesetz
 Krankenversorgung zu gewähren ist. Der Übergang des Anspruchs kann
 nicht zum Nachteil des Verfolgten geltend gemacht werden.
 
-
 #### § 227b
 
 (1) Die den Trägern der gesetzlichen Krankenversicherung auf Grund der
@@ -5497,7 +5082,6 @@ wegen zu Unrecht gewährten Kostenersatzes. Die Verjährung beginnt mit
 dem Ablauf des Jahres, in dem der Krankenkasse die Aufwendungen
 ersetzt worden sind.
 
-
 #### § 227c
 
 Ärztliche und zahnärztliche Leistungen werden nach den für die
@@ -5507,7 +5091,6 @@ Krankenbehandlung dienende Personen sowie Krankenanstalten und
 Einrichtungen haben nur auf die für Mitglieder der Krankenkasse zu
 zahlende Vergütung Anspruch.
 
-
 #### § 227d
 
 Das Bundesministerium für Gesundheit erläßt im Einvernehmen mit dem
@@ -5515,10 +5098,7 @@ Bundesministerium der Finanzen und mit Zustimmung des Bundesrates die
 erforderlichen Verwaltungsvorschriften über die Durchführung der
 Krankenversorgung und über das Verfahren auf Ersatz nach § 227b.
 
-
 ## Zehnter Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 228
 
@@ -5543,13 +5123,11 @@ Verwaltungsanordnungen und Erlassen auf die aufgehobenen Vorschriften
 verwiesen ist, treten an deren Stelle die entsprechenden Vorschriften
 dieses Gesetzes.
 
-
 ### § 229
 
 Bei Ansprüchen nach den Vorschriften der Länder über die Anerkennung
 und Betreuung der Verfolgten richtet sich die verfahrensmäßige
 Behandlung nach diesem Gesetz.
-
 
 ### § 230
 
@@ -5563,7 +5141,6 @@ diese Leistungen begründet.
 
 (2) Für Ansprüche auf Durchführung eines Heilverfahrens gilt Absatz 1
 sinngemäß.
-
 
 ### § 231
 
@@ -5580,7 +5157,6 @@ Anspruch nach bisher geltendem Recht durch unanfechtbaren Bescheid
 oder durch rechtskräftige gerichtliche Entscheidung abgewiesen worden
 ist.
 
-
 ### § 232
 
 (1) Ist bei Inkrafttreten dieses Gesetzes ein Antrag auf Entschädigung
@@ -5595,7 +5171,6 @@ in mehreren Ländern anhängig, deren Behörden nach §§ 185, 186
 zuständig sind, so sind für die Entscheidung über Ansprüche nach
 diesem Gesetz die Entschädigungsbehörden des Landes zuständig, die
 nach §§ 185, 186 in erster Linie zuständig sind.
-
 
 ### § 233
 
@@ -5612,10 +5187,6 @@ Länder gründen, sind zuständig,
     Entschädigungsbehörden des Landes, dessen Recht nach der Erklärung des
     Antragstellers angewandt werden soll; bei dieser Zuständigkeit behält
     es sein Bewenden.
-
-
-
-
 
 ### § 234
 
@@ -5638,7 +5209,6 @@ Anspruch nach den Vorschriften dieses Gesetzes festzusetzen.
 zuständige Entschädigungsbehörde; §§ 232, 233 finden entsprechende
 Anwendung.
 
-
 ### § 235
 
 (1) Ist die Entschädigung vor Inkrafttreten dieses Gesetzes durch
@@ -5648,7 +5218,6 @@ durch Erklärung gegenüber der zuständigen Entschädigungsbehörde
 anfechten.
 
 (2) § 234 Abs. 4 findet entsprechende Anwendung.
-
 
 ### § 236
 
@@ -5679,7 +5248,6 @@ eine entsprechende Entscheidung nach diesem Gesetz gegeben ist.
 Erledigung finden, bleiben Gebühren und Auslagen außer Ansatz.
 Außergerichtliche Kosten werden gegeneinander aufgehoben.
 
-
 ### § 237
 
 (1) In den Fällen der §§ 81, 85, 85a, 86, 93, 97, 97a, 98 wird das
@@ -5692,14 +5260,12 @@ ganz oder teilweise erhalten hat.
 Verfolgte erhalten hat, auf die Entschädigung für die Zeit vor dem 1.
 November 1953 und auf die Rente voll angerechnet.
 
-
 ### § 238
 
 Eine weitergehende Regelung der Entschädigung für Verfolgte, die eine
 örtliche Beziehung zu deutschen Gebieten außerhalb des
 Geltungsbereichs dieses Gesetzes haben, bleibt bis zur
 Wiedervereinigung Deutschlands vorbehalten.
-
 
 ### § 238a
 
@@ -5719,7 +5285,6 @@ Bundesrepublik zu den in Absatz 1 genannten Zeitpunkten keine
 diplomatischen Beziehungen unterhalten hat, behandelt werden, als ob
 mit ihnen diplomatische Beziehungen unterhalten worden wären.
 
-
 ### § 239
 
 Die Bundesregierung wird ermächtigt, mit Personengruppen, deren
@@ -5730,7 +5295,6 @@ Globalregelungen über die Gewährung von Leistungen im Wege des
 Härteausgleichs zu treffen. Der Achte und der Neunte Abschnitt dieses
 Gesetzes finden keine Anwendung.
 
-
 ### § 240
 
 (1) Dieses Gesetz gilt nach der Maßgabe des § 13 Abs. 1 des Dritten
@@ -5739,7 +5303,6 @@ im Land Berlin.
 
 (2) Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
-
 
 ### § 241
 

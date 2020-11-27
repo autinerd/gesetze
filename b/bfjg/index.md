@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3171
 
-
-
 ## § 1 Errichtung, Zweck und Sitz des Bundesamts
 
 (1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als
@@ -26,7 +24,6 @@ Bundesjustizverwaltung durch Schaffung einer zentralen
 Dienstleistungsbehörde.
 
 (2) Das Bundesamt hat seinen Sitz in Bonn.
-
 
 ## § 2 Aufgaben des Bundesamts
 
@@ -76,13 +73,11 @@ den Absätzen 1 und 2 genannten Gebieten zusammenhängen und mit deren
 Durchführung es vom Bundesministerium der Justiz oder mit dessen
 Zustimmung von der fachlich zuständigen Bundesbehörde beauftragt wird.
 
-
 ## § 3 Fachaufsicht
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als
 dem des Bundesministeriums der Justiz wahrnimmt, untersteht es der
 Fachaufsicht der zuständigen obersten Bundesbehörde.
-
 
 ## § 4 Übergangsbestimmungen
 

@@ -131,10 +131,6 @@ Diese Verordnung dient der Umsetzung folgender Richtlinien:
     von Bisphenol A in Säuglingsflaschen aus Kunststoff (ABl. L 26 vom
     29\.1.2011, S. 11).
 
-
-
-
-
 ## Eingangsformel
 
 Der Bundesminister für Gesundheit verordnet, jeweils in Verbindung mit
@@ -166,10 +162,6 @@ Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März
     Umwelt, Naturschutz und Reaktorsicherheit und für Ernährung,
     Landwirtschaft und Forsten:
 
-
-
-
-
 ## § 1 Gleichstellung
 
 Imprägnierungsmittel in Aerosolpackungen für Leder- und
@@ -177,7 +169,6 @@ Textilerzeugnisse, die für den häuslichen Bedarf bestimmt und nicht
 Erzeugnisse im Sinne des § 2 Abs. 6 Satz 1 Nr. 8 des Lebensmittel- und
 Futtermittelgesetzbuches sind, werden den Bedarfsgegenständen
 gleichgestellt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -334,13 +325,11 @@ Im Sinne dieser Verordnung sind
 
 [^F771076_02_BJNR008660992BJNE000307310]:     Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
 ## § 3 Verbotene Stoffe
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1
 aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht
 verwendet werden.
-
 
 ## § 4 Zugelassene Stoffe
 
@@ -486,12 +475,10 @@ und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom
 31\.12.2008, S. 1) als „erbgutverändernd“, „krebserregend“ oder
 „fortpflanzungsgefährdend“ eingestuft sind.
 
-
 ## § 5 Verbotene Verfahren
 
 Bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände
 dürfen die dort genannten Verfahren nicht angewendet werden.
-
 
 ## § 6 Höchstmengen
 
@@ -538,7 +525,6 @@ höchstzulässigen Restgehalt auch ein spezifischer Migrationsgrenzwert
 angegeben, so kann der höchstzulässige Restgehalt unberücksichtigt
 bleiben, wenn der spezifische Migrationsgrenzwert eingehalten ist.
 
-
 ## § 7 Verwendungsverbote
 
 (1) Lebensmittelbedarfsgegenstände, die den Anforderungen der §§ 4 bis
@@ -547,7 +533,6 @@ Behandeln von Lebensmitteln nicht verwendet werden.
 
 (2) Bedruckte Zellglasfolie darf gewerbsmäßig nur so verwendet werden,
 daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
-
 
 ## § 8 Übergang von Stoffen auf Lebensmittel
 
@@ -672,14 +657,12 @@ Höchstmengen nicht überschreiten.
 Zellglasfolien im Sinne des § 2 Nr. 2 Buchstabe c hinsichtlich der
 aufgebrachten Beschichtung entsprechend.
 
-
 ## § 9 Warnhinweise
 
 In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in
 den Verkehr gebracht werden, wenn die dort aufgeführten Warnhinweise
 an der dort genannten Stelle unverwischbar, deutlich sichtbar, leicht
 lesbar und in deutscher Sprache angegeben sind.
-
 
 ## § 10 Kennzeichnung, Nachweispflichten
 
@@ -754,7 +737,6 @@ und in deutscher Sprache angebracht sind.
 Artikel 15 Abs. 1 Buchstabe a und b der Verordnung (EG) Nr. 1935/2004
 in deutscher Sprache anzubringen.
 
-
 ## § 10a Kennzeichnung von Schuherzeugnissen
 
 (1) Schuherzeugnisse nach Anlage 11 Nr. 1 müssen von dem Hersteller
@@ -809,12 +791,10 @@ Obermaterials erfolgt unabhängig von Zubehör oder Verstärkungsteilen,
 wie Knöchelschützern, Randeinfassungen, Verzierungen, Schnallen,
 Laschen, Ösen oder ähnlichen Vorrichtungen.
 
-
 ## § 11 Untersuchungsverfahren
 
 Die in Anlage 10 genannten Untersuchungen sind nach den dort
 aufgeführten Untersuchungsverfahren durchzuführen.
-
 
 ## § 11a Ausnahmen für die Einfuhr
 
@@ -825,7 +805,6 @@ Futtermittelgesetzbuches oder des Artikels 14 Abs. 2 Buchstabe a der
 Verordnung (EG) Nr. 178/2002 die Verbote des § 30 des Lebensmittel-
 und Futtermittelgesetzbuches oder des Artikels 3 Abs. 1 Buchstabe a
 der Verordnung (EG) Nr. 1935/2004 treten.
-
 
 ## § 12 Straftaten und Ordnungswidrigkeiten
 
@@ -1039,29 +1018,19 @@ oder fahrlässig
     b)  entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht
         vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
-
-
-
-
-
-
-
 ## § 13 Unberührtheitsklausel
 
 Die Bestimmungen der auf das Chemikaliengesetz gestützten
 Rechtsverordnungen und der Verordnung über die Sicherheit von
 Spielzeug bleiben unberührt.
 
-
 ## § 14 (Aufhebung von Vorschriften)
 
 -
 
-
 ## § 15 (weggefallen)
 
 -
-
 
 ## § 16 Übergangsvorschriften
 
@@ -1208,16 +1177,13 @@ geltenden Fassung entsprechen, dürfen noch bis zum 28. Februar 2011
 hergestellt und bis zum 31. Mai 2011 eingeführt und in den Verkehr
 gebracht werden.
 
-
 ## § 17 (Inkrafttreten)
 
 -
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 3) Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
 
@@ -1614,10 +1580,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   2,4,4'-Trichlor-2'-hydroxydiphenylether
         CAS-Nr. 0003380-34-5
         PEM/REF-Nr. 93930
-
-
-
-
 
 ## Anlage 2 zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1 Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
 
@@ -2862,13 +2824,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         2)  Die angegebenen Prozentsätze beziehen sich auf das Gewicht und sind im
             Verhältnis zu der Menge an wasserfreier Zellglasfolie berechnet.
-
-
-
-
-
-
-
 
 ## Anlage 3 (zu § 4 Abs. 2 bis 4, § 6 Nr. 2 und § 8 Abs. 1, 1a und 1b) Stoffe und Erzeugnisse für die Herstellung von Lebensmittelbedarfsgegenständen
 
@@ -13857,10 +13812,6 @@ und Additiven**
         einem Massenanteil von mehr als 0,3 % enthält und mit fetten
         Lebensmitteln in Berührung kommt.
 
-
-
-
-
 ## Anlage 4 (zu § 5) Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 31;
@@ -13901,10 +13852,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Verfahren, die bewirken, dass in dem Bedarfsgegenstand Chrom(VI) mit
         der in Anlage 10 Nummer 8 beschriebenen Methode nachweisbar ist.
-
-
-
-
 
 ## Anlage 5 (zu § 6 Nr. 3) Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
 
@@ -13985,9 +13932,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
-
-
-
 ## Anlage 5a (zu § 6 Nr. 4) Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
 
    Fundstelle des (Originaltextes: BGBl. I 2000, 850;
@@ -14044,10 +13988,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Weniger als 0,2 myg Nickel/qcm/Woche, freigesetzt von den Stäben
         jedweder Form, die in durchstochene Ohren oder andere durchstochene
         Körperpartien eingeführt werden
-
-
-
-
 
 ## Anlage 6 (zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3) Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
 
@@ -14129,7 +14069,6 @@ Oberfläche des Deckels werden unter den gleichen Bedingungen getrennt
 geprüft. Die Summe der beiden so festgestellten Werte wird je nach
 Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
-
 ## Anlage 7 (zu § 9) Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
 
 (Fundstelle des Originaltextes: BGBl. 1998, 32; bzgl. der einzelnen
@@ -14183,13 +14122,9 @@ Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
     *
     *
 
-
-
-
 ## Anlage 8 (weggefallen)
 
    -
-
 
 ## Anlage 9 (zu § 10 Abs. 3) Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
 
@@ -14243,10 +14178,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem
         Bedarfsgegenstand oder seiner Verpackung befindet
-
-
-
-
 
 ## Anlage 10 (zu § 11) Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
 
@@ -14395,10 +14326,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 3)  (weggefallen)
 
-
-
-
-
 ## Anlage 11 (zu § 10a)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 35 - 36;
@@ -14546,10 +14473,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Sonstiges Material
 
-
-
-
-
 ## Anlage 12 (zu § 10 Abs. 1 Satz 2) Angaben in der schriftlichen Erklärung nach
 
 
@@ -14622,7 +14545,6 @@ oder die sie sich bezieht, unmittelbar zugeordnet werden können und
 ist erneut abzugeben, wenn wesentliche Änderungen in der Produktion
 Veränderungen bei der Migration bewirken oder wenn neue
 wissenschaftliche Erkenntnisse vorliegen.
-
 
 ## Anlage 13 (zu § 4 Absatz 3 Satz 2 Nummer 2) Vorläufiges Verzeichnis der Additive
 

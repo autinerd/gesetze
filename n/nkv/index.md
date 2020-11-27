@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.10.2009 I 3221
 
-
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung regelt die nährwertbezogenen Angaben im Verkehr
@@ -38,7 +37,6 @@ Mineralwasser, Trink- und Quellwasser.
 nicht für Nahrungsergänzungen.
 
 (4) Die Vorschriften der Diätverordnung bleiben unberührt.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -222,17 +220,12 @@ Im Sinne dieser Verordnung bedeutet:
     berücksichtigt, die eine Veränderung des tatsächlichen Wertes bewirken
     können.
 
-
-
-
-
 ## § 3 Beschränkung nährwertbezogener Angaben
 
 Im Verkehr mit Lebensmitteln oder in der Werbung dürfen nur
 nährwertbezogene Angaben verwendet werden, die sich auf den Brennwert
 oder auf die in § 2 Nr. 2 aufgeführten Nährstoffe, Nährstoffgruppen,
 deren Bestandteile oder auf Kochsalz beziehen.
-
 
 ## § 4 Nährwertkennzeichnung
 
@@ -286,7 +279,6 @@ erforderlich. Bei der Angabe des Gehaltes an einfach oder mehrfach
 ungesättigten Fettsäuren oder an Cholesterin ist zusätzlich der Gehalt
 an gesättigten Fettsäuren anzugeben. Diese Angabe verpflichtet nicht
 zu der Nährwertkennzeichnung gemäß Absatz 1 Nr. 2.
-
 
 ## § 5 Art und Weise der Kennzeichnung
 
@@ -468,10 +460,6 @@ anzubringen:
 
 \*) Jeweils berechnet als Triglycerid.
 
-
-
-
-
 ## § 6 Verbot bestimmter Hinweise
 
 (1) Es ist verboten, im Verkehr mit Lebensmitteln oder in der Werbung
@@ -548,7 +536,6 @@ Stelle der Hinweis "zur gewichtskontrollierten Ernährung" verwendet
 werden, sofern der Brennwert 2.100 Kilojoule oder 500 Kilokalorien pro
 Hauptmahlzeit nicht überschreitet.
 
-
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
@@ -573,7 +560,6 @@ oder fahrlässig entgegen § 4 Abs. 1 oder 3 Satz 1 oder 2 oder § 5 Abs.
 2 Satz 1, Abs. 3, 4, 5, 6 oder 7 Satz 1 oder 3 Lebensmittel ohne die
 vorgeschriebene Kennzeichnung gewerbsmäßig in den Verkehr bringt.
 
-
 ## § 8 Übergangsfristen
 
 (1) Bis zum 1. Oktober 1995 dürfen Lebensmittel noch nach den bisher
@@ -584,7 +570,6 @@ gebracht werden.
 (2) Lebensmittel, die den bis zum Ablauf des 8. Oktober 2009 geltenden
 Vorschriften dieser Verordnung entsprechen, dürfen noch bis zum 30.
 Oktober 2012 in Verkehr gebracht werden.
-
 
 ## Anlage 1 (zu § 2 Nummer 2 Buchstabe c, § 4 Absatz 2 Nummer 6 und § 5 Absatz 3 Nummer 4 und Absatz 6)
 
@@ -742,7 +727,6 @@ Packung, sofern die Packung nur eine einzige Portion enthält, bei der
 Festsetzung der signifikanten Menge berücksichtigt werden.
 
 [^f772587_02_BJNR352610994BJNE000901310]:     ***             g andere Provitamin A-Carotinoide.
-
 
 ## Anlage 2 (zu § 6 Abs. 2 Nr. 3)
 

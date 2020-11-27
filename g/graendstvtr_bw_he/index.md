@@ -20,12 +20,10 @@ Fundstelle
 
 Stand: In Kraft gem. Bek. v. 14.7.1983 I 952 mWv 21.6.1983
 
-
 ## Eingangsformel
 
 Das Land Baden-Württemberg und das Land Hessen, beide vertreten durch
 ihre Ministerpräsidenten, schließen nachstehenden Staatsvertrag:
-
 
 ## Art 1
 
@@ -41,7 +39,6 @@ ersichtlich.
 
 (3) Das Land Hessen gliedert das abgetretene Gebiet in die Stadt
 Lampertheim, Landkreis Bergstraße, ein.
-
 
 ## Art 2
 
@@ -63,7 +60,6 @@ Auseinandersetzung durch Vereinbarung.
 Regierungspräsidiums Karlsruhe und des Regierungspräsidenten in
 Darmstadt als der zuständigen Kommunalaufsichtsbehörden.
 
-
 ## Art 3
 
 (1) Mit der Gebietsänderung treten in dem betroffenen Gebiet die
@@ -76,14 +72,12 @@ Landkreises Bergstraße und der Stadt Lampertheim treten in Kraft.
 dieses Vertrages entstanden sind, bleiben die bisher geltenden
 Vorschriften maßgebend.
 
-
 ## Art 4
 
 Die vertragschließenden Länder gehen davon aus, daß für den durch
 diesen Staatsvertrag entstehenden Gebietsverlust bei späteren
 Änderungen der gemeinsamen Grenze ein Gebietsausgleich geschaffen
 wird.
-
 
 ## Art 5
 
@@ -95,12 +89,10 @@ dem Staatsvertrag zugestimmt haben.
 (2) Dieser Staatsvertrag tritt am Tag der Hinterlegung der
 Ratifikationsurkunden in Kraft.
 
-
 ## Schlußformel
 
 Der Ministerpräsident des Landes Baden-Württemberg
 Der Hessische Ministerpräsident
-
 
 ## Anlage (zu Artikel 1 Abs. 2) Anlage zum Staatsvertrag zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze
 

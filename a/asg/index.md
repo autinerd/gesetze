@@ -19,16 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 29.7.2009 I 2424
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Erster Abschnitt - Grundsätzliche Vorschriften
-
-
 
 ### § 1 Vorrang des freien Arbeitsvertrags
 
@@ -38,7 +34,6 @@ Von den in § 2 geregelten Verpflichtungsbefugnissen darf nur Gebrauch
 gemacht werden, wenn und soweit die in der genannten Vorschrift
 aufgeführten Arbeitsleistungen nicht auf der Grundlage der
 Freiwilligkeit sichergestellt werden können.
-
 
 ### § 2 Maßnahmen der Sicherstellung von Arbeitsleistungen
 
@@ -58,10 +53,6 @@ Zivilbevölkerung kann nach den Vorschriften dieses Gesetzes
     sowie in der ortsfesten militärischen Lazarettorganisation in ein
     Arbeitsverhältnis verpflichtet werden.
 
-
-
-
-
 ### § 3 Voraussetzungen für die Sicherstellung von Arbeitsleistungen
 
 Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall
@@ -70,7 +61,6 @@ außerdem nach Maßgabe des Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2
 des Grundgesetzes zulässig. Die Verpflichtung zu
 Ausbildungsveranstaltungen (§ 29) ist auch zulässig, wenn die
 Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
-
 
 ### § 4 Anwendungsbereich
 
@@ -123,7 +113,6 @@ Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes
 zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch
 einschränken oder abgrenzen. Die Bundesregierung hat die
 Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
-
 
 ### § 5 Befreiungen
 
@@ -182,7 +171,6 @@ Rechtsverordnung weitere Personengruppen von der Anwendung des § 2 Nr.
 Berufsausbildung im öffentlichen Interesse liegt und mit der
 Verpflichtung nach dieser Vorschrift unvereinbar ist.
 
-
 ### § 6 Abgrenzung zum Wehrdienst und anderen Dienstleistungen
 
 Die Verpflichtung zum Dienst in den Streitkräften, im
@@ -191,10 +179,7 @@ einer Maßnahme zur Sicherstellung von Arbeitsleistungen nach § 2 vor.
 Die §§ 13 und 13a des Wehrpflichtgesetzes und die §§ 14 und 16 des
 Zivildienstgesetzes bleiben unberührt.
 
-
 ## Zweiter Abschnitt - Beschränkung der Beendigung eines Arbeitsverhältnisses im Verteidigungsfall und in Spannungszeiten
-
-
 
 ### § 7 Zustimmungsbedürftigkeit der Beendigung eines Arbeitsverhältnisses
 
@@ -209,7 +194,6 @@ zu beachten.
 
 (2) Durch die Zustimmung wird nicht über die arbeitsrechtliche
 Berechtigung der Beendigung des Arbeitsverhältnisses entschieden.
-
 
 ### § 8 Ausnahmen von der Zustimmungsbedürftigkeit
 
@@ -235,7 +219,6 @@ sie den Arbeitnehmern auf betriebsübliche Weise bekanntzumachen. Die
 Befreiung kann befristet und für bestimmte Betriebsabteilungen erteilt
 werden; sie ist jederzeit widerruflich.
 
-
 ### § 9 Zustimmungsverfahren
 
 (1) Die Zustimmung zu der Beendigung eines Arbeitsverhältnisses ist
@@ -254,20 +237,14 @@ zugegangen ist.
 (3) Wird der Antrag abgelehnt, so ist die Entscheidung dem
 Antragsteller zuzustellen.
 
-
 ## Dritter Abschnitt - Verpflichtung in ein Arbeitsverhältnis im Verteidigungsfall und in Spannungszeiten
 
-
-
 ### 1. Unterabschnitt - Verpflichtungsvorschriften
-
-
 
 #### § 10 Inhalt der Verpflichtung
 
 Durch den Verpflichtungsbescheid (§ 13) wird ein Arbeitsverhältnis
 begründet.
-
 
 #### § 11 Verpflichtungsbehörden
 
@@ -288,7 +265,6 @@ Verpflichtungen bis zu einer Dauer von drei Tagen vornehmen. In diesem
 Fall haben sie die der Agentur für Arbeit als Verpflichtungsbehörde
 zustehenden Aufgaben.
 
-
 #### § 12 Grundsätze für die Verpflichtung
 
 (1) Die Verpflichtungsbehörde darf Personen nur in zumutbare
@@ -308,7 +284,6 @@ bedarf die Verpflichtung der vorherigen Zustimmung der für
 Personalangelegenheiten zuständigen Behörde. Die Zustimmung kann nur
 verweigert werden, wenn die Person lebens- und verteidigungswichtige
 Aufgaben der Behörde wahrzunehmen hat.
-
 
 #### § 13 Verpflichtungsbescheid
 
@@ -358,10 +333,7 @@ Jahr ausschließlich oder überwiegend beschäftigt hat.
 fernmündlich ausgesprochen werden. Sie ist unverzüglich schriftlich zu
 bestätigen.
 
-
 ### 2. Unterabschnitt - Rechtsstellung der verpflichteten Person
-
-
 
 #### § 14 Inhalt des durch Verpflichtung begründeten Arbeitsverhältnisses
 
@@ -380,7 +352,6 @@ durch Rechtsverordnung nähere Bestimmungen über Voraussetzungen, Höhe
 und Umfang der Trennungsentschädigung und den Ersatz von Umzugskosten
 zu erlassen.
 
-
 #### § 15 Einfluß der Verpflichtung auf ein Arbeits- oder Vertragsverhältnis in der privaten Wirtschaft
 
 (1) Wird ein Arbeitnehmer in ein Arbeitsverhältnis verpflichtet, so
@@ -395,7 +366,6 @@ einbehalten.
 
 (2) Für in Heimarbeit Beschäftigte und für Handelsvertreter gelten die
 §§ 7 und 8 des Arbeitsplatzschutzgesetzes entsprechend.
-
 
 #### § 16 Einfluß der Verpflichtung auf ein Dienst- oder Arbeitsverhältnis im öffentlichen Dienst
 
@@ -429,7 +399,6 @@ Geldbezüge aus dem Arbeitsverhältnis angerechnet. Diesen Geldbezügen
 stehen gleich das Krankengeld aus der gesetzlichen
 Krankenversicherung, entsprechende Leistungen aus der gesetzlichen
 Unfallversicherung, das Kurzarbeitergeld und das Schlechtwettergeld.
-
 
 #### § 17 Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben
 
@@ -477,10 +446,7 @@ Abschnitt des Unterhaltssicherungsgesetzes entsprechend.
 angewandt, daß an die Stelle des Bundesministeriums der Verteidigung
 das Bundesministerium für Arbeit und Soziales tritt.
 
-
 ### 3. Unterabschnitt - Sozialversicherung, Arbeitslosenversicherung, Pflegeversicherung
-
-
 
 #### § 18 Allgemeines
 
@@ -490,7 +456,6 @@ Unfall- und Rentenversicherung sowie in der Arbeitslosenversicherung
 und sozialen Pflegeversicherung nach Maßgabe der allgemeinen
 Vorschriften, soweit die nachfolgenden Vorschriften nichts
 Abweichendes bestimmen.
-
 
 #### § 19 Krankenversicherung
 
@@ -521,7 +486,6 @@ Abs. 1 werden als Entgelt nur bei der Berechnung der
 Jahresarbeitsentgeltgrenze (§ 6 Abs. 6 oder 7 des Fünften Buches
 Sozialgesetzbuch) berücksichtigt.
 
-
 #### § 20 Unfallversicherung
 
 (1) In der gesetzlichen Unfallversicherung gilt während der
@@ -538,7 +502,6 @@ Verpflichtung in ein Arbeitsverhältnis einen Versicherungsfall, gelten
 der Maßgabe, daß sich der Jahresarbeitsverdienst nach § 82 Abs. 1 und
 2 des Siebten Buches Sozialgesetzbuch errechnet, wenn es für den
 Berechtigten günstiger ist.
-
 
 #### § 21 Rentenversicherung Versicherungsfreiheit und Zuständigkeit
 
@@ -574,7 +537,6 @@ es sei denn, daß sie auf Grund der Verpflichtung eine Beschäftigung
 ausüben, die anders als bisher in der knappschaftlichen
 Rentenversicherung zu versichern ist.
 
-
 #### § 22 Rentenversicherung Entgelt und Beiträge
 
 (1) Bei Personen, die während ihrer Verpflichtung in ein
@@ -597,7 +559,6 @@ trägt der Bund.
 
 (3) und (4)
 
-
 #### § 23 Arbeitslosenversicherung
 
 (1) Personen, die unmittelbar vor der Verpflichtung in ein
@@ -619,7 +580,6 @@ entstehen, trägt der Bund.
 
 (4)
 
-
 #### § 23a Pflegeversicherung
 
 § 61 des Elften Buches Sozialgesetzbuch ist mit der Maßgabe
@@ -629,10 +589,7 @@ Arbeitsentgelt weiter zu zahlen hat, und der neue Arbeitgeber den
 Beitragszuschuß anteilig nach der Höhe der jeweils zu gewährenden
 Dienstbezüge, Unterhaltszuschüsse und Arbeitsentgelte zu zahlen haben.
 
-
 ## Vierter Abschnitt - Ergänzende Vorschriften
-
-
 
 ### § 24 Auskunftspflicht
 
@@ -655,7 +612,6 @@ Steuerstraftat oder ein Bußgeldverfahren wegen einer
 Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93,
 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie §
 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
-
 
 ### § 25 Persönliche Vorstellung
 
@@ -693,7 +649,6 @@ Arbeitgeber oder ihrem Auftraggeber (Zwischenmeister) unverzüglich
 vorzulegen, im Falle einer Aufforderung nach Absatz 1 Satz 2 zweiter
 Halbsatz diese Person unverzüglich zu unterrichten.
 
-
 ### § 26 Kosten des Verpflichtungs- und Zustimmungsverfahrens
 
 Das Verfahren vor der Agentur für Arbeit ist kostenfrei. Notwendige
@@ -708,7 +663,6 @@ Anwendung. Diese Aufwendungen werden der
 Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
 vom Bund erstattet.
 
-
 ### § 27 Rechtsweg
 
 (1) Für Rechtsstreitigkeiten über Maßnahmen nach diesem Gesetz oder
@@ -721,14 +675,9 @@ Wirkung.
 (3) Absatz 2 gilt nicht für Rechtsstreitigkeiten über Leistungen nach
 § 17 dieses Gesetzes.
 
-
 ## Fünfter Abschnitt - Besondere Vorschriften
 
-
-
 ### 1. Unterabschnitt - Freiwillig begründete Arbeitsverhältnisse
-
-
 
 #### § 28 Anwendung der §§ 14 bis 23
 
@@ -742,10 +691,7 @@ entsprochen werden, wenn der bisherige Arbeitgeber widerspricht und
 die Anordnung für ihn eine unzumutbare Belastung zur Folge hätte. Für
 die Anordnung gelten die §§ 11 und 13 Abs. 3 und 4 sinngemäß.
 
-
 ### 2. Unterabschnitt - Ausbildungsveranstaltungen Bereithaltungsbescheid
-
-
 
 #### § 29 Ausbildungsveranstaltungen
 
@@ -802,13 +748,6 @@ Tage, Wiederholungsveranstaltungen dürfen 14 Tage jährlich nicht
     f)  während der Ausbildung ist der Schutz der gesetzlichen
         Unfallversicherung sicherzustellen.
 
-
-
-
-
-
-
-
 #### § 30 Bereithaltungsbescheid
 
 (1) Soll ein Wehrpflichtiger, auf den die in § 29 Abs. 2 genannte
@@ -831,10 +770,7 @@ Empfänger keine Nachteile innerhalb eines bestehenden Dienst- oder
 Arbeitsverhältnisses, Heimarbeitsverhältnisses oder
 Handelsvertreterverhältnisses erwachsen.
 
-
 ### 3. Unterabschnitt - Sonderregelungen
-
-
 
 #### § 31 Zumutung von Gefahren
 
@@ -845,10 +781,7 @@ Zwecken des Gesetzes dienen, soweit nach den Umständen und seinen
 persönlichen Verhältnissen zumutbar, Gefahren und Erschwernisse auf
 sich zu nehmen.
 
-
 ## Sechster Abschnitt - Schlußvorschriften
-
-
 
 ### § 32 Verletzung von Sicherstellungsvorschriften
 
@@ -908,11 +841,9 @@ die Tat geeignet ist, die Verwirklichung der Ziele, denen die
 Sicherstellung von Arbeitsleistungen im allgemeinen oder im Einzelfall
 zu dienen bestimmt ist, merkbar zu beeinträchtigen.
 
-
 ### § 33
 
 -
-
 
 ### § 34 Koordinierung und Bedarfsdeckung
 
@@ -923,7 +854,6 @@ mit den fachlich zuständigen Bundes- und Landesbehörden bei der
 Feststellung und Deckung des Arbeitskräftebedarfs. Sie regelt hierbei,
 wie die zur Verfügung stehenden Arbeitskräfte zu verteilen sind, wenn
 diese nicht ausreichen, den Bedarf zu decken.
-
 
 ### § 35 Weisungsrecht gegenüber der Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
 
@@ -937,12 +867,10 @@ Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
 übernimmt die ihr aus der Durchführung dieses Gesetzes entstehenden
 Kosten. Sie werden ihr vom Bund erstattet.
 
-
 ### § 36 Begriffsbestimmung
 
 Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte
 einschließlich der zu ihrer Berufsausbildung Beschäftigten.
-
 
 ### § 37 Öffentlich-rechtliche Dienstverhältnisse
 
@@ -950,7 +878,6 @@ Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche
 Dienstverhältnisse begründet werden können, werden diese nach den
 Vorschriften geregelt, die für die Dienstverhältnisse im jeweiligen
 Bereich gelten.
-
 
 ### § 38 Rechtsverordnung
 
@@ -961,7 +888,6 @@ Verteidigung durch Rechtsverordnung bestimmte Stelle tritt.
 
 (2) Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-
 ### § 39 Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
@@ -970,7 +896,6 @@ des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des
 Grundgesetzes) und der freien Wahl des Arbeitsplatzes (Artikel 12 Abs.
 1 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes
 eingeschränkt.
-
 
 ### § 40 Inkrafttreten
 

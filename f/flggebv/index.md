@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3534
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Absatz 2 Satz 2 des Fleischgesetzes vom 9. April
@@ -25,7 +24,6 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium für Ernährung, Landwirtschaft und
 Verbraucherschutz im Einvernehmen mit dem Bundesministerium der
 Finanzen:
-
 
 ## § 1 Erhebung von Gebühren
 
@@ -38,7 +36,6 @@ Verordnung.
 ergeben sich aus dem Gebührenverzeichnis der Anlage zu dieser
 Verordnung.
 
-
 ## § 2 Übergangsregelung
 
 Für Amtshandlungen, die vor dem Inkrafttreten dieser Verordnung
@@ -47,11 +44,9 @@ erhoben werden, soweit sich die Bundesanstalt für Landwirtschaft und
 Ernährung die Erhebung der Gebühren in einem unanfechtbaren Bescheid
 vorbehalten hat.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage (zu § 1 Absatz 2) Gebührenverzeichnis
 

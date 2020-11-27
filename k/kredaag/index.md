@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 23 G v. 18.12.1995 I 1959
 
-
 ## § 1
 
 (1) Kreditinstitute können den Zinssatz für Kredite, die in der
@@ -64,13 +63,11 @@ Bedingungen an junge Eheleute nach der Verordnung der Deutschen
 Demokratischen Republik vom 24. April 1986 (GBl. I Nr. 15 S. 244) in
 ihrer jeweils geltenden Fassung.
 
-
 ## § 2
 
 Für die in § 1 Abs. 4 genannten Kredite übernimmt der Bund gegenüber
 den Kreditinstituten die Marktzinsen. § 1 Abs. 1 Satz 3 gilt
 entsprechend.
-
 
 ## § 3
 
@@ -89,7 +86,6 @@ und Erhaltung von privatem Wohnraum vom 28. April 1960 (GBl. I Nr. 34
 S. 351) in ihrer jeweils geltenden Fassung oder den in § 20 dieser
 Verordnung genannten Rechtsvorschriften gewährt wurden.
 
-
 ## § 4
 
 (1) Soweit für die in § 3 bezeichneten Kredite am 30. Juni 1990
@@ -106,7 +102,6 @@ Zeit vom 3. Oktober 1990 bis zum 30. Juni 1991 auf 6 Prozent und vom
 (3) Soweit diese Kredite am 30. Juni 1990 mit mehr als 1 Prozent bis
 zu 3 Prozent jährlich zu verzinsen waren, belaufen sich die
 Zinszuschüsse vom 3. Oktober 1990 bis zum 30. Juni 1991 auf 2 Prozent.
-
 
 ## § 5
 
@@ -130,7 +125,6 @@ Land-, Forst- und Nahrungsgüterwirtschaft oder volkseigenen Betrieben
 errichtete Eigenheime übernommen haben und durch Rechtsvorschrift in
 bestehende Kreditverträge eingetreten sind.
 
-
 ## § 6
 
 (1) Soweit für die in § 5 bezeichneten Kredite am 30. Juni 1990 keine
@@ -142,13 +136,11 @@ Januar 1991 bis zum 30. Juni 1991 auf 2 Prozent.
 werden vom 3. Oktober 1990 bis zum 31. Dezember 1990 Zinszuschüsse in
 Höhe von 2 Prozent geleistet.
 
-
 ## § 6a
 
 Die Ersetzung der in den §§ 3 und 5 bezeichneten Kredite durch andere
 Finanzierungsmittel berührt den Anspruch des Kreditnehmers auf
 Zinszuschüsse nicht.
-
 
 ## § 7
 
@@ -164,7 +156,6 @@ der Kreditvertrag besteht.
 (3) Anträge auf Zahlung eines Zinszuschusses gemäß § 3 Abs. 1 und § 5
 Abs. 1 können nach dem 31. März 1996 nicht mehr gestellt werden.
 
-
 ## § 8 Erlöschen von Zinsen aus an Grundstücken gesicherten Schuldverhältnissen, die vor dem 28. Juni 1948 entstanden sind
 
 (1) Rückständige Zinsen aus Darlehen und sonstigen Forderungen, die
@@ -178,7 +169,6 @@ Anspruch auf Rückerstattung.
 
 (2) Absatz 1 gilt für die Zinsen aus den dort bezeichneten
 Grundpfandrechten entsprechend.
-
 
 ## § 9 Erlöschen von Zinsen aus Aufbaukrediten an private Vermieter
 

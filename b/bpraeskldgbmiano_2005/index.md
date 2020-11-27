@@ -18,7 +18,6 @@ Fundstelle
 
 ! Geändert durch AnO v. 23.9.2007 I 2314 !
 
-
 ## I.
 
 Nach § 76 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung
@@ -40,7 +39,6 @@ Dienstkleidung für
 
 wird der Bundesministerin oder dem Bundesminister des Innern
 übertragen.
-
 
 ## II.
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 35
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 15 und Satz 5 des
@@ -29,7 +27,6 @@ Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
 und Wohnungswesen und das Bundesministerium für Umwelt, Naturschutz
 und Reaktorsicherheit nach Anhörung des Beratenden Ausschusses nach §
 32a des Luftverkehrsgesetzes:
-
 
 ## § 1 Zeitliche Einschränkung
 
@@ -62,7 +59,6 @@ sicheren Flugdurchführung vorzeitig zurückkehren muß. Nicht im Inland
 erteilte Lärmzeugnisse oder die ihnen entsprechenden Urkunden werden
 als gültig anerkannt, wenn aus ihnen die Einhaltung der Lärmgrenzwerte
 nach Anlage 1 ersichtlich ist.
-
 
 ## § 2 Regelungen durch die Landesbehörden
 
@@ -118,7 +114,6 @@ Einschränkungen unter Berücksichtigung der besonderen Umstände an
 einem Landeplatz zum Schutz der Bevölkerung vor Fluglärm nicht
 erforderlich sind.
 
-
 ## § 3 Bekanntgabe der Landeplätze
 
 Das Bundesministerium für Verkehr gibt die Landeplätze, die infolge
@@ -126,7 +121,6 @@ der Zahl der Flugbewegungen oder auf Grund einer Entscheidung der
 zuständigen Luftfahrtbehörden der Länder den Einschränkungen nach § 1
 unterliegen, im Bundesanzeiger und in den Nachrichten für Luftfahrer
 bekannt.
-
 
 ## § 4 Erhöhte Schallschutzanforderungen
 
@@ -163,7 +157,6 @@ wenn die Voraussetzungen nicht erfüllt sind. Das Luftfahrt-Bundesamt
 legt Einzelheiten der Kennzeichnung in einer Bekanntmachung im
 Bundesanzeiger und in den Nachrichten für Luftfahrer fest.
 
-
 ## § 5 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
@@ -174,10 +167,6 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 2.  entgegen § 4 Abs. 6 Satz 2 ein propellergetriebenes Flugzeug oder
     einen Motorsegler besonders kennzeichnet.
-
-
-
-
 
 ## § 6 Übergangsbestimmungen
 
@@ -227,16 +216,13 @@ Verordnung von den zeitlichen Einschränkungen nach den §§ 1 und 2 Abs.
 (3) Eine Freistellung nach Absatz 2 kann für einen oder mehrere der
 unter § 1 Abs. 1 oder § 2 Abs. 1 Nr. 1 fallenden Landeplätze erfolgen.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage 1 (zu § 1 Abs. 2 Satz 3)
 
@@ -321,10 +307,6 @@ Der Bundesrat hat zugestimmt.
 *    *
 
 *    *   M = höchstzulässige Startmasse in 1.000 kg.
-
-
-
-
 
 ## Anlage 2 (zu § 2 Abs. 1 Nr. 2 Buchstabe b, § 4 Abs. 2 und 3)
 

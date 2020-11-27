@@ -16,7 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2278
 
-
 ## Eingangsformel
 
 Auf Grund des § 64f Nummer 3 und 6 des Erneuerbare-Energien-Gesetzes,
@@ -25,7 +24,6 @@ S. 1634) eingefügt worden ist, in Verbindung mit § 64h Absatz 1 Satz 1
 des Erneuerbare-Energien-Gesetzes, der durch Artikel 1 Nummer 23 des
 Gesetzes vom 17. August 2012 (BGBl. I S. 1754) geändert worden ist,
 verordnet die Bundesregierung mit Zustimmung des Bundestages:
-
 
 ## § 1 Anwendungsbereich
 
@@ -53,10 +51,6 @@ M             “ für Strom aus
     P
     M (Solar)                   “) abweichend von Nummer 2.4.3 der Anlage
     4 zum Erneuerbare-Energien-Gesetz.
-
-
-
-
 
 ## § 2 Höhe der Managementprämie
 
@@ -89,7 +83,6 @@ abweichend von Absatz 1 bei
 Satz 1 gilt ab dem ersten Tag des Kalendermonats, der auf den
 Zeitpunkt folgt, an dem die Anforderungen an fernsteuerbare Anlagen
 nach § 3 Absatz 1 erstmals erfüllt wurden.
-
 
 ## § 3 Anforderungen an fernsteuerbare Anlagen
 
@@ -150,7 +143,6 @@ anderen Person eingeräumt wird, darf das Recht des Netzbetreibers zum
 Einspeisemanagement nach § 11 des Erneuerbare-Energien-Gesetzes nicht
 beschränken.
 
-
 ## § 4 Veröffentlichung durch die Übertragungsnetzbetreiber
 
 Die Übertragungsnetzbetreiber müssen die Höhe der Managementprämie
@@ -165,12 +157,10 @@ Solar             “ nach § 48 Absatz 3 Nummer 1 des Erneuerbare-
 Energien-Gesetzes in Verbindung mit Nummer 3.2 Buchstabe f und Nummer
 3\.4 der Anlage 4 zum Erneuerbare-Energien-Gesetz berücksichtigen.
 
-
 ## § 5 Übergangsbestimmung
 
 Diese Verordnung wird nicht auf Strom angewendet, der vor dem 1.
 Januar 2013 erzeugt worden ist.
-
 
 ## § 6 Inkrafttreten
 

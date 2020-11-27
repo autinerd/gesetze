@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1895
 
-
 ## Eingangsformel
 
 Auf Grund des § 303a Absatz 1 Satz 2, Absatz 2 und 3 Satz 2 des
@@ -24,13 +23,11 @@ der durch Artikel 1 Nummer 83 des Gesetzes vom 22. Dezember 2011
 (BGBl. I S. 2983) geändert worden ist, verordnet das Bundesministerium
 für Gesundheit:
 
-
 ## § 1 Anwendungsbereich
 
 Die Verordnung regelt das Nähere zur Wahrnehmung, Durchführung und
 Finanzierung der Aufgaben der Datentransparenz nach den §§ 303a bis
 303e des Fünften Buches Sozialgesetzbuch.
-
 
 ## § 2 Aufgabenwahrnehmung
 
@@ -73,7 +70,6 @@ Die organisatorische Eigenständigkeit wird durch eine Ansiedlung der
 Aufgaben nach den Absätzen 1 und 2 in unterschiedlichen
 Organisationseinheiten gewährleistet.
 
-
 ## § 3 Verfahren und Umfang der Datenübermittlung durch das Bundesversicherungsamt
 
 (1) Das Bundesversicherungsamt übermittelt der
@@ -99,7 +95,6 @@ Datensicherheit sind der Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit und das Bundesamt für Sicherheit in der
 Informationstechnik zu beteiligen.
 
-
 ## § 4 Verfahren bei der Vertrauensstelle
 
 (1) Die Vertrauensstelle überführt die ihr vom Bundesversicherungsamt
@@ -119,7 +114,6 @@ Pseudonyme fehlerfrei verlaufen ist und übermittelt der
 Datenaufbereitungsstelle die Liste der permanenten Pseudonyme nach
 Absatz 1. Danach sind die Listen mit den temporären und den
 permanenten Pseudonymen bei der Vertrauensstelle zu löschen.
-
 
 ## § 5 Datenbereitstellung durch die Datenaufbereitungsstelle
 
@@ -218,7 +212,6 @@ oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich
 ist. Die Fristverlängerung ist gegenüber dem Antragsteller zu
 begründen.
 
-
 ## § 6 Kostenerstattung und Vorschuss
 
 (1) Der Spitzenverband Bund der Krankenkassen erstattet dem DIMDI die
@@ -256,7 +249,6 @@ anzurechnen.
 
 (5) Das DIMDI und der Spitzenverband Bund der Krankenkassen
 vereinbaren vertraglich das Nähere zur Umsetzung der Absätze 3 und 4.
-
 
 ## § 7 Übergangsregelungen
 
@@ -296,7 +288,6 @@ Vorschüsse nach § 6 Absatz 3 ohne Verzinsung anzurechnen.
 (5) Das DIMDI und der Spitzenverband Bund der Krankenkassen
 vereinbaren vertraglich das Nähere zur Umsetzung der Absätze 3 und 4.
 
-
 ## § 8 Evaluation
 
 Das DIMDI berichtet dem Bundesministerium für Gesundheit zum 31.
@@ -304,7 +295,6 @@ Dezember 2015 schriftlich über die Erfahrungen, die es mit der
 Wahrnehmung der Aufgaben der Datentransparenz gemacht hat. Zur
 Erstellung dieses Berichts darf das DIMDI die Anträge und die sich
 daraus ergebenden Auswertungen speichern und nutzen.
-
 
 ## § 9 Inkrafttreten
 

@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 8.11.2007 I 2569
 
-
 ## Eingangsformel
 
 Auf Grund des § 57 Abs. 1 und 3 sowie des § 58 Abs. 1 Nr. 3 des
@@ -28,10 +27,7 @@ Personenbeförderungsgesetzes (PBefG) vom 21. März 1961
 Gewerbezentralregisters vom 13. Juni 1974 (Bundesgesetzbl. I S. 1281),
 wird mit Zustimmung des Bundesrates verordnet:
 
-
 ## 1. Abschnitt - Allgemeine Vorschriften
-
-
 
 ### § 1 Geltungsbereich
 
@@ -54,7 +50,6 @@ Sinne dieser Vorschriften gilt diejenige Behörde, die im Falle einer
 Nichtfreistellung von den Vorschriften des
 Personenbeförderungsgesetzes zuständig wäre.
 
-
 ### § 2 Grundregel
 
 Der Betrieb des Unternehmens sowie die Ausrüstung und Beschaffenheit
@@ -62,14 +57,9 @@ der Fahrzeuge müssen den besonderen Anforderungen genügen, die sich
 aus dem Vertrauen in eine sichere und ordnungsgemäße Beförderung
 ergeben.
 
-
 ## 2. Abschnitt - Vorschriften über den Betrieb
 
-
-
 ### 1. Titel - Betriebsleitung
-
-
 
 #### § 3 Pflichten des Unternehmers
 
@@ -106,10 +96,6 @@ Betriebspersonals während des Dienstes, insbesondere
 3.  Bestimmungen, soweit sie durch die örtlichen Verhältnisse oder durch
     die Eigenart der Betriebsanlagen, der Fahrzeuge oder des Betriebs
     bedingt sind.
-
-
-
-
 
 #### § 4 Betriebsleiter
 
@@ -164,7 +150,6 @@ nicht mehr besteht.
 (6) Die Bestätigung ist zu widerrufen, wenn nachträglich die
 Voraussetzung des Absatzes 4 Satz 2 weggefallen ist.
 
-
 #### § 5 Auswärtige Unternehmer
 
 (1) Hat ein Unternehmer seinen Sitz (Wohnsitz) nicht am Ort des
@@ -186,7 +171,6 @@ Abs. 5 Satz 2 gilt entsprechend.
 (4) Die Bestätigung ist zu widerrufen, wenn nachträglich die
 Voraussetzung der Zuverlässigkeit weggefallen ist.
 
-
 #### § 6 Meldepflicht
 
 Der Unternehmer hat der Genehmigungsbehörde unverzüglich mitzuteilen
@@ -200,20 +184,13 @@ Der Unternehmer hat der Genehmigungsbehörde unverzüglich mitzuteilen
 3.  Betriebsstörungen im Obusverkehr und im Linienverkehr mit
     Kraftfahrzeugen, die voraussichtlich länger als 24 Stunden dauern.
 
-
-
-
-
 ### 2. Titel - Fahrdienst
-
-
 
 #### § 7 Grundregel
 
 Das im Fahrdienst eingesetzte Betriebspersonal hat die besondere
 Sorgfalt anzuwenden, die sich daraus ergibt, daß ihm Personen zur
 Beförderung anvertraut sind.
-
 
 #### § 8 Verhalten im Fahrdienst
 
@@ -263,7 +240,6 @@ des Absatzes 3 Nr. 1, 3 und 5 entsprechende Anwendung.
 Gelegenheitsverkehr mit Personenkraftwagen finden die Vorschriften des
 Absatzes 3 Nr. 1 und 3 entsprechende Anwendung.
 
-
 #### § 9 Verhalten bei Krankheit
 
 (1) Mitglieder des im Fahrdienst oder zur Bedienung von Fahrgästen
@@ -281,13 +257,11 @@ keine Fahrten ausführen.
 (3) Erkrankungen nach den Absätzen 1 und 2 sind dem Unternehmer
 unverzüglich anzuzeigen.
 
-
 #### § 10 Mitführen von Vorschriften und Fahrplänen
 
 Die geltenden Vorschriften über die Beförderungsentgelte,
 Beförderungsbedingungen und Fahrpläne sind mitzuführen. Den Fahrgästen
 ist auf Verlangen Einsicht zu gewähren.
-
 
 #### § 11 Fundsachen
 
@@ -298,15 +272,11 @@ die von der Genehmigungsbehörde benannte Stelle abzuliefern, wenn sie
 nicht sofort zurückgegeben werden können. § 978 des Bürgerlichen
 Gesetzbuchs bleibt unberührt.
 
-
 ### 3. Titel - Fahrgäste, Beförderungspflicht
-
-
 
 #### § 12
 
 -
-
 
 #### § 13 Beförderung von Personen
 
@@ -318,7 +288,6 @@ Rechtsvorschriften besteht, können sie die Beförderung ablehnen, wenn
 Tatsachen vorliegen, die die Annahme rechtfertigen, daß die zu
 befördernde Person eine Gefahr für die Sicherheit und Ordnung des
 Betriebs oder für die Fahrgäste darstellt.
-
 
 #### § 14 Verhalten der Fahrgäste
 
@@ -388,7 +357,6 @@ Fahrgäste außerdem verpflichtet,
 Pflichten nach den Absätzen 1 bis 3, kann er von der Beförderung
 ausgeschlossen werden.
 
-
 #### § 15 Beförderung von Sachen
 
 (1) Der Fahrgast hat Sachen (Handgepäck, Reisegepäck, Kinderwagen) so
@@ -416,14 +384,9 @@ Gegenstände ausgeschlossen, insbesondere
 
 (3) § 14 Abs. 1 Satz 2 und Abs. 4 ist anzuwenden.
 
-
 ## 3. Abschnitt - Ausrüstung und Beschaffenheit der Fahrzeuge
 
-
-
 ### 1. Titel - Bestimmungen für alle Fahrzeuge
-
-
 
 #### § 16 Anzuwendende Vorschriften
 
@@ -437,12 +400,10 @@ Verkehrssicherheit und der Umweltverträglichkeit besondere
 Anforderungen gestellt werden, die den in der Europäischen Union
 geltenden Vorschriften entsprechen.
 
-
 #### § 17 Zulässige Fahrzeuge
 
 Die der Personenbeförderung dienenden Fahrzeuge müssen mindestens zwei
 Achsen und vier Räder haben.
-
 
 #### § 18 Ausrüstung
 
@@ -451,17 +412,13 @@ und Witterungsverhältnissen anzupassen. Wenn es die Umstände angezeigt
 erscheinen lassen, sind Winterreifen, Schneeketten, Spaten und Hacke
 sowie Abschleppseil oder -stange mitzuführen.
 
-
 #### § 19 Beschaffenheit und Anbringung von Zeichen und Ausrüstungsgegenständen
 
 Zeichen und Ausrüstungsgegenstände an oder im Fahrzeug müssen so
 beschaffen und angebracht sein, daß niemand gefährdet oder behindert
 wird.
 
-
 ### 2. Titel - Obusse und Kraftomnibusse
-
-
 
 #### § 20 Beschriftung
 
@@ -492,7 +449,6 @@ wird.
 und deutlich lesbar sein. Ihre Wirkung darf durch andere Aufschriften
 oder Bildzeichen nicht beeinträchtigt werden.
 
-
 #### § 21 Verständigung mit dem Fahrzeugführer
 
 (1) Obusse und Kraftomnibusse des Linienverkehrs müssen deutlich hör-
@@ -516,7 +472,6 @@ kann.
 müssen geeignete Informationseinrichtungen haben, die den Fahrgästen
 anzeigen, wann Sicherheitsgurte anzulegen sind.
 
-
 #### § 22 Stehplätze
 
 (1) Stehplätze sind nur zulässig, wenn das Fahrzeug im Obusverkehr
@@ -526,20 +481,15 @@ oder im Linienverkehr mit Kraftomnibussen eingesetzt wird.
 Nachbarortslinienverkehr ist, kann die Genehmigungsbehörde die
 Zulässigkeit von Stehplätzen ganz oder teilweise ausschließen.
 
-
 #### § 23
 
 -
-
 
 #### § 24 (weggefallen)
 
 -
 
-
 ### 3. Titel - Taxen und Mietwagen
-
-
 
 #### § 25 Türen, Alarmanlage und Trennwand
 
@@ -563,7 +513,6 @@ seitlich verschoben werden kann.
 (4)
 
 (5)
-
 
 #### § 26 Kenntlichmachung
 
@@ -589,7 +538,6 @@ unzulässig.
 seitlichen Fahrzeugtüren zulässig. Politische und religiöse Werbung an
 Taxen ist unzulässig.
 
-
 #### § 27 Ordnungsnummer, Unternehmeranschrift
 
 (1) Bei Taxen ist an der rechten unteren Ecke der Heckscheibe ein nach
@@ -599,7 +547,6 @@ die die Genehmigungsbehörde erteilt hat, anzubringen.
 (2) Bei Taxen ist im Wageninnern an einer für den Fahrgast gut
 sichtbaren Stelle ein Schild mit Namen und Betriebssitz des
 Unternehmers anzubringen.
-
 
 #### § 28 Fahrpreisanzeiger
 
@@ -617,12 +564,10 @@ sein. Die Vorschriften des Eichrechts finden Anwendung.
 
 Die Anzeige muß leicht ablesbar und bei Dunkelheit beleuchtet sein.
 
-
 #### § 29 Gepäck
 
 Taxen müssen auch bei vollständiger Besetzung im Rahmen ihres
 zulässigen Gesamtgewichts mindestens 50 kg Gepäck befördern können.
-
 
 #### § 30 Wegstreckenzähler
 
@@ -631,7 +576,6 @@ anzubringen. Die Vorschriften des Eichrechts finden Anwendung.
 
 (2) Absatz 1 gilt auch für Mietomnibusse, wenn das Beförderungsentgelt
 nach den Angaben eines Wegstreckenzählers ermittelt wird.
-
 
 #### § 31 Fahrzeuge mit einer Genehmigung für den Taxen- und Mietwagenverkehr
 
@@ -647,14 +591,9 @@ der Fahrzeugführer bei Durchführung von Mietwagenverkehr den Fahrgast
 auf das Fehlen eines besonderen Wegstreckenzählers und die Art der
 Berechnung des Beförderungsentgelts hinzuweisen.
 
-
 ## 4. Abschnitt - Sondervorschriften
 
-
-
 ### 1. Titel - Obusverkehr und Linienverkehr mit Kraftfahrzeugen
-
-
 
 #### § 32 Haltestellen
 
@@ -675,10 +614,6 @@ Erfordernissen des Betriebs und des Verkehrs Rechnung zu tragen.
 
 3.  an verkehrsreichen Haltestellen des Ortslinienverkehrs Behälter zum
     Abwerfen benutzter Fahrscheine anzubringen.
-
-
-
-
 
 #### § 33 Kennzeichnung und Beschilderung
 
@@ -713,7 +648,6 @@ Anwendung.
 Beförderung von nicht mehr als sechs Personen (einschließlich
 Fahrzeugführer) geeignet und bestimmt sind, gilt Absatz 4 nicht.
 
-
 #### § 34 Sitzplätze für behinderte und andere sitzplatzbedürftige Personen
 
 Der Unternehmer hat Sitzplätze für Schwerbehinderte, in der
@@ -722,23 +656,18 @@ werdende Mütter und für Fahrgäste mit kleinen Kindern vorzusehen.
 Diese Sitzplätze sind durch das Sinnbild nach Anlage 5 an gut
 sichtbarer Stelle kenntlich zu machen.
 
-
 #### § 35 Übersicht über Linienverlauf und Haltestellen
 
 In Fahrzeugen, die im Orts- oder Nachbarortslinienverkehr eingesetzt
 sind, soll an gut sichtbarer Stelle eine Übersicht über den
 Linienverlauf und über die Haltestellen angebracht sein.
 
-
 #### § 36 Ausnahmen für Sonderformen des Linienverkehrs
 
 Die §§ 32, 33 Abs. 1 bis 3 und § 35 gelten nicht für die Sonderformen
 des Linienverkehrs (§ 43 PBefG).
 
-
 ### 2. Titel - Taxenverkehr
-
-
 
 #### § 37 Beförderungsentgelte
 
@@ -759,14 +688,12 @@ Beförderungsentgelt für die gesamte Fahrtstrecke frei zu vereinbaren
 ist. Kommt keine Vereinbarung zustande, gelten die für den
 Pflichtfahrbereich festgesetzten Beförderungsentgelte als vereinbart.
 
-
 #### § 38 Fahrweg
 
 Sofern der Fahrgast nichts anderes bestimmt, hat der Fahrzeugführer
 den kürzesten Weg zum Fahrtziel zu wählen, es sei denn, daß ein
 anderer Weg verkehrs- oder preisgünstiger ist und mit dem Fahrgast
 vereinbart wird.
-
 
 #### § 39 Benutzung des Taxischildes
 
@@ -776,10 +703,7 @@ Fahrtaufträge ausgeführt werden; das gilt nicht bei der Bereitstellung
 von Taxen auf Taxenständen. Bei Durchführung eines Fahrtauftrags muß
 die Beleuchtung ausgeschaltet sein.
 
-
 ### 3. Titel - Mietwagenverkehr
-
-
 
 #### § 40 Beförderungsentgelte
 
@@ -787,10 +711,7 @@ Im Mietwagenverkehr sind die Beförderungsentgelte nach der Anzeige des
 Wegstreckenzählers (§ 30 Abs. 1) zu berechnen, wenn nichts anderes
 vereinbart ist.
 
-
 ## 5. Abschnitt - Sondervorschriften über die Untersuchungen der Fahrzeuge
-
-
 
 ### § 41 Hauptuntersuchungen
 
@@ -802,7 +723,6 @@ entsprechen.
 Untersuchungsberichts, bei Kraftomnibussen das Prüfbuch, unverzüglich
 der Genehmigungsbehörde oder der von der Landesregierung bestimmten
 Behörde vorzulegen.
-
 
 ### § 42 Außerordentliche Hauptuntersuchungen
 
@@ -821,10 +741,7 @@ Betriebserlaubnis festgestellt worden und bestätigt deren Inhaber dies
 durch Vermerk im Prüfbuch, kann die außerordentliche Hauptuntersuchung
 unterbleiben.
 
-
 ## 6. Abschnitt - Schluß- und Übergangsvorschriften
-
-
 
 ### § 43 Ausnahmen
 
@@ -850,11 +767,9 @@ Behörde die Beibringung eines Sachverständigengutachtens auf Kosten
 des Antragstellers verlangen. Der Bescheid ist mitzuführen und auf
 Verlangen zuständigen Personen auszuhändigen.
 
-
 ### § 44
 
 -
-
 
 ### § 45 Ordnungswidrigkeiten
 
@@ -1077,16 +992,11 @@ wer vorsätzlich oder fahrlässig
 7.  als Fahrgast den in § 14 Abs. 1 bis 3 oder § 15 Abs. 1 aufgeführten
     Verpflichtungen nicht nachkommt.
 
-
-
-
-
 ### § 46 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 66 PBefG
 auch im Land Berlin.
-
 
 ### § 47 Inkrafttreten, Aufhebung von Rechtsvorschriften
 
@@ -1141,14 +1051,9 @@ außer Kraft die entsprechenden Vorschriften
     schwarzen Farbanstrichs für Taxen vom 18. Dezember 1970
     (Bundesgesetzblatt I S. 1779).
 
-
-
-
-
 ### Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ### Anlage 1 (§ 26 Abs. 1)
 
@@ -1232,11 +1137,9 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 (Inhalt: nicht darstellbares Taxischild, Fundstelle: BGBl I 1975,
 1583)
 
-
 ### Anlage 2 (weggefallen)
 
 -
-
 
 ### Anlage 3 (§ 27 Abs. 1)
 
@@ -1286,7 +1189,6 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 
 
 (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
-
 
 ### Anlage 4 (§ 33 Abs. 4)
 
@@ -1348,7 +1250,6 @@ Rückseite ein Schulbusschild mit einer Seitenlänge von mindestens 400
 mm und mit einer Stärke der Bildumrandung von 35 mm verwendet werden.
 (Inhalt: nicht darstellbares Schulbus-Schild, Fundstelle: BGBl I 1975,
 1587)
-
 
 ### Anlage 5 (§ 34 Satz 2)
 

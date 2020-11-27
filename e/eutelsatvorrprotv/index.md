@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1989, 253
 
-
-
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
@@ -28,7 +26,6 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 1954 II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. 1980
 II S. 941) neu gefaßt wurde, verordnet die Bundesregierung:
 
-
 ## Art 1
 
 Für die Gewährung von Vorrechten und Immunitäten an die Europäische
@@ -37,7 +34,6 @@ Fernmeldesatellitenorganisation EUTELSAT, errichtet auf Grund des
 Protokoll vom 13. Februar 1987 über die Vorrechte und Immunitäten der
 EUTELSAT. Das Protokoll wird nachstehend mit einer amtlichen Deutschen
 Übersetzung veröffentlicht.
-
 
 ## Art 2
 
@@ -57,14 +53,12 @@ haben.
 (3) Die in Artikel 4 des Privilegienprotokolls vorgesehenen Steuer-
 und Zollbestimmungen sind mit Wirkung vom 1. Januar 1985 anzuwenden.
 
-
 ## Art 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes
 vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 1964 II S. 187) neu gefaßt wurde, auch im Land Berlin.
-
 
 ## Art 4
 
@@ -77,7 +71,6 @@ Protokoll für die Bundesrepublik Deutschland außer Kraft tritt.
 
 (3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind
 im Bundesgesetzblatt bekanntzugeben.
-
 
 ## Schlußformel
 

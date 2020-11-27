@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1384
 
-
-
 ## § 1
 
 (1) Der Bund übernimmt ab 1. Juli 1999 als Mitschuldner die
@@ -51,14 +49,12 @@ zuletzt durch Artikel 4 des Gesetzes vom 21. Juni 1999 (BGBl. I S.
 1384) geändert worden ist, in der vor dem 1. Juli 1999 geltenden
 Fassung.
 
-
 ## § 2
 
 Im Innenverhältnis zu den in § 1 aufgeführten Sondervermögen ist der
 Bund alleiniger Schuldner, soweit nicht der Erblastentilgungsfonds mit
 Zuführungen nach § 6 Abs. 1 des Erblastentilgungsfonds-Gesetzes seine
 Verbindlichkeiten tilgt.
-
 
 ## § 3
 

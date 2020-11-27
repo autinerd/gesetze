@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1307
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -41,16 +40,11 @@ Auf Grund
     Bundesministerium für Verkehr, Bau und Stadtentwicklung im
     Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-
-
-
 ## § 1 Ort der Ausbildung
 
 Die Ausbildung zum Fahrlehrer erfolgt in einer amtlich anerkannten
 Fahrlehrerausbildungsstätte und in einer Ausbildungsfahrschule. Die
 Regelung des § 30 Absatz 2 des Fahrlehrergesetzes bleibt unberührt.
-
 
 ## § 2 Fahrlehrerausbildungsstätte
 
@@ -105,7 +99,6 @@ zwar
 Die übrigen Sachgebiete können von jeder Lehrkraft nach Satz 1
 unterrichtet werden.
 
-
 ## § 3 Ausbildungsfahrschule
 
 (1) Die Ausbildung des Fahrlehreranwärters ist nach einem von der
@@ -143,7 +136,6 @@ Eine Unterrichtsstunde beträgt 45 Minuten.
 Ausbildung jeweils nur einen Fahrlehreranwärter ausbilden; im Übrigen
 darf er nicht mehr als zwei Fahrlehreranwärter gleichzeitig ausbilden.
 
-
 ## § 4 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -151,11 +143,9 @@ Gleichzeitig tritt die Fahrlehrer-Ausbildungsordnung vom 18. August
 1998 (BGBl. I S. 2307, 2321), die durch Artikel 6 der Verordnung vom
 7\. August 2002 (BGBl. I S. 3267) geändert worden ist, außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2 Absatz 1) Rahmenplan für die Fahrlehrerausbildung an Fahrlehrerausbildungsstätten
 

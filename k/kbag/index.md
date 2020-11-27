@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 G v. 8.11.2011 I 2178
 
-
 ## § 1
 
 (1) Als Bundesoberbehörde für den Straßenverkehr wird das Kraftfahrt-
@@ -30,7 +29,6 @@ unterstellt.
 (3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für
 Verkehr, Bau und Stadtentwicklung. Es bestimmt den Dienstsitz des
 Kraftfahrt-Bundesamts.
-
 
 ## § 2
 
@@ -150,18 +148,15 @@ Kraftfahrt-Bundesamts.
 (2) Die Aufgaben, die dem Kraftfahrt-Bundesamt durch andere
 Vorschriften zugewiesen werden, bleiben unberührt.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
 Das Kraftfahrt-Bundesamt ist ferner zuständig, wenn ihm durch eine
 Gesetzgebung im Land Berlin Zuständigkeiten in Übereinstimmung mit
 diesem Gesetz übertragen werden.
-
 
 ## § 5
 

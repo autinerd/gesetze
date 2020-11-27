@@ -18,19 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 5.12.2012 I 2418
 
-
 ## Erster Teil - Neufassung des Anfechtungsgesetzes
-
-
 
 ## Art 1
 
 -
 
-
 ## Zweiter Teil - Aufhebung und Änderung von Gesetzen
-
-
 
 ## Art 2 Aufhebung von Gesetzen
 
@@ -54,11 +48,9 @@ Es werden aufgehoben:
 
 9\.
 
-
 ## (XXXX) Art 3 bis 20
 
 -
-
 
 ## Art 21 Änderung der Schiffahrtsrechtlichen Verteilungsordnung
 
@@ -70,19 +62,13 @@ Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
 Gesetzes vom 23. September 1990 (BGBl. II S. 885, 960) ist nicht mehr
 anzuwenden.
 
-
 ## (XXXX) Art 22 bis 101
 
 -
 
-
 ## Dritter Teil - Internationales Insolvenzrecht. Übergangs- und Schlußvorschriften
 
-
-
 ## Art 102 - Durchführung der Verordnung (EG) Nr. 1346/2000 über Insolvenzverfahren
-
-
 
 ## § 1 Örtliche Zuständigkeit
 
@@ -110,7 +96,6 @@ mehrerer Insolvenzgerichte einem von diesen zuzuweisen. Die
 Landesregierungen können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
-
 ## § 2 Begründung des Eröffnungsbeschlusses
 
 Ist anzunehmen, dass sich Vermögen des Schuldners in einem anderen
@@ -119,7 +104,6 @@ Eröffnungsbeschluss die tatsächlichen Feststellungen und rechtlichen
 Erwägungen kurz dargestellt werden, aus denen sich eine Zuständigkeit
 nach Artikel 3 der Verordnung (EG) Nr. 1346/2000 für die deutschen
 Gerichte ergibt.
-
 
 ## § 3 Vermeidung von Kompetenzkonflikten
 
@@ -138,7 +122,6 @@ Eröffnung des Insolvenzverfahrens abgelehnt, weil nach Artikel 3 Abs.
 seien, so darf ein deutsches Insolvenzgericht die Eröffnung des
 Insolvenzverfahrens nicht ablehnen, weil die Gerichte des anderen
 Mitgliedstaats zuständig seien.
-
 
 ## § 4 Einstellung des Insolvenzverfahrens zugunsten der Gerichte eines anderen Mitgliedstaats
 
@@ -173,7 +156,6 @@ Verfahren eingestellt wird. Diesem Gericht ist eine Ausfertigung des
 Einstellungsbeschlusses zu übersenden. § 215 Abs. 2 der
 Insolvenzordnung ist nicht anzuwenden.
 
-
 ## § 5 Öffentliche Bekanntmachung
 
 (1) Der Antrag auf öffentliche Bekanntmachung des wesentlichen Inhalts
@@ -188,7 +170,6 @@ Insolvenzordnung gelten entsprechend.
 öffentliche Bekanntmachung nach Absatz 1 von Amts wegen. Ist die
 Eröffnung des Insolvenzverfahrens bekannt gemacht worden, so ist die
 Beendigung in gleicher Weise bekannt zu machen.
-
 
 ## § 6 Eintragung in öffentliche Bücher und Register
 
@@ -210,13 +191,11 @@ unzuständigen Gericht ein, so leitet dieses den Antrag unverzüglich an
 das zuständige Gericht weiter und unterrichtet hierüber den
 Antragsteller.
 
-
 ## § 7 Rechtsmittel
 
 Gegen die Entscheidung des Insolvenzgerichts nach § 5 oder § 6 findet
 die sofortige Beschwerde statt. Die §§ 574 bis 577 der
 Zivilprozessordnung gelten entsprechend.
-
 
 ## § 8 Vollstreckung aus der Eröffnungsentscheidung
 
@@ -231,14 +210,12 @@ Zwangsvollstreckung gilt Satz 1 entsprechend.
 
 (2) § 6 Abs. 3 findet entsprechend Anwendung.
 
-
 ## § 9 Insolvenzplan
 
 Sieht ein Insolvenzplan eine Stundung, einen Erlass oder sonstige
 Einschränkungen der Rechte der Gläubiger vor, so darf er vom
 Insolvenzgericht nur bestätigt werden, wenn alle betroffenen Gläubiger
 dem Plan zugestimmt haben.
-
 
 ## § 10 Aussetzung der Verwertung
 
@@ -249,7 +226,6 @@ ausgesetzt, an dem ein Absonderungsrecht besteht, so sind dem
 Gläubiger laufend die geschuldeten Zinsen aus der Insolvenzmasse zu
 zahlen.
 
-
 ## § 11 Unterrichtung der Gläubiger
 
 Neben dem Eröffnungsbeschluss ist den Gläubigern, die in einem anderen
@@ -258,7 +234,6 @@ Wohnsitz oder Sitz haben, ein Hinweis zuzustellen, mit dem sie über
 die Folgen einer nachträglichen Forderungsanmeldung nach § 177 der
 Insolvenzordnung unterrichtet werden. § 8 der Insolvenzordnung gilt
 entsprechend.
-
 
 ### Art 102a Insolvenzverwalter aus anderen Mitgliedstaaten der Europäischen Union
 
@@ -273,7 +248,6 @@ eine Vorauswahlliste ist in diesen Fällen innerhalb einer Frist von
 drei Monaten zu entscheiden. § 42a Absatz 2 Satz 2 bis 4 des
 Verwaltungsverfahrensgesetzes gilt entsprechend.
 
-
 ## Art 103 Anwendung des bisherigen Rechts
 
 Auf Konkurs-, Vergleichs- und Gesamtvollstreckungsverfahren, die vor
@@ -283,20 +257,17 @@ gilt für Anschlußkonkursverfahren, bei denen der dem Verfahren
 vorausgehende Vergleichsantrag vor dem 1. Januar 1999 gestellt worden
 ist.
 
-
 ### Art 103a Überleitungsvorschrift
 
 Auf Insolvenzverfahren, die vor dem 1. Dezember 2001 eröffnet worden
 sind, sind die bis dahin geltenden gesetzlichen Vorschriften weiter
 anzuwenden.
 
-
 ### Art 103b Überleitungsvorschrift zum Gesetz zur Umsetzung der Richtlinie 2002/47/EG vom 6. Juni 2002 über Finanzsicherheiten und zur Änderung des Hypothekenbankgesetzes und anderer Gesetze
 
 Auf Insolvenzverfahren, die vor dem 9. April 2004 eröffnet worden
 sind, sind die bis dahin geltenden gesetzlichen Vorschriften weiter
 anzuwenden.
-
 
 ### Art 103c Überleitungsvorschrift zum Gesetz zur Vereinfachung des Insolvenzverfahrens
 
@@ -322,7 +293,6 @@ auszugsweise geschehen. Für den Eintritt der Wirkungen der
 Bekanntmachung ist ausschließlich die Bekanntmachung im Internet nach
 § 9 Abs. 1 Satz 1 der Insolvenzordnung maßgebend.
 
-
 ### Art 103d Überleitungsvorschrift zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
 
 Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes vom 23.
@@ -335,12 +305,10 @@ Insolvenzordnung über die Anfechtung von Rechtshandlungen anzuwenden,
 soweit die Rechtshandlungen nach dem bisherigen Recht der Anfechtung
 entzogen oder in geringerem Umfang unterworfen sind.
 
-
 ### Art 103e Überleitungsvorschrift zum Haushaltsbegleitgesetz 2011
 
 Auf Insolvenzverfahren, die vor dem 1. Januar 2011 beantragt worden
 sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
-
 
 ### Art 103f Überleitungsvorschrift zum Gesetz zur Änderung des § 522 der Zivilprozessordnung
 
@@ -352,7 +320,6 @@ weiter anzuwenden. Für Entscheidungen über die sofortige Beschwerde
 nach Artikel 102 § 7 Satz 1 des Einführungsgesetzes zur
 Insolvenzordnung gilt Satz 1 entsprechend.
 
-
 ### Art 103g Überleitungsvorschrift zum Gesetz zur weiteren Erleichterung der Sanierung von Unternehmen
 
 Auf Insolvenzverfahren, die vor dem 1. März 2012 beantragt worden
@@ -361,14 +328,12 @@ sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. §
 2013 geltenden Fassung ist nur auf Insolvenzverfahren anzuwenden, die
 ab dem 1. Januar 2013 beantragt werden.
 
-
 ## Art 104 Anwendung des neuen Rechts
 
 In einem Insolvenzverfahren, das nach dem 31. Dezember 1998 beantragt
 wird, gelten die Insolvenzordnung und dieses Gesetz auch für
 Rechtsverhältnisse und Rechte, die vor dem 1. Januar 1999 begründet
 worden sind.
-
 
 ## Art 105 Finanztermingeschäfte
 
@@ -420,7 +385,6 @@ Konkursverfahrens getroffenen Regelungen gelten entsprechend für den
 Fall der Eröffnung eines Vergleichs- oder
 Gesamtvollstreckungsverfahrens.
 
-
 ## Art 106 Insolvenzanfechtung
 
 Die Vorschriften der Insolvenzordnung über die Anfechtung von
@@ -429,11 +393,9 @@ Rechtshandlungen nur anzuwenden, soweit diese nicht nach dem
 bisherigen Recht der Anfechtung entzogen oder in geringerem Umfang
 unterworfen sind.
 
-
 ## Art 107 (weggefallen)
 
 -
-
 
 ## Art 108 Fortbestand der Vollstreckungsbeschränkung
 
@@ -448,7 +410,6 @@ sind die Forderungen, die der Vollstreckungsbeschränkung unterliegen,
 im Rang nach den in § 39 Abs. 1 der Insolvenzordnung bezeichneten
 Forderungen zu berichtigen.
 
-
 ## Art 109 Schuldverschreibungen
 
 Soweit den Inhabern von Schuldverschreibungen, die vor dem 1. Januar
@@ -458,7 +419,6 @@ Abs. 1 des Einführungsgesetzes zur Konkursordnung ein Vorrecht bei der
 Befriedigung aus Hypotheken, Reallasten oder Darlehen des
 Kreditinstituts zusteht, ist dieses Vorrecht auch in künftigen
 Insolvenzverfahren zu beachten.
-
 
 ## Art 110 Inkrafttreten
 

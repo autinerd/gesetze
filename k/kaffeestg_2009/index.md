@@ -18,9 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 21.12.2010 I 2221
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Steuergebiet, Steuergegenstand
 
@@ -59,7 +57,6 @@ nach Absatz 6 anzuwendenden Fassung der Kombinierten Nomenklatur neu
 zu bestimmen und als Folge dessen den Wortlaut des Gesetzes an die
 geänderte Nomenklatur anzupassen, soweit sich hieraus steuerliche
 Änderungen nicht ergeben.
-
 
 ### § 2 Steuertarif
 
@@ -120,11 +117,9 @@ Kaffeemengen und
 -arten              festzulegen und kaffeehaltige Waren nach dem
 tatsächlichen Kaffeegehalt zu besteuern.
 
-
 ### § 3 Kaffeehaltige Waren
 
 Für kaffeehaltige Waren gelten die §§ 13 bis 19 entsprechend.
-
 
 ### § 4 Sonstige Begriffsbestimmungen
 
@@ -198,12 +193,7 @@ Im Sinn dieses Gesetzes ist oder sind
 11. Personen: natürliche und juristische Personen sowie
     Personenvereinigungen ohne eigene Rechtspersönlichkeit.
 
-
-
-
-
 ## Abschnitt 2 - Steueraussetzung und Besteuerung
-
 
 ### § 5 Steuerlager
 
@@ -216,7 +206,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
 zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum
 Steuerlager gehören.
-
 
 ### § 6 Steuerlagerinhaber
 
@@ -258,10 +247,6 @@ Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung
     Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder
     das Steuerlager unter amtlichen Verschluss zu nehmen.
 
-
-
-
-
 ### § 7 Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Kaffee vom Ort der
@@ -284,7 +269,6 @@ Sicherheitsleistung zu erlassen und dabei zur Vorbeugung des
 Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen,
 den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn steuerliche
 Belange dem nicht entgegenstehen.
-
 
 ### § 8 Begünstigte
 
@@ -376,7 +360,6 @@ Begünstigte näher zu regeln und zur Verfahrensvereinfachung anstelle
 einer Freistellungsbescheinigung andere geeignete Dokumente
 zuzulassen.
 
-
 ### § 9 Beförderungen im und aus dem Steuergebiet
 
 (1) Kaffee darf unter Steueraussetzung befördert werden
@@ -461,10 +444,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     aufgenommen gilt, soweit Steuerbelange dadurch nicht beeinträchtigt
     werden.
 
-
-
-
-
 ### § 10 Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter
@@ -479,7 +458,6 @@ Verfahren der Steueraussetzung entnommen.
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der
 Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 2 zu erlassen.
-
 
 ### § 11 Steuerentstehung, Steuerschuldner
 
@@ -555,7 +533,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu
 Absatz 3 zu erlassen, insbesondere zu den Anforderungen an den
 Nachweis.
 
-
 ### § 12 Steueranmeldung, Fälligkeit
 
 (1) Der Steuerschuldner nach § 11 Absatz 4 Nummer 1 erste Alternative
@@ -575,9 +552,7 @@ Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 die Einzelheiten zur Steueranmeldung und zur Entrichtung der Steuer zu
 bestimmen.
 
-
 ## Abschnitt 3 - Einfuhr von Kaffee aus Drittländern oder Drittgebieten
-
 
 ### § 13 Einfuhr
 
@@ -631,16 +606,11 @@ bestimmen.
     Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der
     Gemeinschaft.
 
-
-
-
-
 ### § 14 Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich
 Kaffee befindet, Unregelmäßigkeiten ein, gilt Artikel 215 des
 Zollkodex sinngemäß.
-
 
 ### § 15 Steuerentstehung, Steuerschuldner
 
@@ -683,9 +653,7 @@ zu regeln, soweit dies zur Sicherung des Steueraufkommens oder zur
 Anpassung an die Behandlung im Steuergebiet hergestellten Kaffees oder
 wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
 
-
 ## Abschnitt 4 - Beförderung und Besteuerung von Kaffee des zollrechtlich freien Verkehrs anderer Mitgliedstaaten
-
 
 ### § 16 Erwerb durch Privatpersonen
 
@@ -717,7 +685,6 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens vorzuschreiben, bei welcher Menge Kaffee nach Absatz
 1 widerleglich vermutet wird, dass dieser nicht für den Eigenbedarf
 der Privatperson bestimmt ist.
-
 
 ### § 17 Bezug und Besitz zu gewerblichen Zwecken
 
@@ -793,7 +760,6 @@ erlassen, insbesondere zum Besteuerungsverfahren und zur Sicherheit
 und für die Anzeigepflicht nach Absatz 4 Satz 2 ein Hauptzollamt zu
 bestimmen.
 
-
 ### § 18 Versandhandel
 
 (1) Versandhandel betreibt, wer Kaffee aus dem zollrechtlich freien
@@ -852,7 +818,6 @@ Vorschriften zu den Absätzen 1, 2, 4 bis 6 zu erlassen und zur
 Steuervereinfachung auch Lieferungen an gewerbliche Abnehmer in den
 Versandhandel einzubeziehen.
 
-
 ### § 19 Unregelmäßigkeiten während der Beförderung
 
 (1) Treten während der Beförderung von Kaffee nach § 17 Absatz 1 und 2
@@ -873,9 +838,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 Vorschriften zu den Absätzen 1 und 3 zu erlassen.
 
-
 ## Abschnitt 5 - Steuervergünstigungen
-
 
 ### § 20 Steuerbefreiungen
 
@@ -910,7 +873,6 @@ bezogen werden kann und bei unterbliebener oder nicht fristgerechter
 Lieferung oder Ausfuhr in der Person des Herstellers die Steuer
 entsteht, sowie das zur Sicherung des Steueraufkommens notwendige
 Verfahren zu regeln.
-
 
 ### § 21 Steuerentlastung
 
@@ -952,12 +914,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 4.  zur Verwaltungsvereinfachung Mindestmengen an Kaffee vorzuschreiben,
     für den eine Steuerentlastung beantragt werden kann.
 
-
-
-
-
 ## Abschnitt 6 - Steueraufsicht, Besondere Ermächtigungen
-
 
 ### § 22 Steueraufsicht
 
@@ -984,7 +941,6 @@ kann, dass der Kaffee
 
 
 Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
-
 
 ### § 23 Besondere Ermächtigungen
 
@@ -1117,9 +1073,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
 ## Abschnitt 7 - Schlussbestimmungen
-
 
 ### § 24 Ordnungswidrigkeiten
 
@@ -1134,10 +1088,6 @@ handelt, wer vorsätzlich oder leichtfertig
 2.  entgegen § 17 Absatz 4 Satz 1 und 2 und § 18 Absatz 4 Satz 1 und 5,
     jeweils auch in Verbindung mit § 3, eine Anzeige nicht oder nicht
     rechtzeitig erstattet.
-
-
-
-
 
 ### § 25 Übergangsvorschriften
 

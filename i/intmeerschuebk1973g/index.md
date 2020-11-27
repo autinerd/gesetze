@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 2.6.2008 II 520
 
-
 ## Art 1
 
 (1) Dem in London am 4. März 1974 von der Bundesrepublik Deutschland
@@ -38,7 +37,6 @@ vom 17. Februar 1978 zu dem Internationalen Übereinkommen von 1974 zum
 Schutz des menschlichen Lebens auf See (BGBl. 1980 II S. 525) wird
 zugestimmt.
 
-
 ## Art 1a
 
 Hoheitsbereich im Sinne des Artikels 4 Abs. 2 des Übereinkommens ist
@@ -46,7 +44,6 @@ hinsichtlich der in Artikel 56 Abs. 1 Buchstabe b des
 Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982
 bezeichneten Befugnisse auch die deutsche ausschließliche
 Wirtschaftszone.
-
 
 ## Art 1b
 
@@ -57,13 +54,11 @@ Verhütung der Meeresverschmutzung Zuständiger durch geeignete
 Maßnahmen sicherzustellen, daß kein Verstoß im Sinne des Artikels 4
 des Übereinkommens begangen wird.
 
-
 ## Art 1c
 
 Für den Anspruch, der in Artikel 7 Abs. 2 des Übereinkommens sowie in
 der in Artikel 1 Abs. 2 genannten Regelung erwähnt ist, schließt der
 Ausdruck "Schiff" den Eigentümer und den Betreiber des Schiffes ein.
-
 
 ## Art 2
 
@@ -79,16 +74,13 @@ Kraft zu setzen.
 Bundesrates, wenn sie Regelungen enthalten, die von den Ländern als
 eigene Angelegenheit auszuführen sind.
 
-
 ## Art 2a (weggefallen)
 
 -
 
-
 ## Art 3
 
 (Änderung des Seeaufgabengesetzes)
-
 
 ## Art 4
 
@@ -108,11 +100,9 @@ Rechtshilfeersuchen, wenn es von einer Schiffahrtspolizeibehörde oder
 der für die Durchführung der genannten Vereinbarung zuständigen
 Schiffssicherheitsbehörde dieses Staates entgegengenommen werden kann.
 
-
 ## Art 5
 
 (weggefallen)
-
 
 ## Art 6
 

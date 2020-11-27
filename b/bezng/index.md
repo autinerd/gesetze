@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 112 G v. 5.2.2009 I 160
 
-
 ## § 1 Zusammenführung der Bundeseisenbahnen
 
 Das unter dem Namen "Deutsche Bundesbahn" als nicht rechtsfähiges
@@ -28,14 +27,12 @@ werden zu einem nicht rechtsfähigen Sondervermögen des Bundes
 zusammengeführt und vom Bund unter dem Namen "Bundeseisenbahnvermögen"
 verwaltet.
 
-
 ## § 2 Vermögen des Bundeseisenbahnvermögens
 
 Vermögensgegenstände und -rechte sowie Verbindlichkeiten der in § 1
 genannten Sondervermögen "Deutsche Bundesbahn" und "Deutsche
 Reichsbahn" sind Vermögensgegenstände und -rechte sowie
 Verbindlichkeiten des Bundeseisenbahnvermögens.
-
 
 ## § 3 Gliederung und Aufgaben des Bundeseisenbahnvermögens
 
@@ -76,10 +73,6 @@ Verbindlichkeiten des Bundeseisenbahnvermögens.
 5.  die Verwaltung und Verwertung der Liegenschaften, die im Sinne des §
     20 Abs. 1 nicht bahnnotwendig sind.
 
-
-
-
-
 ## § 4 Stellung im gerichtlichen und außergerichtlichen Verkehr
 
 (1) Das Bundeseisenbahnvermögen kann im Rechtsverkehr unter seinem
@@ -89,7 +82,6 @@ Namen handeln, klagen und verklagt werden.
 durch den Sitz der Behörde bestimmt, die nach der in § 6 Abs. 6
 genannten Verwaltungsordnung berufen ist, das Bundeseisenbahnvermögen
 im Rechtsstreit zu vertreten.
-
 
 ## § 5 Haftung des Bundes
 
@@ -109,7 +101,6 @@ Eintragung bestehenden Verbindlichkeiten des Bundeseisenbahnvermögens
 mit Ausnahme der Verbindlichkeiten, die in § 20 Abs. 1 Satz 2 genannt
 sind. Satz 1 gilt entsprechend für Verbindlichkeiten, die das
 Bundeseisenbahnvermögen gemäß § 17 eingeht.
-
 
 ## § 6 Verwaltungsaufbau
 
@@ -141,7 +132,6 @@ Verwaltungsordnung geregelt, soweit das Gesetz über die
 Eisenbahnverkehrsverwaltung des Bundes nichts anderes bestimmt. Die
 Verwaltungsordnung, die der Präsident aufstellt, bedarf der Zustimmung
 des Bundesministeriums für Verkehr, Bau und Stadtentwicklung.
-
 
 ## § 7 Personalwesen
 
@@ -214,7 +204,6 @@ gemäß § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen
 sind, erlassen, soweit die Eigenart des Eisenbahnbetriebes es
 erfordert.
 
-
 ## § 8 Personalvertretung
 
 (1) Spätestens drei Monate nach Eintragung der gemäß § 1 Abs. 1 des
@@ -261,7 +250,6 @@ Anwendung.
 rechtzeitig zu erfolgen, daß die dort genannte Frist eingehalten
 werden kann.
 
-
 ## § 9 Schwerbehindertenvertretung
 
 (1) § 8 Abs. 1 gilt entsprechend für die Wahlen zu den
@@ -286,7 +274,6 @@ Hauptschwerbehindertenvertretungen bestellen gemeinsam den
 Wahlvorstand für die Neuwahl der Hauptschwerbehindertenvertretung beim
 Bundeseisenbahnvermögen.
 
-
 ## § 10 Vorgesetzte
 
 (1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ist
@@ -303,7 +290,6 @@ für Verkehr, Bau und Stadtentwicklung nach Maßgabe der
 Verwaltungsordnung. Die Verwaltungsordnung bestimmt die Dienstposten,
 deren Besetzung der Zustimmung des Bundesministeriums für Verkehr, Bau
 und Stadtentwicklung bedarf.
-
 
 ## § 11 Verwendung auf anderen Dienstposten
 
@@ -325,7 +311,6 @@ es erfordern. Dienstliche Gründe im Sinne der Nummern 1 und 2 sind
 solche, die sich aus Änderungen der Organisation des
 Bundeseisenbahnvermögens oder der Gesellschaft ergeben.
 
-
 ## § 12 Besoldungsrechtliche Regelungen
 
 (1) Beim Bundeseisenbahnvermögen können die nach § 26 Abs. 1 des
@@ -342,7 +327,6 @@ sachgerechter Bewertung zulässig.
 Anwendung, daß gleichwertige Tätigkeiten bei der Deutsche Bahn
 Aktiengesellschaft als amtsgemäße Funktionen gelten. § 11 bleibt
 unberührt.
-
 
 ## § 13 Gesetzliche Sozialeinrichtungen
 
@@ -376,7 +360,6 @@ bedarf.
 Reichsbahn-Betriebskrankenkasse, auch für den Fall der Vereinigung der
 beiden Kassen zur Bahnbetriebskrankenkasse, erstrecken sich auf die
 Deutsche Bahn Aktiengesellschaft.
-
 
 ## § 14 Krankenversorgung der Beamten des Bundeseisenbahnvermögens
 
@@ -432,7 +415,6 @@ anschließend einem Sozialversicherungsträger
 (Bahnbetriebskrankenkasse, ersatzweise Bahnversicherungsanstalt) gegen
 Wertausgleich übergeben.
 
-
 ## § 15 Betriebliche Sozialeinrichtungen, Selbsthilfeeinrichtungen
 
 (1) Die Bundesbahnversicherungsanstalt Abteilung B als betriebliche
@@ -481,7 +463,6 @@ Eigentumsübertragungen befreit.
 Bahnversicherungsanstalt Abteilung B von der Deutschen
 Rentenversicherung Knappschaft-Bahn-See weitergeführt.
 
-
 ## § 16 Wirtschaftsführung
 
 (1) Die nicht durch eigene Einnahmen gedeckten Aufwendungen des
@@ -518,7 +499,6 @@ Wert im Einzelfall 10 Millionen Deutsche Mark übersteigt, bedürfen der
 Genehmigung des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung und des Bundesministeriums der Finanzen.
 
-
 ## § 17 Schuldurkunden
 
 (1) Die Schuldurkunden des Bundeseisenbahnvermögens stehen den
@@ -528,7 +508,6 @@ unberührt.
 (2) Die Schulden des Bundeseisenbahnvermögens werden nach den für die
 Verwaltung der allgemeinen Bundesschuld jeweils geltenden Grundsätzen
 verwaltet.
-
 
 ## § 18 Jahresabschluß und Berichtspflicht
 
@@ -558,13 +537,11 @@ Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Verlangen
 Auskunft über die wesentlichen Vorgänge in der Verwaltung und
 Wirtschaftsführung des Bundeseisenbahnvermögens zu erteilen.
 
-
 ## § 19 Haushalts- und Wirtschaftsprüfung
 
 Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung des
 Bundeseisenbahnvermögens. Teil V der Bundeshaushaltsordnung ist
 entsprechend anzuwenden.
-
 
 ## § 20 Übertragungsverpflichtung des Bundeseisenbahnvermögens
 
@@ -622,14 +599,12 @@ Satz 2 übertragenen Liegenschaften, wobei nur der reine
 Grundstückswert zu berücksichtigen ist, 5 Milliarden Deutsche Mark
 übersteigt. Die Garantie erlischt spätestens am 31. Dezember 2001.
 
-
 ## § 21 Vermögensübergang
 
 Liegenschaften des Bundeseisenbahnvermögens, die unmittelbar und
 ausschließlich bahnnotwendig sind, gehen auf die Deutsche Bahn
 Aktiengesellschaft mit dem Tag ihrer Eintragung in das Handelsregister
 über.
-
 
 ## § 22 Verfügungsbefugnis der Deutsche Bahn Aktiengesellschaft
 
@@ -678,7 +653,6 @@ Einvernehmen mit dem Bundesministerium der Justiz geändert werden, um
 andere Rechtsvorgänger der Bundesrepublik Deutschland
 Bundeseisenbahnvermögen, der Bundesrepublik Deutschland Sondervermögen
 "Deutsche Bundesbahn" oder der Deutschen Reichsbahn aufzunehmen.
-
 
 ## § 23 Feststellung des Übergangs und Vornahme der Übertragung
 
@@ -746,7 +720,6 @@ des Bundeseisenbahnvermögens geschehen.
 (6) Vergleiche sind zulässig; wird ein Vergleich geschlossen, ergeht
 ein dem Vergleich entsprechender Bescheid.
 
-
 ## § 24 Schiedsstelle
 
 (1) Auf Antrag der Deutsche Bahn Aktiengesellschaft entscheidet eine
@@ -779,13 +752,11 @@ der Zivilprozeßordnung das Verfahren der Schiedsstelle und deren
 Besetzung zu regeln. In dieser Rechtsverordnung kann auch geregelt
 werden, ob und in welcher Höhe eine Vergütung gezahlt wird.
 
-
 ## § 25 Verwaltungsvorschriften
 
 Verwaltungsvorschriften zur Durchführung der §§ 20 bis 24 erläßt das
 Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Einvernehmen mit dem Bundesministerium der Finanzen.
-
 
 ## § 26 Übertragung von Liegenschaften auf Dritte
 
@@ -850,7 +821,6 @@ für mindestens 30 Jahre nicht einhält.
 (7) Für die Übertragung nach Absatz 1 und die Rückübertragung gilt §
 11 Abs. 2 des Deutsche Bahn Gründungsgesetzes entsprechend.
 
-
 ## § 27 Anwendung von Vorschriften auf ausgegliederte Gesellschaften
 
 (1) § 7 Abs. 4, 5, § 11 Nr. 2, § 12 Abs. 2 sowie § 15 Abs. 1 Satz 4,
@@ -869,7 +839,6 @@ Bundeseisenbahnvermögens erfolgen. Die Zugehörigkeit einer
 Liegenschaft zum Vermögen der Deutsche Bahn Aktiengesellschaft kann
 auch im Falle ausgegliederter Gesellschaften durch Übergabebescheid
 festgestellt werden.
-
 
 ## § 28 Übergangsregelung
 
@@ -904,12 +873,10 @@ auch gegen die Gesellschaft, die nach Ausgliederung gemäß § 2 Abs. 1
 des Deutsche Bahn Gründungsgesetzes Eigentümer der betreffenden
 Liegenschaft ist.
 
-
 ## § 29 Rechtsverordnungen
 
 Rechtsverordnungen auf Grund dieses Gesetzes bedürfen nicht der
 Zustimmung des Bundesrates.
-
 
 ## § 30 Auflösung des Bundeseisenbahnvermögens
 
@@ -925,7 +892,6 @@ Auszubildendenvertretungen sowie Schwerbehindertenvertretungen
 bestehen bei Auflösung des Bundeseisenbahnvermögens nach Absatz 1 bei
 der Stelle fort, der die Aufgaben des Bundeseisenbahnvermögens
 übertragen werden.
-
 
 ## Anlage (zu § 15 Abs. 2)
 
@@ -981,10 +947,6 @@ B.  Selbsthilfeeinrichtungen der bisherigen Bundeseisenbahnen
 
 
 8.  Sparda-Banken, Verband der Sparda-Banken
-
-
-
-
 
 ## Anlage (zu § 22 Abs. 1)
 

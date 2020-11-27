@@ -22,10 +22,7 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 35b G v. 24.12.2003 I 2954
 
-
 ## Erster Abschnitt - Zeitpunkt der Wahl, Wahlleiter und Wahlausschuß
-
-
 
 ### § 1
 
@@ -33,7 +30,6 @@ Der Vorstand der Handwerkskammer bestimmt den Tag der Wahl. Er
 bestellt einen Wahlleiter sowie einen Stellvertreter, die nicht zu den
 Wahlberechtigten gemäß § 96 Abs. 1 und § 98 der Handwerksordnung
 gehören und nicht Mitarbeiter der Handwerkskammer sein dürfen.
-
 
 ### § 2
 
@@ -86,19 +82,13 @@ Abs. 4 Satz 3 freizustellen.
 
 (10) (weggefallen)
 
-
 ## Zweiter Abschnitt - Wahlbezirk
-
-
 
 ### § 3
 
 Der Handwerkskammerbezirk bildet einen Wahlbezirk.
 
-
 ## Dritter Abschnitt - Stimmbezirke
-
-
 
 ### § 4
 
@@ -106,18 +96,11 @@ Zur Aufteilung der Mitglieder der Vollversammlung können die
 Handwerkskammern in ihrer Satzung gemäß § 93 Abs. 2 der
 Handwerksordnung Gruppen bilden.
 
-
 ## Vierter Abschnitt - Abstimmungsvorstand
-
-
 
 ### (XXXX) §§ 5 und 6 (weggefallen)
 
-
-
 ## Fünfter Abschnitt - Wahlvorschläge
-
-
 
 ### § 7
 
@@ -125,7 +108,6 @@ Der Wahlleiter hat spätestens drei Monate vor dem Wahltag in den für
 die Bekanntmachungen der Handwerkskammer bestimmten Organen zur
 Einreichung von Wahlvorschlägen aufzufordern und dabei die
 Erfordernisse dieser Wahlvorschläge (§§ 8 bis 10) bekanntzugeben.
-
 
 ### § 8
 
@@ -166,12 +148,10 @@ aber von 70 Wahlberechtigten, unterzeichnet sein.
 auch Beruf, Wohnort und Wohnung angeben. Die Unterschriften müssen
 leserlich sein.
 
-
 ### § 9
 
 Die Wahlvorschläge müssen spätestens am fünfunddreißigsten Tag vor dem
 Wahltag bei dem Wahlleiter eingereicht sein.
-
 
 ### § 10
 
@@ -216,7 +196,6 @@ Wahltag bei dem Wahlleiter eingereicht sein.
 
 (2) Die Bescheinigungen sind gebührenfrei auszustellen.
 
-
 ### § 11
 
 (1) Weisen die Wahlvorschläge Mängel auf, so fordert der Wahlleiter
@@ -242,10 +221,7 @@ zugelassenen Form, aber ohne die Namen der Unterzeichner. Jeder
 Wahlvorschlag soll eine fortlaufende Nummer und ein Kennwort erhalten,
 das ihn von allen anderen Wahlvorschlägen deutlich unterscheidet.
 
-
 ## Sechster Abschnitt - Wahl
-
-
 
 ### § 12
 
@@ -290,7 +266,6 @@ bezeichnen. Ergänzungen sind als Nachtrag aufzunehmen.
 
 (8) Das Wählerverzeichnis ist bis zum Wahltag fortzuführen.
 
-
 ### § 13
 
 (1) Die ihr Wahlrecht wahrnehmenden Gesellen und Arbeitnehmer mit
@@ -305,7 +280,6 @@ Wahlberechtigter legitimiert oder wer von kurzzeitiger
 Arbeitslosigkeit (§ 98) betroffen ist. Diese ist dem Wahlleiter durch
 Vorlage einer Bescheinigung der Agentur für Arbeit nachzuweisen.
 
-
 ### § 14
 
 (1) Bei der Wahl sind nur solche Stimmen gültig, die unverändert auf
@@ -315,7 +289,6 @@ veröffentlichten Vorschläge lauten.
 (2) Zur Gültigkeit des Stimmzettels genügt es, daß er den
 Wahlvorschlag nach der vom Wahlleiter veröffentlichten Nummer und dem
 Kennwort bezeichnet.
-
 
 ### § 15
 
@@ -327,7 +300,6 @@ Stimmzettel sollen für die Wahl der Wahlberechtigten nach § 96 Abs. 1
 und der Wahlberechtigten nach § 98 der Handwerksordnung in
 verschiedener Farbe hergestellt sein. Sie enthalten den Namen oder das
 Kennwort der nach § 11 zugelassenen Wahlvorschläge.
-
 
 ### § 16
 
@@ -368,7 +340,6 @@ müssen die Wahlunterlagen am ersten darauf folgenden Werktag bis
 spätestens 18.00 Uhr bei der Handwerkskammer eingehen. Die rechtzeitig
 bei der Kammer eingegangen Wahlumschläge werden nach Prüfung der
 Wahlberechtigung unverzüglich ungeöffnet in die Wahlurne gelegt.
-
 
 ### § 17
 
@@ -424,7 +395,6 @@ der Arbeitnehmer.
 fertigen. Diese ist zusammen mit den Wahlunterlagen aufzubewahren und
 der Aufsichtsbehörde auf Anforderung vorzulegen.
 
-
 ### § 17a
 
 (1) Das Wählerverzeichnis, die Wahlberechtigungsscheine und sonstigen
@@ -442,7 +412,6 @@ benötigen, die sich auf die Vorbereitung, Durchführung oder
 Wahlprüfungsangelegenheiten oder auf wahlstatistische Arbeiten
 beziehen.
 
-
 ### § 18
 
 (1) Nach Übergabe der Unterlagen an den Wahlleiter stellt der
@@ -455,19 +424,13 @@ und der Aufsichtsbehörde auf Anforderung vorzulegen.
 (2) Als gewählt gelten die Bewerber desjenigen Wahlvorschlags, der die
 Mehrheit der abgegebenen Stimmen erhalten hat.
 
-
 ## Siebenter Abschnitt - Engere Wahl
-
-
 
 ### § 19
 
 (weggefallen)
 
-
 ## Achter Abschnitt - Wegfall der Wahlhandlung
-
-
 
 ### § 20
 
@@ -475,21 +438,16 @@ Wird für den Wahlbezirk nur ein Wahlvorschlag zugelassen, so gelten
 die darauf bezeichneten Bewerber als gewählt, ohne daß es einer
 Wahlhandlung bedarf.
 
-
 ## Neunter Abschnitt - Beschwerdeverfahren, Kosten
-
-
 
 ### § 21
 
 Beschwerden über die Ernennung der Beisitzer des Wahlausschusses
 entscheidet die höhere Verwaltungsbehörde.
 
-
 ### § 22
 
 Die Kosten der Wahl trägt die Handwerkskammer.
-
 
 ### Anlage zur Wahlordnung für die Wahlen der Mitglieder der Handwerkskammern
 

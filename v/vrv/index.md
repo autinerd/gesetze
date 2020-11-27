@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 24.9.2009 I 3145
 
-
 ## Abschnitt 1 - Zuständigkeit, Einrichtung des Vereinsregisters
-
-
 
 ### § 1 Zuständigkeit
 
@@ -45,7 +42,6 @@ Rechtspfleger zuständig, soweit nicht nach dem Bürgerlichen Gesetzbuch
 oder dieser Verordnung der Urkundsbeamte der Geschäftsstelle zuständig
 ist.
 
-
 ### § 2 Aufbau des Vereinsregisters
 
 (1) Das Vereinsregister wird in Karteiform geführt. Es enthält für
@@ -67,7 +63,6 @@ Rechtsverordnung nach § 55a Abs. 1 des Bürgerlichen Gesetzbuchs die
 maschinelle Führung als automatisierte Datei angeordnet wird.
 
 (3) (weggefallen)
-
 
 ### § 3 Gestaltung und Benutzung des Registerblatts
 
@@ -143,7 +138,6 @@ dem Muster in der Anlage 1 zu dieser Verordnung. Es sind einzutragen:
 Eintragungen in den Spalten 1 bis 4 sind in Spalte 5 zu
 unterschreiben.
 
-
 ### § 4 Schließung des Registerblatts
 
 (1) Ist das Registerblatt zu schließen, so sind sämtliche Seiten des
@@ -177,7 +171,6 @@ sichergestellt ist, daß die Daten innerhalb angemessener Zeit lesbar
 gemacht werden können. Sie können bei einer anderen Stelle aufbewahrt
 werden, wenn sie elektronisch auch beim Registergericht abrufbar sind.
 
-
 ### § 5 Neufassung des Registerblatts
 
 (1) Ist ein Registerblatt unübersichtlich geworden, so sind die noch
@@ -198,7 +191,6 @@ Neufassung wesentlich vereinfacht wird.
 (3) Eine Benachrichtigung der Beteiligten von der Neufassung ist nicht
 notwendig. Bestehen Zweifel über die Art oder den Umfang der
 Neufassung, so sind die Beteiligten vorher zu hören.
-
 
 ### § 6 Sitzverlegung und Umwandlung von Vereinen
 
@@ -242,7 +234,6 @@ und umgekehrt. Die vorstehenden Vorschriften gelten entsprechend, wenn
 Vereine in andere Rechtsträger aufgenommen werden oder aus ihnen
 andere Rechtsträger entstehen sollen.
 
-
 ### § 7 Registerakten, Handblatt
 
 (1) Für jedes Registerblatt wird eine Registerakte geführt. Die zum
@@ -263,17 +254,13 @@ des Registers wörtlich entsprechendes Handblatt zu führen; es ist
 unter dem Deckel des letzten Bandes der Registerakten zu verwahren und
 in einen Umschlag zu heften, wenn ein Bedürfnis hierfür besteht.
 
-
 ### § 8 Führung des Namensverzeichnisses
 
 Das Namensverzeichnis kann elektronisch geführt werden. Im Übrigen
 richtet sich die Führung des Namensverzeichnisses nach den
 Vorschriften über die Aktenführung.
 
-
 ## Abschnitt 2 - Führung des Vereinsregisters
-
-
 
 ### § 9 Eintragungsverfügung
 
@@ -293,7 +280,6 @@ darum gebeten hat.
 (3) (weggefallen)
 
 (4) (weggefallen)
-
 
 ### § 10 Form der Eintragungen
 
@@ -328,7 +314,6 @@ der Zustimmungsbedürftigkeit bestimmter Rechtsgeschäfte des Schuldners
 nach § 277 der Insolvenzordnung sowie die sonstigen in § 75 des
 Bürgerlichen Gesetzbuchs vorgesehenen Vermerke.
 
-
 ### § 11 Änderung und Löschung von Eintragungen
 
 (1) Änderungen des Inhalts einer Eintragung sowie Löschungen sind
@@ -350,7 +335,6 @@ aktuellen Ausdrucks nach § 32 Abs. 3 nicht beeinträchtigt wird.
 (3) Soll eine Eintragung von Amts wegen gelöscht werden, weil sie
 mangels einer wesentlichen Voraussetzung unzulässig war, so erfolgt
 die Löschung durch Eintragung des Vermerks "Von Amts wegen gelöscht".
-
 
 ### § 12 Berichtigung von Eintragungen
 
@@ -377,7 +361,6 @@ bekanntzugeben.
 beseitigen, daß der rote Strich durch kleine schwarze Striche
 durchkreuzt wird.
 
-
 ### § 13 Bekanntgabe gegenüber den Beteiligten
 
 (1) Für die Bekanntgabe der Eintragung an die Beteiligten sollen
@@ -391,7 +374,6 @@ brauchen sie nicht unterschrieben werden. Anstelle der Unterschrift
 ist der Vermerk "Dieses Schreiben ist maschinell erstellt und auch
 ohne Unterschrift wirksam" anzubringen.
 
-
 ### § 14 Öffentliche Bekanntmachung der Ersteintragung
 
 Die Veröffentlichung der Eintragung des Vereins ist unverzüglich zu
@@ -402,7 +384,6 @@ bedarf es nicht. § 13 Abs. 2 gilt entsprechend. Erfolgen mehrere
 Veröffentlichungen desselben Gerichts gleichzeitig, so sind sie
 möglichst zusammenzufassen.
 
-
 ### § 15 Erreichbarkeit des Vereins
 
 Bei der Benachrichtigung über die erstmalige Eintragung in das
@@ -410,7 +391,6 @@ Register, bei der Eintragung nach § 6 Abs. 1 und in anderen Fällen, in
 denen dies zweckmäßig ist, um die Erreichbarkeit des Vereins
 sicherzustellen, kann das Registergericht den Verein auffordern, die
 Änderung der ladungsfähigen Vereinsanschrift unverzüglich mitzuteilen.
-
 
 ### § 16 Einsicht in das Vereinsregister
 
@@ -421,7 +401,6 @@ Werden die vom Verein zum Register eingereichten Dokumente oder
 geschlossene Registerblätter elektronisch aufbewahrt, wird die
 Einsicht nach § 31 Satz 2 gewährt. Dasselbe gilt für die Einsicht in
 ein elektronisch geführtes Namensverzeichnis.
-
 
 ### § 17 Abschriften, Bescheinigungen und Zeugnisse
 
@@ -452,14 +431,9 @@ angegeben werden.
 des Ortes und Tages zu unterschreiben und mit dem Gerichtssiegel oder
 Stempel zu versehen.
 
-
 ## Abschnitt 3 - Besondere Vorschriften für das maschinell geführte Vereinsregister
 
-
-
 ### Unterabschnitt 1 - Einrichtung des maschinell geführten Vereinsregisters
-
-
 
 #### § 18 Grundsatz
 
@@ -468,7 +442,6 @@ des Bürgerlichen Gesetzbuchs in maschineller Form als automatisierte
 Datei geführt, sind die Vorschriften der Abschnitte 1 und 2
 entsprechend anzuwenden, soweit nachfolgend nichts anderes bestimmt
 ist.
-
 
 #### § 19 Begriff des maschinell geführten Vereinsregisters
 
@@ -483,7 +456,6 @@ Daten dabei nicht verändert werden. Die Verfügung kann auch in
 allgemeiner Form und vor Eintritt eines Änderungsfalls getroffen
 werden.
 
-
 #### § 20 Anforderungen an Anlagen und Programme, Sicherung der Anlagen, Programme und Daten
 
 (1) Hinsichtlich der Anforderungen an die für das maschinell geführte
@@ -494,7 +466,6 @@ Grundbuchverfügung entsprechend.
 (2) Das eingesetzte Datenverarbeitungssystem soll innerhalb eines
 jeden Landes einheitlich sein und mit den in den anderen Ländern
 eingesetzten Systemen verbunden werden können.
-
 
 #### § 21 Gestaltung des maschinell geführten Vereinsregisters
 
@@ -509,15 +480,11 @@ letzte Stand aller noch nicht gegenstandslos gewordenen Eintragungen
 als fortlaufender Text nach dem Muster in Anlage 2 zu dieser
 Verordnung sichtbar gemacht werden.
 
-
 ### Unterabschnitt 2 - Anlegung des maschinell geführten Registerblatts
-
-
 
 #### § 22 (weggefallen)
 
 -
-
 
 #### § 23 Anlegung des maschinell geführten Registerblattes durch Umschreibung
 
@@ -531,11 +498,9 @@ Tag der ersten Eintragung des Vereins in das Vereinsregister ist in
 dem maschinell geführten Registerblatt in Spalte 5 unter Buchstabe b
 zu vermerken.
 
-
 #### § 24 (weggefallen)
 
 -
-
 
 #### § 25 Freigabe des maschinell geführten Registerblatts
 
@@ -557,10 +522,7 @@ Name(n)."
 Freigabe kann ganz oder teilweise dem Urkundsbeamten der
 Geschäftsstelle übertragen werden.
 
-
 ### Unterabschnitt 3 - Maschinelle Führung des Vereinsregisters
-
-
 
 #### § 26 Registerakten, Namensverzeichnis und Handblatt
 
@@ -576,7 +538,6 @@ das Handblatt bei den Registerakten verwahrt, ist es deutlich als
 Handblatt des wegen Umschreibung geschlossenen Registers zu
 kennzeichnen.
 
-
 #### § 27 Eintragung in das maschinell geführte Vereinsregister
 
 (1) Einer Eintragungsverfügung bedarf es nicht, wenn die Eintragungen
@@ -588,14 +549,12 @@ Gesetzbuchs soll die Eintragung auch auf ihre Richtigkeit,
 Vollständigkeit, Verständlichkeit und auf ihre Übereinstimmung mit der
 Eintragungsverfügung durchgesehen werden.
 
-
 #### § 28 Elektronische Registersignatur
 
 Bei dem maschinell geführten Vereinsregister soll eine Eintragung nur
 möglich sein, wenn die für die Eintragung zuständige Person der
 Eintragung ihren Nachnamen hinzusetzt und beides elektronisch
 signiert. Im übrigen gilt § 75 der Grundbuchverfügung entsprechend.
-
 
 #### § 29 Rötungen
 
@@ -607,7 +566,6 @@ Kenntlichmachung nach Satz 1 ist zu löschen oder auf andere eindeutige
 Weise zu beseitigen. Die Löschung oder sonstige Beseitigung ist zu
 vermerken.
 
-
 #### § 30 Behandlung der nach Neufassung geschlossenen Registerblätter
 
 Wird ein maschinell geführtes Registerblatt nach einer Neufassung
@@ -615,10 +573,7 @@ entsprechend den §§ 4 und 5 geschlossen, soll es, als geschlossen
 erkennbar, weiterhin lesbar und auch in Form von Ausdrucken
 wiedergabefähig bleiben.
 
-
 ### Unterabschnitt 4 - Einsicht in das maschinell geführte Vereinsregister
-
-
 
 #### § 31 Einsicht in das maschinell geführte Vereinsregister
 
@@ -632,7 +587,6 @@ nicht vorgenommen werden können. Für die Einsicht in die vom Verein
 eingereichten Dokumente, die elektronisch aufbewahrt werden, in ein
 elektronisch geführtes Namensverzeichnis oder elektronisch aufbewahrte
 geschlossene Registerblätter gilt Satz 1 entsprechend.
-
 
 #### § 32 Ausdrucke
 
@@ -661,10 +615,7 @@ auch als fortlaufender Text erstellt werden.
 (4) Ausdrucke und amtliche Ausdrucke können dem Antragsteller auch
 elektronisch übermittelt werden.
 
-
 ### Unterabschnitt 5 - Automatisierter Abruf von Daten
-
-
 
 #### § 33 Umfang des automatisierten Datenabrufs
 
@@ -673,16 +624,13 @@ richten sich nach § 79 Abs. 1 bis 4 des Bürgerlichen Gesetzbuchs. Die
 Fertigung von Abdrucken ist zulässig. Abdrucke stehen den Ausdrucken
 (§ 32) nicht gleich.
 
-
 #### § 34
 
 (weggefallen)
 
-
 #### § 35
 
 (weggefallen)
-
 
 #### § 36 Abrufprotokollierung
 
@@ -710,10 +658,7 @@ aufsichtsführenden Stellen zur Verfügung gestellt wurden, sind dort
 spätestens ein Jahr nach ihrem Eingang zu vernichten, sofern sie nicht
 für weitere bereits eingeleitete Prüfungen benötigt werden.
 
-
 ### Unterabschnitt 6 - Schlußbestimmungen
-
-
 
 #### § 37 Datenverarbeitung im Auftrag
 
@@ -731,7 +676,6 @@ Gerichts ist auf Anlagen, die nicht im Eigentum des Auftragnehmers
 stehen, nur zulässig, wenn gewährleistet ist, dass die Daten dem
 uneingeschränkten Zugriff des Gerichts unterliegen und der Eigentümer
 der Anlage keinen Zugang zu den Daten hat.
-
 
 #### § 38 Ersatzregister
 
@@ -759,7 +703,6 @@ auf Registerblätter in Papierform zu übertragen.
 und der wieder in Papierform umgeschriebenen Registerblätter nach
 Absatz 2 gelten die Bestimmungen der Abschnitte 1 und 2.
 
-
 #### § 39 Übergangsregelung
 
 Für das in Papierform geführte Vereinsregister können die bisher
@@ -767,7 +710,6 @@ zulässigen Muster weiterverwendet werden. Wird ein Registerblatt neu
 gefaßt, ist für das neu gefaßte Registerblatt das in § 2 und der
 Anlage 1 zu dieser Verordnung vorgesehene Muster zu verwenden. In
 diesem Falle erhalten die Beteiligten eine Eintragungsnachricht.
-
 
 #### Anlage 1 (zu § 2 Satz 2)
 
@@ -832,9 +774,6 @@ diesem Falle erhalten die Beteiligten eine Eintragungsnachricht.
     *
     *
     *
-
-
-
 
 #### Anlage 2 (zu § 21 Satz 3)
 

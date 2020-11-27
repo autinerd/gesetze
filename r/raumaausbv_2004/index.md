@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 9. 5.2005 I 1285
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der
@@ -28,7 +27,6 @@ Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist,
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Raumausstatter/Raumausstatterin wird gemäß § 25
@@ -36,11 +34,9 @@ der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27,
 Raumausstatter, der Anlage B Abschnitt 1 der Handwerksordnung
 staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Zielsetzung der Berufsausbildung
 
@@ -55,7 +51,6 @@ Planen, Durchführen und Kontrollieren sowie das Handeln im
 betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -124,10 +119,6 @@ Fertigkeiten und Kenntnisse:
 
 20. Durchführen qualitätssichernder Maßnahmen, Kundenservice.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage
@@ -137,13 +128,11 @@ dem Ausbildungsrahmenplan abweichende sachliche und zeitliche
 Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit
 betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan
 zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -151,7 +140,6 @@ Die Auszubildenden haben ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden
 haben das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -181,7 +169,6 @@ der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen
 darstellen, die für die Arbeitsaufgabe relevanten fachlichen
 Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung
 der Arbeitsaufgabe begründen kann.
-
 
 ## § 9 Gesellenprüfung
 
@@ -320,7 +307,6 @@ wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen
 mindestens ausreichende Leistungen, in dem dritten Prüfungsbereich
 dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
 ## § 9a Anrechnungsregelung
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem
@@ -330,7 +316,6 @@ Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort
 zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2
 des Berufsbildungsgesetzes bleibt unberührt.
 
-
 ## § 10 Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -338,11 +323,9 @@ Verordnung bestehen, sind die bisherigen Vorschriften weiter
 anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
 Anwendung der Vorschriften dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
 

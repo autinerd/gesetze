@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 13.1.2012 I 103
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 des Pflichtversicherungsgesetzes vom 5. April
@@ -26,7 +25,6 @@ Auf Grund des § 4 Abs. 1 des Pflichtversicherungsgesetzes vom 5. April
 Juli 1994 (BGBl. I S. 1630) neu gefaßt worden ist, verordnet das
 Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium
 der Finanzen und dem Bundesministerium für Verkehr:
-
 
 ## § 1
 
@@ -41,7 +39,6 @@ Satz 1 entsprechend.
 
 (2) Beginn und Ende des Versicherungsschutzes bestimmen sich nach den
 §§ 187 und 188 des Bürgerlichen Gesetzbuchs.
-
 
 ## § 2
 
@@ -96,7 +93,6 @@ wenn durch den Gebrauch des versicherten Fahrzeugs
 (3) Mitversicherten Personen ist das Recht auf selbständige
 Geltendmachung ihrer Ansprüche einzuräumen.
 
-
 ## § 3
 
 (1) Die Versicherung eines Kraftfahrzeugs hat auch die Haftung für
@@ -108,7 +104,6 @@ werden durch geschleppte und abgeschleppte Fahrzeuge, für die kein
 Haftpflichtversicherungsschutz besteht.
 
 (2) (weggefallen)
-
 
 ## § 4
 
@@ -143,10 +138,6 @@ Von der Versicherung kann die Haftung nur ausgeschlossen werden
 
 
 6.  für Ersatzansprüche wegen Schäden durch Kernenergie.
-
-
-
-
 
 ## § 5
 
@@ -202,7 +193,6 @@ den Betrag von höchstens je 5 000 Euro beschränkt. Satz 1 gilt nicht
 gegenüber einem Fahrer, der das Fahrzeug durch eine strafbare Handlung
 erlangt hat.
 
-
 ## § 6
 
 (1) Wegen einer nach Eintritt des Versicherungsfalls vorsätzlich oder
@@ -222,7 +212,6 @@ der Aufklärungs- oder Schadensminderungspflichten ist die
 Leistungsfreiheit des Versicherers auf höchstens 5 000 Euro
 beschränkt.
 
-
 ## § 7
 
 Wird eine Obliegenheitsverletzung in der Absicht begangen, sich oder
@@ -234,7 +223,6 @@ vorsätzlich oder grob fahrlässig einen Anspruch ganz oder teilweise
 unberechtigt anerkennt oder befriedigt, eine Anzeigepflicht verletzt
 oder bei einem Rechtsstreit dem Versicherer nicht dessen Führung
 überläßt.
-
 
 ## § 8
 
@@ -272,7 +260,6 @@ sonstiger Leistungen verbleibende Restversicherungssumme übersteigt,
 können die sonstigen Leistungen mit ihrem vollen Betrag von der
 Versicherungssumme abgesetzt werden.
 
-
 ## § 9
 
 Sagt der Versicherer durch Aushändigung der zur behördlichen Zulassung
@@ -289,13 +276,11 @@ einer im Versicherungsvertrag bestimmten, mindestens zweiwöchigen
 Frist eingelöst wird und der Versicherungsnehmer die Verspätung zu
 vertreten hat.
 
-
 ## § 10
 
 Änderungen dieser Verordnung und Änderungen der Mindesthöhe der
 Versicherungssumme finden auf bestehende Versicherungsverhältnisse von
 dem Zeitpunkt an Anwendung, zu dem die Änderungen in Kraft treten.
-
 
 ## § 11
 

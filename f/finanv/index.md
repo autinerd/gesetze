@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 20.7.2007 I 1430
 
-
 ## Eingangsformel
 
 Auf Grund des § 34b Abs. 8 Satz 1 des Wertpapierhandelsgesetzes, der
 durch Artikel 1 Nr. 13 des Gesetzes vom 28. Oktober 2004 (BGBl. I S.
 2630) eingefügt worden ist, verordnet das Bundesministerium der
 Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -78,7 +76,6 @@ gelten die §§ 2 bis 5 und 6 nur, soweit sie für die Erstellung von
 Finanzanalysen verantwortlich sind, die direkte Empfehlungen für
 Anlageentscheidungen zu bestimmten Finanzinstrumenten enthalten.
 
-
 ## § 2 Angaben über Ersteller und Verantwortliche
 
 (1) Die Namen der Ersteller, die Bezeichnung ihrer Berufe, in deren
@@ -97,7 +94,6 @@ unterliegen. Sonstige für die Erstellung von Finanzanalysen
 verantwortliche Unternehmen, die den Vorschriften einer
 Selbstregulierung eines Berufsstandes unterliegen, haben auf diese
 Vorschriften hinzuweisen.
-
 
 ## § 3 Grundsätze sachgerechter Erstellung und Darbietung
 
@@ -127,7 +123,6 @@ sicherzustellen. Auf bestehende Zweifel ist hinzuweisen.
 notwendigen Vorkehrungen zu treffen, um auf Verlangen der
 Bundesanstalt für Finanzdienstleistungsaufsicht die sachgerechte
 Erstellung der Finanzanalyse nachvollziehbar darlegen zu können.
-
 
 ## § 4 Zusätzliche Angaben
 
@@ -165,10 +160,6 @@ Bewertungsparameter hinreichend zu erläutern.
     dieselben Finanzinstrumente oder Emittenten beziehen und eine
     abweichende Empfehlung für eine bestimmte Anlageentscheidung
     enthalten.
-
-
-
-
 
 ## § 5 Angaben über Interessen und Interessenskonflikte
 
@@ -301,7 +292,6 @@ fremde Interessen oder Interessenkonflikte angeben.
 
 (6) (weggefallen)
 
-
 ## § 5a Organisationspflichten
 
 (1) Wertpapierdienstleistungsunternehmen, die auf eigene Verantwortung
@@ -422,7 +412,6 @@ dargestellt wird, aber eindeutig als Werbemitteilung gekennzeichnet
 und mit einem Hinweis nach § 31 Abs. 2 Satz 4 Nr. 2 des
 Wertpapierhandelsgesetzes versehen ist.
 
-
 ## § 6 Deutlichkeitsgebot und Verweisungen
 
 (1) Alle Angaben nach § 34b Abs. 1 und 2 des
@@ -449,7 +438,6 @@ Zusammenhang mit der Finanzanalyse für die Empfänger leicht
 nachvollziehbar eine Internetseite oder ein anderer Ort, an dem die
 Angaben für jedermann unmittelbar und leicht zugänglich sind, genannt
 wird.
-
 
 ## § 7 Darbietung bei Weitergabe von Finanzanalysen
 
@@ -497,7 +485,6 @@ soweit diese Finanzanalysen direkt Empfehlungen für
 Anlageentscheidungen zu bestimmten Finanzinstrumenten enthalten.
 
 (5) (weggefallen)
-
 
 ## § 8 Inkrafttreten
 

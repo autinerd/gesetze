@@ -29,7 +29,6 @@ sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29
 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) folgenden
 Staatsvertrag:
 
-
 ## Art 1
 
 (1) Die Flurstücke 2/2, 2/5, 3/1, 3/2 und 4/1 der Flur 6 der Gemarkung
@@ -52,7 +51,6 @@ Spree-Neiße, Gemeinde Schwarze Pumpe, eingegliedert
 
 (4) Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze
 ist in den Anlagen 1 und 2 zu diesem Vertrag dargestellt.
-
 
 ## Art 2
 
@@ -93,7 +91,6 @@ dass die mit der Umgliederung zusammenhängenden Fragen möglichst
 innerhalb von sechs Monaten nach Inkrafttreten dieses Vertrages
 geregelt werden.
 
-
 ## Art 3
 
 (1) Das in den Umgliederungsgebieten belegene Verwaltungsvermögen von
@@ -112,7 +109,6 @@ Land. Gleiches gilt für Verbindlichkeiten gegenüber juristischen
 Personen, die in den Umgliederungsgebieten ihren Sitz haben oder sich
 dort betätigen.
 
-
 ## Art 4
 
 Die beteiligten Gemeinden und Landkreise sind verpflichtet, möglichst
@@ -125,7 +121,6 @@ erforderlichen Erklärungen abzugeben. Die Vereinbarungen bedürfen der
 Genehmigung der jeweils zuständigen Rechtsaufsichtsbehörde. Die
 Verpflichtung nach Satz 1 erstreckt sich auch auf sämtliche Behörden
 der Vertragsparteien einschließlich der Gerichte.
-
 
 ## Art 5
 
@@ -149,14 +144,12 @@ Arbeitsstätte.
 (3) Es werden keine Gastschulbeiträge für Schülerinnen und Schüler aus
 den Umgliederungsgebieten der Vertragsparteien erhoben.
 
-
 ## Art 6
 
 Die Anlagen 1 und 2 sind Bestandteil dieses Vertrages. Ausfertigungen
 der Anlagen werden beim Landesvermessungsamt Brandenburg und beim
 Landesvermessungsamt Sachsen aufbewahrt und können dort eingesehen
 werden.
-
 
 ## Art 7
 
@@ -165,7 +158,6 @@ werden unverzüglich ausgetauscht.
 
 (2) Dieser Vertrag tritt am Tage nach dem Austausch der
 Ratifikationsurkunden in Kraft.
-
 
 ## Schlussformel
 

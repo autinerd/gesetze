@@ -18,12 +18,10 @@ Fundstelle
 
 Stand: vgl. nur noch Fundstellennachweis B
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +29,6 @@ Dem in Sofia am 29. Juni 1994 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Zusammenarbeit zum Schutz und
 zur verträglichen Nutzung der Donau wird zugestimmt. Das Übereinkommen
 wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -41,7 +38,6 @@ verträglichen Nutzung der Donau, die sich ausschließlich auf
 wissenschaftliche, technische oder verwaltungsmäßige Angelegenheiten
 beziehen, durch Rechtsverordnung mit Zustimmung des Bundesrates in
 Kraft zu setzen.
-
 
 ## Art 3
 

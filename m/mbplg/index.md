@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 29.7.2009 I 2542
 
-
 ## § 1 Erfordernis der Planfeststellung
 
 (1) Magnetschwebebahnstrecken einschließlich der für den Betrieb
@@ -32,7 +31,6 @@ Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
 
 (2) Das Eisenbahn-Bundesamt ist Planfeststellungsbehörde und
 Bauaufsichtsbehörde für Betriebsanlagen von Magnetschwebebahnen.
-
 
 ## § 2 Anhörungsverfahren
 
@@ -119,10 +117,6 @@ mit folgenden Maßgaben:
     hätten bekannt sein müssen oder für die Rechtmäßigkeit der
     Entscheidung von Bedeutung sind.
 
-
-
-
-
 ## § 2a Planfeststellungsbeschluss, Plangenehmigung
 
 Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
@@ -162,10 +156,6 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
     Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
     zuzustellen.
 
-
-
-
-
 ## § 2b Rechtswirkungen der Planfeststellung und der Plangenehmigung
 
 Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
@@ -193,10 +183,6 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
     nicht.
 
-
-
-
-
 ## § 2c Planänderung vor Fertigstellung des Vorhabens
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des § 75
@@ -208,7 +194,6 @@ des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
-
 
 ## § 2d Rechtsbehelfe
 
@@ -247,12 +232,10 @@ durch Planergänzung oder durch ein ergänzendes Verfahren behoben
 werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
 bleiben unberührt.
 
-
 ## § 2e Bauaufsichtsbehörde
 
 Das Eisenbahn-Bundesamt ist Bauaufsichtsbehörde für Betriebsanlagen
 von Magnetschwebebahnen.
-
 
 ## § 3 Vorarbeiten
 
@@ -281,7 +264,6 @@ zustande, so setzt die nach Landesrecht zuständige Behörde auf Antrag
 des Trägers des Vorhabens oder des Berechtigten die Entschädigung
 fest. Vor der Entscheidung sind die Beteiligten zu hören.
 
-
 ## § 4 Veränderungssperre, Vorkaufsrecht
 
 (1) Vom Beginn der Auslegung der Pläne im Planfeststellungsverfahren
@@ -305,11 +287,9 @@ Entschädigung verlangen.
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Träger des Vorhabens
 an den betroffenen Flächen ein Vorkaufsrecht zu.
 
-
 ## § 5 (weggefallen)
 
 -
-
 
 ## § 6 Vorzeitige Besitzeinweisung
 
@@ -372,7 +352,6 @@ Wirkung nach § 80 Abs. 5 Satz 1 der Verwaltungsgerichtsordnung kann
 nur innerhalb eines Monats nach der Zustellung des
 Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
-
 ## § 7 Enteignung
 
 (1) Für Zwecke des Baus und des Ausbaus von Betriebsanlagen der
@@ -392,7 +371,6 @@ werden.
 
 (4) Im übrigen gelten die Enteignungsgesetze der Länder.
 
-
 ## § 7a Entschädigungsverfahren
 
 Soweit der Vorhabenträger auf Grund eines Planfeststellungsbeschlusses
@@ -402,7 +380,6 @@ zwischen dem Betroffenen und dem Träger des Vorhabens zustande kommt,
 entscheidet auf Antrag eines der Beteiligten die nach Landesrecht
 zuständige Behörde; für das Verfahren und den Rechtsweg gelten die
 Enteignungsgesetze der Länder entsprechend.
-
 
 ## § 8 Duldungspflicht
 
@@ -430,10 +407,6 @@ Kreuzungsanlagen.
 
 
 4.  die Wasserstraßen, die dem allgemeinen Verkehr dienen.
-
-
-
-
 
 ## § 9 Kosten der Herstellung von Kreuzungsanlagen
 
@@ -475,7 +448,6 @@ Aufteilung der Kosten keine Einigung zustande, so ist hierüber im
 Planfeststellungsbeschluß oder bei der Erteilung der Plangenehmigung
 (§ 2) zu entscheiden.
 
-
 ## § 10 Erhaltung der Kreuzungsanlagen
 
 (1) Die Anlagen an Kreuzungen hat, soweit sie Magnetschwebebahnanlagen
@@ -500,7 +472,6 @@ des Kreuzungsbauwerks.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn etwas anderes vereinbart
 wird.
-
 
 ## § 11 Rechtsverordnungen
 
@@ -529,7 +500,6 @@ Reaktorsicherheit erlassen. Rechtsverordnungen nach Absatz 1 Nr. 1 zum
 Schutz von Leben und Gesundheit der Arbeitnehmer werden im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
 erlassen.
-
 
 ## § 12 Übergangsregelung für Planungen
 

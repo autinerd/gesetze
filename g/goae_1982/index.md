@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 17 G v. 4.12.2001 I 3320
 
-
 ## § 1 Anwendungsbereich
 
 (1) Die Vergütungen für die beruflichen Leistungen der Ärzte bestimmen
@@ -34,7 +33,6 @@ den Regeln der ärztlichen Kunst für eine medizinisch notwendige
 einer medizinisch notwendigen ärztlichen Versorgung hinausgehen, darf
 er nur berechnen, wenn sie auf Verlangen des Zahlungspflichtigen
 erbracht worden sind.
-
 
 ## § 2 Abweichende Vereinbarung
 
@@ -62,12 +60,10 @@ vollstationären, teilstationären sowie vor- und nachstationären
 wahlärztlichen Leistungen eine Vereinbarung nach Absatz 1 Satz 1 nur
 für vom Wahlarzt höchstpersönlich erbrachte Leistungen zulässig.
 
-
 ## § 3 Vergütungen
 
 Als Vergütungen stehen dem Arzt Gebühren, Entschädigungen und Ersatz
 von Auslagen zu.
-
 
 ## § 4 Gebühren
 
@@ -139,7 +135,6 @@ Zahlungspflichtigen unwirksam.
 Zahlungspflichtigen unmittelbar berechnen, so hat der Arzt ihn darüber
 zu unterrichten.
 
-
 ## § 5 Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
 
 (1) Die Höhe der einzelnen Gebühr bemißt sich, soweit in den Absätzen
@@ -185,7 +180,6 @@ Satz 1 das 2,3fache des Gebührensatzes und an die Stelle des
 Zweieinhalbfachen des Gebührensatzes nach § 5 Abs. 3 Satz 1 das
 1,8fache des Gebührensatzes.
 
-
 ## § 5a Bemessung der Gebühren in besonderen Fällen
 
 Im Falle eines unter den Voraussetzungen des § 218a Abs. 1 des
@@ -193,7 +187,6 @@ Strafgesetzbuches vorgenommenen Abbruchs einer Schwangerschaft dürfen
 Gebühren für die in § 24b Abs. 4 des Fünften Buches Sozialgesetzbuch
 genannten Leistungen nur bis zum 1,8fachen des Gebührensatzes nach § 5
 Abs. 1 Satz 2 berechnet werden.
-
 
 ## § 5b Bemessung der Gebühren bei Versicherten des Standardtarifes der privaten Krankenversicherung
 
@@ -207,7 +200,6 @@ das 1,3fache des Gebührensatzes tritt. Bei Gebühren für die in
 Abschnitt M des Gebührenverzeichnisses genannten Leistungen gilt Satz
 1 mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes
 das 1,1fache des Gebührensatzes tritt.
-
 
 ## § 6 Gebühren für andere Leistungen
 
@@ -224,7 +216,6 @@ nicht aufgenommen sind, können entsprechend einer nach Art, Kosten-
 und Zeitaufwand gleichwertigen Leistung des Gebührenverzeichnisses
 berechnet werden.
 
-
 ## § 6a Gebühren bei stationärer Behandlung
 
 (1) Bei vollstationären, teilstationären sowie vor- und
@@ -239,13 +230,11 @@ V des Gebührenverzeichnisses.
 (2) Neben den nach Absatz 1 geminderten Gebühren darf der Arzt Kosten
 nicht berechnen; die §§ 7 bis 10 bleiben unberührt.
 
-
 ## § 7 Entschädigungen
 
 Als Entschädigungen für Besuche erhält der Arzt Wegegeld und
 Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den
 Besuch bedingten Mehrkosten abgegolten.
-
 
 ## § 8 Wegegeld
 
@@ -281,7 +270,6 @@ darf der Arzt das Wegegeld unabhängig von der Anzahl der besuchten
 Patienten und deren Versichertenstatus insgesamt nur einmal und nur
 anteilig berechnen.
 
-
 ## § 9 Reiseentschädigung
 
 (1) Bei Besuchen über eine Entfernung von mehr als 25 Kilometern
@@ -305,7 +293,6 @@ des Wegegeldes eine Reiseentschädigung.
 
 
 (3) § 8 Abs. 2 und 3 gilt entsprechend.
-
 
 ## § 10 Ersatz von Auslagen
 
@@ -375,7 +362,6 @@ wenn ein Arzt eines anderen Gebiets Auftragsleistungen aus Abschnitt M
 oder N erbringt. Für die Versendung der Arztrechnung dürfen Versand-
 und Portokosten nicht berechnet werden.
 
-
 ## § 11 Zahlung durch öffentliche Leistungsträger
 
 (1) Wenn ein Leistungsträger im Sinne des § 12 des Ersten Buches
@@ -388,7 +374,6 @@ berechnen.
 Inanspruchnahme eine von dem die Zahlung Leistenden ausgestellte
 Bescheinigung vorgelegt wird. In dringenden Fällen kann die
 Bescheinigung auch nachgereicht werden.
-
 
 ## § 12 Fälligkeit und Abrechnung der Vergütung, Rechnung
 
@@ -449,16 +434,13 @@ der Bezeichnung der als gleichwertig erachteten Leistung zu versehen.
 Kostenträgern kann eine von den Vorschriften der Absätze 1 bis 4
 abweichende Regelung getroffen werden.
 
-
 ## § 13
 
 (weggefallen)
 
-
 ## § 14
 
 (Inkrafttreten und Übergangsvorschrift)
-
 
 ## Anlage Gebührenverzeichnis für ärztliche Leistungen (Teil I)
 
@@ -1174,10 +1156,6 @@ Allgemeine Bestimmungen
 8.  Neben einer Leistung nach Nummer 5, 6, 7 oder 8 sind die Leistungen
     nach den Nummern 600, 601, 1203, 1204, 1228, 1240, 1400, 1401 und 1414
     nicht berechnungsfähig.
-
-
-
-
 
 ## I. Allgemeine Beratungen und Untersuchungen
 
@@ -13734,10 +13712,6 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 *    *
 
 *    *   Fortsetzung siehe Teil II
-
-
-
-
 
 ## Anlage Gebührenverzeichnis für ärztliche Leistungen (Teil II)
 

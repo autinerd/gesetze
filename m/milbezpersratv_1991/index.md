@@ -21,13 +21,11 @@ Zuletzt geändert durch
 V aufgeh. durch
 :   Art. 3 Abs. 2 Satz 2 V 51-3-5 v. 21.8.2012 I 1804 mWv 1.4.2013
 
-
 ## Eingangsformel
 
 Auf Grund des § 39 des Soldatenbeteiligungsgesetzes (SBG) vom 16.
 Januar 1991 (BGBl. I S. 47) verordnet der Bundesminister der
 Verteidigung:
-
 
 ## § 1
 
@@ -69,10 +67,6 @@ entsprechenden militärischen Dienststellen gebildet:
 
 
 12. Luftwaffenführungskommando.
-
-
-
-
 
 ## § 2
 

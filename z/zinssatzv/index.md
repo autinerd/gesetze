@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1972, Nr 78
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 2 des Preisgesetzes vom 10. April 1948 (Gesetz- und
@@ -24,7 +22,6 @@ Verordnungsblatt des Wirtschaftsrates des Vereinigten
 Wirtschaftsgebietes S. 27), zuletzt geändert durch § 37 des Gesetzes
 über die Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar
 1952 (Bundesgesetzbl. I S. 7), wird verordnet:
-
 
 ## § 1
 
@@ -48,11 +45,9 @@ b)  nach Nummer 35 Abs. 2 der Anlage zur Verordnung PR Nr. 1/72 über die
 beträgt
 6 1/2 vom Hundert jährlich.
 
-
 ## § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlußformel
 

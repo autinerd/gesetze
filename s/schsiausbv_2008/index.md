@@ -22,7 +22,6 @@ Fundstelle
     Berufsschule werden demnächst als Beilage zum Bundesanzeiger
     veröffentlicht.
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
@@ -32,17 +31,14 @@ Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
 für Wirtschaft und Technologie im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft für Schutz und Sicherheit wird nach § 4
 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
 ## § 2 Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
@@ -133,10 +129,6 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 4.  Umweltschutz.
 
-
-
-
-
 ## § 4 Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und
@@ -157,7 +149,6 @@ Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
 Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
-
 ## § 5 Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich
@@ -177,7 +168,6 @@ erforderlich ist.
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
 Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60
 Prozent gewichtet.
-
 
 ## § 6 Teil 1 der Abschlussprüfung
 
@@ -255,10 +245,6 @@ Sicherheitsdienste bestehen folgende Vorgaben:
 
 
 3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
 
 ## § 7 Teil 2 der Abschlussprüfung
 
@@ -357,10 +343,6 @@ bestehen folgende Vorgaben:
 3.  die Prüfungszeit für die Gesprächssimulation beträgt höchstens 30
     Minuten.
 
-
-
-
-
 ## § 8 Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
@@ -427,7 +409,6 @@ Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
 das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
 zu gewichten.
 
-
 ## § 9 Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
@@ -435,7 +416,6 @@ bestehen, können unter Anrechnung der bisher zurückgelegten
 Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt
 werden, wenn die Vertragsparteien dies vereinbaren und noch keine
 Zwischenprüfung abgelegt worden ist.
-
 
 ## § 10 Fortsetzung der Berufsausbildung
 
@@ -451,11 +431,9 @@ Sicherheit“ erzielten Leistungen in den Prüfungsbereichen
 Rechtsgrundlagen für Sicherheitsdienste“ als Teil 1 der
 Abschlussprüfung nach § 6 dieser Verordnung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
-
 
 ## Anlage (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Schutz und Sicherheit
 
@@ -1028,9 +1006,6 @@ Fähigkeiten
     *
     *
     *   2
-
-
-
 
 ## Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 

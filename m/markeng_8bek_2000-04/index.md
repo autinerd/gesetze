@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 737
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994
@@ -40,7 +38,6 @@ Dieses Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom
 
 Bundesministerium der Justiz
 
-
 ## Anlage 1
 
 (Fundstelle: BGBl. I 2000, 737)
@@ -50,14 +47,12 @@ Flag of the International Atomic Energy Agency
 Drapeau de l'Agence Internationale de l'Energie Atomique
 ... (nicht darstellbares weißes Emblem auf mittelblauem Grund)
 
-
 ## Anlage 2
 
 (Fundstelle: BGBl. I 2000, 738)
 
 Emblem der Afrikanischen Organisation für geistiges Eigentum
 ... (nicht darstellbares Emblem weiß und dunkelblau)
-
 
 ## Anlage 3
 

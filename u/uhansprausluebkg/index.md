@@ -19,23 +19,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 19 G v. 23.5.2011 I 898
 
-
 ## Art 1
 
 -
 
-
 ## Art 2 (weggefallen)
-
-
 
 ## Art 3 (weggefallen)
 
-
-
 ## Art 4 (weggefallen)
-
-
 
 ## Art 5
 

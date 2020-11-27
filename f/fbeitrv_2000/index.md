@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 Abs. 16 G v. 7.7.2005 I 1970
 
-
 ## Eingangsformel
 
 Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli
@@ -29,7 +28,6 @@ und den Organisationserlassen vom 17. Dezember 1997 (BGBl. 1998 I S.
 Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
 dem Bundesministerium des Innern, dem Bundesministerium der Finanzen
 und dem Bundesministerium der Justiz:
-
 
 ## § 1 Beitragspflicht
 
@@ -59,7 +57,6 @@ Telekommunikationsgesetzes, die Rücknahme oder der Widerruf der
 Zuteilung nach § 47 des Telekommunikationsgesetzes wirksam wird, oder
 eine Befristung der Zuteilung abläuft. Ein rückwirkender Verzicht ist
 ausgeschlossen.
-
 
 ## § 2 Beitragsbefreiungen
 
@@ -121,7 +118,6 @@ oder einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren
 Personenkreis unterliegen, werden keine Frequenznutzungsbeiträge
 erhoben.
 
-
 ## § 3 Ermittlung des Aufwands und Festlegung von Jahresbeiträgen
 
 (1) Der durch Beiträge abzugeltende Personal- und Sachaufwand wird von
@@ -146,7 +142,6 @@ zum Berechnungszeitpunkt gültigen statistischen Unterlagen der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen maßgeblich.
 
-
 ## § 3a Selbstbehalt
 
 Von dem durch Beiträge abzugeltenden Personal- und Sachaufwand trägt
@@ -154,7 +149,6 @@ der Bund 20 vom Hundert als Selbstbehalt zur Abgeltung des
 Allgemeininteresses an einer störungsfreien und effizienten
 Frequenznutzung. In den Beitragsbescheiden der Behörde ist der
 Selbstbehalt nach Satz 1 zu berücksichtigen.
-
 
 ## § 4 Ermittlung des Aufwands und Festlegung von Jahresbeiträgen für neue Nutzergruppen
 
@@ -171,7 +165,6 @@ Verfahren. Dieser Jahresbeitrag wird auf der Grundlage der der
 Berechnung vorangegangenen beiden Kalenderjahre ermittelt und für das
 dem Jahr der Berechnung nachfolgende Kalenderjahr festgelegt.
 
-
 ## § 5 Fälligkeit
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheides,
@@ -179,19 +172,16 @@ wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 16 des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) ist
 sinngemäß anzuwenden.
 
-
 ## § 6 Säumniszuschlag
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach,
 werden Säumniszuschläge entsprechend § 18 des
 Verwaltungskostengesetzes erhoben.
 
-
 ## § 7 Verjährung
 
 Für die Verjährung des Anspruchs auf Zahlung von Beiträgen gilt § 20
 des Verwaltungskostengesetzes entsprechend.
-
 
 ## § 8 Erstattung von Beitragsanteilen
 
@@ -199,7 +189,6 @@ Für Zeiten innerhalb eines Kalenderjahres, für die keine
 Beitragspflicht nach § 1 Abs. 2 bestand, werden gezahlte
 Beitragsanteile je Kalendermonat mit einem Zwölftel des Jahresbeitrags
 erstattet oder mit der nächsten Beitragszahlung verrechnet.
-
 
 ## § 9 Übergangsvorschriften
 
@@ -217,11 +206,9 @@ Beitragsermittlung und Beitragsfestsetzung § 1 Abs. 3 und § 4.
 
 (3) Für die Beiträge nach Absatz 1 gilt § 3a entsprechend.
 
-
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2000 in Kraft.
-
 
 ## Anlage
 
@@ -835,13 +822,6 @@ Diese Verordnung tritt mit Wirkung vom 1. Januar 2000 in Kraft.
             berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition
             von hinreichend kleinen Flächenelementen, in denen die
             Mindestnutzfeldstärke erreicht wird.
-
-
-
-
-
-
-
 
 ## Anlage 2
 

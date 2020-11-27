@@ -19,14 +19,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 465 V v. 31.10.2006 I 2407
 
-
 ## Eingangsformel
 
 Auf Grund von § 142 Abs. 2 Satz 6 und 7 und § 144 Abs. 4 Satz 3 und 4
 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190)
 verordnet das Bundesministerium für Wirtschaft und Arbeit im
 Einvernehmen mit dem Bundesministerium der Finanzen:
-
 
 ## § 1 Übertragung der Befugnis
 
@@ -38,7 +36,6 @@ Eisenbahnen übertragen. Der Erlass, die Änderung und die Aufhebung
 einer Rechtsverordnung durch die Regulierungsbehörde nach Maßgabe des
 Satzes 1 bedürfen des Einvernehmens mit dem Bundesministerium für
 Wirtschaft und Technologie und dem Bundesministerium der Finanzen.
-
 
 ## § 2 Inkrafttreten
 

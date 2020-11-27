@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 30 G v. 9.12.2010 I 1934
 
-
 ## § 1 Anwendungsbereich
 
 Dieses Gesetz gilt für die Durchführung der Rechtsakte der
@@ -28,14 +27,12 @@ Europäischen Gemeinschaft oder der Europäischen Union über
 gemeinschaftliche Informations- und Absatzförderungsmaßnahmen für
 Agrarerzeugnisse.
 
-
 ## § 2 Zuständige Stelle
 
 Zuständige Stelle für die Durchführung der in § 1 genannten
 Rechtsakte, dieses Gesetzes sowie der auf Grund dieses Gesetzes
 erlassenen Rechtsverordnungen ist die Bundesanstalt für Landwirtschaft
 und Ernährung (Bundesanstalt).
-
 
 ## § 3 Duldungs- und Mitwirkungspflichten
 
@@ -79,7 +76,6 @@ Bundesanstalt eingegangenen Verpflichtungen eines Vertragspartners, so
 finden die Absätze 1 bis 3 auf den Vertragspartner entsprechende
 Anwendung.
 
-
 ## § 4 Ermächtigung zum Erlass von Rechtsverordnungen
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
@@ -101,10 +97,6 @@ genannten Rechtsakten erforderlich ist, Vorschriften zu erlassen
     sowie der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen; §
     16 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen
     und der Direktzahlungen ist entsprechend anzuwenden.
-
-
-
-
 
 ## § 5 Bußgeldvorschriften
 
@@ -132,7 +124,6 @@ Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt.
-
 
 ## § 6 Inkrafttreten
 

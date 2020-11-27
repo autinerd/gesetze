@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 23.12.2003 I 2848
 
-
 ## Eingangsformel
 
 Auf Grund des § 75 des Bundesbesoldungsgesetzes in der Fassung des
 Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
 Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl.
 I S. 1173) wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Geltungsbereich
 
@@ -104,7 +102,6 @@ Eine Übergangszahlung wird nur gewährt, wenn der Zugang zu den
 genannten Laufbahnen aus dem Arbeitnehmerverhältnis unmittelbar in das
 Beamtenverhältnis mit Dienstbezügen erfolgt.
 
-
 ## § 2 Höhe der Übergangszahlung
 
 (1) Die Übergangszahlung wird in Höhe des Dreizehnfachen des
@@ -114,7 +111,6 @@ Arbeitnehmerverhältnis. Sie beträgt höchstens 1.533,88 Euro.
 
 (2) Beträgt der Unterschiedsbetrag monatlich 5,11 Euro oder weniger,
 wird eine Übergangszahlung nicht gewährt.
-
 
 ## § 3 Vergleichsberechnung
 
@@ -225,7 +221,6 @@ berücksichtigen, die Erschwerniszulagen jedoch mit höchstens 15 vom
 Hundert des Betrages aus Grundgehalt, Ortszuschlag der Stufe 2 und
 örtlichem Sonderzuschlag.
 
-
 ## § 4 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
@@ -234,11 +229,9 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl.
 I S. 1173) auch im Land Berlin.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
-
 
 ## Schlußformel
 

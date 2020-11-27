@@ -23,7 +23,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 24 V v. 23.5.1991 I 1151
 
-
 ## § 1
 
 (1) Diese Verordnung gilt für die Durchfahrt von Seeschiffen mit
@@ -49,7 +48,6 @@ zu der Verbindungslinie zwischen den Einfahrtsfeuern in Kiel-Holtenau
 unter Einschluß des Gieselaukanals, Schirnauer Sees, Borgstedter Sees,
 Audorfer Sees, Obereidersees mit Enge, Achterwehrer Schiffahrtskanals
 und Flemhuder Sees.
-
 
 ## § 2
 
@@ -77,7 +75,6 @@ Hunde, Hauskatzen, Affen, Halbaffen, Papageien oder Sittiche oder wenn
 Kaninchen oder Hausgeflügel, die von der Schiffsbesatzung oder von
 Reisenden gehalten werden, an Bord des Schiffes mitgeführt werden.
 
-
 ## § 3
 
 (1) Von den in § 2 Abs. 1 Satz 1 genannten Tieren stammende Teile,
@@ -98,10 +95,6 @@ verbracht werden.
 2.  Lebensmittel tierischer Herkunft, die zur Verpflegung der
     Schiffsbesatzung oder von Reisenden mitgeführt werden.
 
-
-
-
-
 ## § 3a
 
 (1) Die mit Wartung von Tieren betrauten Personen müssen vor dem
@@ -116,14 +109,12 @@ gegeben sind.
 (3) Der Schiffsführer hat Desinfektionsmittel im Sinne des Absatzes 1
 Satz 2 bereitzustellen.
 
-
 ## § 4
 
 Die zuständige oberste Landesbehörde kann Ausnahmen von den
 Vorschriften dieser Verordnung zulassen, wenn auf andere Weise
 sichergestellt ist, daß keine Tierseuchen eingeschleppt oder
 weiterverbreitet werden.
-
 
 ## § 5
 
@@ -152,10 +143,6 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 5.  entgegen § 3a Abs. 3 Desinfektionsmittel nicht bereitstellt.
-
-
-
-
 
 ## § 6
 

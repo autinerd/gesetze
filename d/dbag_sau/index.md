@@ -18,12 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2008, 782
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +31,6 @@ Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom
 Einkommen und vom Vermögen von  Luftfahrtunternehmen und der Steuern
 von den Vergütungen ihrer Arbeitnehmer wird zugestimmt. Das Abkommen
 wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +46,6 @@ Besteuerung in der Bundesrepublik Deutschland und dem Königreich
 Saudi-Arabien insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
-
 
 ## Art 3
 

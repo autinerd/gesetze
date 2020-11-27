@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2010, Nr 187, 4086
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 4 und 5 und Absatz 3 Satz 1
@@ -31,7 +30,6 @@ Verordnung über Luftfahrtpersonal, der zuletzt durch Artikel 2 Nummer
 64 der Verordnung vom 10. Februar 2003 (BGBl. I S. 182) geändert
 worden ist, verordnet das Luftfahrt-Bundesamt:
 
-
 ## § 1 Geltungsbereich
 
 Diese Durchführungsverordnung enthält Ausführungsbestimmungen zum
@@ -43,7 +41,6 @@ Luftfahrtpersonal in der Fassung der Bekanntmachung vom 13. Februar
 125a Absatz 2 Satz 3 der Verordnung über Luftfahrtpersonal über
 Stellen, die für die Abnahme von Sprachprüfungen zum Nachweis von
 Sprachkenntnissen berechtigt sind.
-
 
 ## § 2 Dokumente zum Nachweis von Sprachkenntnissen
 
@@ -114,10 +111,6 @@ werden anerkannt, wenn aus diesen Dokumenten hervorgeht, dass
     anderen Ausbildungsinhalten getrennt geprüft und mindestens mit „gut“
     bewertet wurde oder mindestens 75 von 100 Bewertungseinheiten erreicht
     wurden.
-
-
-
-
 
 ## § 3 Form und Umfang der Verlängerungsprüfung
 
@@ -205,10 +198,6 @@ mindestens die folgenden Angaben enthalten:
 
 10. Unterschrift des Sprachprüfers.
 
-
-
-
-
 ## § 4 Aufsicht
 
 (1) Die Stelle, die nach § 125a der Verordnung über Luftfahrtpersonal
@@ -234,14 +223,9 @@ vorzulegen. Der Bericht muss mindestens folgende Angaben enthalten:
 
 4.  die Anzahl der im Berichtszeitraum bestandenen Prüfungen.
 
-
-
-
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Nr. 1 AnO v. 3.4.1987 VMBl 167
 
-
 ## I. Festsetzungs- und Regelungsbehörden
 
 (1) Auf Grund des § 49 Abs. 1 Satz 2 und Abs. 6 des
@@ -87,7 +86,6 @@ Antrag ist stattzugeben, soweit der Festsetzungsbescheid unanfechtbar
 geworden ist. Bei mehreren gleichberechtigten Versorgungsberechtigten
 bedarf es übereinstimmender Anträge.
 
-
 ## II. Dienstunfallversorgung
 
 (1) Den in Abschnitt I Abs. 1 Nr. 2 aufgeführten Behörden übertrage
@@ -128,7 +126,6 @@ Nr. 1 zuständigen Wehrbereichsgebührnisämtern zusammen mit den
 Versorgungsbezügen zu zahlen; im übrigen verbleibt es bei der unter
 Abschnitt II Abs. 1 genannten Zuständigkeitsregelung.
 
-
 ## III. Übertragung von Zuständigkeiten in Sonderfällen
 
 (1) Den in Abschnitt I Abs. 1 Nr. 2 aufgeführten Behörden übertrage
@@ -166,10 +163,6 @@ Zuständigkeiten
     nicht nachgekommen sind, sowie diese beim Vorliegen besonderer
     Verhältnisse ganz oder teilweise wieder zuzuerkennen.
 
-
-
-
-
 ## IV. Vorbehaltsklausel
 
 Ich behalte mir vor,
@@ -191,7 +184,6 @@ Ich behalte mir vor,
 
 zu treffen.
 
-
 ## V. Übergangsvorschriften
 
 Diese Anordnung findet entsprechend auf Professoren und
@@ -199,7 +191,6 @@ Hochschulassistenten Anwendung, die auf Grund von
 Privatdienstverträgen als Angestellte mit Anwartschaft auf Versorgung
 nach beamtenrechtlichen Vorschriften an den Hochschulen der Bundeswehr
 Hamburg und München tätig sind.
-
 
 ## VI. Schlußvorschriften
 
@@ -209,7 +200,6 @@ Ausnahme von Abschnitt I Abs. 1 Nr. 2 nur auf die nach dem 31.
 Dezember 1976 eingetretenen Versorgungsfälle anzuwenden. Im übrigen
 gelten die Anordnungen vom 24. Juli 1970 (BGBl. I S. 1219) und vom 26.
 Januar 1974 (BGBl. I S. 121) weiter.
-
 
 ## Schlußformel
 

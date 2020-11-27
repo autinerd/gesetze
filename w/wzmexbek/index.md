@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1899, 284
 
-
-
 ## (XXXX)
 
 Auf Grund einer Vereinbarung mit der Regierung der Vereinigten Staaten

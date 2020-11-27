@@ -21,12 +21,10 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 12g Abs. 2 G v. 24.8.2004 I 2198
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -72,7 +70,6 @@ d)  Übereinkommen vom 25. September 1990 zwischen der Bundesrepublik
 
 (2) Die aufgeführten Übereinkünfte werden nachstehend veröffentlicht.
 
-
 ## Art 2
 
 (1) Für Besatzungsschäden, die in der Zeit vom 5. Mai 1955 bis zum
@@ -116,7 +113,6 @@ britischen oder französischen Besatzungsmächte im Gebiet des früheren
 Ostsektors von Berlin oder auf den früheren Transitwegen von und nach
 Berlin verursacht worden sind.
 
-
 ## Art 3
 
 Die Artikel 6 bis 14 und 25 des Gesetzes zum NATO-Truppenstatut und zu
@@ -128,7 +124,6 @@ Amerika und des Vereinigten Königreichs Großbritannien und Nordirland
 verantwortlich sind, wenn diese Schäden nach dem 2. Oktober 1990 im
 Gebiet der Länder Berlin, Brandenburg, Mecklenburg-Vorpommern,
 Sachsen, Sachsen-Anhalt oder Thüringen verursacht worden sind.
-
 
 ## Art 4
 
@@ -151,7 +146,6 @@ Gliederungsnummer 54-3, veröffentlichten bereinigten Fassung. Die
 Vorschriften des Landbeschaffungsgesetzes mit Ausnahme des § 42 gelten
 entsprechend.
 
-
 ## Art 5
 
 (1) Die den amerikanischen, britischen und französischen Truppen,
@@ -166,7 +160,6 @@ Mitgliedern und Angehörigen rechtliche Beziehungen unterhalten.
 des Notenwechsels vom 25. September 1990 zum NATO-Truppenstatut
 eingeräumte Rechtsstellung.
 
-
 ## Art 6
 
 Die Artikel 3, 4b, 4c und 5 des Gesetzes zum NATO-Truppenstatut und zu
@@ -177,7 +170,6 @@ Zusatzabkommens zum NATO-Truppenstatut und zu den weiteren
 Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
 Thüringen.
 
-
 ## Art 7
 
 Die in den Notenwechseln vom 25. September 1990 in Verbindung mit
@@ -185,7 +177,6 @@ Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-
 Truppenstatuts geregelte Zusammenarbeit in strafrechtlichen
 Angelegenheiten ist nach den folgenden besonderen Bestimmungen
 auszuführen:
-
 
 ## § 1
 
@@ -201,7 +192,6 @@ erforderlichen Ermittlungshandlungen vorzunehmen. Die Bestimmungen der
 Strafprozeßordnung gelten entsprechend, soweit nachstehend nichts
 anderes bestimmt ist.
 
-
 ## § 2
 
 Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des
@@ -211,7 +201,6 @@ vorzunehmen sind. Sind Rechtshilfehandlungen in den Bezirken mehrerer
 Gerichte vorzunehmen, so richtet sich die Zuständigkeit danach,
 welches Gericht oder, solange noch kein Gericht befaßt ist, welche
 Staatsanwaltschaft zuerst mit der Sache befaßt wurde.
-
 
 ## § 3
 
@@ -254,14 +243,12 @@ Beschwerdegerichts darf die Übergabe nicht vollzogen werden.
 Landgericht bereitet die Entscheidung über die Übergabe vor und führt
 die vom Gericht angeordnete Übergabe durch.
 
-
 ## § 4
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13
 des Grundgesetzes) werden nach Maßgabe der §§ 1 bis 3 eingeschränkt.
-
 
 ## Art 8
 

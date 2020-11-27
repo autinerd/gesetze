@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14c G v. 30.7.2009 I 2479
 
-
 ## § 1 Umwandlung in eine Aktiengesellschaft
 
 (1) Die Volkswagenwerk Gesellschaft mit beschränkter Haftung ist
@@ -35,9 +34,7 @@ Nennbetrag als einhundert Deutsche Mark und nicht auf Namen lauten.
 (4) Im übrigen finden auf die Umwandlung der Gesellschaft die §§ 269
 bis 276 des Aktiengesetzes Anwendung.
 
-
 ## § 2 (weggefallen)
-
 
 ## § 3 Vertretung bei der Stimmrechtsausübung
 
@@ -72,7 +69,6 @@ gewähren.
 
 (5) (weggefallen)
 
-
 ## § 4 Verfassung der Gesellschaft
 
 (1)
@@ -87,16 +83,12 @@ der Beschlußfassung vertretenen Grundkapitals umfaßt, bedürfen einer
 Mehrheit von mehr als vier Fünftel des bei der Beschlußfassung
 vertretenen Grundkapitals der Gesellschaft.
 
-
 ## (XXXX) §§ 5 bis 12
-
-
 
 ## § 13 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
-
 
 ## § 14 Inkrafttreten
 

@@ -20,7 +20,6 @@ Fundstelle
 Geändert durch
 :   Art. XIII § 2 G v. 26.5.1972 I 841
 
-
 ## Art 1
 
 Dem in Paris am 13. Dezember 1957 von der Bundesrepublik Deutschland
@@ -29,7 +28,6 @@ Straßburg am 20. April 1959 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen über die Rechtshilfe in Strafsachen wird
 nach Maßgabe des Artikels 2 zugestimmt. Die Übereinkommen werden
 nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -58,7 +56,6 @@ aufhält, wird grundsätzlich nur ausgeführt, wenn es den deutschen
 Behörden spätestens einen Monat vor dem für das Erscheinen des
 Beschuldigten festgesetzten Zeitpunkt zugeht.
 
-
 ## Art 3
 
 (1) Die Überstellung eines Zeugen ist in den Fällen des Artikels 11
@@ -70,12 +67,10 @@ Bundesrepublik Deutschland verletzt werden.
 
 (2) u. (3)
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

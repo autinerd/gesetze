@@ -19,12 +19,10 @@ Fundstelle
 Geändert durch
 :   Art. 2 Nr. 10 G v. 27. 4.2002 I 1464
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,16 +31,13 @@ der Bundesrepublik Deutschland und der Republik Polen über Soziale
 Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
-
 ## Art 2
 
 -
 
-
 ## Art 3
 
 (weggefallen)
-
 
 ## Art 4
 
@@ -73,14 +68,9 @@ Regelungen getroffen werden:
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
 
-
-
-
-
 ## Art 5
 
 -
-
 
 ## Art 6
 

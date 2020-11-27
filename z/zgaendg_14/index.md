@@ -18,16 +18,13 @@ Fundstelle
 Geändert durch
 :   Art. 2 Abs. 2 G v. 12.9.1980 I 1695
 
-
 ## Art 1
 
 -
 
-
 ## Art 2
 
 -
-
 
 ## Art 3 Steuerfreiheit zur Erleichterung des Warenverkehrs und zur Vereinfachung der Verwaltung
 
@@ -69,11 +66,9 @@ nicht verletzt werden und keine unangemessenen Steuervorteile
 entstehen. Er hat dabei Rechtsakte des Rates oder der Kommission der
 Europäischen Gemeinschaften zu berücksichtigen.
 
-
 ## Art 4
 
 -
-
 
 ## Art 5
 
@@ -81,7 +76,6 @@ Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
-
 
 ## Art 6
 

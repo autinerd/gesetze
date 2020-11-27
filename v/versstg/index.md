@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 5.12.2012 I 2431
 
-
 ## § 1 Gegenstand der Steuer
 
 (1) Der Steuer unterliegt die Zahlung des Versicherungsentgelts auf
@@ -100,7 +99,6 @@ Steuerpflicht, wenn
 (4) Zum Geltungsbereich dieses Gesetzes gehört auch die deutsche
 ausschließliche Wirtschaftszone.
 
-
 ## § 2 Versicherungsverträge
 
 (1) Als Versicherungsvertrag im Sinne dieses Gesetzes gilt auch eine
@@ -111,7 +109,6 @@ einer Versicherung bilden können.
 (2) Als Versicherungsvertrag gilt nicht ein Vertrag, durch den der
 Versicherer sich verpflichtet, für den Versicherungsnehmer Bürgschaft
 oder sonstige Sicherheit zu leisten.
-
 
 ## § 3 Versicherungsentgelt
 
@@ -155,7 +152,6 @@ gezahlt, so ist dieser Unterschiedsbetrag Versicherungsentgelt. Das
 gleiche gilt, wenn eine Verrechnung zwischen Prämie und Gewinnanteil
 nicht möglich ist und die Gutschriftanzeige über den Gewinnanteil dem
 Versicherungsnehmer mit der Prämienrechnung vorgelegt wird.
-
 
 ## § 4 Ausnahmen von der Besteuerung
 
@@ -254,10 +250,6 @@ Versicherungsentgelts
     gelangen. Die Besteuerung der Zahlung des Versicherungsentgelts für
     eine Haftpflichtversicherung bleibt unberührt.
 
-
-
-
-
 ## § 5 Steuerberechnung, Steuerentstehung, Steuerausweis
 
 (1) Die Steuer wird für die einzelnen Versicherungen berechnet, und
@@ -331,7 +323,6 @@ Rechnung über das Versicherungsentgelt ausgestellt, müssen sich die in
 den Sätzen 1 und 2 genannten Angaben aus anderen das
 Versicherungsverhältnis begründenden Unterlagen ergeben.
 
-
 ## § 6 Steuersatz
 
 (1) Die Steuer beträgt vorbehaltlich des folgenden Absatzes 19 Prozent
@@ -369,10 +360,6 @@ des Versicherungsentgelts ohne Versicherungsteuer.
 
 6.  bei der Unfallversicherung mit Prämienrückgewähr 3,8 Prozent des
     Versicherungsentgelts.
-
-
-
-
 
 ## § 7 Steuerschuldner, Steuerentrichtungsschuldner, Haftende
 
@@ -450,11 +437,9 @@ unbeachtlich.
 gilt die Steuer als Teil des Versicherungsentgelts, soweit es sich um
 dessen Einziehung und Geltendmachung im Rechtsweg handelt.
 
-
 ## § 7a Zuständigkeit
 
 Zuständig ist das Bundeszentralamt für Steuern.
-
 
 ## § 8 Anmeldung, Fälligkeit
 
@@ -490,7 +475,6 @@ bis zum Ablauf der Anmeldungsfrist die Steueranmeldung nicht ab, so
 setzt das Bundeszentralamt für Steuern die Steuer fest. Als Zeitpunkt
 ihrer Fälligkeit gilt der 15. Tag nach Ablauf des Anmeldungszeitraums.
 
-
 ## § 9 Erstattung, Nachentrichtung der Steuer
 
 (1) Wird das Versicherungsentgelt ganz oder zum Teil zurückgezahlt,
@@ -509,7 +493,6 @@ ausdrücklich versichert war.
 Versicherungsentgelts die übrigen Voraussetzungen für die
 Steuerbarkeit und Steuerpflicht ein, so ist für das zeitanteilige
 Versicherungsentgelt die Steuer nachzuentrichten.
-
 
 ## § 10 Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung
 
@@ -583,7 +566,6 @@ Monat, das letzte Quartal oder das letzte Kalenderjahr des
 Prüfungszeitraums festzusetzen. Sie sind einen Monat nach Bekanntgabe
 der Festsetzung fällig.
 
-
 ## § 10a Mitteilungspflicht
 
 (1) Die mit der Aufsicht über die Versicherungsunternehmen betrauten
@@ -595,7 +577,6 @@ Genossenschaften, die sich mit dem Abschluß von Versicherungen
 befassen, dem Bundeszentralamt für Steuern mit; das gilt auch dann,
 wenn die Vereine oder Genossenschaften ihre Leistungen als
 Unterstützungen ohne Rechtsanspruch bezeichnen.
-
 
 ## § 10b Anwendungsvorschriften
 
@@ -615,7 +596,6 @@ Abschluß des Versicherungsvertrags festgelegt wird. Die Sätze 2 und 3
 gelten für ab dem 29. Januar 1993 vorgenommene Änderungen der
 Fälligkeit des Versicherungsentgelts für Fälligkeitszeitpunkte ab dem
 1\. Juli 1993 und ab dem 1. Januar 1995.
-
 
 ## § 11 Ermächtigungen
 
@@ -662,7 +642,6 @@ Zustimmung des Bundesrates Rechtsverordnungen zu erlassen über:
 Grund dieses Gesetzes erlassenen Rechtsverordnungen in der jeweils
 geltenden Fassung mit neuem Datum und unter neuer Überschrift im
 Bundesgesetzblatt bekanntmachen.
-
 
 ## § 12 Übergangsvorschrift
 

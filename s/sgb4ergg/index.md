@@ -18,13 +18,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1988, 2330
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1 Änderung des Vierten Buches Sozialgesetzbuch
 
@@ -39,10 +36,7 @@ inländischen Gerichtsbarkeit untersteht und die Zahlungspflicht nach §
 28e Abs. 1 nicht erfüllt.
 ...
 
-
 ## (XXXX) Art 2 bis 16
-
-
 
 ## Art 17 Übergangsvorschriften
 
@@ -63,12 +57,10 @@ die Befreiung nach den Sätzen 1 und 2 gilt.
 
 (2)
 
-
 ## Art 18 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
-
 
 ## Art 19 Inkrafttreten, Außerkrafttreten
 

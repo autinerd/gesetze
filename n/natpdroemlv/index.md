@@ -16,14 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1990, SDr 1478
 
-
-
 ## Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni
 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13, 15 und 16 des
 Bundesnaturschutzgesetzes wird verordnet:
-
 
 ## § 1 Festsetzung
 
@@ -32,7 +29,6 @@ Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler
 Bedeutung als Naturpark festgesetzt.
 
 (2) Der Naturpark erhält die Bezeichnung Naturpark "Drömling".
-
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
@@ -137,7 +133,6 @@ Ausfertigungen befinden sich bei den Kreisverwaltungen und bei der
 Naturparkverwaltung. Bei den genannten Behörden sind die Karten
 während der Sprechzeiten allgemein zugänglich.
 
-
 ## § 3 Schutzzweck
 
 Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
@@ -181,10 +176,6 @@ Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
 9.  Die Entwicklung von Teilen des Naturparkes vorrangig unter dem Aspekt
     der Naturbeobachtung und der Erholung, die auf die Sicherung der
     spezifischen Naturschutzzwecke abgestimmt ist.
-
-
-
-
 
 ## § 4 Schutzzonen
 
@@ -445,7 +436,6 @@ Umgrenzung außer den Flächen der Schutzzonen I und II.
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 4 genannten
 Karten eingetragen.
 
-
 ## § 5 Gebote
 
 (1) Im Naturpark gelten nachfolgende allgemeingültige Gebote:
@@ -580,10 +570,6 @@ Dazu gehören:
 4.  Die Schaffung eines Biotopverbundnetzes vor allem im Bereich größerer
     Agrarflächen.
 
-
-
-
-
 ## § 6 Verbote
 
 (1) Allgemeingültige Verbote:
@@ -699,10 +685,6 @@ In Schutzzone II ist es grundsätzlich verboten:
     gesamten Naturpark. Das Aussetzen heimischer Fischarten ist nur mit
     Genehmigung der Naturparkverwaltung zulässig.
 
-
-
-
-
 ## § 7 Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 bleiben:
@@ -740,7 +722,6 @@ unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Naturparkes
 (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen
 Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
 ## § 8 Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung
@@ -768,7 +749,6 @@ gewährt werden, wenn
 der Naturparkverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz
 oder teilweise delegieren.
 
-
 ## § 9 Einvernehmen
 
 Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei:
@@ -782,10 +762,6 @@ Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei:
 
 3.  der Aufstellung von Bauleitplänen.
 
-
-
-
-
 ## § 10 Entschädigung
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese
@@ -796,29 +772,24 @@ haben sie Anspruch auf Entschädigung. Diese muß die
 Vermögensnachteile, die durch die Maßnahmen verursacht wurden,
 angemessen ausgleichen.
 
-
 ## § 11 Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der
 bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder
 Anordnungen für dieses Gebiet vor.
 
-
 ## § 12 Schlußbestimmung
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
-
 
 ## Schlußformel
 
 **Der Ministerrat der Deutschen Demokratischen Republik**
 
-
 ## Anlage
 
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1478)
-
 
 ## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
 

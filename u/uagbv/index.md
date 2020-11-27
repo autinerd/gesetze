@@ -18,13 +18,11 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 13.12.2011 I 2727
 
-
 ## Eingangsformel
 
 Auf Grund des § 28 des Umweltauditgesetzes vom 7. Dezember 1995 (BGBl.
 I S. 1591) verordnet das Bundesministerium für Umwelt, Naturschutz und
 Reaktorsicherheit:
-
 
 ## § 1 Beleihung
 
@@ -45,7 +43,6 @@ hat ihren Sitz in Bonn.
 (2) Die Beleihung umfaßt auch die Zusammenarbeit mit anderen
 Zulassungs- und Aufsichtsstellen sowie den für die Führung von
 Standortregistern zuständigen Stellen.
-
 
 ## § 2 Eignung zur Aufgabenwahrnehmung
 
@@ -97,10 +94,6 @@ und Reaktorsicherheit
 2.  den festgestellten Jahresabschluß (§ 264 des Handelsgesetzbuchs) und
     den Lagebericht (§ 289 des Handelsgesetzbuchs) zur Kenntnis zu geben.
 
-
-
-
-
 ## § 3 Beendigung der Beleihung
 
 (1) Die Beleihung endet mit dem Inkrafttreten einer die Beleihung
@@ -114,7 +107,6 @@ kann die Beendigung der Beleihung jederzeit schriftlich verlangen; dem
 Begehren ist innerhalb einer angemessenen Frist, die zur Fortführung
 der Aufgabenerfüllung durch eine Stelle nach § 28 des
 Umweltauditgesetzes erforderlich ist, zu entsprechen.
-
 
 ## § 4 Inkrafttreten
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1055
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 21a des Neunten Buches Sozialgesetzbuch -
@@ -26,7 +24,6 @@ Gesetzes vom 19. Juni 2001, BGBl. I S. 1046, 1047), der durch Artikel
 worden ist, verordnet das Bundesministerium für Gesundheit und Soziale
 Sicherung:
 
-
 ## § 1 Anwendungsbereich
 
 Die Ausführung von Leistungen in Form Persönlicher Budgets nach § 17
@@ -34,7 +31,6 @@ Abs. 2 bis 4 des Neunten Buches Sozialgesetzbuch, der Inhalt
 Persönlicher Budgets sowie das Verfahren und die Zuständigkeit der
 beteiligten Leistungsträger richten sich nach den folgenden
 Vorschriften.
-
 
 ## § 2 Beteiligte Leistungsträger
 
@@ -45,7 +41,6 @@ zur Teilhabe nach dem Neunten Buch Sozialgesetzbuch sind, von den
 Trägern der Sozialhilfe auch Leistungen der Hilfe zur Pflege. Sind an
 einem Persönlichen Budget mehrere Leistungsträger beteiligt, wird es
 als trägerübergreifende Komplexleistung erbracht.
-
 
 ## § 3 Verfahren
 
@@ -105,7 +100,6 @@ erfüllt.
 der Regel im Abstand von zwei Jahren wiederholt. In begründeten Fällen
 kann davon abgewichen werden.
 
-
 ## § 4 Zielvereinbarung
 
 (1) Die Zielvereinbarung wird zwischen der Antrag stellenden Person
@@ -139,11 +133,9 @@ Bedarfsfeststellungsverfahrens für die Dauer des
 Bewilligungszeitraumes der Leistungen des Persönlichen Budgets
 abgeschlossen, soweit sich aus ihr nichts Abweichendes ergibt.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2004 in Kraft.
-
 
 ## Schlussformel
 

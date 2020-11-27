@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1495
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 des
@@ -29,14 +27,12 @@ verordnen das Bundesministerium für Arbeit und Sozialordnung und das
 Bundesministerium für Ernährung, Landwirtschaft und Forsten im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Hauswirtschafter/Hauswirtschafterin wird
 staatlich anerkannt. Er ist Ausbildungsberuf der Hauswirtschaft.
 Soweit die Ausbildung in Betrieben der Landwirtschaft stattfindet, ist
 er ein Ausbildungsberuf der Landwirtschaft.
-
 
 ## § 2 Ausbildungsdauer
 
@@ -47,7 +43,6 @@ Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach
 einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als
 erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die
 betriebliche Ausbildung im zweiten Ausbildungsjahr.
-
 
 ## § 3 Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
@@ -63,7 +58,6 @@ qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des
 Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges
 Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung
 ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -186,7 +180,6 @@ ein anderes Einsatzgebiet zugrunde gelegt werden, wenn es bezogen auf
 Breite und Tiefe die Vermittlung der Fertigkeiten und Kenntnisse nach
 Absatz 1 Nr. 6 erlaubt.
 
-
 ## § 5 Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in
@@ -198,12 +191,10 @@ zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere
 zulässig, soweit betriebspraktische Besonderheiten die Abweichung
 erfordern.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -211,7 +202,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -279,7 +269,6 @@ insbesondere in Betracht:
 Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei
 der Arbeit, zum Umweltschutz, zur Hygiene sowie qualitätssichernde
 Maßnahmen einbezogen werden.
-
 
 ## § 9 Abschlußprüfung
 
@@ -490,7 +479,6 @@ Prüfung oder in einem der drei Prüfungsbereiche des schriftlichen
 Teils der Prüfung mit ungenügend bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 10 Übergangsregelungen
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
@@ -501,11 +489,9 @@ finden, außer in Fällen einer Vereinbarung nach Satz 1, auf Verlangen
 des Prüflings die bis zum Inkrafttreten dieser Verordnung geltenden
 Vorschriften über die Abschlußprüfung Anwendung.
 
-
 ## § 11 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter/zur Hauswirtschafterin
 

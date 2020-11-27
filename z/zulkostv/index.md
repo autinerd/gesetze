@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 19.1.2012 I 119
 
-
 ## Eingangsformel
 
 Auf Grund des § 14 Satz 1 Nr. 1 und 2 des Eichgesetzes in der Fassung
 der Bekanntmachung vom 23. März 1992 (BGBl. I S. 711) in Verbindung
 mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 (BGBl. I S. 821) verordnet der Bundesminister für Wirtschaft:
-
 
 ## § 1 Anwendungsbereich
 
@@ -72,10 +70,6 @@ erhoben:
     Flaschen und Maßbehältnisse oder deren Änderungen gemäß § 4 der
     Fertigpackungsverordnung.
 
-
-
-
-
 ## § 2 Gebührenberechnung
 
 (1) Die Gebühren werden nach dem Zeitaufwand bestimmt, soweit nicht
@@ -114,16 +108,11 @@ für
 
 2.  Wartezeiten, die vom Kostenschuldner verursacht worden sind.
 
-
-
-
-
 ## § 3 Gebührenerhebung in besonderen Fällen
 
 Erfordert eine Zulassung einen überdurchschnittlichen sachlichen
 Aufwand, so ist dieser nach den Selbstkosten zu berechnen. Um diesen
 Betrag erhöht sich die Gebühr nach § 2.
-
 
 ## § 4 Auslagen
 
@@ -131,16 +120,13 @@ Auslagen sind nach Maßgabe des § 10 des Verwaltungskostengesetzes zu
 erstatten. Die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes
 bezeichneten Auslagen werden jedoch nicht gesondert erhoben.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2)
 

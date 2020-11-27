@@ -18,7 +18,6 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 7.6.1995 I 794
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 3 des Bundesausbildungsförderungsgesetzes vom
@@ -26,7 +25,6 @@ Auf Grund des § 2 Abs. 3 des Bundesausbildungsförderungsgesetzes vom
 das Zweite Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
 vom 31. Juli 1974 (Bundesgesetzblatt I S. 1649), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
-
 
 ## § 1 Ausbildungsstätten
 
@@ -49,7 +47,6 @@ Dasselbe gilt, wenn die zuständige Landesbehörde anerkennt, daß der
 Besuch der Einrichtung dem Besuch der in Satz 1 bezeichneten
 Einrichtungen gleichwertig ist.
 
-
 ## § 2 Förderungsrechtliche Stellung der Auszubildenden
 
 Die Auszubildenden an den in § 1 bezeichneten Ausbildungsstätten
@@ -57,7 +54,6 @@ erhalten Ausbildungsförderung wie Schüler an Fachschulen, wenn
 Aufnahmevoraussetzung eine abgeschlossene Berufsausbildung oder eine
 mehrjährige geeignete Tätigkeit ist, im übrigen wie Schüler an
 Berufsfachschulen.
-
 
 ## § 3 Inkrafttreten
 

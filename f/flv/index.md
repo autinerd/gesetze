@@ -21,21 +21,17 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 V v. 8.8.2007 I 1816
 
-
 ## § 1
 
 (weggefallen)
-
 
 ## § 2
 
 (weggefallen)
 
-
 ## § 3
 
 (weggefallen)
-
 
 ## § 4
 
@@ -90,10 +86,6 @@ Herstellung nachstehende Stoffe verwendet worden sind:
     in Anlage 2 aufgeführte Stoffe unter den dort genannten
     Voraussetzungen verwendet worden sind.
 
-
-
-
-
 ## § 5
 
 (1) Abweichend von § 4 Abs. 1 sind Fleischerzeugnisse, denen nach
@@ -130,16 +122,13 @@ genügt die Kenntlichmachung in Aufzeichnungen, in die der
 verantwortliche Arzt und auf Verlangen auch der Verpflegungsteilnehmer
 Einblick nehmen kann.
 
-
 ## § 6
 
 (weggefallen)
 
-
 ## § 7
 
 -
-
 
 ## § 8
 
@@ -167,31 +156,23 @@ sichtbar und in leicht lesbarer Schrift anzugeben:
 
 3.  der Verwendungszweck.
 
-
-
-
-
 ## § 9
 
 Es ist verboten, die in § 4 Abs. 1 Nr. 1 bis 5 bezeichneten Stoffe für
 eine nach den Vorschriften der §§ 4 und 5 Abs. 1 unzulässige
 Verwendung in den Verkehr zu bringen.
 
-
 ## § 10
 
 (Außerkrafttreten von Runderlassen)
-
 
 ## § 11
 
 (weggefallen)
 
-
 ## § 12
 
 (weggefallen)
-
 
 ## § 13
 
@@ -220,7 +201,6 @@ Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig entgegen § 8 Abs. 1 einen dort bezeichneten Stoff
 gewerbsmäßig in den Verkehr bringt.
 
-
 ## § 14
 
 (1) Lebensmittel, die den Vorschriften dieser Verordnung in der vom
@@ -236,11 +216,9 @@ bis zum Ablauf des 24. November 2005 nach den bis zum 12. November
 November 2005 noch bis zum Aufbrauchen der Bestände in den Verkehr
 gebracht werden.
 
-
 ## Anlage 1
 
 (weggefallen)
-
 
 ## Anlage 2 (zu § 4 Abs. 2)
 
@@ -412,10 +390,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   küchenfertig vorbereitete Fleischerzeugnisse oder tafelfertig
         zubereitete Fleischerzeugnisse, ausgenommen Kochschinken, Fleisch im
         eigenen Saft, Schmalzfleisch, Corned Beef, Corned Beef mit Gelee
-
-
-
-
 
 ## Anlage 3 (zu § 5 Abs. 1)
 

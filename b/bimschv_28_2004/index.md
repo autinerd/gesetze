@@ -33,14 +33,12 @@ der Emission von gasförmigen Schadstoffen und luftverunreinigenden
 Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte
 (ABl. EU 2003 Nr. L 35 S. 28).
 
-
 ## Eingangsformel
 
 Auf Grund des § 33 Abs. 1 Nr. 1, des § 37 und des § 48a Abs. 3 des
 Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom
 26\. September 2002 (BGBl. I S. 3830) verordnet die Bundesregierung
 nach Anhörung der beteiligten Kreise:
-
 
 ## § 1 Anwendungsbereich
 
@@ -59,7 +57,6 @@ völkerrechtlicher Verträge in der Bundesrepublik Deutschland
 stationiert sind, benutzt werden sollen. Diese Verordnung findet keine
 Anwendung auf Motoren zum Antrieb von Binnenschiffen.
 
-
 ## § 1a Bezugnahme auf Richtlinien der Europäischen Gemeinschaft
 
 Die in dieser Verordnung in Bezug genommene Richtlinie 97/68/EG der
@@ -69,7 +66,6 @@ vorgesehenen Verfahren an den technischen Fortschritt angepasst, gilt
 sie in der geänderten im Amtsblatt der Europäischen Union
 veröffentlichten Fassung nach Ablauf der in der Anpassungsrichtlinie
 festgelegten Umsetzungsfrist.
-
 
 ## § 2 Inverkehrbringen
 
@@ -299,7 +295,6 @@ der Referenznummer der Ausnahmegenehmigung, die von der
 Genehmigungsbehörde im Genehmigungsverfahren vergeben wird,
 anzubringen.
 
-
 ## § 3 Ausnahmen
 
 (1) Auf Antrag eines Herstellers von Motoren aus auslaufenden Serien,
@@ -357,7 +352,6 @@ Buchstabe A Ziffern i, ii und v der Richtlinie 97/68/EG entsprechen,
 können nach dem Flexibilitätssystem nach Artikel 2 der Richtlinie
 97/68/EG und unter Beachtung der Vorschriften nach Anhang XIII der
 Richtlinie 97/68/EG in Verkehr gebracht werden.
-
 
 ## § 4 Typgenehmigung
 
@@ -558,10 +552,6 @@ erhalten, wenn sie
     die zulässigen Emissionsgrenzwerte nach der Tabelle in Anhang I Nr.
     4\.2.2.2 der Richtlinie 97/68/EG einhalten (Stufe II).
 
-
-
-
-
 ## § 5 Typgenehmigungsverfahren
 
 (1) Ein Antrag auf Typgenehmigung für einen Motor oder eine
@@ -633,7 +623,6 @@ Absatz 8 festgelegten Anforderungen einzuhalten, so kann die
 Genehmigung für den betreffenden Motortyp oder die betreffende
 Motorenfamilie aufgrund dieser Verordnung widerrufen werden.
 
-
 ## § 6 Änderung von Genehmigungen
 
 (1) Der Hersteller hat der Genehmigungsbehörde nach Erteilung der
@@ -670,7 +659,6 @@ Beschreibungsunterlagen vorgenommenen Änderung neue Versuche oder
 Prüfungen gerechtfertigt sind, so unterrichtet sie hiervon den
 Hersteller und stellt die Unterlagen nach Satz 1 erst nach der
 Durchführung erfolgreicher neuer Versuche oder Prüfungen aus.
-
 
 ## § 7 Serienübereinstimmung
 
@@ -726,7 +714,6 @@ Genehmigungsbehörde eine besondere Kennzeichnung, aus der hervorgeht,
 dass die betreffenden Maschinen und Geräte den vorgeschriebenen
 Grenzwerten bereits vor den festgelegten Terminen entsprechen.
 
-
 ## § 8 Nichtübereinstimmung mit dem genehmigten Typ oder der genehmigten Typfamilie
 
 (1) Stimmen Motoren, die mit einer Konformitätsbescheinigung oder
@@ -744,7 +731,6 @@ Genehmigungsbehörde die Typgenehmigung widerrufen.
 genehmigten Motorenfamilie liegt bei Abweichungen von den Merkmalen im
 Genehmigungsbogen oder von den Beschreibungsunterlagen vor, die von
 der Genehmigungsbehörde gemäß § 6 Abs. 3 ausgestellt worden sind.
-
 
 ## § 9 Zusammenarbeit mit den Genehmigungsbehörden der übrigen Mitgliedstaaten
 
@@ -800,7 +786,6 @@ Mitgliedstaaten der Europäischen Union jeden Widerruf einer
 Typgenehmigung nebst Begründung binnen eines Monats nach
 Unanfechtbarkeit mit.
 
-
 ## § 10 Vollzugsbehörden und Technische Dienste
 
 (1) Vollzugsbehörden im Sinne dieser Verordnung sind
@@ -824,18 +809,15 @@ der den Technischen Diensten übertragenen Aufgaben.
 Behörden die für die Marktüberwachung erforderlichen Informationen auf
 Anfrage zu übermitteln.
 
-
 ## § 11 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 7 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 2 Abs. 1 oder 3 einen Motor in den Verkehr bringt.
 
-
 ## § 12 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

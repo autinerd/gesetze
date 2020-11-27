@@ -22,7 +22,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 V v. 13.12.2011 I 2720
 
-
 ## § 1
 
 Die Befugnis zum Verkehr
@@ -244,7 +243,6 @@ wird dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 übertragen. Die in Satz 1 genannten Rechtsakte der Europäischen
 Gemeinschaft sind in der jeweils geltenden Fassung anzuwenden.
 
-
 ## § 2
 
 § 1 gilt nicht, soweit das Bundesministerium für Ernährung,
@@ -262,13 +260,6 @@ Landwirtschaft und Verbraucherschutz
     2.  eine in § 1 genannte Befugnis durch Rechtsverordnung mit Zustimmung
         des Bundesrates auf die zuständigen obersten Landesbehörden übertragen
         hat.
-
-
-
-
-
-
-
 
 ## § 3
 

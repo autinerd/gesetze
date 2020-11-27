@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 368
 
-
-
 ## I.
 
 Auf Grund des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -50,11 +48,9 @@ Bundesministerium des Innern
 zur zuständigen Stelle für den Geschäftsbereich des
 Bundespräsidialamtes.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

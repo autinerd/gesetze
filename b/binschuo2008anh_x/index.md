@@ -15,7 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2450 [Anlageband S. 683 - 770]
 
-
 ## Inhaltsverzeichnis
 
 ## **Teil I**
@@ -53,9 +52,6 @@ Fundstelle
 *    *   1.05
 
     *   Kennzeichnung der Fähren
-
-
-
 
 ## **Kapitel 2**
 
@@ -95,9 +91,6 @@ Fundstelle
 *    *   2.07
 
     *   Zusätzliche Ausrüstung
-
-
-
 
 ## **Kapitel 3**
 
@@ -139,9 +132,6 @@ Fundstelle
 
     *   Abnahmeprotokoll
 
-
-
-
 ## **Kapitel 4**
 
 ## **Übergangs- und Sonderbestimmungen für Fähren**
@@ -156,9 +146,6 @@ Fundstelle
 *    *   4.02
 
     *   Sonstige Abweichungen
-
-
-
 
 ## **Teil II**
 
@@ -207,9 +194,6 @@ Fundstelle
 
     *   Besatzung
 
-
-
-
 ## **Kapitel 6**
 
 ## Übergangs- und Sonderbestimmungen für Barkassen
@@ -218,9 +202,6 @@ Fundstelle
 *    *   6.01
 
     *   Fristen
-
-
-
 
 ## **Teil III**
 
@@ -239,9 +220,6 @@ max.12 Fahrgästen
 *    *   7.02
 
     *   Allgemeine Bestimmungen
-
-
-
 
 ## Kapitel 8
 
@@ -332,9 +310,6 @@ max.12 Fahrgästen
 
     *   Fahrtauglichkeitsbescheinigungen
 
-
-
-
 ## **Kapitel 9**
 
 ## **Sondervorschriften für Taxiboote**
@@ -424,9 +399,6 @@ max.12 Fahrgästen
 
     *   Fahrtauglichkeitsbescheinigung
 
-
-
-
 ## **Dienstanweisungen**
 
 
@@ -453,9 +425,6 @@ max.12 Fahrgästen
         Hochseilanlage befestigt sind sowie für Querseilfähren
         (Kahnseilfähren, Seilfähren und Kettenfähren)
 
-
-
-
 ## **Muster**
 
 
@@ -473,15 +442,9 @@ max.12 Fahrgästen
     *   Muster des Abnahmeprotokolls für kleine Fahrgastschiffe zur
         Beförderung von max. 12 Fahrgästen
 
-
-
-
-
 ## Teil I - Fähren
 
-
 ### Kapitel 1 - Sondervorschriften für Fähren, Allgemeines
-
 
 #### § 1.01 Begriffsbestimmungen
 
@@ -578,10 +541,6 @@ In diesem Anhang gelten als:
     mittiger Aufstellung auf dem Fährdeck einer Wagenfähre befördert
     werden kann.
 
-
-
-
-
 #### § 1.02 Allgemeines
 
 
@@ -655,10 +614,6 @@ In diesem Anhang gelten als:
 8.  Bei seil- und kettengebundenen Fähren gelten die Seil- und
     Kettenanlagen als Hauptantriebssystem.
 
-
-
-
-
 #### § 1.03 Fährzeugnis
 
 
@@ -681,16 +636,11 @@ In diesem Anhang gelten als:
     Werft, ist dies im Fährzeugnis einzutragen. Dabei ist die Beförderung
     von Personen oder Gütern verboten.
 
-
-
-
-
 #### § 1.04 Gültigkeitsdauer des Fährzeugnisses
 
 Die Gültigkeitsdauer des nach den Bestimmungen dieser Verordnung
 ausgestellten Fährzeugnisses ist nach Anhang II § 2.06, entsprechend
 den Bestimmungen für Fahrgastschiffe, festzulegen.
-
 
 #### § 1.05 Kennzeichnung der Fähren
 
@@ -698,9 +648,7 @@ An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein
 mindestens 30 cm hohes "F" mit heller Farbe auf dunklem Grund oder mit
 dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
-
 ### Kapitel 2 - Bau, Einrichtung und Ausrüstung von Fähren
-
 
 #### § 2.01 Fährkörper
 
@@ -727,10 +675,6 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 5.  Kahnfähren und Kahnseilfähren müssen mit Luftkästen oder anderen
     Auftriebskörpern versehen sein. Luftkästen müssen zur Durchführung von
     Dichtigkeitsprüfungen mit einem Schraubverschluss versehen sein.
-
-
-
-
 
 #### § 2.02 Nachweis der Intakt- und Leckstabilität
 
@@ -909,15 +853,10 @@ dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
     Reserveauftrieb von 100 Newton je Person und eine stabile aufrechte
     Schwimmlage gewährleisten.
 
-
-
-
-
 #### § 2.03 Einsenkungsmarken
 
 Anhang II § 4.04 ist anzuwenden; jedoch müssen mindestens zwei
 Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
-
 
 #### § 2.04 Festigkeit des Wagendecks
 
@@ -929,10 +868,6 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
 
 2.  Entsprechend dem Ergebnis der Berechnung nach Nr. 1 ist die größte
     zulässige Einzel- und Doppelachslast in Tonnen (t) festzulegen.
-
-
-
-
 
 #### § 2.05 Rettungsmittel
 
@@ -957,10 +892,6 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
     Plattformen, wenn diese die darin beschriebenen Anforderungen und
     Bestimmungen erfüllen.
 
-
-
-
-
 #### § 2.06 Anker
 
 
@@ -973,10 +904,6 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
     kettengebundene Fähren sowie Kahnfähren auf den Wasserstraßen der Zone
     4 von dem Erfordernis einer Ankerausrüstung befreien, wenn die
     Leichtigkeit und Sicherheit des Verkehrs gewährleistet ist.
-
-
-
-
 
 #### § 2.07 Zusätzliche Ausrüstung
 
@@ -992,12 +919,7 @@ Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
 2.  Kahn- und Kahnseilfähren müssen zusätzlich mit einem Paar Riemen
     ausgerüstet sein.
 
-
-
-
-
 ### Kapitel 3 - Zusätzliche Anforderungen an seil- und kettengebundene Fähren
-
 
 #### § 3.01 Begriffsbestimmungen
 
@@ -1035,10 +957,6 @@ Begriffsbestimmungen:
 6.  „Ablegereife“ der Zustand, bei dessen Erreichen das Seil oder die
     Kette außer Betrieb genommen werden muss, insbesondere wegen
     Verschleiß, Längung, Risse, Korrosion oder Brüchen.
-
-
-
-
 
 #### § 3.02 Nachweis der Intaktstabilität für Gierseilfähren
 
@@ -1559,10 +1477,6 @@ Begriffsbestimmungen:
     Rampe durch eine kraftschlüssige Verbindung in einer festen Lage
     gehalten.
 
-
-
-
-
 #### § 3.03 Einsenkmarken
 
 
@@ -1578,10 +1492,6 @@ Begriffsbestimmungen:
     angebracht sein, die durch den gemittelten Schwerpunkt der
     Wasserlinienflächen in den Schwimmebenen bei Niedrigwasserstand,
     Mittelwasserstand und Hochwasserstand verläuft.
-
-
-
-
 
 #### § 3.04 Berechnung, Konstruktion und technische Zulassung der Seil- und Kettenanlagen
 
@@ -1600,10 +1510,6 @@ Begriffsbestimmungen:
     Berechnung zu erbringen. Die Berechnung und Konstruktion der Seile und
     Ketten wird in Verwaltungsvorschriften dieses Anhangs geregelt.
 
-
-
-
-
 #### § 3.05 Abnahme
 
 Vor Inbetriebnahme einer Seil- und Kettenanlage, nach jeder Änderung
@@ -1613,7 +1519,6 @@ von einem von der Untersuchungskommission anerkannten Sachverständigen
 abzunehmen. Bei dieser Abnahme hat er zu überprüfen, ob die Anlage
 diesem Kapitel entspricht. Er hat der Untersuchungskommission hierüber
 ein Abnahmeprotokoll vorzulegen.
-
 
 #### § 3.06 Prüfungen
 
@@ -1667,10 +1572,6 @@ Die Anlage ist wie folgt zu prüfen:
     nach größeren Temperaturveränderungen auf das im Fährzeugnis
     festgelegte Maß zu korrigieren.
 
-
-
-
-
 #### § 3.07 Abnahmeprotokoll
 
 
@@ -1692,12 +1593,7 @@ Die Anlage ist wie folgt zu prüfen:
 3.  Spätestens mit Ablauf der Gültigkeitsdauer des Abnahmeprotokolls muss
     eine neue Prüfung nach § 3.06 stattfinden.
 
-
-
-
-
 ### Kapitel 4 - Übergangs- und Sonderbestimmungen für Fähren
-
 
 #### § 4.01 Übergangsbestimmungen für Fähren, die schon in Betrieb sind, und Gültigkeit der bisherigen Fährzeugnisse
 
@@ -1854,13 +1750,6 @@ Die Anlage ist wie folgt zu prüfen:
 
     *        *   3.07
 
-
-
-
-
-
-
-
 #### § 4.02 Sonstige Abweichungen
 
 Falls die Anwendung der in diesem Kapitel genannten Bestimmungen nach
@@ -1870,12 +1759,9 @@ aufgrund von Empfehlungen des Bundesministeriums für Verkehr, Bau und
 Stadtentwicklung Abweichungen von diesen Vorschriften gestatten. Diese
 Abweichungen sind in das Fährzeugnis einzutragen.
 
-
 ## Teil II - Barkassen
 
-
 ### Kapitel 5 - Sondervorschriften für Barkassen
-
 
 #### § 5.01 Begriffsbestimmungen
 
@@ -1885,7 +1771,6 @@ gegen Entgelt (Personenbarkassen) oder zum Schleppen
 Länge, mit Plicht mit versenktem Innenboden. Bei Personenbarkassen
 befindet sich der Fahrgastraum in der versenkten Plicht; diese ist zu
 mindestens 1/3 ihrer Länge offen.
-
 
 #### § 5.02 Allgemeines
 
@@ -1908,10 +1793,6 @@ mindestens 1/3 ihrer Länge offen.
 
 
 3.  Das Fahrtgebiet ist in der Fahrtauglichkeitsbescheinigung einzutragen.
-
-
-
-
 
 #### § 5.03 Schiffskörper und Schwimmfähigkeit im Leckfall
 
@@ -1971,10 +1852,6 @@ mindestens 1/3 ihrer Länge offen.
     zugelassen wird, brauchen die Anforderungen der Nummer 1 und 3 nicht
     erfüllt zu sein.
 
-
-
-
-
 #### § 5.04 Stabilität und höchstzulässige Zahl der Fahrgäste
 
 
@@ -1994,10 +1871,6 @@ mindestens 1/3 ihrer Länge offen.
     verbinden. Diese Auflagen sind in die Fahrtauglichkeitsbescheinigung
     einzutragen.
 
-
-
-
-
 #### § 5.05 Freibord und Sicherheitsabstand
 
 Für die Berechnung des Freibordes, für die Überprüfung des
@@ -2005,7 +1878,6 @@ Sicherheitsabstandes und für die Festsetzung der Ebene der größten
 Einsenkung ist Anhang II § 15.03 Nr. 3 in Verbindung mit Anhang III §
 8\.07 und § 8.10 in Abhängigkeit von der zu befahrenden Wasserstraße
 sinngemäß anzuwenden.
-
 
 #### § 5.06 Rettungsmittel
 
@@ -2030,10 +1902,6 @@ sinngemäß anzuwenden.
 4.  Hat eine Barkasse festüberdachte Räume, so müssen mindestens 30% der
     Rettungsmittel in diesen Räumen griffbereit gelagert sein.
 
-
-
-
-
 #### § 5.07 Anker
 
 
@@ -2046,10 +1914,6 @@ sinngemäß anzuwenden.
 
 
 3.  Die Ankerkette muss mindestens 45 m lang sein.
-
-
-
-
 
 #### § 5.08 Ausrüstung
 
@@ -2064,12 +1928,7 @@ sinngemäß anzuwenden.
     genügen, im Steuerstand und an einer anderen leicht zugänglichen
     Stelle vorhanden sein.
 
-
-
-
-
 ### Kapitel 6 - Übergangs- und Sonderbestimmungen für Barkassen
-
 
 #### § 6.01 Fristen
 
@@ -2091,22 +1950,15 @@ sinngemäß anzuwenden.
     Anwendungsbereich der Binnenschiffs-Untersuchungsordnung fielen oder
     die sich in Bau oder Umbau befanden, ab dem 1. Januar 2013 anzuwenden.
 
-
-
-
-
 ## Teil III - Kleine Fahrgastschiffe
 
-
 ### Kapitel 7 - Sondervorschriften für kleine Fahrgastschiffe zur Beförderung von maximal 12 Fahrgäste
-
 
 #### § 7.01 Begriffsbestimmung
 
 Im Sinne dieses Anhangs ist:
 „kleines Fahrgastschiff,“ ein Fahrgastschiff, das zur Beförderung von
 nicht mehr als 12 Fahrgästen gebaut und eingerichtet ist.
-
 
 #### § 7.02 Allgemeine Bestimmungen
 
@@ -2130,19 +1982,13 @@ nicht mehr als 12 Fahrgästen gebaut und eingerichtet ist.
     anerkannten Sachverständigen für kleine Fahrgastschiffe nachgewiesen
     werden.
 
-
-
-
-
 ### Kapitel 8 - Sonderbestimmungen für Zeesboote
-
 
 #### § 8.01 Begriffsbestimmung
 
 Im Sinne dieses Kapitels ist:
 „Zeesboot“, ein kleines Fahrgastschiff für die Boddengewässer, das
 gebaut und eingerichtet ist, um auch durch Segel fortbewegt zu werden.
-
 
 #### § 8.02 Allgemeine Bestimmungen
 
@@ -2154,10 +2000,6 @@ a)  Tagesfahrten unter Segel, ohne Übernachtung, mit maximal 12 Fahrgästen
 
 b)  den Einsatz des Motors als Hilfsantrieb, insbesondere für das Aus- und
     Einlaufen, bei Flaute oder aufkommendem Starkwind während der Fahrt.
-
-
-
-
 
 #### § 8.03 Allgemeine Anforderungen
 
@@ -2171,17 +2013,12 @@ b)  den Einsatz des Motors als Hilfsantrieb, insbesondere für das Aus- und
 
 2.  Ein sicherer Einstieg und Zugang zur Plicht muss gewährleistet sein.
 
-
-
-
-
 #### § 8.04 Maximale Zuladung
 
 Die maximale Zuladung entsprechend DIN EN ISO 14946, Ausgabe Dezember
 2001 (Personen, Gepäck, Tankinhalte, Ausrüstung) darf 1400 kg nicht
 überschreiten. Gepäck ist im unteren Bereich der Plicht und der Kajüte
 zu stauen.
-
 
 #### § 8.05 Stabilität und Auftrieb
 
@@ -2197,10 +2034,6 @@ b)  der dynamische Kenterwinkel im beladenen Zustand mindestens 45°
 
 c)  gemäß der Reffvorschrift, die von dem untersuchenden Sachverständigen
     zu erstellen ist, der Krängungswinkel im beladenen Zustand ≤ 20° sein.
-
-
-
-
 
 #### § 8.06 Freibord, Verschlusszustand
 
@@ -2224,10 +2057,6 @@ c)  alle Seeventile unterhalb der Wasserlinie im nach Nummer 6 Buchstabe c
 
 d)  Abgasleitungen gegen das Eindringen von Wasser geschützt sein.
 
-
-
-
-
 #### § 8.07 Antrieb, Kraftstoffsystem
 
 
@@ -2248,13 +2077,6 @@ d)  Abgasleitungen gegen das Eindringen von Wasser geschützt sein.
     c)  für die maschinenbaulichen Anforderungen Anhang II § 8.01 bis 8.04 und
         § 8.05 Nr.1 bis 9, Nr. 12, Nr. 13, sowie § 8.07 und § 8.08 sinngemäß.
 
-
-
-
-
-
-
-
 #### § 8.08 Lenzeinrichtung
 
 Die Lenzeinrichtung muss Anhang II § 8.06 entsprechen. Abweichend von
@@ -2262,13 +2084,11 @@ Anhang II § 8.06 müssen zwei Lenzpumpen vorhanden sein. Die
 Mindestfördermenge der ersten Pumpe muss 120 l/min betragen. Die
 zweite Lenzpumpe kann eine Handlenzpumpe sein.
 
-
 #### § 8.09 Elektrische Anlagen
 
 Die Anlagen müssen Anhang II Kapitel 9 sinngemäß erfüllen und
 zusätzlich hierzu für ständige Neigungen des Zeesbootes bis zu 20°
 ausgelegt sein.
-
 
 #### § 8.10 Rettungsmittel
 
@@ -2300,10 +2120,6 @@ ausgelegt sein.
 
     griffbereit vorhanden sein.
 
-
-
-
-
 #### § 8.11 Schutz vor Überbordfallen und Wiedereinstiegsmittel
 
 
@@ -2316,10 +2132,6 @@ ausgelegt sein.
     installierte Leiter vorhanden sein. Ist die Leiter abnehmbar, muss
     diese so gestaut werden können, dass eine schnelle Einsatzbereitschaft
     gewährleistet ist.
-
-
-
-
 
 #### § 8.12 Anker- und Schleppausrüstung
 
@@ -2338,10 +2150,6 @@ ausgelegt sein.
     Festpunkte für ein Schleppseil vorhanden sein. Das dafür geeignete
     Schleppseil muss mindestens 25 m Länge haben.
 
-
-
-
-
 #### § 8.13 Brandschutz
 
 
@@ -2352,17 +2160,12 @@ ausgelegt sein.
 2.  Flüssiggasanlagen sowie Geräte und Einrichtungen mit offener Flamme
     sind auf Zeesbooten verboten.
 
-
-
-
-
 #### § 8.14 Brandbekämpfung
 
 Es muss mindestens ein tragbarer Feuerlöscher entsprechend DIN EN 3:
 1996 (Pulver, Brand-klasse ABC, 6 kg) an Bord vorhanden sein. Er ist
 gut zugänglich und spritzwassergeschützt außerhalb von Kajüte und
 Motorraum anzubringen.
-
 
 #### § 8.15 Sonstige Ausrüstung
 
@@ -2424,7 +2227,6 @@ n)  zwei Schöpfgefäße (Eimer).
 Ist im Falle des Satzes 1 Buchstabe j der Verbandskasten verdeckt
 untergebracht, so ist sein Aufbewahrungsort zu kennzeichnen.
 
-
 #### § 8.16 Besatzung
 
 Das Zeesboot ist mindestens mit einem Schiffsführer und einem
@@ -2439,10 +2241,6 @@ a)  den Besitz eines Sportbootführerscheins und ein Praktikum auf einem
 b)  den Besitz eines Sportküstenschifferscheines, eines
     Sportseeschifferscheines oder eines Sporthochseeschifferscheines und
     ein Praktikum auf einem Zeesboot, das mindestens 30 Fahrtage umfasst.
-
-
-
-
 
 #### § 8.17 Fahrtauglichkeitsbescheinigungen
 
@@ -2494,9 +2292,7 @@ d sind auf einer Tafel an Bord an auffallender Stelle deutlich
 sichtbar anzubringen. In der Fahrtauglichkeitsbescheinigung ist im
 Feld „Art des Fahrzeuges“ die Bezeichnung „Zeesboot“ einzutragen.
 
-
 ### Kapitel 9 - Sondervorschriften für Taxiboote
-
 
 #### § 9.01 Begriffsbestimmung
 
@@ -2504,7 +2300,6 @@ Im Sinne dieses Kapitels ist:
 „Taxiboot“, ein kleines Fahrgastschiff, das der Beförderung zwischen
 verschiedenen Anlegestellen ohne festen Fahrplan dient und dessen
 Länge des Schiffskörpers L 12 m nicht überschreitet.
-
 
 #### § 9.02 Allgemeins Bestimmungen
 
@@ -2520,10 +2315,6 @@ Länge des Schiffskörpers L 12 m nicht überschreitet.
     durchlaufen haben. Die Konformitätserklärung ist der Zentralstelle
     Schiffsuntersuchungskommission/Schiffseichamt vorzulegen.
 
-
-
-
-
 #### § 9.03 Schiffskörper
 
 Der Schiffskörper muss aus Stahl oder einem hinsichtlich Festigkeit
@@ -2532,7 +2323,6 @@ Fahrgastbereiches muss wasserdicht sein und oberhalb der Ebene der
 größten Einsenkung liegen. Eingedrungenes Wasser muss über eine fest
 installierte Lenzeinrichtung mit einer Gesamtleistung von 110 l/min
 nach außenbords gelangen.
-
 
 #### § 9.04 Schwimmfähigkeit im Leckfall
 
@@ -2607,7 +2397,6 @@ b)  jede ungesicherte Öffnung mindestens
 
 über dem Wasserspiegel liegt.
 
-
 #### § 9.05 Intaktstabilität und höchstzulässige Zahl der Fahrgäste
 
 Für jede Person an Bord muss ein fest eingebauter Sitzplatz vorhanden
@@ -2668,17 +2457,12 @@ b)  ein Restsicherheitsabstand
 
     nicht unterschritten werden.
 
-
-
-
-
 #### § 9.06 Fahrgasträume und -bereiche
 
 Anhang II § 15.06, mit Ausnahme der Nr. 17, ist sinngemäß anzuwenden.
 Geschlossene Fahrgasträume sind nicht zulässig. Ein Wetterschutz muss
 zu den Ein- und Ausstiegen sowie nach achtern auf seiner gesamter
 Breite offen sein.
-
 
 #### § 9.07 Antriebssystem
 
@@ -2687,12 +2471,10 @@ ausreichende Fahr- und Manövriereigenschaften gewährleistet, wobei die
 Geschwindigkeit gegen Wasser mindestens 13 km/h betragen muss und
 höchstens 30 km/h betragen darf. Außenbordmotoren sind unzulässig.
 
-
 #### § 9.08 Maschinenbauliche Anforderungen
 
 Anhang II § 8.01 bis 8.04 und 8.05 Nr. 1 bis 9, Nr. 12 und 13 sowie
 8\.07 und 8.08 ist sinngemäß anzuwenden.
-
 
 #### § 9.09 Rettungsmittel
 
@@ -2720,16 +2502,11 @@ Anhang II § 8.01 bis 8.04 und 8.05 Nr. 1 bis 9, Nr. 12 und 13 sowie
 
     griffbereit vorhanden sein.
 
-
-
-
-
 #### § 9.10 Elektrische Anlagen
 
 Die Anlagen müssen die Anforderungen des Anhangs II Kapitels 9
 sinngemäß erfüllen und zusätzlich hierzu für Neigungen bis zu 20°
 ausgelegt sein.
-
 
 #### § 9.11 Brandschutz
 
@@ -2743,14 +2520,12 @@ verwendet werden, dürfen keine außergewöhnlichen Mengen von Rauch und
 giftigen Stoffen erzeugen. Treppen müssen aus Stahl oder einem anderen
 gleichwertigen nicht brennbaren Werkstoff hergestellt sein.
 
-
 #### § 9.12 Brandbekämpfung
 
 Es müssen mindestens zwei tragbare Feuerlöscher entsprechend DIN EN
 3:1996 (Pulver, Brandklasse ABC, 6 kg) an Bord vorhanden sein.
 Feuerlöscher sind gut zugänglich und spritzwassergeschützt außerhalb
 vom Maschinenraum anzubringen.
-
 
 #### § 9.13 Ankerausrüstung
 
@@ -2762,7 +2537,6 @@ anstelle der Ankerketten sind zulässig und müssen die gleiche
 Bruchfestigkeit wie Ankerketten haben, jedoch muss ihre Länge 20 %
 größer sein.
 
-
 #### § 9.14 Sonstige Ausrüstung
 
 Anhang II § 10.02, außer Nr. 1 Buchstabe e und f (Behälter) sowie Nr.
@@ -2773,13 +2547,11 @@ In Zone 2-See müssen Geräte und Ausrüstungsgegenstände nach Anhang III
 gelten hinsichtlich Kompass und Radargerät die Bestimmungen nach
 Anhang III § 1.01 Nr. 2 und 3.
 
-
 #### § 9.15 Kennzeichnung
 
 An allen Taxibooten muss als Kennzeichnung an beiden Längsseiten ein
 mindestens 30 cm hohes „Taxi“ mit heller Farbe auf dunklem Grund oder
 mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
-
 
 #### § 9.16 Besatzung
 
@@ -2840,41 +2612,31 @@ mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
     nach Satz 1 Buchstabe a bis g in die Fahrtauglichkeitsbescheinigung
     einzutragen.
 
-
-
-
-
 #### § 9.17 Fahrtauglichkeitsbescheinigung
 
 Die Gültigkeitsdauer der Fahrtauglichkeitsbescheinigung beträgt
 maximal 5 Jahre. In der Fahrtauglichkeitsbescheinigung ist im Feld
 „Art des Fahrzeuges“ die Bezeichnung „Taxiboot“ einzutragen.
 
-
 #### (XXXX) Dienstanweisung Nr. 1 Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang X § 3.04
 
 Text in Bearbeitung
-
 
 #### Anlage 1 zur Dienstanweisung Nr. 1 des Anhang X *% Ermittlung der Seilkräfte
 
 Text in Bearbeitung
 
-
 #### Anlage 2 zur Dienstanweisung Nr. 1 des Anhang X *% Querwiderstandsbeiwert
 
 Text in Bearbeitung
-
 
 #### (XXXX) Dienstanweisung Nr. 2 Berechnungsgrundlagen für Gierfähren, die nicht an einer Hochseilanlage befestigt sind sowie für Querseilfähren (Kahnseilfähren, Seilfähren und Kettenfähren) zu Anhang X § 3.04
 
 Text in Bearbeitung
 
-
 #### Muster Nr. 1 Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren *% zu Anhang X § 3.07 Nr. 1
 
 Text in Bearbeitung
-
 
 #### Muster Nr. 2 Muster des Abnahmeprotokolls für kleine Fahrgastschiffe zur Beförderung von maximal 12 Fahrgästen *% zu Anhang X § 7.02 Nr. 2
 

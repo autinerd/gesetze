@@ -19,10 +19,7 @@ Fundstelle
 Geändert durch
 :   Art. 68 G v. 5.10.1994 I 2911
 
-
 ## Erster Abschnitt - Vor dem 9. Mai 1945 errichtete, nicht mehr bestehende öffentliche Rechtsträger mit Sitz im Geltungsbereich dieses Gesetzes
-
-
 
 ### § 1 Auflösung
 
@@ -36,7 +33,6 @@ dem 9. Mai 1945 errichteter, bei Inkrafttreten des Grundgesetzes nicht
 mehr bestehender öffentlicher Rechtsträger mit Sitz im Geltungsbereich
 dieses Gesetzes zu ergänzen.
 
-
 ### § 2 Abwicklung
 
 Die öffentlichen Rechtsträger (§ 1) werden, soweit sie Aktivvermögen
@@ -45,7 +41,6 @@ Gesetz abgewickelt. Bis zur Beendigung der Abwicklung gelten sie als
 öffentliche Rechtsträger für Zwecke der Abwicklung und insoweit als
 fortbestehend, als sie Schuldner von Steuern, Beiträgen und Gebühren
 sind.
-
 
 ### § 3 Abwickler
 
@@ -109,7 +104,6 @@ nicht überschreiten.
 (6) Die öffentlichen Rechtsträger (§ 1) unterliegen der
 Rechnungsprüfung durch den Bundesrechnungshof.
 
-
 ### § 4 Aufgaben des Abwicklers
 
 (1) Der Abwickler hat das Vermögen des öffentlichen Rechtsträgers
@@ -127,7 +121,6 @@ Bürgerlichen Gesetzbuchs befreit.
 
 (3) Der allgemeine Gerichtsstand des öffentlichen Rechtsträgers wird
 durch den Sitz des Abwicklers bestimmt.
-
 
 ### § 5 Anzeigepflicht
 
@@ -166,7 +159,6 @@ der Rechtsverordnung.
 Absätzen 1 und 2 nicht nachkommt, haftet dem öffentlichen Rechtsträger
 für den daraus entstehenden Schaden.
 
-
 ### § 6 Herausgabepflicht
 
 Vermögensgegenstände, die einem öffentlichen Rechtsträger (§ 1) am
@@ -194,7 +186,6 @@ Zeitpunkt der Übernahme des Besitzes bestehenden Wert der auf sie
 übertragenen oder übergegangenen Vermögensgegenstände zum Ausgleich
 verpflichtet sind; der Ausgleich findet in Geld statt.
 
-
 ### § 7 Ansprüche im Zusammenhang mit der Verwaltung von ehemaligem Reichsvermögen
 
 (1) § 4 Abs. 2 Nr. 2 des Allgemeinen Kriegsfolgengesetzes vom 5.
@@ -207,7 +198,6 @@ Anmeldefrist in Abweichung von dessen § 28 Abs. 1 am ersten Tag des
 Kalendermonats nach der Bekanntmachung der Übernahme der Abwicklung
 oder der Bestellung eines Abwicklers im Bundesanzeiger gemäß § 3 Abs.
 3\.
-
 
 ### § 8 Ansprüche gegen öffentliche Rechtsträger
 
@@ -224,7 +214,6 @@ Berechtigten hinterlegt.
 öffentlichen Rechtsträgers sowie die Rechte aus einer Hypothek,
 Grundschuld, Rentenschuld, Schiffshypothek oder sonstigen Sicherheit
 werden durch dieses Gesetz nicht berührt.
-
 
 ### § 9 Wohnsitzvoraussetzungen
 
@@ -292,7 +281,6 @@ Lebens, des Körpers oder der Gesundheit in der Zeit nach dem 7. Mai
 1945 bis zum 30. Juni 1961 aus dem Vermögen des öffentlichen
 Rechtsträgers (§ 1) laufend erfüllt worden sind.
 
-
 ### § 10 Den Wohnsitzvoraussetzungen nicht unterliegende Ansprüche
 
 Den Beschränkungen des § 9 unterliegt nicht die Geltendmachung von
@@ -341,10 +329,6 @@ Den Beschränkungen des § 9 unterliegt nicht die Geltendmachung von
 
 
 4.  Ansprüchen aus dinglichen Rechten an beweglichen Sachen.
-
-
-
-
 
 ### § 11 Ausgeschlossene Ansprüche
 
@@ -450,7 +434,6 @@ Zahlung von Renten können nur für die Zeit vom Ersten des Monats ab
 geltend gemacht werden, in dem sie ihren Wohnsitz oder ständigen
 Aufenthalt im Geltungsbereich dieses Gesetzes genommen haben.
 
-
 ### § 12 Anmeldung, Anmeldefrist
 
 (1) Ansprüche können nur innerhalb einer Ausschlußfrist von einem Jahr
@@ -486,10 +469,6 @@ bei dem zuständigen Bundesminister angemeldet worden sind.
 5.  bei Ansprüchen aus dinglichen Rechten an beweglichen Sachen, die der
     Berechtigte im Besitz hat.
 
-
-
-
-
 ### § 13 Klagefrist
 
 Lehnt der Abwickler die Erfüllung eines Anspruchs ab, so kann der
@@ -502,7 +481,6 @@ Mitteilung auf die in Satz 1 bezeichnete Frist hingewiesen worden ist.
 Die Frist gilt auch dann als gewahrt, wenn der Anspruch in der
 Klagefrist bei einem unzuständigen Gericht geltend gemacht wird.
 
-
 ### § 14 Zulässigkeit von Aufrechnungen
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem
@@ -511,7 +489,6 @@ nicht entgegen, wenn der Gläubiger den zur Aufrechnung gestellten
 Anspruch vor dem 1. Januar 1960 erworben hat oder wenn der Anspruch
 nach diesem Zeitpunkt im Wege der Gesamtrechtsnachfolge von einem vor
 dem 1. Januar 1960 Anspruchsberechtigten auf ihn übergegangen ist.
-
 
 ### § 15 Übergegangenes Verwaltungsvermögen
 
@@ -533,7 +510,6 @@ sind, haben den öffentlichen Rechtsträger von den vor dem 24. Mai 1949
 begründeten Verbindlichkeiten freizustellen, für die dingliche
 Sicherungen an diesen Vermögensgegenständen bestehen.
 
-
 ### § 16 Zu übertragendes Verwaltungsvermögen
 
 Vermögensgegenstände, die nicht auf Grund des Artikels 135 Abs. 2 des
@@ -548,7 +524,6 @@ beginnt für den einzelnen Rechtsträger am ersten Tag des
 Kalendermonats nach der Bekanntmachung der Übernahme der Abwicklung
 oder der Bestellung eines Abwicklers im Bundesanzeiger nach § 3 Abs.
 3\. § 15 Abs. 3 gilt entsprechend.
-
 
 ### § 17 Auffüllung der Abwicklungsmasse
 
@@ -575,7 +550,6 @@ im Zeitpunkt der Übernahme des Besitzes bestehenden Wert der auf ihn
 übertragenen oder übergegangenen Vermögensgegenstände zum Ausgleich
 verpflichtet.
 
-
 ### § 18 Vermögensabgabe
 
 (1) Soweit die Vierteljahrsbeträge der Vermögensabgabe (§ 34 des
@@ -600,7 +574,6 @@ Lastenausgleichsgesetzes) einen Monat nach dieser Bekanntgabe fällig.
 Der Ablösungswert ist nach der zu § 199 des Lastenausgleichsgesetzes
 ergangenen Ablösungsverordnung zu berechnen, die am Tag des
 Inkrafttretens dieses Gesetzes gilt.
-
 
 ### § 19 Vermögensübersichten, Erfüllung der Ansprüche
 
@@ -645,7 +618,6 @@ zurückbehalten und frei geworden sind, sind unbeschadet der
 Vorschriften der §§ 15 und 16 zur Erfüllung bestehender Ansprüche nach
 den Vorschriften der Absätze 2 bis 4 zu verwenden.
 
-
 ### § 20 Erlöschen der Ansprüche
 
 Ansprüche gegen einen öffentlichen Rechtsträger (§ 1), die nicht
@@ -662,7 +634,6 @@ Hypothek, Grundschuld, Rentenschuld oder Schiffshypothek werden durch
 die Vorschriften der Sätze 1 und 2 nicht berührt. Mit dem Erlöschen
 eines Anspruchs aus dem Eigentum auf Herausgabe geht das Eigentum auf
 den öffentlichen Rechtsträger (§ 1) über.
-
 
 ### § 21 Restvermögen
 
@@ -693,7 +664,6 @@ verbleibende Vermögen den Zwecken zuzuführen, deren Erfüllung Aufgabe
 des Rechtsträgers gewesen ist. Er kann zu diesem Zweck über das
 Vermögen oder über Vermögensgegenstände verfügen.
 
-
 ### § 22 Kostenfreiheit
 
 Geschäfte und Verhandlungen, die der Durchführung der §§ 6, 15, 16 und
@@ -703,14 +673,12 @@ gilt nicht für die Kosten eines Rechtsstreits. Hiervon unberührt
 bleiben Regelungen hinsichtlich der Gebühren, Auslagen und sonstiger
 Abgaben, die nicht auf bundesrechtlichen Vorschriften beruhen.
 
-
 ### § 23 Arreste und Zwangsvollstreckungen
 
 Arreste und Zwangsvollstreckungen in das Vermögen eines öffentlichen
 Rechtsträgers (§§ 1, 25 und 27 Abs. 1) sind für die Dauer der
 Abwicklung nur wegen der in § 19 Abs. 2 Satz 1 bezeichneten Ansprüche
 zulässig.
-
 
 ### § 24 Beendigung der Abwicklung
 
@@ -725,10 +693,7 @@ an den zuständigen Bundesminister herauszugeben.
 (3) Der zuständige Bundesminister gibt die Beendigung der Abwicklung
 im Bundesanzeiger bekannt.
 
-
 ## Zweiter Abschnitt - Nach dem 8. Mai 1945 errichtete, nicht mehr bestehende öffentliche Rechtsträger mit Sitz im Geltungsbereich dieses Gesetzes
-
-
 
 ### § 25 Auflösung und Abwicklung
 
@@ -747,10 +712,7 @@ Nicht anzuwenden sind jedoch die §§ 9 bis 11 und für die Hauptstelle
 für Zuckerwirtschaft bzw. Geschäftsstelle Zuckerwirtschaft des
 Ernährungs- und Landwirtschaftsrats außerdem die §§ 15 bis 18 und 20.
 
-
 ## Dritter Abschnitt - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 26 Beendigung der bisherigen Vermögensverwaltung
 
@@ -761,7 +723,6 @@ erlöschen die Aufgaben und Befugnisse der bisher zur Verwaltung und
 Abwicklung bestellten Personen. Diese haben das verwaltete Vermögen
 unverzüglich an den Abwickler herauszugeben und ihm Schlußrechnung zu
 legen.
-
 
 ### § 27 Sonstige öffentliche Rechtsträger
 
@@ -871,20 +832,17 @@ Vermögensgegenständen.
 (6) Absatz 1 gilt nicht für öffentlich-rechtliche Geldinstitute,
 Versicherungsunternehmen und Bausparkassen.
 
-
 ### § 28 Kosten anhängiger Gerichtsverfahren
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt,
 trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der
 gerichtlichen Auslagen; Gerichtsgebühren werden nicht erhoben.
 
-
 ### § 29 Londoner Schuldenabkommen
 
 Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und
 die zu seiner Ausführung ergangenen Vorschriften werden durch die
 Vorschriften dieses Gesetzes nicht berührt.
-
 
 ### § 30 Berlin-Klausel
 
@@ -894,12 +852,10 @@ S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
-
 ### § 31 Inkrafttreten
 
 Dieses Gesetz tritt am ersten Tage des zweiten Kalendermonats nach
 seiner Verkündung in Kraft.
-
 
 ### Anlage I zu § 1 Abs. 1
 
@@ -1764,10 +1720,6 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
         405) und § 27 der Fünften Verordnung zum Aufbau der Sozialversicherung
         vom 21. Dezember 1934 (Reichsgesetzbl. I S. 1274)
 
-
-
-
-
 ### Anlage II zu § 25
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1080
@@ -1875,10 +1827,6 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1080
         Ernährung, Landwirtschaft und Forsten vom 16. Juli 1948 (Amtsblatt für
         Ernährung, Landwirtschaft und Forsten S. 111).
 
-
-
-
-
 ### (XXXX) Vorschriften für die Anwendung der Tabellen I bis V zu § 19 Abs. 3
 
 Die Tabellen I bis V, die dazu dienen, den Schätzwert nach § 19 Abs. 3
@@ -1910,7 +1858,6 @@ Alter und die Altersdifferenz in Jahren sind bei der Anwendung der
 Tabellen so zu berechnen, daß ein angebrochenes Jahr als voll gezählt
 wird, wenn mehr als sechs Monate abgelaufen sind; andernfalls bleibt
 es unberücksichtigt.
-
 
 ### Tabelle I zu § 19 Abs. 3
 
@@ -2428,10 +2375,6 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1082
     *   51
 
     *   42
-
-
-
-
 
 ### Tabelle II zu § 19 Abs. 3
 
@@ -2960,10 +2903,6 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1083
     *   51
 
     *   42
-
-
-
-
 
 ### Tabelle III zu § 19 Abs. 3
 
@@ -3767,10 +3706,6 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1084
 
     *   4
 
-
-
-
-
 ### Tabelle IV zu § 19 Abs. 3
 
 Fundstelle des Originaltextes: BGBl. I 1965, 1085
@@ -4336,9 +4271,6 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1085
 
     *
     *
-
-
-
 
 ### Tabelle V zu § 19 Abs. 3
 

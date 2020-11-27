@@ -19,14 +19,12 @@ Fundstelle
 Geändert durch
 :   Art. 73 G v. 9.12.2004 I 3242
 
-
 ## Eingangsformel
 
 Auf Grund des § 226 Abs. 2 des Sechsten Buches Sozialgesetzbuch, der
 durch Artikel 1 Nr. 43 des Gesetzes vom 25. Juli 1991 (BGBl. I S.
 1606) neu gefaßt worden ist, verordnet der Bundesminister für Arbeit
 und Sozialordnung im Einvernehmen mit dem Bundesminister der Finanzen:
-
 
 ## § 1 Grundsatz
 
@@ -55,7 +53,6 @@ Knappschaft-Bahn-See als Träger der knappschaftlichen
 Rentenversicherung und der allgemeinen Rentenversicherung wird von der
 Deutschen Rentenversicherung Bund durchgeführt.
 
-
 ## § 2 Aufteilung der Ausgaben für Leistungen zur Teilhabe
 
 (1) Die auf die knappschaftliche Rentenversicherung und die allgemeine
@@ -74,11 +71,9 @@ Verhältnis, in dem deren Ausgaben für Leistungen zur Teilhabe zu den
 Ausgaben dieser Träger der Rentenversicherung für Leistungen zur
 Teilhabe zusammen stehen.
 
-
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1992 in Kraft.
-
 
 ## Schlußformel
 

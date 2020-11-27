@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 7 G v. 27.7.2001 I 1887
 
-
 ## Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung
@@ -28,7 +27,6 @@ und Beschleunigung gerichtlicher Verfahren (Vereinfachungsnovelle) vom
 und 2 Nr. 1 der Zivilprozeßordnung in der im Bundesgesetzblatt Teil
 III, Gliederungsnummer 310-4, veröffentlichten bereinigten Fassung
 wird mit Zustimmung des Bundesrates verordnet:
-
 
 ## § 1 Bestimmung der Vordrucke
 
@@ -72,7 +70,6 @@ im Ausland oder nach Artikel 32 des Zusatzabkommens zum NATO-
 Truppenstatut vom 3. August 1959 (BGBl. 1961 II S. 1183, 1218)
 zuzustellen ist.
 
-
 ## § 2 Zweitschriften, Ausfertigungen
 
 (1) Die in den Anlagen 3, 4, 6 und 7 bestimmten Vordrucke für den
@@ -86,7 +83,6 @@ zu erteilende Ausfertigung des Vollstreckungsbescheids mit dem
 Aufdruck "Ausfertigung für den Antragsteller" und für die Zustellung
 an den Antragsgegner mit dem Aufdruck "Ausfertigung für den
 Antragsgegner" zu versehen.
-
 
 ## § 3 Zulässige Abweichungen
 
@@ -116,7 +112,6 @@ Vordrucken sind zulässig:
 die durch Verwaltungsabkommen der Länder eingerichtete
 Koordinierungsstelle für Pflege und Weiterentwicklung des
 automatisierten gerichtlichen Mahnverfahrens.
-
 
 ## § 4 Übergang zum Euro
 
@@ -175,16 +170,13 @@ Umrechnungskurs für die Parteien erleichtern.
 (6) Die nähere Ausgestaltung der Vordrucke nach Maßgabe der Absätze 1
 bis 5 bestimmt die in § 3 Abs. 2 bezeichnete Stelle.
 
-
 ## § 5 Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1979 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister der Justiz
-
 
 ## Anlage 1
 
@@ -192,13 +184,11 @@ Der Bundesminister der Justiz
 Fundstelle: BGBl. I 1991, 1567 - 1570;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ## Anlage 2
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 3
 
@@ -206,13 +196,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Fundstelle: BGBl. I 1991, 1571 - 1572;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ## Anlage 4
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 5
 
@@ -220,13 +208,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Fundstelle: BGBl. I 1978, 706;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
 ## Anlage 6
 
 (Inhalt: nicht darstellbarer Vordruck,
 Fundstelle: BGBl. I 1978, 706;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-
 
 ## Anlage 7
 

@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 272
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 34c Abs. 3 der Gewerbeordnung in der Fassung der
@@ -25,11 +23,9 @@ Bekanntmachung vom 1. Januar 1987 (BGBl. I S. 425), der durch Artikel
 3475) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft:
 
-
 ## Art 1
 
 -
-
 
 ## Art 2 Übergangsvorschriften
 
@@ -38,11 +34,9 @@ oder 3 in der bis zum 31. Mai 1997 geltenden Fassung abzusichern
 haben, können die Verträge weiterhin nach den bisher geltenden
 Vorschriften abwickeln.
 
-
 ## Art 3 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 1997 in Kraft.
-
 
 ## Schlußformel
 

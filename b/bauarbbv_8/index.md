@@ -29,7 +29,6 @@ Tarifverträgen in der Branche mit zumindest teilweise demselben
 fachlichen Geltungsbereich Gelegenheit zur schriftlichen Stellungnahme
 gegeben hat:
 
-
 ## § 1 Zwingende Arbeitsbedingungen
 
 Die in der Anlage 1 zu dieser Verordnung aufgeführten Rechtsnormen des
@@ -54,7 +53,6 @@ die in den Geltungsbereich dieser Verordnung fallen, so hat der
 Verleiher ihm oder ihr nach § 8 Absatz 3 des Arbeitnehmer-
 Entsendegesetzes zumindest die nach dieser Verordnung vorgeschriebenen
 Arbeitsbedingungen zu gewähren.
-
 
 ## § 2 Anwendungsausnahmen
 
@@ -233,19 +231,16 @@ vorstehenden Absätzen oder fachlichen Geltungsbereichen aufgeführt
 sind, soweit diese Tätigkeiten ein Unterfallen unter den jeweiligen
 fachlichen Geltungsbereich begründen.
 
-
 ## § 3 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2011 in Kraft und am 31.
 Dezember 2013 außer Kraft.
-
 
 ## Anlage 1 (zu § 1) Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne im Baugewerbe im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
 
 (Fundstelle: BAnz. 2011, 3866 - 3869)
 
 (Text der Anlage siehe: TVMindestlohn 2011)
-
 
 ## Anlage 2 (zu § 2 Absatz 1) Fachliche Geltungsbereiche
 
@@ -760,7 +755,6 @@ Freileitungs-, Ortsnetz- und Kabelbaues mit Ausnahme des
 Zentralheizungs- und Lüftungsbaues sowie der Arbeitsstellen auf
 Schiffen auf Fahrt.
 
-
 ## Anlage 3 (zu § 2 Absatz 2 Buchstabe a) Liste der Mitgliedsverbände von Gesamtmetall in der Fassung vom 1. Februar 2006
 
 (Fundstelle: BAnz. 2011, 3871)
@@ -804,7 +798,6 @@ Verband der Metall- und Elektroindustrie des Saarlandes e.V.
 Unternehmensverband Saarland e.V.
 
 Verband der Metall- und Elektroindustrie Osnabrück-Emsland e.V.
-
 
 ## Anlage 4 (zu § 2 Absatz 4 Nummer 1, 5 und 6) Fachliche Geltungsbereiche
 

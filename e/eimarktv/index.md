@@ -21,13 +21,11 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 109 G v. 22.12.2011 I 3044
 
-
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 über Vermarktungsnormen für Eier erlassen sind.
-
 
 ## § 1a Ausnahmen
 
@@ -46,7 +44,6 @@ Sortierung nach Güte- und Gewichtsklassen vorgenommen worden ist.
 (2) Erzeugungsgebiet im Sinne des Absatz 1 ist das Gebiet, das im
 Umkreis von nicht mehr als 100 km vom Ort der Produktionsstätte
 gelegen ist.
-
 
 ## § 1b Verbot des Inverkehrbringens
 
@@ -137,17 +134,12 @@ Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
     genannten Anforderungen an Angaben oder Kennzeichnungen nicht
     entsprechen.
 
-
-
-
-
 ## § 2 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
 
 In Rechnungen, Lieferscheinen und sonstigen Transportbegleitpapieren,
 ausgenommen in Papieren der genannten Art des Einzelhandels, sind die
 Güte- und Gewichtsklassen anzugeben, unter denen die Eier jeweils
 geliefert, verkauft oder sonst in den Verkehr gebracht worden sind.
-
 
 ## § 3 Werbung
 
@@ -157,11 +149,9 @@ Angabe der Güte- und Gewichtsklassen geworben werden, sofern dabei
 Preise angegeben werden, die sich unmittelbar auf eine Gewichtseinheit
 beziehen.
 
-
 ## § 3a
 
 (weggefallen)
-
 
 ## § 4 Marktnotierungen
 
@@ -170,7 +160,6 @@ amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
 Preisnotierungen oder Preisfeststellungen für Eier vornehmen, sind
 verpflichtet, ihren Notierungen oder Feststellungen die Güte- und
 Gewichtsklassen zugrundezulegen.
-
 
 ## § 5 Verfahren bei Direktlieferungen ungekennzeichneter Eier
 
@@ -234,7 +223,6 @@ Die zuständige Landesbehörde kann für Anträge nach den Absätzen 1 bis
 3 Muster im Bundesanzeiger bekannt geben; soweit Muster bekannt
 gegeben sind, sind diese zu verwenden.
 
-
 ## § 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
@@ -286,10 +274,7 @@ anzuzeigen. Die Anzeige muss folgende Angaben enthalten:
 (3) Die Bundesanstalt leitet eine Durchschrift der Anzeige
 unverzüglich an die zuständigen Behörden der Länder weiter.
 
-
 ## § 6a (weggefallen)
-
-
 
 ## § 7 Ordnungswidrigkeiten
 
@@ -366,10 +351,6 @@ Handelsklassengesetzes handelt ferner, wer
 5.  entgegen § 6 Absatz 2 Satz 1 eine Anzeige nicht, nicht vollständig
     oder nicht rechtzeitig macht.
 
-
-
-
-
 ## § 8 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
 
 Bei Ordnungswidrigkeiten nach § 7 Abs. 1 Nr. 4 des
@@ -379,11 +360,9 @@ Verordnung ist die Bundesanstalt Verwaltungsbehörde im Sinne des
 Gesetzes über Ordnungswidrigkeiten, soweit sie nach § 6 Absatz 1 für
 die Überwachung zuständig ist.
 
-
 ## § 9
 
 (weggefallen)
-
 
 ## § 10
 

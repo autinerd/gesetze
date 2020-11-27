@@ -18,11 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 G v. 22.6.2011 I 1126
 
-
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
-
 
 ### § 1 Wesen der REIT-Aktiengesellschaften
 
@@ -104,7 +100,6 @@ besonderen Vermerk anzufertigen. Auf den besonderen Vermerk des
 Abschlussprüfers oder Konzernabschlussprüfers ist § 323 des
 Handelsgesetzbuchs entsprechend anzuwenden.
 
-
 ### § 2 Vor-REIT
 
 Ein Vor-REIT ist eine Aktiengesellschaft mit Sitz im Geltungsbereich
@@ -122,7 +117,6 @@ der Vor-REIT zum Ende des dem Jahr der Anmeldung folgenden oder eines
 späteren Geschäftsjahres die Voraussetzungen des § 12 und des § 1 Abs.
 1 erster Halbsatz nicht oder nicht mehr, entfällt der Status als Vor-
 REIT zum Ende dieses Geschäftsjahres.
-
 
 ### § 3 Begriffsbestimmung
 
@@ -189,12 +183,10 @@ Schiffe und Luftfahrzeuge gelten nicht als unbewegliches Vermögen.
 Wohnzwecken dienen, sofern diese vor dem 1. Januar 2007 erbaut worden
 sind.
 
-
 ### § 4 Mindestnennbetrag des Grundkapitals
 
 Der Mindestnennbetrag des Grundkapitals einer REIT-Aktiengesellschaft
 ist 15 Millionen Euro.
-
 
 ### § 5 Form der Aktien
 
@@ -205,14 +197,12 @@ nur gegen volle Leistung des Ausgabebetrages ausgegeben werden.
 (2) Ein Anspruch des Aktionärs auf Verbriefung seines Anteils besteht
 nicht.
 
-
 ### § 6 Firma
 
 Die Firma einer REIT-Aktiengesellschaft muss, auch wenn sie nach § 22
 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
 fortgeführt wird, die Bezeichnung "REIT-Aktiengesellschaft" oder
 "REIT-AG" enthalten.
-
 
 ### § 7 Bezeichnungsschutz
 
@@ -224,22 +214,17 @@ vorkommt, in der Firma oder als Zusatz zur Firma nur führen, wenn sie
 eine REIT-Aktiengesellschaft im Sinne dieses Gesetzes ist und die
 Voraussetzungen der §§ 8 bis 15 erfüllt.
 
-
 ## Abschnitt 2 - Qualifikation als REIT-Aktiengesellschaft
-
-
 
 ### § 8 Anmeldung als REIT-Aktiengesellschaft
 
 Die Firma der REIT-Aktiengesellschaft (§ 6) ist bei dem zuständigen
 Gericht zur Eintragung in das Handelsregister anzumelden.
 
-
 ### § 9 Sitz
 
 Die REIT-Aktiengesellschaft muss ihren Sitz und ihre Geschäftsleitung
 im Inland haben.
-
 
 ### § 10 Börsenzulassung
 
@@ -261,7 +246,6 @@ gestellt oder wird ein innerhalb dieser Frist gestellter Antrag
 bestandskräftig abgelehnt, so verliert die Gesellschaft ihren Status
 als Vor-REIT. Der Status lebt wieder auf, wenn die Zulassung erneut
 beantragt wird.
-
 
 ### § 11 Streuung der Aktien
 
@@ -296,7 +280,6 @@ Wertpapierhandelsgesetzes gelten auch dann, wenn ein Meldepflichtiger
 durch Erwerb, Veräußerung oder auf sonstige Weise 80 Prozent oder 85
 Prozent der Stimmrechte an einer REIT-Aktiengesellschaft erreicht,
 überschreitet oder unterschreitet.
-
 
 ### § 12 Vermögens- und Ertragsanforderungen
 
@@ -363,7 +346,6 @@ Anschaffungskosten, sind in einer Nebenrechnung Bewertungsgewinne und
 -verluste im Sinne des Satzes 2 zu ermitteln und den sonstigen
 Erträgen hinzuzusetzen.
 
-
 ### § 13 Ausschüttung an die Anleger
 
 (1) Die REIT-Aktiengesellschaft ist verpflichtet, bis zum Ende des
@@ -398,7 +380,6 @@ restliche Veräußerungsgewinn bildet den Veräußerungsgewinn II. Für die
 Rücklage nach Satz 1 darf nur der Veräußerungsgewinn II verwendet
 werden.
 
-
 ### § 14 Ausschluss des Immobilienhandels
 
 (1) Die REIT-Aktiengesellschaft darf keinen Handel mit ihrem
@@ -418,7 +399,6 @@ sind, ausgewiesen werden. Besteht die REIT-Aktiengesellschaft noch
 nicht fünf Jahre, ist auf die Einzel- bzw. Konzernabschlüsse der
 bisherigen Geschäftsjahre abzustellen.
 
-
 ### § 15 Mindesteigenkapital
 
 Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss
@@ -430,10 +410,7 @@ Fremdkapital ausgewiesene Anteile an in den Konzernabschluss nach §
 315a des Handelsgesetzbuchs einbezogenen Tochterunternehmen gelten für
 die Berechnung des Mindesteigenkapitals als Eigenkapital.
 
-
 ## Abschnitt 3 - Steuerliche Regelungen
-
-
 
 ### § 16 Steuerbefreiung der REIT-Aktiengesellschaft
 
@@ -498,7 +475,6 @@ höchstens 30 Prozent der durch die entgeltliche Nebentätigkeit
 erzielten Einnahmen. Absatz 3 Satz 3 und 4 ist entsprechend
 anzuwenden.
 
-
 ### § 17 Beginn der Steuerbefreiung
 
 (1) Die Steuerbefreiung tritt zu Beginn des Wirtschaftsjahres ein, in
@@ -522,7 +498,6 @@ Satz 2 des Einkommensteuergesetzes gilt sinngemäß.
 (4) Nach einem Verlust der Steuerbefreiung im Sinne des § 18 kann die
 Steuerbefreiung nicht vor Ablauf von vier Jahren seit dem Verlust
 wieder aufleben oder beginnen.
-
 
 ### § 18 Ende der Steuerbefreiung
 
@@ -583,7 +558,6 @@ inländischen REIT-Aktiengesellschaft galt, den Gewinn der
 steuerpflichtigen Aktiengesellschaft im Jahr der erstmaligen
 Steuerpflicht.
 
-
 ### § 19 Besteuerung der Anteilsinhaber
 
 (1) Die Ausschüttungen der REIT-Aktiengesellschaft und anderer REIT-
@@ -636,7 +610,6 @@ Doppelbesteuerungsabkommens von Deutschland als Ansässigkeitsstaat
 freizustellen sind, ist insoweit die Doppelbesteuerung unbeschadet des
 Abkommens nicht durch Freistellung, sondern durch Anrechnung der auf
 diese Einkünfte erhobenen ausländischen Steuer zu vermeiden.
-
 
 ### § 19a Berücksichtigung von Vorbelastungen bei der Besteuerung der Anteilsinhaber
 
@@ -706,7 +679,6 @@ Gewinne der anderen REIT-Körperschaft,
 -Personenvereinigung              oder
 -Vermögensmasse              verwendet worden sind.
 
-
 ### § 20 Kapitalertragssteuerabzug
 
 (1) Von den Ausschüttungen, sonstigen Vorteilen und Bezügen nach
@@ -747,7 +719,6 @@ Zusammenrechnung 10 Prozent oder mehr der Aktien, der
 stimmberechtigten Aktien oder der Stimmrechte gehalten oder
 kontrolliert werden.
 
-
 ### § 21 Verfahrensvorschriften
 
 (1) Auf die Zahlungen nach den §§ 16 und 19a sind die für die
@@ -780,10 +751,7 @@ Richtigkeit einzelner Angaben bestätigt. Unberührt bleibt das Recht
 der Finanzbehörde, weitere Sachaufklärung zu betreiben, insbesondere
 eine Außenprüfung anzuordnen oder Sachverständige hinzuzuziehen.
 
-
 ## Abschnitt 4 - Schlussvorschriften
-
-
 
 ### § 22 Übergangsregelung zu § 7
 
@@ -797,7 +765,6 @@ Nach dem 31. Dezember 2007 ist die Eintragung unzulässig im Sinne des
 § 142 Abs. 1 Satz 1 des Gesetzes über die Angelegenheiten der
 freiwilligen Gerichtsbarkeit und kann nach dieser Vorschrift gelöscht
 werden.
-
 
 ### § 23 Anwendungsvorschriften
 

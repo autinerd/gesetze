@@ -18,9 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 74 G v. 22.12.2011 I 3044
 
-
 ## Abschnitt 1 - Begriffsbestimmungen, Anwendungsbereich, Aufsicht, Zahlungssysteme
-
 
 ### § 1 Begriffsbestimmungen; Ausnahmen für bestimmte Zahlungsinstitute
 
@@ -333,7 +331,6 @@ eine inhaltsgleiche Regelung enthält.
 (12) Die Zahlungsdienstleistungen der Kreditanstalt für Wiederaufbau
 gelten nicht als Zahlungsdienste im Sinne dieses Gesetzes.
 
-
 ### § 1a Zusätzliche Begriffsbestimmungen für das E-Geld-Geschäft; Ausnahmen für bestimmte E-Geld-Institute
 
 (1) E-Geld-Emittenten sind:
@@ -396,7 +393,6 @@ berechnet wird und für diesen Kalendermonat gilt.
 juristische Person, die als selbständiger Gewerbetreibender im Namen
 eines E-Geld-Instituts beim Vertrieb und Rücktausch von E-Geld tätig
 ist.
-
 
 ### § 2 Für Institute zugelassene Tätigkeiten und verbotene Geschäfte
 
@@ -468,7 +464,6 @@ bringen. Bei einer erheblichen Erhöhung des Nettodarlehensbetrags ist
 die Kreditwürdigkeit neu zu bewerten. Die Bestimmungen zum Schutz
 personenbezogener Daten bleiben unberührt.
 
-
 ### § 3 Aufsicht; Entscheidung in Zweifelsfällen
 
 (1) Die Bundesanstalt übt die Aufsicht über die Institute nach den
@@ -490,7 +485,6 @@ entsprechend.
 (4) Die Bundesanstalt entscheidet in Zweifelsfällen, ob ein
 Unternehmen den Vorschriften dieses Gesetzes unterliegt. Ihre
 Entscheidungen binden die sonstigen Verwaltungsbehörden.
-
 
 ### § 4 Einschreiten gegen unerlaubte Zahlungsdienste sowie das unerlaubte Betreiben des E-Geld-Geschäfts
 
@@ -523,7 +517,6 @@ Bundesanstalt kann das betroffene Unternehmen anweisen, den von der
 Bundesanstalt festgesetzten Betrag im Namen der Bundesanstalt
 unmittelbar an den Abwickler zu leisten, wenn dadurch keine
 Beeinflussung der Unabhängigkeit des Abwicklers zu besorgen ist.
-
 
 ### § 5 Verfolgung unerlaubter Zahlungsdienste sowie des unerlaubten Betreibens des E-Geld-Geschäfts
 
@@ -597,10 +590,6 @@ Personen, sofern
 2.  die zuständige Behörde des anderen Staates ein entsprechendes Ersuchen
     an die Bundesanstalt stellt.
 
-
-
-
-
 ### § 6 Verschwiegenheitspflicht
 
 Die bei der Bundesanstalt Beschäftigten und die nach § 4 Abs. 3 des
@@ -615,7 +604,6 @@ Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch
 wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. §
 9 Abs. 1 Satz 2 bis 8 und Abs. 2 des Kreditwesengesetzes gilt
 entsprechend.
-
 
 ### § 7 Zugang zu Zahlungssystemen
 
@@ -698,9 +686,7 @@ Kartellbehörden wirken auf eine einheitliche und den Zusammenhang mit
 dem Gesetz gegen Wettbewerbsbeschränkungen wahrende Auslegung dieses
 Gesetzes hin.
 
-
 ## Abschnitt 2 - Erlaubnis, Inhaber bedeutender Beteiligungen
-
 
 ### § 8 Erlaubnis für Zahlungsinstitute
 
@@ -835,7 +821,6 @@ Absatz 1 erforderlich ist, dürfen Eintragungen in öffentliche Register
 nur vorgenommen werden, wenn dem Registergericht die Erlaubnis
 nachgewiesen ist.
 
-
 ### § 8a Erlaubnis für E-Geld-Institute
 
 (1) Wer im Inland das E-Geld-Geschäft als E-Geld-Institut betreiben
@@ -933,7 +918,6 @@ Absatz 1 erforderlich ist, dürfen Eintragungen in öffentliche Register
 nur vorgenommen werden, wenn dem Registergericht die Erlaubnis
 nachgewiesen ist.
 
-
 ### § 9 Versagung der Erlaubnis für Zahlungsinstitute
 
 Die Erlaubnis zur Erbringung von Zahlungsdiensten ist zu versagen,
@@ -1028,10 +1012,6 @@ wenn
 
 8.  das Zahlungsinstitut seine Hauptverwaltung nicht im Inland hat.
 
-
-
-
-
 ### § 9a Versagung der Erlaubnis für E-Geld-Institute
 
 Die Erlaubnis zum Betreiben des E-Geld-Geschäfts ist zu versagen, wenn
@@ -1055,10 +1035,6 @@ Die Erlaubnis zum Betreiben des E-Geld-Geschäfts ist zu versagen, wenn
 
 4.  die Sicherungsanforderungen nach § 13a nicht erfüllt sind oder gegen
     das Verbot des § 23a verstoßen wird.
-
-
-
-
 
 ### § 10 Erlöschen und Aufhebung der Erlaubnis
 
@@ -1095,7 +1071,6 @@ Jahresfrist sind nicht anzuwenden.
 (4) Die Bundesanstalt macht die Aufhebung oder das Erlöschen der
 Erlaubnis im Bundesanzeiger bekannt.
 
-
 ### § 11 Inhaber bedeutender Beteiligungen
 
 (1) Der Inhaber einer bedeutenden Beteiligung an einem Institut muss
@@ -1122,9 +1097,7 @@ Rechtsverordnung im Einvernehmen mit der Deutschen Bundesbank ergeht.
 Vor Erlass der Rechtsverordnung sind die Verbände der Institute zu
 hören.
 
-
 ## Abschnitt 3 - Eigenkapital
-
 
 ### § 12 Eigenkapital bei Zahlungsinstituten
 
@@ -1200,7 +1173,6 @@ Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im
 Einvernehmen mit der Deutschen Bundesbank ergeht. Vor Erlass der
 Rechtsverordnung sind die Verbände der Zahlungsinstitute zu hören.
 
-
 ### § 12a Eigenkapital bei E-Geld-Instituten
 
 (1) E-Geld-Institute müssen im Interesse der Erfüllung ihrer
@@ -1249,9 +1221,7 @@ mit der Maßgabe übertragen, dass die Rechtsverordnung im Einvernehmen
 mit der Deutschen Bundesbank ergeht. Vor Erlass der Rechtsverordnung
 sind die Verbände der Zahlungsinstitute zu hören.
 
-
 ## Abschnitt 4 - Vorschriften über die Beaufsichtigung von Instituten, sofortige Vollziehbarkeit
-
 
 ### § 13 Sicherungsanforderungen für die Entgegennahme von Geldbeträgen im Rahmen der Erbringung von Zahlungsdiensten
 
@@ -1315,7 +1285,6 @@ dafür eine angemessene Frist bestimmen. Werden die Nachweise oder
 Vorkehrungen nicht oder nicht fristgerecht vorgelegt oder ausgeführt,
 kann die Bundesanstalt Maßnahmen nach § 16 Abs. 2 treffen.
 
-
 ### § 13a Sicherungsanforderungen für die Entgegennahme von Geldbeträgen für die Ausgabe von E-Geld
 
 (1) E-Geld-Institute haben die Geldbeträge, die sie für die Ausgabe
@@ -1344,7 +1313,6 @@ sichern.
 (4) Die Bundesanstalt kann bestimmen, nach welcher der in § 13 Absatz
 1 Satz 2 beschriebenen Methode das E-Geld-Institut die
 entgegengenommenen Geldbeträge zu sichern hat.
-
 
 ### § 14 Auskünfte und Prüfungen
 
@@ -1389,7 +1357,6 @@ Fragen verweigern, deren Beantwortung ihn selbst oder einen der in §
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
 ### § 15 Abberufung von Geschäftsleitern, Übertragung von Organbefugnissen auf Sonderbeauftragte
 
 (1) In den Fällen des § 10 Abs. 2 Nr. 3 und 4 kann die Bundesanstalt,
@@ -1411,7 +1378,6 @@ Geldwäschegesetzes sowie gegen die zur Durchführung dieser Gesetze
 erlassenen Verordnungen oder gegen Anordnungen der Bundesanstalt
 verstoßen hat und trotz Verwarnung durch die Bundesanstalt dieses
 Verhalten fortsetzt.
-
 
 ### § 16 Maßnahmen in besonderen Fällen und Insolvenzantrag
 
@@ -1496,7 +1462,6 @@ des Insolvenzverwalters hat das Insolvenzgericht die Bundesanstalt zu
 hören. Der Bundesanstalt ist der Eröffnungsbeschluss gesondert
 zuzustellen.
 
-
 ### § 17 Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten
 
 (1) Ein Institut hat den Jahresabschluss in den ersten drei Monaten
@@ -1518,7 +1483,6 @@ den Prüfungsbericht unverzüglich nach Beendigung der Prüfung der
 Bundesanstalt und der Deutschen Bundesbank einzureichen. Die
 Bestimmungen dieses Absatzes gelten entsprechend für einen
 Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs.
-
 
 ### § 17a Anzeigepflicht bei Bestellung des Abschlussprüfers; Bestellung in besonderen Fällen
 
@@ -1551,7 +1515,6 @@ Die Bestellung durch das Gericht ist endgültig. § 318 Absatz 5 des
 Handelsgesetzbuchs gilt entsprechend. Das Registergericht kann auf
 Antrag der Bundesanstalt einen nach Satz 1 bestellten Prüfer
 abberufen.
-
 
 ### § 18 Besondere Pflichten des Prüfers
 
@@ -1615,7 +1578,6 @@ Absätze 1 bis 3 kann die Bundesanstalt gegenüber dem Institut auch
 Bestimmungen über den Inhalt der Prüfung treffen, die vom Prüfer im
 Rahmen der Jahresabschlussprüfung zu berücksichtigen sind. Sie kann
 insbesondere Schwerpunkte für die Prüfungen festlegen.
-
 
 ### § 19 Inanspruchnahme von Agenten
 
@@ -1684,7 +1646,6 @@ Rechtsverordnungen der Bundesanstalt im Einvernehmen mit der Deutschen
 Bundesbank ergehen. Vor Erlass der Rechtsverordnung sind die Verbände
 der Institute anzuhören.
 
-
 ### § 20 Auslagerung
 
 (1) Ein Institut muss abhängig von Art, Umfang, Komplexität und
@@ -1730,7 +1691,6 @@ Bundesanstalt im Einzelfall Anordnungen treffen, die geeignet und
 erforderlich sind, diese Beeinträchtigungen zu beseitigen. Die
 Befugnisse der Bundesanstalt nach § 22 Absatz 4 bleiben unberührt.
 
-
 ### § 21 Aufbewahrung von Unterlagen
 
 Institute haben für aufsichtsrechtliche Zwecke alle Unterlagen
@@ -1738,7 +1698,6 @@ unbeschadet anderer gesetzlicher Bestimmungen mindestens fünf Jahre
 aufzubewahren. § 257 Abs. 3 und 5 des Handelsgesetzbuchs sowie § 147
 Abs. 5 und 6 der Abgabenordnung gelten entsprechend. § 257 Abs. 4 des
 Handelsgesetzbuchs bleibt unberührt.
-
 
 ### § 22 Besondere organisatorische Pflichten von Zahlungsinstituten und E-Geld-Instituten sowie Sicherungsmaßnahmen gegen Geldwäsche
 
@@ -1810,7 +1769,6 @@ im Sinne des Artikels 2 Nummer 5 der Verordnung (EG) Nr. 924/2009
 sind, und trifft die hierfür geeigneten und erforderlichen
 Anordnungen.
 
-
 ### § 23 Sofortige Vollziehbarkeit
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt
@@ -1820,15 +1778,12 @@ Grundlage der §§ 4, 5, 10 Abs. 2 Nr. 2 bis 4, § 14 Abs. 1, §§ 15, 16,
 Verbindung mit § 30a Absatz 2, jeweils auch in Verbindung mit § 26
 Abs. 3 und 4, haben keine aufschiebende Wirkung.
 
-
 ## Abschnitt 4a - Sondervorschriften für das E-Geld-Geschäft und den Vertrieb und die Rücktauschbarkeit von E-Geld
-
 
 ### § 23a Verbot der Ausgabe von E-Geld über andere Personen
 
 E-Geld-Institute dürfen E-Geld nicht über natürliche oder juristische
 Personen ausgeben, die im Namen des E-Geld-Instituts tätig werden.
-
 
 ### § 23b Verpflichtungen des E-Geld-Emittenten bei der Ausgabe und dem Rücktausch von E-Geld
 
@@ -1882,7 +1837,6 @@ Geldbeträge als E-Geld verwendet werden soll.
 darf zum Nachteil des E-Geld-Inhabers nur abgewichen werden, wenn es
 sich bei diesem nicht um einen Verbraucher handelt.
 
-
 ### § 23c Vertrieb und Rücktausch von E-Geld durch E-Geld-Agenten
 
 (1) E-Geld-Institute können sich für den Vertrieb oder den Rücktausch
@@ -1903,9 +1857,7 @@ anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum zu vertreiben oder zurückzutauschen, ist § 19 Absatz 4
 in Verbindung mit § 25 entsprechend anzuwenden.
 
-
 ## Abschnitt 5 - Zusammenarbeit mit anderen Behörden, Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr
-
 
 ### § 24 Zusammenarbeit mit anderen Behörden
 
@@ -1916,7 +1868,6 @@ oder einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum Zahlungsdienste erbringen oder das E-Geld-Geschäft,
 mit den zuständigen Behörden dieser Staaten zusammen; die §§ 8 und 9
 des Kreditwesengesetzes gelten entsprechend.
-
 
 ### § 25 Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr
 
@@ -1976,7 +1927,6 @@ Aufnahmemitgliedstaates einzuholen.
 Deutschen Bundesbank und den zuständigen Stellen des Aufnahmestaates
 diese Änderungen mindestens einen Monat vor dem Wirksamwerden der
 Änderungen schriftlich anzuzeigen.
-
 
 ### § 26 Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
@@ -2062,7 +2012,6 @@ Versicherungsaufsichtsgesetz oder nach dem Investmentgesetz betreibt
 oder gegen vergleichbare Bestimmungen des Herkunftsstaates verstößt,
 auch nach § 5 zu.
 
-
 ### § 27 Zweigstellen von Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums
 
 (1) Unterhält ein Unternehmen mit Sitz außerhalb der Mitgliedstaaten
@@ -2116,12 +2065,7 @@ folgender Maßgabe anzuwenden:
     ausgewiesen wird, abzüglich des Betrags eines etwaigen aktiven
     Verrechnungssaldos.
 
-
-
-
-
 ## Abschnitt 6 - Außergerichtliches Beschwerdeverfahren
-
 
 ### § 28 Beschwerden über Zahlungsdienstleister
 
@@ -2170,7 +2114,6 @@ Unterlassungsklagengesetzes hin.
 (3) Soweit die behaupteten Verstöße einen grenzüberschreitenden
 Sachverhalt betreffen, gilt § 24 entsprechend.
 
-
 ### § 28a Beschwerden über E-Geld-Emittenten
 
 (1) Inhaber von E-Geld und die Stellen nach Satz 2 können jederzeit
@@ -2186,9 +2129,7 @@ Bundesanstalt einzulegen und sollen den Sachverhalt und den
 Beschwerdegrund angeben. § 28 Absatz 2 Satz 2 und Absatz 3 gilt
 entsprechend.
 
-
 ## Abschnitt 7 - Anzeigen, Zahlungsinstituts-Register, E-Geld-Instituts-Register, Strafbestimmungen, Bußgeldvorschriften und Übergangsvorschriften
-
 
 ### § 29 Anzeigen
 
@@ -2282,7 +2223,6 @@ Rechtsverordnungen der Bundesanstalt im Einvernehmen mit der Deutschen
 Bundesbank ergehen. Vor Erlass der Rechtsverordnung sind die Verbände
 der Institute anzuhören.
 
-
 ### § 29a Monatsausweise und weitere Angaben
 
 (1) Ein Institut hat unverzüglich nach Ablauf eines jeden Monats der
@@ -2307,7 +2247,6 @@ Aufgaben der Bundesanstalt erforderlich ist. Das Bundesministerium der
 Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
 Bundesanstalt mit der Maßgabe übertragen, dass die Rechtsverordnung im
 Einvernehmen mit der Deutschen Bundesbank ergeht.
-
 
 ### § 30 Zahlungsinstituts-Register
 
@@ -2351,7 +2290,6 @@ Aktualität dieser Seite übertragen. Das Bundesministerium der Finanzen
 kann diese Ermächtigung durch Rechtsverordnung ohne Zustimmung des
 Bundesrates auf die Bundesanstalt übertragen.
 
-
 ### § 30a E-Geld-Instituts-Register
 
 (1) Die Bundesanstalt führt auf ihrer Internetseite ein gesondertes,
@@ -2376,7 +2314,6 @@ Verantwortlichkeit für die Richtigkeit und Aktualität dieser Seite
 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
 Bundesanstalt übertragen.
 
-
 ### § 30b Werbung
 
 (1) Um Missständen bei der Werbung der Institute zu begegnen, kann die
@@ -2384,7 +2321,6 @@ Bundesanstalt bestimmte Arten der Werbung untersagen.
 
 (2) Vor allgemeinen Maßnahmen nach Absatz 1 sind die Verbände der
 Institute und des Verbraucherschutzes zu hören.
-
 
 ### § 31 Strafvorschriften
 
@@ -2416,7 +2352,6 @@ mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 Nummern 3 und 4 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe und
 in den Fällen der Nummern 1, 2 und 2a Freiheitsstrafe bis zu drei
 Jahren oder Geldstrafe.
-
 
 ### § 32 Bußgeldvorschriften
 
@@ -2514,12 +2449,10 @@ Nummer 1 und 2 mit einer Geldbuße bis zu hundertfünfzigtausend Euro
 und in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend
 Euro geahndet werden.
 
-
 ### § 33 Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
 Ordnungswidrigkeiten ist die Bundesanstalt.
-
 
 ### § 34 Mitteilung in Strafsachen
 
@@ -2546,7 +2479,6 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt
 worden, ist die Entscheidung unter Hinweis auf das eingelegte
 Rechtsmittel zu übermitteln. § 60a Abs. 1a bis 3 des
 Kreditwesengesetzes gilt entsprechend.
-
 
 ### § 35 Übergangsvorschriften
 
@@ -2606,7 +2538,6 @@ wenn sie den zuständigen Behörden des Herkunftsstaates diese
 Tätigkeiten bis zum 25. Dezember 2009 anzeigen.
 
 (5) §§ 7 und 28 bleiben in den Fällen der Absätze 1 bis 4 unberührt.
-
 
 ### § 36 Übergangsvorschriften für E-Geld-Institute
 

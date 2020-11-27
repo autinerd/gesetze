@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2529 (3672)
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 ### § 1 Zweck des Gesetzes
 
@@ -28,7 +26,6 @@ zu bestimmen und eine Benachteiligung auf Grund genetischer
 Eigenschaften zu verhindern, um insbesondere die staatliche
 Verpflichtung zur Achtung und zum Schutz der Würde des Menschen und
 des Rechts auf informationelle Selbstbestimmung zu wahren.
-
 
 ### § 2 Anwendungsbereich
 
@@ -55,13 +52,6 @@ Analysen und den Umgang mit genetischen Proben und Daten
 
     b)  des Infektionsschutzgesetzes und der auf Grund des
         Infektionsschutzgesetzes erlassenen Rechtsverordnungen.
-
-
-
-
-
-
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -210,10 +200,6 @@ Im Sinne dieses Gesetzes
     oder bei Beschäftigten, die einem Dritten zur Arbeitsleistung
     überlassen werden, auch die Dritten.
 
-
-
-
-
 ### § 4 Benachteiligungsverbot
 
 (1) Niemand darf wegen seiner oder der genetischen Eigenschaften einer
@@ -226,7 +212,6 @@ Untersuchung oder Analyse benachteiligt werden.
 Gleichbehandlung nach anderen Vorschriften und Grundsätzen wird durch
 dieses Gesetz nicht berührt. Dies gilt auch für öffentlich-rechtliche
 Vorschriften, die dem Schutz bestimmter Personengruppen dienen.
-
 
 ### § 5 Qualitätssicherung genetischer Analysen
 
@@ -265,7 +250,6 @@ medizinischen Zwecken im Rahmen genetischer Untersuchungen vornehmen,
 müssen die in Absatz 1 Satz 2 Nr. 1 bis 4 genannten Anforderungen
 erfüllen.
 
-
 ### § 6 Abgabe genetischer Untersuchungsmittel
 
 Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit
@@ -276,9 +260,7 @@ nur an Personen und Einrichtungen abgegeben werden dürfen, die zu
 diesen Untersuchungen oder zu genetischen Analysen im Rahmen dieser
 Untersuchungen nach Maßgabe dieses Gesetzes berechtigt sind.
 
-
 ## Abschnitt 2 - Genetische Untersuchungen zu medizinischen Zwecken
-
 
 ### § 7 Arztvorbehalt
 
@@ -297,7 +279,6 @@ vorgenommen werden.
 (3) Eine genetische Beratung nach § 10 darf nur durch in Absatz 1
 genannte Ärztinnen oder Ärzte, die sich für genetische Beratungen
 qualifiziert haben, vorgenommen werden.
-
 
 ### § 8 Einwilligung
 
@@ -320,7 +301,6 @@ mündlich, ist dieser unverzüglich zu dokumentieren. Die
 verantwortliche ärztliche Person hat der nach § 7 Abs. 2 beauftragten
 Person oder Einrichtung unverzüglich einen Nachweis des Widerrufs zu
 übermitteln.
-
 
 ### § 9 Aufklärung
 
@@ -372,7 +352,6 @@ die Einwilligung einzuräumen.
 (3) Die verantwortliche ärztliche Person hat den Inhalt der Aufklärung
 vor der genetischen Untersuchung zu dokumentieren.
 
-
 ### § 10 Genetische Beratung
 
 (1) Bei einer diagnostischen genetischen Untersuchung soll die
@@ -416,7 +395,6 @@ Embryo oder Fötus vorgenommen werden, gilt Satz 4 entsprechend.
 Arzt, die oder der die Beratung angeboten oder vorgenommen hat, hat
 den Inhalt der Beratung zu dokumentieren.
 
-
 ### § 11 Mitteilung der Ergebnisse genetischer Untersuchungen und Analysen
 
 (1) Das Ergebnis einer genetischen Untersuchung darf vorbehaltlich der
@@ -438,7 +416,6 @@ Person nicht mitgeteilt werden, soweit diese Person nach § 8 Abs. 1
 Satz 1 in Verbindung mit Satz 2 entschieden hat, dass das Ergebnis der
 genetischen Untersuchung zu vernichten ist oder diese Person nach § 8
 Abs. 2 ihre Einwilligung widerrufen hat.
-
 
 ### § 12 Aufbewahrung und Vernichtung der Ergebnisse genetischer Untersuchungen und Analysen
 
@@ -472,7 +449,6 @@ bekannt sind.
 Ergebnisses einer genetischen Analyse durch die nach § 7 Abs. 2
 beauftragte Person oder Einrichtung entsprechend.
 
-
 ### § 13 Verwendung und Vernichtung genetischer Proben
 
 (1) Eine genetische Probe darf nur für die Zwecke verwendet werden,
@@ -491,7 +467,6 @@ die Verwendung ausdrücklich und schriftlich eingewilligt hat.
 (3) Wer eine genetische Probe verwendet, hat die erforderlichen
 technischen und organisatorischen Maßnahmen zu treffen, um eine
 unzulässige Verwendung der Probe auszuschließen.
-
 
 ### § 14 Genetische Untersuchungen bei nicht einwilligungsfähigen Personen
 
@@ -560,7 +535,6 @@ werden. Andere Feststellungen dürfen nicht getroffen werden. Die §§
 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden
 Anwendung.
 
-
 ### § 15 Vorgeburtliche genetische Untersuchungen
 
 (1) Eine genetische Untersuchung darf vorgeburtlich nur zu
@@ -612,7 +586,6 @@ wenn zuvor
 Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden
 Anwendung.
 
-
 ### § 16 Genetische Reihenuntersuchungen
 
 (1) Eine genetische Reihenuntersuchung darf nur vorgenommen werden,
@@ -631,9 +604,7 @@ für die Durchführung der Untersuchung dem allgemein anerkannten Stand
 der Wissenschaft und Technik entspricht und die Untersuchung in diesem
 Sinne ethisch vertretbar ist.
 
-
 ## Abschnitt 3 - Genetische Untersuchungen zur Klärung der Abstammung
-
 
 ### § 17 Genetische Untersuchungen zur Klärung der Abstammung
 
@@ -740,9 +711,7 @@ Widerruf der Einwilligung zum Zwecke der Strafverfolgung übermittelt
 werden; § 11 Abs. 4, § 12 Abs. 1 Satz 4 und § 13 Abs. 1 finden in
 diesem Fall keine Anwendung.
 
-
 ## Abschnitt 4 - Genetische Untersuchungen im Versicherungsbereich
-
 
 ### § 18 Genetische Untersuchungen und Analysen im Zusammenhang mit dem Abschluss eines Versicherungsvertrages
 
@@ -766,9 +735,7 @@ mehr als 30 000 Euro Jahresrente vereinbart wird.
 (2) Vorerkrankungen und Erkrankungen sind anzuzeigen; insoweit sind
 die §§ 19 bis 22 und 47 des Versicherungsvertragsgesetzes anzuwenden.
 
-
 ## Abschnitt 5 - Genetische Untersuchungen im Arbeitsleben
-
 
 ### § 19 Genetische Untersuchungen und Analysen vor und nach Begründung des Beschäftigungsverhältnisses
 
@@ -781,10 +748,6 @@ des Beschäftigungsverhältnisses
 2.  die Mitteilung von Ergebnissen bereits vorgenommener genetischer
     Untersuchungen oder Analysen verlangen, solche Ergebnisse
     entgegennehmen oder verwenden.
-
-
-
-
 
 ### § 20 Genetische Untersuchungen und Analysen zum Arbeitsschutz
 
@@ -842,7 +805,6 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 (4) Die §§ 7 bis 16 gelten entsprechend.
 
-
 ### § 21 Arbeitsrechtliches Benachteiligungsverbot
 
 (1) Der Arbeitgeber darf Beschäftigte bei einer Vereinbarung oder
@@ -857,7 +819,6 @@ genetischer Untersuchungen oder Analysen zu offenbaren.
 
 (2) Die §§ 15 und 22 des Allgemeinen Gleichbehandlungsgesetzes gelten
 entsprechend.
-
 
 ### § 22 Öffentlich-rechtliche Dienstverhältnisse
 
@@ -879,12 +840,7 @@ Es gelten entsprechend
     und Stiftungen des öffentlichen Rechts, die Dienstherrnfähigkeit
     besitzen, die für Arbeitgeber geltenden Vorschriften.
 
-
-
-
-
 ## Abschnitt 6 - Allgemein anerkannter Stand der Wissenschaft und Technik
-
 
 ### § 23 Richtlinien
 
@@ -990,7 +946,6 @@ Einrichtungen, die genetische Untersuchungen oder Analysen vornehmen,
 gutachtliche Stellungnahmen zu Einzelfragen der Auslegung und
 Anwendung ihrer Richtlinien abgeben.
 
-
 ### § 24 Gebühren und Auslagen
 
 (1) Das Robert Koch-Institut erhebt für Stellungnahmen der
@@ -1005,9 +960,7 @@ Rechtsverordnung können Ermäßigungen und Befreiungen von Gebühren und
 Auslagen zugelassen und die Erstattung von Auslagen auch abweichend
 vom Verwaltungskostengesetz geregelt werden.
 
-
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften
-
 
 ### § 25 Strafvorschriften
 
@@ -1049,7 +1002,6 @@ einen Anderen zu schädigen.
 (3) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt ist in den
 Fällen des Absatzes 1 Nr. 1 in Verbindung mit § 15 Abs. 1 Satz 1 und
 des Absatzes 1 Nr. 3 die Schwangere.
-
 
 ### § 26 Bußgeldvorschriften
 
@@ -1129,9 +1081,7 @@ genetische Proben zur Klärung der Abstammung untersucht wurden, der
 Untersuchung und der Gewinnung der dafür erforderlichen genetischen
 Probe nachträglich zugestimmt haben.
 
-
 ## Abschnitt 8 - Schlussvorschriften
-
 
 ### § 27 Inkrafttreten
 

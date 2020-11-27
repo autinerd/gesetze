@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Abschn. III Satz 2 AnO v. 2.12.1997; 1998 I 523
 
-
 ## I. Pensionsfestsetzungs- und -regelungsbehörden
 
 (1) Auf Grund des § 49 Abs. 1 Satz 2 des Gesetzes über die Versorgung
@@ -304,19 +303,13 @@ Satz 2 BeamtVG) - vorbehalten sind:
     überschritten wird oder die Überzahlung im Prüfungsbericht des
     Bundesrechnungshofes erörtert worden ist.
 
-
-
-
-
 ## II.
 
 (weggefallen)
 
-
 ## III. Inkrafttreten
 
 Diese Anordnung tritt am 1. Januar 1997 in Kraft.
-
 
 ## Anlage (zu Abschnitt I Abs. 2) Standorte der Ressorts Versorgungsservice (Rs VeS) der Deutschen Telekom AG mit Arbeitsbezirken
 

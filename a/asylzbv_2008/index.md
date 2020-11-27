@@ -24,7 +24,6 @@ der Bekanntmachung vom 27. Juli 1993 (BGBl. I S. 1361), der durch
 Artikel 3 Nr. 50 des Gesetzes vom 19. August 2007 (BGBl. I S. 1970)
 neu gefasst worden ist, verordnet das Bundesministerium des Innern:
 
-
 ## § 1
 
 Die Verordnung bestimmt die zuständigen Behörden für die Ausführung
@@ -54,10 +53,6 @@ Die Verordnung bestimmt die zuständigen Behörden für die Ausführung
     die Einrichtung von „Eurodac“ für den Vergleich von Fingerabdrücken
     zum Zwecke der effektiven Anwendung des Dubliner Übereinkommens (ABl.
     EG Nr. L 316 S. 1).
-
-
-
-
 
 ## § 2
 
@@ -91,10 +86,6 @@ die Zusammenarbeit mit den anderen Staaten nach der Verordnung gemäß §
     Datenbank gespeicherten Daten sowie deren Berichtigung, Löschung und
     Sperrung.
 
-
-
-
-
 ## § 3
 
 (1) Die mit der polizeilichen Kontrolle des grenzüberschreitenden
@@ -117,13 +108,11 @@ ist.
 
 (3) Die Absätze 1 und 2 gelten nicht für die Zollverwaltung.
 
-
 ## § 4
 
 Das Bundesamt kann Verfahren übernehmen, für welche die Zuständigkeit
 der Grenzbehörden begründet wurde; auf Ersuchen der Grenzbehörden
 übernimmt es diese Verfahren.
-
 
 ## § 5
 
@@ -156,14 +145,9 @@ nach § 1 Nr. 4 in Bezug auf die
 7.  Schadenersatzansprüche gegen die Bundesrepublik Deutschland nach
     Artikel 17 Abs. 2 der Verordnung (EG) Nr. 2725/2000.
 
-
-
-
-
 ## § 6
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

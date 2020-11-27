@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 50 G v. 21.12.2000 I 1956
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 4 des Erdölbevorratungsgesetzes vom 25. Juli
 1978 (BGBl. I S. 1073) und des § 36 Abs. 3 des Gesetzes über
 Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 2. Januar
 1975 (BGBl. I S. 80) wird verordnet:
-
 
 ## § 1
 
@@ -115,7 +113,6 @@ innerhalb dessen die Vorräte dem Verbrauch zugeführt werden können (§
 (6) Die Meldung ist bis zum Ablauf des Monats zu erstatten, der dem
 Kalendervierteljahr folgt, auf das sie sich bezieht.
 
-
 ## § 2
 
 (1) In der Meldung nach § 32 Abs. 3 des Gesetzes ist von den nach § 25
@@ -187,26 +184,19 @@ des Gesetzes Vorratspflichtigen für jede Erzeugnisgruppe anzugeben
     ihre Anteile an dem eingesetzten Erdöl und den eingesetzten
     Halbfertigerzeugnissen getrennt errechnet werden.
 
-
-
-
-
 ## § 3
 
 Die Meldungen sind nach einem Muster zu erstatten, das vom Bundesamt
 für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegeben wird. Alle
 Mengen sind in Tonnen anzugeben.
 
-
 ## § 4
 
 (weggefallen)
 
-
 ## § 5
 
 Diese Verordnung tritt am 1. Dezember 1978 in Kraft.
-
 
 ## Schlußformel
 

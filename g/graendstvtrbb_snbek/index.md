@@ -17,7 +17,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1359
 
-
 ## (XXXX)
 
 Zwischen dem Land Brandenburg und dem Freistaat Sachsen wurde am 21.
@@ -46,7 +45,6 @@ Gemäß § 2 Absatz 3 des Gesetzes über das Verfahren bei sonstigen
 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der dem
 Bundesministerium des Innern 2010 übermittelte Staatsvertrag
 nachstehend bekannt gemacht.
-
 
 ## Schlussformel
 

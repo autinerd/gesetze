@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl II: 1938, 48
 
-
-
 ## (XXXX)
 
 Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes vom 5. Mai

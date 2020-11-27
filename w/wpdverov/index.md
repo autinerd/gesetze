@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 5.4.2011 I 538
 
-
 ## Eingangsformel
 
 Auf Grund des § 31 Abs. 11 Satz 1, des § 31a Abs. 8 Satz 1, des § 31b
@@ -32,7 +31,6 @@ jeweils durch Artikel 1 Nr. 17, § 33 Abs. 4 durch Artikel 1 Nr. 20, §
 33a Abs. 9 durch Artikel 1 Nr. 21 und § 34 Abs. 4 durch Artikel 1 Nr.
 22 des Gesetzes vom 16. Juli 2007 (BGBl. I S. 1330) eingefügt worden
 sind, verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1 Anwendungsbereich
 
@@ -178,7 +176,6 @@ Dienstleistungsverkehrs von Verwaltungsgesellschaften nach § 13 Abs. 1
 Satz 1 des Investmentgesetzes, soweit die Vorschriften des
 Wertpapierhandelsgesetzes auf diese Anwendung finden.
 
-
 ## § 2 Kunden
 
 (1) Wertpapierdienstleistungsunternehmen müssen die notwendigen
@@ -242,7 +239,6 @@ entspricht den Anforderungen des § 31a Abs. 6 Satz 5 des
 Wertpapierhandelsgesetzes. Die Information nach § 31a Abs. 6 Satz 6
 des Wertpapierhandelsgesetzes kann in standardisierter Form erfolgen.
 
-
 ## § 3 Dauerhafter Datenträger
 
 (1) Ist für die Bereitstellung von Informationen nach dieser
@@ -292,7 +288,6 @@ regelmäßigen Zugang zum Internet verfügt. Der Nachweis ist geführt,
 wenn der Kunde für die Bereitstellung von Informationen oder im
 Zusammenhang mit Wertpapierdienstleistungen eine E-Mail-Adresse
 angegeben hat.
-
 
 ## § 4 Redliche, eindeutige und nicht irreführende Informationen an Privatkunden
 
@@ -405,7 +400,6 @@ Wertpapierhandelsgesetzes darf nicht in einer Weise genannt werden,
 die so verstanden werden kann, dass die Produkte oder Dienstleistungen
 des Wertpapierdienstleistungsunternehmens von der betroffenen Behörde
 gebilligt oder genehmigt werden oder worden sind.
-
 
 ## § 5 Kundeninformationen über Risiken, das Wertpapierdienstleistungsunternehmen, die Wertpapierdienstleistung, Kosten und Nebenkosten
 
@@ -634,7 +628,6 @@ sich bezieht, ebenfalls eine Übermittlung auf einem dauerhaften
 Datenträger vorgesehen ist. Eine Veröffentlichung auf einer
 Internetseite genügt unter den Voraussetzungen des § 3 Abs. 3.
 
-
 ## § 5a Informationsblätter
 
 (1) Das nach § 31 Absatz 3a Satz 1 des Wertpapierhandelsgesetzes zur
@@ -671,7 +664,6 @@ verständlicher Weise so enthalten, dass der Kunde insbesondere
 
 (2) Das Informationsblatt kann auch als elektronisches Dokument zur
 Verfügung gestellt werden.
-
 
 ## § 6 Einholung von Kundenangaben
 
@@ -715,7 +707,6 @@ Wertpapierdienstleistungsunternehmen dürfen Kunden nicht dazu
 verleiten, Angaben nach § 31 Abs. 4 oder 5 des
 Wertpapierhandelsgesetzes zurückzuhalten.
 
-
 ## § 7 Nicht komplexe Finanzinstrumente
 
 Nicht komplex im Sinne von § 31 Abs. 7 Nr. 1 des
@@ -740,10 +731,6 @@ und Geldmarktinstrumenten solche Finanzinstrumente,
     verfügbar sind, die für einen durchschnittlichen Privatkunden
     verständlich genug sind, um auf ihrer Grundlage eine sachkundige
     Anlageentscheidung treffen zu können.
-
-
-
-
 
 ## § 8 Berichtspflichten des Wertpapierdienstleistungsunternehmens nach § 31 Abs. 8 des Wertpapierhandelsgesetzes über die Ausführung von Aufträgen
 
@@ -857,7 +844,6 @@ Schwellenwert überschritten wird oder, falls der Schwellenwert an
 einem geschäftsfreien Tag überschritten wird, am Ende des folgenden
 Geschäftstags.
 
-
 ## § 9 Berichtspflichten des Wertpapierdienstleistungsunternehmens nach § 31 Abs. 8 des Wertpapierhandelsgesetzes bei Finanzportfolioverwaltung
 
 (1) Erbringt ein Wertpapierdienstleistungsunternehmen
@@ -939,7 +925,6 @@ ist die periodische Aufstellung alle sechs Monate zu übermitteln.
 Privatkunden entstehen und vereinbarte Schwellenwerte überschreiten,
 gilt die Informationspflicht des § 8 Abs. 6 entsprechend.
 
-
 ## § 9a Berichtspflichten des Wertpapierdienstleistungsunternehmens bei Verwahrung von Kundenvermögen
 
 (1) Ein Wertpapierdienstleistungsunternehmen, welches
@@ -979,7 +964,6 @@ wurde.
 Gelder halten und für einen Kunden Finanzportfolioverwaltung
 erbringen, können die Aufstellung der Vermögenswerte nach Absatz 1 in
 die periodische Aufstellung nach § 9 Abs. 1 einbeziehen.
-
 
 ## § 10 Zusammenlegung von Kundenaufträgen; Aufhebung der Bekanntmachungspflicht nach § 31c Abs. 2 des Wertpapierhandelsgesetzes
 
@@ -1046,7 +1030,6 @@ Geschäften, die Markttransparenz, die Zulassung von Finanzinstrumenten
 zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie (ABl. EU
 Nr. L 241 S. 1) genannten Mindestvolumina erreicht sind.
 
-
 ## § 11 Bestmögliche Ausführung von Kundenaufträgen
 
 (1) Ausführungsplätze im Sinne von § 33a Abs. 5 des
@@ -1105,7 +1088,6 @@ Wertpapierhandelsgesetzes muss folgende Angaben enthalten:
 Diese Informationen sind auf einem dauerhaften Datenträger zur
 Verfügung zu stellen. Die Veröffentlichung auf einer Internetseite
 genügt unter den Voraussetzungen nach § 3 Abs. 3.
-
 
 ## § 12 Organisationspflichten
 
@@ -1175,7 +1157,6 @@ Komplexität seiner Geschäftstätigkeit oder der Art und des Spektrums
 seiner Wertpapierdienstleistungen unverhältnismäßig sind und die
 ordnungsgemäße Erfüllung der Compliance-Funktion nicht gefährdet ist,
 entfallen diese Anforderungen.
-
 
 ## § 13 Interessenkonflikte
 
@@ -1299,7 +1280,6 @@ die Wertpapierdienstleistung oder Wertpapiernebendienstleistung, in
 deren Zusammenhang der Interessenkonflikt auftritt, auf informierter
 Grundlage zu treffen. Die Information hat auf einem dauerhaften
 Datenträger zu erfolgen.
-
 
 ## § 14 Aufzeichnungs- und Aufbewahrungspflichten
 
@@ -1428,7 +1408,6 @@ Wertpapierdienstleistungsunternehmen muss sicherstellen, dass jede
 nachträgliche Änderung einer Aufzeichnung und der Zustand vor der
 Änderung deutlich erkennbar und die Aufzeichnungen vor sachlich nicht
 gebotenen Änderungen geschützt bleiben.
-
 
 ## § 14a Getrennte Vermögensverwahrung
 
@@ -1571,10 +1550,6 @@ Wertpapierhandelsgesetzes sind Investmentvermögen, die
 
 3.  deren Wertstellung spätestens an dem auf den Rücknahmeauftrag des
     Anlegers folgenden Bankarbeitstag erfolgt.
-
-
-
-
 
 ## § 15 Inkrafttreten
 

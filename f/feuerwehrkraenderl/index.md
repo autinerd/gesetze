@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 1312
 
-
-
 ## (XXXX)
 
 Die Delegiertenversammlung des Deutschen Feuerwehrverbandes hat am 11.
@@ -30,7 +28,6 @@ Ehrenzeichen vom 4. Juli 1958 (Bundesgesetzbl. I S. 422) genehmige ich
 die beschlossenen Änderungen. Die Änderungen ergeben sich aus den
 neuen Fassungen der Stiftungsbestimmungen und der Satzung; diese
 werden vom Bundesminister des Innern im Bundesanzeiger veröffentlicht.
-
 
 ## Schlußformel
 

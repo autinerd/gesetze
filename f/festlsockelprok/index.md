@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1964, 104
 
-
-
 ## Eingangsformel
 
 Die von der Bundesregierung am 20. Januar 1964 beschlossene
@@ -25,7 +23,6 @@ Proklamation über die Erforschung und Ausbeutung des deutschen
 Festlandsockels wird hiermit bekanntgemacht.
 Bonn, den 22. Januar 1964
 Der Bundesminister des Auswärtigen
-
 
 ## (XXXX)
 

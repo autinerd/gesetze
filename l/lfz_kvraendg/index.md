@@ -19,33 +19,22 @@ Fundstelle
 Geändert durch
 :   Art. 22 Nr. 6 G v. 22.12.1983 I 1532
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## Art 2
 
-
-
 ## Art 3
 
-
-
 ## Art 4 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
 -
-
 
 ## § 2 Abweichende Vereinbarungen
 
@@ -53,26 +42,21 @@ Im Zeitpunkt des Inkrafttretens dieses Gesetzes bestehende, von seinen
 Vorschriften abweichende Vereinbarungen bleiben unberührt, soweit sie
 nach § 2 Abs. 3 und § 9 des Lohnfortzahlungsgesetzes zulässig sind.
 
-
 ## § 3
 
 -
-
 
 ## § 4
 
 -
 
-
 ## § 5
 
 -
 
-
 ## § 6
 
 -
-
 
 ## § 7 Verweisungen
 
@@ -81,7 +65,6 @@ Bezeichnungen verwendet werden, die durch dieses Gesetz aufgehoben
 oder geändert werden, treten an ihre Stelle die entsprechenden
 Vorschriften oder Bezeichnungen dieses Gesetzes.
 
-
 ## § 8 Berlin-Klausel
 
 Dieses Gesetz gilt mit Ausnahme des Artikels 3 § 5 nach Maßgabe des §
@@ -89,7 +72,6 @@ Dieses Gesetz gilt mit Ausnahme des Artikels 3 § 5 nach Maßgabe des §
 (Bundesgesetzblatt I S. 1) auch im Land Berlin. Rechtsverordnungen,
 die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin
 nach § 14 des dritten Überleitungsgesetzes.
-
 
 ## § 9 Inkrafttreten
 

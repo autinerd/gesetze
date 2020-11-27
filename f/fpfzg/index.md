@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2564
 
-
 ## § 1 Ziel des Gesetzes
 
 Durch die Einführung der Familienpflegezeit werden die Möglichkeiten
 zur Vereinbarkeit von Beruf und familiärer Pflege verbessert.
-
 
 ## § 2 Begriffsbestimmungen
 
@@ -36,7 +34,6 @@ Durchschnitt eines Zeitraums von bis zu einem Jahr 15 Stunden nicht
 unterschreiten.
 
 (2) § 7 des Pflegezeitgesetzes gilt entsprechend.
-
 
 ## § 3 Förderung
 
@@ -164,7 +161,6 @@ zivilgesellschaftliche Aufgaben ein.
 Familienpflegezeit erst nach dem Ende der Nachpflegephase gefördert
 werden.
 
-
 ## § 4 Familienpflegezeitversicherung
 
 (1) Die Familienpflegezeitversicherung ist eine nach § 11
@@ -217,7 +213,6 @@ eine dieser Vorschrift entsprechende Versicherung besteht.
 gegen den Arbeitgeber oder das Bundesamt für Familie und
 zivilgesellschaftliche Aufgaben besteht nicht.
 
-
 ## § 5 Ende der Förderfähigkeit
 
 (1) Die Förderfähigkeit der Familienpflegezeit endet mit dem Ablauf
@@ -232,7 +227,6 @@ die Förderfähigkeit unberührt.
 
 (2) Der oder die Beschäftigte hat dem Arbeitgeber die Beendigung der
 häuslichen Pflege des nahen Angehörigen unverzüglich mitzuteilen.
-
 
 ## § 6 Rückzahlung des Darlehens
 
@@ -259,7 +253,6 @@ Zeiten, in denen die oder der Beschäftigte Krankengeld oder
 Kurzarbeitergeld bezieht, die Rückzahlung ganz oder teilweise
 aussetzen.
 
-
 ## § 7 Erstattungsanspruch
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben kann
@@ -278,7 +271,6 @@ Rückzahlungspflicht des Arbeitgebers gegenüber dem Bundesamt für
 Familie und zivilgesellschaftliche Aufgaben. Im gleichen Umfang
 erlischt der Anspruch des Arbeitgebers gegen die Beschäftigte oder den
 Beschäftigten auf Ausgleich des Wertguthabens.
-
 
 ## § 8 Leistungen bei Nichtzahlung der Beschäftigten; Forderungsübergang
 
@@ -299,7 +291,6 @@ zivilgesellschaftliche Aufgaben.
 erlassenen Rückzahlungsforderung nach Absatz 1 oder der Übernahme nach
 Absatz 2 auf das Bundesamt für Familie und zivilgesellschaftliche
 Aufgaben über.
-
 
 ## § 9 Arbeitsrechtliche Regelungen
 
@@ -344,13 +335,11 @@ Geld verlangen. Absatz 2 Satz 2 gilt entsprechend.
 
 (5) § 6 des Pflegezeitgesetzes gilt entsprechend.
 
-
 ## § 10 Weitergehende Regelungen
 
 Andere gesetzliche oder vertragliche Regelungen zur Freistellung von
 der Arbeitsleistung oder Verringerung der Arbeitszeit sowie zu
 Wertguthaben bleiben unberührt.
-
 
 ## § 11 Zertifizierung
 
@@ -385,7 +374,6 @@ Ausschlussfrist.
 Widerruf, die Rücknahme oder den Verzicht des Versicherers durch eine
 Veröffentlichung des Namens und der Anschrift des Versicherers und
 dessen Zertifizierungsnummer im Gemeinsamen Ministerialblatt bekannt.
-
 
 ## § 12 Verfahren
 
@@ -425,13 +413,11 @@ ausgezahlt, in dem die Anspruchsvoraussetzungen vorgelegen haben.
 Leistungsgewährung in monatlichen Festbeträgen für die gesamte
 Förderdauer festgesetzt.
 
-
 ## § 13 Allgemeine Verwaltungsvorschriften
 
 Zur Durchführung des Verfahrens nach § 12 kann das Bundesministerium
 für Familie, Senioren, Frauen und Jugend allgemeine
 Verwaltungsvorschriften erlassen.
-
 
 ## § 14 Bußgeldvorschriften
 
@@ -461,7 +447,6 @@ zivilgesellschaftliche Aufgaben. Diese trägt abweichend von § 105
 Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen
 Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des
 Gesetzes über Ordnungswidrigkeiten.
-
 
 ## § 15 Aufbringung der Mittel
 

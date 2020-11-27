@@ -16,13 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1503
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Absatz 1 Satz 3 des Bundesfreiwilligendienstgesetzes
 vom 28. April 2011 (BGBl. I S. 687) verordnet das Bundesministerium
 für Familie, Senioren, Frauen und Jugend:
-
 
 ## § 1 Durchführungsumfang
 
@@ -56,10 +54,6 @@ zwölf Monate wie folgt durchgeführt hat:
 2.  in einem Umfang, der mindestens einem zwölfmonatigen Dienst von 500
     Freiwilligen entspricht.
 
-
-
-
-
 ## § 2 Erreichbarkeit
 
 Zentralstelle kann nur sein, wer seine Erreichbarkeit sicherstellt.
@@ -69,7 +63,6 @@ muss von Montag bis Freitag mit Ausnahme der Feiertage von 9 Uhr bis
 Anforderungen des § 1 Absatz 2 genügt, muss von Montag bis Freitag mit
 Ausnahme der Feiertage von 9 Uhr bis 12 Uhr telefonisch erreichbar
 sein.
-
 
 ## § 3 Inkrafttreten
 

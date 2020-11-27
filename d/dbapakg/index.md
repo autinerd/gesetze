@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1995, 836
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -33,7 +30,6 @@ zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom
 Einkommen sowie dem dazugehörigen Protokoll vom selben Tag wird
 zugestimmt. Das Abkommen und das Protokoll werden nachstehend
 veröffentlicht.
-
 
 ## Art 2
 
@@ -49,7 +45,6 @@ Besteuerung in der Bundesrepublik Deutschland und in der Islamischen
 Republik Pakistan insgesamt eine höhere Belastung ergibt, als sie nach
 den Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand,
 wird der Steuermehrbetrag nicht festgesetzt.
-
 
 ## Art 3
 

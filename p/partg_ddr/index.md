@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 u. 2 G v. 19.12.2006 I 3230
 
-
 ## (XXXX) §§ 1 bis 20 (weggefallen)
-
-
 
 ## § 20a
 
@@ -48,7 +45,6 @@ wirtschaftliche oder sonstige Beteiligungen an Unternehmen und
 geschäftliche Verbindungen, auch wenn sie über andere natürliche oder
 juristische Personen abgewickelt wurden, wobei eine wirtschaftliche
 Betrachtungsweise zugrunde zu legen ist.
-
 
 ## § 20b
 
@@ -86,10 +82,7 @@ Bundesministerium der Finanzen, das die Fachaufsicht im Einvernehmen
 mit dem Bundesministerium für Wirtschaft und Technologie und dem
 jeweils zuständigen Bundesministerium wahrnimmt.
 
-
 ## (XXXX) §§ 21 bis 24 (weggefallen)
-
-
 
 ## Schlußformel
 

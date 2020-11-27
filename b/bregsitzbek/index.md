@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1725
 
-
-
 ## (XXXX)
 
 Nachstehend mache ich gemäß § 9 Nr. 2 des Berlin/Bonn-Gesetzes die

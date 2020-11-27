@@ -19,28 +19,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 Abs. 8 G v. 12.4.2012 I 579
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
-
 ## Art 1
-
-
 
 ## (XXXX) §§ 1 bis 4
 
-
-
 ## § 5 (weggefallen)
 
-
-
 ## Art 2 - Übergangs- und Schlußvorschriften
-
-
 
 ## § 1
 
@@ -59,7 +49,6 @@ Voraussetzungen nicht erfüllt hat, gilt als versichert nach § 165 Abs.
 nach dem vor dem Inkrafttreten dieses Gesetzes geltenden Recht
 erfüllt.
 
-
 ## § 2
 
 Personen, die bis zum 30. Juni 1978 eine Rente aus der gesetzlichen
@@ -68,7 +57,6 @@ Rentenversicherung beantragen, gelten bis zu dem in § 315a Abs. 2 Satz
 wenn sie nach dem Inkrafttreten dieses Gesetzes die Voraussetzungen
 des § 315a Abs. 1 der Reichsversicherungsordnung nicht mehr erfüllen.
 § 315b der Reichsversicherungsordnung gilt entsprechend.
-
 
 ## § 3
 
@@ -89,7 +77,6 @@ Bescheid zugestellt wird.
 dem Inkrafttreten dieses Gesetzes bei dem zuständigen Träger der
 Krankenversicherung abgegeben werden.
 
-
 ## § 4
 
 (1) Versicherte haben keinen Anspruch nach § 198 der
@@ -109,7 +96,6 @@ Gesetzes nicht erfüllt sind.
 (3) Die Absätze 1 und 2 gelten auch für Ansprüche nach § 205a der
 Reichsversicherungsordnung.
 
-
 ## § 5
 
 (1) Vereinbarungen nach § 368f Abs. 3 der Reichsversicherungsordnung
@@ -122,7 +108,6 @@ Vergütungsregelungen fort.
 sind erstmalig mit Wirkung vom 1. Juli 1978 unter Zugrundelegung des
 Durchschnitts der Aufwendungen der beteiligten Krankenkassen für
 Arzneimittel im Jahre 1977 zu treffen.
-
 
 ## § 6
 
@@ -138,7 +123,6 @@ steht. Soweit sich aus dem Bericht die Notwendigkeit zu
 gesetzgeberischen Maßnahmen ergibt, soll die Bundesregierung einen
 Vorschlag machen.
 
-
 ## § 7
 
 Leistungen nach § 205 Abs. 1 der Reichsversicherungsordnung oder nach
@@ -151,7 +135,6 @@ August 1977 und für eingeschriebene Studenten der staatlichen und
 staatlich anerkannten Hochschulen bis zum 30. September 1977 zu
 gewähren.
 
-
 ## § 8
 
 Die in § 187 Nr. 1 Buchstabe b der Reichsversicherungsordnung und in §
@@ -159,7 +142,6 @@ Die in § 187 Nr. 1 Buchstabe b der Reichsversicherungsordnung und in §
 Landwirte genannten Leistungen werden bis zum 1. Januar 1978 nach den
 Voraussetzungen erbracht, die nach den vor Inkrafttreten dieses
 Gesetzes geltenden Rechtsvorschriften zu erfüllen waren.
-
 
 ## § 9
 
@@ -169,7 +151,6 @@ aufzustellen; hierbei ist insbesondere von der für die
 Ersatzkassenpraxis vereinbarten Gebührenordnung (E-Adgo) auszugehen.
 Bis zu dem in Satz 1 genannten Zeitpunkt gelten die bei Inkrafttreten
 dieses Gesetzes bestehenden Vergütungsregelungen fort.
-
 
 ## § 10
 
@@ -193,31 +174,25 @@ Inkrafttreten dieses Gesetzes geltenden Fassung gilt für bei
 Inkrafttreten dieses Gesetzes anhängige Prüfungs- und
 Beschwerdeverfahren bis zu deren Abschluß fort.
 
-
 ## § 11
 
 -
-
 
 ## § 12
 
 -
 
-
 ## § 13
 
 -
-
 
 ## § 14
 
 -
 
-
 ## § 15
 
 -
-
 
 ## § 16
 
@@ -225,7 +200,6 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die
 aufgrund dieses Gesetzes erlassen werden, gelten im Land Berlin nach §
 14 des Dritten Überleitungsgesetzes.
-
 
 ## § 17
 

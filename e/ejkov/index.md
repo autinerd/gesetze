@@ -15,12 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2093
 
-
 ## § 1 Gegenstand der Verordnung
 
 Diese Verordnung regelt die Zusammenarbeit zwischen Eurojust-
 Anlaufstellen, Eurojust-Kontaktstellen und Eurojust.
-
 
 ## § 2 Eurojust-Anlaufstellen
 
@@ -28,7 +26,6 @@ Das Bundesamt für Justiz, der Generalbundesanwalt beim
 Bundesgerichtshof und die von den Landesregierungen bestimmten
 Kontaktstellen nach § 14 Absatz 2 des Eurojust-Gesetzes sind zugleich
 Eurojust-Anlaufstellen nach § 7 Absatz 1 des Eurojust-Gesetzes.
-
 
 ## § 3 Eurojust-Kontaktstellen
 
@@ -62,10 +59,6 @@ Beschlusses (Eurojust-Kontaktstellen) sind:
     Sinne des Beschlusses 2008/852/JI des Rates vom 24. Oktober 2008 über
     ein Kontaktstellennetz zur Korruptionsbekämpfung (ABl. L 301 vom
     12\.11.2008, S. 38) benannt ist.
-
-
-
-
 
 ## § 4 Nationales Eurojust-Koordinierungssystem
 

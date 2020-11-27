@@ -18,14 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 6.6.1967 II 1785
 
-
 ## Art 1
 
 Dem in Straßburg am 11. Juli 1960 von der Bundesrepublik Deutschland
 unterzeichneten Europäischen Abkommen vom 22. Juni 1960 zum Schutz von
 Fernsehsendungen wird mit den sich aus Artikel 2 Abs. 1 ergebenden
 Vorbehalten zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -37,7 +35,6 @@ Gebrauch und gewährt den darin bezeichneten Schutz nicht.
 (2) Auf den im Abkommen vorgesehenen Schutz von Fernsehsendungen sind
 die §§ 50 und 55 des Urheberrechtsgesetzes vom 9. September 1965
 (Bundesgesetzbl. I S. 1273) sinngemäß anzuwenden.
-
 
 ## Art 3
 
@@ -51,12 +48,10 @@ Sendungen durchführt, wird im Geltungsbereich dieses Gesetzes nicht
 gewährt, wenn die andere Partei von dem Vorbehalt des Artikels 3 Abs.
 1 Buchstabe d des Abkommens Gebrauch gemacht hat.
 
-
 ## Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
 Anwendung dieses Gesetzes feststellt.
-
 
 ## Art 5
 

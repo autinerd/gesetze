@@ -22,7 +22,6 @@ Zuletzt geändert durch
     Rates vom 11. Juni 2007 zur Bekämpfung von Kartoffelnematoden und zur
     Aufhebung der Richtlinie 69/465/EWG (ABl. L 156 vom 16.6.2007, S. 12).
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 1 Nummer 1 bis 3 und 5 bis 15 und des § 4
@@ -35,9 +34,7 @@ durch Artikel 1 Nummer 1 und 2 Buchstabe a des Gesetzes vom 22. Juni
 worden sind, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Verbraucherschutz:
 
-
 ## Abschnitt 1 - Allgemeine Bestimmungen
-
 
 ### § 1 Züchtungs- und Haltungsverbot
 
@@ -51,10 +48,6 @@ Schadorganismen sind verboten:
 2.  Kartoffelzystennematoden [Schadorganismen:
     Globodera rostochiensis                    (Wollenweber) Behrens und
     G. pallida                    (Stone) Behrens].
-
-
-
-
 
 ### § 2 Anzeigepflichten
 
@@ -93,7 +86,6 @@ verpflichtet sind auch
 
 wenn sie über das Auftreten oder den Verdacht des Auftretens eines
 Schadorganismus nach § 1 Kenntnis erhalten.
-
 
 ### § 3 Ausnahmen zu Versuchs- und Züchtungszwecken
 
@@ -146,9 +138,7 @@ beantragt hat. Die Vorschriften der Pflanzenbeschauverordnung über die
 Einfuhr oder das Verbringen von Schadorganismen in die oder innerhalb
 der Europäischen Union bleiben unberührt.
 
-
 ## Abschnitt 2 - Maßnahmen zur Bekämpfung des Kartoffelkrebses
-
 
 ### § 4 Abgrenzung und Aufhebung der Sicherheitszone
 
@@ -171,7 +161,6 @@ worden ist.
 einer erneuten Untersuchung der befallenen Fläche kein Befall mit
 Kartoffelkrebs und kein Vorhandensein seines Erregers festgestellt
 wird.
-
 
 ### § 5 Schutzmaßnahmen in der Sicherheitszone
 
@@ -210,7 +199,6 @@ alle zur Bekämpfung des Kartoffelkrebses erforderlichen Anordnungen
 treffen, insbesondere bestimmte Verfahren des Pflanzenschutzes
 vorschreiben oder verbieten.
 
-
 ### § 6 Verwendung und Behandlung
 
 Bei Befall mit Kartoffelkrebs haben der Verfügungsberechtigte und der
@@ -223,9 +211,7 @@ behandeln. Die zuständige Behörde kann zur Behandlung die
 erforderlichen Anordnungen treffen, insbesondere bestimmte Verfahren
 vorschreiben oder verbieten.
 
-
 ## Abschnitt 3 - Maßnahmen zur Bekämpfung von Kartoffelzystennematoden
-
 
 ### § 7 Anforderungen an Felder für die Erzeugung von Pflanzen zum Anpflanzen
 
@@ -289,7 +275,6 @@ Anhang I der Richtlinie 2007/33/EG, die zur Erzeugung von Pflanzen zum
 Anbau bestimmt sind, mehr als zwei Jahre vergangen, ist eine erneute
 Untersuchung nach Absatz 1 Satz 1 Nummer 2 notwendig.
 
-
 ### § 8 Untersuchung von Anbauflächen
 
 (1) Flächen, auf denen Kartoffeln, die zur Erzeugung von
@@ -325,7 +310,6 @@ zum Wiederanpflanzen bestimmt sind, produziert werden sollen, wenn
 konkrete Anhaltspunkte für den Befall mit Kartoffelzystennematoden
 vorliegen.
 
-
 ### § 9 Erhebungen zur Feststellung der Verbreitung von Kartoffelzystennematoden
 
 (1) Auf Kartoffelanbauflächen, die nicht zur Erzeugung von
@@ -343,7 +327,6 @@ umfasst mindestens den in Anhang III Abschnitt II der Richtlinie
 (3) Die Probenahme auf den ausgewählten Flächen nach Absatz 2 ist nach
 Anhang II Nummer 2 Buchstabe a der Richtlinie 2007/33/EG nach der
 Ernte der Kartoffeln durchzuführen.
-
 
 ### § 10 Amtliches Verzeichnis
 
@@ -384,7 +367,6 @@ Maßnahmen zur Bekämpfung der Kartoffelzystennematodenpopulation nach §
 
 (4) Bei berechtigtem Interesse kann die zuständige Behörde Einsicht in
 das Verzeichnis gewähren.
-
 
 ### § 11 Maßnahmen bei Befall mit Kartoffelzystennematoden
 
@@ -439,7 +421,6 @@ Dezember 2007 (BGBl. I S. 2930) geändert worden ist, festgestellt
 worden ist. Diese Kartoffelsorten können im Rahmen amtlicher
 Bekämpfungsprogramme angebaut werden.
 
-
 ### § 12 Amtliches Bekämpfungsprogramm
 
 (1) Bei Befall mit Kartoffelzystennematoden entwickelt die zuständige
@@ -455,7 +436,6 @@ Befallsfläche vor, dann muss die Kartoffelsorte resistent gegen die
 auf der Befallsfläche entsprechend § 10 Absatz 2 festgestellten
 Nematodenarten, Pathotypen oder Virulenzgruppen der
 Kartoffelzystennematoden sein.
-
 
 ### § 13 Verwendung und Behandlung von kontaminierten Pflanzen
 
@@ -482,7 +462,6 @@ der Richtlinie 2007/33/EG dürfen
 durch Waschen oder Bürsten so von Erde befreit wurden, dass kein
 Risiko der Verbreitung von Kartoffelzystennematoden besteht.
 
-
 ### § 14 Anforderung an Verarbeitungsbetriebe für Kartoffeln
 
 Kartoffeln zur industriellen Verarbeitung, Größensortierung oder
@@ -504,7 +483,6 @@ Gefahr der Ausbreitung oder Verschleppung der Schadorganismen besteht.
 Die bei der Anlieferung und Verarbeitung anfallenden Resterden dürfen
 nicht auf Flächen, auf denen Kartoffeln angebaut werden, aufgebracht
 werden.
-
 
 ### § 15 Ausnahmen für Nachbau
 
@@ -530,9 +508,7 @@ Nachbaus anordnen. Verfügungsberechtigte und Besitzer von
 Kartoffelanbauflächen gemäß Absatz 1 sind verpflichtet, die
 Untersuchungen durch die zuständige Behörde zu dulden.
 
-
 ## Abschnitt 4 - Schlussbestimmungen
-
 
 ### § 16 Ordnungswidrigkeiten
 
@@ -580,10 +556,6 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 10. entgegen § 15 Absatz 1 Satz 2 Pflanzkartoffeln in den Verkehr bringt.
 
-
-
-
-
 ### § 17 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
@@ -592,11 +564,9 @@ und der Kartoffelnematoden vom 5. Juni 2001 (BGBl. I S. 1006), die
 durch Artikel 3 § 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S.
 2930) geändert worden ist, außer Kraft.
 
-
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ### Anlage 1 (zu § 12) Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
 
@@ -624,10 +594,6 @@ Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm sind:
 4.  andere geeignete Maßnahmen zur Reduzierung der
     Kartoffelzystennematodenpopulation. Diese Maßnahmen müssen von der
     zuständigen Behörde genehmigt werden.
-
-
-
-
 
 ### Anlage 2 (zu § 14) Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
 

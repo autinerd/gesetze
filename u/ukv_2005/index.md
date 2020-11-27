@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 2 G v. 31.7.2008 I 1629
 
-
 ## Eingangsformel
 
 Auf Grund des § 13 Abs. 2 in Verbindung mit § 50 Abs. 1 Nr. 2 und § 50
@@ -27,7 +26,6 @@ Abs. 2 des Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom
 § 93 Abs. 1 Nr. 9 und § 93 Abs. 4 des Soldatengesetzes in der Fassung
 der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) verordnet die
 Bundesregierung:
-
 
 ## § 1 Vorschlagsrecht
 
@@ -112,7 +110,6 @@ soll, seinen oder ihren Sitz hat.
 
 (5) Die Vorschläge sind zu begründen.
 
-
 ## § 2 Gutachtliche Stellungnahmen
 
 (1) Wer, ohne selbst vorschlagsberechtigt zu sein, als Dienstherr,
@@ -190,7 +187,6 @@ eine gutachtliche Stellungnahme einzuholen:
 (4) Die Behörde beteiligt, soweit erforderlich, die Agentur für
 Arbeit.
 
-
 ## § 3 Verfahrensgrundsätze
 
 (1) Vorschläge zur Unabkömmlichstellung können eingereicht werden,
@@ -230,11 +226,9 @@ der Arbeitgeber oder die Arbeitgeberin anzugeben.
 (7) Die Entscheidung ist der vorschlagsberechtigten Behörde
 schriftlich mitzuteilen.
 
-
 ## § 4 (weggefallen)
 
 -
-
 
 ## § 5 Widerruf der Unabkömmlichstellung
 
@@ -257,7 +251,6 @@ schriftlich zu widerrufen.
 
 (3) Vor dem Widerruf einer Unabkömmlichstellung soll die
 vorschlagsberechtigte Behörde gehört werden.
-
 
 ## § 6 Ausgleich von Meinungsverschiedenheiten
 
@@ -291,11 +284,9 @@ Landesregierung für die Entsendung des Beisitzers oder der Beisitzerin
 zuständig, in deren Zuständigkeitsbereich das Kreiswehrersatzamt
 seinen Sitz hat.
 
-
 ## § 7 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

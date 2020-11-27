@@ -27,12 +27,10 @@ Nr. L 204 S. 37), zuletzt geändert durch die Richtlinie 98/48/EG
 des Europäischen Parlaments und des Rates vom 20. Juli 1998
 (ABl. EG Nr. L 217 S. 18) sind beachtet worden.
 
-
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt für das Vermieten und Mieten von Sportbooten zur
 Teilnahme am Verkehr auf den Binnenschifffahrtsstraßen.
-
 
 ## § 2 Begriffsbestimmungen und anzuwendende Vorschriften
 
@@ -149,7 +147,6 @@ ISO-Vorschriften verweist, sind diese beim Deutschen Patent- und
 Markenamt archivmäßig gesichert niedergelegt. Sie sind über den Beuth
 Verlag GmbH, 10772 Berlin, zu beziehen.
 
-
 ## § 3 Grundregel, Zuständigkeit
 
 (1) Ein Sportboot darf nur vermietet werden, wenn es dafür technisch
@@ -165,10 +162,6 @@ Schifffahrtsamt zuständig,
 
 
 2.  das dem Sitz des Unternehmens am nächsten liegt.
-
-
-
-
 
 ## § 4 Bootszeugnis
 
@@ -208,7 +201,6 @@ Binnenschifffahrtsstraßen eingetragen sind.
 Bootszeugnisse oder andere Zulassungsurkunden anerkennen, die nach
 landesrechtlichen Vorschriften erteilt werden. Die Muster dieser
 Urkunden werden im Verkehrsblatt bekannt gemacht.
-
 
 ## § 5 Nachweis über die Fahrtauglichkeit
 
@@ -267,7 +259,6 @@ Wirtschaftsraumes sind einschließlich der durchgeführten Prüfungen und
 Überwachungen von dem Wasser- und Schifffahrtsamt als gleichwertig
 anzuerkennen, wenn in ihnen das Schutzniveau der Nachweise nach den
 Absätzen 1 bis 4 bescheinigt ist.
-
 
 ## § 6 Verfahren
 
@@ -339,7 +330,6 @@ bis 4 hat dieses auch Änderungen bei den Angaben nach Absatz 2 Nr. 1
 bis 4 innerhalb von vier Wochen schriftlich gegenüber dem Wasser- und
 Schifffahrtsamt anzuzeigen.
 
-
 ## § 7 Kennzeichen
 
 (1) Das Unternehmen hat jedes Sportboot mit einem Kennzeichen nach der
@@ -360,10 +350,6 @@ Kombination von
 
 
 3.  dem Kennbuchstaben "V".
-
-
-
-
 
 ## § 8 Pflichten des Unternehmens
 
@@ -543,7 +529,6 @@ Rettungswesten in verschiedenen Größen, die mindestens der Norm DIN EN
 Wunsch kostenlos zur Verfügung zu stellen. Hierauf hat das Unternehmen
 deutlich sichtbar durch einen Aushang hinzuweisen.
 
-
 ## § 9 Charterbescheinigung
 
 (1) In den Fällen des § 8 Abs. 4 Nr. 1 Buchstabe a und c genügt
@@ -601,7 +586,6 @@ Sportbootführer als weiterer Verantwortlicher für dessen Pflichten.
 (5) Der Sportbootführer muss die in der Charterbescheinigung
 eingetragenen Beschränkungen beachten.
 
-
 ## § 10 Pflichten des Mieters und des Sportbootführers
 
 (1) Der Mieter darf nicht zulassen, dass ein Sportboot von Personen
@@ -619,10 +603,6 @@ vermietet werden darf.
 
 3.  die im Bootszeugnis eingetragenen Fahrtbereiche nicht verlassen
     werden.
-
-
-
-
 
 ## § 11 Ordnungswidrigkeiten
 
@@ -717,13 +697,6 @@ fahrlässig
     e)  entgegen § 10 Abs. 2 Nr. 3 nicht dafür sorgt, dass die eingetragenen
         Fahrtbereiche nicht verlassen werden.
 
-
-
-
-
-
-
-
 ## § 12 Übergangsregelung
 
 Nach der Sportbootvermietungsverordnung-Binnen vom 11. Oktober 1996
@@ -731,7 +704,6 @@ Nach der Sportbootvermietungsverordnung-Binnen vom 11. Oktober 1996
 Verlängerung bis zum Ablauf der Gültigkeit des ihnen zu Grunde
 gelegten Abnahmeprotokolls weiter, wenn eine Kopie dieses
 Abnahmeprotokolls den Bootszeugnissen beigefügt wird.
-
 
 ## Anlage 1 (zu § 3)
 
@@ -834,7 +806,6 @@ Dienstsiegel
 ..................................
 Unterschrift
 \*) Weitere Motoren auf anliegendem Blatt.
-
 
 ## Anlage 2 (zu § 5 Abs. 1 Nr. 2)
 
@@ -1156,10 +1127,6 @@ Stempel            Unterschrift .......................
     Bootsscheines (IBS), gefolgt von dem Kennbuchstaben M, S oder A; bei
     DMYV (M), DSV (S) oder ADAC (A).
 
-
-
-
-
 ## Anlage 3 (zu § 5 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4588 - 4589
@@ -1243,7 +1210,6 @@ Die Fahrtauglichkeitsbescheinigung ist gültig bis
 .....................   .....................
 ........................
 Untersuchungsort        Datum                    Unterschrift
-
 
 ## Anlage 4 (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b) Charterbescheinigung und Einweisung
 
@@ -1819,10 +1785,6 @@ I
 
     *   Unterschrift(en) Sportbootführer
 
-
-
-
-
 ## Anlage 5 (zu § 9 Abs. 2 Nr. 1) Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
 
 (Fundstelle: BGBl I 2009, 889 - 892)
@@ -2278,9 +2240,6 @@ I
     *   Fahrverbot bei Wasserständen am Unterpegel Rathenow von mehr als 130
         cm
 
-
-
-
 ## Anlage 6 (zu § 9 Abs. 2 Nr. 2) Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2533;
@@ -2335,13 +2294,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     i)  Ausstattung mit einem mobilen Telekommunikationsendgerät (Handy) - nur
         soweit in Anlage 5 telefonische Kommunikation ausdrücklich
         vorgeschrieben
-
-
-
-
-
-
-
 
 ## Anhang 1 (zu Anlage 6)
 
@@ -2399,10 +2351,6 @@ Es weichen aus - grundsätzlich nach Steuerbord -
     Zwei motorisierte Kleinfahrzeuge auf kreuzendem Kollisionskurs:
 
     das backbordseitige Kleinfahrzeug dem steuerbordseitigen
-
-
-
-
 
 ## Anhang 2 (zu Anlage 6)
 

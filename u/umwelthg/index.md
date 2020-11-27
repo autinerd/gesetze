@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 Abs. 5 G v. 23.11.2007 I 2631
 
-
 ## § 1 Anlagenhaftung bei Umwelteinwirkungen
 
 Wird durch eine Umwelteinwirkung, die von einer im Anhang 1 genannten
@@ -26,7 +25,6 @@ Anlage ausgeht, jemand getötet, sein Körper oder seine Gesundheit
 verletzt oder eine Sache beschädigt, so ist der Inhaber der Anlage
 verpflichtet, dem Geschädigten den daraus entstehenden Schaden zu
 ersetzen.
-
 
 ## § 2 Haftung für nichtbetriebene Anlagen
 
@@ -40,7 +38,6 @@ aus und beruht sie auf Umständen, die die Gefährlichkeit der Anlage
 vor der Einstellung des Betriebs begründet haben, so haftet derjenige
 nach § 1, der im Zeitpunkt der Einstellung des Betriebs Inhaber der
 Anlage war.
-
 
 ## § 3 Begriffsbestimmungen
 
@@ -66,12 +63,10 @@ die mit der Anlage oder einem Anlagenteil in einem räumlichen oder
 betriebstechnischen Zusammenhang stehen und für das Entstehen von
 Umwelteinwirkungen von Bedeutung sein können.
 
-
 ## § 4 Ausschluß der Haftung
 
 Die Ersatzpflicht besteht nicht, soweit der Schaden durch höhere
 Gewalt verursacht wurde.
-
 
 ## § 5 Beschränkung der Haftung bei Sachschäden
 
@@ -79,7 +74,6 @@ Ist die Anlage bestimmungsgemäß betrieben worden (§ 6 Abs. 2 Satz 2),
 so ist die Ersatzpflicht für Sachschäden ausgeschlossen, wenn die
 Sache nur unwesentlich oder in einem Maße beeinträchtigt wird, das
 nach den örtlichen Verhältnissen zumutbar ist.
-
 
 ## § 6 Ursachenvermutung
 
@@ -118,10 +112,6 @@ dieser Betriebspflicht vermutet, wenn
 2.  im Zeitpunkt der Geltendmachung des Schadensersatzanspruchs die in
     Frage stehende Umwelteinwirkung länger als zehn Jahre zurückliegt.
 
-
-
-
-
 ## § 7 Ausschluß der Vermutung
 
 (1) Sind mehrere Anlagen geeignet, den Schaden zu verursachen, so gilt
@@ -135,7 +125,6 @@ Einzelfall für oder gegen die Schadensverursachung sprechen.
 die Vermutung dann nicht, wenn ein anderer Umstand nach den
 Gegebenheiten des Einzelfalles geeignet ist, den Schaden zu
 verursachen.
-
 
 ## § 8 Auskunftsanspruch des Geschädigten gegen den Inhaber einer Anlage
 
@@ -162,7 +151,6 @@ Absätze 1 und 2 gelten entsprechend.
 (4) Die §§ 259 bis 261 des Bürgerlichen Gesetzbuchs finden
 entsprechende Anwendung.
 
-
 ## § 9 Auskunftsanspruch des Geschädigten gegen Behörden
 
 Liegen Tatsachen vor, die die Annahme begründen, daß eine Anlage den
@@ -183,7 +171,6 @@ können auch Angaben über Namen und Anschrift des Inhabers der Anlage,
 seines gesetzlichen Vertreters oder eines Zustellungsbevollmächtigten
 verlangt werden.
 
-
 ## § 10 Auskunftsanspruch des Inhabers einer Anlage
 
 (1) Wird gegen den Inhaber einer Anlage ein Anspruch aufgrund dieses
@@ -199,7 +186,6 @@ und § 8 Abs. 4, für den Anspruch gegen den Inhaber einer anderen
 Anlage gilt § 8 Abs. 1 Satz 2, Abs. 2 bis 4 und für den
 Auskunftsanspruch gegen Behörden § 9 entsprechend.
 
-
 ## § 11 Mitverschulden
 
 Hat bei der Entstehung des Schadens ein Verschulden des Geschädigten
@@ -207,7 +193,6 @@ mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; im Falle der
 Sachbeschädigung steht das Verschulden desjenigen, der die
 tatsächliche Gewalt über die Sache ausübt, dem Verschulden des
 Geschädigten gleich.
-
 
 ## § 12 Umfang der Ersatzpflicht bei Tötung
 
@@ -228,7 +213,6 @@ zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die
 Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung
 gezeugt, aber noch nicht geboren war.
 
-
 ## § 13 Umfang der Ersatzpflicht bei Körperverletzung
 
 Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz der
@@ -239,7 +223,6 @@ seine Bedürfnisse vermehrt sind. Wegen des Schadens, der nicht
 Vermögensschaden ist, kann auch eine billige Entschädigung in Geld
 gefordert werden.
 
-
 ## § 14 Schadensersatz durch Geldrente
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der
@@ -249,7 +232,6 @@ für die Zukunft durch eine Geldrente zu leisten.
 
 (2) § 843 Abs. 2 bis 4 des Bürgerlichen Gesetzbuchs ist entsprechend
 anzuwenden.
-
 
 ## § 15 Haftungshöchstgrenzen
 
@@ -262,7 +244,6 @@ mehreren aufgrund der einheitlichen Umwelteinwirkung zu leistenden
 Entschädigungen die in Satz 1 bezeichneten jeweiligen Höchstbeträge,
 so verringern sich die einzelnen Entschädigungen in dem Verhältnis, in
 dem ihr Gesamtbetrag zum Höchstbetrag steht.
-
 
 ## § 16 Aufwendungen bei Wiederherstellungsmaßnahmen
 
@@ -277,13 +258,11 @@ sie den Wert der Sache übersteigen.
 (2) Für die erforderlichen Aufwendungen hat der Schädiger auf
 Verlangen des Ersatzberechtigten Vorschuß zu leisten.
 
-
 ## § 17 Verjährung
 
 Auf die Verjährung finden die für unerlaubte Handlungen geltenden
 Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
-
 
 ## § 18 Weitergehende Haftung
 
@@ -297,7 +276,6 @@ Brüsseler Reaktorschiff-Übereinkommen vom 25. Mai 1962 (BGBl. 1975 II
 S. 957, 977) und dem Brüsseler Kernmaterial-Seetransport-Abkommen vom
 17\. Dezember 1971 (BGBl. 1975 II S. 957, 1026) in der jeweils gültigen
 Fassung, maßgebend ist.
-
 
 ## § 19 Deckungsvorsorge
 
@@ -340,7 +318,6 @@ genannten Anlage ganz oder teilweise untersagen, wenn der Inhaber
 seiner Verpflichtung zur Deckungsvorsorge nicht nachkommt und die
 Deckungsvorsorge nicht binnen einer von der zuständigen Behörde
 festzusetzenden angemessenen Frist nachweist.
-
 
 ## § 20 Ermächtigung zum Erlaß von Rechtsverordnungen
 
@@ -386,7 +363,6 @@ Bundestag befaßt sich mit der Rechtsverordnung auf Antrag von so
 vielen Mitgliedern des Bundestages, wie zur Bildung einer Fraktion
 erforderlich sind.
 
-
 ## § 21 Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
@@ -406,7 +382,6 @@ bestraft, wer
 bis zu sechs Monaten oder Geldstrafe bis zu einhundertachtzig
 Tagessätzen.
 
-
 ## § 22 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer einer Rechtsverordnung nach § 20 Abs.
@@ -416,13 +391,11 @@ Tatbestand auf diese Bußgeldvorschrift verweist.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 5.000 Euro
 geahndet werden.
 
-
 ## § 23 Übergangsvorschriften
 
 Dieses Gesetz und § 32a der Zivilprozessordnung finden keine
 Anwendung, soweit der Schaden vor dem Inkrafttreten dieses Gesetzes
 verursacht worden ist.
-
 
 ## Anhang 1 (zu § 1 UmweltHG)
 
@@ -1165,10 +1138,6 @@ Sonstiges
 
 96. Anlagen zur Herstellung von Holzschutzmitteln unter Verwendung von
     halogenierten aromatischen Kohlenwasserstoffen
-
-
-
-
 
 ## Anhang 2 (zu § 19 UmweltHG)
 

@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 3012
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 45 Nr. 1 und 2 der Handwerksordnung in der Fassung der
@@ -27,10 +25,7 @@ Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705), wird im
 Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
 verordnet:
 
-
 ## 1. Abschnitt - Berufsbild
-
-
 
 ### § 1 Berufsbild
 
@@ -170,13 +165,7 @@ zuzurechnen:
 
 27. Warten der Maschinen und Geräte sowie Instandhalten der Werkzeuge.
 
-
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
-
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
@@ -189,7 +178,6 @@ Arbeitstage, die Arbeitsprobe nicht mehr als 8 Stunden dauern.
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
 ausreichende Leistungen in der Meisterprüfungsarbeit und in der
 Arbeitsprobe.
-
 
 ### § 3 Meisterprüfungsarbeit
 
@@ -239,10 +227,6 @@ detaillierte Vorkalkulation vorzulegen.
 
 3.  die detaillierte Nachkalkulation.
 
-
-
-
-
 ### § 4 Arbeitsprobe
 
 (1) Als Arbeitsprobe sind 4 der nachstehenden Arbeiten auszuführen:
@@ -289,7 +273,6 @@ detaillierte Vorkalkulation vorzulegen.
 (2) Im Rahmen der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
 unzureichend nachgewiesen werden konnten.
-
 
 ### § 5 Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
@@ -372,15 +355,11 @@ von Absatz 2 auf die mündliche Prüfung verzichtet werden.
 ausreichende Leistungen in jedem der in Absatz 1 Nr. 1, 2 und 5
 genannten Prüfungsfächer.
 
-
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
-
 
 ### § 6
 
 -
-
 
 ### § 7 Weitere Anforderungen
 
@@ -389,13 +368,11 @@ der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im
 Handwerk vom 12. Dezember 1972 (Bundesgesetzblatt I S. 2381) in der
 jeweils geltenden Fassung.
 
-
 ### § 8 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 128 der
 Handwerksordnung auch im Land Berlin.
-
 
 ### § 9 Inkrafttreten
 
@@ -404,7 +381,6 @@ Handwerksordnung auch im Land Berlin.
 (2) Auf Grund des § 122 der Handwerksordnung weiter anzuwendende
 Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln,
 nicht mehr anzuwenden.
-
 
 ### Schlußformel
 

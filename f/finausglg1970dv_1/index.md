@@ -16,15 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 143
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 4 Nr. 1 und des § 14 Abs. 3 des Gesetzes über
 den Finanzausgleich zwischen Bund und Ländern vom 28. August 1969
 (Bundesgesetzbl. I S. 1432) wird mit Zustimmung des Bundesrates
 verordnet:
-
 
 ## § 1 Ausgleich unterschiedlicher Einheitsbewertung
 
@@ -37,7 +34,6 @@ Rheinland-Pfalz um 20 vom Hundert gekürzt. Die Kürzung entfällt von
 dem Ausgleichsjahr ab, für das die Einheitswerte der Hauptfeststellung
 1964 bei der Errechnung der Steuerkraftmeßzahlen der Grundsteuer nach
 § 8 Abs. 2 des Gesetzes erstmals wirksam werden.
-
 
 ## § 2 Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 1970
 
@@ -127,18 +123,15 @@ die Aufteilung auf die einzelnen Länder gilt die in § 13 Nr. 3 des
 Gesetzes über den Finanzausgleich zwischen Bund und Ländern genannte
 Feststellung der Einwohnerzahlen.
 
-
 ## § 3 Geltung in Berlin
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
 Verbindung mit § 19 des Gesetzes auch im Land Berlin.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1970 in Kraft.
-
 
 ## Schlußformel
 

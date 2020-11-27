@@ -18,15 +18,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3202
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 111 Abs. 3 Nr. 2 des Versicherungsaufsichtsgesetzes in
 der Fassung der Bekanntmachung vom  17. Dezember 1992 (BGBl. 1993 I S.
 2), geändert durch Artikel 67 des Gesetzes vom 27. April 1993 (BGBl. I
 S. 512, 2436), verordnet das Bundesministerium der Finanzen:
-
 
 ## § 1
 
@@ -115,10 +112,6 @@ folgenden Maßgaben entsprechend: % 1.
     für die in der Bundesrepublik Deutschland belegenen
     Vermögensgegenstände. § 81b Abs. 4 bleibt unberührt.
 
-
-
-
-
 ## § 2
 
 Die Verordnung zur Durchführung der Richtlinie des Rates vom 20. Juni
@@ -126,7 +119,6 @@ Die Verordnung zur Durchführung der Richtlinie des Rates vom 20. Juni
 Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft
 betreffend die Direktversicherung mit Ausnahme der Lebensversicherung
 (91/371/EWG) vom 12. Juli 1993 (BGBl. I S. 1347) wird aufgehoben.
-
 
 ## § 3
 

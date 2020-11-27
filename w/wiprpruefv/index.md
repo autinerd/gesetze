@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 3.9.2007 I 2178
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 14 und 131l der Wirtschaftsprüferordnung in der
@@ -27,10 +26,7 @@ Fassung der Bekanntmachung vom 5. November 1975 (BGBl. I S. 2803), §
 durch Artikel 1 Nr. 65 des Gesetzes vom 1. Dezember 2003 (BGBl. I S.
 2446), verordnet das Bundesministerium für Wirtschaft und Arbeit:
 
-
 ## Erster Teil - Prüfungsverfahren nach § 14 der Wirtschaftsprüferordnung
-
-
 
 ### § 1 Antrag auf Zulassung zur Prüfung
 
@@ -113,7 +109,6 @@ Mitgliedern der in den §§ 2, 8 und 9 genannten Kommissionen am
 Aufbewahrungsort (Landesgeschäftsstellen oder Prüfungsstelle)
 eingesehen werden.
 
-
 ### § 2 Prüfungskommission, Prüfungstermine
 
 (1) Der Prüfungskommission gehören als Mitglieder an ein Vertreter
@@ -161,7 +156,6 @@ Entscheidungen auch im schriftlichen Verfahren treffen.
 (7) Es sollen mindestens zwei bundesweite Prüfungstermine im
 Kalenderjahr angeboten werden.
 
-
 ### § 3 Berufung der Mitglieder der Prüfungskommission
 
 (1) Die Mitglieder der Prüfungskommission werden auf Vorschlag des
@@ -185,7 +179,6 @@ einzureichen.
 (4) Der Vorstand kann verlangen, dass wiederholt Vorschläge
 eingereicht werden. Er ist an die nach Absatz 3 eingereichten
 Vorschläge nicht gebunden.
-
 
 ### § 4 Prüfungsgebiete
 
@@ -351,25 +344,16 @@ D.  Steuerrecht
 
     3.  Grundzüge des Internationalen Steuerrechts.
 
-
-
-
-
-
-
-
 ### § 5 Gliederung der Prüfung
 
 Die Prüfung gliedert sich in eine schriftliche und eine mündliche
 Prüfung. Die schriftliche Prüfung besteht aus sieben unter Aufsicht
 anzufertigenden Arbeiten (Aufsichtsarbeiten).
 
-
 ### § 6 Verkürzte Prüfung
 
 Abweichend von § 5 kann die Prüfung in verkürzter Form nach den §§ 8a,
 13 bis 13b der Wirtschaftsprüferordnung abgelegt werden.
-
 
 ### § 7 Schriftliche Prüfung
 
@@ -399,7 +383,6 @@ sollen von der Prüfungsstelle zugelassen werden. Es sind zu bearbeiten
 
 Es ist jeweils eine Aufgabe an je einem Tag zu bearbeiten.
 
-
 ### § 8 Aufgabenkommission
 
 (1) Für das Bestimmen der Prüfungsaufgaben in der schriftlichen
@@ -421,7 +404,6 @@ Berufsangehörige und eine die Finanzverwaltung vertretende Person an.
 Mitglieder der Aufgabenkommission in der Regel für die Dauer von drei
 Jahren berufen.
 
-
 ### § 9 Widerspruchskommission
 
 Für Entscheidungen nach § 5 Abs. 5 der Wirtschaftsprüferordnung wird
@@ -431,7 +413,6 @@ Die Kommission entscheidet mit Stimmenmehrheit; bei Stimmengleichheit
 entscheidet die Stimme des vorsitzenden Mitglieds. § 8 Abs. 4 gilt
 entsprechend.
 
-
 ### § 10 Aufsichtsarbeiten
 
 Die Aufsicht bei den Aufsichtsarbeiten führen von der Prüfungsstelle
@@ -440,7 +421,6 @@ sie eine Niederschrift zu fertigen, in der die teilnehmenden Personen,
 der Zeitpunkt des Beginns und der Abgabe der Arbeiten, etwaige
 Ordnungsverstöße sowie alle sonstigen wesentlichen Vorkommnisse
 aufzunehmen sind.
-
 
 ### § 11 Prüfungsnoten
 
@@ -519,7 +499,6 @@ Die Bewertung mit halben Zwischennoten ist zulässig.
 Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt
 durch deren Zahl.
 
-
 ### § 12 Bewertung der Aufsichtsarbeiten
 
 (1) Jede Aufsichtsarbeit ist von zwei Mitgliedern der
@@ -532,7 +511,6 @@ einzusehen.
 
 (2) Weichen die Bewertungen einer Arbeit voneinander ab, so gilt der
 Durchschnitt der Bewertungen.
-
 
 ### § 13 Ergebnis der schriftlichen Prüfung; Ausschluss von der mündlichen Prüfung
 
@@ -547,13 +525,11 @@ Gebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und
 Berufsrecht im Durchschnitt nicht mindestens mit der Note 5,00
 bewertet sind.
 
-
 ### § 14 Vorberatung der Prüfungskommission
 
 Vor Beginn der mündlichen Prüfung findet eine Vorberatung der
 Prüfungskommission statt, zu der sämtliche Prüfungsunterlagen
 vorliegen.
-
 
 ### § 15 Mündliche Prüfung
 
@@ -598,7 +574,6 @@ vier Jahre im wirtschaftlichen Prüfungswesen tätig sind und ein
 berechtigtes Interesse glaubhaft machen, kann auf Antrag gestattet
 werden, einmal bei der mündlichen Prüfung zuzuhören.
 
-
 ### § 16 Bewertung der mündlichen Prüfung
 
 (1) In der mündlichen Prüfung werden der kurze Vortrag und die fünf
@@ -609,7 +584,6 @@ der Prüfungskommission festgesetzt.
 
 (3) Für die mündliche Prüfung wird eine Gesamtnote gebildet.
 
-
 ### § 17 Prüfungsgesamtnote
 
 Aus der Gesamtnote der schriftlichen Prüfung und der Gesamtnote der
@@ -617,7 +591,6 @@ mündlichen Prüfung ist eine Prüfungsgesamtnote zu bilden. Sie wird
 errechnet, indem die Gesamtnote der schriftlichen Prüfung mit 6, die
 Gesamtnote der mündlichen Prüfung mit 4 vervielfältigt und sodann die
 Summe durch 10 geteilt wird.
-
 
 ### § 18 Prüfungsergebnis
 
@@ -637,7 +610,6 @@ bestandener Prüfung hierüber eine Bescheinigung.
 
 (3) Die Ablegung der Prüfung berechtigt nicht zur Führung einer
 Bezeichnung, die auf das Bestehen der Prüfung Bezug nimmt.
-
 
 ### § 19 Ergänzungsprüfung
 
@@ -673,7 +645,6 @@ Prüfung nicht bestanden.
 (5) Umfasst die Prüfung nur das Prüfungsgebiet nach § 4 Buchstabe A,
 finden die Absätze 1 und 2 keine Anwendung.
 
-
 ### § 20 Niederschrift der Prüfungskommission
 
 (1) Über den Hergang der mündlichen Prüfung ist eine Niederschrift
@@ -700,7 +671,6 @@ aufzunehmen, in der festgestellt werden
 (2) Die Niederschrift ist von der vorsitzenden Person der
 Prüfungskommission zu unterschreiben.
 
-
 ### § 21 Rücktritt von der Prüfung
 
 (1) Tritt die zu prüfende Person von der Prüfung zurück, so gilt die
@@ -725,7 +695,6 @@ der schriftlichen Prüfung oder der noch nicht erledigten mündlichen
 Prüfung erneut zu laden; § 13a Abs. 2 der Wirtschaftsprüferordnung
 bleibt unberührt.
 
-
 ### § 22 Wiederholung der Prüfung
 
 (1) Die Prüfung kann zweimal wiederholt werden; § 13a Abs. 2 der
@@ -738,7 +707,6 @@ beizufügen; dies gilt nicht für Anträge nach dem 31. Dezember 2003,
 wenn die Zulassung zur vorhergehenden Prüfung bereits vor dem 1.
 Januar 2004 erfolgt ist.
 
-
 ### § 23 Mitteilung des Prüfungsergebnisses
 
 Die Prüfungsstelle teilt der geprüften Person das Prüfungsergebnis
@@ -746,7 +714,6 @@ mit, auf Wunsch mit Angabe der Prüfungsgesamtnote. Bei Angabe der
 Prüfungsgesamtnote ist gegebenenfalls das Ablegen einer
 Ergänzungsprüfung ohne Angabe des ursprünglichen Prüfungsergebnisses
 zu erwähnen.
-
 
 ### § 24 Täuschungsversuch, Ordnungsverstöße
 
@@ -768,10 +735,7 @@ Prüfungsentscheidung widerrufen und aussprechen, dass die Prüfung
 nicht bestanden ist. Der Widerruf ist ausgeschlossen, wenn seit der
 Beendigung der Prüfung mehr als drei Jahre vergangen sind.
 
-
 ## Zweiter Teil - Prüfungsverfahren nach § 131l der Wirtschaftsprüferordnung
-
-
 
 ### § 25 Antrag auf Zulassung zur Prüfung
 
@@ -839,7 +803,6 @@ ermächtigte Übersetzerin im Geltungsbereich dieser Verordnung
 vorzulegen, soweit sie nicht in deutscher Sprache abgefasst sind.
 Prüfungssprache ist Deutsch. § 1 Abs. 3 gilt entsprechend.
 
-
 ### § 26 Prüfungskommission, Prüfungstermine
 
 (1) Der Prüfungskommission gehören als Mitglieder an eine eine oberste
@@ -851,7 +814,6 @@ Finanzverwaltung vertretende Person nicht teil. Ein Mitglied der
 Kommission muss die Befähigung zum Richteramt haben.
 
 (2) § 2 Abs. 3 bis 7 und § 3 Abs. 1, 2 und 4 gelten entsprechend.
-
 
 ### § 27 Prüfungsgebiete
 
@@ -953,7 +915,6 @@ das Recht der Bundesrepublik Deutschland, insbesondere auf Grund von
 in den Richtlinien eingeräumten Wahlmöglichkeiten, Besonderheiten
 enthält.
 
-
 ### § 28 Verkürzte Prüfung; Erlass von Prüfungsleistungen
 
 (1) Für die verkürzte Prüfung gilt § 6 entsprechend.
@@ -974,7 +935,6 @@ die regelmäßig folgende Angaben enthalten müssen: Akten- oder
 Geschäftszeichen, Gegenstand, Zeitraum, Art und Umfang der Tätigkeit,
 Sachstand. Ferner sind auf Verlangen der Prüfungsstelle anonymisierte
 Arbeitsproben vorzulegen.
-
 
 ### § 29 Schriftliche Prüfung
 
@@ -1009,7 +969,6 @@ Prüfung teilnehmen muss und von der Prüfungsstelle bestimmt wird, zu
 bewerten. Die Aufsichtsarbeit genügt in diesem Fall den Anforderungen,
 wenn mindestens zwei der die Arbeit bewertenden Personen die Arbeit so
 bewerten.
-
 
 ### § 30 Mündliche Prüfung
 
@@ -1062,7 +1021,6 @@ aufzunehmen, in der festgestellt werden
 Die Niederschrift ist von der vorsitzenden Person der
 Prüfungskommission zu unterschreiben.
 
-
 ### § 31 Prüfungsergebnis
 
 Die Prüfungskommission entscheidet im Anschluss an die mündliche
@@ -1072,7 +1030,6 @@ der mündlichen Prüfung erbrachten Leistungen, ob die geprüfte Person
 erforderlichen Kenntnisse verfügt und damit die Prüfung bestanden hat.
 § 18 Abs. 2 und 3 gilt entsprechend.
 
-
 ### § 32 Rücktritt von der Prüfung
 
 Tritt die zu prüfende Person von der Prüfung zurück, so gilt die
@@ -1080,7 +1037,6 @@ gesamte Prüfung als nicht bestanden. Als Rücktritt gilt es, wenn sie
 an einer Aufsichtsarbeit nicht teilnimmt oder sich der mündlichen
 Prüfung oder Teilen derselben nicht unterzieht. § 21 Abs. 2 und 3 gilt
 entsprechend.
-
 
 ### § 33 Wiederholung der Prüfung
 
@@ -1094,7 +1050,6 @@ beizufügen; dies gilt nicht für Anträge nach dem 31. Dezember 2003,
 wenn die Zulassung zur vorhergehenden Prüfung bereits vor dem 1.
 Januar 2004 erfolgte.
 
-
 ### § 34 Täuschungsversuch, Ordnungsverstöße
 
 Unternimmt es eine zu prüfende Person, das Ergebnis einer
@@ -1104,10 +1059,7 @@ mit "genügt nicht den Anforderungen" bewerten oder in schweren Fällen
 den Bewerber von der Prüfung ausschließen. Satz 1 gilt entsprechend
 für die mündliche Prüfung. § 24 Abs. 2 bis 4 gilt entsprechend.
 
-
 ## Dritter Teil - Schlussvorschriften
-
-
 
 ### § 35 Übergangsregelung
 
@@ -1116,7 +1068,6 @@ mündliche und schriftliche Prüfungen werden nach dem bis zum 23. Juli
 2004 geltenden Recht beendet; dies gilt nicht für nachfolgende
 Ergänzungs- und Wiederholungsprüfungen sowie für die Fortsetzung der
 Prüfung im Fall des § 21 Abs. 3 oder § 32 Satz 3.
-
 
 ### § 36 Inkrafttreten, Außerkrafttreten
 

@@ -21,7 +21,6 @@ Zuletzt geändert durch
 Hinweis: mittelbare änderung durch
 :   Art. 6 Nr. 3 Buchst. a G v. 7.12.2011 I 2576 ist berücksichtigt
 
-
 ## § 1 Aufgaben
 
 (1) Aufgabe des Militärischen Abschirmdienstes des Bundesministeriums
@@ -116,7 +115,6 @@ Dienststelle nicht angegliedert werden.
 (5) Der Militärische Abschirmdienst ist an die allgemeinen
 Rechtsvorschriften gebunden (Artikel 20 des Grundgesetzes).
 
-
 ## § 2 Zuständigkeit in besonderen Fällen
 
 (1) Zur Fortführung von Aufgaben nach § 1 Abs. 1 kann der Militärische
@@ -151,7 +149,6 @@ Verfassungsschutzbehörde seine Befugnisse gegenüber Personen ausüben,
 die dem Geschäftsbereich des Bundesministeriums der Verteidigung nicht
 angehören oder nicht in ihm tätig sind.
 
-
 ## § 3 Zusammenarbeit mit den Verfassungsschutzbehörden
 
 (1) Der Militärische Abschirmdienst und die Verfassungsschutzbehörden
@@ -176,7 +173,6 @@ nur mit übermäßigem Aufwand möglich wäre.
 Verfassungsschutz unterrichten einander über alle Angelegenheiten,
 deren Kenntnis für die Erfüllung ihrer Aufgaben erforderlich ist.
 
-
 ## § 4 Befugnisse des Militärischen Abschirmdienstes
 
 (1) Der Militärische Abschirmdienst darf die zur Erfüllung seiner
@@ -195,7 +191,6 @@ Militärischen Abschirmdienst nicht zu; er darf die Polizei auch nicht
 im Wege der Amtshilfe um Maßnahmen ersuchen, zu denen er selbst nicht
 befugt ist.
 
-
 ## § 4a Besondere Auskunftsverlangen
 
 Die §§ 8a und 8b des Bundesverfassungsschutzgesetzes sind mit der
@@ -207,7 +202,6 @@ Stelle des Bundesministeriums des Innern das Bundesministerium der
 Verteidigung treten. Das Grundrecht des
 Fermeldegeheimnisses              (Artikel 10 des Grundgesetzes) wird
 insoweit eingeschränkt.
-
 
 ## § 5 Besondere Formen der Datenerhebung
 
@@ -227,7 +221,6 @@ erheben, soweit es
 
 erforderlich ist; § 9 Abs. 2 bis 4 des Bundesverfassungsschutzgesetzes
 findet entsprechende Anwendung.
-
 
 ## § 6 Speicherung, Veränderung und Nutzung personenbezogener Daten
 
@@ -250,7 +243,6 @@ personenbezogener Daten über Minderjährige vor Vollendung des 16.
 Lebensjahres in zu ihrer Person geführten Akten und Dateien ist
 unzulässig.
 
-
 ## § 7 Berichtigung, Löschung und Sperrung personenbezogener Daten
 
 (1) Der Militärische Abschirmdienst hat die in Dateien gespeicherten
@@ -261,7 +253,6 @@ personenbezogenen Daten zu berichtigen, zu löschen und zu sperren nach
 Akten zu berichtigen und zu sperren nach § 13 des
 Bundesverfassungsschutzgesetzes.
 
-
 ## § 8 Dateianordnungen
 
 Der Militärische Abschirmdienst hat für jede automatisierte Datei mit
@@ -270,7 +261,6 @@ Bundesverfassungsschutzgesetzes zu treffen, die der Zustimmung des
 Bundesministeriums der Verteidigung bedarf. § 14 Abs. 2 und 3 des
 Bundesverfassungsschutzgesetzes findet Anwendung.
 
-
 ## § 9 Auskunft an den Betroffenen
 
 Der Militärische Abschirmdienst erteilt dem Betroffenen über zu seiner
@@ -278,7 +268,6 @@ Person gespeicherte Daten Auskunft entsprechend § 15 des
 Bundesverfassungsschutzgesetzes; an die Stelle des dort genannten
 Bundesministeriums des Innern tritt das Bundesministerium der
 Verteidigung.
-
 
 ## § 10 Übermittlung von Informationen an den Militärischen Abschirmdienst
 
@@ -346,7 +335,6 @@ des Behördenleiters oder seines Vertreters.
 (4) § 17 Abs. 1 sowie § 18 Abs. 5 des Bundesverfassungsschutzgesetzes
 sind entsprechend anzuwenden.
 
-
 ## § 11 Übermittlung personenbezogener Daten durch den Militärischen Abschirmdienst
 
 (1) Der Militärische Abschirmdienst darf personenbezogene Daten nach §
@@ -362,20 +350,17 @@ einschließlich personenbezogener Daten an Staatsanwaltschaften,
 Polizeien und den Bundesnachrichtendienst nach § 20 des
 Bundesverfassungsschutzgesetzes.
 
-
 ## § 12 Verfahrensregeln für die Übermittlung von Informationen
 
 Für die Übermittlung von Informationen nach diesem Gesetz finden die
 §§ 23 bis 26 des Bundesverfassungsschutzgesetzes entsprechende
 Anwendung.
 
-
 ## § 13 Geltung des Bundesdatenschutzgesetzes
 
 Bei der Erfüllung der Aufgaben nach § 1 Abs. 1 bis 3, § 2 und § 14
 finden § 3 Abs. 2 und 8 Satz 1, § 4 Abs. 2 und 3, §§ 4b und 4c sowie
 §§ 10 und 13 bis 20 des Bundesdatenschutzgesetzes keine Anwendung.
-
 
 ## § 14 Besondere Auslandsverwendungen
 

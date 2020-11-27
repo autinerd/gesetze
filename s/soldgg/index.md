@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 31.7.2008 I 1629
 
-
 ## Abschnitt 1 - Allgemeiner Teil
-
-
 
 ### § 1 Ziel des Gesetzes
 
@@ -42,7 +39,6 @@ aufgefordert, an der Verwirklichung dieser Ziele mitzuwirken. Dies
 gilt auch für den Dienstherrn sowie für Personen und Gremien, die
 Beteiligungsrechte wahrnehmen, insbesondere für
 Gleichstellungsbeauftragte und deren Stellvertreterinnen.
-
 
 ### § 2 Anwendungsbereich
 
@@ -71,7 +67,6 @@ Gleichstellungsbeauftragte und deren Stellvertreterinnen.
 Gleichbehandlung wird durch dieses Gesetz nicht berührt. Dies gilt
 auch für öffentlich-rechtliche Vorschriften, die dem Schutz bestimmter
 Personengruppen dienen.
-
 
 ### § 3 Begriffsbestimmungen
 
@@ -112,7 +107,6 @@ jemand eine Person zu einem Verhalten bestimmt, das eine der in § 6
 genannten Personen wegen eines in § 1 Abs. 1 genannten Grundes
 benachteiligt oder benachteiligen kann.
 
-
 ### § 4 Unterschiedliche Behandlung wegen mehrerer Gründe
 
 Erfolgt eine unterschiedliche Behandlung wegen mehrerer der in § 1
@@ -121,7 +115,6 @@ gemäß § 8 nur gerechtfertigt werden, wenn sich die Rechtfertigung auf
 alle diese Gründe erstreckt, derentwegen die unterschiedliche
 Behandlung erfolgt.
 
-
 ### § 5 Positive Maßnahmen
 
 Ungeachtet des § 8 ist eine unterschiedliche Behandlung auch zulässig,
@@ -129,14 +122,9 @@ wenn durch geeignete und angemessene Maßnahmen tatsächliche Nachteile
 wegen eines in § 1 Abs. 1 genannten Grundes verhindert oder
 ausgeglichen werden sollen.
 
-
 ## Abschnitt 2 - Schutz vor Benachteiligung
 
-
-
 ### Unterabschnitt 1 - Verbot der Benachteiligung
-
-
 
 #### § 6 Persönlicher Anwendungsbereich
 
@@ -148,10 +136,6 @@ Dieses Gesetz dient dem Schutz von
 2.  Personen, die zu einer Einberufung zum Wehrdienst nach Maßgabe des
     Wehrpflichtgesetzes heranstehen oder die sich um die Begründung eines
     Wehrdienstverhältnisses auf Grund freiwilliger Verpflichtung bewerben.
-
-
-
-
 
 #### § 7 Benachteiligungsverbot
 
@@ -165,7 +149,6 @@ Benachteiligung nur annimmt.
 solchen Handlungsweise ist eine Verletzung dienstlicher Pflichten und
 Soldatinnen und Soldaten untersagt.
 
-
 #### § 8 Zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen
 
 Eine unterschiedliche Behandlung wegen eines in § 1 Abs. 1 genannten
@@ -174,17 +157,13 @@ Tätigkeit oder der Bedingungen ihrer Ausübung eine wesentliche und
 entscheidende berufliche Anforderung darstellt, sofern der Zweck
 rechtmäßig und die Anforderung angemessen ist.
 
-
 ### Unterabschnitt 2 - Organisationspflichten des Dienstherrn
-
-
 
 #### § 9 Personalwerbung; Dienstpostenbekanntgabe
 
 Anzeigen der Personalwerbung sowie Dienstposten für Soldatinnen und
 Soldaten dürfen nicht unter Verstoß gegen § 7 Abs. 1 bekannt gegeben
 werden.
-
 
 #### § 10 Maßnahmen und Pflichten des Dienstherrn
 
@@ -218,10 +197,7 @@ Stelle oder durch den Einsatz der in den Dienststellen und
 Truppenteilen üblichen Informations- und Kommunikationstechnik
 erfolgen.
 
-
 ### Unterabschnitt 3 - Rechte der in § 6 genannten Personen
-
-
 
 #### § 11 Beschwerderecht
 
@@ -236,7 +212,6 @@ Abs. 1 oder 2 genannten Benachteiligung bei der für ihre Einberufung
 oder Bewerbung zuständigen Stelle der Bundeswehr beschweren. Diese hat
 die Beschwerde zu prüfen und das Ergebnis der beschwerdeführenden
 Person mitzuteilen.
-
 
 #### § 12 Entschädigung und Schadensersatz
 
@@ -267,7 +242,6 @@ anderen Rechtsvorschriften ergeben, unberührt.
 auf eine Maßnahme der Ausbildung oder einen beruflichen Aufstieg, es
 sei denn, ein solcher ergibt sich aus einem anderen Rechtsgrund.
 
-
 #### § 13 Maßregelungsverbot
 
 (1) Der Dienstherr darf eine in § 6 genannte Person nicht wegen der
@@ -283,7 +257,6 @@ für eine Entscheidung herangezogen werden, die diese Personen berührt.
 Absatz 1 Satz 2 gilt entsprechend.
 
 (3) § 15 gilt entsprechend.
-
 
 #### § 14 Mitgliedschaft in Vereinigungen
 
@@ -306,10 +279,7 @@ sowie deren jeweiligen Zusammenschlüssen.
 des § 7 Abs. 1 darstellt, besteht ein Anspruch auf Mitgliedschaft oder
 Mitwirkung in den in Absatz 1 genannten Vereinigungen.
 
-
 ## Abschnitt 3 - Rechtsschutz
-
-
 
 ### § 15 Beweislast
 
@@ -318,7 +288,6 @@ Benachteiligung wegen eines in § 1 Abs. 1 und 2 Satz 1 genannten
 Grundes vermuten lassen, trägt die andere Partei die Beweislast dafür,
 dass kein Verstoß gegen die Bestimmungen zum Schutz vor
 Benachteiligung vorgelegen hat.
-
 
 ### § 16 Unterstützung durch Antidiskriminierungsverbände
 
@@ -345,17 +314,13 @@ gestattet.
 (4) Besondere Klagerechte und Vertretungsbefugnisse von Verbänden zu
 Gunsten von behinderten Menschen bleiben unberührt.
 
-
 ## Abschnitt 4 - Ergänzende Vorschriften
-
-
 
 ### § 17 Antidiskriminierungsstelle des Bundes
 
 Abschnitt 6 des Allgemeinen Gleichbehandlungsgesetzes über die
 Antidiskriminierungsstelle des Bundes findet im Rahmen dieses Gesetzes
 Anwendung.
-
 
 ### § 18 Schwerbehinderte Soldatinnen und Soldaten
 
@@ -385,12 +350,10 @@ von zwei Monaten, nachdem die schwerbehinderte Soldatin oder der
 schwerbehinderte Soldat von dem Nichtzustandekommen des beruflichen
 Aufstiegs Kenntnis erhalten hat, geltend gemacht werden.
 
-
 ### § 19 Unabdingbarkeit
 
 Von den Vorschriften dieses Gesetzes kann nicht zu Ungunsten der
 Soldatinnen und Soldaten abgewichen werden.
-
 
 ### § 20 Übergangsvorschrift
 

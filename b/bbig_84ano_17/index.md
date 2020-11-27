@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1023
 
-
-
 ## I.
 
 Auf Grund  des § 84 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -50,11 +48,9 @@ Bundesminister des Innern
 zur zuständigen Stelle für den Geschäftsbereich des Bundesministers
 für Gesundheit.
 
-
 ## II.
 
 Diese Anordnung tritt am Tage nach der Bekanntmachung in Kraft.
-
 
 ## Schlußformel
 

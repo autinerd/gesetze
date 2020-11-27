@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 417
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des
@@ -26,16 +24,13 @@ S. 2785) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
-
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kosmetiker/Kosmetikerin wird staatlich anerkannt.
 
-
 ## § 2 Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
-
 
 ## § 3 Struktur und Zielsetzung der Berufsausbildung
 
@@ -46,10 +41,6 @@ Die Ausbildung gliedert sich in:
 
 2.  von den Vertragsparteien festzulegende Wahlqualifikationseinheiten
     gemäß § 4 Abs. 2 Nr. 1 bis 7 im Umfang von insgesamt zwölf Wochen.
-
-
-
-
 
 ## § 4 Ausbildungsberufsbild
 
@@ -120,10 +111,6 @@ folgender Fertigkeiten und Kenntnisse:
 
 7.  Manuelle Lymphdrainage im kosmetischen Bereich.
 
-
-
-
-
 ## § 5 Ausbildungsrahmenplan
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der
@@ -142,12 +129,10 @@ Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1
 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9
 nachzuweisen.
 
-
 ## § 6 Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
-
 
 ## § 7 Berichtsheft
 
@@ -155,7 +140,6 @@ Der Auszubildende hat ein Berichtsheft in Form eines
 Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
 Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
 hat das Berichtsheft regelmäßig durchzusehen.
-
 
 ## § 8 Zwischenprüfung
 
@@ -177,7 +161,6 @@ berücksichtigen kann. Hierfür kommt insbesondere in Betracht:
 Durchführen einer Arbeit, die die Gebiete der dekorativen Kosmetik,
 der Körperpflege und der Handpflege unter Berücksichtigung des
 individuellen Hauttyps und der individuellen Hauterscheinung umfasst.
-
 
 ## § 9 Abschlussprüfung
 
@@ -308,11 +291,9 @@ ausreichende Leistungen erbracht sind. Wird die Leistung in einem der
 Prüfungsbereiche mit "ungenügend" bewertet, so ist die Prüfung nicht
 bestanden.
 
-
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
-
 
 ## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
 

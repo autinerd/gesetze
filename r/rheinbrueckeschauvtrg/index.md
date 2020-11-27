@@ -17,13 +17,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 986
 
-
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
 
 ## Art 1
 
@@ -31,7 +28,6 @@ Dem in Dijon am 5. Juni 1996 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und der Französischen Republik über den Bau
 einer Straßenbrücke über den Rhein zwischen Altenheim und Eschau wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
-
 
 ## Art 2
 
@@ -47,7 +43,6 @@ Verbrauchsteuerrechts auf die in Artikel 9 Abs. 1 des Vertrags
 bezeichneten Umsätze und Warenbewegungen als französisches
 Hoheitsgebiet. Sie ist insoweit nicht als Inland und Steuergebiet
 anzusehen.
-
 
 ## Art 3
 

@@ -19,7 +19,6 @@ Fundstelle
 Geändert durch
 :   Art. 2 § 3 Abs. 25 G v. 1.9.2005 I 2618
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
@@ -40,10 +39,6 @@ Landwirtschaft verordnet
     8\. August 2002 (BGBl. I S. 3116) geändert und § 19 Abs. 1a des
     Futtermittelgesetzes durch Artikel 1 Abs. 1 Nr. 3 des Gesetzes vom 8.
     August 2002 (BGBl. I S. 3116) eingefügt worden sind:
-
-
-
-
 
 ## § 1 Anforderungen an die Sachkunde
 
@@ -156,10 +151,6 @@ folgenden Tätigkeiten befähigt sein:
 11. Erstellen von Statistiken, Erstatten von Meldungen und sonstige
     Dokumentation der Kontrolltätigkeit.
 
-
-
-
-
 ## § 2 Nachweis der Sachkunde
 
 (1) Die Anforderungen nach § 1 erfüllt, wer
@@ -208,7 +199,6 @@ und die praktische Unterweisung einschließlich Praktika in diesen
 Themenfeldern nach einem von der zuständigen Behörde vorzulegenden
 Einarbeitungsplan abgeschlossen ist. Die erworbenen Kenntnisse und
 Fertigkeiten sind durch Bescheinigung nachzuweisen.
-
 
 ## § 3 Lehrgang
 
@@ -315,7 +305,6 @@ praktischen Unterweisung nach Absatz 1 Satz 2 Nr. 2 vermittelt werden,
 entsprechen, im Einzelfall Ausnahmen von der Praktikumsverpflichtung
 nach Absatz 1 Satz 2 Nr. 2 zulassen.
 
-
 ## § 4 Fortbildung
 
 (1) Die in § 1 genannten Personen haben mindestens alle zwei Jahre an
@@ -342,14 +331,12 @@ Fortbildungsveranstaltungen teil, in denen die unter § 3 Abs. 2 Nr. 1
 bis 3, 5 bis 10 und 12 genannten Kenntnisse und Fertigkeiten
 theoretisch und praktisch vermittelt und erweitert werden.
 
-
 ## § 5 Ergänzende Regelungen der Landesregierungen
 
 Die Landesregierungen können durch Rechtsverordnung nähere
 Vorschriften über den Lehrgang, die Prüfung und die Fortbildung
 erlassen. Bei den Ausbildungsplänen können Vorkenntnisse
 berücksichtigt werden.
-
 
 ## § 6 Übergangsvorschriften
 
@@ -376,11 +363,9 @@ Anforderungen durchzuführen. Der erfolgreiche Abschluss einer
 Fortbildungsmaßnahme nach Satz 2 ist durch Zeugnis oder Bescheinigung
 nachzuweisen.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt sechs Monate nach der Verkündung in Kraft.
-
 
 ## Schlussformel
 

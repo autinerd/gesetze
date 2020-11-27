@@ -18,14 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 V v. 20.1.2006 I 220
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1 und 5 und des § 3c Abs. 1 Satz 1 und 2
 Nr. 2 in Verbindung mit § 11 Abs. 1 Satz 2 des
 Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
 vom 4. August 1986 (BGBl. I S. 1270) wird verordnet:
-
 
 ## § 1
 
@@ -89,7 +87,6 @@ an.
 wird im Verkehrsblatt - Amtsblatt des Bundesministers für Verkehr, Bau
 und Stadtentwicklung der Bundesrepublik Deutschland - veröffentlicht.
 
-
 ## § 2
 
 Im Sinne dieser Verordnung sind
@@ -103,10 +100,6 @@ Im Sinne dieser Verordnung sind
     Fahrzeug gezogen, mit oder ohne Wasserski oder auf sonstigen
     Gegenständen über das Wasser gleiten, sowie das Drachenfliegen und
     Fallschirmfliegen hinter einem ziehenden Wasserfahrzeug.
-
-
-
-
 
 ## § 3
 
@@ -165,7 +158,6 @@ die im Verkehrsblatt bekannt gemacht wird, aufgeführt ist. Die
 Aufnahme in die Liste erfolgt, wenn der Typ die Anforderungen nach den
 Sätzen 1 und 2 erfüllt.
 
-
 ## § 4
 
 (1) Unbeschadet des § 1 Abs. 1 Satz 1 Nr. 1 dürfen nur mit Erlaubnis
@@ -192,7 +184,6 @@ Schiffahrt beeinträchtigen können, sowie bei der Erlaubnis nach Absatz
 Erteilung der Erlaubnis nach Absatz 1 oder 2 ihren nachgeordneten
 Wasser- und Schiffahrtsämtern übertragen.
 
-
 ## § 5
 
 Die Wasser- und Schiffahrtsdirektionen werden ermächtigt, durch
@@ -200,7 +191,6 @@ Rechtsverordnung für einzelne zum Wasserskilaufen freigegebene
 Strecken oder Wasserflächen von dieser Verordnung abweichende
 Regelungen zu treffen, soweit es die örtlichen Verhältnisse gebieten
 oder zulassen.
-
 
 ## § 6
 
@@ -221,19 +211,13 @@ fahrlässig
 
 4.  (weggefallen)
 
-
-
-
-
 ## § 7
 
 (weggefallen)
 
-
 ## § 8
 
 (weggefallen)
-
 
 ## Schlußformel
 

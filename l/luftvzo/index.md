@@ -18,14 +18,9 @@ Fundstelle
 Neufassung durch
 :   Bek. v. 10.7.2008 I 1229; zuletzt geändert durch Art. 2 V v. 8.5.2012 I 1032
 
-
 ## Erster Abschnitt - Zulassung des Luftfahrtgeräts und Eintragung der Luftfahrzeuge
 
-
-
 ### 1. - Musterzulassung des Luftfahrtgeräts
-
-
 
 #### § 1 Zulassungspflicht und Umfang der Zulassung
 
@@ -103,14 +98,12 @@ Einzelstücken.
 Nummer 1 gilt ohne Gewichtsbeschränkung auch für das zugehörige
 Schleppgerät.
 
-
 #### § 2 Zuständige Stellen
 
 Die Musterzulassung wird für Luftfahrtgerät nach § 1 Abs. 1 Nr. 7 und
 für Luftfahrtgerät nach § 1 Abs. 1 Nr. 8 bis zu einer höchstzulässigen
 Startmasse von 150 Kilogramm von dem Beauftragten nach § 31c des
 Luftverkehrsgesetzes, im Übrigen vom Luftfahrt-Bundesamt erteilt.
-
 
 #### § 3 Zulassungsvoraussetzungen
 
@@ -146,7 +139,6 @@ muss enthalten
 Lärm- und Abgasemissionsgrenzwerte nach Anhörung der
 Luftfahrtindustrie in den Nachrichten für Luftfahrer bekannt.
 
-
 #### § 4 Musterzulassung, Rücknahme und Widerruf
 
 (1) Das Muster eines Luftfahrtgeräts
@@ -174,7 +166,6 @@ einschränken, sich nicht durch die nach der Verordnung zur Prüfung von
 Luftfahrtgerät vorgeschriebenen Maßnahmen beheben lassen. Der
 Musterzulassungsschein ist einzuziehen.
 
-
 #### § 5 Änderung der Musterzulassung
 
 Wird ein zugelassenes Muster geändert und ist für die Änderung der
@@ -186,10 +177,7 @@ entwickelt wurde, wird durch Erteilung einer Ergänzung zur
 Musterzulassung zugelassen. Die Vorschriften der §§ 3 bis 4 sind
 entsprechend anzuwenden.
 
-
 ### 2. - Verkehrszulassung des Luftfahrtgeräts
-
-
 
 #### § 6 Umfang der Zulassung
 
@@ -232,14 +220,12 @@ Kilogramm und bis zu 150 Kilogramm bedürfen keiner Verkehrszulassung,
 wenn deren Verkehrssicherheit nach der Verordnung zur Prüfung von
 Luftfahrtgerät bestätigt ist.
 
-
 #### § 7 Zuständige Stellen
 
 Die Verkehrszulassung wird von dem Luftfahrt-Bundesamt erteilt. Die
 Verkehrszulassung der Luftsportgeräte wird von dem vom
 Bundesministerium für Verkehr, Bau und Stadtentwicklung Beauftragten
 erteilt.
-
 
 #### § 8 Zulassungsantrag
 
@@ -335,10 +321,6 @@ erteilt.
     an der Richtigkeit des vom Hersteller erbrachten Messergebnisses
     besteht.
 
-
-
-
-
 #### § 9 Verkehrszulassung, Rücknahme und Widerruf
 
 (1) Die zuständige Stelle lässt das Luftfahrtgerät durch Erteilung
@@ -383,10 +365,6 @@ muss enthalten:
 
 6.  Angabe jeder zusätzlichen Änderung, die zur Einhaltung der
     Anforderungen für das Lärmzeugnis vorgenommen wurde.
-
-
-
-
 
 #### § 10 Anerkennung ausländischer Lärmzeugnisse
 
@@ -477,7 +455,6 @@ folgenden Geräuschgrenzwerte einhalten:
 (2) Für alle übrigen Propellerflugzeuge, Motorsegler und Drehflügler
 gelten die nach § 3 Abs. 3 bekannt gegebenen Geräuschgrenzwerte.
 
-
 #### § 11 Anzeigepflichten
 
 (1) Der Halter des Luftfahrtgeräts hat der zuständigen Stelle
@@ -499,7 +476,6 @@ unverzüglich anzuzeigen, wenn der Halter des Geräts wechselt und mit
 dem neuen Halter vereinbart wird, dass er das Gerät für mindestens
 sechs Monate in Gebrauch nimmt.
 
-
 #### § 12 Vorläufige Verkehrszulassung
 
 (1) Luftfahrtgerät nach § 6 kann ausnahmsweise insbesondere für
@@ -520,7 +496,6 @@ Lufttüchtigkeitszeugnisses erfolgen.
 (3) § 9 Abs. 1 Satz 2, Abs. 2 und 3 sowie § 11 sind sinngemäß
 anzuwenden.
 
-
 #### § 13 Lufttüchtigkeitszeugnis für die Ausfuhr
 
 Für Luftfahrtgerät, das ausgeführt werden soll, kann die zuständige
@@ -528,10 +503,7 @@ Stelle ein Lufttüchtigkeitszeugnis für die Ausfuhr oder eine
 entsprechende Bescheinigung ausstellen, wenn der Nachweis der
 Lufttüchtigkeit erbracht ist.
 
-
 ### 3. - Luftfahrzeugregister und Kennzeichen
-
-
 
 #### § 14 Eintragungen in Luftfahrzeugregister
 
@@ -550,31 +522,25 @@ Luftsportgeräteverzeichnis eingetragen, Hängegleiter und Gleitsegel
 auf Antrag. Absatz 1 Satz 2 bis 4 gilt entsprechend, Absatz 1 Satz 4
 jedoch nicht für Hängegleiter und Gleitsegel.
 
-
 #### § 15
 
 (weggefallen)
-
 
 #### § 16
 
 (weggefallen)
 
-
 #### § 17
 
 (weggefallen)
-
 
 #### § 18
 
 (weggefallen)
 
-
 #### § 18a
 
 (weggefallen)
-
 
 #### § 19 Kennzeichen
 
@@ -590,7 +556,6 @@ Luftfahrzeug zu führen.
 Werknummer des Luftfahrzeugs ein Kennzeichen, für Luftsportgeräte
 befristet, vorgemerkt werden.
 
-
 #### § 19a Kodierung und Eintragung von 406 MHz-Notsendern
 
 (1) Notsender, die auf der Frequenz 406 MHz senden, müssen vor ihrer
@@ -605,10 +570,7 @@ Einzelheiten in den Nachrichten für Luftfahrer bekannt.
 Deutschland eingetragenen Notsenders ist dem Luftfahrt-Bundesamt
 unverzüglich mitzuteilen.
 
-
 ## Zweiter Abschnitt - Luftfahrtpersonal und synthetische Flugübungsgeräte
-
-
 
 ### § 20 Erlaubnispflichtiges Personal
 
@@ -759,7 +721,6 @@ Bestimmungen, die Richtlinien und Empfehlungen der Internationalen
 Zivilluftfahrt-Organisation sowie die europäischen Bestimmungen für
 den Erwerb von Lizenzen im Rahmen dieser Verordnung zu beachten.
 
-
 ### § 21 Sonstiges erlaubnispflichtiges Personal
 
 (1) Das sonstige erlaubnispflichtige Personal im Sinne des § 4 Abs. 2
@@ -778,7 +739,6 @@ des Luftverkehrsgesetzes umfasst:
 
 
 (2) § 20 Abs. 3 gilt entsprechend.
-
 
 ### § 22 Zuständige Stellen
 
@@ -836,7 +796,6 @@ die nach Absatz 1 Nr. 1 zuständige Stelle zustimmt.
 (5) Absatz 3 gilt entsprechend für den Widerruf, das Ruhen und die
 Beschränkung der Lizenz nach § 29.
 
-
 ### § 23 Mindestalter
 
 (1) Das Mindestalter zum Erlangen einer Lizenz beträgt
@@ -886,7 +845,6 @@ Beschränkung der Lizenz nach § 29.
 
 Die zuständige Stelle kann im Einzelfall einen früheren
 Ausbildungsbeginn zulassen.
-
 
 ### § 24 Voraussetzungen für die Ausbildung
 
@@ -1026,7 +984,6 @@ Verantwortliche Zweifel hat, dass der Bewerber die Voraussetzungen
 nach Absatz 1 erfüllt oder die erforderliche Zuverlässigkeit nach
 Absatz 2 Satz 2 besitzt.
 
-
 ### § 24a Tauglichkeitszeugnis
 
 (1) Das Tauglichkeitszeugnis wird gemäß dem entsprechenden Muster in
@@ -1047,7 +1004,6 @@ bei den Polizeien des Bundes und der Länder.
 Privatflugzeugführer, Privathubschrauberführer, Segelflugzeugführer,
 Flugingenieure, Freiballonführer mit der Lizenz nach § 46 Abs. 1 der
 Verordnung über Luftfahrtpersonal und Führer von Luftsportgeräten.
-
 
 ### § 24b Tauglichkeitsuntersuchungen
 
@@ -1096,7 +1052,6 @@ Lizenzerteilung zuständigen Stelle die ihm nach Absatz 4 übermittelten
 Daten zum Zweck der Durchführung der Aufsicht nach § 24e Abs. 7 über
 die nach § 24e Abs. 2 anerkannten Sachverständigen.
 
-
 ### § 24c Weitergehende Überprüfung der Tauglichkeit
 
 (1) Wenn ein anerkanntes flugmedizinisches Zentrum oder ein nach § 24e
@@ -1136,7 +1091,6 @@ anordnen, dass der Betroffene seine Zuverlässigkeit oder Tauglichkeit
 durch eine Begutachtung durch ein von ihr bestimmtes flugmedizinisches
 Zentrum nach § 24e Abs. 4 oder ein von ihr bestimmten
 flugmedizinischen Sachverständigen nach § 24e Abs. 2 oder 3 nachweist.
-
 
 ### § 24d Erteilung und Gültigkeit eines Tauglichkeitszeugnisses
 
@@ -1202,7 +1156,6 @@ Luftfahrt-Bundesamt mitzuteilen. § 29 bleibt unberührt.
 
 (5) Das Tauglichkeitszeugnis der für die Tätigkeit vorgeschriebenen
 Klasse ist beim Betrieb des Luftfahrzeugs mitzuführen.
-
 
 ### § 24e Anerkennung als flugmedizinischer Sachverständiger
 
@@ -1396,7 +1349,6 @@ vorübergehend entfallen sind oder erteilte Auflagen nicht eingehalten
 werden. Der Widerruf wird in den Nachrichten für Luftfahrer bekannt
 gemacht.
 
-
 ### § 25 Antrag auf Erteilung einer Lizenz
 
 (1) Der Antrag auf Erteilung der Lizenz kann schon vor Ablegung der
@@ -1426,10 +1378,6 @@ Voraussetzungen zu stellen.
 
 4.  ein Passbild.
 
-
-
-
-
 ### § 26 Erteilung der Lizenz
 
 (1) Die zuständige Stelle erteilt die Lizenz durch Aushändigung eines
@@ -1446,7 +1394,6 @@ Voraussetzungen der nach § 20 Abs. 2 oder 3 anzuwendenden Vorschriften
 erfüllt. Der Luftfahrerschein ist zusammen mit dem Personalausweis
 oder Reisepass und dem Tauglichkeitszeugnis bei Ausübung der
 erlaubnispflichtigen Tätigkeit mitzuführen.
-
 
 ### § 26a Voraussetzungen für Verlängerung und Erneuerung der Lizenz
 
@@ -1470,13 +1417,11 @@ zuständigen Stelle unter Vorlage der Bescheinigung über die
 Sprachkenntnisse die Stufe der festgestellten Sprachkenntnisse und das
 Datum des Ablaufs der Geltungsdauer mitzuteilen.
 
-
 ### § 26b Ausübung der Rechte aus einer Lizenz
 
 Die Rechte aus der Lizenz dürfen nur ausgeübt werden, wenn der Inhaber
 neben dem Luftfahrerschein ein gültiges Tauglichkeitszeugnis nach §
 24d mitführt.
-
 
 ### § 27 Lizenzen der Bundeswehr
 
@@ -1513,7 +1458,6 @@ Beendigung des Dienstverhältnisses gestellt ist. Wird der Antrag
 später gestellt, so erteilt die zuständige Stelle eine zivile Lizenz,
 sofern die Voraussetzungen für die Erneuerung der beantragten Lizenz
 erfüllt sind. Absatz 2 Satz 2 gilt sinngemäß.
-
 
 ### § 28 Anerkennung von Lizenzen und Berechtigungen
 
@@ -1567,7 +1511,6 @@ sind, gilt nicht für Luftsportgeräte nach § 1 Abs. 4.
 entsprechende deutsche Ausweise erteilen. § 20 Abs. 2 bleibt
 unberührt.
 
-
 ### § 28a Anerkennung von Lizenzen, die in einem Mitgliedstaat der Europäischen Union erteilt wurden
 
 (1) Eine von einem Mitgliedstaat der Europäischen Union erteilte
@@ -1616,7 +1559,6 @@ sowie zu Prüfungen und Verfahren zum Erwerb von Lizenzen und
 Berechtigungen in derselben Weise wie deutsche Staatsangehörige
 zugelassen.
 
-
 ### § 28b Anerkennung synthetischer Flugübungsgeräte anderer Staaten
 
 (1) Qualifikationen von synthetischen Flugübungsgeräten, die nicht im
@@ -1632,7 +1574,6 @@ Behörde nach anderen Vorschriften als den JAR-STD bewertet worden
 sind, können vom Luftfahrt-Bundesamt anerkannt werden, sofern ein
 vergleichbares Ergebnis in Bezug auf die Eignung für die Ausbildungs-,
 Prüfungs- oder Überprüfungszwecke sichergestellt werden kann.
-
 
 ### § 29 Widerruf, Ruhen und Beschränkung der Lizenz
 
@@ -1684,7 +1625,6 @@ des Luftfahrerscheins abzugeben. Dies gilt auch dann, wenn für einen
 abhanden gekommenen Luftfahrerschein bereits eine neue Ausfertigung
 beantragt wurde.
 
-
 ### § 30 Ausbildungserlaubnis
 
 (1) Die Ausbildung von Luftfahrern darf nur in Ausbildungsbetrieben
@@ -1720,7 +1660,6 @@ Berechtigung zur praktischen Ausbildung von Luftfahrern besitzen. Die
 Berechtigung zur praktischen Ausbildung von Luftfahrern wird nach den
 gemäß § 20 Abs. 2 oder 3 anzuwendenden Vorschriften erteilt.
 
-
 ### § 31 Zuständige Stellen
 
 (1) Die Erlaubnis oder Registrierung wird
@@ -1747,7 +1686,6 @@ zuständig, in deren Bereich der Schwerpunkt der Ausbildung liegt. Im
 Zweifel bestimmen die obersten Luftfahrtbehörden der beteiligten
 Länder im gegenseitigen Einvernehmen die nach Absatz 1 Nr. 1
 zuständige Behörde.
-
 
 ### § 32 Antrag auf Erteilung der Erlaubnis oder Registrierung
 
@@ -1808,10 +1746,6 @@ enthalten:
 
     die Angaben nach Anlage 2.
 
-
-
-
-
 ### § 33 Erteilung und Umfang der Erlaubnis oder Registrierung
 
 (1) Die zuständige Stelle erteilt die Erlaubnis für
@@ -1867,7 +1801,6 @@ und von den Beauftragten nach § 31c Satz 1 Nr. 3 des
 Luftverkehrsgesetzes in der Informationsschrift des Beauftragten
 bekannt gemacht.
 
-
 ### § 34 Erleichterungen
 
 Für die Ausbildung von Privatflugzeugführern und
@@ -1877,7 +1810,6 @@ gilt die Erlaubnis nach § 30 Abs. 1 als erteilt, wenn die
 Ausbildungseinrichtung oder ein Verband zusammengeschlossener
 Ausbildungseinrichtungen von der zuständigen Stelle registriert wurde.
 § 33 Abs. 2, 3 und 5 gilt entsprechend.
-
 
 ### § 35 Beginn der Ausbildung
 
@@ -1890,7 +1822,6 @@ Nachrichten für Luftfahrer bekannt. Die Ausbildungseinrichtungen für
 Führer von nichtmotorgetriebenen Luftsportgeräten werden vom
 Beauftragten nach § 31c des Luftverkehrsgesetzes in geeigneter Weise
 öffentlich bekannt gemacht.
-
 
 ### § 36 Aufsicht
 
@@ -1910,7 +1841,6 @@ synthetischen Übungsgeräten, Anzahl und Muster der zur Ausbildung
 verwendeten Luftfahrzeuge, ggf. Art der verwendeten synthetischen
 Übungsgeräte sowie besondere Vorkommnisse.
 
-
 ### § 37 Rücknahme und Widerruf
 
 Die Erlaubnis ist zurückzunehmen, wenn die Voraussetzungen für ihre
@@ -1919,14 +1849,9 @@ Voraussetzungen für die Erteilung nachträglich nicht nur vorübergehend
 entfallen sind. Sie kann widerrufen werden, wenn länger als ein Jahr
 von der Erlaubnis kein Gebrauch gemacht worden ist.
 
-
 ## Dritter Abschnitt - Flugplätze
 
-
-
 ### 1. - Flughäfen
-
-
 
 #### § 38 Begriffsbestimmungen und Einteilung
 
@@ -1941,10 +1866,6 @@ nach § 12 des Luftverkehrsgesetzes bedürfen.
 
 2.  Flughäfen für besondere Zwecke (Sonderflughäfen).
 
-
-
-
-
 #### § 39 Genehmigungsbehörde
 
 (1) Die Genehmigung eines Flughafens wird von der Luftfahrtbehörde des
@@ -1956,7 +1877,6 @@ Vorschriften des Luftverkehrsgesetzes über Baubeschränkungen im
 Bauschutzbereich die Behörde des Landes, in dem der überwiegende Teil
 des Geländes liegt. Die Genehmigung bedarf der Zustimmung der
 Luftfahrtbehörden der beteiligten Länder.
-
 
 #### § 40 Antrag auf Erteilung der Genehmigung
 
@@ -2067,7 +1987,6 @@ Luftfahrtbehörden der beteiligten Länder.
 Sachverständigengutachten, fordern. Sie bestimmt, in welcher Anzahl
 der Antrag und die Unterlagen einzureichen sind.
 
-
 #### § 41 Anzeigepflichten, Änderungsanträge
 
 (1) Das Flughafenunternehmen hat beabsichtigte bauliche und
@@ -2078,7 +1997,6 @@ rechtzeitig anzuzeigen.
 Flughafenunternehmen einzureichen sind, wenn der Ausbauplan, die
 Anlage oder der Betrieb des Flughafens wesentlich erweitert oder
 geändert werden soll.
-
 
 #### § 42 Erteilung und Umfang der Genehmigung, Festlegung des Ausbauplans
 
@@ -2148,7 +2066,6 @@ nach Absatz 2 Nr. 10 jedoch nur dann, wenn die Auflagen auch der
 Einschränkung von Lärmauswirkungen auf die Umgebung des Flughafens
 dienen.
 
-
 #### § 43 Flughafenbenutzungsordnung
 
 (1) Vor Betriebsaufnahme hat das Flughafenunternehmen der
@@ -2166,11 +2083,9 @@ Einzelanweisungen, festzulegen.
 (3) Die Genehmigungsbehörde veranlasst die Bekanntmachung der
 Flughafenbenutzungsordnung in den Nachrichten für Luftfahrer.
 
-
 #### § 43a (weggefallen)
 
 —
-
 
 #### § 44 Betriebsaufnahme
 
@@ -2183,7 +2098,6 @@ Betriebsaufnahme in den Nachrichten für Luftfahrer.
 (3) Die Absätze 1 und 2 sind sinngemäß auf die Genehmigung
 wesentlicher Erweiterungen oder Änderungen der Anlage und des
 Betriebes anzuwenden.
-
 
 #### § 45 Erhaltungs- und Betriebspflicht
 
@@ -2213,7 +2127,6 @@ zuständigen Behörde anzuzeigen. Die Bestellung ist zu widerrufen, wenn
 die Behörde die bestellte Person zur Erfüllung der Aufgabe nicht für
 geeignet und zuverlässig hält.
 
-
 #### § 45a Flugplatzhandbuch
 
 Zur Erfüllung seiner Pflicht nach § 45 Abs. 1 Satz 1 hat das
@@ -2222,7 +2135,6 @@ die wesentlichen Informationen über Lage, Einrichtungen, Dienste,
 Ausstattung, operative Verfahren, Betriebsorganisation und
 Betriebsleitung sowie über das Sicherheitsmanagementsystem gemäß §
 45b.
-
 
 #### § 45b Sicherheitsmanagementsystem
 
@@ -2240,7 +2152,6 @@ Dokumentation sind die erkannten Gefahrenquellen, die im Zuge der
 Überprüfung geboten erscheinenden Abhilfemaßnahmen und die unmittelbar
 veranlassten Abhilfemaßnahmen aufzunehmen. Die Dokumentation ist für
 mindestens zehn Jahre aufzubewahren.
-
 
 #### § 45c Beauftragter für das Sicherheitsmanagementsystem
 
@@ -2271,7 +2182,6 @@ Sicherheitsmanagementsystem und deren Hilfspersonal wegen der
 Erfüllung der übertragenen Aufgaben nicht benachteiligen. Der Widerruf
 der Bestellung als Beauftragter für das Sicherheitsmanagementsystem
 bedarf der Zustimmung der Genehmigungsbehörde.
-
 
 #### § 46 Sicherung von Flughäfen
 
@@ -2306,7 +2216,6 @@ gekennzeichneten Teile des Flughafens ist Unbefugten verboten.
 Bauschutzbereiches sind nach näherer Weisung der Genehmigungsbehörde
 kenntlich zu machen.
 
-
 #### § 46a Vollzug der Verordnung (EG) Nr. 1107/2006
 
 Das Luftfahrt-Bundesamt ist Durchsetzungs- und Beschwerdestelle im
@@ -2314,7 +2223,6 @@ Sinne der Artikel 14 und 15 der Verordnung (EG) Nr. 1107/2006 des
 Europäischen Parlaments und des Rates vom 5. Juli 2006 über die Rechte
 von behinderten Flugreisenden und Flugreisenden mit eingeschränkter
 Mobilität (ABl. EU Nr. L 204 S. 1).
-
 
 #### § 47 Aufsicht
 
@@ -2351,7 +2259,6 @@ nehmen.
 (3) Die Zuständigkeit anderer Behörden zur Wahrnehmung ihrer Aufgaben
 auf dem Flughafen bleibt unberührt.
 
-
 #### § 48 Rücknahme und Widerruf der Genehmigung
 
 (1) Die Genehmigung ist zurückzunehmen, wenn die Voraussetzungen für
@@ -2364,10 +2271,7 @@ erteilten Auflagen nicht eingehalten werden.
 anderen Gründen ist bekannt zu machen; § 42 Abs. 4 Satz 1 ist
 sinngemäß anzuwenden.
 
-
 ### 2. - Lärmbedingte Betriebsbeschränkungen von knapp die Vorschriften erfüllenden zivilen Unterschallstrahlflugzeugen an Flughäfen
-
-
 
 #### § 48a Begriffsbestimmungen
 
@@ -2438,10 +2342,6 @@ Im Sinne der §§ 48a bis 48f ist:
     betroffen ist oder betroffen werden kann oder ein berechtigtes
     Interesse an solchen Maßnahmen hat.
 
-
-
-
-
 #### § 48b Lärmbedingte Betriebsbeschränkungen an einem Flughafen
 
 (1) Die Luftfahrtbehörde kann unbeschadet anderweitig bereits
@@ -2479,7 +2379,6 @@ der Staatszugehörigkeit der betroffenen Luftfahrtunternehmen oder des
 Flugzeugherstellers des betroffenen Fluggerätes in
 wettbewerbsneutraler Weise erfolgen.
 
-
 #### § 48c Prüfung für die Einführung von lärmbedingten Betriebsbeschränkungen
 
 (1) Bei der Prüfung der Einführung von Betriebsbeschränkungen nach §
@@ -2500,7 +2399,6 @@ technische Änderungen partieller Betriebsbeschränkungen, die für die
 Luftfahrtunternehmen an dem Flughafen keine signifikanten
 Kostenauswirkungen haben und die nach dem 9. April 2005 vorgenommen
 werden.
-
 
 #### § 48d Fristen zur Einführung von lärmbedingten Betriebsbeschränkungen
 
@@ -2524,10 +2422,6 @@ b)  nach weiteren sechs Monaten kann von jedem Luftfahrtunternehmen
     ursprünglichen Gesamtzahl an Flugbewegungen mit Fluggerät im Sinne von
     § 48a Nr. 4 zu vermindern.
 
-
-
-
-
 #### § 48e Verfahren zur Einführung von lärmbedingten Betriebsbeschränkungen
 
 (1) Die Luftfahrtbehörde macht die Absicht zur Einführung von
@@ -2541,7 +2435,6 @@ Bestimmung sechs Monate und im Fall des Buchstaben b ein Jahr vor
 Wirksamwerden, wobei als Beginn der Wirksamkeit ein Zeitpunkt
 festzusetzen ist, der zwei Monate nach der Flugplankonferenz für die
 anstehende Flugplanperiode liegen soll.
-
 
 #### § 48f Ausnahmegenehmigungen
 
@@ -2568,10 +2461,7 @@ Einnahmen erzielt werden. Die Luftfahrtbehörde kann geeigneten
 Personen als Beliehenen die Wahrnehmung der Aufgaben nach Satz 1 und 2
 übertragen. Die Beleihung kann jederzeit widerrufen werden.
 
-
 ### 3. - Landeplätze
-
-
 
 #### § 49 Begriffsbestimmung und Einteilung
 
@@ -2587,15 +2477,10 @@ Segelfluggelände dienen.
 
 2.  Landeplätze für besondere Zwecke (Sonderlandeplätze).
 
-
-
-
-
 #### § 50 Genehmigungsbehörde
 
 Die Genehmigung eines Landeplatzes wird von der Luftfahrtbehörde des
 Landes erteilt, in dem das Gelände liegt. § 39 Abs. 2 ist anzuwenden.
-
 
 #### § 51 Antrag auf Erteilung der Genehmigung
 
@@ -2675,7 +2560,6 @@ Absatzes 1 zulassen.
 Landflugzeugen dienen sollen, bestimmt die Genehmigungsbehörde die
 Antragserfordernisse.
 
-
 #### § 52 Erteilung und Umfang der Genehmigung
 
 (1) Für die Genehmigung des Landeplatzes gilt § 42 Abs. 1
@@ -2696,7 +2580,6 @@ entsprechend.
 
 
 (3) § 42 Abs. 4 gilt entsprechend.
-
 
 #### § 53 Anzuwendende Vorschriften
 
@@ -2730,10 +2613,7 @@ Sicherheitsmanagementsystems gegenüber dem Landeplatzhalter anordnet.
 Flugbewegungen in der in § 48a Nr. 1 bestimmten Höhe aufweist und den
 Betrieb von zivilen Unterschallstrahlflugzeugen zulässt.
 
-
 ### 4. - Segelfluggelände
-
-
 
 #### § 54 Begriffsbestimmung
 
@@ -2749,13 +2629,11 @@ werden. Die Erstreckung erfolgt auf Antrag des Antragstellers der
 Genehmigung oder bei bereits erteilter Genehmigung auf Antrag des
 Halters des Segelfluggeländes.
 
-
 #### § 55 Genehmigungsbehörde
 
 Die Genehmigung eines Segelfluggeländes wird von der Luftfahrtbehörde
 des Landes erteilt, in dem das Gelände liegt. § 39 Abs. 2 ist
 anzuwenden.
-
 
 #### § 56 Antrag auf Erteilung der Genehmigung
 
@@ -2800,7 +2678,6 @@ anzuwenden.
 die Genehmigungsbehörde Ausnahmen von den Antragserfordernissen des
 Absatzes 1 zulassen.
 
-
 #### § 57 Erteilung und Umfang der Genehmigung
 
 (1) Für die Genehmigung eines Segelfluggeländes gilt § 42 Abs. 1
@@ -2831,13 +2708,11 @@ Amtsblättern der Länder, auf die sich der Bauschutzbereich erstreckt.
 Die Bekanntmachung muss die Angaben nach Absatz 2 Nr. 1, 2 und 3
 enthalten; § 42 Abs. 4 Satz 2 zweiter Halbsatz gilt entsprechend.
 
-
 #### § 58 Betrieb des Segelfluggeländes
 
 Bei dem Betrieb des Segelfluggeländes gelten § 41 Abs. 1, § 44 Abs. 1,
 § 45 Abs. 1, § 46 Abs. 5 und § 53 Abs. 3 entsprechend. Für den Halter
 eines Segelfluggeländes besteht keine Betriebspflicht.
-
 
 #### § 59 Sicherung des Segelfluggeländes
 
@@ -2847,7 +2722,6 @@ auch auf Teile des Segelfluggeländes und auf bestimmte Zeiten
 beschränkt werden können. Das Betreten der eingefriedeten oder durch
 Verbotsschilder gekennzeichneten Teile des Segelfluggeländes ist
 Unbefugten verboten.
-
 
 #### § 60 Anzuwendende Vorschriften
 
@@ -2859,14 +2733,9 @@ und Abs. 3 und für die Rücknahme oder den Widerruf der Genehmigung §
 Betrieb von Luftsportgeräten dienen, obliegt die Aufsicht dem
 Beauftragten.
 
-
 ## Vierter Abschnitt - Verwendung und Betrieb von Luftfahrtgerät
 
-
-
 ### 1. - Gewerbsmäßige Verwendung von Luftfahrzeugen
-
-
 
 #### § 61 Genehmigungsbehörde, Zulassungsbehörde
 
@@ -2924,10 +2793,6 @@ in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) richtet sich
     Verkehr, Bau und Stadtentwicklung in deutscher Übersetzung bekannt
     gemachten Fassung (JAR-OPS 3 deutsch) vom 4. August 1998 (BAnz. Nr.
     182a vom 29. September 1998).
-
-
-
-
 
 #### § 62 Antrag auf Erteilung der Genehmigung
 
@@ -3008,7 +2873,6 @@ geltenden Fassung gilt Absatz 1 Nr. 1 bis 5, 7 bis 10 entsprechend.
 Weitere nach der Verordnung (EG) Nr. 1008/2008 zu erbringende
 Nachweise bleiben hiervon unberührt.
 
-
 #### § 62a Flugliniengenehmigung für Luftfahrtunternehmen mit Hauptsitz im Geltungsbereich des Luftverkehrsrechts der Europäischen Gemeinschaft
 
 (1) Die Flugliniengenehmigung nach § 21 Abs. 1 bis 3 des
@@ -3038,7 +2902,6 @@ mit ausländischen Staaten für Luftfahrtunternehmen mit Hauptsitz im
 Geltungsbereich des Luftverkehrsrechts der Europäischen Gemeinschaft
 ergebenden Verkehrsrechte fest. Es gibt dieses Verfahren im
 Bundesanzeiger und in den Nachrichten für Luftfahrer bekannt.
-
 
 #### § 63 Betriebsgenehmigung für Luftfahrtunternehmen aus Staaten außerhalb des Geltungsbereichs des Gemeinschaftsrechts
 
@@ -3095,11 +2958,9 @@ genannten Nachweise verzichten.
 (4) Bei der Antragstellung ist der Luftsicherheitsplan (§ 20a des
 Luftverkehrsgesetzes) vorzulegen.
 
-
 #### § 63a (weggefallen)
 
 -
-
 
 #### § 63b Flugplan
 
@@ -3109,7 +2970,6 @@ Sommerflugplanperiode, bis zum 30. September für die
 Winterflugplanperiode eines jeden Jahres) die Vorlage des Flugplans
 verlangen. Der Flugplan wird wirksam, wenn die zuständige Behörde
 nicht innerhalb von zwei Wochen nach Eingang widerspricht.
-
 
 #### § 63c Flugpreise
 
@@ -3125,7 +2985,6 @@ der Bundesrepublik Deutschland und anderen Staaten, in die der
 Linienverkehr durchgeführt wird, festgelegt sind. Soweit diese
 Regelungen nicht entgegenstehen, wird der vorgelegte Flugpreis zwei
 Wochen nach Eingang wirksam.
-
 
 #### § 63d Nichtbeförderung bei Überbuchung, Annullierung und Verspätung von Flügen
 
@@ -3162,10 +3021,6 @@ Nr. L 46 S. 1) wird bestimmt:
     ein berechtigtes Interesse nachweisen, weitergeben. Die Verfolgung von
     Ansprüchen und Beschwerden muss in deutscher Sprache möglich sein.
 
-
-
-
-
 #### § 64 Anzeigepflichten
 
 Änderungen der Betriebsgrundlagen, die Gegenstand der jeweiligen
@@ -3175,7 +3030,6 @@ Inhaber der Genehmigung nach den §§ 61 und 62 eine juristische Person
 oder eine Personengesellschaft, so sind Veränderungen hinsichtlich der
 vertretungsberechtigten Personen ebenfalls der Genehmigungsbehörde
 anzuzeigen.
-
 
 #### § 65 Aufsicht
 
@@ -3191,10 +3045,7 @@ Unternehmens durchführen.
 eine andere Stelle zur Genehmigungsbehörde bestimmt, hat diese die
 Befugnisse nach Absatz 1.
 
-
 ### 2. - Nichtgewerbsmäßige Verwendung von Luftfahrzeugen
-
-
 
 #### § 66 Genehmigungsbehörde
 
@@ -3204,7 +3055,6 @@ seinen Wohnsitz oder Sitz hat, erteilt. Die Genehmigung kann von der
 Luftfahrtbehörde eines anderen Landes erteilt werden, wenn der
 Schwerpunkt der beabsichtigten Tätigkeit in diesem Lande liegt und die
 nach Satz 1 zuständige Behörde zustimmt.
-
 
 #### § 67 Antrag auf Erteilung der Genehmigung
 
@@ -3220,19 +3070,13 @@ Staates erbracht.
 Nachweise fordern, die für eine Entscheidung über den Antrag nach
 Absatz 1 erforderlich sind.
 
-
 #### § 68 Anzuwendende Vorschrift
 
 Auf die Aufsicht ist § 65 sinngemäß anzuwenden.
 
-
 ### 3. - (§§ 69 bis 72 weggefallen)
 
-
-
 ### 4. - Luftfahrtveranstaltungen
-
-
 
 #### § 73 Genehmigungsbehörde
 
@@ -3253,7 +3097,6 @@ Die Genehmigung von Luftfahrtveranstaltungen wird
 
 
 erteilt.
-
 
 #### § 74 Antrag auf Erteilung der Genehmigung
 
@@ -3300,7 +3143,6 @@ motorgetriebene Luftsportgeräte teilnehmen, die nicht der
 Verkehrszulassungspflicht unterliegen und mit denen keine Fluggäste
 befördert werden können, bedürfen nicht der Genehmigung.
 
-
 #### § 75 Nebenbestimmungen und Aufsicht
 
 (1) Die Genehmigung kann mit Auflagen verbunden und befristet werden.
@@ -3308,10 +3150,7 @@ befördert werden können, bedürfen nicht der Genehmigung.
 
 (2) Für die Aufsicht gilt § 65 entsprechend.
 
-
 ### 5. - Mitführen gefährlicher Güter
-
-
 
 #### § 76 Begriffsabgrenzung
 
@@ -3341,14 +3180,9 @@ Gefährliche Güter im Sinne dieser Verordnung sind
     besitzen, die sie zu Beförderungen in Luftfahrzeugen ungeeignet
     machen.
 
-
-
-
-
 #### § 77
 
 (weggefallen)
-
 
 #### § 78 Erlaubnis, Rücknahme und Widerruf
 
@@ -3395,14 +3229,9 @@ der Basis eines von der BAM genehmigten Qualitätssicherungsprogrammes.
 Absätzen 1 und 2 ist § 20 Abs. 3 des Luftverkehrsgesetzes sinngemäß
 anzuwenden.
 
-
 ### 6. - (§§ 79 bis 80 weggefallen)
 
-
-
 ### 7. - Einrichtung von Bodenfunkstellen
-
-
 
 #### § 81 Erforderliche Zustimmung
 
@@ -3426,7 +3255,6 @@ Flugsicherungsorganisation einzuholen. Für die Überwachung gilt Absatz
 Absätzen 1 und 2 betraute Personal muss sachkundig sein und seine
 Befähigung dem Bundesaufsichtsamt für Flugsicherung nachweisen.
 
-
 #### § 82 Zustimmung, Rücknahme und Widerruf
 
 (1) Auf die Zustimmung, ihre Rücknahme und ihren Widerruf ist § 63
@@ -3441,21 +3269,15 @@ Regulierungsbehörde für Telekommunikation und Post angegebene Zwecke
 verwendet, so kann die Zustimmung unbeschadet von Maßnahmen des
 Bundesamtes für Post und Telekommunikation widerrufen werden.
 
-
 ### 8. - (§§ 83 bis 89 weggefallen)
 
-
-
 ### 9. - Ausflug oder Verbringung deutscher Luftfahrzeuge aus dem Hoheitsgebiet der Bundesrepublik Deutschland
-
-
 
 #### § 90 Erlaubnisbehörde
 
 Die Erlaubnis zum Ausflug nach § 2 Abs. 6 des Luftverkehrsgesetzes
 wird von dem Bundesministerium für Verkehr, Bau und Stadtentwicklung
 oder einer anderen von ihm bestimmten Stelle erteilt.
-
 
 #### § 91 Antrag auf Erteilung der Erlaubnis
 
@@ -3491,7 +3313,6 @@ Sonnabend nicht als Werktag.
 verlangen, die für eine Entscheidung über den Antrag nach Absatz 1
 erforderlich sind.
 
-
 #### § 92 Erlaubnisfreier Ausflug und erlaubnisfreie Verbringung
 
 (1) Der Erlaubnis nach § 2 Abs. 6 des Luftverkehrsgesetzes bedarf es
@@ -3525,7 +3346,6 @@ Strafverfolgung zu unterbreiten oder Verdächtige auszuliefern sowie
 entführte Luftfahrzeuge an den Staat zurückzugeben, in dem diese
 eingetragen sind.
 
-
 #### § 93 Erteilung der Erlaubnis, Rücknahme, Widerruf und Aufsicht
 
 (1) Die Erlaubnis wird für jeden einzelnen Ausflug oder allgemein oder
@@ -3550,24 +3370,19 @@ entsprechend.
 (5) Für die Aufsicht beim Vollzug der Absätze 1 bis 4 ist § 65
 sinngemäß anzuwenden.
 
-
 #### § 93a Verbringung von Luftfahrzeugen auf andere Weise aus dem Hoheitsgebiet der Bundesrepublik Deutschland
 
 Dem Ausflug im Sinne der Vorschriften dieses Unterabschnittes steht
 die Verbringung von Luftfahrzeugen auf andere Weise aus dem
 Hoheitsgebiet der Bundesrepublik Deutschland gleich.
 
-
 ### 10. - Einflug und Verbringung ausländischer Luftfahrzeuge in das Hoheitsgebiet der Bundesrepublik Deutschland
-
-
 
 #### § 94 Erlaubnisbehörde
 
 Die Erlaubnis zum Einflug nach § 2 Abs. 7 des Luftverkehrsgesetzes
 wird, unbeschadet von § 97, vom Bundesministerium für Verkehr, Bau und
 Stadtentwicklung oder einer von ihm bestimmten Stelle erteilt.
-
 
 #### § 95 Antrag auf Erteilung der Erlaubnis
 
@@ -3622,7 +3437,6 @@ demselben Unternehmen gehörenden oder für dieses Unternehmen
 fliegenden Luftfahrzeug in den Geltungsbereich dieser Verordnung
 gebracht wurden.
 
-
 #### § 96 Vereinfachte Erteilung der Erlaubnis
 
 Für den Einflug von Luftfahrzeugen, welche die vorgeschriebenen
@@ -3636,7 +3450,6 @@ Verwaltungsverfahrensgesetzes bestellten inländischen
 Empfangsbevollmächtigten eingereicht wurde, der zugleich der
 Genehmigungsbehörde als Zustellungsbevollmächtigter nach § 8 des
 Verwaltungszustellungsgesetzes benannt worden ist.
-
 
 #### § 96a Beschränkungen bei Erlaubnisfreiheit
 
@@ -3668,7 +3481,6 @@ nach gleiche Beschränkungen festsetzen, denen Luftfahrtunternehmen,
 die ihren Hauptsitz im Geltungsbereich dieser Verordnung haben, im
 Heimatstaat jener Unternehmen unterliegen.
 
-
 #### § 96b Verpflichtung zum Verlassen des Hoheitsgebiets der Bundesrepublik Deutschland
 
 Luftfahrzeuge, für die eine Erlaubnis zum Einflug in deutsches
@@ -3677,7 +3489,6 @@ der im Antrag oder in der Erlaubniserteilung genannten Frist oder,
 falls keine Frist angegeben ist, nach Erledigung des mit dem Einflug
 verfolgten Zweckes wieder zu verlassen. In besonderen Ausnahmefällen
 kann auf Antrag die Aufenthaltsdauer verlängert werden.
-
 
 #### § 97 Ausländische Staatsluftfahrzeuge
 
@@ -3697,12 +3508,10 @@ ablehnt.
 Absatzes 1 an die Stelle der in § 78 Abs. 1 genannten
 Erlaubnisbehörde.
 
-
 #### § 98 Anzuwendende Vorschriften
 
 Für die Erteilung der Erlaubnis, Rücknahme, Widerruf und Aufsicht ist
 § 93 sinngemäß anzuwenden.
-
 
 #### § 99 Kennzeichen und Versicherungsnachweis ausländischer Luftfahrzeuge
 
@@ -3753,7 +3562,6 @@ Versicherungsschutz für Hin- und Rückflug besteht. Die Bescheinigung
 muss entweder in deutscher, englischer, französischer oder spanischer
 Sprache ausgestellt sein. Absatz 4 Satz 3 ist entsprechend anzuwenden.
 
-
 #### § 100 Unberechtigter Einflug ausländischer Luftfahrzeuge
 
 (1) Gerät ein ausländisches Luftfahrzeug in den Geltungsbereich dieser
@@ -3768,21 +3576,15 @@ Weiterflug abzuwarten.
 Passnachschau zuständigen Behörde und der zuständigen Zollbehörde
 erteilt werden.
 
-
 #### § 100a Verbringung von Luftfahrzeugen auf andere Weise in das Hoheitsgebiet der Bundesrepublik Deutschland
 
 Dem Einflug im Sinne der Vorschriften dieses Unterabschnittes steht
 die Verbringung von Luftfahrzeugen auf andere Weise in das
 Hoheitsgebiet der Bundesrepublik Deutschland gleich.
 
-
 ## Fünfter Abschnitt - Haftpflichtversicherung
 
-
-
 ### 1. - Anwendungsbereich
-
-
 
 #### § 101 Anwendungsbereich
 
@@ -3823,10 +3625,7 @@ Abschnitts, soweit
 
 nicht anwendbar sind oder keine Regelungen enthalten.
 
-
 ### 2. - Haftpflichtversicherung für Drittschäden
-
-
 
 #### § 102 Vertragsinhalt
 
@@ -3840,7 +3639,6 @@ Luftfahrzeugen nach § 37 Abs. 1 des Luftverkehrsgesetzes.
 (3) Für Drachen, Flugmodelle und nichtmotorgetriebene Luftsportgeräte
 ist Gruppenversicherung zulässig.
 
-
 #### § 102a Anzeigepflicht
 
 Der Versicherer und der Versicherungspflichtige haben jede
@@ -3850,15 +3648,11 @@ für die Verkehrszulassung zuständigen Stelle (§ 7) unverzüglich
 anzuzeigen, soweit dies ein Luftfahrzeug betrifft, das einer
 Verkehrszulassung nach § 6 bedarf.
 
-
 #### § 102b
 
 (weggefallen)
 
-
 ### 3. - Haftpflichtversicherung für Fluggastschäden
-
-
 
 #### § 103 Vertragsinhalt
 
@@ -3912,10 +3706,7 @@ behält, beträgt die Mindesthöhe der Versicherungssumme 548 Euro.
 (4) Für die Umrechnung der Rechnungseinheit nach Absatz 2 und 3 Satz 1
 erster Halbsatz gilt § 49b des Luftverkehrsgesetzes entsprechend.
 
-
 ### 4. - Haftpflichtversicherung für Güterschäden
-
-
 
 #### § 104 Versicherung für Güterschäden
 
@@ -3945,10 +3736,7 @@ nicht etwas anderes ergibt, gilt für die Umrechnung der
 Rechnungseinheit nach Absatz 3 § 431 Abs. 4 des Handelsgesetzbuchs
 entsprechend.
 
-
 ### 5. - Gemeinsame Vorschriften
-
-
 
 #### § 105 Versicherer
 
@@ -3971,7 +3759,6 @@ mit Sitz in einem Mitgliedstaat der Europäischen Union abgeschlossene
 Versicherung eines deutschen Luftfahrzeugs nicht anerkannt wird. Die
 Sätze 1 und 2 gelten für die Anerkennung einer Versicherung nach § 104
 entsprechend.
-
 
 #### § 106 Versicherungsbestätigung
 
@@ -4002,23 +3789,18 @@ Absätzen 2 und 3 mitzuführenden Versicherungsbestätigung, die Vorlage
 des Versicherungsscheins sowie den Nachweis über die Zahlung des
 letzten Beitrags verlangen.
 
-
 #### § 106a Selbstbehalt
 
 Die Vereinbarung eines Selbstbehaltes des Versicherungsnehmers ist
 zulässig. Der Selbstbehalt kann dem Anspruch des Dritten jedoch nicht
 entgegengehalten werden.
 
-
 ## Sechster Abschnitt - Kosten, Ordnungswidrigkeiten und Schlussvorschriften
-
-
 
 ### § 107 Kosten
 
 Kosten (Gebühren und Auslagen) für Amtshandlungen der zuständigen
 Stelle werden nach der Kostenordnung der Luftfahrtverwaltung erhoben.
-
 
 ### § 108 Ordnungswidrigkeiten
 
@@ -4365,7 +4147,6 @@ S. 3) den zu zahlenden Endpreis, den Flugpreis, die Luftfrachtrate,
 eine Steuer, eine Gebühr, einen Zuschlag oder ein Entgelt nicht oder
 nicht richtig ausweist.
 
-
 ### § 109 Inkrafttreten
 
 (1) (Inkrafttreten)
@@ -4377,12 +4158,10 @@ Zulassungen, Erlaubnisse und Genehmigungen sind von den nunmehr
 zuständigen Luftfahrtbehörden an die Vorschriften dieser Verordnung
 anzugleichen.
 
-
 ### § 110 Übergangsvorschriften
 
 Der Nachweis der Zusatzbezeichnung "Flugmedizin" gemäß § 24e Abs. 3
 Nr. 1 ist bis zum 30. April 2009 zu erbringen.
-
 
 ### Anlage 1 (zu § 14 Abs. 1 und § 19 Abs. 1) Vorschriften über den Eintragungsschein und das Lufttüchtigkeitszeugnis sowie die Kennzeichnung von Luftfahrzeugen
 
@@ -4643,21 +4422,15 @@ nach den Mustern 3 und 4.
 
     (2) (weggefallen)
 
-
-
-
-
 ### Muster 1
 
 (Inhalt: nicht darstellbares Muster eines Eintragungsscheines,
 Fundstelle: BGBl. I 2008, 1266)
 
-
 ### Muster 2
 
 (Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses,
 Fundstelle: BGBl. I 2008, 1267)
-
 
 ### Muster 3 (§ 9 Abs. 1 LuftVZO)
 
@@ -4665,60 +4438,50 @@ Fundstelle: BGBl. I 2008, 1267)
 für Luftsportgeräte,
 Fundstelle: BGBl. I 2008, 1268)
 
-
 ### Muster 4 (§ 14 Abs. 2 LuftVZO)
 
 (Inhalt: nicht darstellbares Muster eines Eintragungsscheins für
 Luftsportgeräte,
 Fundstelle: BGBl. I 2008, 1268)
 
-
 ### Muster 5
 
 (weggefallen)
-
 
 ### Muster 6
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1269)
 
-
 ### Muster 6a
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1269)
-
 
 ### Muster 7
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1270)
 
-
 ### Muster 7a
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1270)
-
 
 ### Muster 8
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1271)
 
-
 ### Muster 9
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1271)
 
-
 ### Muster 10
 
 (Inhalt: nicht darstellbares Muster,
 Fundstelle: BGBl. I 2008, 1272)
-
 
 ### Muster 11a
 
@@ -4726,25 +4489,21 @@ Fundstelle: BGBl. I 2008, 1272)
 aerodynamisch gesteuert,
 Fundstelle: BGBl. I 2008, 1273)
 
-
 ### Muster 11b
 
 (Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs,
 schwerkraftgesteuert,
 Fundstelle: BGBl. I 2008, 1273)
 
-
 ### Muster 12
 
 (Inhalt: nicht darstellbare Abbildung eines Hängegleiters,
 Fundstelle: BGBl. I 2008, 1274)
 
-
 ### Muster 13
 
 (Inhalt: nicht darstellbare Abbildung eines Gleitsegels,
 Fundstelle: BGBl. I 2008, 1274)
-
 
 ### Anlage 2 (zu § 32) Angaben zum Antrag auf Registrierung einer Ausbildungseinrichtung
 
@@ -4847,15 +4606,7 @@ Fundstelle: BGBl. I 2008, 1274)
 *    *   Datum
         Unterschrift
 
-
-
-
 ### Anlage 3 (zu § 24a Abs. 1) Muster Tauglichkeitszeugnis
-
-
-
-
-
 
 ### Anlage 4 (zu § 28a) Besondere Anerkennungsverfahren
 
@@ -5289,7 +5040,6 @@ IR = Instrument rating.
     den genannten Überprüfungen zu unterziehen.               Als
     Flugzeuge herkömmlicher Bauart gelten alle Flugzeuge, außer solche
     nach JAR 25 und Ultraleichtflugzeuge.
-
 
 ### Anlage 5 (zu § 48c Abs. 1) Zu berücksichtigende Informationen gemäß § 48c Abs. 1
 

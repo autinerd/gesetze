@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 7.11.2008 I 2166
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 2 Nr. 1, 2 und 4, auch in Verbindung mit § 54
@@ -28,7 +27,6 @@ Artikel 1 Nr. 5 Buchstabe b des Gesetzes vom 17. Mai 2000 (BGBl. I S.
 710) geändert und § 53 Abs. 3 durch Artikel 1 Nr. 15 dieses Gesetz
 eingefügt worden sind, verordnet das Bundesministerium für Ernährung,
 Landwirtschaft und Forsten:
-
 
 ## § 1
 
@@ -40,7 +38,6 @@ Kommission vom 31. Mai 2000 mit Durchführungsbestimmungen zur
 Verordnung (EG) Nr. 1493/1999 des Rates über die gemeinsame
 Marktorganisation für Wein hinsichtlich des Produktionspotentials
 (ABl. EG Nr. L 143 S. 1) in der jeweils geltenden Fassung.
-
 
 ## § 2
 
@@ -113,10 +110,6 @@ ergebenden Höchstfläche:
 
     *   71
 
-
-
-
-
 ## § 3
 
 Die Landesregierungen regeln, soweit bundesrechtliche Vorschriften
@@ -125,7 +118,6 @@ Voraussetzungen und das Verfahren für die Erteilung der Genehmigungen,
 insbesondere um zu gewährleisten, dass die in den § 2 vorgesehenen
 Höchstflächen nicht überschritten werden.
 
-
 ## § 3a
 
 Im Falle der im Lande Schleswig-Holstein belegenen Rebflächen bedarf
@@ -133,7 +125,6 @@ es nicht des Erfordernisses, dass die neuanzupflanzenden Rebflächen in
 einem unmittelbaren räumlichen Zusammenhang mit zulässigerweise mit
 Reben bepflanzten oder vorübergehend nicht bepflanzten Rebflächen
 stehen müssen.
-
 
 ## § 4
 

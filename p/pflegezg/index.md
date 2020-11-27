@@ -15,13 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 874, 896
 
-
 ## § 1 Ziel des Gesetzes
 
 Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen,
 pflegebedürftige nahe Angehörige in häuslicher Umgebung zu pflegen und
 damit die Vereinbarkeit von Beruf und familiärer Pflege zu verbessern.
-
 
 ## § 2 Kurzzeitige Arbeitsverhinderung
 
@@ -40,7 +38,6 @@ die Erforderlichkeit der in Absatz 1 genannten Maßnahmen vorzulegen.
 (3) Der Arbeitgeber ist zur Fortzahlung der Vergütung nur
 verpflichtet, soweit sich eine solche Verpflichtung aus anderen
 gesetzlichen Vorschriften oder auf Grund einer Vereinbarung ergibt.
-
 
 ## § 3 Pflegezeit
 
@@ -69,7 +66,6 @@ der Arbeitszeit eine schriftliche Vereinbarung zu treffen. Hierbei hat
 der Arbeitgeber den Wünschen der Beschäftigten zu entsprechen, es sei
 denn, dass dringende betriebliche Gründe entgegenstehen.
 
-
 ## § 4 Dauer der Pflegezeit
 
 (1) Die Pflegezeit nach § 3 beträgt für jeden pflegebedürftigen nahen
@@ -88,7 +84,6 @@ Umstände. Der Arbeitgeber ist über die veränderten Umstände
 unverzüglich zu unterrichten. Im Übrigen kann die Pflegezeit nur
 vorzeitig beendet werden, wenn der Arbeitgeber zustimmt.
 
-
 ## § 5 Kündigungsschutz
 
 (1) Der Arbeitgeber darf das Beschäftigungsverhältnis von der
@@ -100,7 +95,6 @@ Arbeitsschutz zuständigen obersten Landesbehörde oder der von ihr
 bestimmten Stelle ausnahmsweise für zulässig erklärt werden. Die
 Bundesregierung kann hierzu mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften erlassen.
-
 
 ## § 6 Befristete Verträge
 
@@ -132,7 +126,6 @@ eingestellt ist. Dies gilt nicht, wenn die Vertreterin oder der
 Vertreter nicht mitzuzählen ist. Die Sätze 1 und 2 gelten
 entsprechend, wenn im Rahmen arbeitsrechtlicher Gesetze oder
 Verordnungen auf die Zahl der Arbeitsplätze abgestellt wird.
-
 
 ## § 7 Begriffsbestimmungen
 
@@ -179,7 +172,6 @@ Voraussetzungen nach den §§ 14 und 15 des Elften Buches
 Sozialgesetzbuch erfüllen. Pflegebedürftig im Sinne von § 2 sind auch
 Personen, die die Voraussetzungen nach den §§ 14 und 15 des Elften
 Buches Sozialgesetzbuch voraussichtlich erfüllen.
-
 
 ## § 8 Unabdingbarkeit
 

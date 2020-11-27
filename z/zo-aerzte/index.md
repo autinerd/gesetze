@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 9 G v. 22.12.2011 I 2983
 
-
 ## Eingangsformel
 
 Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der
@@ -29,10 +28,7 @@ August 1955 (Bundesgesetzbl. I S. 513) wird nach Beratung mit dem
 Bundesausschuß der Ärzte und Krankenkassen mit Zustimmung des
 Bundesrates verordnet:
 
-
 ## Abschnitt I - Arztregister
-
-
 
 ### § 1
 
@@ -66,7 +62,6 @@ b)  Ärzte, die die Voraussetzungen des § 3 und Psychotherapeuten, die die
 
 entsprechend.
 
-
 ### § 2
 
 (1) Das Arztregister muß die Angaben über die Person und die
@@ -74,7 +69,6 @@ berufliche Tätigkeit des Arztes enthalten, die für die Zulassung von
 Bedeutung sind.
 
 (2) Das Arztregister ist nach dem Muster der Anlage zu führen.
-
 
 ### § 3
 
@@ -140,7 +134,6 @@ b)  in der Praxis eines niedergelassenen Arztes abgeleistet worden ist,
 wird diese auf die Weiterbildung nach Absatz 2 Buchstabe b bis zur
 Höchstdauer von insgesamt 18 Monaten angerechnet.
 
-
 ### § 4
 
 (1) Der Arzt ist in das Arztregister des Zulassungsbezirks
@@ -172,7 +165,6 @@ Glaubhaftmachung der Approbation als Arzt und der ärztlichen Tätigkeit
 (Absatz 2 Buchstaben b und c) genügt eine eidesstattliche Erklärung
 des Antragstellers allein nicht.
 
-
 ### § 5
 
 (1) Verzieht ein im Arztregister eingetragener nicht zugelassener Arzt
@@ -185,7 +177,6 @@ Arztregister umgeschrieben, das für den Vertragsarztsitz geführt wird.
 (3) Die bisher registerführende Stelle hat einen Registerauszug und
 die Registerakten des Arztes der zuständigen registerführenden Stelle
 zu übersenden.
-
 
 ### § 6
 
@@ -205,7 +196,6 @@ Verwarnung, sind zu den Registerakten zu nehmen; sie sind nach Ablauf
 von fünf Jahren, nachdem der Beschluß unanfechtbar geworden ist, aus
 den Registerakten zu entfernen und zu vernichten.
 
-
 ### § 7
 
 Der Arzt wird im Arztregister gestrichen, wenn
@@ -223,10 +213,6 @@ c)  die Voraussetzungen für seine Eintragung nach § 3 Abs. 2 Buchstabe a
 d)  die Voraussetzungen nach § 3 Abs. 2 Buchstabe b auf Grund falscher
     Angaben des Arztes irrtümlich als gegeben angenommen worden sind.
 
-
-
-
-
 ### § 8
 
 (1) Über Eintragungen und Streichungen im Arztregister und in den
@@ -236,7 +222,6 @@ oder die durch die Satzung bestimmte Stelle.
 (2) Der Arzt erhält über die seine Person betreffenden Eintragungen
 und Streichungen sowie über die Ablehnung seiner Anträge auf
 Eintragung oder Streichung einen schriftlichen Bescheid.
-
 
 ### § 9
 
@@ -252,7 +237,6 @@ betreffenden Registerakten einsehen.
 der am Zulassungsverfahren beteiligten Ärzte auf Anfordern zur
 Einsicht zu überlassen.
 
-
 ### § 10
 
 (1) Die Kassenärztliche Bundesvereinigung führt das Bundesarztregister
@@ -266,10 +250,7 @@ Bundesvereinigung unverzüglich mit.
 Arztregister von Bedeutung sind, der zuständigen Kassenärztlichen
 Vereinigung unverzüglich mit.
 
-
 ## Abschnitt II - Bildung und Abgrenzung der Zulassungsbezirke
-
-
 
 ### § 11
 
@@ -285,10 +266,7 @@ der Regel die Grenzen der Stadt- und Landkreise zu berücksichtigen.
 unverzüglich in den für ihre amtlichen Bekanntmachungen zuständigen
 Blättern bekanntzugeben.
 
-
 ## Abschnitt III - Bedarfsplanung
-
-
 
 ### § 12
 
@@ -348,7 +326,6 @@ sind. Die Kassenärztlichen Vereinigungen sollen darauf hinwirken, daß
 die Ärzte bei der Wahl ihres Vertragsarztsitzes auf die sich aus den
 Bedarfsplänen ergebenden Versorgungsbedürfnisse Rücksicht nehmen.
 
-
 ### § 13
 
 (1) Die Kassenärztlichen Vereinigungen haben andere Träger der
@@ -384,7 +361,6 @@ beraten sowie den Bundesausschuß der Ärzte und Krankenkassen und das
 Bundesministerium für Gesundheit von der Auswertung und dem
 Beratungsergebnis unterrichten.
 
-
 ### § 14
 
 (1) Kommt das Einvernehmen bei der Aufstellung und Fortentwicklung des
@@ -413,10 +389,7 @@ Landesausschuss sowie der Kassenärztlichen Vereinigung, den
 Landesverbänden der Krankenkassen und den Ersatzkassen mit der
 Begründung für die Beanstandung oder die Ersatzvornahme zuzuleiten.
 
-
 ## Abschnitt IV - Unterversorgung
-
-
 
 ### § 15
 
@@ -426,7 +399,6 @@ mehr als sechs Monaten Vertragsarztsitze dort nicht besetzt, so hat
 die Kassenärztliche Vereinigung spätestens nach Ablauf dieses
 Zeitraums Vertragsarztsitze in den für ihre amtlichen Bekanntmachungen
 vorgesehenen Blättern auszuschreiben.
-
 
 ### § 16
 
@@ -482,15 +454,11 @@ entsprechend.
 den für amtliche Bekanntmachungen der Kassenärztlichen Vereinigungen
 vorgesehenen Blättern zu veröffentlichen.
 
-
 ## Abschnitt IV a - Überversorgung
-
-
 
 ### § 16a
 
 (weggefallen)
-
 
 ### § 16b
 
@@ -517,15 +485,11 @@ aufzuheben. Absatz 2 Satz 2 gilt entsprechend.
 den für amtliche Bekanntmachungen der Kassenärztlichen Vereinigungen
 vorgesehenen Blättern zu veröffentlichen.
 
-
 ## Abschnitt V - Voraussetzungen für die Zulassung
-
-
 
 ### § 17
 
 (weggefallen)
-
 
 ### § 18
 
@@ -589,10 +553,7 @@ nachzuweisende Sachverhalt glaubhaft zu machen.
 
 (5)
 
-
 ## Abschnitt VI - Zulassung und Vertragsarztsitz
-
-
 
 ### § 19
 
@@ -614,7 +575,6 @@ aufgenommen wird, endet die Zulassung.
 allgemeinen bedarfsgerechten Versorgungsgrad ab 100 Prozent kann der
 Zulassungsausschuss die Zulassung befristen.
 
-
 ### § 19a
 
 (1) Die Zulassung verpflichtet den Arzt, die vertragsärztliche
@@ -630,7 +590,6 @@ nach § 19 Abs. 1 oder durch gesonderten Beschluss festgestellt.
 Versorgungsauftrages nach Absatz 2 Satz 2 durch Beschluss aufgehoben
 werden. Der Antrag muss schriftlich gestellt werden. Es gelten die
 Vorschriften dieses Abschnitts.
-
 
 ### § 20
 
@@ -661,7 +620,6 @@ Eignung entgegenstehende Grund spätestens drei Monate nach dem
 Zeitpunkt beseitigt wird, in dem die Entscheidung über die Zulassung
 unanfechtbar geworden ist.
 
-
 ### § 21
 
 Ungeeignet für die Ausübung der vertragsärztlichen Tätigkeit ist ein
@@ -681,10 +639,7 @@ klinischen Beobachtung des Betroffenen beruhen. Die Kosten des
 Gutachtens hat der Betroffene zu tragen. Rechtsbehelfe gegen die
 Anordnung nach Satz 3 haben keine aufschiebende Wirkung.
 
-
 ### (XXXX) §§ 22 u 23 (weggefallen)
-
-
 
 ### § 24
 
@@ -762,15 +717,11 @@ Zulassungsausschusses wechseln.
 Verlegung seines Vertragsarztsitzes nur genehmigen, wenn Gründe der
 vertragsärztlichen Versorgung dem nicht entgegenstehen.
 
-
 ### § 25
 
 (weggefallen)
 
-
 ## Abschnitt VII - Ruhen, Entziehung und Ende der Zulassung
-
-
 
 ### § 26
 
@@ -790,7 +741,6 @@ mitzuteilen.
 (4) Über die ruhenden Zulassungen führt die Kassenärztliche
 Vereinigung (Registerstelle) ein besonderes Verzeichnis.
 
-
 ### § 27
 
 Der Zulassungsausschuß hat von Amts wegen über die vollständige oder
@@ -799,7 +749,6 @@ Voraussetzungen nach § 95 Abs. 6 des Fünften Buches Sozialgesetzbuch
 gegeben sind. Die Kassenärztliche Vereinigung und die Landesverbände
 der Krankenkassen sowie die Ersatzkassen können die Entziehung der
 Zulassung beim Zulassungsausschuß unter Angabe der Gründe beantragen.
-
 
 ### § 28
 
@@ -817,14 +766,9 @@ Beschluß des Zulassungsausschusses festzustellen.
 Kassenärztliche Vereinigung, die Krankenkassen und die Landesverbände
 der Krankenkassen dem Zulassungsausschuß mitzuteilen.
 
-
 ### (XXXX) §§ 29 und 30 (weggefallen)
 
-
-
 ## Abschnitt VIII - Ermächtigung
-
-
 
 ### § 31
 
@@ -902,7 +846,6 @@ Einrichtungen ermächtigt werden.
 (10) Über die Ermächtigungen führt die Kassenärztliche Vereinigung
 (Registerstelle) ein besonderes Verzeichnis.
 
-
 ### § 31a
 
 (1) Die Zulassungsausschüsse können Ärzte, die
@@ -940,10 +883,7 @@ entsprechend.
 
 (3) § 31 Abs. 7 bis 10 gilt entsprechend.
 
-
 ## Abschnitt IX - Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft
-
-
 
 ### § 32
 
@@ -998,7 +938,6 @@ Praxisumfangs dienen.
 (4) Der Vertragsarzt hat Vertreter und Assistenten zur Erfüllung der
 vertragsärztlichen Pflichten anzuhalten.
 
-
 ### § 32a
 
 Der ermächtigte Arzt hat die in dem Ermächtigungsbeschluß bestimmte
@@ -1007,7 +946,6 @@ Urlaub oder Teilnahme an ärztlicher Fortbildung oder an einer
 Wehrübung kann er sich innerhalb von zwölf Monaten bis zur Dauer von
 drei Monaten vertreten lassen. Satz 2 gilt nicht für Ermächtigungen
 nach § 31 Abs. 1 Buchstabe b.
-
 
 ### § 32b
 
@@ -1038,7 +976,6 @@ Kassenärztlichen Vereinigung die Durchführung eines
 Nachbesetzungsverfahrens nach § 103 Absatz 4 des Fünften Buches
 Sozialgesetzbuch, wird der bisher angestellte Arzt Inhaber der
 Zulassung.
-
 
 ### § 33
 
@@ -1094,10 +1031,7 @@ Die Genehmigung kann mit Auflagen erteilt werden, wenn dies zur
 Sicherung der Anforderungen nach Absatz 2 erforderlich ist; das Nähere
 hierzu ist einheitlich in den Bundesmantelverträgen zu regeln.
 
-
 ## Abschnitt X - Zulassungs- und Berufungsausschüsse
-
-
 
 ### § 34
 
@@ -1139,7 +1073,6 @@ der Versicherten ihrer Mitgliedskassen - getragen.
 (9) Für die Stellvertreter gelten die Vorschriften für die Mitglieder
 entsprechend.
 
-
 ### § 35
 
 (1) Der Berufungsausschuß besteht aus einem Vorsitzenden mit der
@@ -1152,14 +1085,9 @@ Krankenkassen. Stellvertreter sind in der nötigen Zahl zu bestellen.
 Beisitzer in dem für den Zulassungsausschuß zuständigen
 Berufungsausschuß sein.
 
-
 ## Abschnitt XI - Verfahren vor den Zulassungs- und Berufungsausschüssen
 
-
-
 ### 1. - Zulassungsausschuß für Ärzte
-
-
 
 #### § 36
 
@@ -1170,7 +1098,6 @@ lädt der Vorsitzende unter Angabe der Tagesordnung ein.
 Sozialgesetzbuch sind die Patientenvertreterinnen und -vertreter unter
 Einhaltung einer Frist von zwei Wochen unter Angabe der Tagesordnung
 zu laden.
-
 
 #### § 37
 
@@ -1186,7 +1113,6 @@ zur mündlichen Verhandlung zu laden; die Ladung ist zuzustellen. Es
 kann auch in Abwesenheit Beteiligter verhandelt werden, falls in der
 Ladung darauf hingewiesen ist.
 
-
 #### § 38
 
 Über gebührenpflichtige Anträge wird erst nach Entrichtung der nach §
@@ -1195,7 +1121,6 @@ nicht innerhalb der gesetzten Frist eingezahlt, so gilt der Antrag als
 zurückgenommen, es sei denn, der Vorsitzende stundet die Gebühr. Die
 Zahlungsfrist und die Folgen ihrer Nichteinhaltung sind in der
 Anforderung zu vermerken.
-
 
 #### § 39
 
@@ -1206,7 +1131,6 @@ Beweise.
 Auskunftspersonen erhalten eine Vergütung oder Entschädigung
 entsprechend dem Justizvergütungs- und -entschädigungsgesetz.
 
-
 #### § 40
 
 Die Sitzung ist nicht öffentlich. Sie beginnt nach dem Aufruf der
@@ -1216,7 +1140,6 @@ leitet die Verhandlung, Beratung und Abstimmung. Der Vorsitzende hat
 dahin zu wirken, daß der Sachverhalt ausreichend geklärt wird. Jedes
 Mitglied des Zulassungsausschusses kann sachdienliche Fragen und
 Anträge stellen.
-
 
 #### § 41
 
@@ -1253,7 +1176,6 @@ erhalten, wenn sie ein berechtigtes Interesse nachweisen.
 
 (6) (weggefallen)
 
-
 #### § 42
 
 Über jede Sitzung ist eine Niederschrift anzufertigen. Sie soll die
@@ -1265,23 +1187,18 @@ eine Niederschrift über die Tagesordnungspunkte der Sitzung, die sie
 gemäß § 140f Abs. 3 des Fünften Buches Sozialgesetzbuch mitberaten
 haben.
 
-
 #### § 43
 
 Die Akten des Zulassungsausschusses sind fünf Jahre, Niederschriften
 und Urschriften von Beschlüssen zwanzig Jahre aufzubewahren.
 
-
 ### 2. - Berufungsausschuß für Ärzte (Widerspruchsverfahren)
-
-
 
 #### § 44
 
 Der Widerspruch ist schriftlich oder zur Niederschrift der
 Geschäftsstelle des Berufungsausschusses beim Berufungsausschuß
 einzulegen. Er muß den Beschluß bezeichnen, gegen den er sich richtet.
-
 
 #### § 45
 
@@ -1296,10 +1213,7 @@ beschließt.
 
 (3) Die Vorschriften der §§ 36 bis 43 gelten entsprechend.
 
-
 ## Abschnitt XII - Gebühren
-
-
 
 ### § 46
 
@@ -1397,13 +1311,7 @@ b)  die Gebühren nach Absatz 1 Buchstaben b und c und Absatz 2 Buchstaben
 c)  die Gebühr nach Absatz 1 Buchstabe d an die Geschäftsstelle des
     Berufungsausschusses.
 
-
-
-
-
 ## Abschnitt XIII - Übergangs- und Schlußbestimmungen
-
-
 
 ### § 47
 
@@ -1413,10 +1321,7 @@ folgenden Monats in Kraft.
 (2) Die §§ 25 und 31 Abs. 9 gelten erst für Anträge von
 Psychotherapeuten, die nach dem 31. Dezember 1998 gestellt werden.
 
-
 ### (XXXX) §§ 48 bis 52
-
-
 
 ### § 53
 
@@ -1425,11 +1330,9 @@ nach dem in § 2 vorgeschriebenen Muster anzulegen.
 
 (2) bis (4)
 
-
 ### § 54
 
 -
-
 
 ### § 55
 
@@ -1439,11 +1342,9 @@ vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel
 
 (2)
 
-
 ### Schlußformel
 
 Der Bundesminister für Arbeit
-
 
 ### Anlage (zu § 2 Abs. 2)
 
@@ -1477,7 +1378,6 @@ Arzt für ............................... ab ................
 22\. Verhängung eines Berufsverbots am ..........................
 23\. Im Arztregister gestrichen am ..............................
 24\. Bemerkungen ................................................
-
 
 ### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III (BGBl. II 1990, 889, 1055) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 

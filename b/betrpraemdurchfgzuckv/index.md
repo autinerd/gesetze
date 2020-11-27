@@ -20,7 +20,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 5.12.2012 I 2545
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 4, des § 5 Abs. 4a Satz 3 und des § 5a Abs. 3
@@ -28,7 +27,6 @@ Satz 2 des Betriebsprämiendurchführungsgesetzes in der Fassung der
 Bekanntmachung vom 30. Mai 2006 (BGBl. I S. 1298) verordnet das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
 nach Anhörung der zuständigen obersten Landesbehörden:
-
 
 ## § 1 Aufteilung der Erhöhung der Obergrenze auf die Regionen
 
@@ -65,12 +63,10 @@ wird in Höhe von 993 Euro der Region Rheinland-Pfalz zugeteilt.
 bezeichnete im Jahr 2012 erfolgte Erhöhung der nationalen Obergrenze
 wird in Höhe von 274 Euro der Region Rheinland-Pfalz zugeteilt.
 
-
 ## § 2 Ausgleichsbetrag je Tonne Zucker
 
 Der Ausgleichsbetrag nach § 5a Abs. 3 Satz 1 des
 Betriebsprämiendurchführungsgesetzes wird auf 45,74 Euro festgesetzt.
-
 
 ## § 3 Faktoren für die zusätzlichen betriebsindividuellen Zuckerbeträge
 
@@ -86,11 +82,9 @@ Betriebsprämiendurchführungsgesetzes werden
 
 festgesetzt.
 
-
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu § 1 Abs. 1) Aufteilung des ersten Erhöhungsbetrags auf die Regionen
 
@@ -163,10 +157,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 *    *   Thüringen
 
     *   15.211.627,79
-
-
-
-
 
 ## Anlage 2 (zu § 1 Abs. 2) Aufteilung des zweiten Erhöhungsbetrags auf die Regionen
 
@@ -241,9 +231,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
     *   1.199.893
 
-
-
-
 ## Anlage 3 (zu § 1 Abs. 3) Aufteilung des dritten Erhöhungsbetrags und des zusätzlichen Betrags auf die Regionen
 
 ( Fundstelle: BGBl. I 2008, 2411 )
@@ -317,9 +304,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
     *   1 334 091,87.
 
-
-
-
 ## Anlage 4 (zu § 1 Absatz 4) Aufteilung des vierten Erhöhungsbetrags auf die Regionen
 
 (Fundstelle: BGBl. I 2009, 3556)
@@ -392,9 +376,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 *    *   Thüringen
 
     *   644 776,32
-
-
-
 
 ## Anlage 5 (zu § 1 Absatz 5) Aufteilung des fünften Erhöhungsbetrags auf die Regionen
 

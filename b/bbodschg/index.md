@@ -19,10 +19,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 Abs. 30 G v. 24.2.2012 I 212
 
-
 ## Erster Teil - Allgemeine Vorschriften
-
-
 
 ### § 1 Zweck und Grundsätze des Gesetzes
 
@@ -34,7 +31,6 @@ nachteilige Einwirkungen auf den Boden zu treffen. Bei Einwirkungen
 auf den Boden sollen Beeinträchtigungen seiner natürlichen Funktionen
 sowie seiner Funktion als Archiv der Natur- und Kulturgeschichte so
 weit wie möglich vermieden werden.
-
 
 ### § 2 Begriffsbestimmungen
 
@@ -139,7 +135,6 @@ sonstige Maßnahmen, die Gefahren, erhebliche Nachteile oder erhebliche
 Belästigungen für den einzelnen oder die Allgemeinheit verhindern oder
 vermindern, insbesondere Nutzungsbeschränkungen.
 
-
 ### § 3 Anwendungsbereich
 
 (1) Dieses Gesetz findet auf schädliche Bodenveränderungen und
@@ -224,10 +219,7 @@ Emissionsmassenströme auch ohne Ermittlung der Zusatzbelastung davon
 auszugehen ist, daß die Anlage nicht zu schädlichen Bodenveränderungen
 beiträgt.
 
-
 ## Zweiter Teil - Grundsätze und Pflichten
-
-
 
 ### § 4 Pflichten zur Gefahrenabwehr
 
@@ -284,7 +276,6 @@ Grundstücks darauf vertraut hat, daß schädliche Bodenveränderungen
 oder Altlasten nicht vorhanden sind, und sein Vertrauen unter
 Berücksichtigung der Umstände des Einzelfalles schutzwürdig ist.
 
-
 ### § 5 Entsiegelung
 
 Soweit die Vorschriften des Baurechts die Befugnisse der Behörden
@@ -299,7 +290,6 @@ Rechtsverordnung nach Satz 1 können durch die nach Landesrecht
 zuständigen Behörden im Einzelfall gegenüber den nach Satz 1
 Verpflichteten Anordnungen zur Entsiegelung getroffen werden, wenn die
 in Satz 1 im übrigen genannten Voraussetzungen vorliegen.
-
 
 ### § 6 Auf- und Einbringen von Materialien auf oder in den Boden
 
@@ -320,7 +310,6 @@ Schadstoffgehalte und sonstiger Eigenschaften, insbesondere
 
 
 zu bestimmen.
-
 
 ### § 7 Vorsorgepflicht
 
@@ -346,7 +335,6 @@ den Forst- und Waldgesetzen der Länder. Die Vorsorge für das
 Grundwasser richtet sich nach wasserrechtlichen Vorschriften. Bei
 bestehenden Bodenbelastungen bestimmen sich die zu erfüllenden
 Pflichten nach § 4.
-
 
 ### § 8 Werte und Anforderungen
 
@@ -422,7 +410,6 @@ Anforderungen an eine repräsentative Probenahme, Probenbehandlung und
 Qualitätssicherung einschließlich der Ermittlung der Werte für
 unterschiedliche Belastungen.
 
-
 ### § 9 Gefährdungsabschätzung und Untersuchungsanordnungen
 
 (1) Liegen der zuständigen Behörde Anhaltspunkte dafür vor, daß eine
@@ -451,7 +438,6 @@ zur Mitwirkung der in § 4 Abs. 3, 5 und 6 genannten Personen sowie
 Duldungspflichten der nach § 12 Betroffenen bestimmen sich nach
 Landesrecht.
 
-
 ### § 10 Sonstige Anordnungen
 
 (1) Zur Erfüllung der sich aus §§ 4 und 7 und den auf Grund von § 5
@@ -479,16 +465,12 @@ wenn die Nutzungsbeschränkung andernfalls zu einer über die damit
 verbundene allgemeine Belastung erheblich hinausgehenden besonderen
 Härte führen würde.
 
-
 ## Dritter Teil - Ergänzende Vorschriften für Altlasten
-
-
 
 ### § 11 Erfassung
 
 Die Länder können die Erfassung der Altlasten und altlastverdächtigen
 Flächen regeln.
-
 
 ### § 12 Information der Betroffenen
 
@@ -503,7 +485,6 @@ stellen. Enthalten Unterlagen Geschäfts- oder Betriebsgeheimnisse, muß
 ihr Inhalt, soweit es ohne Preisgabe des Geheimnisses geschehen kann,
 so ausführlich dargestellt sein, daß es den Betroffenen möglich ist,
 die Auswirkungen der Maßnahmen auf ihre Belange zu beurteilen.
-
 
 ### § 13 Sanierungsuntersuchungen und Sanierungsplanung
 
@@ -570,7 +551,6 @@ Einvernehmen mit der jeweils zuständigen Behörde erlassen und in dem
 für verbindlich erklärten Plan die miteingeschlossenen Entscheidungen
 aufgeführt werden.
 
-
 ### § 14 Behördliche Sanierungsplanung
 
 Die zuständige Behörde kann den Sanierungsplan nach § 13 Abs. 1 selbst
@@ -593,7 +573,6 @@ erstellen oder ergänzen lassen, wenn
 
 
 § 13 Abs. 3 bis 6 gilt entsprechend.
-
 
 ### § 15 Behördliche Überwachung, Eigenkontrolle
 
@@ -621,7 +600,6 @@ Abs. 3, 5 oder 6 Verpflichteten der zuständigen Behörde auf Verlangen
 mitzuteilen. Sie hat diese Aufzeichnungen und die Ergebnisse ihrer
 Überwachungsmaßnahmen fünf Jahre lang aufzubewahren.
 
-
 ### § 16 Ergänzende Anordnungen zur Altlastensanierung
 
 (1) Neben den im Zweiten Teil dieses Gesetzes vorgesehenen Anordnungen
@@ -639,10 +617,7 @@ Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im
 Einvernehmen mit der jeweils zuständigen Behörde erlassen und in der
 Anordnung die miteingeschlossenen Entscheidungen aufgeführt werden.
 
-
 ## Vierter Teil - Landwirtschaftliche Bodennutzung
-
-
 
 ### § 17 Gute fachliche Praxis in der Landwirtschaft
 
@@ -697,10 +672,7 @@ an die Gefahrenabwehr und ergeben sich solche auch nicht aus den
 Grundsätzen der guten fachlichen Praxis nach Absatz 2, so gelten die
 übrigen Bestimmungen dieses Gesetzes.
 
-
 ## Fünfter Teil - Schlußvorschriften
-
-
 
 ### § 18 Sachverständige und Untersuchungsstellen
 
@@ -714,7 +686,6 @@ Aufgaben, die Vorlage der Ergebnisse ihrer Tätigkeit und die
 Bekanntgabe von Sachverständigen, welche die Anforderungen nach Satz 1
 erfüllen, regeln.
 
-
 ### § 19 Datenübermittlung
 
 (1) Soweit eine Datenübermittlung zwischen Bund und Ländern zur
@@ -726,7 +697,6 @@ einer Verwaltungsvereinbarung zwischen Bund und Ländern geregelt. Die
 (2) Der Bund kann unter Verwendung der von Ländern übermittelten Daten
 ein länderübergreifendes Bodeninformationssystem für Bundesaufgaben
 einrichten.
-
 
 ### § 20 Anhörung beteiligter Kreise
 
@@ -741,7 +711,6 @@ obersten Landesbehörden zu hören. Sollen die in Satz 1 genannten
 Rechtsvorschriften Regelungen zur land- und forstwirtschaftlichen
 Bodennutzung enthalten, sind auch die für die Land- und
 Forstwirtschaft zuständigen obersten Landesbehörden zu hören.
-
 
 ### § 21 Landesrechtliche Regelungen
 
@@ -791,7 +760,6 @@ die berechtigten Belange dieser Personen Rücksicht zu nehmen und
 Ersatz für Schäden vorzusehen, die bei Untersuchungen verursacht
 werden.
 
-
 ### § 22 Erfüllung von bindenden Beschlüssen der Europäischen Gemeinschaften
 
 (1) Zur Erfüllung von bindenden Beschlüssen der Europäischen
@@ -808,7 +776,6 @@ planungsrechtliche Festlegungen vorgesehen sind, haben die zuständigen
 Planungsträger zu befinden, ob und inwieweit Planungen in Betracht zu
 ziehen sind.
 
-
 ### § 23 Landesverteidigung
 
 (1) Das Bundesministerium der Verteidigung kann Ausnahmen von diesem
@@ -824,7 +791,6 @@ Geschäftsbereich des Bundesministeriums der Verteidigung und für die
 auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland
 stationierten Streitkräfte dem Bundesministerium der Verteidigung oder
 den von ihm bestimmten Stellen obliegt.
-
 
 ### § 24 Kosten
 
@@ -854,7 +820,6 @@ Ersatzpflichtigen Kenntnis erlangt. Der Ausgleichsanspruch verjährt
 ohne Rücksicht auf diese Kenntnis dreißig Jahre nach der Beendigung
 der Maßnahmen. Für Streitigkeiten steht der Rechtsweg vor den
 ordentlichen Gerichten offen.
-
 
 ### § 25 Wertausgleich
 
@@ -912,7 +877,6 @@ Das Bundesministerium der Justiz wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Art und Weise, wie
 im Grundbuch auf das Vorhandensein der öffentlichen Last hinzuweisen
 ist, zu regeln.
-
 
 ### § 26 Bußgeldvorschriften
 

@@ -20,14 +20,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 15 Abs. 60 G v. 5.2.2009 I 160
 
-
 ## § 1 Errichtung und Rechtsform
 
 Unter dem Namen "Haus der Geschichte der Bundesrepublik Deutschland"
 wird eine rechtsfähige Stiftung des öffentlichen Rechts mit Sitz in
 Bonn errichtet. Die Stiftung entsteht mit Inkrafttreten dieses
 Gesetzes.
-
 
 ## § 2 Stiftungszweck
 
@@ -56,15 +54,10 @@ Kenntnisse hierüber zu vermitteln.
 5.  Errichtung und Unterhaltung von Gebäuden und Einrichtungen der
     Stiftung.
 
-
-
-
-
 ## § 3 Unterstützung durch das Bundesarchiv
 
 Bei der Erfüllung ihrer Aufgaben wird die Stiftung durch das
 Bundesarchiv unterstützt.
-
 
 ## § 4 Stiftungsvermögen
 
@@ -83,12 +76,10 @@ anzunehmen.
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur
 im Sinne des Stiftungszwecks zu verwenden.
 
-
 ## § 5 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium beschlossen
 wird.
-
 
 ## § 6 Organe der Stiftung
 
@@ -104,10 +95,6 @@ Organe der Stiftung sind
 
 
 4.  der Arbeitskreis gesellschaftlicher Gruppen.
-
-
-
-
 
 ## § 7 Kuratorium
 
@@ -151,7 +138,6 @@ Kuratorium kann Vertreter der Stadt Bonn zu den Sitzungen einladen.
 
 (8) Das Nähere regelt die Satzung.
 
-
 ## § 8 Wissenschaftlicher Beirat
 
 (1) Dem wissenschaftlichen Beirat gehören bis zu fünfundzwanzig
@@ -164,7 +150,6 @@ Beirates teilnehmen.
 Direktor.
 
 (3) Das Nähere regelt die Satzung.
-
 
 ## § 9 Arbeitskreis gesellschaftlicher Gruppen
 
@@ -189,7 +174,6 @@ und den Direktor.
 
 (4) Das Nähere regelt die Satzung.
 
-
 ## § 10 Direktor
 
 (1) Der Direktor führt die Geschäfte der Stiftung. Er entscheidet in
@@ -201,7 +185,6 @@ außergerichtlich.
 wissenschaftlichen Beirates und des Arbeitskreises gesellschaftlicher
 Gruppen berufen.
 
-
 ## § 11 Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums, des wissenschaftlichen Beirates und
@@ -209,7 +192,6 @@ des Arbeitskreises gesellschaftlicher Gruppen üben ihre Tätigkeit
 ehrenamtlich aus. Die Erstattung von Reisekosten und sonstigen
 Auslagen richtet sich nach den für die unmittelbare Bundesverwaltung
 geltenden Bestimmungen.
-
 
 ## § 12 Aufsicht, Haushalt, Rechnungsprüfung
 
@@ -222,12 +204,10 @@ Bundesverwaltung geltenden Bestimmungen. Die Haushalts- und die
 Wirtschaftsführung der Stiftung unterliegen der Prüfung durch den
 Bundesrechnungshof.
 
-
 ## § 13 Berichterstattung
 
 Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen
 Bericht über ihre bisherige Tätigkeit und ihre Vorhaben vor.
-
 
 ## § 14 Beschäftigte
 
@@ -244,7 +224,6 @@ Kuratorium. § 144 des Bundesbeamtengesetzes bleibt unberührt.
 Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen
 anzuwenden.
 
-
 ## § 15 Freier Eintritt, Gebühren
 
 (1) Der Eintritt in das Haus der Geschichte der Bundesrepublik
@@ -255,11 +234,9 @@ Stiftungseinrichtungen und für besondere Veranstaltungen erheben.
 
 (3) Das Nähere regelt die Satzung.
 
-
 ## § 16 Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
-
 
 ## § 17 Übergang von Rechten und Pflichten
 

@@ -30,7 +30,6 @@ Diese v tritt gem. § 7 abs. 2 am 12.8.2009 außer kraft, sofern nicht mit zusti
     zuletzt durch die Richtlinie 2006/96/EG vom 20. November 2006 (ABl. L
     363 vom 20.12.2006, S. 81), geändert worden ist, sind beachtet worden.
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 1 Nummer 16 in Verbindung mit § 5 Absatz 1
@@ -40,7 +39,6 @@ Pflanzenschutzgesetzes in der Fassung der Bekanntmachung vom 14. Mai
 1 und Absatz 4 Satz 1 zuletzt geändert durch Artikel 1 des Gesetzes
 vom 22. Juni 2006 (BGBl. I S. 1342), verordnet das Bundesministerium
 für Ernährung, Landwirtschaft und Verbraucherschutz:
-
 
 ## § 1 Vollständiges Verbot der Einfuhr und des Inverkehrbringens
 
@@ -55,7 +53,6 @@ Pflanzenschutzmittel, das aus einem in Anlage 1 aufgeführten Wirkstoff
 besteht oder einen solchen Wirkstoff enthält, behandelt worden ist
 oder dem ein solches Pflanzenschutzmittel anhaftet, an Händler oder
 Saatguterzeuger zur ordnungsgemäßen Entsorgung abgegeben werden.
-
 
 ## § 2 Beschränktes Verbot der Einfuhr und des Inverkehrbringens
 
@@ -73,7 +70,6 @@ besteht oder einen solchen Wirkstoff enthält, behandelt worden ist
 oder dem ein solches Pflanzenschutzmittel anhaftet und den in Absatz 1
 genannten Grenzwert für den Abrieb überschreitet, an Händler oder
 Saatguterzeuger zur ordnungsgemäßen Entsorgung abgegeben werden.
-
 
 ## § 3 Verbot und Beschränkung der Aussaat
 
@@ -100,7 +96,6 @@ eine solche Vorrichtung erreicht.Das Julius Kühn-Institut kann eine
 Liste von Gerätetypen, die diese Voraussetzung erfüllen, sowie
 geeignete Messmethoden im Bundesanzeiger bekannt machen.
 
-
 ## § 4 Ausnahmen
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
@@ -125,7 +120,6 @@ oder unvertretbare Auswirkungen auf den Naturhaushalt, insbesondere
 durch eine Abdrift des Abriebes des Pflanzenschutzmittels, zu
 verhindern.
 
-
 ## § 5 Anordnungsbefugnis
 
 In Anpassung an die örtlichen Verhältnisse kann die zuständige Behörde
@@ -136,18 +130,15 @@ Auswirkungen auf den Naturhaushalt, insbesondere durch eine Abdrift
 des Abriebes des Pflanzenschutzmittels, auf angrenzende Flächen zu
 verhindern.
 
-
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des
 Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig einer
 vollziehbaren Anordnung nach § 5 zuwiderhandelt.
 
-
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
 
 ## Anlage 1 (zu den §§ 1 und 3 Absatz 1) Wirkstoffe
 
@@ -156,12 +147,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 2 Imidacloprid
 3 Thiamethoxam
 
-
 ## Anlage 2 (zu den §§ 2 und 3 Absatz 2) Wirkstoffe
 
 (Fundstelle: BAnz 2009, 520)
 1 Methiocarb
-
 
 ## Anlage 3 (zu § 2 Absatz 1) Messmethode
 

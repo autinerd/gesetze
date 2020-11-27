@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 2562
 
-
-
 ## § 1
 
 Im Geltungsbereich dieses Gesetzes wird auf repräsentativer Grundlage
@@ -25,12 +23,10 @@ eine Bundesstatistik über Gebäude, Wohnungen, Wohnparteien und deren
 Wohnumgebung (Wohnungsstichprobe) nach den Verhältnissen im April 1978
 durchgeführt.
 
-
 ## § 2
 
 Die Wohnungsstichprobe wird mit einem Auswahlsatz von 1 vom Hundert
 der Gebäude mit Wohnraum durchgeführt.
-
 
 ## § 3
 
@@ -108,13 +104,6 @@ In der Wohnungsstichprobe sind zu erfassen:
     e)  bei Untermietern Fläche und Einrichtung der gemieteten Räume sowie die
         Höhe der Miete.
 
-
-
-
-
-
-
-
 ## § 4
 
 (1) Auskunftspflichtig sind alle volljährigen oder einen eigenen
@@ -130,7 +119,6 @@ Vertreter und die Gemeinden.
 
 (2) Die Auskünfte werden durch persönliche oder schriftliche Befragung
 eingeholt.
-
 
 ## § 5
 
@@ -161,12 +149,10 @@ Landesergebnissen oder mit Ergebnissen für Gebietsgliederungen zum
 Zwecke der Raumordnung, soweit Einzelangaben zur vollständigen
 Darstellung der Ergebnisse in den Tabellen erforderlich sind.
 
-
 ## § 6
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes
 auch im Land Berlin.
-
 
 ## § 7
 

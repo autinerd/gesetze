@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 109 G v. 21.6.2005 I 1818
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes vom 2. April
@@ -27,13 +26,11 @@ Dezember 1976 (BGBl. I S. 3574) eingefügt worden ist, wird im
 Einvernehmen mit dem Bundesminister für Umwelt, Naturschutz und
 Reaktorsicherheit verordnet:
 
-
 ## § 1
 
 Zur Sicherung des jeweiligen Schutzzwecks der in § 2 aufgeführten
 Naturschutzgebiete wird das Befahren der darin gelegenen
 Bundeswasserstraßen nach Maßgabe dieser Verordnung geregelt.
-
 
 ## § 2
 
@@ -147,13 +144,11 @@ dürfen, müssen, außer im Bereich der Bootsumtragestelle und der
 genehmigten Steganlagen, einen Mindestabstand von 15 m zu den Ufern
 einhalten.
 
-
 ## § 3
 
 Die nach § 2 für das Befahren mit Wasserfahrzeugen gesperrten
 Wasserflächen werden, soweit erforderlich, durch gelbe Tonnen
 bezeichnet.
-
 
 ## § 4
 
@@ -162,7 +157,6 @@ Wasserfahrzeugen mit Maschinenantrieb zulässig ist, dürfen diese eine
 Höchstgeschwindigkeit gegenüber dem Ufer von 6 km je Stunde nicht
 überschreiten, es sei denn, daß in der Talfahrt zur Erhaltung der
 Steuerungsfähigkeit eine höhere Geschwindigkeit erforderlich ist.
-
 
 ## § 5
 
@@ -185,7 +179,6 @@ gewähren, soweit sie erforderlich sind, um eine nach Maßgabe der
 jeweiligen Schutzgebietsverordnung zulässige Tätigkeit in einem
 Naturschutzgebiet auszuüben.
 
-
 ## § 6
 
 (1) Bei unmittelbar drohender Gefahr kann von den Vorschriften dieser
@@ -195,7 +188,6 @@ Verordnung abgewichen werden.
 Wasserfahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
 Wasserschutzpolizei, des Zolls, der Bundespolizei, der
 Fischereiaufsicht und der Wasserwirtschaftsverwaltung.
-
 
 ## § 6a
 
@@ -212,7 +204,6 @@ Schiffahrtsdirektion Südwest macht den Abschluß der in Satz 2
 genannten Baumaßnahmen im Verkehrsblatt - Amtsblatt des
 Bundesministeriums für Verkehr, Bau- und Wohnungswesen der
 Bundesrepublik Deutschland - bekannt.
-
 
 ## § 7
 
@@ -234,19 +225,13 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 4.  entgegen § 4 die zulässige Höchstgeschwindigkeit überschreitet.
 
-
-
-
-
 ## § 8
 
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesminister für Verkehr
-
 
 ## Anlage Lagepläne 1 bis 10
 

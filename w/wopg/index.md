@@ -21,7 +21,6 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 5.4.2011 I 554
 
-
 ## § 1 Prämienberechtigte
 
 Unbeschränkt einkommensteuerpflichtige Personen im Sinne des § 1 Abs.
@@ -37,10 +36,6 @@ Wohnungsbaus eine Prämie erhalten. Voraussetzung ist, daß
 
 2.  das maßgebende Einkommen des Prämienberechtigten die Einkommensgrenze
     (§ 2a) nicht überschritten hat.
-
-
-
-
 
 ## § 2 Prämienbegünstigte Aufwendungen
 
@@ -171,7 +166,6 @@ beliehen werden. Unschädlich ist jedoch die vorzeitige Verfügung, wenn
 
 Absatz 2 Satz 7 bis 10 gilt sinngemäß.
 
-
 ## § 2a Einkommensgrenze
 
 Die Einkommensgrenze beträgt 25.600 Euro, bei Ehegatten (§ 3 Abs. 3)
@@ -182,11 +176,9 @@ Zusammenveranlagung nach § 26b des Einkommensteuergesetzes ergeben hat
 oder, falls eine Veranlagung nicht durchgeführt worden ist, ergeben
 würde\*
 
-
 ## § 2b
 
 (weggefallen)
-
 
 ## § 3 Höhe der Prämie
 
@@ -204,7 +196,6 @@ Prämienberechtigten gemeinsam zu (Höchstbetragsgemeinschaft).
 eine Veranlagung zur Einkommensteuer nicht durchgeführt wird, die
 Voraussetzungen des § 26 Abs. 1 Satz 1 des Einkommensteuergesetzes
 erfüllen.
-
 
 ## § 4 Prämienverfahren allgemein
 
@@ -240,7 +231,6 @@ hat (§ 5).
 Verhältnisse der Beteiligten nur für das Verfahren verwerten. Es darf
 sie ohne Zustimmung der Beteiligten nur offenbaren, soweit dies
 gesetzlich zugelassen ist.
-
 
 ## § 4a Prämienverfahren im Fall des § 2 Abs. 1 Nr. 1
 
@@ -337,7 +327,6 @@ dieses Gesetzes zu führen und aufzubewahren.
 (9) Die Bausparkasse erhält vom Bund oder den Ländern keinen Ersatz
 für die ihr aus dem Prämienverfahren entstehenden Kosten.
 
-
 ## § 4b Prämienverfahren in den Fällen des § 2 Abs. 1 Nr. 2 bis 4
 
 (1) Bei Aufwendungen im Sinne des § 2 Abs. 1 Nr. 2 bis 4 hat das
@@ -358,7 +347,6 @@ prämienbegünstigten Aufwendungen durch das Unternehmen noch nicht
 ausgezahlt, so darf die Auszahlung nicht vorgenommen werden, bevor die
 Prämien an das Finanzamt zurückgezahlt sind.
 
-
 ## § 5 Verwendung der Prämie
 
 (1) (weggefallen)
@@ -375,18 +363,15 @@ ausgezahlt werden, kann der Prämienberechtigte verfügen, wenn das
 Geschäftsguthaben beim Ausscheiden des Prämienberechtigten aus der
 Genossenschaft ausgezahlt wird.
 
-
 ## § 6 Steuerliche Behandlung der Prämie
 
 Die Prämien gehören nicht zu den Einkünften im Sinne des
 Einkommensteuergesetzes.
 
-
 ## § 7 Aufbringung der Mittel
 
 Der Bund stellt die Beträge für die Prämien den Ländern in voller Höhe
 gesondert zur Verfügung.
-
 
 ## § 8 Anwendung der Abgabenordnung und der Finanzgerichtsordnung
 
@@ -412,7 +397,6 @@ Finanzrechtsweg gegeben.
 maßgebenden Einkommens, die der Veranlagung zur Einkommensteuer
 zugrunde gelegen haben, können der Höhe nach nicht durch einen
 Rechtsbehelf gegen die Prämie angegriffen werden.
-
 
 ## § 9 Ermächtigungen
 
@@ -484,7 +468,6 @@ b)  die in § 4a Abs. 3 vorgeschriebenen Datensätze
 
 
 zu bestimmen.
-
 
 ## § 10 Schlußvorschriften
 

@@ -19,7 +19,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 36 G v. 27.12.2003 I 3022
 
-
 ## Eingangsformel
 
 Auf Grund des § 117 Abs. 3 der Zivilprozeßordnung, der durch Artikel 1
@@ -31,7 +30,6 @@ Bundesministerium der Justiz, auf Grund des § 11a Abs. 4 des
 Arbeitsgerichtsgesetzes, der durch Artikel 4 Nr. 11 des Gesetzes über
 die Prozeßkostenhilfe angefügt worden ist, verordnet das
 Bundesministerium für Arbeit und Sozialordnung:
-
 
 ## § 1 Vordruck
 
@@ -45,7 +43,6 @@ einer juristischen Person oder einer parteifähigen Vereinigung.
 (3) Für eine Partei, die die Erklärung nach § 2 in vereinfachter Form
 abgeben kann, gilt Absatz 1 nur, soweit ein Gericht die Benutzung des
 in der Anlage bestimmten Vordrucks anordnet.
-
 
 ## § 2 Vereinfachte Erklärung
 
@@ -95,7 +92,6 @@ Bewilligungsbescheid des Sozialamtes beifügt.
 und 2 nicht berufen, wenn das Gericht die Benutzung des in der Anlage
 bestimmten Vordrucks anordnet.
 
-
 ## § 3 Zulässige Abweichungen
 
 (1) Folgende Abweichungen von dem in der Anlage bestimmten Vordruck
@@ -117,16 +113,13 @@ auf der ersten Seite des Hinweisblattes und des Vordrucks durch eine
 Bezeichnung des Gerichtszweiges und des Bundeslandes zu ersetzen, in
 dem die abweichende Fassung des Hinweisblattes verwendet wird.
 
-
 ## § 4 Inkrafttreten, Aufhebung von Vorschriften
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage
 

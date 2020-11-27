@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 1004
 
-
-
 ## § 1
 
 (1) Die Umstellung des Nennbetrags von Schuldverschreibungen auf
@@ -60,7 +58,6 @@ Inkrafttreten dieses Gesetzes gleichzeitig mit der Beschlußfassung
 (3) Sind Aktien einer Gesellschaft nur teilweise zum Börsenhandel
 zugelassen, so erstreckt sich die Zulassung auf das gesamte in
 Deutscher Mark umgestellte Grundkapital.
-
 
 ## § 2
 
@@ -111,7 +108,6 @@ Deutscher Mark bekanntzumachen; die Bekanntmachung muß enthalten:
 (2) Die Zulassungsstelle kann weitere Angaben in der Bekanntmachung
 verlangen.
 
-
 ## § 3
 
 (1) Die Bekanntmachung hat im Bundesanzeiger und in einer von der
@@ -133,12 +129,10 @@ Zulassungsstelle die Zulassung der Aktien zurückzunehmen.
 erfolgt, die den Erfordernissen der §§ 2 und 3 entspricht, so bedarf
 es einer erneuten Bekanntmachung nicht.
 
-
 ## § 4
 
 Dieses Gesetz gilt auch im Land Berlin, sobald es gemäß Artikel 87
 Abs. 2 seiner Verfassung die Anwendung dieses Gesetzes beschließt.
-
 
 ## § 5
 

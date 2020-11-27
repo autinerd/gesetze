@@ -16,8 +16,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2609
 
-
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
@@ -81,7 +79,6 @@ Bei den Münzen in der Qualität Spiegelglanz erscheinen die Münzzeichen
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 "DEUTSCHLAND - DAS SIND WIR SELBER - 1833".
 Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg.
-
 
 ## (XXXX)
 

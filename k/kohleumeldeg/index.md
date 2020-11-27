@@ -18,7 +18,6 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 158 V v. 31.10.2006 I 2407
 
-
 ## § 1 Meldungen
 
 (1) Die Unternehmen, die in der Bundesrepublik Deutschland
@@ -100,7 +99,6 @@ zusammenhängenden Besteuerungsverfahrens benötigen, an deren
 Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
 es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
 der für ihn tätigen Personen handelt.
-
 
 ## § 2
 

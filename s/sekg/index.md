@@ -19,9 +19,7 @@ Fundstelle
 Geändert durch
 :   Art. 16 G v. 20.12.2011 I 2854
 
-
 ## Abschnitt 1 - Sekundierung
-
 
 ### § 1 Geltungsbereich
 
@@ -32,7 +30,6 @@ internationalen, supranationalen oder ausländischen staatlichen
 Einrichtungen tätig werden, soweit diese Personen nicht durch Dritte,
 insbesondere durch die aufnehmende Einrichtung, bei der sie tätig
 werden, sozial abgesichert sind.
-
 
 ### § 2 Voraussetzungen der Sekundierung
 
@@ -61,7 +58,6 @@ Zwecke der Krisenvorsorge, der Krisenbewältigung oder der
 Krisennachsorge außerhalb der Bundesrepublik Deutschland, die im
 Auftrag oder im Interesse internationaler, supranationaler oder
 ausländischer staatlicher Einrichtungen durchgeführt werden.
-
 
 ### § 3 Inhalt des Sekundierungsvertrags
 
@@ -103,7 +99,6 @@ die Bezeichnung der aufnehmenden Einrichtung und die Aufgabe der
 sekundierten Person angeben sowie Beginn und Dauer der Sekundierung
 regeln.
 
-
 ### § 4 Zuschuss zur Altersvorsorge
 
 (1) Durch den Sekundierungsvertrag wird die Bundesrepublik Deutschland
@@ -132,10 +127,6 @@ gewähren.
     Alterssicherungssystem nicht mit zusätzlichen Kosten für die
     sekundierte Person verbunden ist.
 
-
-
-
-
 ### § 5 Absicherung gegen Risiken von Krankheit und Pflegebedürftigkeit
 
 (1) Die sekundierte Person ist verpflichtet, für die Zeit der
@@ -163,7 +154,6 @@ Eigenvorsorge für die Risiken der Krankheit und Pflegebedürftigkeit
 trägt oder soweit die Absicherung dieser Risiken auf andere Weise
 gewährleistet ist.
 
-
 ### § 6 Absicherung gegen Haftungsrisiken
 
 Durch den Sekundierungsvertrag wird die Bundesrepublik Deutschland
@@ -177,7 +167,6 @@ Sekundierungsvertrags nachgewiesen wurde. Die Verpflichtung besteht
 nicht, soweit eine andere Stelle die Prämien einer angemessenen
 Haftpflichtversicherung für die sekundierte Person zahlt oder die
 Absicherung dieses Risikos auf andere Weise gewährleistet ist.
-
 
 ### § 7 Reisekosten
 
@@ -201,15 +190,12 @@ Sekundierung unmittelbar eine weitere an, so tritt an die Stelle der
 Reise vom Einsatzort zum letzten inländischen Wohnort nach Absatz 1
 die Reise vom letzten Einsatzort zum neuen Einsatzort.
 
-
 ### § 8 Rechtsweg
 
 Für Rechtsstreitigkeiten aus dem Sekundierungsvertrag sind die
 ordentlichen Gerichte zuständig.
 
-
 ## Abschnitt 2 - Recht der Arbeitsförderung
-
 
 ### § 9 Entgeltersatzleistungen bei Arbeitslosigkeit
 
@@ -222,7 +208,6 @@ gleich.
 maßgebenden Arbeitsentgelts ist für die Zeit eines nach Absatz 1 zu
 berücksichtigenden Sekundierungsverhältnisses das Arbeitsentgelt nach
 § 152 des Dritten Buches Sozialgesetzbuch zugrunde zu legen.
-
 
 ### § 10 Mehraufwendungen der Bundesagentur für Arbeit
 

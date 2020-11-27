@@ -96,36 +96,22 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
     29\. Juni 2000 zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr
     (ABl. EG Nr. L 200 S. 35).
 
-
-
-
-
 ## Buch 1 - Allgemeiner Teil
-
-
 
 ### Abschnitt 1 - Personen
 
-
-
 #### Titel 1 - Natürliche Personen, Verbraucher, Unternehmer
-
-
 
 ##### § 1 Beginn der Rechtsfähigkeit
 
 Die Rechtsfähigkeit des Menschen beginnt mit der Vollendung der
 Geburt.
 
-
 ##### § 2 Eintritt der Volljährigkeit
 
 Die Volljährigkeit tritt mit der Vollendung des 18. Lebensjahres ein.
 
-
 ##### (XXXX) §§ 3 bis 6 (weggefallen)
-
-
 
 ##### § 7 Wohnsitz; Begründung und Aufhebung
 
@@ -137,7 +123,6 @@ Ort seinen Wohnsitz.
 (3) Der Wohnsitz wird aufgehoben, wenn die Niederlassung mit dem
 Willen aufgehoben wird, sie aufzugeben.
 
-
 ##### § 8 Wohnsitz nicht voll Geschäftsfähiger
 
 (1) Wer geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt
@@ -146,7 +131,6 @@ Wohnsitz weder begründen noch aufheben.
 
 (2) Ein Minderjähriger, der verheiratet ist oder war, kann selbständig
 einen Wohnsitz begründen und aufheben.
-
 
 ##### § 9 Wohnsitz eines Soldaten
 
@@ -158,10 +142,7 @@ inländische Standort.
 auf Grund der Wehrpflicht Wehrdienst leisten oder die nicht
 selbständig einen Wohnsitz begründen können.
 
-
 ##### § 10 (weggefallen)
-
-
 
 ##### § 11 Wohnsitz des Kindes
 
@@ -172,7 +153,6 @@ Person des Kindes zu sorgen, so teilt das Kind den Wohnsitz
 desjenigen, dem dieses Recht zusteht. Das Kind behält den Wohnsitz,
 bis es ihn rechtsgültig aufhebt.
 
-
 ##### § 12 Namensrecht
 
 Wird das Recht zum Gebrauch eines Namens dem Berechtigten von einem
@@ -181,7 +161,6 @@ verletzt, dass ein anderer unbefugt den gleichen Namen gebraucht, so
 kann der Berechtigte von dem anderen Beseitigung der Beeinträchtigung
 verlangen. Sind weitere Beeinträchtigungen zu besorgen, so kann er auf
 Unterlassung klagen.
-
 
 ##### § 13 Verbraucher
 
@@ -194,7 +173,6 @@ selbständigen beruflichen Tätigkeit zugerechnet werden kann.
 [^BJNR001950896BJNE244601377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient der
     Umsetzung der eingangs zu den Nummern 3, 4, 6, 7, 9 und 11 genannten
     Richtlinien.
-
 
 ##### § 14 Unternehmer
 
@@ -213,29 +191,19 @@ zu erwerben und Verbindlichkeiten einzugehen.
     Umsetzung der eingangs zu den Nummern 3, 4, 6, 7, 9 und 11 genannten
     Richtlinien.
 
-
 ##### (XXXX) §§ 15 bis 20 (weggefallen)
-
-
 
 #### Titel 2 - Juristische Personen
 
-
-
 ##### Untertitel 1 - Vereine
 
-
-
 ###### Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 21 Nicht wirtschaftlicher Verein
 
 Ein Verein, dessen Zweck nicht auf einen wirtschaftlichen
 Geschäftsbetrieb gerichtet ist, erlangt Rechtsfähigkeit durch
 Eintragung in das Vereinsregister des zuständigen Amtsgerichts.
-
 
 ###### § 22 Wirtschaftlicher Verein
 
@@ -245,24 +213,20 @@ Vorschriften Rechtsfähigkeit durch staatliche Verleihung. Die
 Verleihung steht dem Land zu, in dessen Gebiet der Verein seinen Sitz
 hat.
 
-
 ###### § 23 (weggefallen)
 
 -
-
 
 ###### § 24 Sitz
 
 Als Sitz eines Vereins gilt, wenn nicht ein anderes bestimmt ist, der
 Ort, an welchem die Verwaltung geführt wird.
 
-
 ###### § 25 Verfassung
 
 Die Verfassung eines rechtsfähigen Vereins wird, soweit sie nicht auf
 den nachfolgenden Vorschriften beruht, durch die Vereinssatzung
 bestimmt.
-
 
 ###### § 26 Vorstand und Vertretung
 
@@ -275,7 +239,6 @@ die Satzung mit Wirkung gegen Dritte beschränkt werden.
 durch die Mehrheit der Vorstandsmitglieder vertreten. Ist eine
 Willenserklärung gegenüber einem Verein abzugeben, so genügt die
 Abgabe gegenüber einem Mitglied des Vorstands.
-
 
 ###### § 27 Bestellung und Geschäftsführung des Vorstands
 
@@ -292,13 +255,11 @@ Geschäftsführung.
 (3) Auf die Geschäftsführung des Vorstands finden die für den Auftrag
 geltenden Vorschriften der §§ 664 bis 670 entsprechende Anwendung.
 
-
 ###### § 28 Beschlussfassung des Vorstands
 
 Bei einem Vorstand, der aus mehreren Personen besteht, erfolgt die
 Beschlussfassung nach den für die Beschlüsse der Mitglieder des
 Vereins geltenden Vorschriften der §§ 32 und 34.
-
 
 ###### § 29 Notbestellung durch Amtsgericht
 
@@ -306,7 +267,6 @@ Soweit die erforderlichen Mitglieder des Vorstands fehlen, sind sie in
 dringenden Fällen für die Zeit bis zur Behebung des Mangels auf Antrag
 eines Beteiligten von dem Amtsgericht zu bestellen, das für den
 Bezirk, in dem der Verein seinen Sitz hat, das Vereinsregister führt.
-
 
 ###### § 30 Besondere Vertreter
 
@@ -316,7 +276,6 @@ Vertretungsmacht eines solchen Vertreters erstreckt sich im Zweifel
 auf alle Rechtsgeschäfte, die der ihm zugewiesene Geschäftskreis
 gewöhnlich mit sich bringt.
 
-
 ###### § 31 Haftung des Vereins für Organe
 
 Der Verein ist für den Schaden verantwortlich, den der Vorstand, ein
@@ -324,7 +283,6 @@ Mitglied des Vorstands oder ein anderer verfassungsmäßig berufener
 Vertreter durch eine in Ausführung der ihm zustehenden Verrichtungen
 begangene, zum Schadensersatz verpflichtende Handlung einem Dritten
 zufügt.
-
 
 ###### § 31a Haftung von Vorstandsmitgliedern
 
@@ -341,7 +299,6 @@ verpflichtet, so kann er von dem Verein die Befreiung von der
 Verbindlichkeit verlangen. Satz 1 gilt nicht, wenn der Schaden
 vorsätzlich oder grob fahrlässig verursacht wurde.
 
-
 ###### § 32 Mitgliederversammlung; Beschlussfassung
 
 (1) Die Angelegenheiten des Vereins werden, soweit sie nicht von dem
@@ -355,7 +312,6 @@ Mehrheit der abgegebenen Stimmen.
 wenn alle Mitglieder ihre Zustimmung zu dem Beschluss schriftlich
 erklären.
 
-
 ###### § 33 Satzungsänderung
 
 (1) Zu einem Beschluss, der eine Änderung der Satzung enthält, ist
@@ -368,26 +324,22 @@ Mitglieder muss schriftlich erfolgen.
 jeder Änderung der Satzung die Genehmigung der zuständigen Behörde
 erforderlich.
 
-
 ###### § 34 Ausschluss vom Stimmrecht
 
 Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die
 Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder
 Erledigung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
 
-
 ###### § 35 Sonderrechte
 
 Sonderrechte eines Mitglieds können nicht ohne dessen Zustimmung durch
 Beschluss der Mitgliederversammlung beeinträchtigt werden.
-
 
 ###### § 36 Berufung der Mitgliederversammlung
 
 Die Mitgliederversammlung ist in den durch die Satzung bestimmten
 Fällen sowie dann zu berufen, wenn das Interesse des Vereins es
 erfordert.
-
 
 ###### § 37 Berufung auf Verlangen einer Minderheit
 
@@ -404,13 +356,11 @@ das für den Bezirk, in dem der Verein seinen Sitz hat, das
 Vereinsregister führt. Auf die Ermächtigung muss bei der Berufung der
 Versammlung Bezug genommen werden.
 
-
 ###### § 38 Mitgliedschaft
 
 Die Mitgliedschaft ist nicht übertragbar und nicht vererblich. Die
 Ausübung der Mitgliedschaftsrechte kann nicht einem anderen überlassen
 werden.
-
 
 ###### § 39 Austritt aus dem Verein
 
@@ -421,7 +371,6 @@ Schluss eines Geschäftsjahrs oder erst nach dem Ablauf einer
 Kündigungsfrist zulässig ist; die Kündigungsfrist kann höchstens zwei
 Jahre betragen.
 
-
 ###### § 40 Nachgiebige Vorschriften
 
 Die Vorschriften des § 26 Absatz 2 Satz 1, des § 27 Absatz 1 und 3, ,
@@ -430,14 +379,12 @@ insoweit keine Anwendung als die Satzung ein anderes bestimmt. Von §
 34 kann auch für die Beschlussfassung des Vorstands durch die Satzung
 nicht abgewichen werden.
 
-
 ###### § 41 Auflösung des Vereins
 
 Der Verein kann durch Beschluss der Mitgliederversammlung aufgelöst
 werden. Zu dem Beschluss ist eine Mehrheit von drei Vierteln der
 abgegebenen Stimmen erforderlich, wenn nicht die Satzung ein anderes
 bestimmt.
-
 
 ###### § 42 Insolvenz
 
@@ -460,20 +407,17 @@ Vorstandsmitglieder, denen ein Verschulden zur Last fällt, den
 Gläubigern für den daraus entstehenden Schaden verantwortlich; sie
 haften als Gesamtschuldner.
 
-
 ###### § 43 Entziehung der Rechtsfähigkeit
 
 Einem Verein, dessen Rechtsfähigkeit auf Verleihung beruht, kann die
 Rechtsfähigkeit entzogen werden, wenn er einen anderen als den in der
 Satzung bestimmten Zweck verfolgt.
 
-
 ###### § 44 Zuständigkeit und Verfahren
 
 Die Zuständigkeit und das Verfahren für die Entziehung der
 Rechtsfähigkeit nach § 43 bestimmen sich nach dem Recht des Landes, in
 dem der Verein seinen Sitz hat.
-
 
 ###### § 45 Anfall des Vereinsvermögens
 
@@ -495,7 +439,6 @@ oder der Entziehung der Rechtsfähigkeit vorhandenen Mitglieder zu
 gleichen Teilen, anderenfalls an den Fiskus des Landes, in dessen
 Gebiet der Verein seinen Sitz hatte.
 
-
 ###### § 46 Anfall an den Fiskus
 
 Fällt das Vereinsvermögen an den Fiskus, so finden die Vorschriften
@@ -503,13 +446,11 @@ Fällt das Vereinsvermögen an den Fiskus, so finden die Vorschriften
 entsprechende Anwendung. Der Fiskus hat das Vermögen tunlichst in
 einer den Zwecken des Vereins entsprechenden Weise zu verwenden.
 
-
 ###### § 47 Liquidation
 
 Fällt das Vereinsvermögen nicht an den Fiskus, so muss eine
 Liquidation stattfinden, sofern nicht über das Vermögen des Vereins
 das Insolvenzverfahren eröffnet ist.
-
 
 ###### § 48 Liquidatoren
 
@@ -523,7 +464,6 @@ soweit sich nicht aus dem Zwecke der Liquidation ein anderes ergibt.
 (3) Sind mehrere Liquidatoren vorhanden, so sind sie nur
 gemeinschaftlich zur Vertretung befugt und können Beschlüsse nur
 einstimmig fassen, sofern nicht ein anderes bestimmt ist.
-
 
 ###### § 49 Aufgaben der Liquidatoren
 
@@ -540,7 +480,6 @@ Anfallberechtigten erforderlich sind.
 (2) Der Verein gilt bis zur Beendigung der Liquidation als
 fortbestehend, soweit der Zweck der Liquidation es erfordert.
 
-
 ###### § 50 Bekanntmachung des Vereins in Liquidation
 
 (1) Die Auflösung des Vereins oder die Entziehung der Rechtsfähigkeit
@@ -554,7 +493,6 @@ Einrückung als bewirkt.
 (2) Bekannte Gläubiger sind durch besondere Mitteilung zur Anmeldung
 aufzufordern.
 
-
 ###### § 50a Bekanntmachungsblatt
 
 Hat ein Verein in der Satzung kein Blatt für Bekanntmachungen bestimmt
@@ -563,13 +501,11 @@ eingestellt, sind Bekanntmachungen des Vereins in dem Blatt zu
 veröffentlichen, welches für Bekanntmachungen des Amtsgerichts
 bestimmt ist, in dessen Bezirk der Verein seinen Sitz hat.
 
-
 ###### § 51 Sperrjahr
 
 Das Vermögen darf den Anfallberechtigten nicht vor dem Ablauf eines
 Jahres nach der Bekanntmachung der Auflösung des Vereins oder der
 Entziehung der Rechtsfähigkeit ausgeantwortet werden.
-
 
 ###### § 52 Sicherung für Gläubiger
 
@@ -582,7 +518,6 @@ ausführbar oder ist eine Verbindlichkeit streitig, so darf das
 Vermögen den Anfallberechtigten nur ausgeantwortet werden, wenn dem
 Gläubiger Sicherheit geleistet ist.
 
-
 ###### § 53 Schadensersatzpflicht der Liquidatoren
 
 Liquidatoren, welche die ihnen nach dem § 42 Abs. 2 und den §§ 50, 51
@@ -590,7 +525,6 @@ und 52 obliegenden Verpflichtungen verletzen oder vor der Befriedigung
 der Gläubiger Vermögen den Anfallberechtigten ausantworten, sind, wenn
 ihnen ein Verschulden zur Last fällt, den Gläubigern für den daraus
 entstehenden Schaden verantwortlich; sie haften als Gesamtschuldner.
-
 
 ###### § 54 Nicht rechtsfähige Vereine
 
@@ -600,17 +534,13 @@ eines solchen Vereins einem Dritten gegenüber vorgenommen wird, haftet
 der Handelnde persönlich; handeln mehrere, so haften sie als
 Gesamtschuldner.
 
-
 ###### Kapitel 2 - Eingetragene Vereine
-
-
 
 ###### § 55 Zuständigkeit für die Registereintragung
 
 Die Eintragung eines Vereins der in § 21 bezeichneten Art in das
 Vereinsregister hat bei dem Amtsgericht zu geschehen, in dessen Bezirk
 der Verein seinen Sitz hat.
-
 
 ###### § 55a Elektronisches Vereinsregister
 
@@ -653,12 +583,10 @@ kann. Durch eine Bestätigungsanzeige oder in anderer geeigneter Weise
 ist zu überprüfen, ob diese Voraussetzungen eingetreten sind. Jede
 Eintragung soll den Tag angeben, an dem sie wirksam geworden ist.
 
-
 ###### § 56 Mindestmitgliederzahl des Vereins
 
 Die Eintragung soll nur erfolgen, wenn die Zahl der Mitglieder
 mindestens sieben beträgt.
-
 
 ###### § 57 Mindesterfordernisse an die Vereinssatzung
 
@@ -668,7 +596,6 @@ enthalten und ergeben, dass der Verein eingetragen werden soll.
 (2) Der Name soll sich von den Namen der an demselben Orte oder in
 derselben Gemeinde bestehenden eingetragenen Vereine deutlich
 unterscheiden.
-
 
 ###### § 58 Sollinhalt der Vereinssatzung
 
@@ -687,10 +614,6 @@ Die Satzung soll Bestimmungen enthalten:
     berufen ist, über die Form der Berufung und über die Beurkundung der
     Beschlüsse.
 
-
-
-
-
 ###### § 59 Anmeldung zur Eintragung
 
 (1) Der Vorstand hat den Verein zur Eintragung anzumelden.
@@ -701,17 +624,13 @@ die Bestellung des Vorstands beizufügen.
 (3) Die Satzung soll von mindestens sieben Mitgliedern unterzeichnet
 sein und die Angabe des Tages der Errichtung enthalten.
 
-
 ###### § 60 Zurückweisung der Anmeldung
 
 Die Anmeldung ist, wenn den Erfordernissen der §§ 56 bis 59 nicht
 genügt ist, von dem Amtsgericht unter Angabe der Gründe
 zurückzuweisen.
 
-
 ###### (XXXX) §§ 61 bis 63 (weggefallen)
-
-
 
 ###### § 64 Inhalt der Vereinsregistereintragung
 
@@ -719,12 +638,10 @@ Bei der Eintragung sind der Name und der Sitz des Vereins, der Tag der
 Errichtung der Satzung, die Mitglieder des Vorstands und ihre
 Vertretungsmacht anzugeben.
 
-
 ###### § 65 Namenszusatz
 
 Mit der Eintragung erhält der Name des Vereins den Zusatz
 "eingetragener Verein".
-
 
 ###### § 66 Bekanntmachung der Eintragung und Aufbewahrung von Dokumenten
 
@@ -736,7 +653,6 @@ Kommunikationssystem bekannt zu machen.
 (2) Die mit der Anmeldung eingereichten Dokumente werden vom
 Amtsgericht aufbewahrt.
 
-
 ###### § 67 Änderung des Vorstands
 
 (1) Jede Änderung des Vorstands ist von dem Vorstand zur Eintragung
@@ -745,7 +661,6 @@ anzumelden. Der Anmeldung ist eine Abschrift der Urkunde über die
 
 (2) Die Eintragung gerichtlich bestellter Vorstandsmitglieder erfolgt
 von Amts wegen.
-
 
 ###### § 68 Vertrauensschutz durch Vereinsregister
 
@@ -757,13 +672,11 @@ dem Dritten bekannt ist. Ist die Änderung eingetragen, so braucht der
 Dritte sie nicht gegen sich gelten zu lassen, wenn er sie nicht kennt,
 seine Unkenntnis auch nicht auf Fahrlässigkeit beruht.
 
-
 ###### § 69 Nachweis des Vereinsvorstands
 
 Der Nachweis, dass der Vorstand aus den im Register eingetragenen
 Personen besteht, wird Behörden gegenüber durch ein Zeugnis des
 Amtsgerichts über die Eintragung geführt.
-
 
 ###### § 70 Vertrauensschutz bei Eintragungen zur Vertretungsmacht
 
@@ -771,7 +684,6 @@ Die Vorschriften des § 68 gelten auch für Bestimmungen, die den Umfang
 der Vertretungsmacht des Vorstands beschränken oder die
 Vertretungsmacht des Vorstands abweichend von der Vorschrift des § 26
 Absatz 2 Satz 1 regeln.
-
 
 ###### § 71 Änderungen der Satzung
 
@@ -789,13 +701,11 @@ mit den zuvor eingetragenen Änderungen übereinstimmen.
 (2) Die Vorschriften der §§ 60, 64 und des § 66 Abs. 2 finden
 entsprechende Anwendung.
 
-
 ###### § 72 Bescheinigung der Mitgliederzahl
 
 Der Vorstand hat dem Amtsgericht auf dessen Verlangen jederzeit eine
 schriftliche Bescheinigung über die Zahl der Vereinsmitglieder
 einzureichen.
-
 
 ###### § 73 Unterschreiten der Mindestmitgliederzahl
 
@@ -803,7 +713,6 @@ Sinkt die Zahl der Vereinsmitglieder unter drei herab, so hat das
 Amtsgericht auf Antrag des Vorstands und, wenn der Antrag nicht binnen
 drei Monaten gestellt wird, von Amts wegen nach Anhörung des Vorstands
 dem Verein die Rechtsfähigkeit zu entziehen.
-
 
 ###### § 74 Auflösung
 
@@ -817,7 +726,6 @@ anzumelden. Der Anmeldung ist im ersteren Falle eine Abschrift des
 Auflösungsbeschlusses beizufügen.
 
 (3) (weggefallen)
-
 
 ###### § 75 Eintragungen bei Insolvenz
 
@@ -856,7 +764,6 @@ auch einzutragen
 zur Eintragung anzumelden. Der Anmeldung ist eine Abschrift des
 Beschlusses beizufügen.
 
-
 ###### § 76 Eintragungen bei Liquidation
 
 (1) Bei der Liquidation des Vereins sind die Liquidatoren und ihre
@@ -876,7 +783,6 @@ Urkunde beizufügen.
 (3) Die Eintragung gerichtlich bestellter Liquidatoren geschieht von
 Amts wegen.
 
-
 ###### § 77 Anmeldepflichtige und Form der Anmeldungen
 
 Die Anmeldungen zum Vereinsregister sind von Mitgliedern des Vorstands
@@ -884,7 +790,6 @@ sowie von den Liquidatoren, die insoweit zur Vertretung des Vereins
 berechtigt sind, mittels öffentlich beglaubigter Erklärung abzugeben.
 Die Erklärung kann in Urschrift oder in öffentlich beglaubigter
 Abschrift beim Gericht eingereicht werden.
-
 
 ###### § 78 Festsetzung von Zwangsgeld
 
@@ -895,7 +800,6 @@ Zwangsgeld anhalten.
 
 (2) In gleicher Weise können die Liquidatoren zur Befolgung der
 Vorschriften des § 76 angehalten werden.
-
 
 ###### § 79 Einsicht in das Vereinsregister
 
@@ -944,10 +848,7 @@ Rechtsverordnung auf die Landesjustizverwaltung übertragen. Die Länder
 können auch die Übertragung der Zuständigkeit auf die zuständige
 Stelle eines anderen Landes vereinbaren.
 
-
 ##### Untertitel 2 - Stiftungen
-
-
 
 ###### § 80 Entstehung einer rechtsfähigen Stiftung
 
@@ -963,7 +864,6 @@ erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet.
 (3) Vorschriften der Landesgesetze über kirchliche Stiftungen bleiben
 unberührt. Das gilt entsprechend für Stiftungen, die nach den
 Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.
-
 
 ###### § 81 Stiftungsgeschäft
 
@@ -1002,7 +902,6 @@ gestellt oder im Falle der notariellen Beurkundung des
 Stiftungsgeschäfts den Notar bei oder nach der Beurkundung mit der
 Antragstellung betraut hat.
 
-
 ###### § 82 Übertragungspflicht des Stifters
 
 Wird die Stiftung als rechtsfähig anerkannt, so ist der Stifter
@@ -1011,7 +910,6 @@ die Stiftung zu übertragen. Rechte, zu deren Übertragung der
 Abtretungsvertrag genügt, gehen mit der Anerkennung auf die Stiftung
 über, sofern nicht aus dem Stiftungsgeschäft sich ein anderer Wille
 des Stifters ergibt.
-
 
 ###### § 83 Stiftung von Todes wegen
 
@@ -1027,19 +925,16 @@ ein anderes bestimmt ist, der Ort, an welchem die Verwaltung geführt
 wird. Im Zweifel gilt der letzte Wohnsitz des Stifters im Inland als
 Sitz.
 
-
 ###### § 84 Anerkennung nach Tod des Stifters
 
 Wird die Stiftung erst nach dem Tode des Stifters als rechtsfähig
 anerkannt, so gilt sie für die Zuwendungen des Stifters als schon vor
 dessen Tod entstanden.
 
-
 ###### § 85 Stiftungsverfassung
 
 Die Verfassung einer Stiftung wird, soweit sie nicht auf Bundes- oder
 Landesgesetz beruht, durch das Stiftungsgeschäft bestimmt.
-
 
 ###### § 86 Anwendung des Vereinsrechts
 
@@ -1051,7 +946,6 @@ die Verwaltung der Stiftung von einer öffentlichen Behörde geführt
 wird, ein anderes ergibt. Die Vorschriften des § 26 Absatz 2 Satz 2
 und des § 29 finden auf Stiftungen, deren Verwaltung von einer
 öffentlichen Behörde geführt wird, keine Anwendung.
-
 
 ###### § 87 Zweckänderung; Aufhebung
 
@@ -1069,7 +963,6 @@ des Zweckes es erfordert.
 (3) Vor der Umwandlung des Zweckes und der Änderung der Verfassung
 soll der Vorstand der Stiftung gehört werden.
 
-
 ###### § 88 Vermögensanfall
 
 Mit dem Erlöschen der Stiftung fällt das Vermögen an die in der
@@ -1079,10 +972,7 @@ dem die Stiftung ihren Sitz hatte, oder an einen anderen nach dem
 Recht dieses Landes bestimmten Anfallberechtigten. Die Vorschriften
 der §§ 46 bis 53 finden entsprechende Anwendung.
 
-
 ##### Untertitel 3 - Juristische Personen des öffentlichen Rechts
-
-
 
 ###### § 89 Haftung für Organe; Insolvenz
 
@@ -1094,15 +984,11 @@ entsprechende Anwendung.
 Anstalten des öffentlichen Rechts das Insolvenzverfahren zulässig ist,
 von der Vorschrift des § 42 Abs. 2.
 
-
 ### Abschnitt 2 - Sachen und Tiere
-
-
 
 #### § 90 Begriff der Sache
 
 Sachen im Sinne des Gesetzes sind nur körperliche Gegenstände.
-
 
 #### § 90a Tiere
 
@@ -1110,12 +996,10 @@ Tiere sind keine Sachen. Sie werden durch besondere Gesetze geschützt.
 Auf sie sind die für Sachen geltenden Vorschriften entsprechend
 anzuwenden, soweit nicht etwas anderes bestimmt ist.
 
-
 #### § 91 Vertretbare Sachen
 
 Vertretbare Sachen im Sinne des Gesetzes sind bewegliche Sachen, die
 im Verkehr nach Zahl, Maß oder Gewicht bestimmt zu werden pflegen.
-
 
 #### § 92 Verbrauchbare Sachen
 
@@ -1128,14 +1012,12 @@ Warenlager oder zu einem sonstigen Sachinbegriff gehören, dessen
 bestimmungsmäßiger Gebrauch in der Veräußerung der einzelnen Sachen
 besteht.
 
-
 #### § 93 Wesentliche Bestandteile einer Sache
 
 Bestandteile einer Sache, die voneinander nicht getrennt werden
 können, ohne dass der eine oder der andere zerstört oder in seinem
 Wesen verändert wird (wesentliche Bestandteile), können nicht
 Gegenstand besonderer Rechte sein.
-
 
 #### § 94 Wesentliche Bestandteile eines Grundstücks oder Gebäudes
 
@@ -1148,7 +1030,6 @@ Einpflanzen wesentlicher Bestandteil des Grundstücks.
 (2) Zu den wesentlichen Bestandteilen eines Gebäudes gehören die zur
 Herstellung des Gebäudes eingefügten Sachen.
 
-
 #### § 95 Nur vorübergehender Zweck
 
 (1) Zu den Bestandteilen eines Grundstücks gehören solche Sachen
@@ -1160,12 +1041,10 @@ Berechtigten mit dem Grundstück verbunden worden ist.
 (2) Sachen, die nur zu einem vorübergehenden Zweck in ein Gebäude
 eingefügt sind, gehören nicht zu den Bestandteilen des Gebäudes.
 
-
 #### § 96 Rechte als Bestandteile eines Grundstücks
 
 Rechte, die mit dem Eigentum an einem Grundstück verbunden sind,
 gelten als Bestandteile des Grundstücks.
-
 
 #### § 97 Zubehör
 
@@ -1179,7 +1058,6 @@ Zubehör, wenn sie im Verkehr nicht als Zubehör angesehen wird.
 Zweck einer anderen begründet nicht die Zubehöreigenschaft. Die
 vorübergehende Trennung eines Zubehörstücks von der Hauptsache hebt
 die Zubehöreigenschaft nicht auf.
-
 
 #### § 98 Gewerbliches und landwirtschaftliches Inventar
 
@@ -1197,10 +1075,6 @@ Dem wirtschaftlichen Zwecke der Hauptsache sind zu dienen bestimmt:
     ähnliche Erzeugnisse voraussichtlich gewonnen werden, sowie der
     vorhandene, auf dem Gut gewonnene Dünger.
 
-
-
-
-
 #### § 99 Früchte
 
 (1) Früchte einer Sache sind die Erzeugnisse der Sache und die
@@ -1214,12 +1088,10 @@ von Bodenbestandteilen die gewonnenen Bestandteile.
 (3) Früchte sind auch die Erträge, welche eine Sache oder ein Recht
 vermöge eines Rechtsverhältnisses gewährt.
 
-
 #### § 100 Nutzungen
 
 Nutzungen sind die Früchte einer Sache oder eines Rechts sowie die
 Vorteile, welche der Gebrauch der Sache oder des Rechts gewährt.
-
 
 #### § 101 Verteilung der Früchte
 
@@ -1239,17 +1111,12 @@ beziehen, so gebühren ihm, sofern nicht ein anderes bestimmt ist:
     gebührt dem Berechtigten ein der Dauer seiner Berechtigung
     entsprechender Teil.
 
-
-
-
-
 #### § 102 Ersatz der Gewinnungskosten
 
 Wer zur Herausgabe von Früchten verpflichtet ist, kann Ersatz der auf
 die Gewinnung der Früchte verwendeten Kosten insoweit verlangen, als
 sie einer ordnungsmäßigen Wirtschaft entsprechen und den Wert der
 Früchte nicht übersteigen.
-
 
 #### § 103 Verteilung der Lasten
 
@@ -1260,14 +1127,9 @@ wiederkehrenden Lasten nach dem Verhältnis der Dauer seiner
 Verpflichtung, andere Lasten insoweit zu tragen, als sie während der
 Dauer seiner Verpflichtung zu entrichten sind.
 
-
 ### Abschnitt 3 - Rechtsgeschäfte
 
-
-
 #### Titel 1 - Geschäftsfähigkeit
-
-
 
 ##### § 104 Geschäftsunfähigkeit
 
@@ -1280,10 +1142,6 @@ Geschäftsunfähig ist:
     krankhafter Störung der Geistestätigkeit befindet, sofern nicht der
     Zustand seiner Natur nach ein vorübergehender ist.
 
-
-
-
-
 ##### § 105 Nichtigkeit der Willenserklärung
 
 (1) Die Willenserklärung eines Geschäftsunfähigen ist nichtig.
@@ -1291,7 +1149,6 @@ Geschäftsunfähig ist:
 (2) Nichtig ist auch eine Willenserklärung, die im Zustand der
 Bewusstlosigkeit oder vorübergehender Störung der Geistestätigkeit
 abgegeben wird.
-
 
 ##### § 105a Geschäfte des täglichen Lebens
 
@@ -1302,19 +1159,16 @@ vereinbart, Gegenleistung als wirksam, sobald Leistung und
 Gegenleistung bewirkt sind. Satz 1 gilt nicht bei einer erheblichen
 Gefahr für die Person oder das Vermögen des Geschäftsunfähigen.
 
-
 ##### § 106 Beschränkte Geschäftsfähigkeit Minderjähriger
 
 Ein Minderjähriger, der das siebente Lebensjahr vollendet hat, ist
 nach Maßgabe der §§ 107 bis 113 in der Geschäftsfähigkeit beschränkt.
-
 
 ##### § 107 Einwilligung des gesetzlichen Vertreters
 
 Der Minderjährige bedarf zu einer Willenserklärung, durch die er nicht
 lediglich einen rechtlichen Vorteil erlangt, der Einwilligung seines
 gesetzlichen Vertreters.
-
 
 ##### § 108 Vertragsschluss ohne Einwilligung
 
@@ -1333,7 +1187,6 @@ als verweigert.
 (3) Ist der Minderjährige unbeschränkt geschäftsfähig geworden, so
 tritt seine Genehmigung an die Stelle der Genehmigung des Vertreters.
 
-
 ##### § 109 Widerrufsrecht des anderen Teils
 
 (1) Bis zur Genehmigung des Vertrags ist der andere Teil zum Widerruf
@@ -1346,7 +1199,6 @@ Einwilligung des Vertreters behauptet hat; er kann auch in diesem
 Falle nicht widerrufen, wenn ihm das Fehlen der Einwilligung bei dem
 Abschluss des Vertrags bekannt war.
 
-
 ##### § 110 Bewirken der Leistung mit eigenen Mitteln
 
 Ein von dem Minderjährigen ohne Zustimmung des gesetzlichen Vertreters
@@ -1354,7 +1206,6 @@ geschlossener Vertrag gilt als von Anfang an wirksam, wenn der
 Minderjährige die vertragsmäßige Leistung mit Mitteln bewirkt, die ihm
 zu diesem Zweck oder zu freier Verfügung von dem Vertreter oder mit
 dessen Zustimmung von einem Dritten überlassen worden sind.
-
 
 ##### § 111 Einseitige Rechtsgeschäfte
 
@@ -1368,7 +1219,6 @@ diesem Grunde unverzüglich zurückweist. Die Zurückweisung ist
 ausgeschlossen, wenn der Vertreter den anderen von der Einwilligung in
 Kenntnis gesetzt hatte.
 
-
 ##### § 112 Selbständiger Betrieb eines Erwerbsgeschäfts
 
 (1) Ermächtigt der gesetzliche Vertreter mit Genehmigung des
@@ -1380,7 +1230,6 @@ Genehmigung des Familiengerichts bedarf.
 
 (2) Die Ermächtigung kann von dem Vertreter nur mit Genehmigung des
 Familiengerichts zurückgenommen werden.
-
 
 ##### § 113 Dienst- oder Arbeitsverhältnis
 
@@ -1405,14 +1254,9 @@ Interesse des Mündels liegt.
 als allgemeine Ermächtigung zur Eingehung von Verhältnissen derselben
 Art.
 
-
 ##### (XXXX) §§ 114, 115 (weggefallen)
 
-
-
 #### Titel 2 - Willenserklärung
-
-
 
 ##### § 116 Geheimer Vorbehalt
 
@@ -1420,7 +1264,6 @@ Eine Willenserklärung ist nicht deshalb nichtig, weil sich der
 Erklärende insgeheim vorbehält, das Erklärte nicht zu wollen. Die
 Erklärung ist nichtig, wenn sie einem anderen gegenüber abzugeben ist
 und dieser den Vorbehalt kennt.
-
 
 ##### § 117 Scheingeschäft
 
@@ -1432,13 +1275,11 @@ nichtig.
 so finden die für das verdeckte Rechtsgeschäft geltenden Vorschriften
 Anwendung.
 
-
 ##### § 118 Mangel der Ernstlichkeit
 
 Eine nicht ernstlich gemeinte Willenserklärung, die in der Erwartung
 abgegeben wird, der Mangel der Ernstlichkeit werde nicht verkannt
 werden, ist nichtig.
-
 
 ##### § 119 Anfechtbarkeit wegen Irrtums
 
@@ -1452,14 +1293,12 @@ nicht abgegeben haben würde.
 solche Eigenschaften der Person oder der Sache, die im Verkehr als
 wesentlich angesehen werden.
 
-
 ##### § 120 Anfechtbarkeit wegen falscher Übermittlung
 
 Eine Willenserklärung, welche durch die zur Übermittlung verwendete
 Person oder Einrichtung unrichtig übermittelt worden ist, kann unter
 der gleichen Voraussetzung angefochten werden wie nach § 119 eine
 irrtümlich abgegebene Willenserklärung.
-
 
 ##### § 121 Anfechtungsfrist
 
@@ -1472,7 +1311,6 @@ abgesendet worden ist.
 
 (2) Die Anfechtung ist ausgeschlossen, wenn seit der Abgabe der
 Willenserklärung zehn Jahre verstrichen sind.
-
 
 ##### § 122 Schadensersatzpflicht des Anfechtenden
 
@@ -1488,7 +1326,6 @@ an der Gültigkeit der Erklärung hat.
 den Grund der Nichtigkeit oder der Anfechtbarkeit kannte oder infolge
 von Fahrlässigkeit nicht kannte (kennen musste).
 
-
 ##### § 123 Anfechtbarkeit wegen Täuschung oder Drohung
 
 (1) Wer zur Abgabe einer Willenserklärung durch arglistige Täuschung
@@ -1501,7 +1338,6 @@ dieser die Täuschung kannte oder kennen musste. Soweit ein anderer als
 derjenige, welchem gegenüber die Erklärung abzugeben war, aus der
 Erklärung unmittelbar ein Recht erworben hat, ist die Erklärung ihm
 gegenüber anfechtbar, wenn er die Täuschung kannte oder kennen musste.
-
 
 ##### § 124 Anfechtungsfrist
 
@@ -1518,13 +1354,11 @@ entsprechende Anwendung.
 (3) Die Anfechtung ist ausgeschlossen, wenn seit der Abgabe der
 Willenserklärung zehn Jahre verstrichen sind.
 
-
 ##### § 125 Nichtigkeit wegen Formmangels
 
 Ein Rechtsgeschäft, welches der durch Gesetz vorgeschriebenen Form
 ermangelt, ist nichtig. Der Mangel der durch Rechtsgeschäft bestimmten
 Form hat im Zweifel gleichfalls Nichtigkeit zur Folge.
-
 
 ##### § 126 Schriftform
 
@@ -1543,7 +1377,6 @@ werden, wenn sich nicht aus dem Gesetz ein anderes ergibt.
 (4) Die schriftliche Form wird durch die notarielle Beurkundung
 ersetzt.
 
-
 ##### § 126a Elektronische Form
 
 (1) Soll die gesetzlich vorgeschriebene schriftliche Form durch die
@@ -1555,7 +1388,6 @@ Signaturgesetz versehen.
 (2) Bei einem Vertrag müssen die Parteien jeweils ein gleichlautendes
 Dokument in der in Absatz 1 bezeichneten Weise elektronisch signieren.
 
-
 ##### § 126b Textform
 
 Ist durch Gesetz Textform vorgeschrieben, so muss die Erklärung in
@@ -1563,7 +1395,6 @@ einer Urkunde oder auf andere zur dauerhaften Wiedergabe in
 Schriftzeichen geeignete Weise abgegeben, die Person des Erklärenden
 genannt und der Abschluss der Erklärung durch Nachbildung der
 Namensunterschrift oder anders erkennbar gemacht werden.
-
 
 ##### § 127 Vereinbarte Form
 
@@ -1586,20 +1417,17 @@ entsprechende elektronische Signierung oder, wenn diese einer der
 Parteien nicht möglich ist, eine dem § 126 entsprechende Beurkundung
 verlangt werden.
 
-
 ##### § 127a Gerichtlicher Vergleich
 
 Die notarielle Beurkundung wird bei einem gerichtlichen Vergleich
 durch die Aufnahme der Erklärungen in ein nach den Vorschriften der
 Zivilprozessordnung errichtetes Protokoll ersetzt.
 
-
 ##### § 128 Notarielle Beurkundung
 
 Ist durch Gesetz notarielle Beurkundung eines Vertrags vorgeschrieben,
 so genügt es, wenn zunächst der Antrag und sodann die Annahme des
 Antrags von einem Notar beurkundet wird.
-
 
 ##### § 129 Öffentliche Beglaubigung
 
@@ -1612,7 +1440,6 @@ Handzeichens erforderlich und genügend.
 
 (2) Die öffentliche Beglaubigung wird durch die notarielle Beurkundung
 der Erklärung ersetzt.
-
 
 ##### § 130 Wirksamwerden der Willenserklärung gegenüber Abwesenden
 
@@ -1627,7 +1454,6 @@ wenn der Erklärende nach der Abgabe stirbt oder geschäftsunfähig wird.
 (3) Diese Vorschriften finden auch dann Anwendung, wenn die
 Willenserklärung einer Behörde gegenüber abzugeben ist.
 
-
 ##### § 131 Wirksamwerden gegenüber nicht voll Geschäftsfähigen
 
 (1) Wird die Willenserklärung einem Geschäftsunfähigen gegenüber
@@ -1640,7 +1466,6 @@ Bringt die Erklärung jedoch der in der Geschäftsfähigkeit beschränkten
 Person lediglich einen rechtlichen Vorteil oder hat der gesetzliche
 Vertreter seine Einwilligung erteilt, so wird die Erklärung in dem
 Zeitpunkt wirksam, in welchem sie ihr zugeht.
-
 
 ##### § 132 Ersatz des Zugehens durch Zustellung
 
@@ -1660,19 +1485,16 @@ Amtsgericht, in dessen Bezirk die Person, welcher zuzustellen ist, den
 letzten Wohnsitz oder in Ermangelung eines inländischen Wohnsitzes den
 letzten Aufenthalt hatte.
 
-
 ##### § 133 Auslegung einer Willenserklärung
 
 Bei der Auslegung einer Willenserklärung ist der wirkliche Wille zu
 erforschen und nicht an dem buchstäblichen Sinne des Ausdrucks zu
 haften.
 
-
 ##### § 134 Gesetzliches Verbot
 
 Ein Rechtsgeschäft, das gegen ein gesetzliches Verbot verstößt, ist
 nichtig, wenn sich nicht aus dem Gesetz ein anderes ergibt.
-
 
 ##### § 135 Gesetzliches Veräußerungsverbot
 
@@ -1685,13 +1507,11 @@ Wege der Zwangsvollstreckung oder der Arrestvollziehung erfolgt.
 (2) Die Vorschriften zugunsten derjenigen, welche Rechte von einem
 Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
-
 ##### § 136 Behördliches Veräußerungsverbot
 
 Ein Veräußerungsverbot, das von einem Gericht oder von einer anderen
 Behörde innerhalb ihrer Zuständigkeit erlassen wird, steht einem
 gesetzlichen Veräußerungsverbot der in § 135 bezeichneten Art gleich.
-
 
 ##### § 137 Rechtsgeschäftliches Verfügungsverbot
 
@@ -1699,7 +1519,6 @@ Die Befugnis zur Verfügung über ein veräußerliches Recht kann nicht
 durch Rechtsgeschäft ausgeschlossen oder beschränkt werden. Die
 Wirksamkeit einer Verpflichtung, über ein solches Recht nicht zu
 verfügen, wird durch diese Vorschrift nicht berührt.
-
 
 ##### § 138 Sittenwidriges Rechtsgeschäft; Wucher
 
@@ -1713,20 +1532,17 @@ sich oder einem Dritten für eine Leistung Vermögensvorteile
 versprechen oder gewähren lässt, die in einem auffälligen
 Missverhältnis zu der Leistung stehen.
 
-
 ##### § 139 Teilnichtigkeit
 
 Ist ein Teil eines Rechtsgeschäfts nichtig, so ist das ganze
 Rechtsgeschäft nichtig, wenn nicht anzunehmen ist, dass es auch ohne
 den nichtigen Teil vorgenommen sein würde.
 
-
 ##### § 140 Umdeutung
 
 Entspricht ein nichtiges Rechtsgeschäft den Erfordernissen eines
 anderen Rechtsgeschäfts, so gilt das letztere, wenn anzunehmen ist,
 dass dessen Geltung bei Kenntnis der Nichtigkeit gewollt sein würde.
-
 
 ##### § 141 Bestätigung des nichtigen Rechtsgeschäfts
 
@@ -1738,7 +1554,6 @@ Vornahme zu beurteilen.
 diese im Zweifel verpflichtet, einander zu gewähren, was sie haben
 würden, wenn der Vertrag von Anfang an gültig gewesen wäre.
 
-
 ##### § 142 Wirkung der Anfechtung
 
 (1) Wird ein anfechtbares Rechtsgeschäft angefochten, so ist es als
@@ -1747,7 +1562,6 @@ von Anfang an nichtig anzusehen.
 (2) Wer die Anfechtbarkeit kannte oder kennen musste, wird, wenn die
 Anfechtung erfolgt, so behandelt, wie wenn er die Nichtigkeit des
 Rechtsgeschäfts gekannt hätte oder hätte kennen müssen.
-
 
 ##### § 143 Anfechtungserklärung
 
@@ -1772,7 +1586,6 @@ Erklärung gegenüber der Behörde erfolgen; die Behörde soll die
 Anfechtung demjenigen mitteilen, welcher durch das Rechtsgeschäft
 unmittelbar betroffen worden ist.
 
-
 ##### § 144 Bestätigung des anfechtbaren Rechtsgeschäfts
 
 (1) Die Anfechtung ist ausgeschlossen, wenn das anfechtbare
@@ -1781,10 +1594,7 @@ Rechtsgeschäft von dem Anfechtungsberechtigten bestätigt wird.
 (2) Die Bestätigung bedarf nicht der für das Rechtsgeschäft bestimmten
 Form.
 
-
 #### Titel 3 - Vertrag
-
-
 
 ##### § 145 Bindung an den Antrag
 
@@ -1792,13 +1602,11 @@ Wer einem anderen die Schließung eines Vertrags anträgt, ist an den
 Antrag gebunden, es sei denn, dass er die Gebundenheit ausgeschlossen
 hat.
 
-
 ##### § 146 Erlöschen des Antrags
 
 Der Antrag erlischt, wenn er dem Antragenden gegenüber abgelehnt oder
 wenn er nicht diesem gegenüber nach den §§ 147 bis 149 rechtzeitig
 angenommen wird.
-
 
 ##### § 147 Annahmefrist
 
@@ -1811,12 +1619,10 @@ Antrag.
 angenommen werden, in welchem der Antragende den Eingang der Antwort
 unter regelmäßigen Umständen erwarten darf.
 
-
 ##### § 148 Bestimmung einer Annahmefrist
 
 Hat der Antragende für die Annahme des Antrags eine Frist bestimmt, so
 kann die Annahme nur innerhalb der Frist erfolgen.
-
 
 ##### § 149 Verspätet zugegangene Annahmeerklärung
 
@@ -1828,14 +1634,12 @@ dem Empfang der Erklärung anzuzeigen, sofern es nicht schon vorher
 geschehen ist. Verzögert er die Absendung der Anzeige, so gilt die
 Annahme als nicht verspätet.
 
-
 ##### § 150 Verspätete und abändernde Annahme
 
 (1) Die verspätete Annahme eines Antrags gilt als neuer Antrag.
 
 (2) Eine Annahme unter Erweiterungen, Einschränkungen oder sonstigen
 Änderungen gilt als Ablehnung verbunden mit einem neuen Antrag.
-
 
 ##### § 151 Annahme ohne Erklärung gegenüber dem Antragenden
 
@@ -1846,7 +1650,6 @@ oder der Antragende auf sie verzichtet hat. Der Zeitpunkt, in welchem
 der Antrag erlischt, bestimmt sich nach dem aus dem Antrag oder den
 Umständen zu entnehmenden Willen des Antragenden.
 
-
 ##### § 152 Annahme bei notarieller Beurkundung
 
 Wird ein Vertrag notariell beurkundet, ohne dass beide Teile
@@ -1854,13 +1657,11 @@ gleichzeitig anwesend sind, so kommt der Vertrag mit der nach § 128
 erfolgten Beurkundung der Annahme zustande, wenn nicht ein anderes
 bestimmt ist. Die Vorschrift des § 151 Satz 2 findet Anwendung.
 
-
 ##### § 153 Tod oder Geschäftsunfähigkeit des Antragenden
 
 Das Zustandekommen des Vertrags wird nicht dadurch gehindert, dass der
 Antragende vor der Annahme stirbt oder geschäftsunfähig wird, es sei
 denn, dass ein anderer Wille des Antragenden anzunehmen ist.
-
 
 ##### § 154 Offener Einigungsmangel; fehlende Beurkundung
 
@@ -1874,7 +1675,6 @@ nicht bindend, wenn eine Aufzeichnung stattgefunden hat.
 worden, so ist im Zweifel der Vertrag nicht geschlossen, bis die
 Beurkundung erfolgt ist.
 
-
 ##### § 155 Versteckter Einigungsmangel
 
 Haben sich die Parteien bei einem Vertrag, den sie als geschlossen
@@ -1883,23 +1683,18 @@ sollte, in Wirklichkeit nicht geeinigt, so gilt das Vereinbarte,
 sofern anzunehmen ist, dass der Vertrag auch ohne eine Bestimmung über
 diesen Punkt geschlossen sein würde.
 
-
 ##### § 156 Vertragsschluss bei Versteigerung
 
 Bei einer Versteigerung kommt der Vertrag erst durch den Zuschlag
 zustande. Ein Gebot erlischt, wenn ein Übergebot abgegeben oder die
 Versteigerung ohne Erteilung des Zuschlags geschlossen wird.
 
-
 ##### § 157 Auslegung von Verträgen
 
 Verträge sind so auszulegen, wie Treu und Glauben mit Rücksicht auf
 die Verkehrssitte es erfordern.
 
-
 #### Titel 4 - Bedingung und Zeitbestimmung
-
-
 
 ##### § 158 Aufschiebende und auflösende Bedingung
 
@@ -1912,7 +1707,6 @@ vorgenommen, so endigt mit dem Eintritt der Bedingung die Wirkung des
 Rechtsgeschäfts; mit diesem Zeitpunkt tritt der frühere Rechtszustand
 wieder ein.
 
-
 ##### § 159 Rückbeziehung
 
 Sollen nach dem Inhalt des Rechtsgeschäfts die an den Eintritt der
@@ -1920,7 +1714,6 @@ Bedingung geknüpften Folgen auf einen früheren Zeitpunkt zurückbezogen
 werden, so sind im Falle des Eintritts der Bedingung die Beteiligten
 verpflichtet, einander zu gewähren, was sie haben würden, wenn die
 Folgen in dem früheren Zeitpunkt eingetreten wären.
-
 
 ##### § 160 Haftung während der Schwebezeit
 
@@ -1933,7 +1726,6 @@ abhängige Recht durch sein Verschulden vereitelt oder beeinträchtigt.
 einem unter einer auflösenden Bedingung vorgenommenen Rechtsgeschäft
 derjenige, zu dessen Gunsten der frühere Rechtszustand wieder
 eintritt.
-
 
 ##### § 161 Unwirksamkeit von Verfügungen während der Schwebezeit
 
@@ -1952,7 +1744,6 @@ desjenigen, dessen Recht mit dem Eintritt der Bedingung endigt.
 (3) Die Vorschriften zugunsten derjenigen, welche Rechte von einem
 Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
-
 ##### § 162 Verhinderung oder Herbeiführung des Bedingungseintritts
 
 (1) Wird der Eintritt der Bedingung von der Partei, zu deren Nachteil
@@ -1963,7 +1754,6 @@ Bedingung als eingetreten.
 er gereicht, wider Treu und Glauben herbeigeführt, so gilt der
 Eintritt als nicht erfolgt.
 
-
 ##### § 163 Zeitbestimmung
 
 Ist für die Wirkung eines Rechtsgeschäfts bei dessen Vornahme ein
@@ -1972,10 +1762,7 @@ Falle die für die aufschiebende, im letzteren Falle die für die
 auflösende Bedingung geltenden Vorschriften der §§ 158, 160, 161
 entsprechende Anwendung.
 
-
 #### Titel 5 - Vertretung und Vollmacht
-
-
 
 ##### § 164 Wirkung der Erklärung des Vertreters
 
@@ -1993,13 +1780,11 @@ nicht in Betracht.
 wenn eine gegenüber einem anderen abzugebende Willenserklärung dessen
 Vertreter gegenüber erfolgt.
 
-
 ##### § 165 Beschränkt geschäftsfähiger Vertreter
 
 Die Wirksamkeit einer von oder gegenüber einem Vertreter abgegebenen
 Willenserklärung wird nicht dadurch beeinträchtigt, dass der Vertreter
 in der Geschäftsfähigkeit beschränkt ist.
-
 
 ##### § 166 Willensmängel; Wissenszurechnung
 
@@ -2016,7 +1801,6 @@ Vertreters berufen. Dasselbe gilt von Umständen, die der
 Vollmachtgeber kennen musste, sofern das Kennenmüssen der Kenntnis
 gleichsteht.
 
-
 ##### § 167 Erteilung der Vollmacht
 
 (1) Die Erteilung der Vollmacht erfolgt durch Erklärung gegenüber dem
@@ -2026,7 +1810,6 @@ stattfinden soll.
 (2) Die Erklärung bedarf nicht der Form, welche für das Rechtsgeschäft
 bestimmt ist, auf das sich die Vollmacht bezieht.
 
-
 ##### § 168 Erlöschen der Vollmacht
 
 Das Erlöschen der Vollmacht bestimmt sich nach dem ihrer Erteilung
@@ -2034,7 +1817,6 @@ zugrunde liegenden Rechtsverhältnis. Die Vollmacht ist auch bei dem
 Fortbestehen des Rechtsverhältnisses widerruflich, sofern sich nicht
 aus diesem ein anderes ergibt. Auf die Erklärung des Widerrufs findet
 die Vorschrift des § 167 Abs. 1 entsprechende Anwendung.
-
 
 ##### § 169 Vollmacht des Beauftragten und des geschäftsführenden Gesellschafters
 
@@ -2044,13 +1826,11 @@ fortbestehend gilt, wirkt sie nicht zugunsten eines Dritten, der bei
 der Vornahme eines Rechtsgeschäfts das Erlöschen kennt oder kennen
 muss.
 
-
 ##### § 170 Wirkungsdauer der Vollmacht
 
 Wird die Vollmacht durch Erklärung gegenüber einem Dritten erteilt, so
 bleibt sie diesem gegenüber in Kraft, bis ihm das Erlöschen von dem
 Vollmachtgeber angezeigt wird.
-
 
 ##### § 171 Wirkungsdauer bei Kundgebung
 
@@ -2063,7 +1843,6 @@ gegenüber zur Vertretung befugt.
 (2) Die Vertretungsmacht bleibt bestehen, bis die Kundgebung in
 derselben Weise, wie sie erfolgt ist, widerrufen wird.
 
-
 ##### § 172 Vollmachtsurkunde
 
 (1) Der besonderen Mitteilung einer Bevollmächtigung durch den
@@ -2074,14 +1853,12 @@ vorlegt.
 (2) Die Vertretungsmacht bleibt bestehen, bis die Vollmachtsurkunde
 dem Vollmachtgeber zurückgegeben oder für kraftlos erklärt wird.
 
-
 ##### § 173 Wirkungsdauer bei Kenntnis und fahrlässiger Unkenntnis
 
 Die Vorschriften des § 170, des § 171 Abs. 2 und des § 172 Abs. 2
 finden keine Anwendung, wenn der Dritte das Erlöschen der
 Vertretungsmacht bei der Vornahme des Rechtsgeschäfts kennt oder
 kennen muss.
-
 
 ##### § 174 Einseitiges Rechtsgeschäft eines Bevollmächtigten
 
@@ -2092,13 +1869,11 @@ diesem Grunde unverzüglich zurückweist. Die Zurückweisung ist
 ausgeschlossen, wenn der Vollmachtgeber den anderen von der
 Bevollmächtigung in Kenntnis gesetzt hatte.
 
-
 ##### § 175 Rückgabe der Vollmachtsurkunde
 
 Nach dem Erlöschen der Vollmacht hat der Bevollmächtigte die
 Vollmachtsurkunde dem Vollmachtgeber zurückzugeben; ein
 Zurückbehaltungsrecht steht ihm nicht zu.
-
 
 ##### § 176 Kraftloserklärung der Vollmachtsurkunde
 
@@ -2118,7 +1893,6 @@ zuständig sein würde.
 (3) Die Kraftloserklärung ist unwirksam, wenn der Vollmachtgeber die
 Vollmacht nicht widerrufen kann.
 
-
 ##### § 177 Vertragsschluss durch Vertreter ohne Vertretungsmacht
 
 (1) Schließt jemand ohne Vertretungsmacht im Namen eines anderen einen
@@ -2132,14 +1906,12 @@ oder Verweigerung der Genehmigung wird unwirksam. Die Genehmigung kann
 nur bis zum Ablauf von zwei Wochen nach dem Empfang der Aufforderung
 erklärt werden; wird sie nicht erklärt, so gilt sie als verweigert.
 
-
 ##### § 178 Widerrufsrecht des anderen Teils
 
 Bis zur Genehmigung des Vertrags ist der andere Teil zum Widerruf
 berechtigt, es sei denn, dass er den Mangel der Vertretungsmacht bei
 dem Abschluss des Vertrags gekannt hat. Der Widerruf kann auch dem
 Vertreter gegenüber erklärt werden.
-
 
 ##### § 179 Haftung des Vertreters ohne Vertretungsmacht
 
@@ -2160,7 +1932,6 @@ dann nicht, wenn er in der Geschäftsfähigkeit beschränkt war, es sei
 denn, dass er mit Zustimmung seines gesetzlichen Vertreters gehandelt
 hat.
 
-
 ##### § 180 Einseitiges Rechtsgeschäft
 
 Bei einem einseitigen Rechtsgeschäft ist Vertretung ohne
@@ -2173,7 +1944,6 @@ Vertreter ohne Vertretungsmacht handele, so finden die Vorschriften
 einseitiges Rechtsgeschäft gegenüber einem Vertreter ohne
 Vertretungsmacht mit dessen Einverständnis vorgenommen wird.
 
-
 ##### § 181 Insichgeschäft
 
 Ein Vertreter kann, soweit nicht ein anderes ihm gestattet ist, im
@@ -2182,10 +1952,7 @@ eines Dritten ein Rechtsgeschäft nicht vornehmen, es sei denn, dass
 das Rechtsgeschäft ausschließlich in der Erfüllung einer
 Verbindlichkeit besteht.
 
-
 #### Titel 6 - Einwilligung und Genehmigung
-
-
 
 ##### § 182 Zustimmung
 
@@ -2203,7 +1970,6 @@ Zustimmung eines Dritten abhängt, mit Einwilligung des Dritten
 vorgenommen, so finden die Vorschriften des § 111 Satz 2, 3
 entsprechende Anwendung.
 
-
 ##### § 183 Widerruflichkeit der Einwilligung
 
 Die vorherige Zustimmung (Einwilligung) ist bis zur Vornahme des
@@ -2211,7 +1977,6 @@ Rechtsgeschäfts widerruflich, soweit nicht aus dem ihrer Erteilung
 zugrunde liegenden Rechtsverhältnis sich ein anderes ergibt. Der
 Widerruf kann sowohl dem einen als dem anderen Teil gegenüber erklärt
 werden.
-
 
 ##### § 184 Rückwirkung der Genehmigung
 
@@ -2224,7 +1989,6 @@ der Genehmigung über den Gegenstand des Rechtsgeschäfts von dem
 Genehmigenden getroffen worden oder im Wege der Zwangsvollstreckung
 oder der Arrestvollziehung oder durch den Insolvenzverwalter erfolgt
 sind.
-
 
 ##### § 185 Verfügung eines Nichtberechtigten
 
@@ -2239,17 +2003,13 @@ unbeschränkt haftet. In den beiden letzteren Fällen wird, wenn über
 den Gegenstand mehrere miteinander nicht in Einklang stehende
 Verfügungen getroffen worden sind, nur die frühere Verfügung wirksam.
 
-
 ### Abschnitt 4 - Fristen, Termine
-
-
 
 #### § 186 Geltungsbereich
 
 Für die in Gesetzen, gerichtlichen Verfügungen und Rechtsgeschäften
 enthaltenen Frist- und Terminsbestimmungen gelten die
 Auslegungsvorschriften der §§ 187 bis 193.
-
 
 #### § 187 Fristbeginn
 
@@ -2262,7 +2022,6 @@ Zeitpunkt fällt.
 maßgebende Zeitpunkt, so wird dieser Tag bei der Berechnung der Frist
 mitgerechnet. Das Gleiche gilt von dem Tage der Geburt bei der
 Berechnung des Lebensalters.
-
 
 #### § 188 Fristende
 
@@ -2283,7 +2042,6 @@ dem Anfangstag der Frist entspricht.
 der für ihren Ablauf maßgebende Tag, so endigt die Frist mit dem
 Ablauf des letzten Tages dieses Monats.
 
-
 #### § 189 Berechnung einzelner Fristen
 
 (1) Unter einem halben Jahr wird eine Frist von sechs Monaten, unter
@@ -2293,12 +2051,10 @@ Monat eine Frist von 15 Tagen verstanden.
 (2) Ist eine Frist auf einen oder mehrere ganze Monate und einen
 halben Monat gestellt, so sind die 15 Tage zuletzt zu zählen.
 
-
 #### § 190 Fristverlängerung
 
 Im Falle der Verlängerung einer Frist wird die neue Frist von dem
 Ablauf der vorigen Frist an berechnet.
-
 
 #### § 191 Berechnung von Zeiträumen
 
@@ -2306,12 +2062,10 @@ Ist ein Zeitraum nach Monaten oder nach Jahren in dem Sinne bestimmt,
 dass er nicht zusammenhängend zu verlaufen braucht, so wird der Monat
 zu 30, das Jahr zu 365 Tagen gerechnet.
 
-
 #### § 192 Anfang, Mitte, Ende des Monats
 
 Unter Anfang des Monats wird der erste, unter Mitte des Monats der
 15\., unter Ende des Monats der letzte Tag des Monats verstanden.
-
 
 #### § 193 Sonn- und Feiertag; Sonnabend
 
@@ -2322,14 +2076,9 @@ einen am Erklärungs- oder Leistungsort staatlich anerkannten
 allgemeinen Feiertag oder einen Sonnabend, so tritt an die Stelle
 eines solchen Tages der nächste Werktag.
 
-
 ### Abschnitt 5 - Verjährung
 
-
-
 #### Titel 1 - Gegenstand und Dauer der Verjährung
-
-
 
 ##### § 194 Gegenstand der Verjährung
 
@@ -2342,11 +2091,9 @@ entsprechenden Zustands für die Zukunft oder auf die Einwilligung in
 eine genetische Untersuchung zur Klärung der leiblichen Abstammung
 gerichtet sind.
 
-
 ##### § 195 Regelmäßige Verjährungsfrist
 
 Die regelmäßige Verjährungsfrist beträgt drei Jahre.
-
 
 ##### § 196 Verjährungsfrist bei Rechten an einem Grundstück
 
@@ -2354,7 +2101,6 @@ Ansprüche auf Übertragung des Eigentums an einem Grundstück sowie auf
 Begründung, Übertragung oder Aufhebung eines Rechts an einem
 Grundstück oder auf Änderung des Inhalts eines solchen Rechts sowie
 die Ansprüche auf die Gegenleistung verjähren in zehn Jahren.
-
 
 ##### § 197 Dreißigjährige Verjährungsfrist
 
@@ -2389,14 +2135,12 @@ regelmäßig wiederkehrende Leistungen zum Inhalt haben, tritt an die
 Stelle der Verjährungsfrist von 30 Jahren die regelmäßige
 Verjährungsfrist.
 
-
 ##### § 198 Verjährung bei Rechtsnachfolge
 
 Gelangt eine Sache, hinsichtlich derer ein dinglicher Anspruch
 besteht, durch Rechtsnachfolge in den Besitz eines Dritten, so kommt
 die während des Besitzes des Rechtsvorgängers verstrichene
 Verjährungszeit dem Rechtsnachfolger zugute.
-
 
 ##### § 199 Beginn der regelmäßigen Verjährungsfrist und Verjährungshöchstfristen
 
@@ -2448,14 +2192,12 @@ Jahren von ihrer Entstehung an.
 (5) Geht der Anspruch auf ein Unterlassen, so tritt an die Stelle der
 Entstehung die Zuwiderhandlung.
 
-
 ##### § 200 Beginn anderer Verjährungsfristen
 
 Die Verjährungsfrist von Ansprüchen, die nicht der regelmäßigen
 Verjährungsfrist unterliegen, beginnt mit der Entstehung des
 Anspruchs, soweit nicht ein anderer Verjährungsbeginn bestimmt ist. §
 199 Abs. 5 findet entsprechende Anwendung.
-
 
 ##### § 201 Beginn der Verjährungsfrist von festgestellten Ansprüchen
 
@@ -2464,7 +2206,6 @@ bezeichneten Art beginnt mit der Rechtskraft der Entscheidung, der
 Errichtung des vollstreckbaren Titels oder der Feststellung im
 Insolvenzverfahren, nicht jedoch vor der Entstehung des Anspruchs. §
 199 Abs. 5 findet entsprechende Anwendung.
-
 
 ##### § 202 Unzulässigkeit von Vereinbarungen über die Verjährung
 
@@ -2475,10 +2216,7 @@ durch Rechtsgeschäft erleichtert werden.
 Verjährungsfrist von 30 Jahren ab dem gesetzlichen Verjährungsbeginn
 hinaus erschwert werden.
 
-
 #### Titel 2 - Hemmung, Ablaufhemmung und Neubeginn der Verjährung
-
-
 
 ##### § 203 Hemmung der Verjährung bei Verhandlungen
 
@@ -2487,7 +2225,6 @@ den Anspruch oder die den Anspruch begründenden Umstände, so ist die
 Verjährung gehemmt, bis der eine oder der andere Teil die Fortsetzung
 der Verhandlungen verweigert. Die Verjährung tritt frühestens drei
 Monate nach dem Ende der Hemmung ein.
-
 
 ##### § 204 Hemmung der Verjährung durch Rechtsverfolgung
 
@@ -2588,20 +2325,17 @@ betreibt.
 (3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§
 206, 210 und 211 entsprechende Anwendung.
 
-
 ##### § 205 Hemmung der Verjährung bei Leistungsverweigerungsrecht
 
 Die Verjährung ist gehemmt, solange der Schuldner auf Grund einer
 Vereinbarung mit dem Gläubiger vorübergehend zur Verweigerung der
 Leistung berechtigt ist.
 
-
 ##### § 206 Hemmung der Verjährung bei höherer Gewalt
 
 Die Verjährung ist gehemmt, solange der Gläubiger innerhalb der
 letzten sechs Monate der Verjährungsfrist durch höhere Gewalt an der
 Rechtsverfolgung gehindert ist.
-
 
 ##### § 207 Hemmung der Verjährung aus familiären und ähnlichen Gründen
 
@@ -2640,7 +2374,6 @@ während der Dauer der Beistandschaft gehemmt.
 
 (2) § 208 bleibt unberührt.
 
-
 ##### § 208 Hemmung der Verjährung bei Ansprüchen wegen Verletzung der sexuellen Selbstbestimmung
 
 Die Verjährung von Ansprüchen wegen Verletzung der sexuellen
@@ -2650,12 +2383,10 @@ der sexuellen Selbstbestimmung bei Beginn der Verjährung mit dem
 Schuldner in häuslicher Gemeinschaft, so ist die Verjährung auch bis
 zur Beendigung der häuslichen Gemeinschaft gehemmt.
 
-
 ##### § 209 Wirkung der Hemmung
 
 Der Zeitraum, während dessen die Verjährung gehemmt ist, wird in die
 Verjährungsfrist nicht eingerechnet.
-
 
 ##### § 210 Ablaufhemmung bei nicht voll Geschäftsfähigen
 
@@ -2670,7 +2401,6 @@ Zeitraum an die Stelle der sechs Monate.
 (2) Absatz 1 findet keine Anwendung, soweit eine in der
 Geschäftsfähigkeit beschränkte Person prozessfähig ist.
 
-
 ##### § 211 Ablaufhemmung in Nachlassfällen
 
 Die Verjährung eines Anspruchs, der zu einem Nachlass gehört oder sich
@@ -2681,7 +2411,6 @@ oder von dem an der Anspruch von einem oder gegen einen Vertreter
 geltend gemacht werden kann. Ist die Verjährungsfrist kürzer als sechs
 Monate, so tritt der für die Verjährung bestimmte Zeitraum an die
 Stelle der sechs Monate.
-
 
 ##### § 212 Neubeginn der Verjährung
 
@@ -2709,17 +2438,13 @@ Antrag nicht stattgegeben oder der Antrag vor der
 Vollstreckungshandlung zurückgenommen oder die erwirkte
 Vollstreckungshandlung nach Absatz 2 aufgehoben wird.
 
-
 ##### § 213 Hemmung, Ablaufhemmung und erneuter Beginn der Verjährung bei anderen Ansprüchen
 
 Die Hemmung, die Ablaufhemmung und der erneute Beginn der Verjährung
 gelten auch für Ansprüche, die aus demselben Grunde wahlweise neben
 dem Anspruch oder an seiner Stelle gegeben sind.
 
-
 #### Titel 3 - Rechtsfolgen der Verjährung
-
-
 
 ##### § 214 Wirkung der Verjährung
 
@@ -2731,14 +2456,12 @@ nicht zurückgefordert werden, auch wenn in Unkenntnis der Verjährung
 geleistet worden ist. Das Gleiche gilt von einem vertragsmäßigen
 Anerkenntnis sowie einer Sicherheitsleistung des Schuldners.
 
-
 ##### § 215 Aufrechnung und Zurückbehaltungsrecht nach Eintritt der Verjährung
 
 Die Verjährung schließt die Aufrechnung und die Geltendmachung eines
 Zurückbehaltungsrechts nicht aus, wenn der Anspruch in dem Zeitpunkt
 noch nicht verjährt war, in dem erstmals aufgerechnet oder die
 Leistung verweigert werden konnte.
-
 
 ##### § 216 Wirkung der Verjährung bei gesicherten Ansprüchen
 
@@ -2754,13 +2477,11 @@ vom Vertrag auch erfolgen, wenn der gesicherte Anspruch verjährt ist.
 (3) Die Absätze 1 und 2 finden keine Anwendung auf die Verjährung von
 Ansprüchen auf Zinsen und andere wiederkehrende Leistungen.
 
-
 ##### § 217 Verjährung von Nebenleistungen
 
 Mit dem Hauptanspruch verjährt der Anspruch auf die von ihm
 abhängenden Nebenleistungen, auch wenn die für diesen Anspruch
 geltende besondere Verjährung noch nicht eingetreten ist.
-
 
 ##### § 218 Unwirksamkeit des Rücktritts
 
@@ -2774,20 +2495,14 @@ Abs. 2 Satz 2 bleibt unberührt.
 
 (2) § 214 Abs. 2 findet entsprechende Anwendung.
 
-
 ##### (XXXX) §§ 219 bis 225 (weggefallen)
 
-
-
 ### Abschnitt 6 - Ausübung der Rechte, Selbstverteidigung, Selbsthilfe
-
-
 
 #### § 226 Schikaneverbot
 
 Die Ausübung eines Rechts ist unzulässig, wenn sie nur den Zweck haben
 kann, einem anderen Schaden zuzufügen.
-
 
 #### § 227 Notwehr
 
@@ -2797,7 +2512,6 @@ kann, einem anderen Schaden zuzufügen.
 einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen
 abzuwenden.
 
-
 #### § 228 Notstand
 
 Wer eine fremde Sache beschädigt oder zerstört, um eine durch sie
@@ -2806,7 +2520,6 @@ widerrechtlich, wenn die Beschädigung oder die Zerstörung zur
 Abwendung der Gefahr erforderlich ist und der Schaden nicht außer
 Verhältnis zu der Gefahr steht. Hat der Handelnde die Gefahr
 verschuldet, so ist er zum Schadensersatz verpflichtet.
-
 
 #### § 229 Selbsthilfe
 
@@ -2818,7 +2531,6 @@ ist, beseitigt, handelt nicht widerrechtlich, wenn obrigkeitliche
 Hilfe nicht rechtzeitig zu erlangen ist und ohne sofortiges Eingreifen
 die Gefahr besteht, dass die Verwirklichung des Anspruchs vereitelt
 oder wesentlich erschwert werde.
-
 
 #### § 230 Grenzen der Selbsthilfe
 
@@ -2837,7 +2549,6 @@ ist; der Verpflichtete ist unverzüglich dem Gericht vorzuführen.
 Rückgabe der weggenommenen Sachen und die Freilassung des
 Festgenommenen unverzüglich zu erfolgen.
 
-
 #### § 231 Irrtümliche Selbsthilfe
 
 Wer eine der im § 229 bezeichneten Handlungen in der irrigen Annahme
@@ -2846,10 +2557,7 @@ erforderlichen Voraussetzungen vorhanden seien, ist dem anderen Teil
 zum Schadensersatz verpflichtet, auch wenn der Irrtum nicht auf
 Fahrlässigkeit beruht.
 
-
 ### Abschnitt 7 - Sicherheitsleistung
-
-
 
 #### § 232 Arten
 
@@ -2869,7 +2577,6 @@ Grundschulden oder Rentenschulden an inländischen Grundstücken.
 (2) Kann die Sicherheit nicht in dieser Weise geleistet werden, so ist
 die Stellung eines tauglichen Bürgen zulässig.
 
-
 #### § 233 Wirkung der Hinterlegung
 
 Mit der Hinterlegung erwirbt der Berechtigte ein Pfandrecht an dem
@@ -2877,7 +2584,6 @@ hinterlegten Geld oder an den hinterlegten Wertpapieren und, wenn das
 Geld oder die Wertpapiere in das Eigentum des Fiskus oder der als
 Hinterlegungsstelle bestimmten Anstalt übergehen, ein Pfandrecht an
 der Forderung auf Rückerstattung.
-
 
 #### § 234 Geeignete Wertpapiere
 
@@ -2892,14 +2598,12 @@ Erneuerungsscheine zu hinterlegen.
 (3) Mit Wertpapieren kann Sicherheit nur in Höhe von drei Vierteln des
 Kurswerts geleistet werden.
 
-
 #### § 235 Umtauschrecht
 
 Wer durch Hinterlegung von Geld oder von Wertpapieren Sicherheit
 geleistet hat, ist berechtigt, das hinterlegte Geld gegen geeignete
 Wertpapiere, die hinterlegten Wertpapiere gegen andere geeignete
 Wertpapiere oder gegen Geld umzutauschen.
-
 
 #### § 236 Buchforderungen
 
@@ -2908,14 +2612,12 @@ Sicherheit nur in Höhe von drei Vierteln des Kurswerts der Wertpapiere
 geleistet werden, deren Aushändigung der Gläubiger gegen Löschung
 seiner Forderung verlangen kann.
 
-
 #### § 237 Bewegliche Sachen
 
 Mit einer beweglichen Sache kann Sicherheit nur in Höhe von zwei
 Dritteln des Schätzungswerts geleistet werden. Sachen, deren Verderb
 zu besorgen oder deren Aufbewahrung mit besonderen Schwierigkeiten
 verbunden ist, können zurückgewiesen werden.
-
 
 #### § 238 Hypotheken, Grund- und Rentenschulden
 
@@ -2928,7 +2630,6 @@ werden darf.
 (2) Eine Forderung, für die eine Sicherungshypothek besteht, ist zur
 Sicherheitsleistung nicht geeignet.
 
-
 #### § 239 Bürge
 
 (1) Ein Bürge ist tauglich, wenn er ein der Höhe der zu leistenden
@@ -2938,25 +2639,17 @@ Gerichtsstand im Inland hat.
 (2) Die Bürgschaftserklärung muss den Verzicht auf die Einrede der
 Vorausklage enthalten.
 
-
 #### § 240 Ergänzungspflicht
 
 Wird die geleistete Sicherheit ohne Verschulden des Berechtigten
 unzureichend, so ist sie zu ergänzen oder anderweitige Sicherheit zu
 leisten.
 
-
 ## Buch 2 - Recht der Schuldverhältnisse
-
-
 
 ### Abschnitt 1 - Inhalt der Schuldverhältnisse
 
-
-
 #### Titel 1 - Verpflichtung zur Leistung
-
-
 
 ##### § 241 Pflichten aus dem Schuldverhältnis
 
@@ -2967,7 +2660,6 @@ einem Unterlassen bestehen.
 (2) Das Schuldverhältnis kann nach seinem Inhalt jeden Teil zur
 Rücksicht auf die Rechte, Rechtsgüter und Interessen des anderen Teils
 verpflichten.
-
 
 ##### § 241a Unbestellte Leistungen
 
@@ -2994,12 +2686,10 @@ hat.
     Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz
     bei Vertragsabschlüssen im Fernabsatz (ABl. EG Nr. L 144 S. 19).
 
-
 ##### § 242 Leistung nach Treu und Glauben
 
 Der Schuldner ist verpflichtet, die Leistung so zu bewirken, wie Treu
 und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.
-
 
 ##### § 243 Gattungsschuld
 
@@ -3010,7 +2700,6 @@ Sache von mittlerer Art und Güte zu leisten.
 Erforderliche getan, so beschränkt sich das Schuldverhältnis auf diese
 Sache.
 
-
 ##### § 244 Fremdwährungsschuld
 
 (1) Ist eine in einer anderen Währung als Euro ausgedrückte Geldschuld
@@ -3020,20 +2709,17 @@ denn, dass Zahlung in der anderen Währung ausdrücklich vereinbart ist.
 (2) Die Umrechnung erfolgt nach dem Kurswert, der zur Zeit der Zahlung
 für den Zahlungsort maßgebend ist.
 
-
 ##### § 245 Geldsortenschuld
 
 Ist eine Geldschuld in einer bestimmten Münzsorte zu zahlen, die sich
 zur Zeit der Zahlung nicht mehr im Umlauf befindet, so ist die Zahlung
 so zu leisten, wie wenn die Münzsorte nicht bestimmt wäre.
 
-
 ##### § 246 Gesetzlicher Zinssatz
 
 Ist eine Schuld nach Gesetz oder Rechtsgeschäft zu verzinsen, so sind
 vier vom Hundert für das Jahr zu entrichten, sofern nicht ein anderes
 bestimmt ist.
-
 
 ##### § 247 Basiszinssatz
 
@@ -3055,7 +2741,6 @@ Bundesanzeiger bekannt.
     Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von
     Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
-
 ##### § 248 Zinseszinsen
 
 (1) Eine im Voraus getroffene Vereinbarung, dass fällige Zinsen wieder
@@ -3068,7 +2753,6 @@ berechtigt sind, für den Betrag der von ihnen gewährten Darlehen
 verzinsliche Schuldverschreibungen auf den Inhaber auszugeben, können
 sich bei solchen Darlehen die Verzinsung rückständiger Zinsen im
 Voraus versprechen lassen.
-
 
 ##### § 249 Art und Umfang des Schadensersatzes
 
@@ -3083,7 +2767,6 @@ Beschädigung einer Sache schließt der nach Satz 1 erforderliche
 Geldbetrag die Umsatzsteuer nur mit ein, wenn und soweit sie
 tatsächlich angefallen ist.
 
-
 ##### § 250 Schadensersatz in Geld nach Fristsetzung
 
 Der Gläubiger kann dem Ersatzpflichtigen zur Herstellung eine
@@ -3092,7 +2775,6 @@ nach dem Ablauf der Frist ablehne. Nach dem Ablauf der Frist kann der
 Gläubiger den Ersatz in Geld verlangen, wenn nicht die Herstellung
 rechtzeitig erfolgt; der Anspruch auf die Herstellung ist
 ausgeschlossen.
-
 
 ##### § 251 Schadensersatz in Geld ohne Fristsetzung
 
@@ -3106,7 +2788,6 @@ Die aus der Heilbehandlung eines verletzten Tieres entstandenen
 Aufwendungen sind nicht bereits dann unverhältnismäßig, wenn sie
 dessen Wert erheblich übersteigen.
 
-
 ##### § 252 Entgangener Gewinn
 
 Der zu ersetzende Schaden umfasst auch den entgangenen Gewinn. Als
@@ -3114,7 +2795,6 @@ entgangen gilt der Gewinn, welcher nach dem gewöhnlichen Lauf der
 Dinge oder nach den besonderen Umständen, insbesondere nach den
 getroffenen Anstalten und Vorkehrungen, mit Wahrscheinlichkeit
 erwartet werden konnte.
-
 
 ##### § 253 Immaterieller Schaden
 
@@ -3126,7 +2806,6 @@ gefordert werden.
 Freiheit oder der sexuellen Selbstbestimmung Schadensersatz zu
 leisten, kann auch wegen des Schadens, der nicht Vermögensschaden ist,
 eine billige Entschädigung in Geld gefordert werden.
-
 
 ##### § 254 Mitverschulden
 
@@ -3143,14 +2822,12 @@ Schuldner weder kannte noch kennen musste, oder dass er unterlassen
 hat, den Schaden abzuwenden oder zu mindern. Die Vorschrift des § 278
 findet entsprechende Anwendung.
 
-
 ##### § 255 Abtretung der Ersatzansprüche
 
 Wer für den Verlust einer Sache oder eines Rechts Schadensersatz zu
 leisten hat, ist zum Ersatz nur gegen Abtretung der Ansprüche
 verpflichtet, die dem Ersatzberechtigten auf Grund des Eigentums an
 der Sache oder auf Grund des Rechts gegen Dritte zustehen.
-
 
 ##### § 256 Verzinsung von Aufwendungen
 
@@ -3163,7 +2840,6 @@ herauszugeben ist, so sind Zinsen für die Zeit, für welche dem
 Ersatzberechtigten die Nutzungen oder die Früchte des Gegenstands ohne
 Vergütung verbleiben, nicht zu entrichten.
 
-
 ##### § 257 Befreiungsanspruch
 
 Wer berechtigt ist, Ersatz für Aufwendungen zu verlangen, die er für
@@ -3171,7 +2847,6 @@ einen bestimmten Zweck macht, kann, wenn er für diesen Zweck eine
 Verbindlichkeit eingeht, Befreiung von der Verbindlichkeit verlangen.
 Ist die Verbindlichkeit noch nicht fällig, so kann ihm der
 Ersatzpflichtige, statt ihn zu befreien, Sicherheit leisten.
-
 
 ##### § 258 Wegnahmerecht
 
@@ -3182,7 +2857,6 @@ Erlangt der andere den Besitz der Sache, so ist er verpflichtet, die
 Wegnahme der Einrichtung zu gestatten; er kann die Gestattung
 verweigern, bis ihm für den mit der Wegnahme verbundenen Schaden
 Sicherheit geleistet wird.
-
 
 ##### § 259 Umfang der Rechenschaftspflicht
 
@@ -3201,7 +2875,6 @@ Einnahmen so vollständig angegeben habe, als er dazu imstande sei.
 (3) In Angelegenheiten von geringer Bedeutung besteht eine
 Verpflichtung zur Abgabe der eidesstattlichen Versicherung nicht.
 
-
 ##### § 260 Pflichten bei Herausgabe oder Auskunft über Inbegriff von Gegenständen
 
 (1) Wer verpflichtet ist, einen Inbegriff von Gegenständen
@@ -3217,7 +2890,6 @@ als er dazu imstande sei.
 
 (3) Die Vorschrift des § 259 Abs. 3 findet Anwendung.
 
-
 ##### § 261 Änderung der eidesstattlichen Versicherung; Kosten
 
 (1) Das Gericht kann eine den Umständen entsprechende Änderung der
@@ -3226,13 +2898,11 @@ eidesstattlichen Versicherung beschließen.
 (2) Die Kosten der Abnahme der eidesstattlichen Versicherung hat
 derjenige zu tragen, welcher die Abgabe der Versicherung verlangt.
 
-
 ##### § 262 Wahlschuld; Wahlrecht
 
 Werden mehrere Leistungen in der Weise geschuldet, dass nur die eine
 oder die andere zu bewirken ist, so steht das Wahlrecht im Zweifel dem
 Schuldner zu.
-
 
 ##### § 263 Ausübung des Wahlrechts; Wirkung
 
@@ -3240,7 +2910,6 @@ Schuldner zu.
 
 (2) Die gewählte Leistung gilt als die von Anfang an allein
 geschuldete.
-
 
 ##### § 264 Verzug des Wahlberechtigten
 
@@ -3257,7 +2926,6 @@ auffordern. Mit dem Ablauf der Frist geht das Wahlrecht auf den
 Schuldner über, wenn nicht der Gläubiger rechtzeitig die Wahl
 vornimmt.
 
-
 ##### § 265 Unmöglichkeit bei Wahlschuld
 
 Ist eine der Leistungen von Anfang an unmöglich oder wird sie später
@@ -3266,11 +2934,9 @@ Leistungen. Die Beschränkung tritt nicht ein, wenn die Leistung
 infolge eines Umstands unmöglich wird, den der nicht wahlberechtigte
 Teil zu vertreten hat.
 
-
 ##### § 266 Teilleistungen
 
 Der Schuldner ist zu Teilleistungen nicht berechtigt.
-
 
 ##### § 267 Leistung durch Dritte
 
@@ -3280,7 +2946,6 @@ nicht erforderlich.
 
 (2) Der Gläubiger kann die Leistung ablehnen, wenn der Schuldner
 widerspricht.
-
 
 ##### § 268 Ablösungsrecht des Dritten
 
@@ -3298,7 +2963,6 @@ Aufrechnung erfolgen.
 ihn über. Der Übergang kann nicht zum Nachteil des Gläubigers geltend
 gemacht werden.
 
-
 ##### § 269 Leistungsort
 
 (1) Ist ein Ort für die Leistung weder bestimmt noch aus den
@@ -3315,7 +2979,6 @@ die Stelle des Wohnsitzes.
 (3) Aus dem Umstand allein, dass der Schuldner die Kosten der
 Versendung übernommen hat, ist nicht zu entnehmen, dass der Ort, nach
 welchem die Versendung zu erfolgen hat, der Leistungsort sein soll.
-
 
 ##### § 270 Zahlungsort
 
@@ -3335,7 +2998,6 @@ Mehrkosten, im letzteren Falle die Gefahr zu tragen.
 
 (4) Die Vorschriften über den Leistungsort bleiben unberührt.
 
-
 ##### § 271 Leistungszeit
 
 (1) Ist eine Zeit für die Leistung weder bestimmt noch aus den
@@ -3346,12 +3008,10 @@ verlangen, der Schuldner sie sofort bewirken.
 Gläubiger die Leistung nicht vor dieser Zeit verlangen, der Schuldner
 aber sie vorher bewirken kann.
 
-
 ##### § 272 Zwischenzinsen
 
 Bezahlt der Schuldner eine unverzinsliche Schuld vor der Fälligkeit,
 so ist er zu einem Abzug wegen der Zwischenzinsen nicht berechtigt.
-
 
 ##### § 273 Zurückbehaltungsrecht
 
@@ -3371,7 +3031,6 @@ begangene unerlaubte Handlung erlangt hat.
 Sicherheitsleistung abwenden. Die Sicherheitsleistung durch Bürgen ist
 ausgeschlossen.
 
-
 ##### § 274 Wirkungen des Zurückbehaltungsrechts
 
 (1) Gegenüber der Klage des Gläubigers hat die Geltendmachung des
@@ -3383,7 +3042,6 @@ Zug) zu verurteilen ist.
 Anspruch ohne Bewirkung der ihm obliegenden Leistung im Wege der
 Zwangsvollstreckung verfolgen, wenn der Schuldner im Verzug der
 Annahme ist.
-
 
 ##### § 275 Ausschluss der Leistungspflicht
 
@@ -3414,7 +3072,6 @@ Leistungsinteresse des Gläubigers nicht zugemutet werden kann.
     Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
     Nr. L 171 S. 12).
 
-
 ##### § 276 Verantwortlichkeit des Schuldners
 
 (1) Der Schuldner hat Vorsatz und Fahrlässigkeit zu vertreten, wenn
@@ -3430,13 +3087,11 @@ außer Acht lässt.
 (3) Die Haftung wegen Vorsatzes kann dem Schuldner nicht im Voraus
 erlassen werden.
 
-
 ##### § 277 Sorgfalt in eigenen Angelegenheiten
 
 Wer nur für diejenige Sorgfalt einzustehen hat, welche er in eigenen
 Angelegenheiten anzuwenden pflegt, ist von der Haftung wegen grober
 Fahrlässigkeit nicht befreit.
-
 
 ##### § 278 Verantwortlichkeit des Schuldners für Dritte
 
@@ -3445,11 +3100,9 @@ der Personen, deren er sich zur Erfüllung seiner Verbindlichkeit
 bedient, in gleichem Umfang zu vertreten wie eigenes Verschulden. Die
 Vorschrift des § 276 Abs. 3 findet keine Anwendung.
 
-
 ##### § 279
 
 (weggefallen)
-
 
 ##### § 280 Schadensersatz wegen Pflichtverletzung
 
@@ -3464,7 +3117,6 @@ nur unter der zusätzlichen Voraussetzung des § 286 verlangen.
 (3) Schadensersatz statt der Leistung kann der Gläubiger nur unter den
 zusätzlichen Voraussetzungen des § 281, des § 282 oder des § 283
 verlangen.
-
 
 ##### § 281 Schadensersatz statt der Leistung wegen nicht oder nicht wie geschuldet erbrachter Leistung
 
@@ -3494,14 +3146,12 @@ Gläubiger statt der Leistung Schadensersatz verlangt hat.
 so ist der Schuldner zur Rückforderung des Geleisteten nach den §§ 346
 bis 348 berechtigt.
 
-
 ##### § 282 Schadensersatz statt der Leistung wegen Verletzung einer Pflicht nach § 241 Abs. 2
 
 Verletzt der Schuldner eine Pflicht nach § 241 Abs. 2, kann der
 Gläubiger unter den Voraussetzungen des § 280 Abs. 1 Schadensersatz
 statt der Leistung verlangen, wenn ihm die Leistung durch den
 Schuldner nicht mehr zuzumuten ist.
-
 
 ##### § 283 Schadensersatz statt der Leistung bei Ausschluss der Leistungspflicht
 
@@ -3510,7 +3160,6 @@ der Gläubiger unter den Voraussetzungen des § 280 Abs. 1
 Schadensersatz statt der Leistung verlangen. § 281 Abs. 1 Satz 2 und 3
 und Abs. 5 findet entsprechende Anwendung.
 
-
 ##### § 284 Ersatz vergeblicher Aufwendungen
 
 Anstelle des Schadensersatzes statt der Leistung kann der Gläubiger
@@ -3518,7 +3167,6 @@ Ersatz der Aufwendungen verlangen, die er im Vertrauen auf den Erhalt
 der Leistung gemacht hat und billigerweise machen durfte, es sei denn,
 deren Zweck wäre auch ohne die Pflichtverletzung des Schuldners nicht
 erreicht worden.
-
 
 ##### § 285 Herausgabe des Ersatzes
 
@@ -3532,7 +3180,6 @@ Abtretung des Ersatzanspruchs verlangen.
 mindert sich dieser, wenn er von dem in Absatz 1 bestimmten Recht
 Gebrauch macht, um den Wert des erlangten Ersatzes oder
 Ersatzanspruchs.
-
 
 ##### § 286 Verzug des Schuldners
 
@@ -3581,14 +3228,12 @@ eines Umstands unterbleibt, den er nicht zu vertreten hat.
     Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von
     Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
-
 ##### § 287 Verantwortlichkeit während des Verzugs
 
 Der Schuldner hat während des Verzugs jede Fahrlässigkeit zu
 vertreten. Er haftet wegen der Leistung auch für Zufall, es sei denn,
 dass der Schaden auch bei rechtzeitiger Leistung eingetreten sein
 würde.
-
 
 ##### § 288 Verzugszinsen
 
@@ -3613,13 +3258,11 @@ ausgeschlossen.
     Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von
     Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
-
 ##### § 289 Zinseszinsverbot
 
 Von Zinsen sind Verzugszinsen nicht zu entrichten. Das Recht des
 Gläubigers auf Ersatz des durch den Verzug entstehenden Schadens
 bleibt unberührt.
-
 
 ##### § 290 Verzinsung des Wertersatzes
 
@@ -3632,7 +3275,6 @@ gelegt wird. Das Gleiche gilt, wenn der Schuldner zum Ersatz der
 Minderung des Wertes eines während des Verzugs verschlechterten
 Gegenstands verpflichtet ist.
 
-
 ##### § 291 Prozesszinsen
 
 Eine Geldschuld hat der Schuldner von dem Eintritt der
@@ -3640,7 +3282,6 @@ Rechtshängigkeit an zu verzinsen, auch wenn er nicht im Verzug ist;
 wird die Schuld erst später fällig, so ist sie von der Fälligkeit an
 zu verzinsen. Die Vorschriften des § 288 Abs. 1 Satz 2, Abs. 2, Abs. 3
 und des § 289 Satz 1 finden entsprechende Anwendung.
-
 
 ##### § 292 Haftung bei Herausgabepflicht
 
@@ -3658,22 +3299,17 @@ Gläubigers ein anderes ergibt.
 oder Vergütung von Nutzungen und von dem Anspruch des Schuldners auf
 Ersatz von Verwendungen.
 
-
 #### Titel 2 - Verzug des Gläubigers
-
-
 
 ##### § 293 Annahmeverzug
 
 Der Gläubiger kommt in Verzug, wenn er die ihm angebotene Leistung
 nicht annimmt.
 
-
 ##### § 294 Tatsächliches Angebot
 
 Die Leistung muss dem Gläubiger so, wie sie zu bewirken ist,
 tatsächlich angeboten werden.
-
 
 ##### § 295 Wörtliches Angebot
 
@@ -3684,7 +3320,6 @@ insbesondere wenn der Gläubiger die geschuldete Sache abzuholen hat.
 Dem Angebot der Leistung steht die Aufforderung an den Gläubiger
 gleich, die erforderliche Handlung vorzunehmen.
 
-
 ##### § 296 Entbehrlichkeit des Angebots
 
 Ist für die von dem Gläubiger vorzunehmende Handlung eine Zeit nach
@@ -3694,13 +3329,11 @@ der Handlung ein Ereignis vorauszugehen hat und eine angemessene Zeit
 für die Handlung in der Weise bestimmt ist, dass sie sich von dem
 Ereignis an nach dem Kalender berechnen lässt.
 
-
 ##### § 297 Unvermögen des Schuldners
 
 Der Gläubiger kommt nicht in Verzug, wenn der Schuldner zur Zeit des
 Angebots oder im Falle des § 296 zu der für die Handlung des
 Gläubigers bestimmten Zeit außerstande ist, die Leistung zu bewirken.
-
 
 ##### § 298 Zug-um-Zug-Leistungen
 
@@ -3709,7 +3342,6 @@ verpflichtet, so kommt der Gläubiger in Verzug, wenn er zwar die
 angebotene Leistung anzunehmen bereit ist, die verlangte Gegenleistung
 aber nicht anbietet.
 
-
 ##### § 299 Vorübergehende Annahmeverhinderung
 
 Ist die Leistungszeit nicht bestimmt oder ist der Schuldner
@@ -3717,7 +3349,6 @@ berechtigt, vor der bestimmten Zeit zu leisten, so kommt der Gläubiger
 nicht dadurch in Verzug, dass er vorübergehend an der Annahme der
 angebotenen Leistung verhindert ist, es sei denn, dass der Schuldner
 ihm die Leistung eine angemessene Zeit vorher angekündigt hat.
-
 
 ##### § 300 Wirkungen des Gläubigerverzugs
 
@@ -3728,19 +3359,16 @@ und grobe Fahrlässigkeit zu vertreten.
 die Gefahr mit dem Zeitpunkt auf den Gläubiger über, in welchem er
 dadurch in Verzug kommt, dass er die angebotene Sache nicht annimmt.
 
-
 ##### § 301 Wegfall der Verzinsung
 
 Von einer verzinslichen Geldschuld hat der Schuldner während des
 Verzugs des Gläubigers Zinsen nicht zu entrichten.
-
 
 ##### § 302 Nutzungen
 
 Hat der Schuldner die Nutzungen eines Gegenstands herauszugeben oder
 zu ersetzen, so beschränkt sich seine Verpflichtung während des
 Verzugs des Gläubigers auf die Nutzungen, welche er zieht.
-
 
 ##### § 303 Recht zur Besitzaufgabe
 
@@ -3750,7 +3378,6 @@ nach dem Eintritt des Verzugs des Gläubigers den Besitz aufgeben. Das
 Aufgeben muss dem Gläubiger vorher angedroht werden, es sei denn, dass
 die Androhung untunlich ist.
 
-
 ##### § 304 Ersatz von Mehraufwendungen
 
 Der Schuldner kann im Falle des Verzugs des Gläubigers Ersatz der
@@ -3758,14 +3385,12 @@ Mehraufwendungen verlangen, die er für das erfolglose Angebot sowie
 für die Aufbewahrung und Erhaltung des geschuldeten Gegenstands machen
 musste.
 
-
 ### Abschnitt 2 - Gestaltung rechtsgeschäftlicher Schuldverhältnisse durch Allgemeine Geschäftsbedingungen
 
 [^BJNR001950896BJNG023401377_001]:     **Amtlicher Hinweis:**              Dieser Abschnitt dient auch der
     Umsetzung der Richtlinie 93/13/EWG des Rates vom 5. April 1993 über
     missbräuchliche Klauseln in Verbraucherverträgen (ABl. EG Nr. L 95 S.
     29).
-
 
 #### § 305 Einbeziehung Allgemeiner Geschäftsbedingungen in den Vertrag
 
@@ -3804,7 +3429,6 @@ Rechtsgeschäften die Geltung bestimmter Allgemeiner
 Geschäftsbedingungen unter Beachtung der in Absatz 2 bezeichneten
 Erfordernisse im Voraus vereinbaren.
 
-
 #### § 305a Einbeziehung in besonderen Fällen
 
 Auch ohne Einhaltung der in § 305 Abs. 2 Nr. 1 und 2 bezeichneten
@@ -3836,18 +3460,10 @@ ihrer Geltung einverstanden ist,
         unter unverhältnismäßigen Schwierigkeiten vor dem Vertragsschluss
         zugänglich gemacht werden können.
 
-
-
-
-
-
-
-
 #### § 305b Vorrang der Individualabrede
 
 Individuelle Vertragsabreden haben Vorrang vor Allgemeinen
 Geschäftsbedingungen.
-
 
 #### § 305c Überraschende und mehrdeutige Klauseln
 
@@ -3859,7 +3475,6 @@ Vertragsbestandteil.
 
 (2) Zweifel bei der Auslegung Allgemeiner Geschäftsbedingungen gehen
 zu Lasten des Verwenders.
-
 
 #### § 306 Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit
 
@@ -3875,12 +3490,10 @@ gesetzlichen Vorschriften.
 Berücksichtigung der nach Absatz 2 vorgesehenen Änderung eine
 unzumutbare Härte für eine Vertragspartei darstellen würde.
 
-
 #### § 306a Umgehungsverbot
 
 Die Vorschriften dieses Abschnitts finden auch Anwendung, wenn sie
 durch anderweitige Gestaltungen umgangen werden.
-
 
 #### § 307 Inhaltskontrolle
 
@@ -3909,7 +3522,6 @@ Bestimmungen in Allgemeinen Geschäftsbedingungen, durch die von
 Rechtsvorschriften abweichende oder diese ergänzende Regelungen
 vereinbart werden. Andere Bestimmungen können nach Absatz 1 Satz 2 in
 Verbindung mit Absatz 1 Satz 1 unwirksam sein.
-
 
 #### § 308 Klauselverbote mit Wertungsmöglichkeit
 
@@ -3999,13 +3611,6 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam
 
 
     b)  Gegenleistungen des Vertragspartners unverzüglich zu erstatten.
-
-
-
-
-
-
-
 
 #### § 309 Klauselverbote ohne Wertungsmöglichkeit
 
@@ -4274,10 +3879,6 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
     strengere Form als die Schriftform oder an besondere
     Zugangserfordernisse gebunden werden.
 
-
-
-
-
 #### § 310 Anwendungsbereich
 
 (1) § 305 Abs. 2 und 3 und die §§ 308 und 309 finden keine Anwendung
@@ -4336,18 +3937,11 @@ angemessen zu berücksichtigen; § 305 Abs. 2 und 3 ist nicht
 anzuwenden. Tarifverträge, Betriebs- und Dienstvereinbarungen stehen
 Rechtsvorschriften im Sinne von § 307 Abs. 3 gleich.
 
-
 ### Abschnitt 3 - Schuldverhältnisse aus Verträgen
-
-
 
 #### Titel 1 - Begründung, Inhalt und Beendigung
 
-
-
 ##### Untertitel 1 - Begründung
-
-
 
 ###### § 311 Rechtsgeschäftliche und rechtsgeschäftsähnliche Schuldverhältnisse
 
@@ -4379,7 +3973,6 @@ solches Schuldverhältnis entsteht insbesondere, wenn der Dritte in
 besonderem Maße Vertrauen für sich in Anspruch nimmt und dadurch die
 Vertragsverhandlungen oder den Vertragsschluss erheblich beeinflusst.
 
-
 ###### § 311a Leistungshindernis bei Vertragsschluss
 
 (1) Der Wirksamkeit eines Vertrags steht es nicht entgegen, dass der
@@ -4392,7 +3985,6 @@ Umfang verlangen. Dies gilt nicht, wenn der Schuldner das
 Leistungshindernis bei Vertragsschluss nicht kannte und seine
 Unkenntnis auch nicht zu vertreten hat. § 281 Abs. 1 Satz 2 und 3 und
 Abs. 5 findet entsprechende Anwendung.
-
 
 ###### § 311b Verträge über Grundstücke, das Vermögen und den Nachlass
 
@@ -4420,13 +4012,11 @@ gesetzlichen Erben über den gesetzlichen Erbteil oder den Pflichtteil
 eines von ihnen geschlossen wird. Ein solcher Vertrag bedarf der
 notariellen Beurkundung.
 
-
 ###### § 311c Erstreckung auf Zubehör
 
 Verpflichtet sich jemand zur Veräußerung oder Belastung einer Sache,
 so erstreckt sich diese Verpflichtung im Zweifel auch auf das Zubehör
 der Sache.
-
 
 ##### Untertitel 2 - Besondere Vertriebsformen
 
@@ -4451,10 +4041,6 @@ der Sache.
     Dienste der Informationsgesellschaft, insbesondere des elektronischen
     Geschäftsverkehrs, im Binnenmarkt ("Richtlinie über den elektronischen
     Geschäftsverkehr", ABl. EG Nr. L 178 S. 1).
-
-
-
-
 
 ###### § 312 Widerrufsrecht bei Haustürgeschäften
 
@@ -4504,17 +4090,12 @@ Vorschriften nicht bei Versicherungsverträgen oder wenn
 3.  die Willenserklärung des Verbrauchers von einem Notar beurkundet
     worden ist.
 
-
-
-
-
 ###### § 312a Verhältnis zu anderen Vorschriften
 
 Steht dem Verbraucher zugleich nach Maßgabe anderer Vorschriften ein
 Widerrufs- oder Rückgaberecht nach § 355 oder § 356 dieses Gesetzes,
 nach § 126 des Investmentgesetzes zu, ist das Widerrufs- oder
 Rückgaberecht nach § 312 ausgeschlossen.
-
 
 ###### § 312b Fernabsatzverträge
 
@@ -4600,7 +4181,6 @@ der erste Vorgang einer neuen Reihe im Sinne von Satz 2.
 (5) Weitergehende Vorschriften zum Schutz des Verbrauchers bleiben
 unberührt.
 
-
 ###### § 312c Unterrichtung des Verbrauchers bei Fernabsatzverträgen
 
 (1) Der Unternehmer hat den Verbraucher bei Fernabsatzverträgen nach
@@ -4619,7 +4199,6 @@ Geschäftsbedingungen in einer Urkunde zur Verfügung stellt.
 (4) Weitergehende Einschränkungen bei der Verwendung von
 Fernkommunikationsmitteln und weitergehende Informationspflichten auf
 Grund anderer Vorschriften bleiben unberührt.
-
 
 ###### § 312d Widerrufs- und Rückgaberecht bei Fernabsatzverträgen
 
@@ -4696,7 +4275,6 @@ entsprechend.
 
 (6) (weggefallen)
 
-
 ###### § 312e Wertersatz bei Fernabsatzverträgen
 
 (1) Bei Fernabsatzverträgen über die Lieferung von Waren hat der
@@ -4727,10 +4305,6 @@ nur zu leisten,
 2.  wenn er ausdrücklich zugestimmt hat, dass der Unternehmer vor Ende der
     Widerrufsfrist mit der Ausführung der Dienstleistung beginnt.
 
-
-
-
-
 ###### § 312f Zu Fernabsatzverträgen über Finanzdienstleistungen hinzugefügte Verträge
 
 Hat der Verbraucher seine Willenserklärung, die auf den Abschluss
@@ -4743,7 +4317,6 @@ und dem Dritten zum Gegenstand hat. § 357 gilt für den hinzugefügten
 Vertrag entsprechend; § 312e gilt entsprechend, wenn für den
 hinzugefügten Vertrag ein Widerrufsrecht gemäß § 312d besteht oder
 bestand.
-
 
 ###### § 312g Pflichten im elektronischen Geschäftsverkehr
 
@@ -4809,7 +4382,6 @@ bleiben unberührt. Steht dem Kunden ein Widerrufsrecht gemäß § 355 zu,
 beginnt die Widerrufsfrist abweichend von § 355 Abs. 3 Satz 1 nicht
 vor Erfüllung der in Absatz 1 Satz 1 geregelten Pflichten.
 
-
 ###### § 312h Kündigung und Vollmacht zur Kündigung
 
 Wird zwischen einem Unternehmer und einem Verbraucher nach diesem
@@ -4833,7 +4405,6 @@ Begründung des Dauerschuldverhältnisses von dem Verbraucher
 bedarf die Kündigung des Verbrauchers oder die Vollmacht zur Kündigung
 der Textform.
 
-
 ###### § 312i Abweichende Vereinbarungen
 
 Von den Vorschriften dieses Untertitels darf, soweit nicht ein anderes
@@ -4842,10 +4413,7 @@ abgewichen werden. Die Vorschriften dieses Untertitels finden, soweit
 nicht ein anderes bestimmt ist, auch Anwendung, wenn sie durch
 anderweitige Gestaltungen umgangen werden.
 
-
 ##### Untertitel 3 - Anpassung und Beendigung von Verträgen
-
-
 
 ###### § 313 Störung der Geschäftsgrundlage
 
@@ -4866,7 +4434,6 @@ falsch herausstellen.
 nicht zumutbar, so kann der benachteiligte Teil vom Vertrag
 zurücktreten. An die Stelle des Rücktrittsrechts tritt für
 Dauerschuldverhältnisse das Recht zur Kündigung.
-
 
 ###### § 314 Kündigung von Dauerschuldverhältnissen aus wichtigem Grund
 
@@ -4889,10 +4456,7 @@ kündigen, nachdem er vom Kündigungsgrund Kenntnis erlangt hat.
 (4) Die Berechtigung, Schadensersatz zu verlangen, wird durch die
 Kündigung nicht ausgeschlossen.
 
-
 ##### Untertitel 4 - Einseitige Leistungsbestimmungsrechte
-
-
 
 ###### § 315 Bestimmung der Leistung durch eine Partei
 
@@ -4908,13 +4472,11 @@ der Billigkeit entspricht. Entspricht sie nicht der Billigkeit, so
 wird die Bestimmung durch Urteil getroffen; das Gleiche gilt, wenn die
 Bestimmung verzögert wird.
 
-
 ###### § 316 Bestimmung der Gegenleistung
 
 Ist der Umfang der für eine Leistung versprochenen Gegenleistung nicht
 bestimmt, so steht die Bestimmung im Zweifel demjenigen Teil zu,
 welcher die Gegenleistung zu fordern hat.
-
 
 ###### § 317 Bestimmung der Leistung durch einen Dritten
 
@@ -4925,7 +4487,6 @@ im Zweifel anzunehmen, dass sie nach billigem Ermessen zu treffen ist.
 Zweifel Übereinstimmung aller erforderlich; soll eine Summe bestimmt
 werden, so ist, wenn verschiedene Summen bestimmt werden, im Zweifel
 die Durchschnittssumme maßgebend.
-
 
 ###### § 318 Anfechtung der Bestimmung
 
@@ -4939,7 +4500,6 @@ unverzüglich erfolgen, nachdem der Anfechtungsberechtigte von dem
 Anfechtungsgrund Kenntnis erlangt hat. Sie ist ausgeschlossen, wenn 30
 Jahre verstrichen sind, nachdem die Bestimmung getroffen worden ist.
 
-
 ###### § 319 Unwirksamkeit der Bestimmung; Ersetzung
 
 (1) Soll der Dritte die Leistung nach billigem Ermessen bestimmen, so
@@ -4952,10 +4512,7 @@ Bestimmung nicht treffen kann oder will oder wenn er sie verzögert.
 ist der Vertrag unwirksam, wenn der Dritte die Bestimmung nicht
 treffen kann oder will oder wenn er sie verzögert.
 
-
 #### Titel 2 - Gegenseitiger Vertrag
-
-
 
 ##### § 320 Einrede des nicht erfüllten Vertrags
 
@@ -4972,7 +4529,6 @@ nach den Umständen, insbesondere wegen verhältnismäßiger
 Geringfügigkeit des rückständigen Teils, gegen Treu und Glauben
 verstoßen würde.
 
-
 ##### § 321 Unsicherheitseinrede
 
 (1) Wer aus einem gegenseitigen Vertrag vorzuleisten verpflichtet ist,
@@ -4988,7 +4544,6 @@ Wahl die Gegenleistung zu bewirken oder Sicherheit zu leisten hat.
 Nach erfolglosem Ablauf der Frist kann der Vorleistungspflichtige vom
 Vertrag zurücktreten. § 323 findet entsprechende Anwendung.
 
-
 ##### § 322 Verurteilung zur Leistung Zug-um-Zug
 
 (1) Erhebt aus einem gegenseitigen Vertrag der eine Teil Klage auf die
@@ -5003,7 +4558,6 @@ Gegenleistung klagen.
 
 (3) Auf die Zwangsvollstreckung findet die Vorschrift des § 274 Abs. 2
 Anwendung.
-
 
 ##### § 323 Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter Leistung
 
@@ -5056,19 +4610,16 @@ im Verzug der Annahme ist.
     Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
     Nr. L 171 S. 12).
 
-
 ##### § 324 Rücktritt wegen Verletzung einer Pflicht nach § 241 Abs. 2
 
 Verletzt der Schuldner bei einem gegenseitigen Vertrag eine Pflicht
 nach § 241 Abs. 2, so kann der Gläubiger zurücktreten, wenn ihm ein
 Festhalten am Vertrag nicht mehr zuzumuten ist.
 
-
 ##### § 325 Schadensersatz und Rücktritt
 
 Das Recht, bei einem gegenseitigen Vertrag Schadensersatz zu
 verlangen, wird durch den Rücktritt nicht ausgeschlossen.
-
 
 ##### § 326 Befreiung von der Gegenleistung und Rücktritt beim Ausschluss der Leistungspflicht
 
@@ -5112,15 +4663,11 @@ ist.
     Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
     Nr. L 171 S. 12).
 
-
 ##### § 327
 
 (weggefallen)
 
-
 #### Titel 3 - Versprechen der Leistung an einen Dritten
-
-
 
 ##### § 328 Vertrag zugunsten Dritter
 
@@ -5135,14 +4682,12 @@ gewissen Voraussetzungen entstehen und ob den Vertragschließenden die
 Befugnis vorbehalten sein soll, das Recht des Dritten ohne dessen
 Zustimmung aufzuheben oder zu ändern.
 
-
 ##### § 329 Auslegungsregel bei Erfüllungsübernahme
 
 Verpflichtet sich in einem Vertrag der eine Teil zur Befriedigung
 eines Gläubigers des anderen Teils, ohne die Schuld zu übernehmen, so
 ist im Zweifel nicht anzunehmen, dass der Gläubiger unmittelbar das
 Recht erwerben soll, die Befriedigung von ihm zu fordern.
-
 
 ##### § 330 Auslegungsregel bei Leibrentenvertrag
 
@@ -5153,7 +4698,6 @@ Gleiche gilt, wenn bei einer unentgeltlichen Zuwendung dem Bedachten
 eine Leistung an einen Dritten auferlegt oder bei einer Vermögens-
 oder Gutsübernahme von dem Übernehmer eine Leistung an einen Dritten
 zum Zwecke der Abfindung versprochen wird.
-
 
 ##### § 331 Leistung nach Todesfall
 
@@ -5167,7 +4711,6 @@ kann das Versprechen, an den Dritten zu leisten, nur dann noch
 aufgehoben oder geändert werden, wenn die Befugnis dazu vorbehalten
 worden ist.
 
-
 ##### § 332 Änderung durch Verfügung von Todes wegen bei Vorbehalt
 
 Hat sich der Versprechensempfänger die Befugnis vorbehalten, ohne
@@ -5175,18 +4718,15 @@ Zustimmung des Versprechenden an die Stelle des in dem Vertrag
 bezeichneten Dritten einen anderen zu setzen, so kann dies im Zweifel
 auch in einer Verfügung von Todes wegen geschehen.
 
-
 ##### § 333 Zurückweisung des Rechts durch den Dritten
 
 Weist der Dritte das aus dem Vertrag erworbene Recht dem
 Versprechenden gegenüber zurück, so gilt das Recht als nicht erworben.
 
-
 ##### § 334 Einwendungen des Schuldners gegenüber dem Dritten
 
 Einwendungen aus dem Vertrag stehen dem Versprechenden auch gegenüber
 dem Dritten zu.
-
 
 ##### § 335 Forderungsrecht des Versprechensempfängers
 
@@ -5194,10 +4734,7 @@ Der Versprechensempfänger kann, sofern nicht ein anderer Wille der
 Vertragschließenden anzunehmen ist, die Leistung an den Dritten auch
 dann fordern, wenn diesem das Recht auf die Leistung zusteht.
 
-
 #### Titel 4 - Draufgabe, Vertragsstrafe
-
-
 
 ##### § 336 Auslegung der Draufgabe
 
@@ -5205,7 +4742,6 @@ dann fordern, wenn diesem das Recht auf die Leistung zusteht.
 so gilt dies als Zeichen des Abschlusses des Vertrags.
 
 (2) Die Draufgabe gilt im Zweifel nicht als Reugeld.
-
 
 ##### § 337 Anrechnung oder Rückgabe der Draufgabe
 
@@ -5215,7 +4751,6 @@ Erfüllung des Vertrags zurückzugeben.
 
 (2) Wird der Vertrag wieder aufgehoben, so ist die Draufgabe
 zurückzugeben.
-
 
 ##### § 338 Draufgabe bei zu vertretender Unmöglichkeit der Leistung
 
@@ -5227,7 +4762,6 @@ Nichterfüllung, so ist die Draufgabe im Zweifel anzurechnen oder, wenn
 dies nicht geschehen kann, bei der Leistung des Schadensersatzes
 zurückzugeben.
 
-
 ##### § 339 Verwirkung der Vertragsstrafe
 
 Verspricht der Schuldner dem Gläubiger für den Fall, dass er seine
@@ -5235,7 +4769,6 @@ Verbindlichkeit nicht oder nicht in gehöriger Weise erfüllt, die
 Zahlung einer Geldsumme als Strafe, so ist die Strafe verwirkt, wenn
 er in Verzug kommt. Besteht die geschuldete Leistung in einem
 Unterlassen, so tritt die Verwirkung mit der Zuwiderhandlung ein.
-
 
 ##### § 340 Strafversprechen für Nichterfüllung
 
@@ -5249,7 +4782,6 @@ Erfüllung ausgeschlossen.
 Nichterfüllung zu, so kann er die verwirkte Strafe als Mindestbetrag
 des Schadens verlangen. Die Geltendmachung eines weiteren Schadens ist
 nicht ausgeschlossen.
-
 
 ##### § 341 Strafversprechen für nicht gehörige Erfüllung
 
@@ -5265,14 +4797,12 @@ nicht gehörigen Erfüllung zu, so findet die Vorschrift des § 340 Abs.
 (3) Nimmt der Gläubiger die Erfüllung an, so kann er die Strafe nur
 verlangen, wenn er sich das Recht dazu bei der Annahme vorbehält.
 
-
 ##### § 342 Andere als Geldstrafe
 
 Wird als Strafe eine andere Leistung als die Zahlung einer Geldsumme
 versprochen, so finden die Vorschriften der §§ 339 bis 341 Anwendung;
 der Anspruch auf Schadensersatz ist ausgeschlossen, wenn der Gläubiger
 die Strafe verlangt.
-
 
 ##### § 343 Herabsetzung der Strafe
 
@@ -5287,7 +4817,6 @@ Strafe ist die Herabsetzung ausgeschlossen.
 jemand eine Strafe für den Fall verspricht, dass er eine Handlung
 vornimmt oder unterlässt.
 
-
 ##### § 344 Unwirksames Strafversprechen
 
 Erklärt das Gesetz das Versprechen einer Leistung für unwirksam, so
@@ -5295,17 +4824,13 @@ ist auch die für den Fall der Nichterfüllung des Versprechens
 getroffene Vereinbarung einer Strafe unwirksam, selbst wenn die
 Parteien die Unwirksamkeit des Versprechens gekannt haben.
 
-
 ##### § 345 Beweislast
 
 Bestreitet der Schuldner die Verwirkung der Strafe, weil er seine
 Verbindlichkeit erfüllt habe, so hat er die Erfüllung zu beweisen,
 sofern nicht die geschuldete Leistung in einem Unterlassen besteht.
 
-
 #### Titel 5 - Rücktritt; Widerrufs- und Rückgaberecht bei Verbraucherverträgen
-
-
 
 ##### Untertitel 1 - Rücktritt
 
@@ -5316,7 +4841,6 @@ sofern nicht die geschuldete Leistung in einem Unterlassen besteht.
     des Rates vom 25. Mai 1999 zu bestimmten Aspekten des
     Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
     Nr. L 171 S. 12).
-
 
 ###### § 346 Wirkungen des Rücktritts
 
@@ -5369,7 +4893,6 @@ Eine verbleibende Bereicherung ist herauszugeben.
 (4) Der Gläubiger kann wegen Verletzung einer Pflicht aus Absatz 1
 nach Maßgabe der §§ 280 bis 283 Schadensersatz verlangen.
 
-
 ###### § 347 Nutzungen und Verwendungen nach Rücktritt
 
 (1) Zieht der Schuldner Nutzungen entgegen den Regeln einer
@@ -5385,18 +4908,15 @@ ausgeschlossen, so sind ihm notwendige Verwendungen zu ersetzen.
 Andere Aufwendungen sind zu ersetzen, soweit der Gläubiger durch diese
 bereichert wird.
 
-
 ###### § 348 Erfüllung Zug-um-Zug
 
 Die sich aus dem Rücktritt ergebenden Verpflichtungen der Parteien
 sind Zug um Zug zu erfüllen. Die Vorschriften der §§ 320, 322 finden
 entsprechende Anwendung.
 
-
 ###### § 349 Erklärung des Rücktritts
 
 Der Rücktritt erfolgt durch Erklärung gegenüber dem anderen Teil.
-
 
 ###### § 350 Erlöschen des Rücktrittsrechts nach Fristsetzung
 
@@ -5406,7 +4926,6 @@ die Ausübung eine angemessene Frist bestimmt werden. Das
 Rücktrittsrecht erlischt, wenn nicht der Rücktritt vor dem Ablauf der
 Frist erklärt wird.
 
-
 ###### § 351 Unteilbarkeit des Rücktrittsrechts
 
 Sind bei einem Vertrag auf der einen oder der anderen Seite mehrere
@@ -5414,14 +4933,12 @@ beteiligt, so kann das Rücktrittsrecht nur von allen und gegen alle
 ausgeübt werden. Erlischt das Rücktrittsrecht für einen der
 Berechtigten, so erlischt es auch für die übrigen.
 
-
 ###### § 352 Aufrechnung nach Nichterfüllung
 
 Der Rücktritt wegen Nichterfüllung einer Verbindlichkeit wird
 unwirksam, wenn der Schuldner sich von der Verbindlichkeit durch
 Aufrechnung befreien konnte und unverzüglich nach dem Rücktritt die
 Aufrechnung erklärt.
-
 
 ###### § 353 Rücktritt gegen Reugeld
 
@@ -5431,14 +4948,12 @@ Erklärung entrichtet wird und der andere Teil aus diesem Grunde die
 Erklärung unverzüglich zurückweist. Die Erklärung ist jedoch wirksam,
 wenn das Reugeld unverzüglich nach der Zurückweisung entrichtet wird.
 
-
 ###### § 354 Verwirkungsklausel
 
 Ist ein Vertrag mit dem Vorbehalt geschlossen, dass der Schuldner
 seiner Rechte aus dem Vertrag verlustig sein soll, wenn er seine
 Verbindlichkeit nicht erfüllt, so ist der Gläubiger bei dem Eintritt
 dieses Falles zum Rücktritt von dem Vertrag berechtigt.
-
 
 ##### Untertitel 2 - Widerrufs- und Rückgaberecht bei Verbraucherverträgen
 
@@ -5462,10 +4977,6 @@ dieses Falles zum Rücktritt von dem Vertrag berechtigt.
     97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997
     über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl.
     EG Nr. L 144 S. 19).
-
-
-
-
 
 ###### § 355 Widerrufsrecht bei Verbraucherverträgen
 
@@ -5512,7 +5023,6 @@ Mitteilungspflichten gemäß Artikel 246 § 2 Abs. 1 Satz 1 Nr. 1 und
 Satz 2 Nr. 1 bis 3 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche nicht ordnungsgemäß erfüllt hat.
 
-
 ###### § 356 Rückgaberecht bei Verbraucherverträgen
 
 (1) Das Widerrufsrecht nach § 355 kann, soweit dies ausdrücklich durch
@@ -5536,7 +5046,6 @@ Sache oder, wenn die Sache nicht als Paket versandt werden kann, durch
 Rücknahmeverlangen ausgeübt werden. Im Übrigen sind die Vorschriften
 über das Widerrufsrecht entsprechend anzuwenden. An die Stelle von §
 360 Abs. 1 tritt § 360 Abs. 2.
-
 
 ###### § 357 Rechtsfolgen des Widerrufs und der Rückgabe
 
@@ -5586,7 +5095,6 @@ ordnungsgemäß belehrt worden ist oder hiervon anderweitig Kenntnis
 erlangt hat.
 
 (4) Weitergehende Ansprüche bestehen nicht.
-
 
 ###### § 358 Verbundene Verträge
 
@@ -5638,7 +5146,6 @@ Rückgabe bereits zugeflossen ist.
 (5) Die erforderliche Belehrung über das Widerrufs- oder Rückgaberecht
 muss auf die Rechtsfolgen nach den Absätzen 1 und 2 hinweisen.
 
-
 ###### § 359 Einwendungen bei verbundenen Verträgen
 
 Der Verbraucher kann die Rückzahlung des Darlehens verweigern, soweit
@@ -5650,7 +5157,6 @@ Verbraucher nach Abschluss des Verbraucherdarlehensvertrags
 vereinbarten Vertragsänderung beruhen. Kann der Verbraucher
 Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst
 verweigern, wenn die Nacherfüllung fehlgeschlagen ist.
-
 
 ###### § 359a Anwendungsbereich
 
@@ -5670,7 +5176,6 @@ Finanzinstrumenten dienen.
 
 (4) § 359 ist nicht anzuwenden, wenn das finanzierte Entgelt weniger
 als 200 Euro beträgt.
-
 
 ###### § 360 Widerrufs- und Rückgabebelehrung
 
@@ -5739,19 +5244,13 @@ wird. Der Unternehmer darf unter Beachtung von Absatz 1 Satz 1 in
 Format und Schriftgröße von den Mustern abweichen und Zusätze wie die
 Firma oder ein Kennzeichen des Unternehmers anbringen.
 
-
 ###### § 361 (weggefallen)
 
 -
 
-
 ### Abschnitt 4 - Erlöschen der Schuldverhältnisse
 
-
-
 #### Titel 1 - Erfüllung
-
-
 
 ##### § 362 Erlöschen durch Leistung
 
@@ -5761,7 +5260,6 @@ den Gläubiger bewirkt wird.
 (2) Wird an einen Dritten zum Zwecke der Erfüllung geleistet, so
 finden die Vorschriften des § 185 Anwendung.
 
-
 ##### § 363 Beweislast bei Annahme als Erfüllung
 
 Hat der Gläubiger eine ihm als Erfüllung angebotene Leistung als
@@ -5769,7 +5267,6 @@ Erfüllung angenommen, so trifft ihn die Beweislast, wenn er die
 Leistung deshalb nicht als Erfüllung gelten lassen will, weil sie eine
 andere als die geschuldete Leistung oder weil sie unvollständig
 gewesen sei.
-
 
 ##### § 364 Annahme an Erfüllungs statt
 
@@ -5780,14 +5277,12 @@ die geschuldete Leistung an Erfüllungs statt annimmt.
 diesem gegenüber eine neue Verbindlichkeit, so ist im Zweifel nicht
 anzunehmen, dass er die Verbindlichkeit an Erfüllungs statt übernimmt.
 
-
 ##### § 365 Gewährleistung bei Hingabe an Erfüllungs statt
 
 Wird eine Sache, eine Forderung gegen einen Dritten oder ein anderes
 Recht an Erfüllungs statt gegeben, so hat der Schuldner wegen eines
 Mangels im Recht oder wegen eines Mangels der Sache in gleicher Weise
 wie ein Verkäufer Gewähr zu leisten.
-
 
 ##### § 366 Anrechnung der Leistung auf mehrere Forderungen
 
@@ -5802,7 +5297,6 @@ Gläubiger geringere Sicherheit bietet, unter mehreren gleich sicheren
 die dem Schuldner lästigere, unter mehreren gleich lästigen die ältere
 Schuld und bei gleichem Alter jede Schuld verhältnismäßig getilgt.
 
-
 ##### § 367 Anrechnung auf Zinsen und Kosten
 
 (1) Hat der Schuldner außer der Hauptleistung Zinsen und Kosten zu
@@ -5813,14 +5307,12 @@ zuletzt auf die Hauptleistung angerechnet.
 (2) Bestimmt der Schuldner eine andere Anrechnung, so kann der
 Gläubiger die Annahme der Leistung ablehnen.
 
-
 ##### § 368 Quittung
 
 Der Gläubiger hat gegen Empfang der Leistung auf Verlangen ein
 schriftliches Empfangsbekenntnis (Quittung) zu erteilen. Hat der
 Schuldner ein rechtliches Interesse, dass die Quittung in anderer Form
 erteilt wird, so kann er die Erteilung in dieser Form verlangen.
-
 
 ##### § 369 Kosten der Quittung
 
@@ -5832,13 +5324,11 @@ bestehenden Rechtsverhältnis sich ein anderes ergibt.
 Erbfolge an die Stelle des ursprünglichen Gläubigers mehrere
 Gläubiger, so fallen die Mehrkosten den Gläubigern zur Last.
 
-
 ##### § 370 Leistung an den Überbringer der Quittung
 
 Der Überbringer einer Quittung gilt als ermächtigt, die Leistung zu
 empfangen, sofern nicht die dem Leistenden bekannten Umstände der
 Annahme einer solchen Ermächtigung entgegenstehen.
-
 
 ##### § 371 Rückgabe des Schuldscheins
 
@@ -5848,10 +5338,7 @@ Behauptet der Gläubiger, zur Rückgabe außerstande zu sein, so kann der
 Schuldner das öffentlich beglaubigte Anerkenntnis verlangen, dass die
 Schuld erloschen sei.
 
-
 #### Titel 2 - Hinterlegung
-
-
 
 ##### § 372 Voraussetzungen
 
@@ -5863,14 +5350,12 @@ des Gläubigers liegenden Grund oder infolge einer nicht auf
 Fahrlässigkeit beruhenden Ungewissheit über die Person des Gläubigers
 seine Verbindlichkeit nicht oder nicht mit Sicherheit erfüllen kann.
 
-
 ##### § 373 Zug-um-Zug-Leistung
 
 Ist der Schuldner nur gegen eine Leistung des Gläubigers zu leisten
 verpflichtet, so kann er das Recht des Gläubigers zum Empfang der
 hinterlegten Sache von der Bewirkung der Gegenleistung abhängig
 machen.
-
 
 ##### § 374 Hinterlegungsort; Anzeigepflicht
 
@@ -5882,13 +5367,11 @@ er dem Gläubiger den daraus entstehenden Schaden zu ersetzen.
 anzuzeigen; im Falle der Unterlassung ist er zum Schadensersatz
 verpflichtet. Die Anzeige darf unterbleiben, wenn sie untunlich ist.
 
-
 ##### § 375 Rückwirkung bei Postübersendung
 
 Ist die hinterlegte Sache der Hinterlegungsstelle durch die Post
 übersendet worden, so wirkt die Hinterlegung auf die Zeit der Aufgabe
 der Sache zur Post zurück.
-
 
 ##### § 376 Rücknahmerecht
 
@@ -5907,10 +5390,6 @@ der Sache zur Post zurück.
     Schuldner ergangenes rechtskräftiges Urteil vorgelegt wird, das die
     Hinterlegung für rechtmäßig erklärt.
 
-
-
-
-
 ##### § 377 Unpfändbarkeit des Rücknahmerechts
 
 (1) Das Recht zur Rücknahme ist der Pfändung nicht unterworfen.
@@ -5919,14 +5398,12 @@ der Sache zur Post zurück.
 eröffnet, so kann während des Insolvenzverfahrens das Recht zur
 Rücknahme auch nicht von dem Schuldner ausgeübt werden.
 
-
 ##### § 378 Wirkung der Hinterlegung bei ausgeschlossener Rücknahme
 
 Ist die Rücknahme der hinterlegten Sache ausgeschlossen, so wird der
 Schuldner durch die Hinterlegung von seiner Verbindlichkeit in
 gleicher Weise befreit, wie wenn er zur Zeit der Hinterlegung an den
 Gläubiger geleistet hätte.
-
 
 ##### § 379 Wirkung der Hinterlegung bei nicht ausgeschlossener Rücknahme
 
@@ -5940,7 +5417,6 @@ für nicht gezogene Nutzungen zu leisten.
 (3) Nimmt der Schuldner die hinterlegte Sache zurück, so gilt die
 Hinterlegung als nicht erfolgt.
 
-
 ##### § 380 Nachweis der Empfangsberechtigung
 
 Soweit nach den für die Hinterlegungsstelle geltenden Bestimmungen zum
@@ -5951,12 +5427,10 @@ Erklärung unter denselben Voraussetzungen verlangen, unter denen er
 die Leistung zu fordern berechtigt sein würde, wenn die Hinterlegung
 nicht erfolgt wäre.
 
-
 ##### § 381 Kosten der Hinterlegung
 
 Die Kosten der Hinterlegung fallen dem Gläubiger zur Last, sofern
 nicht der Schuldner die hinterlegte Sache zurücknimmt.
-
 
 ##### § 382 Erlöschen des Gläubigerrechts
 
@@ -5965,7 +5439,6 @@ Ablauf von 30 Jahren nach dem Empfang der Anzeige von der
 Hinterlegung, wenn nicht der Gläubiger sich vorher bei der
 Hinterlegungsstelle meldet; der Schuldner ist zur Rücknahme
 berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
-
 
 ##### § 383 Versteigerung hinterlegungsunfähiger Sachen
 
@@ -5990,7 +5463,6 @@ machen.
 (4) Die Vorschriften der Absätze 1 bis 3 gelten nicht für eingetragene
 Schiffe und Schiffsbauwerke.
 
-
 ##### § 384 Androhung der Versteigerung
 
 (1) Die Versteigerung ist erst zulässig, nachdem sie dem Gläubiger
@@ -6005,7 +5477,6 @@ Schadensersatz verpflichtet.
 (3) Die Androhung und die Benachrichtigung dürfen unterbleiben, wenn
 sie untunlich sind.
 
-
 ##### § 385 Freihändiger Verkauf
 
 Hat die Sache einen Börsen- oder Marktpreis, so kann der Schuldner den
@@ -6013,17 +5484,13 @@ Verkauf aus freier Hand durch einen zu solchen Verkäufen öffentlich
 ermächtigten Handelsmäkler oder durch eine zur öffentlichen
 Versteigerung befugte Person zum laufenden Preis bewirken.
 
-
 ##### § 386 Kosten der Versteigerung
 
 Die Kosten der Versteigerung oder des nach § 385 erfolgten Verkaufs
 fallen dem Gläubiger zur Last, sofern nicht der Schuldner den
 hinterlegten Erlös zurücknimmt.
 
-
 #### Titel 3 - Aufrechnung
-
-
 
 ##### § 387 Voraussetzungen
 
@@ -6032,13 +5499,11 @@ gleichartig sind, so kann jeder Teil seine Forderung gegen die
 Forderung des anderen Teils aufrechnen, sobald er die ihm gebührende
 Leistung fordern und die ihm obliegende Leistung bewirken kann.
 
-
 ##### § 388 Erklärung der Aufrechnung
 
 Die Aufrechnung erfolgt durch Erklärung gegenüber dem anderen Teil.
 Die Erklärung ist unwirksam, wenn sie unter einer Bedingung oder einer
 Zeitbestimmung abgegeben wird.
-
 
 ##### § 389 Wirkung der Aufrechnung
 
@@ -6046,12 +5511,10 @@ Die Aufrechnung bewirkt, dass die Forderungen, soweit sie sich decken,
 als in dem Zeitpunkt erloschen gelten, in welchem sie zur Aufrechnung
 geeignet einander gegenübergetreten sind.
 
-
 ##### § 390 Keine Aufrechnung mit einredebehafteter Forderung
 
 Eine Forderung, der eine Einrede entgegensteht, kann nicht
 aufgerechnet werden.
-
 
 ##### § 391 Aufrechnung bei Verschiedenheit der Leistungsorte
 
@@ -6066,7 +5529,6 @@ einem bestimmten Orte erfolgen soll, so ist im Zweifel anzunehmen,
 dass die Aufrechnung einer Forderung, für die ein anderer Leistungsort
 besteht, ausgeschlossen sein soll.
 
-
 ##### § 392 Aufrechnung gegen beschlagnahmte Forderung
 
 Durch die Beschlagnahme einer Forderung wird die Aufrechnung einer dem
@@ -6076,12 +5538,10 @@ Beschlagnahme erworben hat oder wenn seine Forderung erst nach der
 Beschlagnahme und später als die in Beschlag genommene Forderung
 fällig geworden ist.
 
-
 ##### § 393 Keine Aufrechnung gegen Forderung aus unerlaubter Handlung
 
 Gegen eine Forderung aus einer vorsätzlich begangenen unerlaubten
 Handlung ist die Aufrechnung nicht zulässig.
-
 
 ##### § 394 Keine Aufrechnung gegen unpfändbare Forderung
 
@@ -6091,7 +5551,6 @@ Hilfs- oder Sterbekassen, insbesondere aus Knappschaftskassen und
 Kassen der Knappschaftsvereine, zu beziehenden Hebungen können jedoch
 geschuldete Beiträge aufgerechnet werden.
 
-
 ##### § 395 Aufrechnung gegen Forderungen öffentlich-rechtlicher Körperschaften
 
 Gegen eine Forderung des Bundes oder eines Landes sowie gegen eine
@@ -6099,7 +5558,6 @@ Forderung einer Gemeinde oder eines anderen Kommunalverbands ist die
 Aufrechnung nur zulässig, wenn die Leistung an dieselbe Kasse zu
 erfolgen hat, aus der die Forderung des Aufrechnenden zu berichtigen
 ist.
-
 
 ##### § 396 Mehrheit von Forderungen
 
@@ -6114,10 +5572,7 @@ entsprechende Anwendung.
 Hauptleistung Zinsen und Kosten, so findet die Vorschrift des § 367
 entsprechende Anwendung.
 
-
 #### Titel 4 - Erlass
-
-
 
 ##### § 397 Erlassvertrag, negatives Schuldanerkenntnis
 
@@ -6127,10 +5582,7 @@ durch Vertrag die Schuld erlässt.
 (2) Das Gleiche gilt, wenn der Gläubiger durch Vertrag mit dem
 Schuldner anerkennt, dass das Schuldverhältnis nicht bestehe.
 
-
 ### Abschnitt 5 - Übertragung einer Forderung
-
-
 
 #### § 398 Abtretung
 
@@ -6139,7 +5591,6 @@ auf diesen übertragen werden (Abtretung). Mit dem Abschluss des
 Vertrags tritt der neue Gläubiger an die Stelle des bisherigen
 Gläubigers.
 
-
 #### § 399 Ausschluss der Abtretung bei Inhaltsänderung oder Vereinbarung
 
 Eine Forderung kann nicht abgetreten werden, wenn die Leistung an
@@ -6147,12 +5598,10 @@ einen anderen als den ursprünglichen Gläubiger nicht ohne Veränderung
 ihres Inhalts erfolgen kann oder wenn die Abtretung durch Vereinbarung
 mit dem Schuldner ausgeschlossen ist.
 
-
 #### § 400 Ausschluss bei unpfändbaren Forderungen
 
 Eine Forderung kann nicht abgetreten werden, soweit sie der Pfändung
 nicht unterworfen ist.
-
 
 #### § 401 Übergang der Neben- und Vorzugsrechte
 
@@ -6165,7 +5614,6 @@ Rechte aus einer für sie bestellten Bürgschaft auf den neuen Gläubiger
 des Insolvenzverfahrens verbundenes Vorzugsrecht kann auch der neue
 Gläubiger geltend machen.
 
-
 #### § 402 Auskunftspflicht; Urkundenauslieferung
 
 Der bisherige Gläubiger ist verpflichtet, dem neuen Gläubiger die zur
@@ -6173,20 +5621,17 @@ Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die
 zum Beweis der Forderung dienenden Urkunden, soweit sie sich in seinem
 Besitz befinden, auszuliefern.
 
-
 #### § 403 Pflicht zur Beurkundung
 
 Der bisherige Gläubiger hat dem neuen Gläubiger auf Verlangen eine
 öffentlich beglaubigte Urkunde über die Abtretung auszustellen. Die
 Kosten hat der neue Gläubiger zu tragen und vorzuschießen.
 
-
 #### § 404 Einwendungen des Schuldners
 
 Der Schuldner kann dem neuen Gläubiger die Einwendungen
 entgegensetzen, die zur Zeit der Abtretung der Forderung gegen den
 bisherigen Gläubiger begründet waren.
-
 
 #### § 405 Abtretung unter Urkundenvorlegung
 
@@ -6198,7 +5643,6 @@ dass die Abtretung durch Vereinbarung mit dem ursprünglichen Gläubiger
 ausgeschlossen sei, es sei denn, dass der neue Gläubiger bei der
 Abtretung den Sachverhalt kannte oder kennen musste.
 
-
 #### § 406 Aufrechnung gegenüber dem neuen Gläubiger
 
 Der Schuldner kann eine ihm gegen den bisherigen Gläubiger zustehende
@@ -6206,7 +5650,6 @@ Forderung auch dem neuen Gläubiger gegenüber aufrechnen, es sei denn,
 dass er bei dem Erwerb der Forderung von der Abtretung Kenntnis hatte
 oder dass die Forderung erst nach der Erlangung der Kenntnis und
 später als die abgetretene Forderung fällig geworden ist.
-
 
 #### § 407 Rechtshandlungen gegenüber dem bisherigen Gläubiger
 
@@ -6224,7 +5667,6 @@ Gläubiger das Urteil gegen sich gelten lassen, es sei denn, dass der
 Schuldner die Abtretung bei dem Eintritt der Rechtshängigkeit gekannt
 hat.
 
-
 #### § 408 Mehrfache Abtretung
 
 (1) Wird eine abgetretene Forderung von dem bisherigen Gläubiger
@@ -6239,7 +5681,6 @@ gerichtlichen Beschluss einem Dritten überwiesen wird oder wenn der
 bisherige Gläubiger dem Dritten gegenüber anerkennt, dass die bereits
 abgetretene Forderung kraft Gesetzes auf den Dritten übergegangen sei.
 
-
 #### § 409 Abtretungsanzeige
 
 (1) Zeigt der Gläubiger dem Schuldner an, dass er die Forderung
@@ -6251,7 +5692,6 @@ Gläubiger ausgestellt hat und dieser sie dem Schuldner vorlegt.
 
 (2) Die Anzeige kann nur mit Zustimmung desjenigen zurückgenommen
 werden, welcher als der neue Gläubiger bezeichnet worden ist.
-
 
 #### § 410 Aushändigung der Abtretungsurkunde
 
@@ -6265,7 +5705,6 @@ unverzüglich zurückweist.
 (2) Diese Vorschriften finden keine Anwendung, wenn der bisherige
 Gläubiger dem Schuldner die Abtretung schriftlich angezeigt hat.
 
-
 #### § 411 Gehaltsabtretung
 
 Tritt eine Militärperson, ein Beamter, ein Geistlicher oder ein Lehrer
@@ -6276,12 +5715,10 @@ Gläubiger ausgestellten, öffentlich oder amtlich beglaubigten Urkunde
 von der Abtretung zu benachrichtigen. Bis zur Benachrichtigung gilt
 die Abtretung als der Kasse nicht bekannt.
 
-
 #### § 412 Gesetzlicher Forderungsübergang
 
 Auf die Übertragung einer Forderung kraft Gesetzes finden die
 Vorschriften der §§ 399 bis 404, 406 bis 410 entsprechende Anwendung.
-
 
 #### § 413 Übertragung anderer Rechte
 
@@ -6289,17 +5726,13 @@ Die Vorschriften über die Übertragung von Forderungen finden auf die
 Übertragung anderer Rechte entsprechende Anwendung, soweit nicht das
 Gesetz ein anderes vorschreibt.
 
-
 ### Abschnitt 6 - Schuldübernahme
-
-
 
 #### § 414 Vertrag zwischen Gläubiger und Übernehmer
 
 Eine Schuld kann von einem Dritten durch Vertrag mit dem Gläubiger in
 der Weise übernommen werden, dass der Dritte an die Stelle des
 bisherigen Schuldners tritt.
-
 
 #### § 415 Vertrag zwischen Schuldner und Übernehmer
 
@@ -6319,7 +5752,6 @@ wird sie nicht erklärt, so gilt sie als verweigert.
 Zweifel der Übernehmer dem Schuldner gegenüber verpflichtet, den
 Gläubiger rechtzeitig zu befriedigen. Das Gleiche gilt, wenn der
 Gläubiger die Genehmigung verweigert.
-
 
 #### § 416 Übernahme einer Hypothekenschuld
 
@@ -6343,7 +5775,6 @@ Schuldübernahme mitzuteilen. Sobald die Erteilung oder Verweigerung
 der Genehmigung feststeht, hat der Veräußerer den Erwerber zu
 benachrichtigen.
 
-
 #### § 417 Einwendungen des Übernehmers
 
 (1) Der Übernehmer kann dem Gläubiger die Einwendungen entgegensetzen,
@@ -6354,7 +5785,6 @@ Forderung kann er nicht aufrechnen.
 (2) Aus dem der Schuldübernahme zugrunde liegenden Rechtsverhältnis
 zwischen dem Übernehmer und dem bisherigen Schuldner kann der
 Übernehmer dem Gläubiger gegenüber Einwendungen nicht herleiten.
-
 
 #### § 418 Erlöschen von Sicherungs- und Vorzugsrechten
 
@@ -6370,15 +5800,11 @@ Schuldübernahme gehört, in diese einwilligt.
 verbundenes Vorzugsrecht kann nicht im Insolvenzverfahren über das
 Vermögen des Übernehmers geltend gemacht werden.
 
-
 #### § 419
 
 (weggefallen)
 
-
 ### Abschnitt 7 - Mehrheit von Schuldnern und Gläubigern
-
-
 
 #### § 420 Teilbare Leistung
 
@@ -6386,7 +5812,6 @@ Schulden mehrere eine teilbare Leistung oder haben mehrere eine
 teilbare Leistung zu fordern, so ist im Zweifel jeder Schuldner nur zu
 einem gleichen Anteil verpflichtet, jeder Gläubiger nur zu einem
 gleichen Anteil berechtigt.
-
 
 #### § 421 Gesamtschuldner
 
@@ -6397,7 +5822,6 @@ Gläubiger die Leistung nach seinem Belieben von jedem der Schuldner
 ganz oder zu einem Teil fordern. Bis zur Bewirkung der ganzen Leistung
 bleiben sämtliche Schuldner verpflichtet.
 
-
 #### § 422 Wirkung der Erfüllung
 
 (1) Die Erfüllung durch einen Gesamtschuldner wirkt auch für die
@@ -6407,19 +5831,16 @@ statt, der Hinterlegung und der Aufrechnung.
 (2) Eine Forderung, die einem Gesamtschuldner zusteht, kann nicht von
 den übrigen Schuldnern aufgerechnet werden.
 
-
 #### § 423 Wirkung des Erlasses
 
 Ein zwischen dem Gläubiger und einem Gesamtschuldner vereinbarter
 Erlass wirkt auch für die übrigen Schuldner, wenn die
 Vertragschließenden das ganze Schuldverhältnis aufheben wollten.
 
-
 #### § 424 Wirkung des Gläubigerverzugs
 
 Der Verzug des Gläubigers gegenüber einem Gesamtschuldner wirkt auch
 für die übrigen Schuldner.
-
 
 #### § 425 Wirkung anderer Tatsachen
 
@@ -6432,7 +5853,6 @@ Verschulden, von der Unmöglichkeit der Leistung in der Person eines
 Gesamtschuldners, von der Verjährung, deren Neubeginn, Hemmung und
 Ablaufhemmung, von der Vereinigung der Forderung mit der Schuld und
 von dem rechtskräftigen Urteil.
-
 
 #### § 426 Ausgleichungspflicht, Forderungsübergang
 
@@ -6447,12 +5867,10 @@ verpflichteten Schuldnern zu tragen.
 Gläubigers gegen die übrigen Schuldner auf ihn über. Der Übergang kann
 nicht zum Nachteil des Gläubigers geltend gemacht werden.
 
-
 #### § 427 Gemeinschaftliche vertragliche Verpflichtung
 
 Verpflichten sich mehrere durch Vertrag gemeinschaftlich zu einer
 teilbaren Leistung, so haften sie im Zweifel als Gesamtschuldner.
-
 
 #### § 428 Gesamtgläubiger
 
@@ -6462,7 +5880,6 @@ nur einmal zu bewirken verpflichtet ist (Gesamtgläubiger), so kann der
 Schuldner nach seinem Belieben an jeden der Gläubiger leisten. Dies
 gilt auch dann, wenn einer der Gläubiger bereits Klage auf die
 Leistung erhoben hat.
-
 
 #### § 429 Wirkung von Veränderungen
 
@@ -6478,18 +5895,15 @@ entsprechende Anwendung. Insbesondere bleiben, wenn ein
 Gesamtgläubiger seine Forderung auf einen anderen überträgt, die
 Rechte der übrigen Gläubiger unberührt.
 
-
 #### § 430 Ausgleichungspflicht der Gesamtgläubiger
 
 Die Gesamtgläubiger sind im Verhältnis zueinander zu gleichen Anteilen
 berechtigt, soweit nicht ein anderes bestimmt ist.
 
-
 #### § 431 Mehrere Schuldner einer unteilbaren Leistung
 
 Schulden mehrere eine unteilbare Leistung, so haften sie als
 Gesamtschuldner.
-
 
 #### § 432 Mehrere Gläubiger einer unteilbaren Leistung
 
@@ -6504,10 +5918,7 @@ Verwahrer abliefert.
 (2) Im Übrigen wirkt eine Tatsache, die nur in der Person eines der
 Gläubiger eintritt, nicht für und gegen die übrigen Gläubiger.
 
-
 ### Abschnitt 8 - Einzelne Schuldverhältnisse
-
-
 
 #### Titel 1 - Kauf, Tausch
 
@@ -6518,10 +5929,7 @@ Gläubiger eintritt, nicht für und gegen die übrigen Gläubiger.
     vom 25. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und
     der Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
 
-
 ##### Untertitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 433 Vertragstypische Pflichten beim Kaufvertrag
 
@@ -6532,7 +5940,6 @@ Rechtsmängeln zu verschaffen.
 
 (2) Der Käufer ist verpflichtet, dem Verkäufer den vereinbarten
 Kaufpreis zu zahlen und die gekaufte Sache abzunehmen.
-
 
 ###### § 434 Sachmangel
 
@@ -6569,14 +5976,12 @@ es sei denn, die Sache ist fehlerfrei montiert worden.
 (3) Einem Sachmangel steht es gleich, wenn der Verkäufer eine andere
 Sache oder eine zu geringe Menge liefert.
 
-
 ###### § 435 Rechtsmangel
 
 Die Sache ist frei von Rechtsmängeln, wenn Dritte in Bezug auf die
 Sache keine oder nur die im Kaufvertrag übernommenen Rechte gegen den
 Käufer geltend machen können. Einem Rechtsmangel steht es gleich, wenn
 im Grundbuch ein Recht eingetragen ist, das nicht besteht.
-
 
 ###### § 436 Öffentliche Lasten von Grundstücken
 
@@ -6590,7 +5995,6 @@ des Entstehens der Beitragsschuld.
 Grundstücks von anderen öffentlichen Abgaben und von anderen
 öffentlichen Lasten, die zur Eintragung in das Grundbuch nicht
 geeignet sind.
-
 
 ###### § 437 Rechte des Käufers bei Mängeln
 
@@ -6607,10 +6011,6 @@ bestimmt ist,
 
 3.  nach den §§ 440, 280, 281, 283 und 311a Schadensersatz oder nach § 284
     Ersatz vergeblicher Aufwendungen verlangen.
-
-
-
-
 
 ###### § 438 Verjährung der Mängelansprüche
 
@@ -6665,7 +6065,6 @@ Gebrauch, kann der Verkäufer vom Vertrag zurücktreten.
 (5) Auf das in § 437 bezeichnete Minderungsrecht finden § 218 und
 Absatz 4 Satz 2 entsprechende Anwendung.
 
-
 ###### § 439 Nacherfüllung
 
 (1) Der Käufer kann als Nacherfüllung nach seiner Wahl die Beseitigung
@@ -6690,7 +6089,6 @@ unberührt.
 mangelfreie Sache, so kann er vom Käufer Rückgewähr der mangelhaften
 Sache nach Maßgabe der §§ 346 bis 348 verlangen.
 
-
 ###### § 440 Besondere Bestimmungen für Rücktritt und Schadensersatz
 
 Außer in den Fällen des § 281 Abs. 2 und des § 323 Abs. 2 bedarf es
@@ -6700,7 +6098,6 @@ zustehende Art der Nacherfüllung fehlgeschlagen oder ihm unzumutbar
 ist. Eine Nachbesserung gilt nach dem erfolglosen zweiten Versuch als
 fehlgeschlagen, wenn sich nicht insbesondere aus der Art der Sache
 oder des Mangels oder den sonstigen Umständen etwas anderes ergibt.
-
 
 ###### § 441 Minderung
 
@@ -6722,7 +6119,6 @@ ermitteln.
 der Mehrbetrag vom Verkäufer zu erstatten. § 346 Abs. 1 und § 347 Abs.
 1 finden entsprechende Anwendung.
 
-
 ###### § 442 Kenntnis des Käufers
 
 (1) Die Rechte des Käufers wegen eines Mangels sind ausgeschlossen,
@@ -6734,7 +6130,6 @@ Beschaffenheit der Sache übernommen hat.
 
 (2) Ein im Grundbuch eingetragenes Recht hat der Verkäufer zu
 beseitigen, auch wenn es der Käufer kennt.
-
 
 ###### § 443 Beschaffenheits- und Haltbarkeitsgarantie
 
@@ -6750,14 +6145,12 @@ demjenigen zu, der die Garantie eingeräumt hat.
 vermutet, dass ein während ihrer Geltungsdauer auftretender Sachmangel
 die Rechte aus der Garantie begründet.
 
-
 ###### § 444 Haftungsausschluss
 
 Auf eine Vereinbarung, durch welche die Rechte des Käufers wegen eines
 Mangels ausgeschlossen oder beschränkt werden, kann sich der Verkäufer
 nicht berufen, soweit er den Mangel arglistig verschwiegen oder eine
 Garantie für die Beschaffenheit der Sache übernommen hat.
-
 
 ###### § 445 Haftungsbegrenzung bei öffentlichen Versteigerungen
 
@@ -6767,7 +6160,6 @@ Käufer Rechte wegen eines Mangels nur zu, wenn der Verkäufer den
 Mangel arglistig verschwiegen oder eine Garantie für die
 Beschaffenheit der Sache übernommen hat.
 
-
 ###### § 446 Gefahr- und Lastenübergang
 
 Mit der Übergabe der verkauften Sache geht die Gefahr des zufälligen
@@ -6775,7 +6167,6 @@ Untergangs und der zufälligen Verschlechterung auf den Käufer über.
 Von der Übergabe an gebühren dem Käufer die Nutzungen und trägt er die
 Lasten der Sache. Der Übergabe steht es gleich, wenn der Käufer im
 Verzug der Annahme ist.
-
 
 ###### § 447 Gefahrübergang beim Versendungskauf
 
@@ -6790,7 +6181,6 @@ Versendung erteilt und weicht der Verkäufer ohne dringenden Grund von
 der Anweisung ab, so ist der Verkäufer dem Käufer für den daraus
 entstehenden Schaden verantwortlich.
 
-
 ###### § 448 Kosten der Übergabe und vergleichbare Kosten
 
 (1) Der Verkäufer trägt die Kosten der Übergabe der Sache, der Käufer
@@ -6800,7 +6190,6 @@ Ort als dem Erfüllungsort.
 (2) Der Käufer eines Grundstücks trägt die Kosten der Beurkundung des
 Kaufvertrags und der Auflassung, der Eintragung ins Grundbuch und der
 zu der Eintragung erforderlichen Erklärungen.
-
 
 ###### § 449 Eigentumsvorbehalt
 
@@ -6816,7 +6205,6 @@ herausverlangen, wenn er vom Vertrag zurückgetreten ist.
 Eigentumsübergang davon abhängig gemacht wird, dass der Käufer
 Forderungen eines Dritten, insbesondere eines mit dem Verkäufer
 verbundenen Unternehmens, erfüllt.
-
 
 ###### § 450 Ausgeschlossene Käufer bei bestimmten Verkäufen
 
@@ -6834,7 +6222,6 @@ lassen, insbesondere in den Fällen des Pfandverkaufs und des in den §§
 383 und 385 zugelassenen Verkaufs, sowie bei einem Verkauf aus einer
 Insolvenzmasse.
 
-
 ###### § 451 Kauf durch ausgeschlossenen Käufer
 
 (1) Die Wirksamkeit eines dem § 450 zuwider erfolgten Kaufs und der
@@ -6847,13 +6234,11 @@ Genehmigung auf, so findet § 177 Abs. 2 entsprechende Anwendung.
 vorgenommen, so hat der frühere Käufer für die Kosten des neuen
 Verkaufs sowie für einen Mindererlös aufzukommen.
 
-
 ###### § 452 Schiffskauf
 
 Die Vorschriften dieses Untertitels über den Kauf von Grundstücken
 finden auf den Kauf von eingetragenen Schiffen und Schiffsbauwerken
 entsprechende Anwendung.
-
 
 ###### § 453 Rechtskauf
 
@@ -6867,14 +6252,9 @@ Rechts.
 ist der Verkäufer verpflichtet, dem Käufer die Sache frei von Sach-
 und Rechtsmängeln zu übergeben.
 
-
 ##### Untertitel 2 - Besondere Arten des Kaufs
 
-
-
 ###### Kapitel 1 - Kauf auf Probe
-
-
 
 ###### § 454 Zustandekommen des Kaufvertrags
 
@@ -6885,7 +6265,6 @@ Zweifel unter der aufschiebenden Bedingung der Billigung geschlossen.
 (2) Der Verkäufer ist verpflichtet, dem Käufer die Untersuchung des
 Gegenstandes zu gestatten.
 
-
 ###### § 455 Billigungsfrist
 
 Die Billigung eines auf Probe oder auf Besichtigung gekauften
@@ -6895,10 +6274,7 @@ Verkäufer bestimmten angemessenen Frist erklärt werden. War die Sache
 dem Käufer zum Zwecke der Probe oder der Besichtigung übergeben, so
 gilt sein Schweigen als Billigung.
 
-
 ###### Kapitel 2 - Wiederkauf
-
-
 
 ###### § 456 Zustandekommen des Wiederkaufs
 
@@ -6910,7 +6286,6 @@ bestimmten Form.
 
 (2) Der Preis, zu welchem verkauft worden ist, gilt im Zweifel auch
 für den Wiederkauf.
-
 
 ###### § 457 Haftung des Wiederverkäufers
 
@@ -6926,7 +6301,6 @@ ohne Verschulden des Wiederverkäufers verschlechtert oder ist er nur
 unwesentlich verändert, so kann der Wiederkäufer Minderung des
 Kaufpreises nicht verlangen.
 
-
 ###### § 458 Beseitigung von Rechten Dritter
 
 Hat der Wiederverkäufer vor der Ausübung des Wiederkaufsrechts über
@@ -6936,7 +6310,6 @@ Wiederverkäufers steht eine Verfügung gleich, die im Wege der
 Zwangsvollstreckung oder der Arrestvollziehung oder durch den
 Insolvenzverwalter erfolgt.
 
-
 ###### § 459 Ersatz von Verwendungen
 
 Der Wiederverkäufer kann für Verwendungen, die er auf den gekauften
@@ -6944,7 +6317,6 @@ Gegenstand vor dem Wiederkauf gemacht hat, insoweit Ersatz verlangen,
 als der Wert des Gegenstandes durch die Verwendungen erhöht ist. Eine
 Einrichtung, mit der er die herauszugebende Sache versehen hat, kann
 er wegnehmen.
-
 
 ###### § 460 Wiederkauf zum Schätzungswert
 
@@ -6955,14 +6327,12 @@ einem anderen Grund eingetretene Unmöglichkeit der Herausgabe des
 Gegenstandes nicht verantwortlich, der Wiederkäufer zum Ersatz von
 Verwendungen nicht verpflichtet.
 
-
 ###### § 461 Mehrere Wiederkaufsberechtigte
 
 Steht das Wiederkaufsrecht mehreren gemeinschaftlich zu, so kann es
 nur im Ganzen ausgeübt werden. Ist es für einen der Berechtigten
 erloschen oder übt einer von ihnen sein Recht nicht aus, so sind die
 übrigen berechtigt, das Wiederkaufsrecht im Ganzen auszuüben.
-
 
 ###### § 462 Ausschlussfrist
 
@@ -6971,17 +6341,13 @@ bei anderen Gegenständen nur bis zum Ablauf von drei Jahren nach der
 Vereinbarung des Vorbehalts ausgeübt werden. Ist für die Ausübung eine
 Frist bestimmt, so tritt diese an die Stelle der gesetzlichen Frist.
 
-
 ###### Kapitel 3 - Vorkauf
-
-
 
 ###### § 463 Voraussetzungen der Ausübung
 
 Wer in Ansehung eines Gegenstandes zum Vorkauf berechtigt ist, kann
 das Vorkaufsrecht ausüben, sobald der Verpflichtete mit einem Dritten
 einen Kaufvertrag über den Gegenstand geschlossen hat.
-
 
 ###### § 464 Ausübung des Vorkaufsrechts
 
@@ -6993,7 +6359,6 @@ bestimmten Form.
 Berechtigten und dem Verpflichteten unter den Bestimmungen zustande,
 welche der Verpflichtete mit dem Dritten vereinbart hat.
 
-
 ###### § 465 Unwirksame Vereinbarungen
 
 Eine Vereinbarung des Verpflichteten mit dem Dritten, durch welche der
@@ -7001,7 +6366,6 @@ Kauf von der Nichtausübung des Vorkaufsrechts abhängig gemacht oder
 dem Verpflichteten für den Fall der Ausübung des Vorkaufsrechts der
 Rücktritt vorbehalten wird, ist dem Vorkaufsberechtigten gegenüber
 unwirksam.
-
 
 ###### § 466 Nebenleistungen
 
@@ -7013,7 +6377,6 @@ ist die Ausübung des Vorkaufsrechts ausgeschlossen; die Vereinbarung
 der Nebenleistung kommt jedoch nicht in Betracht, wenn der Vertrag mit
 dem Dritten auch ohne sie geschlossen sein würde.
 
-
 ###### § 467 Gesamtpreis
 
 Hat der Dritte den Gegenstand, auf den sich das Vorkaufsrecht bezieht,
@@ -7022,7 +6385,6 @@ Vorkaufsberechtigte einen verhältnismäßigen Teil des Gesamtpreises zu
 entrichten. Der Verpflichtete kann verlangen, dass der Vorkauf auf
 alle Sachen erstreckt wird, die nicht ohne Nachteil für ihn getrennt
 werden können.
-
 
 ###### § 468 Stundung des Kaufpreises
 
@@ -7038,7 +6400,6 @@ Grundstück besteht, übernommen worden ist. Entsprechendes gilt, wenn
 ein eingetragenes Schiff oder Schiffsbauwerk Gegenstand des Vorkaufs
 ist.
 
-
 ###### § 469 Mitteilungspflicht, Ausübungsfrist
 
 (1) Der Verpflichtete hat dem Vorkaufsberechtigten den Inhalt des mit
@@ -7052,19 +6413,16 @@ nach dem Empfang der Mitteilung ausgeübt werden. Ist für die Ausübung
 eine Frist bestimmt, so tritt diese an die Stelle der gesetzlichen
 Frist.
 
-
 ###### § 470 Verkauf an gesetzlichen Erben
 
 Das Vorkaufsrecht erstreckt sich im Zweifel nicht auf einen Verkauf,
 der mit Rücksicht auf ein künftiges Erbrecht an einen gesetzlichen
 Erben erfolgt.
 
-
 ###### § 471 Verkauf bei Zwangsvollstreckung oder Insolvenz
 
 Das Vorkaufsrecht ist ausgeschlossen, wenn der Verkauf im Wege der
 Zwangsvollstreckung oder aus einer Insolvenzmasse erfolgt.
-
 
 ###### § 472 Mehrere Vorkaufsberechtigte
 
@@ -7073,7 +6431,6 @@ im Ganzen ausgeübt werden. Ist es für einen der Berechtigten erloschen
 oder übt einer von ihnen sein Recht nicht aus, so sind die übrigen
 berechtigt, das Vorkaufsrecht im Ganzen auszuüben.
 
-
 ###### § 473 Unübertragbarkeit
 
 Das Vorkaufsrecht ist nicht übertragbar und geht nicht auf die Erben
@@ -7081,10 +6438,7 @@ des Berechtigten über, sofern nicht ein anderes bestimmt ist. Ist das
 Recht auf eine bestimmte Zeit beschränkt, so ist es im Zweifel
 vererblich.
 
-
 ##### Untertitel 3 - Verbrauchsgüterkauf
-
-
 
 ###### § 474 Begriff des Verbrauchsgüterkaufs
 
@@ -7098,7 +6452,6 @@ teilnehmen kann.
 Abs. 4 mit der Maßgabe anzuwenden, dass Nutzungen nicht herauszugeben
 oder durch ihren Wert zu ersetzen sind. Die §§ 445 und 447 sind nicht
 anzuwenden.
-
 
 ###### § 475 Abweichende Vereinbarungen
 
@@ -7119,14 +6472,12 @@ gebrauchten Sachen von weniger als einem Jahr führt.
 für den Ausschluss oder die Beschränkung des Anspruchs auf
 Schadensersatz.
 
-
 ###### § 476 Beweislastumkehr
 
 Zeigt sich innerhalb von sechs Monaten seit Gefahrübergang ein
 Sachmangel, so wird vermutet, dass die Sache bereits bei
 Gefahrübergang mangelhaft war, es sei denn, diese Vermutung ist mit
 der Art der Sache oder des Mangels unvereinbar.
-
 
 ###### § 477 Sonderbestimmungen für Garantien
 
@@ -7150,7 +6501,6 @@ Textform mitgeteilt wird.
 
 (3) Die Wirksamkeit der Garantieverpflichtung wird nicht dadurch
 berührt, dass eine der vorstehenden Anforderungen nicht erfüllt wird.
-
 
 ###### § 478 Rückgriff des Unternehmers
 
@@ -7187,7 +6537,6 @@ entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
 
 (6) § 377 des Handelsgesetzbuchs bleibt unberührt.
 
-
 ###### § 479 Verjährung von Rückgriffsansprüchen
 
 (1) Die in § 478 Abs. 2 bestimmten Aufwendungsersatzansprüche
@@ -7206,19 +6555,14 @@ und der übrigen Käufer in der Lieferkette gegen die jeweiligen
 Verkäufer entsprechende Anwendung, wenn die Schuldner Unternehmer
 sind.
 
-
 ##### Untertitel 4 - Tausch
-
-
 
 ###### § 480 Tausch
 
 Auf den Tausch finden die Vorschriften über den Kauf entsprechende
 Anwendung.
 
-
 #### Titel 2 - Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte, Vermittlungsverträge und Tauschsystemverträge
-
 
 ##### § 481 Teilzeit-Wohnrechtevertrag
 
@@ -7240,7 +6584,6 @@ Nutzung zu wählen.
 eine bewegliche, als Übernachtungsunterkunft gedachte Sache oder ein
 Teil derselben.
 
-
 ##### § 481a Vertrag über ein langfristiges Urlaubsprodukt
 
 Ein Vertrag über ein langfristiges Urlaubsprodukt ist ein Vertrag für
@@ -7249,7 +6592,6 @@ Verbraucher gegen Zahlung eines Gesamtpreises das Recht verschafft
 oder zu verschaffen verspricht, Preisnachlässe oder sonstige
 Vergünstigungen in Bezug auf eine Unterkunft zu erwerben. § 481 Absatz
 1 Satz 2 gilt entsprechend.
-
 
 ##### § 481b Vermittlungsvertrag, Tauschsystemvertrag
 
@@ -7267,7 +6609,6 @@ Vermittlung eines Vertrags, durch den einzelne Rechte des Verbrauchers
 aus einem Teilzeit-Wohnrechtevertrag oder einem Vertrag über ein
 langfristiges Urlaubsprodukt getauscht oder auf andere Weise erworben
 oder veräußert werden sollen.
-
 
 ##### § 482 Vorvertragliche Informationen, Werbung und Verbot des Verkaufs als Geldanlage
 
@@ -7291,7 +6632,6 @@ zugänglich zu machen.
 langfristiges Urlaubsprodukt darf nicht als Geldanlage beworben oder
 verkauft werden.
 
-
 ##### § 482a Widerrufsbelehrung
 
 Der Unternehmer muss den Verbraucher vor Vertragsschluss in Textform
@@ -7300,7 +6640,6 @@ Anzahlungsverbot nach § 486 hinweisen. Der Erhalt der entsprechenden
 Vertragsbestimmungen ist vom Verbraucher schriftlich zu bestätigen.
 Die Einzelheiten sind in Artikel 242 § 2 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche geregelt.
-
 
 ##### § 483 Sprache des Vertrags und der vorvertraglichen Informationen
 
@@ -7323,7 +6662,6 @@ nach Absatz 1 gewählten Sprache auszuhändigen ist.
 
 (3) Verträge, die Absatz 1 Satz 1 und 2 oder Absatz 2 nicht
 entsprechen, sind nichtig.
-
 
 ##### § 484 Form und Inhalt des Vertrags
 
@@ -7368,7 +6706,6 @@ das Wohngebäude befindet. Die Pflicht zur Beifügung einer beglaubigten
 einen Bestand von Wohngebäuden bezieht, die sich in verschiedenen
 Staaten befinden.
 
-
 ##### § 485 Widerrufsrecht
 
 (1) Dem Verbraucher steht bei einem Teilzeit-Wohnrechtevertrag, einem
@@ -7394,7 +6731,6 @@ Unternehmer oder auf Grund eines Vertrags des Unternehmers mit einem
 Dritten erbracht werden. § 357 gilt entsprechend. Der Verbraucher hat
 jedoch keine Kosten auf Grund der fehlenden Bindung an seine
 Willenserklärung zu tragen.
-
 
 ##### § 485a Widerrufsfrist
 
@@ -7430,7 +6766,6 @@ Zeitpunkt angeboten worden, so beginnt die Widerrufsfrist für beide
 Verträge mit dem nach Absatz 1 für den Teilzeit-Wohnrechtevertrag
 geltenden Zeitpunkt. Die Absätze 2 und 3 gelten entsprechend.
 
-
 ##### § 486 Anzahlungsverbot
 
 (1) Der Unternehmer darf Zahlungen des Verbrauchers vor Ablauf der
@@ -7440,7 +6775,6 @@ Widerrufsfrist nicht fordern oder annehmen.
 einem Vermittlungsvertrag gefordert oder angenommen werden, bis der
 Unternehmer seine Pflichten aus dem Vermittlungsvertrag erfüllt hat
 oder diese Vertragsbeziehung beendet ist.
-
 
 ##### § 486a Besondere Vorschriften für Verträge über langfristige Urlaubsprodukte
 
@@ -7460,14 +6794,12 @@ Teilbetrags vorgesehen ist, kann der Verbraucher den Vertrag innerhalb
 von zwei Wochen ab Zugang der Zahlungsaufforderung zum
 Fälligkeitstermin gemäß Absatz 1 kündigen.
 
-
 ##### § 487 Abweichende Vereinbarungen
 
 Von den Vorschriften dieses Titels darf nicht zum Nachteil des
 Verbrauchers abgewichen werden. Die Vorschriften dieses Titels finden,
 soweit nicht ein anderes bestimmt ist, auch Anwendung, wenn sie durch
 anderweitige Gestaltungen umgangen werden.
-
 
 #### Titel 3 - Darlehensvertrag; Finanzierungshilfen und Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
 
@@ -7482,14 +6814,9 @@ anderweitige Gestaltungen umgangen werden.
     Verwaltungsvorschriften der Mitgliedstaaten über den Verbraucherkredit
     (ABl. EG Nr. L 101 S. 17).
 
-
 ##### Untertitel 1 - Darlehensvertrag
 
-
-
 ###### Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 488 Vertragstypische Pflichten beim Darlehensvertrag
 
@@ -7509,7 +6836,6 @@ hängt die Fälligkeit davon ab, dass der Darlehensgeber oder der
 Darlehensnehmer kündigt. Die Kündigungsfrist beträgt drei Monate. Sind
 Zinsen nicht geschuldet, so ist der Darlehensnehmer auch ohne
 Kündigung zur Rückzahlung berechtigt.
-
 
 ###### § 489 Ordentliches Kündigungsrecht des Darlehensnehmers
 
@@ -7558,7 +6884,6 @@ Ist für die gesamte Vertragslaufzeit keine Sollzinsbindung vereinbart,
 gilt der Sollzinssatz nur für diejenigen Zeiträume als gebunden, für
 die er durch eine feste Prozentzahl bestimmt ist.
 
-
 ###### § 490 Außerordentliches Kündigungsrecht
 
 (1) Wenn in den Vermögensverhältnissen des Darlehensnehmers oder in
@@ -7583,10 +6908,7 @@ Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht
 
 (3) Die Vorschriften der §§ 313 und 314 bleiben unberührt.
 
-
 ###### Kapitel 2 - Besondere Vorschriften für Verbraucherdarlehensverträge
-
-
 
 ###### § 491 Verbraucherdarlehensvertrag
 
@@ -7637,7 +6959,6 @@ Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden
 sind, unter denen der Sollzinssatz oder die Kosten angepasst werden
 können.
 
-
 ###### § 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
 
 (1) Der Darlehensgeber hat den Darlehensnehmer bei einem
@@ -7658,7 +6979,6 @@ vorvertraglichen Informationen gemäß Absatz 1, die Hauptmerkmale der
 vom Darlehensgeber angebotenen Verträge sowie ihre vertragstypischen
 Auswirkungen auf den Darlehensnehmer, einschließlich der Folgen bei
 Zahlungsverzug, zu erläutern.
-
 
 ###### § 492 Schriftform, Vertragsinhalt
 
@@ -7703,7 +7023,6 @@ der Angaben nach Absatz 2 ist der Darlehensnehmer in Textform darauf
 hinzuweisen, dass die Widerrufsfrist von einem Monat nach Erhalt der
 nachgeholten Angaben beginnt.
 
-
 ###### § 493 Informationen während des Vertragsverhältnisses
 
 (1) Ist in einem Verbraucherdarlehensvertrag der Sollzinssatz gebunden
@@ -7735,7 +7054,6 @@ die Pflichten aus den Absätzen 1 bis 3 auch den neuen Gläubiger, wenn
 nicht der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart
 hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der
 bisherige Darlehensgeber auftritt.
-
 
 ###### § 494 Rechtsfolgen von Formmängeln
 
@@ -7778,7 +7096,6 @@ Vertrags zur Verfügung, in der die Vertragsänderungen berücksichtigt
 sind, die sich aus den Absätzen 2 bis 6 ergeben. Abweichend von § 495
 beginnt die Widerrufsfrist in diesem Fall, wenn der Darlehensnehmer
 diese Abschrift des Vertrags erhalten hat.
-
 
 ###### § 495 Widerrufsrecht
 
@@ -7830,10 +7147,6 @@ ein Widerrufsrecht nach § 355 zu.
 
 3.  die § 504 Abs. 2 oder § 505 entsprechen.
 
-
-
-
-
 ###### § 496 Einwendungsverzicht, Wechsel- und Scheckverbot
 
 (1) Eine Vereinbarung, durch die der Darlehensnehmer auf das Recht
@@ -7865,7 +7178,6 @@ verlangen. Der Darlehensgeber haftet für jeden Schaden, der dem
 Darlehensnehmer aus einer solchen Wechsel- oder Scheckbegebung
 entsteht.
 
-
 ###### § 497 Verzug des Darlehensnehmers
 
 (1) Soweit der Darlehensnehmer mit Zahlungen, die er auf Grund des
@@ -7896,7 +7208,6 @@ geleistet werden, deren Hauptforderung auf Zinsen lautet.
 
 (4) (weggefallen)
 
-
 ###### § 498 Gesamtfälligstellung bei Teilzahlungsdarlehen
 
 Wegen Zahlungsverzugs des Darlehensnehmers kann der Darlehensgeber den
@@ -7921,7 +7232,6 @@ Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der
 Fristsetzung ein Gespräch über die Möglichkeiten einer
 einverständlichen Regelung anbieten.
 
-
 ###### § 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung
 
 (1) In einem Verbraucherdarlehensvertrag ist eine Vereinbarung über
@@ -7938,7 +7248,6 @@ möglichst vor, spätestens jedoch unverzüglich nach der Rechtsausübung
 zu unterrichten. Die Unterrichtung über die Gründe unterbleibt, soweit
 hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde.
 
-
 ###### § 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung
 
 (1) Der Darlehensnehmer kann einen Verbraucherdarlehensvertrag, bei
@@ -7950,7 +7259,6 @@ teilweise kündigen, ohne eine Frist einzuhalten. Eine Vereinbarung
 Verbraucherdarlehensvertrag jederzeit ganz oder teilweise vorzeitig
 erfüllen.
 
-
 ###### § 501 Kostenermäßigung
 
 Soweit der Darlehensnehmer seine Verbindlichkeiten vorzeitig erfüllt
@@ -7959,7 +7267,6 @@ wird, vermindern sich die Gesamtkosten (§ 6 Abs. 3 der
 Preisangabenverordnung) um die Zinsen und sonstigen laufzeitabhängigen
 Kosten, die bei gestaffelter Berechnung auf die Zeit nach der
 Fälligkeit oder Erfüllung entfallen.
-
 
 ###### § 502 Vorfälligkeitsentschädigung
 
@@ -7995,10 +7302,6 @@ wenn
     Kündigungsrecht des Darlehensnehmers oder die Berechnung der
     Vorfälligkeitsentschädigung unzureichend sind.
 
-
-
-
-
 ###### § 503 Immobiliardarlehensverträge
 
 (1) § 497 Abs. 2 und 3 Satz 1, 2, 4 und 5 sowie die §§ 499, 500 und
@@ -8017,7 +7320,6 @@ Jahr 2,5 Prozentpunkte über dem Basiszinssatz.
 mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder
 teilweise und mit mindestens 2,5 Prozent des Nennbetrags des Darlehens
 in Verzug sein muss.
-
 
 ###### § 504 Eingeräumte Überziehungsmöglichkeit
 
@@ -8042,7 +7344,6 @@ Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die
 Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden
 und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt
 spätestens unverzüglich nach Vertragsabschluss in Textform mitteilt.
-
 
 ###### § 505 Geduldete Überziehung
 
@@ -8072,10 +7373,7 @@ Zinsen nicht verlangen.
 Verbraucherdarlehensverträge, die unter den in Absatz 1 genannten
 Voraussetzungen zustande kommen, nicht anzuwenden.
 
-
 ##### Untertitel 2 - Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
-
-
 
 ###### § 506 Zahlungsaufschub, sonstige Finanzierungshilfe
 
@@ -8117,7 +7415,6 @@ tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer
 den Gegenstand für den Verbraucher erworben hat, der
 Anschaffungspreis.
 
-
 ###### § 507 Teilzahlungsgeschäfte
 
 (1) § 494 Abs. 1 bis 3 und 6 Satz 3 ist auf Teilzahlungsgeschäfte
@@ -8154,7 +7451,6 @@ oder Leistungen erbringt. Im Fall des § 501 ist der Berechnung der
 Kostenermäßigung der gesetzliche Zinssatz (§ 246) zugrunde zu legen.
 Ein Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen.
 
-
 ###### § 508 Rückgaberecht, Rücktritt bei Teilzahlungsgeschäften
 
 (1) Anstelle des dem Verbraucher gemäß § 495 Abs. 1 zustehenden
@@ -8180,7 +7476,6 @@ nimmt; im Fall des Rücktritts bestimmt sich das Rechtsverhältnis
 zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und
 4\.
 
-
 ###### § 509 Prüfung der Kreditwürdigkeit
 
 Vor dem Abschluss eines Vertrags über eine entgeltliche
@@ -8192,10 +7487,7 @@ Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der
 Übermittlung erheben, speichern oder verändern. Die Bestimmungen zum
 Schutz personenbezogener Daten bleiben unberührt.
 
-
 ##### Untertitel 3 - Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
-
-
 
 ###### § 510 Ratenlieferungsverträge
 
@@ -8230,10 +7522,7 @@ Allgemeinen Geschäftsbedingungen bei Vertragsschluss abzurufen und in
 wiedergabefähiger Form zu speichern. Der Unternehmer hat dem
 Verbraucher den Vertragsinhalt in Textform mitzuteilen.
 
-
 ##### Untertitel 4 - Unabdingbarkeit, Anwendung auf Existenzgründer
-
-
 
 ###### § 511 Abweichende Vereinbarungen
 
@@ -8241,7 +7530,6 @@ Von den Vorschriften der §§ 491 bis 510 darf, soweit nicht ein anderes
 bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden.
 Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige
 Gestaltungen umgangen werden.
-
 
 ###### § 512 Anwendung auf Existenzgründer
 
@@ -8252,14 +7540,9 @@ Tätigkeit gewähren lassen oder zu diesem Zweck einen
 Ratenlieferungsvertrag schließen, es sei denn, der
 Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro.
 
-
 ###### (XXXX) §§ 513 bis 515 (weggefallen)
 
-
-
 #### Titel 4 - Schenkung
-
-
 
 ##### § 516 Begriff der Schenkung
 
@@ -8275,14 +7558,12 @@ hat. Im Falle der Ablehnung kann die Herausgabe des Zugewendeten nach
 den Vorschriften über die Herausgabe einer ungerechtfertigten
 Bereicherung gefordert werden.
 
-
 ##### § 517 Unterlassen eines Vermögenserwerbs
 
 Eine Schenkung liegt nicht vor, wenn jemand zum Vorteil eines anderen
 einen Vermögenserwerb unterlässt oder auf ein angefallenes, noch nicht
 endgültig erworbenes Recht verzichtet oder eine Erbschaft oder ein
 Vermächtnis ausschlägt.
-
 
 ##### § 518 Form des Schenkungsversprechens
 
@@ -8295,7 +7576,6 @@ erteilt wird, von dem Versprechen oder der Anerkennungserklärung.
 (2) Der Mangel der Form wird durch die Bewirkung der versprochenen
 Leistung geheilt.
 
-
 ##### § 519 Einrede des Notbedarfs
 
 (1) Der Schenker ist berechtigt, die Erfüllung eines schenkweise
@@ -8307,23 +7587,19 @@ ihm kraft Gesetzes obliegenden Unterhaltspflichten gefährdet wird.
 (2) Treffen die Ansprüche mehrerer Beschenkten zusammen, so geht der
 früher entstandene Anspruch vor.
 
-
 ##### § 520 Erlöschen eines Rentenversprechens
 
 Verspricht der Schenker eine in wiederkehrenden Leistungen bestehende
 Unterstützung, so erlischt die Verbindlichkeit mit seinem Tode, sofern
 nicht aus dem Versprechen sich ein anderes ergibt.
 
-
 ##### § 521 Haftung des Schenkers
 
 Der Schenker hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
 
-
 ##### § 522 Keine Verzugszinsen
 
 Zur Entrichtung von Verzugszinsen ist der Schenker nicht verpflichtet.
-
 
 ##### § 523 Haftung für Rechtsmängel
 
@@ -8339,7 +7615,6 @@ infolge grober Fahrlässigkeit unbekannt geblieben ist. Die für die
 Haftung des Verkäufers für Rechtsmängel geltenden Vorschriften des §
 433 Abs. 1 und der §§ 435, 436, 444, 452, 453 finden entsprechende
 Anwendung.
-
 
 ##### § 524 Haftung für Sachmängel
 
@@ -8359,7 +7634,6 @@ Nichterfüllung verlangen. Auf diese Ansprüche finden die für die
 Gewährleistung wegen Fehler einer verkauften Sache geltenden
 Vorschriften entsprechende Anwendung.
 
-
 ##### § 525 Schenkung unter Auflage
 
 (1) Wer eine Schenkung unter einer Auflage macht, kann die Vollziehung
@@ -8368,7 +7642,6 @@ der Auflage verlangen, wenn er seinerseits geleistet hat.
 (2) Liegt die Vollziehung der Auflage im öffentlichen Interesse, so
 kann nach dem Tod des Schenkers auch die zuständige Behörde die
 Vollziehung verlangen.
-
 
 ##### § 526 Verweigerung der Vollziehung der Auflage
 
@@ -8382,7 +7655,6 @@ kann er von dem Schenker Ersatz der durch die Vollziehung verursachten
 Aufwendungen insoweit verlangen, als sie infolge des Mangels den Wert
 der Zuwendung übersteigen.
 
-
 ##### § 527 Nichtvollziehung der Auflage
 
 (1) Unterbleibt die Vollziehung der Auflage, so kann der Schenker die
@@ -8394,7 +7666,6 @@ verwendet werden müssen.
 
 (2) Der Anspruch ist ausgeschlossen, wenn ein Dritter berechtigt ist,
 die Vollziehung der Auflage zu verlangen.
-
 
 ##### § 528 Rückforderung wegen Verarmung des Schenkers
 
@@ -8414,7 +7685,6 @@ Vorschrift des § 1615 entsprechende Anwendung.
 (2) Unter mehreren Beschenkten haftet der früher Beschenkte nur
 insoweit, als der später Beschenkte nicht verpflichtet ist.
 
-
 ##### § 529 Ausschluss des Rückforderungsanspruchs
 
 (1) Der Anspruch auf Herausgabe des Geschenkes ist ausgeschlossen,
@@ -8429,7 +7699,6 @@ herauszugeben, ohne dass sein standesmäßiger Unterhalt oder die
 Erfüllung der ihm kraft Gesetzes obliegenden Unterhaltspflichten
 gefährdet wird.
 
-
 ##### § 530 Widerruf der Schenkung
 
 (1) Eine Schenkung kann widerrufen werden, wenn sich der Beschenkte
@@ -8440,7 +7709,6 @@ Angehörigen des Schenkers groben Undanks schuldig macht.
 der Beschenkte vorsätzlich und widerrechtlich den Schenker getötet
 oder am Widerruf gehindert hat.
 
-
 ##### § 531 Widerrufserklärung
 
 (1) Der Widerruf erfolgt durch Erklärung gegenüber dem Beschenkten.
@@ -8448,7 +7716,6 @@ oder am Widerruf gehindert hat.
 (2) Ist die Schenkung widerrufen, so kann die Herausgabe des Geschenks
 nach den Vorschriften über die Herausgabe einer ungerechtfertigten
 Bereicherung gefordert werden.
-
 
 ##### § 532 Ausschluss des Widerrufs
 
@@ -8458,12 +7725,10 @@ Widerrufsberechtigte von dem Eintritt der Voraussetzungen seines
 Rechts Kenntnis erlangt hat, ein Jahr verstrichen ist. Nach dem Tode
 des Beschenkten ist der Widerruf nicht mehr zulässig.
 
-
 ##### § 533 Verzicht auf Widerrufsrecht
 
 Auf das Widerrufsrecht kann erst verzichtet werden, wenn der Undank
 dem Widerrufsberechtigten bekannt geworden ist.
-
 
 ##### § 534 Pflicht- und Anstandsschenkungen
 
@@ -8471,14 +7736,9 @@ Schenkungen, durch die einer sittlichen Pflicht oder einer auf den
 Anstand zu nehmenden Rücksicht entsprochen wird, unterliegen nicht der
 Rückforderung und dem Widerruf.
 
-
 #### Titel 5 - Mietvertrag, Pachtvertrag
 
-
-
 ##### Untertitel 1 - Allgemeine Vorschriften für Mietverhältnisse
-
-
 
 ###### § 535 Inhalt und Hauptpflichten des Mietvertrags
 
@@ -8491,7 +7751,6 @@ Lasten zu tragen.
 
 (2) Der Mieter ist verpflichtet, dem Vermieter die vereinbarte Miete
 zu entrichten.
-
 
 ###### § 536 Mietminderung bei Sach- und Rechtsmängeln
 
@@ -8514,7 +7773,6 @@ Absätze 1 und 2 entsprechend.
 (4) Bei einem Mietverhältnis über Wohnraum ist eine zum Nachteil des
 Mieters abweichende Vereinbarung unwirksam.
 
-
 ###### § 536a Schadens- und Aufwendungsersatzanspruch des Mieters wegen eines Mangels
 
 (1) Ist ein Mangel im Sinne des § 536 bei Vertragsschluss vorhanden
@@ -8532,10 +7790,6 @@ erforderlichen Aufwendungen verlangen, wenn
 2.  die umgehende Beseitigung des Mangels zur Erhaltung oder
     Wiederherstellung des Bestands der Mietsache notwendig ist.
 
-
-
-
-
 ###### § 536b Kenntnis des Mieters vom Mangel bei Vertragsschluss oder Annahme
 
 Kennt der Mieter bei Vertragsschluss den Mangel der Mietsache, so
@@ -8545,7 +7799,6 @@ ihm diese Rechte nur zu, wenn der Vermieter den Mangel arglistig
 verschwiegen hat. Nimmt der Mieter eine mangelhafte Sache an, obwohl
 er den Mangel kennt, so kann er die Rechte aus den §§ 536 und 536a nur
 geltend machen, wenn er sich seine Rechte bei der Annahme vorbehält.
-
 
 ###### § 536c Während der Mietzeit auftretende Mängel; Mängelanzeige durch den Mieter
 
@@ -8569,17 +7822,12 @@ konnte, ist der Mieter nicht berechtigt,
 3.  ohne Bestimmung einer angemessenen Frist zur Abhilfe nach § 543 Abs. 3
     Satz 1 zu kündigen.
 
-
-
-
-
 ###### § 536d Vertraglicher Ausschluss von Rechten des Mieters wegen eines Mangels
 
 Auf eine Vereinbarung, durch die die Rechte des Mieters wegen eines
 Mangels der Mietsache ausgeschlossen oder beschränkt werden, kann sich
 der Vermieter nicht berufen, wenn er den Mangel arglistig verschwiegen
 hat.
-
 
 ###### § 537 Entrichtung der Miete bei persönlicher Verhinderung des Mieters
 
@@ -8594,13 +7842,11 @@ des Gebrauchs erlangt.
 einen Dritten außerstande ist, dem Mieter den Gebrauch zu gewähren,
 ist der Mieter zur Entrichtung der Miete nicht verpflichtet.
 
-
 ###### § 538 Abnutzung der Mietsache durch vertragsgemäßen Gebrauch
 
 Veränderungen oder Verschlechterungen der Mietsache, die durch den
 vertragsgemäßen Gebrauch herbeigeführt werden, hat der Mieter nicht zu
 vertreten.
-
 
 ###### § 539 Ersatz sonstiger Aufwendungen und Wegnahmerecht des Mieters
 
@@ -8610,7 +7856,6 @@ Vorschriften über die Geschäftsführung ohne Auftrag ersetzt verlangen.
 
 (2) Der Mieter ist berechtigt, eine Einrichtung wegzunehmen, mit der
 er die Mietsache versehen hat.
-
 
 ###### § 540 Gebrauchsüberlassung an Dritte
 
@@ -8625,13 +7870,11 @@ ein wichtiger Grund vorliegt.
 Dritten bei dem Gebrauch zur Last fallendes Verschulden zu vertreten,
 auch wenn der Vermieter die Erlaubnis zur Überlassung erteilt hat.
 
-
 ###### § 541 Unterlassungsklage bei vertragswidrigem Gebrauch
 
 Setzt der Mieter einen vertragswidrigen Gebrauch der Mietsache trotz
 einer Abmahnung des Vermieters fort, so kann dieser auf Unterlassung
 klagen.
-
 
 ###### § 542 Ende des Mietverhältnisses
 
@@ -8645,10 +7888,6 @@ mit dem Ablauf dieser Zeit, sofern es nicht
 
 
 2.  verlängert wird.
-
-
-
-
 
 ###### § 543 Außerordentliche fristlose Kündigung aus wichtigem Grund
 
@@ -8717,7 +7956,6 @@ der Vermieter den Gebrauch der Mietsache rechtzeitig gewährt oder die
 Abhilfe vor Ablauf der hierzu bestimmten Frist bewirkt hat, so trifft
 ihn die Beweislast.
 
-
 ###### § 544 Vertrag über mehr als 30 Jahre
 
 Wird ein Mietvertrag für eine längere Zeit als 30 Jahre geschlossen,
@@ -8725,7 +7963,6 @@ so kann jede Vertragspartei nach Ablauf von 30 Jahren nach Überlassung
 der Mietsache das Mietverhältnis außerordentlich mit der gesetzlichen
 Frist kündigen. Die Kündigung ist unzulässig, wenn der Vertrag für die
 Lebenszeit des Vermieters oder des Mieters geschlossen worden ist.
-
 
 ###### § 545 Stillschweigende Verlängerung des Mietverhältnisses
 
@@ -8740,10 +7977,6 @@ innerhalb von zwei Wochen dem anderen Teil erklärt. Die Frist beginnt
 2.  für den Vermieter mit dem Zeitpunkt, in dem er von der Fortsetzung
     Kenntnis erhält.
 
-
-
-
-
 ###### § 546 Rückgabepflicht des Mieters
 
 (1) Der Mieter ist verpflichtet, die Mietsache nach Beendigung des
@@ -8752,7 +7985,6 @@ Mietverhältnisses zurückzugeben.
 (2) Hat der Mieter den Gebrauch der Mietsache einem Dritten
 überlassen, so kann der Vermieter die Sache nach Beendigung des
 Mietverhältnisses auch von dem Dritten zurückfordern.
-
 
 ###### § 546a Entschädigung des Vermieters bei verspäteter Rückgabe
 
@@ -8763,7 +7995,6 @@ Miete verlangen, die für vergleichbare Sachen ortsüblich ist.
 
 (2) Die Geltendmachung eines weiteren Schadens ist nicht
 ausgeschlossen.
-
 
 ###### § 547 Erstattung von im Voraus entrichteter Miete
 
@@ -8776,7 +8007,6 @@ ungerechtfertigten Bereicherung zurückzuerstatten.
 
 (2) Bei einem Mietverhältnis über Wohnraum ist eine zum Nachteil des
 Mieters abweichende Vereinbarung unwirksam.
-
 
 ###### § 548 Verjährung der Ersatzansprüche und des Wegnahmerechts
 
@@ -8792,14 +8022,9 @@ nach der Beendigung des Mietverhältnisses.
 
 (3) (aufgehoben)
 
-
 ##### Untertitel 2 - Mietverhältnisse über Wohnraum
 
-
-
 ###### Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 549 Auf Wohnraummietverhältnisse anwendbare Vorschriften
 
@@ -8835,14 +8060,12 @@ Mietverhältnisse über
 557 bis 561 sowie die §§ 573, 573a, 573d Abs. 1 und §§ 575, 575a Abs.
 1, §§ 577, 577a nicht.
 
-
 ###### § 550 Form des Mietvertrags
 
 Wird der Mietvertrag für längere Zeit als ein Jahr nicht in
 schriftlicher Form geschlossen, so gilt er für unbestimmte Zeit. Die
 Kündigung ist jedoch frühestens zum Ablauf eines Jahres nach
 Überlassung des Wohnraums zulässig.
-
 
 ###### § 551 Begrenzung und Anlage von Mietsicherheiten
 
@@ -8868,7 +8091,6 @@ Pflicht, die Sicherheitsleistung zu verzinsen.
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 552 Abwendung des Wegnahmerechts des Mieters
 
 (1) Der Vermieter kann die Ausübung des Wegnahmerechts (§ 539 Abs. 2)
@@ -8877,7 +8099,6 @@ der Mieter ein berechtigtes Interesse an der Wegnahme hat.
 
 (2) Eine Vereinbarung, durch die das Wegnahmerecht ausgeschlossen
 wird, ist nur wirksam, wenn ein angemessener Ausgleich vorgesehen ist.
-
 
 ###### § 553 Gestattung der Gebrauchsüberlassung an Dritte
 
@@ -8896,7 +8117,6 @@ erklärt.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 554 Duldung von Erhaltungs- und Modernisierungsmaßnahmen
 
@@ -8932,7 +8152,6 @@ zu ersetzen. Auf Verlangen hat er Vorschuss zu leisten.
 (5) Eine zum Nachteil des Mieters von den Absätzen 2 bis 4 abweichende
 Vereinbarung ist unwirksam.
 
-
 ###### § 554a Barrierefreiheit
 
 (1) Der Mieter kann vom Vermieter die Zustimmung zu baulichen
@@ -8953,20 +8172,14 @@ entsprechend.
 (3) Eine zum Nachteil des Mieters von Absatz 1 abweichende
 Vereinbarung ist unwirksam.
 
-
 ###### § 555 Unwirksamkeit einer Vertragsstrafe
 
 Eine Vereinbarung, durch die sich der Vermieter eine Vertragsstrafe
 vom Mieter versprechen lässt, ist unwirksam.
 
-
 ###### Kapitel 2 - Die Miete
 
-
-
 ###### Unterkapitel 1 - Vereinbarungen über die Miete
-
-
 
 ###### § 556 Vereinbarungen über Betriebskosten
 
@@ -9002,7 +8215,6 @@ denn, der Mieter hat die verspätete Geltendmachung nicht zu vertreten.
 (4) Eine zum Nachteil des Mieters von Absatz 1, Absatz 2 Satz 2 oder
 Absatz 3 abweichende Vereinbarung ist unwirksam.
 
-
 ###### § 556a Abrechnungsmaßstab für Betriebskosten
 
 (1) Haben die Vertragsparteien nichts anderes vereinbart, sind die
@@ -9025,7 +8237,6 @@ herabzusetzen.
 (3) Eine zum Nachteil des Mieters von Absatz 2 abweichende
 Vereinbarung ist unwirksam.
 
-
 ###### § 556b Fälligkeit der Miete, Aufrechnungs- und Zurückbehaltungsrecht
 
 (1) Die Miete ist zu Beginn, spätestens bis zum dritten Werktag der
@@ -9040,10 +8251,7 @@ mindestens einen Monat vor der Fälligkeit der Miete in Textform
 angezeigt hat. Eine zum Nachteil des Mieters abweichende Vereinbarung
 ist unwirksam.
 
-
 ###### Unterkapitel 2 - Regelungen über die Miethöhe
-
-
 
 ###### § 557 Mieterhöhungen nach Vereinbarung oder Gesetz
 
@@ -9060,7 +8268,6 @@ Umständen ergibt.
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 557a Staffelmiete
 
@@ -9079,7 +8286,6 @@ Kündigung ist frühestens zum Ablauf dieses Zeitraums zulässig.
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 557b Indexmiete
 
@@ -9103,7 +8309,6 @@ Geldbetrag anzugeben. Die geänderte Miete ist mit Beginn des
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 558 Mieterhöhung bis zur ortsüblichen Vergleichsmiete
 
@@ -9154,7 +8359,6 @@ Zuschusses.
 (6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 558a Form und Begründung der Mieterhöhung
 
 (1) Das Mieterhöhungsverlangen nach § 558 ist dem Mieter in Textform
@@ -9195,7 +8399,6 @@ verwendet werden.
 (5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 558b Zustimmung zur Mieterhöhung
 
 (1) Soweit der Mieter der Mieterhöhung zustimmt, schuldet er die
@@ -9215,7 +8418,6 @@ nach Absatz 2 Satz 1 zu.
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 558c Mietspiegel
 
@@ -9239,7 +8441,6 @@ Zustimmung des Bundesrates Vorschriften über den näheren Inhalt und
 das Verfahren zur Aufstellung und Anpassung von Mietspiegeln zu
 erlassen.
 
-
 ###### § 558d Qualifizierter Mietspiegel
 
 (1) Ein qualifizierter Mietspiegel ist ein Mietspiegel, der nach
@@ -9258,7 +8459,6 @@ zu erstellen.
 dass die im qualifizierten Mietspiegel bezeichneten Entgelte die
 ortsübliche Vergleichsmiete wiedergeben.
 
-
 ###### § 558e Mietdatenbank
 
 Eine Mietdatenbank ist eine zur Ermittlung der ortsüblichen
@@ -9267,7 +8467,6 @@ Gemeinde oder von Interessenvertretern der Vermieter und der Mieter
 gemeinsam geführt oder anerkannt wird und aus der Auskünfte gegeben
 werden, die für einzelne Wohnungen einen Schluss auf die ortsübliche
 Vergleichsmiete zulassen.
-
 
 ###### § 559 Mieterhöhung bei Modernisierung
 
@@ -9285,7 +8484,6 @@ aufzuteilen.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 559a Anrechnung von Drittmitteln
 
@@ -9318,7 +8516,6 @@ Kosten aufzuteilen.
 (5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 559b Geltendmachung der Erhöhung, Wirkung der Erhöhungserklärung
 
 (1) Die Mieterhöhung nach § 559 ist dem Mieter in Textform zu
@@ -9335,7 +8532,6 @@ mitgeteilte.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 560 Veränderungen von Betriebskosten
 
@@ -9368,7 +8564,6 @@ Wirtschaftlichkeit zu beachten.
 (6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 561 Sonderkündigungsrecht des Mieters nach Mieterhöhung
 
 (1) Macht der Vermieter eine Mieterhöhung nach § 558 oder § 559
@@ -9380,10 +8575,7 @@ tritt die Mieterhöhung nicht ein.
 (2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### Kapitel 3 - Pfandrecht des Vermieters
-
-
 
 ###### § 562 Umfang des Vermieterpfandrechts
 
@@ -9395,7 +8587,6 @@ nicht auf die Sachen, die der Pfändung nicht unterliegen.
 spätere Zeit als das laufende und das folgende Mietjahr kann das
 Pfandrecht nicht geltend gemacht werden.
 
-
 ###### § 562a Erlöschen des Vermieterpfandrechts
 
 Das Pfandrecht des Vermieters erlischt mit der Entfernung der Sachen
@@ -9404,7 +8595,6 @@ Widerspruch des Vermieters erfolgt. Der Vermieter kann nicht
 widersprechen, wenn sie den gewöhnlichen Lebensverhältnissen
 entspricht oder wenn die zurückbleibenden Sachen zur Sicherung des
 Vermieters offenbar ausreichen.
-
 
 ###### § 562b Selbsthilferecht, Herausgabeanspruch
 
@@ -9422,14 +8612,12 @@ mit dem Ablauf eines Monats, nachdem der Vermieter von der Entfernung
 der Sachen Kenntnis erlangt hat, wenn er diesen Anspruch nicht vorher
 gerichtlich geltend gemacht hat.
 
-
 ###### § 562c Abwendung des Pfandrechts durch Sicherheitsleistung
 
 Der Mieter kann die Geltendmachung des Pfandrechts des Vermieters
 durch Sicherheitsleistung abwenden. Er kann jede einzelne Sache
 dadurch von dem Pfandrecht befreien, dass er in Höhe ihres Wertes
 Sicherheit leistet.
-
 
 ###### § 562d Pfändung durch Dritte
 
@@ -9438,10 +8626,7 @@ einen anderen Gläubiger gepfändet, so kann diesem gegenüber das
 Pfandrecht nicht wegen der Miete für eine frühere Zeit als das letzte
 Jahr vor der Pfändung geltend gemacht werden.
 
-
 ###### Kapitel 4 - Wechsel der Vertragsparteien
-
-
 
 ###### § 563 Eintrittsrecht bei Tod des Mieters
 
@@ -9475,7 +8660,6 @@ in der Person des Eingetretenen ein wichtiger Grund vorliegt.
 solcher Personen, die nach Absatz 1 oder 2 eintrittsberechtigt sind,
 ist unwirksam.
 
-
 ###### § 563a Fortsetzung mit überlebenden Mietern
 
 (1) Sind mehrere Personen im Sinne des § 563 gemeinsam Mieter, so wird
@@ -9488,7 +8672,6 @@ außerordentlich mit der gesetzlichen Frist kündigen.
 
 (3) Eine abweichende Vereinbarung zum Nachteil der Mieter ist
 unwirksam.
-
 
 ###### § 563b Haftung bei Eintritt oder Fortsetzung
 
@@ -9509,7 +8692,6 @@ geleistet hat, von den Personen, die nach § 563 in das Mietverhältnis
 eingetreten sind oder mit denen es nach § 563a fortgesetzt wird, nach
 Maßgabe des § 551 eine Sicherheitsleistung verlangen.
 
-
 ###### § 564 Fortsetzung des Mietverhältnisses mit dem Erben, außerordentliche Kündigung
 
 Treten beim Tod des Mieters keine Personen im Sinne des § 563 in das
@@ -9520,7 +8702,6 @@ innerhalb eines Monats außerordentlich mit der gesetzlichen Frist zu
 kündigen, nachdem sie vom Tod des Mieters und davon Kenntnis erlangt
 haben, dass ein Eintritt in das Mietverhältnis oder dessen Fortsetzung
 nicht erfolgt sind.
-
 
 ###### § 565 Gewerbliche Weitervermietung
 
@@ -9538,7 +8719,6 @@ dem Dritten ein.
 (3) Eine zum Nachteil des Dritten abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 566 Kauf bricht nicht Miete
 
 (1) Wird der vermietete Wohnraum nach der Überlassung an den Mieter
@@ -9554,7 +8734,6 @@ wird der Vermieter von der Haftung befreit, wenn nicht der Mieter das
 Mietverhältnis zum ersten Termin kündigt, zu dem die Kündigung
 zulässig ist.
 
-
 ###### § 566a Mietsicherheit
 
 Hat der Mieter des veräußerten Wohnraums dem Vermieter für die
@@ -9563,7 +8742,6 @@ in die dadurch begründeten Rechte und Pflichten ein. Kann bei
 Beendigung des Mietverhältnisses der Mieter die Sicherheit von dem
 Erwerber nicht erlangen, so ist der Vermieter weiterhin zur Rückgewähr
 verpflichtet.
-
 
 ###### § 566b Vorausverfügung über die Miete
 
@@ -9579,7 +8757,6 @@ bezieht.
 Erwerber gegen sich gelten lassen, wenn er sie zur Zeit des Übergangs
 des Eigentums kennt.
 
-
 ###### § 566c Vereinbarung zwischen Mieter und Vermieter über die Miete
 
 Ein Rechtsgeschäft, das zwischen dem Mieter und dem Vermieter über die
@@ -9594,7 +8771,6 @@ folgenden Kalendermonat bezieht. Ein Rechtsgeschäft, das nach dem
 der Mieter bei der Vornahme des Rechtsgeschäfts von dem Übergang des
 Eigentums Kenntnis hat.
 
-
 ###### § 566d Aufrechnung durch den Mieter
 
 Soweit die Entrichtung der Miete an den Vermieter nach § 566c dem
@@ -9605,7 +8781,6 @@ Mieter die Gegenforderung erworben hat, nachdem er von dem Übergang
 des Eigentums Kenntnis erlangt hat, oder wenn die Gegenforderung erst
 nach der Erlangung der Kenntnis und später als die Miete fällig
 geworden ist.
-
 
 ###### § 566e Mitteilung des Eigentumsübergangs durch den Vermieter
 
@@ -9618,7 +8793,6 @@ nicht wirksam ist.
 (2) Die Mitteilung kann nur mit Zustimmung desjenigen zurückgenommen
 werden, der als der neue Eigentümer bezeichnet worden ist.
 
-
 ###### § 567 Belastung des Wohnraums durch den Vermieter
 
 Wird der vermietete Wohnraum nach der Überlassung an den Mieter von
@@ -9630,7 +8804,6 @@ beschränkt, so ist der Dritte dem Mieter gegenüber verpflichtet, die
 Ausübung zu unterlassen, soweit sie den vertragsgemäßen Gebrauch
 beeinträchtigen würde.
 
-
 ###### § 567a Veräußerung oder Belastung vor der Überlassung des Wohnraums
 
 Hat vor der Überlassung des vermieteten Wohnraums an den Mieter der
@@ -9641,7 +8814,6 @@ des § 566 Abs. 1 und des § 567, wenn der Erwerber dem Vermieter
 gegenüber die Erfüllung der sich aus dem Mietverhältnis ergebenden
 Pflichten übernommen hat.
 
-
 ###### § 567b Weiterveräußerung oder Belastung durch Erwerber
 
 Wird der vermietete Wohnraum von dem Erwerber weiterveräußert oder
@@ -9650,14 +8822,9 @@ anzuwenden. Erfüllt der neue Erwerber die sich aus dem Mietverhältnis
 ergebenden Pflichten nicht, so haftet der Vermieter dem Mieter nach §
 566 Abs. 2.
 
-
 ###### Kapitel 5 - Beendigung des Mietverhältnisses
 
-
-
 ###### Unterkapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 568 Form und Inhalt der Kündigung
 
@@ -9666,7 +8833,6 @@ ergebenden Pflichten nicht, so haftet der Vermieter dem Mieter nach §
 (2) Der Vermieter soll den Mieter auf die Möglichkeit, die Form und
 die Frist des Widerspruchs nach den §§ 574 bis 574b rechtzeitig
 hinweisen.
-
 
 ###### § 569 Außerordentliche fristlose Kündigung aus wichtigem Grund
 
@@ -9723,12 +8889,10 @@ ist eine Vereinbarung unwirksam, nach der der Vermieter berechtigt
 sein soll, aus anderen als den im Gesetz zugelassenen Gründen
 außerordentlich fristlos zu kündigen.
 
-
 ###### § 570 Ausschluss des Zurückbehaltungsrechts
 
 Dem Mieter steht kein Zurückbehaltungsrecht gegen den Rückgabeanspruch
 des Vermieters zu.
-
 
 ###### § 571 Weiterer Schadensersatz bei verspäteter Rückgabe von Wohnraum
 
@@ -9748,7 +8912,6 @@ eines weiteren Schadens nicht verpflichtet.
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 572 Vereinbartes Rücktrittsrecht; Mietverhältnis unter auflösender Bedingung
 
 (1) Auf eine Vereinbarung, nach der der Vermieter berechtigt sein
@@ -9759,10 +8922,7 @@ zurückzutreten, kann der Vermieter sich nicht berufen.
 berufen, nach der das Mietverhältnis zum Nachteil des Mieters
 auflösend bedingt ist.
 
-
 ###### Unterkapitel 2 - Mietverhältnisse auf unbestimmte Zeit
-
-
 
 ###### § 573 Ordentliche Kündigung des Vermieters
 
@@ -9800,7 +8960,6 @@ berücksichtigt, soweit sie nachträglich entstanden sind.
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 573a Erleichterte Kündigung des Vermieters
 
 (1) Ein Mietverhältnis über eine Wohnung in einem vom Vermieter selbst
@@ -9818,7 +8977,6 @@ die Voraussetzungen des Absatzes 1 oder 2 gestützt wird.
 
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 573b Teilkündigung des Vermieters
 
@@ -9848,7 +9006,6 @@ verlangen.
 (5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 573c Fristen der ordentlichen Kündigung
 
 (1) Die Kündigung ist spätestens am dritten Werktag eines
@@ -9865,7 +9022,6 @@ am 15. eines Monats zum Ablauf dieses Monats zulässig.
 (4) Eine zum Nachteil des Mieters von Absatz 1 oder 3 abweichende
 Vereinbarung ist unwirksam.
 
-
 ###### § 573d Außerordentliche Kündigung mit gesetzlicher Frist
 
 (1) Kann ein Mietverhältnis außerordentlich mit der gesetzlichen Frist
@@ -9880,7 +9036,6 @@ keine Anwendung.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 574 Widerspruch des Mieters gegen die Kündigung
 
@@ -9904,7 +9059,6 @@ entstanden sind.
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 574a Fortsetzung des Mietverhältnisses nach Widerspruch
 
 (1) Im Falle des § 574 kann der Mieter verlangen, dass das
@@ -9925,7 +9079,6 @@ dass das Mietverhältnis auf unbestimmte Zeit fortgesetzt wird.
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 574b Form und Frist des Widerspruchs
 
 (1) Der Widerspruch des Mieters gegen die Kündigung ist schriftlich zu
@@ -9942,7 +9095,6 @@ Räumungsrechtsstreits erklären.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
-
 
 ###### § 574c Weitere Fortsetzung des Mietverhältnisses bei unvorhergesehenen Umständen
 
@@ -9965,10 +9117,7 @@ so kann der Mieter eine Fortsetzung des Mietverhältnisses nur nach §
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### Unterkapitel 3 - Mietverhältnisse auf bestimmte Zeit
-
-
 
 ###### § 575 Zeitmietvertrag
 
@@ -10008,7 +9157,6 @@ den Vermieter.
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 575a Außerordentliche Kündigung mit gesetzlicher Frist
 
 (1) Kann ein Mietverhältnis, das auf bestimmte Zeit eingegangen ist,
@@ -10029,10 +9177,7 @@ keine Anwendung.
 (4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### Unterkapitel 4 - Werkwohnungen
-
-
 
 ###### § 576 Fristen der ordentlichen Kündigung bei Werkmietwohnungen
 
@@ -10059,7 +9204,6 @@ folgenden Fristen kündigen:
 (2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 576a Besonderheiten des Widerspruchsrechts bei Werkmietwohnungen
 
 (1) Bei der Anwendung der §§ 574 bis 574c auf Werkmietwohnungen sind
@@ -10081,7 +9225,6 @@ auch die Belange des Dienstberechtigten zu berücksichtigen.
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 576b Entsprechende Geltung des Mietrechts bei Werkdienstwohnungen
 
 (1) Ist Wohnraum im Rahmen eines Dienstverhältnisses überlassen, so
@@ -10095,10 +9238,7 @@ angelegten gemeinsamen Haushalt führt.
 (2) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### Kapitel 6 - Besonderheiten bei der Bildung von Wohnungseigentum an vermieteten Wohnungen
-
-
 
 ###### § 577 Vorkaufsrecht des Mieters
 
@@ -10124,7 +9264,6 @@ die in das Mietverhältnis nach § 563 Abs. 1 oder 2 eintreten.
 (5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ###### § 577a Kündigungsbeschränkung bei Wohnungsumwandlung
 
 (1) Ist an vermieteten Wohnräumen nach der Überlassung an den Mieter
@@ -10144,10 +9283,7 @@ jeweils höchstens zehn Jahren zu bestimmen.
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
-
 ##### Untertitel 3 - Mietverhältnisse über andere Sachen
-
-
 
 ###### § 578 Mietverhältnisse über Grundstücke und Räume
 
@@ -10159,7 +9295,6 @@ die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 554 Abs.
 1 bis 4 und § 569 Abs. 2 entsprechend anzuwenden. Sind die Räume zum
 Aufenthalt von Menschen bestimmt, so gilt außerdem § 569 Abs. 1
 entsprechend.
-
 
 ###### § 578a Mietverhältnisse über eingetragene Schiffe
 
@@ -10177,7 +9312,6 @@ vorgenommen wird, ist jedoch unwirksam, wenn der Mieter bei der
 Vornahme des Rechtsgeschäfts von dem Übergang des Eigentums Kenntnis
 hat. § 566d gilt entsprechend.
 
-
 ###### § 579 Fälligkeit der Miete
 
 (1) Die Miete für ein Grundstück, ein im Schiffsregister eingetragenes
@@ -10190,14 +9324,12 @@ Werktag des folgenden Monats zu entrichten.
 
 (2) Für Mietverhältnisse über Räume gilt § 556b Abs. 1 entsprechend.
 
-
 ###### § 580 Außerordentliche Kündigung bei Tod des Mieters
 
 Stirbt der Mieter, so ist sowohl der Erbe als auch der Vermieter
 berechtigt, das Mietverhältnis innerhalb eines Monats, nachdem sie vom
 Tod des Mieters Kenntnis erlangt haben, außerordentlich mit der
 gesetzlichen Frist zu kündigen.
-
 
 ###### § 580a Kündigungsfristen
 
@@ -10244,10 +9376,7 @@ ordentliche Kündigung zulässig,
 ein Mietverhältnis außerordentlich mit der gesetzlichen Frist
 gekündigt werden kann.
 
-
 ##### Untertitel 4 - Pachtvertrag
-
-
 
 ###### § 581 Vertragstypische Pflichten beim Pachtvertrag
 
@@ -10262,7 +9391,6 @@ entrichten.
 soweit sich nicht aus den §§ 582 bis 584b etwas anderes ergibt, die
 Vorschriften über den Mietvertrag entsprechend anzuwenden.
 
-
 ###### § 582 Erhaltung des Inventars
 
 (1) Wird ein Grundstück mit Inventar verpachtet, so obliegt dem
@@ -10273,7 +9401,6 @@ infolge eines vom Pächter nicht zu vertretenden Umstands in Abgang
 kommen. Der Pächter hat jedoch den gewöhnlichen Abgang der zum
 Inventar gehörenden Tiere insoweit zu ersetzen, als dies einer
 ordnungsmäßigen Wirtschaft entspricht.
-
 
 ###### § 582a Inventarübernahme zum Schätzwert
 
@@ -10300,7 +9427,6 @@ und dem des zurückzugewährenden Inventars ein Unterschied, so ist
 dieser in Geld auszugleichen. Den Schätzwerten sind die Preise im
 Zeitpunkt der Beendigung des Pachtverhältnisses zugrunde zu legen.
 
-
 ###### § 583 Pächterpfandrecht am Inventar
 
 (1) Dem Pächter eines Grundstücks steht für die Forderungen gegen den
@@ -10312,7 +9438,6 @@ Pächters durch Sicherheitsleistung abwenden. Er kann jedes einzelne
 Inventarstück dadurch von dem Pfandrecht befreien, dass er in Höhe des
 Wertes Sicherheit leistet.
 
-
 ###### § 583a Verfügungsbeschränkungen bei Inventar
 
 Vertragsbestimmungen, die den Pächter eines Betriebs verpflichten,
@@ -10320,7 +9445,6 @@ nicht oder nicht ohne Einwilligung des Verpächters über Inventarstücke
 zu verfügen oder Inventar an den Verpächter zu veräußern, sind nur
 wirksam, wenn sich der Verpächter verpflichtet, das Inventar bei der
 Beendigung des Pachtverhältnisses zum Schätzwert zu erwerben.
-
 
 ###### § 584 Kündigungsfrist
 
@@ -10332,7 +9456,6 @@ halben Jahres zu erfolgen, mit dessen Ablauf die Pacht enden soll.
 (2) Dies gilt auch, wenn das Pachtverhältnis außerordentlich mit der
 gesetzlichen Frist gekündigt werden kann.
 
-
 ###### § 584a Ausschluss bestimmter mietrechtlicher Kündigungsrechte
 
 (1) Dem Pächter steht das in § 540 Abs. 1 bestimmte Kündigungsrecht
@@ -10340,7 +9463,6 @@ nicht zu.
 
 (2) Der Verpächter ist nicht berechtigt, das Pachtverhältnis nach §
 580 zu kündigen.
-
 
 ###### § 584b Verspätete Rückgabe
 
@@ -10352,10 +9474,7 @@ dieser Zeit gezogen hat oder hätte ziehen können, zu den Nutzungen des
 ganzen Pachtjahrs stehen. Die Geltendmachung eines weiteren Schadens
 ist nicht ausgeschlossen.
 
-
 ##### Untertitel 5 - Landpachtvertrag
-
-
 
 ###### § 585 Begriff des Landpachtvertrags
 
@@ -10374,12 +9493,10 @@ Pachtverhältnisse über forstwirtschaftliche Grundstücke, wenn die
 Grundstücke zur Nutzung in einem überwiegend landwirtschaftlichen
 Betrieb verpachtet werden.
 
-
 ###### § 585a Form des Landpachtvertrags
 
 Wird der Landpachtvertrag für längere Zeit als zwei Jahre nicht in
 schriftlicher Form geschlossen, so gilt er für unbestimmte Zeit.
-
 
 ###### § 585b Beschreibung der Pachtsache
 
@@ -10406,7 +9523,6 @@ jeder Vertragsteil zur Hälfte.
 Verhältnis der Vertragsteile zueinander vermutet, dass sie richtig
 ist.
 
-
 ###### § 586 Vertragstypische Pflichten beim Landpachtvertrag
 
 (1) Der Verpächter hat die Pachtsache dem Pächter in einem zu der
@@ -10422,11 +9538,9 @@ Pachtsache sowie für die Rechte und Pflichten des Pächters wegen
 solcher Mängel gelten die Vorschriften des § 536 Abs. 1 bis 3 und der
 §§ 536a bis 536d entsprechend.
 
-
 ###### § 586a Lasten der Pachtsache
 
 Der Verpächter hat die auf der Pachtsache ruhenden Lasten zu tragen.
-
 
 ###### § 587 Fälligkeit der Pacht; Entrichtung der Pacht bei persönlicher Verhinderung des Pächters
 
@@ -10438,7 +9552,6 @@ Ablauf der einzelnen Zeitabschnitte zu entrichten.
 befreit, dass er durch einen in seiner Person liegenden Grund an der
 Ausübung des ihm zustehenden Nutzungsrechts verhindert ist. § 537 Abs.
 1 Satz 2 und Abs. 2 gilt entsprechend.
-
 
 ###### § 588 Maßnahmen zur Erhaltung oder Verbesserung
 
@@ -10465,7 +9578,6 @@ Antrag das Landwirtschaftsgericht. Verweigert der Pächter in den
 Fällen des Absatzes 3 seine Einwilligung, so kann sie das
 Landwirtschaftsgericht auf Antrag des Verpächters ersetzen.
 
-
 ###### § 589 Nutzungsüberlassung an Dritte
 
 (1) Der Pächter ist ohne Erlaubnis des Verpächters nicht berechtigt,
@@ -10484,7 +9596,6 @@ Landwirtschaftsgericht auf Antrag des Verpächters ersetzen.
 hat er ein Verschulden, das dem Dritten bei der Nutzung zur Last
 fällt, zu vertreten, auch wenn der Verpächter die Erlaubnis zur
 Überlassung erteilt hat.
-
 
 ###### § 590 Änderung der landwirtschaftlichen Bestimmung oder der bisherigen Nutzung
 
@@ -10518,19 +9629,16 @@ Inventarstücke zu einer zur Höhe des Erlöses in angemessenem
 Verhältnis stehenden Verbesserung der Pachtsache nach § 591 verwendet
 worden ist.
 
-
 ###### § 590a Vertragswidriger Gebrauch
 
 Macht der Pächter von der Pachtsache einen vertragswidrigen Gebrauch
 und setzt er den Gebrauch ungeachtet einer Abmahnung des Verpächters
 fort, so kann der Verpächter auf Unterlassung klagen.
 
-
 ###### § 590b Notwendige Verwendungen
 
 Der Verpächter ist verpflichtet, dem Pächter die notwendigen
 Verwendungen auf die Pachtsache zu ersetzen.
-
 
 ###### § 591 Wertverbessernde Verwendungen
 
@@ -10561,7 +9669,6 @@ abgegolten ist. Kommt keine Einigung zustande, so entscheidet auf
 Antrag das Landwirtschaftsgericht über eine Fortsetzung des
 Pachtverhältnisses.
 
-
 ###### § 591a Wegnahme von Einrichtungen
 
 Der Pächter ist berechtigt, eine Einrichtung, mit der er die Sache
@@ -10571,7 +9678,6 @@ abwenden, es sei denn, dass der Pächter ein berechtigtes Interesse an
 der Wegnahme hat. Eine Vereinbarung, durch die das Wegnahmerecht des
 Pächters ausgeschlossen wird, ist nur wirksam, wenn ein angemessener
 Ausgleich vorgesehen ist.
-
 
 ###### § 591b Verjährung von Ersatzansprüchen
 
@@ -10588,7 +9694,6 @@ Pachtverhältnisses.
 (3) Mit der Verjährung des Anspruchs des Verpächters auf Rückgabe der
 Sache verjähren auch die Ersatzansprüche des Verpächters.
 
-
 ###### § 592 Verpächterpfandrecht
 
 Der Verpächter hat für seine Forderungen aus dem Pachtverhältnis ein
@@ -10598,7 +9703,6 @@ das Pfandrecht nicht geltend gemacht werden. Mit Ausnahme der in § 811
 Abs. 1 Nr. 4 der Zivilprozessordnung genannten Sachen erstreckt sich
 das Pfandrecht nicht auf Sachen, die der Pfändung nicht unterworfen
 sind. Die Vorschriften der §§ 562a bis 562c gelten entsprechend.
-
 
 ###### § 593 Änderung von Landpachtverträgen
 
@@ -10631,7 +9735,6 @@ einem Vertragsteil besondere Nachteile oder Vorteile erwachsen sollen,
 wenn er die Rechte nach den Absätzen 1 bis 4 ausübt oder nicht ausübt,
 ist unwirksam.
 
-
 ###### § 593a Betriebsübergabe
 
 Wird bei der Übergabe eines Betriebs im Wege der vorweggenommenen
@@ -10643,12 +9746,10 @@ Bewirtschaftung der Pachtsache durch den Übernehmer nicht
 gewährleistet, so ist der Verpächter berechtigt, das Pachtverhältnis
 außerordentlich mit der gesetzlichen Frist zu kündigen.
 
-
 ###### § 593b Veräußerung oder Belastung des verpachteten Grundstücks
 
 Wird das verpachtete Grundstück veräußert oder mit dem Recht eines
 Dritten belastet, so gelten die §§ 566 bis 567b entsprechend.
-
 
 ###### § 594 Ende und Verlängerung des Pachtverhältnisses
 
@@ -10662,7 +9763,6 @@ die Ablehnung bedürfen der schriftlichen Form. Die Anfrage ist ohne
 Wirkung, wenn in ihr nicht auf die Folge der Nichtbeachtung
 ausdrücklich hingewiesen wird und wenn sie nicht innerhalb des
 drittletzten Pachtjahrs gestellt wird.
-
 
 ###### § 594a Kündigungsfristen
 
@@ -10678,7 +9778,6 @@ Kündigung nur für den Schluss eines Pachtjahrs zulässig; sie hat
 spätestens am dritten Werktag des halben Jahres zu erfolgen, mit
 dessen Ablauf die Pacht enden soll.
 
-
 ###### § 594b Vertrag über mehr als 30 Jahre
 
 Wird ein Pachtvertrag für eine längere Zeit als 30 Jahre geschlossen,
@@ -10688,7 +9787,6 @@ nächsten Pachtjahrs kündigen. Die Kündigung ist nicht zulässig, wenn
 der Vertrag für die Lebenszeit des Verpächters oder des Pächters
 geschlossen ist.
 
-
 ###### § 594c Kündigung bei Berufsunfähigkeit des Pächters
 
 Ist der Pächter berufsunfähig im Sinne der Vorschriften der
@@ -10697,7 +9795,6 @@ Pachtverhältnis außerordentlich mit der gesetzlichen Frist kündigen,
 wenn der Verpächter der Überlassung der Pachtsache zur Nutzung an
 einen Dritten, der eine ordnungsmäßige Bewirtschaftung gewährleistet,
 widerspricht. Eine abweichende Vereinbarung ist unwirksam.
-
 
 ###### § 594d Tod des Pächters
 
@@ -10722,7 +9819,6 @@ zustande, so entscheidet auf Antrag das Landwirtschaftsgericht.
 (3) Gegenüber einer Kündigung des Verpächters nach Absatz 1 ist ein
 Fortsetzungsverlangen des Erben nach § 595 ausgeschlossen.
 
-
 ###### § 594e Außerordentliche fristlose Kündigung aus wichtigem Grund
 
 (1) Die außerordentliche fristlose Kündigung des Pachtverhältnisses
@@ -10737,11 +9833,9 @@ wenn der Pächter für zwei aufeinander folgende Termine mit der
 Entrichtung der Pacht oder eines nicht unerheblichen Teils der Pacht
 in Verzug ist.
 
-
 ###### § 594f Schriftform der Kündigung
 
 Die Kündigung bedarf der schriftlichen Form.
-
 
 ###### § 595 Fortsetzung des Pachtverhältnisses
 
@@ -10835,7 +9929,6 @@ Vereinbarung, dass einem Vertragsteil besondere Nachteile oder
 besondere Vorteile erwachsen sollen, wenn er die Rechte nach den
 Absätzen 1 bis 7 ausübt oder nicht ausübt, ist unwirksam.
 
-
 ###### § 595a Vorzeitige Kündigung von Landpachtverträgen
 
 (1) Soweit die Vertragsteile zur außerordentlichen Kündigung eines
@@ -10854,7 +9947,6 @@ den Vertragsteilen als Vertragsinhalt. Über Streitigkeiten, die diesen
 Vertragsinhalt betreffen, entscheidet auf Antrag das
 Landwirtschaftsgericht.
 
-
 ###### § 596 Rückgabe der Pachtsache
 
 (1) Der Pächter ist verpflichtet, die Pachtsache nach Beendigung des
@@ -10867,7 +9959,6 @@ Zurückbehaltungsrecht am Grundstück nicht zu.
 (3) Hat der Pächter die Nutzung der Pachtsache einem Dritten
 überlassen, so kann der Verpächter die Sache nach Beendigung des
 Pachtverhältnisses auch von dem Dritten zurückfordern.
-
 
 ###### § 596a Ersatzpflicht bei vorzeitigem Pachtende
 
@@ -10888,7 +9979,6 @@ als bei ordnungsmäßiger Nutzung zulässig war, so hat er dem Verpächter
 den Wert der die normale Nutzung übersteigenden Holzmenge zu ersetzen.
 Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
-
 ###### § 596b Rücklassungspflicht
 
 (1) Der Pächter eines Betriebs hat von den bei Beendigung des
@@ -10902,7 +9992,6 @@ oder besserer Beschaffenheit zurückzulassen verpflichtet ist, als er
 bei Beginn des Pachtverhältnisses übernommen hat, kann er vom
 Verpächter Ersatz des Wertes verlangen.
 
-
 ###### § 597 Verspätete Rückgabe
 
 Gibt der Pächter die Pachtsache nach Beendigung des Pachtverhältnisses
@@ -10910,28 +9999,22 @@ nicht zurück, so kann der Verpächter für die Dauer der Vorenthaltung
 als Entschädigung die vereinbarte Pacht verlangen. Die Geltendmachung
 eines weiteren Schadens ist nicht ausgeschlossen.
 
-
 #### Titel 6 - Leihe
-
-
 
 ##### § 598 Vertragstypische Pflichten bei der Leihe
 
 Durch den Leihvertrag wird der Verleiher einer Sache verpflichtet, dem
 Entleiher den Gebrauch der Sache unentgeltlich zu gestatten.
 
-
 ##### § 599 Haftung des Verleihers
 
 Der Verleiher hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
-
 
 ##### § 600 Mängelhaftung
 
 Verschweigt der Verleiher arglistig einen Mangel im Recht oder einen
 Fehler der verliehenen Sache, so ist er verpflichtet, dem Entleiher
 den daraus entstehenden Schaden zu ersetzen.
-
 
 ##### § 601 Verwendungsersatz
 
@@ -10944,13 +10027,11 @@ bestimmt sich nach den Vorschriften über die Geschäftsführung ohne
 Auftrag. Der Entleiher ist berechtigt, eine Einrichtung, mit der er
 die Sache versehen hat, wegzunehmen.
 
-
 ##### § 602 Abnutzung der Sache
 
 Veränderungen oder Verschlechterungen der geliehenen Sache, die durch
 den vertragsmäßigen Gebrauch herbeigeführt werden, hat der Entleiher
 nicht zu vertreten.
-
 
 ##### § 603 Vertragsmäßiger Gebrauch
 
@@ -10958,7 +10039,6 @@ Der Entleiher darf von der geliehenen Sache keinen anderen als den
 vertragsmäßigen Gebrauch machen. Er ist ohne die Erlaubnis des
 Verleihers nicht berechtigt, den Gebrauch der Sache einem Dritten zu
 überlassen.
-
 
 ##### § 604 Rückgabepflicht
 
@@ -10981,7 +10061,6 @@ Dritten zurückfordern.
 (5) Die Verjährung des Anspruchs auf Rückgabe der Sache beginnt mit
 der Beendigung der Leihe.
 
-
 ##### § 605 Kündigungsrecht
 
 Der Verleiher kann die Leihe kündigen:
@@ -10998,10 +10077,6 @@ Der Verleiher kann die Leihe kündigen:
 
 3.  wenn der Entleiher stirbt.
 
-
-
-
-
 ##### § 606 Kurze Verjährung
 
 Die Ersatzansprüche des Verleihers wegen Veränderungen oder
@@ -11011,10 +10086,7 @@ Wegnahme einer Einrichtung verjähren in sechs Monaten. Die
 Vorschriften des § 548 Abs. 1 Satz 2 und 3, Abs. 2 finden
 entsprechende Anwendung.
 
-
 #### Titel 7 - Sachdarlehensvertrag
-
-
 
 ##### § 607 Vertragstypische Pflichten beim Sachdarlehensvertrag
 
@@ -11027,7 +10099,6 @@ gleicher Art, Güte und Menge verpflichtet.
 (2) Die Vorschriften dieses Titels finden keine Anwendung auf die
 Überlassung von Geld.
 
-
 ##### § 608 Kündigung
 
 (1) Ist für die Rückerstattung der überlassenen Sache eine Zeit nicht
@@ -11039,17 +10110,14 @@ kann, soweit nicht ein anderes vereinbart ist, jederzeit vom
 Darlehensgeber oder Darlehensnehmer ganz oder teilweise gekündigt
 werden.
 
-
 ##### § 609 Entgelt
 
 Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der
 überlassenen Sache zu bezahlen.
 
-
 ##### § 610
 
 (weggefallen)
-
 
 #### Titel 8 - Dienstvertrag
 
@@ -11070,10 +10138,6 @@ Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der
     der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder
     Betriebsteilen (ABl. EG Nr. L 61 S. 26).
 
-
-
-
-
 ##### § 611 Vertragstypische Pflichten beim Dienstvertrag
 
 (1) Durch den Dienstvertrag wird derjenige, welcher Dienste zusagt,
@@ -11082,9 +10146,7 @@ der vereinbarten Vergütung verpflichtet.
 
 (2) Gegenstand des Dienstvertrags können Dienste jeder Art sein.
 
-
 ##### (XXXX) §§ 611a und 611b (weggefallen)
-
 
 ##### § 612 Vergütung
 
@@ -11098,20 +10160,17 @@ einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die
 
 (3) (weggefallen)
 
-
 ##### § 612a Maßregelungsverbot
 
 Der Arbeitgeber darf einen Arbeitnehmer bei einer Vereinbarung oder
 einer Maßnahme nicht benachteiligen, weil der Arbeitnehmer in
 zulässiger Weise seine Rechte ausübt.
 
-
 ##### § 613 Unübertragbarkeit
 
 Der zur Dienstleistung Verpflichtete hat die Dienste im Zweifel in
 Person zu leisten. Der Anspruch auf die Dienste ist im Zweifel nicht
 übertragbar.
-
 
 ##### § 613a Rechte und Pflichten bei Betriebsübergang
 
@@ -11174,13 +10233,11 @@ innerhalb eines Monats nach Zugang der Unterrichtung nach Absatz 5
 schriftlich widersprechen. Der Widerspruch kann gegenüber dem
 bisherigen Arbeitgeber oder dem neuen Inhaber erklärt werden.
 
-
 ##### § 614 Fälligkeit der Vergütung
 
 Die Vergütung ist nach der Leistung der Dienste zu entrichten. Ist die
 Vergütung nach Zeitabschnitten bemessen, so ist sie nach dem Ablauf
 der einzelnen Zeitabschnitte zu entrichten.
-
 
 ##### § 615 Vergütung bei Annahmeverzug und bei Betriebsrisiko
 
@@ -11194,7 +10251,6 @@ zu erwerben böswillig unterlässt. Die Sätze 1 und 2 gelten
 entsprechend in den Fällen, in denen der Arbeitgeber das Risiko des
 Arbeitsausfalls trägt.
 
-
 ##### § 616 Vorübergehende Verhinderung
 
 Der zur Dienstleistung Verpflichtete wird des Anspruchs auf die
@@ -11204,7 +10260,6 @@ ohne sein Verschulden an der Dienstleistung verhindert wird. Er muss
 sich jedoch den Betrag anrechnen lassen, welcher ihm für die Zeit der
 Verhinderung aus einer auf Grund gesetzlicher Verpflichtung
 bestehenden Kranken- oder Unfallversicherung zukommt.
-
 
 ##### § 617 Pflicht zur Krankenfürsorge
 
@@ -11229,7 +10284,6 @@ die Verpflegung und ärztliche Behandlung durch eine Versicherung oder
 durch eine Einrichtung der öffentlichen Krankenpflege Vorsorge
 getroffen ist.
 
-
 ##### § 618 Pflicht zu Schutzmaßnahmen
 
 (1) Der Dienstberechtigte hat Räume, Vorrichtungen oder Gerätschaften,
@@ -11252,13 +10306,11 @@ so finden auf seine Verpflichtung zum Schadensersatz die für
 unerlaubte Handlungen geltenden Vorschriften der §§ 842 bis 846
 entsprechende Anwendung.
 
-
 ##### § 619 Unabdingbarkeit der Fürsorgepflichten
 
 Die dem Dienstberechtigten nach den §§ 617, 618 obliegenden
 Verpflichtungen können nicht im Voraus durch Vertrag aufgehoben oder
 beschränkt werden.
-
 
 ##### § 619a Beweislast bei Haftung des Arbeitnehmers
 
@@ -11266,7 +10318,6 @@ Abweichend von § 280 Abs. 1 hat der Arbeitnehmer dem Arbeitgeber
 Ersatz für den aus der Verletzung einer Pflicht aus dem
 Arbeitsverhältnis entstehenden Schaden nur zu leisten, wenn er die
 Pflichtverletzung zu vertreten hat.
-
 
 ##### § 620 Beendigung des Dienstverhältnisses
 
@@ -11279,7 +10330,6 @@ Teil das Dienstverhältnis nach Maßgabe der §§ 621 bis 623 kündigen.
 
 (3) Für Arbeitsverträge, die auf bestimmte Zeit abgeschlossen werden,
 gilt das Teilzeit- und Befristungsgesetz.
-
 
 ##### § 621 Kündigungsfristen bei Dienstverhältnissen
 
@@ -11307,10 +10357,6 @@ Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des §
     bei einem die Erwerbstätigkeit des Verpflichteten vollständig oder
     hauptsächlich in Anspruch nehmenden Dienstverhältnis ist jedoch eine
     Kündigungsfrist von zwei Wochen einzuhalten.
-
-
-
-
 
 ##### § 622 Kündigungsfristen bei Arbeitsverhältnissen
 
@@ -11383,13 +10429,11 @@ Kündigungsfristen bleibt hiervon unberührt.
 darf keine längere Frist vereinbart werden als für die Kündigung durch
 den Arbeitgeber.
 
-
 ##### § 623 Schriftform der Kündigung
 
 Die Beendigung von Arbeitsverhältnissen durch Kündigung oder
 Auflösungsvertrag bedürfen zu ihrer Wirksamkeit der Schriftform; die
 elektronische Form ist ausgeschlossen.
-
 
 ##### § 624 Kündigungsfrist bei Verträgen über mehr als fünf Jahre
 
@@ -11398,14 +10442,12 @@ längere Zeit als fünf Jahre eingegangen, so kann es von dem
 Verpflichteten nach dem Ablauf von fünf Jahren gekündigt werden. Die
 Kündigungsfrist beträgt sechs Monate.
 
-
 ##### § 625 Stillschweigende Verlängerung
 
 Wird das Dienstverhältnis nach dem Ablauf der Dienstzeit von dem
 Verpflichteten mit Wissen des anderen Teiles fortgesetzt, so gilt es
 als auf unbestimmte Zeit verlängert, sofern nicht der andere Teil
 unverzüglich widerspricht.
-
 
 ##### § 626 Fristlose Kündigung aus wichtigem Grund
 
@@ -11424,7 +10466,6 @@ den für die Kündigung maßgebenden Tatsachen Kenntnis erlangt. Der
 Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund
 unverzüglich schriftlich mitteilen.
 
-
 ##### § 627 Fristlose Kündigung bei Vertrauensstellung
 
 (1) Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne
@@ -11439,7 +10480,6 @@ Dienstberechtigte die Dienste anderweit beschaffen kann, es sei denn,
 dass ein wichtiger Grund für die unzeitige Kündigung vorliegt. Kündigt
 er ohne solchen Grund zur Unzeit, so hat er dem Dienstberechtigten den
 daraus entstehenden Schaden zu ersetzen.
-
 
 ##### § 628 Teilvergütung und Schadensersatz bei fristloser Kündigung
 
@@ -11461,13 +10501,11 @@ ungerechtfertigten Bereicherung zurückzuerstatten.
 Teiles veranlasst, so ist dieser zum Ersatz des durch die Aufhebung
 des Dienstverhältnisses entstehenden Schadens verpflichtet.
 
-
 ##### § 629 Freizeit zur Stellungssuche
 
 Nach der Kündigung eines dauernden Dienstverhältnisses hat der
 Dienstberechtigte dem Verpflichteten auf Verlangen angemessene Zeit
 zum Aufsuchen eines anderen Dienstverhältnisses zu gewähren.
-
 
 ##### § 630 Pflicht zur Zeugniserteilung
 
@@ -11479,14 +10517,9 @@ Die Erteilung des Zeugnisses in elektronischer Form ist
 ausgeschlossen. Wenn der Verpflichtete ein Arbeitnehmer ist, findet §
 109 der Gewerbeordnung Anwendung.
 
-
 #### Titel 9 - Werkvertrag und ähnliche Verträge
 
-
-
 ##### Untertitel 1 - Werkvertrag
-
-
 
 ###### § 631 Vertragstypische Pflichten beim Werkvertrag
 
@@ -11497,7 +10530,6 @@ Vergütung verpflichtet.
 (2) Gegenstand des Werkvertrags kann sowohl die Herstellung oder
 Veränderung einer Sache als auch ein anderer durch Arbeit oder
 Dienstleistung herbeizuführender Erfolg sein.
-
 
 ###### § 632 Vergütung
 
@@ -11510,7 +10542,6 @@ einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die
 übliche Vergütung als vereinbart anzusehen.
 
 (3) Ein Kostenanschlag ist im Zweifel nicht zu vergüten.
-
 
 ###### § 632a Abschlagszahlungen
 
@@ -11553,7 +10584,6 @@ Garantie oder ein sonstiges Zahlungsversprechen eines im
 Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten
 Kreditinstituts oder Kreditversicherers geleistet werden.
 
-
 ###### § 633 Sach- und Rechtsmangel
 
 (1) Der Unternehmer hat dem Besteller das Werk frei von Sach- und
@@ -11579,7 +10609,6 @@ das bestellte Werk oder das Werk in zu geringer Menge herstellt.
 Werk keine oder nur die im Vertrag übernommenen Rechte gegen den
 Besteller geltend machen können.
 
-
 ###### § 634 Rechte des Bestellers bei Mängeln
 
 Ist das Werk mangelhaft, kann der Besteller, wenn die Voraussetzungen
@@ -11599,10 +10628,6 @@ bestimmt ist,
 
 4.  nach den §§ 636, 280, 281, 283 und 311a Schadensersatz oder nach § 284
     Ersatz vergeblicher Aufwendungen verlangen.
-
-
-
-
 
 ###### § 634a Verjährung der Mängelansprüche
 
@@ -11642,7 +10667,6 @@ Gebrauch, kann der Unternehmer vom Vertrag zurücktreten.
 (5) Auf das in § 634 bezeichnete Minderungsrecht finden § 218 und
 Absatz 4 Satz 2 entsprechende Anwendung.
 
-
 ###### § 635 Nacherfüllung
 
 (1) Verlangt der Besteller Nacherfüllung, so kann der Unternehmer nach
@@ -11660,14 +10684,12 @@ möglich ist.
 Besteller Rückgewähr des mangelhaften Werkes nach Maßgabe der §§ 346
 bis 348 verlangen.
 
-
 ###### § 636 Besondere Bestimmungen für Rücktritt und Schadensersatz
 
 Außer in den Fällen der § 281 Abs. 2 und 323 Abs. 2 bedarf es der
 Fristsetzung auch dann nicht, wenn der Unternehmer die Nacherfüllung
 gemäß § 635 Abs. 3 verweigert oder wenn die Nacherfüllung
 fehlgeschlagen oder dem Besteller unzumutbar ist.
-
 
 ###### § 637 Selbstvornahme
 
@@ -11683,7 +10705,6 @@ oder dem Besteller unzumutbar ist.
 
 (3) Der Besteller kann von dem Unternehmer für die zur Beseitigung des
 Mangels erforderlichen Aufwendungen Vorschuss verlangen.
-
 
 ###### § 638 Minderung
 
@@ -11705,14 +10726,12 @@ ermitteln.
 ist der Mehrbetrag vom Unternehmer zu erstatten. § 346 Abs. 1 und §
 347 Abs. 1 finden entsprechende Anwendung.
 
-
 ###### § 639 Haftungsausschluss
 
 Auf eine Vereinbarung, durch welche die Rechte des Bestellers wegen
 eines Mangels ausgeschlossen oder beschränkt werden, kann sich der
 Unternehmer nicht berufen, soweit er den Mangel arglistig verschwiegen
 oder eine Garantie für die Beschaffenheit des Werkes übernommen hat.
-
 
 ###### § 640 Abnahme
 
@@ -11728,7 +10747,6 @@ ist.
 ab, obschon er den Mangel kennt, so stehen ihm die in § 634 Nr. 1 bis
 3 bezeichneten Rechte nur zu, wenn er sich seine Rechte wegen des
 Mangels bei der Abnahme vorbehält.
-
 
 ###### § 641 Fälligkeit der Vergütung
 
@@ -11767,11 +10785,9 @@ die Beseitigung des Mangels erforderlichen Kosten.
 Abnahme des Werkes an zu verzinsen, sofern nicht die Vergütung
 gestundet ist.
 
-
 ###### § 641a (weggefallen)
 
 -
-
 
 ###### § 642 Mitwirkung des Bestellers
 
@@ -11786,7 +10802,6 @@ demjenigen, was der Unternehmer infolge des Verzugs an Aufwendungen
 erspart oder durch anderweitige Verwendung seiner Arbeitskraft
 erwerben kann.
 
-
 ###### § 643 Kündigung bei unterlassener Mitwirkung
 
 Der Unternehmer ist im Falle des § 642 berechtigt, dem Besteller zur
@@ -11795,7 +10810,6 @@ bestimmen, dass er den Vertrag kündige, wenn die Handlung nicht bis
 zum Ablauf der Frist vorgenommen werde. Der Vertrag gilt als
 aufgehoben, wenn nicht die Nachholung bis zum Ablauf der Frist
 erfolgt.
-
 
 ###### § 644 Gefahrtragung
 
@@ -11808,7 +10822,6 @@ verantwortlich.
 (2) Versendet der Unternehmer das Werk auf Verlangen des Bestellers
 nach einem anderen Ort als dem Erfüllungsort, so finden die für den
 Kauf geltenden Vorschriften des § 447 entsprechende Anwendung.
-
 
 ###### § 645 Verantwortlichkeit des Bestellers
 
@@ -11824,13 +10837,11 @@ gilt, wenn der Vertrag in Gemäßheit des § 643 aufgehoben wird.
 (2) Eine weitergehende Haftung des Bestellers wegen Verschuldens
 bleibt unberührt.
 
-
 ###### § 646 Vollendung statt Abnahme
 
 Ist nach der Beschaffenheit des Werkes die Abnahme ausgeschlossen, so
 tritt in den Fällen des § 634a Abs. 2 und der §§ 641, 644 und 645 an
 die Stelle der Abnahme die Vollendung des Werkes.
-
 
 ###### § 647 Unternehmerpfandrecht
 
@@ -11838,7 +10849,6 @@ Der Unternehmer hat für seine Forderungen aus dem Vertrag ein
 Pfandrecht an den von ihm hergestellten oder ausgebesserten
 beweglichen Sachen des Bestellers, wenn sie bei der Herstellung oder
 zum Zwecke der Ausbesserung in seinen Besitz gelangt sind.
-
 
 ###### § 648 Sicherungshypothek des Bauunternehmers
 
@@ -11855,7 +10865,6 @@ Bau oder der Ausbesserung eines Schiffes die Einräumung einer
 Schiffshypothek an dem Schiffsbauwerk oder dem Schiff des Bestellers
 verlangen; Absatz 1 Satz 2 gilt sinngemäß. § 647 findet keine
 Anwendung.
-
 
 ###### § 648a Bauhandwerkersicherung
 
@@ -11932,7 +10941,6 @@ Baubetreuer.
 (7) Eine von den Vorschriften der Absätze 1 bis 5 abweichende
 Vereinbarung ist unwirksam.
 
-
 ###### § 649 Kündigungsrecht des Bestellers
 
 Der Besteller kann bis zur Vollendung des Werkes jederzeit den Vertrag
@@ -11945,7 +10953,6 @@ vermutet, dass danach dem Unternehmer 5 vom Hundert der auf den noch
 nicht erbrachten Teil der Werkleistung entfallenden vereinbarten
 Vergütung zustehen.
 
-
 ###### § 650 Kostenanschlag
 
 (1) Ist dem Vertrag ein Kostenanschlag zugrunde gelegt worden, ohne
@@ -11957,7 +10964,6 @@ nur der im § 645 Abs. 1 bestimmte Anspruch zu.
 
 (2) Ist eine solche Überschreitung des Anschlags zu erwarten, so hat
 der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
-
 
 ###### § 651 Anwendung des Kaufrechts
 
@@ -11977,7 +10983,6 @@ nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
     Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
     Nr. L 171 S. 12).
 
-
 ##### Untertitel 2 - Reisevertrag
 
 
@@ -11985,7 +10990,6 @@ nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
     Umsetzung der Richtlinie 90/314/EWG des Europäischen Parlaments und
     des Rates vom 13. Juni 1990 über Pauschalreisen (ABl. EG Nr. L 158 S.
     59).
-
 
 ###### § 651a Vertragstypische Pflichten beim Reisevertrag
 
@@ -12030,7 +11034,6 @@ für den Reisenden aus seinem Angebot anzubieten. Der Reisende hat
 diese Rechte unverzüglich nach der Erklärung durch den
 Reiseveranstalter diesem gegenüber geltend zu machen.
 
-
 ###### § 651b Vertragsübertragung
 
 (1) Bis zum Reisebeginn kann der Reisende verlangen, dass statt seiner
@@ -12043,7 +11046,6 @@ entgegenstehen.
 (2) Tritt ein Dritter in den Vertrag ein, so haften er und der
 Reisende dem Reiseveranstalter als Gesamtschuldner für den Reisepreis
 und die durch den Eintritt des Dritten entstehenden Mehrkosten.
-
 
 ###### § 651c Abhilfe
 
@@ -12063,7 +11065,6 @@ Der Bestimmung einer Frist bedarf es nicht, wenn die Abhilfe von dem
 Reiseveranstalter verweigert wird oder wenn die sofortige Abhilfe
 durch ein besonderes Interesse des Reisenden geboten wird.
 
-
 ###### § 651d Minderung
 
 (1) Ist die Reise im Sinne des § 651c Abs. 1 mangelhaft, so mindert
@@ -12072,7 +11073,6 @@ Abs. 3. § 638 Abs. 4 findet entsprechende Anwendung.
 
 (2) Die Minderung tritt nicht ein, soweit es der Reisende schuldhaft
 unterlässt, den Mangel anzuzeigen.
-
 
 ###### § 651e Kündigung wegen Mangels
 
@@ -12101,7 +11101,6 @@ des Vertrags notwendigen Maßnahmen zu treffen, insbesondere, falls der
 Vertrag die Rückbeförderung umfasste, den Reisenden zurückzubefördern.
 Die Mehrkosten fallen dem Reiseveranstalter zur Last.
 
-
 ###### § 651f Schadensersatz
 
 (1) Der Reisende kann unbeschadet der Minderung oder der Kündigung
@@ -12112,7 +11111,6 @@ vertreten hat.
 (2) Wird die Reise vereitelt oder erheblich beeinträchtigt, so kann
 der Reisende auch wegen nutzlos aufgewendeter Urlaubszeit eine
 angemessene Entschädigung in Geld verlangen.
-
 
 ###### § 651g Ausschlussfrist, Verjährung
 
@@ -12126,7 +11124,6 @@ verhindert worden ist.
 (2) Ansprüche des Reisenden nach den §§ 651c bis 651f verjähren in
 zwei Jahren. Die Verjährung beginnt mit dem Tage, an dem die Reise dem
 Vertrag nach enden sollte.
-
 
 ###### § 651h Zulässige Haftungsbeschränkung
 
@@ -12153,7 +11150,6 @@ geltend gemacht werden kann oder unter bestimmten Voraussetzungen
 ausgeschlossen ist, so kann sich auch der Reiseveranstalter gegenüber
 dem Reisenden hierauf berufen.
 
-
 ###### § 651i Rücktritt vor Reisebeginn
 
 (1) Vor Reisebeginn kann der Reisende jederzeit vom Vertrag
@@ -12171,7 +11167,6 @@ gewöhnlich ersparten Aufwendungen und des durch anderweitige
 Verwendung der Reiseleistungen gewöhnlich möglichen Erwerbs ein
 Vomhundertsatz des Reisepreises als Entschädigung festgesetzt werden.
 
-
 ###### § 651j Kündigung wegen höherer Gewalt
 
 (1) Wird die Reise infolge bei Vertragsabschluss nicht voraussehbarer
@@ -12183,7 +11178,6 @@ allein nach Maßgabe dieser Vorschrift kündigen.
 des § 651e Abs. 3 Satz 1 und 2, Abs. 4 Satz 1 Anwendung. Die
 Mehrkosten für die Rückbeförderung sind von den Parteien je zur Hälfte
 zu tragen. Im Übrigen fallen die Mehrkosten dem Reisenden zur Last.
-
 
 ###### § 651k Sicherstellung, Zahlung
 
@@ -12273,10 +11267,6 @@ Sicherheitsleistung nachgewiesen werden muss.
 3.  der Reiseveranstalter eine juristische Person des öffentlichen Rechts
     ist, über deren Vermögen ein Insolvenzverfahren unzulässig ist.
 
-
-
-
-
 ###### § 651l Gastschulaufenthalte
 
 (1) Für einen Reisevertrag, der einen mindestens drei Monate
@@ -12327,7 +11317,6 @@ zurückzubefördern. Die Mehrkosten fallen dem Reisenden zur Last. Die
 vorstehenden Sätze gelten nicht, wenn der Reisende nach § 651e oder §
 651j kündigen kann.
 
-
 ###### § 651m Abweichende Vereinbarungen
 
 Von den Vorschriften der §§ 651a bis 651l kann vorbehaltlich des
@@ -12337,14 +11326,9 @@ Mitteilung eines Mangels an den Reiseveranstalter jedoch nicht, wenn
 die Vereinbarung zu einer Verjährungsfrist ab dem in § 651g Abs. 2
 Satz 2 bestimmten Verjährungsbeginn von weniger als einem Jahr führt.
 
-
 #### Titel 10 - Mäklervertrag
 
-
-
 ##### Untertitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 652 Entstehung des Lohnanspruchs
 
@@ -12359,7 +11343,6 @@ Bedingung eintritt.
 (2) Aufwendungen sind dem Mäkler nur zu ersetzen, wenn es vereinbart
 ist. Dies gilt auch dann, wenn ein Vertrag nicht zustande kommt.
 
-
 ###### § 653 Mäklerlohn
 
 (1) Ein Mäklerlohn gilt als stillschweigend vereinbart, wenn die dem
@@ -12370,13 +11353,11 @@ Vergütung zu erwarten ist.
 einer Taxe der taxmäßige Lohn, in Ermangelung einer Taxe der übliche
 Lohn als vereinbart anzusehen.
 
-
 ###### § 654 Verwirkung des Lohnanspruchs
 
 Der Anspruch auf den Mäklerlohn und den Ersatz von Aufwendungen ist
 ausgeschlossen, wenn der Mäkler dem Inhalt des Vertrags zuwider auch
 für den anderen Teil tätig gewesen ist.
-
 
 ###### § 655 Herabsetzung des Mäklerlohns
 
@@ -12387,10 +11368,7 @@ Antrag des Schuldners durch Urteil auf den angemessenen Betrag
 herabgesetzt werden. Nach der Entrichtung des Lohnes ist die
 Herabsetzung ausgeschlossen.
 
-
 ##### Untertitel 2 - Vermittlung von Verbraucherdarlehensverträgen
-
-
 
 ###### § 655a Darlehensvermittlungsvertrag
 
@@ -12412,7 +11390,6 @@ lediglich untergeordneter Funktion als Darlehensvermittler tätig
 werden, etwa indem sie als Nebenleistung den Abschluss eines
 verbundenen Verbraucherdarlehensvertrags vermitteln.
 
-
 ###### § 655b Schriftform bei einem Vertrag mit einem Verbraucher
 
 (1) Der Darlehensvermittlungsvertrag mit einem Verbraucher bedarf der
@@ -12425,7 +11402,6 @@ Anforderungen des Absatzes 1 Satz 1 und 2 nicht genügt oder vor dessen
 Abschluss die Pflichten aus Artikel 247 § 13 Abs. 2 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht erfüllt worden
 sind, ist nichtig.
-
 
 ###### § 655c Vergütung
 
@@ -12440,7 +11416,6 @@ Jahreszins nicht erhöht; bei der Berechnung des effektiven
 Jahreszinses für das abzulösende Darlehen bleiben etwaige
 Vermittlungskosten außer Betracht.
 
-
 ###### § 655d Nebenentgelte
 
 Der Darlehensvermittler darf für Leistungen, die mit der Vermittlung
@@ -12454,7 +11429,6 @@ Verbraucher gemäß Artikel 247 § 13 Absatz 2 Satz 1 Nummer 4 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche mitgeteilt hat, nicht
 übersteigen.
 
-
 ###### § 655e Abweichende Vereinbarungen, Anwendung auf Existenzgründer
 
 (1) Von den Vorschriften dieses Untertitels darf nicht zum Nachteil
@@ -12465,10 +11439,7 @@ Gestaltungen umgangen werden.
 (2) Existenzgründer im Sinne des § 512 stehen Verbrauchern in diesem
 Untertitel gleich.
 
-
 ##### Untertitel 3 - Ehevermittlung
-
-
 
 ###### § 656 Heiratsvermittlung
 
@@ -12483,10 +11454,7 @@ der andere Teil zum Zwecke der Erfüllung des Versprechens dem Mäkler
 gegenüber eine Verbindlichkeit eingeht, insbesondere für ein
 Schuldanerkenntnis.
 
-
 #### Titel 11 - Auslobung
-
-
 
 ##### § 657 Bindendes Versprechen
 
@@ -12495,7 +11463,6 @@ einer Handlung, insbesondere für die Herbeiführung eines Erfolges,
 aussetzt, ist verpflichtet, die Belohnung demjenigen zu entrichten,
 welcher die Handlung vorgenommen hat, auch wenn dieser nicht mit
 Rücksicht auf die Auslobung gehandelt hat.
-
 
 ##### § 658 Widerruf
 
@@ -12508,7 +11475,6 @@ Mitteilung erfolgt.
 ein Verzicht liegt im Zweifel in der Bestimmung einer Frist für die
 Vornahme der Handlung.
 
-
 ##### § 659 Mehrfache Vornahme
 
 (1) Ist die Handlung, für welche die Belohnung ausgesetzt ist,
@@ -12520,7 +11486,6 @@ gebührt jedem ein gleicher Teil der Belohnung. Lässt sich die
 Belohnung wegen ihrer Beschaffenheit nicht teilen oder soll nach dem
 Inhalt der Auslobung nur einer die Belohnung erhalten, so entscheidet
 das Los.
-
 
 ##### § 660 Mitwirkung mehrerer
 
@@ -12538,7 +11503,6 @@ Berechtigung unter sich ausgetragen haben; jeder von ihnen kann
 verlangen, dass die Belohnung für alle hinterlegt wird.
 
 (3) Die Vorschrift des § 659 Abs. 2 Satz 2 findet Anwendung.
-
 
 ##### § 661 Preisausschreiben
 
@@ -12559,7 +11523,6 @@ des Preises die Vorschrift des § 659 Abs. 2 Anwendung.
 verlangen, wenn er in der Auslobung bestimmt hat, dass die Übertragung
 erfolgen soll.
 
-
 ##### § 661a Gewinnzusagen
 
 Ein Unternehmer, der Gewinnzusagen oder vergleichbare Mitteilungen an
@@ -12567,21 +11530,15 @@ Verbraucher sendet und durch die Gestaltung dieser Zusendungen den
 Eindruck erweckt, dass der Verbraucher einen Preis gewonnen hat, hat
 dem Verbraucher diesen Preis zu leisten.
 
-
 #### Titel 12 - Auftrag, Geschäftsbesorgungsvertrag und Zahlungsdienste
 
-
-
 ##### Untertitel 1 - Auftrag
-
-
 
 ###### § 662 Vertragstypische Pflichten beim Auftrag
 
 Durch die Annahme eines Auftrags verpflichtet sich der Beauftragte,
 ein ihm von dem Auftraggeber übertragenes Geschäft für diesen
 unentgeltlich zu besorgen.
-
 
 ###### § 663 Anzeigepflicht bei Ablehnung
 
@@ -12591,7 +11548,6 @@ gerichteten Auftrag nicht annimmt, verpflichtet, die Ablehnung dem
 Auftraggeber unverzüglich anzuzeigen. Das Gleiche gilt, wenn sich
 jemand dem Auftraggeber gegenüber zur Besorgung gewisser Geschäfte
 erboten hat.
-
 
 ###### § 664 Unübertragbarkeit; Haftung für Gehilfen
 
@@ -12604,7 +11560,6 @@ verantwortlich.
 (2) Der Anspruch auf Ausführung des Auftrags ist im Zweifel nicht
 übertragbar.
 
-
 ###### § 665 Abweichung von Weisungen
 
 Der Beauftragte ist berechtigt, von den Weisungen des Auftraggebers
@@ -12614,7 +11569,6 @@ Der Beauftragte hat vor der Abweichung dem Auftraggeber Anzeige zu
 machen und dessen Entschließung abzuwarten, wenn nicht mit dem
 Aufschub Gefahr verbunden ist.
 
-
 ###### § 666 Auskunfts- und Rechenschaftspflicht
 
 Der Beauftragte ist verpflichtet, dem Auftraggeber die erforderlichen
@@ -12622,13 +11576,11 @@ Nachrichten zu geben, auf Verlangen über den Stand des Geschäfts
 Auskunft zu erteilen und nach der Ausführung des Auftrags Rechenschaft
 abzulegen.
 
-
 ###### § 667 Herausgabepflicht
 
 Der Beauftragte ist verpflichtet, dem Auftraggeber alles, was er zur
 Ausführung des Auftrags erhält und was er aus der Geschäftsbesorgung
 erlangt, herauszugeben.
-
 
 ###### § 668 Verzinsung des verwendeten Geldes
 
@@ -12636,19 +11588,16 @@ Verwendet der Beauftragte Geld für sich, das er dem Auftraggeber
 herauszugeben oder für ihn zu verwenden hat, so ist er verpflichtet,
 es von der Zeit der Verwendung an zu verzinsen.
 
-
 ###### § 669 Vorschusspflicht
 
 Für die zur Ausführung des Auftrags erforderlichen Aufwendungen hat
 der Auftraggeber dem Beauftragten auf Verlangen Vorschuss zu leisten.
-
 
 ###### § 670 Ersatz von Aufwendungen
 
 Macht der Beauftragte zum Zwecke der Ausführung des Auftrags
 Aufwendungen, die er den Umständen nach für erforderlich halten darf,
 so ist der Auftraggeber zum Ersatz verpflichtet.
-
 
 ###### § 671 Widerruf; Kündigung
 
@@ -12665,7 +11614,6 @@ er dem Auftraggeber den daraus entstehenden Schaden zu ersetzen.
 Kündigung auch dann berechtigt, wenn er auf das Kündigungsrecht
 verzichtet hat.
 
-
 ###### § 672 Tod oder Geschäftsunfähigkeit des Auftraggebers
 
 Der Auftrag erlischt im Zweifel nicht durch den Tod oder den Eintritt
@@ -12674,7 +11622,6 @@ hat der Beauftragte, wenn mit dem Aufschub Gefahr verbunden ist, die
 Besorgung des übertragenen Geschäfts fortzusetzen, bis der Erbe oder
 der gesetzliche Vertreter des Auftraggebers anderweit Fürsorge treffen
 kann; der Auftrag gilt insoweit als fortbestehend.
-
 
 ###### § 673 Tod des Beauftragten
 
@@ -12685,14 +11632,12 @@ verbunden ist, die Besorgung des übertragenen Geschäfts fortzusetzen,
 bis der Auftraggeber anderweit Fürsorge treffen kann; der Auftrag gilt
 insoweit als fortbestehend.
 
-
 ###### § 674 Fiktion des Fortbestehens
 
 Erlischt der Auftrag in anderer Weise als durch Widerruf, so gilt er
 zugunsten des Beauftragten gleichwohl als fortbestehend, bis der
 Beauftragte von dem Erlöschen Kenntnis erlangt oder das Erlöschen
 kennen muss.
-
 
 ##### Untertitel 2 - Geschäftsbesorgungsvertrag
 
@@ -12710,10 +11655,6 @@ kennen muss.
     die Wirksamkeit von Abrechnungen in Zahlungs- und Wertpapierliefer-
     und -abrechnungssystemen vom 19. Mai 1998 (ABl. EG Nr. L 166 S. 45).
 
-
-
-
-
 ###### § 675 Entgeltliche Geschäftsbesorgung
 
 (1) Auf einen Dienstvertrag oder einen Werkvertrag, der eine
@@ -12729,7 +11670,6 @@ Handlung oder einer sonstigen gesetzlichen Bestimmung ergebenden
 Verantwortlichkeit, zum Ersatz des aus der Befolgung des Rates oder
 der Empfehlung entstehenden Schadens nicht verpflichtet.
 
-
 ###### § 675a Informationspflichten
 
 Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich
@@ -12740,7 +11680,6 @@ Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit
 nicht eine Preisfestsetzung nach § 315 erfolgt oder die Entgelte und
 Auslagen gesetzlich verbindlich geregelt sind.
 
-
 ###### § 675b Aufträge zur Übertragung von Wertpapieren in Systemen
 
 Der Teilnehmer an Wertpapierlieferungs- und Abrechnungssystemen kann
@@ -12749,14 +11688,9 @@ auf Herausgabe von Wertpapieren im Wege der Verbuchung oder auf
 sonstige Weise zum Gegenstand hat, von dem in den Regeln des Systems
 bestimmten Zeitpunkt an nicht mehr widerrufen.
 
-
 ##### Untertitel 3 - Zahlungsdienste
 
-
-
 ###### Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 675c Zahlungsdienste und elektronisches Geld
 
@@ -12770,7 +11704,6 @@ nichts Abweichendes bestimmt ist.
 
 (3) Die Begriffsbestimmungen des Kreditwesengesetzes und des
 Zahlungsdiensteaufsichtsgesetzes sind anzuwenden.
-
 
 ###### § 675d Unterrichtung bei Zahlungsdiensten
 
@@ -12814,7 +11747,6 @@ Zahlungsdienstleisters ausgerichtet sein.
 §§ 17 und 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 bestimmten Umstände.
 
-
 ###### § 675e Abweichende Vereinbarungen
 
 (1) Soweit nichts anderes bestimmt ist, darf von den Vorschriften
@@ -12847,10 +11779,7 @@ Abs. 2 und § 675p sowie die §§ 675v bis 676 ganz oder teilweise nicht
 anzuwenden sind; sie können auch eine andere als die in § 676b
 vorgesehene Frist vereinbaren.
 
-
 ###### Kapitel 2 - Zahlungsdienstevertrag
-
-
 
 ###### § 675f Zahlungsdienstevertrag
 
@@ -12889,7 +11818,6 @@ Zahlungsempfängers, dem Zahler für die Nutzung eines bestimmten
 Zahlungsauthentifizierungsinstruments eine Ermäßigung anzubieten,
 nicht ausgeschlossen werden.
 
-
 ###### § 675g Änderung des Zahlungsdiensterahmenvertrags
 
 (1) Eine Änderung des Zahlungsdiensterahmenvertrags auf Veranlassung
@@ -12927,7 +11855,6 @@ stammt.
 (4) Der Zahlungsdienstnutzer darf durch Vereinbarungen zur Berechnung
 nach Absatz 3 nicht benachteiligt werden.
 
-
 ###### § 675h Ordentliche Kündigung eines Zahlungsdiensterahmenvertrags
 
 (1) Der Zahlungsdienstnutzer kann den Zahlungsdiensterahmenvertrag,
@@ -12947,7 +11874,6 @@ vorgesehenen Form zu erklären.
 anteilig bis zum Zeitpunkt der Beendigung des Vertrags zu entrichten.
 Im Voraus gezahlte Entgelte, die auf die Zeit nach Beendigung des
 Vertrags fallen, sind anteilig zu erstatten.
-
 
 ###### § 675i Ausnahmen für Kleinbetragsinstrumente und elektronisches Geld
 
@@ -13011,14 +11937,9 @@ Möglichkeit hat, das Zahlungskonto oder das Kleinbetragsinstrument zu
 sperren. Satz 1 gilt nur für Zahlungskonten oder
 Kleinbetragsinstrumente mit einem Wert von höchstens 200 Euro.
 
-
 ###### Kapitel 3 - Erbringung und Nutzung von Zahlungsdiensten
 
-
-
 ###### Unterkapitel 1 - Autorisierung von Zahlungsvorgängen; Zahlungsauthentifizierungsinstrumente
-
-
 
 ###### § 675j Zustimmung und Widerruf der Zustimmung
 
@@ -13037,7 +11958,6 @@ Zahlungsauftrag widerruflich ist (§ 675p). Auch die Zustimmung zur
 Ausführung mehrerer Zahlungsvorgänge kann mit der Folge widerrufen
 werden, dass jeder nachfolgende Zahlungsvorgang nicht mehr autorisiert
 ist.
-
 
 ###### § 675k Nutzungsbegrenzung
 
@@ -13077,7 +11997,6 @@ Gründe für die Sperrung nicht mehr gegeben sind. Der
 Zahlungsdienstnutzer ist über eine Entsperrung unverzüglich zu
 unterrichten.
 
-
 ###### § 675l Pflichten des Zahlers in Bezug auf Zahlungsauthentifizierungsinstrumente
 
 Der Zahler ist verpflichtet, unmittelbar nach Erhalt eines
@@ -13088,7 +12007,6 @@ diesem benannten Stelle den Verlust, den Diebstahl, die
 missbräuchliche Verwendung oder die sonstige nicht autorisierte
 Nutzung eines Zahlungsauthentifizierungsinstruments unverzüglich
 anzuzeigen, nachdem er hiervon Kenntnis erlangt hat.
-
 
 ###### § 675m Pflichten des Zahlungsdienstleisters in Bezug auf Zahlungsauthentifizierungsinstrumente; Risiko der Versendung
 
@@ -13131,10 +12049,7 @@ personalisierter Sicherheitsmerkmale des
 Zahlungsauthentifizierungsinstruments an den Zahler trägt der
 Zahlungsdienstleister.
 
-
 ###### Unterkapitel 2 - Ausführung von Zahlungsvorgängen
-
-
 
 ###### § 675n Zugang von Zahlungsaufträgen
 
@@ -13162,7 +12077,6 @@ nicht auf einen Geschäftstag des Zahlungsdienstleisters des Zahlers,
 so gilt für die Zwecke des § 675s Abs. 1 der darauf folgende
 Geschäftstag als Zeitpunkt des Zugangs.
 
-
 ###### § 675o Ablehnung von Zahlungsaufträgen
 
 (1) Lehnt der Zahlungsdienstleister die Ausführung eines
@@ -13186,7 +12100,6 @@ Rechtsvorschriften verstößt.
 (3) Für die Zwecke der §§ 675s, 675y und 675z gilt ein
 Zahlungsauftrag, dessen Ausführung berechtigterweise abgelehnt wurde,
 als nicht zugegangen.
-
 
 ###### § 675p Unwiderruflichkeit eines Zahlungsauftrags
 
@@ -13220,7 +12133,6 @@ Bearbeitung eines solchen Widerrufs ein Entgelt vereinbaren.
 zugunsten eines anderen Teilnehmers von dem in den Regeln des Systems
 bestimmten Zeitpunkt an nicht mehr widerrufen.
 
-
 ###### § 675q Entgelte bei Zahlungsvorgängen
 
 (1) Der Zahlungsdienstleister des Zahlers sowie sämtliche an dem
@@ -13240,7 +12152,6 @@ für den Zahlungsempfänger getrennt auszuweisen.
 (3) Bei einem Zahlungsvorgang, der mit keiner Währungsumrechnung
 verbunden ist, tragen Zahlungsempfänger und Zahler jeweils die von
 ihrem Zahlungsdienstleister erhobenen Entgelte.
-
 
 ###### § 675r Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen
 
@@ -13262,7 +12173,6 @@ Zahlungsdienstleister des Zahlers erkennbar keinem Zahlungsempfänger
 oder keinem Zahlungskonto zuzuordnen, ist dieser verpflichtet, den
 Zahler unverzüglich hierüber zu unterrichten und ihm gegebenenfalls
 den Zahlungsbetrag wieder herauszugeben.
-
 
 ###### § 675s Ausführungsfrist für Zahlungsvorgänge
 
@@ -13286,7 +12196,6 @@ Zahlungsdienstleister vereinbarten Fristen zu übermitteln. Im Fall
 einer Lastschrift ist der Zahlungsauftrag so rechtzeitig zu
 übermitteln, dass die Verrechnung an dem vom Zahlungsempfänger
 mitgeteilten Fälligkeitstag ermöglicht wird.
-
 
 ###### § 675t Wertstellungsdatum und Verfügbarkeit von Geldbeträgen
 
@@ -13316,10 +12225,7 @@ Geschäftstag verfügbar gemacht und wertgestellt werden.
 vorzunehmen, dass das Wertstellungsdatum frühestens der Zeitpunkt ist,
 an dem dieses Zahlungskonto mit dem Zahlungsbetrag belastet wird.
 
-
 ###### Unterkapitel 3 - Haftung
-
-
 
 ###### § 675u Haftung des Zahlungsdienstleisters für nicht autorisierte Zahlungsvorgänge
 
@@ -13330,7 +12236,6 @@ Zahlungsbetrag unverzüglich zu erstatten und, sofern der Betrag einem
 Zahlungskonto belastet worden ist, dieses Zahlungskonto wieder auf den
 Stand zu bringen, auf dem es sich ohne die Belastung durch den nicht
 autorisierten Zahlungsvorgang befunden hätte.
-
 
 ###### § 675v Haftung des Zahlers bei missbräuchlicher Nutzung eines Zahlungsauthentifizierungsinstruments
 
@@ -13369,7 +12274,6 @@ verpflichtet, wenn der Zahlungsdienstleister seiner Pflicht gemäß §
 675m Abs. 1 Nr. 3 nicht nachgekommen ist. Die Sätze 1 und 2 sind nicht
 anzuwenden, wenn der Zahler in betrügerischer Absicht gehandelt hat.
 
-
 ###### § 675w Nachweis der Authentifizierung
 
 Ist die Autorisierung eines ausgeführten Zahlungsvorgangs streitig,
@@ -13402,7 +12306,6 @@ allein nicht notwendigerweise aus, um nachzuweisen, dass der Zahler
 
 
 hat.
-
 
 ###### § 675x Erstattungsanspruch bei einem vom oder über den Zahlungsempfänger ausgelösten autorisierten Zahlungsvorgang
 
@@ -13462,7 +12365,6 @@ Absatz 2.
 durch eine Genehmigung des Zahlers unmittelbar gegenüber seinem
 Zahlungsdienstleister autorisiert worden sind.
 
-
 ###### § 675y Haftung der Zahlungsdienstleister bei nicht erfolgter oder fehlerhafter Ausführung eines Zahlungsauftrags; Nachforschungspflicht
 
 (1) Wird ein Zahlungsvorgang vom Zahler ausgelöst, kann dieser von
@@ -13520,7 +12422,6 @@ ausgelöst wurde, auf Verlangen seines Zahlungsdienstnutzers den
 Zahlungsvorgang nachzuvollziehen und seinen Zahlungsdienstnutzer über
 das Ergebnis zu unterrichten.
 
-
 ###### § 675z Sonstige Ansprüche bei nicht erfolgter oder fehlerhafter Ausführung eines Zahlungsauftrags oder bei einem nicht autorisierten Zahlungsvorgang
 
 Die §§ 675u und 675y sind hinsichtlich der dort geregelten Ansprüche
@@ -13541,7 +12442,6 @@ anstelle des Zahlungsdienstleisters des Zahlungsdienstnutzers. § 675y
 Abs. 3 Satz 1 ist auf die Haftung eines Zahlungsdienstleisters nach
 den Sätzen 2 bis 4 entsprechend anzuwenden.
 
-
 ###### § 676 Nachweis der Ausführung von Zahlungsvorgängen
 
 Ist zwischen dem Zahlungsdienstnutzer und seinem Zahlungsdienstleister
@@ -13549,7 +12449,6 @@ streitig, ob der Zahlungsvorgang ordnungsgemäß ausgeführt wurde, muss
 der Zahlungsdienstleister nachweisen, dass der Zahlungsvorgang
 ordnungsgemäß aufgezeichnet und verbucht sowie nicht durch eine
 Störung beeinträchtigt wurde.
-
 
 ###### § 676a Ausgleichsanspruch
 
@@ -13560,7 +12459,6 @@ er vom anderen Zahlungsdienstleister oder der zwischengeschalteten
 Stelle den Ersatz des Schadens verlangen, der ihm aus der Erfüllung
 der Ansprüche eines Zahlungsdienstnutzers gemäß den §§ 675y und 675z
 entsteht.
-
 
 ###### § 676b Anzeige nicht autorisierter oder fehlerhaft ausgeführter Zahlungsvorgänge
 
@@ -13586,7 +12484,6 @@ Absatz 2 mit der Maßgabe, dass der Zahlungsdienstnutzer diese
 Ansprüche auch nach Ablauf der Frist geltend machen kann, wenn er ohne
 Verschulden an der Einhaltung der Frist verhindert war.
 
-
 ###### § 676c Haftungsausschluss
 
 Ansprüche nach diesem Kapitel sind ausgeschlossen, wenn die einen
@@ -13601,13 +12498,7 @@ Anspruch begründenden Umstände
 2.  vom Zahlungsdienstleister auf Grund einer gesetzlichen Verpflichtung
     herbeigeführt wurden.
 
-
-
-
-
 #### Titel 13 - Geschäftsführung ohne Auftrag
-
-
 
 ##### § 677 Pflichten des Geschäftsführers
 
@@ -13615,7 +12506,6 @@ Wer ein Geschäft für einen anderen besorgt, ohne von ihm beauftragt
 oder ihm gegenüber sonst dazu berechtigt zu sein, hat das Geschäft so
 zu führen, wie das Interesse des Geschäftsherrn mit Rücksicht auf
 dessen wirklichen oder mutmaßlichen Willen es erfordert.
-
 
 ##### § 678 Geschäftsführung gegen den Willen des Geschäftsherrn
 
@@ -13625,7 +12515,6 @@ Geschäftsführer dies erkennen, so ist er dem Geschäftsherrn zum Ersatz
 des aus der Geschäftsführung entstehenden Schadens auch dann
 verpflichtet, wenn ihm ein sonstiges Verschulden nicht zur Last fällt.
 
-
 ##### § 679 Unbeachtlichkeit des entgegenstehenden Willens des Geschäftsherrn
 
 Ein der Geschäftsführung entgegenstehender Wille des Geschäftsherrn
@@ -13634,13 +12523,11 @@ des Geschäftsherrn, deren Erfüllung im öffentlichen Interesse liegt,
 oder eine gesetzliche Unterhaltspflicht des Geschäftsherrn nicht
 rechtzeitig erfüllt werden würde.
 
-
 ##### § 680 Geschäftsführung zur Gefahrenabwehr
 
 Bezweckt die Geschäftsführung die Abwendung einer dem Geschäftsherrn
 drohenden dringenden Gefahr, so hat der Geschäftsführer nur Vorsatz
 und grobe Fahrlässigkeit zu vertreten.
-
 
 ##### § 681 Nebenpflichten des Geschäftsführers
 
@@ -13651,14 +12538,12 @@ Aufschub Gefahr verbunden ist, dessen Entschließung abzuwarten. Im
 einen Beauftragten geltenden Vorschriften der §§ 666 bis 668
 entsprechende Anwendung.
 
-
 ##### § 682 Fehlende Geschäftsfähigkeit des Geschäftsführers
 
 Ist der Geschäftsführer geschäftsunfähig oder in der
 Geschäftsfähigkeit beschränkt, so ist er nur nach den Vorschriften
 über den Schadensersatz wegen unerlaubter Handlungen und über die
 Herausgabe einer ungerechtfertigten Bereicherung verantwortlich.
-
 
 ##### § 683 Ersatz von Aufwendungen
 
@@ -13669,7 +12554,6 @@ verlangen. In den Fällen des § 679 steht dieser Anspruch dem
 Geschäftsführer zu, auch wenn die Übernahme der Geschäftsführung mit
 dem Willen des Geschäftsherrn in Widerspruch steht.
 
-
 ##### § 684 Herausgabe der Bereicherung
 
 Liegen die Voraussetzungen des § 683 nicht vor, so ist der
@@ -13678,7 +12562,6 @@ die Geschäftsführung erlangt, nach den Vorschriften über die
 Herausgabe einer ungerechtfertigten Bereicherung herauszugeben.
 Genehmigt der Geschäftsherr die Geschäftsführung, so steht dem
 Geschäftsführer der in § 683 bestimmte Anspruch zu.
-
 
 ##### § 685 Schenkungsabsicht
 
@@ -13689,13 +12572,11 @@ Absicht hatte, von dem Geschäftsherrn Ersatz zu verlangen.
 Unterhalt, so ist im Zweifel anzunehmen, dass die Absicht fehlt, von
 dem Empfänger Ersatz zu verlangen.
 
-
 ##### § 686 Irrtum über Person des Geschäftsherrn
 
 Ist der Geschäftsführer über die Person des Geschäftsherrn im Irrtum,
 so wird der wirkliche Geschäftsherr aus der Geschäftsführung
 berechtigt und verpflichtet.
-
 
 ##### § 687 Unechte Geschäftsführung
 
@@ -13709,16 +12590,12 @@ sich aus den §§ 677, 678, 681, 682 ergebenden Ansprüche geltend
 machen. Macht er sie geltend, so ist er dem Geschäftsführer nach § 684
 Satz 1 verpflichtet.
 
-
 #### Titel 14 - Verwahrung
-
-
 
 ##### § 688 Vertragstypische Pflichten bei der Verwahrung
 
 Durch den Verwahrungsvertrag wird der Verwahrer verpflichtet, eine ihm
 von dem Hinterleger übergebene bewegliche Sache aufzubewahren.
-
 
 ##### § 689 Vergütung
 
@@ -13726,13 +12603,11 @@ Eine Vergütung für die Aufbewahrung gilt als stillschweigend
 vereinbart, wenn die Aufbewahrung den Umständen nach nur gegen eine
 Vergütung zu erwarten ist.
 
-
 ##### § 690 Haftung bei unentgeltlicher Verwahrung
 
 Wird die Aufbewahrung unentgeltlich übernommen, so hat der Verwahrer
 nur für diejenige Sorgfalt einzustehen, welche er in eigenen
 Angelegenheiten anzuwenden pflegt.
-
 
 ##### § 691 Hinterlegung bei Dritten
 
@@ -13741,7 +12616,6 @@ bei einem Dritten zu hinterlegen. Ist die Hinterlegung bei einem
 Dritten gestattet, so hat der Verwahrer nur ein ihm bei dieser
 Hinterlegung zur Last fallendes Verschulden zu vertreten. Für das
 Verschulden eines Gehilfen ist er nach § 278 verantwortlich.
-
 
 ##### § 692 Änderung der Aufbewahrung
 
@@ -13752,13 +12626,11 @@ hat vor der Änderung dem Hinterleger Anzeige zu machen und dessen
 Entschließung abzuwarten, wenn nicht mit dem Aufschub Gefahr verbunden
 ist.
 
-
 ##### § 693 Ersatz von Aufwendungen
 
 Macht der Verwahrer zum Zwecke der Aufbewahrung Aufwendungen, die er
 den Umständen nach für erforderlich halten darf, so ist der
 Hinterleger zum Ersatz verpflichtet.
-
 
 ##### § 694 Schadensersatzpflicht des Hinterlegers
 
@@ -13768,13 +12640,11 @@ dass er die Gefahr drohende Beschaffenheit der Sache bei der
 Hinterlegung weder kennt noch kennen muss oder dass er sie dem
 Verwahrer angezeigt oder dieser sie ohne Anzeige gekannt hat.
 
-
 ##### § 695 Rückforderungsrecht des Hinterlegers
 
 Der Hinterleger kann die hinterlegte Sache jederzeit zurückfordern,
 auch wenn für die Aufbewahrung eine Zeit bestimmt ist. Die Verjährung
 des Anspruchs auf Rückgabe der Sache beginnt mit der Rückforderung.
-
 
 ##### § 696 Rücknahmeanspruch des Verwahrers
 
@@ -13784,19 +12654,16 @@ eine Zeit bestimmt, so kann er die vorzeitige Rücknahme nur verlangen,
 wenn ein wichtiger Grund vorliegt. Die Verjährung des Anspruchs
 beginnt mit dem Verlangen auf Rücknahme.
 
-
 ##### § 697 Rückgabeort
 
 Die Rückgabe der hinterlegten Sache hat an dem Ort zu erfolgen, an
 welchem die Sache aufzubewahren war; der Verwahrer ist nicht
 verpflichtet, die Sache dem Hinterleger zu bringen.
 
-
 ##### § 698 Verzinsung des verwendeten Geldes
 
 Verwendet der Verwahrer hinterlegtes Geld für sich, so ist er
 verpflichtet, es von der Zeit der Verwendung an zu verzinsen.
-
 
 ##### § 699 Fälligkeit der Vergütung
 
@@ -13809,7 +12676,6 @@ entrichten.
 Zeit, so kann der Verwahrer einen seinen bisherigen Leistungen
 entsprechenden Teil der Vergütung verlangen, sofern nicht aus der
 Vereinbarung über die Vergütung sich ein anderes ergibt.
-
 
 ##### § 700 Unregelmäßiger Verwahrungsvertrag
 
@@ -13830,10 +12696,7 @@ den Verwahrungsvertrag.
 Absatz 1 bezeichneten Art nur gültig, wenn sie ausdrücklich getroffen
 wird.
 
-
 #### Titel 15 - Einbringung von Sachen bei Gastwirten
-
-
 
 ##### § 701 Haftung des Gastwirts
 
@@ -13871,7 +12734,6 @@ verursacht wird.
 (4) Die Ersatzpflicht erstreckt sich nicht auf Fahrzeuge, auf Sachen,
 die in einem Fahrzeug belassen worden sind, und auf lebende Tiere.
 
-
 ##### § 702 Beschränkung der Haftung; Wertsachen
 
 (1) Der Gastwirt haftet auf Grund des § 701 nur bis zu einem Betrag,
@@ -13901,7 +12763,6 @@ von übermäßigem Wert oder Umfang oder dass sie gefährlich sind. Er
 kann verlangen, dass sie in einem verschlossenen oder versiegelten
 Behältnis übergeben werden.
 
-
 ##### § 702a Erlass der Haftung
 
 (1) Die Haftung des Gastwirts kann im Voraus nur erlassen werden,
@@ -13917,7 +12778,6 @@ abgelehnt hat.
 schriftlich erteilt ist und wenn sie keine anderen Bestimmungen
 enthält.
 
-
 ##### § 703 Erlöschen des Schadensersatzanspruchs
 
 Der dem Gast auf Grund der §§ 701, 702 zustehende Anspruch erlischt,
@@ -13926,7 +12786,6 @@ Zerstörung oder der Beschädigung Kenntnis erlangt hat, dem Gastwirt
 Anzeige macht. Dies gilt nicht, wenn die Sachen von dem Gastwirt zur
 Aufbewahrung übernommen waren oder wenn der Verlust, die Zerstörung
 oder die Beschädigung von ihm oder seinen Leuten verschuldet ist.
-
 
 ##### § 704 Pfandrecht des Gastwirts
 
@@ -13937,10 +12796,7 @@ des Gastes. Die für das Pfandrecht des Vermieters geltenden
 Vorschriften des § 562 Abs. 1 Satz 2 und der §§ 562a bis 562d finden
 entsprechende Anwendung.
 
-
 #### Titel 16 - Gesellschaft
-
-
 
 ##### § 705 Inhalt des Gesellschaftsvertrags
 
@@ -13948,7 +12804,6 @@ Durch den Gesellschaftsvertrag verpflichten sich die Gesellschafter
 gegenseitig, die Erreichung eines gemeinsamen Zweckes in der durch den
 Vertrag bestimmten Weise zu fördern, insbesondere die vereinbarten
 Beiträge zu leisten.
-
 
 ##### § 706 Beiträge der Gesellschafter
 
@@ -13965,20 +12820,17 @@ ist.
 (3) Der Beitrag eines Gesellschafters kann auch in der Leistung von
 Diensten bestehen.
 
-
 ##### § 707 Erhöhung des vereinbarten Beitrags
 
 Zur Erhöhung des vereinbarten Beitrags oder zur Ergänzung der durch
 Verlust verminderten Einlage ist ein Gesellschafter nicht
 verpflichtet.
 
-
 ##### § 708 Haftung der Gesellschafter
 
 Ein Gesellschafter hat bei der Erfüllung der ihm obliegenden
 Verpflichtungen nur für diejenige Sorgfalt einzustehen, welche er in
 eigenen Angelegenheiten anzuwenden pflegt.
-
 
 ##### § 709 Gemeinschaftliche Geschäftsführung
 
@@ -13990,7 +12842,6 @@ Zustimmung aller Gesellschafter erforderlich.
 entscheiden, so ist die Mehrheit im Zweifel nach der Zahl der
 Gesellschafter zu berechnen.
 
-
 ##### § 710 Übertragung der Geschäftsführung
 
 Ist in dem Gesellschaftsvertrag die Führung der Geschäfte einem
@@ -13999,7 +12850,6 @@ Gesellschafter oder mehreren Gesellschaftern übertragen, so sind die
 die Geschäftsführung mehreren Gesellschaftern übertragen, so findet
 die Vorschrift des § 709 entsprechende Anwendung.
 
-
 ##### § 711 Widerspruchsrecht
 
 Steht nach dem Gesellschaftsvertrag die Führung der Geschäfte allen
@@ -14007,7 +12857,6 @@ oder mehreren Gesellschaftern in der Art zu, dass jeder allein zu
 handeln berechtigt ist, so kann jeder der Vornahme eines Geschäfts
 durch den anderen widersprechen. Im Falle des Widerspruchs muss das
 Geschäft unterbleiben.
-
 
 ##### § 712 Entziehung und Kündigung der Geschäftsführung
 
@@ -14024,7 +12873,6 @@ kündigen, wenn ein wichtiger Grund vorliegt; die für den Auftrag
 geltende Vorschrift des § 671 Abs. 2, 3 findet entsprechende
 Anwendung.
 
-
 ##### § 713 Rechte und Pflichten der geschäftsführenden Gesellschafter
 
 Die Rechte und Verpflichtungen der geschäftsführenden Gesellschafter
@@ -14032,13 +12880,11 @@ bestimmen sich nach den für den Auftrag geltenden Vorschriften der §§
 664 bis 670, soweit sich nicht aus dem Gesellschaftsverhältnis ein
 anderes ergibt.
 
-
 ##### § 714 Vertretungsmacht
 
 Soweit einem Gesellschafter nach dem Gesellschaftsvertrag die Befugnis
 zur Geschäftsführung zusteht, ist er im Zweifel auch ermächtigt, die
 anderen Gesellschafter Dritten gegenüber zu vertreten.
-
 
 ##### § 715 Entziehung der Vertretungsmacht
 
@@ -14047,7 +12893,6 @@ Gesellschafter Dritten gegenüber zu vertreten, so kann die
 Vertretungsmacht nur nach Maßgabe des § 712 Abs. 1 und, wenn sie in
 Verbindung mit der Befugnis zur Geschäftsführung erteilt worden ist,
 nur mit dieser entzogen werden.
-
 
 ##### § 716 Kontrollrecht der Gesellschafter
 
@@ -14061,7 +12906,6 @@ des Gesellschaftsvermögens anfertigen.
 steht der Geltendmachung des Rechts nicht entgegen, wenn Grund zu der
 Annahme unredlicher Geschäftsführung besteht.
 
-
 ##### § 717 Nichtübertragbarkeit der Gesellschafterrechte
 
 Die Ansprüche, die den Gesellschaftern aus dem Gesellschaftsverhältnis
@@ -14071,7 +12915,6 @@ Ansprüche, soweit deren Befriedigung vor der Auseinandersetzung
 verlangt werden kann, sowie die Ansprüche auf einen Gewinnanteil oder
 auf dasjenige, was dem Gesellschafter bei der Auseinandersetzung
 zukommt.
-
 
 ##### § 718 Gesellschaftsvermögen
 
@@ -14084,7 +12927,6 @@ dem Gesellschaftsvermögen gehörenden Rechts oder als Ersatz für die
 Zerstörung, Beschädigung oder Entziehung eines zu dem
 Gesellschaftsvermögen gehörenden Gegenstands erworben wird.
 
-
 ##### § 719 Gesamthänderische Bindung
 
 (1) Ein Gesellschafter kann nicht über seinen Anteil an dem
@@ -14095,14 +12937,12 @@ Gegenständen verfügen; er ist nicht berechtigt, Teilung zu verlangen.
 der Schuldner nicht eine ihm gegen einen einzelnen Gesellschafter
 zustehende Forderung aufrechnen.
 
-
 ##### § 720 Schutz des gutgläubigen Schuldners
 
 Die Zugehörigkeit einer nach § 718 Abs. 1 erworbenen Forderung zum
 Gesellschaftsvermögen hat der Schuldner erst dann gegen sich gelten zu
 lassen, wenn er von der Zugehörigkeit Kenntnis erlangt; die
 Vorschriften der §§ 406 bis 408 finden entsprechende Anwendung.
-
 
 ##### § 721 Gewinn- und Verlustverteilung
 
@@ -14114,7 +12954,6 @@ verlangen.
 Rechnungsabschluss und die Gewinnverteilung im Zweifel am Schluss
 jedes Geschäftsjahrs zu erfolgen.
 
-
 ##### § 722 Anteile am Gewinn und Verlust
 
 (1) Sind die Anteile der Gesellschafter am Gewinn und Verlust nicht
@@ -14123,7 +12962,6 @@ die Größe seines Beitrags einen gleichen Anteil am Gewinn und Verlust.
 
 (2) Ist nur der Anteil am Gewinn oder am Verlust bestimmt, so gilt die
 Bestimmung im Zweifel für Gewinn und Verlust.
-
 
 ##### § 723 Kündigung durch Gesellschafter
 
@@ -14162,7 +13000,6 @@ Gesellschaftern den daraus entstehenden Schaden zu ersetzen.
 (3) Eine Vereinbarung, durch welche das Kündigungsrecht ausgeschlossen
 oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
 
-
 ##### § 724 Kündigung bei Gesellschaft auf Lebenszeit oder fortgesetzter Gesellschaft
 
 Ist eine Gesellschaft für die Lebenszeit eines Gesellschafters
@@ -14170,7 +13007,6 @@ eingegangen, so kann sie in gleicher Weise gekündigt werden wie eine
 für unbestimmte Zeit eingegangene Gesellschaft. Dasselbe gilt, wenn
 eine Gesellschaft nach dem Ablauf der bestimmten Zeit stillschweigend
 fortgesetzt wird.
-
 
 ##### § 725 Kündigung durch Pfändungspfandgläubiger
 
@@ -14183,12 +13019,10 @@ sofern der Schuldtitel nicht bloß vorläufig vollstreckbar ist.
 dem Gesellschaftsverhältnis ergebenden Rechte des Gesellschafters, mit
 Ausnahme des Anspruchs auf einen Gewinnanteil, nicht geltend machen.
 
-
 ##### § 726 Auflösung wegen Erreichens oder Unmöglichwerdens des Zweckes
 
 Die Gesellschaft endigt, wenn der vereinbarte Zweck erreicht oder
 dessen Erreichung unmöglich geworden ist.
-
 
 ##### § 727 Auflösung durch Tod eines Gesellschafters
 
@@ -14206,7 +13040,6 @@ gleicher Weise zur einstweiligen Fortführung der ihnen übertragenen
 Geschäfte verpflichtet. Die Gesellschaft gilt insoweit als
 fortbestehend.
 
-
 ##### § 728 Auflösung durch Insolvenz der Gesellschaft oder eines Gesellschafters
 
 (1) Die Gesellschaft wird durch die Eröffnung des Insolvenzverfahrens
@@ -14220,7 +13053,6 @@ Gesellschaft beschließen.
 über das Vermögen eines Gesellschafters aufgelöst. Die Vorschrift des
 § 727 Abs. 2 Satz 2, 3 findet Anwendung.
 
-
 ##### § 729 Fortdauer der Geschäftsführungsbefugnis
 
 Wird die Gesellschaft aufgelöst, so gilt die Befugnis eines
@@ -14230,7 +13062,6 @@ Auflösung kennen muss. Das Gleiche gilt bei Fortbestand der
 Gesellschaft für die Befugnis zur Geschäftsführung eines aus der
 Gesellschaft ausscheidenden Gesellschafters oder für ihren Verlust in
 sonstiger Weise.
-
 
 ##### § 730 Auseinandersetzung; Geschäftsführung
 
@@ -14249,13 +13080,11 @@ Vertrag sich ein anderes ergibt, mit der Auflösung der Gesellschaft;
 die Geschäftsführung steht von der Auflösung an allen Gesellschaftern
 gemeinschaftlich zu.
 
-
 ##### § 731 Verfahren bei Auseinandersetzung
 
 Die Auseinandersetzung erfolgt in Ermangelung einer anderen
 Vereinbarung in Gemäßheit der §§ 732 bis 735. Im Übrigen gelten für
 die Teilung die Vorschriften über die Gemeinschaft.
-
 
 ##### § 732 Rückgabe von Gegenständen
 
@@ -14263,7 +13092,6 @@ Gegenstände, die ein Gesellschafter der Gesellschaft zur Benutzung
 überlassen hat, sind ihm zurückzugeben. Für einen durch Zufall in
 Abgang gekommenen oder verschlechterten Gegenstand kann er nicht
 Ersatz verlangen.
-
 
 ##### § 733 Berichtigung der Gesellschaftsschulden; Erstattung der Einlagen
 
@@ -14285,13 +13113,11 @@ Gegenstands bestanden haben, kann nicht Ersatz verlangt werden.
 ist das Gesellschaftsvermögen, soweit erforderlich, in Geld
 umzusetzen.
 
-
 ##### § 734 Verteilung des Überschusses
 
 Verbleibt nach der Berichtigung der gemeinschaftlichen Schulden und
 der Rückerstattung der Einlagen ein Überschuss, so gebührt er den
 Gesellschaftern nach dem Verhältnis ihrer Anteile am Gewinn.
-
 
 ##### § 735 Nachschusspflicht bei Verlust
 
@@ -14302,7 +13128,6 @@ Verhältnis aufzukommen, nach welchem sie den Verlust zu tragen haben.
 Kann von einem Gesellschafter der auf ihn entfallende Beitrag nicht
 erlangt werden, so haben die übrigen Gesellschafter den Ausfall nach
 dem gleichen Verhältnis zu tragen.
-
 
 ##### § 736 Ausscheiden eines Gesellschafters, Nachhaftung
 
@@ -14316,7 +13141,6 @@ aus der Gesellschaft aus.
 (2) Die für Personenhandelsgesellschaften geltenden Regelungen über
 die Begrenzung der Nachhaftung gelten sinngemäß.
 
-
 ##### § 737 Ausschluss eines Gesellschafters
 
 Ist im Gesellschaftsvertrag bestimmt, dass, wenn ein Gesellschafter
@@ -14327,7 +13151,6 @@ berechtigender Umstand eintritt, aus der Gesellschaft ausgeschlossen
 werden. Das Ausschließungsrecht steht den übrigen Gesellschaftern
 gemeinschaftlich zu. Die Ausschließung erfolgt durch Erklärung
 gegenüber dem auszuschließenden Gesellschafter.
-
 
 ##### § 738 Auseinandersetzung beim Ausscheiden
 
@@ -14345,14 +13168,12 @@ befreien, Sicherheit leisten.
 (2) Der Wert des Gesellschaftsvermögens ist, soweit erforderlich, im
 Wege der Schätzung zu ermitteln.
 
-
 ##### § 739 Haftung für Fehlbetrag
 
 Reicht der Wert des Gesellschaftsvermögens zur Deckung der
 gemeinschaftlichen Schulden und der Einlagen nicht aus, so hat der
 Ausscheidende den übrigen Gesellschaftern für den Fehlbetrag nach dem
 Verhältnis seines Anteils am Verlust aufzukommen.
-
 
 ##### § 740 Beteiligung am Ergebnis schwebender Geschäfte
 
@@ -14366,10 +13187,7 @@ Rechenschaft über die inzwischen beendigten Geschäfte, Auszahlung des
 ihm gebührenden Betrags und Auskunft über den Stand der noch
 schwebenden Geschäfte verlangen.
 
-
 #### Titel 17 - Gemeinschaft
-
-
 
 ##### § 741 Gemeinschaft nach Bruchteilen
 
@@ -14377,12 +13195,10 @@ Steht ein Recht mehreren gemeinschaftlich zu, so finden, sofern sich
 nicht aus dem Gesetz ein anderes ergibt, die Vorschriften der §§ 742
 bis 758 Anwendung (Gemeinschaft nach Bruchteilen).
 
-
 ##### § 742 Gleiche Anteile
 
 Im Zweifel ist anzunehmen, dass den Teilhabern gleiche Anteile
 zustehen.
-
 
 ##### § 743 Früchteanteil; Gebrauchsbefugnis
 
@@ -14393,7 +13209,6 @@ der Früchte.
 Gegenstands insoweit befugt, als nicht der Mitgebrauch der übrigen
 Teilhaber beeinträchtigt wird.
 
-
 ##### § 744 Gemeinschaftliche Verwaltung
 
 (1) Die Verwaltung des gemeinschaftlichen Gegenstands steht den
@@ -14403,7 +13218,6 @@ Teilhabern gemeinschaftlich zu.
 notwendigen Maßregeln ohne Zustimmung der anderen Teilhaber zu
 treffen; er kann verlangen, dass diese ihre Einwilligung zu einer
 solchen Maßregel im Voraus erteilen.
-
 
 ##### § 745 Verwaltung und Benutzung durch Beschluss
 
@@ -14422,13 +13236,11 @@ beschlossen oder verlangt werden. Das Recht des einzelnen Teilhabers
 auf einen seinem Anteil entsprechenden Bruchteil der Nutzungen kann
 nicht ohne seine Zustimmung beeinträchtigt werden.
 
-
 ##### § 746 Wirkung gegen Sondernachfolger
 
 Haben die Teilhaber die Verwaltung und Benutzung des
 gemeinschaftlichen Gegenstands geregelt, so wirkt die getroffene
 Bestimmung auch für und gegen die Sondernachfolger.
-
 
 ##### § 747 Verfügung über Anteil und gemeinschaftliche Gegenstände
 
@@ -14436,14 +13248,12 @@ Jeder Teilhaber kann über seinen Anteil verfügen. Über den
 gemeinschaftlichen Gegenstand im Ganzen können die Teilhaber nur
 gemeinschaftlich verfügen.
 
-
 ##### § 748 Lasten- und Kostentragung
 
 Jeder Teilhaber ist den anderen Teilhabern gegenüber verpflichtet, die
 Lasten des gemeinschaftlichen Gegenstands sowie die Kosten der
 Erhaltung, der Verwaltung und einer gemeinschaftlichen Benutzung nach
 dem Verhältnis seines Anteils zu tragen.
-
 
 ##### § 749 Aufhebungsanspruch
 
@@ -14460,13 +13270,11 @@ Aufhebung ohne Einhaltung der Frist verlangt werden.
 verlangen, diesen Vorschriften zuwider ausgeschlossen oder beschränkt
 wird, ist nichtig.
 
-
 ##### § 750 Ausschluss der Aufhebung im Todesfall
 
 Haben die Teilhaber das Recht, die Aufhebung der Gemeinschaft zu
 verlangen, auf Zeit ausgeschlossen, so tritt die Vereinbarung im
 Zweifel mit dem Tode eines Teilhabers außer Kraft.
-
 
 ##### § 751 Ausschluss der Aufhebung und Sondernachfolger
 
@@ -14478,7 +13286,6 @@ Teilhabers erwirkt, so kann er ohne Rücksicht auf die Vereinbarung die
 Aufhebung der Gemeinschaft verlangen, sofern der Schuldtitel nicht
 bloß vorläufig vollstreckbar ist.
 
-
 ##### § 752 Teilung in Natur
 
 Die Aufhebung der Gemeinschaft erfolgt durch Teilung in Natur, wenn
@@ -14487,7 +13294,6 @@ gemeinschaftlich sind, diese sich ohne Verminderung des Wertes in
 gleichartige, den Anteilen der Teilhaber entsprechende Teile zerlegen
 lassen. Die Verteilung gleicher Teile unter die Teilhaber geschieht
 durch das Los.
-
 
 ##### § 753 Teilung durch Verkauf
 
@@ -14502,13 +13308,11 @@ Teilhabern zu versteigern.
 kann jeder Teilhaber die Wiederholung verlangen; er hat jedoch die
 Kosten zu tragen, wenn der wiederholte Versuch misslingt.
 
-
 ##### § 754 Verkauf gemeinschaftlicher Forderungen
 
 Der Verkauf einer gemeinschaftlichen Forderung ist nur zulässig, wenn
 sie noch nicht eingezogen werden kann. Ist die Einziehung möglich, so
 kann jeder Teilhaber gemeinschaftliche Einziehung verlangen.
-
 
 ##### § 755 Berichtigung einer Gesamtschuld
 
@@ -14526,7 +13330,6 @@ werden.
 gemeinschaftlichen Gegenstands erforderlich ist, hat der Verkauf nach
 § 753 zu erfolgen.
 
-
 ##### § 756 Berichtigung einer Teilhaberschuld
 
 Hat ein Teilhaber gegen einen anderen Teilhaber eine Forderung, die
@@ -14534,7 +13337,6 @@ sich auf die Gemeinschaft gründet, so kann er bei der Aufhebung der
 Gemeinschaft die Berichtigung seiner Forderung aus dem auf den
 Schuldner entfallenden Teil des gemeinschaftlichen Gegenstands
 verlangen. Die Vorschriften des § 755 Abs. 2, 3 finden Anwendung.
-
 
 ##### § 757 Gewährleistung bei Zuteilung an einen Teilhaber
 
@@ -14544,16 +13346,12 @@ im Recht oder wegen eines Mangels der Sache jeder der übrigen
 Teilhaber zu seinem Anteil in gleicher Weise wie ein Verkäufer Gewähr
 zu leisten.
 
-
 ##### § 758 Unverjährbarkeit des Aufhebungsanspruchs
 
 Der Anspruch auf Aufhebung der Gemeinschaft unterliegt nicht der
 Verjährung.
 
-
 #### Titel 18 - Leibrente
-
-
 
 ##### § 759 Dauer und Betrag der Rente
 
@@ -14562,7 +13360,6 @@ im Zweifel für die Lebensdauer des Gläubigers zu entrichten.
 
 (2) Der für die Rente bestimmte Betrag ist im Zweifel der Jahresbetrag
 der Rente.
-
 
 ##### § 760 Vorauszahlung
 
@@ -14576,7 +13373,6 @@ zu entrichten ist, nach der Beschaffenheit und dem Zwecke der Rente.
 die Rente im Voraus zu entrichten ist, so gebührt ihm der volle auf
 den Zeitabschnitt entfallende Betrag.
 
-
 ##### § 761 Form des Leibrentenversprechens
 
 Zur Gültigkeit eines Vertrags, durch den eine Leibrente versprochen
@@ -14586,10 +13382,7 @@ des Leibrentenversprechens in elektronischer Form ist ausgeschlossen,
 soweit das Versprechen der Gewährung familienrechtlichen Unterhalts
 dient.
 
-
 #### Titel 19 - Unvollkommene Verbindlichkeiten
-
-
 
 ##### § 762 Spiel, Wette
 
@@ -14603,22 +13396,17 @@ der verlierende Teil zum Zwecke der Erfüllung einer Spiel- oder einer
 Wettschuld dem gewinnenden Teil gegenüber eine Verbindlichkeit
 eingeht, insbesondere für ein Schuldanerkenntnis.
 
-
 ##### § 763 Lotterie- und Ausspielvertrag
 
 Ein Lotterievertrag oder ein Ausspielvertrag ist verbindlich, wenn die
 Lotterie oder die Ausspielung staatlich genehmigt ist. Anderenfalls
 finden die Vorschriften des § 762 Anwendung.
 
-
 ##### § 764
 
 (weggefallen)
 
-
 #### Titel 20 - Bürgschaft
-
-
 
 ##### § 765 Vertragstypische Pflichten bei der Bürgschaft
 
@@ -14629,7 +13417,6 @@ Dritten einzustehen.
 (2) Die Bürgschaft kann auch für eine künftige oder eine bedingte
 Verbindlichkeit übernommen werden.
 
-
 ##### § 766 Schriftform der Bürgschaftserklärung
 
 Zur Gültigkeit des Bürgschaftsvertrags ist schriftliche Erteilung der
@@ -14637,7 +13424,6 @@ Bürgschaftserklärung erforderlich. Die Erteilung der
 Bürgschaftserklärung in elektronischer Form ist ausgeschlossen. Soweit
 der Bürge die Hauptverbindlichkeit erfüllt, wird der Mangel der Form
 geheilt.
-
 
 ##### § 767 Umfang der Bürgschaftsschuld
 
@@ -14651,7 +13437,6 @@ Bürgen nicht erweitert.
 (2) Der Bürge haftet für die dem Gläubiger von dem Hauptschuldner zu
 ersetzenden Kosten der Kündigung und der Rechtsverfolgung.
 
-
 ##### § 768 Einreden des Bürgen
 
 (1) Der Bürge kann die dem Hauptschuldner zustehenden Einreden geltend
@@ -14661,13 +13446,11 @@ berufen, dass der Erbe für die Verbindlichkeit nur beschränkt haftet.
 (2) Der Bürge verliert eine Einrede nicht dadurch, dass der
 Hauptschuldner auf sie verzichtet.
 
-
 ##### § 769 Mitbürgschaft
 
 Verbürgen sich mehrere für dieselbe Verbindlichkeit, so haften sie als
 Gesamtschuldner, auch wenn sie die Bürgschaft nicht gemeinschaftlich
 übernehmen.
-
 
 ##### § 770 Einreden der Anfechtbarkeit und der Aufrechenbarkeit
 
@@ -14679,7 +13462,6 @@ zugrunde liegende Rechtsgeschäft anzufechten.
 durch Aufrechnung gegen eine fällige Forderung des Hauptschuldners
 befriedigen kann.
 
-
 ##### § 771 Einrede der Vorausklage
 
 Der Bürge kann die Befriedigung des Gläubigers verweigern, solange
@@ -14688,7 +13470,6 @@ ohne Erfolg versucht hat (Einrede der Vorausklage). Erhebt der Bürge
 die Einrede der Vorausklage, ist die Verjährung des Anspruchs des
 Gläubigers gegen den Bürgen gehemmt, bis der Gläubiger eine
 Zwangsvollstreckung gegen den Hauptschuldner ohne Erfolg versucht hat.
-
 
 ##### § 772 Vollstreckungs- und Verwertungspflicht des Gläubigers
 
@@ -14704,7 +13485,6 @@ an einer beweglichen Sache des Hauptschuldners zu, so muss er auch aus
 dieser Sache Befriedigung suchen. Steht dem Gläubiger ein solches
 Recht an der Sache auch für eine andere Forderung zu, so gilt dies
 nur, wenn beide Forderungen durch den Wert der Sache gedeckt werden.
-
 
 ##### § 773 Ausschluss der Einrede der Vorausklage
 
@@ -14736,7 +13516,6 @@ befriedigen kann, an der er ein Pfandrecht oder ein
 Zurückbehaltungsrecht hat; die Vorschrift des § 772 Abs. 2 Satz 2
 findet Anwendung.
 
-
 ##### § 774 Gesetzlicher Forderungsübergang
 
 (1) Soweit der Bürge den Gläubiger befriedigt, geht die Forderung des
@@ -14746,7 +13525,6 @@ des Hauptschuldners aus einem zwischen ihm und dem Bürgen bestehenden
 Rechtsverhältnis bleiben unberührt.
 
 (2) Mitbürgen haften einander nur nach § 426.
-
 
 ##### § 775 Anspruch des Bürgen auf Befreiung
 
@@ -14779,7 +13557,6 @@ Befreiung von der Bürgschaft verlangen:
 (2) Ist die Hauptverbindlichkeit noch nicht fällig, so kann der
 Hauptschuldner dem Bürgen, statt ihn zu befreien, Sicherheit leisten.
 
-
 ##### § 776 Aufgabe einer Sicherheit
 
 Gibt der Gläubiger ein mit der Forderung verbundenes Vorzugsrecht,
@@ -14789,7 +13566,6 @@ wird der Bürge insoweit frei, als er aus dem aufgegebenen Recht nach §
 774 hätte Ersatz erlangen können. Dies gilt auch dann, wenn das
 aufgegebene Recht erst nach der Übernahme der Bürgschaft entstanden
 ist.
-
 
 ##### § 777 Bürgschaft auf Zeit
 
@@ -14809,7 +13585,6 @@ Hauptverbindlichkeit zur Zeit der Beendigung des Verfahrens hat, im
 Falle des Absatzes 1 Satz 2 auf den Umfang, den die
 Hauptverbindlichkeit bei dem Ablauf der bestimmten Zeit hat.
 
-
 ##### § 778 Kreditauftrag
 
 Wer einen anderen beauftragt, im eigenen Namen und auf eigene Rechnung
@@ -14817,10 +13592,7 @@ einem Dritten ein Darlehen oder eine Finanzierungshilfe zu gewähren,
 haftet dem Beauftragten für die aus dem Darlehen oder der
 Finanzierungshilfe entstehende Verbindlichkeit des Dritten als Bürge.
 
-
 #### Titel 21 - Vergleich
-
-
 
 ##### § 779 Begriff des Vergleichs, Irrtum über die Vergleichsgrundlage
 
@@ -14834,10 +13606,7 @@ Kenntnis der Sachlage nicht entstanden sein würde.
 (2) Der Ungewissheit über ein Rechtsverhältnis steht es gleich, wenn
 die Verwirklichung eines Anspruchs unsicher ist.
 
-
 #### Titel 22 - Schuldversprechen, Schuldanerkenntnis
-
-
 
 ##### § 780 Schuldversprechen
 
@@ -14847,7 +13616,6 @@ begründen soll (Schuldversprechen), ist, soweit nicht eine andere Form
 vorgeschrieben ist, schriftliche Erteilung des Versprechens
 erforderlich. Die Erteilung des Versprechens in elektronischer Form
 ist ausgeschlossen.
-
 
 ##### § 781 Schuldanerkenntnis
 
@@ -14859,7 +13627,6 @@ ausgeschlossen. Ist für die Begründung des Schuldverhältnisses, dessen
 Bestehen anerkannt wird, eine andere Form vorgeschrieben, so bedarf
 der Anerkennungsvertrag dieser Form.
 
-
 ##### § 782 Formfreiheit bei Vergleich
 
 Wird ein Schuldversprechen oder ein Schuldanerkenntnis auf Grund einer
@@ -14867,10 +13634,7 @@ Abrechnung oder im Wege des Vergleichs erteilt, so ist die Beobachtung
 der in den §§ 780, 781 vorgeschriebenen schriftlichen Form nicht
 erforderlich.
 
-
 #### Titel 23 - Anweisung
-
-
 
 ##### § 783 Rechte aus der Anweisung
 
@@ -14880,7 +13644,6 @@ leisten, dem Dritten aus, so ist dieser ermächtigt, die Leistung bei
 dem Angewiesenen im eigenen Namen zu erheben; der Angewiesene ist
 ermächtigt, für Rechnung des Anweisenden an den Anweisungsempfänger zu
 leisten.
-
 
 ##### § 784 Annahme der Anweisung
 
@@ -14896,17 +13659,14 @@ Anweisung. Ist der Vermerk auf die Anweisung vor der Aushändigung an
 den Anweisungsempfänger gesetzt worden, so wird die Annahme diesem
 gegenüber erst mit der Aushändigung wirksam.
 
-
 ##### § 785 Aushändigung der Anweisung
 
 Der Angewiesene ist nur gegen Aushändigung der Anweisung zur Leistung
 verpflichtet.
 
-
 ##### § 786
 
 (weggefallen)
-
 
 ##### § 787 Anweisung auf Schuld
 
@@ -14918,14 +13678,12 @@ Anweisungsempfänger ist der Angewiesene dem Anweisenden gegenüber
 nicht schon deshalb verpflichtet, weil er Schuldner des Anweisenden
 ist.
 
-
 ##### § 788 Valutaverhältnis
 
 Erteilt der Anweisende die Anweisung zu dem Zwecke, um seinerseits
 eine Leistung an den Anweisungsempfänger zu bewirken, so wird die
 Leistung, auch wenn der Angewiesene die Anweisung annimmt, erst mit
 der Leistung des Angewiesenen an den Anweisungsempfänger bewirkt.
-
 
 ##### § 789 Anzeigepflicht des Anweisungsempfängers
 
@@ -14935,7 +13693,6 @@ Anweisungsempfänger dem Anweisenden unverzüglich Anzeige zu machen.
 Das Gleiche gilt, wenn der Anweisungsempfänger die Anweisung nicht
 geltend machen kann oder will.
 
-
 ##### § 790 Widerruf der Anweisung
 
 Der Anweisende kann die Anweisung dem Angewiesenen gegenüber
@@ -14944,12 +13701,10 @@ gegenüber angenommen oder die Leistung bewirkt hat. Dies gilt auch
 dann, wenn der Anweisende durch den Widerruf einer ihm gegen den
 Anweisungsempfänger obliegenden Verpflichtung zuwiderhandelt.
 
-
 ##### § 791 Tod oder Geschäftsunfähigkeit eines Beteiligten
 
 Die Anweisung erlischt nicht durch den Tod oder den Eintritt der
 Geschäftsunfähigkeit eines der Beteiligten.
-
 
 ##### § 792 Übertragung der Anweisung
 
@@ -14971,10 +13726,7 @@ Rechtsverhältnis Einwendungen nicht herleiten. Im Übrigen finden auf
 die Übertragung der Anweisung die für die Abtretung einer Forderung
 geltenden Vorschriften entsprechende Anwendung.
 
-
 #### Titel 24 - Schuldverschreibung auf den Inhaber
-
-
 
 ##### § 793 Rechte aus der Schuldverschreibung auf den Inhaber
 
@@ -14991,7 +13743,6 @@ aufgenommene Bestimmung von der Beobachtung einer besonderen Form
 abhängig gemacht werden. Zur Unterzeichnung genügt eine im Wege der
 mechanischen Vervielfältigung hergestellte Namensunterschrift.
 
-
 ##### § 794 Haftung des Ausstellers
 
 (1) Der Aussteller wird aus einer Schuldverschreibung auf den Inhaber
@@ -15003,11 +13754,9 @@ ist.
 es ohne Einfluss, wenn die Urkunde ausgegeben wird, nachdem der
 Aussteller gestorben oder geschäftsunfähig geworden ist.
 
-
 ##### § 795
 
 (weggefallen)
-
 
 ##### § 796 Einwendungen des Ausstellers
 
@@ -15016,14 +13765,12 @@ Einwendungen entgegensetzen, welche die Gültigkeit der Ausstellung
 betreffen oder sich aus der Urkunde ergeben oder dem Aussteller
 unmittelbar gegen den Inhaber zustehen.
 
-
 ##### § 797 Leistungspflicht nur gegen Aushändigung
 
 Der Aussteller ist nur gegen Aushändigung der Schuldverschreibung zur
 Leistung verpflichtet. Mit der Aushändigung erwirbt er das Eigentum an
 der Urkunde, auch wenn der Inhaber zur Verfügung über sie nicht
 berechtigt ist.
-
 
 ##### § 798 Ersatzurkunde
 
@@ -15034,7 +13781,6 @@ Unterscheidungsmerkmale noch mit Sicherheit erkennbar sind, von dem
 Aussteller die Erteilung einer neuen Schuldverschreibung auf den
 Inhaber gegen Aushändigung der beschädigten oder verunstalteten
 verlangen. Die Kosten hat er zu tragen und vorzuschießen.
-
 
 ##### § 799 Kraftloserklärung
 
@@ -15050,7 +13796,6 @@ erforderliche Auskunft zu erteilen und die erforderlichen Zeugnisse
 auszustellen. Die Kosten der Zeugnisse hat der bisherige Inhaber zu
 tragen und vorzuschießen.
 
-
 ##### § 800 Wirkung der Kraftloserklärung
 
 Ist eine Schuldverschreibung auf den Inhaber für kraftlos erklärt, so
@@ -15059,7 +13804,6 @@ dem Aussteller, unbeschadet der Befugnis, den Anspruch aus der Urkunde
 geltend zu machen, die Erteilung einer neuen Schuldverschreibung auf
 den Inhaber anstelle der für kraftlos erklärten verlangen. Die Kosten
 hat er zu tragen und vorzuschießen.
-
 
 ##### § 801 Erlöschen; Verjährung
 
@@ -15078,7 +13822,6 @@ Jahres, in welchem die für die Leistung bestimmte Zeit eintritt.
 (3) Die Dauer und der Beginn der Vorlegungsfrist können von dem
 Aussteller in der Urkunde anders bestimmt werden.
 
-
 ##### § 802 Zahlungssperre
 
 Der Beginn und der Lauf der Vorlegungsfrist sowie der Verjährung
@@ -15091,7 +13834,6 @@ entgegenstehenden Hindernisses sechs Monate verstrichen sind und nicht
 vorher die Einleitung beantragt worden ist. Auf diese Frist finden die
 Vorschriften der §§ 206, 210, 211 entsprechende Anwendung.
 
-
 ##### § 803 Zinsscheine
 
 (1) Werden für eine Schuldverschreibung auf den Inhaber Zinsscheine
@@ -15103,7 +13845,6 @@ oder die Verpflichtung zur Verzinsung aufgehoben oder geändert wird.
 Hauptschuldverschreibung nicht zurückgegeben, so ist der Aussteller
 berechtigt, den Betrag zurückzubehalten, den er nach Absatz 1 für die
 Scheine zu zahlen verpflichtet ist.
-
 
 ##### § 804 Verlust von Zins- oder ähnlichen Scheinen
 
@@ -15121,7 +13862,6 @@ Jahren.
 (2) In dem Zins-, Renten- oder Gewinnanteilschein kann der im Absatz 1
 bestimmte Anspruch ausgeschlossen werden.
 
-
 ##### § 805 Neue Zins- und Rentenscheine
 
 Neue Zins- oder Rentenscheine für eine Schuldverschreibung auf den
@@ -15132,14 +13872,12 @@ hat. Die Scheine sind in diesem Falle dem Inhaber der
 Schuldverschreibung auszuhändigen, wenn er die Schuldverschreibung
 vorlegt.
 
-
 ##### § 806 Umschreibung auf den Namen
 
 Die Umschreibung einer auf den Inhaber lautenden Schuldverschreibung
 auf den Namen eines bestimmten Berechtigten kann nur durch den
 Aussteller erfolgen. Der Aussteller ist zur Umschreibung nicht
 verpflichtet.
-
 
 ##### § 807 Inhaberkarten und -marken
 
@@ -15148,7 +13886,6 @@ nicht bezeichnet ist, von dem Aussteller unter Umständen ausgegeben,
 aus welchen sich ergibt, dass er dem Inhaber zu einer Leistung
 verpflichtet sein will, so finden die Vorschriften des § 793 Abs. 1
 und der §§ 794, 796, 797 entsprechende Anwendung.
-
 
 ##### § 808 Namenspapiere mit Inhaberklausel
 
@@ -15164,10 +13901,7 @@ kann sie, wenn nicht ein anderes bestimmt ist, im Wege des
 Aufgebotsverfahrens für kraftlos erklärt werden. Die in § 802 für die
 Verjährung gegebenen Vorschriften finden Anwendung.
 
-
 #### Titel 25 - Vorlegung von Sachen
-
-
 
 ##### § 809 Besichtigung einer Sache
 
@@ -15176,7 +13910,6 @@ Sache hat oder sich Gewissheit verschaffen will, ob ihm ein solcher
 Anspruch zusteht, kann, wenn die Besichtigung der Sache aus diesem
 Grunde für ihn von Interesse ist, verlangen, dass der Besitzer ihm die
 Sache zur Besichtigung vorlegt oder die Besichtigung gestattet.
-
 
 ##### § 810 Einsicht in Urkunden
 
@@ -15188,7 +13921,6 @@ Rechtsverhältnis beurkundet ist oder wenn die Urkunde Verhandlungen
 über ein Rechtsgeschäft enthält, die zwischen ihm und einem anderen
 oder zwischen einem von beiden und einem gemeinschaftlichen Vermittler
 gepflogen worden sind.
-
 
 ##### § 811 Vorlegungsort, Gefahr und Kosten
 
@@ -15202,10 +13934,7 @@ Vorlegung verlangt. Der Besitzer kann die Vorlegung verweigern, bis
 ihm der andere Teil die Kosten vorschießt und wegen der Gefahr
 Sicherheit leistet.
 
-
 #### Titel 26 - Ungerechtfertigte Bereicherung
-
-
 
 ##### § 812 Herausgabeanspruch
 
@@ -15217,7 +13946,6 @@ dem Inhalt des Rechtsgeschäfts bezweckte Erfolg nicht eintritt.
 
 (2) Als Leistung gilt auch die durch Vertrag erfolgte Anerkennung des
 Bestehens oder des Nichtbestehens eines Schuldverhältnisses.
-
 
 ##### § 813 Erfüllung trotz Einrede
 
@@ -15231,7 +13959,6 @@ unberührt.
 Rückforderung ausgeschlossen; die Erstattung von Zwischenzinsen kann
 nicht verlangt werden.
 
-
 ##### § 814 Kenntnis der Nichtschuld
 
 Das zum Zwecke der Erfüllung einer Verbindlichkeit Geleistete kann
@@ -15240,7 +13967,6 @@ zur Leistung nicht verpflichtet war, oder wenn die Leistung einer
 sittlichen Pflicht oder einer auf den Anstand zu nehmenden Rücksicht
 entsprach.
 
-
 ##### § 815 Nichteintritt des Erfolgs
 
 Die Rückforderung wegen Nichteintritts des mit einer Leistung
@@ -15248,7 +13974,6 @@ bezweckten Erfolgs ist ausgeschlossen, wenn der Eintritt des Erfolgs
 von Anfang an unmöglich war und der Leistende dies gewusst hat oder
 wenn der Leistende den Eintritt des Erfolgs wider Treu und Glauben
 verhindert hat.
-
 
 ##### § 816 Verfügung eines Nichtberechtigten
 
@@ -15263,7 +13988,6 @@ rechtlichen Vorteil erlangt.
 Berechtigten gegenüber wirksam ist, so ist der Nichtberechtigte dem
 Berechtigten zur Herausgabe des Geleisteten verpflichtet.
 
-
 ##### § 817 Verstoß gegen Gesetz oder gute Sitten
 
 War der Zweck einer Leistung in der Art bestimmt, dass der Empfänger
@@ -15274,7 +13998,6 @@ Leistenden gleichfalls ein solcher Verstoß zur Last fällt, es sei
 denn, dass die Leistung in der Eingehung einer Verbindlichkeit
 bestand; das zur Erfüllung einer solchen Verbindlichkeit Geleistete
 kann nicht zurückgefordert werden.
-
 
 ##### § 818 Umfang des Bereicherungsanspruchs
 
@@ -15293,7 +14016,6 @@ ausgeschlossen, soweit der Empfänger nicht mehr bereichert ist.
 (4) Von dem Eintritt der Rechtshängigkeit an haftet der Empfänger nach
 den allgemeinen Vorschriften.
 
-
 ##### § 819 Verschärfte Haftung bei Kenntnis und bei Gesetzes- oder Sittenverstoß
 
 (1) Kennt der Empfänger den Mangel des rechtlichen Grundes bei dem
@@ -15304,7 +14026,6 @@ Anspruch auf Herausgabe zu dieser Zeit rechtshängig geworden wäre.
 (2) Verstößt der Empfänger durch die Annahme der Leistung gegen ein
 gesetzliches Verbot oder gegen die guten Sitten, so ist er von dem
 Empfang der Leistung an in der gleichen Weise verpflichtet.
-
 
 ##### § 820 Verschärfte Haftung bei ungewissem Erfolgseintritt
 
@@ -15323,13 +14044,11 @@ Rechtsgrund weggefallen ist; zur Herausgabe von Nutzungen ist er
 insoweit nicht verpflichtet, als er zu dieser Zeit nicht mehr
 bereichert ist.
 
-
 ##### § 821 Einrede der Bereicherung
 
 Wer ohne rechtlichen Grund eine Verbindlichkeit eingeht, kann die
 Erfüllung auch dann verweigern, wenn der Anspruch auf Befreiung von
 der Verbindlichkeit verjährt ist.
-
 
 ##### § 822 Herausgabepflicht Dritter
 
@@ -15339,10 +14058,7 @@ Herausgabe der Bereicherung ausgeschlossen ist, der Dritte zur
 Herausgabe verpflichtet, wie wenn er die Zuwendung von dem Gläubiger
 ohne rechtlichen Grund erhalten hätte.
 
-
 #### Titel 27 - Unerlaubte Handlungen
-
-
 
 ##### § 823 Schadensersatzpflicht
 
@@ -15356,7 +14072,6 @@ Schutz eines anderen bezweckendes Gesetz verstößt. Ist nach dem Inhalt
 des Gesetzes ein Verstoß gegen dieses auch ohne Verschulden möglich,
 so tritt die Ersatzpflicht nur im Falle des Verschuldens ein.
 
-
 ##### § 824 Kreditgefährdung
 
 (1) Wer der Wahrheit zuwider eine Tatsache behauptet oder verbreitet,
@@ -15369,7 +14084,6 @@ die Unwahrheit zwar nicht kennt, aber kennen muss.
 ist, wird dieser nicht zum Schadensersatz verpflichtet, wenn er oder
 der Empfänger der Mitteilung an ihr ein berechtigtes Interesse hat.
 
-
 ##### § 825 Bestimmung zu sexuellen Handlungen
 
 Wer einen anderen durch Hinterlist, Drohung oder Missbrauch eines
@@ -15377,13 +14091,11 @@ Abhängigkeitsverhältnisses zur Vornahme oder Duldung sexueller
 Handlungen bestimmt, ist ihm zum Ersatz des daraus entstehenden
 Schadens verpflichtet.
 
-
 ##### § 826 Sittenwidrige vorsätzliche Schädigung
 
 Wer in einer gegen die guten Sitten verstoßenden Weise einem anderen
 vorsätzlich Schaden zufügt, ist dem anderen zum Ersatz des Schadens
 verpflichtet.
-
 
 ##### § 827 Ausschluss und Minderung der Verantwortlichkeit
 
@@ -15396,7 +14108,6 @@ so ist er für einen Schaden, den er in diesem Zustand widerrechtlich
 verursacht, in gleicher Weise verantwortlich, wie wenn ihm
 Fahrlässigkeit zur Last fiele; die Verantwortlichkeit tritt nicht ein,
 wenn er ohne Verschulden in den Zustand geraten ist.
-
 
 ##### § 828 Minderjährige
 
@@ -15415,7 +14126,6 @@ den Schaden, den er einem anderen zufügt, nicht verantwortlich, wenn
 er bei der Begehung der schädigenden Handlung nicht die zur Erkenntnis
 der Verantwortlichkeit erforderliche Einsicht hat.
 
-
 ##### § 829 Ersatzpflicht aus Billigkeitsgründen
 
 Wer in einem der in den §§ 823 bis 826 bezeichneten Fälle für einen
@@ -15428,7 +14138,6 @@ Schadloshaltung erfordert und ihm nicht die Mittel entzogen werden,
 deren er zum angemessenen Unterhalt sowie zur Erfüllung seiner
 gesetzlichen Unterhaltspflichten bedarf.
 
-
 ##### § 830 Mittäter und Beteiligte
 
 (1) Haben mehrere durch eine gemeinschaftlich begangene unerlaubte
@@ -15438,7 +14147,6 @@ von mehreren Beteiligten den Schaden durch seine Handlung verursacht
 hat.
 
 (2) Anstifter und Gehilfen stehen Mittätern gleich.
-
 
 ##### § 831 Haftung für den Verrichtungsgehilfen
 
@@ -15456,7 +14164,6 @@ würde.
 Geschäftsherrn die Besorgung eines der im Absatz 1 Satz 2 bezeichneten
 Geschäfte durch Vertrag übernimmt.
 
-
 ##### § 832 Haftung des Aufsichtspflichtigen
 
 (1) Wer kraft Gesetzes zur Führung der Aufsicht über eine Person
@@ -15469,7 +14176,6 @@ gehöriger Aufsichtsführung entstanden sein würde.
 
 (2) Die gleiche Verantwortlichkeit trifft denjenigen, welcher die
 Führung der Aufsicht durch Vertrag übernimmt.
-
 
 ##### § 833 Haftung des Tierhalters
 
@@ -15484,7 +14190,6 @@ Beaufsichtigung des Tieres die im Verkehr erforderliche Sorgfalt
 beobachtet oder der Schaden auch bei Anwendung dieser Sorgfalt
 entstanden sein würde.
 
-
 ##### § 834 Haftung des Tieraufsehers
 
 Wer für denjenigen, welcher ein Tier hält, die Führung der Aufsicht
@@ -15495,11 +14200,9 @@ wenn er bei der Führung der Aufsicht die im Verkehr erforderliche
 Sorgfalt beobachtet oder wenn der Schaden auch bei Anwendung dieser
 Sorgfalt entstanden sein würde.
 
-
 ##### § 835
 
 (weggefallen)
-
 
 ##### § 836 Haftung des Grundstücksbesitzers
 
@@ -15523,13 +14226,11 @@ Sorgfalt die Gefahr hätte abwenden können.
 
 (3) Besitzer im Sinne dieser Vorschriften ist der Eigenbesitzer.
 
-
 ##### § 837 Haftung des Gebäudebesitzers
 
 Besitzt jemand auf einem fremden Grundstück in Ausübung eines Rechts
 ein Gebäude oder ein anderes Werk, so trifft ihn anstelle des
 Besitzers des Grundstücks die im § 836 bestimmte Verantwortlichkeit.
-
 
 ##### § 838 Haftung des Gebäudeunterhaltungspflichtigen
 
@@ -15539,7 +14240,6 @@ das Werk vermöge eines ihm zustehenden Nutzungsrechts zu unterhalten
 hat, ist für den durch den Einsturz oder die Ablösung von Teilen
 verursachten Schaden in gleicher Weise verantwortlich wie der
 Besitzer.
-
 
 ##### § 839 Haftung bei Amtspflichtverletzung
 
@@ -15560,7 +14260,6 @@ Amts findet diese Vorschrift keine Anwendung.
 oder fahrlässig unterlassen hat, den Schaden durch Gebrauch eines
 Rechtsmittels abzuwenden.
 
-
 ##### § 839a Haftung des gerichtlichen Sachverständigen
 
 (1) Erstattet ein vom Gericht ernannter Sachverständiger vorsätzlich
@@ -15569,7 +14268,6 @@ des Schadens verpflichtet, der einem Verfahrensbeteiligten durch eine
 gerichtliche Entscheidung entsteht, die auf diesem Gutachten beruht.
 
 (2) § 839 Abs. 3 ist entsprechend anzuwenden.
-
 
 ##### § 840 Haftung mehrerer
 
@@ -15588,7 +14286,6 @@ des Schadens verpflichtet ist, ein Dritter für den Schaden
 verantwortlich, so ist in ihrem Verhältnis zueinander der Dritte
 allein verpflichtet.
 
-
 ##### § 841 Ausgleichung bei Beamtenhaftung
 
 Ist ein Beamter, der vermöge seiner Amtspflicht einen anderen zur
@@ -15599,14 +14296,12 @@ Pflichten neben dem anderen für den von diesem verursachten Schaden
 verantwortlich, so ist in ihrem Verhältnis zueinander der andere
 allein verpflichtet.
 
-
 ##### § 842 Umfang der Ersatzpflicht bei Verletzung einer Person
 
 Die Verpflichtung zum Schadensersatz wegen einer gegen die Person
 gerichteten unerlaubten Handlung erstreckt sich auf die Nachteile,
 welche die Handlung für den Erwerb oder das Fortkommen des Verletzten
 herbeiführt.
-
 
 ##### § 843 Geldrente oder Kapitalabfindung
 
@@ -15624,7 +14319,6 @@ verlangen, wenn ein wichtiger Grund vorliegt.
 
 (4) Der Anspruch wird nicht dadurch ausgeschlossen, dass ein anderer
 dem Verletzten Unterhalt zu gewähren hat.
-
 
 ##### § 844 Ersatzansprüche Dritter bei Tötung
 
@@ -15644,7 +14338,6 @@ Abs. 2 bis 4 finden entsprechende Anwendung. Die Ersatzpflicht tritt
 auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber
 noch nicht geboren war.
 
-
 ##### § 845 Ersatzansprüche wegen entgangener Dienste
 
 Im Falle der Tötung, der Verletzung des Körpers oder der Gesundheit
@@ -15655,7 +14348,6 @@ entgehenden Dienste durch Entrichtung einer Geldrente Ersatz zu
 leisten. Die Vorschrift des § 843 Abs. 2 bis 4 findet entsprechende
 Anwendung.
 
-
 ##### § 846 Mitverschulden des Verletzten
 
 Hat in den Fällen der §§ 844, 845 bei der Entstehung des Schadens, den
@@ -15663,11 +14355,9 @@ der Dritte erleidet, ein Verschulden des Verletzten mitgewirkt, so
 finden auf den Anspruch des Dritten die Vorschriften des § 254
 Anwendung.
 
-
 ##### § 847
 
 (weggefallen)
-
 
 ##### § 848 Haftung für Zufall bei Entziehung einer Sache
 
@@ -15679,7 +14369,6 @@ Verschlechterung der Sache verantwortlich, es sei denn, dass der
 Untergang, die anderweitige Unmöglichkeit der Herausgabe oder die
 Verschlechterung auch ohne die Entziehung eingetreten sein würde.
 
-
 ##### § 849 Verzinsung der Ersatzsumme
 
 Ist wegen der Entziehung einer Sache der Wert oder wegen der
@@ -15687,14 +14376,12 @@ Beschädigung einer Sache die Wertminderung zu ersetzen, so kann der
 Verletzte Zinsen des zu ersetzenden Betrags von dem Zeitpunkt an
 verlangen, welcher der Bestimmung des Wertes zugrunde gelegt wird.
 
-
 ##### § 850 Ersatz von Verwendungen
 
 Macht der zur Herausgabe einer entzogenen Sache Verpflichtete
 Verwendungen auf die Sache, so stehen ihm dem Verletzten gegenüber die
 Rechte zu, die der Besitzer dem Eigentümer gegenüber wegen
 Verwendungen hat.
-
 
 ##### § 851 Ersatzleistung an Nichtberechtigten
 
@@ -15705,7 +14392,6 @@ Beschädigung befunden hat, so wird er durch die Leistung auch dann
 befreit, wenn ein Dritter Eigentümer der Sache war oder ein sonstiges
 Recht an der Sache hatte, es sei denn, dass ihm das Recht des Dritten
 bekannt oder infolge grober Fahrlässigkeit unbekannt ist.
-
 
 ##### § 852 Herausgabeanspruch nach Eintritt der Verjährung
 
@@ -15719,7 +14405,6 @@ Rücksicht auf die Entstehung in 30 Jahren von der Begehung der
 Verletzungshandlung oder dem sonstigen, den Schaden auslösenden
 Ereignis an.
 
-
 ##### § 853 Arglisteinrede
 
 Erlangt jemand durch eine von ihm begangene unerlaubte Handlung eine
@@ -15727,14 +14412,9 @@ Forderung gegen den Verletzten, so kann der Verletzte die Erfüllung
 auch dann verweigern, wenn der Anspruch auf Aufhebung der Forderung
 verjährt ist.
 
-
 ## Buch 3 - Sachenrecht
 
-
-
 ### Abschnitt 1 - Besitz
-
-
 
 #### § 854 Erwerb des Besitzes
 
@@ -15745,7 +14425,6 @@ Gewalt über die Sache erworben.
 Erwerb, wenn der Erwerber in der Lage ist, die Gewalt über die Sache
 auszuüben.
 
-
 #### § 855 Besitzdiener
 
 Übt jemand die tatsächliche Gewalt über eine Sache für einen anderen
@@ -15753,7 +14432,6 @@ in dessen Haushalt oder Erwerbsgeschäft oder in einem ähnlichen
 Verhältnis aus, vermöge dessen er den sich auf die Sache beziehenden
 Weisungen des anderen Folge zu leisten hat, so ist nur der andere
 Besitzer.
-
 
 #### § 856 Beendigung des Besitzes
 
@@ -15764,11 +14442,9 @@ verliert.
 (2) Durch eine ihrer Natur nach vorübergehende Verhinderung in der
 Ausübung der Gewalt wird der Besitz nicht beendigt.
 
-
 #### § 857 Vererblichkeit
 
 Der Besitz geht auf den Erben über.
-
 
 #### § 858 Verbotene Eigenmacht
 
@@ -15780,7 +14456,6 @@ die Störung gestattet, widerrechtlich (verbotene Eigenmacht).
 Fehlerhaftigkeit muss der Nachfolger im Besitz gegen sich gelten
 lassen, wenn er Erbe des Besitzers ist oder die Fehlerhaftigkeit des
 Besitzes seines Vorgängers bei dem Erwerb kennt.
-
 
 #### § 859 Selbsthilfe des Besitzers
 
@@ -15798,13 +14473,11 @@ Besitzes durch Entsetzung des Täters wieder bemächtigen.
 welcher nach § 858 Abs. 2 die Fehlerhaftigkeit des Besitzes gegen sich
 gelten lassen muss.
 
-
 #### § 860 Selbsthilfe des Besitzdieners
 
 Zur Ausübung der dem Besitzer nach § 859 zustehenden Rechte ist auch
 derjenige befugt, welcher die tatsächliche Gewalt nach § 855 für den
 Besitzer ausübt.
-
 
 #### § 861 Anspruch wegen Besitzentziehung
 
@@ -15817,7 +14490,6 @@ gegenwärtigen Besitzer oder dessen Rechtsvorgänger gegenüber
 fehlerhaft war und in dem letzten Jahre vor der Entziehung erlangt
 worden ist.
 
-
 #### § 862 Anspruch wegen Besitzstörung
 
 (1) Wird der Besitzer durch verbotene Eigenmacht im Besitz gestört, so
@@ -15829,14 +14501,12 @@ klagen.
 dessen Rechtsvorgänger gegenüber fehlerhaft besitzt und der Besitz in
 dem letzten Jahre vor der Störung erlangt worden ist.
 
-
 #### § 863 Einwendungen des Entziehers oder Störers
 
 Gegenüber den in den §§ 861, 862 bestimmten Ansprüchen kann ein Recht
 zum Besitz oder zur Vornahme der störenden Handlung nur zur Begründung
 der Behauptung geltend gemacht werden, dass die Entziehung oder die
 Störung des Besitzes nicht verbotene Eigenmacht sei.
-
 
 #### § 864 Erlöschen der Besitzansprüche
 
@@ -15850,20 +14520,17 @@ dass dem Täter ein Recht an der Sache zusteht, vermöge dessen er die
 Herstellung eines seiner Handlungsweise entsprechenden Besitzstands
 verlangen kann.
 
-
 #### § 865 Teilbesitz
 
 Die Vorschriften der §§ 858 bis 864 gelten auch zugunsten desjenigen,
 welcher nur einen Teil einer Sache, insbesondere abgesonderte
 Wohnräume oder andere Räume, besitzt.
 
-
 #### § 866 Mitbesitz
 
 Besitzen mehrere eine Sache gemeinschaftlich, so findet in ihrem
 Verhältnis zueinander ein Besitzschutz insoweit nicht statt, als es
 sich um die Grenzen des den einzelnen zustehenden Gebrauchs handelt.
-
 
 #### § 867 Verfolgungsrecht des Besitzers
 
@@ -15877,7 +14544,6 @@ Entstehung eines Schadens zu besorgen ist, die Gestattung verweigern,
 bis ihm Sicherheit geleistet wird; die Verweigerung ist unzulässig,
 wenn mit dem Aufschub Gefahr verbunden ist.
 
-
 #### § 868 Mittelbarer Besitz
 
 Besitzt jemand eine Sache als Nießbraucher, Pfandgläubiger, Pächter,
@@ -15885,7 +14551,6 @@ Mieter, Verwahrer oder in einem ähnlichen Verhältnis, vermöge dessen
 er einem anderen gegenüber auf Zeit zum Besitz berechtigt oder
 verpflichtet ist, so ist auch der andere Besitzer (mittelbarer
 Besitz).
-
 
 #### § 869 Ansprüche des mittelbaren Besitzers
 
@@ -15899,13 +14564,11 @@ der Besitz eingeräumt wird. Unter der gleichen Voraussetzung kann er
 im Falle des § 867 verlangen, dass ihm die Aufsuchung und Wegschaffung
 der Sache gestattet wird.
 
-
 #### § 870 Übertragung des mittelbaren Besitzes
 
 Der mittelbare Besitz kann dadurch auf einen anderen übertragen
 werden, dass diesem der Anspruch auf Herausgabe der Sache abgetreten
 wird.
-
 
 #### § 871 Mehrstufiger mittelbarer Besitz
 
@@ -15913,15 +14576,11 @@ Steht der mittelbare Besitzer zu einem Dritten in einem Verhältnis der
 in § 868 bezeichneten Art, so ist auch der Dritte mittelbarer
 Besitzer.
 
-
 #### § 872 Eigenbesitz
 
 Wer eine Sache als ihm gehörend besitzt, ist Eigenbesitzer.
 
-
 ### Abschnitt 2 - Allgemeine Vorschriften über Rechte an Grundstücken
-
-
 
 #### § 873 Erwerb durch Einigung und Eintragung
 
@@ -15939,14 +14598,12 @@ Berechtigte dem anderen Teil eine den Vorschriften der
 Grundbuchordnung entsprechende Eintragungsbewilligung ausgehändigt
 hat.
 
-
 #### § 874 Bezugnahme auf die Eintragungsbewilligung
 
 Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird,
 kann zur näheren Bezeichnung des Inhalts des Rechts auf die
 Eintragungsbewilligung Bezug genommen werden, soweit nicht das Gesetz
 ein anderes vorschreibt.
-
 
 #### § 875 Aufhebung eines Rechts
 
@@ -15961,7 +14618,6 @@ gebunden, wenn er sie dem Grundbuchamt gegenüber abgegeben oder
 demjenigen, zu dessen Gunsten sie erfolgt, eine den Vorschriften der
 Grundbuchordnung entsprechende Löschungsbewilligung ausgehändigt hat.
 
-
 #### § 876 Aufhebung eines belasteten Rechts
 
 Ist ein Recht an einem Grundstück mit dem Recht eines Dritten
@@ -15974,12 +14630,10 @@ Aufhebung nicht berührt wird. Die Zustimmung ist dem Grundbuchamt oder
 demjenigen gegenüber zu erklären, zu dessen Gunsten sie erfolgt; sie
 ist unwiderruflich.
 
-
 #### § 877 Rechtsänderungen
 
 Die Vorschriften der §§ 873, 874, 876 finden auch auf Änderungen des
 Inhalts eines Rechts an einem Grundstück Anwendung.
-
 
 #### § 878 Nachträgliche Verfügungsbeschränkungen
 
@@ -15988,7 +14642,6 @@ Erklärung wird nicht dadurch unwirksam, dass der Berechtigte in der
 Verfügung beschränkt wird, nachdem die Erklärung für ihn bindend
 geworden und der Antrag auf Eintragung bei dem Grundbuchamt gestellt
 worden ist.
-
 
 #### § 879 Rangverhältnis mehrerer Rechte
 
@@ -16006,7 +14659,6 @@ nach der Eintragung zustande gekommen ist.
 
 (3) Eine abweichende Bestimmung des Rangverhältnisses bedarf der
 Eintragung in das Grundbuch.
-
 
 #### § 880 Rangänderung
 
@@ -16030,7 +14682,6 @@ aufgehoben wird.
 (5) Rechte, die den Rang zwischen dem zurücktretenden und dem
 vortretenden Recht haben, werden durch die Rangänderung nicht berührt.
 
-
 #### § 881 Rangvorbehalt
 
 (1) Der Eigentümer kann sich bei der Belastung des Grundstücks mit
@@ -16050,7 +14701,6 @@ mit dem Vorbehalt eingetragene Recht infolge der inzwischen
 eingetretenen Belastung eine über den Vorbehalt hinausgehende
 Beeinträchtigung erleiden würde.
 
-
 #### § 882 Höchstbetrag des Wertersatzes
 
 Wird ein Grundstück mit einem Recht belastet, für welches nach den für
@@ -16058,7 +14708,6 @@ die Zwangsversteigerung geltenden Vorschriften dem Berechtigten im
 Falle des Erlöschens durch den Zuschlag der Wert aus dem Erlös zu
 ersetzen ist, so kann der Höchstbetrag des Ersatzes bestimmt werden.
 Die Bestimmung bedarf der Eintragung in das Grundbuch.
-
 
 #### § 883 Voraussetzungen und Wirkung der Vormerkung
 
@@ -16078,13 +14727,11 @@ Arrestvollziehung oder durch den Insolvenzverwalter erfolgt.
 (3) Der Rang des Rechts, auf dessen Einräumung der Anspruch gerichtet
 ist, bestimmt sich nach der Eintragung der Vormerkung.
 
-
 #### § 884 Wirkung gegenüber Erben
 
 Soweit der Anspruch durch die Vormerkung gesichert ist, kann sich der
 Erbe des Verpflichteten nicht auf die Beschränkung seiner Haftung
 berufen.
-
 
 #### § 885 Voraussetzung für die Eintragung der Vormerkung
 
@@ -16098,7 +14745,6 @@ eine Gefährdung des zu sichernden Anspruchs glaubhaft gemacht wird.
 Anspruchs auf die einstweilige Verfügung oder die
 Eintragungsbewilligung Bezug genommen werden.
 
-
 #### § 886 Beseitigungsanspruch
 
 Steht demjenigen, dessen Grundstück oder dessen Recht von der
@@ -16106,7 +14752,6 @@ Vormerkung betroffen wird, eine Einrede zu, durch welche die
 Geltendmachung des durch die Vormerkung gesicherten Anspruchs dauernd
 ausgeschlossen wird, so kann er von dem Gläubiger die Beseitigung der
 Vormerkung verlangen.
-
 
 #### § 887 Aufgebot des Vormerkungsgläubigers
 
@@ -16116,7 +14761,6 @@ ausgeschlossen werden, wenn die im § 1170 für die Ausschließung eines
 Hypothekengläubigers bestimmten Voraussetzungen vorliegen. Mit der
 Rechtskraft des Ausschließungsbeschlusses erlischt die Wirkung der
 Vormerkung.
-
 
 #### § 888 Anspruch des Vormerkungsberechtigten auf Zustimmung
 
@@ -16130,13 +14774,11 @@ erforderlich ist.
 (2) Das Gleiche gilt, wenn der Anspruch durch ein Veräußerungsverbot
 gesichert ist.
 
-
 #### § 889 Ausschluss der Konsolidation bei dinglichen Rechten
 
 Ein Recht an einem fremden Grundstück erlischt nicht dadurch, dass der
 Eigentümer des Grundstücks das Recht oder der Berechtigte das Eigentum
 an dem Grundstück erwirbt.
-
 
 #### § 890 Vereinigung von Grundstücken; Zuschreibung
 
@@ -16148,7 +14790,6 @@ eintragen lässt.
 Grundstücks gemacht werden, dass der Eigentümer es diesem im Grundbuch
 zuschreiben lässt.
 
-
 #### § 891 Gesetzliche Vermutung
 
 (1) Ist im Grundbuch für jemand ein Recht eingetragen, so wird
@@ -16156,7 +14797,6 @@ vermutet, dass ihm das Recht zustehe.
 
 (2) Ist im Grundbuch ein eingetragenes Recht gelöscht, so wird
 vermutet, dass das Recht nicht bestehe.
-
 
 #### § 892 Öffentlicher Glaube des Grundbuchs
 
@@ -16175,7 +14815,6 @@ für die Kenntnis des Erwerbers die Zeit der Stellung des Antrags auf
 Eintragung oder, wenn die nach § 873 erforderliche Einigung erst
 später zustande kommt, die Zeit der Einigung maßgebend.
 
-
 #### § 893 Rechtsgeschäft mit dem Eingetragenen
 
 Die Vorschrift des § 892 finden entsprechende Anwendung, wenn an
@@ -16184,7 +14823,6 @@ Grund dieses Rechts eine Leistung bewirkt oder wenn zwischen ihm und
 einem anderen in Ansehung dieses Rechts ein nicht unter die Vorschrift
 des § 892 fallendes Rechtsgeschäft vorgenommen wird, das eine
 Verfügung über das Recht enthält.
-
 
 #### § 894 Berichtigung des Grundbuchs
 
@@ -16197,13 +14835,11 @@ einer nicht bestehenden Belastung oder Beschränkung beeinträchtigt
 ist, die Zustimmung zu der Berichtigung des Grundbuchs von demjenigen
 verlangen, dessen Recht durch die Berichtigung betroffen wird.
 
-
 #### § 895 Voreintragung des Verpflichteten
 
 Kann die Berichtigung des Grundbuchs erst erfolgen, nachdem das Recht
 des nach § 894 Verpflichteten eingetragen worden ist, so hat dieser
 auf Verlangen sein Recht eintragen zu lassen.
-
 
 #### § 896 Vorlegung des Briefes
 
@@ -16212,7 +14848,6 @@ Grundschuld- oder Rentenschuldbriefs erforderlich, so kann derjenige,
 zu dessen Gunsten die Berichtigung erfolgen soll, von dem Besitzer des
 Briefes verlangen, dass der Brief dem Grundbuchamt vorgelegt wird.
 
-
 #### § 897 Kosten der Berichtigung
 
 Die Kosten der Berichtigung des Grundbuchs und der dazu erforderlichen
@@ -16220,12 +14855,10 @@ Erklärungen hat derjenige zu tragen, welcher die Berichtigung
 verlangt, sofern nicht aus einem zwischen ihm und dem Verpflichteten
 bestehenden Rechtsverhältnis sich ein anderes ergibt.
 
-
 #### § 898 Unverjährbarkeit der Berichtigungsansprüche
 
 Die in den §§ 894 bis 896 bestimmten Ansprüche unterliegen nicht der
 Verjährung.
-
 
 #### § 899 Eintragung eines Widerspruchs
 
@@ -16238,7 +14871,6 @@ Berichtigung des Grundbuchs betroffen wird. Zur Erlassung der
 einstweiligen Verfügung ist nicht erforderlich, dass eine Gefährdung
 des Rechts des Widersprechenden glaubhaft gemacht wird.
 
-
 #### § 899a Maßgaben für die Gesellschaft bürgerlichen Rechts
 
 Ist eine Gesellschaft bürgerlichen Rechts im Grundbuch eingetragen, so
@@ -16247,7 +14879,6 @@ diejenigen Personen Gesellschafter sind, die nach § 47 Absatz 2 Satz 1
 der Grundbuchordnung im Grundbuch eingetragen sind, und dass darüber
 hinaus keine weiteren Gesellschafter vorhanden sind. Die §§ 892 bis
 899 gelten bezüglich der Eintragung der Gesellschafter entsprechend.
-
 
 #### § 900 Buchersitzung
 
@@ -16266,7 +14897,6 @@ das zum Besitz des Grundstücks berechtigt oder dessen Ausübung nach
 den für den Besitz geltenden Vorschriften geschützt ist. Für den Rang
 des Rechts ist die Eintragung maßgebend.
 
-
 #### § 901 Erlöschen nicht eingetragener Rechte
 
 Ist ein Recht an einem fremden Grundstück im Grundbuch mit Unrecht
@@ -16274,7 +14904,6 @@ gelöscht, so erlischt es, wenn der Anspruch des Berechtigten gegen den
 Eigentümer verjährt ist. Das Gleiche gilt, wenn ein kraft Gesetzes
 entstandenes Recht an einem fremden Grundstück nicht in das Grundbuch
 eingetragen worden ist.
-
 
 #### § 902 Unverjährbarkeit eingetragener Rechte
 
@@ -16285,14 +14914,9 @@ wiederkehrender Leistungen oder auf Schadensersatz gerichtet sind.
 (2) Ein Recht, wegen dessen ein Widerspruch gegen die Richtigkeit des
 Grundbuchs eingetragen ist, steht einem eingetragenen Recht gleich.
 
-
 ### Abschnitt 3 - Eigentum
 
-
-
 #### Titel 1 - Inhalt des Eigentums
-
-
 
 ##### § 903 Befugnisse des Eigentümers
 
@@ -16301,7 +14925,6 @@ Dritter entgegenstehen, mit der Sache nach Belieben verfahren und
 andere von jeder Einwirkung ausschließen. Der Eigentümer eines Tieres
 hat bei der Ausübung seiner Befugnisse die besonderen Vorschriften zum
 Schutz der Tiere zu beachten.
-
 
 ##### § 904 Notstand
 
@@ -16312,7 +14935,6 @@ gegenüber dem aus der Einwirkung dem Eigentümer entstehenden Schaden
 unverhältnismäßig groß ist. Der Eigentümer kann Ersatz des ihm
 entstehenden Schadens verlangen.
 
-
 ##### § 905 Begrenzung des Eigentums
 
 Das Recht des Eigentümers eines Grundstücks erstreckt sich auf den
@@ -16320,7 +14942,6 @@ Raum über der Oberfläche und auf den Erdkörper unter der Oberfläche.
 Der Eigentümer kann jedoch Einwirkungen nicht verbieten, die in
 solcher Höhe oder Tiefe vorgenommen werden, dass er an der
 Ausschließung kein Interesse hat.
-
 
 ##### § 906 Zuführung unwägbarer Stoffe
 
@@ -16348,7 +14969,6 @@ Ertrag über das zumutbare Maß hinaus beeinträchtigt.
 
 (3) Die Zuführung durch eine besondere Leitung ist unzulässig.
 
-
 ##### § 907 Gefahr drohende Anlagen
 
 (1) Der Eigentümer eines Grundstücks kann verlangen, dass auf den
@@ -16363,7 +14983,6 @@ wenn die unzulässige Einwirkung tatsächlich hervortritt.
 (2) Bäume und Sträucher gehören nicht zu den Anlagen im Sinne dieser
 Vorschriften.
 
-
 ##### § 908 Drohender Gebäudeeinsturz
 
 Droht einem Grundstück die Gefahr, dass es durch den Einsturz eines
@@ -16374,13 +14993,11 @@ welcher nach dem § 836 Abs. 1 oder den §§ 837, 838 für den
 eintretenden Schaden verantwortlich sein würde, verlangen, dass er die
 zur Abwendung der Gefahr erforderliche Vorkehrung trifft.
 
-
 ##### § 909 Vertiefung
 
 Ein Grundstück darf nicht in der Weise vertieft werden, dass der Boden
 des Nachbargrundstücks die erforderliche Stütze verliert, es sei denn,
 dass für eine genügende anderweitige Befestigung gesorgt ist.
-
 
 ##### § 910 Überhang
 
@@ -16394,14 +15011,12 @@ nicht innerhalb der Frist erfolgt.
 (2) Dem Eigentümer steht dieses Recht nicht zu, wenn die Wurzeln oder
 die Zweige die Benutzung des Grundstücks nicht beeinträchtigen.
 
-
 ##### § 911 Überfall
 
 Früchte, die von einem Baume oder einem Strauche auf ein
 Nachbargrundstück hinüberfallen, gelten als Früchte dieses
 Grundstücks. Diese Vorschrift findet keine Anwendung, wenn das
 Nachbargrundstück dem öffentlichen Gebrauch dient.
-
 
 ##### § 912 Überbau; Duldungspflicht
 
@@ -16414,7 +15029,6 @@ Grenzüberschreitung Widerspruch erhoben hat.
 (2) Der Nachbar ist durch eine Geldrente zu entschädigen. Für die Höhe
 der Rente ist die Zeit der Grenzüberschreitung maßgebend.
 
-
 ##### § 913 Zahlung der Überbaurente
 
 (1) Die Rente für den Überbau ist dem jeweiligen Eigentümer des
@@ -16422,7 +15036,6 @@ Nachbargrundstücks von dem jeweiligen Eigentümer des anderen
 Grundstücks zu entrichten.
 
 (2) Die Rente ist jährlich im Voraus zu entrichten.
-
 
 ##### § 914 Rang, Eintragung und Erlöschen der Rente
 
@@ -16438,7 +15051,6 @@ ist die Eintragung erforderlich.
 zugunsten des jeweiligen Eigentümers eines Grundstücks bestehende
 Reallast gelten.
 
-
 ##### § 915 Abkauf
 
 (1) Der Rentenberechtigte kann jederzeit verlangen, dass der
@@ -16451,13 +15063,11 @@ Vorschriften über den Kauf.
 (2) Für die Zeit bis zur Übertragung des Eigentums ist die Rente
 fortzuentrichten.
 
-
 ##### § 916 Beeinträchtigung von Erbbaurecht oder Dienstbarkeit
 
 Wird durch den Überbau ein Erbbaurecht oder eine Dienstbarkeit an dem
 Nachbargrundstück beeinträchtigt, so finden zugunsten des Berechtigten
 die Vorschriften der §§ 912 bis 914 entsprechende Anwendung.
-
 
 ##### § 917 Notweg
 
@@ -16473,7 +15083,6 @@ bestimmt.
 eine Geldrente zu entschädigen. Die Vorschriften des § 912 Abs. 2 Satz
 2 und der §§ 913, 914, 916 finden entsprechende Anwendung.
 
-
 ##### § 918 Ausschluss des Notwegrechts
 
 (1) Die Verpflichtung zur Duldung des Notwegs tritt nicht ein, wenn
@@ -16487,7 +15096,6 @@ Teils, über welchen die Verbindung bisher stattgefunden hat, den
 Notweg zu dulden. Der Veräußerung eines Teils steht die Veräußerung
 eines von mehreren demselben Eigentümer gehörenden Grundstücken
 gleich.
-
 
 ##### § 919 Grenzabmarkung
 
@@ -16504,7 +15112,6 @@ Ortsüblichkeit.
 Teilen zu tragen, sofern nicht aus einem zwischen ihnen bestehenden
 Rechtsverhältnis sich ein anderes ergibt.
 
-
 ##### § 920 Grenzverwirrung
 
 (1) Lässt sich im Falle einer Grenzverwirrung die richtige Grenze
@@ -16518,7 +15125,6 @@ insbesondere mit der feststehenden Größe der Grundstücke, nicht
 übereinstimmt, ist die Grenze so zu ziehen, wie es unter
 Berücksichtigung dieser Umstände der Billigkeit entspricht.
 
-
 ##### § 921 Gemeinschaftliche Benutzung von Grenzanlagen
 
 Werden zwei Grundstücke durch einen Zwischenraum, Rain, Winkel, einen
@@ -16528,7 +15134,6 @@ vermutet, dass die Eigentümer der Grundstücke zur Benutzung der
 Einrichtung gemeinschaftlich berechtigt seien, sofern nicht äußere
 Merkmale darauf hinweisen, dass die Einrichtung einem der Nachbarn
 allein gehört.
-
 
 ##### § 922 Art der Benutzung und Unterhaltung
 
@@ -16541,7 +15146,6 @@ tragen. Solange einer der Nachbarn an dem Fortbestand der Einrichtung
 ein Interesse hat, darf sie nicht ohne seine Zustimmung beseitigt oder
 geändert werden. Im Übrigen bestimmt sich das Rechtsverhältnis
 zwischen den Nachbarn nach den Vorschriften über die Gemeinschaft.
-
 
 ##### § 923 Grenzbaum
 
@@ -16560,17 +15164,13 @@ durch ein anderes zweckmäßiges Grenzzeichen ersetzt werden kann.
 (3) Diese Vorschriften gelten auch für einen auf der Grenze stehenden
 Strauch.
 
-
 ##### § 924 Unverjährbarkeit nachbarrechtlicher Ansprüche
 
 Die Ansprüche, die sich aus den §§ 907 bis 909, 915, dem § 917 Abs. 1,
 dem § 918 Abs. 2, den §§ 919, 920 und dem § 923 Abs. 2 ergeben,
 unterliegen nicht der Verjährung.
 
-
 #### Titel 2 - Erwerb und Verlust des Eigentums an Grundstücken
-
-
 
 ##### § 925 Auflassung
 
@@ -16585,13 +15185,11 @@ einem rechtskräftig bestätigten Insolvenzplan erklärt werden.
 (2) Eine Auflassung, die unter einer Bedingung oder einer
 Zeitbestimmung erfolgt, ist unwirksam.
 
-
 ##### § 925a Urkunde über Grundgeschäft
 
 Die Erklärung einer Auflassung soll nur entgegengenommen werden, wenn
 die nach § 311b Abs. 1 Satz 1 erforderliche Urkunde über den Vertrag
 vorgelegt oder gleichzeitig errichtet wird.
-
 
 ##### § 926 Zubehör des Grundstücks
 
@@ -16607,7 +15205,6 @@ Zubehörstücken, die dem Veräußerer nicht gehören oder mit Rechten
 Dritter belastet sind, so finden die Vorschriften der §§ 932 bis 936
 Anwendung; für den guten Glauben des Erwerbers ist die Zeit der
 Erlangung des Besitzes maßgebend.
-
 
 ##### § 927 Aufgebotsverfahren
 
@@ -16630,7 +15227,6 @@ Eigentümer oder wegen des Eigentums eines Dritten ein Widerspruch
 gegen die Richtigkeit des Grundbuchs eingetragen worden, so wirkt der
 Ausschließungsbeschluss nicht gegen den Dritten.
 
-
 ##### § 928 Aufgabe des Eigentums, Aneignung des Fiskus
 
 (1) Das Eigentum an einem Grundstück kann dadurch aufgegeben werden,
@@ -16642,14 +15238,9 @@ Fiskus des Landes zu, in dem das Grundstück liegt. Der Fiskus erwirbt
 das Eigentum dadurch, dass er sich als Eigentümer in das Grundbuch
 eintragen lässt.
 
-
 #### Titel 3 - Erwerb und Verlust des Eigentums an beweglichen Sachen
 
-
-
 ##### Untertitel 1 - Übertragung
-
-
 
 ###### § 929 Einigung und Übergabe
 
@@ -16658,7 +15249,6 @@ erforderlich, dass der Eigentümer die Sache dem Erwerber übergibt und
 beide darüber einig sind, dass das Eigentum übergehen soll. Ist der
 Erwerber im Besitz der Sache, so genügt die Einigung über den Übergang
 des Eigentums.
-
 
 ###### § 929a Einigung bei nicht eingetragenem Seeschiff
 
@@ -16671,7 +15261,6 @@ soll.
 (2) Jeder Teil kann verlangen, dass ihm auf seine Kosten eine
 öffentlich beglaubigte Urkunde über die Veräußerung erteilt wird.
 
-
 ###### § 930 Besitzkonstitut
 
 Ist der Eigentümer im Besitz der Sache, so kann die Übergabe dadurch
@@ -16679,13 +15268,11 @@ ersetzt werden, dass zwischen ihm und dem Erwerber ein
 Rechtsverhältnis vereinbart wird, vermöge dessen der Erwerber den
 mittelbaren Besitz erlangt.
 
-
 ###### § 931 Abtretung des Herausgabeanspruchs
 
 Ist ein Dritter im Besitz der Sache, so kann die Übergabe dadurch
 ersetzt werden, dass der Eigentümer dem Erwerber den Anspruch auf
 Herausgabe der Sache abtritt.
-
 
 ###### § 932 Gutgläubiger Erwerb vom Nichtberechtigten
 
@@ -16700,7 +15287,6 @@ von dem Veräußerer erlangt hatte.
 infolge grober Fahrlässigkeit unbekannt ist, dass die Sache nicht dem
 Veräußerer gehört.
 
-
 ###### § 932a Gutgläubiger Erwerb nicht eingetragener Seeschiffe
 
 Gehört ein nach § 929a veräußertes Schiff nicht dem Veräußerer, so
@@ -16710,14 +15296,12 @@ Glauben ist; ist ein Anteil an einem Schiff Gegenstand der
 Veräußerung, so tritt an die Stelle der Übergabe die Einräumung des
 Mitbesitzes an dem Schiff.
 
-
 ###### § 933 Gutgläubiger Erwerb bei Besitzkonstitut
 
 Gehört eine nach § 930 veräußerte Sache nicht dem Veräußerer, so wird
 der Erwerber Eigentümer, wenn ihm die Sache von dem Veräußerer
 übergeben wird, es sei denn, dass er zu dieser Zeit nicht in gutem
 Glauben ist.
-
 
 ###### § 934 Gutgläubiger Erwerb bei Abtretung des Herausgabeanspruchs
 
@@ -16726,7 +15310,6 @@ der Erwerber, wenn der Veräußerer mittelbarer Besitzer der Sache ist,
 mit der Abtretung des Anspruchs, anderenfalls dann Eigentümer, wenn er
 den Besitz der Sache von dem Dritten erlangt, es sei denn, dass er zur
 Zeit der Abtretung oder des Besitzerwerbs nicht in gutem Glauben ist.
-
 
 ###### § 935 Kein gutgläubiger Erwerb von abhanden gekommenen Sachen
 
@@ -16740,7 +15323,6 @@ Besitzer abhanden gekommen war.
 Inhaberpapiere sowie auf Sachen, die im Wege öffentlicher
 Versteigerung oder in einer Versteigerung nach § 979 Absatz 1a
 veräußert werden.
-
 
 ###### § 936 Erlöschen von Rechten Dritter
 
@@ -16760,10 +15342,7 @@ Glauben ist.
 (3) Steht im Falle des § 931 das Recht dem dritten Besitzer zu, so
 erlischt es auch dem gutgläubigen Erwerber gegenüber nicht.
 
-
 ##### Untertitel 2 - Ersitzung
-
-
 
 ###### § 937 Voraussetzungen, Ausschluss bei Kenntnis
 
@@ -16774,13 +15353,11 @@ das Eigentum (Ersitzung).
 des Eigenbesitzes nicht in gutem Glauben ist oder wenn er später
 erfährt, dass ihm das Eigentum nicht zusteht.
 
-
 ###### § 938 Vermutung des Eigenbesitzes
 
 Hat jemand eine Sache am Anfang und am Ende eines Zeitraums im
 Eigenbesitz gehabt, so wird vermutet, dass sein Eigenbesitz auch in
 der Zwischenzeit bestanden habe.
-
 
 ###### § 939 Hemmung der Ersitzung
 
@@ -16795,7 +15372,6 @@ desjenigen ein, welcher sie herbeiführt.
 Herausgabeanspruchs nach den §§ 205 bis 207 oder ihr Ablauf nach den
 §§ 210 und 211 gehemmt ist.
 
-
 ###### § 940 Unterbrechung durch Besitzverlust
 
 (1) Die Ersitzung wird durch den Verlust des Eigenbesitzes
@@ -16806,13 +15382,11 @@ den Eigenbesitz ohne seinen Willen verloren und ihn binnen Jahresfrist
 oder mittels einer innerhalb dieser Frist erhobenen Klage
 wiedererlangt hat.
 
-
 ###### § 941 Unterbrechung durch Vollstreckungshandlung
 
 Die Ersitzung wird durch Vornahme oder Beantragung einer gerichtlichen
 oder behördlichen Vollstreckungshandlung unterbrochen. § 212 Abs. 2
 und 3 gilt entsprechend.
-
 
 ###### § 942 Wirkung der Unterbrechung
 
@@ -16820,19 +15394,16 @@ Wird die Ersitzung unterbrochen, so kommt die bis zur Unterbrechung
 verstrichene Zeit nicht in Betracht; eine neue Ersitzung kann erst
 nach der Beendigung der Unterbrechung beginnen.
 
-
 ###### § 943 Ersitzung bei Rechtsnachfolge
 
 Gelangt die Sache durch Rechtsnachfolge in den Eigenbesitz eines
 Dritten, so kommt die während des Besitzes des Rechtsvorgängers
 verstrichene Ersitzungszeit dem Dritten zugute.
 
-
 ###### § 944 Erbschaftsbesitzer
 
 Die Ersitzungszeit, die zugunsten eines Erbschaftsbesitzers
 verstrichen ist, kommt dem Erben zustatten.
-
 
 ###### § 945 Erlöschen von Rechten Dritter
 
@@ -16844,17 +15415,13 @@ später erfährt. Die Ersitzungsfrist muss auch in Ansehung des Rechts
 des Dritten verstrichen sein; die Vorschriften der §§ 939 bis 944
 finden entsprechende Anwendung.
 
-
 ##### Untertitel 3 - Verbindung, Vermischung, Verarbeitung
-
-
 
 ###### § 946 Verbindung mit einem Grundstück
 
 Wird eine bewegliche Sache mit einem Grundstück dergestalt verbunden,
 dass sie wesentlicher Bestandteil des Grundstücks wird, so erstreckt
 sich das Eigentum an dem Grundstück auf diese Sache.
-
 
 ###### § 947 Verbindung mit beweglichen Sachen
 
@@ -16867,7 +15434,6 @@ zur Zeit der Verbindung haben.
 (2) Ist eine der Sachen als die Hauptsache anzusehen, so erwirbt ihr
 Eigentümer das Alleineigentum.
 
-
 ###### § 948 Vermischung
 
 (1) Werden bewegliche Sachen miteinander untrennbar vermischt oder
@@ -16878,7 +15444,6 @@ Anwendung.
 vermischten oder vermengten Sachen mit unverhältnismäßigen Kosten
 verbunden sein würde.
 
-
 ###### § 949 Erlöschen von Rechten Dritter
 
 Erlischt nach den §§ 946 bis 948 das Eigentum an einer Sache, so
@@ -16887,7 +15452,6 @@ der Eigentümer der belasteten Sache Miteigentum, so bestehen die
 Rechte an dem Anteil fort, der an die Stelle der Sache tritt. Wird der
 Eigentümer der belasteten Sache Alleineigentümer, so erstrecken sich
 die Rechte auf die hinzutretende Sache.
-
 
 ###### § 950 Verarbeitung
 
@@ -16900,7 +15464,6 @@ auch das Schreiben, Zeichnen, Malen, Drucken, Gravieren oder eine
 
 (2) Mit dem Erwerb des Eigentums an der neuen Sache erlöschen die an
 dem Stoffe bestehenden Rechte.
-
 
 ###### § 951 Entschädigung für Rechtsverlust
 
@@ -16918,7 +15481,6 @@ das Wegnahmerecht des Besitzers gegenüber dem Eigentümer geltenden
 Vorschriften auch dann zulässig, wenn die Verbindung nicht von dem
 Besitzer der Hauptsache bewirkt worden ist.
 
-
 ###### § 952 Eigentum an Schuldurkunden
 
 (1) Das Eigentum an dem über eine Forderung ausgestellten Schuldschein
@@ -16929,10 +15491,7 @@ erstreckt sich auf den Schuldschein.
 Leistung gefordert werden kann, insbesondere für Hypotheken-,
 Grundschuld- und Rentenschuldbriefe.
 
-
 ##### Untertitel 4 - Erwerb von Erzeugnissen und sonstigen Bestandteilen einer Sache
-
-
 
 ###### § 953 Eigentum an getrennten Erzeugnissen und Bestandteilen
 
@@ -16940,14 +15499,12 @@ Erzeugnisse und sonstige Bestandteile einer Sache gehören auch nach
 der Trennung dem Eigentümer der Sache, soweit sich nicht aus den §§
 954 bis 957 ein anderes ergibt.
 
-
 ###### § 954 Erwerb durch dinglich Berechtigten
 
 Wer vermöge eines Rechts an einer fremden Sache befugt ist, sich
 Erzeugnisse oder sonstige Bestandteile der Sache anzueignen, erwirbt
 das Eigentum an ihnen, unbeschadet der Vorschriften der §§ 955 bis
 957, mit der Trennung.
-
 
 ###### § 955 Erwerb durch gutgläubigen Eigenbesitzer
 
@@ -16966,7 +15523,6 @@ Zwecke der Ausübung eines Nutzungsrechts an ihr besitzt.
 (3) Auf den Eigenbesitz und den ihm gleichgestellten Besitz findet die
 Vorschrift des § 940 Abs. 2 entsprechende Anwendung.
 
-
 ###### § 956 Erwerb durch persönlich Berechtigten
 
 (1) Gestattet der Eigentümer einem anderen, sich Erzeugnisse oder
@@ -16981,7 +15537,6 @@ Sache befindet.
 sondern von einem anderen ausgeht, dem Erzeugnisse oder sonstige
 Bestandteile einer Sache nach der Trennung gehören.
 
-
 ###### § 957 Gestattung durch den Nichtberechtigten
 
 Die Vorschrift des § 956 findet auch dann Anwendung, wenn derjenige,
@@ -16991,10 +15546,7 @@ ist, es sei denn, dass der andere, falls ihm der Besitz der Sache
 des Besitzes der Erzeugnisse oder der sonstigen Bestandteile nicht in
 gutem Glauben ist oder vor der Trennung den Rechtsmangel erfährt.
 
-
 ##### Untertitel 5 - Aneignung
-
-
 
 ###### § 958 Eigentumserwerb an beweglichen herrenlosen Sachen
 
@@ -17005,12 +15557,10 @@ das Eigentum an der Sache.
 verboten ist oder wenn durch die Besitzergreifung das Aneignungsrecht
 eines anderen verletzt wird.
 
-
 ###### § 959 Aufgabe des Eigentums
 
 Eine bewegliche Sache wird herrenlos, wenn der Eigentümer in der
 Absicht, auf das Eigentum zu verzichten, den Besitz der Sache aufgibt.
-
 
 ###### § 960 Wilde Tiere
 
@@ -17025,13 +15575,11 @@ oder wenn er die Verfolgung aufgibt.
 (3) Ein gezähmtes Tier wird herrenlos, wenn es die Gewohnheit ablegt,
 an den ihm bestimmten Ort zurückzukehren.
 
-
 ###### § 961 Eigentumsverlust bei Bienenschwärmen
 
 Zieht ein Bienenschwarm aus, so wird er herrenlos, wenn nicht der
 Eigentümer ihn unverzüglich verfolgt oder wenn der Eigentümer die
 Verfolgung aufgibt.
-
 
 ###### § 962 Verfolgungsrecht des Eigentümers
 
@@ -17041,14 +15589,12 @@ Bienenwohnung eingezogen, so darf der Eigentümer des Schwarmes zum
 Zwecke des Einfangens die Wohnung öffnen und die Waben herausnehmen
 oder herausbrechen. Er hat den entstehenden Schaden zu ersetzen.
 
-
 ###### § 963 Vereinigung von Bienenschwärmen
 
 Vereinigen sich ausgezogene Bienenschwärme mehrerer Eigentümer, so
 werden die Eigentümer, welche ihre Schwärme verfolgt haben,
 Miteigentümer des eingefangenen Gesamtschwarms; die Anteile bestimmen
 sich nach der Zahl der verfolgten Schwärme.
-
 
 ###### § 964 Vermischung von Bienenschwärmen
 
@@ -17058,10 +15604,7 @@ an den Bienen, mit denen die Wohnung besetzt war, auf den eingezogenen
 Schwarm. Das Eigentum und die sonstigen Rechte an dem eingezogenen
 Schwarme erlöschen.
 
-
 ##### Untertitel 6 - Fund
-
-
 
 ###### § 965 Anzeigepflicht des Finders
 
@@ -17075,7 +15618,6 @@ die Ermittelung der Empfangsberechtigten erheblich sein können,
 unverzüglich der zuständigen Behörde anzuzeigen. Ist die Sache nicht
 mehr als zehn Euro wert, so bedarf es der Anzeige nicht.
 
-
 ###### § 966 Verwahrungspflicht
 
 (1) Der Finder ist zur Verwahrung der Sache verpflichtet.
@@ -17086,24 +15628,20 @@ mit unverhältnismäßigen Kosten verbunden, so hat der Finder die Sache
 zuständigen Behörde Anzeige zu machen. Der Erlös tritt an die Stelle
 der Sache.
 
-
 ###### § 967 Ablieferungspflicht
 
 Der Finder ist berechtigt und auf Anordnung der zuständigen Behörde
 verpflichtet, die Sache oder den Versteigerungserlös an die zuständige
 Behörde abzuliefern.
 
-
 ###### § 968 Umfang der Haftung
 
 Der Finder hat nur Vorsatz und grobe Fahrlässigkeit zu vertreten.
-
 
 ###### § 969 Herausgabe an den Verlierer
 
 Der Finder wird durch die Herausgabe der Sache an den Verlierer auch
 den sonstigen Empfangsberechtigten gegenüber befreit.
-
 
 ###### § 970 Ersatz von Aufwendungen
 
@@ -17111,7 +15649,6 @@ Macht der Finder zum Zwecke der Verwahrung oder Erhaltung der Sache
 oder zum Zwecke der Ermittlung eines Empfangsberechtigten
 Aufwendungen, die er den Umständen nach für erforderlich halten darf,
 so kann er von dem Empfangsberechtigten Ersatz verlangen.
-
 
 ###### § 971 Finderlohn
 
@@ -17124,13 +15661,11 @@ Wert, so ist der Finderlohn nach billigem Ermessen zu bestimmen.
 (2) Der Anspruch ist ausgeschlossen, wenn der Finder die
 Anzeigepflicht verletzt oder den Fund auf Nachfrage verheimlicht.
 
-
 ###### § 972 Zurückbehaltungsrecht des Finders
 
 Auf die in den §§ 970, 971 bestimmten Ansprüche finden die für die
 Ansprüche des Besitzers gegen den Eigentümer wegen Verwendungen
 geltenden Vorschriften der §§ 1000 bis 1002 entsprechende Anwendung.
-
 
 ###### § 973 Eigentumserwerb des Finders
 
@@ -17147,7 +15682,6 @@ nicht, wenn er den Fund auf Nachfrage verheimlicht. Die Anmeldung
 eines Rechts bei der zuständigen Behörde steht dem Erwerb des
 Eigentums nicht entgegen.
 
-
 ###### § 974 Eigentumserwerb nach Verschweigung
 
 Sind vor dem Ablauf der sechsmonatigen Frist Empfangsberechtigte dem
@@ -17161,7 +15695,6 @@ erlöschen die sonstigen Rechte an der Sache, wenn nicht die
 Empfangsberechtigten sich rechtzeitig zu der Befriedigung der
 Ansprüche bereit erklären.
 
-
 ###### § 975 Rechte des Finders nach Ablieferung
 
 Durch die Ablieferung der Sache oder des Versteigerungserlöses an die
@@ -17170,7 +15703,6 @@ die zuständige Behörde die Sache versteigern, so tritt der Erlös an
 die Stelle der Sache. Die zuständige Behörde darf die Sache oder den
 Erlös nur mit Zustimmung des Finders einem Empfangsberechtigten
 herausgeben.
-
 
 ###### § 976 Eigentumserwerb der Gemeinde
 
@@ -17185,7 +15717,6 @@ Gemeinde des Fundorts über, wenn nicht der Finder vor dem Ablauf einer
 ihm von der zuständigen Behörde bestimmten Frist die Herausgabe
 verlangt.
 
-
 ###### § 977 Bereicherungsanspruch
 
 Wer infolge der Vorschriften der §§ 973, 974, 976 einen Rechtsverlust
@@ -17196,7 +15727,6 @@ Herausgabe einer ungerechtfertigten Bereicherung fordern. Der Anspruch
 erlischt mit dem Ablauf von drei Jahren nach dem Übergang des
 Eigentums auf den Finder oder die Gemeinde, wenn nicht die
 gerichtliche Geltendmachung vorher erfolgt.
-
 
 ###### § 978 Fund in öffentlicher Behörde oder Verkehrsanstalt
 
@@ -17225,7 +15755,6 @@ Absatz 2 Satz 1 bis 3 gegen diesen. Der Anspruch erlischt mit dem
 Ablauf von drei Jahren nach seiner Entstehung gegen den in Satz 1
 bezeichneten Berechtigten.
 
-
 ###### § 979 Verwertung; Verordnungsermächtigung
 
 (1) Die Behörde oder die Verkehrsanstalt kann die an sie abgelieferte
@@ -17253,7 +15782,6 @@ zuständige Stelle eines anderen Landes vereinbaren.
 
 (2) Der Erlös tritt an die Stelle der Sache.
 
-
 ###### § 980 Öffentliche Bekanntmachung des Fundes
 
 (1) Die Versteigerung ist erst zulässig, nachdem die
@@ -17265,7 +15793,6 @@ eine Anmeldung rechtzeitig erfolgt ist.
 (2) Die Bekanntmachung ist nicht erforderlich, wenn der Verderb der
 Sache zu besorgen oder die Aufbewahrung mit unverhältnismäßigen Kosten
 verbunden ist.
-
 
 ###### § 981 Empfang des Versteigerungserlöses
 
@@ -17289,7 +15816,6 @@ wenn gefundenes Geld abgeliefert worden ist.
 
 (3) Die Kosten werden von dem herauszugebenden Betrag abgezogen.
 
-
 ###### § 982 Ausführungsvorschriften
 
 Die in den §§ 980, 981 vorgeschriebene Bekanntmachung erfolgt bei
@@ -17299,7 +15825,6 @@ Bundesrat,              in den übrigen Fällen nach den von der
 Zentralbehörde des
 Bundesstaats              erlassenen Vorschriften.
 
-
 ###### § 983 Unanbringbare Sachen bei Behörden
 
 Ist eine öffentliche Behörde im Besitz einer Sache, zu deren
@@ -17307,7 +15832,6 @@ Herausgabe sie verpflichtet ist, ohne dass die Verpflichtung auf
 Vertrag beruht, so finden, wenn der Behörde der Empfangsberechtigte
 oder dessen Aufenthalt unbekannt ist, die Vorschriften der §§ 979 bis
 982 entsprechende Anwendung.
-
 
 ###### § 984 Schatzfund
 
@@ -17317,16 +15841,12 @@ der Entdeckung in Besitz genommen, so wird das Eigentum zur Hälfte von
 dem Entdecker, zur Hälfte von dem Eigentümer der Sache erworben, in
 welcher der Schatz verborgen war.
 
-
 #### Titel 4 - Ansprüche aus dem Eigentum
-
-
 
 ##### § 985 Herausgabeanspruch
 
 Der Eigentümer kann von dem Besitzer die Herausgabe der Sache
 verlangen.
-
 
 ##### § 986 Einwendungen des Besitzers
 
@@ -17344,7 +15864,6 @@ Anspruchs auf Herausgabe veräußert worden ist, kann dem neuen
 Eigentümer die Einwendungen entgegensetzen, welche ihm gegen den
 abgetretenen Anspruch zustehen.
 
-
 ##### § 987 Nutzungen nach Rechtshängigkeit
 
 (1) Der Besitzer hat dem Eigentümer die Nutzungen herauszugeben, die
@@ -17355,7 +15874,6 @@ Nutzungen nicht, die er nach den Regeln einer ordnungsmäßigen
 Wirtschaft ziehen könnte, so ist er dem Eigentümer zum Ersatz
 verpflichtet, soweit ihm ein Verschulden zur Last fällt.
 
-
 ##### § 988 Nutzungen des unentgeltlichen Besitzers
 
 Hat ein Besitzer, der die Sache als ihm gehörig oder zum Zwecke der
@@ -17365,14 +15883,12 @@ Eigentümer gegenüber zur Herausgabe der Nutzungen, die er vor dem
 Eintritt der Rechtshängigkeit zieht, nach den Vorschriften über die
 Herausgabe einer ungerechtfertigten Bereicherung verpflichtet.
 
-
 ##### § 989 Schadensersatz nach Rechtshängigkeit
 
 Der Besitzer ist von dem Eintritt der Rechtshängigkeit an dem
 Eigentümer für den Schaden verantwortlich, der dadurch entsteht, dass
 infolge seines Verschuldens die Sache verschlechtert wird, untergeht
 oder aus einem anderen Grunde von ihm nicht herausgegeben werden kann.
-
 
 ##### § 990 Haftung des Besitzers bei Kenntnis
 
@@ -17384,7 +15900,6 @@ Kenntnis an.
 
 (2) Eine weitergehende Haftung des Besitzers wegen Verzugs bleibt
 unberührt.
-
 
 ##### § 991 Haftung des Besitzmittlers
 
@@ -17399,13 +15914,11 @@ hat er gleichwohl von dem Erwerb an den im § 989 bezeichneten Schaden
 dem Eigentümer gegenüber insoweit zu vertreten, als er dem mittelbaren
 Besitzer verantwortlich ist.
 
-
 ##### § 992 Haftung des deliktischen Besitzers
 
 Hat sich der Besitzer durch verbotene Eigenmacht oder durch eine
 Straftat den Besitz verschafft, so haftet er dem Eigentümer nach den
 Vorschriften über den Schadensersatz wegen unerlaubter Handlungen.
-
 
 ##### § 993 Haftung des redlichen Besitzers
 
@@ -17419,7 +15932,6 @@ zur Herausgabe von Nutzungen noch zum Schadensersatz verpflichtet.
 (2) Für die Zeit, für welche dem Besitzer die Nutzungen verbleiben,
 findet auf ihn die Vorschrift des § 101 Anwendung.
 
-
 ##### § 994 Notwendige Verwendungen
 
 (1) Der Besitzer kann für die auf die Sache gemachten notwendigen
@@ -17432,7 +15944,6 @@ nach dem Beginn der in § 990 bestimmten Haftung notwendige
 Verwendungen, so bestimmt sich die Ersatzpflicht des Eigentümers nach
 den Vorschriften über die Geschäftsführung ohne Auftrag.
 
-
 ##### § 995 Lasten
 
 Zu den notwendigen Verwendungen im Sinne des § 994 gehören auch die
@@ -17441,7 +15952,6 @@ macht. Für die Zeit, für welche dem Besitzer die Nutzungen verbleiben,
 sind ihm nur die Aufwendungen für solche außerordentliche Lasten zu
 ersetzen, die als auf den Stammwert der Sache gelegt anzusehen sind.
 
-
 ##### § 996 Nützliche Verwendungen
 
 Für andere als notwendige Verwendungen kann der Besitzer Ersatz nur
@@ -17449,7 +15959,6 @@ insoweit verlangen, als sie vor dem Eintritt der Rechtshängigkeit und
 vor dem Beginn der in § 990 bestimmten Haftung gemacht werden und der
 Wert der Sache durch sie noch zu der Zeit erhöht ist, zu welcher der
 Eigentümer die Sache wiedererlangt.
-
 
 ##### § 997 Wegnahmerecht
 
@@ -17463,7 +15972,6 @@ kann oder die Abtrennung für ihn keinen Nutzen hat oder ihm mindestens
 der Wert ersetzt wird, den der Bestandteil nach der Abtrennung für ihn
 haben würde.
 
-
 ##### § 998 Bestellungskosten bei landwirtschaftlichem Grundstück
 
 Ist ein landwirtschaftliches Grundstück herauszugeben, so hat der
@@ -17472,7 +15980,6 @@ jedoch nach den Regeln einer ordnungsmäßigen Wirtschaft vor dem Ende
 des Wirtschaftsjahrs zu trennenden Früchte verwendet hat, insoweit zu
 ersetzen, als sie einer ordnungsmäßigen Wirtschaft entsprechen und den
 Wert dieser Früchte nicht übersteigen.
-
 
 ##### § 999 Ersatz von Verwendungen des Rechtsvorgängers
 
@@ -17485,14 +15992,12 @@ Sache herauszugeben hätte.
 erstreckt sich auch auf die Verwendungen, die gemacht worden sind,
 bevor er das Eigentum erworben hat.
 
-
 ##### § 1000 Zurückbehaltungsrecht des Besitzers
 
 Der Besitzer kann die Herausgabe der Sache verweigern, bis er wegen
 der ihm zu ersetzenden Verwendungen befriedigt wird. Das
 Zurückbehaltungsrecht steht ihm nicht zu, wenn er die Sache durch eine
 vorsätzlich begangene unerlaubte Handlung erlangt hat.
-
 
 ##### § 1001 Klage auf Verwendungsersatz
 
@@ -17504,7 +16009,6 @@ wiedererlangte Sache zurückgibt. Die Genehmigung gilt als erteilt,
 wenn der Eigentümer die ihm von dem Besitzer unter Vorbehalt des
 Anspruchs angebotene Sache annimmt.
 
-
 ##### § 1002 Erlöschen des Verwendungsanspruchs
 
 (1) Gibt der Besitzer die Sache dem Eigentümer heraus, so erlischt der
@@ -17515,7 +16019,6 @@ oder der Eigentümer die Verwendungen genehmigt.
 
 (2) Auf diese Fristen finden die für die Verjährung geltenden
 Vorschriften der §§ 206, 210, 211 entsprechende Anwendung.
-
 
 ##### § 1003 Befriedigungsrecht des Besitzers
 
@@ -17536,7 +16039,6 @@ aufgefordert hat und die Frist verstrichen ist; das Recht auf
 Befriedigung aus der Sache ist ausgeschlossen, wenn die Genehmigung
 rechtzeitig erfolgt.
 
-
 ##### § 1004 Beseitigungs- und Unterlassungsanspruch
 
 (1) Wird das Eigentum in anderer Weise als durch Entziehung oder
@@ -17548,13 +16050,11 @@ Unterlassung klagen.
 (2) Der Anspruch ist ausgeschlossen, wenn der Eigentümer zur Duldung
 verpflichtet ist.
 
-
 ##### § 1005 Verfolgungsrecht
 
 Befindet sich eine Sache auf einem Grundstück, das ein anderer als der
 Eigentümer der Sache besitzt, so steht diesem gegen den Besitzer des
 Grundstücks der in § 867 bestimmte Anspruch zu.
-
 
 ##### § 1006 Eigentumsvermutung für Besitzer
 
@@ -17569,7 +16069,6 @@ der Dauer seines Besitzes Eigentümer der Sache gewesen sei.
 
 (3) Im Falle eines mittelbaren Besitzes gilt die Vermutung für den
 mittelbaren Besitzer.
-
 
 ##### § 1007 Ansprüche des früheren Besitzers, Ausschluss bei Kenntnis
 
@@ -17589,16 +16088,12 @@ Erwerb des Besitzes nicht in gutem Glauben war oder wenn er den Besitz
 aufgegeben hat. Im Übrigen finden die Vorschriften der §§ 986 bis 1003
 entsprechende Anwendung.
 
-
 #### Titel 5 - Miteigentum
-
-
 
 ##### § 1008 Miteigentum nach Bruchteilen
 
 Steht das Eigentum an einer Sache mehreren nach Bruchteilen zu, so
 gelten die Vorschriften der §§ 1009 bis 1011.
-
 
 ##### § 1009 Belastung zugunsten eines Miteigentümers
 
@@ -17611,7 +16106,6 @@ eines anderen Grundstücks zugunsten der jeweiligen Eigentümer des
 gemeinschaftlichen Grundstücks wird nicht dadurch ausgeschlossen, dass
 das andere Grundstück einem Miteigentümer des gemeinschaftlichen
 Grundstücks gehört.
-
 
 ##### § 1010 Sondernachfolger eines Miteigentümers
 
@@ -17626,25 +16120,17 @@ Anteils im Grundbuch eingetragen ist.
 Sondernachfolger eines Miteigentümers nur geltend gemacht werden, wenn
 sie im Grundbuch eingetragen sind.
 
-
 ##### § 1011 Ansprüche aus dem Miteigentum
 
 Jeder Miteigentümer kann die Ansprüche aus dem Eigentum Dritten
 gegenüber in Ansehung der ganzen Sache geltend machen, den Anspruch
 auf Herausgabe jedoch nur in Gemäßheit des § 432.
 
-
 ##### (XXXX) §§ 1012 bis 1017 (weggefallen)
-
-
 
 ### Abschnitt 4 - Dienstbarkeiten
 
-
-
 #### Titel 1 - Grunddienstbarkeiten
-
-
 
 ##### § 1018 Gesetzlicher Inhalt der Grunddienstbarkeit
 
@@ -17656,14 +16142,12 @@ Ausübung eines Rechts ausgeschlossen ist, das sich aus dem Eigentum an
 dem belasteten Grundstück dem anderen Grundstück gegenüber ergibt
 (Grunddienstbarkeit).
 
-
 ##### § 1019 Vorteil des herrschenden Grundstücks
 
 Eine Grunddienstbarkeit kann nur in einer Belastung bestehen, die für
 die Benutzung des Grundstücks des Berechtigten Vorteil bietet. Über
 das sich hieraus ergebende Maß hinaus kann der Inhalt der
 Dienstbarkeit nicht erstreckt werden.
-
 
 ##### § 1020 Schonende Ausübung
 
@@ -17672,7 +16156,6 @@ Interesse des Eigentümers des belasteten Grundstücks tunlichst zu
 schonen. Hält er zur Ausübung der Dienstbarkeit auf dem belasteten
 Grundstück eine Anlage, so hat er sie in ordnungsmäßigem Zustand zu
 erhalten, soweit das Interesse des Eigentümers es erfordert.
-
 
 ##### § 1021 Vereinbarte Unterhaltungspflicht
 
@@ -17687,7 +16170,6 @@ Benutzungsrecht des Eigentümers erforderlich ist.
 (2) Auf eine solche Unterhaltungspflicht finden die Vorschriften über
 die Reallasten entsprechende Anwendung.
 
-
 ##### § 1022 Anlagen auf baulichen Anlagen
 
 Besteht die Grunddienstbarkeit in dem Recht, auf einer baulichen
@@ -17696,7 +16178,6 @@ hat, wenn nicht ein anderes bestimmt ist, der Eigentümer des
 belasteten Grundstücks seine Anlage zu unterhalten, soweit das
 Interesse des Berechtigten es erfordert. Die Vorschrift des § 1021
 Abs. 2 gilt auch für diese Unterhaltungspflicht.
-
 
 ##### § 1023 Verlegung der Ausübung
 
@@ -17712,7 +16193,6 @@ Rechtsgeschäft bestimmt ist.
 (2) Das Recht auf die Verlegung kann nicht durch Rechtsgeschäft
 ausgeschlossen oder beschränkt werden.
 
-
 ##### § 1024 Zusammentreffen mehrerer Nutzungsrechte
 
 Trifft eine Grunddienstbarkeit mit einer anderen Grunddienstbarkeit
@@ -17721,7 +16201,6 @@ zusammen, dass die Rechte nebeneinander nicht oder nicht vollständig
 ausgeübt werden können, und haben die Rechte gleichen Rang, so kann
 jeder Berechtigte eine den Interessen aller Berechtigten nach billigem
 Ermessen entsprechende Regelung der Ausübung verlangen.
-
 
 ##### § 1025 Teilung des herrschenden Grundstücks
 
@@ -17732,7 +16211,6 @@ Eigentümer des belasteten Grundstücks nicht beschwerlicher wird.
 Gereicht die Dienstbarkeit nur einem der Teile zum Vorteil, so
 erlischt sie für die übrigen Teile.
 
-
 ##### § 1026 Teilung des dienenden Grundstücks
 
 Wird das belastete Grundstück geteilt, so werden, wenn die Ausübung
@@ -17740,12 +16218,10 @@ der Grunddienstbarkeit auf einen bestimmten Teil des belasteten
 Grundstücks beschränkt ist, die Teile, welche außerhalb des Bereichs
 der Ausübung liegen, von der Dienstbarkeit frei.
 
-
 ##### § 1027 Beeinträchtigung der Grunddienstbarkeit
 
 Wird eine Grunddienstbarkeit beeinträchtigt, so stehen dem
 Berechtigten die in § 1004 bestimmten Rechte zu.
-
 
 ##### § 1028 Verjährung
 
@@ -17759,7 +16235,6 @@ Widerspruch steht.
 
 (2) Die Vorschrift des § 892 findet keine Anwendung.
 
-
 ##### § 1029 Besitzschutz des Rechtsbesitzers
 
 Wird der Besitzer eines Grundstücks in der Ausübung einer für den
@@ -17768,14 +16243,9 @@ finden die für den Besitzschutz geltenden Vorschriften entsprechende
 Anwendung, soweit die Dienstbarkeit innerhalb eines Jahres vor der
 Störung, sei es auch nur einmal, ausgeübt worden ist.
 
-
 #### Titel 2 - Nießbrauch
 
-
-
 ##### Untertitel 1 - Nießbrauch an Sachen
-
-
 
 ###### § 1030 Gesetzlicher Inhalt des Nießbrauchs an Sachen
 
@@ -17786,13 +16256,11 @@ der Sache zu ziehen (Nießbrauch).
 (2) Der Nießbrauch kann durch den Ausschluss einzelner Nutzungen
 beschränkt werden.
 
-
 ###### § 1031 Erstreckung auf Zubehör
 
 Mit dem Nießbrauch an einem Grundstück erlangt der Nießbraucher den
 Nießbrauch an dem Zubehör nach den für den Erwerb des Eigentums
 geltenden Vorschriften des § 926.
-
 
 ###### § 1032 Bestellung an beweglichen Sachen
 
@@ -17804,20 +16272,17 @@ bis 936 finden entsprechende Anwendung; in den Fällen des § 936 tritt
 nur die Wirkung ein, dass der Nießbrauch dem Recht des Dritten
 vorgeht.
 
-
 ###### § 1033 Erwerb durch Ersitzung
 
 Der Nießbrauch an einer beweglichen Sache kann durch Ersitzung
 erworben werden. Die für den Erwerb des Eigentums durch Ersitzung
 geltenden Vorschriften finden entsprechende Anwendung.
 
-
 ###### § 1034 Feststellung des Zustands
 
 Der Nießbraucher kann den Zustand der Sache auf seine Kosten durch
 Sachverständige feststellen lassen. Das gleiche Recht steht dem
 Eigentümer zu.
-
 
 ###### § 1035 Nießbrauch an Inbegriff von Sachen; Verzeichnis
 
@@ -17832,7 +16297,6 @@ Beamten oder Notar aufgenommen wird. Die Kosten hat derjenige zu
 tragen und vorzuschießen, welcher die Aufnahme oder die Beglaubigung
 verlangt.
 
-
 ###### § 1036 Besitzrecht; Ausübung des Nießbrauchs
 
 (1) Der Nießbraucher ist zum Besitz der Sache berechtigt.
@@ -17840,7 +16304,6 @@ verlangt.
 (2) Er hat bei der Ausübung des Nutzungsrechts die bisherige
 wirtschaftliche Bestimmung der Sache aufrechtzuerhalten und nach den
 Regeln einer ordnungsmäßigen Wirtschaft zu verfahren.
-
 
 ###### § 1037 Umgestaltung
 
@@ -17851,7 +16314,6 @@ oder wesentlich zu verändern.
 von Steinen, Kies, Sand, Lehm, Ton, Mergel, Torf und sonstigen
 Bodenbestandteilen errichten, sofern nicht die wirtschaftliche
 Bestimmung des Grundstücks dadurch wesentlich verändert wird.
-
 
 ###### § 1038 Wirtschaftsplan für Wald und Bergwerk
 
@@ -17866,7 +16328,6 @@ tragen.
 (2) Das Gleiche gilt, wenn ein Bergwerk oder eine andere auf Gewinnung
 von Bodenbestandteilen gerichtete Anlage Gegenstand des Nießbrauchs
 ist.
-
 
 ###### § 1039 Übermäßige Fruchtziehung
 
@@ -17886,12 +16347,10 @@ verlangt, so fällt die Ersatzpflicht weg, soweit durch den
 ordnungswidrigen oder den übermäßigen Fruchtbezug die dem Nießbraucher
 gebührenden Nutzungen beeinträchtigt werden.
 
-
 ###### § 1040 Schatz
 
 Das Recht des Nießbrauchers erstreckt sich nicht auf den Anteil des
 Eigentümers an einem Schatze, der in der Sache gefunden wird.
-
 
 ###### § 1041 Erhaltung der Sache
 
@@ -17899,7 +16358,6 @@ Der Nießbraucher hat für die Erhaltung der Sache in ihrem
 wirtschaftlichen Bestand zu sorgen. Ausbesserungen und Erneuerungen
 liegen ihm nur insoweit ob, als sie zu der gewöhnlichen Unterhaltung
 der Sache gehören.
-
 
 ###### § 1042 Anzeigepflicht des Nießbrauchers
 
@@ -17910,7 +16368,6 @@ Gefahr erforderlich, so hat der Nießbraucher dem Eigentümer
 unverzüglich Anzeige zu machen. Das Gleiche gilt, wenn sich ein
 Dritter ein Recht an der Sache anmaßt.
 
-
 ###### § 1043 Ausbesserung oder Erneuerung
 
 Nimmt der Nießbraucher eines Grundstücks eine erforderlich gewordene
@@ -17919,7 +16376,6 @@ zu diesem Zwecke innerhalb der Grenzen einer ordnungsmäßigen
 Wirtschaft auch Bestandteile des Grundstücks verwenden, die nicht zu
 den ihm gebührenden Früchten gehören.
 
-
 ###### § 1044 Duldung von Ausbesserungen
 
 Nimmt der Nießbraucher eine erforderlich gewordene Ausbesserung oder
@@ -17927,7 +16383,6 @@ Erneuerung der Sache nicht selbst vor, so hat er dem Eigentümer die
 Vornahme und, wenn ein Grundstück Gegenstand des Nießbrauchs ist, die
 Verwendung der in § 1043 bezeichneten Bestandteile des Grundstücks zu
 gestatten.
-
 
 ###### § 1045 Versicherungspflicht des Nießbrauchers
 
@@ -17942,7 +16397,6 @@ Versicherung zu leistenden Zahlungen dem Nießbraucher für die Dauer
 des Nießbrauchs zur Last, soweit er zur Versicherung verpflichtet sein
 würde.
 
-
 ###### § 1046 Nießbrauch an der Versicherungsforderung
 
 (1) An der Forderung gegen den Versicherer steht dem Nießbraucher der
@@ -17956,7 +16410,6 @@ Beschaffung eines Ersatzes insoweit verwendet wird, als es einer
 ordnungsmäßigen Wirtschaft entspricht. Der Eigentümer kann die
 Verwendung selbst besorgen oder dem Nießbraucher überlassen.
 
-
 ###### § 1047 Lastentragung
 
 Der Nießbraucher ist dem Eigentümer gegenüber verpflichtet, für die
@@ -17967,7 +16420,6 @@ Lasten zu tragen, welche schon zur Zeit der Bestellung des Nießbrauchs
 auf der Sache ruhten, insbesondere die Zinsen der
 Hypothekenforderungen und Grundschulden sowie die auf Grund einer
 Rentenschuld zu entrichtenden Leistungen.
-
 
 ###### § 1048 Nießbrauch an Grundstück mit Inventar
 
@@ -17984,7 +16436,6 @@ Verpflichtung, es bei der Beendigung des Nießbrauchs zum Schätzwert
 zurückzugewähren, so finden die Vorschriften des § 582a entsprechende
 Anwendung.
 
-
 ###### § 1049 Ersatz von Verwendungen
 
 (1) Macht der Nießbraucher Verwendungen auf die Sache, zu denen er
@@ -17995,20 +16446,17 @@ Auftrag.
 (2) Der Nießbraucher ist berechtigt, eine Einrichtung, mit der er die
 Sache versehen hat, wegzunehmen.
 
-
 ###### § 1050 Abnutzung
 
 Veränderungen oder Verschlechterungen der Sache, welche durch die
 ordnungsmäßige Ausübung des Nießbrauchs herbeigeführt werden, hat der
 Nießbraucher nicht zu vertreten.
 
-
 ###### § 1051 Sicherheitsleistung
 
 Wird durch das Verhalten des Nießbrauchers die Besorgnis einer
 erheblichen Verletzung der Rechte des Eigentümers begründet, so kann
 der Eigentümer Sicherheitsleistung verlangen.
-
 
 ###### § 1052 Gerichtliche Verwaltung mangels Sicherheitsleistung
 
@@ -18029,13 +16477,11 @@ kann auch der Eigentümer sein.
 (3) Die Verwaltung ist aufzuheben, wenn die Sicherheit nachträglich
 geleistet wird.
 
-
 ###### § 1053 Unterlassungsklage bei unbefugtem Gebrauch
 
 Macht der Nießbraucher einen Gebrauch von der Sache, zu dem er nicht
 befugt ist, und setzt er den Gebrauch ungeachtet einer Abmahnung des
 Eigentümers fort, so kann der Eigentümer auf Unterlassung klagen.
-
 
 ###### § 1054 Gerichtliche Verwaltung wegen Pflichtverletzung
 
@@ -18043,7 +16489,6 @@ Verletzt der Nießbraucher die Rechte des Eigentümers in erheblichem
 Maße und setzt er das verletzende Verhalten ungeachtet einer Abmahnung
 des Eigentümers fort, so kann der Eigentümer die Anordnung einer
 Verwaltung nach § 1052 verlangen.
-
 
 ###### § 1055 Rückgabepflicht des Nießbrauchers
 
@@ -18054,7 +16499,6 @@ des Nießbrauchs dem Eigentümer zurückzugeben.
 die Vorschriften des § 596 Abs. 1 und des § 596a, bei dem Nießbrauch
 an einem Landgut finden die Vorschriften des § 596 Abs. 1 und der §§
 596a, 596b entsprechende Anwendung.
-
 
 ###### § 1056 Miet- und Pachtverhältnisse bei Beendigung des Nießbrauchs
 
@@ -18075,7 +16519,6 @@ Bestimmung einer angemessenen Frist zur Erklärung darüber
 aufzufordern, ob er von dem Kündigungsrecht Gebrauch mache. Die
 Kündigung kann nur bis zum Ablauf der Frist erfolgen.
 
-
 ###### § 1057 Verjährung der Ersatzansprüche
 
 Die Ersatzansprüche des Eigentümers wegen Veränderungen oder
@@ -18084,19 +16527,16 @@ Ersatz von Verwendungen oder auf Gestattung der Wegnahme einer
 Einrichtung verjähren in sechs Monaten. Die Vorschrift des § 548 Abs.
 1 Satz 2 und 3, Abs. 2 findet entsprechende Anwendung.
 
-
 ###### § 1058 Besteller als Eigentümer
 
 Im Verhältnis zwischen dem Nießbraucher und dem Eigentümer gilt
 zugunsten des Nießbrauchers der Besteller als Eigentümer, es sei denn,
 dass der Nießbraucher weiß, dass der Besteller nicht Eigentümer ist.
 
-
 ###### § 1059 Unübertragbarkeit; Überlassung der Ausübung
 
 Der Nießbrauch ist nicht übertragbar. Die Ausübung des Nießbrauchs
 kann einem anderen überlassen werden.
-
 
 ###### § 1059a Übertragbarkeit bei juristischer Person oder rechtsfähiger Personengesellschaft
 
@@ -18126,12 +16566,10 @@ Maßgabe der folgenden Vorschriften übertragbar:
 (2) Einer juristischen Person steht eine rechtsfähige
 Personengesellschaft gleich.
 
-
 ###### § 1059b Unpfändbarkeit
 
 Ein Nießbrauch kann auf Grund der Vorschrift des § 1059a weder
 gepfändet noch verpfändet noch mit einem Nießbrauch belastet werden.
-
 
 ###### § 1059c Übergang oder Übertragung des Nießbrauchs
 
@@ -18146,7 +16584,6 @@ worden, so wirken sie auch für und gegen den Erwerber.
 Anspruch auf Entschädigung weder für den Eigentümer noch für sonstige
 dinglich Berechtigte begründet.
 
-
 ###### § 1059d Miet- und Pachtverhältnisse bei Übertragung des Nießbrauchs
 
 Hat der bisherige Berechtigte das mit dem Nießbrauch belastete
@@ -18155,13 +16592,11 @@ verpachtet, so sind nach der Übertragung des Nießbrauchs die für den
 Fall der Veräußerung von vermietetem Wohnraum geltenden Vorschriften
 der §§ 566 bis 566e, 567a und 567b entsprechend anzuwenden.
 
-
 ###### § 1059e Anspruch auf Einräumung des Nießbrauchs
 
 Steht ein Anspruch auf Einräumung eines Nießbrauchs einer juristischen
 Person oder einer rechtsfähigen Personengesellschaft zu, so gelten die
 Vorschriften der §§ 1059a bis 1059d entsprechend.
-
 
 ###### § 1060 Zusammentreffen mehrerer Nutzungsrechte
 
@@ -18171,20 +16606,17 @@ Rechte nebeneinander nicht oder nicht vollständig ausgeübt werden
 können, und haben die Rechte gleichen Rang, so findet die Vorschrift
 des § 1024 Anwendung.
 
-
 ###### § 1061 Tod des Nießbrauchers
 
 Der Nießbrauch erlischt mit dem Tode des Nießbrauchers. Steht der
 Nießbrauch einer juristischen Person oder einer rechtsfähigen
 Personengesellschaft zu, so erlischt er mit dieser.
 
-
 ###### § 1062 Erstreckung der Aufhebung auf das Zubehör
 
 Wird der Nießbrauch an einem Grundstück durch Rechtsgeschäft
 aufgehoben, so erstreckt sich die Aufhebung im Zweifel auf den
 Nießbrauch an dem Zubehör.
-
 
 ###### § 1063 Zusammentreffen mit dem Eigentum
 
@@ -18194,20 +16626,17 @@ dem Eigentum in derselben Person zusammentrifft.
 (2) Der Nießbrauch gilt als nicht erloschen, soweit der Eigentümer ein
 rechtliches Interesse an dem Fortbestehen des Nießbrauchs hat.
 
-
 ###### § 1064 Aufhebung des Nießbrauchs an beweglichen Sachen
 
 Zur Aufhebung des Nießbrauchs an einer beweglichen Sache durch
 Rechtsgeschäft genügt die Erklärung des Nießbrauchers gegenüber dem
 Eigentümer oder dem Besteller, dass er den Nießbrauch aufgebe.
 
-
 ###### § 1065 Beeinträchtigung des Nießbrauchsrechts
 
 Wird das Recht des Nießbrauchers beeinträchtigt, so finden auf die
 Ansprüche des Nießbrauchers die für die Ansprüche aus dem Eigentum
 geltenden Vorschriften entsprechende Anwendung.
-
 
 ###### § 1066 Nießbrauch am Anteil eines Miteigentümers
 
@@ -18223,7 +16652,6 @@ dem Nießbraucher gemeinschaftlich verlangt werden.
 Nießbrauch an den Gegenständen, welche an die Stelle des Anteils
 treten.
 
-
 ###### § 1067 Nießbrauch an verbrauchbaren Sachen
 
 (1) Sind verbrauchbare Sachen Gegenstand des Nießbrauchs, so wird der
@@ -18236,10 +16664,7 @@ feststellen lassen.
 (2) Der Besteller kann Sicherheitsleistung verlangen, wenn der
 Anspruch auf Ersatz des Wertes gefährdet ist.
 
-
 ##### Untertitel 2 - Nießbrauch an Rechten
-
-
 
 ###### § 1068 Gesetzlicher Inhalt des Nießbrauchs an Rechten
 
@@ -18249,7 +16674,6 @@ Anspruch auf Ersatz des Wertes gefährdet ist.
 Nießbrauch an Sachen entsprechende Anwendung, soweit sich nicht aus
 den §§ 1069 bis 1084 ein anderes ergibt.
 
-
 ###### § 1069 Bestellung
 
 (1) Die Bestellung des Nießbrauchs an einem Recht erfolgt nach den für
@@ -18257,7 +16681,6 @@ die Übertragung des Rechts geltenden Vorschriften.
 
 (2) An einem Recht, das nicht übertragbar ist, kann ein Nießbrauch
 nicht bestellt werden.
-
 
 ###### § 1070 Nießbrauch an Recht auf Leistung
 
@@ -18274,7 +16697,6 @@ wirksam, wenn er von der getroffenen Anordnung Kenntnis erlangt oder
 wenn ihm eine Mitteilung von der Anordnung zugestellt wird. Das
 Gleiche gilt von der Aufhebung der Verwaltung.
 
-
 ###### § 1071 Aufhebung oder Änderung des belasteten Rechts
 
 (1) Ein dem Nießbrauch unterliegendes Recht kann durch Rechtsgeschäft
@@ -18286,20 +16708,17 @@ unberührt.
 (2) Das Gleiche gilt im Falle einer Änderung des Rechts, sofern sie
 den Nießbrauch beeinträchtigt.
 
-
 ###### § 1072 Beendigung des Nießbrauchs
 
 Die Beendigung des Nießbrauchs tritt nach den Vorschriften der §§
 1063, 1064 auch dann ein, wenn das dem Nießbrauch unterliegende Recht
 nicht ein Recht an einer beweglichen Sache ist.
 
-
 ###### § 1073 Nießbrauch an einer Leibrente
 
 Dem Nießbraucher einer Leibrente, eines Auszugs oder eines ähnlichen
 Rechts gebühren die einzelnen Leistungen, die auf Grund des Rechts
 gefordert werden können.
-
 
 ###### § 1074 Nießbrauch an einer Forderung; Kündigung und Einziehung
 
@@ -18308,7 +16727,6 @@ wenn die Fälligkeit von einer Kündigung des Gläubigers abhängt, zur
 Kündigung berechtigt. Er hat für die ordnungsmäßige Einziehung zu
 sorgen. Zu anderen Verfügungen über die Forderung ist er nicht
 berechtigt.
-
 
 ###### § 1075 Wirkung der Leistung
 
@@ -18320,12 +16738,10 @@ Nießbrauch an dem Gegenstand.
 das Eigentum; die Vorschrift des § 1067 findet entsprechende
 Anwendung.
 
-
 ###### § 1076 Nießbrauch an verzinslicher Forderung
 
 Ist eine auf Zinsen ausstehende Forderung Gegenstand des Nießbrauchs,
 so gelten die Vorschriften der §§ 1077 bis 1079.
-
 
 ###### § 1077 Kündigung und Zahlung
 
@@ -18338,7 +16754,6 @@ Zahlung die Hinterlegung für beide fordern.
 kündigen. Die Kündigung des Schuldners ist nur wirksam, wenn sie dem
 Nießbraucher und dem Gläubiger erklärt wird.
 
-
 ###### § 1078 Mitwirkung zur Einziehung
 
 Ist die Forderung fällig, so sind der Nießbraucher und der Gläubiger
@@ -18348,7 +16763,6 @@ des anderen zur Kündigung verlangen, wenn die Einziehung der Forderung
 wegen Gefährdung ihrer Sicherheit nach den Regeln einer
 ordnungsmäßigen Vermögensverwaltung geboten ist.
 
-
 ###### § 1079 Anlegung des Kapitals
 
 Der Nießbraucher und der Gläubiger sind einander verpflichtet, dazu
@@ -18357,12 +16771,10 @@ von Mündelgeld geltenden Vorschriften verzinslich angelegt und
 gleichzeitig dem Nießbraucher der Nießbrauch bestellt wird. Die Art
 der Anlegung bestimmt der Nießbraucher.
 
-
 ###### § 1080 Nießbrauch an Grund- oder Rentenschuld
 
 Die Vorschriften über den Nießbrauch an einer Forderung gelten auch
 für den Nießbrauch an einer Grundschuld und an einer Rentenschuld.
-
 
 ###### § 1081 Nießbrauch an Inhaber- oder Orderpapieren
 
@@ -18376,14 +16788,12 @@ Renten- oder Gewinnanteilscheine steht dem Nießbraucher zu.
 (2) Zur Bestellung des Nießbrauchs genügt anstelle der Übergabe des
 Papiers die Einräumung des Mitbesitzes.
 
-
 ###### § 1082 Hinterlegung
 
 Das Papier ist nebst dem Erneuerungsschein auf Verlangen des
 Nießbrauchers oder des Eigentümers bei einer Hinterlegungsstelle mit
 der Bestimmung zu hinterlegen, dass die Herausgabe nur von dem
 Nießbraucher und dem Eigentümer gemeinschaftlich verlangt werden kann.
-
 
 ###### § 1083 Mitwirkung zur Einziehung
 
@@ -18397,17 +16807,13 @@ erforderlich sind.
 1079 Anwendung. Eine bei der Einlösung gezahlte Prämie gilt als Teil
 des Kapitals.
 
-
 ###### § 1084 Verbrauchbare Sachen
 
 Gehört ein Inhaberpapier oder ein Orderpapier, das mit
 Blankoindossament versehen ist, nach § 92 zu den verbrauchbaren
 Sachen, so bewendet es bei den Vorschriften des § 1067.
 
-
 ##### Untertitel 3 - Nießbrauch an einem Vermögen
-
-
 
 ###### § 1085 Bestellung des Nießbrauchs an einem Vermögen
 
@@ -18415,7 +16821,6 @@ Der Nießbrauch an dem Vermögen einer Person kann nur in der Weise
 bestellt werden, dass der Nießbraucher den Nießbrauch an den einzelnen
 zu dem Vermögen gehörenden Gegenständen erlangt. Soweit der Nießbrauch
 bestellt ist, gelten die Vorschriften der §§ 1086 bis 1088.
-
 
 ###### § 1086 Rechte der Gläubiger des Bestellers
 
@@ -18426,7 +16831,6 @@ verlangen. Hat der Nießbraucher das Eigentum an verbrauchbaren Sachen
 erlangt, so tritt an die Stelle der Sachen der Anspruch des Bestellers
 auf Ersatz des Wertes; der Nießbraucher ist den Gläubigern gegenüber
 zum sofortigen Ersatz verpflichtet.
-
 
 ###### § 1087 Verhältnis zwischen Nießbraucher und Besteller
 
@@ -18448,7 +16852,6 @@ kann. Er hat einen vorzugsweise geeigneten Gegenstand auszuwählen.
 Soweit er zum Ersatz des Wertes verbrauchbarer Sachen verpflichtet
 ist, darf er eine Veräußerung nicht vornehmen.
 
-
 ###### § 1088 Haftung des Nießbrauchers
 
 (1) Die Gläubiger des Bestellers, deren Forderungen schon zur Zeit der
@@ -18467,16 +16870,12 @@ Die Rückgabe von Gegenständen zum Zwecke der Befriedigung kann der
 Besteller nur verlangen, wenn der Nießbraucher mit der Erfüllung
 dieser Verbindlichkeit in Verzug kommt.
 
-
 ###### § 1089 Nießbrauch an einer Erbschaft
 
 Die Vorschriften der §§ 1085 bis 1088 finden auf den Nießbrauch an
 einer Erbschaft entsprechende Anwendung.
 
-
 #### Titel 3 - Beschränkte persönliche Dienstbarkeiten
-
-
 
 ##### § 1090 Gesetzlicher Inhalt der beschränkten persönlichen Dienstbarkeit
 
@@ -18489,12 +16888,10 @@ bilden kann (beschränkte persönliche Dienstbarkeit).
 (2) Die Vorschriften der §§ 1020 bis 1024, 1026 bis 1029, 1061 finden
 entsprechende Anwendung.
 
-
 ##### § 1091 Umfang
 
 Der Umfang einer beschränkten persönlichen Dienstbarkeit bestimmt sich
 im Zweifel nach dem persönlichen Bedürfnis des Berechtigten.
-
 
 ##### § 1092 Unübertragbarkeit; Überlassung der Ausübung
 
@@ -18522,7 +16919,6 @@ solchen beschränkten persönlichen Dienstbarkeit einer der in Satz 1
 genannten Personen zu, so ist der Anspruch übertragbar. Die
 Vorschriften der §§ 1059b bis 1059d gelten entsprechend.
 
-
 ##### § 1093 Wohnungsrecht
 
 (1) Als beschränkte persönliche Dienstbarkeit kann auch das Recht
@@ -18540,10 +16936,7 @@ Wohnung aufzunehmen.
 Berechtigte die zum gemeinschaftlichen Gebrauch der Bewohner
 bestimmten Anlagen und Einrichtungen mitbenutzen.
 
-
 ### Abschnitt 5 - Vorkaufsrecht
-
-
 
 #### § 1094 Gesetzlicher Inhalt des dinglichen Vorkaufsrechts
 
@@ -18554,12 +16947,10 @@ Vorkauf berechtigt ist.
 (2) Das Vorkaufsrecht kann auch zugunsten des jeweiligen Eigentümers
 eines anderen Grundstücks bestellt werden.
 
-
 #### § 1095 Belastung eines Bruchteils
 
 Ein Bruchteil eines Grundstücks kann mit dem Vorkaufsrecht nur
 belastet werden, wenn er in dem Anteil eines Miteigentümers besteht.
-
 
 #### § 1096 Erstreckung auf Zubehör
 
@@ -18567,14 +16958,12 @@ Das Vorkaufsrecht kann auf das Zubehör erstreckt werden, das mit dem
 Grundstück verkauft wird. Im Zweifel ist anzunehmen, dass sich das
 Vorkaufsrecht auf dieses Zubehör erstrecken soll.
 
-
 #### § 1097 Bestellung für einen oder mehrere Verkaufsfälle
 
 Das Vorkaufsrecht beschränkt sich auf den Fall des Verkaufs durch den
 Eigentümer, welchem das Grundstück zur Zeit der Bestellung gehört,
 oder durch dessen Erben; es kann jedoch auch für mehrere oder für alle
 Verkaufsfälle bestellt werden.
-
 
 #### § 1098 Wirkung des Vorkaufsrechts
 
@@ -18593,7 +16982,6 @@ so gelten, wenn seine Übertragbarkeit nicht vereinbart ist, für die
 Übertragung des Rechts die Vorschriften der §§ 1059a bis 1059d
 entsprechend.
 
-
 #### § 1099 Mitteilungen
 
 (1) Gelangt das Grundstück in das Eigentum eines Dritten, so kann
@@ -18604,7 +16992,6 @@ mitteilen.
 (2) Der Verpflichtete hat den neuen Eigentümer zu benachrichtigen,
 sobald die Ausübung des Vorkaufsrechts erfolgt oder ausgeschlossen
 ist.
-
 
 #### § 1100 Rechte des Käufers
 
@@ -18617,14 +17004,12 @@ Eintragung als Eigentümer, so kann der bisherige Eigentümer von ihm
 die Erstattung des berichtigten Kaufpreises gegen Herausgabe des
 Grundstücks fordern.
 
-
 #### § 1101 Befreiung des Berechtigten
 
 Soweit der Berechtigte nach § 1100 dem Käufer oder dessen
 Rechtsnachfolger den Kaufpreis zu erstatten hat, wird er von der
 Verpflichtung zur Zahlung des aus dem Vorkauf geschuldeten Kaufpreises
 frei.
-
 
 #### § 1102 Befreiung des Käufers
 
@@ -18634,7 +17019,6 @@ soweit der von ihm geschuldete Kaufpreis noch nicht berichtigt ist,
 von seiner Verpflichtung frei; den berichtigten Kaufpreis kann er
 nicht zurückfordern.
 
-
 #### § 1103 Subjektiv-dingliches und subjektiv-persönliches Vorkaufsrecht
 
 (1) Ein zugunsten des jeweiligen Eigentümers eines Grundstücks
@@ -18643,7 +17027,6 @@ Grundstück getrennt werden.
 
 (2) Ein zugunsten einer bestimmten Person bestehendes Vorkaufsrecht
 kann nicht mit dem Eigentum an einem Grundstück verbunden werden.
-
 
 #### § 1104 Ausschluss unbekannter Berechtigter
 
@@ -18656,10 +17039,7 @@ Ausschließungsbeschlusses erlischt das Vorkaufsrecht.
 (2) Auf ein Vorkaufsrecht, das zugunsten des jeweiligen Eigentümers
 eines Grundstücks besteht, finden diese Vorschriften keine Anwendung.
 
-
 ### Abschnitt 6 - Reallasten
-
-
 
 #### § 1105 Gesetzlicher Inhalt der Reallast
 
@@ -18675,18 +17055,15 @@ werden können.
 (2) Die Reallast kann auch zugunsten des jeweiligen Eigentümers eines
 anderen Grundstücks bestellt werden.
 
-
 #### § 1106 Belastung eines Bruchteils
 
 Ein Bruchteil eines Grundstücks kann mit einer Reallast nur belastet
 werden, wenn er in dem Anteil eines Miteigentümers besteht.
 
-
 #### § 1107 Einzelleistungen
 
 Auf die einzelnen Leistungen finden die für die Zinsen einer
 Hypothekenforderung geltenden Vorschriften entsprechende Anwendung.
-
 
 #### § 1108 Persönliche Haftung des Eigentümers
 
@@ -18696,7 +17073,6 @@ bestimmt ist.
 
 (2) Wird das Grundstück geteilt, so haften die Eigentümer der
 einzelnen Teile als Gesamtschuldner.
-
 
 #### § 1109 Teilung des herrschenden Grundstücks
 
@@ -18719,13 +17095,11 @@ er behält.
 (3) Gereicht die Reallast nur einem der Teile zum Vorteil, so bleibt
 sie mit diesem Teil allein verbunden.
 
-
 #### § 1110 Subjektiv-dingliche Reallast
 
 Eine zugunsten des jeweiligen Eigentümers eines Grundstücks bestehende
 Reallast kann nicht von dem Eigentum an diesem Grundstück getrennt
 werden.
-
 
 #### § 1111 Subjektiv-persönliche Reallast
 
@@ -18735,20 +17109,14 @@ nicht mit dem Eigentum an einem Grundstück verbunden werden.
 (2) Ist der Anspruch auf die einzelne Leistung nicht übertragbar, so
 kann das Recht nicht veräußert oder belastet werden.
 
-
 #### § 1112 Ausschluss unbekannter Berechtigter
 
 Ist der Berechtigte unbekannt, so finden auf die Ausschließung seines
 Rechts die Vorschriften des § 1104 entsprechende Anwendung.
 
-
 ### Abschnitt 7 - Hypothek, Grundschuld, Rentenschuld
 
-
-
 #### Titel 1 - Hypothek
-
-
 
 ##### § 1113 Gesetzlicher Inhalt der Hypothek
 
@@ -18760,13 +17128,11 @@ dem Grundstück zu zahlen ist (Hypothek).
 (2) Die Hypothek kann auch für eine künftige oder eine bedingte
 Forderung bestellt werden.
 
-
 ##### § 1114 Belastung eines Bruchteils
 
 Ein Bruchteil eines Grundstücks kann außer in den in § 3 Abs. 6 der
 Grundbuchordnung bezeichneten Fällen mit einer Hypothek nur belastet
 werden, wenn er in dem Anteil eines Miteigentümers besteht.
-
 
 ##### § 1115 Eintragung der Hypothek
 
@@ -18783,7 +17149,6 @@ bekannt gemacht worden ist, genügt zur Bezeichnung der außer den
 Zinsen satzungsgemäß zu entrichtenden Nebenleistungen die Bezugnahme
 auf die Satzung.
 
-
 ##### § 1116 Brief- und Buchhypothek
 
 (1) Über die Hypothek wird ein Hypothekenbrief erteilt.
@@ -18796,7 +17161,6 @@ Abs. 2 und der §§ 876, 878 finden entsprechende Anwendung.
 
 (3) Die Ausschließung der Erteilung des Briefes kann aufgehoben
 werden; die Aufhebung erfolgt in gleicher Weise wie die Ausschließung.
-
 
 ##### § 1117 Erwerb der Briefhypothek
 
@@ -18813,13 +17177,11 @@ dem Grundbuchamt aushändigen zu lassen.
 (3) Ist der Gläubiger im Besitz des Briefes, so wird vermutet, dass
 die Übergabe erfolgt sei.
 
-
 ##### § 1118 Haftung für Nebenforderungen
 
 Kraft der Hypothek haftet das Grundstück auch für die gesetzlichen
 Zinsen der Forderung sowie für die Kosten der Kündigung und der die
 Befriedigung aus dem Grundstück bezweckenden Rechtsverfolgung.
-
 
 ##### § 1119 Erweiterung der Haftung für Zinsen
 
@@ -18831,7 +17193,6 @@ dass das Grundstück für Zinsen bis zu fünf vom Hundert haftet.
 (2) Zu einer Änderung der Zahlungszeit und des Zahlungsorts ist die
 Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.
 
-
 ##### § 1120 Erstreckung auf Erzeugnisse, Bestandteile und Zubehör
 
 Die Hypothek erstreckt sich auf die von dem Grundstück getrennten
@@ -18841,7 +17202,6 @@ Eigentümers oder des Eigenbesitzers des Grundstücks gelangt sind,
 sowie auf das Zubehör des Grundstücks mit Ausnahme der Zubehörstücke,
 welche nicht in das Eigentum des Eigentümers des Grundstücks gelangt
 sind.
-
 
 ##### § 1121 Enthaftung durch Veräußerung und Entfernung
 
@@ -18857,7 +17217,6 @@ Erwerber die Sache von dem Grundstück, so ist eine vor der Entfernung
 erfolgte Beschlagnahme ihm gegenüber nur wirksam, wenn er bei der
 Entfernung in Ansehung der Beschlagnahme nicht in gutem Glauben ist.
 
-
 ##### § 1122 Enthaftung ohne Veräußerung
 
 (1) Sind die Erzeugnisse oder Bestandteile innerhalb der Grenzen einer
@@ -18869,7 +17228,6 @@ die Entfernung zu einem vorübergehenden Zwecke erfolgt.
 (2) Zubehörstücke werden ohne Veräußerung von der Haftung frei, wenn
 die Zubehöreigenschaft innerhalb der Grenzen einer ordnungsmäßigen
 Wirtschaft vor der Beschlagnahme aufgehoben wird.
-
 
 ##### § 1123 Erstreckung auf Miet- oder Pachtforderung
 
@@ -18885,7 +17243,6 @@ spätere Zeit als den zur Zeit der Beschlagnahme laufenden
 Kalendermonat; erfolgt die Beschlagnahme nach dem 15. Tage des Monats,
 so erstreckt sich die Befreiung auch auf den Miet- oder Pachtzins für
 den folgenden Kalendermonat.
-
 
 ##### § 1124 Vorausverfügung über Miete oder Pacht
 
@@ -18907,14 +17264,12 @@ Pacht für den folgenden Kalendermonat bezieht.
 (3) Der Übertragung der Forderung auf einen Dritten steht es gleich,
 wenn das Grundstück ohne die Forderung veräußert wird.
 
-
 ##### § 1125 Aufrechnung gegen Miete oder Pacht
 
 Soweit die Einziehung der Miete oder Pacht dem Hypothekengläubiger
 gegenüber unwirksam ist, kann der Mieter oder der Pächter nicht eine
 ihm gegen den Vermieter oder den Verpächter zustehende Forderung gegen
 den Hypothekengläubiger aufrechnen.
-
 
 ##### § 1126 Erstreckung auf wiederkehrende Leistungen
 
@@ -18926,7 +17281,6 @@ der Beschlagnahme erfolgte Verfügung über den Anspruch auf eine
 Leistung, die erst drei Monate nach der Beschlagnahme fällig wird, ist
 dem Hypothekengläubiger gegenüber unwirksam.
 
-
 ##### § 1127 Erstreckung auf die Versicherungsforderung
 
 (1) Sind Gegenstände, die der Hypothek unterliegen, für den Eigentümer
@@ -18936,7 +17290,6 @@ erstreckt sich die Hypothek auf die Forderung gegen den Versicherer.
 (2) Die Haftung der Forderung gegen den Versicherer erlischt, wenn der
 versicherte Gegenstand wiederhergestellt oder Ersatz für ihn beschafft
 ist.
-
 
 ##### § 1128 Gebäudeversicherung
 
@@ -18960,13 +17313,11 @@ Vorschriften Anwendung; der Versicherer kann sich jedoch nicht darauf
 berufen, dass er eine aus dem Grundbuch ersichtliche Hypothek nicht
 gekannt habe.
 
-
 ##### § 1129 Sonstige Schadensversicherung
 
 Ist ein anderer Gegenstand als ein Gebäude versichert, so bestimmt
 sich die Haftung der Forderung gegen den Versicherer nach den
 Vorschriften des § 1123 Abs. 2 Satz 1 und des § 1124 Abs. 1, 3.
-
 
 ##### § 1130 Wiederherstellungsklausel
 
@@ -18976,7 +17327,6 @@ versicherten Gegenstands zu zahlen, so ist eine diesen Bestimmungen
 entsprechende Zahlung an den Versicherten dem Hypothekengläubiger
 gegenüber wirksam.
 
-
 ##### § 1131 Zuschreibung eines Grundstücks
 
 Wird ein Grundstück nach § 890 Abs. 2 einem anderen Grundstück im
@@ -18984,7 +17334,6 @@ Grundbuch zugeschrieben, so erstrecken sich die an diesem Grundstück
 bestehenden Hypotheken auf das zugeschriebene Grundstück. Rechte, mit
 denen das zugeschriebene Grundstück belastet ist, gehen diesen
 Hypotheken im Range vor.
-
 
 ##### § 1132 Gesamthypothek
 
@@ -18998,7 +17347,6 @@ einzelnen Grundstücke in der Weise zu verteilen, dass jedes Grundstück
 nur für den zugeteilten Betrag haftet. Auf die Verteilung finden die
 Vorschriften der §§ 875, 876, 878 entsprechende Anwendung.
 
-
 ##### § 1133 Gefährdung der Sicherheit der Hypothek
 
 Ist infolge einer Verschlechterung des Grundstücks die Sicherheit der
@@ -19011,7 +17359,6 @@ worden ist. Ist die Forderung unverzinslich und noch nicht fällig, so
 gebührt dem Gläubiger nur die Summe, welche mit Hinzurechnung der
 gesetzlichen Zinsen für die Zeit von der Zahlung bis zur Fälligkeit
 dem Betrag der Forderung gleichkommt.
-
 
 ##### § 1134 Unterlassungsklage
 
@@ -19027,7 +17374,6 @@ deshalb zu besorgen ist, weil der Eigentümer die erforderlichen
 Vorkehrungen gegen Einwirkungen Dritter oder gegen andere
 Beschädigungen unterlässt.
 
-
 ##### § 1135 Verschlechterung des Zubehörs
 
 Einer Verschlechterung des Grundstücks im Sinne der §§ 1133, 1134
@@ -19035,13 +17381,11 @@ steht es gleich, wenn Zubehörstücke, auf die sich die Hypothek
 erstreckt, verschlechtert oder den Regeln einer ordnungsmäßigen
 Wirtschaft zuwider von dem Grundstück entfernt werden.
 
-
 ##### § 1136 Rechtsgeschäftliche Verfügungsbeschränkung
 
 Eine Vereinbarung, durch die sich der Eigentümer dem Gläubiger
 gegenüber verpflichtet, das Grundstück nicht zu veräußern oder nicht
 weiter zu belasten, ist nichtig.
-
 
 ##### § 1137 Einreden des Eigentümers
 
@@ -19054,13 +17398,11 @@ die Schuld nur beschränkt haftet.
 (2) Ist der Eigentümer nicht der persönliche Schuldner, so verliert er
 eine Einrede nicht dadurch, dass dieser auf sie verzichtet.
 
-
 ##### § 1138 Öffentlicher Glaube des Grundbuchs
 
 Die Vorschriften der §§ 891 bis 899 gelten für die Hypothek auch in
 Ansehung der Forderung und der dem Eigentümer nach § 1137 zustehenden
 Einreden.
-
 
 ##### § 1139 Widerspruch bei Darlehensbuchhypothek
 
@@ -19074,7 +17416,6 @@ des Monats eingetragen, so hat die Eintragung die gleiche Wirkung, wie
 wenn der Widerspruch zugleich mit der Hypothek eingetragen worden
 wäre.
 
-
 ##### § 1140 Hypothekenbrief und Unrichtigkeit des Grundbuchs
 
 Soweit die Unrichtigkeit des Grundbuchs aus dem Hypothekenbrief oder
@@ -19083,7 +17424,6 @@ Vorschriften der §§ 892, 893 ausgeschlossen. Ein Widerspruch gegen die
 Richtigkeit des Grundbuchs, der aus dem Briefe oder einem Vermerk auf
 dem Briefe hervorgeht, steht einem im Grundbuch eingetragenen
 Widerspruch gleich.
-
 
 ##### § 1141 Kündigung der Hypothek
 
@@ -19099,7 +17439,6 @@ das Amtsgericht, in dessen Bezirk das Grundstück liegt, dem Eigentümer
 einen Vertreter zu bestellen, dem gegenüber die Kündigung des
 Gläubigers erfolgen kann.
 
-
 ##### § 1142 Befriedigungsrecht des Eigentümers
 
 (1) Der Eigentümer ist berechtigt, den Gläubiger zu befriedigen, wenn
@@ -19108,7 +17447,6 @@ Schuldner zur Leistung berechtigt ist.
 
 (2) Die Befriedigung kann auch durch Hinterlegung oder durch
 Aufrechnung erfolgen.
-
 
 ##### § 1143 Übergang der Forderung
 
@@ -19120,14 +17458,12 @@ entsprechende Anwendung.
 (2) Besteht für die Forderung eine Gesamthypothek, so gelten für diese
 die Vorschriften des § 1173.
 
-
 ##### § 1144 Aushändigung der Urkunden
 
 Der Eigentümer kann gegen Befriedigung des Gläubigers die Aushändigung
 des Hypothekenbriefs und der sonstigen Urkunden verlangen, die zur
 Berichtigung des Grundbuchs oder zur Löschung der Hypothek
 erforderlich sind.
-
 
 ##### § 1145 Teilweise Befriedigung
 
@@ -19145,20 +17481,17 @@ in welchem der Gläubiger befriedigt wird, oder dem folgenden
 Vierteljahr fällig werden. Auf Kosten, für die das Grundstück nach §
 1118 haftet, findet die Vorschrift keine Anwendung.
 
-
 ##### § 1146 Verzugszinsen
 
 Liegen dem Eigentümer gegenüber die Voraussetzungen vor, unter denen
 ein Schuldner in Verzug kommt, so gebühren dem Gläubiger Verzugszinsen
 aus dem Grundstück.
 
-
 ##### § 1147 Befriedigung durch Zwangsvollstreckung
 
 Die Befriedigung des Gläubigers aus dem Grundstück und den
 Gegenständen, auf die sich die Hypothek erstreckt, erfolgt im Wege der
 Zwangsvollstreckung.
-
 
 ##### § 1148 Eigentumsfiktion
 
@@ -19168,7 +17501,6 @@ ist, als der Eigentümer. Das Recht des nicht eingetragenen
 Eigentümers, die ihm gegen die Hypothek zustehenden Einwendungen
 geltend zu machen, bleibt unberührt.
 
-
 ##### § 1149 Unzulässige Befriedigungsabreden
 
 Der Eigentümer kann, solange nicht die Forderung ihm gegenüber fällig
@@ -19177,19 +17509,16 @@ Befriedigung die Übertragung des Eigentums an dem Grundstück zu
 verlangen oder die Veräußerung des Grundstücks auf andere Weise als im
 Wege der Zwangsvollstreckung zu bewirken.
 
-
 ##### § 1150 Ablösungsrecht Dritter
 
 Verlangt der Gläubiger Befriedigung aus dem Grundstück, so finden die
 Vorschriften der §§ 268, 1144, 1145 entsprechende Anwendung.
-
 
 ##### § 1151 Rangänderung bei Teilhypotheken
 
 Wird die Forderung geteilt, so ist zur Änderung des Rangverhältnisses
 der Teilhypotheken untereinander die Zustimmung des Eigentümers nicht
 erforderlich.
-
 
 ##### § 1152 Teilhypothekenbrief
 
@@ -19200,7 +17529,6 @@ des Grundstücks ist nicht erforderlich. Der Teilhypothekenbrief tritt
 für den Teil, auf den er sich bezieht, an die Stelle des bisherigen
 Briefes.
 
-
 ##### § 1153 Übertragung von Hypothek und Forderung
 
 (1) Mit der Übertragung der Forderung geht die Hypothek auf den neuen
@@ -19208,7 +17536,6 @@ Gläubiger über.
 
 (2) Die Forderung kann nicht ohne die Hypothek, die Hypothek kann
 nicht ohne die Forderung übertragen werden.
-
 
 ##### § 1154 Abtretung der Forderung
 
@@ -19225,7 +17552,6 @@ werden, dass die Abtretung in das Grundbuch eingetragen wird.
 auf die Abtretung der Forderung die Vorschriften der §§ 873, 878
 entsprechende Anwendung.
 
-
 ##### § 1155 Öffentlicher Glaube beglaubigter Abtretungserklärungen
 
 Ergibt sich das Gläubigerrecht des Besitzers des Hypothekenbriefs aus
@@ -19238,7 +17564,6 @@ Abtretungserklärung steht gleich ein gerichtlicher
 Überweisungsbeschluss und das öffentlich beglaubigte Anerkenntnis
 einer kraft Gesetzes erfolgten Übertragung der Forderung.
 
-
 ##### § 1156 Rechtsverhältnis zwischen Eigentümer und neuem Gläubiger
 
 Die für die Übertragung der Forderung geltenden Vorschriften der §§
@@ -19249,7 +17574,6 @@ erfolgte Kündigung des Eigentümers gegen sich gelten lassen, es sei
 denn, dass die Übertragung zur Zeit der Kündigung dem Eigentümer
 bekannt oder im Grundbuch eingetragen ist.
 
-
 ##### § 1157 Fortbestehen der Einreden gegen die Hypothek
 
 Eine Einrede, die dem Eigentümer auf Grund eines zwischen ihm und dem
@@ -19257,7 +17581,6 @@ bisherigen Gläubiger bestehenden Rechtsverhältnisses gegen die
 Hypothek zusteht, kann auch dem neuen Gläubiger entgegengesetzt
 werden. Die Vorschriften der §§ 892, 894 bis 899, 1140 gelten auch für
 diese Einrede.
-
 
 ##### § 1158 Künftige Nebenleistungen
 
@@ -19270,7 +17593,6 @@ dem Eigentümer und dem neuen Gläubiger die Vorschriften der §§ 406 bis
 welche dem Eigentümer nach den §§ 404, 406 bis 408, 1157 zustehen,
 nicht auf die Vorschriften des § 892 berufen.
 
-
 ##### § 1159 Rückständige Nebenleistungen
 
 (1) Soweit die Forderung auf Rückstände von Zinsen oder anderen
@@ -19282,7 +17604,6 @@ Kosten, für die das Grundstück nach § 1118 haftet.
 
 (2) Die Vorschrift des § 892 findet auf die im Absatz 1 bezeichneten
 Ansprüche keine Anwendung.
-
 
 ##### § 1160 Geltendmachung der Briefhypothek
 
@@ -19300,18 +17621,15 @@ Mahnung aus diesem Grunde unverzüglich zurückweist.
 (3) Diese Vorschriften gelten nicht für die im § 1159 bezeichneten
 Ansprüche.
 
-
 ##### § 1161 Geltendmachung der Forderung
 
 Ist der Eigentümer der persönliche Schuldner, so findet die Vorschrift
 des § 1160 auch auf die Geltendmachung der Forderung Anwendung.
 
-
 ##### § 1162 Aufgebot des Hypothekenbriefs
 
 Ist der Hypothekenbrief abhanden gekommen oder vernichtet, so kann er
 im Wege des Aufgebotsverfahrens für kraftlos erklärt werden.
-
 
 ##### § 1163 Eigentümerhypothek
 
@@ -19322,7 +17640,6 @@ die Forderung, so erwirbt der Eigentümer die Hypothek.
 (2) Eine Hypothek, für welche die Erteilung des Hypothekenbriefs nicht
 ausgeschlossen ist, steht bis zur Übergabe des Briefes an den
 Gläubiger dem Eigentümer zu.
-
 
 ##### § 1164 Übergang der Hypothek auf den Schuldner
 
@@ -19336,14 +17653,12 @@ Hypothek des Schuldners geltend machen.
 (2) Der Befriedigung des Gläubigers steht es gleich, wenn sich
 Forderung und Schuld in einer Person vereinigen.
 
-
 ##### § 1165 Freiwerden des Schuldners
 
 Verzichtet der Gläubiger auf die Hypothek oder hebt er sie nach § 1183
 auf oder räumt er einem anderen Recht den Vorrang ein, so wird der
 persönliche Schuldner insoweit frei, als er ohne diese Verfügung nach
 § 1164 aus der Hypothek hätte Ersatz erlangen können.
-
 
 ##### § 1166 Benachrichtigung des Schuldners
 
@@ -19355,14 +17670,12 @@ eines Ausfalls bei der Zwangsversteigerung insoweit verweigern, als er
 infolge der Unterlassung der Benachrichtigung einen Schaden erleidet.
 Die Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
 
-
 ##### § 1167 Aushändigung der Berichtigungsurkunden
 
 Erwirbt der persönliche Schuldner, falls er den Gläubiger befriedigt,
 die Hypothek oder hat er im Falle der Befriedigung ein sonstiges
 rechtliches Interesse an der Berichtigung des Grundbuchs, so stehen
 ihm die in den §§ 1144, 1145 bestimmten Rechte zu.
-
 
 ##### § 1168 Verzicht auf die Hypothek
 
@@ -19376,13 +17689,11 @@ des § 875 Abs. 2 und der §§ 876, 878 finden entsprechende Anwendung.
 (3) Verzichtet der Gläubiger für einen Teil der Forderung auf die
 Hypothek, so stehen dem Eigentümer die im § 1145 bestimmten Rechte zu.
 
-
 ##### § 1169 Rechtszerstörende Einrede
 
 Steht dem Eigentümer eine Einrede zu, durch welche die Geltendmachung
 der Hypothek dauernd ausgeschlossen wird, so kann er verlangen, dass
 der Gläubiger auf die Hypothek verzichtet.
-
 
 ##### § 1170 Ausschluss unbekannter Gläubiger
 
@@ -19399,7 +17710,6 @@ Zahlungstags.
 (2) Mit der Rechtskraft des Ausschließungsbeschlusses erwirbt der
 Eigentümer die Hypothek. Der dem Gläubiger erteilte Hypothekenbrief
 wird kraftlos.
-
 
 ##### § 1171 Ausschluss durch Hinterlegung
 
@@ -19423,7 +17733,6 @@ Ausschließungsbeschlusses, wenn nicht der Gläubiger sich vorher bei
 der Hinterlegungsstelle meldet; der Hinterleger ist zur Rücknahme
 berechtigt, auch wenn er auf das Recht zur Rücknahme verzichtet hat.
 
-
 ##### § 1172 Eigentümergesamthypothek
 
 (1) Eine Gesamthypothek steht in den Fällen des § 1163 den Eigentümern
@@ -19435,7 +17744,6 @@ der dem Verhältnis des Wertes seines Grundstücks zu dem Werte der
 sämtlichen Grundstücke entspricht, nach § 1132 Abs. 2 beschränkt und
 in dieser Beschränkung ihm zugeteilt wird. Der Wert wird unter Abzug
 der Belastungen berechnet, die der Gesamthypothek im Range vorgehen.
-
 
 ##### § 1173 Befriedigung durch einen der Eigentümer
 
@@ -19453,7 +17761,6 @@ Ersatzanspruchs auch die Hypothek an dem Grundstück dieses Eigentümers
 auf ihn über; sie bleibt mit der Hypothek an seinem eigenen Grundstück
 Gesamthypothek.
 
-
 ##### § 1174 Befriedigung durch den persönlichen Schuldner
 
 (1) Befriedigt der persönliche Schuldner den Gläubiger, dem eine
@@ -19469,7 +17776,6 @@ die Hypothek nur zu einem Teilbetrag auf ihn über, so hat sich der
 Eigentümer diesen Betrag auf den ihm nach § 1172 gebührenden Teil des
 übrig bleibenden Betrags der Gesamthypothek anrechnen zu lassen.
 
-
 ##### § 1175 Verzicht auf die Gesamthypothek
 
 (1) Verzichtet der Gläubiger auf die Gesamthypothek, so fällt sie den
@@ -19481,7 +17787,6 @@ Hypothek an diesem.
 (2) Das Gleiche gilt, wenn der Gläubiger nach § 1170 mit seinem Recht
 ausgeschlossen wird.
 
-
 ##### § 1176 Eigentümerteilhypothek; Kollisionsklausel
 
 Liegen die Voraussetzungen der §§ 1163, 1164, 1168, 1172 bis 1175 nur
@@ -19489,7 +17794,6 @@ in Ansehung eines Teilbetrags der Hypothek vor, so kann die auf Grund
 dieser Vorschriften dem Eigentümer oder einem der Eigentümer oder dem
 persönlichen Schuldner zufallende Hypothek nicht zum Nachteil der dem
 Gläubiger verbleibenden Hypothek geltend gemacht werden.
-
 
 ##### § 1177 Eigentümergrundschuld, Eigentümerhypothek
 
@@ -19502,7 +17806,6 @@ bleiben die für die Forderung getroffenen Bestimmungen maßgebend.
 (2) Steht dem Eigentümer auch die Forderung zu, so bestimmen sich
 seine Rechte aus der Hypothek, solange die Vereinigung besteht, nach
 den für eine Grundschuld des Eigentümers geltenden Vorschriften.
-
 
 ##### § 1178 Hypothek für Nebenleistungen und Kosten
 
@@ -19519,7 +17822,6 @@ solche Leistung zusteht, ist die Zustimmung des Dritten erforderlich.
 Die Zustimmung ist demjenigen gegenüber zu erklären, zu dessen Gunsten
 sie erfolgt; sie ist unwiderruflich.
 
-
 ##### § 1179 Löschungsvormerkung
 
 Verpflichtet sich der Eigentümer einem anderen gegenüber, die Hypothek
@@ -19535,10 +17837,6 @@ dessen Gunsten die Eintragung vorgenommen werden soll,
 2.  ein Anspruch auf Einräumung eines solchen anderen Rechts oder auf
     Übertragung des Eigentums am Grundstück zusteht; der Anspruch kann
     auch ein künftiger oder bedingter sein.
-
-
-
-
 
 ##### § 1179a Löschungsanspruch bei fremden Rechten
 
@@ -19586,7 +17884,6 @@ Eintragungsbewilligung Bezug genommen werden. Wird der Ausschluss
 aufgehoben, so entstehen dadurch nicht Löschungsansprüche für
 Vereinigungen, die nur vor dieser Aufhebung bestanden haben.
 
-
 ##### § 1179b Löschungsanspruch bei eigenem Recht
 
 (1) Wer als Gläubiger einer Hypothek im Grundbuch eingetragen oder
@@ -19596,7 +17893,6 @@ Zeitpunkt ihrer Eintragung mit dem Eigentum in einer Person vereinigt
 ist oder eine solche Vereinigung später eintritt.
 
 (2) § 1179a Abs. 1 Satz 2, 3, Abs. 2, 5 ist entsprechend anzuwenden.
-
 
 ##### § 1180 Auswechslung der Forderung
 
@@ -19613,7 +17909,6 @@ oder demjenigen gegenüber zu erklären, zu dessen Gunsten sie erfolgt.
 Die Vorschriften des § 875 Abs. 2 und des § 876 finden entsprechende
 Anwendung.
 
-
 ##### § 1181 Erlöschen durch Befriedigung aus dem Grundstück
 
 (1) Wird der Gläubiger aus dem Grundstück befriedigt, so erlischt die
@@ -19625,7 +17920,6 @@ Grundstücke frei.
 
 (3) Der Befriedigung aus dem Grundstück steht die Befriedigung aus den
 Gegenständen gleich, auf die sich die Hypothek erstreckt.
-
 
 ##### § 1182 Übergang bei Befriedigung aus der Gesamthypothek
 
@@ -19639,13 +17933,11 @@ verbleibenden Hypothek und, wenn das Grundstück mit einem im Range
 gleich- oder nachstehenden Recht belastet ist, nicht zum Nachteil
 dieses Rechts geltend gemacht werden.
 
-
 ##### § 1183 Aufhebung der Hypothek
 
 Zur Aufhebung der Hypothek durch Rechtsgeschäft ist die Zustimmung des
 Eigentümers erforderlich. Die Zustimmung ist dem Grundbuchamt oder dem
 Gläubiger gegenüber zu erklären; sie ist unwiderruflich.
-
 
 ##### § 1184 Sicherungshypothek
 
@@ -19657,7 +17949,6 @@ Eintragung berufen kann (Sicherungshypothek).
 (2) Die Hypothek muss im Grundbuch als Sicherungshypothek bezeichnet
 werden.
 
-
 ##### § 1185 Buchhypothek; unanwendbare Vorschriften
 
 (1) Bei der Sicherungshypothek ist die Erteilung des Hypothekenbriefs
@@ -19666,14 +17957,12 @@ ausgeschlossen.
 (2) Die Vorschriften der §§ 1138, 1139, 1141, 1156 finden keine
 Anwendung.
 
-
 ##### § 1186 Zulässige Umwandlungen
 
 Eine Sicherungshypothek kann in eine gewöhnliche Hypothek, eine
 gewöhnliche Hypothek kann in eine Sicherungshypothek umgewandelt
 werden. Die Zustimmung der im Range gleich- oder nachstehenden
 Berechtigten ist nicht erforderlich.
-
 
 ##### § 1187 Sicherungshypothek für Inhaber- und Orderpapiere
 
@@ -19684,7 +17973,6 @@ werden. Die Hypothek gilt als Sicherungshypothek, auch wenn sie im
 Grundbuch nicht als solche bezeichnet ist. Die Vorschrift des § 1154
 Abs. 3 findet keine Anwendung. Ein Anspruch auf Löschung der Hypothek
 nach den §§ 1179a, 1179b besteht nicht.
-
 
 ##### § 1188 Sondervorschrift für Schuldverschreibungen auf den Inhaber
 
@@ -19701,7 +17989,6 @@ vorgelegt oder der Anspruch aus der Urkunde gerichtlich geltend
 gemacht worden, so kann die Ausschließung erst erfolgen, wenn die
 Verjährung eingetreten ist.
 
-
 ##### § 1189 Bestellung eines Grundbuchvertreters
 
 (1) Bei einer Hypothek der im § 1187 bezeichneten Art kann für den
@@ -19714,7 +18001,6 @@ Vertreters ist die Eintragung in das Grundbuch erforderlich.
 (2) Ist der Eigentümer berechtigt, von dem Gläubiger eine Verfügung zu
 verlangen, zu welcher der Vertreter befugt ist, so kann er die
 Vornahme der Verfügung von dem Vertreter verlangen.
-
 
 ##### § 1190 Höchstbetragshypothek
 
@@ -19734,14 +18020,9 @@ geltenden allgemeinen Vorschriften übertragen werden. Wird sie nach
 diesen Vorschriften übertragen, so ist der Übergang der Hypothek
 ausgeschlossen.
 
-
 #### Titel 2 - Grundschuld, Rentenschuld
 
-
-
 ##### Untertitel 1 - Grundschuld
-
-
 
 ###### § 1191 Gesetzlicher Inhalt der Grundschuld
 
@@ -19752,7 +18033,6 @@ Geldsumme aus dem Grundstück zu zahlen ist (Grundschuld).
 (2) Die Belastung kann auch in der Weise erfolgen, dass Zinsen von der
 Geldsumme sowie andere Nebenleistungen aus dem Grundstück zu
 entrichten sind.
-
 
 ###### § 1192 Anwendbare Vorschriften
 
@@ -19771,7 +18051,6 @@ unberührt.
 (2) Für Zinsen der Grundschuld gelten die Vorschriften über die Zinsen
 einer Hypothekenforderung.
 
-
 ###### § 1193 Kündigung
 
 (1) Das Kapital der Grundschuld wird erst nach vorgängiger Kündigung
@@ -19782,13 +18061,11 @@ zu. Die Kündigungsfrist beträgt sechs Monate.
 Sicherung einer Geldforderung, so ist eine von Absatz 1 abweichende
 Bestimmung nicht zulässig.
 
-
 ###### § 1194 Zahlungsort
 
 Die Zahlung des Kapitals sowie der Zinsen und anderen Nebenleistungen
 hat, soweit nicht ein anderes bestimmt ist, an dem Orte zu erfolgen,
 an dem das Grundbuchamt seinen Sitz hat.
-
 
 ###### § 1195 Inhabergrundschuld
 
@@ -19796,7 +18073,6 @@ Eine Grundschuld kann in der Weise bestellt werden, dass der
 Grundschuldbrief auf den Inhaber ausgestellt wird. Auf einen solchen
 Brief finden die Vorschriften über Schuldverschreibungen auf den
 Inhaber entsprechende Anwendung.
-
 
 ###### § 1196 Eigentümergrundschuld
 
@@ -19812,7 +18088,6 @@ Vorschrift des § 878 findet Anwendung.
 Eigentum in einer Person, die eintreten, nachdem die Grundschuld einem
 anderen als dem Eigentümer zugestanden hat.
 
-
 ###### § 1197 Abweichungen von der Fremdgrundschuld
 
 (1) Ist der Eigentümer der Gläubiger, so kann er nicht die
@@ -19822,17 +18097,13 @@ Zwangsvollstreckung zum Zwecke seiner Befriedigung betreiben.
 eines anderen zum Zwecke der Zwangsverwaltung in Beschlag genommen
 ist, und nur für die Dauer der Zwangsverwaltung.
 
-
 ###### § 1198 Zulässige Umwandlungen
 
 Eine Hypothek kann in eine Grundschuld, eine Grundschuld kann in eine
 Hypothek umgewandelt werden. Die Zustimmung der im Range gleich- oder
 nachstehenden Berechtigten ist nicht erforderlich.
 
-
 ##### Untertitel 2 - Rentenschuld
-
-
 
 ###### § 1199 Gesetzlicher Inhalt der Rentenschuld
 
@@ -19844,7 +18115,6 @@ Grundstück zu zahlen ist (Rentenschuld).
 werden, durch dessen Zahlung die Rentenschuld abgelöst werden kann.
 Die Ablösungssumme muss im Grundbuch angegeben werden.
 
-
 ###### § 1200 Anwendbare Vorschriften
 
 (1) Auf die einzelnen Leistungen finden die für Hypothekenzinsen, auf
@@ -19854,7 +18124,6 @@ Vorschriften entsprechende Anwendung.
 (2) Die Zahlung der Ablösungssumme an den Gläubiger hat die gleiche
 Wirkung wie die Zahlung des Kapitals einer Grundschuld.
 
-
 ###### § 1201 Ablösungsrecht
 
 (1) Das Recht zur Ablösung steht dem Eigentümer zu.
@@ -19863,7 +18132,6 @@ Wirkung wie die Zahlung des Kapitals einer Grundschuld.
 eingeräumt werden. Im Falle des § 1133 Satz 2 ist der Gläubiger
 berechtigt, die Zahlung der Ablösungssumme aus dem Grundstück zu
 verlangen.
-
 
 ###### § 1202 Kündigung
 
@@ -19879,7 +18147,6 @@ Frist kündigen kann.
 Ablauf der Kündigungsfrist die Zahlung der Ablösungssumme aus dem
 Grundstück verlangen.
 
-
 ###### § 1203 Zulässige Umwandlungen
 
 Eine Rentenschuld kann in eine gewöhnliche Grundschuld, eine
@@ -19887,14 +18154,9 @@ gewöhnliche Grundschuld kann in eine Rentenschuld umgewandelt werden.
 Die Zustimmung der im Range gleich- oder nachstehenden Berechtigten
 ist nicht erforderlich.
 
-
 ### Abschnitt 8 - Pfandrecht an beweglichen Sachen und an Rechten
 
-
-
 #### Titel 1 - Pfandrecht an beweglichen Sachen
-
-
 
 ##### § 1204 Gesetzlicher Inhalt des Pfandrechts an beweglichen Sachen
 
@@ -19904,7 +18166,6 @@ aus der Sache zu suchen (Pfandrecht).
 
 (2) Das Pfandrecht kann auch für eine künftige oder eine bedingte
 Forderung bestellt werden.
-
 
 ##### § 1205 Bestellung
 
@@ -19919,7 +18180,6 @@ befindlichen Sache kann dadurch ersetzt werden, dass der Eigentümer
 den mittelbaren Besitz auf den Pfandgläubiger überträgt und die
 Verpfändung dem Besitzer anzeigt.
 
-
 ##### § 1206 Übergabeersatz durch Einräumung des Mitbesitzes
 
 Anstelle der Übergabe der Sache genügt die Einräumung des Mitbesitzes,
@@ -19927,13 +18187,11 @@ wenn sich die Sache unter dem Mitverschluss des Gläubigers befindet
 oder, falls sie im Besitz eines Dritten ist, die Herausgabe nur an den
 Eigentümer und den Gläubiger gemeinschaftlich erfolgen kann.
 
-
 ##### § 1207 Verpfändung durch Nichtberechtigten
 
 Gehört die Sache nicht dem Verpfänder, so finden auf die Verpfändung
 die für den Erwerb des Eigentums geltenden Vorschriften der §§ 932,
 934, 935 entsprechende Anwendung.
-
 
 ##### § 1208 Gutgläubiger Erwerb des Vorrangs
 
@@ -19943,13 +18201,11 @@ Zeit des Erwerbs des Pfandrechts in Ansehung des Rechts nicht in gutem
 Glauben ist. Die Vorschriften des § 932 Abs. 1 Satz 2, des § 935 und
 des § 936 Abs. 3 finden entsprechende Anwendung.
 
-
 ##### § 1209 Rang des Pfandrechts
 
 Für den Rang des Pfandrechts ist die Zeit der Bestellung auch dann
 maßgebend, wenn es für eine künftige oder eine bedingte Forderung
 bestellt ist.
-
 
 ##### § 1210 Umfang der Haftung des Pfandes
 
@@ -19964,7 +18220,6 @@ von Verwendungen, für die dem Pfandgläubiger zu ersetzenden Kosten der
 Kündigung und der Rechtsverfolgung sowie für die Kosten des
 Pfandverkaufs.
 
-
 ##### § 1211 Einreden des Verpfänders
 
 (1) Der Verpfänder kann dem Pfandgläubiger gegenüber die dem
@@ -19976,12 +18231,10 @@ Erbe für die Schuld nur beschränkt haftet.
 (2) Ist der Verpfänder nicht der persönliche Schuldner, so verliert er
 eine Einrede nicht dadurch, dass dieser auf sie verzichtet.
 
-
 ##### § 1212 Erstreckung auf getrennte Erzeugnisse
 
 Das Pfandrecht erstreckt sich auf die Erzeugnisse, die von dem Pfande
 getrennt werden.
-
 
 ##### § 1213 Nutzungspfand
 
@@ -19991,7 +18244,6 @@ Pfandgläubiger berechtigt ist, die Nutzungen des Pfandes zu ziehen.
 (2) Ist eine von Natur Frucht tragende Sache dem Pfandgläubiger zum
 Alleinbesitz übergeben, so ist im Zweifel anzunehmen, dass der
 Pfandgläubiger zum Fruchtbezug berechtigt sein soll.
-
 
 ##### § 1214 Pflichten des nutzungsberechtigten Pfandgläubigers
 
@@ -20005,11 +18257,9 @@ angerechnet.
 
 (3) Abweichende Bestimmungen sind zulässig.
 
-
 ##### § 1215 Verwahrungspflicht
 
 Der Pfandgläubiger ist zur Verwahrung des Pfandes verpflichtet.
-
 
 ##### § 1216 Ersatz von Verwendungen
 
@@ -20017,7 +18267,6 @@ Macht der Pfandgläubiger Verwendungen auf das Pfand, so bestimmt sich
 die Ersatzpflicht des Verpfänders nach den Vorschriften über die
 Geschäftsführung ohne Auftrag. Der Pfandgläubiger ist berechtigt, eine
 Einrichtung, mit der er das Pfand versehen hat, wegzunehmen.
-
 
 ##### § 1217 Rechtsverletzung durch den Pfandgläubiger
 
@@ -20035,7 +18284,6 @@ und noch nicht fällig, so gebührt dem Pfandgläubiger nur die Summe,
 welche mit Hinzurechnung der gesetzlichen Zinsen für die Zeit von der
 Zahlung bis zur Fälligkeit dem Betrag der Forderung gleichkommt.
 
-
 ##### § 1218 Rechte des Verpfänders bei drohendem Verderb
 
 (1) Ist der Verderb des Pfandes oder eine wesentliche Minderung des
@@ -20047,7 +18295,6 @@ Sicherheitsleistung durch Bürgen ist ausgeschlossen.
 unverzüglich Anzeige zu machen, sofern nicht die Anzeige untunlich
 ist.
 
-
 ##### § 1219 Rechte des Pfandgläubigers bei drohendem Verderb
 
 (1) Wird durch den drohenden Verderb des Pfandes oder durch eine zu
@@ -20057,7 +18304,6 @@ versteigern lassen.
 
 (2) Der Erlös tritt an die Stelle des Pfandes. Auf Verlangen des
 Verpfänders ist der Erlös zu hinterlegen.
-
 
 ##### § 1220 Androhung der Versteigerung
 
@@ -20076,7 +18322,6 @@ Schadensersatz verpflichtet.
 (3) Die Androhung, die Fristbestimmung und die Benachrichtigung dürfen
 unterbleiben, wenn sie untunlich sind.
 
-
 ##### § 1221 Freihändiger Verkauf
 
 Hat das Pfand einen Börsen- oder Marktpreis, so kann der
@@ -20085,12 +18330,10 @@ Verkäufen öffentlich ermächtigten Handelsmäkler oder durch eine zur
 öffentlichen Versteigerung befugte Person zum laufenden Preis
 bewirken.
 
-
 ##### § 1222 Pfandrecht an mehreren Sachen
 
 Besteht das Pfandrecht an mehreren Sachen, so haftet jede für die
 ganze Forderung.
-
 
 ##### § 1223 Rückgabepflicht; Einlösungsrecht
 
@@ -20101,12 +18344,10 @@ des Pfandrechts dem Verpfänder zurückzugeben.
 des Pfandgläubigers verlangen, sobald der Schuldner zur Leistung
 berechtigt ist.
 
-
 ##### § 1224 Befriedigung durch Hinterlegung oder Aufrechnung
 
 Die Befriedigung des Pfandgläubigers durch den Verpfänder kann auch
 durch Hinterlegung oder durch Aufrechnung erfolgen.
-
 
 ##### § 1225 Forderungsübergang auf den Verpfänder
 
@@ -20114,7 +18355,6 @@ Ist der Verpfänder nicht der persönliche Schuldner, so geht, soweit er
 den Pfandgläubiger befriedigt, die Forderung auf ihn über. Die für
 einen Bürgen geltenden Vorschrift des § 774 findet entsprechende
 Anwendung.
-
 
 ##### § 1226 Verjährung der Ersatzansprüche
 
@@ -20124,13 +18364,11 @@ auf Ersatz von Verwendungen oder auf Gestattung der Wegnahme einer
 Einrichtung verjähren in sechs Monaten. Die Vorschrift des § 548 Abs.
 1 Satz 2 und 3, Abs. 2 findet entsprechende Anwendung.
 
-
 ##### § 1227 Schutz des Pfandrechts
 
 Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf die
 Ansprüche des Pfandgläubigers die für die Ansprüche aus dem Eigentum
 geltenden Vorschriften entsprechende Anwendung.
-
 
 ##### § 1228 Befriedigung durch Pfandverkauf
 
@@ -20142,7 +18380,6 @@ Forderung ganz oder zum Teil fällig ist. Besteht der geschuldete
 Gegenstand nicht in Geld, so ist der Verkauf erst zulässig, wenn die
 Forderung in eine Geldforderung übergegangen ist.
 
-
 ##### § 1229 Verbot der Verfallvereinbarung
 
 Eine vor dem Eintritt der Verkaufsberechtigung getroffene
@@ -20150,14 +18387,12 @@ Vereinbarung, nach welcher dem Pfandgläubiger, falls er nicht oder
 nicht rechtzeitig befriedigt wird, das Eigentum an der Sache zufallen
 oder übertragen werden soll, ist nichtig.
 
-
 ##### § 1230 Auswahl unter mehreren Pfändern
 
 Unter mehreren Pfändern kann der Pfandgläubiger, soweit nicht ein
 anderes bestimmt ist, diejenigen auswählen, welche verkauft werden
 sollen. Er kann nur so viele Pfänder zum Verkauf bringen, als zu
 seiner Befriedigung erforderlich sind.
-
 
 ##### § 1231 Herausgabe des Pfandes zum Verkauf
 
@@ -20168,7 +18403,6 @@ anstelle der Herausgabe die Ablieferung an einen gemeinschaftlichen
 Verwahrer zu erfolgen; der Verwahrer hat sich bei der Ablieferung zu
 verpflichten, das Pfand zum Verkauf bereitzustellen.
 
-
 ##### § 1232 Nachstehende Pfandgläubiger
 
 Der Pfandgläubiger ist nicht verpflichtet, einem ihm im Range
@@ -20176,7 +18410,6 @@ nachstehenden Pfandgläubiger das Pfand zum Zwecke des Verkaufs
 herauszugeben. Ist er nicht im Besitz des Pfandes, so kann er, sofern
 er nicht selbst den Verkauf betreibt, dem Verkauf durch einen
 nachstehenden Pfandgläubiger nicht widersprechen.
-
 
 ##### § 1233 Ausführung des Verkaufs
 
@@ -20187,7 +18420,6 @@ nachstehenden Pfandgläubiger nicht widersprechen.
 vollstreckbaren Titel gegen den Eigentümer erlangt, so kann er den
 Verkauf auch nach den für den Verkauf einer gepfändeten Sache
 geltenden Vorschriften bewirken lassen.
-
 
 ##### § 1234 Verkaufsandrohung; Wartefrist
 
@@ -20201,7 +18433,6 @@ untunlich ist.
 Androhung erfolgen. Ist die Androhung untunlich, so wird der Monat von
 dem Eintritt der Verkaufsberechtigung an berechnet.
 
-
 ##### § 1235 Öffentliche Versteigerung
 
 (1) Der Verkauf des Pfandes ist im Wege öffentlicher Versteigerung zu
@@ -20210,7 +18441,6 @@ bewirken.
 (2) Hat das Pfand einen Börsen- oder Marktpreis, so findet die
 Vorschrift des § 1221 Anwendung.
 
-
 ##### § 1236 Versteigerungsort
 
 Die Versteigerung hat an dem Orte zu erfolgen, an dem das Pfand
@@ -20218,14 +18448,12 @@ aufbewahrt wird. Ist von einer Versteigerung an dem Aufbewahrungsort
 ein angemessener Erfolg nicht zu erwarten, so ist das Pfand an einem
 geeigneten anderen Orte zu versteigern.
 
-
 ##### § 1237 Öffentliche Bekanntmachung
 
 Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des
 Pfandes öffentlich bekannt zu machen. Der Eigentümer und Dritte, denen
 Rechte an dem Pfande zustehen, sind besonders zu benachrichtigen; die
 Benachrichtigung darf unterbleiben, wenn sie untunlich ist.
-
 
 ##### § 1238 Verkaufsbedingungen
 
@@ -20240,7 +18468,6 @@ sofortige Entrichtung des Kaufpreises, so gilt das Gleiche, wenn nicht
 vor dem Schluss des Versteigerungstermins von dem Vorbehalt der
 Rechtsverwirkung Gebrauch gemacht wird.
 
-
 ##### § 1239 Mitbieten durch Gläubiger und Eigentümer
 
 (1) Der Pfandgläubiger und der Eigentümer können bei der Versteigerung
@@ -20251,7 +18478,6 @@ Kaufpreis als von ihm empfangen anzusehen.
 der Betrag bar erlegt wird. Das Gleiche gilt von dem Gebot des
 Schuldners, wenn das Pfand für eine fremde Schuld haftet.
 
-
 ##### § 1240 Gold- und Silbersachen
 
 (1) Gold- und Silbersachen dürfen nicht unter dem Gold- oder
@@ -20261,13 +18487,11 @@ Silberwert zugeschlagen werden.
 durch eine zur öffentlichen Versteigerung befugte Person aus freier
 Hand zu einem den Gold- oder Silberwert erreichenden Preis erfolgen.
 
-
 ##### § 1241 Benachrichtigung des Eigentümers
 
 Der Pfandgläubiger hat den Eigentümer von dem Verkauf des Pfandes und
 dem Ergebnis unverzüglich zu benachrichtigen, sofern nicht die
 Benachrichtigung untunlich ist.
-
 
 ##### § 1242 Wirkungen der rechtmäßigen Veräußerung
 
@@ -20280,7 +18504,6 @@ erteilt wird.
 bekannt waren. Das Gleiche gilt von einem Nießbrauch, es sei denn,
 dass er allen Pfandrechten im Range vorgeht.
 
-
 ##### § 1243 Rechtswidrige Veräußerung
 
 (1) Die Veräußerung des Pfandes ist nicht rechtmäßig, wenn gegen die
@@ -20291,7 +18514,6 @@ Vorschriften des § 1228 Abs. 2, des § 1230 Satz 2, des § 1235, des §
 Vorschrift, so ist er zum Schadensersatz verpflichtet, wenn ihm ein
 Verschulden zur Last fällt.
 
-
 ##### § 1244 Gutgläubiger Erwerb
 
 Wird eine Sache als Pfand veräußert, ohne dass dem Veräußerer ein
@@ -20300,7 +18522,6 @@ Rechtmäßigkeit der Veräußerung abhängt, so finden die Vorschriften der
 §§ 932 bis 934, 936 entsprechende Anwendung, wenn die Veräußerung nach
 § 1233 Abs. 2 erfolgt ist oder die Vorschriften des § 1235 oder des §
 1240 Abs. 2 beobachtet worden sind.
-
 
 ##### § 1245 Abweichende Vereinbarungen
 
@@ -20315,7 +18536,6 @@ dessen Gunsten sie erfolgt; sie ist unwiderruflich.
 und des § 1240 kann nicht vor dem Eintritt der Verkaufsberechtigung
 verzichtet werden.
 
-
 ##### § 1246 Abweichung aus Billigkeitsgründen
 
 (1) Entspricht eine von den Vorschriften der §§ 1235 bis 1240
@@ -20325,13 +18545,11 @@ der Verkauf in dieser Art erfolgt.
 
 (2) Kommt eine Einigung nicht zustande, so entscheidet das Gericht.
 
-
 ##### § 1247 Erlös aus dem Pfande
 
 Soweit der Erlös aus dem Pfande dem Pfandgläubiger zu seiner
 Befriedigung gebührt, gilt die Forderung als von dem Eigentümer
 berichtigt. Im Übrigen tritt der Erlös an die Stelle des Pfandes.
-
 
 ##### § 1248 Eigentumsvermutung
 
@@ -20339,14 +18557,12 @@ Bei dem Verkauf des Pfandes gilt zugunsten des Pfandgläubigers der
 Verpfänder als der Eigentümer, es sei denn, dass der Pfandgläubiger
 weiß, dass der Verpfänder nicht der Eigentümer ist.
 
-
 ##### § 1249 Ablösungsrecht
 
 Wer durch die Veräußerung des Pfandes ein Recht an dem Pfande
 verlieren würde, kann den Pfandgläubiger befriedigen, sobald der
 Schuldner zur Leistung berechtigt ist. Die Vorschrift des § 268 Abs.
 2, 3 findet entsprechende Anwendung.
-
 
 ##### § 1250 Übertragung der Forderung
 
@@ -20356,7 +18572,6 @@ neuen Gläubiger über. Das Pfandrecht kann nicht ohne die Forderung
 
 (2) Wird bei der Übertragung der Forderung der Übergang des
 Pfandrechts ausgeschlossen, so erlischt das Pfandrecht.
-
 
 ##### § 1251 Wirkung des Pfandrechtsübergangs
 
@@ -20373,11 +18588,9 @@ Pfandgläubigers tritt nicht ein, wenn die Forderung kraft Gesetzes auf
 den neuen Pfandgläubiger übergeht oder ihm auf Grund einer
 gesetzlichen Verpflichtung abgetreten wird.
 
-
 ##### § 1252 Erlöschen mit der Forderung
 
 Das Pfandrecht erlischt mit der Forderung, für die es besteht.
-
 
 ##### § 1253 Erlöschen durch Rückgabe
 
@@ -20391,14 +18604,12 @@ worden sei. Diese Vermutung gilt auch dann, wenn sich das Pfand im
 Besitz eines Dritten befindet, der den Besitz nach der Entstehung des
 Pfandrechts von dem Verpfänder oder dem Eigentümer erlangt hat.
 
-
 ##### § 1254 Anspruch auf Rückgabe
 
 Steht dem Pfandrecht eine Einrede entgegen, durch welche die
 Geltendmachung des Pfandrechts dauernd ausgeschlossen wird, so kann
 der Verpfänder die Rückgabe des Pfandes verlangen. Das gleiche Recht
 hat der Eigentümer.
-
 
 ##### § 1255 Aufhebung des Pfandrechts
 
@@ -20411,7 +18622,6 @@ die Zustimmung des Dritten erforderlich. Die Zustimmung ist demjenigen
 gegenüber zu erklären, zu dessen Gunsten sie erfolgt; sie ist
 unwiderruflich.
 
-
 ##### § 1256 Zusammentreffen von Pfandrecht und Eigentum
 
 (1) Das Pfandrecht erlischt, wenn es mit dem Eigentum in derselben
@@ -20422,13 +18632,11 @@ Dritten belastet ist.
 (2) Das Pfandrecht gilt als nicht erloschen, soweit der Eigentümer ein
 rechtliches Interesse an dem Fortbestehen des Pfandrechts hat.
 
-
 ##### § 1257 Gesetzliches Pfandrecht
 
 Die Vorschriften über das durch Rechtsgeschäft bestellte Pfandrecht
 finden auf ein kraft Gesetzes entstandenes Pfandrecht entsprechende
 Anwendung.
-
 
 ##### § 1258 Pfandrecht am Anteil eines Miteigentümers
 
@@ -20454,7 +18662,6 @@ treten.
 (4) Das Recht des Pfandgläubigers zum Verkauf des Anteils bleibt
 unberührt.
 
-
 ##### § 1259 Verwertung des gewerblichen Pfandes
 
 Sind Eigentümer und Pfandgläubiger Unternehmer, juristische Personen
@@ -20468,13 +18675,9 @@ Fall gilt die Forderung in Höhe des am Tag der Fälligkeit geltenden
 Börsen- oder Marktpreises als von dem Eigentümer berichtigt. Die §§
 1229 und 1233 bis 1239 finden keine Anwendung.
 
-
 ##### (XXXX) §§ 1260 bis 1272 (weggefallen)
 
-
-
 #### Titel 2 - Pfandrecht an Rechten
-
 
 ##### § 1273 Gesetzlicher Inhalt des Pfandrechts an Rechten
 
@@ -20484,7 +18687,6 @@ Börsen- oder Marktpreises als von dem Eigentümer berichtigt. Die §§
 Pfandrecht an beweglichen Sachen entsprechende Anwendung, soweit sich
 nicht aus den §§ 1274 bis 1296 ein anderes ergibt. Die Anwendung der
 Vorschriften des § 1208 und des § 1213 Abs. 2 ist ausgeschlossen.
-
 
 ##### § 1274 Bestellung
 
@@ -20496,7 +18698,6 @@ Vorschriften der §§ 1205, 1206 Anwendung.
 (2) Soweit ein Recht nicht übertragbar ist, kann ein Pfandrecht an dem
 Recht nicht bestellt werden.
 
-
 ##### § 1275 Pfandrecht an Recht auf Leistung
 
 Ist ein Recht, kraft dessen eine Leistung gefordert werden kann,
@@ -20506,7 +18707,6 @@ welche im Falle der Übertragung des Rechts für das Rechtsverhältnis
 zwischen dem Erwerber und dem Verpflichteten gelten, und im Falle
 einer nach § 1217 Abs. 1 getroffenen gerichtlichen Anordnung die
 Vorschrift des § 1070 Abs. 2 entsprechende Anwendung.
-
 
 ##### § 1276 Aufhebung oder Änderung des verpfändeten Rechts
 
@@ -20518,14 +18718,12 @@ ist unwiderruflich. Die Vorschrift des § 876 Satz 3 bleibt unberührt.
 (2) Das Gleiche gilt im Falle einer Änderung des Rechts, sofern sie
 das Pfandrecht beeinträchtigt.
 
-
 ##### § 1277 Befriedigung durch Zwangsvollstreckung
 
 Der Pfandgläubiger kann seine Befriedigung aus dem Recht nur auf Grund
 eines vollstreckbaren Titels nach den für die Zwangsvollstreckung
 geltenden Vorschriften suchen, sofern nicht ein anderes bestimmt ist.
 Die Vorschriften des § 1229 und des § 1245 Abs. 2 bleiben unberührt.
-
 
 ##### § 1278 Erlöschen durch Rückgabe
 
@@ -20534,20 +18732,17 @@ erforderlich ist, Gegenstand des Pfandrechts, so findet auf das
 Erlöschen des Pfandrechts durch die Rückgabe der Sache die Vorschrift
 des § 1253 entsprechende Anwendung.
 
-
 ##### § 1279 Pfandrecht an einer Forderung
 
 Für das Pfandrecht an einer Forderung gelten die besonderen
 Vorschriften der §§ 1280 bis 1290. Soweit eine Forderung einen Börsen-
 oder Marktpreis hat, findet § 1259 entsprechende Anwendung.
 
-
 ##### § 1280 Anzeige an den Schuldner
 
 Die Verpfändung einer Forderung, zu deren Übertragung der
 Abtretungsvertrag genügt, ist nur wirksam, wenn der Gläubiger sie dem
 Schuldner anzeigt.
-
 
 ##### § 1281 Leistung vor Fälligkeit
 
@@ -20557,7 +18752,6 @@ gemeinschaftlich geleistet wird; jeder kann statt der Leistung
 verlangen, dass die geschuldete Sache für beide hinterlegt oder, wenn
 sie sich nicht zur Hinterlegung eignet, an einen gerichtlich zu
 bestellenden Verwahrer abgeliefert wird.
-
 
 ##### § 1282 Leistung nach Fälligkeit
 
@@ -20573,7 +18767,6 @@ abgetreten wird.
 nicht berechtigt; das Recht, die Befriedigung aus der Forderung nach §
 1277 zu suchen, bleibt unberührt.
 
-
 ##### § 1283 Kündigung
 
 (1) Hängt die Fälligkeit der verpfändeten Forderung von einer
@@ -20588,12 +18781,10 @@ Pfandgläubiger und dem Gläubiger erklärt wird.
 auch der Pfandgläubiger zur Kündigung berechtigt; für die Kündigung
 des Schuldners genügt die Erklärung gegenüber dem Pfandgläubiger.
 
-
 ##### § 1284 Abweichende Vereinbarungen
 
 Die Vorschriften der §§ 1281 bis 1283 finden keine Anwendung, soweit
 der Pfandgläubiger und der Gläubiger ein anderes vereinbaren.
-
 
 ##### § 1285 Mitwirkung zur Einziehung
 
@@ -20607,7 +18798,6 @@ Einziehung zu sorgen. Von der Einziehung hat er den Gläubiger
 unverzüglich zu benachrichtigen, sofern nicht die Benachrichtigung
 untunlich ist.
 
-
 ##### § 1286 Kündigungspflicht bei Gefährdung
 
 Hängt die Fälligkeit der verpfändeten Forderung von einer Kündigung
@@ -20619,7 +18809,6 @@ der gleichen Voraussetzung kann der Gläubiger von dem Pfandgläubiger
 die Zustimmung zur Kündigung verlangen, sofern die Zustimmung
 erforderlich ist.
 
-
 ##### § 1287 Wirkung der Leistung
 
 Leistet der Schuldner in Gemäßheit der §§ 1281, 1282, so erwirbt mit
@@ -20629,7 +18818,6 @@ in der Übertragung des Eigentums an einem Grundstück, so erwirbt der
 Pfandgläubiger eine Sicherungshypothek; besteht sie in der Übertragung
 des Eigentums an einem eingetragenen Schiff oder Schiffsbauwerk, so
 erwirbt der Pfandgläubiger eine Schiffshypothek.
-
 
 ##### § 1288 Anlegung eingezogenen Geldes
 
@@ -20645,7 +18833,6 @@ wird. Die Art der Anlegung bestimmt der Gläubiger.
 Forderung des Pfandgläubigers, soweit ihm der eingezogene Betrag zu
 seiner Befriedigung gebührt, als von dem Gläubiger berichtigt.
 
-
 ##### § 1289 Erstreckung auf die Zinsen
 
 Das Pfandrecht an einer Forderung erstreckt sich auf die Zinsen der
@@ -20654,19 +18841,16 @@ finden entsprechende Anwendung; an die Stelle der Beschlagnahme tritt
 die Anzeige des Pfandgläubigers an den Schuldner, dass er von dem
 Einziehungsrecht Gebrauch mache.
 
-
 ##### § 1290 Einziehung bei mehrfacher Verpfändung
 
 Bestehen mehrere Pfandrechte an einer Forderung, so ist zur Einziehung
 nur derjenige Pfandgläubiger berechtigt, dessen Pfandrecht den übrigen
 Pfandrechten vorgeht.
 
-
 ##### § 1291 Pfandrecht an Grund- oder Rentenschuld
 
 Die Vorschriften über das Pfandrecht an einer Forderung gelten auch
 für das Pfandrecht an einer Grundschuld und an einer Rentenschuld.
-
 
 ##### § 1292 Verpfändung von Orderpapieren
 
@@ -20674,12 +18858,10 @@ Zur Verpfändung eines Wechsels oder eines anderen Papiers, das durch
 Indossament übertragen werden kann, genügt die Einigung des Gläubigers
 und des Pfandgläubigers und die Übergabe des indossierten Papiers.
 
-
 ##### § 1293 Pfandrecht an Inhaberpapieren
 
 Für das Pfandrecht an einem Inhaberpapier gelten die Vorschriften über
 das Pfandrecht an beweglichen Sachen.
-
 
 ##### § 1294 Einziehung und Kündigung
 
@@ -20690,7 +18872,6 @@ eingetreten sind, der Pfandgläubiger zur Einziehung und, falls
 Kündigung erforderlich ist, zur Kündigung berechtigt und kann der
 Schuldner nur an ihn leisten.
 
-
 ##### § 1295 Freihändiger Verkauf von Orderpapieren
 
 Hat ein verpfändetes Papier, das durch Indossament übertragen werden
@@ -20698,7 +18879,6 @@ kann, einen Börsen- oder Marktpreis, so ist der Gläubiger nach dem
 Eintritt der Voraussetzungen des § 1228 Abs. 2 berechtigt, das Papier
 nach § 1221 verkaufen zu lassen. § 1259 findet entsprechende
 Anwendung.
-
 
 ##### § 1296 Erstreckung auf Zinsscheine
 
@@ -20709,18 +18889,11 @@ sofern nicht ein anderes bestimmt ist, die Herausgabe der Scheine
 verlangen, soweit sie vor dem Eintritt der Voraussetzungen des § 1228
 Abs. 2 fällig werden.
 
-
 ## Buch 4 - Familienrecht
-
-
 
 ### Abschnitt 1 - Bürgerliche Ehe
 
-
-
 #### Titel 1 - Verlöbnis
-
-
 
 ##### § 1297 Unklagbarkeit, Nichtigkeit eines Strafversprechens
 
@@ -20729,7 +18902,6 @@ werden.
 
 (2) Das Versprechen einer Strafe für den Fall, dass die Eingehung der
 Ehe unterbleibt, ist nichtig.
-
 
 ##### § 1298 Ersatzpflicht bei Rücktritt
 
@@ -20749,7 +18921,6 @@ Umständen nach angemessen waren.
 (3) Die Ersatzpflicht tritt nicht ein, wenn ein wichtiger Grund für
 den Rücktritt vorliegt.
 
-
 ##### § 1299 Rücktritt aus Verschulden des anderen Teils
 
 Veranlasst ein Verlobter den Rücktritt des anderen durch ein
@@ -20757,11 +18928,9 @@ Verschulden, das einen wichtigen Grund für den Rücktritt bildet, so
 ist er nach Maßgabe des § 1298 Abs. 1, 2 zum Schadensersatz
 verpflichtet.
 
-
 ##### § 1300
 
 (weggefallen)
-
 
 ##### § 1301 Rückgabe der Geschenke
 
@@ -20772,20 +18941,14 @@ einer ungerechtfertigten Bereicherung fordern. Im Zweifel ist
 anzunehmen, dass die Rückforderung ausgeschlossen sein soll, wenn das
 Verlöbnis durch den Tod eines der Verlobten aufgelöst wird.
 
-
 ##### § 1302 Verjährung
 
 Die Verjährungsfrist der in den §§ 1298 bis 1301 bestimmten Ansprüche
 beginnt mit der Auflösung des Verlöbnisses.
 
-
 #### Titel 2 - Eingehung der Ehe
 
-
-
 ##### Untertitel 1 - Ehefähigkeit
-
-
 
 ###### § 1303 Ehemündigkeit
 
@@ -20806,20 +18969,15 @@ der Antragsteller zur Eingehung der Ehe nicht mehr der Einwilligung
 des gesetzlichen Vertreters oder eines sonstigen Inhabers der
 Personensorge.
 
-
 ###### § 1304 Geschäftsunfähigkeit
 
 Wer geschäftsunfähig ist, kann eine Ehe nicht eingehen.
-
 
 ###### § 1305
 
 (weggefallen)
 
-
 ##### Untertitel 2 - Eheverbote
-
-
 
 ###### § 1306 Bestehende Ehe oder Lebenspartnerschaft
 
@@ -20827,14 +18985,12 @@ Eine Ehe darf nicht geschlossen werden, wenn zwischen einer der
 Personen, die die Ehe miteinander eingehen wollen, und einer dritten
 Person eine Ehe oder eine Lebenspartnerschaft besteht.
 
-
 ###### § 1307 Verwandtschaft
 
 Eine Ehe darf nicht geschlossen werden zwischen Verwandten in gerader
 Linie sowie zwischen vollbürtigen und halbbürtigen Geschwistern. Dies
 gilt auch, wenn das Verwandtschaftsverhältnis durch Annahme als Kind
 erloschen ist.
-
 
 ###### § 1308 Annahme als Kind
 
@@ -20849,10 +19005,7 @@ künftigen Ehegatten durch die Annahme als Kind eine Verwandtschaft in
 der Seitenlinie begründet worden ist. Die Befreiung soll versagt
 werden, wenn wichtige Gründe der Eingehung der Ehe entgegenstehen.
 
-
 ##### Untertitel 3 - Ehefähigkeitszeugnis
-
-
 
 ###### § 1309 Ehefähigkeitszeugnis für Ausländer
 
@@ -20879,10 +19032,7 @@ ausstellen. In besonderen Fällen darf sie auch Angehörigen anderer
 Staaten erteilt werden. Die Befreiung gilt nur für die Dauer von sechs
 Monaten.
 
-
 ##### Untertitel 4 - Eheschließung
-
-
 
 ###### § 1310 Zuständigkeit des Standesbeamten, Heilung fehlerhafter Ehen
 
@@ -20919,14 +19069,12 @@ und die Ehegatten seitdem zehn Jahre oder bis zum Tode eines der
 Ehegatten, mindestens jedoch fünf Jahre, als Ehegatten miteinander
 gelebt haben.
 
-
 ###### § 1311 Persönliche Erklärung
 
 Die Eheschließenden müssen die Erklärungen nach § 1310 Abs. 1
 persönlich und bei gleichzeitiger Anwesenheit abgeben. Die Erklärungen
 können nicht unter einer Bedingung oder Zeitbestimmung abgegeben
 werden.
-
 
 ###### § 1312 Trauung
 
@@ -20937,10 +19085,7 @@ dass sie nunmehr kraft Gesetzes rechtmäßig verbundene Eheleute sind.
 Die Eheschließung kann in Gegenwart von einem oder zwei Zeugen
 erfolgen, sofern die Eheschließenden dies wünschen.
 
-
 #### Titel 3 - Aufhebung der Ehe
-
-
 
 ##### § 1313 Aufhebung durch richterliche Entscheidung
 
@@ -20948,7 +19093,6 @@ Eine Ehe kann nur durch richterliche Entscheidung auf Antrag
 aufgehoben werden. Die Ehe ist mit der Rechtskraft der Entscheidung
 aufgelöst. Die Voraussetzungen, unter denen die Aufhebung begehrt
 werden kann, ergeben sich aus den folgenden Vorschriften.
-
 
 ##### § 1314 Aufhebungsgründe
 
@@ -20981,10 +19125,6 @@ ist.
 
 5.  beide Ehegatten sich bei der Eheschließung darüber einig waren, dass
     sie keine Verpflichtung gemäß § 1353 Abs. 1 begründen wollen.
-
-
-
-
 
 ##### § 1315 Ausschluss der Aufhebung
 
@@ -21039,10 +19179,6 @@ des Minderjährigen ersetzen.
     gelebt haben, es sei denn, dass bei Ablauf der fünf Jahre oder zur
     Zeit des Todes die Aufhebung beantragt ist.
 
-
-
-
-
 ##### § 1316 Antragsberechtigung
 
 (1) Antragsberechtigt
@@ -21074,7 +19210,6 @@ oder für die aus der Ehe hervorgegangenen Kinder eine so schwere Härte
 darstellen würde, dass die Aufrechterhaltung der Ehe ausnahmsweise
 geboten erscheint.
 
-
 ##### § 1317 Antragsfrist
 
 (1) Der Antrag kann in den Fällen des § 1314 Absatz 2 Nummer 2 und 3
@@ -21095,7 +19230,6 @@ den Antrag stellen.
 
 (3) Ist die Ehe bereits aufgelöst, so kann der Antrag nicht mehr
 gestellt werden.
-
 
 ##### § 1318 Folgen der Aufhebung
 
@@ -21138,10 +19272,7 @@ Belange der dritten Person besonders zu berücksichtigen.
 die Aufhebbarkeit der Ehe bei der Eheschließung gekannt hat, keine
 Anwendung.
 
-
 #### Titel 4 - Wiederverheiratung nach Todeserklärung
-
-
 
 ##### § 1319 Aufhebung der bisherigen Ehe
 
@@ -21158,7 +19289,6 @@ wussten, dass der für tot erklärte Ehegatte im Zeitpunkt der
 Todeserklärung noch lebte. Sie bleibt auch dann aufgelöst, wenn die
 Todeserklärung aufgehoben wird.
 
-
 ##### § 1320 Aufhebung der neuen Ehe
 
 (1) Lebt der für tot erklärte Ehegatte noch, so kann unbeschadet des §
@@ -21172,14 +19302,9 @@ lebt. § 1317 Abs. 1 Satz 3, Abs. 2 gilt entsprechend.
 
 (2) Für die Folgen der Aufhebung gilt § 1318 entsprechend.
 
-
 ##### (XXXX) §§ 1321 bis 1352 (weggefallen)
 
-
-
 #### Titel 5 - Wirkungen der Ehe im Allgemeinen
-
-
 
 ##### § 1353 Eheliche Lebensgemeinschaft
 
@@ -21192,11 +19317,9 @@ Ehegatten nach Herstellung der Gemeinschaft Folge zu leisten, wenn
 sich das Verlangen als Missbrauch seines Rechts darstellt oder wenn
 die Ehe gescheitert ist.
 
-
 ##### § 1354
 
 (weggefallen)
-
 
 ##### § 1355 Ehename
 
@@ -21235,7 +19358,6 @@ anfügen. Absatz 4 gilt entsprechend.
 Ehegatten zum Zeitpunkt der Erklärung gegenüber dem Standesamt
 einzutragen ist.
 
-
 ##### § 1356 Haushaltsführung, Erwerbstätigkeit
 
 (1) Die Ehegatten regeln die Haushaltsführung im gegenseitigen
@@ -21245,7 +19367,6 @@ so leitet dieser den Haushalt in eigener Verantwortung.
 (2) Beide Ehegatten sind berechtigt, erwerbstätig zu sein. Bei der
 Wahl und Ausübung einer Erwerbstätigkeit haben sie auf die Belange des
 anderen Ehegatten und der Familie die gebotene Rücksicht zu nehmen.
-
 
 ##### § 1357 Geschäfte zur Deckung des Lebensbedarfs
 
@@ -21264,11 +19385,9 @@ Ausschließung nur nach Maßgabe des § 1412.
 
 (3) Absatz 1 gilt nicht, wenn die Ehegatten getrennt leben.
 
-
 ##### § 1358
 
 (weggefallen)
-
 
 ##### § 1359 Umfang der Sorgfaltspflicht
 
@@ -21277,7 +19396,6 @@ Verhältnis ergebenden Verpflichtungen einander nur für diejenige
 Sorgfalt einzustehen, welche sie in eigenen Angelegenheiten anzuwenden
 pflegen.
 
-
 ##### § 1360 Verpflichtung zum Familienunterhalt
 
 Die Ehegatten sind einander verpflichtet, durch ihre Arbeit und mit
@@ -21285,7 +19403,6 @@ ihrem Vermögen die Familie angemessen zu unterhalten. Ist einem
 Ehegatten die Haushaltsführung überlassen, so erfüllt er seine
 Verpflichtung, durch Arbeit zum Unterhalt der Familie beizutragen, in
 der Regel durch die Führung des Haushalts.
-
 
 ##### § 1360a Umfang der Unterhaltspflicht
 
@@ -21311,13 +19428,11 @@ dies der Billigkeit entspricht. Das Gleiche gilt für die Kosten der
 Verteidigung in einem Strafverfahren, das gegen einen Ehegatten
 gerichtet ist.
 
-
 ##### § 1360b Zuvielleistung
 
 Leistet ein Ehegatte zum Unterhalt der Familie einen höheren Beitrag
 als ihm obliegt, so ist im Zweifel anzunehmen, dass er nicht
 beabsichtigt, von dem anderen Ehegatten Ersatz zu verlangen.
-
 
 ##### § 1361 Unterhalt bei Getrenntleben
 
@@ -21348,7 +19463,6 @@ Verpflichtete schuldet den vollen Monatsbetrag auch dann, wenn der
 Berechtigte im Laufe des Monats stirbt. § 1360a Abs. 3, 4 und die §§
 1360b, 1605 sind entsprechend anzuwenden.
 
-
 ##### § 1361a Verteilung der Haushaltsgegenstände bei Getrenntleben
 
 (1) Leben die Ehegatten getrennt, so kann jeder von ihnen die ihm
@@ -21367,7 +19481,6 @@ Benutzung der Haushaltsgegenstände festsetzen.
 
 (4) Die Eigentumsverhältnisse bleiben unberührt, sofern die Ehegatten
 nichts anderes vereinbaren.
-
 
 ##### § 1361b Ehewohnung bei Getrenntleben
 
@@ -21407,7 +19520,6 @@ Ehegatten gegenüber nicht bekundet, so wird unwiderleglich vermutet,
 dass er dem in der Ehewohnung verbliebenen Ehegatten das alleinige
 Nutzungsrecht überlassen hat.
 
-
 ##### § 1362 Eigentumsvermutung
 
 (1) Zugunsten der Gläubiger des Mannes und der Gläubiger der Frau wird
@@ -21423,14 +19535,9 @@ bestimmten Sachen wird im Verhältnis der Ehegatten zueinander und zu
 den Gläubigern vermutet, dass sie dem Ehegatten gehören, für dessen
 Gebrauch sie bestimmt sind.
 
-
 #### Titel 6 - Eheliches Güterrecht
 
-
-
 ##### Untertitel 1 - Gesetzliches Güterrecht
-
-
 
 ###### § 1363 Zugewinngemeinschaft
 
@@ -21443,13 +19550,11 @@ Vermögen, das ein Ehegatte nach der Eheschließung erwirbt. Der
 Zugewinn, den die Ehegatten in der Ehe erzielen, wird jedoch
 ausgeglichen, wenn die Zugewinngemeinschaft endet.
 
-
 ###### § 1364 Vermögensverwaltung
 
 Jeder Ehegatte verwaltet sein Vermögen selbständig; er ist jedoch in
 der Verwaltung seines Vermögens nach Maßgabe der folgenden
 Vorschriften beschränkt.
-
 
 ###### § 1365 Verfügung über Vermögen im Ganzen
 
@@ -21464,7 +19569,6 @@ Ehegatten die Zustimmung des anderen Ehegatten ersetzen, wenn dieser
 sie ohne ausreichenden Grund verweigert oder durch Krankheit oder
 Abwesenheit an der Abgabe einer Erklärung verhindert und mit dem
 Aufschub Gefahr verbunden ist.
-
 
 ###### § 1366 Genehmigung von Verträgen
 
@@ -21492,12 +19596,10 @@ gilt die Genehmigung als verweigert.
 
 (4) Wird die Genehmigung verweigert, so ist der Vertrag unwirksam.
 
-
 ###### § 1367 Einseitige Rechtsgeschäfte
 
 Ein einseitiges Rechtsgeschäft, das ohne die erforderliche
 Einwilligung vorgenommen wird, ist unwirksam.
-
 
 ###### § 1368 Geltendmachung der Unwirksamkeit
 
@@ -21505,7 +19607,6 @@ Verfügt ein Ehegatte ohne die erforderliche Zustimmung des anderen
 Ehegatten über sein Vermögen, so ist auch der andere Ehegatte
 berechtigt, die sich aus der Unwirksamkeit der Verfügung ergebenden
 Rechte gegen den Dritten gerichtlich geltend zu machen.
-
 
 ###### § 1369 Verfügungen über Haushaltsgegenstände
 
@@ -21520,11 +19621,9 @@ eine Erklärung abzugeben.
 
 (3) Die Vorschriften der §§ 1366 bis 1368 gelten entsprechend.
 
-
 ###### § 1370 (weggefallen)
 
 -
-
 
 ###### § 1371 Zugewinnausgleich im Todesfall
 
@@ -21554,19 +19653,16 @@ Abkömmlingen, wenn und soweit sie dessen bedürfen, die Mittel zu einer
 angemessenen Ausbildung aus dem nach Absatz 1 zusätzlich gewährten
 Viertel zu gewähren.
 
-
 ###### § 1372 Zugewinnausgleich in anderen Fällen
 
 Wird der Güterstand auf andere Weise als durch den Tod eines Ehegatten
 beendet, so wird der Zugewinn nach den Vorschriften der §§ 1373 bis
 1390 ausgeglichen.
 
-
 ###### § 1373 Zugewinn
 
 Zugewinn ist der Betrag, um den das Endvermögen eines Ehegatten das
 Anfangsvermögen übersteigt.
-
 
 ###### § 1374 Anfangsvermögen
 
@@ -21581,7 +19677,6 @@ zu den Einkünften zu rechnen ist.
 
 (3) Verbindlichkeiten sind über die Höhe des Vermögens hinaus
 abzuziehen.
-
 
 ###### § 1375 Endvermögen
 
@@ -21618,7 +19713,6 @@ Güterstands eingetreten ist oder wenn der andere Ehegatte mit der
 unentgeltlichen Zuwendung oder der Verschwendung einverstanden gewesen
 ist.
 
-
 ###### § 1376 Wertermittlung des Anfangs- und Endvermögens
 
 (1) Der Berechnung des Anfangsvermögens wird der Wert zugrunde gelegt,
@@ -21642,7 +19736,6 @@ Weiterführung oder Wiederaufnahme des Betriebs durch den Eigentümer
 oder einen Abkömmling erwartet werden kann; die Vorschrift des § 2049
 Abs. 2 ist anzuwenden.
 
-
 ###### § 1377 Verzeichnis des Anfangsvermögens
 
 (1) Haben die Ehegatten den Bestand und den Wert des einem Ehegatten
@@ -21660,7 +19753,6 @@ Sachverständige feststellen lassen.
 
 (3) Soweit kein Verzeichnis aufgenommen ist, wird vermutet, dass das
 Endvermögen eines Ehegatten seinen Zugewinn darstellt.
-
 
 ###### § 1378 Ausgleichsforderung
 
@@ -21686,7 +19778,6 @@ Beendigung des Güterstands verpflichten, über die Ausgleichsforderung
 zu verfügen.
 
 (4) (weggefallen)
-
 
 ###### § 1379 Auskunftspflicht
 
@@ -21715,7 +19806,6 @@ durch einen zuständigen Beamten oder Notar aufgenommen wird.
 Ehegatten Auskunft über das Vermögen zum Zeitpunkt der Trennung
 verlangen. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-
 ###### § 1380 Anrechnung von Vorausempfängen
 
 (1) Auf die Ausgleichsforderung eines Ehegatten wird angerechnet, was
@@ -21731,7 +19821,6 @@ Ausgleichsforderung dem Zugewinn des Ehegatten hinzugerechnet, der die
 Zuwendung gemacht hat. Der Wert bestimmt sich nach dem Zeitpunkt der
 Zuwendung.
 
-
 ###### § 1381 Leistungsverweigerung wegen grober Unbilligkeit
 
 (1) Der Schuldner kann die Erfüllung der Ausgleichsforderung
@@ -21742,7 +19831,6 @@ Falles grob unbillig wäre.
 Ehegatte, der den geringeren Zugewinn erzielt hat, längere Zeit
 hindurch die wirtschaftlichen Verpflichtungen, die sich aus dem
 ehelichen Verhältnis ergeben, schuldhaft nicht erfüllt hat.
-
 
 ###### § 1382 Stundung
 
@@ -21771,7 +19859,6 @@ Verfahren stellen.
 Antrag aufheben oder ändern, wenn sich die Verhältnisse nach der
 Entscheidung wesentlich geändert haben.
 
-
 ###### § 1383 Übertragung von Vermögensgegenständen
 
 (1) Das Familiengericht kann auf Antrag des Gläubigers anordnen, dass
@@ -21787,13 +19874,11 @@ in dem Antrag bezeichnen.
 
 (3) § 1382 Abs. 5 gilt entsprechend.
 
-
 ###### § 1384 Berechnungszeitpunkt des Zugewinns und Höhe der Ausgleichsforderung bei Scheidung
 
 Wird die Ehe geschieden, so tritt für die Berechnung des Zugewinns und
 für die Höhe der Ausgleichsforderung an die Stelle der Beendigung des
 Güterstandes der Zeitpunkt der Rechtshängigkeit des Scheidungsantrags.
-
 
 ###### § 1385 Vorzeitiger Zugewinnausgleich des ausgleichsberechtigten Ehegatten bei vorzeitiger Aufhebung der Zugewinngemeinschaft
 
@@ -21820,15 +19905,10 @@ verlangen, wenn
     Auskunft beharrlich geweigert hat, ihn über den Bestand seines
     Vermögens zu unterrichten.
 
-
-
-
-
 ###### § 1386 Vorzeitige Aufhebung der Zugewinngemeinschaft
 
 Jeder Ehegatte kann unter entsprechender Anwendung des § 1385 die
 vorzeitige Aufhebung der Zugewinngemeinschaft verlangen.
-
 
 ###### § 1387 Berechnungszeitpunkt des Zugewinns und Höhe der Ausgleichsforderung bei vorzeitigem Ausgleich oder vorzeitiger Aufhebung
 
@@ -21837,17 +19917,14 @@ Zugewinns und für die Höhe der Ausgleichsforderung an die Stelle der
 Beendigung des Güterstands der Zeitpunkt, in dem die entsprechenden
 Klagen erhoben sind.
 
-
 ###### § 1388 Eintritt der Gütertrennung
 
 Mit der Rechtskraft der Entscheidung, die die Zugewinngemeinschaft
 vorzeitig aufhebt, tritt Gütertrennung ein.
 
-
 ###### § 1389 (weggefallen)
 
 -
-
 
 ###### § 1390 Ansprüche des Ausgleichsberechtigten gegen Dritte
 
@@ -21883,18 +19960,11 @@ Vermächtnis ausgeschlagen hat.
 
 (4) (weggefallen)
 
-
 ###### (XXXX) §§ 1391 bis 1407 (weggefallen)
-
-
 
 ##### Untertitel 2 - Vertragliches Güterrecht
 
-
-
 ###### Kapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 1408 Ehevertrag, Vertragsfreiheit
 
@@ -21906,18 +19976,15 @@ Ehe den Güterstand aufheben oder ändern.
 den Versorgungsausgleich, so sind insoweit die §§ 6 und 8 des
 Versorgungsausgleichsgesetzes anzuwenden.
 
-
 ###### § 1409 Beschränkung der Vertragsfreiheit
 
 Der Güterstand kann nicht durch Verweisung auf nicht mehr geltendes
 oder ausländisches Recht bestimmt werden.
 
-
 ###### § 1410 Form
 
 Der Ehevertrag muss bei gleichzeitiger Anwesenheit beider Teile zur
 Niederschrift eines Notars geschlossen werden.
-
 
 ###### § 1411 Eheverträge beschränkt Geschäftsfähiger und Geschäftsunfähiger
 
@@ -21941,7 +20008,6 @@ den Vertrag nur mit Genehmigung des Familiengerichts schließen; ist
 der gesetzliche Vertreter ein Betreuer, ist die Genehmigung des
 Betreuungsgerichts erforderlich.
 
-
 ###### § 1412 Wirkung gegenüber Dritten
 
 (1) Haben die Ehegatten den gesetzlichen Güterstand ausgeschlossen
@@ -21959,7 +20025,6 @@ war, als der Rechtsstreit anhängig wurde.
 eingetragene Regelung der güterrechtlichen Verhältnisse durch
 Ehevertrag aufheben oder ändern.
 
-
 ###### § 1413 Widerruf der Überlassung der Vermögensverwaltung
 
 Überlässt ein Ehegatte sein Vermögen der Verwaltung des anderen
@@ -21967,10 +20032,7 @@ Ehegatten, so kann das Recht, die Überlassung jederzeit zu widerrufen,
 nur durch Ehevertrag ausgeschlossen oder eingeschränkt werden; ein
 Widerruf aus wichtigem Grunde bleibt gleichwohl zulässig.
 
-
 ###### Kapitel 2 - Gütertrennung
-
-
 
 ###### § 1414 Eintritt der Gütertrennung
 
@@ -21980,20 +20042,14 @@ Ehevertrag etwas anderes ergibt. Das Gleiche gilt, wenn der Ausgleich
 des Zugewinns ausgeschlossen oder die Gütergemeinschaft aufgehoben
 wird.
 
-
 ###### Kapitel 3 - Gütergemeinschaft
 
-
-
 ###### Unterkapitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 1415 Vereinbarung durch Ehevertrag
 
 Vereinbaren die Ehegatten durch Ehevertrag Gütergemeinschaft, so
 gelten die nachstehenden Vorschriften.
-
 
 ###### § 1416 Gesamtgut
 
@@ -22011,7 +20067,6 @@ von dem anderen verlangen, dass er zur Berichtigung des Grundbuchs
 mitwirke. Entsprechendes gilt, wenn ein Recht gemeinschaftlich wird,
 das im Schiffsregister oder im Schiffsbauregister eingetragen ist.
 
-
 ###### § 1417 Sondergut
 
 (1) Vom Gesamtgut ist das Sondergut ausgeschlossen.
@@ -22021,7 +20076,6 @@ das im Schiffsregister oder im Schiffsbauregister eingetragen ist.
 
 (3) Jeder Ehegatte verwaltet sein Sondergut selbständig. Er verwaltet
 es für Rechnung des Gesamtguts.
-
 
 ###### § 1418 Vorbehaltsgut
 
@@ -22052,7 +20106,6 @@ verwaltet es für eigene Rechnung.
 (4) Gehören Vermögensgegenstände zum Vorbehaltsgut, so ist dies
 Dritten gegenüber nur nach Maßgabe des § 1412 wirksam.
 
-
 ###### § 1419 Gesamthandsgemeinschaft
 
 (1) Ein Ehegatte kann nicht über seinen Anteil am Gesamtgut und an den
@@ -22063,14 +20116,12 @@ nicht berechtigt, Teilung zu verlangen.
 nur mit einer Forderung aufrechnen, deren Berichtigung er aus dem
 Gesamtgut verlangen kann.
 
-
 ###### § 1420 Verwendung zum Unterhalt
 
 Die Einkünfte, die in das Gesamtgut fallen, sind vor den Einkünften,
 die in das Vorbehaltsgut fallen, der Stamm des Gesamtguts ist vor dem
 Stamm des Vorbehaltsguts oder des Sonderguts für den Unterhalt der
 Familie zu verwenden.
-
 
 ###### § 1421 Verwaltung des Gesamtguts
 
@@ -22080,10 +20131,7 @@ Mann oder der Frau oder von ihnen gemeinschaftlich verwaltet wird.
 Enthält der Ehevertrag keine Bestimmung hierüber, so verwalten die
 Ehegatten das Gesamtgut gemeinschaftlich.
 
-
 ###### Unterkapitel 2 - Verwaltung des Gesamtguts durch den Mann oder die Frau
-
-
 
 ###### § 1422 Inhalt des Verwaltungsrechts
 
@@ -22093,7 +20141,6 @@ und über das Gesamtgut zu verfügen; er führt Rechtsstreitigkeiten, die
 sich auf das Gesamtgut beziehen, im eigenen Namen. Der andere Ehegatte
 wird durch die Verwaltungshandlungen nicht persönlich verpflichtet.
 
-
 ###### § 1423 Verfügung über das Gesamtgut im Ganzen
 
 Der Ehegatte, der das Gesamtgut verwaltet, kann sich nur mit
@@ -22102,7 +20149,6 @@ Ganzen zu verfügen. Hat er sich ohne Zustimmung des anderen Ehegatten
 verpflichtet, so kann er die Verpflichtung nur erfüllen, wenn der
 andere Ehegatte einwilligt.
 
-
 ###### § 1424 Verfügung über Grundstücke, Schiffe oder Schiffsbauwerke
 
 Der Ehegatte, der das Gesamtgut verwaltet, kann nur mit Einwilligung
@@ -22110,7 +20156,6 @@ des anderen Ehegatten über ein zum Gesamtgut gehörendes Grundstück
 verfügen; er kann sich zu einer solchen Verfügung auch nur mit
 Einwilligung seines Ehegatten verpflichten. Dasselbe gilt, wenn ein
 eingetragenes Schiff oder Schiffsbauwerk zum Gesamtgut gehört.
-
 
 ###### § 1425 Schenkungen
 
@@ -22125,7 +20170,6 @@ Gesamtgut bezieht.
 (2) Ausgenommen sind Schenkungen, durch die einer sittlichen Pflicht
 oder einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
 
-
 ###### § 1426 Ersetzung der Zustimmung des anderen Ehegatten
 
 Ist ein Rechtsgeschäft, das nach den §§ 1423, 1424 nur mit
@@ -22135,7 +20179,6 @@ Familiengericht auf Antrag die Zustimmung des anderen Ehegatten
 ersetzen, wenn dieser sie ohne ausreichenden Grund verweigert oder
 durch Krankheit oder Abwesenheit an der Abgabe einer Erklärung
 verhindert und mit dem Aufschub Gefahr verbunden ist.
-
 
 ###### § 1427 Rechtsfolgen fehlender Einwilligung
 
@@ -22151,7 +20194,6 @@ Ehegatte habe eingewilligt; er kann auch in diesem Falle nicht
 widerrufen, wenn ihm beim Abschluss des Vertrags bekannt war, dass der
 andere Ehegatte nicht eingewilligt hatte.
 
-
 ###### § 1428 Verfügungen ohne Zustimmung
 
 Verfügt der Ehegatte, der das Gesamtgut verwaltet, ohne die
@@ -22159,7 +20201,6 @@ erforderliche Zustimmung des anderen Ehegatten über ein zum Gesamtgut
 gehörendes Recht, so kann dieser das Recht gegen Dritte gerichtlich
 geltend machen; der Ehegatte, der das Gesamtgut verwaltet, braucht
 hierzu nicht mitzuwirken.
-
 
 ###### § 1429 Notverwaltungsrecht
 
@@ -22171,7 +20212,6 @@ er kann hierbei im eigenen Namen oder im Namen des verwaltenden
 Ehegatten handeln. Das Gleiche gilt für die Führung eines
 Rechtsstreits, der sich auf das Gesamtgut bezieht.
 
-
 ###### § 1430 Ersetzung der Zustimmung des Verwalters
 
 Verweigert der Ehegatte, der das Gesamtgut verwaltet, ohne
@@ -22180,7 +20220,6 @@ andere Ehegatte zur ordnungsmäßigen Besorgung seiner persönlichen
 Angelegenheiten vornehmen muss, aber ohne diese Zustimmung nicht mit
 Wirkung für das Gesamtgut vornehmen kann, so kann das Familiengericht
 die Zustimmung auf Antrag ersetzen.
-
 
 ###### § 1431 Selbständiges Erwerbsgeschäft
 
@@ -22199,7 +20238,6 @@ Einspruch eingelegt, so steht dies einer Einwilligung gleich.
 (3) Dritten gegenüber ist ein Einspruch und der Widerruf der
 Einwilligung nur nach Maßgabe des § 1412 wirksam.
 
-
 ###### § 1432 Annahme einer Erbschaft; Ablehnung von Vertragsantrag oder Schenkung
 
 (1) Ist dem Ehegatten, der das Gesamtgut nicht verwaltet, eine
@@ -22214,13 +20252,11 @@ Schenkung.
 über eine ihm angefallene Erbschaft ohne Zustimmung des anderen
 Ehegatten errichten.
 
-
 ###### § 1433 Fortsetzung eines Rechtsstreits
 
 Der Ehegatte, der das Gesamtgut nicht verwaltet, kann ohne Zustimmung
 des anderen Ehegatten einen Rechtsstreit fortsetzen, der beim Eintritt
 der Gütergemeinschaft anhängig war.
-
 
 ###### § 1434 Ungerechtfertigte Bereicherung des Gesamtguts
 
@@ -22228,7 +20264,6 @@ Wird durch ein Rechtsgeschäft, das ein Ehegatte ohne die erforderliche
 Zustimmung des anderen Ehegatten vornimmt, das Gesamtgut bereichert,
 so ist die Bereicherung nach den Vorschriften über die
 ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.
-
 
 ###### § 1435 Pflichten des Verwalters
 
@@ -22240,7 +20275,6 @@ er den Verlust verschuldet oder durch ein Rechtsgeschäft herbeigeführt
 hat, das er ohne die erforderliche Zustimmung des anderen Ehegatten
 vorgenommen hat.
 
-
 ###### § 1436 Verwalter unter Vormundschaft oder Betreuung
 
 Steht der Ehegatte, der das Gesamtgut verwaltet, unter Vormundschaft
@@ -22249,7 +20283,6 @@ Betreuers, so hat ihn der Vormund oder Betreuer in den Rechten und
 Pflichten zu vertreten, die sich aus der Verwaltung des Gesamtguts
 ergeben. Dies gilt auch dann, wenn der andere Ehegatte zum Vormund
 oder Betreuer bestellt ist.
-
 
 ###### § 1437 Gesamtgutsverbindlichkeiten; persönliche Haftung
 
@@ -22265,7 +20298,6 @@ Die Haftung erlischt mit der Beendigung der Gütergemeinschaft, wenn
 die Verbindlichkeiten im Verhältnis der Ehegatten zueinander dem
 anderen Ehegatten zur Last fallen.
 
-
 ###### § 1438 Haftung des Gesamtguts
 
 (1) Das Gesamtgut haftet für eine Verbindlichkeit aus einem
@@ -22277,7 +20309,6 @@ Rechtsgeschäft ohne seine Zustimmung für das Gesamtgut wirksam ist.
 (2) Für die Kosten eines Rechtsstreits haftet das Gesamtgut auch dann,
 wenn das Urteil dem Gesamtgut gegenüber nicht wirksam ist.
 
-
 ###### § 1439 Keine Haftung bei Erwerb einer Erbschaft
 
 Das Gesamtgut haftet nicht für Verbindlichkeiten, die durch den Erwerb
@@ -22285,7 +20316,6 @@ einer Erbschaft entstehen, wenn der Ehegatte, der Erbe ist, das
 Gesamtgut nicht verwaltet und die Erbschaft während der
 Gütergemeinschaft als Vorbehaltsgut oder als Sondergut erwirbt; das
 Gleiche gilt beim Erwerb eines Vermächtnisses.
-
 
 ###### § 1440 Haftung für Vorbehalts- oder Sondergut
 
@@ -22298,7 +20328,6 @@ Erwerbsgeschäft gehört, das der Ehegatte mit Einwilligung des anderen
 Ehegatten selbständig betreibt, oder wenn die Verbindlichkeit zu den
 Lasten des Sonderguts gehört, die aus den Einkünften beglichen zu
 werden pflegen.
-
 
 ###### § 1441 Haftung im Innenverhältnis
 
@@ -22320,10 +20349,6 @@ sie entstehen:
 3.  die Kosten eines Rechtsstreits über eine der in den Nummern 1 und 2
     bezeichneten Verbindlichkeiten.
 
-
-
-
-
 ###### § 1442 Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts
 
 Die Vorschrift des § 1441 Nr. 2, 3 gilt nicht, wenn die
@@ -22333,7 +20358,6 @@ nicht, wenn die Verbindlichkeiten durch den Betrieb eines für Rechnung
 des Gesamtguts geführten Erwerbsgeschäfts oder infolge eines zu einem
 solchen Erwerbsgeschäft gehörenden Rechts oder des Besitzes einer dazu
 gehörenden Sache entstehen.
-
 
 ###### § 1443 Prozesskosten
 
@@ -22350,7 +20374,6 @@ persönliche Angelegenheit oder eine Gesamtgutsverbindlichkeit des
 Ehegatten betrifft und die Aufwendung der Kosten den Umständen nach
 geboten ist; § 1441 Nr. 3 und § 1442 bleiben unberührt.
 
-
 ###### § 1444 Kosten der Ausstattung eines Kindes
 
 (1) Verspricht oder gewährt der Ehegatte, der das Gesamtgut verwaltet,
@@ -22366,7 +20389,6 @@ nicht verwaltet, gilt dies jedoch nur insoweit, als er zustimmt oder
 die Ausstattung nicht das Maß übersteigt, das dem Gesamtgut
 entspricht.
 
-
 ###### § 1445 Ausgleichung zwischen Vorbehalts-, Sonder- und Gesamtgut
 
 (1) Verwendet der Ehegatte, der das Gesamtgut verwaltet, Gesamtgut in
@@ -22375,7 +20397,6 @@ Verwendeten zum Gesamtgut zu ersetzen.
 
 (2) Verwendet er Vorbehaltsgut oder Sondergut in das Gesamtgut, so
 kann er Ersatz aus dem Gesamtgut verlangen.
-
 
 ###### § 1446 Fälligkeit des Ausgleichsanspruchs
 
@@ -22389,7 +20410,6 @@ oder was er zum Vorbehaltsgut oder Sondergut des anderen Ehegatten
 schuldet, braucht er erst nach der Beendigung der Gütergemeinschaft zu
 leisten; er hat die Schuld jedoch schon vorher zu berichtigen, soweit
 sein Vorbehaltsgut und sein Sondergut hierzu ausreichen.
-
 
 ###### § 1447 Aufhebungsklage des nicht verwaltenden Ehegatten
 
@@ -22415,10 +20435,6 @@ der Gütergemeinschaft klagen,
 4.  wenn die Verwaltung des Gesamtguts in den Aufgabenkreis des Betreuers
     des anderen Ehegatten fällt.
 
-
-
-
-
 ###### § 1448 Aufhebungsklage des Verwalters
 
 Der Ehegatte, der das Gesamtgut verwaltet, kann auf Aufhebung der
@@ -22426,7 +20442,6 @@ Gütergemeinschaft klagen, wenn das Gesamtgut infolge von
 Verbindlichkeiten des anderen Ehegatten, die diesem im Verhältnis der
 Ehegatten zueinander zur Last fallen, in solchem Maße überschuldet
 ist, dass ein späterer Erwerb erheblich gefährdet wird.
-
 
 ###### § 1449 Wirkung der richterlichen Aufhebungsentscheidung
 
@@ -22436,10 +20451,7 @@ Gütergemeinschaft aufgehoben; für die Zukunft gilt Gütertrennung.
 (2) Dritten gegenüber ist die Aufhebung der Gütergemeinschaft nur nach
 Maßgabe des § 1412 wirksam.
 
-
 ###### Unterkapitel 3 - Gemeinschaftliche Verwaltung des Gesamtguts durch die Ehegatten
-
-
 
 ###### § 1450 Gemeinschaftliche Verwaltung durch die Ehegatten
 
@@ -22452,13 +20464,11 @@ gehörenden Sachen gebührt den Ehegatten gemeinschaftlich.
 (2) Ist eine Willenserklärung den Ehegatten gegenüber abzugeben, so
 genügt die Abgabe gegenüber einem Ehegatten.
 
-
 ###### § 1451 Mitwirkungspflicht beider Ehegatten
 
 Jeder Ehegatte ist dem anderen gegenüber verpflichtet, zu Maßregeln
 mitzuwirken, die zur ordnungsmäßigen Verwaltung des Gesamtguts
 erforderlich sind.
-
 
 ###### § 1452 Ersetzung der Zustimmung
 
@@ -22473,7 +20483,6 @@ Besorgung der persönlichen Angelegenheiten eines Ehegatten ein
 Rechtsgeschäft erforderlich ist, das der Ehegatte mit Wirkung für das
 Gesamtgut nicht ohne Zustimmung des anderen Ehegatten vornehmen kann.
 
-
 ###### § 1453 Verfügung ohne Einwilligung
 
 (1) Verfügt ein Ehegatte ohne die erforderliche Einwilligung des
@@ -22487,7 +20496,6 @@ Ehegatte habe eingewilligt; er kann auch in diesem Falle nicht
 widerrufen, wenn ihm beim Abschluss des Vertrags bekannt war, dass der
 andere Ehegatte nicht eingewilligt hatte.
 
-
 ###### § 1454 Notverwaltungsrecht
 
 Ist ein Ehegatte durch Krankheit oder Abwesenheit verhindert, bei
@@ -22496,7 +20504,6 @@ so kann der andere Ehegatte das Rechtsgeschäft vornehmen, wenn mit dem
 Aufschub Gefahr verbunden ist; er kann hierbei im eigenen Namen oder
 im Namen beider Ehegatten handeln. Das Gleiche gilt für die Führung
 eines Rechtsstreits, der sich auf das Gesamtgut bezieht.
-
 
 ###### § 1455 Verwaltungshandlungen ohne Mitwirkung des anderen Ehegatten
 
@@ -22543,10 +20550,6 @@ Jeder Ehegatte kann ohne Mitwirkung des anderen Ehegatten
 10. die zur Erhaltung des Gesamtguts notwendigen Maßnahmen treffen, wenn
     mit dem Aufschub Gefahr verbunden ist.
 
-
-
-
-
 ###### § 1456 Selbständiges Erwerbsgeschäft
 
 (1) Hat ein Ehegatte darin eingewilligt, dass der andere Ehegatte
@@ -22563,7 +20566,6 @@ Einwilligung gleich.
 (3) Dritten gegenüber ist ein Einspruch und der Widerruf der
 Einwilligung nur nach Maßgabe des § 1412 wirksam.
 
-
 ###### § 1457 Ungerechtfertigte Bereicherung des Gesamtguts
 
 Wird durch ein Rechtsgeschäft, das ein Ehegatte ohne die erforderliche
@@ -22571,13 +20573,11 @@ Zustimmung des anderen Ehegatten vornimmt, das Gesamtgut bereichert,
 so ist die Bereicherung nach den Vorschriften über die
 ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.
 
-
 ###### § 1458 Vormundschaft über einen Ehegatten
 
 Solange ein Ehegatte unter elterlicher Sorge oder unter Vormundschaft
 steht, verwaltet der andere Ehegatte das Gesamtgut allein; die
 Vorschriften der §§ 1422 bis 1449 sind anzuwenden.
-
 
 ###### § 1459 Gesamtgutsverbindlichkeiten; persönliche Haftung
 
@@ -22591,7 +20591,6 @@ Verhältnis der Ehegatten zueinander einem der Ehegatten zur Last, so
 erlischt die Verbindlichkeit des anderen Ehegatten mit der Beendigung
 der Gütergemeinschaft.
 
-
 ###### § 1460 Haftung des Gesamtguts
 
 (1) Das Gesamtgut haftet für eine Verbindlichkeit aus einem
@@ -22603,14 +20602,12 @@ Gesamtgut wirksam ist.
 (2) Für die Kosten eines Rechtsstreits haftet das Gesamtgut auch dann,
 wenn das Urteil dem Gesamtgut gegenüber nicht wirksam ist.
 
-
 ###### § 1461 Keine Haftung bei Erwerb einer Erbschaft
 
 Das Gesamtgut haftet nicht für Verbindlichkeiten eines Ehegatten, die
 durch den Erwerb einer Erbschaft oder eines Vermächtnisses entstehen,
 wenn der Ehegatte die Erbschaft oder das Vermächtnis während der
 Gütergemeinschaft als Vorbehaltsgut oder als Sondergut erwirbt.
-
 
 ###### § 1462 Haftung für Vorbehalts- oder Sondergut
 
@@ -22622,7 +20619,6 @@ oder die Sache zu einem Erwerbsgeschäft gehört, das ein Ehegatte mit
 Einwilligung des anderen Ehegatten selbständig betreibt, oder wenn die
 Verbindlichkeit zu den Lasten des Sonderguts gehört, die aus den
 Einkünften beglichen zu werden pflegen.
-
 
 ###### § 1463 Haftung im Innenverhältnis
 
@@ -22644,10 +20640,6 @@ sie entstehen:
 3.  die Kosten eines Rechtsstreits über eine der in den Nummern 1 und 2
     bezeichneten Verbindlichkeiten.
 
-
-
-
-
 ###### § 1464 Verbindlichkeiten des Sonderguts und eines Erwerbsgeschäfts
 
 Die Vorschriften des § 1463 Nr. 2, 3 gelten nicht, wenn die
@@ -22657,7 +20649,6 @@ dann nicht, wenn die Verbindlichkeiten durch den Betrieb eines für
 Rechnung des Gesamtguts geführten Erwerbsgeschäfts oder infolge eines
 zu einem solchen Erwerbsgeschäft gehörenden Rechts oder des Besitzes
 einer dazu gehörenden Sache entstehen.
-
 
 ###### § 1465 Prozesskosten
 
@@ -22674,13 +20665,11 @@ oder eine Gesamtgutsverbindlichkeit des Ehegatten betrifft und die
 Aufwendung der Kosten den Umständen nach geboten ist; § 1463 Nr. 3 und
 § 1464 bleiben unberührt.
 
-
 ###### § 1466 Kosten der Ausstattung eines nicht gemeinschaftlichen Kindes
 
 Im Verhältnis der Ehegatten zueinander fallen die Kosten der
 Ausstattung eines nicht gemeinschaftlichen Kindes dem Vater oder der
 Mutter des Kindes zur Last.
-
 
 ###### § 1467 Ausgleichung zwischen Vorbehalts-, Sonder- und Gesamtgut
 
@@ -22691,7 +20680,6 @@ ersetzen.
 (2) Verwendet ein Ehegatte Vorbehaltsgut oder Sondergut in das
 Gesamtgut, so kann er Ersatz aus dem Gesamtgut verlangen.
 
-
 ###### § 1468 Fälligkeit des Ausgleichsanspruchs
 
 Was ein Ehegatte zum Gesamtgut oder was er zum Vorbehaltsgut oder
@@ -22699,7 +20687,6 @@ Sondergut des anderen Ehegatten schuldet, braucht er erst nach
 Beendigung der Gütergemeinschaft zu leisten; soweit jedoch das
 Vorbehaltsgut und das Sondergut des Schuldners ausreichen, hat er die
 Schuld schon vorher zu berichtigen.
-
 
 ###### § 1469 Aufhebungsklage
 
@@ -22730,10 +20717,6 @@ Jeder Ehegatte kann auf Aufhebung der Gütergemeinschaft klagen,
     der Gütergemeinschaft ergibt, vom Aufgabenkreis eines Betreuers
     erfasst wird.
 
-
-
-
-
 ###### § 1470 Wirkung der richterlichen Aufhebungsentscheidung
 
 (1) Mit der Rechtskraft der richterlichen Entscheidung ist die
@@ -22742,10 +20725,7 @@ Gütergemeinschaft aufgehoben; für die Zukunft gilt Gütertrennung.
 (2) Dritten gegenüber ist die Aufhebung der Gütergemeinschaft nur nach
 Maßgabe des § 1412 wirksam.
 
-
 ###### Unterkapitel 4 - Auseinandersetzung des Gesamtguts
-
-
 
 ###### § 1471 Beginn der Auseinandersetzung
 
@@ -22754,7 +20734,6 @@ Ehegatten über das Gesamtgut auseinander.
 
 (2) Bis zur Auseinandersetzung gelten für das Gesamtgut die
 Vorschriften des § 1419.
-
 
 ###### § 1472 Gemeinschaftliche Verwaltung des Gesamtguts
 
@@ -22779,7 +20758,6 @@ können, so lange zu führen, bis der Erbe anderweit Fürsorge treffen
 kann. Diese Verpflichtung besteht nicht, wenn der verstorbene Ehegatte
 das Gesamtgut allein verwaltet hat.
 
-
 ###### § 1473 Unmittelbare Ersetzung
 
 (1) Was auf Grund eines zum Gesamtgut gehörenden Rechtes oder als
@@ -22792,12 +20770,10 @@ Gesamtgut, so braucht der Schuldner dies erst dann gegen sich gelten
 zu lassen, wenn er erfährt, dass die Forderung zum Gesamtgut gehört;
 die Vorschriften der §§ 406 bis 408 sind entsprechend anzuwenden.
 
-
 ###### § 1474 Durchführung der Auseinandersetzung
 
 Die Ehegatten setzen sich, soweit sie nichts anderes vereinbaren, nach
 den §§ 1475 bis 1481 auseinander.
-
 
 ###### § 1475 Berichtigung der Gesamtgutsverbindlichkeiten
 
@@ -22813,7 +20789,6 @@ verlangen, dass die Verbindlichkeit aus dem Gesamtgut berichtigt wird.
 (3) Das Gesamtgut ist in Geld umzusetzen, soweit dies erforderlich
 ist, um die Gesamtgutsverbindlichkeiten zu berichtigen.
 
-
 ###### § 1476 Teilung des Überschusses
 
 (1) Der Überschuss, der nach der Berichtigung der
@@ -22823,7 +20798,6 @@ gleichen Teilen.
 (2) Was einer der Ehegatten zum Gesamtgut zu ersetzen hat, muss er
 sich auf seinen Teil anrechnen lassen. Soweit er den Ersatz nicht auf
 diese Weise leistet, bleibt er dem anderen Ehegatten verpflichtet.
-
 
 ###### § 1477 Durchführung der Teilung
 
@@ -22837,7 +20811,6 @@ gilt für die Gegenstände, die ein Ehegatte in die Gütergemeinschaft
 eingebracht oder während der Gütergemeinschaft durch Erbfolge, durch
 Vermächtnis oder mit Rücksicht auf ein künftiges Erbrecht, durch
 Schenkung oder als Ausstattung erworben hat.
-
 
 ###### § 1478 Auseinandersetzung nach Scheidung
 
@@ -22869,7 +20842,6 @@ Eingebrachten zu tragen.
 (3) Der Wert des Eingebrachten bestimmt sich nach der Zeit der
 Einbringung.
 
-
 ###### § 1479 Auseinandersetzung nach richterlicher Aufhebungsentscheidung
 
 Wird die Gütergemeinschaft auf Grund der §§ 1447, 1448 oder des § 1469
@@ -22879,7 +20851,6 @@ Auseinandersetzung so erfolgt, wie wenn der Anspruch auf
 Auseinandersetzung in dem Zeitpunkt rechtshängig geworden wäre, in dem
 die Klage auf Aufhebung der Gütergemeinschaft erhoben ist.
 
-
 ###### § 1480 Haftung nach der Teilung gegenüber Dritten
 
 Wird das Gesamtgut geteilt, bevor eine Gesamtgutsverbindlichkeit
@@ -22888,7 +20859,6 @@ als Gesamtschuldner, für den zur Zeit der Teilung eine solche Haftung
 nicht besteht. Seine Haftung beschränkt sich auf die ihm zugeteilten
 Gegenstände; die für die Haftung des Erben geltenden Vorschriften der
 §§ 1990, 1991 sind entsprechend anzuwenden.
-
 
 ###### § 1481 Haftung der Ehegatten untereinander
 
@@ -22910,17 +20880,13 @@ einem der Ehegatten zur Last, so hat dieser dem anderen dafür
 einzustehen, dass der andere Ehegatte von dem Gläubiger nicht in
 Anspruch genommen wird.
 
-
 ###### § 1482 Eheauflösung durch Tod
 
 Wird die Ehe durch den Tod eines Ehegatten aufgelöst, so gehört der
 Anteil des verstorbenen Ehegatten am Gesamtgut zum Nachlass. Der
 verstorbene Ehegatte wird nach den allgemeinen Vorschriften beerbt.
 
-
 ###### Unterkapitel 5 - Fortgesetzte Gütergemeinschaft
-
-
 
 ###### § 1483 Eintritt der fortgesetzten Gütergemeinschaft
 
@@ -22938,7 +20904,6 @@ Vorschriften beerbt.
 vorhanden, so bestimmen sich ihr Erbrecht und ihre Erbteile so, wie
 wenn fortgesetzte Gütergemeinschaft nicht eingetreten wäre.
 
-
 ###### § 1484 Ablehnung der fortgesetzten Gütergemeinschaft
 
 (1) Der überlebende Ehegatte kann die Fortsetzung der
@@ -22955,7 +20920,6 @@ Betreuungsgerichts erforderlich.
 (3) Lehnt der Ehegatte die Fortsetzung der Gütergemeinschaft ab, so
 gilt das Gleiche wie im Falle des § 1482.
 
-
 ###### § 1485 Gesamtgut
 
 (1) Das Gesamtgut der fortgesetzten Gütergemeinschaft besteht aus dem
@@ -22971,7 +20935,6 @@ gehört nicht zu dem Gesamtgut.
 (3) Auf das Gesamtgut finden die für die eheliche Gütergemeinschaft
 geltende Vorschrift des § 1416 Abs. 2 und 3 entsprechende Anwendung.
 
-
 ###### § 1486 Vorbehaltsgut; Sondergut
 
 (1) Vorbehaltsgut des überlebenden Ehegatten ist, was er bisher als
@@ -22980,7 +20943,6 @@ Vorbehaltsgut erwirbt.
 
 (2) Sondergut des überlebenden Ehegatten ist, was er bisher als
 Sondergut gehabt hat oder was er als Sondergut erwirbt.
-
 
 ###### § 1487 Rechtsstellung des Ehegatten und der Abkömmlinge
 
@@ -22997,14 +20959,12 @@ haben die rechtliche Stellung des anderen Ehegatten.
 dem Gesamtgut zu fordern hat, ist erst nach der Beendigung der
 fortgesetzten Gütergemeinschaft zu leisten.
 
-
 ###### § 1488 Gesamtgutsverbindlichkeiten
 
 Gesamtgutsverbindlichkeiten der fortgesetzten Gütergemeinschaft sind
 die Verbindlichkeiten des überlebenden Ehegatten sowie solche
 Verbindlichkeiten des verstorbenen Ehegatten, die
 Gesamtgutsverbindlichkeiten der ehelichen Gütergemeinschaft waren.
-
 
 ###### § 1489 Persönliche Haftung für die Gesamtgutsverbindlichkeiten
 
@@ -23022,7 +20982,6 @@ Eintritts der fortgesetzten Gütergemeinschaft hat.
 die Verbindlichkeiten des verstorbenen oder des überlebenden Ehegatten
 wird durch die fortgesetzte Gütergemeinschaft nicht begründet.
 
-
 ###### § 1490 Tod eines Abkömmlings
 
 Stirbt ein anteilsberechtigter Abkömmling, so gehört sein Anteil an
@@ -23032,7 +20991,6 @@ nicht überlebt hätte, so treten die Abkömmlinge an seine Stelle.
 Hinterlässt er solche Abkömmlinge nicht, so wächst sein Anteil den
 übrigen anteilsberechtigten Abkömmlingen und, wenn solche nicht
 vorhanden sind, dem überlebenden Ehegatten an.
-
 
 ###### § 1491 Verzicht eines Abkömmlings
 
@@ -23057,7 +21015,6 @@ erforderlich.
 zur Zeit des Verzichts ohne Hinterlassung von Abkömmlingen gestorben
 wäre.
 
-
 ###### § 1492 Aufhebung durch den überlebenden Ehegatten
 
 (1) Der überlebende Ehegatte kann die fortgesetzte Gütergemeinschaft
@@ -23079,7 +21036,6 @@ Familiengerichts erforderlich. Bei einer Aufhebung durch den Betreuer
 des überlebenden Ehegatten ist die Genehmigung des Betreuungsgerichts
 erforderlich.
 
-
 ###### § 1493 Wiederverheiratung oder Begründung einer Lebenspartnerschaft des überlebenden Ehegatten
 
 (1) Die fortgesetzte Gütergemeinschaft endet, wenn der überlebende
@@ -23100,7 +21056,6 @@ Betreuungsgericht.
 (3) Das Standesamt, bei dem die Eheschließung angemeldet worden ist,
 teilt dem Familiengericht die Anmeldung mit.
 
-
 ###### § 1494 Tod des überlebenden Ehegatten
 
 (1) Die fortgesetzte Gütergemeinschaft endet mit dem Tode des
@@ -23110,7 +21065,6 @@ teilt dem Familiengericht die Anmeldung mit.
 Todeszeit nach den Vorschriften des Verschollenheitsgesetzes
 festgestellt, so endet die fortgesetzte Gütergemeinschaft mit dem
 Zeitpunkt, der als Zeitpunkt des Todes gilt.
-
 
 ###### § 1495 Aufhebungsklage eines Abkömmlings
 
@@ -23135,17 +21089,12 @@ Ehegatten auf Aufhebung der fortgesetzten Gütergemeinschaft klagen,
     verwirkt hat oder, falls sie ihm zugestanden hätte, verwirkt haben
     würde.
 
-
-
-
-
 ###### § 1496 Wirkung der richterlichen Aufhebungsentscheidung
 
 Die Aufhebung der fortgesetzten Gütergemeinschaft tritt in den Fällen
 des § 1495 mit der Rechtskraft der richterlichen Entscheidung ein. Sie
 tritt für alle Abkömmlinge ein, auch wenn die richterliche
 Entscheidung auf die Klage eines der Abkömmlinge ergangen ist.
-
 
 ###### § 1497 Rechtsverhältnis bis zur Auseinandersetzung
 
@@ -23156,7 +21105,6 @@ auseinander.
 (2) Bis zur Auseinandersetzung bestimmt sich ihr Rechtsverhältnis am
 Gesamtgut nach den §§ 1419, 1472, 1473.
 
-
 ###### § 1498 Durchführung der Auseinandersetzung
 
 Auf die Auseinandersetzung sind die Vorschriften der §§ 1475, 1476,
@@ -23166,7 +21114,6 @@ verwaltet hat, tritt der überlebende Ehegatte, an die Stelle des
 anderen Ehegatten treten die anteilsberechtigten Abkömmlinge. Die in §
 1476 Abs. 2 Satz 2 bezeichnete Verpflichtung besteht nur für den
 überlebenden Ehegatten.
-
 
 ###### § 1499 Verbindlichkeiten zu Lasten des überlebenden Ehegatten
 
@@ -23188,10 +21135,6 @@ Bei der Auseinandersetzung fallen dem überlebenden Ehegatten zur Last:
     dem Gesamtgut entsprechende Maß hinaus oder die er einem nicht
     anteilsberechtigten Abkömmling versprochen oder gewährt hat.
 
-
-
-
-
 ###### § 1500 Verbindlichkeiten zu Lasten der Abkömmlinge
 
 (1) Die anteilsberechtigten Abkömmlinge müssen sich Verbindlichkeiten
@@ -23203,7 +21146,6 @@ von dem Erben des verstorbenen Ehegatten Deckung hat erlangen können.
 (2) In gleicher Weise haben sich die anteilsberechtigten Abkömmlinge
 anrechnen zu lassen, was der verstorbene Ehegatte zu dem Gesamtgut zu
 ersetzen hatte.
-
 
 ###### § 1501 Anrechnung von Abfindungen
 
@@ -23219,7 +21161,6 @@ Vereinbarung bedarf der notariellen Beurkundung; sie ist auch
 denjenigen Abkömmlingen gegenüber wirksam, welche erst später in die
 fortgesetzte Gütergemeinschaft eintreten.
 
-
 ###### § 1502 Übernahmerecht des überlebenden Ehegatten
 
 (1) Der überlebende Ehegatte ist berechtigt, das Gesamtgut oder
@@ -23233,7 +21174,6 @@ in diesem Falle diejenigen Gegenstände gegen Ersatz des Wertes
 übernehmen, welche der verstorbene Ehegatte nach § 1477 Abs. 2 zu
 übernehmen berechtigt sein würde. Das Recht kann von ihnen nur
 gemeinschaftlich ausgeübt werden.
-
 
 ###### § 1503 Teilung unter den Abkömmlingen
 
@@ -23252,7 +21192,6 @@ Ehegatten erfolgt ist.
 Abfindung aus dem Gesamtgut gewährt worden, so fällt sie den
 Abkömmlingen zur Last, denen der Verzicht zustatten kommt.
 
-
 ###### § 1504 Haftungsausgleich unter Abkömmlingen
 
 Soweit die anteilsberechtigten Abkömmlinge nach § 1480 den
@@ -23261,7 +21200,6 @@ der Größe ihres Anteils an dem Gesamtgut verpflichtet. Die
 Verpflichtung beschränkt sich auf die ihnen zugeteilten Gegenstände;
 die für die Haftung des Erben geltenden Vorschriften der §§ 1990, 1991
 finden entsprechende Anwendung.
-
 
 ###### § 1505 Ergänzung des Anteils des Abkömmlings
 
@@ -23272,13 +21210,11 @@ fortgesetzten Gütergemeinschaft; als gesetzlicher Erbteil gilt der dem
 Abkömmling zur Zeit der Beendigung gebührende Anteil an dem Gesamtgut,
 als Pflichtteil gilt die Hälfte des Wertes dieses Anteils.
 
-
 ###### § 1506 Anteilsunwürdigkeit
 
 Ist ein gemeinschaftlicher Abkömmling erbunwürdig, so ist er auch des
 Anteils an dem Gesamtgut unwürdig. Die Vorschriften über die
 Erbunwürdigkeit finden entsprechende Anwendung.
-
 
 ###### § 1507 Zeugnis über Fortsetzung der Gütergemeinschaft
 
@@ -23286,11 +21222,9 @@ Das Nachlassgericht hat dem überlebenden Ehegatten auf Antrag ein
 Zeugnis über die Fortsetzung der Gütergemeinschaft zu erteilen. Die
 Vorschriften über den Erbschein finden entsprechende Anwendung.
 
-
 ###### § 1508
 
 (weggefallen)
-
 
 ###### § 1509 Ausschließung der fortgesetzten Gütergemeinschaft durch letztwillige Verfügung
 
@@ -23303,12 +21237,10 @@ berechtigt ist, die Aufhebung der Ehe zu beantragen, und den Antrag
 gestellt hat. Auf die Ausschließung finden die Vorschriften über die
 Entziehung des Pflichtteils entsprechende Anwendung.
 
-
 ###### § 1510 Wirkung der Ausschließung
 
 Wird die Fortsetzung der Gütergemeinschaft ausgeschlossen, so gilt das
 Gleiche wie im Falle des § 1482.
-
 
 ###### § 1511 Ausschließung eines Abkömmlings
 
@@ -23330,7 +21262,6 @@ Auseinandersetzung den anteilsberechtigten Abkömmlingen nach Maßgabe
 des § 1501 angerechnet. Im Verhältnis der Abkömmlinge zueinander fällt
 er den Abkömmlingen zur Last, denen die Ausschließung zustatten kommt.
 
-
 ###### § 1512 Herabsetzung des Anteils
 
 Jeder Ehegatte kann für den Fall, dass mit seinem Tode die
@@ -23338,7 +21269,6 @@ fortgesetzte Gütergemeinschaft eintritt, den einem anteilsberechtigten
 Abkömmling nach der Beendigung der fortgesetzten Gütergemeinschaft
 gebührenden Anteil an dem Gesamtgut durch letztwillige Verfügung bis
 auf die Hälfte herabsetzen.
-
 
 ###### § 1513 Entziehung des Anteils
 
@@ -23355,13 +21285,11 @@ Pflichtteilsrecht des Abkömmlings zu beschränken, den Anteil des
 Abkömmlings am Gesamtgut einer entsprechenden Beschränkung
 unterwerfen.
 
-
 ###### § 1514 Zuwendung des entzogenen Betrags
 
 Jeder Ehegatte kann den Betrag, den er nach § 1512 oder nach § 1513
 Abs. 1 einem Abkömmling entzieht, auch einem Dritten durch
 letztwillige Verfügung zuwenden.
-
 
 ###### § 1515 Übernahmerecht eines Abkömmlings und des Ehegatten
 
@@ -23380,7 +21308,6 @@ Erbfolge geltende Vorschrift des § 2049 findet Anwendung.
 Preis zu übernehmen, kann auch dem überlebenden Ehegatten eingeräumt
 werden.
 
-
 ###### § 1516 Zustimmung des anderen Ehegatten
 
 (1) Zur Wirksamkeit der in den §§ 1511 bis 1515 bezeichneten
@@ -23396,7 +21323,6 @@ Zustimmung ist unwiderruflich.
 (3) Die Ehegatten können die in den §§ 1511 bis 1515 bezeichneten
 Verfügungen auch in einem gemeinschaftlichen Testament treffen.
 
-
 ###### § 1517 Verzicht eines Abkömmlings auf seinen Anteil
 
 (1) Zur Wirksamkeit eines Vertrags, durch den ein gemeinschaftlicher
@@ -23410,7 +21336,6 @@ Satz 3, 4.
 (2) Die für den Erbverzicht geltenden Vorschriften finden
 entsprechende Anwendung.
 
-
 ###### § 1518 Zwingendes Recht
 
 Anordnungen, die mit den Vorschriften der §§ 1483 bis 1517 in
@@ -23420,14 +21345,9 @@ Ehegatten, den Vertrag, durch den sie die Fortsetzung der
 Gütergemeinschaft vereinbart haben, durch Ehevertrag aufzuheben,
 bleibt unberührt.
 
-
 ###### (XXXX) §§ 1519 bis 1557 (weggefallen)
 
-
-
 ##### Untertitel 3 - Güterrechtsregister
-
-
 
 ###### § 1558 Zuständiges Registergericht
 
@@ -23441,7 +21361,6 @@ Zuständigkeit für die Führung des Registers zu übertragen. Die
 Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltungen übertragen.
 
-
 ###### § 1559 Verlegung des gewöhnlichen Aufenthalts
 
 Verlegt ein Ehegatte nach der Eintragung seinen gewöhnlichen
@@ -23450,13 +21369,11 @@ dieses Bezirks wiederholt werden. Die frühere Eintragung gilt als von
 neuem erfolgt, wenn ein Ehegatte den gewöhnlichen Aufenthalt in den
 früheren Bezirk zurückverlegt.
 
-
 ###### § 1560 Antrag auf Eintragung
 
 Eine Eintragung in das Register soll nur auf Antrag und nur insoweit
 erfolgen, als sie beantragt ist. Der Antrag ist in öffentlich
 beglaubigter Form zu stellen.
-
 
 ###### § 1561 Antragserfordernisse
 
@@ -23493,7 +21410,6 @@ Ehegatte ist dem anderen gegenüber zur Mitwirkung verpflichtet.
 
 (3) (weggefallen)
 
-
 ###### § 1562 Öffentliche Bekanntmachung
 
 (1) Das Amtsgericht hat die Eintragung durch das für seine
@@ -23504,21 +21420,15 @@ Bekanntmachung auf die Bezeichnung des Güterstands und, wenn dieser
 abweichend von dem Gesetz geregelt ist, auf eine allgemeine
 Bezeichnung der Abweichung zu beschränken.
 
-
 ###### § 1563 Registereinsicht
 
 Die Einsicht des Registers ist jedem gestattet. Von den Eintragungen
 kann eine Abschrift gefordert werden; die Abschrift ist auf Verlangen
 zu beglaubigen.
 
-
 #### Titel 7 - Scheidung der Ehe
 
-
-
 ##### Untertitel 1 - Scheidungsgründe
-
-
 
 ###### § 1564 Scheidung durch richterliche Entscheidung
 
@@ -23527,7 +21437,6 @@ oder beider Ehegatten geschieden werden. Die Ehe ist mit der
 Rechtskraft der Entscheidung aufgelöst. Die Voraussetzungen, unter
 denen die Scheidung begehrt werden kann, ergeben sich aus den
 folgenden Vorschriften.
-
 
 ###### § 1565 Scheitern der Ehe
 
@@ -23541,7 +21450,6 @@ nur geschieden werden, wenn die Fortsetzung der Ehe für den
 Antragsteller aus Gründen, die in der Person des anderen Ehegatten
 liegen, eine unzumutbare Härte darstellen würde.
 
-
 ###### § 1566 Vermutung für das Scheitern
 
 (1) Es wird unwiderlegbar vermutet, dass die Ehe gescheitert ist, wenn
@@ -23550,7 +21458,6 @@ Scheidung beantragen oder der Antragsgegner der Scheidung zustimmt.
 
 (2) Es wird unwiderlegbar vermutet, dass die Ehe gescheitert ist, wenn
 die Ehegatten seit drei Jahren getrennt leben.
-
 
 ###### § 1567 Getrenntleben
 
@@ -23563,7 +21470,6 @@ innerhalb der ehelichen Wohnung getrennt leben.
 (2) Ein Zusammenleben über kürzere Zeit, das der Versöhnung der
 Ehegatten dienen soll, unterbricht oder hemmt die in § 1566 bestimmten
 Fristen nicht.
-
 
 ###### § 1568 Härteklausel
 
@@ -23578,10 +21484,7 @@ Antragstellers ausnahmsweise geboten erscheint.
 
 (2) (weggefallen)
 
-
 ##### Untertitel 1a - Behandlung der Ehewohnung und der Haushaltsgegenstände anlässlich der Scheidung
-
-
 
 ###### § 1568a Ehewohnung
 
@@ -23638,7 +21541,6 @@ Eintritt in ein Mietverhältnis oder auf seine Begründung ein Jahr nach
 Rechtskraft der Endentscheidung in der Scheidungssache, wenn er nicht
 vorher rechtshängig gemacht worden ist.
 
-
 ###### § 1568b Haushaltsgegenstände
 
 (1) Jeder Ehegatte kann verlangen, dass ihm der andere Ehegatte
@@ -23657,14 +21559,9 @@ Ehegatten steht fest.
 (3) Der Ehegatte, der sein Eigentum nach Absatz 1 überträgt, kann eine
 angemessene Ausgleichszahlung verlangen.
 
-
 ##### Untertitel 2 - Unterhalt des geschiedenen Ehegatten
 
-
-
 ###### Kapitel 1 - Grundsatz
-
-
 
 ###### § 1569 Grundsatz der Eigenverantwortung
 
@@ -23673,10 +21570,7 @@ Unterhalt zu sorgen. Ist er dazu außerstande, hat er gegen den anderen
 Ehegatten einen Anspruch auf Unterhalt nur nach den folgenden
 Vorschriften.
 
-
 ###### Kapitel 2 - Unterhaltsberechtigung
-
-
 
 ###### § 1570 Unterhalt wegen Betreuung eines Kindes
 
@@ -23691,7 +21585,6 @@ bestehenden Möglichkeiten der Kinderbetreuung zu berücksichtigen.
 wenn dies unter Berücksichtigung der Gestaltung von Kinderbetreuung
 und Erwerbstätigkeit in der Ehe sowie der Dauer der Ehe der Billigkeit
 entspricht.
-
 
 ###### § 1571 Unterhalt wegen Alters
 
@@ -23712,7 +21605,6 @@ soweit von ihm im Zeitpunkt
 
 wegen seines Alters eine Erwerbstätigkeit nicht mehr erwartet werden
 kann.
-
 
 ###### § 1572 Unterhalt wegen Krankheit oder Gebrechen
 
@@ -23737,7 +21629,6 @@ solange und soweit von ihm vom Zeitpunkt
 an wegen Krankheit oder anderer Gebrechen oder Schwäche seiner
 körperlichen oder geistigen Kräfte eine Erwerbstätigkeit nicht
 erwartet werden kann.
-
 
 ###### § 1573 Unterhalt wegen Erwerbslosigkeit und Aufstockungsunterhalt
 
@@ -23766,7 +21657,6 @@ vollen Unterhalt verlangen.
 
 (5) (weggefallen)
 
-
 ###### § 1574 Angemessene Erwerbstätigkeit
 
 (1) Dem geschiedenen Ehegatten obliegt es, eine angemessene
@@ -23784,7 +21674,6 @@ gemeinschaftlichen Kindes zu berücksichtigen.
 erforderlich ist, obliegt es dem geschiedenen Ehegatten, sich
 ausbilden, fortbilden oder umschulen zu lassen, wenn ein erfolgreicher
 Abschluss der Ausbildung zu erwarten ist.
-
 
 ###### § 1575 Ausbildung, Fortbildung oder Umschulung
 
@@ -23808,7 +21697,6 @@ Fortbildung oder Umschulung Unterhalt nach § 1573, so bleibt bei der
 Bestimmung der ihm angemessenen Erwerbstätigkeit (§ 1574 Abs. 2) der
 erreichte höhere Ausbildungsstand außer Betracht.
 
-
 ###### § 1576 Unterhalt aus Billigkeitsgründen
 
 Ein geschiedener Ehegatte kann von dem anderen Unterhalt verlangen,
@@ -23817,7 +21705,6 @@ Erwerbstätigkeit nicht erwartet werden kann und die Versagung von
 Unterhalt unter Berücksichtigung der Belange beider Ehegatten grob
 unbillig wäre. Schwerwiegende Gründe dürfen nicht allein deswegen
 berücksichtigt werden, weil sie zum Scheitern der Ehe geführt haben.
-
 
 ###### § 1577 Bedürftigkeit
 
@@ -23844,7 +21731,6 @@ von dem Ehegatten wegen der Pflege oder Erziehung eines
 gemeinschaftlichen Kindes eine Erwerbstätigkeit nicht erwartet werden
 kann.
 
-
 ###### § 1578 Maß des Unterhalts
 
 (1) Das Maß des Unterhalts bestimmt sich nach den ehelichen
@@ -23860,12 +21746,10 @@ oder einer Umschulung nach den §§ 1574, 1575.
 einer angemessenen Versicherung für den Fall des Alters sowie der
 verminderten Erwerbsfähigkeit.
 
-
 ###### § 1578a Deckungsvermutung bei schadensbedingten Mehraufwendungen
 
 Für Aufwendungen infolge eines Körper- oder Gesundheitsschadens gilt §
 1610a.
-
 
 ###### § 1578b Herabsetzung und zeitliche Begrenzung des Unterhalts wegen Unbilligkeit
 
@@ -23889,7 +21773,6 @@ Erziehung anvertrauten gemeinschaftlichen Kindes unbillig wäre. Absatz
 
 (3) Herabsetzung und zeitliche Begrenzung des Unterhaltsanspruchs
 können miteinander verbunden werden.
-
 
 ###### § 1579 Beschränkung oder Versagung des Unterhalts wegen grober Unbilligkeit
 
@@ -23929,20 +21812,13 @@ anvertrauten gemeinschaftlichen Kindes grob unbillig wäre, weil
 8.  ein anderer Grund vorliegt, der ebenso schwer wiegt wie die in den
     Nummern 1 bis 7 aufgeführten Gründe.
 
-
-
-
-
 ###### § 1580 Auskunftspflicht
 
 Die geschiedenen Ehegatten sind einander verpflichtet, auf Verlangen
 über ihre Einkünfte und ihr Vermögen Auskunft zu erteilen. § 1605 ist
 entsprechend anzuwenden.
 
-
 ###### Kapitel 3 - Leistungsfähigkeit und Rangfolge
-
-
 
 ###### § 1581 Leistungsfähigkeit
 
@@ -23956,19 +21832,16 @@ entspricht. Den Stamm des Vermögens braucht er nicht zu verwerten,
 soweit die Verwertung unwirtschaftlich oder unter Berücksichtigung der
 beiderseitigen wirtschaftlichen Verhältnisse unbillig wäre.
 
-
 ###### § 1582 Rang des geschiedenen Ehegatten bei mehreren Unterhaltsberechtigten
 
 Sind mehrere Unterhaltsberechtigte vorhanden, richtet sich der Rang
 des geschiedenen Ehegatten nach § 1609.
-
 
 ###### § 1583 Einfluss des Güterstands
 
 Lebt der Verpflichtete im Falle der Wiederheirat mit seinem neuen
 Ehegatten im Güterstand der Gütergemeinschaft, so ist § 1604
 entsprechend anzuwenden.
-
 
 ###### § 1584 Rangverhältnisse mehrerer Unterhaltsverpflichteter
 
@@ -23977,10 +21850,7 @@ Verwandten des Berechtigten. Soweit jedoch der Verpflichtete nicht
 leistungsfähig ist, haften die Verwandten vor dem geschiedenen
 Ehegatten. § 1607 Abs. 2 und 4 gilt entsprechend.
 
-
 ###### Kapitel 4 - Gestaltung des Unterhaltsanspruchs
-
-
 
 ###### § 1585 Art der Unterhaltsgewährung
 
@@ -23993,7 +21863,6 @@ Berechtigten erlischt.
 (2) Statt der Rente kann der Berechtigte eine Abfindung in Kapital
 verlangen, wenn ein wichtiger Grund vorliegt und der Verpflichtete
 dadurch nicht unbillig belastet wird.
-
 
 ###### § 1585a Sicherheitsleistung
 
@@ -24009,7 +21878,6 @@ Sicherheitsleistung angemessen erscheint.
 (2) Die Art der Sicherheitsleistung bestimmt sich nach den Umständen;
 die Beschränkung des § 232 gilt nicht.
 
-
 ###### § 1585b Unterhalt für die Vergangenheit
 
 (1) Wegen eines Sonderbedarfs (§ 1613 Abs. 2) kann der Berechtigte
@@ -24024,7 +21892,6 @@ kann Erfüllung oder Schadensersatz wegen Nichterfüllung nur verlangt
 werden, wenn anzunehmen ist, dass der Verpflichtete sich der Leistung
 absichtlich entzogen hat.
 
-
 ###### § 1585c Vereinbarungen über den Unterhalt
 
 Die Ehegatten können über die Unterhaltspflicht für die Zeit nach der
@@ -24034,10 +21901,7 @@ Beurkundung. § 127a findet auch auf eine Vereinbarung Anwendung, die
 in einem Verfahren in Ehesachen vor dem Prozessgericht protokolliert
 wird.
 
-
 ###### Kapitel 5 - Ende des Unterhaltsanspruchs
-
-
 
 ###### § 1586 Wiederverheiratung, Begründung einer Lebenspartnerschaft oder Tod des Berechtigten
 
@@ -24048,7 +21912,6 @@ Begründung einer Lebenspartnerschaft oder dem Tode des Berechtigten.
 für die Vergangenheit bleiben bestehen. Das Gleiche gilt für den
 Anspruch auf den zur Zeit der Wiederheirat, der Begründung einer
 Lebenspartnerschaft oder des Todes fälligen Monatsbetrag.
-
 
 ###### § 1586a Wiederaufleben des Unterhaltsanspruchs
 
@@ -24062,7 +21925,6 @@ Lebenspartnerschaft zu pflegen oder zu erziehen hat.
 der früher aufgelösten Ehe. Satz 1 findet auf Lebenspartnerschaften
 entsprechende Anwendung.
 
-
 ###### § 1586b Kein Erlöschen bei Tod des Verpflichteten
 
 (1) Mit dem Tode des Verpflichteten geht die Unterhaltspflicht auf den
@@ -24075,10 +21937,7 @@ die Ehe nicht geschieden worden wäre.
 Grund des Güterstands, in dem die geschiedenen Ehegatten gelebt haben,
 außer Betracht.
 
-
 ##### Untertitel 3 - Versorgungsausgleich
-
-
 
 ###### § 1587 Verweis auf das Versorgungsausgleichsgesetz
 
@@ -24090,24 +21949,16 @@ Beamtenversorgung oder der berufsständischen Versorgung, aus der
 betrieblichen Altersversorgung oder aus der privaten Alters- und
 Invaliditätsvorsorge.
 
-
 #### Titel 8 - Kirchliche Verpflichtungen
-
-
 
 ##### § 1588 (keine Überschrift)
 
 Die kirchlichen Verpflichtungen in Ansehung der Ehe werden durch die
 Vorschriften dieses Abschnitts nicht berührt.
 
-
 ### Abschnitt 2 - Verwandtschaft
 
-
-
 #### Titel 1 - Allgemeine Vorschriften
-
-
 
 ##### § 1589 Verwandtschaft
 
@@ -24119,7 +21970,6 @@ sie vermittelnden Geburten.
 
 (2) (weggefallen)
 
-
 ##### § 1590 Schwägerschaft
 
 (1) Die Verwandten eines Ehegatten sind mit dem anderen Ehegatten
@@ -24129,15 +21979,11 @@ nach der Linie und dem Grade der sie vermittelnden Verwandtschaft.
 (2) Die Schwägerschaft dauert fort, auch wenn die Ehe, durch die sie
 begründet wurde, aufgelöst ist.
 
-
 #### Titel 2 - Abstammung
-
-
 
 ##### § 1591 Mutterschaft
 
 Mutter eines Kindes ist die Frau, die es geboren hat.
-
 
 ##### § 1592 Vaterschaft
 
@@ -24154,10 +22000,6 @@ Vater eines Kindes ist der Mann,
     das Verfahren in Familiensachen und in den Angelegenheiten der
     freiwilligen Gerichtsbarkeit gerichtlich festgestellt ist.
 
-
-
-
-
 ##### § 1593 Vaterschaft bei Auflösung der Ehe durch Tod
 
 § 1592 Nr. 1 gilt entsprechend, wenn die Ehe durch Tod aufgelöst wurde
@@ -24170,7 +22012,6 @@ nach § 1592 Nr. 1 Kind des neuen Ehemanns wäre, so ist es nur als Kind
 des neuen Ehemanns anzusehen. Wird die Vaterschaft angefochten und
 wird rechtskräftig festgestellt, dass der neue Ehemann nicht Vater des
 Kindes ist, so ist es Kind des früheren Ehemanns.
-
 
 ##### § 1594 Anerkennung der Vaterschaft
 
@@ -24186,7 +22027,6 @@ unwirksam.
 
 (4) Die Anerkennung ist schon vor der Geburt des Kindes zulässig.
 
-
 ##### § 1595 Zustimmungsbedürftigkeit der Anerkennung
 
 (1) Die Anerkennung bedarf der Zustimmung der Mutter.
@@ -24195,7 +22035,6 @@ unwirksam.
 Mutter insoweit die elterliche Sorge nicht zusteht.
 
 (3) Für die Zustimmung gilt § 1594 Abs. 3 und 4 entsprechend.
-
 
 ##### § 1596 Anerkennung und Zustimmung bei fehlender oder beschränkter Geschäftsfähigkeit
 
@@ -24219,7 +22058,6 @@ zustimmen; § 1903 bleibt unberührt.
 (4) Anerkennung und Zustimmung können nicht durch einen
 Bevollmächtigten erklärt werden.
 
-
 ##### § 1597 Formerfordernisse; Widerruf
 
 (1) Anerkennung und Zustimmung müssen öffentlich beurkundet werden.
@@ -24233,7 +22071,6 @@ der Beurkundung noch nicht wirksam geworden ist. Für den Widerruf
 gelten die Absätze 1 und 2 sowie § 1594 Abs. 3 und § 1596 Abs. 1, 3
 und 4 entsprechend.
 
-
 ##### § 1598 Unwirksamkeit von Anerkennung, Zustimmung und Widerruf
 
 (1) Anerkennung, Zustimmung und Widerruf sind nur unwirksam, wenn sie
@@ -24242,7 +22079,6 @@ den Erfordernissen der vorstehenden Vorschriften nicht genügen.
 (2) Sind seit der Eintragung in ein deutsches Personenstandsregister
 fünf Jahre verstrichen, so ist die Anerkennung wirksam, auch wenn sie
 den Erfordernissen der vorstehenden Vorschriften nicht genügt.
-
 
 ##### § 1598a Anspruch auf Einwilligung in eine genetische Untersuchung zur Klärung der leiblichen Abstammung
 
@@ -24280,7 +22116,6 @@ lassen, Einsicht in das Abstammungsgutachten oder Aushändigung einer
 Abschrift verlangen. Über Streitigkeiten aus dem Anspruch nach Satz 1
 entscheidet das Familiengericht.
 
-
 ##### § 1599 Nichtbestehen der Vaterschaft
 
 (1) § 1592 Nr. 1 und 2 und § 1593 gelten nicht, wenn auf Grund einer
@@ -24298,7 +22133,6 @@ verheiratet ist; für diese Zustimmung gelten § 1594 Abs. 3 und 4, §
 1596 Abs. 1 Satz 1 bis 3, Abs. 3 und 4, § 1597 Abs. 1 und 2 und § 1598
 Abs. 1 entsprechend. Die Anerkennung wird frühestens mit Rechtskraft
 des dem Scheidungsantrag stattgebenden Urteils wirksam.
-
 
 ##### § 1600 Anfechtungsberechtigte
 
@@ -24356,7 +22190,6 @@ der Behörde nach diesen Vorschriften nicht begründet, so wird die
 Zuständigkeit durch den Sitz des Gerichts bestimmt, das für die Klage
 zuständig ist.
 
-
 ##### § 1600a Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
 
 (1) Die Anfechtung kann nicht durch einen Bevollmächtigten erfolgen.
@@ -24375,7 +22208,6 @@ wenn sie dem Wohl des Vertretenen dient.
 
 (5) Ein geschäftsfähiger Betreuter kann die Vaterschaft nur selbst
 anfechten.
-
 
 ##### § 1600b Anfechtungsfristen
 
@@ -24423,7 +22255,6 @@ entsprechend anzuwenden.
 Folgen der Vaterschaft für es unzumutbar werden, so beginnt für das
 Kind mit diesem Zeitpunkt die Frist des Absatzes 1 Satz 1 erneut.
 
-
 ##### § 1600c Vaterschaftsvermutung im Anfechtungsverfahren
 
 (1) In dem Verfahren auf Anfechtung der Vaterschaft wird vermutet,
@@ -24434,7 +22265,6 @@ Nr. 1 und 2, § 1593 besteht.
 Vaterschaft anerkannt hat, die Vaterschaft anficht und seine
 Anerkennung unter einem Willensmangel nach § 119 Abs. 1, § 123 leidet;
 in diesem Falle ist § 1600d Abs. 2 und 3 entsprechend anzuwenden.
-
 
 ##### § 1600d Gerichtliche Feststellung der Vaterschaft
 
@@ -24456,20 +22286,14 @@ Empfängniszeit.
 dem Gesetz anderes ergibt, erst vom Zeitpunkt ihrer Feststellung an
 geltend gemacht werden.
 
-
 #### Titel 3 - Unterhaltspflicht
 
-
-
 ##### Untertitel 1 - Allgemeine Vorschriften
-
-
 
 ###### § 1601 Unterhaltsverpflichtete
 
 Verwandte in gerader Linie sind verpflichtet, einander Unterhalt zu
 gewähren.
-
 
 ###### § 1602 Bedürftigkeit
 
@@ -24480,7 +22304,6 @@ unterhalten.
 auch wenn es Vermögen hat, die Gewährung des Unterhalts insoweit
 verlangen, als die Einkünfte seines Vermögens und der Ertrag seiner
 Arbeit zum Unterhalt nicht ausreichen.
-
 
 ###### § 1603 Leistungsfähigkeit
 
@@ -24500,7 +22323,6 @@ unterhaltspflichtiger Verwandter vorhanden ist; sie tritt auch nicht
 ein gegenüber einem Kind, dessen Unterhalt aus dem Stamme seines
 Vermögens bestritten werden kann.
 
-
 ###### § 1604 Einfluss des Güterstands
 
 Lebt der Unterhaltspflichtige in Gütergemeinschaft, bestimmt sich
@@ -24510,7 +22332,6 @@ bedürftige Verwandte, ist der Unterhalt aus dem Gesamtgut so zu
 gewähren, als ob die Bedürftigen zu beiden Unterhaltspflichtigen in
 dem Verwandtschaftsverhältnis stünden, auf dem die Unterhaltspflicht
 des Verpflichteten beruht.
-
 
 ###### § 1605 Auskunftspflicht
 
@@ -24527,7 +22348,6 @@ werden, wenn glaubhaft gemacht wird, dass der zur Auskunft
 Verpflichtete später wesentlich höhere Einkünfte oder weiteres
 Vermögen erworben hat.
 
-
 ###### § 1606 Rangverhältnisse mehrerer Pflichtiger
 
 (1) Die Abkömmlinge sind vor den Verwandten der aufsteigenden Linie
@@ -24541,7 +22361,6 @@ und Vermögensverhältnissen. Der Elternteil, der ein minderjähriges
 unverheiratetes Kind betreut, erfüllt seine Verpflichtung, zum
 Unterhalt des Kindes beizutragen, in der Regel durch die Pflege und
 die Erziehung des Kindes.
-
 
 ###### § 1607 Ersatzhaftung und gesetzlicher Forderungsübergang
 
@@ -24564,7 +22383,6 @@ Unterhalt gewährt.
 (4) Der Übergang des Unterhaltsanspruchs kann nicht zum Nachteil des
 Unterhaltsberechtigten geltend gemacht werden.
 
-
 ###### § 1608 Haftung des Ehegatten oder Lebenspartners
 
 (1) Der Ehegatte des Bedürftigen haftet vor dessen Verwandten. Soweit
@@ -24575,7 +22393,6 @@ Ehegatten. § 1607 Abs. 2 und 4 gilt entsprechend. Der Lebenspartner
 des Bedürftigen haftet in gleicher Weise wie ein Ehegatte.
 
 (2) (weggefallen)
-
 
 ###### § 1609 Rangfolge mehrerer Unterhaltsberechtigter
 
@@ -24609,10 +22426,6 @@ folgende Rangfolge:
 7.  weitere Verwandte der aufsteigenden Linie; unter ihnen gehen die
     Näheren den Entfernteren vor.
 
-
-
-
-
 ###### § 1610 Maß des Unterhalts
 
 (1) Das Maß des zu gewährenden Unterhalts bestimmt sich nach der
@@ -24622,14 +22435,12 @@ Lebensstellung des Bedürftigen (angemessener Unterhalt).
 Kosten einer angemessenen Vorbildung zu einem Beruf, bei einer der
 Erziehung bedürftigen Person auch die Kosten der Erziehung.
 
-
 ###### § 1610a Deckungsvermutung bei schadensbedingten Mehraufwendungen
 
 Werden für Aufwendungen infolge eines Körper- oder Gesundheitsschadens
 Sozialleistungen in Anspruch genommen, wird bei der Feststellung eines
 Unterhaltsanspruchs vermutet, dass die Kosten der Aufwendungen nicht
 geringer sind als die Höhe dieser Sozialleistungen.
-
 
 ###### § 1611 Beschränkung oder Wegfall der Verpflichtung
 
@@ -24651,7 +22462,6 @@ anzuwenden.
 eintretenden Beschränkung seines Anspruchs nicht andere
 Unterhaltspflichtige in Anspruch nehmen.
 
-
 ###### § 1612 Art der Unterhaltsgewährung
 
 (1) Der Unterhalt ist durch Entrichtung einer Geldrente zu gewähren.
@@ -24670,7 +22480,6 @@ Haushalt aufgenommen ist.
 (3) Eine Geldrente ist monatlich im Voraus zu zahlen. Der
 Verpflichtete schuldet den vollen Monatsbetrag auch dann, wenn der
 Berechtigte im Laufe des Monats stirbt.
-
 
 ###### § 1612a Mindestunterhalt minderjähriger Kinder
 
@@ -24707,7 +22516,6 @@ vollendet.
 
 (4) u. (5) (weggefallen)
 
-
 ###### § 1612b Deckung des Barbedarfs durch Kindergeld
 
 (1) Das auf das Kind entfallende Kindergeld ist zur Deckung seines
@@ -24727,12 +22535,10 @@ In diesem Umfang mindert es den Barbedarf des Kindes.
 gemeinschaftlichen Kindes erhöht, ist es im Umfang der Erhöhung nicht
 bedarfsmindernd zu berücksichtigen.
 
-
 ###### § 1612c Anrechnung anderer kindbezogener Leistungen
 
 § 1612b gilt entsprechend für regelmäßig wiederkehrende kindbezogene
 Leistungen, soweit sie den Anspruch auf Kindergeld ausschließen.
-
 
 ###### § 1613 Unterhalt für die Vergangenheit
 
@@ -24779,7 +22585,6 @@ eine unbillige Härte bedeuten würde. Dies gilt auch, soweit ein
 Dritter vom Verpflichteten Ersatz verlangt, weil er anstelle des
 Verpflichteten Unterhalt gewährt hat.
 
-
 ###### § 1614 Verzicht auf den Unterhaltsanspruch; Vorausleistung
 
 (1) Für die Zukunft kann auf den Unterhalt nicht verzichtet werden.
@@ -24789,7 +22594,6 @@ Bedürftigkeit des Berechtigten nur für den im § 760 Abs. 2 bestimmten
 Zeitabschnitt oder, wenn er selbst den Zeitabschnitt zu bestimmen
 hatte, für einen den Umständen nach angemessenen Zeitabschnitt
 befreit.
-
 
 ###### § 1615 Erlöschen des Unterhaltsanspruchs
 
@@ -24803,10 +22607,7 @@ Berechtigten oder des Verpflichteten fällig sind.
 Kosten der Beerdigung zu tragen, soweit ihre Bezahlung nicht von dem
 Erben zu erlangen ist.
 
-
 ##### Untertitel 2 - Besondere Vorschriften für das Kind und seine nicht miteinander verheirateten Eltern
-
-
 
 ###### § 1615a Anwendbare Vorschriften
 
@@ -24816,9 +22617,7 @@ nach seiner Geburt die Ehe miteinander geschlossen, gelten die
 allgemeinen Vorschriften, soweit sich nichts anderes aus den folgenden
 Vorschriften ergibt.
 
-
 ###### (XXXX) §§ 1615b bis 1615k (weggefallen)
-
 
 ###### § 1615l Unterhaltsanspruch von Mutter und Vater aus Anlass der Geburt
 
@@ -24848,13 +22647,11 @@ entsprechend. Der Anspruch erlischt nicht mit dem Tode des Vaters.
 Absatz 2 Satz 2 gegen die Mutter zu. In diesem Falle gilt Absatz 3
 entsprechend.
 
-
 ###### § 1615m Beerdigungskosten für die Mutter
 
 Stirbt die Mutter infolge der Schwangerschaft oder der Entbindung, so
 hat der Vater die Kosten der Beerdigung zu tragen, soweit ihre
 Bezahlung nicht von dem Erben der Mutter zu erlangen ist.
-
 
 ###### § 1615n Kein Erlöschen bei Tod des Vaters oder Totgeburt
 
@@ -24863,15 +22660,11 @@ Vater vor der Geburt des Kindes gestorben oder wenn das Kind tot
 geboren ist. Bei einer Fehlgeburt gelten die Vorschriften der §§
 1615l, 1615m sinngemäß.
 
-
 #### Titel 4 - Rechtsverhältnis zwischen den Eltern und dem Kind im Allgemeinen
-
-
 
 ##### § 1616 Geburtsname bei Eltern mit Ehenamen
 
 Das Kind erhält den Ehenamen seiner Eltern als Geburtsnamen.
-
 
 ##### § 1617 Geburtsname bei Eltern ohne Ehenamen und gemeinsamer Sorge
 
@@ -24896,7 +22689,6 @@ Elternteil oder das Kind dies beantragt oder die Eintragung des Namens
 des Kindes in ein deutsches Personenstandsregister oder in ein
 amtliches deutsches Identitätspapier erforderlich wird.
 
-
 ##### § 1617a Geburtsname bei Eltern ohne Ehenamen und Alleinsorge
 
 (1) Führen die Eltern keinen Ehenamen und steht die elterliche Sorge
@@ -24910,7 +22702,6 @@ des Namens bedarf der Einwilligung des anderen Elternteils und, wenn
 das Kind das fünfte Lebensjahr vollendet hat, auch der Einwilligung
 des Kindes. Die Erklärungen müssen öffentlich beglaubigt werden. Für
 die Einwilligung des Kindes gilt § 1617c Abs. 1 entsprechend.
-
 
 ##### § 1617b Name bei nachträglicher gemeinsamer Sorge oder Scheinvaterschaft
 
@@ -24932,7 +22723,6 @@ Mannes den Namen, den die Mutter im Zeitpunkt der Geburt des Kindes
 führt, als Geburtsnamen. Der Antrag erfolgt durch Erklärung gegenüber
 dem Standesamt, die öffentlich beglaubigt werden muss. Für den Antrag
 des Kindes gilt § 1617c Abs. 1 Satz 2 und 3 entsprechend.
-
 
 ##### § 1617c Name bei Namensänderung der Eltern
 
@@ -24964,7 +22754,6 @@ oder den Lebenspartnerschaftsnamen des Kindes nur dann, wenn sich auch
 der Ehegatte oder der Lebenspartner der Namensänderung anschließt;
 Absatz 1 Satz 3 gilt entsprechend.
 
-
 ##### § 1618 Einbenennung
 
 Der Elternteil, dem die elterliche Sorge für ein unverheiratetes Kind
@@ -24985,11 +22774,9 @@ oder Anfügung des Namens zum Wohl des Kindes erforderlich ist. Die
 Erklärungen müssen öffentlich beglaubigt werden. § 1617c gilt
 entsprechend.
 
-
 ##### § 1618a Pflicht zu Beistand und Rücksicht
 
 Eltern und Kinder sind einander Beistand und Rücksicht schuldig.
-
 
 ##### § 1619 Dienstleistungen in Haus und Geschäft
 
@@ -24997,7 +22784,6 @@ Das Kind ist, solange es dem elterlichen Hausstand angehört und von
 den Eltern erzogen oder unterhalten wird, verpflichtet, in einer
 seinen Kräften und seiner Lebensstellung entsprechenden Weise den
 Eltern in ihrem Hauswesen und Geschäft Dienste zu leisten.
-
 
 ##### § 1620 Aufwendungen des Kindes für den elterlichen Haushalt
 
@@ -25007,10 +22793,7 @@ Aufwendung oder überlässt es den Eltern zu diesem Zwecke etwas aus
 seinem Vermögen, so ist im Zweifel anzunehmen, dass die Absicht fehlt,
 Ersatz zu verlangen.
 
-
 ##### (XXXX) §§ 1621 bis 1623 (weggefallen)
-
-
 
 ##### § 1624 Ausstattung aus dem Elternvermögen
 
@@ -25027,7 +22810,6 @@ Mangels im Recht oder wegen eines Fehlers der Sache bestimmt sich,
 auch soweit die Ausstattung nicht als Schenkung gilt, nach den für die
 Gewährleistungspflicht des Schenkers geltenden Vorschriften.
 
-
 ##### § 1625 Ausstattung aus dem Kindesvermögen
 
 Gewährt der Vater einem Kind, dessen Vermögen kraft elterlicher Sorge,
@@ -25036,10 +22818,7 @@ Ausstattung, so ist im Zweifel anzunehmen, dass er sie aus diesem
 Vermögen gewährt. Diese Vorschrift findet auf die Mutter entsprechende
 Anwendung.
 
-
 #### Titel 5 - Elterliche Sorge
-
-
 
 ##### § 1626 Elterliche Sorge, Grundsätze
 
@@ -25059,7 +22838,6 @@ Elternteilen. Gleiches gilt für den Umgang mit anderen Personen, zu
 denen das Kind Bindungen besitzt, wenn ihre Aufrechterhaltung für
 seine Entwicklung förderlich ist.
 
-
 ##### § 1626a Elterliche Sorge nicht miteinander verheirateter Eltern; Sorgeerklärungen
 
 (1) Sind die Eltern bei der Geburt des Kindes nicht miteinander
@@ -25077,7 +22855,6 @@ wenn sie
 
 (2) Im Übrigen hat die Mutter die elterliche Sorge.
 
-
 ##### § 1626b Besondere Wirksamkeitsvoraussetzungen der Sorgeerklärung
 
 (1) Eine Sorgeerklärung unter einer Bedingung oder einer
@@ -25091,7 +22868,6 @@ Entscheidung über die elterliche Sorge nach den §§ 1671, 1672
 getroffen oder eine solche Entscheidung nach § 1696 Abs. 1 geändert
 wurde..
 
-
 ##### § 1626c Persönliche Abgabe; beschränkt geschäftsfähiger Elternteil
 
 (1) Die Eltern können die Sorgeerklärungen nur selbst abgeben.
@@ -25102,7 +22878,6 @@ kann nur von diesem selbst abgegeben werden; § 1626b Abs. 1 und 2 gilt
 entsprechend. Das Familiengericht hat die Zustimmung auf Antrag des
 beschränkt geschäftsfähigen Elternteils zu ersetzen, wenn die
 Sorgeerklärung dem Wohl dieses Elternteils nicht widerspricht.
-
 
 ##### § 1626d Form; Mitteilungspflicht
 
@@ -25117,19 +22892,16 @@ Sozialgesetzbuch zuständigen Jugendamt zum Zwecke der
 Auskunftserteilung nach § 58a des Achten Buches Sozialgesetzbuch
 unverzüglich mit.
 
-
 ##### § 1626e Unwirksamkeit
 
 Sorgeerklärungen und Zustimmungen sind nur unwirksam, wenn sie den
 Erfordernissen der vorstehenden Vorschriften nicht genügen.
-
 
 ##### § 1627 Ausübung der elterlichen Sorge
 
 Die Eltern haben die elterliche Sorge in eigener Verantwortung und in
 gegenseitigem Einvernehmen zum Wohl des Kindes auszuüben. Bei
 Meinungsverschiedenheiten müssen sie versuchen, sich zu einigen.
-
 
 ##### § 1628 Gerichtliche Entscheidung bei Meinungsverschiedenheiten der Eltern
 
@@ -25139,7 +22911,6 @@ Regelung für das Kind von erheblicher Bedeutung ist, nicht einigen, so
 kann das Familiengericht auf Antrag eines Elternteils die Entscheidung
 einem Elternteil übertragen. Die Übertragung kann mit Beschränkungen
 oder mit Auflagen verbunden werden.
-
 
 ##### § 1629 Vertretung des Kindes
 
@@ -25172,7 +22943,6 @@ anderen Elternteil nur im eigenen Namen geltend machen. Eine von einem
 Elternteil erwirkte gerichtliche Entscheidung und ein zwischen den
 Eltern geschlossener gerichtlicher Vergleich wirken auch für und gegen
 das Kind.
-
 
 ##### § 1629a Beschränkung der Minderjährigenhaftung
 
@@ -25213,7 +22983,6 @@ Unter den in Satz 1 bezeichneten Voraussetzungen wird ferner vermutet,
 dass das gegenwärtige Vermögen des volljährig Gewordenen bereits bei
 Eintritt der Volljährigkeit vorhanden war.
 
-
 ##### § 1630 Elterliche Sorge bei Pflegerbestellung oder Familienpflege
 
 (1) Die elterliche Sorge erstreckt sich nicht auf Angelegenheiten des
@@ -25231,7 +23000,6 @@ Für die Übertragung auf Antrag der Pflegeperson ist die Zustimmung der
 Eltern erforderlich. Im Umfang der Übertragung hat die Pflegeperson
 die Rechte und Pflichten eines Pflegers.
 
-
 ##### § 1631 Inhalt und Grenzen der Personensorge
 
 (1) Die Personensorge umfasst insbesondere die Pflicht und das Recht,
@@ -25245,14 +23013,12 @@ Maßnahmen sind unzulässig.
 (3) Das Familiengericht hat die Eltern auf Antrag bei der Ausübung der
 Personensorge in geeigneten Fällen zu unterstützen.
 
-
 ##### § 1631a Ausbildung und Beruf
 
 In Angelegenheiten der Ausbildung und des Berufs nehmen die Eltern
 insbesondere auf Eignung und Neigung des Kindes Rücksicht. Bestehen
 Zweifel, so soll der Rat eines Lehrers oder einer anderen geeigneten
 Person eingeholt werden.
-
 
 ##### § 1631b Mit Freiheitsentziehung verbundene Unterbringung
 
@@ -25265,13 +23031,11 @@ Hilfen, begegnet werden kann. Ohne die Genehmigung ist die
 Unterbringung nur zulässig, wenn mit dem Aufschub Gefahr verbunden
 ist; die Genehmigung ist unverzüglich nachzuholen.
 
-
 ##### § 1631c Verbot der Sterilisation
 
 Die Eltern können nicht in eine Sterilisation des Kindes einwilligen.
 Auch das Kind selbst kann nicht in die Sterilisation einwilligen. §
 1909 findet keine Anwendung.
-
 
 ##### § 1631d Beschneidung des männlichen Kindes
 
@@ -25287,7 +23051,6 @@ von einer Religionsgesellschaft dazu vorgesehene Personen
 Beschneidungen gemäß Absatz 1 durchführen, wenn sie dafür besonders
 ausgebildet und, ohne Arzt zu sein, für die Durchführung der
 Beschneidung vergleichbar befähigt sind.
-
 
 ##### § 1632 Herausgabe des Kindes; Bestimmung des Umgangs; Verbleibensanordnung bei Familienpflege
 
@@ -25308,17 +23071,13 @@ Familiengericht von Amts wegen oder auf Antrag der Pflegeperson
 anordnen, dass das Kind bei der Pflegeperson verbleibt, wenn und
 solange das Kindeswohl durch die Wegnahme gefährdet würde.
 
-
 ##### § 1633 Personensorge für verheirateten Minderjährigen
 
 Die Personensorge für einen Minderjährigen, der verheiratet ist oder
 war, beschränkt sich auf die Vertretung in den persönlichen
 Angelegenheiten.
 
-
 ##### (XXXX) §§ 1634 bis 1637 (weggefallen)
-
-
 
 ##### § 1638 Beschränkung der Vermögenssorge
 
@@ -25338,7 +23097,6 @@ Eltern gleichfalls nicht verwalten.
 dass ein Elternteil das Vermögen nicht verwalten soll, so verwaltet es
 der andere Elternteil. Insoweit vertritt dieser das Kind.
 
-
 ##### § 1639 Anordnungen des Erblassers oder Zuwendenden
 
 (1) Was das Kind von Todes wegen erwirbt oder was ihm unter Lebenden
@@ -25348,7 +23106,6 @@ getroffen worden sind.
 
 (2) Die Eltern dürfen von den Anordnungen insoweit abweichen, als es
 nach § 1803 Abs. 2, 3 einem Vormund gestattet ist.
-
 
 ##### § 1640 Vermögensverzeichnis
 
@@ -25377,13 +23134,11 @@ oder ist das eingereichte Verzeichnis ungenügend, so kann das
 Familiengericht anordnen, dass das Verzeichnis durch eine zuständige
 Behörde oder einen zuständigen Beamten oder Notar aufgenommen wird.
 
-
 ##### § 1641 Schenkungsverbot
 
 Die Eltern können nicht in Vertretung des Kindes Schenkungen machen.
 Ausgenommen sind Schenkungen, durch die einer sittlichen Pflicht oder
 einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
-
 
 ##### § 1642 Anlegung von Geld
 
@@ -25391,7 +23146,6 @@ Die Eltern haben das ihrer Verwaltung unterliegende Geld des Kindes
 nach den Grundsätzen einer wirtschaftlichen Vermögensverwaltung
 anzulegen, soweit es nicht zur Bestreitung von Ausgaben bereitzuhalten
 ist.
-
 
 ##### § 1643 Genehmigungspflichtige Rechtsgeschäfte
 
@@ -25410,7 +23164,6 @@ dem Kind berufen war.
 (3) Die Vorschriften der §§ 1825, 1828 bis 1831 sind entsprechend
 anzuwenden.
 
-
 ##### § 1644 Überlassung von Vermögensgegenständen an das Kind
 
 Die Eltern können Gegenstände, die sie nur mit Genehmigung des
@@ -25418,12 +23171,10 @@ Familiengerichts veräußern dürfen, dem Kind nicht ohne diese
 Genehmigung zur Erfüllung eines von dem Kind geschlossenen Vertrags
 oder zu freier Verfügung überlassen.
 
-
 ##### § 1645 Neues Erwerbsgeschäft
 
 Die Eltern sollen nicht ohne Genehmigung des Familiengerichts ein
 neues Erwerbsgeschäft im Namen des Kindes beginnen.
-
 
 ##### § 1646 Erwerb mit Mitteln des Kindes
 
@@ -25438,11 +23189,9 @@ die Eltern mit Mitteln des Kindes ein Recht an Sachen der bezeichneten
 Art oder ein anderes Recht erwerben, zu dessen Übertragung der
 Abtretungsvertrag genügt.
 
-
 ##### § 1647
 
 (weggefallen)
-
 
 ##### § 1648 Ersatz von Aufwendungen
 
@@ -25450,7 +23199,6 @@ Machen die Eltern bei der Ausübung der Personensorge oder der
 Vermögenssorge Aufwendungen, die sie den Umständen nach für
 erforderlich halten dürfen, so können sie von dem Kind Ersatz
 verlangen, sofern nicht die Aufwendungen ihnen selbst zur Last fallen.
-
 
 ##### § 1649 Verwendung der Einkünfte des Kindesvermögens
 
@@ -25469,10 +23217,7 @@ verwenden, soweit dies unter Berücksichtigung der Vermögens- und
 Erwerbsverhältnisse der Beteiligten der Billigkeit entspricht. Diese
 Befugnis erlischt mit der Eheschließung des Kindes.
 
-
 ##### (XXXX) §§ 1650 bis 1663 (weggefallen)
-
-
 
 ##### § 1664 Beschränkte Haftung der Eltern
 
@@ -25483,11 +23228,9 @@ Angelegenheiten anzuwenden pflegen.
 (2) Sind für einen Schaden beide Eltern verantwortlich, so haften sie
 als Gesamtschuldner.
 
-
 ##### § 1665
 
 (weggefallen)
-
 
 ##### § 1666 Gerichtliche Maßnahmen bei Gefährdung des Kindeswohls
 
@@ -25532,7 +23275,6 @@ auf die Vermögenssorge beziehen, nicht befolgt.
 (4) In Angelegenheiten der Personensorge kann das Gericht auch
 Maßnahmen mit Wirkung gegen einen Dritten treffen.
 
-
 ##### § 1666a Grundsatz der Verhältnismäßigkeit; Vorrang öffentlicher Hilfen
 
 (1) Maßnahmen, mit denen eine Trennung des Kindes von der elterlichen
@@ -25551,7 +23293,6 @@ wenn der Elternteil oder Dritte Mieter der Wohnung ist.
 (2) Die gesamte Personensorge darf nur entzogen werden, wenn andere
 Maßnahmen erfolglos geblieben sind oder wenn anzunehmen ist, dass sie
 zur Abwendung der Gefahr nicht ausreichen.
-
 
 ##### § 1667 Gerichtliche Maßnahmen bei Gefährdung des Kindesvermögens
 
@@ -25584,10 +23325,7 @@ Vermögenssorge gemäß § 1666 Abs. 1 ganz oder teilweise entzogen wird.
 (4) Die Kosten der angeordneten Maßnahmen trägt der Elternteil, der
 sie veranlasst hat.
 
-
 ##### (XXXX) §§ 1668 bis 1670 (weggefallen)
-
-
 
 ##### § 1671 Getrenntleben bei gemeinsamer elterlicher Sorge
 
@@ -25612,7 +23350,6 @@ elterlichen Sorge allein überträgt.
 (3) Dem Antrag ist nicht stattzugeben, soweit die elterliche Sorge auf
 Grund anderer Vorschriften abweichend geregelt werden muss.
 
-
 ##### § 1672 Getrenntleben bei elterlicher Sorge der Mutter
 
 (1) Leben die Eltern nicht nur vorübergehend getrennt und steht die
@@ -25629,7 +23366,6 @@ gemeinsam zusteht, wenn dies dem Wohl des Kindes nicht widerspricht.
 Das gilt auch, soweit die Übertragung nach Absatz 1 wieder aufgehoben
 wurde.
 
-
 ##### § 1673 Ruhen der elterlichen Sorge bei rechtlichem Hindernis
 
 (1) Die elterliche Sorge eines Elternteils ruht, wenn er
@@ -25643,7 +23379,6 @@ minderjährigen Elternteils vor, wenn der gesetzliche Vertreter des
 Kindes ein Vormund oder Pfleger ist; andernfalls gelten § 1627 Satz 2
 und § 1628.
 
-
 ##### § 1674 Ruhen der elterlichen Sorge bei tatsächlichem Hindernis
 
 (1) Die elterliche Sorge eines Elternteils ruht, wenn das
@@ -25653,17 +23388,14 @@ Sorge tatsächlich nicht ausüben kann.
 (2) Die elterliche Sorge lebt wieder auf, wenn das Familiengericht
 feststellt, dass der Grund des Ruhens nicht mehr besteht.
 
-
 ##### § 1675 Wirkung des Ruhens
 
 Solange die elterliche Sorge ruht, ist ein Elternteil nicht
 berechtigt, sie auszuüben.
 
-
 ##### § 1676
 
 (weggefallen)
-
 
 ##### § 1677 Beendigung der Sorge durch Todeserklärung
 
@@ -25671,7 +23403,6 @@ Die elterliche Sorge eines Elternteils endet, wenn er für tot erklärt
 oder seine Todeszeit nach den Vorschriften des
 Verschollenheitsgesetzes festgestellt wird, mit dem Zeitpunkt, der als
 Zeitpunkt des Todes gilt.
-
 
 ##### § 1678 Folgen der tatsächlichen Verhinderung oder des Ruhens für den anderen Elternteil
 
@@ -25687,11 +23418,9 @@ Ruhens wegfallen werde, so hat das Familiengericht die elterliche
 Sorge dem anderen Elternteil zu übertragen, wenn dies dem Wohl des
 Kindes dient.
 
-
 ##### § 1679
 
 (weggefallen)
-
 
 ##### § 1680 Tod eines Elternteils oder Entziehung des Sorgerechts
 
@@ -25712,7 +23441,6 @@ Elternteil, dem die elterliche Sorge gemeinsam mit dem anderen
 Elternteil oder gemäß § 1626a Abs. 2 allein zustand, die elterliche
 Sorge entzogen wird.
 
-
 ##### § 1681 Todeserklärung eines Elternteils
 
 (1) § 1680 Abs. 1 und 2 gilt entsprechend, wenn die elterliche Sorge
@@ -25724,7 +23452,6 @@ ist.
 Antrag die elterliche Sorge in dem Umfang zu übertragen, in dem sie
 ihm vor dem nach § 1677 maßgebenden Zeitpunkt zustand, wenn dies dem
 Wohl des Kindes nicht widerspricht.
-
 
 ##### § 1682 Verbleibensanordnung zugunsten von Bezugspersonen
 
@@ -25739,11 +23466,9 @@ entsprechend, wenn das Kind seit längerer Zeit in einem Haushalt mit
 einem Elternteil und dessen Lebenspartner oder einer nach § 1685 Abs.
 1 umgangsberechtigten volljährigen Person gelebt hat.
 
-
 ##### § 1683 (weggefallen)
 
 -
-
 
 ##### § 1684 Umgang des Kindes mit den Eltern
 
@@ -25781,7 +23506,6 @@ Dritter kann auch ein Träger der Jugendhilfe oder ein Verein sein;
 dieser bestimmt dann jeweils, welche Einzelperson die Aufgabe
 wahrnimmt.
 
-
 ##### § 1685 Umgang des Kindes mit anderen Bezugspersonen
 
 (1) Großeltern und Geschwister haben ein Recht auf Umgang mit dem
@@ -25797,14 +23521,12 @@ Kind längere Zeit in häuslicher Gemeinschaft zusammengelebt hat.
 nach § 1684 Abs. 3 Satz 3 bis 5 kann das Familiengericht nur anordnen,
 wenn die Voraussetzungen des § 1666 Abs. 1 erfüllt sind.
 
-
 ##### § 1686 Auskunft über die persönlichen Verhältnisse des Kindes
 
 Jeder Elternteil kann vom anderen Elternteil bei berechtigtem
 Interesse Auskunft über die persönlichen Verhältnisse des Kindes
 verlangen, soweit dies dem Wohl des Kindes nicht widerspricht. Über
 Streitigkeiten entscheidet das Familiengericht.
-
 
 ##### § 1687 Ausübung der gemeinsamen Sorge bei Getrenntleben
 
@@ -25828,7 +23550,6 @@ Angelegenheiten der tatsächlichen Betreuung. § 1629 Abs. 1 Satz 4 und
 einschränken oder ausschließen, wenn dies zum Wohl des Kindes
 erforderlich ist.
 
-
 ##### § 1687a Entscheidungsbefugnisse des nicht sorgeberechtigten Elternteils
 
 Für jeden Elternteil, der nicht Inhaber der elterlichen Sorge ist und
@@ -25836,7 +23557,6 @@ bei dem sich das Kind mit Einwilligung des anderen Elternteils oder
 eines sonstigen Inhabers der Sorge oder auf Grund einer gerichtlichen
 Entscheidung aufhält, gilt § 1687 Abs. 1 Satz 4 und 5 und Abs. 2
 entsprechend.
-
 
 ##### § 1687b Sorgerechtliche Befugnisse des Ehegatten
 
@@ -25855,7 +23575,6 @@ oder ausschließen, wenn dies zum Wohl des Kindes erforderlich ist.
 
 (4) Die Befugnisse nach Absatz 1 bestehen nicht, wenn die Ehegatten
 nicht nur vorübergehend getrennt leben.
-
 
 ##### § 1688 Entscheidungsbefugnisse der Pflegeperson
 
@@ -25883,10 +23602,7 @@ gelten die Absätze 1 und 3 mit der Maßgabe, dass die genannten
 Befugnisse nur das Familiengericht einschränken oder ausschließen
 kann.
 
-
 ##### (XXXX) §§ 1689 bis 1692 (weggefallen)
-
-
 
 ##### § 1693 Gerichtliche Maßnahmen bei Verhinderung der Eltern
 
@@ -25894,10 +23610,7 @@ Sind die Eltern verhindert, die elterliche Sorge auszuüben, so hat das
 Familiengericht die im Interesse des Kindes erforderlichen Maßregeln
 zu treffen.
 
-
 ##### (XXXX) §§ 1694 und 1695 (weggefallen)
-
-
 
 ##### § 1696 Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche
 
@@ -25914,11 +23627,9 @@ des Kindes erforderlich ist (kindesschutzrechtliche Maßnahme), ist
 aufzuheben, wenn eine Gefahr für das Wohl des Kindes nicht mehr
 besteht oder die Erforderlichkeit der Maßnahme entfallen ist.
 
-
 ##### § 1697 (weggefallen)
 
 -
-
 
 ##### § 1697a Kindeswohlprinzip
 
@@ -25927,7 +23638,6 @@ Soweit nichts anderes bestimmt ist, trifft das Gericht in Verfahren
 Entscheidung, die unter Berücksichtigung der tatsächlichen
 Gegebenheiten und Möglichkeiten sowie der berechtigten Interessen der
 Beteiligten dem Wohl des Kindes am besten entspricht.
-
 
 ##### § 1698 Herausgabe des Kindesvermögens; Rechnungslegung
 
@@ -25941,7 +23651,6 @@ insoweit Rechenschaft abzulegen, als Grund zu der Annahme besteht,
 dass sie die Nutzungen entgegen den Vorschriften des § 1649 verwendet
 haben.
 
-
 ##### § 1698a Fortführung der Geschäfte in Unkenntnis der Beendigung der elterlichen Sorge
 
 (1) Die Eltern dürfen die mit der Personensorge und mit der
@@ -25954,21 +23663,15 @@ oder kennen muss.
 (2) Diese Vorschriften sind entsprechend anzuwenden, wenn die
 elterliche Sorge ruht.
 
-
 ##### § 1698b Fortführung dringender Geschäfte nach Tod des Kindes
 
 Endet die elterliche Sorge durch den Tod des Kindes, so haben die
 Eltern die Geschäfte, die nicht ohne Gefahr aufgeschoben werden
 können, zu besorgen, bis der Erbe anderweit Fürsorge treffen kann.
 
-
 ##### (XXXX) §§ 1699 bis 1711 (weggefallen)
 
-
-
 #### Titel 6 - Beistandschaft
-
-
 
 ##### § 1712 Beistandschaft des Jugendamts; Aufgaben
 
@@ -25989,7 +23692,6 @@ Beistand des Kindes für folgende Aufgaben:
 (2) Der Antrag kann auf einzelne der in Absatz 1 bezeichneten Aufgaben
 beschränkt werden.
 
-
 ##### § 1713 Antragsberechtigte
 
 (1) Den Antrag kann ein Elternteil stellen, dem für den Aufgabenkreis
@@ -26008,13 +23710,11 @@ stellen; sie bedarf hierzu nicht der Zustimmung ihres gesetzlichen
 Vertreters. Für eine geschäftsunfähige werdende Mutter kann nur ihr
 gesetzlicher Vertreter den Antrag stellen.
 
-
 ##### § 1714 Eintritt der Beistandschaft
 
 Die Beistandschaft tritt ein, sobald der Antrag dem Jugendamt zugeht.
 Dies gilt auch, wenn der Antrag vor der Geburt des Kindes gestellt
 wird.
-
 
 ##### § 1715 Beendigung der Beistandschaft
 
@@ -26024,7 +23724,6 @@ verlangt. § 1712 Abs. 2 und § 1714 gelten entsprechend.
 (2) Die Beistandschaft endet auch, sobald der Antragsteller keine der
 in § 1713 genannten Voraussetzungen mehr erfüllt.
 
-
 ##### § 1716 Wirkungen der Beistandschaft
 
 Durch die Beistandschaft wird die elterliche Sorge nicht
@@ -26033,7 +23732,6 @@ mit Ausnahme derjenigen über die Aufsicht des Familiengerichts und die
 Rechnungslegung sinngemäß; die §§ 1791, 1791c Abs. 3 sind nicht
 anzuwenden.
 
-
 ##### § 1717 Erfordernis des gewöhnlichen Aufenthalts im Inland
 
 Die Beistandschaft tritt nur ein, wenn das Kind seinen gewöhnlichen
@@ -26041,18 +23739,11 @@ Aufenthalt im Inland hat; sie endet, wenn das Kind seinen gewöhnlichen
 Aufenthalt im Ausland begründet. Dies gilt für die Beistandschaft vor
 der Geburt des Kindes entsprechend.
 
-
 ##### (XXXX) §§ 1718 bis 1740 (weggefallen)
-
-
 
 #### Titel 7 - Annahme als Kind
 
-
-
 ##### Untertitel 1 - Annahme Minderjähriger
-
-
 
 ###### § 1741 Zulässigkeit der Annahme
 
@@ -26071,13 +23762,11 @@ allein annehmen, wenn der andere Ehegatte das Kind nicht annehmen
 kann, weil er geschäftsunfähig ist oder das 21. Lebensjahr noch nicht
 vollendet hat.
 
-
 ###### § 1742 Annahme nur als gemeinschaftliches Kind
 
 Ein angenommenes Kind kann, solange das Annahmeverhältnis besteht, bei
 Lebzeiten eines Annehmenden nur von dessen Ehegatten angenommen
 werden.
-
 
 ###### § 1743 Mindestalter
 
@@ -26086,12 +23775,10 @@ das 21. Lebensjahr vollendet haben. In den Fällen des § 1741 Abs. 2
 Satz 2 muss ein Ehegatte das 25. Lebensjahr, der andere Ehegatte das
 21\. Lebensjahr vollendet haben.
 
-
 ###### § 1744 Probezeit
 
 Die Annahme soll in der Regel erst ausgesprochen werden, wenn der
 Annehmende das Kind eine angemessene Zeit in Pflege gehabt hat.
-
 
 ###### § 1745 Verbot der Annahme
 
@@ -26100,7 +23787,6 @@ Interessen der Kinder des Annehmenden oder des Anzunehmenden
 entgegenstehen oder wenn zu befürchten ist, dass Interessen des
 Anzunehmenden durch Kinder des Annehmenden gefährdet werden.
 Vermögensrechtliche Interessen sollen nicht ausschlaggebend sein.
-
 
 ###### § 1746 Einwilligung des Kindes
 
@@ -26125,7 +23811,6 @@ ersetzen; einer Erklärung nach Absatz 1 durch die Eltern bedarf es
 nicht, soweit diese nach den §§ 1747, 1750 unwiderruflich in die
 Annahme eingewilligt haben oder ihre Einwilligung nach § 1748 durch
 das Familiengericht ersetzt worden ist.
-
 
 ###### § 1747 Einwilligung der Eltern des Kindes
 
@@ -26161,7 +23846,6 @@ Sorgeerklärungen abgegeben,
 (4) Die Einwilligung eines Elternteils ist nicht erforderlich, wenn er
 zur Abgabe einer Erklärung dauernd außerstande oder sein Aufenthalt
 dauernd unbekannt ist.
-
 
 ###### § 1748 Ersetzung der Einwilligung eines Elternteils
 
@@ -26201,7 +23885,6 @@ und dadurch in seiner Entwicklung schwer gefährdet wäre.
 Einwilligung des Vaters zu ersetzen, wenn das Unterbleiben der Annahme
 dem Kind zu unverhältnismäßigem Nachteil gereichen würde.
 
-
 ###### § 1749 Einwilligung des Ehegatten
 
 (1) Zur Annahme eines Kindes durch einen Ehegatten allein ist die
@@ -26216,7 +23899,6 @@ Ehegatten erforderlich.
 (3) Die Einwilligung des Ehegatten ist nicht erforderlich, wenn er zur
 Abgabe der Erklärung dauernd außerstande oder sein Aufenthalt dauernd
 unbekannt ist.
-
 
 ###### § 1750 Einwilligungserklärung
 
@@ -26240,7 +23922,6 @@ zurückgenommen oder die Annahme versagt wird. Die Einwilligung eines
 Elternteils verliert ferner ihre Kraft, wenn das Kind nicht innerhalb
 von drei Jahren seit dem Wirksamwerden der Einwilligung angenommen
 wird.
-
 
 ###### § 1751 Wirkung der elterlichen Einwilligung, Verpflichtung zum Unterhalt
 
@@ -26272,7 +23953,6 @@ Unterhalts verpflichtet, sobald die erforderliche Einwilligung der
 Eltern des Kindes erteilt und das Kind in die Obhut der Ehegatten
 aufgenommen ist.
 
-
 ###### § 1752 Beschluss des Familiengerichts, Antrag
 
 (1) Die Annahme als Kind wird auf Antrag des Annehmenden vom
@@ -26281,7 +23961,6 @@ Familiengericht ausgesprochen.
 (2) Der Antrag kann nicht unter einer Bedingung oder einer
 Zeitbestimmung oder durch einen Vertreter gestellt werden. Er bedarf
 der notariellen Beurkundung.
-
 
 ###### § 1753 Annahme nach dem Tode
 
@@ -26296,7 +23975,6 @@ betraut hat, den Antrag einzureichen.
 (3) Wird die Annahme nach dem Tode des Annehmenden ausgesprochen, so
 hat sie die gleiche Wirkung, wie wenn sie vor dem Tode erfolgt wäre.
 
-
 ###### § 1754 Wirkung der Annahme
 
 (1) Nimmt ein Ehepaar ein Kind an oder nimmt ein Ehegatte ein Kind des
@@ -26308,7 +23986,6 @@ eines Kindes des Annehmenden.
 
 (3) Die elterliche Sorge steht in den Fällen des Absatzes 1 den
 Ehegatten gemeinsam, in den Fällen des Absatzes 2 dem Annehmenden zu.
-
 
 ###### § 1755 Erlöschen von Verwandtschaftsverhältnissen
 
@@ -26323,7 +24000,6 @@ Annahme nicht berührt; dies gilt nicht für Unterhaltsansprüche.
 Erlöschen nur im Verhältnis zu dem anderen Elternteil und dessen
 Verwandten ein.
 
-
 ###### § 1756 Bestehenbleiben von Verwandtschaftsverhältnissen
 
 (1) Sind die Annehmenden mit dem Kind im zweiten oder dritten Grad
@@ -26336,7 +24012,6 @@ Pflichten.
 Verwandtschaftsverhältnis nicht im Verhältnis zu den Verwandten des
 anderen Elternteils, wenn dieser die elterliche Sorge hatte und
 verstorben ist.
-
 
 ###### § 1757 Name des Kindes
 
@@ -26376,7 +24051,6 @@ Einwilligung des Kindes mit dem Ausspruch der Annahme
 § 1746 Abs. 1 Satz 2, 3, Abs. 3 erster Halbsatz ist entsprechend
 anzuwenden.
 
-
 ###### § 1758 Offenbarungs- und Ausforschungsverbot
 
 (1) Tatsachen, die geeignet sind, die Annahme und ihre Umstände
@@ -26389,12 +24063,10 @@ Einwilligung erteilt ist. Das Familiengericht kann anordnen, dass die
 Wirkungen des Absatzes 1 eintreten, wenn ein Antrag auf Ersetzung der
 Einwilligung eines Elternteils gestellt worden ist.
 
-
 ###### § 1759 Aufhebung des Annahmeverhältnisses
 
 Das Annahmeverhältnis kann nur in den Fällen der §§ 1760, 1763
 aufgehoben werden.
-
 
 ###### § 1760 Aufhebung wegen fehlender Erklärungen
 
@@ -26457,7 +24129,6 @@ gegeben hat, dass das Annahmeverhältnis aufrechterhalten werden soll.
 Die Vorschrift des § 1750 Abs. 3 Satz 1, 2 ist entsprechend
 anzuwenden.
 
-
 ###### § 1761 Aufhebungshindernisse
 
 (1) Das Annahmeverhältnis kann nicht aufgehoben werden, weil eine
@@ -26471,7 +24142,6 @@ dabei ist es unschädlich, wenn eine Belehrung oder Beratung nach §
 (2) Das Annahmeverhältnis darf nicht aufgehoben werden, wenn dadurch
 das Wohl des Kindes erheblich gefährdet würde, es sei denn, dass
 überwiegende Interessen des Annehmenden die Aufhebung erfordern.
-
 
 ###### § 1762 Antragsberechtigung; Antragsfrist, Form
 
@@ -26518,7 +24188,6 @@ entsprechend anzuwenden.
 
 (3) Der Antrag bedarf der notariellen Beurkundung.
 
-
 ###### § 1763 Aufhebung von Amts wegen
 
 (1) Während der Minderjährigkeit des Kindes kann das Familiengericht
@@ -26538,10 +24207,6 @@ a)  wenn in dem Falle des Absatzes 2 der andere Ehegatte oder wenn ein
 
 
 b)  wenn die Aufhebung eine erneute Annahme des Kindes ermöglichen soll.
-
-
-
-
 
 ###### § 1764 Wirkung der Aufhebung
 
@@ -26571,7 +24236,6 @@ Wirkungen des Absatzes 2 nur zwischen dem Kind und seinen Abkömmlingen
 und diesem Ehegatten und dessen Verwandten ein; die Wirkungen des
 Absatzes 3 treten nicht ein.
 
-
 ###### § 1765 Name des Kindes nach der Aufhebung
 
 (1) Mit der Aufhebung der Annahme als Kind verliert das Kind das
@@ -26595,7 +24259,6 @@ anzuordnen, dass die Ehegatten oder Lebenspartner als Ehenamen oder
 Lebenspartnerschaftsnamen den Geburtsnamen führen, den das Kind vor
 der Annahme geführt hat.
 
-
 ###### § 1766 Ehe zwischen Annehmendem und Kind
 
 Schließt ein Annehmender mit dem Angenommenen oder einem seiner
@@ -26603,10 +24266,7 @@ Abkömmlinge den eherechtlichen Vorschriften zuwider die Ehe, so wird
 mit der Eheschließung das durch die Annahme zwischen ihnen begründete
 Rechtsverhältnis aufgehoben. §§ 1764, 1765 sind nicht anzuwenden.
 
-
 ##### Untertitel 2 - Annahme Volljähriger
-
-
 
 ###### § 1767 Zulässigkeit der Annahme, anzuwendende Vorschriften
 
@@ -26623,7 +24283,6 @@ hat und sein Geburtsname zum Lebenspartnerschaftsnamen bestimmt worden
 ist. Zur Annahme einer Person, die eine Lebenspartnerschaft führt, ist
 die Einwilligung des Lebenspartners erforderlich.
 
-
 ###### § 1768 Antrag
 
 (1) Die Annahme eines Volljährigen wird auf Antrag des Annehmenden und
@@ -26633,13 +24292,11 @@ des Anzunehmenden vom Familiengericht ausgesprochen. §§ 1742, 1744,
 (2) Für einen Anzunehmenden, der geschäftsunfähig ist, kann der Antrag
 nur von seinem gesetzlichen Vertreter gestellt werden.
 
-
 ###### § 1769 Verbot der Annahme
 
 Die Annahme eines Volljährigen darf nicht ausgesprochen werden, wenn
 ihr überwiegende Interessen der Kinder des Annehmenden oder des
 Anzunehmenden entgegenstehen.
-
 
 ###### § 1770 Wirkung der Annahme
 
@@ -26657,7 +24314,6 @@ vorschreibt.
 den leiblichen Verwandten des Angenommenen zur Gewährung des
 Unterhalts verpflichtet.
 
-
 ###### § 1771 Aufhebung des Annahmeverhältnisses
 
 Das Familiengericht kann das Annahmeverhältnis, das zu einem
@@ -26666,7 +24322,6 @@ Angenommenen aufheben, wenn ein wichtiger Grund vorliegt. Im Übrigen
 kann das Annahmeverhältnis nur in sinngemäßer Anwendung der
 Vorschriften des § 1760 Abs. 1 bis 5 aufgehoben werden. An die Stelle
 der Einwilligung des Kindes tritt der Antrag des Anzunehmenden.
-
 
 ###### § 1772 Annahme mit den Wirkungen der Minderjährigenannahme
 
@@ -26701,18 +24356,11 @@ sinngemäßer Anwendung der Vorschriften des § 1760 Abs. 1 bis 5
 aufgehoben werden. An die Stelle der Einwilligung des Kindes tritt der
 Antrag des Anzunehmenden.
 
-
 ### Abschnitt 3 - Vormundschaft, Rechtliche Betreuung, Pflegschaft
-
-
 
 #### Titel 1 - Vormundschaft
 
-
-
 ##### Untertitel 1 - Begründung der Vormundschaft
-
-
 
 ###### § 1773 Voraussetzungen
 
@@ -26724,14 +24372,12 @@ des Minderjährigen berechtigt sind.
 (2) Ein Minderjähriger erhält einen Vormund auch dann, wenn sein
 Familienstand nicht zu ermitteln ist.
 
-
 ###### § 1774 Anordnung von Amts wegen
 
 Das Familiengericht hat die Vormundschaft von Amts wegen anzuordnen.
 Ist anzunehmen, dass ein Kind mit seiner Geburt eines Vormunds bedarf,
 so kann schon vor der Geburt des Kindes ein Vormund bestellt werden;
 die Bestellung wird mit der Geburt des Kindes wirksam.
-
 
 ###### § 1775 Mehrere Vormünder
 
@@ -26741,7 +24387,6 @@ Gründe für die Bestellung mehrerer Vormünder vorliegen, für den Mündel
 und, wenn Geschwister zu bevormunden sind, für alle Mündel nur einen
 Vormund bestellen.
 
-
 ###### § 1776 Benennungsrecht der Eltern
 
 (1) Als Vormund ist berufen, wer von den Eltern des Mündels als
@@ -26749,7 +24394,6 @@ Vormund benannt ist.
 
 (2) Haben der Vater und die Mutter verschiedene Personen benannt, so
 gilt die Benennung durch den zuletzt verstorbenen Elternteil.
-
 
 ###### § 1777 Voraussetzungen des Benennungsrechts
 
@@ -26762,7 +24406,6 @@ wird, einen Vormund benennen, wenn er dazu berechtigt sein würde,
 falls das Kind vor seinem Tode geboren wäre.
 
 (3) Der Vormund wird durch letztwillige Verfügung benannt.
-
 
 ###### § 1778 Übergehen des benannten Vormunds
 
@@ -26798,7 +24441,6 @@ den nach § 1776 Berufenen zum Vormund bestellt werden.
 (4) Neben dem Berufenen darf nur mit dessen Zustimmung ein Mitvormund
 bestellt werden.
 
-
 ###### § 1779 Auswahl durch das Familiengericht
 
 (1) Ist die Vormundschaft nicht einem nach § 1776 Berufenen zu
@@ -26820,11 +24462,9 @@ Verwandten und Verschwägerten können von dem Mündel Ersatz ihrer
 Auslagen verlangen; der Betrag der Auslagen wird von dem
 Familiengericht festgesetzt.
 
-
 ###### § 1780 Unfähigkeit zur Vormundschaft
 
 Zum Vormund kann nicht bestellt werden, wer geschäftsunfähig ist.
-
 
 ###### § 1781 Untauglichkeit zur Vormundschaft
 
@@ -26835,10 +24475,6 @@ Zum Vormund soll nicht bestellt werden:
 
 2.  derjenige, für den ein Betreuer bestellt ist.
 
-
-
-
-
 ###### § 1782 Ausschluss durch die Eltern
 
 (1) Zum Vormund soll nicht bestellt werden, wer durch Anordnung der
@@ -26848,11 +24484,9 @@ Anordnung des zuletzt verstorbenen Elternteils.
 
 (2) Auf die Ausschließung sind die Vorschriften des § 1777 anzuwenden.
 
-
 ###### § 1783
 
 (weggefallen)
-
 
 ###### § 1784 Beamter oder Religionsdiener als Vormund
 
@@ -26864,14 +24498,12 @@ werden.
 (2) Diese Erlaubnis darf nur versagt werden, wenn ein wichtiger
 dienstlicher Grund vorliegt.
 
-
 ###### § 1785 Übernahmepflicht
 
 Jeder Deutsche hat die Vormundschaft, für die er von dem
 Familiengericht ausgewählt wird, zu übernehmen, sofern nicht seiner
 Bestellung zum Vormund einer der in den §§ 1780 bis 1784 bestimmten
 Gründe entgegensteht.
-
 
 ###### § 1786 Ablehnungsrecht
 
@@ -26917,7 +24549,6 @@ Gründe entgegensteht.
 (2) Das Ablehnungsrecht erlischt, wenn es nicht vor der Bestellung bei
 dem Familiengericht geltend gemacht wird.
 
-
 ###### § 1787 Folgen der unbegründeten Ablehnung
 
 (1) Wer die Übernahme der Vormundschaft ohne Grund ablehnt, ist, wenn
@@ -26930,7 +24561,6 @@ der Ablehnende, unbeschadet der ihm zustehenden Rechtsmittel, die
 Vormundschaft auf Erfordern des Familiengerichts vorläufig zu
 übernehmen.
 
-
 ###### § 1788 Zwangsgeld
 
 (1) Das Familiengericht kann den zum Vormund Ausgewählten durch
@@ -26940,20 +24570,17 @@ Festsetzung von Zwangsgeld zur Übernahme der Vormundschaft anhalten.
 Woche festgesetzt werden. Mehr als drei Zwangsgelder dürfen nicht
 festgesetzt werden.
 
-
 ###### § 1789 Bestellung durch das Familiengericht
 
 Der Vormund wird von dem Familiengericht durch Verpflichtung zu treuer
 und gewissenhafter Führung der Vormundschaft bestellt. Die
 Verpflichtung soll mittels Handschlags an Eides statt erfolgen.
 
-
 ###### § 1790 Bestellung unter Vorbehalt
 
 Bei der Bestellung des Vormunds kann die Entlassung für den Fall
 vorbehalten werden, dass ein bestimmtes Ereignis eintritt oder nicht
 eintritt.
-
 
 ###### § 1791 Bestallungsurkunde
 
@@ -26963,7 +24590,6 @@ eintritt.
 des Mündels, die Namen des Vormunds, des Gegenvormunds und der
 Mitvormünder sowie im Falle der Teilung der Vormundschaft die Art der
 Teilung.
-
 
 ###### § 1791a Vereinsvormundschaft
 
@@ -26989,7 +24615,6 @@ berufenen Vertreters.
 will es einen Gegenvormund bestellen, so soll es vor der Entscheidung
 den Verein hören.
 
-
 ###### § 1791b Bestellte Amtsvormundschaft des Jugendamts
 
 (1) Ist eine als ehrenamtlicher Einzelvormund geeignete Person nicht
@@ -26999,7 +24624,6 @@ ausgeschlossen werden.
 
 (2) Die Bestellung erfolgt durch Beschluss des Familiengerichts; die
 §§ 1789, 1791 sind nicht anzuwenden.
-
 
 ###### § 1791c Gesetzliche Amtsvormundschaft des Jugendamts
 
@@ -27021,7 +24645,6 @@ bisher Pfleger war.
 Bescheinigung über den Eintritt der Vormundschaft zu erteilen; § 1791
 ist nicht anzuwenden.
 
-
 ###### § 1792 Gegenvormund
 
 (1) Neben dem Vormund kann ein Gegenvormund bestellt werden. Ist das
@@ -27040,10 +24663,7 @@ des anderen bestellt werden.
 (4) Auf die Berufung und Bestellung des Gegenvormunds sind die für die
 Begründung der Vormundschaft geltenden Vorschriften anzuwenden.
 
-
 ##### Untertitel 2 - Führung der Vormundschaft
-
-
 
 ###### § 1793 Aufgaben des Vormunds, Haftung des Mündels
 
@@ -27062,13 +24682,11 @@ längere Besuchsabstände oder ein anderer Ort geboten.
 Absatz 1 gegenüber dem Mündel begründet werden, haftet der Mündel
 entsprechend § 1629a.
 
-
 ###### § 1794 Beschränkung durch Pflegschaft
 
 Das Recht und die Pflicht des Vormunds, für die Person und das
 Vermögen des Mündels zu sorgen, erstreckt sich nicht auf
 Angelegenheiten des Mündels, für die ein Pfleger bestellt ist.
-
 
 ###### § 1795 Ausschluss der Vertretungsmacht
 
@@ -27097,7 +24715,6 @@ Angelegenheiten des Mündels, für die ein Pfleger bestellt ist.
 
 (2) Die Vorschrift des § 181 bleibt unberührt.
 
-
 ###### § 1796 Entziehung der Vertretungsmacht
 
 (1) Das Familiengericht kann dem Vormund die Vertretung für einzelne
@@ -27108,7 +24725,6 @@ entziehen.
 zu dem Interesse des Vormunds oder eines von diesem vertretenen
 Dritten oder einer der in § 1795 Nr. 1 bezeichneten Personen in
 erheblichem Gegensatz steht.
-
 
 ###### § 1797 Mehrere Vormünder
 
@@ -27128,14 +24744,12 @@ Maßgabe des § 1777 getroffen hat, sind von dem Familiengericht zu
 befolgen, sofern nicht ihre Befolgung das Interesse des Mündels
 gefährden würde.
 
-
 ###### § 1798 Meinungsverschiedenheiten
 
 Steht die Sorge für die Person und die Sorge für das Vermögen des
 Mündels verschiedenen Vormündern zu, so entscheidet bei einer
 Meinungsverschiedenheit über die Vornahme einer sowohl die Person als
 das Vermögen des Mündels betreffenden Handlung das Familiengericht.
-
 
 ###### § 1799 Pflichten und Rechte des Gegenvormunds
 
@@ -27151,14 +24765,12 @@ Entlassung des Vormunds erforderlich wird.
 der Vormundschaft Auskunft zu erteilen und die Einsicht der sich auf
 die Vormundschaft beziehenden Papiere zu gestatten.
 
-
 ###### § 1800 Umfang der Personensorge
 
 Das Recht und die Pflicht des Vormunds, für die Person des Mündels zu
 sorgen, bestimmen sich nach §§ 1631 bis 1633. Der Vormund hat die
 Pflege und Erziehung des Mündels persönlich zu fördern und zu
 gewährleisten.
-
 
 ###### § 1801 Religiöse Erziehung
 
@@ -27171,7 +24783,6 @@ ist.
 Unterbringung des Mündels zu entscheiden, so ist hierbei auf das
 religiöse Bekenntnis oder die Weltanschauung des Mündels und seiner
 Familie Rücksicht zu nehmen.
-
 
 ###### § 1802 Vermögensverzeichnis
 
@@ -27193,7 +24804,6 @@ Familiengericht anordnen, dass das Verzeichnis durch eine zuständige
 Behörde oder durch einen zuständigen Beamten oder Notar aufgenommen
 wird.
 
-
 ###### § 1803 Vermögensverwaltung bei Erbschaft oder Schenkung
 
 (1) Was der Mündel von Todes wegen erwirbt oder was ihm unter Lebenden
@@ -27213,13 +24823,11 @@ durch das Familiengericht ersetzt werden, wenn der Dritte zur Abgabe
 einer Erklärung dauernd außerstande oder sein Aufenthalt dauernd
 unbekannt ist.
 
-
 ###### § 1804 Schenkungen des Vormunds
 
 Der Vormund kann nicht in Vertretung des Mündels Schenkungen machen.
 Ausgenommen sind Schenkungen, durch die einer sittlichen Pflicht oder
 einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
-
 
 ###### § 1805 Verwendung für den Vormund
 
@@ -27228,13 +24836,11 @@ Gegenvormund verwenden. Ist das Jugendamt Vormund oder Gegenvormund,
 so ist die Anlegung von Mündelgeld gemäß § 1807 auch bei der
 Körperschaft zulässig, bei der das Jugendamt errichtet ist.
 
-
 ###### § 1806 Anlegung von Mündelgeld
 
 Der Vormund hat das zum Vermögen des Mündels gehörende Geld
 verzinslich anzulegen, soweit es nicht zur Bestreitung von Ausgaben
 bereitzuhalten ist.
-
 
 ###### § 1807 Art der Anlegung
 
@@ -27277,18 +24883,15 @@ belegenen Grundstücke die Grundsätze bestimmen, nach denen die
 Sicherheit einer Hypothek, einer Grundschuld oder einer Rentenschuld
 festzustellen ist.
 
-
 ###### § 1808
 
 (weggefallen)
-
 
 ###### § 1809 Anlegung mit Sperrvermerk
 
 Der Vormund soll Mündelgeld nach § 1807 Abs. 1 Nr. 5 nur mit der
 Bestimmung anlegen, dass zur Erhebung des Geldes die Genehmigung des
 Gegenvormunds oder des Familiengerichts erforderlich ist.
-
 
 ###### § 1810 Mitwirkung von Gegenvormund oder Familiengericht
 
@@ -27299,7 +24902,6 @@ Ist ein Gegenvormund nicht vorhanden, so soll die Anlegung nur mit
 Genehmigung des Familiengerichts erfolgen, sofern nicht die
 Vormundschaft von mehreren Vormündern gemeinschaftlich geführt wird.
 
-
 ###### § 1811 Andere Anlegung
 
 Das Familiengericht kann dem Vormund eine andere Anlegung als die in §
@@ -27307,7 +24909,6 @@ Das Familiengericht kann dem Vormund eine andere Anlegung als die in §
 werden, wenn die beabsichtigte Art der Anlegung nach Lage des Falles
 den Grundsätzen einer wirtschaftlichen Vermögensverwaltung
 zuwiderlaufen würde.
-
 
 ###### § 1812 Verfügungen über Forderungen und Wertpapiere
 
@@ -27325,7 +24926,6 @@ Familiengerichts ersetzt.
 Genehmigung des Gegenvormunds die Genehmigung des Familiengerichts,
 sofern nicht die Vormundschaft von mehreren Vormündern
 gemeinschaftlich geführt wird.
-
 
 ###### § 1813 Genehmigungsfreie Geschäfte
 
@@ -27358,7 +24958,6 @@ Erhebung von Geld, bei dessen Anlegung ein anderes bestimmt worden
 ist. Die Befreiung nach Absatz 1 Nr. 3 gilt auch nicht für die
 Erhebung von Geld, das nach § 1807 Abs. 1 Nr. 1 bis 4 angelegt ist.
 
-
 ###### § 1814 Hinterlegung von Inhaberpapieren
 
 Der Vormund hat die zu dem Vermögen des Mündels gehörenden
@@ -27370,7 +24969,6 @@ verlangt werden kann. Die Hinterlegung von Inhaberpapieren, die nach §
 92 zu den verbrauchbaren Sachen gehören, sowie von Zins-, Renten- oder
 Gewinnanteilscheinen ist nicht erforderlich. Den Inhaberpapieren
 stehen Orderpapiere gleich, die mit Blankoindossament versehen sind.
-
 
 ###### § 1815 Umschreibung und Umwandlung von Inhaberpapieren
 
@@ -27386,7 +24984,6 @@ gegen den Bund oder ein Land umgewandelt werden können, so kann das
 Familiengericht anordnen, dass sie nach Absatz 1 in
 Schuldbuchforderungen umgewandelt werden.
 
-
 ###### § 1816 Sperrung von Buchforderungen
 
 Gehören Schuldbuchforderungen gegen den Bund oder ein Land bei der
@@ -27394,7 +24991,6 @@ Anordnung der Vormundschaft zu dem Vermögen des Mündels oder erwirbt
 der Mündel später solche Forderungen, so hat der Vormund in das
 Schuldbuch den Vermerk eintragen zu lassen, dass er über die
 Forderungen nur mit Genehmigung des Familiengerichts verfügen kann.
-
 
 ###### § 1817 Befreiung
 
@@ -27418,7 +25014,6 @@ den ihm nach den §§ 1814, 1816 obliegenden Verpflichtungen auch dann
 entbinden, wenn die Voraussetzungen des Absatzes 1 Nr. 1 nicht
 vorliegen.
 
-
 ###### § 1818 Anordnung der Hinterlegung
 
 Das Familiengericht kann aus besonderen Gründen anordnen, dass der
@@ -27428,7 +25023,6 @@ Kostbarkeiten des Mündels in der in § 1814 bezeichneten Weise zu
 hinterlegen hat; auf Antrag des Vormunds kann die Hinterlegung von
 Zins-, Renten- und Gewinnanteilscheinen angeordnet werden, auch wenn
 ein besonderer Grund nicht vorliegt.
-
 
 ###### § 1819 Genehmigung bei Hinterlegung
 
@@ -27440,7 +25034,6 @@ Hypothekenforderung, die Grundschuld oder die Rentenschuld der
 Genehmigung des Familiengerichts. Das Gleiche gilt von der Eingehung
 der Verpflichtung zu einer solchen Verfügung.
 
-
 ###### § 1820 Genehmigung nach Umschreibung und Umwandlung
 
 (1) Sind Inhaberpapiere nach § 1815 auf den Namen des Mündels
@@ -27451,7 +25044,6 @@ Stammforderungen der Genehmigung des Familiengerichts.
 
 (2) Das Gleiche gilt, wenn bei einer Schuldbuchforderung des Mündels
 der im § 1816 bezeichnete Vermerk eingetragen ist.
-
 
 ###### § 1821 Genehmigung für Geschäfte über Grundstücke, Schiffe oder Schiffsbauwerke
 
@@ -27485,7 +25077,6 @@ der im § 1816 bezeichnete Vermerk eingetragen ist.
 
 (2) Zu den Rechten an einem Grundstück im Sinne dieser Vorschriften
 gehören nicht Hypotheken, Grundschulden und Rentenschulden.
-
 
 ###### § 1822 Genehmigung für sonstige Geschäfte
 
@@ -27553,16 +25144,11 @@ Der Vormund bedarf der Genehmigung des Familiengerichts:
     bestehende Sicherheit aufgehoben oder gemindert oder die Verpflichtung
     dazu begründet wird.
 
-
-
-
-
 ###### § 1823 Genehmigung bei einem Erwerbsgeschäft des Mündels
 
 Der Vormund soll nicht ohne Genehmigung des Familiengerichts ein neues
 Erwerbsgeschäft im Namen des Mündels beginnen oder ein bestehendes
 Erwerbsgeschäft des Mündels auflösen.
-
 
 ###### § 1824 Genehmigung für die Überlassung von Gegenständen an den Mündel
 
@@ -27570,7 +25156,6 @@ Der Vormund kann Gegenstände, zu deren Veräußerung die Genehmigung des
 Gegenvormunds oder des Familiengerichts erforderlich ist, dem Mündel
 nicht ohne diese Genehmigung zur Erfüllung eines von diesem
 geschlossenen Vertrags oder zu freier Verfügung überlassen.
-
 
 ###### § 1825 Allgemeine Ermächtigung
 
@@ -27583,24 +25168,20 @@ allgemeine Ermächtigung erteilen.
 Vermögensverwaltung, insbesondere zum Betrieb eines Erwerbsgeschäfts,
 erforderlich ist.
 
-
 ###### § 1826 Anhörung des Gegenvormunds vor Erteilung der Genehmigung
 
 Das Familiengericht soll vor der Entscheidung über die zu einer
 Handlung des Vormunds erforderliche Genehmigung den Gegenvormund
 hören, sofern ein solcher vorhanden und die Anhörung tunlich ist.
 
-
 ###### § 1827
 
 (weggefallen)
-
 
 ###### § 1828 Erklärung der Genehmigung
 
 Das Familiengericht kann die Genehmigung zu einem Rechtsgeschäft nur
 dem Vormund gegenüber erklären.
-
 
 ###### § 1829 Nachträgliche Genehmigung
 
@@ -27619,7 +25200,6 @@ erfolgen; erfolgt sie nicht, so gilt die Genehmigung als verweigert.
 (3) Ist der Mündel volljährig geworden, so tritt seine Genehmigung an
 die Stelle der Genehmigung des Familiengerichts.
 
-
 ###### § 1830 Widerrufsrecht des Geschäftspartners
 
 Hat der Vormund dem anderen Teil gegenüber der Wahrheit zuwider die
@@ -27627,7 +25207,6 @@ Genehmigung des Familiengerichts behauptet, so ist der andere Teil bis
 zur Mitteilung der nachträglichen Genehmigung des Familiengerichts zum
 Widerruf berechtigt, es sei denn, dass ihm das Fehlen der Genehmigung
 bei dem Abschluss des Vertrags bekannt war.
-
 
 ###### § 1831 Einseitiges Rechtsgeschäft ohne Genehmigung
 
@@ -27638,7 +25217,6 @@ anderen gegenüber vor, so ist das Rechtsgeschäft unwirksam, wenn der
 Vormund die Genehmigung nicht vorlegt und der andere das
 Rechtsgeschäft aus diesem Grunde unverzüglich zurückweist.
 
-
 ###### § 1832 Genehmigung des Gegenvormunds
 
 Soweit der Vormund zu einem Rechtsgeschäft der Genehmigung des
@@ -27646,7 +25224,6 @@ Gegenvormunds bedarf, finden die Vorschriften der §§ 1828 bis 1831
 entsprechende Anwendung; abweichend von § 1829 Abs. 2 beträgt die
 Frist für die Mitteilung der Genehmigung des Gegenvormunds zwei
 Wochen.
-
 
 ###### § 1833 Haftung des Vormunds
 
@@ -27660,12 +25237,10 @@ diesem verursachten Schaden der Gegenvormund oder ein Mitvormund nur
 wegen Verletzung seiner Aufsichtspflicht verantwortlich, so ist in
 ihrem Verhältnis zueinander der Vormund allein verpflichtet.
 
-
 ###### § 1834 Verzinsungspflicht
 
 Verwendet der Vormund Geld des Mündels für sich, so hat er es von der
 Zeit der Verwendung an zu verzinsen.
-
 
 ###### § 1835 Aufwendungsersatz
 
@@ -27709,7 +25284,6 @@ als das einzusetzende Einkommen und Vermögen des Mündels ausreicht.
 Allgemeine Verwaltungskosten einschließlich der Kosten nach Absatz 2
 werden nicht ersetzt.
 
-
 ###### § 1835a Aufwandsentschädigung
 
 (1) Zur Abgeltung seines Anspruchs auf Aufwendungsersatz kann der
@@ -27739,7 +25313,6 @@ Familiengericht gilt auch als Geltendmachung gegenüber dem Mündel.
 (5) Dem Jugendamt oder einem Verein kann keine Aufwandsentschädigung
 gewährt werden.
 
-
 ###### § 1836 Vergütung des Vormunds
 
 (1) Die Vormundschaft wird unentgeltlich geführt. Sie wird
@@ -27757,9 +25330,7 @@ rechtfertigen; dies gilt nicht, wenn der Mündel mittellos ist.
 (3) Dem Jugendamt oder einem Verein kann keine Vergütung bewilligt
 werden.
 
-
 ###### (XXXX) §§ 1836a und 1836b (weggefallen)
-
 
 ###### § 1836c Einzusetzende Mittel des Mündels
 
@@ -27784,10 +25355,6 @@ Der Mündel hat einzusetzen:
 2.  sein Vermögen nach Maßgabe des § 90 des Zwölften Buches
     Sozialgesetzbuch.
 
-
-
-
-
 ###### § 1836d Mittellosigkeit des Mündels
 
 Der Mündel gilt als mittellos, wenn er den Aufwendungsersatz oder die
@@ -27802,7 +25369,6 @@ Vergütung aus seinem einzusetzenden Einkommen oder Vermögen
 
 aufbringen kann.
 
-
 ###### § 1836e Gesetzlicher Forderungsübergang
 
 (1) Soweit die Staatskasse den Vormund oder Gegenvormund befriedigt,
@@ -27816,10 +25382,7 @@ entsprechend, § 1836c findet auf den Erben keine Anwendung.
 findet zugunsten der Staatskasse § 850b der Zivilprozessordnung keine
 Anwendung.
 
-
 ##### Untertitel 3 - Fürsorge und Aufsicht des Familiengerichts
-
-
 
 ###### § 1837 Beratung und Aufsicht
 
@@ -27841,18 +25404,15 @@ festgesetzt.
 
 (4) §§ 1666, 1666a und 1696 gelten entsprechend.
 
-
 ###### § 1838
 
 (weggefallen)
-
 
 ###### § 1839 Auskunftspflicht des Vormunds
 
 Der Vormund sowie der Gegenvormund hat dem Familiengericht auf
 Verlangen jederzeit über die Führung der Vormundschaft und über die
 persönlichen Verhältnisse des Mündels Auskunft zu erteilen.
-
 
 ###### § 1840 Bericht und Rechnungslegung
 
@@ -27872,7 +25432,6 @@ Familiengericht, nachdem die Rechnung für das erste Jahr gelegt worden
 ist, anordnen, dass die Rechnung für längere, höchstens dreijährige
 Zeitabschnitte zu legen ist.
 
-
 ###### § 1841 Inhalt der Rechnungslegung
 
 (1) Die Rechnung soll eine geordnete Zusammenstellung der Einnahmen
@@ -27885,14 +25444,12 @@ so genügt als Rechnung ein aus den Büchern gezogener Jahresabschluss.
 Das Familiengericht kann jedoch die Vorlegung der Bücher und sonstigen
 Belege verlangen.
 
-
 ###### § 1842 Mitwirkung des Gegenvormunds
 
 Ist ein Gegenvormund vorhanden oder zu bestellen, so hat ihm der
 Vormund die Rechnung unter Nachweisung des Vermögensbestands
 vorzulegen. Der Gegenvormund hat die Rechnung mit den Bemerkungen zu
 versehen, zu denen die Prüfung ihm Anlass gibt.
-
 
 ###### § 1843 Prüfung durch das Familiengericht
 
@@ -27904,23 +25461,19 @@ herbeizuführen.
 bleiben, können schon vor der Beendigung des
 Vormundschaftsverhältnisses im Rechtsweg geltend gemacht werden.
 
-
 ###### § 1844
 
 (weggefallen)
 
-
 ###### § 1845 (weggefallen)
 
 -
-
 
 ###### § 1846 Einstweilige Maßregeln des Familiengerichts
 
 Ist ein Vormund noch nicht bestellt oder ist der Vormund an der
 Erfüllung seiner Pflichten verhindert, so hat das Familiengericht die
 im Interesse des Betroffenen erforderlichen Maßregeln zu treffen.
-
 
 ###### § 1847 Anhörung der Angehörigen
 
@@ -27929,19 +25482,13 @@ Verschwägerte des Mündels hören, wenn dies ohne erhebliche Verzögerung
 und ohne unverhältnismäßige Kosten geschehen kann. § 1779 Abs. 3 Satz
 2 gilt entsprechend.
 
-
 ###### § 1848
 
 (weggefallen)
 
-
 ##### Untertitel 4 - Mitwirkung des Jugendamts
 
-
-
 ###### (XXXX) §§ 1849 und 1850 (weggefallen)
-
-
 
 ###### § 1851 Mitteilungspflichten
 
@@ -27958,10 +25505,7 @@ gewöhnlichen Aufenthalts die Verlegung mitzuteilen.
 (3) Ist ein Verein Vormund, so sind die Absätze 1 und 2 nicht
 anzuwenden.
 
-
 ##### Untertitel 5 - Befreite Vormundschaft
-
-
 
 ###### § 1852 Befreiung durch den Vater
 
@@ -27975,14 +25519,12 @@ der Genehmigung des Gegenvormunds oder des Familiengerichts nicht
 bedürfen soll. Diese Anordnungen sind als getroffen anzusehen, wenn
 der Vater die Bestellung eines Gegenvormunds ausgeschlossen hat.
 
-
 ###### § 1853 Befreiung von Hinterlegung und Sperrung
 
 Der Vater kann den von ihm benannten Vormund von der Verpflichtung
 entbinden, Inhaber- und Orderpapiere zu hinterlegen und den in § 1816
 bezeichneten Vermerk in das Bundesschuldbuch oder das Schuldbuch eines
 Landes eintragen zu lassen.
-
 
 ###### § 1854 Befreiung von der Rechnungslegungspflicht
 
@@ -28000,12 +25542,10 @@ Vormund die Übersicht unter Nachweisung des Vermögensbestands
 vorzulegen. Der Gegenvormund hat die Übersicht mit den Bemerkungen zu
 versehen, zu denen die Prüfung ihm Anlass gibt.
 
-
 ###### § 1855 Befreiung durch die Mutter
 
 Benennt die Mutter einen Vormund, so kann sie die gleichen Anordnungen
 treffen wie nach den §§ 1852 bis 1854 der Vater.
-
 
 ###### § 1856 Voraussetzungen der Befreiung
 
@@ -28014,38 +25554,29 @@ Vorschriften des § 1777 anzuwenden. Haben die Eltern denselben Vormund
 benannt, aber einander widersprechende Anordnungen getroffen, so
 gelten die Anordnungen des zuletzt verstorbenen Elternteils.
 
-
 ###### § 1857 Aufhebung der Befreiung durch das Familiengericht
 
 Die Anordnungen des Vaters oder der Mutter können von dem
 Familiengericht außer Kraft gesetzt werden, wenn ihre Befolgung das
 Interesse des Mündels gefährden würde.
 
-
 ###### § 1857a Befreiung des Jugendamts und des Vereins
 
 Dem Jugendamt und einem Verein als Vormund stehen die nach § 1852 Abs.
 2, §§ 1853, 1854 zulässigen Befreiungen zu.
 
-
 ###### (XXXX) §§ 1858 bis 1881 (weggefallen)
 
-
-
 ##### Untertitel 6 - Beendigung der Vormundschaft
-
-
 
 ###### § 1882 Wegfall der Voraussetzungen
 
 Die Vormundschaft endigt mit dem Wegfall der in § 1773 für die
 Begründung der Vormundschaft bestimmten Voraussetzungen.
 
-
 ###### § 1883
 
 (weggefallen)
-
 
 ###### § 1884 Verschollenheit und Todeserklärung des Mündels
 
@@ -28058,11 +25589,9 @@ Vorschriften des Verschollenheitsgesetzes festgestellt, so endigt die
 Vormundschaft mit der Rechtskraft des Beschlusses über die
 Todeserklärung oder die Feststellung der Todeszeit.
 
-
 ###### § 1885
 
 (weggefallen)
-
 
 ###### § 1886 Entlassung des Einzelvormunds
 
@@ -28071,7 +25600,6 @@ Fortführung des Amts, insbesondere wegen pflichtwidrigen Verhaltens
 des Vormunds, das Interesse des Mündels gefährden würde oder wenn in
 der Person des Vormunds einer der in § 1781 bestimmten Gründe
 vorliegt.
-
 
 ###### § 1887 Entlassung des Jugendamts oder Vereins
 
@@ -28089,7 +25617,6 @@ erfahren, dass die Voraussetzungen des Absatzes 1 vorliegen.
 (3) Das Familiengericht soll vor seiner Entscheidung auch das
 Jugendamt oder den Verein hören.
 
-
 ###### § 1888 Entlassung von Beamten und Religionsdienern
 
 Ist ein Beamter oder ein Religionsdiener zum Vormund bestellt, so hat
@@ -28099,7 +25626,6 @@ der vor dem Eintritt in das Amts- oder Dienstverhältnis übernommenen
 Vormundschaft erforderlich ist, versagt oder zurückgenommen wird oder
 wenn die nach den Landesgesetzen zulässige Untersagung der Fortführung
 der Vormundschaft erfolgt.
-
 
 ###### § 1889 Entlassung auf eigenen Antrag
 
@@ -28115,14 +25641,12 @@ Person vorhanden ist und das Wohl des Mündels dieser Maßnahme nicht
 entgegensteht. Ein Verein ist auf seinen Antrag ferner zu entlassen,
 wenn ein wichtiger Grund vorliegt.
 
-
 ###### § 1890 Vermögensherausgabe und Rechnungslegung
 
 Der Vormund hat nach der Beendigung seines Amts dem Mündel das
 verwaltete Vermögen herauszugeben und über die Verwaltung Rechenschaft
 abzulegen. Soweit er dem Familiengericht Rechnung gelegt hat, genügt
 die Bezugnahme auf diese Rechnung.
-
 
 ###### § 1891 Mitwirkung des Gegenvormunds
 
@@ -28133,7 +25657,6 @@ Bemerkungen zu versehen, zu denen die Prüfung ihm Anlass gibt.
 (2) Der Gegenvormund hat über die Führung der Gegenvormundschaft und,
 soweit er dazu imstande ist, über das von dem Vormund verwaltete
 Vermögen auf Verlangen Auskunft zu erteilen.
-
 
 ###### § 1892 Rechnungsprüfung und -anerkennung
 
@@ -28146,7 +25669,6 @@ unter Zuziehung des Gegenvormunds zu vermitteln. Soweit die Rechnung
 als richtig anerkannt wird, hat das Familiengericht das Anerkenntnis
 zu beurkunden.
 
-
 ###### § 1893 Fortführung der Geschäfte nach Beendigung der Vormundschaft, Rückgabe von Urkunden
 
 (1) Im Falle der Beendigung der Vormundschaft oder des
@@ -28158,7 +25680,6 @@ Familiengericht zurückzugeben. In den Fällen der §§ 1791a, 1791b ist
 der Beschluss des Familiengerichts, im Falle des § 1791c die
 Bescheinigung über den Eintritt der Vormundschaft zurückzugeben.
 
-
 ###### § 1894 Anzeige bei Tod des Vormunds
 
 (1) Den Tod des Vormunds hat dessen Erbe dem Familiengericht
@@ -28167,16 +25688,12 @@ unverzüglich anzuzeigen.
 (2) Den Tod des Gegenvormunds oder eines Mitvormunds hat der Vormund
 unverzüglich anzuzeigen.
 
-
 ###### § 1895 Amtsende des Gegenvormunds
 
 Die Vorschriften der §§ 1886 bis 1889, 1893, 1894 finden auf den
 Gegenvormund entsprechende Anwendung.
 
-
 #### Titel 2 - Rechtliche Betreuung
-
-
 
 ##### § 1896 Voraussetzungen
 
@@ -28208,7 +25725,6 @@ Betreuten gegenüber seinem Bevollmächtigten bestimmt werden.
 die Entgegennahme, das Öffnen und das Anhalten seiner Post werden vom
 Aufgabenkreis des Betreuers nur dann erfasst, wenn das Gericht dies
 ausdrücklich angeordnet hat.
-
 
 ##### § 1897 Bestellung einer natürlichen Person
 
@@ -28265,7 +25781,6 @@ Schuldnerverzeichnis vorzulegen.
 bestellt, hat sie sich über Zahl und Umfang der von ihr berufsmäßig
 geführten Betreuungen zu erklären.
 
-
 ##### § 1898 Übernahmepflicht
 
 (1) Der vom Betreuungsgericht Ausgewählte ist verpflichtet, die
@@ -28275,7 +25790,6 @@ und sonstigen Verhältnisse zugemutet werden kann.
 
 (2) Der Ausgewählte darf erst dann zum Betreuer bestellt werden, wenn
 er sich zur Übernahme der Betreuung bereit erklärt hat.
-
 
 ##### § 1899 Mehrere Betreuer
 
@@ -28298,7 +25812,6 @@ oder mit dem Aufschub Gefahr verbunden ist.
 (4) Das Gericht kann mehrere Betreuer auch in der Weise bestellen,
 dass der eine die Angelegenheiten des Betreuten nur zu besorgen hat,
 soweit der andere verhindert ist.
-
 
 ##### § 1900 Betreuung durch Verein oder Behörde
 
@@ -28325,7 +25838,6 @@ gelten entsprechend.
 
 (5) Vereinen oder Behörden darf die Entscheidung über die Einwilligung
 in eine Sterilisation des Betreuten nicht übertragen werden.
-
 
 ##### § 1901 Umfang der Betreuung, Pflichten des Betreuers
 
@@ -28363,7 +25875,6 @@ Aufgabenkreises ermöglichen oder dessen Erweiterung, die Bestellung
 eines weiteren Betreuers oder die Anordnung eines
 Einwilligungsvorbehalts (§ 1903) erfordern.
 
-
 ##### § 1901a Patientenverfügung
 
 (1) Hat ein einwilligungsfähiger Volljähriger für den Fall seiner
@@ -28397,7 +25908,6 @@ nicht zur Bedingung eines Vertragsschlusses gemacht werden.
 
 (5) Die Absätze 1 bis 3 gelten für Bevollmächtigte entsprechend.
 
-
 ##### § 1901b Gespräch zur Feststellung des Patientenwillens
 
 (1) Der behandelnde Arzt prüft, welche ärztliche Maßnahme im Hinblick
@@ -28414,7 +25924,6 @@ erhebliche Verzögerung möglich ist.
 
 (3) Die Absätze 1 und 2 gelten für Bevollmächtigte entsprechend.
 
-
 ##### § 1901c Schriftliche Betreuungswünsche, Vorsorgevollmacht
 
 Wer ein Schriftstück besitzt, in dem jemand für den Fall seiner
@@ -28427,12 +25936,10 @@ denen der Betroffene eine andere Person mit der Wahrnehmung seiner
 Angelegenheiten bevollmächtigt hat, zu unterrichten. Das
 Betreuungsgericht kann die Vorlage einer Abschrift verlangen.
 
-
 ##### § 1902 Vertretung des Betreuten
 
 In seinem Aufgabenkreis vertritt der Betreuer den Betreuten
 gerichtlich und außergerichtlich.
-
 
 ##### § 1903 Einwilligungsvorbehalt
 
@@ -28458,7 +25965,6 @@ wenn die Willenserklärung eine geringfügige Angelegenheit des
 täglichen Lebens betrifft.
 
 (4) § 1901 Abs. 5 gilt entsprechend.
-
 
 ##### § 1904 Genehmigung des Betreuungsgerichts bei ärztlichen Maßnahmen
 
@@ -28493,7 +25999,6 @@ kann in eine der in Absatz 1 Satz 1 oder Absatz 2 genannten Maßnahmen
 nur einwilligen, nicht einwilligen oder die Einwilligung widerrufen,
 wenn die Vollmacht diese Maßnahmen ausdrücklich umfasst und
 schriftlich erteilt ist.
-
 
 ##### § 1905 Sterilisation
 
@@ -28532,7 +26037,6 @@ gegen sie ergriffen werden müssten.
 Die Sterilisation darf erst zwei Wochen nach Wirksamkeit der
 Genehmigung durchgeführt werden. Bei der Sterilisation ist stets der
 Methode der Vorzug zu geben, die eine Refertilisierung zulässt.
-
 
 ##### § 1906 Genehmigung des Betreuungsgerichts bei der Unterbringung
 
@@ -28576,7 +26080,6 @@ voraus, dass die Vollmacht schriftlich erteilt ist und die in den
 Absätzen 1 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen
 gelten die Absätze 1 bis 4 entsprechend.
 
-
 ##### § 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung
 
 (1) Zur Kündigung eines Mietverhältnisses über Wohnraum, den der
@@ -28598,12 +26101,10 @@ wird, bedarf der Betreuer der Genehmigung des Betreuungsgerichts, wenn
 das Vertragsverhältnis länger als vier Jahre dauern oder vom Betreuer
 Wohnraum vermietet werden soll.
 
-
 ##### § 1908 Genehmigung des Betreuungsgerichts bei der Ausstattung
 
 Der Betreuer kann eine Ausstattung aus dem Vermögen des Betreuten nur
 mit Genehmigung des Betreuungsgerichts versprechen oder gewähren.
-
 
 ##### § 1908a Vorsorgliche Betreuerbestellung und Anordnung des Einwilligungsvorbehalts für Minderjährige
 
@@ -28612,7 +26113,6 @@ der das 17. Lebensjahr vollendet hat, getroffen werden, wenn
 anzunehmen ist, dass sie bei Eintritt der Volljährigkeit erforderlich
 werden. Die Maßnahmen werden erst mit dem Eintritt der Volljährigkeit
 wirksam.
-
 
 ##### § 1908b Entlassung des Betreuers
 
@@ -28645,12 +26145,10 @@ Behördenbetreuer entsprechend.
 durch eine oder mehrere natürliche Personen hinreichend betreut werden
 kann.
 
-
 ##### § 1908c Bestellung eines neuen Betreuers
 
 Stirbt der Betreuer oder wird er entlassen, so ist ein neuer Betreuer
 zu bestellen.
-
 
 ##### § 1908d Aufhebung oder Änderung von Betreuung und Einwilligungsvorbehalt
 
@@ -28671,11 +26169,9 @@ gelten hierfür entsprechend.
 (4) Für den Einwilligungsvorbehalt gelten die Absätze 1 und 3
 entsprechend.
 
-
 ##### § 1908e
 
 (weggefallen)
-
 
 ##### § 1908f Anerkennung als Betreuungsverein
 
@@ -28711,7 +26207,6 @@ Voraussetzungen für die Anerkennung vorsehen.
 (4) Die anerkannten Betreuungsvereine können im Einzelfall Personen
 bei der Errichtung einer Vorsorgevollmacht beraten.
 
-
 ##### § 1908g Behördenbetreuer
 
 (1) Gegen einen Behördenbetreuer wird kein Zwangsgeld nach § 1837 Abs.
@@ -28720,11 +26215,9 @@ bei der Errichtung einer Vorsorgevollmacht beraten.
 (2) Der Behördenbetreuer kann Geld des Betreuten gemäß § 1807 auch bei
 der Körperschaft anlegen, bei der er tätig ist.
 
-
 ##### § 1908h
 
 (weggefallen)
-
 
 ##### § 1908i Entsprechend anwendbare Vorschriften
 
@@ -28748,15 +26241,11 @@ Abkömmling des Betreuten sowie auf den Vereinsbetreuer und den
 Behördenbetreuer sinngemäß anzuwenden, soweit das Betreuungsgericht
 nichts anderes anordnet.
 
-
 ##### § 1908k
 
 (weggefallen)
 
-
 #### Titel 3 - Pflegschaft
-
-
 
 ##### § 1909 Ergänzungspflegschaft
 
@@ -28776,11 +26265,9 @@ Vormund dies dem Familiengericht unverzüglich anzuzeigen.
 für die Anordnung einer Vormundschaft vorliegen, ein Vormund aber noch
 nicht bestellt ist.
 
-
 ##### § 1910
 
 (weggefallen)
-
 
 ##### § 1911 Abwesenheitspflegschaft
 
@@ -28796,7 +26283,6 @@ Anlass geben.
 der aber an der Rückkehr und der Besorgung seiner
 Vermögensangelegenheiten verhindert ist.
 
-
 ##### § 1912 Pflegschaft für eine Leibesfrucht
 
 (1) Eine Leibesfrucht erhält zur Wahrung ihrer künftigen Rechte,
@@ -28804,7 +26290,6 @@ soweit diese einer Fürsorge bedürfen, einen Pfleger.
 
 (2) Die Fürsorge steht jedoch den Eltern insoweit zu, als ihnen die
 elterliche Sorge zustünde, wenn das Kind bereits geboren wäre.
-
 
 ##### § 1913 Pflegschaft für unbekannte Beteiligte
 
@@ -28816,14 +26301,12 @@ dessen Persönlichkeit erst durch ein künftiges Ereignis bestimmt wird,
 für die Zeit bis zum Eintritt der Nacherbfolge ein Pfleger bestellt
 werden.
 
-
 ##### § 1914 Pflegschaft für gesammeltes Vermögen
 
 Ist durch öffentliche Sammlung Vermögen für einen vorübergehenden
 Zweck zusammengebracht worden, so kann zum Zwecke der Verwaltung und
 Verwendung des Vermögens ein Pfleger bestellt werden, wenn die zu der
 Verwaltung und Verwendung berufenen Personen weggefallen sind.
-
 
 ##### § 1915 Anwendung des Vormundschaftsrechts
 
@@ -28843,12 +26326,10 @@ Pflegschaft für Minderjährige oder für eine Leibesfrucht.
 (3) § 1793 Abs. 2 findet auf die Pflegschaft für Volljährige keine
 Anwendung.
 
-
 ##### § 1916 Berufung als Ergänzungspfleger
 
 Für die nach § 1909 anzuordnende Pflegschaft gelten die Vorschriften
 über die Berufung zur Vormundschaft nicht.
-
 
 ##### § 1917 Ernennung des Ergänzungspflegers durch Erblasser und Dritte
 
@@ -28868,7 +26349,6 @@ zur Abgabe einer Erklärung dauernd außerstande oder ist sein
 Aufenthalt dauernd unbekannt, so kann das Familiengericht die
 Zustimmung ersetzen.
 
-
 ##### § 1918 Ende der Pflegschaft kraft Gesetzes
 
 (1) Die Pflegschaft für eine unter elterlicher Sorge oder unter
@@ -28881,17 +26361,14 @@ Kindes.
 (3) Die Pflegschaft zur Besorgung einer einzelnen Angelegenheit endigt
 mit deren Erledigung.
 
-
 ##### § 1919 Aufhebung der Pflegschaft bei Wegfall des Grundes
 
 Die Pflegschaft ist aufzuheben, wenn der Grund für die Anordnung der
 Pflegschaft weggefallen ist.
 
-
 ##### § 1920
 
 (weggefallen)
-
 
 ##### § 1921 Aufhebung der Abwesenheitspflegschaft
 
@@ -28908,14 +26385,9 @@ den Vorschriften des Verschollenheitsgesetzes festgestellt, so endigt
 die Pflegschaft mit der Rechtskraft des Beschlusses über die
 Todeserklärung oder die Feststellung der Todeszeit.
 
-
 ## Buch 5 - Erbrecht
 
-
-
 ### Abschnitt 1 - Erbfolge
-
-
 
 #### § 1922 Gesamtrechtsnachfolge
 
@@ -28926,14 +26398,12 @@ Todeserklärung oder die Feststellung der Todeszeit.
 (2) Auf den Anteil eines Miterben (Erbteil) finden die sich auf die
 Erbschaft beziehenden Vorschriften Anwendung.
 
-
 #### § 1923 Erbfähigkeit
 
 (1) Erbe kann nur werden, wer zur Zeit des Erbfalls lebt.
 
 (2) Wer zur Zeit des Erbfalls noch nicht lebte, aber bereits gezeugt
 war, gilt als vor dem Erbfall geboren.
-
 
 #### § 1924 Gesetzliche Erben erster Ordnung
 
@@ -28948,7 +26418,6 @@ Abkömmlings treten die durch ihn mit dem Erblasser verwandten
 Abkömmlinge (Erbfolge nach Stämmen).
 
 (4) Kinder erben zu gleichen Teilen.
-
 
 #### § 1925 Gesetzliche Erben zweiter Ordnung
 
@@ -28966,7 +26435,6 @@ Abkömmlinge nicht vorhanden, so erbt der überlebende Teil allein.
 (4) In den Fällen des § 1756 sind das angenommene Kind und die
 Abkömmlinge der leiblichen Eltern oder des anderen Elternteils des
 Kindes im Verhältnis zueinander nicht Erben der zweiten Ordnung.
-
 
 #### § 1926 Gesetzliche Erben dritter Ordnung
 
@@ -28990,13 +26458,11 @@ Großeltern oder ihre Abkömmlinge allein.
 treten, finden die für die Beerbung in der ersten Ordnung geltenden
 Vorschriften Anwendung.
 
-
 #### § 1927 Mehrere Erbteile bei mehrfacher Verwandtschaft
 
 Wer in der ersten, der zweiten oder der dritten Ordnung verschiedenen
 Stämmen angehört, erhält den in jedem dieser Stämme ihm zufallenden
 Anteil. Jeder Anteil gilt als besonderer Erbteil.
-
 
 #### § 1928 Gesetzliche Erben vierter Ordnung
 
@@ -29012,7 +26478,6 @@ ihren Abkömmlingen derjenige, welcher mit dem Erblasser dem Grade nach
 am nächsten verwandt ist; mehrere gleich nahe Verwandte erben zu
 gleichen Teilen.
 
-
 #### § 1929 Fernere Ordnungen
 
 (1) Gesetzliche Erben der fünften Ordnung und der ferneren Ordnungen
@@ -29021,12 +26486,10 @@ sind die entfernteren Voreltern des Erblassers und deren Abkömmlinge.
 (2) Die Vorschrift des § 1928 Abs. 2, 3 findet entsprechende
 Anwendung.
 
-
 #### § 1930 Rangfolge der Ordnungen
 
 Ein Verwandter ist nicht zur Erbfolge berufen, solange ein Verwandter
 einer vorhergehenden Ordnung vorhanden ist.
-
 
 #### § 1931 Gesetzliches Erbrecht des Ehegatten
 
@@ -29048,7 +26511,6 @@ neben dem überlebenden Ehegatten ein oder zwei Kinder des Erblassers
 berufen, so erben der überlebende Ehegatte und jedes Kind zu gleichen
 Teilen; § 1924 Abs. 3 gilt auch in diesem Falle.
 
-
 #### § 1932 Voraus des Ehegatten
 
 (1) Ist der überlebende Ehegatte neben Verwandten der zweiten Ordnung
@@ -29062,7 +26524,6 @@ er sie zur Führung eines angemessenen Haushalts benötigt.
 (2) Auf den Voraus sind die für Vermächtnisse geltenden Vorschriften
 anzuwenden.
 
-
 #### § 1933 Ausschluss des Ehegattenerbrechts
 
 Das Erbrecht des überlebenden Ehegatten sowie das Recht auf den Voraus
@@ -29073,13 +26534,11 @@ Gleiche gilt, wenn der Erblasser berechtigt war, die Aufhebung der Ehe
 zu beantragen, und den Antrag gestellt hatte. In diesen Fällen ist der
 Ehegatte nach Maßgabe der §§ 1569 bis 1586b unterhaltsberechtigt.
 
-
 #### § 1934 Erbrecht des verwandten Ehegatten
 
 Gehört der überlebende Ehegatte zu den erbberechtigten Verwandten, so
 erbt er zugleich als Verwandter. Der Erbteil, der ihm auf Grund der
 Verwandtschaft zufällt, gilt als besonderer Erbteil.
-
 
 #### § 1935 Folgen der Erbteilserhöhung
 
@@ -29090,7 +26549,6 @@ Vermächtnisse und Auflagen, mit denen dieser Erbe oder der wegfallende
 Erbe beschwert ist, sowie in Ansehung der Ausgleichungspflicht als
 besonderer Erbteil.
 
-
 #### § 1936 Gesetzliches Erbrecht des Staates
 
 Ist zur Zeit des Erbfalls kein Verwandter, Ehegatte oder Lebenspartner
@@ -29099,12 +26557,10 @@ des Erbfalls seinen letzten Wohnsitz oder, wenn ein solcher nicht
 feststellbar ist, seinen gewöhnlichen Aufenthalt hatte. Im Übrigen
 erbt der Bund.
 
-
 #### § 1937 Erbeinsetzung durch letztwillige Verfügung
 
 Der Erblasser kann durch einseitige Verfügung von Todes wegen
 (Testament, letztwillige Verfügung) den Erben bestimmen.
-
 
 #### § 1938 Enterbung ohne Erbeinsetzung
 
@@ -29112,19 +26568,16 @@ Der Erblasser kann durch Testament einen Verwandten, den Ehegatten
 oder den Lebenspartner von der gesetzlichen Erbfolge ausschließen,
 ohne einen Erben einzusetzen.
 
-
 #### § 1939 Vermächtnis
 
 Der Erblasser kann durch Testament einem anderen, ohne ihn als Erben
 einzusetzen, einen Vermögensvorteil zuwenden (Vermächtnis).
-
 
 #### § 1940 Auflage
 
 Der Erblasser kann durch Testament den Erben oder einen
 Vermächtnisnehmer zu einer Leistung verpflichten, ohne einem anderen
 ein Recht auf die Leistung zuzuwenden (Auflage).
-
 
 #### § 1941 Erbvertrag
 
@@ -29134,14 +26587,9 @@ Vermächtnisse und Auflagen anordnen (Erbvertrag).
 (2) Als Erbe (Vertragserbe) oder als Vermächtnisnehmer kann sowohl der
 andere Vertragschließende als ein Dritter bedacht werden.
 
-
 ### Abschnitt 2 - Rechtliche Stellung des Erben
 
-
-
 #### Titel 1 - Annahme und Ausschlagung der Erbschaft, Fürsorge des Nachlassgerichts
-
-
 
 ##### § 1942 Anfall und Ausschlagung der Erbschaft
 
@@ -29151,14 +26599,12 @@ andere Vertragschließende als ein Dritter bedacht werden.
 (2) Der Fiskus kann die ihm als gesetzlichem Erben angefallene
 Erbschaft nicht ausschlagen.
 
-
 ##### § 1943 Annahme und Ausschlagung der Erbschaft
 
 Der Erbe kann die Erbschaft nicht mehr ausschlagen, wenn er sie
 angenommen hat oder wenn die für die Ausschlagung vorgeschriebene
 Frist verstrichen ist; mit dem Ablauf der Frist gilt die Erbschaft als
 angenommen.
-
 
 ##### § 1944 Ausschlagungsfrist
 
@@ -29175,7 +26621,6 @@ Vorschriften der §§ 206, 210 entsprechende Anwendung.
 Wohnsitz nur im Ausland gehabt hat oder wenn sich der Erbe bei dem
 Beginn der Frist im Ausland aufhält.
 
-
 ##### § 1945 Form der Ausschlagung
 
 (1) Die Ausschlagung erfolgt durch Erklärung gegenüber dem
@@ -29189,18 +26634,15 @@ des Beurkundungsgesetzes errichtet.
 Vollmacht. Die Vollmacht muss der Erklärung beigefügt oder innerhalb
 der Ausschlagungsfrist nachgebracht werden.
 
-
 ##### § 1946 Zeitpunkt für Annahme oder Ausschlagung
 
 Der Erbe kann die Erbschaft annehmen oder ausschlagen, sobald der
 Erbfall eingetreten ist.
 
-
 ##### § 1947 Bedingung und Zeitbestimmung
 
 Die Annahme und die Ausschlagung können nicht unter einer Bedingung
 oder einer Zeitbestimmung erfolgen.
-
 
 ##### § 1948 Mehrere Berufungsgründe
 
@@ -29213,7 +26655,6 @@ Erbe annehmen.
 kann die Erbschaft aus dem einen Berufungsgrund annehmen und aus dem
 anderen ausschlagen.
 
-
 ##### § 1949 Irrtum über den Berufungsgrund
 
 (1) Die Annahme gilt als nicht erfolgt, wenn der Erbe über den
@@ -29222,13 +26663,11 @@ Berufungsgrund im Irrtum war.
 (2) Die Ausschlagung erstreckt sich im Zweifel auf alle
 Berufungsgründe, die dem Erben zur Zeit der Erklärung bekannt sind.
 
-
 ##### § 1950 Teilannahme; Teilausschlagung
 
 Die Annahme und die Ausschlagung können nicht auf einen Teil der
 Erbschaft beschränkt werden. Die Annahme oder Ausschlagung eines Teils
 ist unwirksam.
-
 
 ##### § 1951 Mehrere Erbteile
 
@@ -29247,7 +26686,6 @@ angeordnet ist.
 er ihm durch Verfügung von Todes wegen gestatten, den einen Erbteil
 anzunehmen und den anderen auszuschlagen.
 
-
 ##### § 1952 Vererblichkeit des Ausschlagungsrechts
 
 (1) Das Recht des Erben, die Erbschaft auszuschlagen, ist vererblich.
@@ -29258,7 +26696,6 @@ vorgeschriebenen Ausschlagungsfrist.
 
 (3) Von mehreren Erben des Erben kann jeder den seinem Erbteil
 entsprechenden Teil der Erbschaft ausschlagen.
-
 
 ##### § 1953 Wirkung der Ausschlagung
 
@@ -29273,7 +26710,6 @@ Anfall gilt als mit dem Erbfall erfolgt.
 welchem die Erbschaft infolge der Ausschlagung angefallen ist. Es hat
 die Einsicht der Erklärung jedem zu gestatten, der ein rechtliches
 Interesse glaubhaft macht.
-
 
 ##### § 1954 Anfechtungsfrist
 
@@ -29294,19 +26730,16 @@ Beginn der Frist im Ausland aufhält.
 (4) Die Anfechtung ist ausgeschlossen, wenn seit der Annahme oder der
 Ausschlagung 30 Jahre verstrichen sind.
 
-
 ##### § 1955 Form der Anfechtung
 
 Die Anfechtung der Annahme oder der Ausschlagung erfolgt durch
 Erklärung gegenüber dem Nachlassgericht. Für die Erklärung gelten die
 Vorschriften des § 1945.
 
-
 ##### § 1956 Anfechtung der Fristversäumung
 
 Die Versäumung der Ausschlagungsfrist kann in gleicher Weise wie die
 Annahme angefochten werden.
-
 
 ##### § 1957 Wirkung der Anfechtung
 
@@ -29318,13 +26751,11 @@ demjenigen mitteilen, welchem die Erbschaft infolge der Ausschlagung
 angefallen war. Die Vorschrift des § 1953 Abs. 3 Satz 2 findet
 Anwendung.
 
-
 ##### § 1958 Gerichtliche Geltendmachung von Ansprüchen gegen den Erben
 
 Vor der Annahme der Erbschaft kann ein Anspruch, der sich gegen den
 Nachlass richtet, nicht gegen den Erben gerichtlich geltend gemacht
 werden.
-
 
 ##### § 1959 Geschäftsführung vor der Ausschlagung
 
@@ -29342,7 +26773,6 @@ vorgenommen werden muss, bleibt, wenn es vor der Ausschlagung dem
 Ausschlagenden gegenüber vorgenommen wird, auch nach der Ausschlagung
 wirksam.
 
-
 ##### § 1960 Sicherung des Nachlasses; Nachlasspfleger
 
 (1) Bis zur Annahme der Erbschaft hat das Nachlassgericht für die
@@ -29358,7 +26788,6 @@ welcher Erbe wird, einen Pfleger (Nachlasspfleger) bestellen.
 (3) Die Vorschrift des § 1958 findet auf den Nachlasspfleger keine
 Anwendung.
 
-
 ##### § 1961 Nachlasspflegschaft auf Antrag
 
 Das Nachlassgericht hat in den Fällen des § 1960 Abs. 1 einen
@@ -29366,12 +26795,10 @@ Nachlasspfleger zu bestellen, wenn die Bestellung zum Zwecke der
 gerichtlichen Geltendmachung eines Anspruchs, der sich gegen den
 Nachlass richtet, von dem Berechtigten beantragt wird.
 
-
 ##### § 1962 Zuständigkeit des Nachlassgerichts
 
 Für die Nachlasspflegschaft tritt an die Stelle des Familiengerichts
 oder Betreuungsgerichts das Nachlassgericht.
-
 
 ##### § 1963 Unterhalt der werdenden Mutter eines Erben
 
@@ -29382,7 +26809,6 @@ andere Personen als Erben berufen sind, aus dem Erbteil des Kindes
 verlangen. Bei der Bemessung des Erbteils ist anzunehmen, dass nur ein
 Kind geboren wird.
 
-
 ##### § 1964 Erbvermutung für den Fiskus durch Feststellung
 
 (1) Wird der Erbe nicht innerhalb einer den Umständen entsprechenden
@@ -29391,7 +26817,6 @@ anderer Erbe als der Fiskus nicht vorhanden ist.
 
 (2) Die Feststellung begründet die Vermutung, dass der Fiskus
 gesetzlicher Erbe sei.
-
 
 ##### § 1965 Öffentliche Aufforderung zur Anmeldung der Erbrechte
 
@@ -29410,7 +26835,6 @@ es gegen den Fiskus im Wege der Klage geltend gemacht ist. Ist eine
 Frist mit der gerichtlichen Aufforderung, das Erbrecht oder die
 Erhebung der Klage nachzuweisen.
 
-
 ##### § 1966 Rechtsstellung des Fiskus vor Feststellung
 
 Von dem Fiskus als gesetzlichem Erben und gegen den Fiskus als
@@ -29418,14 +26842,9 @@ gesetzlichen Erben kann ein Recht erst geltend gemacht werden, nachdem
 von dem Nachlassgericht festgestellt worden ist, dass ein anderer Erbe
 nicht vorhanden ist.
 
-
 #### Titel 2 - Haftung des Erben für die Nachlassverbindlichkeiten
 
-
-
 ##### Untertitel 1 - Nachlassverbindlichkeiten
-
-
 
 ###### § 1967 Erbenhaftung, Nachlassverbindlichkeiten
 
@@ -29436,11 +26855,9 @@ herrührenden Schulden die den Erben als solchen treffenden
 Verbindlichkeiten, insbesondere die Verbindlichkeiten aus
 Pflichtteilsrechten, Vermächtnissen und Auflagen.
 
-
 ###### § 1968 Beerdigungskosten
 
 Der Erbe trägt die Kosten der Beerdigung des Erblassers.
-
 
 ###### § 1969 Dreißigster
 
@@ -29455,16 +26872,12 @@ letztwillige Verfügung eine abweichende Anordnung treffen.
 (2) Die Vorschriften über Vermächtnisse finden entsprechende
 Anwendung.
 
-
 ##### Untertitel 2 - Aufgebot der Nachlassgläubiger
-
-
 
 ###### § 1970 Anmeldung der Forderungen
 
 Die Nachlassgläubiger können im Wege des Aufgebotsverfahrens zur
 Anmeldung ihrer Forderungen aufgefordert werden.
-
 
 ###### § 1971 Nicht betroffene Gläubiger
 
@@ -29478,12 +26891,10 @@ Ansprüche durch eine Vormerkung gesichert sind oder denen im
 Insolvenzverfahren ein Aussonderungsrecht zusteht, in Ansehung des
 Gegenstands ihres Rechts.
 
-
 ###### § 1972 Nicht betroffene Rechte
 
 Pflichtteilsrechte, Vermächtnisse und Auflagen werden durch das
 Aufgebot nicht betroffen, unbeschadet der Vorschrift des § 2060 Nr. 1.
-
 
 ###### § 1973 Ausschluss von Nachlassgläubigern
 
@@ -29503,7 +26914,6 @@ kann die Herausgabe der noch vorhandenen Nachlassgegenstände durch
 Zahlung des Wertes abwenden. Die rechtskräftige Verurteilung des Erben
 zur Befriedigung eines ausgeschlossenen Gläubigers wirkt einem anderen
 Gläubiger gegenüber wie die Befriedigung.
-
 
 ###### § 1974 Verschweigungseinrede
 
@@ -29526,10 +26936,7 @@ würde.
 (3) Soweit ein Gläubiger nach § 1971 von dem Aufgebot nicht betroffen
 wird, finden die Vorschriften des Absatzes 1 auf ihn keine Anwendung.
 
-
 ##### Untertitel 3 - Beschränkung der Haftung des Erben
-
-
 
 ###### § 1975 Nachlassverwaltung; Nachlassinsolvenz
 
@@ -29538,7 +26945,6 @@ sich auf den Nachlass, wenn eine Nachlasspflegschaft zum Zwecke der
 Befriedigung der Nachlassgläubiger (Nachlassverwaltung) angeordnet
 oder das Nachlassinsolvenzverfahren eröffnet ist.
 
-
 ###### § 1976 Wirkung auf durch Vereinigung erloschene Rechtsverhältnisse
 
 Ist die Nachlassverwaltung angeordnet oder das
@@ -29546,7 +26952,6 @@ Nachlassinsolvenzverfahren eröffnet, so gelten die infolge des
 Erbfalls durch Vereinigung von Recht und Verbindlichkeit oder von
 Recht und Belastung erloschenen Rechtsverhältnisse als nicht
 erloschen.
-
 
 ###### § 1977 Wirkung auf eine Aufrechnung
 
@@ -29560,7 +26965,6 @@ die Aufrechnung als nicht erfolgt anzusehen.
 (2) Das Gleiche gilt, wenn ein Gläubiger, der nicht Nachlassgläubiger
 ist, die ihm gegen den Erben zustehende Forderung gegen eine zum
 Nachlass gehörende Forderung aufgerechnet hat.
-
 
 ###### § 1978 Verantwortlichkeit des Erben für bisherige Verwaltung, Aufwendungsersatz
 
@@ -29580,14 +26984,12 @@ gelten als zum Nachlass gehörend.
 er nach den Vorschriften über den Auftrag oder über die
 Geschäftsführung ohne Auftrag Ersatz verlangen könnte.
 
-
 ###### § 1979 Berichtigung von Nachlassverbindlichkeiten
 
 Die Berichtigung einer Nachlassverbindlichkeit durch den Erben müssen
 die Nachlassgläubiger als für Rechnung des Nachlasses erfolgt gelten
 lassen, wenn der Erbe den Umständen nach annehmen durfte, dass der
 Nachlass zur Berichtigung aller Nachlassverbindlichkeiten ausreiche.
-
 
 ###### § 1980 Antrag auf Eröffnung des Nachlassinsolvenzverfahrens
 
@@ -29607,7 +27009,6 @@ Nachlassverbindlichkeiten anzunehmen; das Aufgebot ist nicht
 erforderlich, wenn die Kosten des Verfahrens dem Bestand des
 Nachlasses gegenüber unverhältnismäßig groß sind.
 
-
 ###### § 1981 Anordnung der Nachlassverwaltung
 
 (1) Die Nachlassverwaltung ist von dem Nachlassgericht anzuordnen,
@@ -29622,18 +27023,15 @@ verstrichen sind.
 
 (3) Die Vorschrift des § 1785 findet keine Anwendung.
 
-
 ###### § 1982 Ablehnung der Anordnung der Nachlassverwaltung mangels Masse
 
 Die Anordnung der Nachlassverwaltung kann abgelehnt werden, wenn eine
 den Kosten entsprechende Masse nicht vorhanden ist.
 
-
 ###### § 1983 Bekanntmachung
 
 Das Nachlassgericht hat die Anordnung der Nachlassverwaltung durch das
 für seine Bekanntmachungen bestimmte Blatt zu veröffentlichen.
-
 
 ###### § 1984 Wirkung der Anordnung
 
@@ -29646,7 +27044,6 @@ richtet, kann nur gegen den Nachlassverwalter geltend gemacht werden.
 (2) Zwangsvollstreckungen und Arreste in den Nachlass zugunsten eines
 Gläubigers, der nicht Nachlassgläubiger ist, sind ausgeschlossen.
 
-
 ###### § 1985 Pflichten und Haftung des Nachlassverwalters
 
 (1) Der Nachlassverwalter hat den Nachlass zu verwalten und die
@@ -29655,7 +27052,6 @@ Nachlassverbindlichkeiten aus dem Nachlass zu berichtigen.
 (2) Der Nachlassverwalter ist für die Verwaltung des Nachlasses auch
 den Nachlassgläubigern verantwortlich. Die Vorschriften des § 1978
 Abs. 2 und der §§ 1979, 1980 finden entsprechende Anwendung.
-
 
 ###### § 1986 Herausgabe des Nachlasses
 
@@ -29671,12 +27067,10 @@ Sicherheitsleistung nicht erforderlich, wenn die Möglichkeit des
 Eintritts der Bedingung eine so entfernte ist, dass die Forderung
 einen gegenwärtigen Vermögenswert nicht hat.
 
-
 ###### § 1987 Vergütung des Nachlassverwalters
 
 Der Nachlassverwalter kann für die Führung seines Amts eine
 angemessene Vergütung verlangen.
-
 
 ###### § 1988 Ende und Aufhebung der Nachlassverwaltung
 
@@ -29686,13 +27080,11 @@ Nachlassinsolvenzverfahrens.
 (2) Die Nachlassverwaltung kann aufgehoben werden, wenn sich ergibt,
 dass eine den Kosten entsprechende Masse nicht vorhanden ist.
 
-
 ###### § 1989 Erschöpfungseinrede des Erben
 
 Ist das Nachlassinsolvenzverfahren durch Verteilung der Masse oder
 durch einen Insolvenzplan beendet, so findet auf die Haftung des Erben
 die Vorschrift des § 1973 entsprechende Anwendung.
-
 
 ###### § 1990 Dürftigkeitseinrede des Erben
 
@@ -29710,7 +27102,6 @@ Gläubiger nach dem Eintritt des Erbfalls im Wege der
 Zwangsvollstreckung oder der Arrestvollziehung ein Pfandrecht oder
 eine Hypothek oder im Wege der einstweiligen Verfügung eine Vormerkung
 erlangt hat.
-
 
 ###### § 1991 Folgen der Dürftigkeitseinrede
 
@@ -29731,7 +27122,6 @@ Befriedigung.
 Auflagen hat der Erbe so zu berichtigen, wie sie im Falle des
 Insolvenzverfahrens zur Berichtigung kommen würden.
 
-
 ###### § 1992 Überschuldung durch Vermächtnisse und Auflagen
 
 Beruht die Überschuldung des Nachlasses auf Vermächtnissen und
@@ -29741,16 +27131,12 @@ nach den Vorschriften der §§ 1990, 1991 zu bewirken. Er kann die
 Herausgabe der noch vorhandenen Nachlassgegenstände durch Zahlung des
 Wertes abwenden.
 
-
 ##### Untertitel 4 - Inventarerrichtung, unbeschränkte Haftung des Erben
-
-
 
 ###### § 1993 Inventarerrichtung
 
 Der Erbe ist berechtigt, ein Verzeichnis des Nachlasses (Inventar) bei
 dem Nachlassgericht einzureichen (Inventarerrichtung).
-
 
 ###### § 1994 Inventarfrist
 
@@ -29764,7 +27150,6 @@ das Inventar errichtet wird.
 Wirksamkeit der Fristbestimmung ist es ohne Einfluss, wenn die
 Forderung nicht besteht.
 
-
 ###### § 1995 Dauer der Frist
 
 (1) Die Inventarfrist soll mindestens einen Monat, höchstens drei
@@ -29776,7 +27161,6 @@ sie erst mit der Annahme der Erbschaft.
 
 (3) Auf Antrag des Erben kann das Nachlassgericht die Frist nach
 seinem Ermessen verlängern.
-
 
 ###### § 1996 Bestimmung einer neuen Frist
 
@@ -29793,13 +27177,11 @@ der zuerst bestimmten Frist gestellt werden.
 (3) Vor der Entscheidung soll der Nachlassgläubiger, auf dessen Antrag
 die erste Frist bestimmt worden ist, wenn tunlich gehört werden.
 
-
 ###### § 1997 Hemmung des Fristablaufs
 
 Auf den Lauf der Inventarfrist und der im § 1996 Abs. 2 bestimmten
 Frist von zwei Wochen finden die für die Verjährung geltenden
 Vorschriften des § 210 entsprechende Anwendung.
-
 
 ###### § 1998 Tod des Erben vor Fristablauf
 
@@ -29808,7 +27190,6 @@ Abs. 2 bestimmten Frist von zwei Wochen, so endigt die Frist nicht vor
 dem Ablauf der für die Erbschaft des Erben vorgeschriebenen
 Ausschlagungsfrist.
 
-
 ###### § 1999 Mitteilung an das Gericht
 
 Steht der Erbe unter elterlicher Sorge oder unter Vormundschaft, so
@@ -29816,7 +27197,6 @@ soll das Nachlassgericht dem Familiengericht von der Bestimmung der
 Inventarfrist Mitteilung machen. Fällt die Nachlassangelegenheit in
 den Aufgabenkreis eines Betreuers des Erben, tritt an die Stelle des
 Familiengerichts das Betreuungsgericht.
-
 
 ###### § 2000 Unwirksamkeit der Fristbestimmung
 
@@ -29828,7 +27208,6 @@ werden. Ist das Nachlassinsolvenzverfahren durch Verteilung der Masse
 oder durch einen Insolvenzplan beendet, so bedarf es zur Abwendung der
 unbeschränkten Haftung der Inventarerrichtung nicht.
 
-
 ###### § 2001 Inhalt des Inventars
 
 (1) In dem Inventar sollen die bei dem Eintritt des Erbfalls
@@ -29839,12 +27218,10 @@ vollständig angegeben werden.
 Nachlassgegenstände, soweit eine solche zur Bestimmung des Wertes
 erforderlich ist, und die Angabe des Wertes enthalten.
 
-
 ###### § 2002 Aufnahme des Inventars durch den Erben
 
 Der Erbe muss zu der Aufnahme des Inventars eine zuständige Behörde
 oder einen zuständigen Beamten oder Notar zuziehen.
-
 
 ###### § 2003 Amtliche Aufnahme des Inventars
 
@@ -29859,14 +27236,12 @@ erforderliche Auskunft zu erteilen.
 (3) Das Inventar ist von der Behörde, dem Beamten oder dem Notar bei
 dem Nachlassgericht einzureichen.
 
-
 ###### § 2004 Bezugnahme auf ein vorhandenes Inventar
 
 Befindet sich bei dem Nachlassgericht schon ein den Vorschriften der
 §§ 2002, 2003 entsprechendes Inventar, so genügt es, wenn der Erbe vor
 dem Ablauf der Inventarfrist dem Nachlassgericht gegenüber erklärt,
 dass das Inventar als von ihm eingereicht gelten soll.
-
 
 ###### § 2005 Unbeschränkte Haftung des Erben bei Unrichtigkeit des Inventars
 
@@ -29881,7 +27256,6 @@ verweigert oder absichtlich in erheblichem Maße verzögert.
 (2) Ist die Angabe der Nachlassgegenstände unvollständig, ohne dass
 ein Fall des Absatzes 1 vorliegt, so kann dem Erben zur Ergänzung eine
 neue Inventarfrist bestimmt werden.
-
 
 ###### § 2006 Eidesstattliche Versicherung
 
@@ -29910,7 +27284,6 @@ Grund zu der Annahme besteht, dass dem Erben nach der Abgabe der
 eidesstattlichen Versicherung weitere Nachlassgegenstände bekannt
 geworden sind.
 
-
 ###### § 2007 Haftung bei mehreren Erbteilen
 
 Ist ein Erbe zu mehreren Erbteilen berufen, so bestimmt sich seine
@@ -29918,7 +27291,6 @@ Haftung für die Nachlassverbindlichkeiten in Ansehung eines jeden der
 Erbteile so, wie wenn die Erbteile verschiedenen Erben gehörten. In
 den Fällen der Anwachsung und des § 1935 gilt dies nur dann, wenn die
 Erbteile verschieden beschwert sind.
-
 
 ###### § 2008 Inventar für eine zum Gesamtgut gehörende Erbschaft
 
@@ -29934,7 +27306,6 @@ Ehegatten, der Erbe ist, zustatten.
 (2) Die Vorschriften des Absatzes 1 gelten auch nach der Beendigung
 der Gütergemeinschaft.
 
-
 ###### § 2009 Wirkung der Inventarerrichtung
 
 Ist das Inventar rechtzeitig errichtet worden, so wird im Verhältnis
@@ -29942,19 +27313,16 @@ zwischen dem Erben und den Nachlassgläubigern vermutet, dass zur Zeit
 des Erbfalls weitere Nachlassgegenstände als die angegebenen nicht
 vorhanden gewesen seien.
 
-
 ###### § 2010 Einsicht des Inventars
 
 Das Nachlassgericht hat die Einsicht des Inventars jedem zu gestatten,
 der ein rechtliches Interesse glaubhaft macht.
-
 
 ###### § 2011 Keine Inventarfrist für den Fiskus als Erben
 
 Dem Fiskus als gesetzlichem Erben kann eine Inventarfrist nicht
 bestimmt werden. Der Fiskus ist den Nachlassgläubigern gegenüber
 verpflichtet, über den Bestand des Nachlasses Auskunft zu erteilen.
-
 
 ###### § 2012 Keine Inventarfrist für den Nachlasspfleger und Nachlassverwalter
 
@@ -29965,7 +27333,6 @@ Nachlasses Auskunft zu erteilen. Der Nachlasspfleger kann nicht auf
 die Beschränkung der Haftung des Erben verzichten.
 
 (2) Diese Vorschriften gelten auch für den Nachlassverwalter.
-
 
 ###### § 2013 Folgen der unbeschränkten Haftung des Erben
 
@@ -29982,10 +27349,7 @@ Anordnung einer Nachlassverwaltung zu beantragen, werden nicht dadurch
 ausgeschlossen, dass der Erbe einzelnen Nachlassgläubigern gegenüber
 unbeschränkt haftet.
 
-
 ##### Untertitel 5 - Aufschiebende Einreden
-
-
 
 ###### § 2014 Dreimonatseinrede
 
@@ -29993,7 +27357,6 @@ Der Erbe ist berechtigt, die Berichtigung einer
 Nachlassverbindlichkeit bis zum Ablauf der ersten drei Monate nach der
 Annahme der Erbschaft, jedoch nicht über die Errichtung des Inventars
 hinaus, zu verweigern.
-
 
 ###### § 2015 Einrede des Aufgebotsverfahrens
 
@@ -30010,7 +27373,6 @@ Erlass des Ausschließungsbeschlusses zurückgewiesen, so ist das
 Aufgebotsverfahren erst dann als beendet anzusehen, wenn der Beschluss
 rechtskräftig ist.
 
-
 ###### § 2016 Ausschluss der Einreden bei unbeschränkter Erbenhaftung
 
 (1) Die Vorschriften der §§ 2014, 2015 finden keine Anwendung, wenn
@@ -30023,24 +27385,19 @@ Zwangsvollstreckung oder der Arrestvollziehung erlangtes Recht sowie
 eine erst nach diesem Zeitpunkt im Wege der einstweiligen Verfügung
 erlangte Vormerkung außer Betracht bleibt.
 
-
 ###### § 2017 Fristbeginn bei Nachlasspflegschaft
 
 Wird vor der Annahme der Erbschaft zur Verwaltung des Nachlasses ein
 Nachlasspfleger bestellt, so beginnen die in § 2014 und in § 2015 Abs.
 1 bestimmten Fristen mit der Bestellung.
 
-
 #### Titel 3 - Erbschaftsanspruch
-
-
 
 ##### § 2018 Herausgabepflicht des Erbschaftsbesitzers
 
 Der Erbe kann von jedem, der auf Grund eines ihm in Wirklichkeit nicht
 zustehenden Erbrechts etwas aus der Erbschaft erlangt hat
 (Erbschaftsbesitzer), die Herausgabe des Erlangten verlangen.
-
 
 ##### § 2019 Unmittelbare Ersetzung
 
@@ -30053,20 +27410,17 @@ Erbschaft hat der Schuldner erst dann gegen sich gelten zu lassen,
 wenn er von der Zugehörigkeit Kenntnis erlangt; die Vorschriften der
 §§ 406 bis 408 finden entsprechende Anwendung.
 
-
 ##### § 2020 Nutzungen und Früchte
 
 Der Erbschaftsbesitzer hat dem Erben die gezogenen Nutzungen
 herauszugeben; die Verpflichtung zur Herausgabe erstreckt sich auch
 auf Früchte, an denen er das Eigentum erworben hat.
 
-
 ##### § 2021 Herausgabepflicht nach Bereicherungsgrundsätzen
 
 Soweit der Erbschaftsbesitzer zur Herausgabe außerstande ist, bestimmt
 sich seine Verpflichtung nach den Vorschriften über die Herausgabe
 einer ungerechtfertigten Bereicherung.
-
 
 ##### § 2022 Ersatz von Verwendungen und Aufwendungen
 
@@ -30087,7 +27441,6 @@ Aufwendungen, nach den allgemeinen Vorschriften in weiterem Umfang
 Ersatz zu leisten hat, bleibt der Anspruch des Erbschaftsbesitzers
 unberührt.
 
-
 ##### § 2023 Haftung bei Rechtshängigkeit, Nutzungen und Verwendungen
 
 (1) Hat der Erbschaftsbesitzer zur Erbschaft gehörende Sachen
@@ -30102,7 +27455,6 @@ der Rechtshängigkeit des Eigentumsanspruchs an gelten.
 Vergütung von Nutzungen und von dem Anspruch des Erbschaftsbesitzers
 auf Ersatz von Verwendungen.
 
-
 ##### § 2024 Haftung bei Kenntnis
 
 Ist der Erbschaftsbesitzer bei dem Beginn des Erbschaftsbesitzes nicht
@@ -30111,7 +27463,6 @@ dieser Zeit rechtshängig geworden wäre. Erfährt der Erbschaftsbesitzer
 später, dass er nicht Erbe ist, so haftet er in gleicher Weise von der
 Erlangung der Kenntnis an. Eine weitergehende Haftung wegen Verzugs
 bleibt unberührt.
-
 
 ##### § 2025 Haftung bei unerlaubter Handlung
 
@@ -30123,13 +27474,11 @@ Erbschaftsbesitzer haftet jedoch wegen verbotener Eigenmacht nach
 diesen Vorschriften nur, wenn der Erbe den Besitz der Sache bereits
 tatsächlich ergriffen hatte.
 
-
 ##### § 2026 Keine Berufung auf Ersitzung
 
 Der Erbschaftsbesitzer kann sich dem Erben gegenüber, solange nicht
 der Erbschaftsanspruch verjährt ist, nicht auf die Ersitzung einer
 Sache berufen, die er als zur Erbschaft gehörend im Besitz hat.
-
 
 ##### § 2027 Auskunftspflicht des Erbschaftsbesitzers
 
@@ -30140,7 +27489,6 @@ Auskunft zu erteilen.
 (2) Die gleiche Verpflichtung hat, wer, ohne Erbschaftsbesitzer zu
 sein, eine Sache aus dem Nachlass in Besitz nimmt, bevor der Erbe den
 Besitz tatsächlich ergriffen hat.
-
 
 ##### § 2028 Auskunftspflicht des Hausgenossen
 
@@ -30158,7 +27506,6 @@ als er dazu imstande sei.
 
 (3) Die Vorschriften des § 259 Abs. 3 und des § 261 finden Anwendung.
 
-
 ##### § 2029 Haftung bei Einzelansprüchen des Erben
 
 Die Haftung des Erbschaftsbesitzers bestimmt sich auch gegenüber den
@@ -30166,12 +27513,10 @@ Ansprüchen, die dem Erben in Ansehung der einzelnen
 Erbschaftsgegenstände zustehen, nach den Vorschriften über den
 Erbschaftsanspruch.
 
-
 ##### § 2030 Rechtsstellung des Erbschaftserwerbers
 
 Wer die Erbschaft durch Vertrag von einem Erbschaftsbesitzer erwirbt,
 steht im Verhältnis zu dem Erben einem Erbschaftsbesitzer gleich.
-
 
 ##### § 2031 Herausgabeanspruch des für tot Erklärten
 
@@ -30187,14 +27532,9 @@ Feststellung der Todeszeit Kenntnis erlangt.
 (2) Das Gleiche gilt, wenn der Tod einer Person ohne Todeserklärung
 oder Feststellung der Todeszeit mit Unrecht angenommen worden ist.
 
-
 #### Titel 4 - Mehrheit von Erben
 
-
-
 ##### Untertitel 1 - Rechtsverhältnis der Erben untereinander
-
-
 
 ###### § 2032 Erbengemeinschaft
 
@@ -30203,7 +27543,6 @@ gemeinschaftliches Vermögen der Erben.
 
 (2) Bis zur Auseinandersetzung gelten die Vorschriften der §§ 2033 bis
 2041\.
-
 
 ###### § 2033 Verfügungsrecht des Miterben
 
@@ -30214,7 +27553,6 @@ der notariellen Beurkundung.
 (2) Über seinen Anteil an den einzelnen Nachlassgegenständen kann ein
 Miterbe nicht verfügen.
 
-
 ###### § 2034 Vorkaufsrecht gegenüber dem Verkäufer
 
 (1) Verkauft ein Miterbe seinen Anteil an einen Dritten, so sind die
@@ -30222,7 +27560,6 @@ Miterbe nicht verfügen.
 
 (2) Die Frist für die Ausübung des Vorkaufsrechts beträgt zwei Monate.
 Das Vorkaufsrecht ist vererblich.
-
 
 ###### § 2035 Vorkaufsrecht gegenüber dem Käufer
 
@@ -30234,7 +27571,6 @@ erlischt das Vorkaufsrecht mit der Übertragung des Anteils.
 (2) Der Verkäufer hat die Miterben von der Übertragung unverzüglich zu
 benachrichtigen.
 
-
 ###### § 2036 Haftung des Erbteilkäufers
 
 Mit der Übertragung des Anteils auf die Miterben wird der Käufer von
@@ -30243,12 +27579,10 @@ bleibt jedoch bestehen, soweit er den Nachlassgläubigern nach den §§
 1978 bis 1980 verantwortlich ist; die Vorschriften der §§ 1990, 1991
 finden entsprechende Anwendung.
 
-
 ###### § 2037 Weiterveräußerung des Erbteils
 
 Überträgt der Käufer den Anteil auf einen anderen, so finden die
 Vorschriften der §§ 2033, 2035, 2036 entsprechende Anwendung.
-
 
 ###### § 2038 Gemeinschaftliche Verwaltung des Nachlasses
 
@@ -30264,7 +27598,6 @@ Auseinandersetzung auf längere Zeit als ein Jahr ausgeschlossen, so
 kann jeder Miterbe am Schluss jedes Jahres die Teilung des Reinertrags
 verlangen.
 
-
 ###### § 2039 Nachlassforderungen
 
 Gehört ein Anspruch zum Nachlass, so kann der Verpflichtete nur an
@@ -30273,7 +27606,6 @@ an alle Erben fordern. Jeder Miterbe kann verlangen, dass der
 Verpflichtete die zu leistende Sache für alle Erben hinterlegt oder,
 wenn sie sich nicht zur Hinterlegung eignet, an einen gerichtlich zu
 bestellenden Verwahrer abliefert.
-
 
 ###### § 2040 Verfügung über Nachlassgegenstände, Aufrechnung
 
@@ -30284,7 +27616,6 @@ gemeinschaftlich verfügen.
 nicht eine ihm gegen einen einzelnen Miterben zustehende Forderung
 aufrechnen.
 
-
 ###### § 2041 Unmittelbare Ersetzung
 
 Was auf Grund eines zum Nachlass gehörenden Rechts oder als Ersatz für
@@ -30294,7 +27625,6 @@ bezieht, gehört zum Nachlass. Auf eine durch ein solches
 Rechtsgeschäft erworbene Forderung findet die Vorschrift des § 2019
 Abs. 2 Anwendung.
 
-
 ###### § 2042 Auseinandersetzung
 
 (1) Jeder Miterbe kann jederzeit die Auseinandersetzung verlangen,
@@ -30302,7 +27632,6 @@ soweit sich nicht aus den §§ 2043 bis 2045 ein anderes ergibt.
 
 (2) Die Vorschriften des § 749 Abs. 2, 3 und der §§ 750 bis 758 finden
 Anwendung.
-
 
 ###### § 2043 Aufschub der Auseinandersetzung
 
@@ -30315,7 +27644,6 @@ sind, weil die Entscheidung über einen Antrag auf Annahme als Kind,
 über die Aufhebung des Annahmeverhältnisses oder über die Anerkennung
 einer vom Erblasser errichteten Stiftung als rechtsfähig noch
 aussteht.
-
 
 ###### § 2044 Ausschluss der Auseinandersetzung
 
@@ -30334,7 +27662,6 @@ Anfall des Vermächtnisses gelten soll. Ist der Miterbe, in dessen
 Person das Ereignis eintreten soll, eine juristische Person, so
 bewendet es bei der dreißigjährigen Frist.
 
-
 ###### § 2045 Aufschub der Auseinandersetzung
 
 Jeder Miterbe kann verlangen, dass die Auseinandersetzung bis zur
@@ -30344,7 +27671,6 @@ der Antrag auf Einleitung des Aufgebotsverfahrens noch nicht gestellt
 oder die öffentliche Aufforderung nach § 2061 noch nicht erlassen, so
 kann der Aufschub nur verlangt werden, wenn unverzüglich der Antrag
 gestellt oder die Aufforderung erlassen wird.
-
 
 ###### § 2046 Berichtigung der Nachlassverbindlichkeiten
 
@@ -30360,7 +27686,6 @@ der Auseinandersetzung zukommt.
 (3) Zur Berichtigung ist der Nachlass, soweit erforderlich, in Geld
 umzusetzen.
 
-
 ###### § 2047 Verteilung des Überschusses
 
 (1) Der nach der Berichtigung der Nachlassverbindlichkeiten
@@ -30371,7 +27696,6 @@ Erbteile.
 Erblassers, auf dessen Familie oder auf den ganzen Nachlass beziehen,
 bleiben gemeinschaftlich.
 
-
 ###### § 2048 Teilungsanordnungen des Erblassers
 
 Der Erblasser kann durch letztwillige Verfügung Anordnungen für die
@@ -30380,7 +27704,6 @@ Auseinandersetzung nach dem billigen Ermessen eines Dritten erfolgen
 soll. Die von dem Dritten auf Grund der Anordnung getroffene
 Bestimmung ist für die Erben nicht verbindlich, wenn sie offenbar
 unbillig ist; die Bestimmung erfolgt in diesem Falle durch Urteil.
-
 
 ###### § 2049 Übernahme eines Landguts
 
@@ -30392,7 +27715,6 @@ werden soll.
 (2) Der Ertragswert bestimmt sich nach dem Reinertrag, den das Landgut
 nach seiner bisherigen wirtschaftlichen Bestimmung bei ordnungsmäßiger
 Bewirtschaftung nachhaltig gewähren kann.
-
 
 ###### § 2050 Ausgleichungspflicht für Abkömmlinge als gesetzliche Erben
 
@@ -30412,7 +27734,6 @@ haben.
 bringen, wenn der Erblasser bei der Zuwendung die Ausgleichung
 angeordnet hat.
 
-
 ###### § 2051 Ausgleichungspflicht bei Wegfall eines Abkömmlings
 
 (1) Fällt ein Abkömmling, der als Erbe zur Ausgleichung verpflichtet
@@ -30425,7 +27746,6 @@ Ersatzerben eingesetzt, so ist im Zweifel anzunehmen, dass dieser
 nicht mehr erhalten soll, als der Abkömmling unter Berücksichtigung
 der Ausgleichungspflicht erhalten würde.
 
-
 ###### § 2052 Ausgleichungspflicht für Abkömmlinge als gewillkürte Erben
 
 Hat der Erblasser die Abkömmlinge auf dasjenige als Erben eingesetzt,
@@ -30434,7 +27754,6 @@ Erbteile so bestimmt, dass sie zueinander in demselben Verhältnis
 stehen wie die gesetzlichen Erbteile, so ist im Zweifel anzunehmen,
 dass die Abkömmlinge nach den §§ 2050, 2051 zur Ausgleichung
 verpflichtet sein sollen.
-
 
 ###### § 2053 Zuwendung an entfernteren oder angenommenen Abkömmling
 
@@ -30449,7 +27768,6 @@ angeordnet hat.
 Stellung eines solchen erlangt hatte, eine Zuwendung von dem Erblasser
 erhalten hat.
 
-
 ###### § 2054 Zuwendung aus dem Gesamtgut
 
 (1) Eine Zuwendung, die aus dem Gesamtgut der Gütergemeinschaft
@@ -30462,7 +27780,6 @@ Ehegatten gemacht.
 (2) Diese Vorschriften sind auf eine Zuwendung aus dem Gesamtgut der
 fortgesetzten Gütergemeinschaft entsprechend anzuwenden.
 
-
 ###### § 2055 Durchführung der Ausgleichung
 
 (1) Bei der Auseinandersetzung wird jedem Miterben der Wert der
@@ -30474,7 +27791,6 @@ Miterben zukommt, unter denen die Ausgleichung stattfindet.
 (2) Der Wert bestimmt sich nach der Zeit, zu der die Zuwendung erfolgt
 ist.
 
-
 ###### § 2056 Mehrempfang
 
 Hat ein Miterbe durch die Zuwendung mehr erhalten, als ihm bei der
@@ -30483,7 +27799,6 @@ Mehrbetrags nicht verpflichtet. Der Nachlass wird in einem solchen
 Falle unter den übrigen Erben in der Weise geteilt, dass der Wert der
 Zuwendung und der Erbteil des Miterben außer Ansatz bleiben.
 
-
 ###### § 2057 Auskunftspflicht
 
 Jeder Miterbe ist verpflichtet, den übrigen Erben auf Verlangen
@@ -30491,7 +27806,6 @@ Auskunft über die Zuwendungen zu erteilen, die er nach den §§ 2050 bis
 2053 zur Ausgleichung zu bringen hat. Die Vorschriften der §§ 260, 261
 über die Verpflichtung zur Abgabe der eidesstattlichen Versicherung
 finden entsprechende Anwendung.
-
 
 ###### § 2057a Ausgleichungspflicht bei besonderen Leistungen eines Abkömmlings
 
@@ -30522,16 +27836,12 @@ Sämtliche Ausgleichungsbeträge werden vom Wert des Nachlasses
 abgezogen, soweit dieser den Miterben zukommt, unter denen die
 Ausgleichung stattfindet.
 
-
 ##### Untertitel 2 - Rechtsverhältnis zwischen den Erben und den Nachlassgläubigern
-
-
 
 ###### § 2058 Gesamtschuldnerische Haftung
 
 Die Erben haften für die gemeinschaftlichen Nachlassverbindlichkeiten
 als Gesamtschuldner.
-
 
 ###### § 2059 Haftung bis zur Teilung
 
@@ -30545,7 +27855,6 @@ nicht zu.
 (2) Das Recht der Nachlassgläubiger, die Befriedigung aus dem
 ungeteilten Nachlass von sämtlichen Miterben zu verlangen, bleibt
 unberührt.
-
 
 ###### § 2060 Haftung nach der Teilung
 
@@ -30569,10 +27878,6 @@ seinem Erbteil entsprechenden Teil einer Nachlassverbindlichkeit:
 3.  wenn das Nachlassinsolvenzverfahren eröffnet und durch Verteilung der
     Masse oder durch einen Insolvenzplan beendigt worden ist.
 
-
-
-
-
 ###### § 2061 Aufgebot der Nachlassgläubiger
 
 (1) Jeder Miterbe kann die Nachlassgläubiger öffentlich auffordern,
@@ -30588,13 +27893,11 @@ die Bekanntmachungen des Nachlassgerichts bestimmte Blatt zu
 veröffentlichen. Die Frist beginnt mit der letzten Einrückung. Die
 Kosten fallen dem Erben zur Last, der die Aufforderung erlässt.
 
-
 ###### § 2062 Antrag auf Nachlassverwaltung
 
 Die Anordnung einer Nachlassverwaltung kann von den Erben nur
 gemeinschaftlich beantragt werden; sie ist ausgeschlossen, wenn der
 Nachlass geteilt ist.
-
 
 ###### § 2063 Errichtung eines Inventars, Haftungsbeschränkung
 
@@ -30606,19 +27909,13 @@ Nachlassverbindlichkeiten unbeschränkt ist.
 Beschränkung seiner Haftung auch dann berufen, wenn er den anderen
 Nachlassgläubigern gegenüber unbeschränkt haftet.
 
-
 ### Abschnitt 3 - Testament
 
-
-
 #### Titel 1 - Allgemeine Vorschriften
-
-
 
 ##### § 2064 Persönliche Errichtung
 
 Der Erblasser kann ein Testament nur persönlich errichten.
-
 
 ##### § 2065 Bestimmung durch Dritte
 
@@ -30629,7 +27926,6 @@ gelten soll.
 (2) Der Erblasser kann die Bestimmung der Person, die eine Zuwendung
 erhalten soll, sowie die Bestimmung des Gegenstands der Zuwendung
 nicht einem anderen überlassen.
-
 
 ##### § 2066 Gesetzliche Erben des Erblassers
 
@@ -30643,7 +27939,6 @@ Zweifel diejenigen als bedacht anzusehen, welche die gesetzlichen
 Erben sein würden, wenn der Erblasser zur Zeit des Eintritts der
 Bedingung oder des Termins gestorben wäre.
 
-
 ##### § 2067 Verwandte des Erblassers
 
 Hat der Erblasser seine Verwandten oder seine nächsten Verwandten ohne
@@ -30651,7 +27946,6 @@ nähere Bestimmung bedacht, so sind im Zweifel diejenigen Verwandten,
 welche zur Zeit des Erbfalls seine gesetzlichen Erben sein würden, als
 nach dem Verhältnis ihrer gesetzlichen Erbteile bedacht anzusehen. Die
 Vorschrift des § 2066 Satz 2 findet Anwendung.
-
 
 ##### § 2068 Kinder des Erblassers
 
@@ -30661,14 +27955,12 @@ Abkömmlingen gestorben, so ist im Zweifel anzunehmen, dass die
 Abkömmlinge insoweit bedacht sind, als sie bei der gesetzlichen
 Erbfolge an die Stelle des Kindes treten würden.
 
-
 ##### § 2069 Abkömmlinge des Erblassers
 
 Hat der Erblasser einen seiner Abkömmlinge bedacht und fällt dieser
 nach der Errichtung des Testaments weg, so ist im Zweifel anzunehmen,
 dass dessen Abkömmlinge insoweit bedacht sind, als sie bei der
 gesetzlichen Erbfolge an dessen Stelle treten würden.
-
 
 ##### § 2070 Abkömmlinge eines Dritten
 
@@ -30680,7 +27972,6 @@ eines Anfangstermins gemacht ist und die Bedingung oder der Termin
 erst nach dem Erbfall eintritt, zur Zeit des Eintritts der Bedingung
 oder des Termins noch nicht gezeugt sind.
 
-
 ##### § 2071 Personengruppe
 
 Hat der Erblasser ohne nähere Bestimmung eine Klasse von Personen oder
@@ -30689,7 +27980,6 @@ stehen, so ist im Zweifel anzunehmen, dass diejenigen bedacht sind,
 welche zur Zeit des Erbfalls der bezeichneten Klasse angehören oder in
 dem bezeichneten Verhältnis stehen.
 
-
 ##### § 2072 Die Armen
 
 Hat der Erblasser die Armen ohne nähere Bestimmung bedacht, so ist im
@@ -30697,13 +27987,11 @@ Zweifel anzunehmen, dass die öffentliche Armenkasse der Gemeinde, in
 deren Bezirk er seinen letzten Wohnsitz gehabt hat, unter der Auflage
 bedacht ist, das Zugewendete unter Arme zu verteilen.
 
-
 ##### § 2073 Mehrdeutige Bezeichnung
 
 Hat der Erblasser den Bedachten in einer Weise bezeichnet, die auf
 mehrere Personen passt, und lässt sich nicht ermitteln, wer von ihnen
 bedacht werden sollte, so gelten sie als zu gleichen Teilen bedacht.
-
 
 ##### § 2074 Aufschiebende Bedingung
 
@@ -30711,7 +27999,6 @@ Hat der Erblasser eine letztwillige Zuwendung unter einer
 aufschiebenden Bedingung gemacht, so ist im Zweifel anzunehmen, dass
 die Zuwendung nur gelten soll, wenn der Bedachte den Eintritt der
 Bedingung erlebt.
-
 
 ##### § 2075 Auflösende Bedingung
 
@@ -30723,14 +28010,12 @@ im Zweifel anzunehmen, dass die Zuwendung von der auflösenden
 Bedingung abhängig sein soll, dass der Bedachte die Handlung vornimmt
 oder das Tun unterlässt.
 
-
 ##### § 2076 Bedingung zum Vorteil eines Dritten
 
 Bezweckt die Bedingung, unter der eine letztwillige Zuwendung gemacht
 ist, den Vorteil eines Dritten, so gilt sie im Zweifel als
 eingetreten, wenn der Dritte die zum Eintritt der Bedingung
 erforderliche Mitwirkung verweigert.
-
 
 ##### § 2077 Unwirksamkeit letztwilliger Verfügungen bei Auflösung der Ehe oder Verlobung
 
@@ -30750,7 +28035,6 @@ des Erblassers aufgelöst worden ist.
 (3) Die Verfügung ist nicht unwirksam, wenn anzunehmen ist, dass der
 Erblasser sie auch für einen solchen Fall getroffen haben würde.
 
-
 ##### § 2078 Anfechtung wegen Irrtums oder Drohung
 
 (1) Eine letztwillige Verfügung kann angefochten werden, soweit der
@@ -30765,7 +28049,6 @@ Umstands oder widerrechtlich durch Drohung bestimmt worden ist.
 
 (3) Die Vorschrift des § 122 findet keine Anwendung.
 
-
 ##### § 2079 Anfechtung wegen Übergehung eines Pflichtteilsberechtigten
 
 Eine letztwillige Verfügung kann angefochten werden, wenn der
@@ -30776,7 +28059,6 @@ Errichtung geboren oder pflichtteilsberechtigt geworden ist. Die
 Anfechtung ist ausgeschlossen, soweit anzunehmen ist, dass der
 Erblasser auch bei Kenntnis der Sachlage die Verfügung getroffen haben
 würde.
-
 
 ##### § 2080 Anfechtungsberechtigte
 
@@ -30790,7 +28072,6 @@ hätte, so ist ein anderer zur Anfechtung nicht berechtigt.
 
 (3) Im Falle des § 2079 steht das Anfechtungsrecht nur dem
 Pflichtteilsberechtigten zu.
-
 
 ##### § 2081 Anfechtungserklärung
 
@@ -30809,7 +28090,6 @@ rechtliches Interesse glaubhaft macht.
 letztwilligen Verfügung, durch die ein Recht für einen anderen nicht
 begründet wird, insbesondere für die Anfechtung einer Auflage.
 
-
 ##### § 2082 Anfechtungsfrist
 
 (1) Die Anfechtung kann nur binnen Jahresfrist erfolgen.
@@ -30822,7 +28102,6 @@ Vorschriften der §§ 206, 210, 211 entsprechende Anwendung.
 (3) Die Anfechtung ist ausgeschlossen, wenn seit dem Erbfall 30 Jahre
 verstrichen sind.
 
-
 ##### § 2083 Anfechtbarkeitseinrede
 
 Ist eine letztwillige Verfügung, durch die eine Verpflichtung zu einer
@@ -30830,13 +28109,11 @@ Leistung begründet wird, anfechtbar, so kann der Beschwerte die
 Leistung verweigern, auch wenn die Anfechtung nach § 2082
 ausgeschlossen ist.
 
-
 ##### § 2084 Auslegung zugunsten der Wirksamkeit
 
 Lässt der Inhalt einer letztwilligen Verfügung verschiedene
 Auslegungen zu, so ist im Zweifel diejenige Auslegung vorzuziehen, bei
 welcher die Verfügung Erfolg haben kann.
-
 
 ##### § 2085 Teilweise Unwirksamkeit
 
@@ -30845,7 +28122,6 @@ Verfügungen hat die Unwirksamkeit der übrigen Verfügungen nur zur
 Folge, wenn anzunehmen ist, dass der Erblasser diese ohne die
 unwirksame Verfügung nicht getroffen haben würde.
 
-
 ##### § 2086 Ergänzungsvorbehalt
 
 Ist einer letztwilligen Verfügung der Vorbehalt einer Ergänzung
@@ -30853,10 +28129,7 @@ beigefügt, die Ergänzung aber unterblieben, so ist die Verfügung
 wirksam, sofern nicht anzunehmen ist, dass die Wirksamkeit von der
 Ergänzung abhängig sein sollte.
 
-
 #### Titel 2 - Erbeinsetzung
-
-
 
 ##### § 2087 Zuwendung des Vermögens, eines Bruchteils oder einzelner Gegenstände
 
@@ -30869,7 +28142,6 @@ bezeichnet ist.
 Zweifel nicht anzunehmen, dass er Erbe sein soll, auch wenn er als
 Erbe bezeichnet ist.
 
-
 ##### § 2088 Einsetzung auf Bruchteile
 
 (1) Hat der Erblasser nur einen Erben eingesetzt und die Einsetzung
@@ -30880,7 +28152,6 @@ auf einen Bruchteil der Erbschaft beschränkt, so tritt in Ansehung des
 Beschränkung eines jeden auf einen Bruchteil eingesetzt hat und die
 Bruchteile das Ganze nicht erschöpfen.
 
-
 ##### § 2089 Erhöhung der Bruchteile
 
 Sollen die eingesetzten Erben nach dem Willen des Erblassers die
@@ -30888,20 +28159,17 @@ alleinigen Erben sein, so tritt, wenn jeder von ihnen auf einen
 Bruchteil der Erbschaft eingesetzt ist und die Bruchteile das Ganze
 nicht erschöpfen, eine verhältnismäßige Erhöhung der Bruchteile ein.
 
-
 ##### § 2090 Minderung der Bruchteile
 
 Ist jeder der eingesetzten Erben auf einen Bruchteil der Erbschaft
 eingesetzt und übersteigen die Bruchteile das Ganze, so tritt eine
 verhältnismäßige Minderung der Bruchteile ein.
 
-
 ##### § 2091 Unbestimmte Bruchteile
 
 Sind mehrere Erben eingesetzt, ohne dass die Erbteile bestimmt sind,
 so sind sie zu gleichen Teilen eingesetzt, soweit sich nicht aus den
 §§ 2066 bis 2069 ein anderes ergibt.
-
 
 ##### § 2092 Teilweise Einsetzung auf Bruchteile
 
@@ -30914,14 +28182,12 @@ verhältnismäßige Minderung der Bruchteile in der Weise ein, dass jeder
 der ohne Bruchteile eingesetzten Erben so viel erhält wie der mit dem
 geringsten Bruchteil bedachte Erbe.
 
-
 ##### § 2093 Gemeinschaftlicher Erbteil
 
 Sind einige von mehreren Erben auf einen und denselben Bruchteil der
 Erbschaft eingesetzt (gemeinschaftlicher Erbteil), so finden in
 Ansehung des gemeinschaftlichen Erbteils die Vorschriften der §§ 2089
 bis 2092 entsprechende Anwendung.
-
 
 ##### § 2094 Anwachsung
 
@@ -30940,7 +28206,6 @@ sind.
 
 (3) Der Erblasser kann die Anwachsung ausschließen.
 
-
 ##### § 2095 Angewachsener Erbteil
 
 Der durch Anwachsung einem Erben anfallende Erbteil gilt in Ansehung
@@ -30948,13 +28213,11 @@ der Vermächtnisse und Auflagen, mit denen dieser Erbe oder der
 wegfallende Erbe beschwert ist, sowie in Ansehung der
 Ausgleichungspflicht als besonderer Erbteil.
 
-
 ##### § 2096 Ersatzerbe
 
 Der Erblasser kann für den Fall, dass ein Erbe vor oder nach dem
 Eintritt des Erbfalls wegfällt, einen anderen als Erben einsetzen
 (Ersatzerbe).
-
 
 ##### § 2097 Auslegungsregel bei Ersatzerben
 
@@ -30962,7 +28225,6 @@ Ist jemand für den Fall, dass der zunächst berufene Erbe nicht Erbe
 sein kann, oder für den Fall, dass er nicht Erbe sein will, als
 Ersatzerbe eingesetzt, so ist im Zweifel anzunehmen, dass er für beide
 Fälle eingesetzt ist.
-
 
 ##### § 2098 Wechselseitige Einsetzung als Ersatzerben
 
@@ -30975,22 +28237,17 @@ sind.
 Erben, die auf einen gemeinschaftlichen Erbteil eingesetzt sind, im
 Zweifel als Ersatzerben für diesen Erbteil den anderen vor.
 
-
 ##### § 2099 Ersatzerbe und Anwachsung
 
 Das Recht des Ersatzerben geht dem Anwachsungsrecht vor.
 
-
 #### Titel 3 - Einsetzung eines Nacherben
-
-
 
 ##### § 2100 Nacherbe
 
 Der Erblasser kann einen Erben in der Weise einsetzen, dass dieser
 erst Erbe wird, nachdem zunächst ein anderer Erbe geworden ist
 (Nacherbe).
-
 
 ##### § 2101 Noch nicht gezeugter Nacherbe
 
@@ -31003,7 +28260,6 @@ der Eingesetzte Nacherbe werden soll, so ist die Einsetzung unwirksam.
 erst nach dem Erbfall zur Entstehung gelangt; die Vorschrift des § 84
 bleibt unberührt.
 
-
 ##### § 2102 Nacherbe und Ersatzerbe
 
 (1) Die Einsetzung als Nacherbe enthält im Zweifel auch die Einsetzung
@@ -31012,14 +28268,12 @@ als Ersatzerbe.
 (2) Ist zweifelhaft, ob jemand als Ersatzerbe oder als Nacherbe
 eingesetzt ist, so gilt er als Ersatzerbe.
 
-
 ##### § 2103 Anordnung der Herausgabe der Erbschaft
 
 Hat der Erblasser angeordnet, dass der Erbe mit dem Eintritt eines
 bestimmten Zeitpunkts oder Ereignisses die Erbschaft einem anderen
 herausgeben soll, so ist anzunehmen, dass der andere als Nacherbe
 eingesetzt ist.
-
 
 ##### § 2104 Gesetzliche Erben als Nacherben
 
@@ -31030,7 +28284,6 @@ dass als Nacherben diejenigen eingesetzt sind, welche die gesetzlichen
 Erben des Erblassers sein würden, wenn er zur Zeit des Eintritts des
 Zeitpunkts oder des Ereignisses gestorben wäre. Der Fiskus gehört
 nicht zu den gesetzlichen Erben im Sinne dieser Vorschrift.
-
 
 ##### § 2105 Gesetzliche Erben als Vorerben
 
@@ -31045,7 +28298,6 @@ die Einsetzung einer zur Zeit des Erbfalls noch nicht gezeugten Person
 oder einer zu dieser Zeit noch nicht entstandenen juristischen Person
 als Erbe nach § 2101 als Nacherbeinsetzung anzusehen ist.
 
-
 ##### § 2106 Eintritt der Nacherbfolge
 
 (1) Hat der Erblasser einen Nacherben eingesetzt, ohne den Zeitpunkt
@@ -31058,7 +28310,6 @@ an.
 dem Nacherben mit dessen Geburt an. Im Falle des § 2101 Abs. 2 tritt
 der Anfall mit der Entstehung der juristischen Person ein.
 
-
 ##### § 2107 Kinderloser Vorerbe
 
 Hat der Erblasser einem Abkömmling, der zur Zeit der Errichtung der
@@ -31067,7 +28318,6 @@ Erblasser zu dieser Zeit nicht weiß, dass er einen Abkömmling hat, für
 die Zeit nach dessen Tode einen Nacherben bestimmt, so ist anzunehmen,
 dass der Nacherbe nur für den Fall eingesetzt ist, dass der Abkömmling
 ohne Nachkommenschaft stirbt.
-
 
 ##### § 2108 Erbfähigkeit; Vererblichkeit des Nacherbrechts
 
@@ -31079,7 +28329,6 @@ Nacherbfolge, aber nach dem Eintritt des Erbfalls, so geht sein Recht
 auf seine Erben über, sofern nicht ein anderer Wille des Erblassers
 anzunehmen ist. Ist der Nacherbe unter einer aufschiebenden Bedingung
 eingesetzt, so bewendet es bei der Vorschrift des § 2074.
-
 
 ##### § 2109 Unwirksamwerden der Nacherbschaft
 
@@ -31105,7 +28354,6 @@ wirksam,
 eintreten soll, eine juristische Person, so bewendet es bei der
 dreißigjährigen Frist.
 
-
 ##### § 2110 Umfang des Nacherbrechts
 
 (1) Das Recht des Nacherben erstreckt sich im Zweifel auf einen
@@ -31113,7 +28361,6 @@ Erbteil, der dem Vorerben infolge des Wegfalls eines Miterben anfällt.
 
 (2) Das Recht des Nacherben erstreckt sich im Zweifel nicht auf ein
 dem Vorerben zugewendetes Vorausvermächtnis.
-
 
 ##### § 2111 Unmittelbare Ersetzung
 
@@ -31130,13 +28377,11 @@ entsprechende Anwendung.
 (2) Zur Erbschaft gehört auch, was der Vorerbe dem Inventar eines
 erbschaftlichen Grundstücks einverleibt.
 
-
 ##### § 2112 Verfügungsrecht des Vorerben
 
 Der Vorerbe kann über die zur Erbschaft gehörenden Gegenstände
 verfügen, soweit sich nicht aus den Vorschriften der §§ 2113 bis 2115
 ein anderes ergibt.
-
 
 ##### § 2113 Verfügungen über Grundstücke, Schiffe und Schiffsbauwerke; Schenkungen
 
@@ -31155,7 +28400,6 @@ einer auf den Anstand zu nehmenden Rücksicht entsprochen wird.
 (3) Die Vorschriften zugunsten derjenigen, welche Rechte von einem
 Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
-
 ##### § 2114 Verfügungen über Hypothekenforderungen, Grund- und Rentenschulden
 
 Gehört zur Erbschaft eine Hypothekenforderung, eine Grundschuld, eine
@@ -31168,7 +28412,6 @@ Hypothekenforderung, die Grundschuld, die Rentenschuld oder die
 Schiffshypothekenforderung finden die Vorschriften des § 2113
 Anwendung.
 
-
 ##### § 2115 Zwangsvollstreckungsverfügungen gegen Vorerben
 
 Eine Verfügung über einen Erbschaftsgegenstand, die im Wege der
@@ -31180,7 +28423,6 @@ wirksam, wenn der Anspruch eines Nachlassgläubigers oder ein an einem
 Erbschaftsgegenstand bestehendes Recht geltend gemacht wird, das im
 Falle des Eintritts der Nacherbfolge dem Nacherben gegenüber wirksam
 ist.
-
 
 ##### § 2116 Hinterlegung von Wertpapieren
 
@@ -31196,7 +28438,6 @@ gleich, die mit Blankoindossament versehen sind.
 (2) Über die hinterlegten Papiere kann der Vorerbe nur mit Zustimmung
 des Nacherben verfügen.
 
-
 ##### § 2117 Umschreibung; Umwandlung
 
 Der Vorerbe kann die Inhaberpapiere, statt sie nach § 2116 zu
@@ -31206,7 +28447,6 @@ die Papiere vom Bund oder von einem Land ausgestellt, so kann er sie
 mit der gleichen Bestimmung in Buchforderungen gegen den Bund oder das
 Land umwandeln lassen.
 
-
 ##### § 2118 Sperrvermerk im Schuldbuch
 
 Gehören zur Erbschaft Buchforderungen gegen den Bund oder ein Land, so
@@ -31214,13 +28454,11 @@ ist der Vorerbe auf Verlangen des Nacherben verpflichtet, in das
 Schuldbuch den Vermerk eintragen zu lassen, dass er über die
 Forderungen nur mit Zustimmung des Nacherben verfügen kann.
 
-
 ##### § 2119 Anlegung von Geld
 
 Geld, das nach den Regeln einer ordnungsmäßigen Wirtschaft dauernd
 anzulegen ist, darf der Vorerbe nur nach den für die Anlegung von
 Mündelgeld geltenden Vorschriften anlegen.
-
 
 ##### § 2120 Einwilligungspflicht des Nacherben
 
@@ -31231,7 +28469,6 @@ der Nacherbe dem Vorerben gegenüber verpflichtet, seine Einwilligung
 zu der Verfügung zu erteilen. Die Einwilligung ist auf Verlangen in
 öffentlich beglaubigter Form zu erklären. Die Kosten der Beglaubigung
 fallen dem Vorerben zur Last.
-
 
 ##### § 2121 Verzeichnis der Erbschaftsgegenstände
 
@@ -31251,13 +28488,11 @@ einen zuständigen Beamten oder Notar aufnehmen zu lassen.
 (4) Die Kosten der Aufnahme und der Beglaubigung fallen der Erbschaft
 zur Last.
 
-
 ##### § 2122 Feststellung des Zustands der Erbschaft
 
 Der Vorerbe kann den Zustand der zur Erbschaft gehörenden Sachen auf
 seine Kosten durch Sachverständige feststellen lassen. Das gleiche
 Recht steht dem Nacherben zu.
-
 
 ##### § 2123 Wirtschaftsplan
 
@@ -31271,7 +28506,6 @@ Kosten fallen der Erbschaft zur Last.
 (2) Das Gleiche gilt, wenn ein Bergwerk oder eine andere auf Gewinnung
 von Bodenbestandteilen gerichtete Anlage zur Erbschaft gehört.
 
-
 ##### § 2124 Erhaltungskosten
 
 (1) Der Vorerbe trägt dem Nacherben gegenüber die gewöhnlichen
@@ -31283,7 +28517,6 @@ darf, kann er aus der Erbschaft bestreiten. Bestreitet er sie aus
 seinem Vermögen, so ist der Nacherbe im Falle des Eintritts der
 Nacherbfolge zum Ersatz verpflichtet.
 
-
 ##### § 2125 Verwendungen; Wegnahmerecht
 
 (1) Macht der Vorerbe Verwendungen auf die Erbschaft, die nicht unter
@@ -31294,7 +28527,6 @@ Geschäftsführung ohne Auftrag zum Ersatz verpflichtet.
 (2) Der Vorerbe ist berechtigt, eine Einrichtung, mit der er eine zur
 Erbschaft gehörende Sache versehen hat, wegzunehmen.
 
-
 ##### § 2126 Außerordentliche Lasten
 
 Der Vorerbe hat im Verhältnis zu dem Nacherben nicht die
@@ -31302,14 +28534,12 @@ außerordentlichen Lasten zu tragen, die als auf den Stammwert der
 Erbschaftsgegenstände gelegt anzusehen sind. Auf diese Lasten findet
 die Vorschrift des § 2124 Abs. 2 Anwendung.
 
-
 ##### § 2127 Auskunftsrecht des Nacherben
 
 Der Nacherbe ist berechtigt, von dem Vorerben Auskunft über den
 Bestand der Erbschaft zu verlangen, wenn Grund zu der Annahme besteht,
 dass der Vorerbe durch seine Verwaltung die Rechte des Nacherben
 erheblich verletzt.
-
 
 ##### § 2128 Sicherheitsleistung
 
@@ -31321,7 +28551,6 @@ verlangen.
 (2) Die für die Verpflichtung des Nießbrauchers zur
 Sicherheitsleistung geltenden Vorschriften des § 1052 finden
 entsprechende Anwendung.
-
 
 ##### § 2129 Wirkung einer Entziehung der Verwaltung
 
@@ -31337,7 +28566,6 @@ Anordnung Kenntnis erlangt oder wenn ihm eine Mitteilung von der
 Anordnung zugestellt wird. Das Gleiche gilt von der Aufhebung der
 Entziehung.
 
-
 ##### § 2130 Herausgabepflicht nach dem Eintritt der Nacherbfolge, Rechenschaftspflicht
 
 (1) Der Vorerbe ist nach dem Eintritt der Nacherbfolge verpflichtet,
@@ -31349,20 +28577,17 @@ finden die Vorschriften der §§ 596a, 596b entsprechende Anwendung.
 
 (2) Der Vorerbe hat auf Verlangen Rechenschaft abzulegen.
 
-
 ##### § 2131 Umfang der Sorgfaltspflicht
 
 Der Vorerbe hat dem Nacherben gegenüber in Ansehung der Verwaltung nur
 für diejenige Sorgfalt einzustehen, welche er in eigenen
 Angelegenheiten anzuwenden pflegt.
 
-
 ##### § 2132 Keine Haftung für gewöhnliche Abnutzung
 
 Veränderungen oder Verschlechterungen von Erbschaftssachen, die durch
 ordnungsmäßige Benutzung herbeigeführt werden, hat der Vorerbe nicht
 zu vertreten.
-
 
 ##### § 2133 Ordnungswidrige oder übermäßige Fruchtziehung
 
@@ -31375,14 +28600,12 @@ beeinträchtigt werden und nicht der Wert der Früchte nach den Regeln
 einer ordnungsmäßigen Wirtschaft zur Wiederherstellung der Sache zu
 verwenden ist.
 
-
 ##### § 2134 Eigennützige Verwendung
 
 Hat der Vorerbe einen Erbschaftsgegenstand für sich verwendet, so ist
 er nach dem Eintritt der Nacherbfolge dem Nacherben gegenüber zum
 Ersatz des Wertes verpflichtet. Eine weitergehende Haftung wegen
 Verschuldens bleibt unberührt.
-
 
 ##### § 2135 Miet- und Pachtverhältnis bei der Nacherbfolge
 
@@ -31391,13 +28614,11 @@ eingetragenes Schiff vermietet oder verpachtet, so findet, wenn das
 Miet- oder Pachtverhältnis bei dem Eintritt der Nacherbfolge noch
 besteht, die Vorschrift des § 1056 entsprechende Anwendung.
 
-
 ##### § 2136 Befreiung des Vorerben
 
 Der Erblasser kann den Vorerben von den Beschränkungen und
 Verpflichtungen des § 2113 Abs. 1 und der §§ 2114, 2116 bis 2119,
 2123, 2127 bis 2131, 2133, 2134 befreien.
-
 
 ##### § 2137 Auslegungsregel für die Befreiung
 
@@ -31409,7 +28630,6 @@ Verpflichtungen als angeordnet.
 (2) Das Gleiche ist im Zweifel anzunehmen, wenn der Erblasser bestimmt
 hat, dass der Vorerbe zur freien Verfügung über die Erbschaft
 berechtigt sein soll.
-
 
 ##### § 2138 Beschränkte Herausgabepflicht
 
@@ -31423,12 +28643,10 @@ einen Erbschaftsgegenstand verfügt oder hat er die Erbschaft in der
 Absicht, den Nacherben zu benachteiligen, vermindert, so ist er dem
 Nacherben zum Schadensersatz verpflichtet.
 
-
 ##### § 2139 Wirkung des Eintritts der Nacherbfolge
 
 Mit dem Eintritt des Falles der Nacherbfolge hört der Vorerbe auf,
 Erbe zu sein, und fällt die Erbschaft dem Nacherben an.
-
 
 ##### § 2140 Verfügungen des Vorerben nach Eintritt der Nacherbfolge
 
@@ -31439,13 +28657,11 @@ muss. Ein Dritter kann sich auf diese Berechtigung nicht berufen, wenn
 er bei der Vornahme eines Rechtsgeschäfts den Eintritt kennt oder
 kennen muss.
 
-
 ##### § 2141 Unterhalt der werdenden Mutter eines Nacherben
 
 Ist bei dem Eintritt des Falles der Nacherbfolge die Geburt eines
 Nacherben zu erwarten, so findet auf den Unterhaltsanspruch der Mutter
 die Vorschrift des § 1963 entsprechende Anwendung.
-
 
 ##### § 2142 Ausschlagung der Nacherbschaft
 
@@ -31455,13 +28671,11 @@ eingetreten ist.
 (2) Schlägt der Nacherbe die Erbschaft aus, so verbleibt sie dem
 Vorerben, soweit nicht der Erblasser ein anderes bestimmt hat.
 
-
 ##### § 2143 Wiederaufleben erloschener Rechtsverhältnisse
 
 Tritt die Nacherbfolge ein, so gelten die infolge des Erbfalls durch
 Vereinigung von Recht und Verbindlichkeit oder von Recht und Belastung
 erloschenen Rechtsverhältnisse als nicht erloschen.
-
 
 ##### § 2144 Haftung des Nacherben für Nachlassverbindlichkeiten
 
@@ -31478,7 +28692,6 @@ zustatten.
 seiner Haftung auch dann berufen, wenn er den übrigen
 Nachlassgläubigern gegenüber unbeschränkt haftet.
 
-
 ##### § 2145 Haftung des Vorerben für Nachlassverbindlichkeiten
 
 (1) Der Vorerbe haftet nach dem Eintritt der Nacherbfolge für die
@@ -31493,7 +28706,6 @@ unbeschränkt ist, insoweit verweigern, als dasjenige nicht ausreicht,
 was ihm von der Erbschaft gebührt. Die Vorschriften der §§ 1990, 1991
 finden entsprechende Anwendung.
 
-
 ##### § 2146 Anzeigepflicht des Vorerben gegenüber Nachlassgläubigern
 
 (1) Der Vorerbe ist den Nachlassgläubigern gegenüber verpflichtet, den
@@ -31503,17 +28715,13 @@ Die Anzeige des Vorerben wird durch die Anzeige des Nacherben ersetzt.
 (2) Das Nachlassgericht hat die Einsicht der Anzeige jedem zu
 gestatten, der ein rechtliches Interesse glaubhaft macht.
 
-
 #### Titel 4 - Vermächtnis
-
-
 
 ##### § 2147 Beschwerter
 
 Mit einem Vermächtnis kann der Erbe oder ein Vermächtnisnehmer
 beschwert werden. Soweit nicht der Erblasser ein anderes bestimmt hat,
 ist der Erbe beschwert.
-
 
 ##### § 2148 Mehrere Beschwerte
 
@@ -31522,7 +28730,6 @@ Vermächtnis beschwert, so sind im Zweifel die Erben nach dem
 Verhältnis der Erbteile, die Vermächtnisnehmer nach dem Verhältnis des
 Wertes der Vermächtnisse beschwert.
 
-
 ##### § 2149 Vermächtnis an die gesetzlichen Erben
 
 Hat der Erblasser bestimmt, dass dem eingesetzten Erben ein
@@ -31530,12 +28737,10 @@ Erbschaftsgegenstand nicht zufallen soll, so gilt der Gegenstand als
 den gesetzlichen Erben vermacht. Der Fiskus gehört nicht zu den
 gesetzlichen Erben im Sinne dieser Vorschrift.
 
-
 ##### § 2150 Vorausvermächtnis
 
 Das einem Erben zugewendete Vermächtnis (Vorausvermächtnis) gilt als
 Vermächtnis auch insoweit, als der Erbe selbst beschwert ist.
-
 
 ##### § 2151 Bestimmungsrecht des Beschwerten oder eines Dritten bei mehreren Bedachten
 
@@ -31555,14 +28760,12 @@ Frist verstrichen ist, sofern nicht vorher die Erklärung erfolgt. Der
 Bedachte, der das Vermächtnis erhält, ist im Zweifel nicht zur Teilung
 verpflichtet.
 
-
 ##### § 2152 Wahlweise Bedachte
 
 Hat der Erblasser mehrere mit einem Vermächtnis in der Weise bedacht,
 dass nur der eine oder der andere das Vermächtnis erhalten soll, so
 ist anzunehmen, dass der Beschwerte bestimmen soll, wer von ihnen das
 Vermächtnis erhält.
-
 
 ##### § 2153 Bestimmung der Anteile
 
@@ -31575,7 +28778,6 @@ erfolgt nach § 2151 Abs. 2.
 so sind die Bedachten zu gleichen Teilen berechtigt. Die Vorschrift
 des § 2151 Abs. 3 Satz 2 findet entsprechende Anwendung.
 
-
 ##### § 2154 Wahlvermächtnis
 
 (1) Der Erblasser kann ein Vermächtnis in der Art anordnen, dass der
@@ -31586,7 +28788,6 @@ erhalten soll. Ist in einem solchen Falle die Wahl einem Dritten
 (2) Kann der Dritte die Wahl nicht treffen, so geht das Wahlrecht auf
 den Beschwerten über. Die Vorschrift des § 2151 Abs. 3 Satz 2 findet
 entsprechende Anwendung.
-
 
 ##### § 2155 Gattungsvermächtnis
 
@@ -31603,7 +28804,6 @@ Bestimmung den Verhältnissen des Bedachten offenbar nicht, so hat der
 Beschwerte so zu leisten, wie wenn der Erblasser über die Bestimmung
 der Sache keine Anordnung getroffen hätte.
 
-
 ##### § 2156 Zweckvermächtnis
 
 Der Erblasser kann bei der Anordnung eines Vermächtnisses, dessen
@@ -31612,12 +28812,10 @@ Ermessen des Beschwerten oder eines Dritten überlassen. Auf ein
 solches Vermächtnis finden die Vorschriften der §§ 315 bis 319
 entsprechende Anwendung.
 
-
 ##### § 2157 Gemeinschaftliches Vermächtnis
 
 Ist mehreren derselbe Gegenstand vermacht, so finden die Vorschriften
 der §§ 2089 bis 2093 entsprechende Anwendung.
-
 
 ##### § 2158 Anwachsung
 
@@ -31630,7 +28828,6 @@ Anwachsung zunächst unter ihnen ein.
 
 (2) Der Erblasser kann die Anwachsung ausschließen.
 
-
 ##### § 2159 Selbständigkeit der Anwachsung
 
 Der durch Anwachsung einem Vermächtnisnehmer anfallende Anteil gilt in
@@ -31638,12 +28835,10 @@ Ansehung der Vermächtnisse und Auflagen, mit denen dieser oder der
 wegfallende Vermächtnisnehmer beschwert ist, als besonderes
 Vermächtnis.
 
-
 ##### § 2160 Vorversterben des Bedachten
 
 Ein Vermächtnis ist unwirksam, wenn der Bedachte zur Zeit des Erbfalls
 nicht mehr lebt.
-
 
 ##### § 2161 Wegfall des Beschwerten
 
@@ -31652,7 +28847,6 @@ anzunehmen ist, wirksam, wenn der Beschwerte nicht Erbe oder
 Vermächtnisnehmer wird. Beschwert ist in diesem Falle derjenige,
 welchem der Wegfall des zunächst Beschwerten unmittelbar zustatten
 kommt.
-
 
 ##### § 2162 Dreißigjährige Frist für aufgeschobenes Vermächtnis
 
@@ -31667,7 +28861,6 @@ Ereignis bestimmt, so wird das Vermächtnis mit dem Ablauf von 30
 Jahren nach dem Erbfall unwirksam, wenn nicht vorher der Bedachte
 gezeugt oder das Ereignis eingetreten ist, durch das seine
 Persönlichkeit bestimmt wird.
-
 
 ##### § 2163 Ausnahmen von der dreißigjährigen Frist
 
@@ -31691,7 +28884,6 @@ Ablauf von 30 Jahren wirksam:
 Ereignis eintreten soll, eine juristische Person, so bewendet es bei
 der dreißigjährigen Frist.
 
-
 ##### § 2164 Erstreckung auf Zubehör und Ersatzansprüche
 
 (1) Das Vermächtnis einer Sache erstreckt sich im Zweifel auf das zur
@@ -31701,7 +28893,6 @@ Zeit des Erbfalls vorhandene Zubehör.
 Vermächtnisses erfolgten Beschädigung der Sache einen Anspruch auf
 Ersatz der Minderung des Wertes, so erstreckt sich im Zweifel das
 Vermächtnis auf diesen Anspruch.
-
 
 ##### § 2165 Belastungen
 
@@ -31715,7 +28906,6 @@ Vermächtnis auf diesen Anspruch.
 oder Rentenschuld, die dem Erblasser selbst zusteht, so ist aus den
 Umständen zu entnehmen, ob die Hypothek, Grundschuld oder Rentenschuld
 als mitvermacht zu gelten hat.
-
 
 ##### § 2166 Belastung mit einer Hypothek
 
@@ -31737,7 +28927,6 @@ Berichtigung nicht von dem Dritten erlangen kann.
 (3) Auf eine Hypothek der in § 1190 bezeichneten Art finden diese
 Vorschriften keine Anwendung.
 
-
 ##### § 2167 Belastung mit einer Gesamthypothek
 
 Sind neben dem vermachten Grundstück andere zur Erbschaft gehörende
@@ -31746,7 +28935,6 @@ Grundstücke mit der Hypothek belastet, so beschränkt sich die in §
 Teil der Schuld, der dem Verhältnis des Wertes des vermachten
 Grundstücks zu dem Werte der sämtlichen Grundstücke entspricht. Der
 Wert wird nach § 2166 Abs. 1 Satz 2 berechnet.
-
 
 ##### § 2168 Belastung mit einer Gesamtgrundschuld
 
@@ -31767,12 +28955,10 @@ einem Rechtsvorgänger des Eigentümers zur Befriedigung des Gläubigers
 verpflichtet ist, die Vorschriften des § 2166 Abs. 1 und des § 2167
 entsprechende Anwendung.
 
-
 ##### § 2168a Anwendung auf Schiffe, Schiffsbauwerke und Schiffshypotheken
 
 § 2165 Abs. 2, §§ 2166, 2167 gelten sinngemäß für eingetragene Schiffe
 und Schiffsbauwerke und für Schiffshypotheken.
-
 
 ##### § 2169 Vermächtnis fremder Gegenstände
 
@@ -31794,7 +28980,6 @@ als vermacht.
 (4) Zur Erbschaft gehört im Sinne des Absatzes 1 ein Gegenstand nicht,
 wenn der Erblasser zu dessen Veräußerung verpflichtet ist.
 
-
 ##### § 2170 Verschaffungsvermächtnis
 
 (1) Ist das Vermächtnis eines Gegenstands, der zur Zeit des Erbfalls
@@ -31805,7 +28990,6 @@ Beschwerte den Gegenstand dem Bedachten zu verschaffen.
 Wert zu entrichten. Ist die Verschaffung nur mit unverhältnismäßigen
 Aufwendungen möglich, so kann sich der Beschwerte durch Entrichtung
 des Wertes befreien.
-
 
 ##### § 2171 Unmöglichkeit, gesetzliches Verbot
 
@@ -31823,7 +29007,6 @@ ist, unter einer anderen aufschiebenden Bedingung oder unter
 Bestimmung eines Anfangstermins zugewendet, so ist das Vermächtnis
 gültig, wenn die Unmöglichkeit vor dem Eintritt der Bedingung oder des
 Termins behoben wird.
-
 
 ##### § 2172 Verbindung, Vermischung, Vermengung der vermachten Sache
 
@@ -31843,7 +29026,6 @@ so gilt im Zweifel dieses Recht als vermacht. Im Falle der
 Verarbeitung oder Umbildung durch einen anderen als den Erblasser
 bewendet es bei der Vorschrift des § 2169 Abs. 3.
 
-
 ##### § 2173 Forderungsvermächtnis
 
 Hat der Erblasser eine ihm zustehende Forderung vermacht, so ist, wenn
@@ -31854,12 +29036,10 @@ auf die Zahlung einer Geldsumme gerichtet, so gilt im Zweifel die
 entsprechende Geldsumme als vermacht, auch wenn sich eine solche in
 der Erbschaft nicht vorfindet.
 
-
 ##### § 2174 Vermächtnisanspruch
 
 Durch das Vermächtnis wird für den Bedachten das Recht begründet, von
 dem Beschwerten die Leistung des vermachten Gegenstands zu fordern.
-
 
 ##### § 2175 Wiederaufleben erloschener Rechtsverhältnisse
 
@@ -31869,13 +29049,11 @@ belastet ist, so gelten die infolge des Erbfalls durch Vereinigung von
 Recht und Verbindlichkeit oder von Recht und Belastung erloschenen
 Rechtsverhältnisse in Ansehung des Vermächtnisses als nicht erloschen.
 
-
 ##### § 2176 Anfall des Vermächtnisses
 
 Die Forderung des Vermächtnisnehmers kommt, unbeschadet des Rechts,
 das Vermächtnis auszuschlagen, zur Entstehung (Anfall des
 Vermächtnisses) mit dem Erbfall.
-
 
 ##### § 2177 Anfall bei einer Bedingung oder Befristung
 
@@ -31883,7 +29061,6 @@ Ist das Vermächtnis unter einer aufschiebenden Bedingung oder unter
 Bestimmung eines Anfangstermins angeordnet und tritt die Bedingung
 oder der Termin erst nach dem Erbfall ein, so erfolgt der Anfall des
 Vermächtnisses mit dem Eintritt der Bedingung oder des Termins.
-
 
 ##### § 2178 Anfall bei einem noch nicht erzeugten oder bestimmten Bedachten
 
@@ -31893,14 +29070,12 @@ Ereignis bestimmt, so erfolgt der Anfall des Vermächtnisses im
 ersteren Falle mit der Geburt, im letzteren Falle mit dem Eintritt des
 Ereignisses.
 
-
 ##### § 2179 Schwebezeit
 
 Für die Zeit zwischen dem Erbfall und dem Anfall des Vermächtnisses
 finden in den Fällen der §§ 2177, 2178 die Vorschriften Anwendung, die
 für den Fall gelten, dass eine Leistung unter einer aufschiebenden
 Bedingung geschuldet wird.
-
 
 ##### § 2180 Annahme und Ausschlagung
 
@@ -31917,13 +29092,11 @@ wird.
 Vorschriften des § 1950, des § 1952 Abs. 1, 3 und des § 1953 Abs. 1, 2
 finden entsprechende Anwendung.
 
-
 ##### § 2181 Fälligkeit bei Beliebigkeit
 
 Ist die Zeit der Erfüllung eines Vermächtnisses dem freien Belieben
 des Beschwerten überlassen, so wird die Leistung im Zweifel mit dem
 Tode des Beschwerten fällig.
-
 
 ##### § 2182 Haftung für Rechtsmängel
 
@@ -31942,7 +29115,6 @@ Beschwerte im Zweifel nicht für die Freiheit des Grundstücks von
 Grunddienstbarkeiten, beschränkten persönlichen Dienstbarkeiten und
 Reallasten.
 
-
 ##### § 2183 Haftung für Sachmängel
 
 Ist eine nur der Gattung nach bestimmte Sache vermacht, so kann der
@@ -31955,7 +29127,6 @@ ohne dass er eine Frist zur Nacherfüllung setzen muss. Auf diese
 Ansprüche finden die für die Sachmängelhaftung beim Kauf einer Sache
 geltenden Vorschriften entsprechende Anwendung.
 
-
 ##### § 2184 Früchte; Nutzungen
 
 Ist ein bestimmter zur Erbschaft gehörender Gegenstand vermacht, so
@@ -31963,7 +29134,6 @@ hat der Beschwerte dem Vermächtnisnehmer auch die seit dem Anfall des
 Vermächtnisses gezogenen Früchte sowie das sonst auf Grund des
 vermachten Rechts Erlangte herauszugeben. Für Nutzungen, die nicht zu
 den Früchten gehören, hat der Beschwerte nicht Ersatz zu leisten.
-
 
 ##### § 2185 Ersatz von Verwendungen und Aufwendungen
 
@@ -31974,14 +29144,12 @@ Bestreitung von Lasten der Sache gemacht hat, Ersatz nach den
 Vorschriften verlangen, die für das Verhältnis zwischen dem Besitzer
 und dem Eigentümer gelten.
 
-
 ##### § 2186 Fälligkeit eines Untervermächtnisses oder einer Auflage
 
 Ist ein Vermächtnisnehmer mit einem Vermächtnis oder einer Auflage
 beschwert, so ist er zur Erfüllung erst dann verpflichtet, wenn er die
 Erfüllung des ihm zugewendeten Vermächtnisses zu verlangen berechtigt
 ist.
-
 
 ##### § 2187 Haftung des Hauptvermächtnisnehmers
 
@@ -31997,7 +29165,6 @@ Vermächtnisnehmer haften würde.
 (3) Die für die Haftung des Erben geltenden Vorschriften des § 1992
 finden entsprechende Anwendung.
 
-
 ##### § 2188 Kürzung der Beschwerungen
 
 Wird die einem Vermächtnisnehmer gebührende Leistung auf Grund der
@@ -32005,7 +29172,6 @@ Beschränkung der Haftung des Erben, wegen eines Pflichtteilsanspruchs
 oder in Gemäßheit des § 2187 gekürzt, so kann der Vermächtnisnehmer,
 sofern nicht ein anderer Wille des Erblassers anzunehmen ist, die ihm
 auferlegten Beschwerungen verhältnismäßig kürzen.
-
 
 ##### § 2189 Anordnung eines Vorrangs
 
@@ -32016,14 +29182,12 @@ oder in Gemäßheit der §§ 2187, 2188 gekürzt werden, durch Verfügung
 von Todes wegen anordnen, dass ein Vermächtnis oder eine Auflage den
 Vorrang vor den übrigen Beschwerungen haben soll.
 
-
 ##### § 2190 Ersatzvermächtnisnehmer
 
 Hat der Erblasser für den Fall, dass der zunächst Bedachte das
 Vermächtnis nicht erwirbt, den Gegenstand des Vermächtnisses einem
 anderen zugewendet, so finden die für die Einsetzung eines Ersatzerben
 geltenden Vorschriften der §§ 2097 bis 2099 entsprechende Anwendung.
-
 
 ##### § 2191 Nachvermächtnisnehmer
 
@@ -32036,17 +29200,13 @@ Vermächtnisnehmer als beschwert.
 geltenden Vorschriften des § 2102, des § 2106 Abs. 1, des § 2107 und
 des § 2110 Abs. 1 entsprechende Anwendung.
 
-
 #### Titel 5 - Auflage
-
-
 
 ##### § 2192 Anzuwendende Vorschriften
 
 Auf eine Auflage finden die für letztwillige Zuwendungen geltenden
 Vorschriften der §§ 2065, 2147, 2148, 2154 bis 2156, 2161, 2171, 2181
 entsprechende Anwendung.
-
 
 ##### § 2193 Bestimmung des Begünstigten, Vollziehungsfrist
 
@@ -32068,7 +29228,6 @@ Anwendung; zu den Beteiligten im Sinne dieser Vorschrift gehören der
 Beschwerte und diejenigen, welche die Vollziehung der Auflage zu
 verlangen berechtigt sind.
 
-
 ##### § 2194 Anspruch auf Vollziehung
 
 Die Vollziehung einer Auflage können der Erbe, der Miterbe und
@@ -32077,14 +29236,12 @@ Beschwerten unmittelbar zustatten kommen würde. Liegt die Vollziehung
 im öffentlichen Interesse, so kann auch die zuständige Behörde die
 Vollziehung verlangen.
 
-
 ##### § 2195 Verhältnis von Auflage und Zuwendung
 
 Die Unwirksamkeit einer Auflage hat die Unwirksamkeit der unter der
 Auflage gemachten Zuwendung nur zur Folge, wenn anzunehmen ist, dass
 der Erblasser die Zuwendung nicht ohne die Auflage gemacht haben
 würde.
-
 
 ##### § 2196 Unmöglichkeit der Vollziehung
 
@@ -32101,10 +29258,7 @@ Auflage, die nicht durch einen Dritten vollzogen werden kann,
 rechtskräftig verurteilt ist und die zulässigen Zwangsmittel erfolglos
 gegen ihn angewendet worden sind.
 
-
 #### Titel 6 - Testamentsvollstrecker
-
-
 
 ##### § 2197 Ernennung des Testamentsvollstreckers
 
@@ -32114,7 +29268,6 @@ Testamentsvollstrecker ernennen.
 (2) Der Erblasser kann für den Fall, dass der ernannte
 Testamentsvollstrecker vor oder nach der Annahme des Amts wegfällt,
 einen anderen Testamentsvollstrecker ernennen.
-
 
 ##### § 2198 Bestimmung des Testamentsvollstreckers durch einen Dritten
 
@@ -32127,7 +29280,6 @@ ist in öffentlich beglaubigter Form abzugeben.
 auf Antrag eines der Beteiligten von dem Nachlassgericht bestimmten
 Frist.
 
-
 ##### § 2199 Ernennung eines Mitvollstreckers oder Nachfolgers
 
 (1) Der Erblasser kann den Testamentsvollstrecker ermächtigen, einen
@@ -32137,7 +29289,6 @@ oder mehrere Mitvollstrecker zu ernennen.
 Nachfolger zu ernennen.
 
 (3) Die Ernennung erfolgt nach § 2198 Abs. 1 Satz 2.
-
 
 ##### § 2200 Ernennung durch das Nachlassgericht
 
@@ -32149,14 +29300,12 @@ die Ernennung vornehmen.
 wenn es ohne erhebliche Verzögerung und ohne unverhältnismäßige Kosten
 geschehen kann.
 
-
 ##### § 2201 Unwirksamkeit der Ernennung
 
 Die Ernennung des Testamentsvollstreckers ist unwirksam, wenn er zu
 der Zeit, zu welcher er das Amt anzutreten hat, geschäftsunfähig oder
 in der Geschäftsfähigkeit beschränkt ist oder nach § 1896 zur
 Besorgung seiner Vermögensangelegenheiten einen Betreuer erhalten hat.
-
 
 ##### § 2202 Annahme und Ablehnung des Amts
 
@@ -32173,12 +29322,10 @@ Beteiligten eine Frist zur Erklärung über die Annahme bestimmen. Mit
 dem Ablauf der Frist gilt das Amt als abgelehnt, wenn nicht die
 Annahme vorher erklärt wird.
 
-
 ##### § 2203 Aufgabe des Testamentsvollstreckers
 
 Der Testamentsvollstrecker hat die letztwilligen Verfügungen des
 Erblassers zur Ausführung zu bringen.
-
 
 ##### § 2204 Auseinandersetzung unter Miterben
 
@@ -32189,7 +29336,6 @@ zu bewirken.
 (2) Der Testamentsvollstrecker hat die Erben über den
 Auseinandersetzungsplan vor der Ausführung zu hören.
 
-
 ##### § 2205 Verwaltung des Nachlasses, Verfügungsbefugnis
 
 Der Testamentsvollstrecker hat den Nachlass zu verwalten. Er ist
@@ -32197,7 +29343,6 @@ insbesondere berechtigt, den Nachlass in Besitz zu nehmen und über die
 Nachlassgegenstände zu verfügen. Zu unentgeltlichen Verfügungen ist er
 nur berechtigt, soweit sie einer sittlichen Pflicht oder einer auf den
 Anstand zu nehmenden Rücksicht entsprechen.
-
 
 ##### § 2206 Eingehung von Verbindlichkeiten
 
@@ -32212,7 +29357,6 @@ seine Einwilligung zu erteilen, unbeschadet des Rechts, die
 Beschränkung seiner Haftung für die Nachlassverbindlichkeiten geltend
 zu machen.
 
-
 ##### § 2207 Erweiterte Verpflichtungsbefugnis
 
 Der Erblasser kann anordnen, dass der Testamentsvollstrecker in der
@@ -32220,7 +29364,6 @@ Eingehung von Verbindlichkeiten für den Nachlass nicht beschränkt sein
 soll. Der Testamentsvollstrecker ist auch in einem solchen Falle zu
 einem Schenkungsversprechen nur nach Maßgabe des § 2205 Satz 3
 berechtigt.
-
 
 ##### § 2208 Beschränkung der Rechte des Testamentsvollstreckers, Ausführung durch den Erben
 
@@ -32236,7 +29379,6 @@ selbst zur Ausführung zu bringen, so kann er die Ausführung von dem
 Erben verlangen, sofern nicht ein anderer Wille des Erblassers
 anzunehmen ist.
 
-
 ##### § 2209 Dauervollstreckung
 
 Der Erblasser kann einem Testamentsvollstrecker die Verwaltung des
@@ -32247,7 +29389,6 @@ fortzuführen hat. Im Zweifel ist anzunehmen, dass einem solchen
 Testamentsvollstrecker die in § 2207 bezeichnete Ermächtigung erteilt
 ist.
 
-
 ##### § 2210 Dreißigjährige Frist für die Dauervollstreckung
 
 Eine nach § 2209 getroffene Anordnung wird unwirksam, wenn seit dem
@@ -32257,7 +29398,6 @@ Testamentsvollstreckers oder bis zum Eintritt eines anderen
 Ereignisses in der Person des einen oder des anderen fortdauern soll.
 Die Vorschrift des § 2163 Abs. 2 findet entsprechende Anwendung.
 
-
 ##### § 2211 Verfügungsbeschränkung des Erben
 
 (1) Über einen der Verwaltung des Testamentsvollstreckers
@@ -32266,13 +29406,11 @@ unterliegenden Nachlassgegenstand kann der Erbe nicht verfügen.
 (2) Die Vorschriften zugunsten derjenigen, welche Rechte von einem
 Nichtberechtigten herleiten, finden entsprechende Anwendung.
 
-
 ##### § 2212 Gerichtliche Geltendmachung von der Testamentsvollstreckung unterliegenden Rechten
 
 Ein der Verwaltung des Testamentsvollstreckers unterliegendes Recht
 kann nur von dem Testamentsvollstrecker gerichtlich geltend gemacht
 werden.
-
 
 ##### § 2213 Gerichtliche Geltendmachung von Ansprüchen gegen den Nachlass
 
@@ -32292,13 +29430,11 @@ macht, kann den Anspruch auch gegen den Testamentsvollstrecker dahin
 geltend machen, dass dieser die Zwangsvollstreckung in die seiner
 Verwaltung unterliegenden Nachlassgegenstände dulde.
 
-
 ##### § 2214 Gläubiger des Erben
 
 Gläubiger des Erben, die nicht zu den Nachlassgläubigern gehören,
 können sich nicht an die der Verwaltung des Testamentsvollstreckers
 unterliegenden Nachlassgegenstände halten.
-
 
 ##### § 2215 Nachlassverzeichnis
 
@@ -32323,7 +29459,6 @@ durch einen zuständigen Beamten oder Notar aufnehmen zu lassen.
 (5) Die Kosten der Aufnahme und der Beglaubigung fallen dem Nachlass
 zur Last.
 
-
 ##### § 2216 Ordnungsmäßige Verwaltung des Nachlasses, Befolgung von Anordnungen
 
 (1) Der Testamentsvollstrecker ist zur ordnungsmäßigen Verwaltung des
@@ -32336,7 +29471,6 @@ Testamentsvollstreckers oder eines anderen Beteiligten von dem
 Nachlassgericht außer Kraft gesetzt werden, wenn ihre Befolgung den
 Nachlass erheblich gefährden würde. Das Gericht soll vor der
 Entscheidung, soweit tunlich, die Beteiligten hören.
-
 
 ##### § 2217 Überlassung von Nachlassgegenständen
 
@@ -32352,7 +29486,6 @@ Vermächtnisse oder Auflagen kann der Testamentsvollstrecker die
 Berichtigung der Verbindlichkeiten oder für die Vollziehung der
 Vermächtnisse oder Auflagen Sicherheit leistet.
 
-
 ##### § 2218 Rechtsverhältnis zum Erben; Rechnungslegung
 
 (1) Auf das Rechtsverhältnis zwischen dem Testamentsvollstrecker und
@@ -32362,7 +29495,6 @@ Anwendung.
 
 (2) Bei einer länger dauernden Verwaltung kann der Erbe jährlich
 Rechnungslegung verlangen.
-
 
 ##### § 2219 Haftung des Testamentsvollstreckers
 
@@ -32375,19 +29507,16 @@ verantwortlich.
 (2) Mehrere Testamentsvollstrecker, denen ein Verschulden zur Last
 fällt, haften als Gesamtschuldner.
 
-
 ##### § 2220 Zwingendes Recht
 
 Der Erblasser kann den Testamentsvollstrecker nicht von den ihm nach
 den §§ 2215, 2216, 2218, 2219 obliegenden Verpflichtungen befreien.
-
 
 ##### § 2221 Vergütung des Testamentsvollstreckers
 
 Der Testamentsvollstrecker kann für die Führung seines Amts eine
 angemessene Vergütung verlangen, sofern nicht der Erblasser ein
 anderes bestimmt hat.
-
 
 ##### § 2222 Nacherbenvollstrecker
 
@@ -32396,13 +29525,11 @@ ernennen, dass dieser bis zu dem Eintritt einer angeordneten
 Nacherbfolge die Rechte des Nacherben ausübt und dessen Pflichten
 erfüllt.
 
-
 ##### § 2223 Vermächtnisvollstrecker
 
 Der Erblasser kann einen Testamentsvollstrecker auch zu dem Zwecke
 ernennen, dass dieser für die Ausführung der einem Vermächtnisnehmer
 auferlegten Beschwerungen sorgt.
-
 
 ##### § 2224 Mehrere Testamentsvollstrecker
 
@@ -32416,20 +29543,17 @@ anderen Testamentsvollstrecker diejenigen Maßregeln zu treffen, welche
 zur Erhaltung eines der gemeinschaftlichen Verwaltung unterliegenden
 Nachlassgegenstands notwendig sind.
 
-
 ##### § 2225 Erlöschen des Amts des Testamentsvollstreckers
 
 Das Amt des Testamentsvollstreckers erlischt, wenn er stirbt oder wenn
 ein Fall eintritt, in welchem die Ernennung nach § 2201 unwirksam sein
 würde.
 
-
 ##### § 2226 Kündigung durch den Testamentsvollstrecker
 
 Der Testamentsvollstrecker kann das Amt jederzeit kündigen. Die
 Kündigung erfolgt durch Erklärung gegenüber dem Nachlassgericht. Die
 Vorschrift des § 671 Abs. 2, 3 findet entsprechende Anwendung.
-
 
 ##### § 2227 Entlassung des Testamentsvollstreckers
 
@@ -32438,17 +29562,13 @@ der Beteiligten entlassen, wenn ein wichtiger Grund vorliegt; ein
 solcher Grund ist insbesondere grobe Pflichtverletzung oder
 Unfähigkeit zur ordnungsmäßigen Geschäftsführung.
 
-
 ##### § 2228 Akteneinsicht
 
 Das Nachlassgericht hat die Einsicht der nach § 2198 Abs. 1 Satz 2, §
 2199 Abs. 3, § 2202 Abs. 2, § 2226 Satz 2 abgegebenen Erklärungen
 jedem zu gestatten, der ein rechtliches Interesse glaubhaft macht.
 
-
 #### Titel 7 - Errichtung und Aufhebung eines Testaments
-
-
 
 ##### § 2229 Testierfähigkeit Minderjähriger, Testierunfähigkeit
 
@@ -32466,11 +29586,9 @@ die Bedeutung einer von ihm abgegebenen Willenserklärung einzusehen
 und nach dieser Einsicht zu handeln, kann ein Testament nicht
 errichten.
 
-
 ##### § 2230
 
 (weggefallen)
-
 
 ##### § 2231 Ordentliche Testamente
 
@@ -32481,10 +29599,6 @@ Ein Testament kann in ordentlicher Form errichtet werden
 
 2.  durch eine vom Erblasser nach § 2247 abgegebene Erklärung.
 
-
-
-
-
 ##### § 2232 Öffentliches Testament
 
 Zur Niederschrift eines Notars wird ein Testament errichtet, indem der
@@ -32492,7 +29606,6 @@ Erblasser dem Notar seinen letzten Willen erklärt oder ihm eine
 Schrift mit der Erklärung übergibt, dass die Schrift seinen letzten
 Willen enthalte. Der Erblasser kann die Schrift offen oder
 verschlossen übergeben; sie braucht nicht von ihm geschrieben zu sein.
-
 
 ##### § 2233 Sonderfälle
 
@@ -32504,10 +29617,7 @@ Schrift errichten.
 des Notars nicht im Stande, Geschriebenes zu lesen, so kann er das
 Testament nur durch eine Erklärung gegenüber dem Notar errichten.
 
-
 ##### (XXXX) §§ 2234 bis 2246 (weggefallen)
-
-
 
 ##### § 2247 Eigenhändiges Testament
 
@@ -32533,12 +29643,10 @@ sich die notwendigen Feststellungen über die Zeit der Errichtung
 anderweit treffen lassen. Dasselbe gilt entsprechend für ein
 Testament, das keine Angabe über den Ort der Errichtung enthält.
 
-
 ##### § 2248 Verwahrung des eigenhändigen Testaments
 
 Ein nach § 2247 errichtetes Testament ist auf Verlangen des Erblassers
 in besondere amtliche Verwahrung zu nehmen.
-
 
 ##### § 2249 Nottestament vor dem Bürgermeister
 
@@ -32584,7 +29692,6 @@ Testament eine zuverlässige Wiedergabe der Erklärung des Erblassers
 enthält, so steht der Formverstoß der Wirksamkeit der Beurkundung
 nicht entgegen.
 
-
 ##### § 2250 Nottestament vor drei Zeugen
 
 (1) Wer sich an einem Ort aufhält, der infolge außerordentlicher
@@ -32611,13 +29718,11 @@ die Zeugen müssen der Sprache der Niederschrift hinreichend kundig
 sein; dies soll in der Niederschrift festgestellt werden, wenn sie in
 einer anderen als der deutschen Sprache aufgenommen wird.
 
-
 ##### § 2251 Nottestament auf See
 
 Wer sich während einer Seereise an Bord eines deutschen Schiffes
 außerhalb eines inländischen Hafens befindet, kann ein Testament durch
 mündliche Erklärung vor drei Zeugen nach § 2250 Abs. 3 errichten.
-
 
 ##### § 2252 Gültigkeitsdauer der Nottestamente
 
@@ -32639,17 +29744,14 @@ Verschollenheitsgesetzes festgestellt, so behält das Testament seine
 Kraft, wenn die Frist zu der Zeit, zu welcher der Erblasser nach den
 vorhandenen Nachrichten noch gelebt hat, noch nicht verstrichen war.
 
-
 ##### § 2253 Widerruf eines Testaments
 
 Der Erblasser kann ein Testament sowie eine einzelne in einem
 Testament enthaltene Verfügung jederzeit widerrufen.
 
-
 ##### § 2254 Widerruf durch Testament
 
 Der Widerruf erfolgt durch Testament.
-
 
 ##### § 2255 Widerruf durch Vernichtung oder Veränderungen
 
@@ -32660,7 +29762,6 @@ Willenserklärung aufzuheben, ausgedrückt zu werden pflegt. Hat der
 Erblasser die Testamentsurkunde vernichtet oder in der bezeichneten
 Weise verändert, so wird vermutet, dass er die Aufhebung des
 Testaments beabsichtigt habe.
-
 
 ##### § 2256 Widerruf durch Rücknahme des Testaments aus der amtlichen Verwahrung
 
@@ -32678,13 +29779,11 @@ darf nur an den Erblasser persönlich zurückgegeben werden.
 hinterlegtes Testament; die Rückgabe ist auf die Wirksamkeit des
 Testaments ohne Einfluss.
 
-
 ##### § 2257 Widerruf des Widerrufs
 
 Wird der durch Testament erfolgte Widerruf einer letztwilligen
 Verfügung widerrufen, so ist im Zweifel die Verfügung wirksam, wie
 wenn sie nicht widerrufen worden wäre.
-
 
 ##### § 2258 Widerruf durch ein späteres Testament
 
@@ -32696,9 +29795,7 @@ Widerspruch steht.
 frühere Testament in gleicher Weise wirksam, wie wenn es nicht
 aufgehoben worden wäre.
 
-
 ##### (XXXX) §§ 2258a und 2258b (weggefallen)
-
 
 ##### § 2259 Ablieferungspflicht
 
@@ -32713,49 +29810,39 @@ Erblassers an das Nachlassgericht abzuliefern. Das Nachlassgericht
 hat, wenn es von dem Testament Kenntnis erlangt, die Ablieferung zu
 veranlassen.
 
-
 ##### § 2260 (weggefallen)
 
 -
-
 
 ##### § 2261 (weggefallen)
 
 -
 
-
 ##### § 2262 (weggefallen)
 
 -
-
 
 ##### § 2263 Nichtigkeit eines Eröffnungsverbots
 
 Eine Anordnung des Erblassers, durch die er verbietet, das Testament
 alsbald nach seinem Tod zu eröffnen, ist nichtig.
 
-
 ##### § 2264 (weggefallen)
 
 -
 
-
 #### Titel 8 - Gemeinschaftliches Testament
-
-
 
 ##### § 2265 Errichtung durch Ehegatten
 
 Ein gemeinschaftliches Testament kann nur von Ehegatten errichtet
 werden.
 
-
 ##### § 2266 Gemeinschaftliches Nottestament
 
 Ein gemeinschaftliches Testament kann nach den §§ 2249, 2250 auch dann
 errichtet werden, wenn die dort vorgesehenen Voraussetzungen nur bei
 einem der Ehegatten vorliegen.
-
 
 ##### § 2267 Gemeinschaftliches eigenhändiges Testament
 
@@ -32767,7 +29854,6 @@ mitunterzeichnende Ehegatte soll hierbei angeben, zu welcher Zeit
 (Tag, Monat und Jahr) und an welchem Ort er seine Unterschrift
 beigefügt hat.
 
-
 ##### § 2268 Wirkung der Ehenichtigkeit oder -auflösung
 
 (1) Ein gemeinschaftliches Testament ist in den Fällen des § 2077
@@ -32777,7 +29863,6 @@ seinem ganzen Inhalt nach unwirksam.
 liegen die Voraussetzungen des § 2077 Abs. 1 Satz 2 oder 3 vor, so
 bleiben die Verfügungen insoweit wirksam, als anzunehmen ist, dass sie
 auch für diesen Fall getroffen sein würden.
-
 
 ##### § 2269 Gegenseitige Einsetzung
 
@@ -32792,7 +29877,6 @@ eingesetzt ist.
 angeordnet, das nach dem Tode des Überlebenden erfüllt werden soll, so
 ist im Zweifel anzunehmen, dass das Vermächtnis dem Bedachten erst mit
 dem Tode des Überlebenden anfallen soll.
-
 
 ##### § 2270 Wechselbezügliche Verfügungen
 
@@ -32811,7 +29895,6 @@ ihm sonst nahe steht.
 
 (3) Auf andere Verfügungen als Erbeinsetzungen, Vermächtnisse oder
 Auflagen findet die Vorschrift des Absatzes 1 keine Anwendung.
-
 
 ##### § 2271 Widerruf wechselbezüglicher Verfügungen
 
@@ -32832,26 +29915,20 @@ ist der Überlebende zur Aufhebung nach Maßgabe des § 2294 und des §
 eines der Ehegatten bedacht, so findet die Vorschrift des § 2289 Abs.
 2 entsprechende Anwendung.
 
-
 ##### § 2272 Rücknahme aus amtlicher Verwahrung
 
 Ein gemeinschaftliches Testament kann nach § 2256 nur von beiden
 Ehegatten zurückgenommen werden.
 
-
 ##### § 2273 (weggefallen)
 
 -
 
-
 ### Abschnitt 4 - Erbvertrag
-
-
 
 #### § 2274 Persönlicher Abschluss
 
 Der Erblasser kann einen Erbvertrag nur persönlich schließen.
-
 
 #### § 2275 Voraussetzungen
 
@@ -32867,7 +29944,6 @@ ist auch die Genehmigung des Familiengerichts erforderlich.
 (3) Die Vorschriften des Absatzes 2 gelten entsprechend für Verlobte,
 auch im Sinne des Lebenspartnerschaftsgesetzes.
 
-
 #### § 2276 Form
 
 (1) Ein Erbvertrag kann nur zur Niederschrift eines Notars bei
@@ -32880,11 +29956,9 @@ der Vertragschließenden.
 der mit einem Ehevertrag in derselben Urkunde verbunden wird, genügt
 die für den Ehevertrag vorgeschriebene Form.
 
-
 #### § 2277 (weggefallen)
 
 -
-
 
 #### § 2278 Zulässige vertragsmäßige Verfügungen
 
@@ -32893,7 +29967,6 @@ vertragsmäßige Verfügungen von Todes wegen treffen.
 
 (2) Andere Verfügungen als Erbeinsetzungen, Vermächtnisse und Auflagen
 können vertragsmäßig nicht getroffen werden.
-
 
 #### § 2279 Vertragsmäßige Zuwendungen und Auflagen; Anwendung von § 2077
 
@@ -32906,7 +29979,6 @@ Ehegatten, Lebenspartnern oder Verlobten (auch im Sinne des
 Lebenspartnerschaftsgesetzes) auch insoweit, als ein Dritter bedacht
 ist.
 
-
 #### § 2280 Anwendung von § 2269
 
 Haben Ehegatten oder Lebenspartner in einem Erbvertrag, durch den sie
@@ -32915,7 +29987,6 @@ sich gegenseitig als Erben einsetzen, bestimmt, dass nach dem Tode des
 oder ein Vermächtnis angeordnet, das nach dem Tode des Überlebenden zu
 erfüllen ist, so findet die Vorschrift des § 2269 entsprechende
 Anwendung.
-
 
 #### § 2281 Anfechtung durch den Erblasser
 
@@ -32929,7 +30000,6 @@ eines Dritten getroffene Verfügung von dem Erblasser angefochten
 werden, so ist die Anfechtung dem Nachlassgericht gegenüber zu
 erklären. Das Nachlassgericht soll die Erklärung dem Dritten
 mitteilen.
-
 
 #### § 2282 Vertretung, Form der Anfechtung
 
@@ -32945,7 +30015,6 @@ Familiengerichts erforderlich, ist der gesetzliche Vertreter ein
 Betreuer, die des Betreuungsgerichts.
 
 (3) Die Anfechtungserklärung bedarf der notariellen Beurkundung.
-
 
 #### § 2283 Anfechtungsfrist
 
@@ -32964,13 +30033,11 @@ Erbvertrag nicht rechtzeitig angefochten, so kann nach dem Wegfall der
 Geschäftsunfähigkeit der Erblasser selbst den Erbvertrag in gleicher
 Weise anfechten, wie wenn er ohne gesetzlichen Vertreter gewesen wäre.
 
-
 #### § 2284 Bestätigung
 
 Die Bestätigung eines anfechtbaren Erbvertrags kann nur durch den
 Erblasser persönlich erfolgen. Ist der Erblasser in der
 Geschäftsfähigkeit beschränkt, so ist die Bestätigung ausgeschlossen.
-
 
 #### § 2285 Anfechtung durch Dritte
 
@@ -32978,12 +30045,10 @@ Die in § 2080 bezeichneten Personen können den Erbvertrag auf Grund
 der §§ 2078, 2079 nicht mehr anfechten, wenn das Anfechtungsrecht des
 Erblassers zur Zeit des Erbfalls erloschen ist.
 
-
 #### § 2286 Verfügungen unter Lebenden
 
 Durch den Erbvertrag wird das Recht des Erblassers, über sein Vermögen
 durch Rechtsgeschäft unter Lebenden zu verfügen, nicht beschränkt.
-
 
 #### § 2287 Den Vertragserben beeinträchtigende Schenkungen
 
@@ -32994,7 +30059,6 @@ Herausgabe des Geschenks nach den Vorschriften über die Herausgabe
 einer ungerechtfertigten Bereicherung fordern.
 
 (2) Die Verjährungsfrist des Anspruchs beginnt mit dem Erbfall.
-
 
 #### § 2288 Beeinträchtigung des Vermächtnisnehmers
 
@@ -33013,7 +30077,6 @@ die Belastung schenkweise erfolgt, so steht dem Bedachten, soweit er
 Ersatz nicht von dem Erben erlangen kann, der im § 2287 bestimmte
 Anspruch gegen den Beschenkten zu.
 
-
 #### § 2289 Wirkung des Erbvertrags auf letztwillige Verfügungen; Anwendung von § 2338
 
 (1) Durch den Erbvertrag wird eine frühere letztwillige Verfügung des
@@ -33025,7 +30088,6 @@ Vorschrift des § 2297.
 (2) Ist der Bedachte ein pflichtteilsberechtigter Abkömmling des
 Erblassers, so kann der Erblasser durch eine spätere letztwillige
 Verfügung die nach § 2338 zulässigen Anordnungen treffen.
-
 
 #### § 2290 Aufhebung durch Vertrag
 
@@ -33048,7 +30110,6 @@ erfasst, ist die Genehmigung des Betreuungsgerichts erforderlich.
 (4) Der Vertrag bedarf der in § 2276 für den Erbvertrag
 vorgeschriebenen Form.
 
-
 #### § 2291 Aufhebung durch Testament
 
 (1) Eine vertragsmäßige Verfügung, durch die ein Vermächtnis oder eine
@@ -33060,7 +30121,6 @@ des anderen Vertragschließenden erforderlich; die Vorschrift des §
 (2) Die Zustimmungserklärung bedarf der notariellen Beurkundung; die
 Zustimmung ist unwiderruflich.
 
-
 #### § 2292 Aufhebung durch gemeinschaftliches Testament
 
 Ein zwischen Ehegatten oder Lebenspartnern geschlossener Erbvertrag
@@ -33068,12 +30128,10 @@ kann auch durch ein gemeinschaftliches Testament der Ehegatten oder
 Lebenspartner aufgehoben werden; die Vorschrift des § 2290 Abs. 3
 findet Anwendung.
 
-
 #### § 2293 Rücktritt bei Vorbehalt
 
 Der Erblasser kann von dem Erbvertrag zurücktreten, wenn er sich den
 Rücktritt im Vertrag vorbehalten hat.
-
 
 #### § 2294 Rücktritt bei Verfehlungen des Bedachten
 
@@ -33084,7 +30142,6 @@ Bedachte nicht zu den Pflichtteilsberechtigten gehört, zu der
 Entziehung berechtigen würde, wenn der Bedachte ein Abkömmling des
 Erblassers wäre.
 
-
 #### § 2295 Rücktritt bei Aufhebung der Gegenverpflichtung
 
 Der Erblasser kann von einer vertragsmäßigen Verfügung zurücktreten,
@@ -33093,7 +30150,6 @@ Verpflichtung des Bedachten, dem Erblasser für dessen Lebenszeit
 wiederkehrende Leistungen zu entrichten, insbesondere Unterhalt zu
 gewähren, getroffen ist und die Verpflichtung vor dem Tode des
 Erblassers aufgehoben wird.
-
 
 #### § 2296 Vertretung, Form des Rücktritts
 
@@ -33104,14 +30160,12 @@ Zustimmung seines gesetzlichen Vertreters.
 (2) Der Rücktritt erfolgt durch Erklärung gegenüber dem anderen
 Vertragschließenden. Die Erklärung bedarf der notariellen Beurkundung.
 
-
 #### § 2297 Rücktritt durch Testament
 
 Soweit der Erblasser zum Rücktritt berechtigt ist, kann er nach dem
 Tode des anderen Vertragschließenden die vertragsmäßige Verfügung
 durch Testament aufheben. In den Fällen des § 2294 findet die
 Vorschrift des § 2336 Abs. 2 und 3 entsprechende Anwendung.
-
 
 #### § 2298 Gegenseitiger Erbvertrag
 
@@ -33130,7 +30184,6 @@ Testament aufheben.
 finden keine Anwendung, wenn ein anderer Wille der Vertragschließenden
 anzunehmen ist.
 
-
 #### § 2299 Einseitige Verfügungen
 
 (1) Jeder der Vertragschließenden kann in dem Erbvertrag einseitig
@@ -33145,7 +30198,6 @@ aufgehoben wird.
 Vertrag aufgehoben, so tritt die Verfügung außer Kraft, sofern nicht
 ein anderer Wille des Erblassers anzunehmen ist.
 
-
 #### § 2300 Anwendung der §§ 2259 und 2263; Rücknahme aus der amtlichen oder notariellen Verwahrung
 
 (1) Die §§ 2259 und 2263 sind auf den Erbvertrag entsprechend
@@ -33158,7 +30210,6 @@ alle Vertragsschließenden gemeinschaftlich erfolgen; die Vorschrift
 des § 2290 Abs. 1 Satz 2, Abs. 2 und 3 findet Anwendung. Wird ein
 Erbvertrag nach den Sätzen 1 und 2 zurückgenommen, gilt § 2256 Abs. 1
 entsprechend.
-
 
 #### § 2301 Schenkungsversprechen von Todes wegen
 
@@ -33173,17 +30224,13 @@ bezeichneten Art.
 zugewendeten Gegenstands, so finden die Vorschriften über Schenkungen
 unter Lebenden Anwendung.
 
-
 #### § 2302 Unbeschränkbare Testierfreiheit
 
 Ein Vertrag, durch den sich jemand verpflichtet, eine Verfügung von
 Todes wegen zu errichten oder nicht zu errichten, aufzuheben oder
 nicht aufzuheben, ist nichtig.
 
-
 ### Abschnitt 5 - Pflichtteil
-
-
 
 #### § 2303 Pflichtteilsberechtigte; Höhe des Pflichtteils
 
@@ -33197,12 +30244,10 @@ Erblassers zu, wenn sie durch Verfügung von Todes wegen von der
 Erbfolge ausgeschlossen sind. Die Vorschrift des § 1371 bleibt
 unberührt.
 
-
 #### § 2304 Auslegungsregel
 
 Die Zuwendung des Pflichtteils ist im Zweifel nicht als Erbeinsetzung
 anzusehen.
-
 
 #### § 2305 Zusatzpflichtteil
 
@@ -33212,7 +30257,6 @@ Pflichtteilsberechtigte von den Miterben als Pflichtteil den Wert des
 an der Hälfte fehlenden Teils verlangen. Bei der Berechnung des Wertes
 bleiben Beschränkungen und Beschwerungen der in § 2306 bezeichneten
 Art außer Betracht.
-
 
 #### § 2306 Beschränkungen und Beschwerungen
 
@@ -33226,7 +30270,6 @@ der Beschränkung oder der Beschwerung Kenntnis erlangt.
 
 (2) Einer Beschränkung der Erbeinsetzung steht es gleich, wenn der
 Pflichtteilsberechtigte als Nacherbe eingesetzt ist.
-
 
 #### § 2307 Zuwendung eines Vermächtnisses
 
@@ -33243,7 +30286,6 @@ Erklärung über die Annahme des Vermächtnisses auffordern. Mit dem
 Ablauf der Frist gilt das Vermächtnis als ausgeschlagen, wenn nicht
 vorher die Annahme erklärt wird.
 
-
 #### § 2308 Anfechtung der Ausschlagung
 
 (1) Hat ein Pflichtteilsberechtigter, der als Erbe oder als
@@ -33258,14 +30300,12 @@ die für die Anfechtung der Ausschlagung einer Erbschaft geltenden
 Vorschriften entsprechende Anwendung. Die Anfechtung erfolgt durch
 Erklärung gegenüber dem Beschwerten.
 
-
 #### § 2309 Pflichtteilsrecht der Eltern und entfernteren Abkömmlinge
 
 Entferntere Abkömmlinge und die Eltern des Erblassers sind insoweit
 nicht pflichtteilsberechtigt, als ein Abkömmling, der sie im Falle der
 gesetzlichen Erbfolge ausschließen würde, den Pflichtteil verlangen
 kann oder das ihm Hinterlassene annimmt.
-
 
 #### § 2310 Feststellung des Erbteils für die Berechnung des Pflichtteils
 
@@ -33276,7 +30316,6 @@ Erbschaft ausgeschlagen haben oder für erbunwürdig erklärt sind. Wer
 durch Erbverzicht von der gesetzlichen Erbfolge ausgeschlossen ist,
 wird nicht mitgezählt.
 
-
 #### § 2311 Wert des Nachlasses
 
 (1) Der Berechnung des Pflichtteils wird der Bestand und der Wert des
@@ -33286,7 +30325,6 @@ bleibt der dem überlebenden Ehegatten gebührende Voraus außer Ansatz.
 
 (2) Der Wert ist, soweit erforderlich, durch Schätzung zu ermitteln.
 Eine vom Erblasser getroffene Wertbestimmung ist nicht maßgebend.
-
 
 #### § 2312 Wert eines Landguts
 
@@ -33306,7 +30344,6 @@ Absatz 1 Satz 2 bestimmter Wert zugrunde gelegt werden soll.
 Landgut erwirbt, zu den in § 2303 bezeichneten
 pflichtteilsberechtigten Personen gehört.
 
-
 #### § 2313 Ansatz bedingter, ungewisser oder unsicherer Rechte; Feststellungspflicht des Erben
 
 (1) Bei der Feststellung des Wertes des Nachlasses bleiben Rechte und
@@ -33324,7 +30361,6 @@ verpflichtet, für die Feststellung eines ungewissen und für die
 Verfolgung eines unsicheren Rechts zu sorgen, soweit es einer
 ordnungsmäßigen Verwaltung entspricht.
 
-
 #### § 2314 Auskunftspflicht des Erben
 
 (1) Ist der Pflichtteilsberechtigte nicht Erbe, so hat ihm der Erbe
@@ -33337,7 +30373,6 @@ Verzeichnis durch die zuständige Behörde oder durch einen zuständigen
 Beamten oder Notar aufgenommen wird.
 
 (2) Die Kosten fallen dem Nachlass zur Last.
-
 
 #### § 2315 Anrechnung von Zuwendungen auf den Pflichtteil
 
@@ -33352,7 +30387,6 @@ welcher die Zuwendung erfolgt ist.
 
 (3) Ist der Pflichtteilsberechtigte ein Abkömmling des Erblassers, so
 findet die Vorschrift des § 2051 Abs. 1 entsprechende Anwendung.
-
 
 #### § 2316 Ausgleichungspflicht
 
@@ -33379,13 +30413,11 @@ Berücksichtigung ausschließen.
 nach § 2315 auf den Pflichtteil anzurechnen, so kommt sie auf diesen
 nur mit der Hälfte des Wertes zur Anrechnung.
 
-
 #### § 2317 Entstehung und Übertragbarkeit des Pflichtteilsanspruchs
 
 (1) Der Anspruch auf den Pflichtteil entsteht mit dem Erbfall.
 
 (2) Der Anspruch ist vererblich und übertragbar.
-
 
 #### § 2318 Pflichtteilslast bei Vermächtnissen und Auflagen
 
@@ -33401,14 +30433,12 @@ Kürzung nur soweit zulässig, dass ihm der Pflichtteil verbleibt.
 Pflichtteilslast das Vermächtnis und die Auflage soweit kürzen, dass
 ihm sein eigener Pflichtteil verbleibt.
 
-
 #### § 2319 Pflichtteilsberechtigter Miterbe
 
 Ist einer von mehreren Erben selbst pflichtteilsberechtigt, so kann er
 nach der Teilung die Befriedigung eines anderen
 Pflichtteilsberechtigten soweit verweigern, dass ihm sein eigener
 Pflichtteil verbleibt. Für den Ausfall haften die übrigen Erben.
-
 
 #### § 2320 Pflichtteilslast des an die Stelle des Pflichtteilsberechtigten getretenen Erben
 
@@ -33421,14 +30451,12 @@ Vermächtnis in Höhe des erlangten Vorteils zu tragen.
 den Erbteil des Pflichtteilsberechtigten durch Verfügung von Todes
 wegen zugewendet hat.
 
-
 #### § 2321 Pflichtteilslast bei Vermächtnisausschlagung
 
 Schlägt der Pflichtteilsberechtigte ein ihm zugewendetes Vermächtnis
 aus, so hat im Verhältnis der Erben und der Vermächtnisnehmer
 zueinander derjenige, welchem die Ausschlagung zustatten kommt, die
 Pflichtteilslast in Höhe des erlangten Vorteils zu tragen.
-
 
 #### § 2322 Kürzung von Vermächtnissen und Auflagen
 
@@ -33439,13 +30467,11 @@ Ausschlagung zustatten kommt, das Vermächtnis oder die Auflage soweit
 kürzen, dass ihm der zur Deckung der Pflichtteilslast erforderliche
 Betrag verbleibt.
 
-
 #### § 2323 Nicht pflichtteilsbelasteter Erbe
 
 Der Erbe kann die Erfüllung eines Vermächtnisses oder einer Auflage
 auf Grund des § 2318 Abs. 1 insoweit nicht verweigern, als er die
 Pflichtteilslast nach den §§ 2320 bis 2322 nicht zu tragen hat.
-
 
 #### § 2324 Abweichende Anordnungen des Erblassers hinsichtlich der Pflichtteilslast
 
@@ -33453,7 +30479,6 @@ Der Erblasser kann durch Verfügung von Todes wegen die
 Pflichtteilslast im Verhältnis der Erben zueinander einzelnen Erben
 auferlegen und von den Vorschriften des § 2318 Abs. 1 und der §§ 2320
 bis 2323 abweichende Anordnungen treffen.
-
 
 #### § 2325 Pflichtteilsergänzungsanspruch bei Schenkungen
 
@@ -33475,7 +30500,6 @@ Leistung des verschenkten Gegenstandes verstrichen, bleibt die
 Schenkung unberücksichtigt. Ist die Schenkung an den Ehegatten
 erfolgt, so beginnt die Frist nicht vor der Auflösung der Ehe.
 
-
 #### § 2326 Ergänzung über die Hälfte des gesetzlichen Erbteils
 
 Der Pflichtteilsberechtigte kann die Ergänzung des Pflichtteils auch
@@ -33483,7 +30507,6 @@ dann verlangen, wenn ihm die Hälfte des gesetzlichen Erbteils
 hinterlassen ist. Ist dem Pflichtteilsberechtigten mehr als die Hälfte
 hinterlassen, so ist der Anspruch ausgeschlossen, soweit der Wert des
 mehr Hinterlassenen reicht.
-
 
 #### § 2327 Beschenkter Pflichtteilsberechtigter
 
@@ -33497,14 +30520,12 @@ und der Ergänzung anzurechnen.
 (2) Ist der Pflichtteilsberechtigte ein Abkömmling des Erblassers, so
 findet die Vorschrift des § 2051 Abs. 1 entsprechende Anwendung.
 
-
 #### § 2328 Selbst pflichtteilsberechtigter Erbe
 
 Ist der Erbe selbst pflichtteilsberechtigt, so kann er die Ergänzung
 des Pflichtteils soweit verweigern, dass ihm sein eigener Pflichtteil
 mit Einschluss dessen verbleibt, was ihm zur Ergänzung des
 Pflichtteils gebühren würde.
-
 
 #### § 2329 Anspruch gegen den Beschenkten
 
@@ -33522,13 +30543,11 @@ Betrags abwenden.
 (3) Unter mehreren Beschenkten haftet der früher Beschenkte nur
 insoweit, als der später Beschenkte nicht verpflichtet ist.
 
-
 #### § 2330 Anstandsschenkungen
 
 Die Vorschriften der §§ 2325 bis 2329 finden keine Anwendung auf
 Schenkungen, durch die einer sittlichen Pflicht oder einer auf den
 Anstand zu nehmenden Rücksicht entsprochen wird.
-
 
 #### § 2331 Zuwendungen aus dem Gesamtgut
 
@@ -33542,7 +30561,6 @@ Ehegatten gemacht.
 
 (2) Diese Vorschriften sind auf eine Zuwendung aus dem Gesamtgut der
 fortgesetzten Gütergemeinschaft entsprechend anzuwenden.
-
 
 #### § 2331a Stundung
 
@@ -33559,7 +30577,6 @@ nicht bestritten wird, das Nachlassgericht zuständig. § 1382 Abs. 2
 bis 6 gilt entsprechend; an die Stelle des Familiengerichts tritt das
 Nachlassgericht.
 
-
 #### § 2332 Verjährung
 
 (1) Die Verjährungsfrist des dem Pflichtteilsberechtigten nach § 2329
@@ -33569,7 +30586,6 @@ gegen den Beschenkten zustehenden Anspruchs beginnt mit dem Erbfall.
 2329 wird nicht dadurch gehemmt, dass die Ansprüche erst nach der
 Ausschlagung der Erbschaft oder eines Vermächtnisses geltend gemacht
 werden können.
-
 
 #### § 2333 Entziehung des Pflichtteils
 
@@ -33603,16 +30619,13 @@ wenn der Abkömmling
 (2) Absatz 1 gilt entsprechend für die Entziehung des Eltern- oder
 Ehegattenpflichtteils.
 
-
 #### § 2334 (weggefallen)
 
 -
 
-
 #### § 2335 (weggefallen)
 
 -
-
 
 #### § 2336 Form, Beweislast, Unwirksamwerden
 
@@ -33630,13 +30643,11 @@ geltend macht.
 
 (4) (weggefallen)
 
-
 #### § 2337 Verzeihung
 
 Das Recht zur Entziehung des Pflichtteils erlischt durch Verzeihung.
 Eine Verfügung, durch die der Erblasser die Entziehung angeordnet hat,
 wird durch die Verzeihung unwirksam.
-
 
 #### § 2338 Pflichtteilsbeschränkung
 
@@ -33658,10 +30669,7 @@ zur Zeit des Erbfalls der Abkömmling sich dauernd von dem
 verschwenderischen Leben abgewendet hat oder die den Grund der
 Anordnung bildende Überschuldung nicht mehr besteht.
 
-
 ### Abschnitt 6 - Erbunwürdigkeit
-
-
 
 #### § 2339 Gründe für Erbunwürdigkeit
 
@@ -33695,7 +30703,6 @@ Errichtung der Erblasser bestimmt oder in Ansehung deren die Straftat
 begangen worden ist, unwirksam geworden ist, oder die Verfügung, zu
 deren Aufhebung er bestimmt worden ist, unwirksam geworden sein würde.
 
-
 #### § 2340 Geltendmachung der Erbunwürdigkeit durch Anfechtung
 
 (1) Die Erbunwürdigkeit wird durch Anfechtung des Erbschaftserwerbs
@@ -33708,12 +30715,10 @@ Erbschaft dem Vorerben angefallen ist.
 (3) Die Anfechtung kann nur innerhalb der in § 2082 bestimmten Fristen
 erfolgen.
 
-
 #### § 2341 Anfechtungsberechtigte
 
 Anfechtungsberechtigt ist jeder, dem der Wegfall des Erbunwürdigen,
 sei es auch nur bei dem Wegfall eines anderen, zustatten kommt.
-
 
 #### § 2342 Anfechtungsklage
 
@@ -33724,12 +30729,10 @@ wird.
 (2) Die Wirkung der Anfechtung tritt erst mit der Rechtskraft des
 Urteils ein.
 
-
 #### § 2343 Verzeihung
 
 Die Anfechtung ist ausgeschlossen, wenn der Erblasser dem
 Erbunwürdigen verziehen hat.
-
 
 #### § 2344 Wirkung der Erbunwürdigerklärung
 
@@ -33739,7 +30742,6 @@ als nicht erfolgt.
 (2) Die Erbschaft fällt demjenigen an, welcher berufen sein würde,
 wenn der Erbunwürdige zur Zeit des Erbfalls nicht gelebt hätte; der
 Anfall gilt als mit dem Eintritt des Erbfalls erfolgt.
-
 
 #### § 2345 Vermächtnisunwürdigkeit; Pflichtteilsunwürdigkeit
 
@@ -33752,10 +30754,7 @@ Abs. 2 und der §§ 2341, 2343 finden Anwendung.
 Pflichtteilsberechtigte sich einer solchen Verfehlung schuldig gemacht
 hat.
 
-
 ### Abschnitt 7 - Erbverzicht
-
-
 
 #### § 2346 Wirkung des Erbverzichts, Beschränkungsmöglichkeit
 
@@ -33766,7 +30765,6 @@ wenn er zur Zeit des Erbfalls nicht mehr lebte; er hat kein
 Pflichtteilsrecht.
 
 (2) Der Verzicht kann auf das Pflichtteilsrecht beschränkt werden.
-
 
 #### § 2347 Persönliche Anforderungen, Vertretung
 
@@ -33784,18 +30782,15 @@ kann der Vertrag durch den gesetzlichen Vertreter geschlossen werden;
 die Genehmigung des Familiengerichts oder Betreuungsgerichts ist in
 gleichem Umfang wie nach Absatz 1 erforderlich.
 
-
 #### § 2348 Form
 
 Der Erbverzichtsvertrag bedarf der notariellen Beurkundung.
-
 
 #### § 2349 Erstreckung auf Abkömmlinge
 
 Verzichtet ein Abkömmling oder ein Seitenverwandter des Erblassers auf
 das gesetzliche Erbrecht, so erstreckt sich die Wirkung des Verzichts
 auf seine Abkömmlinge, sofern nicht ein anderes bestimmt wird.
-
 
 #### § 2350 Verzicht zugunsten eines anderen
 
@@ -33808,13 +30803,11 @@ Erbrecht, so ist im Zweifel anzunehmen, dass der Verzicht nur
 zugunsten der anderen Abkömmlinge und des Ehegatten des Erblassers
 gelten soll.
 
-
 #### § 2351 Aufhebung des Erbverzichts
 
 Auf einen Vertrag, durch den ein Erbverzicht aufgehoben wird, findet
 die Vorschrift des § 2348 und in Ansehung des Erblassers auch die
 Vorschrift des § 2347 Abs. 2 Satz 1 erster Halbsatz, Satz 2 Anwendung.
-
 
 #### § 2352 Verzicht auf Zuwendungen
 
@@ -33824,17 +30817,13 @@ verzichten. Das Gleiche gilt für eine Zuwendung, die in einem
 Erbvertrag einem Dritten gemacht ist. Die Vorschriften der §§ 2347 bis
 2349 finden Anwendung.
 
-
 ### Abschnitt 8 - Erbschein
-
-
 
 #### § 2353 Zuständigkeit des Nachlassgerichts, Antrag
 
 Das Nachlassgericht hat dem Erben auf Antrag ein Zeugnis über sein
 Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist,
 über die Größe des Erbteils zu erteilen (Erbschein).
-
 
 #### § 2354 Angaben des gesetzlichen Erben im Antrag
 
@@ -33866,7 +30855,6 @@ Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde, so
 hat der Antragsteller anzugeben, in welcher Weise die Person
 weggefallen ist.
 
-
 #### § 2355 Angaben des gewillkürten Erben im Antrag
 
 Wer die Erteilung des Erbscheins auf Grund einer Verfügung von Todes
@@ -33874,7 +30862,6 @@ wegen beantragt, hat die Verfügung zu bezeichnen, auf der sein
 Erbrecht beruht, anzugeben, ob und welche sonstigen Verfügungen des
 Erblassers von Todes wegen vorhanden sind, und die in § 2354 Abs. 1
 Nr. 1, 5, Abs. 2 vorgeschriebenen Angaben zu machen.
-
 
 #### § 2356 Nachweis der Richtigkeit der Angaben
 
@@ -33896,7 +30883,6 @@ erlassen, wenn es sie für nicht erforderlich erachtet.
 (3) Diese Vorschriften finden keine Anwendung, soweit die Tatsachen
 bei dem Nachlassgericht offenkundig sind.
 
-
 #### § 2357 Gemeinschaftlicher Erbschein
 
 (1) Sind mehrere Erben vorhanden, so ist auf Antrag ein
@@ -33914,7 +30900,6 @@ haben. Die Vorschrift des § 2356 gilt auch für die sich auf die
 sofern nicht das Nachlassgericht die Versicherung eines oder einiger
 von ihnen für ausreichend erachtet.
 
-
 #### § 2358 Ermittlungen des Nachlassgerichts
 
 (1) Das Nachlassgericht hat unter Benutzung der von dem Antragsteller
@@ -33927,18 +30912,15 @@ Anmeldung der anderen Personen zustehenden Erbrechte erlassen; die Art
 der Bekanntmachung und die Dauer der Anmeldungsfrist bestimmen sich
 nach den für das Aufgebotsverfahren geltenden Vorschriften.
 
-
 #### § 2359 Voraussetzungen für die Erteilung des Erbscheins
 
 Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die zur
 Begründung des Antrags erforderlichen Tatsachen für festgestellt
 erachtet.
 
-
 #### § 2360 (weggefallen)
 
 -
-
 
 #### § 2361 Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
 
@@ -33956,7 +30938,6 @@ die öffentlichen Blätter wird die Kraftloserklärung wirksam.
 (3) Das Nachlassgericht kann von Amts wegen über die Richtigkeit eines
 erteilten Erbscheins Ermittlungen veranstalten.
 
-
 #### § 2362 Herausgabe- und Auskunftsanspruch des wirklichen Erben
 
 (1) Der wirkliche Erbe kann von dem Besitzer eines unrichtigen
@@ -33965,7 +30946,6 @@ Erbscheins die Herausgabe an das Nachlassgericht verlangen.
 (2) Derjenige, welchem ein unrichtiger Erbschein erteilt worden ist,
 hat dem wirklichen Erben über den Bestand der Erbschaft und über den
 Verbleib der Erbschaftsgegenstände Auskunft zu erteilen.
-
 
 #### § 2363 Inhalt des Erbscheins für den Vorerben
 
@@ -33979,7 +30959,6 @@ auch dies anzugeben.
 
 (2) Dem Nacherben steht das in § 2362 Abs. 1 bestimmte Recht zu.
 
-
 #### § 2364 Angabe des Testamentsvollstreckers im Erbschein, Herausgabeanspruch des Testamentsvollstreckers
 
 (1) Hat der Erblasser einen Testamentsvollstrecker ernannt, so ist die
@@ -33988,14 +30967,12 @@ Ernennung in dem Erbschein anzugeben.
 (2) Dem Testamentsvollstrecker steht das in § 2362 Abs. 1 bestimmte
 Recht zu.
 
-
 #### § 2365 Vermutung der Richtigkeit des Erbscheins
 
 Es wird vermutet, dass demjenigen, welcher in dem Erbschein als Erbe
 bezeichnet ist, das in dem Erbschein angegebene Erbrecht zustehe und
 dass er nicht durch andere als die angegebenen Anordnungen beschränkt
 sei.
-
 
 #### § 2366 Öffentlicher Glaube des Erbscheins
 
@@ -34008,7 +30985,6 @@ sei denn, dass er die Unrichtigkeit kennt oder weiß, dass das
 Nachlassgericht die Rückgabe des Erbscheins wegen Unrichtigkeit
 verlangt hat.
 
-
 #### § 2367 Leistung an Erbscheinserben
 
 Die Vorschrift des § 2366 findet entsprechende Anwendung, wenn an
@@ -34017,7 +30993,6 @@ Grund eines zur Erbschaft gehörenden Rechts eine Leistung bewirkt oder
 wenn zwischen ihm und einem anderen in Ansehung eines solchen Rechts
 ein nicht unter die Vorschrift des § 2366 fallendes Rechtsgeschäft
 vorgenommen wird, das eine Verfügung über das Recht enthält.
-
 
 #### § 2368 Testamentsvollstreckerzeugnis
 
@@ -34034,7 +31009,6 @@ sein soll, so ist dies in dem Zeugnis anzugeben.
 entsprechende Anwendung; mit der Beendigung des Amts des
 Testamentsvollstreckers wird das Zeugnis kraftlos.
 
-
 #### § 2369 Gegenständlich beschränkter Erbschein
 
 (1) Gehören zu einer Erbschaft auch Gegenstände, die sich im Ausland
@@ -34045,7 +31019,6 @@ Inland befindlichen Gegenstände beschränkt werden.
 Eintragung des Berechtigten bestimmtes Buch oder Register geführt
 wird, gilt als im Inland befindlich. Ein Anspruch gilt als im Inland
 befindlich, wenn für die Klage ein deutsches Gericht zuständig ist.
-
 
 #### § 2370 Öffentlicher Glaube bei Todeserklärung
 
@@ -34067,23 +31040,18 @@ Verschollenheitsgesetzes festgestellt ist, wenn er noch lebt, die im §
 Tod ohne Todeserklärung oder Feststellung der Todeszeit mit Unrecht
 angenommen worden ist.
 
-
 ### Abschnitt 9 - Erbschaftskauf
-
-
 
 #### § 2371 Form
 
 Ein Vertrag, durch den der Erbe die ihm angefallene Erbschaft
 verkauft, bedarf der notariellen Beurkundung.
 
-
 #### § 2372 Dem Käufer zustehende Vorteile
 
 Die Vorteile, welche sich aus dem Wegfall eines Vermächtnisses oder
 einer Auflage oder aus der Ausgleichungspflicht eines Miterben
 ergeben, gebühren dem Käufer.
-
 
 #### § 2373 Dem Verkäufer verbleibende Teile
 
@@ -34093,7 +31061,6 @@ ein dem Verkäufer zugewendetes Vorausvermächtnis ist im Zweifel nicht
 als mitverkauft anzusehen. Das Gleiche gilt von Familienpapieren und
 Familienbildern.
 
-
 #### § 2374 Herausgabepflicht
 
 Der Verkäufer ist verpflichtet, dem Käufer die zur Zeit des Verkaufs
@@ -34102,7 +31069,6 @@ was er vor dem Verkauf auf Grund eines zur Erbschaft gehörenden Rechts
 oder als Ersatz für die Zerstörung, Beschädigung oder Entziehung eines
 Erbschaftsgegenstands oder durch ein Rechtsgeschäft erlangt hat, das
 sich auf die Erbschaft bezog.
-
 
 #### § 2375 Ersatzpflicht
 
@@ -34117,7 +31083,6 @@ Kaufs kennt.
 (2) Im Übrigen kann der Käufer wegen Verschlechterung, Untergangs oder
 einer aus einem anderen Grunde eingetretenen Unmöglichkeit der
 Herausgabe eines Erbschaftsgegenstands nicht Ersatz verlangen.
-
 
 #### § 2376 Haftung des Verkäufers
 
@@ -34134,7 +31099,6 @@ der Verkäufer nicht, es sei denn, dass er einen Mangel arglistig
 verschwiegen oder eine Garantie für die Beschaffenheit des Gegenstands
 übernommen hat.
 
-
 #### § 2377 Wiederaufleben erloschener Rechtsverhältnisse
 
 Die infolge des Erbfalls durch Vereinigung von Recht und
@@ -34142,7 +31106,6 @@ Verbindlichkeit oder von Recht und Belastung erloschenen
 Rechtsverhältnisse gelten im Verhältnis zwischen dem Käufer und dem
 Verkäufer als nicht erloschen. Erforderlichenfalls ist ein solches
 Rechtsverhältnis wiederherzustellen.
-
 
 #### § 2378 Nachlassverbindlichkeiten
 
@@ -34153,7 +31116,6 @@ Nachlassverbindlichkeiten zu erfüllen, soweit nicht der Verkäufer nach
 (2) Hat der Verkäufer vor dem Verkauf eine Nachlassverbindlichkeit
 erfüllt, so kann er von dem Käufer Ersatz verlangen.
 
-
 #### § 2379 Nutzungen und Lasten vor Verkauf
 
 Dem Verkäufer verbleiben die auf die Zeit vor dem Verkauf fallenden
@@ -34163,14 +31125,12 @@ von der Erbschaft zu entrichtenden Abgaben sowie die außerordentlichen
 Lasten, welche als auf den Stammwert der Erbschaftsgegenstände gelegt
 anzusehen sind.
 
-
 #### § 2380 Gefahrübergang, Nutzungen und Lasten nach Verkauf
 
 Der Käufer trägt von dem Abschluss des Kaufs an die Gefahr des
 zufälligen Untergangs und einer zufälligen Verschlechterung der
 Erbschaftsgegenstände. Von diesem Zeitpunkt an gebühren ihm die
 Nutzungen und trägt er die Lasten.
-
 
 #### § 2381 Ersatz von Verwendungen und Aufwendungen
 
@@ -34181,7 +31141,6 @@ hat.
 (2) Für andere vor dem Verkauf gemachte Aufwendungen hat der Käufer
 insoweit Ersatz zu leisten, als durch sie der Wert der Erbschaft zur
 Zeit des Verkaufs erhöht ist.
-
 
 #### § 2382 Haftung des Käufers gegenüber Nachlassgläubigern
 
@@ -34195,7 +31154,6 @@ nicht verpflichtet ist.
 Vereinbarung zwischen dem Käufer und dem Verkäufer ausgeschlossen oder
 beschränkt werden.
 
-
 #### § 2383 Umfang der Haftung des Käufers
 
 (1) Für die Haftung des Käufers gelten die Vorschriften über die
@@ -34208,7 +31166,6 @@ aus dem Kauf als zur Erbschaft gehörend.
 kommt auch dem anderen Teil zustatten, es sei denn, dass dieser
 unbeschränkt haftet.
 
-
 #### § 2384 Anzeigepflicht des Verkäufers gegenüber Nachlassgläubigern, Einsichtsrecht
 
 (1) Der Verkäufer ist den Nachlassgläubigern gegenüber verpflichtet,
@@ -34218,7 +31175,6 @@ Anzeige des Käufers ersetzt.
 
 (2) Das Nachlassgericht hat die Einsicht der Anzeige jedem zu
 gestatten, der ein rechtliches Interesse glaubhaft macht.
-
 
 #### § 2385 Anwendung auf ähnliche Verträge
 

@@ -18,10 +18,7 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 41 G v. 17.12.2008 I 2586
 
-
 ## Abschnitt 1 - Behandlung wertbeständiger und ähnlicher Rechte
-
-
 
 ### § 1 Umstellung wertbeständiger Rechte
 
@@ -47,7 +44,6 @@ ausgedrückt, so kann aus dem Grundstück nur die Zahlung des Betrages
 in Deutscher Mark verlangt werden, auf den der in Reichsmark,
 Rentenmark, Goldmark, ausländischer Währung oder der in einer
 bestimmten Menge von Feingold ausgedrückte Betrag umzurechnen ist.
-
 
 ### § 2 Umgestellte wertbeständige Rechte
 
@@ -81,7 +77,6 @@ Grundstück gerichtet sind, entsprechend.
 (3) Dem Verpflichteten bleibt es unbenommen, sich auf eine andere
 Umstellung zu berufen, wenn er deren Voraussetzungen nachweist.
 
-
 ### § 3 Umstellung anderer wertbeständiger Rechte
 
 (1) Bei sonstigen wertbeständigen Rechten einschließlich den in § 2
@@ -100,7 +95,6 @@ Grundstück zu zahlenden Geldsumme nach dem Gegenwert einer bestimmten
 Geldsumme in ausländischer Währung bestimmt. Die besonderen
 Vorschriften über schweizerische Goldhypotheken bleiben unberührt.
 
-
 ### § 4 Grundbuchvollzug
 
 Die nach den §§ 1 bis 3 eintretenden Änderungen bedürfen zum Erhalt
@@ -110,10 +104,7 @@ Berichtigung, die auch von Amts wegen erfolgen kann, erforderlichen
 Erklärungen abzugeben. Gebühren für die Grundbuchberichtigung werden
 nicht erhoben.
 
-
 ## Abschnitt 2 - Überholte Dienstbarkeiten und vergleichbare Rechte
-
-
 
 ### § 5 Erlöschen von Dienstbarkeiten und vergleichbaren Rechten
 
@@ -146,7 +137,6 @@ zu machen; § 29 der Grundbuchordnung ist nicht anzuwenden.
 (3) Ein nach Maßgabe des Absatzes 1 als erloschen geltendes oder gemäß
 Absatz 2 erloschenes Recht kann von dem Grundbuchamt von Amts wegen
 gelöscht werden.
-
 
 ### § 6 Berechtigte unbekannten Aufenthalts, nicht mehr bestehende Berechtigte
 
@@ -184,15 +174,11 @@ anzuwenden.
 Einigungsvertrages genannten Gebiet. Sie kann im übrigen Bundesgebiet
 durch Rechtsverordnung der Landesregierung in Kraft gesetzt werden.
 
-
 ### § 7
 
 -
 
-
 ## Abschnitt 3 - Nicht eingetragene dingliche Rechte
-
-
 
 ### § 8 Nicht eingetragene Rechte
 
@@ -232,7 +218,6 @@ auf Antrag des Klägers das Grundbuchamt um Eintragung eines
 Rechtshängigkeitsvermerks zugunsten des Klägers. Der Vermerk hat die
 Wirkungen eines Widerspruchs. Er wird mit rechtskräftiger Abweisung
 der Klage gegenstandslos.
-
 
 ### § 9 Leitungen und Anlagen für die Versorgung mit Energie und Wasser sowie die Beseitigung von Abwasser
 
@@ -435,7 +420,6 @@ die Dienstbarkeit im Grundbuch eingetragen ist. Vor diesem Zeitpunkt
 hat der Inhaber der Dienstbarkeit die Kosten einer erforderlichen
 Verlegung zu tragen.
 
-
 ### § 9a
 
 Die in § 9 sowie in den §§ 1 und 4 der Sachenrechts-
@@ -464,10 +448,7 @@ diesem Zeitpunkt in Rechtskraft erwachsene Urteile bleiben unberührt.
 (4) Die Vorschriften der Absätze 1 bis 3 gelten in den Fällen des § 9
 Abs. 2 sinngemäß.
 
-
 ## Abschnitt 4 - Ablösung von Grundpfandrechten
-
-
 
 ### § 10 Ablöserecht
 
@@ -502,10 +483,7 @@ zuletzt geändert durch Artikel 3 Abs. 3 des
 Registerverfahrenbeschleunigungsgesetzes vom 20. Dezember 1993 (BGBl.
 I S. 2182)) bekanntzumachen.
 
-
 ## Abschnitt 5 - Sonstige Erleichterungen
-
-
 
 ### § 11 Ausnahmen von der Voreintragung des Berechtigten
 
@@ -522,7 +500,6 @@ Vermögenszuordnungsgesetzes ergangen ist, sowie für Verfügungen nach §
 (2) Bis zum Ablauf des 31. Dezember 1999 ist in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet § 40 Abs. 1 der Grundbuchordnung
 für Belastungen entsprechend anzuwenden.
-
 
 ### § 12 Nachweis der Rechtsnachfolge bei Genossenschaften
 
@@ -547,7 +524,6 @@ zu, der ihr nicht zukommt, so gelten die Vorschriften des Bürgerlichen
 Gesetzbuchs über den Ausgleich einer ungerechtfertigten Bereicherung
 entsprechend.
 
-
 ### § 13 Dingliche Rechte im Flurneuordnungsverfahren
 
 In Verfahren nach dem 8. Abschnitt des
@@ -557,7 +533,6 @@ belastenden Recht aufgehoben, geändert oder neu begründet werden. Die
 Bestimmung über die Eintragung eines Zustimmungsvorbehalts für
 Veräußerungen in § 6 Abs. 4 des Bodensonderungsgesetzes ist
 entsprechend anzuwenden.
-
 
 ### § 14 Gemeinschaftliches Eigentum von Ehegatten
 
@@ -575,7 +550,6 @@ werden; die Erklärung, die Versicherung und der Antrag bedürfen nicht
 der in § 29 der Grundbuchordnung vorgeschriebenen Form. Die
 Berichtigung ist in allen Fällen des Artikels 234 § 4a des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche gebührenfrei.
-
 
 ### § 15 Aufgebotsverfahren nach § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes
 

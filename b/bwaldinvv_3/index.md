@@ -15,8 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 954
 
-
-
 ## Eingangsformel
 
 Auf Grund des § 41a Abs. 4 des Bundeswaldgesetzes vom 2. Mai 1975
@@ -24,13 +22,11 @@ Auf Grund des § 41a Abs. 4 des Bundeswaldgesetzes vom 2. Mai 1975
 Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), verordnet das
 Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
 ## § 1 Zeitpunkt
 
 In der Zeit vom 1. April 2011 bis zum Ablauf des 31. Dezember 2012
 wird eine Bundeswaldinventur durchgeführt. Stichtag für die Auswertung
 der Daten ist der 1. Oktober 2012.
-
 
 ## § 2 Stichprobenverfahren
 
@@ -41,7 +37,6 @@ Deutschland in dem für die Zwecke der Zweiten Bundeswaldinventur-
 Verordnung vom 28. Mai 1998 (BGBl. I S. 1180) verwendeten 4 x 4 km-
 Quadratverband durchzuführen. Verdichtungen sind nach Maßgabe der
 Anlage vorzunehmen.
-
 
 ## § 3 Grunddaten
 
@@ -80,25 +75,18 @@ beschrieben:
 
 11. Bodennutzung auf Nichtholzboden, Aufforstung und Umwandlung.
 
-
-
-
-
 ## § 4
 
 -
-
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft und mit
 Ablauf des 31. Dezember 2014 außer Kraft.
 
-
 ## Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 
 ## Anlage (zu § 2 Satz 2) Verdichtung der Bundeswaldinventur
 
